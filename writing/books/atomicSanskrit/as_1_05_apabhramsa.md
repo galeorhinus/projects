@@ -94,7 +94,7 @@ The response is the grammatical and recitational architecture. The *Aṣṭādhy
 
 Chapter 1's English example — *hlāfweard* becoming *laverd*, then *lorde*, then *Lord* — is exactly the kind of drift Patañjali labels *apabhraṃśa*. The phenomenon is not foreign to Sanskrit analysis. The difference is civilizational response. English absorbed the drift and kept moving. Sanskrit diagnosed the drift and built against it.
 
-The deeper design choice is visible in the form of the Vedic corpus. *Apabhraṃśa* can occur anywhere: any speaker, any utterance, any moment. The engineering answers a universal failure mode with two linked constraints: ***chandas*** (छन्दस्), metrical form, and ***śruti*** (श्रुति), heard transmission. *Chandas* makes phonetic drift show up as metrical mismatch. *Śruti* makes perceptual drift audible to teacher, student, and audience as the recitation happens. Meter and hearing make quiet drift difficult. *Guru-shishya paramparā* makes correction continuous.
+The deeper design choice is visible in the form of the Vedic corpus. *Apabhraṃśa* can occur anywhere: any speaker, any utterance, any moment. The engineering answers a universal failure mode with two linked constraints: ***chandas*** (छन्दस्), metrical form, and ***śruti*** (श्रुति), heard transmission. *Chandas* makes phonetic drift show up as metrical mismatch. *Śruti* makes perceptual drift audible to teacher, student, and audience as the recitation happens. Meter and hearing make quiet drift difficult. The *guru-shishya* lineage-chain makes correction continuous.
 
 Poetry, recitation, meter, and lineage are not cultural ornaments. They are the anti-entropy architecture.
 
@@ -110,7 +110,7 @@ The four Vedas differ because they serve different functions: hymnic invocation,
 
 The pattern is consistent. The pyramid's account turns difference into time. Sanskrit's own architecture assigns difference to function, mode, recension, option, meter, or transmission stream. Difference is not drift until the mechanism of drift is shown. The account usually supplies the label, not the mechanism.
 
-This matters because the standard story needs Vedic Sanskrit to have changed. Without change, the migration-and-borrowing machinery loses its operating premise. The engineering thesis does not deny variation. It denies that variation is automatically entropy.
+This matters because the pyramid's account needs Vedic Sanskrit to have changed. Without change, the migration-and-borrowing machinery loses its operating premise. The engineering thesis does not deny variation. It denies that variation is automatically entropy.
 
 **Appendix Part 7 — *The Vedic Carrier*** develops each of the dogma's eight drift-claims with its specific example and tabulates the engineering-mode response, after walking three load-bearing Ṛgvedic verses phrase-by-phrase to demonstrate the implicit grammar in operation in the corpus form. The polemic-critical observation landing at the appendix's center: *chandas* (छन्दस्) means *meter*; the *chandas* mode is the metrical mode; everything that distinguishes the *chandas* mode from the *bhāṣā* mode is, fundamentally, what the meter requires.
 

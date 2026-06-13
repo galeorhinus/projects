@@ -22,7 +22,7 @@ The glossary is organized in three groups:
 
 ## 1. Engineering core vocabulary
 
-> **How to read the pairs below.** Each entry binds a Sanskrit term to its English equivalent. The Sanskrit is primary in tradition, recitation, and grammar; the English carries the engineering and chemistry idiom. Neither is decoration. They name one object from two directions — *dhātuḥ* and *atom* are not a word and its translation, but one constituent seen from the *paramparā*'s side and from the engineer's.
+> **How to read the pairs below.** Each entry binds a Sanskrit term to its English equivalent. The Sanskrit is primary in lineage, recitation, and grammar; the English carries the engineering and chemistry idiom. Neither is decoration. They name one object from two directions — *dhātuḥ* and *atom* are not a word and its translation, but one constituent seen from the lineage-chain's side and from the engineer's.
 
 ### **varṇa** (वर्ण) / **varṇāḥ** (वर्णाः)
 
@@ -150,9 +150,9 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **paramparā** (परम्परा)
 
-**Standard.** The unbroken chain; the lineage of transmission. *Guru-shishya paramparā* — the teacher-student transmission chain. The book's term-of-art for the durable transmission architecture that holds Sanskrit across thousands of years.
+**Standard.** The unbroken lineage-chain and transmission-chain through which knowledge is carried across generations. *Guru-shishya paramparā* — the teacher-student transmission chain. At system scale, *paramparā* is distributed transmission architecture: vertical lineage-chains preserving custody across generations, and horizontal transmission-networks moving knowledge across villages, towns, assemblies, and regions.
 
-**English pair**: *lineage* / *chain*. Used interchangeably; *paramparā* preserved for moments where the specific Indic continuum is the central claim.
+**English pair**: *lineage* / *chain*; at architectural scale, *transmission architecture* / *transmission network*. In this book, *paramparā* does not mean "tradition" as inherited custom. It names the Indic continuity mechanism itself.
 
 ### **śruti** (श्रुति) / **smṛti** (स्मृति)
 
@@ -188,7 +188,7 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **devabhāṣā** (देवभाषा)
 
-**Standard (paramparā epithet), book-elevated.** *The language of the devas* — the radiant ones. The paramparā name for Sanskrit. The book treats this as more than ornament: it captures what the language *did* — carried light outward, calibrating other languages across the depth of time. The radiative function is a descriptive claim about how Sanskrit operated on the surrounding subcontinental and Indo-European sound-fields, not a poetic gesture. Chapter 0 §0.3 establishes; deployed as a recurring frame.
+**Standard lineage epithet, book-elevated.** *The language of the devas* — the radiant ones. The lineage-name for Sanskrit. The book treats this as more than ornament: it captures what the language *did* — carried light outward, calibrating other languages across the depth of time. The radiative function is a descriptive claim about how Sanskrit operated on the surrounding subcontinental and Indo-European sound-fields, not a poetic gesture. Chapter 0 §0.3 establishes; deployed as a recurring frame.
 
 ### **jijñāsā** (जिज्ञासा)
 
@@ -196,7 +196,7 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **apauruṣeyatva** (अपौरुषेयत्व)
 
-**Standard.** The *Mīmāṃsā* doctrine of the *Vedas* as not-of-human-authorship. The architecture observable today is what the eternal *śabda* manifests. Established in Jaimini's *Mīmāṃsā Sūtra* 1.1.5, Śabara's *Bhāṣya*, Kumārila's *Ślokavārttika*. Load-bearing for the book's engineering thesis — the *Vedas* as the encoded form, the *dṛṣṭāḥ* as the *paramparā*-internal conduit, no separate human designing-agent class.
+**Standard.** The *Mīmāṃsā* doctrine of the *Vedas* as not-of-human-authorship. The architecture observable today is what the eternal *śabda* manifests. Established in Jaimini's *Mīmāṃsā Sūtra* 1.1.5, Śabara's *Bhāṣya*, Kumārila's *Ślokavārttika*. Load-bearing for the book's engineering thesis — the *Vedas* as the encoded form, the *dṛṣṭāḥ* as the lineage-internal conduit, no separate human designing-agent class.
 
 ### **dṛṣṭāḥ** (दृष्टाः)
 
@@ -208,7 +208,7 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **apabhraṃśa** (अपभ्रंश) / **apabhraṃśāḥ** (अपभ्रंशाः)
 
-**Standard, book-elevated.** *Falling-away*; decay-variant; entropy-product. The paramparā vocabulary for what deviates from the *siddha* form. Patañjali's *Mahābhāṣya* labels it explicitly; the lineage recognizes *apabhraṃśa* as the natural product of ordinary speech that the calibration architecture is designed to refuse. The dogma mistakes *apabhraṃśa* for Sanskrit's nature; the architecture treats *apabhraṃśa* as exactly the entropy the engineering is built against. Preface deploys; Chapter 5 develops; the *gauḥ → gāvī / goṇī / gotā* example anchors the concept concretely.
+**Standard, book-elevated.** *Falling-away*; decay-variant; entropy-product. The lineage vocabulary for what deviates from the *siddha* form. Patañjali's *Mahābhāṣya* labels it explicitly; the lineage recognizes *apabhraṃśa* as the natural product of ordinary speech that the calibration architecture is designed to refuse. The dogma mistakes *apabhraṃśa* for Sanskrit's nature; the architecture treats *apabhraṃśa* as exactly the entropy the engineering is built against. Preface deploys; Chapter 5 develops; the *gauḥ → gāvī / goṇī / gotā* example anchors the concept concretely.
 
 ### **Dhātupāṭha** (धातुपाठ)
 
@@ -368,7 +368,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 **Standard English; book-controlled deployment.** Specific senses lock:
 - ***Engineered*** (engineering thesis): empirical-descriptive judgment about what is observable today in the *varṇamālā* / *Dhātupāṭha* / calibration matrix.
-- ***Encoded***: the *Vedas* preserve the engineering in *chandas* + *śruti* + *paramparā* form, immutable across generations.
+- ***Encoded***: the *Vedas* preserve the engineering through *chandas* + *śruti* + lineage-chain form, immutable across generations.
 - ***Decoded***: what the *vaiyākaraṇāḥ* (Pāṇini, Patañjali, Yaska, the pre-Pāṇinian roster) did — recovered the explicit specification from the encoded corpus.
 - ***Codified*** (the pyramid's misnaming): scare-quoted; runs in the wrong structural direction.
 

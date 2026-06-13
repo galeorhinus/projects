@@ -6,7 +6,7 @@
 
 ## What this project is
 
-A trade-nonfiction polemic on the engineered architecture of *saṃskṛtam* — *perfectly synthesized* or *wholly created* — and the dismantling of the Western philological framework that has held its dogma against thousands of years of *guru-shishya paramparā* worth of evidence. The book argues that Sanskrit was engineered, that the engineered Sanskrit thesis explains what migration-and-decay accounts cannot, and that the racial Arya thesis, the PIE reconstruction project, and the family-tree taxonomy of Indian languages are all unvalidated inferences the book unbuilds.
+A trade-nonfiction polemic on the engineered architecture of *saṃskṛtam* — *perfectly synthesized* or *wholly created* — and the dismantling of the Western philological framework that has held its dogma against thousands of years of *guru-shishya* lineage-chain evidence. The book argues that Sanskrit was engineered, that the engineered Sanskrit thesis explains what migration-and-decay accounts cannot, and that the racial Arya thesis, the PIE reconstruction project, and the family-tree taxonomy of Indian languages are all unvalidated inferences the book unbuilds.
 
 Target: ~115,000 prose words + ~5,000 endnotes ≈ ~120,000 manuscript (raised 2026-05-31 from the earlier 90k target; the architectural chapters and the prosecutorial arc need the depth they carry). 18 chapters across six parts plus Preface and Epilogue. Voice = Parag Tope: analytical, argumentative non-fiction, engineer's mind, Indic civilizational frame.
 
@@ -106,19 +106,19 @@ These apply to every draft, every edit, every session. The full versions live in
 
 ### Chronology — category before calendar for Indic, dates fine for non-Indic
 
-Never use chronological dating for anything Indian: no centuries, no "two thousand years ago," no "by the time of [Pāṇini / the Vedas]." Internal-frame ordering is fine: *before Pāṇini*, *after Patañjali*, *the Prātiśākhya tradition that preceded him*.
+Never use chronological dating for anything Indian: no centuries, no "two thousand years ago," no "by the time of [Pāṇini / the Vedas]." Internal-frame ordering is fine: *before Pāṇini*, *after Patañjali*, *the Prātiśākhya discipline that preceded him*.
 
-**Three-tier vocabulary by depth band.** When the prose needs to gesture at temporal depth without dating, pick the band-appropriate phrase. The asymmetry is deliberate: the recent / colonial period is close enough to count in generations of human transmission; the medieval band is a multi-generational *paramparā* depth; the BCE band is past honest counting.
+**Three-tier vocabulary by depth band.** When the prose needs to gesture at temporal depth without dating, pick the band-appropriate phrase. The asymmetry is deliberate: the recent / colonial period is close enough to count in generations of human transmission; the medieval band is a multi-generational lineage-chain depth; the BCE band is past honest counting.
 
 | Depth band | Vocabulary | Examples of what falls here |
 |---|---|---|
-| **Recent** — what is within the last few hundred years | *many generations*, *many generations within memory*, *across many generations of guru-shishya paramparā* | the dharmic tradition's response to the colonial framework; Savarkar-era reform; the continuing recitation lineages today |
-| **Middle** — the pyramid's medieval / post-classical bracket | *dozens of generations*, *many generations of paramparā the tradition carries*, *across the pre-Independence centuries* (when an external anchor is needed) | Mahābhāṣya / Vedāṅga commentarial chains operating across the medieval bracket; Islamic-period suppressions and recoveries; the Sultanate / Mughal interregnum's effect on dharmic continuity |
-| **Deep** — what the pyramid back-dates into BCE | **always *thousands of years*** as the primary phrase; secondary forms (*long before [external reference point]*, *for as long as the civilization has remembered itself*) only when "thousands of years" has just appeared and the prose needs variation in the same paragraph | Pāṇini, the Vedas, the Prātiśākhya tradition, the Mitanni evidence, the *Itihāsa* corpus, the Aṣṭāvakra-Bandin episode, the architects of Sanskrit |
+| **Recent** — what is within the last few hundred years | *many generations*, *many generations within memory*, *across many generations of guru-shishya lineage-chain* | the dharmic continuum's response to the colonial framework; Savarkar-era reform; the continuing recitation lineages today |
+| **Middle** — the pyramid's medieval / post-classical bracket | *dozens of generations*, *many generations carried by the lineage-chain*, *across the pre-Independence centuries* (when an external anchor is needed) | Mahābhāṣya / Vedāṅga commentarial chains operating across the medieval bracket; Islamic-period suppressions and recoveries; the Sultanate / Mughal interregnum's effect on dharmic continuity |
+| **Deep** — what the pyramid back-dates into BCE | **always *thousands of years*** as the primary phrase; secondary forms (*long before [external reference point]*, *for as long as the civilization has remembered itself*) only when "thousands of years" has just appeared and the prose needs variation in the same paragraph | Pāṇini, the Vedas, the Prātiśākhya discipline, the Mitanni evidence, the *Itihāsa* corpus, the Aṣṭāvakra-Bandin episode, the architects of Sanskrit |
 
-**The unit matters.** The recent / middle bands measure in *generations* — the *guru-shishya paramparā* unit, which lands the transmission-as-mechanism frame the book carries. The deep band measures in *years* and *ages* because generations stop being a counting unit at that depth. Do not say "thousands of years of *paramparā*" — the depth has overflowed the generation-unit. Do not say "many generations" for Pāṇini — Pāṇini is in the deep band.
+**The unit matters.** The recent / middle bands measure in *generations* — the *guru-shishya* lineage-chain unit, which lands the transmission-as-mechanism frame the book carries. The deep band measures in *years* and *ages* because generations stop being a counting unit at that depth. Do not say "thousands of years of *paramparā*" — the depth has overflowed the generation-unit. Do not say "many generations" for Pāṇini — Pāṇini is in the deep band.
 
-**Internal-frame ordering still trumps depth-vocabulary.** When the relative ordering between Indic figures is the point, use *before Pāṇini* / *the Prātiśākhya tradition that preceded him* / *after Patañjali* and skip the depth-vocabulary entirely. The depth phrases are for when external readers need a temporal gesture; the internal frame already orders things relatively.
+**Internal-frame ordering still trumps depth-vocabulary.** When the relative ordering between Indic figures is the point, use *before Pāṇini* / *the Prātiśākhya discipline that preceded him* / *after Patañjali* and skip the depth-vocabulary entirely. The depth phrases are for when external readers need a temporal gesture; the internal frame already orders things relatively.
 
 Dating Greek, Roman, Arabic, Tibetan, Chinese, European, and other non-Indic figures, texts, and events is fine and often required. Schleicher's family-tree theory in the 1860s; *Proto-Indo-European* stabilizing as a term by 1905; the *PIE* abbreviation entering routine usage mid-twentieth-century. These are external, datable, and the dates are part of the argument.
 
@@ -246,7 +246,7 @@ The book's central technical vocabulary has parallel Sanskrit and English forms.
 **Five deployment rules.**
 
 1. **First-use anchor within each chapter.** Pair both forms once on the term's first appearance in the chapter: *"the dhātuḥ — the atom"*. After that, either form alone is fine.
-2. **Context decides default.** *Engineering / chemistry / architecture / polemic* sentences → English-primary, Sanskrit anchor where useful. *Tradition / Pāṇini / grammar / paramparā* sentences → Sanskrit-primary, English gloss where useful. *Identity-claim sentences* ("X is Y") → both forms, with the equality flagged: *"the **dhātuḥ** is the atom"*.
+2. **Context decides default.** *Engineering / chemistry / architecture / polemic* sentences → English-primary, Sanskrit anchor where useful. *Lineage / Pāṇini / grammar / paramparā* sentences → Sanskrit-primary, English gloss where useful. *Identity-claim sentences* ("X is Y") → both forms, with the equality flagged: *"the **dhātuḥ** is the atom"*.
 3. **Alternate within paragraphs.** Don't repeat the same form three sentences in a row. Alternation keeps rhythm and silently reinforces the identity claim that the Sanskrit term and the English term name the same thing.
 4. **Plurality matters.** *Dhātuḥ* (singular) and *dhātavaḥ* (plural) are distinct forms; *atom* / *atoms* pair onto them. The Sanskrit plural sometimes carries corpus-anchor weight (*the 2,168 dhātavaḥ of the Dhātupāṭha*) that "atoms" doesn't. Use whichever form fits the local sentence.
 5. **Plain-text fallback.** If a sentence doesn't need the technical term to land its point, use the plainer English term. Save the Sanskrit weight for moments where its specific connotation adds something. Don't make every reference a glossary entry.
@@ -411,7 +411,7 @@ The pattern: **ABSTRACT NOUN + VERB-OF-POSITION-TAKING**. The abstract noun (*po
 | *"It is the dogma's vocabulary the contesting position refuses outright."* | *"**Codification** is the dogma's invention. The Sanskrit word is **vyākaraṇam** — *unfolding apart*. The two name opposite operations."* |
 | *"The position the book advances rejects the codification claim."* | *"Pāṇini did not codify. He decoded. The pyramid reversed the direction."* |
 | *"The argument concedes that documentation occurred, but refuses the codification framing as a matter of structure."* | *"Documentation happened. Codification did not. The architects engineered; Pāṇini decoded; the pyramid renamed the decoding as codification."* |
-| *"The reading the chapter develops holds that the Vedas encode the architecture."* | *"The Vedas encode the architecture. *Chandas* + *śruti* + *paramparā* carry the encoding across generations."* |
+| *"The reading the chapter develops holds that the Vedas encode the architecture."* | *"The Vedas encode the architecture. *Chandas* + *śruti* + the lineage-chain carry the encoding across generations."* |
 | *"The view this book takes is that engineering implies engineers."* | *"Engineering implies engineers. The architects are unknown. The documenters came later."* |
 
 **What to do instead:**
@@ -472,7 +472,7 @@ The two sides of the book's central opposition (Sanskrit's engineering vs. the p
 - ***infrastructure*** — engineered, foundational; *the Vedāṅga infrastructure*, *the calibration infrastructure*.
 - ***constellation*** — pattern of fixed/eternal points (connects to *sanātan*); *the constellation of dhātus*, *the engineered constellation*.
 - ***grid*** — already in use for the *varṇamālā*'s 5×5 *varga* grid and the *racanā* × *gaṇa* matrix; engineering idiom.
-- ***fabric*** — woven, integrated, holistic; *the fabric of the paramparā*.
+- ***fabric*** — woven, integrated, holistic; *the fabric of the transmission architecture*.
 - ***engine*** — generative, productive; *Pāṇini's generative engine*, *the affixation engine*.
 - ***system*** — slightly engineering-leaning; safe Sanskrit-side use.
 
@@ -494,7 +494,10 @@ The two sides of the book's central opposition (Sanskrit's engineering vs. the p
 
 | What is being named | English (default — used in prose) | Sanskrit (paired anchor on first use; standalone only when surrounding prose is Sanskrit-paired) |
 |---|---|---|
-| transmission chain | the chain / the unbroken chain | *paramparā* |
+| teacher-student transmission | the *guru-shishya* lineage-chain / teacher-student lineage-chain | *guru-shishya paramparā* |
+| unbroken custody across generations | the lineage-chain / transmission-chain / unbroken chain | *paramparā* |
+| distributed social circulation of knowledge | the transmission-network | *paramparā* at social scale |
+| whole preservation system | the transmission architecture / distributed transmission architecture | *paramparā* at architectural scale |
 | school of teaching | the school / the teaching lineage | *sampradāya* |
 | received textual corpus | the received corpus | *āmnāya* |
 | arrived scripture | the arrived teaching | *āgama* |
@@ -509,7 +512,7 @@ The two sides of the book's central opposition (Sanskrit's engineering vs. the p
 | primary heard corpus | the heard / aural | *śruti* |
 | secondary remembered corpus | the remembered / mnemonic | *smṛti* |
 
-**Deployment pattern.** Pair English + Sanskrit on first use in a chapter: *the chain (paramparā)*, *the school (sampradāya)*, *the discipline (śāstra)*. Subsequent uses in the same chapter run the English term alone. Where the surrounding prose is already Sanskrit-paired (the *vyākaraṇam* / *Aṣṭādhyāyī* / *dhātupāṭha* idiom), the Sanskrit word stands alone. Don't sweep blindly — *tradition* used for the pyramid side or for external religious continuities is correct and stays; the rule applies where *tradition* is naming the Indic apparatus.
+**Deployment pattern.** Pair English + Sanskrit on first use in a chapter: *the lineage-chain (paramparā)*, *the school (sampradāya)*, *the discipline (śāstra)*. Subsequent uses in the same chapter normally run the English term alone. Use *lineage-chain* or *transmission-chain* when the point is vertical custody across generations. Use *transmission-network* when the point is horizontal circulation through places, households, teachers, debates, reciters, patronage, travel, and social support. Use *transmission architecture* when the point is the whole preservation system. Where the surrounding prose is already Sanskrit-paired (the *vyākaraṇam* / *Aṣṭādhyāyī* / *dhātupāṭha* idiom), the Sanskrit word can stand alone. Don't sweep blindly — *tradition* used for the pyramid side or for external religious continuities is correct and stays; the rule applies where *tradition* is naming the Indic apparatus.
 
 **The engineering case specifically.** *The engineering tradition* → ***the engineering discipline*** (English default). When the surrounding prose is already running in Sanskrit-paired idiom: *the engineering śāstra* / *vyākaraṇam*. Sanskrit's engineering is *Sanātan*, not handed-over.
 
@@ -517,7 +520,7 @@ The two sides of the book's central opposition (Sanskrit's engineering vs. the p
 
 | Banned (Indic side) | Convert to |
 |---|---|
-| the Sanskrit tradition | the Sanskrit continuum / the unbroken chain (paramparā) / the discipline — by context |
+| the Sanskrit tradition | the Sanskrit continuum / the lineage-chain / the transmission architecture / the discipline — by context |
 | the Indic tradition | the Indic continuum / Sanātan |
 | the dharmic tradition | the dharmic continuum |
 | the vyākaraṇa tradition | the vyākaraṇa discipline |
@@ -530,13 +533,13 @@ The two sides of the book's central opposition (Sanskrit's engineering vs. the p
 | the recitation tradition | the recitation branches / the recitation lineages / the eleven *pāṭha* lineages |
 | the recitation tradition (single named) | the *śākhā* / the branch |
 | the Vedic tradition | the Vedic corpus / the heard corpus (śruti) / the Vedic discipline — by context |
-| the Sanskritic tradition | the Sanskrit continuum / Sanskrit's paramparā |
+| the Sanskritic tradition | the Sanskrit continuum / Sanskrit's transmission architecture |
 | the Pāṇinian tradition | the Pāṇinian discipline / Pāṇini's decoding |
 | the engineering tradition | the engineering discipline |
-| the guru-shishya tradition | the guru-shishya *paramparā* |
-| the paramparā tradition | *paramparā* (drop the redundant *tradition*) |
+| the guru-shishya tradition | the *guru-shishya* lineage-chain |
+| the paramparā tradition | the lineage-chain / transmission-chain / transmission architecture (by context) |
 | the dharmic-tradition figures | the dharmic figures / figures within Sanātan |
-| an Indic-tradition figure | a figure within Sanātan / a *paramparā*-internal figure |
+| an Indic-tradition figure | a figure within Sanātan / a lineage-internal figure |
 
 **Reserved for pyramid side (keep *tradition* and *doctrine* / *doctrinal*):** the Christian / Jewish / Islamic tradition; the Abrahamic tradition; the Western philological tradition; the pyramid's tradition; the doctrinal stratum (the *progressive dogma* / *foundational dogma* cluster terminology).
 
@@ -558,18 +561,18 @@ The book's polemic on Sanskrit's character operates on a precise four-term stack
 
 | Term | Subject | Direction | Activity |
 |---|---|---|---|
-| ***Engineered*** | The Vedas (what the *dṛṣṭāḥ* saw, observed today) | manifest | The architecture observable today in the Vedas — *varṇamālā*, *dhātupāṭha*, the grammatical system, the calibration matrix. ***Engineered* is an empirical-descriptive judgment** about what is observable in the Vedas from our vantage today, not a historical-active claim that an agent-class performed engineering. Sanskrit is the linguistic form the Vedas instantiate; Sanskrit inherits *engineered* because the Vedas display engineering. The *dṛṣṭāḥ* (दृष्टाः, *seers*) are the *paramparā*-named human conduit who received the Vedas; they are *mantra-dṛṣṭāḥ*, not *mantra-kartṛs*. No separate agent-class is hypothesized between the eternal *śabda* and the *dṛṣṭāḥ*; the *Mīmāṃsā* doctrine of *apauruṣeyatva* (अपौरुषेयत्व — Jaimini's *Mīmāṃsā Sūtra* 1.1.5, Śabara's *Bhāṣya*, Kumārila's *Ślokavārttika*) is the *paramparā*'s own anchor for this position. The engineering thesis is the empirical face of *apauruṣeyatva*: what we observe today as engineering is what the eternal *śabda* manifests as. |
-| ***Encoded*** | The Vedas | embedding | carry the engineering into a **transmissible and immutable** form via *chandas* (छन्दस्) + *śruti* (श्रुति) + *guru-shishya paramparā* (गुरुशिष्यपरम्परा). Transmissible — passes across generations via *śruti*. Immutable — does not drift, because *chandas* operates as a cryptographic-hash-like check on the recitation and the audience-as-verifier catches deviation in real time. The encoding is visible, not concealed — anyone fluent in Sanskrit can read it. |
-| ***Decoded*** | Yaska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, the pre-Pāṇinian grammarian roster, Pāṇini, the *Prātiśākhya* / *Śikṣā* / *Mīmāṃsā* traditions | extraction | recover the explicit specification from the encoded corpus. *Vyākaraṇam* (व्याकरणम्, *unfolding apart*) is the Sanskrit tradition's own word for what the *vaiyākaraṇāḥ* did. |
+| ***Engineered*** | The Vedas (what the *dṛṣṭāḥ* saw, observed today) | manifest | The architecture observable today in the Vedas — *varṇamālā*, *dhātupāṭha*, the grammatical system, the calibration matrix. ***Engineered* is an empirical-descriptive judgment** about what is observable in the Vedas from our vantage today, not a historical-active claim that an agent-class performed engineering. Sanskrit is the linguistic form the Vedas instantiate; Sanskrit inherits *engineered* because the Vedas display engineering. The *dṛṣṭāḥ* (दृष्टाः, *seers*) are the lineage-named human conduit who received the Vedas; they are *mantra-dṛṣṭāḥ*, not *mantra-kartṛs*. No separate agent-class is hypothesized between the eternal *śabda* and the *dṛṣṭāḥ*; the *Mīmāṃsā* doctrine of *apauruṣeyatva* (अपौरुषेयत्व — Jaimini's *Mīmāṃsā Sūtra* 1.1.5, Śabara's *Bhāṣya*, Kumārila's *Ślokavārttika*) is the lineage-chain's own anchor for this position. The engineering thesis is the empirical face of *apauruṣeyatva*: what we observe today as engineering is what the eternal *śabda* manifests as. |
+| ***Encoded*** | The Vedas | embedding | carry the engineering into a **transmissible and immutable** form via *chandas* (छन्दस्) + *śruti* (श्रुति) + *guru-shishya* lineage-chain (गुरुशिष्यपरम्परा). Transmissible — passes across generations via *śruti*. Immutable — does not drift, because *chandas* operates as a cryptographic-hash-like check on the recitation and the audience-as-verifier catches deviation in real time. The encoding is visible, not concealed — anyone fluent in Sanskrit can read it. |
+| ***Decoded*** | Yaska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, the pre-Pāṇinian grammarian roster, Pāṇini, the *Prātiśākhya* / *Śikṣā* / *Mīmāṃsā* disciplines | extraction | recover the explicit specification from the encoded corpus. *Vyākaraṇam* (व्याकरणम्, *unfolding apart*) is Sanskrit's own disciplinary word for what the *vaiyākaraṇāḥ* did. |
 | ***Codified*** *(the pyramid's misnaming — scare-quoted only)* | (the pyramid attributes to Pāṇini) | imposition | falsely credits Pāṇini with bringing order to disorder. Runs in the wrong structural direction — *codified* presumes the codifier as the order-maker; *decoded* presumes the architects as the order-makers and Pāṇini as the analyst. |
 
 **Polemic move.** *Codified* and *decoded* are near-antonyms operating on the same kind of object. The pyramid's "codified" mistakes the direction; the book restores the correct direction with "decoded." The four-term stack lands the structural point in a single sentence: ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.***
 
-**Never use *encrypted*.** The architecture is openly engineered into the Vedas; the encoding is not concealment. *Encrypted* suggests hidden / occult / esoteric — exactly the wrong frame. The Vedas encode the architecture in the same sense a blueprint encodes a building's design: openly, systematically, recoverable by anyone with the analytical tools. The Sanskrit tradition has always had those tools (the analytical disciplines — *vyākaraṇam*, *nirukta*, *chandas*, *śikṣā*, *Mīmāṃsā*); the pyramid refuses to use them.
+**Never use *encrypted*.** The architecture is openly engineered into the Vedas; the encoding is not concealment. *Encrypted* suggests hidden / occult / esoteric — exactly the wrong frame. The Vedas encode the architecture in the same sense a blueprint encodes a building's design: openly, systematically, recoverable by anyone with the analytical tools. The Sanskrit lineage has always had those tools (the analytical disciplines — *vyākaraṇam*, *nirukta*, *chandas*, *śikṣā*, *Mīmāṃsā*); the pyramid refuses to use them.
 
 **Documented** remains acceptable as a *secondary* term — the writing-down act, distinct from the decoding/analyzing act. *Pāṇini documented the rules of his decoding* is fine; *Pāṇini documented Sanskrit* (without naming what he was documenting) flattens the polemic. Prefer *decoded* in the standing polemic phrase and the load-bearing prose; reserve *documented* for the specific writing-down operation.
 
-**Deployment pattern.** The standing polemic phrase is now **Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.** All five disciplines (*vyākaraṇam*, *nirukta*, *chandas*, *śikṣā*, *Mīmāṃsā*) are framed as *decoding traditions* operating on what the Vedas encode. Anywhere the pyramid's *codification* claim is named, it should be contested with *decoded* / *decoding* as the structurally correct verb.
+**Deployment pattern.** The standing polemic phrase is now **Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.** All five disciplines (*vyākaraṇam*, *nirukta*, *chandas*, *śikṣā*, *Mīmāṃsā*) are framed as *decoding disciplines* operating on what the Vedas encode. Anywhere the pyramid's *codification* claim is named, it should be contested with *decoded* / *decoding* as the structurally correct verb.
 
 ---
 
@@ -583,7 +586,7 @@ These appear identically across the manuscript. Don't paraphrase.
 
 The dual translation is load-bearing. The endnote `samskrtam-morphology` (in `as_endnotes.md`) captures the rationale.
 
-**Engineering thesis framing:** ***Engineered*** is an empirical-descriptive judgment applied to what is on the page and in the mouth today — the *varṇamālā*, the *dhātupāṭha*, the calibration matrix, the multi-axis grammatical system. The *Vedas* are what the *dṛṣṭāḥ* (दृष्टाः) saw — *mantra-dṛṣṭāḥ*, not *mantra-kartṛs* (*mantra*-seers, not *mantra*-composers). No separate human agent-class is hypothesized between the eternal *śabda* and the *dṛṣṭāḥ*; the *Mīmāṃsā* doctrine of *apauruṣeyatva* (अपौरुषेयत्व) is the *paramparā*'s own anchor for this position. The grammarians — Pāṇini, Kātyāyana, Patañjali, the pre-Pāṇinian roster — decoded what the *Vedas* encode. Future chapters must not credit the *grammarians* with what the architecture displays. **Do not use "architects of Sanskrit" or "anonymous engineers" as a designing-agent framing** — that vocabulary imports the historical-active picture the *apauruṣeyatva* position refuses. Use ***engineered*** (the empirical property), ***architected*** (also empirical-property; describes the system, not a designer), ***the architecture***, ***what the dṛṣṭāḥ saw***, ***what the Vedas encode***, ***the engineering thesis*** — these name the property or the *paramparā*-internal categorical apparatus without positing a human designing agent-class. See `reference/as_calibration_hierarchy.md` for the full framework.
+**Engineering thesis framing:** ***Engineered*** is an empirical-descriptive judgment applied to what is on the page and in the mouth today — the *varṇamālā*, the *dhātupāṭha*, the calibration matrix, the multi-axis grammatical system. The *Vedas* are what the *dṛṣṭāḥ* (दृष्टाः) saw — *mantra-dṛṣṭāḥ*, not *mantra-kartṛs* (*mantra*-seers, not *mantra*-composers). No separate human agent-class is hypothesized between the eternal *śabda* and the *dṛṣṭāḥ*; the *Mīmāṃsā* doctrine of *apauruṣeyatva* (अपौरुषेयत्व) is the lineage-chain's own anchor for this position. The grammarians — Pāṇini, Kātyāyana, Patañjali, the pre-Pāṇinian roster — decoded what the *Vedas* encode. Future chapters must not credit the *grammarians* with what the architecture displays. **Do not use "architects of Sanskrit" or "anonymous engineers" as a designing-agent framing** — that vocabulary imports the historical-active picture the *apauruṣeyatva* position refuses. Use ***engineered*** (the empirical property), ***architected*** (also empirical-property; describes the system, not a designer), ***the architecture***, ***what the dṛṣṭāḥ saw***, ***what the Vedas encode***, ***the engineering thesis*** — these name the property or the lineage-internal categorical apparatus without positing a human designing agent-class. See `reference/as_calibration_hierarchy.md` for the full framework.
 
 **Fractal / category deployment.** Use *fractal* only when scale-recurring architecture is the point. It does not mean strict mathematical infinite self-similarity in body prose; if that clarification is needed, place it in the glossary or an endnote. The core scale-chain in this volume is mouth → sonomer → *akṣara* → *dhātuḥ* → *kriyāpada* → *śabda* → *vākya* → *sūtra* → recitation → calibration matrix → Sanskrit as calibrated language. Show the scale-chain before naming the recurrence. Core categories: *prakṛti* = natural recurrence; *saṃskṛti* = balanced civilizational recurrence oriented toward well-being; *vikṛti* = distorted civilizational recurrence captured by control. This volume proves the linguistic fractal from mouth to language. Later *Second Shanti* volumes carry the recurrence from language into civilizational architecture. The body term for the antagonist remains *asuric pyramid*; link it to *vikṛti* only at anchor moments.
 

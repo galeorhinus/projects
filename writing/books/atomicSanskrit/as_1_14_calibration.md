@@ -55,7 +55,7 @@ This answers the old institutional question: who guards the guards? In a pyramid
 
 The Vedic form adds further redundancy. Meter catches syllabic drift. Accent catches pitch drift: उदात्त (*udātta*), अनुदात्त (*anudātta*), स्वरित (*svarita*). Breath gestures catch phonetic drift: the **अयोगवाह (*ayogavāha*)** markers **अनुस्वार (*anusvāra*)** and **विसर्ग (*visarga*)** (Chapter 9 §9.5). A broken word can break the meter. A misplaced accent can break the chant. A wrong breath can break the line. The channels check one another.
 
-This is not "oral tradition" in the loose anthropological sense. It is engineered Auditure. Speech is the medium. Hearing is the verification layer. The audience is the checksum. The *guru-shishya paramparā* is the chain. No institutional intermediary required; no perishable medium between practitioner and audience. Chapter 15 shows the machinery in full: the eleven *pāṭha* recitation forms that re-encode the Vedic corpus so that drift has almost nowhere to hide.
+This is not "oral tradition" in the loose anthropological sense. It is engineered Auditure. Speech is the medium. Hearing is the verification layer. The audience is the checksum. The *guru-shishya* lineage-chain is the human carrier; the wider transmission-network is the social carrier. No institutional intermediary is required; no perishable medium stands between practitioner and audience. Chapter 15 shows the machinery in full: the eleven *pāṭha* recitation forms that re-encode the Vedic corpus so that drift has almost nowhere to hide.
 
 ## 14.3 The Six Preservation Layers
 
@@ -195,7 +195,7 @@ Heroic erasure works by treating the second redundancy layer as the first. Prais
 
 Chapter 15 develops the matrix in operation: the eleven *pāṭhas*, the aural architecture, the combinatorial recitation forms, the working machinery by which the Vedic sound-body has been held without observable drift across thousands of years.
 
-The radiant matrix kept the architecture present. Manuscripts burn. Institutions fall. Libraries close. Centralized authority recedes. A linguistic architecture engineered into speech, transmitted through the *guru-shishya lineage*, and verified by the audience-as-witness has no single institution to bring down.
+The radiant matrix kept the architecture present. Manuscripts burn. Institutions fall. Libraries close. Centralized authority recedes. A linguistic architecture engineered into speech, transmitted through the *guru-shishya* lineage-chain, and verified by the audience-as-witness has no single institution to bring down.
 
 The deeper implication is civilizational. The calibration matrix proves materially what Chapter 3 established structurally: order need not descend from authority. Sanskrit preserves through sound, meter, lineage, grammar, discipline, and self-correction — not through decree, monopoly, committee, or institutional apex. The standard lives inside the architecture. That is why the asuric apparatus cannot merely disagree with Sanskrit. It has to misdescribe it. Natural drift can be governed. Codification can be owned. Calibration makes the apex unnecessary.
 

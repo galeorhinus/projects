@@ -18,15 +18,15 @@ The threat is the missing third category.
 
 Sanskrit belongs there. Sanskrit is ***संस्कृति (*saṃskṛti*)***: created order, calibrated architecture, distributed correction. Its standard does not descend from an apex. The standard lives inside the architecture.
 
-Through the nineteenth century, the Western philological machinery baked a story about Sanskrit that refused this third category. Bopp's comparative grammar (1810s), Schleicher's family tree (1860s), Müller's pedagogical apparatus (1850s–1880s), Brugmann's *Grundriss* (1886). Three generations of European comparativists assembled the ingredients. The recipe still holds. If anything, PIE has become more entrenched: the imagined ancestor remains the controlling premise of mainstream textbook accounts of Indo-European linguistics today.[NOTE: bakers-story-seven-moves]
+Through the nineteenth century, the Western philological machinery baked a story about Sanskrit that refused this third category. Bopp's comparative grammar (1810s), Schleicher's family tree (1860s), Müller's pedagogical apparatus (1850s–1880s), Brugmann's *Grundriss* (1886). Three generations of European comparativists assembled the ingredients. The recipe still holds. If anything, PIE has become more entrenched: the imagined ancestor remains the controlling premise of mainstream Indo-European textbooks today.[NOTE: bakers-story-seven-moves]
 
-The standard story hides *saṃskṛti* by splitting Sanskrit in two. Before Pāṇini (पाणिनि), it makes Sanskrit answer as *prakṛti*. After Pāṇini, it makes Sanskrit answer as codification. The split makes the continuous architecture vanish.
+The pyramid's account hides *saṃskṛti* by splitting Sanskrit in two. Before Pāṇini (पाणिनि), it makes Sanskrit answer as *prakṛti*. After Pāṇini, it makes Sanskrit answer as codification. The split makes the continuous architecture vanish.
 
-The story repeatedly *naturalizes* Sanskrit, then *codifies* the repair.
+The account repeatedly *naturalizes* Sanskrit, then *codifies* the repair.
 
 It takes an engineered architecture, a *saṃskṛti* fractal, and narrates it as organic descent, drift, branch, and late repair. The seven moves below are not seven independent slips. They are a single sequence of category-theft.
 
-The story of theft has seven moves.
+The category-theft has seven moves.
 
 **First.** Vedic Sanskrit was the naturally spoken language of the people the pyramid calls the *"Aryans"* — the racial category Chapter 2 calls the **racial Arya thesis**. In the story, these itinerant pastoralists enter the subcontinent, become the founding event of Indic civilization, bring the language, use it, change it, and hand it to their descendants.
 
@@ -40,7 +40,7 @@ The story of theft has seven moves.
 
 **Sixth.** The metaphor holding the story together is botanical. Languages are organisms. They are born, branch, mutate, decay, and produce descendants. PIE is the ancestor. Vedic Sanskrit is one branch. Classical Sanskrit is the branch Pāṇini locked in place. The modern languages are the leaves that kept growing.
 
-**Seventh, and most consequential outside the academy.** The story reaches ordinary readers as the two-versions claim: ***Vedic Sanskrit and Classical Sanskrit are two different languages***. Vedic is the older natural language. Classical is the later Pāṇinian codification. Pāṇini stands at the boundary; two languages stand on either side. This is the sentence the reader most likely arrives carrying.
+**Seventh, and most consequential outside the academy.** The account reaches ordinary readers as the two-versions claim: ***Vedic Sanskrit and Classical Sanskrit are two different languages***. Vedic is the older natural language. Classical is the later Pāṇinian codification. Pāṇini stands at the boundary; two languages stand on either side. This is the sentence the reader most likely arrives carrying.
 
 Drift before Pāṇini. Freeze after Pāṇini. Nature on one side, codification on the other. The continuous architecture disappears between them.
 
@@ -76,7 +76,7 @@ The seven moves do not merely misdescribe Sanskrit. They make it mobile, derivat
 
 ## 1.2 The Metaphor Underneath
 
-The standard story depends on one picture: the tree.
+The pyramid's account depends on one picture: the tree.
 
 In the 1860s, the German comparativist August Schleicher gave comparative philology its governing imagination.[NOTE: schleicher-stammbaumtheorie] Languages became living organisms. They had roots, stems, branches, families, daughters, sisters. They grew from ancestors, split across geography, mutated across time, and decayed into descendant forms. The metaphor looked innocent because it turned linguistic history into nature. Once the tree was accepted, the rest of the story followed almost automatically — and a century and a half later, the metaphor remains so naturalized that few of the discipline's practitioners notice they are speaking it.
 
@@ -104,7 +104,7 @@ The language says so in its name. **संस्कृतम् (*saṃskṛtam*
 
 The contrast is equally precise. If *saṃskṛtam* names what is completely made, *prakṛti* names what keeps making itself — nature. **प्राकृतानि (*prākṛtāni*)** are the natural language forms — speech that keeps making itself, shifting, growing, branching, and decaying. Indic grammar did not lack the botanical category. It assigned that behavior to the *prākṛtāni*. *Saṃskṛtam* was the architecture of **सनातन (*Sanātan*)** — the integral, the perpetual, the ground on which civilization continues. The *prākṛtāni* were everything else.
 
-The pyramid's story requires ancient Sanskrit to change. Its account of Vedic drift, substrate absorption, the retroflex row, the syllabic *ṛ* (ऋ), and the supposed transition from Vedic to Classical cannot work without change. The Vedic-preservation continuum makes the opposite commitment. The *Vedas* are ***apauruṣeya*** (अपौरुषेय) — without human author, not composed in time[NOTE: apauruseya-mimamsa-sutra-1-1-5] — and ***śruti*** (श्रुति), heard rather than made. The eleven *pāṭhas* (पाठाः), the *Prātiśākhya* (प्रातिशाख्य) discipline, and the *guru-shishya paramparā* (गुरुशिष्यपरम्परा) form an error-correcting transmission channel engineered to prevent change.
+The pyramid's story requires ancient Sanskrit to change. Its account of Vedic drift, substrate absorption, the retroflex row, the syllabic *ṛ* (ऋ), and the supposed transition from Vedic to Classical cannot work without change. The Vedic-preservation continuum makes the opposite commitment. The *Vedas* are ***apauruṣeya*** (अपौरुषेय) — without human author, not composed in time[NOTE: apauruseya-mimamsa-sutra-1-1-5] — and ***śruti*** (श्रुति), heard rather than made. The eleven *pāṭhas* (पाठाः), the *Prātiśākhya* (प्रातिशाख्य) discipline, and the *guru-shishya* lineage-chain (गुरुशिष्यपरम्परा, *guru-shishya paramparā*) form an error-correcting transmission channel engineered to prevent change.
 
 The dogma requires drift. Sanātan's continuum was built to prevent it. There is no middle ground. Chapter 16 develops the case where the contradiction lands sharpest — the retroflex consonant series.
 
@@ -126,7 +126,7 @@ Chapter 10 makes the consequence measurable. Once the *dhātuḥ* is read as an 
 
 ## 1.6 Decoding, Not Codification
 
-The strategic word in the standard story is *codified*. It lets the *asuric apparatus* acknowledge what it cannot deny — Sanskrit's precision, scale, and generative power — while neutralizing what threatens the pyramid: Sanskrit as *saṃskṛti*, an engineered fractal of distributed order. *Codified* is the post-Pāṇinian half of the theft. It stops calling Sanskrit nature only when it can make Sanskrit answer to grammar as an external standard. The word makes a self-correcting architecture look dependent on a later authority. It assigns the architecture to one named figure at one late point inside the apparatus's own chronology. It implies a transition: disorder before, order after. That implication carries the story. It credits Pāṇini with architecture the lineage treats as prior to him, and it protects the chronology from the more dangerous claim: Sanskrit was engineered against drift from the start.
+The strategic word in the pyramid's account is *codified*. It lets the *asuric apparatus* acknowledge what it cannot deny — Sanskrit's precision, scale, and generative power — while neutralizing what threatens the pyramid: Sanskrit as *saṃskṛti*, an engineered fractal of distributed order. *Codified* is the post-Pāṇinian half of the theft. It stops calling Sanskrit nature only when it can make Sanskrit answer to grammar as an external standard. The word makes a self-correcting architecture look dependent on a later authority. It assigns the architecture to one named figure at one late point inside the apparatus's own chronology. It implies a transition: disorder before, order after. That implication carries the account. It credits Pāṇini with architecture the lineage treats as prior to him, and it protects the chronology from the more dangerous claim: Sanskrit was engineered against drift from the start.
 
 This is why the word matters. *Codification* is not neutral praise for precision. It is the second half of the split: after Sanskrit has been made natural enough for PIE, Pāṇini is made authoritative enough to explain the grammar. Prior architecture becomes later authority. Decoding becomes imposition.
 
@@ -183,7 +183,7 @@ The tree was never innocent. It made *saṃskṛti* answer as *prakṛti*. Once 
 - §1.6 — restored the four-term polemic stack as a table (with the *cryptographic-hash* + *audience-as-verifier* explanation of Vedic encoding immutability inside the ***Encoded*** cell); restored the full pre-Pāṇinian grammarian roster with Devanagari; restored the *Chapter 10 §10.13 develops Yaska's agni decoding* cross-reference; restored Devanagari for ***sthapati*** (स्थपति) and ***nirmātṛ*** (निर्मातृ) in the role-title contrast.
 
 **Codex structural additions retained:**
-- §1.2 *The Metaphor Underneath* — connective section explaining why the tree metaphor is foundational to the standard story.
+- §1.2 *The Metaphor Underneath* — connective section explaining why the tree metaphor is foundational to the pyramid's account.
 - Seven-section rebalance: §§1.1 *The Missing Third Category* / 1.2 *The Metaphor Underneath* / 1.3 *Where Botany Works* / 1.4 *Saṃskṛti Made to Look Like Prakṛti* / 1.5 *Dhātuḥ Is Not a Root* / 1.6 *Decoding, Not Codification* / 1.7 *The Charge*.
 - Earlier bake-themed headings retired (the *bake* / *bakers* vocabulary lands formally at Ch 17 §17.5 and Appendix Part 1).
 

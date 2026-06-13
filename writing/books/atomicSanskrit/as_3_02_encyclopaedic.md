@@ -38,9 +38,9 @@ In 1948 — less than a year after independence — **Professor S.M. Katre** at 
 
 The colonial philological apparatus that had funded the institutional Indology of the previous century — the **Asiatic Society of Bengal**, the **Sacred Books of the East** series under Max Müller, the comparative-philology chairs at Oxford / Cambridge / the German universities — was no longer in command. The frameworks the colonial apparatus had imposed — the **racial Arya thesis**, the family-tree taxonomy of Indian languages, the **Indo-European reconstruction project** — were now open to Indian re-examination, on Indian funding, free of colonial pressure.
 
-Deccan College carried the institutional lineage. Founded in 1821 as a Sanskrit *Pāṭhaśālā* under Mountstuart Elphinstone, with funds redirected from the *Dakṣiṇā* endowment of the Peshwa Bajirao II; renamed Poona College in 1851, Deccan College in 1864, and reconstituted as the Deccan College Post-Graduate and Research Institute after independence. The institution that bore the *paramparā* of Pune's Sanskrit teaching had a choice in 1948.
+Deccan College carried the institutional lineage. Founded in 1821 as a Sanskrit *Pāṭhaśālā* under Mountstuart Elphinstone, with funds redirected from the *Dakṣiṇā* endowment of the Peshwa Bajirao II; renamed Poona College in 1851, Deccan College in 1864, and reconstituted as the Deccan College Post-Graduate and Research Institute after independence. The institution that bore Pune's Sanskrit lineage-chain had a choice in 1948.
 
-Deccan College and Katre could have built the dictionary on the rigorous Indic disciplines the civilization itself had supplied — Pāṇini's grammar, Yāska's **निरुक्त (*Nirukta*)** (the *Vedāṅga* of etymology), the **निघण्टु (*Nighaṇṭu*)** discipline of Vedic lexicography, the synchronic-functional methodology Pāṇini himself uses to distinguish **भाषायाम् (*bhāṣāyām*)** from **छन्दसि (*chandasi*)**. They could have applied the engineered-preservation framing the same scholarly world was already applying to Hebrew under the Masoretic apparatus.
+Deccan College and Katre could have built the dictionary on the rigorous Indic disciplines the civilization itself had supplied — Pāṇini's grammar, Yāska's **निरुक्त (*Nirukta*)** (the *Vedāṅga* of etymology), the **निघण्टु (*Nighaṇṭu*)** discipline of Vedic lexicography, the synchronic-functional methodology Pāṇini himself uses to distinguish **भाषायाम् (*bhāṣāyām*)** from **छन्दसि (*chandasi*)**. They could have applied the engineered-preservation framing the church of progress already grants to Hebrew under the Masoretic apparatus.
 
 They did the opposite. They chose the *Oxford English Dictionary*'s (OED) *historical principles* method, set up by James Murray in the 1880s for natural-historical European languages, and transplanted it onto Sanskrit. They retained the comparative-philological frame Müller and William Dwight Whitney had imposed, keeping Katre's chair as *Professor of Indo-European Philology* at the moment the colonial pressure that had produced the chair ended. They treated Sanskrit as a natural-historical language no different in kind from English.
 
@@ -50,7 +50,7 @@ They did the opposite. They chose the *Oxford English Dictionary*'s (OED) *histo
 |---|---|
 | The rigorous Indic analytical disciplines — Pāṇini's grammar, Yāska's *Nirukta*, the *Nighaṇṭu* lexicography, the *bhāṣāyām* / *chandasi* synchronic methodology. | Rubber-stamped the *Oxford English Dictionary*'s *historical principles* methodology, set up by James Murray in the 1880s for natural-historical European languages. |
 | Reject the comparative-philological frame Max Müller and William Dwight Whitney had imposed. | Retained the frame; kept Katre's chair as *Professor of Indo-European Philology*. |
-| Apply the engineered-preservation framing the scholarly tradition was already applying to Hebrew under the Masoretic apparatus. | Refused Sanskrit the engineered-preservation framing; treated Sanskrit as a natural-historical language no different in kind from English. |
+| Apply the engineered-preservation framing the church of progress already grants to Hebrew under the Masoretic apparatus. | Refused Sanskrit the engineered-preservation framing; treated Sanskrit as a natural-historical language no different in kind from English. |
 
 The title — *Encyclopaedic Dictionary of Sanskrit on Historical Principles* — is the colonial-philological framework's calling card, adopted in 1948 by an Indian institution that no longer had to. *They colluded with the church of progress.*
 
@@ -78,7 +78,7 @@ The project's own self-statement makes the framing explicit. The Deccan College 
 
 Endorsement comes from **A.L. Basham** — author of *The Wonder That Was India* (1954) and longtime Professor of the History of South Asia at the School of Oriental and African Studies, London. The project quotes him approvingly, citing his prediction that the dictionary *"will be the greatest work of Sanskrit Lexicography the world has ever seen."* The project is admired by the *church of progress* that imposed the methodology in the first place.
 
-A second methodological problem follows from the first. *Historical principles* needs dates. For English, Old / Middle / Modern English dates exist in the natural-historical record. For Sanskrit, no internal chronology exists. The *Vedas*, the *Aṣṭādhyāyī*, the *Mahābhāṣya*, and the *Vedāṅga* infrastructure are not dated by their own authors or by the **परम्परा (*paramparā*)** that transmits them. *Kālacakra* is integral and cyclical; chronological dating is not how the civilization organizes itself.
+A second methodological problem follows from the first. *Historical principles* needs dates. For English, Old / Middle / Modern English dates exist in the natural-historical record. For Sanskrit, no internal chronology exists. The *Vedas*, the *Aṣṭādhyāyī*, the *Mahābhāṣya*, and the *Vedāṅga* infrastructure are not dated by their own authors or by the **परम्परा (*paramparā*)** — the lineage-chain and transmission architecture — that transmits them. *Kālacakra* is integral and cyclical; chronological dating is not how the civilization organizes itself.
 
 So the *progressive dogma* supplies dates from outside. The corpus is described as covering — in the project's own dating — *Ṛgveda* around 1400 BCE; Pāṇini around 500 BCE; Patañjali in the second century BCE. These are framework dates, not text-given dates. The dictionary embeds them in every slip. Each entry records the *"date of the text"* alongside the vocable. The dates appear to a reader as facts. They are framework-internal calibrations. Using framework-assigned dates as evidence for the framework is circular.
 
@@ -88,19 +88,19 @@ This book uses different language for Indic texts: *thousands of years* as the p
 
 ## 2.4 The Double Standard
 
-The same scholarly world knows how to recognize engineered preservation. It refuses to recognize Sanskrit's.
+The church of progress knows how to recognize engineered preservation. It refuses to recognize Sanskrit's.
 
 The Masoretic apparatus — dots, dashes, marginal notes, consonantal text, vowel pointing, manuscript correction — is universally recognized as the engineered preservation of a fixed Hebrew text. Masoretic variants are read as preservation artifacts. They are not read as evidence that Hebrew was a natural-evolutionary language drifting like English.
 
-The Arabic preservation tradition — *tajwīd*, *qirā'āt*, *isnād*, recitational discipline, memorization — is recognized as engineered preservation of a fixed Quranic text. *Tajwīd* variants are not flattened into ordinary oral tradition.
+The Arabic preservation system — *tajwīd*, *qirā'āt*, *isnād*, recitational discipline, memorization — is recognized as engineered preservation of a fixed Quranic text. *Tajwīd* variants are not flattened into ordinary oral transmission.
 
-The Sanskrit preservation architecture — the *Prātiśākhya* discipline, *Śikṣā*, *Chandas*, *Vyākaraṇam*, the eleven *pāṭha* recitation lineages, the *Dhātupāṭha*, the *guru-shishya paramparā* — is older, broader, more embodied, and more technically exact than either. The same scholarly world refuses the category.
+The Sanskrit preservation architecture — the *Prātiśākhya* discipline, *Śikṣā*, *Chandas*, *Vyākaraṇam*, the eleven *pāṭha* recitation lineages, the *Dhātupāṭha*, and the *guru-shishya* lineage-chain — is older, broader, more embodied, and more technically exact than either. The church of progress refuses the category.
 
-Imagine the *Oxford English Dictionary on Historical Principles* applied to the Hebrew Bible. Masoretic variants arranged chronologically. Meaning-numbers assigned as per the change of nuances. The Masoretic apparatus dismissed as *"late commentary"*; variant readings treated as natural-historical drift. The resulting picture would directly contradict the scholarly consensus that recognizes the Masoretic tradition as engineered preservation. The scholarly world would reject the methodology as a category error. Apply it to Sanskrit — whose preservation disciplines exceed the Masoretic apparatus in depth and continuity — and the same scholarly world embraces it for seven decades, fills thirty-five volumes, projects another fifty years.
+Imagine the *Oxford English Dictionary on Historical Principles* applied to the Hebrew Bible. Masoretic variants arranged chronologically. Meaning-numbers assigned as per the change of nuances. The Masoretic apparatus dismissed as *"late commentary"*; variant readings treated as natural-historical drift. The resulting picture would directly contradict the church of progress's own recognition of the Masoretic system as engineered preservation. The academy would reject the methodology as a category error. Apply it to Sanskrit — whose preservation disciplines exceed the Masoretic apparatus in depth and continuity — and the same academy embraces it for seven decades, fills thirty-five volumes, projects another fifty years.
 
 The double standard is the issue.
 
-Two qualifiers. First, this is not a claim that no scholar has applied the engineered-preservation framing to Sanskrit. Several have, often outside the dominant tradition — figures cited in the Preface. Second, this is not a claim that the pyramid's account of Hebrew and Arabic is correct and should be exported wholesale. The argument is internal-consistency: the same scholarly tradition cannot recognize engineered preservation in Hebrew and Arabic and deny it in Sanskrit on the strength of preservation disciplines Sanskrit documents in greater depth than either. Why the asymmetry exists is the larger book argument. The asymmetry is a fact independent of whatever explanation accounts for it.
+Two qualifiers. First, this is not a claim that no scholar has applied the engineered-preservation framing to Sanskrit. Several have, often outside the dominant machinery — figures cited in the Preface. Second, this is not a claim that the pyramid's account of Hebrew and Arabic is correct and should be exported wholesale. The argument is internal-consistency: the church of progress cannot recognize engineered preservation in Hebrew and Arabic and deny it in Sanskrit on the strength of preservation disciplines Sanskrit documents in greater depth than either. Why the asymmetry exists is the larger book argument. The asymmetry is a fact independent of whatever explanation accounts for it.
 
 ## 2.5 Three Layers of Variation
 
@@ -189,7 +189,7 @@ The Deccan College dictionary is one institution. BORI, the *Linguistic Survey o
 
 The institutional posture is itself **जड (*jaḍa*)** — the Sanskrit term Chapter 5 §5.6 introduced for *inert*, *lifeless-matter*, *dull-minded*, *cold-and-heavy*. The Sanskrit that names this property precisely is the very Sanskrit the framework refuses to recognize as engineered.
 
-The remedy is in the *paramparā*'s own opening invocation. The **सरस्वती वन्दना (*Sarasvatī Vandanā*)** — the prayer Sanskrit students have recited before beginning study for thousands of years — closes on the epithet **निःशेषजाड्यापहा (*niḥśeṣa-jāḍyāpahā*)**, *the remover of all jāḍya*. The institutions catalog the language whose opening prayer carries their cure.
+The remedy is in the lineage-chain's own opening invocation. The **सरस्वती वन्दना (*Sarasvatī Vandanā*)** — the prayer Sanskrit students have recited before beginning study for thousands of years — closes on the epithet **निःशेषजाड्यापहा (*niḥśeṣa-jāḍyāpahā*)**, *the remover of all jāḍya*. The institutions catalog the language whose opening prayer carries their cure.
 
 The remedy is concrete. To Deccan College: four moves. None requires new research. None requires the retraction of a single attested form.
 

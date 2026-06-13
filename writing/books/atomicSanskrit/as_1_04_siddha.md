@@ -1,6 +1,6 @@
 # Chapter 4 — *Siddha* and *Kārya*
 
-*Draft v2 (2026-05-20). Codex compression of the previous draft with author restorations: the Pāṇini-wrote-no-preface paragraph; FIGURE 4.1 (The Long History of Sanskrit Grammar); Devanagari for *sthapati* / *nirmātṛ* in the role-title contrast; Devanagari for the *vi* + *ā* + *kṛ* morphology of *vyākaraṇam*; *tradition* → *paramparā* fix in the role-title contrast per CLAUDE.md. **Tier 3 addback (2026-05-20)**: Yaska's *Nirukta* etymological discipline + Sthaulāṣṭhīvi + Śakapūṇi as pre-Pāṇinian decoders restored in §4.1 (extends the decoding lineage from grammar to etymology); "de-composition, not composition" sharpening of the *vyākaraṇam* etymology in §4.1; "no codification event because no transition from drift to fixity" hammer restored in §4.5.*
+*Draft v2 (2026-05-20). Codex compression of the previous draft with author restorations: the Pāṇini-wrote-no-preface paragraph; FIGURE 4.1 (The Long History of Sanskrit Grammar); Devanagari for *sthapati* / *nirmātṛ* in the role-title contrast; Devanagari for the *vi* + *ā* + *kṛ* morphology of *vyākaraṇam*; lineage-chain / *paramparā* vocabulary fix in the role-title contrast per CLAUDE.md. **Tier 3 addback (2026-05-20)**: Yaska's *Nirukta* etymological discipline + Sthaulāṣṭhīvi + Śakapūṇi as pre-Pāṇinian decoders restored in §4.1 (extends the decoding lineage from grammar to etymology); "de-composition, not composition" sharpening of the *vyākaraṇam* etymology in §4.1; "no codification event because no transition from drift to fixity" hammer restored in §4.5.*
 
 ---
 
@@ -34,7 +34,7 @@ The chapter's standing formula follows:
 
 > ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.***
 
-The *Vedas* preserve the architecture implicitly through *chandas*, *śruti*, and *guru-shishya paramparā*. The grammarians make that architecture explicit. Yaska's **निरुक्त (*Nirukta*)** etymological discipline decoded an adjacent layer; Yaska himself cites earlier decoders **Sthaulāṣṭhīvi** (स्थौलाष्ठीवि) and **Śakapūṇi** (शकपूणि) by name, extending the decoding lineage back beyond the named grammarians.
+The *Vedas* preserve the architecture implicitly through *chandas*, *śruti*, and the *guru-shishya* transmission-chain. The grammarians make that architecture explicit. Yaska's **निरुक्त (*Nirukta*)** etymological discipline decoded an adjacent layer; Yaska himself cites earlier decoders **Sthaulāṣṭhīvi** (स्थौलाष्ठीवि) and **Śakapūṇi** (शकपूणि) by name, extending the decoding lineage back beyond the named grammarians.
 
 The role-title matters. The lineage does not call Pāṇini ***स्थपति (sthapati,*** architect), ***निर्माता (nirmātṛ,*** constructor), or anything cognate with *engineer*. It calls him a grammarian, an analyst. Engineering is what the architecture displays. Decoding is what the *vaiyākaraṇāḥ* did. The pyramid's account collapses both into Pāṇini and calls the collapse *codification*.
 
@@ -140,7 +140,7 @@ Without *siddha*, there is nothing to defend. Chapter 5 identifies what the defe
 
 - §4.1 — restored Devanagari for ***वि (vi-)*** + ***आ (ā-)*** + ***कृ (kṛ)*** in the *vyākaraṇam* etymology breakdown (Codex had Roman only).
 - §4.1 — restored Devanagari for ***स्थपति (sthapati)*** and ***निर्माता (nirmātṛ)*** in the role-title contrast (Codex had English only; parallel to the same role-title contrast in Ch 1 §1.6).
-- §4.1 — *tradition* → *paramparā* in the role-title-contrast sentence (CLAUDE.md violation: *tradition* is reserved for the pyramid side; Indic side uses *paramparā*).
+- §4.1 — lineage-chain / *paramparā* vocabulary restored in the role-title-contrast sentence (CLAUDE.md convention: reserve *tradition* for pyramid-side or external continuities; bind Indic continuity to lineage and transmission architecture).
 - §4.1 close — restored **FIGURE 4.1 *The Long History of Sanskrit Grammar*** placeholder: vertical diagram with *Vedas* + *pāṭha* lineages at the base, pre-Pāṇinian roster (Śākalya etc.) in the middle-lower layer, Pāṇini's *Aṣṭādhyāyī* at the center, Trimuni stack at the top.
 - §4.2 — restored the **Pāṇini-wrote-no-preface paragraph** between the *pañca prayojanāni* analysis and the Vārttika placement. Decisive primary-source evidence for the documenter framing; endnote stub `panini-no-preface`.
 

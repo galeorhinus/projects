@@ -100,7 +100,7 @@ The ***progressive dogma*** collapses both into "oral tradition" because both ha
 
 Writing is easier. It asks one sense to read, one hand to write, one medium to store. Once the mark exists, the medium carries the burden.
 
-Aural preservation is harder. It requires trained vocal production, trained discriminating hearing, social continuity, *guru-shishya* discipline, and multi-channel recitation redundancy strong enough to detect and correct error before it becomes inheritance. It uses the body as instrument and the ear as validator. That is not primitive. It is higher engineering.
+Aural preservation is harder. It requires trained vocal production, trained discriminating hearing, social continuity, *guru-shishya* lineage-discipline, and multi-channel recitation redundancy strong enough to detect and correct error before it becomes inheritance. It uses the body as instrument and the ear as validator. That is not primitive. It is higher engineering.
 
 The label "oral tradition" also flattens the architecture. Indic preservation runs four engineered modes — memory-based retelling, embodied practice, precise speech-hearing transmission, and written documentation where writing is appropriate — and only some are oral at all. The Vedic preservation system is the aural one.
 
@@ -124,7 +124,9 @@ Codification also draws a line. The codified standard becomes correct; what fall
 
 Sanātan did not require every person to speak the calibrant language. **That is the critical distinction.** Society spoke its living languages, its prākṛtika forms, its regional speech-fields, its household speech, its songs, its market idioms. These were not treated as sinful deviations from an authorized tongue. They were allowed to flourish.
 
-Sanskrit stood elsewhere. Like ध्रुव (dhruva), the fixed star, it served as the calibrant language: the disciplined, preserved, architected standard against which knowledge, ritual, grammar, memory, and civilizational continuity could be held. Its preservation did not rest on a declared standard alone. The Vedic corpus, the Prātiśākhya discipline, Śikṣā, Chandas, the pāṭha systems, Vyākaraṇam, the Dhātupāṭha, and the guru-shishya lineages formed a calibration architecture. The burden of that preservation fell on those who chose the path of rigor. The system did not merely announce correctness. It detected drift, corrected drift, and trained the human instrument that carried the form.
+Sanskrit stood elsewhere. Like ध्रुव (dhruva), the fixed star, it served as the calibrant language: the disciplined, preserved, architected standard against which knowledge, ritual, grammar, memory, and civilizational continuity could be held. Its preservation did not rest on a declared standard alone. The Vedic corpus, the Prātiśākhya discipline, Śikṣā, Chandas, the pāṭha systems, Vyākaraṇam, the Dhātupāṭha, and the *guru-shishya* lineage-chains formed a calibration architecture. The burden of that preservation fell on those who chose the path of rigor. The system did not merely announce correctness. It detected drift, corrected drift, and trained the human instrument that carried the form.
+
+That architecture rested on *paramparā*, but *paramparā* is not merely "tradition." It is distributed transmission architecture. It has vertical custody and horizontal circulation. The *guru-shishya* lineage-chain carries exact form across generations; the wider transmission-network moves learned people across villages, towns, assemblies, ritual settings, *pāṭhaśālās*, *maṭhas*, and scholarly circuits. Society did not only respect Brahmins, reciters, teachers, and scholars; society funded the network: lodging, food, patronage, *dakṣiṇā*, travel support, public debate, ritual invitations, and scholarly exchange. Knowledge became mobile without becoming centralized.
 
 ### Two Minds, Two Layers
 
@@ -182,7 +184,7 @@ Chapter 14 establishes the matrix that makes that calibration possible.
 - §13.4 — restored: Chapter 2 §2.4 linear-progress teleology cross-reference; multi-channel-redundancy expanded language; four-engineered-modes count phrasing; verdict-voice hammer-close: *"The label oral tradition tells the reader nothing about the architecture. It tells the reader only that the standard narrative has decided not to look."* (Final "The architecture placed the answer elsewhere. The next chapter lays out where." line dropped since the new §13.5 now does the Ch 14 handoff.)
 - §13.5 (added 2026-05-20) — ***Calibrated*, Not *Codified*** — new closing section landing the *standardization by architecture, not authority* structural theme. Five-language drumbeat catalog (Greek / Latin / Arabic / Hebrew / Tibetan) with the codification-doesn't-stop-drift opening verdict and the calibration-architecture closing hammer. Mirrors §13.4's *Aural*, Not *Oral* heading pattern at the categorical layer. Discipline-name casing made consistent with Ch 14 (*Prātiśākhya* / *Śikṣā* / *Chandas* / *Vyākaraṇam* / *Dhātupāṭha* capitalized; *pāṭha* lowercase as a recitation form).
 
-**CLAUDE.md convention pass:** *Prātiśākhya tradition* → *Prātiśākhya discipline*; *Śikṣā tradition* → *Śikṣā discipline* (per the *tradition* reserved-for-pyramid rule). *Oral tradition* preserved as the pyramid's mislabel — the entire §13.4 is the polemic against the label. *Guru-shishya paramparā* / *guru-shishya transmission* preserved as the Indic transmission unit.
+**CLAUDE.md convention pass:** Discipline-name casing and vocabulary made consistent: *Prātiśākhya discipline*, *Śikṣā discipline*, and *guru-shishya* lineage-chain / *guru-shishya* transmission. *Oral tradition* preserved as the pyramid's mislabel — the entire §13.4 is the polemic against the label.
 
 **Codex compressions retained:**
 

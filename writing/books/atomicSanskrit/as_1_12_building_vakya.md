@@ -38,7 +38,7 @@ Chapter 12 therefore begins where Chapter 11 ended. The verbal molecule becomes 
 
 The *dhātuḥ* is a semantic atom. To enter speech, it must bond into a sentence-ready form.
 
-Sanskrit bonds the atom in two main directions. A head-bond enters before the atom. A tail-bond enters after it. The traditional names are **उपसर्गः (*upasargaḥ*)** and **प्रत्ययः (*pratyayaḥ*)**.
+Sanskrit bonds the atom in two main directions. A head-bond enters before the atom. A tail-bond enters after it. Sanskrit's grammatical names are **उपसर्गः (*upasargaḥ*)** and **प्रत्ययः (*pratyayaḥ*)**.
 
 An *upasargaḥ* redirects the atom's field of action. A *pratyayaḥ* stabilizes the molecule's class: action, agent, deed, instrument, state, obligation, and so on. A **विभक्तिः (*vibhaktiḥ*)** or **तिङ्-प्रत्ययः (*tiṅ-pratyayaḥ*)** then prepares the form for sentence use by marking role, number, person, and relation.
 

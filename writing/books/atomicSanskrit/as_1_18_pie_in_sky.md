@@ -39,7 +39,7 @@ Schleicher's PIE is a constructed language without the honesty of conlanging and
 
 The fictional-language projects openly invent. Schleicher claimed to be recovering. The discipline inherited the claim. Chapter 3 §3.6 identifies this operating mode in Indic-categorical idiom as *asuratva*; Schleicher is the named individual operator within the asuric pyramid §3.6 diagnoses.
 
-PIE is the conlang the conlangers' tradition disowns.
+PIE is the conlang the conlangers' craft disowns.
 
 ## 18.2 The Bookkeeping Defense
 
@@ -192,7 +192,7 @@ Philology under the descent assumption treats the reflections as evidence of a v
 
 The *asura* case exposes the break.
 
-The standard account (Mayrhofer, *Etymologisches Wörterbuch des Altindoarischen*) pushes Sanskrit *asura-* through Indo-Iranian **\*asura-** toward a *contested* PIE **\*h₂nsu-** meaning "life force" or "lord."[NOTE: asura-standard-etymology-contested]
+The Western philological dogma, represented here by Mayrhofer's *Etymologisches Wörterbuch des Altindoarischen*, pushes Sanskrit *asura-* through Indo-Iranian **\*asura-** toward a *contested* PIE **\*h₂nsu-** meaning "life force" or "lord."[NOTE: asura-standard-etymology-contested]
 
 *Contested* is the confession.
 
@@ -317,7 +317,7 @@ Once the imaginary ancestor is removed, the question changes. Chapter 19 asks wh
 **Codex compressions retained (Tier 3):**
 
 - Chapter opening: "The verdict was waiting in the joke." + the streamlined mother-etymology anecdote with both dictionary chains.
-- §18.1 close: "PIE is the conlang the conlangers' tradition disowns."
+- §18.1 close: "PIE is the conlang the conlangers' craft disowns."
 - §18.2: "The defense fails on placement." + "*Mātṛ* exists. *Māter* exists. *Mētēr* exists. **\*méh₂tēr** does not." paragraph close.
 - §18.3 close: "The failures are not incidental. They are category failures. PIE is trying to explain an architecture with a genealogy."
 - §18.4 close: "The church of progress has turned a specialist reconstruction into the background knowledge of ordinary readers."

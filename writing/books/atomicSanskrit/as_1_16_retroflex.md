@@ -44,7 +44,7 @@ You cannot engineer a software system that requires a hardware flex you do not p
 
 The *progressive dogma* presents the retroflex as a *substrate borrowing*. The canonical formula: Proto-Indo-European had no retroflex stops; Sanskrit acquired them after the arrival imagined by the racial Arya thesis, through contact with a pre-IE Dravidian or Munda substrate.
 
-The priests of progress have been writing this story for seventy years.[NOTE: retroflex-substrate-standard-account] One scholar made the retroflex the seminal areal-feature exhibit. Another carried the position into the standard textbook account. A third pushed a Munda-substrate variant when the Dravidian version came under empirical strain. A fourth, from inside the framework, argued that the substrate hypothesis was not supported by the data. The dissent was filed and ignored. The textbook line continued.
+The priests of progress have been writing this story for seventy years.[NOTE: retroflex-substrate-standard-account] One scholar made the retroflex the seminal areal-feature exhibit. Another carried the position into the pyramid's curriculum line. A third pushed a Munda-substrate variant when the Dravidian version came under empirical strain. A fourth, from inside the framework, argued that the substrate hypothesis was not supported by the data. The dissent was filed and ignored. The machinery continued.
 
 The claim has structural consequences. If the retroflex is a borrowing, Sanskrit's *mūrdhanya* row is layered onto the language from outside — peripheral, late, and acquired. That framing licenses the broader migration-and-borrowing account: Sanskrit becomes portable; subcontinental phonological features become substrate accretions; the architecture is allowed to remain external.
 
@@ -52,11 +52,11 @@ Two claims now face each other.
 
 The substrate-borrowing claim *requires* Vedic Sanskrit to have changed. Without change, the retroflex set that PIE and Old Iranian lack could not have entered the language. The mechanism is acquisition: contact, bilingualism, category transfer. The story is a story of change.
 
-The Vedic-preservation continuum's commitment is the opposite. The *Vedas* are **अपौरुषेय (*apauruṣeya*)** — without human author, not composed in time.[NOTE: apauruseya-mimamsa-sutra-1-1-5] They are **श्रुति (*śruti*)** — heard. The eleven **पाठाः (*pāṭhāḥ*)**, the **प्रातिशाख्य (*Prātiśākhya*)** discipline, and the **गुरुशिष्यपरम्परा (*guru-shishya paramparā*)** form an error-correcting transmission channel engineered precisely to prevent change.
+The Vedic-preservation continuum's commitment is the opposite. The *Vedas* are **अपौरुषेय (*apauruṣeya*)** — without human author, not composed in time.[NOTE: apauruseya-mimamsa-sutra-1-1-5] They are **श्रुति (*śruti*)** — heard. The eleven **पाठाः (*pāṭhāḥ*)**, the **प्रातिशाख्य (*Prātiśākhya*)** discipline, and the **गुरुशिष्यपरम्परा (*guru-shishya paramparā*)** — the teacher-student lineage-chain — form an error-correcting transmission channel engineered precisely to prevent change.
 
 The substrate-borrowing account needs change. The continuum forbids it. There is no middle ground.
 
-The internal incoherence is worse. The same scholarly community that documents the *Prātiśākhya* discipline, the layered recitation systems, the phoneme-level correction mechanisms, and the multi-generational *paramparā* must explain why the engineers of that preservation infrastructure passively recorded substrate-acquired phonemes at the structural center of the system they preserved. Architects who design preservation at that level of rigor *choose* what to preserve. They do not arrive at central placement by accident. The substrate claim asks the reader to accept that engineers of unprecedented rigor were also passive recipients of contact phonology — at the exact site, the *mūrdhanya* class, where the architecture later turns out to be most active.
+The internal incoherence is worse. The same church of progress that documents the *Prātiśākhya* discipline, the layered recitation systems, the phoneme-level correction mechanisms, and the multi-generational transmission architecture must explain why the engineers of that preservation infrastructure passively recorded substrate-acquired phonemes at the structural center of the system they preserved. Architects who design preservation at that level of rigor *choose* what to preserve. They do not arrive at central placement by accident. The substrate claim asks the reader to accept that engineers of unprecedented rigor were also passive recipients of contact phonology — at the exact site, the *mūrdhanya* class, where the architecture later turns out to be most active.
 
 The claim cannot survive the structural reading.
 
@@ -132,7 +132,7 @@ This is structurally devastating. The *ārya / dāsa* binary the racial Arya the
 
 What the dharmic subcontinent did have was the *ārya / mleccha* binary. And in that binary, the English failed the *ārya* test on two counts.
 
-This is the move V.D. Savarkar made structural during his internment at Ratnagiri from 1924 to 1937, when the British prohibited him from political activity and CID officers monitored his public utterances for sedition. Savarkar developed a rhetorical loophole. He would deliver high-energy speeches on history and religion, building the audience toward a fever pitch. At the height of the moment he would shout the opening of a verse the Maharashtrian *paramparā* had been carrying across many generations — Samarth Ramdas's strategic-advice *ovi*, addressed in seventeenth-century Marathi political idiom to Sambhaji Maharaj against the Mughal invaders:
+This is the move V.D. Savarkar made structural during his internment at Ratnagiri from 1924 to 1937, when the British prohibited him from political activity and CID officers monitored his public utterances for sedition. Savarkar developed a rhetorical loophole. He would deliver high-energy speeches on history and religion, building the audience toward a fever pitch. At the height of the moment he would shout the opening of a verse the Maharashtrian lineage-chain had been carrying across many generations — Samarth Ramdas's strategic-advice *ovi*, addressed in seventeenth-century Marathi political idiom to Sambhaji Maharaj against the Mughal invaders:
 
 > बहुत लोक मेळवावे । एक विचारे भरावे । कष्टे करोनी घसरावे । …
 >
@@ -166,7 +166,7 @@ If the English failed the test, what was the test?
 
 The test was not race. The test was not lineage. The test was not skull shape, not skin colour, not bloodline, not ancestry, not whatever *Volk*-theoretical framework the German Romantic philological tradition would later weave around the word *ārya*. The test was achievement. The test was training. The test was the work the engineered Indic sound-system demanded of any mouth that would learn to speak it.
 
-The retroflex is this chapter's worked example. The structural point generalizes. The **गुरु-शिष्य परम्परा (*guru-shishya paramparā*)** is the institutional form *āryatva* has been taking across the generations. The **वेदाङ्ग (*Vedāṅga*)** architecture — *Śikṣā*, *Vyākaraṇam*, *Chandas*, *Nirukta*, *Kalpa*, *Jyotiṣa* — is the curriculum. The training does the work. Anyone who undergoes the training acquires the architecture. Anyone who has acquired the architecture is, on Sanātan's own technical framing, *ārya*.
+The retroflex is this chapter's worked example. The structural point generalizes. The **गुरु-शिष्य परम्परा (*guru-shishya paramparā*)** is the institutional form *āryatva* has been taking across the generations: a teacher-student lineage-chain that turns training into transmission. The **वेदाङ्ग (*Vedāṅga*)** architecture — *Śikṣā*, *Vyākaraṇam*, *Chandas*, *Nirukta*, *Kalpa*, *Jyotiṣa* — is the curriculum. The training does the work. Anyone who undergoes the training acquires the architecture. Anyone who has acquired the architecture is, on Sanātan's own technical framing, *ārya*.
 
 There is no permanent exclusion. There is no genetic gate. There is no inherited claim. There is only the test, and the work the test demands.
 

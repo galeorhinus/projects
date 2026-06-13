@@ -168,13 +168,13 @@ Every other consonant sits in the 7–18% inner range. The specialist class is a
 
 **The 73% cluster-joining concentration.** Looking specifically at the second-in-cluster position (the $C_{2i}$ role and its onset-cluster mirror), five atoms — **र (100), व (45), ल (36), ष (29), य (28)** — account for **238 of 325 inner-cluster appearances** = 73%. The remaining 28 consonants split the residual 87 between them.
 
-The class composition is the *vyākaraṇa* tradition's own classification reading back. Four of the six specialists — **य, र, ल, व** — are the **अन्तःस्थाः (*antaḥsthāḥ*)**: literally *those that stand between*. The name describes the position-role the data confirms. The fifth member — ष (*ṣa*) — is from the **ऊष्माणः (*ūṣmāṇaḥ*)** sibilant row, the *mūrdhanya* sibilant specifically. The two outliers (फ *pha*, न *na*) are smaller-volume specialists whose inner-cluster share rides above the threshold but whose absolute cluster-joining counts are lower.
+The class composition is the *vyākaraṇa* discipline's own classification reading back. Four of the six specialists — **य, र, ल, व** — are the **अन्तःस्थाः (*antaḥsthāḥ*)**: literally *those that stand between*. The name describes the position-role the data confirms. The fifth member — ष (*ṣa*) — is from the **ऊष्माणः (*ūṣmāṇaḥ*)** sibilant row, the *mūrdhanya* sibilant specifically. The two outliers (फ *pha*, न *na*) are smaller-volume specialists whose inner-cluster share rides above the threshold but whose absolute cluster-joining counts are lower.
 
 ![Per-consonant position-role split across single-*akṣara* atoms; the antaḥstha cluster-joiner band is visible as the wide inner-position bars.](figures/building_dhatuh/position_roles.svg){#fig:app5-position-roles width=95%}
 
 **Why this matters.** The *varṇamālā* gives 33 consonants. The architecture does not deploy them as interchangeable bonding sites. A small specialist class — the *antaḥsthāḥ* plus the *mūrdhanya* sibilant — does almost all consonant-to-consonant bonding work. This is the *carbon-of-clusters* role: a small set of atoms that bond promiscuously, holding larger consonant structures together while the other consonants do atom-boundary work.
 
-The *vyākaraṇa* tradition's name for the class — *antaḥsthāḥ*, *those that stand between* — was already the right name. The data confirms the class is operationally real. Ch 10 §10.14 carries the chapter-prose statement of the same finding; this section is the reproducibility backbone.
+The *vyākaraṇa* discipline's name for the class — *antaḥsthāḥ*, *those that stand between* — was already the right name. The data confirms the class is operationally real. Ch 10 §10.14 carries the chapter-prose statement of the same finding; this section is the reproducibility backbone.
 
 ## 6.5 The *Mūrdhanya* Dual-Role Place
 

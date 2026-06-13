@@ -34,7 +34,7 @@ Third: the sound-to-meaning rule system (Chapters 11 and 12): *saṃdhi*, *gaṇ
 
 Fourth: the ***mūrdhanya*** core (Chapter 8). The retroflex row is not peripheral. It sits inside the architecture: vowel-core, bonder, closure class, acoustic signature.
 
-Fifth: the preservation architecture (Chapters 13 and 14): *padapāṭha*, *kramapāṭha*, *jaṭāpāṭha*, *ghanapāṭha*, *Prātiśākhya*, *Śikṣā*, *chandas*, and the living *guru-shishya paramparā*.
+Fifth: the preservation architecture (Chapters 13 and 14): *padapāṭha*, *kramapāṭha*, *jaṭāpāṭha*, *ghanapāṭha*, *Prātiśākhya*, *Śikṣā*, *chandas*, and the living *guru-shishya* lineage-chain.
 
 Sixth: the formal grammatical framework (Chapter 4): *siddha* / *kārya*, *vyākaraṇam*, *Nirukta*, *Prātiśākhya*, *Trimuni Vyākaraṇam*, and the analytical mode that treats Sanskrit as specified rather than merely described.
 
@@ -84,7 +84,7 @@ The default rests on one assumption: Sanskrit is the same kind of object as othe
 
 The burden reverses. Until the precursor model can account for Sanskrit's sound-to-*dhātu* architecture, preservation system, retroflex core, and formal grammar, it remains an external genealogy, not an internal explanation.
 
-The implication is sharp. The pyramid has to argue that fluent users of Sanskrit misread their own language; that *Nirukta*, *Prātiśākhya*, *Śikṣā*, *Chandas*, and *Mīmāṃsā* were operating on a mass misapprehension; that the engineering presupposition was a hallucination conducted across thousands of years and across many *guru-shishya* lineages.
+The implication is sharp. The pyramid has to argue that fluent users of Sanskrit misread their own language; that *Nirukta*, *Prātiśākhya*, *Śikṣā*, *Chandas*, and *Mīmāṃsā* were operating on a mass misapprehension; that the engineering presupposition was a hallucination conducted across thousands of years and across many *guru-shishya* lineage-chains.
 
 There is a psychological term for that operation: ***gaslighting***. It is the systematic effort to convince a person, or a civilization, that accurate perception is delusion.
 

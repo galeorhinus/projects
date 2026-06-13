@@ -40,7 +40,7 @@ That is the darkness of the asuras, and it is the darkness Sanskrit was engineer
 
 To protect that illusion, the pyramid cannot merely suppress **पूर्णम् (*pūrṇam*)**. It must darken Sanskrit, the language that keeps the uncontained inquiry of the seeker audible.
 
-The *paramparā* preserved this recognition for thousands of years as stories rather than abstract theory of power. Each story is a recipe. Each recipe teaches the next generation how to recognize the asuric operation when the costume changes.
+The transmission architecture preserved this recognition for thousands of years as stories rather than abstract theory of power. Each story is a recipe. Each recipe teaches the next generation how to recognize the asuric operation when the costume changes.
 
 ## 0.2 The Pyramid as *Vikṛti*
 
@@ -87,11 +87,11 @@ The word *asura* is the umbrella. The stories preserve finer diagnostic forms: t
 
 The old stories preserved this recognition in narrative form. They begin with action: the *daitya* who demands the apex, the *paṇi* who hoards, the *vṛtra* who blocks, the *rākṣasa* who wears a false form, the receiver who turns a boon against the giver, and the copy-maker who multiplies repetitions until truth is buried under them. They are memory-forms for detecting *vikṛti* when it returns in a new costume.
 
-The next section reads them that way: as recipes preserved by *paramparā*.
+The next section reads them that way: as recipes preserved by the lineage-chain.
 
-## 0.3 The Recipes Preserved by *Paramparā*
+## 0.3 The Recipes Preserved by the Lineage-Chain
 
-The *paramparā* preserved the asura stories as recognition-forms. A story can carry memory, but it can also carry a diagnostic grammar. It can teach a child that Svarbhānu darkened the Sun, teach an elder that darkness can be used as a weapon against light, and teach a civilization that the first symptom of successful asuric attack is field-loss: **अक्षेत्रवित् (*akṣetravit*)**, not knowing the field.
+The lineage-chain preserved the asura stories as recognition-forms. A story can carry memory, but it can also carry a diagnostic grammar. It can teach a child that Svarbhānu darkened the Sun, teach an elder that darkness can be used as a weapon against light, and teach a civilization that the first symptom of successful asuric attack is field-loss: **अक्षेत्रवित् (*akṣetravit*)**, not knowing the field.
 
 That is why these stories survived in more than one channel. They were carried by teacher-student lineages, recitation, temple image, household telling, regional performance, festival, proverb, commentary, and public memory. A civilization that relies on distributed calibration preserves its warning system by encoding the warning across society. The asura stories do exactly that.
 
@@ -215,11 +215,11 @@ The appendix can now return to the opening hymn. The attack pierced Sūrya with 
 
 The opening verse named the attack. Svarbhānu pierced Sūrya with darkness, and the worlds gazed about bewildered, as one ignorant of the field. For this appendix, the pierced Sūrya is Sanskrit.
 
-Ask what **सूर्य (*sūrya*)** is here. Sūrya is the visible engineered light of the *paramparā*: finite *varṇāḥ*, finite *dhātavaḥ*, finite rules, generating every utterance the mind can form.
+Ask what **सूर्य (*sūrya*)** is here. Sūrya is the visible engineered light carried by the lineage-chain: finite *varṇāḥ*, finite *dhātavaḥ*, finite rules, generating every utterance the mind can form.
 
 Ask who finds Sūrya again. The Atris — the only ones who could.
 
-Ask who finds Sanskrit again. The *paramparā* that preserved Pāṇini. The *sampradāya* that preserved the *Dhātupāṭha*. The readers who can still hear **सुरः (*suraḥ*)** and **असुरः (*asuraḥ*)** as a morphological contrast.
+Ask who finds Sanskrit again. The lineage-chain that preserved Pāṇini. The *sampradāya* that preserved the *Dhātupāṭha*. The readers who can still hear **सुरः (*suraḥ*)** and **असुरः (*asuraḥ*)** as a morphological contrast.
 
 **नह्यन्ये अशक्नुवन् (*nahy anye aśaknuvan*)**. No others could.
 

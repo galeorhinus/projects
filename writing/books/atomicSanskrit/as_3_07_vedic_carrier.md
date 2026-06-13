@@ -16,7 +16,7 @@ The pyramid's account calls the difference between *vaidika* and *laukika* Sansk
 
 Chapter 1 §1.1's fuller statement opens with three blockquoted lines. The middle one carries this appendix's load:
 
-> ***The engineering's upstream origin is not visible in the historical record;*** ***अपौरुषेयत्व (*apauruṣeyatva*)*** ***is the*** ***परम्परा (*paramparā*)*** ***'s own anchor for the position. The*** ***Vedas*** ***carry the engineering across thousands of years as the corpus form, implicit in every recitation rule and every metrical specification.***
+> ***The engineering's upstream origin is not visible in the historical record;*** ***अपौरुषेयत्व (*apauruṣeyatva*)*** ***is the lineage-chain's own anchor for the position. The*** ***Vedas*** ***carry the engineering across thousands of years as the corpus form, implicit in every recitation rule and every metrical specification.***
 
 The Wave 1 transmission framework Chapter 19 §19.4 calls ***corpus form*** is what the *Vedas* deploy: the engineered architecture is operating across every verse, every *sandhi* juncture, every case-marking, every metrical specification — but no **व्याकरण (*vyākaraṇa*)** text yet exists to describe it. The architecture is *visible only by engaging the verses with the engineering frame*.
 
@@ -44,7 +44,7 @@ Six words. Walked phrase by phrase:
 
 Six words. Four accusatives in apposition. One genitive modifying. One verb form. The case-system does what word-order does in English; the inflections carry the grammatical roles; word order is free.
 
-**The retroflex lateral ळ (*ḷ*) in *agnimīḷe* is the key *chandas*-mode feature.** Pāṇini's *Aṣṭādhyāyī* marks rules deploying ळ as *chandasi*. The Nambūdiri, Mādhyandina, Kāṇva **शाखाः (*śākhās*)** all recite *agnimīḷe* with ळ intact across thousands of years through *guru-shishya paramparā*. The *bhāṣā* mode does not deploy ळ. The feature is not lost between the two modes — it is **mode-specific by engineered design** (Chapter 5 §5.6, Chapter 16 §16.3).
+**The retroflex lateral ळ (*ḷ*) in *agnimīḷe* is the key *chandas*-mode feature.** Pāṇini's *Aṣṭādhyāyī* marks rules deploying ळ as *chandasi*. The Nambūdiri, Mādhyandina, Kāṇva **शाखाः (*śākhās*)** all recite *agnimīḷe* with ळ intact across thousands of years through *guru-shishya* lineage-chains. The *bhāṣā* mode does not deploy ळ. The feature is not lost between the two modes — it is **mode-specific by engineered design** (Chapter 5 §5.6, Chapter 16 §16.3).
 
 One verse. The architecture operating. No grammar text needed for it to operate.
 

@@ -60,7 +60,7 @@ The interface trap is the first defense. Treat the visible glyph as the object. 
 
 ## 3.3 The "Brilliantly Adapted" Move
 
-The standard account does not usually say Brāhmī was crudely copied from Aramaic. It says something more careful. Brāhmī, the account claims, was adapted from Aramaic *brilliantly*.
+The foundational dogma does not usually say Brāhmī was crudely copied from Aramaic. It says something more careful. Brāhmī, the account claims, was adapted from Aramaic *brilliantly*.
 
 An unnamed Indian adapter supposedly took an Aramaic consonantal alphabet — twenty-two consonants, right-to-left writing, no systematic encoding of place of articulation — and transformed it into the Indic *abugida*: roughly forty-eight characters arranged by **स्थान (*sthāna*)** and **प्रयत्न (*prayatna*)**, vowels as diacritic modifications, left-to-right writing, and a *varga* matrix laid out by phonetic principle.
 
@@ -136,7 +136,7 @@ The same pattern appears elsewhere. Hammurabi's stele. Darius's Behistun inscrip
 
 A distributed civilization leaves a different archive. Notes, teaching aids, accounts, letters, mnemonic prompts, working drafts, student exercises, household records, market communication — these live on palm leaf, birch bark, wood, cloth, temporary tablets. In the Indian climate, that archive dies. The absence of surviving notebooks is not evidence that no one wrote notes. It is evidence that stone survives and palm leaf rots.
 
-This matters because *lipi* was not the civilizational calibrant. Chapter 13 §13.3 disqualified writing for the *sāṃskṛtika* bucket. The calibrant was sound: the *varṇamālā*, the eleven **पाठाः (*pāṭhāḥ*)**, the **प्रातिशाख्य (*Prātiśākhya*)** discipline, **शिक्षा (*Śikṣā*)**, **छन्दस् (*Chandas*)**, **व्याकरणम् (*Vyākaraṇam*)**, and the **गुरुशिष्यपरम्परा (*guru-shishya paramparā*)**. Writing could serve the system without carrying the system. A civilization that placed preservation in the mouth and ear had no need to make writing its primary archive.
+This matters because *lipi* was not the civilizational calibrant. Chapter 13 §13.3 disqualified writing for the *sāṃskṛtika* bucket. The calibrant was sound: the *varṇamālā*, the eleven **पाठाः (*pāṭhāḥ*)**, the **प्रातिशाख्य (*Prātiśākhya*)** discipline, **शिक्षा (*Śikṣā*)**, **छन्दस् (*Chandas*)**, **व्याकरणम् (*Vyākaraṇam*)**, and the **गुरुशिष्यपरम्परा (*guru-shishya paramparā*)**, the teacher-student lineage-chain. Writing could serve the system without carrying the system. A civilization that placed preservation in the mouth and ear had no need to make writing its primary archive.
 
 The first durable Brāhmī inscription dates the surviving interface. It does not date the *varṇamālā*. It does not date the mapping of the mouth. It does not date the isolation of the *varṇa* as sonomer. It does not date the invention of the *akṣara* as the imperishable sound-unit made visible.
 
@@ -282,13 +282,13 @@ Second, read the *Prātiśākhya* and *Śikṣā* literature as engineering docu
 
 Third, test the chronology of Aramaic-Brāhmī contact without letting the surviving stone archive decide the whole question. Durable stone records apex speech. It does not preserve the working notebook.
 
-Fourth, study the Abrahamic-substrate claims about the invention of writing as claims, not as background truth. The modern story of writing is not innocent. It protects a civilizational foundation.
+Fourth, study the Abrahamic-substrate claims about the invention of writing as claims, not as background truth. The pyramid's account of writing is not innocent. It protects a civilizational foundation.
 
 Fifth, describe Brāhmī's encoding system as the real engineering content: the *varga* matrix, the vowel-diacritic system, the *ayogavāha*, and the visible rendering of the *akṣara*. The source-script question must be reframed as a glyph-shape question, not a system-origin question.
 
 The project requires Sanskrit fluency sufficient to read the *Prātiśākhya* and *Śikṣā* texts in the original; training in epigraphy and the history of writing systems; familiarity with Aramaic, Phoenician, and the Near-Eastern alphabetic family; and the courage to test the invention-of-writing story rather than inherit it.
 
-The architecture is waiting for the account. The philological apparatus has examined the visible glyphs of Brāhmī. It has not decoded the system those glyphs render. The same engineering thesis the main chapters develop for Sanskrit applies, with proper substitution, to Brāhmī: the script is the *varṇamālā* made visible; the *varṇamālā* is the ordered sonomer architecture; the engineering predates the visible interface; and the engineering is Indic.
+The architecture is waiting for its account. The philological machinery has examined the visible glyphs of Brāhmī. It has not decoded the system those glyphs render. The same engineering thesis the main chapters develop for Sanskrit applies, with proper substitution, to Brāhmī: the script is the *varṇamālā* made visible; the *varṇamālā* is the ordered sonomer architecture; the engineering predates the visible interface; and the engineering is Indic.
 
 The work is open.
 

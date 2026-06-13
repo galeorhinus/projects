@@ -68,7 +68,7 @@ The *progressive dogma* treats the *pāṭhas* — when it engages them at all �
 
 The strongest evidence is not textual. It is audible.
 
-Vedic recitation survives in multiple geographically separated lineages: the Nambūdiri Brahmins of Kerala; Maharashtra Brahmin lineages; Tamil Nadu and Karnataka lineages; the Banaras and Allahabad lineages of the northern plains; Gujarat and Rajasthan lineages of the western coast; the Kashmir Pandit lineages preserved through displacement.[NOTE: nambudiri-vedic-recitation-isolation] These communities did not operate as one centralized institution and have no documented contact across most of the cross-lineage matrix. They preserved through parallel *guru-shishya* chains.
+Vedic recitation survives in multiple geographically separated lineages: the Nambūdiri Brahmins of Kerala; Maharashtra Brahmin lineages; Tamil Nadu and Karnataka lineages; the Banaras and Allahabad lineages of the northern plains; Gujarat and Rajasthan lineages of the western coast; the Kashmir Pandit lineages preserved through displacement.[NOTE: nambudiri-vedic-recitation-isolation] These communities did not operate as one centralized institution and have no documented contact across most of the cross-lineage matrix. They preserved through parallel *guru-shishya* lineage-chains.
 
 The recitations can be compared. Recordings exist. Frits Staal's fieldwork on Nambūdiri recitation in the 1970s placed recitation lineages into audio and film archives.[NOTE: staal-agni-nambudiri-recording] Later recordings extend the corpus. Where lineages differ, the differences are labeled, located, and governed by *śākhā* specification. They are not random drift.
 
@@ -96,7 +96,7 @@ The architecture is not a hypothesis. It has been running continuously, without 
 
 This is **ध्रौव्यता (*dhrauvyatā*)** in operation: not a claim about constancy, but audible constancy itself.
 
-A civilization the progressive dogma has classified as pre-rational and pre-engineering has produced and maintained the most sophisticated preservation architecture in human history; the pyramid's reflex is to treat the architecture's continued operation as evidence of how *traditional* the civilization is. *Tradition* is the pyramid's word for engineering it does not want to see.
+A civilization the progressive dogma has classified as pre-rational and pre-engineering has produced and maintained the most sophisticated preservation architecture in human history; the pyramid's reflex is to treat the architecture's continued operation as evidence of mere inherited custom. *Tradition* is the pyramid's word for engineering it does not want to see.
 
 The book calls it engineering.
 

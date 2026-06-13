@@ -4,7 +4,7 @@
 
 ---
 
-The standard story arrives in the reader's mind before the book can speak.
+The codification story arrives in the reader's mind before the book can speak.
 
 Sanskrit, the reader has been told, was once Vedic: older, freer, more irregular, more natural, more alive. Then speech changed. Forms shifted. Accent weakened. Infinitives narrowed. The subjunctive faded. Ordinary usage moved away from the archaic sacred language. Pāṇini entered the scene and performed the great act of codification. He observed the language, mapped it with unmatched brilliance, and froze the form later called Classical Sanskrit.
 
@@ -36,7 +36,7 @@ Third, Pāṇini is placed at the rupture-point. Before him, the language was ch
 
 Fourth, the living speech of the people is cast as the natural continuation of change. The Prakrits and later regional languages are made the organic descendants of spoken usage. Sanskrit becomes the elite, priestly, literary, codified form held artificially above the stream.
 
-The story is elegant because it tracks the assumptions of the field that tells it. Natural languages drift. Standard languages are codified. Older stages precede newer stages. Grammarians regularize what speakers have made unstable. A named genius fits the modern story of knowledge better than an anonymous architecture carried across thousands of years.
+The story is elegant because it tracks the assumptions of the field that tells it. Natural languages drift. Standard languages are codified. Older stages precede newer stages. Grammarians regularize what speakers have made unstable. A named genius fits the pyramid's account of knowledge better than an anonymous architecture carried across thousands of years.
 
 But elegance is not evidence.
 
@@ -72,7 +72,7 @@ That does not mean every relative ordering is false. It means the drift claim ha
 
 If a feature is treated as evidence of earlier date because the framework assumes that feature belongs to an earlier stage, the same feature cannot then be used as independent proof that the stage existed. The apparatus interpreted the evidence through its own assumptions, then presented the resulting chronology as fact. This book does not import dates produced by an apparatus it holds to have misread Sanskrit itself.
 
-The circularity becomes sharper at Pāṇini. The standard account says Pāṇini codified a changed language because Vedic and Pāṇinian Sanskrit differ. But the categories used to describe the difference already assume the conclusion: Vedic is earlier; Classical is later; Pāṇini stands between; the difference therefore must be historical drift.
+The circularity becomes sharper at Pāṇini. The pyramid's account says Pāṇini codified a changed language because Vedic and Pāṇinian Sanskrit differ. But the categories used to describe the difference already assume the conclusion: Vedic is earlier; Classical is later; Pāṇini stands between; the difference therefore must be historical drift.
 
 Pāṇini himself does not mark the difference that way.
 
@@ -137,7 +137,7 @@ The Indic architecture uses two domain terms and two mode terms.
 
 **छन्दस् (*chandas*)** and **भाषा (*bhāṣā*)** name modes: metrical-corpus operation and speech / learned-literary operation. Pāṇini marks the distinction in the grammar through locative forms: ***chandasi*** (छन्दसि), "in meter"; ***bhāṣāyām*** (भाषायाम्), "in speech."
 
-The standard account collapses all four into two chronological labels: Vedic and Classical. Then it places Pāṇini between them.
+The pyramid's account collapses all four into two chronological labels: Vedic and Classical. Then it places Pāṇini between them.
 
 That is category error. Worse, it is category theft. It takes Sanskrit's own operational categories, empties them of their function, refills them with the pyramid's chronology, and teaches the result back to the reader as neutral scholarship.
 
@@ -151,7 +151,7 @@ The Vedas remain the primary measure. *Bhāṣā* remains exposed to *apabhraṃ
 
 The Vedas preserved the architecture. Pāṇini made the architecture operational.
 
-## 8.7 The Decoding Tradition Before Pāṇini
+## 8.7 The Decoding Lineage Before Pāṇini
 
 Codification has no answer for the pre-Pāṇinian decoding lineage.
 
@@ -307,7 +307,7 @@ Early Modern English comes closer again:
 
 Legible, but marked: *which* where modern usage expects *who*, *art* where modern speech says *are*, verb endings and pronouns surviving mainly in liturgical or archaizing styles. The path from Old English to modern English has already passed through major structural loss — Old English carried five cases (nominative, accusative, genitive, dative, instrumental) and three grammatical genders; modern English keeps a vestigial possessive, an objective pronoun set, and no genders at all. Case collapse, gender loss, phonological shift, vocabulary replacement, hardened word order — the architecture itself was lost.
 
-A second asymmetry compounds the first. Vedic recitation today still produces the sounds the *Śikṣā* texts specify; the *pāṭha* lineages have preserved the audio. Old English pronunciation is *reconstructed* — no living tradition carries it. The architecture preserves what natural language loses.
+A second asymmetry compounds the first. Vedic recitation today still produces the sounds the *Śikṣā* texts specify; the *pāṭha* lineages have preserved the audio. Old English pronunciation is *reconstructed* — no living lineage carries it. The architecture preserves what natural language loses.
 
 English did not merely vary by mode. It changed by architecture. The earlier system became inaccessible to ordinary speakers. The modern reader needs specialists, glosses, dictionaries, and training to move backward.
 
@@ -325,7 +325,7 @@ English without its grammar books became a different language. Sanskrit without 
 
 ## 8.11 The Calibration Audit
 
-The decisive test has not been stated clearly enough in the standard account.
+The codification story has never stated the decisive test clearly enough.
 
 If Sanskrit drifted significantly before Pāṇini and Pāṇini codified the later stage, the claim should be measurable. Take the pre-Pāṇinian and para-Pāṇinian Sanskrit witnesses the continuum itself preserves: Vedic Saṃhitā passages, Brāhmaṇa prose, early Upaniṣadic prose, *Prātiśākhya* texts, *Śikṣā* material, Yāska's *Nirukta*, Sūtra literature, and the fragments or names of earlier grammarians. Run them against the architecture Pāṇini documents. Measure what fails. Separate *chandas*-mode features from *bhāṣā*-mode features. Separate metrical alternation from grammatical rupture. Separate recension specification from uncontrolled drift. Separate lexical domain from phonological collapse.
 
@@ -444,7 +444,7 @@ Heroic erasure works because it is emotionally satisfying. The reader gets a her
 
 Once the architecture is visible, the praise has to change form.
 
-Pāṇini should be praised as the greatest decoder of Sanskrit's engineering, not as the codifier who created the engineering. The *Aṣṭādhyāyī* should be praised as the most compact working calibrant for *bhāṣā*, not as the authority that froze Sanskrit. The grammatical *paramparā* should be praised as a decoding lineage, not as a series of standardizing interventions. The Vedas should be recognized as the primary calibration matrix, not as archaic material later disciplined by grammar.
+Pāṇini should be praised as the greatest decoder of Sanskrit's engineering, not as the codifier who created the engineering. The *Aṣṭādhyāyī* should be praised as the most compact working calibrant for *bhāṣā*, not as the authority that froze Sanskrit. The grammatical lineage-chain should be praised as a decoding lineage, not as a series of standardizing interventions. The Vedas should be recognized as the primary calibration matrix, not as archaic material later disciplined by grammar.
 
 That praise does not shrink Pāṇini. It restores his real magnitude. A man who imposes order on disorder is brilliant, but untrue. A man who decodes an architecture already encoded across the Vedas, preserved through recitation, analyzed by prior disciplines, and still compresses it into the *Aṣṭādhyāyī* is something rarer.
 
@@ -477,7 +477,7 @@ Each inversion protects the same premise: Sanskrit must not be the engineered ca
 
 The replacement model is simpler than the pyramid's story because it does not need to hide its speculation.
 
-Sanskrit stands before the historical record as an already engineered architecture. Who specified it, when the specification occurred, and how it entered human transmission are not questions this book pretends to answer. The *paramparā* says the *ṛṣis* saw and the lineage heard. The rationalist mind may bracket the metaphysics. It still has to account for the architecture.
+Sanskrit stands before the historical record as an already engineered architecture. Who specified it, when the specification occurred, and how it entered human transmission are not questions this book pretends to answer. The lineage-chain says the *ṛṣis* saw and the lineage heard. The rationalist mind may bracket the metaphysics. It still has to account for the architecture.
 
 The Vedas are the primary calibration matrix. They are not reducible to scripture. They are also the preserved corpus-form of the linguistic architecture. They carry grammar, sound, meter, derivation, and transmission in one body.
 

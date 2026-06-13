@@ -76,7 +76,7 @@ Before Chapter 10 measures that atom, the book has to show the instrument and fi
 
 Sanskrit does not have roots.
 
-It has *dhātavaḥ*.
+It has atoms. It has *dhātavaḥ*.
 
 ---
 
