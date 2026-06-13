@@ -456,7 +456,7 @@ One engineering signature, three levels, one principle: range preserved where ra
 | 19 | **स्था (*sthā*)** | 166 | stand |
 | 20 | पत् (*pat*) | 164 | fall, fly |
 
-The **canonical nine polyvalent core** — *kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ* — is bolded above; all nine land in the top 19. Chapter 11 §11.6 develops this set as the carbon-class core. Mean valency across the full 3,839 roots is 9.2; median is 2 (long-tail distribution, exactly as compression predicts).
+The **canonical nine polyvalent core** — *kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ* — is bolded above; all nine land in the top 19. Chapter 11 §11.6 develops this set as the carbon-class core. Mean valency across the full 3,839 roots is 9.2; median is 2, a long-tail distribution consistent with compression architecture.
 
 **Methodological note on *vartay*.** *vartay* appears at valency 194 but is a DCS-derived causative lemma — the form is a corpus-attested causative derivative of वृत् (*vṛt*), not a canonical *Dhātupāṭha* atom. The 9 canonical polyvalents land at ranks 1, 2, 6, 7, 13, 15, 16, 19 (one rank shifts up when *vartay* is excluded).
 
@@ -503,7 +503,7 @@ Style-internal agreement is higher than cross-style — but cross-style agreemen
 
 ![Rank trajectory of the canonical polyvalent *dhātavaḥ* across DCS sub-corpora.](figures/ganah/canonical_rank_trajectory.svg){#fig:app5-canonical-rank-trajectory width=90%}
 
-The deployments vary. The core remains. That is what an engineered inventory predicts: a stable set of high-reactivity atoms; different domains apply them to different work; the same engine drives all of them.
+The deployments vary. The core remains. The result matches the procedural model: a stable set of high-reactivity atoms, different domains applying them to different work, and the same engine driving all of them.
 
 ---
 
@@ -566,7 +566,7 @@ Productivity by structural pattern:
 
 **Future *śāstra* audit (Path B).** A separate audit can be run against the *Aṣṭādhyāyī* itself. That study would not count dictionary derivatives or corpus-visible usage. It would count the formal bonding space the *śāstra* licenses: which *dhātavaḥ* can take which operations, *upasargāḥ*, *vikaraṇāni*, and *pratyayāḥ* under the rule-system. That is future work.
 
-That is not drift. That is engineering.
+The numbers match the architecture: minimum atoms, maximum reach, regular procedure.
 
 ---
 
@@ -587,7 +587,7 @@ These principles operate simultaneously and reinforce each other. The architectu
 
 The fractal signature is visible in the data itself. Particle count, *akṣara* count, *varga* column, position within syllable, cluster-joiner specialization, *mūrdhanya* dual-role, *gaṇa*-specific matching, productivity-from-minimum, *vaicitrya*'s tail — each is a different slice of the same inventory; each shows the same compression-with-recoverability law operating. The architecture is not fractal because the prose says so. It is fractal because the same engineering signature recurs wherever the data is sliced.
 
-The *Dhātupāṭha* is an atomic inventory. The numbers show the engineering.
+The *Dhātupāṭha* is an atomic inventory. The numbers audit the engineering.
 
 ## 6.15 Replication — Two Reproducibility Bundles
 
@@ -715,7 +715,7 @@ Forward — Path B *śāstra* audit deferred to future research; Path C extensio
 **Voice notes:**
 
 - Voice: empirical-engineering report with prediction-data-verdict cycles. Closer to a technical appendix than to the prosecutorial voice of Parts 1–3 or the constructive-demonstrative voice of Part 4.
-- Polemic carried at §6.13 close (natural-language inversion: "That is not drift. That is engineering.") and §6.14 synthesis close ("The numbers show the engineering.").
+- Polemic carried at §6.13 close (natural-language inversion: "minimum atoms, maximum reach, regular procedure") and §6.14 synthesis close ("The numbers audit the engineering.").
 - Falsifications named in the open at each verdict block — empirical-rigor signal that distinguishes engineering thesis from confirmation-only prose.
 - §6.7 falsification narrative (48.5% → 58.2%) is the appendix's signature methodological move: name what the wrong stripping produced; name what the right stripping produces; let the methodology improvement carry the engineering signal.
 

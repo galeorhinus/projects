@@ -187,6 +187,8 @@ The scaffold level is where this test becomes visible. If the architecture has n
 
 The **धातुपाठ (*Dhātupāṭha*)** lists 2,168 *dhātavaḥ* across ten **गणाः (*gaṇāḥ*)**. After **अनुबन्ध (*anubandha*)** stripping — removing Pāṇini's metadata markers from the pronounced form — the inventory inhabits 47 observed *racanā* scaffolds. The distribution is not flat. Ten scaffolds carry **91.0%** of the inventory.[NOTE: dhatupatha-empirical-distribution]
 
+At this point the chapter is measuring architecture before *prayoga*. No speaker has deployed the atoms yet. The canonical inventory itself concentrates into a small family of measured scaffolds. A Zipf-like usage pattern can explain why a few forms become common in speech; it cannot explain why the inventory of semantic atoms is already scaffolded this tightly before use begins.[NOTE: zipf-rank-frequency]
+
 ![The top ten *racanāḥ* by count across the 2,168-entry *Dhātupāṭha*.](figures/building_dhatuh/top_ten_racanas.svg){#fig:building-dhatuh-top-ten-racanas width=95%}
 
 The chart shows the distribution shape. The roster below lists each scaffold by the *-ādi* convention and gives its *mātrā* budget, count, share, and sample *dhātavaḥ*. The icon is the scaffold's visual signature; the *-ādi* name is the reader-facing name.
@@ -295,7 +297,7 @@ If the top ten dominate only the inventory and dissolve in actual use, the archi
 
 ![Top-10 *racanāḥ* vs the tail across four measures. Concentration holds — and tightens — as the architecture moves from inventory into *prayoga*.](figures/building_dhatuh/scaffold_deployment.svg){#fig:building-dhatuh-scaffold-deployment width=95%}
 
-The same scaffolds do the work in *prayoga*. The top ten do not collapse when Sanskrit leaves the *Dhātupāṭha* and enters actual use. They still carry almost nine-tenths of the *dhātavaḥ* visible in use, more than nine-tenths of the measured bonds, and more than nine-tenths of the counted uses. The inventory pattern survives deployment.
+Usage is next. Living speech normally produces rank-frequency concentration: a few forms carry heavy use while a long tail remains available. By itself, that fact would be weak. The test here is sharper. The same scaffolds that dominate the canonical inventory still carry almost nine-tenths of the *dhātavaḥ* visible in use, more than nine-tenths of the measured bonds, and more than nine-tenths of the counted uses. The inventory pattern survives deployment.
 
 | Measure | Top ten *racanāḥ* | Tail |
 |---|---:|---:|
@@ -326,7 +328,7 @@ The *dhātuḥ* passes the final test. It is *anavadyam*: stable through use, vi
 
 The six tests now stand together. The *dhātuḥ* — the atom — is compact, economical, distinct, essence-bearing, many-facing, and stable. These are the same defining characteristics the *sūtra-lakṣaṇam* specifies for the *sūtra*, now visible at the atomic scale.
 
-The burden now shifts. Anyone who wants to call this ordinary natural-language behavior must produce another natural-language inventory of semantic atoms with this level of compact scaffold coverage, timing discipline, governed long-tail range, and grammatical behavior after bonding. Until then, the *dhāturacanā* result stands as engineering evidence.
+The burden now shifts. Anyone who wants to call this ordinary natural-language behavior must produce another natural-language inventory of semantic atoms with this level of compact scaffold coverage, timing discipline, governed long-tail range, and grammatical behavior after bonding. Until then, the *dhāturacanā* result remains evidence for engineering, not ordinary rank-frequency concentration.
 
 ## 10.13 Engineering Was Common Knowledge
 

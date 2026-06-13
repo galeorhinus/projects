@@ -269,7 +269,7 @@ The third result is the tier structure. The corpus-visible *dhātuḥ* labels ar
 
 The canonical polyvalent exemplars are **कृ (*kṛ*)**, **भू (*bhū*)**, **स्था (*sthā*)**, **गम् (*gam*)**, **ज्ञा (*jñā*)**, **दा (*dā*)**, **धा (*dhā*)**, **नी (*nī*)**, and **हृ (*hṛ*)**.[NOTE: dcs-vs-dhatupatha-count] These nine alone produce 26.5% of the verb-token record.
 
-The distribution is the signal.
+The distribution matters because the procedure is already visible.
 
 | Corpus-visible set | Share of verb-token record |
 |---|---:|
@@ -278,9 +278,9 @@ The distribution is the signal.
 | Top 100 | **67.5%** |
 | Top 500 | **94.0%** |
 
-The similarity with natural languages must be admitted first. Natural languages also concentrate use. English leans heavily on *be*, *have*, *do*, *go*, and *make*. Every living speech-field develops a small high-frequency core and a long tail.
+The similarity with living languages comes first. Natural languages also show rank-frequency concentration, often called Zipf-like behavior: a small high-use core carries much of actual speech, while a long tail remains available for rare or specialized use. English leans heavily on *be*, *have*, *do*, *go*, and *make*. Sanskrit shows the same surface behavior in *prayoga*, and that is expected. The *dhātavaḥ* are fixed as calibrated atoms, but their deployment was never frozen.
 
-Frequency concentration by itself proves nothing.
+By itself, frequency concentration shows only that Sanskrit behaves like usable speech, not like a dead code.
 
 Sanskrit is different because its concentration is coupled to architecture.[NOTE: productivity-inversion-natural-language]
 
@@ -295,7 +295,7 @@ The difference is not concentration alone. It is concentration plus compactness,
 
 The higher the yield, the smaller the atom.
 
-That is not drift. That is design.
+The numbers confirm the procedure already visible: compact atoms carry wider bonding reach.
 
 Similarity shows Sanskrit is usable speech. The persistent sonomeric procedure shows engineered speech.
 
@@ -325,7 +325,7 @@ The current periodic-axes figure places *dhātavaḥ* visible in the corpus by i
 
 ![*Dhātavaḥ* visible in the corpus, positioned by initial *varga* column and inherent vowel, with reactivity tier encoded visually — the procedure's statistical shadow.](figures/ganah/periodic_table.svg){#fig:ganah-periodic-axes width=100%}
 
-The figure should not be read as the only possible table. The analysis tested multiple axes. Inherent vowel produces the sharpest split in the valency distribution: vowel-ऋ atoms generate 13.6% of corpus tokens from 3.3% of the verbal atoms visible in the corpus, with mean valency 34.35.[NOTE: inherent-vowel-secondary-axis] The *varga* column remains structurally decisive because it ties the *dhātuḥ* back to the *varṇamālā*'s articulatory grid.
+The figure is one possible table, not the only possible table. The analysis tested multiple axes. Inherent vowel produces the sharpest split in the valency distribution: vowel-ऋ atoms generate 13.6% of corpus tokens from 3.3% of the verbal atoms visible in the corpus, with mean valency 34.35.[NOTE: inherent-vowel-secondary-axis] The *varga* column remains structurally decisive because it ties the *dhātuḥ* back to the *varṇamālā*'s articulatory grid.
 
 These are not competing facts. They are orthogonal dimensions of the same architecture.
 
@@ -349,7 +349,7 @@ The canonical nine polyvalent atoms — *kṛ, bhū, sthā, gam, jñā, dā, dh�
 
 The deployments vary. The core remains.
 
-That is exactly what an engineered inventory predicts. The architecture provides a stable set of high-reactivity atoms. Different domains apply them to different work. The Vedic corpus, the epic corpus, the philosophical corpus, and the later learned corpus do not need identical surface usage. They need the same engine.
+That is what the procedural model expects. The architecture provides a stable set of high-reactivity atoms. Different domains apply them to different work. The Vedic corpus, the epic corpus, the philosophical corpus, and the later learned corpus do not need identical surface usage. They need the same engine.
 
 They have it.
 
