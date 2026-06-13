@@ -684,7 +684,7 @@ Ojha's body of work is large, much of it composed in Sanskrit and associated wit
 
 **Deployments:** Preface — "The Lineage This Book Extends."
 
-The Preface uses Kak primarily for the Vedic-structural claim, not merely for the narrower Pāṇinian-algorithmic claim. His work helps establish that the Vedic corpus can be read as deliberate architecture: ordered, numerically patterned, and information-bearing. Standard references: Subhash Kak, *The Astronomical Code of the Rgveda* (1994; revised editions), *The Architecture of Knowledge* (2004), and related essays on Vedic structure and Indic science.
+The Preface uses Kak primarily for the Vedic-structural claim, not merely for the narrower Pāṇinian-algorithmic claim. His work helps establish the Vedic corpus as deliberate architecture: ordered, numerically patterned, and information-bearing. Standard references: Subhash Kak, *The Astronomical Code of the Rgveda* (1994; revised editions), *The Architecture of Knowledge* (2004), and related essays on Vedic structure and Indic science.
 
 ---
 
@@ -2308,7 +2308,7 @@ The *śikṣā* tradition assigns explicit *mātrā* counts to the sound classes
 
 The companion vowel-duration framework is documented at `hrasva-dirgha-pluta-matra`.
 
-**One *mātrā* is a proportional unit.** The textual claim should not be read as a fixed stopwatch value. A *mātrā* changes with recitation pace, lineage tempo, and phonetic environment. What remains fixed is the ratio: hrasva = 1, dīrgha = 2, pluta = 3, consonant = ½. This is the *Śikṣā*'s engineering signature: the absolute durations can vary, but the proportional timing grid remains stable.
+**One *mātrā* is a proportional unit.** The textual claim does not mean a fixed stopwatch value. A *mātrā* changes with recitation pace, lineage tempo, and phonetic environment. What remains fixed is the ratio: hrasva = 1, dīrgha = 2, pluta = 3, consonant = ½. This is the *Śikṣā*'s engineering signature: the absolute durations can vary, but the proportional timing grid remains stable.
 
 **Modern phonetics measurement of stop consonants.** A stop consonant (Sanskrit *sparśa*: क ख ग घ ङ etc.) has three measurable components:
 
@@ -4145,7 +4145,7 @@ The note does not claim that every relative ordering of Sanskrit texts is false.
 
 **Deployments:** Appendix Part 8 §8.10, *The Calibration Audit*.
 
-The "calibration audit" is the test the standard codification story would need to pass. The dogma's claim is not merely that Sanskrit usage varied; variation is already granted. The claim is that Sanskrit changed enough before Pāṇini that his grammar must be read as codification — a late authority imposing stable form on a drifting language. That claim is measurable in principle. One would take the Vedic Saṃhitās, Brāhmaṇas, Āraṇyakas, Upaniṣads, *Prātiśākhya* and *Śikṣā* materials, Yāska's *Nirukta*, Sūtra literature, and the pre-Pāṇinian grammatical traces; classify features by *vaidika* / *laukika* domain and *chandas* / *bhāṣā* mode; separate metrical alternation from uncontrolled change; separate recension-specific specification from drift; and then measure what genuinely fails against the architecture Pāṇini documents. The book's initial audit points the other way: the Vedas already operate the grammar, the *Dhātupāṭha* shows compressed atomic structure, Patañjali begins from an established word-meaning bond, and variation repeatedly falls into bounded categories rather than unbounded decay.
+The "calibration audit" is the test the standard codification story would need to pass. The dogma's claim is not merely that Sanskrit usage varied; variation is already granted. The claim is that Sanskrit changed enough before Pāṇini that his grammar must be treated as codification — a late authority imposing stable form on a drifting language. That claim is measurable in principle. One would take the Vedic Saṃhitās, Brāhmaṇas, Āraṇyakas, Upaniṣads, *Prātiśākhya* and *Śikṣā* materials, Yāska's *Nirukta*, Sūtra literature, and the pre-Pāṇinian grammatical traces; classify features by *vaidika* / *laukika* domain and *chandas* / *bhāṣā* mode; separate metrical alternation from uncontrolled change; separate recension-specific specification from drift; and then measure what genuinely fails against the architecture Pāṇini documents. The book's initial audit points the other way: the Vedas already operate the grammar, the *Dhātupāṭha* shows compressed atomic structure, Patañjali begins from an established word-meaning bond, and variation repeatedly falls into bounded categories rather than unbounded decay.
 
 ---
 
