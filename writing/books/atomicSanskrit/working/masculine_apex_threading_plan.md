@@ -66,13 +66,17 @@ Lock the rule before any prose changes, so all passes and future drafting apply 
 - **Ch 3 §3.6 close:** Schleicher (the canonical named individual operator) as *he* — the asuric operator is male.
 - Any other asura-defeat narrative deployment: the Goddess/Śakti undoing.
 
-### Pass 3 — Pronoun-drip (distributed, manuscript-wide)
+### Pass 3 — Pronoun-drip + trait-drip (distributed, manuscript-wide)
 
 Audit every *personified* singular reference to the apex and make the person male, leaving the abstract structure as *it*:
 - The one at the apex / the asura / the patriarch / the Father / the church's authority / individual priests-missionaries-jihadis / named operators (Schleicher, Müller, Bopp, Whitney) → **he/his**.
 - The pyramid / the dogma / the machinery / the church (as structures) → **it**.
 - The distributed/restoring side (Śakti, Vāk, Sarasvatī, the calibrant, Sanātan-as-mother) → **she/her** where natural.
 - CAUTION: do not force pronouns where the antecedent is genuinely an abstraction; the drip is on the *occupant*, not the *system*.
+
+**Trait toolkit (the drip vocabulary — "drip them all over," author-endorsed 2026-06-11).** At apex-moments deploy short *He …* sentences so the pronoun carries the gender and the trait carries the asuric character. The menu (grounded in AP0's defect/motive vocabulary and the §3.6 anchor): *He has an ego. He dominates. He hoards. He withholds. He is jealous of what he did not build. He cannot bear an order above his own. He must own what he cannot make. He requires submission. He fears what he cannot equal. He abides no equal. He takes from below and returns nothing. He wears another's face. He is petty.*
+- **Discipline: vary and space.** One or two traits per site, rotated; never the whole list, never the same trait twice in a neighborhood. The §3.6 anchor (ego / dominates / hoards / jealous / cannot bear an order above his own) is the one place a short cluster is allowed; everywhere else is a single quiet touch.
+- **Target ~12–16 sites** across AP0, Ch 3, Ch 18 (Schleicher), Prologue, Epilogue, and the operator moments. Accumulation indelible; each touch subtle.
 
 ### Pass 4 — Feminine contrast-examples (sharpen existing poles)
 

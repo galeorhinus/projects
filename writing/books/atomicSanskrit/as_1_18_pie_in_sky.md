@@ -37,7 +37,7 @@ Constructed languages — often called conlangs, short for constructed languages
 
 Schleicher's PIE is a constructed language without the honesty of conlanging and without the engineering of a full conlang. The fictional-language projects build from the ground up: phonology first, morphology next, syntax next, vocabulary after that. Schleicher did none of that work. He collated forms from the real Indo-European languages, averaged them by the assumptions of the comparative method, replaced the Sanskrit *dhātavaḥ* that anchored the original family with reconstructed pseudo-roots, and supplied enough connecting grammar to write a short fable. The result is not a constructed language. It is a reverse-averaged hypothesis dressed in starred forms.
 
-The fictional-language projects openly invent. Schleicher claimed to be recovering. The discipline inherited the claim. Chapter 3 §3.6 identifies this operating mode in Indic-categorical idiom as *asuratva*; Schleicher is the named individual operator within the asuric pyramid §3.6 diagnoses.
+The fictional-language projects openly invent. Schleicher claimed to be recovering — he wore the discoverer's face over the inventor's work. The discipline inherited the claim. Chapter 3 §3.6 identifies this operating mode in Indic-categorical idiom as *asuratva*; Schleicher is the named individual operator within the asuric pyramid §3.6 diagnoses.
 
 PIE is the conlang the conlangers' craft disowns.
 

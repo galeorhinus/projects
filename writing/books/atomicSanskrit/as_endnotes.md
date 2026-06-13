@@ -420,6 +420,16 @@ Standard references: David W. Anthony, *The Horse, the Wheel, and Language: How 
 
 ---
 
+### `devi-mahatmya-goddess-undoes-male-apex`
+
+**Short:** The *Devī Māhātmya* (*Durgā Saptaśatī*, embedded in the *Mārkaṇḍeya Purāṇa*) narrates the Goddess destroying the male asura-apex: Durgā slays Mahiṣāsura; Caṇḍikā / Kālī slays Śumbha, Niśumbha, Caṇḍa-Muṇḍa, and Raktabīja. Paired in the wider corpus with male undoers (Narasiṃha slays Hiraṇyakaśipu; Indra slays Vṛtra), so the constant is the apex's maleness, not the gender of its undoing.
+
+**Deployments:** Appendix Part 0 — the apex-is-always-male observation.
+
+The narrative pattern is consistent across the *Itihāsa-Purāṇa* corpus: the figure who claims the apex is male (Hiraṇyakaśipu, Rāvaṇa, Vṛtra, Mahiṣa, Śumbha, Bali), while the women on the asura side (Pūtanā, Tāṭakā, Sūrpaṇakhā, Holikā) act as agents and kin rather than apex-rulers — there is no canonical apex-*asurī*. The undoing is not gendered the same way: male undoers (Viṣṇu's Narasiṃha, Indra, Rāma) and the feminine Goddess (Durgā, Kālī) both destroy male apexes. The *Devī Māhātmya* is the sharpest case of the feminine undoing, deployed in Appendix Part 0 as contrast, not as a claim that the restorer is feminine.
+
+---
+
 ### `pollock-sanskrit-cosmopolis-position-3`
 
 **Short:** Sheldon Pollock, *The Language of the Gods in the World of Men: Sanskrit, Culture, and Power in Premodern India* (University of California Press, 2006), as the central contemporary exemplar of the Sanskrit-as-power / Sanskrit-cosmopolis frame.
