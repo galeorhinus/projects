@@ -3695,6 +3695,18 @@ Source: Standard Sanskrit usage of *ādi* as "beginning with, etc."; Pāṇinian
 
 ---
 
+### `zipf-rank-frequency`
+
+**Short:** Zipf-like behavior refers to the rank-frequency pattern common in living languages: a small number of forms carry very high use, while a long tail carries rare or specialized use. Chapter 10 invokes it only as a contrast. Zipf-like usage can explain why a few forms become frequent after speech begins; it does not explain why the pre-use *Dhātupāṭha* inventory is already concentrated into a small family of measured *racanā* scaffolds.
+
+**Deployments:** Chapter 10 §10.8; Chapter 10 §10.11; Chapter 11 §11.6.
+
+The term comes from George Kingsley Zipf's work on rank-frequency distributions in language. In the book's argument, Zipf is not treated as engineering evidence. It is the baseline natural-language expectation that must be separated from the stronger Sanskrit claim: compact atoms, stable scaffolds, measured timing, regular bonding, and cross-domain persistence.
+
+Source: George Kingsley Zipf, *The Psycho-Biology of Language* (Houghton Mifflin, 1935); George Kingsley Zipf, *Human Behavior and the Principle of Least Effort* (Addison-Wesley, 1949).
+
+---
+
 ### `scaffold-distinguishability-by-matra`
 
 **Short:** Ch 10 §10.9's distinguishability-within-compression table is computed from the same 2,168-entry *Dhātupāṭha* scaffold distribution used in `dhatupatha-empirical-distribution`, aggregated by *mātrā* budget. Reproducibility script: `analysis/dhatupatha/scripts/analyze_scaffold_distinguishability.py`; outputs: `analysis/dhatupatha/data/derived/scaffold_distinguishability_by_matra.csv` and `.md`. Main empirical signal: within the 2-*mātrā* bucket, ***gamādi*** accounts for 819 / 886 entries (**92.4%**) while the bare long-vowel form accounts for 2; within the 2½-*mātrā* bucket, ***spadādi* + *manthādi*** account for 412 / 520 entries (**79.2%**). The architecture is not merely shortening; inside equal timing budgets it prefers acoustically edged scaffolds.
@@ -3883,7 +3895,7 @@ Source: Yaska, *Nirukta* (Lakshman Sarup's edition, Motilal Banarsidass 1920–2
 
 ### `productivity-inversion-natural-language`
 
-**Short:** Natural languages display the *frequency-irregularity correlation* — high-frequency forms tend toward suppletive idiosyncrasy (English *be / have / do*; Latin *esse / ire / ferre*; Greek *eimi / oida / phēmi*); the correlation is one of the most-replicated findings in natural-language morphology, explained by high-frequency forms being mastered as wholes and resisting analogical regularization. Sanskrit shows the *opposite* pattern: the most-productive *dhātus* (*kṛ, bhū, gam, sthā, dā, dhā, jñā, hṛ, nī*) are the most structurally *minimal* (CV / CVC) *and* the most paradigmatically *regular*. Empirical signature in the *Dhātupāṭha* curated sample: Spearman ρ = −0.485 between productivity and sonomer count; CV pattern mean productivity 2.9× the CCVCC pattern's; top-20 productivity ranks dominated by minimal-sonomer patterns. Both axes are engineered at once.
+**Short:** Rank-frequency concentration is expected in living languages and is not treated here as engineering evidence by itself. The engineering claim begins where usage concentration couples to compact sonomeric atoms, stable scaffold order, regular bonding, and cross-domain persistence. Natural languages display the *frequency-irregularity correlation* — high-frequency forms tend toward suppletive idiosyncrasy (English *be / have / do*; Latin *esse / ire / ferre*; Greek *eimi / oida / phēmi*); the correlation is one of the most-replicated findings in natural-language morphology, explained by high-frequency forms being mastered as wholes and resisting analogical regularization. Sanskrit shows the *opposite* pattern: the most-productive *dhātus* (*kṛ, bhū, gam, sthā, dā, dhā, jñā, hṛ, nī*) are the most structurally *minimal* (CV / CVC) *and* the most paradigmatically *regular*. Empirical signature in the *Dhātupāṭha* curated sample: Spearman ρ = −0.485 between productivity and sonomer count; CV pattern mean productivity 2.9× the CCVCC pattern's; top-20 productivity ranks dominated by minimal-sonomer patterns. Both axes are engineered at once.
 
 **Deployments:** Appendix Part 6 §6.3.11; Claim #21. Chapter 10 supplies the compact-atom and scaffold-use foundation; the full productivity-inversion argument lives in the appendix.
 
@@ -3901,7 +3913,7 @@ Sanskrit shows the opposite pattern. The most-productive *dhātus* — *kṛ, bh
 
 The empirical signature in the *Dhātupāṭha* curated sample (138 *dhātus*; full data in `analysis/dhatupatha/data/dhatu_productivity.csv`): Spearman ρ = −0.485 between productivity and sonomer count; CV pattern mean productivity 2.9× the CCVCC pattern's; top-20 dominated by minimal-sonomer patterns (11 of 20 are CV).
 
-The architectural inference: in natural languages, high-frequency drives idiosyncrasy because the language is *natural* — frequency shapes the form. In Sanskrit, high-frequency is associated with structural minimum AND paradigmatic regularity because the language is *engineered* — both axes are engineered at once. The pattern is a signature natural-language drift does not produce, has never been observed to produce, and the engineering thesis predicts directly.
+The architectural inference: in natural languages, high-frequency drives idiosyncrasy because the language is *natural* — frequency shapes the form. In Sanskrit, high-frequency is associated with structural minimum AND paradigmatic regularity because the language is *engineered* — both axes are engineered at once. The cited natural-language pattern points the other way; the Sanskrit pattern is the one the engineering thesis expects.
 
 Source: Bybee 1985, *Morphology: A Study of the Relation between Meaning and Form* (Benjamins); Haspelmath 2002, *Understanding Morphology* (Hodder); Greenberg 1966, *Language Universals* (Mouton); Bybee & Hopper 2001 (eds.), *Frequency and the Emergence of Linguistic Structure* (Benjamins) — these document the natural-language frequency-irregularity correlation. Monier-Williams 1899 and V. S. Apte 1890 for the Sanskrit productivity counts; reproducibility bundle at `analysis/dhatupatha/` for the curated sample and the analysis script.
 
