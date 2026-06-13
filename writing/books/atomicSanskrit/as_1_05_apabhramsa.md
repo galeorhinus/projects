@@ -147,7 +147,7 @@ The internal infrastructure that makes Sanskrit a calibrant is Chapter 14's cali
 
 **Codex compressions retained:**
 
-- 7-section structure preserved with sharper titles (e.g., *"Few Words, Many Corruptions"* tightens *"The Quantitative Observation"*; *"Variation Is Not Drift"* tightens *"What the Orthodoxy Calls 'Variation in the Vedas'"*).
+- 7-section structure preserved with sharper titles (e.g., *"Few Words, Many Corruptions"* tightens *"The Quantitative Observation"*; *"Variation Is Not Drift"* tightens the earlier *"What the Pyramid Calls 'Variation in the Vedas'"* formulation).
 - §5.4 close: *"Pyramid: correction by authority. Sanātan: correction by architecture. Sanskrit was not codified. It was engineered."* — locks the codification polemic at the section's close. Codex addition, net improvement.
 - §5.5 anti-entropy compression: *"Poetry, recitation, meter, and lineage are not cultural ornaments. They are the anti-entropy architecture."* — tighter than the current chapter's equivalent.
 - §5.6 — the dogma's eight specific claims compressed to one summary paragraph (current's per-claim walk lives in Appendix Part 7 as canonical home). Defensible compression since the detail belongs to the appendix.

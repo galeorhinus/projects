@@ -38,7 +38,7 @@ Six words. Walked phrase by phrase:
 
 - ***agnimīḷe*** (अग्निमीळे) decomposes as *agnim* + *īḷe*. The first piece is *agnim* (अग्निम्) — **accusative singular** (*dvitīyā vibhakti* द्वितीया विभक्ति, *ekavacana* एकवचन) of *agni* (अग्नि, *fire / fire-deity*). The second is *īḷe* (ईळे) — **1sg present middle** (*laṭ-lakāra* लट्, *ātmanepada* आत्मनेपद) of the *dhātu* *īḍ* / *īḷ* (ईड्/ईळ्, *to praise, to invoke*). Sandhi (सन्धि) operates at the juncture: *agnim* + *īḷe* → *agnimīḷe*.
 - ***purohitam*** (पुरोहितम्) — **accusative singular** of *purohita* (पुरोहित, *household priest*), itself a compound: *puras* (पुरस्, *in front*) + *hita* (हित, *placed*) → *purohita* per standard *sandhi*. In apposition with *agnim*.
-- ***yajñasya*** (यज्ञस्य) — **genitive singular** (*ṣaṣṭhī vibhakti* षष्ठी विभक्ति) of *yajña* (यज्ञ, *sacrifice / ritual*).
+- ***yajñasya*** (यज्ञस्य) — **genitive singular** (*ṣaṣṭhī vibhakti* षष्ठी विभक्ति) of *yajña* (यज्ञ, *fire offering*).
 - ***devam*** (देवम्) — **accusative singular** of *deva* (देव, *divine being*). Apposition with *agnim*.
 - ***ṛtvijam*** (ऋत्विजम्) — **accusative singular** of *ṛtvij* (ऋत्विज्, *officiating priest*). Fourth apposition.
 

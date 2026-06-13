@@ -6,8 +6,8 @@ Generates two SVGs directly:
      The Indic two-axis vocabulary: vaidika/laukika as domains,
      chandas/bhasha as modes.
 
-  2. preface_orthodoxy_flattening.svg
-     The orthodoxy's one-axis flattening: Vedic -> Classical -> drift.
+  2. preface_pyramid_flattening.svg
+     The pyramid's one-axis flattening: Vedic -> Classical -> drift.
 
 Run:
     python3 figures/preface_modes/fig_domain_mode_terms.py
@@ -148,7 +148,7 @@ def build_domains_modes_matrix():
     write_svg("domains_modes_matrix.from-py.svg", svg)
 
 
-def build_orthodoxy_flattening():
+def build_pyramid_flattening():
     width, height = 780, 420
     svg = svg_open(width, height)
 
@@ -161,7 +161,7 @@ def build_orthodoxy_flattening():
         '</defs>'
     )
 
-    svg.append(text(width / 2, 40, "The Orthodoxy Turns Domain and Mode Into Chronology", size=21, weight="bold"))
+    svg.append(text(width / 2, 40, "The Pyramid Turns Domain and Mode Into Chronology", size=21, weight="bold"))
     svg.append(text(
         width / 2, 66,
         "Pāṇini becomes the rupture point: pre-Pāṇini = Vedic, post-Pāṇini = Classical.",
@@ -182,12 +182,12 @@ def build_orthodoxy_flattening():
     svg.append(text(width / 2, top_y + 54, "one engineered system across both sides of Pāṇini", size=13, fill=INK))
     svg.append(text(width / 2, top_y + 78, "domains: vaidika / laukika · modes: chandas / bhāṣā", size=12, fill=MUTED))
 
-    # Orthodoxy split row.
+    # Pyramid split row.
     svg.append(rect(axis_x1, ortho_y, panini_x - axis_x1, row_h, fill="#FFF8F8", stroke=RED, sw=1.2, rx=6))
     svg.append(rect(panini_x, ortho_y, axis_x2 - panini_x, row_h, fill="#FFF8F8", stroke=RED, sw=1.2, rx=6))
-    svg.append(text(axis_x1 + (panini_x - axis_x1) / 2, ortho_y + 25, "orthodoxy's invention", size=11, fill=RED, weight="bold"))
+    svg.append(text(axis_x1 + (panini_x - axis_x1) / 2, ortho_y + 25, "pyramid's invention", size=11, fill=RED, weight="bold"))
     svg.append(text(axis_x1 + (panini_x - axis_x1) / 2, ortho_y + 47, "“Vedic”", size=20, fill=INK, weight="bold"))
-    svg.append(text(panini_x + (axis_x2 - panini_x) / 2, ortho_y + 25, "orthodoxy's invention", size=11, fill=RED, weight="bold"))
+    svg.append(text(panini_x + (axis_x2 - panini_x) / 2, ortho_y + 25, "pyramid's invention", size=11, fill=RED, weight="bold"))
     svg.append(text(panini_x + (axis_x2 - panini_x) / 2, ortho_y + 47, "“Classical”", size=20, fill=INK, weight="bold"))
     svg.append(text(axis_x1 - 18, ortho_y + 36, "split", size=12, fill=RED, weight="bold", anchor="end"))
 
@@ -206,17 +206,17 @@ def build_orthodoxy_flattening():
     svg.append(rect(88, 368, 604, 34, fill="white", stroke=GOLD, sw=1.4, rx=7))
     svg.append(text(
         width / 2, 390,
-        "The orthodoxy makes Pāṇini a rupture. The architecture makes him a witness.",
+        "The pyramid makes Pāṇini a rupture. The architecture makes him a witness.",
         size=15, fill=GOLD, weight="bold",
     ))
 
     svg.append("</svg>")
-    write_svg("orthodoxy_flattening.from-py.svg", svg)
+    write_svg("pyramid_flattening.from-py.svg", svg)
 
 
 def main():
     build_domains_modes_matrix()
-    build_orthodoxy_flattening()
+    build_pyramid_flattening()
 
 
 if __name__ == "__main__":

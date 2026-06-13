@@ -277,8 +277,9 @@ The book's argument can be compressed into seven claims. The twenty-two supporti
 - 17.3 The Test Applied — *The PIE-precursor model fails on each architectural feature in turn.*
 - 17.4 Gaslighting with Footnotes — *The present apparatus turns a civilization's own memory-work against itself.*
 - 17.5 How the Story Got Built — *The pyramid's speculation chain and the dharmic alternative, contrasted after the architecture is on the table.*
-- 17.6 An Honest Speculation for the Rationalist Mind — *The calibrated alternative: the seers saw, the lineage heard, the grammarians decoded, Pāṇini compressed, the Vedas remained the measure.*
-- 17.7 Pāṇini Praised, Architecture Erased — *The heroic-erasure close: Pāṇini's greatness is granted, then reclassified as decoding rather than origin.*
+- 17.6 The Migration Trap — *The racial Arya thesis survives by trapping the debate inside* movement *— invasion to migration, skulls to DNA — so the real question never gets asked: movement is not authorship. The script-domain twin of Appendix Part 3 §3.5.*
+- 17.7 An Honest Speculation for the Rationalist Mind — *The calibrated alternative: the seers saw, the lineage heard, the grammarians decoded, Pāṇini compressed, the Vedas remained the measure.*
+- 17.8 Pāṇini Praised, Architecture Erased — *The heroic-erasure close: Pāṇini's greatness is granted, then reclassified as decoding rather than origin.*
 
 **Chapter 18 — PIE in the Sky** — *The prosecutorial case against PIE. The bookkeeping defense rejected; the logic of the non-existent etymon; the* Pratibimba *killing move (what philology assembled into an imaginary ancestor is the average of the reflections, with Sanskrit as the calibrant).* PIE is in the sky. The architecture is on the ground. PIE must die.
 

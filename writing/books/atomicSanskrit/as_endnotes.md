@@ -330,7 +330,7 @@ The displacement of Sanskrit from the source position of Indo-European etymologi
 
 **Stage 3 — Late-19th to mid-20th-century academic consolidation: PIE reconstruction methodology cements.** The neogrammarian project (Karl Brugmann's *Grundriss der vergleichenden Grammatik der indogermanischen Sprachen*, 1886–1893, revised 1897–1916) systematized the comparative method and built out the machinery for reconstructing a proto-language distinct from any recorded form. *Proto-Indo-European* as a stable term enters the literature by 1905. The *PIE* abbreviation enters routine academic usage in mid-twentieth-century scholarship.
 
-**Stage 4 — Mid-20th century: PIE displaces Sanskrit in mainstream academic references.** The Oxford English Dictionary (first edition completed 1928), Julius Pokorny's *Indogermanisches etymologisches Wörterbuch* (1959), and the American Heritage Dictionary's IE Roots Appendix (1969, prepared by Calvert Watkins) — these standard reference works build the PIE-anchored etymological chain into the academic machinery. In academic-tier references after about 1960, Sanskrit cognates are presented alongside Latin, Greek, and Germanic forms as one daughter language among siblings; the chain's terminus is the reconstructed PIE form, not Sanskrit.
+**Stage 4 — Mid-20th century: PIE displaces Sanskrit in academic-tier references.** The Oxford English Dictionary (first edition completed 1928), Julius Pokorny's *Indogermanisches etymologisches Wörterbuch* (1959), and the American Heritage Dictionary's IE Roots Appendix (1969, prepared by Calvert Watkins) — these standard reference works build the PIE-anchored etymological chain into the academic machinery. In academic-tier references after about 1960, Sanskrit cognates are presented alongside Latin, Greek, and Germanic forms as one daughter language among siblings; the chain's terminus is the reconstructed PIE form, not Sanskrit.
 
 **Stage 5 — Late-20th-century popular-tier residue: 1990s desk dictionaries often retained Sanskrit-at-terminus chains.** Popular desk dictionaries (Merriam-Webster's Collegiate, Webster's New World Dictionary editions, Random House College Dictionary editions, Collins editions, mass-market reference works) frequently did not carry the academic PIE machinery. Their etymological chains continued to show Sanskrit cognates as the deepest cited form — not because the editors rejected PIE, but because popular references abbreviated the chain at the deepest real recorded language rather than reconstructing further back.
 
@@ -374,7 +374,7 @@ Roman Jakobson, "Why 'Mama' and 'Papa'?" in Bernard Kaplan and Seymour Wapner (e
 
 Jakobson's argument: the cross-linguistic pattern in which the kinship terms for mother and father cluster around CV-syllable forms — *mama* / *māmā* / *mātṛ* / *mater* / *mother* / *mère* for mother; *papa* / *pāpā* / *pitṛ* / *pater* / *father* / *père* for father — is not evidence of genetic cognation across the languages involved. It is, on Jakobson's account, evidence of a phonological universal grounded in infant articulation. Infants across all known languages produce the labial and dental nasal-stop sequences (bilabial /m/ and /p/, dental /t/ and /d/) at early developmental stages, ahead of more articulatorily demanding sounds. Cultures across the world have taken these early-babble syllables and assigned them as kinship terms — converging on similar surface forms not because the languages share an ancestor but because they share a biology. The implication is that *mama*-type and *papa*-type kinship terms across unrelated language families (Mandarin *māma*, Swahili *mama*, Mongolian *eej* but with the same CV structure in many cases) cannot be used as evidence of common descent or contact.
 
-The deflection has standing in mainstream comparative-philological practice. Where the Sanskrit *mātṛ* / Greek *mētēr* / Latin *māter* / English *mother* chain is presented as evidence of an Indo-European inheritance, a credentialed linguist can — and routinely does — reply that the *mātṛ*-type clustering reflects nursery-word universals as much as genetic cognation; the cognate-set evidence from kinship terms is therefore softer than the cognate-set evidence from less universal vocabulary.
+The deflection has standing inside comparative-philological practice. Where the Sanskrit *mātṛ* / Greek *mētēr* / Latin *māter* / English *mother* chain is presented as evidence of an Indo-European inheritance, a credentialed linguist can — and routinely does — reply that the *mātṛ*-type clustering reflects nursery-word universals as much as genetic cognation; the cognate-set evidence from kinship terms is therefore softer than the cognate-set evidence from less universal vocabulary.
 
 The chapter's response — and the load-bearing reason *yoke* is deployed as the secondary worked example after *mother* — is that the deflection has narrow scope. *Yoke* is not a kinship term, not a CV-syllable, not phonologically universal, not an item infants babble. It is an implement-name, an agricultural-technology term, embedded in a specific material practice (the harnessing of draft animals) that Sanskrit preserves as cultural inheritance. The nursery-word framework has nothing to say about *yoke*; the cognate chain Sanskrit *yuga* → Old English *geoc* → Middle English *yok* → Modern English *yoke* is recognized as a regular IE cognate set in every standard etymological reference and cannot be deflected by appeal to phonetic universals. The polemic structural move is to take the strongest deflection the pyramid has available and demonstrate that it does not reach. The argument from *mother* alone risks the nursery-word reply; the argument from *yoke* does not. Deploying both — *mother* as the personally-anchored example, *yoke* as the deflection-proof anchor — closes the rhetorical opening the *mother* case alone leaves.
 
@@ -700,7 +700,7 @@ The Preface names Malhotra for the public and institutional battle over Sanskrit
 
 ### `briggs-1985-ai-magazine`
 
-**Short:** Rick Briggs, "Knowledge Representation in Sanskrit and Artificial Intelligence," *AI Magazine* 6, no. 1 (Spring 1985): 32–39 (AAAI; written at NASA Ames Research Center) — the first widely-circulated articulation in mainstream English-language scientific literature of the Pāṇinian *vyākaraṇa* (व्याकरण) as a working knowledge-representation system anticipating late-twentieth-century AI semantic-network and frame-based representations.
+**Short:** Rick Briggs, "Knowledge Representation in Sanskrit and Artificial Intelligence," *AI Magazine* 6, no. 1 (Spring 1985): 32–39 (AAAI; written at NASA Ames Research Center) — the first widely-circulated articulation in English-language scientific literature of the Pāṇinian *vyākaraṇa* (व्याकरण) as a working knowledge-representation system anticipating late-twentieth-century AI semantic-network and frame-based representations.
 
 **Deployments:** Background endnote retained for Position-2 / Pāṇinian formal-system context. The Preface lineage rewrite no longer cites Briggs in the body.
 
@@ -708,7 +708,7 @@ Rick Briggs, "Knowledge Representation in Sanskrit and Artificial Intelligence,"
 
 The argument: Sanskrit grammatical analysis, as developed in the *vyākaraṇa* discipline culminating in Pāṇini's *Aṣṭādhyāyī*, produces a representational scheme for natural-language sentences that resembles — and in several respects anticipates — the semantic-network and frame-based representations developed in late-twentieth-century artificial intelligence. Briggs walks through the *kāraka* system (Sanskrit's case-role analysis), the *sūtra*-based generative rules, and the principle that any Sanskrit sentence can be analyzed into an unambiguous case-role specification, and observes that the Sanskrit architecture is doing — as a working system maintained across the lineage — what late-twentieth-century AI was attempting to engineer from scratch.
 
-The paper's reception was, as the *Preface* notes, polite and largely peripheral. *AI Magazine* circulates within the AI research community; the paper was read by computer scientists and computational linguists, occasionally cited in knowledge-representation literature, and never substantially engaged by mainstream Indology. The structural reason — that the implication of Briggs's account runs counter to the pyramid's account of Sanskrit's character — is the subject the present book develops.
+The paper's reception was, as the *Preface* notes, polite and largely peripheral. *AI Magazine* circulates within the AI research community; the paper was read by computer scientists and computational linguists, occasionally cited in knowledge-representation literature, and never substantially engaged by academic Indology. The structural reason — that the implication of Briggs's account runs counter to the pyramid's account of Sanskrit's character — is the subject the present book develops.
 
 The paper is available through the AAAI's *AI Magazine* archive (https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/466), reprinted in several AI anthologies, and widely circulated through Sanātan-aligned scholarly networks. Citation: Briggs, Rick. "Knowledge Representation in Sanskrit and Artificial Intelligence." *AI Magazine* 6, no. 1 (Spring 1985): 32–39.
 
@@ -905,7 +905,7 @@ Kaplan did not invent this displacement. His book makes it easy to see.
 
 The distinction matters. Many ancient cultures had placeholder devices, blank spaces, or positional conventions. The Indic achievement was different: a decimal place-value system in which **śūnya** (शून्य) made absence at a position into a written symbol and then into an object of calculation. Brahmagupta's *Brāhma-Sphuṭa-Siddhānta* gives rules for arithmetic with zero and negative numbers; the Arabic transmission literature explicitly names the system as *ḥisāb al-Hind*, the calculation of India. See `place-value-arabic-transmission` for the fuller transmission note.
 
-Kaplan is therefore named here not because he invented the displacement, but because his book is a clean popular exemplar of the move. The same pattern appears in script typology. The sonomer and audiography were available to be named. The apparatus instead named the Indic scripts by somebody else's category, *abugida*, and left the deeper Indic engineering unnamed.
+Kaplan is therefore named here not because he invented the displacement, but because his book is a clean popular exemplar of the move. The same pattern appears in script typology. The sonomer and audiography were available to be named. The machinery instead named the Indic scripts by somebody else's category, *abugida*, and left the deeper Indic engineering unnamed.
 
 ---
 
@@ -3757,7 +3757,7 @@ Sources: Wisdom Library's Rigveda pages for RV 1.23.11, RV 1.22.4, RV 1.26.3, an
 
 ### `vedic-kriyapadas-before-panini`
 
-**Short:** Ch 11 §11.1 states the book's position directly: Vedic *kriyāpadāni* such as *eti*, *asti*, *yajati*, *bhavati*, and *rājati* existed in the Vedic corpus thousands of years before Pāṇini. The asuric pyramid's chronology does not accept that depth, because its dating of Pāṇini and the Vedic corpus is part of the same comparative-philological apparatus this book refuses to treat as neutral.
+**Short:** Ch 11 §11.1 states the book's position directly: Vedic *kriyāpadāni* such as *eti*, *asti*, *yajati*, *bhavati*, and *rājati* existed in the Vedic corpus thousands of years before Pāṇini. The asuric pyramid's chronology does not accept that depth, because its dating of Pāṇini and the Vedic corpus is part of the same comparative-philological machinery this book refuses to treat as neutral.
 
 **Deployments:** Ch11 §11.1 (the Vedic-procedure-first setup).
 
@@ -4081,9 +4081,19 @@ The ***Nāsadīya Sūkta*** (नासदीयसूक्तम्) is *Ṛgve
 
 (इयं विसृष्टिर्यत आबभूव यदि वा दधे यदि वा न । यो अस्याध्यक्षः परमे व्योमन्त्सो अङ्ग वेद यदि वा न वेद ॥)
 
-The closing line — *so aṅga veda yadi vā na veda* / "he indeed knows — or maybe even he does not know" — is the canonical Indic statement of origin-honesty. The lineage-chain preserves it as *śruti*; the *Mīmāṃsā* discipline reads it as the *apauruṣeya* corpus's own admission of the limit of knowledge; the *Ṛgveda*'s tenth book carries it as the closing-frame poetry on the cosmic origin. The hymn is what makes *we do not know* a lineage-internal position rather than a polemic concession. See dossier for the full hymn text, the Sāyaṇa *bhāṣya* on 10.129.7, and the comparison with the pyramid's posture (Chapter 3 §3.2 on the *progressive dogma*'s inherited belief-first epistemology; Chapter 17 §17.6 on the two paired speculations).
+The closing line — *so aṅga veda yadi vā na veda* / "he indeed knows — or maybe even he does not know" — is the canonical Indic statement of origin-honesty. The lineage-chain preserves it as *śruti*; the *Mīmāṃsā* discipline reads it as the *apauruṣeya* corpus's own admission of the limit of knowledge; the *Ṛgveda*'s tenth book carries it as the closing-frame poetry on the cosmic origin. The hymn is what makes *we do not know* a lineage-internal position rather than a polemic concession. See dossier for the full hymn text, the Sāyaṇa *bhāṣya* on 10.129.7, and the comparison with the pyramid's posture (Chapter 3 §3.2 on the *progressive dogma*'s inherited belief-first epistemology; Chapter 17 §17.7 on the two paired speculations).
 
 Source: *Ṛgveda Saṃhitā*, Maṇḍala 10, Sūkta 129; standard edition Aufrecht 1877, *Die Hymnen des Rigveda*; Sāyaṇa's *bhāṣya*; translations Wendy Doniger (Penguin 1981), Stephanie W. Jamison & Joel P. Brereton (Oxford 2014).
+
+---
+
+### `migration-trap-movement-not-authorship`
+
+**Short:** Population genetics can establish movement, admixture, and ancestry; archaeology can establish contact, material culture, and settlement — neither establishes authorship of an engineered linguistic system, which can only be argued from the architecture, its preservation, and its operating rules.
+
+**Deployments:** Chapter 17 §17.6 — the migration trap; the *movement is not authorship* distinction.
+
+The distinction is methodological, not rhetorical. A genetic signature is evidence about bodies: who moved, who mixed, whose ancestry appears in which layer. An archaeological horizon is evidence about material culture: pottery, settlement, burial, trade goods. Both are real evidence about real things. Neither is evidence about who specified the *varṇamālā*, who engineered the *dhātu* inventory, or who built the calibration matrix that holds Sanskrit against drift. Authorship of an engineered language is established the way authorship of any engineered system is established — from the design, its internal consistency, and the discipline that preserves it — not from the movement of the populations among whom it is found. The racial Arya thesis depends on treating evidence-of-movement as evidence-of-authorship; the two are different categories of claim. This is the same distinction Appendix Part 3 §3.5 draws for scripts: contact is not authorship, shape is not structure.
 
 ---
 
@@ -4091,7 +4101,7 @@ Source: *Ṛgveda Saṃhitā*, Maṇḍala 10, Sūkta 129; standard edition Aufr
 
 **Short:** The calibration hierarchy names three levels: the Vedas as primary calibrant, *chandasi* and *bhāṣāyām* as parallel modes, and the *Aṣṭādhyāyī* as the working calibrant that makes the architecture explicit.
 
-**Deployments:** Chapter 17 §17.6 (the *How the Story Got Built* full deployment); Chapter 1 §1.1 carries a forward-pointing seed paragraph.
+**Deployments:** Chapter 17 §17.5 (the *How the Story Got Built* full deployment); Chapter 1 §1.1 carries a forward-pointing seed paragraph.
 
 The calibration hierarchy is the standing-framework geometry the book commits to for Sanskrit's origin-and-calibration question. Three layers. The Vedas are the **primary calibrant** — *apauruṣeya* (अपौरुषेय), encoded perfection, seen by the *dṛṣṭāḥ* and preserved by the lineage-chain across thousands of years; their origin upstream of the seers is genuinely not known, and the framework explicitly refuses to manufacture one (paralleling cosmology's refusal to claim knowledge of what is upstream of the observable universe). The two Sanskrit modes — ***chandasi*** (metrical / recitational mode) and ***bhāṣāyām*** (generative / spoken-literary mode) — are synchronic-parallel modes of one engineered architecture, marked by Pāṇini's own mode rules; *bhāṣā* is *calibrated against* the Vedas, not derived from them, preserving Claim 3's mode-not-evolution position. The ***Aṣṭādhyāyī*** is the **working calibrant** — the user's manual for the *bhāṣā* mode, decoded by Pāṇini from the architecture implicit in the Vedic corpus and from the prior decoding work of many *vaiyākaraṇāḥ*; the Vedas remain the primary reference, the *Aṣṭādhyāyī* the easier day-to-day calibrant. The framework is offered explicitly as an *alternative speculation* to the pyramid's PIE / migration story, parallel-structured to the pyramid's speculation-status but with the methodological honesty the pyramid lacks. See `reference/as_calibration_hierarchy.md` for the full framework reference document, including the 11-bullet source-thinking layer and Codex's 8-bullet corrected synthesis.
 
@@ -4103,7 +4113,7 @@ The calibration hierarchy is the standing-framework geometry the book commits to
 
 **Deployments:** Appendix Part 8 §8.3, *The Circular Method*.
 
-The note does not claim that every relative ordering of Sanskrit texts is false. It names the methodological risk in the pyramid's drift narrative. If a feature is first classified as "archaic" because the framework assumes it belongs to an earlier stage, and the text containing that feature is then dated earlier on that basis, the same feature cannot be used again as independent proof of an earlier language stage. The conclusion has been folded into the method. Appendix Part 8 therefore asks for a cleaner audit: separate *chandas* / *bhāṣā* mode-difference, metrical tooling, recensional specification, optionality, and genuine replacement before calling the observed difference "drift." The target is not chronology as such. The target is chronology manufactured by the same apparatus whose category collapse the book has already prosecuted.
+The note does not claim that every relative ordering of Sanskrit texts is false. It names the methodological risk in the pyramid's drift narrative. If a feature is first classified as "archaic" because the framework assumes it belongs to an earlier stage, and the text containing that feature is then dated earlier on that basis, the same feature cannot be used again as independent proof of an earlier language stage. The conclusion has been folded into the method. Appendix Part 8 therefore asks for a cleaner audit: separate *chandas* / *bhāṣā* mode-difference, metrical tooling, recensional specification, optionality, and genuine replacement before calling the observed difference "drift." The target is not chronology as such. The target is chronology manufactured by the same machinery whose category collapse the book has already prosecuted.
 
 ---
 
@@ -4313,7 +4323,7 @@ Hebrew and Arabic preserve powerful consonantal writing systems. They are not th
 
 The International Phonetic Alphabet is closer to a scientific mouth-map, but it is modern, descriptive, and external to any one language's generative grammar or recitation architecture. Sanskrit's *varṇamālā* is older in civilizational function and deeper in integration: it is not merely a phonetic chart; it is the sound inventory from which the language builds atoms, words, recitation, meter, and grammatical operations.
 
-The *vikṛti* is therefore not Hebrew, Arabic, or any other language. The *vikṛti* is the apparatus that uses those traditions as favored origin-pillars while refusing to name Sanskrit's sonomeric architecture on its own terms.
+The *vikṛti* is therefore not Hebrew, Arabic, or any other language. The *vikṛti* is the machinery that uses those traditions as favored origin-pillars while refusing to name Sanskrit's sonomeric architecture on its own terms.
 
 ---
 

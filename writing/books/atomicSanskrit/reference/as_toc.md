@@ -215,8 +215,9 @@
 - 17.3 The Test Applied
 - 17.4 Gaslighting with Footnotes
 - 17.5 How the Story Got Built
-- 17.6 An Honest Speculation for the Rationalist Mind
-- 17.7 Pāṇini Praised, Architecture Erased
+- 17.6 The Migration Trap
+- 17.7 An Honest Speculation for the Rationalist Mind
+- 17.8 Pāṇini Praised, Architecture Erased
 
 **Chapter 18 — PIE in the Sky**
 - 18.1 Schleicher's Bake

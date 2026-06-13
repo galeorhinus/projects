@@ -14,7 +14,7 @@ The praise is the trap.
 
 This move already has a name: **heroic erasure**. Praise the named figure. Deny the architecture he documented. Make the documenter so brilliant that the system he documented disappears behind him.
 
-The battle is not with Pāṇini. It is with the present apparatus that asks the reader to remember Pāṇini incorrectly: not as decoder of an operating architecture, but as the codifier who brought order into being.
+The battle is not with Pāṇini. It is with the present machinery that asks the reader to remember Pāṇini incorrectly: not as decoder of an operating architecture, but as the codifier who brought order into being.
 
 This appendix answers the codification story directly.
 
@@ -26,7 +26,7 @@ Pāṇini did not codify Sanskrit from Vedic to Classical. He decoded its engine
 
 ## 8.1 The Story the Reader Has Been Taught
 
-The textbook line has a recognizable sequence.
+The pyramid's line has a recognizable sequence.
 
 First, the oldest hymns are assigned to "Vedic Sanskrit." That language is treated as the earlier natural stage: archaic, poetic, fluid, richly inflected, and still close to the Indo-European ancestor the pyramid has reconstructed.
 
@@ -66,11 +66,11 @@ Vedic-internal variation is not proof of decay. Vedic-to-*bhāṣā* difference 
 
 The drift story also hides a methodological circle.
 
-The apparatus assigns relative dates to Sanskrit texts partly through linguistic features. A text with more "archaic" features is earlier. A text with fewer "archaic" features is later. The sequence is then used to prove the language changed from archaic to later. The conclusion is folded into the method that produced the sequence.[NOTE: vedic-classical-circular-dating]
+The machinery assigns relative dates to Sanskrit texts partly through linguistic features. A text with more "archaic" features is earlier. A text with fewer "archaic" features is later. The sequence is then used to prove the language changed from archaic to later. The conclusion is folded into the method that produced the sequence.[NOTE: vedic-classical-circular-dating]
 
 That does not mean every relative ordering is false. It means the drift claim has not been earned merely by arranging texts along a line.
 
-If a feature is treated as evidence of earlier date because the framework assumes that feature belongs to an earlier stage, the same feature cannot then be used as independent proof that the stage existed. The apparatus interpreted the evidence through its own assumptions, then presented the resulting chronology as fact. This book does not import dates produced by an apparatus it holds to have misread Sanskrit itself.
+If a feature is treated as evidence of earlier date because the framework assumes that feature belongs to an earlier stage, the same feature cannot then be used as independent proof that the stage existed. The machinery interpreted the evidence through its own assumptions, then presented the resulting chronology as fact. This book does not import dates produced by machinery it holds to have misread Sanskrit itself.
 
 The circularity becomes sharper at Pāṇini. The pyramid's account says Pāṇini codified a changed language because Vedic and Pāṇinian Sanskrit differ. But the categories used to describe the difference already assume the conclusion: Vedic is earlier; Classical is later; Pāṇini stands between; the difference therefore must be historical drift.
 
@@ -121,7 +121,7 @@ The instrumental plural example shows the mechanism. A shorter form and a longer
 
 The same logic applies across the larger set. Vedic accent is not "lost" where it is not needed; it is preserved in the recitation system where it is needed. *Plutaḥ* vowels do not vanish into a later standard; they belong to recitational and ritual contexts. The *leṭ-lakāra* subjunctive is not simply a fossil; Pāṇini preserves it as a *chandas*-mode category. Multiple infinitives do not prove looseness; they provide syllable-count flexibility under metrical constraint.
 
-The apparatus sees difference and writes time. Sanskrit sees difference and assigns function.
+The machinery sees difference and writes time. Sanskrit sees difference and assigns function.
 
 That is the core category confusion. Difference is not drift until the mechanism of drift is shown. The pyramid's account usually supplies the label, not the mechanism.
 
@@ -424,7 +424,7 @@ It flatters the academy by giving it a familiar object. A language that drifted 
 
 It flatters the church of progress by protecting its linear teleology. Vedic must be earlier and less developed. Classical must be later and more regular. Pāṇini must be the improvement-point. The movement must run from archaic to refined, from fluid to fixed, from oral to grammatical, from sacred usage to technical analysis. That is the progressive story of knowledge in linguistic costume. The fact that Sanskrit's own architecture does not move that way is precisely why the architecture has to be flattened.
 
-It flatters the colonial inheritance by keeping Sanskrit dependent on external explanation. If Sanskrit is one branch among Indo-European languages, and if Pāṇini merely codified a late standard, then Sanskrit's deepest order does not have to be explained from inside Sanātan's own categories. The explanation can remain outside: PIE, migration, substrate borrowing, chronological stages, philological reconstruction. The Sanskrit continuum becomes data. The apparatus remains interpreter.
+It flatters the colonial inheritance by keeping Sanskrit dependent on external explanation. If Sanskrit is one branch among Indo-European languages, and if Pāṇini merely codified a late standard, then Sanskrit's deepest order does not have to be explained from inside Sanātan's own categories. The explanation can remain outside: PIE, migration, substrate borrowing, chronological stages, philological reconstruction. The Sanskrit continuum becomes data. The machinery remains interpreter.
 
 At the philological level, it protects PIE.
 
@@ -440,7 +440,7 @@ The codification story attempts to hide the radiant matrix for the same reason e
 
 This is why the story can praise Sanskrit and still contain it. The praise is part of the containment.
 
-Heroic erasure works because it is emotionally satisfying. The reader gets a hero. The field gets a chronology. The church of progress gets its teleology. PIE gets its descendant. The asuric apparatus gets to avoid the harder conclusion: Sanskrit's order was not manufactured by the named grammarian it praises. The named grammarian decoded an order the apparatus still refuses to see.
+Heroic erasure works because it is emotionally satisfying. The reader gets a hero. The field gets a chronology. The church of progress gets its teleology. PIE gets its descendant. The asuric machinery gets to avoid the harder conclusion: Sanskrit's order was not manufactured by the named grammarian it praises. The named grammarian decoded an order the machinery still refuses to see.
 
 Once the architecture is visible, the praise has to change form.
 

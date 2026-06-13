@@ -302,7 +302,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 **Book-coined cluster (Sanskrit + English).** The ontological diagnosis underneath the dogma and its machinery: the geometry of apex authority, controlled doctrine, extracted labor, and withheld light. The structural opposite of *Sanātan*. Chapter 3 §3.6 establishes.
 
-### **asuric apparatus**
+### **asuric machinery**
 
 **Book-controlled phrase.** The working machinery of the asuric pyramid in a specific domain. Use sparingly when the emphasis is operational rather than ontological.
 

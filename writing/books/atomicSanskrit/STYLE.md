@@ -155,6 +155,32 @@ Do not stack every term in one sentence. Pick the layer the paragraph is prosecu
 
 Avoid *orthodoxy* as a default polemic noun. It is too intra-institutional and softens the target. Use it only when quoting or discussing another writer's category. Full replacement table: `working/orthodoxy_to_dogma_replacement_policy.md`.
 
+## Banned Hermeneutic Noun
+
+Do not use the noun **reading** to mean interpretation, account, stance, position, framework, or analysis.
+
+Avoid:
+
+- "the architectural reading"
+- "the dharmic reading"
+- "this reading of the verse"
+- "the pyramid's reading"
+- "the philological reading"
+- "misreading"
+
+Use the precise word instead:
+
+- **account** when describing a story or explanation.
+- **framing** when describing imposed categories.
+- **model** when describing a conceptual structure.
+- **analysis** when describing close examination.
+- **position** when describing a debated stance.
+- **misframing** or **mischaracterization** when describing category theft.
+
+Also avoid the interpretive verb pattern **reads X as Y**. Use **treats X as Y**, **frames X as Y**, or name the operation directly.
+
+Literal use remains fine: "read the chapter," "read the manuscript," "English-reading world." Domain terms are also fine when required: *qirā'āt* readings, textual-critical variant readings, quoted source language.
+
 ## The 1–2 Hammer
 
 The book often lands a point through a two-sentence hammer.

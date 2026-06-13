@@ -78,7 +78,7 @@ This is the important reader move: look for a field, not for one language that "
 
 The word **द्रविड (*draviḍa / drāviḍa*)** has an old Indian life. It can point to the southern region, southern peoples, southern speech, and southern civilizational geography. That usage belongs inside the Indian record.
 
-Modern *"Dravidian"* is different. It is a comparative-linguistic family label created inside the modern classificatory apparatus. This chapter uses the word only in that limited sense: the pyramid's label for Tamil, Toda, Kurukh, and related languages. The chapter keeps the civilizational divide between *"Aryan"* and *"Dravidian"* outside its argument. That divide is part of the machinery this book prosecutes.
+Modern *"Dravidian"* is different. It is a comparative-linguistic family label created inside the modern classificatory machinery. This chapter uses the word only in that limited sense: the pyramid's label for Tamil, Toda, Kurukh, and related languages. The chapter keeps the civilizational divide between *"Aryan"* and *"Dravidian"* outside its argument. That divide is part of the machinery this book prosecutes.
 
 The first survey deliberately begins with languages the machinery classifies outside the Sanskritic and north-Indian frame. That choice removes an easy deflection. If the chapter began with Hindi, Marathi, Bengali, Gujarati, Punjabi, or other languages the pyramid calls "Indo-Aryan," the response would be immediate: of course they look like Sanskrit; they are downstream from Sanskrit. So the test begins elsewhere.
 
