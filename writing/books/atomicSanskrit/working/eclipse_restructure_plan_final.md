@@ -116,6 +116,37 @@ Caveat: AV 4.10's śaṅkha is the **amulet/object** (Vedic). The conch-**blast 
 
 ---
 
+## 7a. Preface rewrite protocol
+
+The Preface is a **rebuild, not a polish**. Its new job is narrow: make the eclipse land on page one, establish stakes, and hand off to Śaṅkha. It should not carry the prosecution, over-explain the courtroom, or front-load the full technical architecture.
+
+**Target shape:**
+1. **Epigraph:** RV 5.40.5 replaces the current Vāk epigraph. The current Vāk epigraph and seeing/not-seeing motif move to the Ch 9 queue.
+2. **Opening:** "The Sun has been eclipsed." Sanskrit is visible, audible, recited, studied, and documented, yet not seen; the world is *akṣetravit*, field-blind.
+3. **Mapping:** Sanskrit = Sūrya; Svarbhānu = the asuric pyramid; Rāhu/PIE = the eclipse-device. Keep compact; do not prosecute yet.
+4. **Stakes:** Sanskrit as engineered order becomes what was eclipsed. The proof comes later.
+5. **Human entry:** retain the boy's question through the memory of the author's mother correcting his Gītā recitation.
+6. **Lineage/caretaking:** keep a compressed lineage frame because the new book frame names Hindus/paramparā as caretakers.
+7. **Method/claims:** shorten to the essentials: origin is not the book's domain; the architecture is observable; PIE will be prosecuted later.
+8. **Handoff:** end by naming that the Preface diagnoses the eclipse; the Overture sounds the Śaṅkha.
+
+**Specific decision — Boy's Question:** keep the memory of the mother correcting the Gītā recitation and the sandhi insight. Remove the school/government-funded/anti-Hindu policy setup from the Preface. Reason: it pulls the reader sideways into institutional politics before the eclipse frame has landed. Log the removed school-policy material in `working/eclipse_restructure_lost_and_found.md`; possible later destinations are Ch 1 or Ch 4 if the institutional-hostility thread needs it.
+
+**Material handling rule:** do not park removed Preface material at the bottom of the Preface or at the bottom of destination chapters. First copy it into `working/eclipse_restructure_lost_and_found.md` with source, intended destination, reason, and status. Then remove it from the Preface. Destination chapters get incorporation passes later.
+
+**Pass workflow:**
+1. **Pass 0 — Set up lost-and-found.** Create `working/eclipse_restructure_lost_and_found.md` before cuts.
+2. **Pass 1 — Structural cut.** Move or remove large Preface blocks; log first, then cut.
+3. **Pass 2 — Eclipse opening.** Add RV 5.40.5 and write the new Sūrya/Svarbhānu/Rāhu opening.
+4. **Pass 3 — Human entry.** Rework "The Boy's Question" around the mother/Gītā/sandhi memory; cut the school-policy setup.
+5. **Pass 4 — Compression.** Compress chronology, domains/modes, lineage, method, and claims to the new Preface load.
+6. **Pass 5 — Interactive review.** Present the revised section map and borderline cuts for author decision.
+7. **Pass 6 — Cleanup.** Fix chapter references, epigraphs, tone, and the handoff to Śaṅkha.
+
+During passes, ask questions only when the decision changes meaning or disposition. Obvious moves already locked by this plan should be executed and logged without interruption.
+
+---
+
 ## 8. The *dhātuḥ* chapter — dissolve and fold (4-way)
 
 Current **Ch 6 — The Architectural *dhātuḥ*** dissolves:
