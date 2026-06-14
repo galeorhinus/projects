@@ -1,4 +1,4 @@
-# Chapter 0 — A Language of Seekers, Freedom, and Infinity
+# Chapter 0 — Zero, Seekers, and the Infinite
 
 *Draft v1. The book's setup chapter. Describes Sanskrit's character before the polemic begins. Eleven sections; opens with the pūrṇam invocation as chapter epigraph, then uses it as the zero / infinity / wholeness puzzle before introducing the language's name, its corpus, the architecture later chapters examine in full, and the civilization that holds it. The chapter does not argue the engineering thesis; it presents the features the rest of the book describes as engineering. Voice: authoritative. Hands off to Chapter 1's botanical-metaphor opening.*
 
