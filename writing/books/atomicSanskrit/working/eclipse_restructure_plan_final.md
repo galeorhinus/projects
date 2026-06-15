@@ -39,7 +39,7 @@ Drawn from **Ṛgveda 5.40** (Svarbhānu eclipses Sūrya; the Atris alone recove
 2. **Courtroom** = the **method** — *how the book proves it* (charge → evidence → cross-examination → verdict). The **Part spine** (Parts I–VI).
 3. **Restoration** = *what follows* — the caretakers/readers become Atris and find the Sun. The Finale.
 
-**War vs battle.** The **war** is older and larger than this book — the pyramid's ongoing assault on Sanskrit and its caretakers; it lives inside the Eclipse layer (the eclipse *is* the war). The **Overture: Śaṅkha** *reminds* the reader the war is already underway and that caretaking now requires action; it does not start the war. The **courtroom** is narrower — *this volume's battle within that war*, fought deliberately on the pyramid's own ground, because the pyramid understands the courtroom (its judicial imagination is Abrahamic) and its crimes can be prosecuted inside its own machinery of accusation, evidence, and verdict (the **courtroom-rationale passage** — kept; §9 save #3). *Dropped: "matching footnotes with footnotes" — the rationale passage already carries it.*
+**War vs battle.** The **war** is older and larger than this book — the pyramid's ongoing assault on Sanskrit and its caretakers; it lives inside the Eclipse layer (the eclipse *is* the war). The **Overture: The Śaṅkha** *reminds* the reader the war is already underway and that caretaking now requires action; it does not start the war. The **courtroom** is narrower — *this volume's battle within that war*, fought deliberately on the pyramid's own ground, because the pyramid understands the courtroom (its judicial imagination is Abrahamic) and its crimes can be prosecuted inside its own machinery of accusation, evidence, and verdict (the **courtroom-rationale passage** — kept; §9 save #3). *Dropped: "matching footnotes with footnotes" — the rationale passage already carries it.*
 
 Consequence: **Part labels stay in the courtroom register; the bookends carry the eclipse; the war lives in the prose.**
 
@@ -53,7 +53,7 @@ Front matter → bookend → six courtroom Parts → bookend → back matter:
   - About the *Second Shanti* Series
   - **Preface — The Eclipse** *(epigraph RV 5.40.5; "The Sun has been eclipsed." Sets the frame; introduces Rāhu/PIE but does not yet prosecute. §7.)*
   - *(Acknowledgments + A Note on the Notes → back matter. Front matter stays lean so the eclipse lands on page one.)*
-- **Overture: Śaṅkha** — opening bookend *(epigraph AV 4.10.2; conch summons + parties enter. Page opens with a one-line gloss. Stays **short** — prosecution-weight lands at the Part I opener. §9.)*
+- **Overture: The Śaṅkha** — opening bookend *(epigraph AV 4.10.2; conch summons + parties enter. Page opens with a one-line gloss. Stays **short** — prosecution-weight lands at the Part I opener. §9.)*
   - **Ch 0 — Zero, Seekers, and the Infinite** *(Sūrya — protagonist + the Atri-caretakers)*
   - **Ch 1 — One, Oppressors, and the Finite** *(Svarbhānu — the antagonist; ex-AP0, promoted)*
 - **Part I — The Prosecution** *(opens with the ex-Prologue as its Part-page — §9)*
@@ -79,7 +79,7 @@ Inserting AP0 as **Ch 1** (+1 after Ch 0) and dissolving the standalone *dhātu�
 
 ---
 
-## 5. The bookends — Overture: Śaṅkha / Finale: Śānti
+## 5. The bookends — Overture: The Śaṅkha / Finale: Śānti
 
 Indic, bracketed from one Vedic hymn (**Atharvaveda 4.10**, the śaṅkha hymn). Each divider page opens with a one-line gloss so the Indic label carries with no Western crutch.
 
@@ -99,7 +99,7 @@ Caveat: AV 4.10's śaṅkha is the **amulet/object** (Vedic). The conch-**blast 
 | **Ch 1** | **Gītā 16.6** (*dvau bhūta-sargau… daiva āsura*) | Verified (currently Ch 3's; move to Ch 1) |
 | **Ch 4 (Fourth Abrahamic)** | DEFERRED — candidate **Muṇḍaka Up. 1.2.8** (blind led by the blind) | DEFERRED; verify before use |
 | **Ch 9** | **RV 10.71.4** (Vāk) | Verified (currently Preface's; move to Ch 9) |
-| **Overture: Śaṅkha** | **AV 4.10.2** | v1–3 verified (IAST); pull Devanāgarī + v4–7 |
+| **Overture: The Śaṅkha** | **AV 4.10.2** | v1–3 verified (IAST); pull Devanāgarī + v4–7 |
 | **Epilogue** | **RV 5.40.9** (*atrayas tam anv avindan…*) | **Verify numeral — likely 5.40.9, NOT 5.40.6** |
 | **Finale: Śānti** | **AV 4.10.3** | v1–3 verified; pull Devanāgarī; recheck after Finale |
 | **Final cry** | **kṛṇvanto viśvam āryam** (RV 9.63.5) | Verified |
@@ -129,6 +129,8 @@ The Preface is a **rebuild, not a polish**. Its new job is narrow: make the ecli
 6. **Lineage/caretaking:** keep a compressed lineage frame because the new book frame names Hindus/paramparā as caretakers.
 7. **Method/claims:** shorten to the essentials: origin is not the book's domain; the architecture is observable; PIE will be prosecuted later.
 8. **Handoff:** end by naming that the Preface diagnoses the eclipse; the Overture sounds the Śaṅkha.
+
+**Pass 5 decisions recorded:** keep the compressed chronology note in the Preface while Ch 1 carries the fuller chronology-capture argument; keep domains/modes in the Preface and consider one crisp figure (not the former two-figure proof pair); keep modern lineage names in the body with roles in `modern-sanskrit-lineage-roles`; move the "Three Readers" material to the Ch 0 / Epilogue queue (reader as seeker/caretaker first, Atri payoff at the end); move the Nāsadīya / humility material to the honest-speculation / origin-boundary material around Ch 17 §17.7.
 
 **Specific decision — Boy's Question:** keep the memory of the mother correcting the Gītā recitation and the sandhi insight. Remove the school/government-funded/anti-Hindu policy setup from the Preface. Reason: it pulls the reader sideways into institutional politics before the eclipse frame has landed. Log the removed school-policy material in `working/eclipse_restructure_lost_and_found.md`; possible later destinations are Ch 1 or Ch 4 if the institutional-hostility thread needs it.
 
@@ -201,7 +203,7 @@ Drop the standalone Prologue; its content becomes the **Part I opening page** (t
 
 1. **Set up logging + codify conventions** — create the lost-and-found log; myth-ban + Eclipse-frame naming in CLAUDE.md (+ memory).
 2. **Verification pass** — pin the §10a citation items.
-3. **Lock top-level labels** — Preface · Overture: Śaṅkha · Parts I–VI (hybrid titles) · Finale: Śānti · back-matter order.
+3. **Lock top-level labels** — Preface · Overture: The Śaṅkha · Parts I–VI (hybrid titles) · Finale: Śānti · back-matter order.
 4. **Update `as_book.yaml` assembly order** — *only after labels + chapter mapping are locked.* (Build supports the restructure without `build_book.py` changes.)
 5. **Epigraph map** — RV 5.40.5 → Preface; Gītā 16.6 → Ch 1; Vāk 10.71.4 → Ch 9; assign Ch 4 a new epigraph; place AV 4.10.2/4.10.3 and RV 5.40.9.
 6. **AP0 → Ch 1 promotion** — crisp distillation to **Ch 1's register** (not a dump; unused → lost-and-found); preserve masculine-apex drips; lift the Atri verse *out* of AP0 (it belongs at Ch 0 / Epilogue).
@@ -219,7 +221,7 @@ Drop the standalone Prologue; its content becomes the **Part I opening page** (t
 ## 12. Acceptance checks
 
 The restructure succeeds if:
-- TOC reads: Preface · Overture: Śaṅkha · six courtroom Parts · Finale: Śānti.
+- TOC reads: Preface · Overture: The Śaṅkha · six courtroom Parts · Finale: Śānti.
 - Ch 0 is recognizably seekers/caretakers, not prosecution.
 - Ch 1 introduces the antagonist crisply without swallowing the book.
 - All significant cuts are logged in the lost-and-found before deletion.
@@ -247,4 +249,4 @@ The restructure succeeds if:
 - Appendices remain appendices unless a later pass promotes material.
 - Structural plan only; prose rewrites happen in separate passes, per the execution order.
 
-**Decided this round:** Part titles → hybrid (courtroom : descriptive) · bookends → **Overture: Śaṅkha** / **Finale: Śānti** · Epilogue → **"The Atris Find the Sun"** + *kṛṇvanto* closing cry.
+**Decided this round:** Part titles → hybrid (courtroom : descriptive) · bookends → **Overture: The Śaṅkha** / **Finale: Śānti** · Epilogue → **"The Atris Find the Sun"** + *kṛṇvanto* closing cry.

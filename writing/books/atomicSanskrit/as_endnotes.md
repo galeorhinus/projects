@@ -8,6 +8,28 @@
 
 ---
 
+### `rigveda-5-40-5-svarbhanu-eclipse`
+
+**Short:** Ṛgveda 5.40.5 gives the Preface its eclipse diagnostic: Svarbhānu pierces Sūrya with darkness, and the worlds become bewildered like one who does not know the field. The Preface uses **field-loss** for the load-bearing phrase **अक्षेत्रवित् (*akṣetravit*)**.
+
+**Deployment:** Preface opening epigraph and first prose activation.
+
+The Preface quotes Ṛgveda 5.40.5:
+
+> यत्त्वा सूर्य स्वर्भानुस्तमसाविध्यदासुरः ।\
+> अक्षेत्रविद्यथा मुग्धो भुवनान्यदीधयुः ॥
+>
+> *yat tvā sūrya svarbhānus tamasāvidhyad āsuraḥ |*\
+> *akṣetravid yathā mugdho bhuvanāny adīdhayuḥ ||*
+
+Working translation: *When Svarbhānu the asura pierced you, O Sun, with darkness, the worlds looked about bewildered, like one who does not know the field.*
+
+The key expression is **अक्षेत्रवित् (*akṣetravit*)**: *a-* (not) + *kṣetra* (field) + *vit* (knowing). The verse does not only describe darkness. It describes the loss of the field by which light is oriented. The Preface's phrase **field-loss** preserves that diagnostic force: Sūrya remains Sūrya, but the worlds no longer know how to locate themselves by his light.
+
+The verse belongs to the Svarbhānu sequence in Ṛgveda 5.40. The Preface stops at the eclipse. The Epilogue can return to the next movement in the same sequence: the Atris finding the Sun again in Ṛgveda 5.40.6. Final publication should verify the saṃhitā text, accenting, and translation against the selected printed Ṛgveda edition.
+
+---
+
 ### `rigveda-10-71-2-sieve-vak`
 
 **Short:** Ṛgveda 10.71.2 gives Chapter 9 its keystone image: the wise refine Speech as grain is sifted through a sieve, and then form Speech with the mind. The verse anchors the chapter's architectural claim before the modern diagrams begin: the sound-field is abundant, selection is deliberate, and the formed result carries radiance.
@@ -648,23 +670,37 @@ The note anchors the Preface's lineage claim. The Sanskrit discipline does not i
 
 ---
 
+### `modern-sanskrit-lineage-roles`
+
+**Short:** The Preface's modern-lineage sentence is a role-map, not a bibliography. Each figure marks a different modern continuation of the Sanskrit-side position under colonial and post-colonial institutional pressure.
+
+**Deployment:** Preface — "Lineage and Method."
+
+Maharṣi Dayānanda Saraswatī reasserted Vedic Sanskrit as systematic, precise, knowledge-bearing language inside the colonial period rather than accepting the reduction of the Veda to primitive poetry. Sri Aurobindo treated the Vedic hymns as symbolic and spiritual architecture rather than nature-poetry. T. V. Kapali Sastry extended that line through detailed Vedic commentary. Sampadananda Mishra carries the line into contemporary Sanskrit pedagogy, Vedic interpretation, speech, and sound-practice.
+
+Pandit Madhusudan Ojha represents a Sanskrit-composed modern corpus that treats Vedic knowledge as organized architecture rather than residue. Subhash Kak supplies structural, numerical, astronomical, and information-theoretic arguments for deliberate organization across the Vedic corpus. Kapil Kapoor develops Sanskrit textuality and interpretation from inside the Hindu continuum and the Sanskrit intellectual disciplines. Rajiv Malhotra prosecutes the direct institutional battle over Sanskrit, especially the Pollock / cosmopolis frame and the politics of who gets to interpret Sanskrit publicly.
+
+The list is selective. The point is not to imply that the architectural route begins the Sanskrit-side response. The point is to locate that route among already active modern lines: Vedic precision, symbolic architecture, Sanskrit pedagogy, Vedic structuralism, Sanskrit-side interpretation, and institutional prosecution. For detailed source anchors, see `dayananda-rgvedadi-bhashya`, `aurobindo-kapali-sastry-mishra-vedic-lineage`, `ojha-vedic-architecture-corpus`, `kak-vedic-structural-architecture`, `kapoor-text-and-interpretation`, and `malhotra-battle-for-sanskrit-pollock-prosecution`.
+
+---
+
 ### `dayananda-rgvedadi-bhashya`
 
 **Short:** Maharṣi Dayānanda Saraswatī's *Ṛgvedādi-bhāṣya-bhūmikā* and *Satyārth Prakāś* stand in the modern Position-1 lineage: Vedic Sanskrit is treated as systematic, precise, knowledge-bearing, and anterior to the later philological reduction.
 
-**Deployments:** Preface — "The Lineage This Book Extends."
+**Deployments:** Preface — "Lineage and Method"; source anchor for `modern-sanskrit-lineage-roles`.
 
-Dayānanda's Vedic reading is not a minor apologetic gesture inside the colonial frame. It is a modern reassertion of the older Sanskrit-side premise: the Veda is a knowledge-bearing corpus whose language is precise enough to carry that knowledge. The final bibliography should cite the selected editions of *Ṛgvedādi-bhāṣya-bhūmikā* and *Satyārth Prakāś* used in production.
+Dayānanda's Vedic account is not a minor apologetic gesture inside the colonial frame. It is a modern reassertion of the older Sanskrit-side premise: the Veda is a knowledge-bearing corpus whose language is precise enough to carry that knowledge. The final bibliography should cite the selected editions of *Ṛgvedādi-bhāṣya-bhūmikā* and *Satyārth Prakāś* used in production.
 
 ---
 
 ### `aurobindo-kapali-sastry-mishra-vedic-lineage`
 
-**Short:** Sri Aurobindo's *The Secret of the Veda*, T. V. Kapali Sastry's Vedic exegesis, and Sampadananda Mishra's Sanskrit and Vedic pedagogy form a continuous modern line reading the Vedic hymns as precise symbolic architecture rather than primitive nature-poetry.
+**Short:** Sri Aurobindo's *The Secret of the Veda*, T. V. Kapali Sastry's Vedic exegesis, and Sampadananda Mishra's Sanskrit and Vedic pedagogy form a continuous modern line that treats the Vedic hymns as precise symbolic architecture rather than primitive nature-poetry.
 
-**Deployments:** Preface — "The Lineage This Book Extends."
+**Deployments:** Preface — "Lineage and Method"; source anchor for `modern-sanskrit-lineage-roles`.
 
-Sri Aurobindo's *The Secret of the Veda* and *Hymns to the Mystic Fire* read the Vedic corpus as systematic spiritual psychology encoded in symbolic language. T. V. Kapali Sastry extended that line through detailed Vedic commentary, including *Lights on the Veda*. Sampadananda Mishra carries the same line into contemporary Sanskrit pedagogy, Vedic interpretation, speech, and sound-practice. In the language of this book, Mishra is a Wave 3 *ṛṣi*: a modern carrier of seeing whose life's work helps restore Sanskrit to itself. Standard references: Sri Aurobindo, *The Secret of the Veda* and *Hymns to the Mystic Fire*; T. V. Kapali Sastry, *Lights on the Veda*; selected publications and lectures by Sampadananda Mishra through the Sri Aurobindo Society / Ashram ecosystem.
+Sri Aurobindo's *The Secret of the Veda* and *Hymns to the Mystic Fire* treat the Vedic corpus as systematic spiritual psychology encoded in symbolic language. T. V. Kapali Sastry extended that line through detailed Vedic commentary, including *Lights on the Veda*. Sampadananda Mishra carries the same line into contemporary Sanskrit pedagogy, Vedic interpretation, speech, and sound-practice. In the language of this book, Mishra is a Wave 3 *ṛṣi*: a modern carrier of seeing whose life's work keeps Sanskrit active as speech, discipline, and Vedic inheritance. Standard references: Sri Aurobindo, *The Secret of the Veda* and *Hymns to the Mystic Fire*; T. V. Kapali Sastry, *Lights on the Veda*; selected publications and lectures by Sampadananda Mishra through the Sri Aurobindo Society / Ashram ecosystem.
 
 ---
 
@@ -672,9 +708,9 @@ Sri Aurobindo's *The Secret of the Veda* and *Hymns to the Mystic Fire* read the
 
 **Short:** Pandit Madhusudan Ojha's large Sanskrit corpus belongs to the modern Position-1 lineage because it treats Vedic knowledge as a highly organized architecture rather than a primitive poetic residue.
 
-**Deployments:** Preface — "The Lineage This Book Extends."
+**Deployments:** Preface — "Lineage and Method"; source anchor for `modern-sanskrit-lineage-roles`.
 
-Ojha's body of work is large, much of it composed in Sanskrit and associated with the Jaipur intellectual world. The Preface uses him as a lineage marker rather than attempting a survey. Final citation should identify the specific Ojha works consulted for production and distinguish published editions from manuscript or catalogue references.
+Ojha's body of work is large, much of it composed in Sanskrit and associated with the Jaipur intellectual world. The lineage sentence places him as a marker of Sanskrit-composed modern Vedic architecture rather than attempting a survey. Final citation should identify the specific Ojha works consulted for production and distinguish published editions from manuscript or catalogue references.
 
 ---
 
@@ -682,19 +718,19 @@ Ojha's body of work is large, much of it composed in Sanskrit and associated wit
 
 **Short:** Subhash Kak's *The Astronomical Code of the Rgveda*, *The Architecture of Knowledge*, and related work argue for structural, numerical, astronomical, and information-theoretic organization across the Vedic corpus.
 
-**Deployments:** Preface — "The Lineage This Book Extends."
+**Deployments:** Preface — "Lineage and Method"; source anchor for `modern-sanskrit-lineage-roles`.
 
-The Preface uses Kak primarily for the Vedic-structural claim, not merely for the narrower Pāṇinian-algorithmic claim. His work helps establish the Vedic corpus as deliberate architecture: ordered, numerically patterned, and information-bearing. Standard references: Subhash Kak, *The Astronomical Code of the Rgveda* (1994; revised editions), *The Architecture of Knowledge* (2004), and related essays on Vedic structure and Indic science.
+Kak's role here is the Vedic-structural claim, not merely the narrower Pāṇinian-algorithmic claim. His work helps establish the Vedic corpus as deliberate architecture: ordered, numerically patterned, and information-bearing. Standard references: Subhash Kak, *The Astronomical Code of the Rgveda* (1994; revised editions), *The Architecture of Knowledge* (2004), and related essays on Vedic structure and Indic science.
 
 ---
 
 ### `kapoor-text-and-interpretation`
 
-**Short:** Kapil Kapoor's work restores Sanskrit interpretation from inside the Hindu continuum and the Sanskrit intellectual disciplines, rather than from the external philological frame.
+**Short:** Kapil Kapoor's work develops Sanskrit interpretation from inside the Hindu continuum and the Sanskrit intellectual disciplines, rather than from the external philological frame.
 
-**Deployments:** Preface — "The Lineage This Book Extends."
+**Deployments:** Preface — "Lineage and Method"; source anchor for `modern-sanskrit-lineage-roles`.
 
-Kapoor's *Text and Interpretation: The Indian Tradition* and related Sanskrit Texts Through the Ages work develop a Sanskrit-side account of textuality, interpretation, and knowledge transmission. The Preface uses him as a modern advocate of the structural-philosophical depth of Sanskrit from inside the Hindu continuum.
+Kapoor's *Text and Interpretation: The Indian Tradition* and related Sanskrit Texts Through the Ages work develop a Sanskrit-side account of textuality, interpretation, and knowledge transmission. His role in the lineage sentence is the structural-philosophical depth of Sanskrit from inside the Hindu continuum.
 
 ---
 
@@ -702,9 +738,9 @@ Kapoor's *Text and Interpretation: The Indian Tradition* and related Sanskrit Te
 
 **Short:** Rajiv Malhotra's *The Battle for Sanskrit* and Swadeshi Indology work prosecute the institutional battle around Sanskrit directly, especially the Pollock / cosmopolis frame.
 
-**Deployments:** Preface — "The Lineage This Book Extends"; Appendix Part 0 §4; endnote cross-reference for `pollock-sanskrit-cosmopolis-position-3`.
+**Deployments:** Preface — "Lineage and Method"; Appendix Part 0 §4; endnote cross-reference for `pollock-sanskrit-cosmopolis-position-3`; source anchor for `modern-sanskrit-lineage-roles`.
 
-The Preface names Malhotra for the public and institutional battle over Sanskrit. This book does not duplicate that prosecution. It takes the architectural route: showing Sanskrit as engineered, calibrated, anti-entropic architecture. Malhotra's work remains the standing Indic-side reference for the direct institutional confrontation with Pollock's Position-3 frame.
+Malhotra marks the public and institutional battle over Sanskrit. The architectural route here does not duplicate that prosecution; it shows Sanskrit as engineered, calibrated, anti-entropic architecture. Malhotra's work remains the standing Indic-side reference for the direct institutional confrontation with Pollock's Position-3 frame.
 
 ---
 
