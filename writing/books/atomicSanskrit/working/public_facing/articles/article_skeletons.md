@@ -81,9 +81,9 @@ The pyramid can manage nature and it can own codification. Natural drift can be 
 
 **Status:** Existing skeleton and drafts:
 
-- `working/public_facing/articles/article_sonomer_thoughts.md`
-- `working/public_facing/web/private/before-the-letter.md`
-- `working/public_facing/web/private/the-sonomer-beneath-indian-writing.md`
+- `working/public_facing/articles/sonomer_notes.md`
+- `working/public_facing/web/private/sonomer_newspaper.md`
+- `working/public_facing/web/private/sonomer_longform.md`
 
 **Core thesis:** Indian scripts are not merely phonetic and not adequately named by *abugida*. Their deeper basis is the sonomer: the measured sound-particle Sanskrit calls *varṇa*. The visible script is downstream of a prior sound-analysis.
 
@@ -138,9 +138,9 @@ The *varṇamālā* is not a random list of sounds. The *dhātuḥ* is not a roo
 
 **Status:** Existing skeleton and drafts:
 
-- `working/public_facing/articles/article_retroflex_thoughts.md`
-- `working/public_facing/web/private/the-indian-accent-that-breaks-the-aryan-migration-story.md`
-- `working/public_facing/web/private/the-indian-accent-that-breaks-the-aryan-migration-story-longform.md`
+- `working/public_facing/articles/retroflex_notes.md`
+- `working/public_facing/web/private/retroflex_newspaper.md`
+- `working/public_facing/web/private/retroflex_longform.md`
 
 **Core thesis:** The mocked "Indian accent" preserves a real phonetic signature: the retroflex flex. That sound is distributed across the subcontinent and sits inside Sanskrit's formal architecture. The migration story has a mouth problem.
 

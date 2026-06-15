@@ -27,6 +27,9 @@ The newest public frame is now central: Sanskrit is not merely a natural languag
 | 17 | **Swastika and Pyramid: Two Human-Created Fractals** | Magazine-style conceptual essay; introduces *su-asti* and pyramid control | Swarajya longform or magazine | Standpoint Bharat, Pragyata, Indic platforms | Post-launch or series-building | Careful skeleton |
 | 18 | **Brahmi Was Not a Borrowed Alphabet** | Script-history polemic; companion to sonomer article | Swarajya | Standpoint Bharat, Organiser, Indic platforms | Post-launch | Needs skeleton |
 | 19 | **Auditure: India's Engineering of Sound Before Writing** | Vedic preservation public explainer | Swarajya | Organiser, Standpoint Bharat, Pragyata / Indic platforms | Post-launch | Needs skeleton |
+| 20 | **PIE Is Sanskrit's Reflection** (*The Ṛṣis Went West*) | Affirmative capstone to #12 (*PIE Is Not Evidence*) + the migration-trap essays: the positive mechanism — calibrant / calibrand / vivimorphosis / Wave 1–2 / *Pratibimba* | Swarajya longform | Pragyata, Standpoint Bharat, Firstpost, Indic platforms | Post-launch, after #12 lands the negative case | Skeleton (newspaper + longform) — `pie_reflection_skeleton.md` |
+| 21 | **Movement Is Not Authorship** (newspaper: *Sanskrit Was Not Cargo*) | Migration-trap critique — movement / cargo ≠ authorship; member 1 of the PIE arc | Swarajya / Firstpost | Organiser, Standpoint Bharat, Indic platforms | Negative case in the PIE arc — before #20 | Drafts exist: magazine ~2,300w + newspaper ~890w (`migration_trap_*`) |
+| 22 | **Oṃ and the Garland of Sonomers** | Oṃ / *varṇamālā* sound-anatomy piece; sonomer cluster (with #3) | Swarajya | Standpoint Bharat, Pragyata, Indic platforms | Pre-launch / launch window | Drafts exist: notes + web ~1,200w (`om_garland_*`) |
 
 ## Title Variants
 
@@ -40,6 +43,21 @@ These should be treated as alternate headlines, not separate articles.
 | Pāṇini | **Pāṇini Did Not Codify Sanskrit. He Decoded It.** |
 | Broad launch overview | **Sanskrit Was Engineered, Not Codified** |
 
+## Web drafts (separate files, not symlinks)
+
+These live under `web/` as standalone web-format drafts — distinct files from the `articles/` notes. Filenames now follow the same `<idea>_<format>` convention; the publish URL permalink lives in each file's `slug:` frontmatter (headline-based), kept separate from the tracking filename. Each realizes a numbered row above.
+
+| Web file | Realizes (row) | Stage | ~Words |
+|---|---|---|---|
+| `web/public/engineered_not_codified_landing.md` | #11 — Sanskrit Was Engineered, Not Codified | **public** | ~390w (landing snippet) |
+| `web/private/sonomer_newspaper.md` | #3 — sonomer (newspaper; "Before the Letter") | private | ~1,120w |
+| `web/private/sonomer_longform.md` | #3 — sonomer (longform; "The Sonomer Beneath Indian Writing") | private | ~1,720w |
+| `web/private/om_garland_newspaper.md` | #22 — Oṃ and the Garland of Sonomers | private | ~1,200w |
+| `web/private/retroflex_newspaper.md` | #5 — The Indian Accent (newspaper) | private | ~1,230w |
+| `web/private/retroflex_longform.md` | #5 — The Indian Accent (longform) | private | ~1,680w |
+
+Tracking link: idea ↔ filename ↔ row. The headline lives in each draft's `slug:` / title frontmatter.
+
 ## Recommended Short Sequence
 
 1. **Before publisher submission:** Pāṇini article in Swarajya.
@@ -49,6 +67,16 @@ These should be treated as alternate headlines, not separate articles.
 5. **Pre-launch / launch:** Dhātu article in Swarajya longform.
 6. **Launch:** Seven Claims overview.
 7. **Post-launch:** PIE, Vedas, ārya, Vedic/Classical category-error, and swastika/pyramid essays.
+
+## The PIE Arc (three-part cluster)
+
+Three pieces attack the descent / PIE story from three angles. Release them in this order — negative cases first, positive capstone last — so each clears the ground for the next.
+
+1. **#21 — Movement Is Not Authorship** (newspaper: *Sanskrit Was Not Cargo*) — *movement ≠ authorship.* Kills the migration inference: bodies and cargo move; architecture is not carried as cargo.
+2. **#12 — PIE Is Not Evidence** — *reconstruction ≠ ancestor.* Kills the PIE-as-parent inference: a starred, unattested reconstruction cannot outrank the preserved, recited calibrant.
+3. **#20 — PIE Is Sanskrit's Reflection** *(new; affirmative capstone)* — *here is what the data actually is.* The positive replacement: Sanskrit the calibrant, Wave 1–2 propagation, **vivimorphosis**, and PIE as the **average of the *Pratibimbas***. Introduces **calibrand** / **Pratibimba languages** for the set, and **calibrotypy** as the public wink.
+
+**Division of labor.** #20 points *back* to #12 for the asterisk / negative case rather than re-arguing it, and builds on the "Calibrant Thesis" + "Knowledge Moves Differently" sections already drafted in *Movement Is Not Authorship* rather than duplicating them. Adjacent but separate: **#5 — The Indian Accent That Breaks the Aryan Migration Story** attacks the same migration story via the sound-field / retroflex, not vivimorphosis.
 
 ## Submission Notes
 

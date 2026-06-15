@@ -8,7 +8,7 @@ The article should use that familiar sound as the doorway into the larger claim:
 
 ## Working Draft
 
-- Prose draft saved at: `atomicSanskrit/working/public_facing/web/private/om-and-the-garland-of-sonomers.md`
+- Prose draft saved at: `atomicSanskrit/working/public_facing/web/private/om_garland_newspaper.md`
 
 ## Likely Title
 
