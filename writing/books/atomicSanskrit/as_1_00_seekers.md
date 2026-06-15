@@ -142,7 +142,7 @@ Sanskrit's engineering, architecture, and civilizational transmission can be fol
 
 The claim is architectural: Sanskrit is an engineered system. Here, *fractal* means the same organizing law recurring across scale. The proof proceeds from the ground up: mouth, sound-field, sonomeric grid, semantic atom, verbal molecule, sentence assembly, *sūtra*, and calibration matrix. Each level keeps the lower level visible. The recurrence across scale is the pattern the proof will test.
 
-The seekers and caretakers now stand against another fractal: the asuric pyramid. It is a finite order that repeats command, conquest, and enclosure at every scale. Sitting at the top of that pyramid is the apex. He is threatened by Sanskrit because Sanskrit preserves a distributed order beyond his command. The battle that follows takes place in the asuric pyramid's own courtroom.
+The seekers and caretakers now stand against another fractal: the asuric pyramid. It is a finite order that repeats command, conquest, and enclosure at every scale. Sitting at the top of that pyramid is the apex. He is threatened by Sanskrit because Sanskrit preserves a distributed order beyond his reach. The battle that follows takes place in the asuric pyramid's own courtroom.
 
 At the end of the volume, a Vedic mantra returns to those who find the Sun when darkness covers the field. Their name waits there. Their capacity appears here: a civilization trained to listen, correct, remember, and keep looking.
 

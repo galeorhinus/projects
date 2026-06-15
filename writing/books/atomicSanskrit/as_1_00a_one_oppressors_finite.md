@@ -42,7 +42,7 @@ Genesis gives the same operation in scriptural key: a single beginning, a single
 
 The problem is not the views, knowledge, or ignorance of ordinary people inside the pyramid. The issue is the forceful, top-down imposition of finite ignorance by authorities. Ordinary confusion can be corrected; imposed ignorance hardens into rule. The apex takes reductive ideas, dresses them in grand terminology, and cements them as unquestionable dogma. The result is not knowledge. It is obedience.
 
-At the top of that geometry sits the apex-claimant. The boundless defeats his ownership. Distributed order exceeds his command. Sanskrit threatens him because Sanskrit preserves order without needing him.
+At the top of that geometry sits the apex-claimant. The boundless defeats his ownership. Distributed order lies beyond his command. Sanskrit threatens him because Sanskrit preserves order without needing him.
 
 That is the darkness of the asuras, and it is the darkness Sanskrit was engineered to fight.
 
@@ -104,6 +104,6 @@ The public move is language capture. Words such as *root*, *branch*, *daughter*,
 
 Together, these operations produce category theft. Sanskrit is made to answer inside categories built to hide what Sanskrit is.
 
-The apex has a grammar. At the summit sits the one who must own the field. He does not share authority with the distributed field. He converts the field into a base and calls his view the whole. Sanskrit threatens him because Sanskrit preserves a distributed order beyond his command.
+The apex has a grammar. At the summit sits the one who must own the field. He does not share authority with the distributed field. He converts the field into a base and calls his view the whole. Sanskrit threatens him because Sanskrit preserves an order with no apex at all.
 
 With that, the parties are present. The seekers and caretakers stand on one side. The finite order stands on the other. The next movement narrows the war into the pyramid's courtroom.
