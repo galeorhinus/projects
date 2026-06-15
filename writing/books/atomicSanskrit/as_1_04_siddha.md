@@ -56,7 +56,7 @@ Before grammar's object is analyzed, grammar's purpose is stated.[NOTE: prayojan
 
 None of the five says: create a language. None says: regularize a drifting speech-form. None says: impose order on disorder. Every purpose presupposes an already existing object. There is a *Veda* to preserve, a correct form to master, a usage whose doubt can be removed. Grammar is a meta-operation on an architecture already in place.
 
-A smaller observation reinforces the same conclusion. **Pāṇini himself wrote no preface to the *Aṣṭādhyāyī*.**[NOTE: panini-no-preface] The text opens directly with sūtra 1.1.1 — *vṛddhir ādaic* (वृद्धिर् आदैच्) — and runs the roughly four thousand sūtras through to the end without any first-person statement of authorial intent. A text that imposes a new standard normally has to motivate the imposition; a documenter describing an existing system has nothing to motivate, because the document is its own purpose. The silence on purpose at the top of the *Aṣṭādhyāyī* is itself consistent with the documenter role. The lineage's answer to *why was it written* comes one commentarial generation later, from Patañjali, and it runs the documenter framing for the reason just stated: that is the framing the activity itself fits.
+A smaller observation reinforces the same conclusion. **Pāṇini himself wrote no preface to the *Aṣṭādhyāyī*.**[NOTE: panini-no-preface] The text opens directly with sūtra 1.1.1 — *vṛddhir ādaic* (वृद्धिर् आदैच्) — and runs the roughly four thousand sūtras through to the end without any first-person statement of authorial intent. A text that imposes a new standard normally has to explain its authority. A documenter describing an existing system has no such burden. The document is its own purpose. Patañjali supplies the purpose one commentarial generation later, and that purpose presupposes an existing object.
 
 Then Patañjali places the decisive Vārttika at the opening:
 
@@ -78,9 +78,7 @@ The Vedic anchor sits one layer beneath this grammar. Bṛhaspati's **वाच�
 >
 > **Codification vs decoding.** Codification moves from disorder to imposed order. Decoding moves from prior order to explicit specification. Pāṇini did not impose order on Sanskrit. He decoded the order Sanskrit already carried.
 >
-> **Correction by authority vs correction by architecture.** A codified system corrects by appeal to institution, decree, grammar book, academy, or state. Sanskrit corrects by internal fit: sound, form, meaning, meter, recitation, derivation, and usage all converge on the valid form. The grammarian's authority rests on how exactly he documents the architecture, not on any power to create it.
->
-> **Codification vs calibration.** Codification places the standard in authority. Calibration places the standard inside the architecture and lets the architecture correct usage.
+> **Institutional correction vs calibration.** A codified system corrects by appeal to institution, decree, grammar book, academy, or state. Sanskrit corrects by internal fit: sound, form, meaning, meter, recitation, derivation, and usage all converge on the valid form. Calibration places the standard inside the architecture and lets the architecture correct usage.
 
 Chapter 13 §13.5 shows this distinction at the level of teaching. One mind reaches correctness through preserved use; another reaches it through explicit rule. Both correct by architecture, not by institutional decree.
 
@@ -108,11 +106,11 @@ The two models are not two theories of the same object. They define different ob
 
 Patañjali concludes that the bond is *siddha*.
 
-The bond does not evolve. It does not mutate. It is a physical constant.
+The bond does not evolve. It does not mutate. It is a structural constant.
 
 The conclusion is not a soft piety about sacred language. Patañjali reaches it through the ordinary Indic disputational structure: the opposing position is stated, the defending position answers, and the resolution is reached. The technical details belong to the *Paspaśāhnika* itself. The structural fact belongs here: Patañjali places the *siddha* commitment at the opening of the canonical commentary and lets the rest of the grammatical project follow from it.
 
-That placement commits the discipline. The grammarian's task is not to record whatever speakers produce. It is to defend a system of established bonds against corruption. The *Aṣṭādhyāyī* is not a description of speaker habit. It is a specification of an engineered system. Deviations from the rules are not data. They are damage.
+That placement commits the discipline. The grammarian's task is not to record whatever speakers produce. It is to defend a system of established bonds against corruption. The *Aṣṭādhyāyī* is not a description of speaker habit. It is a specification of an engineered system. Deviations from the rules are not new standards. They are fallings-away from the standard.
 
 This is why the dogma's *codification* vocabulary fails. Codification imagines drift first and order later. Patañjali gives the opposite: established bond first, grammatical defense afterward. There is no transition from disorder to order. There is order, and there are fallings-away from order.
 
@@ -120,7 +118,7 @@ Patañjali, the canonical commentator on the canonical grammar, names the bond a
 
 ## 5.5 Sanskrit Begins from Permanence
 
-Two sentences carry the hinge.
+The argument rests on two claims.
 
 The first: Sanskrit does not begin from decay. Modern historical linguistics begins there. Languages mutate, drift, and renew; the linguist tracks the trajectory. Patañjali's framework refuses that assumption at the metaphysical level. The bond between word and meaning is established. Grammar exists to defend the establishment.
 

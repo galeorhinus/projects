@@ -20,7 +20,7 @@ Chapter 9 ended with selected sonomers. Construction is the next question: which
 
 Sanskrit's answer is the **धातुः (*dhātuḥ*)**.
 
-Chapter 6 restored the word to its own category: not root, not stem, not word, but constituent — the stable semantic unit that holds identity while larger forms assemble around it. Chapter 9 supplied the sonomers, **अक्षराणि (*akṣarāṇi*)**, and **मात्रा (*mātrā*)**. Chapter 10 now asks the construction question directly: how do measured sonomers become semantic atoms?
+The category-theft charge in Chapter 2 returned the word to its own category: not root, not stem, not word, but constituent — the stable semantic unit that holds identity while larger forms assemble around it. Chapter 9 supplied the sonomers, **अक्षराणि (*akṣarāṇi*)**, and **मात्रा (*mātrā*)**. Chapter 10 now asks the construction question directly: how do measured sonomers become semantic atoms?
 
 ## 10.1 *Sūtra-Lakṣaṇam* — The Design Specification
 
@@ -43,7 +43,7 @@ That recurrence is what this book means by **fractal**. The word is used here in
 
 ## 10.2 From Sūtra to Dhātuḥ — The Fractal Question
 
-The argument now follows the design one scale downward. A *sūtra* is a crafted sentence. A *dhātuḥ* is not a sentence, not a word, and not a grammatical rule. Chapter 6 restored the word to its own category: constituent, semantic atom, stable bearer. The question is whether the same characteristics of engineered compactness reappear inside it.
+The argument now follows the design one scale downward. A *sūtra* is a crafted sentence. A *dhātuḥ* is not a sentence, not a word, and not a grammatical rule. The earlier charge restored the category: constituent, semantic atom, stable bearer. The question is whether the same characteristics of engineered compactness reappear inside it.
 
 The verse gives the six characteristics in its own order. This chapter tests them in engineering order:
 
@@ -59,13 +59,13 @@ Chapter 9 closed with selected sonomers. Chapter 10 begins with those sonomers a
 
 The *varṇamālā* (वर्णमाला) is the sonomeric inventory. A small cluster of these sonomers creates the **धातुः (*dhātuḥ*)**.
 
-Chapter 1 prosecuted the botanical metaphor. Chapter 6 reclaimed *dhātuḥ* from the philological mistranslation that calls it a "root." This chapter builds the positive replacement. Sanskrit does not have botanical roots. It has atoms — and the atom is the *dhātuḥ*.
+The category-theft charge in Chapter 2 prosecuted the botanical metaphor and reclaimed *dhātuḥ* from the philological mistranslation that calls it a "root." This chapter builds the positive replacement. Sanskrit does not have botanical roots. It has atoms — and the atom is the *dhātuḥ*.
 
 The metaphor is physical, not biological. The same word *dhātuḥ* operates in metallurgy, *Rasaśāstra* (रसशास्त्र), and *Āyurveda* (आयुर्वेद): foundational constituent, underlying element, stable bearer. The grammatical *dhātuḥ* belongs in that family.
 
 Chapter 0 introduces the *Dhātupāṭha* (धातुपाठ) as the inventory of semantic atoms. This chapter uses a working inventory of **2,168 *dhātavaḥ*** from that source. The examples can now be plain: **कृ (*kṛ*)**, to do or make; **गम् (*gam*)**, to go; **भू (*bhū*)**, to be or become; **दृश् (*dṛś*)**, to see; **ज्ञा (*jñā*)**, to know. These are not words. They are the atoms from which words are assembled.
 
-Chapter 6 placed that category in comparative perspective: Sanskrit is not alone in knowing sub-word semantic generators. What distinguishes the Sanskrit *dhātuḥ* is the full architecture around it: sonomeric inventory, timing, scaffold, bonding, and rule-system.
+Comparative perspective sharpens the category: Sanskrit is not alone in knowing sub-word semantic generators. Semitic languages carry consonantal semantic roots; Tamil grammar recognizes verbal bases. What distinguishes the Sanskrit *dhātuḥ* is the full architecture around it: sonomeric inventory, timing, scaffold, bonding, and rule-system.
 
 The architecture is three-layered:
 
@@ -402,7 +402,7 @@ The naming convergence at two adjacent levels is itself the signal. The Sanskrit
 
 The corollary's consequences run forward. Chapter 11 develops the next level of assembly: how the *dhātuḥ* becomes *kriyā* while preserving sonomeric precision. Chapter 12 develops the bonding chemistry that produces *śabdāḥ* and *vākyāni*. Chapter 13 develops the preservation problem the architecture must solve once the system is in use.
 
-The corollary's consequences run backward as well. The chapters that prosecute the philological dogma's misframing — Chapter 1 on the botanical fallacy, Chapter 17 on PIE in the sky, Chapter 18 on the dictionary-shift — are now anchored by the Atomic Corollary's positive content. The book is not only saying the pyramid's account is wrong. It is saying the pyramid's account is wrong because the architecture is atomic, and atomic architectures do not behave the way the dogma's botanical model assumes.
+The corollary's consequences run backward as well. The chapters that prosecute the philological dogma's misframing — Chapter 2 on the botanical fallacy, Chapter 17 on the wrong question, and Chapter 18 on PIE in the sky — are now anchored by the Atomic Corollary's positive content. The book is not only saying the pyramid's account is wrong. It is saying the pyramid's account is wrong because the architecture is atomic, and atomic architectures do not behave the way the dogma's botanical model assumes.
 
 The *dhātuḥ* is the unit of stable identity. The Sanskrit continuum named it that. The book is restoring the name.
 

@@ -291,11 +291,11 @@ The dual-translation approach is therefore not aesthetic redundancy. It is neces
 
 ### `paspashahnika-apabhramsa-passage`
 
-**Short:** Patañjali's *Paspaśāhnika* (पस्पशाह्निक) — the *Mahābhāṣya* (महाभाष्य) opening; Kielhorn ed. vol. I, p. 2, lines 13–15 — states the *bhūyāṃso 'paśabdāḥ, alpīyāṃsaḥ śabdāḥ* (भूयांसोऽपशब्दाः, अल्पीयांसः शब्दाः) asymmetry maxim and exemplifies it with the *gauḥ* (गौः) → *gāvī / goṇī / gotā / gopotalikā* corruptions in one continuous passage, split across §5.2 / §5.3 for pedagogical reasons; Chapter 5's epigraph renders the asymmetry in the *apabhraṃśa* idiom as *bhūyāṃso 'pabhraṃśā alpīyāṃsaḥ śabdāḥ* (भूयांसोऽपभ्रंशा अल्पीयांसः शब्दाः), while §5.2 preserves the printed *apaśabda* wording; *apaśabda* (अपशब्द) and *apabhraṃśa* (अपभ्रंश) are deployed as near-synonyms across consecutive clauses.
+**Short:** Patañjali's *Paspaśāhnika* (पस्पशाह्निक) — the *Mahābhāṣya* (महाभाष्य) opening; Kielhorn ed. vol. I, p. 2, lines 13–15 — states the *bhūyāṃso 'paśabdāḥ, alpīyāṃsaḥ śabdāḥ* (भूयांसोऽपशब्दाः, अल्पीयांसः शब्दाः) asymmetry maxim and exemplifies it with the *gauḥ* (गौः) → *gāvī / goṇī / gotā / gopotalikā* corruptions in one continuous passage, split across §6.2 / §6.3 for pedagogical reasons; Chapter 6's epigraph renders the asymmetry in the *apabhraṃśa* idiom as *bhūyāṃso 'pabhraṃśā alpīyāṃsaḥ śabdāḥ* (भूयांसोऽपभ्रंशा अल्पीयांसः शब्दाः), while §6.2 preserves the printed *apaśabda* wording; *apaśabda* (अपशब्द) and *apabhraṃśa* (अपभ्रंश) are deployed as near-synonyms across consecutive clauses.
 
-**Deployments:** Chapter 5 epigraph; Chapter 5 §5.2 ¶1 (the *bhūyāṃso* asymmetry maxim); Chapter 5 §5.3 ¶1 (the *gauḥ* canonical example with four corruptions) *(both citations anchor to the same continuous passage from the* Paspaśāhnika *of Patañjali's* Mahābhāṣya*; the chapter's pedagogical split into two sections obscures the textual unity that Patañjali's own connector* तद्यथा *(*tadyathā*) makes explicit; this endnote restores the full passage)*.
+**Deployments:** Chapter 6 epigraph; Chapter 6 §6.2 ¶1 (the *bhūyāṃso* asymmetry maxim); Chapter 6 §6.3 ¶1 (the *gauḥ* canonical example with four corruptions) *(both citations anchor to the same continuous passage from the* Paspaśāhnika *of Patañjali's* Mahābhāṣya*; the chapter's pedagogical split into two sections obscures the textual unity that Patañjali's own connector* तद्यथा *(*tadyathā*) makes explicit; this endnote restores the full passage)*.
 
-The two lines cited in §5.2 and §5.3 are one continuous passage from the *Paspaśāhnika* — the opening *āhnika* of Patañjali's *Mahābhāṣya*, in which the foundational positions of the *vyākaraṇa* discipline are stated. The chapter quotes the two halves separately to keep each pedagogical move clean; the underlying text is one flowing statement.
+The two lines cited in §6.2 and §6.3 are one continuous passage from the *Paspaśāhnika* — the opening *āhnika* of Patañjali's *Mahābhāṣya*, in which the foundational positions of the *vyākaraṇa* discipline are stated. The chapter quotes the two halves separately to keep each pedagogical move clean; the underlying text is one flowing statement.
 
 The full passage as printed in the Kielhorn standard text (Kielhorn ed. 1880; Kielhorn–Abhyankar BORI revision 1962–1972; *Mahābhāṣya* vol. I, p. 2, lines 13–15):
 
@@ -305,7 +305,7 @@ The full passage as printed in the Kielhorn standard text (Kielhorn ed. 1880; Ki
 >
 > *"Many are the faulty-words* (apaśabdāḥ); *few are the (correct) words. For each one word, indeed, there are many faulty-words* (apaśabdāḥ). *To wit — of the word **gauḥ**, the corruptions* (apabhraṃśāḥ) *are **gāvī**, **goṇī**, **gotā**, **gopotalikā**, and so on."*
 
-**Sandhi-vicched (epigraph line).** Chapter 5's epigraph cites the maxim's *apabhraṃśa*-variant:
+**Sandhi-vicched (epigraph line).** Chapter 6's epigraph cites the maxim's *apabhraṃśa*-variant:
 
 > **भूयांसोऽपभ्रंशा अल्पीयांसः शब्दाः ।** / *bhūyāṃso 'pabhraṃśā alpīyāṃsaḥ śabdāḥ.*
 
@@ -324,9 +324,9 @@ Operations dissolved:
 
 **Translation.** *Many are the corruptions; few are the (correct) words.*
 
-**Note on Patañjali's term-switch.** The maxim's first two clauses use *apaśabda* (अपशब्द, "faulty word, non-word" — the sharper pejorative formed with *apa-* + *śabda*); the *tadyathā* example clause switches to *apabhraṃśa* (अपभ्रंश, "falling-away, corruption" — the more neutral descriptive form from *apa-* + *bhraṃś*). Patañjali deploys both terms within the same continuous passage, treating them as near-synonyms designating the same phenomenon: *apaśabda* foregrounds the "wrong-word" framing; *apabhraṃśa* foregrounds the "fall-from" framing. The chapter's term-of-art is *apabhraṃśa* (which carries the engineering-decay account developed across Chapters 5 and 13); the *apaśabda* / *apabhraṃśa* near-synonymy is itself evidence of the textual unity the passage demonstrates — the same Patañjalian passage labels the *gauḥ* variants with both terms across consecutive clauses.
+**Note on Patañjali's term-switch.** The maxim's first two clauses use *apaśabda* (अपशब्द, "faulty word, non-word" — the sharper pejorative formed with *apa-* + *śabda*); the *tadyathā* example clause switches to *apabhraṃśa* (अपभ्रंश, "falling-away, corruption" — the more neutral descriptive form from *apa-* + *bhraṃś*). Patañjali deploys both terms within the same continuous passage, treating them as near-synonyms designating the same phenomenon: *apaśabda* foregrounds the wrong-word angle; *apabhraṃśa* foregrounds the fall-from angle. The chapter's term-of-art is *apabhraṃśa* (which carries the engineering-decay account developed across Chapters 6 and 13); the *apaśabda* / *apabhraṃśa* near-synonymy is itself evidence of the textual unity the passage demonstrates — the same Patañjalian passage labels the *gauḥ* variants with both terms across consecutive clauses.
 
-Three central observations follow from the unified passage that the split presentation in §5.2 and §5.3 cannot make visible on its own.
+Three central observations follow from the unified passage that the split presentation in §6.2 and §6.3 cannot make visible on its own.
 
 First, the *bhūyāṃso* maxim and the *gauḥ* example are not two independent claims that the chapter has aligned for rhetorical purposes. They are one argument made by Patañjali in one passage. The middle clause — ***ekaikasya hi śabdasya bahavo 'pabhraṃśāḥ***, *"for each one word, indeed, there are many corruptions"* — is the structural bridge. It restates the general asymmetry (few correct words, many corruptions) at the per-word level (each correct word has many corruptions of its own). The *gauḥ* example then exemplifies the per-word claim with the four canonical variants. The general claim, the per-word restatement, and the worked example are one demonstrative sequence.
 
@@ -334,7 +334,7 @@ Second, the connector ***tadyathā*** (तद्यथा) — *"to wit," "as fo
 
 Third, the prose form is *bhāṣya* — commentarial prose — not metrical *śloka* (verse). The *Mahābhāṣya* is overwhelmingly prose commentary on Pāṇini's *sūtras* and Kātyāyana's *vārttikas*, with embedded *śloka-vārttikas* at certain points. This passage is *bhāṣya* prose. Secondary literature occasionally references the line as a *śloka*; precision matters. The form does not weaken the citation — the *Paspaśāhnika*'s opening positions carry the full canonical weight of the vyākaraṇa discipline regardless of prose-versus-verse form.
 
-The passage is the *locus classicus* for the *apabhraṃśa* phenomenon in the Indic vyākaraṇa discipline. Every later reference to *apabhraṃśa* in the *vyākaraṇa* literature — and every later defense of the *siddha* axiom (Ch4 §4.2) against the entropy the *apabhraṃśas* embody — refers back, explicitly or implicitly, to this passage. The chapter splits the passage across §5.2 and §5.3 because the two halves of the argument (quantitative asymmetry; per-word worked example) need to land in sequence, with the three-frames analysis of §5.4 already prepared by the time the *gauḥ* variants are introduced. The textual unity restored here is what the *Mahābhāṣya* itself preserves — a single passage in which the grammarian states the general claim, names the per-word structure, and produces the example, in the order in which the demonstration proceeds.
+The passage is the *locus classicus* for the *apabhraṃśa* phenomenon in the Indic vyākaraṇa discipline. Every later reference to *apabhraṃśa* in the *vyākaraṇa* literature — and every later defense of the *siddha* axiom (Chapter 5 §5.2) against the entropy the *apabhraṃśas* embody — refers back, explicitly or implicitly, to this passage. Chapter 6 splits the passage across §6.2 and §6.3 because the two halves of the argument (quantitative asymmetry; per-word worked example) need to land in sequence, with the three-category analysis of §6.4 already prepared by the time the *gauḥ* variants are introduced. The textual unity restored here is what the *Mahābhāṣya* itself preserves — a single passage in which the grammarian states the general claim, names the per-word structure, and produces the example, in the order in which the demonstration proceeds.
 
 ---
 
@@ -1227,7 +1227,7 @@ Standard references: Monier-Williams, *A Sanskrit-English Dictionary* (1899), en
 
 **Short:** Rosa's Law (Public Law 111-256, signed by President Obama October 5, 2010) replaced *mental retardation* with *intellectual disability* across U.S. federal health, education, and labor statutes; the diagnostic retirement followed in DSM-5 (American Psychiatric Association, 2013) and ICD-11 (WHO, 2018) — the formal endpoint of the term's euphemism-treadmill arc the chapter walks.
 
-**Deployments:** Chapter 5 §5.6 ¶ (the moron-treadmill paragraph) — the documentary anchor for the *retarded* tier's retirement from the U.S. federal statute book.
+**Deployments:** Chapter 6 §6.7 ¶ (the moron-treadmill paragraph) — the documentary anchor for the *retarded* tier's retirement from the U.S. federal statute book.
 
 *Rosa's Law* (Public Law 111-256, 124 Stat. 2643), signed into U.S. federal law by President Obama on October 5, 2010, replaced the term *mental retardation* with *intellectual disability* throughout federal health, education, and labor statutes. The law was named for Rosa Marcellino, a child with Down syndrome whose family campaigned for the change. The bill amended specific terminology in the *Individuals with Disabilities Education Act* (IDEA), the *Rehabilitation Act of 1973*, and the *Developmental Disabilities Assistance and Bill of Rights Act*, replacing *mentally retarded* with *intellectually disabled* and *mental retardation* with *intellectual disability* in each federal statute.
 
@@ -1243,13 +1243,13 @@ Standard references: the text of Rosa's Law (Public Law 111-256, available throu
 
 **Short:** Steven Pinker, "The Game of the Name," *The New York Times* op-ed (April 5, 1994), introduces the coinage ***euphemism treadmill*** — naming the phenomenon by which a euphemism, adopted to escape the stigma of an older term, accumulates the same stigma within a generation because the stigma attaches to the referent, not the word; extended in *The Stuff of Thought* (Viking, 2007), Chapter 7.
 
-**Deployments:** Chapter 5 §5.6 ¶ (the same moron-treadmill paragraph) — the citation for Steven Pinker's naming of the phenomenon as the *euphemism treadmill*.
+**Deployments:** Chapter 6 §6.7 ¶ (the same moron-treadmill paragraph) — the citation for Steven Pinker's naming of the phenomenon as the *euphemism treadmill*.
 
 Steven Pinker, "The Game of the Name," *The New York Times*, op-ed, April 5, 1994. In this op-ed, Pinker introduces the coinage *euphemism treadmill* to name the recurring phenomenon by which a euphemism, adopted to escape the stigma attached to an older term, accumulates the same stigma across a generation and is itself displaced by a new euphemism. The naming has stuck across cognitive science and linguistic anthropology.
 
 Pinker's later extended discussions of the phenomenon appear in *The Stuff of Thought: Language as a Window into Human Nature* (Viking, 2007), Chapter 7; *The Better Angels of Our Nature* (Viking, 2011), in the relevant chapters on shifting norms; and across his standing lecture circuit. The structural diagnosis Pinker offers: the stigma attaches to the referent (the underlying social phenomenon being named), not to the word. Whatever new word replaces the old one inherits the stigma within a generation or two because the referent has not changed. The replacement cycle therefore continues indefinitely; only the words change.
 
-Chapter 5 §5.6 deploys Pinker's coinage to name the phenomenon for the reader and to set up the structural contrast: where English (calibrant-less) walks the treadmill, Sanskrit (calibrant-anchored) does not. The contrast carries the chapter's argument. The book treats Pinker's diagnosis as accurate but limited — the diagnosis names the phenomenon without naming the structural condition (calibrant absence) that makes the phenomenon possible.
+Chapter 6 §6.7 deploys Pinker's coinage to name the phenomenon for the reader and to set up the structural contrast: where English (calibrant-less) walks the treadmill, Sanskrit (calibrant-anchored) does not. The contrast carries the chapter's argument. The book treats Pinker's diagnosis as accurate but limited — the diagnosis names the phenomenon without naming the structural condition (calibrant absence) that makes the phenomenon possible.
 
 Standard references: Pinker, *The New York Times* op-ed of April 5, 1994 (accessible through *The New York Times* archive); *The Stuff of Thought* (Viking, 2007), pp. 320–328 (the euphemism-treadmill discussion); secondary discussions across cognitive-linguistic and rhetorical literature.
 
@@ -1588,7 +1588,7 @@ The standard text:
 
 The structural axiom Chapter 5 establishes at this passage: the grammatical *śāstra* is not in the business of inventing or deriving the relation between words and meanings. The sentence moves in sequence: established bond first, worldly usage second, regulation by *śāstra* third. The *śāstra* regulates correct usage of an already-existing system; it does not constitute the system.
 
-Source and standard references: see endnote `patanjali-siddhe-shabdarthasambandhe` for the full Kielhorn edition reference and the standard scholarly treatments. The two endnotes — `patanjali-siddhe-shabdarthasambandhe` and `siddhe-shabdarthasambandhe-mbh` — point at the same passage with slightly different framing for the two deployment chapters (Preface vs. Chapter 5); at chapter-lock time they may be consolidated to a single citation.
+Source and standard references: see endnote `patanjali-siddhe-shabdarthasambandhe` for the full Kielhorn edition reference and the standard scholarly treatments. The two endnotes — `patanjali-siddhe-shabdarthasambandhe` and `siddhe-shabdarthasambandhe-mbh` — point at the same passage with slightly different deployment contexts (Preface vs. Chapter 5); at chapter-lock time they may be consolidated to a single citation.
 
 ---
 
@@ -3861,7 +3861,7 @@ The 2026-05-25 cleanup corrected the older matrix that still used pre-cleanup sc
 
 **Short:** ***Vyākaraṇam*** (व्याकरणम्) = *vi-* (वि-, *apart*) + *ā-* (आ-, *toward*) + *kṛ* (कृ, *to do, to make*) — formed via the verbal stem *vi-ā-kṛ* through the abstract-noun derivation, with literal sense *the act of taking-apart*, *unfolding-apart*, *separating into constituents* — i.e., **analysis**, *de-composition*, not composition. Foundational for the book's polemic against the dogma's *codification* vocabulary: Sanskrit's own name for what Pāṇini did is the opposite operation — the *taking-apart* of a system already present. Sources: Monier-Williams 1899, Apte 1890, Yaska's *Nirukta*, the *Mahābhāṣya*.
 
-**Deployments:** Ch1 §1.1 (the Bakers' Story / standing polemic phrase); Ch1 §1.6 (heroic erasure); Ch4 §4.1 (the *vyākaraṇam* / *vaiyākaraṇa* paragraph); Ch6 §6.3 (the *Dhātupāṭha* as documentation of an inherited inventory); Ch13 §13.3; Ch14 §14.7; Claim #2.
+**Deployments:** Ch1 §1.1 (the Bakers' Story / standing polemic phrase); Ch1 §1.6 (heroic erasure); Chapter 5 §5.1 (the *vyākaraṇam* / *vaiyākaraṇa* paragraph); Ch10 (the *Dhātupāṭha* as documentation of an inherited inventory); Ch13 §13.3; Ch14 §14.7; Claim #2.
 
 The Sanskrit word ***व्याकरणम् (*vyākaraṇam*)*** decomposes morphologically as **वि (*vi-*, "apart, asunder")** + **आ (*ā-*, "toward, fully")** + **कृ (*kṛ*, "to do, to make")**, formed via the verbal stem *vi-ā-kṛ* through the abstract-noun derivation that produces *vyākaraṇa* from the corresponding finite-verb forms. The literal sense is *the act of taking-apart*, *unfolding-apart*, *separating into constituents* — i.e., **analysis**. The operation the term names is *de-composition*, not composition: the analytical procedure by which a given system (the language) is decomposed into its parts, not the constructive procedure by which a system is built.
 
@@ -3875,7 +3875,7 @@ Source: Standard Sanskrit lexicographical references (Monier-Williams 1899; Apte
 
 **Short:** ***Vaiyākaraṇaḥ*** (वैयाकरणः, *one who performs vyākaraṇam*; plural ***vaiyākaraṇāḥ*** वैयाकरणाः) — the Sanskrit role-title for the *grammarian-as-analyst*, derived by the *aṇ-taddhita* suffix with *vṛddhi* of the first syllable. Pāṇini, Kātyāyana, Patañjali, and the pre-Pāṇinian grammarians Pāṇini cites by name (Śākalya, Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Saunaga, Senaka, Sphoṭāyana) are all designated *vaiyākaraṇāḥ*. The discipline does *not* call them ***sthapati*** (architect), ***nirmātṛ*** (constructor), or any cognate of *engineer* — the role-attribution is uniformly *decoder*, *one who unfolds-apart*, contesting the pyramid's *codification* claim from inside the lineage-chain's own vocabulary.
 
-**Deployments:** Ch4 §4.1 (the role-title paragraph); Claim #2.
+**Deployments:** Chapter 5 §5.1 (the role-title paragraph); Claim #2.
 
 The Sanskrit role-title for the practitioner of *vyākaraṇam* is ***वैयाकरणः (*vaiyākaraṇaḥ*)*** — *one who performs *vyākaraṇam**, the *grammarian-as-analyst*. The plural is ***वैयाकरणाः (*vaiyākaraṇāḥ*)*** — *the grammarians*. The derivation is by the *aṇ*-*taddhita* suffix (per Pāṇini's own *Aṣṭādhyāyī* — the suffix indicating *"the one who is associated with X"*), with *vṛddhi* of the first syllable yielding *vyā-* → *vai-* and so *vaiyākaraṇa* from *vyākaraṇa*. The Pāṇinian derivational pattern itself produces the role-title; the discipline is internally self-consistent in naming the activity and the agent.
 
@@ -3889,13 +3889,13 @@ Source: Standard Sanskrit lexicographical references (Monier-Williams 1899); Car
 
 ### `panini-no-preface`
 
-**Short:** The *Aṣṭādhyāyī* contains no preface, no introductory discourse, no first-person statement of authorial intent — it opens directly with *sūtra* 1.1.1 ***vṛddhir ādaic*** (वृद्धिर् आदैच्) and runs roughly four thousand *sūtras* through to the final *sūtra* 8.4.68 (***a a***) without first-person address; the silence on purpose is consistent with the documenter role (a documenter has nothing to motivate; the document is its own purpose) and inconsistent with the engineer role (an engineer would state design intent). The lineage-chain's *why* answer comes one commentarial generation later, in Patañjali's *Mahābhāṣya* — see endnote `prayojanani-paspashahnika`.
+**Short:** The *Aṣṭādhyāyī* contains no preface, no introductory discourse, no first-person statement of authorial intent — it opens directly with *sūtra* 1.1.1 ***vṛddhir ādaic*** (वृद्धिर् आदैच्) and runs roughly four thousand *sūtras* through to the final *sūtra* 8.4.68 (***a a***) without first-person address; the silence on purpose is consistent with the documenter role (a documenter has nothing to motivate; the document is its own purpose) and inconsistent with the order-maker role the codification story assigns him. The lineage-chain's *why* answer comes one commentarial generation later, in Patañjali's *Mahābhāṣya* — see endnote `prayojanani-paspashahnika`.
 
-**Deployments:** Ch4 §4.1 (the no-preface observation paragraph).
+**Deployments:** Chapter 5 §5.2 (the no-preface observation paragraph).
 
 The *Aṣṭādhyāyī* contains no preface, no introductory discourse, no first-person statement of authorial intent. The text opens directly with sūtra 1.1.1 — ***vṛddhir ādaic*** (वृद्धिर् आदैच्) — and runs roughly four thousand sūtras through to the final sūtra 8.4.68 (***a a***) without any first-person address. There are no statements of design intent, no enumeration of purposes, no naming of the audience, no explanation of the methodology — just the sūtras themselves, in their compact technical idiom.
 
-This silence is significant in the context of the book's polemic. An engineer presenting a new construction would presumably state design intent: what the construction is for, why this design and not another, what problem it solves. A documenter describing an existing system has nothing to motivate, because the document is its own purpose: the activity is *enumerate-and-describe*, not *design-and-justify*. Pāṇini's silence on purpose is consistent with the documenter role and inconsistent with the engineer role.
+This silence is significant in the context of the book's polemic. A text that imposes a new standard normally has to explain its authority: what the standard is for, why this standard and not another, what problem it solves. A documenter describing an existing system has no such burden, because the document is its own purpose: the activity is *enumerate-and-describe*, not *design-and-justify*. Pāṇini's silence on purpose is consistent with the documenter role and inconsistent with the order-maker role the codification story assigns him.
 
 The lineage's answer to "why was the *Aṣṭādhyāyī* written?" comes one commentarial generation later, in Patañjali's *Mahābhāṣya* (see endnote `prayojanani-paspashahnika`). Patañjali's five-fold answer (*rakṣā, ūha, āgama, laghu, asaṃdeha*) describes grammar's purposes as *meta-operations on an existing language* — preservation, modification, scriptural enjoining, mastery, doubt-removal — not as the act of constructing the language itself. The purpose-statement is therefore second-hand, post-hoc, and the activity-noun is *vyākaraṇam* — *analysis*.
 
@@ -3905,9 +3905,9 @@ Source: Pāṇini, *Aṣṭādhyāyī* (Bhattoji Dīkṣita's *Siddhāntakaumud�
 
 ### `prayojanani-paspashahnika`
 
-**Short:** Patañjali's *Mahābhāṣya* opens (the *Paspaśāhnika*) with ***kim prayojanam vyākaraṇasya*** (किं प्रयोजनं व्याकरणस्य — *"what is the purpose of grammar?"*) and answers with the ***pañca prayojanāni*** (पञ्च प्रयोजनानि — *five purposes*): ***rakṣā*** (रक्षा, preservation of the *Vedas*), ***ūha*** (ऊह, ritual-context modification), ***āgama*** (आगम, scriptural injunction), ***laghu*** (लघु, brevity / efficient mastery), ***asaṃdeha*** (असंदेह, removal of doubt). All five presuppose an *already-existing* engineered language to preserve, modify, study, condense, clarify; none says "to engineer a new language" or "to codify a drifting one" — the lineage-chain's own answer to *why grammar?* runs the documenter framing in its very first move.
+**Short:** Patañjali's *Mahābhāṣya* opens (the *Paspaśāhnika*) with ***kim prayojanam vyākaraṇasya*** (किं प्रयोजनं व्याकरणस्य — *"what is the purpose of grammar?"*) and answers with the ***pañca prayojanāni*** (पञ्च प्रयोजनानि — *five purposes*): ***rakṣā*** (रक्षा, preservation of the *Vedas*), ***ūha*** (ऊह, ritual-context modification), ***āgama*** (आगम, scriptural injunction), ***laghu*** (लघु, brevity / efficient mastery), ***asaṃdeha*** (असंदेह, removal of doubt). All five presuppose an *already-existing* engineered language to preserve, modify, study, condense, clarify; none says "to engineer a new language" or "to codify a drifting one" — the lineage-chain's own answer to *why grammar?* confirms the documenter role in its very first move.
 
-**Deployments:** Ch4 §4.1 (the Patañjali five-prayojanāni paragraph); Claim #2.
+**Deployments:** Chapter 5 §5.2 (the Patañjali five-prayojanāni paragraph); Claim #2.
 
 The opening of Patañjali's *Mahābhāṣya* — the *Paspaśāhnika*, the introductory *āhnika* — raises the question ***किं प्रयोजनं व्याकरणस्य (*kim prayojanam vyākaraṇasya*)*** — *"what is the purpose of grammar?"* — and answers with five canonical purposes, the ***पञ्च प्रयोजनानि (*pañca prayojanāni*)***:
 
@@ -3917,7 +3917,7 @@ The opening of Patañjali's *Mahābhāṣya* — the *Paspaśāhnika*, the intro
 4. ***लघु (*laghu*)*** — brevity / efficiency: mastering grammar efficiently is itself a virtue; grammar provides the compact rules from which the full language can be regenerated.
 5. ***असंदेह (*asaṃdeha*)*** — removal of doubt: grammar resolves ambiguity in usage and interpretation.
 
-Every one of the five presupposes an *already-existing* engineered language. *Rakṣā* presupposes a *Veda* to preserve; *ūha* presupposes ritual forms to modify; *āgama* presupposes scripture that enjoins study; *laghu* presupposes correct usage to master efficiently; *asaṃdeha* presupposes ambiguities in existing usage to resolve. None of the five says "to engineer a new language" or "to codify a drifting one." The lineage-chain's own answer to *why grammar?* runs the documenter framing in its very first move.
+Every one of the five presupposes an *already-existing* engineered language. *Rakṣā* presupposes a *Veda* to preserve; *ūha* presupposes ritual forms to modify; *āgama* presupposes scripture that enjoins study; *laghu* presupposes correct usage to master efficiently; *asaṃdeha* presupposes ambiguities in existing usage to resolve. None of the five says "to engineer a new language" or "to codify a drifting one." The lineage-chain's own answer to *why grammar?* confirms the documenter role in its very first move.
 
 Source: Patañjali, *Mahābhāṣya*, *Paspaśāhnika* opening — Kielhorn's edition (third edition revised by Abhyankar, Bhandarkar Oriental Research Institute, Pune), volume I, p. 1; Joshi & Roodbergen's translation-commentary series on the *Mahābhāṣya* (Sahitya Akademi / Pune University publications, 1968–2003).
 
@@ -4000,9 +4000,9 @@ Source: Standard histories of Indo-European linguistics — Holger Pedersen, *Th
 
 ### `vedic-variation-eight-claims`
 
-**Short:** The dogma's eight specific claims about variation inside the Vedic corpus, with canonical sources: (1) *Ṛgveda* vs. *Atharvaveda* differences (Macdonell, *A Vedic Grammar*, 1916; Witzel); (2) Mandala-by-Mandala variation in the *Ṛgveda* (Oldenberg 1888; Witzel 1997); (3) *Saṃhitā* / *Brāhmaṇa* / *Āraṇyaka* / *Upaniṣad* stratification (Olivelle); (4) *sandhi* variation across Vedic schools (Whitney's *Atharva-Veda Prātiśākhya*; Macdonell); (5) accent system "erosion" (Wackernagel, *Altindische Grammatik*); (6) word-form variants (Whitney's *Sanskrit Grammar*); (7) *Śākala* vs. *Bāṣkala* recensional differences; (8) Vedic-Avestan parallels (Mayrhofer's *Etymologisches Wörterbuch des Altindoarischen* 1986–2001). Ch 5 §5.6's response: *not drift, but engineered design choices within the same architecture* — Pāṇini's *chandasi* / *bhāṣāyām* framework.
+**Short:** The dogma's eight specific claims about variation inside the Vedic corpus, with canonical sources: (1) *Ṛgveda* vs. *Atharvaveda* differences (Macdonell, *A Vedic Grammar*, 1916; Witzel); (2) Mandala-by-Mandala variation in the *Ṛgveda* (Oldenberg 1888; Witzel 1997); (3) *Saṃhitā* / *Brāhmaṇa* / *Āraṇyaka* / *Upaniṣad* stratification (Olivelle); (4) *sandhi* variation across Vedic schools (Whitney's *Atharva-Veda Prātiśākhya*; Macdonell); (5) accent system "erosion" (Wackernagel, *Altindische Grammatik*); (6) word-form variants (Whitney's *Sanskrit Grammar*); (7) *Śākala* vs. *Bāṣkala* recensional differences; (8) Vedic-Avestan parallels (Mayrhofer's *Etymologisches Wörterbuch des Altindoarischen* 1986–2001). Chapter 6 §6.6's response: *not drift, but engineered design choices within the same architecture* — Pāṇini's *chandasi* / *bhāṣāyām* framework.
 
-**Deployments:** Ch5 §5.6 (the *"Variation Is Not Drift"* section — the dogma's eight claims for internal Vedic drift, each with engineering response).
+**Deployments:** Chapter 6 §6.6 (the *"Variation Is Not Drift"* section — the dogma's eight claims for internal Vedic drift, each with engineering response).
 
 The dogma's eight specific claims about variation inside the Vedic corpus, with their canonical sources:
 
@@ -4015,7 +4015,7 @@ The dogma's eight specific claims about variation inside the Vedic corpus, with 
 7. **Śākala vs. Bāṣkala recensional differences** — standard text-critical work on the *Ṛgveda*'s recensional history.
 8. **Vedic vs. Avestan parallels** — Mayrhofer, *Etymologisches Wörterbuch des Altindoarischen* (EWAia, 1986–2001); the entire "Proto-Indo-Iranian" reconstruction framework.
 
-Ch5 §5.6's engineering response to each: not drift, but engineered design choice. The unifying observation: *the dogma treats all variation as drift; the engineering thesis treats all variation as engineered design choices within the same architecture*. The optional Appendix Part 7 (P2 deferred per `working/as_todo.md`) is where the per-claim technical detail would land if reader review calls for it.
+Chapter 6 §6.6's engineering response to each: not drift, but engineered design choice. The unifying observation: *the dogma treats all variation as drift; the engineering thesis treats all variation as engineered design choices within the same architecture*. The optional Appendix Part 7 (P2 deferred per `working/as_todo.md`) is where the per-claim technical detail would land if reader review calls for it.
 
 Source: Standard Vedic-studies scholarly references for the pyramid's claims (as enumerated above); the book's engineering response is the chapter's own argumentative work, anchored in Pāṇini's *chandasi* / *bhāṣāyām* categorical framework (see endnote `chandasi-bhashayam-mode-markers`).
 
@@ -4025,7 +4025,7 @@ Source: Standard Vedic-studies scholarly references for the pyramid's claims (as
 
 **Short:** Pāṇini's *Aṣṭādhyāyī* deploys two mode-markers throughout its ~4,000 *sūtras*: ***chandasi*** (छन्दसि, locative of *chandas* — literally *"in meter"*) for rules applying in the *chandas* mode (preserving *udātta* / *anudātta* / *svarita*, ळ, specific verb-form distinctions); and ***bhāṣāyām*** (भाषायाम्, locative of *bhāṣā* — literally *"in speech"*) for rules applying in the *bhāṣā* mode (the *śiṣṭa-bhāṣā* शिष्ट-भाषा the *Aṣṭādhyāyī* operates on by default). Anchor *sūtras* include 3.2.108 *bhāṣāyāṃ sadavasaśruvaḥ* and 6.1.34 *viprativiṣayāṇāṃ kalyavakalyādīnāṃ chandasi*, with hundreds of further deployments. ***Mode markers, not temporal markers*** — Pāṇini does not say the language *used to be* Vedic and is *now* Classical; he marks the distinction categorically. The empirical disproof of the two-versions claim sits inside the very text the pyramid treats as the codification event.
 
-**Deployments:** Ch1 §1.1 Move 7 (the *two-versions* claim's refutation); Ch5 §5.6 claim 5 (accent system "erosion"); Ch14 §14.5 (the calibration matrix's two-mode operation).
+**Deployments:** Ch1 §1.1 Move 7 (the *two-versions* claim's refutation); Chapter 6 §6.6 claim 5 (accent system "erosion"); Ch14 §14.5 (the calibration matrix's two-mode operation).
 
 Pāṇini's *Aṣṭādhyāyī* deploys two mode-markers throughout its ~4,000 sūtras to indicate which mode a given rule applies in:
 
@@ -4232,7 +4232,7 @@ The cross-*gaṇa* portion of the *prayoga* audit recomputes the per-*gaṇa* C1
 
 ### `siddha-shabda-artha-sambandhe`
 
-**Short:** Patañjali's *Mahābhāṣya* opens its *Paspaśāhnika* with **सिद्धे शब्दार्थसम्बन्धे (*siddhe śabdārthasambandhe*)** — *"the relation between word and meaning being (eternally) established"*. The locative-absolute construction positions the discipline of grammar as operating on a *given* — speech, meaning, and their relation are already in place; grammar's work begins after that prior establishment, not by creating it. The opening line is the lineage-chain's own anchor for the *apauruṣeya* / decoder-not-codifier framing the book develops.
+**Short:** Patañjali's *Mahābhāṣya* opens its *Paspaśāhnika* with **सिद्धे शब्दार्थसम्बन्धे (*siddhe śabdārthasambandhe*)** — *"the relation between word and meaning being (eternally) established"*. The locative-absolute construction positions the discipline of grammar as operating on a *given* — speech, meaning, and their relation are already in place; grammar's work begins after that prior establishment, not by creating it. The opening line is the lineage-chain's own anchor for the *apauruṣeya* / decoder-not-codifier account the book develops.
 
 **Deployments:** Chapter 5 opening epigraph — sets the *siddha* idiom Chapter 5 then develops across §5.1–§5.5.
 
@@ -4261,7 +4261,7 @@ The construction is a locative absolute (*sati-saptamī*): a backgrounding claus
 
 The phrase opens the **पस्पशाह्निक (*Paspaśāhnika*)**, the introductory *āhnika* of Patañjali's **महाभाष्य (*Mahābhāṣya*)**. Standard citation: Kielhorn ed. (third edition revised by Abhyankar, BORI, Pune), volume I, p. 1 (line 1). The line is among the most-cited *Mahābhāṣya* incipits in the *vyākaraṇa* commentary lineage; both Kaiyaṭa's *Pradīpa* and Nāgeśa's *Uddyota* take it as the load-bearing opening for the discipline's metaphysical footing.
 
-The book reads the line as the lineage-chain's explicit version of what Chapter 5 develops: grammar is decoding work, not codifying work. The word-meaning relation is *siddha* — established — before the grammarian arrives.
+The line gives the lineage-chain's explicit version of what Chapter 5 develops: grammar is decoding work, not codifying work. The word-meaning relation is *siddha* — established — before the grammarian arrives.
 
 ---
 
@@ -4505,7 +4505,7 @@ Keep **स्वाद् (*svād*)** as reserve if the prose needs a more immed
 
 **Deployments:** Chapter 12 §12.9; candidate later deployment in Chapter 18 §18.6 when the worked examples (*devaḥ* → Latin *deus*, *asuraḥ* → Avestan *ahura*, *Sindhuḥ* → Old Persian / Greek / Latin forms) are developed.
 
-Chapter 5 establishes the Sanskrit-side term through Patañjali's *Paspaśāhnika*: *apaśabda* and *apabhraṃśa* name the slipped or fallen-away form that leaves the correct *śabda*. Chapter 12 adds the inverse angle because the same event looks different from the contact-language side. The Sanskrit form has fallen away from the calibrant architecture; in the receiving language, that received form can become alive, productive, and historically fertile.
+Chapter 6 establishes the Sanskrit-side term through Patañjali's *Paspaśāhnika*: *apaśabda* and *apabhraṃśa* name the slipped or fallen-away form that leaves the correct *śabda*. Chapter 12 adds the inverse angle because the same event looks different from the contact-language side. The Sanskrit form has fallen away from the calibrant architecture; in the receiving language, that received form can become alive, productive, and historically fertile.
 
 The coining **vivimorphosis** is built from Latin *vivus* ("alive") and Greek *morphōsis* ("shaping, formation"). It names the transition from engineered form to living form. The term does not replace *apabhraṃśa*; it completes the two-sided description. *Apabhraṃśa* names the loss from the calibrant side. Vivimorphosis names the gain from the receiving side: the molecule becomes a seed, the seed becomes an organic root, and the root can produce descendants under the receiving language's own pressures.
 
