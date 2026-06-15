@@ -81,7 +81,7 @@ assembly:
     file: as_1_00_seekers.md
     title: "Chapter 0 — Zero, Seekers, and the Infinite"
   - kind: front
-    file: as_1_00a_one_oppressors_finite.md
+    file: as_1_00_one_oppressors_finite.md
     title: "Chapter 1 — One, Oppressors, and the Finite"
 
   - kind: part
@@ -89,13 +89,13 @@ assembly:
     title: "Part I — The Prosecution"
     subtitle: The charge.
   - kind: chapter
-    file: as_1_01_botanical.md
+    file: as_1_02_botanical.md
     title: "Chapter 2 — Category Theft and Asurī Māyā"
   - kind: chapter
-    file: as_1_02_strategic.md
+    file: as_1_03_strategic.md
     title: "Chapter 3 — Motive and Method"
   - kind: chapter
-    file: as_1_03_fourth_abrahamic.md
+    file: as_1_04_fourth_abrahamic.md
     title: "Chapter 4 — The Fourth Abrahamic Religion"
 
   - kind: part
@@ -103,10 +103,10 @@ assembly:
     title: "Part II — The Sanskrit Self-Conception"
     subtitle: Internal testimony.
   - kind: chapter
-    file: as_1_04_siddha.md
+    file: as_1_05_siddha.md
     title: "Chapter 5 — *Siddha* and *Kārya*"
   - kind: chapter
-    file: as_1_05_apabhramsa.md
+    file: as_1_06_apabhramsa.md
     title: "Chapter 6 — *Apabhraṃśa* and Entropy"
 
   - kind: part
