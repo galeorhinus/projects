@@ -42,7 +42,7 @@ What PIE reconstructed was not Sanskrit's ancestor. It was Sanskrit's shadow.
 
 Wave 1 carried structure. Wave 2 carried method.
 
-That reclassifies Pāṇini's heroism. The machinery made him heroic as *codifier*: the man who froze a drifting language into order. Life after PIE restores the correct category. Pāṇini is heroic as *decoder*, compressor, and transmitter. He took an operating architecture already carried by the *Vedas*, the *Prātiśākhya* discipline, recitation lineages, and pre-Pāṇinian grammarians, and made it explicit enough to travel. Sanskrit does not begin with him. Sanskrit's method becomes more portable through him.
+That reclassifies Pāṇini's heroism. The machinery made him heroic under the false *codifier* label: the man who froze a drifting language into order. Life after PIE restores the correct category. Pāṇini is heroic as *decoder*, compressor, and transmitter. He took an operating architecture already carried by the *Vedas*, the *Prātiśākhya* discipline, recitation lineages, and pre-Pāṇinian grammarians, and made it explicit enough to travel. Sanskrit does not begin with him. Sanskrit's method becomes more portable through him.
 
 The racial Arya thesis must be reclassified the same way. It was a custody theory before it was a migration theory. It tried to make Sanskrit external so that Sanskrit's greatness could be admired without being restored to the civilization that created and preserved it. Life after PIE ends that custody claim. Sanskrit is not transported cargo. Sanskrit is the calibrant.
 

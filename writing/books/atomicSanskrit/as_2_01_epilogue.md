@@ -8,11 +8,11 @@
 
 The prosecution is over.
 
-The Prologue announced the courtroom. Chapter 18 closed the prosecution: PIE must die. Chapter 19 began the remedy by introducing the waves of transmission and the work of relearning. The accused has been convicted. The asuric pyramid is the perpetrator. The prosecution rests.
+The courtroom has done its work. By Chapter 18, the prosecution has closed: PIE must die. The remedy begins in Chapter 19 with the waves of transmission and the work of relearning. The accused has been convicted. The asuric pyramid is the perpetrator. The prosecution rests.
 
 But the book does not end inside the borrowed courtroom. The courtroom belongs to the adversarial imagination: law as command, guilt as violation, justice as punishment, verdict as victory over an opponent. *Sanātan* does not keep that ledger.
 
-What follows is not revenge. The dharmic frame is karmic. Action bears consequence, but restoration remains possible when action changes. The proper word is **प्रायश्चित्त (*prāyaścitta*)**: self-initiated atonement, internal accountability, correction by action.
+The movement after verdict is not revenge. The dharmic frame is karmic. Action bears consequence, but restoration remains possible when action changes. The proper word is **प्रायश्चित्त (*prāyaścitta*)**: self-initiated atonement, internal accountability, correction by action.
 
 ***Convict the pyramid. Kill the invented ancestor. Invite the world. Restore the standard.***
 
@@ -99,7 +99,7 @@ That fight is not academic. A civilization described as downstream cannot credib
 
 The chronology refusal was never anti-history. It was category before calendar.
 
-Appendix Part 0 exposes the danger: chronology capture. Once the pyramid owns the clock, it can call the *Veda* early, late, primitive, developed, borrowed, interpolated, priestly, or political. A chronology produced inside the same machinery that misclassified Sanskrit cannot become the court in which Sanskrit is judged.
+The opening antagonist frame exposes the danger: chronology capture. Once the pyramid owns the clock, it can call the *Veda* early, late, primitive, developed, borrowed, interpolated, priestly, or political. A chronology produced inside the same machinery that misclassified Sanskrit cannot become the court in which Sanskrit is judged.
 
 First the architecture has to be seen. Sanskrit has to stand again as *saṃskṛti*: engineered recurrence, calibrated memory, distributed correction, and radiant Speech. Once that light is visible, the hunger for the pyramid's calendar may weaken on its own.
 
@@ -113,7 +113,7 @@ The book's closing call is Rigvedic:
 >
 > *kṛṇvanto viśvam āryam | apaghnanto arāvṇaḥ*
 
-Making the whole world *ārya*. Defeating the **अराव्णः (*arāvṇaḥ*)** — the *ungiving*, those who hold rather than release, the structural opposites of *liberality* in its original Latin sense (Chapter 2 §2.4's etymology). Chapter 3 §3.4 documents how the Wilson and Griffith translations of this very verse omitted *viśvam āryam* and substituted away from *arāvṇaḥ* — the philological-omission case the polemic chapters prosecute.
+Making the whole world *ārya*. Defeating the **अराव्णः (*arāvṇaḥ*)** — the *ungiving*, those who hold rather than release, the structural opposites of *liberality* in its original Latin sense (Chapter 3 §3.4's etymology). Chapter 4 §4.4 documents how the Wilson and Griffith translations of this very verse omitted *viśvam āryam* and substituted away from *arāvṇaḥ* — the philological-omission case the polemic chapters prosecute.
 
 The two phrases are one operation seen from two sides. To make the world *ārya*, the formations that suppress *āryatva* must be defeated. To defeat the *arāvṇaḥ* — the ungiving, those who hoard rather than release — the speaker must operate *āryatva*, not merely claim it.
 
@@ -147,7 +147,7 @@ The work is becoming capable of uttering the mantra truthfully.
 
 The asuric formation tried to silence the call by telling the world *Sanātan* was downstream. That Sanskrit was downstream. The preceding chapters make the opposite case. The civilization is not downstream. The calibrant is visible and operating.
 
-The Prologue introduced the two *created* fractals: the pyramid and the swastika. The pyramid repeats apex authority at every scale. The swastika repeats distributed order, calibrated responsibility, and welfare without apex command. The prosecution has shown how the pyramid split Sanskrit into two false categories: before Pāṇini, *prakṛti* — a plant, a branch, a descendant; after Pāṇini, codification — a language frozen by grammar and held by rule. The Epilogue restores the category. Sanskrit is *saṃskṛti*: engineered recurrence, measured sound, disciplined memory, self-correction, and architecture held for *bhūta-hitam*.
+Two *created* fractals have stood in the frame since the beginning: the pyramid and the swastika. The pyramid repeats apex authority at every scale. The swastika repeats distributed order, calibrated responsibility, and welfare without apex command. The prosecution has shown how the pyramid split Sanskrit into two false categories: before Pāṇini, *prakṛti* — a plant, a branch, a descendant; after Pāṇini, codification — a language frozen by grammar and held by rule. The Epilogue restores the category. Sanskrit is *saṃskṛti*: engineered recurrence, measured sound, disciplined memory, self-correction, and architecture held for *bhūta-hitam*.
 
 The pyramid first tried to bury Sanskrit under nature. Then it tried to freeze Sanskrit under codification. Then it tried to suspend Sanskrit beneath PIE. Each move served the same motive: prevent the world from seeing a distributed calibrant architecture that does not need an apex. The motive failed. Sanskrit lives. The imaginary ancestor does not.
 

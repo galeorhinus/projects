@@ -126,7 +126,7 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 **Standard English, book-repurposed.** A pattern whose design law recurs across scale. In this book, *fractal* does not mean strict mathematical infinite self-similarity. It means scale-recurring architecture: the same engineering logic appearing from mouth to language — mouth, sonomer, *akṣara*, *dhātuḥ*, *kriyāpada*, *śabda*, *vākya*, *sūtra*, recitation, and calibration-matrix scale.
 
-**Use in book**: The About Series and Prologue name the distinction between natural fractal, balanced civilizational fractal, and distorted civilizational fractal. Chapter 10 is the technical spine: it tests whether the *dhātuḥ* displays the same *lakṣaṇāni* an engineered *sūtra* displays. Chapters 18–19 use the contrast between flat PIE chronology and scale-recurring Sanskrit architecture.
+**Use in book**: The front matter names the distinction between natural fractal, balanced civilizational fractal, and distorted civilizational fractal. Chapter 10 is the technical spine: it tests whether the *dhātuḥ* displays the same *lakṣaṇāni* an engineered *sūtra* displays. Chapters 18–19 use the contrast between flat PIE chronology and scale-recurring Sanskrit architecture.
 
 ### **Fractal Corollary**
 
@@ -256,7 +256,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **progressive dogma**
 
-**Book-coined cluster.** The doctrine built on linear-progress teleology: earlier means primitive, later means advanced, and ancient sophistication must be explained away, borrowed, or subordinated. Also ***linear-progress dogma*** when the time-axis is the point. Chapter 3 establishes the larger structure.
+**Book-coined cluster.** The doctrine built on linear-progress teleology: earlier means primitive, later means advanced, and ancient sophistication must be explained away, borrowed, or subordinated. Also ***linear-progress dogma*** when the time-axis is the point. Chapter 4 establishes the larger structure.
 
 ### **foundational dogma**
 
@@ -268,7 +268,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **certified intellectuals**
 
-**Book-coined English.** The credentialed carriers below the apex who repeat, translate, popularize, and defend the dogma. The respectable public face of the *rākṣasa*-retainer layer. Appendix Part 0 §0.7 develops the layer.
+**Book-coined English.** The credentialed carriers below the apex who repeat, translate, popularize, and defend the dogma. The respectable public face of the *rākṣasa*-retainer layer. Chapter 4 develops the layer.
 
 ### **linear-progress teleology**
 
@@ -276,7 +276,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **church of progress**
 
-**Book-coined cluster.** The institutional carrier of the progressive dogma: the academy, reference works, journals, museums, universities, foundations, credentialing systems that make the doctrine durable. Chapter 3 establishes.
+**Book-coined cluster.** The institutional carrier of the progressive dogma: the academy, reference works, journals, museums, universities, foundations, credentialing systems that make the doctrine durable. Chapter 4 establishes.
 
 ### **academy**
 
@@ -296,11 +296,11 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **fourth Abrahamic religion**
 
-**Book-coined cluster.** The genealogical indictment naming the deeper Abrahamic structure of the church of progress: a successor formation that inherits the Abrahamic claim-to-singular-truth without naming itself religious. Deploy sparingly. Chapter 3 establishes.
+**Book-coined cluster.** The genealogical indictment naming the deeper Abrahamic structure of the church of progress: a successor formation that inherits the Abrahamic claim-to-singular-truth without naming itself religious. Deploy sparingly. Chapter 4 establishes.
 
 ### **asuric pyramid**
 
-**Book-coined cluster (Sanskrit + English).** The ontological diagnosis underneath the dogma and its machinery: the geometry of apex authority, controlled doctrine, extracted labor, and withheld light. The structural opposite of *Sanātan*. Chapter 3 §3.6 establishes.
+**Book-coined cluster (Sanskrit + English).** The ontological diagnosis underneath the dogma and its machinery: the geometry of apex authority, controlled doctrine, extracted labor, and withheld light. The structural opposite of *Sanātan*. Chapter 4 §4.6 establishes.
 
 ### **asuric machinery**
 
@@ -324,7 +324,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **asuratva** (असुरत्व)
 
-**Standard Sanskrit + book deployment.** The quality of being an *asura*; the operating mode of an actor or institution that consolidates power through hierarchy, deceives to maintain authority, and operates by withholding light. Used as the categorical diagnostic. Chapter 3 §3.6 establishes.
+**Standard Sanskrit + book deployment.** The quality of being an *asura*; the operating mode of an actor or institution that consolidates power through hierarchy, deceives to maintain authority, and operates by withholding light. Used as the categorical diagnostic. Chapter 4 §4.6 establishes.
 
 ### **āryatva** (आर्यत्व)
 
@@ -332,7 +332,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **Racial Arya Thesis (RAT)**
 
-**Book term.** The shared premise underneath both the older invasion account and the softened migration account: *ārya* as race, peoplehood, or bloodline rather than discipline and achievement. Invasion and migration are mechanisms inside the thesis. The thesis itself is deeper: Sanskrit as transported cargo brought into the subcontinent by an external population belonging to a different race. Chapter 2 introduces the pillar; Chapter 16 refutes it at the mouth.
+**Book term.** The shared premise underneath both the older invasion account and the softened migration account: *ārya* as race, peoplehood, or bloodline rather than discipline and achievement. Invasion and migration are mechanisms inside the thesis. The thesis itself is deeper: Sanskrit as transported cargo brought into the subcontinent by an external population belonging to a different race. Chapter 3 introduces the pillar; Chapter 16 refutes it at the mouth.
 
 **Use in book**: The full phrase **racial Arya thesis** is the default in body prose. **RAT** is a compressed label for figures, tables, and occasional prosecutorial shorthand where the tone can carry the bite. Avoid the acronym in solemn passages such as the Preface and Epilogue.
 
@@ -342,7 +342,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **heroic erasure**
 
-**Book-coined English.** The pyramid's move of praising a named figure within Sanātan or a named discipline for some downstream contribution (codification, documentation, transmission, adaptation) while structurally denying the engineering thesis. The praise is the mechanism of the erasure. Chapter 1 §1.6 establishes the move; Chapters 13 and 14 redeploy it in the preservation and calibration argument.
+**Book-coined English.** The pyramid's move of praising a named figure within Sanātan or a named discipline for some downstream contribution (codification, documentation, transmission, adaptation) while structurally denying the engineering thesis. The praise is the mechanism of the erasure. Chapter 2 §2.6 establishes the move; Chapters 13 and 14 redeploy it in the preservation and calibration argument.
 
 ### **category theft**
 
@@ -350,7 +350,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **chronology capture**
 
-**Book-coined English.** The move that turns beginningless architecture into a dated object to be sequenced, ranked, delayed, interpolated, borrowed, or subordinated. Appendix Part 0 establishes why chronology obsession serves the apex.
+**Book-coined English.** The move that turns beginningless architecture into a dated object to be sequenced, ranked, delayed, interpolated, borrowed, or subordinated. Chapter 1 introduces why chronology obsession serves the apex.
 
 ### **codification recoding**
 
@@ -362,7 +362,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **Pratibimba** (प्रतिबिम्ब)
 
-**Standard Sanskrit term, book-repurposed as polemic frame.** A reflection — what appears in a mirror, downstream of an original. The book uses *Pratibimba* to name the relation between Sanskrit and the cognate languages the machinery classifies as siblings: Hindi, Marathi, Greek, Latin, Persian, Lithuanian, Tocharian. The pyramid's framework places all of these as descendants of an imaginary *Proto-Indo-European* parent. The book's reframe: there is no PIE. The cognates everywhere else are *Pratibimbas* — reflections of the original engineered Sanskrit forms. *Mātṛ* is the etymon of *mother*; *pater* is a *Pratibimba* of *pitṛ*. Preface establishes; Chapter 0 §0.3 deploys; Chapters 5, 9, and 17 develop the calibrant-and-reflection architecture in full.
+**Standard Sanskrit term, book-repurposed as polemic frame.** A reflection — what appears in a mirror, downstream of an original. The book uses *Pratibimba* to name the relation between Sanskrit and the cognate languages the machinery classifies as siblings: Hindi, Marathi, Greek, Latin, Persian, Lithuanian, Tocharian. The pyramid's framework places all of these as descendants of an imaginary *Proto-Indo-European* parent. The book's reframe: there is no PIE. The cognates everywhere else are *Pratibimbas* — reflections of the original engineered Sanskrit forms. *Mātṛ* is the etymon of *mother*; *pater* is a *Pratibimba* of *pitṛ*. Preface establishes the hook; Chapter 2 deploys it as category-theft; Chapters 6, 9, and 17 develop the calibrant-and-reflection architecture in full.
 
 ### **engineered / encoded / decoded / codified**
 

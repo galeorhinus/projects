@@ -169,7 +169,7 @@ Never use *vernacular* for Marathi, Hindi, Bengali, Tamil, or any Indic language
 
 **Two-beat closer hammers** (standing-polemic phrases, deployable wherever the convention is being asserted):
 
-- **The dogma makes Pāṇini a rupture. The architecture makes him a witness.** — lands at the agent level. The dogma's chronology-collapse depends on Pāṇini-as-codifier (the Move 4 hinge in Ch 1 §1.1's bakers' story); the engineering thesis treats Pāṇini as documenter of what was already operating.
+- **The dogma makes Pāṇini a rupture. The architecture makes him a witness.** — lands at the agent level. The dogma's chronology-collapse depends on Pāṇini-miscast-as-codifier (the Move 4 hinge in Ch 1 §1.1's bakers' story); the engineering thesis treats Pāṇini as documenter of what was already operating.
 - **Domain is not chronology. Mode is not drift.** — lands at the axes level. The two-axis architecture refused.
 
 Stacked deployment (Pāṇini first, then axes): used at the close of the Preface terminology note, Ch 1 §1.1 Move 7, and Appendix Part 6 §6.7.
@@ -571,6 +571,8 @@ The book's polemic on Sanskrit's character operates on a precise four-term stack
 **Never use *encrypted*.** The architecture is openly engineered into the Vedas; the encoding is not concealment. *Encrypted* suggests hidden / occult / esoteric — exactly the wrong frame. The Vedas encode the architecture in the same sense a blueprint encodes a building's design: openly, systematically, recoverable by anyone with the analytical tools. The Sanskrit lineage has always had those tools (the analytical disciplines — *vyākaraṇam*, *nirukta*, *chandas*, *śikṣā*, *Mīmāṃsā*); the pyramid refuses to use them.
 
 **Documented** remains acceptable as a *secondary* term — the writing-down act, distinct from the decoding/analyzing act. *Pāṇini documented the rules of his decoding* is fine; *Pāṇini documented Sanskrit* (without naming what he was documenting) flattens the polemic. Prefer *decoded* in the standing polemic phrase and the load-bearing prose; reserve *documented* for the specific writing-down operation.
+
+**Hard rule for Pāṇini.** Pāṇini is a decoder / documenter, never a codifier — but the corrective belongs in *one* place only, or it clutters and wrong-voices. **(1) Never let the book's own voice adopt the claim:** no "Pāṇini is the codifier," "make him the codifier," or any wording where Pāṇini (or the book) is the subject asserting codification. There, use *miscasts as codifier* / *miscasting Pāṇini as the codifier*. **(2) Leave the claim alone when it is already disowned:** when it is *attributed to the pyramid* ("the machinery praises him as codifier," "the pyramid calls him codifier," "remember him as codifier") or used as the named construct ***Pāṇini-as-codifier*** (parallel to PIE / Veda-as-data / Sanskrit-as-power). The attribution and the decoder/codifier contrast already disown it. Do **not** insert *miscast / falsely labeled* into attributed uses, parallel construct-labels, lists of praise-titles, or the pyramid's own quoted message — it double-marks, breaks parallels, and wrong-voices.
 
 **Deployment pattern.** The standing polemic phrase is now **Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.** All five disciplines (*vyākaraṇam*, *nirukta*, *chandas*, *śikṣā*, *Mīmāṃsā*) are framed as *decoding disciplines* operating on what the Vedas encode. Anywhere the pyramid's *codification* claim is named, it should be contested with *decoded* / *decoding* as the structurally correct verb.
 

@@ -1,4 +1,4 @@
-# Chapter 5 — *Apabhraṃśa* and Entropy
+# Chapter 6 — *Apabhraṃśa* and Entropy
 
 *Draft v2 (2026-05-20). Codex compression of the previous draft with author restorations: the Appendix Part 7 forward-pointer for the detailed eight-drift-claims walk; CLAUDE.md *reads → treats* fix at §5.6 (the *reads-difference-as-drift* pattern). **Tier 3 addback (2026-05-20)**: "thousands of years before any modern philological project" chronological-depth anchor restored in §5.3 ¶5. Ch 5 was otherwise compression-tight; §5.4 was substantively reframed by Codex into the architecture-vs-authority three-frames (natural drift / codified correction / engineered self-correction), which threads forward into Ch 13 §13.5's *Calibrated, Not Codified* — no addback warranted there.*
 
@@ -16,11 +16,11 @@
 
 \bigskip
 
-## 5.1 Entropy Has a Name
+## 6.1 Entropy Has a Name
 
-Chapter 4 ended with Patañjali's premise: the bond between word and meaning is *siddha*, established. If the bond is established, grammar has a task. It must defend the bond against what breaks away from it.
+Chapter 5 ended with Patañjali's premise: the bond between word and meaning is *siddha*, established. If the bond is established, grammar has a task. It must defend the bond against what breaks away from it.
 
-Chapter 4 also established the controlling distinction: codified systems correct by authority; Sanskrit corrects by architecture. That distinction becomes visible here. If correctness comes from authority, error is disobedience. If correctness comes from architecture, error is misalignment. *Apabhraṃśa* is misalignment — the uttered form slipping away from the established bond between word and meaning, sound and form, usage and rule.
+Chapter 5 also established the controlling distinction: codified systems correct by authority; Sanskrit corrects by architecture. That distinction becomes visible here. If correctness comes from authority, error is disobedience. If correctness comes from architecture, error is misalignment. *Apabhraṃśa* is misalignment — the uttered form slipping away from the established bond between word and meaning, sound and form, usage and rule.
 
 Entropy has a Sanskrit name: **अपभ्रंश (*apabhraṃśa*)** — falling away, slipping off. The morphology is transparent: *apa-* means away, off, down; *bhraṃśa* carries the *bhraṃś* semantic atom, to fall or slip. A speaker produces *apabhraṃśa* when the uttered form slips from the engineered form grammar specifies.
 
@@ -30,7 +30,7 @@ The grammarian does not punish the speaker for violating authority. He identifie
 
 The *vaiyākaraṇāḥ* identified this before modern linguistics had a vocabulary for it. They observed it in speech, measured it, and built grammar in direct response to it. The grammar that begins from *siddha* describes what *siddha* faces.
 
-## 5.2 Few Words, Many Corruptions
+## 6.2 Few Words, Many Corruptions
 
 Patañjali states the asymmetry in the *Paspaśāhnika*:
 
@@ -48,7 +48,7 @@ That asymmetry explains the architecture. If the correct forms were the majority
 
 Few are the words. Many are the corruptions. The work is to keep the small set visible against the large.
 
-## 5.3 *Gauḥ* and Its Fallings-Away
+## 6.3 *Gauḥ* and Its Fallings-Away
 
 Patañjali demonstrates the asymmetry with a single example. The correct word is **गौः (*gauḥ*)** — cow. The grammar specifies *gauḥ*. Speakers produce a family of deviations:
 
@@ -58,15 +58,15 @@ Each variant falls away differently. *Gāvī* lengthens and reshapes the form. *
 
 Patañjali does not list these as alternative correct forms. He lists them as corruptions of one correct form. The point is not schoolmaster prescription. It is specification. *Gauḥ* is the engineered form. The others are what speech produces when articulation slips, memory thins, or transmission degrades.
 
-![Figure 5.1 — *Gauḥ* and Its Four Canonical *Apabhraṃśas*. Patañjali's example made visible: one calibrated form, many falling-away forms.](figures/apabhramsa/gauh_four_apabhramsas.svg){#fig:apabhramsa-gauh-four-apabhramsas width=90%}
+![Figure 6.1 — *Gauḥ* and Its Four Canonical *Apabhraṃśas*. Patañjali's example made visible: one calibrated form, many falling-away forms.](figures/apabhramsa/gauh_four_apabhramsas.svg){#fig:apabhramsa-gauh-four-apabhramsas width=90%}
 
 Modern linguistics later labeled phonetic erosion, morphological reanalysis, and lexical replacement. Patañjali had the phenomena in front of him. He gave them their names, measured their asymmetry, and placed grammar on the side of the engineered form — thousands of years before any modern philological project.
 
 The data was always available. What changed in the modern period was the framework that decided to call deviations alternative forms.
 
-## 5.4 Drift, Codification, Calibration
+## 6.4 Drift, Codification, Calibration
 
-The same data can be read through three frames. Chapter 1 established the larger categories. Here they become diagnostic tools.
+The same data pass through three frames. Chapter 2 established the larger categories. Here they become diagnostic tools.
 
 **Natural drift** is the ***प्रकृति (*prakṛti*)*** frame. Standardization comes from usage: habit, prestige, contact, local life, and whatever later schooling records after the fact. Forms shift across speech communities and time. The linguist tracks the trajectory. *Gauḥ* and *gāvī* become related forms in a history of usage.
 
@@ -84,15 +84,15 @@ The same distinction appears pedagogically in Chapter 13 §13.5. A Vedic line ca
 
 Sanskrit was not codified. It was engineered. *Apabhraṃśa* is what the system detects when speech falls away from its own architecture.
 
-![Figure 5.2 — Drift, Codification, Calibration. Three frames for change, standard, and correction: natural drift, codification by authority, and calibration by architecture.](figures/apabhramsa/drift_codification_calibration.svg){#fig:apabhramsa-drift-codification-calibration width=95%}
+![Figure 6.2 — Drift, Codification, Calibration. Three frames for change, standard, and correction: natural drift, codification by authority, and calibration by architecture.](figures/apabhramsa/drift_codification_calibration.svg){#fig:apabhramsa-drift-codification-calibration width=95%}
 
-## 5.5 Engineered Against Entropy
+## 6.5 Engineered Against Entropy
 
 What Patañjali labels is what modern thermodynamics calls entropy: the tendency of organized systems to drift toward disorder when not actively constrained. Naming the tendency is not the engineering response. It is the diagnosis that prepares the response.
 
 The response is the grammatical and recitational architecture. The *Aṣṭādhyāyī* specifies the rules. The *Vārttikāni* refine them. The *Mahābhāṣya* defends them. The **षड्वेदाङ्गानि (*ṣaḍ-vedāṅgāni*)** — *Śikṣā*, *Vyākaraṇa*, *Nirukta*, *Kalpa*, *Chandas*, *Jyotiṣa* — hold the auxiliary layers. The *Prātiśākhya* texts specify phonetic detail by recension. The *padapāṭha* decomposes the text into words; the *krama*, *jaṭā*, and *ghana* recitations re-encode that decomposition under stronger combinatorial constraints. Chapter 14 develops the full calibration matrix. Here the point is simpler: every layer exists because entropy is real.
 
-Chapter 1's English example — *hlāfweard* becoming *laverd*, then *lorde*, then *Lord* — is exactly the kind of drift Patañjali labels *apabhraṃśa*. The phenomenon is not foreign to Sanskrit analysis. The difference is civilizational response. English absorbed the drift and kept moving. Sanskrit diagnosed the drift and built against it.
+Chapter 2's English example — *hlāfweard* becoming *laverd*, then *lorde*, then *Lord* — is exactly the kind of drift Patañjali labels *apabhraṃśa*. The phenomenon is not foreign to Sanskrit analysis. The difference is civilizational response. English absorbed the drift and kept moving. Sanskrit diagnosed the drift and built against it.
 
 The deeper design choice is visible in the form of the Vedic corpus. *Apabhraṃśa* can occur anywhere: any speaker, any utterance, any moment. The engineering answers a universal failure mode with two linked constraints: ***chandas*** (छन्दस्), metrical form, and ***śruti*** (श्रुति), heard transmission. *Chandas* makes phonetic drift show up as metrical mismatch. *Śruti* makes perceptual drift audible to teacher, student, and audience as the recitation happens. Meter and hearing make quiet drift difficult. The *guru-shishya* lineage-chain makes correction continuous.
 
@@ -100,7 +100,7 @@ Poetry, recitation, meter, and lineage are not cultural ornaments. They are the 
 
 *Apabhraṃśa* is what the discipline opposes. *Siddha* is what the discipline preserves.
 
-## 5.6 Variation Is Not Drift
+## 6.6 Variation Is Not Drift
 
 The pyramid's account claims direct evidence of drift inside the Vedic corpus. It points to differences across the four Vedas, across Rigvedic *maṇḍalas*, across Saṃhitā / Brāhmaṇa / Āraṇyaka / Upaniṣad layers, across recensions, across accent systems, and across word forms.[NOTE: vedic-variation-eight-claims]
 
@@ -114,7 +114,7 @@ This matters because the pyramid's account needs Vedic Sanskrit to have changed.
 
 **Appendix Part 7 — *The Vedic Carrier*** develops each of the dogma's eight drift-claims with its specific example and tabulates the engineering-mode response, after walking three load-bearing Ṛgvedic verses phrase-by-phrase to demonstrate the implicit grammar in operation in the corpus form. The polemic-critical observation landing at the appendix's center: *chandas* (छन्दस्) means *meter*; the *chandas* mode is the metrical mode; everything that distinguishes the *chandas* mode from the *bhāṣā* mode is, fundamentally, what the meter requires.
 
-## 5.7 The Calibrant Envelope
+## 6.7 The Calibrant Envelope
 
 The chapter has exposed the internal threat. One question remains. What happens when Sanskrit, an engineered anti-entropic architecture, contacts other languages?
 
@@ -130,11 +130,15 @@ Three tiers follow.
 
 Pinker coined the cycle's name. He did not supply the structural explanation. English borrowed Greek and Latin surfaces without a living *dhātu*-system to anchor them. *Moron* was untethered the day it entered English. In Marathi or Hindi, *mūrkha* remains tethered because the dhātu-image remains alive in the same speech ecosystem. The engineered system continues to anchor the word even when most speakers do not consciously know the dhātu.
 
-**[FIGURE 5.3: *The Calibrant Envelope.* — three tiers across an anchoring-strength axis. Left: Sanskrit as calibrant, no drift, with *gauḥ*, *jaḍa*, *mūrkha* preserved multi-valently. Center: calibrant-anchored Marathi/Hindi drifting within the dhātu image-space. Right: English without calibrant, showing the euphemism treadmill.]**
+**[FIGURE 6.3: *The Calibrant Envelope.* — three tiers across an anchoring-strength axis. Left: Sanskrit as calibrant, no drift, with *gauḥ*, *jaḍa*, *mūrkha* preserved multi-valently. Center: calibrant-anchored Marathi/Hindi drifting within the dhātu image-space. Right: English without calibrant, showing the euphemism treadmill.]**
 
 The internal infrastructure that makes Sanskrit a calibrant is Chapter 14's calibration matrix. The external relation — Sanskrit as calibrant to neighboring and contact languages — is Chapter 18's calibrant-contact argument. Both rest on the same principle: engineered source, asymmetric anchoring, drift envelope set by anchoring strength.
 
-*Apabhraṃśa* names the fall. Chapter 6 develops the constituent that holds.
+## 6.8 The Fall Is Not Only Linguistic
+
+*Apabhraṃśa* names a principle, not only a linguistic event. Any engineered order, left in time and under pressure, falls away from its design unless an architecture holds it — and, as Chapter 1 established, the asuric force does not create that entropy from nothing. It feeds the fall, weaponizes it, and renames it as the nature of the thing.
+
+Caste is the clearest social instance. The dharmic architecture specifies **वर्ण (*varṇa*)** by **गुण (*guṇa*)** and **कर्म (*karma*)** — disposition and action, not birth — and the *Assalāyana Sutta* places the rigid master-slave binary at the bordering nations, not the Indic core (Chapter 3 §3.2). Caste-as-fixed-birth-rank is the *apabhraṃśa* of that order: a falling-away the Abrahamic master-slave substrate **fed** and the colonial census **hardened**, freezing fluid *jāti* into enumerated, ranked administration[NOTE: caste-colonial-census-hardening] — the social mirror of *gauḥ* slipping into *gāvī*. This volume holds to the linguistic fractal; the social and civilizational recurrence belongs to the later *Second Shanti* volumes. It is named here because it is one law: *apabhraṃśa* is the fall, wherever an engineered order meets the force that feeds its drift. The next scale down is the constituent that holds against the fall — the *dhātuḥ*, which Chapter 10 develops.
 
 ---
 

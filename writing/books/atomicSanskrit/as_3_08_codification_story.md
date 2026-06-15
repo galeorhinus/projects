@@ -497,7 +497,7 @@ The codification story belongs to the pyramid. The calibration model belongs to 
 
 ## 8.18 Verdict
 
-The story that Pāṇini codified Sanskrit is not a neutral summary. It is the pyramid's bridge between two needs. The pyramid needs Sanskrit to be natural enough for PIE. It needs Pāṇini to be brilliant enough to explain the grammar. The bridge solves both problems by making Pāṇini the codifier of a late standard.
+The story that Pāṇini codified Sanskrit is not a neutral summary. It is the pyramid's bridge between two needs. The pyramid needs Sanskrit to be natural enough for PIE. It needs Pāṇini to be brilliant enough to explain the grammar. The bridge solves both problems by miscasting Pāṇini as the codifier of a late standard.
 
 The bridge collapses.
 

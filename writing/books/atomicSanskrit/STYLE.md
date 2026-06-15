@@ -147,6 +147,8 @@ Keep the antagonist vocabulary layered. Each term does different work.
 - **apparatus / machinery** = operational mechanism: peer review, citation networks, chronology-collapse, category-theft, gaslighting with footnotes.
 - **asuric pyramid / pyramid** = power geometry: apex authority, hierarchy, extraction, control, withheld light.
 
+When a sentence uses **apex** for the asuric pyramid's implicit highest authority, try to let the next sentence carry a masculine pronoun: **he**, **him**, or **his**. The point is not biological description. The point is pyramidal grammar. The apex is the unnamed masculine claimant to command, and Sanskrit threatens him because Sanskrit is distributed, calibrated, and not dependent on his authorization. Use the pronoun when it sharpens the antagonist. Do not force it where it makes the prose awkward.
+
 The cascade is doctrinal → institutional → ontological:
 
 > progressive dogma → church of progress → asuric pyramid

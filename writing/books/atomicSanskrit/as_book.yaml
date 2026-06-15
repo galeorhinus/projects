@@ -68,31 +68,35 @@ header-includes:
 # Edit reading order here, not in build_book.py.
 assembly:
   - kind: front
-    file: as_0_01_preface.md
-    title: Preface
-  - kind: front
     file: as_0_00_about_series.md
     title: "About the *Second Shanti* Series"
   - kind: front
-    file: as_0_03_prologue.md
-    title: "Prologue — The Prosecution"
+    file: as_0_01_preface.md
+    title: "Preface — The Eclipse"
+  - kind: part
+    file: as_part_00_overture_shankha.md
+    title: "Overture — The Śaṅkha"
+    subtitle: The war is already underway.
   - kind: front
     file: as_1_00_seekers.md
     title: "Chapter 0 — Zero, Seekers, and the Infinite"
+  - kind: front
+    file: as_1_00a_one_oppressors_finite.md
+    title: "Chapter 1 — One, Oppressors, and the Finite"
 
   - kind: part
     file: as_part_01_wrong_metaphor.md
-    title: "Part I — The Wrong Metaphor"
+    title: "Part I — The Prosecution"
     subtitle: The charge.
   - kind: chapter
     file: as_1_01_botanical.md
-    title: "Chapter 1 — The Miscategorized Fractal"
+    title: "Chapter 2 — Category Theft and Asurī Māyā"
   - kind: chapter
     file: as_1_02_strategic.md
-    title: "Chapter 2 — Why the Pyramid Needs the Tree"
+    title: "Chapter 3 — Motive and Method"
   - kind: chapter
     file: as_1_03_fourth_abrahamic.md
-    title: "Chapter 3 — The Fourth Abrahamic Religion"
+    title: "Chapter 4 — The Fourth Abrahamic Religion"
 
   - kind: part
     file: as_part_02_sanskrit_self_conception.md
@@ -100,13 +104,10 @@ assembly:
     subtitle: Internal testimony.
   - kind: chapter
     file: as_1_04_siddha.md
-    title: "Chapter 4 — *Siddha* and *Kārya*"
+    title: "Chapter 5 — *Siddha* and *Kārya*"
   - kind: chapter
     file: as_1_05_apabhramsa.md
-    title: "Chapter 5 — *Apabhraṃśa* and Entropy"
-  - kind: chapter
-    file: as_1_06_dhatuh.md
-    title: "Chapter 6 — The Architectural धातुः (*dhātuḥ*)"
+    title: "Chapter 6 — *Apabhraṃśa* and Entropy"
 
   - kind: part
     file: as_part_03_sound_field.md
@@ -178,9 +179,6 @@ assembly:
   - kind: end
     file: as_0_02_acknowledgements.md
     title: Acknowledgments
-  - kind: end
-    file: as_3_00_one_oppression_finite.md
-    title: "Appendix Part 0 — One, Oppressors, and the Finite"
   - kind: end
     file: as_3_01_baking.md
     title: "Appendix Part 1 — Baking the Mother Tongue"

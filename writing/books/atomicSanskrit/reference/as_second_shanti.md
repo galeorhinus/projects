@@ -355,6 +355,8 @@ This section grows as material surfaces during *Atomic Sanskrit* work that prope
 
 - **The British colonial case at full polemic.** *Atomic Sanskrit* handles the colonial period in measured, structural form: descriptive, focused on the engineering response (the architecture survived because it was distributed by design). The political volume develops the British case as a fully indicted instance of asuric pressure on the Indic system. Specific material: Macaulay's Minute on Education (1835), Bentinck's proclamation, the systematic dismantling of *pāṭhaśālas*, the redirection of Sanskrit study into colonial universities, the construction of the colonial Indological apparatus, the racial Arya thesis as ideological cover for civilizational displacement.
 
+- **Caste as social *apabhraṃśa* — fed and hardened, not created.** Caste-as-fixed-birth-rank is not the dharmic architecture but its *vikṛti*: a falling-away from *varṇa* by *guṇa* / *karma* (*Bhagavad Gītā* 4.13), the social mirror of linguistic *apabhraṃśa*. By the entropy principle — the asuric force *feeds* entropy, it does not create it from nothing — the Abrahamic master-slave substrate **fed** the drift and the colonial census **hardened** it, freezing fluid *jāti* into enumerated, ranked, all-India administration (Dirks, *Castes of Mind*; Cohn, *Colonialism and Its Forms of Knowledge*; Bayly, *Caste, Society and Politics in India*). *Atomic Sanskrit* states the principle as a corollary only — Ch 6 §6.8 (cross-ref Ch 3 §3.2; endnote `caste-colonial-census-hardening`) — and defers the full case here. The **vikṛti** volume develops it: the Islamic slave-political formations, the census mechanics, the pre- and post-intervention comparison, and the connection to §3.9's function→entitlement collapse (brahminhood as inherited entitlement = the swastika's rotation slowing into the pyramid). Guardrail: *fed / hardened, not created ex nihilo*; no case, no chapter.
+
 ---
 
 ## 9. Cross-references from *Atomic Sanskrit*
@@ -431,6 +433,8 @@ The book-coined English terms ***Mnemoniture***, ***Flexture***, ***Auditure*** 
 
 Forthcoming volumes have not started drafting. This file is purely a planning + parking-lot document. When the author begins work on a specific forthcoming volume, this document becomes the seed for that volume's working handoff file.
 
-*Last updated: 2026-05-28 — added §1.2 central thesis (created fractality and the two human-created fractals); expanded §3.4 with the kali-yuga salvage frame; expanded §3.7 with the four-word decomposition of *sat-asat-viveka-buddhi* and the individual-vs-institutional placement. Source material migrated from `atomicSanskrit/about_second_shanti.md` (raw notes).*
+*Last updated: 2026-06-15 — parked the caste-as-social-*apabhraṃśa* item in §8 (surfaced in the Ch 6 §6.8 work; cross-ref Ch 3 §3.2; new `caste-colonial-census-hardening` endnote). Assigned to the **vikṛti** volume; ties to §3.9.*
+
+*2026-05-28 — added §1.2 central thesis (created fractality and the two human-created fractals); expanded §3.4 with the kali-yuga salvage frame; expanded §3.7 with the four-word decomposition of *sat-asat-viveka-buddhi* and the individual-vs-institutional placement. Source material migrated from `atomicSanskrit/about_second_shanti.md` (raw notes).*
 
 *Earlier: 2026-05-17 — consolidating `as_diversions_ss.md` and `as_vol2_fractal_democracy.md` into a single tracking document; reflecting the multi-volume series structure with no committed Vol-2 specific name; preserving the article-asymmetry (alive vs excavated) as load-bearing.*

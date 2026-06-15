@@ -133,10 +133,12 @@ DRAFT_NOTES_RE   = re.compile(r"\n(?:---\s*\n+)?##+\s+Draft notes(?:\s*\([^)]*\)
 DRAFT_HEADER_RE  = re.compile(r"^\*Draft v.*?\*\n+", re.DOTALL | re.MULTILINE)
 # Part-opener files carry a `# Part X — Title` h1 + italic subtitle + `---`
 # rule so Caddy / static-HTML renderers can serve them as standalone pages.
+# The Overture / Finale bookends follow the same file convention even though
+# their reader-facing titles are not "Part 0" / "Part VIII".
 # The PDF assembler already emits the title via the LaTeX \part{} directive,
 # so strip the duplicate header before inlining the opener prose.
 PART_HEADER_RE   = re.compile(
-    r"^#\s+Part\s+[IVX]+[^\n]*\n+"
+    r"^#\s+(?:Part\s+[0-9IVX]+|Overture|Finale)[^\n]*\n+"
     r"(?:\*[^*\n]+\*\s*\n+)?"
     r"(?:---\s*\n+)?",
     re.MULTILINE,

@@ -1,4 +1,4 @@
-# Preface
+# Preface — The Eclipse
 
 *Draft v1 — for iteration*
 
@@ -20,45 +20,29 @@
 
 The Sun has been eclipsed.
 
-The Vedic mantra diagnoses the condition precisely.[NOTE: rigveda-5-40-5-svarbhanu-eclipse] Svarbhānu the asura pierces Sūrya with darkness, and the worlds look about bewildered, like one who no longer knows the field. The wound is not only darkness. It is field-loss: **अक्षेत्रवित् (*akṣetravit*)**, the state in which the light remains present but the terrain can no longer be discerned.
+The Vedic mantra names the condition precisely.[NOTE: rigveda-5-40-5-svarbhanu-eclipse] Svarbhānu the asura pierces Sūrya with darkness, and the worlds look about bewildered, like one who no longer knows the field. The wound is not only darkness. It is field-loss: **अक्षेत्रवित् (*akṣetravit*)**, the state in which the light remains present but the terrain can no longer be discerned.
 
-That verse is the Vedic diagnostic for the condition in which Sanskrit stands before the modern world. Sanskrit is Sūrya: radiant, generative, engineered order. The asuric pyramid is Svarbhānu: the apex-form and its actor-network, jealous of a competing distributed order. Proto-Indo-European, or PIE, is the eclipse-device, the Rāhu-like head placed over the Sun: an ancestor with no speakers, no body, no living mouth, made immortal precisely because it was never alive enough to die.
+That verse is the Vedic diagnostic for the condition in which Sanskrit stands before the modern world. Sanskrit is Sūrya: radiant, generative, engineered order. The asuric pyramid is Svarbhānu: the apex-form and its actor-network — he can neither build such an order nor bear one above his own. Proto-Indo-European, or PIE, is the eclipse-device, the Rāhu-like head placed over the Sun: an ancestor with no speakers, no body, no living mouth, made immortal precisely because it was never alive enough to die.
 
 The eclipse did not make Sanskrit vanish. Sanskrit has remained visible, audible, recited, parsed, taught, and documented across thousands of years. The word *saṃskṛtam* says what it is. Its grammar says what it is. Its recitation lineages say what it is. Its architecture says what it is. What the eclipse darkened was the field around it. The pyramid taught the world to treat Sanskrit not as the Sun, but as one daughter-language beneath an imagined parent; not as the calibrant, but as a botanical organism; not as the standard-bearing architecture, but as material waiting for external authority to classify it.
 
-This is diagnosis, not prosecution. That battle begins later, inside the pyramid's own courtroom, where accusation, evidence, and verdict are the machinery the pyramid understands. Here the task is simpler: to say what was darkened, what was placed in front of the Sun, and why seeing Sanskrit again matters.
+This is orientation, not prosecution. That battle begins later, inside the pyramid's own courtroom, where accusation, evidence, and verdict are the machinery the pyramid understands. Here the task is simpler: to say what was darkened, what was placed in front of the Sun, and why seeing Sanskrit again matters.
 
-## The Engineering Claim
+## What Was Eclipsed
 
 The claim is simple. The language itself bears the word **संस्कृतम् (*saṃskṛtam*)**: well-made, wholly formed, perfectly synthesized.[NOTE: samskrtam-morphology] The *paramparā* (परम्परा) that received and documented it is an unbroken lineage-chain and distributed transmission architecture. That architecture distinguished Sanskrit from *prākṛta*, recognized decay as *apabhraṃśa*, and treated the word-meaning bond as *siddha*: already established.
 
 The evidence is not hidden. Pāṇini's grammar displays it. The Vedic recitation lineages preserve it. The question is why the engineering character of Sanskrit has been treated for so long as anything other than obvious.
 
+A wiser age would not need this book. It would look at Sanskrit and see the architecture. It would listen to the Vedas and hear the engineering. The argument has to be made because the present age has been trained to see neither. Its redundancy is deliberate: a field-blind age has become *mugdha*, bewildered before what remains present. Repetition becomes calibration against that bewilderment.
+
 Sanskrit behaves like speech because it is speech: recited, spoken, parsed, remembered, sung, taught, and used across poetry, mantra, śāstra, dialogue, ritual, drama, and philosophy. But the same speech also displays an architecture ordinary natural languages do not expose with this precision: the *varṇamālā* (the ordered inventory of sonomers, measured sound-particles; Chapters 8 and 9 move from the sound-field to the selected grid), the *dhātu* inventory, the physiological phonetic grid, the calibration matrix, and the multi-axis grammatical system. The architecture is observable in the Vedas. Sanskrit is the linguistic form the Vedas instantiate. Both display engineering. The origin is a separate question; the engineering is what shows.
 
 **The similarities prove Sanskrit is usable speech. The differences prove it is engineered speech.**
 
-## The Pyramid's Clock
+Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.
 
-The pyramid's clock is part of the eclipse. *Sanātan* does not begin with a first day and does not terminate in a final end. Its time-sense is **कालचक्र (*kālacakra*)**, the wheel of time, held inside **अनादि (*anādi*)**, the beginningless, and **अनन्त (*ananta*)**, the endless.
-
-**The beginningless and the endless deny the apex what it needs most: a first point it can own.**
-
-A civilization oriented to the unbounded does not make chronology the judge of truth. A date may help sequence events; it cannot decide the category of Sanskrit. The same *mantra* recited across ages is the same *mantra*. It does not gain authority by being older or lose authority by being recited again.
-
-The pyramid needs the unbounded forced into a finite clock. Once it owns the clock, it can call one layer early, another late, one primitive, another developed, one original, another borrowed. It can turn domain into period, mode into stage, architecture into evolution, and calibration into late correction. For Indic depth, the practice is *thousands of years*, with no counter-chronology manufactured merely to occupy the same battlefield.[NOTE: chronology-asymmetry-rationale]
-
-When Sanskrit's light shines again as calibrated architecture, the hunger for the pyramid's calendar may itself fade. The point is not to win a pointless date-contest. The point is to make the architecture visible so chronology becomes servant, not sovereign.
-
-## Domains and Modes
-
-The dogma uses one chronological split: *"Vedic Sanskrit"* to *"Classical Sanskrit."* Sanskrit's own apparatus gives two axes instead.
-
-**वैदिक (*vaidika*)** / **लौकिक (*laukika*)** are domains: Sanskrit of the Vedic domain and Sanskrit of the worldly learned domain. **छन्दस् (*chandas*)** / **भाषा (*bhāṣā*)** are modes: the metrical mode and the speech mode. Pāṇini marks the distinction directly in the *Aṣṭādhyāyī*: rules tagged *chandasi* apply in the *chandas* mode; rules tagged *bhāṣāyām* apply in the *bhāṣā* mode.
-
-**Domain is not chronology. Mode is not drift.**
-
-The chapters return to this distinction when the prosecution begins. Here it is enough to see the shape of the theft: the pyramid flattens a two-axis architecture into a one-line chronology, then calls the flattening history.
+The evidence also appears in the words nearest the reader. **मातृ (*mātṛ*)** is not Sanskrit's cousin beside *mother*; it is the etymon. The English word is a **प्रतिबिम्ब (*Pratibimba*)** — a reflection downstream of the original form.
 
 ## The Boy's Question
 
@@ -77,6 +61,20 @@ That correction was the first form in which Sanskrit's architecture reached me: 
 
 That childhood question now opens the architectural claim. Sanskrit's free word order, *sandhi* rules, engineered meter, and formal grammar are not decorative refinements. They are part of the same calibrated order. The chapters that follow make that order visible across scale: *varṇa*, *akṣara*, *dhātuḥ*, *śabda*, *vākya*, *sūtra*, and language.
 
+## The Pyramid's Clock
+
+The pyramid's clock is part of the eclipse. *Sanātan* does not begin with a first day and does not terminate in a final end. Its time-sense is **कालचक्र (*kālacakra*)**, the wheel of time, held inside **अनादि (*anādi*)**, the beginningless, and **अनन्त (*ananta*)**, the endless.
+
+**The beginningless and the endless deny the apex what it needs most: a first point it can own.**
+
+A civilization oriented to the unbounded does not make chronology the judge of truth. A date may help sequence events; it cannot decide the category of Sanskrit. The same *mantra* recited across ages is the same *mantra*. It does not gain authority by being older or lose authority by being recited again.
+
+The pyramid needs the unbounded forced into a finite clock. Once it owns the clock, it can call one layer early, another late, one primitive, another developed, one original, another borrowed. It can turn domain into period, mode into stage, architecture into evolution, and calibration into late correction. For Indic depth, the practice is *thousands of years*, with no counter-chronology manufactured merely to occupy the same battlefield.[NOTE: chronology-asymmetry-rationale]
+
+The pyramid uses chronology to commit category theft. It turns Sanskrit's internal distinctions into a timeline: domain becomes period, mode becomes stage, and Pāṇini becomes the codifier, the hinge between *"Vedic"* drift and *"Classical"* codification. The body of the book returns to this through Pāṇini. For now the principle is enough: chronology can sequence evidence, but it cannot decide the category of Sanskrit.
+
+When Sanskrit's light shines again as calibrated architecture, the hunger for the pyramid's calendar may itself fade. The point is not to win a pointless date-contest. The point is to make the architecture visible so chronology becomes servant, not sovereign.
+
 ## Lineage and Method
 
 The *paramparā* held the central position from the start. ***Vyākaraṇam*** — analysis, separation, unfolding apart — describes an operation performed on an already-formed object. Patañjali opens the *Mahābhāṣya* with **सिद्धे शब्दार्थसम्बन्धे (*siddhe śabdārthasambandhe*)**: the bond between word and meaning is established.[NOTE: parampara-vyakaranam-bhartrhari-position-1] Every grammarian in the chain decodes; none claims to invent.
@@ -89,6 +87,6 @@ The origin of Sanskrit is not the domain here. ***Apauruṣeya*** (अपौर�
 
 ## What Follows
 
-The Overture introduces the two parties. Chapter 0 presents the seekers and caretakers of Sanskrit; Chapter 1 presents the oppressors and the finite apex-form. Then the prosecution begins inside the pyramid's own courtroom: category theft, motive, method, false ancestry, entropy, evidence, cross-examination, verdict.
+Overture: The Śaṅkha introduces the two parties. Chapter 0 presents the seekers and caretakers of Sanskrit; Chapter 1 presents the oppressors and the finite apex-form. Then the prosecution begins inside the pyramid's own courtroom: category theft, motive, method, false ancestry, entropy, evidence, cross-examination, verdict.
 
-The Preface stops at diagnosis. The Śaṅkha sounds next.
+Diagnosis ends here. The Śaṅkha sounds next.

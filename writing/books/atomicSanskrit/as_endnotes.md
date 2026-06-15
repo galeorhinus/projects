@@ -26,7 +26,7 @@ Working translation: *When Svarbhānu the asura pierced you, O Sun, with darknes
 
 The key expression is **अक्षेत्रवित् (*akṣetravit*)**: *a-* (not) + *kṣetra* (field) + *vit* (knowing). The verse does not only describe darkness. It describes the loss of the field by which light is oriented. The Preface's phrase **field-loss** preserves that diagnostic force: Sūrya remains Sūrya, but the worlds no longer know how to locate themselves by his light.
 
-The verse belongs to the Svarbhānu sequence in Ṛgveda 5.40. The Preface stops at the eclipse. The Epilogue can return to the next movement in the same sequence: the Atris finding the Sun again in Ṛgveda 5.40.6. Final publication should verify the saṃhitā text, accenting, and translation against the selected printed Ṛgveda edition.
+The verse belongs to the Svarbhānu sequence in Ṛgveda 5.40. The Preface stops at the eclipse; the Epilogue returns to the recovery in the same sequence: **5.40.9**, *yaṃ vai sūryaṃ svarbhānus tamasāvidhyad āsuraḥ | atrayas tam anv avindan nahy anye aśaknuvan* — "the Sun whom Svarbhānu pierced with darkness, the Atris recovered; no others were able." It **mirrors 5.40.5**: both verses carry the same wound-line *svarbhānus tamasāvidhyad āsuraḥ*, and the second hemistich flips from *the worlds went field-blind* (5.40.5) to *the Atris alone found him* (5.40.9) — opening and closing the book on the same line, transformed. (The intervening **5.40.6** is the verse in which Indra dissolves Svarbhānu's *māyā* and Atri, by his fourth *brahman*, discovers the hidden Sun — available where the verdict against the eclipse-device wants explicit footing.) Verse text and numbering verified against the Wilson/Sāyaṇa edition; confirm accenting against the selected printed Ṛgveda before final.
 
 ---
 
@@ -412,7 +412,7 @@ The cementing of PIE as the default endpoint of routine etymological reference h
 
 The temporal correlation with the broader civilizational moment deserves naming. The window in which PIE was being cemented in routine Western reference is the same window in which India's dharmic-civilizational discourse was first emerging from the long sequence of constraints that had bound it: the centuries of Islamic political dominance that destroyed temples, libraries, and *gurukula* lineages across the subcontinent; the colonial English period that built the philological ecosystem the book's central chapters engage; and the secular Indian establishment that succeeded English rule and continued, in different vocabulary, the work of containment the colonial framework had begun — the framing of dharmic continuity as "communalism," the structural marginalization of *guru-shishya* lineage-chains in state education, the confinement of Sanskrit and the *Vedas* to museum status. The chains were beginning to come undone only in the decades the reader has lived through. Indian intellectuals and Sanātan practitioners, no longer required to defer to Mughal or British or Nehruvian-secular dogmas, were beginning — for the first time across many generations — to ask the questions the engineered Sanskrit thesis presses. At precisely this moment, and not before, the routine reference ecosystem that anchors English-language etymology to PIE was being substantially hardened.
 
-This temporal coincidence is, on the structural account developed across Chapter 2 §2.5 and the present chapter, not coincidence. The architecture of containment named in Chapter 2 has continued to operate at the level of routine reference, building outward through dictionaries, online resources, and college etymological style during exactly the period when the historical pillars (the racial Arya thesis, the Noachian chronology) were weakening and when alternative accounts of Sanskrit's depth were first becoming articulable. Chapter 3 names the formation that performs this institutional work: the *church of progress* — the academy as institutional carrier — operating its catechetical machinery at the routine-reference level, with its *missionaries of progress* extending the framework into the territories where the dharmic recovery is reaching, hardening the *progressive dogma* at the ecosystem level during exactly the window when alternatives are emerging. The third pillar — linear-progress teleology — does its load-bearing defense work not in the contested high theory but in the everyday reference ecosystem the next generation of students, scholars, and engaged readers will inherit. Each PIE-anchored etymology, deployed casually in a search-engine result or a dictionary entry, hardens the ancestor account by exposure. The work is invisible because it is everywhere.
+This temporal coincidence is, on the structural account developed across Chapter 2 §2.5 and the present chapter, not coincidence. The architecture of containment named in Chapter 2 has continued to operate at the level of routine reference, building outward through dictionaries, online resources, and college etymological style during exactly the period when the historical pillars (the racial Arya thesis, the Noachian chronology) were weakening and when alternative accounts of Sanskrit's depth were first becoming articulable. Chapter 4 names the formation that performs this institutional work: the *church of progress* — the academy as institutional carrier — operating its catechetical machinery at the routine-reference level, with its *missionaries of progress* extending the framework into the territories where the dharmic recovery is reaching, hardening the *progressive dogma* at the ecosystem level during exactly the window when alternatives are emerging. The third pillar — linear-progress teleology — does its load-bearing defense work not in the contested high theory but in the everyday reference ecosystem the next generation of students, scholars, and engaged readers will inherit. Each PIE-anchored etymology, deployed casually in a search-engine result or a dictionary entry, hardens the ancestor account by exposure. The work is invisible because it is everywhere.
 
 The polemic voice here is structural, not personal. The pattern is what an architecture of containment produces when it operates without conscious individual direction — ecosystem-level defense at exactly the points where alternatives are emerging. Individual lexicographers, Indo-Europeanists, and etymological-reference editors have made the choices they made for the reasons their disciplines authorize; the cumulative pattern is the perimeter the chapter's analysis predicts. The solidification of PIE in routine reference during the past quarter century is a single observable case of the architecture functioning as Chapter 2 described it.
 
@@ -422,7 +422,7 @@ The polemic voice here is structural, not personal. The pattern is what an archi
 
 **Short:** Parag Tope, "Missionaries of 'Progress'," *Quick Take* (https://quicktake.wordpress.com/2011/10/29/missionaries-of-progress/), October 29, 2011 — the author's earlier deployment of the contemporary-NGO-as-missionary structural account that the *fourth Abrahamic religion* cluster vocabulary in this chapter formalizes.
 
-**Deployments:** Chapter 3 §3.4 ¶1 — the formal introduction of *missionaries of progress* as one of the six standing cluster terms.
+**Deployments:** Chapter 4 §4.4 ¶1 — the formal introduction of *missionaries of progress* as one of the standing cluster terms.
 
 The phrase *missionaries of progress*, used in this chapter as a standing structural term for the function-class that exports the pyramid's framework into civilizations that have their own, has antecedents in the author's earlier writing. The structural-religious account of NGO and developmental work as missionary work — Western progress values exported under the cover of universal applicability — was deployed in Parag Tope, *"Missionaries of 'Progress'"*, *Quick Take* (https://quicktake.wordpress.com/2011/10/29/missionaries-of-progress/), October 29, 2011. The 2011 post argues that contemporary NGOs operate as the modern continuation of missionary work, promoting Western values rather than Jesus, with the structural mechanism preserved across the secularization. The cluster vocabulary formalized across this chapter is the systematization of analytical moves the author has been developing across more than a decade of prior writing.
 
@@ -432,7 +432,7 @@ The phrase *missionaries of progress*, used in this chapter as a standing struct
 
 **Short:** Recent public-facing PIE / steppe-migration books — David W. Anthony, *The Horse, the Wheel, and Language* (Princeton University Press, 2007); David Reich, *Who We Are and How We Got Here* (Pantheon, 2018); Tony Joseph, *Early Indians* (Juggernaut, 2018); Laura Spinney, *Proto* (William Collins / Bloomsbury, 2025) — as examples of the missionary-of-progress function in the Sanskrit question.
 
-**Deployments:** Chapter 3 §3.4 ¶2 — the public-synthesis paragraph that names ancient DNA, archaeology, and linguistic reconstruction as the outward-facing carrier of the migration story; Appendix Part 0 §0.7 — the rākṣasa-retainer paragraph that keeps named contemporary writers at their functional scale inside the pyramid.
+**Deployments:** Chapter 4 §4.4 ¶2 — the public-synthesis paragraph that names ancient DNA, archaeology, and linguistic reconstruction as the outward-facing carrier of the migration story; Appendix Part 0 §0.7 — the rākṣasa-retainer paragraph that keeps named contemporary writers at their functional scale inside the pyramid.
 
 The claim is structural, even where Appendix Part 0 names the writers. The named books are examples of a public-facing pathway by which the technical doctrine travels outward. David W. Anthony's *The Horse, the Wheel, and Language* gives the Pontic-Caspian / Yamnaya steppe account its widely cited archaeological book-form. David Reich's *Who We Are and How We Got Here* gives ancient DNA the prestige of a new scientific instrument and treats Indo-European expansion as one of the field's central explanatory cases. Tony Joseph's *Early Indians* carries the ancient-DNA and migration frame into Indian public discourse, presenting the softened migration account to a large English-reading Indian audience. Laura Spinney's *Proto: How One Ancient Language Went Global* synthesizes ancient DNA, archaeology, and linguistic reconstruction for a general readership in 2025.
 
@@ -480,7 +480,7 @@ Standard references: "Murty family gift establishes Murty Classical Library of I
 
 **Short:** Parag Tope, "A Fart Tax and a Pink Revolution Can 'Save the World'," *Quick Take* (https://quicktake.wordpress.com/2012/12/06/indias-pink-revolution-can-save-the-world/), December 6, 2012 — earlier deployment of the climate-crisis-as-religious-formation framing (the ***GaWD*** *(Global Warming Deity)* coinage) that the *fourth Abrahamic religion* cluster vocabulary formalizes.
 
-**Deployments:** Chapter 3 §3.1 ¶8 — the live end-time paragraph naming the fourth Abrahamic religion's contemporary doomsday idiom.
+**Deployments:** Chapter 4 §4.1 ¶8 — the live end-time paragraph naming the fourth Abrahamic religion's contemporary doomsday idiom.
 
 The account of contemporary climate-progress discourse as a religious formation with its own deity, end-time threat, and doomsday cult was deployed in Parag Tope, *"A Fart Tax and a Pink Revolution Can 'Save the World'"*, *Quick Take* (https://quicktake.wordpress.com/2012/12/06/indias-pink-revolution-can-save-the-world/), December 6, 2012. The 2012 post deploys the coinage ***GaWD*** *(Global Warming Deity)* to name the climate dogma as a religious formation with implicit deity-imputation, and frames climate activism as a "doomsday cult" with the structural template the present chapter formalizes: a named doom, a prescribed path of avoidance, a priestly class authorized to administer compliance, a recalcitrant out-group whose resistance threatens salvation, and a tithe-like transfer demanded as moral proof. In the climate-crisis idiom, genuine care for the earth is the impulse that gets captured. The capture converts ecological stewardship into Abrahamic end-time administration: climate catastrophe becomes apocalypse; emissions accounting becomes sin-accounting; expert management becomes priesthood; political dissent becomes heresy; the developing world becomes the threatening out-group; and carbon tax becomes tithe. The 2012 post and the 2011 *Missionaries of 'Progress'* piece together establish the analytical frame the *fourth Abrahamic religion* cluster vocabulary formalizes — a frame the author has been developing across more than a decade.
 
@@ -544,7 +544,7 @@ The mistrust is local and structural. It applies to the philological dating of I
 
 **Short:** The standard *yat bhūta-hitam atyantaṃ tat satyam* is a sandhi-dissolved citation of the Mahābhārata's Vana Parva formulation: *yad bhūta-hitam atyantaṃ tat satyam iti dhāraṇā* — "that which is ultimately beneficial to beings is held to be truth." Commonly cited as *Mahābhārata* 3.200.4, with numbering variation across editions.
 
-**Deployments:** Prologue — the older test behind the courtroom; Epilogue §The Invitation — the standard that explains why *āryatva* is desirable.
+**Deployments:** Courtroom frame — the older test behind the prosecution; Epilogue §The Invitation — the standard that explains why *āryatva* is desirable.
 
 The line the book uses is the unsandhied form of the Mahābhārata's ethical definition of truth:
 
@@ -564,16 +564,16 @@ Source note: the verse is commonly cited as *Mahābhārata*, Vana Parva 3.200.4 
 
 ### `maitrayani-samhita-1-9-3-satya-asura`
 
-**Short:** Maitrāyaṇī Saṃhitā 1.9.3 gives the Prologue its sat/asat axis: the devas are created by truth and become truth; the asuras are created by untruth and become untruth.
+**Short:** Maitrāyaṇī Saṃhitā 1.9.3 gives the Part I opener its sat/asat axis: the devas are created by truth and become truth; the asuras are created by untruth and become untruth.
 
-**Deployments:** Prologue epigraph — the truth/untruth warrant for the deva/asura contrast the Prologue prosecutes institutionally as the *asuric pyramid*.
+**Deployments:** Part I opener epigraph — the truth/untruth warrant for the deva/asura contrast the prosecution develops institutionally as the *asuric pyramid*.
 
-The passage occurs in the Kṛṣṇa Yajurveda's Maitrāyaṇī Saṃhitā at MS 1.9.3. GRETIL's reference scheme marks `MS_n,nn.nn` as Maitrāyaṇī Saṃhitā Kāṇḍa, Prapāṭhaka, and Anuvāka; the relevant line appears under `MS_1,9.3`. In the GRETIL electronic text, based on Leopold von Schroeder's edition, the passage reads: *satyena devān asṛjatānṛtenāsurāṃs te devāḥ satyam abhavann anṛtam asurāḥ*. The Prologue prints a sandhi-resolved form for readability:
+The passage occurs in the Kṛṣṇa Yajurveda's Maitrāyaṇī Saṃhitā at MS 1.9.3. GRETIL's reference scheme marks `MS_n,nn.nn` as Maitrāyaṇī Saṃhitā Kāṇḍa, Prapāṭhaka, and Anuvāka; the relevant line appears under `MS_1,9.3`. In the GRETIL electronic text, based on Leopold von Schroeder's edition, the passage reads: *satyena devān asṛjatānṛtenāsurāṃs te devāḥ satyam abhavann anṛtam asurāḥ*. The Part I opener should print a sandhi-resolved form for readability:
 
 > सत्येन देवानसृजतानृतेनासुरान् ।\
 > ते देवाः सत्यमभवन्ननृतमसुराः ॥
 
-The translation is interpretive in one deliberate respect: *deva* is rendered as "radiant ones" to preserve the book's light vocabulary, while *asura* is left as *asura* because the Prologue prosecutes it as a structural term rather than flattening it into a casual English equivalent.
+The translation is interpretive in one deliberate respect: *deva* is rendered as "radiant ones" to preserve the book's light vocabulary, while *asura* is left as *asura* because the prosecution treats it as a structural term rather than flattening it into a casual English equivalent.
 
 Source note: GRETIL, *Maitrāyaṇī-Saṃhitā*, based on Leopold von Schroeder, ed., *Maitrāyaṇī Saṃhitā. Die Saṃhitā der Maitrāyaṇīya-Śākhā* (Leipzig, 1881-1886; repr. Wiesbaden, 1970-1972), electronic preparation credited on the GRETIL page to Makoto Fushimi / TITUS and Jost Gippert.
 
@@ -605,9 +605,9 @@ Sources for the verse text: the standard critical edition of the *Mahābhārata*
 
 ### `bhagavad-gita-16-6-daiva-asura`
 
-**Short:** *Bhagavad Gītā* 16.6 gives Chapter 3 its structural binary: दैव (*daiva*) and आसुर (*āsura*) are two formations, not two casual adjectives. The epigraph supplies the category; §3.6 translates it when the chapter names the *asuric pyramid*.
+**Short:** *Bhagavad Gītā* 16.6 gives Chapter 1 its structural binary: दैव (*daiva*) and आसुर (*āsura*) are two formations, not two casual adjectives. The epigraph supplies the category for the asuric order the chapter introduces.
 
-**Deployments:** Chapter 3 epigraph and §3.6 opening.
+**Deployments:** Chapter 1 epigraph.
 
 #### Padapāṭha (word-separated form)
 
@@ -648,7 +648,7 @@ Sources for the verse text: the standard critical edition of the *Mahābhārata*
 
 *Bhagavad Gītā* 16.6, from the chapter titled **दैवासुरसम्पद्विभागयोग (*daiva-āsura-sampad-vibhāga-yoga*)** — *"The Yoga of the Distinction between Divine and Asuric Dispensations"*. Standard editions: the BORI critical edition of the *Mahābhārata*, *Bhīṣma-parvan* (volume 7); *Gītā Press Gorakhpur* edition; Śaṅkara's *bhāṣya*; Rāmānuja's *bhāṣya*; Madhusūdana Sarasvatī's *Gūḍhārthadīpikā*. Verse 16.4 supplies the asuric traits-list (hypocrisy, arrogance, ego, anger, harshness, ignorance); the chapter uses 16.6 because it names *structure* — two formations, two modes of being, two architectures of action — before naming traits.
 
-Chapter 3 uses *Bhagavad Gītā* 16.6 as its epigraph:
+Chapter 1 uses *Bhagavad Gītā* 16.6 as its epigraph:
 
 > **द्वौ भूतसर्गौ लोकेऽस्मिन् दैव आसुर एव च ।**
 > **दैवो विस्तरशः प्रोक्त आसुरं पार्थ मे शृणु ॥**
@@ -656,7 +656,7 @@ Chapter 3 uses *Bhagavad Gītā* 16.6 as its epigraph:
 > *dvau bhūta-sargau loke'smin daiva āsura eva ca |*
 > *daivo vistaraśaḥ prokta āsuraṃ pārtha me śṛṇu ||*
 
-The verse means: "Two are the created orders in this world: the divine and the asuric. The divine has been described at length; hear from me, Pārtha, the asuric." The chapter uses the verse because it names structure before it names traits. The diagnosis of *asuratva* in §3.6 therefore does not begin as invective. It begins as an Indic category: two formations, two modes of being, two architectures of action. *Bhagavad Gītā* 16.4 can later supply the traits — hypocrisy, arrogance, ego, anger, harshness, ignorance — but 16.6 supplies the architecture. Final citation should verify the exact verse text against the selected *Gītā* edition before publication.
+The verse means: "Two are the created orders in this world: the divine and the asuric. The divine has been described at length; hear from me, Pārtha, the asuric." The chapter uses the verse because it names structure before it names traits. The diagnosis of *asuratva* therefore does not begin as invective. It begins as an Indic category: two formations, two modes of being, two architectures of action. *Bhagavad Gītā* 16.4 can later supply the traits — hypocrisy, arrogance, ego, anger, harshness, ignorance — but 16.6 supplies the architecture. Final citation should verify the exact verse text against the selected *Gītā* edition before publication.
 
 ---
 
@@ -1096,13 +1096,13 @@ The point is developed across Chapter 6 (the multi-domain *dhātu* usage) and Ch
 
 **Short:** *Leviticus* 25:44–46 (RSV) authorizes the purchase of male and female slaves "from among the nations that are around you," their treatment as inheritable property bequeathed "to your sons after you to inherit as a possession forever," with the exclusion at the end that fellow Israelites may not be enslaved with harshness — in-group / out-group framing, not a critique of slavery itself.
 
-**Deployments:** Chapter 2 §2.2 ¶3 — the Abrahamic-scriptural-sanction cluster naming the Hebrew Bible's authorization of slavery as inheritable property.
+**Deployments:** Chapter 3 §3.2 — the Abrahamic-scriptural-sanction cluster naming the Hebrew Bible's authorization of slavery as inheritable property.
 
 *Leviticus* 25:44–46 is the passage in which the Hebrew Bible authorizes the purchase of slaves from neighboring peoples and the inheritance of those slaves across generations. The standard text (Revised Standard Version):
 
 > *"As for your male and female slaves whom you may have: you may buy male and female slaves from among the nations that are around you. You may also buy from among the strangers who sojourn with you and their families that are with you, who have been born in your land, and they may be your property. You may bequeath them to your sons after you to inherit as a possession forever. You may make slaves of them, but over your brothers the people of Israel you shall not rule, one over another with harshness."* (Leviticus 25:44–46, RSV)
 
-The passage's structural authorization carries the polemic load Chapter 2 deploys it for: slavery is authorized scripturally; the slaves are property; the property is inheritable; the inheritance is "forever." The exclusion at the end — that Israelites may not enslave fellow Israelites with harshness — is in-group / out-group, not a critique of slavery itself. The framework authorizes the institution and partitions who may be enslaved by lineage.
+The passage's structural authorization carries the polemic load Chapter 3 deploys it for: slavery is authorized scripturally; the slaves are property; the property is inheritable; the inheritance is "forever." The exclusion at the end — that Israelites may not enslave fellow Israelites with harshness — is in-group / out-group, not a critique of slavery itself. The framework authorizes the institution and partitions who may be enslaved by lineage.
 
 Standard references: the *Jewish Publication Society Tanakh* (JPS, 1985); *The New Oxford Annotated Bible* (NRSV, fifth edition, 2018); *The Anchor Bible Commentary on Leviticus* (Jacob Milgrom, three volumes, Yale University Press, 1991–2001) on the slavery passages and their reception. The structural fact — that slavery is scripturally authorized in Hebrew Bible — is uncontested across the relevant biblical and historical scholarship and is not weakened by interpretive efforts to soften the passage's force.
 
@@ -1112,7 +1112,7 @@ Standard references: the *Jewish Publication Society Tanakh* (JPS, 1985); *The N
 
 **Short:** *Ephesians* 6:5–8 (with parallel passage at *Colossians* 3:22–25 and the entire *Epistle to Philemon*) instructs slaves to obey their earthly masters "with fear and trembling, in singleness of heart, as to Christ"; the institution is preserved across the New Testament, with moral language operating within it rather than against it — the European intellectual class that constructed the racial Arya thesis did so from inside this scriptural framework, not outside it.
 
-**Deployments:** Chapter 2 §2.2 ¶3 — the Abrahamic-scriptural-sanction cluster naming the Christian New Testament's instruction to slaves to obey earthly masters.
+**Deployments:** Chapter 3 §3.2 — the Abrahamic-scriptural-sanction cluster naming the Christian New Testament's instruction to slaves to obey earthly masters.
 
 *Ephesians* 6:5 is the New Testament passage in which slaves are instructed to obey their earthly masters with the same diligence with which they obey Christ. The standard text (Revised Standard Version):
 
@@ -1120,7 +1120,7 @@ Standard references: the *Jewish Publication Society Tanakh* (JPS, 1985); *The N
 
 The parallel passage at *Colossians* 3:22–25 carries the same instruction. The *Epistle to Philemon* — the entire book — concerns the return of the slave Onesimus to his Christian master Philemon and is the standard reference for Pauline reasoning about the institution. Across the New Testament, slavery is not denounced as an institution; slaves are instructed to obey their masters, and masters are instructed to treat slaves justly. The institution is preserved; the moral language operates within it rather than against it.
 
-The polemic load Chapter 2 carries from these passages: the Christian colonial enterprise that operated chattel-slavery economies across the Atlantic and into the subcontinent did so with explicit scriptural authorization. The institution had textual sanction at the level of the foundational Christian writings. The European intellectual class that constructed the racial Arya thesis did so from inside this scriptural framework, not outside it; the master-slave binary the framework projected onto Indic prehistory was internal to the constructors' own moral universe.
+The polemic load Chapter 3 carries from these passages: the Christian colonial enterprise that operated chattel-slavery economies across the Atlantic and into the subcontinent did so with explicit scriptural authorization. The institution had textual sanction at the level of the foundational Christian writings. The European intellectual class that constructed the racial Arya thesis did so from inside this scriptural framework, not outside it; the master-slave binary the framework projected onto Indic prehistory was internal to the constructors' own moral universe.
 
 Standard references: *The New Oxford Annotated Bible* (NRSV, fifth edition, 2018); *The Anchor Bible Commentary on Ephesians* (Markus Barth, two volumes, Yale University Press, 1974). Historical treatments: David Brion Davis, *In the Image of God: Religion, Moral Values, and Our Heritage of Slavery* (Yale University Press, 2001); Bernard Lewis, *Race and Slavery in the Middle East* (Oxford University Press, 1990) for the comparative framing.
 
@@ -1130,7 +1130,7 @@ Standard references: *The New Oxford Annotated Bible* (NRSV, fifth edition, 2018
 
 **Short:** The Quranic formula ***mā malakat aymānukum*** (ما ملكت أيمانكم — *"what your right hands possess"*) authorizes the sexual use of female captives outside marriage across Surah Al-Muʾminūn 23:5–6, Al-Maʿārij 70:29–30, An-Nisāʾ 4:24, and Al-Aḥzāb 33; the framework operated through centuries of subcontinental conquest from the Ghaznavid raids through the Delhi Sultanate and the Mughal imperial harem.
 
-**Deployments:** Chapter 2 §2.2 ¶3 — the Abrahamic-scriptural-sanction cluster naming the Quran's sanctioning of the taking of captives as slaves and concubines.
+**Deployments:** Chapter 3 §3.2 — the Abrahamic-scriptural-sanction cluster naming the Quran's sanctioning of the taking of captives as slaves and concubines.
 
 The Quranic passages authorizing the taking of captives — particularly female captives — as slaves and concubines run across multiple chapters. The standard references the chapter cites:
 
@@ -1145,7 +1145,7 @@ The Quranic passages authorizing the taking of captives — particularly female 
 
 The phrase *"what your right hands possess"* (*mā malakat aymānukum* — ما ملكت أيمانكم) is the standard Quranic locution for slaves, including female captives taken in war. The Quranic framework authorizes the sexual use of female captives by their masters outside the otherwise-required marriage contract. Surahs 33 (Al-Aḥzāb), 70 (Al-Maʿārij), and 23 (Al-Muʾminūn) preserve the same locution across multiple deployments; the practice is named extensively in the *hadith* literature (Bukhari and Muslim collections) and in the classical legal compendia (*fiqh*) across the four Sunni schools and the Shi'a tradition.
 
-The polemic load Chapter 2 carries from these passages: the Islamic political tradition that preceded European colonialism in the subcontinent operated on the same master-slave binary at the level of foundational scripture. Centuries of Islamic conquest of the subcontinent — the Ghaznavid raids, the Ghurid invasions, the Delhi Sultanate, the regional Sultanates, and the Mughal Empire — drew on this scriptural authorization. The captive-slave economies, the imperial harem institutions, the systematic taking of women as concubines after military conquest — these were not departures from the framework; they were the framework operating.
+The polemic load Chapter 3 carries from these passages: the Islamic political tradition that preceded European colonialism in the subcontinent operated on the same master-slave binary at the level of foundational scripture. Centuries of Islamic conquest of the subcontinent — the Ghaznavid raids, the Ghurid invasions, the Delhi Sultanate, the regional Sultanates, and the Mughal Empire — drew on this scriptural authorization. The captive-slave economies, the imperial harem institutions, the systematic taking of women as concubines after military conquest — these were not departures from the framework; they were the framework operating.
 
 Standard references: M. A. S. Abdel Haleem, *The Qur'an: A New Translation* (Oxford World's Classics, 2004); the standard *Sahih International* English translation; the classical commentaries (*tafsir*) of al-Ṭabarī, al-Qurṭubī, and Ibn Kathīr on the relevant verses. Comparative-scholarly treatments: Bernard Lewis, *Race and Slavery in the Middle East* (Oxford University Press, 1990); Murray Gordon, *Slavery in the Arab World* (New Amsterdam Books, 1989); William Gervase Clarence-Smith, *Islam and the Abolition of Slavery* (Oxford University Press, 2006). For the subcontinental application: Andre Wink, *Al-Hind: The Making of the Indo-Islamic World* (three volumes, Brill, 1990–2004); K. S. Lal, *Muslim Slave System in Medieval India* (Aditya Prakashan, 1994).
 
@@ -1155,7 +1155,7 @@ Standard references: M. A. S. Abdel Haleem, *The Qur'an: A New Translation* (Oxf
 
 **Short:** The Delhi Sultanate's Slave Dynasty (*Mamlūk* / *Ghulām* dynasty, 1206–1290) — founded by Quṭb al-Dīn Aybak, a Turkic slave-warrior in the Ghurid military apparatus — was the first of five dynasties ruling Delhi for three centuries; the *Mamlūk* institution was the dynasty's organizational principle, and the captive-slave economies continued through the Khaljī, Tughluq, Sayyid, Lodī, and Mughal successions.
 
-**Deployments:** Chapter 2 §2.2 ¶3 — the Islamic-conquest paragraph that names the Delhi Sultanate's Slave Dynasty as the institutional expression of the Quranic master-slave framework operating in the subcontinent.
+**Deployments:** Chapter 3 §3.2 — the Islamic-conquest paragraph that names the Delhi Sultanate's Slave Dynasty as the institutional expression of the Quranic master-slave framework operating in the subcontinent.
 
 The *Delhi Sultanate's Slave Dynasty* — known in the standard reference literature as the *Mamlūk Sultanate of Delhi* (1206–1290) or the *Ghulām Dynasty* (Persian *ghulām*, slave) — was the first of the five dynasties that ruled the Delhi Sultanate across approximately three centuries. The founder, Quṭb al-Dīn Aybak, was originally a Turkic slave-warrior in the service of Muḥammad of Ghor; he rose through the Ghurid military apparatus to command the Indian campaigns and, after Muḥammad's death, established independent rule from Delhi. His successors — Iltutmish, Razia Sultana, Balban, and others — were either themselves former slaves elevated through the Mamlūk system or were members of the slave-warrior class.
 
@@ -1171,9 +1171,9 @@ Standard references: K. S. Lal, *Muslim Slave System in Medieval India* (Aditya 
 
 **Short:** *Majjhima Nikāya* 93 — the *Assalāyana Sutta* (अस्सलायन सुत्त), Pali Buddhist Canon — the Buddha tells the young Brahmin Assalāyana that the two-*vaṇṇa* (वर्ण) *ārya* / *dāsa* (आर्य / दास) binary is a feature of foreign bordering nations (*Yona* / *Kamboja* — the Greek-influenced and Central Asian frontier), not of the Indic interior, and that even there the binary is mobile (*ārya* can become *dāsa* and the reverse); the mule-analogy wave (*assatara*) closes the refutation by dismantling heredity-essentialism.
 
-**Deployments:** Chapter 2 §2.2 ¶3 (closing) — the dharmic primary-source documentation of the two-varṇa system as a foreign-bordering-nations feature; Chapter 3 §3.1 (forward deployment, signaled by `assalayana-sutta-fwd`); Chapter 16 §16.2 (extended treatment in the *ārya / dāsa* prosecution).
+**Deployments:** Chapter 3 §3.2 — the dharmic primary-source documentation of the two-varṇa system as a foreign-bordering-nations feature; Chapter 4 (forward deployment, signaled by `assalayana-sutta-fwd`); Chapter 16 §16.2 (extended treatment in the *ārya / dāsa* prosecution).
 
-The *Assalāyana Sutta* is sutta 93 of the *Majjhima Nikāya* (the *Middle-Length Discourses* of the Pāli Buddhist Canon). The dialogue is between the Buddha and the young Brahmin Assalāyana, who has been deputized by five hundred Brahmin elders to dispute the Buddha's denial of the four-*varṇa* system's claimed essentialism. Across the course of the dialogue, the Buddha dismantles the racial-essentialist account of *varṇa* through a series of empirical-observational arguments. The relevant passage for Chapter 2's purpose comes in the early movement of the dialogue:
+The *Assalāyana Sutta* is sutta 93 of the *Majjhima Nikāya* (the *Middle-Length Discourses* of the Pāli Buddhist Canon). The dialogue is between the Buddha and the young Brahmin Assalāyana, who has been deputized by five hundred Brahmin elders to dispute the Buddha's denial of the four-*varṇa* system's claimed essentialism. Across the course of the dialogue, the Buddha dismantles the racial-essentialist account of *varṇa* through a series of empirical-observational arguments. The relevant passage for Chapter 3's purpose comes in the early movement of the dialogue:
 
 > *"Assalāyana, have you not heard that in Yona and Kamboja, and in other border-countries, there are only two varṇas — the* ārya *and the* dāsa*; and that the* ārya *can become a* dāsa *and the* dāsa *can become an* ārya*?"*
 
@@ -1189,19 +1189,29 @@ The passage carries three central observations the book's argument turns on.
 
 **Secondary anchor — the mule-analogy wave.** The Yona/Kamboja passage is the *first* of nine successive waves of refutation the Buddha presents to Assalāyana across the dialogue. Each wave demolishes a different aspect of the *brahmin*-essentialist *cāturvarṇya* claim. The structurally strongest secondary anchor for the book's polemic is **Wave 8 — the cross-*vaṇṇa* offspring / mule analogy**. The Buddha asks Assalāyana whether the offspring of a *kṣatriya* father and a *brāhmaṇa* mother (or the reverse) should be called by the father's *vaṇṇa* or the mother's; Assalāyana concedes the child could be called either. The Buddha then deploys the **mule** (Pali *assatara*, the donkey-mare hybrid): the mule "is neither a horse like its mother nor a donkey like its father; it is called precisely a mule." Hybrid offspring across a hereditary boundary inherit from both lineages — and the *vaṇṇa*-essentialist binary cannot survive the empirical fact of mixed-*vaṇṇa* offspring. Where the Yona/Kamboja wave demolishes the *geography-essentialism* account, the mule-analogy wave demolishes the *heredity-essentialism* account. The two waves together dismantle the racial Arya thesis from both flanks — the *ārya / dāsa* binary as a foreign feature *and* hereditary essentialism as a structurally unsupportable framing even where the four-*vaṇṇa* system does operate. Chapter 16 §16.2's extended *ārya / dāsa* prosecution deploys both.
 
-The polemic structural move Chapter 2 establishes: when the racial Arya thesis's binary is read against the *Assalāyana Sutta*, the binary belongs to the *constructors* of the thesis (the European intellectual tradition operating from inside Abrahamic master-slave scriptural frameworks) and to the *foreign bordering nations* (the Greek-influenced and Central Asian zones the Buddha names), not to the Indic civilizational interior. The thesis did not retroject a universal-human pattern onto Indic prehistory; it retrojected the *Abrahamic* pattern, and the *dharmic primary-source confirmation* the Buddha provides is that the pattern was already documented as foreign to the Indic interior.
+The polemic structural move Chapter 3 establishes: when the racial Arya thesis's binary is measured against the *Assalāyana Sutta*, the binary belongs to the *constructors* of the thesis (the European intellectual tradition operating from inside Abrahamic master-slave scriptural frameworks) and to the *foreign bordering nations* (the Greek-influenced and Central Asian zones the Buddha names), not to the Indic civilizational interior. The thesis did not retroject a universal-human pattern onto Indic prehistory; it retrojected the *Abrahamic* pattern, and the *dharmic primary-source confirmation* the Buddha provides is that the pattern was already documented as foreign to the Indic interior.
 
 Source: *Majjhima Nikāya* 93 (the *Assalāyana Sutta*), *M* ii 147 ff. in the Pali Text Society edition (Robert Chalmers, ed., *Majjhima Nikāya* vol. II, London, 1898). Bhikkhu Ñāṇamoli and Bhikkhu Bodhi, translators, *The Middle Length Discourses of the Buddha* (Wisdom Publications, 1995), with the *Assalāyana Sutta* beginning at page 763. The Vipassana Research Institute *Chaṭṭha Saṅgāyana Tipiṭaka* digital edition (tipitaka.org); the SuttaCentral and Access to Insight digital archives (suttacentral.net/mn93; accesstoinsight.org/tipitaka/mn/mn.093.than.html) carry parallel translations (Sujato, Horner, Ṭhānissaro). The sutta is also extensively discussed in Steven Collins, *Selfless Persons* (Cambridge University Press, 1982); Patrick Olivelle's translations and commentaries on the *Dharmasūtra* literature for the structural context; Vincent Smith, *Aśoka, the Buddhist Emperor of India* (Oxford, 1909) for the historical geography of Yona and Kamboja (and Aśokan Rock Edicts V and XIII for the independent dharmic-imperial confirmation of the Yona-Kamboja frontier-district pairing).
 
-The endnote is deployed once with full prose at the first chapter-deployment (Chapter 2 §2.2 ¶3) and short-cited at later deployments (Chapter 3 §3.1, Chapter 16 §16.2). The `assalayana-sutta-fwd` marker in Chapter 3 §3.1 signals a forward-reference to this canonical endnote.
+The endnote is deployed once with full prose at the first chapter-deployment (Chapter 3 §3.2) and short-cited at later deployments (Chapter 4, Chapter 16 §16.2). The `assalayana-sutta-fwd` marker in Chapter 4 signals a forward-reference to this canonical endnote.
+
+---
+
+### `caste-colonial-census-hardening`
+
+**Short:** The argument that British colonial administration — the decennial census from 1871 in particular — froze fluid, regionally-variable *jāti* into fixed, enumerated, all-India ranked categories, hardening caste into the rigid administrative form later mistaken for a timeless civilizational feature. Standard references: Nicholas B. Dirks, *Castes of Mind: Colonialism and the Making of Modern India* (Princeton University Press, 2001); Bernard S. Cohn, *Colonialism and Its Forms of Knowledge* (Princeton University Press, 1996), on the census as a technology of rule; Susan Bayly, *Caste, Society and Politics in India from the Eighteenth Century to the Modern Age* (Cambridge University Press, 1999).
+
+**Deployments:** Chapter 6 §6.8 — caste as social *apabhraṃśa*, fed by the Abrahamic master-slave substrate and hardened by colonial enumeration; cross-referenced from Chapter 3 §3.2.
+
+The point Chapter 6 §6.8 draws is narrow and load-bearing: caste-as-fixed-birth-rank is *entropy* — a falling-away from the *varṇa*-by-*guṇa* / *karma* architecture (*Bhagavad Gītā* 4.13, *cāturvarṇyaṃ mayā sṛṣṭaṃ guṇa-karma-vibhāgaśaḥ*) — not the architecture's design. The colonial census did not invent caste; it converted a fluid, occupation-and-disposition-indexed, regionally-variable order into a single ranked all-India table, which administration and scholarship then read backward as the civilization's native and timeless structure. Consistent with the book's entropy principle — the asuric force *feeds* entropy, it does not create it from nothing — the claim is that intervention hardened and weaponized a social drift, not that it created caste *ex nihilo*. The fuller social-historical case — the Islamic slave-political formations, the census mechanics, the pre- and post-intervention comparison — belongs to the later *Second Shanti* volume on civilizational *vikṛti*; Volume 1 states only the principle and the cross-domain instance.
 
 ---
 
 ### `liber-arāvan-etymology`
 
-**Short:** The Chapter 2 etymology places English *liberal* / *illiberal* beside Sanskrit **अरावन् (*arāvan*)**. Latin *liber* carries the semantic field of freedom and generosity; Sanskrit *arāvan* is glossed in the lexicons as "not liberal," adverse, hostile, and literally "not giving" from privative *a-* + √**रा** (*rā*, to give, grant, bestow). The body prose uses the comparison structurally: the class that calls itself liberal operates as a closed-handed, non-giving power.
+**Short:** The Chapter 3 etymology places English *liberal* / *illiberal* beside Sanskrit **अरावन् (*arāvan*)**. Latin *liber* carries the semantic field of freedom and generosity; Sanskrit *arāvan* is glossed in the lexicons as "not liberal," adverse, hostile, and literally "not giving" from privative *a-* + √**रा** (*rā*, to give, grant, bestow). The body prose uses the comparison structurally: the institutional use of *liberal* operates as a closed-handed, non-giving power.
 
-**Deployments:** Chapter 2 §2.4 ¶ — the *liber* / *arāvan* etymology that diagnoses the progressive class as structurally illiberal and closed-handed.
+**Deployments:** Chapter 3 §3.4 — the *liber* / *arāvan* etymology that diagnoses the progressive structure as illiberal and closed-handed.
 
 The English side of the comparison is ordinary historical semantics. Latin *liber* carries "free"; the wider English word-family around *liberal* also carries generosity, openness, and unstintingness. *Illiberal* preserves the negation: not open, not generous, not free in spirit.
 
@@ -1362,7 +1372,7 @@ Standard references for the pyramid's account: Murray Emeneau, *Language and Lin
 
 **Short:** Carl L. Becker, *The Heavenly City of the Eighteenth-Century Philosophers* (Yale University Press, 1932; Storrs Lectures, Yale Law School, 1931) — the foundational scholarly statement that the *Enlightenment* philosophes did not abandon the Christian branch of Abrahamic end-time structure but secularized it, the *heavenly city* reconstituted as the perfected society achieved through reason across a single linear-historical trajectory.
 
-**Deployments:** Chapter 3 §3.1 ¶ (the introduction of *progressive dogma* as the doctrinal formation) — the canonical-reference anchor for the secularization of Abrahamic end-time structure, with Becker supplying the Christian-*Enlightenment* case.
+**Deployments:** Chapter 4 §4.1 ¶ (the introduction of *progressive dogma* as the doctrinal formation) — the canonical-reference anchor for the secularization of Abrahamic end-time structure, with Becker supplying the Christian-*Enlightenment* case.
 
 Carl L. Becker, *The Heavenly City of the Eighteenth-Century Philosophers* (Yale University Press, 1932). The book was Becker's Storrs Lectures, delivered at Yale Law School in 1931 and published the following year. The central argument: the eighteenth-century European philosophes — Voltaire, Rousseau, Diderot, Condorcet, and the broader *Enlightenment* current — did not abandon the Christian end-time frame they inherited; they secularized it. The medieval Christian *heavenly city* — the New Jerusalem at the end of history, the kingdom of God, the final reconciliation of human society to divine order — was reconstituted in *Enlightenment* thought as the *heavenly city on earth*: the perfected society to be achieved through reason, science, and political reform across a single linear-historical trajectory. The structural form of the inherited Abrahamic end-time frame was preserved; its content was replaced.
 
@@ -1378,7 +1388,7 @@ Standard reference: Carl L. Becker, *The Heavenly City of the Eighteenth-Century
 
 **Short:** Francis Fukuyama, *The End of History and the Last Man* (Free Press, 1992), building on "The End of History?" (*The National Interest*, Summer 1989) — argues that Western liberal democracy is the terminal political form after the Cold War; the title and frame are explicit secularizations of Abrahamic end-time structure (*end of history* = *end times* without the divine vertical).
 
-**Deployments:** Chapter 3 §3.1 ¶ (the substitutions paragraph) — the citation anchor for *end of history* as the secular continuation of *end times*.
+**Deployments:** Chapter 4 §4.1 ¶ (the substitutions paragraph) — the citation anchor for *end of history* as the secular continuation of *end times*.
 
 Francis Fukuyama, *The End of History and the Last Man* (Free Press, 1992). The book's central argument, building on Fukuyama's earlier essay "The End of History?" (*The National Interest*, Summer 1989), is that the collapse of the Soviet Union and the triumph of Western liberal democracy as the apparent universal political form mark the *end of history* in the Hegelian sense — the resolution of the dialectical sequence that had carried human political development across competing forms (monarchies, theocracies, fascisms, communisms) and the arrival at the final, stable political form to which all societies will converge.
 
@@ -1394,9 +1404,9 @@ Standard reference: Francis Fukuyama, *The End of History and the Last Man* (Fre
 
 **Short:** Eric Voegelin, *The New Science of Politics* (University of Chicago Press, 1952; Walgreen Lectures, Chicago, 1951) — argues that modern political ideologies (Marxism, progressivism, positivism) are *gnostic* religious formations under secular self-description, claiming privileged historical-developmental knowledge and the capacity to engineer immanent perfection; extended across *Order and History* (5 vols., 1956–1987).
 
-**Deployments:** Chapter 3 §3.1 ¶ (the genealogy-not-metaphor paragraph) — the citation anchor for the gnostic-political-religion analysis of modern secular eschatologies.
+**Deployments:** Chapter 4 §4.1 ¶ (the genealogy-not-metaphor paragraph) — the citation anchor for the gnostic-political-religion analysis of modern secular eschatologies.
 
-Eric Voegelin, *The New Science of Politics* (University of Chicago Press, 1952). The book is Voegelin's Walgreen Lectures at the University of Chicago, delivered in 1951 and published the following year. The central argument relevant to Chapter 3: modern political ideologies (Marxism, progressivism, positivism, Nazism, communism, *democratism*) are not properly secular phenomena; they are *gnostic* religious formations operating under secular self-description.
+Eric Voegelin, *The New Science of Politics* (University of Chicago Press, 1952). The book is Voegelin's Walgreen Lectures at the University of Chicago, delivered in 1951 and published the following year. The central argument relevant to Chapter 4: modern political ideologies (Marxism, progressivism, positivism, Nazism, communism, *democratism*) are not properly secular phenomena; they are *gnostic* religious formations operating under secular self-description.
 
 Voegelin's gnostic analysis draws on the early Christian heresy of Gnosticism — the doctrine that the world is fallen, that hidden knowledge (*gnosis*) of the divine order will save the elect, and that the elect can engineer the immanent perfection of the world through application of the secret knowledge. The structural template Voegelin diagnoses: the modern political religions claim privileged access to the historical-developmental knowledge (Marxist dialectical materialism, positivist scientific-progress doctrine, progressive-evolutionary doctrine), claim the capacity to engineer immanent perfection (the classless society, the technological utopia, the perfected democratic order), and structure their politics around the engineering of this immanent end-state. The structural template is gnostic; the secular vocabulary is the cover.
 
@@ -1412,7 +1422,7 @@ Standard reference: Eric Voegelin, *The New Science of Politics: An Introduction
 
 **Short:** John Gray, *Black Mass: Apocalyptic Religion and the Death of Utopia* (Allen Lane / Penguin, 2007) — extends the Becker / Voegelin diagnosis into the post-Cold-War political-religious formations; the *black mass* inversion names apocalyptic religious form operating through political vehicles that disavow religion, which makes the framework more dangerous because invisible to its practitioners.
 
-**Deployments:** Chapter 3 §3.1 ¶ (the *Enlightenment*-as-post-religious paragraph) — the citation anchor for the secularized-utopianism-as-religious-formation argument.
+**Deployments:** Chapter 4 §4.1 ¶ (the *Enlightenment*-as-post-religious paragraph) — the citation anchor for the secularized-utopianism-as-religious-formation argument.
 
 John Gray, *Black Mass: Apocalyptic Religion and the Death of Utopia* (Allen Lane / Penguin, 2007). The book extends the Becker / Voegelin / Löwith line of analysis into the post-Cold-War political-religious formations of the early twenty-first century. The central argument: modern utopian and apocalyptic political movements — from twentieth-century communism and fascism through neo-conservative regime-change interventionism and contemporary liberal-democratic universalism — are *secularized continuations* of the Christian apocalyptic tradition. The *black mass* of the title names the inversion: the apocalyptic religious form operating through political vehicles that explicitly disavow religion.
 
@@ -1428,9 +1438,9 @@ Standard reference: John Gray, *Black Mass: Apocalyptic Religion and the Death o
 
 **Short:** B. R. Ambedkar, *Pakistan, or the Partition of India* (Thacker and Co., Bombay, 1945; expanded from *Thoughts on Pakistan*, 1940) — Chapter X (pp. 330–332) carries the *"Islam is a close corporation..."* passage diagnosing the structural-religious framework that distinguishes Muslims from non-Muslims at the level of fundamental civic identity (*dār al-Islām* / *dār al-ḥarb* / *dhimmī* / *kāfir* / *jizyā* / *jihād*) — the closed-corporation logic the chapter generalizes to all four Abrahamic religions.
 
-**Deployments:** Chapter 3 §3.1 ¶ (the citation block before the close-corporation passage) — the citation anchor for the Ambedkar passage on Islam as a closed corporation.
+**Deployments:** Chapter 4 §4.1 ¶ (the citation block before the close-corporation passage) — the citation anchor for the Ambedkar passage on Islam as a closed corporation.
 
-B. R. Ambedkar, *Pakistan, or the Partition of India* (Thacker and Company, Bombay, 1945; the second, expanded edition of *Thoughts on Pakistan*, first edition 1940). The book is Ambedkar's structural analysis of the Pakistan demand, the Muslim League's two-nation theory, and the underlying ideological frameworks at play. The passage Chapter 3 cites verbatim — *"Islam is a close corporation..."* — appears in Chapter X of the 1945 edition (page 330–332 in the standard pagination), in the section analyzing the structural-religious bases of the two-nation theory.
+B. R. Ambedkar, *Pakistan, or the Partition of India* (Thacker and Company, Bombay, 1945; the second, expanded edition of *Thoughts on Pakistan*, first edition 1940). The book is Ambedkar's structural analysis of the Pakistan demand, the Muslim League's two-nation theory, and the underlying ideological frameworks at play. The passage Chapter 4 cites verbatim — *"Islam is a close corporation..."* — appears in Chapter X of the 1945 edition (page 330–332 in the standard pagination), in the section analyzing the structural-religious bases of the two-nation theory.
 
 The structural argument Ambedkar develops in the surrounding pages: the Muslim community's political behavior under colonial India operates from inside a religious-doctrinal framework that distinguishes Muslims from non-Muslims at the level of fundamental civic identity, with the brotherhood of Islam reserved for fellow Muslims and the relation to non-Muslims structured around the Islamic legal categories (*dār al-Islam*, *dār al-ḥarb*, *dhimmī*, *kāfir*, *jizyā*, *jihād*). Ambedkar's diagnosis is that this structural-religious framework is incompatible with the universal-citizenship framework a unified post-colonial India would require, and that the two-nation theory's demand for partition is, at the structural level, an honest acknowledgment of the framework's reality.
 
@@ -1444,7 +1454,7 @@ Standard references: B. R. Ambedkar, *Pakistan, or the Partition of India* (Thac
 
 **Short:** W. W. Rostow, *The Stages of Economic Growth: A Non-Communist Manifesto* (Cambridge University Press, 1960; subsequent editions 1971, 1990) — the foundational mid-twentieth-century statement of *modernization theory*, prescribing a five-stage developmental sequence (*traditional* → *preconditions for take-off* → *take-off* → *drive to maturity* → *high mass consumption*) terminating in American mass-consumption capitalism; the machinery by which the developmental-progress framework was deployed against post-colonial territories.
 
-**Deployments:** Chapter 3 §3.4 ¶ (the missionaries-of-progress paragraph) — the citation anchor for the *modernization theory* doctrine.
+**Deployments:** Chapter 4 §4.4 ¶ (the missionaries-of-progress paragraph) — the citation anchor for the *modernization theory* doctrine.
 
 W. W. Rostow, *The Stages of Economic Growth: A Non-Communist Manifesto* (Cambridge University Press, 1960). The book is the foundational mid-twentieth-century theoretical statement of *modernization theory* — the doctrine that all societies pass through a sequence of developmental stages from *traditional* through *preconditions for take-off*, *take-off*, *drive to maturity*, and *the age of high mass consumption*. The stages-of-growth model the title names is the operational core: every society, on Rostow's account, follows the same five-stage developmental sequence, with the technological-industrial Western (and specifically American) form at the terminus.
 
@@ -1462,7 +1472,7 @@ Standard reference: W. W. Rostow, *The Stages of Economic Growth: A Non-Communis
 
 **Short:** Juvenal, *Satires* Book VI, lines 347–348 — ***quis custodiet ipsos custodes?*** (*"who will guard the guards themselves?"*) — originally satirical in context (the futility of placing guards on a suspected wife), but the structural question of accountability infinite-regress has become canonical across political philosophy from Plato's *Republic* (the guardian-class problem) through Madison's *Federalist* separation-of-powers apparatus to the modern administrative state.
 
-**Deployments:** Chapter 3 §3.5 ¶ (the peer-review-and-the-priesthood paragraph) — the citation anchor for the canonical *quis custodiet ipsos custodes?* question Juvenal raises in the *Satires*.
+**Deployments:** Chapter 4 §4.5 ¶ (the peer-review-and-the-priesthood paragraph) — the citation anchor for the canonical *quis custodiet ipsos custodes?* question Juvenal raises in the *Satires*.
 
 The Latin phrase ***quis custodiet ipsos custodes?*** — *"who will guard the guards themselves?"* — appears in Juvenal's *Satires*, Book VI, lines 347–348. The full passage:
 
@@ -1476,7 +1486,7 @@ The passage's immediate context is satirical and domestic — Juvenal is mocking
 
 Plato's *Republic* (Book III, 403e and following; Book IV, 419a and following) raised the parallel question in the discussion of the guardian class — how do you ensure that the philosopher-kings, set above the rest of the city to govern in the city's interest, do not become the city's chief predators? Plato's answer was structural — the guardians are subject to specific educational, dietary, and social arrangements that make corruption difficult. The question runs through the political-philosophical literature: Rousseau, Madison (the *Federalist Papers*' separation-of-powers apparatus), the *common-law* tradition of judicial review, and into the modern administrative-state literature.
 
-The chapter's deployment: Juvenal's two-thousand-year-old question is named as the canonical formulation that the *progressive dogma*'s peer-review machinery answers procedurally. The pyramid's answer — *the guards guard each other* — is precisely the failure mode the question is designed to surface. Mutual qualification of credentialed insiders is not substantive verification; it is the priesthood verifying itself. Chapter 3 §3.5's analysis of peer review as a structural mechanism is anchored at this question.
+The chapter's deployment: Juvenal's two-thousand-year-old question is named as the canonical formulation that the *progressive dogma*'s peer-review machinery answers procedurally. The pyramid's answer — *the guards guard each other* — is precisely the failure mode the question is designed to surface. Mutual qualification of credentialed insiders is not substantive verification; it is the priesthood verifying itself. Chapter 4 §4.5's analysis of peer review as a structural mechanism is anchored at this question.
 
 Standard references: Juvenal, *Satires*, Book VI, lines 347–348. The standard Loeb Classical Library edition: Susanna Morton Braund, translator, *Juvenal and Persius* (Loeb Classical Library 91, Harvard University Press, 2004). Older standard: G. G. Ramsay, translator, *Juvenal and Persius* (Loeb, 1918). For the philosophical reception: Plato, *Republic*, books III–V; Steven Shapin, *A Social History of Truth* (University of Chicago Press, 1994), which extends the *quis custodiet* question to the institutional history of scientific credentialing.
 
@@ -1486,13 +1496,13 @@ Standard references: Juvenal, *Satires*, Book VI, lines 347–348. The standard 
 
 **Short:** The *Aṣṭāvakra* (अष्टावक्र) — *Bandin* (बन्दिन्) episode in the *Mahābhārata*'s *Vana Parva* (*adhyāyas* 132–134, Bhandarkar critical edition) — boy-sage Aṣṭāvakra, denied admission to Janaka's court on grounds of youth and physical deformity, exposes the gatekeeper's reasoning: *the assembly that judges by external attributes — age, appearance, lineage, credential — is the council of fools*; subsequently defeats Bandin in extended philosophical debate. The dharmic continuum's canonical diagnosis of credential-based gatekeeping as operational failure.
 
-**Deployments:** Chapter 3 §3.5 ¶ (the lineage-verdict paragraph) — the citation anchor for the *Aṣṭāvakra* / *Bandin* episode and the dharmic continuum's diagnosis of the gatekeeper-failure as operational failure.
+**Deployments:** Chapter 4 §4.5 ¶ (the lineage-verdict paragraph) — the citation anchor for the *Aṣṭāvakra* / *Bandin* episode and the dharmic continuum's diagnosis of the gatekeeper-failure as operational failure.
 
 The *Aṣṭāvakra* episode is told in the *Vana Parva* (Book of the Forest) of the *Mahābhārata*, specifically in the *Tīrtha-yātrā* sub-section, *adhyāyas* 132–134 in the Bhandarkar critical edition. The narrative is set during the *Pāṇḍavas*' forest exile, when the sage Lomaśa recounts to Yudhiṣṭhira and the brothers the story of the boy-sage Aṣṭāvakra and his confrontation with the court-philosopher Bandin (also called Vandin in some recensions) at the court of King Janaka.
 
 The narrative summary: Aṣṭāvakra — whose name means *eight-bent*, referring to the eight physical deformities he carried — was the son of the sage Kahoḍa, who had been defeated in a philosophical debate at Janaka's court by Bandin and, per Bandin's standing condition, drowned in the river as the loser. Aṣṭāvakra, learning of his father's fate while still a child, set out for Janaka's court to challenge Bandin.
 
-At the court door, the gatekeeper refused to admit Aṣṭāvakra on grounds of his youth and his physical deformity — the boy could not possibly carry the philosophical authority required to challenge the court's standing philosopher. Aṣṭāvakra's response (the load-bearing moment for Chapter 3's deployment) is to expose the gatekeeper's reasoning as failure-of-judgment: *the assembly that judges by external attributes — age, appearance, lineage, credential — is the council of fools*. The wise are not those who carry the visible markers of authority; the wise are those who carry the substantive capacity.
+At the court door, the gatekeeper refused to admit Aṣṭāvakra on grounds of his youth and his physical deformity — the boy could not possibly carry the philosophical authority required to challenge the court's standing philosopher. Aṣṭāvakra's response (the load-bearing moment for Chapter 4's deployment) is to expose the gatekeeper's reasoning as failure-of-judgment: *the assembly that judges by external attributes — age, appearance, lineage, credential — is the council of fools*. The wise are not those who carry the visible markers of authority; the wise are those who carry the substantive capacity.
 
 Aṣṭāvakra eventually gains admission to the court, defeats Bandin in extended philosophical debate, and recovers his father (Kahoḍa, who had not in fact been drowned but had been held by the *nāgas* in the underworld, returns to the surface after Bandin's defeat).
 
@@ -1506,13 +1516,13 @@ Standard references: the *Mahābhārata*, *Vana Parva*, *adhyāyas* 132–134 in
 
 ### `assalayana-sutta-fwd`
 
-**Short:** Forward-pointer to the canonical `assalayana-sutta` endnote — *Majjhima Nikāya* 93's dharmic primary-source documentation of the *ārya* (आर्य) / *dāsa* (दास) binary as a foreign-bordering-nations (*Yona* / *Kamboja*) feature, deployed at Chapter 3 §3.4 (Wilson/Griffith) and §3.6 (contest-of-architectures).
+**Short:** Forward-pointer to the canonical `assalayana-sutta` endnote — *Majjhima Nikāya* 93's dharmic primary-source documentation of the *ārya* (आर्य) / *dāsa* (दास) binary as a foreign-bordering-nations (*Yona* / *Kamboja*) feature, deployed in Chapter 4.
 
-**Deployments:** Chapter 3 §3.4 (Wilson/Griffith passage); Chapter 3 §3.6 (contest-of-architectures passage). Both deployments are forward-pointers to the canonical *Assalāyana Sutta* endnote drafted at `assalayana-sutta` above.
+**Deployments:** Chapter 4 forward-pointer to the canonical *Assalāyana Sutta* endnote drafted at `assalayana-sutta` above.
 
-The two `assalayana-sutta-fwd` markers in Chapter 3 reference the same canonical endnote treatment under `assalayana-sutta` (see above), which carries the full text-and-context analysis of *Majjhima Nikāya* 93 and the dharmic primary-source documentation of the *ārya* / *dāsa* binary as a foreign-bordering-nations feature. The Chapter 3 deployments both point forward to the Epilogue's full landing of the citation and to the canonical endnote treatment.
+The `assalayana-sutta-fwd` marker in Chapter 4 references the same canonical endnote treatment under `assalayana-sutta` (see above), which carries the full text-and-context analysis of *Majjhima Nikāya* 93 and the dharmic primary-source documentation of the *ārya* / *dāsa* binary as a foreign-bordering-nations feature.
 
-At chapter-lock time, the three deployment locations (Chapter 2 §2.2, Chapter 3 §3.4, Chapter 3 §3.6, and the Epilogue) will be unified to a single endnote citation. The `assalayana-sutta-fwd` markers can either be consolidated to a single `assalayana-sutta` reference or retained as forward-pointer markers if the chapters benefit from the slightly different framing the forward-pointer language provides.
+At chapter-lock time, the deployment locations (Chapter 3 §3.2, Chapter 4, Chapter 16 §16.2, and the Epilogue) will be unified to a single endnote citation. The `assalayana-sutta-fwd` marker can either be consolidated to a single `assalayana-sutta` reference or retained as a forward-pointer marker if the chapter benefits from the slightly different framing the forward-pointer language provides.
 
 No separate prose is required for `assalayana-sutta-fwd`; the canonical treatment is at `assalayana-sutta`.
 
@@ -1522,7 +1532,7 @@ No separate prose is required for `assalayana-sutta-fwd`; the canonical treatmen
 
 **Short:** ***Śākalya*** (शाकल्य) — pre-Pāṇinian grammarian named in the *Aṣṭādhyāyī* and credited across the lineage-chain with producing the ***Padapāṭha*** (पदपाठ) of the *Ṛgveda* — the word-by-word recitation with *sandhi* (सन्धि) undone and grammatical case and number marked; Pāṇini cites Śākalya at *Aṣṭādhyāyī* 8.4.51 (*visarga* treatment), 1.1.16 (compound boundaries), 6.1.127 (vowel-*sandhi*), and 8.3.18 (*anusvāra*) — recording points where he either follows or overrules his predecessor's analytical decisions.
 
-**Deployments:** Chapter 4 §4.1 ¶ (the pre-Pāṇinian grammarians paragraph) — the citation anchor for Śākalya's *Padapāṭha* on the *Ṛgveda*.
+**Deployments:** Chapter 5 §5.1 ¶ (the pre-Pāṇinian grammarians paragraph) — the citation anchor for Śākalya's *Padapāṭha* on the *Ṛgveda*.
 
 ***Śākalya (शाकल्य)*** is one of the pre-Pāṇinian grammarians named in the *Aṣṭādhyāyī* and credited across the lineage with the production of the ***Padapāṭha (पदपाठ)*** for the *Ṛgveda* — the word-by-word recitation in which each *pada* of the *Saṃhitā-pāṭha* is decomposed into its pre-*sandhi* constituents and presented in its isolated grammatical form. The *Padapāṭha* is the second of the eleven *pāṭhas* (see endnote `eleven-pathas`) and operates as the analytical key to the continuous-sandhi *Saṃhitā* recitation. Producing it requires substantial grammatical sophistication — the analyst must identify the *sandhi*-internal word boundaries, undo the *sandhi* transformations to recover the underlying word forms, separate compound elements where appropriate, and present each *pada* with its grammatical case and number marked.
 
@@ -1538,7 +1548,7 @@ Standard references: the *Ṛgveda* *Padapāṭha* in the Theodor Aufrecht and F
 
 **Short:** Pāṇini's *Aṣṭādhyāyī* (अष्टाध्यायी) cites by name a roster of pre-Pāṇinian grammarians — ***Āpiśali*** (आपिशलि, 6.1.92), ***Kāśyapa*** (काश्यप, 1.2.25, 8.4.67), ***Gārgya*** (गार्ग्य, 7.3.99, 8.3.20), ***Gālava*** (गालव, 6.3.61, 7.1.74, 8.4.67), ***Cākravarmaṇa*** (चाक्रवर्मण, 6.1.130), ***Bhāradvāja*** (भारद्वाज, 7.2.63), ***Saunaga*** (सौनाग), ***Senaka*** (सेनक, 5.4.112), and ***Sphoṭāyana*** (स्फोटायन, 6.1.123) — each citation recording where Pāṇini ratifies, modifies, or preserves alternative analyses; the *Aṣṭādhyāyī* is not the founding moment of Sanskrit grammar but the finest decoding of a discipline with substantial prior depth.
 
-**Deployments:** Chapter 4 §4.1 ¶ — the cluster citation anchoring the list of nine other pre-Pāṇinian grammarians whose work Pāṇini engages in the *Aṣṭādhyāyī*.
+**Deployments:** Chapter 5 §5.1 ¶ — the cluster citation anchoring the list of nine other pre-Pāṇinian grammarians whose work Pāṇini engages in the *Aṣṭādhyāyī*.
 
 The *Aṣṭādhyāyī* cites by name a roster of grammarians whose work predates Pāṇini's decoding and whose analytical decisions the *Aṣṭādhyāyī* engages — sometimes adopting, sometimes overruling, sometimes preserving as alternatives. The named figures and the relevant Pāṇinian *sūtras*:
 
@@ -1562,11 +1572,11 @@ Standard references: George Cardona, *Pāṇini: His Work and Its Traditions* (M
 
 ### `siddhe-shabdarthasambandhe-mbh`
 
-**Short:** Patañjali's *Mahābhāṣya* (महाभाष्य) opens with ***siddhe śabdārthasambandhe*** (सिद्धे शब्दार्थसम्बन्धे) inside the fuller formulation ***siddhe śabdārthasambandhe lokato 'rthaprayukte śabdaprayoge śāstreṇa dharmaniyamaḥ*** (सिद्धे शब्दार्थसम्बन्धे लोकतोऽर्थप्रयुक्ते शब्दप्रयोगे शास्त्रेण धर्मनियमः). The sequence anchors Chapter 4's argument: the word-meaning bond is *siddha* (सिद्ध, already established), worldly usage follows, and *śāstra* regulates correct usage. It does not manufacture the bond. See endnote `patanjali-siddhe-shabdarthasambandhe` for the full Kielhorn-edition citation and the parallel Preface deployment.
+**Short:** Patañjali's *Mahābhāṣya* (महाभाष्य) opens with ***siddhe śabdārthasambandhe*** (सिद्धे शब्दार्थसम्बन्धे) inside the fuller formulation ***siddhe śabdārthasambandhe lokato 'rthaprayukte śabdaprayoge śāstreṇa dharmaniyamaḥ*** (सिद्धे शब्दार्थसम्बन्धे लोकतोऽर्थप्रयुक्ते शब्दप्रयोगे शास्त्रेण धर्मनियमः). The sequence anchors Chapter 5's argument: the word-meaning bond is *siddha* (सिद्ध, already established), worldly usage follows, and *śāstra* regulates correct usage. It does not manufacture the bond. See endnote `patanjali-siddhe-shabdarthasambandhe` for the full Kielhorn-edition citation and the parallel Preface deployment.
 
-**Deployments:** Chapter 4 epigraph and §4.2 ¶ — the citation anchor for the Patañjalian axiom *siddhe śabdārthasambandhe* as it appears in Patañjali's *Mahābhāṣya*.
+**Deployments:** Chapter 5 epigraph and §5.2 ¶ — the citation anchor for the Patañjalian axiom *siddhe śabdārthasambandhe* as it appears in Patañjali's *Mahābhāṣya*.
 
-The phrase ***सिद्धे शब्दार्थसम्बन्धे (siddhe śabdārthasambandhe)*** appears at the opening of Patañjali's *Mahābhāṣya* (the *Paspaśāhnika* — the introductory *āhnika*), as one of the foundational statements of the *vyākaraṇa* discipline's epistemic posture. See endnote `patanjali-siddhe-shabdarthasambandhe` for the full text-and-context treatment of the passage; the Chapter 4 deployment is the same canonical citation, focused on the axiom's load-bearing function in establishing that the *vyākaraṇa* discipline operates on the premise that the word-meaning relation is *siddha* (already established) rather than *sādhya* (to be derived).
+The phrase ***सिद्धे शब्दार्थसम्बन्धे (siddhe śabdārthasambandhe)*** appears at the opening of Patañjali's *Mahābhāṣya* (the *Paspaśāhnika* — the introductory *āhnika*), as one of the foundational statements of the *vyākaraṇa* discipline's epistemic posture. See endnote `patanjali-siddhe-shabdarthasambandhe` for the full text-and-context treatment of the passage; the Chapter 5 deployment is the same canonical citation, focused on the axiom's load-bearing function in establishing that the *vyākaraṇa* discipline operates on the premise that the word-meaning relation is *siddha* (already established) rather than *sādhya* (to be derived).
 
 The standard text:
 
@@ -1576,9 +1586,9 @@ The standard text:
 >
 > *"Given that the bond between word and meaning is established (in the lineage-chain, not requiring derivation), and given that the use of words for the purpose of meaning is established in the world, the grammatical science regulates correct usage."*
 
-The structural axiom Chapter 4 establishes at this passage: the grammatical *śāstra* is not in the business of inventing or deriving the relation between words and meanings. The sentence moves in sequence: established bond first, worldly usage second, regulation by *śāstra* third. The *śāstra* regulates correct usage of an already-existing system; it does not constitute the system.
+The structural axiom Chapter 5 establishes at this passage: the grammatical *śāstra* is not in the business of inventing or deriving the relation between words and meanings. The sentence moves in sequence: established bond first, worldly usage second, regulation by *śāstra* third. The *śāstra* regulates correct usage of an already-existing system; it does not constitute the system.
 
-Source and standard references: see endnote `patanjali-siddhe-shabdarthasambandhe` for the full Kielhorn edition reference and the standard scholarly treatments. The two endnotes — `patanjali-siddhe-shabdarthasambandhe` and `siddhe-shabdarthasambandhe-mbh` — point at the same passage with slightly different framing for the two deployment chapters (Preface vs. Chapter 4); at chapter-lock time they may be consolidated to a single citation.
+Source and standard references: see endnote `patanjali-siddhe-shabdarthasambandhe` for the full Kielhorn edition reference and the standard scholarly treatments. The two endnotes — `patanjali-siddhe-shabdarthasambandhe` and `siddhe-shabdarthasambandhe-mbh` — point at the same passage with slightly different framing for the two deployment chapters (Preface vs. Chapter 5); at chapter-lock time they may be consolidated to a single citation.
 
 ---
 
@@ -4224,7 +4234,7 @@ The cross-*gaṇa* portion of the *prayoga* audit recomputes the per-*gaṇa* C1
 
 **Short:** Patañjali's *Mahābhāṣya* opens its *Paspaśāhnika* with **सिद्धे शब्दार्थसम्बन्धे (*siddhe śabdārthasambandhe*)** — *"the relation between word and meaning being (eternally) established"*. The locative-absolute construction positions the discipline of grammar as operating on a *given* — speech, meaning, and their relation are already in place; grammar's work begins after that prior establishment, not by creating it. The opening line is the lineage-chain's own anchor for the *apauruṣeya* / decoder-not-codifier framing the book develops.
 
-**Deployments:** Chapter 4 opening epigraph — sets the *siddha* idiom Chapter 4 then develops across §4.1–§4.5.
+**Deployments:** Chapter 5 opening epigraph — sets the *siddha* idiom Chapter 5 then develops across §5.1–§5.5.
 
 #### Padapāṭha (word-separated form)
 
@@ -4251,7 +4261,7 @@ The construction is a locative absolute (*sati-saptamī*): a backgrounding claus
 
 The phrase opens the **पस्पशाह्निक (*Paspaśāhnika*)**, the introductory *āhnika* of Patañjali's **महाभाष्य (*Mahābhāṣya*)**. Standard citation: Kielhorn ed. (third edition revised by Abhyankar, BORI, Pune), volume I, p. 1 (line 1). The line is among the most-cited *Mahābhāṣya* incipits in the *vyākaraṇa* commentary lineage; both Kaiyaṭa's *Pradīpa* and Nāgeśa's *Uddyota* take it as the load-bearing opening for the discipline's metaphysical footing.
 
-The book reads the line as the lineage-chain's explicit version of what Chapter 4 develops: grammar is decoding work, not codifying work. The word-meaning relation is *siddha* — established — before the grammarian arrives.
+The book reads the line as the lineage-chain's explicit version of what Chapter 5 develops: grammar is decoding work, not codifying work. The word-meaning relation is *siddha* — established — before the grammarian arrives.
 
 ---
 
@@ -4532,9 +4542,9 @@ The evidentiary value is structural. Branch variation is not the same thing as l
 
 **Short:** Rigveda 9.63.5 carries the call **कृण्वन्तो विश्वम् आर्यम् (*kṛṇvanto viśvam āryam*)** and the adversarial term **अराव्णः (*arāvṇaḥ*)**, "non-givers." Wilson and Griffith translated the verse through nineteenth-century filters that obscured the civilizational force later restored by Jamison-Brereton.
 
-**Deployments:** Chapter 3 §3.4.
+**Deployments:** Chapter 4 §4.4.
 
-The Chapter 3 use is not a full translation study. It uses one compact case to show the priestly function of translation: an English rendering can make a primary-source claim unavailable to the reader without deleting the source. Wilson renders the verse as "Augmenting Indra, urging the waters, making all our acts prosperous, destroying the withholders (of oblations)," following Sāyaṇa's ritual constriction of the final term.[^rigveda-9635-wilson-griffith-1] Griffith gives: "Performing every noble work, active, augmenting Indra's strength, / Driving away the godless ones."[^rigveda-9635-wilson-griffith-2] In both cases, the civilizational object **विश्वम् आर्यम् (*viśvam āryam*)** disappears as an object: the phrase no longer tells the reader that the work is to make the whole world *ārya*. The adversarial noun **अराव्णः (*arāvṇaḥ*)** is likewise narrowed or theologized away from *non-givers*. Jamison and Brereton's modern rendering restores the force: "making it all Ārya" and "smashing away the non-givers," with the hymn introduction naming the operation as "Ārya-ization."[^rigveda-9635-wilson-griffith-3] The note supports Chapter 3's claim that institutional translation can sanctify a dogma by exclusion.
+The Chapter 4 use is not a full translation study. It uses one compact case to show the priestly function of translation: an English rendering can make a primary-source claim unavailable to the reader without deleting the source. Wilson renders the verse as "Augmenting Indra, urging the waters, making all our acts prosperous, destroying the withholders (of oblations)," following Sāyaṇa's ritual constriction of the final term.[^rigveda-9635-wilson-griffith-1] Griffith gives: "Performing every noble work, active, augmenting Indra's strength, / Driving away the godless ones."[^rigveda-9635-wilson-griffith-2] In both cases, the civilizational object **विश्वम् आर्यम् (*viśvam āryam*)** disappears as an object: the phrase no longer tells the reader that the work is to make the whole world *ārya*. The adversarial noun **अराव्णः (*arāvṇaḥ*)** is likewise narrowed or theologized away from *non-givers*. Jamison and Brereton's modern rendering restores the force: "making it all Ārya" and "smashing away the non-givers," with the hymn introduction naming the operation as "Ārya-ization."[^rigveda-9635-wilson-griffith-3] The note supports Chapter 4's claim that institutional translation can sanctify a dogma by exclusion.
 
 [^rigveda-9635-wilson-griffith-1]: H. H. Wilson, trans., *Rig-Veda-Sanhitá: A Collection of Ancient Hindu Hymns*, vol. 6, ed. E. B. Cowell and W. F. Webster (London: W. H. Allen and Company, 1888), Rigveda 9.63.5. The online Wilson display at WisdomLib prints the Sanskrit, padapāṭha, translation, and Sāyaṇa note for RV 9.63.5.
 [^rigveda-9635-wilson-griffith-2]: Ralph T. H. Griffith, trans., *The Hymns of the Rigveda*, 2nd ed. (Benares: E. J. Lazarus and Co., 1896), Book 9, Hymn 63, verse 5. Wikisource reproduces the same line under Book 9, Hymn 63.
@@ -4551,5 +4561,15 @@ The Chapter 3 use is not a full translation study. It uses one compact case to s
 This note anchors the book-to-book bridge. The appendix's argument about the Sanskrit-knowledge enterprise is one operational chapter inside a larger civilizational-political frame already developed in *Tatya Tope's Operation Red Lotus*: commercial extraction, political rule, and missionary ambition operated as mutually reinforcing apexes of the English pyramid in India. Appendix Part 1 imports that frame only where needed. It does not re-litigate the 1857 argument; it points to the companion work for the full documentary case.
 
 Source anchor: Parag Tope, *Tatya Tope's Operation Red Lotus: The Anglo-Indian War of 1857*; cite the final publication edition's chapters on the church / Company / Crown nexus and the Anglo-Indian War of 1857 in production. The present appendix uses ORL as a companion-work pointer, not as a substitute for the appendix's own Sanskrit-knowledge-enterprise evidence.
+
+---
+
+### `dharmo-rakshati-rakshitah`
+
+**Short:** The maxim **धर्मो रक्षति रक्षितः (*dharmo rakṣati rakṣitaḥ*)** gives Chapter 0 its caretaker law: what protects must itself be protected.
+
+**Deployments:** Chapter 0 §0.7.
+
+The phrase appears in *Manusmṛti* 8.15 as part of the larger warning that dharma, when harmed, harms; dharma, when protected, protects. Chapter 0 uses the maxim structurally rather than juridically: Sanskrit survived because the caretaking civilization protected the transmission; future protection requires active caretaking, not passive inheritance.
 
 ---
