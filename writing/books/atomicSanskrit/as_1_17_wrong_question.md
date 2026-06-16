@@ -1,16 +1,12 @@
 # Chapter 17 — The Wrong Question
 
-*Draft v2 (2026-05-20). Codex compression of v1 (5,329 → 2,082 words) with Tier 1 + Tier 2 fully restored and Tier 3 = Codex compressions retained. Codex structural choices preserved: §17.1 "The Wrong Question" folded into unnumbered chapter opening; eight numbered sections now run from §17.1 through §17.8 after the migration-trap insertion. **Tier 1 restorations**: opening preamble Part VI bookend with Ch 18 + Ch 1-loop close; chapter cross-references restored inside each of the six architectural-test requirements at §17.1 (Ch 7 / Ch 6+10 / Ch 11+12 / Ch 8 / Ch 13+14 / Ch 4); items 11–12 of the pyramid's chain restored at §17.5 ("Every link required because the first must be preserved" / "Chain held because no one falsified its links"); cluster-term cascade ***priests of progress*** / ***jihadis of progress*** / ***missionaries of progress*** / ***church of progress in asuric mode*** + Ch 3 §3.6 cross-reference restored at the pyramid-speculation close (per CLAUDE.md polemic-climax cascade convention); pre-Pāṇinian *vaiyākaraṇāḥ* roster restored at §17.7 honest speculation (Yāska / Sthaulāṣṭhīvi / Śakapūṇi / Śākalya). **Tier 2 restorations**: "engineering presupposes engineers; specifications presuppose specifiers; preservation architecture presupposes designers" triplet at §17.2; expanded peripheral-vs-central diagnosis for the *mūrdhanya* requirement at §17.3. **Tier 3 compressed**: Codex's "The chain is the recipe. PIE is the bake." verdict preserved; Codex's clean Ch 18 + Ch 19 handoff close preserved. **Devanagari first-use audit**: अपौरुषेय (*apauruṣeya*); वैयाकरणाः (*vaiyākaraṇāḥ*); छन्दसि (*chandasi*); भाषायाम् (*bhāṣāyām*); प्रातिशाख्य (*Prātiśākhya*); शिक्षा (*Śikṣā*) — first-use Devanagari pairings restored in §17.7 honest speculation per the new audit convention; Codex's existing मन्त्रद्रष्टारः and श्रुति deployments retained.*
-
----
-
 *What came before Sanskrit?*
 
 That is the question Proto-Indo-European tries to answer. The question is wrong.
 
-The preceding chapters have placed the architecture on the table: the engineered sound-grid, the *dhātavaḥ*, the generative rules, the retroflex core, the calibration matrix, the living recitation system, and the formal grammatical disciplines that preserved and decoded the whole. The object in front of the reader is not a natural speech-form drifting from a prior natural speech-form. It is an engineered linguistic architecture.
+The architecture is now on the table: the engineered sound-grid, the *dhātavaḥ*, the generative rules, the retroflex core, the calibration matrix, the living recitation system, and the formal grammatical disciplines that preserved and decoded the whole. The object in front of the reader is not a natural speech-form drifting from a prior natural speech-form. It is an engineered linguistic architecture.
 
-Part VI prosecutes the framework that has continued to treat this object as something else. Two chapters do the work. This one establishes the structural argument: the genealogical project asks the wrong question of Sanskrit, and any precursor model framed inside the project will fail the same structural test for the same structural reason. Chapter 18 closes the prosecution on the specific construct — PIE — and renders the verdict. Together the two chapters close the loop opened in Chapter 1: Chapter 1 exposed the botanical metaphor and showed that it fails on a language engineered against the behavior the metaphor describes; this chapter develops the structural reason no genealogical reconstruction can recover what the metaphor has prevented from being seen.
+Part VI turns to the account that has continued to treat this object as something else. The next two chapters divide that work. Ch17 establishes the structural argument: the genealogical project asks the wrong question of Sanskrit, and any precursor model held inside that project will fail the same structural test for the same structural reason. Chapter 18 tests the specific construct — PIE — directly. Together the two chapters close the loop opened in Chapter 1: the botanical metaphor fails on a language engineered against the behavior the metaphor describes; Ch17 develops the structural reason no genealogical reconstruction can recover what the metaphor has prevented from being seen.
 
 A genealogical question asks for ancestry. An architectural question asks for construction. The two are not variants of each other. Bṛhaspati's *vācam akrata* already points to the second question: Speech formed by the wise with the mind, not a natural object waiting for a family tree.
 
@@ -28,15 +24,15 @@ Any valid model of Sanskrit must explain six structural features. These are not 
 
 First: the ***varṇamālā*** as engineered phonetic grid (Chapter 7). A list of sounds is not enough. The model must explain the ordered articulatory architecture.
 
-Second: the ***dhātu*** architecture (Chapters 6 and 10). Sanskrit does not merely have "roots." It has semantic atoms that preserve identity through bonding and generate vocabulary through rule-governed combination.
+Second: the ***dhātu*** architecture (Chapters 2 and 10). Sanskrit does not merely have "roots." It has semantic atoms that preserve identity through bonding and generate vocabulary through rule-governed combination.
 
 Third: the sound-to-meaning rule system (Chapters 11 and 12): *saṃdhi*, *gaṇa* organization, affixation, metrical constraint, and the generative architecture the *Aṣṭādhyāyī* compresses.
 
-Fourth: the ***mūrdhanya*** core (Chapter 8). The retroflex row is not peripheral. It sits inside the architecture: vowel-core, bonder, closure class, acoustic signature.
+Fourth: the ***mūrdhanya*** core (Chapter 16). The retroflex row is not peripheral. It sits inside the architecture: vowel-core, bonder, closure class, acoustic signature.
 
-Fifth: the preservation architecture (Chapters 13 and 14): *padapāṭha*, *kramapāṭha*, *jaṭāpāṭha*, *ghanapāṭha*, *Prātiśākhya*, *Śikṣā*, *chandas*, and the living *guru-shishya* lineage-chain.
+Fifth: the preservation architecture (Chapters 13, 14, and 15): *padapāṭha*, *kramapāṭha*, *jaṭāpāṭha*, *ghanapāṭha*, *Prātiśākhya*, *Śikṣā*, *chandas*, and the living *guru-shishya* lineage-chain.
 
-Sixth: the formal grammatical framework (Chapter 4): *siddha* / *kārya*, *vyākaraṇam*, *Nirukta*, *Prātiśākhya*, *Trimuni Vyākaraṇam*, and the analytical mode that treats Sanskrit as specified rather than merely described.
+Sixth: the formal grammatical order (Chapter 5): *siddha* / *kārya*, *vyākaraṇam*, *Nirukta*, *Prātiśākhya*, *Trimuni Vyākaraṇam*, and the analytical mode that treats Sanskrit as specified rather than merely described.
 
 [FIGURE 17.1: The Architectural Test — six rows: phonetic grid, dhātu architecture, generative rules, retroflex core, preservation mechanisms, formal grammar. For each row, one column states what a valid model must explain; a second column states what genealogical reconstruction can and cannot provide.]
 
@@ -68,7 +64,7 @@ The generative rules: PIE reconstruction handles sound correspondences and sound
 
 The retroflex core: PIE does not reconstruct a *mūrdhanya* set. The pyramid's account handles the absence by calling retroflexion a substrate acquisition.[NOTE: retroflex-substrate-standard-account] That move explains the absence in PIE only by refusing the centrality in Sanskrit. A feature acquired late, peripherally, and from outside cannot also be the architectural center organizing the rest. The dogma treats the *mūrdhanya* set as additive — a contact-borrowed feature added to a non-retroflex inheritance. The architectural test asks why the set is central, anchoring, and structurally load-bearing across the phonology. The two accounts cannot both be right.
 
-The preservation mechanisms: a precursor language does not contain *pāṭha* recitations, *Prātiśākhya* specifications, *Śikṣā* training, or a multi-layered anti-entropy matrix. The genealogical project has no vocabulary for the system Chapter 14 and Chapter 15 documented.
+The preservation mechanisms: a precursor language does not contain *pāṭha* recitations, *Prātiśākhya* specifications, *Śikṣā* training, or a multi-layered anti-entropy matrix. The genealogical project has no vocabulary for the system documented across Chapters 13, 14, and 15.
 
 The formal grammar: PIE does not reconstruct an *Aṣṭādhyāyī*, a *Nirukta*, a *Prātiśākhya*, or a *siddha* / *kārya* distinction. The dogma treats those as later cultural artifacts. The architecture treats them as evidence of what Sanskrit is.
 
@@ -80,11 +76,11 @@ The genealogical project does not fail because it needs a small correction. It f
 
 The progressive dogma has treated the genealogical model as the default and the engineered Sanskrit thesis as the claim needing proof. That default is unearned.
 
-The default rests on one assumption: Sanskrit is the same kind of object as other natural languages in a descent tree. Once that assumption fails, the default fails with it. The preceding chapters have shown why it fails. Sanskrit is not merely inherited speech. It is engineered speech, preserved speech, decoded speech, and rule-governed speech.
+The default rests on one assumption: Sanskrit is the same kind of object as other natural languages in a descent tree. Once that assumption fails, the default fails with it. The preceding evidence shows why it fails. Sanskrit is not merely inherited speech. It is engineered speech, preserved speech, decoded speech, and rule-governed speech.
 
-The burden reverses. Until the precursor model can account for Sanskrit's sound-to-*dhātu* architecture, preservation system, retroflex core, and formal grammar, it remains an external genealogy, not an internal explanation.
+The default changes. Until the precursor model can account for Sanskrit's sound-to-*dhātu* architecture, preservation system, retroflex core, and formal grammar, it remains an external genealogy, not an internal explanation.
 
-The implication is sharp. The pyramid has to argue that fluent users of Sanskrit misread their own language; that *Nirukta*, *Prātiśākhya*, *Śikṣā*, *Chandas*, and *Mīmāṃsā* were operating on a mass misapprehension; that the engineering presupposition was a hallucination conducted across thousands of years and across many *guru-shishya* lineage-chains.
+The implication is sharp. The pyramid has to argue that Sanskrit's own disciplines misperceived their object; that *Nirukta*, *Prātiśākhya*, *Śikṣā*, *Chandas*, and *Mīmāṃsā* were operating on a civilizational error; that the engineering presupposition was a delusion conducted across thousands of years and across many *guru-shishya* lineage-chains.
 
 There is a psychological term for that operation: ***gaslighting***. It is the systematic effort to convince a person, or a civilization, that accurate perception is delusion.
 
@@ -92,7 +88,7 @@ Gaslighting does not only erase memory. It can redirect memory. The machinery do
 
 This is why praise can become a weapon. The machinery does not need to insult Pāṇini. It can praise him for the wrong act. Miscast him as codifier, and the civilization is trained to honor authority where it should be recognizing calibration. The memory remains reverent, but the object of reverence has been altered. That is gaslighting at civilizational scale.
 
-When a civilization recognizes its own architecture and the authorized account calls that recognition hallucination, the name is not scholarship. The name is civilizational gaslighting with footnotes.
+When a civilization recognizes its own architecture and the authorized account calls that recognition delusion, the name is not scholarship. The name is civilizational gaslighting with footnotes.
 
 ## 17.5 How the Story Got Built
 
@@ -107,7 +103,7 @@ The pyramid does not know Sanskrit's origin. It has no inscription of PIE, no sp
 1. A reconstruction method was built in nineteenth-century Europe from comparison among Sanskrit, Greek, Latin, Germanic, Iranian, and related languages.
 2. The method inferred an imaginary ancestor: ***Proto-Indo-European***.
 3. The imaginary ancestor was treated as historically prior to Sanskrit, even though Sanskrit is real, recited, taught, and operating while PIE is not.
-4. The ancestor had to sit outside India, because a calibrant engineered within India proves order can stand without an apex — the pyramid's founding threat (Chapter 3 §3.6) — and credits the world's most precise language to a civilization the pyramid could dominate but never claim.
+4. The ancestor had to sit outside India, because a calibrant engineered within India proves order can stand without an apex — the pyramid's founding threat (Chapter 3 §3.6). He can dominate that civilization, but he cannot claim the world's most precise language if the calibrant stands inside it.
 5. A mechanism was then needed by which Sanskrit entered India. That mechanism became the racial Arya thesis: invasion first, migration later, the same racialized premise underneath both.
 6. When Sanskrit displayed subcontinental features, especially the retroflex row, the pyramid's account called them substrate borrowings instead of evidence that Sanskrit's engineering operates from inside the subcontinental sound-field.
 7. When Vedic preservation showed extraordinary stability, the pyramid's account called it late conservatism rather than engineered anti-entropy.
@@ -122,7 +118,7 @@ The chain is the recipe. PIE is the bake.
 
 The pyramid's speculation is not neutral reason correcting the Hindu continuum. It is a nineteenth-century European reconstruction promoted into an ancestor, the ancestor into a homeland, the homeland into a migration, the migration into a civilizational story, and the story into the default frame through which Sanskrit is now taught back to Hindus. The Hindu continuum is told that its own categories are faith while the pyramid's imaginary ancestor is science.
 
-The same machinery that calls Hindu civilizational memory "mythology" asks the world to treat its own constructed ancestor as science. That asymmetry is the point. Sanskrit, preserved in sound and use, was declared dead. PIE, preserved nowhere, recited nowhere, spoken by no known community, was granted ancestral life.
+The same machinery that calls Hindu civilizational memory "story" asks the world to treat its own constructed ancestor as science. That asymmetry is the point. Sanskrit, preserved in sound and use, was declared dead. PIE, preserved nowhere, recited nowhere, spoken by no known community, was granted ancestral life.
 
 That is the inversion. The speculation is not absent. It is wearing the robes of the ***priests of progress***, defended by its ***jihadis of progress***, exported by its ***missionaries of progress*** — the ***church of progress*** operating in *asuric* mode (Chapter 3 §3.6).
 
@@ -138,19 +134,19 @@ Bodies move. Knowledge moves. Specialists move. Traders move. Students move. Ref
 
 India was never a sealed chamber. People entered India, left India, traded with India, studied in India, fled to India, married into India, and carried Indian knowledge outward. Movement is a human constant. The question is what movement explains. Population movement may explain ancestry, contact, admixture, settlement, trade, patronage, war, refuge, or migration. It does not by itself explain the *varṇamālā*, the Vedic archive, the recitation disciplines, the *dhātu* architecture, the grammatical sciences, or the calibration matrix.
 
-Foreign genetic material in India therefore proves movement, contact, or ancestry. It does not prove that Sanskrit was imported. It does not prove that the *varṇamālā* was designed on the steppe. It does not prove that the Vedic recitation systems arrived with a moving population. It does not prove that Pāṇini decoded an external inheritance. The pyramid's account wants one conclusion from many possible facts: movement means authorship. That conclusion has to be argued. It cannot be smuggled in through DNA vocabulary.
+Foreign genetic material in India therefore proves movement, contact, or ancestry. It does not prove that Sanskrit was imported. It does not prove that the *varṇamālā* was designed on the steppe. It does not prove that the Vedic recitation systems arrived with a moving population. It does not prove that Pāṇini decoded an external inheritance. The pyramid's account wants one conclusion from many possible facts: movement means authorship. That conclusion has to be argued. It cannot be smuggled in through DNA vocabulary.[NOTE: migration-trap-movement-not-authorship]
 
-The book has already run this move in another domain. Appendix Part 3 §3.5 grants every glyph-shape resemblance between Brāhmī and Aramaic and shows it still cannot carry the sonomeric grid the script renders: *resemblance is not genealogy; contact is not authorship; shape is not structure.* DNA is that same evidence at another scale — it can show the bodies moved; it cannot show who built the architecture. **Shape is not structure. Movement is not authorship.** One trap, two domains, one signature move.
+Appendix Part 3 §3.5 has already run this move in another domain: it grants every glyph-shape resemblance between Brāhmī and Aramaic and shows that resemblance still cannot carry the sonomeric grid the script renders. *Resemblance is not genealogy; contact is not authorship; shape is not structure.* DNA is that same evidence at another scale — it can show the bodies moved; it cannot show who built the architecture. **Shape is not structure. Movement is not authorship.** One trap, two domains, one signature move.
 
-The counter-thesis is stronger than the pyramid can ever afford to admit. Pyramidal worlds generate escapees. Coercive hierarchies, master-slave formations, war, taxation, captivity, hunger, and apex rule all push people outward. A prosperous civilizational field pulls people inward. For thousands of years India was a major economic and intellectual center: a place of trade, patronage, learning, ritual, renunciation, debate, and absorption. If people moved into India from oppressive borderlands, the movement need not be taken as conquest. It may just as naturally be taken as escape, livelihood, study, patronage, and refuge.
+The counter-thesis is stronger than the pyramid can ever afford to admit. Pyramidal worlds generate outward pressure. Coercive hierarchies, master-slave formations, war, taxation, captivity, hunger, and apex rule all push people outward. A prosperous civilizational field pulls people inward. For thousands of years India was a major economic and intellectual center: a place of trade, patronage, learning, ritual, renunciation, debate, and absorption. If people moved into India from oppressive borderlands, the movement need not be taken as conquest. It may just as naturally be taken as escape, livelihood, study, patronage, and refuge.
 
-That reversal matters because it exposes the emotional structure of the migration story. The pyramid imagines strong outsiders entering India and civilizing it. The counter-thesis is more human, more historically ordinary and more likely: people pressured by pyramid civilization entered a seeker civilization and were absorbed. Foreign DNA, in that frame, is not the footprint of the author. It is the trace of the absorbed.
+That reversal matters because it exposes the emotional structure of the migration story. The pyramid imagines strong outsiders entering India and civilizing it. The counter-thesis is more human and historically ordinary: people pressured by pyramidal borderlands entered a seeker civilization and were absorbed. Foreign DNA, in that frame, is not the footprint of the author. It is the trace of the absorbed.
 
 Movement out of India is equally unsurprising. A civilization that developed linguistic precision, yogic discipline, philosophical schools, medicinal systems, mathematical imagination, metallurgy, textile and dye works, shipbuilding, monumental stonework, monastic institutions, commercial networks, and grammatical science would naturally send knowledge-bearers outward. A knowledge-bearer does not need an invading army behind him. A grammarian does not need a racial horde. A physician, astronomer, metallurgist, weaver, dyer, shipwright, mason, goldsmith, potter, trader, storyteller, Vedic expert, teacher, or artisan needs a road, a patron, a monastery, a court, a caravan, a workshop, or a student. Buddhist history makes that outward movement visible in a later period; the principle is not difficult.
 
 The calibrant thesis treats such movement differently. Sanskrit need not spread because a race migrated. Sanskrit can leave marks because trained specialists, preserved sound-systems, and disciplined textual lineages entered other language-worlds and changed them. The pyramid looks at similarity and invents an imaginary ancestor. The architectural lens looks at similarity and asks whether a preserved calibrant touched less stable speech-fields at different depths.
 
-This does not require the book to deny movement. Denying movement would accept the trap. The point is to separate motion from creation. The Racial Arya Thesis needs movement because it needs an external author. The engineered Sanskrit thesis does not fear movement because authorship is argued from construction: sound-grid, atom, molecule, sentence, recitation, grammar, and calibration.
+This does not require denying movement. Denying movement would accept the trap. The point is to separate motion from creation. The Racial Arya Thesis needs movement because it needs an external author. The engineered Sanskrit thesis does not fear movement because authorship is argued from construction: sound-grid, atom, molecule, sentence, recitation, grammar, and calibration.
 
 The trap asks the reader to choose between inward migration and outward migration. Sanskrit asks a better question: what was built, how was it preserved, and what kind of civilization could hold it?
 
@@ -158,19 +154,19 @@ The answer is not to deny movement. The answer is to restore authorship.
 
 ## 17.7 An Honest Speculation for the Rationalist Mind
 
-The dharmic continuum supplies the ground for this speculation. This book supplies the reconstruction. It differs from the pyramid's speculation in one structural respect: it begins with humility. The ground comes from the continuum itself: the seers saw, the Vedas are heard, the corpus is without human authorship, speech drifts, and the Vedas remain the primary measure. The reconstruction is mine: the Vedas carry an engineered linguistic architecture; the grammatical disciplines decoded that architecture; Pāṇini compressed it into the working calibrant for the speech mode. The dharmic continuum did not need to say all of this. It preserved the architecture. This book makes explicit what the asuric machinery obscured: that the preserved architecture supports this speculation better than the pyramid's.
+The dharmic continuum supplies the ground for this speculation. The reconstruction supplied here differs from the pyramid's speculation in one structural respect: it begins with humility. The ground comes from the continuum itself: the seers saw, the Vedas are heard, the corpus is without human authorship, speech drifts, and the Vedas remain the primary measure. The reconstruction is mine: the Vedas carry an engineered linguistic architecture; the grammatical disciplines decoded that architecture; Pāṇini compressed it into the working calibrant for the speech mode. The dharmic continuum did not need to say all of this. It preserved the architecture. The reconstruction makes explicit what the asuric machinery obscured: that the preserved architecture supports this speculation better than the pyramid's.
 
-1. Sanskrit enters the historical record already engineered. Who specified its architecture, when that specification occurred, and how it entered the human world are not questions this book pretends to answer.
+1. Sanskrit enters the historical record already engineered. Who specified its architecture, when that specification occurred, and how it entered the human world are not questions answered here.
 2. The continuum knows one thing at the origin: the *ṛṣis* were **मन्त्रद्रष्टारः (*mantra-draṣṭāraḥ*)** — seers of the mantras. They saw. Everyone after them heard. That is why the corpus is **श्रुति (*śruti*)** — that which is heard.
 3. Entropy is real. Ordinary speech drifts; memory weakens; pronunciation loosens; usage spreads outward into **अपभ्रंश (*apabhraṃśa*)**. **शब्दाः (*śabdāḥ*)** become **अपशब्दाः (*apaśabdāḥ*)**. **गौः (*gauḥ*)** becomes **गावी (*gāvī*)**, **गोणी (*goṇī*)**, **गोता (*gotā*)**, **गोपोतालिका (*gopotalikā*)** — and, in time, **गाय (*gāy*)**. A language as precise as Sanskrit could not be left to habit alone.
 4. The Vedas became the primary calibrant: **अपौरुषेय (*apauruṣeya*)**, encoded perfection, perfect when seen, perfect when heard, perfect today.
-5. This book treats one layer of what the Vedas carry: the engineered linguistic system Sanskrit instantiates. The corpus carries other architectures also — ritual, cosmology, metaphysics, measure, healing, transmission, and more — but this book isolates the linguistic layer because that layer is measurable, testable, and sufficient to overturn the pyramid's account.
+5. This argument treats one layer of what the Vedas carry: the engineered linguistic system Sanskrit instantiates. The corpus carries other architectures also — ritual, cosmology, metaphysics, measure, healing, transmission, and more — but the linguistic layer is measurable, testable, and sufficient to overturn the pyramid's account.
 6. For a long time, implicit calibration worked. Those responsible for hearing and preserving the Vedic corpus held the primary calibrant. Those responsible for Sanskrit returned to it when *bhāṣā* needed correction. The method worked, but it was demanding because the grammar was present inside the corpus and its disciplines, not yet compressed into a compact operating manual.
 7. Many **वैयाकरणाः (*vaiyākaraṇāḥ*)** undertook the work of decoding what the Vedas carried: Yāska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, the **प्रातिशाख्य (*Prātiśākhya*)** and **शिक्षा (*Śikṣā*)** disciplines, and the wider pre-Pāṇinian grammatical line.
 8. Pāṇini stands downstream of that work. He did not create the architecture. He compressed it. The *Aṣṭādhyāyī* became the easier day-to-day calibrant for *bhāṣā*. The Vedas remained the primary calibrant.
 9. As the age darkened further, the Vedas remained protected and Sanskrit remained protected, but the recognition of engineering was obscured. The asuric machinery could not destroy the architecture, so it misnamed it: drift became development, decoding became codification, calibration became standardization, and Sanskrit became one branch on a tree grown from an imaginary ancestor.
 
-The rationalist demand for a historical mechanism meets an honest answer: ***we do not know.*** What we do know is the architecture on the page and in the mouth.
+The rationalist demand for a historical mechanism meets an honest answer: ***we do not know.***[NOTE: nasadiya-sukta] What we do know is the architecture on the page and in the mouth.
 
 > ***The seers saw. The lineage heard. The grammarians decoded. Pāṇini compressed. The Vedas remain the measure.***
 
@@ -192,7 +188,7 @@ At every point in the Sanskrit continuum, two facts operate together: the Vedas 
 
 Before Pāṇini, the Vedic corpus served as the primary calibrant for correcting *bhāṣā* back toward the architecture the Vedas carried. §17.5 established the operating condition: the calibration worked, but the grammar was implicit — lodged in the corpus and in the disciplines guarding it. Pāṇini changed the operating condition. He did not create the architecture and he did not replace the Vedas as the ultimate measure. He compressed the architecture into the *Aṣṭādhyāyī*, making it usable as a working calibrant for *bhāṣā*.
 
-Chapter 13 §13.5 develops the pedagogical consequence. Before Pāṇini, correction could operate through preserved Vedic use. After Pāṇini, the same correction also became available through explicit rule.
+The pedagogical consequence belongs in Chapter 13 §13.5. Before Pāṇini, correction could operate through preserved Vedic use. After Pāṇini, the same correction also became available through explicit rule.
 
 The Vedas preserved the architecture. Pāṇini made the architecture operational.
 
@@ -200,7 +196,7 @@ The *progressive dogma* requires the opposite flow: Vedic as primitive, Classica
 
 The *heroic-erasure* move (Chapter 1 §1.6, Chapter 13 §13.3) enforces the inversion. The machinery runs the script: celebrate Pāṇini as codifier; deny the engineering that preceded him; praise the named operator; hide the architecture he decoded. It does not fight Pāṇini. It uses him. It turns civilizational memory toward codification and away from calibration.
 
-Chapter 17 exposes that move. The battle is not with Pāṇini or the past. It is with the present machinery that tells Hindus to remember Pāṇini as codifier, not as decoder.
+That move is the target here. The battle is not with Pāṇini or the past. It is with the present machinery that tells Hindus to remember Pāṇini as codifier, not as decoder.
 
 The machinery does not deny reverence. It redirects reverence.
 
@@ -208,44 +204,6 @@ The civilization keeps the memory active, but the machinery changes its object. 
 
 The asuric pyramid holds only as long as that move holds.
 
-The architecture collapses it. Calibration cannot be reduced to drift before Pāṇini or codification after him.
+The architecture collapses that move. Calibration cannot be reduced to drift before Pāṇini or codification after him.
 
-Chapter 18 closes the prosecution on PIE itself.
-
----
-
-## Draft notes (Ch17 v2)
-
-**Word count:** ~4,100 words across the unnumbered chapter opening + eight numbered sections. Codex base 2,082 + Tier 1 + Tier 2 restorations + Tier 3 = Codex compressions retained, with §17.6 added as the migration-trap anchor.
-
-**Restoration log (Codex base → merged v2):**
-
-- **Chapter opening** — restored Part VI bookend framing (Ch 18 closes the prosecution on PIE; this chapter establishes the structural argument that any precursor model will fail the same test); restored Ch 1-loop close ("the two chapters close the loop opened in Chapter 1").
-- **§17.1** — restored chapter cross-references inside each of the six architectural-test requirements: *varṇamālā* (Chapter 7); *dhātu* architecture (Chapters 6 and 10); sound-to-meaning rule system (Chapters 11 and 12); *mūrdhanya* core (Chapter 8); preservation architecture (Chapters 13 and 14); formal grammatical framework (Chapter 4).
-- **§17.2** — restored "Engineering presupposes engineers. Specifications presuppose specifiers. Preservation architecture presupposes designers of the infrastructure." triplet — locks the category-error setup before the "this is the category error" hammer.
-- **§17.3** — restored expanded peripheral-vs-central diagnosis at the retroflex requirement: "A feature acquired late, peripherally, and from outside cannot also be the architectural center organizing the rest." Names the structural contradiction the pyramid's substrate-acquisition account cannot resolve.
-- **§17.5 (the pyramid's chain)** — restored items 11–12 (now 10–11 in renumbered chain): "Every link in the chain is required because the first link must be preserved: Sanskrit cannot be the engineered calibrant at the center." + "The chain held because no one had falsified its links. The architectural test of §17.1, applied across the preceding chapters, contests every link. The links are no longer unfalsified." — explicit tie-back to the architectural test of §17.1.
-- **§17.5 (pyramid-speculation close)** — restored cluster-term cascade ***priests of progress*** / ***jihadis of progress*** / ***missionaries of progress*** / ***church of progress in asuric mode*** + Ch 3 §3.6 cross-reference. Per CLAUDE.md polemic-climax cascade convention: doctrinal → institutional → ontological deployment lands the pyramid speculation's structural position at the chapter's polemic apex.
-- **§17.7 (honest speculation)** — restored pre-Pāṇinian *vaiyākaraṇāḥ* roster (Yāska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, and the pre-Pāṇinian grammarian roster) — concrete empirical anchoring for the multi-decoder claim.
-
-**Devanagari first-use audit (per the new audit memory):**
-
-- §17.7 (honest speculation) — restored first-use Devanagari pairings: अपौरुषेय (*apauruṣeya*); वैयाकरणाः (*vaiyākaraṇāḥ*); छन्दसि (*chandasi*); भाषायाम् (*bhāṣāyām*); प्रातिशाख्य (*Prātiśākhya*); शिक्षा (*Śikṣā*).
-- Codex's existing Devanagari pairings retained: मन्त्रद्रष्टारः (*mantra-draṣṭāraḥ*); श्रुति (*śruti*).
-- §17.1 architectural-test terms (*varṇamālā*, *dhātu*, *mūrdhanya*, *Aṣṭādhyāyī*, *padapāṭha*, etc.) retained in italic Roman per the canonical's judgment that these are recalls of established terms (each was introduced with Devanagari in its anchor chapter). Adding Devanagari to the six-requirement list would over-load the section structure.
-
-**Codex compressions retained:**
-
-- §17.1 "The Wrong Question" folded into unnumbered chapter opening (Codex structural choice).
-- "Pāṇini Praised, Architecture Erased" remains a standalone section after the migration-trap insertion, now at §17.8.
-- Codex's compressed Kailasa-temple analogy: *"Stand before the Kailasa temple at Ellora and ask who designed it. No one knows with modern biographical precision. Does the temple therefore evolve from the basalt? The geology is real. It is not the explanation."*
-- Codex's verdict-voice short closes: *"The chain is the recipe. PIE is the bake."*; *"Six requirements. Zero satisfied."*; *"The architecture collapses it."*
-- Codex's clean Ch 18 + Ch 19 handoff: *"Chapter 18 closes the prosecution on PIE. Chapter 19 begins the answer after PIE."*
-
-**Endnote stubs in this chapter:** `retroflex-substrate-standard-account`, `calibration-hierarchy`.
-
-**Cross-references:**
-
-Backward — Ch 1 (botanical metaphor; heroic erasure; the loop opened in Ch 1 is closed here); Ch 2 (formation keeping the metaphor institutional); Ch 3 §3.6 (asuric pyramid; *priests / jihadis / missionaries of progress*); Ch 4 (*siddha* / *kārya*); Ch 6 + Ch 10 (*dhātu* architecture); Ch 7 / Ch 8 / Ch 9 (*varṇamālā* and the sound-field); Ch 11 + Ch 12 (generative rules); Ch 13 §13.3 (heroic erasure at the script level); Ch 13 + Ch 14 (preservation architecture); Ch 15 (living recitation system as empirical evidence).
-
-Forward — Ch 18 (PIE prosecution closed); Ch 19 (life after PIE — the affirmative answer); Epilogue.
+Chapter 18 tests PIE itself.

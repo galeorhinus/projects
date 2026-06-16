@@ -1,16 +1,12 @@
 # Chapter 15 — Aural Architecture
 
-*Draft v2 (2026-05-20). Codex compression of v1 (3,358 → 1,513 words) with Tier 1 + Tier 2 fully restored and Tier 3 = Codex compressions retained with selected content compressed back. **Tier 1 restorations**: four-preservation-modes anchor (Auditure / Mnemoniture / Flexture / Scripture) and the *Auditure*-and-*Mnemoniture*-in-operation framing in the chapter opening; explicit Ch 14 §14.2 *who guards the guards?* cross-reference in §15.3; "skeptic needs a different kind of skepticism" rhetorical hinge at the chapter opening; explicit Ch 14 §14.3 *cryptographic hash* cross-reference in §15.3. **Tier 2 restorations**: *śikṣā* texts as precision-instrument specifications (*mātrā* quantification, articulator contact modes, slippage consequences) in §15.1; Yāska's *Nirukta* / Pāṇini's *Aṣṭādhyāyī* explicit cross-references in the *pada-pāṭha* description in §15.2; Ch 14 §14.6 framework-vs-empirical comparative-traditions cross-reference in §15.5; "running now / running when this book is closed" civilizational hammer in §15.5. **Tier 3 compressed**: lineage-isolation specifics (Nambūdiri / Maharashtra / Tamil Nadu / Kashmir / Banaras / Karnataka / Gujarat-Rajasthan with the "no documented contact" emphasis) compressed into the §15.4 lineage paragraph; pre-rational / pre-systematic / pre-engineering three-fold characterization compressed into one clause at §15.5 close. **CLAUDE.md sharpening**: two instances of *reads X as Y* interpretive sense → *treats X as Y* (§15.3 close on the pyramid's mischaracterization of the *pāṭhas*; §15.5 close on *tradition*-as-the-pyramid's-mislabel).*
-
----
-
-Chapter 14 introduced the calibration matrix. This chapter follows it into sound, where the formed Speech of Chapter 9 carries her radiance as audible preservation.
+After the calibration matrix comes sound, where the formed Speech of Chapter 9 carries her radiance as audible preservation.
 
 The evidence is audible. The *pāṭhas* are living recitation systems, maintained in identifiable lineages, taught in *gurukulas*, examined by teachers, performed before communities, and available to the ear.
 
-The *saṃhitā-pāṭha* is recited in temples and homes across the subcontinent and the diaspora. The *krama-pāṭha* is taught by lineages that still test it formally. The *ghana-pāṭha* is mastered by senior reciters who carry a title recognized across Vedic communities. These are the operational layer of the preservation system Chapter 14 described.
+The *saṃhitā-pāṭha* is recited in temples and homes across the subcontinent and the diaspora. The *krama-pāṭha* is taught by lineages that still test it formally. The *ghana-pāṭha* is mastered by senior reciters who carry a title recognized across Vedic communities. These are the operational layer of the preservation system mapped in Chapter 14.
 
-This chapter develops *Auditure* and *Mnemoniture* in operation. The *Śikṣā* discipline trains the instrument. The eleven *pāṭhas* re-encode the corpus. The continuous recitation across multiple geographically separated lineages supplies the empirical cross-check. If Sanskrit's preservation architecture is real, it should leave an observable engineering signature. The eleven *pāṭhas* are that signature.
+*Auditure* now appears in operation, with *Mnemoniture* as the remembered setting around it. The *Śikṣā* discipline trains the instrument. The eleven *pāṭhas* re-encode the corpus. Continuous recitation across multiple geographically separated lineages supplies the empirical cross-check. Sanskrit's preservation architecture leaves an observable engineering signature. The eleven *pāṭhas* are that signature.
 
 ## 15.1 The *Śikṣā* Discipline
 
@@ -18,7 +14,7 @@ This chapter develops *Auditure* and *Mnemoniture* in operation. The *Śikṣā*
 
 The **प्रातिशाख्य (*Prātiśākhya*)** discipline specifies the phonetic constants of a recension: sounds, accents, junctions, pauses, and recitational rules. *Śikṣā* trains the human instrument to produce those constants reliably. It tells the student what to do with the tongue, breath, palate, duration, pitch, and sequence. It tells the teacher what to check.
 
-The named *Śikṣā* texts are compact because they are training manuals, not survey essays. The *Pāṇinīya-Śikṣā*, *Yājñavalkya-Śikṣā*, *Vāsiṣṭhī-Śikṣā*, *Āpiśali-Śikṣā*, and *Bhāradvāja-Śikṣā* belong to that world of disciplined production.[NOTE: shiksha-texts-canonical-list] They read like operating instructions for a precision instrument. Points of articulation are enumerated. Vowel durations are quantified in **मात्रा (*mātrā*)** counts; consonants are treated as half-*mātrā* timing events — ***व्यञ्जनं चार्धमात्रिकम्***.[NOTE: vyanjana-duration-shiksha] Modes of contact between articulators are specified. Consequences of slippage at each point are tabulated. The mechanical character of the texts is the mark of the architecture working through them.
+The named *Śikṣā* texts are compact because they are training manuals, not survey essays. The *Pāṇinīya-Śikṣā*, *Yājñavalkya-Śikṣā*, *Vāsiṣṭhī-Śikṣā*, *Āpiśali-Śikṣā*, and *Bhāradvāja-Śikṣā* belong to that world of disciplined production.[NOTE: shiksha-texts-canonical-list] They read like operating instructions for a precision instrument. Points of articulation are enumerated. Vowel durations are quantified in **मात्रा (*mātrā*)** counts; consonants are treated as half-*mātrā* timing events — ***व्यञ्जनं चार्धमात्रिकम्***.[NOTE: vyanjana-duration-shiksha] Modes of contact between articulators are specified. Consequences of slippage at each point are tabulated. The procedural character of the texts is the mark of the architecture working through them.
 
 Recitation is public. A *śiṣya* recites before a *guru*, before peers, before senior reciters, before a community that has heard the form before. A deviation is heard. Being heard, it is corrected. The *guru* carries the trained ear of his own *guru*. The student enters the chain by being corrected into it.
 
@@ -42,7 +38,7 @@ The eleven *pāṭhas* divide into two groups. The five *prakṛti-pāṭhas* ar
 
 The six *vikṛti-pāṭhas* add further permutation: *mālā* (माला, garland), *śikhā* (शिखा, peak), *rekhā* (रेखा, line), *dhvaja* (ध्वज, flag), *daṇḍa* (दण्ड, staff), and *ratha* (रथ, chariot).[NOTE: six-vikrti-pathas-pattern-list] Their names point to the shapes their recitation diagrams make when laid out. Their function is deeper verification. If order, boundary, or *sandhi* is in doubt, the modified recitations constrain the sequence from additional directions.
 
-Eleven recitations. Eleven re-encodings. Eleven ways of locking the same underlying *saṃhitā* into place.
+The same underlying *saṃhitā* is locked into place eleven ways: continuous flow, separated word, overlapping pair, braid, density, and the six deeper *vikṛti* permutations.
 
 A scribal error can propagate because the written line has little redundancy beyond what the scribe or editor supplies. A recitation error in *ghana* has to survive repeated return, reversal, forward motion, backward motion, *sandhi*, accent, and the ear of the teacher. The error has almost nowhere to hide.
 
@@ -60,19 +56,19 @@ The *ghana-pāṭha* checks three-word windows. Each cell is expanded, reversed,
 
 The *vikṛti* recitations add further constraint. Each modified form gives the sequence a different shape. Together they form a redundancy field around the Vedic corpus. It is hard to construct a corruption that passes all eleven.
 
-This is Chapter 14 §14.3's calibration matrix in motion — *Chandas* functioning as a cryptographic hash over the phonetic content. The meter binds the verse into a metrical form with low tolerance for drift. The *pāṭhas* re-encode the same content under combinatorial constraints with low tolerance for drift. *Śikṣā* trains the human instrument. The *guru* listens. The audience listens. The senior reciter listens. The verification network the architecture distributes the *who guards the guards?* question across (Chapter 14 §14.2) is the room itself, with multiple independent trained ears all hearing the same *(n, n+1)* *sandhi* boundary in the *jaṭā-pāṭha* at the same instant.[NOTE: combinatorial-redundancy-comparative]
+This is the calibration matrix in motion (Chapter 14 §14.3) — *Chandas* operating like a cryptographic hash over the phonetic content. The meter binds the verse into a metrical form with low tolerance for drift. The *pāṭhas* re-encode the same content under combinatorial constraints with low tolerance for drift. *Śikṣā* trains the human instrument. The *guru* listens. The audience listens. The senior reciter listens. The old question from Chapter 14 §14.2 remains: who guards the guards? In Auditure, the room itself participates in the answer, with multiple trained ears hearing the same *(n, n+1)* *sandhi* boundary in the *jaṭā-pāṭha* at the same instant.[NOTE: combinatorial-redundancy-comparative]
 
-The *progressive dogma* treats the *pāṭhas* — when it engages them at all — as religious devotion, mnemonic ingenuity, or pedagogical curiosity. That framing misses the object in front of it. The *pāṭhas* are not decorative. They are preservation engineering.
+The *progressive dogma* treats the *pāṭhas* — when it engages them at all — as religious devotion, mnemonic ingenuity, or pedagogical curiosity. That category misses the object in front of it. The *pāṭhas* are not decorative. They are preservation engineering.
 
 ## 15.4 Empirical Verification
 
 The strongest evidence is not textual. It is audible.
 
-Vedic recitation survives in multiple geographically separated lineages: the Nambūdiri Brahmins of Kerala; Maharashtra Brahmin lineages; Tamil Nadu and Karnataka lineages; the Banaras and Allahabad lineages of the northern plains; Gujarat and Rajasthan lineages of the western coast; the Kashmir Pandit lineages preserved through displacement.[NOTE: nambudiri-vedic-recitation-isolation] These communities did not operate as one centralized institution and have no documented contact across most of the cross-lineage matrix. They preserved through parallel *guru-shishya* lineage-chains.
+Vedic recitation survives in multiple geographically separated lineages: the Nambūdiri Brahmins of Kerala; Maharashtra Brahmin lineages; Tamil Nadu and Karnataka lineages; the Banaras and Allahabad lineages of the northern plains; Gujarat and Rajasthan lineages of the western coast; the Kashmir Pandit lineages preserved through displacement.[NOTE: nambudiri-vedic-recitation-isolation] These communities were not coordinated by one centralized institution. They preserved through parallel *guru-shishya* lineage-chains, with *śākhā* specification governing the differences that do appear.
 
 The recitations can be compared. Recordings exist. Frits Staal's fieldwork on Nambūdiri recitation in the 1970s placed recitation lineages into audio and film archives.[NOTE: staal-agni-nambudiri-recording] Later recordings extend the corpus. Where lineages differ, the differences are labeled, located, and governed by *śākhā* specification. They are not random drift.
 
-The phonetic constants match at the level the architecture predicts: *varṇa* inventory, accent where preserved, *sandhi* execution, metrical structure, and recitational discipline. The lineages become independent witnesses. Their testimony agrees.[NOTE: cross-shakha-verification-fieldwork]
+The phonetic constants match at the level the architecture predicts: *varṇa* inventory, accent where preserved, *sandhi* execution, metrical structure, and recitational discipline. The lineages become independent checks. Their recitations agree.[NOTE: cross-shakha-verification-fieldwork]
 
 UNESCO recognized Vedic chanting in 2003 as a Masterpiece of the Oral and Intangible Heritage of Humanity.[NOTE: unesco-vedic-chanting-2003] The recognition is not the authority. The recitation is the authority. But the citation matters because even an external institution had to acknowledge the continuity and precision of the practice in front of it.
 
@@ -86,58 +82,20 @@ First: the preservation architecture is observable. Competing accounts must expl
 
 Second: the engineering is real. The eleven *pāṭhas* operate as error-detecting re-encodings. *Śikṣā* trains the instrument. *Chandas* supplies the metrical hash. The *Prātiśākhya* documents the phonetic constants. The *guru*, the peer group, the senior reciter, and the audience form a distributed verification network.
 
-Third: the architectural thesis is now empirically grounded. The earlier chapters dismantled the botanical metaphor, mapped the mouth, identified the *dhātavaḥ*, described the generative architecture, and laid out the calibration matrix. This chapter gives the reader the operating evidence. The architecture is not only a reconstruction. It is being performed.
+Third: the architectural thesis is now empirically grounded. By this point the botanical metaphor has been dismantled, the mouth has been mapped, the *dhātavaḥ* have been identified, the generative architecture has been described, and the calibration matrix has been laid out. The operating evidence is now audible. The architecture is not only a reconstruction. It is being performed.
 
 The same compression-with-recoverability law that operates inside the sonomer and the *dhātuḥ* operates at the scale of the recitation itself. The fractal architecture is audible in operation.
 
-No comparable ancient linguistic preservation system is documented at this depth. The Masoretic apparatus preserves a written Hebrew text. Quranic recitation overlaps with Auditure but does not use an eleven-fold combinatorial re-encoding. Latin preservation depends primarily on written transmission with chant traditions layered on top.[NOTE: masoretic-codification-timing][NOTE: quran-recitation-vs-pathas-comparison] None has the same redundancy depth, cross-lineage independence, and living recitational architecture. Chapter 14 §14.6 made the comparative case as a framework matter; this chapter establishes it as an empirical matter.
+Among the comparison cases considered here, none is documented at this depth as an ancient linguistic preservation system. The Masoretic apparatus preserves a written Hebrew text. Quranic recitation overlaps with Auditure but does not use an eleven-fold combinatorial re-encoding. Latin preservation depends primarily on written transmission with chant traditions layered on top.[NOTE: masoretic-codification-timing][NOTE: quran-recitation-vs-pathas-comparison] None has the same redundancy depth, cross-lineage independence, and living recitational architecture. The comparative case is already in place at the architecture level (Chapter 14 §14.6); the evidence here makes it audible.
 
-The architecture is not a hypothesis. It has been running continuously, without interruption, for as long as anyone can verify. It is running now. It will be running when this book is closed.
+The architecture is not a hypothesis. It has been running continuously, without interruption, for as long as anyone can verify. It is running now. It will be running after the reader closes these pages.
 
 This is **ध्रौव्यता (*dhrauvyatā*)** in operation: not a claim about constancy, but audible constancy itself.
 
 A civilization the progressive dogma has classified as pre-rational and pre-engineering has produced and maintained the most sophisticated preservation architecture in human history; the pyramid's reflex is to treat the architecture's continued operation as evidence of mere inherited custom. *Tradition* is the pyramid's word for engineering it does not want to see.
 
-The book calls it engineering.
+The proper name is engineering.
 
 The engineering continues.
 
-Part VI now asks how the pyramid explained that continuing engineering away.
-
----
-
-## Draft notes (Ch15 v2)
-
-**Word count:** ~2,250 words across the chapter opening and five sections. Codex base 1,513 + Tier 1 + Tier 2 + Tier 3 compressed back.
-
-**Restoration log (Codex base → merged v2):**
-
-- **Chapter opening** — restored four-preservation-modes anchor (Auditure / Mnemoniture / Flexture / Scripture) and the *Auditure*-and-*Mnemoniture*-in-operation framing; restored "skeptic needs a different kind of skepticism" rhetorical hinge; restored explicit Ch 14 §14.2 *who guards the guards?* cross-reference.
-- **§15.1** — restored *śikṣā* texts as precision-instrument specifications observation in compressed form (*mātrā* quantification, articulator contact modes, slippage consequences tabulated).
-- **§15.2** — restored Yāska's *Nirukta* / Pāṇini's *Aṣṭādhyāyī* explicit cross-references in the *pada-pāṭha* description; restored "*pada-pāṭha* is itself a kind of analytical commentary, fixed in recitation form" structural observation.
-- **§15.2** — restored the *aḥ* + *a* *sandhi*-asymmetry detail in the *jaṭā-pāṭha* description ("*Sandhi* rules are not symmetric").
-- **§15.3** — restored explicit Ch 14 §14.3 *cryptographic hash* cross-reference; restored explicit Ch 14 §14.2 *who guards the guards?* cross-reference with the room-as-verification-network framing (multiple independent trained ears at the *(n, n+1)* *sandhi* boundary).
-- **§15.4** — restored compressed lineage-isolation specifics (Nambūdiri / Maharashtra / Tamil Nadu / Karnataka / Banaras-Allahabad / Gujarat-Rajasthan / Kashmir-Pandit) with the "no documented contact" emphasis.
-- **§15.5** — restored "running now / running when this book is closed" civilizational hammer; restored Ch 14 §14.6 framework-vs-empirical comparative-traditions cross-reference; restored compressed pre-rational / pre-engineering characterization.
-
-**CLAUDE.md sharpening:**
-
-- §15.3 close: CLAUDE.md interpretive-voice fix. The live text now uses *"The **progressive dogma** treats the *pāṭhas* — when it engages them at all — as religious devotion, mnemonic ingenuity, or pedagogical curiosity."* The change removes the banned *reads X as Y* interpretive construction and sharpens the target to the linear-progress doctrine.
-- §15.5 close: *"the pyramid's reflex is to treat the architecture's continued operation as evidence of how *traditional* the civilization is"* retained with banned *reads X as Y* phrasing removed.
-
-**Codex compressions retained:**
-
-- Codex's chapter opener: *"Chapter 14 named the calibration matrix. This chapter shows it running."* — sharper than v1's section-summary epigraph.
-- Codex's six-section structure flattened to five sections plus chapter opening.
-- Five *prakṛti-pāṭhas* and six *vikṛti-pāṭhas* presented with Devanagari + IAST + gloss.
-- The "scribal error vs *ghana* error" hammer: *"A scribal error can propagate because the written line has little redundancy. A recitation error in *ghana* has to survive repeated return, reversal, forward motion, backward motion, *sandhi*, accent, and the ear of the teacher. The error has almost nowhere to hide."*
-- §15.4 four-paragraph compression of empirical verification (lineages, recordings, *śākhā*-governed differences, UNESCO).
-- §15.5 closing triplet: *"The book calls it engineering. // The engineering continues."*
-
-**Endnote stubs in this chapter:** `shiksha-texts-canonical-list`, `vyanjana-duration-shiksha`, `shiksha-first-vedanga-priority`, `eleven-pathas-full-list`, `ghanapathi-title-recognition`, `six-vikrti-pathas-pattern-list`, `combinatorial-redundancy-comparative`, `nambudiri-vedic-recitation-isolation`, `staal-agni-nambudiri-recording`, `cross-shakha-verification-fieldwork`, `unesco-vedic-chanting-2003`, `masoretic-codification-timing`, `quran-recitation-vs-pathas-comparison`.
-
-**Cross-references:**
-
-Backward — Ch 3 §3.5 (*śāstrārtha* / audience-as-witness — Auditure's structural antecedent); Ch 13 §13.5 (*Calibrated, Not Codified* — the categorical distinction this chapter operationalizes); Ch 14 §14.2 (the *Auditure* + *who guards the guards?* framework); Ch 14 §14.3 (*Chandas* as cryptographic hash; the six-layer calibration matrix); Ch 14 §14.6 (Masoretic / Quranic / Latin comparative traditions — framework matter); Ch 14 §14.7 (engineering precedes Pāṇini).
-
-Forward — Ch 16 (the retroflex consonant series as the test of the migration story); Ch 19 §19.2 (Wave 2 propagation of the engineered-preservation methodology); Epilogue.
+The next question is how the pyramid explained that continuing engineering away.

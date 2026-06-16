@@ -1,32 +1,44 @@
-# Epilogue — Make the World Ārya
+# Epilogue — The Atris Find the Sun
 
-*Draft v2 (2026-05-20). Codex compression of v1 (4,180 → 1,294 words; ~69% reduction) with Tier 1 + Tier 2 fully restored and Tier 3 = Codex compressions retained. Later restructuring splits the closing movement into explicit sections: opening prosecution frame, global invitation, inward correction, and final mantra; two Codex retitles preserved: §1 *What Becomes Possible* → *What Recognition Makes Possible*; §3 *The Battle for Brāhmī, the Battle for PIE* → *The Exhibits*. **Tier 1 restorations**: "asuras jealous of devas" Sanātan-internal civilizational framing in chapter opening; §1 lineage-specifics list (Nambūdiri / Maharashtra / Tamil Nadu / Kashmir / Banaras-Allahabad) and comparative-preservation specific questions (Masoretic vs Prātiśākhya; Quranic tajwīd vs Śikṣā; Vulgate stemma vs guru-shishya paramparā lineage-witness); §3 Korean Hangul Sejong (1443) foundational-dogma control case + 1.5 billion audiographic-family users + 80 million Hangul users + Pune-Calcutta-Oxford-Göttingen pipeline naming + Müller/Whitney naming in Appendix Part 2 framing; §4 Deccan College Pune as contemporary exemplar + "eighty years after India's political independence" framing + the institutions-staffed-by-Indian-scholars detail. **Tier 2 restorations**: §1 *Yenpro/Yenpuro* specific naming for language-factory result; §5 *Atomic Sanskrit* / Wave 3 instrument framing with Wave-3-ṛṣi-in-potentia language. **Tier 3 compressed**: Codex's tight opener "The prosecution is over." preserved; "Sanātan does not keep that ledger." preserved; "Convict the pyramid. Kill the invented ancestor. Invite the world. Restore the standard." preserved; "Four exhibits. One case." §3 close preserved; "Not counter-construction. Refusal." §4 short-line preserved; §5 three-line work close ("The work is re-learning. The work is operating āryatva. The work is becoming capable of uttering the mantra truthfully.") preserved as Codex contribution. **Devanagari first-use audit**: आर्यत्व (*āryatva*); अराव्णः (*arāvṇaḥ*); लोकक्षेम (*lokakṣema*) — first-use pairings in chapter; प्रायश्चित्त (*prāyaścitta*) already paired in Codex base.*
+::: epigraph
 
----
+> यं वै सूर्यं स्वर्भानुस्तमसाविध्यदासुरः ।\
+> अत्रयस्तमन्वविन्दन्नह्यन्ये अशक्नुवन् ॥
+>
+> *yaṃ vai sūryaṃ svarbhānus tamasāvidhyad āsuraḥ |*\
+> *atrayas tam anv avindan nahy anye aśaknuvan ||*
+>
+> `\hfill`{=latex}*— Ṛgveda 5.40.9*[NOTE: rigveda-5-40-9-atris-find-sun]
+
+:::
+
+\bigskip
 
 ## The Prosecution Is Over
 
+The same wound-line that opened the Preface returns here with the other half supplied. Svarbhānu's darkness did not win. The Atris found the Sun.
+
+That is the work this ending asks the reader to enter.
+
 The prosecution is over.
 
-The courtroom has done its work. By Chapter 18, the prosecution has closed: PIE must die. The remedy begins in Chapter 19 with the waves of transmission and the work of relearning. The accused has been convicted. The asuric pyramid is the perpetrator. The prosecution rests.
+The courtroom has done its work. The charge has been heard: PIE must die. The remedy began in Chapter 19 with the waves of transmission and the work of relearning. The asuric pyramid stands convicted as the perpetrator. The prosecution rests.
 
-But the book does not end inside the borrowed courtroom. The courtroom belongs to the adversarial imagination: law as command, guilt as violation, justice as punishment, verdict as victory over an opponent. *Sanātan* does not keep that ledger.
+But the ending cannot remain inside the borrowed courtroom. The courtroom belongs to the adversarial imagination: law as command, guilt as violation, justice as punishment, verdict as victory over an opponent. *Sanātan* does not keep that ledger.
 
-The movement after verdict is not revenge. The dharmic frame is karmic. Action bears consequence, but restoration remains possible when action changes. The proper word is **प्रायश्चित्त (*prāyaścitta*)**: self-initiated atonement, internal accountability, correction by action.
+The movement after verdict is not revenge. The dharmic account is karmic. Action bears consequence, but restoration remains possible when action changes. The proper word is **प्रायश्चित्त (*prāyaścitta*)**: self-initiated atonement, internal accountability, correction by action.
 
-***Convict the pyramid. Kill the invented ancestor. Invite the world. Restore the standard.***
-
-That is the Epilogue's work.
+***Convict the pyramid. Kill the invented ancestor. Find the Sun. Invite the world. Restore the standard.***
 
 Hindu stories are full of **असुर (*asuras*)** jealous of **देव (*devas*, the radiant ones)** — jealous of what the *devas* possessed and the *asuras* could not earn, and full of the *asuras*' constant desire to appropriate, to control, to take what they did not possess. The nineteenth-century European pyramid wanted **आर्यत्व (*āryatva*)** with that same hunger. It wanted the respect attached to *ārya* — defined in *Sanātan*'s own terms by discipline, learning, restraint, skill, and a strict code of conduct (Chapter 16 §16.6) — without the work the word required.
 
-They realized you do not demand *āryatva*. You earn it.
+The pyramid realized you do not demand *āryatva*. You earn it.
 
-So they redefined it.
+So the pyramid redefined it.
 
-They made *ārya* about race, power, authority, ego, and the desire to lord over others.
+It made *ārya* about race, power, authority, ego, and the desire to lord over others.
 
-The book rejects the pyramid and keeps the aspiration. The verdict is death for PIE, not death for the people who inherited it. The remedy is not payback. The remedy is re-learning.
+The pyramid is rejected; the aspiration remains. The verdict is death for PIE, not death for the people who inherited it. The remedy is not payback. The remedy is re-learning.
 
 ## What Recognition Makes Possible
 
@@ -42,17 +54,17 @@ The *Aṣṭādhyāyī* becomes engineering documentation. Pāṇini's roughly f
 
 The Vedic recitation lineages become empirical evidence. The eleven *pāṭhas* — *saṃhitā*, *pada*, *krama*, *jaṭā*, *ghana*, plus the six *vikṛti* recitations — are an error-detecting code operating in continuous human performance across thousands of years through teacher-student lineages. The recordings exist. The lineages exist. The Nambūdiri Brahmins of Kerala, the Maharashtra Brahmins, the Tamil Nadu Brahmins, the Kashmir Pandits, the Banaras and Allahabad lineages of the northern plains — all produce phonetic constants that match across geographic and lineage separations operating in parallel for thousands of years. The empirical case rests on what is currently audible; the engineering case rests on what the recitations encode.
 
-The next generation can also end the dead-language inversion. After political independence, government schooling too often taught Sanskrit as Europe taught Latin: as a classical relic, parsed for examination, not operated as a living calibrant. That pedagogy served the same inversion Chapter 18 prosecuted. The living language was pronounced dead while an imaginary ancestor was given explanatory life. Recognition reverses the verdict. Sanskrit is alive as calibrant, as recitation, as grammar, as generative capacity. PIE was never alive.
+The next generation can also end the dead-language inversion. After political independence, government schooling too often taught Sanskrit as Europe taught Latin: as a classical relic, parsed for examination, not operated as a living calibrant. That pedagogy served the same inversion exposed in Chapter 18. The living language was pronounced dead while an imaginary ancestor was given explanatory life. Recognition reverses the category. Sanskrit is alive as calibrant, as recitation, as grammar, as generative capacity. PIE was never alive.
 
-**Perhaps *āryatva* can reach even the church of progress.** The same institutions that built pyramids around knowledge can still learn from the civilization that distributed knowledge without making an apex its master. Hebrew, Quranic Arabic, ecclesiastical Latin, Greek, Tibetan, and the other learned languages the church of progress describes as codified all show the same limit: codification preserves by authority around a bounded object, while ordinary speech keeps moving. The *Vedas* and Sanskrit show the opposite principle. A decentralized swastika system — *Prātiśākhya*, *Śikṣā*, *Chandas*, *Vyākaraṇam*, the *pāṭhas*, the *Dhātupāṭha*, the *guru-shishya* lineage-chain, and the wider transmission-network — preserved the calibrant across thousands of years without a central office, without a pope of pronunciation, without a single institution holding the language hostage. The failed history of codification and the survival of Sanskrit prove the same point from opposite sides: pyramids can enforce for a time; swastika systems sustain.
+**Perhaps *āryatva* can reach even the church of progress.** The same institutions that built pyramids around knowledge can still learn from the civilization that distributed knowledge without making an apex its master. Hebrew, Quranic Arabic, ecclesiastical Latin, Greek, Tibetan, and the other learned languages the church of progress places under codification all show the same limit: codification preserves by authority around a bounded object, while ordinary speech keeps moving. The *Vedas* and Sanskrit show the opposite principle. A decentralized swastika system — *Prātiśākhya*, *Śikṣā*, *Chandas*, *Vyākaraṇam*, the *pāṭhas*, the *Dhātupāṭha*, the *guru-shishya* lineage-chain, and the wider transmission-network — preserved the calibrant across thousands of years without a central office, without a pope of pronunciation, without a single institution holding the language hostage. The failed history of codification and the survival of Sanskrit prove the same point from opposite sides: pyramids can enforce for a time; swastika systems sustain.
 
 **The Brāhmī thesis becomes a new research project.** If Sanskrit is engineered sound, Brāhmī is the engineered visual capture of that sound — the **audiograph**. The Aramaic-from-Brāhmī story can then be tested by engineering content, not by corridor-of-origin or chronology. Durable tablets bearing Aramaic and the absence of surviving palm leaves bearing Brāhmī from the same conventional period prove only that tablets survive and palm leaves do not. 
 
 Stone preserves the pyramid; it does not preserve the notebook. 
 
-The harder question is now available: was Brāhmī, or a precursor to Brāhmī, part of the Wave 1 outward propagation of Sanskrit's sound-architecture, and could the corridor scripts themselves preserve a diminished reflection of an earlier Indic audiographic logic? This book does not need that claim. The evidence is not yet assembled. But the research question is legitimate once glyph chronology is separated from engineering chronology. (Appendix Part 3 §§3.5–3.6 develop the case: §3.5 reverses the burden of explanation; §3.6 separates the survival archive from the invention archive.)
+The harder question is now available: was Brāhmī, or a precursor to Brāhmī, part of the Wave 1 outward propagation of Sanskrit's sound-architecture, and could the corridor scripts themselves preserve a diminished reflection of an earlier Indic audiographic logic? The present argument does not require that claim. The evidence is not yet assembled. But the research question is legitimate once glyph chronology is separated from engineering chronology. (Appendix Part 3 §§3.5–3.6 develop the case: §3.5 reverses the burden of explanation; §3.6 separates the survival archive from the invention archive.)
 
-The language-factory appendix opens the constructive test. Sanskrit's architecture, applied to a Japanese-substrate phoneme inventory through a fixed cipher, produces a working constructed language (*Yenpro* / *Yenpuro*). The same framework, applied to any phonemic substrate, generates a working language with the same generative reach. The architecture is not merely descriptive. It is productive.
+The language-factory appendix opens the constructive test. Sanskrit's architecture, applied to a Japanese-substrate phoneme inventory through a fixed cipher, produces a working constructed language (*Yenpro* / *Yenpuro*). The same architecture, applied to any phonemic substrate, generates a working language with the same generative reach. The architecture is not merely descriptive. It is productive.
 
 The point is not that every question has been answered. The point is that the right questions now exist.
 
@@ -62,7 +74,7 @@ An engineering thesis opens engineering questions.
 
 ## The Contest of Architectures
 
-The book's polemic resolves into a contest between two civilizational architectures.
+The argument resolves into a contest between two civilizational architectures.
 
 The asuric architecture builds pyramids: apex authority, controlled doctrine, captured institutions, extracted labor, managed origins, and narratives that make the base answer to the top. Its apex seats a single figure; he shares power with no one and bends the base toward himself. It operates through **तमस् (*tamas*)**: obscurity, inertia, concealment.
 
@@ -84,7 +96,7 @@ The polemical appendix supplies the exhibits.
 
 ***Baking the Mother Tongue*** prosecutes August Schleicher and the German philological enterprise that manufactured Proto-Indo-European through the Pune-Calcutta-Oxford-Göttingen colonial Sanskrit-knowledge pipeline. The case: Schleicher's PIE is a procedural artifact, not an engineered language; the machinery that produced it had access to Sanskrit's actual recipe and chose to manufacture an alternative; the alternative serves the institutional interest of the asuric pyramid that produced it.
 
-***The Encyclopaedic Confirmation*** prosecutes Deccan College Pune and the *Encyclopaedic Dictionary of Sanskrit on Historical Principles* (1948–present). The case: the post-independence Indian institution chose to apply the *Oxford English Dictionary*'s (OED) *historical principles* methodology to Sanskrit, retain the comparative-philological frame Müller and Whitney had imposed, and treat the corpus as natural-historical material rather than as a calibration architecture with its own internal methods: *Vyākaraṇam*, *Nirukta*, *Prātiśākhya*, *Śikṣā*, *Chandas*, the *pāṭhas*, and the *Dhātupāṭha*. The colonizer did not destroy the civilization's architecture; the post-independence intellectual machinery chose not to read the blueprints.
+***The Encyclopaedic Confirmation*** prosecutes Deccan College Pune and the *Encyclopaedic Dictionary of Sanskrit on Historical Principles* (1948–present). The case: the post-independence Indian institution chose to apply the *Oxford English Dictionary*'s (OED) *historical principles* methodology to Sanskrit, retain the comparative-philological account Müller and Whitney had imposed, and treat the corpus as natural-historical material rather than as a calibration architecture with its own internal methods: *Vyākaraṇam*, *Nirukta*, *Prātiśākhya*, *Śikṣā*, *Chandas*, the *pāṭhas*, and the *Dhātupāṭha*. The colonizer did not destroy the civilization's architecture; the post-independence intellectual machinery chose not to read the blueprints.
 
 ***The Sonomer and the Audiograph: Sound Engineering, Pun Intended*** announces the deeper invention first: the measured sound-particle Sanskrit calls *varṇaḥ*. Audiography is the visible interface built on that sonomeric architecture — the *akṣara* Sanskrit names *imperishable* (Chapter 9 §9.6). The appendix dismantles the *foundational dogma*'s Brāhmī-from-Aramaic narrative as a script-level instance of heroic erasure. The engineering content of Brāhmī — the *varga* matrix, the *sthāna* / *prayatna* organization, the vowel-diacritic system, the *ayogavāha* breath-gesture category — has no source in Aramaic and could not be borrowed from a source that does not have it. Korean Hangul (Sejong, 1443) is deployed as the dogma's control case — the engineered audiographic script the pyramid *does* celebrate, with the asymmetry diagnosed as motivated by distance from the foundational civilizational claim. The audiographic family covers ~1.5 billion users across South Asia, Tibet, and Southeast Asia, plus 80 million Hangul users in Korea — close to a third of the world's literate population engineered along the seventh category the machinery's six-way typology refuses to acknowledge. The next scholarship must stop treating *abugida* as the final category: *abugida* names the surface mechanism; *audiography* names the engineering.
 
@@ -99,7 +111,7 @@ That fight is not academic. A civilization described as downstream cannot credib
 
 The chronology refusal was never anti-history. It was category before calendar.
 
-The opening antagonist frame exposes the danger: chronology capture. Once the pyramid owns the clock, it can call the *Veda* early, late, primitive, developed, borrowed, interpolated, priestly, or political. A chronology produced inside the same machinery that misclassified Sanskrit cannot become the court in which Sanskrit is judged.
+The opening antagonist account exposes the danger: chronology capture. Once the pyramid owns the clock, it can call the *Veda* early, late, primitive, developed, borrowed, interpolated, priestly, or political. A chronology produced inside the same machinery that misclassified Sanskrit cannot become the court in which Sanskrit is judged.
 
 First the architecture has to be seen. Sanskrit has to stand again as *saṃskṛti*: engineered recurrence, calibrated memory, distributed correction, and radiant Speech. Once that light is visible, the hunger for the pyramid's calendar may weaken on its own.
 
@@ -107,13 +119,15 @@ Chronology can then return to its proper place. It can help sequence memory, ins
 
 ## The Invitation
 
-The book's closing call is Rigvedic:
+After the Sun is found, the closing call can be spoken:
 
 > कृण्वन्तो विश्वमार्यम् अपघ्नन्तो अराव्णः
 >
-> *kṛṇvanto viśvam āryam | apaghnanto arāvṇaḥ*
+> *kṛṇvanto viśvam āryam | apaghnanto arāvṇaḥ*[NOTE: rigveda-9635-wilson-griffith]
 
-Making the whole world *ārya*. Defeating the **अराव्णः (*arāvṇaḥ*)** — the *ungiving*, those who hold rather than release, the structural opposites of *liberality* in its original Latin sense (Chapter 3 §3.4's etymology). Chapter 4 §4.4 documents how the Wilson and Griffith translations of this very verse omitted *viśvam āryam* and substituted away from *arāvṇaḥ* — the philological-omission case the polemic chapters prosecute.
+The grammar of the call matters. It asks for making, not claiming; for the world, not a tribe; for *ārya* as discipline, not race. The work is **कृण्वन्तः (*kṛṇvantaḥ*)**: making, doing, bringing into form. The object is **विश्वम् (*viśvam*)**: the whole world. The standard is **आर्यम् (*āryam*)**: disciplined nobility, learned restraint, calibrated conduct, and generosity ordered toward *sat*.
+
+The second half gives the obstruction: **अराव्णः (*arāvṇaḥ*)** — the *ungiving*, those who hold rather than release, the structural opposites of *liberality* in its original Latin sense (Chapter 3 §3.4's etymology). Chapter 4 §4.4 documents how the Wilson and Griffith translations of this very verse omitted *viśvam āryam* and substituted away from *arāvṇaḥ* — the philological-omission case developed earlier.
 
 The two phrases are one operation seen from two sides. To make the world *ārya*, the formations that suppress *āryatva* must be defeated. To defeat the *arāvṇaḥ* — the ungiving, those who hoard rather than release — the speaker must operate *āryatva*, not merely claim it.
 
@@ -133,29 +147,29 @@ The inward correction follows from the same principle. India must not answer the
 
 Sanskrit teaches the opposite lesson. The **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**, the fixed-measure language, must be held with rigor; the living languages must be allowed to flow. *Prākṛtika* speech is not sin. It is not failure. It is life. **The danger is to confuse the calibrant's discipline with the state's authority.** Sanskrit survived because it was held as calibrant, not imposed as an imperial vernacular. India's internal reform begins there: preserve Sanskrit with seriousness, let the *bhāṣās* flourish on their own terms, and stop calling local life incorrect because it did not pass through an apex.
 
-Islamic imperial formations were defeated. The Christian conversion ambition was checked. British political rule was expelled. But the deeper work remains: the restoration of Sanskrit as calibrant inside Indian life — the radiant matrix, not a museum object, not a credential, not a slogan, but the living measure of discipline, memory, sound, grammar, and conduct. Internal *āryatva* begins by acknowledging what Sanskrit is and by refusing to reproduce, inside India, the same authority model the book has prosecuted outside it.
+Islamic imperial formations were defeated. The Christian conversion ambition was checked. British political rule was expelled. But the deeper work remains: the restoration of Sanskrit as calibrant inside Indian life — the radiant matrix, not a museum object, not a credential, not a slogan, but the living measure of discipline, memory, sound, grammar, and conduct. Internal *āryatva* begins by acknowledging what Sanskrit is and by refusing to reproduce, inside India, the same authority model prosecuted outside it.
 
 ## The Mantra
 
-For that invitation to become real, Wave 3 must first be carried by those closest to the calibrant. The reader is addressed as a Wave 3 *ṛṣi* or *ṛṣikā* in potential, after the re-learning. Indians in the subcontinent, the global Indian diaspora, and the Romani branch that carried Indic substrate longest in the wild are the first human substrate through which Wave 3 must propagate. *Atomic Sanskrit* is a Wave 3 instrument. The book is not the work. The book makes the radiant matrix visible again. Visibility is the precondition.
+For that invitation to become real, Wave 3 must first be carried by those closest to the calibrant. The reader is addressed as a Wave 3 *ṛṣi* or *ṛṣikā* in potential, after the re-learning. Indians in the subcontinent, the global Indian diaspora, and the Romani branch that carried Indic substrate longest in the wild are the first human substrate through which Wave 3 must propagate. *Atomic Sanskrit* is a Wave 3 instrument, not the work itself. It makes the radiant matrix visible again. Visibility is the precondition.
 
 The work is re-learning.
 
 The work is operating *āryatva*.
 
-The work is becoming capable of uttering the mantra truthfully.
+The work is becoming capable of uttering *kṛṇvanto viśvam āryam* truthfully.
 
 The asuric formation tried to silence the call by telling the world *Sanātan* was downstream. That Sanskrit was downstream. The preceding chapters make the opposite case. The civilization is not downstream. The calibrant is visible and operating.
 
-Two *created* fractals have stood in the frame since the beginning: the pyramid and the swastika. The pyramid repeats apex authority at every scale. The swastika repeats distributed order, calibrated responsibility, and welfare without apex command. The prosecution has shown how the pyramid split Sanskrit into two false categories: before Pāṇini, *prakṛti* — a plant, a branch, a descendant; after Pāṇini, codification — a language frozen by grammar and held by rule. The Epilogue restores the category. Sanskrit is *saṃskṛti*: engineered recurrence, measured sound, disciplined memory, self-correction, and architecture held for *bhūta-hitam*.
+Two *created* fractals have stood in the argument since the beginning: the pyramid and the swastika. The pyramid repeats apex authority at every scale. The swastika repeats distributed order, calibrated responsibility, and welfare without apex command. The argument has shown how the pyramid split Sanskrit into two false categories: before Pāṇini, *prakṛti* — a plant, a branch, a descendant; after Pāṇini, codification — a language frozen by grammar and held by rule. The true category returns. Sanskrit is *saṃskṛti*: engineered recurrence, measured sound, disciplined memory, self-correction, and architecture held for *bhūta-hitam*.
 
 The pyramid first tried to bury Sanskrit under nature. Then it tried to freeze Sanskrit under codification. Then it tried to suspend Sanskrit beneath PIE. Each move served the same motive: prevent the world from seeing a distributed calibrant architecture that does not need an apex. The motive failed. Sanskrit lives. The imaginary ancestor does not.
 
-The book did not need to deny movement. It needed to restore authorship.
+The argument did not need to deny movement. It needed to restore authorship.
 
 Sanskrit's standard is not restored by authority. It is restored by re-entering calibration.
 
-Bṛhaspati had already named the operation: Speech sifted like grain, formed by the wise with the mind, recognized among friends, and made radiant. This book has followed that operation from mouth to sonomer, from sonomer to atom, from atom to molecule, and from molecule to calibrated language.
+Bṛhaspati had already named the operation: Speech sifted like grain, formed by the wise with the mind, recognized among friends, and made radiant. That operation has now moved from mouth to sonomer, from sonomer to atom, from atom to molecule, and from molecule to calibrated language.
 
 The final turn therefore asks Vāk herself to nourish the work:
 
@@ -169,65 +183,14 @@ The final turn therefore asks Vāk herself to nourish the work:
 
 The invitation is not to compose new *śruti*. It is to become capable of seeing what Vāk has already revealed, to carry the architecture forward, and to let Speech nourish the next civilizational act.
 
+The Sun has been found.
+
 The category is restored.
 
-The reader does the rest.
+The Atris found the Sun. The reader now carries the cry.
 
 ***कृण्वन्तो विश्वम् आर्यम् अपघ्नन्तो अराव्णः।***
 
 *Making the whole world ārya. Defeating the arāvṇaḥ.*
 
 The work continues.
-
----
-
-## Draft notes (Epilogue v2)
-
-**Word count:** ~2,650 words across eight sections. Codex base 1,294 + Tier 1 + Tier 2 restorations + Tier 3 = Codex compressions retained.
-
-**Restoration log (Codex base → merged v2):**
-
-- **Opening framing** — restored "Hindu stories are full of *asuras* jealous of *devas*" Sanātan-internal civilizational framing before the polemic redefinition; restored Ch 16 §16.6 cross-reference for *āryatva* defined as discipline / learning / restraint / skill / strict code of conduct.
-- **§1** — restored the full lineage list for empirical evidence (Nambūdiri / Maharashtra / Tamil Nadu / Kashmir / Banaras-Allahabad); restored *Yenpro* / *Yenpuro* specific naming for the language-factory result; restored *apaśabda*-generation-vs-*apaśabda*-as-root framing in the *Dhātupāṭha* paragraph; restored the *Aṣṭādhyāyī* sūtra-count anchor (~4,000); restored the philological-vs-computational-community framing for the *Aṣṭādhyāyī* recognition.
-- **§1 author addition (2026-05-20) — *prāyaścitta*-by-method paragraph.** *"The Western philological machinery still has a path to redemption..."* paragraph added at §1, naming the redirection of the comparative ecosystem toward *Pratibimba*-mapping of Wave 1 / Wave 2 Sanskritic propagation as the redemption move. Closes on the *prāyaścitta*-by-method verdict-voice line, now split out as a standalone short-line paragraph for hammer-weight: *"That would not be surrender. It would be **prāyaścitta** by method."* Lands the dharmic-frame karmic-restoration possibility inside the Western philological machinery's research program — the machinery can become *ārya* by method-change, not by surrender.
-- **§1 author addition (2026-05-20) — Brāhmī research-question paragraph (expansion of prior one-line Brāhmī-thesis paragraph).** Three-paragraph block now: the research-project frame + *Aramaic-from-Brāhmī* directional inversion + tablet/palm-leaf chronology asymmetry; the *"Stone preserves the pyramid; it does not preserve the notebook."* standalone hammer-line (lifted from Appendix Part 3 §3.6); and the harder Wave 1 outward-propagation research question with appropriate scholarly hedging (*"This book does not need that claim. The evidence is not yet assembled."*). Topic-sentence bolding added at the swastika-systems paragraph for hammer-topic-sentence emphasis. Forward pointer added at the close of the Brāhmī block: Appendix Part 3 §§3.5–3.6 develop the case. Appendix Part 3 prosecutes the engineering counter-evidence across eight sections (~5,400 words); §3.3 *Stone Preserves the Pyramid* is the specific home of the chronology argument the Epilogue paragraph compresses and of the *"Stone preserves the pyramid. It does not preserve the notebook."* verdict-voice line the Epilogue borrows. Cross-references the Wave 1 framework from Ch 19.
-- **§1 author addition (2026-05-20) — swastika-systems paragraph (replaces prior Masoretic / Quranic / Vulgate comparative-questions paragraph).** *"Perhaps *āryatva* can reach even the church of progress..."* paragraph added at §1. Lands the **comparative-trajectory polemic** directly in the Epilogue: five-language drumbeat (Hebrew / Quranic Arabic / ecclesiastical Latin / Greek / Tibetan) all show the codified-but-spoken-keeps-moving limit; the *Vedas* and Sanskrit show the opposite principle. Names the **decentralized swastika system** explicitly with the full enumeration — *Prātiśākhya*, *Śikṣā*, *Chandas*, *Vyākaraṇam*, the *pāṭhas*, the *Dhātupāṭha*, and the *guru-shishya paramparā* — "without a central office, without a pope of pronunciation, without a single institution holding the language hostage." Closes on the verdict-voice hammer: *"The failed history of codification and the survival of Sanskrit prove the same point from opposite sides: pyramids can enforce for a time; swastika systems sustain."* Threads back to Ch 13 §13.5 (*Calibrated, Not Codified* — the five-language drumbeat at chapter scale), Ch 6 §6.4 (three categories: natural drift / codified correction / engineered self-correction), and the Second Shanti §3.9 *swastika as calibration-responsibility architecture* move. The earlier Masoretic / Quranic / Vulgate specific-comparison questions are now displaced by the stronger architecture-vs-authority verdict — comparative-preservation specifics remain available at Ch 14 §14.6.
-- **§3** — restored Pune-Calcutta-Oxford-Göttingen pipeline explicit naming for Schleicher prosecution; restored Müller and Whitney naming + 1948-present dating in *Encyclopaedic Confirmation* framing; restored Korean Hangul Sejong (1443) explicit framing as foundational-dogma control case + ~1.5 billion audiographic-family users + 80 million Hangul users + "close to a third of the world's literate population" empirical anchor.
-- **§4** — restored Deccan College Pune as contemporary exemplar (named directly, not just referenced); restored "Eighty years after India's political independence" specific timeframe; restored the institutions-staffed-by-Indian-scholars-paid-by-an-independent-Indian-state framing; restored the same-framework-from-outside-to-inside structural diagnosis.
-- **§5** — restored Ch 2 §2.4 *liber-* / *arāvan* etymology cross-reference + the explicit structural-opposite-of-liberality framing; restored Ch 3 §3.4 Wilson/Griffith mistranslation cross-reference (the philological-omission case the polemic prosecutes); restored *Atomic Sanskrit* Wave-3-instrument framing.
-
-**Codex compressions retained (Tier 3):**
-
-- "The prosecution is over." opener.
-- "*Sanātan* does not keep that ledger." line in the borrowed-courtroom paragraph.
-- *prāyaścitta* paired with प्रायश्चित्त in the karmic-frame paragraph.
-- "***Convict the pyramid. Kill the invented ancestor. Invite the world. Restore the standard.***" formula preserved.
-- "That is the Epilogue's work." short-line pivot.
-- "A botanical model opens descriptive questions. // An engineering thesis opens engineering questions." §1 close.
-- The compressed asuric-vs-dharmic architecture paragraph contrast in §2.
-- "The architecture remains." §2 close.
-- "Four exhibits. One case." §3 close.
-- "Not counter-construction. Refusal." §4 short-line.
-- "Held." §4 close.
-- §5 three-line work close: "The work is re-learning. // The work is operating *āryatva*. // The work is becoming capable of uttering the mantra truthfully." — Codex contribution worth keeping.
-
-**Devanagari first-use audit (per the new memory):**
-
-- आर्यत्व (*āryatva*) — first-use Devanagari at chapter opening
-- असुर (*asuras*) — first-use Devanagari at chapter opening (added 2026-05-20 second pass; load-bearing ontological term carrying the contest-of-architectures polemic, recall-from-anchor-chapter judgment reversed)
-- देव (*devas*, the radiant ones) — first-use Devanagari at chapter opening (added 2026-05-20 second pass; paired with the *asuras* Devanagari restoration; inline "(the radiant ones)" gloss preserved)
-- तमस् (*tamas*) — first-use Devanagari at §2 *The Contest of Architectures* (added 2026-05-20 second pass; load-bearing *guṇa*-vocabulary in the asuric-architecture diagnosis)
-- सत्त्व (*sattva*) — first-use Devanagari at §2 *The Contest of Architectures* (added 2026-05-20 second pass; structural complement to *tamas* in the dharmic-architecture diagnosis)
-- अराव्णः (*arāvṇaḥ*) — first-use Devanagari at §5
-- लोकक्षेम (*lokakṣema*) — first-use Devanagari at §2
-- प्रायश्चित्त (*prāyaścitta*) — Codex's existing Devanagari preserved
-- कृण्वन्तो विश्वमार्यम् अपघ्नन्तो अराव्णः — Codex's existing mantra-blockquote Devanagari preserved (deployed twice in §5 per canonical convention)
-- *Sanātan*, *apauruṣeya*, *guru-shishya paramparā*, *śāstrārtha*, *kālacakra*, *Vedas*, *Prātiśākhya*, *Aṣṭādhyāyī*, *Dhātupāṭha*, *Śikṣā*, *vyākaraṇam*, *akṣara*, *varga*, *sthāna*, *prayatna*, *ayogavāha*, *audiograph*, *apaśabda*, *prākṛtika*, *gaṇāḥ*, *pāṭhas* — retained in italic Roman per recall-of-established-terms judgment (each was introduced with Devanagari in its anchor chapter).
-
-**Note on the recall-from-anchor-chapter judgment:** the first pass left *tamas* / *sattva* / *asuras* / *devas* italic-Roman on recall-from-anchor judgment. User flagged this as too thin for the Epilogue's load-bearing role — these terms carry the contest-of-architectures polemic at the ontological layer (*guṇa*-vocabulary) and the cosmological layer (asura/deva). Devanagari pairings restored in second pass. The convention going forward: operative terms in the closing matter get Devanagari first-use even if anchored in body chapters; only secondary technical terms qualify for italic-Roman recall.
-
-**Cross-references:**
-
-Backward — Ch 1 (botanical metaphor); Ch 2 §2.4 (*liber-* / *arāvan* etymology); Ch 3 §3.4 (Wilson/Griffith mistranslation); Ch 3 §3.6 (*asuratva* / pyramid / *tamas*); Ch 9 §9.6 (*akṣara* / *audiograph*); Ch 14 §14.6 (comparative engineered preservation — Masoretic / Quranic / Vulgate); Ch 15 §15.5 (cross-lineage empirical verification); Ch 16 §16.5–§16.6 (*āryatva* as engineered phonetic-pedagogical mastery; first half of the mantra); Ch 17 (architectural test); Ch 18 (PIE prosecution closed); Ch 19 (Wave 1 / Wave 2 / Wave 3 / Diasporic Wave framework); Appendix Parts 1–4 (the four prosecutions §3 frames).
-
-Forward — A forthcoming volume in the *Second Shanti* series (polity-architectural development of the suric / asuric distinction).

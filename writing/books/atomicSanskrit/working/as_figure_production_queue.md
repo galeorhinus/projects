@@ -64,7 +64,7 @@ These figures are valuable, but the prose can survive longer without them.
 | `[x]` | Figure 9.2 — Sonomer Garland | `as_1_09_mapping_mouth.md` | Show the *varṇamālā* as a literal ordered *mālā* of selected sonomers. | Rendered as `figures/mapping_mouth/varnamala_sonomer_garland.svg`. |
 | `[x]` | Figure 9.3 — Sanskrit Extracted: The Sonomer Grid | `as_1_09_mapping_mouth.md` | Isolate Sanskrit hexagons from the comparative articulatory matrix so the sonomer-grid selection is visible in the main body. | Rendered as `figures/audiography/sanskrit_extracted_sonomer_grid.svg`; reused as Figure A.6. |
 | `[x]` | Figure 9.4 — Control Panel | `as_1_09_mapping_mouth.md` | Re-read the 5×5 *sparśa* table as a mouth-control panel. | Rendered as `figures/mapping_mouth/control_panel.svg`. |
-| `[ ]` | Figure 9.5 — The Sound Volume | `as_1_09_mapping_mouth.md` | Show the 5×7 consonant plane extended through the 14-vowel axis, with two empty consonant cells passing through the full vowel dimension and one lit क fiber. | New figure needed; follow `working/ch9_varnamala_restructure_plan.md` §Visual program and §Sound Volume notes. |
+| `[x]` | Figure 9.5 — The Sound Volume | `as_1_09_mapping_mouth.md` | Show the 5×7 consonant plane extended through the 14-vowel axis, with two empty consonant cells passing through the full vowel dimension and one lit क fiber. | Rendered as `figures/mapping_mouth/sound_volume.svg`. |
 
 ## P3 — Prosecution / Remedy Exhibits
 

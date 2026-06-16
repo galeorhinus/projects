@@ -1,6 +1,6 @@
-# Part V — Anti-Entropy in Practice
+# Part V — Chain of Custody: Anti-Entropy in Practice
 
-*Chain of custody.*
+*Preservation, calibration, auditure.*
 
 ---
 
