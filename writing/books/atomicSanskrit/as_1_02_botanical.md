@@ -94,7 +94,7 @@ The botanical model is not useless. It describes natural language change well en
 
 English and Dutch do behave like sister forms inside the Germanic family. Latin did produce the Romance languages. French, Spanish, and Italian did change across geography, politics, usage, and time. Natural languages shed endings, blur sounds, absorb neighbors, simplify some forms, complicate others, and reproduce themselves in altered descendants.
 
-Old English **hlāfweard**, the "bread-guardian," became **laverd**, then **lorde**, then modern **Lord** — a title now reserved for men at the summit of the English hierarchy and for God.[NOTE: hlafweard-etymology] The domestic provider became the political-theological superior. The trajectory mirrors the civilization that carried it; the form mutated; the original transparency disappeared.
+Old English **hlāfweard**, the "bread-guardian," became **laverd**, then **lorde**, then modern **Lord** — a title now reserved for men at the summit of the English hierarchy and for the Almighty.[NOTE: hlafweard-etymology] The domestic provider became the political-theological superior. The trajectory mirrors the civilization that carried it; the form mutated; the original transparency disappeared.
 
 This is botany at work. The metaphor fits its own object.
 

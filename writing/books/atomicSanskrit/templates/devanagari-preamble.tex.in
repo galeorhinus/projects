@@ -89,17 +89,15 @@
   \refstepcounter{part}%
   \def\partopener@toc{#1}%
   \ifx\partopener@toc\@empty
-    \addcontentsline{toc}{part}{\thepart\hspace{1em}#2}%
+    \addcontentsline{toc}{part}{#2}%
   \else
-    \addcontentsline{toc}{part}{\thepart\hspace{1em}#1}%
+    \addcontentsline{toc}{part}{#1}%
   \fi
   \markboth{}{}%
   \vspace*{4em}% top margin before the title
   {\centering
    \interlinepenalty\@M
    \normalfont
-   \huge\bfseries \partname\nobreakspace\thepart\par
-   \vskip 20\p@
    \Huge\bfseries #2\par}%
   \vskip 3em\relax
   % document flow continues here — opener prose appears on this page

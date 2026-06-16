@@ -36,7 +36,7 @@ The glossary is organized in three groups:
 
 **Sanskrit pair**: *varṇa* / *varṇāḥ*.
 
-**Use in book**: Chapter 8 introduces *varṇa* as the selected sound-unit. Chapter 9 turns the selected sound into the bridge toward *akṣara* and *dhātuḥ*. Chapter 10 builds the *dhātuḥ* from sonomers. Chapter 11 shows that the *kriyā* remains processed at the sonomer level through *vikaraṇa*, *tiṅ-pratyaya*, and Pāṇini's pratyāhāra system.
+**Use in book**: Chapter 8 — *varṇa* as selected sound-unit. Chapter 9 — selected sound moving toward *akṣara* and *dhātuḥ*. Chapter 10 — the *dhātuḥ* built from sonomers. Chapter 11 — *kriyā* processed at the sonomer level through *vikaraṇa*, *tiṅ-pratyaya*, and Pāṇini's pratyāhāra system.
 
 ### **sonomeric**
 
@@ -88,17 +88,17 @@ The glossary is organized in three groups:
 
 **Standard.** Affix; suffix. Pāṇini's vast *pratyaya* inventory covers *kṛt* (primary derivational), *taddhita* (secondary derivational), *sup* (case-ending), *tiṅ* (finite verb ending), *vikaraṇa* (class-marker), and several other functional classes.
 
-**English pair**: *suffix*. In the chemistry idiom: *bond*.
+**English pair**: *suffix*. In the bonding-procedure idiom: *bond*.
 
 ### **atom** / **atoms** / **semantic atom**
 
-**Book-coined English (repurposed from chemistry).** The book's English name for *dhātuḥ*. Reframes Sanskrit's foundational semantic constituent through the chemistry analogue: atoms hold identity through bonding, generate molecular (lexical) compounds combinatorially, and arrange in periodic patterns rather than random distributions.
+**Book-coined English (repurposed from chemistry).** The book's English name for *dhātuḥ*. Reframes Sanskrit's foundational semantic constituent through the atomic analogue: atoms hold identity through bonding, generate molecular lexical forms combinatorially, and arrange in patterned distributions rather than random scatter.
 
-The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack is: *varṇa* / sonomer / particle → *dhātuḥ* / atom → *śabda* / molecule, with *upasarga* + *pratyaya* as the bonding chemistry and *racanā* as the structural scaffold.
+The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack is: *varṇa* / sonomer / particle → *dhātuḥ* / atom → *śabda* / molecule, with *upasarga* + *pratyaya* as the bonding procedure and *racanā* as the structural scaffold.
 
 **Sanskrit pair**: *dhātuḥ* / *dhātavaḥ*.
 
-**Use in book**: Chapter 6 reclaims *dhātuḥ* from the philological *"root"* mistranslation and lands it as the chemistry-style atom; Chapter 10 builds the inventory and tests the *dhātuḥ* against the six *sūtra-lakṣaṇāni* at atomic scale; Chapter 11 shows how the atom becomes *kriyā* through operational bonding; Chapter 12 develops the next assembly level; Chapter 13 establishes the calibration architecture that holds the atomic inventory stable across time.
+**Use in book**: Chapter 2 rejects the philological *"root"* mistranslation; Chapter 10 lands *dhātuḥ* as semantic atom, builds the inventory, and tests the *dhātuḥ* against the six *sūtra-lakṣaṇāni* at atomic scale; Chapter 11 shows how the atom becomes *kriyā* through operational bonding; Chapter 12 develops the next assembly level; Chapter 13 establishes the calibration architecture that holds the atomic inventory stable across time.
 
 ### **atomic scaffold**
 
@@ -122,6 +122,10 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 **Book-coined English, repurposed engineering vocabulary.** Calibrant: a reference standard whose stability allows other measurements to be made against it. Sanskrit functions as the linguistic calibrant for the subcontinental sound-field and the Indic civilizational continuum. The *calibration matrix* denotes the architecture that holds the calibration in place across generations (Chapters 13–15).
 
+### **calibrand**
+
+**Book-coined English, sibling to *calibrant*.** *That which is calibrated* — formed like *operand*, *multiplicand*, *analysand*: the thing acted upon. Where *calibrant* names Sanskrit as the engineered standard, **calibrand** names a language restructured toward it through **calibrant contact** (Chapter 18 §18.6). The calibrand languages are the set the philological machinery — reading their shared reflections as common descent — classifies as the *"Indo-European"* and *"Indo-Iranian"* families; each calibrand instead carries a *Pratibimba* (reflection) of the calibrant, not a fragment of a vanished ancestor. The term replaces a geography-plus-family-tree label with one that encodes the relation: downstream of a standard, not descended from a parent.
+
 ### **fractal**
 
 **Standard English, book-repurposed.** A pattern whose design law recurs across scale. In this book, *fractal* does not mean strict mathematical infinite self-similarity. It means scale-recurring architecture: the same engineering logic appearing from mouth to language — mouth, sonomer, *akṣara*, *dhātuḥ*, *kriyāpada*, *śabda*, *vākya*, *sūtra*, recitation, and calibration-matrix scale.
@@ -142,11 +146,11 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **vaiyākaraṇāḥ** (वैयाकरणाः)
 
-**Standard.** The grammarians; practitioners of *vyākaraṇa*. In the book's engineering frame: the *decoders* — those who decode the architecture the *Vedas* encode.
+**Standard.** The grammarians; practitioners of *vyākaraṇa*. In the book's engineering vocabulary: the *decoders* — those who decode the architecture the *Vedas* encode.
 
 ### **Aṣṭādhyāyī** (अष्टाध्यायी)
 
-**Standard, book-reframed.** Pāṇini's foundational grammar — the *Eight-Chapter* treatise. The canonical *vyākaraṇa* text. The dogma treats it as the codification of a previously-drifting language; the book reframes it as the finest *decoding* of an architecture already engineered into the *Vedas*. Cited across Chapters 4, 6, 8, 10, and Appendix Part 8; the codified → decoded reframing is central to the standing polemic phrase (*Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest*).
+**Standard, book-controlled deployment.** Pāṇini's foundational grammar — the *Eight-Chapter* treatise. The canonical *vyākaraṇa* text. The dogma treats it as the codification of a previously-drifting language; the counter-category is the finest *decoding* of an architecture already engineered into the *Vedas*. Cited across Chapters 4, 6, 8, 10, and Appendix Part 8; the codified → decoded correction is central to the standing polemic phrase (*Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest*).
 
 ### **paramparā** (परम्परा)
 
@@ -342,7 +346,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **heroic erasure**
 
-**Book-coined English.** The pyramid's move of praising a named figure within Sanātan or a named discipline for some downstream contribution (codification, documentation, transmission, adaptation) while structurally denying the engineering thesis. The praise is the mechanism of the erasure. Chapter 2 §2.6 establishes the move; Chapters 13 and 14 redeploy it in the preservation and calibration argument.
+**Book-coined English.** The pyramid's move of praising a named figure within Sanātan or a named discipline for some downstream contribution — so-called codification, documentation, transmission, adaptation — while structurally denying the engineering thesis. The praise is the mechanism of the erasure. Chapter 1 introduces the pattern; Chapter 2 §2.6 applies it to Pāṇini and the codification story; Chapters 13 and 14 redeploy it in the preservation and calibration argument.
 
 ### **category theft**
 
@@ -362,7 +366,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **Pratibimba** (प्रतिबिम्ब)
 
-**Standard Sanskrit term, book-repurposed as polemic frame.** A reflection — what appears in a mirror, downstream of an original. The book uses *Pratibimba* to name the relation between Sanskrit and the cognate languages the machinery classifies as siblings: Hindi, Marathi, Greek, Latin, Persian, Lithuanian, Tocharian. The pyramid's framework places all of these as descendants of an imaginary *Proto-Indo-European* parent. The book's reframe: there is no PIE. The cognates everywhere else are *Pratibimbas* — reflections of the original engineered Sanskrit forms. *Mātṛ* is the etymon of *mother*; *pater* is a *Pratibimba* of *pitṛ*. Preface establishes the hook; Chapter 2 deploys it as category-theft; Chapters 6, 9, and 17 develop the calibrant-and-reflection architecture in full.
+**Standard Sanskrit term, book-repurposed as polemic category.** A reflection — what appears in a mirror, downstream of an original. The book uses *Pratibimba* to name the relation between Sanskrit and the cognate languages the machinery classifies as siblings: Hindi, Marathi, Greek, Latin, Persian, Lithuanian, Tocharian. The pyramid's account places all of these as descendants of an imaginary *Proto-Indo-European* parent. The counter-account: there is no PIE. The cognates everywhere else are *Pratibimbas* — reflections of the original engineered Sanskrit forms. *Mātṛ* is the etymon of *mother*; *pater* is a *Pratibimba* of *pitṛ*. The Preface introduces the hook; Chapter 2 names the category theft; Chapter 18 §18.6 develops the calibrant-and-reflection architecture in full.
 
 ### **engineered / encoded / decoded / codified**
 

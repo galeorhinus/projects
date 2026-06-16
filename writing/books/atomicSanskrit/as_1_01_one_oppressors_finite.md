@@ -1,4 +1,4 @@
-# Chapter 1 — One, Oppressors, and the Finite
+# Chapter 1 — One, ___, and the Finite
 
 *Draft v1. Active antagonist chapter promoted from AP0. Introduces the finite apex-order before the courtroom prosecution begins. Keeps the Atri payoff out of the body; Epilogue owns the recovery.*
 
@@ -22,7 +22,9 @@
 
 The number here is **one**: the asuric one, the apex-one.
 
-One ruler. One doctrine. One permitted origin. One authorized text. One sanctioned interpretation. One gate through which reality must pass before it is allowed to be called true.
+One ruler. One doctrine. One permitted origin. One authorized text. One sanctioned interpretation. One gate through which reality must pass before it is allowed to be called True.
+
+And the one is a Him — a blank each age fills with a new name. Hiraṇyakaśipu, who would suffer no worship but his own. Rāvaṇa, whose will was the law of three worlds. Vṛtra, who seized the waters and called the withholding order. The names change; the Him does not. A later age enthrones Him beyond the sky, capitalizes His name, puts His order past question, brooking no other before Him. New face. No Image. Same apex.[NOTE: devi-mahatmya-goddess-undoes-male-apex]
 
 The finite order turns plurality into command.
 

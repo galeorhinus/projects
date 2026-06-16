@@ -156,6 +156,20 @@ Never use *tribal* for the forest-dwelling communities of the subcontinent — c
 
 Never use *vernacular* for Marathi, Hindi, Bengali, Tamil, or any Indic language. From Latin *verna* (a slave born in the master's household), it historically subordinated "low" speech to learned/literary language — the same colonial-orientalist logic that produced *tribal* for forest-dwelling communities. Substitutes: *languages* (default — context names which), *calibrant-anchored languages* (within the engineering framework, Ch5 §5.6 forward), *Indic languages* (default civilizational frame), *Sanskritic languages* (when derivation from Sanskrit is the point), *natural languages* (when the natural-vs-engineered contrast is the point), or name the languages directly. *"Vernacular"* in scare quotes when attributing to the pyramid. Full rationale in skill §7.3.
 
+### *God* / *gods* — never in the book's own voice
+
+The words *god*, *gods*, *God*, *Gods* (and *godless*) never appear in the book's own prose. They flatten the Indic *devāḥ* into a generic English category and import the Abrahamic capital-*G* deity the book is dismantling. Substitute by referent:
+
+- **Indic deities** → ***deva* / *devāḥ*** (देव / देवाः), or the named deity directly (*Indra*, *Varuṇa*, *Sūrya*, the *Aśvins*). When translating a Sanskrit verse, render देव as *deva / devāḥ*, never "god" (*Viśvedevāḥ* → *the All-Devas*, not "the All-Gods").
+- **The Abrahamic / apex deity** → *the Father*, *the apex*, *the jealous one*, *the Him*, *the one enthroned beyond the sky*, or *deity* as a neutral fallback. Never *God*. (See the masculine-apex *Him* device: capital *Him* carries the apex and the divine pronoun at once — Ch 1 §1 deploys it.)
+- **Generic / abstract** → *the divine* / *deity*, sparingly.
+
+**Exemptions (kept verbatim, never altered):**
+1. **Verbatim quotations of a source** — scripture quoted as evidence (*"the Word was God"*, John 1:1; the *Ephesians* slavery verse) and the pyramid's own mistranslations being prosecuted (Griffith's *"the godless ones"* for *arāvṇaḥ*). These stay in quotation marks as the object of citation or critique.
+2. **Cited proper names / titles** — e.g., Sheldon Pollock's *The Language of the Gods in the World of Men*; Paul Thieme's "The 'Aryan' Gods of the Mitanni Treaties." A title cannot be rewritten.
+
+**Related — *goddess* / *Goddess*:** by the same Indic-frame logic, prefer ***Devī*** (देवी) for the feminine deity; established names (the *Devī Māhātmya*, the endnote stub `devi-mahatmya-goddess-undoes-male-apex`) keep their forms.
+
 ### Two axes, not one chronology — *vaidika / laukika* (domains) + *chandas / bhāṣā* (modes)
 
 **Reject "Vedic Sanskrit / Classical Sanskrit" as the named pair.** The dogma collapses Sanskrit's two-axis architecture into a one-line chronology: "Classical" is a Greco-Latin classroom-canon classification imported onto Sanskrit, and the implicit "later-than-Vedic" sequencing imports the foreign teleology along with the label.

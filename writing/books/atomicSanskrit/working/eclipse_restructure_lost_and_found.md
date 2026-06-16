@@ -353,7 +353,7 @@ This book is also a foundation. **Sanskrit is engineering. The engineering succe
 
 | Source (file · §/line) | Passage | Disposition |
 |---|---|---|
-| `as_3_00_one_oppression_finite.md` · full file | Appendix Part 0 removed from `as_book.yaml` back matter when `as_1_00a_one_oppressors_finite.md` was created. | `PRESERVED / RELOCATE` — source file remains intact. Active Ch 1 uses a crisp antagonist chapter, not the full AP0 dump. |
+| `as_3_00_one_oppression_finite.md` · full file | Appendix Part 0 removed from `as_book.yaml` back matter when `as_1_00a_one_oppressors_finite.md` was created. | `ARCHIVED 2026-06-15` — moved to `archive/as_3_00_one_oppression_finite.md` (git mv, history preserved). Its three AP0-only endnotes were re-anchored to the live book first: `devi-mahatmya-goddess-undoes-male-apex` → Ch 1 §1 (the Him beat); `pollock-sanskrit-cosmopolis-position-3` + `murty-library-gift-gate` → Ch 4 §4.4 (outward-absorption contemporary case). All live `Appendix Part 0` references in endnote deployments + bodies dereferenced. Full AP0 prose preserved in archive + git for any future fold. |
 
 ### AP0-P1-001 — Promoted into Ch 1
 
@@ -519,6 +519,160 @@ This book is also a foundation. **Sanskrit is engineering. The engineering succe
 | `as_1_10_building_dhatuh.md` · early-chapter checkpoint | Stale Ch10 back-references to "Chapter 6 restored/reclaimed/placed..." the *dhātuḥ* category and to "Chapter 1" as the botanical-metaphor chapter; old-Ch6 comparative point that Sanskrit is not alone in knowing sub-word semantic generators. | `RETUNED / FOLDED` — references now point to Ch 2 for the botanical/category-theft recovery; the Semitic/Tamil comparative point has been folded directly into Ch10; Ch10 remains the active home of the positive *dhātuḥ*-as-atom proof. |
 | `working/as_figure_production_queue.md` · early-chapter checkpoint | Optional old label "Figure 6.3 — Botanical Root vs Architectural *Dhātuḥ*." | `PARKED` — renamed as a parked old-Ch6 figure candidate for the Ch10 fold decision; do not renumber unless it survives. |
 | `as_endnotes.md`, `as_2_01_epilogue.md` · early-chapter checkpoint | Support-material echoes of old "three-frames" language and stale Ch5 §5.4 pointer for natural drift / codified correction / engineered self-correction. | `RETUNED` — aligned to Ch 6 §6.4 and "three-category" terminology. |
+
+---
+
+## Part III / Sound-Field Checkpoint
+
+*Part III, Ch 7, Ch 8, and Ch 9 keep their chapter numbers. This checkpoint removes residual courtroom spill and structural self-reference around the handoff from Sanskrit's self-description into the sound-field.*
+
+| Source (file · §/line) | Passage | Disposition |
+|---|---|---|
+| `as_part_02_sanskrit_self_conception.md`, `as_part_03_sound_field.md` · threshold checkpoint | "Internal testimony" and "After the internal testimony..." | `REVIEWED / RETAINED` — courtroom language belongs at the part-opener level as light procedural framing. Chapter bodies keep courtroom spill low. |
+| `as_1_07_adivadya.md`, `as_1_08_superset.md` · threshold checkpoint | Structural self-reference such as "This chapter takes..." and "This chapter surveys / uses..." | `RETUNED` — replaced with direct functional prose without changing the Ch7–Ch8 argument. |
+| `as_1_09_mapping_mouth.md` · threshold checkpoint | "The book calls them sonomers"; "the book's distinction"; "book's fractal argument." | `RETUNED` — sonomer terminology and fractal argument now appear directly. |
+| `as_1_08_superset.md`, `as_1_09_mapping_mouth.md` · threshold checkpoint follow-up | Remaining Part III self-reference phrases: "This chapter applies...", "The chapter's own category...", "read the panel as...", and "The epigraph gives the chapter its image..." | `RETUNED` — replaced with direct field/category/sieve language. |
+
+---
+
+## Ch 10 Checkpoint — *Dhātuḥ* Fold and Atomic Corollary
+
+*Ch 10 is now the active home of the dissolved old-Ch6 *dhātuḥ* proof. This checkpoint cleans structural self-reference and body-level courtroom spill while preserving the technical atom argument.*
+
+| Source (file · §/line) | Passage | Disposition |
+|---|---|---|
+| `as_1_10_building_dhatuh.md` · Ch 10 Pass 1 | Self-referential phrases: "The chapter epigraph...", "This chapter asks/tests...", "chapter's method", "This chapter builds...", "This chapter uses...", "chapter's central map", "chapter's physical analogy", "That lets the chapter ask...", "The book's central architectural claim", "The book is restoring the name", and "In this book's vocabulary." | `RETUNED` — replaced with direct epigraph/test/method/Atomic-Corollary language. |
+| `as_1_10_building_dhatuh.md` · Ch 10 Pass 1 | Body-level courtroom spill: "The chapters that prosecute..." in the Atomic Corollary backward-consequence paragraph. | `RETUNED` — now "The diagnoses of the philological dogma..." so courtroom language remains concentrated in part openers and prosecution sections. |
+| `as_1_10_building_dhatuh.md`, `as_endnotes.md` · Ch 10 Pass 2 | Old-Ch6 cross-science gateway ("one word, many sciences"; furnace / laboratory / body / sentence), *saptadhātu* detail, Semitic/Tamil analogues, and *Dhātupāṭha* count notes. | `FOLDED / PARTIAL PARK` — Ch10 §10.3 now carries a compact cross-science paragraph with note anchors; *saptadhātu* cascade stays note-level; Semitic/Tamil and *Dhātupāṭha* notes now deploy to Ch10; old-Ch6 figures remain parked for later visual decision. |
+| `as_1_10_building_dhatuh.md` · Ch 10 Pass 3 | Remaining self-referential phrases: "handed this chapter its shorthand," "what this chapter calls," "this chapter shows," "evidence this chapter has developed," "The present chapter has shown," and "Chapter 10 has shown..." | `RETUNED` — replaced with direct atomic-scale, *dhāturacanā*, and handoff language. No technical claim removed. |
+
+---
+
+## Ch 11 Checkpoint — *Kriyā* as Molecule
+
+*Ch 11 extends the Atomic Corollary from *dhātuḥ* atom to *kriyāpada* molecule. This checkpoint cleans structural self-reference while preserving the procedural proof through Vedic examples, Pāṇinian notation, *gaṇa* operations, and reactivity audits.*
+
+| Source (file · §/line) | Passage | Disposition |
+|---|---|---|
+| `as_1_11_building_kriya.md` · Ch 11 Pass 1 | Self-referential phrases: "This chapter follows...", "In this book's corollary", "The chapter begins...", "This chapter is not calling...", "That gives the chapter...", "Chapter 11 shows...", "the chapter's center", "This chapter showed...", plus softer draft traces such as duplicated "five examples below", "This section restates...", "matrix later in the chapter", and "Chapter 10 surfaced." | `RETUNED` — replaced with direct Atomic Corollary, Vedic procedure, Pāṇinian notation, audit, molecule, and scale-chain language. No technical claim removed. |
+| `as_1_11_building_kriya.md` · Ch 11 Pass 2 | Argument/rhythm risk around the chemistry analogy: "verbal equivalent of chemical reactivity," "carbon class," "independent periodicity claim," "the current periodic-axes figure," "one possible table, not the only possible table," and the Mendeleev comparison. Also clipped close "They have it." | `RETUNED` — chemistry language now states that reactivity means measured grammatical bonding range, not chemical substance; "carbon class" is marked as a disciplined analogy; the periodic figure is explicitly not a chemical-periodicity claim; the close is smoothed. No data, figure, or claim removed. |
+| `as_1_11_building_kriya.md`, `as_endnotes.md` · Ch 11 freeze audit | Ch11 body guardrail phrases were reviewed; support notes still carried stronger "periodic-table account," "periodic-table column-axis," "locks the *varga* column," and "book's position / this book refuses" language. | `RETUNED / FREEZE CANDIDATE` — endnotes now match the body: the Mendeleev comparison is comparison, not equivalence; the periodic-axes figure uses structural axes without claiming chemical periodicity; the Vedic-before-Pāṇini note states the procedural point without meta-pointer language. |
+
+---
+
+## Ch 12 Checkpoint — *Vākya* as Molecular Assembly
+
+*Ch 12 completes the Part IV scale-chain from *dhātuḥ* atom through *kriyāpada* molecule into *padam* and *vākya*. This checkpoint cleans structural self-reference and stale chapter routing while preserving the boundary-crossing argument into *apabhraṃśa* / vivimorphosis.*
+
+| Source (file · §/line) | Passage | Disposition |
+|---|---|---|
+| `as_1_12_building_vakya.md` · Ch 12 Pass 1 | Self-referential phrases: "Chapter 12 follows...", "chapter's phrase", "this chapter will develop", "this chapter will use", "what the chapter is about to show", "Chapter 12 therefore begins...", "The chapter needs...", "book's most important words", "book's highest categories", "the chapter is demonstrating", "this chapter is not using", "Chapter 12 repeats...", "Chapter 12's answer", "The chapter has now built...", "this book's English coining", "Chapter 12 has now followed...", and "The chapter has therefore reached..."; stale routing to old Chapter 5 / Chapter 6 for *apabhraṃśa* and *dhātuḥ* / root. | `RETUNED` — replaced with direct assembly-scale language; routed *apabhraṃśa* to current Chapter 6 and *dhātuḥ* / root category theft to Chapter 2; retained valid navigation references to Chapters 13, 14, and 18. No technical claim removed. |
+| `as_1_12_building_vakya.md` · Ch 12 Pass 2 | Argument/rhythm risk around the chemistry/biology analogies: "chemical metaphor," "other side of the chemistry," "enormously reactive," "bonding chemistry," "same vast molecular field," "molecule acquires life," "Punch line," "vivimorphosis turns mineral → organic," "molecule has no history of its own," "becomes biological," and "Sanskrit chose engineering." | `RETUNED` — bonding language now emphasizes grammatical behavior and recoverable identity; *kṛ* remains the flagship but with less inflated reactivity language; vivimorphosis now describes organic behavior outside the calibrant boundary rather than literal biology. No figure, table, or technical claim removed. |
+| `as_1_12_building_vakya.md`, `as_endnotes.md` · Ch 12 freeze audit | Remaining alignment residue: section title "The Bonding Chemistry"; vivimorphosis passages still using "organic life," "alive," and "come alive"; support notes still using "Chapter 12's epigraph," "internal hinge for Chapter 12," and "Chapter 2's rejection." | `RETUNED / FREEZE CANDIDATE` — title now matches bonding-procedure language; vivimorphosis now uses organic behavior/productivity rather than literal life; support notes use direct argument language. Body navigation to Chapters 6, 13, 14, and 18 remains active. |
+
+---
+
+## Part V / Ch 13 Checkpoint — Anti-Entropy Practice
+
+*Part V turns the atomic architecture toward preservation, calibration, and hearing. This checkpoint removes active draft scaffolding and aligns Ch13 with the promoted chapter sequence.*
+
+| Source (file · §/line) | Passage | Disposition |
+|---|---|---|
+| `as_part_05_anti_entropy_practice.md` · Part V title | Part title in active file read "Part V — Anti-Entropy in Practice" while the final plan names "Part V — Chain of Custody: Anti-Entropy in Practice"; the italic subtitle then duplicated "Chain of custody." | `RETUNED` — active part title now matches the final plan; subtitle now names the Part V sequence: preservation, calibration, auditure. |
+| `as_1_13_preservation.md` · Ch 13 Pass 1 | Active draft header and `## Draft notes (Ch13 v2)` block: restoration log, word-count target, CLAUDE convention pass, Codex compression notes, and old cross-reference map. | `REMOVED / PRESERVED HERE` — draft-process material removed from active manuscript. Substantive restoration history remains tracked here; old Ch5 cross-references superseded by current Ch6/Ch5 routing. |
+| `as_1_13_preservation.md` · Ch 13 Pass 1 | Stale routing and style residue: "Chapter 5 §5.3" for Patañjali's *gauḥ* example, "Appendix Part 3... develops the prosecution in full," "codification" in the heroic-erasure contribution list, "Chapter 4 supplied..." for the *siddha* principle, and "The book does not need that claim." | `RETUNED` — *apabhraṃśa* example now points to Ch6 §6.2; *siddha* principle points to Ch5; body-level courtroom spill and meta-pointer language removed; codification is marked as the pyramid's so-called contribution. |
+| `as_1_13_preservation.md` · Ch 13 Pass 2 | Argument/rhythm risk around preservation language: "chemistry of synthesis," "corrupted shadows," "unprotected human use," "normal direction of language," biological-process phrasing for *prākṛta*, "writing failed the test," and apex mention without masculine-pronoun follow-through. | `RETUNED` — Ch13 now aligns with Ch12's bonding-procedure vocabulary, distinguishes ordinary social flow from *sāṃskṛtika* degradation, treats writing as insufficient for immutable content rather than generally failed, and gives the apex a light masculine-pronoun drip without broadening it to ordinary participants. |
+| `as_endnotes.md`, `as_3_09_glossary.md` · Ch 13 support-note / cross-reference audit | Ch13's cited support note opened with "Ch 13 §13.5 uses... as..."; glossary still routed *dhātuḥ* / root recovery to Chapter 6 and described *upasarga* + *pratyaya* as "bonding chemistry"; heroic-erasure glossary pointed only to Chapter 2. | `RETUNED / FREEZE CANDIDATE` — cited note now states the example directly; glossary routes root rejection to Ch2 and atom proof to Ch10; bonding language matches Ch12/Ch13; heroic erasure now maps Ch1 introduction, Ch2 grammatical deployment, and Ch13/Ch14 preservation-calibration redeployments. |
+
+---
+
+## Ch 14 Checkpoint — Calibration Matrix
+
+*Ch14 develops the calibration matrix after Ch13 establishes preservation as an engineering problem. This checkpoint removes active draft scaffolding and aligns obvious routing/style residue before the argument pass.*
+
+| Source (file · §/line) | Passage | Disposition |
+|---|---|---|
+| `as_1_14_calibration.md` · Ch 14 Pass 1 | Active draft header and `## Draft notes (Ch14 v2)` block: restoration log, CLAUDE sharpening notes, Codex contribution inventory, endnote stubs, cross-reference map, and open figure items. | `REMOVED / PRESERVED HERE` — draft-process material removed from active manuscript. Figure items remain visible in `working/as_figure_production_queue.md`; substantive stubs remain cited in body notes. |
+| `as_1_14_calibration.md` · Ch 14 Pass 1 | Entry-pass style/routing residue: "This chapter develops / asks," "this book uses," "śāstrārtha frame / preservation frame," "affixation chemistry," "three frames," "The framing is wrong," "This section anchors," Ch1 Move 7 routing for the two-version claim, and unqualified "Praise Pāṇini as codifier." | `RETUNED` — opening now names the calibration matrix directly; bonding language matches Ch12/Ch13; category language replaces frame-language; two-version routing points to Ch2 §2.1; Pāṇini-as-codifier remains explicitly the pyramid's so-called recoding. |
+| `as_1_14_calibration.md` · Ch 14 Pass 1 follow-up | Remaining residue after entry cleanup: unqualified "praises Pāṇini as codifier," body-level "different verdict," and "audience-as-witness." | `RETUNED` — Pāṇini is now praised as "so-called codifier" only in the pyramid's vocabulary; "verdict" becomes classification; verification returns to the listening audience rather than courtroom witness language. |
+| `as_1_14_calibration.md` · Ch 14 Pass 2 | Argument/rhythm risks: opening over-repeated "matrix" hammering, singular "that principle" after a three-principle setup, "book-coined" meta-language for preservation-mode terms, literal-sounding "cryptographic hash," repeated "matrix" in the comparative mechanism paragraph, and an apex sentence without the masculine-apex drip. | `RETUNED` — opening now moves from fixed measure to held measure; the third principle is identified explicitly; coinage explanations no longer use book-meta language; hash language is marked as analogy; repeated matrix language is reduced; apex close now gives one precise masculine-pronoun drip without gendering ordinary people. |
+| `as_endnotes.md` · Ch 14 support-note audit | Ch14 mode notes still routed *smṛti*, *Flexture*, and *Auditure* to §14.2 though the active citations sit in §14.1; support-note prose repeated "book-coined" and "frame" language; the whole-language *sūtra*-discipline comparator pointed to Chapter 5 for categories now established in Chapter 6. | `RETUNED / FREEZE CANDIDATE` — deployments now point to §14.1; support-note prose uses term/category language; *Nāṭyaśāstra* documents rather than codifies gesture specification; comparator routing now points to Chapter 6. |
+
+---
+
+## Ch 15 Checkpoint — Aural Architecture
+
+*Ch15 follows the calibration matrix into audible operation. This checkpoint removes active draft scaffolding and aligns obvious style residue before the argument pass.*
+
+| Source (file · §/line) | Passage | Disposition |
+|---|---|---|
+| `as_1_15_aural.md` · Ch 15 Pass 1 | Active draft header and `## Draft notes (Ch15 v2)` block: restoration log, CLAUDE sharpening notes, Codex compression inventory, endnote stubs, and old cross-reference map. | `REMOVED / PRESERVED HERE` — draft-process material removed from active manuscript. Substantive restoration history remains tracked here; cited support notes remain in the body for later audit. |
+| `as_1_15_aural.md` · Ch 15 Pass 1 | Entry-pass style/routing residue: "This chapter follows / develops / gives," chapter-as-agent phrasing, "framing" at the *pāṭha* critique, witness/testimony language for lineages, literal-sounding "functioning as a cryptographic hash," "framework matter," "when this book is closed," and "The book calls it engineering." | `RETUNED` — opening and close now state the movement directly; hash language is marked as analogy; category/evidence language replaces frame and witness language; structural units no longer carry the action where direct argument phrasing works; the meta close now says the proper name is engineering. |
+| `as_1_15_aural.md` · Ch 15 Pass 2 | Argument/rhythm risks: hypothetical "If Sanskrit's preservation architecture is real," "mechanical character" for *Śikṣā* texts, clipped "Eleven..." hammer, over-compressed "who guards the guards?" sentence, overstrong "no documented contact" lineage claim, broad "No comparable..." claim, and Part VI as agent in the handoff. | `RETUNED` — the architecture now leaves an observable signature directly; *Śikṣā* prose says procedural; the eleven-*pāṭha* summary names the lock pattern; lineage independence is stated as non-centralized preservation with *śākhā*-governed difference; the comparison claim is scoped to cases considered here; the handoff now names the next question directly. |
+| `as_endnotes.md` · Ch 15 support-note audit | Ch15 support notes still carried body-residue after the argument pass: literal "cryptographic-hash /" wording, "The structural significance the chapter establishes," "chapter's deployment," broad "no comparable analog in any other ancient preservation tradition," "independent witnesses / witness testimony," and exact-match claims for Nambūdiri comparison. | `RETUNED / FREEZE CANDIDATE` — support notes now match the active body: hash language is analogy; Ch15 significance is named directly; comparative claims are scoped to surveyed traditions; lineage evidence is independent-check / recitational-agreement language; Nambūdiri wording now says comparable agreement at governed levels rather than overclaiming total exactness. |
+
+---
+
+## Ch 16 Checkpoint — Flexing the Retroflex
+
+*Ch16 begins Part VI by testing the retroflex row against the migration / substrate-borrowing account. This checkpoint removes active draft scaffolding and cleans entry-pass style residue before the argument pass.*
+
+| Source (file · §/line) | Passage | Disposition |
+|---|---|---|
+| `as_1_16_retroflex.md` · Ch 16 Pass 1 | Active draft header and `## Draft notes (Ch16 v2)` block: restoration log, CLAUDE sharpening notes, Codex compression notes, endnote stubs, and backward/forward cross-reference map. | `REMOVED / PRESERVED HERE` — draft-process material removed from active manuscript. Substantive restoration history remains tracked here; support notes remain cited in body for later audit. |
+| `as_1_16_retroflex.md` · Ch 16 Pass 1 | Entry-pass style residue: "chapter's epigraph," "this chapter's worked example," "this chapter's contribution," "framing" as category vocabulary, "hermeneutic," "myth / mythology," and "Volk-theoretical framework." | `RETUNED` — replaced with direct epigraph, worked-example, category, reading-apparatus, ancestor-fiction, and pedagogical-account language. No retroflex evidence or technical claim removed. |
+| `as_1_16_retroflex.md` · Ch 16 Pass 2 | Argument/rhythm risks: overstrong "absurd" in the migration counter-scenario, body-level "case-in-chief" / "verdict" / "closes the prosecution" courtroom language, and broad "the English failed" phrasing that could indict ordinary people rather than the colonial claim and its institutional successors. | `RETUNED` — the migration counter-scenario now says strained; the technical evidence is a test rather than a case-in-chief; the section title and Savarkar application target the colonial claim, colonial sound-field, colonial conduct, and colonial intellectual class; courtroom vocabulary is reduced in the body. |
+| `as_endnotes.md` · Ch 16 support-note audit | Ch16 support notes still over-routed several citations to §16.2, carried body-level courtroom/prosecution residue, used framework/framing/hermeneutic language in places where category/account/system language was cleaner, and left one related articulatory-spacing note with chapter-as-agent phrasing. | `RETUNED / FREEZE CANDIDATE` — substrate-borrowing material now routes to §16.1, articulation/mode material to §16.4, ārya/dāsa and colonial-claim material to §16.5; support-note prose now uses test/category/account/colonial-claim language and direct structural phrasing. |
+
+## Ch 17 Checkpoint — The Wrong Question
+
+*Ch17 moves from the retroflex test to the category error in the genealogical question itself. This checkpoint removes active draft scaffolding and aligns obvious cross-reference/style residue before the argument pass.*
+
+| Source (file · §/line) | Passage | Disposition |
+|---|---|---|
+| `as_1_17_wrong_question.md` · Ch 17 Pass 1 | Active draft header and `## Draft notes (Ch17 v2)` block: restoration log, Devanagari audit notes, Codex compression inventory, endnote stubs, and backward/forward cross-reference map. | `REMOVED / PRESERVED HERE` — draft-process material removed from active manuscript. Substantive restoration history remains tracked here; cited support notes remain in the body for later audit. |
+| `as_1_17_wrong_question.md` · Ch 17 Pass 1 | Entry-pass style/routing residue: old Ch6/Ch8/Ch4 routes inside the six-part architectural test, body-level prosecution/verdict language in the opening and handoff, "This book" self-reference, "mythology" contrast, chapter-as-agent phrasing, and an apex sentence without the masculine-pronoun drip. | `RETUNED` — routes now point to Ch2/Ch10, Ch16, Ch13-15, and Ch5; courtroom vocabulary is reduced in the body; self-reference is replaced with direct argument/reconstruction language; the Hindu-memory contrast says "story"; the apex receives one controlled masculine-pronoun drip. |
+| `as_1_17_wrong_question.md` · Ch 17 Pass 2 | Argument/rhythm risks: §17.4 could read as contempt for Sanskrit users rather than a charge against the pyramid's account; "burden reverses" carried courtroom residue; "hallucination" over-psychologized the claim; §17.6 overleaned on "escapees" and "more likely"; closing hammer was overly clipped. | `RETUNED` — §17.4 now targets Sanskrit's disciplines as misread by the pyramid's account rather than individual users; "default changes" replaces burden language; delusion/civilizational-error wording is cleaner; the migration reversal now says outward pressure and historically ordinary absorption; close now says the architecture collapses that move. |
+| `as_1_17_wrong_question.md`, `as_endnotes.md` · Ch 17 support-note audit | Ch17 support inventory missed active citations for the existing Nāsadīya and migration-trap notes; `retroflex-substrate-standard-account` still routed Ch17 to §17.4; origin notes carried framework/book/Codex/myth/prosecution residue. | `RETUNED / FREEZE CANDIDATE` — Ch17 now cites `nasadiya-sukta` and `migration-trap-movement-not-authorship`; retroflex routing points to §17.3; origin/support notes now use account/structure/story language and remove draft-process residue. |
+
+## Ch 18 Checkpoint — PIE in the Sky
+
+*Ch18 moves from the wrong-question argument to the imaginary ancestor itself. This checkpoint removes active draft scaffolding and aligns obvious routing/style residue before the argument pass.*
+
+| Source (file · §/line) | Passage | Disposition |
+|---|---|---|
+| `as_1_18_pie_in_sky.md` · Ch 18 Pass 1 | Active draft header and `## Draft notes (Ch18 v2)` block: restoration log, Devanagari first-use audit notes, Codex compression inventory, endnote stubs, and backward/forward cross-reference map. | `REMOVED / PRESERVED HERE` — draft-process material removed from active manuscript. Substantive restoration history remains tracked here; cited support notes remain in the body for later audit. |
+| `as_1_18_pie_in_sky.md` · Ch 18 Pass 1 | Entry-pass style/routing residue: old Ch1/Ch6 routes for the *dhātuḥ*-as-root recovery, body-level verdict/prosecution language, repeated "framework" language, chapter/book-as-agent phrasing, "Vedic witness," and a Ch18 close that could compete with the Finale. | `RETUNED` — routes now point to Ch2/Ch10; body courtroom vocabulary is reduced; repeated framework language is shifted toward account/category; self-reference and chapter-as-agent phrasing are reduced; the close now hands forward instead of resting the prosecution. |
+| `as_1_18_pie_in_sky.md` · Ch 18 Pass 2 | Argument/rhythm risks: residual "frame" and "recovering" vocabulary, courtroom-defense phrasing in §18.2, unquoted codification language around Pāṇini, overbroad "every existing category" / "no civilization" claims, unclear "they" near the close, and the final hammer still sounding like the formal verdict. | `RETUNED` — argument now says assumption/account/category; Pāṇini remains decoder while "codification" belongs to the pyramid's story; contact-linguistics claims are scoped to major categories and other known civilizations; machinery is named as the actor; the close keeps the doctrine-death claim while handing final verdict weight forward. |
+| `as_endnotes.md`, `as_3_09_glossary.md` · Ch 18 support-note audit | Ch18 support labels still pointed to old section locations; `Pratibimba` support referenced old example lists and a stale Preface/Ch2/Ch6/Ch9/Ch17 route; contact-linguistics notes still used framework/framing language around Ch18. | `RETUNED / FREEZE CANDIDATE` — deployments now route to active Ch18 sections; Ch18 worked-example lists match current body examples; `Pratibimba` glossary entry now points to Ch18 §18.6; support prose uses account/category/self-presentation language where the active register requires it. |
+
+## Ch 19 Checkpoint — Life After PIE
+
+*Ch19 moves from the dismantling of PIE to the affirmative account of what becomes visible after the false ancestor is removed. This checkpoint removes active draft scaffolding and aligns obvious entry/routing residue before the Svarbhānu/Atri integration pass.*
+
+| Source (file · §/line) | Passage | Disposition |
+|---|---|---|
+| `as_1_19_life_after_pie.md` · Ch 19 Pass 1 | Active draft header and `## Draft notes (Ch19 v2)` block: restoration log, Devanagari first-use audit notes, Codex compression inventory, endnote stubs, and backward/forward cross-reference map. | `REMOVED / PRESERVED HERE` — draft-process material removed from active manuscript. Substantive restoration history remains tracked here; cited support notes remain in the body for later audit. |
+| `as_part_07_life_after_pie.md`, `as_1_19_life_after_pie.md` · Ch 19 Pass 1 | Entry-pass style/routing residue: Part VII chapter-as-agent phrasing, "verdict" handoff language, Ch19 self-reference, "killed" language for the imaginary ancestor, repeated framework/framing language, and stale Romani / diaspora register. | `RETUNED` — Part VII now asks the question directly; recognition replaces verdict in the handoff; Ch19 opens with removal rather than killing; self-reference is reduced; account/category/form language replaces framework/framing where needed. |
+
+---
+
+## Epilogue Checkpoint — The Atris Find the Sun
+
+*The Epilogue now takes the Ṛgveda 5.40.9 recovery verse as its entry point: the Atris find the Sun after the Svarbhānu eclipse. This checkpoint removes active draft scaffolding while preserving the restoration inventory that governed the older v2 epilogue.*
+
+| Source (file · §/line) | Passage | Disposition |
+|---|---|---|
+| `as_2_01_epilogue.md` · Epilogue Pass 1 | Active draft header: v2 compression/restoration note, Tier 1/Tier 2/Tier 3 inventory, and Devanagari first-use audit summary before the epigraphless opening. | `REMOVED / PRESERVED HERE` — process metadata removed from active manuscript; substantive inventory remains summarized in this checkpoint. |
+| `as_2_01_epilogue.md` · Epilogue Pass 1 | `## Draft notes (Epilogue v2)` block: word count; restoration log for opening, §1, Brāhmī, swastika-systems, exhibits, inward correction, final mantra; Codex compression list; Devanagari audit; recall-from-anchor-chapter convention; backward/forward cross-reference inventory. | `REMOVED / PRESERVED HERE` — draft-process material removed from active manuscript. The active epilogue retains the restored content where still present; the audit/convention/cross-reference trail remains tracked here for later support-note and argument passes. |
+
+## Ch 9 Checkpoint — The Varṇamālā
+
+*Ch9 receives the Vāk sieve mantra as its epigraph and moves from the subcontinental sound-field to Sanskrit's selected sonomeric grid. This checkpoint preserves substantive body material removed during the first body pass.*
+
+| Source (file · §/line) | Passage | Disposition |
+|---|---|---|
+| `as_1_09_mapping_mouth.md` · §9.1 first body pass | Personal provenance for Figure 9.2: "I know of no earlier image that presents the inventory this way. I saw this arrangement while meditating on the architecture itself, in a state of sustained hyperfocus where the sounds had become positions, weights, colors, and paths — where engineering collided with poetic beauty." | `PARKED / PRESERVED HERE` — removed from active Ch9 to keep the opening centered on the Vedic sieve, *varṇamālā*, and the garland image. Available for a later author's-note, figure note, or provenance note if desired. |
 
 ---
 
