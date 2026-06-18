@@ -30,13 +30,15 @@ The second half adds radiance. Friends recognize friendship in that formed Speec
 
 Pyramids and hilltop cities announce power through height, mass, and command. Hindu sacred architecture often works through another instinct. Its aim is **दिव्यता (*divyatā*)** — radiance, presence, light — more than **भव्यता (*bhavyatā*)**, sheer grandness. The *garbhagṛha* is the cleanest example: a small, concentrated chamber where darkness, lamp, threshold, axis, and मूर्ति (mūrti) create presence. The engineering becomes poetic force.
 
-The curated heap then becomes ordered form. Sanskrit's own name for the selected sound-inventory is **वर्णमाला (*varṇamālā*)** — the garland of *varṇas*. The modern rendering here follows that name directly. When the sounds are visualized through Sanskrit's own vocabulary, they arrange themselves as what the name already says: a garland of chosen beads, woven for **वाक् (*Vāk*)** herself to wear. The poetry of the **माला (*mālā*)** carries the engineering inside beauty.
+The curated heap then becomes ordered form. Sanskrit's own name for the selected sound-inventory is **वर्णमाला (*varṇamālā*)** — the garland of *varṇas*. 
+
+The figure below is my modern rendering. The arrangement by place and effort is ancient, and the name varṇamālā already calls the inventory a garland; what I have not found is an earlier rendering that draws that garland as an articulatory mouth-map, each bead set at its own coordinate. I did not invent the order. The visual form was given to me. I saw it while meditating on the architecture itself, in a state of sustained hyperfocus where the sounds had become positions, weights, colors, and paths — where engineering collided with poetic beauty. That seeing was Vāk’s gift, as is the ability to write this book. When the sounds are visualized through Sanskrit’s own vocabulary, they arrange themselves as what the name already says: a garland of chosen beads, woven for Vāk herself to wear. I returned it to her, strung. The poetry of the माला (mālā) carries the engineering inside beauty.
 
 The word is poetic and precise. A garland differs from a heap. Each bead is chosen, shaped, placed, and strung in an order that can be carried. The *varṇamālā* does the same with sound. It is the quintessence of **दिव्यता (*divyatā*)**: engineering made radiant.
 
 ![Figure 9.2 — The *varṇamālā* as the sonomer garland: selected sounds strung as a measured sonomer inventory.](figures/mapping_mouth/varnamala_sonomer_garland.svg){#fig:ch9-sonomer-garland width=100%}
 
-The garland language matters because it preserves Sanskrit's own way of seeing this sound-inventory. These are measured sound-particles before they become "letters": **sonomers**. A sonomer is what Sanskrit calls a *varṇa*: a selected, measured, repeatable unit of sound.
+The word garland is important because it preserves Sanskrit's own way of seeing this sound-inventory. These are measured sound-particles before they become "letters": **sonomers**. A sonomer is what Sanskrit calls a *varṇa*: a selected, measured, repeatable unit of sound.
 
 > **Sonomers: The Pre-Pāṇinian Sound-Units**
 >
