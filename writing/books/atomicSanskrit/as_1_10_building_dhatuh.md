@@ -16,11 +16,11 @@
 
 \bigskip
 
-Chapter 9 ended with selected sonomers. Construction is the next question: which sonomers combine into the first stable units that mean?
+Selected sonomers are now on the page. Construction is the next question: which sonomers combine into the first stable units that mean?
 
 Sanskrit's answer is the **धातुः (*dhātuḥ*)**.
 
-The category-theft charge in Chapter 2 returned the word to its own category: not root, not stem, not word, but constituent — the stable semantic unit or atom that holds identity while larger forms assemble around it. Chapter 9 supplied the sonomers, **अक्षराणि (*akṣarāṇi*)**, and **मात्रा (*mātrā*)**. The construction question is now direct: how do measured sonomers become semantic atoms?
+The category-theft charge has already returned the word to its own category: not root, not stem, not word, but constituent — the stable semantic unit or atom that holds identity while larger forms assemble around it. The sonomers, **अक्षराणि (*akṣarāṇi*)**, and **मात्रा (*mātrā*)** are now available. The construction question is direct: how do measured sonomers become semantic atoms?
 
 ## 10.1 *Sūtra-Lakṣaṇam* — The Design Specification
 
@@ -33,7 +33,7 @@ Sanskrit already carries a design specification for compact engineered form. The
 5. **अस्तोभम् (*astobham*)** — without padding: economy.
 6. **अनवद्यम् (*anavadyam*)** — faultless: stable form.
 
-Together, these six characteristics produce **सूत्रलाघवम् (*sūtra-lāghavam*)**: engineered brevity. The form is short, but the recoverable structure is large. The *sūtra* is compact, clear, meaningful, wide-facing, economical, and stable.
+Together, these six characteristics produce **सूत्रलाघवम् (*sūtra-lāghavam*)**: engineered brevity. The form is short, but the structure it holds is large. The *sūtra* is compact, clear, meaningful, wide-facing, economical, and stable.
 
 A *sūtra* is known to be made. No one claims a *sūtra* botanically grew into its precise form. A mind compressed it, removed excess, protected clarity, packed meaning into it, made it usable across contexts, and left it stable enough for the lineage to carry.
 
@@ -43,7 +43,7 @@ That recurrence is what **fractal** means here. The word is used in its working 
 
 ## 10.2 From Sūtra to Dhātuḥ — The Fractal Question
 
-The argument now follows the design one scale downward. A *sūtra* is a crafted sentence. A *dhātuḥ* is not a sentence, not a word, and not a grammatical rule. The earlier charge restored the category: constituent, semantic atom, stable bearer. The question is whether the same characteristics of engineered compactness reappear inside it.
+The design now moves one scale downward. A *sūtra* is a crafted sentence. A *dhātuḥ* is not a sentence, not a word, and not a grammatical rule. The category is already set: constituent, semantic atom, stable bearer. The question is whether the same characteristics of engineered compactness reappear inside it.
 
 The verse gives the six characteristics in its own order. The tests proceed in engineering order:
 
@@ -55,15 +55,15 @@ The consequence is large. If the *dhātuḥ* passes the test, Sanskrit's basic s
 
 ## 10.3 From Sonomers to Semantic Atoms
 
-Chapter 9 closed with selected sonomers. Chapter 10 begins with those sonomers and asks how *varṇāḥ* become the atomic units of Sanskrit's word-engine.
+Selected sonomers are the starting point. The next question is how *varṇāḥ* become the atomic units of Sanskrit's word-engine.
 
 The *varṇamālā* (वर्णमाला) is the sonomeric inventory. A small cluster of these sonomers creates the **धातुः (*dhātuḥ*)**.
 
-The category-theft charge in Chapter 2 prosecuted the botanical metaphor and reclaimed *dhātuḥ* from the philological mistranslation that calls it a "root." The positive replacement starts here. Sanskrit does not have botanical roots. It has atoms — and the atom is the *dhātuḥ*.
+In Chapter 2, the category-theft charge prosecuted the botanical metaphor and reclaimed *dhātuḥ* from the philological mistranslation that calls it a "root." The positive replacement is direct. Sanskrit does not have botanical roots. It has atoms — and the atom is the *dhātuḥ*.
 
-The metaphor is physical, not biological. Across Indic sciences, *dhātuḥ* names the constituent that holds: in *Loha-śāstra* (लोहशास्त्र), the metal that survives extraction; in *Rasaśāstra* (रसशास्त्र) and *Rasāyana-śāstra* (रसायनशास्त्र), the reactive constituent in synthesis; in *Āyurveda* (आयुर्वेद), the structural tissue from which the body is built.[NOTE: rasashastra-chemistry-anticipation][NOTE: saptadhatu-canonical] Furnace, laboratory, body, sentence: the same architectural word. The grammatical *dhātuḥ* belongs in that family.
+The metaphor is physical, not biological. Across Indic sciences, *dhātuḥ* names the constituent that holds: in *Loha-śāstra* (लोहशास्त्र), the metal that survives extraction; in *Rasaśāstra* (रसशास्त्र) and *Rasāyana-śāstra* (रसायनशास्त्र), the reactive constituent in synthesis; in *Āyurveda* (आयुर्वेद), the structural tissue from which the body is built.[NOTE: rasashastra-chemistry-anticipation][NOTE: saptadhatu-canonical] Furnace, laboratory, body, sentence: the same architectural word. The grammatical *dhātuḥ* belongs in that family. *Dhātuḥ* survived the demotion to "root"; the discipline that accepted the demotion lost access to what the term was naming.
 
-Chapter 0 introduces the *Dhātupāṭha* (धातुपाठ) as the inventory of semantic atoms. The working inventory here is **2,168 *dhātavaḥ*** from that source.[NOTE: dhatupatha-count-and-ganas] The examples can now be plain: **कृ (*kṛ*)**, to do or make; **गम् (*gam*)**, to go; **भू (*bhū*)**, to be or become; **दृश् (*dṛś*)**, to see; **ज्ञा (*jñā*)**, to know. These are not words. They are the atoms from which words are assembled.
+The *Dhātupāṭha* (धातुपाठ) is the inventory of semantic atoms. The working inventory here is **2,168 *dhātavaḥ*** from that source.[NOTE: dhatupatha-count-and-ganas] The examples can now be plain: **कृ (*kṛ*)**, to do or make; **गम् (*gam*)**, to go; **भू (*bhū*)**, to be or become; **दृश् (*dṛś*)**, to see; **ज्ञा (*jñā*)**, to know. These are not words. They are the atoms from which words are assembled.
 
 Comparative perspective sharpens the category: Sanskrit is not alone in knowing sub-word semantic generators. Semitic languages carry consonantal semantic roots; Tamil grammar recognizes verbal bases.[NOTE: dhatu-cross-linguistic-analogues] What distinguishes the Sanskrit *dhātuḥ* is the full architecture around it: sonomeric inventory, timing, scaffold, bonding, and rule-system.
 
@@ -112,7 +112,7 @@ The sequence is exact:
 
 The atom is therefore not only spatially assembled. It is temporally measured.
 
-Chapter 9 established the timing grid. The same shorthand now applies at atomic scale: **C** is the consonantal event, **V1** is the short-vowel nucleus, and **V2** is the long-vowel nucleus. The notation is not typographic. It is temporal.
+At atomic scale, the same timing shorthand applies: **C** is the consonantal event, **V1** is the short-vowel nucleus, and **V2** is the long-vowel nucleus. The notation is not typographic. It is temporal.
 
 That means a *dhātuḥ* is not merely a sequence of sounds. It is a measured construction. *Kṛ* (कृ) is C + V1. *Gam* (गम्) is C + V1 + C. *Bhū* (भू) is C + V2. The timing is inside the label.
 
@@ -260,7 +260,7 @@ The *dhātuḥ* is where Sanskrit places semantic force. It is not a sonomeric o
 | धा (*dhā*) | place, hold, put | दधाति (*dadhāti*), धातु (*dhātu*), विधान (*vidhāna*), निधान (*nidhāna*) |
 | ज्ञा (*jñā*) | know | जानाति (*jānāti*), ज्ञान (*jñāna*), अज्ञान (*ajñāna*), विज्ञान (*vijñāna*), प्रज्ञा (*prajñā*) |
 
-The table is not offered as etymological decoration. It shows what *sāravat* means at the atomic scale. Tiny forms carry recoverable force. कृ (*kṛ*) is not large, but it can generate action, actor, object, obligation, refinement, and transformation. भू (*bhū*) is not large, but it carries being and becoming. गम् (*gam*) carries motion into travel, arrival, scripture, and joining.
+The table is not offered as etymological decoration. It shows what *sāravat* means at the atomic scale. Tiny forms carry semantic force. कृ (*kṛ*) is not large, but it can generate action, actor, object, obligation, refinement, and transformation. भू (*bhū*) is not large, but it carries being and becoming. गम् (*gam*) carries motion into travel, arrival, scripture, and joining.
 
 This is where engineering-poetry enters. Sanskrit does not treat sonomers as interchangeable filler. Flow-actions cluster around liquids and continuants — *sar* (सर्), *cal* (चल्), *car* (चर्), *dru* (द्रु), *plu* (प्लु), *sru* (स्रु), *kṣar* (क्षर्). Abrasion, diminishment, and cutting cluster around harsher sound-shapes — *kṣay* (क्षय), *kṣat* (क्षत), *kṣaṇ* (क्षण्), *kṣam* (क्षम्), *klam* (क्लम्), *kṣud* (क्षुद्), *kṣap* (क्षप्).
 
@@ -312,7 +312,7 @@ The compact *krādi* <img src="figures/_shared/icons/scaffold_cv1_gray.svg" styl
 
 The same scaffolds that compress the inventory also carry Sanskrit in use. The *racanā* is not a naming convenience. It is part of the architecture.
 
-The claim remains bounded. This section does not yet identify the full procedural behavior of individual sonomers. It shows that the measured scaffold survives the move from inventory to Sanskrit in use. Chapter 11 asks the next question: once the scaffolded atom exists, how does Sanskrit activate it into a *kriyāpada* without losing sonomeric precision?
+The claim remains bounded. This section does not yet identify the full procedural behavior of individual sonomers. It shows that the measured scaffold survives the move from inventory to Sanskrit in use. The next question is procedural: once the scaffolded atom exists, how does Sanskrit activate it into a *kriyāpada* without losing sonomeric precision?
 
 The *dhātuḥ* passes the fifth test. It is *viśvatomukham*: one compact atom can face many directions without losing the center from which those directions unfold.
 
@@ -322,7 +322,7 @@ The final test is stability. **अनवद्यम् (*anavadyam*)** means fa
 
 The *dhātuḥ* survives. कृ (*kṛ*) remains visible in *karoti*, *karma*, *kartṛ*, *kārya*, *saṃskāra*, *prakṛti*, and *vikṛti*. भू (*bhū*) remains visible in *bhavati*, *bhūta*, *bhāva*, and *saṃbhava*. गम् (*gam*) remains visible in *gacchati*, *gamana*, *gati*, *āgama*, and *saṅgama*. The forms change because bonding changes their grammatical and semantic direction. The atom does not become vague.
 
-This is why Chapter 11 matters. When the *dhātuḥ* becomes *kriyā*, the rule-system still operates at the sonomeric level. The atom does not enter an undifferentiated word mass. It enters a procedure. The sonomers remain visible enough for operations to act on them.
+That stability makes the next scale necessary. When the *dhātuḥ* becomes *kriyā*, the rule-system still operates at the sonomeric level. The atom does not enter an undifferentiated word mass. It enters a procedure. The sonomers remain visible enough for operations to act on them.
 
 The *dhātuḥ* passes the final test. It is *anavadyam*: stable through use, visible through bonding, preserved through transformation.
 
@@ -380,7 +380,7 @@ Second, *la* (ल) operates as a structural neutralizer. It sits near the diagon
 
 Third, the *ṛ* (ऋ) / *ra* (र) bridge exposes the engineering at the vowel-consonant boundary. ऋ is the *r*-principle as vowel-core. र is the same principle as consonantal bonder. Sanskrit places both in the *mūrdhanya* field, then makes both disproportionately active. Under *yaṇ-sandhi*, vocalic ऋ resolves into र before a following vowel — the same articulatory principle crossing the vowel/consonant boundary, taking nuclear form in the *svara* table and bonding form in the *vyañjana* table.
 
-The larger proof belongs to the next chapter. Chapter 11 shows the atom entering procedure: activation sonomers arrive, the *dhātuḥ* changes in governed ways, and the finished *kriyāpada* molecule remains traceable back to the atom. Chapter 10 only needs the bridge. The atom is not assembled from inert letters. It is assembled from sonomers whose behavior is already patterned.
+The full procedural account belongs to the next scale. Activation sonomers arrive, the *dhātuḥ* changes in governed ways, and the finished *kriyāpada* molecule remains traceable back to the atom. The bridge is enough here. The atom is not assembled from inert letters. It is assembled from sonomers whose behavior is already patterned.
 
 ## 10.15 The Atomic Corollary
 
@@ -392,7 +392,7 @@ Each clause carries the argument.
 
 ***Unit of stable identity.*** The *dhātuḥ* (धातुः) is what the *vyākaraṇa* discipline treats as the fundamental semantic atom. Every Sanskrit verb form, every nominal derivative of a verb, every *kṛdanta* (कृदन्त, primary derivative) and every *taddhita* (तद्धित, secondary derivative) formation traces back to a *dhātuḥ*. The *dhātuḥ* is the place where derivation begins and to which morphological analysis returns. It is the unit of identity in the system's combinatorial chemistry.
 
-***Holding its structure through bonding.*** A *dhātuḥ* combines with *upasargāḥ* (उपसर्गाः) and *pratyayāḥ* (प्रत्ययाः) — the bonding chemistry Chapter 12 develops — without losing its identity. Take *kṛ* (कृ). It appears in *karoti* (करोति, does), *kāryam* (कार्यम्, that which is to be done), *kartṛ* (कर्तृ, the doer), *karma* (कर्म, the deed), *saṃskāra* (संस्कार, the consecration), *prakṛti* (प्रकृति, original nature), and *vikṛti* (विकृति, modification). Across these forms, *kṛ* persists as the recognizable atomic unit. The *upasargāḥ* and *pratyayāḥ* attach to it and modify the molecular meaning, but they do not consume the atom. The atom is what comes through every bond intact.
+***Holding its structure through bonding.*** A *dhātuḥ* combines with *upasargāḥ* (उपसर्गाः) and *pratyayāḥ* (प्रत्ययाः) — the bonding chemistry developed at the assembly scale — without losing its identity. Take *kṛ* (कृ). It appears in *karoti* (करोति, does), *kāryam* (कार्यम्, that which is to be done), *kartṛ* (कर्तृ, the doer), *karma* (कर्म, the deed), *saṃskāra* (संस्कार, the consecration), *prakṛti* (प्रकृति, original nature), and *vikṛti* (विकृति, modification). Across these forms, *kṛ* persists as the recognizable atomic unit. The *upasargāḥ* and *pratyayāḥ* attach to it and modify the molecular meaning, but they do not consume the atom. The atom is what comes through every bond intact.
 
 ***Without losing its constitutive form.*** The *dhātuḥ* (धातुः) does not mutate. The *dhātuḥ* in *karoti* (करोति) is the same *dhātuḥ* in *karma* (कर्म), in *saṃskāra* (संस्कार), in the *Vedas*, in the *Bhagavad Gītā*, in the *Rāmāyaṇa*. The form is the constant; what varies is what bonds to it.
 
@@ -400,7 +400,7 @@ Each clause carries the argument.
 
 The naming convergence at two adjacent levels is itself the signal. The Sanskrit continuum names the form-level unit ***akṣara*** (अक्षर) — the imperishable, that which does not flow away, the visible capture of a stable sound-bond, the audiograph of Appendix Part 3 — and the semantic-level unit ***dhātuḥ*** (धातुः) — the constituent constant that holds through bonding. Both names assert the same architectural property: persistence of identity through transformation. The convergence is not coincidence; it is the architecture naming what is engineered.
 
-The corollary's consequences run forward. Chapter 11 develops the next level of assembly: how the *dhātuḥ* becomes *kriyā* while preserving sonomeric precision. Chapter 12 develops the bonding chemistry that produces *śabdāḥ* and *vākyāni*. Chapter 13 develops the preservation problem the architecture must solve once the system is in use.
+The corollary's consequences run forward. The next levels are *kriyā*, bonding chemistry, *śabdāḥ*, *vākyāni*, and the preservation problem the architecture must solve once the system is in use.
 
 The corollary's consequences run backward as well. The diagnoses of the philological dogma — Chapter 2 on the botanical fallacy, Chapter 17 on the wrong question, and Chapter 18 on PIE in the sky — are now anchored by the Atomic Corollary's positive content. The point is not only that the pyramid's account is wrong. The account is wrong because the architecture is atomic, and atomic architectures do not behave the way the dogma's botanical model assumes.
 
@@ -424,7 +424,7 @@ The *dhātuḥ* displays the same **लक्षणानि (*lakṣaṇāni*)*
 
 The *dhātuḥ* behaves like a *sūtra* at atomic scale.
 
-Chapter 7 introduced **ॐ (*oṃ*)** as the shortest audible compression of Sanskrit's sound-anatomy. Chapter 8 surveyed the sound-field. Chapter 9 shaped the selected field into the *varṇamālā*. The same discipline is now visible inside the *dhātuḥ*. Now the recurrence can be stated.
+First came **ॐ (*oṃ*)** as the shortest audible compression of Sanskrit's sound-anatomy. Then came the sound-field and the selected field shaped into the *varṇamālā*. The same discipline is now visible inside the *dhātuḥ*. Now the recurrence can be stated.
 
 The śāstra does not treat Oṃ as a casual sacred sound. The Chāndogya calls it the essence of essences. The Māṇḍūkya gives the fractal formula: **ॐ इत्येतदक्षरमिदं सर्वम् (*oṃ ity etad akṣaram idaṃ sarvam*)** — this *akṣara* Oṃ is all this — and extends the claim across what was, what is, what will be, and what stands beyond the three times. It then unfolds the single syllable as **अ-उ-म् (*a-u-m*)** and the unmeasured fourth. The Taittirīya says, "Oṃ is Brahman; Oṃ is all this." The Kaṭha condenses what all the Vedas declare into one answer: Oṃ. In this vocabulary, Oṃ is the acoustic seed of *Sanātan*: the time-transcending claim made audible in one *akṣara*.[NOTE: om-vocal-tract-macro-gesture]
 
@@ -436,8 +436,8 @@ The first scale is the specified sound inventory. The *varṇamālā* already ha
 
 Oṃ is the single-syllable sūtra. The *varṇamālā* is the sonomeric sūtra. The *dhātuḥ* is the atomic sūtra. The grammatical *sūtra* is the rule-scale expression of the same discipline. Four visible scales. One signature. The architecture is fractal.
 
-What else in Sanskrit carries the same discipline? Chapter 14 answers that question at the scale of the whole language.
+What else in Sanskrit carries the same discipline? The whole-language answer comes with calibration.
 
 The next chapters follow that discipline upward. Atoms become action, word, and sentence, but Sanskrit does not blur the sonomer.
 
-The atom is now built. Chapter 11 asks how the *dhātuḥ* becomes a *kriyāpada* molecule.
+The atom is now built. The next scale asks how the *dhātuḥ* becomes a *kriyāpada* molecule.
