@@ -91,8 +91,8 @@ for _texdir in (
 #             \part{} break only; otherwise optional prose after \part{})
 #   title     canonical title rendered into the assembled markdown
 #   subtitle  optional one-line italic subtitle below \part{} for "part"
-#             entries — the courtroom-arc map (locked in
-#             working/courtroom_framing/implementation_plan.md). None when
+#             entries — the eclipse-arc map (see
+#             working/eclipse_spine_conversion_plan.md). None when
 #             absent.
 
 

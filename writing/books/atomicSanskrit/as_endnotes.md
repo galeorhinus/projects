@@ -590,7 +590,7 @@ The mistrust is local and structural. It applies to the philological dating of I
 
 **Short:** The standard *yat bhūta-hitam atyantaṃ tat satyam* is a sandhi-dissolved citation of the Mahābhārata's Vana Parva formulation: *yad bhūta-hitam atyantaṃ tat satyam iti dhāraṇā* — "that which is ultimately beneficial to beings is held to be truth." Commonly cited as *Mahābhārata* 3.200.4, with numbering variation across editions.
 
-**Deployments:** Part I courtroom threshold — the older test behind the prosecution; Epilogue §The Contest of Architectures — the standard that explains why *āryatva* is desirable.
+**Deployments:** Part I opener — the older test behind the shadow-casting; Epilogue §The Contest of Architectures — the standard that explains why *āryatva* is desirable.
 
 The active citation uses the unsandhied form of the Mahābhārata's ethical definition of truth:
 
@@ -612,14 +612,14 @@ Source note: the verse is commonly cited as *Mahābhārata*, Vana Parva 3.200.4 
 
 **Short:** Maitrāyaṇī Saṃhitā 1.9.3 gives the Part I opener its sat/asat axis: the devas are created by truth and become truth; the asuras are created by untruth and become untruth.
 
-**Deployments:** Part I opener epigraph — the truth/untruth warrant for the deva/asura contrast the prosecution develops institutionally as the *asuric pyramid*.
+**Deployments:** Part I opener epigraph — the truth/untruth warrant for the deva/asura contrast the book develops institutionally as the *asuric pyramid*.
 
 The passage occurs in the Kṛṣṇa Yajurveda's Maitrāyaṇī Saṃhitā at MS 1.9.3. GRETIL's reference scheme marks `MS_n,nn.nn` as Maitrāyaṇī Saṃhitā Kāṇḍa, Prapāṭhaka, and Anuvāka; the relevant line appears under `MS_1,9.3`. In the GRETIL electronic text, based on Leopold von Schroeder's edition, the passage reads: *satyena devān asṛjatānṛtenāsurāṃs te devāḥ satyam abhavann anṛtam asurāḥ*. The Part I opener should print a sandhi-resolved form for readability:
 
 > सत्येन देवानसृजतानृतेनासुरान् ।\
 > ते देवाः सत्यमभवन्ननृतमसुराः ॥
 
-The translation is interpretive in one deliberate respect: *deva* is rendered as "radiant ones" to preserve the book's light vocabulary, while *asura* is left as *asura* because the prosecution treats it as a structural term rather than flattening it into a casual English equivalent.
+The translation is interpretive in one deliberate respect: *deva* is rendered as "radiant ones" to preserve the book's light vocabulary, while *asura* is left as *asura* because the book treats it as a structural term rather than flattening it into a casual English equivalent.
 
 Source note: GRETIL, *Maitrāyaṇī-Saṃhitā*, based on Leopold von Schroeder, ed., *Maitrāyaṇī Saṃhitā. Die Saṃhitā der Maitrāyaṇīya-Śākhā* (Leipzig, 1881-1886; repr. Wiesbaden, 1970-1972), electronic preparation credited on the GRETIL page to Makoto Fushimi / TITUS and Jost Gippert.
 

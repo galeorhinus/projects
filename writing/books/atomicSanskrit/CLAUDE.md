@@ -47,7 +47,7 @@ Target: ~115,000 prose words + ~5,000 endnotes ≈ ~120,000 manuscript (raised 2
 
 ### Drafts (open as needed)
 
-Front matter: `as_0_01_preface.md` (Preface), `as_0_02_acknowledgements.md` (Acknowledgments — author thanks, expandable), and `as_0_03_prologue.md` (Prologue — *The Prosecution*; the dedicated prosecutorial-frame announcement that sits between Preface and Ch 0; courtroom-framing Touchpoint 1, locked 2026-05-19; `as_0_04_note_on_notes.md` follows the Prologue). Body chapters: `as_1_00_seekers.md` (Ch 0) through `as_1_19_life_after_pie.md` (Ch 19). Epilogue: `as_2_01_epilogue.md` (renamed 2026-05-19 from *The Atomic Corollary Going Forward* to *Make the World Ārya*). Appendix parts: `as_3_01_baking.md` through `as_3_06_vedic_carrier.md`. **Book division structure** (locked 2026-05-19): Front Matter / Prologue / Parts I–VII / Epilogue / Appendices. Part VI now contains Chs 16–18 (cross-examination + verdict); Part VII contains Ch 19 alone (the remedy). Each division carries an italicized courtroom-arc subtitle in the TOC files; full map in `working/courtroom_framing/implementation_plan.md`.
+Front matter: `as_0_01_preface.md` (Preface), `as_0_02_acknowledgements.md` (Acknowledgments — author thanks, expandable), and `as_part_00_overture_shankha.md` (Overture — *The Śaṅkha*; the eclipse-war ignition between Preface and Ch 0), with `as_0_04_note_on_notes.md` following. (The former Prologue `as_0_03_prologue.md`, *The Prosecution*, is **archived**: its content was re-narrated into the Part I opener when the courtroom frame was retired for the eclipse spine — see `working/eclipse_spine_conversion_plan.md`.) Body chapters: `as_1_00_seekers.md` (Ch 0) through `as_1_19_life_after_pie.md` (Ch 19). Epilogue: `as_2_01_epilogue.md` (renamed 2026-05-19 from *The Atomic Corollary Going Forward* to *Make the World Ārya*). Appendix parts: `as_3_01_baking.md` through `as_3_06_vedic_carrier.md`. **Book division structure**: Front Matter / Overture / Parts I–VII / Epilogue / Appendices. The book runs on the **eclipse spine** (Sūrya / Svarbhānu / Rāhu / the Atris); the former courtroom frame is retired. Part VI contains Chs 16–18 (*Dispelling Rāhu*); Part VII contains Ch 19 alone. Each Part carries an italicized eclipse-arc subtitle; full map in `working/eclipse_spine_conversion_plan.md`.
 
 **Filename convention.** Manuscript files carry a three-segment prefix `as_<zone>_<seq>_<slug>.md`:
 - **Zone** (single digit) encodes the document region: `0` = front matter; `1` = body chapters; `2` = end matter (epilogue); `3` = appendix parts.
@@ -197,9 +197,20 @@ Stacked deployment (Pāṇini first, then axes): used at the close of the Prefac
 
 **When the pyramid's terms appear in the book's own prose**, scare-quote on attribution (*the pyramid's "Classical Sanskrit"*); never use *Classical Sanskrit* unquoted as the book's own naming. The exception is Ch 1 §1.1 Move 7, where the pyramid's *"Vedic / Classical"* naming is quoted as the position the reader arrives carrying — and then dismantled. The Preface terminology note + Ch 1 §1.1 Move 7 are the canonical deployments of this convention; Ch 5 §5.6, Ch 14, Ch 16 §16.3, and Appendix Part 6 develop it.
 
+### Sanskrit typography — Devanagari as anchor, not wallpaper
+
+Use Devanagari to anchor terms at installation points. Do not make every Sanskrit term a bold Devanagari display.
+
+1. **Source passages.** Epigraphs, mantras, sūtras, and quoted śāstric passages use Devanagari + IAST + translation.
+2. **Load-bearing first use.** Major Sanskrit categories use Devanagari + IAST + gloss on first use in a chapter when the reader needs the anchor: **धातुः (*dhātuḥ*)** — semantic atom; **अक्षरम् (*akṣaram*)** — imperishable sound-unit.
+3. **Running prose.** After the first anchor, use IAST alone: *dhātuḥ*, *akṣara*, *chandas*, *bhāṣā*, *vaidika*, *laukika*. Do not repeat Devanagari unless the written form itself matters.
+4. **Bold.** Reserve bold Devanagari for installation moments, tables, figures, hammers, and terms being defined. Ordinary Devanagari does not need bold.
+5. **Familiar names.** Sanskrit, Veda/Vedas, Pāṇini, Gītā, Upaniṣad, and similar names use their normal English-facing forms unless the form itself is under analysis.
+6. **Figures.** Diagrams may make Devanagari primary; captions can carry IAST and glosses.
+
 ### Sanskrit grammar terms — name both systems
 
-When using English grammatical terminology (case names, mood / tense names, number names, etc.), always pair with the Sanskrit name on first use in a chapter or section — the same convention the book uses for Sanskrit lexical terms (Roman + Devanagari). The grammar terminology is itself a Sanskrit engineering artifact; using English alone naturalizes the *vyākaraṇa* tradition as if it were external linguistics. Pairing acknowledges the Sanskrit tradition's own categorical apparatus.
+When using English grammatical terminology (case names, mood / tense names, number names, etc.), always pair with the Sanskrit name on first use in a chapter or section — the same first-use anchor convention the book uses for Sanskrit lexical terms. The grammar terminology is itself a Sanskrit engineering artifact; using English alone naturalizes the *vyākaraṇa* tradition as if it were external linguistics. Pairing acknowledges the Sanskrit tradition's own categorical apparatus.
 
 **Cases — vibhakti (विभक्ति) pairings:**
 
@@ -237,7 +248,7 @@ When using English grammatical terminology (case names, mood / tense names, numb
 | Dual | *dvivacana* | द्विवचन |
 | Plural | *bahuvacana* | बहुवचन |
 
-**Deployment pattern:** first use in a chapter or section names both — e.g., *"the accusative (**dvitīyā vibhakti** द्वितीया विभक्ति)"*. Subsequent uses can use either form. Where the Sanskrit term is itself load-bearing (a *lakāra* name in a *chandasi* / *bhāṣāyām* contrast, for example), prefer the Sanskrit + English pair on every deployment. Examples of pairing: *the accusative (dvitīyā vibhakti)*; *the optative (liṅ-lakāra)*; *the Vedic subjunctive (leṭ-lakāra, deployed only in chandasi)*; *the dual (dvivacana)*.
+**Deployment pattern:** first use in a chapter or section names both — for example, "the accusative (*dvitīyā vibhakti* द्वितीया विभक्ति)." Subsequent uses can use either form. Where the Sanskrit term is itself load-bearing (a *lakāra* name in a *chandasi* / *bhāṣāyām* contrast, for example), prefer the Sanskrit + English pair on every deployment, but do not force Devanagari onto every repetition. Examples of pairing: *the accusative (dvitīyā vibhakti)*; *the optative (liṅ-lakāra)*; *the Vedic subjunctive (leṭ-lakāra, deployed only in chandasi)*; *the dual (dvivacana)*.
 
 ### Plain English primary; Sanskrit anchor when useful
 
@@ -448,7 +459,7 @@ If any appears, rewrite. Replace the abstract subject with a named agent, or dro
 
 ### *Heroic erasure* — naming the pyramid's move against the engineering thesis
 
-***Heroic erasure*** is the book's standing term for the move by which the *philological machinery* praises a named tradition-internal figure or tradition for some downstream contribution — codification, documentation, transmission, adaptation — while structurally denying the **engineering thesis** the praise is positioned to obscure. The engineering thesis is the book's central claim, named in the subtitle (*The Fractal Architecture of Sanātan*): Sanskrit was engineered, the *varṇamālā* / *dhātupāṭha* / calibration-matrix / multi-axis architecture is engineered, and the same design signature recurs from mouth to language. The praise is not generosity; it is the mechanism of the erasure. Naming a brilliant Indian *operator* is how the pyramid denies the architecture the operator was working within.
+***Heroic erasure*** is the book's standing term for the move by which the *philological machinery* praises a named tradition-internal figure or tradition for some downstream contribution — codification, documentation, transmission, adaptation — while structurally denying the **engineering thesis** the praise is positioned to obscure. The engineering thesis is the book's central claim, named in the subtitle (*The Fractal Calibration Architecture of Sanātan*): Sanskrit was engineered, Sanskrit is the calibrant, the *varṇamālā* / *dhātupāṭha* / calibration-matrix / multi-axis architecture is engineered, and the same design signature recurs from mouth to language. The praise is not generosity; it is the mechanism of the erasure. Naming a brilliant Indian *operator* is how the pyramid denies the architecture the operator was working within.
 
 The move has multiple deployments. **Pāṇini-as-brilliant-grammarian** (Ch1 §1.6, Ch14 §14.7) — celebration as the founder of generative linguistics, erasure of the engineered architecture Pāṇini was operating within and decoding rather than inventing. **The Prātiśākhya discipline as careful phonetics** — praise for documentation, erasure of the engineered phonology being documented. **The Śikṣā discipline as devoted teaching** — praise for transmission, erasure of the engineered specification being transmitted. **The brilliant adapter of Aramaic** (Ch13 §13.3) — praise for the script's surface organization, erasure of the *varṇamālā* the script renders. The shape is invariant: praise the surface or the documentation, deny that the depth was engineered, deny that engineers existed.
 

@@ -1,6 +1,6 @@
 # Chapter 0 — Zero, Seekers, and the Infinite
 
-*Draft v4. Setup chapter before the prosecution begins. Eight sections; opens with the pūrṇam invocation, moves through seekers, the reader's existing Sanskrit, the saṃskṛta/prākṛta distinction, finite-input/unbounded-output systems, and the civilization that holds the language. Current pass: tone and cross-reference cleanup. Voice: authoritative, not yet prosecutorial. Hands off to Chapter 1's finite-oppressor frame.*
+*Draft v4. Setup chapter before Part I exposes how the shadow is cast. Eight sections; opens with the pūrṇam invocation, moves through seekers, the reader's existing Sanskrit, the saṃskṛta/prākṛta distinction, finite-input/unbounded-output systems, and the civilization that holds the language. Current pass: tone and cross-reference cleanup. Voice: authoritative, not yet prosecutorial. Hands off to Chapter 1's finite-oppressor frame.*
 
 ---
 
@@ -150,9 +150,9 @@ At the end of the volume, a Vedic mantra returns to those who find the Sun when 
 
 ## Draft notes (Ch0)
 
-**Word count:** ~3,300 words across eight sections after Pass 5. Setup chapter between the Preface and Ch 1's finite-oppressor frame. The current scaffold opens with the *pūrṇam* puzzle, moves through seekers, the reader's existing Sanskrit, *saṃskṛta* / *prākṛta*, finite-input / unbounded-output systems, the caretaking civilization that holds Sanskrit, and the other-fractal handoff to the courtroom.
+**Word count:** ~3,300 words across eight sections after Pass 5. Setup chapter between the Preface and Ch 1's finite-oppressor frame. The current scaffold opens with the *pūrṇam* puzzle, moves through seekers, the reader's existing Sanskrit, *saṃskṛta* / *prākṛta*, finite-input / unbounded-output systems, the caretaking civilization that holds Sanskrit, and the other-fractal handoff to Part I.
 
-**Current architecture:** *Pūrṇam* puzzle (§0.1 — zero / infinity / wholeness frame) + *Seekers* (§0.2 — civilizational inquiry) + *Reader's Sanskrit* (§0.3 — Sanskrit already audible) + *Saṃskṛta / prākṛta* (§0.4 — held vs flowing) + *Infinity* (§§0.5–0.6 — generative words and place-value counting) + *Caretakers* (§0.7 — living transmission and *dharmo rakṣati rakṣitaḥ*) + close (§0.8 — fractal orientation, other fractal, courtroom, withheld Atri payoff).
+**Current architecture:** *Pūrṇam* puzzle (§0.1 — zero / infinity / wholeness frame) + *Seekers* (§0.2 — civilizational inquiry) + *Reader's Sanskrit* (§0.3 — Sanskrit already audible) + *Saṃskṛta / prākṛta* (§0.4 — held vs flowing) + *Infinity* (§§0.5–0.6 — generative words and place-value counting) + *Caretakers* (§0.7 — living transmission and *dharmo rakṣati rakṣitaḥ*) + close (§0.8 — fractal orientation, other fractal, the shadow cast, withheld Atri payoff).
 
 **Voice notes:**
 

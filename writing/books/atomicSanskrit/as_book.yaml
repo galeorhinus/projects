@@ -8,7 +8,7 @@
 
 # --- Book identity ---
 title: Atomic Sanskrit
-subtitle: "The Fractal Architecture of Sanātan"
+subtitle: "The Fractal Calibration Architecture of Sanātan"
 series: "Volume 1 of *Second Shanti*"   # Rendered onto the title page via header-includes below.
 author: Parag Tope
 lang: en-US
@@ -56,8 +56,8 @@ header-includes:
 #             \part{} break only; part entries may also carry opener prose)
 #   title     canonical title rendered into the assembled markdown
 #   subtitle  optional one-line italic subtitle below \part{} for "part"
-#             entries — the courtroom-arc map (locked in
-#             working/courtroom_framing/implementation_plan.md). Null when
+#             entries — the eclipse-arc map (see
+#             working/eclipse_spine_conversion_plan.md). Null when
 #             absent.
 #
 # Pandoc ignores keys it doesn't recognize; this `assembly` block coexists

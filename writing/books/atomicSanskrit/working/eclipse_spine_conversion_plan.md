@@ -274,6 +274,8 @@ The chapter order; every chapter's actual argument and evidence; the appendices'
 
 Multiple passes, not one edit. Each pass is one coherent unit, ends in a read-through + commit, with a build-check before moving on. **Claude does not auto-build** (`build_book.py` is author-triggered); the gate build-check is the author's eyeball. Passes 1–2 are the conversion; 3 is content; 4–6 are polish (any order / parallel).
 
+**Status (2026-06-21):** Passes 1–5 are committed, plus the spine-seam cleanup (Ch 0 / Ch 1 / Epilogue handoffs), the numerals thread (App 3 §3.5 + Ch 13), and the supporting-doc sync (CLAUDE.md, the yaml/build_book.py comments, the endnote deployment notes, the Ch 0/Ch 1 draft-notes). **Pass 6 (illustration) is the only conversion item still genuinely pending.** Separate follow-up: the TOC three-file family + `share/as_toc_share.md` need a full **rebuild** — they predate the AP0-promotion renumbering ("Chapter 1 — The Miscategorized Fractal," off-by-one body chapters), not just the spine swap. Build artifacts regenerate after the source/doc sync.
+
 **Pass 1 — Front matter (the face).**
 - [ ] Preface (`as_0_01`): compressed prose ledger (7 shadows) + stance, pointing to the schematic
 - [ ] Overture (`as_part_00`): re-narrate → lean Śaṅkha-against-the-dark (§5a)
