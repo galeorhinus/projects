@@ -41,7 +41,7 @@
 *The asurī māyā.*
 
 **Chapter 2 — Category Theft and Asurī Māyā**
-- 2.1 The Charge
+- 2.1 The Category Move
 - 2.2 The Metaphor Underneath
 - 2.3 Where Botany Works
 - 2.4 *Saṃskṛti* Made to Look Like *Prakṛti*
@@ -253,7 +253,7 @@
 - The Eclipse Is Over
 - What Recognition Makes Possible
 - The Contest of Architectures
-- The Exhibits
+- What the Architecture Shows
 - The Chronology Refusal
 - The Invitation
 - The Inward Correction

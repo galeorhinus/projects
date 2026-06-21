@@ -20,7 +20,7 @@ The same wound-line that opened the Preface returns here with the other half sup
 
 That is the work this ending asks the reader to enter.
 
-The shadow is cleared. Plate by plate the obscuration came off — descended, botanical, codified, alphabetic, abugida, sibling, early-literature — and Rāhu, the invented ancestor, was dispelled. What cast the shadow has a name: the asuric pyramid. The remedy began in Chapter 19, with the waves of transmission and the work of relearning.
+The shadow is cleared. Plate by plate the obscuration came off — Descended, Botanical, Codified, Alphabetic, Abugida, Sibling Language, Early Literature — and Rāhu, the invented ancestor, was dispelled. What cast the shadow has a name: the asuric pyramid. The remedy began in Chapter 19, with the waves of transmission and the work of relearning.
 
 Recovery is not revenge. The dharmic account is karmic. Action bears consequence, but restoration remains possible when action changes. The proper word is **प्रायश्चित्त (*prāyaścitta*)**: self-initiated atonement, internal accountability, correction by action.
 
@@ -86,7 +86,7 @@ The asuric formation cannot make that call. It has operated extraction, containm
 
 The architecture remains.
 
-## The Exhibits
+## What the Architecture Shows
 
 The polemical appendix supplies the exhibits.
 

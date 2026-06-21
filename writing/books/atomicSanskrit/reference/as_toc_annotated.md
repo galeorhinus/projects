@@ -157,7 +157,7 @@ The book also runs on an *eclipse spine*: Sūrya (Sanskrit) is obscured by the a
 
 **Chapter 2 — Category Theft and Asurī Māyā** — *Names the foundational category theft. Sanskrit belongs to the* saṃskṛti *category; the dogma splits it into natural drift before Pāṇini and codification after. Exposes the botanical metaphor, the* dhātuḥ *mistranslation, and the Pāṇini-as-codifier move as one theft, and names the engineered / encoded / decoded / codified stack.*
 
-- 2.1 The Charge — *The indictment: a created, calibrated architecture forced first into a botanical tree and then into a codified standard; the four-term stack table.*
+- 2.1 The Category Move — *The indictment: a created, calibrated architecture forced first into a botanical tree and then into a codified standard; the four-term stack table.*
 - 2.2 The Metaphor Underneath — *The family-tree metaphor that makes languages look botanical by default: roots, branches, daughters, descent, drift, decay.*
 - 2.3 Where Botany Works — *Botany works for natural languages that grow through use; Sanskrit must be tested against a different category.*
 - 2.4 *Saṃskṛti* Made to Look Like *Prakṛti* — *The category theft proper: a created order forced into the natural-growth frame.*
@@ -361,7 +361,7 @@ The book also runs on an *eclipse spine*: Sūrya (Sanskrit) is obscured by the a
 - The Eclipse Is Over — *The wound-line from the Preface returns with the other half supplied: the Atris found the Sun.*
 - What Recognition Makes Possible — *What becomes visible once Sanskrit is no longer forced to answer as a daughter of PIE.*
 - The Contest of Architectures — *Sanātan *vs. the fourth Abrahamic religion; the standard that explains why* āryatva *is desirable.*
-- The Exhibits — *The architecture re-presented as the body of evidence the recovery rests on.*
+- What the Architecture Shows — *The architecture re-presented as the body of evidence the recovery rests on.*
 - The Chronology Refusal — *Category before calendar, echoed at the close without turning chronology into deferred combat.*
 - The Invitation — *The outward turn: inviting the world once the carriers have relearned.*
 - The Inward Correction — *India must not build smaller pyramids inside itself; preserve Sanskrit as calibrant, let the* bhāṣās *flourish. The three residual shadows named as the Atris' work.*

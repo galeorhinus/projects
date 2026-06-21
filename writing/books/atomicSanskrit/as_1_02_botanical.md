@@ -2,7 +2,7 @@
 
 ---
 
-## 2.1 The Charge
+## 2.1 The Category Move
 
 The first charge is category theft: Sanskrit was made to answer in the wrong category.
 

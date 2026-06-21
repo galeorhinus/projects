@@ -1,108 +1,61 @@
-# Atomic Sanskrit: The Architecture of Sanātan
-### *Sound, Grammar, and the Engineering of Memory*
-
-**Working manuscript. Target length: 25,000–35,000 words.**
+# Atomic Sanskrit: The Fractal Calibration Architecture of Sanātan
+### *Volume 1 of Second Shanti*
 
 ---
 
 ## Core Thesis
 
-Sanskrit is unique among the world's languages: it was consciously created as a system and deliberately designed not to change. Its architecture begins not with inherited vocabulary but with organized sound. वर्णाः (varṇāḥ) combine into धातवः (dhātavaḥ); धातवः generate शब्दाः (śabdāḥ); शब्दाः become पदानि (padāni); पदानि form वाक्यम् (vākyam). This ground-up architecture makes Sanskrit less like a botanical organism and more like an atomic system — stable, compositional, generative, and resistant to entropy.
+Sanskrit is unique among the world's languages: it was **engineered** — consciously created as a system and deliberately designed not to change. Its architecture begins not with inherited vocabulary but with organized sound. वर्णाः (*varṇāḥ*) combine into धातवः (*dhātavaḥ*); धातवः generate शब्दाः (*śabdāḥ*); शब्दाः become पदानि (*padāni*); पदानि form वाक्यम् (*vākyam*). This ground-up architecture makes Sanskrit less like a botanical organism and more like an atomic system — stable, compositional, generative, and resistant to entropy.
+
+The book runs on an eclipse. Sanskrit is the Sun (Sūrya); the Western philological framework is the shadow drawn across it (Svarbhānu); the imaginary ancestor PIE is the eclipse-device, a head with no body (Rāhu). Each Part removes one shadow-layer and restores one solar quality, until Sanskrit stands visible again as what it is — and the reader is positioned to carry the recovery forward.
 
 ---
 
 ## Structure
 
 ### Front Matter
+- **Preface — The Eclipse.** The Vedic eclipse (Ṛgveda 5.40.5): Svarbhānu pierces Sūrya with darkness and the world goes field-blind. Names the seven shadows the world is shown, and the stance: category before calendar.
+- **Overture — The Śaṅkha.** The conch sounds against the dark; the two parties become visible — the seekers and caretakers, and the finite apex-order.
+- **Chapter 0 — Zero, Seekers, and the Infinite.** Sanskrit's character before the polemic: a language of seekers, freedom, and infinity.
+- **Chapter 1 — One, ___, and the Finite.** The antagonist: the asuric apex-one, the finite order that casts the shadow.
 
-**Preface.** Personal entry point and the civilizational stakes. Establishes why the botanical framing of Sanskrit feels structurally wrong long before it can be argued.
+### Part I — How the Shadow Is Cast (*the asurī māyā*)
+- **Chapter 2 — Category Theft and Asurī Māyā.** A created, calibrated architecture forced first into a botanical tree, then into a codified standard.
+- **Chapter 3 — Motive and Method.** Why the metaphor survives: three pillars (custody, enclosure, ascent) and containment as the method.
+- **Chapter 4 — The Fourth Abrahamic Religion.** Secular progressivism as the institutional carrier — the church of progress.
 
-**Introduction — The Wrong Question.** The dominant question in modern linguistic discourse is *from what did Sanskrit descend?* This book argues the question is malformed. Sanskrit demands a different question: *how was Sanskrit built not to decay?*
+### Part II — The Sun's Own Account (*created, anti-entropic, calibrated*)
+- **Chapter 5 — Siddha and Kārya.** Patañjali: the bond between word and meaning is established (*siddha*), not produced.
+- **Chapter 6 — Apabhraṃśa and Entropy.** The grammarians named entropy and engineered against it; the calibrant introduced.
 
----
+### Part III — The Sun's Sound-Body (*sonomeric, not alphabetic*)
+- **Chapter 7 — Oṃ: The Anatomy of Sound.** The voice as the original instrument; the apparatus mapped twice.
+- **Chapter 8 — The Subcontinental Sound-Field.** The field Sanskrit selects from; the coverage surveys.
+- **Chapter 9 — The Varṇamālā: The Sonomeric Grid.** The selected grid; *varṇa* is a measured sound-particle, not a letter.
 
-### Part I — The Wrong Metaphor
+### Part IV — The Sun's Atoms (*particle, atom, molecule, assembly*)
+- **Chapter 10 — Building the Dhātuḥ.** Sonomers become semantic atoms, tested against the six *sūtra-lakṣaṇāni*.
+- **Chapter 11 — Building the Kriyā.** Atoms become verbal molecules; the *Dhātupāṭha* as the table of reactive atoms.
+- **Chapter 12 — Building the Vākya.** Molecules become sentence assemblies without loss.
 
-*Two chapters. The botanical metaphor dismantled quickly so the affirmative architecture takes the foreground.*
+### Part V — The Sun Does Not Decay (*calibration from within*)
+- **Chapter 13 — Why Preservation Needs Engineering.** Anti-entropy as the engineering problem; *aural*, not *oral*.
+- **Chapter 14 — The Calibration Matrix.** Six engineered preservation layers; the Vedas as encoded perfection, not datable literature.
+- **Chapter 15 — Aural Architecture.** The recitation lineages: the engineering running today, without observable drift.
 
-**Chapter 1 — The Miscategorized Fractal.** The nineteenth-century family-tree model works for natural languages but fails when applied to Sanskrit's engineered architecture. The chapter shows how a *saṃskṛti* fractal was split into two false categories: natural drift before Pāṇini and codification after Pāṇini.
+### Part VI — Dispelling Rāhu (*not descended, not sibling*)
+- **Chapter 16 — Flexing the Retroflex.** *Āryatva* as a phonetic engineering achievement, not a race.
+- **Chapter 17 — The Wrong Question.** Genealogy asks the wrong question; movement is not authorship.
+- **Chapter 18 — PIE in the Sky.** PIE is the average of the reflections, mistaken for a source.
 
-**Chapter 2 — Why the Pyramid Needs the Tree.** Why the botanical metaphor has been institutionally defended for over 150 years. Three pillars it protects: the racial Arya thesis, Biblical chronology, and — most potent today — the secular dogma of progress. The third pillar survives where the first two have weakened, and is why the engineering thesis remains controversial in present-day academia.
-
----
-
-### Part II — The Sanskrit Self-Conception
-
-*Three chapters anchoring the engineering claim in primary Sanskrit sources.*
-
-**Chapter 3 — सिद्ध (Siddha) and कार्य (Kārya).** Patañjali's *Mahābhāṣya* and the explicit grammatical claim that the bond between word and meaning is *siddha* — established and permanent — not *kārya* — produced and contingent.
-
-**Chapter 4 — अपभ्रंश (Apabhraṃśa) and the Recognition of Entropy.** Sanskrit grammarians explicitly recognized linguistic entropy and explicitly designed against it. Modern historical linguistics treats change as the governing principle of language; Sanskrit grammar treats change as deviation from a preserved standard.
-
-**Chapter 5 — Reclaiming the धातुः.** *Dhātuḥ* recovered as a precise civilizational term meaning structural constituent — semantic atom — consistent across grammar, Ayurveda, and metallurgy. Sets up the atomic model that follows.
-
----
-
-### Part III — The Sound-Field
-
-*Three chapters anchoring Sanskrit in the physical geography of the Indian subcontinent.*
-
-**Chapter 6 — The वर्णमाला (Varṇamālā) as Phonetic Grid.** Sanskrit's classification of sounds by physiological articulation. Not how natural alphabets evolve; how engineered systems are designed.
-
-**Chapter 7 — The Retroflex Anchor.** The मूर्धन्य (mūrdhanya) set as the acoustic signature of the Indian subcontinent — uniquely Indic and largely absent from European linguistic lineages. Anchors Sanskrit's physics to its civilizational geography.
-
-**Chapter 8 — The Subcontinental Superset.** The retroflex articulation, the five-zone axis, and the broader phonetic architecture pervade non-Indo-European languages of the subcontinent (Tamil, Kannada, Munda, Santhali, Manipuri, others). Sanskrit is a mathematically engineered subset of a pre-existing Indic acoustic superset — not a daughter of a migrating Indo-European parent.
-
----
-
-### Part IV — The Atomic Architecture
-
-*Three chapters presenting the affirmative model. The heart of the book.*
-
-**Chapter 10 — Building the धातुः (Dhātuḥ).** The selected sonomers become semantic atoms. The chapter tests the *dhātuḥ* against the six *sūtra-lakṣaṇāni*: small, waste-free, unambiguous, essence-bearing, many-facing, and faultless in use.
-
-**Chapter 11 — Building the क्रिया (Kriyā).** The semantic atom becomes a verbal molecule. The chapter shows the procedure by which *dhātavaḥ* enter the *gaṇa* operations, take activation sonomers, and become usable *kriyāpadāni*.
-
-**Chapter 12 — Building the वाक्य (Vākya).** The molecular level expands into sentence-level assembly. *Upasargāḥ* and *pratyayāḥ* act as bonding chemistry; *śabdāḥ*, *padāni*, and *vākyāni* become the next levels of construction.
-
----
-
-### Part V — Anti-Entropy in Practice
-
-*Three chapters demonstrating that the architecture has actually held in continuous operation.*
-
-**Chapter 13 — Why Preservation Needs Engineering.** Sanskrit's own vocabulary names entropy as *apabhraṃśa*. The chapter asks what kind of architecture could hold a language against that drift without turning it into an imperial standard imposed from above.
-
-**Chapter 14 — The Calibration Matrix.** The वेदाः (vedāḥ), *Prātiśākhya*, *Vyākaraṇam*, *Dhātupāṭha*, *Varṇamālā*, and *Chandas* operate as a six-layer calibration system, with *Śikṣā* training the human instrument that carries it.
-
-**Chapter 15 — Aural Architecture.** The शिक्षा (śikṣā) tradition and the eleven *pāṭhas* (saṃhitā, pada, krama, jaṭā, ghana, others) as observable, ongoing engineered redundancy. The architecture is not a hypothesis. It has been running continuously, without interruption, for as long as anyone can verify.
-
----
-
-### Part VI — Killing PIE
-
-*Three chapters returning to prosecution with the architecture in hand.*
-
-**Chapter 16 — Flexing the Retroflex.** The retroflex is not a late substrate borrowing. It is architectural, subcontinental, and central to the sound-system Sanskrit requires.
-
-**Chapter 17 — The Wrong Question.** PIE asks the wrong question of Sanskrit. Any valid precursor must explain the *varṇamālā*, the *dhātu* architecture, the retroflex core, and the preservation mechanisms. PIE explains none of these. The burden of proof shifts.
-
-**Chapter 18 — PIE in the Sky.** Final synthesis of the prosecution. PIE persists not because the racial and theological pillars still stand but because the dogma of progress demands that ancient sophistication descend from primitive antecedents.
-
----
-
-### Part VII — Life After PIE
-
-**Chapter 19 — Life After PIE.** What changes once Sanskrit is read as engineering rather than as a descendant of an imaginary ancestor.
-
----
+### Part VII — Life After PIE (*light after the eclipse*)
+- **Chapter 19 — Life After PIE.** The waves of Sanskrit's calibrant operation across the world; Wave 3 and the reader.
 
 ### Epilogue — Make the World Ārya
-
-The case made; the Epilogue leaves the courtroom frame and returns to the Indic frame: not punishment, but karma; not payback, but recalibration; and the return of a civilizational aspiration the modern world is trained to confuse with race.
+The eclipse is over: Svarbhānu's darkness did not win; the Atris found the Sun. Not punishment but karma; the residual shadows — institutional custody, public-knowledge lag, civilizational self-doubt — named as the work of the next generation of caretakers; the reader carries the cry.
 
 ---
 
 ## Final Thesis
 
-Sanskrit is not a branch on a European tree. It is an architecture of Sanātan built from the Indian sound-field. वर्णाः are phonetic particles; धातवः are semantic atoms; शब्दाः are molecular formations; पदानि are activated grammatical units; वाक्यम् is a complete semantic reaction. The वेदाः preserve this system as a calibration matrix against entropy; grammar makes its internal laws explicit. To understand Sanskrit, we must stop asking how it decayed from an imaginary ancestor and begin asking how it was built to not decay at all. And once we accept that it was built, we must accept its larger implication: the civilization that engineered Sanskrit was capable of engineering at the highest order, and what it built was not limited to a language. The architecture of preserved Indic wisdom is wider than the linguistic substrate alone. This book recovers one piece of it. Other pieces remain.
+Sanskrit is not a branch on a European tree. It is an architecture of *Sanātan* built from the Indian sound-field. वर्णाः are phonetic particles; धातवः are semantic atoms; शब्दाः are molecular formations; वाक्यम् is a complete semantic assembly. The वेदाः hold this system as a calibration matrix against entropy; grammar makes its internal laws explicit. The question is not how Sanskrit decayed from an imaginary ancestor, but how it was built not to decay at all. And the larger implication follows: a civilization that engineered Sanskrit engineered at the highest order — and what it built was not limited to a language. This is Volume 1 of *Second Shanti*; the wider architecture is the work ahead.
