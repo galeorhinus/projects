@@ -210,7 +210,17 @@ More sounds can weaken engineering. A language designed for long preservation mu
 
 Sanskrit's restraint is part of its design.
 
-## 9.9 The Grid Holds the Garland
+## 9.9 Varṇa Is Not Letter
+
+The reflex is to call these letters. The reflex imports an alphabet — a finished list of marks for writing down a language that already exists. The *varṇamālā* runs the other way: the sound-particles come first, and a mark for them comes later, if at all.
+
+A *varṇa* is a measured unit of sound — a *sthāna*, a *prayatna*, a voice setting, a nasal setting, a duration in *mātrā*. None of that is a property of a written shape. A letter is a sign read with the eye; a *varṇa* is an articulation made with the body. The *varṇamālā* is a sonomeric grid — sound-particles ordered by where and how the mouth makes them — not an alphabet of glyphs ordered by custom.
+
+The sequence proves it. An alphabet's order is arbitrary: *a, b, c* says nothing about the sounds. The *varṇamālā*'s order is the mouth itself — throat to lip, stop to nasal, short to long. The grid is the engineering; the marks are a later convenience.
+
+The pyramid files the architecture under its interface and calls it an alphabet. The *varṇa* flattens to "letter," the *akṣara* to "syllable-sign," the sonomeric grid to an ABC — and the engineering beneath the marks goes unseen. Restore the words and the engineering returns. The marks are downstream. The sound-architecture is the language.
+
+## 9.10 The Grid Holds the Garland
 
 The *varṇamālā* selects the sonomers. The *akṣara* stabilizes them. The *mātrā* measures them. The sound volume shows how the axes multiply. Now the system is ready to build atoms.
 

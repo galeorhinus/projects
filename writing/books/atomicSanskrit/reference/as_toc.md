@@ -1,6 +1,6 @@
 # Atomic Sanskrit — Table of Contents
 
-*The Fractal Architecture of Sanātan*
+*The Fractal Calibration Architecture of Sanātan*
 
 ## Front Matter
 
@@ -119,7 +119,8 @@
 - 9.6 Nuclei, Contacts, and the Measure
 - 9.7 The Sound Volume
 - 9.8 Engineered Margin
-- 9.9 The Grid Holds the Garland
+- 9.9 Varṇa Is Not Letter
+- 9.10 The Grid Holds the Garland
 
 ---
 

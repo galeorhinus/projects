@@ -206,7 +206,8 @@ The book's argument can be compressed into seven claims. The twenty-two supporti
 - 9.6 Nuclei, Contacts, and the Measure — *The* akṣara *as vowel-centered assembly;* mātrā *as timed measure.*
 - 9.7 The Sound Volume — *The 5×7 consonant plane extruded through the 14-vowel axis.*
 - 9.8 Engineered Margin — *What Sanskrit leaves out as collision-avoidance and preservation margin.*
-- 9.9 The Grid Holds the Garland — *The close: addressed, role-assigned, timed sonomers become the parts Chapter 10 snaps into atoms.*
+- 9.9 Varṇa Is Not Letter — *The Alphabetic shadow lifted: varṇa is a measured sound-particle, the varṇamālā a sonomeric grid, not an alphabet of marks.*
+- 9.10 The Grid Holds the Garland — *The close: addressed, role-assigned, timed sonomers become the parts Chapter 10 snaps into atoms.*
 
 ---
 
