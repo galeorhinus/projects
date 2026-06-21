@@ -98,7 +98,7 @@ At institutional scale, the recipes become repeatable moves. The asuric pyramid 
 
 **Teach surface as depth.** Virocana hears the teaching of the Self and returns with the body. The surface is made to answer as substance. Courtly use becomes source. Social location becomes architecture. Power vocabulary replaces engineering vocabulary.
 
-The attack on Sanskrit is a category attack. The pyramid leaves the word *Sanskrit* visible and decides what category the word is allowed to occupy. Once the category is stolen, the evidence is heard inside the wrong courtroom.
+The attack on Sanskrit is a category attack. The pyramid leaves the word *Sanskrit* visible and decides what category the word is allowed to occupy. Once the category is stolen, every fact is read inside it.
 
 The first move is ancestry theft. PIE is placed above Sanskrit, and Sanskrit is made downstream. The engineered calibrant becomes one branch among many. The real language must answer to an imaginary ancestor; the preserved system must answer to a reconstructed source; the visible architecture must answer to a star-marked form no known community ever spoke. Sūrya remains visible, but the sky has been darkened.
 
@@ -108,4 +108,4 @@ Together, these operations produce category theft. Sanskrit is made to answer in
 
 The apex has a grammar. At the summit sits the one who must own the field. He does not share authority with the distributed field. He converts the field into a base and calls his view the whole. Sanskrit threatens him because Sanskrit preserves an order with no apex at all.
 
-With that, the parties are present. The seekers and caretakers stand on one side. The finite order stands on the other. The next movement narrows the war into the pyramid's courtroom.
+With that, the parties are present. The seekers and caretakers stand on one side. The finite order stands on the other. What follows shows how the shadow is cast.

@@ -14,21 +14,17 @@
 
 \bigskip
 
-## The Prosecution Is Over
+## The Eclipse Is Over
 
 The same wound-line that opened the Preface returns here with the other half supplied. Svarbhānu's darkness did not win. The Atris found the Sun.
 
 That is the work this ending asks the reader to enter.
 
-The prosecution is over.
+The shadow is cleared. Plate by plate the obscuration came off — descended, botanical, codified, alphabetic, abugida, sibling, early-literature — and Rāhu, the invented ancestor, was dispelled. What cast the shadow has a name: the asuric pyramid. The remedy began in Chapter 19, with the waves of transmission and the work of relearning.
 
-The courtroom has done its work. The charge has been heard: PIE must die. The remedy began in Chapter 19 with the waves of transmission and the work of relearning. The asuric pyramid stands convicted as the perpetrator. The prosecution rests.
+Recovery is not revenge. The dharmic account is karmic. Action bears consequence, but restoration remains possible when action changes. The proper word is **प्रायश्चित्त (*prāyaścitta*)**: self-initiated atonement, internal accountability, correction by action.
 
-But the ending cannot remain inside the borrowed courtroom. The courtroom belongs to the adversarial imagination: law as command, guilt as violation, justice as punishment, verdict as victory over an opponent. *Sanātan* does not keep that ledger.
-
-The movement after verdict is not revenge. The dharmic account is karmic. Action bears consequence, but restoration remains possible when action changes. The proper word is **प्रायश्चित्त (*prāyaścitta*)**: self-initiated atonement, internal accountability, correction by action.
-
-***Convict the pyramid. Kill the invented ancestor. Find the Sun. Invite the world. Restore the standard.***
+***Break the shadow. Dispel the invented ancestor. Find the Sun. Invite the world. Restore the standard.***
 
 Hindu stories are full of **असुर (*asuras*)** jealous of **देव (*devas*, the radiant ones)** — jealous of what the *devas* possessed and the *asuras* could not earn, and full of the *asuras*' constant desire to appropriate, to control, to take what they did not possess. The nineteenth-century European pyramid wanted **आर्यत्व (*āryatva*)** with that same hunger. It wanted the respect attached to *ārya* — defined in *Sanātan*'s own terms by discipline, learning, restraint, skill, and a strict code of conduct (Chapter 16 §16.6) — without the work the word required.
 
@@ -38,7 +34,7 @@ So the pyramid redefined it.
 
 It made *ārya* about race, power, authority, ego, and the desire to lord over others.
 
-The pyramid is rejected; the aspiration remains. The verdict is death for PIE, not death for the people who inherited it. The remedy is not payback. The remedy is re-learning.
+The pyramid is rejected; the aspiration remains. PIE falls, not the people who inherited it. The remedy is not payback. The remedy is re-learning.
 
 ## What Recognition Makes Possible
 
@@ -136,6 +132,8 @@ The call is conditional. It cannot be made by anyone who wants the prestige with
 This is why *āryatva* is desirable. It is disciplined alignment with **सत् (*sat*)**, not **असत् (*asat*)**: clarity over obscurity, restraint over appetite, calibration over drift, welfare over domination.
 
 Sanskrit matters here because the Sanskrit fractal preserves that standard in architecture. Sound is measured. Speech is disciplined. Memory is calibrated. Knowledge is carried without apex command. When that architecture is made fully visible, it does not preach. It stands as a calibrant: those who wish can measure themselves against it and choose *sat* without turning truth into dogma.
+
+That is the bridge from Sanskrit to Sanātan: calibration does not remain trapped inside grammar. The same distributed discipline can recur in conduct, memory, knowledge, and social order.
 
 The invitation therefore goes outward to the whole field Sanskrit touched. To India, Pakistan, Bangladesh, Nepal, Sri Lanka, Afghanistan, Bhutan, and Maldives. To Iran, Europe, Russia, the Americas, Australia, and the Indo-European colonial-language world. To Tibet, China, Korea, Japan, Vietnam, Thailand, Laos, Cambodia, Myanmar, Mongolia, and the wider Buddhist Asian world. These peoples were taught to inherit fragments without knowing the source, reflections without seeing the calibrant, words and categories without being told what had touched them. The call asks them to relearn. Relearn what *ārya* means. Relearn Sanskrit. Relearn discipline, restraint, generosity, skill, and conduct. And especially to those still trapped inside the word *Aryan*: the invitation is not to recover a race, but to relearn a discipline. Do not claim *āryatva*. Become capable of it.
 

@@ -30,6 +30,16 @@ The verse belongs to the Svarbhānu sequence in Ṛgveda 5.40. The opening stops
 
 ---
 
+### `svarbhanu-svar-etymology`
+
+**Short:** *Svarbhānu* (स्वर्भानु) parses as *svar* (स्वर्, the bright heaven, the sun's realm of light) + *bhānu* (भानु, light, ray, the shining one) — the eclipse-asura's name carries the very solar light he obscures.
+
+**Deployments:** Part I opener ("How the Shadow Is Cast") — the *svar* wordplay; echoes the Preface's *Ṛgveda* 5.40.5 deployment.
+
+*Svar* (स्वर्) is the third of the three Vedic worlds, the realm of light and heaven (after *bhūḥ* and *bhuvaḥ*), and by extension the sun's brightness. *Bhānu* (भानु) means a ray or beam of light, and as a substantive the sun itself. *Svarbhānu*, the asura who pierces Sūrya with darkness in *Ṛgveda* 5.40.5, therefore bears a name assembled from two words for solar light — the irony the Preface and the Part I opener deploy: the obscurer is named for the radiance he hides. See the `rigveda-5-40-5-svarbhanu-eclipse` note for the verse and the full eclipse sequence.
+
+---
+
 ### `rigveda-5-40-atri-clearing`
 
 **Short:** The middle movement of Ṛgveda 5.40 belongs in Chapter 19: Svarbhānu's darkness is broken, the asurī māyā is dissolved, and Atri finds the hidden Sun through *turīya brahman* before the final Atri finding verse lands in the Epilogue.
