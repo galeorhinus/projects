@@ -29,6 +29,18 @@ Drawn from **Ṛgveda 5.40** (Svarbhānu eclipses Sūrya; the Atris alone recove
 
 **Svarbhānu / Rāhu — own the interpretive layering.** Canonically Rāhu *is* Svarbhānu's severed head (head = Rāhu, tail = Ketu). The Svarbhānu(apex-network) / Rāhu(eclipse-device) split is an *interpretive* move — state it deliberately. Payoff: **Rāhu is a head with no body — and PIE is exactly that, an ancestor with no speakers, immortal in the academy because it was never alive to be killed.** Resonance: Rāhu is a *chāyā-graha* (shadow-planet) ↔ **"PIE in the Sky"** (Ch 18).
 
+**Eclipse effect — original light vs eclipsed perception.** The Sun remains visible, but the world sees Sanskrit in the wrong light:
+
+| **The Sun** — what Sanskrit is | **The Eclipse** — what the world is shown |
+|---|---|
+| **Wholly Created** — *saṃskṛtam*: perfectly formed, completely made, brought into finished order. | **Descended** — made a PIE descendant: derivative, downstream, inherited from an imaginary ancestor. |
+| **Anti-entropic** — engineered against drift, decay, and loss. | **Botanical** — made a plant of roots, stems, branches, and daughters; the *dhātuḥ* read as a botanical "root," the language as something that grows, mutates, and decays. |
+| **Calibrated** — the standard lives inside sound, meter, grammar, recitation, lineage, and correction. | **Codified** — a drifting language allegedly stabilized by Pāṇini, grammar, authority, and late standardization. |
+| **Sonomeric** — measured sound-particles build semantic atoms, molecules, words, and sentences. | **Alphabetic** — the sonomeric grid is read as a mere alphabet: *varṇa* flattened to "letter," the engineering beneath the letters unseen. |
+| **Audiographic** — Indic scripts make articulated sound visible through the sonomeric grid. | **Abugida** — filed under an Ethiopian-derived typological term, its own sound-architecture left unnamed. |
+| **Calibrant** — other languages can be calibrated by it without becoming Sanskrit. | **Sibling Language** — treated as one language among siblings, a member of a family tree, not the measure by which the family was partially read. |
+| **Vedic Matrix** — the *Vedas*: encoded perfection preserved through recitation, meter, and lineage. | **Early Literature** — the *Vedas* become old texts in an evolutionary sequence, useful mainly for dating "Vedic Sanskrit." |
+
 **Masculine-apex synergy (thread already executed):** Svarbhānu is the *named* face the thread lacked. The AP0 keystone ("every apex is a he") seats **Svarbhānu** at its head. **Atri is a *male* restorer**, balancing the feminine Devī Māhātmya restorers (Durgā/Kālī) — holding converse-#2 exact: *the apex is invariably male; the restorer varies.*
 
 ---
