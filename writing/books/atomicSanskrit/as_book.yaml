@@ -100,8 +100,8 @@ assembly:
 
   - kind: part
     file: as_part_02_sanskrit_self_conception.md
-    title: "Part II — The Sanskrit Self-Conception"
-    subtitle: Internal testimony.
+    title: "Part II — The Sun's Own Account"
+    subtitle: Created, anti-entropic, calibrated.
   - kind: chapter
     file: as_1_05_siddha.md
     title: "Chapter 5 — *Siddha* and *Kārya*"
@@ -111,8 +111,8 @@ assembly:
 
   - kind: part
     file: as_part_03_sound_field.md
-    title: "Part III — The Sound-Field"
-    subtitle: Physical evidence.
+    title: "Part III — The Sun's Sound-Body"
+    subtitle: Sonomeric, not alphabetic.
   - kind: chapter
     file: as_1_07_adivadya.md
     title: "Chapter 7 — ॐ (*Oṃ*): The Anatomy of Sound"
@@ -125,8 +125,8 @@ assembly:
 
   - kind: part
     file: as_part_04_atomic_architecture.md
-    title: "Part IV — The Atomic Architecture"
-    subtitle: Technical evidence.
+    title: "Part IV — The Sun's Atoms"
+    subtitle: Particle, atom, molecule, assembly.
   - kind: chapter
     file: as_1_10_building_dhatuh.md
     title: "Chapter 10 — Building the *Dhātuḥ* (धातुः): Sanskrit's Atom"
@@ -139,8 +139,8 @@ assembly:
 
   - kind: part
     file: as_part_05_anti_entropy_practice.md
-    title: "Part V — Anti-Entropy in Practice"
-    subtitle: Chain of custody.
+    title: "Part V — The Sun Does Not Decay"
+    subtitle: Calibration from within.
   - kind: chapter
     file: as_1_13_preservation.md
     title: "Chapter 13 — Why Preservation Needs Engineering"
@@ -153,8 +153,8 @@ assembly:
 
   - kind: part
     file: as_part_06_killing_pie.md
-    title: "Part VI — Killing PIE"
-    subtitle: Cross-examination and verdict.
+    title: "Part VI — Dispelling Rāhu"
+    subtitle: Not descended, not sibling.
   - kind: chapter
     file: as_1_16_retroflex.md
     title: "Chapter 16 — Flexing the Retroflex"
@@ -168,7 +168,7 @@ assembly:
   - kind: part
     file: as_part_07_life_after_pie.md
     title: "Part VII — Life After PIE"
-    subtitle: The remedy.
+    subtitle: Light after the eclipse.
   - kind: chapter
     file: as_1_19_life_after_pie.md
     title: "Chapter 19 — Life After PIE"
