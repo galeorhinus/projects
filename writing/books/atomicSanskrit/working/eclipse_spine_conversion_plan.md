@@ -56,6 +56,7 @@ Current courtroom-coded title → candidate eclipse re-cast (final wording TBD):
 
 | Part | Current | Candidate eclipse re-cast |
 |---|---|---|
+| Overture | *The Śaṅkha* (currently the courtroom war-summons) | Keep the title; recast as **lean ignition** — the Śaṅkha sounds against the dark (see §5a) |
 | I | *The Prosecution* | **How the Shadow Is Cast** (the *asurī māyā*) |
 | II | *The Sanskrit Self-Conception* | **The Sun's Own Account** |
 | III | *The Subcontinental Sound-Field* (or current) | **The Sun's Sound-Body** |
@@ -66,6 +67,26 @@ Current courtroom-coded title → candidate eclipse re-cast (final wording TBD):
 | Finale | — | **The Atris Find the Sun** (already named) |
 
 Each opener should: (a) state the shadow being lifted, (b) name the Sun-row(s) being restored, (c) stay in hard-evidence / verdict-voice register (guardrail 5).
+
+## 5a. Front matter & the Overture
+
+**The Overture was a firewall — and the courtroom was the only thing it walled off.** It existed to keep the *foreign* juridical apparatus ("prosecution / accused / verdict") out of the clean conceptual chapters Ch 0 (zero, seekers, the infinite) and Ch 1 (one, the apex, the finite). Remove the courtroom and that quarantine need evaporates: **the eclipse is the book's native cosmic register**, and Ch 0 / Ch 1 are already its cast in conceptual form — Ch 0's seekers are the light-keepers (proto-Atris); Ch 1's apex is the shadow-caster (Svarbhānu's occupant). Sūrya-light-vs-shadow is the same air those chapters already breathe; it cannot "pollute" them.
+
+**So the Overture's job flips: firewall → ignition.** Keep it, but recast the Śaṅkha to **sound against the dark** — name the Sun eclipsed, make the two sides visible (the caretakers who will recover the light vs. the apex who casts the shadow), summon the recovery. The conch-against-rākṣasas is far more at home sounding into an eclipse than standing before a courtroom. It runs **lean** now — it no longer has to wall anything off, only ignite. The analytical frame (cast + ledger) lives in the Preface and the Part I opener; the Overture is pure invocation.
+
+**Latitude the courtroom never allowed:** small eclipse touches may now live *inside* Ch 0 / Ch 1 (the seekers as light-keepers, the apex as the one who darkens) — they read as continuous, not jammed in.
+
+**Front-matter division of labor (no redundancy):**
+
+| Piece | Job (eclipse frame) |
+|---|---|
+| **Preface** | The stance + the compressed prose ledger (the seven shadows), pointing to the schematic |
+| **Overture (Śaṅkha)** | Ignition: the conch sounds, the Sun is named eclipsed, the two sides become visible — lean |
+| **Ch 0** | The seekers — the light-keepers / proto-Atris |
+| **Ch 1** | The apex — the Him who casts the shadow |
+| **Part I opener** | The analytical "how the shadow is cast" (the cast: Sūrya / Svarbhānu / Rāhu) — already re-narrated |
+
+**Drop the standalone Prologue (`as_0_03`).** It was "The Prosecution," ~90% identical to the Part I opener; the re-narrated Part I opener now carries its content. Removing it deletes the last courtroom front-matter piece and tightens the run-in. (This makes guardrail 4's "dissolve into the Part I opener" concrete: dissolve = drop the file; its content lives in `as_part_01`.)
 
 ## 6. The audiography balance (the one structural gap)
 
@@ -143,6 +164,24 @@ The swastika is doubly apt here: an ancient solar sign and the book's emblem of 
 | Part VI | Core plates **1 Descended** and **6 Sibling Language** are removed; the chronology rim is cut where it binds Sanskrit's authorship. |
 | Finale / Epilogue | The Sun is visible again; four cracked plates remain as work for later Atris. |
 
+**Illustration cadence:** Use illustrations at openings, not at part endings. The beginning of the next part is the visible end-state of the previous part. This keeps the sequence cumulative without making each part carry a before/after pair.
+
+**Figure placement:**
+
+| Location | Figure state |
+|---|---|
+| **Preface** | Full three-component eclipse schematic: Sanskrit-Sun, 11-plate Svarbhānu/Rāhu-pyramid, and shadowed world/reader-field. |
+| **Ch 0** | Sanskrit-Sun close-up: glowing rounded swastika with `संस्कृतम्` and the four internal architecture words. |
+| **Ch 1** | Pyramid close-up: 11 plates, binding rim, apex, and shadow logic. |
+| **Part I opener** | Full eclipse; plates 1–3 intact but ready to be exposed. |
+| **Part II opener** | Plates 1–3 exposed/cracked; this is the state produced by Part I. |
+| **Part III opener** | Plates 2 and 3 removed; first real light reaches the field. |
+| **Part IV opener** | Plate 4 removed; no new plate targeted, but the light channels reveal deeper atomic architecture. |
+| **Part V opener** | Same removal state as Part IV, with internally structured light; the part now turns to preservation and Vedic matrix. |
+| **Part VI opener** | Plates 5 and 7 removed; wider light enters, and the remaining core descent/sibling plates are targeted. |
+| **Part VII opener** | Seven core plates removed; residual plates 8–11 remain cracked/exposed as work beyond the book. |
+| **Epilogue** | Atri recovery image: the Sun visible, the world/reader-field illuminated enough to act, and residual work named. |
+
 **Gentle Atri posture:** The author may be implied as one participant in the Atri work, but the prose should not make an in-your-face self-claim. Preferred mode: the Vedic mantra names the role; the book performs part of the recovery; the responsibility then moves to the caretakers. A possible direction, not final prose: *The mantra says the Atris found the Sun when others could not. This book removes enough shadow for the work to begin again. What remains cannot be cleared by one author.*
 
 ## 6b. Residual pieces beyond this book
@@ -195,7 +234,7 @@ Wave 3 *ṛṣis* / *ṛṣikās* and Atris are related but not identical.
 2. **Eclipse ledger + Preface landing.** Place a compressed prose ledger in the Preface and let the eclipse schematic (§6a) carry the full visual ledger.
 3. **Part-opener re-narration.** Re-code each opener + transition per §5, each naming the row(s) it restores; start with the **Part I opener** (the dissolved Prologue — the keystone seam).
 4. **Audiography balance.** The Ch 9 "Varṇa Is Not Letter" section + the Ch 13 §13.3 strengthening (§6).
-5. **Illustration pass.** Produce the eclipse schematic and decide whether it appears once as a full plate, recurs in simplified form at part openers, or appears in the Preface with part-opener variants (§6a).
+5. **Illustration pass.** Produce the Preface master schematic, Ch 0 / Ch 1 component close-ups, and part-opener state diagrams only. Do not add end-of-part diagrams; the next opener carries the previous part's visible result (§6a).
 
 ## 7a. Seam inventory (run 2026-06-20)
 
@@ -217,7 +256,7 @@ Wave 3 *ṛṣis* / *ṛṣikās* and Atris are related but not identical.
 1. **No chapters move.** Sequence is fixed.
 2. **No argument is lost.** The courtroom removal is a *re-narration*; every piece of evidence, every refutation, every endnote stays.
 3. **Inventory before re-narrating** — finish the seam list before editing prose, so nothing is left half-coded.
-4. **The Prologue is the keystone seam.** `as_0_03_prologue.md` ("The Prosecution") was already slated to dissolve into the Part I opener; that opener flips from "the prosecution can now begin" to "this is how the shadow is cast."
+4. **The Prologue is the keystone seam — and it is dropped.** `as_0_03_prologue.md` ("The Prosecution") dissolves into the Part I opener: drop the file; its content lives in the re-narrated `as_part_01`, which flips from "the prosecution can now begin" to "this is how the shadow is cast." See §5a for the front-matter division of labor.
 5. **Register discipline survives the swap.** The eclipse carries the *meaning*; the chapters stay hard-evidence / verdict-voice / named-agent. The eclipse frame must not pull the *execution* toward the devotional register (beautiful in a provenance note; fatal in Ch 18's PIE prosecution). This — not the courtroom — is what keeps the skeptic.
 
 ## 9. Open decisions
