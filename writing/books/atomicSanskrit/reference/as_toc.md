@@ -4,89 +4,94 @@
 
 ## Front Matter
 
-- Preface
-- **Chapter 0 — A Language of Seekers, Freedom, and Infinity**
-  - 0.1 The Puzzle of the Whole
-  - 0.2 A Culture of Seekers
-  - 0.3 The Reader's Sanskrit
-  - 0.4 *Saṃskṛtam* and *Prākṛtāni*
-  - 0.5 The Corpus at a Glance
-  - 0.6 The Sound Names Itself
-  - 0.7 A Language of Freedom — Word Order
-  - 0.8 A Language of Infinity — Words Without Limit
-  - 0.9 A Language of Infinity — Counting Without Limit
-  - 0.10 The Civilization That Holds It
-  - 0.11 Engineered Speech
-  - 0.12 What Follows
+- About the *Second Shanti* Series
+- **Preface — The Eclipse**
+  - What Was Eclipsed
+  - The Boy's Question
+  - The Pyramid's Clock
+  - Lineage and Method
+  - What Follows
 
 ---
 
-## Prologue — The Prosecution
+## Overture — The Śaṅkha
+*The war is already underway.*
 
 ---
 
-## Part I — The Wrong Metaphor
-*The charge.*
+**Chapter 0 — Zero, Seekers, and the Infinite**
+- 0.1 The Puzzle of the Whole
+- 0.2 A Culture of Seekers
+- 0.3 The Reader's Sanskrit
+- 0.4 *Saṃskṛtam* and *Prākṛtāni*
+- 0.5 A Language of Infinity — Words Without Limit
+- 0.6 A Language of Infinity — Counting Without Limit
+- 0.7 The Civilization That Holds It
+- 0.8 The Fractal Test
 
-**Chapter 1 — The Miscategorized Fractal**
-- 1.1 The Missing Third Category
-- 1.2 The Metaphor Underneath
-- 1.3 Where Botany Works
-- 1.4 *Saṃskṛti* Made to Look Like *Prakṛti*
-- 1.5 *Dhātuḥ* Is Not a Root
-- 1.6 Decoding, Not Codification
-- 1.7 The Charge
-
-**Chapter 2 — Why the Pyramid Needs the Tree**
-- 2.1 Three Explanations
-- 2.2 The Racial Pillar
-- 2.3 The Theological Pillar
-- 2.4 The Progress Pillar
-- 2.5 The Architecture of Containment
-
-**Chapter 3 — The Fourth Abrahamic Religion**
-- 3.1 The Fourth Religion
-- 3.2 The Two Dogmas
-- 3.3 The Church of Progress
-- 3.4 The Three Classes
-- 3.5 Bandin's Gate
-- 3.6 The Asuric Pyramid
+**Chapter 1 — One, ___, and the Finite**
+- 1.1 The apex-one
+- 1.2 The Fractal of Deformation
+- 1.3 Svarbhānu's Operation
+- 1.4 The Operations
 
 ---
 
-## Part II — The Sanskrit Self-Conception
-*Internal testimony.*
+## Part I — How the Shadow Is Cast
+*The asurī māyā.*
 
-**Chapter 4 — *Siddha* and *Kārya***
-- 4.1 The Grammar Before the Grammar
-- 4.2 The Opening Axiom
-- 4.3 The Choice: *Siddha* or *Kārya*
-- 4.4 The Bond Holds
-- 4.5 Sanskrit Begins from Permanence
+**Chapter 2 — Category Theft and Asurī Māyā**
+- 2.1 The Charge
+- 2.2 The Metaphor Underneath
+- 2.3 Where Botany Works
+- 2.4 *Saṃskṛti* Made to Look Like *Prakṛti*
+- 2.5 *Dhātuḥ* Is Not a Root
+- 2.6 Decoding, Not Codification
+- 2.7 The Theft Made Visible
 
-**Chapter 5 — *Apabhraṃśa* and Entropy**
-- 5.1 Entropy Has a Name
-- 5.2 Few Words, Many Corruptions
-- 5.3 *Gauḥ* and Its Fallings-Away
-- 5.4 Drift, Codification, Calibration
-- 5.5 Engineered Against Entropy
-- 5.6 Variation Is Not Drift
-- 5.7 The Calibrant Envelope
+**Chapter 3 — Motive and Method**
+- 3.1 Why the Tree Survived
+- 3.2 Custody: The Racial Pillar
+- 3.3 Enclosure: The Theological Pillar
+- 3.4 Ascent: The Progress Pillar
+- 3.5 Containment: The Method
 
-**Chapter 6 — The Architectural धातुः (*dhātuḥ*)**
-- 6.1 One Word, Many Sciences
-- 6.2 The External Sciences
-- 6.3 The Grammatical *Dhātuḥ*
-- 6.4 Recovery, Not Imposition
-- 6.5 The Replacement Metaphor
+**Chapter 4 — The Fourth Abrahamic Religion**
+- 4.1 The Fourth Religion
+- 4.2 The Two Dogmas
+- 4.3 The Church of Progress
+- 4.4 The Three Classes
+- 4.5 Bandin's Gate
+- 4.6 The Asuric Pyramid
 
 ---
 
-## Part III — The Sound-Field
-*Physical evidence.*
+## Part II — The Sun's Own Account
+*Created, anti-entropic, calibrated.*
+
+**Chapter 5 — *Siddha* and *Kārya***
+- 5.1 The Grammar Before the Grammar
+- 5.2 The Opening Axiom
+- 5.3 The Choice: *Siddha* or *Kārya*
+- 5.4 The Bond Holds
+- 5.5 Sanskrit Begins from Permanence
+
+**Chapter 6 — *Apabhraṃśa* and Entropy**
+- 6.1 Entropy Has a Name
+- 6.2 Few Words, Many Corruptions
+- 6.3 *Gauḥ* and Its Fallings-Away
+- 6.4 Drift, Codification, Calibration
+- 6.5 Engineered Against Entropy
+- 6.6 Variation Is Not Drift
+- 6.7 The Calibrant Envelope
+- 6.8 The Fall Is Not Only Linguistic
+
+---
+
+## Part III — The Sun's Sound-Body
+*Sonomeric, not alphabetic.*
 
 **Chapter 7 — ॐ (*Oṃ*): The Anatomy of Sound**
-
 - 7.1 आदिवाद्य (*Ādivādya*): The World's First Instrument
 - 7.2 The Vocal Apparatus
 - 7.3 Consonants Are Events
@@ -124,8 +129,8 @@
 
 ---
 
-## Part IV — The Atomic Architecture
-*Technical evidence.*
+## Part IV — The Sun's Atoms
+*Particle, atom, molecule, assembly.*
 
 **Chapter 10 — Building the *Dhātuḥ* (धातुः): Sanskrit's Atom**
 - 10.1 *Sūtra-Lakṣaṇam* — The Design Specification
@@ -159,7 +164,7 @@
 
 **Chapter 12 — Building the *Vākya* (वाक्य): Sanskrit's Molecular Assembly**
 - 12.1 From Verbal Molecule to Sentence Assembly
-- 12.2 The Bonding Chemistry
+- 12.2 The Bonding Procedure
 - 12.3 The *Kṛ* Atom as Flagship
 - 12.4 Head-Bonds: How *Upasargāḥ* Redirect the Atom
 - 12.5 Tail-Bonds: How *Pratyayāḥ* Stabilize the Molecule
@@ -171,13 +176,13 @@
 
 ---
 
-## Part V — Anti-Entropy in Practice
-*Chain of custody.*
+## Part V — The Sun Does Not Decay
+*Calibration from within.*
 
 **Chapter 13 — Why Preservation Needs Engineering**
 - 13.1 What Sanskrit Has to Hold
 - 13.2 *Prākṛta*, *Saṃskṛta*, *Sanātan*
-- 13.3 Why Writing Failed the Test
+- 13.3 Why Writing Was Insufficient
 - 13.4 *Aural*, Not *Oral*
 - 13.5 *Calibrated*, Not *Codified*
 
@@ -199,15 +204,15 @@
 
 ---
 
-## Part VI — Killing PIE
-*Cross-examination and verdict.*
+## Part VI — Dispelling Rāhu
+*Not descended, not sibling.*
 
 **Chapter 16 — Flexing the Retroflex**
 - 16.1 The Substrate-Borrowing Claim
 - 16.2 The Retroflex Is Architectural
 - 16.3 The Acoustic Signature of a Subcontinent
 - 16.4 What the *Bhāṣā* Perimeter Left Outside
-- 16.5 The English Failed the Test
+- 16.5 The Colonial Claim Fails the Test
 - 16.6 The True Test of *Āryatva*
 
 **Chapter 17 — The Wrong Question**
@@ -233,7 +238,7 @@
 ---
 
 ## Part VII — Life After PIE
-*The remedy.*
+*Light after the eclipse.*
 
 **Chapter 19 — Life After PIE**
 - 19.1 Wave 1 — Pre-Pāṇinian Propagation
@@ -244,7 +249,15 @@
 ---
 
 ## Epilogue — Make the World Ārya
-*The closing statement.*
+
+- The Eclipse Is Over
+- What Recognition Makes Possible
+- The Contest of Architectures
+- The Exhibits
+- The Chronology Refusal
+- The Invitation
+- The Inward Correction
+- The Mantra
 
 ---
 
@@ -253,11 +266,35 @@
 ---
 
 ## Appendices
-*Exhibits.*
 
 - **Appendix Part 1 — Baking the Mother Tongue**
+  - 1.1 The Conversion-Extraction Nexus
+  - 1.2 The Pipeline
+  - 1.3 The Pundits and the Priests
+  - 1.4 The German Bake
+  - 1.5 Recipe After Recipe — The Dhātu Cluster Evidence
+  - 1.6 The Verdict — Continuity Across Independence
 - **Appendix Part 2 — The Encyclopaedic Confirmation**
+  - 2.1 The Fleet
+  - 2.2 A Choice, Not an Inheritance
+  - 2.3 The Project and Its Method
+  - 2.4 The Double Standard
+  - 2.5 Three Layers of Variation
+  - 2.6 The English Contrast
+  - 2.7 What the Project Cannot Show
+  - 2.8 The Reframe
+  - 2.9 जाड्यम् अपहन्यताम् (*Jāḍyam Apahanyatām*) — Let the *Jāḍya* Be Removed
 - **Appendix Part 3 — The Sonomer and the Audiograph: Sound Engineering, Pun Intended**
+  - 3.1 Sonomer First, Audiograph Second
+  - 3.2 The Interface Trap
+  - 3.3 The "Brilliantly Adapted" Move
+  - 3.4 What Aramaic Cannot Carry
+  - 3.5 The Aramaic-from-Brāhmī Thesis
+  - 3.6 Stone Preserves the Pyramid
+  - 3.7 Audiography — The Name Withheld
+  - 3.8 Three Design Cases: Sound, Script, Standard
+  - 3.9 The Foundational Claim on Writing
+  - 3.10 The Work Ahead
 - **Appendix Part 4 — The Subcontinental Sound-Field: Inventory Atlas and Control Surveys**
   - 4.1 The Atlas Method in Depth
   - 4.2 Santali-Inclusive Munda Control: 18 of 23
@@ -281,14 +318,26 @@
 - **Appendix Part 6 — The Architecture by the Numbers**
   - 6.1 Source and Method
   - Part A — The Sonomer Layer
+  - 6.2 *Varga* Columns — Cost × Distinguishability
+  - 6.3 Position-Conditional Preferences
+  - 6.4 The Cluster-Joiner Specialist Class
+  - 6.5 The *Mūrdhanya* Dual-Role Place
+  - 6.6 The *Ṛ* Signal and the *Ṛ* / *Ra* Bridge
   - Part B — The Construction Layer
+  - 6.7 Compression — Particle and *Akṣara* Counts
+  - 6.8 Cluster Inventory and the *Kṣ* Phenomenon
+  - 6.9 OCP and the Place × Place Matrix
+  - 6.10 *Vaicitrya* — Engineered Range in the Tail
   - Part C — The Operation Layer
+  - 6.11 *Gaṇa*-Specific Functional Matching
+  - 6.12 *Prayoga* Reactivity — The Path C Audit
   - Part D — The Productivity Layer
+  - 6.13 Productivity from Minimum + The Natural-Language Inversion
   - 6.14 Synthesis — The Eight Engineering Principles
   - 6.15 Replication — Two Reproducibility Bundles
 - **Appendix Part 7 — The Vedic Carrier**
   - 7.1 Corpus Before Manual
-  - 7.2 Three Vedic Examples (RV 1.1.1, RV 10.129.1, RV 3.62.10)
+  - 7.2 Three Verses — The Implicit Grammar in Operation
   - 7.3 The *Dhātu* Inventory in the Corpus
   - 7.4 The Overreach Called Evolution
   - 7.5 Meter, Not Decay
@@ -301,7 +350,7 @@
   - 8.4 Drift, Codification, Calibration
   - 8.5 Vedic-Internal Variation Is Not Decay
   - 8.6 Vedic and Classical Is the Wrong Pair
-  - 8.7 The Decoding Tradition Before Pāṇini
+  - 8.7 The Decoding Lineage Before Pāṇini
   - 8.8 Patañjali Gives the Order
   - 8.9 What Real Drift Looks Like
   - 8.10 The Same-Timeline Test
@@ -313,11 +362,11 @@
   - 8.16 Point-by-Point Response
   - 8.17 The Replacement Model
   - 8.18 Verdict
+- **Appendix Part 9 — Glossary**
 
 ---
 
 ## End Matter
 
+- A Note on the Notes
 - Endnotes
-- Bibliography
-- Index
