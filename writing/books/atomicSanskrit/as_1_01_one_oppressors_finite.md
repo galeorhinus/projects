@@ -40,11 +40,11 @@ The answer is always zero.
 
 The finite is all they have seen. The finite is all they can model. The finite then becomes all they are permitted to admit. The modern Scientist sitting at the apex has *observed effectively zero,* yet presides as though the measurable fragment were the whole. This is structural finitism.
 
-Genesis gives the same operation in scriptural key: a single beginning, a single command, a single authorized account of origin. The pyramid needs that first point. Once the beginning is owned, the sequence can be owned. Once the sequence is owned, the field can be judged from outside itself. In philology, PIE performs the same work. In chronology, the date performs the same work. Control the first point, and the rest can be made downstream.
+Genesis gives the same operation in scriptural key: one birth, one life, one death, one Heaven, one Hell. A single beginning, a single command, a single authorized account of origin, and a single final judgment at the end of the line. The pyramid needs that first point. Once the beginning is owned, the sequence can be owned. Once the sequence is owned, the field can be judged from outside itself. In philology, PIE performs the same work. In chronology, the date performs the same work. Control the first point, and the rest can be made downstream.
 
 The problem is not the views, knowledge, or ignorance of ordinary people inside the pyramid. The issue is the forceful, top-down imposition of finite ignorance by authorities. Ordinary confusion can be corrected; imposed ignorance hardens into rule. The apex takes reductive ideas, dresses them in grand terminology, and cements them as unquestionable dogma. The result is not knowledge. It is obedience.
 
-At the top of that geometry sits the apex-claimant. The boundless defeats his ownership. Distributed order lies beyond his command. Sanskrit threatens him because Sanskrit preserves order without needing him.
+At the top of that geometry sits the apex-claimant. The boundless defeats his ownership. Distributed order lies beyond his command. Sanskrit threatens him because Sanskrit preserves order without needing him. The one exposed by light becomes an enemy of light. That is the Svarbhānu pattern: exposure does not humble the apex; it hardens him into retaliation.
 
 That is the darkness of the asuras, and it is the darkness Sanskrit was engineered to fight.
 

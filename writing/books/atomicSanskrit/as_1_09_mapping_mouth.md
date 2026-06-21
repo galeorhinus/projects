@@ -216,7 +216,9 @@ The reflex is to call these letters. The reflex imports an alphabet — a finish
 
 A *varṇa* is a measured unit of sound — a *sthāna*, a *prayatna*, a voice setting, a nasal setting, a duration in *mātrā*. None of that is a property of a written shape. A letter is a sign read with the eye; a *varṇa* is an articulation made with the body. The *varṇamālā* is a sonomeric grid — sound-particles ordered by where and how the mouth makes them — not an alphabet of glyphs ordered by custom.
 
-The sequence proves it. An alphabet's order is arbitrary: *a, b, c* says nothing about the sounds. The *varṇamālā*'s order is the mouth itself — throat to lip, stop to nasal, short to long. The grid is the engineering; the marks are a later convenience.
+The sequence proves it. An alphabet's order is arbitrary: *a, b, c* says little about the sounds. The *varṇamālā*'s order is the mouth itself — throat to lip, stop to nasal, short to long. The grid is the engineering; the marks are a later convenience.
+
+Once the *varṇamālā* exists, script becomes implementation. The engineering lies in the ordered sound-grid: place, effort, voice, breath, nasality, and duration held in stable relation. Representing those sounds with visible marks is a trivial, procedural implementation of a scalable, fractal idea. Writing gives that grid a visible interface, much as decimal notation gives place-value number a visible form.
 
 The pyramid files the architecture under its interface and calls it an alphabet. The *varṇa* flattens to "letter," the *akṣara* to "syllable-sign," the sonomeric grid to an ABC — and the engineering beneath the marks goes unseen. Restore the words and the engineering returns. The marks are downstream. The sound-architecture is the language.
 

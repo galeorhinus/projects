@@ -268,6 +268,8 @@ Sanskrit as calibrant. The natural languages of Central and West Asia as calibra
 
 The inversion is now visible. The living language was declared dead. The imaginary ancestor was granted life. Sanskrit was preserved, recited, taught, spoken, and still generative; the machinery treated it as a dead classical subject. PIE was preserved nowhere, recited nowhere, and performed by no known human community; the machinery installed it as ancestral life. The machinery gave life to an imaginary ancestor and called the living language dead.
 
+The Rāhu image from the Preface now becomes literal: a head without a body, granted position without life.
+
 The split collapses with it. Sanskrit before Pāṇini was not *prakṛti* waiting for an ancestor. Sanskrit after Pāṇini was not "codification" waiting for an authority. The same calibrated architecture runs through the Veda, through Pāṇini, and beyond Pāṇini. Once that continuity is seen, PIE loses its assigned work. It can no longer explain Sanskrit, because Sanskrit is the calibrant the explanation was built to hide.
 
 That judgment must now reverse. Sanskrit lives. PIE must die as doctrine because PIE never lived as language.

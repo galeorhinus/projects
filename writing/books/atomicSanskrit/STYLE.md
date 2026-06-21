@@ -22,6 +22,17 @@ When rewriting existing prose:
 - Break long analytical paragraphs into clear steps.
 - Preserve hammers, but make sure the reader has been prepared for them.
 
+## Sanskrit Term Typography
+
+Use Devanagari as an anchor, not as wallpaper.
+
+1. **Source passages:** epigraphs, mantras, sūtras, and quoted śāstric passages use Devanagari + IAST + translation.
+2. **Load-bearing first use:** major Sanskrit categories use Devanagari + IAST + a short gloss on first use in a chapter when the reader needs the anchor: **धातुः (*dhātuḥ*)** — semantic atom.
+3. **Running prose:** after first use, use IAST alone: *dhātuḥ*, *akṣara*, *chandas*, *bhāṣā*. Do not repeat Devanagari every time.
+4. **Bold:** reserve bold Devanagari for installation moments, tables, figures, hammers, and terms being defined. Ordinary Devanagari does not need bold.
+5. **Familiar names:** Sanskrit, Veda/Vedas, Pāṇini, Gītā, Upaniṣad, and similar names use their normal English-facing forms unless the written form itself matters.
+6. **Figures:** diagrams may make Devanagari primary; captions can carry IAST and glosses.
+
 ## Preferred Sentence Pattern
 
 Use this sequence often:

@@ -30,7 +30,7 @@
 | **Sonomeric** — measured sound-particles build semantic atoms, molecules, words, and sentences. | **Alphabetic** — the sonomeric grid is read as a mere alphabet: *varṇa* flattened to "letter," the engineering beneath the letters unseen. |
 | **Audiographic** — Indic scripts make articulated sound visible through the sonomeric grid. | **Abugida** — filed under an Ethiopian-derived typological term, its own sound-architecture left unnamed. |
 | **Calibrant** — other languages can be calibrated by it without becoming Sanskrit. | **Sibling Language** — treated as one language among siblings, a member of a family tree, not the measure by which the family was partially read. |
-| **Vedic Matrix** — the *Vedas*: encoded perfection preserved through recitation, meter, and lineage. | **Early Literature** — the *Vedas* become old texts in an evolutionary sequence, useful mainly for dating "Vedic Sanskrit." |
+| **Vedic Matrix** — the *Vedas*: encoded perfection preserved through recitation, meter, lineage, and calibration. | **Early Literature** — the *Vedas* reduced to old texts, scripture, ritual material, or chronological evidence, useful mainly for dating "Vedic Sanskrit." |
 
 *(**Āryatva** — mastery one attains — vs **racial Arya** — a race one is born into — is **not** a ledger row. Per §9-B it is handled as residual plate 11.)*
 
@@ -121,7 +121,7 @@ The swastika is doubly apt here: an ancient solar sign and the book's emblem of 
 4. **Alphabetic** — *varṇa* flattened to letter.
 5. **Abugida** — Indic scripts filed under an external typology.
 6. **Sibling Language** — Sanskrit as family-tree member, not calibrant.
-7. **Early Literature** — Vedas reduced to datable old texts.
+7. **Early Literature** — Vedas reduced to old texts, scripture, ritual material, and chronological evidence.
 
 **Residual plates left visible:**
 

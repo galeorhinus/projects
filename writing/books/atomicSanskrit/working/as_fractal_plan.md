@@ -1,7 +1,7 @@
 # Fractalizing *Atomic Sanskrit* — Mouth-to-Language Plan
 
 > *Working note. Saved 2026-05-28. Proposes the specific edits needed to
-> make the new subtitle — **The Fractal Architecture of Sanātan** — land
+> make the new subtitle — **The Fractal Calibration Architecture of Sanātan** — land
 > in the body of the book. Revised 2026-05-30: this volume proves the
 > linguistic fractal from mouth to language. Later *Second Shanti*
 > volumes carry the recurrence from language into polity, economy, and
@@ -893,7 +893,7 @@ numbers already show this; the appendix needs to name it.
 **Tier — Must.** Update the subtitle field:
 
 ```
-subtitle: "The Fractal Architecture of Sanātan"
+subtitle: "The Fractal Calibration Architecture of Sanātan"
 ```
 
 This propagates to the title page, the cover, and the build pipeline.

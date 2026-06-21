@@ -8,7 +8,7 @@ This is the radiant matrix.
 
 Chapter 9's epigraph gave the Vedic form of the same claim: ***bhadrā eṣām lakṣmīḥ nihitā adhi vāci*** — auspicious radiance is placed in Speech. The sieve and the garland showed how the sound-field becomes ordered Speech. The remaining question is how that radiance is held. The answer is the matrix: sound, meter, grammar, memory, and lineage acting together as calibration.
 
-Under the pyramid's clock, the *Vedas* shrink to early literature — old texts in an evolutionary sequence, valued mainly for dating *"Vedic Sanskrit."* The matrix answers that too. The *Vedas* are not a corpus waiting to be dated; they are encoded perfection, held across generations by sound, meter, recitation, and lineage. What the clock files as early is in fact the most precisely preserved.
+Under the pyramid's clock, the *Vedas* shrink to early literature: old texts, scripture, ritual material, and chronological evidence, valued mainly for dating *"Vedic Sanskrit."* The matrix answers that too. The *Vedas* are not a corpus waiting to be dated; they are encoded perfection, held across generations by sound, meter, recitation, lineage, and calibration. What the clock files as early is in fact the most precisely preserved.
 
 The matrix rests on three principles. First: the next generation is the archive. Content survives only when one generation receives it and transmits it to the next. Second: preservation must fit the human instrument. Human beings remember, recite, gesture, hear, discriminate, and correct. Third: the deepest systems use complementary pairs. The practitioner performs; the audience detects drift. The audience is not decorative. The audience is part of the error-correction system.
 

@@ -134,7 +134,7 @@ The diagnostic vocabulary appears as the prosecution's analytical frame, not as 
 
 Current favorite: **Sanskrit v. the Pyramid** — the court-caption form is continuous with the founding Prologue, which already names the asuric pyramid as the accused. Avoid *The Trial of Sanskrit*: it inverts who is on trial.
 
-The title inventory from the earlier broad concept (**The Asuric Pyramid: The Fractal Architecture of Control**, **Daitya Pyramid**, **The Pyramid Against the Swastika**) moves with that concept to the Second Shanti series. The subtitle-mirror idea — *The Fractal Architecture of Control* answering *The Fractal Architecture of Sanātan* — is preserved there.
+The title inventory from the earlier broad concept (**The Asuric Pyramid: The Fractal Architecture of Control**, **Daitya Pyramid**, **The Pyramid Against the Swastika**) moves with that concept to the Second Shanti series. The subtitle-mirror idea — *The Fractal Architecture of Control* answering *The Fractal Calibration Architecture of Sanātan* — is preserved there.
 
 ### Intended Audience
 
