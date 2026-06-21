@@ -86,8 +86,8 @@ assembly:
 
   - kind: part
     file: as_part_01_wrong_metaphor.md
-    title: "Part I — The Prosecution"
-    subtitle: The charge.
+    title: "Part I — How the Shadow Is Cast"
+    subtitle: The asurī māyā.
   - kind: chapter
     file: as_1_02_botanical.md
     title: "Chapter 2 — Category Theft and Asurī Māyā"

@@ -258,6 +258,7 @@ Wave 3 *ṛṣis* / *ṛṣikās* and Atris are related but not identical.
 3. **Inventory before re-narrating** — finish the seam list before editing prose, so nothing is left half-coded.
 4. **The Prologue is the keystone seam — and it is dropped.** `as_0_03_prologue.md` ("The Prosecution") dissolves into the Part I opener: drop the file; its content lives in the re-narrated `as_part_01`, which flips from "the prosecution can now begin" to "this is how the shadow is cast." See §5a for the front-matter division of labor.
 5. **Register discipline survives the swap.** The eclipse carries the *meaning*; the chapters stay hard-evidence / verdict-voice / named-agent. The eclipse frame must not pull the *execution* toward the devotional register (beautiful in a provenance note; fatal in Ch 18's PIE prosecution). This — not the courtroom — is what keeps the skeptic.
+6. **Re-narrate affirmatively — never reference or negate the removed courtroom.** The reader never saw a courtroom; do not explain that the approach changed. No "this is not a trial," no "the book does not prosecute," no negating the old frame — negation re-introduces exactly what it denies. Present the eclipse as the only frame the book ever had. The trap lives in the openers (Part VI's "cross-examination" beat; the dropped "borrowed courtroom" paragraph). Surfaced by the Part I ¶51 fix in Pass 1.
 
 ## 9. Open decisions
 

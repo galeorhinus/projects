@@ -24,6 +24,6 @@ The Śaṅkha sounds inside a war already underway. Its note is not ceremony. It
 
 Sanskrit is the Sun. The asuric pyramid has drawn its shadow across the field. What should have been obvious went dark: a language held by seekers, caretakers, reciters, grammarians, mothers, teachers, students, and lineages across the depth of time.
 
-Before the courtroom opens, the parties must be visible. On one side stand the seekers and caretakers: the civilization trained to listen, correct, remember, and keep looking. On the other side stands the asuric pyramid, the finite order with the apex at its head. He wants the field to answer upward.
+Before the light returns, the parties must be visible. On one side stand the seekers and caretakers: the civilization trained to listen, correct, remember, and keep looking. On the other side stands the asuric pyramid, the finite order with the apex at its head. He wants the field to answer upward.
 
-The Śaṅkha sounds while the battle is still larger than law. Then the battle narrows. The caretakers have been seen. The finite order has been seen. The next threshold is the pyramid's own courtroom.
+The Śaṅkha sounds while the field is still dark. Then the work narrows. The caretakers have been seen. The finite order has been seen. The next threshold is the shadow itself — how it was cast, and how it lifts.
