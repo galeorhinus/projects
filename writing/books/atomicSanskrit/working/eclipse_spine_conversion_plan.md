@@ -267,4 +267,46 @@ Wave 3 *ṛṣis* / *ṛṣikās* and Atris are related but not identical.
 
 ## 10. What does NOT change
 
-The chapter order; every chapter's actual argument and evidence; the appendices' technical prosecutions; the Śaṅkha Overture (already the eclipse-war summons) and the Atri Finale (already the recovery). This is a frame swap on a body that already works.
+The chapter order; every chapter's actual argument and evidence; the appendices' technical prosecutions; and the Atri Finale (already the recovery). This is a frame swap on a body that already works. *(The Śaṅkha Overture keeps its role as the opening conch, but its courtroom-tinted prose is re-narrated lean — see §5a.)*
+
+## 11. Execution passes & checklist
+
+Multiple passes, not one edit. Each pass is one coherent unit, ends in a read-through + commit, with a build-check before moving on. **Claude does not auto-build** (`build_book.py` is author-triggered); the gate build-check is the author's eyeball. Passes 1–2 are the conversion; 3 is content; 4–6 are polish (any order / parallel).
+
+**Pass 1 — Front matter (the face).**
+- [ ] Preface (`as_0_01`): compressed prose ledger (7 shadows) + stance, pointing to the schematic
+- [ ] Overture (`as_part_00`): re-narrate → lean Śaṅkha-against-the-dark (§5a)
+- [ ] Part I opener (`as_part_01`): apply the drafted *How the Shadow Is Cast*
+- [ ] Drop Prologue (`as_0_03`): remove from yaml/build; content now lives in Part I
+- [ ] yaml: Part I title + drop "The charge" subtitle
+- [ ] Verify chapter cross-refs in these files (old Ch 1–6 renumbering)
+- [ ] **Gate:** build front matter; eyeball run-in (Preface → Overture → Ch 0 → Ch 1 → Part I); commit
+
+**Pass 2 — Part openers II–VII (finish the visible spine).**
+- [ ] II (`as_part_02`): *Internal testimony* → The Sun's Own Account
+- [ ] III (`as_part_03`): drop "after the internal testimony"; The Sun's Sound-Body
+- [ ] IV / V / VII openers: eclipse titles (Sun's Atoms / Sun Does Not Decay / *Light After the Eclipse* subtitle)
+- [ ] VI (`as_part_06`): *Cross-examination and verdict* → Dispelling Rāhu
+- [ ] yaml subtitles (II, VI, + others per §5)
+- [ ] **Gate:** re-run the §7a courtroom grep → expect zero hits in openers; build TOC; commit
+- ✅ **Milestone: spine swap complete**
+
+**Pass 3 — Audiography balance (~600–900 words; §6).**
+- [ ] Ch 9 (`as_1_09`): "Varṇa Is Not Letter" (consolidate, don't duplicate)
+- [ ] Ch 13 (`as_1_13` §13.3): abugida vs audiography strengthen
+- [ ] **Gate:** read both; commit
+
+**Pass 4 — Plate-name deployment (Phase 2; §6a table).**
+- [ ] Weave each plate term into its chapter homes (Descended → Ch 2/17/18, …)
+- [ ] **Gate:** grep each plate term appears where it should; commit
+
+**Pass 5 — Residuals + Wave 3 (Phase 2; §6b, §6c).**
+- [ ] §6b residuals → Ch 4 / Ch 19 / Epilogue (incl. the funding/patronage line)
+- [ ] §6c Wave 3 / Atris → Acknowledgments / Ch 0 / Ch 19 / Epilogue
+- [ ] **Gate:** read touched sections; commit
+
+**Pass 6 — Illustration (§6a).**
+- [ ] Eclipse schematic (hero + lean part-opener variants); the mantra-arm swastika-Sun
+- [ ] **Gate:** figure renders; commit
+
+**Optional Pass 7 — soften in-chapter prosecutorial verbs** in the appendices / Epilogue (§7a Phase 2). Decide later; not required.
