@@ -1,8 +1,10 @@
 ## **PLEASE DO NOT SHARE**
 
+> **⚠ Superseded for structure (2026-06-21).** This is the internal working-scratch document. Its TOC, claim list, and chapter titles below **predate** the eclipse-spine conversion and the AP0-promotion renumbering — they are kept only as planning history. For the **current canonical TOC**, use `reference/as_toc.md` (bare) and `reference/as_toc_annotated.md` (annotated — the 22 supporting claims grouped under the 7 Suns, current chapter numbering, eclipse part titles). Do not treat anything below this line as the live structure.
+
 ## Working Title
 
-**Atomic Sanskrit: The Architecture of Sanātan**
+**Atomic Sanskrit: The Fractal Calibration Architecture of Sanātan**
 
 *Sound, Grammar, and the Engineering of Memory*
 
