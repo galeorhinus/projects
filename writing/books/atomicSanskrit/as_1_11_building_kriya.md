@@ -4,7 +4,7 @@
 
 Every finished Sanskrit verb is an atom that has been put to work. The **धातुः (*dhātuḥ*)** sits in the **धातुपाठ (*Dhātupāṭha*)** — 2,168 of them, each a measured cluster of **वर्णाः (*varṇāḥ*)**, sonomers, inside a **मात्रा (*mātrā*)** envelope — but it is not yet a word and cannot be spoken as one. To act, it has to be built up: bonded, activated, closed with an ending. What comes out is the **क्रिया (*kriyā*)**, or **क्रियापदम् (*kriyāpadam*)**, the verbal word; under the Atomic Corollary, a *kriyāpada* molecule.
 
-The worry is that the engineering dissolves in the assembly — that once the atom is wrapped inside a finished verb, the sonomers blur into an ordinary word. They survive, and the procedure is why. The *varṇamālā* hands over the measured particles, the *dhātuḥ* binds them, and the *kriyāpada* activates that atom without smearing the layer beneath. The atom stays legible the whole way up.
+The concern is that the engineering dissolves in the assembly — that once the atom is wrapped inside a finished verb, the sonomers blur into an ordinary word. They survive, and the procedure is why. The *varṇamālā* hands over the measured particles, the *dhātuḥ* binds them, and the *kriyāpada* activates that atom without smearing the layer beneath. The atom stays legible the whole way up.
 
 Five Rigvedic lines show it happening, each already carrying a finished verb, the underlying *dhātavaḥ* running from one *mātrā* to three. None of it waited for Pāṇini. The verbs were already in the corpus, working — thousands of them — long before the rules were ever written down.[NOTE: vedic-kriyapadas-before-panini]
 
@@ -84,11 +84,11 @@ The atom is राज् (*rāj*), a three-*mātrā* scaffold: consonant, long v
 
 The figures use one visual convention. The first row shows activation sonomers. The second row shows the *dhātuḥ* atom and the dashed destination slots where new sonomers will enter. The third row shows the finished *kriyāpada* molecule. Light gray is original *dhātuḥ* material. Medium gray is *dhātuḥ* material that changes shape. Very dark cells are activation sonomers such as the added अ (*a*). Dark cells are the ति (*ti*) ending.
 
-The color scheme is only a reading aid; the argument is recoverability. इ becomes एति, अस् becomes अस्ति, यज् becomes यजति, भू becomes भवति, राज् becomes राजति — sometimes the atom's sonomers ride through unchanged, sometimes they transform, but in every case the atom stays visible enough to read the procedure back off the result.
+The color scheme in the figures is primarily a reading aid; the primary purpose is to demonstrate recoverability. इ becomes एति, अस् becomes अस्ति, यज् becomes यजति, भू becomes भवति, राज् becomes राजति — sometimes the atom's sonomers ride through unchanged, sometimes they transform, but in every case the atom stays visible enough to read the procedure back off the result.
 
-The Vedic corpus already runs these operations; the figures only make the implicit procedure visible. The atomic *sūtra* survives activation, still compact and still traceable inside the verbal molecule. When Pāṇini comes to it, he gives the moves names — गणः (*gaṇaḥ*), विकरणम् (*vikaraṇam*), तिङ्-प्रत्ययः (*tiṅ-pratyayaḥ*), अनुबन्धः (*anubandhaḥ*) — and the same process can be restated in his terminology.
+The Vedic corpus already runs these operations; the figures only make them visible. The atomic *sūtra* survives activation, still compact and still traceable inside the verbal molecule. When Pāṇini came to it, he gave each part of the assembly a name — the class गणः (*gaṇaḥ*), the operation विकरणम् (*vikaraṇam*), the ending तिङ्-प्रत्ययः (*tiṅ-pratyayaḥ*), the metadata tag अनुबन्धः (*anubandhaḥ*) — labels for steps the corpus was already taking.
 
-The larger calibration principle waits for Chapter 13 §13.5. Here the procedural point is enough: working *kriyāpadāni* are already in the corpus before Pāṇini documents how they are built. The Veda keeps the form as it is performed; Pāṇini keeps it as something derivable on demand.
+Working *kriyāpadāni* were already in the corpus, finished and in use, before Pāṇini documented how they were built. The Veda keeps each form as it is performed, while Pāṇini's grammar keeps that form derivable on demand — and the calibration principle that lets the two coexist is the larger subject of Chapter 13 §13.5.
 
 ## 11.3 Pāṇini's Notation Layer
 

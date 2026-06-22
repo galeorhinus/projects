@@ -374,6 +374,18 @@ If yes to (5), remove the scaffolding. State the thing.
 
 Both fail the Prime Directive at the same grammatical seam: the subject of the polemic sentence is wrong. Different wrong subject, same failure.
 
+### Tense — present for the standing system, past for the historical act
+
+The book's own discourse and the standing architecture run in the **simple present** (the gnomic / structural present): *the varṇamālā maps*, *the Aṣṭādhyāyī operates on varṇāḥ*, *Pāṇini's grammar keeps every form derivable*, *the dhātuḥ survives activation*, *the corpus runs these operations*. Treat the Vedas, the *Dhātupāṭha*, the *Aṣṭādhyāyī*, and the corpus as ever-present artifacts whose operations are readable now.
+
+**A historical act by a named past actor takes the past tense.** When the sentence narrates Pāṇini — or Yāska, the *vaiyākaraṇāḥ*, the pre-Pāṇinian roster — *doing* something (decoding, documenting, analyzing, naming, selecting), use past: *Pāṇini decoded. He documented. He did not codify.* The same holds for any before/after or precedence sentence (*the verbs **were** already in the corpus before Pāṇini **documented** them*) and for **every polemic hammer** (*Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest*).
+
+The split inside a single sentence is correct and intended: *"…before Pāṇini **documented** how they were built. The Veda **keeps** each form as it is performed, while Pāṇini's grammar **keeps** that form derivable on demand."* Past for the act; present for the standing system. When the present-tense property would otherwise sit on the man right after a past act, **attach it to the artifact instead** — *Pāṇini's grammar keeps*, not *Pāṇini keeps*.
+
+**External / pyramid actors take the past by default** (the book dates them as discrete, locatable enterprises — see the chronology rule): *Schleicher baked the first PIE; Müller argued; Bopp compared.*
+
+**Diagnostic.** If a named past actor is the subject of a present-tense verb (*When Pāṇini comes to it, he gives…*), ask whether the sentence describes the *act* (→ past: *came… gave*) or what the *standing grammar does* (→ present). Convert act-sentences to past. This check is part of the de-AI pass.
+
 ### Failure mode 1 — Reject the recoverist voice everywhere The earlier convention had polemic chapters deploy a *hermeneutic / recoverist* voice — first-person plural ("we have walked"), present perfect continuous ("has been reading"), self-referential apparatus ("this book has been recovering"), book-as-humble-reader hand. That convention is retired. The polemic does not need the recoverist scaffolding; the polemic works through *named-agent active voice* (the pyramid does X; Sanskrit's apparatus does Y; the architecture stands) and through the named-cluster vocabulary (asuric / asuratva / pyramid / lokakṣema / Sanātan). The recoverist hand was load-bearing for an earlier draft frame; the named-categorical naming work now does the same job without the hedging that hermeneutic voice accumulates.
 
 **The conversion rule (apply universally):**
