@@ -27,7 +27,7 @@ The atlas asks one physical question: when a language treats a consonant as a co
 | 10 | — | pharyngeal | tongue root toward pharynx wall |
 | 11 | — | glottal | vocal folds |
 
-The five Sanskrit-named places (BIL, DEN, RET, PAL, VEL) carry their *sthāna* names. The seven other columns carry standard labels — Sanskrit's grid does not stop there. The five *sthāna* names mark Sanskrit's selection from the broader anatomical space the human voice can reach.
+The five Sanskrit-named places (BIL, DEN, RET, PAL, VEL) carry their *sthāna* names. The seven other columns carry standard labels — Sanskrit's grid does not stop there. The five *sthāna* names define Sanskrit's selection from the broader anatomical space the human voice can reach.
 
 **The vertical axis carries thirteen manners.** Thirteen manner rows describe how the consonant is shaped at its place: five stop rows (voiceless unaspirated, voiceless aspirated, voiced unaspirated, voiced aspirated, ejective), two affricate rows (voiceless, voiced), two fricative rows (voiceless, voiced), and one each for nasal, lateral, tap-or-trill, and approximant / glide. The two aspirated stop rows are Sanskrit's *mahāprāṇa* row pair, set apart by the strip preset described below. The ejective row appears for languages carrying the Caucasian or Native American glottal-pressure system; Sanskrit does not light it.
 

@@ -40,7 +40,7 @@ The glossary is organized in three groups:
 
 ### **sonomeric**
 
-**Book-coined English adjective.** Built from or operating at the level of sonomers, the measured sound-particles Sanskrit calls *varṇāḥ*. The term marks Sanskrit's deeper engineering layer: before a sonomer becomes visible as an audiograph, it already exists as a measured sound-particle available to grammar.
+**Book-coined English adjective.** Built from or operating at the level of sonomers, the measured sound-particles Sanskrit calls *varṇāḥ*. The term signals Sanskrit's deeper engineering layer: before a sonomer becomes visible as an audiograph, it already exists as a measured sound-particle available to grammar.
 
 **Use in book**: Appendix Part 3 states the hierarchy directly: Sanskrit is sonomeric before it is audiographic. Chapters 10 and 11 use *sonomeric* for the construction of the *dhātuḥ* and the activation of the *kriyā*. The term also captures the continuity across scale: Sanskrit does not lose the sonomer as it builds upward from *varṇamālā* to *dhātuḥ*, from conjugation to case, from word to sentence.
 
@@ -124,7 +124,7 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **calibrand**
 
-**Book-coined English, sibling to *calibrant*.** *That which is calibrated* — formed like *operand*, *multiplicand*, *analysand*: the thing acted upon. Where *calibrant* names Sanskrit as the engineered standard, **calibrand** names a language restructured toward it through **calibrant contact** (Chapter 18 §18.6). The calibrand languages are the set the philological machinery — reading their shared reflections as common descent — classifies as the *"Indo-European"* and *"Indo-Iranian"* families; each calibrand instead carries a *Pratibimba* (reflection) of the calibrant, not a fragment of a vanished ancestor. The term replaces a geography-plus-family-tree label with one that encodes the relation: downstream of a standard, not descended from a parent.
+**Book-coined English, sibling to *calibrant*.** *That which is calibrated* — formed like *operand*, *multiplicand*, *analysand*: the thing acted upon. Where *calibrant* names Sanskrit as the engineered standard, **calibrand** names a language restructured toward it through **calibrant contact** (Chapter 18 §18.6). The calibrand languages are the set the philological machinery — reading their shared reflections as common descent — classifies as the *"Indo-European"* and *"Indo-Iranian"* families; each calibrand instead carries a *Pratibimba* (reflection) of the calibrant, not a fragment of a vanished ancestor. The term replaces a geography-plus-family-tree label with one that encodes the relation: a reflection of a standard, not descended from a parent.
 
 ### **fractal**
 
@@ -234,7 +234,7 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **sūtra-lakṣaṇam** (सूत्रलक्षणम्)
 
-**Standard compound, book-deployed as engineering test.** The defining marks of a *sūtra*. The standard formulation lists six *lakṣaṇāni*: *alpākṣaram* (few-syllabled), *asandigdham* (unambiguous), *sāravat* (essence-bearing), *viśvatomukham* (facing in every direction), *astobham* (without padding), and *anavadyam* (faultless). Chapter 10 uses these not as ornament but as a test at atomic scale: a *dhātuḥ* should be small, waste-free, unambiguous, essence-bearing, many-facing, and stable in use.
+**Standard compound, book-deployed as engineering test.** The defining features of a *sūtra*. The standard formulation lists six *lakṣaṇāni*: *alpākṣaram* (few-syllabled), *asandigdham* (unambiguous), *sāravat* (essence-bearing), *viśvatomukham* (facing in every direction), *astobham* (without padding), and *anavadyam* (faultless). Chapter 10 uses these not as ornament but as a test at atomic scale: a *dhātuḥ* should be small, waste-free, unambiguous, essence-bearing, many-facing, and stable in use.
 
 ### **sthāna** (स्थान) / **prayatna** (प्रयत्न) / **sparśa** (स्पर्श)
 
@@ -252,11 +252,11 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **dogma**
 
-**Book-controlled English.** The protected belief-content the pyramid requires the reader to accept: Sanskrit downstream, progress upward, origins elsewhere. Use when prosecuting the claim-system itself; use *doctrine* when explaining the structured teaching without maximal heat. When specific, use ***progressive dogma*** (linear-progress axis) or ***foundational dogma*** (corridor-of-origin axis). The word *orthodoxy* is not the book's vocabulary — it frames the fight as an inside-the-pyramid doctrinal dispute, and the book prosecutes the pyramid from outside; it appears only when quoting or discussing another writer's category.
+**Book-controlled English.** The protected belief-content the pyramid requires the reader to accept: Sanskrit below, progress upward, origins elsewhere. Use when prosecuting the claim-system itself; use *doctrine* when explaining the structured teaching without maximal heat. When specific, use ***progressive dogma*** (linear-progress axis) or ***foundational dogma*** (corridor-of-origin axis). The word *orthodoxy* is not the book's vocabulary — it frames the fight as an inside-the-pyramid doctrinal dispute, and the book prosecutes the pyramid from outside; it appears only when quoting or discussing another writer's category.
 
 ### **Western philological dogma**
 
-**Book-controlled phrase.** The Sanskrit / PIE belief-content: the Sanskrit-downstream story built through comparative philology, PIE reconstruction, racial Arya framing, textbook lineage, and reference authority. Use when the target is the claim-system itself; use *philological machinery* when the target is the institutions and processes that repeat it.
+**Book-controlled phrase.** The Sanskrit / PIE belief-content: the Sanskrit-as-derivative story built through comparative philology, PIE reconstruction, racial Arya framing, textbook lineage, and reference authority. Use when the target is the claim-system itself; use *philological machinery* when the target is the institutions and processes that repeat it.
 
 ### **progressive dogma**
 
@@ -264,7 +264,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **foundational dogma**
 
-**Book-coined cluster.** The doctrine built on the corridor-of-origin axis: authority flows from a preferred origin-zone, and Sanskrit must be made downstream from that corridor. Use when the argument is about origin-control, not merely progress-control.
+**Book-coined cluster.** The doctrine built on the corridor-of-origin axis: authority flows from a preferred origin-zone, and Sanskrit must be made to derive from that corridor. Use when the argument is about origin-control, not merely progress-control.
 
 ### **pyramid's account**
 
@@ -346,7 +346,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **heroic erasure**
 
-**Book-coined English.** The pyramid's move of praising a named figure within Sanātan or a named discipline for some downstream contribution — so-called codification, documentation, transmission, adaptation — while structurally denying the engineering thesis. The praise is the mechanism of the erasure. Chapter 1 introduces the pattern; Chapter 2 §2.6 applies it to Pāṇini and the codification story; Chapters 13 and 14 redeploy it in the preservation and calibration argument.
+**Book-coined English.** The pyramid's move of praising a named figure within Sanātan or a named discipline for some surface contribution — so-called codification, documentation, transmission, adaptation — while structurally denying the engineering thesis. The praise is the mechanism of the erasure. Chapter 1 introduces the pattern; Chapter 2 §2.6 applies it to Pāṇini and the codification story; Chapters 13 and 14 redeploy it in the preservation and calibration argument.
 
 ### **category theft**
 
@@ -366,7 +366,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **Pratibimba** (प्रतिबिम्ब)
 
-**Standard Sanskrit term, book-repurposed as polemic category.** A reflection — what appears in a mirror, downstream of an original. The book uses *Pratibimba* to name the relation between Sanskrit and the cognate languages the machinery classifies as siblings: Hindi, Marathi, Greek, Latin, Persian, Lithuanian, Tocharian. The pyramid's account places all of these as descendants of an imaginary *Proto-Indo-European* parent. The counter-account: there is no PIE. The cognates everywhere else are *Pratibimbas* — reflections of the original engineered Sanskrit forms. *Mātṛ* is the etymon of *mother*; *pater* is a *Pratibimba* of *pitṛ*. The Preface introduces the hook; Chapter 2 names the category theft; Chapter 18 §18.6 develops the calibrant-and-reflection architecture in full.
+**Standard Sanskrit term, book-repurposed as polemic category.** A reflection — what appears in a mirror, cast from an original. The book uses *Pratibimba* to name the relation between Sanskrit and the cognate languages the machinery classifies as siblings: Hindi, Marathi, Greek, Latin, Persian, Lithuanian, Tocharian. The pyramid's account places all of these as descendants of an imaginary *Proto-Indo-European* parent. The counter-account: there is no PIE. The cognates everywhere else are *Pratibimbas* — reflections of the original engineered Sanskrit forms. *Mātṛ* is the etymon of *mother*; *pater* is a *Pratibimba* of *pitṛ*. The Preface introduces the hook; Chapter 2 names the category theft; Chapter 18 §18.6 develops the calibrant-and-reflection architecture in full.
 
 ### **engineered / encoded / decoded / codified**
 

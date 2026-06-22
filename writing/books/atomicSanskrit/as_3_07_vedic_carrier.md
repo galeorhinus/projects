@@ -6,7 +6,7 @@
 
 Chapter 1 states the claim. This appendix shows it.
 
-The *Vedas* carry Sanskrit's engineering as corpus form. The architecture is already operating in the verses: in *sandhi*, case-marking, meter, verbal endings, derivation, accent, and the precise difference between **छन्दस् (*chandas*)** and **भाषा (*bhāṣā*)** — the two modes Pāṇini marks as *chandasi* (*"in meter"*) and *bhāṣāyām* (*"in speech"*). Pāṇini does not create that architecture. He documents what the corpus already does.
+The *Vedas* carry Sanskrit's engineering as corpus form. The architecture is already operating in the verses: in *sandhi*, case inflection, meter, verbal endings, derivation, accent, and the precise difference between **छन्दस् (*chandas*)** and **भाषा (*bhāṣā*)** — the two modes Pāṇini tags as *chandasi* (*"in meter"*) and *bhāṣāyām* (*"in speech"*). Pāṇini does not create that architecture. He documents what the corpus already does.
 
 The pyramid's account calls the difference between *vaidika* and *laukika* Sanskrit evolution. The engineering thesis treats the same evidence as mode-difference. The Vedic corpus is not an earlier language decaying toward a later one. It is Sanskrit running in the *chandas* mode.
 
@@ -18,7 +18,7 @@ Chapter 1 §1.1's fuller statement opens with three blockquoted lines. The middl
 
 > ***The engineering's upstream origin is not visible in the historical record;*** ***अपौरुषेयत्व (*apauruṣeyatva*)*** ***is the lineage-chain's own anchor for the position. The*** ***Vedas*** ***carry the engineering across thousands of years as the corpus form, implicit in every recitation rule and every metrical specification.***
 
-The Wave 1 transmission framework Chapter 19 §19.4 calls ***corpus form*** is what the *Vedas* deploy: the engineered architecture is operating across every verse, every *sandhi* juncture, every case-marking, every metrical specification — but no **व्याकरण (*vyākaraṇa*)** text yet exists to describe it. The architecture is *visible only by engaging the verses with the engineering frame*.
+The Wave 1 transmission framework Chapter 19 §19.4 calls ***corpus form*** is what the *Vedas* deploy: the engineered architecture is operating across every verse, every *sandhi* juncture, every case inflection, every metrical specification — but no **व्याकरण (*vyākaraṇa*)** text yet exists to describe it. The architecture is *visible only by engaging the verses with the engineering frame*.
 
 Every recited verse carries specification. A *sandhi* junction is not loose pronunciation. A case ending is not decoration. A metrical constraint is not ornament. A Vedic accent is not optional color. Each is part of the operating system.
 
@@ -44,7 +44,7 @@ Six words. Walked phrase by phrase:
 
 Six words. Four accusatives in apposition. One genitive modifying. One verb form. The case-system does what word-order does in English; the inflections carry the grammatical roles; word order is free.
 
-**The retroflex lateral ळ (*ḷ*) in *agnimīḷe* is the key *chandas*-mode feature.** Pāṇini's *Aṣṭādhyāyī* marks rules deploying ळ as *chandasi*. The Nambūdiri, Mādhyandina, Kāṇva **शाखाः (*śākhās*)** all recite *agnimīḷe* with ळ intact across thousands of years through *guru-shishya* lineage-chains. The *bhāṣā* mode does not deploy ळ. The feature is not lost between the two modes — it is **mode-specific by engineered design** (Chapter 5 §5.6, Chapter 16 §16.3).
+**The retroflex lateral ळ (*ḷ*) in *agnimīḷe* is the key *chandas*-mode feature.** Pāṇini's *Aṣṭādhyāyī* tags rules deploying ळ as *chandasi*. The Nambūdiri, Mādhyandina, Kāṇva **शाखाः (*śākhās*)** all recite *agnimīḷe* with ळ intact across thousands of years through *guru-shishya* lineage-chains. The *bhāṣā* mode does not deploy ळ. The feature is not lost between the two modes — it is **mode-specific by engineered design** (Chapter 5 §5.6, Chapter 16 §16.3).
 
 One verse. The architecture operating. No grammar text needed for it to operate.
 
@@ -88,7 +88,7 @@ Three lines of **गायत्री (*gāyatrī*)** meter — eight syllables
 
 The relative-correlative construction ***yaḥ ... naḥ pracodayāt*** is the standard Pāṇinian construction — operating in the *Ṛgveda* across thousands of years before Pāṇini sits down to describe it.
 
-**Three Vedic verses. Three demonstrations of the same observation:** the engineering is operating in the corpus. *Sandhi*, case-marking, *dhātu*-*pratyaya* assembly, *upasarga*-compounded verbs, relative-correlative constructions, the full *liṅ-lakāra* optative paradigm, *kṛdanta* derivation, the metrical specification — all visible inside three short *Vedic* passages, all functioning systematically. **No *vyākaraṇa* text yet exists to describe what is operating.** When Pāṇini eventually writes the *Aṣṭādhyāyī*, what he documents is what the corpus has been operating across thousands of years. He is the finest *vaiyākaraṇa* (वैयाकरण), not the engineer.
+**Three Vedic verses. Three demonstrations of the same observation:** the engineering is operating in the corpus. *Sandhi*, case inflection, *dhātu*-*pratyaya* assembly, *upasarga*-compounded verbs, relative-correlative constructions, the full *liṅ-lakāra* optative paradigm, *kṛdanta* derivation, the metrical specification — all visible inside three short *Vedic* passages, all functioning systematically. **No *vyākaraṇa* text yet exists to describe what is operating.** When Pāṇini eventually writes the *Aṣṭādhyāyī*, what he documents is what the corpus has been operating across thousands of years. He is the finest *vaiyākaraṇa* (वैयाकरण), not the engineer.
 
 ## 7.3 The *Dhātu* Inventory in the Corpus
 
@@ -96,7 +96,7 @@ The same verses show the *Dhātupāṭha*'s real status. It is not a list of sem
 
 | Word form → Dhātu | Gaṇa | Pāṇinian operation |
 |--------|------|----------------------|
-| ***īḷe*** (ईळे) → ***īḍ / īḷ*** (ईड् / ईळ्, *to praise*) | *adādi* (2nd) | *laṭ-lakāra* 1sg *ātmanepada*. The ळ form is the *chandasi*-marked alternant of the *bhāṣā*-mode ड — Pāṇini's own mode-marker. |
+| ***īḷe*** (ईळे) → ***īḍ / īḷ*** (ईड् / ईळ्, *to praise*) | *adādi* (2nd) | *laṭ-lakāra* 1sg *ātmanepada*. The ळ form is the *chandasi* alternant of the *bhāṣā*-mode ड — Pāṇini's own rule-marker. |
 | ***yajñasya*** → ***yaj*** (यज्, *to sacrifice*) | *bhvādi* (1st) | *yaj* + *na*-*kṛt-pratyaya* → *yajña*; declined in *ṣaṣṭhī vibhakti*. |
 | ***purohitam*** → ***dhā*** (धा, *to place*) | *juhotyādi* (3rd, reduplicating) | *dhā* → past passive participle *hita*; compound *puras* + *hita* → *purohita* (*the one placed in front*); *dvitīyā vibhakti*. |
 | ***devam*** → ***div*** (दिव्, *to shine*) | *divādi* (4th — *div* gives its name to the gaṇa) | *div* + *a*-*pratyaya* → *deva* (*the shining one*); *dvitīyā vibhakti*. |
@@ -140,7 +140,7 @@ The dogma treats the longer form as an older relic later lost. The engineering r
 
 *Devaiḥ* is shorter. *Devebhiḥ* is longer. Meter decides.
 
-When the metrical slot requires the extra syllable, the verse uses the longer form. When it does not, the shorter form works. Pāṇini does not hide this. He marks such forms under *chandasi*. The longer alternate is not debris from an earlier stage. It is metrical tooling. The rule is explicit (*Aṣṭādhyāyī* 7.1 and adjacent chapters license *chandasi*-marked forms with the ***bahulam chandasi*** (बहुलं छन्दसि) operator — *"frequently / variously in metrical contexts"*).
+When the metrical slot requires the extra syllable, the verse uses the longer form. When it does not, the shorter form works. Pāṇini does not hide this. He files such forms under *chandasi*. The longer alternate is not debris from an earlier stage. It is metrical tooling. The rule is explicit (*Aṣṭādhyāyī* 7.1 and adjacent chapters license *chandasi* forms with the ***bahulam chandasi*** (बहुलं छन्दसि) operator — *"frequently / variously in metrical contexts"*).
 
 ***Chandas*** means meter. *Chandasi* means *"in meter"* — the locative form Pāṇini uses to tag rules applying in the *chandas* mode. Pāṇini's wording is precise: his *chandas*-mode rules are not *"older-time rules"* or *"earlier-stage rules"*; they are *metrical-context rules*. The Vedic corpus is the metrical corpus.
 
@@ -148,10 +148,10 @@ When the metrical slot requires the extra syllable, the verse uses the longer fo
 
 | The dogma's claim | Specific example | Engineering-mode response |
 |------|--------|----------------------|
-| Retroflex lateral **ळ (*ḷ*)** "lost" | Vedic *agnimīḷe* (अग्निमीळे) → Classical *agnimīle* / *agnimīḍe* | Not lost; preserved in the *chandas* mode (Pāṇini marks the rule *chandasi*), not deployed in the *bhāṣā* mode by design (Ch 16 §16.3). The Nambūdiri, Mādhyandina *śākhās* still recite the Vedic ळ exactly. |
+| Retroflex lateral **ळ (*ḷ*)** "lost" | Vedic *agnimīḷe* (अग्निमीळे) → Classical *agnimīle* / *agnimīḍe* | Not lost; preserved in the *chandas* mode (Pāṇini tags the rule *chandasi*), not deployed in the *bhāṣā* mode by design (Ch 16 §16.3). The Nambūdiri, Mādhyandina *śākhās* still recite the Vedic ळ exactly. |
 | **उदात्त-अनुदात्त-स्वरित (*udātta-anudātta-svarita*)** accent "lost" | Vedic three-way pitch accent → Classical unmarked | Preserved in Vedic recitation; not deployed in productive *bhāṣā*. Engineered for *chandas*-mode preservation; the *bhāṣā* mode operates a different specification that does not require pitch-distinction. |
 | ***Plutaḥ*** (प्लुतः) extended vowels "lost" | Vedic *o3m* (ओ३म्) → Classical *om* (ओम्) | Mode-specific; *plutaḥ* engineered for ritual-recitation specification where vowel-extension carries semantic weight. |
-| Vedic subjunctive (***leṭ-lakāra*** लेट्) "lost" | Vedic *karat* / *karāt* → Classical no subjunctive | Mode-specific; *leṭ-lakāra* is one of Pāṇini's ten *lakāras* explicitly marked deployed only *chandasi*. The *bhāṣā* mode operates the optative (*liṅ-lakāra* लिङ्) in equivalent contexts. |
+| Vedic subjunctive (***leṭ-lakāra*** लेट्) "lost" | Vedic *karat* / *karāt* → Classical no subjunctive | Mode-specific; *leṭ-lakāra* is one of Pāṇini's ten *lakāras*, explicitly restricted to *chandasi*. The *bhāṣā* mode operates the optative (*liṅ-lakāra* लिङ्) in equivalent contexts. |
 | Vedic injunctive "lost" | Root + secondary endings without augment → Classical preterite-only | Engineered mode difference. The injunctive is a *chandas*-mode form Pāṇini documents; the *bhāṣā* mode does not require its specific function (eventless prediction / ritual-instrumentality). |
 | Vedic infinitive variety "narrowed" | Vedic *-tum*, *-tavai*, *-dhyai*, *-tave*, *-tos*, *-sani* → Classical *-tum* dominant | Engineered scope difference. The *chandas* mode preserves multiple infinitives because metrical contexts require alternative syllable-counts; the *bhāṣā* mode picks one canonical infinitive because non-metrical speech does not require alternatives. |
 | Vedic compound looseness "tightened" | Vedic loose *tatpuruṣa* (तत्पुरुष) → Classical tight compounds with productive *bahuvrīhi* (बहुव्रीहि) | Productive mode shift, not drift. *Bhāṣāyām* operates the full *samāsa* (समास) framework more aggressively; the Vedic corpus operates compounds more loosely because meter constrains the available compound-forms differently. |
@@ -183,7 +183,7 @@ Other natural-drift cases show the same pattern:
 
 **Sanskrit shows nothing of either pattern.** The core phonological inventory — the 5×5 *varga* (वर्ग) matrix, the vowels (*a, ā, i, ī, u, ū, ṛ, ṝ, ḷ, ḹ, e, ai, o, au*), the four semivowels (*y, r, l, v*), the three sibilants (*ś, ṣ, s*), the *ha*, and the **अयोगवाह (*ayogavāha*)** (*anusvāra ṃ*, *visarga ḥ*) — is **identical** between *vaidika* and *laukika* Sanskrit. The phonemes that operate in *Ṛgveda* 1.1.1 are the same phonemes that operate in Kālidāsa's *Raghuvaṃśa*. And the core *meanings* the vocabulary carries are equally intact: Chapter 5 §5.6's *jaḍa* (जड, *inert / dull / cold-and-heavy*), *mūrkha* (मूर्ख, *coagulated-in-stupor*), *gauḥ* (गौः, *cow / earth / speech*) preserve their full multi-valent semantic fields across the same span, because the *dhātus* the words are built from stay operational in the same speech communities.
 
-The features that *do* differ between *vaidika* and *laukika* Sanskrit are **precisely the features Pāṇini marks as *chandas*-mode-specific** (tagging them *chandasi*): ळ, the *udātta-anudātta-svarita* pitch accent, the *leṭ-lakāra* subjunctive, specific metrical optionalities.
+The features that *do* differ between *vaidika* and *laukika* Sanskrit are **precisely the features Pāṇini identifies as *chandas*-mode-specific** (tagging them *chandasi*): ळ, the *udātta-anudātta-svarita* pitch accent, the *leṭ-lakāra* subjunctive, specific metrical optionalities.
 
 **Natural drift cascades — both modes, both unrelentingly. Engineered mode-difference does not.** Sanskrit's calibration matrix (Chapter 14) holds the *form* against form-drift through the *chandas* + *śruti* engineering Chapter 5 §5.5 develops; Sanskrit's *dhātu*-anchored vocabulary holds the *meaning* against meaning-drift because the *dhātu* the word is built from stays operational alongside the word. Sanskrit shows the engineered signature on both axes — form preserved, meaning preserved — and natural-language drift shows neither.
 
@@ -197,7 +197,7 @@ Chapter 5 §5.6 introduced the unifying observation as a standalone blockquote, 
 
 Appendix Part 7 establishes the two halves of the *Vedas implicitly carry it as the corpus form* clause from Chapter 1 §1.1:
 
-- **The implicit grammar is visible in the Vedas** (§§7.2–6.3). Three verses walked phrase-by-phrase show the engineering operating systematically — *sandhi*, case-marking, *dhātu*-*pratyaya* assembly, *upasarga*-compounded verbs, relative-correlative constructions, the *liṅ-lakāra* optative paradigm, *kṛdanta* derivation, the metrical specification — all functioning before any *vyākaraṇa* text exists to describe them.
+- **The implicit grammar is visible in the Vedas** (§§7.2–6.3). Three verses walked phrase-by-phrase show the engineering operating systematically — *sandhi*, case inflection, *dhātu*-*pratyaya* assembly, *upasarga*-compounded verbs, relative-correlative constructions, the *liṅ-lakāra* optative paradigm, *kṛdanta* derivation, the metrical specification — all functioning before any *vyākaraṇa* text exists to describe them.
 - **The variations the dogma treats as drift are engineered mode-differences** (§§7.4–6.6). The *constantly-evolving-Sanskrit* claim is the same structural overreach Wheeler made with his six skeletons. The specific alternations are, almost without exception, metrically-driven engineered alternates the *chandas* mode requires and the *bhāṣā* mode does not.
 
 The deeper mechanism is Chapter 5's anti-entropy principle. *Chandas* makes drift measurable because a wrong sound can break the meter. **श्रुति (*śruti*)** makes drift catchable because the audience hears the error. The corpus is metrical because meter is protection. The corpus is aural because the listener is part of the verification system. The metrical alternates — *bhiḥ* / *ebhiḥ*, multiple infinitive forms, *plutaḥ* extended vowels, the retroflex lateral ळ — are not noise. They are the engineered flexibility *chandas* requires to do its anti-entropy work without falsely flagging metrically-legitimate variation as drift.

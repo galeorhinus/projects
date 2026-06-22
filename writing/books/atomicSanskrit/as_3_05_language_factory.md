@@ -49,7 +49,7 @@ The procedure has six steps.
 5. **Apply the cipher to all dhātus, nominals, and morphemes** consistently. Surface forms transform; abstract structure (root + suffix + ending; case-marking; conjugation; *sandhi*) is preserved.
 6. **Render the output in Devanagari** — the same script that renders the original Sanskrit. The reader who knows Sanskrit can back-engineer the *dhātus* and morphemes by inspection.
 
-The grammar passes through unchanged. Agent nouns remain agent nouns. Present-tense verbs remain present-tense verbs. Case endings still mark case. *Sandhi* still governs junctions. The phonemes change; the architecture does not.
+The grammar passes through unchanged. Agent nouns remain agent nouns. Present-tense verbs remain present-tense verbs. Case endings still carry case. *Sandhi* still governs junctions. The phonemes change; the architecture does not.
 
 What the substrate contributes: the phonemes. What Sanskrit's engine contributes: everything else.
 
@@ -57,7 +57,7 @@ What the substrate contributes: the phonemes. What Sanskrit's engine contributes
 
 Japanese was chosen for three reasons.
 
-**First, geographic and civilizational distance.** Japan was a downstream destination of Wave 2 transmission — the **अष्टाध्यायी (*Aṣṭādhyāyī*)** methodology reaching Japan through Buddhist-monastic contact across the centuries that followed Pāṇini (Chapter 19 §19.2). Its Japanese phonological substrate is unrelated to Sanskrit's. The construction is therefore a genuine cross-substrate experiment.
+**First, geographic and civilizational distance.** Japan was a far destination of Wave 2 transmission — the **अष्टाध्यायी (*Aṣṭādhyāyī*)** methodology reaching Japan through Buddhist-monastic contact across the centuries that followed Pāṇini (Chapter 19 §19.2). Its Japanese phonological substrate is unrelated to Sanskrit's. The construction is therefore a genuine cross-substrate experiment.
 
 **Second, phonemic compatibility.** Japanese has five vowels (/a, i, u, e, o/) and roughly fifteen consonant phonemes (/k, g, s, z, sh, j, t, d, ch, ts, n, m, h, b, p, r, w, y/). All can be rendered in Devanagari without extension. The substrate fits the script.
 

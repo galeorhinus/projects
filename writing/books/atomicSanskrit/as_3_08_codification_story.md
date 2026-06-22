@@ -40,7 +40,7 @@ The story is elegant because it tracks the assumptions of the field that tells i
 
 But elegance is not evidence.
 
-The story merges different phenomena, imports a chronological frame into categories that are not chronological, and then uses the resulting chronology to prove the drift it assumed. It treats Pāṇini's own markers as time-markers when they are mode and domain-markers. It treats the existence of variation as proof of decay without showing the mechanism of decay. It treats grammar as authority when the Sanskrit grammatical self-description treats grammar as decoding and regulation against an already established bond.
+The story merges different phenomena, imports a chronological frame into categories that are not chronological, and then uses the resulting chronology to prove the drift it assumed. It treats Pāṇini's own rule-markers as time-stamps when they tag mode and domain. It treats the existence of variation as proof of decay without showing the mechanism of decay. It treats grammar as authority when the Sanskrit grammatical self-description treats grammar as decoding and regulation against an already established bond.
 
 The story survives because it sounds reasonable to readers trained by the progressive dogma's premises. It does not survive the architecture.
 
@@ -135,7 +135,7 @@ The Indic architecture uses two domain terms and two mode terms.
 
 **वैदिक (*vaidika*)** and **लौकिक (*laukika*)** name domains: the Vedic domain and the worldly learned domain. They are civilizational fields of use, not historical stages.
 
-**छन्दस् (*chandas*)** and **भाषा (*bhāṣā*)** name modes: metrical-corpus operation and speech / learned-literary operation. Pāṇini marks the distinction in the grammar through locative forms: ***chandasi*** (छन्दसि), "in meter"; ***bhāṣāyām*** (भाषायाम्), "in speech."
+**छन्दस् (*chandas*)** and **भाषा (*bhāṣā*)** name modes: metrical-corpus operation and speech / learned-literary operation. Pāṇini draws the distinction in the grammar through locative forms: ***chandasi*** (छन्दसि), "in meter"; ***bhāṣāyām*** (भाषायाम्), "in speech."
 
 The pyramid's account collapses all four into two chronological labels: Vedic and Classical. Then it places Pāṇini between them.
 
@@ -197,7 +197,7 @@ Real natural drift has a recognizable empirical signature.
 
 Latin to Romance shows it. Case endings erode. Phoneme inventories shift. Word-final consonants disappear in one branch and survive in another. Gender systems simplify differently across daughter languages. The parent language becomes unrecoverable to ordinary speakers of the descendants.
 
-Old English to Modern English shows it. *Hlāfweard* becomes *Lord*. Inflectional endings collapse. Vowels shift. Grammatical gender disappears. Word order hardens because case marking weakens. The modern speaker needs scholarly apparatus to see the older form.
+Old English to Modern English shows it. *Hlāfweard* becomes *Lord*. Inflectional endings collapse. Vowels shift. Grammatical gender disappears. Word order hardens because case inflection weakens. The modern speaker needs scholarly apparatus to see the older form.
 
 The signature is not small local variation. It is cascading unrecognizability.
 
@@ -353,7 +353,7 @@ The first column would list the witnesses: Vedic Saṃhitā passages by *śākh�
 
 Only after that work can the word "drift" be used honestly.
 
-The pyramid's account often skips the classification step. It sees difference between Vedic and later usage and writes drift. The engineering thesis forces the difference into a better diagnostic grid. A *chandas*-marked form is not drift merely because *bhāṣā* uses another form. A recensional phonetic rule is not drift merely because another *śākhā* transmits a different rule. A metrical alternate is not drift merely because the shorter prose form becomes dominant outside meter. Optionality is not drift merely because the grammar licenses more than one surface under named conditions.
+The pyramid's account often skips the classification step. It sees difference between Vedic and later usage and writes drift. The engineering thesis forces the difference into a better diagnostic grid. A *chandas*-mode form is not drift merely because *bhāṣā* uses another form. A recensional phonetic rule is not drift merely because another *śākhā* transmits a different rule. A metrical alternate is not drift merely because the shorter prose form becomes dominant outside meter. Optionality is not drift merely because the grammar licenses more than one surface under named conditions.
 
 The audit would also separate two kinds of preservation.
 
@@ -386,7 +386,7 @@ That sentence fits the evidence. The codification story does not.
 
 One more feature is usually misread: Pāṇini's treatment of variation.
 
-The *Aṣṭādhyāyī* does not pretend every context has only one permissible surface. It uses optionality markers. It marks rule environments. It licenses alternatives through operators such as **वा (*vā*)**, **विभाषा (*vibhāṣā*)**, and *chandasi* contexts. The presence of alternatives inside the grammar is not embarrassment. It is precision.
+The *Aṣṭādhyāyī* does not pretend every context has only one permissible surface. It uses optionality operators. It flags rule environments. It licenses alternatives through operators such as **वा (*vā*)**, **विभाषा (*vibhāṣā*)**, and *chandasi* contexts. The presence of alternatives inside the grammar is not embarrassment. It is precision.
 
 A codifier suppresses variation to produce authority. Pāṇini classifies variation to preserve architecture.
 
@@ -501,7 +501,7 @@ The story that Pāṇini codified Sanskrit is not a neutral summary. It is the p
 
 The bridge collapses.
 
-The Vedas already carry the grammar. The pre-Pāṇinian decoders already analyze the system. Patañjali already states the established bond. *Apabhraṃśa* already names entropy. Pāṇini already marks modes, not periods. The *Aṣṭādhyāyī* already includes licensed variation. The *Dhātupāṭha* already displays atomic compression. The calibration matrix already preserves form.
+The Vedas already carry the grammar. The pre-Pāṇinian decoders already analyze the system. Patañjali already states the established bond. *Apabhraṃśa* already names entropy. Pāṇini already distinguishes modes, not periods. The *Aṣṭādhyāyī* already includes licensed variation. The *Dhātupāṭha* already displays atomic compression. The calibration matrix already preserves form.
 
 The dogma makes Pāṇini a rupture because the tree requires a rupture.
 
