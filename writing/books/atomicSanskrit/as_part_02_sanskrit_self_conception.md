@@ -12,4 +12,4 @@ The first three obstructions have been cracked: Sanskrit made to look descended,
 
 Chapter 5 begins with *siddha*: the bond between word and meaning is established, not produced by later convention. Chapter 6 develops *apabhraṃśa*: the falling-away that grammar, recitation, meter, and lineage resist.
 
-Together they restore three of the Sun's own qualities — wholly created, anti-entropic, calibrated. Sanskrit does not begin from drifting words. It begins from established bonds and from an architecture that detects falling-away. The light grows literal when the next part descends to sound, sonomer, and finally the *dhātuḥ* as semantic atom.
+Together they restore three of the Sun's own qualities — wholly created, anti-entropic, self-correcting. Sanskrit does not begin from drifting words. It begins from established bonds and from an architecture that detects falling-away. The light grows literal when the next part descends to sound, sonomer, and finally the *dhātuḥ* as semantic atom.

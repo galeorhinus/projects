@@ -32,7 +32,7 @@ Yāska gives the hinge: **नामान्याख्यातजानि (*
 
 The verbal molecule becomes the source of names. Names receive bonds. Bonds produce *padāni*. *Padāni* enter the *vākya*. The sentence is an assembly that preserves the levels underneath it.
 
-![Figure 12.1 — Molecular assembly pipeline: sonomer → dhātuḥ → śabda / kriyāpada → padam → vākya.](figures/building_vakya/pipeline.svg){#fig:building-vakya-pipeline width=90%}
+![Figure 12.1 — Molecular assembly pipeline: sonomer → dhātuḥ → śabda / kriyāpada → padam → vākya.](figures/building_vakya/pipeline.svg){#fig:building-vakya-pipeline width=100%}
 
 ## 12.2 The Bonding Procedure
 
@@ -54,7 +54,7 @@ This is why the bonding analogy is useful. Sanskrit bonds semantic atoms into us
 
 The figures keep the timing layer visible. The ruler below each strip shows the *mātrā* scale in half-*mātrā* steps, so the reader can see that sentence assembly still preserves measured sound.
 
-![Figure 12.2 — Ch12 visual key: atom, head-bond, tail-bond, role-ending, nasal consonant, visarga, and half-*mātrā* ruler.](figures/building_vakya/visual_key.svg){#fig:building-vakya-visual-key width=85%}
+![Figure 12.2 — Ch12 visual key: atom, head-bond, tail-bond, role-ending, nasal consonant, visarga, and half-*mātrā* ruler.](figures/building_vakya/visual_key.svg){#fig:building-vakya-visual-key width=100%}
 
 ## 12.3 The *Kṛ* Atom as Flagship
 
@@ -86,7 +86,7 @@ The contrast matters too. Not every atom behaves like *kṛ*. **ह्लाद�
 
 The demonstration follows *kṛ* because it makes the procedure visible. Once the reader sees the procedure on the most reactive atom, the same logic can be recognized elsewhere.
 
-![Figure 12.3 — The high-reactivity कृ (*kṛ*) atom beside the specialized ह्लाद् (*hlād*) atom.](figures/building_vakya/kr_hlad.svg){#fig:building-vakya-kr-hlad width=80%}
+![Figure 12.3 — The high-reactivity कृ (*kṛ*) atom beside the specialized ह्लाद् (*hlād*) atom.](figures/building_vakya/kr_hlad.svg){#fig:building-vakya-kr-hlad width=100%}
 
 ## 12.4 Head-Bonds: How *Upasargāḥ* Redirect the Atom
 
@@ -104,7 +104,7 @@ The important point is the direction of the bond. The *upasargaḥ* turns *kṛ*
 
 The atom remains visible through the redirection. That is why the molecule can be interpreted. The head-bond changes the field while preserving the atom.
 
-![Figure 12.4 — Head-bonds redirect the कृ (*kṛ*) field: *pra-*, *vi-*, and *sam-* produce different molecular territories.](figures/building_vakya/head_bonds.svg){#fig:building-vakya-head-bonds width=95%}
+![Figure 12.4 — Head-bonds redirect the कृ (*kṛ*) field: *pra-*, *vi-*, and *sam-* produce different molecular territories.](figures/building_vakya/head_bonds.svg){#fig:building-vakya-head-bonds width=100%}
 
 ## 12.5 Tail-Bonds: How *Pratyayāḥ* Stabilize the Molecule
 
@@ -127,7 +127,7 @@ This is why *pratyayāḥ* behave as valence-shell stabilizers. They complete th
 
 The tail-bond gives the atom a job.
 
-![Figure 12.5 — Tail-bonds stabilize molecule class: *kārya*, *karma*, *kartṛ*, *saṃskṛti*, and *saṃskāra*.](figures/building_vakya/tail_bonds.svg){#fig:building-vakya-tail-bonds width=95%}
+![Figure 12.5 — Tail-bonds stabilize molecule class: *kārya*, *karma*, *kartṛ*, *saṃskṛti*, and *saṃskāra*.](figures/building_vakya/tail_bonds.svg){#fig:building-vakya-tail-bonds width=100%}
 
 ## 12.6 The *Kṛ* Bonding Matrix
 
@@ -150,7 +150,7 @@ The matrix also protects the argument from overstatement. Sanskrit's generativit
 
 The *racanā* × *gaṇa* matrix made the same point at the previous scale. Some cells were heavy. Some were light. Some were empty. The molecular matrix repeats the point: the cell records a procedure.
 
-![Figure 12.6 — A conservative कृ (*kṛ*) bonding matrix: real cells are visible; unused cells remain blank.](figures/building_vakya/kr_bonding_matrix.svg){#fig:building-vakya-kr-bonding-matrix width=95%}
+![Figure 12.6 — A conservative कृ (*kṛ*) bonding matrix: real cells are visible; unused cells remain blank.](figures/building_vakya/kr_bonding_matrix.svg){#fig:building-vakya-kr-bonding-matrix width=100%}
 
 ## 12.7 From *Śabda* to *Padam*
 
@@ -174,7 +174,7 @@ This is why Sanskrit can support freer word order while remaining clear. The ord
 
 The *śabda* becomes a *padam* when it is prepared for relation. The molecule becomes sentence-ready.
 
-![Figure 12.7 — ऋच् (*ṛc*) becomes ऋचा (*ṛcā*) when the role-ending prepares the molecule for sentence use.](figures/building_vakya/rca_role_marker.svg){#fig:building-vakya-rca-role-marker width=85%}
+![Figure 12.7 — ऋच् (*ṛc*) becomes ऋचा (*ṛcā*) when the role-ending prepares the molecule for sentence use.](figures/building_vakya/rca_role_marker.svg){#fig:building-vakya-rca-role-marker width=100%}
 
 ## 12.8 From *Padam* to *Vākya*
 
@@ -232,7 +232,7 @@ The botanical metaphor finally has a proper target. Not the *dhātuḥ*. The *ap
 
 What the philological dogma calls roots across its reconstructed daughter-language families are better understood here as expressed *bījas*: forms that crossed the calibrant boundary and then took life in contact languages.
 
-![Figure 12.9 — Boundary crossing: *dhātuḥ* → *śabda* → *bīja* → *apaśabda*.](figures/building_vakya/vivimorphosis.svg){#fig:building-vakya-vivimorphosis width=95%}
+![Figure 12.9 — Boundary crossing: *dhātuḥ* → *śabda* → *bīja* → *apaśabda*.](figures/building_vakya/vivimorphosis.svg){#fig:building-vakya-vivimorphosis width=100%}
 
 |  | Sanskrit foundation | Sanskrit calibrant side | Listener's cognition | Contact-language side |
 |---|---|---|---|---|

@@ -26,7 +26,7 @@
 |---|---|
 | **Wholly Created** — *saṃskṛtam*: perfectly formed, completely made, brought into finished order. | **Descended** — made a PIE descendant: derivative, downstream, inherited from an imaginary ancestor. |
 | **Anti-entropic** — engineered against drift, decay, and loss. | **Botanical** — made a plant of roots, stems, branches, and daughters; the *dhātuḥ* read as a botanical "root," the language as something that grows, mutates, and decays. |
-| **Calibrated** — the standard lives inside sound, meter, grammar, recitation, lineage, and correction. | **Codified** — a drifting language allegedly stabilized by Pāṇini, grammar, authority, and late standardization. |
+| **Self-Correcting** — the standard lives inside sound, meter, grammar, recitation, lineage, and correction. | **Codified** — a drifting language allegedly stabilized by Pāṇini, grammar, authority, and late standardization. |
 | **Sonomeric** — measured sound-particles build semantic atoms, molecules, words, and sentences. | **Alphabetic** — the sonomeric grid is read as a mere alphabet: *varṇa* flattened to "letter," the engineering beneath the letters unseen. |
 | **Audiographic** — Indic scripts make articulated sound visible through the sonomeric grid. | **Abugida** — filed under an Ethiopian-derived typological term, its own sound-architecture left unnamed. |
 | **Calibrant** — other languages can be calibrated by it without becoming Sanskrit. | **Sibling Language** — treated as one language among siblings, a member of a family tree, not the measure by which the family was partially read. |
@@ -40,7 +40,7 @@
 |---|---|---|
 | Preface / Ch 0 / Ch 1 | State the eclipse; name Sūrya / Svarbhānu / Rāhu, the caretakers, the antagonist; lay out the **ledger** | (frame) |
 | **Part I** (Ch 2–4) | Expose the eclipse-machinery — *how the shadow is cast* | Descended · Botanical · Codified (exposed) |
-| **Part II** (Ch 5–6) | The Sun's own account | **Wholly Created · Anti-entropic · Calibrated** |
+| **Part II** (Ch 5–6) | The Sun's own account | **Wholly Created · Anti-entropic · Self-Correcting** |
 | **Part III** (Ch 7–9) | The Sun's sound-body | **Sonomeric** (+ the *Alphabetic* correction in Ch 9 → Audiographic begins) |
 | **Part IV** (Ch 10–12) | The Sun's atoms | **Atomic architecture** under the sonomers |
 | **Part V** (Ch 13–15) | The Sun does not decay | **Vedic Matrix · Calibrated-in-practice** (+ the *Abugida* correction in Ch 13 → **Audiographic** completes) |
