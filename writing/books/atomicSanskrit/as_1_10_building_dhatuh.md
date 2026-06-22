@@ -142,7 +142,7 @@ The distinction matters:
 - **Filling** — the specific *varṇāḥ* placed into the scaffold: *g-a-m*, *n-a-m*, *p-a-c*.
 - **Atom / *dhātuḥ*** — the stable semantic unit produced by the filled scaffold.
 
-Bṛhaspati's **वाचमक्रत (*vācam akrata*)** named formed Speech at the scale of Speech. The same operation now appears at atomic scale: selected sonomers enter measured scaffolds, and the filled scaffold becomes a semantic atom. The verse names formed Speech; the *dhātuḥ* shows the first semantic layer of that formation.
+Bṛhaspati's **वाचमक्रत (*vācam akrata*)** named formed Speech at the scale of Speech. The same operation now appears at atomic scale: selected sonomers enter measured scaffolds, and the filled scaffold becomes a semantic atom. The verse presents formed Speech; the *dhātuḥ* shows the first semantic layer of that formation.
 
 Now the tests can begin.
 

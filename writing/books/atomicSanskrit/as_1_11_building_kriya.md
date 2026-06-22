@@ -297,7 +297,7 @@ The higher the yield, the smaller the atom.
 
 The numbers confirm the procedure already visible: compact atoms carry wider bonding reach.
 
-Similarity shows Sanskrit is usable speech. The persistent sonomeric procedure shows engineered speech.
+The similarity shows that Sanskrit behaves like a natural language. The persistent sonomeric procedure shows engineered language.
 
 ## 11.7 Hyper-Reactive Atoms
 

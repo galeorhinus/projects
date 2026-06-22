@@ -366,7 +366,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **Pratibimba** (प्रतिबिम्ब)
 
-**Standard Sanskrit term, book-repurposed as polemic category.** A reflection — what appears in a mirror, cast from an original. The book uses *Pratibimba* to name the relation between Sanskrit and the cognate languages the machinery classifies as siblings: Hindi, Marathi, Greek, Latin, Persian, Lithuanian, Tocharian. The pyramid's account places all of these as descendants of an imaginary *Proto-Indo-European* parent. The counter-account: there is no PIE. The cognates everywhere else are *Pratibimbas* — reflections of the original engineered Sanskrit forms. *Mātṛ* is the etymon of *mother*; *pater* is a *Pratibimba* of *pitṛ*. The Preface introduces the hook; Chapter 2 names the category theft; Chapter 18 §18.6 develops the calibrant-and-reflection architecture in full.
+**Standard Sanskrit term, book-repurposed as polemic category.** A reflection — what appears in a mirror, cast from an original. The book uses *Pratibimba* to name the relation between Sanskrit and the cognate languages the machinery classifies as siblings: Hindi, Marathi, Greek, Latin, Persian, Lithuanian, Tocharian. The pyramid's account places all of these as descendants of an imaginary *Proto-Indo-European* parent. The counter-account: there is no PIE. The cognates everywhere else are *Pratibimbas* — reflections of the original engineered Sanskrit forms. *Mātṛ* is the etymon of *mother*; *pater* is a *Pratibimba* of *pitṛ*. The Preface introduces the hook; Chapter 2 exposes the category theft; Chapter 18 §18.6 develops the calibrant-and-reflection architecture in full.
 
 ### **engineered / encoded / decoded / codified**
 

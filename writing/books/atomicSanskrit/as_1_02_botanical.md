@@ -144,7 +144,7 @@ The counter-frame is simple:
 
 > ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.***
 
-That sentence is enough here. Chapter 5 names the grammatical lineage in detail; Chapter 10 develops Yaska's *agni* decoding as a worked example. The local point is direction. *Codify* runs from disorder toward imposed order. *Decode* runs from prior order toward explicit specification. Sanskrit's own word is ***vyākaraṇam*** (व्याकरणम्): *vi-* (वि, *apart*) + *ā-* (आ, *fully*) + *kṛ* (कृ, *to do, to make*) — *unfolding apart*. The grammarian is the ***vaiyākaraṇaḥ*** (वैयाकरणः), the one who performs that unfolding.
+That sentence is enough here. Chapter 5 lays out the grammatical lineage in detail; Chapter 10 develops Yaska's *agni* decoding as a worked example. The local point is direction. *Codify* runs from disorder toward imposed order. *Decode* runs from prior order toward explicit specification. Sanskrit's own word is ***vyākaraṇam*** (व्याकरणम्): *vi-* (वि, *apart*) + *ā-* (आ, *fully*) + *kṛ* (कृ, *to do, to make*) — *unfolding apart*. The grammarian is the ***vaiyākaraṇaḥ*** (वैयाकरणः), the one who performs that unfolding.
 
 Pāṇini did not codify Sanskrit. He decoded it. His *Aṣṭādhyāyī* documents the finest surviving decoding of an order already operating. The asuric machinery reverses that direction and calls the reversal *codification*. That is the institutional scale of the same category theft.
 
