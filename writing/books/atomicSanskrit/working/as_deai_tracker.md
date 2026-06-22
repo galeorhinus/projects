@@ -60,7 +60,7 @@ The de-AI rules live in the user-memory note `feedback_deai_humanize_prose.md` a
 | **V** | as_part_05_anti_entropy_practice | Part V opener | 15 | ➖ |
 | 14 | as_1_14_calibration | Calibration | 204 | 🟢 STRIPPED — final. 4 sweep fixes + 2 breathing; deliberate triads protected. 6 redlines stripped |
 | 15 | as_1_15_aural | Aural | 101 | 🟡 swept (single pass) — pending review. Clean polemic; 2 fixes (§15.4 "the citation matters because" → substance-led; §15.5 four-parallel component recap fused). Deliberate verdict-hammers + pāṭha enumerations protected |
-| 16 | as_1_16_retroflex | Retroflex | 173 | ⬜ |
+| 16 | as_1_16_retroflex | Retroflex | 173 | 🟡 swept (single pass) — pending review. Strong polemic; 4 surgical fixes (L57 "structural reading"→"structural scrutiny"; L65 "the meaning is simple:" cut; L67 "is named through"×2→"takes its name from"/"carries"; L151 "vocabulary named"→"meant"). Deliberate anaphora (operate-it litany, cinema caricatures, "test was not…" list) protected |
 | **VI** | as_part_06_killing_pie | Part VI opener | 15 | ➖ |
 | 17 | as_1_17_wrong_question | The Wrong Question | 209 | ⬜ |
 | 18 | as_1_18_pie_in_sky | PIE in the Sky | 291 | ⬜ |
