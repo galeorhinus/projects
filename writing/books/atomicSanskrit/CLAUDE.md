@@ -386,6 +386,12 @@ The split inside a single sentence is correct and intended: *"…before Pāṇin
 
 **Diagnostic.** If a named past actor is the subject of a present-tense verb (*When Pāṇini comes to it, he gives…*), ask whether the sentence describes the *act* (→ past: *came… gave*) or what the *standing grammar does* (→ present). Convert act-sentences to past. This check is part of the de-AI pass.
 
+### Metadiscourse — show significance, don't assert it
+
+Never open or pad a paragraph by *telling* the reader a point is significant. The banned family: ***X matters*** / ***This is important*** / ***It is worth noting*** / ***Notably*** / ***Crucially*** / ***Importantly*** / ***The contrast matters too*** / ***That difference is useful*** — plus the additive tack-ons ***too*** / ***as well*** that signal "here is another point." These are **metadiscourse**: sentences about the argument instead of the argument. They tell instead of show, and they push the real content into the next sentence.
+
+FIX: delete the meta-sentence and lead with the substance. *"The contrast matters too. Not every atom behaves like kṛ."* → *"Not every atom behaves like kṛ."* The significance lands because the claim is concrete, not because the prose announced it. Watch for the half-fix: changing *"This distinction matters"* to *"The distinction matters"* keeps the tell — the whole sentence has to go. (Sibling of the scope-narration tell above; that one points the reader at other chapters, this one asserts importance in place. Both are throat-clearing.)
+
 ### Failure mode 1 — Reject the recoverist voice everywhere The earlier convention had polemic chapters deploy a *hermeneutic / recoverist* voice — first-person plural ("we have walked"), present perfect continuous ("has been reading"), self-referential apparatus ("this book has been recovering"), book-as-humble-reader hand. That convention is retired. The polemic does not need the recoverist scaffolding; the polemic works through *named-agent active voice* (the pyramid does X; Sanskrit's apparatus does Y; the architecture stands) and through the named-cluster vocabulary (asuric / asuratva / pyramid / lokakṣema / Sanātan). The recoverist hand was load-bearing for an earlier draft frame; the named-categorical naming work now does the same job without the hedging that hermeneutic voice accumulates.
 
 **The conversion rule (apply universally):**
