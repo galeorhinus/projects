@@ -67,7 +67,10 @@ An *upasargaḥ* redirects the atom's field of action. A *pratyayaḥ* stabilize
 
 The governing issue is recoverability. The bond remains visible enough for the form to be analyzed, taught, corrected, recited, and recalibrated.
 
+<!-- AISWEEP-OLD
 This matters because the philological dogma treats the *upasargaḥ* as a preverb: a spatial particle that gradually fused with the verb through ordinary linguistic evolution. That may be a useful description for some natural-language histories. Sanskrit shows a different operation.
+AISWEEP-END -->
+The philological dogma treats the *upasargaḥ* as a preverb: a spatial particle that gradually fused with the verb through ordinary linguistic evolution. That may be a fair description of some natural-language histories. Sanskrit runs a different operation.
 
 In English, a preposition usually stands outside the action: *from*, *toward*, *over*, *under*. It points from outside. In Sanskrit, the *upasargaḥ* enters the word-body and redirects the action from within the derivation. It bonds with the atom.
 
@@ -76,7 +79,10 @@ A *pratyayaḥ* performs the other side of the bonding procedure. It completes t
 AISWEEP-END -->
 A *pratyayaḥ* performs the other side of the bonding procedure, completing the molecule into a usable class: one suffix makes an action-name, another an agent, another something-to-be-done. Through all of it the same atom stays visible, while the molecule's outer shell changes what the form can do in a sentence.
 
+<!-- AISWEEP-OLD
 This is why the bonding analogy is useful. Sanskrit bonds semantic atoms into usable molecules. The bond changes grammatical behavior while preserving recoverable identity.
+AISWEEP-END -->
+Sanskrit bonds semantic atoms into usable molecules, and the bond changes grammatical behavior while preserving recoverable identity — which is exactly what makes the chemistry analogy fit.
 
 The figures keep the timing layer visible. The ruler below each strip shows the *mātrā* scale in half-*mātrā* steps, so the reader can see that sentence assembly still preserves measured sound.
 
@@ -106,7 +112,10 @@ The head-bonds alone show the range. **प्र (*pra-*)** directs *kṛ* towar
 
 The tail-bonds show the same principle from the other side. Bare *kṛ* can become **कर्म (*karma*)**, the deed; **कर्तृ (*kartṛ*)**, the doer; and **कार्य (*kārya*)**, what is to be done. The atom remains visible. The bond determines what the molecule can do.
 
+<!-- AISWEEP-OLD
 This is the reason *kṛ* carries the demonstration. It connects the technical proof to the highest categories in the argument: *prakṛti*, *vikṛti*, and *saṃskṛti*. The words for the creation triad are themselves products of the bonding procedure being demonstrated.
+AISWEEP-END -->
+*Kṛ* carries the demonstration because it connects the technical proof to the highest categories in the argument: *prakṛti*, *vikṛti*, and *saṃskṛti*. The words for the creation triad are themselves products of the bonding procedure being demonstrated.
 
 <!-- AISWEEP-OLD
 The contrast matters too. Not every atom behaves like *kṛ*. **ह्लाद् (*hlād*)** is a higher-*mātrā*, lower-reactivity atom in the joined analysis.[NOTE: hlad-contrast-atom] It can still bond and generate, but it does not open the same wide molecular field. That difference is useful. Sanskrit's bonding procedure handles both classes: the highly reactive atoms that build large conceptual territories, and the specialized atoms that carry narrower semantic work.
