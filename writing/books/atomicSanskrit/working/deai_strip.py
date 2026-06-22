@@ -53,6 +53,17 @@ def main(argv):
             lines = f.readlines()
         if check:
             print(f"{count_blocks(lines):4d} AISWEEP-OLD blocks  {path}")
+            # integrity guards: a sweep that wraps a mid-paragraph substring leaves
+            # the opener mid-line, where strip_lines can't see it. Flag it.
+            malformed = [i + 1 for i, ln in enumerate(lines)
+                         if OPEN in ln and not ln.lstrip().startswith(OPEN)]
+            opens = sum(1 for ln in lines if OPEN in ln)
+            closes = sum(1 for ln in lines if CLOSE in ln)
+            if malformed:
+                print(f"     !! {len(malformed)} MID-LINE opener(s) at line(s) {malformed} "
+                      f"— rewrap the whole paragraph")
+            if opens != closes:
+                print(f"     !! marker imbalance: {opens} open vs {closes} close")
             continue
         new_lines, removed = strip_lines(lines)
         if removed:
