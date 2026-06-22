@@ -66,7 +66,7 @@ The de-AI rules live in the user-memory note `feedback_deai_humanize_prose.md` a
 | 18 | as_1_18_pie_in_sky | PIE in the Sky | 291 | 🟡 swept (single pass) — pending review. Climactic chapter, very clean; 1 fix (L263 "reads the recipe"→"lays out", reading-ban). Personal opening + all deliberate hammers/anaphora/data protected. Borderline metadiscourse left & flagged: "the conflict is simple", "the curve is revealing" |
 | **VII** | as_part_07_life_after_pie | Part VII opener | 15 | ➖ |
 | 19 | as_1_19_life_after_pie | Life After PIE | 129 | 🟡 swept (single pass) — pending review. 3 fixes (§19.2 "The sequence matters" → substance; §19.3 "It is not Wave 4. It is not a calibrant wave…" stacked negatives → affirmative-led; §19.3 "is structurally significant because" → substance). Deliberate wave-catalog parallels protected. FLAG: curly quotes at §19.2 (L43) |
-| E | as_2_01_epilogue | Epilogue | 200 | ⬜ |
+| E | as_2_01_epilogue | Epilogue | 200 | 🟡 swept (single pass) — pending review. The climax; mostly protected. 5 fixes: 2 reading-ban (§"Reading the Aṣṭādhyāyī as…"→"Treating", "engineered reading"→"account"), 2 metadiscourse ("The grammar of the call matters", "Sanskrit matters here because"), 1 stacked-negative ("not sin. not failure. It is life."→"not sin or failure. It is life."), 1 names-verb ("Bṛhaspati had already named"→"set out"). "the argument" self-refs left (end-matter carve-out) |
 | A1 | as_3_01_baking | App — Baking | 303 | ⬜ |
 | A2 | as_3_02_encyclopaedic | App — Encyclopaedic | 317 | ⬜ |
 | A3 | as_3_03_audiography | App — Audiography | 324 | ➖ data-heavy |

@@ -50,7 +50,10 @@ That would not be surrender. It would be *prāyaścitta* by method.
 
 The *Dhātupāṭha* becomes a scientific object. It is no longer a list of botanical "roots." It is an inventory of semantic atoms organized into ten *gaṇāḥ*, each with distinct combinatorial behavior. The structure can be modeled, tested, refined, computationally compared against the regular *apaśabda* generation in the Indic *prākṛtika* languages and against the *apaśabda*-as-root productions in the Indo-European contact-language family. The *Dhātupāṭha* as engineering documentation supports a research program; the *Dhātupāṭha* as a list of botanical roots supports no research at all.
 
+<!-- AISWEEP-OLD
 The *Aṣṭādhyāyī* becomes engineering documentation. Pāṇini's roughly four thousand *sūtras* operate with formal compression, generative reach, and consistency that twentieth- and twenty-first-century computational linguistics has already recognized. The philological community has been late to the point; the computational community has been quietly using it. Reading the *Aṣṭādhyāyī* as engineering documentation aligns the philological community with the computational community, which already operates on the engineered reading.
+AISWEEP-END -->
+The *Aṣṭādhyāyī* becomes engineering documentation. Pāṇini's roughly four thousand *sūtras* operate with formal compression, generative reach, and consistency that twentieth- and twenty-first-century computational linguistics has already recognized. The philological community has been late to the point; the computational community has been quietly using it. Treating the *Aṣṭādhyāyī* as engineering documentation aligns the philological community with the computational community, which already operates on the engineered account.
 
 The Vedic recitation lineages become empirical evidence. The eleven *pāṭhas* — *saṃhitā*, *pada*, *krama*, *jaṭā*, *ghana*, plus the six *vikṛti* recitations — are an error-detecting code operating in continuous human performance across thousands of years through teacher-student lineages. The recordings exist. The lineages exist. The Nambūdiri Brahmins of Kerala, the Maharashtra Brahmins, the Tamil Nadu Brahmins, the Kashmir Pandits, the Banaras and Allahabad lineages of the northern plains — all produce phonetic constants that match across geographic and lineage separations operating in parallel for thousands of years. The empirical case rests on what is currently audible; the engineering case rests on what the recitations encode.
 
@@ -125,7 +128,10 @@ After the Sun is found, the closing call can be spoken:
 >
 > *kṛṇvanto viśvam āryam | apaghnanto arāvṇaḥ*[NOTE: rigveda-9635-wilson-griffith]
 
-The grammar of the call matters. It asks for making, not claiming; for the world, not a tribe; for *ārya* as discipline, not race. The work is **कृण्वन्तः (*kṛṇvantaḥ*)**: making, doing, bringing into form. The object is **विश्वम् (*viśvam*)**: the whole world. The standard is **आर्यम् (*āryam*)**: disciplined nobility, learned restraint, calibrated conduct, and generosity ordered toward *sat*.
+<!-- AISWEEP-OLD
+The grammar of the call matters. It asks for making, not claiming; for the world, not a tribe; for *ārya* as discipline, not race.
+AISWEEP-END -->
+The grammar of the call asks for making, not claiming; for the world, not a tribe; for *ārya* as discipline, not race. The work is **कृण्वन्तः (*kṛṇvantaḥ*)**: making, doing, bringing into form. The object is **विश्वम् (*viśvam*)**: the whole world. The standard is **आर्यम् (*āryam*)**: disciplined nobility, learned restraint, calibrated conduct, and generosity ordered toward *sat*.
 
 The second half gives the obstruction: **अराव्णः (*arāvṇaḥ*)** — the *ungiving*, those who hold rather than release, the structural opposites of *liberality* in its original Latin sense (Chapter 3 §3.4's etymology). Chapter 4 §4.4 documents how the Wilson and Griffith translations of this very verse omitted *viśvam āryam* and substituted away from *arāvṇaḥ* — the philological-omission case developed earlier.
 
@@ -135,7 +141,10 @@ The call is conditional. It cannot be made by anyone who wants the prestige with
 
 This is why *āryatva* is desirable. It is disciplined alignment with **सत् (*sat*)**, not **असत् (*asat*)**: clarity over obscurity, restraint over appetite, calibration over drift, welfare over domination.
 
-Sanskrit matters here because the Sanskrit fractal preserves that standard in architecture. Sound is measured. Speech is disciplined. Memory is calibrated. Knowledge is carried without apex command. When that architecture is made fully visible, it does not preach. It stands as a calibrant: those who wish can measure themselves against it and choose *sat* without turning truth into dogma.
+<!-- AISWEEP-OLD
+Sanskrit matters here because the Sanskrit fractal preserves that standard in architecture. Sound is measured.
+AISWEEP-END -->
+The Sanskrit fractal holds that standard in its architecture. Sound is measured. Speech is disciplined. Memory is calibrated. Knowledge is carried without apex command. When that architecture is made fully visible, it does not preach. It stands as a calibrant: those who wish can measure themselves against it and choose *sat* without turning truth into dogma.
 
 That is the bridge from Sanskrit to Sanātan: calibration does not remain trapped inside grammar. The same distributed discipline can recur in conduct, memory, knowledge, and social order.
 
@@ -147,7 +156,10 @@ The invitation is not ethnic. It is architectural.
 
 The inward correction follows from the same principle. India must not answer the pyramid by building smaller pyramids inside itself. Modern schooling, bureaucracy, broadcasting, and state language policy have often treated living regional speech as if it were defective because it does not match the standardized form chosen by committee, capital, university, or textbook. Marathi has its Pune standard; other Marathi speech-fields have been treated as lesser. Konkani's separation from Marathi carries, among other things, the memory of that pressure. The pattern is not unique to Maharashtra. It repeats wherever a living *prākṛtika bhāṣā* is forced to answer to a single authorized standard.
 
+<!-- AISWEEP-OLD
 Sanskrit teaches the opposite lesson. The **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**, the fixed-measure language, must be held with rigor; the living languages must be allowed to flow. *Prākṛtika* speech is not sin. It is not failure. It is life. **The danger is to confuse the calibrant's discipline with the state's authority.** Sanskrit survived because it was held as calibrant, not imposed as an imperial vernacular. India's internal reform begins there: preserve Sanskrit with seriousness, let the *bhāṣās* flourish on their own terms, and stop calling local life incorrect because it did not pass through an apex.
+AISWEEP-END -->
+Sanskrit teaches the opposite lesson. The **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**, the fixed-measure language, must be held with rigor; the living languages must be allowed to flow. *Prākṛtika* speech is not sin or failure. It is life. **The danger is to confuse the calibrant's discipline with the state's authority.** Sanskrit survived because it was held as calibrant, not imposed as an imperial vernacular. India's internal reform begins there: preserve Sanskrit with seriousness, let the *bhāṣās* flourish on their own terms, and stop calling local life incorrect because it did not pass through an apex.
 
 Islamic imperial formations were defeated. The Christian conversion ambition was checked. British political rule was expelled. But the deeper work remains: the restoration of Sanskrit as calibrant inside Indian life — the radiant matrix, not a museum object, not a credential, not a slogan, but the living measure of discipline, memory, sound, grammar, and conduct. Internal *āryatva* begins by acknowledging what Sanskrit is and by refusing to reproduce, inside India, the same authority model prosecuted outside it.
 
@@ -173,7 +185,10 @@ The argument did not need to deny movement. It needed to restore authorship.
 
 Sanskrit's standard is not restored by authority. It is restored by re-entering calibration.
 
-Bṛhaspati had already named the operation: Speech sifted like grain, formed by the wise with the mind, recognized among friends, and made radiant. That operation has now moved from mouth to sonomer, from sonomer to atom, from atom to molecule, and from molecule to calibrated language.
+<!-- AISWEEP-OLD
+Bṛhaspati had already named the operation: Speech sifted like grain, formed by the wise with the mind, recognized among friends, and made radiant.
+AISWEEP-END -->
+Bṛhaspati had already set out the operation: Speech sifted like grain, formed by the wise with the mind, recognized among friends, and made radiant. That operation has now moved from mouth to sonomer, from sonomer to atom, from atom to molecule, and from molecule to calibrated language.
 
 The final turn therefore asks Vāk herself to nourish the work:
 
