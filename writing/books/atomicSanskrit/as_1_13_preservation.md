@@ -10,11 +10,17 @@ Sanskrit's own vocabulary has a name for the danger: **अपभ्रंशः 
 
 Left alone, language falls away.
 
-The preservation problem is therefore concrete. Sanskrit has to hold sound, meaning, grammar, meter, recitation, and usage against the ordinary pressure of human speech. The Vedas make the problem visible at full scale. They hold cosmological inquiry, metaphysical vision, ethical order, mathematical proportion, astronomical observation, healing knowledge, and the rules of precise, performative action. Embedded within that breadth is the linguistic architecture this volume isolates: the sound-body, the metrical body, the grammatical body, and the recitational body.
+<!-- AISWEEP-OLD
+The preservation problem is therefore concrete. Sanskrit has to hold sound, meaning, grammar, meter, recitation, and usage against the ordinary pressure of human speech. The Vedas make the problem visible at full scale.
+AISWEEP-END -->
+What Sanskrit has to hold is concrete: sound, meaning, grammar, meter, recitation, and usage, all of it under the ordinary pressure of human speech. The Vedas make the problem visible at full scale. They hold cosmological inquiry, metaphysical vision, ethical order, mathematical proportion, astronomical observation, healing knowledge, and the rules of precise, performative action. Embedded within that breadth is the linguistic architecture this volume isolates: the sound-body, the metrical body, the grammatical body, and the recitational body.
 
 The Vedas function as sacred corpus and primary calibration matrix at once. If that matrix drifts, the calibrant drifts with it.
 
+<!-- AISWEEP-OLD
 The first question is categorical: what belongs to ordinary flow, and what must be held? Sanskrit has the distinction already: *prākṛta*, *saṃskṛta*, and *sanātan*.
+AISWEEP-END -->
+What belongs to ordinary flow, and what must be held? Sanskrit has the distinction ready-made: *prākṛta*, *saṃskṛta*, and *sanātan*.
 
 ## 13.2 *Prākṛta*, *Saṃskṛta*, *Sanātan*
 
@@ -30,7 +36,10 @@ The Sanskrit grammatical literature calls the two modes directly: **प्रा
 
 A local story may be *prākṛtika* by purpose. It should meet the listener where the listener lives. A Vedic phonetic form is *sāṃskṛtika* by purpose. It must be the same in this generation as in the next. Change in the first case may be renewal. Change in the second is degradation.
 
+<!-- AISWEEP-OLD
 The preservation question is therefore narrower than "How does a civilization preserve everything?" The sharper question is:
+AISWEEP-END -->
+The question is therefore not how a civilization preserves everything, but something narrower:
 
 > What technology preserves the *sāṃskṛtika* bucket without drift?
 
@@ -109,7 +118,10 @@ Codification does not stop drift. It only creates an authority against which dri
 
 Greek was codified. Latin was codified. Arabic was codified. Hebrew was codified. Tibetan was codified. In each case, the codified standard survived as an authoritative form, but ordinary speech kept moving. Greek moved from Classical to Koine to Byzantine to Modern forms. Latin became the Romance languages. Arabic developed a wide diglossic field between Classical / MSA and the spoken regional varieties. Hebrew preserved scriptural and learned styles, then returned as Modern Hebrew with major phonological and syntactic change. Tibetan preserved a literary standard while spoken Tibetan varieties diverged.
 
+<!-- AISWEEP-OLD
 The pattern is consistent. Codification preserves a standard by authority. It does not preserve a language by architecture.
+AISWEEP-END -->
+Codification preserves a standard by authority, not a language by architecture.
 
 Chapter 5 supplied the grammatical principle: bond first, usage second, *śāstra* third. The calibration matrix is that principle scaled to civilization. The standard already stands; the system trains bodies, ears, memory, grammar, and community to hold usage against it.
 

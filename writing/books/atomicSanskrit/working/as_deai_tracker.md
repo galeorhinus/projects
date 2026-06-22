@@ -56,7 +56,7 @@ The de-AI rules live in the user-memory note `feedback_deai_humanize_prose.md` a
 | 10 | as_1_10_building_dhatuh | Building the *dhātuḥ* | 443 | ⬜ |
 | 11 | as_1_11_building_kriya | Building the *kriyā* | 324 | ✅ done (replace-mode, pre-doubling) — uncommitted |
 | 12 | as_1_12_building_vakya | Building the *vākya* | 278 | 🟡 FULLY swept (§§12.1–12.10) + chunk-1 metadiscourse re-scan done — pending review; + RV 1.164.39 promoted to top `::: epigraph`. Flagged for author (mild value-frames, not yet changed): §12.1 "The test is simple:" / "The working sense is direct:" |
-| 13 | as_1_13_preservation | Preservation | 163 | 🟡 fully swept (single pass) — pending review; 3 metadiscourse fixes (L90 "The difference matters", L123 "That is the critical distinction", L138 "This distinction matters because"). Strong polemic; deliberate anaphora/parallels (Greek/Latin codified drumbeat, heroic-erasure catalog, "Lose the corpus…" triad) left intact |
+| 13 | as_1_13_preservation | Preservation | 163 | 🟡 swept + breathing pass — pending review. 3 metadiscourse fixes + 4 signpost cuts from Gemini review (L16/L23/L42/L124: "is therefore concrete", "first question is categorical", "sharper question is", "pattern is consistent"). Deliberate hammers/triads PROTECTED (Gemini's de-hammering rejected) |
 | **V** | as_part_05_anti_entropy_practice | Part V opener | 15 | ➖ |
 | 14 | as_1_14_calibration | Calibration | 204 | 🟡 fully swept (single pass) — pending review; 4 fixes (3 importance-assertions L51/L177 + "even more important" L56; 1 names-verb "rules named the procedure"→"formalized" L204). Strong polemic; deliberate triads/layer-recaps left intact |
 | 15 | as_1_15_aural | Aural | 101 | ⬜ |
