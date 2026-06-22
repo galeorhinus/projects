@@ -84,7 +84,10 @@ Every culture carries stories, songs, genealogies, rituals, epics, family memori
 
 What is uniquely Indic is not oral tradition. It is **aural engineering**.
 
+<!-- AISWEEP-OLD
 *Oral* is the mouth. *Aural* is the ear. The difference matters. Oral tradition preserves content approximately: the story remains, the wording shifts; the song remains, the regional form varies; the meaning survives, the surface changes. Aural engineering preserves phonetic form exactly: vowel length, accent, breath gesture, place of articulation, sequence, rhythm, and error-correction.
+AISWEEP-END -->
+*Oral* is the mouth. *Aural* is the ear. Oral tradition preserves content approximately: the story remains, the wording shifts; the song remains, the regional form varies; the meaning survives, the surface changes. Aural engineering preserves phonetic form exactly: vowel length, accent, breath gesture, place of articulation, sequence, rhythm, and error-correction.
 
 The mouth produces. The ear preserves. The engineering is in what the ear catches that the mouth cannot be trusted to remember alone.
 
@@ -114,7 +117,10 @@ Sanskrit has displayed **ध्रौव्यता (*dhrauvyatā*)** — const
 
 Codification also draws a line. The codified standard becomes correct; what falls outside it becomes wrong. Sanskrit did not operate this way. It was not an imperial language imposed from an apex. The living languages of the people were not declared deviant because they were not Sanskrit. They were allowed to flow as *prākṛtika* speech. The calibrant model draws no such line. The calibrant is held; ordinary speech is allowed to flow.
 
-Sanātan did not require every person to speak the calibrant language. **That is the critical distinction.** Society spoke its living languages, its prākṛtika forms, its regional speech-fields, its household speech, its songs, its market idioms. These were not treated as sinful deviations from an authorized tongue. They were allowed to flourish.
+<!-- AISWEEP-OLD
+Sanātan did not require every person to speak the calibrant language. **That is the critical distinction.** Society spoke its living languages, its prākṛtika forms, its regional speech-fields, its household speech, its songs, its market idioms.
+AISWEEP-END -->
+Sanātan did not require every person to speak the calibrant language. Society spoke its living languages, its prākṛtika forms, its regional speech-fields, its household speech, its songs, its market idioms. These were not treated as sinful deviations from an authorized tongue. They were allowed to flourish.
 
 Sanskrit stood elsewhere. Like ध्रुव (dhruva), the fixed star, it served as the calibrant language: the disciplined, preserved, architected standard against which knowledge, ritual, grammar, memory, and civilizational continuity could be held. Its preservation did not rest on a declared standard alone. The Vedic corpus, the Prātiśākhya discipline, Śikṣā, Chandas, the pāṭha systems, Vyākaraṇam, the Dhātupāṭha, and the *guru-shishya* lineage-chains formed a calibration architecture. The burden of that preservation fell on those who chose the path of rigor. The system did not merely announce correctness. It detected drift, corrected drift, and trained the human instrument that carried the form.
 
@@ -126,7 +132,10 @@ Minds learn language two ways. Some learn by **saturation**. They hear enough co
 
 Sanskrit has its own names for both paths. **श्रवण (*śravaṇa*)** — hearing-based reception — serves the saturation-trained mind. **व्याकरणम् (*vyākaraṇam*)** — analytical decomposition — serves the rule-trained mind. Most learners use both pathways and shift between them as mastery deepens. But the weighting differs across individuals, and the difference is real enough that the same language, taught the same way, can produce different kinds of mature speakers.
 
-This distinction matters because it clarifies Pāṇini's role. Whether a Pāṇini-style work existed when Sanskrit's architecture was first laid down is not known. The *Aṣṭādhyāyī* itself cites pre-Pāṇinian grammarians — Śākalya, Gārgya, Āpiśali, Kāśyapa, Sphoṭāyana, and others — whose works did not survive transmission. There may have been earlier sūtra-level documentation that has been lost; there may not have been. No such claim is necessary.
+<!-- AISWEEP-OLD
+This distinction matters because it clarifies Pāṇini's role. Whether a Pāṇini-style work existed when Sanskrit's architecture was first laid down is not known.
+AISWEEP-END -->
+The two learning-paths also sort out Pāṇini's role. Whether a Pāṇini-style work existed when Sanskrit's architecture was first laid down is not known. The *Aṣṭādhyāyī* itself cites pre-Pāṇinian grammarians — Śākalya, Gārgya, Āpiśali, Kāśyapa, Sphoṭāyana, and others — whose works did not survive transmission. There may have been earlier sūtra-level documentation that has been lost; there may not have been. No such claim is necessary.
 
 What survived on the rule-extraction side is one matter. What survived on the saturation side is observable. The Vedic corpus survived, together with its recitation lineages, and the Vedas function as a calibrant matrix: a preserved body of language that holds form against drift across thousands of years. Where a form is in doubt, the Veda settles it. Where pronunciation is in doubt, the *Prātiśākhya* settles it. Where transmission risks decay, the eleven *pāṭhas* of recitation restore it.
 
