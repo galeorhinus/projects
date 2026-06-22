@@ -74,7 +74,7 @@ If a feature is treated as evidence of earlier date because the framework assume
 
 The circularity becomes sharper at Pāṇini. The pyramid's account says Pāṇini codified a changed language because Vedic and Pāṇinian Sanskrit differ. But the categories used to describe the difference already assume the conclusion: Vedic is earlier; Classical is later; Pāṇini stands between; the difference therefore must be historical drift.
 
-Pāṇini himself does not mark the difference that way.
+Pāṇini himself does not draw the difference that way.
 
 He does not say: formerly. He does not say: in the older language. He does not say: before my codification. He uses rule-context labels: *chandasi* — in meter; *bhāṣāyām* — in speech. These are not the words of a man narrating chronological rupture. They are the words of an analyst assigning forms to operational contexts.
 
@@ -259,7 +259,7 @@ The Bhagavad Gītā says:
 >
 > *karmaṇy evādhikāras te mā phaleṣu kadācana |*
 
-**कर्मणि** is locative under sandhi; **अधिकारः** is nominative; **ते** carries dative force; **फलेषु** is locative plural. Sandhi joins, case endings bear the load, word order remains free because grammar is marked on the word.
+**कर्मणि** is locative under sandhi; **अधिकारः** is nominative; **ते** carries dative force; **फलेषु** is locative plural. Sandhi joins, case endings bear the load, word order remains free because grammar is carried on the word.
 
 Kālidāsa opens the *Raghuvaṃśa*:
 
@@ -460,7 +460,7 @@ The skeptical objection can now be answered directly.
 |---|---|
 | Sanskrit was changing continuously before Pāṇini. | Ordinary speech was always exposed to *apabhraṃśa*. The calibrated architecture was preserved through the Vedas, *chandas*, *śruti*, *pāṭha*, *Prātiśākhya*, *Śikṣā*, and grammatical analysis. Change around the system is not collapse of the system. |
 | Pāṇini codified Sanskrit because drift had become dangerous. | Pāṇini decoded an already engineered system. Patañjali gives the order: established bond first, usage second, *śāstra* third. *Śāstra* regulates; it does not manufacture the bond. |
-| Vedic and Classical Sanskrit are two stages. | The architecture is two-axis, not one-line chronology: *vaidika* / *laukika* are domains; *chandas* / *bhāṣā* are modes. Pāṇini marks modes, not periods. |
+| Vedic and Classical Sanskrit are two stages. | The architecture is two-axis, not one-line chronology: *vaidika* / *laukika* are domains; *chandas* / *bhāṣā* are modes. Pāṇini distinguishes modes, not periods. |
 | The subjunctive disappeared. | The *leṭ-lakāra* belongs to the *chandas* mode. Its restricted deployment in *bhāṣā* is mode-difference, not proof of language death. |
 | Vedic accent disappeared. | Vedic accent remains preserved in recitation. It is not part of ordinary *bhāṣā* operation in the same way. Preservation in one mode and non-deployment in another is not loss. |
 | Vedic had many infinitives; Classical has fewer. | Metrical corpus operation requires alternate syllable-forms. Productive speech does not require the same range. Multiple infinitives are metrical tooling before they are evidence of drift. |

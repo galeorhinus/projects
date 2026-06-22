@@ -154,7 +154,7 @@ Savarkar was technically accurate. The colonial claim failed the test of *āryat
 
 Two counts. Same result.
 
-The colonial intellectual class that built the racial Arya thesis — and the institutional successors who carry its softened migration variant today — claimed *ārya* for itself. On every standard Sanātan's categories carry, the claim marked the opposite: structural *mleccha*.
+The colonial intellectual class that built the racial Arya thesis — and the institutional successors who carry its softened migration variant today — claimed *ārya* for itself. On every standard Sanātan's categories carry, the claim signaled the opposite: structural *mleccha*.
 
 ## 16.6 The True Test of Āryatva
 

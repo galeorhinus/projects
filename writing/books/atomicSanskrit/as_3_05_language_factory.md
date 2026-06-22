@@ -46,7 +46,7 @@ The procedure has six steps.
 2. **Translate to Sanskrit**, identifying the *dhātus*, primitive nominals, and grammatical morphemes used.
 3. **Separate the Sanskrit forms into phonemes** — **स्वर (*svaras*)** (vowels) and **व्यञ्जन (*vyañjanas*)** (consonants).
 4. **Design a phoneme cipher**: a mapping from Sanskrit's phoneme set to the substrate's phoneme set.
-5. **Apply the cipher to all dhātus, nominals, and morphemes** consistently. Surface forms transform; abstract structure (root + suffix + ending; case-marking; conjugation; *sandhi*) is preserved.
+5. **Apply the cipher to all dhātus, nominals, and morphemes** consistently. Surface forms transform; abstract structure (root + suffix + ending; case inflection; conjugation; *sandhi*) is preserved.
 6. **Render the output in Devanagari** — the same script that renders the original Sanskrit. The reader who knows Sanskrit can back-engineer the *dhātus* and morphemes by inspection.
 
 The grammar passes through unchanged. Agent nouns remain agent nouns. Present-tense verbs remain present-tense verbs. Case endings still carry case. *Sandhi* still governs junctions. The phonemes change; the architecture does not.

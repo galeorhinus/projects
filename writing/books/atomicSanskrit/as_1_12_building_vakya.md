@@ -40,7 +40,7 @@ The *dhātuḥ* is a semantic atom. To enter speech, it must bond into a sentenc
 
 Sanskrit bonds the atom in two main directions. A head-bond enters before the atom. A tail-bond enters after it. Sanskrit's grammatical names are **उपसर्गः (*upasargaḥ*)** and **प्रत्ययः (*pratyayaḥ*)**.
 
-An *upasargaḥ* redirects the atom's field of action. A *pratyayaḥ* stabilizes the molecule's class: action, agent, deed, instrument, state, obligation, and so on. A **विभक्तिः (*vibhaktiḥ*)** or **तिङ्-प्रत्ययः (*tiṅ-pratyayaḥ*)** then prepares the form for sentence use by marking role, number, person, and relation.
+An *upasargaḥ* redirects the atom's field of action. A *pratyayaḥ* stabilizes the molecule's class: action, agent, deed, instrument, state, obligation, and so on. A **विभक्तिः (*vibhaktiḥ*)** or **तिङ्-प्रत्ययः (*tiṅ-pratyayaḥ*)** then prepares the form for sentence use by fixing role, number, person, and relation.
 
 The governing issue is recoverability. The bond remains visible enough for the form to be analyzed, taught, corrected, recited, and recalibrated.
 
@@ -133,7 +133,7 @@ The tail-bond gives the atom a job.
 
 The head-bond and tail-bond can now be placed on one matrix. The matrix is a conservative demonstration of the procedure: one atom, different head-bonds, different tail-bonds, different molecules.
 
-The blanks are intentional. They mark unused cells. The test is recoverability, not square-filling: each real molecule in the visible cells has a recoverable construction.
+The blanks are intentional. They flag unused cells. The test is recoverability, not square-filling: each real molecule in the visible cells has a recoverable construction.
 
 | Head-bond | State / formation | Act / mode | Obligation | Deed | Agent |
 |---|---|---|---|---|---|
@@ -154,9 +154,9 @@ The *racanā* × *gaṇa* matrix made the same point at the previous scale. Some
 
 ## 12.7 From *Śabda* to *Padam*
 
-A **शब्दः (*śabdaḥ*)** carries meaning. A **पदम् (*padam*)** is ready for use inside a sentence because its role has been marked.
+A **शब्दः (*śabdaḥ*)** carries meaning. A **पदम् (*padam*)** is ready for use inside a sentence because its role has been set.
 
-This distinction matters. A molecule can name an object, action, quality, agent, or state. A sentence needs relations: who acts, what is known, by what instrument, in what place, toward what object. Sanskrit marks those relations inside the *padam*.
+This distinction matters. A molecule can name an object, action, quality, agent, or state. A sentence needs relations: who acts, what is known, by what instrument, in what place, toward what object. Sanskrit encodes those relations inside the *padam*.
 
 The primary nominal role-ending is **विभक्तिः (*vibhaktiḥ*)**. A *vibhaktiḥ* saturates the molecule for use by setting role, number, and relation. The verbal side encodes role through its own **तिङ्-प्रत्ययाः (*tiṅ-pratyayāḥ*)**, which carry person, number, and verbal relation.
 
@@ -180,7 +180,7 @@ The *śabda* becomes a *padam* when it is prepared for relation. The molecule be
 
 Once the *padāni* are saturated, the **वाक्यम् (*vākyam*)** can assemble.
 
-A *vākya* is an assembly of role-marked molecules. The relations are marked in the parts.
+A *vākya* is an assembly of role-bearing molecules. The relations are carried in the parts.
 
 Use the same line:
 
@@ -204,7 +204,7 @@ The English sense is: *What will one who does not know that do with the ṛc?*
 
 The line is short, and every layer remains visible. **करिष्यति (*kariṣyati*)** carries the future action and returns the reader to **कृ (*kṛ*)**, the flagship atom. **ऋचा (*ṛcā*)** carries the instrumental relation. **यः (*yaḥ*)** and **तत् (*tat*)** set up the relative field. **न (*na*)** negates the knowing. The relations inside the parts hold the sentence together.
 
-By the time the *vākya* is formed, the lower levels remain recoverable. The sonomers remain recoverable because sound-change operates by rule. The *dhātuḥ* remains recoverable because the molecule preserves its atomic identity through affixation. The *upasargaḥ* and *pratyayaḥ* remain recoverable because the bond leaves grammatical and semantic signatures. The *padam* remains recoverable because *vibhaktiḥ* and *tiṅ-pratyayaḥ* mark relation, number, person, and role.
+By the time the *vākya* is formed, the lower levels remain recoverable. The sonomers remain recoverable because sound-change operates by rule. The *dhātuḥ* remains recoverable because the molecule preserves its atomic identity through affixation. The *upasargaḥ* and *pratyayaḥ* remain recoverable because the bond leaves grammatical and semantic signatures. The *padam* remains recoverable because *vibhaktiḥ* and *tiṅ-pratyayaḥ* carry relation, number, person, and role.
 
 The sentence is the larger assembly. The smaller engineering remains visible inside it.
 

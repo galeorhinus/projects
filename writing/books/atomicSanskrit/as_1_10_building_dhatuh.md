@@ -91,7 +91,7 @@ Before the inventory is measured, the construction itself has to be clear. Sansk
 
 The *varṇamālā* gives Sanskrit two kinds of sonomers. They do different work inside the atom.
 
-**स्वराः (*svarāḥ*) are nuclei.** The word encodes the structural fact: a *svaraḥ* shines by itself. A vowel can stand alone as a syllable. आ, ई, ऊ — each is pronounceable without help. The vowel carries acoustic center, timing, and syllabic identity. Remove the consonants and the vowel remains. Remove the vowel and the consonant collapses into an unutterable mark.
+**स्वराः (*svarāḥ*) are nuclei.** The word encodes the structural fact: a *svaraḥ* shines by itself. A vowel can stand alone as a syllable. आ, ई, ऊ — each is pronounceable without help. The vowel carries acoustic center, timing, and syllabic identity. Remove the consonants and the vowel remains. Remove the vowel and the consonant collapses into an unutterable glyph.
 
 That is what a nucleus does in the atomic metaphor. It carries identity. It anchors the structure. It is stable and central.
 

@@ -16,7 +16,7 @@ Sanskrit is that kind of object. Asking only what came before it is asking the g
 
 The question PIE attempts to answer is the wrong question.
 
-**The shared features mark Sanskrit as speech. The unshared features mark it as engineered.**
+**The shared features show Sanskrit as speech. The unshared features reveal it as engineered.**
 
 ## 17.1 The Architectural Test
 

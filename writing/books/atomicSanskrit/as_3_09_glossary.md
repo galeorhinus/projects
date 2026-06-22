@@ -86,7 +86,7 @@ The glossary is organized in three groups:
 
 ### **pratyaya** (प्रत्यय) / **pratyayāḥ** (प्रत्ययाः)
 
-**Standard.** Affix; suffix. Pāṇini's vast *pratyaya* inventory covers *kṛt* (primary derivational), *taddhita* (secondary derivational), *sup* (case-ending), *tiṅ* (finite verb ending), *vikaraṇa* (class-marker), and several other functional classes.
+**Standard.** Affix; suffix. Pāṇini's vast *pratyaya* inventory covers *kṛt* (primary derivational), *taddhita* (secondary derivational), *sup* (case-ending), *tiṅ* (finite verb ending), *vikaraṇa* (class-affix), and several other functional classes.
 
 **English pair**: *suffix*. In the bonding-procedure idiom: *bond*.
 

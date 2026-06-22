@@ -38,7 +38,7 @@ Writing did not meet that test.
 
 ## 13.3 Why Writing Was Insufficient
 
-**लीपि (*lipi*)** is writing: linguistic content fixed in visible marks.
+**लीपि (*lipi*)** is writing: linguistic content fixed in visible glyphs.
 
 The civilization knew writing. It used writing. Brāhmī, Devanagari, the southern scripts, the regional descendants and adaptations — all are *lipi*. The decision not to entrust the *Vedas* to writing was not ignorance of writing. It was engineering judgment.
 
@@ -90,7 +90,7 @@ The mouth produces. The ear preserves. The engineering is in what the ear catche
 
 The ***progressive dogma*** collapses both into "oral tradition" because both happen without writing. The collapse serves the linear-progress teleology Chapter 2 §2.4 develops: writing is taken to be advanced, oral transmission to be primitive residue. The dogma's framing has the engineering backwards.
 
-Writing is easier. It asks one sense to read, one hand to write, one medium to store. Once the mark exists, the medium carries the burden.
+Writing is easier. It asks one sense to read, one hand to write, one medium to store. Once the glyph exists, the medium carries the burden.
 
 Aural preservation is harder. It requires trained vocal production, trained discriminating hearing, social continuity, *guru-shishya* lineage-discipline, and multi-channel recitation redundancy strong enough to detect and correct error before it becomes inheritance. It uses the body as instrument and the ear as validator. That is not primitive. It is higher engineering.
 
