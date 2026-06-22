@@ -108,7 +108,10 @@ The tail-bonds show the same principle from the other side. Bare *kṛ* can beco
 
 This is the reason *kṛ* carries the demonstration. It connects the technical proof to the highest categories in the argument: *prakṛti*, *vikṛti*, and *saṃskṛti*. The words for the creation triad are themselves products of the bonding procedure being demonstrated.
 
+<!-- AISWEEP-OLD
 The contrast matters too. Not every atom behaves like *kṛ*. **ह्लाद् (*hlād*)** is a higher-*mātrā*, lower-reactivity atom in the joined analysis.[NOTE: hlad-contrast-atom] It can still bond and generate, but it does not open the same wide molecular field. That difference is useful. Sanskrit's bonding procedure handles both classes: the highly reactive atoms that build large conceptual territories, and the specialized atoms that carry narrower semantic work.
+AISWEEP-END -->
+Not every atom behaves like *kṛ*. **ह्लाद् (*hlād*)** is a higher-*mātrā*, lower-reactivity atom in the joined analysis.[NOTE: hlad-contrast-atom] It still bonds and generates, but it does not open the same wide molecular field, and Sanskrit's bonding procedure handles both kinds: the highly reactive atoms that build large conceptual territories, and the specialized atoms that carry the narrower semantic work.
 
 The demonstration follows *kṛ* because it makes the procedure visible. Once the reader sees the procedure on the most reactive atom, the same logic can be recognized elsewhere.
 
@@ -191,11 +194,11 @@ A **शब्दः (*śabdaḥ*)** carries meaning. A **पदम् (*padam*)*
 <!-- AISWEEP-OLD
 This distinction matters. A molecule can name an object, action, quality, agent, or state. A sentence needs relations: who acts, what is known, by what instrument, in what place, toward what object. Sanskrit encodes those relations inside the *padam*.
 AISWEEP-END -->
-The distinction matters. A molecule can denote an object, an action, a quality, an agent, or a state, but a sentence needs relations — who acts, what is known, by what instrument, in what place, toward what object — and Sanskrit encodes those relations inside the *padam*.
+A molecule can denote an object, an action, a quality, an agent, or a state, but a sentence needs relations — who acts, what is known, by what instrument, in what place, toward what object — and Sanskrit encodes those relations inside the *padam*.
 
 The primary nominal role-ending is **विभक्तिः (*vibhaktiḥ*)**. A *vibhaktiḥ* saturates the molecule for use by setting role, number, and relation. The verbal side encodes role through its own **तिङ्-प्रत्ययाः (*tiṅ-pratyayāḥ*)**, which carry person, number, and verbal relation.
 
-Return to the epigraph line:
+Returning to the epigraph line:
 
 > यस्तन्न वेद किमृचा करिष्यति
 >
@@ -252,7 +255,10 @@ That is the answer at assembly scale. The *dhātuḥ* displayed atomic recoverab
 
 ## 12.9 Boundary Crossing: अपभ्रंश (*Apabhraṃśa*) = Vivimorphosis
 
+<!-- AISWEEP-OLD
 The Sanskrit side of the story is now built. Sonomers enter atoms. Atoms enter molecules. Molecules become *padāni*. *Padāni* assemble into *vākyāni*. Inside Sanskrit, the levels remain recoverable because the calibrant architecture is still operating.
+AISWEEP-END -->
+The Sanskrit side of the story is now built — sonomers into atoms, atoms into molecules, molecules into *padāni*, *padāni* into *vākyāni* — and inside Sanskrit every level stays recoverable because the calibrant architecture is still operating.
 
 Now the molecule crosses the calibrant boundary.
 
@@ -287,7 +293,10 @@ What the philological dogma calls roots across its reconstructed daughter-langua
 
 The form that sprouts from the *bīja* — the expressed organic root — is what Patañjali calls **अपशब्द (*apaśabda*)** in the *Mahābhāṣya* (1.1.1): the slipped form, the canonical opposite of *śabda*. *Śabda* and *apaśabda* are different in kind, not just in form. One is an engineered molecule held by the calibrant architecture. The other is an organic root expressed from a *bīja*, with its own productive behavior in the contact language. The molecule is held by specification. The root takes nourishment from its new linguistic soil. The molecule is not left to drift through a separate organic history; the root has descendants, mutations, branches, and a line of evolution within the receiving language.
 
+<!-- AISWEEP-OLD
 A clarification matters here, because the category-theft charge has already rejected the word *root* for *dhātavaḥ*. The philological dogma has long called Sanskrit's *dhātavaḥ* "roots" — the central translation Chapter 2 dismantles, because *dhātavaḥ* are engineered constituents in Sanskrit's atomic architecture, not organic origins from which something grew. The botanical-root metaphor was the right word applied to the wrong target. The right target is the *apaśabda*. The *apaśabda* is an organic root — a form that grows, branches, mutates, and dies in the soil of a natural language. The pyramid took a correct linguistic term and aimed it at the wrong object. The right placement is simple: roots are what *apaśabdas* are, not what *dhātavaḥ* are.
+AISWEEP-END -->
+The category-theft charge has already rejected the word *root* for *dhātavaḥ*. The philological dogma has long called Sanskrit's *dhātavaḥ* "roots" — the central translation Chapter 2 dismantles, because *dhātavaḥ* are engineered constituents in Sanskrit's atomic architecture, not organic origins from which something grew. The botanical-root metaphor was the right word applied to the wrong target. The right target is the *apaśabda*. The *apaśabda* is an organic root — a form that grows, branches, mutates, and dies in the soil of a natural language. The pyramid took a correct linguistic term and aimed it at the wrong object. The right placement is simple: roots are what *apaśabdas* are, not what *dhātavaḥ* are.
 
 The transformation from *śabda* to *apaśabda* has two names. ***Apabhraṃśa*** is Sanskrit's name — the falling-away, the slip from the engineered form, the term Patañjali deploys for what the grammarian must defend against. **Vivimorphosis** is the English coining for the same event viewed from the inverse angle: the engineered molecule acquiring organic behavior. *Apabhraṃśa* foregrounds the loss. *Vivimorphosis* foregrounds the gain. They are the same arrow, seen from the calibrant's side and from the contact language's side.
 
@@ -305,12 +314,21 @@ Chapter 18 §18.6 develops the worked examples: *devaḥ* becoming Latin *deus*;
 
 The *dhātuḥ* is now visible as an atomic construction. The atom has entered operation and become action. The next scale is now visible: the atom becomes *śabda*, the molecule becomes *padam*, and the *padam* enters the *vākya*.
 
+<!-- AISWEEP-OLD
 The governing principle is assembly without loss. The sentence is larger than the atom, but the atom remains recoverable inside it. The sonomers remain recoverable because Sanskrit's operations continue to work at the sonomeric level. The head-bond and tail-bond remain recoverable because they leave grammatical and semantic signatures. The role-ending remains recoverable because *vibhaktiḥ* and *tiṅ-pratyayaḥ* carry relation, number, person, and role.
+AISWEEP-END -->
+The governing principle is assembly without loss. The sentence is larger than the atom, yet the atom stays recoverable inside it — and so does every layer between: the sonomers because Sanskrit's operations still work at the sonomeric level, the head-bond and tail-bond because they leave grammatical and semantic signatures, the role-ending because *vibhaktiḥ* and *tiṅ-pratyayaḥ* carry relation, number, person, and role.
 
 That recoverability is what lets the sentence be interpreted, recited, corrected, and calibrated. Sanskrit generates larger forms while keeping the path back to their construction visible. The *vākya* is therefore not a loose string of words. It is an assembly whose lower layers remain available.
 
+<!-- AISWEEP-OLD
 The boundary clarifies the point. Inside Sanskrit, the calibrant architecture holds the molecule in specification. When the *śabda* crosses into a contact language, the process has two faces: *apabhraṃśa* from the Sanskrit side, vivimorphosis from the receiving side. The engineered molecule becomes a seed and then an organic root. Organic behavior begins, and with it come drift, mutation, and mortality.
+AISWEEP-END -->
+Across the boundary, the same architecture runs the other way. Inside Sanskrit, the calibrant architecture holds the molecule in specification; once the *śabda* crosses into a contact language, the process shows two faces — *apabhraṃśa* from the Sanskrit side, vivimorphosis from the receiving side — and the engineered molecule becomes a seed, then an organic root, where organic behavior begins and brings drift, mutation, and mortality.
 
+<!-- AISWEEP-OLD
 The scale-chain has therefore reached the operating language. Sonomers have become atoms. Atoms have become molecules. Molecules have become role-bearing *padāni*. *Padāni* have become *vākyāni*. The lower levels remain visible enough for the whole structure to be preserved.
+AISWEEP-END -->
+The scale-chain has therefore reached the operating language — sonomers have become atoms, atoms molecules, molecules role-bearing *padāni*, *padāni* *vākyāni* — and the lower levels stay visible enough for the whole structure to be preserved.
 
 Chapter 13 asks how such an operating language can survive across time. Chapter 14 introduces the answer: the calibration matrix.
