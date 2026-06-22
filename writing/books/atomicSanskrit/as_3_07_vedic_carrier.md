@@ -1,6 +1,6 @@
 # Appendix Part 7 — The Vedic Carrier
 
-*Draft v2 (2026-05-20). Paraphrased four-tier merge of Codex compression (1,384 words) against the canonical draft (5,471 prose words). **Appendix voice**: T1 + T2 + T4 substance preserved through paraphrase; T3 compressed to Codex-style tightness. Codex's seven-section structure adopted (cleaner than canonical's six-section with sub-numbered §7.2.1–§7.2.4 and §7.3.1–§7.3.2). The two empirical tables (12-row dhātu table at §7.3; 8-row drift-claims table at §7.5) preserved verbatim. Per-verse phrase-by-phrase analysis with full Devanagari + IAST + gloss + Pāṇinian grammar-term pairings restored in §7.2. Wheeler-overreach full dossier (1947 Mohenjo-daro / "Indra stands accused" / Dales 1964 / Kenoyer / Possehl / Kennedy) restored in §7.4. Form-drift / meaning-drift two-mode analysis with hlāfweard → Lord (Goddard 1910 *moron* → Rosa's Law 2010 → DSM-5 2013) restored in §7.6.*
+*Draft v2 (2026-05-20). Paraphrased four-tier merge of Codex compression (1,384 words) against the canonical draft (5,471 prose words). **Appendix voice**: T1 + T2 + T4 substance preserved through paraphrase; T3 compressed to Codex-style tightness. Codex's seven-section structure adopted (cleaner than canonical's six-section with sub-numbered §7.2.1–§7.2.4 and §7.3.1–§7.3.2). The two empirical tables (12-row dhātu table at §7.3; 8-row drift-claims table at §7.5) preserved verbatim. Per-verse phrase-by-phrase analysis with full Devanagari + IAST + gloss + Pāṇinian grammar-term pairings restored in §7.2. Wheeler-overreach full companion (1947 Mohenjo-daro / "Indra stands accused" / Dales 1964 / Kenoyer / Possehl / Kennedy) restored in §7.4. Form-drift / meaning-drift two-mode analysis with hlāfweard → Lord (Goddard 1910 *moron* → Rosa's Law 2010 → DSM-5 2013) restored in §7.6.*
 
 ---
 
@@ -113,7 +113,7 @@ The same verses show the *Dhātupāṭha*'s real status. It is not a list of sem
 
 Pāṇini records the inventory because the inventory was already functioning. He compresses the system because the system was already present. The *vaiyākaraṇāḥ* do not manufacture Sanskrit. They decode it.
 
-The *īḷe* case matters especially. The *dhātu* is the same; the surface form is mode-specific. The Vedic ळ is not a separate-language relic. It is a *chandas*-mode feature of the same architecture.
+The *īḷe* case shows it most directly. The *dhātu* is the same; the surface form is mode-specific. The Vedic ळ is not a separate-language relic. It is a *chandas*-mode feature of the same architecture.
 
 ## 7.4 The Overreach Called Evolution
 
@@ -136,7 +136,7 @@ The instrumental plural pair makes the issue plain. Vedic Sanskrit can use both 
 - Classical: ***devaiḥ*** (देवैः) — two syllables
 - Vedic: both ***devaiḥ*** (देवैः) and ***devebhiḥ*** (देवेभिः, three syllables), sometimes in the same hymn, sometimes within a few lines
 
-The dogma treats the longer form as an older relic later lost. The engineering reading is simpler.
+The dogma treats the longer form as an older relic later lost. The engineering account is simpler.
 
 *Devaiḥ* is shorter. *Devebhiḥ* is longer. Meter decides.
 

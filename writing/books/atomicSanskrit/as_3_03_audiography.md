@@ -36,7 +36,7 @@ The hierarchy is therefore:
 
 The sonomer is the unit. The *varṇamālā* orders the units. The *akṣara* stabilizes the unit. The audiograph makes it visible. *Lipi* is the interface, not the foundation.
 
-This matters because the foundational dogma starts at the wrong end. It sees the visible symbol first. It compares glyphs. It asks whether Brāhmī looks like Aramaic. It classifies Indic scripts as *abugidas*. It treats the visible interface as the primary object.
+The foundational dogma starts at the wrong end of that hierarchy. It sees the visible symbol first. It compares glyphs. It asks whether Brāhmī looks like Aramaic. It classifies Indic scripts as *abugidas*. It treats the visible interface as the primary object.
 
 That misses the architecture. The real question is not whether a few glyphs show contact influence. The real question is whether Aramaic could have supplied the sonomeric system Brāhmī renders. It could not.
 
@@ -140,7 +140,7 @@ The same pattern appears elsewhere. Hammurabi's stele. Darius's Behistun inscrip
 
 A distributed civilization leaves a different archive. Notes, teaching aids, accounts, letters, mnemonic prompts, working drafts, student exercises, household records, market communication — these live on palm leaf, birch bark, wood, cloth, temporary tablets. In the Indian climate, that archive dies. The absence of surviving notebooks is not evidence that no one wrote notes. It is evidence that stone survives and palm leaf rots.
 
-This matters because *lipi* was not the civilizational calibrant. Chapter 13 §13.3 disqualified writing for the *sāṃskṛtika* bucket. The calibrant was sound: the *varṇamālā*, the eleven **पाठाः (*pāṭhāḥ*)**, the **प्रातिशाख्य (*Prātiśākhya*)** discipline, **शिक्षा (*Śikṣā*)**, **छन्दस् (*Chandas*)**, **व्याकरणम् (*Vyākaraṇam*)**, and the **गुरुशिष्यपरम्परा (*guru-shishya paramparā*)**, the teacher-student lineage-chain. Writing could serve the system without carrying the system. A civilization that placed preservation in the mouth and ear had no need to make writing its primary archive.
+*Lipi* was never the civilizational calibrant. Chapter 13 §13.3 disqualified writing for the *sāṃskṛtika* bucket. The calibrant was sound: the *varṇamālā*, the eleven **पाठाः (*pāṭhāḥ*)**, the **प्रातिशाख्य (*Prātiśākhya*)** discipline, **शिक्षा (*Śikṣā*)**, **छन्दस् (*Chandas*)**, **व्याकरणम् (*Vyākaraṇam*)**, and the **गुरुशिष्यपरम्परा (*guru-shishya paramparā*)**, the teacher-student lineage-chain. Writing could serve the system without carrying the system. A civilization that placed preservation in the mouth and ear had no need to make writing its primary archive.
 
 The first durable Brāhmī inscription dates the surviving interface. It does not date the *varṇamālā*. It does not date the mapping of the mouth. It does not date the isolation of the *varṇa* as sonomer. It does not date the invention of the *akṣara* as the imperishable sound-unit made visible.
 
@@ -160,7 +160,7 @@ Brāhmī, Devanāgarī, and the Indic script family are audiographic. They rende
 
 To admit *audiography* as a category would force the foundational dogma to acknowledge an Indic invention at the level it guards most closely: the engineering of writing. To admit *sonomer* would go deeper still. It would acknowledge that India first engineered the unit the script renders. That is why the asuric pyramid prefers a borrowed typological label. *Abugida* keeps the Indic system inside someone else's taxonomy. *Audiography* lets it stand in its own category.
 
-There is a precise parallel in another domain. In 1839, **John Herschel** coined *photography* — from Greek *phōs* (light) and *graphē* (writing) — for the engineered capture of visible reality as a stable visual artifact. Niépce's heliograph, Daguerre's daguerreotype, and Talbot's calotype were the engineering achievements. *Photography* named them. The church of progress treats photography as a foundational accomplishment of the nineteenth-century West. It celebrates the named inventors. It traces the engineering. It teaches the achievement in every art school.
+There is a precise parallel in another domain. In 1839, **John Herschel** coined *photography* — from Greek *phōs* (light) and *graphē* (writing) — for the engineered capture of visible reality as a stable visual artifact. Niépce's heliograph, Daguerre's daguerreotype, and Talbot's calotype were the engineering achievements. *Photography* is their name. The church of progress treats photography as a foundational accomplishment of the nineteenth-century West. It celebrates the named inventors. It traces the engineering. It teaches the achievement in every art school.
 
 The *varṇamālā*, rendered as Brāhmī and its descendants, is the engineered capture of audible reality as a stable visual artifact. It is the same operation as photography, applied to a different physical phenomenon, many thousands of years earlier, at far higher fidelity than any later writing system has matched. Photography captures three rough channels of visible light. The *varṇamālā* first isolates the sonomers and then captures their full articulation matrix: five places of articulation, five manners of articulation, vowel modification, and the *ayogavāha* breath-gestures.
 
@@ -282,7 +282,7 @@ The project has several tasks.
 
 First, compare Brāhmī, Aramaic, Kharoṣṭhī, and Phoenician by encoding system, not by glyph-shape alone. A few visual similarities cannot explain the *varga* matrix, the vowel-diacritic system, the *ayogavāha*, or the sonomeric specification underneath them.
 
-Second, read the *Prātiśākhya* and *Śikṣā* literature as engineering documentation. These texts show that the sonomer system is older than the script that renders it.
+Second, treat the *Prātiśākhya* and *Śikṣā* literature as engineering documentation. These texts show that the sonomer system is older than the script that renders it.
 
 Third, test the chronology of Aramaic-Brāhmī contact without letting the surviving stone archive decide the whole question. Durable stone records apex speech. It does not preserve the working notebook.
 

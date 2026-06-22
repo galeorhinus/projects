@@ -1,6 +1,6 @@
 # Appendix Part 2 — The Encyclopaedic Confirmation
 
-*Draft v2 (2026-05-20). Four-tier merge of Codex compression (2,084 words) against the canonical draft (5,700 prose words). **Appendix voice**: T1 + T2 + T4 restored verbatim; T3 compressed to Codex-style tightness. T4 = dossier preservation. Sibling appendix to Part 1: Part 1 prosecutes the pre-independence operation (the colonial Sanskrit-knowledge pipeline that fed the German bake); Part 2 prosecutes the post-independence continuation (the *Encyclopaedic Dictionary of Sanskrit on Historical Principles*, Deccan College Pune, 1948–present).*
+*Draft v2 (2026-05-20). Four-tier merge of Codex compression (2,084 words) against the canonical draft (5,700 prose words). **Appendix voice**: T1 + T2 + T4 restored verbatim; T3 compressed to Codex-style tightness. T4 = reference preservation. Sibling appendix to Part 1: Part 1 prosecutes the pre-independence operation (the colonial Sanskrit-knowledge pipeline that fed the German bake); Part 2 prosecutes the post-independence continuation (the *Encyclopaedic Dictionary of Sanskrit on Historical Principles*, Deccan College Pune, 1948–present).*
 
 ---
 
@@ -90,7 +90,7 @@ This book uses different language for Indic texts: *thousands of years* as the p
 
 The church of progress knows how to recognize engineered preservation. It refuses to recognize Sanskrit's.
 
-The Masoretic apparatus — dots, dashes, marginal notes, consonantal text, vowel pointing, manuscript correction — is universally recognized as the engineered preservation of a fixed Hebrew text. Masoretic variants are read as preservation artifacts. They are not read as evidence that Hebrew was a natural-evolutionary language drifting like English.
+The Masoretic apparatus — dots, dashes, marginal notes, consonantal text, vowel pointing, manuscript correction — is universally recognized as the engineered preservation of a fixed Hebrew text. Masoretic variants are treated as preservation artifacts. They are not taken as evidence that Hebrew was a natural-evolutionary language drifting like English.
 
 The Arabic preservation system — *tajwīd*, *qirā'āt*, *isnād*, recitational discipline, memorization — is recognized as engineered preservation of a fixed Quranic text. *Tajwīd* variants are not flattened into ordinary oral transmission.
 
@@ -158,7 +158,7 @@ The choice Deccan College made in 1948 can be unmade today.
 
 Nothing needs to be thrown away. Thirty-five volumes, 6,056 pages, 1,500 corpus texts, ten million Scriptorium slips — all of it is empirically valuable. The framework changes; the data is preserved entirely.
 
-The same corpus, engaged through the Patañjalian frame the data has been confirming all along, supplies direct empirical evidence for the engineered Sanskrit thesis. Read through Patañjalian specification, the geography and chronology of attested *apabhraṃśa* the project has catalogued becomes the empirical map of where the calibrant envelope was tested. Read through Pāṇini, the generative output across the centuries — Buddhist literature, *Navya-Nyāya* logic, *Jyotiṣa* astronomy, *Rasaśāstra* alchemy, mediaeval commentary — is the *kṛt* / *taddhita* / *samāsa* engine running. Read through the calibrant frame, the semantic-extension trajectories of *yantra* / *dharma* / *brahman* are the architecture extending its semantic reach without breaking the phonetic form. The same data; a different reading.
+The same corpus, engaged through the Patañjalian frame the data has been confirming all along, supplies direct empirical evidence for the engineered Sanskrit thesis. Read through Patañjalian specification, the geography and chronology of attested *apabhraṃśa* the project has catalogued becomes the empirical map of where the calibrant envelope was tested. Read through Pāṇini, the generative output across the centuries — Buddhist literature, *Navya-Nyāya* logic, *Jyotiṣa* astronomy, *Rasaśāstra* alchemy, mediaeval commentary — is the *kṛt* / *taddhita* / *samāsa* engine running. Read through the calibrant frame, the semantic-extension trajectories of *yantra* / *dharma* / *brahman* are the architecture extending its semantic reach without breaking the phonetic form. The same data; a different account.
 
 The imposed chronology can be set aside. The BCE/CE dates — *Ṛgveda* around 1400 BCE, Pāṇini around 500 BCE, Patañjali in the second century BCE — were imposed so the method could run. They are framework-internal calibrations.
 
@@ -223,7 +223,7 @@ The cure has been in the opening prayer all along.
 
 ## Draft notes (Appendix Part 2 v2)
 
-**Word count:** ~4,450 prose words across one opening + nine sections after the **2026-05-20 third-pass paraphrase** (was ~5,550 after second-pass; ~5,300 after first-pass verbatim merge). The third pass applies Codex-style compression to the T1 / T2 / T4 substance §2.1 onwards — paraphrasing rather than verbatim restoration while preserving every load-bearing item (Devanagari first-use pairings, primary-source Sanskrit quotes, dossier dates, named figures, both Tables, cluster-vocabulary, cross-references). Net compression of §2.1–§2.9 from ~5,300 (first-pass verbatim) to ~3,900 (third-pass paraphrase) ≈ 25%.
+**Word count:** ~4,450 prose words across one opening + nine sections after the **2026-05-20 third-pass paraphrase** (was ~5,550 after second-pass; ~5,300 after first-pass verbatim merge). The third pass applies Codex-style compression to the T1 / T2 / T4 substance §2.1 onwards — paraphrasing rather than verbatim restoration while preserving every load-bearing item (Devanagari first-use pairings, primary-source Sanskrit quotes, reference dates, named figures, both Tables, cluster-vocabulary, cross-references). Net compression of §2.1–§2.9 from ~5,300 (first-pass verbatim) to ~3,900 (third-pass paraphrase) ≈ 25%.
 
 **Asuric Christian Pyramid line (third-pass opener addition).** The opener's closing line now reads: *"The asuric Christian pyramid failed to destroy the civilization's architecture, as the asuric Islamic pyramid before it had failed. The post-independence intellectual machinery simply chose not to read the blueprints."* Paraphrased from Codex's line 7 (*"Just like the Asuric Islamic pyramid before them, the Asuric Christian pyramid failed to destroy the civilization's architecture."*). Lands the Part 1 §1.1 *Islamic-pyramid-failed-in-India* observation extended forward to the post-independence Christian-pyramid form. Lowercase *asuric* per cluster-vocabulary convention.
 
@@ -267,7 +267,7 @@ The cure has been in the opening prayer all along.
   - Codex's "One is a test. The other is a mood." §2.7 close retained — strong Codex addition.
   - Codex's "Three layers. User-side noise. Engine-side generation. Meaning-extension inside stable form." §2.5 close retained.
 
-- **T4 restorations (dossier voice — verbatim in appendix):**
+- **T4 restorations (reference-companion voice — verbatim in appendix):**
   - §2.1: **BORI 1919** founding date + **1966** final *Mahābhārata* volume — institutional-arc dating.
   - §2.1: **George Grierson** named; **Linguistic Survey of India 1894–1928** dates — colonial-philological taxonomy provenance.
   - §2.2: **Professor S.M. Katre** full name + chair-title *Professor of Indo-European Philology* preserved.

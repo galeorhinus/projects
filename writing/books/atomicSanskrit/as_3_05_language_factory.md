@@ -1,12 +1,12 @@
 # Appendix Part 5 — The Language Factory
 
-*Draft v2 (2026-05-20). Paraphrased four-tier merge of Codex compression (1,375 words) against the canonical draft (4,300 prose words). **Appendix voice**: T1 + T2 + T4 substance preserved through paraphrase; T3 compressed to Codex-style tightness. Codex's nine-section structure preserved; canonical's dossier specifics (Bopp's *Vergleichende Grammatik* 1833–1852 + Schleicher's *Compendium* 1861 + *Avis akvāsas ka* 1868; Pune-Calcutta-Oxford-Göttingen pipeline; full §5.6 paradigm table with apacat / pacatu / paktaḥ / paktiḥ / pācakāḥ / hāsakaḥ; three-reasons-for-Japanese rationale; *asuratva* Ch 3 §3.6 + *lokakṣema* polemic) restored in paraphrased form. Devanagari first-use audit run on Indic terms.*
+*Draft v2 (2026-05-20). Paraphrased four-tier merge of Codex compression (1,375 words) against the canonical draft (4,300 prose words). **Appendix voice**: T1 + T2 + T4 substance preserved through paraphrase; T3 compressed to Codex-style tightness. Codex's nine-section structure preserved; canonical's reference specifics (Bopp's *Vergleichende Grammatik* 1833–1852 + Schleicher's *Compendium* 1861 + *Avis akvāsas ka* 1868; Pune-Calcutta-Oxford-Göttingen pipeline; full §5.6 paradigm table with apacat / pacatu / paktaḥ / paktiḥ / pācakāḥ / hāsakaḥ; three-reasons-for-Japanese rationale; *asuratva* Ch 3 §3.6 + *lokakṣema* polemic) restored in paraphrased form. Devanagari first-use audit run on Indic terms.*
 
 ---
 
 This appendix runs a construction test.
 
-The claim is simple: Sanskrit is not only a word factory. It is a language factory. If the architecture is truly an engine, it should be detachable from Sanskrit's own sonomeric inventory, applied to a different phonemic substrate, and made to generate a working language.
+Sanskrit is not only a word factory. It is a language factory. If the architecture is truly an engine, it should be detachable from Sanskrit's own sonomeric inventory, applied to a different phonemic substrate, and made to generate a working language.
 
 The substrate here is Japanese. The engine is Sanskrit.
 
@@ -18,7 +18,7 @@ The substrate here is Japanese. The engine is Sanskrit.
 
 A sentence in **Yenpro** (येन्प्रो).
 
-It is not Japanese. It is not Sanskrit. It is no language any linguist has catalogued. The form is mysterious. The grammar is not. *Kesete* — *the baker*. *Iteto* — *alone*. *Rehepo* — *laughs*. Together: *the baker laughs alone*.
+It is not Japanese, not Sanskrit, not any language a linguist has catalogued. The form is mysterious. The grammar is not. *Kesete* — *the baker*. *Iteto* — *alone*. *Rehepo* — *laughs*. Together: *the baker laughs alone*.
 
 The baker is Schleicher. The joke is deliberate. As of this writing, Yenpro has one speaker — the author — and a documented corpus of three sentences. The line above is the third. The other two appear in §5.5.
 
@@ -36,7 +36,7 @@ The stronger claim is testable. Take the engine, separate it from Sanskrit's own
 
 Appendix Part 5 runs the test. The substrate is Japanese. The output uses Japanese-set phonemes but operates entirely on Sanskrit's grammatical framework.
 
-The construction also doubles as polemical riposte. Appendix Part 1 prosecuted the bake demanded by the *foundational dogma* — Schleicher's manufacture of PIE without a working recipe. Appendix Part 5 demonstrates what working *with* a working recipe actually looks like. The contrast is the point.
+The construction also doubles as polemical riposte. Appendix Part 1 prosecuted the bake demanded by the *foundational dogma* — Schleicher's manufacture of PIE without a working recipe. Appendix Part 5 demonstrates what working *with* a working recipe actually looks like.
 
 ## 5.3 The Procedure
 
@@ -253,7 +253,7 @@ That is the language factory.
   - §5.5 separate vowel/consonant cipher tables compressed into single inline mapping table.
   - §5.7 closing observations tightened.
 
-- **T4 substance preserved (paraphrased — dossier voice):**
+- **T4 substance preserved (paraphrased — reference-companion voice):**
   - §5.6 paradigm-table specifics: *apacat* (past 3sg), *pacatu* (imperative 3sg), *paktaḥ* (past participle), *paktiḥ* (action-noun), *pācakāḥ* (agent-noun pl.), *hāsakaḥ* ("laugher").
   - §5.8: Bopp's *Vergleichende Grammatik der Sanskrit-, Send-, Armenischen-, Griechischen-, Lateinischen-, Litauischen-, Altslavischen-, Gothischen- und Deutschen* (1833–1852) — full German title and date.
   - §5.8: Schleicher's *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (1861) — full title and date; *Stammbaumtheorie* named.

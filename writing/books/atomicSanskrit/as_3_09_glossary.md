@@ -16,7 +16,7 @@ The glossary is organized in three groups:
 
 1. **Engineering core vocabulary** — the chemistry idiom the book uses across chapters.
 2. **Technical Sanskrit vocabulary** — standard grammatical and śāstric terms whose specific senses matter for the polemic.
-3. **Polemic vocabulary** — the cluster terms the book uses to name the pyramid and its formations.
+3. **Polemic vocabulary** — the cluster terms the book uses for the pyramid and its formations.
 
 ---
 
@@ -124,7 +124,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **calibrand**
 
-**Book-coined English, sibling to *calibrant*.** *That which is calibrated* — formed like *operand*, *multiplicand*, *analysand*: the thing acted upon. Where *calibrant* designates Sanskrit as the engineered standard, **calibrand** designates a language restructured toward it through **calibrant contact** (Chapter 18 §18.6). The calibrand languages are the set the philological machinery — reading their shared reflections as common descent — classifies as the *"Indo-European"* and *"Indo-Iranian"* families; each calibrand instead carries a *Pratibimba* (reflection) of the calibrant, not a fragment of a vanished ancestor. The term replaces a geography-plus-family-tree label with one that encodes the relation: a reflection of a standard, not descended from a parent.
+**Book-coined English, sibling to *calibrant*.** *That which is calibrated* — formed like *operand*, *multiplicand*, *analysand*: the thing acted upon. Where *calibrant* designates Sanskrit as the engineered standard, **calibrand** designates a language restructured toward it through **calibrant contact** (Chapter 18 §18.6). The calibrand languages are the set the philological machinery — treating their shared reflections as common descent — classifies as the *"Indo-European"* and *"Indo-Iranian"* families; each calibrand instead carries a *Pratibimba* (reflection) of the calibrant, not a fragment of a vanished ancestor. The term replaces a geography-plus-family-tree label with one that encodes the relation: a reflection of a standard, not descended from a parent.
 
 ### **fractal**
 
@@ -142,7 +142,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **vyākaraṇam** (व्याकरणम्)
 
-**Standard.** Grammar; the analytical discipline. Etymology: *vi-* (apart) + *ā-* (toward) + *kṛ* (to do) — the act of *taking apart, unfolding apart*. Decomposition, not composition — the polemic point the book makes against the "codification" reading. Reference Yaska's *Nirukta* and the *Pāṇinian* discipline.
+**Standard.** Grammar; the analytical discipline. Etymology: *vi-* (apart) + *ā-* (toward) + *kṛ* (to do) — the act of *taking apart, unfolding apart*. Decomposition, not composition — the polemic point the book makes against the "codification" account. Reference Yaska's *Nirukta* and the *Pāṇinian* discipline.
 
 ### **vaiyākaraṇāḥ** (वैयाकरणाः)
 
@@ -366,7 +366,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **Pratibimba** (प्रतिबिम्ब)
 
-**Standard Sanskrit term, book-repurposed as polemic category.** A reflection — what appears in a mirror, cast from an original. The book uses *Pratibimba* to name the relation between Sanskrit and the cognate languages the machinery classifies as siblings: Hindi, Marathi, Greek, Latin, Persian, Lithuanian, Tocharian. The pyramid's account places all of these as descendants of an imaginary *Proto-Indo-European* parent. The counter-account: there is no PIE. The cognates everywhere else are *Pratibimbas* — reflections of the original engineered Sanskrit forms. *Mātṛ* is the etymon of *mother*; *pater* is a *Pratibimba* of *pitṛ*. The Preface introduces the hook; Chapter 2 exposes the category theft; Chapter 18 §18.6 develops the calibrant-and-reflection architecture in full.
+**Standard Sanskrit term, book-repurposed as polemic category.** A reflection — what appears in a mirror, cast from an original. The book uses *Pratibimba* for the relation between Sanskrit and the cognate languages the machinery classifies as siblings: Hindi, Marathi, Greek, Latin, Persian, Lithuanian, Tocharian. The pyramid's account places all of these as descendants of an imaginary *Proto-Indo-European* parent. The counter-account: there is no PIE. The cognates everywhere else are *Pratibimbas* — reflections of the original engineered Sanskrit forms. *Mātṛ* is the etymon of *mother*; *pater* is a *Pratibimba* of *pitṛ*. The Preface introduces the hook; Chapter 2 exposes the category theft; Chapter 18 §18.6 develops the calibrant-and-reflection architecture in full.
 
 ### **engineered / encoded / decoded / codified**
 

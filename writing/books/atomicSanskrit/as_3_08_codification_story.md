@@ -30,7 +30,7 @@ The pyramid's line has a recognizable sequence.
 
 First, the oldest hymns are assigned to "Vedic Sanskrit." That language is treated as the earlier natural stage: archaic, poetic, fluid, richly inflected, and still close to the Indo-European ancestor the pyramid has reconstructed.
 
-Second, the later Vedic layers are read as evidence of change: Brāhmaṇas, Āraṇyakas, Upaniṣads, Sūtra literature, and technical texts are placed along a chronology of simplification. The evidence cited for this claim is usually familiar: accent, subjunctive, infinitives, case behavior, *sandhi*, vocabulary, and syntax.
+Second, the later Vedic layers are taken as evidence of change: Brāhmaṇas, Āraṇyakas, Upaniṣads, Sūtra literature, and technical texts are placed along a chronology of simplification. The evidence cited for this claim is usually familiar: accent, subjunctive, infinitives, case behavior, *sandhi*, vocabulary, and syntax.
 
 Third, Pāṇini is placed at the rupture-point. Before him, the language was changing. After him, it was codified. The *Aṣṭādhyāyī* becomes the great freeze: nearly four thousand rules that arrested drift and produced the standard later called Classical Sanskrit.
 
@@ -58,7 +58,7 @@ The first says the Vedic corpus itself shows uncontrolled historical movement. A
 
 The second says Pāṇini stands between two languages or two chronological stages. The Preface, Chapter 1, Chapter 5, and Chapter 17 answer that: **वैदिक (*vaidika*)** and **लौकिक (*laukika*)** are domains; **छन्दस् (*chandas*)** and **भाषा (*bhāṣā*)** are modes. Domain is not chronology. Mode is not drift.
 
-The distinction matters because the pyramid's account depends on blurring the two claims. Once the claims are separated, each has to stand on its own evidence.
+The pyramid's account depends on blurring the two claims. Once the claims are separated, each has to stand on its own evidence.
 
 Vedic-internal variation is not proof of decay. Vedic-to-*bhāṣā* difference is not proof of evolution. Both require interpretation. The dogma supplies one interpretation. The architecture supplies a better one.
 
@@ -185,7 +185,7 @@ That order is incompatible with codification as the pyramid uses the word. Codif
 
 Then Chapter 5 supplies the counterpart: **अपभ्रंश (*apabhraṃśa*)**. Entropy is real. Speech falls away. **शब्दाः (*śabdāḥ*)** become **अपशब्दाः (*apaśabdāḥ*)**. **गौः (*gauḥ*)** becomes **गावी (*gāvī*)**, **गोणी (*goṇī*)**, **गोता (*gotā*)**, **गोपोतालिका (*gopotalikā*)**. The grammarian does not deny drift in ordinary speech. He denies that drift defines the architecture.
 
-This is the nuance the codification story cannot hold. Sanskrit knows entropy. Sanskrit names entropy. Sanskrit builds against entropy. The existence of *apabhraṃśa* does not prove Sanskrit was drifting toward codification. It proves the opposite: the system had a category for falling-away because it had an established form from which speech could fall away.
+This is the nuance the codification story cannot hold. Sanskrit knows entropy. Sanskrit marks entropy. Sanskrit builds against entropy. The existence of *apabhraṃśa* does not prove Sanskrit was drifting toward codification. It proves the opposite: the system had a category for falling-away because it had an established form from which speech could fall away.
 
 Without *siddha*, there is no *apabhraṃśa*. Without an established bond, there is only change.
 

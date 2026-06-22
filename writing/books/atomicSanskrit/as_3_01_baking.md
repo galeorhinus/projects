@@ -1,6 +1,6 @@
 # Appendix Part 1 — Baking the Mother Tongue
 
-*Draft v2 (2026-05-20). Four-tier merge of Codex compression (2,084 words) against the canonical session-2026-05-14 draft (5,800 prose words). **Appendix voice**: T1 + T2 + T4 restored verbatim; T3 compressed to Codex-style tightness. T4 = dossier preservation (dated-figure chains, primary-source quotation specifics, institutional/pipeline named specifics, verification-trail material the body footnotes-out but the appendix keeps inline). Prosecutorial-appendix posture: the receipts stay on the page.*
+*Draft v2 (2026-05-20). Four-tier merge of Codex compression (2,084 words) against the canonical session-2026-05-14 draft (5,800 prose words). **Appendix voice**: T1 + T2 + T4 restored verbatim; T3 compressed to Codex-style tightness. T4 = reference preservation (dated-figure chains, primary-source quotation specifics, institutional/pipeline named specifics, verification-trail material the body footnotes-out but the appendix keeps inline). Prosecutorial-appendix posture: the receipts stay on the page.*
 
 ---
 
@@ -243,7 +243,7 @@ PIE is in the sky. The architecture is on the ground. PIE is *apaśabda*. Sanskr
   - The "implicit party" framing paragraph at §1.2 close — Codex's compression preserved.
   - The "structural irony is the charge" close at §1.2 — Codex preserved.
 
-- **T4 restorations (dossier voice — verbatim in appendix):**
+- **T4 restorations (reference-companion voice — verbatim in appendix):**
   - §1.2: Lieutenant Colonel **Joseph Boden of the Bombay Native Infantry** named; Boden Chair holders **Horace Hayman Wilson 1832–1860** + **Monier Williams 1860–1899** dated; **Peshwa Bajirao II** named as source of the *Dakṣiṇā* endowment.
   - §1.2: Parallel-institutions paragraph restored — Banaras Sanskrit College (1791 under Jonathan Duncan); Calcutta Sanskrit College (1824); Sanskrit College Madras; Elphinstone College Bombay (1856); Cambridge Sanskrit Professorship (1867, Edward Byles Cowell first holder); German university chairs at Berlin / Leipzig / Jena / Göttingen.
   - §1.3: First-generation lexicographer specifics restored — Rādhākānta Deb (1784–1867), *Śabdakalpadruma* eight volumes 1858; Tārānātha Tarkavācaspati (1812–1885), *Vācaspatyam* six volumes 1873.
