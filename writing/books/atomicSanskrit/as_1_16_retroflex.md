@@ -94,7 +94,7 @@ The opening word of the *Ṛgveda* is *agnimīḷe* (अग्निमीळे
 
 The *progressive dogma* presents ळ as *"lost between Vedic Sanskrit and Classical Sanskrit"* — the canonical linear-decay narrative from an earlier stage to a later one. That move imports the pyramid's temporal story as if it were established fact. The source architecture says something else.
 
-Pāṇini's **अष्टाध्यायी (*Aṣṭādhyāyī*)** distinguishes the *chandas* mode (marked *chandasi*, *"in meter"*) from the *bhāṣā* mode (marked *bhāṣāyām*, *"in speech"*). These are not stages in a decay sequence. They are parallel operating modes. The *chandas*-mode rules govern one scope; the *bhāṣā*-mode rules govern another. ळ belongs to the *chandas* mode and is bounded out of the *bhāṣā* inventory.[NOTE: chandasi-bhasayam-astadhyayi]
+Pāṇini's **अष्टाध्यायी (*Aṣṭādhyāyī*)** distinguishes the *chandas* mode (*chandasi*, *"in meter"*) from the *bhāṣā* mode (*bhāṣāyām*, *"in speech"*). These are not stages in a decay sequence. They are parallel operating modes. The *chandas*-mode rules govern one scope; the *bhāṣā*-mode rules govern another. ळ belongs to the *chandas* mode and is bounded out of the *bhāṣā* inventory.[NOTE: chandasi-bhasayam-astadhyayi]
 
 The *Prātiśākhya* confirms the point. The discipline is not mantra. It is technical Sanskrit: the learned descriptive idiom that documents the *chandas*-mode phonetic specifications of its śākhā's *saṃhitā*, including ळ.[NOTE: pratisakhya-bhashyam-chandasi] The learned discipline did not "lose" the Vedic feature. It documented the mode that preserves it.
 

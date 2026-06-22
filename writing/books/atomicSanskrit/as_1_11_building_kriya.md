@@ -88,7 +88,7 @@ The atom is राज् (*rāj*), a three-*mātrā* scaffold: consonant, long v
 
 ![Vedic assembly: राज् (*rāj*) becomes राजति (*rājati*).](figures/building_kriya/vedic_rajati.svg){#fig:building-kriya-vedic-rajati width=75%}
 
-The figures use one visual convention. The first row shows activation sonomers. The second row shows the *dhātuḥ* atom and the dashed destination slots where new sonomers will enter. The third row shows the finished *kriyāpada* molecule. Light gray marks original *dhātuḥ* material. Medium gray marks *dhātuḥ* material that changes shape. Very dark cells mark activation sonomers such as the added अ (*a*). Dark cells mark the ति (*ti*) ending.
+The figures use one visual convention. The first row shows activation sonomers. The second row shows the *dhātuḥ* atom and the dashed destination slots where new sonomers will enter. The third row shows the finished *kriyāpada* molecule. Light gray is original *dhātuḥ* material. Medium gray is *dhātuḥ* material that changes shape. Very dark cells are activation sonomers such as the added अ (*a*). Dark cells are the ति (*ti*) ending.
 
 The color scheme is a reading aid. The argument is recoverability. इ becomes एति. अस् becomes अस्ति. यज् becomes यजति. भू becomes भवति. राज् becomes राजति. Sometimes the atom's sonomers remain unchanged; sometimes they transform. In each case, the atom remains visible enough for the procedure to be read.
 
@@ -110,7 +110,7 @@ In that explicit notation, a *dhātuḥ* must do three things before it becomes 
 2. It must receive the operation appropriate to that class.
 3. It must take the verbal ending that completes the action-form.
 
-Sanskrit's operating classes are the **गणाः (*gaṇāḥ*)**. The class-operation is marked by a **विकरणम् (*vikaraṇam*)**, or by another class process such as zero operation, transformation, or reduplication. The verbal endings are the **तिङ्-प्रत्ययाः (*tiṅ-pratyayāḥ*)**.
+Sanskrit's operating classes are the **गणाः (*gaṇāḥ*)**. The class-operation is signaled by a **विकरणम् (*vikaraṇam*)**, or by another class process such as zero operation, transformation, or reduplication. The verbal endings are the **तिङ्-प्रत्ययाः (*tiṅ-pratyayāḥ*)**.
 
 In Pāṇini's notation, that gives the basic procedure:
 
@@ -161,11 +161,11 @@ The five Vedic examples can now be read in Pāṇini's notation layer.
 
 ![Pāṇinian notation layer: राज् (*rāj*) becomes राजति (*rājati*).](figures/building_kriya/panini_rajati.svg){#fig:building-kriya-panini-rajati width=75%}
 
-The figures use the same hexagonal vocabulary as §11.2, but the top row now shows Pāṇini's notation layer. शप् (*śap*) and तिप् (*tip*) appear as technical source forms. The dashed cells mark अनुबन्धाः (*anubandhāḥ*) — metadata markers that disappear. The surviving sonomers enter the *dhātuḥ* atom. The action has not changed. The labels have changed. What was implicit in the Vedic examples is now named in Pāṇini's notation: *gaṇaḥ*, *vikaraṇam*, *aṅgam*, *tiṅ-pratyayaḥ*, *anubandhaḥ*.
+The figures use the same hexagonal vocabulary as §11.2, but the top row now shows Pāṇini's notation layer. शप् (*śap*) and तिप् (*tip*) appear as technical source forms. The dashed cells are अनुबन्धाः (*anubandhāḥ*) — metadata tags that disappear. The surviving sonomers enter the *dhātuḥ* atom. The action has not changed. The labels have changed. What was implicit in the Vedic examples is now named in Pāṇini's notation: *gaṇaḥ*, *vikaraṇam*, *aṅgam*, *tiṅ-pratyayaḥ*, *anubandhaḥ*.
 
 That distinction matters. The operation existed before the notation. Pāṇini gave the process handles. He did not make Sanskrit molecular by naming the bonds.
 
-The operations differ, but the principle does not. A *dhātuḥ* enters an operational class. The class marks how the atom may be activated. The ending completes the *kriyāpada* molecule.
+The operations differ, but the principle does not. A *dhātuḥ* enters an operational class. The class sets how the atom may be activated. The ending completes the *kriyāpada* molecule.
 
 Sometimes the operation adds visible material. Sometimes the operation is zero. Sometimes it changes the atom itself through guṇa, lengthening, or another surface effect. In every case, the finished *kriyāpada* remains an analyzable assembly.
 
@@ -235,7 +235,7 @@ Two audits are needed.
 
 The dictionary audit asks a dictionary question: when a *dhātuḥ* is listed in Monier-Williams or Apte, how many derivative forms does the dictionary show it generating? The *prayoga* audit asks a use-question: when Sanskrit texts are parsed, which *dhātavaḥ* actually appear, how often do they appear, and how many different bonding patterns do they enter?
 
-The working record for the *prayoga* audit is the Digital Corpus of Sanskrit: 15,900 parsed Sanskrit files and more than a million verb-form occurrences.[NOTE: prayoga-audit-valency] The corpus includes familiar materials such as the *Ṛgveda*, the *Atharvaveda* Śaunaka, the *Mahābhārata*, and the *Rāmāyaṇa*, along with a much wider parsed Sanskrit record. The corpus is useful here because its files do more than preserve surface words. Where the parsing permits it, a verbal form is linked back to the *dhātuḥ* label behind the form and marked for the *upasargaḥ* (उपसर्गः) and broad *pratyayaḥ* (प्रत्ययः) class involved.
+The working record for the *prayoga* audit is the Digital Corpus of Sanskrit: 15,900 parsed Sanskrit files and more than a million verb-form occurrences.[NOTE: prayoga-audit-valency] The corpus includes familiar materials such as the *Ṛgveda*, the *Atharvaveda* Śaunaka, the *Mahābhārata*, and the *Rāmāyaṇa*, along with a much wider parsed Sanskrit record. The corpus is useful here because its files do more than preserve surface words. Where the parsing permits it, a verbal form is linked back to the *dhātuḥ* label behind the form and tagged for the *upasargaḥ* (उपसर्गः) and broad *pratyayaḥ* (प्रत्ययः) class involved.
 
 That gives the audit a concrete measurement. For each *dhātuḥ* visible in the corpus, the audit counts two things: how often forms from that atom appear, and how many different bonding patterns the atom enters. The head-bond is the *upasargaḥ*: *pra-*, *vi-*, *sam-*, *abhi-*, *anu-*, and the rest of the preverb set. The tail-bond is the *pratyayaḥ*: the suffix class that activates the atom into finite, participial, infinitival, or derivative form. Every distinct (*upasarga*, *pratyaya*-class) pairing visible in the parsed record counts as one unit of **valency**.
 

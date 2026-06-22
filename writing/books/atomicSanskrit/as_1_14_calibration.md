@@ -2,7 +2,7 @@
 
 Chapter 13 established Sanskrit as the **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**, the fixed-measure language. A fixed measure has to be held across generations. The calibration matrix is the architecture that makes that holding possible.
 
-The matrix is **दिव्य (*divya*)** in the precise sense used here: radiant, brilliant, marked by the order of the *devas*. Here divinity is not ornament or exaggeration; it is radiance as observable architecture. A system that preserves sound, meter, grammar, memory, and lineage without apex command is radiant because its order gives light without needing a pyramid to issue it.
+The matrix is **दिव्य (*divya*)** in the precise sense used here: radiant, brilliant, bearing the order of the *devas*. Here divinity is not ornament or exaggeration; it is radiance as observable architecture. A system that preserves sound, meter, grammar, memory, and lineage without apex command is radiant because its order gives light without needing a pyramid to issue it.
 
 This is the radiant matrix.
 
@@ -27,7 +27,7 @@ The Indic preservation system has four modes. English has a ready word for one o
 | ***Flexture*** | trained gesture and posture | sight + motor coordination | embodied narrative, ritual gesture, performance knowledge | **मुद्रा (*mudrā*)**, **हस्त (*hasta*)**, **नाट्यशास्त्र (*nāṭyaśāstra*)** |
 | ***Auditure*** | exact speech-hearing transmission | hearing + vocal articulation | phonetic form itself | **श्रुति (*śruti*)** |
 
-***Scripture*** preserves through writing. The medium can be stone, palm leaf, paper, print, or digital storage; the mechanism is the same. A visible mark carries the content. The reader uses sight. The writer uses the hand with a tool. Scripture is powerful for records, commentary, teaching, law, administration, and ordinary communication. It is also fragile. The medium decays. The archive burns. The institution that controls the copy controls the transmission.
+***Scripture*** preserves through writing. The medium can be stone, palm leaf, paper, print, or digital storage; the mechanism is the same. A visible glyph carries the content. The reader uses sight. The writer uses the hand with a tool. Scripture is powerful for records, commentary, teaching, law, administration, and ordinary communication. It is also fragile. The medium decays. The archive burns. The institution that controls the copy controls the transmission.
 
 That is why Scripture fits pyramids. Whoever controls the written corpus controls the doctrine; whoever controls the doctrine controls the people. The Abrahamic imagination made Scripture central because the Abrahamic structure is vertical — all four Abrahamic religions are pyramidal in the sense Chapter 3 §3.1 defines. A single source, a single book, a single authorized channel, a single apex.
 
@@ -51,7 +51,7 @@ The second engineering fact is even more important: hearing is easier to distrib
 
 This answers the old institutional question: who guards the guards? In a pyramid, the guards sit above the audience. The audience has no standing. In Auditure, the audience guards by listening. No institutional credential is required for the first layer of detection because the architecture distributes recognition before it distributes mastery.
 
-The Vedic form adds further redundancy. Meter catches syllabic drift. Accent catches pitch drift: उदात्त (*udātta*), अनुदात्त (*anudātta*), स्वरित (*svarita*). Breath gestures catch phonetic drift: the **अयोगवाह (*ayogavāha*)** markers **अनुस्वार (*anusvāra*)** and **विसर्ग (*visarga*)** (Chapter 9 §9.5). A broken word can break the meter. A misplaced accent can break the chant. A wrong breath can break the line. The channels check one another.
+The Vedic form adds further redundancy. Meter catches syllabic drift. Accent catches pitch drift: उदात्त (*udātta*), अनुदात्त (*anudātta*), स्वरित (*svarita*). Breath gestures catch phonetic drift: the **अयोगवाह (*ayogavāha*)** sounds **अनुस्वार (*anusvāra*)** and **विसर्ग (*visarga*)** (Chapter 9 §9.5). A broken word can break the meter. A misplaced accent can break the chant. A wrong breath can break the line. The channels check one another.
 
 This is not "oral tradition" in the loose anthropological sense. It is engineered Auditure. Speech is the medium. Hearing is the verification layer. The audience is the checksum. The *guru-shishya* lineage-chain is the human carrier; the wider transmission-network is the social carrier. No institutional intermediary is required; no perishable medium stands between practitioner and audience. Chapter 15 shows the machinery in full: the eleven *pāṭha* recitation forms that re-encode the Vedic corpus so that drift has almost nowhere to hide.
 

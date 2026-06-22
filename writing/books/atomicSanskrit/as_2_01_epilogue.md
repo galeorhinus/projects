@@ -105,7 +105,7 @@ The polemical appendix supplies the exhibits.
 
 Four exhibits. One case. The asuric formation displaced the dharmic architecture from recognition and told the world the story upside down.
 
-That fight is not academic. A civilization described as downstream cannot credibly call the world toward *āryatva*. Recognition of the architecture is the precondition for the call to be heard.
+That fight is not academic. A civilization described as derivative cannot credibly call the world toward *āryatva*. Recognition of the architecture is the precondition for the call to be heard.
 
 ## The Chronology Refusal
 
@@ -163,7 +163,7 @@ The work is operating *āryatva*.
 
 The work is becoming capable of uttering *kṛṇvanto viśvam āryam* truthfully.
 
-The asuric formation tried to silence the call by telling the world *Sanātan* was downstream. That Sanskrit was downstream. The preceding chapters make the opposite case. The civilization is not downstream. The calibrant is visible and operating.
+The asuric formation tried to silence the call by telling the world *Sanātan* was secondary. That Sanskrit was secondary. The preceding chapters make the opposite case. The civilization is not secondary. The calibrant is visible and operating.
 
 Two *created* fractals have stood in the argument since the beginning: the pyramid and the swastika. The pyramid repeats apex authority at every scale. The swastika repeats distributed order, calibrated responsibility, and welfare without apex command. The argument has shown how the pyramid split Sanskrit into two false categories: before Pāṇini, *prakṛti* — a plant, a branch, a descendant; after Pāṇini, codification — a language frozen by grammar and held by rule. The true category returns. Sanskrit is *saṃskṛti*: engineered recurrence, measured sound, disciplined memory, self-correction, and architecture held for *bhūta-hitam*.
 

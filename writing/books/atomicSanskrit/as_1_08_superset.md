@@ -50,7 +50,7 @@ The full Sanskrit vocabulary remains more granular. **करण (*karaṇa*)** i
 
 Modern phonetics uses parallel categories: place of articulation, manner of articulation, aspiration, voicing, and nasality. Sanskrit's terms point to the action of the speaking body.
 
-The atlas figures use that shared logic. Each language is mapped onto a place × manner matrix. The horizontal axis marks where the sound sits along the mouth: lips, teeth, alveolar ridge, retroflex zone, palate, velar region, and so on. The vertical axis marks what kind of sound it is: stop, nasal, fricative, approximant, tap, trill, and related classes.
+The atlas figures use that shared logic. Each language is mapped onto a place × manner matrix. The horizontal axis indicates where the sound sits along the mouth: lips, teeth, alveolar ridge, retroflex zone, palate, velar region, and so on. The vertical axis shows what kind of sound it is: stop, nasal, fricative, approximant, tap, trill, and related classes.
 
 The atlas measures a narrower object than vocabulary, prestige, descent, or ancestry. It tests one physical question: when a language treats a consonant as a contrastive sound, where does that consonant sit in the mouth-map?
 
@@ -80,7 +80,7 @@ The word **द्रविड (*draviḍa / drāviḍa*)** has an old Indian lif
 
 Modern *"Dravidian"* is different. It is a comparative-linguistic family label created inside the modern classificatory machinery. The word appears here only in that limited sense: the pyramid's label for Tamil, Toda, Kurukh, and related languages. The civilizational divide between *"Aryan"* and *"Dravidian"* stays outside the argument. That divide belongs to the machinery at issue here.
 
-The first survey deliberately begins with languages the machinery classifies outside the Sanskritic and north-Indian bucket. That choice removes an easy deflection. If the test began with Hindi, Marathi, Bengali, Gujarati, Punjabi, or other languages the pyramid calls "Indo-Aryan," the response would be immediate: of course they look like Sanskrit; they are downstream from Sanskrit. So the test begins elsewhere.
+The first survey deliberately begins with languages the machinery classifies outside the Sanskritic and north-Indian bucket. That choice removes an easy deflection. If the test began with Hindi, Marathi, Bengali, Gujarati, Punjabi, or other languages the pyramid calls "Indo-Aryan," the response would be immediate: of course they look like Sanskrit; they come from Sanskrit. So the test begins elsewhere.
 
 The point is methodological. Use the pyramid's own categories first. Then test whether the sound-field obeys those categories. The sound-field exceeds the buckets.
 

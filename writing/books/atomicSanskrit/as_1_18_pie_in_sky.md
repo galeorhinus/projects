@@ -39,7 +39,7 @@ PIE is the conlang the conlangers' craft disowns.
 
 ## 18.2 The Bookkeeping Defense
 
-The standard defense retreats to bookkeeping. It says: yes, the forms are hypothetical; yes, nobody claims to have a recording of PIE; yes, the asterisk marks reconstruction. The starred forms are only labels for systematic correspondences.
+The standard defense retreats to bookkeeping. It says: yes, the forms are hypothetical; yes, nobody claims to have a recording of PIE; yes, the asterisk denotes reconstruction. The starred forms are only labels for systematic correspondences.
 
 Placement exposes the problem.
 
@@ -79,7 +79,7 @@ At the structural level, the conflict is simple. PIE is flat: one projected ance
 
 ## 18.4 The Cementing
 
-PIE persists because the third pillar persists. The racial pillar has been damaged. The old theological chronology has receded. The linear-progress pillar remains. That doctrine requires ancient sophistication to descend from primitive antecedents — that whatever is sophisticated must be downstream of something simpler. Sanskrit as engineered source violates the doctrine. The central formation is developed in Chapter 3: the *progressive dogma* preserves PIE because to relinquish PIE is to begin relinquishing the doctrine; the *church of progress* cements PIE in the routine reference ecosystem the next generation reads.
+PIE persists because the third pillar persists. The racial pillar has been damaged. The old theological chronology has receded. The linear-progress pillar remains. That doctrine requires ancient sophistication to descend from primitive antecedents — that whatever is sophisticated must derive from something simpler. Sanskrit as engineered source violates the doctrine. The central formation is developed in Chapter 3: the *progressive dogma* preserves PIE because to relinquish PIE is to begin relinquishing the doctrine; the *church of progress* cements PIE in the routine reference ecosystem the next generation reads.
 
 The construct's apparent solidity is more recent than its authority suggests. *Proto-Indo-European* as a stable term enters the academic literature only by 1905. The *PIE* abbreviation enters routine academic usage only in mid-twentieth-century scholarship.[NOTE: pie-term-history] The target is not an ancient certainty; the target is a mid-twentieth-century academic consolidation that became routine fast enough that current students do not realize how recent the routine is.
 
@@ -93,7 +93,7 @@ In the legend, **Sanskrit ⊇ PIE** means: what fraction of PIE's reconstructed 
 
 ![Figure 18.1 — PIE Keeps Returning to Sanskrit. The chart measures how much of each reconstructed PIE consonant inventory is covered by Sanskrit, with Tamil as a control. The curve moves away from Sanskrit and then reloads Sanskrit-like material; the historical lanes show context, not causation.](figures/pie_in_sky/sanskrit_containment_trajectory.svg){#fig:ch18-pie-trajectory width=92%}
 
-The event lanes below the chart explain why the timing matters. The first lane is internal to PIE: Schleicher in 1862, Brugmann in 1897, the standard / laryngeal reconstruction by 1927, the glottalic turn in 1973, and the modern reload in 2020. The second lane marks the Western and European environment around the reconstruction: Darwin's tree metaphor in 1859, the retreat of explicit race science after the war, the continued survival of the racial Arya thesis, the hardening of PIE in dictionaries in the 1990s, and the recent public relaunch of PIE through popular books. The third lane marks the Indic and Sanskrit environment: India's independence in 1947, the founding of Saṃskṛta Bhāratī in 1981, economic opening in 1991, and Hindu civilizational assertion after 2014.
+The event lanes below the chart explain why the timing matters. The first lane is internal to PIE: Schleicher in 1862, Brugmann in 1897, the standard / laryngeal reconstruction by 1927, the glottalic turn in 1973, and the modern reload in 2020. The second lane tracks the Western and European environment around the reconstruction: Darwin's tree metaphor in 1859, the retreat of explicit race science after the war, the continued survival of the racial Arya thesis, the hardening of PIE in dictionaries in the 1990s, and the recent public relaunch of PIE through popular books. The third lane tracks the Indic and Sanskrit environment: India's independence in 1947, the founding of Saṃskṛta Bhāratī in 1981, economic opening in 1991, and Hindu civilizational assertion after 2014.
 
 The lanes do not claim that one event mechanically caused the next PIE revision. They show the strategic environment. Race science retreats; the racial Arya thesis marches on. Sanskrit reasserts itself; PIE does not disappear. It adjusts.
 
@@ -142,7 +142,7 @@ One chain starts from a real Sanskrit *dhātu*. The other starts from a starred 
 
 The pattern holds across word categories. The Sanskrit side is documented through the engineering architecture; only the contact-language end is treated by the Western philological account as a sibling of an invented PIE form. PIE is suspended above Sanskrit as an imaginary ancestor. It does not explain the ground from which Sanskrit actually rises. The ground is the Indian mouth, the Indian sound-field, the *varṇamālā*, the *dhātavaḥ*, the grammar, the *Vedas*, and the anti-entropy preservation system that has held the engineered architecture across thousands of years.
 
-PIE can organize a comparative label; it cannot supply an etymon. The asterisk marks a non-existence, and non-existence is not a source. The etymon of *mother* is Sanskrit *mātṛ*. The etymon of *father* is Sanskrit *pitṛ*. The reflections — **प्रतिबिम्ब (*Pratibimba*)** — that the calibrated languages carry are the calibrant's footprint, not evidence of a vanished ancestor.
+PIE can organize a comparative label; it cannot supply an etymon. The asterisk signals a non-existence, and non-existence is not a source. The etymon of *mother* is Sanskrit *mātṛ*. The etymon of *father* is Sanskrit *pitṛ*. The reflections — **प्रतिबिम्ब (*Pratibimba*)** — that the calibrated languages carry are the calibrant's footprint, not evidence of a vanished ancestor.
 
 **The shared features prove Sanskrit is living speech. The unshared architecture proves it is engineered.**
 

@@ -2,7 +2,7 @@
 
 ## 12.1 From Verbal Molecule to Sentence Assembly
 
-The *dhātuḥ* has entered operation and become a **क्रियापदम् (*kriyāpadam*)** — a verbal molecule. A language must then build names, role-marked words, and sentences. It must let the action enter speech.
+The *dhātuḥ* has entered operation and become a **क्रियापदम् (*kriyāpadam*)** — a verbal molecule. A language must then build names, role-bearing words, and sentences. It must let the action enter speech.
 
 The test is simple: can Sanskrit build larger forms without blurring the lower levels? Can the sonomer remain visible inside the atom, the atom inside the molecule, the molecule inside the **पदम् (*padam*)**, and the *padam* inside the **वाक्यम् (*vākyam*)**?
 
@@ -52,9 +52,9 @@ A *pratyayaḥ* performs the other side of the bonding procedure. It completes t
 
 This is why the bonding analogy is useful. Sanskrit bonds semantic atoms into usable molecules. The bond changes grammatical behavior while preserving recoverable identity.
 
-The figures keep the timing layer visible. The ruler below each strip marks the *mātrā* scale in half-*mātrā* steps, so the reader can see that sentence assembly still preserves measured sound.
+The figures keep the timing layer visible. The ruler below each strip shows the *mātrā* scale in half-*mātrā* steps, so the reader can see that sentence assembly still preserves measured sound.
 
-![Figure 12.2 — Ch12 visual key: atom, head-bond, tail-bond, role-marker, nasal consonant, visarga, and half-*mātrā* ruler.](figures/building_vakya/visual_key.svg){#fig:building-vakya-visual-key width=85%}
+![Figure 12.2 — Ch12 visual key: atom, head-bond, tail-bond, role-ending, nasal consonant, visarga, and half-*mātrā* ruler.](figures/building_vakya/visual_key.svg){#fig:building-vakya-visual-key width=85%}
 
 ## 12.3 The *Kṛ* Atom as Flagship
 
@@ -158,7 +158,7 @@ A **शब्दः (*śabdaḥ*)** carries meaning. A **पदम् (*padam*)*
 
 This distinction matters. A molecule can name an object, action, quality, agent, or state. A sentence needs relations: who acts, what is known, by what instrument, in what place, toward what object. Sanskrit marks those relations inside the *padam*.
 
-The primary nominal marker is **विभक्तिः (*vibhaktiḥ*)**. A *vibhaktiḥ* saturates the molecule for use by marking role, number, and relation. The verbal side has its own role-marking through **तिङ्-प्रत्ययाः (*tiṅ-pratyayāḥ*)**, which carry person, number, and verbal relation.
+The primary nominal role-ending is **विभक्तिः (*vibhaktiḥ*)**. A *vibhaktiḥ* saturates the molecule for use by setting role, number, and relation. The verbal side encodes role through its own **तिङ्-प्रत्ययाः (*tiṅ-pratyayāḥ*)**, which carry person, number, and verbal relation.
 
 Return to the epigraph line:
 
@@ -166,15 +166,15 @@ Return to the epigraph line:
 >
 > *yas tan na veda kim ṛcā kariṣyati*
 
-The line contains a compact sentence assembly. In **ऋचा (*ṛcā*)**, the **-ā** marks the instrumental relation: *by the ṛc*, *with the ṛc*, *through the ṛc*. The relation is carried inside the *padam*.
+The line contains a compact sentence assembly. In **ऋचा (*ṛcā*)**, the **-ā** signals the instrumental relation: *by the ṛc*, *with the ṛc*, *through the ṛc*. The relation is carried inside the *padam*.
 
-The same is true of **किम् (*kim*)**, **तत् (*tat*)**, and **यः (*yaḥ*)**. Each form has entered sentence use with its role marked by form. The parts carry their own relational signatures.
+The same is true of **किम् (*kim*)**, **तत् (*tat*)**, and **यः (*yaḥ*)**. Each form has entered sentence use with its role carried by form. The parts carry their own relational signatures.
 
-This is why Sanskrit can support freer word order while remaining clear. The order of words can serve emphasis, meter, sound, and poetic architecture because the relations are marked in the *padāni*.
+This is why Sanskrit can support freer word order while remaining clear. The order of words can serve emphasis, meter, sound, and poetic architecture because the relations are encoded in the *padāni*.
 
 The *śabda* becomes a *padam* when it is prepared for relation. The molecule becomes sentence-ready.
 
-![Figure 12.7 — ऋच् (*ṛc*) becomes ऋचा (*ṛcā*) when the role-marker prepares the molecule for sentence use.](figures/building_vakya/rca_role_marker.svg){#fig:building-vakya-rca-role-marker width=85%}
+![Figure 12.7 — ऋच् (*ṛc*) becomes ऋचा (*ṛcā*) when the role-ending prepares the molecule for sentence use.](figures/building_vakya/rca_role_marker.svg){#fig:building-vakya-rca-role-marker width=85%}
 
 ## 12.8 From *Padam* to *Vākya*
 
@@ -267,12 +267,12 @@ Chapter 18 §18.6 develops the worked examples: *devaḥ* becoming Latin *deus*;
 
 The *dhātuḥ* is now visible as an atomic construction. The atom has entered operation and become action. The next scale is now visible: the atom becomes *śabda*, the molecule becomes *padam*, and the *padam* enters the *vākya*.
 
-The governing principle is assembly without loss. The sentence is larger than the atom, but the atom remains recoverable inside it. The sonomers remain recoverable because Sanskrit's operations continue to work at the sonomeric level. The head-bond and tail-bond remain recoverable because they leave grammatical and semantic signatures. The role-marker remains recoverable because *vibhaktiḥ* and *tiṅ-pratyayaḥ* carry relation, number, person, and role.
+The governing principle is assembly without loss. The sentence is larger than the atom, but the atom remains recoverable inside it. The sonomers remain recoverable because Sanskrit's operations continue to work at the sonomeric level. The head-bond and tail-bond remain recoverable because they leave grammatical and semantic signatures. The role-ending remains recoverable because *vibhaktiḥ* and *tiṅ-pratyayaḥ* carry relation, number, person, and role.
 
 That recoverability is what lets the sentence be interpreted, recited, corrected, and calibrated. Sanskrit generates larger forms while keeping the path back to their construction visible. The *vākya* is therefore not a loose string of words. It is an assembly whose lower layers remain available.
 
 The boundary clarifies the point. Inside Sanskrit, the calibrant architecture holds the molecule in specification. When the *śabda* crosses into a contact language, the process has two faces: *apabhraṃśa* from the Sanskrit side, vivimorphosis from the receiving side. The engineered molecule becomes a seed and then an organic root. Organic behavior begins, and with it come drift, mutation, and mortality.
 
-The scale-chain has therefore reached the operating language. Sonomers have become atoms. Atoms have become molecules. Molecules have become role-marked *padāni*. *Padāni* have become *vākyāni*. The lower levels remain visible enough for the whole structure to be preserved.
+The scale-chain has therefore reached the operating language. Sonomers have become atoms. Atoms have become molecules. Molecules have become role-bearing *padāni*. *Padāni* have become *vākyāni*. The lower levels remain visible enough for the whole structure to be preserved.
 
 Chapter 13 asks how such an operating language can survive across time. Chapter 14 introduces the answer: the calibration matrix.

@@ -185,7 +185,7 @@ Smallness alone is not enough. A system can be short and still wasteful if its s
 
 The scaffold level is where this test becomes visible. If the architecture has no padding, a small number of measured shapes should carry the majority of the inventory, while the rest should remain bounded and purposeful.
 
-The **धातुपाठ (*Dhātupāṭha*)** lists 2,168 *dhātavaḥ* across ten **गणाः (*gaṇāḥ*)**. After **अनुबन्ध (*anubandha*)** stripping — removing Pāṇini's metadata markers from the pronounced form — the inventory inhabits 47 observed *racanā* scaffolds. The distribution is not flat. Ten scaffolds carry **91.0%** of the inventory.[NOTE: dhatupatha-empirical-distribution]
+The **धातुपाठ (*Dhātupāṭha*)** lists 2,168 *dhātavaḥ* across ten **गणाः (*gaṇāḥ*)**. After **अनुबन्ध (*anubandha*)** stripping — removing Pāṇini's metadata tags from the pronounced form — the inventory inhabits 47 observed *racanā* scaffolds. The distribution is not flat. Ten scaffolds carry **91.0%** of the inventory.[NOTE: dhatupatha-empirical-distribution]
 
 At this point the chapter is measuring architecture before *prayoga*. No speaker has deployed the atoms yet. The canonical inventory itself concentrates into a small family of measured scaffolds. A Zipf-like usage pattern can explain why a few forms become common in speech; it cannot explain why the inventory of semantic atoms is already scaffolded this tightly before use begins.[NOTE: zipf-rank-frequency]
 
@@ -284,7 +284,7 @@ The scaffold evidence shows the same reach at the inventory level. A pattern tha
 
 The test uses the **Digital Corpus of Sanskrit** (DCS), a digitized and grammatically tagged Sanskrit record. The dataset used here contains **15,900 parsed Sanskrit files** and **1,007,361 counted verb-form uses** across **271 named source groups**. It is not one book and not a hand-picked sample. It includes Vedic, epic, grammatical, *śāstric*, purāṇic, kāvya, Buddhist, medical, ritual, and philosophical material.
 
-DCS identifies verbal forms and links them back to the *dhātuḥ* behind the form. Where the record permits, it also marks the *upasarga* and broad *pratyaya* class involved. That permits a concrete question: when a *dhātuḥ* from the *Dhātupāṭha* enters actual Sanskrit use, which *racanā* scaffold carries it? The analysis joins that usage record to the scaffold data developed here.[NOTE: scaffold-deployment-join]
+DCS identifies verbal forms and links them back to the *dhātuḥ* behind the form. Where the record permits, it also records the *upasarga* and broad *pratyaya* class involved. That permits a concrete question: when a *dhātuḥ* from the *Dhātupāṭha* enters actual Sanskrit use, which *racanā* scaffold carries it? The analysis joins that usage record to the scaffold data developed here.[NOTE: scaffold-deployment-join]
 
 The figure separates four measures:
 
@@ -370,7 +370,7 @@ A mere list gives the analyst frequencies. Sanskrit gives the analyst valency. T
 
 ![Position-role map of consonants across single-*akṣara* atoms.](figures/building_dhatuh/role_map_color.svg){#fig:building-dhatuh-role-map width=95%}
 
-Each bubble is one consonant. The horizontal axis tracks onset deployment; the vertical axis tracks coda deployment; bubble size marks inner-cluster activity. The dashed line marks the onset = coda diagonal. The edge specialists are visible too: **क**, **व**, **प**, **श** lean toward onset work; **ष**, **ज**, **स**, **ट**, **ड** lean toward coda work.
+Each bubble is one consonant. The horizontal axis tracks onset deployment; the vertical axis tracks coda deployment; bubble size encodes inner-cluster activity. The dashed line shows the onset = coda diagonal. The edge specialists are visible too: **क**, **व**, **प**, **श** lean toward onset work; **ष**, **ज**, **स**, **ट**, **ड** lean toward coda work.
 
 Three examples are enough here.
 

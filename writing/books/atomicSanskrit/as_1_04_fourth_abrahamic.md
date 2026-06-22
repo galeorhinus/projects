@@ -91,7 +91,7 @@ In the Sanskrit question, the same class now appears through popular synthesis. 
 
 That pedagogy turns population movement into civilizational authorship; Chapter 17 returns to the trap in full.
 
-The **jihadis of progress** defend the framework. They attack heterodox work through labels that end argument before argument begins: anti-science, regressive, extremist, pseudo-scholarship, communal, majoritarian. The point is not refutation. The point is contamination. Once the label attaches, the work need not be read. In the Indian context, *communalism* performs the work *heresy* performed in earlier Christian usage: it marks the challenger as morally outside the field of permissible speech.
+The **jihadis of progress** defend the framework. They attack heterodox work through labels that end argument before argument begins: anti-science, regressive, extremist, pseudo-scholarship, communal, majoritarian. The point is not refutation. The point is contamination. Once the label attaches, the work need not be read. In the Indian context, *communalism* performs the work *heresy* performed in earlier Christian usage: it brands the challenger as morally outside the field of permissible speech.
 
 The **priests of progress** sanctify the framework. Peer review is their rite. Citation is liturgy. The thesis defense is ordination. Tenure is benefice. The conference Q&A is controlled confession. The priestly class decides what becomes publishable, citable, reputable, and therefore real inside the church.
 

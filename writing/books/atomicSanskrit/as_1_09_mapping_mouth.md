@@ -22,29 +22,28 @@
 
 The subcontinental sound-field has now been surveyed: mouth-zones, the retroflex band, contact sounds, nasals, sibilant neighborhoods, and breath possibilities. Sanskrit curates that field into an **inventory**: a selected set of sonomers the language treats as stable sound-units, gives addresses to, teaches, preserves, and uses in grammar.
 
-The Vedic mantra gives the image. The field is abundant; the sieve curates. The wise refined raw sound, chose usable measure, and formed **वाक् (*Vāk*)** with the mind. The grammar matters: **अक्रत (*akrata*)** is a finite plural verb from √कृ (*kṛ*): the wise formed Speech. The movement is direct: sound-field becomes *varṇamālā*.
+The Vedic mantra provides the imagery of an abundant field and a sieve that curates. The wise refined raw sound, chose usable measure, and formed **वाक् (*Vāk*)** with the mind. **अक्रत (*akrata*)** is a finite plural verb from √कृ (*kṛ*): the wise *formed* Speech. The movement is direct: sound-field becomes *varṇamālā*.
 
 The second half adds radiance. Friends recognize friendship in that formed Speech. In separated form, the final pāda says **भद्रा एषां लक्ष्मीः (*bhadrā eṣāṃ lakṣmīḥ*)** is placed **अधि वाचि (*adhi vāci*)** — in Speech: auspicious radiance, the beauty that makes order visible. This is the **दिव्यता (*divyatā*)** layer. The verse moves from engineering to radiance.
 
-![Figure 9.1 — The Vedic sieve: sound-grains pass through selection and fall as Devanagari-marked sonomers. The sieve selects; the *varṇamālā* will weave.](figures/mapping_mouth/vedic_sieve_sonomer_garland.svg){#fig:ch9-vedic-sieve-sonomer-garland width=100%}
+![Figure 9.1 — The Vedic sieve: sound-grains pass through selection and fall as Devanagari sonomers. The sieve selects; the *varṇamālā* will weave.](figures/mapping_mouth/vedic_sieve_sonomer_garland.svg){#fig:ch9-vedic-sieve-sonomer-garland width=100%}
 
-Pyramids and hilltop cities announce power through height, mass, and command. Hindu sacred architecture often works through another instinct. Its aim is **दिव्यता (*divyatā*)** — radiance, presence, light — more than **भव्यता (*bhavyatā*)**, sheer grandness. The *garbhagṛha* is the cleanest example: a small, concentrated chamber where darkness, lamp, threshold, axis, and मूर्ति (mūrti) create presence. The engineering becomes poetic force.
+Pyramids and hilltop cities announce power through height, mass, and command. Hindu sacred architecture often works through another instinct. Its aim is **दिव्यता (*divyatā*)** — radiance, presence, light — more than **भव्यता (*bhavyatā*)**, sheer grandness. The *garbhagṛha* is a perfect example: a small, concentrated chamber where darkness, lamp, threshold, axis, and मूर्ति (mūrti) create presence. The engineering becomes poetic force.
 
 The curated heap then becomes ordered form. Sanskrit's own name for the selected sound-inventory is **वर्णमाला (*varṇamālā*)** — the garland of *varṇas*. 
+![Figure 9.2 — The *varṇamālā* as the sonomer garland: selected sounds strung as a measured sonomer inventory.](figures/mapping_mouth/varnamala_sonomer_garland.svg){#fig:ch9-sonomer-garland width=100%}
 
-The figure below is my modern rendering. The arrangement by place and effort is ancient, and the name varṇamālā already calls the inventory a garland; what I have not found is an earlier rendering that draws that garland as an articulatory mouth-map, each bead set at its own coordinate. I did not invent the order. The visual form was given to me. I saw it while meditating on the architecture itself, in a state of sustained hyperfocus where the sounds had become positions, weights, colors, and paths — where engineering collided with poetic beauty. That seeing was Vāk’s gift, as is the ability to write this book. When the sounds are visualized through Sanskrit’s own vocabulary, they arrange themselves as what the name already says: a garland of chosen beads, woven for Vāk herself to wear. I returned it to her, strung. The poetry of the माला (mālā) carries the engineering inside beauty.
+The figure below is my modern rendering. The arrangement by place and effort is ancient, and the name varṇamālā already calls the inventory a garland; what I have not found is an earlier rendering that draws that garland as an articulatory mouth-map, each bead set at its own coordinate. I did not invent the order. I saw the visual form while meditating on the architecture itself, in a state of sustained hyperfocus where the sounds had become positions, weights, colors, and paths — where engineering collided with poetic beauty. That seeing was Vāk’s gift, as is the ability to write this book. When the sounds are visualized through Sanskrit’s own vocabulary, they arrange themselves as what the name already says: a garland of chosen beads, woven for Vāk herself to wear. I returned it to her, strung. The poetry of the माला (mālā) carries the engineering inside beauty.
 
 The word is poetic and precise. A garland differs from a heap. Each bead is chosen, shaped, placed, and strung in an order that can be carried. The *varṇamālā* does the same with sound. It is the quintessence of **दिव्यता (*divyatā*)**: engineering made radiant.
-
-![Figure 9.2 — The *varṇamālā* as the sonomer garland: selected sounds strung as a measured sonomer inventory.](figures/mapping_mouth/varnamala_sonomer_garland.svg){#fig:ch9-sonomer-garland width=100%}
 
 The word garland is important because it preserves Sanskrit's own way of seeing this sound-inventory. These are measured sound-particles before they become "letters": **sonomers**. A sonomer is what Sanskrit calls a *varṇa*: a selected, measured, repeatable unit of sound.
 
 > **Sonomers: The Pre-Pāṇinian Sound-Units**
 >
-> The chronology can be stated precisely. The *varṇāḥ* are pre-Pāṇinian. The Vedic phonetic discipline already treats Speech as made of distinguishable sound-units, measured by *svara*, *mātrā*, force, continuity, and recitational joining. The ordered sound-inventory later called the *varṇamālā* stands inside that older discipline.
+> In terms of chronology thhe *varṇāḥ* are pre-Pāṇinian. The Vedic phonetic discipline already treats Speech as made of distinguishable sound-units, measured by *svara*, *mātrā*, force, continuity, and recitational joining. The ordered sound-inventory later called the *varṇamālā* stands inside that older discipline.
 >
-> Pāṇini did not create these *varṇāḥ*. His Māheśvara-sūtras rearranged an already operating inventory into a compact grammatical index. The architecture is upstream of the index.[NOTE: pre-panini-pratisakhya-classification]
+> Pāṇini **did not** create these *varṇāḥ*. His Māheśvara-sūtras rearranged an already operating inventory into a compact grammatical index. The sonomeric architecture existed before Pāṇini's Māheśvara-sūtras.[NOTE: pre-panini-pratisakhya-classification]
 
 The modern figures also use grids and hexagons. That is a translation for readers trained by engineering drawings, chemistry diagrams, and coordinate systems. A wiser age would hear *varṇamālā* and understand that the "beads" are selected sounds. The architecture has been hidden for too long; a second visual language becomes necessary: grids for coordinates, hexagons for stable units, and matrices for repeated structure.
 
@@ -79,9 +78,9 @@ The Sanskrit-only extraction lets the architecture reveal itself.[NOTE: varnamal
 
 > **The Aramaic-from-Brāhmī Thesis**
 >
-> The figure above is not a picture of Devanāgarī. It is the sound architecture that Indic scripts serve. A visible mark may travel. A stroke may be borrowed. A script may absorb graphic influence. But line-shape resemblance cannot explain the sonomeric grid underneath the script. The proposed source must explain the architecture it supposedly produced.
+> The figure above is not a picture of Devanāgarī. It is the sound architecture that Indic scripts serve. A visible symbol may travel. A stroke may be borrowed. A script may absorb graphic influence. But line-shape resemblance cannot explain the sonomeric grid underneath the script. The proposed source must explain the architecture it supposedly produced.
 >
-> Appendix Part 3 §3.5 applies this burden test to Brāhmī and Aramaic. An earlier mark can suggest contact; it cannot explain a sound-grid it does not contain. Shape is not structure. Chronology is not causation.
+> Appendix Part 3 §3.5 applies this burden test to Brāhmī and Aramaic. An earlier symbol can suggest contact; it cannot explain a sound-grid it does not contain. Shape is not structure. Chronology is not causation.
 
 The contact grid supplies the main address axis: velar, palatal, retroflex, dental, labial. Sanskrit names them:
 
@@ -149,7 +148,7 @@ Mahāprāṇa is an engineering move, and it displays the design requirement the
 
 The move also fits Sanskrit's wider culture of breath. *Prāṇa* is trained in recitation, measured in sound, and disciplined in practice. Sanskrit turns breath into grammar without reducing breath to mechanics.[NOTE: mishra-breath-pedagogy]
 
-The breath-axis continues beyond the stop matrix into boundary sounds. The most familiar are **अनुस्वार (*anusvāra*)** and **विसर्ग (*visarga*)**. The *anusvāra* marks nasal resonance that points toward the following sound. In careful analysis, it is a shorthand for nasal behavior governed by the next contact. The *visarga* is a release of breath after a vowel, often shaped by what follows.[NOTE: sandhi-anusvara-assimilation]
+The breath-axis continues beyond the stop matrix into boundary sounds. The most familiar are **अनुस्वार (*anusvāra*)** and **विसर्ग (*visarga*)**. The *anusvāra* indicates nasal resonance that points toward the following sound. In careful analysis, it is a shorthand for nasal behavior governed by the next contact. The *visarga* is a release of breath after a vowel, often shaped by what follows.[NOTE: sandhi-anusvara-assimilation]
 
 These sounds sit at the edge of ordinary combination. The old category name **अयोगवाह (*ayogavāha*)** captures the idea: that which carries without joining in the ordinary way.
 
@@ -212,15 +211,15 @@ Sanskrit's restraint is part of its design.
 
 ## 9.9 Varṇa Is Not Letter
 
-The reflex is to call these letters. The reflex imports an alphabet — a finished list of marks for writing down a language that already exists. The *varṇamālā* runs the other way: the sound-particles come first, and a mark for them comes later, if at all.
+The reflex is to call these letters. The reflex imports an alphabet — a finished list of glyphs for writing down a language that already exists. The *varṇamālā* runs the other way: the sound-particles come first, and a glyph for them comes later, if at all.
 
 A *varṇa* is a measured unit of sound — a *sthāna*, a *prayatna*, a voice setting, a nasal setting, a duration in *mātrā*. None of that is a property of a written shape. A letter is a sign read with the eye; a *varṇa* is an articulation made with the body. The *varṇamālā* is a sonomeric grid — sound-particles ordered by where and how the mouth makes them — not an alphabet of glyphs ordered by custom.
 
-The sequence proves it. An alphabet's order is arbitrary: *a, b, c* says little about the sounds. The *varṇamālā*'s order is the mouth itself — throat to lip, stop to nasal, short to long. The grid is the engineering; the marks are a later convenience.
+The sequence proves it. An alphabet's order is arbitrary: *a, b, c* says little about the sounds. The *varṇamālā*'s order is the mouth itself — throat to lip, stop to nasal, short to long. The grid is the engineering; the glyphs are a later convenience.
 
-Once the *varṇamālā* exists, script becomes implementation. The engineering lies in the ordered sound-grid: place, effort, voice, breath, nasality, and duration held in stable relation. Representing those sounds with visible marks is a trivial, procedural implementation of a scalable, fractal idea. Writing gives that grid a visible interface, much as decimal notation gives place-value number a visible form.
+Once the *varṇamālā* exists, script becomes implementation. The engineering lies in the ordered sound-grid: place, effort, voice, breath, nasality, and duration held in stable relation. Representing those sounds with written symbols is a trivial, procedural implementation of a scalable, fractal idea. Writing gives that grid a visible interface, much as decimal notation gives place-value number a visible form.
 
-The pyramid files the architecture under its interface and calls it an alphabet. The *varṇa* flattens to "letter," the *akṣara* to "syllable-sign," the sonomeric grid to an ABC — and the engineering beneath the marks goes unseen. Restore the words and the engineering returns. The marks are downstream. The sound-architecture is the language.
+The pyramid files the architecture under its interface and calls it an alphabet. The *varṇa* flattens to "letter," the *akṣara* to "syllable-sign," the sonomeric grid to an ABC — and the engineering beneath the glyphs goes unseen. Restore the words and the engineering returns. The glyphs are secondary. The sound-architecture is the language.
 
 ## 9.10 The Grid Holds the Garland
 

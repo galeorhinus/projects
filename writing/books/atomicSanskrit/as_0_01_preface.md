@@ -20,9 +20,9 @@
 
 The Sun has been eclipsed.
 
-The Vedic mantra names the condition precisely.[NOTE: rigveda-5-40-5-svarbhanu-eclipse] Svarbhānu the asura pierces Sūrya with darkness, and the worlds look about in confusion, like one who no longer knows the field. The wound is not only darkness. It is field-loss: **अक्षेत्रवित् (*akṣetravit*)**, the state in which the light remains present but the terrain can no longer be discerned.
+The Vedic mantra above precisely names the condition.[NOTE: rigveda-5-40-5-svarbhanu-eclipse] Svarbhānu the asura pierces Sūrya with darkness, and the worlds look about in confusion, like one who no longer knows the field. The wound is not only darkness. It is field-loss: **अक्षेत्रवित् (*akṣetravit*)**, the state in which the light remains present but the terrain can no longer be discerned.
 
-That verse is the Vedic diagnostic for the condition in which Sanskrit stands before the modern world. Sanskrit is Sūrya: radiant, stable, generative, engineered order. The asuric pyramid is Svarbhānu: the apex-form and its actor-network — he can neither build such an order nor bear one above his own. Proto-Indo-European, or PIE, is the eclipse-device, the Rāhu-like head placed over the Sun: an ancestor with no speakers, no body, no living mouth, made immortal precisely because it was never alive enough to die.
+That verse is the Vedic diagnostic for the condition in which Sanskrit stands before the modern world. Sanskrit is Sūrya: radiant, stable, generative, engineered order. The asuric pyramid is Svarbhānu: the apex-form and its actor-network — he can neither build such an order nor bear alternative to his own. Proto-Indo-European, or PIE, is the eclipse-device, the Rāhu-like head placed over the Sun: an ancestor with no speakers, no body, no living mouth, made immortal precisely because it was never alive enough to die.
 
 The schematic below assigns the roles before the argument begins: Sanskrit as the Sun, the segmented pyramid as the eclipse-body, and the reader's world-field darkened by what stands between them.
 
@@ -32,7 +32,7 @@ The eclipse did not make Sanskrit vanish. Sanskrit has remained visible, audible
 
 The deeper injury is civilizational self-doubt. A civilization can continue reciting, teaching, parsing, and preserving the Sun, yet hesitate before its own categories because the field around them has been darkened. That hesitation is not organic humility. It is the effect of an eclipse.
 
-A wiser age would not need this book. It would look at Sanskrit and *see* the architecture. It would listen to the Vedas and *hear* the engineering. It would see that the differences between the Vedic and worldly learned domains are part of that engineering. The argument has to be made because the present age has been trained to see *neither*. Its redundancy is deliberate: a field-blind age has become **मुग्ध (*mugdha*)**, bewildered before what remains present. The book repeats the point because confusion that has hardened into civilizational self-doubt can only be cleared with repetition.
+A wiser age would not need this book. It would look at Sanskrit and *see* the architecture. It would listen to the Vedas and *hear* the engineering. It would see that the differences between the Vedic and worldly domains are part of that engineering. The argument has to be made because the present age has been trained to see *neither*. Its redundancy is deliberate: a field-blind age has become **मुग्ध (*mugdha*)**, bewildered before what remains present. The book repeats the point because confusion that has hardened into civilizational self-doubt can only be cleared with repetition.
 
 For now, these opening pages offer orientation. The clearing begins later — shadow by shadow, plate by plate, until the field is a little brighter again. The task here is simpler: to say what was darkened, what was placed in front of the Sun, and why seeing Sanskrit's true radiance again matters.
 
@@ -44,15 +44,15 @@ The evidence is not hidden. Pāṇini's grammar displays it. The Vedic recitatio
 
 Sanskrit behaves like speech because it is speech: recited, spoken, parsed, remembered, sung, taught, and used across the Vedic domain, the worldly learned domain, mantra, poetry, śāstra, dialogue, ritual, drama, and philosophy. But the same speech also displays an architecture ordinary natural languages do not expose with this precision: the **वर्णमाला (*varṇamālā*)** (the ordered inventory of sonomers, measured sound-particles; Chapters 8 and 9 move from the sound-field to the selected grid), the **धातु (*dhātu*)** inventory, the physiological phonetic grid, the calibration matrix, and the multi-axis grammatical system. The architecture is observable in the Vedas. Sanskrit is the linguistic form the Vedas instantiate. Both display engineering. The origin is a separate question; the engineering is what shows.
 
-The visible differences between **वैदिक (*vaidika*)** and **लौकिक (*laukika*)** Sanskrit are real. Sanskrit’s own categories place them without confusion: *vaidika* and *laukika* name domains of use; Pāṇini’s **छन्दसि (*chandasi*)** and **भाषायाम् (*bhāṣāyām*)** mark operating modes, in meter and in speech. The fraudulent move begins when those domains and modes are recoded as chronological stages: *"Vedic"* before, *"Classical"* after, Pāṇini in between.
+The visible differences between **वैदिक (*vaidika*)** and **लौकिक (*laukika*)** Sanskrit are real. Sanskrit’s own categories place them without confusion: *vaidika* and *laukika* refer to domains of use; Pāṇini’s **छन्दसि (*chandasi*)** and **भाषायाम् (*bhāṣāyām*)** denote operating modes, in meter and in speech. The fraud begins when those domains and modes are recoded as chronological stages: *"Vedic"* before, *"Classical"* after, Pāṇini in between.
 
 Sanskrit behaves as usable speech across domains and modes; its exposed architecture shows why that speech is engineered.
 
 The chapters that follow demonstrate the sequence: **Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.**
 
-Sanskrit is therefore the calibrant. Its architecture is fractal: the same calibration law recurs across sound, atom, grammar, recitation, memory, and transmission. Sanātan extends that law across domains; this volume begins with language because language makes the architecture audible.
+Sanskrit is therefore the calibrant. Its architecture is fractal: the same calibration law recurs across sound, atom, grammar, recitation, memory, and transmission. Sanātan extends that pattern across domains; this volume begins with language because language makes the architecture audible.
 
-The evidence also appears in the words nearest the reader. **मातृ (*mātṛ*)** is not Sanskrit's cousin beside *mother*; it is the etymon. The English word is a **प्रतिबिम्ब (*Pratibimba*)** — a reflection downstream of the original form.
+The evidence also appears in the words nearest the reader. **मातृ (*mātṛ*)** is not Sanskrit's cousin beside *mother*; it is the etymon. The English word is a **प्रतिबिम्ब (*Pratibimba*)** — a reflection of the original form.
 
 ## The Boy's Question
 

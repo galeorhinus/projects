@@ -44,7 +44,7 @@ The answer is always zero.
 
 The finite is all they have seen. The finite is all they can model. The finite then becomes all they are permitted to admit. The modern Scientist sitting at the apex has *observed effectively zero,* yet presides as though the measurable fragment were the whole. This is structural finitism.
 
-Genesis gives the same operation in scriptural key: one birth, one life, one death, one Heaven, one Hell. A single beginning, a single command, a single authorized account of origin, and a single final judgment at the end of the line. The pyramid needs that first point. Once the beginning is owned, the sequence can be owned. Once the sequence is owned, the field can be judged from outside itself. In philology, PIE performs the same work. In chronology, the date performs the same work. Control the first point, and the rest can be made downstream.
+Genesis gives the same operation in scriptural key: one birth, one life, one death, one Heaven, one Hell. A single beginning, a single command, a single authorized account of origin, and a single final judgment at the end of the line. The pyramid needs that first point. Once the beginning is owned, the sequence can be owned. Once the sequence is owned, the field can be judged from outside itself. In philology, PIE performs the same work. In chronology, the date performs the same work. Control the first point, and the rest can be made to follow.
 
 The problem is not the views, knowledge, or ignorance of ordinary people inside the pyramid. The issue is the forceful, top-down imposition of finite ignorance by authorities. Ordinary confusion can be corrected; imposed ignorance hardens into rule. The apex takes reductive ideas, dresses them in grand terminology, and cements them as unquestionable dogma. The result is not knowledge. It is obedience.
 
@@ -64,7 +64,7 @@ Sanskrit resists that shape. Its order descends through the distributed field ra
 
 That is the strategic threat. Natural drift can be surveyed and ruled. Codification can be captured by authority. Calibration is harder to conquer because the standard lives in the system itself. The pyramid can lord over drift and sanctify codification. Calibration therefore has to be hidden as a category.
 
-Chronology capture follows from the same fear. The pyramid is threatened by **अनादि (*anādi*)**, that which has no beginning, and **अनन्त (*ananta*)**, that which has no end. Chronology becomes dangerous when it stops marking sequence and starts assigning category. Once the pyramid owns the clock, it can call one layer early, another late, one primitive, another developed, one original, another borrowed. It can turn domain into period, mode into stage, architecture into evolution, and calibration into late correction. That is why the *Veda* must be dated, stratified, and sequenced in the pyramid's story: the calibrant has to be forced into a clock before it can be made downstream.
+Chronology capture follows from the same fear. The pyramid is threatened by **अनादि (*anādi*)**, that which has no beginning, and **अनन्त (*ananta*)**, that which has no end. Chronology becomes dangerous when it stops tracking sequence and starts assigning category. Once the pyramid owns the clock, it can call one layer early, another late, one primitive, another developed, one original, another borrowed. It can turn domain into period, mode into stage, architecture into evolution, and calibration into late correction. That is why the *Veda* must be dated, stratified, and sequenced in the pyramid's story: the calibrant has to be forced into a clock before it can be made to descend.
 
 ## 1.3 Svarbhānu's Operation
 
@@ -104,7 +104,7 @@ At institutional scale, the recipes become repeatable moves. The asuric pyramid 
 
 The attack on Sanskrit is a category attack. The pyramid leaves the word *Sanskrit* visible and decides what category the word is allowed to occupy. Once the category is stolen, every fact is read inside it.
 
-The first move is ancestry theft. PIE is placed above Sanskrit, and Sanskrit is made downstream. The engineered calibrant becomes one branch among many. The real language must answer to an imaginary ancestor; the preserved system must answer to a reconstructed source; the visible architecture must answer to a star-marked form no known community ever spoke. Sūrya remains visible, but the sky has been darkened.
+The first move is ancestry theft. PIE is placed above Sanskrit, and Sanskrit is made downstream. The engineered calibrant becomes one branch among many. The real language must answer to an imaginary ancestor; the preserved system must answer to a reconstructed source; the visible architecture must answer to a starred form no known community ever spoke. Sūrya remains visible, but the sky has been darkened.
 
 The public move is language capture. Words such as *root*, *branch*, *daughter*, *migration*, *reconstruction*, *codification*, *"mythology"*, *cosmopolis*, *elite*, *early*, *late*, *primitive*, and *interpolation* carry the containment into ordinary speech. A reader can absorb the verdict before seeing the evidence because the vocabulary has already assigned the category.
 
