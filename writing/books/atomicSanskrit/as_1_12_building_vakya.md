@@ -1,5 +1,25 @@
 # Chapter 12 — Building the *Vākya* (वाक्य): Sanskrit's Molecular Assembly
 
+---
+
+::: epigraph
+
+> ऋचो अक्षरे परमे व्योमन्\
+> यस्मिन्देवा अधि विश्वे निषेदुः ।\
+> यस्तन्न वेद किमृचा करिष्यति\
+> य इत्तद्विदुस्त इमे समासते ॥
+>
+> *ṛco akṣare parame vyoman*\
+> *yasmin devā adhi viśve niṣeduḥ |*\
+> *yas tan na veda kim ṛcā kariṣyati*\
+> *ya it tad vidus ta ime sam āsate ||*
+>
+> `\hfill`{=latex}*— Ṛgveda 1.164.39*
+
+:::
+
+\bigskip
+
 ## 12.1 From Verbal Molecule to Sentence Assembly
 
 <!-- AISWEEP-OLD
@@ -11,19 +31,7 @@ The test is simple: can Sanskrit build larger forms without blurring the lower l
 
 That is **assembly without blur**.
 
-The epigraph gives the problem in Vedic form:
-
-> ऋचो अक्षरे परमे व्योमन्\
-> यस्मिन्देवा अधि विश्वे निषेदुः ।\
-> यस्तन्न वेद किमृचा करिष्यति\
-> य इत्तद्विदुस्त इमे समासते ॥
->
-> *ṛco akṣare parame vyoman*\
-> *yasmin devā adhi viśve niṣeduḥ |*\
-> *yas tan na veda kim ṛcā kariṣyati*\
-> *ya it tad vidus ta ime sam āsate ||*
-
-The working sense is direct: the *ṛks* stand in the imperishable highest space, where the devas are seated. What will one who does not know that do with the *ṛc*? Those who know it gather here.[NOTE: rigveda-1-164-39-akshara-assembly]
+The epigraph describes the problem in Vedic form. The working sense is direct: the *ṛks* stand in the imperishable highest space, where the devas are seated. What will one who does not know that do with the *ṛc*? Those who know it gather here.[NOTE: rigveda-1-164-39-akshara-assembly]
 
 The verse does more than a grammar manual could do. It places the reader inside the relation under study: a completed utterance depends on the recoverable structure beneath it. The *ṛc* is the assembled utterance. The one who does not know what holds it cannot use it properly.
 
