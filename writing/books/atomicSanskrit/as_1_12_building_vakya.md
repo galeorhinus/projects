@@ -177,7 +177,10 @@ This is molecular construction, not a list of unrelated words later collected by
 
 The matrix also protects the argument from overstatement. Sanskrit's generativity is governed. Productive axes permit a large field of construction because the bonds are lawful; they do not make every possible-looking form equally real.
 
+<!-- AISWEEP-OLD
 The *racanā* × *gaṇa* matrix made the same point at the previous scale. Some cells were heavy. Some were light. Some were empty. The molecular matrix repeats the point: the cell records a procedure.
+AISWEEP-END -->
+The *racanā* × *gaṇa* matrix made the same point at the previous scale — some cells heavy, some light, some empty — and the molecular matrix repeats it: each filled cell records a procedure.
 
 ![Figure 12.6 — A conservative कृ (*kṛ*) bonding matrix: real cells are visible; unused cells remain blank.](figures/building_vakya/kr_bonding_matrix.svg){#fig:building-vakya-kr-bonding-matrix width=100%}
 
@@ -185,7 +188,10 @@ The *racanā* × *gaṇa* matrix made the same point at the previous scale. Some
 
 A **शब्दः (*śabdaḥ*)** carries meaning. A **पदम् (*padam*)** is ready for use inside a sentence because its role has been set.
 
+<!-- AISWEEP-OLD
 This distinction matters. A molecule can name an object, action, quality, agent, or state. A sentence needs relations: who acts, what is known, by what instrument, in what place, toward what object. Sanskrit encodes those relations inside the *padam*.
+AISWEEP-END -->
+The distinction matters. A molecule can denote an object, an action, a quality, an agent, or a state, but a sentence needs relations — who acts, what is known, by what instrument, in what place, toward what object — and Sanskrit encodes those relations inside the *padam*.
 
 The primary nominal role-ending is **विभक्तिः (*vibhaktiḥ*)**. A *vibhaktiḥ* saturates the molecule for use by setting role, number, and relation. The verbal side encodes role through its own **तिङ्-प्रत्ययाः (*tiṅ-pratyayāḥ*)**, which carry person, number, and verbal relation.
 
@@ -233,7 +239,10 @@ The English sense is: *What will one who does not know that do with the ṛc?*
 
 The line is short, and every layer remains visible. **करिष्यति (*kariṣyati*)** carries the future action and returns the reader to **कृ (*kṛ*)**, the flagship atom. **ऋचा (*ṛcā*)** carries the instrumental relation. **यः (*yaḥ*)** and **तत् (*tat*)** set up the relative field. **न (*na*)** negates the knowing. The relations inside the parts hold the sentence together.
 
+<!-- AISWEEP-OLD
 By the time the *vākya* is formed, the lower levels remain recoverable. The sonomers remain recoverable because sound-change operates by rule. The *dhātuḥ* remains recoverable because the molecule preserves its atomic identity through affixation. The *upasargaḥ* and *pratyayaḥ* remain recoverable because the bond leaves grammatical and semantic signatures. The *padam* remains recoverable because *vibhaktiḥ* and *tiṅ-pratyayaḥ* carry relation, number, person, and role.
+AISWEEP-END -->
+By the time the *vākya* is formed, every level beneath it is still recoverable, each for a concrete reason: the sonomers because sound-change runs by rule, the *dhātuḥ* because the molecule keeps its atomic identity through affixation, the *upasargaḥ* and *pratyayaḥ* because each bond leaves a grammatical and semantic signature, and the *padam* because *vibhaktiḥ* and *tiṅ-pratyayaḥ* carry relation, number, person, and role.
 
 The sentence is the larger assembly. The smaller engineering remains visible inside it.
 

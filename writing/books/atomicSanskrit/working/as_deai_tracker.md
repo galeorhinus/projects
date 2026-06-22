@@ -55,7 +55,7 @@ The de-AI rules live in the user-memory note `feedback_deai_humanize_prose.md` a
 | **IV** | as_part_04_atomic_architecture | Part IV opener | 15 | ➖ |
 | 10 | as_1_10_building_dhatuh | Building the *dhātuḥ* | 443 | ⬜ |
 | 11 | as_1_11_building_kriya | Building the *kriyā* | 324 | ✅ done (replace-mode, pre-doubling) — uncommitted |
-| 12 | as_1_12_building_vakya | Building the *vākya* | 278 | 🟡 chunk 1/3 (§§12.1–12.4) swept — pending review; + RV 1.164.39 promoted to top `::: epigraph` (was inline in §12.1) |
+| 12 | as_1_12_building_vakya | Building the *vākya* | 278 | 🟡 chunks 1–2/3 (§§12.1–12.8) swept — pending review; chunk 3 (§§12.9–12.10) left; + RV 1.164.39 promoted to top `::: epigraph` |
 | 13 | as_1_13_preservation | Preservation | 163 | ⬜ |
 | **V** | as_part_05_anti_entropy_practice | Part V opener | 15 | ➖ |
 | 14 | as_1_14_calibration | Calibration | 204 | ⬜ |
