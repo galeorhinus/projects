@@ -20,6 +20,10 @@
 
 \bigskip
 
+The image places Sanskrit as the Sun: a radiant *svastika* carrying *saṃskṛtam* संस्कृतम्, with *akṣaraḥ* अक्षरः, *varṇaḥ* वर्णः, *chandaḥ* छन्दः, and *dhātuḥ* धातुः held inside its form. The ledger beside it lists the seven qualities the eclipse will later obscure.
+
+![Figure E.3 — Sanskrit-Sun. The positive ledger appears before the pyramid: wholly created, anti-entropic, calibrated, sonomeric, audiographic, calibrant, and Vedic Matrix.](figures/eclipse_spine/eclipse_01_ch0_sanskrit_sun.svg){#fig:eclipse-ch0-sanskrit-sun width=90%}
+
 ## 0.1 The Puzzle of the Whole
 
 The *Īśopaniṣad* ईशोपनिषद् opens from fullness:

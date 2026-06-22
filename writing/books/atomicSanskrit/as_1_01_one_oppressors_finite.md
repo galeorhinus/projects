@@ -28,6 +28,10 @@ And the one is a Him — a blank each age fills with a new name. Hiraṇyakaśip
 
 The finite order turns plurality into command.  A pyramid.
 
+Its frame is not one of the removable plates. The frame is the asuric pyramid itself: the intact geometry of apex, enclosure, and control. The numbered plates are the obstructions this book exposes, cracks, and removes from the view of Sanskrit. The pyramid returns at the head of each part, one more plate gone each time, until the Sun stands clear.
+
+![Figure E.4 — The Asuric Pyramid. The outer frame remains intact while eleven numbered plates name the obstructions placed before the Sanskrit-Sun.](figures/eclipse_spine/eclipse_02_ch1_pyramid_full.svg){#fig:eclipse-ch1-pyramid-full width=90%}
+
 ## 1.1 The apex-one
 
 The seeker approaches the unbounded through zero: humility before what exceeds the mind, openness before the infinite, inquiry disciplined by *jijñāsā*. The asuric pyramid moves in the opposite direction. It turns the field toward one apex and makes that apex the condition of recognition.

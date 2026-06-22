@@ -22,6 +22,10 @@
 
 The Śaṅkha sounds inside a war already underway. Its note is not ceremony. It is summons: caretaking has become action.
 
+The eclipse remains intact at this threshold. The conch does not break the plates; it sounds across the dark field and calls the caretakers into motion.
+
+![Figure E.2 — The Śaṅkha Sounds. The full eclipse remains in place, but the conch has sounded while the field is still dark.](figures/eclipse_spine/eclipse_00_overture_shankha_full.svg){#fig:eclipse-overture-shankha width=100%}
+
 Sanskrit is the Sun. The asuric pyramid has drawn its shadow across the field. What should have been obvious went dark: a language held by seekers, caretakers, reciters, grammarians, mothers, teachers, students, and lineages across the depth of time.
 
 Before the light returns, the parties must be visible. On one side stand the seekers and caretakers: the civilization trained to listen, correct, remember, and keep looking. On the other side stands the asuric pyramid, the finite order with the apex at its head. He wants the field to answer upward.

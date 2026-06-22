@@ -182,6 +182,24 @@ The swastika is doubly apt here: an ancient solar sign and the book's emblem of 
 | **Part VII opener** | Seven core plates removed; residual plates 8–11 remain cracked/exposed as work beyond the book. |
 | **Epilogue** | Atri recovery image: the Sun visible, the world/reader-field illuminated enough to act, and residual work named. |
 
+**SVG filenames for the illustration set:**
+
+```text
+eclipse_00_preface_full.svg
+eclipse_00_overture_shankha_full.svg
+eclipse_01_ch0_sanskrit_sun.svg
+eclipse_02_ch1_pyramid_full.svg
+
+eclipse_10_part01_shadow_cast_targets_1_2_3.svg
+eclipse_20_part02_sun_account_cracked_1_2_3.svg
+eclipse_30_part03_sound_body_removed_2_3_target_4.svg
+eclipse_40_part04_sun_atoms_removed_2_3_4.svg
+eclipse_50_part05_no_decay_removed_2_3_4_targets_5_7.svg
+eclipse_60_part06_dispelling_rahu_removed_2_3_4_5_7_targets_1_6.svg
+eclipse_70_part07_life_after_pie_core_removed.svg
+eclipse_80_epilogue_atri_recovery.svg
+```
+
 **Gentle Atri posture:** The author may be implied as one participant in the Atri work, but the prose should not make an in-your-face self-claim. Preferred mode: the Vedic mantra names the role; the book performs part of the recovery; the responsibility then moves to the caretakers. A possible direction, not final prose: *The mantra says the Atris found the Sun when others could not. This book removes enough shadow for the work to begin again. What remains cannot be cleared by one author.*
 
 ## 6b. Residual pieces beyond this book
