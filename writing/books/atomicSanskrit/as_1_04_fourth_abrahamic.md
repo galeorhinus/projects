@@ -4,7 +4,7 @@
 
 ## 4.1 The Fourth Religion
 
-The usual count names three Abrahamic religions. The modern world has four, and the fourth succeeds because it does not name itself as one.
+The usual count gives three Abrahamic religions. The modern world has four, and the fourth succeeds because it does not call itself one.
 
 Judaism drew the line. Christianity reformed it in Roman antiquity. Islam reformed it again in late antiquity. Each preserved the structural template of the form before it: chosen community, authorized doctrine, boundary between insider and outsider, missionary or expansionary obligation, and a history moving toward a promised end. The doctrinal contents differ. The template holds.
 
@@ -42,7 +42,7 @@ Ambedkar provides the outline; the pyramid gives the interior.
 
 The four Abrahamic religions are not merely closed corporations. They are pyramidal corporations: visible apex, visible layers, authorization flowing downward, compliance flowing upward, exclusion machinery pointed at heterodox argument from below. The closed boundary defines the corporation. The pyramid describes how the corporation governs. At the apex of the first three stands a Father — *jealous, by His own testimony*, who brooks no other before Him — and, as shepherd, He needs the flock that does not need Him. The fourth secularizes Him into consensus and keeps the singular peak.
 
-![Figure 4.1a — Same Pyramid, Four Versions: V1-V3. Judaism, Christianity, and Islam share the same pyramidal structure: apex authority, dogma, priestly interpretation, institutions, expansion, enforcement, and base.](figures/fourth_abrahamic/same_pyramid_named_religions.svg){#fig:ch4-same-pyramid-v1-v3 width=86%}
+![Figure 4.1a — Same Pyramid, Four Versions: V1-V3. Judaism, Christianity, and Islam share the same pyramidal structure: apex authority, dogma, priestly interpretation, institutions, expansion, enforcement, and base.](figures/fourth_abrahamic/same_pyramid_named_religions.svg){#fig:ch4-same-pyramid-v1-v3 width=100%}
 
 ![Figure 4.1b — Same Pyramid, Four Versions: V4. Progressivism keeps the same pyramidal structure and secularizes the vocabulary into progressivism, priests of progress, church of progress, missionaries of progress, jihadis of progress, and believers / pliables / deniers.](figures/fourth_abrahamic/same_pyramid_progressivism.svg){#fig:ch4-same-pyramid-v4 width=86%}
 
@@ -167,7 +167,7 @@ The dharmic continuum has its own primary-source diagnosis of the foreign binary
 
 Two architectures contest, asymmetrically. The fourth Abrahamic religion tries to remake an integrated civilization in the image of an imported binary structure. The architecture of *Sanātan* holds beneath whichever political-administrative regime happens to operate at the surface. It has not survived by accident. It survived because it was built to.
 
-![Figure 4.2 — Pyramid and Swastika: Two Architectures of Authority. The pyramid authorizes from above; the swastika architecture transmits, tests, and corrects through society itself.](figures/fourth_abrahamic/pyramid_and_swastika.svg){#fig:ch4-pyramid-swastika width=92%}
+![Figure 4.2 — Pyramid and Swastika: Two Architectures of Authority. The pyramid authorizes from above; the swastika architecture transmits, tests, and corrects through society itself.](figures/fourth_abrahamic/pyramid_and_swastika.svg){#fig:ch4-pyramid-swastika width=100%}
 
 The sequence is compact:
 

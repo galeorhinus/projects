@@ -181,17 +181,17 @@ The Preface quotes Ṛgveda 10.71.4:
 
 The line belongs to the *Vāk* hymn, where speech is present but not equally accessible to all. The Preface renders the second clause as "One may listen and still not hear her" because Sanskrit treats **वाक् (*vāk*)**, speech, as feminine. The verse itself carries that grammar: ***vācam*** (वाचम्) is feminine accusative singular, and ***enām*** (एनाम्), "her / this one," is also feminine accusative singular. The English "her" is therefore not personification added by the translation; it preserves the Sanskrit grammatical gender of speech.
 
-The Preface reveals the verse in two movements. The first half stands at the threshold: Sanskrit was not hidden. It was recited, taught, parsed, catalogued, and printed. The failure was not absence of evidence. It was failure of perception — looking without seeing, listening without hearing. The second half is activated when the Preface names the *mantra-dṛṣṭāḥ*: ***tanvaṃ vi sasre*** says that Speech "revealed / spread out her body" to the one capable of seeing, compared in the verse to a willing, well-dressed wife before her husband. The point is not ornamental metaphor. It is the Indic epistemic claim: the seers did not manufacture speech; Speech revealed herself.
+The Preface reveals the verse in two movements. The first half stands at the threshold: Sanskrit was not hidden. It was recited, taught, parsed, catalogued, and printed. The failure was not absence of evidence. It was failure of perception — looking without seeing, listening without hearing. The second half is activated when the Preface introduces the *mantra-dṛṣṭāḥ*: ***tanvaṃ vi sasre*** says that Speech "revealed / spread out her body" to the one capable of seeing, compared in the verse to a willing, well-dressed wife before her husband. The point is not ornamental metaphor. It is the Indic epistemic claim: the seers did not manufacture speech; Speech revealed herself.
 
-The seer-function is not gender-bound. The most ontologically radical *mantra-dṛṣṭā* moment in the corpus — *Vāk* declaring her own primordiality in the first person — is recorded through a female *ṛṣikā*: ***Vāk Ambhṛṇī*** (वाक् आम्भृणी), the seer of Ṛgveda 10.125 in the *Anukramaṇī*. The lineage did not need modern correction to admit this; it was already there in the canonical index. The Preface therefore keeps the RV 10.71.4 wife-image inside its proper frame: a metaphor of revelation, not a restriction on who may see, by naming the lineage's women seers — *ṛṣikāḥ* and *brahmavādinyaḥ* such as Lopāmudrā, Apālā, Viśvavārā, Ghoṣā, and Vāk Ambhṛṇī. See `rigveda-10-125-vak-ambhrini` for the full hymn, source basis, and three-layer structural argument.
+The seer-function is not gender-bound. The most ontologically radical *mantra-dṛṣṭā* moment in the corpus — *Vāk* declaring her own primordiality in the first person — is recorded through a female *ṛṣikā*: ***Vāk Ambhṛṇī*** (वाक् आम्भृणी), the seer of Ṛgveda 10.125 in the *Anukramaṇī*. The lineage did not need modern correction to admit this; it was already there in the canonical index. The Preface therefore keeps the RV 10.71.4 wife-image inside its proper frame: a metaphor of revelation, not a restriction on who may see, by citing the lineage's women seers — *ṛṣikāḥ* and *brahmavādinyaḥ* such as Lopāmudrā, Apālā, Viśvavārā, Ghoṣā, and Vāk Ambhṛṇī. See `rigveda-10-125-vak-ambhrini` for the full hymn, source basis, and three-layer structural argument.
 
 ---
 
 ### `rigveda-10-125-vak-ambhrini`
 
-**Short:** RV 10.125 (the *Devī Sūkta* / *Vāk Sūkta*) is the corpus's most ontologically radical *mantra-dṛṣṭā* moment: *vāk* speaks in first person declaring her own primordiality and naming whom she makes into a *ṛṣi*; the canonical seer recorded by the *Sarvānukramaṇī* is the female *ṛṣikā* Vāk Ambhṛṇī, placing the substrate's voice and the seer's voice together at the architecture's deepest layer.
+**Short:** RV 10.125 (the *Devī Sūkta* / *Vāk Sūkta*) is the corpus's most ontologically radical *mantra-dṛṣṭā* moment: *vāk* speaks in first person declaring her own primordiality and choosing whom she makes into a *ṛṣi*; the canonical seer recorded by the *Sarvānukramaṇī* is the female *ṛṣikā* Vāk Ambhṛṇī, placing the substrate's voice and the seer's voice together at the architecture's deepest layer.
 
-**Deployments:** Preface — at the end of *"…it is not a rule that only men see."* (paragraph naming *mantra-dṛṣṭāḥ* and the *ṛṣikāḥ* list). Additional candidate sites for later deployment — Appendix Part 3 (the *akṣara* / *vāk* primordiality layer); Appendix Part 7 §7.2 verse-walk (alongside RV 1.1.1, 10.129.1, 3.62.10).
+**Deployments:** Preface — at the end of *"…it is not a rule that only men see."* (paragraph citing *mantra-dṛṣṭāḥ* and the *ṛṣikāḥ* list). Additional candidate sites for later deployment — Appendix Part 3 (the *akṣara* / *vāk* primordiality layer); Appendix Part 7 §7.2 verse-walk (alongside RV 1.1.1, 10.129.1, 3.62.10).
 
 The hymn opens with *vāk* speaking as the substrate of every named deity:
 
@@ -205,7 +205,7 @@ The hymn opens with *vāk* speaking as the substrate of every named deity:
 
 The first-person ***aham*** repeats across the hymn. *Vāk* is the speaker; the seer is the receiver who writes down what she says. Three further verses carry the load-bearing claims for the engineering thesis.
 
-**The conferral verse — RV 10.125.5** — *vāk* names whom she makes into a *ṛṣi*:
+**The conferral verse — RV 10.125.5** — *vāk* chooses whom she makes into a *ṛṣi*:
 
 > **अहमेव स्वयमिदं वदामि जुष्टं देवेभिरुत मानुषेभिः ।**
 > **यं कामये तं तमुग्रं कृणोमि तं ब्रह्माणं तमृषिं तं सुमेधाम् ॥**
@@ -242,7 +242,7 @@ The hymn closes with *vāk* claiming the cosmic-substrate position the *Mīmā�
 **Three-layer structural argument for gender-neutrality.** No layer of the architecture introduces gender as a category that admits or excludes.
 
 - (a) *The thing received is grammatically feminine.* **वाक् (*vāk*)** is feminine in Sanskrit's own grammar (*strīliṅga*). The substrate the *ṛṣis* receive is named with a feminine form across the corpus. This is morphological, not poetic.
-- (b) *The reception mechanism is faculty-neutral.* Yāska's *Nirukta* 2.11 defines the *ṛṣi* as ***ṛṣir darśanāt*** — the *ṛṣi* is so called from *darśana*, from seeing. RV 10.71.7 names the difference between *ṛṣi* and bystander as ***mano-javeṣv asamā*** — unequal in mental quickness — not anatomical, not social, not gendered.
+- (b) *The reception mechanism is faculty-neutral.* Yāska's *Nirukta* 2.11 defines the *ṛṣi* as ***ṛṣir darśanāt*** — the *ṛṣi* is so called from *darśana*, from seeing. RV 10.71.7 draws the difference between *ṛṣi* and bystander as ***mano-javeṣv asamā*** — unequal in mental quickness — not anatomical, not social, not gendered.
 - (c) *The recording system is non-discriminating.* The *Sarvānukramaṇī* lists ***ṛṣikāḥ*** alongside ***ṛṣis*** using the same systematic frame. Named female mantra-receivers in the canonical list include Lopāmudrā (RV 1.179), Apālā Ātreyī (RV 8.91), Yamī Vaivasvatī (RV 10.10), Urvaśī (RV 10.95), Sūryā Sāvitrī (RV 10.85), Ghoṣā Kākṣīvatī (RV 10.39–40), Viśvavārā Ātreyī (RV 5.28), Indrāṇī (RV 10.86), Sarparājñī (RV 10.189), Śraddhā Kāmāyanī (RV 10.151), and Vāk Ambhṛṇī herself.
 
 The thing received is feminine; the mechanism is faculty-neutral; the recording system is non-discriminating. The stack is consistent across all three layers.
@@ -291,7 +291,7 @@ The standard Śikṣā articulation sequence classifies Sanskrit sounds by place
 >
 > *ṛṭuraṣāṇāṃ mūrdhā.*
 
-The line means that मूर्धा (*mūrdhā*) — the head / roof-of-mouth site — is the articulatory place for ऋ (*ṛ*), the टु (*ṭu*) class, र (*ra*), and ष (*ṣa*). The point for Chapter 16 is both semantic and phonetic. In the operative sequence ऋटुरषाणां (*ṛṭuraṣāṇāṃ*), the first vowel is ऋ (*ṛ*), and the consonantal spine carries ट (*ṭ*), र (*r*), ष (*ṣ*), and ण (*ṇ*) — the retroflex or *mūrdhanya*-aligned sounds the line is naming. The speaker has to enter the articulatory site in order to say the rule that identifies the site. This is why the chapter treats the line as architectural evidence, not as ornamental quotation. Final publication pass should verify the exact source-text attribution and numbering in the selected Śikṣā edition.
+The line means that मूर्धा (*mūrdhā*) — the head / roof-of-mouth site — is the articulatory place for ऋ (*ṛ*), the टु (*ṭu*) class, र (*ra*), and ष (*ṣa*). The point for Chapter 16 is both semantic and phonetic. In the operative sequence ऋटुरषाणां (*ṛṭuraṣāṇāṃ*), the first vowel is ऋ (*ṛ*), and the consonantal spine carries ट (*ṭ*), र (*r*), ष (*ṣ*), and ण (*ṇ*) — the retroflex or *mūrdhanya*-aligned sounds the line specifies. The speaker has to enter the articulatory site in order to say the rule that identifies the site. This is why the chapter treats the line as architectural evidence, not as ornamental quotation. Final publication pass should verify the exact source-text attribution and numbering in the selected Śikṣā edition.
 
 ---
 
@@ -380,7 +380,7 @@ Second, the connector ***tadyathā*** (तद्यथा) — *"to wit," "as fo
 
 Third, the prose form is *bhāṣya* — commentarial prose — not metrical *śloka* (verse). The *Mahābhāṣya* is overwhelmingly prose commentary on Pāṇini's *sūtras* and Kātyāyana's *vārttikas*, with embedded *śloka-vārttikas* at certain points. This passage is *bhāṣya* prose. Secondary literature occasionally references the line as a *śloka*; precision matters. The form does not weaken the citation — the *Paspaśāhnika*'s opening positions carry the full canonical weight of the vyākaraṇa discipline regardless of prose-versus-verse form.
 
-The passage is the *locus classicus* for the *apabhraṃśa* phenomenon in the Indic vyākaraṇa discipline. Every later reference to *apabhraṃśa* in the *vyākaraṇa* literature — and every later defense of the *siddha* axiom (Chapter 5 §5.2) against the entropy the *apabhraṃśas* embody — refers back, explicitly or implicitly, to this passage. Chapter 6 splits the passage across §6.2 and §6.3 because the two halves of the argument (quantitative asymmetry; per-word worked example) need to land in sequence, with the three-category analysis of §6.4 already prepared by the time the *gauḥ* variants are introduced. The textual unity restored here is what the *Mahābhāṣya* itself preserves — a single passage in which the grammarian states the general claim, names the per-word structure, and produces the example, in the order in which the demonstration proceeds.
+The passage is the *locus classicus* for the *apabhraṃśa* phenomenon in the Indic vyākaraṇa discipline. Every later reference to *apabhraṃśa* in the *vyākaraṇa* literature — and every later defense of the *siddha* axiom (Chapter 5 §5.2) against the entropy the *apabhraṃśas* embody — refers back, explicitly or implicitly, to this passage. Chapter 6 splits the passage across §6.2 and §6.3 because the two halves of the argument (quantitative asymmetry; per-word worked example) need to land in sequence, with the three-category analysis of §6.4 already prepared by the time the *gauḥ* variants are introduced. The textual unity restored here is what the *Mahābhāṣya* itself preserves — a single passage in which the grammarian states the general claim, gives the per-word structure, and produces the example, in the order in which the demonstration proceeds.
 
 ---
 

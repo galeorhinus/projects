@@ -30,7 +30,7 @@ The finite order turns plurality into command.  A pyramid.
 
 Its frame is not one of the removable plates. The frame is the asuric pyramid itself: the intact geometry of apex, enclosure, and control. The numbered plates are the obstructions this book exposes, cracks, and removes from the view of Sanskrit. The pyramid returns at the head of each part, one more plate gone each time, until the Sun stands clear.
 
-![Figure E.4 — The Asuric Pyramid. The outer frame remains intact while eleven numbered plates name the obstructions placed before the Sanskrit-Sun.](figures/eclipse_spine/eclipse_02_ch1_pyramid_full.svg){#fig:eclipse-ch1-pyramid-full width=90%}
+![Figure E.4 — The Asuric Pyramid. The outer frame remains intact while eleven numbered plates flag the obstructions placed before the Sanskrit-Sun.](figures/eclipse_spine/eclipse_02_ch1_pyramid_full.svg){#fig:eclipse-ch1-pyramid-full width=100%}
 
 ## 1.1 The apex-one
 
