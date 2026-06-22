@@ -22,48 +22,24 @@
 
 ## 12.1 From Verbal Molecule to Sentence Assembly
 
-<!-- AISWEEP-OLD
-The *dhātuḥ* has entered operation and become a **क्रियापदम् (*kriyāpadam*)** — a verbal molecule. A language must then build names, role-bearing words, and sentences. It must let the action enter speech.
-AISWEEP-END -->
 When a *dhātuḥ* enters an operation, it becomes a **क्रियापदम् (*kriyāpadam*)** — a verbal molecule. The language now has to build the rest around it: names, role-bearing words, and the sentences that let the action enter speech.
 
-<!-- AISWEEP-OLD
-The test is simple: can Sanskrit build larger forms without blurring the lower levels? Can the sonomer remain visible inside the atom, the atom inside the molecule, the molecule inside the **पदम् (*padam*)**, and the *padam* inside the **वाक्यम् (*vākyam*)**?
-AISWEEP-END -->
 One test of engineering is: can Sanskrit build larger forms without blurring the lower levels — the sonomer still visible inside the atom, the atom inside the molecule, the molecule inside the **पदम् (*padam*)**, and the *padam* inside the **वाक्यम् (*vākyam*)**?
 
 That is **assembly without blur**.
 
-<!-- AISWEEP-OLD
-The epigraph describes the problem in Vedic form. The working sense is direct: the *ṛks* stand in the imperishable highest space, where the devas are seated. What will one who does not know that do with the *ṛc*? Those who know it gather here.[NOTE: rigveda-1-164-39-akshara-assembly]
-AISWEEP-END -->
 The epigraph confirms the architecture in a Vedic form: the *ṛks* reside in the **अक्षर (*akṣara*)** — the imperishable syllable, the highest heaven — where the devas are seated. What will one who does not know that do with the *ṛc*? Those who know it gather here.[NOTE: rigveda-1-164-39-akshara-assembly]
 
 The verse does more than a grammar manual could do. It places the reader inside the relation under study: a completed utterance depends on the recoverable structure beneath it. The *ṛc* is the assembled utterance. The one who does not know what holds it cannot use it properly.
 
-<!-- AISWEEP-OLD
-The Vedic mantra describes the engineering.
-AISWEEP-END -->
 And what holds it — the *akṣara* — the Veda calls **परमे व्योमन् (*parame vyoman*)**, the highest heaven: the supreme ground is the **lower fractal** scale, found by going down, not up.
 
-<!-- AISWEEP-OLD
-The verse itself already shows sentence assembly. It carries a locative field — **अक्षरे परमे व्योमन् (*akṣare parame vyoman*)**. It carries a relative enclosure — **यस्मिन् (*yasmin*)**. It carries knowledge and non-knowledge — **वेद (*veda*)**, **न (*na*)**. It carries an instrumental relation — **ऋचा (*ṛcā*)**. It carries future action — **करिष्यति (*kariṣyati*)**, from the same कृ (*kṛ*) atom used below as the flagship.
-AISWEEP-END -->
 The verse itself is a worked example of sentence assembly. Inside four lines it sets a locative field — **अक्षरे परमे व्योमन् (*akṣare parame vyoman*)** — closes it with a relative — **यस्मिन् (*yasmin*)** — weighs knowledge against its absence — **वेद (*veda*)**, **न (*na*)** — turns on an instrumental — **ऋचा (*ṛcā*)** — and reaches into future action with **करिष्यति (*kariṣyati*)**, built from the same कृ (*kṛ*) atom that anchors the chapter below.
 
-<!-- AISWEEP-OLD
-The Vedic sentence is already doing the work. The parts hold their roles. The action is visible. The assembly can be walked.
-AISWEEP-END -->
 The Vedic sentence is already doing all of this on its own: every part holds its role, the action stays visible, and the whole assembly can be traced from the surface back down to the atom.
 
-<!-- AISWEEP-OLD
-Yāska gives the hinge: **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)** — names arise from actions.[NOTE: nirukta-namany-akhyatajani] Treat it as a direction of vision rather than as a slogan that flattens every noun into one mechanical derivation. Sanskrit names are often built from action. The atom acts first; the name crystallizes after.
-AISWEEP-END -->
 Yāska's *Nirukta* gives the hinge in four words: **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)** — names arise from actions.[NOTE: nirukta-namany-akhyatajani] Take it as a direction of sight, not a rule that flattens every noun into one mechanical derivation. Sanskrit names are built from action more often than not: the atom acts first, and the name crystallizes after.
 
-<!-- AISWEEP-OLD
-The verbal molecule becomes the source of names. Names receive bonds. Bonds produce *padāni*. *Padāni* enter the *vākya*. The sentence is an assembly that preserves the levels underneath it.
-AISWEEP-END -->
 From there the chain runs outward: the verbal molecule becomes a source of names, names take on bonds to become *padāni*, and *padāni* enter the *vākya* — a sentence that still holds every level intact beneath it.
 
 ![Figure 12.1 — Molecular assembly pipeline: sonomer → dhātuḥ → śabda / kriyāpada → padam → vākya.](figures/building_vakya/pipeline.svg){#fig:building-vakya-pipeline width=100%}
@@ -78,21 +54,12 @@ An *upasargaḥ* redirects the atom's field of action. A *pratyayaḥ* stabilize
 
 The governing issue is recoverability. The bond remains visible enough for the form to be analyzed, taught, corrected, recited, and recalibrated.
 
-<!-- AISWEEP-OLD
-This matters because the philological dogma treats the *upasargaḥ* as a preverb: a spatial particle that gradually fused with the verb through ordinary linguistic evolution. That may be a useful description for some natural-language histories. Sanskrit shows a different operation.
-AISWEEP-END -->
 The philological dogma treats the *upasargaḥ* as a preverb: a spatial particle that gradually fused with the verb through ordinary linguistic evolution. That may be a fair description of some natural-language histories. Sanskrit runs a different operation.
 
 In English, a preposition usually stands outside the action: *from*, *toward*, *over*, *under*. It points from outside. In Sanskrit, the *upasargaḥ* enters the word-body and redirects the action from within the derivation. It bonds with the atom.
 
-<!-- AISWEEP-OLD
-A *pratyayaḥ* performs the other side of the bonding procedure. It completes the molecule into a usable class. One suffix can make an action-name. Another can make an agent. Another can make something-to-be-done. The same atom remains visible, and the molecule's outer shell changes what the form can do in a sentence.
-AISWEEP-END -->
 A *pratyayaḥ* performs the other side of the bonding procedure, completing the molecule into a usable class: one suffix makes an action-name, another an agent, another something-to-be-done. Through all of it the same atom stays visible, while the molecule's outer shell changes what the form can do in a sentence.
 
-<!-- AISWEEP-OLD
-This is why the bonding analogy is useful. Sanskrit bonds semantic atoms into usable molecules. The bond changes grammatical behavior while preserving recoverable identity.
-AISWEEP-END -->
 Sanskrit bonds semantic atoms into usable molecules, and the bond changes grammatical behavior while preserving recoverable identity — which is exactly what makes the chemistry analogy fit.
 
 The figures keep the timing layer visible. The ruler below each strip shows the *mātrā* scale in half-*mātrā* steps, so the reader can see that sentence assembly still preserves measured sound.
@@ -123,14 +90,8 @@ The head-bonds alone show the range. **प्र (*pra-*)** directs *kṛ* towar
 
 The tail-bonds show the same principle from the other side. Bare *kṛ* can become **कर्म (*karma*)**, the deed; **कर्तृ (*kartṛ*)**, the doer; and **कार्य (*kārya*)**, what is to be done. The atom remains visible. The bond determines what the molecule can do.
 
-<!-- AISWEEP-OLD
-This is the reason *kṛ* carries the demonstration. It connects the technical proof to the highest categories in the argument: *prakṛti*, *vikṛti*, and *saṃskṛti*. The words for the creation triad are themselves products of the bonding procedure being demonstrated.
-AISWEEP-END -->
 *Kṛ* carries the demonstration because it connects the technical proof to the highest categories in the argument: *prakṛti*, *vikṛti*, and *saṃskṛti*. The words for the creation triad are themselves products of the bonding procedure being demonstrated.
 
-<!-- AISWEEP-OLD
-The contrast matters too. Not every atom behaves like *kṛ*. **ह्लाद् (*hlād*)** is a higher-*mātrā*, lower-reactivity atom in the joined analysis.[NOTE: hlad-contrast-atom] It can still bond and generate, but it does not open the same wide molecular field. That difference is useful. Sanskrit's bonding procedure handles both classes: the highly reactive atoms that build large conceptual territories, and the specialized atoms that carry narrower semantic work.
-AISWEEP-END -->
 Not every atom behaves like *kṛ*. **ह्लाद् (*hlād*)** is a higher-*mātrā*, lower-reactivity atom in the joined analysis.[NOTE: hlad-contrast-atom] It still bonds and generates, but it does not open the same wide molecular field, and Sanskrit's bonding procedure handles both kinds: the highly reactive atoms that build large conceptual territories, and the specialized atoms that carry the narrower semantic work.
 
 The demonstration follows *kṛ* because it makes the procedure visible. Once the reader sees the procedure on the most reactive atom, the same logic can be recognized elsewhere.
@@ -149,9 +110,6 @@ An *upasargaḥ* redirects the field in which the atom acts. With *kṛ*, the op
 
 **सम् (*sam-*)** faces together, integrated, completed, refined. When *sam-* enters the *kṛ* field, it yields the family of integrated and refined forms: **संस्कृति (*saṃskṛti*)**, **संस्कार (*saṃskāra*)**, and **संस्कृत (*saṃskṛta*)**. In prose, **sam + kṛ** is useful shorthand for the semantic operation. In the actual sonomeric form, the visible **स्** in **संस्कृति** and **संस्कार** must be accounted for by the rules that build the surface molecule.[NOTE: kr-bonding-examples]
 
-<!-- AISWEEP-OLD
-The important point is the direction of the bond. The *upasargaḥ* turns *kṛ* toward a field. *Pra-* turns it toward prior formation. *Vi-* turns it toward alteration. *Sam-* turns it toward integrated refinement.
-AISWEEP-END -->
 The point is the direction of the bond. Each *upasargaḥ* turns *kṛ* toward a different field — *pra-* toward prior formation, *vi-* toward alteration, *sam-* toward integrated refinement — without ever touching the atom at the center.
 
 The atom remains visible through the redirection. That is why the molecule can be interpreted. The head-bond changes the field while preserving the atom.
@@ -200,9 +158,6 @@ This is molecular construction, not a list of unrelated words later collected by
 
 The matrix also protects the argument from overstatement. Sanskrit's generativity is governed. Productive axes permit a large field of construction because the bonds are lawful; they do not make every possible-looking form equally real.
 
-<!-- AISWEEP-OLD
-The *racanā* × *gaṇa* matrix made the same point at the previous scale. Some cells were heavy. Some were light. Some were empty. The molecular matrix repeats the point: the cell records a procedure.
-AISWEEP-END -->
 The *racanā* × *gaṇa* matrix made the same point at the previous scale — some cells heavy, some light, some empty — and the molecular matrix repeats it: each filled cell records a procedure.
 
 ![Figure 12.6 — A conservative कृ (*kṛ*) bonding matrix: real cells are visible; unused cells remain blank.](figures/building_vakya/kr_bonding_matrix.svg){#fig:building-vakya-kr-bonding-matrix width=100%}
@@ -211,9 +166,6 @@ The *racanā* × *gaṇa* matrix made the same point at the previous scale — s
 
 A **शब्दः (*śabdaḥ*)** carries meaning. A **पदम् (*padam*)** is ready for use inside a sentence because its role has been set.
 
-<!-- AISWEEP-OLD
-This distinction matters. A molecule can name an object, action, quality, agent, or state. A sentence needs relations: who acts, what is known, by what instrument, in what place, toward what object. Sanskrit encodes those relations inside the *padam*.
-AISWEEP-END -->
 A molecule can denote an object, an action, a quality, an agent, or a state, but a sentence needs relations — who acts, what is known, by what instrument, in what place, toward what object — and Sanskrit encodes those relations inside the *padam*.
 
 The primary nominal role-ending is **विभक्तिः (*vibhaktiḥ*)**. A *vibhaktiḥ* saturates the molecule for use by setting role, number, and relation. The verbal side encodes role through its own **तिङ्-प्रत्ययाः (*tiṅ-pratyayāḥ*)**, which carry person, number, and verbal relation.
@@ -262,9 +214,6 @@ The English sense is: *What will one who does not know that do with the ṛc?*
 
 The line is short, and every layer remains visible. **करिष्यति (*kariṣyati*)** carries the future action and returns the reader to **कृ (*kṛ*)**, the flagship atom. **ऋचा (*ṛcā*)** carries the instrumental relation. **यः (*yaḥ*)** and **तत् (*tat*)** set up the relative field. **न (*na*)** negates the knowing. The relations inside the parts hold the sentence together.
 
-<!-- AISWEEP-OLD
-By the time the *vākya* is formed, the lower levels remain recoverable. The sonomers remain recoverable because sound-change operates by rule. The *dhātuḥ* remains recoverable because the molecule preserves its atomic identity through affixation. The *upasargaḥ* and *pratyayaḥ* remain recoverable because the bond leaves grammatical and semantic signatures. The *padam* remains recoverable because *vibhaktiḥ* and *tiṅ-pratyayaḥ* carry relation, number, person, and role.
-AISWEEP-END -->
 By the time the *vākya* is formed, every level beneath it is still recoverable, each for a concrete reason: the sonomers because sound-change runs by rule, the *dhātuḥ* because the molecule keeps its atomic identity through affixation, the *upasargaḥ* and *pratyayaḥ* because each bond leaves a grammatical and semantic signature, and the *padam* because *vibhaktiḥ* and *tiṅ-pratyayaḥ* carry relation, number, person, and role.
 
 The sentence is the larger assembly. The smaller engineering remains visible inside it.
@@ -275,9 +224,6 @@ That is the answer at assembly scale. The *dhātuḥ* displayed atomic recoverab
 
 ## 12.9 Boundary Crossing: अपभ्रंश (*Apabhraṃśa*) = Vivimorphosis
 
-<!-- AISWEEP-OLD
-The Sanskrit side of the story is now built. Sonomers enter atoms. Atoms enter molecules. Molecules become *padāni*. *Padāni* assemble into *vākyāni*. Inside Sanskrit, the levels remain recoverable because the calibrant architecture is still operating.
-AISWEEP-END -->
 The Sanskrit side of the story is now built — sonomers into atoms, atoms into molecules, molecules into *padāni*, *padāni* into *vākyāni* — and inside Sanskrit every level stays recoverable because the calibrant architecture is still operating.
 
 Now the molecule crosses the calibrant boundary.
@@ -313,9 +259,6 @@ What the philological dogma calls roots across its reconstructed daughter-langua
 
 The form that sprouts from the *bīja* — the expressed organic root — is what Patañjali calls **अपशब्द (*apaśabda*)** in the *Mahābhāṣya* (1.1.1): the slipped form, the canonical opposite of *śabda*. *Śabda* and *apaśabda* are different in kind, not just in form. One is an engineered molecule held by the calibrant architecture. The other is an organic root expressed from a *bīja*, with its own productive behavior in the contact language. The molecule is held by specification. The root takes nourishment from its new linguistic soil. The molecule is not left to drift through a separate organic history; the root has descendants, mutations, branches, and a line of evolution within the receiving language.
 
-<!-- AISWEEP-OLD
-A clarification matters here, because the category-theft charge has already rejected the word *root* for *dhātavaḥ*. The philological dogma has long called Sanskrit's *dhātavaḥ* "roots" — the central translation Chapter 2 dismantles, because *dhātavaḥ* are engineered constituents in Sanskrit's atomic architecture, not organic origins from which something grew. The botanical-root metaphor was the right word applied to the wrong target. The right target is the *apaśabda*. The *apaśabda* is an organic root — a form that grows, branches, mutates, and dies in the soil of a natural language. The pyramid took a correct linguistic term and aimed it at the wrong object. The right placement is simple: roots are what *apaśabdas* are, not what *dhātavaḥ* are.
-AISWEEP-END -->
 The category-theft charge has already rejected the word *root* for *dhātavaḥ*. The philological dogma has long called Sanskrit's *dhātavaḥ* "roots" — the central translation Chapter 2 dismantles, because *dhātavaḥ* are engineered constituents in Sanskrit's atomic architecture, not organic origins from which something grew. The botanical-root metaphor was the right word applied to the wrong target. The right target is the *apaśabda*. The *apaśabda* is an organic root — a form that grows, branches, mutates, and dies in the soil of a natural language. The pyramid took a correct linguistic term and aimed it at the wrong object. The right placement is simple: roots are what *apaśabdas* are, not what *dhātavaḥ* are.
 
 The transformation from *śabda* to *apaśabda* has two names. ***Apabhraṃśa*** is Sanskrit's name — the falling-away, the slip from the engineered form, the term Patañjali deploys for what the grammarian must defend against. **Vivimorphosis** is the English coining for the same event viewed from the inverse angle: the engineered molecule acquiring organic behavior. *Apabhraṃśa* foregrounds the loss. *Vivimorphosis* foregrounds the gain. They are the same arrow, seen from the calibrant's side and from the contact language's side.
@@ -332,26 +275,14 @@ Chapter 18 §18.6 develops the worked examples: *devaḥ* becoming Latin *deus*;
 
 ## 12.10 Close — Assembly Without Loss
 
-<!-- AISWEEP-OLD
-The *dhātuḥ* is now visible as an atomic construction. The atom has entered operation and become action. The next scale is now visible: the atom becomes *śabda*, the molecule becomes *padam*, and the *padam* enters the *vākya*.
-AISWEEP-END -->
 The *dhātuḥ* now stands as an atomic construction, and the atom that entered operation has become action. The next scale follows: the atom becomes *śabda*, the molecule becomes *padam*, and the *padam* enters the *vākya*.
 
-<!-- AISWEEP-OLD
-The governing principle is assembly without loss. The sentence is larger than the atom, but the atom remains recoverable inside it. The sonomers remain recoverable because Sanskrit's operations continue to work at the sonomeric level. The head-bond and tail-bond remain recoverable because they leave grammatical and semantic signatures. The role-ending remains recoverable because *vibhaktiḥ* and *tiṅ-pratyayaḥ* carry relation, number, person, and role.
-AISWEEP-END -->
 The governing principle is assembly without loss. The sentence is larger than the atom, yet the atom stays recoverable inside it — and so does every layer between: the sonomers because Sanskrit's operations still work at the sonomeric level, the head-bond and tail-bond because they leave grammatical and semantic signatures, the role-ending because *vibhaktiḥ* and *tiṅ-pratyayaḥ* carry relation, number, person, and role.
 
 That recoverability is what lets the sentence be interpreted, recited, corrected, and calibrated. Sanskrit generates larger forms while keeping the path back to their construction visible. The *vākya* is therefore not a loose string of words. It is an assembly whose lower layers remain available.
 
-<!-- AISWEEP-OLD
-The boundary clarifies the point. Inside Sanskrit, the calibrant architecture holds the molecule in specification. When the *śabda* crosses into a contact language, the process has two faces: *apabhraṃśa* from the Sanskrit side, vivimorphosis from the receiving side. The engineered molecule becomes a seed and then an organic root. Organic behavior begins, and with it come drift, mutation, and mortality.
-AISWEEP-END -->
 Across the boundary, the same architecture runs the other way. Inside Sanskrit, the calibrant architecture holds the molecule in specification; once the *śabda* crosses into a contact language, the process shows two faces — *apabhraṃśa* from the Sanskrit side, vivimorphosis from the receiving side — and the engineered molecule becomes a seed, then an organic root, where organic behavior begins and brings drift, mutation, and mortality.
 
-<!-- AISWEEP-OLD
-The scale-chain has therefore reached the operating language. Sonomers have become atoms. Atoms have become molecules. Molecules have become role-bearing *padāni*. *Padāni* have become *vākyāni*. The lower levels remain visible enough for the whole structure to be preserved.
-AISWEEP-END -->
 The scale-chain has therefore reached the operating language — sonomers have become atoms, atoms molecules, molecules role-bearing *padāni*, *padāni* *vākyāni* — and the lower levels stay visible enough for the whole structure to be preserved.
 
 Chapter 13 asks how such an operating language can survive across time. Chapter 14 introduces the answer: the calibration matrix.

@@ -8,18 +8,12 @@ A specification that drifts is no longer a specification. A calibrant calibrated
 
 Sanskrit's own vocabulary has a name for the danger: **अपभ्रंशः (*apabhraṃśa*)** — falling away, slippage, the unmaking of an engineered form into fallen-away variants. Chapter 6 §6.2 examined Patañjali's canonical case: **गौः (*gauḥ*)** (the engineered Sanskrit word for *cow*) against the four *apabhraṃśas* the **महाभाष्य (*Mahābhāṣya*)** documents — **गावी (*gāvī*)**, **गोणी (*goṇī*)**, **गोता (*gotā*)**, **गोपोतलिका (*gopotalikā*)**. The source is one. The fallings-away are many. *Apabhraṃśa* is the default trajectory of any linguistic form left to uncalibrated speech.
 
-Left alone, language falls away.
+Left alone, language drifts, or *falls away.*
 
-<!-- AISWEEP-OLD
-The preservation problem is therefore concrete. Sanskrit has to hold sound, meaning, grammar, meter, recitation, and usage against the ordinary pressure of human speech. The Vedas make the problem visible at full scale.
-AISWEEP-END -->
 What Sanskrit has to hold is concrete: sound, meaning, grammar, meter, recitation, and usage, all of it under the ordinary pressure of human speech. The Vedas make the problem visible at full scale. They hold cosmological inquiry, metaphysical vision, ethical order, mathematical proportion, astronomical observation, healing knowledge, and the rules of precise, performative action. Embedded within that breadth is the linguistic architecture this volume isolates: the sound-body, the metrical body, the grammatical body, and the recitational body.
 
 The Vedas function as sacred corpus and primary calibration matrix at once. If that matrix drifts, the calibrant drifts with it.
 
-<!-- AISWEEP-OLD
-The first question is categorical: what belongs to ordinary flow, and what must be held? Sanskrit has the distinction already: *prākṛta*, *saṃskṛta*, and *sanātan*.
-AISWEEP-END -->
 What belongs to ordinary flow, and what must be held? Sanskrit has the distinction ready-made: *prākṛta*, *saṃskṛta*, and *sanātan*.
 
 ## 13.2 *Prākṛta*, *Saṃskṛta*, *Sanātan*
@@ -36,9 +30,6 @@ The Sanskrit grammatical literature calls the two modes directly: **प्रा
 
 A local story may be *prākṛtika* by purpose. It should meet the listener where the listener lives. A Vedic phonetic form is *sāṃskṛtika* by purpose. It must be the same in this generation as in the next. Change in the first case may be renewal. Change in the second is degradation.
 
-<!-- AISWEEP-OLD
-The preservation question is therefore narrower than "How does a civilization preserve everything?" The sharper question is:
-AISWEEP-END -->
 The question is therefore not how a civilization preserves everything, but something narrower:
 
 > What technology preserves the *sāṃskṛtika* bucket without drift?
@@ -93,9 +84,6 @@ Every culture carries stories, songs, genealogies, rituals, epics, family memori
 
 What is uniquely Indic is not oral tradition. It is **aural engineering**.
 
-<!-- AISWEEP-OLD
-*Oral* is the mouth. *Aural* is the ear. The difference matters. Oral tradition preserves content approximately: the story remains, the wording shifts; the song remains, the regional form varies; the meaning survives, the surface changes. Aural engineering preserves phonetic form exactly: vowel length, accent, breath gesture, place of articulation, sequence, rhythm, and error-correction.
-AISWEEP-END -->
 *Oral* is the mouth. *Aural* is the ear. Oral tradition preserves content approximately: the story remains, the wording shifts; the song remains, the regional form varies; the meaning survives, the surface changes. Aural engineering preserves phonetic form exactly: vowel length, accent, breath gesture, place of articulation, sequence, rhythm, and error-correction.
 
 The mouth produces. The ear preserves. The engineering is in what the ear catches that the mouth cannot be trusted to remember alone.
@@ -118,9 +106,6 @@ Codification does not stop drift. It only creates an authority against which dri
 
 Greek was codified. Latin was codified. Arabic was codified. Hebrew was codified. Tibetan was codified. In each case, the codified standard survived as an authoritative form, but ordinary speech kept moving. Greek moved from Classical to Koine to Byzantine to Modern forms. Latin became the Romance languages. Arabic developed a wide diglossic field between Classical / MSA and the spoken regional varieties. Hebrew preserved scriptural and learned styles, then returned as Modern Hebrew with major phonological and syntactic change. Tibetan preserved a literary standard while spoken Tibetan varieties diverged.
 
-<!-- AISWEEP-OLD
-The pattern is consistent. Codification preserves a standard by authority. It does not preserve a language by architecture.
-AISWEEP-END -->
 Codification preserves a standard by authority, not a language by architecture.
 
 Chapter 5 supplied the grammatical principle: bond first, usage second, *śāstra* third. The calibration matrix is that principle scaled to civilization. The standard already stands; the system trains bodies, ears, memory, grammar, and community to hold usage against it.
@@ -129,9 +114,6 @@ Sanskrit has displayed **ध्रौव्यता (*dhrauvyatā*)** — const
 
 Codification also draws a line. The codified standard becomes correct; what falls outside it becomes wrong. Sanskrit did not operate this way. It was not an imperial language imposed from an apex. The living languages of the people were not declared deviant because they were not Sanskrit. They were allowed to flow as *prākṛtika* speech. The calibrant model draws no such line. The calibrant is held; ordinary speech is allowed to flow.
 
-<!-- AISWEEP-OLD
-Sanātan did not require every person to speak the calibrant language. **That is the critical distinction.** Society spoke its living languages, its prākṛtika forms, its regional speech-fields, its household speech, its songs, its market idioms.
-AISWEEP-END -->
 Sanātan did not require every person to speak the calibrant language. Society spoke its living languages, its prākṛtika forms, its regional speech-fields, its household speech, its songs, its market idioms. These were not treated as sinful deviations from an authorized tongue. They were allowed to flourish.
 
 Sanskrit stood elsewhere. Like ध्रुव (dhruva), the fixed star, it served as the calibrant language: the disciplined, preserved, architected standard against which knowledge, ritual, grammar, memory, and civilizational continuity could be held. Its preservation did not rest on a declared standard alone. The Vedic corpus, the Prātiśākhya discipline, Śikṣā, Chandas, the pāṭha systems, Vyākaraṇam, the Dhātupāṭha, and the *guru-shishya* lineage-chains formed a calibration architecture. The burden of that preservation fell on those who chose the path of rigor. The system did not merely announce correctness. It detected drift, corrected drift, and trained the human instrument that carried the form.
@@ -144,9 +126,6 @@ Minds learn language two ways. Some learn by **saturation**. They hear enough co
 
 Sanskrit has its own names for both paths. **श्रवण (*śravaṇa*)** — hearing-based reception — serves the saturation-trained mind. **व्याकरणम् (*vyākaraṇam*)** — analytical decomposition — serves the rule-trained mind. Most learners use both pathways and shift between them as mastery deepens. But the weighting differs across individuals, and the difference is real enough that the same language, taught the same way, can produce different kinds of mature speakers.
 
-<!-- AISWEEP-OLD
-This distinction matters because it clarifies Pāṇini's role. Whether a Pāṇini-style work existed when Sanskrit's architecture was first laid down is not known.
-AISWEEP-END -->
 The two learning-paths also sort out Pāṇini's role. Whether a Pāṇini-style work existed when Sanskrit's architecture was first laid down is not known. The *Aṣṭādhyāyī* itself cites pre-Pāṇinian grammarians — Śākalya, Gārgya, Āpiśali, Kāśyapa, Sphoṭāyana, and others — whose works did not survive transmission. There may have been earlier sūtra-level documentation that has been lost; there may not have been. No such claim is necessary.
 
 What survived on the rule-extraction side is one matter. What survived on the saturation side is observable. The Vedic corpus survived, together with its recitation lineages, and the Vedas function as a calibrant matrix: a preserved body of language that holds form against drift across thousands of years. Where a form is in doubt, the Veda settles it. Where pronunciation is in doubt, the *Prātiśākhya* settles it. Where transmission risks decay, the eleven *pāṭhas* of recitation restore it.

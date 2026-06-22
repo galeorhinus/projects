@@ -45,14 +45,8 @@ Single medium, single apex. Four modes, distributed civilization.
 
 Auditure is the deepest of the four modes because the Vedas demand exact phonetic preservation. A story can tolerate retelling. A gesture can tolerate regional style within a discipline. A document can tolerate copying and correction. The Vedic sound-sequence cannot tolerate drift. Its object is the heard form.
 
-<!-- AISWEEP-OLD
-The ear is the right instrument for that task. It detects temporal variation with a precision the eye does not match. The eye cannot distinguish consecutive frames at rates higher than approximately twenty-five per second — the basis on which modern video compression operates. The ear distinguishes features from approximately twenty cycles per second up to roughly twenty thousand. It hears pitch, rhythm, stress, resonance, interval, and rupture inside a stream of sound. That matters because Vedic recitation is not merely a word-sequence. It is a multi-channel phonetic object.
-AISWEEP-END -->
 The ear is the right instrument for that task. It detects temporal variation with a precision the eye does not match. The eye cannot distinguish consecutive frames at rates higher than approximately twenty-five per second — the basis on which modern video compression operates. The ear distinguishes features from approximately twenty cycles per second up to roughly twenty thousand. It hears pitch, rhythm, stress, resonance, interval, and rupture inside a stream of sound. Vedic recitation is not merely a word-sequence; it is a multi-channel phonetic object — which is exactly what the ear is built to track.
 
-<!-- AISWEEP-OLD
-The second engineering fact is even more important: hearing is easier to distribute than perfect reproduction.
-AISWEEP-END -->
 The second engineering fact is the one that scales: hearing is easier to distribute than perfect reproduction. A trained reciter requires years of discipline. A listening community can detect deviation long before every member can reproduce the full sequence. Anyone who has heard the correct form repeatedly can hear when a familiar pattern breaks. The practitioner carries the skill. The audience carries the check.
 
 This answers the old institutional question: who guards the guards? In a pyramid, the guards sit above the audience. The audience has no standing. In Auditure, the audience guards by listening. No institutional credential is required for the first layer of detection because the architecture distributes recognition before it distributes mastery.
@@ -81,9 +75,6 @@ Auditure preserves the Vedic corpus as sound. The full calibration matrix contai
 
 शिक्षा (*Śikṣā*) is not a seventh layer. It is the pedagogy that trains the practitioner across all six. It teaches articulation, tone, duration, accent, breath, and sequence. It makes the matrix transmissible.
 
-<!-- AISWEEP-OLD
-The result is not one preservation device but a multi-axis calibration system. The Vedas preserve the corpus. The *Prātiśākhya* preserves phonetic specification. *Vyākaraṇam* preserves generative rule. The *Dhātupāṭha* preserves the semantic-atomic inventory. The *Varṇamālā* preserves the sound grid. *Chandas* preserves metrical integrity. *Śikṣā* trains the human instrument that must carry all six.
-AISWEEP-END -->
 The result is not one preservation device but a multi-axis calibration system: the Vedas hold the corpus, the *Prātiśākhya* the phonetic specification, *Vyākaraṇam* the generative rule, the *Dhātupāṭha* the semantic-atomic inventory, the *Varṇamālā* the sound grid, and *Chandas* the metrical integrity — with *Śikṣā* training the human instrument that has to carry all six.
 
 The six layers operate at six different timescales of correction. Layer 1 corrects within a single performance — the audience hears, the practitioner adjusts. Layer 2 corrects within a single teaching career — the teacher trains the student against the *Prātiśākhya* specification. Layer 3 corrects across many teacher-generations — the *Vyākaraṇam* specification is consulted across the entire teacher-student lineage. Layers 4–5 correct across the architectural span — the *Dhātupāṭha* and *Varṇamālā* specifications operate as the deepest constituent-inventory anchors, consulted when any layer above them has recorded drift. Layer 6 corrects at the integrated-fingerprint level. The matrix is hierarchically nested and temporally graded.
@@ -133,9 +124,6 @@ That is why *Chandas* belongs inside the calibration matrix. Meter does more tha
 
 ## 14.5 The Whole Language Carries the Sūtra-Discipline
 
-<!-- AISWEEP-OLD
-The system-scale contrast is now in place. Natural languages standardize by usage: the ***प्रकृति (*prakṛti*)*** category. Codified languages standardize by codification: selected standards held by authority. Sanskrit standardizes by calibration: the ***संस्कृति (*saṃskṛti*)*** category, architecture correcting itself. That is the context for the test below.
-AISWEEP-END -->
 Natural languages standardize by usage: the ***प्रकृति (*prakṛti*)*** category. Codified languages standardize by codification: selected standards held by authority. Sanskrit standardizes by calibration: the ***संस्कृति (*saṃskṛti*)*** category, architecture correcting itself.
 
 Chapter 10 found the same discipline at atomic scale. At system scale, the answer is the language itself. These are relative characteristics. A *sūtra* is compact when measured against a longer exposition; unambiguous when measured against a statement that can be misread; essence-bearing when measured against speech that carries less recoverable meaning. At the system scale, the comparison is between Sanskrit as a calibrated language and ordinary uncalibrated speech carried by habit, local drift, historical residue, and external standardization. Against that comparator, Sanskrit displays the same six characteristics the *sūtra-lakṣaṇam* specifies at the rule scale and Chapter 10 found at the atomic scale.[NOTE: whole-language-sutra-discipline-comparator]
@@ -177,9 +165,6 @@ This is *heroic erasure* at the preservation-system level — the same move Chap
 
 There is a further distinction. The Masoretic apparatus preserves a fixed text. Quranic preservation preserves a fixed text. The Vulgate tradition preserves a fixed text. Sanskrit preserves the Vedic corpus and the generative engine that operates beyond the corpus — the *dhātavaḥ* / *gaṇāḥ* / *upasargāḥ* / *pratyayāḥ* architecture Chapters 10–12 documented. The calibration matrix protects the text and the architecture that can continue producing valid Sanskrit forms. Other traditions preserve content. Sanskrit preserves content and the machine.
 
-<!-- AISWEEP-OLD
-That is why the word "matrix" matters. A line of transmission can preserve a text. A matrix preserves a system. The Vedas remain the primary calibrant;
-AISWEEP-END -->
 The word "matrix" earns its place. A line of transmission can preserve a text; a matrix preserves a system. The Vedas remain the primary calibrant; *vyākaraṇam*, *dhātavaḥ*, *gaṇāḥ*, *upasargāḥ*, *pratyayāḥ*, *varṇāḥ*, and *chandas* remain the operating architecture. The corpus is fixed. The engine remains alive.
 
 The three benchmark traditions are not Sanskrit's independent peers. They are Sanskrit's ***प्रतिबिम्ब (Pratibimba)*** in the preservation domain, refracted through the calibrant-contact transmission Chapter 19 §19.2 develops as Wave 2 propagation. The parallel begins here; Chapter 19 establishes the propagation.
@@ -204,9 +189,6 @@ The calibration matrix is the engineered architecture. The Vedas are the encodin
 
 Chapter 13 §13.5 gives the teaching-level form of the same claim: the Veda preserves the form as performed; the *Aṣṭādhyāyī* preserves the form as derivable. Pāṇini added redundancy, not origin.
 
-<!-- AISWEEP-OLD
-Heroic erasure works by treating the second redundancy layer as the first. Praise Pāṇini as so-called codifier; erase the Vedic calibrant that was already correcting the language before his rules named the procedure. The named document survives in the foreground. The older operating matrix is pushed behind it. This is memory redirected, not memory preserved.
-AISWEEP-END -->
 Heroic erasure works by treating the second redundancy layer as the first. Praise Pāṇini as so-called codifier; erase the Vedic calibrant that was already correcting the language before his rules formalized the procedure. The named document survives in the foreground. The older operating matrix is pushed behind it. This is memory redirected, not memory preserved.
 
 Chapter 15 develops the matrix in operation: the eleven *pāṭhas*, the aural architecture, the combinatorial recitation forms, the working machinery by which the Vedic sound-body has been held without observable drift across thousands of years.
