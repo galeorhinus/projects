@@ -61,7 +61,7 @@ The *varṇamālā* (वर्णमाला) is the sonomeric inventory. A sma
 
 In Chapter 2, the category-theft charge prosecuted the botanical metaphor and reclaimed *dhātuḥ* from the philological mistranslation that calls it a "root." The positive replacement is direct. Sanskrit does not have botanical roots. It has atoms — and the atom is the *dhātuḥ*.
 
-The metaphor is physical, not biological. Across Indic sciences, *dhātuḥ* names the constituent that holds: in *Loha-śāstra* (लोहशास्त्र), the metal that survives extraction; in *Rasaśāstra* (रसशास्त्र) and *Rasāyana-śāstra* (रसायनशास्त्र), the reactive constituent in synthesis; in *Āyurveda* (आयुर्वेद), the structural tissue from which the body is built.[NOTE: rasashastra-chemistry-anticipation][NOTE: saptadhatu-canonical] Furnace, laboratory, body, sentence: the same architectural word. The grammatical *dhātuḥ* belongs in that family. *Dhātuḥ* survived the demotion to "root"; the discipline that accepted the demotion lost access to what the term was naming.
+The metaphor is physical, not biological. Across Indic sciences, *dhātuḥ* denotes the constituent that holds: in *Loha-śāstra* (लोहशास्त्र), the metal that survives extraction; in *Rasaśāstra* (रसशास्त्र) and *Rasāyana-śāstra* (रसायनशास्त्र), the reactive constituent in synthesis; in *Āyurveda* (आयुर्वेद), the structural tissue from which the body is built.[NOTE: rasashastra-chemistry-anticipation][NOTE: saptadhatu-canonical] Furnace, laboratory, body, sentence: the same architectural word. The grammatical *dhātuḥ* belongs in that family. *Dhātuḥ* survived the demotion to "root"; the discipline that accepted the demotion lost access to what the term denoted.
 
 The *Dhātupāṭha* (धातुपाठ) is the inventory of semantic atoms. The working inventory here is **2,168 *dhātavaḥ*** from that source.[NOTE: dhatupatha-count-and-ganas] The examples can now be plain: **कृ (*kṛ*)**, to do or make; **गम् (*gam*)**, to go; **भू (*bhū*)**, to be or become; **दृश् (*dṛś*)**, to see; **ज्ञा (*jñā*)**, to know. These are not words. They are the atoms from which words are assembled.
 
@@ -101,7 +101,7 @@ A consonant cannot stand alone as a stable spoken unit. The script tells the tru
 
 That is electron behavior. Electrons do not carry the atom's identity the way the nucleus does, but they make bonding possible. They are mobile, peripheral, and chemically decisive.
 
-The Sanskrit system then names the stable result **अक्षरम् (*akṣaram*)** — the imperishable. A *svaraḥ* can stand alone, or one or more *vyañjanāni* can bond around it into a stable sound-unit, and the script captures that unit as an audiograph. The *akṣaram* is the stable sound-bond made visible.
+The Sanskrit system then calls the stable result **अक्षरम् (*akṣaram*)** — the imperishable. A *svaraḥ* can stand alone, or one or more *vyañjanāni* can bond around it into a stable sound-unit, and the script captures that unit as an audiograph. The *akṣaram* is the stable sound-bond made visible.
 
 The sequence is exact:
 
@@ -268,7 +268,7 @@ The mechanism is assignment, not intrinsic magic. The architecture first creates
 
 This strengthens *varṇa-vāda* (वर्णवाद) rather than weakening it. The debate only makes sense inside an engineered language. A drifting natural language cannot sustain stable *varṇa-śakti* claims across its living record; its sounds shift, merge, and lose structural force. Sanskrit's sonomers remain discrete, stable, composable, and analyzable. That is why the debate could exist at all.[NOTE: varnavada-presupposes-engineering]
 
-The Vedic context grounds why this matters. The *Vedas* are poems. Sound-meaning alignment is part of the verse's effect, its mantric power, its sanctity. *Mantra* (मन्त्र) itself — from the *dhātuḥ* *man* (मन्, to think) — names the acoustic instrument that aligns sound with contemplation. Poetry is built form-first: meter, alliteration, and sonic flow drive the assembly; meaning enters that architecture as the poet works.
+The Vedic context grounds why this matters. The *Vedas* are poems. Sound-meaning alignment is part of the verse's effect, its mantric power, its sanctity. *Mantra* (मन्त्र) itself — from the *dhātuḥ* *man* (मन्, to think) — is the acoustic instrument that aligns sound with contemplation. Poetry is built form-first: meter, alliteration, and sonic flow drive the assembly; meaning enters that architecture as the poet works.
 
 Engineering is not the enemy of poetry. Engineering is what lets the poetry land. The *dhātuḥ* passes the fourth test. It is *sāravat*: compact form with semantic force.
 
@@ -398,13 +398,13 @@ Each clause carries the argument.
 
 ***Physical constant of the system, not a mutating organic root.*** The *vyākaraṇa* discipline's term *dhātu* (धातु) — the same term operating in metallurgy, in *Rasaśāstra*, in *Āyurveda* — places the unit in the engineering category by terminological choice. The mistranslation as "root" imposes botanical decay-and-growth onto a unit the Sanskrit lineage placed in the engineering category. That is the dogma's category theft.
 
-The naming convergence at two adjacent levels is itself the signal. The Sanskrit continuum names the form-level unit ***akṣara*** (अक्षर) — the imperishable, that which does not flow away, the visible capture of a stable sound-bond, the audiograph of Appendix Part 3 — and the semantic-level unit ***dhātuḥ*** (धातुः) — the constituent constant that holds through bonding. Both names assert the same architectural property: persistence of identity through transformation. The convergence is not coincidence; it is the architecture naming what is engineered.
+The convergence of names at two adjacent levels is itself the signal. The Sanskrit continuum calls the form-level unit ***akṣara*** (अक्षर) — the imperishable, that which does not flow away, the visible capture of a stable sound-bond, the audiograph of Appendix Part 3 — and the semantic-level unit ***dhātuḥ*** (धातुः) — the constituent constant that holds through bonding. Both names assert the same architectural property: persistence of identity through transformation. The convergence is not coincidence; it is the architecture labeling what is engineered.
 
 The corollary's consequences run forward. The next levels are *kriyā*, bonding chemistry, *śabdāḥ*, *vākyāni*, and the preservation problem the architecture must solve once the system is in use.
 
 The corollary's consequences run backward as well. The diagnoses of the philological dogma — Chapter 2 on the botanical fallacy, Chapter 17 on the wrong question, and Chapter 18 on PIE in the sky — are now anchored by the Atomic Corollary's positive content. The point is not only that the pyramid's account is wrong. The account is wrong because the architecture is atomic, and atomic architectures do not behave the way the dogma's botanical model assumes.
 
-The *dhātuḥ* is the unit of stable identity. The Sanskrit continuum named it that. The name must be restored.
+The *dhātuḥ* is the unit of stable identity. The Sanskrit continuum called it that. The name must be restored.
 
 Sanskrit is not a plant. It is an atomic system.
 
@@ -428,7 +428,7 @@ First came **ॐ (*oṃ*)** as the shortest audible compression of Sanskrit's so
 
 The śāstra does not treat Oṃ as a casual sacred sound. The Chāndogya calls it the essence of essences. The Māṇḍūkya gives the fractal formula: **ॐ इत्येतदक्षरमिदं सर्वम् (*oṃ ity etad akṣaram idaṃ sarvam*)** — this *akṣara* Oṃ is all this — and extends the claim across what was, what is, what will be, and what stands beyond the three times. It then unfolds the single syllable as **अ-उ-म् (*a-u-m*)** and the unmeasured fourth. The Taittirīya says, "Oṃ is Brahman; Oṃ is all this." The Kaṭha condenses what all the Vedas declare into one answer: Oṃ. In this vocabulary, Oṃ is the acoustic seed of *Sanātan*: the time-transcending claim made audible in one *akṣara*.[NOTE: om-vocal-tract-macro-gesture]
 
-Oṃ therefore passes the same test at the point of maximum compression. It is **अल्पाक्षरम् (*alpākṣaram*)** because it is one *akṣara*. It is **अस्तोभम् (*astobham*)** because nothing in it is padding. It is **असंदिग्धम् (*asaṃdigdham*)** because the lineage names it precisely as *praṇava*. It is **सारवत् (*sāravat*)** because the śāstra treats it as essence-bearing. It is **विश्वतोमुखम् (*viśvatomukham*)** because the Upaniṣads make it face the whole field of time, world, recitation, and realization. It is **अनवद्यम् (*anavadyam*)** because it remains stable across recitation, ritual, yoga, and Vedānta. Oṃ is not the *varṇamālā*. It is the single-syllable compression of the instrument and the shortest audible sign of the Sanātan claim.
+Oṃ therefore passes the same test at the point of maximum compression. It is **अल्पाक्षरम् (*alpākṣaram*)** because it is one *akṣara*. It is **अस्तोभम् (*astobham*)** because nothing in it is padding. It is **असंदिग्धम् (*asaṃdigdham*)** because the lineage calls it precisely *praṇava*. It is **सारवत् (*sāravat*)** because the śāstra treats it as essence-bearing. It is **विश्वतोमुखम् (*viśvatomukham*)** because the Upaniṣads make it face the whole field of time, world, recitation, and realization. It is **अनवद्यम् (*anavadyam*)** because it remains stable across recitation, ritual, yoga, and Vedānta. Oṃ is not the *varṇamālā*. It is the single-syllable compression of the instrument and the shortest audible sign of the Sanātan claim.
 
 The *varṇamālā* already displayed the same six characteristics at the sound-inventory level: compact inventory, no wasted slot, unambiguous placement, essence-bearing classes, many-facing use, and stability across operations. Seen anatomically, the *varṇamālā* is the mouth-map. Seen operationally, the **माहेश्वरसूत्राणि (*Māheśvara-sūtrāṇi*)** cast that same inventory into sūtra-form for grammar.
 

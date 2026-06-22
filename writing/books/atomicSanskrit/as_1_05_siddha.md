@@ -20,7 +20,7 @@ Part I established the perimeter. Part II turns to Sanskrit's own grammatical se
 
 Sanskrit grammar did not begin with Pāṇini.
 
-The discipline is **व्याकरणम् (*vyākaraṇam*)**: ***वि (vi-,*** apart) + ***आ (ā-,*** fully) + ***कृ (kṛ,*** to do, to make) — taking apart, unfolding, analyzing an already present system.[NOTE: vyakarana-etymology] The activity the word names is de-composition, not composition. The grammarian is the **वैयाकरणः (*vaiyākaraṇaḥ*)**, the one who performs that unfolding.[NOTE: vaiyakarana-role-title] The role-title names a decoder, not a codifier.
+The discipline is **व्याकरणम् (*vyākaraṇam*)**: ***वि (vi-,*** apart) + ***आ (ā-,*** fully) + ***कृ (kṛ,*** to do, to make) — taking apart, unfolding, analyzing an already present system.[NOTE: vyakarana-etymology] The activity the word denotes is de-composition, not composition. The grammarian is the **वैयाकरणः (*vaiyākaraṇaḥ*)**, the one who performs that unfolding.[NOTE: vaiyakarana-role-title] The role-title designates a decoder, not a codifier.
 
 The *vyākaraṇa* discipline extends across a long analytical lineage, with named practitioners before and after the central reference point of Pāṇini's **अष्टाध्यायी (*Aṣṭādhyāyī*)**. Pāṇini himself cites earlier grammarians. **Śākalya** (शाकल्य) had already decomposed the Rigvedic *saṃhitā* into constituent *padas* through the **पदपाठ (*padapāṭha*)**, a work of grammatical analysis before the *Aṣṭādhyāyī* formalized the architecture.[NOTE: shakalya-padapatha] **Āpiśali** (आपिशलि), **Kāśyapa** (काश्यप), **Gārgya** (गार्ग्य), **Gālava** (गालव), **Cākravarmaṇa** (चाक्रवर्मण), **Bhāradvāja** (भारद्वाज), **Saunaga** (सौनाग), **Senaka** (सेनक), and **Sphoṭāyana** (स्फोटायन) are not decorative names. They are the documentary trace of a discipline already operating.[NOTE: panini-cites-pre-paninian-grammarians]
 
@@ -72,7 +72,7 @@ The epigraph preserves the opening clause: **सिद्धे शब्दा�
 
 The full sentence then moves in exact order. First comes the established bond. Then comes **लोकतोऽर्थप्रयुक्ते शब्दप्रयोगे (*lokato 'rthaprayukte śabdaprayoge*)** — word-usage in the world, prompted by meaning. Only after those two premises comes **शास्त्रेण धर्मनियमः (*śāstreṇa dharmaniyamaḥ*)** — regulation by *śāstra* of correct usage. Patañjali gives the order: bond first, usage second, *śāstra* third. *Śāstra* regulates usage. It does not manufacture the bond.
 
-The Vedic anchor sits one layer beneath this grammar. Bṛhaspati's **वाचमक्रत (*vācam akrata*)** names Speech as formed by the wise with the mind. Patañjali's *siddha* gives the grammatical consequence: the formed architecture already stands before an individual speaker uses it. Grammar enters after that standing has been recognized.
+The Vedic anchor sits one layer beneath this grammar. Bṛhaspati's **वाचमक्रत (*vācam akrata*)** describes Speech as formed by the wise with the mind. Patañjali's *siddha* gives the grammatical consequence: the formed architecture already stands before an individual speaker uses it. Grammar enters after that standing has been recognized.
 
 > **Authority vs architecture.** In a codified language, correctness comes from an authority that declares a standard. In Sanskrit, correctness comes from an architecture that already holds. The *śāstra* does not manufacture the standard; it regulates usage against the standard.
 >

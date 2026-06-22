@@ -45,7 +45,7 @@ The word garland is important because it preserves Sanskrit's own way of seeing 
 >
 > Pāṇini **did not** create these *varṇāḥ*. His Māheśvara-sūtras rearranged an already operating inventory into a compact grammatical index. The sonomeric architecture existed before Pāṇini's Māheśvara-sūtras.[NOTE: pre-panini-pratisakhya-classification]
 
-The modern figures also use grids and hexagons. That is a translation for readers trained by engineering drawings, chemistry diagrams, and coordinate systems. A wiser age would hear *varṇamālā* and understand that the "beads" are selected sounds. The architecture has been hidden for too long; a second visual language becomes necessary: grids for coordinates, hexagons for stable units, and matrices for repeated structure.
+The figures in this book use grids and hexagons. That is a translation for readers trained by engineering drawings, chemistry diagrams, and coordinate systems. A wiser age would hear *varṇamālā* and understand that the "beads" are selected sounds. Because, the architecture has been hidden for too long, a second visual language becomes necessary: grids for coordinates, hexagons for stable units, and matrices for repeated structure.
 
 The two views are the same object. In Sanskrit's own language, the sound-inventory is a garland. In engineering language, it is a grid or matrix.
 
@@ -114,7 +114,7 @@ Students often learn this as a school table. Structurally, it functions as a con
 
 ![Figure 9.4 — Control-panel view of the *sparśa* matrix: five mouth-stations crossed with breath, vocal-cord vibration, and nasal release.](figures/mapping_mouth/control_panel.svg){#fig:ch9-control-panel width=100%}
 
-The columns name where contact happens. The rows name how the contact is operated. The first and second rows are voiceless: the vocal cords remain still during the stop. The third and fourth rows are voiced: the vocal cords vibrate. The light-breath rows release less breath. The heavy-breath rows release more. The fifth row opens the nasal passage.
+The columns show where contact happens. The rows show how the contact is operated. The first and second rows are voiceless: the vocal cords remain still during the stop. The third and fourth rows are voiced: the vocal cords vibrate. The light-breath rows release less breath. The heavy-breath rows release more. The fifth row opens the nasal passage.
 
 That is a four-control design:
 
@@ -160,7 +160,7 @@ The boundary sounds show the same discipline as the matrix. Sanskrit labels them
 
 The selected sonomer becomes stable when it is held as an **अक्षरम् (*akṣaram*)**.
 
-The word *akṣara* carries a large claim. It means the imperishable, the non-decaying. In the language system, it names the stable sound-unit that can be recited, written, counted, and recombined.[NOTE: aksara-imperishable-name]
+The word *akṣara* carries a large claim. It means the imperishable, the non-decaying. In the language system, it is the stable sound-unit that can be recited, written, counted, and recombined.[NOTE: aksara-imperishable-name]
 
 This is where the distinction between **sonomer** and **audiograph** matters. The sonomer is the measured sound-particle. The audiograph is the visible capture of that sound-particle in script. Sanskrit is sonomeric before it is audiographic. The language is built from measured sound-particles before any script makes those particles visible.
 

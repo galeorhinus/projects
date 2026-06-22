@@ -163,7 +163,7 @@ The five Vedic examples can now be read in Pāṇini's notation layer.
 
 The figures use the same hexagonal vocabulary as §11.2, but the top row now shows Pāṇini's notation layer. शप् (*śap*) and तिप् (*tip*) appear as technical source forms. The dashed cells are अनुबन्धाः (*anubandhāḥ*) — metadata tags that disappear. The surviving sonomers enter the *dhātuḥ* atom. The action has not changed. The labels have changed. What was implicit in the Vedic examples is now named in Pāṇini's notation: *gaṇaḥ*, *vikaraṇam*, *aṅgam*, *tiṅ-pratyayaḥ*, *anubandhaḥ*.
 
-That distinction matters. The operation existed before the notation. Pāṇini gave the process handles. He did not make Sanskrit molecular by naming the bonds.
+That distinction matters. The operation existed before the notation. Pāṇini gave the process handles. He did not make Sanskrit molecular by labeling the bonds.
 
 The operations differ, but the principle does not. A *dhātuḥ* enters an operational class. The class sets how the atom may be activated. The ending completes the *kriyāpada* molecule.
 

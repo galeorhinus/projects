@@ -6,13 +6,13 @@
 
 ## 6.1 One Word, Many Sciences
 
-The Sanskrit word **धातुः (*dhātuḥ*)** does one job across many sciences. It names the constituent that holds.
+The Sanskrit word **धातुः (*dhātuḥ*)** does one job across many sciences. It denotes the constituent that holds.
 
-In **लोहशास्त्रम् (*Loha-shastra*)**, metallurgy, it names the mineral or metal that survives extraction with identity intact. In **रसशास्त्रम् (*Rasaśāstra*)** and **रसायनशास्त्रम् (*Rasāyana-shastra*)**, the chemical sciences, it names the reactive constituent that enters synthesis without becoming the product of that synthesis. In **आयुर्वेदः (*Āyurveda*)** and **शरीरविज्ञानम् (*Śarīra-vijñāna*)**, medicine and physiology, it names the structural tissues from which the body is built. In **व्याकरणम् (*vyākaraṇam*)**, grammar, it names the foundational semantic constituent from which Sanskrit words are assembled.
+In **लोहशास्त्रम् (*Loha-shastra*)**, metallurgy, it is the mineral or metal that survives extraction with identity intact. In **रसशास्त्रम् (*Rasaśāstra*)** and **रसायनशास्त्रम् (*Rasāyana-shastra*)**, the chemical sciences, it is the reactive constituent that enters synthesis without becoming the product of that synthesis. In **आयुर्वेदः (*Āyurveda*)** and **शरीरविज्ञानम् (*Śarīra-vijñāna*)**, medicine and physiology, it is the structural tissues from which the body is built. In **व्याकरणम् (*vyākaraṇam*)**, grammar, it is the foundational semantic constituent from which Sanskrit words are assembled.
 
 Furnace, laboratory, body, sentence. The term means the same thing.
 
-**[FIGURE 6.1: *Dhātuḥ Across Indic Sciences.* — table with domains: metallurgy, chemical sciences, biological sciences, grammar. Columns: Indic science, *dhātuḥ* example, function. The visual argument: one technical word naming the same architectural function across domains.]**
+**[FIGURE 6.1: *Dhātuḥ Across Indic Sciences.* — table with domains: metallurgy, chemical sciences, biological sciences, grammar. Columns: Indic science, *dhātuḥ* example, function. The visual argument: one technical word for the same architectural function across domains.]**
 
 Chapter 1 exposed the category theft. The European philological machinery took the grammatical sense, severed it from the others, and rendered it *root*. The translation demoted a cross-disciplinary architectural constituent into a botanical organ. Neutrality was never the point. *Dhātuḥ* survived the demotion — it has continued to do its work across the Indic sciences for thousands of years — but the discipline that processed Sanskrit through the demotion lost access to what the term was naming. The rest of this chapter restores the term to its own category.
 
@@ -26,7 +26,7 @@ In *Āyurveda* and *Śarīra-vijñāna*, the body is built from *dhātavaḥ*. T
 
 **[FIGURE 6.2: *The Saptadhātu Cascade.* — vertical cascade: रसः -> रक्तम् -> मांसम् -> मेदस् -> अस्थि -> मज्जा -> शुक्रम्. Each layer shown as constitutive, not symptomatic.]**
 
-Metallurgy, chemistry, biology. One term. One semantic field. The *dhātuḥ* is that which holds, constitutes, and remains while larger structures form around it. It is a cross-disciplinary technical primitive — the same word naming the same architectural function wherever Indic science assembles a system from constituents. It is the term doing what it was made to do.
+Metallurgy, chemistry, biology. One term. One semantic field. The *dhātuḥ* is that which holds, constitutes, and remains while larger structures form around it. It is a cross-disciplinary technical primitive — the same word carrying the same architectural function wherever Indic science assembles a system from constituents. It is the term doing what it was made to do.
 
 ## 6.3 The Grammatical *Dhātuḥ*
 
@@ -40,7 +40,7 @@ Pāṇini's **धातुपाठः (*Dhātupāṭha*)** enumerates roughly t
 
 The grammatical sense is not an analogy borrowed from metallurgy, chemistry, or biology. It is the same architectural concept operating in another domain. The metallurgical *dhātuḥ* is what alloys are built from. The chemical *dhātuḥ* is what compounds are synthesized from. The biological *dhātuḥ* is what bodies are built from. The grammatical *dhātuḥ* is what words are assembled from.
 
-In every domain, the term names the stable constituent that holds identity through bonding — the constant in a system that scales upward through reaction.
+In every domain, the term denotes the stable constituent that holds identity through bonding — the constant in a system that scales upward through reaction.
 
 That is what *root* erased.
 
@@ -58,7 +58,7 @@ The book follows.
 
 ## 6.5 The Replacement Metaphor
 
-With *dhātuḥ* recovered, the botanical framework cannot stand. *Root* suggests growth, mutation, and rot. *Dhātuḥ* names a stable constituent that holds identity through reaction. The forest has to be replaced by a framework of assembly.
+With *dhātuḥ* recovered, the botanical framework cannot stand. *Root* suggests growth, mutation, and rot. *Dhātuḥ* denotes a stable constituent that holds identity through reaction. The forest has to be replaced by a framework of assembly.
 
 If we are to discard the forest as the primary metaphor for this language, we are forced to ask: what is the correct scientific corollary?
 
@@ -91,7 +91,7 @@ It has atoms. It has *dhātavaḥ*.
 **Codex compressions retained:**
 
 - 5-section structure with sharper titles (§6.2 *"The External Sciences"*; §6.5 *"The Replacement Metaphor"*).
-- §6.1 opener tightened to *"The Sanskrit word dhātuḥ does one job across many sciences. It names the constituent that holds."*
+- §6.1 opener tightened to *"The Sanskrit word dhātuḥ does one job across many sciences. It denotes the constituent that holds."*
 - All five Indic sciences with Devanagari + IAST + gloss preserved (*Loha-shastra*, *Rasaśāstra*, *Rasāyana-shastra*, *Āyurveda*, *Śarīra-vijñāna*, *vyākaraṇam*).
 - The full *saptadhātu* with all seven Devanagari + glosses (*rasaḥ*, *raktam*, *māṃsam*, *medas*, *asthi*, *majjā*, *śukram*) intact.
 - The metallurgical inventory (gold, silver, copper, iron, mercury, tin, lead, zinc) intact.
@@ -108,5 +108,5 @@ It has atoms. It has *dhātavaḥ*.
 - Backward to **Ch 1**: the category-theft argument (the botanical-metaphor demotion of *dhātuḥ* to *root*); §6.1 ¶5 references it.
 - Backward to **Ch 2**: the etiological work that explains the demotion (implicit; previous chapter explicitly cited *"reasons Chapter 2 has already named"* — light reference dropped in compression).
 - Backward to **Ch 4**: the *vaiyākaraṇaḥ* role-title and the standing polemic phrase; §6.3 ¶3 references it.
-- Forward to **Ch 10**: the *varṇa*-to-*dhātu* synthesis level and the formal introduction of the *Atomic Corollary* (Ch 6 closes on the recovered *dhātuḥ* but does not name the framework).
+- Forward to **Ch 10**: the *varṇa*-to-*dhātu* synthesis level and the formal introduction of the *Atomic Corollary* (Ch 6 closes on the recovered *dhātuḥ* but does not develop the framework).
 - Forward to **Ch 11**: the *dhātuḥ*-to-*kriyā* molecule-building procedure.

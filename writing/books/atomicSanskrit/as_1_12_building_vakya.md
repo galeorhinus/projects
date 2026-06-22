@@ -80,7 +80,7 @@ The head-bonds alone show the range. **प्र (*pra-*)** directs *kṛ* towar
 
 The tail-bonds show the same principle from the other side. Bare *kṛ* can become **कर्म (*karma*)**, the deed; **कर्तृ (*kartṛ*)**, the doer; and **कार्य (*kārya*)**, what is to be done. The atom remains visible. The bond determines what the molecule can do.
 
-This is the reason *kṛ* carries the demonstration. It connects the technical proof to the highest categories in the argument: *prakṛti*, *vikṛti*, and *saṃskṛti*. The words that name the creation triad are themselves products of the bonding procedure being demonstrated.
+This is the reason *kṛ* carries the demonstration. It connects the technical proof to the highest categories in the argument: *prakṛti*, *vikṛti*, and *saṃskṛti*. The words for the creation triad are themselves products of the bonding procedure being demonstrated.
 
 The contrast matters too. Not every atom behaves like *kṛ*. **ह्लाद् (*hlād*)** is a higher-*mātrā*, lower-reactivity atom in the joined analysis.[NOTE: hlad-contrast-atom] It can still bond and generate, but it does not open the same wide molecular field. That difference is useful. Sanskrit's bonding procedure handles both classes: the highly reactive atoms that build large conceptual territories, and the specialized atoms that carry narrower semantic work.
 

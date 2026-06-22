@@ -22,7 +22,7 @@ The glossary is organized in three groups:
 
 ## 1. Engineering core vocabulary
 
-> **How to read the pairs below.** Each entry binds a Sanskrit term to its English equivalent. The Sanskrit is primary in lineage, recitation, and grammar; the English carries the engineering and chemistry idiom. Neither is decoration. They name one object from two directions — *dhātuḥ* and *atom* are not a word and its translation, but one constituent seen from the lineage-chain's side and from the engineer's.
+> **How to read the pairs below.** Each entry binds a Sanskrit term to its English equivalent. The Sanskrit is primary in lineage, recitation, and grammar; the English carries the engineering and chemistry idiom. Neither is decoration. They denote one object from two directions — *dhātuḥ* and *atom* are not a word and its translation, but one constituent seen from the lineage-chain's side and from the engineer's.
 
 ### **varṇa** (वर्ण) / **varṇāḥ** (वर्णाः)
 
@@ -156,7 +156,7 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 **Standard.** The unbroken lineage-chain and transmission-chain through which knowledge is carried across generations. *Guru-shishya paramparā* — the teacher-student transmission chain. At system scale, *paramparā* is distributed transmission architecture: vertical lineage-chains preserving custody across generations, and horizontal transmission-networks moving knowledge across villages, towns, assemblies, and regions.
 
-**English pair**: *lineage* / *chain*; at architectural scale, *transmission architecture* / *transmission network*. In this book, *paramparā* does not mean "tradition" as inherited custom. It names the Indic continuity mechanism itself.
+**English pair**: *lineage* / *chain*; at architectural scale, *transmission architecture* / *transmission network*. In this book, *paramparā* does not mean "tradition" as inherited custom. It denotes the Indic continuity mechanism itself.
 
 ### **śruti** (श्रुति) / **smṛti** (स्मृति)
 

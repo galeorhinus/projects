@@ -38,7 +38,7 @@ Patañjali states the asymmetry in the *Paspaśāhnika*:
 >
 > *Many are the corruptions; few are the words.*[NOTE: paspashahnika-apabhramsa-passage]
 
-The epigraph renders the same asymmetry through *apabhraṃśa*, the term of art here. Patañjali's printed maxim uses **अपशब्दाः (*apaśabdāḥ*)** — faulty words, non-words — and the same passage then names the **अपभ्रंशाः (*apabhraṃśāḥ*)** of **गौः (*gauḥ*)**. The two terms carry the same structural judgment from different angles: *apaśabda* names the wrong word; *apabhraṃśa* names the falling-away.
+The epigraph renders the same asymmetry through *apabhraṃśa*, the term of art here. Patañjali's printed maxim uses **अपशब्दाः (*apaśabdāḥ*)** — faulty words, non-words — and the same passage then lists the **अपभ्रंशाः (*apabhraṃśāḥ*)** of **गौः (*gauḥ*)**. The two terms carry the same structural judgment from different angles: *apaśabda* points to the wrong word; *apabhraṃśa* points to the falling-away.
 
 This is not rhetoric. It is an empirical observation. The set of correct words is small. The set of corruptions generated from those words is large. The relation is asymmetric. The engineered set is the minority. The fallings-away multiply.
 

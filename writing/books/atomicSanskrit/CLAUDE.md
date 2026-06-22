@@ -391,14 +391,16 @@ Both fail the Prime Directive at the same grammatical seam: the subject of the p
 
 **Diagnostic.** If the draft uses *this book*, *we*, *the book has been*, *recovering*, *walking*, *reading*, or other first-person-plural / book-as-agent constructions, the prose is in recoverist voice and needs conversion. The only exceptions are the *book's own self-description* in the Preface and end-matter (e.g., naming the book itself as the venue), and the verbs *introduces* / *develops* / *establishes* when used to point the reader at where the book treats a specific concept (e.g., "Chapter 1 §1.6 introduces heroic erasure").
 
-**The verb *names* in the meta-pointer pattern is banned.** Constructions like *Chapter N names X*, *this section names X*, *this book names X* — even when grammatically clean and individually defensible — accumulate into rhythm-thinning monotony. A 2026-06-09 audit found 365 *names / named / naming* occurrences across the body, ~228 of them in this meta-pointer pattern. Replace with the verb stack — pick by function:
+**The verb *names* is banned in two patterns: the meta-pointer and the term-gloss.** (1) *Meta-pointer* — *Chapter N names X*, *the chapter / §N.M / the verse names X*, *this book names X* — pointing the reader at where the book treats something. (2) *Term-gloss* — a word or term as the subject denoting its own meaning: *dhātuḥ names the constituent*, *saṃskṛtam names what is completely made*, *the two words name opposite operations*, *apaśabda names the wrong word*, *Oral names the mouth*. Both — even when grammatically clean and individually defensible — accumulate into rhythm-thinning monotony. A 2026-06-09 audit found 365 *names / named / naming* occurrences across the body; the term-gloss extension was added 2026-06-22. Replace the **meta-pointer** with the verb stack — pick by function:
 
 - **Architecture / engineering:** *establishes*, *formalizes*, *isolates*, *defines*, *anchors*, *locates*
 - **Forward motion:** *introduces*, *develops*, *lays out*, *presents*
 - **Prosecutorial:** *indicts*, *exposes*, *charges*, *unmasks* (when the polemic voice fits)
 - **Diagnostic:** *identifies*, *diagnoses*, *traces*
 
-The verb *names* remains correct in (a) **named-agent active voice** — *Pāṇini names X*, *the pyramid names X*, *Sanskrit names X* — the Prime Directive's canonical form; (b) **literal / proper-name uses** — *a figure named X*, *named after Pāṇini*; and (c) **specific term-coining moments** where assigning a name is the precise act — though *calls* / *labels* / *terms* are often cleaner. The blacklist targets the meta-pointer pattern only.
+Replace the **term-gloss** with ***is* / *denotes* / *means* / *designates* / *carries***: *the **dhātuḥ** is the constituent that holds*; *saṃskṛtam **denotes** what is completely made*; *the two words **denote** opposite operations*.
+
+The verb *names* remains correct only in (a) **literal / proper-name uses** — *a figure named X*, *named after Pāṇini*, *the named scholar*; and (b) the **noun** *name(s)* — *the name varṇamālā*, *Sanskrit's own name*, Yāska's ***नामान्याख्यातजानि*** (*names arise from actions*). Even for a deliberate act of labeling by an agent — *the lineage names X*, *the system names X*, *the pyramid names X* — prefer ***calls* / *labels* / *terms***. **When in doubt, do not write *names*.**
 
 ### Failure mode 2 — Reject the procedural-polemic / position-paper voice everywhere
 

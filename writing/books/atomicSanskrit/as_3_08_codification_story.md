@@ -501,7 +501,7 @@ The story that Pāṇini codified Sanskrit is not a neutral summary. It is the p
 
 The bridge collapses.
 
-The Vedas already carry the grammar. The pre-Pāṇinian decoders already analyze the system. Patañjali already states the established bond. *Apabhraṃśa* already names entropy. Pāṇini already distinguishes modes, not periods. The *Aṣṭādhyāyī* already includes licensed variation. The *Dhātupāṭha* already displays atomic compression. The calibration matrix already preserves form.
+The Vedas already carry the grammar. The pre-Pāṇinian decoders already analyze the system. Patañjali already states the established bond. *Apabhraṃśa* already denotes entropy. Pāṇini already distinguishes modes, not periods. The *Aṣṭādhyāyī* already includes licensed variation. The *Dhātupāṭha* already displays atomic compression. The calibration matrix already preserves form.
 
 The dogma makes Pāṇini a rupture because the tree requires a rupture.
 
