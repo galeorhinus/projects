@@ -3349,7 +3349,7 @@ Standard references: the Wiktionary entry on पश्यति (paśyati) at en
 
 ### `agastya-sources`
 
-**Short:** The ***Agastya*** (अगस्त्य) lineage is documented across both northern and southern textual lineages: northern sources (*Ṛgveda* hymns 1.165–1.191 attributed to Agastya with Lopāmudrā; *Mahābhārata Vana Parva adhyāyas* 96–108 with the *Vindhya-bowing* episode; *Rāmāyaṇa* references in the *Araṇya Kāṇḍa*) and southern Tamil sources (the ***Agattiyam*** (अगत्तियम्) — first Tamil grammar attributed to Agastya, non-extant today but cited in *Tolkāppiyam* commentaries; the *Velvikkudi* and *Chinnamanoor* copper-plate inscriptions naming Agastya as priest, Tamil teacher, and Pandya-dynasty coronation-performer). Both lineages agree on north-to-south travel, teaching role, and foundational status — calibrant transmission as absorption, not replacement.
+**Short:** The ***Agastya*** (अगस्त्य) lineage is documented across both northern and southern textual lineages: northern sources (*Ṛgveda* hymns 1.165–1.191 attributed to Agastya with Lopāmudrā; *Mahābhārata Vana Parva adhyāyas* 96–108 with the *Vindhya-bowing* episode; *Rāmāyaṇa* references in the *Araṇya Kāṇḍa*) and southern Tamil sources (the ***Agattiyam*** (अगत्तियम्) — first Tamil grammar attributed to Agastya, non-extant today but cited in *Tolkāppiyam* commentaries; the *Velvikkudi* and *Chinnamanoor* copper-plate inscriptions citing Agastya as priest, Tamil teacher, and Pandya-dynasty coronation-performer). Both lineages agree on north-to-south travel, teaching role, and foundational status — calibrant transmission as absorption, not replacement.
 
 **Deployments:** Chapter 19 §19.1 ¶ — the citation anchor for the *Agastya* lineage and the dual northern-and-southern textual evidence for his role.
 
@@ -3939,7 +3939,7 @@ Source: Standard Sanskrit lexicographical references (Monier-Williams 1899); Car
 
 **Deployments:** Chapter 5 §5.2 (the no-preface observation paragraph).
 
-The *Aṣṭādhyāyī* contains no preface, no introductory discourse, no first-person statement of authorial intent. The text opens directly with sūtra 1.1.1 — ***vṛddhir ādaic*** (वृद्धिर् आदैच्) — and runs roughly four thousand sūtras through to the final sūtra 8.4.68 (***a a***) without any first-person address. There are no statements of design intent, no enumeration of purposes, no naming of the audience, no explanation of the methodology — just the sūtras themselves, in their compact technical idiom.
+The *Aṣṭādhyāyī* contains no preface, no introductory discourse, no first-person statement of authorial intent. The text opens directly with sūtra 1.1.1 — ***vṛddhir ādaic*** (वृद्धिर् आदैच्) — and runs roughly four thousand sūtras through to the final sūtra 8.4.68 (***a a***) without any first-person address. There are no statements of design intent, no enumeration of purposes, no identification of the audience, no explanation of the methodology — just the sūtras themselves, in their compact technical idiom.
 
 This silence is significant in the context of the book's polemic. A text that imposes a new standard normally has to explain its authority: what the standard is for, why this standard and not another, what problem it solves. A documenter describing an existing system has no such burden, because the document is its own purpose: the activity is *enumerate-and-describe*, not *design-and-justify*. Pāṇini's silence on purpose is consistent with the documenter role and inconsistent with the order-maker role the codification story assigns him.
 
@@ -4421,7 +4421,7 @@ The first four terms form a *dvandva* compound. The plural ending falls on the f
 
 Standard citation: Gautama / Akṣapāda Gautama, *Nyāya Sūtra* 1.1.3.
 
-The line names the method this book itself uses. The architecture is seen; its engineering is inferred; its behavior is compared; and the lineage-chain is heard as testimony. The *sūtra* is short, but the structure it makes recoverable is large.
+The line describes the method this book itself uses. The architecture is seen; its engineering is inferred; its behavior is compared; and the lineage-chain is heard as testimony. The *sūtra* is short, but the structure it makes recoverable is large.
 
 ---
 

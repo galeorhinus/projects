@@ -1,6 +1,6 @@
 # Appendix Part 6 — The Architecture by the Numbers
 
-*Draft v3 (2026-05-29). Reorganized layer-by-layer (sonomer / construction / operation / productivity) to mirror Ch 10's and Ch 11's procedural arc. Folds in the position-role taxonomy, the cluster-joiner specialist class, the* mūrdhanya *dual-role finding, the* ṛ */* ra *bridge, the place × place CVC matrix, and the Path C* prayoga *reactivity material — the deferred items flagged in the v2 SYNC PENDING block. Reconciles the* juhotyādi *C4 share (31.8% → 33.3% inventory, 42.9% Path C-restricted) and the scaffold count (69 → 47). The reproducibility scaffold now names both bundles:* `analysis/dhatupatha/` *(Path A — structural) and* `analysis/ganah/` *(Path C — corpus-attested).*
+*Draft v3 (2026-05-29). Reorganized layer-by-layer (sonomer / construction / operation / productivity) to mirror Ch 10's and Ch 11's procedural arc. Folds in the position-role taxonomy, the cluster-joiner specialist class, the* mūrdhanya *dual-role finding, the* ṛ */* ra *bridge, the place × place CVC matrix, and the Path C* prayoga *reactivity material — the deferred items flagged in the v2 SYNC PENDING block. Reconciles the* juhotyādi *C4 share (31.8% → 33.3% inventory, 42.9% Path C-restricted) and the scaffold count (69 → 47). The reproducibility scaffold now covers both bundles:* `analysis/dhatupatha/` *(Path A — structural) and* `analysis/ganah/` *(Path C — corpus-attested).*
 
 ---
 
@@ -170,7 +170,7 @@ Every other consonant sits in the 7–18% inner range. The specialist class is a
 
 The class composition is the *vyākaraṇa* discipline's own classification reading back. Four of the six specialists — **य, र, ल, व** — are the **अन्तःस्थाः (*antaḥsthāḥ*)**: literally *those that stand between*. The name describes the position-role the data confirms. The fifth member — ष (*ṣa*) — is from the **ऊष्माणः (*ūṣmāṇaḥ*)** sibilant row, the *mūrdhanya* sibilant specifically. The two outliers (फ *pha*, न *na*) are smaller-volume specialists whose inner-cluster share rides above the threshold but whose absolute cluster-joining counts are lower.
 
-![Per-consonant position-role split across single-*akṣara* atoms; the antaḥstha cluster-joiner band is visible as the wide inner-position bars.](figures/building_dhatuh/position_roles.svg){#fig:app5-position-roles width=95%}
+![Per-consonant position-role split across single-*akṣara* atoms; the antaḥstha cluster-joiner band is visible as the wide inner-position bars.](figures/building_dhatuh/position_roles.svg){#fig:app5-position-roles width=100%}
 
 **Why this matters.** The *varṇamālā* gives 33 consonants. The architecture does not deploy them as interchangeable bonding sites. A small specialist class — the *antaḥsthāḥ* plus the *mūrdhanya* sibilant — does almost all consonant-to-consonant bonding work. This is the *carbon-of-clusters* role: a small set of atoms that bond promiscuously, holding larger consonant structures together while the other consonants do atom-boundary work.
 
@@ -480,7 +480,7 @@ The **canonical nine polyvalent core** — *kṛ, bhū, sthā, gam, jñā, dā, 
 
 The polyvalent tier — 3.8% of the inventory — generates **67.6%** of all corpus-attested verb tokens. The top 9 alone generate 26.5%. The top 500 cover 94.0%. The compression principle holds operationally, not just inventory-theoretically.
 
-![Reactivity tiers by atom share and actual Sanskrit use.](figures/ganah/reactivity_tiers.svg){#fig:app5-reactivity-tiers width=88%}
+![Reactivity tiers by atom share and actual Sanskrit use.](figures/ganah/reactivity_tiers.svg){#fig:app5-reactivity-tiers width=100%}
 
 **Cross-corpus invariance.** The same engineered core dominates across four DCS sub-corpora — *śruti* (Ṛgveda, Atharvaveda Śaunaka) and *smṛti* (Mahābhārata, Rāmāyaṇa):
 
@@ -501,7 +501,7 @@ The canonical 9 are **9/9 attested in every sub-corpus**. Pairwise Spearman corr
 
 Style-internal agreement is higher than cross-style — but cross-style agreement is still strongly positive. The carbon-class core is invariant across the design-purpose split. The Ṛgveda's top-20 includes ritual-specific atoms (*vah* वह्, *yam* यम्, *bhṛ* भृ, *cakṣ* चक्ष्) that don't survive into *smṛti*'s top-20; the canonical core is attested at high valency in every sub-corpus regardless.
 
-![Rank trajectory of the canonical polyvalent *dhātavaḥ* across DCS sub-corpora.](figures/ganah/canonical_rank_trajectory.svg){#fig:app5-canonical-rank-trajectory width=90%}
+![Rank trajectory of the canonical polyvalent *dhātavaḥ* across DCS sub-corpora.](figures/ganah/canonical_rank_trajectory.svg){#fig:app5-canonical-rank-trajectory width=100%}
 
 The deployments vary. The core remains. The result matches the procedural model: a stable set of high-reactivity atoms, different domains applying them to different work, and the same engine driving all of them.
 

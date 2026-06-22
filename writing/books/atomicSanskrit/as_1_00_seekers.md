@@ -22,7 +22,7 @@
 
 The image places Sanskrit as the Sun: a radiant *svastika* carrying *saṃskṛtam* संस्कृतम्, with *akṣaraḥ* अक्षरः, *varṇaḥ* वर्णः, *chandaḥ* छन्दः, and *dhātuḥ* धातुः held inside its form. The ledger beside it lists the seven qualities the eclipse will later obscure.
 
-![Figure E.3 — Sanskrit-Sun. The positive ledger appears before the pyramid: wholly created, anti-entropic, calibrated, sonomeric, audiographic, calibrant, and Vedic Matrix.](figures/eclipse_spine/eclipse_01_ch0_sanskrit_sun.svg){#fig:eclipse-ch0-sanskrit-sun width=90%}
+![Figure E.3 — Sanskrit-Sun. The positive ledger appears before the pyramid: wholly created, anti-entropic, self-correcting, sonomeric, audiographic, calibrant, and Vedic Matrix.](figures/eclipse_spine/eclipse_01_ch0_sanskrit_sun.svg){#fig:eclipse-ch0-sanskrit-sun width=100%}
 
 ## 0.1 The Puzzle of the Whole
 
@@ -76,7 +76,7 @@ The English word *guru* is Sanskrit *guru* गुरु, meaning *weighty* — a
 
 The reader who has attended an Indian wedding has heard *mantras* in their Sanskrit form. The reader who has been to a yoga class has heard Sanskrit names of postures, *āsanas* आसन, that are precise compounds the language generates from its atomic inventory: *vṛkṣāsana* (tree-pose), *bhujaṅgāsana* (cobra-pose), *adho mukha śvānāsana* (downward-facing-dog-pose). The reader who has glanced at the names of Indian space missions has seen *Chandrayaan* चन्द्रयान — moon-vehicle, *Mangalyaan* मङ्गलयान — Mars-vehicle, and *Gaganyaan* गगनयान — sky-vehicle — all Sanskrit compounds engineered for the modern naming requirement. The reader who has watched the news has heard *Bhārat* भारत — the Sanskrit name India uses for itself.
 
-Sanskrit continues to work. It still names, labels, blesses, measures, and composes. It remains audible in homes, temples, classrooms, weddings, yoga halls, space missions, and ordinary names. The light remains.
+Sanskrit continues to work. It still labels, blesses, measures, and composes. It remains audible in homes, temples, classrooms, weddings, yoga halls, space missions, and ordinary names. The light remains.
 
 Sanskrit's other name carries this radiance. Sanskrit is ***devabhāṣā*** (देवभाषा) — the language of the *devas*, the radiant ones. The phrase captures what the language did. It carried light outward.
 

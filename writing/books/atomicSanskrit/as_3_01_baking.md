@@ -289,7 +289,7 @@ PIE is in the sky. The architecture is on the ground. PIE is *apaśabda*. Sanskr
 **Voice notes:**
 
 - Cooking/baking metaphor for fraud: deployed at *The German Bake*, *Recipe After Recipe*, the bake/bakers/recipe/slip vocabulary throughout. *Manufactured* / *engineered* / *architecture* reserved for Sanskrit's own engineering per CLAUDE.md.
-- Polemic voice: structural-not-personal throughout. Named European Indologists named because the historical record names them; no individual assailed for malice; the indictment runs to the cartel and the institutional pattern.
+- Polemic voice: structural-not-personal throughout. Named European Indologists named because the historical record records them; no individual assailed for malice; the indictment runs to the cartel and the institutional pattern.
 - Figures within Sanātan are not finger-pointed. R. G. Bhāṇḍārkar, Rādhākānta Deb, Tārānātha Tarkavācaspati named as exemplars of the lineage-chain's genuine Sanskrit scholarship; the "implicit party" framing operates at the institutional level, not against individual Indian scholars.
 - Cluster-vocabulary deployments: ***asuric* English pyramid** named at §1.1 opener (ontological-level diagnosis applied to the EIC-era English formation, anchoring the cluster cascade for the whole appendix); *progressive dogma* (doctrinal); *church of progress* (institutional); *asuric pyramid* (ontological — re-deployed for the polemic-climax in §1.6); *Western philological machinery* (operational machinery).
 - Chapter-close four-beat parallels Ch 18's hammer; deploys the cooking/baking-vs-engineering opposition per CLAUDE.md convention.

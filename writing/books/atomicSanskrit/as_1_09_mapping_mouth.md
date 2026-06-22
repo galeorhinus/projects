@@ -72,7 +72,7 @@ The field first appears in zones. Tamil, Toda, and Kurukh together light 20 of t
 
 The next move is the snap to grid. The mouth remains continuous; the inventory becomes discrete. Sanskrit chooses exact stations and makes them teachable, repeatable, and stable.
 
-![Figure 9.3 — Sanskrit Extracted: The Sonomer Grid. The selected Sanskrit inventory viewed as an address space across place and manner. Appendix Part 3 §3.8 gives the comparative matrix from which this Sanskrit-only view is extracted.](figures/audiography/sanskrit_extracted_sonomer_grid.svg){#fig:ch9-sanskrit-extracted-sonomer-grid width=90%}
+![Figure 9.3 — Sanskrit Extracted: The Sonomer Grid. The selected Sanskrit inventory viewed as an address space across place and manner. Appendix Part 3 §3.8 gives the comparative matrix from which this Sanskrit-only view is extracted.](figures/audiography/sanskrit_extracted_sonomer_grid.svg){#fig:ch9-sanskrit-extracted-sonomer-grid width=100%}
 
 The Sanskrit-only extraction lets the architecture reveal itself.[NOTE: varnamala-comparative-sound-inventories] The selected sounds occupy a disciplined pattern across the vocal tract.
 
@@ -242,7 +242,7 @@ At this scale, the *varṇamālā* is the first visible Sanskritic specification
 
 The *varṇamālā* is the sonomeric sūtra. Pāṇini's Māheśvara-sūtras make that fact explicit for grammar, but the selected sound-inventory already displays the discipline. It is small, ordered, recoverable, and powerful.
 
-The Vedic mantra names the operation: Speech is sifted like grain. The field is abundant; the sieve curates usable measure from abundance. The *varṇamālā* is that measure in sound: compact, ordered, body-mapped, timed, teachable, and stable.
+The Vedic mantra describes the operation: Speech is sifted like grain. The field is abundant; the sieve curates usable measure from abundance. The *varṇamālā* is that measure in sound: compact, ordered, body-mapped, timed, teachable, and stable.
 
 This is the first major scale in the fractal sequence. Oṃ compressed the whole instrument into one syllable. The *varṇamālā* selects from the sound-field and presents the first visible Sanskritic grid. The next recurrence is the *dhātuḥ*: the semantic atom displays the same discipline at a higher scale.
 

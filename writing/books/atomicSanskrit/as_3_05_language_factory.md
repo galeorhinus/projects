@@ -285,7 +285,7 @@ That is the language factory.
 
 - Voice: polemic with constructive-demonstrative warmth (closer to Ch 18 §18.1 than to the prosecutorial voice of Parts 1-3); §5.5 carries a playful edge through the Schleicher joke; §5.2–§5.4 and §5.6–§5.7 run the structural-engineering idiom; §5.8 sharpens into prosecutorial voice.
 - *Audiography* / *audiograph* / *audiographer* (from Appendix Part 3) are sibling book-coinages alongside *Yenpro* / *Yenpuro*. *Auditure* (from Ch 13 §13.4) is the broader sound-engineering coinage family.
-- Polemic voice at §5.8: structural-not-personal. Schleicher named because the historical record names him; the indictment runs to the institutional position he occupied and to the asuric pyramid he served, not to individual malice.
+- Polemic voice at §5.8: structural-not-personal. Schleicher named because the historical record records him; the indictment runs to the institutional position he occupied and to the asuric pyramid he served, not to individual malice.
 
 **Cross-references:**
 

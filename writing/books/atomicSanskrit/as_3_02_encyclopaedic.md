@@ -311,7 +311,7 @@ Sibling — Appendix Part 1 *Baking the Mother Tongue* (the colonial pipeline th
 **Voice notes:**
 
 - Cooking/baking metaphor reserved for fraud (deployed primarily in Part 1); Part 2 runs the *historical-principles* prosecution in methodological language with *codified* / *frame* / *axiom* vocabulary.
-- Polemic voice: structural-not-personal throughout. Named figures (Katre, Ghatage, Basham, Müller, Whitney, Grierson) named because the historical record names them; the indictment runs to the institutional choice, not to individual intent.
+- Polemic voice: structural-not-personal throughout. Named figures (Katre, Ghatage, Basham, Müller, Whitney, Grierson) named because the historical record records them; the indictment runs to the institutional choice, not to individual intent.
 - Figures within Sanātan are not finger-pointed. Katre and Ghatage named at the institutional level; the polemic charge runs against the framework choice, not against scholars' Sanskrit-internal competence.
 - Cluster-vocabulary deployments: *progressive dogma* (doctrinal); *church of progress* (institutional); *fourth Abrahamic religion* (genealogical) — cascaded across the appendix per CLAUDE.md.
 - Chapter 17 §17.2 forward-pointer at §2.9 fourth-move (structured-data publication axis).
