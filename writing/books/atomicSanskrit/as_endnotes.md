@@ -3581,7 +3581,7 @@ Standard references: the documentary record of Joseph Boden's will (preserved in
 
 **Deployments:** Appendix Part 1 §1.1 ¶ — the citation anchor for the founding arc of Deccan College, Pune.
 
-***Deccan College*** at Pune is the institution behind the Appendix (*The Encyclopaedic Confirmation* — Chapter Zero of the Appendix engages the Encyclopaedic Dictionary of Sanskrit on Historical Principles produced at Deccan College since 1948). The founding arc:
+***Deccan College*** at Pune is the institution behind Appendix Part 2 (*The Encyclopaedic Confirmation*), which engages the Encyclopaedic Dictionary of Sanskrit on Historical Principles produced at Deccan College since 1948. The founding arc:
 
 - **1821**: Founded as a Sanskrit *Pāṭhaśālā* (also referred to as the *Hindoo College*) under ***Mountstuart Elphinstone***, Governor of the Bombay Presidency (1819–1827). The institution was established with funds from the ***Dakṣiṇā charitable endowment*** that the Peshwa Bajirao II (the last Peshwa of the Maratha confederacy, 1796–1818) had used to subsidize Sanskrit pundits in Pune. Elphinstone took the endowment that had supported the Sanskrit teaching network and redirected it into a college that would teach Sanskrit *and* English to the same student body. The structural redirection is the moment of institutional capture — the colonial administrator taking the Maratha-state's older patronage framework for Sanskrit-lineage transmission and converting it into a hybrid institution that operated for the colonial educational machinery.
 
