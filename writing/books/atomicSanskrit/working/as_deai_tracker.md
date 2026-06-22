@@ -55,7 +55,7 @@ The de-AI rules live in the user-memory note `feedback_deai_humanize_prose.md` a
 | **IV** | as_part_04_atomic_architecture | Part IV opener | 15 | ➖ |
 | 10 | as_1_10_building_dhatuh | Building the *dhātuḥ* | 443 | ⬜ |
 | 11 | as_1_11_building_kriya | Building the *kriyā* | 324 | ✅ done (replace-mode, pre-doubling) — uncommitted |
-| 12 | as_1_12_building_vakya | Building the *vākya* | 278 | 🟡 FULLY swept (§§12.1–12.10) + chunk-1 metadiscourse re-scan done — pending review; + RV 1.164.39 promoted to top `::: epigraph`. Flagged for author (mild value-frames, not yet changed): §12.1 "The test is simple:" / "The working sense is direct:" |
+| 12 | as_1_12_building_vakya | Building the *vākya* | 278 | 🟡 swept + chunk-1 rescan + breathing pass — pending review; + RV 1.164.39 promoted to top `::: epigraph`. Breathing: resolved the 2 flagged value-frames ("The test is simple:", "The working sense is direct:") + fixed double "now visible" in close. 22 redline blocks |
 | 13 | as_1_13_preservation | Preservation | 163 | 🟡 swept + breathing pass — pending review. 3 metadiscourse fixes + 4 signpost cuts from Gemini review (L16/L23/L42/L124: "is therefore concrete", "first question is categorical", "sharper question is", "pattern is consistent"). Deliberate hammers/triads PROTECTED (Gemini's de-hammering rejected) |
 | **V** | as_part_05_anti_entropy_practice | Part V opener | 15 | ➖ |
 | 14 | as_1_14_calibration | Calibration | 204 | 🟡 swept + breathing pass — pending review. 4 sweep fixes + 2 breathing (L84 6× "The X preserves Y" recap fused to one flowing sentence; L133 dropped "system-scale contrast is now in place"/"context for the test below" signposts, triad kept). Deliberate triads protected |

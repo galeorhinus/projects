@@ -27,11 +27,17 @@ The *dhātuḥ* has entered operation and become a **क्रियापदम
 AISWEEP-END -->
 The *dhātuḥ* has entered operation and become a **क्रियापदम् (*kriyāpadam*)** — a verbal molecule. A language now has to build the rest around it: names, role-bearing words, and the sentences that let the action enter speech.
 
+<!-- AISWEEP-OLD
 The test is simple: can Sanskrit build larger forms without blurring the lower levels? Can the sonomer remain visible inside the atom, the atom inside the molecule, the molecule inside the **पदम् (*padam*)**, and the *padam* inside the **वाक्यम् (*vākyam*)**?
+AISWEEP-END -->
+Can Sanskrit build larger forms without blurring the lower levels — the sonomer still visible inside the atom, the atom inside the molecule, the molecule inside the **पदम् (*padam*)**, and the *padam* inside the **वाक्यम् (*vākyam*)**?
 
 That is **assembly without blur**.
 
+<!-- AISWEEP-OLD
 The epigraph describes the problem in Vedic form. The working sense is direct: the *ṛks* stand in the imperishable highest space, where the devas are seated. What will one who does not know that do with the *ṛc*? Those who know it gather here.[NOTE: rigveda-1-164-39-akshara-assembly]
+AISWEEP-END -->
+The epigraph describes the problem in Vedic form: the *ṛks* stand in the imperishable highest space, where the devas are seated. What will one who does not know that do with the *ṛc*? Those who know it gather here.[NOTE: rigveda-1-164-39-akshara-assembly]
 
 The verse does more than a grammar manual could do. It places the reader inside the relation under study: a completed utterance depends on the recoverable structure beneath it. The *ṛc* is the assembled utterance. The one who does not know what holds it cannot use it properly.
 
@@ -321,7 +327,10 @@ Chapter 18 §18.6 develops the worked examples: *devaḥ* becoming Latin *deus*;
 
 ## 12.10 Close — Assembly Without Loss
 
+<!-- AISWEEP-OLD
 The *dhātuḥ* is now visible as an atomic construction. The atom has entered operation and become action. The next scale is now visible: the atom becomes *śabda*, the molecule becomes *padam*, and the *padam* enters the *vākya*.
+AISWEEP-END -->
+The *dhātuḥ* now stands as an atomic construction, and the atom that entered operation has become action. The next scale follows: the atom becomes *śabda*, the molecule becomes *padam*, and the *padam* enters the *vākya*.
 
 <!-- AISWEEP-OLD
 The governing principle is assembly without loss. The sentence is larger than the atom, but the atom remains recoverable inside it. The sonomers remain recoverable because Sanskrit's operations continue to work at the sonomeric level. The head-bond and tail-bond remain recoverable because they leave grammatical and semantic signatures. The role-ending remains recoverable because *vibhaktiḥ* and *tiṅ-pratyayaḥ* carry relation, number, person, and role.
