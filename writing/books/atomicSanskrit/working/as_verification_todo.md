@@ -18,6 +18,19 @@
 
 ## Pending verifications
 
+### RV 1.164.39 akṣara epigraph (Ch 12 §12.1) — 2026-06-22
+
+The expanded endnote `rigveda-1-164-39-akshara-assembly` now makes load-bearing claims about the *akṣara* (imperishable / syllable) reading of the Ch 12 epigraph. The endnote's *Source and provenance* already carries a standing verify note; logged here so it survives to chapter-lock.
+
+| Priority | Item | What to check | Status |
+|---|---|---|---|
+| P1 | RV 1.164.24 — *akṣareṇa mimate sapta vāṇīḥ* | Exact wording + accentuation, and that *akṣara* (instr.) carries the **syllable** sense in the metrical context. This is the in-hymn warrant for the syllabic reading of 1.164.39 — the load-bearing piece. | `[ ]` |
+| P2 | RV 1.164.45 — *catvāri vāk parimitā padāni* | Exact wording; used only as supporting context (the hymn's speech orientation). | `[ ]` |
+| P1 | Śvetāśvatara Upaniṣad 4.8 quotes RV 1.164.39 | Confirm the verse appears at ŚvUp 4.8, and the *akṣara*-as-imperishable (theological) framing attributed to its reception. | `[ ]` |
+| P2 | Apposition *akṣare* = *parame vyoman* | The fractal-inversion reading takes the two locatives as appositive; confirm defensible vs. parallel locatives, or keep the hedge already in the endnote. | `[ ]` |
+
+Verification path: van Nooten–Holland, *Rig Veda: A Metrically Restored Text* (HOS, 1994) for the saṃhitā; a standard Śvetāśvatara edition (e.g. Olivelle, *Early Upaniṣads*) for 4.8.
+
 ### Production blocker audit — 2026-05-31
 
 Current scan scope: `atomicSanskrit/*.md`, `atomicSanskrit/as_3_*.md`, and `atomicSanskrit/reference/*.md`. Excludes `working/` and `CLAUDE.md` except for workflow awareness.
