@@ -133,9 +133,9 @@ It converts two axes into one timeline.
 
 The Indic architecture uses two domain terms and two mode terms.
 
-**वैदिक (*vaidika*)** and **लौकिक (*laukika*)** name domains: the Vedic domain and the worldly learned domain. They are civilizational fields of use, not historical stages.
+**वैदिक (*vaidika*)** and **लौकिक (*laukika*)** are domains: the Vedic domain and the worldly learned domain. They are civilizational fields of use, not historical stages.
 
-**छन्दस् (*chandas*)** and **भाषा (*bhāṣā*)** name modes: metrical-corpus operation and speech / learned-literary operation. Pāṇini draws the distinction in the grammar through locative forms: ***chandasi*** (छन्दसि), "in meter"; ***bhāṣāyām*** (भाषायाम्), "in speech."
+**छन्दस् (*chandas*)** and **भाषा (*bhāṣā*)** are modes: metrical-corpus operation and speech / learned-literary operation. Pāṇini draws the distinction in the grammar through locative forms: ***chandasi*** (छन्दसि), "in meter"; ***bhāṣāyām*** (भाषायाम्), "in speech."
 
 The pyramid's account collapses all four into two chronological labels: Vedic and Classical. Then it places Pāṇini between them.
 

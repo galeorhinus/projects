@@ -10,7 +10,7 @@ The Sanskrit terms already exist. *Varṇa*, *akṣara*, and *dhātuḥ* are not
 
 These substitutions are not harmless. "Root" imports the botanical metaphor into Sanskrit's semantic atom. "Letter" makes script primary where sound is primary. "Alphabet" hides the sonomeric grid. Each mistranslation moves the reader into the wrong architecture before the argument even begins.
 
-The book's coined terms are therefore bridges back to Sanskrit's own categories. **Sonomer** names the measured sound-particle Sanskrit calls *varṇa*. **Audiograph** names the visible rendering of an *akṣara*. **Atom** names the sustaining semantic constituent Sanskrit calls *dhātuḥ*. The purpose is not novelty. The purpose is to make English stop flattening Sanskrit.
+The book's coined terms are therefore bridges back to Sanskrit's own categories. **Sonomer** is the measured sound-particle Sanskrit calls *varṇa*. **Audiograph** is the visible rendering of an *akṣara*. **Atom** is the sustaining semantic constituent Sanskrit calls *dhātuḥ*. The purpose is not novelty. The purpose is to make English stop flattening Sanskrit.
 
 The glossary is organized in three groups:
 
@@ -124,7 +124,7 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 ### **calibrand**
 
-**Book-coined English, sibling to *calibrant*.** *That which is calibrated* — formed like *operand*, *multiplicand*, *analysand*: the thing acted upon. Where *calibrant* names Sanskrit as the engineered standard, **calibrand** names a language restructured toward it through **calibrant contact** (Chapter 18 §18.6). The calibrand languages are the set the philological machinery — reading their shared reflections as common descent — classifies as the *"Indo-European"* and *"Indo-Iranian"* families; each calibrand instead carries a *Pratibimba* (reflection) of the calibrant, not a fragment of a vanished ancestor. The term replaces a geography-plus-family-tree label with one that encodes the relation: a reflection of a standard, not descended from a parent.
+**Book-coined English, sibling to *calibrant*.** *That which is calibrated* — formed like *operand*, *multiplicand*, *analysand*: the thing acted upon. Where *calibrant* designates Sanskrit as the engineered standard, **calibrand** designates a language restructured toward it through **calibrant contact** (Chapter 18 §18.6). The calibrand languages are the set the philological machinery — reading their shared reflections as common descent — classifies as the *"Indo-European"* and *"Indo-Iranian"* families; each calibrand instead carries a *Pratibimba* (reflection) of the calibrant, not a fragment of a vanished ancestor. The term replaces a geography-plus-family-tree label with one that encodes the relation: a reflection of a standard, not descended from a parent.
 
 ### **fractal**
 

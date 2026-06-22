@@ -10,7 +10,7 @@ The *Vedas* carry Sanskrit's engineering as corpus form. The architecture is alr
 
 The pyramid's account calls the difference between *vaidika* and *laukika* Sanskrit evolution. The engineering thesis treats the same evidence as mode-difference. The Vedic corpus is not an earlier language decaying toward a later one. It is Sanskrit running in the *chandas* mode.
 
-***Chandas*** (छन्दस्) means meter. *Chandasi* means *in meter*. ***Bhāṣā*** (भाषा) means speech. *Bhāṣāyām* means *in speech*. *Chandas* and *bhāṣā* name the modes; *chandasi* and *bhāṣāyām* are Pāṇini's locative rule-markers. That is the key.
+***Chandas*** (छन्दस्) means meter. *Chandasi* means *in meter*. ***Bhāṣā*** (भाषा) means speech. *Bhāṣāyām* means *in speech*. *Chandas* and *bhāṣā* are the modes; *chandasi* and *bhāṣāyām* are Pāṇini's locative rule-markers. That is the key.
 
 ## 7.1 Corpus Before Manual
 

@@ -194,7 +194,7 @@ The full operating roster has ten classes.
 | 9 | क्र्यादि (*kryādi*) | श्ना (*śnā*) / ना (*nā*) | *nā*-extension | क्री (*krī*) → क्रीणाति (*krīṇāti*) |
 | 10 | चुरादि (*curādi*) | णिच् (*ṇic*) / अय (*aya*) | *aya* activation | चुर् (*cur*) → चोरयति (*corayati*) |
 
-The *gaṇaḥ* names the operational class. The *vikaraṇa* performs the operation. The examples in the last column are anchors: they show one familiar visible output of each operation, not a full derivation lesson.
+The *gaṇaḥ* is the operational class. The *vikaraṇa* performs the operation. The examples in the last column are anchors: they show one familiar visible output of each operation, not a full derivation lesson.
 
 One pattern matters before the matrix appears. The visible consonant-bearing class operations do not choose arbitrary consonants. *Divādi* and *curādi* use य (*ya*). *Svādi*, *rudhādi*, and *kryādi* use न (*na*). Chapter 10 and Appendix 5 identify both as cluster-joining specialists inside the atom. The same bonding sonomers that help hold dense atoms together are reused when the atom is activated into a molecule. The architecture is not changing vocabulary at the next scale. It is reusing its specialists.
 
