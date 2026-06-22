@@ -20,7 +20,7 @@
 
 The Sun has been eclipsed.
 
-The Vedic mantra above precisely names the condition.[NOTE: rigveda-5-40-5-svarbhanu-eclipse] Svarbhānu the asura pierces Sūrya with darkness, and the worlds look about in confusion, like one who no longer knows the field. The wound is not only darkness. It is field-loss: **अक्षेत्रवित् (*akṣetravit*)**, the state in which the light remains present but the terrain can no longer be discerned.
+The Vedic mantra above precisely diagnoses the condition.[NOTE: rigveda-5-40-5-svarbhanu-eclipse] Svarbhānu the asura pierces Sūrya with darkness, and the worlds look about in confusion, like one who no longer knows the field. The wound is not only darkness. It is field-loss: **अक्षेत्रवित् (*akṣetravit*)**, the state in which the light remains present but the terrain can no longer be discerned.
 
 That verse is the Vedic diagnostic for the condition in which Sanskrit stands before the modern world. Sanskrit is Sūrya: radiant, stable, generative, engineered order. The asuric pyramid is Svarbhānu: the apex-form and its actor-network — he can neither build such an order nor bear alternative to his own. Proto-Indo-European, or PIE, is the eclipse-device, the Rāhu-like head placed over the Sun: an ancestor with no speakers, no body, no living mouth, made immortal precisely because it was never alive enough to die.
 
