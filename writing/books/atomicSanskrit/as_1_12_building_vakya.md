@@ -2,7 +2,10 @@
 
 ## 12.1 From Verbal Molecule to Sentence Assembly
 
+<!-- AISWEEP-OLD
 The *dhātuḥ* has entered operation and become a **क्रियापदम् (*kriyāpadam*)** — a verbal molecule. A language must then build names, role-bearing words, and sentences. It must let the action enter speech.
+AISWEEP-END -->
+The *dhātuḥ* has entered operation and become a **क्रियापदम् (*kriyāpadam*)** — a verbal molecule. A language now has to build the rest around it: names, role-bearing words, and the sentences that let the action enter speech.
 
 The test is simple: can Sanskrit build larger forms without blurring the lower levels? Can the sonomer remain visible inside the atom, the atom inside the molecule, the molecule inside the **पदम् (*padam*)**, and the *padam* inside the **वाक्यम् (*vākyam*)**?
 
@@ -24,13 +27,25 @@ The working sense is direct: the *ṛks* stand in the imperishable highest space
 
 The verse does more than a grammar manual could do. It places the reader inside the relation under study: a completed utterance depends on the recoverable structure beneath it. The *ṛc* is the assembled utterance. The one who does not know what holds it cannot use it properly.
 
+<!-- AISWEEP-OLD
 The verse itself already shows sentence assembly. It carries a locative field — **अक्षरे परमे व्योमन् (*akṣare parame vyoman*)**. It carries a relative enclosure — **यस्मिन् (*yasmin*)**. It carries knowledge and non-knowledge — **वेद (*veda*)**, **न (*na*)**. It carries an instrumental relation — **ऋचा (*ṛcā*)**. It carries future action — **करिष्यति (*kariṣyati*)**, from the same कृ (*kṛ*) atom used below as the flagship.
+AISWEEP-END -->
+The verse itself is a worked example of sentence assembly. Inside four lines it sets a locative field — **अक्षरे परमे व्योमन् (*akṣare parame vyoman*)** — closes it with a relative — **यस्मिन् (*yasmin*)** — weighs knowledge against its absence — **वेद (*veda*)**, **न (*na*)** — turns on an instrumental — **ऋचा (*ṛcā*)** — and reaches into future action with **करिष्यति (*kariṣyati*)**, built from the same कृ (*kṛ*) atom that anchors the chapter below.
 
+<!-- AISWEEP-OLD
 The Vedic sentence is already doing the work. The parts hold their roles. The action is visible. The assembly can be walked.
+AISWEEP-END -->
+The Vedic sentence is already doing all of this on its own: every part holds its role, the action stays visible, and the whole assembly can be traced from the surface back down to the atom.
 
+<!-- AISWEEP-OLD
 Yāska gives the hinge: **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)** — names arise from actions.[NOTE: nirukta-namany-akhyatajani] Treat it as a direction of vision rather than as a slogan that flattens every noun into one mechanical derivation. Sanskrit names are often built from action. The atom acts first; the name crystallizes after.
+AISWEEP-END -->
+Yāska's *Nirukta* gives the hinge in four words: **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)** — names arise from actions.[NOTE: nirukta-namany-akhyatajani] Take it as a direction of sight, not a rule that flattens every noun into one mechanical derivation. Sanskrit names are built from action more often than not: the atom acts first, and the name crystallizes after.
 
+<!-- AISWEEP-OLD
 The verbal molecule becomes the source of names. Names receive bonds. Bonds produce *padāni*. *Padāni* enter the *vākya*. The sentence is an assembly that preserves the levels underneath it.
+AISWEEP-END -->
+From there the chain runs outward: the verbal molecule becomes a source of names, names take on bonds to become *padāni*, and *padāni* enter the *vākya* — a sentence that still holds every level intact beneath it.
 
 ![Figure 12.1 — Molecular assembly pipeline: sonomer → dhātuḥ → śabda / kriyāpada → padam → vākya.](figures/building_vakya/pipeline.svg){#fig:building-vakya-pipeline width=100%}
 
@@ -48,7 +63,10 @@ This matters because the philological dogma treats the *upasargaḥ* as a prever
 
 In English, a preposition usually stands outside the action: *from*, *toward*, *over*, *under*. It points from outside. In Sanskrit, the *upasargaḥ* enters the word-body and redirects the action from within the derivation. It bonds with the atom.
 
+<!-- AISWEEP-OLD
 A *pratyayaḥ* performs the other side of the bonding procedure. It completes the molecule into a usable class. One suffix can make an action-name. Another can make an agent. Another can make something-to-be-done. The same atom remains visible, and the molecule's outer shell changes what the form can do in a sentence.
+AISWEEP-END -->
+A *pratyayaḥ* performs the other side of the bonding procedure, completing the molecule into a usable class: one suffix makes an action-name, another an agent, another something-to-be-done. Through all of it the same atom stays visible, while the molecule's outer shell changes what the form can do in a sentence.
 
 This is why the bonding analogy is useful. Sanskrit bonds semantic atoms into usable molecules. The bond changes grammatical behavior while preserving recoverable identity.
 
@@ -100,7 +118,10 @@ An *upasargaḥ* redirects the field in which the atom acts. With *kṛ*, the op
 
 **सम् (*sam-*)** faces together, integrated, completed, refined. When *sam-* enters the *kṛ* field, it yields the family of integrated and refined forms: **संस्कृति (*saṃskṛti*)**, **संस्कार (*saṃskāra*)**, and **संस्कृत (*saṃskṛta*)**. In prose, **sam + kṛ** is useful shorthand for the semantic operation. In the actual sonomeric form, the visible **स्** in **संस्कृति** and **संस्कार** must be accounted for by the rules that build the surface molecule.[NOTE: kr-bonding-examples]
 
+<!-- AISWEEP-OLD
 The important point is the direction of the bond. The *upasargaḥ* turns *kṛ* toward a field. *Pra-* turns it toward prior formation. *Vi-* turns it toward alteration. *Sam-* turns it toward integrated refinement.
+AISWEEP-END -->
+The point is the direction of the bond. Each *upasargaḥ* turns *kṛ* toward a different field — *pra-* toward prior formation, *vi-* toward alteration, *sam-* toward integrated refinement — without ever touching the atom at the center.
 
 The atom remains visible through the redirection. That is why the molecule can be interpreted. The head-bond changes the field while preserving the atom.
 
