@@ -4473,7 +4473,7 @@ Hebrew and Arabic preserve powerful textual and recitational systems, and Chapte
 
 ### `rigveda-1-164-39-akshara-assembly`
 
-**Short:** Ṛgveda 1.164.39 supplies the epigraph and first assembly example. The verse already contains the central relation: the *ṛc* is an assembled utterance, but the one who does not know the *akṣara* beneath it cannot use the *ṛc* properly.
+**Short:** Ṛgveda 1.164.39 supplies the epigraph and first assembly example: the *ṛc* is an assembled utterance, but one who does not know the *akṣara* beneath it cannot use the *ṛc* properly. The key word *akṣara* means both *the imperishable* and *the syllable*, and this very hymn uses it in the syllabic sense to measure meter (1.164.24) — see the dossier note for the full reading.
 
 **Deployments:** Chapter 12 §12.1; Chapter 12 §12.8.
 
@@ -4495,11 +4495,37 @@ The padapāṭha splits **यस्तन्न** as **यः । तत् । 
 
 #### Working translation
 
-*The ṛks are in the imperishable highest space, where all the devas have taken their seat. What will one who does not know that do with the ṛc? Those who know it gather here.*
+*The ṛks abide in the akṣara — the imperishable syllable, the highest heaven — where all the devas have taken their seat. What will one who does not know that do with the ṛc? Those who know it gather here.*
+
+The translation deliberately keeps both senses of **अक्षर (*akṣara*)** live. The reasons follow, because the choice is contested and load-bearing.
+
+#### The *akṣara*: imperishable and syllable
+
+**अक्षर (*akṣara*)** parses as *a-* (privative) + *kṣara* (perishing, flowing away): literally *the non-perishing, the imperishable*. The same word is the standard Sanskrit term for *the syllable* — the indivisible minimal unit of articulated sound. These are not two meanings loosely punned onto one word; they are one concept seen from two sides. The syllable *is* the imperishable minimal unit, the sound-atom that does not decompose further. This is precisely the *akṣara* Chapter 9 installs as the engineered sound-unit.
+
+Verse 39 has been pulled in both directions. Many translators render *akṣare* purely as *the imperishable* — a cosmological-theological reading in which the ṛcs rest in the imperishable ground, the highest heaven where the gods are seated — and the syllabic sense drops out entirely. The reading this book foregrounds is the syllabic one. But the defensible claim is *not* that *akṣara* means *syllable* here to the exclusion of *imperishable*; it is that the word carries both, and that the hymn's own usage proves the syllabic sense is in play.
+
+#### The in-hymn warrant
+
+Verse 39 does not stand alone. It sits inside Ṛgveda 1.164, the long riddle-hymn of Dīrghatamas Aucathya (*Asya Vāmasya*), whose recurring subject is hidden structure, speech, and meter. The decisive datum is **Ṛgveda 1.164.24**, fifteen verses earlier, where *akṣara* appears in the instrumental in an explicitly metrical operation:
+
+> *… अक्षरेण मिमते सप्त वाणीः*
+> *… akṣareṇa mimate sapta vāṇīḥ*
+> *"… by the **syllable** they measure the seven voices."*
+
+There, *akṣara* can only mean *the syllable* — the unit one measures meter with. Same hymn, same poet, same semantic field as verse 39. The surrounding meter-cluster (vv. 23–25) names the *chandas* directly — Gāyatrī, Triṣṭubh, Jagatī — measuring song against chant against recited verse. And six verses after 39 comes the most famous speech-verse in the Ṛgveda, **1.164.45**: *catvāri vāk parimitā padāni* — "Speech (*Vāk*) is measured in four quarters; the wise know them; three are hidden, men speak the fourth." The hymn that holds verse 39 is saturated with sound, syllable, and measured speech. A reader who renders *akṣara* as *imperishable only* has to look away from the verse's immediate neighborhood.
+
+#### The competing reading and its reception
+
+The *imperishable* reading is not wrong; it is the verse's afterlife. Ṛgveda 1.164.39 is quoted in the **Śvetāśvatara Upaniṣad (4.8)**, where the frame is theological: the *akṣara* as the imperishable ground, the supreme reality in which the ṛcs and the gods abide. Sāyaṇa's commentary and the later Vedāntic tradition read it through that lens. Translators who give only *the imperishable* are reading verse 39 through the Upaniṣad rather than through its own hymn. Both homes are real; this book reads the verse in its Ṛgvedic neighborhood, where *akṣara* is also — and demonstrably — the syllable.
+
+#### The book's position
+
+The verse states the chapter's thesis in Vedic form: a finished utterance (*ṛc*) depends on the recoverable unit beneath it (*akṣara*), and one who does not know that unit cannot use the utterance properly. *Akṣara* as *the imperishable syllable* — the sound-atom that does not decompose — is exactly the engineered unit Chapter 9 establishes and Chapter 12 assembles into the *vākya*. The translation therefore keeps both senses; verse 1.164.24 is the warrant that the syllabic sense is the hymn's own, not an interpretation imported from later sound-engineering.
 
 #### Source and provenance
 
-Standard citation: Ṛgveda 1.164.39. Working text checked against online saṃhitā and padapāṭha witnesses during drafting; final citation should point to the printed Vedic edition selected for the book's bibliography.
+Standard citation: Ṛgveda 1.164.39 (also quoted at Śvetāśvatara Upaniṣad 4.8). Working text checked against online saṃhitā and padapāṭha witnesses during drafting; final citation should point to the printed Vedic edition selected for the book's bibliography. **To verify before this note is load-bearing:** the exact wording and accentuation of Ṛgveda 1.164.24 (*akṣareṇa mimate sapta vāṇīḥ*) and 1.164.45 (*catvāri vāk parimitā padāni*), and the Śvetāśvatara 4.8 quotation, against a critical edition (e.g. van Nooten–Holland, *Rig Veda: A Metrically Restored Text*, for the saṃhitā).
 
 ---
 
