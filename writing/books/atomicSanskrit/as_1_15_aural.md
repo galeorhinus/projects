@@ -70,7 +70,10 @@ The recitations can be compared. Recordings exist. Frits Staal's fieldwork on Na
 
 The phonetic constants match at the level the architecture predicts: *varṇa* inventory, accent where preserved, *sandhi* execution, metrical structure, and recitational discipline. The lineages become independent checks. Their recitations agree.[NOTE: cross-shakha-verification-fieldwork]
 
+<!-- AISWEEP-OLD
 UNESCO recognized Vedic chanting in 2003 as a Masterpiece of the Oral and Intangible Heritage of Humanity.[NOTE: unesco-vedic-chanting-2003] The recognition is not the authority. The recitation is the authority. But the citation matters because even an external institution had to acknowledge the continuity and precision of the practice in front of it.
+AISWEEP-END -->
+UNESCO recognized Vedic chanting in 2003 as a Masterpiece of the Oral and Intangible Heritage of Humanity.[NOTE: unesco-vedic-chanting-2003] The recognition is not the authority. The recitation is the authority. But even an external institution had to acknowledge the continuity and precision of the practice in front of it.
 
 The reader can test the claim. Recordings of *saṃhitā*, *krama*, *jaṭā*, and *ghana* recitation are available. The architecture can be heard. The system is not a claim about the past only. It is operating now.
 
@@ -80,7 +83,10 @@ Three implications follow.
 
 First: the preservation architecture is observable. Competing accounts must explain the audible evidence, not merely tell a story about textual development.
 
+<!-- AISWEEP-OLD
 Second: the engineering is real. The eleven *pāṭhas* operate as error-detecting re-encodings. *Śikṣā* trains the instrument. *Chandas* supplies the metrical hash. The *Prātiśākhya* documents the phonetic constants. The *guru*, the peer group, the senior reciter, and the audience form a distributed verification network.
+AISWEEP-END -->
+Second: the engineering is real. The eleven *pāṭhas* operate as error-detecting re-encodings, *Śikṣā* trains the instrument, *Chandas* supplies the metrical hash, the *Prātiśākhya* documents the phonetic constants, and the *guru*, peer group, senior reciter, and audience together form a distributed verification network.
 
 Third: the architectural thesis is now empirically grounded. By this point the botanical metaphor has been dismantled, the mouth has been mapped, the *dhātavaḥ* have been identified, the generative architecture has been described, and the calibration matrix has been laid out. The operating evidence is now audible. The architecture is not only a reconstruction. It is being performed.
 
