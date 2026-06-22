@@ -4473,7 +4473,7 @@ Hebrew and Arabic preserve powerful textual and recitational systems, and Chapte
 
 ### `rigveda-1-164-39-akshara-assembly`
 
-**Short:** Ṛgveda 1.164.39 supplies the epigraph and first assembly example: the *ṛc* is an assembled utterance, but one who does not know the *akṣara* beneath it cannot use the *ṛc* properly. The key word *akṣara* means both *the imperishable* and *the syllable*, and this very hymn uses it in the syllabic sense to measure meter (1.164.24) — see the dossier note for the full reading.
+**Short:** Ṛgveda 1.164.39 supplies the epigraph and first assembly example: the *ṛc* is an assembled utterance, and one who does not know the *akṣara* beneath it cannot use the *ṛc*. *Akṣara* means both *the imperishable* and *the syllable* — and the verse identifies that syllable, the scale below the *ṛc*, with **परमे व्योमन्** (the highest heaven), making the smallest unit the supreme ground. See the dossier note for the full reading and the in-hymn warrant (1.164.24).
 
 **Deployments:** Chapter 12 §12.1; Chapter 12 §12.8.
 
@@ -4522,6 +4522,14 @@ The *imperishable* reading is not wrong; it is the verse's afterlife. Ṛgveda 1
 #### The book's position
 
 The verse states the chapter's thesis in Vedic form: a finished utterance (*ṛc*) depends on the recoverable unit beneath it (*akṣara*), and one who does not know that unit cannot use the utterance properly. *Akṣara* as *the imperishable syllable* — the sound-atom that does not decompose — is exactly the engineered unit Chapter 9 establishes and Chapter 12 assembles into the *vākya*. The translation therefore keeps both senses; verse 1.164.24 is the warrant that the syllabic sense is the hymn's own, not an interpretation imported from later sound-engineering.
+
+#### Explicit definition, not implicit encoding
+
+The four-term stack (*engineered / encoded / decoded*) ordinarily casts the Veda as *encoding*: the architecture is carried *in the form* of the language — the *varṇamālā* in how sounds are ordered, the bonding procedure in how words assemble — and a grammarian must *decode* it to state the specification explicitly. Verse 39 is the unusual case. It does not merely encode the architecture in its form; its *content* states the principle outright — the *ṛc* resides in the *akṣara*, the assembled utterance grounded in the imperishable unit beneath it. This is a self-definitional moment: the Veda stating, in propositional form, the very scale-relation the rest of the corpus only encodes. That is why the verse can stand as the chapter's epigraph rather than as one more datum to be decoded — here the architecture speaks about itself.
+
+#### The fractal inversion: *parame vyoman*
+
+The verse does not lift the *ṛc* into a heaven *above* it. It locates the *ṛc* in the *akṣara* — the syllable, a scale *below* the assembled utterance — and the locatives *akṣare* and *parame vyoman* can be read in apposition: the imperishable syllable *is* **परमे व्योमन् (*parame vyoman*)**, the highest heaven. The supreme ground is then not the loftiest point but the smallest recoverable unit; the architecture's highest place is reached by descending the scale to the unit beneath the form, not by ascending above it. This is the book's fractal signature stated in Vedic terms — the same structure recurring down the scale-chain (mouth → sonomer → *akṣara* → *dhātuḥ* → … → *vākya*), with the foundational unit, not a transcendent apex, as the supreme ground. The reading is interpretive — the two locatives can also be taken as simply parallel — but it is the reading the hymn's own preoccupation with the syllable makes available.
 
 #### Source and provenance
 

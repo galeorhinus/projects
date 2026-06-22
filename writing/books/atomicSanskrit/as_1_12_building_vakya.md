@@ -25,21 +25,26 @@
 <!-- AISWEEP-OLD
 The *dhātuḥ* has entered operation and become a **क्रियापदम् (*kriyāpadam*)** — a verbal molecule. A language must then build names, role-bearing words, and sentences. It must let the action enter speech.
 AISWEEP-END -->
-The *dhātuḥ* has entered operation and become a **क्रियापदम् (*kriyāpadam*)** — a verbal molecule. A language now has to build the rest around it: names, role-bearing words, and the sentences that let the action enter speech.
+When a *dhātuḥ* enters an operation, it becomes a **क्रियापदम् (*kriyāpadam*)** — a verbal molecule. The language now has to build the rest around it: names, role-bearing words, and the sentences that let the action enter speech.
 
 <!-- AISWEEP-OLD
 The test is simple: can Sanskrit build larger forms without blurring the lower levels? Can the sonomer remain visible inside the atom, the atom inside the molecule, the molecule inside the **पदम् (*padam*)**, and the *padam* inside the **वाक्यम् (*vākyam*)**?
 AISWEEP-END -->
-Can Sanskrit build larger forms without blurring the lower levels — the sonomer still visible inside the atom, the atom inside the molecule, the molecule inside the **पदम् (*padam*)**, and the *padam* inside the **वाक्यम् (*vākyam*)**?
+One test of engineering is: can Sanskrit build larger forms without blurring the lower levels — the sonomer still visible inside the atom, the atom inside the molecule, the molecule inside the **पदम् (*padam*)**, and the *padam* inside the **वाक्यम् (*vākyam*)**?
 
 That is **assembly without blur**.
 
 <!-- AISWEEP-OLD
 The epigraph describes the problem in Vedic form. The working sense is direct: the *ṛks* stand in the imperishable highest space, where the devas are seated. What will one who does not know that do with the *ṛc*? Those who know it gather here.[NOTE: rigveda-1-164-39-akshara-assembly]
 AISWEEP-END -->
-The epigraph describes the problem in Vedic form: the *ṛks* stand in the imperishable highest space, where the devas are seated. What will one who does not know that do with the *ṛc*? Those who know it gather here.[NOTE: rigveda-1-164-39-akshara-assembly]
+The epigraph confirms the architecture in a Vedic form: the *ṛks* reside in the **अक्षर (*akṣara*)** — the imperishable syllable, the highest heaven — where the devas are seated. What will one who does not know that do with the *ṛc*? Those who know it gather here.[NOTE: rigveda-1-164-39-akshara-assembly]
 
 The verse does more than a grammar manual could do. It places the reader inside the relation under study: a completed utterance depends on the recoverable structure beneath it. The *ṛc* is the assembled utterance. The one who does not know what holds it cannot use it properly.
+
+<!-- AISWEEP-OLD
+The Vedic mantra describes the engineering.
+AISWEEP-END -->
+And what holds it — the *akṣara* — the Veda calls **परमे व्योमन् (*parame vyoman*)**, the highest heaven: the supreme ground is the **lower fractal** scale, found by going down, not up.
 
 <!-- AISWEEP-OLD
 The verse itself already shows sentence assembly. It carries a locative field — **अक्षरे परमे व्योमन् (*akṣare parame vyoman*)**. It carries a relative enclosure — **यस्मिन् (*yasmin*)**. It carries knowledge and non-knowledge — **वेद (*veda*)**, **न (*na*)**. It carries an instrumental relation — **ऋचा (*ṛcā*)**. It carries future action — **करिष्यति (*kariṣyati*)**, from the same कृ (*kṛ*) atom used below as the flagship.
