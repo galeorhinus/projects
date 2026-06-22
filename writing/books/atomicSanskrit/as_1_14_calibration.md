@@ -81,7 +81,10 @@ Auditure preserves the Vedic corpus as sound. The full calibration matrix contai
 
 शिक्षा (*Śikṣā*) is not a seventh layer. It is the pedagogy that trains the practitioner across all six. It teaches articulation, tone, duration, accent, breath, and sequence. It makes the matrix transmissible.
 
+<!-- AISWEEP-OLD
 The result is not one preservation device but a multi-axis calibration system. The Vedas preserve the corpus. The *Prātiśākhya* preserves phonetic specification. *Vyākaraṇam* preserves generative rule. The *Dhātupāṭha* preserves the semantic-atomic inventory. The *Varṇamālā* preserves the sound grid. *Chandas* preserves metrical integrity. *Śikṣā* trains the human instrument that must carry all six.
+AISWEEP-END -->
+The result is not one preservation device but a multi-axis calibration system: the Vedas hold the corpus, the *Prātiśākhya* the phonetic specification, *Vyākaraṇam* the generative rule, the *Dhātupāṭha* the semantic-atomic inventory, the *Varṇamālā* the sound grid, and *Chandas* the metrical integrity — with *Śikṣā* training the human instrument that has to carry all six.
 
 The six layers operate at six different timescales of correction. Layer 1 corrects within a single performance — the audience hears, the practitioner adjusts. Layer 2 corrects within a single teaching career — the teacher trains the student against the *Prātiśākhya* specification. Layer 3 corrects across many teacher-generations — the *Vyākaraṇam* specification is consulted across the entire teacher-student lineage. Layers 4–5 correct across the architectural span — the *Dhātupāṭha* and *Varṇamālā* specifications operate as the deepest constituent-inventory anchors, consulted when any layer above them has recorded drift. Layer 6 corrects at the integrated-fingerprint level. The matrix is hierarchically nested and temporally graded.
 
@@ -130,7 +133,10 @@ That is why *Chandas* belongs inside the calibration matrix. Meter does more tha
 
 ## 14.5 The Whole Language Carries the Sūtra-Discipline
 
+<!-- AISWEEP-OLD
 The system-scale contrast is now in place. Natural languages standardize by usage: the ***प्रकृति (*prakṛti*)*** category. Codified languages standardize by codification: selected standards held by authority. Sanskrit standardizes by calibration: the ***संस्कृति (*saṃskṛti*)*** category, architecture correcting itself. That is the context for the test below.
+AISWEEP-END -->
+Natural languages standardize by usage: the ***प्रकृति (*prakṛti*)*** category. Codified languages standardize by codification: selected standards held by authority. Sanskrit standardizes by calibration: the ***संस्कृति (*saṃskṛti*)*** category, architecture correcting itself.
 
 Chapter 10 found the same discipline at atomic scale. At system scale, the answer is the language itself. These are relative characteristics. A *sūtra* is compact when measured against a longer exposition; unambiguous when measured against a statement that can be misread; essence-bearing when measured against speech that carries less recoverable meaning. At the system scale, the comparison is between Sanskrit as a calibrated language and ordinary uncalibrated speech carried by habit, local drift, historical residue, and external standardization. Against that comparator, Sanskrit displays the same six characteristics the *sūtra-lakṣaṇam* specifies at the rule scale and Chapter 10 found at the atomic scale.[NOTE: whole-language-sutra-discipline-comparator]
 

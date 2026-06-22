@@ -58,7 +58,7 @@ The de-AI rules live in the user-memory note `feedback_deai_humanize_prose.md` a
 | 12 | as_1_12_building_vakya | Building the *vākya* | 278 | 🟡 FULLY swept (§§12.1–12.10) + chunk-1 metadiscourse re-scan done — pending review; + RV 1.164.39 promoted to top `::: epigraph`. Flagged for author (mild value-frames, not yet changed): §12.1 "The test is simple:" / "The working sense is direct:" |
 | 13 | as_1_13_preservation | Preservation | 163 | 🟡 swept + breathing pass — pending review. 3 metadiscourse fixes + 4 signpost cuts from Gemini review (L16/L23/L42/L124: "is therefore concrete", "first question is categorical", "sharper question is", "pattern is consistent"). Deliberate hammers/triads PROTECTED (Gemini's de-hammering rejected) |
 | **V** | as_part_05_anti_entropy_practice | Part V opener | 15 | ➖ |
-| 14 | as_1_14_calibration | Calibration | 204 | 🟡 fully swept (single pass) — pending review; 4 fixes (3 importance-assertions L51/L177 + "even more important" L56; 1 names-verb "rules named the procedure"→"formalized" L204). Strong polemic; deliberate triads/layer-recaps left intact |
+| 14 | as_1_14_calibration | Calibration | 204 | 🟡 swept + breathing pass — pending review. 4 sweep fixes + 2 breathing (L84 6× "The X preserves Y" recap fused to one flowing sentence; L133 dropped "system-scale contrast is now in place"/"context for the test below" signposts, triad kept). Deliberate triads protected |
 | 15 | as_1_15_aural | Aural | 101 | ⬜ |
 | 16 | as_1_16_retroflex | Retroflex | 173 | ⬜ |
 | **VI** | as_part_06_killing_pie | Part VI opener | 15 | ➖ |
