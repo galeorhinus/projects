@@ -121,7 +121,7 @@ The pyramid's speculation is not neutral reason correcting the Hindu continuum. 
 <!-- AISWEEP-OLD
 The same machinery that calls Hindu civilizational memory "story" asks the world to treat its own constructed ancestor as science. That asymmetry is the point. Sanskrit, preserved in sound and use, was declared dead.
 AISWEEP-END -->
-The same machinery that calls Hindu civilizational memory "story" asks the world to treat its own constructed ancestor as science. Sanskrit, preserved in sound and use, was declared dead. PIE, preserved nowhere, recited nowhere, spoken by no known community, was granted ancestral life.
+The same machinery that calls Hindu civilizational memory "mythology" asks the world to treat its own constructed ancestor as science. Sanskrit, preserved in sound and use, was declared dead. PIE, preserved nowhere, recited nowhere, spoken by no known community, was granted ancestral life.
 
 That is the inversion. The speculation is not absent. It is wearing the robes of the ***priests of progress***, defended by its ***jihadis of progress***, exported by its ***missionaries of progress*** — the ***church of progress*** operating in *asuric* mode (Chapter 3 §3.6).
 
