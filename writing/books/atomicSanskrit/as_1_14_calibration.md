@@ -118,7 +118,7 @@ The modern world calls this the Fibonacci sequence. Sanskrit prosody reaches it 
 
 The recurrence is direct once the metrical problem is visible. Every valid pattern of *n* *mātrās* ends in one of two ways. If it ends in *laghu*, the preceding part must fill *n − 1* *mātrās*. If it ends in *guru*, the preceding part must fill *n − 2* *mātrās*. The count for *n* therefore comes from the two counts before it. The mathematics follows the meter.
 
-*Chandas* treats meter as discovered architecture. The discipline reveals the valid forms, counts their possibilities, names their patterns, and trains poets and reciters to hold them. Grammar is decoded. The mouth is mapped. Meter is measured and discovered. In each case, Sanskrit's disciplines begin from architecture, not authority.
+*Chandas* treats meter as discovered architecture. The discipline reveals the valid forms, counts their possibilities, charts their patterns, and trains poets and reciters to hold them. Grammar is decoded. The mouth is mapped. Meter is measured and discovered. In each case, Sanskrit's disciplines begin from architecture, not authority.
 
 That is why *Chandas* belongs inside the calibration matrix. Meter does more than beautify a verse. It defines what a valid timed form can be, gives the poet a design space, gives the reciter a checksum, and gives the listener a way to hear drift. Poetry, mathematics, and preservation meet in the same measured line.
 

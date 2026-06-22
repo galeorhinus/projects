@@ -86,7 +86,7 @@ Sanskrit was not codified. It was engineered. *Apabhraṃśa* is what the system
 
 ## 6.5 Engineered Against Entropy
 
-Modern thermodynamics gives the physical tendency a name: entropy. Organized systems drift toward disorder when not actively constrained. Patañjali names the linguistic analogue: speech falls away unless an architecture holds it. Naming the tendency is not the engineering response. It is the diagnosis that prepares the response.
+Modern thermodynamics gives the physical tendency a name: entropy. Organized systems drift toward disorder when not actively constrained. Patañjali identifies the linguistic analogue: speech falls away unless an architecture holds it. Identifying the tendency is not the engineering response. It is the diagnosis that prepares the response.
 
 The response is the grammatical and recitational architecture. The *Aṣṭādhyāyī* specifies the rules. The *Vārttikāni* refine them. The *Mahābhāṣya* defends them. The **षड्वेदाङ्गानि (*ṣaḍ-vedāṅgāni*)** — *Śikṣā*, *Vyākaraṇa*, *Nirukta*, *Kalpa*, *Chandas*, *Jyotiṣa* — hold the auxiliary layers. The *Prātiśākhya* texts specify phonetic detail by recension. The *padapāṭha* decomposes the text into words; the *krama*, *jaṭā*, and *ghana* recitations re-encode that decomposition under stronger combinatorial constraints. Chapter 14 develops the full calibration matrix. Here the point is simpler: every layer exists because entropy is real.
 

@@ -114,7 +114,7 @@ That placement commits the discipline. The grammarian's task is not to record wh
 
 This is why the dogma's *codification* vocabulary fails. Codification imagines drift first and order later. Patañjali gives the opposite: established bond first, grammatical defense afterward. There is no transition from disorder to order. There is order, and there are fallings-away from order.
 
-Patañjali, the canonical commentator on the canonical grammar, names the bond as *siddha*. The engineering conclusion follows: grammar calibrates usage against an established architecture.
+Patañjali, the canonical commentator on the canonical grammar, calls the bond *siddha*. The engineering conclusion follows: grammar calibrates usage against an established architecture.
 
 ## 5.5 Sanskrit Begins from Permanence
 

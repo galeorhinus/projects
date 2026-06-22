@@ -187,7 +187,7 @@ Deccan College made a choice in 1948. It can make a different choice today.
 
 The Deccan College dictionary is one institution. BORI, the *Linguistic Survey of India*'s descendants, the Archaeological Survey of India, the history departments — all of them face the same choice. All of them assembled, across decades, the raw data of a decentralized, engineered civilization. All of them processed it through the centralized, evolutionary algorithms of their predecessors. The choice was made and re-made.
 
-The institutional posture is itself **जड (*jaḍa*)** — the Sanskrit term Chapter 5 §5.6 introduced for *inert*, *lifeless-matter*, *dull-minded*, *cold-and-heavy*. The Sanskrit that names this property precisely is the very Sanskrit the framework refuses to recognize as engineered.
+The institutional posture is itself **जड (*jaḍa*)** — the Sanskrit term Chapter 5 §5.6 introduced for *inert*, *lifeless-matter*, *dull-minded*, *cold-and-heavy*. The Sanskrit that captures this property precisely is the very Sanskrit the framework refuses to recognize as engineered.
 
 The remedy is in the lineage-chain's own opening invocation. The **सरस्वती वन्दना (*Sarasvatī Vandanā*)** — the prayer Sanskrit students have recited before beginning study for thousands of years — closes on the epithet **निःशेषजाड्यापहा (*niḥśeṣa-jāḍyāpahā*)**, *the remover of all jāḍya*. The institutions catalog the language whose opening prayer carries their cure.
 

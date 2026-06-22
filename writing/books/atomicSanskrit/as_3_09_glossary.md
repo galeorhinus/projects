@@ -66,7 +66,7 @@ The glossary is organized in three groups:
 
 ### **dhāturacanā** (धातुरचना)
 
-**Book-coined compound, in the specific technical sense used here.** *Dhātu* + *racanā* is morphologically valid Sanskrit (a standard *tatpuruṣa samāsa*) but naming the *abstract phonetic scaffold that a dhātuḥ fills* — the C / V1 / V2 timing-aware shape that classifies the 2,168-entry *Dhātupāṭha* into 47 observed scaffolds — is the book's coinage. A reader checking Monier-Williams for *dhāturacanā* will not find this exact technical sense; the term is constructed for this book's analytical framework.
+**Book-coined compound, in the specific technical sense used here.** *Dhātu* + *racanā* is morphologically valid Sanskrit (a standard *tatpuruṣa samāsa*) but using it for the *abstract phonetic scaffold that a dhātuḥ fills* — the C / V1 / V2 timing-aware shape that classifies the 2,168-entry *Dhātupāṭha* into 47 observed scaffolds — is the book's coinage. A reader checking Monier-Williams for *dhāturacanā* will not find this exact technical sense; the term is constructed for this book's analytical framework.
 
 **English pair**: *atomic scaffold*.
 
@@ -80,7 +80,7 @@ The glossary is organized in three groups:
 
 ### **upasarga** (उपसर्ग) / **upasargāḥ** (उपसर्गाः)
 
-**Standard.** The 22 directional / aspectual prefix-particles that bond with *dhātavaḥ* in derivation. Pāṇini A.1.4.59 names them collectively; the canonical list (*pra, parā, apa, sam, anu, ava, niḥ, duḥ, vi, ā, ni, adhi, api, ati, su, ud, abhi, prati, pari, upa* + two contested forms) is fixed.
+**Standard.** The 22 directional / aspectual prefix-particles that bond with *dhātavaḥ* in derivation. Pāṇini A.1.4.59 lists them collectively; the canonical list (*pra, parā, apa, sam, anu, ava, niḥ, duḥ, vi, ā, ni, adhi, api, ati, su, ud, abhi, prati, pari, upa* + two contested forms) is fixed.
 
 **English pair**: *preverb*. In the chemistry idiom: *head-bond* (Chapter 12 vocabulary stack).
 
@@ -94,7 +94,7 @@ The glossary is organized in three groups:
 
 **Book-coined English (repurposed from chemistry).** The book's English name for *dhātuḥ*. Reframes Sanskrit's foundational semantic constituent through the atomic analogue: atoms hold identity through bonding, generate molecular lexical forms combinatorially, and arrange in patterned distributions rather than random scatter.
 
-The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack is: *varṇa* / sonomer / particle → *dhātuḥ* / atom → *śabda* / molecule, with *upasarga* + *pratyaya* as the bonding procedure and *racanā* as the structural scaffold.
+The book's title — ***Atomic Sanskrit*** — captures this thesis. The full stack is: *varṇa* / sonomer / particle → *dhātuḥ* / atom → *śabda* / molecule, with *upasarga* + *pratyaya* as the bonding procedure and *racanā* as the structural scaffold.
 
 **Sanskrit pair**: *dhātuḥ* / *dhātavaḥ*.
 
@@ -130,7 +130,7 @@ The book's title — ***Atomic Sanskrit*** — names this thesis. The full stack
 
 **Standard English, book-repurposed.** A pattern whose design law recurs across scale. In this book, *fractal* does not mean strict mathematical infinite self-similarity. It means scale-recurring architecture: the same engineering logic appearing from mouth to language — mouth, sonomer, *akṣara*, *dhātuḥ*, *kriyāpada*, *śabda*, *vākya*, *sūtra*, recitation, and calibration-matrix scale.
 
-**Use in book**: The front matter names the distinction between natural fractal, balanced civilizational fractal, and distorted civilizational fractal. Chapter 10 is the technical spine: it tests whether the *dhātuḥ* displays the same *lakṣaṇāni* an engineered *sūtra* displays. Chapters 18–19 use the contrast between flat PIE chronology and scale-recurring Sanskrit architecture.
+**Use in book**: The front matter lays out the distinction between natural fractal, balanced civilizational fractal, and distorted civilizational fractal. Chapter 10 is the technical spine: it tests whether the *dhātuḥ* displays the same *lakṣaṇāni* an engineered *sūtra* displays. Chapters 18–19 use the contrast between flat PIE chronology and scale-recurring Sanskrit architecture.
 
 ### **Fractal Corollary**
 
@@ -300,7 +300,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **fourth Abrahamic religion**
 
-**Book-coined cluster.** The genealogical indictment naming the deeper Abrahamic structure of the church of progress: a successor formation that inherits the Abrahamic claim-to-singular-truth without naming itself religious. Deploy sparingly. Chapter 4 establishes.
+**Book-coined cluster.** The genealogical indictment of the deeper Abrahamic structure of the church of progress: a successor formation that inherits the Abrahamic claim-to-singular-truth without calling itself religious. Deploy sparingly. Chapter 4 establishes.
 
 ### **asuric pyramid**
 

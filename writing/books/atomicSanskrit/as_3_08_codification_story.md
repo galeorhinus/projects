@@ -317,7 +317,7 @@ The difference is decisive.
 
 Across the pyramid's own timeline, English becomes another language to the ordinary reader. Sanskrit remains Sanskrit. That does not prove absence of variation. It proves a different kind of system: not uncontrolled drift, but architecture held inside calibration.
 
-The exercise also clarifies what the codification story would have to show. Differences between Vedic and later Sanskrit are obvious — naming them is not the test. The test is whether those differences carry the same signature English displays: cascading loss of architecture, ordinary-reader unrecognizability, inflectional collapse, scholarly reconstruction. The Sanskrit evidence shows none of that. It shows mode-difference, metrical tooling, and preserved architecture. The English comparison is the control case.
+The exercise also clarifies what the codification story would have to show. Differences between Vedic and later Sanskrit are obvious — listing them is not the test. The test is whether those differences carry the same signature English displays: cascading loss of architecture, ordinary-reader unrecognizability, inflectional collapse, scholarly reconstruction. The Sanskrit evidence shows none of that. It shows mode-difference, metrical tooling, and preserved architecture. The English comparison is the control case.
 
 Old English became modern English through natural drift, conquest, sound change, inflectional loss, lexical replacement, spelling standardization, and authority-based correction. *Beowulf* now needs translation. Sanskrit moved through *chandas* and *bhāṣā*, *śruti* and *smṛti*, *apabhraṃśa* around it and calibration inside it. The two histories are not the same kind of event.
 

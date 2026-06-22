@@ -28,7 +28,7 @@ At the opening of Part I, the pyramid still stands whole. The first three obstru
 
 The Sun is Sanskrit: the architecture of सनातन संस्कृति (*sanātana saṃskṛti*), the engineered order. Distributed, measured, preserved, and self-calibrated, it holds speech, memory, and civilization without apex command. It does not descend. It does not drift. It does not decay. It is the light the world was trained not to see.
 
-What darkens it is the asuric pyramid: the विकृति (*vikṛti*) fractal, a top-down order that repeats itself at every level of its hierarchy. Threatened by distributed order, it corrupts networks into hierarchies, freezes living architecture into dead doctrine, and withholds knowledge to keep others in darkness. The oldest record names the eclipse स्वर्भानु (*Svarbhānu*) — and his name carries the very *svar*, the light, he sets out to swallow.[NOTE: svarbhanu-svar-etymology] The Sun is darkened, not destroyed.
+What darkens it is the asuric pyramid: the विकृति (*vikṛti*) fractal, a top-down order that repeats itself at every level of its hierarchy. Threatened by distributed order, it corrupts networks into hierarchies, freezes living architecture into dead doctrine, and withholds knowledge to keep others in darkness. The oldest record calls the eclipse स्वर्भानु (*Svarbhānu*) — and his name carries the very *svar*, the light, he sets out to swallow.[NOTE: svarbhanu-svar-etymology] The Sun is darkened, not destroyed.
 
 The shadow is cast by category theft: theft by misclassification, inversion by metaphor, subordination by genealogy, containment by doctrine.
 

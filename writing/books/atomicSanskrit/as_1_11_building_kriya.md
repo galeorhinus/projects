@@ -96,7 +96,7 @@ The Vedic corpus already displays these operations. The figures only make the im
 
 These are the operations Pāṇini later documented. He gives them names: गणः (*gaṇaḥ*), विकरणम् (*vikaraṇam*), तिङ्-प्रत्ययः (*tiṅ-pratyayaḥ*), अनुबन्धः (*anubandhaḥ*). The same process can now be stated in Pāṇini's terminology.
 
-Chapter 13 §13.5 develops the larger calibration principle. Here the procedural point is enough: the Vedic corpus already carries working *kriyāpadāni* before Pāṇini names the operations. The Veda preserves the form as performed. Pāṇini preserves the form as derivable.
+Chapter 13 §13.5 develops the larger calibration principle. Here the procedural point is enough: the Vedic corpus already carries working *kriyāpadāni* before Pāṇini documents the operations. The Veda preserves the form as performed. Pāṇini preserves the form as derivable.
 
 ## 11.3 Pāṇini's Notation Layer
 
@@ -141,7 +141,7 @@ The sequence is straightforward:
 
 The five Vedic examples can now be read in Pāṇini's notation layer.
 
-**इ (*i*) → एति (*eti*).** In Pāṇini's naming, this belongs in the *adādi* class. The visible operation is transformation: इ (*i*) appears as ए (*e*). The *tiṅ* ending तिप् (*tip*) contributes ति (*ti*). The molecule is एति (*eti*).
+**इ (*i*) → एति (*eti*).** In Pāṇini's terminology, this belongs in the *adādi* class. The visible operation is transformation: इ (*i*) appears as ए (*e*). The *tiṅ* ending तिप् (*tip*) contributes ति (*ti*). The molecule is एति (*eti*).
 
 ![Pāṇinian notation layer: इ (*i*) becomes एति (*eti*).](figures/building_kriya/panini_eti.svg){#fig:building-kriya-panini-eti width=75%}
 
@@ -278,11 +278,11 @@ The distribution matters because the procedure is already visible.
 | Top 100 | **67.5%** |
 | Top 500 | **94.0%** |
 
-The similarity with living languages comes first. Natural languages also show rank-frequency concentration, often called Zipf-like behavior: a small high-use core carries much of actual speech, while a long tail remains available for rare or specialized use. English leans heavily on *be*, *have*, *do*, *go*, and *make*. Sanskrit shows the same surface behavior in *prayoga*, and that is expected. The *dhātavaḥ* are fixed as calibrated atoms, but their deployment was never frozen.
+Sanskrit's similarity with natural languages is evident in this distribution. Natural languages also show rank-frequency concentration, often called Zipf-like behavior: a small high-use core carries much of actual speech, while a long tail remains available for rare or specialized use. English leans heavily on *be*, *have*, *do*, *go*, and *make*. Sanskrit shows the same surface behavior in *prayoga*, and that is expected. The *dhātavaḥ* are fixed as calibrated atoms, but their deployment was never frozen.
 
-By itself, frequency concentration shows only that Sanskrit behaves like usable speech, not like a dead code.
+By itself, frequency concentration shows what is expected of any natural language.  The similarity is not surprising.
 
-Sanskrit is different because its concentration is coupled to architecture.[NOTE: productivity-inversion-natural-language]
+What makes Sanskrit is different is that its concentration is coupled to the architecture.[NOTE: productivity-inversion-natural-language]
 
 | Natural-language pattern | Sanskrit pattern |
 |---|---|
@@ -297,7 +297,7 @@ The higher the yield, the smaller the atom.
 
 The numbers confirm the procedure already visible: compact atoms carry wider bonding reach.
 
-The similarity shows that Sanskrit behaves like a natural language. The persistent sonomeric procedure shows engineered language.
+The similarity shows that Sanskrit behaves like a natural language. The persistent sonomeric procedure displays the qualities of an engineered language.
 
 ## 11.7 Hyper-Reactive Atoms
 
