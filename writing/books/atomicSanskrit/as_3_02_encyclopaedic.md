@@ -80,7 +80,7 @@ Endorsement comes from **A.L. Basham** — author of *The Wonder That Was India*
 
 A second methodological problem follows from the first. *Historical principles* needs dates. For English, Old / Middle / Modern English dates exist in the natural-historical record. For Sanskrit, no internal chronology exists. The *Vedas*, the *Aṣṭādhyāyī*, the *Mahābhāṣya*, and the *Vedāṅga* infrastructure are not dated by their own authors or by the **परम्परा (*paramparā*)** — the lineage-chain and transmission architecture — that transmits them. *Kālacakra* is integral and cyclical; chronological dating is not how the civilization organizes itself.
 
-So the *progressive dogma* supplies dates from outside. The corpus is described as covering — in the project's own dating — *Ṛgveda* around 1400 BCE; Pāṇini around 500 BCE; Patañjali in the second century BCE. These are framework dates, not text-given dates. The dictionary embeds them in every slip. Each entry records the *"date of the text"* alongside the vocable. The dates appear to a reader as facts. They are framework-internal calibrations. Using framework-assigned dates as evidence for the framework is circular.
+So the *progressive dogma* supplies dates from outside. The corpus is described as covering — in the project's own dating — *Ṛgveda* around 1400 BCE; Pāṇini around 500 BCE; Patañjali in the second century BCE. These are framework dates, not text-given dates. The dictionary embeds them in every slip. Each entry records the *"date of the text"* alongside the vocable. The dates appear to a reader as facts. They are chronology capture: the framework's own numbers, presented as findings. Using framework-assigned dates as evidence for the framework is circular.
 
 That is circularity with a Scriptorium.
 
@@ -163,7 +163,10 @@ The same corpus, engaged through the Patañjalian frame the data has been confir
 AISWEEP-END -->
 The same corpus, set inside Sanskrit's own framework, becomes direct evidence for the engineered Sanskrit thesis — the very thesis the data has been confirming all along. The three layers §2.5 separated each carry the proof. Seen through Patañjali's *apabhraṃśa*: the variant forms the project catalogued map exactly where speech drifted against the engineered standard. Seen through Pāṇini: the new technical vocabulary the project recorded across the centuries — Buddhist literature, *Navya-Nyāya* logic, *Jyotiṣa* astronomy, *Rasaśāstra* alchemy, mediaeval commentary — is the *kṛt* / *taddhita* / *samāsa* engine running, producing new words on demand. Seen through the calibrant frame: the meaning-shifts of *yantra*, *dharma*, and *brahman* are the architecture stretching its reach while the spoken form holds unbroken. The same data; a different account.
 
+<!-- AISWEEP-OLD
 The imposed chronology can be set aside. The BCE/CE dates — *Ṛgveda* around 1400 BCE, Pāṇini around 500 BCE, Patañjali in the second century BCE — were imposed so the method could run. They are framework-internal calibrations.
+AISWEEP-END -->
+The imposed chronology can be set aside. The BCE/CE dates — *Ṛgveda* around 1400 BCE, Pāṇini around 500 BCE, Patañjali in the second century BCE — are not findings about the texts. They are chronology capture: a beginningless architecture forced into the pyramid's clock so it can be sequenced, ranked, and subordinated.
 
 Relative chronology can replace them. Patañjali's *Mahābhāṣya* cites the *Aṣṭādhyāyī*; the *Vārttikāni* comment on Pāṇini and are themselves cited by Patañjali; Yāska's *Nirukta* references earlier Vedic frameworks and is cited by later commentators. Sort the texts by the cross-references they themselves carry — *after* the *Aṣṭādhyāyī*, *before* the *Kāśikāvṛtti*, *contemporaneous with* a named commentator. Texts that cannot anchor remain unanchored. An honest orphan is better than a fabricated date.
 
@@ -173,7 +176,7 @@ Relative chronology can replace them. Patañjali's *Mahābhāṣya* cites the *A
 |---|---|
 | Operates on the *kārya* axiom — the bond between word and meaning is produced, contingent, renegotiated across time. | Operates on the *siddha* axiom Patañjali establishes (*siddhe śabdārthasambandhe*; Chapter 4 §4.2) — the bond is established. |
 | Applies the *OED*'s *historical principles* to Sanskrit, treating it as a natural-historical language whose forms changed over time. | Applies the Patañjalian specification methodology — Sanskrit as an engineered system whose specification holds while attested usage drifts. |
-| Imposes BCE/CE chronology on Indic texts so the method can run. | Uses relative chronology from the cross-references the texts themselves carry. Accepts orphans where evidence is indeterminate. |
+| Imposes BCE/CE chronology the texts themselves do not carry — chronology capture. | Uses relative chronology from the cross-references the texts themselves carry. Accepts orphans where evidence is indeterminate. |
 | Catalogues variants as evidence of *"linguistic development"* — stages of evolution in a natural-historical language. | Catalogues the same variants as documented *apabhraṃśa* — Patañjali's *gauḥ* example, scaled across the corpus. |
 | Catalogues new technical vocabulary as *"semantic development of Sanskrit."* | Catalogues the same vocabulary as the generative output of the *kṛt* / *taddhita* / *samāsa* framework — the engine running, the specification unchanged. |
 | Groups Sanskrit with the natural-historical European languages the OED method was built for. | Groups Sanskrit with the world's engineered-preservation systems — Masoretic Hebrew, Quranic Arabic, ecclesiastical Latin — that the church of progress already recognizes as engineered. |
