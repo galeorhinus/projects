@@ -7,10 +7,11 @@ Phases (run any one, or `all` for the full pipeline):
   assemble — concatenate all chapter files into build/atomic_sanskrit.md
   pdf      — render the assembled markdown to PDF via pandoc + xelatex
   all      — run stubs → assemble → pdf (default)
-  dossier  — build the companion Source & Verification Dossier PDF
-             (the full long-form endnotes as a standalone artifact;
-             reads as_dossier_front.md and as_dossier.yaml; emits
-             build/atomic_sanskrit_dossier.{layout}.pdf)
+  reference — build the Source and Reference Companion PDF
+              (technical appendices + full long-form endnotes;
+              reads as_dossier_front.md and as_dossier.yaml; emits
+             build/atomic_sanskrit_reference.{layout}.pdf)
+  dossier  — compatibility alias for `reference`
 
 Usage:
   python3 build_book.py                              # full pipeline (default layout)
@@ -22,8 +23,9 @@ Usage:
   python3 build_book.py pdf --layout trade           # true 6×9 trim size
   python3 build_book.py pdf --layout phone           # 3×6 phone-reading trim
   python3 build_book.py pdf --endnotes short         # short-form endnotes (printed-book mode)
-  python3 build_book.py pdf --endnotes full          # full-form endnotes (default — dossier-grade)
-  python3 build_book.py dossier --layout trade       # companion dossier as standalone PDF
+  python3 build_book.py pdf --endnotes full          # full-form endnotes (default — reference-grade)
+  python3 build_book.py reference --layout trade     # Source and Reference Companion as standalone PDF
+  python3 build_book.py dossier --layout trade       # compatibility alias
 
 Layouts:
   letter           8.5×11 paper, 1in margins. Manuscript review.
@@ -34,7 +36,7 @@ Layouts:
 
 Endnote modes:
   full             Emits the complete long-form body of each entry from
-                   as_endnotes.md (default). Dossier-grade content.
+                   as_endnotes.md (default). Reference-grade content.
   short            Emits only the one-sentence **Short:** field per entry,
                    for the printed-book apparatus. Falls back to full body
                    when the Short field is missing or carries a [TBD: ...]
@@ -64,6 +66,7 @@ BUILD_DIR = BOOK_DIR / "build"
 METADATA_FILE = BOOK_DIR / "as_book.yaml"
 DOSSIER_METADATA_FILE = BOOK_DIR / "as_dossier.yaml"
 DOSSIER_FRONT_FILE = BOOK_DIR / "as_dossier_front.md"
+REFERENCE_APPENDIX_GLOB = "as_reference_*.md"
 PREAMBLE_TEMPLATE = BOOK_DIR / "templates" / "devanagari-preamble.tex.in"
 
 # Make sure common macOS TeX install locations are in PATH — some shells
@@ -258,7 +261,7 @@ TODO_STUB_LINE_RE = re.compile(
 def load_drafted_endnotes(mode: str = "full") -> dict[str, str]:
     """Parse as_endnotes.md and return { stub-name: drafted prose }.
 
-    mode='full'  — return the entire entry body (default; dossier-grade).
+    mode='full'  — return the entire entry body (default; reference-grade).
     mode='short' — return only the content of the **Short:** field per entry.
                    Falls back to the full body when the Short field is
                    missing or carries a [TBD: ...] placeholder, so the
@@ -322,7 +325,7 @@ def render_unified_endnotes(notes: list[tuple[int, str]], mode: str = "full") ->
             f"({len(notes)} total). Each entry carries the **short form** — the "
             f"one-sentence editorial compression of the source citation. The "
             f"full long-form citation, verification trail, and source-history "
-            f"discussion live in the companion* Source & Verification Dossier. "
+            f"discussion lives in the *Source and Reference Companion*. "
             f"*The numbered references in the body of the book — the **[N]** "
             f"superscripts — point here.*"
         )
@@ -691,17 +694,29 @@ def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full") -> int:
     return 0
 
 
-def cmd_dossier(layout: str = "letter") -> int:
-    """Build the companion Source & Verification Dossier as a standalone PDF.
+def section_join(sections: list[str]) -> list[str]:
+    if not sections:
+        return []
+    joined: list[str] = []
+    for section in sections:
+        if not section.strip():
+            continue
+        joined.extend([section.rstrip(), ""])
+    return joined
 
-    Reads three sources:
+
+def cmd_dossier(layout: str = "letter") -> int:
+    """Build the Source and Reference Companion as a standalone PDF.
+
+    Reads four sources:
       - as_dossier_front.md  — front matter prose (preface + navigation)
+      - as_reference_*.md    — reference-only technical appendices
       - as_endnotes.md       — endnote entries in their topical-cluster order
-      - as_dossier.yaml      — dossier-specific pandoc metadata (title, etc.)
+      - as_dossier.yaml      — companion-specific pandoc metadata (title, etc.)
 
     Promotes the entry headings from ### (subsection) to ## (section) so the
     PDF hierarchy under the Endnotes chapter is clean. Writes
-    build/atomic_sanskrit_dossier.md and renders the PDF.
+    build/atomic_sanskrit_reference.md and renders the PDF.
     """
     BUILD_DIR.mkdir(exist_ok=True)
     if not DOSSIER_FRONT_FILE.exists():
@@ -716,10 +731,12 @@ def cmd_dossier(layout: str = "letter") -> int:
         return 1
 
     front = DOSSIER_FRONT_FILE.read_text().rstrip()
+    reference_files = sorted(BOOK_DIR.glob(REFERENCE_APPENDIX_GLOB))
+    reference_sections = [path.read_text().rstrip() for path in reference_files]
 
     # Read endnotes source as-is, then strip its existing top-line header note
     # (the `# Atomic Sanskrit — Endnotes (Expanded Prose)` heading and the
-    # status blockquote that follows it) so the dossier's own front matter
+    # status blockquote that follows it) so the companion's own front matter
     # supplies the opening. Everything from the first `### \`stub\`` onward
     # is the entry corpus.
     endnotes_raw = endnotes_path.read_text()
@@ -743,6 +760,7 @@ def cmd_dossier(layout: str = "letter") -> int:
     assembled = "\n".join([
         front,
         "",
+        *section_join(reference_sections),
         "# Endnotes",
         "",
         entries_body.rstrip(),
@@ -753,11 +771,11 @@ def cmd_dossier(layout: str = "letter") -> int:
     assembled = wrap_scripts_for_latex(assembled)
 
     layout_suffix = "" if layout == "letter" else f".{layout}"
-    md_path = BUILD_DIR / "atomic_sanskrit_dossier.md"
-    pdf_path = BUILD_DIR / f"atomic_sanskrit_dossier{layout_suffix}.pdf"
+    md_path = BUILD_DIR / "atomic_sanskrit_reference.md"
+    pdf_path = BUILD_DIR / f"atomic_sanskrit_reference{layout_suffix}.pdf"
     md_path.write_text(assembled)
     word_count = len(assembled.split())
-    print(f"Assembled dossier → {md_path.relative_to(BOOK_DIR)} ({word_count:,} words)")
+    print(f"Assembled companion → {md_path.relative_to(BOOK_DIR)} ({word_count:,} words)")
 
     if not have("pandoc"):
         print("pandoc not found. Install via: brew install pandoc", file=sys.stderr)
@@ -767,7 +785,7 @@ def cmd_dossier(layout: str = "letter") -> int:
         return 1
 
     # Same Devanagari-preamble template substitution as cmd_pdf, but using
-    # the dossier's font name (which currently matches the book's; the
+    # the companion's font name (which currently matches the book's; the
     # template substitution still goes through so the two pipelines are
     # symmetric).
     devanagari_font = read_yaml_value(DOSSIER_METADATA_FILE, "devanagarifont")
@@ -786,16 +804,16 @@ def cmd_dossier(layout: str = "letter") -> int:
         "-H", str(generated_preamble),
     ]
 
-    print(f"Rendering dossier PDF (layout={layout}, this may take a minute)...")
+    print(f"Rendering companion PDF (layout={layout}, this may take a minute)...")
     result = subprocess.run(cmd, capture_output=True, text=True)
     if result.returncode != 0:
-        print("Dossier PDF rendering FAILED. pandoc stderr:\n", file=sys.stderr)
+        print("Companion PDF rendering FAILED. pandoc stderr:\n", file=sys.stderr)
         print(result.stderr, file=sys.stderr)
         return result.returncode
     if result.stderr.strip():
         print("pandoc warnings:")
         print(result.stderr[:1000])
-    print(f"Dossier PDF rendered → {pdf_path.relative_to(BOOK_DIR)}")
+    print(f"Companion PDF rendered → {pdf_path.relative_to(BOOK_DIR)}")
     return 0
 
 
@@ -807,11 +825,12 @@ def main() -> int:
     )
     parser.add_argument(
         "phase",
-        choices=["stubs", "assemble", "pdf", "all", "dossier"],
+        choices=["stubs", "assemble", "pdf", "all", "reference", "dossier"],
         nargs="?",
         default="all",
-        help="Pipeline phase to run (default: all). 'dossier' builds the companion "
-             "Source & Verification Dossier as a standalone PDF.",
+        help="Pipeline phase to run (default: all). 'reference' builds the "
+             "Source and Reference Companion as a standalone PDF; 'dossier' is "
+             "a compatibility alias.",
     )
     parser.add_argument("--force", action="store_true", help="Overwrite existing stub files")
     parser.add_argument(
@@ -826,7 +845,7 @@ def main() -> int:
         default="full",
         help="Endnote rendering mode (default: full). 'short' emits the one-sentence "
              "Short field from as_endnotes.md per entry, for the printed-book apparatus; "
-             "'full' emits the complete long-form body per entry, for the dossier. "
+             "'full' emits the complete long-form body per entry, for the companion. "
              "Output filenames are suffixed with .short in short mode so the two "
              "variants coexist.",
     )
@@ -838,7 +857,7 @@ def main() -> int:
         return cmd_assemble(endnotes_mode=args.endnotes)
     if args.phase == "pdf":
         return cmd_pdf(layout=args.layout, endnotes_mode=args.endnotes)
-    if args.phase == "dossier":
+    if args.phase in {"reference", "dossier"}:
         return cmd_dossier(layout=args.layout)
     # all
     if (rc := cmd_stubs(force=args.force)) != 0:

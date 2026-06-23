@@ -6,7 +6,7 @@
 
 ## The architecture in one paragraph
 
-Every endnote entry in `as_endnotes.md` carries **two forms** in the same file: a one-sentence **Short** form for the printed book, and the **long-form body** for the dossier (planned separate free PDF / web artifact). The Short form is tagged with a parseable `**Short:**` field on the line directly after the `### \`stub-name\`` heading; the long form follows below it. Single source of truth, no parallel versions to drift, build pipeline projects either form when needed.
+Every endnote entry in `as_endnotes.md` carries **two forms** in the same file: a one-sentence **Short** form for the printed book, and the **long-form body** for the companion (planned separate free PDF / web artifact). The Short form is tagged with a parseable `**Short:**` field on the line directly after the `### \`stub-name\`` heading; the long form follows below it. Single source of truth, no parallel versions to drift, build pipeline projects either form when needed.
 
 ```markdown
 ### `stub-name`
@@ -26,11 +26,11 @@ Every endnote entry in `as_endnotes.md` carries **two forms** in the same file: 
 
 When chapter prose adds a `[NOTE: stub-name]` marker, the corresponding entry in `as_endnotes.md` gets **both fields authored together**.
 
-1. **Pick a stub name.** Lowercase-hyphenated, stable, public-facing-friendly (the stub-name becomes a durable identifier in the dossier). Examples: `bopp-1816-conjugationssystem`, `eleven-pathas`, `samskrtam-morphology`.
+1. **Pick a stub name.** Lowercase-hyphenated, stable, public-facing-friendly (the stub-name becomes a durable identifier in the companion). Examples: `bopp-1816-conjugationssystem`, `eleven-pathas`, `samskrtam-morphology`.
 2. **Insert the entry alphabetically-by-topic or at the natural deployment-grouped position** in `as_endnotes.md` (the file is organized by topic-cluster, not strict alphabetical — match the surrounding context).
 3. **Author the Short field at draft time.** One sentence ending in a period. Ask: *what does the printed-book reader need from this note?* Pair Sanskrit terms with Devanāgarī on first use per CLAUDE.md voice convention.
 4. **Author the Deployments line.** `Chapter N §N.M ¶ — short description of what the note anchors at this deployment.` Multiple deployments listed semicolon-separated.
-5. **Author the long-form body.** Whatever the dossier reader needs — primary-source citation, verification trail, source-history context, structural significance.
+5. **Author the long-form body.** Whatever the companion reader needs — primary-source citation, verification trail, source-history context, structural significance.
 6. **End with the `---` separator.**
 
 **If editorial decision isn't crystal at draft time** — write `**Short:** [TBD: <category>]` (Citation / Citation+Context / Mini-essay / Verification) as placeholder. The discipline is *have the slot, fill it in the moment*. TBD is permitted as a temporary state, not a long-term resting state.
@@ -92,13 +92,13 @@ Currently `build_book.py` emits the full body of each endnote (long-form mode is
 
 ---
 
-## Dossier productionization (future)
+## Companion productionization (future)
 
-The long-form endnotes become a separately-shipped *Atomic Sanskrit: Source & Verification Dossier* artifact — free PDF or web-hosted. When productionizing:
+The long-form endnotes become a separately-shipped *Atomic Sanskrit: Source and Reference Companion* artifact — free PDF or web-hosted. When productionizing:
 
-- The dossier needs a stable name and canonical URL or print/PDF reference.
-- Stub-names become durable public identifiers — anchor links / section IDs in the dossier match the stub-names in `as_endnotes.md` so the printed book's "See Expanded Endnotes for X" pointers land.
-- Therefore: **don't rename stub-names casually**. Once an entry has been deployed in chapter prose and is being referenced via `[NOTE: stub]` markers, the stub-name is effectively public-facing. Renames break the dossier-pointer chain.
+- The companion needs a stable name and canonical URL or print/PDF reference.
+- Stub-names become durable public identifiers — anchor links / section IDs in the companion match the stub-names in `as_endnotes.md` so the printed book's "See Expanded Endnotes for X" pointers land.
+- Therefore: **don't rename stub-names casually**. Once an entry has been deployed in chapter prose and is being referenced via `[NOTE: stub]` markers, the stub-name is effectively public-facing. Renames break the companion-pointer chain.
 
 Today's action: just don't break the stub-name identifiers.
 
@@ -107,17 +107,17 @@ Today's action: just don't break the stub-name identifiers.
 ## The mental model
 
 - **Short** = the one sentence the printed-book reader needs. Editorial decision.
-- **Long** = the dossier-grade citation, verification trail, source-history mini-essay. Reference material.
+- **Long** = the reference-grade citation, verification trail, source-history mini-essay. Reference material.
 - **Source of truth** = one file, both fields, no parallel versions to drift.
 - **Build pipeline** = projection. Short mode pulls Short; full mode pulls everything. Authoring discipline stays unchanged.
-- **Stub-names** = durable identifiers, public-facing in the dossier. Treat carefully.
+- **Stub-names** = durable identifiers, public-facing in the companion. Treat carefully.
 
 ---
 
 ## Open follow-ups
 
 1. ~~**Voice review on batches 4-6** (entries 61–140 of the original sweep).~~ **Resolved 2026-05-18** — author reviewed via the rendered short-form PDF (`build/atomic_sanskrit.trade.short.pdf`, commit `49438c5`) and confirmed the back-half reads cleanly. No re-voicing pass needed.
-2. **Dossier artifact name, URL, and anchor scheme** — open productionization decision; not blocking until print. Today's discipline: don't rename stub-names casually; they become public-facing identifiers in the dossier.
+2. **Companion artifact name, URL, and anchor scheme** — open productionization decision; not blocking until print. Today's discipline: don't rename stub-names casually; they become public-facing identifiers in the companion.
 
 ---
 

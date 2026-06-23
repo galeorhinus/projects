@@ -63,7 +63,7 @@ Needed hinge: none.
 
 Current close:
 
-> The printed book is for reading. The dossier is for verification.
+> The printed book is for reading. The companion is for verification.
 
 Status: works.
 

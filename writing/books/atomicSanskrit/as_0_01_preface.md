@@ -26,7 +26,7 @@ That verse is the Vedic diagnostic for the condition in which Sanskrit stands be
 
 The schematic below assigns the roles before the argument begins: Sanskrit as the Sun, the segmented pyramid as the eclipse-body, and the reader's world-field darkened by what stands between them.
 
-![Figure E.1 — The Eclipse. Sanskrit is the Sun; the asuric pyramid stands between that light and the world-field, with all eleven plates intact.](figures/eclipse_spine/eclipse_00_preface_full.svg){#fig:eclipse-preface-full width=100%}
+![Figure E.1 — The Eclipse. Sanskrit is shown as the Sun; the asuric pyramid stands between that light and the world that should receive it.](figures/eclipse_spine/eclipse_00_preface_full.svg){#fig:eclipse-preface-full width=100%}
 
 The eclipse did not make Sanskrit vanish. Sanskrit has remained visible, audible, recited, parsed, taught, and documented across thousands of years. The language's own name says what it is. Its grammar says what it is. Its recitation lineages say what it is. Its architecture says what it is. What the eclipse darkened was the field around it. The pyramid taught the world to see Sanskrit in the wrong light. Not the Sun, but a daughter-language beneath an imagined parent. Not an architecture engineered against decay, but a botanical organism that grows and dies. Not the calibrant, but a standard codified late. Not an engineered sound-grid, but a mere alphabet. Not a script that makes sound visible, but a borrowed typology. Not the measure by which a family was read, but one sibling within it. Not the Vedic Matrix, but old literature, scripture, ritual material, and chronological evidence waiting to be dated. Each is a plate placed in front of the same Sun.
 

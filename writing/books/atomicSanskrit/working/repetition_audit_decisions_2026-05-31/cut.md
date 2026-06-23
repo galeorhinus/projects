@@ -69,7 +69,7 @@
 - `as_3_01_baking.md` §1.3 — full record (~200 words)
 - prior session work referenced him in `working/` files
 
-**Pattern:** Single deployment in App 1. No body chapter repeats it. Internal to App 1: the level of biographical detail (six honors, three council memberships, four honorary doctorates, three scholarly correspondents, BORI founding date and birthday) carries the dossier register. But the appendix's structural point — that the colonial honors system was the elevation rite — does not require all six honors named individually.
+**Pattern:** Single deployment in App 1. No body chapter repeats it. Internal to App 1: the level of biographical detail (six honors, three council memberships, four honorary doctorates, three scholarly correspondents, BORI founding date and birthday) carries the companion register. But the appendix's structural point — that the colonial honors system was the elevation rite — does not require all six honors named individually.
 
 **Recommendation:** CUT detail; keep structural exemplar. Compress the Bhāṇḍārkar paragraph from ~200 words to ~90 words: name Bhāṇḍārkar, CIE 1889 / KCIE 1911, Deccan College professor, Göttingen Honorary Ph.D. 1885, BORI named for him 1917. Drop the four-doctorate list, the multi-council list, and the scholarly-correspondents list.
 

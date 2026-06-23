@@ -96,4 +96,4 @@ Items to source from the print edition or a canonical secondary source before de
 
 If reaching out to Malhotra in the future, leading with *Atomic Sanskrit*'s architectural-axis complementarity is the natural angle. The book's *pūrvapakṣa* method — substantial space restating the orthodox account before prosecuting it — is method-aligned with his. The Bṛhaspati keystone (RV 10.71.2) provides a *paramparā*-internal anchor for the architectural prosecution that complements his institutional anchors.
 
-See companion file ***rajiv_malhotra.md*** for the broader outreach profile and framing notes.
+See the companion file ***rajiv_malhotra.md*** for the broader outreach profile and framing notes.

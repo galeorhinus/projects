@@ -10,7 +10,7 @@
 
 **Procedure:** All in-scope files were read end-to-end. The prior audit (`working/archive/repetition_audit_2026-05-31.md`, Passes 0–6 with mechanical scan IDs M001–M025, within-chapter IDs C001–C018, cross-book IDs X001–X014, and refrain IDs R001–R012) was loaded as the baseline. This pass extends the scaffold by (a) flagging substantial cross-chapter material repetition the earlier pass had set aside, (b) flagging within-chapter density problems the earlier batches did not cut, (c) identifying load-bearing claim repetitions whose cuts the user can now reconsider given the new wordcount target.
 
-**What was flagged:** cross-chapter substantive repetition (whole arguments, defined examples, dossier blocks reused across body and appendix); within-chapter redundancy of point or example; word- and metaphor-level over-deployment outside the canonical-refrain list.
+**What was flagged:** cross-chapter substantive repetition (whole arguments, defined examples, companion blocks reused across body and appendix); within-chapter redundancy of point or example; word- and metaphor-level over-deployment outside the canonical-refrain list.
 
 **What was NOT flagged:** the canonical standing-polemic phrase (*Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.*), the four-term *engineered / encoded / decoded / codified* stack, the locked hammer-pairs (*Pyramid: correction by authority. Sanātan: correction by architecture.* / *Domain is not chronology. Mode is not drift.* / *The orthodoxy makes Pāṇini a rupture. The architecture makes him a witness.*), the scale-chain enumeration (*sonomer → akṣara → dhātuḥ → kriyāpada → śabda → vākya → sūtra → calibrated language*), or *prakṛti / saṃskṛti / vikṛti* triad deployments at hinge points. These are flagged KEEP when surfaced; otherwise omitted. Per-chapter establishment-of-cluster-vocabulary (*progressive orthodoxy*, *foundational orthodoxy*, *church of progress*, *asuric pyramid*, *heroic erasure*) is also expected refrain — flagged KEEP only where density seems excessive.
 
@@ -33,7 +33,7 @@
 
 Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROMOTE); the **~2,100 ENDNOTE words move out of body but stay in the book as endnotes**. The 49,000-word trim target the user is chasing cannot be hit by repetition cuts alone — the audit suggests repetition can plausibly deliver 15-20k words. The remaining 30k will need scope cuts (whole sections, whole examples, whole worked-walkthroughs) elsewhere.
 
-**Pattern flagged at methodology level:** the largest single class of cuts is **body-appendix duplication**. Appendix Parts 1, 2, 3, 6, 7 re-prosecute claims the body chapters already prosecuted, with substantial verbatim or near-verbatim overlap. The appendix register justifies *some* of this — appendix material is dossier-grade, the body is polemic-grade — but the current structure has Appendix 7 (Codification Story Refuted) re-running the bulk of the codification polemic the body already developed across Ch 1, 4, 5, 14, 17. Appendix 7 alone is ~7,500 words; a tight reduction targeted at body-overlap could trim it by 3,000-4,000. Appendix 6 (Vedic Carrier) and Ch 5 §5.6 share the eight-drift-claims discussion in two places. Appendix 1 re-runs Schleicher / PIE / bake material already in Ch 1, Ch 17, Ch 18.
+**Pattern flagged at methodology level:** the largest single class of cuts is **body-appendix duplication**. Appendix Parts 1, 2, 3, 6, 7 re-prosecute claims the body chapters already prosecuted, with substantial verbatim or near-verbatim overlap. The appendix register justifies *some* of this — appendix material is reference-grade, the body is polemic-grade — but the current structure has Appendix 7 (Codification Story Refuted) re-running the bulk of the codification polemic the body already developed across Ch 1, 4, 5, 14, 17. Appendix 7 alone is ~7,500 words; a tight reduction targeted at body-overlap could trim it by 3,000-4,000. Appendix 6 (Vedic Carrier) and Ch 5 §5.6 share the eight-drift-claims discussion in two places. Appendix 1 re-runs Schleicher / PIE / bake material already in Ch 1, Ch 17, Ch 18.
 
 ---
 
@@ -182,7 +182,7 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 **Pattern:** The Schleicher polemic — including the 1868 fable, the asterisk invention, the specific reconstructed-word inventory, and the "had the recipe but chose not to use it" thesis — appears in increasingly detailed form across Ch 1, Ch 3, Ch 18, Appendix 1, Appendix 4. App 4 §4.8 substantially duplicates App 1 §1.4 and Ch 18 §18.1.
 
-**Recommendation:** COMPRESS. Ch 18 §18.1 is the prosecution-spine home of the Schleicher case. Appendix 1 §1.4 keeps the dossier-grade biographical apparatus (Bopp, Pott, Schleicher, Brugmann timeline — appendix register). Appendix 4 §4.1 + §4.8 compresses the Schleicher repeat to a pointer to Ch 18 + App 1; the "had the recipe but chose not to use it" thesis appears once in App 4 §4.8 (where it serves the language-factory contrast); the Schleicher biographical specifics are dropped from App 4. Ch 3 §3.6 close keeps its compressed naming of Schleicher as a contemporary asuric operator (one paragraph; current treatment fine).
+**Recommendation:** COMPRESS. Ch 18 §18.1 is the prosecution-spine home of the Schleicher case. Appendix 1 §1.4 keeps the reference-grade biographical apparatus (Bopp, Pott, Schleicher, Brugmann timeline — appendix register). Appendix 4 §4.1 + §4.8 compresses the Schleicher repeat to a pointer to Ch 18 + App 1; the "had the recipe but chose not to use it" thesis appears once in App 4 §4.8 (where it serves the language-factory contrast); the Schleicher biographical specifics are dropped from App 4. Ch 3 §3.6 close keeps its compressed naming of Schleicher as a contemporary asuric operator (one paragraph; current treatment fine).
 
 **Word-count impact:** ~500 words
 
@@ -196,7 +196,7 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 - `as_3_01_baking.md` §1.3 — full record (~200 words)
 - prior session work referenced him in `working/` files
 
-**Pattern:** Single deployment in App 1. No body chapter repeats it. Internal to App 1: the level of biographical detail (six honors, three council memberships, four honorary doctorates, three scholarly correspondents, BORI founding date and birthday) carries the dossier register. But the appendix's structural point — that the colonial honors system was the elevation rite — does not require all six honors named individually.
+**Pattern:** Single deployment in App 1. No body chapter repeats it. Internal to App 1: the level of biographical detail (six honors, three council memberships, four honorary doctorates, three scholarly correspondents, BORI founding date and birthday) carries the companion register. But the appendix's structural point — that the colonial honors system was the elevation rite — does not require all six honors named individually.
 
 **Recommendation:** CUT detail; keep structural exemplar. Compress the Bhāṇḍārkar paragraph from ~200 words to ~90 words: name Bhāṇḍārkar, CIE 1889 / KCIE 1911, Deccan College professor, Göttingen Honorary Ph.D. 1885, BORI named for him 1917. Drop the four-doctorate list, the multi-council list, and the scholarly-correspondents list.
 
@@ -458,7 +458,7 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 - `as_3_07_codification_story.md` §7.14 — referenced briefly + Ch 13 and Ch 18 cross-references
 - `as_1_18_pie_in_sky.md` §18.6 — referenced briefly
 
-**Pattern:** Ch 19 §19.1 is the canonical-home dossier (the Wave 1 transmission chapter). Ch 18 §18.6 and App 7 §7.14 reference it. Current treatment is mostly correct — App 7 §7.14 compresses correctly. The Ch 19 §19.1 detail block is appropriate for its load-bearing role.
+**Pattern:** Ch 19 §19.1 is the canonical-home companion (the Wave 1 transmission chapter). Ch 18 §18.6 and App 7 §7.14 reference it. Current treatment is mostly correct — App 7 §7.14 compresses correctly. The Ch 19 §19.1 detail block is appropriate for its load-bearing role.
 
 **Recommendation:** KEEP Ch 19 + App 7 pattern as-is. (Bookkeeping.)
 
@@ -716,7 +716,7 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 - `as_3_03_audiography.md` §3.4 — full development (verbatim or near-verbatim)
 - `as_2_01_epilogue.md` §1 The Brāhmī thesis — restated
 
-**Pattern:** Ch 13 §13.3 introduces the argument; App 3 §3.4 develops it in the appendix that's dedicated to the script case. The two carry substantial overlap. Per the audit convention that appendix is the dossier-grade home, App 3 §3.4 should be the full development and Ch 13 §13.3 should be the body-grade summary. Currently Ch 13 §13.3 is also full-grade.
+**Pattern:** Ch 13 §13.3 introduces the argument; App 3 §3.4 develops it in the appendix that's dedicated to the script case. The two carry substantial overlap. Per the audit convention that appendix is the reference-grade home, App 3 §3.4 should be the full development and Ch 13 §13.3 should be the body-grade summary. Currently Ch 13 §13.3 is also full-grade.
 
 **Recommendation:** COMPRESS Ch 13 §13.3 — keep the heroic-erasure structural argument (the four-case pattern), compress the Brāhmī-architecture-vs-Aramaic technical demonstration to a pointer to App 3. The "encoding system could not be borrowed" hammer stays in App 3 §3.4 (where it's the section's spine).
 
@@ -1803,7 +1803,7 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 **Instances:** `as_3_01_baking.md` §1.2 — single deployment.
 
-**Pattern:** Single deployment. Dossier-grade detail.
+**Pattern:** Single deployment. Reference-grade detail.
 
 **Recommendation:** Consider ENDNOTE move for the more granular biographical detail (Lt Col / Bombay Native Infantry / will-specifying-evangelical-purpose). Keep one sentence in body: "the Boden Chair of Sanskrit at Oxford, endowed in 1832 to enable the conversion of Indians to Christianity (Lieutenant Colonel Joseph Boden's will; see endnote)." Saves ~80 words.
 
@@ -1820,7 +1820,7 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 **Pattern:** Single deployment in the appendix.
 
-**Recommendation:** ENDNOTE the full Wheeler-Mohenjo-daro dossier (1947 article title; Director General role; skeleton counts; refutation authors). Keep one paragraph in body naming Wheeler's overreach as a structural parallel and pointing to the endnote.
+**Recommendation:** ENDNOTE the full Wheeler-Mohenjo-daro companion (1947 article title; Director General role; skeleton counts; refutation authors). Keep one paragraph in body naming Wheeler's overreach as a structural parallel and pointing to the endnote.
 
 **Word-count impact:** ~200 words
 
@@ -1828,13 +1828,13 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ### Finding 107 — ENDNOTE
 
-**Repeated content:** Full Mitanni dossier — Suppiluliuma I / Shattiwaza treaty / Bogazköy archive / Kikkuli 184-day/1080-line/4-cuneiform-tablet treatise / numerical correspondences / throne names / *marya*.
+**Repeated content:** Full Mitanni companion — Suppiluliuma I / Shattiwaza treaty / Bogazköy archive / Kikkuli 184-day/1080-line/4-cuneiform-tablet treatise / numerical correspondences / throne names / *marya*.
 
 **Instances:** `as_1_19_life_after_pie.md` §19.1 — full deployment.
 
 **Pattern:** Single deployment in the chapter.
 
-**Recommendation:** Consider ENDNOTE move of the deepest dossier-grade detail. Body keeps: treaty deities (Mitra/Varuṇa/Indra/Nāsatya), Kikkuli reference, the key numerical correspondences (*aika* as pre-Vedic-Sanskritic), one throne name (Tushratta), *marya*. Endnote carries: Suppiluliuma/Shattiwaza names, Bogazköy archive, 184-day/1080-line/4-tablet specifics, full numerical list, full throne-name list. Saves ~300 words from body.
+**Recommendation:** Consider ENDNOTE move of the deepest reference-grade detail. Body keeps: treaty deities (Mitra/Varuṇa/Indra/Nāsatya), Kikkuli reference, the key numerical correspondences (*aika* as pre-Vedic-Sanskritic), one throne name (Tushratta), *marya*. Endnote carries: Suppiluliuma/Shattiwaza names, Bogazköy archive, 184-day/1080-line/4-tablet specifics, full numerical list, full throne-name list. Saves ~300 words from body.
 
 **Word-count impact:** ~300 words
 
@@ -2123,7 +2123,7 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 ## Closing observations for the user
 
-**Pattern 1 — Body / appendix re-prosecution is the largest cut lever.** Appendix Parts 1, 2, 3, 6, 7 each re-run material the body chapters already developed. The dossier-grade frame justifies *some* re-development (the appendix carries verification material the body footnotes-out), but the current structure has multiple appendix sections doing full polemic re-runs rather than evidence dossiers. Appendix 7 (Codification Story Refuted) is the most extreme — ~7,500 words of which 2,500-3,000 could compress to body pointers without losing the appendix's load-bearing case.
+**Pattern 1 — Body / appendix re-prosecution is the largest cut lever.** Appendix Parts 1, 2, 3, 6, 7 each re-run material the body chapters already developed. The reference-grade frame justifies *some* re-development (the appendix carries verification material the body footnotes-out), but the current structure has multiple appendix sections doing full polemic re-runs rather than evidence accounts. Appendix 7 (Codification Story Refuted) is the most extreme — ~7,500 words of which 2,500-3,000 could compress to body pointers without losing the appendix's load-bearing case.
 
 **Pattern 2 — Ch 11 has unusually dense internal repetition.** Three adjacent sections (§11.6, §11.7, §11.9) re-tread the polyvalent / carbon-class / canonical-nine ground. The chapter would benefit from internal consolidation.
 
@@ -2133,6 +2133,6 @@ Of this, **~16,400 words are pure cut** (COMPRESS + MERGE + CUT + POINTER + PROM
 
 **Pattern 5 — Cross-chapter pointers ARE doing the forwarding work CLAUDE.md asks for** in most cases. The "Chapter X §X.Y develops in detail" convention is in active use. Some pointers are bidirectional (Ch 10 references Ch 11 + 12 + 13 + App 5; App 5 references back) and these chains help readers navigate but they also add cumulative word count.
 
-**Pattern 6 — Repetition cuts alone cannot reach the 49k-word target.** Best-case cuts from this audit ≈ 16k-20k words. The remaining 30k will need scope decisions (cutting whole sections, dropping examples, condensing whole arguments, moving substantial dossier material to endnotes or appendix-only treatment). The user should expect to make scope cuts separately.
+**Pattern 6 — Repetition cuts alone cannot reach the 49k-word target.** Best-case cuts from this audit ≈ 16k-20k words. The remaining 30k will need scope decisions (cutting whole sections, dropping examples, condensing whole arguments, moving substantial companion material to endnotes or appendix-only treatment). The user should expect to make scope cuts separately.
 
 **Pattern 7 — Some "compress" recommendations should be deferred** until the user has made scope decisions. If Appendix 7 is going to remain as a full re-prosecution chapter, the App 7 → Ch 4/Ch 5/Ch 14 pointer compression doesn't make sense (it weakens App 7's structural integrity). If App 7 is going to compress dramatically or merge with Ch 17, the pointer compression should follow that decision.

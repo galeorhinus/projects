@@ -180,7 +180,7 @@
 - `as_3_03_audiography.md` §3.4 — full development (verbatim or near-verbatim)
 - `as_2_01_epilogue.md` §1 The Brāhmī thesis — restated
 
-**Pattern:** Ch 13 §13.3 introduces the argument; App 3 §3.4 develops it in the appendix that's dedicated to the script case. The two carry substantial overlap. Per the audit convention that appendix is the dossier-grade home, App 3 §3.4 should be the full development and Ch 13 §13.3 should be the body-grade summary. Currently Ch 13 §13.3 is also full-grade.
+**Pattern:** Ch 13 §13.3 introduces the argument; App 3 §3.4 develops it in the appendix that's dedicated to the script case. The two carry substantial overlap. Per the audit convention that appendix is the reference-grade home, App 3 §3.4 should be the full development and Ch 13 §13.3 should be the body-grade summary. Currently Ch 13 §13.3 is also full-grade.
 
 **Recommendation:** COMPRESS Ch 13 §13.3 — keep the heroic-erasure structural argument (the four-case pattern), compress the Brāhmī-architecture-vs-Aramaic technical demonstration to a pointer to App 3. The "encoding system could not be borrowed" hammer stays in App 3 §3.4 (where it's the section's spine).
 

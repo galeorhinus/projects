@@ -51,7 +51,7 @@ Current scan scope: `atomicSanskrit/*.md`, `atomicSanskrit/as_3_*.md`, and `atom
 
 #### `**Short:** [TBD: ...]` placeholders in endnotes
 
-These are not factual verification failures. They are print-build blockers for the short-endnote pipeline. Full dossier bodies may already exist; the missing work is editorial compression into a one-line `Short` field.
+These are not factual verification failures. They are print-build blockers for the short-endnote pipeline. Full companion bodies may already exist; the missing work is editorial compression into a one-line `Short` field.
 
 | Priority | Endnote ID | Placeholder | Proposed Disposition | Status |
 |---|---|---|---|---|

@@ -6,8 +6,8 @@
 **Mirror frame.** Ch 0 maps **0, Seekers, Freedom, and Infinity**: zero as the opening through which the finite mind approaches the infinite. AP0 maps the inverse: **1, Oppression, and the Finite**. This is not the luminous one of *ekam sat*, not the fullness of *purnam*, and not non-dual insight. It is the asuric one: the apex-one, the monopoly-one, the single gate through which reality must pass before the pyramid permits it to be called true.
 
 **Companion files:**
-- `working/source_asuric_mind_13_defects.md` — source dossier for the asura-story catalog; feeds §3 and §4.
-- `working/source_battle_positions.md` — source dossier for Position 1 / 2 / 3 / missionary-layer taxonomy; feeds §6.
+- `working/source_asuric_mind_13_defects.md` — source reference for the asura-story catalog; feeds §3 and §4.
+- `working/source_battle_positions.md` — source reference for Position 1 / 2 / 3 / missionary-layer taxonomy; feeds §6.
 - `working/asura_darkness_taxonomy.md` — author's six-cluster asura taxonomy; validates the asura selection.
 - `working/asura_motivations_inventory.md` — manuscript-passage inventory; keeps AP0 consistent with the vocabulary already used across the book.
 
@@ -364,7 +364,7 @@ When AP0 is drafted:
 
 **Pass 2 — Rails.** Draft §1 and §8 first. These are the opening and closing rails.
 
-**Pass 3 — Mythic taxonomy.** Draft §2, §3, and §4 using the asura source dossiers.
+**Pass 3 — Mythic taxonomy.** Draft §2, §3, and §4 using the asura source references.
 
 **Pass 4 — Sanskrit battlefield.** Draft §5 and §6 from the battle-position and manuscript-motivation sources.
 

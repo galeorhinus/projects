@@ -24,7 +24,7 @@ The shadow is cast here.
 
 At the opening of Part I, the pyramid still stands whole. The first three obstructions are targeted: Sanskrit made to look descended from PIE, botanical like roots and stems, and codified only after Pāṇini. These are the first acts of category theft.
 
-![Figure E.5 — How the Shadow Is Cast. Plates 1 Descended, 2 Botanical, and 3 Codified are targeted while the full eclipse remains in place.](figures/eclipse_spine/eclipse_10_part01_shadow_cast_targets_1_2_3.svg){#fig:eclipse-part01-shadow-cast width=100%}
+![Figure E.5 — How the Shadow Is Cast. Three Plates: Descended, Botanical, and Codified are targeted while the full eclipse remains in place.](figures/eclipse_spine/eclipse_10_part01_shadow_cast_targets_1_2_3.svg){#fig:eclipse-part01-shadow-cast width=100%}
 
 The Sun is Sanskrit: the architecture of सनातन संस्कृति (*sanātana saṃskṛti*), the engineered order. Distributed, measured, preserved, and self-calibrated, it holds speech, memory, and civilization without apex command. It does not descend. It does not drift. It does not decay. It is the light the world was trained not to see.
 

@@ -5,7 +5,7 @@
 ## Where we stand
 
 - **Manuscript:** ~139k words (target: ~115k prose + ~5k endnotes ≈ ~120k, **raised 2026-05-31 from the earlier 90k target**). Currently **~1.16× target**. Gap is now ~19k, not ~49k — much more achievable; A.2 alone can essentially close it.
-- **Endnotes:** ~89k words in `as_endnotes.md` — substantial dossier-grade material; some movable to the dossier companion.
+- **Endnotes:** ~89k words in `as_endnotes.md` — substantial reference-grade material; some movable to the companion companion.
 - **Structural / framing work:** complete (recent passes: chapter renames, three-frame standardization, mouth-to-language scale-chain, six-characteristic test at three scales, App 5 reorg, Ch 12 §§12.1–12.10 drafted, Vedic-corpus research, public-facing essay framework).
 - **Open audits:** contrastive framing (215 findings, 35 reds with APPLY decisions ready), repetition audit (scaffold only), verification queue (active backlog), endnote conversion (deferred to chapter-lock), epigraph deployment (candidates chosen per chapter, many not yet inserted), Vedic-corpus research deployment (findings catalogued, insertions pending).
 
@@ -51,7 +51,7 @@ When a phase or sub-item completes, mark the box and add a one-line note with th
 ### A.3 — Move expandable content to endnotes [ ]
 
 - [ ] Identify body passages that serve verification-readers rather than narrative-readers (extended definitions, secondary examples, citation discussions, source-history mini-essays).
-- [ ] Per CLAUDE.md two-form endnote architecture: short form in printed book, long form in dossier.
+- [ ] Per CLAUDE.md two-form endnote architecture: short form in printed book, long form in companion.
 - [ ] Move long-form to `as_endnotes.md` under appropriate stub names; insert `[NOTE: stub-name]` markers in body.
 - [ ] Verify that the body still reads cleanly after extraction.
 
@@ -146,7 +146,7 @@ When a phase or sub-item completes, mark the box and add a one-line note with th
 - [ ] Convert `[NOTE: stub-name]` markers to numbered references at chapter-lock time.
 - [ ] Confirm every stub in body has a corresponding entry in `as_endnotes.md`.
 - [ ] Run `--endnotes=short` build for the printed-book endnote section once the editorial short-form pass has completed across all stubs.
-- [ ] Confirm `--endnotes=full` produces the dossier-grade companion.
+- [ ] Confirm `--endnotes=full` produces the reference-grade companion.
 - [ ] Replace the ORL companion-work source anchor with final publication chapter/page citations before production lock.
 
 ### D.3 — Figure production finalization [ ]

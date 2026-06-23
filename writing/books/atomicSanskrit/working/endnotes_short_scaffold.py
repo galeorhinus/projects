@@ -8,7 +8,7 @@ Categorization heuristics (rough — these guide the editorial pass, not gate it
   Citation+Context — 80 < body ≤ 300 words; pull one load-bearing sentence
   Mini-essay      — body > 300 words; editorial compression needed
   Verification    — body contains [VERIFY] markers or "to be verified";
-                    short form is a pointer to the dossier
+                    short form is a pointer to the companion
 """
 from pathlib import Path
 import re

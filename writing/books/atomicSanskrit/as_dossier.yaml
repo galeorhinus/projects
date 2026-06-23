@@ -1,6 +1,6 @@
-# Atomic Sanskrit — companion Source & Verification Dossier metadata.
+# Atomic Sanskrit — Source and Reference Companion metadata.
 #
-# Parallels as_book.yaml. The dossier is a separate publication artifact:
+# Parallels as_book.yaml. The companion is a separate publication artifact:
 # the full long-form endnotes (citations, verification trails, source-history
 # discussions) for serious readers, reviewers, critics, and hostile academics.
 # Title-page identity differs from the main book; typography matches for
@@ -8,9 +8,9 @@
 #
 # Edit values here — never duplicate inline in scripts or templates.
 
-# --- Dossier identity ---
+# --- Companion identity ---
 title: Atomic Sanskrit
-subtitle: "*Source & Verification Dossier*"
+subtitle: "*Source and Reference Companion*"
 series: "Companion to *Atomic Sanskrit*"
 author: Parag Tope
 lang: en-US

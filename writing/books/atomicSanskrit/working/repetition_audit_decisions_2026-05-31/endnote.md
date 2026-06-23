@@ -36,7 +36,7 @@
 
 **Instances:** `as_3_01_baking.md` §1.2 — single deployment.
 
-**Pattern:** Single deployment. Dossier-grade detail.
+**Pattern:** Single deployment. Reference-grade detail.
 
 **Recommendation:** Consider ENDNOTE move for the more granular biographical detail (Lt Col / Bombay Native Infantry / will-specifying-evangelical-purpose). Keep one sentence in body: "the Boden Chair of Sanskrit at Oxford, endowed in 1832 to enable the conversion of Indians to Christianity (Lieutenant Colonel Joseph Boden's will; see endnote)." Saves ~80 words.
 
@@ -56,7 +56,7 @@
 
 **Pattern:** Single deployment in the appendix.
 
-**Recommendation:** ENDNOTE the full Wheeler-Mohenjo-daro dossier (1947 article title; Director General role; skeleton counts; refutation authors). Keep one paragraph in body naming Wheeler's overreach as a structural parallel and pointing to the endnote.
+**Recommendation:** ENDNOTE the full Wheeler-Mohenjo-daro companion (1947 article title; Director General role; skeleton counts; refutation authors). Keep one paragraph in body naming Wheeler's overreach as a structural parallel and pointing to the endnote.
 
 **Word-count impact:** ~200 words
 
@@ -67,13 +67,13 @@
 **Decision:** `[ ]`  ← Mark `Y` (apply) / `N` (skip — keep original) / `?` (decide later)
 
 
-**Repeated content:** Full Mitanni dossier — Suppiluliuma I / Shattiwaza treaty / Bogazköy archive / Kikkuli 184-day/1080-line/4-cuneiform-tablet treatise / numerical correspondences / throne names / *marya*.
+**Repeated content:** Full Mitanni companion — Suppiluliuma I / Shattiwaza treaty / Bogazköy archive / Kikkuli 184-day/1080-line/4-cuneiform-tablet treatise / numerical correspondences / throne names / *marya*.
 
 **Instances:** `as_1_19_life_after_pie.md` §19.1 — full deployment.
 
 **Pattern:** Single deployment in the chapter.
 
-**Recommendation:** Consider ENDNOTE move of the deepest dossier-grade detail. Body keeps: treaty deities (Mitra/Varuṇa/Indra/Nāsatya), Kikkuli reference, the key numerical correspondences (*aika* as pre-Vedic-Sanskritic), one throne name (Tushratta), *marya*. Endnote carries: Suppiluliuma/Shattiwaza names, Bogazköy archive, 184-day/1080-line/4-tablet specifics, full numerical list, full throne-name list. Saves ~300 words from body.
+**Recommendation:** Consider ENDNOTE move of the deepest reference-grade detail. Body keeps: treaty deities (Mitra/Varuṇa/Indra/Nāsatya), Kikkuli reference, the key numerical correspondences (*aika* as pre-Vedic-Sanskritic), one throne name (Tushratta), *marya*. Endnote carries: Suppiluliuma/Shattiwaza names, Bogazköy archive, 184-day/1080-line/4-tablet specifics, full numerical list, full throne-name list. Saves ~300 words from body.
 
 **Word-count impact:** ~300 words
 

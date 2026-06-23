@@ -67,7 +67,7 @@
 
 **Pattern:** The Schleicher polemic — including the 1868 fable, the asterisk invention, the specific reconstructed-word inventory, and the "had the recipe but chose not to use it" thesis — appears in increasingly detailed form across Ch 1, Ch 3, Ch 18, Appendix 1, Appendix 4. App 4 §4.8 substantially duplicates App 1 §1.4 and Ch 18 §18.1.
 
-**Recommendation:** COMPRESS. Ch 18 §18.1 is the prosecution-spine home of the Schleicher case. Appendix 1 §1.4 keeps the dossier-grade biographical apparatus (Bopp, Pott, Schleicher, Brugmann timeline — appendix register). Appendix 4 §4.1 + §4.8 compresses the Schleicher repeat to a pointer to Ch 18 + App 1; the "had the recipe but chose not to use it" thesis appears once in App 4 §4.8 (where it serves the language-factory contrast); the Schleicher biographical specifics are dropped from App 4. Ch 3 §3.6 close keeps its compressed naming of Schleicher as a contemporary asuric operator (one paragraph; current treatment fine).
+**Recommendation:** COMPRESS. Ch 18 §18.1 is the prosecution-spine home of the Schleicher case. Appendix 1 §1.4 keeps the reference-grade biographical apparatus (Bopp, Pott, Schleicher, Brugmann timeline — appendix register). Appendix 4 §4.1 + §4.8 compresses the Schleicher repeat to a pointer to Ch 18 + App 1; the "had the recipe but chose not to use it" thesis appears once in App 4 §4.8 (where it serves the language-factory contrast); the Schleicher biographical specifics are dropped from App 4. Ch 3 §3.6 close keeps its compressed naming of Schleicher as a contemporary asuric operator (one paragraph; current treatment fine).
 
 **Word-count impact:** ~500 words
 
@@ -214,7 +214,7 @@
 - `as_3_07_codification_story.md` §7.14 — referenced briefly + Ch 13 and Ch 18 cross-references
 - `as_1_18_pie_in_sky.md` §18.6 — referenced briefly
 
-**Pattern:** Ch 19 §19.1 is the canonical-home dossier (the Wave 1 transmission chapter). Ch 18 §18.6 and App 7 §7.14 reference it. Current treatment is mostly correct — App 7 §7.14 compresses correctly. The Ch 19 §19.1 detail block is appropriate for its load-bearing role.
+**Pattern:** Ch 19 §19.1 is the canonical-home companion (the Wave 1 transmission chapter). Ch 18 §18.6 and App 7 §7.14 reference it. Current treatment is mostly correct — App 7 §7.14 compresses correctly. The Ch 19 §19.1 detail block is appropriate for its load-bearing role.
 
 **Recommendation:** KEEP Ch 19 + App 7 pattern as-is. (Bookkeeping.)
 
@@ -1301,7 +1301,7 @@
 
 ## Closing observations for the user
 
-**Pattern 1 — Body / appendix re-prosecution is the largest cut lever.** Appendix Parts 1, 2, 3, 6, 7 each re-run material the body chapters already developed. The dossier-grade frame justifies *some* re-development (the appendix carries verification material the body footnotes-out), but the current structure has multiple appendix sections doing full polemic re-runs rather than evidence dossiers. Appendix 7 (Codification Story Refuted) is the most extreme — ~7,500 words of which 2,500-3,000 could compress to body pointers without losing the appendix's load-bearing case.
+**Pattern 1 — Body / appendix re-prosecution is the largest cut lever.** Appendix Parts 1, 2, 3, 6, 7 each re-run material the body chapters already developed. The reference-grade frame justifies *some* re-development (the appendix carries verification material the body footnotes-out), but the current structure has multiple appendix sections doing full polemic re-runs rather than evidence accounts. Appendix 7 (Codification Story Refuted) is the most extreme — ~7,500 words of which 2,500-3,000 could compress to body pointers without losing the appendix's load-bearing case.
 
 **Pattern 2 — Ch 11 has unusually dense internal repetition.** Three adjacent sections (§11.6, §11.7, §11.9) re-tread the polyvalent / carbon-class / canonical-nine ground. The chapter would benefit from internal consolidation.
 
@@ -1311,7 +1311,7 @@
 
 **Pattern 5 — Cross-chapter pointers ARE doing the forwarding work CLAUDE.md asks for** in most cases. The "Chapter X §X.Y develops in detail" convention is in active use. Some pointers are bidirectional (Ch 10 references Ch 11 + 12 + 13 + App 5; App 5 references back) and these chains help readers navigate but they also add cumulative word count.
 
-**Pattern 6 — Repetition cuts alone cannot reach the 49k-word target.** Best-case cuts from this audit ≈ 16k-20k words. The remaining 30k will need scope decisions (cutting whole sections, dropping examples, condensing whole arguments, moving substantial dossier material to endnotes or appendix-only treatment). The user should expect to make scope cuts separately.
+**Pattern 6 — Repetition cuts alone cannot reach the 49k-word target.** Best-case cuts from this audit ≈ 16k-20k words. The remaining 30k will need scope decisions (cutting whole sections, dropping examples, condensing whole arguments, moving substantial companion material to endnotes or appendix-only treatment). The user should expect to make scope cuts separately.
 
 **Pattern 7 — Some "compress" recommendations should be deferred** until the user has made scope decisions. If Appendix 7 is going to remain as a full re-prosecution chapter, the App 7 → Ch 4/Ch 5/Ch 14 pointer compression doesn't make sense (it weakens App 7's structural integrity). If App 7 is going to compress dramatically or merge with Ch 17, the pointer compression should follow that decision.
 

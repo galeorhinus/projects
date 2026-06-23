@@ -137,7 +137,7 @@ The slug is the third segment of the manuscript filename (`as_<zone>_<seq>_<slug
 | `preface` | `as_0_01_preface.md` | Preface |
 | `acknowledgements` | `as_0_02_acknowledgements.md` | Acknowledgments |
 | `prologue` | `as_0_03_prologue.md` | Prologue (*The Prosecution*) |
-| `note_on_notes` | `as_0_04_note_on_notes.md` | Note on endnotes / dossier |
+| `note_on_notes` | `as_0_04_note_on_notes.md` | Note on endnotes / companion |
 
 **Body chapters** (zone 1):
 

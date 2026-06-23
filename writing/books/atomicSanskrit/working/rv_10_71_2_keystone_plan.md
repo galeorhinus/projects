@@ -254,7 +254,7 @@ Endnote treatment:
 
 ## 9. Endnote Plan
 
-Use one required dossier note and two optional supporting notes.
+Use one required companion note and two optional supporting notes.
 
 ### 9.1 Implemented: `rigveda-10-71-2-sieve-vak`
 

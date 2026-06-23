@@ -47,7 +47,7 @@ Target: ~115,000 prose words + ~5,000 endnotes ≈ ~120,000 manuscript (raised 2
 
 ### Drafts (open as needed)
 
-Front matter: `as_0_01_preface.md` (Preface), `as_0_02_acknowledgements.md` (Acknowledgments — author thanks, expandable), and `as_part_00_overture_shankha.md` (Overture — *The Śaṅkha*; the eclipse-war ignition between Preface and Ch 0), with `as_0_04_note_on_notes.md` following. (The former Prologue `as_0_03_prologue.md`, *The Prosecution*, is **archived**: its content was re-narrated into the Part I opener when the courtroom frame was retired for the eclipse spine — see `working/eclipse_spine_conversion_plan.md`.) Body chapters: `as_1_00_seekers.md` (Ch 0) through `as_1_19_life_after_pie.md` (Ch 19). Epilogue: `as_2_01_epilogue.md` (renamed 2026-05-19 from *The Atomic Corollary Going Forward* to *Make the World Ārya*). Appendix parts: `as_3_01_baking.md` through `as_3_06_vedic_carrier.md`. **Book division structure**: Front Matter / Overture / Parts I–VII / Epilogue / Appendices. The book runs on the **eclipse spine** (Sūrya / Svarbhānu / Rāhu / the Atris); the former courtroom frame is retired. Part VI contains Chs 16–18 (*Dispelling Rāhu*); Part VII contains Ch 19 alone. Each Part carries an italicized eclipse-arc subtitle; full map in `working/eclipse_spine_conversion_plan.md`.
+Front matter: `as_0_01_preface.md` (Preface), `as_0_02_acknowledgements.md` (Acknowledgments — author thanks, expandable), and `as_part_00_overture_shankha.md` (Overture — *The Śaṅkha*; the eclipse-war ignition between Preface and Ch 0), with `as_0_04_note_on_notes.md` following. (The former Prologue `as_0_03_prologue.md`, *The Prosecution*, is **archived**: its content was re-narrated into the Part I opener when the courtroom frame was retired for the eclipse spine — see `working/eclipse_spine_conversion_plan.md`.) Body chapters: `as_1_00_seekers.md` (Ch 0) through `as_1_19_life_after_pie.md` (Ch 19). Epilogue: `as_2_01_epilogue.md` (renamed 2026-05-19 from *The Atomic Corollary Going Forward* to *Make the World Ārya*). Appendix parts: `as_3_01_baking.md` through `as_3_09_glossary.md`. **Book division structure**: Front Matter / Overture / Parts I–VII / Epilogue / Appendices. The book runs on the **eclipse spine** (Sūrya / Svarbhānu / Rāhu / the Atris); the former courtroom frame is retired. Part VI contains Chs 16–18 (*Dispelling Rāhu*); Part VII contains Ch 19 alone. Each Part carries an italicized eclipse-arc subtitle; full map in `working/eclipse_spine_conversion_plan.md`.
 
 **Filename convention.** Manuscript files carry a three-segment prefix `as_<zone>_<seq>_<slug>.md`:
 - **Zone** (single digit) encodes the document region: `0` = front matter; `1` = body chapters; `2` = end matter (epilogue); `3` = appendix parts.
@@ -186,7 +186,7 @@ The words *god*, *gods*, *God*, *Gods* (and *godless*) never appear in the book'
 - **The dogma makes Pāṇini a rupture. The architecture makes him a witness.** — lands at the agent level. The dogma's chronology-collapse depends on Pāṇini-miscast-as-codifier (the Move 4 hinge in Ch 1 §1.1's bakers' story); the engineering thesis treats Pāṇini as documenter of what was already operating.
 - **Domain is not chronology. Mode is not drift.** — lands at the axes level. The two-axis architecture refused.
 
-Stacked deployment (Pāṇini first, then axes): used at the close of the Preface terminology note, Ch 1 §1.1 Move 7, and Appendix Part 6 §6.7.
+Stacked deployment (Pāṇini first, then axes): used at the close of the Preface terminology note, Ch 1 §1.1 Move 7, and Appendix Part 7 §7.7.
 
 **Mode/domain names vs locative rule-markers:**
 
@@ -195,7 +195,7 @@ Stacked deployment (Pāṇini first, then axes): used at the close of the Prefac
 
 **Three-term system** stays unchanged: *mode* (Sanskrit variety); *style* (*shruti* / *smriti* text-class); *voice* or *idiom* (the book's discourse posture — polemic voice, engineering idiom, public-facing prose, legal language). Avoid *register* by default. Keep it only when quoting a source, discussing formal sociolinguistic register, or when no cleaner word works.
 
-**When the pyramid's terms appear in the book's own prose**, scare-quote on attribution (*the pyramid's "Classical Sanskrit"*); never use *Classical Sanskrit* unquoted as the book's own naming. The exception is Ch 1 §1.1 Move 7, where the pyramid's *"Vedic / Classical"* naming is quoted as the position the reader arrives carrying — and then dismantled. The Preface terminology note + Ch 1 §1.1 Move 7 are the canonical deployments of this convention; Ch 5 §5.6, Ch 14, Ch 16 §16.3, and Appendix Part 6 develop it.
+**When the pyramid's terms appear in the book's own prose**, scare-quote on attribution (*the pyramid's "Classical Sanskrit"*); never use *Classical Sanskrit* unquoted as the book's own naming. The exception is Ch 1 §1.1 Move 7, where the pyramid's *"Vedic / Classical"* naming is quoted as the position the reader arrives carrying — and then dismantled. The Preface terminology note + Ch 1 §1.1 Move 7 are the canonical deployments of this convention; Ch 5 §5.6, Ch 14, Ch 16 §16.3, and Appendix Part 7 develop it.
 
 ### Sanskrit typography — Devanagari as anchor, not wallpaper
 
@@ -705,7 +705,7 @@ Drafting: `[NOTE: stub-name]` inline at the point the note attaches. Expanded pr
 
 Every endnote entry in `as_endnotes.md` carries TWO forms in the same source-of-truth file:
 
-- **Long form** — the full expanded body (citation discussion, verification trail, source-history mini-essay, primary-text quotes, etc.). This is the dossier-grade material — for serious readers, reviewers, critics, hostile academics. It serves the *Atomic Sanskrit: Source & Verification Dossier* artifact (separate free PDF / web-hosted) that the printed book points to.
+- **Long form** — the full expanded body (citation discussion, verification trail, source-history mini-essay, primary-text quotes, etc.). This is the reference-grade material — for serious readers, reviewers, critics, hostile academics. It serves the *Atomic Sanskrit: Source and Reference Companion* artifact (separate free PDF / web-hosted) that the printed book points to.
 - **Short form** — one sentence (or a tight clause + pointer) that does the load-bearing work for the printed book's reader. Tagged with a parseable `**Short:**` field on the line directly after the `### `stub`` heading. Read at print-prep time by the build pipeline's short-mode emitter; the long form keeps living in the same file as the body below.
 
 **Source-of-truth layout in `as_endnotes.md`:**
@@ -713,7 +713,7 @@ Every endnote entry in `as_endnotes.md` carries TWO forms in the same source-of-
 ```markdown
 ### `stub-name`
 
-**Short:** One sentence ending in a period. Optional "See dossier for X."
+**Short:** One sentence ending in a period. Optional "See the companion for X."
 
 **Deployments:** Chapter N §N.M ¶ — ...
 
@@ -722,13 +722,13 @@ Every endnote entry in `as_endnotes.md` carries TWO forms in the same source-of-
 ---
 ```
 
-**Rule when adding a new endnote** (every time, no exceptions): the entry MUST include a `**Short:**` field on the line directly after the heading. If you cannot yet produce the editorial one-sentence form, write `**Short:** [TBD: <category>]` as a placeholder — categories are *Citation* (body ≤ 60 words; the citation itself is the short form), *Citation+Context* (60–250 words; citation + one load-bearing sentence), *Mini-essay* (>250 words; editorial compression needed), or *Verification* (pending-verification entries; short form is a pointer to the dossier). The TBD scaffold keeps the entry parseable from day one; the editorial pass refines it later.
+**Rule when adding a new endnote** (every time, no exceptions): the entry MUST include a `**Short:**` field on the line directly after the heading. If you cannot yet produce the editorial one-sentence form, write `**Short:** [TBD: <category>]` as a placeholder — categories are *Citation* (body ≤ 60 words; the citation itself is the short form), *Citation+Context* (60–250 words; citation + one load-bearing sentence), *Mini-essay* (>250 words; editorial compression needed), or *Verification* (pending-verification entries; short form is a pointer to the companion). The TBD scaffold keeps the entry parseable from day one; the editorial pass refines it later.
 
 **Don't let short-form discipline become a procrastination valve.** Writing `**Short:** [TBD: ...]` in the moment of drafting and refining later is the correct workflow. The discipline is *have the slot, fill it eventually* — not *block on perfect compression now*.
 
 **Categorization is advisory, not gating.** The `[TBD: Mini-essay]` tag tells the editorial pass that compression is the work; `[TBD: Citation]` tells it the body is already the short form (copy verbatim). The category is a hint for prioritization, not a constraint on the final short form.
 
-**Build pipeline (planned):** `build_book.py --endnotes=short` will emit only the `**Short:**` line content per entry (dropping the `**Short:**` marker and the rest of the body), used for the printed-book endnote section. `--endnotes=full` (current default) emits the full body, used for the dossier. Pipeline integration lands when the editorial pass produces actual short content; until then, `--endnotes=short` would emit `[TBD: ...]` placeholders, which is not useful.
+**Build pipeline (planned):** `build_book.py --endnotes=short` will emit only the `**Short:**` line content per entry (dropping the `**Short:**` marker and the rest of the body), used for the printed-book endnote section. `--endnotes=full` (current default) emits the full body, used for the companion. Pipeline integration lands when the editorial pass produces actual short content; until then, `--endnotes=short` would emit `[TBD: ...]` placeholders, which is not useful.
 
 **One-time sweep (2026-05-18):** every existing entry in `as_endnotes.md` was scaffolded with a `**Short:** [TBD: <category>]` placeholder by `working/endnotes_short_scaffold.py`. The script is idempotent — re-running it skips entries that already carry a `**Short:**` field — so it can be invoked again if entries get added without their Short field by accident.
 

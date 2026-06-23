@@ -11,7 +11,7 @@
 | **Ch 7** | *ॐ (Oṃ): The Anatomy of Sound* | Descriptive — voice as *ādivādya*, the mouth as the original instrument; standard phonetic vocabulary + Sanskrit naming |
 | **Ch 8** | *Mapping the Mouth: The Sonomeric Grid* | Polemic — the *varṇamālā* as engineered selection of well-separated *sthāna* positions from the superset of mouth-producible sounds |
 | **Ch 9** | *The Subcontinental Superset* | Evidence — surveys non-IE Indic inventories to demonstrate the Indic Superset thesis |
-| **AP3** | *The Sonomer and the Audiograph* | Prosecution + reference — Sanskrit is sonomeric before audiographic; Brāhmī ≠ Aramaic; complete dossier for the serious reader |
+| **AP3** | *The Sonomer and the Audiograph* | Prosecution + reference — Sanskrit is sonomeric before audiographic; Brāhmī ≠ Aramaic; complete companion for the serious reader |
 
 ---
 
@@ -90,7 +90,7 @@ Reading order matters.  Each chapter advances one stage of the argument; the fig
 - **Movement 2 (9.5–9.7)** — geography-independence + the orthodox-IE failure.  Korean nests at 87%; English at 50%; Farsi at 44%.  The orthodoxy's "Indo-Iranian closeness" claim has no inventory-level corroboration.
 - **Movement 3 (9.8)** — the PIE trajectory.  Even the orthodoxy's own ancestor reconstruction has DRIFTED from Sanskrit over 150 years.  The reconstruction project's instability is itself evidence against treating it as an empirical anchor.
 
-**AP3** — *here is the entire dataset, methodology, and critique catalogue for the serious reader.*  The dossier behind the chapter claims.  Holds the full atlas, the 8-metric pairwise tables, the methodology critique, the named-source citations.
+**AP3** — *here is the entire dataset, methodology, and critique catalogue for the serious reader.*  The companion behind the chapter claims.  Holds the full atlas, the 8-metric pairwise tables, the methodology critique, the named-source citations.
 
 ---
 

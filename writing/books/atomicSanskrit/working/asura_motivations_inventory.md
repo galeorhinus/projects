@@ -5,7 +5,7 @@
 
 **Findings:** 99 raw passages → 56 unique passages after file:line dedup → 9 emergent thematic clusters → 10 multi-motivation structural passages.
 
-**Use:** Source dossier for drafting *The Asuric Pyramid's Playbook* (AP10) and for verifying the canonical motivation-vocabulary the manuscript already uses. Every body deployment of *asura motivation* / *asuric pyramid motivation* should match the vocabulary catalogued here rather than introducing fresh terms.
+**Use:** Source reference for drafting *The Asuric Pyramid's Playbook* (AP10) and for verifying the canonical motivation-vocabulary the manuscript already uses. Every body deployment of *asura motivation* / *asuric pyramid motivation* should match the vocabulary catalogued here rather than introducing fresh terms.
 
 ---
 

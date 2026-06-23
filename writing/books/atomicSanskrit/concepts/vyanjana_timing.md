@@ -2,7 +2,7 @@
 
 Captured from the initial response to *"in actual speech — how long, in milliseconds, does a consonant stop last?"* The full analytical sweep is preserved here: modern phonetics measurements alongside the Indic *Śikṣā* specification, with the convergence point named. Held for development into appendix material as more data lands.
 
-**Companion endnote:** `vyanjana-duration-shiksha` (in `as_endnotes.md`) — the dossier-grade version with citations and the cross-reference network. This document carries the longer-form prose development for possible appendix deployment.
+**Companion endnote:** `vyanjana-duration-shiksha` (in `as_endnotes.md`) — the reference-grade version with citations and the cross-reference network. This document carries the longer-form prose development for possible appendix deployment.
 
 ---
 
@@ -355,7 +355,7 @@ The decision rests on how much new data the open-questions list above yields. A 
 
 ## Cross-references
 
-- **Endnote** `vyanjana-duration-shiksha` — dossier-grade version (in `as_endnotes.md`), deployed at Ch 15 §15.1.
+- **Endnote** `vyanjana-duration-shiksha` — reference-grade version (in `as_endnotes.md`), deployed at Ch 15 §15.1.
 - **Endnote** `hrasva-dirgha-pluta-matra` — vowel-duration framework (companion specification, in `as_endnotes.md`).
 - **Design notes** `working/as_dhatu_hexagon_design_notes.md` — the visualization scheme that builds on this timing specification (½:1:2 ratios encoded as hexagon widths).
 - **Visualization tool** `working/dhatu_hexagons/dhatu_hexagon.py` — generates SVGs encoding the ½-mātrā vyañjana / 1-mātrā hrasva / 2-mātrā dīrgha distinction as constant-height variable-width hexagons.

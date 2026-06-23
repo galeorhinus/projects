@@ -13,7 +13,7 @@
 
 ## 1. What this doc plans
 
-***Appendix Part 10 — The Asuric Pyramid's Playbook*** is the *personal-mind dossier* for the asuric pyramid's operation. The body chapters prosecute the *architecture*. AP10 lets the reader recognize the *small interiors* that compound into the pyramid — without re-litigating each instance.
+***Appendix Part 10 — The Asuric Pyramid's Playbook*** is the *personal-mind companion* for the asuric pyramid's operation. The body chapters prosecute the *architecture*. AP10 lets the reader recognize the *small interiors* that compound into the pyramid — without re-litigating each instance.
 
 The pyramid does not survive because its operators are strong. It survives because there are so many of them — each one as small as the last, each small interior reinforcing the next. AP10 is the catalog of the small interiors.
 
@@ -291,7 +291,7 @@ Each link in the chain is treated at the personal-mind register:
 Closing. Short. ~1–2 pages. Three structural payoffs:
 
 - **Pattern recognition at the personal scale.** The reader can now recognize the small interior mode the modern apparatus operator is in — the senior reviewer's burning interior, the editor's metabolized grudge, the committee chair's matched-promotion volunteering — without re-litigating each instance.
-- **The body chapters do not need the apparatus dossier.** The prosecution of the architecture stands on its own. AP10 §3 protects the body's focus by carrying the personal-mind catalog separately.
+- **The body chapters do not need the apparatus companion.** The prosecution of the architecture stands on its own. AP10 §3 protects the body's focus by carrying the personal-mind catalog separately.
 - **The Epilogue's call to *make the world ārya* lands operationally at the personal scale.** Once the reader can name the small wound in any specific operator, the call is not aspirational — it is the work of refusing to host the wound in oneself, refusing to mistake the wound for an argument, refusing to confuse the perimeter with the self.
 
 Closing line: *Vyāsa named the wounds. Vālmīki named the wounds. The names still fit; the faces are simply new. The reader who can name them can refuse them.*

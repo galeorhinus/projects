@@ -22,7 +22,7 @@ The book's structure already reads as a prosecution; Codex mapped the existing a
 | Cross-examination and verdict | Part VI (Chs 16–18) |
 | The remedy | Part VII (Ch 19) |
 | The closing statement | Epilogue (*Make the World Ārya*) |
-| Exhibits | Appendices, figures, dossier |
+| Exhibits | Appendices, figures, companion |
 
 The ***Prologue — The Prosecution*** and ***Epilogue — Make the World Ārya*** bookend the book's prosecutorial arc as discrete dedicated divisions.
 

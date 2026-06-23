@@ -1,12 +1,12 @@
 # Preface
 
-This volume is the companion *Source & Verification Dossier* to the printed book *Atomic Sanskrit: The Fractal Calibration Architecture of Sanātan*. The printed book carries one-sentence endnotes — citation anchors, named references, the load-bearing sentence the printed-book reader needs at the point of citation. The dossier carries the full long-form: complete bibliographic citations, primary-source quotes, verification trails, source-history discussions, structural-significance analysis. The two volumes share a single source. The printed book's endnote at *"See expanded endnote for X"* points here.
+This volume is the *Source and Reference Companion* to the printed book *Atomic Sanskrit: The Fractal Calibration Architecture of Sanātan*. The printed book carries one-sentence endnotes — citation anchors, named references, the load-bearing sentence the printed-book reader needs at the point of citation. The companion carries the full long-form: technical appendices, complete bibliographic citations, primary-source quotes, verification trails, source-history discussions, structural-significance analysis. The two volumes share a single source. The printed book's endnote at *"See expanded endnote for X"* points here.
 
-The dossier is for the reader the printed book respects but does not need to slow down for: the serious reader, the reviewer, the critic, the hostile academic. The case the printed book makes is the case the dossier documents. Every claim, every citation, every primary source. The case rests on visible architecture; the dossier is the apparatus that lets a determined reader verify it.
+The companion is for the reader the printed book respects but does not need to slow down for: the serious reader, the reviewer, the critic, the hostile academic. The case the printed book makes is the case the companion documents. Every claim, every citation, every primary source. The case rests on visible architecture; the companion is the apparatus that lets a determined reader verify it.
 
 ## How to navigate
 
-Each entry begins with its **stub-name** as a section heading — a lowercase-hyphenated identifier like `samskrtam-morphology` or `eleven-pathas`. The same stub-names appear in the printed book's endnotes; both volumes share the identifiers.
+Reference-only technical appendices appear before the endnotes. After that, each endnote entry begins with its **stub-name** as a section heading — a lowercase-hyphenated identifier like `samskrtam-morphology` or `eleven-pathas`. The same stub-names appear in the printed book's endnotes; both volumes share the identifiers.
 
 Each entry's structure:
 

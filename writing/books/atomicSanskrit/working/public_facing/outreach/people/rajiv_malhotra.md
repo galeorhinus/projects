@@ -60,7 +60,7 @@ In the *Battle Positions* appendix terminology, both prosecutions stand in Posit
 
 ## Books
 
-See companion files in this directory:
+See the companion files in this directory:
 
 - ***rajiv_malhotra_battle_for_sanskrit.md*** — *The Battle for Sanskrit* (2016). Primary Pollock prosecution. Most relevant to *Atomic Sanskrit*'s *Battle Positions* appendix.
 - *(Other titles to be added as needed: **Being Different** (2011), **Breaking India** (2011), **Indra's Net** (2014), **Sanskrit Non-Translatables** (2020, with Satyanarayana Dasa Babaji), **Snakes in the Ganga** (2022), **Artificial Intelligence and the Future of Power** (2021). Add files when specific outreach angles need anchoring against a particular book.)*

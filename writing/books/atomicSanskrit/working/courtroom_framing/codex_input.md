@@ -149,7 +149,7 @@ Chain of custody        Ch13-15
 Cross-examination       Ch16-17
 Verdict                 Ch18
 Remedy / sentence       Ch19 + Epilogue
-Exhibits                Appendices, figures, dossier
+Exhibits                Appendices, figures, companion
 ```
 
 Best improvement: rename or subtitle parts, not chapters.

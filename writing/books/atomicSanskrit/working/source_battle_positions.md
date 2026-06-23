@@ -3,7 +3,7 @@
 **Date:** 2026-06-10
 **Status:** **SOURCE MATERIAL.** Originally drafted as a standalone Battle Positions appendix planning doc, then re-scoped as source for AP10 §2. AP10 has been collapsed into Appendix 0; the Battle Positions content is now absorbed into AP0 §4 *Positions the pyramid takes*. The canonical plan lives at `working/ap0_authority_oppression_finite_plan.md`.
 
-This file is preserved as a source dossier for AP0 §4 drafting: the Position 1 / 2 / 3 / missionary-layer taxonomy, the named figures within each position, and the structural-unity verdict.
+This file is preserved as a source reference for AP0 §4 drafting: the Position 1 / 2 / 3 / missionary-layer taxonomy, the named figures within each position, and the structural-unity verdict.
 
 ---
 
@@ -50,7 +50,7 @@ Purpose:
 
 - Keep named opponents out of the Preface body.
 - Avoid turning the book into a literature review.
-- Give allies a compact dossier.
+- Give allies a compact companion.
 - Prevent reviewers from pretending the book failed to know the existing positions.
 
 ### X.2 Position 1 — Pre-Pāṇinian Engineering
