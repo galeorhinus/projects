@@ -158,14 +158,8 @@ The choice Deccan College made in 1948 can be unmade today.
 
 Nothing needs to be thrown away. Thirty-five volumes, 6,056 pages, 1,500 corpus texts, ten million Scriptorium slips — all of it is empirically valuable. The framework changes; the data is preserved entirely.
 
-<!-- AISWEEP-OLD
-The same corpus, engaged through the Patañjalian frame the data has been confirming all along, supplies direct empirical evidence for the engineered Sanskrit thesis. Read through Patañjalian specification, the geography and chronology of attested *apabhraṃśa* the project has catalogued becomes the empirical map of where the calibrant envelope was tested. Read through Pāṇini, the generative output across the centuries — Buddhist literature, *Navya-Nyāya* logic, *Jyotiṣa* astronomy, *Rasaśāstra* alchemy, mediaeval commentary — is the *kṛt* / *taddhita* / *samāsa* engine running. Read through the calibrant frame, the semantic-extension trajectories of *yantra* / *dharma* / *brahman* are the architecture extending its semantic reach without breaking the phonetic form. The same data; a different account.
-AISWEEP-END -->
 The same corpus, set inside Sanskrit's own framework, becomes direct evidence for the engineered Sanskrit thesis — the very thesis the data has been confirming all along. The three layers §2.5 separated each carry the proof. Seen through Patañjali's *apabhraṃśa*: the variant forms the project catalogued map exactly where speech drifted against the engineered standard. Seen through Pāṇini: the new technical vocabulary the project recorded across the centuries — Buddhist literature, *Navya-Nyāya* logic, *Jyotiṣa* astronomy, *Rasaśāstra* alchemy, mediaeval commentary — is the *kṛt* / *taddhita* / *samāsa* engine running, producing new words on demand. Seen through the calibrant frame: the meaning-shifts of *yantra*, *dharma*, and *brahman* are the architecture stretching its reach while the spoken form holds unbroken. The same data; a different account.
 
-<!-- AISWEEP-OLD
-The imposed chronology can be set aside. The BCE/CE dates — *Ṛgveda* around 1400 BCE, Pāṇini around 500 BCE, Patañjali in the second century BCE — were imposed so the method could run. They are framework-internal calibrations.
-AISWEEP-END -->
 The imposed chronology can be set aside. The BCE/CE dates — *Ṛgveda* around 1400 BCE, Pāṇini around 500 BCE, Patañjali in the second century BCE — are not findings about the texts. They are chronology capture: a beginningless architecture forced into the pyramid's clock so it can be sequenced, ranked, and subordinated.
 
 Relative chronology can replace them. Patañjali's *Mahābhāṣya* cites the *Aṣṭādhyāyī*; the *Vārttikāni* comment on Pāṇini and are themselves cited by Patañjali; Yāska's *Nirukta* references earlier Vedic frameworks and is cited by later commentators. Sort the texts by the cross-references they themselves carry — *after* the *Aṣṭādhyāyī*, *before* the *Kāśikāvṛtti*, *contemporaneous with* a named commentator. Texts that cannot anchor remain unanchored. An honest orphan is better than a fabricated date.
@@ -185,9 +179,6 @@ What does the reframe offer Sanskrit? Restatement of the engineered architecture
 
 What does the reframe offer the world? A corrected understanding of an engineered linguistic system — the first such system any civilization has built. The methodologies inside the engineered Sanskrit thesis become available to the other engineered-preservation traditions: Masoretic Hebrew, Quranic Arabic, ecclesiastical Latin. A field that has studied sacred-engineered languages each on separate terms gains a comparative framework for the first time.
 
-<!-- AISWEEP-OLD
-The project measures the large set. The grammar specifies the small set. Reframed, the data shows what the *church of progress* has been documenting without recognizing — drift catalogued around a specification that holds. Many corruptions per correct word, as Patañjali said. The work has been valuable all along. The framing is the only thing that has obscured it.
-AISWEEP-END -->
 The dictionary measures the large set — everything speakers actually produced. The grammar specifies the small set — the invariant core that does not move. Reframed, the data shows what the *church of progress* has been documenting without recognizing: drift catalogued around a specification that holds. Many corruptions per correct word, as Patañjali said. The work has been valuable all along. The framing is the only thing that has obscured it.
 
 Deccan College made a choice in 1948. It can make a different choice today.

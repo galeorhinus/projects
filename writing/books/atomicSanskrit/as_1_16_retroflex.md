@@ -54,9 +54,6 @@ The substrate-borrowing account needs change. The continuum forbids it. There is
 
 The internal incoherence is worse. The same church of progress that documents the *Prātiśākhya* discipline, the layered recitation systems, the phoneme-level correction mechanisms, and the multi-generational transmission architecture must explain why the engineers of that preservation infrastructure passively recorded substrate-acquired phonemes at the structural center of the system they preserved. Architects who design preservation at that level of rigor *choose* what to preserve. They do not arrive at central placement by accident. The substrate claim asks the reader to accept that engineers of unprecedented rigor were also passive recipients of contact phonology — at the exact site, the *mūrdhanya* class, where the architecture later turns out to be most active.
 
-<!-- AISWEEP-OLD
-The claim cannot survive the structural reading.
-AISWEEP-END -->
 The claim cannot survive structural scrutiny.
 
 ## 16.2 The Retroflex Is Architectural
@@ -65,14 +62,8 @@ The empirical record reverses the substrate claim at four measurable levels. Cha
 
 **The *ṛ* (ऋ) / *ra* (र) bridge — cross-inventory coupling at the *mūrdhanya* (मूर्धन्य) site.** Sanskrit places the *r*-principle in two forms at the same articulatory location. *Ṛ* (ऋ) is the only **स्वर (*svara*)** placed at the *mūrdhanya* position — a vowel that occupies a retroflex site. *Ra* (र) is the **व्यञ्जन (*vyañjana*)** of the same articulatory place. The two are derivationally linked: under **यण्-सन्धि (*yaṇ-sandhi*)**, vocalic *ṛ* resolves into *ra* before a following vowel. The same articulatory principle crosses the vowel/consonant boundary, taking nuclear form in the *svara* table and bonding form in the *vyañjana* table. Borrowed features do not show this kind of cross-inventory coupling. They sit at the surface of an inventory; they do not link a nuclear position to a bonding position at the same articulatory site.
 
-<!-- AISWEEP-OLD
-The epigraph states the site directly. The meaning is simple: मूर्धा (*mūrdhā*) — the head / roof of the mouth — is the articulatory site for ऋ (*ṛ*), the टु (*ṭu*) class, र (*ra*), and ष (*ṣa*).[NOTE: rturasanam-murdha-shiksha]
-AISWEEP-END -->
 The epigraph precisely points to the location in the mouth: मूर्धा (*mūrdhā*) — the head / roof of the mouth — is the articulatory site for ऋ (*ṛ*), the टु (*ṭu*) class, र (*ra*), and ष (*ṣa*).[NOTE: rturasanam-murdha-shiksha] But the line does more than state the rule. Its own sound-body performs it. In the operative word ऋटुरषाणां (*ṛṭuraṣāṇāṃ*), the first vowel is ऋ (*ṛ*); the consonantal spine is ट-र-ष-ण (*ṭ-r-ṣ-ṇ*) — retroflex, semi-retroflex, retroflex, retroflex. The mouth must enter the site to say the rule that specifies the site. Sanskrit's phonetic science does not merely describe the architecture from outside. It makes the speaker perform the architecture while stating it.
 
-<!-- AISWEEP-OLD
-The depth goes further. ऋ (*ṛ*) is not merely placed at the *mūrdhanya* site. It appears at the minimum layer of the architecture. The *Dhātupāṭha* preserves ऋ (*ṛ*) as a semantic atom of one मात्रा (*mātrā*) — the bare vowel-core, the smallest possible धातुः (*dhātuḥ*). The oldest Vedic corpus is named through the same sound: ऋच् (*ṛc*), the verse of praise; ऋग्वेद (*Ṛgveda*), the Veda of the *ṛcaḥ*. The cosmological vocabulary is named through it as well: ऋत (*ṛta*), the order by which reality holds. The same sound is atomic, Vedic, cosmological, and articulatory.
-AISWEEP-END -->
 The depth goes further. ऋ (*ṛ*) is not merely placed at the *mūrdhanya* site. It appears at the minimum layer of the architecture. The *Dhātupāṭha* preserves ऋ (*ṛ*) as a semantic atom of one मात्रा (*mātrā*) — the bare vowel-core, the smallest possible धातुः (*dhātuḥ*). The oldest Vedic corpus takes its name from the same sound: ऋच् (*ṛc*), the verse of praise; ऋग्वेद (*Ṛgveda*), the Veda of the *ṛcaḥ*. The cosmological vocabulary carries it too: ऋत (*ṛta*), the order by which reality holds. The same sound is atomic, Vedic, cosmological, and articulatory. This is recurrence across scale, not surface borrowing: one sonomer appears as mouth-position, semantic atom, textual name, and civilizational category. The racial Arya thesis must explain that depth. A feature so integral to the architecture cannot be treated as "late substrate residue."
 
 ***Ṛ* (ऋ) as the second-most-active vowel of the *Dhātupāṭha*.** Of the *varṇamālā*'s fourteen vowels, *ṛ* carries **15.3%** of CVC deployment across the *Dhātupāṭha* — second only to *a* (अ). Cross-linguistically, the syllabic *ṛ* is typologically rare; most languages have no equivalent, and where it exists it is marginal. In Sanskrit, *ṛ* drives major *dhātu* families: *kṛ* (कृ, *to make*), *vṛ* (वृ, *to choose*), *dṛś* (दृश्, *to see*), *mṛ* (मृ, *to die*), *hṛ* (हृ, *to carry*), *tṛp* (तृप्, *to be satisfied*), *vṛt* (वृत्, *to turn*), *sṛj* (सृज्, *to release*). These atoms generate massive vocabulary — *karma*, *manas*, *mokṣa*, *sṛṣṭi*, *vṛddhi*, *prakṛti*, *vikṛti*, and hundreds more. A typologically rare phoneme is engineered into the four-vowel reactive core.
@@ -157,9 +148,6 @@ What was the audience completing? Two counts.
 
 **One: the colonial sound-field could not flex.** Its native phonology contained no retroflex articulation; untrained English mouths produced alveolars where the engineered Indic sound-system required ट, ड, ण; on the Sanskrit-technical definition of *mleccha*, this was the category the colonial claim occupied.
 
-<!-- AISWEEP-OLD
-**Two: nothing in colonial conduct resembled what *āryatva* meant.** *Ārya* in Sanātan's own vocabulary named the disciplined, learned, restrained, skilled population bound to an order of conduct.
-AISWEEP-END -->
 **Two: nothing in colonial conduct resembled what *āryatva* meant.** *Ārya* in Sanātan's own vocabulary meant the disciplined, learned, restrained, skilled population bound to an order of conduct. The colonial state in the subcontinent was brutal, oppressive, and extractive; even its learned class — the philologists, the anthropologists, the colonial administrators — lacked the restraint *āryatva* required.
 
 Savarkar was technically accurate. The colonial claim failed the test of *āryatva* on two counts simultaneously: as a sound-field that did not produce the engineered Indic retroflex, and as a ruling formation whose conduct could not approach what *āryatva* required.

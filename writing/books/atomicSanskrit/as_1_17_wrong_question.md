@@ -118,9 +118,6 @@ The chain is the recipe. PIE is the bake.
 
 The pyramid's speculation is not neutral reason correcting the Hindu continuum. It is a nineteenth-century European reconstruction promoted into an ancestor, the ancestor into a homeland, the homeland into a migration, the migration into a civilizational story, and the story into the default frame through which Sanskrit is now taught back to Hindus. The Hindu continuum is told that its own categories are faith while the pyramid's imaginary ancestor is science.
 
-<!-- AISWEEP-OLD
-The same machinery that calls Hindu civilizational memory "story" asks the world to treat its own constructed ancestor as science. That asymmetry is the point. Sanskrit, preserved in sound and use, was declared dead.
-AISWEEP-END -->
 The same machinery that calls Hindu civilizational memory "mythology" asks the world to treat its own constructed ancestor as science. Sanskrit, preserved in sound and use, was declared dead. PIE, preserved nowhere, recited nowhere, spoken by no known community, was granted ancestral life.
 
 That is the inversion. The speculation is not absent. It is wearing the robes of the ***priests of progress***, defended by its ***jihadis of progress***, exported by its ***missionaries of progress*** — the ***church of progress*** operating in *asuric* mode (Chapter 3 §3.6).
@@ -143,9 +140,6 @@ Appendix Part 3 §3.5 has already run this move in another domain: it grants eve
 
 The counter-thesis is stronger than the pyramid can ever afford to admit. Pyramidal worlds generate outward pressure. Coercive hierarchies, master-slave formations, war, taxation, captivity, hunger, and apex rule all push people outward. A prosperous civilizational field pulls people inward. For thousands of years India was a major economic and intellectual center: a place of trade, patronage, learning, ritual, renunciation, debate, and absorption. If people moved into India from oppressive borderlands, the movement need not be taken as conquest. It may just as naturally be taken as escape, livelihood, study, patronage, and refuge.
 
-<!-- AISWEEP-OLD
-That reversal matters because it exposes the emotional structure of the migration story. The pyramid imagines strong outsiders entering India and civilizing it.
-AISWEEP-END -->
 That reversal exposes the emotional structure of the migration story. The pyramid imagines strong outsiders entering India and civilizing it. The counter-thesis is more human and historically ordinary: people pressured by pyramidal borderlands entered a seeker civilization and were absorbed. Foreign DNA, in that frame, is not the footprint of the author. It is the trace of the absorbed.
 
 Movement out of India is equally unsurprising. A civilization that developed linguistic precision, yogic discipline, philosophical schools, medicinal systems, mathematical imagination, metallurgy, textile and dye works, shipbuilding, monumental stonework, monastic institutions, commercial networks, and grammatical science would naturally send knowledge-bearers outward. A knowledge-bearer does not need an invading army behind him. A grammarian does not need a racial horde. A physician, astronomer, metallurgist, weaver, dyer, shipwright, mason, goldsmith, potter, trader, storyteller, Vedic expert, teacher, or artisan needs a road, a patron, a monastery, a court, a caravan, a workshop, or a student. Buddhist history makes that outward movement visible in a later period; the principle is not difficult.
