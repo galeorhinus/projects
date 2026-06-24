@@ -66,7 +66,7 @@ Sanskrit's comparison target is the 23-cell base. The ten *mahāprāṇa* stop c
 
 Holding *mahāprāṇa* aside does not demote breath. It isolates the base field first.
 
-![Figure 8.1 — Sanskrit's 23-cell Base before *mahāprāṇa*. Sanskrit's full consonantal inventory shown on the place × manner matrix, with the ten heavy-breath stop cells (ख · छ · ठ · थ · फ and घ · झ · ढ · ध · भ) held aside as faded tiles. The 23 base cells are the comparison target across the seven surveys (§§8.6–8.8 and Appendix Part 4).](figures/superset/sanskrit_base_before_mahaprana.svg){#fig:ch8-sanskrit-base-before-mahaprana width=86%}
+![Figure 8.1 — Sanskrit's 23-cell Base before *mahāprāṇa*. Sanskrit's full consonantal inventory shown on the place × manner matrix, with the ten heavy-breath stop cells (ख · छ · ठ · थ · फ and घ · झ · ढ · ध · भ) held aside as faded tiles. The 23 base cells are the comparison target across the seven surveys (§§8.6–8.8 and Appendix Part 4).](figures/superset/sanskrit_base_before_mahaprana.svg){#fig:ch8-sanskrit-base-before-mahaprana width=100%}
 
 The atlas analysis measures how much of that 23-cell base is covered by small sets of languages. A cell is covered if at least one language in the comparison set lights that coordinate.[NOTE: inventory-atlas-coverage-surveys]
 

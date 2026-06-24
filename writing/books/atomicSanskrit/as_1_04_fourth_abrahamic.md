@@ -44,7 +44,7 @@ The four Abrahamic religions are not merely closed corporations. They are pyrami
 
 ![Figure 4.1a — Same Pyramid, Four Versions: V1-V3. Judaism, Christianity, and Islam share the same pyramidal structure: apex authority, dogma, priestly interpretation, institutions, expansion, enforcement, and base.](figures/fourth_abrahamic/same_pyramid_named_religions.svg){#fig:ch4-same-pyramid-v1-v3 width=100%}
 
-![Figure 4.1b — Same Pyramid, Four Versions: V4. Progressivism keeps the same pyramidal structure and secularizes the vocabulary into progressivism, priests of progress, church of progress, missionaries of progress, jihadis of progress, and believers / pliables / deniers.](figures/fourth_abrahamic/same_pyramid_progressivism.svg){#fig:ch4-same-pyramid-v4 width=86%}
+![Figure 4.1b — Same Pyramid, Four Versions: V4. Progressivism keeps the same pyramidal structure and secularizes the vocabulary into progressivism, priests of progress, church of progress, missionaries of progress, jihadis of progress, and believers / pliables / deniers.](figures/fourth_abrahamic/same_pyramid_progressivism.svg){#fig:ch4-same-pyramid-v4 width=100%}
 
 ## 4.2 The Two Dogmas
 

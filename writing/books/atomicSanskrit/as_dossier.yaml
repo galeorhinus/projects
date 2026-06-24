@@ -18,7 +18,7 @@ lang: en-US
 # --- Typography (matches as_book.yaml) ---
 mainfont: Charter                  # Latin + IAST diacritics
 devanagarifont: Adobe Devanagari   # substituted into templates/devanagari-preamble.tex.in
-fontsize: 11pt
+fontsize: 10.5pt
 linestretch: 1.15
 
 # --- Document structure ---

@@ -124,7 +124,7 @@ LAYOUTS = {
     # ~4.5×7.5 text block centered on 8.5×11 — book-page mock-up on letter paper.
     "book-on-letter": "paperwidth=8.5in,paperheight=11in,textwidth=4.5in,textheight=7.5in,centering",
     # True 6×9 trim with book-style asymmetric margins (inner > outer for binding).
-    "trade": "paperwidth=6in,paperheight=9in,inner=0.875in,outer=0.625in,top=0.75in,bottom=0.875in",
+    "trade": "paperwidth=6in,paperheight=9in,inner=0.75in,outer=0.5in,top=0.5in,bottom=0.75in",
     # Narrow 3×6 trim with minimal margins — sized for phone-screen reading.
     # ~2.6×5.6 text block (~81% of page area is text) maximizes readable area.
     "phone": "paperwidth=3.5in,paperheight=7in,margin=0.1in",
@@ -189,6 +189,7 @@ SCRIPT_WRAPS: list[tuple[str, re.Pattern]] = [
         r"✓✗"      # ✓ ✗ (table cell glyphs)
         r"₀-₉"     # subscript digits ₀-₉
         r"ʷʾʿ"     # modifier letters ʷ ʾ ʿ
+        r"ʈʂʔ"     # rare phonetic symbols used in inventory/endnote examples
         r"ēō"      # ē ō (Latin with macron)
         r"ḱẓ"      # ḱ ẓ
         r"⊇"       # superset-or-equal (Ch 18 §18.x: Sanskrit ⊇ PIE) —
@@ -208,6 +209,27 @@ def wrap_scripts_for_latex(md_text: str) -> str:
             md_text,
         )
     return md_text
+
+
+SVG_IMAGE_RE = re.compile(r"(!\[[^\]]*\]\()([^)\s]+\.svg)(\)(?:\{[^}\n]*\})?)")
+
+
+def prefer_png_images_for_pdf(md_text: str) -> str:
+    """Use sibling PNGs for PDF builds when a Markdown image points at SVG.
+
+    Manuscript sources stay canonical with SVG links. The assembled Markdown
+    handed to Pandoc uses `figure.png` only when it exists beside `figure.svg`,
+    preserving the caption and any trailing Pandoc image attributes.
+    """
+    def replace(match: re.Match) -> str:
+        prefix, image_path, suffix = match.groups()
+        svg_path = BOOK_DIR / image_path
+        png_path = svg_path.with_suffix(".png")
+        if png_path.exists():
+            return f"{prefix}{png_path.relative_to(BOOK_DIR).as_posix()}{suffix}"
+        return match.group(0)
+
+    return SVG_IMAGE_RE.sub(replace, md_text)
 
 
 # Inline note-marker handling. Each `[NOTE: stub-name]` in chapter prose is
@@ -610,6 +632,7 @@ def cmd_assemble(endnotes_mode: str = "full") -> int:
         print(f"  include {filename}")
 
     assembled = "".join(chunks)
+    assembled = prefer_png_images_for_pdf(assembled)
     # Wrap non-Latin scripts in raw-LaTeX font-switch commands. See
     # wrap_scripts_for_latex / SCRIPT_WRAPS for the per-script ranges.
     assembled = wrap_scripts_for_latex(assembled)
@@ -766,6 +789,7 @@ def cmd_dossier(layout: str = "letter") -> int:
         entries_body.rstrip(),
         "",
     ])
+    assembled = prefer_png_images_for_pdf(assembled)
     # Wrap non-Latin scripts in raw-LaTeX font-switch commands per the same
     # convention cmd_assemble uses.
     assembled = wrap_scripts_for_latex(assembled)
