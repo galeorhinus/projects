@@ -85,9 +85,12 @@ The family label is not structural. Geography is structural — and inside the *
 
 ## 4.5 Northwest Frontier Survey: 20 of 23
 
+<!-- AISWEEP-OLD
 This is the deepest result in the appendix.
 
 Three north-western contact-zone languages — Pashto (*"Iranian"* by the pyramid's label, Afghanistan and Pakistan tribal belt), Nuristani (a separate IE branch isolated in the Hindu Kush valleys), and Burushaski (the Hunza Valley isolate) — cover 20 of 23. The unfilled cells are exactly the three the body's Southern Survey (Tamil + Toda + Kurukh) leaves unfilled: **ल · स · श**.
+AISWEEP-END -->
+Three north-western contact-zone languages — Pashto (*"Iranian"* by the pyramid's label, Afghanistan and Pakistan tribal belt), Nuristani (a separate IE branch isolated in the Hindu Kush valleys), and Burushaski (the Hunza Valley isolate) — cover 20 of 23, the deepest result in the appendix. The unfilled cells are exactly the three the body's Southern Survey (Tamil + Toda + Kurukh) leaves unfilled: **ल · स · श**.
 
 ![Figure A.4.4 — Northwest Frontier Survey: 20 of 23 Sanskrit base coordinates. Pashto, Nuristani, and Burushaski cover the same 20 cells the deep-south Tamil + Toda + Kurukh set covers, with the same unfilled triple (ल · स · श). Two geographically opposite ends of the subcontinent deliver the same count.](figures/superset/sk_pashto_nuristani_burushaski.svg){#fig:app4-nw-frontier-survey width=100%}
 
@@ -97,9 +100,12 @@ The set is taxonomically mixed. Pashto is *"Iranian"* by the pyramid's label; Nu
 
 ## 4.6 Iranian Survey: 13 of 23 (Non-Contact Zone)
 
+<!-- AISWEEP-OLD
 The Iranian Survey is the Northwest Frontier Survey's geographic mirror image.
 
 Three Iranian languages outside the north-western contact zone — Farsi (Iran), Kurdish Kurmanji (northern Iraq, Syria, eastern Turkey), and Talysh (Caspian littoral, Azerbaijan and northern Iran) — cover only 13 of 23. The unfilled set runs **ट · च · ड · ज · ण · ञ · स · ष · श · र**: ten cells, including the entire retroflex column.
+AISWEEP-END -->
+Three Iranian languages outside the north-western contact zone — Farsi (Iran), Kurdish Kurmanji (northern Iraq, Syria, eastern Turkey), and Talysh (Caspian littoral, Azerbaijan and northern Iran) — cover only 13 of 23, the geographic mirror image of the Northwest Frontier Survey. The unfilled set runs **ट · च · ड · ज · ण · ञ · स · ष · श · र**: ten cells, including the entire retroflex column.
 
 ![Figure A.4.5 — Iranian Survey: 13 of 23 Sanskrit base coordinates. Three Iranian languages outside the north-western subcontinental contact zone cover the same number of Sanskrit's base cells as three random external languages. The retroflex column the Northwest Frontier Survey lit is here entirely unfilled.](figures/superset/sk_farsi_kurdish_talysh.svg){#fig:app4-iranian-survey width=100%}
 
@@ -109,9 +115,12 @@ The contact / non-contact axis carries the explanation. Swapping Talysh for Balo
 
 ## 4.7 Caucasus Survey: 10 of 23
 
+<!-- AISWEEP-OLD
 Caucasus Survey: floor of the eleven-survey set.
 
 Three languages from three different pyramid classifications, all from the Caucasus region: Armenian (a separate IE branch), Georgian (Kartvelian / South Caucasian, outside the IE classification altogether), and Ossetian (Iranian, north Caucasus). Coverage falls to 10 of 23 — lower than any other survey in the set. The unfilled list runs **ट · च · ड · ज · ण · ञ · ङ · स · ष · श · ल · र · व**: thirteen cells, the largest unfilled list of any survey.
+AISWEEP-END -->
+Three languages from three different pyramid classifications, all from the Caucasus region — Armenian (a separate IE branch), Georgian (Kartvelian / South Caucasian, outside the IE classification altogether), and Ossetian (Iranian, north Caucasus) — fall to 10 of 23, the floor of the eleven-survey set. The unfilled list runs **ट · च · ड · ज · ण · ञ · ङ · स · ष · श · ल · र · व**: thirteen cells, the largest unfilled list of any survey.
 
 ![Figure A.4.6 — Caucasus Survey: 10 of 23 Sanskrit base coordinates. Three pyramid classifications collide in one geographic region — and the floor coverage of all eleven surveys appears at exactly that point. Geographic distance from the subcontinent is what moves the number.](figures/superset/sk_armenian_georgian_ossetian.svg){#fig:app4-caucasus-survey width=100%}
 

@@ -16,7 +16,9 @@ Chapter 9 §9.6 introduced the *akṣara* as the audiograph. Chapter 13 §13.3 e
 
 ## 3.1 Sonomer First, Audiograph Second
 
+<!-- AISWEEP-OLD
 The order is simple.
+AISWEEP-END -->
 
 The **sonomer** is the measured sound-particle. It is articulated by place, shaped by effort, timed by **मात्रा (*mātrā*)**, classified inside the **वर्णमाला (*varṇamālā*)**, and made available to grammar.
 
@@ -76,9 +78,12 @@ The brilliance the pyramid locates in the adapter is the architecture the adapte
 
 ## 3.4 What Aramaic Cannot Carry
 
+<!-- AISWEEP-OLD
 The structural claim can be tested.
 
-Aramaic is a consonantal alphabet. Like its Phoenician parent, it represents consonants. Its letter order — *alep*, *bet*, *gimel*, *dalet* — carries accumulated scribal habit. It does not carry a mouth-map. It does not order sounds by place of articulation. It does not order sounds by effort. It does not flag the vowel-center of the syllable as an engineered principle. Vowels are supplied by the reader from knowledge of the language.
+Aramaic is a consonantal alphabet. Like its Phoenician parent, it represents consonants.
+AISWEEP-END -->
+Test the structural claim against Aramaic itself. Aramaic is a consonantal alphabet. Like its Phoenician parent, it represents consonants. Its letter order — *alep*, *bet*, *gimel*, *dalet* — carries accumulated scribal habit. It does not carry a mouth-map. It does not order sounds by place of articulation. It does not order sounds by effort. It does not flag the vowel-center of the syllable as an engineered principle. Vowels are supplied by the reader from knowledge of the language.
 
 Aramaic is a writing technology. It is not a phonetic specification.
 
@@ -100,7 +105,10 @@ Aramaic can carry glyph influence. It cannot carry sonomeric architecture.
 
 ## 3.5 The Aramaic-from-Brāhmī Thesis
 
-The title is intentionally provocative. It does not replace one lazy chronology with another. It does not claim, without evidence, that Aramaic historically descended from Brāhmī. It reverses the burden of explanation. For more than a century, the foundational dogma has treated the Brāhmī-from-Aramaic thesis as the sober default: Aramaic came earlier in the imperial archive, some signs appear comparable, and therefore Brāhmī must be explained as an Indian adaptation of a West Asian script. But what happens if the same presumption is inverted? What happens if Aramaic is asked to explain itself before being allowed to explain Brāhmī? What happens if chronology, resemblance, and contact are no longer permitted to masquerade as architecture? The question is not whether some graphic contact occurred. The question is whether Aramaic contains the structural principle required to generate the Indic script-world. That is the actual dispute.
+<!-- AISWEEP-OLD
+The title is intentionally provocative. It does not replace one lazy chronology with another. It does not claim, without evidence, that Aramaic historically descended from Brāhmī. It reverses the burden of explanation.
+AISWEEP-END -->
+The Aramaic-from-Brāhmī title reverses the burden of explanation — provocative by design. It does not replace one lazy chronology with another. It does not claim, without evidence, that Aramaic historically descended from Brāhmī. For more than a century, the foundational dogma has treated the Brāhmī-from-Aramaic thesis as the sober default: Aramaic came earlier in the imperial archive, some signs appear comparable, and therefore Brāhmī must be explained as an Indian adaptation of a West Asian script. But what happens if the same presumption is inverted? What happens if Aramaic is asked to explain itself before being allowed to explain Brāhmī? What happens if chronology, resemblance, and contact are no longer permitted to masquerade as architecture? The question is not whether some graphic contact occurred. The question is whether Aramaic contains the structural principle required to generate the Indic script-world. That is the actual dispute.
 
 The comparison between Brāhmī and Aramaic on the one hand, and Indian place-value notation and Roman numerals on the other, is a logic test, not a historical analogy. Nobody seriously argues that the Indian place-value system with zero was derived from Roman numerals. That is precisely why the comparison works: it exposes the logical error in a domain where nobody has a stake in protecting it. The two histories are not identical. The mode of explanation is — and moved into the clearer domain, it collapses on contact.
 
@@ -128,9 +136,12 @@ Prior notation is not architecture.
 
 ## 3.6 Stone Preserves the Pyramid
 
+<!-- AISWEEP-OLD
 The chronology objection does less work than the foundational dogma wants.
 
-The secure archaeological record shows Brāhmī in durable public form: royal edicts, stone inscriptions, cave records, coins, seals, potsherds, institutional markings. Aśoka's Mauryan edicts. Samudragupta's **प्रशस्ति (*prashasti*)** carved into the Allahabad pillar. Rudradāman's Junagadh rock inscription. Khāravela's Hāthīgumphā record. Each apex preserves itself. Each apex commanded the resources to make its writing survive.
+The secure archaeological record shows Brāhmī in durable public form: royal edicts, stone inscriptions, cave records, coins, seals, potsherds, institutional markings.
+AISWEEP-END -->
+The secure archaeological record shows Brāhmī in durable public form: royal edicts, stone inscriptions, cave records, coins, seals, potsherds, institutional markings — and that record does less work for the foundational dogma than it wants. Aśoka's Mauryan edicts. Samudragupta's **प्रशस्ति (*prashasti*)** carved into the Allahabad pillar. Rudradāman's Junagadh rock inscription. Khāravela's Hāthīgumphā record. Each apex preserves itself. Each apex commanded the resources to make its writing survive.
 
 That is the archive of survival, not the archive of invention.
 

@@ -131,7 +131,10 @@ The alternations do not carry that claim. They carry something else.
 
 ## 7.5 Meter, Not Decay
 
+<!-- AISWEEP-OLD
 The instrumental plural pair makes the issue plain. Vedic Sanskrit can use both shorter and longer forms — for *deva*:
+AISWEEP-END -->
+Vedic Sanskrit can use both a shorter and a longer instrumental plural — for *deva*:
 
 - Classical: ***devaiḥ*** (देवैः) — two syllables
 - Vedic: both ***devaiḥ*** (देवैः) and ***devebhiḥ*** (देवेभिः, three syllables), sometimes in the same hymn, sometimes within a few lines

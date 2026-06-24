@@ -6,7 +6,10 @@ No single number can carry that answer. The pattern has to recur across levels: 
 
 Two paths carry the audit. **Path A** measures the digital Pāṇinian **धातुपाठ (*Dhātupāṭha*)**: 2,168 entries across the ten **गणाः (*gaṇāḥ*)**, after **अनुबन्ध (*anubandha*)** markers are removed by the relevant *Aṣṭādhyāyī* rules. **Path C** measures actual use through the Digital Corpus of Sanskrit: corpus-attested combinatorial valency across parsed Sanskrit texts. Path A tests the inventory. Path C tests deployment.
 
+<!-- AISWEEP-OLD
 The two paths guard against a false confidence. A signal visible only in the dictionary inventory may be a compilation artifact. A signal visible only in corpus use may be a genre or survival artifact. A signal that survives both paths has more weight.
+AISWEEP-END -->
+A signal visible only in the dictionary inventory may be a compilation artifact. A signal visible only in corpus use may be a genre or survival artifact. A signal that survives both paths carries more weight, and the two-path design exists to catch the false confidence either path alone would breed.
 
 ---
 
@@ -26,7 +29,10 @@ Once those markers are removed, the compression becomes severe:
 
 The *akṣara* count sharpens the same result: **98.2%** of the measured *dhātavaḥ* are single-*akṣara* atoms. Semantic force is concentrated into small, stable forms.
 
+<!-- AISWEEP-OLD
 The correction is not cosmetic. Earlier measurements that did not apply the stripping rules properly made the system look less compressed. Remove the citation markers, and the modal three-particle form rises to 58.2%; single-*akṣara* dominance rises to 98.2%. Pāṇini's machinery is part of the measuring discipline, not an external clean-up tool.
+AISWEEP-END -->
+Earlier measurements that did not apply the stripping rules properly made the system look less compressed, and the gap is not cosmetic. Remove the citation markers, and the modal three-particle form rises to 58.2%; single-*akṣara* dominance rises to 98.2%. Pāṇini's machinery is part of the measuring discipline, not an external clean-up tool.
 
 ---
 
@@ -50,7 +56,10 @@ So the result cannot be reduced to broad preference. Individual sound-particles 
 
 Position changes work. A consonant opening an atom does not behave like a consonant closing one. Initial position favors release and clarity. Final position carries settlement, bonding, and later *sandhi* behavior.
 
+<!-- AISWEEP-OLD
 The counts follow the work. Retroflex sounds are depleted initially and strongly loaded finally. Palatals also rise in final use. Velars and labials prefer initial work. The inventory is not flat matter poured into slots; it is role-sensitive.
+AISWEEP-END -->
+Retroflex sounds are depleted initially and strongly loaded finally — the counts follow the work. Palatals also rise in final use. Velars and labials prefer initial work. The inventory is not flat matter poured into slots; it is role-sensitive.
 
 ### 4. Cluster-Joiner Specialization
 
@@ -80,13 +89,19 @@ Restrict the inventory to corpus-attested use and the pattern sharpens. The clas
 
 The most productive *dhātavaḥ* are the smallest, not the largest and not the most irregular. Path A and Path C both give the inverse relation: fewer particles, greater reach.
 
+<!-- AISWEEP-OLD
 That reverses a familiar natural-language tendency. In many languages, the most frequent forms are the most irregular: *be*, *have*, *do* in English; comparable high-frequency irregulars in Latin and Greek. Sanskrit's high-productivity atoms do not collapse into idiosyncrasy. The smallest atoms remain regular and maximally reusable.
+AISWEEP-END -->
+In many languages, the most frequent forms are the most irregular: *be*, *have*, *do* in English; comparable high-frequency irregulars in Latin and Greek. Sanskrit reverses that tendency. Its high-productivity atoms do not collapse into idiosyncrasy; the smallest atoms remain regular and maximally reusable.
 
 ---
 
 ## 6.3 The Productivity Test
 
+<!-- AISWEEP-OLD
 Productivity gives the cleanest test. If Sanskrit's atoms are engineered for reach, the smallest forms should produce the largest word-fields.
+AISWEEP-END -->
+If Sanskrit's atoms are engineered for reach, the smallest forms should produce the largest word-fields. Productivity gives the cleanest test of that.
 
 | Particles | n | Mean productivity | Median | Max |
 |---:|---:|---:|---:|---:|
@@ -105,7 +120,10 @@ Here the botanical metaphor breaks. A plant metaphor expects growth, branching, 
 
 ## 6.4 Why The Numbers Matter
 
+<!-- AISWEEP-OLD
 The counts make a category visible.
+AISWEEP-END -->
+What the counts make visible is a category.
 
 If the *dhātuḥ* were a botanical root, the measurements would have no reason to converge. Particle count, place distribution, cluster behavior, retroflex loading, *gaṇa* behavior, and corpus valency could drift in separate directions. Instead, the same signature recurs: compression without collapse, range without randomness, productivity without irregularity, correction without apex command.
 

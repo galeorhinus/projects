@@ -64,7 +64,10 @@ Stone preserves the pyramid; it does not preserve the notebook.
 
 The harder question is now available: was Brāhmī, or a precursor to Brāhmī, part of the Wave 1 outward propagation of Sanskrit's sound-architecture, and could the corridor scripts themselves preserve a diminished reflection of an earlier Indic audiographic logic? The present argument does not require that claim. The evidence is not yet assembled. But the research question is legitimate once glyph chronology is separated from engineering chronology. (Appendix Part 3 §§3.5–3.6 develop the case: §3.5 reverses the burden of explanation; §3.6 separates the survival archive from the invention archive.)
 
+<!-- AISWEEP-OLD
 The language-factory appendix opens the constructive test. Sanskrit's architecture, applied to a Japanese-substrate phoneme inventory through a fixed cipher, produces a working constructed language (*Yenpro* / *Yenpuro*). The same architecture, applied to any phonemic substrate, generates a working language with the same generative reach. The architecture is not merely descriptive. It is productive.
+AISWEEP-END -->
+Sanskrit's architecture, applied to a Japanese-substrate phoneme inventory through a fixed cipher, produces a working constructed language (*Yenpro* / *Yenpuro*) — the constructive test the language-factory appendix runs. The same architecture, applied to any phonemic substrate, generates a working language with the same generative reach. The architecture is not merely descriptive. It is productive.
 
 The point is not that every question has been answered. The point is that the right questions now exist.
 
@@ -145,7 +148,10 @@ The invitation is not ethnic. It is architectural.
 
 ## The Inward Correction
 
-The inward correction follows from the same principle. India must not answer the pyramid by building smaller pyramids inside itself. Modern schooling, bureaucracy, broadcasting, and state language policy have often treated living regional speech as if it were defective because it does not match the standardized form chosen by committee, capital, university, or textbook. Marathi has its Pune standard; other Marathi speech-fields have been treated as lesser. Konkani's separation from Marathi carries, among other things, the memory of that pressure. The pattern is not unique to Maharashtra. It repeats wherever a living *prākṛtika bhāṣā* is forced to answer to a single authorized standard.
+<!-- AISWEEP-OLD
+The inward correction follows from the same principle. India must not answer the pyramid by building smaller pyramids inside itself. Modern schooling, bureaucracy, broadcasting, and state language policy have often treated living regional speech as if it were defective because it does not match the standardized form chosen by committee, capital, university, or textbook.
+AISWEEP-END -->
+India must not answer the pyramid by building smaller pyramids inside itself. Modern schooling, bureaucracy, broadcasting, and state language policy have often treated living regional speech as if it were defective because it does not match the standardized form chosen by committee, capital, university, or textbook. Marathi has its Pune standard; other Marathi speech-fields have been treated as lesser. Konkani's separation from Marathi carries, among other things, the memory of that pressure. The pattern is not unique to Maharashtra. It repeats wherever a living *prākṛtika bhāṣā* is forced to answer to a single authorized standard.
 
 Sanskrit teaches the opposite lesson. The **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**, the fixed-measure language, must be held with rigor; the living languages must be allowed to flow. *Prākṛtika* speech is not sin or failure. It is life. **The danger is to confuse the calibrant's discipline with the state's authority.** Sanskrit survived because it was held as calibrant, not imposed as an imperial vernacular. India's internal reform begins there: preserve Sanskrit with seriousness, let the *bhāṣās* flourish on their own terms, and stop calling local life incorrect because it did not pass through an apex.
 

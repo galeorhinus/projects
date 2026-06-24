@@ -28,7 +28,10 @@ In each case, the data is welcome; the methodology is the problem. BORI's varian
 
 Part 2 prosecutes one case in detail — the Deccan College dictionary — because the documentation is most complete and the institutional choice is most explicit. The other cases follow the same pattern. The pattern is the indictment.
 
+<!-- AISWEEP-OLD
 A note on what the pyramid's contemporary account concedes and what it still runs. The post-Cardona, post-Houben, post-Pollock idiom concedes Pāṇinian structural sophistication through *"codified"* (Chapter 1 §1.1). It no longer denies that Sanskrit's grammar is formally elegant. What it still refuses is the engineered-preservation framing — the *Prātiśākhya* / *Śikṣā* / *pāṭha* infrastructure treated as historical accumulation rather than engineered specification. The Deccan College dictionary is the contemporary form of that denial inside the postcolonial Indian institutional idiom. The prosecution targets that contemporary form.
+AISWEEP-END -->
+The post-Cardona, post-Houben, post-Pollock idiom concedes Pāṇinian structural sophistication through *"codified"* (Chapter 1 §1.1). It no longer denies that Sanskrit's grammar is formally elegant. What it still refuses is the engineered-preservation framing — the *Prātiśākhya* / *Śikṣā* / *pāṭha* infrastructure treated as historical accumulation rather than engineered specification. The Deccan College dictionary is the contemporary form of that denial inside the postcolonial Indian institutional idiom. The prosecution targets that contemporary form.
 
 ## 2.2 A Choice, Not an Inheritance
 
@@ -58,13 +61,19 @@ The structural fact is the prosecutorial target: the choice to continue inside t
 
 ## 2.3 The Project and Its Method
 
+<!-- AISWEEP-OLD
 The project is immense. **Volume 1 appeared in 1976 under Dr A.M. Ghatage** as first general editor. Thirty-five volumes, 6,056 pages, 1,500 corpus texts, ten million Scriptorium slips assembled between 1948 and 1973. The project describes its span — in its own imposed dating — from the *Vedas* around 1400 BCE to *Hāsyarṇava* in 1850 CE.
+AISWEEP-END -->
+**Volume 1 appeared in 1976 under Dr A.M. Ghatage** as first general editor. Thirty-five volumes, 6,056 pages, 1,500 corpus texts, ten million Scriptorium slips assembled between 1948 and 1973: the project describes its span — in its own imposed dating — from the *Vedas* around 1400 BCE to *Hāsyarṇava* in 1850 CE.
 
 The method is the *Oxford English Dictionary*'s *historical principles*, set up by James Murray in the 1880s. Collect attestations. Date the texts. Arrange meanings chronologically. Treat older attestations as earlier stages, later as development.
 
 This was built for natural-historical languages. English's *hlāfweard* gradually became *Lord*; the method tracks that. Applied to Sanskrit, the method imports its conclusion. *On Historical Principles* assumes that the difference between Vedic Sanskrit and Pāṇinian Sanskrit is the same kind of difference as *hlāfweard* and *Lord*, only longer.
 
+<!-- AISWEEP-OLD
 The deeper problem is metaphysical. Chapter 4 §4.2 defines the axis: **सिद्ध (*siddha*) / कार्य (*kārya*)** — the bond between word and meaning either holds or is being produced. Patañjali's *Mahābhāṣya* opens the entire grammatical project on *siddha*:
+AISWEEP-END -->
+Beneath the dating problem sits a metaphysical one. Chapter 4 §4.2 defines the axis: **सिद्ध (*siddha*) / कार्य (*kārya*)** — the bond between word and meaning either holds or is being produced. Patañjali's *Mahābhāṣya* opens the entire grammatical project on *siddha*:
 
 > **सिद्धे शब्दार्थसम्बन्धे**
 >
@@ -74,11 +83,17 @@ The deeper problem is metaphysical. Chapter 4 §4.2 defines the axis: **सि�
 
 *Historical principles* requires the opposite axiom — *kārya*: bonds renegotiated by speech communities across time. Applied to a discipline whose foundational grammar opens by committing to *siddha*, the method imports its metaphysical premise as a method-internal default. The axiom is what the method requires; it is also what the language being studied refuses.
 
+<!-- AISWEEP-OLD
 The project's own self-statement makes the framing explicit. The Deccan College pages describe the dictionary as *"the only tool for tracing the development of Sanskrit language through ages"*, documenting *"the detailed linguistic changes that have occurred in various words and their derivations"*, with *"meanings arranged chronologically"* and *"meaning numbers assigned as per the change of nuances."* *Development*, *change*, *chronological evolution* — the dictionary's own framing is precisely the natural-evolutionary picture the engineered Sanskrit thesis rejects, stated in the project's own words.
+AISWEEP-END -->
+The Deccan College pages describe the dictionary as *"the only tool for tracing the development of Sanskrit language through ages"*, documenting *"the detailed linguistic changes that have occurred in various words and their derivations"*, with *"meanings arranged chronologically"* and *"meaning numbers assigned as per the change of nuances."* *Development*, *change*, *chronological evolution* — the dictionary's own framing is precisely the natural-evolutionary picture the engineered Sanskrit thesis rejects, stated in the project's own words.
 
 Endorsement comes from **A.L. Basham** — author of *The Wonder That Was India* (1954) and longtime Professor of the History of South Asia at the School of Oriental and African Studies, London. The project quotes him approvingly, citing his prediction that the dictionary *"will be the greatest work of Sanskrit Lexicography the world has ever seen."* The project is admired by the *church of progress* that imposed the methodology in the first place.
 
-A second methodological problem follows from the first. *Historical principles* needs dates. For English, Old / Middle / Modern English dates exist in the natural-historical record. For Sanskrit, no internal chronology exists. The *Vedas*, the *Aṣṭādhyāyī*, the *Mahābhāṣya*, and the *Vedāṅga* infrastructure are not dated by their own authors or by the **परम्परा (*paramparā*)** — the lineage-chain and transmission architecture — that transmits them. *Kālacakra* is integral and cyclical; chronological dating is not how the civilization organizes itself.
+<!-- AISWEEP-OLD
+A second methodological problem follows from the first. *Historical principles* needs dates. For English, Old / Middle / Modern English dates exist in the natural-historical record. For Sanskrit, no internal chronology exists.
+AISWEEP-END -->
+*Historical principles* needs dates — and that requirement breaks a second way. For English, Old / Middle / Modern English dates exist in the natural-historical record. For Sanskrit, no internal chronology exists. The *Vedas*, the *Aṣṭādhyāyī*, the *Mahābhāṣya*, and the *Vedāṅga* infrastructure are not dated by their own authors or by the **परम्परा (*paramparā*)** — the lineage-chain and transmission architecture — that transmits them. *Kālacakra* is integral and cyclical; chronological dating is not how the civilization organizes itself.
 
 So the *progressive dogma* supplies dates from outside. The corpus is described as covering — in the project's own dating — *Ṛgveda* around 1400 BCE; Pāṇini around 500 BCE; Patañjali in the second century BCE. These are framework dates, not text-given dates. The dictionary embeds them in every slip. Each entry records the *"date of the text"* alongside the vocable. The dates appear to a reader as facts. They are chronology capture: the framework's own numbers, presented as findings. Using framework-assigned dates as evidence for the framework is circular.
 
