@@ -6,9 +6,6 @@
 
 The usual count gives three Abrahamic religions. The modern world has four, and the fourth succeeds because it does not call itself one.
 
-<!-- AISWEEP-OLD
-Judaism drew the line. Christianity reformed it in Roman antiquity. Islam reformed it again in late antiquity. Each preserved the structural template of the form before it: chosen community, authorized doctrine, boundary between insider and outsider, missionary or expansionary obligation, and a history moving toward a promised end. The doctrinal contents differ. The template holds.
-AISWEEP-END -->
 Judaism drew the line; Christianity reformed it in Roman antiquity, and Islam reformed it again in late antiquity. Each preserved the structural template of the form before it — a chosen community, an authorized doctrine, a boundary between insider and outsider, a missionary or expansionary obligation, and a history moving toward a promised end. The doctrinal contents differ. The template holds.
 
 Progressivism inherited the template wholesale: it discarded the religious vocabulary and kept the religious machinery.
@@ -17,10 +14,7 @@ The standing term here for the doctrinal formation is the **progressive dogma**:
 
 That doctrine has an institutional carrier: the **church of progress**. The academy gathers, credentials, publishes, reproduces, and sanctifies the doctrine across generations. The church operates through degrees, departments, journals, conferences, peer review, textbook canons, and reference works. The dogma is what the church believes. The church is how the dogma becomes durable.
 
-<!-- AISWEEP-OLD
-The diagnosis has a boundary. The problem is not every scholar, every institution, every student, or every ordinary person who inherited the Western frame. Many people inside the machinery work from salary, training, habit, ambition, or honest confidence in authorized categories. The problem is the formation that makes one kind of description profitable and another costly: the apex-and-layer structure that turns Sanskrit from living architecture into philological evidence, turns evidence into doctrine, subordinates doctrine to an imaginary ancestor, and uses the ancestor to contain the civilization that preserved Sanskrit.
-AISWEEP-END -->
-The charge falls on the formation, not on the individual scholar, student, or salaried researcher who inherited the Western frame and works inside the machinery from training, habit, or honest confidence in authorized categories. The formation is what makes one kind of description profitable and another costly: the apex-and-layer structure that turns Sanskrit from living architecture into philological evidence, turns evidence into doctrine, subordinates doctrine to an imaginary ancestor, and uses the ancestor to contain the civilization that preserved Sanskrit.
+The charge falls on the formation, not on the individual scholar, student, or salaried researcher who inherited the Western frame and works inside the machinery from training, habit, or honest confidence in authorized categories. The formation is what makes one kind of description profitable and another costly: the apex-and-layer structure that turns Sanskrit from living architecture into philological evidence, turns evidence into doctrine, subordinates doctrine to an imaginary ancestor, and uses the ancestor to conceal the civilization that preserved Sanskrit.
 
 The church operates through three function-classes. **Missionaries of progress** carry the framework outward and naturalize it inside civilizations that already possess their own. **Jihadis of progress** attack and marginalize work that threatens the framework. **Priests of progress** maintain the ritual machinery of internal authorization: peer review, citation conventions, scholarly consensus, and disciplinary gatekeeping. Extend, defend, sanctify. The names are polemical because the functions are religious.
 
@@ -30,9 +24,6 @@ The full structure has doctrine, institution, missionaries, defenders, and pries
 
 The substitutions are exact. Heaven on earth became progress. Salvation became development. The elect became the enlightened. The damned became the backward. Mission became modernization. Heresy became anti-science, regressive, pseudo-scholarship, communalism. The end times became the end of history.[NOTE: end-of-history-fukuyama] Original sin survived as historical injustice, with the operative content changing by faction while the structure remained.
 
-<!-- AISWEEP-OLD
-The genealogy is not metaphor. The *"Enlightenment"* did not abolish Abrahamic end-time structure. It secularized it: a beginning, a saving sequence, an end toward which collective effort is bent. The end may be liberal democracy, classless society, technological transcendence, or planetary governance. The vehicle changes. The end-time structure does not.[NOTE: voegelin-gnosticism]
-AISWEEP-END -->
 The genealogy runs deeper than metaphor. The *"Enlightenment"* did not abolish Abrahamic end-time structure; it secularized it into a beginning, a saving sequence, and an end toward which collective effort is bent. The end may be liberal democracy or technological transcendence. The vehicle changes. The end-time structure does not.[NOTE: voegelin-gnosticism]
 
 The fourth Abrahamic religion succeeds because it thinks it is post-religious. A Christian missionary is visible as a missionary. A missionary of progress arrives under the cover of universal applicability: modernization, development, global standards, rights discourse, scientific consensus. The cover makes the doctrine portable into civilizations that have their own categories.[NOTE: black-mass-gray]
@@ -67,23 +58,14 @@ The second is the **foundational dogma**. It defends the origin-axis: engineered
 
 The two dogmas cooperate. A deep ancient achievement threatens the progressive dogma. An engineered achievement outside the corridor threatens the foundational dogma. An achievement that is both ancient and engineered outside the corridor threatens both at once. The *varṇamālā* is exactly that case. Brāhmī is exactly that case. Sanskrit is exactly that case.
 
-<!-- AISWEEP-OLD
-This is why erasure of engineering does so much work. If Sanskrit is natural, the progress story survives. If Brāhmī is adapted from Aramaic, the corridor survives. If the pyramid can recast Pāṇini (पाणिनि) as codifier rather than decoder, the named late figure absorbs the architecture. One vocabulary protects two doctrines.
-AISWEEP-END -->
 Erasure of the engineering carries the load. If Sanskrit is natural, the progress story survives. If Brāhmī is adapted from Aramaic, the corridor survives. If the pyramid can recast Pāṇini (पाणिनि) as codifier rather than decoder, the late figure absorbs the architecture. One vocabulary protects two doctrines.
 
-<!-- AISWEEP-OLD
-The linear-progress pillar has already been named; the doctrinal formation holding it now becomes visible. The script-level case belongs to Appendix Part 3. The language-level case belongs to the main chapters. Both dogmas are surfaces of the same asuric pyramid.
-AISWEEP-END -->
 Behind the linear-progress pillar stands the doctrinal formation that holds it. The main chapters prosecute the language-level case; Appendix Part 3 takes the script-level case. Both dogmas are surfaces of the same asuric pyramid.
 
 ## 4.3 The Church of Progress
 
 The academy is the institutional carrier: the church of progress.
 
-<!-- AISWEEP-OLD
-The correspondence is structural. The PhD is ordination. The thesis defense is the ritual of conferral. The committee examines doctrinal fitness. Peer-reviewed journals are the publication machinery; anonymous review is the imprimatur process. Conferences are gathering rituals. Departments are institutional housing. Tenure is benefice. Reference works are catechism: the ordinary transmission of doctrine into the next generation. The church also has a pyramid.
-AISWEEP-END -->
 The PhD is ordination, structurally. The thesis defense is the ritual of conferral. The committee examines doctrinal fitness. Peer-reviewed journals are the publication machinery; anonymous review is the imprimatur process. Conferences are gathering rituals. Departments are institutional housing. Tenure is benefice. Reference works are catechism: the ordinary transmission of doctrine into the next generation. The church also has a pyramid.
 
 | Religion | apex functions | Layers below |
@@ -93,16 +75,10 @@ The PhD is ordination, structurally. The thesis defense is the ritual of conferr
 | Islam | caliphal-political authority; juristic schools; fatwa machinery | *ulema* → imams → muftis → ordinary Muslims |
 | Progressivism | elite universities; flagship journals; foundations; disciplinary associations; prize committees; state and international credentialing bodies | tenured full → tenured → tenure-track → postdoc → graduate student → outsider |
 
-<!-- AISWEEP-OLD
-The material metabolism is funding. Grants, fellowships, endowed centers, foundation programs, university presses, hiring pipelines, and rankings are not decorative. They move resources downward through the pyramid and move doctrinal compliance upward through the careers the pyramid sustains. The system is not only a hierarchy of titles. It is a resource machine.
-AISWEEP-END -->
 Grants, fellowships, endowed centers, foundation programs, university presses, hiring pipelines, and rankings are the church's material metabolism, not decoration. They move resources downward through the pyramid and move doctrinal compliance upward through the careers the pyramid sustains. The system is not only a hierarchy of titles. It is a resource machine.
 
 The academy is the central church, but the church has arms. International bureaucracies propagate doctrine in policy language. NGOs and foundations propagate it in development language. Legacy media propagate it in cultural language. Courts and treaty regimes propagate it in legal language. Each arm uses credentialed personnel, approved vocabulary, institutional housing, and boundary policing. The vocabulary differs. The church remains one.
 
-<!-- AISWEEP-OLD
-The cementing of Proto-Indo-European in the routine reference machinery is the church's institutional work made visible. Across recent decades — the very window during which India's dharmic-civilizational re-emergence has begun to threaten the pyramid's settled assumptions — the machinery has been substantially hardened. The standard etymological references and Indo-European dictionaries have multiplied and strengthened across exactly this span.[NOTE: pie-cementing-recent-decades] The church does its institutional work at the catechetical level: hardening the dogma during exactly the window when an alternative is beginning to assemble itself. Chapter 18 traces the operation in detail.
-AISWEEP-END -->
 The church's catechism work is visible in the cementing of Proto-Indo-European into the routine reference machinery. Across recent decades — the very window during which India's dharmic-civilizational re-emergence has begun to threaten the pyramid's settled assumptions — the standard etymological references and Indo-European dictionaries have multiplied and hardened.[NOTE: pie-cementing-recent-decades] The dogma is being reinforced at exactly the moment an alternative is beginning to assemble itself, as Chapter 18 traces in detail.
 
 ## 4.4 The Three Classes
@@ -111,9 +87,6 @@ The fourth Abrahamic religion operates through three classes.
 
 The **missionaries of progress** export the framework. They arrive as development consultants, education reformers, rights trainers, museum curators, NGO officers, global-governance experts, and curriculum designers. Their function is not merely to advise. It is to replace local categories with progress-categories and then declare the replacement universal. In India, they train civilizational self-description to pass through the categories of caste, communalism, development, modernization, minority rights, secularism, and backwardness before it can be heard. The lineage runs back to Rostow's stages-of-growth model and continues through development economics, World Bank conditionalities, and the Sustainable Development Goals.[NOTE: rostow-modernization-theory]
 
-<!-- AISWEEP-OLD
-In the Sanskrit question, the same class now appears through popular synthesis. Ancient DNA, archaeology, and linguistic reconstruction are braided into a general-reader migration story. PIE becomes a reconstructed people-and-language package. The steppe becomes the source-zone. Sanskrit becomes one branch among many. The racial Arya thesis survives in softened vocabulary. The form is no longer crude invasion. It is public pedagogy, carried by the missionaries of progress.[NOTE: popular-pie-missionaries]
-AISWEEP-END -->
 In the Sanskrit question, the same class now appears through popular synthesis. Ancient DNA, archaeology, and linguistic reconstruction are braided into a general-reader migration story in which PIE becomes a reconstructed people-and-language package, the steppe becomes the source-zone, and Sanskrit becomes one branch among many. The racial Arya thesis survives in softened vocabulary. The form is no longer crude invasion. It is public pedagogy, carried by the missionaries of progress.[NOTE: popular-pie-missionaries]
 
 That pedagogy turns population movement into civilizational authorship; Chapter 17 returns to the trap in full.
@@ -154,16 +127,10 @@ The verdict remains the same. The hero is the challenger denied standing. The vi
 
 ## 4.6 The Asuric Pyramid
 
-<!-- AISWEEP-OLD
-The architecture of containment is now visible. The same formation now appears in Indic-categorical idiom — the substrate it operates on, the agent-class it embodies, the operating mode it carries, and the geometry it builds.
-AISWEEP-END -->
-The same formation appears in Indic-categorical idiom — its substrate, its agent-class, its operating mode, and the geometry it builds.
+The architecture of containment is now visible. The same formation appears in Indic-categorical idiom — its substrate, its agent-class, its operating mode, and the geometry it builds.
 
 The substrate is **तमस् (*tamas*)**: inertia, darkness, the quality of operations that cannot accommodate light. The agent-class is **असुराः (*asurāḥ*)**: those who consolidate power through hierarchy, deception, and the withholding of light. The operating mode is ***asuratva*** (असुरत्व): the quality of being asuric.
 
-<!-- AISWEEP-OLD
-The morphology carries the diagnosis. **स्वर् (*svar*)** carries sun, heaven, light, the bright firmament. **सुरः (*suraḥ*)** is the shining one. **असुरः (*asuraḥ*)** is the privative formation: not-light.
-AISWEEP-END -->
 **स्वर् (*svar*)** carries sun, heaven, light, the bright firmament — and the morphology built on it carries the diagnosis. **सुरः (*suraḥ*)** is the shining one. **असुरः (*asuraḥ*)** is the privative formation: not-light. An asuric formation operates by withholding light — the obscuration Chapter 1 §1.3 traces to **स्वर्भानु (*Svarbhānu*)**, whose name carries the very *svar* he eclipses: Sūrya darkened, not destroyed. Chapter 18 develops the contact-history consequences of this term; the polity-architectural implications belong to a forthcoming volume in the *Second Shanti* series.
 
 *Asuratva* has a characteristic geometry: the pyramid. Authority concentrates at an apex — the apex-one of Chapter 1, now in Indic-categorical idiom. He is jealous of what he did not build and cannot bear an order above his own. A distributed order — one with no apex at all — threatens him more. Labor spreads across tiers. The base becomes voiceless. Every layer depends on authorization from above. The containment pillars are pyramids. The racial pillar maps to the pyramid of racial hierarchy: European apex, colonial administrators and certifiers in the middle, ranked populations at the base. The theological pillar maps to scriptural authority: canonical text at the apex, priestly interpreters in the middle, laity at the base. The progress pillar maps to academic credentialing: journals and chairs at the apex, the *priests of progress* of §4.4 as intermediaries, civilizational populations whose own knowledge systems the pyramid refuses to recognize as peer at the base. The integrated structure is the asuric pyramid.
@@ -176,7 +143,7 @@ The three pyramids converge on a single target. The racial pillar attacks *Sanā
 
 *Sanātan* is not silent about *asuratva*. The *Itihāsa* and *Purāṇa* corpus carries hundreds of cases of asuric formations becoming powerful and being defeated by characters aligned with the dharmic order. **Hiraṇyakaśipu** gives the *daitya* form of apex command: power consolidated through a boon engineered to be irrevocable; the boon's structural blind-spot becomes the defeat. **Mahiṣāsura** gives the disguise-and-shape-shift form: control accumulated through forms that Durgā's discriminating intelligence can pierce. **Rāvaṇa** embodies the institutionalized rākṣasa pyramid: absolute command at the apex, ministerial layers enforcing the hierarchy, and a population bound to the ruler’s grand project. His defeat comes through a suric coalition — an alliance that mobilizes the very populations the apex arrogantly assumed were too insignificant to coordinate against him. **Vṛtra** gives the obstruction form: waters withheld from circulation until Indra restores the flow. Each story is a recipe. Sanskrit's corpus carries the recipes; the civilization has carried them across thousands of years through recitation, temple, festival, theatre, household narration, regional performance, commentary, and teacher-student lineages.
 
-*Asuratva* is not confined to the sacred narrative archive. The asuric machinery operates *asuratva* at the institutional level; its individual operators carry the same disposition into specific named cases. August Schleicher has already appeared as the founder of the comparative-philological enterprise; he is one such operator. By the 1860s, Schleicher had Sanskrit's engineered architecture on his shelf — Bopp's *Vergleichende Grammatik* had laid it out a generation earlier; the Pune-Calcutta-Oxford-Göttingen knowledge pipeline had supplied the *Aṣṭādhyāyī*, the *Dhātupāṭha*, the *Prātiśākhya* discipline, and the *varṇamālā* into the German philological community. He had the recipe — the engineered architecture the *Itihāsa*'s asura-defeat narratives are carriers of, the calibrant of *Sanātan* — and refused to use it. The operation is a *dānava* move: technical skill bent away from *sat* and toward containment. He manufactured the botanical-tree metaphor that backwards-describes Sanskrit instead, because crediting the recipe as Indic would have served *lokakṣema* and undermined the asuric pyramid his employer had been built to defend. Appendix Part 5 §5.8 develops the case in full.
+*Asuratva* is not confined to the sacred narrative archive. The asuric machinery operates *asuratva* at the institutional level; its individual operators carry the same disposition into specific named cases. August Schleicher has already appeared as the founder of the comparative-philological enterprise; he is one such operator. By the 1860s, Schleicher had Sanskrit's engineered architecture on his shelf — Bopp's *Vergleichende Grammatik* had laid it out a generation earlier; the Pune-Calcutta-Oxford-Göttingen knowledge pipeline had supplied the *Aṣṭādhyāyī*, the *Dhātupāṭha*, the *Prātiśākhya* discipline, and the *varṇamālā* into the German philological community. He had the recipe — the engineered architecture the *Itihāsa*'s asura-defeat narratives are carriers of, the calibrant of *Sanātan* — and refused to use it. The operation is a *dānava* move: technical skill bent away from *sat* and toward concealment. He manufactured the botanical-tree metaphor that backwards-describes Sanskrit instead, because crediting the recipe as Indic would have served *lokakṣema* and undermined the asuric pyramid his employer had been built to defend. Appendix Part 5 §5.8 develops the case in full.
 
 *Sanātan* is the structural opposite. Its authority is distributed across **शास्त्र (*śāstra*)**, **सम्प्रदाय (*sampradāya*)**, **दर्शन (*darśana*)**, the *guru-shishya* lineage-chain, lived practice, and public *śāstrārtha*. There is no Pope of *Sanātan*. There is no Khalīfah of *Sanātan*. There is no foundation president of *Sanātan*.
 
@@ -196,9 +163,6 @@ A system that displays दिव्यता (*divyatā*) and preserves लो�
 
 The fourth Abrahamic religion is the institutional formation that has tried to absorb, contain, or overwrite that architecture. Earlier formations did it through military and administrative power. The fourth does it through academic, cultural, legal, and developmental power. The vocabulary has secularized. The structural project has not.
 
-<!-- AISWEEP-OLD
-The dharmic continuum has its own primary-source diagnosis of the foreign binary the Abrahamic substrate imposed on India. In the *Assalāyana Sutta*, the Buddha observes that the *ārya/dāsa* binary is visible among foreign-bordering nations such as Yona and Kamboja, not as an Indic universal.[NOTE: assalayana-sutta-fwd] The Epilogue lands the citation in full. The point here is structural: the dharmic continuum itself documents the binary as foreign to the dharmic frame.
-AISWEEP-END -->
 The dharmic continuum has its own primary-source diagnosis of the foreign binary the Abrahamic substrate imposed on India. In the *Assalāyana Sutta*, the Buddha observes that the *ārya/dāsa* binary is visible among foreign-bordering nations such as Yona and Kamboja, not as an Indic universal — the dharmic continuum itself documenting the binary as foreign to the dharmic frame.[NOTE: assalayana-sutta-fwd] The Epilogue lands the citation in full.
 
 Two architectures contest, asymmetrically. The fourth Abrahamic religion tries to remake an integrated civilization in the image of an imported binary structure. The architecture of *Sanātan* holds beneath whichever political-administrative regime happens to operate at the surface. It has not survived by accident. It survived because it was built to.
@@ -209,8 +173,4 @@ The sequence is compact:
 
 **Ambedkar indicts the corporation. Peer review reveals the pyramid. Bandin guards the gate. Aṣṭāvakra breaks it. *Sanātan* preserves the alternative.**
 
-The pyramid needs an object to contain. The swastika does not need a summit to authorize it.
-
-*Sanātan* does not need the perimeter. The perimeter needs *Sanātan*.
-
-With the perimeter established, the book now turns inward. Sanskrit's own grammar supplies the architecture the perimeter was built to keep out.
+With the containment established, the book now turns inward. Sanskrit's own grammar supplies the architecture the containment was built to hide.

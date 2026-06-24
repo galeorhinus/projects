@@ -4,7 +4,7 @@
 
 Every finished Sanskrit verb is an atom that has been put to work. The **धातुः (*dhātuḥ*)** sits in the **धातुपाठ (*Dhātupāṭha*)** — 2,168 of them, each a measured cluster of **वर्णाः (*varṇāḥ*)**, sonomers, inside a **मात्रा (*mātrā*)** envelope — but it is not yet a word and cannot be spoken as one. To act, it has to be built up: bonded, activated, closed with an ending. What comes out is the **क्रिया (*kriyā*)**, or **क्रियापदम् (*kriyāpadam*)**, the verbal word; under the Atomic Corollary, a *kriyāpada* molecule.
 
-The concern is that the engineering dissolves in the assembly — that once the atom is wrapped inside a finished verb, the sonomers blur into an ordinary word. They survive, and the procedure is why. The *varṇamālā* hands over the measured particles, the *dhātuḥ* binds them, and the *kriyāpada* activates that atom without smearing the layer beneath. The atom stays legible the whole way up.
+The concern is that the engineering dissolves in the assembly — that once the atom is wrapped inside a finished verb, the sonomers blur into an ordinary word. The sonomers survive, however, and the assembly procedure explains why. The *varṇamālā* hands over the measured particles, the *dhātuḥ* binds them, and the *kriyāpada* activates that atom without smearing the layer beneath. The atom stays legible the whole way up.
 
 Five Rigvedic lines show it happening, each already carrying a finished verb, the underlying *dhātavaḥ* running from one *mātrā* to three. None of it waited for Pāṇini. The verbs were already in the corpus, working — thousands of them — long before the rules were ever written down.[NOTE: vedic-kriyapadas-before-panini]
 
@@ -88,11 +88,11 @@ The color scheme in the figures is primarily a reading aid; the primary purpose 
 
 The Vedic corpus already runs these operations; the figures only make them visible. The atomic *sūtra* survives activation, still compact and still traceable inside the verbal molecule. When Pāṇini came to it, he gave each part of the assembly a name — the class गणः (*gaṇaḥ*), the operation विकरणम् (*vikaraṇam*), the ending तिङ्-प्रत्ययः (*tiṅ-pratyayaḥ*), the metadata tag अनुबन्धः (*anubandhaḥ*) — labels for steps the corpus was already taking.
 
-Working *kriyāpadāni* were already in the corpus, finished and in use, before Pāṇini documented how they were built. The Veda keeps each form as it is performed, while Pāṇini's grammar keeps that form derivable on demand — and the calibration principle that lets the two coexist is the larger subject of Chapter 13 §13.5.
+Working *kriyāpadāni* were already in the corpus, finished and in use, before Pāṇini documented how they were built. The Veda keeps each form as it is performed, while Pāṇini's grammar keeps that form derivable on demand — and the calibration principle lets the two coexist (§13.5).
 
 ## 11.3 Pāṇini's Notation Layer
 
-Pāṇini's notation takes those same finished *kriyāpadāni* and restates the assembly explicitly. He did not invent the activation layer; he documented it, compressed it, and made it teachable. The five examples return now, wearing the labels he gave the process.
+Pāṇini's notation takes those same finished *kriyāpadāni* and restates the assembly explicitly. Pāṇini documented the activation layer, compressed it, and made it teachable. The five examples return now, wearing the labels he gave the process.
 
 In that explicit notation, a *dhātuḥ* must do three things before it becomes a *kriyāpada* molecule:
 
@@ -110,7 +110,7 @@ In Pāṇini's notation, that gives the basic procedure:
 
 The formula compresses the procedure without standing in for it.
 
-A **गणः (*gaṇaḥ*)** is an operational class — it tells the grammar how a *dhātuḥ* behaves once grammar puts it to work, not a drawer in a schoolbook where verbs are filed by shape. The **विकरणम् (*vikaraṇam*)** is the operation itself, the class-signature that activates the *dhātuḥ* inside its *gaṇaḥ*.[NOTE: vikarana-as-column-signature] And the **अङ्गम् (*aṅgam*)** is what stands between the two and the ending: the atom after the operation has prepared it, one step short of the finished molecule.
+A **गणः (*gaṇaḥ*)** is an operational class — it tells the grammar how a *dhātuḥ* behaves once grammar puts it to work. The **विकरणम् (*vikaraṇam*)** is the operation itself, the class-signature that activates the *dhātuḥ* inside its *gaṇaḥ*.[NOTE: vikarana-as-column-signature] And the **अङ्गम् (*aṅgam*)** is what stands between the two and the ending: the atom after the operation has prepared it, one step short of the finished molecule.
 
 The sequence is straightforward:
 
@@ -149,11 +149,11 @@ The five Vedic examples can now be read in Pāṇini's notation layer.
 
 The figures reuse the hexagonal vocabulary of §11.2, with one addition: the top row now carries Pāṇini's notation layer, where शप् (*śap*) and तिप् (*tip*) appear as technical source forms and the dashed cells are अनुबन्धाः (*anubandhāḥ*), the metadata tags that drop out once the surviving sonomers enter the atom. The action is exactly what it was in the Vedic examples; only the labels are new. What was implicit there now carries Pāṇini's vocabulary — *gaṇaḥ*, *vikaraṇam*, *aṅgam*, *tiṅ-pratyayaḥ*, *anubandhaḥ*.
 
-That is the distinction worth holding onto: the operation existed before the notation did. Pāṇini gave the process handles; he did not make Sanskrit molecular by labeling the bonds.
+That is the distinction worth holding onto: the operation existed before the notation did. Pāṇini gave the pre-existing process handles, labeling bonds that already made Sanskrit molecular.
 
 The operations vary, but the principle underneath them holds steady. A *dhātuḥ* enters its class, the class sets how the atom may be activated, and the ending closes the *kriyāpada* molecule. The operation might add visible material, do nothing at all, or reshape the atom itself through guṇa or lengthening — and through all of it the finished verb stays an analyzable assembly.
 
-Pāṇini's own machinery proves the point. The *Aṣṭādhyāyī* operates not on whole words but on *varṇāḥ* — sonomers — through classes like *ac*, *hal*, *ik*, *yaṇ*, *jhal*, and *khar*. The atom was built at the sonomeric level, and the molecule is activated at the same level, which means the *kriyā* is not a second *sūtra* but the next scale of the same assembly: the measured particles stay visible when the atom becomes a verb.
+Pāṇini's own machinery proves the point. The *Aṣṭādhyāyī* operates not on whole words but on *varṇāḥ* — sonomers — through classes like *ac*, *hal*, *ik*, *yaṇ*, *jhal*, and *khar*. The atom was built at the sonomeric level, and the molecule is activated at the same level, which means the *kriyā* represents the next scale of the same assembly: the measured particles stay visible when the atom becomes a verb.
 
 This is why the matrix that follows is more than a count-table. Each cell records a permitted procedure — this kind of atom passing through this kind of operation — and the statistics that fill it audit the procedure rather than replace it.
 
@@ -174,16 +174,13 @@ The full operating roster has ten classes.
 | 9 | क्र्यादि (*kryādi*) | श्ना (*śnā*) / ना (*nā*) | *nā*-extension | क्री (*krī*) → क्रीणाति (*krīṇāti*) |
 | 10 | चुरादि (*curādi*) | णिच् (*ṇic*) / अय (*aya*) | *aya* activation | चुर् (*cur*) → चोरयति (*corayati*) |
 
-The *gaṇaḥ* is the operational class. The *vikaraṇa* performs the operation. The examples in the last column are anchors: they show one familiar visible output of each operation, not a full derivation lesson.
+The *gaṇaḥ* is the operational class. The *vikaraṇa* performs the operation. The examples in the last column are anchors: they show one familiar visible output of each operation.
 
-One pattern is worth catching before the matrix arrives: the consonant-bearing class operations reach for the same few consonants every time. *Divādi* and *curādi* use य (*ya*); *svādi*, *rudhādi*, and *kryādi* use न (*na*) — the very cluster-joining specialists Chapter 10 and Appendix 5 found holding dense atoms together. The architecture activates the molecule with the same bonding sonomers it used to build the atom; rather than inventing new vocabulary at the next scale, it reuses its specialists.
+One pattern is worth catching before the matrix arrives: the consonant-bearing class operations reach for the same few consonants every time. *Divādi* and *curādi* use य (*ya*); *svādi*, *rudhādi*, and *kryādi* use न (*na*) — the very cluster-joining specialists holding dense atoms together (Chapter 10, Appendix 5). The architecture activates the molecule with the same bonding sonomers it used to build the atom; rather than inventing new vocabulary at the next scale, it reuses its specialists.
 
 ## 11.5 The *Racanā-Gaṇa* Matrix
 
-<!-- AISWEEP-OLD
 The ten *gaṇāḥ* and the *racanāḥ* measure two different things — operation and construction — and the matrix is where the two axes cross.
-AISWEEP-END -->
-Operation and construction measure two different things; the matrix is where the ten *gaṇāḥ* cross the *racanāḥ* and the two axes meet.
 
 *Racanā* describes the measured scaffold: **गमादि (*gamādi*)** <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">, **स्पदादि (*spadādi*)** <img src="figures/_shared/icons/scaffold_ccv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV1C scaffold">, **मन्थादि (*manthādi*)** <img src="figures/_shared/icons/scaffold_cv1cc_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1CC scaffold">, **वाचादि (*vācādi*)** <img src="figures/_shared/icons/scaffold_cv2c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2C scaffold">, and the rest. *Gaṇaḥ* describes how the atom behaves when grammar puts it to work. A matrix cell is therefore not only a count. It specifies a permitted procedure:
 
@@ -234,9 +231,9 @@ The first result is that the corpus is not flat. A small set of atoms carries ve
 | **हृ (*hṛ*)** | 368 |
 | **गम् (*gam*)** | 291 |
 
-These are not prestige rankings. They are measured bonding counts.
+These are measured bonding counts, not prestige rankings.
 
-The second result is that the two independent instruments agree. On the matched Monier-Williams subset, the dictionary audit and the *prayoga* audit have a correlation value of **+0.66**. That means the two audits move together strongly: atoms that generate widely in the dictionaries also tend to bond widely in actual Sanskrit use. They are not measuring exactly the same thing, but they see the same signal: the same compact atoms keep generating, bonding, and appearing.
+The second result is that the two independent instruments agree. On the matched Monier-Williams subset, the dictionary audit and the *prayoga* audit have a correlation value of **+0.66**. That means the two audits move together strongly: atoms that generate widely in the dictionaries also tend to bond widely in actual Sanskrit use. While distinct in their methods, both audits see the same signal: the same compact atoms keep generating, bonding, and appearing.
 
 The third result is the tier structure. The corpus-visible *dhātuḥ* labels arrange into three empirical groups. The chart makes the skew visible: a small polyvalent tier carries most actual use, while the long tail remains preserved as specialist material.
 
@@ -259,7 +256,7 @@ The distribution matters because the procedure is already visible.
 | Top 100 | **67.5%** |
 | Top 500 | **94.0%** |
 
-Sanskrit's similarity with natural languages is evident in this distribution. Natural languages also show rank-frequency concentration, often called Zipf-like behavior: a small high-use core carries much of actual speech, while a long tail remains available for rare or specialized use. English leans heavily on *be*, *have*, *do*, *go*, and *make*. Sanskrit shows the same surface behavior in *prayoga*, and that is expected. The *dhātavaḥ* are fixed as calibrated atoms, but their deployment was never frozen.
+Sanskrit's similarity with natural languages is evident in this distribution. Natural languages also show rank-frequency concentration, often called Zipf-like behavior: a small high-use core carries much of actual speech, while a long tail remains available for rare or specialized use. English leans heavily on *be*, *have*, *do*, *go*, and *make*. Sanskrit shows the same surface behavior in *prayoga*, and that is expected. The *dhātavaḥ* are fixed as calibrated atoms, while their deployment remains dynamic.
 
 On its own, that concentration is exactly what any natural language shows, so the resemblance is expected. What sets Sanskrit apart is that the concentration is coupled to the architecture.[NOTE: productivity-inversion-natural-language]
 
@@ -272,22 +269,19 @@ On its own, that concentration is exactly what any natural language shows, so th
 
 Concentration is only the start of it. What Sanskrit adds is compactness, regular bonding, scaffold order, and cross-domain stability stacked on top of the concentration — and the numbers show it directly. The *prayoga* audit gives a correlation of **-0.43** between valency and sonomer count; the matched dictionary subset gives **-0.49**. The sign runs downward: the larger the atom, the narrower its measured bonding range. The higher the yield, the smaller the atom.
 
-So the resemblance and the engineering sit side by side. The frequency pattern makes Sanskrit look like any natural language; the sonomeric procedure underneath it does not behave like one.
+So the resemblance and the engineering sit side by side. The frequency pattern mirrors natural languages, while the sonomeric procedure underneath it operates by strict architectural design.
 
 ## 11.7 Hyper-Reactive Atoms
 
 Carbon earns its place in chemistry by bonding promiscuously — a small center that throws off an enormous molecular space. Sanskrit's polyvalent atoms do the same grammatical work, and **कृ (*kṛ*)** is the clearest case: a three-letter *krādi* atom, the single most reactive item in the corpus. From it you get *karma* and *kāryam*, *kṛti* and *kartṛ*, *saṃskṛti* and *prakṛti* — the deed, the thing-to-be-done, the composition, the doer, refined order, raw nature. Everyday speech and the densest philosophy both run on it.
 
-The smallness is the point. *Kṛ* is powerful not because it is common but because it is *available* — short enough to enter anywhere, stable enough to survive the entry. *Bhū*, *dhā*, *hṛ*, *gam*, *nī*, *jñā*, *dā*, and *sthā* work the same way: compact atoms with enormous range, not bloated words that happened to catch on.
+The smallness is the point. *Kṛ* derives its power from its *availability* — short enough to enter anywhere, stable enough to survive the entry. *Bhū*, *dhā*, *hṛ*, *gam*, *nī*, *jñā*, *dā*, and *sthā* work the same way: compact atoms with enormous range.
 
-The principle is the *sūtra* principle one scale down — maximum recoverable structure in minimum form. Read that way, the *Dhātupāṭha* turns into an inventory of reactive atoms: Sanskrit's working set, not a vocabulary list to memorize.
+The principle is the *sūtra* principle one scale down — maximum recoverable structure in minimum form. Read that way, the *Dhātupāṭha* turns into an inventory of reactive atoms: Sanskrit's working set.
 
 ## 11.8 The Procedure's Shadow
 
-<!-- AISWEEP-OLD
 Procedure and structure are coupled, and the figure makes the coupling visible as a two-dimensional arrangement — the visual shadow of the procedure, not a claim that Sanskrit has chemical periodicity.
-AISWEEP-END -->
-Cross the procedure against the structure and they hold together: the figure renders that coupling as a two-dimensional arrangement — the visual shadow of the procedure, not a claim that Sanskrit has chemical periodicity.
 
 The arrangement carries several axes at once: the *gaṇaḥ* (the operational class Pāṇini documented), the *racanā* (the measured scaffold inside the atom), the *varga* column of the atom's first consonant, and the inherent vowel it carries.
 
@@ -297,11 +291,11 @@ The periodic-axes figure places *dhātavaḥ* visible in the corpus by initial *
 
 The figure is one possible table, not the table. The analysis tested multiple axes. Inherent vowel produces the sharpest split in the valency distribution: vowel-ऋ atoms generate 13.6% of corpus tokens from 3.3% of the verbal atoms visible in the corpus, with mean valency 34.35.[NOTE: inherent-vowel-secondary-axis] The *varga* column remains structurally decisive because it ties the *dhātuḥ* back to the *varṇamālā*'s articulatory grid.
 
-They are orthogonal dimensions of one architecture, not competing accounts of it.
+They operate as orthogonal dimensions of one architecture.
 
 The structure shows because the operation requires it. *Kṛ*, *hṛ*, and *vṛt* carry ऋ. *Dhā*, *dā*, *sthā*, *jñā*, and *yā* carry आ. *Gam*, *kram*, *han*, and *pad* carry अ. The C4 voiced-aspirate column is enriched in *juhotyādi*: 33.3% in the inventory and 42.9% in the subset visible in the corpus.[NOTE: cross-gana-column-distribution]
 
-That number is a procedural fit, not just a distribution fact. *Juhotyādi* is the reduplicating class, and reduplication doubles the initial signal, so the doubled consonant has to stay recognizable across the syllable boundary; C4 — voiced, aspirated, breathy — is the acoustically robust column, and the architecture parks its most distinctive consonants exactly where the operation needs the most distinction. The sounds are distributed by function, not by an even hand.
+That number is a procedural fit, not just a distribution fact. *Juhotyādi* is the reduplicating class, and reduplication doubles the initial signal, so the doubled consonant has to stay recognizable across the syllable boundary; C4 — voiced, aspirated, breathy — is the acoustically robust column, and the architecture parks its most distinctive consonants exactly where the operation needs the most distinction. The sounds are distributed strictly by function.
 
 So position carries behavior, and the figure is the statistical shadow the procedure casts — never the center of the argument, only its trace.
 
@@ -323,7 +317,7 @@ That is exactly what the procedural model predicts. The architecture supplies a 
 
 Everything in this chapter points to one reading of the *Dhātupāṭha* — an operating table of reactive atoms, not the word-list the schoolbooks file it as. The *gaṇāḥ* sort atoms by how they activate; the *vikaraṇāni* are the operations that do the activating; the *racanāḥ* give the shapes the atoms are built in; valency measures how widely each one bonds. Cross those axes and a table appears, and it behaves like one — corridors, runners-up, and forbidden cells.
 
-Pāṇini did not freeze a drifting language into that table. He read it off a language already running it, which is the whole of the standing claim: Sanskrit was engineered, encoded in the Vedas, decoded by many, and Pāṇini's decoding is the finest. Mendeleev gave chemistry its periodic table in 1869;[NOTE: mendeleev-1869-table] the comparison is modern, the grammatical table ancient.
+Pāṇini did not freeze a drifting language into that table. He documented an engine that was already running, which is the whole of the standing claim: Sanskrit was engineered, encoded in the Vedas, decoded by many, and Pāṇini's decoding is the finest. Mendeleev gave chemistry its periodic table in 1869;[NOTE: mendeleev-1869-table] the comparison is modern, the grammatical table ancient.
 
 The scale-chain has now reached the molecule. The sonomer became the *akṣara*, the *akṣara* fed the *dhātuḥ*, and the *dhātuḥ* — far from dissolving when speech begins — activates without ever losing the particles inside it, the same law holding the whole way up: measured units, recoverable assembly, stable identity.
 

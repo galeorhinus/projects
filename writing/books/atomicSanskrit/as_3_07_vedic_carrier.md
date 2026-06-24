@@ -4,7 +4,7 @@
 
 ---
 
-Chapter 1 states the claim. This appendix shows it.
+The claim established in Chapter 1 is demonstrated here.
 
 The *Vedas* carry Sanskrit's engineering as corpus form. The architecture is already operating in the verses: in *sandhi*, case inflection, meter, verbal endings, derivation, accent, and the precise difference between **छन्दस् (*chandas*)** and **भाषा (*bhāṣā*)** — the two modes Pāṇini tags as *chandasi* (*"in meter"*) and *bhāṣāyām* (*"in speech"*). Pāṇini does not create that architecture. He documents what the corpus already does.
 
@@ -14,7 +14,7 @@ The pyramid's account calls the difference between *vaidika* and *laukika* Sansk
 
 ## 7.1 Corpus Before Manual
 
-Chapter 1 §1.1's fuller statement opens with three blockquoted lines. The middle one carries this appendix's load:
+Chapter 1 §1.1's fuller statement opens with three blockquoted lines. The middle one carries the load here:
 
 > ***The engineering's upstream origin is not visible in the historical record;*** ***अपौरुषेयत्व (*apauruṣeyatva*)*** ***is the lineage-chain's own anchor for the position. The*** ***Vedas*** ***carry the engineering across thousands of years as the corpus form, implicit in every recitation rule and every metrical specification.***
 
@@ -131,9 +131,6 @@ The alternations do not carry that claim. They carry something else.
 
 ## 7.5 Meter, Not Decay
 
-<!-- AISWEEP-OLD
-The instrumental plural pair makes the issue plain. Vedic Sanskrit can use both shorter and longer forms — for *deva*:
-AISWEEP-END -->
 Vedic Sanskrit can use both a shorter and a longer instrumental plural — for *deva*:
 
 - Classical: ***devaiḥ*** (देवैः) — two syllables
@@ -194,11 +191,11 @@ Natural drift produces cascading unrecognizability. Sanskrit shows bounded mode-
 
 ## 7.7 The Matrix Succeeds
 
-Chapter 5 §5.6 introduced the unifying observation as a standalone blockquote, restated here as the appendix's close:
+Chapter 5 §5.6 introduced the unifying observation as a standalone blockquote, restated here as the summary:
 
 > ***The dogma treats all variation as drift. The engineering thesis treats all variation as engineered design choices within the same architecture.***
 
-Appendix Part 7 establishes the two halves of the *Vedas implicitly carry it as the corpus form* clause from Chapter 1 §1.1:
+The documentation establishes the two halves of the *Vedas implicitly carry it as the corpus form* clause from Chapter 1 §1.1:
 
 - **The implicit grammar is visible in the Vedas** (§§7.2–7.3). Three verses walked phrase-by-phrase show the engineering operating systematically — *sandhi*, case inflection, *dhātu*-*pratyaya* assembly, *upasarga*-compounded verbs, relative-correlative constructions, the *liṅ-lakāra* optative paradigm, *kṛdanta* derivation, the metrical specification — all functioning before any *vyākaraṇa* text exists to describe them.
 - **The variations the dogma treats as drift are engineered mode-differences** (§§7.4–7.6). The *constantly-evolving-Sanskrit* claim is the same structural overreach Wheeler made with his six skeletons. The specific alternations are, almost without exception, metrically-driven engineered alternates the *chandas* mode requires and the *bhāṣā* mode does not.

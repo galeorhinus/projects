@@ -537,6 +537,22 @@ The two sides of the book's central opposition (Sanskrit's engineering vs. the p
 
 **Deployment pattern.** Where a sentence is doing prosecutorial work on the pyramid, prefer a *cartel* / *ecosystem* / *machinery* / *regime* word. Where a sentence is naming Sanskrit's design, prefer an *architecture* / *constellation* / *framework* / *engine* word. The noun choice carries the structural opposition without requiring the polemic move to be made explicitly in the surrounding prose. Don't sweep-and-replace blindly — *apparatus* remains the right choice in some contexts; the convention is to deploy the side-specific word *where the polemic force can carry it*.
 
+**The asuric-operation arsenal — *containment* (umbrella) + four contextual words.** The pyramid's operation against Sanskrit is named with one standing umbrella term plus four sense-specific words. Do not collapse them, and do not let a generic synonym drift back in.
+
+- ***architecture of containment*** — the **umbrella / named concept** for the whole asuric operation against Sanskrit. Keep it stable, repeated, and cross-referenced (developed in Ch 3 §3.5). This is the search-anchored concept; do **not** vary it by context.
+- **The operation, by sense** (deploy contextually for individual instances, never as the umbrella):
+  - ***concealment*** — **epistemological**: hiding Sanskrit's true (engineered) nature; preventing the architecture from being seen (e.g., praise-that-hides).
+  - ***blockade*** — **institutional**: gatekeeping, shutting down debate, stopping an argument from advancing (peer-review / credential walls).
+  - ***quarantine*** — **cultural**: isolating Sanskrit from living use, treating it as a dead / museum object, cutting it off from the people.
+  - ***enclosure*** — **spatial/temporal**: boxing Sanskrit into a chronological timeline, a limited geography, or an artificial map (the PIE tree).
+- **Section titles** may take the sense-word for the facet they treat (Ch 3 §3.3 *Enclosure: The Theological Pillar*); the section developing the umbrella keeps it (Ch 3 §3.5 *Containment: The Method*).
+- **Not in this arsenal:** ***machinery*** stays the pyramid-side *agent* word (above) — do not reuse it for the operation. And do **not** promote *concealment* to the umbrella: the eclipse thesis is *visible-but-darkened*, not *hidden*, so *containment* (kept bounded) is the truer umbrella.
+
+**Perimeter — two senses, never merged.**
+
+- **Asuric-defense *perimeter*** (the oppressor's wall — same job as containment) → use the arsenal above; default to ***blockade*** for the institutional-defense sense.
+- **Pāṇinian / technical *perimeter*** (the edges and reach of Sanskrit's *own* engineering — the *bhāṣā* / calibration / engineering "perimeter") → **never** the arsenal. Use precision-engineering vocabulary: ***boundary*** (the exact edge of a rule's application), ***scope*** (the operational range / reach), ***matrix*** (the interconnected grid — rare; watch the *calibration matrix* collision). A wall / siege word for Sanskrit's own grammar imports the oppressor's vocabulary into the thing being defended; that is the error this split corrects.
+
 ### *Tradition* — reserved for the pyramid side; Indic side named in its own terms
 
 ***Tradition*** is the Latin *traditio* — *a handing-over, a delivery*; same root as *trāditor*, the betrayer. The word names *handed-over content* and carries that valence whether the user intends it or not. The Indic apparatus is not handed-over content; it is engineered, *Sanātan*, decoded across generations. The noun-choice carries the structural commitment.

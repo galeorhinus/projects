@@ -22,18 +22,13 @@ The threat is the missing third category, and Sanskrit belongs there. Sanskrit i
 
 Through the nineteenth century, the Western philological machinery baked a story about Sanskrit that refused this third category. Bopp's comparative grammar (1810s), Schleicher's family tree (1860s), Müller's pedagogical machinery (1850s–1880s), Brugmann's *Grundriss* (1886). Three generations of European comparativists assembled the ingredients. The recipe still holds. If anything, PIE has become more entrenched: the imagined ancestor remains the controlling premise of authorized Indo-European curricula and reference works today.[NOTE: bakers-story-seven-moves]
 
-<!-- AISWEEP-OLD
-PIE supplies the eclipse-device in technical form: the mechanism that makes the category theft hold. Place an invented ancestor above Sanskrit, and Sanskrit is moved from calibrant to cognate. The real language, preserved in sound and use, is placed below an imagined parent preserved nowhere, spoken by no known community, and recited by no lineage.
-AISWEEP-END -->
-Place an invented ancestor above Sanskrit, and Sanskrit is moved from calibrant to cognate — PIE is the eclipse-device in technical form, the mechanism that makes the category theft hold. The real language, preserved in sound and use, is placed below an imagined parent preserved nowhere, spoken by no known community, and recited by no lineage.
+PIE is the eclipse-device in technical form—the mechanism that makes category theft hold. Place an invented ancestor above Sanskrit, and the calibrant is demoted to a cognate. The real language, preserved in sound and use, is placed below an imagined parent preserved nowhere, spoken by no known community, and recited by no lineage.
 
 The theft is visible in the words nearest the reader. **मातृ (*mātṛ*)** is not Sanskrit's cousin beside *mother*; it is the etymon. The English word is a **प्रतिबिम्ब (*Pratibimba*)** — a reflection of the original form. The pyramid's account reverses that relation. It routes *mother* through reconstructed forms while *mātṛ* is made to stand beside it as a sibling. The asterisk becomes a small sign of authority: invisible speech placed above visible architecture.
 
 The pyramid hides *saṃskṛti* by splitting Sanskrit in two. Before Pāṇini (पाणिनि), it makes Sanskrit answer as *prakṛti*. After Pāṇini, it makes Sanskrit answer as codification. The repair looks late; the architecture vanishes.
 
-That is *asurī māyā*: not illusion as such, not skill as such, but category-making used for concealment. The seven moves below are not seven independent slips. They are a single sequence of category-theft.
-
-This asurī māyā has seven moves.
+That is *asurī māyā*: not illusion as such, not skill as such, but category-making used for concealment. The theft executes in seven moves. They are not independent slips. They form a single sequence of category-theft.
 
 **First.** Vedic Sanskrit was the naturally spoken language of the people the pyramid calls the *"Aryans"* — the racial category Chapter 3 calls the **racial Arya thesis**. In the story, these itinerant pastoralists enter the subcontinent, become the founding event of Indic civilization, bring the language, use it, change it, and hand it to their descendants.
 
@@ -87,21 +82,12 @@ The pyramid depends on one picture: the tree.
 
 In the 1860s, the German comparativist August Schleicher gave comparative philology its governing imagination.[NOTE: schleicher-stammbaumtheorie] Languages became living organisms. They had roots, stems, branches, families, daughters, sisters. They grew from ancestors, split across geography, mutated across time, and decayed into descendant forms. The metaphor looked innocent because it turned linguistic history into nature. Once the tree was accepted, the rest of the story followed almost automatically — and a century and a half later, the metaphor remains so naturalized that few of the discipline's practitioners notice they are speaking it.
 
-<!-- AISWEEP-OLD
-The tree is the conversion device. It takes a system that presents itself as created, measured, preserved, and calibrated, and makes it look like nature: growth, inheritance, mutation, decay. The conversion protects the pyramid from the more dangerous interpretation: Sanskrit as the swastika's geometry — distributed order without apex command.
-AISWEEP-END -->
-The tree takes a system that presents itself as created, measured, preserved, and calibrated, and makes it look like nature: growth, inheritance, mutation, decay. That conversion is what the device performs, and it protects the pyramid from the more dangerous interpretation: Sanskrit as the swastika's geometry — distributed order without apex command. The threat is structural, not symbolic. If Sanskrit has roots, branches, and descendants, then Sanskrit belongs in the tree. If Sanskrit belongs in the tree, it must have a natural ancestor. If it has a natural ancestor, PIE becomes plausible. If PIE becomes plausible, Sanskrit can be made to descend. Once it descends, it is no longer *saṃskṛti* in its own right. It is inherited nature plus later repair. The category has been stolen before the evidence is heard.
+The tree takes a system that presents itself as created, measured, preserved, and calibrated, and makes it look like nature: growth, inheritance, mutation, decay. This conversion protects the pyramid from the more dangerous interpretation: Sanskrit as the swastika's geometry — distributed order without apex command. The threat is structural, not symbolic. If Sanskrit has roots, branches, and descendants, then Sanskrit belongs in the tree. If Sanskrit belongs in the tree, it must have a natural ancestor. If it has a natural ancestor, PIE becomes plausible. If PIE becomes plausible, Sanskrit can be made to descend. Once it descends, it is no longer *saṃskṛti* in its own right. It is inherited nature plus later repair. The category has been stolen before the evidence is heard.
 
-<!-- AISWEEP-OLD
-The metaphor does the work before the argument begins. The mātṛ / mother relation is the same operation at layreader scale: closeness is admitted, direction is rerouted, and visible Sanskrit is made to stand below an imaginary parent.
-AISWEEP-END -->
 The mātṛ / mother relation runs the same operation at layreader scale: closeness is admitted, direction is rerouted, and visible Sanskrit is made to stand below an imaginary parent. The metaphor has done its work before the argument begins.
 
 ## 2.3 Where Botany Works
 
-<!-- AISWEEP-OLD
-The botanical model is not useless. It describes natural language change well enough to be tempting.
-AISWEEP-END -->
 The botanical model earns its appeal honestly. It describes natural language change well enough to be tempting.
 
 English and Dutch do behave like sister forms inside the Germanic family. Latin did produce the Romance languages. French, Spanish, and Italian did change across geography, politics, usage, and time. Natural languages shed endings, blur sounds, absorb neighbors, simplify some forms, complicate others, and reproduce themselves in altered descendants.
@@ -114,11 +100,6 @@ Plants are fractal. Natural languages are fractal in the same sense: patterns re
 
 ## 2.4 Saṃskṛti Made to Look Like Prakṛti
 
-<!-- AISWEEP-OLD
-Sanskrit occupies another category.
-
-The language says so in its name. **संस्कृतम् (*saṃskṛtam*)** is an architectural declaration: *sam-* (complete, total, perfected) joined to *kṛta* (made, produced, brought into form), from the semantic atom *kṛ*, the action of making itself.[NOTE: samskrtam-morphology]
-AISWEEP-END -->
 Sanskrit's own name puts it in another category. **संस्कृतम् (*saṃskṛtam*)** is an architectural declaration: *sam-* (complete, total, perfected) joined to *kṛta* (made, produced, brought into form), from the semantic atom *kṛ*, the action of making itself.[NOTE: samskrtam-morphology] The word means, without strain, the completely made, the perfectly formed, the wholly synthesized. The past participle does structural work: the language was created first; the name came later. Most languages are named for peoples or places. Sanskrit is named for how it is made.
 
 The contrast is equally precise. If *saṃskṛtam* is what is completely made, *prakṛti* is what keeps making itself — nature. **प्राकृतानि (*prākṛtāni*)** are the natural language forms — speech that keeps making itself, shifting, growing, branching, and decaying. Indic grammar did not lack the botanical category. It assigned that behavior to the *prākṛtāni*. *Saṃskṛtam* was the architecture of **सनातन (*Sanātan*)** — the integral, the perpetual, the ground on which civilization continues. The *prākṛtāni* were everything else.
@@ -131,16 +112,10 @@ The dogma requires drift. Sanātan's continuum was built to prevent it. There is
 
 Nineteenth-century European philology absorbed Sanskrit into the botanical scheme without absorbing Sanskrit's own distinction. It treated *saṃskṛtam* as one more leaf on an Indo-European tree: descended from an imaginary ancestor, governed by natural drift, and explainable by the same biology that explained ordinary languages. There was no place in the framework for an engineered language. So the engineering was folded away.
 
-<!-- AISWEEP-OLD
-The most consequential fold occurred in a single word: **धातुः (*dhātuḥ*)**. In Sanskrit grammar, the *dhātuḥ* is the foundational structural unit. Its semantic field extends across Sanskrit's scientific vocabulary. In Ayurveda, a *dhātuḥ* is one of the body's supporting tissues. In *Rasaśāstra* and metallurgical literature, a *dhātuḥ* is a fundamental element, an irreducible base substance valued for stability and constitutive force. Across domains, the meaning holds: a *dhātuḥ* supports, constitutes, and remains. It is a structural constant. Chapter 10 develops the term at atomic scale. The consequence of mistranslating it can be stated now.
-AISWEEP-END -->
 The most consequential fold occurred in a single word: **धातुः (*dhātuḥ*)**. In Sanskrit grammar, the *dhātuḥ* is the foundational structural unit, and its semantic field extends across Sanskrit's scientific vocabulary. In Ayurveda, a *dhātuḥ* is one of the body's supporting tissues. In *Rasaśāstra* and metallurgical literature, a *dhātuḥ* is a fundamental element, an irreducible base substance valued for stability and constitutive force. Across domains, the meaning holds: a *dhātuḥ* supports, constitutes, and remains. It is a structural constant — a point Chapter 10 develops at atomic scale.
 
 European philology rendered *dhātuḥ* as **root**. The translation looks harmless only because the metaphor has already won. A *dhātuḥ* is a structural constant — the constituent the body, the metal, the medicine, and the grammar are all made of. *Root*, by contrast, is botanical: an appendage sunk into soil, growing, feeding, branching, rotting. The two words denote opposite operations. It is a constituent. It is what the language is made of. Translating it as "root" relocated Sanskrit's grammatical primitive from an engineering category into a botanical one. The mistranslation has long since stopped being a translator's note. It is now the foundational term of the discipline.
 
-<!-- AISWEEP-OLD
-Sanskrit had botanical words available. *Bīja* (बीज) — the unit from which the plant grows. *Mūla* (मूल) — the anchor that draws and feeds. Either could have named the grammar's basic unit in a plant-key. Sanskrit chose neither. It chose *dhātuḥ*, the word already available for the constituent constant of body, matter, and substance. The choice placed grammar in the engineering category. The mistranslation as "root" imposed the very metaphor Sanskrit had refused.[NOTE: dhatu-pre-panini-vedic]
-AISWEEP-END -->
 Sanskrit had botanical words available. *Bīja* (बीज) — the unit from which the plant grows. *Mūla* (मूल) — the anchor that draws and feeds. Either could have served as the grammar's basic unit in a plant-key. Sanskrit chose neither. It chose *dhātuḥ*, the word already available for the constituent constant of body, matter, and substance. The choice placed grammar in the engineering category. The mistranslation as "root" imposed the very metaphor Sanskrit had refused.[NOTE: dhatu-pre-panini-vedic]
 
 The mistranslation was not a minor lexical slip. It was intellectual organization. The framework treated languages as organisms; it needed Sanskrit's primitive to be an organ; it translated the word accordingly. A civilizational term for structural constancy was moved into a European botanical garden and kept there as exhibit number one for the family-tree thesis.
@@ -151,15 +126,9 @@ Chapter 10 makes the consequence measurable. Once the *dhātuḥ* is recognized 
 
 ## 2.6 Decoding, Not Codification
 
-<!-- AISWEEP-OLD
-The strategic word in the pyramid's account is *codified*. It lets the *asuric machinery* acknowledge what it cannot deny — Sanskrit's precision, scale, and generative power — while neutralizing what threatens the pyramid: Sanskrit as *saṃskṛti*, an engineered fractal of distributed order.
-AISWEEP-END -->
-*Codified* — the strategic word — lets the *asuric machinery* acknowledge what it cannot deny: Sanskrit's precision, scale, and generative power. The same word neutralizes what threatens the pyramid: Sanskrit as *saṃskṛti*, an engineered fractal of distributed order. *Codified* is the post-Pāṇinian half of the theft. It stops calling Sanskrit nature only when it can make Sanskrit answer to grammar as an external standard. The word makes a self-correcting architecture look dependent on a later authority. It assigns the architecture to one named figure at one late point inside the machinery's own chronology. It implies a transition: disorder before, order after. That implication carries the charge. It credits Pāṇini with architecture the lineage treats as prior to him, and it protects the chronology from the more dangerous claim: Sanskrit was engineered against drift from the start.
+*Codified* — the strategic word — lets the *asuric machinery* acknowledge what it cannot deny: Sanskrit's precision, scale, and generative power. The same word neutralizes what threatens the pyramid: Sanskrit as *saṃskṛti*, an engineered fractal of distributed order. *Codified* is the post-Pāṇinian half of the theft. It stops calling Sanskrit nature only when it can make Sanskrit answer to grammar as an external standard. The word makes a self-correcting architecture look dependent on a later authority. It assigns the architecture to one named figure at one late point inside the machinery's own chronology. It implies a transition: disorder before, order after. That implication carries the theft. It credits Pāṇini with architecture the lineage treats as prior to him, and it protects the chronology from the more dangerous claim: Sanskrit was engineered against drift from the start.
 
-<!-- AISWEEP-OLD
-For this charge, the direction matters most. The botanical half moves Sanskrit downward into nature and ancestry. The codification half moves Sanskrit sideways into authority and standardization. Together they make *saṃskṛti* disappear.
-AISWEEP-END -->
-The two halves of the theft pull in different directions. The botanical half moves Sanskrit downward into nature and ancestry. The codification half moves Sanskrit sideways into authority and standardization. Together they make *saṃskṛti* disappear.
+The two halves of the theft pull in different directions. The botanical half moves Sanskrit downward into nature and ancestry; the codification half moves it sideways into authority and standardization. *Saṃskṛti* disappears between them.
 
 *Codification* is not neutral praise for precision. It is the second half of the split: after Sanskrit has been made natural enough for PIE, Pāṇini is made authoritative enough to explain the grammar. Prior architecture becomes later authority. Decoding becomes imposition.
 
@@ -171,9 +140,6 @@ The counter-frame is simple:
 
 > ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.***
 
-<!-- AISWEEP-OLD
-That sentence is enough here. Chapter 5 lays out the grammatical lineage in detail; Chapter 10 develops Yaska's *agni* decoding as a worked example. The local point is direction. *Codify* runs from disorder toward imposed order. *Decode* runs from prior order toward explicit specification. Sanskrit's own word is ***vyākaraṇam*** (व्याकरणम्): *vi-* (वि, *apart*) + *ā-* (आ, *fully*) + *kṛ* (कृ, *to do, to make*) — *unfolding apart*. The grammarian is the ***vaiyākaraṇaḥ*** (वैयाकरणः), the one who performs that unfolding.
-AISWEEP-END -->
 The whole case turns on direction. *Codify* runs from disorder toward imposed order; *decode* runs from prior order toward explicit specification. Sanskrit's own word is ***vyākaraṇam*** (व्याकरणम्): *vi-* (वि, *apart*) + *ā-* (आ, *fully*) + *kṛ* (कृ, *to do, to make*) — *unfolding apart*. The grammarian is the ***vaiyākaraṇaḥ*** (वैयाकरणः), the one who performs that unfolding. Chapter 5 lays out the grammatical lineage in detail; Chapter 10 develops Yaska's *agni* decoding as a worked example.
 
 Pāṇini did not codify Sanskrit. He decoded it. His *Aṣṭādhyāyī* documents the finest surviving decoding of an order already operating. The asuric machinery reverses that direction and calls the reversal *codification*. That is the institutional scale of the same category theft.
@@ -186,4 +152,4 @@ Patañjali had already labeled the asymmetry. The grammarian's task was to defen
 
 The botanical metaphor describes growth and decay. Sanskrit was built so that neither would define it.
 
-The first charge is now visible. The tree made *saṃskṛti* answer as *prakṛti*. PIE held the invented ancestry above it. The false codification story made the repair look later than the architecture. Once that category theft is visible, the next question is why the tree had to be defended so stubbornly, and what strategic necessity made the theft useful.
+The first charge is now visible. The tree made *saṃskṛti* answer as *prakṛti*. PIE held the invented ancestry above it. The false codification story made documentation of an existing architecture look like repair. None of this was an accident of scholarship. It was a strategic necessity.

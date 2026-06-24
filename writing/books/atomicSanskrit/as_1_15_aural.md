@@ -1,13 +1,10 @@
 # Chapter 15 — Aural Architecture
 
-After the calibration matrix comes sound, where the formed Speech of Chapter 9 carries her radiance as audible preservation.
+After the calibration matrix comes sound, where formed Speech carries her radiance as audible preservation (Chapter 9).
 
-<!-- AISWEEP-OLD
-The evidence is audible. The *pāṭhas* are living recitation systems, maintained in identifiable lineages, taught in *gurukulas*, examined by teachers, performed before communities, and available to the ear.
-AISWEEP-END -->
-The *pāṭhas* are living recitation systems, maintained in identifiable lineages, taught in *gurukulas*, examined by teachers, performed before communities, and available to the ear.
+This preservation is audible in the *pāṭhas* — living recitation systems maintained in identifiable lineages, taught in *gurukulas*, examined by teachers, performed before communities, and available to the ear.
 
-The *saṃhitā-pāṭha* is recited in temples and homes across the subcontinent and the diaspora. The *krama-pāṭha* is taught by lineages that still test it formally. The *ghana-pāṭha* is mastered by senior reciters who carry a title recognized across Vedic communities. These are the operational layer of the preservation system mapped in Chapter 14.
+The *saṃhitā-pāṭha* is recited in temples and homes across the subcontinent and the diaspora. The *krama-pāṭha* is taught by lineages that still test it formally. The *ghana-pāṭha* is mastered by senior reciters who carry a title recognized across Vedic communities. These are the operational layer of the preservation system mapped earlier (Chapter 14).
 
 *Auditure* now appears in operation, with *Mnemoniture* as the remembered setting around it. The *Śikṣā* discipline trains the instrument. The eleven *pāṭhas* re-encode the corpus. Continuous recitation across multiple geographically separated lineages supplies the empirical cross-check. Sanskrit's preservation architecture leaves an observable engineering signature. The eleven *pāṭhas* are that signature.
 
@@ -49,10 +46,7 @@ The *pāṭhas* are an error-detecting code in continuous human operation.
 
 ## 15.3 Combinatorial Re-encoding
 
-<!-- AISWEEP-OLD
-The engineering is recognizable. Modern information theory uses redundancy, parity, checksums, and error-correcting codes to detect and localize corruption. The *pāṭhas* do the same kind of work through sound, memory, sequence, and trained bodies.
-AISWEEP-END -->
-Modern information theory uses redundancy, parity, checksums, and error-correcting codes to detect and localize corruption — engineering recognizable on sight. The *pāṭhas* do the same kind of work through sound, memory, sequence, and trained bodies.
+The engineering principles are recognizable from modern information theory, which uses redundancy, parity, checksums, and error-correcting codes to detect and localize corruption. The *pāṭhas* do exactly this work through sound, memory, sequence, and trained bodies.
 
 The *krama-pāṭha* checks word order. If word *n* appears in pair *(n-1, n)* and then in pair *(n, n+1)*, a swap has consequences on both sides. The adjacent pairs stop validating the sequence.
 
@@ -62,7 +56,7 @@ The *ghana-pāṭha* checks three-word windows. Each cell is expanded, reversed,
 
 The *vikṛti* recitations add further constraint. Each modified form gives the sequence a different shape. Together they form a redundancy field around the Vedic corpus. It is hard to construct a corruption that passes all eleven.
 
-This is the calibration matrix in motion (Chapter 14 §14.3) — *Chandas* operating like a cryptographic hash over the phonetic content. The meter binds the verse into a metrical form with low tolerance for drift. The *pāṭhas* re-encode the same content under combinatorial constraints with low tolerance for drift. *Śikṣā* trains the human instrument. The *guru* listens. The audience listens. The senior reciter listens. The old question from Chapter 14 §14.2 remains: who guards the guards? In Auditure, the room itself participates in the answer, with multiple trained ears hearing the same *(n, n+1)* *sandhi* boundary in the *jaṭā-pāṭha* at the same instant.[NOTE: combinatorial-redundancy-comparative]
+This is the calibration matrix in motion (Chapter 14 §14.3) — *Chandas* operating like a cryptographic hash over the phonetic content. The meter binds the verse into a metrical form with low tolerance for drift. The *pāṭhas* re-encode the same content under combinatorial constraints with low tolerance for drift. *Śikṣā* trains the human instrument. The *guru* listens. The audience listens. The senior reciter listens. The old question remains (Chapter 14 §14.2): who guards the guards? In Auditure, the room itself participates in the answer, with multiple trained ears hearing the same *(n, n+1)* *sandhi* boundary in the *jaṭā-pāṭha* at the same instant.[NOTE: combinatorial-redundancy-comparative]
 
 The *progressive dogma* treats the *pāṭhas* — when it engages them at all — as religious devotion, mnemonic ingenuity, or pedagogical curiosity. That category misses the object in front of it. The *pāṭhas* are not decorative. They are preservation engineering.
 
@@ -100,8 +94,4 @@ This is **ध्रौव्यता (*dhrauvyatā*)** in operation: not a clai
 
 A civilization the progressive dogma has classified as pre-rational and pre-engineering has produced and maintained the most sophisticated preservation architecture in human history; the pyramid's reflex is to treat the architecture's continued operation as evidence of mere inherited custom. *Tradition* is the pyramid's word for engineering it does not want to see.
 
-The proper name is engineering.
-
-The engineering continues.
-
-The next question is how the pyramid explained that continuing engineering away.
+The proper name is engineering, and that engineering continues. The next question is how the pyramid explained it away.

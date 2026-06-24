@@ -20,10 +20,7 @@ Selected sonomers are now on the page. Construction is the next question: which 
 
 Sanskrit's answer is the **धातुः (*dhātuḥ*)**.
 
-<!-- AISWEEP-OLD
-The category-theft charge has already returned the word to its own category: not root, not stem, not word, but constituent — the stable semantic unit or atom that holds identity while larger forms assemble around it. The sonomers, **अक्षराणि (*akṣarāṇi*)**, and **मात्रा (*mātrā*)** are now available. The construction question is direct: how do measured sonomers become semantic atoms?
-AISWEEP-END -->
-The category-theft charge has already returned the word to its own category — constituent: the stable semantic unit or atom that holds identity while larger forms assemble around it. The sonomers, **अक्षराणि (*akṣarāṇi*)**, and **मात्रा (*mātrā*)** are now available. The construction question is direct: how do measured sonomers become semantic atoms?
+With the botanical metaphors exposed as category theft, the architecture reclaims its own term: a constituent. The *dhātuḥ* is the stable semantic unit or atom that holds identity while larger forms assemble around it. The sonomers, **अक्षराणि (*akṣarāṇi*)**, and **मात्रा (*mātrā*)** are now available. The construction question is direct: how do measured sonomers become semantic atoms?
 
 ## 10.1 *Sūtra-Lakṣaṇam* — The Design Specification
 
@@ -38,17 +35,11 @@ Sanskrit already carries a design specification for compact engineered form. The
 
 Together, these six characteristics produce **सूत्रलाघवम् (*sūtra-lāghavam*)**: engineered brevity. The form is short, but the structure it holds is large. The *sūtra* is compact, clear, meaningful, wide-facing, economical, and stable.
 
-<!-- AISWEEP-OLD
-A *sūtra* is known to be made. No one claims a *sūtra* botanically grew into its precise form. A mind compressed it, removed excess, protected clarity, packed meaning into it, made it usable across contexts, and left it stable enough for the lineage to carry.
-AISWEEP-END -->
-No one claims a *sūtra* botanically grew into its precise form. It is known to be made: a mind compressed it, removed excess, protected clarity, packed meaning into it, made it usable across contexts, and left it stable enough for the lineage to carry.
+A *sūtra* is known to be made. A mind compressed it, removed excess, protected clarity, packed meaning into it, made it usable across contexts, and left it stable enough for the lineage to carry.
 
 The same question now descends one scale lower. If the *dhātuḥ* displays the same defining characteristics as the *sūtra*, Sanskrit's architecture is not merely engineered at one level. The same design recurs across scale.
 
-<!-- AISWEEP-OLD
-That recurrence is what **fractal** means here. The word is used in its working architectural sense: the same organizing principle appearing at different scales. What governs the *sūtra* should also be visible inside the *dhātuḥ*.
-AISWEEP-END -->
-That recurrence is **fractal** in the working architectural sense — the same organizing principle appearing at different scales. What governs the *sūtra* should also be visible inside the *dhātuḥ*.
+That recurrence defines **fractal** in the architectural sense: the same organizing principle appearing at different scales. What governs the *sūtra* should also be visible inside the *dhātuḥ*.
 
 ## 10.2 From Sūtra to Dhātuḥ — The Fractal Question
 
@@ -60,17 +51,11 @@ The verse gives the six characteristics in its own order. The tests proceed in e
 
 That sequence begins with construction because the *dhātuḥ* must first be visible as an assembled unit. Only then can the six criteria be tested at the atomic scale.
 
-<!-- AISWEEP-OLD
-The consequence is large. If the *dhātuḥ* passes the test, Sanskrit's basic semantic unit is not a botanical root that grew by drift. It is thoughtfully assembled sonomeric form. The *dhātuḥ* becomes an atomic instance of the same architectural discipline the *sūtra-lakṣaṇam* already recognizes in the *sūtra*.
-AISWEEP-END -->
-If the *dhātuḥ* passes the test, the consequence is large: Sanskrit's basic semantic unit is not a botanical root that grew by drift. It is thoughtfully assembled sonomeric form. The *dhātuḥ* becomes an atomic instance of the same architectural discipline the *sūtra-lakṣaṇam* already recognizes in the *sūtra*.
+The consequence is large. If the *dhātuḥ* passes the test, Sanskrit's basic semantic unit reveals itself as a thoughtfully assembled sonomeric form rather than a botanical root grown by drift. The *dhātuḥ* becomes an atomic instance of the same architectural discipline the *sūtra-lakṣaṇam* already recognizes in the *sūtra*.
 
 ## 10.3 From Sonomers to Semantic Atoms
 
-<!-- AISWEEP-OLD
-Selected sonomers are the starting point. The next question is how *varṇāḥ* become the atomic units of Sanskrit's word-engine.
-AISWEEP-END -->
-How do selected sonomers — the *varṇāḥ* already on the page — become the atomic units of Sanskrit's word-engine?
+With selected sonomers as the starting point, the next question is how *varṇāḥ* become the atomic units of Sanskrit's word-engine.
 
 The *varṇamālā* (वर्णमाला) is the sonomeric inventory. A small cluster of these sonomers creates the **धातुः (*dhātuḥ*)**.
 
@@ -80,10 +65,7 @@ The metaphor is physical, not biological. Across Indic sciences, *dhātuḥ* den
 
 The *Dhātupāṭha* (धातुपाठ) is the inventory of semantic atoms. The working inventory here is **2,168 *dhātavaḥ*** from that source.[NOTE: dhatupatha-count-and-ganas] The examples can now be plain: **कृ (*kṛ*)**, to do or make; **गम् (*gam*)**, to go; **भू (*bhū*)**, to be or become; **दृश् (*dṛś*)**, to see; **ज्ञा (*jñā*)**, to know. These are not words. They are the atoms from which words are assembled.
 
-<!-- AISWEEP-OLD
-Comparative perspective sharpens the category: Sanskrit is not alone in knowing sub-word semantic generators. Semitic languages carry consonantal semantic roots; Tamil grammar recognizes verbal bases.[NOTE: dhatu-cross-linguistic-analogues] What distinguishes the Sanskrit *dhātuḥ* is the full architecture around it: sonomeric inventory, timing, scaffold, bonding, and rule-system.
-AISWEEP-END -->
-Sanskrit is not alone in knowing sub-word semantic generators. Semitic languages carry consonantal semantic roots; Tamil grammar recognizes verbal bases.[NOTE: dhatu-cross-linguistic-analogues] What sets the Sanskrit *dhātuḥ* apart is the full architecture around it — the sonomeric inventory, the timing, the scaffold, the bonding, the rule-system.
+Comparative perspective sharpens the category: Semitic languages carry consonantal semantic roots, and Tamil grammar recognizes verbal bases.[NOTE: dhatu-cross-linguistic-analogues] What distinguishes the Sanskrit *dhātuḥ* is the full architecture around it: sonomeric inventory, timing, scaffold, bonding, and rule-system.
 
 The architecture is three-layered:
 
@@ -154,10 +136,7 @@ For example, **गम् (*gam*), नम् (*nam*), पच् (*pac*), and व�
 
 The filled hexagons differ in sonomer or *varṇa*; the scaffold remains identical. The *dhāturacanā* specifies the slots, the sonomers fill them, and the filled scaffold becomes the *dhātuḥ*: a semantic atom built from sonomers.
 
-<!-- AISWEEP-OLD
-The distinction matters:
-AISWEEP-END -->
-Three layers, three names:
+Three layers structure the atom:
 
 - **Scaffold / *dhāturacanā*** — the measured arrangement: **गमादि (*gamādi*)** <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">, **स्पदादि (*spadādi*)** <img src="figures/_shared/icons/scaffold_ccv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV1C scaffold">, **मन्थादि (*manthādi*)** <img src="figures/_shared/icons/scaffold_cv1cc_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1CC scaffold">, **वाचादि (*vācādi*)** <img src="figures/_shared/icons/scaffold_cv2c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2C scaffold">.
 - **Filling** — the specific *varṇāḥ* placed into the scaffold: *g-a-m*, *n-a-m*, *p-a-c*.
@@ -208,10 +187,7 @@ The scaffold level is where this test becomes visible. If the architecture has n
 
 The **धातुपाठ (*Dhātupāṭha*)** lists 2,168 *dhātavaḥ* across ten **गणाः (*gaṇāḥ*)**. After **अनुबन्ध (*anubandha*)** stripping — removing Pāṇini's metadata tags from the pronounced form — the inventory inhabits 47 observed *racanā* scaffolds. The distribution is not flat. Ten scaffolds carry **91.0%** of the inventory.[NOTE: dhatupatha-empirical-distribution]
 
-<!-- AISWEEP-OLD
-At this point the chapter is measuring architecture before *prayoga*. No speaker has deployed the atoms yet. The canonical inventory itself concentrates into a small family of measured scaffolds. A Zipf-like usage pattern can explain why a few forms become common in speech; it cannot explain why the inventory of semantic atoms is already scaffolded this tightly before use begins.[NOTE: zipf-rank-frequency]
-AISWEEP-END -->
-The measurement here is of architecture before *prayoga*. No speaker has deployed the atoms yet, and the canonical inventory already concentrates into a small family of measured scaffolds. A Zipf-like usage pattern can explain why a few forms become common in speech; it cannot explain why the inventory of semantic atoms is scaffolded this tightly before use begins.[NOTE: zipf-rank-frequency]
+This measures the architecture before *prayoga*, before any speaker deploys the atoms. The canonical inventory already concentrates into a small family of measured scaffolds. A Zipf-like usage pattern can explain why a few forms become common in speech, but the inventory of semantic atoms is already scaffolded this tightly before use begins.[NOTE: zipf-rank-frequency]
 
 ![The top ten *racanāḥ* by count across the 2,168-entry *Dhātupāṭha*.](figures/building_dhatuh/top_ten_racanas.svg){#fig:building-dhatuh-top-ten-racanas width=100%}
 
@@ -284,24 +260,15 @@ The *dhātuḥ* is where Sanskrit places semantic force. It is not a sonomeric o
 | धा (*dhā*) | place, hold, put | दधाति (*dadhāti*), धातु (*dhātu*), विधान (*vidhāna*), निधान (*nidhāna*) |
 | ज्ञा (*jñā*) | know | जानाति (*jānāti*), ज्ञान (*jñāna*), अज्ञान (*ajñāna*), विज्ञान (*vijñāna*), प्रज्ञा (*prajñā*) |
 
-<!-- AISWEEP-OLD
-The table is not offered as etymological decoration. It shows what *sāravat* means at the atomic scale. Tiny forms carry semantic force. कृ (*kṛ*) is not large, but it can generate action, actor, object, obligation, refinement, and transformation. भू (*bhū*) is not large, but it carries being and becoming. गम् (*gam*) carries motion into travel, arrival, scripture, and joining.
-AISWEEP-END -->
-The table shows what *sāravat* means at the atomic scale: tiny forms carry semantic force. कृ (*kṛ*) is a single consonant and a vowel, yet it generates action, actor, object, obligation, refinement, and transformation; भू (*bhū*) carries being and becoming; गम् (*gam*) carries motion into travel, arrival, scripture, and joining.
+The table shows what *sāravat* means at the atomic scale: tiny forms carry immense semantic force. कृ (*kṛ*) alone generates action, actor, object, obligation, refinement, and transformation. भू (*bhū*) carries being and becoming. गम् (*gam*) carries motion into travel, arrival, scripture, and joining.
 
 This is where engineering-poetry enters. Sanskrit does not treat sonomers as interchangeable filler. Flow-actions cluster around liquids and continuants — *sar* (सर्), *cal* (चल्), *car* (चर्), *dru* (द्रु), *plu* (प्लु), *sru* (स्रु), *kṣar* (क्षर्). Abrasion, diminishment, and cutting cluster around harsher sound-shapes — *kṣay* (क्षय), *kṣat* (क्षत), *kṣaṇ* (क्षण्), *kṣam* (क्षम्), *klam* (क्लम्), *kṣud* (क्षुद्), *kṣap* (क्षप्).
 
-<!-- AISWEEP-OLD
-The mechanism is assignment, not intrinsic magic. The architecture first creates compact, distinguishable forms. Then meaning is assigned with acoustic intelligence. Liquids fit flow because they sound like flow. *Kṣa* fits abrasion because it sounds like abrasion. Form comes first; assignment gives form semantic force.
-AISWEEP-END -->
-The sound does not carry the meaning by magic; the architecture assigns it. Compact, distinguishable forms come first, and meaning is then assigned with acoustic intelligence: liquids fit flow because they sound like flow, and *kṣa* fits abrasion because it sounds like abrasion. Form comes first; assignment gives form semantic force.
+The architecture assigns meaning with acoustic intelligence. It creates compact, distinguishable forms, and liquids fit flow because they sound like flow. *Kṣa* fits abrasion because it sounds like abrasion. Form comes first; assignment gives that form semantic force.
 
 This strengthens *varṇa-vāda* (वर्णवाद) rather than weakening it. The debate only makes sense inside an engineered language. A drifting natural language cannot sustain stable *varṇa-śakti* claims across its living record; its sounds shift, merge, and lose structural force. Sanskrit's sonomers remain discrete, stable, composable, and analyzable. That is why the debate could exist at all.[NOTE: varnavada-presupposes-engineering]
 
-<!-- AISWEEP-OLD
-The Vedic context grounds why this matters. The *Vedas* are poems. Sound-meaning alignment is part of the verse's effect, its mantric power, its sanctity. *Mantra* (मन्त्र) itself — from the *dhātuḥ* *man* (मन्, to think) — is the acoustic instrument that aligns sound with contemplation. Poetry is built form-first: meter, alliteration, and sonic flow drive the assembly; meaning enters that architecture as the poet works.
-AISWEEP-END -->
-The Vedic context grounds the point. The *Vedas* are poems, and sound-meaning alignment is part of the verse's effect — its mantric power, its sanctity. *Mantra* (मन्त्र) itself — from the *dhātuḥ* *man* (मन्, to think) — is the acoustic instrument that aligns sound with contemplation. Poetry is built form-first: meter, alliteration, and sonic flow drive the assembly, and meaning enters that architecture as the poet works.
+The Vedic context grounds why this matters, because the *Vedas* are poems. Sound-meaning alignment is part of the verse's effect, its mantric power, its sanctity. *Mantra* (मन्त्र) itself — from the *dhātuḥ* *man* (मन्, to think) — is the acoustic instrument that aligns sound with contemplation. Poetry is built form-first: meter, alliteration, and sonic flow drive the assembly; meaning enters that architecture as the poet works.
 
 Engineering is not the enemy of poetry. Engineering is what lets the poetry land. The *dhātuḥ* passes the fourth test. It is *sāravat*: compact form with semantic force.
 
@@ -311,10 +278,7 @@ A *sūtra* must be **विश्वतोमुखम् (*viśvatomukham*)** �
 
 कृ (*kṛ*) is the flagship example. It appears as action in **करोति (*karoti*)**, deed in **कर्म (*karma*)**, agent in **कर्तृ (*kartṛ*)**, what is to be done in **कार्यम् (*kāryam*)**, refinement in **संस्कार (*saṃskāra*)**, nature in **प्रकृति (*prakṛti*)**, cultivated order in **संस्कृति (*saṃskṛti*)**, and distortion in **विकृति (*vikṛti*)**. One atom faces action, object, agent, obligation, refinement, nature, culture, and deformation.
 
-<!-- AISWEEP-OLD
-This is not a loose semantic spread. It is directional reach through bonding. The *dhātuḥ* remains the identifiable center while *upasargāḥ* and *pratyayāḥ* turn it toward different functions. Chapter 12 will show that chemistry directly through *prakṛti*, *saṃskṛti*, *vikṛti*, and *saṃskāra*.
-AISWEEP-END -->
-The spread is directional reach through bonding, not a loose semantic scatter. The *dhātuḥ* remains the identifiable center while *upasargāḥ* and *pratyayāḥ* turn it toward different functions — the chemistry Chapter 12 develops directly through *prakṛti*, *saṃskṛti*, *vikṛti*, and *saṃskāra*.
+The spread demonstrates directional reach through bonding. The *dhātuḥ* remains the identifiable center while *upasargāḥ* and *pratyayāḥ* turn it toward different functions — a chemistry that operates directly through *prakṛti*, *saṃskṛti*, *vikṛti*, and *saṃskāra*.
 
 The scaffold evidence shows the same reach at the inventory level. A pattern that only crowds a list could still be a cataloguing convenience. The stronger test leaves the list and looks at Sanskrit in use. When the atoms actually bond, generate forms, take *upasargāḥ*, take *pratyayāḥ*, and enter *prayoga* (प्रयोग, actual use), do the same scaffolds still carry the work?
 
@@ -333,10 +297,7 @@ If the top ten dominate only the inventory and dissolve in actual use, the archi
 
 ![Top-10 *racanāḥ* vs the tail across four measures. Concentration holds — and tightens — as the architecture moves from inventory into *prayoga*.](figures/building_dhatuh/scaffold_deployment.svg){#fig:building-dhatuh-scaffold-deployment width=100%}
 
-<!-- AISWEEP-OLD
-Usage is next. Living speech normally produces rank-frequency concentration: a few forms carry heavy use while a long tail remains available. By itself, that fact would be weak. The test here is sharper. The same scaffolds that dominate the canonical inventory still carry almost nine-tenths of the *dhātavaḥ* visible in use, more than nine-tenths of the measured bonds, and more than nine-tenths of the counted uses. The inventory pattern survives deployment.
-AISWEEP-END -->
-Living speech normally produces rank-frequency concentration: a few forms carry heavy use while a long tail remains available. By itself that fact would be weak. The test here is sharper — the same scaffolds that dominate the canonical inventory still carry almost nine-tenths of the *dhātavaḥ* visible in use, more than nine-tenths of the measured bonds, and more than nine-tenths of the counted uses. The inventory pattern survives deployment.
+Living speech normally produces rank-frequency concentration where a few forms carry heavy use while a long tail remains available. The test here is sharper: the same scaffolds that dominate the canonical inventory still carry almost nine-tenths of the *dhātavaḥ* visible in use, more than nine-tenths of the measured bonds, and more than nine-tenths of the counted uses. The inventory pattern survives deployment.
 
 | Measure | Top ten *racanāḥ* | Tail |
 |---|---:|---:|
@@ -351,10 +312,7 @@ The compact *krādi* <img src="figures/_shared/icons/scaffold_cv1_gray.svg" styl
 
 The same scaffolds that compress the inventory also carry Sanskrit in use. The *racanā* is not a naming convenience. It is part of the architecture.
 
-<!-- AISWEEP-OLD
-The claim remains bounded. This section does not yet identify the full procedural behavior of individual sonomers. It shows that the measured scaffold survives the move from inventory to Sanskrit in use. The next question is procedural: once the scaffolded atom exists, how does Sanskrit activate it into a *kriyāpada* without losing sonomeric precision?
-AISWEEP-END -->
-The claim stays bounded. The measured scaffold survives the move from inventory to Sanskrit in use; the full procedural behavior of individual sonomers waits for the next scale. That next question is procedural: once the scaffolded atom exists, how does Sanskrit activate it into a *kriyāpada* without losing sonomeric precision?
+The claim remains bounded: the measured scaffold survives the move from inventory to Sanskrit in use. Once the scaffolded atom exists, how does Sanskrit activate it into a *kriyāpada* without losing sonomeric precision?
 
 The *dhātuḥ* passes the fifth test. It is *viśvatomukham*: one compact atom can face many directions without losing the center from which those directions unfold.
 
@@ -376,10 +334,7 @@ The burden now shifts. Anyone who wants to call this ordinary natural-language b
 
 The engineering thesis is not a modern invention. The Sanskrit-literate continuum operated as if Sanskrit could be analyzed at every level: sound, meter, grammar, word-formation, and preservation. That operating premise appears in the disciplines themselves.
 
-<!-- AISWEEP-OLD
-These disciplines are not separate fields that happened to use the same language. They are complementary applications of one premise: Sanskrit is built well enough to support exact analysis at every level.
-AISWEEP-END -->
-These disciplines are complementary applications of one premise — Sanskrit is built well enough to support exact analysis at every level — rather than separate fields that happened to share a language.
+These disciplines are complementary applications of one premise: Sanskrit is built well enough to support exact analysis at every level.
 
 - ***Vyākaraṇam*** (व्याकरणम्) — grammar — presupposes engineered combinatorial rules.
 - ***Nirukta*** (निरुक्त) — etymology — presupposes an engineered decomposable lexicon.
@@ -389,10 +344,7 @@ These disciplines are complementary applications of one premise — Sanskrit is 
 
 No ordinary drifting language generates that disciplinary constellation by accident. The disciplines exist because the language can bear them.
 
-<!-- AISWEEP-OLD
-Yaska's decoding of **अग्नि (*agni*)** at *Nirukta* 7.14 makes the point concrete. The text predates Pāṇini and is foundational to the etymological decoding discipline. Yaska treats one word with four independent *dhātu*-level decodings, two attributed to earlier named pre-Pāṇinian decoders:[NOTE: yaska-agni-nirukta-7-14]
-AISWEEP-END -->
-Yaska's decoding of **अग्नि (*agni*)** at *Nirukta* 7.14 makes the point concrete. The text predates Pāṇini and is foundational to the etymological decoding discipline. Yaska took one word and gave it four independent *dhātu*-level decodings, two of them attributed to earlier named pre-Pāṇinian decoders:[NOTE: yaska-agni-nirukta-7-14]
+Yaska's decoding of **अग्नि (*agni*)** at *Nirukta* 7.14 makes the point concrete. Predating Pāṇini and foundational to the etymological decoding discipline, Yaska treats one word with four independent *dhātu*-level decodings, two attributed to earlier named pre-Pāṇinian decoders:[NOTE: yaska-agni-nirukta-7-14]
 
 > ***agra-nī*** (अग्रनी) — *that which leads at the front*, from *agra* (अग्र, front) + the *dhātu* *nī* (नी, to lead). Fire leads the sacrificial procession; it is brought forward at the front of every rite.
 >
@@ -402,15 +354,9 @@ Yaska's decoding of **अग्नि (*agni*)** at *Nirukta* 7.14 makes the poi
 >
 > ***i + añj + dah → agni*** — *the one born from three dhātavaḥ*: *i* (इ, to go) + *añj* (अञ्ज्, to anoint / illuminate) + *dah* (दह्, to burn). **Per Śakapūṇi** (शकपूणि), a second pre-Pāṇinian grammarian Yaska cites by name. The three-*dhātu* derivation combines motion, illumination, and burning into one word.
 
-<!-- AISWEEP-OLD
-To the philological eye, four derivations of one word look like uncertainty — competing guesses about a single "true" etymology. Inside the Sanskrit analytical frame they are functional decompositions. **अग्नि (*agni*)** is not being reduced to one historical accident. Yaska is isolating the properties the word carries in use: fire leads, animates, dries, illuminates, burns.
-AISWEEP-END -->
-To the philological eye, four derivations of one word look like uncertainty — competing guesses about a single "true" etymology. Inside the Sanskrit analytical frame they are functional decompositions. **अग्नि (*agni*)** is not reduced to one historical accident; Yaska isolated the properties the word carries in use: fire leads, animates, dries, illuminates, burns.
+To the philological eye, four derivations of one word look like uncertainty — competing guesses about a single "true" etymology. Inside the Sanskrit analytical frame they are functional decompositions. Yaska is performing a precise functional analysis, isolating the properties the word carries in use: fire leads, animates, dries, illuminates, and burns.
 
-<!-- AISWEEP-OLD
-The decompositions do not cancel each other. They expose different stresses inside one assembled word, and that is exactly what stable constituents make possible. *Agni* can be decoded because *varṇāḥ*, *dhātavaḥ*, and bonding rules are discrete enough to support decoding. A fuzzy, drifting, botanical language would not generate *Nirukta*. It would generate guesses. Sanskrit generated analysis — and the analysis was already running through named decoders before any formal grammar text described the system.
-AISWEEP-END -->
-The four decompositions expose different stresses inside one assembled word, which is exactly what stable constituents make possible. *Agni* can be decoded because *varṇāḥ*, *dhātavaḥ*, and bonding rules are discrete enough to support decoding. A fuzzy, drifting, botanical language would not generate *Nirukta*. It would generate guesses. Sanskrit generated analysis — and the analysis was already running through named decoders before any formal grammar text described the system.
+The decompositions expose different stresses inside one assembled word, which is exactly what stable constituents make possible. *Agni* can be decoded because *varṇāḥ*, *dhātavaḥ*, and bonding rules are discrete enough to support decoding. A drifting, botanical language generates guesses; Sanskrit generated analysis, and that analysis was already running through named decoders before any formal grammar text described the system.
 
 The Sanskrit-literate world did not debate whether Sanskrit was engineered. It debated how the engineering produces meaning: *varṇa-vāda* versus *sphoṭa-vāda*, intrinsic charge versus assignment freedom, *dhātu*-prior versus *śabda*-prior. These are internal debates within the engineering thesis. The progressive dogma's "natural language like any other" account is not one of the internal schools. It is an outsider's denial of the room in which the debate happened.
 
@@ -426,12 +372,7 @@ A mere list gives the analyst frequencies. Sanskrit gives the analyst valency. T
 
 Each bubble is one consonant. The horizontal axis tracks onset deployment; the vertical axis tracks coda deployment; bubble size encodes inner-cluster activity. The dashed line shows the onset = coda diagonal. The edge specialists are visible too: **क**, **व**, **प**, **श** lean toward onset work; **ष**, **ज**, **स**, **ट**, **ड** lean toward coda work.
 
-<!-- AISWEEP-OLD
-Three examples are enough here.
-
-First, *ra* (र) operates as the universal bonder.
-AISWEEP-END -->
-Three consonants show the range.
+Three examples demonstrate the pattern.
 
 First, *ra* (र) operates as the universal bonder. It covers all four position-roles at meaningful magnitude and performs inner-cluster work no other consonant matches.
 
@@ -439,10 +380,7 @@ Second, *la* (ल) operates as a structural neutralizer. It sits near the diagon
 
 Third, the *ṛ* (ऋ) / *ra* (र) bridge exposes the engineering at the vowel-consonant boundary. ऋ is the *r*-principle as vowel-core. र is the same principle as consonantal bonder. Sanskrit places both in the *mūrdhanya* field, then makes both disproportionately active. Under *yaṇ-sandhi*, vocalic ऋ resolves into र before a following vowel — the same articulatory principle crossing the vowel/consonant boundary, taking nuclear form in the *svara* table and bonding form in the *vyañjana* table.
 
-<!-- AISWEEP-OLD
-The full procedural account belongs to the next scale. Activation sonomers arrive, the *dhātuḥ* changes in governed ways, and the finished *kriyāpada* molecule remains traceable back to the atom. The bridge is enough here. The atom is not assembled from inert letters. It is assembled from sonomers whose behavior is already patterned.
-AISWEEP-END -->
-The full procedural account belongs to the next scale: activation sonomers arrive, the *dhātuḥ* changes in governed ways, and the finished *kriyāpada* molecule remains traceable back to the atom. The atom is not assembled from inert letters. It is assembled from sonomers whose behavior is already patterned.
+Activation sonomers arrive, the *dhātuḥ* changes in governed ways, and the finished *kriyāpada* molecule remains traceable back to the atom. The atom is assembled from sonomers whose behavior is already patterned, rather than from inert letters.
 
 ## 10.15 The Atomic Corollary
 
@@ -464,7 +402,7 @@ The convergence of names at two adjacent levels is itself the signal. The Sanskr
 
 The corollary's consequences run forward. The next levels are *kriyā*, bonding chemistry, *śabdāḥ*, *vākyāni*, and the preservation problem the architecture must solve once the system is in use.
 
-The corollary's consequences run backward as well. The diagnoses of the philological dogma — Chapter 2 on the botanical fallacy, Chapter 17 on the wrong question, and Chapter 18 on PIE in the sky — are now anchored by the Atomic Corollary's positive content. The point is not only that the pyramid's account is wrong. The account is wrong because the architecture is atomic, and atomic architectures do not behave the way the dogma's botanical model assumes.
+The corollary's consequences run backward as well. The diagnoses of the philological dogma — Chapter 2 on the botanical fallacy, Chapter 17 on the wrong question, and Chapter 18 on PIE in the sky — are now anchored by the Atomic Corollary's positive content. The pyramid's account fails fundamentally because the architecture is atomic, and atomic architectures do not behave the way the dogma's botanical model assumes.
 
 The *dhātuḥ* is the unit of stable identity. The Sanskrit continuum called it that. The name must be restored.
 
@@ -486,10 +424,7 @@ The *dhātuḥ* displays the same **लक्षणानि (*lakṣaṇāni*)*
 
 The *dhātuḥ* behaves like a *sūtra* at atomic scale.
 
-<!-- AISWEEP-OLD
-First came **ॐ (*oṃ*)** as the shortest audible compression of Sanskrit's sound-anatomy. Then came the sound-field and the selected field shaped into the *varṇamālā*. The same discipline is now visible inside the *dhātuḥ*. Now the recurrence can be stated.
-AISWEEP-END -->
-First came **ॐ (*oṃ*)** as the shortest audible compression of Sanskrit's sound-anatomy. Then came the sound-field and the selected field shaped into the *varṇamālā*. The same discipline is now visible inside the *dhātuḥ*, and the recurrence stands clear.
+First came **ॐ (*oṃ*)** as the shortest audible compression of Sanskrit's sound-anatomy. Then came the sound-field and the selected field shaped into the *varṇamālā*. The same discipline is now visible inside the *dhātuḥ*, making the fractal recurrence undeniable.
 
 The śāstra does not treat Oṃ as a casual sacred sound. The Chāndogya calls it the essence of essences. The Māṇḍūkya gives the fractal formula: **ॐ इत्येतदक्षरमिदं सर्वम् (*oṃ ity etad akṣaram idaṃ sarvam*)** — this *akṣara* Oṃ is all this — and extends the claim across what was, what is, what will be, and what stands beyond the three times. It then unfolds the single syllable as **अ-उ-म् (*a-u-m*)** and the unmeasured fourth. The Taittirīya says, "Oṃ is Brahman; Oṃ is all this." The Kaṭha condenses what all the Vedas declare into one answer: Oṃ. In this vocabulary, Oṃ is the acoustic seed of *Sanātan*: the time-transcending claim made audible in one *akṣara*.[NOTE: om-vocal-tract-macro-gesture]
 
@@ -503,6 +438,4 @@ Oṃ is the single-syllable sūtra. The *varṇamālā* is the sonomeric sūtra.
 
 What else in Sanskrit carries the same discipline? The whole-language answer comes with calibration.
 
-The next chapters follow that discipline upward. Atoms become action, word, and sentence, but Sanskrit does not blur the sonomer.
-
-The atom is now built. The next scale asks how the *dhātuḥ* becomes a *kriyāpada* molecule.
+The next chapters follow that discipline outward. As atoms become action, word, and sentence, Sanskrit preserves the sonomer. With the atom now built, the next scale asks how the *dhātuḥ* becomes a *kriyāpada* molecule.

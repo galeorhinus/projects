@@ -46,10 +46,7 @@ The invocation gives its own answer:
 
 The metaphysical meaning is primary. The invocation speaks of ब्रह्मन् (*Brahman*) and the relationship between the absolute and the manifest. The formal intuition is present too. Fullness is not reduced when manifestation emerges from it. Fullness is not exhausted when fullness is taken from it. Set theory is only the modern parallel; the verse shows a civilization already comfortable with the conceptual territory in which zero and infinity live.
 
-<!-- AISWEEP-OLD
-The same comfort shaped the place-value number system and Sanskrit's generative word-system. Ten digits span arithmetic. A finite inventory of semantic atoms, prefixes, and suffixes spans vocabulary. Zero makes the numerical system unbounded. Combinatorial architecture makes the linguistic system unbounded. Both begin from a finite visible surface and open into reach without apparent end. Together they show the first mark of the seekers.
-AISWEEP-END -->
-The same comfort shaped the place-value number system and Sanskrit's generative word-system. Ten digits span arithmetic, and a finite inventory of semantic atoms, prefixes, and suffixes spans vocabulary. Zero makes the numerical system unbounded; combinatorial architecture makes the linguistic system unbounded. Both begin from a finite visible surface and open into reach without apparent end — the first mark of the seekers.
+That same cognitive leap shaped the place-value number system and Sanskrit's generative word-system. Ten digits span arithmetic, and a finite inventory of semantic atoms, prefixes, and suffixes spans vocabulary. Zero makes the numerical system unbounded; combinatorial architecture makes the linguistic system unbounded. Both begin from a finite visible surface and open into reach without apparent end — the first mark of the seekers.
 
 ---
 
@@ -67,9 +64,6 @@ The analytical decomposition of language and number both belong to that culture.
 
 Sanskrit's engineering is the analytical decomposition of the audible world. The number system is the analytical decomposition of the countable world. Both are works of disciplined seeking.
 
-<!-- AISWEEP-OLD
-The linguistic layer is the concern here because Sanskrit's engineering begins with a civilization capable of the act.
-AISWEEP-END -->
 Sanskrit's engineering begins with a civilization already capable of the act.
 
 ---
@@ -84,14 +78,8 @@ The reader who has attended an Indian wedding has heard *mantras* in their Sansk
 
 Sanskrit continues to work. It still labels, blesses, measures, and composes. It remains audible in homes, temples, classrooms, weddings, yoga halls, space missions, and ordinary names. The light remains.
 
-<!-- AISWEEP-OLD
-Sanskrit's other name carries this radiance. Sanskrit is ***devabhāṣā*** (देवभाषा) — the language of the *devas*, the radiant ones. The phrase captures what the language did. It carried light outward.
-AISWEEP-END -->
 Sanskrit's other name is ***devabhāṣā*** (देवभाषा) — the language of the *devas*, the radiant ones. The phrase captures what the language did. It carried light outward.
 
-<!-- AISWEEP-OLD
-Sanskrit also trains the ear to hear a name as an attribute. A name can reveal relation, action, quality, lineage, or function. Yāska's formula **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)** later gives the principle its technical form: names arise from actions.[NOTE: sanskrit-names-as-attributes] At this stage, the seed is enough: Sanskrit labels the world and discloses structure.
-AISWEEP-END -->
 Sanskrit also trains the ear to hear a name as an attribute, one that can carry relation, action, quality, lineage, or function. Yāska's formula **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)** later gives the principle its technical form: names arise from actions.[NOTE: sanskrit-names-as-attributes] Sanskrit labels the world and discloses its structure in the same stroke.
 
 ---
@@ -106,10 +94,7 @@ Sanskrit alone occupies the *saṃskṛta* side.
 
 The civilization that built Sanskrit maintained a two-bucket system. The *prākṛtika* प्राकृतिक bucket holds what naturally arises and changes. The *sāṃskṛtika* सांस्कृतिक bucket holds what is consciously formed and preserved. Each bucket carries dignity through purpose. Everyday speech may change because living speech must answer living circumstance. A *Vedic mantra* must remain exact because its purpose is exact transmission.
 
-<!-- AISWEEP-OLD
-The distinction opens the first doorway into Sanskrit's engineering. The *prākṛta* side flows. The *saṃskṛta* side holds.
-AISWEEP-END -->
-This is the first doorway into Sanskrit's engineering: the *prākṛta* side flows, the *saṃskṛta* side holds.
+This is the first doorway into Sanskrit's engineering: the *prākṛta* flows, the *saṃskṛta* holds.
 
 ---
 
@@ -131,9 +116,6 @@ Ten symbols — *0* through *9* — span all of arithmetic. Position carries val
 
 The world counts in this system today. The numerals the world uses are called *Hindu-Arabic numerals* in standard reference works, and the *Arabic* part of the name acknowledges that the system reached Europe through Arabic-speaking intermediaries; the *Hindu* part acknowledges where it came from. The Arabic mathematical discipline received the system from the Indic mathematical discipline, refined and transmitted it, and passed it westward to Europe across the medieval period.[NOTE: place-value-arabic-transmission] The Indic origin is documented and uncontested in the history of mathematics, even where the engineering accomplishment is often domesticated as *a discovery* rather than recognized as engineering.
 
-<!-- AISWEEP-OLD
-Sanskrit shows the same intellectual pattern in language. A finite sound-field, finite semantic atoms, prefixes, and suffixes generate words without apparent end. Finite symbols, infinite reach. Ten digits span all of arithmetic; the *dhātupāṭha* spans vocabulary. The same seeker culture, working in two domains, built systems where small inventories open into unbounded space.
-AISWEEP-END -->
 A finite sound-field, finite semantic atoms, prefixes, and suffixes generate words without apparent end — language running the same intellectual pattern. Finite symbols, infinite reach. Ten digits span all of arithmetic; the *dhātupāṭha* spans vocabulary. The same seeker culture, working in two domains, built systems where small inventories open into unbounded space.
 
 ---
@@ -154,18 +136,12 @@ The recitations are happening right now, in *gurukulas* गुरुकुल, t
 
 The Hindu civilization holds the language. Hindus inherit Sanskrit as caretakers. The old rule says: *dharmo rakṣati rakṣitaḥ* — dharma protects when protected.[NOTE: dharmo-rakshati-rakshitah] Sanskrit asks the same kind of protection. It has survived because teachers, students, mothers, reciters, grammarians, poets, priests, scholars, and ordinary households protected it.
 
-<!-- AISWEEP-OLD
-Protection now becomes active. If Sanskrit is the calibrant, then returning to Sanskrit is civilizational work. The reader who learns to hear it, speak it, teach it, defend its categories, or refuse the pyramid's substitutions has entered the same chain of caretaking. The work begins as listening. It becomes protection.
-AISWEEP-END -->
 If Sanskrit is the calibrant, then returning to Sanskrit is civilizational work, and protection now turns active. The reader who learns to hear it, speak it, teach it, defend its categories, or refuse the pyramid's substitutions has entered the same chain of caretaking. The work begins as listening. It becomes protection.
 
 ---
 
 ## 0.8 The Fractal Test
 
-<!-- AISWEEP-OLD
-Sanskrit's engineering, architecture, and civilizational transmission can be followed without prior Sanskrit study. Readers who have studied the language may recognize many features ahead, now placed in a category very different from the one they have been exposed to. Familiar material may look different when the context changes, and it may reveal more when the category changes.
-AISWEEP-END -->
 Sanskrit's engineering, architecture, and civilizational transmission can be followed without prior Sanskrit study. Readers who have studied the language will recognize many of the features ahead, now placed in a category very different from the one they were handed — and familiar material reveals more once the category around it changes.
 
 The claim is architectural: Sanskrit is the calibrant, and its architecture is fractal. Here, *fractal* means the same organizing law recurring across scale. The proof proceeds from the ground up: mouth, sound-field, sonomeric grid, semantic atom, verbal molecule, sentence assembly, *sūtra*, and calibration matrix. Each level keeps the lower level visible. The recurrence across scale is the pattern the proof will test.

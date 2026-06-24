@@ -346,15 +346,15 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **heroic erasure**
 
-**Book-coined English.** The pyramid's move of praising a named figure within Sanātan or a named discipline for some surface contribution — so-called codification, documentation, transmission, adaptation — while structurally denying the engineering thesis. The praise is the mechanism of the erasure. Chapter 1 introduces the pattern; Chapter 2 §2.6 applies it to Pāṇini and the codification story; Chapters 13 and 14 redeploy it in the preservation and calibration argument.
+**Book-coined English.** The pyramid's tactic of praising a named figure within Sanātan or a named discipline for some surface contribution — so-called codification, documentation, transmission, adaptation — while structurally denying the engineering thesis. The praise is the mechanism of the erasure. Chapter 1 introduces the pattern; Chapter 2 §2.6 applies it to Pāṇini and the codification story; Chapters 13 and 14 redeploy it in the preservation and calibration argument.
 
 ### **category theft**
 
-**Book-coined English.** The move that removes Sanskrit from its own category, *saṃskṛti*, and forces it to answer as something else: *prakṛti* before Pāṇini, codification after Pāṇini.
+**Book-coined English.** The tactic that removes Sanskrit from its own category, *saṃskṛti*, and forces it to answer as something else: *prakṛti* before Pāṇini, codification after Pāṇini.
 
 ### **chronology capture**
 
-**Book-coined English.** The move that turns beginningless architecture into a dated object to be sequenced, ranked, delayed, interpolated, borrowed, or subordinated. Chapter 1 introduces why chronology obsession serves the apex.
+**Book-coined English.** The tactic that turns beginningless architecture into a dated object to be sequenced, ranked, delayed, interpolated, borrowed, or subordinated. Chapter 1 introduces why chronology obsession serves the apex.
 
 ### **codification recoding**
 
@@ -362,7 +362,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **memory recoded as mythology**
 
-**Book-coined English.** The move that turns a civilization's preserved memory-forms into "mythology" while asking the same civilization to treat the pyramid's constructed ancestor as science.
+**Book-coined English.** The tactic that turns a civilization's preserved memory-forms into "mythology" while asking the same civilization to treat the pyramid's constructed ancestor as science.
 
 ### **Pratibimba** (प्रतिबिम्ब)
 

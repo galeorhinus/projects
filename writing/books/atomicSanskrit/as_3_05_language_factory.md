@@ -4,14 +4,11 @@
 
 ---
 
-<!-- AISWEEP-OLD
-This appendix runs a construction test.
-AISWEEP-END -->
 A construction settles the question. Build a working language out of someone else's phonemes, on Sanskrit's grammatical engine — and watch whether the engine still runs.
 
-Sanskrit is not only a word factory. It is a language factory. If the architecture is truly an engine, it should be detachable from Sanskrit's own sonomeric inventory, applied to a different phonemic substrate, and made to generate a working language.
+Sanskrit is more than a word factory; it is a language factory. The architecture is robust enough to be detached from Sanskrit's own sonomeric inventory and applied to a foreign set of phonemes, generating a language that sounds completely different but remains fully operational.
 
-The substrate here is Japanese. The engine is Sanskrit.
+The phonemes used here are Japanese. The engine is Sanskrit.
 
 ## 5.1 Yenpro and the Mean Baker
 
@@ -27,28 +24,19 @@ The baker is Schleicher. The joke is deliberate. As of this writing, Yenpro has 
 
 ***Yenpro*** is the language's name for itself. In Sanskrit, the same word is ***yantrī*** (यन्त्री) — *the engine*, feminine, the gender most languages take in their own naming. Yenpro was made using Sanskrit's language engine: the **धातुपाठ (*dhātupāṭha*)**, the **प्रत्यय (*pratyaya*)** and **विभक्ति (*vibhakti*)** systems, the **सन्धि (*sandhi*)** rules, the declension and conjugation paradigms — all of it operating on a Japanese-substrate phoneme inventory through a fixed cipher. The surface phonemes are Japanese-set. The architecture is Sanskritic.
 
-The contrast is the appendix's argument. Yenpro has three sentences, three **धातु (*dhātu*)**s, a name, and a future: ten thousand more sentences could be produced by next Tuesday. Schleicher's PIE, after a hundred and fifty years of philological labor, has the one fable he wrote down — *Avis akvāsas ka* — and a constellation of starred forms that look like grammar from the outside and generate nothing from the inside. One had the engine. The other did not.
+The contrast is the argument. Yenpro has three sentences, three **धातु (*dhātu*)**s, a name, and a future: ten thousand more sentences could be produced by next Tuesday. Schleicher's PIE, after a hundred and fifty years of philological labor, has the one fable he wrote down — *Avis akvāsas ka* — and a constellation of starred forms that look like grammar from the outside and generate nothing from the inside. One had the engine. The other did not.
 
 ## 5.2 From Word Factory to Language Factory
 
 Chapters 10 through 12 documented Sanskrit's engine as a word factory. Roughly two thousand *dhātus*, twenty-two **उपसर्ग (*upasarga*)**s, an extensive system of *pratyayas*. The combinatorics produce a practically unbounded word-space from a finite atomic inventory. India's space agency generates *Chandrayāna*, *Mangalyāna*, *Gaganyāna* on demand from the engine the language has always made available.
 
-<!-- AISWEEP-OLD
-The word-factory claim understates what the architecture actually does. The architecture is more general than word generation. It is a transferable meta-system. Given a different phonemic substrate, it can be applied to construct a different language entirely. Sanskrit is not only a word factory. It is a *language* factory.
-AISWEEP-END -->
 The architecture is more general than word generation — and the word-factory claim understates it. It is a transferable meta-system. Given a different phonemic substrate, it can be applied to construct a different language entirely. Sanskrit is not only a word factory. It is a *language* factory.
 
-<!-- AISWEEP-OLD
-The stronger claim is testable. Take the engine, separate it from Sanskrit's own phonemes, apply it to phonemes drawn from somewhere else. If the architecture is genuinely a meta-system, it should work. If it is bound to Sanskrit's specific phonemes, it should fail.
-AISWEEP-END -->
 The stronger claim can be put to the test: take the engine, separate it from Sanskrit's own phonemes, apply it to phonemes drawn from somewhere else. If the architecture is genuinely a meta-system, it should work. If it is bound to Sanskrit's specific phonemes, it should fail.
 
-Appendix Part 5 runs the test. The substrate is Japanese. The output uses Japanese-set phonemes but operates entirely on Sanskrit's grammatical framework.
+The test is run here. The substrate is Japanese. The output uses Japanese-set phonemes but operates entirely on Sanskrit's grammatical framework.
 
-<!-- AISWEEP-OLD
-The construction also doubles as polemical riposte. Appendix Part 1 prosecuted the bake demanded by the *foundational dogma* — Schleicher's manufacture of PIE without a working recipe. Appendix Part 5 demonstrates what working *with* a working recipe actually looks like.
-AISWEEP-END -->
-Appendix Part 1 prosecuted the bake demanded by the *foundational dogma* — Schleicher's manufacture of PIE without a working recipe. Appendix Part 5 demonstrates what working *with* a working recipe actually looks like. The construction is also a riposte.
+Appendix Part 1 prosecuted the bake demanded by the *foundational dogma* — Schleicher's manufacture of PIE without a working recipe. The demonstration here shows what working *with* a working recipe actually looks like. The construction is also a riposte.
 
 ## 5.3 The Procedure
 
@@ -75,9 +63,6 @@ Japanese was chosen for three reasons.
 
 **Third, audience.** The argument that Sanskrit's architecture is a universal meta-system is more compelling when demonstrated on a substrate whose speakers have a developed literary tradition of their own.
 
-<!-- AISWEEP-OLD
-The substrate brings restrictions. Japanese makes no aspirated-unaspirated distinction in stops (Sanskrit's *pa* / *pha* / *ba* / *bha* collapses to Japanese *p* / *b*). Japanese has no retroflex stops (Sanskrit's *ṭa* / *ṭha* / *ḍa* / *ḍha* collapses to dental *ta* / *da*). Japanese has no /l/ (Sanskrit *la* maps to Japanese *ra*). Japanese has no /v/ (Sanskrit *va* maps to *wa*). Japanese syllable structure is highly restricted (CV with optional moraic /N/; no clusters). The cipher absorbs these collapses without losing the engine's productivity.
-AISWEEP-END -->
 Japanese makes no aspirated-unaspirated distinction in stops (Sanskrit's *pa* / *pha* / *ba* / *bha* collapses to Japanese *p* / *b*). It has no retroflex stops (Sanskrit's *ṭa* / *ṭha* / *ḍa* / *ḍha* collapses to dental *ta* / *da*). No /l/ (Sanskrit *la* maps to Japanese *ra*). No /v/ (Sanskrit *va* maps to *wa*). A highly restricted syllable structure (CV with optional moraic /N/; no clusters). The substrate brings these restrictions, and the cipher absorbs the collapses without losing the engine's productivity.
 
 The first demonstration uses a base cipher that preserves Sanskrit structure even when the output violates Japanese phonotactics. §5.9 adds a stricter phonotactic-adjustment layer.
@@ -142,11 +127,6 @@ Phonemes from the Japanese-substrate inventory. Grammar entirely from Sanskrit's
 
 ## 5.6 The Generative Reach
 
-<!-- AISWEEP-OLD
-The demonstration does not stop at three sentences.
-
-Once √पच् becomes the constructed root behind *kesepo*, the full Sanskrit verbal system operates on it. Each form passes through the cipher mechanically:
-AISWEEP-END -->
 Three sentences are only the floor. Once √पच् becomes the constructed root behind *kesepo*, the full Sanskrit verbal system operates on it. Each form passes through the cipher mechanically:
 
 | Sanskrit | Form | After cipher | Devanagari |
@@ -170,7 +150,7 @@ This is what a language factory does.
 
 Three things.
 
-**First, Sanskrit's architecture is procedure, not corpus.** The *dhātus* are not bound to their phonemes; the rules are not bound to their specific phonological inputs. The architecture is procedure. Any phonemic substrate that can carry the procedure's structural moves can carry Sanskrit's engine. Pāṇini documents the procedure; the phonemes are what Sanskrit happens to use.
+**First, Sanskrit's architecture is procedure, not corpus.** The *dhātus* are not bound to their phonemes; the rules are not bound to their specific phonological inputs. The architecture is procedure. Any phonemic substrate that can carry the procedure's structural operations can carry Sanskrit's engine. Pāṇini documents the procedure; the phonemes are what Sanskrit happens to use.
 
 **Second, engineering is transferable.** Arithmetic transfers from counting apples to counting electrons. Musical notation transfers from European harmony to Indian *rāga*. Sanskrit's framework transfers from Sanskrit phonemes to Japanese phonemes. *Transferability is the signature of engineering.*
 

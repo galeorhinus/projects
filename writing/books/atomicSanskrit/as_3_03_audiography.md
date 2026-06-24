@@ -2,7 +2,7 @@
 
 ---
 
-This appendix traces a sequence the foundational dogma never identified.
+The sequence tracked here is one the foundational dogma never identified.
 
 The sonomer comes first. The audiograph comes second.
 
@@ -12,13 +12,11 @@ The visible unit is the **अक्षर (*akṣara*)** — the imperishable so
 
 **ब्राह्मी (*Brāhmī*)** and **देवनागरी (*Devanāgarī*)** did not create the architecture. They rendered it.
 
-Chapter 9 §9.6 introduced the *akṣara* as the audiograph. Chapter 13 §13.3 exposed the Brāhmī-from-Aramaic claim as heroic erasure at the script level. This appendix develops the prosecution.
+Chapter 9 §9.6 introduced the *akṣara* as the audiograph. Chapter 13 §13.3 exposed the Brāhmī-from-Aramaic claim as heroic erasure at the script level. The prosecution must now be developed.
 
 ## 3.1 Sonomer First, Audiograph Second
 
-<!-- AISWEEP-OLD
-The order is simple.
-AISWEEP-END -->
+
 
 The **sonomer** is the measured sound-particle. It is articulated by place, shaped by effort, timed by **मात्रा (*mātrā*)**, classified inside the **वर्णमाला (*varṇamālā*)**, and made available to grammar.
 
@@ -52,9 +50,9 @@ The two claims operate in parallel. One says Sanskrit descends from Proto-Indo-E
 
 The Indic civilization is allowed to decorate what someone else built. It is not allowed to build.
 
-Aramaic is real and PIE is not. That difference matters, but it does not save the move. PIE has no inscription, no speaker, no community, no text. It is a reconstructed projection. Aramaic is a real historical script with surviving inscriptions and historical communities. The Aramaic case is therefore harder to prosecute than the PIE case. But the operation is the same: foreground the alleged source, push the Indic engineering into the background, and call the result adaptation.
+Aramaic is real and PIE is not. That difference matters, but it does not save the sleight. PIE has no inscription, no speaker, no community, no text. It is a reconstructed projection. Aramaic is a real historical script with surviving inscriptions and historical communities. The Aramaic case is therefore harder to prosecute than the PIE case. But the operation is the same: foreground the alleged source, push the Indic engineering into the background, and call the result adaptation.
 
-This appendix prosecutes the ***foundational dogma*** — the doctrinal stratum Chapter 3 §3.2 identifies alongside the *progressive dogma*. The foundational dogma defends a corridor story: engineered writing begins in the Near-Eastern-to-European corridor. Sumerian cuneiform, Egyptian hieroglyphs, Phoenician alphabet, Greek extension, Latin script. The book's main chapters prosecute the progressive dogma that obscures the engineered Sanskrit thesis in the deep past. This appendix prosecutes the foundational dogma that obscures the *varṇamālā*'s engineering outside the privileged corridor.
+The prosecution now targets the ***foundational dogma*** — the doctrinal stratum Chapter 3 §3.2 identifies alongside the *progressive dogma*. The foundational dogma defends a corridor story: engineered writing begins in the Near-Eastern-to-European corridor. Sumerian cuneiform, Egyptian hieroglyphs, Phoenician alphabet, Greek extension, Latin script. The book's main chapters prosecute the progressive dogma that obscures the engineered Sanskrit thesis in the deep past. The prosecution here targets the foundational dogma that obscures the *varṇamālā*'s engineering outside the privileged corridor.
 
 The two dogmas coordinate. The progressive dogma protects the story that later means better. The foundational dogma protects the story that writing begins in the corridor. The engineering of the *varṇamālā* — the sonomer inventory before it is ever written — threatens both.
 
@@ -72,17 +70,12 @@ That is the trick. The pyramid praises an unnamed Indian figure for adapting a b
 
 The unnamed adapter is celebrated for adaptation. He is not celebrated for what he would have to be celebrated for if the architecture were original to India: the isolation of the sonomers, the design of the *varṇamālā*, the mapping of the mouth, the construction of the multi-axis phonetic specification.
 
-This is **heroic erasure**, the move Chapter 13 §13.3 exposed and Chapter 1 §1.6 established as a standing convention. The *church of progress* elevates a secondary operator and erases the engineering the operator was supposedly using. Pāṇini becomes the brilliant codifier; the engineered language disappears. The *Prātiśākhya* authors become careful phoneticians; the engineered sound-system disappears. The imagined Brāhmī adapter becomes brilliant; the *varṇamālā* disappears.
+This is **heroic erasure**, the operation Chapter 13 §13.3 exposed and Chapter 1 §1.6 established as a standing convention. The *church of progress* elevates a secondary operator and erases the engineering the operator was supposedly using. Pāṇini becomes the brilliant codifier; the engineered language disappears. The *Prātiśākhya* authors become careful phoneticians; the engineered sound-system disappears. The imagined Brāhmī adapter becomes brilliant; the *varṇamālā* disappears.
 
 The brilliance the pyramid locates in the adapter is the architecture the adapter was rendering.
 
 ## 3.4 What Aramaic Cannot Carry
 
-<!-- AISWEEP-OLD
-The structural claim can be tested.
-
-Aramaic is a consonantal alphabet. Like its Phoenician parent, it represents consonants.
-AISWEEP-END -->
 Test the structural claim against Aramaic itself. Aramaic is a consonantal alphabet. Like its Phoenician parent, it represents consonants. Its letter order — *alep*, *bet*, *gimel*, *dalet* — carries accumulated scribal habit. It does not carry a mouth-map. It does not order sounds by place of articulation. It does not order sounds by effort. It does not flag the vowel-center of the syllable as an engineered principle. Vowels are supplied by the reader from knowledge of the language.
 
 Aramaic is a writing technology. It is not a phonetic specification.
@@ -105,14 +98,11 @@ Aramaic can carry glyph influence. It cannot carry sonomeric architecture.
 
 ## 3.5 The Aramaic-from-Brāhmī Thesis
 
-<!-- AISWEEP-OLD
-The title is intentionally provocative. It does not replace one lazy chronology with another. It does not claim, without evidence, that Aramaic historically descended from Brāhmī. It reverses the burden of explanation.
-AISWEEP-END -->
 The Aramaic-from-Brāhmī title reverses the burden of explanation — provocative by design. It does not replace one lazy chronology with another. It does not claim, without evidence, that Aramaic historically descended from Brāhmī. For more than a century, the foundational dogma has treated the Brāhmī-from-Aramaic thesis as the sober default: Aramaic came earlier in the imperial archive, some signs appear comparable, and therefore Brāhmī must be explained as an Indian adaptation of a West Asian script. But what happens if the same presumption is inverted? What happens if Aramaic is asked to explain itself before being allowed to explain Brāhmī? What happens if chronology, resemblance, and contact are no longer permitted to masquerade as architecture? The question is not whether some graphic contact occurred. The question is whether Aramaic contains the structural principle required to generate the Indic script-world. That is the actual dispute.
 
-The comparison between Brāhmī and Aramaic on the one hand, and Indian place-value notation and Roman numerals on the other, is a logic test, not a historical analogy. Nobody seriously argues that the Indian place-value system with zero was derived from Roman numerals. That is precisely why the comparison works: it exposes the logical error in a domain where nobody has a stake in protecting it. The two histories are not identical. The mode of explanation is — and moved into the clearer domain, it collapses on contact.
+The comparison between Brāhmī and Aramaic on the one hand, and Indian place-value notation and Roman numerals on the other, is a logic test, not a historical analogy. Nobody seriously argues that the Indian place-value system with zero was derived from Roman numerals. That is precisely why the comparison works: it exposes the logical error in a domain where nobody has a stake in protecting it. The two histories are not identical. The mode of explanation is — and shifted into the clearer domain, it collapses on contact.
 
-The battle, therefore, is not primarily about chronology. Chronology matters, but it does not settle the question being asked. An earlier inscription, earlier glyph, earlier shard, earlier seal, or earlier manuscript can establish priority in time. It cannot, by itself, establish authorship, derivation, or intellectual parentage. A system may borrow, encounter, absorb, modify, or respond to prior materials without receiving its architecture from them. The fallacy lies in moving too quickly from *"this came earlier"* to *"therefore this explains what came later."* Priority is not causation.
+The battle, therefore, is not primarily about chronology. Chronology matters, but it does not settle the question being asked. An earlier inscription, earlier glyph, earlier shard, earlier seal, or earlier manuscript can establish priority in time. It cannot, by itself, establish authorship, derivation, or intellectual parentage. A system may borrow, encounter, absorb, modify, or respond to prior materials without receiving its architecture from them. The fallacy lies in stepping too quickly from *"this came earlier"* to *"therefore this explains what came later."* Priority is not causation.
 
 The same caution applies to resemblance. Resemblance may suggest contact; it does not establish genealogy. A few similar shapes between two scripts may indicate scribal influence, commercial contact, administrative borrowing, or even deliberate adaptation at the graphic level. But graphic resemblance is not structural explanation. A borrowed stroke is not a borrowed system. A transmitted sign is not a transmitted science. Whether a visible form travelled is not the issue. Whether the proposed source contains the governing principle of the later architecture is.
 
@@ -136,11 +126,6 @@ Prior notation is not architecture.
 
 ## 3.6 Stone Preserves the Pyramid
 
-<!-- AISWEEP-OLD
-The chronology objection does less work than the foundational dogma wants.
-
-The secure archaeological record shows Brāhmī in durable public form: royal edicts, stone inscriptions, cave records, coins, seals, potsherds, institutional markings.
-AISWEEP-END -->
 The secure archaeological record shows Brāhmī in durable public form: royal edicts, stone inscriptions, cave records, coins, seals, potsherds, institutional markings — and that record does less work for the foundational dogma than it wants. Aśoka's Mauryan edicts. Samudragupta's **प्रशस्ति (*prashasti*)** carved into the Allahabad pillar. Rudradāman's Junagadh rock inscription. Khāravela's Hāthīgumphā record. Each apex preserves itself. Each apex commanded the resources to make its writing survive.
 
 That is the archive of survival, not the archive of invention.
@@ -214,7 +199,7 @@ Arabic has a powerful preserved sound tradition. Its extraction shows the Semiti
 
 ![Figure A.8 — Korean Extracted: Engineered Script, Existing Sound. Korean isolated from the shared articulatory field: an existing phonology served by the engineered Hangul script.](figures/audiography/korean_extracted_engineered_script.svg){#fig:app3-korean-extracted-engineered-script width=100%}
 
-The four-panel sequence prevents category theft. A shared matrix lets the reader compare like with like. The extractions then show what kind of pattern each system leaves. Sanskrit leaves a grid at the sound layer. Arabic leaves a codified tradition around an inherited phonology. Korean leaves an engineered script fitted to an existing phonology. These are not the same achievement. Treating them as the same achievement is the category confusion this appendix prosecutes.
+The four-panel sequence prevents category theft. A shared matrix lets the reader compare like with like. The extractions then show what kind of pattern each system leaves. Sanskrit leaves a grid at the sound layer. Arabic leaves a codified tradition around an inherited phonology. Korean leaves an engineered script fitted to an existing phonology. These are not the same achievement. Treating them as the same achievement is the category confusion prosecuted here.
 
 Hangul proves the church of progress can recognize audiographic engineering when recognition costs it nothing.
 
@@ -265,7 +250,7 @@ The pyramid's classification — *abugida* for the Indic family, *abugida* again
 
 *Approximate; primarily first-language and significant second-language users; figures rounded. Sources: contemporary linguistic surveys. The table omits minor historic and recently-revived scripts (Sharada, Modi, Grantha, Tirhuta, Meitei Mayek, Sora Sompeng, Wancho, the Philippine Baybayin family, and others); the engineering content is the same.*
 
-The misclassification is not an innocent gap waiting for better data. It is the structural move by which the machinery's typology refuses to acknowledge that one engineering category covers close to a third of the world's writing.
+The misclassification is not an innocent gap waiting for better data. It is the structural operation by which the machinery's typology refuses to acknowledge that one engineering category covers close to a third of the world's writing.
 
 ## 3.9 The Foundational Claim on Writing
 
@@ -283,11 +268,11 @@ That is why the sonomer threatens the pyramid more directly than the audiograph.
 
 A claim by Indian civilization to have engineered its script independently would dislocate the foundational claim. A stronger claim — that India first isolated the sonomers, produced the *varṇamālā*, and then rendered that sonomeric architecture as Brāhmī — does more. It relocates the foundation from writing to sound.
 
-The Brāhmī-from-Aramaic narrative is not random. It defends the foundational civilizational claim Chapter 3 §3.6 establishes. It is the script-level analogue of the Sanskrit-from-PIE narrative. Both do the same asuric work in different media. The book's main chapters dismantle the second. This appendix isolates the first as a parallel target.
+The Brāhmī-from-Aramaic narrative is not random. It defends the foundational civilizational claim Chapter 3 §3.6 establishes. It is the script-level analogue of the Sanskrit-from-PIE narrative. Both do the same asuric work in different media. The main argument dismantles the second. The prosecution now isolates the first as a parallel target.
 
 ## 3.10 The Work Ahead
 
-*Atomic Sanskrit* prosecutes the language-engineering case. The script-engineering case is a new research project — the same operation in a different medium. This appendix does not finish that project. It opens it.
+*Atomic Sanskrit* prosecutes the language-engineering case. The script-engineering case is a new research project — the same operation in a different medium. The prosecution does not finish that project. It opens it.
 
 The project has several tasks.
 

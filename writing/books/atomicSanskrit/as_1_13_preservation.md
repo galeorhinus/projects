@@ -6,7 +6,7 @@ Sanskrit's architecture was built to last. Its visible components now include th
 
 A specification that drifts is no longer a specification. A calibrant calibrated by what it calibrates is no longer a calibrant.
 
-Sanskrit's own vocabulary has a name for the danger: **अपभ्रंशः (*apabhraṃśa*)** — falling away, slippage, the unmaking of an engineered form into fallen-away variants. Chapter 6 §6.2 examined Patañjali's canonical case: **गौः (*gauḥ*)** (the engineered Sanskrit word for *cow*) against the four *apabhraṃśas* the **महाभाष्य (*Mahābhāṣya*)** documents — **गावी (*gāvī*)**, **गोणी (*goṇī*)**, **गोता (*gotā*)**, **गोपोतलिका (*gopotalikā*)**. The source is one. The fallings-away are many. *Apabhraṃśa* is the default trajectory of any linguistic form left to uncalibrated speech.
+Sanskrit's own vocabulary has a name for the danger: **अपभ्रंशः (*apabhraṃśa*)** — falling away, slippage, the unmaking of an engineered form into fallen-away variants. Patañjali provides the canonical case (Chapter 6 §6.2): **गौः (*gauḥ*)** (the engineered Sanskrit word for *cow*) against the four *apabhraṃśas* the **महाभाष्य (*Mahābhāṣya*)** documents — **गावी (*gāvī*)**, **गोणी (*goṇī*)**, **गोता (*gotā*)**, **गोपोतलिका (*gopotalikā*)**. The source is one. The fallings-away are many. *Apabhraṃśa* is the default trajectory of any linguistic form left to uncalibrated speech.
 
 Left alone, language drifts, or *falls away.*
 
@@ -18,10 +18,7 @@ What belongs to ordinary flow, and what must be held? Sanskrit has the distincti
 
 ## 13.2 *Prākṛta*, *Saṃskṛta*, *Sanātan*
 
-<!-- AISWEEP-OLD
 The civilization that engineered Sanskrit organized its world through a functional distinction.
-AISWEEP-END -->
-Some content is meant to flow and some is meant to hold; the civilization that engineered Sanskrit sorted its world along exactly that line.
 
 **प्राकृत (*prākṛta*)** is the natural and changing. It is what arises through ordinary social process: everyday speech, stories, customs, local usages, technologies, memories that adapt as they pass through tellers and listeners. *Prākṛta* is allowed to flow.
 
@@ -31,7 +28,7 @@ The distinction maps directly to **सनातन (*sanātan*)** — the perpet
 
 The Sanskrit grammatical literature calls the two modes directly: **प्राकृतिक (*prākṛtika*)** for the flowing category, **सांस्कृतिक (*sāṃskṛtika*)** for the held-against-drift category. The categories are functional, not hierarchical.
 
-A local story may be *prākṛtika* by purpose. It should meet the listener where the listener lives. A Vedic phonetic form is *sāṃskṛtika* by purpose. It must be the same in this generation as in the next. Change in the first case may be renewal. Change in the second is degradation.
+A local story is *prākṛtika* by purpose, meeting the listener where the listener lives, where change acts as renewal. A Vedic phonetic form is *sāṃskṛtika* by purpose, demanding identical transmission across generations, where change is degradation.
 
 The question is therefore not how a civilization preserves everything, but something narrower:
 
@@ -63,10 +60,7 @@ That refusal also exposes the foundational dogma's script obsession. The **Weste
 
 That is the category error.
 
-<!-- AISWEEP-OLD
-The archaeological record deepens the error. What survives from writing cultures is overwhelmingly pyramid media: royal edicts, stone inscriptions, cave donations, coins, seals, potsherds, institutional markings, public assertions of authority.
-AISWEEP-END -->
-What survives from writing cultures is overwhelmingly pyramid media — royal edicts, stone inscriptions, cave donations, coins, seals, potsherds, institutional markings, public assertions of authority — and the archaeological record deepens the error accordingly. These are not neutral witnesses to the birth of writing. They are the durable debris of power. They show what the apex chose to carve, stamp, issue, and preserve. He does not leave an equally durable record of distributed writing on perishable media.
+What survives from writing cultures is overwhelmingly pyramid media — royal edicts, stone inscriptions, cave donations, coins, seals, potsherds, institutional markings, public assertions of authority — and the archaeological record deepens the error accordingly. These are not neutral witnesses to the birth of writing. They are the durable debris of power. They show what the apex chose to carve, stamp, issue, and preserve. The apex does not leave an equally durable record of distributed writing on perishable media.
 
 A non-pyramidal or distributed use of writing would leave a thinner record. If Brāhmī or a precursor was used for notes, accounts, teaching aids, correspondence, working drafts, or mnemonic prompts, the medium would have been perishable. Palm leaf, birch bark, cloth, wood, and temporary writing surfaces do not survive Indian climate and history the way stone survives. The absence of such material is not evidence of absence. It is the predictable silence of perishable media.
 
@@ -74,7 +68,7 @@ The category error is therefore doubled. The pyramid's account dates the survivi
 
 The ***foundational dogma***'s softer version is more revealing: Brāhmī was adapted brilliantly from a Western source by an unnamed Indic genius. The praise sounds generous. It performs erasure. The brilliance is assigned to the adapter of an interface; the engineering of the sound-system disappears. Appendix Part 3, *The Sonomer and the Audiograph*, develops the argument in full and coins ***audiography*** for the engineered visual capture of articulated sound the script implements. Calling Brāhmī an *abugida* — or filing it under any other surface category of script — is like calling the decimal place-value system "numeral notation." It catalogs the visible symbols and misses the architecture that lets a handful of them generate everything. The glyphs are secondary; the *varṇamālā* is the grid that *audiography* renders into script.
 
-This is the **heroic erasure** move Chapter 1 §1.6 introduced, applied at the script level. The pattern generalizes. *Heroic erasure* is the asuric machinery's standing move against the **engineering thesis**. Every move has the same shape. A named Indic figure or lineage is celebrated for some surface or secondary contribution — so-called *codification*, documentation, transmission, adaptation — and the celebration is structured *not* to acknowledge that the architecture the figure was operating within is itself engineered. The machinery elevates Pāṇini as the *brilliant grammarian* and erases the *varṇamālā* and *dhātupāṭha* he was operating within. It praises the **प्रातिशाख्य (*Prātiśākhya*)** authors as careful phoneticians and erases the engineered phonology they were documenting. It praises the **शिक्षा (*Śikṣā*)** discipline as devoted teachers and erases the engineered specification they were transmitting. Here, it elevates the *brilliant adapter* of Aramaic and erases the *varṇamālā* the script renders. Naming a brilliant Indian *operator* is how the pyramid denies that there were Indian *architects*. The *"brilliant adapter"* of Aramaic is the *"clever improver"* of Roman numerals — a figure no historian of mathematics has ever needed. Appendix Part 3 §3.5 reverses the burden in full.
+This is the **heroic erasure** move (Chapter 1 §1.6) applied at the script level. The pattern generalizes. *Heroic erasure* is the asuric machinery's standing move against the **engineering thesis**. Every move has the same shape. A named Indic figure or lineage is celebrated for some surface or secondary contribution — so-called *codification*, documentation, transmission, adaptation — and the celebration is structured *not* to acknowledge that the architecture the figure was operating within is itself engineered. The machinery elevates Pāṇini as the *brilliant grammarian* and erases the *varṇamālā* and *dhātupāṭha* he was operating within. It praises the **प्रातिशाख्य (*Prātiśākhya*)** authors as careful phoneticians and erases the engineered phonology they were documenting. It praises the **शिक्षा (*Śikṣā*)** discipline as devoted teachers and erases the engineered specification they were transmitting. Here, it elevates the *brilliant adapter* of Aramaic and erases the *varṇamālā* the script renders. Naming a brilliant Indian *operator* is how the pyramid denies that there were Indian *architects*. The *"brilliant adapter"* of Aramaic is the *"clever improver"* of Roman numerals — a figure no historian of mathematics has ever needed. Appendix Part 3 §3.5 reverses the burden in full.
 
 The rebuttal follows the same sequence: Sanskrit's sound-system was engineered, the Vedas carried the engineering, and the later disciplines decoded what the architecture already held.
 
@@ -94,7 +88,7 @@ What is uniquely Indic is not oral tradition. It is **aural engineering**.
 
 The mouth produces. The ear preserves. The engineering is in what the ear catches that the mouth cannot be trusted to remember alone.
 
-The ***progressive dogma*** collapses both into "oral tradition" because both happen without writing. The collapse serves the linear-progress teleology Chapter 2 §2.4 develops: writing is taken to be advanced, oral transmission to be primitive residue. The dogma's framing has the engineering backwards.
+The ***progressive dogma*** collapses both into "oral tradition" because both happen without writing. The collapse serves the linear-progress teleology (Chapter 2 §2.4): writing is taken to be advanced, oral transmission to be primitive residue. The dogma's framing has the engineering backwards.
 
 Writing is easier. It asks one sense to read, one hand to write, one medium to store. Once the glyph exists, the medium carries the burden.
 
@@ -114,7 +108,7 @@ Greek was codified. Latin was codified. Arabic was codified. Hebrew was codified
 
 Codification preserves a standard by authority, not a language by architecture.
 
-Chapter 5 supplied the grammatical principle: bond first, usage second, *śāstra* third. The calibration matrix is that principle scaled to civilization. The standard already stands; the system trains bodies, ears, memory, grammar, and community to hold usage against it.
+The grammatical principle is: bond first, usage second, *śāstra* third (Chapter 5). The calibration matrix is that principle scaled to civilization. The standard already stands; the system trains bodies, ears, memory, grammar, and community to hold usage against it.
 
 Sanskrit has displayed **ध्रौव्यता (*dhrauvyatā*)** — constancy across transmission, resistance to drift, the quality of remaining fixed while ordinary speech moves. That is why it functions as a **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**: the fixed-measure language, the calibrant against which sound, form, memory, grammar, and usage are held.
 
@@ -156,7 +150,7 @@ The student hears **दधाति (*dadhāti*)** inside the line, and the wron
 
 Both readers arrive at the same form. They do not depend on each other. The Veda would correct the error if the *Aṣṭādhyāyī* had never been compiled. The *Aṣṭādhyāyī* corrects the error even where the relevant Vedic line is not at hand. Two independent layers of redundancy hold the same form in place, and two independent layers accommodate two kinds of mind.
 
-Lose the corpus, the sūtra survives. Lose the sūtra, the corpus survives. Lose both, the language degrades. Sanskrit did not choose one path. It carries both.
+If the corpus is lost, the sūtra survives; if the sūtra is lost, the corpus survives. Only the loss of both degrades the language. Sanskrit carries both paths simultaneously.
 
 This is **संस्कृति (*saṃskṛti*)** as preservation system: distributed self-correction without apex command. A pyramid can announce a standard and punish deviation. It cannot, by authority alone, make every participant an instrument of detection. Sanskrit's preservation architecture does that. The threat is not only that the language survived. The threat is that it survived without needing the pyramid.
 

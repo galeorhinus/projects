@@ -38,7 +38,7 @@ The seeker approaches the unbounded through zero: humility before what exceeds t
 
 The architecture is apex, oppression, and finitism. The elite at the top of the asuric pyramid, threatened by the boundless nature of reality and the absolute freedom of the seeker, force their own measured ignorance onto the universe and then call that measurement truth.
 
-The most celebrated models of modern cosmology, such as the Big Bang, train the modern mind into both temporal and spatial finitism. They represent the opposite of **पूर्णमदः (*pūrṇam adaḥ*)** — the infinite whole. We are told, for instance, that the observable universe spans some 93 billion light-years across. To the mortal ear, the number sounds unfathomably large. Yet ask any student of basic mathematics: what fraction is 93 — or 93 billion, or 93 quadrillion — of infinity?
+The most celebrated models of modern cosmology, such as the Big Bang, train the modern mind into both temporal and spatial finitism. They represent the opposite of **पूर्णमदः (*pūrṇam adaḥ*)** — the infinite whole. Modern cosmology declares, for instance, that the observable universe spans some 93 billion light-years across. To the mortal ear, the number sounds unfathomably large. Yet ask any student of basic mathematics: what fraction is 93 — or 93 billion, or 93 quadrillion — of infinity?
 
 The answer is always zero.
 
@@ -46,10 +46,7 @@ The finite is all they have seen. The finite is all they can model. The finite t
 
 Genesis gives the same operation in scriptural key: one birth, one life, one death, one Heaven, one Hell. A single beginning, a single command, a single authorized account of origin, and a single final judgment at the end of the line. The pyramid needs that first point. Once the beginning is owned, the sequence can be owned. Once the sequence is owned, the field can be judged from outside itself. In philology, PIE performs the same work. In chronology, the date performs the same work. Control the first point, and the rest can be made to follow.
 
-<!-- AISWEEP-OLD
-The problem is not the views, knowledge, or ignorance of ordinary people inside the pyramid. The issue is the forceful, top-down imposition of finite ignorance by authorities. Ordinary confusion can be corrected; imposed ignorance hardens into rule. The apex takes reductive ideas, dresses them in grand terminology, and cements them as unquestionable dogma. The result is not knowledge. It is obedience.
-AISWEEP-END -->
-The damage lies in the forceful, top-down imposition of finite ignorance by authorities, not in the confusion of ordinary people inside the pyramid. Ordinary confusion can be corrected; imposed ignorance hardens into rule. The apex takes reductive ideas, dresses them in grand terminology, and cements them as unquestionable dogma. The result is not knowledge. It is obedience.
+The forceful, top-down imposition of finite ignorance by authorities is the damage; the confusion of ordinary people is merely a symptom. Ordinary confusion can be corrected; imposed ignorance hardens into rule. The apex takes reductive ideas, dresses them in grand terminology, and cements them as unquestionable dogma. The result is not knowledge. It is obedience.
 
 At the top of that geometry sits the apex-claimant. The boundless defeats his ownership. Distributed order lies beyond his command. Sanskrit threatens him because Sanskrit preserves order without needing him. The one exposed by light becomes an enemy of light. That is the Svarbhānu pattern: exposure does not humble the apex; it hardens him into retaliation.
 
@@ -61,18 +58,12 @@ The pyramid is a created fractal of deformation: **विकृति (*vikṛti
 
 The shape repeats across domains. In religion, it becomes one book, one prophet, one church, one priesthood, one permitted salvation. In empire, it becomes one crown, one law, one census, one tax, one map, one extracted people. In scholarship, it becomes one method, one peer circle, one credentialing ladder, one permitted origin story. In language, it becomes one ancestor, one chronology, one authorized grammar-story, one verdict on what the civilization is allowed to remember.
 
-The pyramid therefore loves finitism. A finite universe can be narrated from a first point. A finite timeline can be owned by whoever controls the origin story. A finite canon can be guarded by whoever controls the gate. A finite people can be counted, ranked, administered, converted, educated, and corrected. The apex wants a world with edges because edges make possession easier — and because the boundless, which he can neither bound nor rule, frightens him.
+The pyramid demands finitism. A finite universe can be narrated from a first point. A finite timeline can be owned by whoever controls the origin story. A finite canon can be guarded by whoever controls the gate. A finite people can be counted, ranked, administered, converted, educated, and corrected. The apex wants a world with edges because edges make possession easier — and because the boundless, which he can neither bound nor rule, frightens him.
 
 Sanskrit resists that shape. Its order descends through the distributed field rather than from a human apex. The standard is distributed through sound, measure, recitation, grammar, semantic atoms, lineage, and disciplined use. A wrong sound can be caught by the mouth. A wrong measure can be caught by meter. A wrong form can be caught by grammar. A wrong derivation can be caught by the *dhātuḥ*. A wrong recitation can be caught by the *pāṭha*. Sanskrit places correction inside the architecture.
 
-<!-- AISWEEP-OLD
-That is the strategic threat. Natural drift can be surveyed and ruled. Codification can be captured by authority. Calibration is harder to conquer because the standard lives in the system itself. The pyramid can lord over drift and sanctify codification. Calibration therefore has to be hidden as a category.
-AISWEEP-END -->
-Calibration is what the pyramid cannot conquer, because the standard lives in the system itself. Natural drift can be surveyed and ruled. Codification can be captured by authority. The pyramid can lord over drift and sanctify codification. Calibration therefore has to be hidden as a category.
+Calibration is what the pyramid cannot conquer, because the standard lives in the system itself. Natural drift can be surveyed and ruled. Codification can be captured by authority. The pyramid can lord over drift and sanctify codification. Because it cannot conquer calibration, it must hide the category entirely.
 
-<!-- AISWEEP-OLD
-Chronology capture follows from the same fear. The pyramid is threatened by **अनादि (*anādi*)**, that which has no beginning, and **अनन्त (*ananta*)**, that which has no end. Chronology becomes dangerous when it stops tracking sequence and starts assigning category.
-AISWEEP-END -->
 The same fear drives chronology capture. The pyramid is threatened by **अनादि (*anādi*)**, that which has no beginning, and **अनन्त (*ananta*)**, that which has no end. Chronology becomes dangerous when it stops tracking sequence and starts assigning category. Once the pyramid owns the clock, it can call one layer early, another late, one primitive, another developed, one original, another borrowed. It can turn domain into period, mode into stage, architecture into evolution, and calibration into late correction. That is why the *Veda* must be dated, stratified, and sequenced in the pyramid's story: the calibrant has to be forced into a clock before it can be made to descend.
 
 ## 1.3 Svarbhānu's Operation
@@ -81,9 +72,6 @@ In the Vedic mantra, Svarbhānu pierces Sūrya with darkness, and the worlds bec
 
 The asuric pyramid repeats that operation against Sanskrit. It leaves the word visible, the texts printed, the grammarian praised, the dictionaries compiled, and the courses taught. Then it places darkness over the category. The civilization sees Sanskrit but is trained not to recognize what shines.
 
-<!-- AISWEEP-OLD
-Svarbhānu gives the governing recipe. His operation is obscuration. The light remains, but the field goes dark. The worlds are still there, but they become **मुग्ध (*mugdha*)**, bewildered. The same shape governs the attack on Sanskrit.
-AISWEEP-END -->
 Svarbhānu obscures: the light remains, but the field goes dark. The worlds are still there, yet they become **मुग्ध (*mugdha*)**, bewildered. The same shape governs the attack on Sanskrit. The sound remains audible. The texts remain printed. Pāṇini remains praised. The dictionaries remain on the shelf. What is darkened is the category: Sanskrit as **संस्कृति (*saṃskṛti*)**, calibrated architecture.
 
 Sanskrit is made to answer to PIE, codification, power, chronology, and finite origin. The visible language is forced under an invisible ancestor. The living architecture is made dependent on a later grammarian. The distributed standard is translated into authority. The beginningless is forced into the pyramid's clock.
@@ -96,10 +84,7 @@ The transmission architecture preserved this recognition for thousands of years 
 
 The lineage-chain preserved the asura stories as recognition-forms. A story can carry memory, but it can also carry a diagnostic grammar. It can teach a child that Svarbhānu darkened the Sun, teach an elder that darkness can be used as a weapon against light, and teach a civilization that the first symptom of successful asuric attack is field-loss: **अक्षेत्रवित् (*akṣetravit*)**, not knowing the field.
 
-<!-- AISWEEP-OLD
-At institutional scale, the recipes become repeatable moves. The asuric pyramid uses them because each one helps finite control. The operation narrows the field, captures the gate, and trains the civilization to answer inside the pyramid's category.
-AISWEEP-END -->
-At institutional scale, the recipes become repeatable moves. The asuric pyramid runs each one because each one serves finite control — narrowing the field, capturing the gate, training the civilization to answer inside the pyramid's category.
+At institutional scale, the recipes become repeatable operations. The asuric pyramid runs them all for a single purpose: finite control—narrowing the terrain, capturing the gate, training the civilization to answer inside the pyramid's category.
 
 **Install the apex-one.** The hunger of the apex becomes the demand that every plural field answer to one gate. One origin. One doctrine. One permitted chronology. One authorized method. One human office that decides what counts as knowledge.
 
@@ -121,13 +106,10 @@ The attack on Sanskrit is a category attack. The pyramid leaves the word *Sanskr
 
 The first move is ancestry theft. PIE is placed above Sanskrit, and Sanskrit is made downstream. The engineered calibrant becomes one branch among many. The real language must answer to an imaginary ancestor; the preserved system must answer to a reconstructed source; the visible architecture must answer to a starred form no known community ever spoke. Sūrya remains visible, but the sky has been darkened.
 
-The public move is language capture. Words such as *root*, *branch*, *daughter*, *migration*, *reconstruction*, *codification*, *"mythology"*, *cosmopolis*, *elite*, *early*, *late*, *primitive*, and *interpolation* carry the containment into ordinary speech. A reader can absorb the verdict before seeing the evidence because the vocabulary has already assigned the category.
+The public move is language capture. Words such as *root*, *branch*, *daughter*, *migration*, *reconstruction*, *codification*, *"mythology"*, *cosmopolis*, *elite*, *early*, *late*, *primitive*, and *interpolation* carry the concealment into ordinary speech. A reader can absorb the verdict before seeing the evidence because the vocabulary has already assigned the category.
 
-Together, these operations produce category theft. Sanskrit is made to answer inside categories built to hide what Sanskrit is.
+These operations execute category theft. Sanskrit is made to answer inside categories built to hide what Sanskrit is.
 
-<!-- AISWEEP-OLD
-The apex has a grammar. At the summit sits the one who must own the field. He does not share authority with the distributed field. He converts the field into a base and calls his view the whole. Sanskrit threatens him because Sanskrit preserves an order with no apex at all.
-AISWEEP-END -->
 At the summit sits the one who must own the field. He does not share authority with the distributed field. He converts the field into a base and calls his view the whole. Sanskrit threatens him because Sanskrit preserves an order with no apex at all.
 
-With that, the parties are present. The seekers and caretakers stand on one side. The finite order stands on the other. What follows shows how the shadow is cast.
+The parties now stand against each other: the civilization of caretakers against the finite order. The next battle is the shadow itself.

@@ -12,11 +12,11 @@ That story is everywhere because it is useful. It lets the progressive dogma ret
 
 The praise is the trap.
 
-This move already has a name: **heroic erasure**. Praise the named figure. Deny the architecture he documented. Make the documenter so brilliant that the system he documented disappears behind him.
+This sleight already has a name: **heroic erasure**. Praise the named figure. Deny the architecture he documented. Make the documenter so brilliant that the system he documented disappears behind him.
 
 The battle is not with Pāṇini. It is with the present machinery that asks the reader to remember Pāṇini incorrectly: not as decoder of an operating architecture, but as the codifier who brought order into being.
 
-This appendix answers the codification story directly.
+The documentation here answers the codification story directly.
 
 The question is not whether Pāṇini was brilliant. He was. The question is whether his brilliance consisted in imposing order on a drifting language, or in decoding an engineered system already operating in the Vedic corpus, the recitation lineages, the *Prātiśākhya* disciplines, the *Nirukta* discipline, and the pre-Pāṇinian grammatical line.
 
@@ -64,9 +64,6 @@ Vedic-internal variation is not proof of decay. Vedic-to-*bhāṣā* difference 
 
 ## 8.3 The Circular Method
 
-<!-- AISWEEP-OLD
-The drift story also hides a methodological circle.
-AISWEEP-END -->
 The machinery dates Sanskrit by the very features it then calls evidence of drift — a closed loop.
 
 The machinery assigns relative dates to Sanskrit texts partly through linguistic features. A text with more "archaic" features is earlier. A text with fewer "archaic" features is later. The sequence is then used to prove the language changed from archaic to later. The conclusion is folded into the method that produced the sequence.[NOTE: vedic-classical-circular-dating]
@@ -146,7 +143,7 @@ That is category error. Worse, it is category theft. It takes Sanskrit's own ope
 
 Pāṇini does not move Sanskrit from *vaidika* to *laukika*. A person cannot move a language from one domain into another because domains are not periods. He does not move Sanskrit from *chandas* to *bhāṣā*. A person cannot move a language from one mode into another because modes are not stages. He witnesses both. He documents both. He assigns rules to both.
 
-The Pāṇini-as-rupture move is heroic erasure in its sharpest form: praise the decoder, then weaponize the praise to make him appear to have created a new chronological stage.
+The Pāṇini-as-rupture tactic is heroic erasure in its sharpest form: praise the decoder, then weaponize the praise to make him appear to have created a new chronological stage.
 
 The architecture says the opposite.
 
@@ -196,9 +193,6 @@ Patañjali gives the order. The pyramid reverses it.
 
 ## 8.9 What Real Drift Looks Like
 
-<!-- AISWEEP-OLD
-Real natural drift has a recognizable empirical signature.
-AISWEEP-END -->
 When a language drifts, it leaves a recognizable wreckage: eroded endings, shifted phonemes, vocabulary the descendants can no longer read.
 
 Latin to Romance shows it. Case endings erode. Phoneme inventories shift. Word-final consonants disappear in one branch and survive in another. Gender systems simplify differently across daughter languages. The parent language becomes unrecoverable to ordinary speakers of the descendants.
@@ -353,9 +347,6 @@ The measurement does not support codification. It supports calibration.
 
 ## 8.12 What the Audit Would Measure
 
-<!-- AISWEEP-OLD
-The calibration audit is not mystical. It is a normal empirical task once the right categories are used.
-AISWEEP-END -->
 Give the calibration audit the right categories and it becomes a normal empirical task — a table with four columns, nothing mystical in it.
 
 The first column would list the witnesses: Vedic Saṃhitā passages by *śākhā*, Brāhmaṇa prose, Āraṇyaka and Upaniṣadic prose, *Prātiśākhya* material, *Śikṣā* material, Yāska's *Nirukta*, early Sūtra prose, and later *bhāṣā* texts. The second column would classify each form by domain and mode: *vaidika* / *laukika*, *chandas* / *bhāṣā*. The third would classify the feature: phonetic, accentual, metrical, morphological, syntactic, lexical, derivational, or recensional. The fourth would ask the decisive question: is the feature unbounded drift, bounded optionality, metrical tooling, recension-specific specification, domain-specific usage, or genuine replacement?
@@ -411,9 +402,6 @@ Again, the architecture is doing what the pyramid cannot imagine. It preserves f
 
 ## 8.14 Mitanni and the External Anchor
 
-<!-- AISWEEP-OLD
-The off-subcontinental evidence intensifies the problem for the codification story.
-AISWEEP-END -->
 Indic technical vocabulary surfaces in a Hittite-Mitanni setting the pyramid cannot place after Pāṇini's supposed codification — and that off-subcontinental witness sharpens the problem.
 
 Chapter 13 and Chapter 18 treat the Mitanni material as part of the broader Wave 1 / *pratibimba* discussion. The point relevant here is narrow. Indic technical vocabulary appears outside the subcontinent in a setting the pyramid cannot place after Pāṇini's supposed codification. The forms do not look like a language waiting to be stabilized. They look like technical transmission from an already functioning system.[NOTE: mitanni-indic-technical-vocabulary]
@@ -450,7 +438,7 @@ The codification story attempts to hide the radiant matrix for the same reason e
 
 **It is evidence that the pyramid is unnecessary.**
 
-This is why the story can praise Sanskrit and still contain it. The praise is part of the containment.
+This is why the story can praise Sanskrit and still conceal it. The praise is part of the concealment.
 
 Heroic erasure works because it is emotionally satisfying. The reader gets a hero. The field gets a chronology. The church of progress gets its teleology. PIE gets its descendant. The asuric machinery gets to avoid the harder conclusion: Sanskrit's order was not manufactured by the named grammarian it praises. The named grammarian decoded an order the machinery still refuses to see.
 

@@ -12,4 +12,4 @@ The writing-label and early-literature reductions have now fallen with the earli
 
 Chapter 16 tests the retroflex row, where the subcontinental sound-field refuses the migration story. Chapter 17 exposes why the standard question is wrong, and how heroic erasure redirected civilizational memory toward codification. Chapter 18 dispels PIE itself: the imaginary ancestor built to make Sanskrit descend.
 
-Once Sanskrit stands visible as calibrated fractal architecture, PIE functions as containment, not explanation — a head with no body.
+Once Sanskrit stands visible as calibrated fractal architecture, PIE functions as enclosure, not explanation — a head with no body.
