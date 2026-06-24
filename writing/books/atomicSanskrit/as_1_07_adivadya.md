@@ -29,7 +29,10 @@ Concision by design leaves recognizable signs: small form, no waste, clear trans
 AISWEEP-END -->
 A small form with no waste, three clean transitions, one syllable doing the work of a whole instrument — and the same shape recurs unchanged across the recitation lineages. **Oṃ is architecture in seed form.**
 
+<!-- AISWEEP-OLD
 The śāstra makes the same compression explicit. The *Māṇḍūkya Upaniṣad* identifies this *akṣara* with "all this": past, present, future, and what stands beyond the three times.[NOTE: om-vocal-tract-macro-gesture] *Sanātan* captures what holds across time, not simple antiquity. Oṃ is the acoustic seed of *Sanātan*: one syllable, one breath, the whole instrument, and the whole time-field.
+AISWEEP-END -->
+The *Māṇḍūkya Upaniṣad* identifies this *akṣara* with "all this": past, present, future, and what stands beyond the three times.[NOTE: om-vocal-tract-macro-gesture] The śāstra is making the same compression explicit. *Sanātan* captures what holds across time, not simple antiquity. Oṃ is the acoustic seed of *Sanātan*: one syllable, one breath, the whole instrument, and the whole time-field.
 
 ## 7.1 आदिवाद्य (*Ādivādya*): The World's First Instrument
 
@@ -37,7 +40,10 @@ The human mouth is the world's first musical instrument.
 
 Every language uses the same physical apparatus. The lungs supply air. The vocal cords turn air into tone. The throat, mouth, and nose shape that tone into speech. English, Arabic, Mandarin, Hawaiian, Xhosa, Vietnamese, and Sanskrit all begin from the same instrument. The selections differ. The instrument is one.
 
+<!-- AISWEEP-OLD
 The Indian classical disciplines say this explicitly. The voice is the original instrument; constructed instruments are partial descendants. A tabla extends the consonant-event: hand striking drumhead, like tongue striking palate. A bansuri extends the vowel: breath through a shaped resonant tube. A sarangi extends the vocal cords and the sympathetic resonance of the nasal cavity. Each instrument approximates one capacity of the voice. The speaker has them all.[NOTE: adi-vadya-voice-as-original-instrument]
+AISWEEP-END -->
+The voice is the original instrument, the Indian classical disciplines say outright; constructed instruments are partial descendants. A tabla extends the consonant-event: hand striking drumhead, like tongue striking palate. A bansuri extends the vowel: breath through a shaped resonant tube. A sarangi extends the vocal cords and the sympathetic resonance of the nasal cavity. Each instrument approximates one capacity of the voice. The speaker has them all.[NOTE: adi-vadya-voice-as-original-instrument]
 
 <!-- AISWEEP-OLD
 The claim has a physical consequence. First comes the instrument. Then comes the Sanskrit vocabulary that maps it.

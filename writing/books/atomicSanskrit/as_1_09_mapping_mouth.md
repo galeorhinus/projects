@@ -147,7 +147,10 @@ English gives an easy comparison. In **pin**, the **p** often carries a small pu
 
 The same is visible in everyday English compounds. Speakers can feel a burst of breath across **backhand**, **blockhead**, **crackhead**, **pighead**, **bighead**, **hitchhike**, **hedgehog**, **pothole**, **foghorn**, **like hell**, **hip-hop**, and **Grubhub**. The body can do it. Sanskrit builds a full grid from it.
 
+<!-- AISWEEP-OLD
 Mahāprāṇa is an engineering move, and it displays the design requirement the whole grid serves: distinguishability. The new contrasts arrive on an independent axis — breath — instead of crowding the place axis. The system keeps five clean stations. The result is more range with less horizontal clutter.
+AISWEEP-END -->
+The new contrasts arrive on an independent axis — breath — instead of crowding the place axis, and that is the design requirement the whole *mahāprāṇa* grid serves: distinguishability. The system keeps five clean stations. The result is more range with less horizontal clutter.
 
 The move also fits Sanskrit's wider culture of breath. *Prāṇa* is trained in recitation, measured in sound, and disciplined in practice. Sanskrit turns breath into grammar without reducing breath to mechanics.[NOTE: mishra-breath-pedagogy]
 
@@ -203,7 +206,10 @@ The figure makes the multiplication visible without making the argument mathemat
 
 ## 9.8 Engineered Margin
 
+<!-- AISWEEP-OLD
 Selection is visible in what Sanskrit includes and in what it leaves out.
+AISWEEP-END -->
+What Sanskrit leaves out shows the selection as plainly as what it keeps.
 
 The subcontinental field contains more than the Sanskrit grid. Tamil preserves an alveolar contact station that sits between dental and retroflex. Sindhi operates implosive consonants. Some central-eastern languages preserve glottal closure or checked consonants. Contact layers bring labio-dental fricatives such as *f*. Other world sound-fields include uvulars, pharyngeals, ejectives, clicks, and lateral fricatives.[NOTE: tamil-alveolar-trill][NOTE: sindhi-implosives-inventory][NOTE: ho-mundari-checked-consonants][NOTE: urdu-persian-arabic-loan-phonemes]
 

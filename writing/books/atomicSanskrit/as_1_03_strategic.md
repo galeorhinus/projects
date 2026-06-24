@@ -16,9 +16,15 @@ Three explanations are available. The first is intellectual lethargy: scholars i
 
 The third explanation is the right one. Lethargy and hegemony helped establish the metaphor, but neither explains its survival. Habit does not account for a hundred and fifty years of institutional defense across generations, political climates, and methodological revolutions. Colonial hegemony alone does not explain why the metaphor remains most secure inside the post-colonial philological ecosystem, which now denounces the colonial assumptions of its founders. Something stronger is holding it in place. The theology changed costume. Biblical chronology retreated; progressive dogma took its place. The institution that carries that dogma is the church of progress, developed in Chapter 4.
 
-The metaphor is a structural firewall. It protects three pillars of Western thought from a system that threatens to expose them. One pillar has receded: the Biblical chronology of human history, the theological pillar. One pillar has changed costume without surrendering its claim: the racial Arya thesis, first staged as invasion and later softened into migration. The third remains intact: the secular dogma of progress, the linear evolutionary teleology that requires civilization to ascend from the "primitive" to the "advanced." In many other domains, the church of progress claims to have rejected race science. In the Indian case, it has hardened the racial frame by translating the old thesis into DNA, migration, steppe ancestry, and population-movement language. The vocabulary changed; the custody claim remained. Sanskrit must still arrive from outside. Chapter 17 separates movement from authorship and returns to this trap.
+<!-- AISWEEP-OLD
+The metaphor is a structural firewall. It protects three pillars of Western thought from a system that threatens to expose them.
+AISWEEP-END -->
+Three pillars of Western thought stand behind the metaphor, and the metaphor is the firewall that protects all three from a system that threatens to expose them. One pillar has receded: the Biblical chronology of human history, the theological pillar. One pillar has changed costume without surrendering its claim: the racial Arya thesis, first staged as invasion and later softened into migration. The third remains intact: the secular dogma of progress, the linear evolutionary teleology that requires civilization to ascend from the "primitive" to the "advanced." In many other domains, the church of progress claims to have rejected race science. In the Indian case, it has hardened the racial frame by translating the old thesis into DNA, migration, steppe ancestry, and population-movement language. The vocabulary changed; the custody claim remained. Sanskrit must still arrive from outside. Chapter 17 separates movement from authorship and returns to this trap.
 
-The defense is pre-emptive. The discipline has not opposed the engineered Sanskrit thesis. Until now, there has been no engineered Sanskrit thesis to oppose. The discipline has instead produced the conditions under which the thesis could not be formed. To formulate it, one must reject the botanical metaphor. To reject the metaphor, one must recover the *dhātuḥ* as a structural constituent rather than a biological root. To recover the *dhātuḥ*, one must take Sanskrit's own self-conception of permanence seriously. Each step is blocked by the step before it. What looks like consensus is not a position defended against challengers. It is a perimeter that prevents the challenge from being assembled.
+<!-- AISWEEP-OLD
+The defense is pre-emptive. The discipline has not opposed the engineered Sanskrit thesis. Until now, there has been no engineered Sanskrit thesis to oppose.
+AISWEEP-END -->
+The discipline has not opposed the engineered Sanskrit thesis; until now, there has been no engineered Sanskrit thesis to oppose. Its defense is pre-emptive. The discipline has instead produced the conditions under which the thesis could not be formed. To formulate it, one must reject the botanical metaphor. To reject the metaphor, one must recover the *dhātuḥ* as a structural constituent rather than a biological root. To recover the *dhātuḥ*, one must take Sanskrit's own self-conception of permanence seriously. Each step is blocked by the step before it. What looks like consensus is not a position defended against challengers. It is a perimeter that prevents the challenge from being assembled.
 
 The seven-move story introduced in Chapter 2 is the *progressive dogma's* account of Sanskrit, including the softened *codification* vocabulary it now permits at the Pāṇini level. The pillars below keep that story standing after their original language became harder to defend. The rest of the book establishes the engineered Sanskrit thesis the perimeter was built to foreclose.
 
@@ -26,9 +32,15 @@ The seven-move story introduced in Chapter 2 is the *progressive dogma's* accoun
 
 The first pillar is racial, and its function is custody. Nineteenth-century European philology developed beside the racial Arya thesis: the claim that a people called *Aryans* carried their language into the subcontinent, where it became Sanskrit. Invasion and migration are mechanisms inside that thesis. The thesis itself is older and deeper: *ārya* as race, Sanskrit as racial cargo. It was not a marginal hypothesis. It was the organizing assumption beneath the comparative enterprise. To make it work, Sanskrit had to be portable. It had to be the kind of thing migrants could carry.
 
-Portability is the custody claim. If Sanskrit is transported cargo, then Sanskrit's greatness is no longer fully the civilization's own. The racial Arya thesis lets the pyramid say, in effect: Sanskrit is magnificent, but it is not entirely yours. The custody claim is the apex's reflex: he must own what he cannot make, and Sanskrit he did not make. That is why the thesis survives after invasion becomes migration and migration becomes softer language. The mechanism changes; the custody claim remains.
+<!-- AISWEEP-OLD
+Portability is the custody claim. If Sanskrit is transported cargo, then Sanskrit's greatness is no longer fully the civilization's own.
+AISWEEP-END -->
+If Sanskrit is transported cargo, then Sanskrit's greatness is no longer fully the civilization's own — portability is the custody claim. The racial Arya thesis lets the pyramid say, in effect: Sanskrit is magnificent, but it is not entirely yours. The custody claim is the apex's reflex: he must own what he cannot make, and Sanskrit he did not make. That is why the thesis survives after invasion becomes migration and migration becomes softer language. The mechanism changes; the custody claim remains.
 
-The botanical metaphor supplies that portability without argument. Branches move. A branch can be cut from one tree, carried elsewhere, and replanted in foreign soil. Sanskrit as a branch of a larger Indo-European tree can travel with migrating peoples. The metaphor keeps Sanskrit mobile.
+<!-- AISWEEP-OLD
+The botanical metaphor supplies that portability without argument. Branches move. A branch can be cut from one tree, carried elsewhere, and replanted in foreign soil.
+AISWEEP-END -->
+Branches move: a branch can be cut from one tree, carried elsewhere, and replanted in foreign soil — and the botanical metaphor supplies that portability without argument. Sanskrit as a branch of a larger Indo-European tree can travel with migrating peoples. The metaphor keeps Sanskrit mobile.
 
 The engineered Sanskrit thesis denies that mobility at the level of mechanism. An engineered system implies the conditions of its engineering: a settled civilization with the intellectual, institutional, demographic, and pedagogical depth required to construct and preserve a precision-built linguistic architecture across thousands of years. Engineered systems are not carried as wandering branches. They are produced where the conditions for their production exist. Sanskrit as engineered architecture anchors the language. Sanskrit as mobile branch serves the racial Arya thesis. The two accounts cannot both be true.
 
@@ -53,7 +65,10 @@ The second pillar is theological, and its function is enclosure. European schola
 
 A precision-engineered Sanskrit does not fit. A language architecture that implies deep civilizational continuity, multi-generational craft, an exact phonetic grid, an inventory of structural constituents, and recension-specific preservation rules does not slot neatly into a recent dispersion. It bypasses Babel entirely. It exposes the chronological framework not merely as a religious claim, but as a parochial structure the post-religious philological ecosystem never fully replaced.
 
-The botanical metaphor solved the problem. Sanskrit as a daughter branch of a recent ancestral language could be forced back inside the inherited envelope. It could be made late, derivative, and genealogically managed. It could be treated as one development from an Indo-European parent rather than as an architecture whose existence implies depths the framework cannot accommodate.
+<!-- AISWEEP-OLD
+The botanical metaphor solved the problem. Sanskrit as a daughter branch of a recent ancestral language could be forced back inside the inherited envelope.
+AISWEEP-END -->
+Sanskrit as a daughter branch of a recent ancestral language could be forced back inside the inherited envelope, and the botanical metaphor was what made that possible. It could be made late, derivative, and genealogically managed. It could be treated as one development from an Indo-European parent rather than as an architecture whose existence implies depths the framework cannot accommodate.
 
 This pillar has receded in a way the racial pillar has not. The respectable academy no longer dates Sanskrit by a Noachian count. The Biblical envelope has receded, but the metaphor remains because another pillar now carries the load.
 
@@ -99,7 +114,10 @@ The containment protects more than a metaphor. It protects a theory of authority
 
 That is why calibration is more dangerous to the pyramid than drift or codification. Drift can be managed; codification can be owned; calibration makes the apex unnecessary.
 
-The strategy has changed with circumstance. When Sanskrit could be treated as dead, the pyramid could afford to drop it. A dead language can be admired, classified, mined, and placed below an imaginary ancestor. But Sanskrit did not die. As Hindu confidence returned and Sanskrit re-entered public assertion, erasure became less useful than co-ownership. The racial Arya thesis then became a second-best strategy: not destroy Sanskrit outright, but keep a share in its origin.
+<!-- AISWEEP-OLD
+The strategy has changed with circumstance. When Sanskrit could be treated as dead, the pyramid could afford to drop it.
+AISWEEP-END -->
+When Sanskrit could be treated as dead, the pyramid could afford to drop it; the strategy has changed with the circumstance. A dead language can be admired, classified, mined, and placed below an imaginary ancestor. But Sanskrit did not die. As Hindu confidence returned and Sanskrit re-entered public assertion, erasure became less useful than co-ownership. The racial Arya thesis then became a second-best strategy: not destroy Sanskrit outright, but keep a share in its origin.
 
 ![Figure 3.1 — The Three Pillars and the Architecture of Containment. Three load-bearing pillars (Racial Arya Thesis; Biblical / Noachian chronology; linear-progress teleology) supporting the botanical metaphor as a single horizontal beam. The theological pillar recedes; the racial pillar is retooled; the progress pillar holds the beam.](figures/strategic/three_pillars_containment.svg){#fig:ch3-three-pillars-containment width=100%}
 

@@ -71,7 +71,10 @@ Before grammar's object is analyzed, grammar's purpose is stated.[NOTE: prayojan
 
 None of the five says: create a language. None says: regularize a drifting speech-form. None says: impose order on disorder. Every purpose presupposes an already existing object. There is a *Veda* to preserve, a correct form to master, a usage whose doubt can be removed. Grammar is a meta-operation on an architecture already in place.
 
+<!-- AISWEEP-OLD
 A smaller observation reinforces the same conclusion. **Pāṇini himself wrote no preface to the *Aṣṭādhyāyī*.**[NOTE: panini-no-preface] The text opens directly with sūtra 1.1.1 — *vṛddhir ādaic* (वृद्धिर् आदैच्) — and runs the roughly four thousand sūtras through to the end without any first-person statement of authorial intent. A text that imposes a new standard normally has to explain its authority. A documenter describing an existing system has no such burden. The document is its own purpose. Patañjali supplies the purpose one commentarial generation later, and that purpose presupposes an existing object.
+AISWEEP-END -->
+**Pāṇini himself wrote no preface to the *Aṣṭādhyāyī*.**[NOTE: panini-no-preface] The same conclusion follows from this smaller fact. The text opens directly with sūtra 1.1.1 — *vṛddhir ādaic* (वृद्धिर् आदैच्) — and runs the roughly four thousand sūtras through to the end without any first-person statement of authorial intent. A text that imposes a new standard normally has to explain its authority. A documenter describing an existing system has no such burden. The document is its own purpose. Patañjali supplies the purpose one commentarial generation later, and that purpose presupposes an existing object.
 
 Then Patañjali places the decisive Vārttika at the opening:
 
@@ -87,7 +90,10 @@ The epigraph preserves the opening clause: **सिद्धे शब्दा�
 
 The full sentence then moves in exact order. First comes the established bond. Then comes **लोकतोऽर्थप्रयुक्ते शब्दप्रयोगे (*lokato 'rthaprayukte śabdaprayoge*)** — word-usage in the world, prompted by meaning. Only after those two premises comes **शास्त्रेण धर्मनियमः (*śāstreṇa dharmaniyamaḥ*)** — regulation by *śāstra* of correct usage. Patañjali gives the order: bond first, usage second, *śāstra* third. *Śāstra* regulates usage. It does not manufacture the bond.
 
+<!-- AISWEEP-OLD
 The Vedic anchor sits one layer beneath this grammar. Bṛhaspati's **वाचमक्रत (*vācam akrata*)** describes Speech as formed by the wise with the mind. Patañjali's *siddha* gives the grammatical consequence: the formed architecture already stands before an individual speaker uses it. Grammar enters after that standing has been recognized.
+AISWEEP-END -->
+Bṛhaspati's **वाचमक्रत (*vācam akrata*)** sits one layer beneath this grammar, describing Speech as formed by the wise with the mind. Patañjali's *siddha* gives the grammatical consequence: the formed architecture already stands before an individual speaker uses it. Grammar enters after that standing has been recognized.
 
 > **Authority vs architecture.** In a codified language, correctness comes from an authority that declares a standard. In Sanskrit, correctness comes from an architecture that already holds. The *śāstra* does not manufacture the standard; it regulates usage against the standard.
 >

@@ -38,7 +38,10 @@ Sanskrit already carries a design specification for compact engineered form. The
 
 Together, these six characteristics produce **सूत्रलाघवम् (*sūtra-lāghavam*)**: engineered brevity. The form is short, but the structure it holds is large. The *sūtra* is compact, clear, meaningful, wide-facing, economical, and stable.
 
+<!-- AISWEEP-OLD
 A *sūtra* is known to be made. No one claims a *sūtra* botanically grew into its precise form. A mind compressed it, removed excess, protected clarity, packed meaning into it, made it usable across contexts, and left it stable enough for the lineage to carry.
+AISWEEP-END -->
+No one claims a *sūtra* botanically grew into its precise form. It is known to be made: a mind compressed it, removed excess, protected clarity, packed meaning into it, made it usable across contexts, and left it stable enough for the lineage to carry.
 
 The same question now descends one scale lower. If the *dhātuḥ* displays the same defining characteristics as the *sūtra*, Sanskrit's architecture is not merely engineered at one level. The same design recurs across scale.
 
@@ -57,11 +60,17 @@ The verse gives the six characteristics in its own order. The tests proceed in e
 
 That sequence begins with construction because the *dhātuḥ* must first be visible as an assembled unit. Only then can the six criteria be tested at the atomic scale.
 
+<!-- AISWEEP-OLD
 The consequence is large. If the *dhātuḥ* passes the test, Sanskrit's basic semantic unit is not a botanical root that grew by drift. It is thoughtfully assembled sonomeric form. The *dhātuḥ* becomes an atomic instance of the same architectural discipline the *sūtra-lakṣaṇam* already recognizes in the *sūtra*.
+AISWEEP-END -->
+If the *dhātuḥ* passes the test, the consequence is large: Sanskrit's basic semantic unit is not a botanical root that grew by drift. It is thoughtfully assembled sonomeric form. The *dhātuḥ* becomes an atomic instance of the same architectural discipline the *sūtra-lakṣaṇam* already recognizes in the *sūtra*.
 
 ## 10.3 From Sonomers to Semantic Atoms
 
+<!-- AISWEEP-OLD
 Selected sonomers are the starting point. The next question is how *varṇāḥ* become the atomic units of Sanskrit's word-engine.
+AISWEEP-END -->
+How do selected sonomers — the *varṇāḥ* already on the page — become the atomic units of Sanskrit's word-engine?
 
 The *varṇamālā* (वर्णमाला) is the sonomeric inventory. A small cluster of these sonomers creates the **धातुः (*dhātuḥ*)**.
 

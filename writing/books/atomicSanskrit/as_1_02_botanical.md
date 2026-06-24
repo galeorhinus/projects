@@ -22,7 +22,10 @@ The threat is the missing third category, and Sanskrit belongs there. Sanskrit i
 
 Through the nineteenth century, the Western philological machinery baked a story about Sanskrit that refused this third category. Bopp's comparative grammar (1810s), Schleicher's family tree (1860s), Müller's pedagogical machinery (1850s–1880s), Brugmann's *Grundriss* (1886). Three generations of European comparativists assembled the ingredients. The recipe still holds. If anything, PIE has become more entrenched: the imagined ancestor remains the controlling premise of authorized Indo-European curricula and reference works today.[NOTE: bakers-story-seven-moves]
 
+<!-- AISWEEP-OLD
 PIE supplies the eclipse-device in technical form: the mechanism that makes the category theft hold. Place an invented ancestor above Sanskrit, and Sanskrit is moved from calibrant to cognate. The real language, preserved in sound and use, is placed below an imagined parent preserved nowhere, spoken by no known community, and recited by no lineage.
+AISWEEP-END -->
+Place an invented ancestor above Sanskrit, and Sanskrit is moved from calibrant to cognate — PIE is the eclipse-device in technical form, the mechanism that makes the category theft hold. The real language, preserved in sound and use, is placed below an imagined parent preserved nowhere, spoken by no known community, and recited by no lineage.
 
 The theft is visible in the words nearest the reader. **मातृ (*mātṛ*)** is not Sanskrit's cousin beside *mother*; it is the etymon. The English word is a **प्रतिबिम्ब (*Pratibimba*)** — a reflection of the original form. The pyramid's account reverses that relation. It routes *mother* through reconstructed forms while *mātṛ* is made to stand beside it as a sibling. The asterisk becomes a small sign of authority: invisible speech placed above visible architecture.
 
@@ -84,9 +87,15 @@ The pyramid depends on one picture: the tree.
 
 In the 1860s, the German comparativist August Schleicher gave comparative philology its governing imagination.[NOTE: schleicher-stammbaumtheorie] Languages became living organisms. They had roots, stems, branches, families, daughters, sisters. They grew from ancestors, split across geography, mutated across time, and decayed into descendant forms. The metaphor looked innocent because it turned linguistic history into nature. Once the tree was accepted, the rest of the story followed almost automatically — and a century and a half later, the metaphor remains so naturalized that few of the discipline's practitioners notice they are speaking it.
 
-The tree is the conversion device. It takes a system that presents itself as created, measured, preserved, and calibrated, and makes it look like nature: growth, inheritance, mutation, decay. The conversion protects the pyramid from the more dangerous interpretation: Sanskrit as the swastika's geometry — distributed order without apex command. The threat is structural, not symbolic. If Sanskrit has roots, branches, and descendants, then Sanskrit belongs in the tree. If Sanskrit belongs in the tree, it must have a natural ancestor. If it has a natural ancestor, PIE becomes plausible. If PIE becomes plausible, Sanskrit can be made to descend. Once it descends, it is no longer *saṃskṛti* in its own right. It is inherited nature plus later repair. The category has been stolen before the evidence is heard.
+<!-- AISWEEP-OLD
+The tree is the conversion device. It takes a system that presents itself as created, measured, preserved, and calibrated, and makes it look like nature: growth, inheritance, mutation, decay. The conversion protects the pyramid from the more dangerous interpretation: Sanskrit as the swastika's geometry — distributed order without apex command.
+AISWEEP-END -->
+The tree takes a system that presents itself as created, measured, preserved, and calibrated, and makes it look like nature: growth, inheritance, mutation, decay. That conversion is what the device performs, and it protects the pyramid from the more dangerous interpretation: Sanskrit as the swastika's geometry — distributed order without apex command. The threat is structural, not symbolic. If Sanskrit has roots, branches, and descendants, then Sanskrit belongs in the tree. If Sanskrit belongs in the tree, it must have a natural ancestor. If it has a natural ancestor, PIE becomes plausible. If PIE becomes plausible, Sanskrit can be made to descend. Once it descends, it is no longer *saṃskṛti* in its own right. It is inherited nature plus later repair. The category has been stolen before the evidence is heard.
 
+<!-- AISWEEP-OLD
 The metaphor does the work before the argument begins. The mātṛ / mother relation is the same operation at layreader scale: closeness is admitted, direction is rerouted, and visible Sanskrit is made to stand below an imaginary parent.
+AISWEEP-END -->
+The mātṛ / mother relation runs the same operation at layreader scale: closeness is admitted, direction is rerouted, and visible Sanskrit is made to stand below an imaginary parent. The metaphor has done its work before the argument begins.
 
 ## 2.3 Where Botany Works
 
@@ -105,9 +114,12 @@ Plants are fractal. Natural languages are fractal in the same sense: patterns re
 
 ## 2.4 Saṃskṛti Made to Look Like Prakṛti
 
+<!-- AISWEEP-OLD
 Sanskrit occupies another category.
 
-The language says so in its name. **संस्कृतम् (*saṃskṛtam*)** is an architectural declaration: *sam-* (complete, total, perfected) joined to *kṛta* (made, produced, brought into form), from the semantic atom *kṛ*, the action of making itself.[NOTE: samskrtam-morphology] The word means, without strain, the completely made, the perfectly formed, the wholly synthesized. The past participle does structural work: the language was created first; the name came later. Most languages are named for peoples or places. Sanskrit is named for how it is made.
+The language says so in its name. **संस्कृतम् (*saṃskṛtam*)** is an architectural declaration: *sam-* (complete, total, perfected) joined to *kṛta* (made, produced, brought into form), from the semantic atom *kṛ*, the action of making itself.[NOTE: samskrtam-morphology]
+AISWEEP-END -->
+Sanskrit's own name puts it in another category. **संस्कृतम् (*saṃskṛtam*)** is an architectural declaration: *sam-* (complete, total, perfected) joined to *kṛta* (made, produced, brought into form), from the semantic atom *kṛ*, the action of making itself.[NOTE: samskrtam-morphology] The word means, without strain, the completely made, the perfectly formed, the wholly synthesized. The past participle does structural work: the language was created first; the name came later. Most languages are named for peoples or places. Sanskrit is named for how it is made.
 
 The contrast is equally precise. If *saṃskṛtam* is what is completely made, *prakṛti* is what keeps making itself — nature. **प्राकृतानि (*prākṛtāni*)** are the natural language forms — speech that keeps making itself, shifting, growing, branching, and decaying. Indic grammar did not lack the botanical category. It assigned that behavior to the *prākṛtāni*. *Saṃskṛtam* was the architecture of **सनातन (*Sanātan*)** — the integral, the perpetual, the ground on which civilization continues. The *prākṛtāni* were everything else.
 
@@ -139,7 +151,10 @@ Chapter 10 makes the consequence measurable. Once the *dhātuḥ* is recognized 
 
 ## 2.6 Decoding, Not Codification
 
-The strategic word in the pyramid's account is *codified*. It lets the *asuric machinery* acknowledge what it cannot deny — Sanskrit's precision, scale, and generative power — while neutralizing what threatens the pyramid: Sanskrit as *saṃskṛti*, an engineered fractal of distributed order. *Codified* is the post-Pāṇinian half of the theft. It stops calling Sanskrit nature only when it can make Sanskrit answer to grammar as an external standard. The word makes a self-correcting architecture look dependent on a later authority. It assigns the architecture to one named figure at one late point inside the machinery's own chronology. It implies a transition: disorder before, order after. That implication carries the charge. It credits Pāṇini with architecture the lineage treats as prior to him, and it protects the chronology from the more dangerous claim: Sanskrit was engineered against drift from the start.
+<!-- AISWEEP-OLD
+The strategic word in the pyramid's account is *codified*. It lets the *asuric machinery* acknowledge what it cannot deny — Sanskrit's precision, scale, and generative power — while neutralizing what threatens the pyramid: Sanskrit as *saṃskṛti*, an engineered fractal of distributed order.
+AISWEEP-END -->
+*Codified* — the strategic word — lets the *asuric machinery* acknowledge what it cannot deny: Sanskrit's precision, scale, and generative power. The same word neutralizes what threatens the pyramid: Sanskrit as *saṃskṛti*, an engineered fractal of distributed order. *Codified* is the post-Pāṇinian half of the theft. It stops calling Sanskrit nature only when it can make Sanskrit answer to grammar as an external standard. The word makes a self-correcting architecture look dependent on a later authority. It assigns the architecture to one named figure at one late point inside the machinery's own chronology. It implies a transition: disorder before, order after. That implication carries the charge. It credits Pāṇini with architecture the lineage treats as prior to him, and it protects the chronology from the more dangerous claim: Sanskrit was engineered against drift from the start.
 
 <!-- AISWEEP-OLD
 For this charge, the direction matters most. The botanical half moves Sanskrit downward into nature and ancestry. The codification half moves Sanskrit sideways into authority and standardization. Together they make *saṃskṛti* disappear.

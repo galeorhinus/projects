@@ -221,9 +221,12 @@ The sound-field behaves like geography rather than transported cargo. The closer
 
 ## 8.9 The Gaps Are Neighbors
 
+<!-- AISWEEP-OLD
 The gaps show where the engineering becomes visible.
 
 A natural sound-field gives zones. A calibrated language chooses coordinates. Sanskrit's visible act is the conversion of zones into exact sonomeric slots.
+AISWEEP-END -->
+A natural sound-field gives zones; a calibrated language chooses coordinates. Sanskrit's visible act is the conversion of zones into exact sonomeric slots — and the unfilled cells are where that act becomes visible.
 
 The southern survey makes this clearest. The missing cells are **ल**, **स**, and **श**. The field has laterals and sibilant-like material; Sanskrit places them in a particular architecture. **ल** is assigned to the dental/front-coronal line. **स** is assigned to the dental sibilant coordinate. **श** completes the palatal member of a three-sibilant system alongside **स** and **ष**.
 
@@ -241,9 +244,12 @@ The field gives the mouth. Sanskrit chooses the coordinates.
 
 ## 8.10 The Retroflex Band
 
+<!-- AISWEEP-OLD
 The retroflex row carries the geographic claim most sharply.
 
-Outside the subcontinent, retroflexion is absent, marginal, secondary, or restricted to special histories. Inside the subcontinent, it is ordinary. It appears across southern languages, central forest-belt languages, western languages, northern languages, and many regional speech-fields. The later retroflex test follows that fingerprint in detail.[NOTE: retroflex-global-distribution]
+Outside the subcontinent, retroflexion is absent, marginal, secondary, or restricted to special histories.
+AISWEEP-END -->
+Outside the subcontinent, retroflexion is absent, marginal, secondary, or restricted to special histories — which is why the retroflex row carries the geographic claim most sharply. Inside the subcontinent, it is ordinary. It appears across southern languages, central forest-belt languages, western languages, northern languages, and many regional speech-fields. The later retroflex test follows that fingerprint in detail.[NOTE: retroflex-global-distribution]
 
 Sanskrit includes a complete retroflex row: **ट ठ ड ढ ण**. It also extends retroflex logic through **ष**, and the wider subcontinental field preserves related retroflex laterals such as **ळ** in regional languages. Marathi, for example, keeps **ळ** visibly alive. Southern languages preserve related retroflex-lateral categories with their own articulatory details.
 
@@ -286,9 +292,12 @@ Sanskrit is a language that breathes by design.
 
 ## 8.12 What the Field Shows
 
+<!-- AISWEEP-OLD
 The comparison has mapped a field rather than searching for a single parent language.
 
-The southern set covers 20 of Sanskrit's 23 base coordinates. The forest-belt set covers 18. Western European languages cover less. Central Asian languages cover less still. The pattern is geographic and anatomical before it is genealogical.
+The southern set covers 20 of Sanskrit's 23 base coordinates.
+AISWEEP-END -->
+The comparison maps a field rather than searching for a single parent language: the southern set covers 20 of Sanskrit's 23 base coordinates. The forest-belt set covers 18. Western European languages cover less. Central Asian languages cover less still. The pattern is geographic and anatomical before it is genealogical.
 
 The result says something more useful than "Tamil, Toda, Kurukh, Korku, Mundari, and Ho are Sanskrit." They are parallel selections from a subcontinental sound-field broad enough to supply Sanskrit's base. Their differences also matter. Tamil keeps an alveolar distinction Sanskrit excludes. Forest-belt languages preserve glottal or checked features Sanskrit excludes. Sindhi preserves implosives Sanskrit excludes. The field is larger than Sanskrit.
 

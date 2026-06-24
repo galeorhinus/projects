@@ -48,7 +48,10 @@ This is not rhetoric. It is an empirical observation. The set of correct words i
 AISWEEP-END -->
 The maxim records an empirical observation, not a flourish. The set of correct words is small; the set of corruptions generated from those words is large, and the relation between them is fixed: the engineered forms are the minority, the fallings-away multiply.
 
+<!-- AISWEEP-OLD
 That asymmetry explains the architecture. If the correct forms were the majority, grammar could be light: a teaching aid, a reference tool, a memory device. They are not. The correct set has to be kept visible against a larger field of corruptions. Grammar exists because entropy is productive.
+AISWEEP-END -->
+If the correct forms were the majority, grammar could be light: a teaching aid, a reference tool, a memory device. They are not. The correct set has to be kept visible against a larger field of corruptions, and that asymmetry is what forces the architecture. Grammar exists because entropy is productive.
 
 Few are the words. Many are the corruptions. The work is to keep the small set visible against the large.
 
@@ -154,7 +157,10 @@ The internal infrastructure that makes Sanskrit a calibrant is Chapter 14's cali
 
 *Apabhraṃśa* is a principle, not only a linguistic event. Any engineered order, left in time and under pressure, falls away from its design unless an architecture holds it — and, as Chapter 1 established, the asuric force does not create that entropy from nothing. It feeds the fall, weaponizes it, and renames it as the nature of the thing.
 
-Caste is the clearest social instance. The dharmic architecture specifies **वर्ण (*varṇa*)** by **गुण (*guṇa*)** and **कर्म (*karma*)** — disposition and action, not birth — and the *Assalāyana Sutta* places the rigid master-slave binary at the bordering nations, not the Indic core (Chapter 3 §3.2). Caste-as-fixed-birth-rank is the *apabhraṃśa* of that order: a falling-away the Abrahamic master-slave substrate **fed** and the colonial census **hardened**, freezing fluid *jāti* into enumerated, ranked administration[NOTE: caste-colonial-census-hardening] — the social mirror of *gauḥ* slipping into *gāvī*.
+<!-- AISWEEP-OLD
+Caste is the clearest social instance. The dharmic architecture specifies **वर्ण (*varṇa*)** by **गुण (*guṇa*)** and **कर्म (*karma*)** — disposition and action, not birth — and the *Assalāyana Sutta* places the rigid master-slave binary at the bordering nations, not the Indic core (Chapter 3 §3.2).
+AISWEEP-END -->
+The dharmic architecture specifies **वर्ण (*varṇa*)** by **गुण (*guṇa*)** and **कर्म (*karma*)** — disposition and action, not birth — and the *Assalāyana Sutta* places the rigid master-slave binary at the bordering nations, not the Indic core (Chapter 3 §3.2). Caste is the clearest social instance of the fall. Caste-as-fixed-birth-rank is the *apabhraṃśa* of that order: a falling-away the Abrahamic master-slave substrate **fed** and the colonial census **hardened**, freezing fluid *jāti* into enumerated, ranked administration[NOTE: caste-colonial-census-hardening] — the social mirror of *gauḥ* slipping into *gāvī*.
 
 <!-- AISWEEP-OLD
 This volume holds to the linguistic fractal; the social and civilizational recurrence belongs to the later *Second Shanti* volumes. It is named here because it is one law: *apabhraṃśa* is the fall, wherever an engineered order meets the force that feeds its drift.

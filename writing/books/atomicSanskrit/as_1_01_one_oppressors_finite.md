@@ -65,9 +65,15 @@ The pyramid therefore loves finitism. A finite universe can be narrated from a f
 
 Sanskrit resists that shape. Its order descends through the distributed field rather than from a human apex. The standard is distributed through sound, measure, recitation, grammar, semantic atoms, lineage, and disciplined use. A wrong sound can be caught by the mouth. A wrong measure can be caught by meter. A wrong form can be caught by grammar. A wrong derivation can be caught by the *dhātuḥ*. A wrong recitation can be caught by the *pāṭha*. Sanskrit places correction inside the architecture.
 
+<!-- AISWEEP-OLD
 That is the strategic threat. Natural drift can be surveyed and ruled. Codification can be captured by authority. Calibration is harder to conquer because the standard lives in the system itself. The pyramid can lord over drift and sanctify codification. Calibration therefore has to be hidden as a category.
+AISWEEP-END -->
+Calibration is what the pyramid cannot conquer, because the standard lives in the system itself. Natural drift can be surveyed and ruled. Codification can be captured by authority. The pyramid can lord over drift and sanctify codification. Calibration therefore has to be hidden as a category.
 
-Chronology capture follows from the same fear. The pyramid is threatened by **अनादि (*anādi*)**, that which has no beginning, and **अनन्त (*ananta*)**, that which has no end. Chronology becomes dangerous when it stops tracking sequence and starts assigning category. Once the pyramid owns the clock, it can call one layer early, another late, one primitive, another developed, one original, another borrowed. It can turn domain into period, mode into stage, architecture into evolution, and calibration into late correction. That is why the *Veda* must be dated, stratified, and sequenced in the pyramid's story: the calibrant has to be forced into a clock before it can be made to descend.
+<!-- AISWEEP-OLD
+Chronology capture follows from the same fear. The pyramid is threatened by **अनादि (*anādi*)**, that which has no beginning, and **अनन्त (*ananta*)**, that which has no end. Chronology becomes dangerous when it stops tracking sequence and starts assigning category.
+AISWEEP-END -->
+The same fear drives chronology capture. The pyramid is threatened by **अनादि (*anādi*)**, that which has no beginning, and **अनन्त (*ananta*)**, that which has no end. Chronology becomes dangerous when it stops tracking sequence and starts assigning category. Once the pyramid owns the clock, it can call one layer early, another late, one primitive, another developed, one original, another borrowed. It can turn domain into period, mode into stage, architecture into evolution, and calibration into late correction. That is why the *Veda* must be dated, stratified, and sequenced in the pyramid's story: the calibrant has to be forced into a clock before it can be made to descend.
 
 ## 1.3 Svarbhānu's Operation
 
@@ -75,7 +81,10 @@ In the Vedic mantra, Svarbhānu pierces Sūrya with darkness, and the worlds bec
 
 The asuric pyramid repeats that operation against Sanskrit. It leaves the word visible, the texts printed, the grammarian praised, the dictionaries compiled, and the courses taught. Then it places darkness over the category. The civilization sees Sanskrit but is trained not to recognize what shines.
 
-Svarbhānu gives the governing recipe. His operation is obscuration. The light remains, but the field goes dark. The worlds are still there, but they become **मुग्ध (*mugdha*)**, bewildered. The same shape governs the attack on Sanskrit. The sound remains audible. The texts remain printed. Pāṇini remains praised. The dictionaries remain on the shelf. What is darkened is the category: Sanskrit as **संस्कृति (*saṃskṛti*)**, calibrated architecture.
+<!-- AISWEEP-OLD
+Svarbhānu gives the governing recipe. His operation is obscuration. The light remains, but the field goes dark. The worlds are still there, but they become **मुग्ध (*mugdha*)**, bewildered. The same shape governs the attack on Sanskrit.
+AISWEEP-END -->
+Svarbhānu obscures: the light remains, but the field goes dark. The worlds are still there, yet they become **मुग्ध (*mugdha*)**, bewildered. The same shape governs the attack on Sanskrit. The sound remains audible. The texts remain printed. Pāṇini remains praised. The dictionaries remain on the shelf. What is darkened is the category: Sanskrit as **संस्कृति (*saṃskṛti*)**, calibrated architecture.
 
 Sanskrit is made to answer to PIE, codification, power, chronology, and finite origin. The visible language is forced under an invisible ancestor. The living architecture is made dependent on a later grammarian. The distributed standard is translated into authority. The beginningless is forced into the pyramid's clock.
 
@@ -116,6 +125,9 @@ The public move is language capture. Words such as *root*, *branch*, *daughter*,
 
 Together, these operations produce category theft. Sanskrit is made to answer inside categories built to hide what Sanskrit is.
 
+<!-- AISWEEP-OLD
 The apex has a grammar. At the summit sits the one who must own the field. He does not share authority with the distributed field. He converts the field into a base and calls his view the whole. Sanskrit threatens him because Sanskrit preserves an order with no apex at all.
+AISWEEP-END -->
+At the summit sits the one who must own the field. He does not share authority with the distributed field. He converts the field into a base and calls his view the whole. Sanskrit threatens him because Sanskrit preserves an order with no apex at all.
 
 With that, the parties are present. The seekers and caretakers stand on one side. The finite order stands on the other. What follows shows how the shadow is cast.

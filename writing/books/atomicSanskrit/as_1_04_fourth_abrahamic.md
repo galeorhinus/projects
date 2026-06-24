@@ -81,7 +81,10 @@ Behind the linear-progress pillar stands the doctrinal formation that holds it. 
 
 The academy is the institutional carrier: the church of progress.
 
+<!-- AISWEEP-OLD
 The correspondence is structural. The PhD is ordination. The thesis defense is the ritual of conferral. The committee examines doctrinal fitness. Peer-reviewed journals are the publication machinery; anonymous review is the imprimatur process. Conferences are gathering rituals. Departments are institutional housing. Tenure is benefice. Reference works are catechism: the ordinary transmission of doctrine into the next generation. The church also has a pyramid.
+AISWEEP-END -->
+The PhD is ordination, structurally. The thesis defense is the ritual of conferral. The committee examines doctrinal fitness. Peer-reviewed journals are the publication machinery; anonymous review is the imprimatur process. Conferences are gathering rituals. Departments are institutional housing. Tenure is benefice. Reference works are catechism: the ordinary transmission of doctrine into the next generation. The church also has a pyramid.
 
 | Religion | apex functions | Layers below |
 |---|---|---|
@@ -90,7 +93,10 @@ The correspondence is structural. The PhD is ordination. The thesis defense is t
 | Islam | caliphal-political authority; juristic schools; fatwa machinery | *ulema* → imams → muftis → ordinary Muslims |
 | Progressivism | elite universities; flagship journals; foundations; disciplinary associations; prize committees; state and international credentialing bodies | tenured full → tenured → tenure-track → postdoc → graduate student → outsider |
 
+<!-- AISWEEP-OLD
 The material metabolism is funding. Grants, fellowships, endowed centers, foundation programs, university presses, hiring pipelines, and rankings are not decorative. They move resources downward through the pyramid and move doctrinal compliance upward through the careers the pyramid sustains. The system is not only a hierarchy of titles. It is a resource machine.
+AISWEEP-END -->
+Grants, fellowships, endowed centers, foundation programs, university presses, hiring pipelines, and rankings are the church's material metabolism, not decoration. They move resources downward through the pyramid and move doctrinal compliance upward through the careers the pyramid sustains. The system is not only a hierarchy of titles. It is a resource machine.
 
 The academy is the central church, but the church has arms. International bureaucracies propagate doctrine in policy language. NGOs and foundations propagate it in development language. Legacy media propagate it in cultural language. Courts and treaty regimes propagate it in legal language. Each arm uses credentialed personnel, approved vocabulary, institutional housing, and boundary policing. The vocabulary differs. The church remains one.
 
@@ -155,7 +161,10 @@ The same formation appears in Indic-categorical idiom — its substrate, its age
 
 The substrate is **तमस् (*tamas*)**: inertia, darkness, the quality of operations that cannot accommodate light. The agent-class is **असुराः (*asurāḥ*)**: those who consolidate power through hierarchy, deception, and the withholding of light. The operating mode is ***asuratva*** (असुरत्व): the quality of being asuric.
 
-The morphology carries the diagnosis. **स्वर् (*svar*)** carries sun, heaven, light, the bright firmament. **सुरः (*suraḥ*)** is the shining one. **असुरः (*asuraḥ*)** is the privative formation: not-light. An asuric formation operates by withholding light — the obscuration Chapter 1 §1.3 traces to **स्वर्भानु (*Svarbhānu*)**, whose name carries the very *svar* he eclipses: Sūrya darkened, not destroyed. Chapter 18 develops the contact-history consequences of this term; the polity-architectural implications belong to a forthcoming volume in the *Second Shanti* series.
+<!-- AISWEEP-OLD
+The morphology carries the diagnosis. **स्वर् (*svar*)** carries sun, heaven, light, the bright firmament. **सुरः (*suraḥ*)** is the shining one. **असुरः (*asuraḥ*)** is the privative formation: not-light.
+AISWEEP-END -->
+**स्वर् (*svar*)** carries sun, heaven, light, the bright firmament — and the morphology built on it carries the diagnosis. **सुरः (*suraḥ*)** is the shining one. **असुरः (*asuraḥ*)** is the privative formation: not-light. An asuric formation operates by withholding light — the obscuration Chapter 1 §1.3 traces to **स्वर्भानु (*Svarbhānu*)**, whose name carries the very *svar* he eclipses: Sūrya darkened, not destroyed. Chapter 18 develops the contact-history consequences of this term; the polity-architectural implications belong to a forthcoming volume in the *Second Shanti* series.
 
 *Asuratva* has a characteristic geometry: the pyramid. Authority concentrates at an apex — the apex-one of Chapter 1, now in Indic-categorical idiom. He is jealous of what he did not build and cannot bear an order above his own. A distributed order — one with no apex at all — threatens him more. Labor spreads across tiers. The base becomes voiceless. Every layer depends on authorization from above. The containment pillars are pyramids. The racial pillar maps to the pyramid of racial hierarchy: European apex, colonial administrators and certifiers in the middle, ranked populations at the base. The theological pillar maps to scriptural authority: canonical text at the apex, priestly interpreters in the middle, laity at the base. The progress pillar maps to academic credentialing: journals and chairs at the apex, the *priests of progress* of §4.4 as intermediaries, civilizational populations whose own knowledge systems the pyramid refuses to recognize as peer at the base. The integrated structure is the asuric pyramid.
 
