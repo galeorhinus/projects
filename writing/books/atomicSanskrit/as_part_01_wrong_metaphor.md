@@ -42,13 +42,19 @@ The motive is structural. Sanskrit threatens the pyramid because it proves that 
 
 That motive is civilizational envy sharpened into institutional strategy. Sanskrit displays an order the pyramid cannot generate: distributed, calibrated, self-correcting, free of apex command. That exposes the pyramid's inferiority. The envy is personal before it is institutional: the one at the apex faces an order above his own that he did not build and cannot abide. He can rule drift. He can own codification. He cannot command calibration.
 
+<!-- AISWEEP-OLD
 The names for the shadow-caster distinguish different layers. The *dogma* denotes the protected belief-content: the authorized account of Sanskrit, PIE, chronology, progress, and civilizational origin. The *church of progress*, developed in Chapter 3, labels the institutional carrier: the academy, reference works, journals, museums, universities, foundations, and credentialing systems that make the doctrine durable. The *priests*, *missionaries*, and *jihadis of progress* designate the function-classes that sanctify, export, and defend it.
+AISWEEP-END -->
+The shadow-caster wears several names, each for a different layer. The *dogma* denotes the protected belief-content: the authorized account of Sanskrit, PIE, chronology, progress, and civilizational origin. The *church of progress*, developed in Chapter 3, labels the institutional carrier: the academy, reference works, journals, museums, universities, foundations, and credentialing systems that make the doctrine durable. The *priests*, *missionaries*, and *jihadis of progress* designate the function-classes that sanctify, export, and defend it.
 
 Over this machinery stands the asuric pyramid: the geometry of apex authority, controlled doctrine, extracted labor, and withheld light. Its working system is the *asuric machinery*: it converts evidence into containment, domain and mode into chronology, and decoding into codification.
 
 What the shadow hides is the architecture: the mouth-map, the *varṇamālā*, the *dhātuḥ*, the *Dhātupāṭha*, the demonstrated fractality of the *dhātuḥ* as atomic *sūtra*, the calibration matrix, the recitation lineages, the retroflex row — and राहु (*Rāhu*), the imaginary ancestor built to contain them.
 
+<!-- AISWEEP-OLD
 The architecture shows redundancy even at the human scale: the Veda preserves form as performed; Pāṇini makes the same form derivable by rule.
+AISWEEP-END -->
+The architecture shows redundancy even at the human scale: the Veda preserves form as performed; Pāṇini's grammar keeps the same form derivable by rule.
 
 Behind the shadow stands an older test. The reader is asked to exercise **सत्-असत्-विवेक (*sat-asat-viveka*)** — discernment between what accords with reality and what distorts it. The standard is universal: **यत् भूतहितम् अत्यन्तं तत् सत्यम् (*yat bhūta-hitam atyantaṃ tat satyam*)**[NOTE: satyam-bhutahitam-mahabharata] — that which serves the welfare of beings, fully and ultimately, is truth. *Bhūta* here means living beings: humans and the full field of life.
 

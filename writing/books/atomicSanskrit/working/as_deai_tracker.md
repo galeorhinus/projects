@@ -33,27 +33,27 @@ The de-AI rules live in the user-memory note `feedback_deai_humanize_prose.md` a
 
 | # | File | Title / role | Lines | Status |
 |---|---|---|--:|---|
-| — | as_0_00_about_series | About the series | 17 | ⬜ |
-| — | as_0_01_preface | Preface | 102 | ⬜ |
+| — | as_0_00_about_series | About the series | 17 | 🟡 swept (1) — doubled, awaiting review |
+| — | as_0_01_preface | Preface | 102 | 🟡 swept (5) — doubled, awaiting review (author-template pass) |
 | — | as_0_02_acknowledgements | Acknowledgements | 14 | ➖ |
 | — | as_0_04_note_on_notes | Note on the Notes | 9 | ➖ |
-| — | as_part_00_overture_shankha | Overture — *The Śaṅkha* | 33 | ⬜ |
-| **I** | as_part_01_wrong_metaphor | Part I opener | 59 | ⬜ |
-| 0 | as_1_00_seekers | Seekers | 197 | ⬜ |
-| 1 | as_1_01_one_oppressors_finite | One / Oppressors / Finite | 115 | ⬜ |
-| 2 | as_1_02_botanical | The Botanical Metaphor | 159 | ⬜ |
-| 3 | as_1_03_strategic | Strategic | 97 | ⬜ |
+| — | as_part_00_overture_shankha | Overture — *The Śaṅkha* | 33 | 🟡 swept (1) — doubled, awaiting review |
+| **I** | as_part_01_wrong_metaphor | Part I opener | 59 | 🟡 swept (2) — doubled, awaiting review |
+| 0 | as_1_00_seekers | Seekers | 197 | 🟡 swept (4) — doubled, awaiting review |
+| 1 | as_1_01_one_oppressors_finite | One / Oppressors / Finite | 115 | 🟡 swept (2) — doubled, awaiting review (He-drip protected) |
+| 2 | as_1_02_botanical | The Botanical Metaphor | 159 | 🟡 swept (5) — doubled, awaiting review |
+| 3 | as_1_03_strategic | Strategic | 97 | 🟡 swept (3) — doubled, awaiting review |
 | **II** | as_part_02_sanskrit_self_conception | Part II opener | 15 | ➖ |
-| 4 | as_1_04_fourth_abrahamic | Fourth Abrahamic | 180 | ⬜ |
-| 5 | as_1_05_siddha | Siddha | 129 | ⬜ |
-| 6a | as_1_06_apabhramsa | Apabhraṃśa | 139 | ⬜ |
-| 6b | as_1_06_dhatuh | The *dhātuḥ* | 112 | ⬜ |
+| 4 | as_1_04_fourth_abrahamic | Fourth Abrahamic | 180 | 🟡 swept (9) — doubled, awaiting review (cluster + He-drip protected; FLAG: §4.6 Schleicher "manufactured"→"baked"?) |
+| 5 | as_1_05_siddha | Siddha | 129 | 🟡 swept (10) — doubled, awaiting review (Pāṇini/Patañjali tense fixes; artifact-present left where convention allows) |
+| 6a | as_1_06_apabhramsa | Apabhraṃśa | 139 | 🟡 swept (7) — doubled, awaiting review |
+| 6b | as_1_06_dhatuh | The *dhātuḥ* | 112 | 🟡 swept (4) — doubled, awaiting review |
 | **III** | as_part_03_sound_field | Part III opener | 15 | ➖ |
-| 7 | as_1_07_adivadya | Ādivādya | 149 | ⬜ |
-| 8 | as_1_08_superset | The Superset | 274 | ⬜ |
-| 9 | as_1_09_mapping_mouth | Mapping the Mouth | 253 | ⬜ |
+| 7 | as_1_07_adivadya | Ādivādya | 149 | 🟡 swept (11) — doubled, awaiting review |
+| 8 | as_1_08_superset | The Superset | 274 | 🟡 swept (10) — doubled, awaiting review (data-heavy; matrices/surveys protected) |
+| 9 | as_1_09_mapping_mouth | Mapping the Mouth | 253 | 🟡 swept (3) — doubled, awaiting review (data-heavy; grid/figures protected) |
 | **IV** | as_part_04_atomic_architecture | Part IV opener | 15 | ➖ |
-| 10 | as_1_10_building_dhatuh | Building the *dhātuḥ* | 443 | ⬜ |
+| 10 | as_1_10_building_dhatuh | Building the *dhātuḥ* | 443 | 🟡 swept (18) — doubled, awaiting review (derivations/data/icons protected) |
 | 11 | as_1_11_building_kriya | Building the *kriyā* | 324 | ✅ done (replace-mode, committed ff89667) + breathing-pass review: no new changes needed — the replace-mode sweep already de-uniformized (fused staccato chains, killed stacked-negative cluster, broke anaphora); remaining signpost candidates borderline, left |
 | 12 | as_1_12_building_vakya | Building the *vākya* | 278 | 🟢 STRIPPED — final. De-AI + chunk-1 rescan + breathing pass + RV 1.164.39 epigraph promotion & akṣara reading. 23 redlines stripped & committed |
 | 13 | as_1_13_preservation | Preservation | 163 | 🟢 STRIPPED — final. 3 metadiscourse fixes + 4 signpost cuts (Gemini review); deliberate hammers/triads PROTECTED. 7 redlines stripped |
@@ -77,4 +77,4 @@ The de-AI rules live in the user-memory note `feedback_deai_humanize_prose.md` a
 | A8 | as_3_08_codification_story | App — Codification Story | 530 | 🟢 swept (clean edits) — 3 fixes: reading-ban ("read as evidence"→"taken as"), metadiscourse ("The distinction matters because…" → substance-led), names-verb ("Sanskrit names entropy"→"marks entropy"). Prosecutorial anaphora + closing hammers protected. Left/flagged: "This is fatal…", "The point is not…The point is sharper:", "reads … through categories" |
 | A9 | as_3_09_glossary | Glossary | 389 | 🟢 swept (clean edits) — reference/definitional; 4 controlled-vocab fixes: 2 names-verb ("to name the pyramid"/"to name the relation"→"for"), 1 reading-ban ("reading … as common descent"→"treating"), 1 reading-noun ("the 'codification' reading"→"account") |
 
-_Last updated: 2026-06-22 (tracker created; Ch 11 complete in replace-mode)._
+_Last updated: 2026-06-05 (Preface→Ch 10 swept — doubled redlines, awaiting review; 95 AISWEEP blocks across 16 files. Preface done as author template; Chs 0–10 + front-matter via parallel sub-agents. Review in editor or via git diff, then `python3 working/deai_strip.py <file>` to strip approved blocks.)._

@@ -22,7 +22,10 @@ Chapter 5 also established the controlling distinction: codified systems correct
 
 Entropy has a Sanskrit name: **अपभ्रंश (*apabhraṃśa*)** — falling away, slipping off. The morphology is transparent: *apa-* means away, off, down; *bhraṃśa* carries the *bhraṃś* semantic atom, to fall or slip. A speaker produces *apabhraṃśa* when the uttered form slips from the engineered form grammar specifies.
 
+<!-- AISWEEP-OLD
 The slip can be phonetic, morphological, or lexical. A sound shifts. A form reorganizes. A word is replaced by something easier. Grammar treats all three with the same structural eye. The deviation is not an alternative form. It is a falling-away.
+AISWEEP-END -->
+The slip can be phonetic, morphological, or lexical — a vowel lengthens, a case-ending reorganizes, a hard word gives way to an easier one — and grammar treats all three with the same structural eye. The deviation is a falling-away, not an alternative form.
 
 The *vaiyākaraṇāḥ* do not punish the speaker for violating authority. They identify where the form has fallen away from the architecture and restore it to fit. That is why *apabhraṃśa* is not merely "incorrect speech." It is entropy named in Sanskrit.
 
@@ -40,7 +43,10 @@ Patañjali states the asymmetry in the *Paspaśāhnika*:
 
 The epigraph renders the same asymmetry through *apabhraṃśa*, the term of art here. Patañjali's printed maxim uses **अपशब्दाः (*apaśabdāḥ*)** — faulty words, non-words — and the same passage then lists the **अपभ्रंशाः (*apabhraṃśāḥ*)** of **गौः (*gauḥ*)**. The two terms carry the same structural judgment from different angles: *apaśabda* points to the wrong word; *apabhraṃśa* points to the falling-away.
 
+<!-- AISWEEP-OLD
 This is not rhetoric. It is an empirical observation. The set of correct words is small. The set of corruptions generated from those words is large. The relation is asymmetric. The engineered set is the minority. The fallings-away multiply.
+AISWEEP-END -->
+The maxim records an empirical observation, not a flourish. The set of correct words is small; the set of corruptions generated from those words is large, and the relation between them is fixed: the engineered forms are the minority, the fallings-away multiply.
 
 That asymmetry explains the architecture. If the correct forms were the majority, grammar could be light: a teaching aid, a reference tool, a memory device. They are not. The correct set has to be kept visible against a larger field of corruptions. Grammar exists because entropy is productive.
 
@@ -64,7 +70,10 @@ The evidence was always available. The modern shift came from the external accou
 
 ## 6.4 Drift, Codification, Calibration
 
+<!-- AISWEEP-OLD
 The same evidence produces three diagnostic categories.
+AISWEEP-END -->
+The same evidence — *gauḥ* and its fallings-away — splits three ways depending on what is assumed to govern speech.
 
 **Natural drift** is the ***प्रकृति (*prakṛti*)*** category. Standardization comes from usage: habit, prestige, contact, local life, and whatever later schooling records after the fact. Forms shift across speech communities and time. The linguist tracks the trajectory. *Gauḥ* and *gāvī* become related forms in a history of usage.
 
@@ -88,7 +97,10 @@ Sanskrit was not codified. It was engineered. *Apabhraṃśa* is what the system
 
 Modern thermodynamics gives the physical tendency a name: entropy. Organized systems drift toward disorder when not actively constrained. Patañjali identifies the linguistic analogue: speech falls away unless an architecture holds it. Identifying the tendency is not the engineering response. It is the diagnosis that prepares the response.
 
+<!-- AISWEEP-OLD
 The response is the grammatical and recitational architecture. The *Aṣṭādhyāyī* specifies the rules. The *Vārttikāni* refine them. The *Mahābhāṣya* defends them. The **षड्वेदाङ्गानि (*ṣaḍ-vedāṅgāni*)** — *Śikṣā*, *Vyākaraṇa*, *Nirukta*, *Kalpa*, *Chandas*, *Jyotiṣa* — hold the auxiliary layers. The *Prātiśākhya* texts specify phonetic detail by recension. The *padapāṭha* decomposes the text into words; the *krama*, *jaṭā*, and *ghana* recitations re-encode that decomposition under stronger combinatorial constraints. Chapter 14 develops the full calibration matrix. Here the point is simpler: every layer exists because entropy is real.
+AISWEEP-END -->
+The response is the grammatical and recitational architecture. The *Aṣṭādhyāyī* specifies the rules, the *Vārttikāni* refine them, and the *Mahābhāṣya* defends them. The **षड्वेदाङ्गानि (*ṣaḍ-vedāṅgāni*)** — *Śikṣā*, *Vyākaraṇa*, *Nirukta*, *Kalpa*, *Chandas*, *Jyotiṣa* — hold the auxiliary layers; the *Prātiśākhya* texts specify phonetic detail by recension; the *padapāṭha* decomposes the text into words, and the *krama*, *jaṭā*, and *ghana* recitations re-encode that decomposition under stronger combinatorial constraints. Chapter 14 develops the full calibration matrix, but every layer exists for one reason: entropy is real.
 
 Chapter 2's English example — *hlāfweard* becoming *laverd*, then *lorde*, then *Lord* — is exactly the kind of drift Patañjali labels *apabhraṃśa*. The phenomenon is not foreign to Sanskrit analysis. The difference is civilizational response. English absorbed the drift and kept moving. Sanskrit diagnosed the drift and built against it.
 
@@ -108,13 +120,19 @@ The four Vedas differ because they serve different functions: hymnic invocation,
 
 The pattern is consistent. The pyramid's account turns difference into time. Sanskrit's own architecture assigns difference to function, mode, recension, option, meter, or transmission stream. Difference is not drift until the mechanism of drift is shown. The account usually supplies the label, not the mechanism.
 
+<!-- AISWEEP-OLD
 This matters because the pyramid's account needs Vedic Sanskrit to have changed. Without change, the migration-and-borrowing machinery loses its operating premise. The engineering thesis does not deny variation. It denies that variation is automatically entropy.
+AISWEEP-END -->
+The pyramid's account needs Vedic Sanskrit to have changed. Without change, the migration-and-borrowing machinery loses its operating premise. The engineering thesis does not deny variation; it denies that variation is automatically entropy.
 
 **Appendix Part 7 — *The Vedic Carrier*** develops each of the dogma's eight drift-claims with its specific example and tabulates the engineering-mode response, after walking three load-bearing Ṛgvedic verses phrase-by-phrase to demonstrate the implicit grammar in operation in the corpus form. The polemic-critical observation landing at the appendix's center: *chandas* (छन्दस्) means *meter*; the *chandas* mode is the metrical mode; everything that distinguishes the *chandas* mode from the *bhāṣā* mode is, fundamentally, what the meter requires.
 
 ## 6.7 The Calibrant Envelope
 
+<!-- AISWEEP-OLD
 The internal threat is now visible. One question remains. What happens when Sanskrit, an engineered anti-entropic architecture, contacts other languages?
+AISWEEP-END -->
+*Apabhraṃśa* inside the Sanskrit corpus is the internal threat, and the architecture holds against it. The contact case is different: what happens when Sanskrit, an engineered anti-entropic architecture, meets other languages?
 
 The term is **calibrant**: a stable reference against which other systems align. A master clock calibrates the network. A laboratory standard calibrates instruments. A gauge block calibrates measurement. The calibrant is not calibrated by what it calibrates. If it drifted with the systems around it, it would cease to be a calibrant.
 
@@ -136,4 +154,9 @@ The internal infrastructure that makes Sanskrit a calibrant is Chapter 14's cali
 
 *Apabhraṃśa* is a principle, not only a linguistic event. Any engineered order, left in time and under pressure, falls away from its design unless an architecture holds it — and, as Chapter 1 established, the asuric force does not create that entropy from nothing. It feeds the fall, weaponizes it, and renames it as the nature of the thing.
 
-Caste is the clearest social instance. The dharmic architecture specifies **वर्ण (*varṇa*)** by **गुण (*guṇa*)** and **कर्म (*karma*)** — disposition and action, not birth — and the *Assalāyana Sutta* places the rigid master-slave binary at the bordering nations, not the Indic core (Chapter 3 §3.2). Caste-as-fixed-birth-rank is the *apabhraṃśa* of that order: a falling-away the Abrahamic master-slave substrate **fed** and the colonial census **hardened**, freezing fluid *jāti* into enumerated, ranked administration[NOTE: caste-colonial-census-hardening] — the social mirror of *gauḥ* slipping into *gāvī*. This volume holds to the linguistic fractal; the social and civilizational recurrence belongs to the later *Second Shanti* volumes. It is named here because it is one law: *apabhraṃśa* is the fall, wherever an engineered order meets the force that feeds its drift. The next scale down is the constituent that holds against the fall — the *dhātuḥ*, which Chapter 10 develops.
+Caste is the clearest social instance. The dharmic architecture specifies **वर्ण (*varṇa*)** by **गुण (*guṇa*)** and **कर्म (*karma*)** — disposition and action, not birth — and the *Assalāyana Sutta* places the rigid master-slave binary at the bordering nations, not the Indic core (Chapter 3 §3.2). Caste-as-fixed-birth-rank is the *apabhraṃśa* of that order: a falling-away the Abrahamic master-slave substrate **fed** and the colonial census **hardened**, freezing fluid *jāti* into enumerated, ranked administration[NOTE: caste-colonial-census-hardening] — the social mirror of *gauḥ* slipping into *gāvī*.
+
+<!-- AISWEEP-OLD
+This volume holds to the linguistic fractal; the social and civilizational recurrence belongs to the later *Second Shanti* volumes. It is named here because it is one law: *apabhraṃśa* is the fall, wherever an engineered order meets the force that feeds its drift.
+AISWEEP-END -->
+This volume holds to the linguistic fractal; the social and civilizational recurrence belongs to the later *Second Shanti* volumes. The instance belongs here because it runs by one law: *apabhraṃśa* is the fall, wherever an engineered order meets the force that feeds its drift. The next scale down is the constituent that holds against the fall — the *dhātuḥ*, which Chapter 10 develops.

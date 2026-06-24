@@ -34,15 +34,27 @@ The deeper injury is civilizational self-doubt. A civilization can continue reci
 
 A wiser age would not need this book. It would look at Sanskrit and *see* the architecture. It would listen to the Vedas and *hear* the engineering. It would see that the differences between the Vedic and worldly domains are part of that engineering. The argument has to be made because the present age has been trained to see *neither*. Its redundancy is deliberate: a field-blind age has become **मुग्ध (*mugdha*)**, bewildered before what remains present. The book repeats the point because confusion that has hardened into civilizational self-doubt can only be cleared with repetition.
 
+<!-- AISWEEP-OLD
 For now, these opening pages offer orientation. The clearing begins later — shadow by shadow, plate by plate, until the field is a little brighter again. The task here is simpler: to say what was darkened, what was placed in front of the Sun, and why seeing Sanskrit's true radiance again matters.
+AISWEEP-END -->
+The clearing begins later — shadow by shadow, plate by plate, until the field is a little brighter again. These pages say only what was darkened, what was placed in front of the Sun, and why seeing Sanskrit's true radiance again matters.
 
 ## What Was Eclipsed
 
+<!-- AISWEEP-OLD
 The claim is simple. The language itself bears the word **संस्कृतम् (*saṃskṛtam*)**: well-made, wholly formed, perfectly synthesized.[NOTE: samskrtam-morphology] The **परम्परा (*paramparā*)** that received and documented it is an unbroken lineage-chain and distributed transmission architecture. That architecture distinguished Sanskrit from **प्राकृत (*prākṛta*)**, recognized drift as **अपभ्रंश (*apabhraṃśa*)**, and treated the word-meaning bond as **सिद्ध (*siddha*)**: already established.
+AISWEEP-END -->
+The language itself bears the word **संस्कृतम् (*saṃskṛtam*)**: well-made, wholly formed, perfectly synthesized.[NOTE: samskrtam-morphology] The **परम्परा (*paramparā*)** that received and documented it is an unbroken lineage-chain and distributed transmission architecture. That architecture distinguished Sanskrit from **प्राकृत (*prākṛta*)**, recognized drift as **अपभ्रंश (*apabhraṃśa*)**, and treated the word-meaning bond as **सिद्ध (*siddha*)**: already established.
 
+<!-- AISWEEP-OLD
 The evidence is not hidden. Pāṇini's grammar displays it. The Vedic recitation lineages preserve it. The question is why the engineering character of Sanskrit has been treated for so long as anything other than obvious.
+AISWEEP-END -->
+Pāṇini's grammar displays the evidence; the Vedic recitation lineages preserve it. The question is why the engineering character of Sanskrit has been treated for so long as anything other than obvious.
 
-Sanskrit behaves like speech because it is speech: recited, spoken, parsed, remembered, sung, taught, and used across the Vedic domain, the worldly learned domain, mantra, poetry, śāstra, dialogue, ritual, drama, and philosophy. But the same speech also displays an architecture ordinary natural languages do not expose with this precision: the **वर्णमाला (*varṇamālā*)** (the ordered inventory of sonomers, measured sound-particles; Chapters 8 and 9 move from the sound-field to the selected grid), the **धातु (*dhātu*)** inventory, the physiological phonetic grid, the calibration matrix, and the multi-axis grammatical system. The architecture is observable in the Vedas. Sanskrit is the linguistic form the Vedas instantiate. Both display engineering. The origin is a separate question; the engineering is what shows.
+<!-- AISWEEP-OLD
+Sanskrit behaves like speech because it is speech: recited, spoken, parsed, remembered, sung, taught, and used across the Vedic domain, the worldly learned domain, mantra, poetry, śāstra, dialogue, ritual, drama, and philosophy. But the same speech also displays an architecture ordinary natural languages do not expose with this precision:
+AISWEEP-END -->
+Sanskrit behaves like speech because it is speech: recited, spoken, sung, parsed, and taught across the Vedic and worldly learned domains — in mantra, poetry, śāstra, dialogue, and drama. But the same speech also displays an architecture ordinary natural languages do not expose with this precision: the **वर्णमाला (*varṇamālā*)** (the ordered inventory of sonomers, measured sound-particles; Chapters 8 and 9 move from the sound-field to the selected grid), the **धातु (*dhātu*)** inventory, the physiological phonetic grid, the calibration matrix, and the multi-axis grammatical system. The architecture is observable in the Vedas. Sanskrit is the linguistic form the Vedas instantiate. Both display engineering. The origin is a separate question; the engineering is what shows.
 
 The visible differences between **वैदिक (*vaidika*)** and **लौकिक (*laukika*)** Sanskrit are real. Sanskrit’s own categories place them without confusion: *vaidika* and *laukika* refer to domains of use; Pāṇini’s **छन्दसि (*chandasi*)** and **भाषायाम् (*bhāṣāyām*)** denote operating modes, in meter and in speech. The fraud begins when those domains and modes are recoded as chronological stages: *"Vedic"* before, *"Classical"* after, Pāṇini in between.
 
@@ -79,7 +91,10 @@ A civilization oriented to the unbounded does not make chronology the judge of t
 
 The pyramid needs the unbounded forced into a finite clock. Once it owns the clock, it can call one layer early, another late, one primitive, another developed, one original, another borrowed. It can turn domain into period, mode into stage, architecture into evolution, and calibration into late correction. For Indic depth, the practice is *thousands of years*, with no counter-chronology manufactured merely to occupy the same battlefield.[NOTE: chronology-asymmetry-rationale]
 
+<!-- AISWEEP-OLD
 The pyramid uses chronology to commit category theft. It turns Sanskrit's internal distinctions into a timeline: domain becomes period, mode becomes stage, and Pāṇini becomes the codifier, the hinge between *"Vedic"* drift and *"Classical"* codification. The body of the book returns to this through Pāṇini. For now the principle is enough: chronology can sequence evidence, but it cannot decide the category of Sanskrit.
+AISWEEP-END -->
+The pyramid uses chronology to commit category theft. It turns Sanskrit's internal distinctions into a timeline: domain becomes period, mode becomes stage, and Pāṇini becomes the codifier, the hinge between *"Vedic"* drift and *"Classical"* codification. The body of the book returns to this through Pāṇini — chronology can sequence evidence, but it cannot decide the category of Sanskrit.
 
 When Sanskrit's light shines again as calibrated architecture, the hunger for the pyramid's calendar may itself fade. The point is not to win a pointless date-contest. The point is to make the architecture visible so chronology becomes servant, not sovereign.
 

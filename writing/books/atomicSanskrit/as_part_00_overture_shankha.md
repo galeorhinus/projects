@@ -20,7 +20,10 @@
 
 \bigskip
 
+<!-- AISWEEP-OLD
 The Śaṅkha sounds inside a war already underway. Its note is not ceremony. It is summons: caretaking has become action.
+AISWEEP-END -->
+The Śaṅkha sounds inside a war already underway. Its note is a summons, not a ceremony: caretaking has become action.
 
 The eclipse remains intact at this threshold. The conch does not break the plates; it sounds across the dark field and calls the caretakers into motion.
 

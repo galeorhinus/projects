@@ -1,8 +1,11 @@
 # About the *Second Shanti* Series
 
+<!-- AISWEEP-OLD
 Many Vedic mantras end with Shanti recited three times. As later volumes will explore, that threefold close is not merely repetition; it is a fractal in miniature, mapping the universe across three distinct domains.
 
 A fractal is a pattern whose organizing law recurs across domains. The three *Shantis* sit in three distinct domains.
+AISWEEP-END -->
+Many Vedic mantras end with Shanti recited three times, and that threefold close is a fractal in miniature: a pattern whose organizing law recurs, mapping the universe across three distinct domains. Later volumes take up each domain in turn.
 
 *Atomic Sanskrit* is the first volume of ***Second Shanti*** — a series taking up the architectures that have held *Sanātan* across thousands of years. This first volume establishes the linguistic layer: Sanskrit as the engineered, anti-entropic calibrant visible in the Vedic corpus and preserved by the *Vedāṅga* disciplines. It follows the fractal from mouth to language: sonomer, *akṣara*, *dhātuḥ*, *kriyā*, *śabda*, *vākya*, *sūtra*, and the calibrated language as a whole. Sanskrit is alive; the system is visible in ongoing recitation, grammar, and use, not reconstructed from fragments.
 

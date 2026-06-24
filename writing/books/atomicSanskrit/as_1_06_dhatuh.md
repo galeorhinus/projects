@@ -32,7 +32,10 @@ Metallurgy, chemistry, biology. One term. One semantic field. The *dhātuḥ* is
 
 In grammar, *dhātuḥ* behaves the same way.
 
+<!-- AISWEEP-OLD
 The grammatical *dhātuḥ* is the foundational semantic constituent: the unit that holds meaning and supports further formation. It is not a root in the botanical sense. It is not a buried appendage from which speech grows haphazardly. It is high-efficiency hardware inside a linguistic architecture.
+AISWEEP-END -->
+The grammatical *dhātuḥ* is the foundational semantic constituent: the unit that holds meaning and supports further formation. It is high-efficiency hardware inside a linguistic architecture, not a buried appendage from which speech grows haphazardly.
 
 Other languages preserve partial analogues, and the comparison sharpens the distinction. Semitic languages carry consonantal semantic roots; Tamil grammar recognizes verbal bases. But the Sanskrit *dhātuḥ* is neither a consonantal abstraction nor an ordinary stem. It is a sound-bearing semantic atom inside a generative architecture. It is not a word. It is the unit from which words become possible.[NOTE: dhatu-cross-linguistic-analogues] Tamil builds expansively. Sanskrit builds atomically.
 
@@ -46,9 +49,15 @@ That is what *root* erased.
 
 ## 6.4 Recovery, Not Imposition
 
+<!-- AISWEEP-OLD
 The atomic reading of *dhātuḥ* is not a modern metaphor imposed on Sanskrit. It is Sanskrit's own usage recovered.
+AISWEEP-END -->
+The atomic account of *dhātuḥ* restores Sanskrit's own usage. It is no modern metaphor laid over the grammar from outside.
 
+<!-- AISWEEP-OLD
 Modern chemistry identifies the element as a constituent that maintains identity through reaction. *Rasaśāstra* and *Rasāyana-shastra* had already named that class *dhātuḥ*. Modern biology identifies tissue as the substrate from which physiological function emerges. *Āyurveda* and *Śarīra-vijñāna* had already named that class *dhātuḥ*. Modern metallurgy distinguishes elemental metal from alloy. *Loha-shastra* had already named that class *dhātuḥ*.
+AISWEEP-END -->
+Modern chemistry identifies the element as a constituent that maintains identity through reaction. *Rasaśāstra* and *Rasāyana-shastra* had already called that class *dhātuḥ*. Modern biology identifies tissue as the substrate from which physiological function emerges. *Āyurveda* and *Śarīra-vijñāna* had already called that class *dhātuḥ*. Modern metallurgy distinguishes elemental metal from alloy. *Loha-shastra* had already called that class *dhātuḥ*.
 
 When this book argues that Sanskrit's foundational units behave like elements — stable, reactive, classifiable, capable of bonding into higher-order structures — it is not importing chemistry into linguistics. It is following the word Sanskrit already chose.
 
@@ -72,7 +81,10 @@ Sanskrit operates outside that graveyard. The *dhātavaḥ* remain active consta
 
 This is why the book is called *Atomic Sanskrit*. A sonomer is the measured sound-particle. A *dhātuḥ* is the first meaning-bearing unit: the semantic atom. Sanskrit does not grow words from roots. It assembles words from atoms that hold identity through reaction.
 
+<!-- AISWEEP-OLD
 Before Chapter 10 measures that atom, the book has to show the instrument and field from which its sound-particles are selected.
+AISWEEP-END -->
+The instrument and field from which those sound-particles are selected come next; Chapter 10 then measures the atom itself.
 
 Sanskrit does not have roots.
 

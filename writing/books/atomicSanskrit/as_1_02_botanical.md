@@ -90,7 +90,10 @@ The metaphor does the work before the argument begins. The mātṛ / mother rela
 
 ## 2.3 Where Botany Works
 
+<!-- AISWEEP-OLD
 The botanical model is not useless. It describes natural language change well enough to be tempting.
+AISWEEP-END -->
+The botanical model earns its appeal honestly. It describes natural language change well enough to be tempting.
 
 English and Dutch do behave like sister forms inside the Germanic family. Latin did produce the Romance languages. French, Spanish, and Italian did change across geography, politics, usage, and time. Natural languages shed endings, blur sounds, absorb neighbors, simplify some forms, complicate others, and reproduce themselves in altered descendants.
 
@@ -116,11 +119,17 @@ The dogma requires drift. Sanātan's continuum was built to prevent it. There is
 
 Nineteenth-century European philology absorbed Sanskrit into the botanical scheme without absorbing Sanskrit's own distinction. It treated *saṃskṛtam* as one more leaf on an Indo-European tree: descended from an imaginary ancestor, governed by natural drift, and explainable by the same biology that explained ordinary languages. There was no place in the framework for an engineered language. So the engineering was folded away.
 
+<!-- AISWEEP-OLD
 The most consequential fold occurred in a single word: **धातुः (*dhātuḥ*)**. In Sanskrit grammar, the *dhātuḥ* is the foundational structural unit. Its semantic field extends across Sanskrit's scientific vocabulary. In Ayurveda, a *dhātuḥ* is one of the body's supporting tissues. In *Rasaśāstra* and metallurgical literature, a *dhātuḥ* is a fundamental element, an irreducible base substance valued for stability and constitutive force. Across domains, the meaning holds: a *dhātuḥ* supports, constitutes, and remains. It is a structural constant. Chapter 10 develops the term at atomic scale. The consequence of mistranslating it can be stated now.
+AISWEEP-END -->
+The most consequential fold occurred in a single word: **धातुः (*dhātuḥ*)**. In Sanskrit grammar, the *dhātuḥ* is the foundational structural unit, and its semantic field extends across Sanskrit's scientific vocabulary. In Ayurveda, a *dhātuḥ* is one of the body's supporting tissues. In *Rasaśāstra* and metallurgical literature, a *dhātuḥ* is a fundamental element, an irreducible base substance valued for stability and constitutive force. Across domains, the meaning holds: a *dhātuḥ* supports, constitutes, and remains. It is a structural constant — a point Chapter 10 develops at atomic scale.
 
 European philology rendered *dhātuḥ* as **root**. The translation looks harmless only because the metaphor has already won. A *dhātuḥ* is a structural constant — the constituent the body, the metal, the medicine, and the grammar are all made of. *Root*, by contrast, is botanical: an appendage sunk into soil, growing, feeding, branching, rotting. The two words denote opposite operations. It is a constituent. It is what the language is made of. Translating it as "root" relocated Sanskrit's grammatical primitive from an engineering category into a botanical one. The mistranslation has long since stopped being a translator's note. It is now the foundational term of the discipline.
 
+<!-- AISWEEP-OLD
 Sanskrit had botanical words available. *Bīja* (बीज) — the unit from which the plant grows. *Mūla* (मूल) — the anchor that draws and feeds. Either could have named the grammar's basic unit in a plant-key. Sanskrit chose neither. It chose *dhātuḥ*, the word already available for the constituent constant of body, matter, and substance. The choice placed grammar in the engineering category. The mistranslation as "root" imposed the very metaphor Sanskrit had refused.[NOTE: dhatu-pre-panini-vedic]
+AISWEEP-END -->
+Sanskrit had botanical words available. *Bīja* (बीज) — the unit from which the plant grows. *Mūla* (मूल) — the anchor that draws and feeds. Either could have served as the grammar's basic unit in a plant-key. Sanskrit chose neither. It chose *dhātuḥ*, the word already available for the constituent constant of body, matter, and substance. The choice placed grammar in the engineering category. The mistranslation as "root" imposed the very metaphor Sanskrit had refused.[NOTE: dhatu-pre-panini-vedic]
 
 The mistranslation was not a minor lexical slip. It was intellectual organization. The framework treated languages as organisms; it needed Sanskrit's primitive to be an organ; it translated the word accordingly. A civilizational term for structural constancy was moved into a European botanical garden and kept there as exhibit number one for the family-tree thesis.
 
@@ -132,7 +141,10 @@ Chapter 10 makes the consequence measurable. Once the *dhātuḥ* is recognized 
 
 The strategic word in the pyramid's account is *codified*. It lets the *asuric machinery* acknowledge what it cannot deny — Sanskrit's precision, scale, and generative power — while neutralizing what threatens the pyramid: Sanskrit as *saṃskṛti*, an engineered fractal of distributed order. *Codified* is the post-Pāṇinian half of the theft. It stops calling Sanskrit nature only when it can make Sanskrit answer to grammar as an external standard. The word makes a self-correcting architecture look dependent on a later authority. It assigns the architecture to one named figure at one late point inside the machinery's own chronology. It implies a transition: disorder before, order after. That implication carries the charge. It credits Pāṇini with architecture the lineage treats as prior to him, and it protects the chronology from the more dangerous claim: Sanskrit was engineered against drift from the start.
 
+<!-- AISWEEP-OLD
 For this charge, the direction matters most. The botanical half moves Sanskrit downward into nature and ancestry. The codification half moves Sanskrit sideways into authority and standardization. Together they make *saṃskṛti* disappear.
+AISWEEP-END -->
+The two halves of the theft pull in different directions. The botanical half moves Sanskrit downward into nature and ancestry. The codification half moves Sanskrit sideways into authority and standardization. Together they make *saṃskṛti* disappear.
 
 *Codification* is not neutral praise for precision. It is the second half of the split: after Sanskrit has been made natural enough for PIE, Pāṇini is made authoritative enough to explain the grammar. Prior architecture becomes later authority. Decoding becomes imposition.
 
@@ -144,7 +156,10 @@ The counter-frame is simple:
 
 > ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.***
 
+<!-- AISWEEP-OLD
 That sentence is enough here. Chapter 5 lays out the grammatical lineage in detail; Chapter 10 develops Yaska's *agni* decoding as a worked example. The local point is direction. *Codify* runs from disorder toward imposed order. *Decode* runs from prior order toward explicit specification. Sanskrit's own word is ***vyākaraṇam*** (व्याकरणम्): *vi-* (वि, *apart*) + *ā-* (आ, *fully*) + *kṛ* (कृ, *to do, to make*) — *unfolding apart*. The grammarian is the ***vaiyākaraṇaḥ*** (वैयाकरणः), the one who performs that unfolding.
+AISWEEP-END -->
+The whole case turns on direction. *Codify* runs from disorder toward imposed order; *decode* runs from prior order toward explicit specification. Sanskrit's own word is ***vyākaraṇam*** (व्याकरणम्): *vi-* (वि, *apart*) + *ā-* (आ, *fully*) + *kṛ* (कृ, *to do, to make*) — *unfolding apart*. The grammarian is the ***vaiyākaraṇaḥ*** (वैयाकरणः), the one who performs that unfolding. Chapter 5 lays out the grammatical lineage in detail; Chapter 10 develops Yaska's *agni* decoding as a worked example.
 
 Pāṇini did not codify Sanskrit. He decoded it. His *Aṣṭādhyāyī* documents the finest surviving decoding of an order already operating. The asuric machinery reverses that direction and calls the reversal *codification*. That is the institutional scale of the same category theft.
 

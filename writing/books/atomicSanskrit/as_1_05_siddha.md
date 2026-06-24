@@ -22,17 +22,26 @@ Sanskrit grammar did not begin with Pāṇini.
 
 The discipline is **व्याकरणम् (*vyākaraṇam*)**: ***वि (vi-,*** apart) + ***आ (ā-,*** fully) + ***कृ (kṛ,*** to do, to make) — taking apart, unfolding, analyzing an already present system.[NOTE: vyakarana-etymology] The activity the word denotes is de-composition, not composition. The grammarian is the **वैयाकरणः (*vaiyākaraṇaḥ*)**, the one who performs that unfolding.[NOTE: vaiyakarana-role-title] The role-title designates a decoder, not a codifier.
 
+<!-- AISWEEP-OLD
 The *vyākaraṇa* discipline extends across a long analytical lineage, with named practitioners before and after the central reference point of Pāṇini's **अष्टाध्यायी (*Aṣṭādhyāyī*)**. Pāṇini himself cites earlier grammarians. **Śākalya** (शाकल्य) had already decomposed the Rigvedic *saṃhitā* into constituent *padas* through the **पदपाठ (*padapāṭha*)**, a work of grammatical analysis before the *Aṣṭādhyāyī* formalized the architecture.[NOTE: shakalya-padapatha] **Āpiśali** (आपिशलि), **Kāśyapa** (काश्यप), **Gārgya** (गार्ग्य), **Gālava** (गालव), **Cākravarmaṇa** (चाक्रवर्मण), **Bhāradvāja** (भारद्वाज), **Saunaga** (सौनाग), **Senaka** (सेनक), and **Sphoṭāyana** (स्फोटायन) are not decorative names. They are the documentary trace of a discipline already operating.[NOTE: panini-cites-pre-paninian-grammarians]
+AISWEEP-END -->
+The *vyākaraṇa* discipline extends across a long analytical lineage, with named practitioners before and after the central reference point of Pāṇini's **अष्टाध्यायी (*Aṣṭādhyāyī*)**. Pāṇini himself cited earlier grammarians. **Śākalya** (शाकल्य) had already decomposed the Rigvedic *saṃhitā* into constituent *padas* through the **पदपाठ (*padapāṭha*)**, a work of grammatical analysis that preceded the *Aṣṭādhyāyī*'s formalization of the architecture.[NOTE: shakalya-padapatha] **Āpiśali** (आपिशलि), **Kāśyapa** (काश्यप), **Gārgya** (गार्ग्य), **Gālava** (गालव), **Cākravarmaṇa** (चाक्रवर्मण), **Bhāradvāja** (भारद्वाज), **Saunaga** (सौनाग), **Senaka** (सेनक), and **Sphoṭāyana** (स्फोटायन) are not decorative names. They are the documentary trace of a discipline already operating.[NOTE: panini-cites-pre-paninian-grammarians]
 
 After Pāṇini came Kātyāyana's **वार्त्तिकानि (*Vārttikāni*)**, the supplementary and corrective observations on Pāṇini's rules, and Patañjali's **महाभाष्यम् (*Mahābhāṣyam*)**, the great commentary that engages both Pāṇini and Kātyāyana. Together, Pāṇini, Kātyāyana, and Patañjali form the **त्रिमुनि व्याकरणम् (*Trimuni Vyākaraṇam*)**, the canonical commentarial unit through which the grammatical lineage has read Sanskrit.
 
+<!-- AISWEEP-OLD
 This is the first correction. The *Aṣṭādhyāyī* is not the founding document of a discipline that began with it. It is a formalization peak inside a longer analytical discipline. Pāṇini did not bring order to disorder. He is the finest documenter of order already present.
+AISWEEP-END -->
+This is the first correction. The *Aṣṭādhyāyī* is not the founding document of a discipline that began with it. It is a formalization peak inside a longer analytical discipline. Pāṇini did not bring order to disorder. He documented an order already present, and documented it the most finely of any in the lineage.
 
 The standing formula is:
 
 > ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.***
 
+<!-- AISWEEP-OLD
 The *Vedas* preserve the architecture implicitly through *chandas*, *śruti*, and the *guru-shishya* transmission-chain. The grammarians make that architecture explicit. Yaska's **निरुक्त (*Nirukta*)** etymological discipline decoded an adjacent layer; Yaska himself cites earlier decoders **Sthaulāṣṭhīvi** (स्थौलाष्ठीवि) and **Śakapūṇi** (शकपूणि) by name, extending the decoding lineage back beyond the named grammarians.
+AISWEEP-END -->
+The *Vedas* preserve the architecture implicitly through *chandas*, *śruti*, and the *guru-shishya* transmission-chain. The grammarians make that architecture explicit. Yaska's **निरुक्त (*Nirukta*)** etymological discipline decoded an adjacent layer; Yaska himself cited earlier decoders **Sthaulāṣṭhīvi** (स्थौलाष्ठीवि) and **Śakapūṇi** (शकपूणि) by name, extending the decoding lineage back beyond the named grammarians.
 
 The role-title matters. The lineage does not call Pāṇini ***स्थपति (sthapati,*** architect), ***निर्माता (nirmātṛ,*** constructor), or anything cognate with *engineer*. It calls him a grammarian, an analyst. Engineering is what the architecture displays. Decoding is what the *vaiyākaraṇāḥ* did. The pyramid's account collapses both into Pāṇini and calls the collapse *codification*.
 
@@ -42,9 +51,15 @@ Pāṇini did the opposite of codifying. He decoded.
 
 ## 5.2 The Opening Axiom
 
+<!-- AISWEEP-OLD
 The load-bearing text is not the *Aṣṭādhyāyī* itself. It is the opening of Patañjali's *Mahābhāṣya*.
+AISWEEP-END -->
+The load-bearing text sits one layer above the *Aṣṭādhyāyī* itself, in the opening of Patañjali's *Mahābhāṣya*.
 
+<!-- AISWEEP-OLD
 The first section of the *Mahābhāṣya* is the **पस्पशाह्निक (*Paspaśāhnika*)**, the opening discourse that establishes what kind of object grammar studies. It is not a ceremonial preface. It is where Patañjali fixes the metaphysical footing of the entire discipline.
+AISWEEP-END -->
+The first section of the *Mahābhāṣya* is the **पस्पशाह्निक (*Paspaśāhnika*)**, the opening discourse that establishes what kind of object grammar studies. Far from a ceremonial preface, it is where Patañjali fixed the metaphysical footing of the entire discipline.
 
 Before grammar's object is analyzed, grammar's purpose is stated.[NOTE: prayojanani-paspashahnika] The *Paspaśāhnika* asks: **किं प्रयोजनं व्याकरणस्य (*kim prayojanam vyākaraṇasya*)** — what is the purpose of grammar? The answer comes as five canonical purposes, the **पञ्च प्रयोजनानि (*pañca prayojanāni*)**:
 
@@ -92,7 +107,10 @@ The alternative is **कार्य (*kārya*)**.
 
 **सिद्ध (*siddha*) vs कार्य (*kārya*)**: established vs produced; already complete vs still being made.
 
+<!-- AISWEEP-OLD
 These are not improvised grammatical labels. They are broad Indic categories. In ritual theory, *kārya* is an act to be done; *siddha* is what already stands. In metaphysics, *kārya* is a contingent product; *siddha* is an attained or perfected state. Whatever the domain, the contrast is stable. *Siddha* has stopped becoming. *Kārya* is still becoming.
+AISWEEP-END -->
+These two terms carry weight far beyond grammar; they are broad Indic categories. In ritual theory, *kārya* is an act to be done while *siddha* is what already stands; in metaphysics, *kārya* is a contingent product and *siddha* an attained or perfected state. Whatever the domain, the contrast is stable. *Siddha* has stopped becoming. *Kārya* is still becoming.
 
 Applied to language, the question is exact. Is the bond between word and meaning *kārya* — produced by usage, remade by speakers, altered by time — or is it *siddha* — established, prior to usage, the same bond grammar must defend?
 
@@ -108,21 +126,35 @@ Patañjali concludes that the bond is *siddha*.
 
 The bond does not evolve. It does not mutate. It is a structural constant.
 
+<!-- AISWEEP-OLD
 The conclusion is not a soft piety about sacred language. Patañjali reaches it through the ordinary Indic disputational structure: the opposing position is stated, the defending position answers, and the resolution is reached. The technical details belong to the *Paspaśāhnika* itself. The structural fact belongs here: Patañjali places the *siddha* commitment at the opening of the canonical commentary and lets the rest of the grammatical project follow from it.
+AISWEEP-END -->
+The conclusion rests on argument, not on soft piety about sacred language. Patañjali reached it through the ordinary Indic disputational structure: the opposing position is stated, the defending position answers, and the resolution is reached. The technical details belong to the *Paspaśāhnika* itself. The structural fact belongs here: the *Mahābhāṣya* places the *siddha* commitment at the opening of the canonical commentary and lets the rest of the grammatical project follow from it.
 
 That placement commits the discipline. The grammarian's task is not to record whatever speakers produce. It is to defend a system of established bonds against corruption. The *Aṣṭādhyāyī* is not a description of speaker habit. It is a specification of an engineered system. Deviations from the rules are not new standards. They are fallings-away from the standard.
 
 This is why the dogma's *codification* vocabulary fails. Codification imagines drift first and order later. Patañjali gives the opposite: established bond first, grammatical defense afterward. There is no transition from disorder to order. There is order, and there are fallings-away from order.
 
+<!-- AISWEEP-OLD
 Patañjali, the canonical commentator on the canonical grammar, calls the bond *siddha*. The engineering conclusion follows: grammar calibrates usage against an established architecture.
+AISWEEP-END -->
+Patañjali, the canonical commentator on the canonical grammar, called the bond *siddha*. The engineering conclusion follows: grammar calibrates usage against an established architecture.
 
 ## 5.5 Sanskrit Begins from Permanence
 
+<!-- AISWEEP-OLD
 The argument rests on two claims.
 
 The first: Sanskrit does not begin from decay. Modern historical linguistics begins there. Languages mutate, drift, and renew; the linguist tracks the trajectory. Patañjali's framework refuses that assumption at the metaphysical level. The bond between word and meaning is established. Grammar exists to defend the establishment.
+AISWEEP-END -->
+Two claims carry the section.
 
+The first: Sanskrit does not begin from decay. Modern historical linguistics begins there — languages mutate, drift, and renew, and the linguist tracks the trajectory. Patañjali's framework refuses that assumption at the metaphysical level. The bond between word and meaning is established. Grammar exists to defend the establishment.
+
+<!-- AISWEEP-OLD
 The second: Sanskrit begins from permanence. Permanence does not mean speakers never err. Patañjali is not denying variation, misuse, corruption, or *apabhraṃśa*. He is denying that variation is the bond's behavior. The bond holds. Speakers fall away from it. The grammarian keeps the bond visible against the fallings-away.
+AISWEEP-END -->
+The second: Sanskrit begins from permanence. Permanence does not mean speakers never err. Patañjali never denied variation, misuse, corruption, or *apabhraṃśa* — he denied that variation is the bond's behavior. The bond holds. Speakers fall away from it. The grammarian keeps the bond visible against the fallings-away.
 
 The engineered Sanskrit thesis is therefore not alien to the Sanskrit lineage. Engineering language restates Sanskrit's own grammatical self-description. *Engineered first* states the architecture's priority. *Siddha* captures the architecture's metaphysical property. There is no codification event because there is no transition from drift to fixity. The bond was *siddha* before Pāṇini sat down to document it; it remained *siddha* after he finished. Pāṇini documented a *siddha* system. Patañjali says so at the opening of the *Mahābhāṣya*.
 

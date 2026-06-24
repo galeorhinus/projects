@@ -46,7 +46,10 @@ The finite is all they have seen. The finite is all they can model. The finite t
 
 Genesis gives the same operation in scriptural key: one birth, one life, one death, one Heaven, one Hell. A single beginning, a single command, a single authorized account of origin, and a single final judgment at the end of the line. The pyramid needs that first point. Once the beginning is owned, the sequence can be owned. Once the sequence is owned, the field can be judged from outside itself. In philology, PIE performs the same work. In chronology, the date performs the same work. Control the first point, and the rest can be made to follow.
 
+<!-- AISWEEP-OLD
 The problem is not the views, knowledge, or ignorance of ordinary people inside the pyramid. The issue is the forceful, top-down imposition of finite ignorance by authorities. Ordinary confusion can be corrected; imposed ignorance hardens into rule. The apex takes reductive ideas, dresses them in grand terminology, and cements them as unquestionable dogma. The result is not knowledge. It is obedience.
+AISWEEP-END -->
+The damage lies in the forceful, top-down imposition of finite ignorance by authorities, not in the confusion of ordinary people inside the pyramid. Ordinary confusion can be corrected; imposed ignorance hardens into rule. The apex takes reductive ideas, dresses them in grand terminology, and cements them as unquestionable dogma. The result is not knowledge. It is obedience.
 
 At the top of that geometry sits the apex-claimant. The boundless defeats his ownership. Distributed order lies beyond his command. Sanskrit threatens him because Sanskrit preserves order without needing him. The one exposed by light becomes an enemy of light. That is the Svarbhānu pattern: exposure does not humble the apex; it hardens him into retaliation.
 
@@ -84,7 +87,10 @@ The transmission architecture preserved this recognition for thousands of years 
 
 The lineage-chain preserved the asura stories as recognition-forms. A story can carry memory, but it can also carry a diagnostic grammar. It can teach a child that Svarbhānu darkened the Sun, teach an elder that darkness can be used as a weapon against light, and teach a civilization that the first symptom of successful asuric attack is field-loss: **अक्षेत्रवित् (*akṣetravit*)**, not knowing the field.
 
+<!-- AISWEEP-OLD
 At institutional scale, the recipes become repeatable moves. The asuric pyramid uses them because each one helps finite control. The operation narrows the field, captures the gate, and trains the civilization to answer inside the pyramid's category.
+AISWEEP-END -->
+At institutional scale, the recipes become repeatable moves. The asuric pyramid runs each one because each one serves finite control — narrowing the field, capturing the gate, training the civilization to answer inside the pyramid's category.
 
 **Install the apex-one.** The hunger of the apex becomes the demand that every plural field answer to one gate. One origin. One doctrine. One permitted chronology. One authorized method. One human office that decides what counts as knowledge.
 

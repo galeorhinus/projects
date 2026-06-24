@@ -46,7 +46,10 @@ The invocation gives its own answer:
 
 The metaphysical meaning is primary. The invocation speaks of ब्रह्मन् (*Brahman*) and the relationship between the absolute and the manifest. The formal intuition is present too. Fullness is not reduced when manifestation emerges from it. Fullness is not exhausted when fullness is taken from it. Set theory is only the modern parallel; the verse shows a civilization already comfortable with the conceptual territory in which zero and infinity live.
 
+<!-- AISWEEP-OLD
 The same comfort shaped the place-value number system and Sanskrit's generative word-system. Ten digits span arithmetic. A finite inventory of semantic atoms, prefixes, and suffixes spans vocabulary. Zero makes the numerical system unbounded. Combinatorial architecture makes the linguistic system unbounded. Both begin from a finite visible surface and open into reach without apparent end. Together they show the first mark of the seekers.
+AISWEEP-END -->
+The same comfort shaped the place-value number system and Sanskrit's generative word-system. Ten digits span arithmetic, and a finite inventory of semantic atoms, prefixes, and suffixes spans vocabulary. Zero makes the numerical system unbounded; combinatorial architecture makes the linguistic system unbounded. Both begin from a finite visible surface and open into reach without apparent end — the first mark of the seekers.
 
 ---
 
@@ -64,7 +67,10 @@ The analytical decomposition of language and number both belong to that culture.
 
 Sanskrit's engineering is the analytical decomposition of the audible world. The number system is the analytical decomposition of the countable world. Both are works of disciplined seeking.
 
+<!-- AISWEEP-OLD
 The linguistic layer is the concern here because Sanskrit's engineering begins with a civilization capable of the act.
+AISWEEP-END -->
+Sanskrit's engineering begins with a civilization already capable of the act.
 
 ---
 
@@ -80,7 +86,10 @@ Sanskrit continues to work. It still labels, blesses, measures, and composes. It
 
 Sanskrit's other name carries this radiance. Sanskrit is ***devabhāṣā*** (देवभाषा) — the language of the *devas*, the radiant ones. The phrase captures what the language did. It carried light outward.
 
+<!-- AISWEEP-OLD
 Sanskrit also trains the ear to hear a name as an attribute. A name can reveal relation, action, quality, lineage, or function. Yāska's formula **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)** later gives the principle its technical form: names arise from actions.[NOTE: sanskrit-names-as-attributes] At this stage, the seed is enough: Sanskrit labels the world and discloses structure.
+AISWEEP-END -->
+Sanskrit also trains the ear to hear a name as an attribute, one that can carry relation, action, quality, lineage, or function. Yāska's formula **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)** later gives the principle its technical form: names arise from actions.[NOTE: sanskrit-names-as-attributes] Sanskrit labels the world and discloses its structure in the same stroke.
 
 ---
 
@@ -142,7 +151,10 @@ Protection now becomes active. If Sanskrit is the calibrant, then returning to S
 
 ## 0.8 The Fractal Test
 
+<!-- AISWEEP-OLD
 Sanskrit's engineering, architecture, and civilizational transmission can be followed without prior Sanskrit study. Readers who have studied the language may recognize many features ahead, now placed in a category very different from the one they have been exposed to. Familiar material may look different when the context changes, and it may reveal more when the category changes.
+AISWEEP-END -->
+Sanskrit's engineering, architecture, and civilizational transmission can be followed without prior Sanskrit study. Readers who have studied the language will recognize many of the features ahead, now placed in a category very different from the one they were handed — and familiar material reveals more once the category around it changes.
 
 The claim is architectural: Sanskrit is the calibrant, and its architecture is fractal. Here, *fractal* means the same organizing law recurring across scale. The proof proceeds from the ground up: mouth, sound-field, sonomeric grid, semantic atom, verbal molecule, sentence assembly, *sūtra*, and calibration matrix. Each level keeps the lower level visible. The recurrence across scale is the pattern the proof will test.
 

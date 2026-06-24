@@ -70,7 +70,10 @@ Sanskrit's old terminology still feels modern because it captures the operating 
 
 The field first appears in zones. Tamil, Toda, and Kurukh together light 20 of the 23 Sanskrit base coordinates. Korku, Mundari, and Ho light 18 of 23.[NOTE: inventory-atlas-coverage-surveys] The remaining gaps are mostly near-neighbors: laterals, sibilants, and precise placements inside active mouth-zones.
 
+<!-- AISWEEP-OLD
 The next move is the snap to grid. The mouth remains continuous; the inventory becomes discrete. Sanskrit chooses exact stations and makes them teachable, repeatable, and stable.
+AISWEEP-END -->
+Sanskrit then snaps the continuous field to a grid: the mouth still glides without seams, but the inventory becomes discrete, with exact stations chosen and made teachable, repeatable, and stable.
 
 ![Figure 9.3 — Sanskrit Extracted: The Sonomer Grid. The selected Sanskrit inventory viewed as an address space across place and manner. Appendix Part 3 §3.8 gives the comparative matrix from which this Sanskrit-only view is extracted.](figures/audiography/sanskrit_extracted_sonomer_grid.svg){#fig:ch9-sanskrit-extracted-sonomer-grid width=100%}
 
@@ -162,7 +165,10 @@ The selected sonomer becomes stable when it is held as an **अक्षरम�
 
 The word *akṣara* carries a large claim. It means the imperishable, the non-decaying. In the language system, it is the stable sound-unit that can be recited, written, counted, and recombined.[NOTE: aksara-imperishable-name]
 
+<!-- AISWEEP-OLD
 This is where the distinction between **sonomer** and **audiograph** matters. The sonomer is the measured sound-particle. The audiograph is the visible capture of that sound-particle in script. Sanskrit is sonomeric before it is audiographic. The language is built from measured sound-particles before any script makes those particles visible.
+AISWEEP-END -->
+The *akṣara* sits on one side of a distinction the rest of this chapter rides on. A **sonomer** is the measured sound-particle; an **audiograph** is the visible capture of that sound-particle in script. Sanskrit is sonomeric before it is audiographic — built from measured sound-particles before any script makes those particles visible.
 
 An *akṣara* is vowel-centered. One vowel nucleus carries the unit. Consonants can open around it, close around it, or cluster at its edges, but the vowel supplies the acoustic center. Thus **पच् (*pac*)** is one *akṣara*, while **पचति (*pacati*)** has three.
 
@@ -225,7 +231,10 @@ The pyramid files the architecture under its interface and calls it an alphabet.
 
 The *varṇamālā* selects the sonomers. The *akṣara* stabilizes them. The *mātrā* measures them. The sound volume shows how the axes multiply. Now the system is ready to build atoms.
 
+<!-- AISWEEP-OLD
 The *varṇamālā* is upstream of the rule-system that indexes it. The **माहेश्वरसूत्राणि (*Māheśvara-sūtrāṇi*)** rearrange an inventory already standing into an operating index for grammar.[NOTE: pre-panini-pratisakhya-classification] The pyramid later distorts that order of events. The architectural point is enough here: Pāṇini decoded and indexed a system already operating.
+AISWEEP-END -->
+The *varṇamālā* is upstream of the rule-system that indexes it. The **माहेश्वरसूत्राणि (*Māheśvara-sūtrāṇi*)** rearrange an inventory already standing into an operating index for grammar.[NOTE: pre-panini-pratisakhya-classification] The pyramid later distorted that order of events; the architecture states it plainly: Pāṇini decoded and indexed a system already operating.
 
 The consonant's half-*mātrā* matters most for the next step.[NOTE: vyanjana-duration-shiksha] A *dhātuḥ* such as **गम् (*gam*)** is more precise than "CVC": it is 1/2 + 1 + 1/2. **भू (*bhū*)** is 1/2 + 2. **दृश् (*dṛś*)** is 1/2 + 1 + 1/2. Before the atom has semantic behavior, it already has a timing envelope.
 

@@ -1,10 +1,17 @@
 # Chapter 8 — The Subcontinental Sound-Field
 
+<!-- AISWEEP-OLD
 The instrument is now visible. The human voice has lungs, vocal cords, a tongue, lips, teeth, palate, nasal cavity, and breath. It can strike, release, hum, sustain, aspirate, nasalize, and hold pitch. The mouth is richer than any one language needs.
 
 The same question now moves to the subcontinental field: what does this region do with that instrument before Sanskrit's grid is placed on the table? The test is simple: what sound-material is already here?
 
 The answer matters because the racial Arya thesis needs Sanskrit to be portable. Sanskrit must arrive as cargo from outside India. Its sound-system must be treated as external first, then locally modified after contact with subcontinental speakers. The sound-field tests that claim at the level of the body.
+AISWEEP-END -->
+The instrument is now visible. The human voice has lungs, vocal cords, a tongue, lips, teeth, palate, nasal cavity, and breath — an apparatus that can strike, release, hum, sustain, aspirate, nasalize, and hold pitch, and that is richer than any one language needs.
+
+The same question now moves to the subcontinental field: what does this region do with that instrument before Sanskrit's grid is placed on the table? The test is simple — what sound-material is already here?
+
+The racial Arya thesis needs Sanskrit to be portable. Sanskrit must arrive as cargo from outside India, its sound-system treated as external first and locally modified only after contact with subcontinental speakers. The sound-field tests that claim at the level of the body.
 
 If Sanskrit was engineered from outside the subcontinent, its sound inventory should resemble the proposed outside fields. If Sanskrit was engineered inside the subcontinental field, the material should already be visible across the region's speech communities. The comparison tests exactly that.
 
@@ -22,7 +29,10 @@ The answer is the field. The grid comes after the field.
 
 ## 8.2 A Sound Is Not Always a Slot
 
+<!-- AISWEEP-OLD
 One distinction must come before the analysis. A person may physically produce a sound without the language treating that sound as an independent slot.
+AISWEEP-END -->
+A person may physically produce a sound without the language treating that sound as an independent slot. That distinction has to come before the analysis.
 
 English shows the distinction quickly. In standard American or British pronunciation, *pin* begins with a breathy **p** — close to **फ (*pha*)**, though not **f**. *Spin* uses a much less breathy **p** — closer to **प (*pa*)**. English speakers produce both sounds, but English keeps them inside one slot: **p**. Now compare *pin* with *bin*. The first sound has changed from **p** to **b**, and the word has changed with it. English therefore keeps **p** and **b** as separate slots, while the breath difference inside **p** remains contextual.
 
@@ -34,7 +44,10 @@ Modern linguistics calls this the difference between **phoneme** and **allophone
 
 So the survey compares **slots**, not every sound a speaker can physically produce. A slot is a contrastive coordinate the language keeps available for making distinctions. Sanskrit's engineering move is to turn selected sounds into stable sonomeric coordinates: placed, labeled, timed, and available for grammar.
 
+<!-- AISWEEP-OLD
 That distinction prevents two confusions. It prevents script confusion: a script may lack a separate sign for a sound the speaker can physically produce. It also prevents phonetic confusion: a language may allow a sound as a contextual realization without counting it as a structural unit.
+AISWEEP-END -->
+That distinction guards against two confusions. A script may lack a separate sign for a sound the speaker can physically produce — script confusion. And a language may allow a sound as a contextual realization without counting it as a structural unit — phonetic confusion.
 
 Every spoken language has contextual sound. That alone does not prove engineering. The engineering signature is what Sanskrit does next: it selects the slots, orders them by the mouth, labels the places and efforts, times them, and makes the chosen set available for grammar.
 
@@ -88,21 +101,30 @@ The same caution applies to labels such as *"Munda"* (used here only as the pyra
 
 ## 8.5 The Sound-Field Holds
 
+<!-- AISWEEP-OLD
 The working premise is modest. Modern languages can preserve only part of an ancient field. Languages drift. Regions shift. Contact changes inventories. Scripts hide sounds. Prestige changes pronunciation.
 
 The premise is narrower and stronger: phonology is conservative enough, regional patterns are coherent enough, and Vedic recitation supplies enough cross-checking that the subcontinental sound-field can be used as evidence.
+AISWEEP-END -->
+Modern languages preserve only part of an ancient field. Languages drift, regions shift, contact changes inventories, scripts hide sounds, prestige changes pronunciation. The working premise survives all of that, because phonology is conservative enough, regional patterns are coherent enough, and Vedic recitation supplies enough cross-checking that the subcontinental sound-field can serve as evidence.
 
 Vocabulary can change quickly. Grammar changes more slowly. Sound inventories often change slowest because every child learns them as the bodily shape of speech itself. A new sound can enter, and an old sound can disappear, but that usually requires pressure across generations.
 
 The subcontinent also has a preservation mechanism rare at this scale. The **पाठ (*pāṭha*)** recitation lineages, the **प्रातिशाख्य (*Prātiśākhya*)** literature, the **शिक्षा (*Śikṣā*)** discipline, and the teacher-student lineages preserve sound as disciplined practice. When the *chandas* mode preserves a feature the later *bhāṣā* perimeter handles differently, the system keeps the difference visible. The system remembers.
 
+<!-- AISWEEP-OLD
 Negative evidence sharpens the point. English vowels shifted drastically in the Great Vowel Shift. Latin fragmented into Romance sound-fields. Classical Greek and modern Greek differ substantially in sound. Mandarin lost older voiced obstruent contrasts. These are ordinary histories of language change.
+AISWEEP-END -->
+Elsewhere the field does not hold. English vowels shifted drastically in the Great Vowel Shift. Latin fragmented into Romance sound-fields. Classical Greek and modern Greek differ substantially in sound. Mandarin lost older voiced obstruent contrasts. These are ordinary histories of language change.
 
 The subcontinent shows something else: a wide field where retroflexion, the five broad mouth-stations, nasality, voicing, and breath remain structurally visible across many named languages. Surface details differ. The deeper sound-field holds.
 
+<!-- AISWEEP-OLD
 The analysis needs continuity strong enough to make geography visible. The four figures below supply that. When the comparison stays inside the subcontinent, coverage is high. When it moves outside, coverage falls. The result is a physical pattern in the sound-field rather than a genealogical proof.
 
 That is enough for this comparison.
+AISWEEP-END -->
+The analysis needs continuity strong enough to make geography visible, and the four figures below supply it: when the comparison stays inside the subcontinent, coverage is high; when it moves outside, coverage falls. The result is a physical pattern in the sound-field rather than a genealogical proof.
 
 ## 8.6 The Southern Survey: 20 of 23
 
@@ -114,15 +136,24 @@ Tamil gives a major southern literary language. Toda gives a Nilgiri speech-fiel
 
 The result is 20 of 23.
 
+<!-- AISWEEP-OLD
 The figure is worth slow attention. The Sanskrit base sits on the page as a set of coordinates, not as a hidden statistical table. Tamil, Toda, and Kurukh light most of those coordinates. The result is visually simple: the southern field already reaches into the same mouth-zones Sanskrit later stabilizes as sonomers.
+AISWEEP-END -->
+The Sanskrit base sits on the page as a set of coordinates, not as a hidden statistical table, and Tamil, Toda, and Kurukh light most of those coordinates. The result is visually simple: the southern field already reaches into the same mouth-zones Sanskrit later stabilizes as sonomers.
 
+<!-- AISWEEP-OLD
 The three unfilled cells are **ल**, **स**, and **श**. That result matters more than a raw percentage. It shows what kind of gap remains.
+AISWEEP-END -->
+The three unfilled cells are **ल**, **स**, and **श**. The kind of gap is what the raw percentage hides.
 
 The gap is local. These are near-neighbor refinements inside already active zones, not missing throat positions, missing retroflex stops, or missing nasal categories. The southern set has laterals and sibilants. The atlas leaves the Sanskrit cells unfilled because Sanskrit assigns those sonomers to particular coordinates.
 
 **ल** can be understood as Sanskrit assigning a lateral from the broader alveolar/front-coronal band to the dental/front-coronal coordinate. **स** can be understood similarly: a front-coronal fricative assigned to Sanskrit's dental sibilant slot. **श** belongs to Sanskrit's broader three-sibilant regularization: dental **स**, retroflex **ष**, and palatal **श**.
 
+<!-- AISWEEP-OLD
 The figure does two things at once. It shows that the southern sound-field already carries nearly the whole Sanskrit base. It also shows where Sanskrit's engineering begins to appear: available zones are regularized into exact coordinates.
+AISWEEP-END -->
+The southern sound-field already carries nearly the whole Sanskrit base — and the same figure shows where Sanskrit's engineering begins to appear: available zones are regularized into exact coordinates.
 
 This is why *mahāprāṇa* stays aside first. If the ten heavy-breath stops were included at the start, the reader might treat the absence of aspirates in many southern inventories as a failure of the field. That would be the wrong conclusion. The base field is the first question. Breath is the second. The southern survey answers the first question strongly: the base is already here.
 
@@ -246,7 +277,10 @@ The same breath-axis continues beyond the stop matrix into **विसर्ग 
 
 The move belongs to a larger discipline of **प्राण (*prāṇa*)**. A civilization that treats breath as a real category of embodied practice also builds a language in which breath becomes structurally visible. Yoga, recitation, mantra, and grammar all meet here. Breath becomes an operating dimension.
 
+<!-- AISWEEP-OLD
 This also explains why *mahāprāṇa* is structural. It is one of Sanskrit's most elegant engineering moves: more distinction without horizontal crowding. The system keeps the mouth-places clean and lets breath do additional work.
+AISWEEP-END -->
+This is why *mahāprāṇa* is structural rather than incidental: it buys more distinction without horizontal crowding. The system keeps the mouth-places clean and lets breath do the additional work.
 
 Sanskrit is a language that breathes by design.
 
