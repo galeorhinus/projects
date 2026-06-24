@@ -754,6 +754,29 @@ Forward — Path B *śāstra* audit deferred to future research; Path C extensio
 
 - `productivity-inversion-natural-language` — the frequency-irregularity correlation in natural-language typology (English / Latin / Greek suppletives) versus Sanskrit's frequency-regularity correlation; document the canonical typological-morphology literature on suppletion and idiosyncrasy at high frequency.
 
+# Preface
+
+This volume is the *Source and Reference Companion* to the printed book *Atomic Sanskrit: The Fractal Calibration Architecture of Sanātan*. The printed book carries one-sentence endnotes — citation anchors, named references, the load-bearing sentence the printed-book reader needs at the point of citation. The companion carries the full long-form: technical appendices, complete bibliographic citations, primary-source quotes, verification trails, source-history discussions, structural-significance analysis. The two volumes share a single source. The printed book's endnote at *"See expanded endnote for X"* points here.
+
+The companion is for the reader the printed book respects but does not need to slow down for: the serious reader, the reviewer, the critic, the hostile academic. The case the printed book makes is the case the companion documents. Every claim, every citation, every primary source. The case rests on visible architecture; the companion is the apparatus that lets a determined reader verify it.
+
+## How to navigate
+
+Reference-only technical appendices appear before the endnotes. After that, each endnote entry begins with its **stub-name** as a section heading — a lowercase-hyphenated identifier like `samskrtam-morphology` or `eleven-pathas`. The same stub-names appear in the printed book's endnotes; both volumes share the identifiers.
+
+Each entry's structure:
+
+- The stub-name as section heading.
+- **Short:** *The one-sentence summary that appears in the printed book's endnotes section. Preserved here as a quick preview when scanning.*
+- **Deployments:** *Chapter and section references showing where the entry is cited in the printed book.*
+- The full long-form content: citation, primary-source quotes, verification trail, source-history discussion, structural-significance analysis.
+
+**To find a specific entry:** use your PDF reader's search function on the stub-name. Stub-names are stable identifiers; pointers from the printed book land here exactly.
+
+**Ordering:** entries follow the topical clustering of the underlying source file. The order is not strictly chronological with respect to the printed book's chapter sequence; the *Deployments* line on each entry supplies the chapter-by-chapter reverse index.
+
+---
+
 # Endnotes
 
 ## `rigveda-5-40-5-svarbhanu-eclipse`
@@ -2987,7 +3010,7 @@ The acoustic signature of any vowel is the pattern of its formants — the first
 - **F2** (second formant) — primarily determined by tongue front-to-back position (front vowels like /i/ have higher F2; back vowels like /u/ have lower F2).
 - **F3, F4** (higher formants) — primarily determined by lip rounding, vocal tract shape details, and individual anatomical variation.
 
-The F1-F2 plane is the conventional 2D space in which vowel qualities are plotted. The *cardinal vowels* of the IPA (the canonical reference vowels: *i, e, ɛ, a, ɑ, ɔ, o, u*) plot at characteristic positions in the F1-F2 plane that correspond to articulatory tongue positions.
+The F1-F2 plane is the conventional 2D space in which vowel qualities are plotted. The *cardinal vowels* of the IPA (the canonical reference vowels: *i, e, ɛ, a, `{\symbolfont ɑ}`{=latex}, ɔ, o, u*) plot at characteristic positions in the F1-F2 plane that correspond to articulatory tongue positions.
 
 For consonants, the source-filter framework applies with additional parameters: the place of articulation determines the formant-burst pattern at consonant-vowel transitions; the manner of articulation determines the spectral and temporal characteristics of the consonant itself.
 
@@ -3242,20 +3265,20 @@ Standard references: Suniti Kumar Chatterji, *The Origin and Development of the 
 ---
 
 ## `sindhi-implosives-inventory`
-**Short:** Sindhi — the language of Sindh, the Sindhu river region — operates a productive set of *implosive* consonants (**ɓ** `{\arabicfont ٻ}`{=latex}/`{\devanagarifont ॿ}`{=latex} bilabial, **ɗ** `{\arabicfont ڏ}`{=latex}/`{\devanagarifont ॾ}`{=latex} alveolar, **ʄ** `{\arabicfont ڄ}`{=latex}/`{\devanagarifont ॼ}`{=latex} palatal, **ɠ** `{\arabicfont ڳ}`{=latex}/`{\devanagarifont ॻ}`{=latex} velar) produced with the glottis closed and lowered to create inward-airflow on release; the *varṇamālā* does not include implosives — a *deliberate* engineering exclusion (the implosive set sits in a narrow articulatory region that does not extend to additional combinatorial dimensions; the *varṇamālā*'s engineering selects dimensions supporting multi-axis combinatorial expansion).
+**Short:** Sindhi — the language of Sindh, the Sindhu river region — operates a productive set of *implosive* consonants (**`{\symbolfont ɓ}`{=latex}** `{\arabicfont ٻ}`{=latex}/`{\devanagarifont ॿ}`{=latex} bilabial, **`{\symbolfont ɗ}`{=latex}** `{\arabicfont ڏ}`{=latex}/`{\devanagarifont ॾ}`{=latex} alveolar, **`{\symbolfont ʄ}`{=latex}** `{\arabicfont ڄ}`{=latex}/`{\devanagarifont ॼ}`{=latex} palatal, **`{\symbolfont ɠ}`{=latex}** `{\arabicfont ڳ}`{=latex}/`{\devanagarifont ॻ}`{=latex} velar) produced with the glottis closed and lowered to create inward-airflow on release; the *varṇamālā* does not include implosives — a *deliberate* engineering exclusion (the implosive set sits in a narrow articulatory region that does not extend to additional combinatorial dimensions; the *varṇamālā*'s engineering selects dimensions supporting multi-axis combinatorial expansion).
 
 **Deployments:** Chapter 9 §9.8 — the citation anchor for Sindhi's implosive consonant inventory.
 
 Sindhi — the language of Sindh, the Sindhu river region — operates a phoneme inventory that includes a set of *implosive* consonants not present in most other subcontinental languages. The Sindhi implosive inventory:
 
-- **ɓ** — voiced bilabial implosive (the *bʼ* — the bilabial implosive). Written in the Sindhi (Perso-Arabic) script as `{\arabicfont ٻ}`{=latex}; in the Sindhi-Devanāgarī script as `{\devanagarifont ॿ}`{=latex}.
-- **ɗ** — voiced alveolar implosive (the *dʼ*). Written as `{\arabicfont ڏ}`{=latex} in Perso-Arabic script; as `{\devanagarifont ॾ}`{=latex} in Devanāgarī.
-- **ʄ** — voiced palatal implosive (the *jʼ*). Written as `{\arabicfont ڄ}`{=latex} in Perso-Arabic script; as `{\devanagarifont ॼ}`{=latex} in Devanāgarī.
-- **ɠ** — voiced velar implosive (the *gʼ*). Written as `{\arabicfont ڳ}`{=latex} in Perso-Arabic script; as `{\devanagarifont ॻ}`{=latex} in Devanāgarī.
+- **`{\symbolfont ɓ}`{=latex}** — voiced bilabial implosive (the *bʼ* — the bilabial implosive). Written in the Sindhi (Perso-Arabic) script as `{\arabicfont ٻ}`{=latex}; in the Sindhi-Devanāgarī script as `{\devanagarifont ॿ}`{=latex}.
+- **`{\symbolfont ɗ}`{=latex}** — voiced alveolar implosive (the *dʼ*). Written as `{\arabicfont ڏ}`{=latex} in Perso-Arabic script; as `{\devanagarifont ॾ}`{=latex} in Devanāgarī.
+- **`{\symbolfont ʄ}`{=latex}** — voiced palatal implosive (the *jʼ*). Written as `{\arabicfont ڄ}`{=latex} in Perso-Arabic script; as `{\devanagarifont ॼ}`{=latex} in Devanāgarī.
+- **`{\symbolfont ɠ}`{=latex}** — voiced velar implosive (the *gʼ*). Written as `{\arabicfont ڳ}`{=latex} in Perso-Arabic script; as `{\devanagarifont ॻ}`{=latex} in Devanāgarī.
 
 The articulatory mechanism: an implosive consonant is produced with the glottis closed and lowered during the closure phase of the stop, creating a reduction in air pressure inside the oral cavity (rather than the increase produced by the egressive airflow of an ordinary voiced stop). When the oral closure is released, air rushes inward into the oral cavity, producing the characteristic implosive acoustic signature.
 
-The implosives are phonologically contrastive in Sindhi with the corresponding ordinary voiced stops: *ɓa* contrasts with *ba*; *ɗa* contrasts with *da*; etc. The contrast is fully productive across the Sindhi lexicon and is preserved across the contemporary speech communities (in Sindh, in the Sindhi-speaking diaspora communities of Maharashtra, Gujarat, and elsewhere).
+The implosives are phonologically contrastive in Sindhi with the corresponding ordinary voiced stops: *`{\symbolfont ɓ}`{=latex}a* contrasts with *ba*; *`{\symbolfont ɗ}`{=latex}a* contrasts with *da*; etc. The contrast is fully productive across the Sindhi lexicon and is preserved across the contemporary speech communities (in Sindh, in the Sindhi-speaking diaspora communities of Maharashtra, Gujarat, and elsewhere).
 
 Structural significance: the implosive set is *observable* in the subcontinental sound-field — Sindhi preserves it as a productive phonological feature today, and the regional speech-field of which the Sindhu river basin is part (the river the *Ṛgveda* lists among its rivers) holds the feature within view of any system calibrating against the same superset. The *varṇamālā* does not include implosives. The omission is *deliberate*. The §9.8 analysis is narrow: the implosive set is present in the broader sound-field and the *varṇamālā* excludes it from the phoneme inventory, on the grounds that the implosive set sits in a narrow articulatory region (the glottis-lowering mechanism) that does not extend to additional phonological dimensions in the broader system. The implosives are a single feature, not an axis that supports further combinatorial elaboration; the *varṇamālā*'s engineering selects dimensions that support multi-axis combinatorial expansion (the five places × four manner-and-voicing combinations on each *varga*, the orthogonal nasal and aspirated dimensions) rather than narrow single-feature inclusions.
 
@@ -3287,7 +3310,7 @@ Standard references: Kamil Zvelebil, *The Smile of Murugan* (Brill, 1973); Bhadr
 ---
 
 ## `ho-mundari-checked-consonants`
-**Short:** The languages of the central-eastern forest belt — Ho, Mundari, Santali, Korku, Sora — operate phonemic glottal stops as *checked consonants* (word-final or syllable-final glottal closures distinguishing minimal pairs: Ho *daʔ* "water" vs. *da* without); the *varṇamālā* does not include a glottal-stop phoneme — *deliberate* engineering exclusion (the glottal stop would have placed two places of articulation in the throat region, compressing acoustic-distinguishability spacing; the engineering holds the throat-region to a single *kaṇṭhya* place).
+**Short:** The languages of the central-eastern forest belt — Ho, Mundari, Santali, Korku, Sora — operate phonemic glottal stops as *checked consonants* (word-final or syllable-final glottal closures distinguishing minimal pairs: Ho *da`{\symbolfont ʔ}`{=latex}* "water" vs. *da* without); the *varṇamālā* does not include a glottal-stop phoneme — *deliberate* engineering exclusion (the glottal stop would have placed two places of articulation in the throat region, compressing acoustic-distinguishability spacing; the engineering holds the throat-region to a single *kaṇṭhya* place).
 
 **Deployments:** Chapter 8 §8.7 and Chapter 9 §9.8 — the citation anchor for the glottal-stop / checked-consonant phonological feature of Ho, Mundari, and the related languages of the central-eastern forest belt.
 
@@ -3297,8 +3320,8 @@ The mechanism: at the end of certain syllables, the glottis closes abruptly, pro
 
 Examples from Ho (the language of the Ho community of Jharkhand and Odisha):
 
-- *daʔ* (water; with checked-glottal closure) vs. *da* (without).
-- *seteʔ* (hot; with checked-glottal closure) vs. *sete* (without).
+- *da`{\symbolfont ʔ}`{=latex}* (water; with checked-glottal closure) vs. *da* (without).
+- *sete`{\symbolfont ʔ}`{=latex}* (hot; with checked-glottal closure) vs. *sete* (without).
 
 The corresponding Mundari, Santali, and Korku speech-communities preserve parallel checked-consonant phonology with regional variations in the glottal-closure articulation and its distribution across the lexicon.
 
