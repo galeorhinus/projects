@@ -18,7 +18,10 @@ What belongs to ordinary flow, and what must be held? Sanskrit has the distincti
 
 ## 13.2 *Prākṛta*, *Saṃskṛta*, *Sanātan*
 
+<!-- AISWEEP-OLD
 The civilization that engineered Sanskrit organized its world through a functional distinction.
+AISWEEP-END -->
+Some content is meant to flow and some is meant to hold; the civilization that engineered Sanskrit sorted its world along exactly that line.
 
 **प्राकृत (*prākṛta*)** is the natural and changing. It is what arises through ordinary social process: everyday speech, stories, customs, local usages, technologies, memories that adapt as they pass through tellers and listeners. *Prākṛta* is allowed to flow.
 
@@ -60,7 +63,10 @@ That refusal also exposes the foundational dogma's script obsession. The **Weste
 
 That is the category error.
 
-The archaeological record deepens the error. What survives from writing cultures is overwhelmingly pyramid media: royal edicts, stone inscriptions, cave donations, coins, seals, potsherds, institutional markings, public assertions of authority. These are not neutral witnesses to the birth of writing. They are the durable debris of power. They show what the apex chose to carve, stamp, issue, and preserve. He does not leave an equally durable record of distributed writing on perishable media.
+<!-- AISWEEP-OLD
+The archaeological record deepens the error. What survives from writing cultures is overwhelmingly pyramid media: royal edicts, stone inscriptions, cave donations, coins, seals, potsherds, institutional markings, public assertions of authority.
+AISWEEP-END -->
+What survives from writing cultures is overwhelmingly pyramid media — royal edicts, stone inscriptions, cave donations, coins, seals, potsherds, institutional markings, public assertions of authority — and the archaeological record deepens the error accordingly. These are not neutral witnesses to the birth of writing. They are the durable debris of power. They show what the apex chose to carve, stamp, issue, and preserve. He does not leave an equally durable record of distributed writing on perishable media.
 
 A non-pyramidal or distributed use of writing would leave a thinner record. If Brāhmī or a precursor was used for notes, accounts, teaching aids, correspondence, working drafts, or mnemonic prompts, the medium would have been perishable. Palm leaf, birch bark, cloth, wood, and temporary writing surfaces do not survive Indian climate and history the way stone survives. The absence of such material is not evidence of absence. It is the predictable silence of perishable media.
 

@@ -180,7 +180,10 @@ One pattern is worth catching before the matrix arrives: the consonant-bearing c
 
 ## 11.5 The *Racanā-Gaṇa* Matrix
 
+<!-- AISWEEP-OLD
 The ten *gaṇāḥ* and the *racanāḥ* measure two different things — operation and construction — and the matrix is where the two axes cross.
+AISWEEP-END -->
+Operation and construction measure two different things; the matrix is where the ten *gaṇāḥ* cross the *racanāḥ* and the two axes meet.
 
 *Racanā* describes the measured scaffold: **गमादि (*gamādi*)** <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">, **स्पदादि (*spadādi*)** <img src="figures/_shared/icons/scaffold_ccv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV1C scaffold">, **मन्थादि (*manthādi*)** <img src="figures/_shared/icons/scaffold_cv1cc_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1CC scaffold">, **वाचादि (*vācādi*)** <img src="figures/_shared/icons/scaffold_cv2c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2C scaffold">, and the rest. *Gaṇaḥ* describes how the atom behaves when grammar puts it to work. A matrix cell is therefore not only a count. It specifies a permitted procedure:
 
@@ -281,7 +284,10 @@ The principle is the *sūtra* principle one scale down — maximum recoverable s
 
 ## 11.8 The Procedure's Shadow
 
+<!-- AISWEEP-OLD
 Procedure and structure are coupled, and the figure makes the coupling visible as a two-dimensional arrangement — the visual shadow of the procedure, not a claim that Sanskrit has chemical periodicity.
+AISWEEP-END -->
+Cross the procedure against the structure and they hold together: the figure renders that coupling as a two-dimensional arrangement — the visual shadow of the procedure, not a claim that Sanskrit has chemical periodicity.
 
 The arrangement carries several axes at once: the *gaṇaḥ* (the operational class Pāṇini documented), the *racanā* (the measured scaffold inside the atom), the *varga* column of the atom's first consonant, and the inherent vowel it carries.
 

@@ -30,7 +30,10 @@ They flex.
 
 Outside the subcontinent, the flex is a global anomaly. European languages do not run on retroflex articulation. Old Persian and Avestan — assigned to the same family as Sanskrit by Western philology — do not run on it. The Central Asian sound-fields imagined by the racial Arya thesis do not run on it. Mandarin Chinese, classical Greek, classical Latin, classical Arabic — none of them are built around the retroflex strike. The subcontinental sound-field is a phonetic island. The flex is the islander.
 
-The conclusion is structural. A population whose sound-system does not contain the *mūrdhanya* row could not have authored a language whose phonetic specification requires it. The foundational dogma's only escape is strained on its face: migrants unable to produce the retroflex arrive in India, wait for their children to grow up among subcontinental speakers and learn the *mūrdhanya* from them, then — having borrowed back the retroflex they could not themselves produce — compose a phonetic specification around it and hand the system back as their own civilizational gift.
+<!-- AISWEEP-OLD
+The conclusion is structural. A population whose sound-system does not contain the *mūrdhanya* row could not have authored a language whose phonetic specification requires it.
+AISWEEP-END -->
+A population whose sound-system does not contain the *mūrdhanya* row could not have authored a language whose phonetic specification requires it. The foundational dogma's only escape is strained on its face: migrants unable to produce the retroflex arrive in India, wait for their children to grow up among subcontinental speakers and learn the *mūrdhanya* from them, then — having borrowed back the retroflex they could not themselves produce — compose a phonetic specification around it and hand the system back as their own civilizational gift.
 
 The story fails at the mouth.
 
@@ -42,7 +45,10 @@ The *progressive dogma* presents the retroflex as a *substrate borrowing*. The c
 
 The priests of progress have been writing this story for seventy years.[NOTE: retroflex-substrate-standard-account] One scholar made the retroflex the seminal areal-feature exhibit. Another carried the position into the pyramid's curriculum line. A third pushed a Munda-substrate variant when the Dravidian version came under empirical strain. A fourth, from inside the same account, argued that the substrate hypothesis was not supported by the data. The dissent was filed and ignored. The machinery continued.
 
-The claim has structural consequences. If the retroflex is a borrowing, Sanskrit's *mūrdhanya* row is layered onto the language from outside — peripheral, late, and acquired. That category move licenses the broader migration-and-borrowing account: Sanskrit becomes portable; subcontinental phonological features become substrate accretions; the architecture is allowed to remain external.
+<!-- AISWEEP-OLD
+The claim has structural consequences. If the retroflex is a borrowing, Sanskrit's *mūrdhanya* row is layered onto the language from outside — peripheral, late, and acquired.
+AISWEEP-END -->
+If the retroflex is a borrowing, Sanskrit's *mūrdhanya* row is layered onto the language from outside — peripheral, late, and acquired. That category move licenses the broader migration-and-borrowing account: Sanskrit becomes portable; subcontinental phonological features become substrate accretions; the architecture is allowed to remain external.
 
 Two claims now face each other.
 
@@ -52,7 +58,10 @@ The Vedic-preservation continuum's commitment is the opposite. The *Vedas* are *
 
 The substrate-borrowing account needs change. The continuum forbids it. There is no middle ground.
 
-The internal incoherence is worse. The same church of progress that documents the *Prātiśākhya* discipline, the layered recitation systems, the phoneme-level correction mechanisms, and the multi-generational transmission architecture must explain why the engineers of that preservation infrastructure passively recorded substrate-acquired phonemes at the structural center of the system they preserved. Architects who design preservation at that level of rigor *choose* what to preserve. They do not arrive at central placement by accident. The substrate claim asks the reader to accept that engineers of unprecedented rigor were also passive recipients of contact phonology — at the exact site, the *mūrdhanya* class, where the architecture later turns out to be most active.
+<!-- AISWEEP-OLD
+The internal incoherence is worse. The same church of progress that documents the *Prātiśākhya* discipline, the layered recitation systems, the phoneme-level correction mechanisms, and the multi-generational transmission architecture must explain why the engineers of that preservation infrastructure passively recorded substrate-acquired phonemes at the structural center of the system they preserved.
+AISWEEP-END -->
+The same church of progress that documents the *Prātiśākhya* discipline, the layered recitation systems, the phoneme-level correction mechanisms, and the multi-generational transmission architecture must then explain why the engineers of that preservation infrastructure passively recorded substrate-acquired phonemes at the structural center of the system they preserved. Architects who design preservation at that level of rigor *choose* what to preserve. They do not arrive at central placement by accident. The substrate claim asks the reader to accept that engineers of unprecedented rigor were also passive recipients of contact phonology — at the exact site, the *mūrdhanya* class, where the architecture later turns out to be most active.
 
 The claim cannot survive structural scrutiny.
 
@@ -64,7 +73,10 @@ The empirical record reverses the substrate claim at four measurable levels. Cha
 
 The epigraph precisely points to the location in the mouth: मूर्धा (*mūrdhā*) — the head / roof of the mouth — is the articulatory site for ऋ (*ṛ*), the टु (*ṭu*) class, र (*ra*), and ष (*ṣa*).[NOTE: rturasanam-murdha-shiksha] But the line does more than state the rule. Its own sound-body performs it. In the operative word ऋटुरषाणां (*ṛṭuraṣāṇāṃ*), the first vowel is ऋ (*ṛ*); the consonantal spine is ट-र-ष-ण (*ṭ-r-ṣ-ṇ*) — retroflex, semi-retroflex, retroflex, retroflex. The mouth must enter the site to say the rule that specifies the site. Sanskrit's phonetic science does not merely describe the architecture from outside. It makes the speaker perform the architecture while stating it.
 
-The depth goes further. ऋ (*ṛ*) is not merely placed at the *mūrdhanya* site. It appears at the minimum layer of the architecture. The *Dhātupāṭha* preserves ऋ (*ṛ*) as a semantic atom of one मात्रा (*mātrā*) — the bare vowel-core, the smallest possible धातुः (*dhātuḥ*). The oldest Vedic corpus takes its name from the same sound: ऋच् (*ṛc*), the verse of praise; ऋग्वेद (*Ṛgveda*), the Veda of the *ṛcaḥ*. The cosmological vocabulary carries it too: ऋत (*ṛta*), the order by which reality holds. The same sound is atomic, Vedic, cosmological, and articulatory. This is recurrence across scale, not surface borrowing: one sonomer appears as mouth-position, semantic atom, textual name, and civilizational category. The racial Arya thesis must explain that depth. A feature so integral to the architecture cannot be treated as "late substrate residue."
+<!-- AISWEEP-OLD
+The depth goes further. ऋ (*ṛ*) is not merely placed at the *mūrdhanya* site. It appears at the minimum layer of the architecture.
+AISWEEP-END -->
+ऋ (*ṛ*) is not merely placed at the *mūrdhanya* site. It appears at the minimum layer of the architecture. The *Dhātupāṭha* preserves ऋ (*ṛ*) as a semantic atom of one मात्रा (*mātrā*) — the bare vowel-core, the smallest possible धातुः (*dhātuḥ*). The oldest Vedic corpus takes its name from the same sound: ऋच् (*ṛc*), the verse of praise; ऋग्वेद (*Ṛgveda*), the Veda of the *ṛcaḥ*. The cosmological vocabulary carries it too: ऋत (*ṛta*), the order by which reality holds. The same sound is atomic, Vedic, cosmological, and articulatory. This is recurrence across scale, not surface borrowing: one sonomer appears as mouth-position, semantic atom, textual name, and civilizational category. The racial Arya thesis must explain that depth. A feature so integral to the architecture cannot be treated as "late substrate residue."
 
 ***Ṛ* (ऋ) as the second-most-active vowel of the *Dhātupāṭha*.** Of the *varṇamālā*'s fourteen vowels, *ṛ* carries **15.3%** of CVC deployment across the *Dhātupāṭha* — second only to *a* (अ). Cross-linguistically, the syllabic *ṛ* is typologically rare; most languages have no equivalent, and where it exists it is marginal. In Sanskrit, *ṛ* drives major *dhātu* families: *kṛ* (कृ, *to make*), *vṛ* (वृ, *to choose*), *dṛś* (दृश्, *to see*), *mṛ* (मृ, *to die*), *hṛ* (हृ, *to carry*), *tṛp* (तृप्, *to be satisfied*), *vṛt* (वृत्, *to turn*), *sṛj* (सृज्, *to release*). These atoms generate massive vocabulary — *karma*, *manas*, *mokṣa*, *sṛṣṭi*, *vṛddhi*, *prakṛti*, *vikṛti*, and hundreds more. A typologically rare phoneme is engineered into the four-vowel reactive core.
 
@@ -72,7 +84,10 @@ The depth goes further. ऋ (*ṛ*) is not merely placed at the *mūrdhanya* sit
 
 **The *mūrdhanya* class as uniquely dual-role.** The position-role data shows the retroflex consonants doing two distinct kinds of work simultaneously. *Ṭa* (ट), *ṭha* (ठ), *ḍa* (ड), and *ṇa* (ण) cluster as closure specialists with high coda-outer deployment. *Ra* and *ṣa* operate as universal bonders with high inner-cluster deployment. The class as a whole shows **32.5%** inner-cluster activity — substantially higher than any other place of articulation, where the figures sit between 11% and 16%. Retroflex consonants do both atom-boundary work and cluster-joining work, in a way that no other class does. The dual-role profile is itself an engineered signal.
 
-The diagnostic is unambiguous. Borrowed features sit at the surface; they accrete in marginal positions; they do not generate the system's foundational vocabulary; they do not link nuclei to bonders at the same articulatory place; they do not carry 73% of the cluster-joining work; they do not anchor the most active retroflex vowel core. The retroflex does all of these.
+<!-- AISWEEP-OLD
+The diagnostic is unambiguous. Borrowed features sit at the surface; they accrete in marginal positions; they do not generate the system's foundational vocabulary; they do not link nuclei to bonders at the same articulatory place; they do not carry 73% of the cluster-joining work; they do not anchor the most active retroflex vowel core.
+AISWEEP-END -->
+The diagnostic is unambiguous on every axis: borrowed features sit at the surface; they accrete in marginal positions; they do not generate the system's foundational vocabulary; they do not link nuclei to bonders at the same articulatory place; they do not carry 73% of the cluster-joining work; they do not anchor the most active retroflex vowel core. The retroflex does all of these.
 
 The *Dhātupāṭha* refutes the borrowing story from inside the architecture.
 

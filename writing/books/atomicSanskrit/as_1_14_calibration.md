@@ -83,7 +83,10 @@ The six layers operate at six different timescales of correction. Layer 1 correc
 
 *Chandas* treats meter as measured possibility. A poem is not only a sequence of meanings. It is a timed structure that has to be filled without breaking sound, duration, pause, accent, or memory.
 
+<!-- AISWEEP-OLD
 The necessity is poetic before it is mathematical. A composer working inside a measured line has to know what the line can hold. A **लघु (*laghu*)** syllable occupies one *mātrā*. A **गुरु (*guru*)** syllable occupies two. The poet fills a timed architecture with syllables of different weights. Once the line is timed, the counting question appears on its own: how many valid patterns can fill this measure exactly?
+AISWEEP-END -->
+A composer working inside a measured line has to know what the line can hold — the necessity is poetic before it is mathematical. A **लघु (*laghu*)** syllable occupies one *mātrā*. A **गुरु (*guru*)** syllable occupies two. The poet fills a timed architecture with syllables of different weights. Once the line is timed, the counting question appears on its own: how many valid patterns can fill this measure exactly?
 
 Take four *mātrās*. Let **G** stand for a *guru* syllable and **L** for a *laghu* syllable. Four *mātrās* can be filled in five ways:
 
@@ -116,7 +119,10 @@ Continue the same question and the counts run:
 
 The modern world calls this the Fibonacci sequence. Sanskrit prosody reaches it through sound, duration, and poetic necessity.[NOTE: chandas-laghu-guru-virahanka-sequence]
 
+<!-- AISWEEP-OLD
 The recurrence is direct once the metrical problem is visible. Every valid pattern of *n* *mātrās* ends in one of two ways. If it ends in *laghu*, the preceding part must fill *n − 1* *mātrās*. If it ends in *guru*, the preceding part must fill *n − 2* *mātrās*. The count for *n* therefore comes from the two counts before it. The mathematics follows the meter.
+AISWEEP-END -->
+Every valid pattern of *n* *mātrās* ends in one of two ways. If it ends in *laghu*, the preceding part must fill *n − 1* *mātrās*. If it ends in *guru*, the preceding part must fill *n − 2* *mātrās*. The count for *n* therefore comes from the two counts before it, and the recurrence falls out the moment the metrical problem is visible. The mathematics follows the meter.
 
 *Chandas* treats meter as discovered architecture. The discipline reveals the valid forms, counts their possibilities, charts their patterns, and trains poets and reciters to hold them. Grammar is decoded. The mouth is mapped. Meter is measured and discovered. In each case, Sanskrit's disciplines begin from architecture, not authority.
 

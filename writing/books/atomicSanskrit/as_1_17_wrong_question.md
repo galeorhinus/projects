@@ -76,9 +76,15 @@ The genealogical project does not fail because it needs a small correction. It f
 
 The progressive dogma has treated the genealogical model as the default and the engineered Sanskrit thesis as the claim needing proof. That default is unearned.
 
+<!-- AISWEEP-OLD
 The default rests on one assumption: Sanskrit is the same kind of object as other natural languages in a descent tree. Once that assumption fails, the default fails with it. The preceding evidence shows why it fails. Sanskrit is not merely inherited speech. It is engineered speech, preserved speech, decoded speech, and rule-governed speech.
+AISWEEP-END -->
+One assumption holds the default up: Sanskrit is the same kind of object as other natural languages in a descent tree. Once that assumption fails, the default fails with it. The preceding evidence shows why it fails. Sanskrit is not merely inherited speech. It is engineered speech, preserved speech, decoded speech, and rule-governed speech.
 
+<!-- AISWEEP-OLD
 The default changes. Until the precursor model can account for Sanskrit's sound-to-*dhātu* architecture, preservation system, retroflex core, and formal grammar, it remains an external genealogy, not an internal explanation.
+AISWEEP-END -->
+Until the precursor model can account for Sanskrit's sound-to-*dhātu* architecture, preservation system, retroflex core, and formal grammar, it remains an external genealogy, not an internal explanation. The default changes.
 
 The implication is sharp. The pyramid has to argue that Sanskrit's own disciplines misperceived their object; that *Nirukta*, *Prātiśākhya*, *Śikṣā*, *Chandas*, and *Mīmāṃsā* were operating on a civilizational error; that the engineering presupposition was a delusion conducted across thousands of years and across many *guru-shishya* lineage-chains.
 
@@ -86,7 +92,10 @@ There is a psychological term for that operation: ***gaslighting***. It is the s
 
 Gaslighting does not only erase memory. It can redirect memory. The machinery does not ask India to forget Pāṇini. It asks India to remember him incorrectly. The decoder becomes codifier. The documenter becomes origin. A civilization's reverence for one of its finest decoders is turned into reverence for codification itself.
 
+<!-- AISWEEP-OLD
 This is why praise can become a weapon. The machinery does not need to insult Pāṇini. It can praise him for the wrong act. Miscast him as codifier, and the civilization is trained to honor authority where it should be recognizing calibration. The memory remains reverent, but the object of reverence has been altered. That is gaslighting at civilizational scale.
+AISWEEP-END -->
+Praise becomes a weapon here. The machinery does not need to insult Pāṇini. It can praise him for the wrong act. Miscast him as codifier, and the civilization is trained to honor authority where it should be recognizing calibration. The memory remains reverent, but the object of reverence has been altered. That is gaslighting at civilizational scale.
 
 When a civilization recognizes its own architecture and the authorized account calls that recognition delusion, the name is not scholarship. The name is civilizational gaslighting with footnotes.
 
@@ -138,13 +147,22 @@ Foreign genetic material in India therefore proves movement, contact, or ancestr
 
 Appendix Part 3 §3.5 has already run this move in another domain: it grants every glyph-shape resemblance between Brāhmī and Aramaic and shows that resemblance still cannot carry the sonomeric grid the script renders. *Resemblance is not genealogy; contact is not authorship; shape is not structure.* DNA is that same evidence at another scale — it can show the bodies moved; it cannot show who built the architecture. **Shape is not structure. Movement is not authorship.** One trap, two domains, one signature move.
 
+<!-- AISWEEP-OLD
 The counter-thesis is stronger than the pyramid can ever afford to admit. Pyramidal worlds generate outward pressure. Coercive hierarchies, master-slave formations, war, taxation, captivity, hunger, and apex rule all push people outward. A prosperous civilizational field pulls people inward. For thousands of years India was a major economic and intellectual center: a place of trade, patronage, learning, ritual, renunciation, debate, and absorption. If people moved into India from oppressive borderlands, the movement need not be taken as conquest. It may just as naturally be taken as escape, livelihood, study, patronage, and refuge.
+AISWEEP-END -->
+Pyramidal worlds generate outward pressure — a counter-thesis stronger than the pyramid can ever afford to admit. Coercive hierarchies, master-slave formations, war, taxation, captivity, hunger, and apex rule all push people outward. A prosperous civilizational field pulls people inward. For thousands of years India was a major economic and intellectual center: a place of trade, patronage, learning, ritual, renunciation, debate, and absorption. If people moved into India from oppressive borderlands, the movement need not be taken as conquest. It may just as naturally be taken as escape, livelihood, study, patronage, and refuge.
 
+<!-- AISWEEP-OLD
 That reversal exposes the emotional structure of the migration story. The pyramid imagines strong outsiders entering India and civilizing it. The counter-thesis is more human and historically ordinary: people pressured by pyramidal borderlands entered a seeker civilization and were absorbed. Foreign DNA, in that frame, is not the footprint of the author. It is the trace of the absorbed.
+AISWEEP-END -->
+The pyramid imagines strong outsiders entering India and civilizing it — and the reversal exposes the emotional structure underneath that picture. The counter-thesis is more human and historically ordinary: people pressured by pyramidal borderlands entered a seeker civilization and were absorbed. Foreign DNA, in that frame, is not the footprint of the author. It is the trace of the absorbed.
 
 Movement out of India is equally unsurprising. A civilization that developed linguistic precision, yogic discipline, philosophical schools, medicinal systems, mathematical imagination, metallurgy, textile and dye works, shipbuilding, monumental stonework, monastic institutions, commercial networks, and grammatical science would naturally send knowledge-bearers outward. A knowledge-bearer does not need an invading army behind him. A grammarian does not need a racial horde. A physician, astronomer, metallurgist, weaver, dyer, shipwright, mason, goldsmith, potter, trader, storyteller, Vedic expert, teacher, or artisan needs a road, a patron, a monastery, a court, a caravan, a workshop, or a student. Buddhist history makes that outward movement visible in a later period; the principle is not difficult.
 
+<!-- AISWEEP-OLD
 The calibrant thesis treats such movement differently. Sanskrit need not spread because a race migrated. Sanskrit can leave traces because trained specialists, preserved sound-systems, and disciplined textual lineages entered other language-worlds and changed them. The pyramid looks at similarity and invents an imaginary ancestor. The architectural lens looks at similarity and asks whether a preserved calibrant touched less stable speech-fields at different depths.
+AISWEEP-END -->
+Sanskrit need not spread because a race migrated; the calibrant thesis treats such movement differently. Sanskrit can leave traces because trained specialists, preserved sound-systems, and disciplined textual lineages entered other language-worlds and changed them. The pyramid looks at similarity and invents an imaginary ancestor. The architectural lens looks at similarity and asks whether a preserved calibrant touched less stable speech-fields at different depths.
 
 This does not require denying movement. Denying movement would accept the trap. The point is to separate motion from creation. The Racial Arya Thesis needs movement because it needs an external author. The engineered Sanskrit thesis does not fear movement because authorship is argued from construction: sound-grid, atom, molecule, sentence, recitation, grammar, and calibration.
 
@@ -154,7 +172,10 @@ The answer is not to deny movement. The answer is to restore authorship.
 
 ## 17.7 An Honest Speculation for the Rationalist Mind
 
+<!-- AISWEEP-OLD
 The dharmic continuum supplies the ground for this speculation. The reconstruction supplied here differs from the pyramid's speculation in one structural respect: it begins with humility. The ground comes from the continuum itself: the seers saw, the Vedas are heard, the corpus is without human authorship, speech drifts, and the Vedas remain the primary measure. The reconstruction is mine: the Vedas carry an engineered linguistic architecture; the grammatical disciplines decoded that architecture; Pāṇini compressed it into the working calibrant for the speech mode. The dharmic continuum did not need to say all of this. It preserved the architecture. The reconstruction makes explicit what the asuric machinery obscured: that the preserved architecture supports this speculation better than the pyramid's.
+AISWEEP-END -->
+This speculation stands on ground the dharmic continuum supplies, and it differs from the pyramid's speculation in one structural respect: it begins with humility. The ground comes from the continuum itself: the seers saw, the Vedas are heard, the corpus is without human authorship, speech drifts, and the Vedas remain the primary measure. The reconstruction is mine: the Vedas carry an engineered linguistic architecture; the grammatical disciplines decoded that architecture; Pāṇini compressed it into the working calibrant for the speech mode. The dharmic continuum did not need to say all of this. It preserved the architecture. The reconstruction makes explicit what the asuric machinery obscured: that the preserved architecture supports this speculation better than the pyramid's.
 
 1. Sanskrit enters the historical record already engineered. Who specified its architecture, when that specification occurred, and how it entered the human world are not questions answered here.
 2. The continuum knows one thing at the origin: the *ṛṣis* were **मन्त्रद्रष्टारः (*mantra-draṣṭāraḥ*)** — seers of the mantras. They saw. Everyone after them heard. That is why the corpus is **श्रुति (*śruti*)** — that which is heard.

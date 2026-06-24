@@ -28,9 +28,15 @@ One test of engineering is: can Sanskrit build larger forms without blurring the
 
 That is **assembly without blur**.
 
+<!-- AISWEEP-OLD
 The epigraph confirms the architecture in a Vedic form: the *ṛks* reside in the **अक्षर (*akṣara*)** — the imperishable syllable, the highest heaven — where the devas are seated. What will one who does not know that do with the *ṛc*? Those who know it gather here.[NOTE: rigveda-1-164-39-akshara-assembly]
+AISWEEP-END -->
+In a Vedic form, the *ṛks* reside in the **अक्षर (*akṣara*)** — the imperishable syllable, the highest heaven — where the devas are seated. What will one who does not know that do with the *ṛc*? Those who know it gather here.[NOTE: rigveda-1-164-39-akshara-assembly]
 
+<!-- AISWEEP-OLD
 The verse does more than a grammar manual could do. It places the reader inside the relation under study: a completed utterance depends on the recoverable structure beneath it. The *ṛc* is the assembled utterance. The one who does not know what holds it cannot use it properly.
+AISWEEP-END -->
+The verse places the reader inside the relation under study, where a grammar manual could only describe it: a completed utterance depends on the recoverable structure beneath it. The *ṛc* is the assembled utterance. The one who does not know what holds it cannot use it properly.
 
 And what holds it — the *akṣara* — the Veda calls **परमे व्योमन् (*parame vyoman*)**, the highest heaven: the supreme ground is the **lower fractal** scale, found by going down, not up.
 
@@ -52,7 +58,10 @@ Sanskrit bonds the atom in two main directions. A head-bond enters before the at
 
 An *upasargaḥ* redirects the atom's field of action. A *pratyayaḥ* stabilizes the molecule's class: action, agent, deed, instrument, state, obligation, and so on. A **विभक्तिः (*vibhaktiḥ*)** or **तिङ्-प्रत्ययः (*tiṅ-pratyayaḥ*)** then prepares the form for sentence use by fixing role, number, person, and relation.
 
+<!-- AISWEEP-OLD
 The governing issue is recoverability. The bond remains visible enough for the form to be analyzed, taught, corrected, recited, and recalibrated.
+AISWEEP-END -->
+The bond remains visible enough for the form to be analyzed, taught, corrected, recited, and recalibrated. Recoverability governs the procedure.
 
 The philological dogma treats the *upasargaḥ* as a preverb: a spatial particle that gradually fused with the verb through ordinary linguistic evolution. That may be a fair description of some natural-language histories. Sanskrit runs a different operation.
 
@@ -62,7 +71,10 @@ A *pratyayaḥ* performs the other side of the bonding procedure, completing the
 
 Sanskrit bonds semantic atoms into usable molecules, and the bond changes grammatical behavior while preserving recoverable identity — which is exactly what makes the chemistry analogy fit.
 
+<!-- AISWEEP-OLD
 The figures keep the timing layer visible. The ruler below each strip shows the *mātrā* scale in half-*mātrā* steps, so the reader can see that sentence assembly still preserves measured sound.
+AISWEEP-END -->
+The ruler below each strip shows the *mātrā* scale in half-*mātrā* steps, so the figures keep the timing layer visible: the reader can see that sentence assembly still preserves measured sound.
 
 ![Figure 12.2 — Ch12 visual key: atom, head-bond, tail-bond, role-ending, nasal consonant, visarga, and half-*mātrā* ruler.](figures/building_vakya/visual_key.svg){#fig:building-vakya-visual-key width=100%}
 
@@ -94,7 +106,10 @@ The tail-bonds show the same principle from the other side. Bare *kṛ* can beco
 
 Not every atom behaves like *kṛ*. **ह्लाद् (*hlād*)** is a higher-*mātrā*, lower-reactivity atom in the joined analysis.[NOTE: hlad-contrast-atom] It still bonds and generates, but it does not open the same wide molecular field, and Sanskrit's bonding procedure handles both kinds: the highly reactive atoms that build large conceptual territories, and the specialized atoms that carry the narrower semantic work.
 
+<!-- AISWEEP-OLD
 The demonstration follows *kṛ* because it makes the procedure visible. Once the reader sees the procedure on the most reactive atom, the same logic can be recognized elsewhere.
+AISWEEP-END -->
+*Kṛ* makes the procedure visible, and the demonstration follows it for that reason. Once the reader sees the procedure on the most reactive atom, the same logic can be recognized elsewhere.
 
 ![Figure 12.3 — The high-reactivity कृ (*kṛ*) atom beside the specialized ह्लाद् (*hlād*) atom.](figures/building_vakya/kr_hlad.svg){#fig:building-vakya-kr-hlad width=100%}
 
@@ -156,7 +171,10 @@ Read the table procedurally. Down the rows, the head-bond changes the field: non
 
 This is molecular construction, not a list of unrelated words later collected by a dictionary.
 
+<!-- AISWEEP-OLD
 The matrix also protects the argument from overstatement. Sanskrit's generativity is governed. Productive axes permit a large field of construction because the bonds are lawful; they do not make every possible-looking form equally real.
+AISWEEP-END -->
+Sanskrit's generativity is governed, and the matrix records the limit as well as the reach. Productive axes permit a large field of construction because the bonds are lawful; they do not make every possible-looking form equally real.
 
 The *racanā* × *gaṇa* matrix made the same point at the previous scale — some cells heavy, some light, some empty — and the molecular matrix repeats it: each filled cell records a procedure.
 
@@ -176,7 +194,10 @@ Returning to the epigraph line:
 >
 > *yas tan na veda kim ṛcā kariṣyati*
 
+<!-- AISWEEP-OLD
 The line contains a compact sentence assembly. In **ऋचा (*ṛcā*)**, the **-ā** signals the instrumental relation: *by the ṛc*, *with the ṛc*, *through the ṛc*. The relation is carried inside the *padam*.
+AISWEEP-END -->
+In **ऋचा (*ṛcā*)**, the **-ā** signals the instrumental relation: *by the ṛc*, *with the ṛc*, *through the ṛc*. The relation is carried inside the *padam*.
 
 The same is true of **किम् (*kim*)**, **तत् (*tat*)**, and **यः (*yaḥ*)**. Each form has entered sentence use with its role carried by form. The parts carry their own relational signatures.
 
@@ -277,7 +298,10 @@ Chapter 18 §18.6 develops the worked examples: *devaḥ* becoming Latin *deus*;
 
 The *dhātuḥ* now stands as an atomic construction, and the atom that entered operation has become action. The next scale follows: the atom becomes *śabda*, the molecule becomes *padam*, and the *padam* enters the *vākya*.
 
+<!-- AISWEEP-OLD
 The governing principle is assembly without loss. The sentence is larger than the atom, yet the atom stays recoverable inside it — and so does every layer between: the sonomers because Sanskrit's operations still work at the sonomeric level, the head-bond and tail-bond because they leave grammatical and semantic signatures, the role-ending because *vibhaktiḥ* and *tiṅ-pratyayaḥ* carry relation, number, person, and role.
+AISWEEP-END -->
+Assembly proceeds without loss: the sentence is larger than the atom, yet the atom stays recoverable inside it — and so does every layer between: the sonomers because Sanskrit's operations still work at the sonomeric level, the head-bond and tail-bond because they leave grammatical and semantic signatures, the role-ending because *vibhaktiḥ* and *tiṅ-pratyayaḥ* carry relation, number, person, and role.
 
 That recoverability is what lets the sentence be interpreted, recited, corrected, and calibrated. Sanskrit generates larger forms while keeping the path back to their construction visible. The *vākya* is therefore not a loose string of words. It is an assembly whose lower layers remain available.
 

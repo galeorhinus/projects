@@ -41,11 +41,17 @@ PIE is the conlang the conlangers' craft disowns.
 
 The standard defense retreats to bookkeeping. It says: yes, the forms are hypothetical; yes, nobody claims to have a recording of PIE; yes, the asterisk denotes reconstruction. The starred forms are only labels for systematic correspondences.
 
+<!-- AISWEEP-OLD
 Placement exposes the problem.
 
-When a dictionary writes "from PIE \*méh₂tēr" at the deepest point in an etymological chain, it is not merely filing a correspondence. It is assigning ancestry. The asterisk is a procedural disclaimer. The chain position is an ontological commitment. The casual reader does not read "summary label for a correspondence set." The reader reads "source." The bookkeeping label has been doing ancestor work continuously, every time the label has been deployed.
+When a dictionary writes "from PIE \*méh₂tēr" at the deepest point in an etymological chain, it is not merely filing a correspondence. It is assigning ancestry.
+AISWEEP-END -->
+When a dictionary writes "from PIE \*méh₂tēr" at the deepest point in an etymological chain, it is not merely filing a correspondence. It is assigning ancestry. Placement does that work. The asterisk is a procedural disclaimer. The chain position is an ontological commitment. The casual reader does not read "summary label for a correspondence set." The reader reads "source." The bookkeeping label has been doing ancestor work continuously, every time the label has been deployed.
 
-The logic breaks again. PIE cannot be the etymon of any word. A reconstructed form is not an etymon. The endpoint of going backward in time is the *earliest* real form, not a reconstruction the procedure has projected behind that form. A reconstruction may summarize features shared by real forms; it cannot be the source from which those forms descend unless the reconstruction corresponds to a real spoken form. *Mātṛ* exists. *Māter* exists. *Mētēr* exists. **\*méh₂tēr** does not.
+<!-- AISWEEP-OLD
+The logic breaks again. PIE cannot be the etymon of any word. A reconstructed form is not an etymon.
+AISWEEP-END -->
+PIE cannot be the etymon of any word, and the logic breaks again on that fact. A reconstructed form is not an etymon. The endpoint of going backward in time is the *earliest* real form, not a reconstruction the procedure has projected behind that form. A reconstruction may summarize features shared by real forms; it cannot be the source from which those forms descend unless the reconstruction corresponds to a real spoken form. *Mātṛ* exists. *Māter* exists. *Mētēr* exists. **\*méh₂tēr** does not.
 
 The procedural reconstruction is exposed for what it is — an average of the reflections, misrepresented as a source. The bookkeeping claim collapses.
 
@@ -75,7 +81,10 @@ PIE cannot account for the calibration matrix. A precursor language does not con
 
 The failures are not incidental. They are category failures. PIE is trying to explain an architecture with a genealogy. The conceptual category is wrong before any specific reconstruction is wrong.
 
-At the structural level, the conflict is simple. PIE is flat: one projected ancestor used to explain many descendants. Sanskrit is fractal: the same engineering signature recurs across sonomer, *akṣara*, *dhātuḥ*, *śabda*, *vākya*, *sūtra*, and calibration matrix. A flat ancestor cannot explain a fractal architecture. It can only demote that architecture into a descendant and protect the pyramid from Sanskrit-as-calibrant.
+<!-- AISWEEP-OLD
+At the structural level, the conflict is simple. PIE is flat: one projected ancestor used to explain many descendants. Sanskrit is fractal: the same engineering signature recurs across sonomer, *akṣara*, *dhātuḥ*, *śabda*, *vākya*, *sūtra*, and calibration matrix.
+AISWEEP-END -->
+PIE is flat: one projected ancestor used to explain many descendants. Sanskrit is fractal: the same engineering signature recurs across sonomer, *akṣara*, *dhātuḥ*, *śabda*, *vākya*, *sūtra*, and calibration matrix. A flat ancestor cannot explain a fractal architecture. It can only demote that architecture into a descendant and protect the pyramid from Sanskrit-as-calibrant.
 
 ## 18.4 The Cementing
 
@@ -97,7 +106,10 @@ The event lanes below the chart explain why the timing matters. The first lane i
 
 The lanes do not claim that one event mechanically caused the next PIE revision. They show the strategic environment. Race science retreats; the racial Arya thesis marches on. Sanskrit reasserts itself; PIE does not disappear. It adjusts.
 
-Against that background, the curve is revealing. Brugmann's reconstruction falls to **0.73**. The standard / laryngeal reconstruction falls to **0.64**. The glottalic turn falls furthest, to **0.48**. Then the modern reconstruction rises again to **0.64**. The pattern is not the discovery of a stable ancestor. It is a reconstruction moving around Sanskrit: close at first, then away, then back toward Sanskrit-like material when Sanskrit can no longer be ignored.
+<!-- AISWEEP-OLD
+Against that background, the curve is revealing. Brugmann's reconstruction falls to **0.73**. The standard / laryngeal reconstruction falls to **0.64**. The glottalic turn falls furthest, to **0.48**. Then the modern reconstruction rises again to **0.64**.
+AISWEEP-END -->
+Brugmann's reconstruction falls to **0.73**. The standard / laryngeal reconstruction falls to **0.64**. The glottalic turn falls furthest, to **0.48**. Then the modern reconstruction rises again to **0.64** — against that background, a revealing curve. The pattern is not the discovery of a stable ancestor. It is a reconstruction moving around Sanskrit: close at first, then away, then back toward Sanskrit-like material when Sanskrit can no longer be ignored.
 
 ## 18.5 Mother, Yoke, and the Dictionary Shift
 
@@ -140,7 +152,10 @@ The Sanskrit side has the architecture visible:
 
 One chain starts from a real Sanskrit *dhātu*. The other starts from a starred form.
 
-The pattern holds across word categories. The Sanskrit side is documented through the engineering architecture; only the contact-language end is treated by the Western philological account as a sibling of an invented PIE form. PIE is suspended above Sanskrit as an imaginary ancestor. It does not explain the ground from which Sanskrit actually rises. The ground is the Indian mouth, the Indian sound-field, the *varṇamālā*, the *dhātavaḥ*, the grammar, the *Vedas*, and the anti-entropy preservation system that has held the engineered architecture across thousands of years.
+<!-- AISWEEP-OLD
+The pattern holds across word categories. The Sanskrit side is documented through the engineering architecture; only the contact-language end is treated by the Western philological account as a sibling of an invented PIE form.
+AISWEEP-END -->
+Across word categories the Sanskrit side is documented through the engineering architecture; only the contact-language end is treated by the Western philological account as a sibling of an invented PIE form. PIE is suspended above Sanskrit as an imaginary ancestor. It does not explain the ground from which Sanskrit actually rises. The ground is the Indian mouth, the Indian sound-field, the *varṇamālā*, the *dhātavaḥ*, the grammar, the *Vedas*, and the anti-entropy preservation system that has held the engineered architecture across thousands of years.
 
 PIE can organize a comparative label; it cannot supply an etymon. The asterisk signals a non-existence, and non-existence is not a source. The etymon of *mother* is Sanskrit *mātṛ*. The etymon of *father* is Sanskrit *pitṛ*. The reflections — **प्रतिबिम्ब (*Pratibimba*)** — that the calibrated languages carry are the calibrant's footprint, not evidence of a vanished ancestor.
 

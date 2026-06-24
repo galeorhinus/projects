@@ -2,7 +2,10 @@
 
 After the calibration matrix comes sound, where the formed Speech of Chapter 9 carries her radiance as audible preservation.
 
+<!-- AISWEEP-OLD
 The evidence is audible. The *pāṭhas* are living recitation systems, maintained in identifiable lineages, taught in *gurukulas*, examined by teachers, performed before communities, and available to the ear.
+AISWEEP-END -->
+The *pāṭhas* are living recitation systems, maintained in identifiable lineages, taught in *gurukulas*, examined by teachers, performed before communities, and available to the ear.
 
 The *saṃhitā-pāṭha* is recited in temples and homes across the subcontinent and the diaspora. The *krama-pāṭha* is taught by lineages that still test it formally. The *ghana-pāṭha* is mastered by senior reciters who carry a title recognized across Vedic communities. These are the operational layer of the preservation system mapped in Chapter 14.
 
@@ -46,7 +49,10 @@ The *pāṭhas* are an error-detecting code in continuous human operation.
 
 ## 15.3 Combinatorial Re-encoding
 
+<!-- AISWEEP-OLD
 The engineering is recognizable. Modern information theory uses redundancy, parity, checksums, and error-correcting codes to detect and localize corruption. The *pāṭhas* do the same kind of work through sound, memory, sequence, and trained bodies.
+AISWEEP-END -->
+Modern information theory uses redundancy, parity, checksums, and error-correcting codes to detect and localize corruption — engineering recognizable on sight. The *pāṭhas* do the same kind of work through sound, memory, sequence, and trained bodies.
 
 The *krama-pāṭha* checks word order. If word *n* appears in pair *(n-1, n)* and then in pair *(n, n+1)*, a swap has consequences on both sides. The adjacent pairs stop validating the sequence.
 
