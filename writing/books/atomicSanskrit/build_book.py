@@ -9,9 +9,8 @@ Phases (run any one, or `all` for the full pipeline):
   all      — run stubs → assemble → pdf (default)
   reference — build the Source and Reference Companion PDF
               (technical appendices + full long-form endnotes;
-              reads as_dossier_front.md and as_dossier.yaml; emits
+              reads as_reference_front.md and as_reference.yaml; emits
              build/atomic_sanskrit_reference.{layout}.pdf)
-  dossier  — compatibility alias for `reference`
 
 Usage:
   python3 build_book.py                              # full pipeline (default layout)
@@ -19,19 +18,22 @@ Usage:
   python3 build_book.py assemble                     # just concatenate
   python3 build_book.py pdf                          # just render the PDF
   python3 build_book.py stubs --force                # overwrite existing stub files
+  python3 build_book.py grayscale-images             # create/update figures/*.gray.png
+  python3 build_book.py grayscale-images --force     # recreate all figures/*.gray.png
   python3 build_book.py pdf --layout book-on-letter  # book-mock layout on letter paper
   python3 build_book.py pdf --layout trade           # true 6×9 trim size
+  python3 build_book.py pdf --layout trade-crop      # 6×9 trim on letter paper with crop marks
   python3 build_book.py pdf --layout phone           # 3×6 phone-reading trim
   python3 build_book.py pdf --endnotes short         # short-form endnotes (printed-book mode)
   python3 build_book.py pdf --endnotes full          # full-form endnotes (default — reference-grade)
   python3 build_book.py reference --layout trade     # Source and Reference Companion as standalone PDF
-  python3 build_book.py dossier --layout trade       # compatibility alias
 
 Layouts:
   letter           8.5×11 paper, 1in margins. Manuscript review.
   book-on-letter   8.5×11 paper with a centered ~4.5×7.5 text block — looks
                    like a 6×9 book page printed inside letter margins.
   trade            True 6×9 trim. For print-on-demand uploads.
+  trade-crop       Letter paper with centered 6×9 trim box and crop marks.
   phone            3×6 trim with 0.2in margins. Sized for phone-screen reading.
 
 Endnote modes:
@@ -43,15 +45,24 @@ Endnote modes:
                    placeholder. Output files are suffixed with .short so the
                    two modes can coexist (e.g., atomic_sanskrit.trade.short.pdf).
 
+Grayscale images:
+  grayscale-images scans figures/**/*.png, skips *.gray.png sources, and writes
+                   sibling *.gray.png files. Existing grayscale files are
+                   regenerated only when missing, older than the color source,
+                   or --force is passed. PDF assembly prefers *.gray.png when
+                   present, then *.png, then the original SVG link.
+
 Dependencies:
   - pandoc  (brew install pandoc)
   - xelatex (brew install --cask basictex   or full mactex)
-  - Fonts: see as_book.yaml (currently Charter + Adobe Devanagari)
+  - Fonts: see as_book.yaml (currently EB Garamond + Adobe Devanagari)
 
 Canonical metadata source:
   as_book.yaml — title, subtitle, author, fonts, document structure. Edit
-  values there; this script reads from it via pandoc's --metadata-file.
+values there; this script reads from it via pandoc's --metadata-file.
 """
+
+from __future__ import annotations
 
 import argparse
 import os
@@ -64,8 +75,8 @@ from pathlib import Path
 BOOK_DIR = Path(__file__).resolve().parent
 BUILD_DIR = BOOK_DIR / "build"
 METADATA_FILE = BOOK_DIR / "as_book.yaml"
-DOSSIER_METADATA_FILE = BOOK_DIR / "as_dossier.yaml"
-DOSSIER_FRONT_FILE = BOOK_DIR / "as_dossier_front.md"
+REFERENCE_METADATA_FILE = BOOK_DIR / "as_reference.yaml"
+REFERENCE_FRONT_FILE = BOOK_DIR / "as_reference_front.md"
 REFERENCE_APPENDIX_GLOB = "as_reference_*.md"
 PREAMBLE_TEMPLATE = BOOK_DIR / "templates" / "devanagari-preamble.tex.in"
 
@@ -125,6 +136,8 @@ LAYOUTS = {
     "book-on-letter": "paperwidth=8.5in,paperheight=11in,textwidth=4.5in,textheight=7.5in,centering",
     # True 6×9 trim with book-style asymmetric margins (inner > outer for binding).
     "trade": "paperwidth=6in,paperheight=9in,inner=0.75in,outer=0.5in,top=0.5in,bottom=0.75in",
+    # 6×9 trim centered on letter paper, with crop marks for local proof printing.
+    "trade-crop": "paperwidth=8.5in,paperheight=11in,layoutwidth=6in,layoutheight=9in,layouthoffset=1.25in,layoutvoffset=1in,inner=0.75in,outer=0.5in,top=0.5in,bottom=0.75in,showcrop",
     # Narrow 3×6 trim with minimal margins — sized for phone-screen reading.
     # ~2.6×5.6 text block (~81% of page area is text) maximizes readable area.
     "phone": "paperwidth=3.5in,paperheight=7in,margin=0.1in",
@@ -189,7 +202,7 @@ SCRIPT_WRAPS: list[tuple[str, re.Pattern]] = [
         r"✓✗"      # ✓ ✗ (table cell glyphs)
         r"₀-₉"     # subscript digits ₀-₉
         r"ʷʾʿ"     # modifier letters ʷ ʾ ʿ
-        r"ʈʂʔ"     # rare phonetic symbols used in inventory/endnote examples
+        r"ɑɓɗʄɠʈʂʔ"  # rare phonetic symbols used in inventory/endnote examples
         r"ēō"      # ē ō (Latin with macron)
         r"ḱẓ"      # ḱ ẓ
         r"⊇"       # superset-or-equal (Ch 18 §18.x: Sanskrit ⊇ PIE) —
@@ -211,25 +224,101 @@ def wrap_scripts_for_latex(md_text: str) -> str:
     return md_text
 
 
-SVG_IMAGE_RE = re.compile(r"(!\[[^\]]*\]\()([^)\s]+\.svg)(\)(?:\{[^}\n]*\})?)")
+PDF_IMAGE_RE = re.compile(r"(!\[[^\]]*\]\()([^)\s]+\.(?:svg|png))(\)(?:\{[^}\n]*\})?)")
+
+
+def gray_png_path(path: Path) -> Path:
+    return path.with_suffix(".gray.png")
 
 
 def prefer_png_images_for_pdf(md_text: str) -> str:
-    """Use sibling PNGs for PDF builds when a Markdown image points at SVG.
+    """Use grayscale/raster siblings for PDF builds when available.
 
     Manuscript sources stay canonical with SVG links. The assembled Markdown
-    handed to Pandoc uses `figure.png` only when it exists beside `figure.svg`,
-    preserving the caption and any trailing Pandoc image attributes.
+    handed to Pandoc uses `figure.gray.png` when it exists, then `figure.png`
+    when it exists beside `figure.svg`, preserving the caption and any trailing
+    Pandoc image attributes.
     """
     def replace(match: re.Match) -> str:
         prefix, image_path, suffix = match.groups()
-        svg_path = BOOK_DIR / image_path
-        png_path = svg_path.with_suffix(".png")
-        if png_path.exists():
-            return f"{prefix}{png_path.relative_to(BOOK_DIR).as_posix()}{suffix}"
+        source_path = BOOK_DIR / image_path
+        if source_path.name.endswith(".gray.png"):
+            return match.group(0)
+        gray_path = gray_png_path(source_path)
+        if gray_path.exists():
+            return f"{prefix}{gray_path.relative_to(BOOK_DIR).as_posix()}{suffix}"
+        if source_path.suffix.lower() == ".svg":
+            png_path = source_path.with_suffix(".png")
+            if png_path.exists():
+                return f"{prefix}{png_path.relative_to(BOOK_DIR).as_posix()}{suffix}"
         return match.group(0)
 
-    return SVG_IMAGE_RE.sub(replace, md_text)
+    return PDF_IMAGE_RE.sub(replace, md_text)
+
+
+def grayscale_command(source: Path, target: Path) -> list[str] | None:
+    if magick := shutil.which("magick"):
+        return [magick, str(source), "-colorspace", "Gray", "-strip", str(target)]
+    if convert := shutil.which("convert"):
+        return [convert, str(source), "-colorspace", "Gray", "-strip", str(target)]
+    if sips := shutil.which("sips"):
+        gray_profile = Path("/System/Library/ColorSync/Profiles/Generic Gray Profile.icc")
+        if gray_profile.exists():
+            return [
+                sips,
+                "-s", "format", "png",
+                "-m", str(gray_profile),
+                str(source),
+                "--out", str(target),
+            ]
+    return None
+
+
+def cmd_grayscale_images(force: bool = False) -> int:
+    """Create/update grayscale sibling PNGs under figures/."""
+    figures_dir = BOOK_DIR / "figures"
+    if not figures_dir.exists():
+        print(f"Missing: {figures_dir.relative_to(BOOK_DIR)}", file=sys.stderr)
+        return 1
+
+    sources = sorted(
+        path for path in figures_dir.rglob("*.png")
+        if not path.name.endswith(".gray.png")
+    )
+    if not sources:
+        print("No figure PNGs found.")
+        return 0
+
+    converted = skipped = 0
+    for source in sources:
+        target = gray_png_path(source)
+        if (
+            not force
+            and target.exists()
+            and target.stat().st_mtime >= source.stat().st_mtime
+        ):
+            skipped += 1
+            continue
+
+        cmd = grayscale_command(source, target)
+        if cmd is None:
+            print(
+                "No grayscale converter found. Install ImageMagick (`magick`) "
+                "or run on macOS with `sips` and the Generic Gray profile.",
+                file=sys.stderr,
+            )
+            return 1
+
+        result = subprocess.run(cmd, capture_output=True, text=True)
+        if result.returncode != 0:
+            print(f"Grayscale conversion failed: {source.relative_to(BOOK_DIR)}", file=sys.stderr)
+            print(result.stderr or result.stdout, file=sys.stderr)
+            return result.returncode
+        converted += 1
+        print(f"  gray {target.relative_to(BOOK_DIR)}")
+
+    print(f"Grayscale images: {converted} updated, {skipped} already current.")
+    return 0
 
 
 # Inline note-marker handling. Each `[NOTE: stub-name]` in chapter prose is
@@ -728,33 +817,36 @@ def section_join(sections: list[str]) -> list[str]:
     return joined
 
 
-def cmd_dossier(layout: str = "letter") -> int:
+def cmd_reference(layout: str = "letter") -> int:
     """Build the Source and Reference Companion as a standalone PDF.
 
     Reads four sources:
-      - as_dossier_front.md  — front matter prose (preface + navigation)
+      - as_reference_front.md  — front matter prose (preface + navigation)
       - as_reference_*.md    — reference-only technical appendices
       - as_endnotes.md       — endnote entries in their topical-cluster order
-      - as_dossier.yaml      — companion-specific pandoc metadata (title, etc.)
+      - as_reference.yaml    — companion-specific pandoc metadata (title, etc.)
 
     Promotes the entry headings from ### (subsection) to ## (section) so the
     PDF hierarchy under the Endnotes chapter is clean. Writes
     build/atomic_sanskrit_reference.md and renders the PDF.
     """
     BUILD_DIR.mkdir(exist_ok=True)
-    if not DOSSIER_FRONT_FILE.exists():
-        print(f"Missing: {DOSSIER_FRONT_FILE.name}", file=sys.stderr)
+    if not REFERENCE_FRONT_FILE.exists():
+        print(f"Missing: {REFERENCE_FRONT_FILE.name}", file=sys.stderr)
         return 1
-    if not DOSSIER_METADATA_FILE.exists():
-        print(f"Missing: {DOSSIER_METADATA_FILE.name}", file=sys.stderr)
+    if not REFERENCE_METADATA_FILE.exists():
+        print(f"Missing: {REFERENCE_METADATA_FILE.name}", file=sys.stderr)
         return 1
     endnotes_path = BOOK_DIR / "as_endnotes.md"
     if not endnotes_path.exists():
         print(f"Missing: {endnotes_path.name}", file=sys.stderr)
         return 1
 
-    front = DOSSIER_FRONT_FILE.read_text().rstrip()
-    reference_files = sorted(BOOK_DIR.glob(REFERENCE_APPENDIX_GLOB))
+    front = REFERENCE_FRONT_FILE.read_text().rstrip()
+    reference_files = sorted(
+        path for path in BOOK_DIR.glob(REFERENCE_APPENDIX_GLOB)
+        if path != REFERENCE_FRONT_FILE
+    )
     reference_sections = [path.read_text().rstrip() for path in reference_files]
 
     # Read endnotes source as-is, then strip its existing top-line header note
@@ -812,7 +904,7 @@ def cmd_dossier(layout: str = "letter") -> int:
     # the companion's font name (which currently matches the book's; the
     # template substitution still goes through so the two pipelines are
     # symmetric).
-    devanagari_font = read_yaml_value(DOSSIER_METADATA_FILE, "devanagarifont")
+    devanagari_font = read_yaml_value(REFERENCE_METADATA_FILE, "devanagarifont")
     preamble_text = PREAMBLE_TEMPLATE.read_text().replace("__DEVANAGARIFONT__", devanagari_font)
     generated_preamble = BUILD_DIR / "devanagari-preamble.tex"
     generated_preamble.write_text(preamble_text)
@@ -823,7 +915,7 @@ def cmd_dossier(layout: str = "letter") -> int:
         str(md_path),
         "-o", str(pdf_path),
         "--pdf-engine=xelatex",
-        "--metadata-file", str(DOSSIER_METADATA_FILE),
+        "--metadata-file", str(REFERENCE_METADATA_FILE),
         "-V", f"geometry:{geometry}",
         "-H", str(generated_preamble),
     ]
@@ -849,14 +941,17 @@ def main() -> int:
     )
     parser.add_argument(
         "phase",
-        choices=["stubs", "assemble", "pdf", "all", "reference", "dossier"],
+        choices=["stubs", "assemble", "pdf", "all", "reference", "grayscale-images"],
         nargs="?",
         default="all",
         help="Pipeline phase to run (default: all). 'reference' builds the "
-             "Source and Reference Companion as a standalone PDF; 'dossier' is "
-             "a compatibility alias.",
+             "Source and Reference Companion as a standalone PDF.",
     )
-    parser.add_argument("--force", action="store_true", help="Overwrite existing stub files")
+    parser.add_argument(
+        "--force",
+        action="store_true",
+        help="Overwrite existing stub files or regenerate all grayscale images",
+    )
     parser.add_argument(
         "--layout",
         choices=list(LAYOUTS),
@@ -881,8 +976,10 @@ def main() -> int:
         return cmd_assemble(endnotes_mode=args.endnotes)
     if args.phase == "pdf":
         return cmd_pdf(layout=args.layout, endnotes_mode=args.endnotes)
-    if args.phase in {"reference", "dossier"}:
-        return cmd_dossier(layout=args.layout)
+    if args.phase == "reference":
+        return cmd_reference(layout=args.layout)
+    if args.phase == "grayscale-images":
+        return cmd_grayscale_images(force=args.force)
     # all
     if (rc := cmd_stubs(force=args.force)) != 0:
         return rc
