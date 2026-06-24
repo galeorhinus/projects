@@ -15,6 +15,12 @@ Fractality operates in nature and in human-created order. Sanskrit's own categor
 
 Two civilizational fractals stand against each other in the record: the swastika and the pyramid. The swastika — *su-asti*, "well-being," "may it be good" — is the *saṃskṛti* fractal: created order aligned with welfare. The pyramid is the *vikṛti* fractal: created order bent into hierarchy, apex authority, extracted labor, controlled doctrine, and withheld light.
 
+<!-- AISWEEP-OLD
 The object is architecture. History remembers the attacks on that architecture by asuric formations across time — ancient, imperial, colonial, and modern — but the attacks do not define the architecture. They reveal why it threatens the pyramid.
+AISWEEP-END -->
+History remembers the attacks on this architecture by asuric formations across time — ancient, imperial, colonial, and modern — but the attacks do not define the architecture; they reveal why it threatens the pyramid. The architecture is the object.
 
+<!-- AISWEEP-OLD
 The full civilizational meaning of that opposition belongs to later volumes. This book begins with the linguistic case.
+AISWEEP-END -->
+Later volumes carry the full civilizational meaning of that opposition. This book begins with the linguistic case.

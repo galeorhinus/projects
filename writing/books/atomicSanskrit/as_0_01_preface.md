@@ -22,7 +22,10 @@ The Sun has been eclipsed.
 
 The Vedic mantra above precisely diagnoses the condition.[NOTE: rigveda-5-40-5-svarbhanu-eclipse] Svarbhānu the asura pierces Sūrya with darkness, and the worlds look about in confusion, like one who no longer knows the field. The wound is not only darkness. It is field-loss: **अक्षेत्रवित् (*akṣetravit*)**, the state in which the light remains present but the terrain can no longer be discerned.
 
+<!-- AISWEEP-OLD
 That verse is the Vedic diagnostic for the condition in which Sanskrit stands before the modern world. Sanskrit is Sūrya: radiant, stable, generative, engineered order. The asuric pyramid is Svarbhānu: the apex-form and its actor-network — he can neither build such an order nor bear alternative to his own. Proto-Indo-European, or PIE, is the eclipse-device, the Rāhu-like head placed over the Sun: an ancestor with no speakers, no body, no living mouth, made immortal precisely because it was never alive enough to die.
+AISWEEP-END -->
+Sanskrit stands before the modern world in exactly that condition. Sanskrit is Sūrya: radiant, stable, generative, engineered order. The asuric pyramid is Svarbhānu: the apex-form and its actor-network — he can neither build such an order nor bear alternative to his own. Proto-Indo-European, or PIE, is the eclipse-device, the Rāhu-like head placed over the Sun: an ancestor with no speakers, no body, no living mouth, made immortal precisely because it was never alive enough to die.
 
 The schematic below assigns the roles before the argument begins: Sanskrit as the Sun, the segmented pyramid as the eclipse-body, and the reader's world-field darkened by what stands between them.
 
@@ -30,7 +33,10 @@ The schematic below assigns the roles before the argument begins: Sanskrit as th
 
 The eclipse did not make Sanskrit vanish. Sanskrit has remained visible, audible, recited, parsed, taught, and documented across thousands of years. The language's own name says what it is. Its grammar says what it is. Its recitation lineages say what it is. Its architecture says what it is. What the eclipse darkened was the field around it. The pyramid taught the world to see Sanskrit in the wrong light. Not the Sun, but a daughter-language beneath an imagined parent. Not an architecture engineered against decay, but a botanical organism that grows and dies. Not the calibrant, but a standard codified late. Not an engineered sound-grid, but a mere alphabet. Not a script that makes sound visible, but a borrowed typology. Not the measure by which a family was read, but one sibling within it. Not the Vedic Matrix, but old literature, scripture, ritual material, and chronological evidence waiting to be dated. Each is a plate placed in front of the same Sun.
 
+<!-- AISWEEP-OLD
 The deeper injury is civilizational self-doubt. A civilization can continue reciting, teaching, parsing, and preserving the Sun, yet hesitate before its own categories because the field around them has been darkened. That hesitation is not organic humility. It is the effect of an eclipse.
+AISWEEP-END -->
+A civilization can continue reciting, teaching, parsing, and preserving the Sun, yet hesitate before its own categories because the field around them has been darkened — and that civilizational self-doubt is the deeper injury. The hesitation is not organic humility. It is the effect of an eclipse.
 
 A wiser age would not need this book. It would look at Sanskrit and *see* the architecture. It would listen to the Vedas and *hear* the engineering. It would see that the differences between the Vedic and worldly domains are part of that engineering. The argument has to be made because the present age has been trained to see *neither*. Its redundancy is deliberate: a field-blind age has become **मुग्ध (*mugdha*)**, bewildered before what remains present. The book repeats the point because confusion that has hardened into civilizational self-doubt can only be cleared with repetition.
 
@@ -62,7 +68,10 @@ The chapters that follow demonstrate the sequence: **Sanskrit was engineered. En
 
 Sanskrit is therefore the calibrant. Its architecture is fractal: the same calibration law recurs across sound, atom, grammar, recitation, memory, and transmission. Sanātan extends that pattern across domains; this volume begins with language because language makes the architecture audible.
 
+<!-- AISWEEP-OLD
 The evidence also appears in the words nearest the reader. **मातृ (*mātṛ*)** is not Sanskrit's cousin beside *mother*; it is the etymon. The English word is a **प्रतिबिम्ब (*Pratibimba*)** — a reflection of the original form.
+AISWEEP-END -->
+The words nearest the reader carry the same evidence. **मातृ (*mātṛ*)** is not Sanskrit's cousin beside *mother*; it is the etymon. The English word is a **प्रतिबिम्ब (*Pratibimba*)** — a reflection of the original form.
 
 ## The Boy's Question
 
@@ -83,7 +92,10 @@ That childhood question now opens the architectural claim. Sanskrit's free word 
 
 ## The Pyramid's Clock
 
+<!-- AISWEEP-OLD
 The pyramid's clock is part of the eclipse. **सनातन (*Sanātan*)** does not begin with a first day and does not terminate in a final end. Its time-sense is **कालचक्र (*kālacakra*)**, the wheel of time, held inside **अनादि (*anādi*)**, the beginningless, and **अनन्त (*ananta*)**, the endless.
+AISWEEP-END -->
+**सनातन (*Sanātan*)** does not begin with a first day and does not terminate in a final end. Its time-sense is **कालचक्र (*kālacakra*)**, the wheel of time, held inside **अनादि (*anādi*)**, the beginningless, and **अनन्त (*ananta*)**, the endless. Onto this the pyramid lays its clock — one more plate in the eclipse.
 
 **The beginningless and the endless deny the apex what it needs most: a first point it can own.**
 
