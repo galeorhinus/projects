@@ -14,7 +14,7 @@ author: Parag Tope
 lang: en-US
 
 # --- Typography ---
-mainfont: Charter                  # Latin + IAST diacritics
+mainfont: EB Garamond              # Latin + IAST diacritics
 devanagarifont: Adobe Devanagari   # custom variable; substituted into templates/devanagari-preamble.tex.in
 fontsize: 10.5pt
 linestretch: 1.15
