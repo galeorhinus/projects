@@ -118,7 +118,7 @@ The pyramid's account needs Vedic Sanskrit to have changed. Without change, the 
 
 The term is **calibrant**: a stable reference against which other systems align. A master clock calibrates the network. A laboratory standard calibrates instruments. A gauge block calibrates measurement. The calibrant is not calibrated by what it calibrates. If it drifted with the systems around it, it would cease to be a calibrant.
 
-Three tiers follow. Two are natural languages; what separates them is whether a calibrant is within reach.
+Languages sort into three tiers by their relation to that standard: the calibrant itself, and two kinds of natural language divided by a single fact — whether a calibrant is within reach.
 
 **Sanskrit is the calibrant.** The *Vedas* preserve the architecture. The *Aṣṭādhyāyī*, *padapāṭha*, *Prātiśākhya*, *Śikṣā*, and *Vedāṅga* disciplines document and transmit it. Drift is what they filter. *Gauḥ* stays *gauḥ*. The semantic field of **जड (*jaḍa*)** — inert, lifeless, dull-minded, cold-and-heavy — remains multi-valent because the dhātu-image remains operational.
 
