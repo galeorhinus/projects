@@ -150,28 +150,3 @@ The eleven surveys — four in the body, seven in this appendix — stack into a
 **The body's four-step ladder hits the cascade at four step-points.** Southern Survey (20), Forest-Belt Survey (18), Western IE Survey (14), Central Asian Survey (12) — each step is a measurable falling-off from the subcontinental ceiling. The seven appendix controls confirm that each step is real, is not driven by which three languages a survey set happens to use, and persists across alternate language choices the pyramid might insist on.
 
 Sanskrit's base coordinates are subcontinental. They live in the subcontinental mouth — south, central, north-western — across languages the machinery sorts into three different family classifications, and across languages the pyramid denies any classificatory relationship to. The classifications do not move the count. The geography does. The engineering thesis is consistent with the field. The transported-cargo story is not.
-
----
-
-## Draft notes (Appendix Part 4 v1 — first complete draft, 2026-06-08)
-
-**Purpose:** field-level supplement to Chapter 8. The body chapter runs a four-step polemic ladder (Southern, Forest-Belt, Western IE, Central Asian); this appendix carries the seven controls and the deep methodology so the body chapter can stay compact without losing the empirical backbone.
-
-**Section spine:**
-
-- §4.1 atlas method in depth
-- §§4.2–4.8 seven control surveys, one figure each
-- §4.9 coverage cascade with the four polemic conclusions (geographic monotone; IE classification inert; Iranian contact-vs-non-contact; AA family label inert)
-
-**Cross-references:** Chapter 8 §8.7 promises this appendix. §4.5 (NW Frontier 20/23) and §4.6 (non-contact Iranian 13/23) feed Chapter 16's retroflex-fingerprint argument.
-
-**Figures:** all 11 surveys at `figures/superset/sk_*.svg`; generator and per-language sources at `figures/_shared/toolkits/vocal_tract/configs/_generate_new_configs.py`.
-
-**Working trail:** `working/inventory_atlas_coverage_surveys.md` — per-figure metadata, verification queue, canvas-dimension table.
-
-**Pending verifications** (carried in the working doc §5):
-
-- Pashto's full retroflex set — Tegey & Robson; conservative drop of ɭ / ʐ unlikely to budge the 20/23 ceiling
-- Greek's lack of phonemic /h/ — would add 1 cell at GLO if restored
-- Burushaski's unclassified ʈʂ — atlas manner taxonomy has no retroflex-affricate row
-- Aspirated / ejective affricate collapse in Armenian and Georgian — atlas tracks place × manner but not ejective-vs-aspirated for affricates

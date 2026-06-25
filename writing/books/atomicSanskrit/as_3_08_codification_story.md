@@ -516,15 +516,3 @@ Sanskrit was not codified.
 Sanskrit was calibrated.
 
 Sanskrit was engineered.
-
----
-
-## Draft notes
-
-**Current length:** ~7,300 words after adding the same-timeline Sanskrit / English comparison.
-
-**Purpose:** final appendix, after Appendix Part 7, answering the standard reader objection: "Sanskrit changed continuously until Pāṇini codified it."
-
-**Endnote stubs introduced / reused:** `vedic-classical-circular-dating`, `panini-cites-pre-paninian-grammarians`, `siddhe-shabdarthasambandhe-mbh`, `calibration-audit-gap`, `mitanni-indic-technical-vocabulary`.
-
-**Cross-references to strengthen in final pass:** Preface two-axis terminology figure; Ch 1 Move 7 category-collapse argument; Ch 4 pre-Pāṇinian decoders + Patañjali; Ch 5 *apabhraṃśa* + three frames; Ch 10 compression and *dhāturacanā*; Ch 11 role-valency; Ch 14 calibration matrix; Appendix Part 6 numerical audit + Source and Reference Companion reproducibility; Appendix Part 7 Vedic-carrier demonstration.

@@ -291,30 +291,3 @@ The project requires Sanskrit fluency sufficient to read the *Prātiśākhya* an
 The architecture is waiting for its account. The philological machinery has examined the visible glyphs of Brāhmī. It has not decoded the system those glyphs render. The same engineering thesis the main chapters develop for Sanskrit applies, with proper substitution, to Brāhmī: the script is the *varṇamālā* made visible; the *varṇamālā* is the ordered sonomer architecture; the engineering predates the visible interface; and the engineering is Indic.
 
 The work is open.
-
----
-
-## Draft notes (Appendix Part 3 v3)
-
-**Word count:** ~4,400 prose words across nine sections after the sonomer-first restructure.
-
-**Structural change:** The appendix now follows the hierarchy named by the new title: sonomer first, audiograph second. The former audiography-first presentation has been rebuilt so that the reader receives the positive architecture before the Aramaic, abugida, Hangul, and Abrahamic-written-word prosecutions.
-
-**Section spine:**
-
-- §3.1 defines the hierarchy: sonomer → *varṇamālā* → *akṣara* → audiograph → *lipi*.
-- §3.2 exposes the interface trap and places the Brāhmī-from-Aramaic story beside the Sanskrit-from-PIE story.
-- §3.3 preserves the "brilliantly adapted" / heroic-erasure argument.
-- §3.4 gives the technical verdict: Aramaic can carry glyph influence, not sonomeric architecture.
-- §3.5 (added 2026-06-12) reverses the burden of explanation: the Aramaic-from-Brāhmī title as logic test, priority-is-not-causation / resemblance-is-not-genealogy methodology, the place-value-vs-Roman-numerals analogy in full, the theft inside "brilliantly adapted," closing on the four hammers. Sits between the technical verdict (§3.4) and the chronology counter (§3.6).
-- §3.6 moves the chronology objection after the technical case: stone preserves the pyramid, not the notebook.
-- §3.7 preserves the audiography coinage, the photography parallel, the Auditure pairing, the place-value / Kaplan displacement paragraph, and the seventh-category claim.
-- §3.8 now carries the three-design-case comparison (Sanskrit sound-grid / Arabic codified tradition / Korean engineered script), while preserving the Hangul control case and the audiographic-family scale table.
-- §3.9 identifies the foundational written-word claim and explains why the sonomer threatens it more deeply than the audiograph alone.
-- §3.10 reframes the invitation as the work ahead.
-
-**Standing terms preserved:** *sonomer*, *audiograph*, *audiography*, *audiographer*, *Auditure*, *foundational dogma*, *church of progress*, *priests of progress*, *asuric pyramid*, *fourth Abrahamic religion*, *heroic erasure*.
-
-**Endnote stubs preserved:** `brahmi-devanagari-structural-identity`, `kaplan-zero-erasure`, `sound-script-standard-matrix`.
-
-**Backward references:** Chapter 3 §3.2 (foundational + progressive dogmas); Chapter 3 §3.6 (*asuric pyramid* + *fourth Abrahamic religion*); Chapter 9 §9.6 (*akṣara* as audiograph + sonomer / audiograph distinction); Chapter 1 §1.6 (heroic erasure); Chapter 13 §13.3 (Brāhmī-from-Aramaic named without prosecution; *sāṃskṛtika* disqualification of writing); Chapter 13 §13.4 (*Auditure*); Chapter 14 §§14.1–14.2 (*Auditure* full development).
