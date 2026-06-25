@@ -252,7 +252,7 @@ The cure has been in the opening prayer all along.
   - §2.2 Table A.1 *The Choice of 1948* restored — substantive parallel-structure indictment device.
   - §2.8 Table A.2 *The Reframe* restored — substantive six-row structural compare-and-contrast.
   - §2.8: "What does the reframe offer Sanskrit?" + "What does the reframe offer the world?" Q+A paragraphs restored — substantive forward-looking content.
-  - Cross-references restored: Chapter 2 §2.5; Chapter 4 §4.2; Chapter 5 §5.2–5.3 + §5.4 + §5.6; Chapter 9; Chapter 12; Chapter 13; Chapter 17 §17.1 + §17.2; Preface (chronology section).
+  - Cross-references restored: Chapter 2 §2.5; Chapter 5 §5.2; Chapter 6 §6.2–6.3 + §6.4 + §6.7; Chapter 8; Chapter 12; Chapter 14; Chapter 17 §17.1 + §17.2; Preface (chronology section).
   - §2.7: *bhāṣāyām* + *chandasi* Devanagari first-use pairings preserved (Codex stripped).
   - §2.7: *sthāna* + *karaṇa* Devanagari first-use pairings restored.
   - §2.5: Generative-output Devanagari first-use pairings restored — *kṣaṇa* / *avacchedaka* / *jyā* / *trijyā* / *bhasma* / *Vedānta* / *upādhi*.
@@ -298,7 +298,7 @@ The cure has been in the opening prayer all along.
 
 **Cross-references:**
 
-Backward — Preface (chronology vocabulary rule); Chapter 1 §1.1 (*codified* prosecution); Chapter 2 §2.5 (engineered Sanskrit thesis as established framework); Chapter 4 §4.2 (*siddha* / *kārya* axiom); Chapter 5 §5.2–5.3 (Patañjali's quantitative observation and *bhūyāṃsaḥ apabhraṃśāḥ*); Chapter 5 §5.4 (three frames for change); Chapter 5 §5.6 (calibrant envelope; *mūrkha* / *jāḍ* / *mūrch* worked example); Chapter 9 (subcontinental superset; family-tree dismantling); Chapter 12 (chemistry of affixation; the generative engine); Chapter 13 (calibration matrix); Chapter 17 §17.1 (the prosecutorial case against PIE; same methodological-frame critique); Chapter 17 §17.2 (architectural axes for structured-data publication).
+Backward — Preface (chronology vocabulary rule); Chapter 2 §2.6 (*codified* prosecution); Chapter 2 §2.5 (engineered Sanskrit thesis as established framework); Chapter 5 §5.2 (*siddha* / *kārya* axiom); Chapter 6 §6.2–6.3 (Patañjali's quantitative observation and *bhūyāṃsaḥ apabhraṃśāḥ*); Chapter 6 §6.4 (three frames for change); Chapter 6 §6.7 (calibrant envelope; *mūrkha* / *jāḍ* / *mūrch* worked example); Chapter 8 (subcontinental superset; family-tree dismantling); Chapter 12 (chemistry of affixation; the generative engine); Chapter 14 (calibration matrix); Chapter 17 §17.1 (the prosecutorial case against PIE; same methodological-frame critique); Chapter 17 §17.2 (architectural axes for structured-data publication).
 
 Forward — Epilogue §4 (chronology-refusal framing).
 
