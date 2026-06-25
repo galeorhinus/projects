@@ -124,7 +124,7 @@ That is why *Chandas* belongs inside the calibration matrix. Meter does more tha
 
 ## 14.5 The Whole Language Carries the Sūtra-Discipline
 
-Natural languages standardize by usage: the ***प्रकृति (*prakṛti*)*** category. Codified languages standardize by codification: selected standards held by authority. Sanskrit standardizes by calibration: the ***संस्कृति (*saṃskṛti*)*** category, architecture correcting itself.
+Natural languages standardize by usage: the ***प्रकृति (*prakṛti*)*** category. Codified languages standardize by codification: selected standards held by authority. Sanskrit standardizes by calibration: the ***संस्कृति (*saṃskṛti*)*** category, architecture correcting itself. The natural category splits once more — by anchoring rather than mechanism: a calibrant-anchored language **diverges** within bounds, while a language with no calibrant **drifts** without bound (Chapter 6 §6.7).
 
 The same discipline operates at the atomic scale (Chapter 10). At system scale, the answer is the language itself. These are relative characteristics. A *sūtra* is compact when measured against a longer exposition; unambiguous when measured against a statement that can be misread; essence-bearing when measured against speech that carries less recoverable meaning. At the system scale, the comparison is between Sanskrit as a calibrated language and ordinary uncalibrated speech carried by habit, local drift, historical residue, and external standardization. Against that comparator, Sanskrit displays the same six characteristics the *sūtra-lakṣaṇam* specifies at the rule scale and seen earlier at the atomic scale.[NOTE: whole-language-sutra-discipline-comparator]
 
