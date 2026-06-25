@@ -47,7 +47,7 @@ The de-AI rules live in the user-memory note `feedback_deai_humanize_prose.md` a
 | 4 | as_1_04_fourth_abrahamic | Fourth Abrahamic | 180 | 🟡 swept (9) — doubled, awaiting review (cluster + He-drip protected; FLAG: §4.6 Schleicher "manufactured"→"baked"?) |
 | 5 | as_1_05_siddha | Siddha | 129 | 🟡 swept (10) — doubled, awaiting review (Pāṇini/Patañjali tense fixes; artifact-present left where convention allows) |
 | 6a | as_1_06_apabhramsa | Apabhraṃśa | 139 | 🟡 swept (7) — doubled, awaiting review |
-| 6b | as_1_06_dhatuh | The *dhātuḥ* | 112 | 🟡 swept (4) — doubled, awaiting review |
+| 6b | ~~as_1_06_dhatuh~~ | The *dhātuḥ* | 112 | 📦 **ARCHIVED** (2026-06-24) → `archive/as_1_06_dhatuh.md` — old Ch 6, never wired into `as_book.yaml`/build; superseded. |
 | **III** | as_part_03_sound_field | Part III opener | 15 | ➖ |
 | 7 | as_1_07_adivadya | Ādivādya | 149 | 🟡 swept (11) — doubled, awaiting review |
 | 8 | as_1_08_superset | The Superset | 274 | 🟡 swept (10) — doubled, awaiting review (data-heavy; matrices/surveys protected) |
