@@ -12,7 +12,7 @@ A signal visible only in the dictionary inventory may be a compilation artifact.
 
 ## 6.1 The Structural Baseline
 
-First remove what Pāṇini tells us is only grammatical marking. A *dhātuḥ* citation form may carry *anubandha* sounds that instruct later operations but do not belong to the atom being measured. Count them, and the measurement has already drifted: scaffolding has been mistaken for structure.
+First remove what Pāṇini tells us is only grammatical marking. A *dhātuḥ* citation form may carry *anubandha* sounds that instruct later operations but do not belong to the atom being measured. Count them, and the measurement has already drifted: scaffolding has been counted as structure.
 
 Once those markers are removed, the compression becomes severe:
 

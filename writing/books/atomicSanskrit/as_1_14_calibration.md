@@ -18,18 +18,16 @@ The third principle appears everywhere in *Sanātan*. It is structurally central
 
 The Indic preservation system has four modes. English has a ready word for one of them: Scripture. It does not have ready words for the other three, so the following sections introduce them.
 
-[FIGURE 14.1: The four preservation modes — Scripture, Mnemoniture, Flexture, Auditure — mapped by medium, human capacity, content category, and Indic counterpart.]
-
 | Mode | Mechanism | Human pair | Preserves | Indic counterpart |
 |---|---|---|---|---|
-| ***Scripture*** | Writing on a physical medium | sight + hand | documents, records, commentary, administrative content | **लिपि (*lipi*)** |
+| ***Writing*** | writing on a physical medium | sight + hand | documents, records, commentary, administrative content | **लिपि (*lipi*)** |
 | ***Mnemoniture*** | memory and retelling | hearing + recall | stories, civilizational frameworks, ethical narratives | **स्मृति (*smṛti*)** |
 | ***Flexture*** | trained gesture and posture | sight + motor coordination | embodied narrative, ritual gesture, performance knowledge | **मुद्रा (*mudrā*)**, **हस्त (*hasta*)**, **नाट्यशास्त्र (*nāṭyaśāstra*)** |
 | ***Auditure*** | exact speech-hearing transmission | hearing + vocal articulation | phonetic form itself | **श्रुति (*śruti*)** |
 
-***Scripture*** preserves through writing. The medium can be stone, palm leaf, paper, print, or digital storage; the mechanism is the same. A visible glyph carries the content. The reader uses sight. The writer uses the hand with a tool. Scripture is powerful for records, commentary, teaching, law, administration, and ordinary communication. It is also fragile. The medium decays. The archive burns. The institution that controls the copy controls the transmission.
+The table separates the four preservation modes. The first row shows why writing cannot be allowed to become sovereign. Sanskritic preservation treats writing as *lipi*: useful support, not the source of calibration. The pyramid treats writing as custody: a stored object that can be owned, authorized, gated, and seized.
 
-That is why Scripture fits pyramids. Whoever controls the written corpus controls the doctrine; whoever controls the doctrine controls the people. The Abrahamic imagination made Scripture central because the Abrahamic structure is vertical — all four Abrahamic religions are pyramidal in the sense defined earlier (Chapter 3 §3.1). A single source, a single book, a single authorized channel, a single apex.
+***Writing*** preserves through *lipi* when writing remains inside its proper scope. It serves records, teaching, commentary, administration, correspondence, and ordinary communication. In the Sanskritic architecture, writing supports the calibrant without becoming the calibrant.
 
 ***Mnemoniture*** is preservation by memory and retelling. The coinage combines Greek *mnēmē*, memory, with the English-forming *-ture*. Its Indic counterpart is स्मृति (*smṛti*) — that which is remembered. The *Itihāsas*, *Purāṇas*, *Dharmaśāstras*, *kāvya*, regional retellings, and *Bhakti* compositions preserve civilizational content through memory, recitation, song, story, translation, and retelling.[NOTE: smrti-as-mnemoniture] Mnemoniture does not preserve exact verbal form as its primary object. It preserves the civilizational pattern. The story can move across languages because the story is the carrier.
 
@@ -37,9 +35,19 @@ That is why Scripture fits pyramids. Whoever controls the written corpus control
 
 ***Auditure*** is preservation by exact speech-hearing transmission. The coinage comes from Latin *audīre*, to hear. Its Indic counterpart is श्रुति (*śruti*) — that which is heard. Auditure preserves not merely meaning, not merely narrative, not merely doctrine, but phonetic form itself: vowel length, accent, consonantal placement, breath gesture, pause, sequence, and metrical fit.[NOTE: shruti-as-auditure] The Vedas belong to Auditure. The **प्रातिशाख्य (*Prātiśākhya*)** and **शिक्षा (*Śikṣā*)** disciplines document and teach the specification. The operational machinery relies on the eleven **पाठाः (*pāṭhāḥ*)** (Chapter 15).
 
-The four modes make the civilizational contrast plain. The Abrahamic world elevated Scripture because the pyramid needs a controlled text. *Sanātan* built a distributed preservation ecology — writing for what writing can carry, memory for what story must carry, gesture for what the body must carry, and hearing for what only exact sound can carry. The preservation engineering mirrors the polity engineering developed earlier (Chapter 3 §3.6): single-medium maps to single-apex pyramid; four-mode distributed maps to non-pyramidal *Sanātan*.
+The four modes expose the civilizational contrast. In the Sanskritic ecology, writing remains one support among several: useful for records, teaching, commentary, administration, correspondence, and ordinary communication, but not sovereign over the calibrant.
+
+***Scripture*** is what happens when writing is elevated from support into sovereign preservation. A visible glyph carries the content, and the institution that controls the copy controls the transmission. The medium can be stone, palm leaf, paper, print, or digital storage; the custody logic is the same. The edition can be authorized, restricted, and seized.
+
+This is why the Abrahamic tradition elevates Scripture: the pyramid needs a controlled text. Whoever controls the written corpus controls the doctrine; whoever controls the doctrine controls the people. The same custody logic also explains progressive chronology capture, including the refusal to permit the more logical explanation that Aramaic evolved from Brāhmī (Appendix Part 3 §3.8).
+
+*Sanātan* built a distributed preservation ecology — writing for what writing can carry, memory for what story must carry, gesture for what the body must carry, and hearing for what only exact sound can carry. The preservation engineering mirrors the polity engineering developed earlier (Chapter 3 §3.6): single-medium maps to single-apex pyramid; four-mode distributed maps to non-pyramidal *Sanātan*.
 
 Single medium, single apex. Four modes, distributed civilization.
+
+The same contrast can be stated as a custody stack. Sanskrit distributes correction through lineage, practice, training, community, and the absence of a single chokepoint. The pyramid centralizes custody through archive, office, credential, doctrine, administration, and controlled access.
+
+![Figure 14.1 — Sanskritic Calibration vs Asuric Custody. Sanskrit distributes correction; the pyramid centralizes custody.](figures/calibration/sanskritic_calibration_vs_asuric_custody.svg){#fig:ch14-sanskritic-calibration-vs-asuric-custody width=100%}
 
 ## 14.2 Auditure and Speech-Hearing Engineering
 
@@ -126,7 +134,7 @@ That is why *Chandas* belongs inside the calibration matrix. Meter does more tha
 
 Natural languages standardize by usage: the ***प्रकृति (*prakṛti*)*** category. Codified languages standardize by codification: selected standards held by authority. Sanskrit standardizes by calibration: the ***संस्कृति (*saṃskṛti*)*** category, architecture correcting itself. The natural category splits once more — by anchoring rather than mechanism: a calibrant-anchored language **diverges** within bounds, while a language with no calibrant **drifts** without bound (Chapter 6 §6.7).
 
-The same discipline operates at the atomic scale (Chapter 10). At system scale, the answer is the language itself. These are relative characteristics. A *sūtra* is compact when measured against a longer exposition; unambiguous when measured against a statement that can be misread; essence-bearing when measured against speech that carries less recoverable meaning. At the system scale, the comparison is between Sanskrit as a calibrated language and ordinary uncalibrated speech carried by habit, local drift, historical residue, and external standardization. Against that comparator, Sanskrit displays the same six characteristics the *sūtra-lakṣaṇam* specifies at the rule scale and seen earlier at the atomic scale.[NOTE: whole-language-sutra-discipline-comparator]
+The same discipline operates at the atomic scale (Chapter 10). At system scale, the answer is the language itself. These are relative characteristics. A *sūtra* is compact when measured against a longer exposition; unambiguous when measured against a statement that can be misunderstood; essence-bearing when measured against speech that carries less recoverable meaning. At the system scale, the comparison is between Sanskrit as a calibrated language and ordinary uncalibrated speech carried by habit, local drift, historical residue, and external standardization. Against that comparator, Sanskrit displays the same six characteristics the *sūtra-lakṣaṇam* specifies at the rule scale and seen earlier at the atomic scale.[NOTE: whole-language-sutra-discipline-comparator]
 
 1. It is compact: where ordinary languages accumulate vocabulary and exception by historical layering, Sanskrit uses a finite sonomer inventory, a finite semantic-atom inventory, and compressed rules to generate vast expression.
 2. It has no wasted layer: where ordinary language carries residues whose function may no longer be recoverable, every part of the calibration matrix has a task.
@@ -155,9 +163,9 @@ The Masoretic apparatus has layered textual and vocalic control. Quranic preserv
 
 The distinction is not preservation versus non-preservation. All three preserve. The distinction is mechanism. Codified systems preserve through authority around a bounded object. Sanskrit preserves through calibration across a living architecture. Authority can guard a text. Calibration can hold a text, a sound-system, a grammar, an atom-inventory, and a generative engine in one architecture.
 
-The asymmetry is the scandal.
+The asymmetry is what exposes the pyramid's insecurity or perhaps jealousy.
 
-The control cases are safe for the pyramid because each keeps authority visible. The Masoretic schools, the Quranic authorities, the church canon, the academies, the courts, the committees — each gives the machinery a custodian to identify. Sanskrit breaks that pattern. Pāṇini can be cited, but he does not exhaust the system. His grammar points backward to the matrix and outward to the living architecture. That is why the machinery praises Pāṇini as so-called codifier while refusing Sanskrit the recognition it gives smaller authority-bound systems. The praise is not generosity. It is concealment.
+The control cases are safe for the pyramid because each keeps authority visible. The Masoretic schools, the Quranic authorities, the church canon, the academies, the courts, the committees — each gives the machinery a custodian to identify. Sanskrit breaks that pattern. Pāṇini can be cited, but he does not exhaust the system. His grammar points backward to the matrix and outward to the living architecture. That is why the machinery praises Pāṇini as so-called codifier while refusing Sanskrit the recognition it gives smaller authority-bound systems. The praise does not arise from concession, what it disguises is deliberate concealment.
 
 The pyramid calls the Masoretic apparatus engineering. It calls Quranic recitation engineering. It calls Latin manuscript preservation engineering. When Sanskrit exceeds those benchmarks, it calls the result "oral tradition," "cultural conservatism," or "pre-modern habit." Same standard, different classification.
 
@@ -195,7 +203,11 @@ The matrix in operation relies on the eleven *pāṭhas*, the aural architecture
 
 The radiant matrix kept the architecture present. Manuscripts burn, institutions fall, libraries close, and centralized authority recedes. A linguistic architecture engineered into speech, transmitted through the *guru-shishya* lineage-chain, and verified by the listening audience has no single institution to bring down.
 
-The deeper implication is civilizational. The calibration matrix proves materially what was established structurally (Chapter 3): order need not descend from authority. Sanskrit preserves through sound, meter, lineage, grammar, discipline, and self-correction — not through decree, monopoly, committee, or institutional apex. The standard lives inside the architecture. That is why the asuric machinery cannot merely disagree with Sanskrit. It has to misdescribe it. Natural drift can be governed and codification can be owned, but calibration makes the apex unnecessary because he has no role inside the architecture.
+The deeper implication is civilizational. The calibration matrix proves two things materially what was earlier established structurally (Chapter 3):
+ 1. Order can exist without a pyramid and without authority.
+ 2. Order that is derived from a calibrant is far more sustainable than order that is derived from codification.
+
+Sanskrit preserves through sound, meter, lineage, grammar, discipline, and self-correction — not through decree, monopoly, committee, or institutional apex. The standard lives inside the architecture. That is why the asuric machinery cannot merely disagree with Sanskrit. It has to misdescribe it. Natural drift can be governed and codification can be owned, but calibration makes the apex unnecessary because he has no role inside the architecture.
 
 Its architecture displays दिव्यता (*divyatā*) and serves लोकक्षेम (*lokakṣema*) without requiring a pyramid to command it. Sanskrit is evidence that the pyramid is unnecessary.
 

@@ -4,7 +4,7 @@
 
 ## 2.1 The Category Move
 
-The first charge is category theft: Sanskrit was made to answer in the wrong category.
+The first charge is category theft: Sanskrit was made to answer inside the pyramid's category.
 
 The theft works through **आसुरी माया (*asurī māyā*)**. The charge is not *māyā* itself. Sanskrit knows *māyā* as power, measure, formation, appearance, and skill. The question is purpose. In asuric hands, *māyā* becomes a weapon of concealment: the false category is made to appear natural, and the true category is made to disappear before the evidence is heard.
 
@@ -62,7 +62,7 @@ Each move is false, move by move:
 
   ***The asuric machinery converts domain and mode into chronology.*** That conversion is chronology capture: once the pyramid owns the clock, it can rank every layer early or late, original or derived. It flattens the two-axis architecture into a one-line story called *"Vedic to Classical,"* with Pāṇini as the hinge between an evolved-before and a codified-after. That is category-theft. Move 4 above is the specific deployment: Pāṇini-as-codifier is the rupture-point Vedic supposedly drifted into and Classical supposedly froze out of. The empirical record refuses it.
 
-  If Pāṇini is treated as the rupture between *"Vedic"* and *"Classical,"* the asuric machinery has quietly made an impossible claim. It has turned *vaidika* and *laukika*, two domains of Sanskrit operation, into before-and-after periods. Pāṇini then becomes the event that supposedly moves Sanskrit out of the Vedic domain and into the worldly learned domain. That is not grammar. That is category error. That is not a chronology. It is an axis-switch masquerading as *"history."*
+  If Pāṇini is treated as the rupture between *"Vedic"* and *"Classical,"* the asuric machinery has quietly made an impossible claim. It has turned *vaidika* and *laukika*, two domains of Sanskrit operation, into before-and-after periods. Pāṇini then becomes the event that supposedly moves Sanskrit out of the Vedic domain and into the worldly learned domain. That is not grammar, it is category theft. Neither is it honest chronology, it is an axis-switch masquerading as *"history."*
 
   > *The dogma says:* *"Vedic Sanskrit evolved into Classical Sanskrit."*
   >
@@ -97,6 +97,8 @@ Old English **hlāfweard**, the "bread-guardian," became **laverd**, then **lord
 This is botany at work. The metaphor fits its own object.
 
 Plants are fractal. Natural languages are fractal in the same sense: patterns recur through branching, drift, inheritance, and adaptation. That does not make every fractal botanical. The plant is *prakṛti* — natural recurrence, growth, mutation, and decay. Sanskrit is *saṃskṛti* — engineered recurrence, measured order, calibration, and self-correction. The problem with the botanical metaphor is not that it noticed recurrence. The category theft is the transfer: it treated a *saṃskṛti* fractal as *prakṛti*.
+
+Nor is *prakṛti* the enemy. Natural language, local custom, forest life, inherited speech, and ordinary social continuity all have their own dignity. The fraud begins when the pyramid takes a category that fits natural drift and uses it to conceal an engineered calibrant.
 
 ## 2.4 Saṃskṛti Made to Look Like Prakṛti
 

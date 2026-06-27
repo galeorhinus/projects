@@ -48,7 +48,7 @@ The method assumes ordinary linguistic friction: drift, sound change, analogy, s
 
 Engineering presupposes engineers. Specifications presuppose specifiers. Preservation architecture presupposes designers of the infrastructure. None of these presuppositions is available inside the comparative method, because the method explicitly excludes them as not part of how natural languages work.
 
-This is the category error. The genealogical project looks at Sanskrit after the engineering is already visible and asks which precursor could have produced the surface. The architectural test asks how the engineering was specified, built, preserved, and decoded. The answers belong to different categories.
+This is the category theft. The genealogical project looks at Sanskrit after the engineering is already visible and asks which precursor could have produced the surface. The architectural test asks how the engineering was specified, built, preserved, and decoded. The answers belong to different categories.
 
 No improved dataset fixes this. No larger cognate set fixes this. No more refined reconstruction fixes this. A better genealogy still does not become an architecture.
 
@@ -84,9 +84,9 @@ One assumption holds the default up: Sanskrit is the same kind of object as othe
 <!-- AISWEEP-OLD
 The default changes. Until the precursor model can account for Sanskrit's sound-to-*dhātu* architecture, preservation system, retroflex core, and formal grammar, it remains an external genealogy, not an internal explanation.
 AISWEEP-END -->
-Until the precursor model can account for Sanskrit's sound-to-*dhātu* architecture, preservation system, retroflex core, and formal grammar, it remains an external genealogy, not an internal explanation. The default changes.
+Until the precursor model can account for Sanskrit's sound-to-*dhātu* architecture, preservation system, retroflex core, and formal grammar, it remains an external genealogy, not an internal explanation and the default changes.
 
-The implication is sharp. The pyramid has to argue that Sanskrit's own disciplines misperceived their object; that *Nirukta*, *Prātiśākhya*, *Śikṣā*, *Chandas*, and *Mīmāṃsā* were operating on a civilizational error; that the engineering presupposition was a delusion conducted across thousands of years and across many *guru-shishya* lineage-chains.
+Therefore, the pyramid has to now argue that Sanskrit's own disciplines misperceived their object; that *Nirukta*, *Prātiśākhya*, *Śikṣā*, *Chandas*, and *Mīmāṃsā* were operating inside a civilizational delusion; and that the engineering presupposition was a delusion conducted across thousands of years and across many *guru-shishya* lineage-chains.
 
 There is a psychological term for that operation: ***gaslighting***. It is the systematic effort to convince a person, or a civilization, that accurate perception is delusion.
 

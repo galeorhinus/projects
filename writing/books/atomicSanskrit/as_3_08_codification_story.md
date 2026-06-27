@@ -70,7 +70,7 @@ The machinery assigns relative dates to Sanskrit texts partly through linguistic
 
 That does not mean every relative ordering is false. It means the drift claim has not been earned merely by arranging texts along a line.
 
-If a feature is treated as evidence of earlier date because the framework assumes that feature belongs to an earlier stage, the same feature cannot then be used as independent proof that the stage existed. The machinery interpreted the evidence through its own assumptions, then presented the resulting chronology as fact. This book does not import dates produced by machinery it holds to have misread Sanskrit itself.
+If a feature is treated as evidence of earlier date because the framework assumes that feature belongs to an earlier stage, the same feature cannot then be used as independent proof that the stage existed. The machinery interpreted the evidence through its own assumptions, then presented the resulting chronology as fact. This book does not import dates produced by machinery it holds to have misframed Sanskrit itself.
 
 The circularity becomes sharper at Pāṇini. The pyramid's account says Pāṇini codified a changed language because Vedic and Pāṇinian Sanskrit differ. But the categories used to describe the difference already assume the conclusion: Vedic is earlier; Classical is later; Pāṇini stands between; the difference therefore must be historical drift.
 
@@ -139,7 +139,7 @@ The Indic architecture uses two domain terms and two mode terms.
 
 The pyramid's account collapses all four into two chronological labels: Vedic and Classical. Then it places Pāṇini between them.
 
-That is category error. Worse, it is category theft. It takes Sanskrit's own operational categories, empties them of their function, refills them with the pyramid's chronology, and teaches the result back to the reader as neutral scholarship.
+That is category theft. It takes Sanskrit's own operational categories, empties them of their function, refills them with the pyramid's chronology, and teaches the result back to the reader as neutral scholarship.
 
 Pāṇini does not move Sanskrit from *vaidika* to *laukika*. A person cannot move a language from one domain into another because domains are not periods. He does not move Sanskrit from *chandas* to *bhāṣā*. A person cannot move a language from one mode into another because modes are not stages. He witnesses both. He documents both. He assigns rules to both.
 
@@ -361,7 +361,7 @@ The audit would also separate two kinds of preservation.
 
 **Preservation of function** asks whether the feature still performs its assigned work. A feature may be preserved in one mode and absent in another because its function belongs to one mode. The Vedic pitch accent performs recitational and metrical work. The *bhāṣā* mode does not need the same deployment. The *leṭ-lakāra* subjunctive belongs to *chandas* operation. *Bhāṣā* can perform related semantic work through other grammatical resources. The question is not whether every feature appears everywhere. No engineered system works that way. The question is whether each feature remains where its function requires it.
 
-That distinction prevents the common error. If a feature is not used in one operating mode, the pyramid calls it lost. The architecture asks whether the feature is preserved in the mode where it belongs. If it is, loss has not been shown. Role has been shown.
+That distinction prevents the common confusion. If a feature is not used in one operating mode, the pyramid calls it lost. The architecture asks whether the feature is preserved in the mode where it belongs. If it is, loss has not been shown. Role has been shown.
 
 The audit has four predicted signatures.
 
@@ -384,7 +384,7 @@ That sentence fits the evidence. The codification story does not.
 
 ## 8.13 Pāṇini's Optionality Is Not Drift
 
-One more feature is usually misread: Pāṇini's treatment of variation.
+One more feature is usually misframed: Pāṇini's treatment of variation.
 
 The *Aṣṭādhyāyī* does not pretend every context has only one permissible surface. It uses optionality operators. It flags rule environments. It licenses alternatives through operators such as **वा (*vā*)**, **विभाषा (*vibhāṣā*)**, and *chandasi* contexts. The presence of alternatives inside the grammar is not embarrassment. It is precision.
 

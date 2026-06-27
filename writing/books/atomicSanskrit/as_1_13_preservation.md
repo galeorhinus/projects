@@ -56,15 +56,17 @@ The Abrahamic-substrate civilizations made the opposite engineering choice. Thei
 
 The Indic engineering refused the lever. The architecture did not place its *sāṃskṛtika* content on a destructible medium that an institutional intermediary could control.
 
+![Figure 13.1 — The Asuric Custody Stack. The pyramid prefers media that can be owned, dated, centralized, authorized, guarded, and interpreted by a credentialed class. Storage becomes power when custody controls correction.](figures/preservation/asuric_custody_stack.svg){#fig:ch13-asuric-custody-stack width=100%}
+
 That refusal also exposes the foundational dogma's script obsession. The **Western philological machinery** spends enormous energy on script chronology: when Brāhmī appears, whether it derives from Aramaic, what the earliest inscription is, which ruler's edict can be dated. It foregrounds the interface because the interface can be externally dated. Then it treats the interface as if it dates the architecture.
 
-That is the category error.
+That is the category theft.
 
-What survives from writing cultures is overwhelmingly pyramid media — royal edicts, stone inscriptions, cave donations, coins, seals, potsherds, institutional markings, public assertions of authority — and the archaeological record deepens the error accordingly. These are not neutral witnesses to the birth of writing. They are the durable debris of power. They show what the apex chose to carve, stamp, issue, and preserve. The apex does not leave an equally durable record of distributed writing on perishable media.
+What survives from writing cultures is overwhelmingly pyramid media — royal edicts, stone inscriptions, cave donations, coins, seals, potsherds, institutional markings, public assertions of authority — and the archaeological record deepens the fraud accordingly. These are not neutral witnesses to the birth of writing. They are the durable debris of power. They show what the apex chose to carve, stamp, issue, and preserve. The apex does not leave an equally durable record of distributed writing on perishable media.
 
 A non-pyramidal or distributed use of writing would leave a thinner record. If Brāhmī or a precursor was used for notes, accounts, teaching aids, correspondence, working drafts, or mnemonic prompts, the medium would have been perishable. Palm leaf, birch bark, cloth, wood, and temporary writing surfaces do not survive Indian climate and history the way stone survives. The absence of such material is not evidence of absence. It is the predictable silence of perishable media.
 
-The category error is therefore doubled. The pyramid's account dates the surviving interface and treats that date as the date of the script. Then it dates the script and treats that date as the date of the sound-system. Neither move follows. Glyph chronology is not *varṇamālā* chronology. Stone dates what stone preserved. It does not date the engineering the stone renders. Appendix Part 3 §3.6 develops the survival-archive argument in full, with named exemplars across the Indic and Mediterranean record. The pyramid's label *abugida* describes a surface mechanism; it does not capture the audiographic engineering the script carries.
+The category theft is therefore doubled. The pyramid's account dates the surviving interface and treats that date as the date of the script. Then it dates the script and treats that date as the date of the sound-system. Neither move follows. Glyph chronology is not *varṇamālā* chronology. Stone dates what stone preserved. It does not date the engineering the stone renders. Appendix Part 3 §3.6 develops the survival-archive argument in full, with named exemplars across the Indic and Mediterranean record. The pyramid's label *abugida* describes a surface mechanism; it does not capture the audiographic engineering the script carries.
 
 The ***foundational dogma***'s softer version is more revealing: Brāhmī was adapted brilliantly from a Western source by an unnamed Indic genius. The praise sounds generous. It performs erasure. The brilliance is assigned to the adapter of an interface; the engineering of the sound-system disappears. Appendix Part 3, *The Sonomer and the Audiograph*, develops the argument in full and coins ***audiography*** for the engineered visual capture of articulated sound the script implements. Calling Brāhmī an *abugida* — or filing it under any other surface category of script — is like calling the decimal place-value system "numeral notation." It catalogs the visible symbols and misses the architecture that lets a handful of them generate everything. The glyphs are secondary; the *varṇamālā* is the grid that *audiography* renders into script.
 
@@ -120,7 +122,7 @@ Sanskrit stood elsewhere. Like ध्रुव (dhruva), the fixed star, it serv
 
 That architecture rested on *paramparā*, but *paramparā* is not merely "tradition." It is distributed transmission architecture. It has vertical custody and horizontal circulation. The *guru-shishya* lineage-chain carries exact form across generations; the wider transmission-network moves learned people across villages, towns, assemblies, ritual settings, *pāṭhaśālās*, *maṭhas*, and scholarly circuits. Society did not only respect Brahmins, reciters, teachers, and scholars; society funded the network: lodging, food, patronage, *dakṣiṇā*, travel support, public debate, ritual invitations, and scholarly exchange. Knowledge became mobile without becoming centralized.
 
-### Two Minds, Two Layers
+## 13.6 Two Minds, Two Layers
 
 Minds learn language two ways. Some learn by **saturation**. They hear enough correct speech, read enough correct sentences, recite enough stable forms, and the valid pattern enters them. They cannot necessarily state the rule, but they know when a form has gone wrong. Other minds learn by explicit structure. They want the category, the operation, the named rule. For them, correctness becomes stable when the procedure is visible.
 

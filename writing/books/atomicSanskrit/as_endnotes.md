@@ -715,6 +715,20 @@ The verse means: "Two are the created orders in this world: the divine and the a
 
 ---
 
+### `compatibility-is-not-immunity`
+
+**Short:** Compatibility is not immunity: formations outside formal Vedic calibration may remain harmonious with the calibrant, with each other, and with balance in the world, while lacking the same long defensive memory against asuric capture.
+
+**Deployments:** Chapter 1 §1.2.
+
+This distinction does not mean that *nastika* and *prakritika* formations are immune to asuric capture. It means they are not inherently hostile to the Vedic calibrant. The Vedic continuum preserved long civilizational memory of defending against asuric formations: stories of *asura*, *daitya*, *danava*, *rakshasa*, obstruction, disguise, false gift, stolen foundation, and apex command have functioned as recognition-forms across thousands of years. That memory does not make the Vedic continuum invulnerable, but it gives the civilization a durable grammar of suspicion toward pyramidal capture.
+
+Many adjacent or natural cultures did not preserve that specific defensive apparatus at comparable scale. A *nastika* system may build discipline, ethics, austerity, metaphysics, monastic order, and philosophical power without treating the Veda as calibrant. A *prakritika* culture may preserve forest, clan, custom, craft, ecology, ritual, and local memory without needing formal Vedic calibration. *Astika*, *nastika*, and *prakritika* formations can remain harmonious with the Vedic calibrant, with each other, and with balance in the world. The only order in this taxonomy that cannot remain harmonious is the asuric order, because it experiences balance as a limit on capture. Yet the very absence of the Vedic defensive memory can leave adjacent and natural formations less prepared for the pyramid's characteristic moves: centralization, institutional capture, scriptural finality, imperial patronage, conversion, shame, administrative classification, or ideological re-authoring.
+
+Some *nastika* systems were later captured by institutional, imperial, or ideological pyramids; many *prakritika* cultures around the world were converted, administered, or shamed into Abrahamic and post-Abrahamic pyramidal forms. That later capture does not prove that the original formation was asuric. It proves only that compatibility with the calibrant is not the same as protection from capture.
+
+---
+
 ### `parampara-vyakaranam-bhartrhari-position-1`
 
 **Short:** The *vyākaraṇa* discipline's own self-description presupposes an already-formed linguistic object. Patañjali's ***siddhe śabdārthasambandhe*** states that the bond between word and meaning is already established; Bhartṛhari's *Vākyapadīya* treats *śabda* as structurally prior to ordinary speech. The grammarian decodes; he does not invent.
@@ -1260,7 +1274,7 @@ The endnote is deployed once with full prose at the first chapter-deployment (Ch
 
 ### `caste-colonial-census-hardening`
 
-**Short:** The argument that British colonial administration — the decennial census from 1871 in particular — froze fluid, regionally-variable *jāti* into fixed, enumerated, all-India ranked categories, hardening caste into the rigid administrative form later mistaken for a timeless civilizational feature. Standard references: Nicholas B. Dirks, *Castes of Mind: Colonialism and the Making of Modern India* (Princeton University Press, 2001); Bernard S. Cohn, *Colonialism and Its Forms of Knowledge* (Princeton University Press, 1996), on the census as a technology of rule; Susan Bayly, *Caste, Society and Politics in India from the Eighteenth Century to the Modern Age* (Cambridge University Press, 1999).
+**Short:** The argument that British colonial administration — the decennial census from 1871 in particular — froze fluid, regionally-variable *jāti* into fixed, enumerated, all-India ranked categories, hardening caste into the rigid administrative form later presented as a timeless civilizational feature. Standard references: Nicholas B. Dirks, *Castes of Mind: Colonialism and the Making of Modern India* (Princeton University Press, 2001); Bernard S. Cohn, *Colonialism and Its Forms of Knowledge* (Princeton University Press, 1996), on the census as a technology of rule; Susan Bayly, *Caste, Society and Politics in India from the Eighteenth Century to the Modern Age* (Cambridge University Press, 1999).
 
 **Deployments:** Chapter 6 §6.8 — caste as social *apabhraṃśa*, fed by the Abrahamic master-slave substrate and hardened by colonial enumeration; cross-referenced from Chapter 3 §3.2.
 
@@ -1366,7 +1380,7 @@ Standard references: *Caraka Saṃhitā* (Chaukhamba Sanskrit Series, with the *
 
 **Deployments:** Chapter 10 §10.3 ¶ — category clarification after the grammatical-*dhātuḥ* definition and before the measurement begins.
 
-The comparison is useful because it prevents two errors at once. The first error is uniqueness-exaggeration: Sanskrit is not the only language in the world with sub-word semantic generators. The second error is flattening: those analogues do not erase the architectural specificity of the Sanskrit *dhātuḥ*.
+The comparison is useful because it prevents two confusions at once. The first confusion is uniqueness-exaggeration: Sanskrit is not the only language in the world with sub-word semantic generators. The second confusion is flattening: those analogues do not erase the architectural specificity of the Sanskrit *dhātuḥ*.
 
 The closest visible external analogue is the Semitic root system. Arabic and Hebrew use consonantal roots — commonly triliteral — as semantic generators. Arabic **k-t-b**, for example, carries the field of writing: *kataba* (he wrote), *kitāb* (book), *kātib* (writer), *maktab* (office). Hebrew shows the same structural family in its own phonological system. The root is not normally a pronounceable word by itself. It is a consonantal abstraction that becomes lexical through vocalic patterns, prefixes, suffixes, and grammatical templates.
 
@@ -2446,7 +2460,7 @@ The fourth row — *ghoṣa-mahāprāṇa* — is typologically rare outside Ind
 - Recitation that drifts in timing breaks the metrical fingerprint. The timing-precision is the architecture's anti-drift mechanism at the temporal axis — parallel to the *sandhi* / *Prātiśākhya* / *padapāṭha* mechanisms at other axes (Chapter 14 §14.3 develops the full six-timescales-of-correction framework).
 - The *guru-shishya* lineage-chain transmits this timing-precision across generations. Instrumented phonetics can measure that precision; the *śikṣā* discipline specifies its proportional rule.
 
-**Misreading the category.** The *Śikṣā* texts are commonly described in modern philology as "phonetic prescriptions" or "pre-scientific approximations to modern phonetic measurement." That is the wrong category. The *Śikṣā* specification is the timing-engineering manual for an audio architecture designed to be reproduced without drift across generations. It gives the reciter proportional timing rules, not vague advice.
+**Category theft.** The *Śikṣā* texts are commonly described in modern philology as "phonetic prescriptions" or "pre-scientific approximations to modern phonetic measurement." That description places them in the pyramid's category. The *Śikṣā* specification is the timing-engineering manual for an audio architecture designed to be reproduced without drift across generations. It gives the reciter proportional timing rules, not vague advice.
 
 **Standard references.** *Yājñavalkya Śikṣā* 13; *Varṇaratnapradīpikā Śikṣā* 22; *Lomāśī Śikṣā* 10; W. Sidney Allen, *Phonetics in Ancient India* (Oxford University Press, 1953), Ch. 6 (duration and accent). Leigh Lisker and Arthur S. Abramson, "A cross-language study of voicing in initial stops: Acoustical measurements," *Word* 20 (1964), pp. 384–422 — foundational VOT study. Dennis H. Klatt, "Linguistic uses of segmental duration in English: Acoustic and perceptual evidence," *Journal of the Acoustical Society of America* 59 (1976), pp. 1208–1221 — canonical durational study.
 

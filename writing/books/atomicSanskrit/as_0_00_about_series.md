@@ -6,6 +6,8 @@ Many Vedic mantras end with Shanti recited three times. Each recitation refers t
 
 Forthcoming volumes in the series begin where this book stops: language to civilizational architecture. They trace political architecture, economic architecture, and other civilizational forms preserved alongside them. Those volumes document what survives without forcing every fragment into a single manufactured reconstruction.
 
+Those later volumes distinguish the Vedic calibrant from its neighbors: *astika* formations that live by it, *nastika* and *prakritika* formations that can remain harmonious with it, with each other, and with balance in the world, and asuric formations that are threatened by that balance.
+
 Fractality operates in nature and in human-created order. Sanskrit's own categorical vocabulary draws the distinction. ***प्रकृति (*prakṛti*)*** is the natural fractal — the recurrence nature produces: trees, branching, organic growth. ***संस्कृति (*saṃskṛti*)*** is the balanced civilizational fractal — recurrence disciplined toward balance, welfare, memory, and continuity. ***विकृति (*vikṛti*)*** is the distorted civilizational fractal — recurrence bent toward hierarchy, extraction, control, and concealment.
 
 Two civilizational fractals stand against each other in the record: the swastika and the pyramid. The swastika — *su-asti*, "well-being," "may it be good" — is the *saṃskṛti* fractal: created order aligned with welfare. The pyramid is the *vikṛti* fractal: created order bent into hierarchy, apex authority, extracted labor, controlled doctrine, and withheld light.

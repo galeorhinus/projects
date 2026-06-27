@@ -113,7 +113,7 @@ The mechanism has an Indic name: **बन्दिन् (*Bandin*)**.
 
 In the *Vana Parva* of the *Mahābhārata*, Bandin holds King Janaka's court against challengers. He has defeated learned men before him. The young **अष्टावक्र (*Aṣṭāvakra*)**, twisted in body and young in years, comes to challenge him. Bandin's first move is procedural. The gate asks: Who are you? What standing do you have? Who recognized you as worthy to enter?
 
-Aṣṭāvakra defeats the gate before he defeats Bandin. He exposes the error: a council that judges by age, appearance, and external standing before hearing the argument is not a council of the learned. It is a council of fools. The lineage's verdict is clear. The hero is Aṣṭāvakra. The villain is Bandin.[NOTE: ashtavakra-bandin-mahabharata]
+Aṣṭāvakra defeats the gate before he defeats Bandin. He exposes the fraud: a council that judges by age, appearance, and external standing before hearing the argument is not a council of the learned. It is a council of fools. The lineage's verdict is clear. The hero is Aṣṭāvakra. The villain is Bandin.[NOTE: ashtavakra-bandin-mahabharata]
 
 The debate was not peer review. It was **शास्त्रार्थ (*śāstrārtha*)**: knowledge tested in public. The audience was not a hidden committee of credentialed insiders. The audience was the court itself — learners, citizens, visitors, retinue, witnesses. The verdict was rendered by demonstration, not by anonymous gatekeeping. *Śāstrārtha* democratizes knowledge because the audience is structurally present. Peer review concentrates verdict in a sub-class invisible to the audience and unanswerable to it.
 
@@ -121,7 +121,7 @@ The contemporary Bandin sits on an editorial board, grant panel, appointments co
 
 The engineered Sanskrit thesis has been pre-empted by Bandin's gate. The journals confer reputability. Reputability decides admissibility. Admissibility decides whether the argument can be heard. The circularity is the mechanism.
 
-The verdict remains the same. The hero is the challenger denied standing. The villain is the gatekeeper who mistakes authorization for truth.
+The verdict remains the same. The hero is the challenger denied standing. The villain is the gatekeeper who treats authorization as truth.
 
 *Sanātan* has the answer. It has carried the answer for thousands of years. The mechanism does not know it has already been answered.
 

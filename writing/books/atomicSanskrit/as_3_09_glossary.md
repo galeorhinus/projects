@@ -216,7 +216,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **apabhraṃśa** (अपभ्रंश) / **apabhraṃśāḥ** (अपभ्रंशाः)
 
-**Standard, book-elevated.** *Falling-away*; decay-variant; entropy-product. The lineage vocabulary for what deviates from the *siddha* form. Patañjali's *Mahābhāṣya* labels it explicitly; the lineage recognizes *apabhraṃśa* as the natural product of ordinary speech that the calibration architecture is designed to refuse. The dogma mistakes *apabhraṃśa* for Sanskrit's nature; the architecture treats *apabhraṃśa* as exactly the entropy the engineering is built against. Preface deploys; Chapter 5 develops; the *gauḥ → gāvī / goṇī / gotā* example anchors the concept concretely.
+**Standard, book-elevated.** *Falling-away*; decay-variant; entropy-product. The lineage vocabulary for what deviates from the *siddha* form. Patañjali's *Mahābhāṣya* labels it explicitly; the lineage recognizes *apabhraṃśa* as the natural product of ordinary speech that the calibration architecture is designed to refuse. The dogma recodes *apabhraṃśa* as Sanskrit's nature; the architecture treats *apabhraṃśa* as exactly the entropy the engineering is built against. Preface deploys; Chapter 5 develops; the *gauḥ → gāvī / goṇī / gotā* example anchors the concept concretely.
 
 ### **Dhātupāṭha** (धातुपाठ)
 
