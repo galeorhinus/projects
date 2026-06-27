@@ -16,7 +16,7 @@ and tiṅ-ending labels.
 
 from __future__ import annotations
 
-from fig_vedic_kriya_examples import (  # noqa: E402
+from vedic_kriya_examples import (  # noqa: E402
     ARROW,
     BUILD_DIR,
     DEV_FONT,
@@ -30,8 +30,11 @@ from fig_vedic_kriya_examples import (  # noqa: E402
     ROLE_DEV,
     ROLE_IAST,
     STROKE,
+    WIDTH_IN,
     build_units,
+    configure_fonts,
     deva_label,
+    ms,
     rail_for_particle,
     render_arrow,
     render_empty_slot,
@@ -40,6 +43,33 @@ from fig_vedic_kriya_examples import (  # noqa: E402
     resolve_particle,
     units_extent,
 )
+
+# Panini-layer font sizes (px) — set by configure_panini() so the notation layer
+# lands 9–11 pt at the 4.5in render width. P_COMMON_W pads the set to one width.
+P_COMMON_W = 0.0
+P_FS_TITLE = 20.0
+P_FS_FORMULA = 20.0
+P_FS_GROUP = 15.0
+P_FS_GROUP_SUB = 11.0
+P_FS_DEVA = 22.0
+P_FS_IAST = 17.0
+P_FS_LABEL = 21.0
+
+
+def configure_panini(common_w: float) -> None:
+    """Size the notation layer + share the width with the vedic engine so the
+    whole panini set renders at one uniform scale, 9–11 pt at 4.5in."""
+    global P_COMMON_W, P_FS_TITLE, P_FS_FORMULA, P_FS_GROUP, P_FS_GROUP_SUB
+    global P_FS_DEVA, P_FS_IAST, P_FS_LABEL
+    P_COMMON_W = common_w
+    P_FS_TITLE = ms.pt_to_px(11.0, common_w, WIDTH_IN)
+    P_FS_FORMULA = ms.pt_to_px(11.0, common_w, WIDTH_IN)
+    P_FS_GROUP = ms.pt_to_px(10.0, common_w, WIDTH_IN)
+    P_FS_GROUP_SUB = ms.pt_to_px(9.0, common_w, WIDTH_IN)
+    P_FS_DEVA = ms.pt_to_px(11.0, common_w, WIDTH_IN)
+    P_FS_IAST = ms.pt_to_px(9.0, common_w, WIDTH_IN)
+    P_FS_LABEL = ms.pt_to_px(11.0, common_w, WIDTH_IN)
+    configure_fonts(common_w)        # share width with the vedic hex renderer
 
 P_TOP_BASE_Y = 172
 P_MID_BASE_Y = 334
@@ -194,16 +224,16 @@ def source_x_for_targets(targets: list[int], centers: dict[int, tuple[float, flo
 def render_panini_label(text: str, x: float, y: float, *, anchor: str = "middle") -> str:
     return (
         f'<text x="{x:.1f}" y="{y:.1f}" font-family="{LATIN_FONT}" '
-        f'font-size="20" font-weight="700" text-anchor="{anchor}" '
-        f'dominant-baseline="middle" fill="#222222">{text}</text>'
+        f'font-size="{P_FS_TITLE:.1f}" font-weight="700" text-anchor="{anchor}" '
+        f'dominant-baseline="middle" fill="{ms.TEXT}">{text}</text>'
     )
 
 
 def render_formula_label(text: str, x: float, y: float) -> str:
     return (
         f'<text x="{x:.1f}" y="{y:.1f}" font-family="{DEV_FONT}" '
-        f'font-size="20" font-weight="500" text-anchor="middle" '
-        f'dominant-baseline="middle" fill="#555555">{text}</text>'
+        f'font-size="{P_FS_FORMULA:.1f}" font-weight="500" text-anchor="middle" '
+        f'dominant-baseline="middle" fill="{ms.MUTED}">{text}</text>'
     )
 
 
@@ -212,16 +242,16 @@ def render_source_title(group: dict, x: float, y: float) -> str:
         [
             (
                 f'<text x="{x:.1f}" y="{y:.1f}" font-family="{LATIN_FONT}" '
-                f'font-size="15" font-weight="700" text-anchor="middle" '
-                f'dominant-baseline="middle" fill="#1a1a1a">'
+                f'font-size="{P_FS_GROUP:.1f}" font-weight="700" text-anchor="middle" '
+                f'dominant-baseline="middle" fill="{ms.TEXT}">'
                 f'<tspan font-family="{DEV_FONT}">{group["title_dev"]}</tspan> '
                 f'<tspan font-style="italic">'
                 f'({group["title_iast"]})</tspan></text>'
             ),
             (
-                f'<text x="{x:.1f}" y="{y + 24:.1f}" font-family="{LATIN_FONT}" '
-                f'font-size="11" font-style="italic" text-anchor="middle" '
-                f'dominant-baseline="middle" fill="#666666">{group["subtitle"]}</text>'
+                f'<text x="{x:.1f}" y="{y + 1.6 * P_FS_GROUP_SUB:.1f}" font-family="{LATIN_FONT}" '
+                f'font-size="{P_FS_GROUP_SUB:.1f}" font-style="italic" text-anchor="middle" '
+                f'dominant-baseline="middle" fill="{ms.MUTED}">{group["subtitle"]}</text>'
             ),
         ]
     )
@@ -235,7 +265,7 @@ def render_local_row_label(text: str, y: float) -> str:
     else:
         top = text
         bottom = ""
-    line_gap = 25
+    line_gap = P_FS_LABEL * 1.2
     lines = [
         (
             f'<tspan x="{P_LABEL_X:.1f}" y="{y - line_gap / 2:.1f}">'
@@ -251,8 +281,8 @@ def render_local_row_label(text: str, y: float) -> str:
         )
     return (
         f'<text x="{P_LABEL_X:.1f}" y="{y:.1f}" font-family="{LATIN_FONT}" '
-        f'font-size="21" font-weight="700" text-anchor="end" '
-        f'dominant-baseline="middle" fill="#333333">{"".join(lines)}</text>'
+        f'font-size="{P_FS_LABEL:.1f}" font-weight="700" text-anchor="end" '
+        f'dominant-baseline="middle" fill="{ms.TEXT}">{"".join(lines)}</text>'
     )
 
 
@@ -276,18 +306,18 @@ def render_source_particle_cell(particle: dict, x: float, y: float) -> str:
     return "\n".join(
         [
             (
-                f'<polygon points="{pts}" fill="white" stroke="{EMPTY_STROKE}" '
+                f'<polygon points="{pts}" fill="{ms.BG}" stroke="{EMPTY_STROKE}" '
                 f'stroke-width="1.35" stroke-dasharray="5 4" stroke-linejoin="round"/>'
             ),
             (
-                f'<text x="{x:.1f}" y="{y + 0.5:.1f}" font-family="{DEV_FONT}" '
-                f'font-size="22" font-weight="500" text-anchor="middle" '
-                f'dominant-baseline="middle" fill="#555555">{deva_label(varna)}</text>'
+                f'<text x="{x:.1f}" y="{y - 0.18 * P_FS_DEVA:.1f}" font-family="{DEV_FONT}" '
+                f'font-size="{P_FS_DEVA:.1f}" font-weight="500" text-anchor="middle" '
+                f'dominant-baseline="middle" fill="{ms.MUTED}">{deva_label(varna)}</text>'
             ),
             (
-                f'<text x="{x:.1f}" y="{y + 19:.1f}" font-family="{LATIN_FONT}" '
-                f'font-size="11" font-style="italic" text-anchor="middle" '
-                f'dominant-baseline="middle" fill="#777777">{varna["iast"]}</text>'
+                f'<text x="{x:.1f}" y="{y + 0.62 * P_FS_DEVA:.1f}" font-family="{LATIN_FONT}" '
+                f'font-size="{P_FS_IAST:.1f}" font-style="italic" text-anchor="middle" '
+                f'dominant-baseline="middle" fill="{ms.MUTED}">{varna["iast"]}</text>'
             ),
         ]
     )
@@ -438,20 +468,22 @@ def render_example(example: dict) -> str:
     xmax = max(xmax, top_xmax, mid_xmax)
 
     dx = P_LEFT_PAD - xmin
-    width = xmax - xmin + P_LEFT_PAD + RIGHT_PAD
+    natural_w = xmax - xmin + P_LEFT_PAD + RIGHT_PAD
+    canvas_w = P_COMMON_W if P_COMMON_W else natural_w
     height = P_BOT_BASE_Y + HEX_HEIGHT / 2 + P_BOTTOM_PAD
-    center_x = width / 2
+    height_in = height / canvas_w * WIDTH_IN
+    center_x = natural_w / 2                       # centre title/formula on content
     top_label_y = leftmost_source_center_y(source_groups, P_TOP_BASE_Y)
     mid_label_y = leftmost_middle_center_y(example["middle"], middle_centers, P_MID_BASE_Y)
     bot_label_y = leftmost_unit_center_y(final_units, P_BOT_BASE_Y)
 
     svg: list[str] = [
         (
-            f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width:.1f} {height:.1f}" '
-            f'width="{width:.1f}" height="{height:.1f}">'
+            f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {canvas_w:.1f} {height:.1f}" '
+            f'width="{WIDTH_IN}in" height="{height_in:.3f}in">'
         ),
         f"  <title>Pāṇinian kriyāpada assembly: {example['title']}</title>",
-        f'  <rect x="0" y="0" width="{width:.1f}" height="{height:.1f}" fill="white"/>',
+        f'  <rect x="0" y="0" width="{canvas_w:.1f}" height="{height:.1f}" fill="{ms.BG}"/>',
         "  <defs>",
         (
             '    <marker id="arrowhead" markerWidth="10" markerHeight="8" '
@@ -546,14 +578,16 @@ def render_example(example: dict) -> str:
         svg.append("  " + render_unit(unit, dx, P_BOT_BASE_Y).replace("\n", "\n  "))
 
     svg.append("</svg>")
-    return "\n".join(svg)
+    return "\n".join(svg), natural_w
 
 
 def main() -> int:
     BUILD_DIR.mkdir(parents=True, exist_ok=True)
+    widths = [render_example(example)[1] for example in EXAMPLES]
+    configure_panini(max(widths))
     for example in EXAMPLES:
         path = BUILD_DIR / f"panini_{example['slug']}.from-py.svg"
-        path.write_text(render_example(example) + "\n", encoding="utf-8")
+        path.write_text(render_example(example)[0] + "\n", encoding="utf-8")
         print(path)
     return 0
 

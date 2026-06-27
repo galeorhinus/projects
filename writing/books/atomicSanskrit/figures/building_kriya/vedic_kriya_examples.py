@@ -21,17 +21,17 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(REPO_ROOT / "working" / "dhatu_hexagons"))
+sys.path.insert(0, str(REPO_ROOT / "figures" / "_shared"))
 
+import matra_style as ms  # noqa: E402
 from dhatu_hexagon import EDGE_LENGTH, HEX_HEIGHT, VARNAS, is_ayogavaha  # noqa: E402
 
 
 BUILD_DIR = Path(__file__).resolve().parent
+WIDTH_IN = 4.5                       # figures are always designed for 4.5in
 HALANT = "्"
-DEV_FONT = (
-    "Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, "
-    "Arial Unicode MS, sans-serif"
-)
-LATIN_FONT = "Charter, Georgia, Times, serif"
+DEV_FONT = ms.DEV_FONT
+LATIN_FONT = ms.LATIN_FONT
 WIDTH_C = 10
 WIDTH_V1 = 40
 WIDTH_V2 = 100
@@ -50,27 +50,49 @@ RIGHT_PAD = 36
 TOP_PAD = 22
 BOTTOM_PAD = 34
 
+# Warm 4-role palette (from figures/_shared/matra_style.py):
+#   original  = dhātuḥ atom's own varṇas      -> tan
+#   transform = changed / added vowel (result) -> gold
+#   activation= activating sonomers            -> dark brown
+#   ending    = suffix sonomers                -> mid brown
 ROLE_FILL = {
-    "original": "#dcdcdc",
-    "transform": "#888888",
-    "activation": "#1a1a1a",
-    "ending": "#555555",
+    "original": ms.LIGHT_FILL,
+    "transform": ms.GOLD,
+    "activation": ms.DARK_FILL,
+    "ending": ms.MUTED,
 }
 ROLE_DEV = {
-    "original": "#1a1a1a",
-    "transform": "#1a1a1a",
-    "activation": "#f5f5f5",
-    "ending": "#f5f5f5",
+    "original": ms.INK_DARK,
+    "transform": ms.INK_DARK,
+    "activation": ms.INK_LIGHT,
+    "ending": ms.INK_LIGHT,
 }
 ROLE_IAST = {
-    "original": "#333333",
-    "transform": "#222222",
-    "activation": "#d8d8d8",
-    "ending": "#d8d8d8",
+    "original": ms.MUTED,
+    "transform": ms.INK_DARK,
+    "activation": ms.INK_LIGHT,
+    "ending": ms.INK_LIGHT,
 }
-STROKE = "#1a1a1a"
-EMPTY_STROKE = "#666666"
-ARROW = "#555555"
+STROKE = ms.STROKE
+EMPTY_STROKE = ms.MUTED
+ARROW = ms.MUTED
+
+# Font sizes (px) — set per output by configure_fonts() so they land 9–11 pt at
+# the 4.5in render width. COMMON_W is the padded canvas width for the set.
+COMMON_W = 0.0
+FS_DEVA = 22.0
+FS_IAST = 17.0
+FS_LABEL = 21.0
+
+
+def configure_fonts(common_w: float) -> None:
+    """Set the canvas width + font sizes so every figure in a set renders at a
+    uniform scale with 9–11 pt labels at 4.5in."""
+    global COMMON_W, FS_DEVA, FS_IAST, FS_LABEL
+    COMMON_W = common_w
+    FS_DEVA = ms.pt_to_px(11.0, common_w, WIDTH_IN)
+    FS_LABEL = ms.pt_to_px(11.0, common_w, WIDTH_IN)
+    FS_IAST = ms.pt_to_px(9.0, common_w, WIDTH_IN)
 
 ALIASES = {
     "A": "ā",
@@ -411,13 +433,13 @@ def render_particle_cell(
                 f'stroke-width="1.45" stroke-linejoin="round"/>'
             ),
             (
-                f'<text x="{x:.1f}" y="{y + 0.5:.1f}" font-family="{DEV_FONT}" '
-                f'font-size="22" font-weight="500" text-anchor="middle" '
+                f'<text x="{x:.1f}" y="{y - 0.18 * FS_DEVA:.1f}" font-family="{DEV_FONT}" '
+                f'font-size="{FS_DEVA:.1f}" font-weight="500" text-anchor="middle" '
                 f'dominant-baseline="middle" fill="{ROLE_DEV[role]}">{deva_label(varna)}</text>'
             ),
             (
-                f'<text x="{x:.1f}" y="{y + 19:.1f}" font-family="{LATIN_FONT}" '
-                f'font-size="11" font-style="italic" text-anchor="middle" '
+                f'<text x="{x:.1f}" y="{y + 0.62 * FS_DEVA:.1f}" font-family="{LATIN_FONT}" '
+                f'font-size="{FS_IAST:.1f}" font-style="italic" text-anchor="middle" '
                 f'dominant-baseline="middle" fill="{ROLE_IAST[role]}">{varna["iast"]}</text>'
             ),
         ]
@@ -486,8 +508,8 @@ def render_cluster(unit: dict, dx: float, dy: float) -> str:
     for i, cell in enumerate(cells):
         clip_id = f"vedic-kriya-cluster-{cluster_id}-cell{i}"
         out.append(
-            f'<text x="{cx:.1f}" y="{cy - 2:.1f}" font-family="{DEV_FONT}" '
-            f'font-size="20" font-weight="500" text-anchor="middle" '
+            f'<text x="{cx:.1f}" y="{cy - 0.18 * FS_DEVA:.1f}" font-family="{DEV_FONT}" '
+            f'font-size="{FS_DEVA:.1f}" font-weight="500" text-anchor="middle" '
             f'dominant-baseline="middle" fill="{ROLE_DEV[cell["role"]]}" '
             f'clip-path="url(#{clip_id})">{conjunct}</text>'
         )
@@ -495,8 +517,8 @@ def render_cluster(unit: dict, dx: float, dy: float) -> str:
     for i, cell in enumerate(cells):
         label_x = cx - w / 2 + cell_w * (i + 0.5)
         out.append(
-            f'<text x="{label_x:.1f}" y="{cy + 17:.1f}" font-family="{LATIN_FONT}" '
-            f'font-size="9" font-style="italic" text-anchor="middle" '
+            f'<text x="{label_x:.1f}" y="{cy + 0.62 * FS_DEVA:.1f}" font-family="{LATIN_FONT}" '
+            f'font-size="{FS_IAST:.1f}" font-style="italic" text-anchor="middle" '
             f'dominant-baseline="middle" fill="{ROLE_IAST[cell["role"]]}">{cell["varna"]["iast"]}</text>'
         )
 
@@ -565,7 +587,7 @@ def render_row_label(text: str, y: float) -> str:
     else:
         top = text
         bottom = ""
-    line_gap = 25
+    line_gap = FS_LABEL * 1.2
     lines = [
         (
             f'<tspan x="{LABEL_X:.1f}" y="{y - line_gap / 2:.1f}">'
@@ -581,8 +603,8 @@ def render_row_label(text: str, y: float) -> str:
         )
     return (
         f'<text x="{LABEL_X:.1f}" y="{y:.1f}" font-family="{LATIN_FONT}" '
-        f'font-size="21" font-weight="700" text-anchor="end" '
-        f'dominant-baseline="middle" fill="#333333">{"".join(lines)}</text>'
+        f'font-size="{FS_LABEL:.1f}" font-weight="700" text-anchor="end" '
+        f'dominant-baseline="middle" fill="{ms.TEXT}">{"".join(lines)}</text>'
     )
 
 
@@ -624,9 +646,11 @@ def render_example(example: dict) -> str:
     xmin = min(xmin, top_xmin, mid_xmin)
     xmax = max(xmax, top_xmax, mid_xmax)
     dx = LEFT_PAD - xmin
-    width = xmax - xmin + LEFT_PAD + RIGHT_PAD
+    natural_w = xmax - xmin + LEFT_PAD + RIGHT_PAD
+    canvas_w = COMMON_W if COMMON_W else natural_w
     bot_base_y = BOT_BASE_Y + example.get("bottom_y_shift", 0)
     height = bot_base_y + HEX_HEIGHT / 2 + BOTTOM_PAD
+    height_in = height / canvas_w * WIDTH_IN
 
     top_label_y = leftmost_cell_center_y(top_cells, TOP_BASE_Y)
     mid_label_y = leftmost_unit_center_y(middle_units, MID_BASE_Y)
@@ -636,11 +660,11 @@ def render_example(example: dict) -> str:
 
     svg: list[str] = [
         (
-            f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width:.1f} {height:.1f}" '
-            f'width="{width:.1f}" height="{height:.1f}">'
+            f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {canvas_w:.1f} {height:.1f}" '
+            f'width="{WIDTH_IN}in" height="{height_in:.3f}in">'
         ),
         f"  <title>Vedic kriyāpada assembly: {example['title']}</title>",
-        f'  <rect x="0" y="0" width="{width:.1f}" height="{height:.1f}" fill="white"/>',
+        f'  <rect x="0" y="0" width="{canvas_w:.1f}" height="{height:.1f}" fill="{ms.BG}"/>',
         "  <defs>",
         (
             '    <marker id="arrowhead" markerWidth="10" markerHeight="8" '
@@ -728,14 +752,18 @@ def render_example(example: dict) -> str:
         svg.append("  " + render_unit(unit, dx, bot_base_y).replace("\n", "\n  "))
 
     svg.append("</svg>")
-    return "\n".join(svg)
+    return "\n".join(svg), natural_w
 
 
 def main() -> int:
     BUILD_DIR.mkdir(parents=True, exist_ok=True)
+    # Pass 1: natural widths. Pass 2: pad all to the widest so hexes + fonts are
+    # uniform across the set, and render at 4.5in.
+    widths = [render_example(example)[1] for example in EXAMPLES]
+    configure_fonts(max(widths))
     for example in EXAMPLES:
         path = BUILD_DIR / f"vedic_{example['slug']}.from-py.svg"
-        path.write_text(render_example(example) + "\n", encoding="utf-8")
+        path.write_text(render_example(example)[0] + "\n", encoding="utf-8")
         print(path)
     return 0
 

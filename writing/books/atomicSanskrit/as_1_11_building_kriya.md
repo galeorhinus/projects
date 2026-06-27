@@ -24,7 +24,7 @@ The atom is इ (*i*), a one-*mātrā* vowel atom. In **एति (*eti*)**, the
 
 > इ (*i*) → ए (*e*) + ति (*ti*) → एति (*eti*)
 
-![Vedic assembly: इ (*i*) becomes एति (*eti*).](figures/building_kriya/vedic_eti.svg){#fig:building-kriya-vedic-eti width=100%}
+![Vedic assembly: इ (*i*) becomes एति (*eti*).](figures/building_kriya/vedic_eti.svg){#fig:building-kriya-vedic-eti width=4.5in}
 
 ### 1.5 *mātrās*: अस् (*as*) → अस्ति (*asti*)
 
@@ -38,7 +38,7 @@ The atom is अस् (*as*), a one-and-a-half-*mātrā* form: short vowel plus 
 
 > अस् (*as*) + ति (*ti*) → अस्ति (*asti*)
 
-![Vedic assembly: अस् (*as*) becomes अस्ति (*asti*).](figures/building_kriya/vedic_asti.svg){#fig:building-kriya-vedic-asti width=100%}
+![Vedic assembly: अस् (*as*) becomes अस्ति (*asti*).](figures/building_kriya/vedic_asti.svg){#fig:building-kriya-vedic-asti width=4.5in}
 
 ### 2 *mātrās*: यज् (*yaj*) → यजति (*yajati*)
 
@@ -52,7 +52,7 @@ The atom is यज् (*yaj*), a two-*mātrā* consonant-framed short-vowel atom
 
 > यज् (*yaj*) + अ (*a*) + ति (*ti*) → यजति (*yajati*)
 
-![Vedic assembly: यज् (*yaj*) becomes यजति (*yajati*).](figures/building_kriya/vedic_yajati.svg){#fig:building-kriya-vedic-yajati width=100%}
+![Vedic assembly: यज् (*yaj*) becomes यजति (*yajati*).](figures/building_kriya/vedic_yajati.svg){#fig:building-kriya-vedic-yajati width=4.5in}
 
 ### 2.5 *mātrās*: भू (*bhū*) → भवति (*bhavati*)
 
@@ -66,7 +66,7 @@ The atom is भू (*bhū*), a two-and-a-half-*mātrā* form: consonant plus lon
 
 > भू (*bhū*) → भव् (*bhav*) + अ (*a*) + ति (*ti*) → भवति (*bhavati*)
 
-![Vedic assembly: भू (*bhū*) becomes भवति (*bhavati*).](figures/building_kriya/vedic_bhavati.svg){#fig:building-kriya-vedic-bhavati width=100%}
+![Vedic assembly: भू (*bhū*) becomes भवति (*bhavati*).](figures/building_kriya/vedic_bhavati.svg){#fig:building-kriya-vedic-bhavati width=4.5in}
 
 ### 3 *mātrās*: राज् (*rāj*) → राजति (*rājati*)
 
@@ -80,7 +80,7 @@ The atom is राज् (*rāj*), a three-*mātrā* scaffold: consonant, long v
 
 > राज् (*rāj*) + अ (*a*) + ति (*ti*) → राजति (*rājati*)
 
-![Vedic assembly: राज् (*rāj*) becomes राजति (*rājati*).](figures/building_kriya/vedic_rajati.svg){#fig:building-kriya-vedic-rajati width=100%}
+![Vedic assembly: राज् (*rāj*) becomes राजति (*rājati*).](figures/building_kriya/vedic_rajati.svg){#fig:building-kriya-vedic-rajati width=4.5in}
 
 The figures use one visual convention. The first row shows activation sonomers. The second row shows the *dhātuḥ* atom and the dashed destination slots where new sonomers will enter. The third row shows the finished *kriyāpada* molecule. Light gray is original *dhātuḥ* material. Medium gray is *dhātuḥ* material that changes shape. Very dark cells are activation sonomers such as the added अ (*a*). Dark cells are the ति (*ti*) ending.
 
@@ -129,23 +129,23 @@ The five Vedic examples can now be read in Pāṇini's notation layer.
 
 **इ (*i*) → एति (*eti*).** In Pāṇini's terminology, this belongs in the *adādi* class. The visible operation is transformation: इ (*i*) appears as ए (*e*). The *tiṅ* ending तिप् (*tip*) contributes ति (*ti*). The molecule is एति (*eti*).
 
-![Pāṇinian notation layer: इ (*i*) becomes एति (*eti*).](figures/building_kriya/panini_eti.svg){#fig:building-kriya-panini-eti width=100%}
+![Pāṇinian notation layer: इ (*i*) becomes एति (*eti*).](figures/building_kriya/panini_eti.svg){#fig:building-kriya-panini-eti width=4.5in}
 
 **अस् (*as*) → अस्ति (*asti*).** This also belongs in the *adādi* class. No visible class vowel is inserted. The *dhātuḥ* bonds directly with ति (*ti*), and the स् + त् contact becomes the visible स्त् cluster. The molecule is अस्ति (*asti*).
 
-![Pāṇinian notation layer: अस् (*as*) becomes अस्ति (*asti*).](figures/building_kriya/panini_asti.svg){#fig:building-kriya-panini-asti width=100%}
+![Pāṇinian notation layer: अस् (*as*) becomes अस्ति (*asti*).](figures/building_kriya/panini_asti.svg){#fig:building-kriya-panini-asti width=4.5in}
 
 **यज् (*yaj*) → यजति (*yajati*).** This belongs in the *bhvādi* class. The class-signature is शप् (*śap*): the anubandhas disappear, and the visible survivor is अ (*a*). The *tiṅ* ending contributes ति (*ti*). The molecule is यजति (*yajati*).
 
-![Pāṇinian notation layer: यज् (*yaj*) becomes यजति (*yajati*).](figures/building_kriya/panini_yajati.svg){#fig:building-kriya-panini-yajati width=100%}
+![Pāṇinian notation layer: यज् (*yaj*) becomes यजति (*yajati*).](figures/building_kriya/panini_yajati.svg){#fig:building-kriya-panini-yajati width=4.5in}
 
 **भू (*bhū*) → भवति (*bhavati*).** This also belongs in the *bhvādi* class. The operation changes भू (*bhū*) into भव् (*bhav*), the शप् (*śap*) operation contributes अ (*a*), and तिप् (*tip*) contributes ति (*ti*). The molecule is भवति (*bhavati*).
 
-![Pāṇinian notation layer: भू (*bhū*) becomes भवति (*bhavati*).](figures/building_kriya/panini_bhavati.svg){#fig:building-kriya-panini-bhavati width=100%}
+![Pāṇinian notation layer: भू (*bhū*) becomes भवति (*bhavati*).](figures/building_kriya/panini_bhavati.svg){#fig:building-kriya-panini-bhavati width=4.5in}
 
 **राज् (*rāj*) → राजति (*rājati*).** This belongs in the *bhvādi* class. The शप् (*śap*) operation contributes अ (*a*), and तिप् (*tip*) contributes ति (*ti*). The molecule is राजति (*rājati*).
 
-![Pāṇinian notation layer: राज् (*rāj*) becomes राजति (*rājati*).](figures/building_kriya/panini_rajati.svg){#fig:building-kriya-panini-rajati width=100%}
+![Pāṇinian notation layer: राज् (*rāj*) becomes राजति (*rājati*).](figures/building_kriya/panini_rajati.svg){#fig:building-kriya-panini-rajati width=4.5in}
 
 The figures reuse the hexagonal vocabulary of §11.2, with one addition: the top row now carries Pāṇini's notation layer, where शप् (*śap*) and तिप् (*tip*) appear as technical source forms and the dashed cells are अनुबन्धाः (*anubandhāḥ*), the metadata tags that drop out once the surviving sonomers enter the atom. The action is exactly what it was in the Vedic examples; only the labels are new. What was implicit there now carries Pāṇini's vocabulary — *gaṇaḥ*, *vikaraṇam*, *aṅgam*, *tiṅ-pratyayaḥ*, *anubandhaḥ*.
 
