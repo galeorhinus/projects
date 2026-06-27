@@ -50,13 +50,18 @@ LOWER_RAIL = HEX_HEIGHT / 4
 
 # --- Palette / type --------------------------------------------------------
 
-LAGHU_FILL = "#dcdcdc"          # lighter weight
-GURU_FILL = "#aaaaaa"           # heavier weight
-STROKE = "#333333"
-TEXT = "#1a1a1a"
-MUTED = "#555555"
-RULER = "#888888"
-GUIDE = "#c8c8c8"
+# Warm palette drawn from the reference design.
+BG = "#f4eedd"                  # cream background
+LAGHU_FILL = "#d8c7a3"          # tan — the lighter weight (1 mātrā)
+GURU_FILL = "#4a3a28"           # dark brown — the heavier weight (2 mātrās)
+STROKE = "#5c4830"              # tile outline
+GURU_TEXT = "#f4eedd"           # mark colour on the dark guru tile
+LAGHU_TEXT = "#3d2f1f"          # mark colour on the tan laghu tile
+GOLD = "#a8842c"                # accent (the 5-mātrā result column)
+TEXT = "#3d2f1f"                # default dark-brown ink (titles)
+MUTED = "#6b563a"               # secondary brown (subtitle, ruler labels)
+RULER = "#7a6647"               # ruler line + ticks
+GUIDE = "#cdbf9e"               # dashed major-tick gridlines
 
 LATIN_FONT = "Charter, Georgia, Times, serif"
 DEV_FONT = "Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif"
@@ -80,7 +85,7 @@ FS_MATRA_LABEL = 26.9
 MARGIN = 28
 TITLE_H = 102                          # top chrome with the legend line
 TITLE_H_NO_LEGEND = 66                 # top chrome with the title only
-LEGEND_TEXT = "लघु = 1 mātrā    ·    गुरु = 2 mātrās"
+LEGEND_TEXT = "S = guru (2 mātrās)    ·    l = laghu (1)"
 X0 = MARGIN + 22                       # x where mātrā 0 sits (the measure start)
 ROW_GAP = 16
 RIGHT_PAD = 28
@@ -133,21 +138,21 @@ def width_of(token: str) -> float:
 
 
 def fillings(n: int) -> list[list[str]]:
-    """Every laghu/guru filling of an n-mātrā measure, ordered as in §14.4."""
-    out: list[list[str]] = []
+    """Every laghu/guru filling of an n-mātrā measure, in *recurrence* order.
 
-    def rec(rem: int, acc: list[str]) -> None:
-        if rem == 0:
-            out.append(acc[:])
-            return
-        if rem >= 1:
-            acc.append("L"); rec(rem - 1, acc); acc.pop()
-        if rem >= 2:
-            acc.append("G"); rec(rem - 2, acc); acc.pop()
-
-    rec(n, [])
-    out.sort(key=lambda p: (-p.count("G"), "".join(p)))  # 'G' < 'L'
-    return out
+    A filling is either guru + a filling of (n−2) or laghu + a filling of (n−1):
+    the guru-first block comes first, then the laghu-first block. So the rows of
+    consecutive measures correspond — the guru-first rows of n match the rows of
+    (n−2), the laghu-first rows match (n−1) — the visual form of the Virahāṅka /
+    Hemachandra recurrence, count(n) = count(n−1) + count(n−2).
+    """
+    if n == 0:
+        return [[]]
+    if n == 1:
+        return [["L"]]
+    guru_first = [["G"] + p for p in fillings(n - 2)]
+    laghu_first = [["L"] + p for p in fillings(n - 1)]
+    return guru_first + laghu_first
 
 
 # --- Rendering -------------------------------------------------------------
@@ -183,15 +188,15 @@ def render_strip(tokens: list[str], measure_start_x: float, row_cy: float) -> st
         cx = u["cx"] + dx
         cy = u["cy"] + row_cy
         w = u["w"]
-        fill = GURU_FILL if u["t"] == "G" else LAGHU_FILL
+        guru = u["t"] == "G"
+        fill = GURU_FILL if guru else LAGHU_FILL
         polys.append(
             f'<polygon points="{hex_points(cx, cy, w)}" fill="{fill}" '
             f'stroke="{STROKE}" stroke-width="1.5" stroke-linejoin="round"/>'
         )
-        dev = "गुरु" if u["t"] == "G" else "लघु"
-        iast = "guru" if u["t"] == "G" else "laghu"
-        labels.append(text(cx, cy - 10, dev, FS_DEV, weight="600", family=DEV_FONT))
-        labels.append(text(cx, cy + 19, iast, FS_IAST, fill=MUTED, style="italic"))
+        mark = "S" if guru else "l"            # scansion: guru = S, laghu = l
+        mark_fill = GURU_TEXT if guru else LAGHU_TEXT
+        labels.append(text(cx, cy, mark, FS_DEV, fill=mark_fill, weight="600"))
     return "\n  ".join(polys + labels)
 
 
@@ -216,7 +221,8 @@ def render_ruler(x_start: float, y: float, n: int) -> str:
     return "\n  ".join(frags)
 
 
-def build(n: int, show_ruler: bool = True, show_legend: bool = True) -> tuple[str, float, float]:
+def build(n: int, show_ruler: bool = True, show_legend: bool = True,
+          title_color: str = TEXT) -> tuple[str, float, float]:
     rows = fillings(n)
     count = len(rows)
 
@@ -225,20 +231,21 @@ def build(n: int, show_ruler: bool = True, show_legend: bool = True) -> tuple[st
 
     frags: list[str] = []
 
-    measure_word = {4: "Four", 5: "Five", 6: "Six", 7: "Seven", 8: "Eight"}.get(n, str(n))
-    title_text = f"{measure_word} mātrās — {count} patterns"
-    frags.append(text(MARGIN, 42, title_text, FS_TITLE, anchor="start", weight="700"))
+    title_text = f"{n} mātrās · {count}"
+    frags.append(text(MARGIN, 42, title_text, FS_TITLE, fill=title_color,
+                      anchor="start", weight="700"))
     if show_legend:
         frags.append(text(MARGIN, 78, LEGEND_TEXT,
-                          FS_LEGEND, fill=MUTED, anchor="start", family=DEV_FONT))
+                          FS_LEGEND, fill=MUTED, anchor="start"))
 
     top = TITLE_H if show_legend else TITLE_H_NO_LEGEND
     row_cy0 = top + STRIP_HALF
     stack_bottom = row_cy0 + (count - 1) * ROW_PITCH + STRIP_HALF
     guide_bottom = stack_bottom + (RULER_GAP if show_ruler else 10)
 
-    # Shared measure-boundary guides (every strip spans the same width).
-    for gx in (X0, measure_end):
+    # Dashed gridlines at every major (integer) mātrā tick, behind the tiles.
+    for i in range(n + 1):
+        gx = X0 + i * MATRA_UNIT
         frags.append(
             f'<line x1="{gx:.1f}" y1="{top - 4:.1f}" x2="{gx:.1f}" '
             f'y2="{guide_bottom:.1f}" stroke="{GUIDE}" stroke-width="1" '
@@ -267,7 +274,7 @@ def write_svg(n: int) -> None:
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width:.0f}" '
         f'height="{height:.0f}" viewBox="0 0 {width:.0f} {height:.0f}">\n'
         f'<title>Chandas mātrā tiles — {n} mātrās</title>\n'
-        '<rect width="100%" height="100%" fill="white"/>\n'
+        f'<rect width="100%" height="100%" fill="{BG}"/>\n'
         f'{body}\n</svg>\n'
     )
     out = BUILD_DIR / f"matra_tiles_{n}.svg"

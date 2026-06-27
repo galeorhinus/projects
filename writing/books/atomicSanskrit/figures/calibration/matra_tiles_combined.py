@@ -27,7 +27,7 @@ BUILD_DIR = Path(__file__).resolve().parent
 
 sys.path.insert(0, str(BUILD_DIR))
 from matra_tiles import (  # noqa: E402
-    build, text, FS_LEGEND, DEV_FONT, MUTED, LEGEND_TEXT,
+    build, text, BG, GOLD, TEXT, MUTED, FS_TITLE, FS_IAST, LEGEND_TEXT,
 )
 
 MARGIN = 12          # outer canvas margin
@@ -46,7 +46,7 @@ def main() -> None:
     # Panels carry no legend; one shared legend goes in the top-right block.
     b3, w3, h3 = build(3, show_ruler=False, show_legend=False)
     b4, w4, h4 = build(4, show_legend=False)
-    b5, w5, h5 = build(5, show_legend=False)
+    b5, w5, h5 = build(5, show_legend=False, title_color=GOLD)
 
     col_w = max(w3, w4, w5)
     col1_x = MARGIN
@@ -64,23 +64,29 @@ def main() -> None:
     y4 = MARGIN + h3 + STACK_GAP
     y5 = (y4 + h4) - h5                   # bottom-align the 5-mātrā with the 4-mātrā
 
-    # One shared legend, centered over column 2 in the empty block above the
-    # bottom-aligned 5-mātrā panel.
-    legend = text(col2_x + col_w / 2, MARGIN + 42, LEGEND_TEXT, FS_LEGEND,
-                  fill=MUTED, family=DEV_FONT)
+    # Figure title + subtitle in the empty block above the bottom-aligned
+    # 5-mātrā panel, left-aligned with that panel's content.
+    lx = col2_x + 28
+    header = "\n".join([
+        text(lx, MARGIN + 26, "The Mātrā-Meru", FS_TITLE, fill=TEXT,
+             anchor="start", weight="700"),
+        text(lx, MARGIN + 54, LEGEND_TEXT, FS_IAST, fill=MUTED, anchor="start"),
+        text(lx, MARGIN + 78, "guru-first + laghu-first  →  3 + 5 = 8",
+             FS_IAST, fill=MUTED, anchor="start", style="italic"),
+    ])
 
     body = "\n".join([
         group(b3, col1_x, y3),
         group(b4, col1_x, y4),
         group(b5, col2_x, y5),
-        legend,
+        header,
     ])
 
     doc = (
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{canvas_w:.0f}" '
         f'height="{canvas_h:.0f}" viewBox="0 0 {canvas_w:.0f} {canvas_h:.0f}">\n'
         '<title>Chandas mātrā tiles — 3, 4, 5 mātrās</title>\n'
-        '<rect width="100%" height="100%" fill="white"/>\n'
+        f'<rect width="100%" height="100%" fill="{BG}"/>\n'
         f'{body}\n</svg>\n'
     )
     out = BUILD_DIR / "matra_tiles_combined.svg"
