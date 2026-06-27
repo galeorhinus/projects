@@ -28,9 +28,9 @@ BUILD_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(BUILD_DIR))
 from matra_tiles import build  # noqa: E402
 
-MARGIN = 16          # outer canvas margin
-COL_GAP = 20         # horizontal gap between the two columns
-STACK_GAP = 56       # vertical gap between the 3- and 4-mātrā panels
+MARGIN = 12          # outer canvas margin
+COL_GAP = 16         # horizontal gap between the two columns
+STACK_GAP = 24       # vertical gap between the 3- and 4-mātrā panels
 
 
 def group(body: str, dx: float, dy: float) -> str:
@@ -38,7 +38,7 @@ def group(body: str, dx: float, dy: float) -> str:
 
 
 def main() -> None:
-    b3, w3, h3 = build(3)
+    b3, w3, h3 = build(3, show_ruler=False)   # 3-mātrā: no ruler (per design)
     b4, w4, h4 = build(4)
     b5, w5, h5 = build(5)
 

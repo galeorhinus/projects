@@ -62,24 +62,25 @@ LATIN_FONT = "Charter, Georgia, Times, serif"
 DEV_FONT = "Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif"
 
 # --- Font sizes (px) -------------------------------------------------------
-# Tuned so the 5-mātrā figure (the taller one) prints its text at these point
-# sizes when set to 6 in tall: title 11 / legend 8 / Devanagari 10 / IAST 8 /
-# ruler numbers 8 / mātrā label 9. The 4-mātrā figure shares the same px sizes,
-# so at the same scale (DPI) it prints shorter with identical effective sizes.
+# Tuned so the COMBINED two-column figure (matra_tiles_combined.py) — the tallest
+# artifact at ~1300 px — prints its text at these point sizes when set to 6 in
+# tall: title 11 / legend 8 / Devanagari 10 / IAST 8 / ruler numbers 8 / mātrā
+# label 9. Every panel shares these px sizes and is placed with translate only
+# (no scaling), so all three sub-illustrations print at identical font sizes.
 
-FS_TITLE = 30
-FS_LEGEND = 22
-FS_DEV = 28
-FS_IAST = 22
-FS_RULER_NUM = 22
-FS_MATRA_LABEL = 25
+FS_TITLE = 33
+FS_LEGEND = 24
+FS_DEV = 30
+FS_IAST = 24
+FS_RULER_NUM = 24
+FS_MATRA_LABEL = 27
 
 # --- Layout ----------------------------------------------------------------
 
 MARGIN = 28
-TITLE_H = 94
+TITLE_H = 102
 X0 = MARGIN + 22                       # x where mātrā 0 sits (the measure start)
-ROW_GAP = 26
+ROW_GAP = 16
 RIGHT_PAD = 28
 RULER_GAP = 24
 
@@ -187,7 +188,7 @@ def render_strip(tokens: list[str], measure_start_x: float, row_cy: float) -> st
         )
         dev = "गुरु" if u["t"] == "G" else "लघु"
         iast = "guru" if u["t"] == "G" else "laghu"
-        labels.append(text(cx, cy - 9, dev, FS_DEV, weight="600", family=DEV_FONT))
+        labels.append(text(cx, cy - 10, dev, FS_DEV, weight="600", family=DEV_FONT))
         labels.append(text(cx, cy + 19, iast, FS_IAST, fill=MUTED, style="italic"))
     return "\n  ".join(polys + labels)
 
@@ -209,11 +210,11 @@ def render_ruler(x_start: float, y: float, n: int) -> str:
         )
         if major:
             frags.append(text(x, y + 26, f"{i // 2}", FS_RULER_NUM, fill=MUTED))
-    frags.append(text((x_start + end_x) / 2, y + 54, "mātrā", FS_MATRA_LABEL, fill=MUTED, style="italic"))
+    frags.append(text((x_start + end_x) / 2, y + 56, "mātrā", FS_MATRA_LABEL, fill=MUTED, style="italic"))
     return "\n  ".join(frags)
 
 
-def build(n: int) -> tuple[str, float, float]:
+def build(n: int, show_ruler: bool = True) -> tuple[str, float, float]:
     rows = fillings(n)
     count = len(rows)
 
@@ -224,19 +225,19 @@ def build(n: int) -> tuple[str, float, float]:
 
     measure_word = {4: "Four", 5: "Five", 6: "Six", 7: "Seven", 8: "Eight"}.get(n, str(n))
     title_text = f"{measure_word} mātrās — {count} patterns"
-    frags.append(text(MARGIN, 40, title_text, FS_TITLE, anchor="start", weight="700"))
-    frags.append(text(MARGIN, 74, "लघु = 1 mātrā    ·    गुरु = 2 mātrās",
+    frags.append(text(MARGIN, 42, title_text, FS_TITLE, anchor="start", weight="700"))
+    frags.append(text(MARGIN, 78, "लघु = 1 mātrā    ·    गुरु = 2 mātrās",
                       FS_LEGEND, fill=MUTED, anchor="start", family=DEV_FONT))
 
     row_cy0 = TITLE_H + STRIP_HALF
     stack_bottom = row_cy0 + (count - 1) * ROW_PITCH + STRIP_HALF
-    ruler_y = stack_bottom + RULER_GAP
+    guide_bottom = stack_bottom + (RULER_GAP if show_ruler else 10)
 
-    # Shared measure-boundary guides (correct: every strip spans the same width).
+    # Shared measure-boundary guides (every strip spans the same width).
     for gx in (X0, measure_end):
         frags.append(
             f'<line x1="{gx:.1f}" y1="{TITLE_H - 4:.1f}" x2="{gx:.1f}" '
-            f'y2="{ruler_y:.1f}" stroke="{GUIDE}" stroke-width="1" '
+            f'y2="{guide_bottom:.1f}" stroke="{GUIDE}" stroke-width="1" '
             f'stroke-dasharray="3,4"/>'
         )
 
@@ -244,11 +245,15 @@ def build(n: int) -> tuple[str, float, float]:
         cy = row_cy0 + idx * ROW_PITCH
         frags.append(render_strip(tokens, X0, cy))
 
-    frags.append(render_ruler(X0, ruler_y, n))
+    if show_ruler:
+        ruler_y = stack_bottom + RULER_GAP
+        frags.append(render_ruler(X0, ruler_y, n))
+        height = ruler_y + 78
+    else:
+        height = stack_bottom + 26
 
     title_w = len(title_text) * FS_TITLE * 0.56     # rough advance-width estimate
     width = max(tiles_right + RIGHT_PAD, MARGIN + title_w + MARGIN)
-    height = ruler_y + 72
     return "\n  ".join(frags), width, height
 
 

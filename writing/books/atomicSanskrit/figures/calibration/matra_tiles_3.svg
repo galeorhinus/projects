@@ -1,42 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="409" height="554" viewBox="0 0 409 554">
+<svg xmlns="http://www.w3.org/2000/svg" width="444" height="548" viewBox="0 0 444 548">
 <title>Chandas mātrā tiles — 3 mātrās</title>
 <rect width="100%" height="100%" fill="white"/>
-<text x="28.0" y="40.0" font-family="Charter, Georgia, Times, serif" font-size="30" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#1a1a1a">3 mātrās — 3 patterns</text>
-  <text x="28.0" y="74.0" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="22" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#555555">लघु = 1 mātrā    ·    गुरु = 2 mātrās</text>
-  <line x1="50.0" y1="90.0" x2="50.0" y2="481.8" stroke="#c8c8c8" stroke-width="1" stroke-dasharray="3,4"/>
-  <line x1="266.0" y1="90.0" x2="266.0" y2="481.8" stroke="#c8c8c8" stroke-width="1" stroke-dasharray="3,4"/>
-  <polygon points="60.0,94.0 184.0,94.0 204.0,128.6 184.0,163.3 60.0,163.3 40.0,128.6" fill="#aaaaaa" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="204.0,128.6 256.0,128.6 276.0,163.3 256.0,197.9 204.0,197.9 184.0,163.3" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
-  <text x="122.0" y="119.6" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="28" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">गुरु</text>
-  <text x="122.0" y="147.6" font-family="Charter, Georgia, Times, serif" font-size="22" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">guru</text>
-  <text x="230.0" y="154.3" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="28" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">लघु</text>
-  <text x="230.0" y="182.3" font-family="Charter, Georgia, Times, serif" font-size="22" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">laghu</text>
-  <polygon points="60.0,223.9 112.0,223.9 132.0,258.6 112.0,293.2 60.0,293.2 40.0,258.6" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="132.0,258.6 256.0,258.6 276.0,293.2 256.0,327.8 132.0,327.8 112.0,293.2" fill="#aaaaaa" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
-  <text x="86.0" y="249.6" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="28" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">लघु</text>
-  <text x="86.0" y="277.6" font-family="Charter, Georgia, Times, serif" font-size="22" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">laghu</text>
-  <text x="194.0" y="284.2" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="28" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">गुरु</text>
-  <text x="194.0" y="312.2" font-family="Charter, Georgia, Times, serif" font-size="22" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">guru</text>
-  <polygon points="60.0,353.8 112.0,353.8 132.0,388.5 112.0,423.1 60.0,423.1 40.0,388.5" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="132.0,388.5 184.0,388.5 204.0,423.1 184.0,457.8 132.0,457.8 112.0,423.1" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="204.0,353.8 256.0,353.8 276.0,388.5 256.0,423.1 204.0,423.1 184.0,388.5" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
-  <text x="86.0" y="379.5" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="28" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">लघु</text>
-  <text x="86.0" y="407.5" font-family="Charter, Georgia, Times, serif" font-size="22" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">laghu</text>
-  <text x="158.0" y="414.1" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="28" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">लघु</text>
-  <text x="158.0" y="442.1" font-family="Charter, Georgia, Times, serif" font-size="22" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">laghu</text>
-  <text x="230.0" y="379.5" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="28" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">लघु</text>
-  <text x="230.0" y="407.5" font-family="Charter, Georgia, Times, serif" font-size="22" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">laghu</text>
-  <line x1="50.0" y1="481.8" x2="266.0" y2="481.8" stroke="#888888" stroke-width="2.6"/>
-  <line x1="50.0" y1="481.8" x2="50.0" y2="469.8" stroke="#888888" stroke-width="2.4"/>
-  <text x="50.0" y="507.8" font-family="Charter, Georgia, Times, serif" font-size="22" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#555555">0</text>
-  <line x1="86.0" y1="481.8" x2="86.0" y2="475.8" stroke="#888888" stroke-width="1.5"/>
-  <line x1="122.0" y1="481.8" x2="122.0" y2="469.8" stroke="#888888" stroke-width="2.4"/>
-  <text x="122.0" y="507.8" font-family="Charter, Georgia, Times, serif" font-size="22" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#555555">1</text>
-  <line x1="158.0" y1="481.8" x2="158.0" y2="475.8" stroke="#888888" stroke-width="1.5"/>
-  <line x1="194.0" y1="481.8" x2="194.0" y2="469.8" stroke="#888888" stroke-width="2.4"/>
-  <text x="194.0" y="507.8" font-family="Charter, Georgia, Times, serif" font-size="22" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#555555">2</text>
-  <line x1="230.0" y1="481.8" x2="230.0" y2="475.8" stroke="#888888" stroke-width="1.5"/>
-  <line x1="266.0" y1="481.8" x2="266.0" y2="469.8" stroke="#888888" stroke-width="2.4"/>
-  <text x="266.0" y="507.8" font-family="Charter, Georgia, Times, serif" font-size="22" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#555555">3</text>
-  <text x="158.0" y="535.8" font-family="Charter, Georgia, Times, serif" font-size="25" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">mātrā</text>
+<text x="28.0" y="42.0" font-family="Charter, Georgia, Times, serif" font-size="33" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#1a1a1a">3 mātrās — 3 patterns</text>
+  <text x="28.0" y="78.0" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="24" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#555555">लघु = 1 mātrā    ·    गुरु = 2 mātrās</text>
+  <line x1="50.0" y1="98.0" x2="50.0" y2="469.8" stroke="#c8c8c8" stroke-width="1" stroke-dasharray="3,4"/>
+  <line x1="266.0" y1="98.0" x2="266.0" y2="469.8" stroke="#c8c8c8" stroke-width="1" stroke-dasharray="3,4"/>
+  <polygon points="60.0,102.0 184.0,102.0 204.0,136.6 184.0,171.3 60.0,171.3 40.0,136.6" fill="#aaaaaa" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="204.0,136.6 256.0,136.6 276.0,171.3 256.0,205.9 204.0,205.9 184.0,171.3" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="122.0" y="126.6" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="30" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">गुरु</text>
+  <text x="122.0" y="155.6" font-family="Charter, Georgia, Times, serif" font-size="24" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">guru</text>
+  <text x="230.0" y="161.3" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="30" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">लघु</text>
+  <text x="230.0" y="190.3" font-family="Charter, Georgia, Times, serif" font-size="24" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">laghu</text>
+  <polygon points="60.0,221.9 112.0,221.9 132.0,256.6 112.0,291.2 60.0,291.2 40.0,256.6" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="132.0,256.6 256.0,256.6 276.0,291.2 256.0,325.8 132.0,325.8 112.0,291.2" fill="#aaaaaa" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="86.0" y="246.6" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="30" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">लघु</text>
+  <text x="86.0" y="275.6" font-family="Charter, Georgia, Times, serif" font-size="24" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">laghu</text>
+  <text x="194.0" y="281.2" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="30" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">गुरु</text>
+  <text x="194.0" y="310.2" font-family="Charter, Georgia, Times, serif" font-size="24" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">guru</text>
+  <polygon points="60.0,341.8 112.0,341.8 132.0,376.5 112.0,411.1 60.0,411.1 40.0,376.5" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="132.0,376.5 184.0,376.5 204.0,411.1 184.0,445.8 132.0,445.8 112.0,411.1" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="204.0,341.8 256.0,341.8 276.0,376.5 256.0,411.1 204.0,411.1 184.0,376.5" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="86.0" y="366.5" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="30" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">लघु</text>
+  <text x="86.0" y="395.5" font-family="Charter, Georgia, Times, serif" font-size="24" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">laghu</text>
+  <text x="158.0" y="401.1" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="30" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">लघु</text>
+  <text x="158.0" y="430.1" font-family="Charter, Georgia, Times, serif" font-size="24" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">laghu</text>
+  <text x="230.0" y="366.5" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="30" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">लघु</text>
+  <text x="230.0" y="395.5" font-family="Charter, Georgia, Times, serif" font-size="24" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">laghu</text>
+  <line x1="50.0" y1="469.8" x2="266.0" y2="469.8" stroke="#888888" stroke-width="2.6"/>
+  <line x1="50.0" y1="469.8" x2="50.0" y2="457.8" stroke="#888888" stroke-width="2.4"/>
+  <text x="50.0" y="495.8" font-family="Charter, Georgia, Times, serif" font-size="24" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#555555">0</text>
+  <line x1="86.0" y1="469.8" x2="86.0" y2="463.8" stroke="#888888" stroke-width="1.5"/>
+  <line x1="122.0" y1="469.8" x2="122.0" y2="457.8" stroke="#888888" stroke-width="2.4"/>
+  <text x="122.0" y="495.8" font-family="Charter, Georgia, Times, serif" font-size="24" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#555555">1</text>
+  <line x1="158.0" y1="469.8" x2="158.0" y2="463.8" stroke="#888888" stroke-width="1.5"/>
+  <line x1="194.0" y1="469.8" x2="194.0" y2="457.8" stroke="#888888" stroke-width="2.4"/>
+  <text x="194.0" y="495.8" font-family="Charter, Georgia, Times, serif" font-size="24" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#555555">2</text>
+  <line x1="230.0" y1="469.8" x2="230.0" y2="463.8" stroke="#888888" stroke-width="1.5"/>
+  <line x1="266.0" y1="469.8" x2="266.0" y2="457.8" stroke="#888888" stroke-width="2.4"/>
+  <text x="266.0" y="495.8" font-family="Charter, Georgia, Times, serif" font-size="24" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#555555">3</text>
+  <text x="158.0" y="525.8" font-family="Charter, Georgia, Times, serif" font-size="27" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">mātrā</text>
 </svg>
