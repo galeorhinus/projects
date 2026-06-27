@@ -172,8 +172,8 @@ def render_strip(tokens: list[str], measure_start_x: float, row_cy: float) -> st
         )
         dev = "गुरु" if u["t"] == "G" else "लघु"
         iast = "guru" if u["t"] == "G" else "laghu"
-        labels.append(text(cx, cy - 6, dev, 19, weight="600", family=DEV_FONT, halo=4.0))
-        labels.append(text(cx, cy + 16, iast, 12, fill=MUTED, style="italic", halo=3.0))
+        labels.append(text(cx, cy - 6, dev, 19, weight="600", family=DEV_FONT))
+        labels.append(text(cx, cy + 16, iast, 12, fill=MUTED, style="italic"))
     return "\n  ".join(polys + labels)
 
 
