@@ -41,7 +41,7 @@ from dhatu_hexagon import EDGE_LENGTH as _EDGE_BASE, HEX_HEIGHT as _HH_BASE  # n
 
 # --- Geometry (matches the staggered Ch 10/11/12 hex grammar) --------------
 
-TILE_SCALE = 0.5                 # shrink the tiles for a less crowded page
+TILE_SCALE = 0.45                # shrink the tiles for a less crowded page
 EDGE_LENGTH = _EDGE_BASE * TILE_SCALE
 HEX_HEIGHT = _HH_BASE * TILE_SCALE
 SLANT = EDGE_LENGTH / 2          # horizontal projection of one slanted edge
@@ -68,16 +68,16 @@ LATIN_FONT = "Charter, Georgia, Times, serif"
 DEV_FONT = "Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif"
 
 # --- Font sizes (px) -------------------------------------------------------
-# Tuned so the COMBINED cascade (matra_tiles_combined.py, 686 px tall) prints its
+# Tuned so the COMBINED cascade (matra_tiles_combined.py, 644 px tall) prints its
 # text at these point sizes at 6 in tall: title 11 / legend 10 / IAST 8 / ruler
-# numbers 9.5 / mātrā label 9.5.  (px = pt × 686 / 432.)
+# numbers 9.5 / mātrā label 9.5.  (px = pt × 644 / 432.)
 
-FS_TITLE = 17.5
-FS_LEGEND = 15.9
-FS_DEV = 17.5
-FS_IAST = 12.7
-FS_RULER_NUM = 15.1
-FS_MATRA_LABEL = 15.1
+FS_TITLE = 16.4
+FS_LEGEND = 14.9
+FS_DEV = 16.4
+FS_IAST = 11.9
+FS_RULER_NUM = 14.2
+FS_MATRA_LABEL = 14.2
 
 # --- Layout ----------------------------------------------------------------
 

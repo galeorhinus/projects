@@ -30,7 +30,7 @@ from matra_tiles import (  # noqa: E402
 )
 
 MARGIN = 16
-COL_GAP = 24
+COL_GAP = 8
 LEGEND_H = 40
 HEAD_H = 26
 REF_H_IN = 6.0
