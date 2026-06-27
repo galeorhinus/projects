@@ -26,7 +26,7 @@ The book runs on an eclipse. Sanskrit is the Sun (Sūrya); the Western philologi
 
 ### Part II — The Sun's Own Account (*created, anti-entropic, calibrated*)
 - **Chapter 5 — Siddha and Kārya.** Patañjali: the bond between word and meaning is established (*siddha*), not produced.
-- **Chapter 6 — Apabhraṃśa and Entropy.** The grammarians named entropy and engineered against it; the calibrant introduced.
+- **Chapter 6 — Apabhraṃśa and Entropy.** The *vaiyākaraṇāḥ* named entropy and engineered against it; the calibrant introduced.
 
 ### Part III — The Sun's Sound-Body (*sonomeric, not alphabetic*)
 - **Chapter 7 — Oṃ: The Anatomy of Sound.** The voice as the original instrument; the apparatus mapped twice.

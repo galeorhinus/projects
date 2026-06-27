@@ -136,13 +136,13 @@ The two halves of the theft pull in different directions. The botanical half mov
 
 This is **heroic erasure** in grammatical form: praise the named figure so intensely that the architecture that has existed before him disappears. Pāṇini is not the target. The manipulation of Pāṇini is the target. The machinery praises the decoder, then teaches the civilization to remember him as codifier. Reverence is redirected toward the category that stole the architecture: codification.
 
-The praise has two audiences. To Hindus, it says: revere the codifier, not the architecture he decoded. To the pyramid's own students, it says: Sanskrit is impressive, but only because one grammarian fixed it. Both moves protect the same boundary. Other languages may be praised for codification because their standards remain attached to authority — academy, church, court, canon, school, state. Sanskrit is more dangerous. Pāṇini's text does not prove codification by authority. It points back to calibration by architecture. If that recognition stands, the pyramid's own readers may see the calibrant and ask why authority was needed at all.
+The praise has two audiences. To Hindus, it says: revere the codifier, not the architecture he decoded. To the pyramid's own students, it says: Sanskrit is impressive, but only because one documenter fixed it. Both moves protect the same boundary. Other languages may be praised for codification because their standards remain attached to authority — academy, church, court, canon, school, state. Sanskrit is more dangerous. Pāṇini's text does not prove codification by authority. It points back to calibration by architecture. If that recognition stands, the pyramid's own readers may see the calibrant and ask why authority was needed at all.
 
-The counter-frame is simple:
+The refrain is simple:
 
 > ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.***
 
-The whole case turns on direction. *Codify* runs from disorder toward imposed order; *decode* runs from prior order toward explicit specification. Sanskrit's own word is ***vyākaraṇam*** (व्याकरणम्): *vi-* (वि, *apart*) + *ā-* (आ, *fully*) + *kṛ* (कृ, *to do, to make*) — *unfolding apart*. The grammarian is the ***vaiyākaraṇaḥ*** (वैयाकरणः), the one who performs that unfolding. Chapter 5 lays out the grammatical lineage in detail; Chapter 10 develops Yaska's *agni* decoding as a worked example.
+The whole case turns on direction. *Codify* runs from disorder toward imposed order; *decode* runs from prior order toward explicit specification. Sanskrit's own word is ***vyākaraṇam*** (व्याकरणम्): *vi-* (वि, *apart*) + *ā-* (आ, *fully*) + *kṛ* (कृ, *to do, to make*) — *unfolding apart*. The ***vaiyākaraṇaḥ*** (वैयाकरणः) is the one who performs that unfolding. Chapter 5 lays out the analytical lineage in detail; Chapter 10 develops Yaska's *agni* decoding as a worked example.
 
 Pāṇini did not codify Sanskrit. He decoded it. His *Aṣṭādhyāyī* documents the finest surviving decoding of an order already operating. The asuric machinery reverses that direction and calls the reversal *codification*. That is the institutional scale of the same category theft.
 
@@ -150,7 +150,7 @@ Pāṇini did not codify Sanskrit. He decoded it. His *Aṣṭādhyāyī* docume
 
 The botanical model works for languages that grow and decay. It fails when applied to a language engineered to resist growth and decay as linguistic drift. To force Sanskrit into the tree, the discipline had to flatten its structural primitives into biological organs, treat its grammar as evolutionary residue, and treat its preservation as artificial freezing after Pāṇini. What disappeared was not nuance. It was the category Sanskrit occupies in its own civilizational grammar: not *prakṛti*, but *saṃskṛti*.
 
-Patañjali had already labeled the asymmetry. The grammarian's task was to defend the correctly formed word against its fallings-away, the **अपभ्रंशाः (*apabhraṃśāḥ*)**. He gave the entropy its name, the entropy the European framework later mistook for Sanskrit's nature. He also insisted that the bond between word and meaning was **सिद्ध (*siddha*)** — established, permanent — not **कार्य (*kārya*)**, produced and ongoing. The direction is clear: the engineered word stands; the natural variants fall away from it. Chapters 5 and 6 develop that framework on its own terms.
+Patañjali had already labeled the asymmetry. The *vaiyākaraṇaḥ* defends the correctly formed word against its fallings-away, the **अपभ्रंशाः (*apabhraṃśāḥ*)**. He gave the entropy its name, the entropy the European framework later mistook for Sanskrit's nature. He also insisted that the bond between word and meaning was **सिद्ध (*siddha*)** — established, permanent — not **कार्य (*kārya*)**, produced and ongoing. The direction is clear: the engineered word stands; the natural variants fall away from it. Chapters 5 and 6 develop that framework on its own terms.
 
 The botanical metaphor describes growth and decay. Sanskrit was built so that neither would define it.
 

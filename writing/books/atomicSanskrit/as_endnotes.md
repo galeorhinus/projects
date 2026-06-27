@@ -380,7 +380,7 @@ Second, the connector ***tadyathā*** (तद्यथा) — *"to wit," "as fo
 
 Third, the prose form is *bhāṣya* — commentarial prose — not metrical *śloka* (verse). The *Mahābhāṣya* is overwhelmingly prose commentary on Pāṇini's *sūtras* and Kātyāyana's *vārttikas*, with embedded *śloka-vārttikas* at certain points. This passage is *bhāṣya* prose. Secondary literature occasionally references the line as a *śloka*; precision matters. The form does not weaken the citation — the *Paspaśāhnika*'s opening positions carry the full canonical weight of the vyākaraṇa discipline regardless of prose-versus-verse form.
 
-The passage is the *locus classicus* for the *apabhraṃśa* phenomenon in the Indic vyākaraṇa discipline. Every later reference to *apabhraṃśa* in the *vyākaraṇa* literature — and every later defense of the *siddha* axiom (Chapter 5 §5.2) against the entropy the *apabhraṃśas* embody — refers back, explicitly or implicitly, to this passage. Chapter 6 splits the passage across §6.2 and §6.3 because the two halves of the argument (quantitative asymmetry; per-word worked example) need to land in sequence, with the three-category analysis of §6.4 already prepared by the time the *gauḥ* variants are introduced. The textual unity restored here is what the *Mahābhāṣya* itself preserves — a single passage in which the grammarian states the general claim, gives the per-word structure, and produces the example, in the order in which the demonstration proceeds.
+The passage is the *locus classicus* for the *apabhraṃśa* phenomenon in the Indic vyākaraṇa discipline. Every later reference to *apabhraṃśa* in the *vyākaraṇa* literature — and every later defense of the *siddha* axiom (Chapter 5 §5.2) against the entropy the *apabhraṃśas* embody — refers back, explicitly or implicitly, to this passage. Chapter 6 splits the passage across §6.2 and §6.3 because the two halves of the argument (quantitative asymmetry; per-word worked example) need to land in sequence, with the three-category analysis of §6.4 already prepared by the time the *gauḥ* variants are introduced. The textual unity restored here is what the *Mahābhāṣya* itself preserves — a single passage in which the *vaiyākaraṇaḥ* states the general claim, gives the per-word structure, and produces the example, in the order in which the demonstration proceeds.
 
 ---
 
@@ -731,7 +731,7 @@ Some *nastika* systems were later captured by institutional, imperial, or ideolo
 
 ### `parampara-vyakaranam-bhartrhari-position-1`
 
-**Short:** The *vyākaraṇa* discipline's own self-description presupposes an already-formed linguistic object. Patañjali's ***siddhe śabdārthasambandhe*** states that the bond between word and meaning is already established; Bhartṛhari's *Vākyapadīya* treats *śabda* as structurally prior to ordinary speech. The grammarian decodes; he does not invent.
+**Short:** The *vyākaraṇa* discipline's own self-description presupposes an already-formed linguistic object. Patañjali's ***siddhe śabdārthasambandhe*** states that the bond between word and meaning is already established; Bhartṛhari's *Vākyapadīya* treats *śabda* as structurally prior to ordinary speech. The *vaiyākaraṇaḥ* decodes; he does not invent.
 
 **Deployments:** Preface — "The Lineage This Book Extends."
 
@@ -859,7 +859,7 @@ The implication of Staal's account parallels Kak's: the formal-systems character
 
 ### `patanjali-siddhe-shabdarthasambandhe`
 
-**Short:** Patañjali's *Mahābhāṣya* (महाभाष्य) opens with ***siddhe śabdārthasambandhe*** (सिद्धे शब्दार्थसम्बन्धे; Kielhorn ed. vol. I, p. 6) — *"the relation between word and meaning being established"*; the *siddhe* (सिद्धे, *established*) asserts at the foundational level of the *vyākaraṇa* (व्याकरण) discipline's self-description that Sanskrit is a received and operating system whose word-meaning relations are not subjects of analysis but premises of it — the grammarians are *vaiyākaraṇāḥ* (वैयाकरणाः), decoders, not engineers.
+**Short:** Patañjali's *Mahābhāṣya* (महाभाष्य) opens with ***siddhe śabdārthasambandhe*** (सिद्धे शब्दार्थसम्बन्धे; Kielhorn ed. vol. I, p. 6) — *"the relation between word and meaning being established"*; the *siddhe* (सिद्धे, *established*) asserts at the foundational level of the *vyākaraṇa* (व्याकरण) discipline's self-description that Sanskrit is a received and operating system whose word-meaning relations are not subjects of analysis but premises of it — the *vaiyākaraṇāḥ* (वैयाकरणाः) are decoders, not engineers.
 
 **Deployments:** Preface ¶17 — the methodology paragraph that cites *siddhe śabdārthasambandhe* as a foundational axiom the book takes seriously rather than dismissing as theological flourish.
 
@@ -878,7 +878,7 @@ The polemic load the phrase carries — and which the *Preface* picks up — is 
 <!-- AISWEEP-OLD
 The implication is structural. Patañjali's opening axiom asserts, at the foundational level of the *vyākaraṇa* discipline's self-description, that Sanskrit is a received and operating system whose word-meaning relations are not subjects of analysis but premises of it.
 AISWEEP-END -->
-Patañjali's opening axiom asserts, at the foundational level of the *vyākaraṇa* discipline's self-description, that Sanskrit is a received and operating system whose word-meaning relations are not subjects of analysis but premises of it. The engineering of the system is *not* the work of the grammarians; the grammarians inherited the encoded system and decoded it. This is the same point the book makes across Chapter 1 §1.6 (*heroic erasure* and the pyramid's celebration of Pāṇini), Chapter 16, and the foundational chapters on the *varṇamālā* and *dhātupāṭha*: the named figures (Pāṇini, Patañjali, the *Prātiśākhya* compilers) are ***vaiyākaraṇāḥ*** (वैयाकरणाः) — *decoders*, *analysts*, *unfolders-apart* — not engineers. The axiom *siddhe śabdārthasambandhe* is the discipline's own statement of this distinction: the system was engineered upstream, carried in the *Vedas*, and decoded by the *vaiyākaraṇāḥ* rather than manufactured by them.
+Patañjali's opening axiom asserts, at the foundational level of the *vyākaraṇa* discipline's self-description, that Sanskrit is a received and operating system whose word-meaning relations are not subjects of analysis but premises of it. The engineering of the system is *not* the work of the *vaiyākaraṇāḥ*; they inherited the encoded system and decoded it. This is the same point the book makes across Chapter 1 §1.6 (*heroic erasure* and the pyramid's celebration of Pāṇini), Chapter 16, and the foundational chapters on the *varṇamālā* and *dhātupāṭha*: the named figures (Pāṇini, Patañjali, the *Prātiśākhya* compilers) are ***vaiyākaraṇāḥ*** (वैयाकरणाः) — *decoders*, *analysts*, *unfolders-apart* — not engineers. The axiom *siddhe śabdārthasambandhe* is the discipline's own statement of this distinction: the system was engineered upstream, carried in the *Vedas*, and decoded by the *vaiyākaraṇāḥ* rather than manufactured by them.
 
 Source: Kielhorn's edition of the *Mahābhāṣya* (third edition revised by Abhyankar; Bhandarkar Oriental Research Institute, Pune), volume I, p. 6, opening of the *Paspaśāhnika*; standard scholarly references include S. D. Joshi and J. A. F. Roodbergen's translation-commentary series on the *Mahābhāṣya* (Sahitya Akademi / Pune University publications, 1968–2003).
 
@@ -1605,11 +1605,11 @@ No separate prose is required for `assalayana-sutta-fwd`; the canonical treatmen
 
 ### `shakalya-padapatha`
 
-**Short:** ***Śākalya*** (शाकल्य) — pre-Pāṇinian grammarian named in the *Aṣṭādhyāyī* and credited across the lineage-chain with producing the ***Padapāṭha*** (पदपाठ) of the *Ṛgveda* — the word-by-word recitation with *sandhi* (सन्धि) undone and grammatical case and number supplied; Pāṇini cites Śākalya at *Aṣṭādhyāyī* 8.4.51 (*visarga* treatment), 1.1.16 (compound boundaries), 6.1.127 (vowel-*sandhi*), and 8.3.18 (*anusvāra*) — recording points where he either follows or overrules his predecessor's analytical decisions.
+**Short:** ***Śākalya*** (शाकल्य) — pre-Pāṇinian *vaiyākaraṇaḥ* named in the *Aṣṭādhyāyī* and credited across the lineage-chain with producing the ***Padapāṭha*** (पदपाठ) of the *Ṛgveda* — the word-by-word recitation with *sandhi* (सन्धि) undone and grammatical case and number supplied; Pāṇini cites Śākalya at *Aṣṭādhyāyī* 8.4.51 (*visarga* treatment), 1.1.16 (compound boundaries), 6.1.127 (vowel-*sandhi*), and 8.3.18 (*anusvāra*) — recording points where he either follows or overrules his predecessor's analytical decisions.
 
-**Deployments:** Chapter 5 §5.1 ¶ (the pre-Pāṇinian grammarians paragraph) — the citation anchor for Śākalya's *Padapāṭha* on the *Ṛgveda*.
+**Deployments:** Chapter 5 §5.1 ¶ (the pre-Pāṇinian *vaiyākaraṇāḥ* paragraph) — the citation anchor for Śākalya's *Padapāṭha* on the *Ṛgveda*.
 
-***Śākalya (शाकल्य)*** is one of the pre-Pāṇinian grammarians named in the *Aṣṭādhyāyī* and credited across the lineage with the production of the ***Padapāṭha (पदपाठ)*** for the *Ṛgveda* — the word-by-word recitation in which each *pada* of the *Saṃhitā-pāṭha* is decomposed into its pre-*sandhi* constituents and presented in its isolated grammatical form. The *Padapāṭha* is the second of the eleven *pāṭhas* (see endnote `eleven-pathas`) and operates as the analytical key to the continuous-sandhi *Saṃhitā* recitation. Producing it requires substantial grammatical sophistication — the analyst must identify the *sandhi*-internal word boundaries, undo the *sandhi* transformations to recover the underlying word forms, separate compound elements where appropriate, and present each *pada* with its grammatical case and number supplied.
+***Śākalya (शाकल्य)*** is one of the pre-Pāṇinian *vaiyākaraṇāḥ* named in the *Aṣṭādhyāyī* and credited across the lineage with the production of the ***Padapāṭha (पदपाठ)*** for the *Ṛgveda* — the word-by-word recitation in which each *pada* of the *Saṃhitā-pāṭha* is decomposed into its pre-*sandhi* constituents and presented in its isolated grammatical form. The *Padapāṭha* is the second of the eleven *pāṭhas* (see endnote `eleven-pathas`) and operates as the analytical key to the continuous-sandhi *Saṃhitā* recitation. Producing it requires substantial grammatical sophistication — the analyst must identify the *sandhi*-internal word boundaries, undo the *sandhi* transformations to recover the underlying word forms, separate compound elements where appropriate, and present each *pada* with its grammatical case and number supplied.
 
 The *Padapāṭha* of the *Ṛgveda* attributed to Śākalya is preserved across the surviving *Śākala-śākhā* recension of the *Ṛgveda* (the standard recension transmitted through the *Śākalya* lineage). Pāṇini cites Śākalya by name at multiple points in the *Aṣṭādhyāyī*, including 8.4.51 (regarding *visarga*-treatment in the *Padapāṭha*), 1.1.16 (regarding the *Padapāṭha*'s treatment of certain compound boundaries), 6.1.127 (vowel-sandhi treatment), and 8.3.18 (regarding *anusvāra*-treatment). The citations record points where Pāṇini either follows Śākalya's analytical decisions or, at specific points, overrules them — preserving Śākalya's alternative analysis as a recorded option.
 
@@ -1619,13 +1619,13 @@ Standard references: the *Ṛgveda* *Padapāṭha* in the Theodor Aufrecht and F
 
 ---
 
-### `panini-cites-pre-paninian-grammarians`
+### `panini-cites-pre-paninian-vaiyakaranas`
 
-**Short:** Pāṇini's *Aṣṭādhyāyī* (अष्टाध्यायी) cites by name a roster of pre-Pāṇinian grammarians — ***Āpiśali*** (आपिशलि, 6.1.92), ***Kāśyapa*** (काश्यप, 1.2.25, 8.4.67), ***Gārgya*** (गार्ग्य, 7.3.99, 8.3.20), ***Gālava*** (गालव, 6.3.61, 7.1.74, 8.4.67), ***Cākravarmaṇa*** (चाक्रवर्मण, 6.1.130), ***Bhāradvāja*** (भारद्वाज, 7.2.63), ***Saunaga*** (सौनाग), ***Senaka*** (सेनक, 5.4.112), and ***Sphoṭāyana*** (स्फोटायन, 6.1.123) — each citation recording where Pāṇini ratifies, modifies, or preserves alternative analyses; the *Aṣṭādhyāyī* is not the founding moment of Sanskrit grammar but the finest decoding of a discipline with substantial prior depth.
+**Short:** Pāṇini's *Aṣṭādhyāyī* (अष्टाध्यायी) cites by name a roster of pre-Pāṇinian *vaiyākaraṇāḥ* — ***Āpiśali*** (आपिशलि, 6.1.92), ***Kāśyapa*** (काश्यप, 1.2.25, 8.4.67), ***Gārgya*** (गार्ग्य, 7.3.99, 8.3.20), ***Gālava*** (गालव, 6.3.61, 7.1.74, 8.4.67), ***Cākravarmaṇa*** (चाक्रवर्मण, 6.1.130), ***Bhāradvāja*** (भारद्वाज, 7.2.63), ***Saunaga*** (सौनाग), ***Senaka*** (सेनक, 5.4.112), and ***Sphoṭāyana*** (स्फोटायन, 6.1.123) — each citation recording where Pāṇini ratifies, modifies, or preserves alternative analyses; the *Aṣṭādhyāyī* is not the founding moment of Sanskrit grammar but the finest decoding of a discipline with substantial prior depth.
 
-**Deployments:** Chapter 5 §5.1 ¶ — the cluster citation anchoring the list of nine other pre-Pāṇinian grammarians whose work Pāṇini engages in the *Aṣṭādhyāyī*.
+**Deployments:** Chapter 5 §5.1 ¶ — the cluster citation anchoring the list of nine other pre-Pāṇinian *vaiyākaraṇāḥ* whose work Pāṇini engages in the *Aṣṭādhyāyī*.
 
-The *Aṣṭādhyāyī* cites by name a roster of grammarians whose work predates Pāṇini's decoding and whose analytical decisions the *Aṣṭādhyāyī* engages — sometimes adopting, sometimes overruling, sometimes preserving as alternatives. The named figures and the relevant Pāṇinian *sūtras*:
+The *Aṣṭādhyāyī* cites by name a roster of *vaiyākaraṇāḥ* whose work predates Pāṇini's decoding and whose analytical decisions the *Aṣṭādhyāyī* engages — sometimes adopting, sometimes overruling, sometimes preserving as alternatives. The named figures and the relevant Pāṇinian *sūtras*:
 
 - ***Āpiśali (आपिशलि)*** — cited at *Aṣṭādhyāyī* 6.1.92 regarding a specific *vṛddhi*-formation rule.
 - ***Kāśyapa (काश्यप)*** — cited at 1.2.25 regarding *liṭ*-tense formation; 8.4.67 regarding *anusvāra*.
@@ -1637,11 +1637,11 @@ The *Aṣṭādhyāyī* cites by name a roster of grammarians whose work predate
 - ***Senaka (सेनक)*** — cited at 5.4.112 regarding compound formation.
 - ***Sphoṭāyana (स्फोटायन)*** — cited at 6.1.123 regarding the *sphoṭa*-doctrine of word-meaning, which Pāṇini engages in his discussion of word-form vs. word-meaning relations.
 
-The full count of pre-Pāṇinian grammarians cited in the *Aṣṭādhyāyī* exceeds the nine listed here. The standard reckoning across the Pāṇinian discipline's literature (the *Mahābhāṣya*, the *Kāśikā-vṛtti*, the *Padamañjarī*, and modern scholarly reconstructions) identifies more than a dozen named individuals whose work Pāṇini engages directly. Each citation operates as an acknowledgment that a specific analytical decision has been made by a predecessor; Pāṇini's *sūtra* either ratifies the predecessor's decision, modifies it, or preserves the alternative analysis as a recorded option.
+The full count of pre-Pāṇinian *vaiyākaraṇāḥ* cited in the *Aṣṭādhyāyī* exceeds the nine listed here. The standard reckoning across the Pāṇinian discipline's literature (the *Mahābhāṣya*, the *Kāśikā-vṛtti*, the *Padamañjarī*, and modern scholarly reconstructions) identifies more than a dozen named individuals whose work Pāṇini engages directly. Each citation operates as an acknowledgment that a specific analytical decision has been made by a predecessor; Pāṇini's *sūtra* either ratifies the predecessor's decision, modifies it, or preserves the alternative analysis as a recorded option.
 
-The structural significance the chapter establishes: the *Aṣṭādhyāyī* is not the founding moment of Sanskrit grammar but the finest decoding of a discipline with substantial prior depth. The named figures whose work Pāṇini engages constitute a teacher-student lineage-chain of grammatical analysis that operated for many generations before Pāṇini's decoding. Pāṇini's contribution is the integration, regularization, and systematic presentation of this prior grammatical framework. The engineering of Sanskrit — the architecture displayed in the *varṇamālā* and the broader system — is upstream of even this pre-Pāṇinian vyākaraṇa discipline; the pre-Pāṇinian grammarians are themselves operating on an architecture that was already in place.
+The structural significance the chapter establishes: the *Aṣṭādhyāyī* is not the founding moment of Sanskrit grammar but the finest decoding of a discipline with substantial prior depth. The named figures whose work Pāṇini engages constitute a teacher-student lineage-chain of grammatical analysis that operated for many generations before Pāṇini's decoding. Pāṇini's contribution is the integration, regularization, and systematic presentation of this prior grammatical framework. The engineering of Sanskrit — the architecture displayed in the *varṇamālā* and the broader system — is upstream of even this pre-Pāṇinian vyākaraṇa discipline; the pre-Pāṇinian *vaiyākaraṇāḥ* are themselves operating on an architecture that was already in place.
 
-Standard references: George Cardona, *Pāṇini: His Work and Its Traditions* (Motilal Banarsidass, 1988), Chapter 1 (introduction) and the citations across the analytical chapters; Hartmut Scharfe, *Grammatical Literature* (Otto Harrassowitz, 1977), Chapter 4 on the pre-Pāṇinian discipline; S. M. Katre, *Pāṇinian Studies* (Sarasvati Vihar Series, 1968); Paul Thieme, *Pāṇini and the Veda* (Allahabad, 1935) — the foundational philological-reconstruction work on Pāṇini's pre-Pāṇinian-grammarian citations.
+Standard references: George Cardona, *Pāṇini: His Work and Its Traditions* (Motilal Banarsidass, 1988), Chapter 1 (introduction) and the citations across the analytical chapters; Hartmut Scharfe, *Grammatical Literature* (Otto Harrassowitz, 1977), Chapter 4 on the pre-Pāṇinian discipline; S. M. Katre, *Pāṇinian Studies* (Sarasvati Vihar Series, 1968); Paul Thieme, *Pāṇini and the Veda* (Allahabad, 1935) — the foundational philological-reconstruction work on Pāṇini's pre-Pāṇinian *vaiyākaraṇa* citations.
 
 ---
 
@@ -2187,7 +2187,7 @@ The principal *Śikṣā* texts (the *Vedāṅga* discipline of phonetic-recitat
 - ***Pāṇinīya-Śikṣā (पाणिनीयशिक्षा)*** — attributed to Pāṇini's discipline (though scholarly opinion varies on the authorship). The standard short introductory text on Sanskrit phonetics.
 - ***Nāradīya-Śikṣā*** — the *Sāmaveda* phonetic discipline, with substantial musical-theoretical content.
 - ***Yājñavalkya-Śikṣā*** — attached to the *Yājñavalkya* śākhā.
-- ***Āpiśali-Śikṣā*** — attached to the pre-Pāṇinian grammarian Āpiśali.
+- ***Āpiśali-Śikṣā*** — attached to the pre-Pāṇinian *vaiyākaraṇaḥ* Āpiśali.
 - ***Vyāsa-Śikṣā*** — attributed to Vyāsa.
 - and others: *Vasiṣṭha-Śikṣā*, *Kātyāyana-Śikṣā*, *Parāśara-Śikṣā*, *Māṇḍūkī-Śikṣā*.
 
@@ -2537,7 +2537,7 @@ The pair operates across the *Aṣṭādhyāyī* at multiple points. Specific *s
 
 The structural significance for Ch16: Pāṇini's *Aṣṭādhyāyī*, in operating with the *chandasi* / *bhāṣāyām* rule-markers as a structural feature of the grammar's rule-system, decodes a *two-mode parallel* analysis of Sanskrit. The *chandas* mode is not historically prior to the *bhāṣā* mode; the two modes are synchronically parallel, with rules of the grammar tagging which mode each rule applies to. The *chandas* mode preserves certain phonological features (the retroflex lateral ळ (*ḷ*), the three-fold accent system, the *plutaḥ* extended vowels) and certain morphological options (specific Vedic verb forms, specific Vedic compound formations) that the *bhāṣā* mode does not carry. The two modes share the broader phonological and morphological architecture; they differ at specific points the grammar explicitly flags.
 
-The category matters because the conventional account of the *chandasi* / *bhāṣāyām* relationship treats it as a historical relationship — *"Vedic Sanskrit"* as the older form, *"Classical Sanskrit"* as the descendant — and treats the relevant Pāṇinian rules as documenting the descent. Pāṇini's own mode rules do not support that account. The *Aṣṭādhyāyī* treats the two modes as synchronically parallel rule-sets within a single grammatical system, with the grammarian operating both modes as features of the decoded language.
+The category matters because the conventional account of the *chandasi* / *bhāṣāyām* relationship treats it as a historical relationship — *"Vedic Sanskrit"* as the older form, *"Classical Sanskrit"* as the descendant — and treats the relevant Pāṇinian rules as documenting the descent. Pāṇini's own mode rules do not support that account. The *Aṣṭādhyāyī* treats the two modes as synchronically parallel rule-sets within a single grammatical system, with the *vaiyākaraṇaḥ* operating both modes as features of the decoded language.
 
 Standard references: Pāṇini's *Aṣṭādhyāyī*, with the relevant *chandasi* and *bhāṣāyām* attributions. Standard editions: S. M. Katre, *Aṣṭādhyāyī of Pāṇini* (University of Texas Press, 1987); Rama Nath Sharma, *The Aṣṭādhyāyī of Pāṇini* (Munshiram Manoharlal, 6-volume edition, 1987–2003); Vasu's *The Ashtadhyayi of Panini* (Allahabad, 1891). Scholarly treatments: George Cardona, *Pāṇini: His Work and Its Traditions* (Motilal Banarsidass, 1988); Madhav Deshpande, "The Synchronic and the Diachronic in Pāṇinian Grammar" (in *Papers in Linguistics* 6, 1973); Hartmut Scharfe, *Grammatical Literature* (Otto Harrassowitz, 1977), Chapter 5.
 
@@ -3008,7 +3008,7 @@ The principal canonical *Śikṣā* texts of the *Vedāṅga* disciplines:
 
 3. ***Vāsiṣṭhī-Śikṣā (वासिष्ठीशिक्षा)*** — attached to the *Vasiṣṭha* lineage; develops the *Sāmavedic* recitation framework.
 
-4. ***Āpiśali-Śikṣā (आपिशलिशिक्षा)*** — attached to the pre-Pāṇinian grammarian Āpiśali; one of the earlier canonical *Śikṣā* texts.
+4. ***Āpiśali-Śikṣā (आपिशलिशिक्षा)*** — attached to the pre-Pāṇinian *vaiyākaraṇaḥ* Āpiśali; one of the earlier canonical *Śikṣā* texts.
 
 5. ***Bhāradvāja-Śikṣā (भारद्वाजशिक्षा)*** — attached to the Bhāradvāja lineage.
 
@@ -3498,7 +3498,7 @@ Standard references: *Donati Ars Grammatica* in *Grammatici Latini* Volume IV (H
 
 - In the seventh century CE, the Tibetan king ***Songtsen Gampo*** (Srong-btsan sgam-po, reigned c. 618–649 CE) dispatched a mission to India specifically to study Sanskrit grammatical methodology and to develop a writing system for the Tibetan language.
 
-- Thonmi Sambhoṭa led the mission. He spent several years in India studying with Sanskrit grammarians (the specific teachers named vary across the sources; the *Lalitavistara* tradition and various Tibetan-historiographical accounts cite Indian *paṇḍitas* whose Sanskrit names are preserved in Tibetan transliteration).
+- Thonmi Sambhoṭa led the mission. He spent several years in India studying with Sanskrit *vaiyākaraṇāḥ* (the specific teachers named vary across the sources; the *Lalitavistara* tradition and various Tibetan-historiographical accounts cite Indian *paṇḍitas* whose Sanskrit names are preserved in Tibetan transliteration).
 
 - On his return, Thonmi Sambhoṭa is credited with: (a) the design of the Tibetan script (modeled on Brāhmī, with adaptations for the Tibetan phonological inventory); and (b) the authorship of the two foundational Tibetan grammatical works, ***Sum cu pa (Sum-cu-pa — The Thirty Verses)*** and ***Rtags kyi 'jug pa (rTags kyi 'jug pa — The Application of Signs)***.
 
@@ -3936,7 +3936,7 @@ The 2026-05-25 cleanup corrected the older matrix that still used pre-cleanup sc
 
 **Short:** ***Vyākaraṇam*** (व्याकरणम्) = *vi-* (वि-, *apart*) + *ā-* (आ-, *toward*) + *kṛ* (कृ, *to do, to make*) — formed via the verbal stem *vi-ā-kṛ* through the abstract-noun derivation, with literal sense *the act of taking-apart*, *unfolding-apart*, *separating into constituents* — i.e., **analysis**, *de-composition*, not composition. Foundational for the book's polemic against the dogma's *codification* vocabulary: Sanskrit's own name for what Pāṇini did is the opposite operation — the *taking-apart* of a system already present. Sources: Monier-Williams 1899, Apte 1890, Yaska's *Nirukta*, the *Mahābhāṣya*.
 
-**Deployments:** Ch1 §1.1 (the Bakers' Story / standing polemic phrase); Ch1 §1.6 (heroic erasure); Chapter 5 §5.1 (the *vyākaraṇam* / *vaiyākaraṇa* paragraph); Ch10 (the *Dhātupāṭha* as documentation of an inherited inventory); Ch13 §13.3; Ch14 §14.7; Claim #2.
+**Deployments:** Ch1 §1.1 (the Bakers' Story / book refrain); Ch1 §1.6 (heroic erasure); Chapter 5 §5.1 (the *vyākaraṇam* / *vaiyākaraṇa* paragraph); Ch10 (the *Dhātupāṭha* as documentation of an inherited inventory); Ch13 §13.3; Ch14 §14.7; Claim #2.
 
 The Sanskrit word ***व्याकरणम् (*vyākaraṇam*)*** decomposes morphologically as **वि (*vi-*, "apart, asunder")** + **आ (*ā-*, "toward, fully")** + **कृ (*kṛ*, "to do, to make")**, formed via the verbal stem *vi-ā-kṛ* through the abstract-noun derivation that produces *vyākaraṇa* from the corresponding finite-verb forms. The literal sense is *the act of taking-apart*, *unfolding-apart*, *separating into constituents* — i.e., **analysis**. The operation the term denotes is *de-composition*, not composition: the analytical procedure by which a given system (the language) is decomposed into its parts, not the constructive procedure by which a system is built.
 
@@ -3948,15 +3948,15 @@ Source: Standard Sanskrit lexicographical references (Monier-Williams 1899; Apte
 
 ### `vaiyakarana-role-title`
 
-**Short:** ***Vaiyākaraṇaḥ*** (वैयाकरणः, *one who performs vyākaraṇam*; plural ***vaiyākaraṇāḥ*** वैयाकरणाः) — the Sanskrit role-title for the *grammarian-as-analyst*, derived by the *aṇ-taddhita* suffix with *vṛddhi* of the first syllable. Pāṇini, Kātyāyana, Patañjali, and the pre-Pāṇinian grammarians Pāṇini cites by name (Śākalya, Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Saunaga, Senaka, Sphoṭāyana) are all designated *vaiyākaraṇāḥ*. The discipline does *not* call them ***sthapati*** (architect), ***nirmātṛ*** (constructor), or any cognate of *engineer* — the role-attribution is uniformly *decoder*, *one who unfolds-apart*, contesting the pyramid's *codification* claim from inside the lineage-chain's own vocabulary.
+**Short:** ***Vaiyākaraṇaḥ*** (वैयाकरणः, *one who performs vyākaraṇam*; plural ***vaiyākaraṇāḥ*** वैयाकरणाः) — the Sanskrit role-title for the decoder-analyst, derived by the *aṇ-taddhita* suffix with *vṛddhi* of the first syllable. Pāṇini, Kātyāyana, Patañjali, and the pre-Pāṇinian *vaiyākaraṇāḥ* Pāṇini cites by name (Śākalya, Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Saunaga, Senaka, Sphoṭāyana) are all designated *vaiyākaraṇāḥ*. The discipline does *not* call them ***sthapati*** (architect), ***nirmātṛ*** (constructor), or any cognate of *engineer* — the role-attribution is uniformly *decoder*, *one who unfolds-apart*, contesting the pyramid's *codification* claim from inside the lineage-chain's own vocabulary.
 
 **Deployments:** Chapter 5 §5.1 (the role-title paragraph); Claim #2.
 
-The Sanskrit role-title for the practitioner of *vyākaraṇam* is ***वैयाकरणः (*vaiyākaraṇaḥ*)*** — *one who performs *vyākaraṇam**, the *grammarian-as-analyst*. The plural is ***वैयाकरणाः (*vaiyākaraṇāḥ*)*** — *the grammarians*. The derivation is by the *aṇ*-*taddhita* suffix (per Pāṇini's own *Aṣṭādhyāyī* — the suffix indicating *"the one who is associated with X"*), with *vṛddhi* of the first syllable yielding *vyā-* → *vai-* and so *vaiyākaraṇa* from *vyākaraṇa*. The Pāṇinian derivational pattern itself produces the role-title; the discipline is internally self-consistent in labeling the activity and the agent.
+The Sanskrit role-title for the practitioner of *vyākaraṇam* is ***वैयाकरणः (*vaiyākaraṇaḥ*)*** — *one who performs *vyākaraṇam**, the decoder-analyst. The plural is ***वैयाकरणाः (*vaiyākaraṇāḥ*)***. The derivation is by the *aṇ*-*taddhita* suffix (per Pāṇini's own *Aṣṭādhyāyī* — the suffix indicating *"the one who is associated with X"*), with *vṛddhi* of the first syllable yielding *vyā-* → *vai-* and so *vaiyākaraṇa* from *vyākaraṇa*. The Pāṇinian derivational pattern itself produces the role-title; the discipline is internally self-consistent in labeling the activity and the agent.
 
-Pāṇini, Kātyāyana, Patañjali, and the pre-Pāṇinian grammarians Pāṇini cites by name — Śākalya, Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Saunaga, Senaka, Sphoṭāyana — are all designated *vaiyākaraṇāḥ* by the discipline. So are the later commentators: Bhartṛhari (author of the *Vākyapadīya*), Helārāja, Kaiyaṭa, Nāgeśa Bhaṭṭa. Yaska's primary designation is *nairukta* (etymologist) — but the *vaiyākaraṇa* and *nairukta* disciplines are closely allied, with the *Nirukta* engaging the grammatical analysis and the *Mahābhāṣya* engaging the etymological one.
+Pāṇini, Kātyāyana, Patañjali, and the pre-Pāṇinian *vaiyākaraṇāḥ* Pāṇini cites by name — Śākalya, Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Saunaga, Senaka, Sphoṭāyana — are all designated *vaiyākaraṇāḥ* by the discipline. So are the later commentators: Bhartṛhari (author of the *Vākyapadīya*), Helārāja, Kaiyaṭa, Nāgeśa Bhaṭṭa. Yaska's primary designation is *nairukta* (etymologist) — but the *vaiyākaraṇa* and *nairukta* disciplines are closely allied, with the *Nirukta* engaging the grammatical analysis and the *Mahābhāṣya* engaging the etymological one.
 
-Critically, the discipline does *not* call any of these figures ***स्थपति (*sthapati*)*** (*architect*, the *Vāstu-śāstra* term for a builder of physical structures), ***निर्माता (*nirmātṛ*)*** (*constructor*), or anything cognate with *engineer*. The role-title is uniformly *vaiyākaraṇa* — *the decoder*, *the one who unfolds-apart*. This is the lineage-chain's own role-attribution: not as engineers of a new system, but as decoders of an encoded one. The standing polemic phrase — *Sanskrit was engineered; encoded in the Vedas; decoded by many; Pāṇini's decoding is the finest* — restates the lineage-chain's own self-description in the polemic idiom that contests the pyramid's *codification* claim.
+Critically, the discipline does *not* call any of these figures ***स्थपति (*sthapati*)*** (*architect*, the *Vāstu-śāstra* term for a builder of physical structures), ***निर्माता (*nirmātṛ*)*** (*constructor*), or anything cognate with *engineer*. The role-title is uniformly *vaiyākaraṇa* — *the decoder*, *the one who unfolds-apart*. This is the lineage-chain's own role-attribution: not as engineers of a new system, but as decoders of an encoded one. The book's refrain — *Sanskrit was engineered; encoded in the Vedas; decoded by many; Pāṇini's decoding is the finest* — restates the lineage-chain's own self-description in the polemic idiom that contests the pyramid's *codification* claim.
 
 Source: Standard Sanskrit lexicographical references (Monier-Williams 1899); Cardona 1976 (*Pāṇini: A Survey of Research*) on the *vaiyākaraṇa* commentarial lineage; Kunjunni Raja 1963 (*Indian Theories of Meaning*) on the broader *śābdika* / *vaiyākaraṇa* discipline.
 
@@ -4139,7 +4139,7 @@ The three deployments are not three successive *codifications* (the earlier acco
 
 The account belongs to *Atomic Sanskrit*'s polemic and does not have an external scholarly source. Its closest precedents are Sanskrit's own categorical distinctions: *śruti* (the corpus form, *that which is heard*) and *smṛti* (the remembered form), with contemporary restatement as a third form the lineage-chain has not previously had occasion to name.
 
-Source: Internal to the argument — Ch19 §19.4 establishes the account; Ch1 §1.1 develops the *codification* contest and lands the four-term polemic stack; Claim #2 deploys the standing polemic phrase *Sanskrit was engineered; encoded in the Vedas; decoded by many; Pāṇini's decoding is the finest* across the three-deployments arc.
+Source: Internal to the argument — Ch19 §19.4 establishes the account; Ch1 §1.1 develops the *codification* contest and lands the four-term polemic stack; Claim #2 deploys the book's refrain *Sanskrit was engineered; encoded in the Vedas; decoded by many; Pāṇini's decoding is the finest* across the three-deployments arc.
 
 ---
 
@@ -4339,13 +4339,13 @@ The cross-*gaṇa* portion of the *prayoga* audit recomputes the per-*gaṇa* C1
 
 *The relation between word and meaning being (eternally) established —* [the discipline of grammar proceeds].
 
-The construction is a locative absolute (*sati-saptamī*): a backgrounding clause that holds a state-of-affairs as the precondition for whatever the main clause then says. The *being-established* is not a tense-form; it is a logical setting — *given* the eternal relation, what follows is the grammarian's work.
+The construction is a locative absolute (*sati-saptamī*): a backgrounding clause that holds a state-of-affairs as the precondition for whatever the main clause then says. The *being-established* is not a tense-form; it is a logical setting — *given* the eternal relation, what follows is the *vaiyākaraṇaḥ*'s work.
 
 #### Source and provenance
 
 The phrase opens the **पस्पशाह्निक (*Paspaśāhnika*)**, the introductory *āhnika* of Patañjali's **महाभाष्य (*Mahābhāṣya*)**. Standard citation: Kielhorn ed. (third edition revised by Abhyankar, BORI, Pune), volume I, p. 1 (line 1). The line is among the most-cited *Mahābhāṣya* incipits in the *vyākaraṇa* commentary lineage; both Kaiyaṭa's *Pradīpa* and Nāgeśa's *Uddyota* take it as the load-bearing opening for the discipline's metaphysical footing.
 
-The line gives the lineage-chain's explicit version of what Chapter 5 develops: grammar is decoding work, not codifying work. The word-meaning relation is *siddha* — established — before the grammarian arrives.
+The line gives the lineage-chain's explicit version of what Chapter 5 develops: *vyākaraṇam* is decoding work, not codifying work. The word-meaning relation is *siddha* — established — before the *vaiyākaraṇaḥ* arrives.
 
 ---
 
@@ -4563,7 +4563,7 @@ The verse states the chapter's thesis in Vedic form: a finished utterance (*ṛc
 
 #### Explicit definition, not implicit encoding
 
-The four-term stack (*engineered / encoded / decoded*) ordinarily casts the Veda as *encoding*: the architecture is carried *in the form* of the language — the *varṇamālā* in how sounds are ordered, the bonding procedure in how words assemble — and a grammarian must *decode* it to state the specification explicitly. Verse 39 is the unusual case. It does not merely encode the architecture in its form; its *content* states the principle outright — the *ṛc* resides in the *akṣara*, the assembled utterance grounded in the imperishable unit beneath it. This is a self-definitional moment: the Veda stating, in propositional form, the very scale-relation the rest of the corpus only encodes. That is why the verse can stand as the chapter's epigraph rather than as one more datum to be decoded — here the architecture speaks about itself.
+The four-term stack (*engineered / encoded / decoded*) ordinarily casts the Veda as *encoding*: the architecture is carried *in the form* of the language — the *varṇamālā* in how sounds are ordered, the bonding procedure in how words assemble — and a *vaiyākaraṇaḥ* must *decode* it to state the specification explicitly. Verse 39 is the unusual case. It does not merely encode the architecture in its form; its *content* states the principle outright — the *ṛc* resides in the *akṣara*, the assembled utterance grounded in the imperishable unit beneath it. This is a self-definitional moment: the Veda stating, in propositional form, the very scale-relation the rest of the corpus only encodes. That is why the verse can stand as the chapter's epigraph rather than as one more datum to be decoded — here the architecture speaks about itself.
 
 #### The fractal inversion: *parame vyoman*
 

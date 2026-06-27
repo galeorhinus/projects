@@ -36,7 +36,7 @@ Third, Pāṇini is placed at the rupture-point. Before him, the language was ch
 
 Fourth, the living speech of the people is cast as the natural continuation of change. The Prakrits and later regional languages are made the organic descendants of spoken usage. Sanskrit becomes the elite, priestly, literary, codified form held artificially above the stream.
 
-The story is elegant because it tracks the assumptions of the field that tells it. Natural languages drift. Standard languages are codified. Older stages precede newer stages. Grammarians regularize what speakers have made unstable. A named genius fits the pyramid's account of knowledge better than an anonymous architecture carried across thousands of years.
+The story is elegant because it tracks the assumptions of the field that tells it. Natural languages drift. Standard languages are codified. Older stages precede newer stages. Named authorities regularize what speakers have made unstable. A named genius fits the pyramid's account of knowledge better than an anonymous architecture carried across thousands of years.
 
 But elegance is not evidence.
 
@@ -155,9 +155,9 @@ The Vedas preserved the architecture. Pāṇini made the architecture operationa
 
 Codification has no answer for the pre-Pāṇinian decoding lineage.
 
-If Pāṇini imposed order on a drifting language, the discipline before him should look thin, fragmented, or absent. It does not. Pāṇini cites earlier grammarians. Yāska cites earlier etymologists. The *Prātiśākhya* and *Śikṣā* disciplines preserve phonetic analysis by recension. The *padapāṭha* decomposes the Vedic *saṃhitā* into constituent words. The system already knew how to analyze itself.
+If Pāṇini imposed order on a drifting language, the discipline before him should look thin, fragmented, or absent. It does not. Pāṇini cites earlier *vaiyākaraṇāḥ*. Yāska cites earlier etymologists. The *Prātiśākhya* and *Śikṣā* disciplines preserve phonetic analysis by recension. The *padapāṭha* decomposes the Vedic *saṃhitā* into constituent words. The system already knew how to analyze itself.
 
-Chapter 4 introduced the roster. **Śākalya** (शाकल्य) had already decomposed the Rigvedic *saṃhitā* through the *padapāṭha*. **Āpiśali** (आपिशलि), **Kāśyapa** (काश्यप), **Gārgya** (गार्ग्य), **Gālava** (गालव), **Cākravarmaṇa** (चाक्रवर्मण), **Bhāradvāja** (भारद्वाज), **Saunaga** (सौनाग), **Senaka** (सेनक), and **Sphoṭāyana** (स्फोटायन) appear as the trace of a grammatical discipline older than the *Aṣṭādhyāyī*.[NOTE: panini-cites-pre-paninian-grammarians]
+Chapter 4 introduced the roster. **Śākalya** (शाकल्य) had already decomposed the Rigvedic *saṃhitā* through the *padapāṭha*. **Āpiśali** (आपिशलि), **Kāśyapa** (काश्यप), **Gārgya** (गार्ग्य), **Gālava** (गालव), **Cākravarmaṇa** (चाक्रवर्मण), **Bhāradvāja** (भारद्वाज), **Saunaga** (सौनाग), **Senaka** (सेनक), and **Sphoṭāyana** (स्फोटायन) appear as the trace of a grammatical discipline older than the *Aṣṭādhyāyī*.[NOTE: panini-cites-pre-paninian-vaiyakaranas]
 
 Yāska's **निरुक्त (*Nirukta*)** extends the same point from grammar into etymological decoding. He cites **Sthaulāṣṭhīvi** (स्थौलाष्ठीवि) and **Śakapūṇi** (शकपूणि), earlier decoders of word-meaning. The lineage was already analyzing sound, word, meaning, derivation, and usage when Pāṇini began. He inherited a working discipline; he did not found one.
 
@@ -183,7 +183,7 @@ The bond comes first. Usage comes after. *Śāstra* regulates usage. It does not
 
 That order is incompatible with codification as the pyramid uses the word. Codification imagines a standard created by authority after usage has drifted. Patañjali gives the opposite: an established bond, worldly usage prompted by meaning, and *śāstra* regulating correct usage against the bond.
 
-Then Chapter 5 supplies the counterpart: **अपभ्रंश (*apabhraṃśa*)**. Entropy is real. Speech falls away. **शब्दाः (*śabdāḥ*)** become **अपशब्दाः (*apaśabdāḥ*)**. **गौः (*gauḥ*)** becomes **गावी (*gāvī*)**, **गोणी (*goṇī*)**, **गोता (*gotā*)**, **गोपोतालिका (*gopotalikā*)**. The grammarian does not deny drift in ordinary speech. He denies that drift defines the architecture.
+Then Chapter 5 supplies the counterpart: **अपभ्रंश (*apabhraṃśa*)**. Entropy is real. Speech falls away. **शब्दाः (*śabdāḥ*)** become **अपशब्दाः (*apaśabdāḥ*)**. **गौः (*gauḥ*)** becomes **गावी (*gāvī*)**, **गोणी (*goṇī*)**, **गोता (*gotā*)**, **गोपोतालिका (*gopotalikā*)**. The *vaiyākaraṇaḥ* does not deny drift in ordinary speech. He denies that drift defines the architecture.
 
 This is the nuance the codification story cannot hold. Sanskrit knows entropy. Sanskrit marks entropy. Sanskrit builds against entropy. The existence of *apabhraṃśa* does not prove Sanskrit was drifting toward codification. It proves the opposite: the system had a category for falling-away because it had an established form from which speech could fall away.
 
@@ -203,7 +203,7 @@ The signature is not small local variation. It is cascading unrecognizability.
 
 Sanskrit does not show that signature.
 
-The *varṇamālā* remains structurally intact. The case system remains available. The three numbers and three genders remain available. The *dhātavaḥ* remain analyzable. The derivational system remains productive. The Vedic corpus remains recitable under exact phonetic disciplines. The *bhāṣā* mode remains calibratable against the same architecture. Later poets, philosophers, grammarians, ritualists, astronomers, dramatists, and commentators operate the same system.
+The *varṇamālā* remains structurally intact. The case system remains available. The three numbers and three genders remain available. The *dhātavaḥ* remain analyzable. The derivational system remains productive. The Vedic corpus remains recitable under exact phonetic disciplines. The *bhāṣā* mode remains calibratable against the same architecture. Later poets, philosophers, *vaiyākaraṇāḥ*, ritualists, astronomers, dramatists, and commentators operate the same system.
 
 The differences that do exist are bounded, named, and assigned: mode, meter, recension, option, domain, style, rule-context. That is not what natural drift looks like.
 
@@ -327,7 +327,7 @@ English without its grammar books became a different language. Sanskrit without 
 
 The codification story has never stated the decisive test clearly enough.
 
-If Sanskrit drifted significantly before Pāṇini and Pāṇini codified the later stage, the claim should be measurable. Take the pre-Pāṇinian and para-Pāṇinian Sanskrit witnesses the continuum itself preserves: Vedic Saṃhitā passages, Brāhmaṇa prose, early Upaniṣadic prose, *Prātiśākhya* texts, *Śikṣā* material, Yāska's *Nirukta*, Sūtra literature, and the fragments or names of earlier grammarians. Run them against the architecture Pāṇini documents. Measure what fails. Separate *chandas*-mode features from *bhāṣā*-mode features. Separate metrical alternation from grammatical rupture. Separate recension specification from uncontrolled drift. Separate lexical domain from phonological collapse.
+If Sanskrit drifted significantly before Pāṇini and Pāṇini codified the later stage, the claim should be measurable. Take the pre-Pāṇinian and para-Pāṇinian Sanskrit witnesses the continuum itself preserves: Vedic Saṃhitā passages, Brāhmaṇa prose, early Upaniṣadic prose, *Prātiśākhya* texts, *Śikṣā* material, Yāska's *Nirukta*, Sūtra literature, and the fragments or names of earlier *vaiyākaraṇāḥ*. Run them against the architecture Pāṇini documents. Measure what fails. Separate *chandas*-mode features from *bhāṣā*-mode features. Separate metrical alternation from grammatical rupture. Separate recension specification from uncontrolled drift. Separate lexical domain from phonological collapse.
 
 That is the audit the codification story requires.[NOTE: calibration-audit-gap]
 
@@ -440,7 +440,7 @@ The codification story attempts to hide the radiant matrix for the same reason e
 
 This is why the story can praise Sanskrit and still conceal it. The praise is part of the concealment.
 
-Heroic erasure works because it is emotionally satisfying. The reader gets a hero. The field gets a chronology. The church of progress gets its teleology. PIE gets its descendant. The asuric machinery gets to avoid the harder conclusion: Sanskrit's order was not manufactured by the named grammarian it praises. The named grammarian decoded an order the machinery still refuses to see.
+Heroic erasure works because it is emotionally satisfying. The reader gets a hero. The field gets a chronology. The church of progress gets its teleology. PIE gets its descendant. The asuric machinery gets to avoid the harder conclusion: Sanskrit's order was not manufactured by the named documenter it praises. The named documenter decoded an order the machinery still refuses to see.
 
 Once the architecture is visible, the praise has to change form.
 
@@ -481,7 +481,7 @@ Sanskrit stands before the historical record as an already engineered architectu
 
 The Vedas are the primary calibration matrix. They are not reducible to scripture. They are also the preserved corpus-form of the linguistic architecture. They carry grammar, sound, meter, derivation, and transmission in one body.
 
-The pre-Pāṇinian disciplines decode what the Vedas carry. *Nirukta* decodes word-meaning. *Prātiśākhya* decodes phonetic specification. *Śikṣā* trains articulation. *Chandas* measures timing. *Padapāṭha* decomposes sequence. The earlier grammarians Pāṇini cites are the documentary trace of a decoding lineage already operating.
+The pre-Pāṇinian disciplines decode what the Vedas carry. *Nirukta* decodes word-meaning. *Prātiśākhya* decodes phonetic specification. *Śikṣā* trains articulation. *Chandas* measures timing. *Padapāṭha* decomposes sequence. The earlier *vaiyākaraṇāḥ* Pāṇini cites are the documentary trace of a decoding lineage already operating.
 
 Pāṇini compresses the architecture into the *Aṣṭādhyāyī*. That compression gives *bhāṣā* an accessible working calibrant. The Vedas remain the primary measure; the *Aṣṭādhyāyī* becomes the manual by which later generations can keep learned speech aligned with the measure.
 

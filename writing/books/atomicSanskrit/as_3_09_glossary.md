@@ -150,11 +150,11 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **vaiyākaraṇāḥ** (वैयाकरणाः)
 
-**Standard.** The grammarians; practitioners of *vyākaraṇa*. In the book's engineering vocabulary: the *decoders* — those who decode the architecture the *Vedas* encode.
+**Standard.** Practitioners of *vyākaraṇa*. In the book's engineering vocabulary: the *decoders* and documenters — those who unfold and state the architecture the *Vedas* encode. The English word *grammarians* is avoided for the Sanskrit tradition because it carries a letter-facing and schoolroom-rule sense that does not match the role-title.
 
 ### **Aṣṭādhyāyī** (अष्टाध्यायी)
 
-**Standard, book-controlled deployment.** Pāṇini's foundational grammar — the *Eight-Chapter* treatise. The canonical *vyākaraṇa* text. The dogma treats it as the codification of a previously-drifting language; the counter-category is the finest *decoding* of an architecture already engineered into the *Vedas*. Cited across Chapters 4, 6, 8, 10, and Appendix Part 8; the codified → decoded correction is central to the standing polemic phrase (*Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest*).
+**Standard, book-controlled deployment.** Pāṇini's foundational grammar — the *Eight-Chapter* treatise. The canonical *vyākaraṇa* text. The dogma treats it as the codification of a previously-drifting language; the counter-category is the finest *decoding* of an architecture already engineered into the *Vedas*. Cited across Chapters 4, 6, 8, 10, and Appendix Part 8; the codified → decoded correction is central to the book's refrain (*Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest*).
 
 ### **paramparā** (परम्परा)
 
@@ -380,7 +380,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 - ***Decoded***: what the *vaiyākaraṇāḥ* (Pāṇini, Patañjali, Yaska, the pre-Pāṇinian roster) did — recovered the explicit specification from the encoded corpus.
 - ***Codified*** (the pyramid's misnaming): scare-quoted; runs in the wrong structural direction.
 
-Standing polemic phrase: ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.***
+Book refrain: ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.***
 
 ---
 

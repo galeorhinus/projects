@@ -317,7 +317,7 @@ That is exactly what the procedural model predicts. The architecture supplies a 
 
 Everything in this chapter points to one reading of the *Dhātupāṭha* — an operating table of reactive atoms, not the word-list the schoolbooks file it as. The *gaṇāḥ* sort atoms by how they activate; the *vikaraṇāni* are the operations that do the activating; the *racanāḥ* give the shapes the atoms are built in; valency measures how widely each one bonds. Cross those axes and a table appears, and it behaves like one — corridors, runners-up, and forbidden cells.
 
-Pāṇini did not freeze a drifting language into that table. He documented an engine that was already running, which is the whole of the standing claim: Sanskrit was engineered, encoded in the Vedas, decoded by many, and Pāṇini's decoding is the finest. Mendeleev gave chemistry its periodic table in 1869;[NOTE: mendeleev-1869-table] the comparison is modern, the grammatical table ancient.
+Pāṇini did not freeze a drifting language into that table. He documented an engine that was already running, which is the whole refrain: Sanskrit was engineered, encoded in the Vedas, decoded by many, and Pāṇini's decoding is the finest. Mendeleev gave chemistry its periodic table in 1869;[NOTE: mendeleev-1869-table] the comparison is modern, the grammatical table ancient.
 
 The scale-chain has now reached the molecule. The sonomer became the *akṣara*, the *akṣara* fed the *dhātuḥ*, and the *dhātuḥ* — far from dissolving when speech begins — activates without ever losing the particles inside it, the same law holding the whole way up: measured units, recoverable assembly, stable identity.
 

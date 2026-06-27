@@ -46,7 +46,7 @@ Sanskrit behaves like speech because it is speech: recited, spoken, sung, parsed
 
 The visible differences between **वैदिक (*vaidika*)** and **लौकिक (*laukika*)** Sanskrit are real. Sanskrit’s own categories place them without confusion: *vaidika* and *laukika* refer to domains of use; Pāṇini’s **छन्दसि (*chandasi*)** and **भाषायाम् (*bhāṣāyām*)** denote operating modes, in meter and in speech. The fraud begins when those domains and modes are recoded as chronological stages: *"Vedic"* before, *"Classical"* after, Pāṇini in between.
 
-The chapters that follow demonstrate the sequence: **Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.**
+The chapters that follow demonstrate what becomes one of the book's refrains: **Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.**
 
 Sanskrit is therefore the calibrant. Its architecture is fractal: the same calibration law recurs across sound, atom, grammar, recitation, memory, and transmission. Sanātan extends that pattern across domains; this volume begins with language because language makes the architecture audible.
 
@@ -85,7 +85,7 @@ When Sanskrit's light shines again as calibrated architecture, the hunger for th
 
 ## Lineage and Method
 
-The *paramparā* held the central position from the start. **व्याकरणम् (*vyākaraṇam*)** — analysis, separation, unfolding apart — describes an operation performed on an already-formed object. Patañjali opens the *Mahābhāṣya* with **सिद्धे शब्दार्थसम्बन्धे (*siddhe śabdārthasambandhe*)**: the bond between word and meaning is established.[NOTE: parampara-vyakaranam-bhartrhari-position-1] Every grammarian in the chain decodes; none claims to invent.
+The *paramparā* held the central position from the start. **व्याकरणम् (*vyākaraṇam*)** — analysis, separation, unfolding apart — describes an operation performed on an already-formed object. Patañjali opens the *Mahābhāṣya* with **सिद्धे शब्दार्थसम्बन्धे (*siddhe śabdārthasambandhe*)**: the bond between word and meaning is established.[NOTE: parampara-vyakaranam-bhartrhari-position-1] Every *vaiyākaraṇaḥ* in the chain decodes; none claims to invent.
 
 Modern Indian advocates have carried this position under active institutional pressure: Maharṣi Dayānanda Saraswatī, Sri Aurobindo, T. V. Kapali Sastry, Sampadananda Mishra, Pandit Madhusudan Ojha, Subhash Kak, Kapil Kapoor, Rajiv Malhotra, and others working in Sanskrit, English, and Indian languages I do not read.[NOTE: modern-sanskrit-lineage-roles]
 

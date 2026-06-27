@@ -54,7 +54,7 @@ Codex review (2026-05-19) drafted a 12-point compression of the pyramid's specul
 > 6. It then needed a mechanism by which Sanskrit entered India. That mechanism became the racial Arya thesis: invasion first, migration later, the same racialized premise underneath both.
 > 7. When Sanskrit displayed features structurally present across the subcontinent — above all the retroflex row — the pyramid treated them as substrate borrowings, not as evidence that the language's architects were already operating inside the subcontinental sound-field.
 > 8. When the Vedic preservation system showed extraordinary stability, the pyramid treated that stability as late conservatism, not as evidence of engineered anti-entropy from the beginning.
-> 9. When Pāṇini documented an already-functioning architecture, the pyramid called it codification, moving engineering credit from anonymous architects and the Vedic encoding into a later named grammarian.
+> 9. When Pāṇini documented an already-functioning architecture, the pyramid called it codification, moving engineering credit from anonymous architects and the Vedic encoding into a later named documenter.
 > 10. When the Sanskrit continuum preserved its own account — *saṃskṛtam*, *śruti*, *apauruṣeya*, *vyākaraṇam*, *chandasi*, *bhāṣāyām* — the pyramid treated those categories as belief, not evidence.
 > 11. The result is a complete speculative chain: imaginary PIE, external homeland, racial Arya thesis, substrate-borrowed retroflexes, evolving Vedic Sanskrit, Pāṇinian codification, Classical Sanskrit as late standardization.
 > 12. Every link in the chain is required because the first assumption must be preserved: Sanskrit cannot be the engineered calibrant at the center. It must be one daughter language among many.
@@ -92,7 +92,7 @@ The deployed version lives at `as_1_01_botanical.md` §1.1 (the *Two speculation
 1. Sanskrit came in the form of the Vedas — the *how* for the rationalist mind remains *I don't know*, just as we don't know where the universe ends. **WE DON'T KNOW.**
 2. From the implicit encoding of the sounds and the *dhātus* and the rules of the *chandasi* poetry that was preserved, *ṛṣis* extracted *bhāṣyam*. *(Vocabulary correction: should be* bhāṣā*, not* bhāṣyam *— see Layer 2.)*
 3. The *bhāṣyam* largely matched the beauty of the Vedas — but the Vedas were the primary calibrant.
-4. Many grammarians decoded and documented the grammar to make the calibration easier for posterity.
+4. Many *vaiyākaraṇāḥ* decoded and documented the grammar to make the calibration easier for posterity.
 5. The primary goal was to keep *bhāṣyam* in reasonable sync with *chandasi*.
 6. There were many schools who did that job wonderfully.
 7. Pāṇini decoded the rules for *bhāṣyam* using the Vedas and all the decoding work that was done before.
@@ -117,7 +117,7 @@ The deployed version lives at `as_1_01_botanical.md` §1.1 (the *Two speculation
 2. It knows that the *ṛṣis* were *mantra-draṣṭāraḥ* — seers of the mantras. They saw. Everyone after them heard: *śruti*.
 3. The Vedas are therefore the first and highest calibrant available to the continuum.
 4. The later grammatical disciplines decoded the architecture implicit in that calibrant.
-5. Many grammarians did this work before Pāṇini.
+5. Many *vaiyākaraṇāḥ* did this work before Pāṇini.
 6. Pāṇini produced the most compressed, complete, operational user's manual for the *bhāṣā* register.
 7. The *Aṣṭādhyāyī* became the easier day-to-day calibrant for *bhāṣā*, while the Vedas remained the primary calibrant.
 8. Differences between *chandasi* and *bhāṣāyām* are mode-differences inside one engineered architecture, not proof of drift.
@@ -134,9 +134,9 @@ The deployed version lives at `as_1_01_botanical.md` §1.1 (the *Two speculation
 
 ## Layer 4 — The hammer
 
-*Sibling to the standing polemic phrase (*Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.*). Where the standing phrase lands the four-term stack, the hammer below lands the origin-and-calibration geometry. Both deployable; they hit different polemic targets.*
+*Sibling to the book's refrain (*Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.*). Where the refrain lands the four-term stack, the hammer below lands the origin-and-calibration geometry. Both deployable; they hit different polemic targets.*
 
-> **The seers saw. The lineage heard. The grammarians decoded. Pāṇini compressed. The Vedas remained the measure.**
+> **The seers saw. The lineage heard. The vaiyākaraṇāḥ decoded. Pāṇini compressed. The Vedas remained the measure.**
 
 ---
 
@@ -147,7 +147,7 @@ The deployed version lives at `as_1_01_botanical.md` §1.1 (the *Two speculation
 - [x] **`reference/as_calibration_hierarchy.md`** — this file (canonical source, 2026-05-19).
 - [x] **`as_1_01_botanical.md` §1.1** — *Two speculations — the seed* short paragraph (2026-05-19). Announces the framework and forward-points to Ch 17 §17.5 for the full comparison. Per Codex's placement advice: early in the book the comparison reads as assertion-vs-assertion; the full deployment waits until the architecture is on the table.
 - [x] **`as_1_17_wrong_question.md` §17.5** — *How the Story Got Built* full section (2026-05-19) added as the prosecutorial summation. Closes the chapter that establishes the architectural test and names the gaslighting move; lands the comparison as judgment after the evidence has been presented in Chapters 1–16.
-- [x] **`as_0_01_preface.md`** — *Nāsadīya Sūkta* epistemic-stance passage (2026-05-19) added as the closing positioning move of the Preface body. Two paragraphs in first-person register: anchors the *we do not know* honesty in *Ṛgveda* 10.129, forward-points to Ch 17 §17.7 for the rationalist-mind speculation, restates the standing polemic phrase as the book's positive claim. Companion to but distinct from the Ch 17 §17.5 prosecutorial deployment — Preface deployment plants the epistemic stance in first-person; Ch 17 §17.5 deploys it prosecutorially in third-person verdict register.
+- [x] **`as_0_01_preface.md`** — *Nāsadīya Sūkta* epistemic-stance passage (2026-05-19) added as the closing positioning move of the Preface body. Two paragraphs in first-person register: anchors the *we do not know* honesty in *Ṛgveda* 10.129, forward-points to Ch 17 §17.7 for the rationalist-mind speculation, restates the book's refrain as the positive claim. Companion to but distinct from the Ch 17 §17.5 prosecutorial deployment — Preface deployment plants the epistemic stance in first-person; Ch 17 §17.5 deploys it prosecutorially in third-person verdict register.
 - [x] **`as_endnotes.md` `calibration-hierarchy`** — endnote stub added; deployment reference relocated to Ch 17 §17.5 (the full-deployment site).
 - [x] **`as_endnotes.md` `nasadiya-sukta`** — endnote stub added for the Preface deployment; carries the Sanskrit + IAST + translation of *Ṛgveda* 10.129.7 and the canonical citations.
 - [ ] **`CLAUDE.md`** — standing-framework note + four-term-stack cross-link.

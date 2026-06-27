@@ -134,7 +134,7 @@ Performance, correction, and continuity preserve Sanskrit beyond the library. Th
 
 The recitations are happening right now, in *gurukulas* गुरुकुल, temples, homes, schools, and communities across the subcontinent and the global diaspora. The transmission is operating now, audibly. The recordings exist. The lineages exist. The transmission exists.
 
-The Hindu civilization holds the language. Hindus inherit Sanskrit as caretakers. The old rule says: *dharmo rakṣati rakṣitaḥ* — dharma protects when protected.[NOTE: dharmo-rakshati-rakshitah] Sanskrit asks the same kind of protection. It has survived because teachers, students, mothers, reciters, grammarians, poets, priests, scholars, and ordinary households protected it.
+The Hindu civilization holds the language. Hindus inherit Sanskrit as caretakers. The old rule says: *dharmo rakṣati rakṣitaḥ* — dharma protects when protected.[NOTE: dharmo-rakshati-rakshitah] Sanskrit asks the same kind of protection. It has survived because teachers, students, mothers, reciters, *vaiyākaraṇāḥ*, poets, priests, scholars, and ordinary households protected it.
 
 If Sanskrit is the calibrant, then returning to Sanskrit is civilizational work, and protection now turns active. The reader who learns to hear it, speak it, teach it, defend its categories, or refuse the pyramid's substitutions has entered the same chain of caretaking. The work begins as listening. It becomes protection.
 

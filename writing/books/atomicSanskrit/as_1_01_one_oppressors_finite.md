@@ -72,11 +72,11 @@ The same insecurity drives the asuric obsession with chronology capture. The pyr
 
 In the Vedic mantra, Svarbhānu pierces Sūrya with darkness, and the worlds become *mugdha*, bewildered, like one who does not know the field.
 
-The asuric pyramid repeats that operation against Sanskrit. It leaves the word visible, the texts printed, the grammarian praised, the dictionaries compiled, and the courses taught. Then it places darkness over the category. The civilization sees Sanskrit but is trained not to recognize what shines.
+The asuric pyramid repeats that operation against Sanskrit. It leaves the word visible, the texts printed, the documenter praised, the dictionaries compiled, and the courses taught. Then it places darkness over the category. The civilization sees Sanskrit but is trained not to recognize what shines.
 
 Svarbhānu obscures: the light remains, but the field goes dark. The worlds are still there, yet they become **मुग्ध (*mugdha*)**, bewildered. The same shape governs the attack on Sanskrit. The sound remains audible. The texts remain printed. Pāṇini remains praised. The dictionaries remain on the shelf. What is darkened is the category: Sanskrit as **संस्कृति (*saṃskṛti*)**, calibrated architecture.
 
-Sanskrit is made to answer to PIE, codification, power, chronology, and finite origin. The visible language is forced under an invisible ancestor. The living architecture is made dependent on a later grammarian. The distributed standard is translated into authority. The beginningless is forced into the pyramid's clock.
+Sanskrit is made to answer to PIE, codification, power, chronology, and finite origin. The visible language is forced under an invisible ancestor. The living architecture is made dependent on a later documenter. The distributed standard is translated into authority. The beginningless is forced into the pyramid's clock.
 
 The result is field-loss. Sanskrit remains present, but the world becomes *akṣetravit*: unable to discern the terrain.
 

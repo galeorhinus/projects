@@ -350,9 +350,9 @@ Yaska's decoding of **अग्नि (*agni*)** at *Nirukta* 7.14 makes the poi
 >
 > ***aṅga-nī*** (अङ्गनी) — *that which leads the limbs*, from *aṅga* (अङ्ग, limb) + *nī*. Fire animates the body; warmth activates the limbs.
 >
-> ***aknopana*** (अक्नोपन) — *that which does not moisten*, from negative *a-* (अ-) + the *dhātu* *knop* (क्नोप्, to moisten). **Per Sthaulāṣṭhīvi** (स्थौलाष्ठीवि), a pre-Pāṇinian grammarian Yaska cites by name. Fire dries; it does not anoint with oil.
+> ***aknopana*** (अक्नोपन) — *that which does not moisten*, from negative *a-* (अ-) + the *dhātu* *knop* (क्नोप्, to moisten). **Per Sthaulāṣṭhīvi** (स्थौलाष्ठीवि), a pre-Pāṇinian decoder Yaska cites by name. Fire dries; it does not anoint with oil.
 >
-> ***i + añj + dah → agni*** — *the one born from three dhātavaḥ*: *i* (इ, to go) + *añj* (अञ्ज्, to anoint / illuminate) + *dah* (दह्, to burn). **Per Śakapūṇi** (शकपूणि), a second pre-Pāṇinian grammarian Yaska cites by name. The three-*dhātu* derivation combines motion, illumination, and burning into one word.
+> ***i + añj + dah → agni*** — *the one born from three dhātavaḥ*: *i* (इ, to go) + *añj* (अञ्ज्, to anoint / illuminate) + *dah* (दह्, to burn). **Per Śakapūṇi** (शकपूणि), a second pre-Pāṇinian decoder Yaska cites by name. The three-*dhātu* derivation combines motion, illumination, and burning into one word.
 
 To the philological eye, four derivations of one word look like uncertainty — competing guesses about a single "true" etymology. Inside the Sanskrit analytical frame they are functional decompositions. Yaska is performing a precise functional analysis, isolating the properties the word carries in use: fire leads, animates, dries, illuminates, and burns.
 
