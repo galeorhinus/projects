@@ -34,8 +34,8 @@ MARGIN = 12          # outer canvas margin
 COL_GAP = 8          # horizontal gap between the two columns
 STACK_GAP = 12       # vertical gap between the 3- and 4-mātrā panels
 REF_H_IN = 6.0       # font-tuned print height; sets the px-per-inch scale
+WIDTH_IN = 4.5       # pinned effective print width
 COL2_SHIFT_IN = 0.4  # move column 2 (5-mātrā) left by this much (at REF_H_IN scale)
-RIGHT_TRIM_IN = 0.16 # trim the right edge by this much → effective width ~4.5in
 
 
 def group(body: str, dx: float, dy: float) -> str:
@@ -57,7 +57,8 @@ def main() -> None:
     # and right-edge trim below bring the effective width to ~4.5 in.
     px_per_in = canvas_h / REF_H_IN
     col2_x = MARGIN + col_w + COL_GAP - round(COL2_SHIFT_IN * px_per_in)
-    canvas_w = (col2_x + col_w + MARGIN) - round(RIGHT_TRIM_IN * px_per_in)
+    # Pin the effective width (smaller title fonts would otherwise shrink it).
+    canvas_w = max(round(WIDTH_IN * px_per_in), col2_x + col_w + MARGIN)
 
     y3 = MARGIN
     y4 = MARGIN + h3 + STACK_GAP

@@ -62,18 +62,18 @@ LATIN_FONT = "Charter, Georgia, Times, serif"
 DEV_FONT = "Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif"
 
 # --- Font sizes (px) -------------------------------------------------------
-# Tuned so the COMBINED two-column figure (matra_tiles_combined.py) — the tallest
-# artifact at ~1300 px — prints its text at these point sizes when set to 6 in
-# tall: title 11 / legend 8 / Devanagari 10 / IAST 8 / ruler numbers 8 / mātrā
-# label 9. Every panel shares these px sizes and is placed with translate only
-# (no scaling), so all three sub-illustrations print at identical font sizes.
+# Tuned so the COMBINED two-column figure (matra_tiles_combined.py, 1223 px tall)
+# prints its text at these point sizes at 6 in tall: title 11 / legend 10 /
+# Devanagari 10.5 / IAST 8 / ruler numbers 9.5 / mātrā label 9.5. Every panel
+# shares these px sizes and is placed with translate only (no scaling), so all
+# three sub-illustrations print at identical font sizes.  (px = pt × 1223 / 432.)
 
-FS_TITLE = 33
-FS_LEGEND = 24
-FS_DEV = 30
-FS_IAST = 24
-FS_RULER_NUM = 24
-FS_MATRA_LABEL = 27
+FS_TITLE = 31.1
+FS_LEGEND = 28.3
+FS_DEV = 29.7
+FS_IAST = 22.7
+FS_RULER_NUM = 26.9
+FS_MATRA_LABEL = 26.9
 
 # --- Layout ----------------------------------------------------------------
 
