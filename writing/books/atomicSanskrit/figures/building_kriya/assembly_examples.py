@@ -39,7 +39,9 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(REPO_ROOT / "working" / "dhatu_hexagons"))
+sys.path.insert(0, str(REPO_ROOT / "figures" / "_shared"))
 
+import matra_style as ms  # noqa: E402
 from dhatu_hexagon import (  # noqa: E402
     EDGE_LENGTH,
     HEX_HEIGHT,
@@ -71,51 +73,52 @@ LATIN_FONT = "Charter, Georgia, Times, serif"
 # Color palette
 # ===========================================================================
 
+# Warm palette (figures/_shared/matra_style.py), preserving the light→dark order.
 PROV_FILL = {
-    "original": "#dcdcdc",
-    "vikarana": "#888888",
-    "ending":   "#555555",
+    "original": ms.LIGHT_FILL,   # dhātu's own — tan
+    "vikarana": ms.MUTED,        # inserted vikaraṇa — mid brown
+    "ending":   ms.DARK_FILL,    # suffix — dark brown
 }
 PROV_DEV_COLOR = {
-    "original": "#1a1a1a",
-    "vikarana": "#1a1a1a",
-    "ending":   "#f5f5f5",
+    "original": ms.INK_DARK,
+    "vikarana": ms.INK_LIGHT,
+    "ending":   ms.INK_LIGHT,
 }
 PROV_IAST_COLOR = {
-    "original": "#333333",
-    "vikarana": "#222222",
-    "ending":   "#d8d8d8",
+    "original": ms.MUTED,
+    "vikarana": ms.INK_LIGHT,
+    "ending":   ms.INK_LIGHT,
 }
 
-SOURCE_SURVIVING_FILL  = "#1a1a1a"
-SOURCE_SURVIVING_DEV   = "#f5f5f5"
-SOURCE_SURVIVING_IAST  = "#d8d8d8"
+SOURCE_SURVIVING_FILL  = ms.DARK_FILL
+SOURCE_SURVIVING_DEV   = ms.INK_LIGHT
+SOURCE_SURVIVING_IAST  = ms.INK_LIGHT
 
 # "Context" — dhātu particle that survives directly into the destination
 # (no transformation, no arrow). Rendered with the same light fill the
 # destination uses for "original" provenance so the reader links source-atom
 # context particle to its in-place destination counterpart.
-SOURCE_CONTEXT_FILL  = "#dcdcdc"
-SOURCE_CONTEXT_DEV   = "#1a1a1a"
-SOURCE_CONTEXT_IAST  = "#333333"
+SOURCE_CONTEXT_FILL  = ms.LIGHT_FILL
+SOURCE_CONTEXT_DEV   = ms.INK_DARK
+SOURCE_CONTEXT_IAST  = ms.MUTED
 
-ANUBANDHA_FILL       = "#ffffff"
-ANUBANDHA_STROKE     = "#888888"
+ANUBANDHA_FILL       = ms.BG
+ANUBANDHA_STROKE     = ms.MUTED
 ANUBANDHA_DASH       = "4,3"
-ANUBANDHA_DEV        = "#555555"
-ANUBANDHA_IAST       = "#888888"
+ANUBANDHA_DEV        = ms.MUTED
+ANUBANDHA_IAST       = ms.MUTED
 
-EMPTY_FILL   = "#ffffff"
-EMPTY_STROKE = "#888888"
+EMPTY_FILL   = ms.BG
+EMPTY_STROKE = ms.MUTED
 EMPTY_DASH   = "4,3"
 
-STROKE_COLOR = "#1a1a1a"
+STROKE_COLOR = ms.STROKE
 STROKE_WIDTH = 1.4
 
-ARROW_COLOR = "#444444"
+ARROW_COLOR = ms.MUTED
 ARROW_WIDTH = 1.6
 ARROW_DASH   = "5,3"
-ARROW_LABEL_FILL = "#333333"
+ARROW_LABEL_FILL = ms.MUTED
 
 
 # ===========================================================================
@@ -553,7 +556,7 @@ def render_source_atom(source, tx, ty):
     out.append(
         f'<text x="{tx:.1f}" y="{title_y:.1f}" text-anchor="middle" '
         f'font-family="{LATIN_FONT}" font-size="15" font-weight="700" '
-        f'fill="#1a1a1a">'
+        f'fill="{ms.TEXT}">'
         f'<tspan font-family="{DEV_FONT}">{source["title_dev"]}</tspan>'
         f' <tspan font-style="italic">({source["title_iast"]})</tspan>'
         f'</text>'
@@ -561,7 +564,7 @@ def render_source_atom(source, tx, ty):
     out.append(
         f'<text x="{tx:.1f}" y="{subtitle_y:.1f}" text-anchor="middle" '
         f'font-family="{LATIN_FONT}" font-size="11" font-style="italic" '
-        f'fill="#666">'
+        f'fill="{ms.MUTED}">'
         f'{source["subtitle"]}</text>'
     )
 
@@ -607,7 +610,7 @@ def render_arrow(x1, y1, x2, y2, style="solid", label=None):
         rect_h = 14
         parts.append(
             f'<rect x="{mx - rect_w / 2:.1f}" y="{my - rect_h / 2:.1f}" '
-            f'width="{rect_w:.1f}" height="{rect_h}" fill="white" stroke="none"/>'
+            f'width="{rect_w:.1f}" height="{rect_h}" fill="{ms.BG}" stroke="none"/>'
         )
         parts.append(
             f'<text x="{mx:.1f}" y="{my:.1f}" text-anchor="middle" '
@@ -1071,21 +1074,21 @@ def build_svg(example):
     header_svg = (
         f'  <text x="{canvas_w / 2:.1f}" y="{header_y}" text-anchor="middle" '
         f'font-family="{LATIN_FONT}" font-size="20" font-weight="700" '
-        f'fill="#1a1a1a">Assembling <tspan font-style="italic">{example["form_iast"]}</tspan></text>'
+        f'fill="{ms.TEXT}">Assembling <tspan font-style="italic">{example["form_iast"]}</tspan></text>'
         f'\n  <text x="{canvas_w / 2:.1f}" y="{subheader_y}" text-anchor="middle" '
         f'font-family="{LATIN_FONT}" font-size="13" font-style="italic" '
-        f'fill="#555">{example["header_subtitle"]}</text>'
+        f'fill="{ms.MUTED}">{example["header_subtitle"]}</text>'
     )
 
     parts = []
     parts.append(
         f'<svg xmlns="http://www.w3.org/2000/svg" '
         f'viewBox="0 0 {canvas_w} {canvas_h}" '
-        f'width="{canvas_w}" height="{canvas_h}">'
+        f'width="4.5in" height="{4.5 * canvas_h / canvas_w:.3f}in">'
     )
     parts.append(f'  <title>Assembling {example["form_iast"]}</title>')
     parts.append(
-        f'  <rect x="0" y="0" width="{canvas_w}" height="{canvas_h}" fill="white"/>'
+        f'  <rect x="0" y="0" width="{canvas_w}" height="{canvas_h}" fill="{ms.BG}"/>'
     )
     parts.append(ARROW_HEAD_MARKER)
     parts.append(header_svg)

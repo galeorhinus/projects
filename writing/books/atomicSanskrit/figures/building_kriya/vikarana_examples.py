@@ -46,7 +46,9 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(REPO_ROOT / "working" / "dhatu_hexagons"))
+sys.path.insert(0, str(REPO_ROOT / "figures" / "_shared"))
 
+import matra_style as ms  # noqa: E402
 from dhatu_hexagon import (  # noqa: E402
     EDGE_LENGTH,
     HEX_HEIGHT,
@@ -56,29 +58,29 @@ from dhatu_hexagon import (  # noqa: E402
 
 
 # ===========================================================================
-# Provenance encoding
+# Provenance encoding — warm palette (figures/_shared/matra_style.py)
 # ===========================================================================
 
 PROV_FILL = {
-    "original": "#dcdcdc",
-    "vikarana": "#888888",
-    "ending":   "#555555",
+    "original": ms.LIGHT_FILL,   # dhātu's own — tan
+    "vikarana": ms.MUTED,        # inserted vikaraṇa — mid brown
+    "ending":   ms.DARK_FILL,    # suffix — dark brown
 }
 PROV_DEV_COLOR = {
-    "original": "#1a1a1a",
-    "vikarana": "#1a1a1a",
-    "ending":   "#f5f5f5",
+    "original": ms.INK_DARK,
+    "vikarana": ms.INK_LIGHT,
+    "ending":   ms.INK_LIGHT,
 }
 PROV_IAST_COLOR = {
-    "original": "#333333",
-    "vikarana": "#222222",
-    "ending":   "#d8d8d8",
+    "original": ms.MUTED,
+    "vikarana": ms.INK_LIGHT,
+    "ending":   ms.INK_LIGHT,
 }
 
-STROKE_COLOR = "#1a1a1a"
+STROKE_COLOR = ms.STROKE
 STROKE_WIDTH = 1.4
 
-DIVIDER_COLOR = "#1a1a1a"
+DIVIDER_COLOR = ms.STROKE
 DIVIDER_WIDTH = 0.9
 DIVIDER_PAD   = 8
 
@@ -592,7 +594,7 @@ def render_matra_line(tx, line_y, n_matras):
     line_len = n_matras * MATRA_UNIT
     end_x = start_x + line_len
 
-    color = "#888"
+    color = ms.MUTED
     out = []
     out.append(
         f'<line x1="{start_x:.1f}" y1="{line_y:.1f}" '
@@ -675,7 +677,7 @@ def render_example_block(example, tx, ty):
     out.append(
         f'<text x="{tx:.1f}" y="{title_y:.1f}" '
         f'font-family="{LATIN_FONT}" font-size="16" font-weight="600" '
-        f'fill="#1a1a1a">'
+        f'fill="{ms.TEXT}">'
         f'<tspan font-family="{DEV_FONT}">{example["gana_dev"]}</tspan>'
         f' <tspan font-style="italic">({example["gana"]})</tspan>'
         f'  ·  <tspan font-family="{DEV_FONT}">{example["dhatu_dev"]}</tspan>'
@@ -688,7 +690,7 @@ def render_example_block(example, tx, ty):
     out.append(
         f'<text x="{tx:.1f}" y="{note_y:.1f}" '
         f'font-family="{LATIN_FONT}" font-size="12" font-style="italic" '
-        f'fill="#555">'
+        f'fill="{ms.MUTED}">'
         f'vikaraṇa: {example["vikarana"]}'
         f'</text>'
     )
@@ -719,7 +721,7 @@ def render_legend(cx, cy):
     out.append(
         f'<text x="{x - 10:.1f}" y="{cy + 2:.1f}" '
         f'font-family="{LATIN_FONT}" font-size="12" font-weight="600" '
-        f'fill="#1a1a1a" text-anchor="end">provenance:</text>'
+        f'fill="{ms.TEXT}" text-anchor="end">provenance:</text>'
     )
     cur_x = x
     for (prov, label), w_item in zip(items, item_widths):
@@ -730,7 +732,7 @@ def render_legend(cx, cy):
         )
         out.append(
             f'<text x="{cur_x + sw + 6:.1f}" y="{cy + 4:.1f}" '
-            f'font-family="{LATIN_FONT}" font-size="12" fill="#1a1a1a">'
+            f'font-family="{LATIN_FONT}" font-size="12" fill="{ms.TEXT}">'
             f'{label}</text>'
         )
         cur_x += w_item + cell_pad
@@ -752,18 +754,18 @@ def render_composite():
     out.append(
         f'<svg xmlns="http://www.w3.org/2000/svg" '
         f'viewBox="0 0 {canvas_w} {canvas_h}" '
-        f'width="{canvas_w}" height="{canvas_h}">'
+        f'width="4.5in" height="{4.5 * canvas_h / canvas_w:.3f}in">'
     )
     out.append('  <title>Vikaraṇa operations — six examples</title>')
     out.append(
-        f'  <rect x="0" y="0" width="{canvas_w}" height="{canvas_h}" fill="white"/>'
+        f'  <rect x="0" y="0" width="{canvas_w}" height="{canvas_h}" fill="{ms.BG}"/>'
     )
 
     # Title
     out.append(
         f'  <text x="{canvas_w / 2:.1f}" y="32" text-anchor="middle" '
         f'font-family="{LATIN_FONT}" font-size="20" font-weight="700" '
-        f'fill="#1a1a1a">The Vikaraṇa Operation — Six Worked Examples</text>'
+        f'fill="{ms.TEXT}">The Vikaraṇa Operation — Six Worked Examples</text>'
     )
 
     # Legend
@@ -804,11 +806,11 @@ def render_single(example):
     out.append(
         f'<svg xmlns="http://www.w3.org/2000/svg" '
         f'viewBox="0 0 {canvas_w} {canvas_h}" '
-        f'width="{canvas_w}" height="{canvas_h}">'
+        f'width="4.5in" height="{4.5 * canvas_h / canvas_w:.3f}in">'
     )
     out.append(f'  <title>{example["dhatu_iast"]} → {example["form_iast"]}</title>')
     out.append(
-        f'  <rect x="0" y="0" width="{canvas_w}" height="{canvas_h}" fill="white"/>'
+        f'  <rect x="0" y="0" width="{canvas_w}" height="{canvas_h}" fill="{ms.BG}"/>'
     )
     block_svg, _ = render_example_block(example, tx, ty)
     out.append("  " + block_svg)

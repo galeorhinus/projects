@@ -18,8 +18,12 @@ dependency — pure stdlib SVG generation.
 from __future__ import annotations
 
 import math
+import sys
 from pathlib import Path
 from typing import Iterable
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "_shared"))
+import matra_style as ms  # noqa: E402
 
 # --- Geometry (copied verbatim from figures/_shared/icons/build_scaffold_icons.py) ---
 
@@ -40,13 +44,13 @@ SVARA_RAIL_Y = AMP
 # Three distinct shades; atom-as-lightest so the reader's eye reads the
 # atom as the center the bonds attach to.
 
-ATOM_FILL = "#888888"  # scaffold-gray (matches existing icons)
-HEAD_FILL = "#555555"  # medium-dark
-TAIL_FILL = "#333333"  # darkest
+ATOM_FILL = ms.LIGHT_FILL   # tan — the atom is the light centre the bonds attach to
+HEAD_FILL = ms.MUTED        # mid brown — head bond
+TAIL_FILL = ms.DARK_FILL    # dark brown — tail bond
 
 # Caption / label colors
-LABEL_COLOR = "#222222"
-SUBLABEL_COLOR = "#777777"
+LABEL_COLOR = ms.TEXT
+SUBLABEL_COLOR = ms.MUTED
 
 OUT_DIR = Path(__file__).resolve().parent
 OUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -298,6 +302,7 @@ def figure_a():
         f'<svg xmlns="http://www.w3.org/2000/svg" '
         f'viewBox="{viewbox_x:.3f} {viewbox_y:.3f} '
         f'{viewbox_w:.3f} {viewbox_h:.3f}" '
+        f'width="4.5in" height="{4.5 * viewbox_h / viewbox_w:.3f}in" '
         f'preserveAspectRatio="xMidYMid meet" '
         f'role="img" aria-label="Valency unit (schematic)">\n'
         f'<title>Valency unit — head + atom + tail</title>\n'
@@ -445,6 +450,7 @@ def figure_b():
         f'<svg xmlns="http://www.w3.org/2000/svg" '
         f'viewBox="{viewbox_x:.3f} {viewbox_y:.3f} '
         f'{viewbox_w:.3f} {viewbox_h:.3f}" '
+        f'width="4.5in" height="{4.5 * viewbox_h / viewbox_w:.3f}in" '
         f'preserveAspectRatio="xMidYMid meet" '
         f'role="img" aria-label="kṛ valency configurations">\n'
         f'<title>kṛ — sample valency configurations</title>\n'

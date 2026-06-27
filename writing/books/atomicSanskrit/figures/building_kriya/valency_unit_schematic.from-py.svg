@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-12.041 -9.000 92.788 38.000" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Valency unit (schematic)">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-12.041 -9.000 92.788 38.000" width="4.5in" height="1.843in" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Valency unit (schematic)">
 <title>Valency unit — head + atom + tail</title>
-<polygon points="0.000,-10.500 4.041,-10.500 8.083,-3.500 4.041,3.500 0.000,3.500 -4.041,-3.500" fill="#555555"/>
-<polygon points="8.083,-3.500 16.166,-3.500 20.207,3.500 16.166,10.500 8.083,10.500 4.041,3.500" fill="#555555"/>
-<polygon points="20.207,-10.500 24.249,-10.500 28.290,-3.500 24.249,3.500 20.207,3.500 16.166,-3.500" fill="#888888"/>
-<polygon points="28.290,-3.500 36.373,-3.500 40.415,3.500 36.373,10.500 28.290,10.500 24.249,3.500" fill="#888888"/>
-<polygon points="40.415,-10.500 44.456,-10.500 48.497,-3.500 44.456,3.500 40.415,3.500 36.373,-3.500" fill="#888888"/>
-<polygon points="52.539,-10.500 56.580,-10.500 60.622,-3.500 56.580,3.500 52.539,3.500 48.497,-3.500" fill="#333333"/>
-<polygon points="60.622,-3.500 68.705,-3.500 72.746,3.500 68.705,10.500 60.622,10.500 56.580,3.500" fill="#333333"/>
-<text x="7.073" y="15.000" text-anchor="middle" font-family="Charter, serif" font-style="italic" font-size="6" fill="#222222">upasarga (head)</text>
-<text x="32.332" y="15.000" text-anchor="middle" font-family="Charter, serif" font-style="italic" font-size="6" fill="#222222">dhātuḥ (atom)</text>
-<text x="59.611" y="15.000" text-anchor="middle" font-family="Charter, serif" font-style="italic" font-size="6" fill="#222222">pratyaya (tail)</text>
-<text x="34.352" y="25.000" text-anchor="middle" font-family="Charter, serif" font-size="6" fill="#222222">one distinct (head, tail) pairing = 1 valency unit</text>
+<polygon points="0.000,-10.500 4.041,-10.500 8.083,-3.500 4.041,3.500 0.000,3.500 -4.041,-3.500" fill="#6b563a"/>
+<polygon points="8.083,-3.500 16.166,-3.500 20.207,3.500 16.166,10.500 8.083,10.500 4.041,3.500" fill="#6b563a"/>
+<polygon points="20.207,-10.500 24.249,-10.500 28.290,-3.500 24.249,3.500 20.207,3.500 16.166,-3.500" fill="#d8c7a3"/>
+<polygon points="28.290,-3.500 36.373,-3.500 40.415,3.500 36.373,10.500 28.290,10.500 24.249,3.500" fill="#d8c7a3"/>
+<polygon points="40.415,-10.500 44.456,-10.500 48.497,-3.500 44.456,3.500 40.415,3.500 36.373,-3.500" fill="#d8c7a3"/>
+<polygon points="52.539,-10.500 56.580,-10.500 60.622,-3.500 56.580,3.500 52.539,3.500 48.497,-3.500" fill="#4a3a28"/>
+<polygon points="60.622,-3.500 68.705,-3.500 72.746,3.500 68.705,10.500 60.622,10.500 56.580,3.500" fill="#4a3a28"/>
+<text x="7.073" y="15.000" text-anchor="middle" font-family="Charter, serif" font-style="italic" font-size="6" fill="#3d2f1f">upasarga (head)</text>
+<text x="32.332" y="15.000" text-anchor="middle" font-family="Charter, serif" font-style="italic" font-size="6" fill="#3d2f1f">dhātuḥ (atom)</text>
+<text x="59.611" y="15.000" text-anchor="middle" font-family="Charter, serif" font-style="italic" font-size="6" fill="#3d2f1f">pratyaya (tail)</text>
+<text x="34.352" y="25.000" text-anchor="middle" font-family="Charter, serif" font-size="6" fill="#3d2f1f">one distinct (head, tail) pairing = 1 valency unit</text>
 </svg>
