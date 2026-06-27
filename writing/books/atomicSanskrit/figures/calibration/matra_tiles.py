@@ -241,8 +241,8 @@ def render_ruler(x_start: float, y: float, n: int) -> str:
             f'stroke="{RULER}" stroke-width="1"/>'
         )
         if major:
-            frags.append(text(x, y + 26, f"{i // 2}", FS_RULER_NUM, fill=MUTED))
-    frags.append(text((x_start + end_x) / 2, y + 56, "mātrā", FS_MATRA_LABEL, fill=MUTED, style="italic"))
+            frags.append(text(x, y + 16, f"{i // 2}", FS_RULER_NUM, fill=MUTED))
+    frags.append(text((x_start + end_x) / 2, y + 44, "mātrā", FS_MATRA_LABEL, fill=MUTED, style="italic"))
     return "\n  ".join(frags)
 
 

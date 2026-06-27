@@ -9,9 +9,12 @@ B = (one tile) + A and C = (one tile) + B:
     B (middle)  3-mātrā (rows 1-3) and 4-mātrā (rows 4-8) fillings
     C (right)   5-mātrā fillings
 
-Each mātrā sub-group (1, 2, 3, … ) sits inside a light rounded-rectangle backer.
-From-right stagger keeps each shared suffix identical, so every column literally
-contains the one to its left as a suffix. Counts cascade: 1+2=3, 2+3=5, 3+5=8.
+Each mātrā sub-group sits inside a light rounded-rectangle backer. From-right
+stagger keeps each shared suffix identical, so every column contains the one to
+its left as a suffix. Counts cascade: 1+2=3, 2+3=5, 3+5=8.
+
+Title/subtitle styling follows figures/fourth_abrahamic (Gentium Book Plus serif).
+Output renders at 4.5 in wide.
 """
 
 from __future__ import annotations
@@ -25,16 +28,27 @@ BUILD_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(BUILD_DIR))
 from matra_tiles import (  # noqa: E402
     fillings, render_strip, render_ruler, tile, text,
-    BG, GOLD, TEXT, GUIDE, FS_IAST,
+    BG, GOLD, TEXT, GUIDE, DEV_FONT, FS_IAST,
     MATRA_UNIT, SLANT, STRIP_HALF, ROW_PITCH, RULER_GAP,
 )
 
 MARGIN = 16
 COL_GAP = 15
-LEGEND_H = 40
-HEAD_H = 26
-REF_H_IN = 6.0
 N_ROWS = 8
+
+WIDTH_IN = 4.5           # the figure renders at this width
+
+# Title band (the +~0.5 in added on top).
+TOP_BAND = 84
+HEAD_TXT = 24            # header text height below the rule
+HEAD_GAP = 18            # space between column headers and the boxes below
+
+SERIF = "'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif"
+FS_TITLE = 18.1          # ≈ 13 pt at 4.5 in wide
+FS_SUB = 11.0            # subtitle, fit on one line at 4.5 in wide
+TITLE_FILL = "#2b2b2d"
+SUB_FILL = "#5f5346"
+RULE = "#cccccc"
 
 BLOCK_FILL = "#f3efe6"   # light backer behind each mātrā sub-group
 BACK_PAD_H = 7
@@ -42,12 +56,11 @@ BACK_PAD_V = 5
 BACK_RX = 9
 
 
-def swatch(token: str, cx: float, cy: float, sc: float = 0.7) -> str:
+def swatch(token: str, cx: float, cy: float, sc: float = 0.85) -> str:
     return f'<g transform="translate({cx:.1f},{cy:.1f}) scale({sc})">{tile(token, 0, 0)}</g>'
 
 
 def main() -> None:
-    # Each column is a list of (mātrā, fillings) sub-blocks.
     columns = [
         {"blocks": [(1, fillings(1)), (2, fillings(2)), (2, fillings(2)), (3, fillings(3))],
          "maxn": 3, "head": "1 · 2 · 3 mātrās", "color": TEXT},
@@ -64,11 +77,12 @@ def main() -> None:
         x += col["maxn"] * MATRA_UNIT + SLANT / 2 + BACK_PAD_H + COL_GAP
     canvas_w = measure_x[-1] + columns[-1]["maxn"] * MATRA_UNIT + SLANT / 2 + BACK_PAD_H + MARGIN
 
-    # Vertical placement: legend band, header band, eight rows, rulers.
-    top = MARGIN + LEGEND_H + HEAD_H
-    row_cy0 = top + STRIP_HALF
+    # Vertical placement.
+    rule_y = MARGIN + TOP_BAND
+    header_y = rule_y + HEAD_TXT
+    row_cy0 = header_y + HEAD_GAP + STRIP_HALF
     ruler_y = row_cy0 + (N_ROWS - 1) * ROW_PITCH + STRIP_HALF + RULER_GAP
-    canvas_h = ruler_y + 52
+    canvas_h = ruler_y + 42
 
     backers: list[str] = []
     gridlines: list[str] = []
@@ -76,7 +90,6 @@ def main() -> None:
     chrome: list[str] = []
 
     for col, mx in zip(columns, measure_x):
-        # Sub-group backers + the strips inside them.
         r = 0
         for n, rows in col["blocks"]:
             ry0 = row_cy0 + r * ROW_PITCH - STRIP_HALF - BACK_PAD_V
@@ -91,39 +104,52 @@ def main() -> None:
                 strips.append(render_strip(tokens, mx, row_cy0 + r * ROW_PITCH))
                 r += 1
 
-        # Gridlines at every major mātrā tick.
         for i in range(col["maxn"] + 1):
             gx = mx + i * MATRA_UNIT
             gridlines.append(
-                f'<line x1="{gx:.1f}" y1="{top - 4:.1f}" x2="{gx:.1f}" '
+                f'<line x1="{gx:.1f}" y1="{header_y + 6:.1f}" x2="{gx:.1f}" '
                 f'y2="{ruler_y:.1f}" stroke="{GUIDE}" stroke-width="1" '
                 f'stroke-dasharray="3,4"/>'
             )
 
-        # Header + ruler.
-        chrome.append(text(mx, MARGIN + LEGEND_H + HEAD_H - 9, col["head"],
-                           FS_IAST, fill=col["color"], anchor="start", weight="700"))
+        chrome.append(text(mx, header_y, col["head"], FS_IAST, fill=col["color"],
+                           anchor="start", weight="700"))
         chrome.append(render_ruler(mx, ruler_y, col["maxn"]))
 
-    # Swatch legend (top-left band).
-    ly = MARGIN + LEGEND_H / 2
-    chrome.append(swatch("L", MARGIN + 14, ly))
-    chrome.append(text(MARGIN + 36, ly, "laghu · 1 mātrā", FS_IAST, fill=TEXT, anchor="start"))
-    chrome.append(swatch("G", MARGIN + 190, ly))
-    chrome.append(text(MARGIN + 226, ly, "guru · 2 mātrās", FS_IAST, fill=TEXT, anchor="start"))
+    # --- Title band ---------------------------------------------------------
+    chrome.append(text(MARGIN, MARGIN + 30, "Chandas as Mātrā Tiling", FS_TITLE,
+                       fill=TITLE_FILL, anchor="start", weight="700", family=SERIF))
+    chrome.append(text(MARGIN, MARGIN + 68,
+                       "Laghu fills one mātrā; guru fills two. Valid patterns emerge from measured sound.",
+                       FS_SUB, fill=SUB_FILL, anchor="start", style="italic", family=SERIF))
+    chrome.append(f'<line x1="{MARGIN}" y1="{rule_y:.1f}" x2="{canvas_w - MARGIN:.1f}" '
+                  f'y2="{rule_y:.1f}" stroke="{RULE}" stroke-width="1"/>')
+
+    # Legend (top-right): laghu + guru, Devanagari + IAST, two rows.
+    sw_x = canvas_w - MARGIN - 190
+    lbl_x = sw_x + 36
+    lr1_y, lr2_y = MARGIN + 16, MARGIN + 42
+    chrome.append(swatch("L", sw_x, lr1_y))
+    chrome.append(text(lbl_x, lr1_y, "लघु laghu · 1 mātrā", FS_IAST, fill=TEXT,
+                       anchor="start", family=DEV_FONT))
+    chrome.append(swatch("G", sw_x + 8, lr2_y))
+    chrome.append(text(lbl_x, lr2_y, "गुरु guru · 2 mātrās", FS_IAST, fill=TEXT,
+                       anchor="start", family=DEV_FONT))
 
     body = "\n".join(backers + gridlines + strips + chrome)
+    height_in = canvas_h / canvas_w * WIDTH_IN
     doc = (
-        f'<svg xmlns="http://www.w3.org/2000/svg" width="{canvas_w:.0f}" '
-        f'height="{canvas_h:.0f}" viewBox="0 0 {canvas_w:.0f} {canvas_h:.0f}">\n'
-        '<title>Mātrā recurrence cascade — 3, 4, 5 mātrās</title>\n'
+        f'<svg viewBox="0 0 {canvas_w:.0f} {canvas_h:.0f}" width="{WIDTH_IN}in" '
+        f'height="{height_in:.3f}in" xmlns="http://www.w3.org/2000/svg" '
+        f'preserveAspectRatio="xMidYMid meet">\n'
+        '<title>Chandas as Mātrā Tiling</title>\n'
         f'<rect width="100%" height="100%" fill="{BG}"/>\n'
         f'{body}\n</svg>\n'
     )
     out = BUILD_DIR / "matra_tiles_combined.svg"
     out.write_text(doc, encoding="utf-8")
-    print(f"Wrote {out.relative_to(REPO_ROOT)}  ({canvas_w:.0f}x{canvas_h:.0f}px; "
-          f"at {REF_H_IN:.0f}in tall = {canvas_w * REF_H_IN / canvas_h:.2f}in wide)")
+    print(f"Wrote {out.relative_to(REPO_ROOT)}  ({canvas_w:.0f}x{canvas_h:.0f}px = "
+          f"{WIDTH_IN}in x {height_in:.2f}in)")
 
 
 if __name__ == "__main__":
