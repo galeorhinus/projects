@@ -1,20 +1,19 @@
 #!/usr/bin/env python3
-"""matra_tiles_combined.py — two-column composite of the 3/4/5-mātrā figures.
+"""matra_tiles_combined.py — the Virahāṅka / Hemachandra recurrence cascade.
 
-    Column 1 :  3-mātrā  (top)
-                4-mātrā  (bottom)
-    Column 2 :  5-mātrā
+Three columns, eight y-aligned rows. Reading across a row shows the recurrence
+B = (one tile) + A and C = (one tile) + B:
 
-The 4-mātrā and 5-mātrā panels are bottom-aligned so their mātrā rulers sit on
-the same y. Column 1 (3 + gap + 4) is taller than the 5-mātrā panel, so the
-5-mātrā carries whitespace above it.
+    A (left)    predecessor fillings — 1+2 mātrās (rows 1-3, → the 3-mātrā set)
+                                       2+3 mātrās (rows 4-8, → the 4-mātrā set)
+    B (middle)  3-mātrā (rows 1-3) and 4-mātrā (rows 4-8) fillings
+    C (right)   5-mātrā fillings
 
-Composition only: each panel is matra_tiles.build(n) verbatim, wrapped in a
-<g transform="translate(...)"> on a shared canvas — so every panel is identical
-to its standalone figure and stays in sync with matra_tiles.py automatically.
+From-right stagger keeps each shared suffix identical, so every column literally
+contains the one to its left as a suffix. Counts cascade: 1+2=3, 2+3=5, 3+5=8.
 
-Usage:  python3 figures/calibration/matra_tiles_combined.py
-Output: figures/calibration/matra_tiles_combined.svg
+Composition uses matra_tiles primitives (render_strip / render_ruler / tile), so
+geometry and fonts stay in sync with the standalone figures.
 """
 
 from __future__ import annotations
@@ -27,73 +26,87 @@ BUILD_DIR = Path(__file__).resolve().parent
 
 sys.path.insert(0, str(BUILD_DIR))
 from matra_tiles import (  # noqa: E402
-    build, tile, text, BG, GOLD, TEXT, FS_IAST,
+    fillings, render_strip, render_ruler, tile, text,
+    BG, GOLD, TEXT, GUIDE, FS_IAST,
+    MATRA_UNIT, SLANT, STRIP_HALF, ROW_PITCH, ROW_GAP, RULER_GAP,
 )
 
-MARGIN = 12          # outer canvas margin
-COL_GAP = 8          # horizontal gap between the two columns
-STACK_GAP = 12       # vertical gap between the 3- and 4-mātrā panels
-REF_H_IN = 6.0       # font-tuned print height; sets the px-per-inch scale
-WIDTH_IN = 4.5       # pinned effective print width
-COL2_SHIFT_IN = 0.4  # move column 2 (5-mātrā) left by this much (at REF_H_IN scale)
+MARGIN = 16
+COL_GAP = 24          # gap between columns (kept small — columns sit close)
+LEGEND_H = 40         # top band for the swatch legend
+HEAD_H = 26           # column-header band
+REF_H_IN = 6.0
+N_ROWS = 8
 
 
-def group(body: str, dx: float, dy: float) -> str:
-    return f'<g transform="translate({dx:.1f},{dy:.1f})">\n{body}\n</g>'
+def swatch(token: str, cx: float, cy: float, sc: float = 0.6) -> str:
+    return f'<g transform="translate({cx:.1f},{cy:.1f}) scale({sc})">{tile(token, 0, 0)}</g>'
 
 
 def main() -> None:
-    # Panels carry no legend; one shared legend goes in the top-right block.
-    b3, w3, h3 = build(3, show_ruler=False, show_legend=False)
-    b4, w4, h4 = build(4, show_legend=False)
-    b5, w5, h5 = build(5, show_legend=False, title_color=GOLD)
+    col_c = fillings(5)                       # 5-mātrā
+    col_b = fillings(3) + fillings(4)         # 3-mātrā then 4-mātrā
+    col_a = [row[1:] for row in col_b]        # predecessors = B minus its first tile
 
-    col_w = max(w3, w4, w5)
-    col1_x = MARGIN
-    col1_h = h3 + STACK_GAP + h4          # taller than h5
-    canvas_h = MARGIN + col1_h + MARGIN
+    columns = [
+        {"rows": col_a, "maxn": 3, "head": "1 · 2 · 3 mātrās", "color": TEXT},
+        {"rows": col_b, "maxn": 4, "head": "3 · 4 mātrās", "color": TEXT},
+        {"rows": col_c, "maxn": 5, "head": "5 mātrās", "color": GOLD},
+    ]
 
-    # The figure prints at REF_H_IN tall (height fixed); the column-2 left-shift
-    # and right-edge trim below bring the effective width to ~4.5 in.
-    px_per_in = canvas_h / REF_H_IN
-    col2_x = MARGIN + col_w + COL_GAP - round(COL2_SHIFT_IN * px_per_in)
-    # Pin the effective width (smaller title fonts would otherwise shrink it).
-    canvas_w = max(round(WIDTH_IN * px_per_in), col2_x + col_w + MARGIN)
+    # Horizontal placement: each column left-aligned to its own measure-0.
+    measure_x, x = [], MARGIN + SLANT / 2
+    for col in columns:
+        measure_x.append(x)
+        x += col["maxn"] * MATRA_UNIT + SLANT / 2 + COL_GAP
+    canvas_w = measure_x[-1] + columns[-1]["maxn"] * MATRA_UNIT + SLANT / 2 + MARGIN
 
-    y3 = MARGIN
-    y4 = MARGIN + h3 + STACK_GAP
-    y5 = (y4 + h4) - h5                   # bottom-align the 5-mātrā with the 4-mātrā
+    # Vertical placement: legend band, header band, eight rows, rulers.
+    top = MARGIN + LEGEND_H + HEAD_H
+    row_cy0 = top + STRIP_HALF
+    ruler_y = row_cy0 + (N_ROWS - 1) * ROW_PITCH + STRIP_HALF + RULER_GAP
+    canvas_h = ruler_y + 52
 
-    # Swatch legend in the empty block above the bottom-aligned 5-mātrā panel:
-    # a laghu hex (one pipe) and a guru hex (two pipes), each with its label.
-    lx = col2_x + 28
-    sc = 0.6                               # legend swatch scale
+    frags: list[str] = []
 
-    def swatch(token: str, cx: float, cy: float) -> str:
-        return f'<g transform="translate({cx:.1f},{cy:.1f}) scale({sc})">{tile(token, 0, 0)}</g>'
+    # Gridlines first (behind everything).
+    for col, mx in zip(columns, measure_x):
+        for i in range(col["maxn"] + 1):
+            gx = mx + i * MATRA_UNIT
+            frags.append(
+                f'<line x1="{gx:.1f}" y1="{top - 4:.1f}" x2="{gx:.1f}" '
+                f'y2="{ruler_y:.1f}" stroke="{GUIDE}" stroke-width="1" '
+                f'stroke-dasharray="3,4"/>'
+            )
 
-    row1, row2 = MARGIN + 20, MARGIN + 58
-    label_x = lx + 101
-    legend = "\n".join([
-        swatch("L", lx + 25, row1),
-        text(label_x, row1, "laghu · 1 mātrā", FS_IAST, fill=TEXT, anchor="start"),
-        swatch("G", lx + 44, row2),
-        text(label_x, row2, "guru · 2 mātrās", FS_IAST, fill=TEXT, anchor="start"),
-    ])
+    # Divider between the 3-set rows (0-2) and the 4-set rows (3-7).
+    div_y = row_cy0 + 2 * ROW_PITCH + STRIP_HALF + ROW_GAP / 2
+    frags.append(
+        f'<line x1="{MARGIN:.1f}" y1="{div_y:.1f}" x2="{canvas_w - MARGIN:.1f}" '
+        f'y2="{div_y:.1f}" stroke="{GUIDE}" stroke-width="1"/>'
+    )
 
-    body = "\n".join([
-        group(b3, col1_x, y3),
-        group(b4, col1_x, y4),
-        group(b5, col2_x, y5),
-        legend,
-    ])
+    # Swatch legend (top-left band).
+    ly = MARGIN + LEGEND_H / 2
+    frags.append(swatch("L", MARGIN + 16, ly))
+    frags.append(text(MARGIN + 42, ly, "laghu · 1 mātrā", FS_IAST, fill=TEXT, anchor="start"))
+    frags.append(swatch("G", MARGIN + 200, ly))
+    frags.append(text(MARGIN + 240, ly, "guru · 2 mātrās", FS_IAST, fill=TEXT, anchor="start"))
+
+    # Columns: header, rows, ruler.
+    for col, mx in zip(columns, measure_x):
+        frags.append(text(mx, MARGIN + LEGEND_H + HEAD_H - 9, col["head"],
+                          FS_IAST, fill=col["color"], anchor="start", weight="700"))
+        for idx, tokens in enumerate(col["rows"]):
+            frags.append(render_strip(tokens, mx, row_cy0 + idx * ROW_PITCH))
+        frags.append(render_ruler(mx, ruler_y, col["maxn"]))
 
     doc = (
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{canvas_w:.0f}" '
         f'height="{canvas_h:.0f}" viewBox="0 0 {canvas_w:.0f} {canvas_h:.0f}">\n'
-        '<title>Chandas mātrā tiles — 3, 4, 5 mātrās</title>\n'
+        '<title>Mātrā recurrence cascade — 3, 4, 5 mātrās</title>\n'
         f'<rect width="100%" height="100%" fill="{BG}"/>\n'
-        f'{body}\n</svg>\n'
+        + "\n".join(frags) + "\n</svg>\n"
     )
     out = BUILD_DIR / "matra_tiles_combined.svg"
     out.write_text(doc, encoding="utf-8")

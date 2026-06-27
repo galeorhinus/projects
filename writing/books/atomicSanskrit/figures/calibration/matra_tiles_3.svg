@@ -1,39 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="281" height="517" viewBox="0 0 281 517">
+<svg xmlns="http://www.w3.org/2000/svg" width="241" height="460" viewBox="0 0 241 460">
 <title>Chandas mātrā tiles — 3 mātrās</title>
 <rect width="100%" height="100%" fill="#ffffff"/>
-<text x="28.0" y="42.0" font-family="Charter, Georgia, Times, serif" font-size="29.0" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#3d2f1f">3 mātrās · 3</text>
-  <text x="28.0" y="78.0" font-family="Charter, Georgia, Times, serif" font-size="26.4" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#6b563a">| = laghu (1 mātrā)    ·    || = guru (2)</text>
-  <line x1="50.0" y1="98.0" x2="50.0" y2="438.6" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
-  <line x1="114.8" y1="98.0" x2="114.8" y2="438.6" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
-  <line x1="179.6" y1="98.0" x2="179.6" y2="438.6" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
-  <line x1="244.4" y1="98.0" x2="244.4" y2="438.6" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
-  <polygon points="59.0,102.0 170.6,102.0 188.6,133.2 170.6,164.4 59.0,164.4 41.0,133.2" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="188.6,133.2 235.4,133.2 253.4,164.4 235.4,195.5 188.6,195.5 170.6,164.4" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <line x1="109.0" y1="120.1" x2="109.0" y2="146.3" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
-  <line x1="120.6" y1="120.1" x2="120.6" y2="146.3" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
-  <line x1="212.0" y1="151.3" x2="212.0" y2="177.4" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
-  <polygon points="59.0,211.5 105.8,211.5 123.8,242.7 105.8,273.9 59.0,273.9 41.0,242.7" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="123.8,242.7 235.4,242.7 253.4,273.9 235.4,305.1 123.8,305.1 105.8,273.9" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <line x1="82.4" y1="229.6" x2="82.4" y2="255.8" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
-  <line x1="173.8" y1="260.8" x2="173.8" y2="287.0" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
-  <line x1="185.4" y1="260.8" x2="185.4" y2="287.0" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
-  <polygon points="59.0,352.2 105.8,352.2 123.8,383.4 105.8,414.6 59.0,414.6 41.0,383.4" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="123.8,321.1 170.6,321.1 188.6,352.2 170.6,383.4 123.8,383.4 105.8,352.2" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="188.6,352.2 235.4,352.2 253.4,383.4 235.4,414.6 188.6,414.6 170.6,383.4" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <line x1="82.4" y1="370.3" x2="82.4" y2="396.5" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
-  <line x1="147.2" y1="339.1" x2="147.2" y2="365.3" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
-  <line x1="212.0" y1="370.3" x2="212.0" y2="396.5" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
-  <line x1="50.0" y1="438.6" x2="244.4" y2="438.6" stroke="#7a6647" stroke-width="2.6"/>
-  <line x1="50.0" y1="438.6" x2="50.0" y2="426.6" stroke="#7a6647" stroke-width="2.4"/>
-  <text x="50.0" y="464.6" font-family="Charter, Georgia, Times, serif" font-size="25.1" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">0</text>
-  <line x1="82.4" y1="438.6" x2="82.4" y2="432.6" stroke="#7a6647" stroke-width="1.5"/>
-  <line x1="114.8" y1="438.6" x2="114.8" y2="426.6" stroke="#7a6647" stroke-width="2.4"/>
-  <text x="114.8" y="464.6" font-family="Charter, Georgia, Times, serif" font-size="25.1" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">1</text>
-  <line x1="147.2" y1="438.6" x2="147.2" y2="432.6" stroke="#7a6647" stroke-width="1.5"/>
-  <line x1="179.6" y1="438.6" x2="179.6" y2="426.6" stroke="#7a6647" stroke-width="2.4"/>
-  <text x="179.6" y="464.6" font-family="Charter, Georgia, Times, serif" font-size="25.1" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">2</text>
-  <line x1="212.0" y1="438.6" x2="212.0" y2="432.6" stroke="#7a6647" stroke-width="1.5"/>
-  <line x1="244.4" y1="438.6" x2="244.4" y2="426.6" stroke="#7a6647" stroke-width="2.4"/>
-  <text x="244.4" y="464.6" font-family="Charter, Georgia, Times, serif" font-size="25.1" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">3</text>
-  <text x="147.2" y="494.6" font-family="Charter, Georgia, Times, serif" font-size="25.1" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">mātrā</text>
+<text x="28.0" y="42.0" font-family="Charter, Georgia, Times, serif" font-size="22.1" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#3d2f1f">3 mātrās · 3</text>
+  <text x="28.0" y="78.0" font-family="Charter, Georgia, Times, serif" font-size="20.1" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#6b563a">| = laghu (1 mātrā)    ·    || = guru (2)</text>
+  <line x1="50.0" y1="98.0" x2="50.0" y2="382.5" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
+  <line x1="101.8" y1="98.0" x2="101.8" y2="382.5" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
+  <line x1="153.7" y1="98.0" x2="153.7" y2="382.5" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
+  <line x1="205.5" y1="98.0" x2="205.5" y2="382.5" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
+  <polygon points="57.2,102.0 146.5,102.0 160.9,126.9 146.5,151.9 57.2,151.9 42.8,126.9" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="160.9,126.9 198.3,126.9 212.7,151.9 198.3,176.8 160.9,176.8 146.5,151.9" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="97.2" y1="116.5" x2="97.2" y2="137.4" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="106.4" y1="116.5" x2="106.4" y2="137.4" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="179.6" y1="141.4" x2="179.6" y2="162.4" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <polygon points="57.2,192.8 94.6,192.8 109.0,217.8 94.6,242.7 57.2,242.7 42.8,217.8" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="109.0,217.8 198.3,217.8 212.7,242.7 198.3,267.6 109.0,267.6 94.6,242.7" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="75.9" y1="207.3" x2="75.9" y2="228.2" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="149.1" y1="232.2" x2="149.1" y2="253.2" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="158.3" y1="232.2" x2="158.3" y2="253.2" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <polygon points="57.2,308.6 94.6,308.6 109.0,333.5 94.6,358.5 57.2,358.5 42.8,333.5" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="109.0,283.6 146.5,283.6 160.9,308.6 146.5,333.5 109.0,333.5 94.6,308.6" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="160.9,308.6 198.3,308.6 212.7,333.5 198.3,358.5 160.9,358.5 146.5,333.5" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="75.9" y1="323.1" x2="75.9" y2="344.0" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="127.8" y1="298.1" x2="127.8" y2="319.1" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="179.6" y1="323.1" x2="179.6" y2="344.0" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="50.0" y1="382.5" x2="205.5" y2="382.5" stroke="#7a6647" stroke-width="2.6"/>
+  <line x1="50.0" y1="382.5" x2="50.0" y2="370.5" stroke="#7a6647" stroke-width="2.4"/>
+  <text x="50.0" y="408.5" font-family="Charter, Georgia, Times, serif" font-size="19.1" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">0</text>
+  <line x1="75.9" y1="382.5" x2="75.9" y2="376.5" stroke="#7a6647" stroke-width="1.5"/>
+  <line x1="101.8" y1="382.5" x2="101.8" y2="370.5" stroke="#7a6647" stroke-width="2.4"/>
+  <text x="101.8" y="408.5" font-family="Charter, Georgia, Times, serif" font-size="19.1" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">1</text>
+  <line x1="127.8" y1="382.5" x2="127.8" y2="376.5" stroke="#7a6647" stroke-width="1.5"/>
+  <line x1="153.7" y1="382.5" x2="153.7" y2="370.5" stroke="#7a6647" stroke-width="2.4"/>
+  <text x="153.7" y="408.5" font-family="Charter, Georgia, Times, serif" font-size="19.1" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">2</text>
+  <line x1="179.6" y1="382.5" x2="179.6" y2="376.5" stroke="#7a6647" stroke-width="1.5"/>
+  <line x1="205.5" y1="382.5" x2="205.5" y2="370.5" stroke="#7a6647" stroke-width="2.4"/>
+  <text x="205.5" y="408.5" font-family="Charter, Georgia, Times, serif" font-size="19.1" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">3</text>
+  <text x="127.8" y="438.5" font-family="Charter, Georgia, Times, serif" font-size="19.1" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">mātrā</text>
 </svg>
