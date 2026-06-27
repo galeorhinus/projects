@@ -42,7 +42,9 @@ from dhatu_hexagon import EDGE_LENGTH, HEX_HEIGHT  # noqa: E402
 # --- Geometry (matches the staggered Ch 10/11/12 hex grammar) --------------
 
 SLANT = EDGE_LENGTH / 2          # horizontal projection of one slanted edge (= 20)
-MATRA_UNIT = 60                  # px per mātrā along the measure (vakya value)
+MATRA_UNIT = 72                  # px per mātrā along the measure (widened from the
+                                 # vakya value of 60 so the larger IAST gloss fits
+                                 # the 1-mātrā tile; affects width only, not height)
 UPPER_RAIL = -HEX_HEIGHT / 4     # the two staggered rails, HEX_HEIGHT/2 apart
 LOWER_RAIL = HEX_HEIGHT / 4
 
@@ -59,10 +61,23 @@ GUIDE = "#c8c8c8"
 LATIN_FONT = "Charter, Georgia, Times, serif"
 DEV_FONT = "Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif"
 
+# --- Font sizes (px) -------------------------------------------------------
+# Tuned so the 5-mātrā figure (the taller one) prints its text at these point
+# sizes when set to 6 in tall: title 11 / legend 8 / Devanagari 10 / IAST 8 /
+# ruler numbers 8 / mātrā label 9. The 4-mātrā figure shares the same px sizes,
+# so at the same scale (DPI) it prints shorter with identical effective sizes.
+
+FS_TITLE = 30
+FS_LEGEND = 22
+FS_DEV = 28
+FS_IAST = 22
+FS_RULER_NUM = 22
+FS_MATRA_LABEL = 25
+
 # --- Layout ----------------------------------------------------------------
 
 MARGIN = 28
-TITLE_H = 66
+TITLE_H = 94
 X0 = MARGIN + 22                       # x where mātrā 0 sits (the measure start)
 ROW_GAP = 26
 RIGHT_PAD = 28
@@ -172,8 +187,8 @@ def render_strip(tokens: list[str], measure_start_x: float, row_cy: float) -> st
         )
         dev = "गुरु" if u["t"] == "G" else "लघु"
         iast = "guru" if u["t"] == "G" else "laghu"
-        labels.append(text(cx, cy - 6, dev, 19, weight="600", family=DEV_FONT))
-        labels.append(text(cx, cy + 16, iast, 12, fill=MUTED, style="italic"))
+        labels.append(text(cx, cy - 9, dev, FS_DEV, weight="600", family=DEV_FONT))
+        labels.append(text(cx, cy + 19, iast, FS_IAST, fill=MUTED, style="italic"))
     return "\n  ".join(polys + labels)
 
 
@@ -193,8 +208,8 @@ def render_ruler(x_start: float, y: float, n: int) -> str:
             f'stroke="{RULER}" stroke-width="{2.4 if major else 1.5}"/>'
         )
         if major:
-            frags.append(text(x, y + 20, f"{i // 2}", 15, fill=MUTED))
-    frags.append(text((x_start + end_x) / 2, y + 42, "mātrā", 15, fill=MUTED, style="italic"))
+            frags.append(text(x, y + 26, f"{i // 2}", FS_RULER_NUM, fill=MUTED))
+    frags.append(text((x_start + end_x) / 2, y + 54, "mātrā", FS_MATRA_LABEL, fill=MUTED, style="italic"))
     return "\n  ".join(frags)
 
 
@@ -208,10 +223,10 @@ def build(n: int) -> tuple[str, float, float]:
     frags: list[str] = []
 
     measure_word = {4: "Four", 5: "Five", 6: "Six", 7: "Seven", 8: "Eight"}.get(n, str(n))
-    frags.append(text(MARGIN, 28, f"{measure_word} mātrās — {count} patterns",
-                      20, anchor="start", weight="700"))
-    frags.append(text(MARGIN, 50, "लघु = 1 mātrā    ·    गुरु = 2 mātrās",
-                      14, fill=MUTED, anchor="start", family=DEV_FONT))
+    title_text = f"{measure_word} mātrās — {count} patterns"
+    frags.append(text(MARGIN, 40, title_text, FS_TITLE, anchor="start", weight="700"))
+    frags.append(text(MARGIN, 74, "लघु = 1 mātrā    ·    गुरु = 2 mātrās",
+                      FS_LEGEND, fill=MUTED, anchor="start", family=DEV_FONT))
 
     row_cy0 = TITLE_H + STRIP_HALF
     stack_bottom = row_cy0 + (count - 1) * ROW_PITCH + STRIP_HALF
@@ -231,8 +246,9 @@ def build(n: int) -> tuple[str, float, float]:
 
     frags.append(render_ruler(X0, ruler_y, n))
 
-    width = tiles_right + RIGHT_PAD
-    height = ruler_y + 56
+    title_w = len(title_text) * FS_TITLE * 0.56     # rough advance-width estimate
+    width = max(tiles_right + RIGHT_PAD, MARGIN + title_w + MARGIN)
+    height = ruler_y + 72
     return "\n  ".join(frags), width, height
 
 
