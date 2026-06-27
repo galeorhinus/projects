@@ -93,7 +93,7 @@ The six layers operate at six different timescales of correction. Layer 1 correc
 
 A composer working inside a measured line has to know what the line can hold — the necessity is poetic before it is mathematical. A **लघु (*laghu*)** syllable occupies one *mātrā*. A **गुरु (*guru*)** syllable occupies two. The poet fills a timed architecture with syllables of different weights. Once the line is timed, the counting question appears on its own: how many valid patterns can fill this measure exactly?
 
-![Figure 14.3 — Chandas as mātrā tiling. The fillings of three, four, and five *mātrās*; each measure is built from the two shorter ones, so the counts add.](figures/calibration/matra_tiles_combined.svg){#fig:ch14-chandas-matra-tiling width=100%}
+![Figure 14.3 — Chandas as mātrā tiling. The fillings of three, four, and five *mātrās*; each measure is built from the two shorter ones, so the counts add.](figures/calibration/matra_tiles_combined.svg){#fig:ch14-chandas-matra-tiling width=4.5in}
 
 Figure 14.3 lays the count out. Three *mātrās* fill three ways, four *mātrās* five, five *mātrās* eight — and the figure shows why those numbers and no others. Each filling is a shorter filling with one syllable set in front: a *guru* before a pattern two *mātrās* shorter, or a *laghu* before one a single *mātrā* shorter. So the eight fillings of five *mātrās* are exactly the three fillings of three *mātrās*, each opened by a *guru*, together with the five fillings of four *mātrās*, each opened by a *laghu*. The fillings of a measure are the fillings of the two measures before it, combined.
 

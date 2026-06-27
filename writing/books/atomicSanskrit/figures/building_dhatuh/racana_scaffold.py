@@ -74,7 +74,7 @@ PITCH_L = 2 * STRIP_HALF_L + 28
 LAST_CY = ROW_CY0 + (len(EXAMPLES) - 1) * PITCH_L
 SCAFFOLD_CY = (ROW_CY0 + LAST_CY) / 2
 RULER_Y = max(LAST_CY + STRIP_HALF_L, SCAFFOLD_CY + STRIP_HALF_R) + 26
-CANVAS_H = RULER_Y + 38
+CANVAS_H = RULER_Y + 52   # room below the "mātrā" axis label
 
 # --- Fonts (px → pt at the 4.5 in rendered width) ---------------------------
 
