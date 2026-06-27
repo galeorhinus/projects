@@ -183,14 +183,14 @@ def layout(tokens: list[str]) -> list[dict]:
 
 PIPE_HALF = HEX_HEIGHT * 0.144   # half-height of a pipe mark (20% shorter)
 PIPE_GAP = EDGE_LENGTH * 0.16    # half-gap between the two guru pipes
-PIPE_WIDTH = 1.76                # 20% thinner
+PIPE_WIDTH = 1.0
 
 
 def tile_hex(token: str, cx: float, cy: float) -> str:
     fill = GURU_FILL if token == "G" else LAGHU_FILL
     return (
         f'<polygon points="{hex_points(cx, cy, width_of(token))}" fill="{fill}" '
-        f'stroke="{STROKE}" stroke-width="1.5" stroke-linejoin="round"/>'
+        f'stroke="{STROKE}" stroke-width="1" stroke-linejoin="round"/>'
     )
 
 
@@ -230,7 +230,7 @@ def render_ruler(x_start: float, y: float, n: int) -> str:
     end_x = x_start + n * MATRA_UNIT
     frags = [
         f'<line x1="{x_start:.1f}" y1="{y:.1f}" x2="{end_x:.1f}" y2="{y:.1f}" '
-        f'stroke="{RULER}" stroke-width="2.6"/>'
+        f'stroke="{RULER}" stroke-width="1"/>'
     ]
     for i in range(n * 2 + 1):
         x = x_start + i * MATRA_UNIT / 2
@@ -238,7 +238,7 @@ def render_ruler(x_start: float, y: float, n: int) -> str:
         tick = 12 if major else 6
         frags.append(
             f'<line x1="{x:.1f}" y1="{y:.1f}" x2="{x:.1f}" y2="{y - tick:.1f}" '
-            f'stroke="{RULER}" stroke-width="{2.4 if major else 1.5}"/>'
+            f'stroke="{RULER}" stroke-width="1"/>'
         )
         if major:
             frags.append(text(x, y + 26, f"{i // 2}", FS_RULER_NUM, fill=MUTED))
