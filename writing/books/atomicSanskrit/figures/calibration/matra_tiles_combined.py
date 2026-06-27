@@ -33,6 +33,9 @@ from matra_tiles import (  # noqa: E402
 MARGIN = 12          # outer canvas margin
 COL_GAP = 8          # horizontal gap between the two columns
 STACK_GAP = 12       # vertical gap between the 3- and 4-mātrā panels
+REF_H_IN = 6.0       # font-tuned print height; sets the px-per-inch scale
+COL2_SHIFT_IN = 0.4  # move column 2 (5-mātrā) left by this much (at REF_H_IN scale)
+RIGHT_TRIM_IN = 0.16 # trim the right edge by this much → effective width ~4.5in
 
 
 def group(body: str, dx: float, dy: float) -> str:
@@ -47,11 +50,14 @@ def main() -> None:
 
     col_w = max(w3, w4, w5)
     col1_x = MARGIN
-    col2_x = MARGIN + col_w + COL_GAP
-
     col1_h = h3 + STACK_GAP + h4          # taller than h5
-    canvas_w = col2_x + col_w + MARGIN
     canvas_h = MARGIN + col1_h + MARGIN
+
+    # The figure prints at REF_H_IN tall (height fixed); the column-2 left-shift
+    # and right-edge trim below bring the effective width to ~4.5 in.
+    px_per_in = canvas_h / REF_H_IN
+    col2_x = MARGIN + col_w + COL_GAP - round(COL2_SHIFT_IN * px_per_in)
+    canvas_w = (col2_x + col_w + MARGIN) - round(RIGHT_TRIM_IN * px_per_in)
 
     y3 = MARGIN
     y4 = MARGIN + h3 + STACK_GAP
@@ -78,8 +84,8 @@ def main() -> None:
     )
     out = BUILD_DIR / "matra_tiles_combined.svg"
     out.write_text(doc, encoding="utf-8")
-    print(f"Wrote {out.relative_to(REPO_ROOT)}  ({canvas_w:.0f}x{canvas_h:.0f}; "
-          f"4- & 5-mātrā rulers aligned at y={y4 + h4:.0f})")
+    print(f"Wrote {out.relative_to(REPO_ROOT)}  ({canvas_w:.0f}x{canvas_h:.0f}px; "
+          f"at {REF_H_IN:.0f}in tall = {canvas_w * REF_H_IN / canvas_h:.2f}in wide)")
 
 
 if __name__ == "__main__":
