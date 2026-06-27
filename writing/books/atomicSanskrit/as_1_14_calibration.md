@@ -126,6 +126,8 @@ The modern world calls this the Fibonacci sequence. Sanskrit prosody reaches it 
 
 The recurrence is direct once the metrical problem is visible. Every valid pattern of *n* *mātrās* ends in one of two ways. If it ends in *laghu*, the preceding part must fill *n − 1* *mātrās*. If it ends in *guru*, the preceding part must fill *n − 2* *mātrās*. The count for *n* therefore comes from the two counts before it. The mathematics follows the meter.
 
+![Figure 14.3 — Chandas as mātrā tiling. Each filling of *n* mātrās is one tile added to the front of a shorter filling — *guru* before an (*n*−2)-pattern or *laghu* before an (*n*−1)-pattern — so the counts add: 1 + 2 = 3, 2 + 3 = 5, 3 + 5 = 8.](figures/calibration/matra_tiles_combined.svg){#fig:ch14-chandas-matra-tiling width=100%}
+
 *Chandas* treats meter as discovered architecture. The discipline reveals the valid forms, counts their possibilities, charts their patterns, and trains poets and reciters to hold them. Grammar is decoded. The mouth is mapped. Meter is measured and discovered. In each case, Sanskrit's disciplines begin from architecture, not authority.
 
 That is why *Chandas* belongs inside the calibration matrix. Meter does more than beautify a verse. It defines what a valid timed form can be, gives the poet a design space, gives the reciter a checksum, and gives the listener a way to hear drift. Poetry, mathematics, and preservation meet in the same measured line.
@@ -181,13 +183,13 @@ The three benchmark traditions are not Sanskrit's independent peers. They are Sa
 
 The calibration matrix was not assembled by one named author. The Vedic corpus is अपौरुषेय (*apauruṣeya*) in the lineage's own account — without human authorship. The *Prātiśākhya* discipline is distributed across recensions. The *Śikṣā* texts teach an already established phonetic specification. The *Dhātupāṭha* and *Varṇamālā* preserve inventories the system already depends on. *Chandas* operates a metrical architecture older than any individual treatise that documents it.
 
-Pāṇini stands inside this matrix. He does not stand at its origin.
+Pāṇini documented a matrix that was already in operation. He did not originate it.
 
-This is why the praise is selective. The machinery can safely admire the named grammarian if admiration makes him look like origin. But Pāṇini is a threat to the pyramid when read correctly. He is not evidence that authority created Sanskrit's order. He is evidence that order already existed deeply enough to be decoded, compressed, and carried as rule. The pyramid praises him only by turning him into what he was not.
+**This is why Pāṇini's praise is selective and dangerously seductive.** The machinery can safely admire the named documenter if admiration makes him look like origin. But Pāṇini is a threat to the pyramid when read correctly. He is not evidence that authority created Sanskrit's order. He is evidence that order already existed deeply enough to be decoded, compressed, and carried as rule. The pyramid praises him only by turning him into what he was not.
 
 The Western philological account calls him a codifier because that word lets the asuric machinery relocate the engineering into a later named figure and erase the anonymous architecture underneath him. The dogma's ***"centuries of analysis"*** hypothesis projects the same fabrication onto the phonological framework: gradual assembly by anonymous *Prātiśākhya* and *Śikṣā* authors, built up from observations across many generations. The hypothesis fails the same test. The texts do not show gradual assembly. They do not preserve failed prototypes, provisional sound grids, experimental recitation systems, or incremental discovery notes. They present the matrix as an operating reality.
 
-That is the *heroic erasure* move at the matrix level. Praise the named grammarian. Deny the civilization that made his work possible. Celebrate the documenter. Hide the architecture documented. The *Prātiśākhya* discipline preserves the phonetic specification; it does not invent speech. *Śikṣā* trains the practitioner; it does not invent the mouth. Pāṇini compresses the generative system; he does not invent Sanskrit.
+That is the *heroic erasure* move at the matrix level. Praise the named documenter. Deny the civilization that made his work possible. Celebrate the documenter. Hide the architecture documented. The *Prātiśākhya* discipline preserves the phonetic specification; it does not invent speech. *Śikṣā* trains the practitioner; it does not invent the mouth. Pāṇini compresses the generative system; he does not invent Sanskrit.
 
 The Pāṇini-as-rupture move is heroic erasure in its sharpest form: praise the so-called codifier, then weaponize the praise to convert *vaidika* and *laukika* from domains into chronology. Pāṇini cannot move Sanskrit out of one domain and into another. Domains are not periods. Pāṇini documents both. That is not analysis. It is a grammatical sleight of hand with civilizational consequences (Chapter 2 §2.1).
 
@@ -203,13 +205,15 @@ The matrix in operation relies on the eleven *pāṭhas*, the aural architecture
 
 The radiant matrix kept the architecture present. Manuscripts burn, institutions fall, libraries close, and centralized authority recedes. A linguistic architecture engineered into speech, transmitted through the *guru-shishya* lineage-chain, and verified by the listening audience has no single institution to bring down.
 
-The deeper implication is civilizational. The calibration matrix proves two things materially what was earlier established structurally (Chapter 3):
- 1. Order can exist without a pyramid and without authority.
- 2. Order that is derived from a calibrant is far more sustainable than order that is derived from codification.
+The deeper implication is civilizational. The calibration matrix proves materially what Chapter 3 established structurally:
+1. Order can exist without a pyramid and without apex authority.
+2. Order derived from a calibrant is far more sustainable than order derived from codification.
 
 Sanskrit preserves through sound, meter, lineage, grammar, discipline, and self-correction — not through decree, monopoly, committee, or institutional apex. The standard lives inside the architecture. That is why the asuric machinery cannot merely disagree with Sanskrit. It has to misdescribe it. Natural drift can be governed and codification can be owned, but calibration makes the apex unnecessary because he has no role inside the architecture.
 
 Its architecture displays दिव्यता (*divyatā*) and serves लोकक्षेम (*lokakṣema*) without requiring a pyramid to command it. Sanskrit is evidence that the pyramid is unnecessary.
+
+Later volumes extend this premise into *saṃskṛti*: Sanskrit's fractal of order without centralized authority becomes a way to understand civilization itself.
 
 The matrix operates in its most important medium: sound preserved by disciplined hearing (Chapter 15).
 
