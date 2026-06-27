@@ -93,40 +93,11 @@ The six layers operate at six different timescales of correction. Layer 1 correc
 
 A composer working inside a measured line has to know what the line can hold — the necessity is poetic before it is mathematical. A **लघु (*laghu*)** syllable occupies one *mātrā*. A **गुरु (*guru*)** syllable occupies two. The poet fills a timed architecture with syllables of different weights. Once the line is timed, the counting question appears on its own: how many valid patterns can fill this measure exactly?
 
-Take four *mātrās*. Let **G** stand for a *guru* syllable and **L** for a *laghu* syllable. Four *mātrās* can be filled in five ways:
+![Figure 14.3 — Chandas as mātrā tiling. The fillings of three, four, and five *mātrās*; each measure is built from the two shorter ones, so the counts add.](figures/calibration/matra_tiles_combined.svg){#fig:ch14-chandas-matra-tiling width=100%}
 
-```text
-GG      = 2 + 2
-GLL     = 2 + 1 + 1
-LGL     = 1 + 2 + 1
-LLG     = 1 + 1 + 2
-LLLL    = 1 + 1 + 1 + 1
-```
+Figure 14.3 lays the count out. Three *mātrās* fill three ways, four *mātrās* five, five *mātrās* eight — and the figure shows why those numbers and no others. Each filling is a shorter filling with one syllable set in front: a *guru* before a pattern two *mātrās* shorter, or a *laghu* before one a single *mātrā* shorter. So the eight fillings of five *mātrās* are exactly the three fillings of three *mātrās*, each opened by a *guru*, together with the five fillings of four *mātrās*, each opened by a *laghu*. The fillings of a measure are the fillings of the two measures before it, combined.
 
-Add one more *mātrā*, and the count becomes eight:
-
-```text
-GGL
-GLG
-LGG
-GLLL
-LGLL
-LLGL
-LLLG
-LLLLL
-```
-
-Continue the same question and the counts run:
-
-```text
-1, 2, 3, 5, 8, 13...
-```
-
-The modern world calls this the Fibonacci sequence. Sanskrit prosody reaches it through sound, duration, and poetic necessity.[NOTE: chandas-laghu-guru-virahanka-sequence]
-
-The recurrence is direct once the metrical problem is visible. Every valid pattern of *n* *mātrās* ends in one of two ways. If it ends in *laghu*, the preceding part must fill *n − 1* *mātrās*. If it ends in *guru*, the preceding part must fill *n − 2* *mātrās*. The count for *n* therefore comes from the two counts before it. The mathematics follows the meter.
-
-![Figure 14.3 — Chandas as mātrā tiling. Each filling of *n* mātrās is one tile added to the front of a shorter filling — *guru* before an (*n*−2)-pattern or *laghu* before an (*n*−1)-pattern — so the counts add: 1 + 2 = 3, 2 + 3 = 5, 3 + 5 = 8.](figures/calibration/matra_tiles_combined.svg){#fig:ch14-chandas-matra-tiling width=100%}
+The counts add accordingly: one plus two is three, two plus three is five, three plus five is eight. Continue and the run is 1, 2, 3, 5, 8, 13 — the sequence the modern world calls Fibonacci.[NOTE: chandas-laghu-guru-virahanka-sequence] The figure makes it a structure to read off the page rather than a formula to take on trust: each measure's fillings are visibly built from the two before it. Sanskrit prosody reaches the sequence through sound, duration, and poetic necessity.
 
 *Chandas* treats meter as discovered architecture. The discipline reveals the valid forms, counts their possibilities, charts their patterns, and trains poets and reciters to hold them. Grammar is decoded. The mouth is mapped. Meter is measured and discovered. In each case, Sanskrit's disciplines begin from architecture, not authority.
 
