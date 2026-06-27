@@ -78,7 +78,9 @@ FS_MATRA_LABEL = 27
 # --- Layout ----------------------------------------------------------------
 
 MARGIN = 28
-TITLE_H = 102
+TITLE_H = 102                          # top chrome with the legend line
+TITLE_H_NO_LEGEND = 66                 # top chrome with the title only
+LEGEND_TEXT = "लघु = 1 mātrā    ·    गुरु = 2 mātrās"
 X0 = MARGIN + 22                       # x where mātrā 0 sits (the measure start)
 ROW_GAP = 16
 RIGHT_PAD = 28
@@ -214,7 +216,7 @@ def render_ruler(x_start: float, y: float, n: int) -> str:
     return "\n  ".join(frags)
 
 
-def build(n: int, show_ruler: bool = True) -> tuple[str, float, float]:
+def build(n: int, show_ruler: bool = True, show_legend: bool = True) -> tuple[str, float, float]:
     rows = fillings(n)
     count = len(rows)
 
@@ -226,17 +228,19 @@ def build(n: int, show_ruler: bool = True) -> tuple[str, float, float]:
     measure_word = {4: "Four", 5: "Five", 6: "Six", 7: "Seven", 8: "Eight"}.get(n, str(n))
     title_text = f"{measure_word} mātrās — {count} patterns"
     frags.append(text(MARGIN, 42, title_text, FS_TITLE, anchor="start", weight="700"))
-    frags.append(text(MARGIN, 78, "लघु = 1 mātrā    ·    गुरु = 2 mātrās",
-                      FS_LEGEND, fill=MUTED, anchor="start", family=DEV_FONT))
+    if show_legend:
+        frags.append(text(MARGIN, 78, LEGEND_TEXT,
+                          FS_LEGEND, fill=MUTED, anchor="start", family=DEV_FONT))
 
-    row_cy0 = TITLE_H + STRIP_HALF
+    top = TITLE_H if show_legend else TITLE_H_NO_LEGEND
+    row_cy0 = top + STRIP_HALF
     stack_bottom = row_cy0 + (count - 1) * ROW_PITCH + STRIP_HALF
     guide_bottom = stack_bottom + (RULER_GAP if show_ruler else 10)
 
     # Shared measure-boundary guides (every strip spans the same width).
     for gx in (X0, measure_end):
         frags.append(
-            f'<line x1="{gx:.1f}" y1="{TITLE_H - 4:.1f}" x2="{gx:.1f}" '
+            f'<line x1="{gx:.1f}" y1="{top - 4:.1f}" x2="{gx:.1f}" '
             f'y2="{guide_bottom:.1f}" stroke="{GUIDE}" stroke-width="1" '
             f'stroke-dasharray="3,4"/>'
         )
