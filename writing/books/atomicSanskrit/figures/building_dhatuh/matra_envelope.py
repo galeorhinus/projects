@@ -177,7 +177,7 @@ def main() -> None:
         grids.append(ms.gridlines(mx, math.floor(maxn), top, ruler_y, matra_unit=MATRA_UNIT))
         for r, (matra, deva, iast, dstr) in enumerate(column):
             cy = row_cy0 + r * row_pitch
-            chrome.append(ms.text(mx - SLANT / 2, cy - strip_half - 4,
+            chrome.append(ms.text(mx - SLANT / 2, cy - strip_half - 12,
                                   f"{matra} mātrā · {deva} — {iast}", FS_LABEL,
                                   fill=ms.TEXT, anchor="start", family=ms.DEV_FONT))
             strips.append(render_strip(units_of(dstr), mx, cy))
