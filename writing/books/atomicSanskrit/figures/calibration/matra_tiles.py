@@ -41,7 +41,7 @@ from dhatu_hexagon import EDGE_LENGTH as _EDGE_BASE, HEX_HEIGHT as _HH_BASE  # n
 
 # --- Geometry (matches the staggered Ch 10/11/12 hex grammar) --------------
 
-TILE_SCALE = 0.6                 # shrink the tiles for a less crowded page
+TILE_SCALE = 0.5                 # shrink the tiles for a less crowded page
 EDGE_LENGTH = _EDGE_BASE * TILE_SCALE
 HEX_HEIGHT = _HH_BASE * TILE_SCALE
 SLANT = EDGE_LENGTH / 2          # horizontal projection of one slanted edge
@@ -68,16 +68,16 @@ LATIN_FONT = "Charter, Georgia, Times, serif"
 DEV_FONT = "Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif"
 
 # --- Font sizes (px) -------------------------------------------------------
-# Tuned so the COMBINED cascade (matra_tiles_combined.py, 769 px tall) prints its
+# Tuned so the COMBINED cascade (matra_tiles_combined.py, 686 px tall) prints its
 # text at these point sizes at 6 in tall: title 11 / legend 10 / IAST 8 / ruler
-# numbers 9.5 / mātrā label 9.5.  (px = pt × 769 / 432.)
+# numbers 9.5 / mātrā label 9.5.  (px = pt × 686 / 432.)
 
-FS_TITLE = 19.6
-FS_LEGEND = 17.8
-FS_DEV = 19.6
-FS_IAST = 14.2
-FS_RULER_NUM = 16.9
-FS_MATRA_LABEL = 16.9
+FS_TITLE = 17.5
+FS_LEGEND = 15.9
+FS_DEV = 17.5
+FS_IAST = 12.7
+FS_RULER_NUM = 15.1
+FS_MATRA_LABEL = 15.1
 
 # --- Layout ----------------------------------------------------------------
 
@@ -181,9 +181,9 @@ def layout(tokens: list[str]) -> list[dict]:
 
 # --- Scansion marks: laghu = | (one pipe), guru = || (two pipes) -----------
 
-PIPE_HALF = HEX_HEIGHT * 0.21    # half-height of a pipe mark
+PIPE_HALF = HEX_HEIGHT * 0.18    # half-height of a pipe mark
 PIPE_GAP = EDGE_LENGTH * 0.16    # half-gap between the two guru pipes
-PIPE_WIDTH = 2.6
+PIPE_WIDTH = 2.2
 
 
 def tile_hex(token: str, cx: float, cy: float) -> str:
