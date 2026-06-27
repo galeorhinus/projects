@@ -27,7 +27,7 @@ BUILD_DIR = Path(__file__).resolve().parent
 
 sys.path.insert(0, str(BUILD_DIR))
 from matra_tiles import (  # noqa: E402
-    build, text, BG, GOLD, TEXT, MUTED, FS_TITLE, FS_IAST, LEGEND_TEXT,
+    build, tile, text, BG, GOLD, TEXT, FS_IAST,
 )
 
 MARGIN = 12          # outer canvas margin
@@ -64,22 +64,28 @@ def main() -> None:
     y4 = MARGIN + h3 + STACK_GAP
     y5 = (y4 + h4) - h5                   # bottom-align the 5-mātrā with the 4-mātrā
 
-    # Figure title + subtitle in the empty block above the bottom-aligned
-    # 5-mātrā panel, left-aligned with that panel's content.
+    # Swatch legend in the empty block above the bottom-aligned 5-mātrā panel:
+    # a laghu hex (one pipe) and a guru hex (two pipes), each with its label.
     lx = col2_x + 28
-    header = "\n".join([
-        text(lx, MARGIN + 26, "The Mātrā-Meru", FS_TITLE, fill=TEXT,
-             anchor="start", weight="700"),
-        text(lx, MARGIN + 54, LEGEND_TEXT, FS_IAST, fill=MUTED, anchor="start"),
-        text(lx, MARGIN + 78, "guru-first + laghu-first  →  3 + 5 = 8",
-             FS_IAST, fill=MUTED, anchor="start", style="italic"),
+    sc = 0.6                               # legend swatch scale
+
+    def swatch(token: str, cx: float, cy: float) -> str:
+        return f'<g transform="translate({cx:.1f},{cy:.1f}) scale({sc})">{tile(token, 0, 0)}</g>'
+
+    row1, row2 = MARGIN + 20, MARGIN + 58
+    label_x = lx + 101
+    legend = "\n".join([
+        swatch("L", lx + 25, row1),
+        text(label_x, row1, "laghu · 1 mātrā", FS_IAST, fill=TEXT, anchor="start"),
+        swatch("G", lx + 44, row2),
+        text(label_x, row2, "guru · 2 mātrās", FS_IAST, fill=TEXT, anchor="start"),
     ])
 
     body = "\n".join([
         group(b3, col1_x, y3),
         group(b4, col1_x, y4),
         group(b5, col2_x, y5),
-        header,
+        legend,
     ])
 
     doc = (

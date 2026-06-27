@@ -1,170 +1,191 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="918" height="1223" viewBox="0 0 918 1223">
+<svg xmlns="http://www.w3.org/2000/svg" width="855" height="1140" viewBox="0 0 855 1140">
 <title>Chandas mātrā tiles — 3, 4, 5 mātrās</title>
-<rect width="100%" height="100%" fill="#f4eedd"/>
+<rect width="100%" height="100%" fill="#ffffff"/>
 <g transform="translate(12.0,12.0)">
-<text x="28.0" y="42.0" font-family="Charter, Georgia, Times, serif" font-size="31.1" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#3d2f1f">3 mātrās · 3</text>
-  <line x1="50.0" y1="62.0" x2="50.0" y2="419.8" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
-  <line x1="122.0" y1="62.0" x2="122.0" y2="419.8" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
-  <line x1="194.0" y1="62.0" x2="194.0" y2="419.8" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
-  <line x1="266.0" y1="62.0" x2="266.0" y2="419.8" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
-  <polygon points="60.0,66.0 184.0,66.0 204.0,100.6 184.0,135.3 60.0,135.3 40.0,100.6" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="204.0,100.6 256.0,100.6 276.0,135.3 256.0,169.9 204.0,169.9 184.0,135.3" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <text x="122.0" y="100.6" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">S</text>
-  <text x="230.0" y="135.3" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <polygon points="60.0,185.9 112.0,185.9 132.0,220.6 112.0,255.2 60.0,255.2 40.0,220.6" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="132.0,220.6 256.0,220.6 276.0,255.2 256.0,289.8 132.0,289.8 112.0,255.2" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <text x="86.0" y="220.6" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <text x="194.0" y="255.2" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">S</text>
-  <polygon points="60.0,305.8 112.0,305.8 132.0,340.5 112.0,375.1 60.0,375.1 40.0,340.5" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="132.0,340.5 184.0,340.5 204.0,375.1 184.0,409.8 132.0,409.8 112.0,375.1" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="204.0,305.8 256.0,305.8 276.0,340.5 256.0,375.1 204.0,375.1 184.0,340.5" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <text x="86.0" y="340.5" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <text x="158.0" y="375.1" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <text x="230.0" y="340.5" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
+<text x="28.0" y="42.0" font-family="Charter, Georgia, Times, serif" font-size="29.0" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#3d2f1f">3 mātrās · 3</text>
+  <line x1="50.0" y1="62.0" x2="50.0" y2="388.6" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
+  <line x1="114.8" y1="62.0" x2="114.8" y2="388.6" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
+  <line x1="179.6" y1="62.0" x2="179.6" y2="388.6" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
+  <line x1="244.4" y1="62.0" x2="244.4" y2="388.6" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
+  <polygon points="59.0,66.0 170.6,66.0 188.6,97.2 170.6,128.4 59.0,128.4 41.0,97.2" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="188.6,97.2 235.4,97.2 253.4,128.4 235.4,159.5 188.6,159.5 170.6,128.4" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="109.0" y1="84.1" x2="109.0" y2="110.3" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="120.6" y1="84.1" x2="120.6" y2="110.3" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="212.0" y1="115.3" x2="212.0" y2="141.4" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <polygon points="59.0,175.5 105.8,175.5 123.8,206.7 105.8,237.9 59.0,237.9 41.0,206.7" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="123.8,206.7 235.4,206.7 253.4,237.9 235.4,269.1 123.8,269.1 105.8,237.9" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="82.4" y1="193.6" x2="82.4" y2="219.8" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="173.8" y1="224.8" x2="173.8" y2="251.0" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="185.4" y1="224.8" x2="185.4" y2="251.0" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <polygon points="59.0,316.2 105.8,316.2 123.8,347.4 105.8,378.6 59.0,378.6 41.0,347.4" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="123.8,285.1 170.6,285.1 188.6,316.2 170.6,347.4 123.8,347.4 105.8,316.2" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="188.6,316.2 235.4,316.2 253.4,347.4 235.4,378.6 188.6,378.6 170.6,347.4" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="82.4" y1="334.3" x2="82.4" y2="360.5" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="147.2" y1="303.1" x2="147.2" y2="329.3" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="212.0" y1="334.3" x2="212.0" y2="360.5" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
 </g>
-<g transform="translate(12.0,459.8)">
-<text x="28.0" y="42.0" font-family="Charter, Georgia, Times, serif" font-size="31.1" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#3d2f1f">4 mātrās · 5</text>
-  <line x1="50.0" y1="62.0" x2="50.0" y2="673.6" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
-  <line x1="122.0" y1="62.0" x2="122.0" y2="673.6" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
-  <line x1="194.0" y1="62.0" x2="194.0" y2="673.6" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
-  <line x1="266.0" y1="62.0" x2="266.0" y2="673.6" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
-  <line x1="338.0" y1="62.0" x2="338.0" y2="673.6" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
-  <polygon points="60.0,66.0 184.0,66.0 204.0,100.6 184.0,135.3 60.0,135.3 40.0,100.6" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="204.0,100.6 328.0,100.6 348.0,135.3 328.0,169.9 204.0,169.9 184.0,135.3" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <text x="122.0" y="100.6" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">S</text>
-  <text x="266.0" y="135.3" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">S</text>
-  <polygon points="60.0,185.9 184.0,185.9 204.0,220.6 184.0,255.2 60.0,255.2 40.0,220.6" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="204.0,220.6 256.0,220.6 276.0,255.2 256.0,289.8 204.0,289.8 184.0,255.2" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="276.0,185.9 328.0,185.9 348.0,220.6 328.0,255.2 276.0,255.2 256.0,220.6" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <text x="122.0" y="220.6" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">S</text>
-  <text x="230.0" y="255.2" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <text x="302.0" y="220.6" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <polygon points="60.0,305.8 112.0,305.8 132.0,340.5 112.0,375.1 60.0,375.1 40.0,340.5" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="132.0,340.5 256.0,340.5 276.0,375.1 256.0,409.8 132.0,409.8 112.0,375.1" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="276.0,305.8 328.0,305.8 348.0,340.5 328.0,375.1 276.0,375.1 256.0,340.5" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <text x="86.0" y="340.5" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <text x="194.0" y="375.1" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">S</text>
-  <text x="302.0" y="340.5" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <polygon points="60.0,425.8 112.0,425.8 132.0,460.4 112.0,495.1 60.0,495.1 40.0,460.4" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="132.0,460.4 184.0,460.4 204.0,495.1 184.0,529.7 132.0,529.7 112.0,495.1" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="204.0,425.8 328.0,425.8 348.0,460.4 328.0,495.1 204.0,495.1 184.0,460.4" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <text x="86.0" y="460.4" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <text x="158.0" y="495.1" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <text x="266.0" y="460.4" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">S</text>
-  <polygon points="60.0,545.7 112.0,545.7 132.0,580.3 112.0,615.0 60.0,615.0 40.0,580.3" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="132.0,580.3 184.0,580.3 204.0,615.0 184.0,649.6 132.0,649.6 112.0,615.0" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="204.0,545.7 256.0,545.7 276.0,580.3 256.0,615.0 204.0,615.0 184.0,580.3" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="276.0,580.3 328.0,580.3 348.0,615.0 328.0,649.6 276.0,649.6 256.0,615.0" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <text x="86.0" y="580.3" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <text x="158.0" y="615.0" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <text x="230.0" y="580.3" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <text x="302.0" y="615.0" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <line x1="50.0" y1="673.6" x2="338.0" y2="673.6" stroke="#7a6647" stroke-width="2.6"/>
-  <line x1="50.0" y1="673.6" x2="50.0" y2="661.6" stroke="#7a6647" stroke-width="2.4"/>
-  <text x="50.0" y="699.6" font-family="Charter, Georgia, Times, serif" font-size="26.9" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">0</text>
-  <line x1="86.0" y1="673.6" x2="86.0" y2="667.6" stroke="#7a6647" stroke-width="1.5"/>
-  <line x1="122.0" y1="673.6" x2="122.0" y2="661.6" stroke="#7a6647" stroke-width="2.4"/>
-  <text x="122.0" y="699.6" font-family="Charter, Georgia, Times, serif" font-size="26.9" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">1</text>
-  <line x1="158.0" y1="673.6" x2="158.0" y2="667.6" stroke="#7a6647" stroke-width="1.5"/>
-  <line x1="194.0" y1="673.6" x2="194.0" y2="661.6" stroke="#7a6647" stroke-width="2.4"/>
-  <text x="194.0" y="699.6" font-family="Charter, Georgia, Times, serif" font-size="26.9" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">2</text>
-  <line x1="230.0" y1="673.6" x2="230.0" y2="667.6" stroke="#7a6647" stroke-width="1.5"/>
-  <line x1="266.0" y1="673.6" x2="266.0" y2="661.6" stroke="#7a6647" stroke-width="2.4"/>
-  <text x="266.0" y="699.6" font-family="Charter, Georgia, Times, serif" font-size="26.9" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">3</text>
-  <line x1="302.0" y1="673.6" x2="302.0" y2="667.6" stroke="#7a6647" stroke-width="1.5"/>
-  <line x1="338.0" y1="673.6" x2="338.0" y2="661.6" stroke="#7a6647" stroke-width="2.4"/>
-  <text x="338.0" y="699.6" font-family="Charter, Georgia, Times, serif" font-size="26.9" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">4</text>
-  <text x="194.0" y="729.6" font-family="Charter, Georgia, Times, serif" font-size="26.9" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">mātrā</text>
+<g transform="translate(12.0,428.6)">
+<text x="28.0" y="42.0" font-family="Charter, Georgia, Times, serif" font-size="29.0" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#3d2f1f">4 mātrās · 5</text>
+  <line x1="50.0" y1="62.0" x2="50.0" y2="621.7" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
+  <line x1="114.8" y1="62.0" x2="114.8" y2="621.7" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
+  <line x1="179.6" y1="62.0" x2="179.6" y2="621.7" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
+  <line x1="244.4" y1="62.0" x2="244.4" y2="621.7" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
+  <line x1="309.2" y1="62.0" x2="309.2" y2="621.7" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
+  <polygon points="59.0,66.0 170.6,66.0 188.6,97.2 170.6,128.4 59.0,128.4 41.0,97.2" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="188.6,97.2 300.2,97.2 318.2,128.4 300.2,159.5 188.6,159.5 170.6,128.4" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="109.0" y1="84.1" x2="109.0" y2="110.3" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="120.6" y1="84.1" x2="120.6" y2="110.3" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="238.6" y1="115.3" x2="238.6" y2="141.4" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="250.2" y1="115.3" x2="250.2" y2="141.4" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <polygon points="59.0,206.7 170.6,206.7 188.6,237.9 170.6,269.1 59.0,269.1 41.0,237.9" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="188.6,175.5 235.4,175.5 253.4,206.7 235.4,237.9 188.6,237.9 170.6,206.7" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="253.4,206.7 300.2,206.7 318.2,237.9 300.2,269.1 253.4,269.1 235.4,237.9" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="109.0" y1="224.8" x2="109.0" y2="251.0" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="120.6" y1="224.8" x2="120.6" y2="251.0" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="212.0" y1="193.6" x2="212.0" y2="219.8" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="276.8" y1="224.8" x2="276.8" y2="251.0" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <polygon points="59.0,316.2 105.8,316.2 123.8,347.4 105.8,378.6 59.0,378.6 41.0,347.4" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="123.8,285.1 235.4,285.1 253.4,316.2 235.4,347.4 123.8,347.4 105.8,316.2" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="253.4,316.2 300.2,316.2 318.2,347.4 300.2,378.6 253.4,378.6 235.4,347.4" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="82.4" y1="334.3" x2="82.4" y2="360.5" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="173.8" y1="303.1" x2="173.8" y2="329.3" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="185.4" y1="303.1" x2="185.4" y2="329.3" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="276.8" y1="334.3" x2="276.8" y2="360.5" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <polygon points="59.0,425.8 105.8,425.8 123.8,456.9 105.8,488.1 59.0,488.1 41.0,456.9" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="123.8,394.6 170.6,394.6 188.6,425.8 170.6,456.9 123.8,456.9 105.8,425.8" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="188.6,425.8 300.2,425.8 318.2,456.9 300.2,488.1 188.6,488.1 170.6,456.9" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="82.4" y1="443.9" x2="82.4" y2="470.0" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="147.2" y1="412.7" x2="147.2" y2="438.9" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="238.6" y1="443.9" x2="238.6" y2="470.0" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="250.2" y1="443.9" x2="250.2" y2="470.0" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <polygon points="59.0,504.1 105.8,504.1 123.8,535.3 105.8,566.5 59.0,566.5 41.0,535.3" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="123.8,535.3 170.6,535.3 188.6,566.5 170.6,597.7 123.8,597.7 105.8,566.5" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="188.6,504.1 235.4,504.1 253.4,535.3 235.4,566.5 188.6,566.5 170.6,535.3" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="253.4,535.3 300.2,535.3 318.2,566.5 300.2,597.7 253.4,597.7 235.4,566.5" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="82.4" y1="522.2" x2="82.4" y2="548.4" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="147.2" y1="553.4" x2="147.2" y2="579.6" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="212.0" y1="522.2" x2="212.0" y2="548.4" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="276.8" y1="553.4" x2="276.8" y2="579.6" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="50.0" y1="621.7" x2="309.2" y2="621.7" stroke="#7a6647" stroke-width="2.6"/>
+  <line x1="50.0" y1="621.7" x2="50.0" y2="609.7" stroke="#7a6647" stroke-width="2.4"/>
+  <text x="50.0" y="647.7" font-family="Charter, Georgia, Times, serif" font-size="25.1" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">0</text>
+  <line x1="82.4" y1="621.7" x2="82.4" y2="615.7" stroke="#7a6647" stroke-width="1.5"/>
+  <line x1="114.8" y1="621.7" x2="114.8" y2="609.7" stroke="#7a6647" stroke-width="2.4"/>
+  <text x="114.8" y="647.7" font-family="Charter, Georgia, Times, serif" font-size="25.1" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">1</text>
+  <line x1="147.2" y1="621.7" x2="147.2" y2="615.7" stroke="#7a6647" stroke-width="1.5"/>
+  <line x1="179.6" y1="621.7" x2="179.6" y2="609.7" stroke="#7a6647" stroke-width="2.4"/>
+  <text x="179.6" y="647.7" font-family="Charter, Georgia, Times, serif" font-size="25.1" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">2</text>
+  <line x1="212.0" y1="621.7" x2="212.0" y2="615.7" stroke="#7a6647" stroke-width="1.5"/>
+  <line x1="244.4" y1="621.7" x2="244.4" y2="609.7" stroke="#7a6647" stroke-width="2.4"/>
+  <text x="244.4" y="647.7" font-family="Charter, Georgia, Times, serif" font-size="25.1" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">3</text>
+  <line x1="276.8" y1="621.7" x2="276.8" y2="615.7" stroke="#7a6647" stroke-width="1.5"/>
+  <line x1="309.2" y1="621.7" x2="309.2" y2="609.7" stroke="#7a6647" stroke-width="2.4"/>
+  <text x="309.2" y="647.7" font-family="Charter, Georgia, Times, serif" font-size="25.1" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">4</text>
+  <text x="179.6" y="677.7" font-family="Charter, Georgia, Times, serif" font-size="25.1" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">mātrā</text>
 </g>
-<g transform="translate(386.0,100.0)">
-<text x="28.0" y="42.0" font-family="Charter, Georgia, Times, serif" font-size="31.1" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#a8842c">5 mātrās · 8</text>
-  <line x1="50.0" y1="62.0" x2="50.0" y2="1033.4" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
-  <line x1="122.0" y1="62.0" x2="122.0" y2="1033.4" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
-  <line x1="194.0" y1="62.0" x2="194.0" y2="1033.4" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
-  <line x1="266.0" y1="62.0" x2="266.0" y2="1033.4" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
-  <line x1="338.0" y1="62.0" x2="338.0" y2="1033.4" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
-  <line x1="410.0" y1="62.0" x2="410.0" y2="1033.4" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
-  <polygon points="60.0,66.0 184.0,66.0 204.0,100.6 184.0,135.3 60.0,135.3 40.0,100.6" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="204.0,100.6 328.0,100.6 348.0,135.3 328.0,169.9 204.0,169.9 184.0,135.3" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="348.0,66.0 400.0,66.0 420.0,100.6 400.0,135.3 348.0,135.3 328.0,100.6" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <text x="122.0" y="100.6" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">S</text>
-  <text x="266.0" y="135.3" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">S</text>
-  <text x="374.0" y="100.6" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <polygon points="60.0,185.9 184.0,185.9 204.0,220.6 184.0,255.2 60.0,255.2 40.0,220.6" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="204.0,220.6 256.0,220.6 276.0,255.2 256.0,289.8 204.0,289.8 184.0,255.2" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="276.0,185.9 400.0,185.9 420.0,220.6 400.0,255.2 276.0,255.2 256.0,220.6" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <text x="122.0" y="220.6" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">S</text>
-  <text x="230.0" y="255.2" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <text x="338.0" y="220.6" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">S</text>
-  <polygon points="60.0,305.8 184.0,305.8 204.0,340.5 184.0,375.1 60.0,375.1 40.0,340.5" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="204.0,340.5 256.0,340.5 276.0,375.1 256.0,409.8 204.0,409.8 184.0,375.1" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="276.0,305.8 328.0,305.8 348.0,340.5 328.0,375.1 276.0,375.1 256.0,340.5" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="348.0,340.5 400.0,340.5 420.0,375.1 400.0,409.8 348.0,409.8 328.0,375.1" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <text x="122.0" y="340.5" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">S</text>
-  <text x="230.0" y="375.1" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <text x="302.0" y="340.5" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <text x="374.0" y="375.1" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <polygon points="60.0,425.8 112.0,425.8 132.0,460.4 112.0,495.1 60.0,495.1 40.0,460.4" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="132.0,460.4 256.0,460.4 276.0,495.1 256.0,529.7 132.0,529.7 112.0,495.1" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="276.0,425.8 400.0,425.8 420.0,460.4 400.0,495.1 276.0,495.1 256.0,460.4" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <text x="86.0" y="460.4" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <text x="194.0" y="495.1" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">S</text>
-  <text x="338.0" y="460.4" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">S</text>
-  <polygon points="60.0,545.7 112.0,545.7 132.0,580.3 112.0,615.0 60.0,615.0 40.0,580.3" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="132.0,580.3 256.0,580.3 276.0,615.0 256.0,649.6 132.0,649.6 112.0,615.0" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="276.0,545.7 328.0,545.7 348.0,580.3 328.0,615.0 276.0,615.0 256.0,580.3" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="348.0,580.3 400.0,580.3 420.0,615.0 400.0,649.6 348.0,649.6 328.0,615.0" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <text x="86.0" y="580.3" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <text x="194.0" y="615.0" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">S</text>
-  <text x="302.0" y="580.3" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <text x="374.0" y="615.0" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <polygon points="60.0,665.6 112.0,665.6 132.0,700.3 112.0,734.9 60.0,734.9 40.0,700.3" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="132.0,700.3 184.0,700.3 204.0,734.9 184.0,769.5 132.0,769.5 112.0,734.9" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="204.0,665.6 328.0,665.6 348.0,700.3 328.0,734.9 204.0,734.9 184.0,700.3" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="348.0,700.3 400.0,700.3 420.0,734.9 400.0,769.5 348.0,769.5 328.0,734.9" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <text x="86.0" y="700.3" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <text x="158.0" y="734.9" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <text x="266.0" y="700.3" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">S</text>
-  <text x="374.0" y="734.9" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <polygon points="60.0,785.5 112.0,785.5 132.0,820.2 112.0,854.8 60.0,854.8 40.0,820.2" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="132.0,820.2 184.0,820.2 204.0,854.8 184.0,889.5 132.0,889.5 112.0,854.8" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="204.0,785.5 256.0,785.5 276.0,820.2 256.0,854.8 204.0,854.8 184.0,820.2" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="276.0,820.2 400.0,820.2 420.0,854.8 400.0,889.5 276.0,889.5 256.0,854.8" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <text x="86.0" y="820.2" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <text x="158.0" y="854.8" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <text x="230.0" y="820.2" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <text x="338.0" y="854.8" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">S</text>
-  <polygon points="60.0,905.5 112.0,905.5 132.0,940.1 112.0,974.7 60.0,974.7 40.0,940.1" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="132.0,940.1 184.0,940.1 204.0,974.7 184.0,1009.4 132.0,1009.4 112.0,974.7" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="204.0,905.5 256.0,905.5 276.0,940.1 256.0,974.7 204.0,974.7 184.0,940.1" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="276.0,940.1 328.0,940.1 348.0,974.7 328.0,1009.4 276.0,1009.4 256.0,974.7" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <polygon points="348.0,905.5 400.0,905.5 420.0,940.1 400.0,974.7 348.0,974.7 328.0,940.1" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
-  <text x="86.0" y="940.1" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <text x="158.0" y="974.7" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <text x="230.0" y="940.1" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <text x="302.0" y="974.7" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <text x="374.0" y="940.1" font-family="Charter, Georgia, Times, serif" font-size="29.7" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">l</text>
-  <line x1="50.0" y1="1033.4" x2="410.0" y2="1033.4" stroke="#7a6647" stroke-width="2.6"/>
-  <line x1="50.0" y1="1033.4" x2="50.0" y2="1021.4" stroke="#7a6647" stroke-width="2.4"/>
-  <text x="50.0" y="1059.4" font-family="Charter, Georgia, Times, serif" font-size="26.9" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">0</text>
-  <line x1="86.0" y1="1033.4" x2="86.0" y2="1027.4" stroke="#7a6647" stroke-width="1.5"/>
-  <line x1="122.0" y1="1033.4" x2="122.0" y2="1021.4" stroke="#7a6647" stroke-width="2.4"/>
-  <text x="122.0" y="1059.4" font-family="Charter, Georgia, Times, serif" font-size="26.9" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">1</text>
-  <line x1="158.0" y1="1033.4" x2="158.0" y2="1027.4" stroke="#7a6647" stroke-width="1.5"/>
-  <line x1="194.0" y1="1033.4" x2="194.0" y2="1021.4" stroke="#7a6647" stroke-width="2.4"/>
-  <text x="194.0" y="1059.4" font-family="Charter, Georgia, Times, serif" font-size="26.9" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">2</text>
-  <line x1="230.0" y1="1033.4" x2="230.0" y2="1027.4" stroke="#7a6647" stroke-width="1.5"/>
-  <line x1="266.0" y1="1033.4" x2="266.0" y2="1021.4" stroke="#7a6647" stroke-width="2.4"/>
-  <text x="266.0" y="1059.4" font-family="Charter, Georgia, Times, serif" font-size="26.9" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">3</text>
-  <line x1="302.0" y1="1033.4" x2="302.0" y2="1027.4" stroke="#7a6647" stroke-width="1.5"/>
-  <line x1="338.0" y1="1033.4" x2="338.0" y2="1021.4" stroke="#7a6647" stroke-width="2.4"/>
-  <text x="338.0" y="1059.4" font-family="Charter, Georgia, Times, serif" font-size="26.9" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">4</text>
-  <line x1="374.0" y1="1033.4" x2="374.0" y2="1027.4" stroke="#7a6647" stroke-width="1.5"/>
-  <line x1="410.0" y1="1033.4" x2="410.0" y2="1021.4" stroke="#7a6647" stroke-width="2.4"/>
-  <text x="410.0" y="1059.4" font-family="Charter, Georgia, Times, serif" font-size="26.9" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">5</text>
-  <text x="230.0" y="1089.4" font-family="Charter, Georgia, Times, serif" font-size="26.9" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">mātrā</text>
+<g transform="translate(355.0,100.0)">
+<text x="28.0" y="42.0" font-family="Charter, Georgia, Times, serif" font-size="29.0" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#a8842c">5 mātrās · 8</text>
+  <line x1="50.0" y1="62.0" x2="50.0" y2="950.2" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
+  <line x1="114.8" y1="62.0" x2="114.8" y2="950.2" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
+  <line x1="179.6" y1="62.0" x2="179.6" y2="950.2" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
+  <line x1="244.4" y1="62.0" x2="244.4" y2="950.2" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
+  <line x1="309.2" y1="62.0" x2="309.2" y2="950.2" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
+  <line x1="374.0" y1="62.0" x2="374.0" y2="950.2" stroke="#cdbf9e" stroke-width="1" stroke-dasharray="3,4"/>
+  <polygon points="59.0,97.2 170.6,97.2 188.6,128.4 170.6,159.5 59.0,159.5 41.0,128.4" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="188.6,66.0 300.2,66.0 318.2,97.2 300.2,128.4 188.6,128.4 170.6,97.2" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="318.2,97.2 365.0,97.2 383.0,128.4 365.0,159.5 318.2,159.5 300.2,128.4" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="109.0" y1="115.3" x2="109.0" y2="141.4" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="120.6" y1="115.3" x2="120.6" y2="141.4" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="238.6" y1="84.1" x2="238.6" y2="110.3" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="250.2" y1="84.1" x2="250.2" y2="110.3" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="341.6" y1="115.3" x2="341.6" y2="141.4" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <polygon points="59.0,206.7 170.6,206.7 188.6,237.9 170.6,269.1 59.0,269.1 41.0,237.9" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="188.6,175.5 235.4,175.5 253.4,206.7 235.4,237.9 188.6,237.9 170.6,206.7" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="253.4,206.7 365.0,206.7 383.0,237.9 365.0,269.1 253.4,269.1 235.4,237.9" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="109.0" y1="224.8" x2="109.0" y2="251.0" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="120.6" y1="224.8" x2="120.6" y2="251.0" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="212.0" y1="193.6" x2="212.0" y2="219.8" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="303.4" y1="224.8" x2="303.4" y2="251.0" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="315.0" y1="224.8" x2="315.0" y2="251.0" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <polygon points="59.0,285.1 170.6,285.1 188.6,316.2 170.6,347.4 59.0,347.4 41.0,316.2" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="188.6,316.2 235.4,316.2 253.4,347.4 235.4,378.6 188.6,378.6 170.6,347.4" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="253.4,285.1 300.2,285.1 318.2,316.2 300.2,347.4 253.4,347.4 235.4,316.2" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="318.2,316.2 365.0,316.2 383.0,347.4 365.0,378.6 318.2,378.6 300.2,347.4" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="109.0" y1="303.1" x2="109.0" y2="329.3" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="120.6" y1="303.1" x2="120.6" y2="329.3" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="212.0" y1="334.3" x2="212.0" y2="360.5" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="276.8" y1="303.1" x2="276.8" y2="329.3" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="341.6" y1="334.3" x2="341.6" y2="360.5" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <polygon points="59.0,425.8 105.8,425.8 123.8,456.9 105.8,488.1 59.0,488.1 41.0,456.9" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="123.8,394.6 235.4,394.6 253.4,425.8 235.4,456.9 123.8,456.9 105.8,425.8" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="253.4,425.8 365.0,425.8 383.0,456.9 365.0,488.1 253.4,488.1 235.4,456.9" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="82.4" y1="443.9" x2="82.4" y2="470.0" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="173.8" y1="412.7" x2="173.8" y2="438.9" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="185.4" y1="412.7" x2="185.4" y2="438.9" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="303.4" y1="443.9" x2="303.4" y2="470.0" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="315.0" y1="443.9" x2="315.0" y2="470.0" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <polygon points="59.0,504.1 105.8,504.1 123.8,535.3 105.8,566.5 59.0,566.5 41.0,535.3" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="123.8,535.3 235.4,535.3 253.4,566.5 235.4,597.7 123.8,597.7 105.8,566.5" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="253.4,504.1 300.2,504.1 318.2,535.3 300.2,566.5 253.4,566.5 235.4,535.3" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="318.2,535.3 365.0,535.3 383.0,566.5 365.0,597.7 318.2,597.7 300.2,566.5" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="82.4" y1="522.2" x2="82.4" y2="548.4" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="173.8" y1="553.4" x2="173.8" y2="579.6" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="185.4" y1="553.4" x2="185.4" y2="579.6" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="276.8" y1="522.2" x2="276.8" y2="548.4" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="341.6" y1="553.4" x2="341.6" y2="579.6" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <polygon points="59.0,613.7 105.8,613.7 123.8,644.8 105.8,676.0 59.0,676.0 41.0,644.8" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="123.8,644.8 170.6,644.8 188.6,676.0 170.6,707.2 123.8,707.2 105.8,676.0" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="188.6,613.7 300.2,613.7 318.2,644.8 300.2,676.0 188.6,676.0 170.6,644.8" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="318.2,644.8 365.0,644.8 383.0,676.0 365.0,707.2 318.2,707.2 300.2,676.0" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="82.4" y1="631.7" x2="82.4" y2="657.9" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="147.2" y1="662.9" x2="147.2" y2="689.1" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="238.6" y1="631.7" x2="238.6" y2="657.9" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="250.2" y1="631.7" x2="250.2" y2="657.9" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="341.6" y1="662.9" x2="341.6" y2="689.1" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <polygon points="59.0,723.2 105.8,723.2 123.8,754.4 105.8,785.5 59.0,785.5 41.0,754.4" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="123.8,754.4 170.6,754.4 188.6,785.5 170.6,816.7 123.8,816.7 105.8,785.5" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="188.6,723.2 235.4,723.2 253.4,754.4 235.4,785.5 188.6,785.5 170.6,754.4" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="253.4,754.4 365.0,754.4 383.0,785.5 365.0,816.7 253.4,816.7 235.4,785.5" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="82.4" y1="741.3" x2="82.4" y2="767.5" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="147.2" y1="772.4" x2="147.2" y2="798.6" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="212.0" y1="741.3" x2="212.0" y2="767.5" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="303.4" y1="772.4" x2="303.4" y2="798.6" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="315.0" y1="772.4" x2="315.0" y2="798.6" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <polygon points="59.0,863.9 105.8,863.9 123.8,895.1 105.8,926.2 59.0,926.2 41.0,895.1" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="123.8,832.7 170.6,832.7 188.6,863.9 170.6,895.1 123.8,895.1 105.8,863.9" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="188.6,863.9 235.4,863.9 253.4,895.1 235.4,926.2 188.6,926.2 170.6,895.1" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="253.4,832.7 300.2,832.7 318.2,863.9 300.2,895.1 253.4,895.1 235.4,863.9" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="318.2,863.9 365.0,863.9 383.0,895.1 365.0,926.2 318.2,926.2 300.2,895.1" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="82.4" y1="882.0" x2="82.4" y2="908.2" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="147.2" y1="850.8" x2="147.2" y2="877.0" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="212.0" y1="882.0" x2="212.0" y2="908.2" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="276.8" y1="850.8" x2="276.8" y2="877.0" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="341.6" y1="882.0" x2="341.6" y2="908.2" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="50.0" y1="950.2" x2="374.0" y2="950.2" stroke="#7a6647" stroke-width="2.6"/>
+  <line x1="50.0" y1="950.2" x2="50.0" y2="938.2" stroke="#7a6647" stroke-width="2.4"/>
+  <text x="50.0" y="976.2" font-family="Charter, Georgia, Times, serif" font-size="25.1" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">0</text>
+  <line x1="82.4" y1="950.2" x2="82.4" y2="944.2" stroke="#7a6647" stroke-width="1.5"/>
+  <line x1="114.8" y1="950.2" x2="114.8" y2="938.2" stroke="#7a6647" stroke-width="2.4"/>
+  <text x="114.8" y="976.2" font-family="Charter, Georgia, Times, serif" font-size="25.1" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">1</text>
+  <line x1="147.2" y1="950.2" x2="147.2" y2="944.2" stroke="#7a6647" stroke-width="1.5"/>
+  <line x1="179.6" y1="950.2" x2="179.6" y2="938.2" stroke="#7a6647" stroke-width="2.4"/>
+  <text x="179.6" y="976.2" font-family="Charter, Georgia, Times, serif" font-size="25.1" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">2</text>
+  <line x1="212.0" y1="950.2" x2="212.0" y2="944.2" stroke="#7a6647" stroke-width="1.5"/>
+  <line x1="244.4" y1="950.2" x2="244.4" y2="938.2" stroke="#7a6647" stroke-width="2.4"/>
+  <text x="244.4" y="976.2" font-family="Charter, Georgia, Times, serif" font-size="25.1" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">3</text>
+  <line x1="276.8" y1="950.2" x2="276.8" y2="944.2" stroke="#7a6647" stroke-width="1.5"/>
+  <line x1="309.2" y1="950.2" x2="309.2" y2="938.2" stroke="#7a6647" stroke-width="2.4"/>
+  <text x="309.2" y="976.2" font-family="Charter, Georgia, Times, serif" font-size="25.1" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">4</text>
+  <line x1="341.6" y1="950.2" x2="341.6" y2="944.2" stroke="#7a6647" stroke-width="1.5"/>
+  <line x1="374.0" y1="950.2" x2="374.0" y2="938.2" stroke="#7a6647" stroke-width="2.4"/>
+  <text x="374.0" y="976.2" font-family="Charter, Georgia, Times, serif" font-size="25.1" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">5</text>
+  <text x="212.0" y="1006.2" font-family="Charter, Georgia, Times, serif" font-size="25.1" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">mātrā</text>
 </g>
-<text x="414.0" y="38.0" font-family="Charter, Georgia, Times, serif" font-size="31.1" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#3d2f1f">The Mātrā-Meru</text>
-<text x="414.0" y="66.0" font-family="Charter, Georgia, Times, serif" font-size="22.7" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#6b563a">S = guru (2 mātrās)    ·    l = laghu (1)</text>
-<text x="414.0" y="90.0" font-family="Charter, Georgia, Times, serif" font-size="22.7" font-weight="400" font-style="italic" text-anchor="start" dominant-baseline="middle" fill="#6b563a">guru-first + laghu-first  →  3 + 5 = 8</text>
+<g transform="translate(408.0,32.0) scale(0.6)"><polygon points="-23.4,-31.2 23.4,-31.2 41.4,0.0 23.4,31.2 -23.4,31.2 -41.4,0.0" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="0.0" y1="-13.1" x2="0.0" y2="13.1" stroke="#3d2f1f" stroke-width="2.6" stroke-linecap="round"/></g>
+<text x="484.0" y="32.0" font-family="Charter, Georgia, Times, serif" font-size="21.1" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#3d2f1f">laghu · 1 mātrā</text>
+<g transform="translate(427.0,70.0) scale(0.6)"><polygon points="-55.8,-31.2 55.8,-31.2 73.8,0.0 55.8,31.2 -55.8,31.2 -73.8,0.0" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <line x1="-5.8" y1="-13.1" x2="-5.8" y2="13.1" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/>
+  <line x1="5.8" y1="-13.1" x2="5.8" y2="13.1" stroke="#f4eedd" stroke-width="2.6" stroke-linecap="round"/></g>
+<text x="484.0" y="70.0" font-family="Charter, Georgia, Times, serif" font-size="21.1" font-weight="400" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#3d2f1f">guru · 2 mātrās</text>
 </svg>

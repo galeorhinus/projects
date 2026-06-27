@@ -37,21 +37,22 @@ REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 BUILD_DIR = Path(__file__).resolve().parent
 
 sys.path.insert(0, str(REPO_ROOT / "working" / "dhatu_hexagons"))
-from dhatu_hexagon import EDGE_LENGTH, HEX_HEIGHT  # noqa: E402
+from dhatu_hexagon import EDGE_LENGTH as _EDGE_BASE, HEX_HEIGHT as _HH_BASE  # noqa: E402
 
 # --- Geometry (matches the staggered Ch 10/11/12 hex grammar) --------------
 
-SLANT = EDGE_LENGTH / 2          # horizontal projection of one slanted edge (= 20)
-MATRA_UNIT = 72                  # px per mātrā along the measure (widened from the
-                                 # vakya value of 60 so the larger IAST gloss fits
-                                 # the 1-mātrā tile; affects width only, not height)
+TILE_SCALE = 0.9                 # shrink the tiles ~10% so the page reads less crowded
+EDGE_LENGTH = _EDGE_BASE * TILE_SCALE
+HEX_HEIGHT = _HH_BASE * TILE_SCALE
+SLANT = EDGE_LENGTH / 2          # horizontal projection of one slanted edge
+MATRA_UNIT = 72 * TILE_SCALE     # px per mātrā along the measure
 UPPER_RAIL = -HEX_HEIGHT / 4     # the two staggered rails, HEX_HEIGHT/2 apart
 LOWER_RAIL = HEX_HEIGHT / 4
 
 # --- Palette / type --------------------------------------------------------
 
 # Warm palette drawn from the reference design.
-BG = "#f4eedd"                  # cream background
+BG = "#ffffff"                  # white background
 LAGHU_FILL = "#d8c7a3"          # tan — the lighter weight (1 mātrā)
 GURU_FILL = "#4a3a28"           # dark brown — the heavier weight (2 mātrās)
 STROKE = "#5c4830"              # tile outline
@@ -67,25 +68,25 @@ LATIN_FONT = "Charter, Georgia, Times, serif"
 DEV_FONT = "Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif"
 
 # --- Font sizes (px) -------------------------------------------------------
-# Tuned so the COMBINED two-column figure (matra_tiles_combined.py, 1223 px tall)
-# prints its text at these point sizes at 6 in tall: title 11 / legend 10 /
-# Devanagari 10.5 / IAST 8 / ruler numbers 9.5 / mātrā label 9.5. Every panel
-# shares these px sizes and is placed with translate only (no scaling), so all
-# three sub-illustrations print at identical font sizes.  (px = pt × 1223 / 432.)
+# Tuned so the COMBINED two-column figure (matra_tiles_combined.py, 1140 px tall
+# after the 10% tile down-scale) prints its text at these point sizes at 6 in
+# tall: title 11 / legend 10 / IAST 8 / ruler numbers 9.5 / mātrā label 9.5.
+# Every panel shares these px sizes and is placed with translate only (no
+# scaling), so all sub-illustrations print at identical sizes.  (px = pt × 1140/432.)
 
-FS_TITLE = 31.1
-FS_LEGEND = 28.3
+FS_TITLE = 29.0
+FS_LEGEND = 26.4
 FS_DEV = 29.7
-FS_IAST = 22.7
-FS_RULER_NUM = 26.9
-FS_MATRA_LABEL = 26.9
+FS_IAST = 21.1
+FS_RULER_NUM = 25.1
+FS_MATRA_LABEL = 25.1
 
 # --- Layout ----------------------------------------------------------------
 
 MARGIN = 28
 TITLE_H = 102                          # top chrome with the legend line
 TITLE_H_NO_LEGEND = 66                 # top chrome with the title only
-LEGEND_TEXT = "S = guru (2 mātrās)    ·    l = laghu (1)"
+LEGEND_TEXT = "| = laghu (1 mātrā)    ·    || = guru (2)"
 X0 = MARGIN + 22                       # x where mātrā 0 sits (the measure start)
 ROW_GAP = 16
 RIGHT_PAD = 28
@@ -164,9 +165,13 @@ def layout(tokens: list[str]) -> list[dict]:
     by (prev_w + w)/2 + SLANT — the compute_unit_layout rule.
     """
     out: list[dict] = []
+    n_tiles = len(tokens)
     for i, t in enumerate(tokens):
         w = width_of(t)
-        cy = UPPER_RAIL if i % 2 == 0 else LOWER_RAIL
+        # Rails assigned from the RIGHT, so a shared suffix keeps its stagger:
+        # the matching sub-pattern (e.g. the "GL" inside "GGL") sits identically
+        # to its standalone row. Last tile on the lower rail.
+        cy = LOWER_RAIL if (n_tiles - 1 - i) % 2 == 0 else UPPER_RAIL
         if i == 0:
             cx = 0.0
         else:
@@ -176,28 +181,50 @@ def layout(tokens: list[str]) -> list[dict]:
     return out
 
 
+# --- Scansion marks: laghu = | (one pipe), guru = || (two pipes) -----------
+
+PIPE_HALF = HEX_HEIGHT * 0.21    # half-height of a pipe mark
+PIPE_GAP = EDGE_LENGTH * 0.16    # half-gap between the two guru pipes
+PIPE_WIDTH = 2.6
+
+
+def tile_hex(token: str, cx: float, cy: float) -> str:
+    fill = GURU_FILL if token == "G" else LAGHU_FILL
+    return (
+        f'<polygon points="{hex_points(cx, cy, width_of(token))}" fill="{fill}" '
+        f'stroke="{STROKE}" stroke-width="1.5" stroke-linejoin="round"/>'
+    )
+
+
+def tile_marks(token: str, cx: float, cy: float) -> str:
+    guru = token == "G"
+    ink = GURU_TEXT if guru else LAGHU_TEXT
+    offsets = (-PIPE_GAP, PIPE_GAP) if guru else (0.0,)
+    return "\n  ".join(
+        f'<line x1="{cx + off:.1f}" y1="{cy - PIPE_HALF:.1f}" '
+        f'x2="{cx + off:.1f}" y2="{cy + PIPE_HALF:.1f}" stroke="{ink}" '
+        f'stroke-width="{PIPE_WIDTH}" stroke-linecap="round"/>'
+        for off in offsets
+    )
+
+
+def tile(token: str, cx: float, cy: float) -> str:
+    """A complete hex tile with its scansion mark — for isolated / legend use."""
+    return tile_hex(token, cx, cy) + "\n  " + tile_marks(token, cx, cy)
+
+
 def render_strip(tokens: list[str], measure_start_x: float, row_cy: float) -> str:
-    """One filling as a staggered L/G hex strip, aligned so mātrā 0 = measure_start_x."""
+    """One filling as a staggered hex strip, aligned so mātrā 0 = measure_start_x.
+
+    Two passes (all hexes, then all marks) so an interlocking neighbour never
+    clips a tile's pipe.
+    """
     lay = layout(tokens)
     first = lay[0]
-    # Align the first tile's left-vertex midpoint (leftmost vertex + SLANT/2) to the measure start.
     dx = measure_start_x - (first["cx"] - first["w"] / 2 - SLANT / 2)
-    polys: list[str] = []
-    labels: list[str] = []
-    for u in lay:
-        cx = u["cx"] + dx
-        cy = u["cy"] + row_cy
-        w = u["w"]
-        guru = u["t"] == "G"
-        fill = GURU_FILL if guru else LAGHU_FILL
-        polys.append(
-            f'<polygon points="{hex_points(cx, cy, w)}" fill="{fill}" '
-            f'stroke="{STROKE}" stroke-width="1.5" stroke-linejoin="round"/>'
-        )
-        mark = "S" if guru else "l"            # scansion: guru = S, laghu = l
-        mark_fill = GURU_TEXT if guru else LAGHU_TEXT
-        labels.append(text(cx, cy, mark, FS_DEV, fill=mark_fill, weight="600"))
-    return "\n  ".join(polys + labels)
+    hexes = [tile_hex(u["t"], u["cx"] + dx, u["cy"] + row_cy) for u in lay]
+    marks = [tile_marks(u["t"], u["cx"] + dx, u["cy"] + row_cy) for u in lay]
+    return "\n  ".join(hexes + marks)
 
 
 def render_ruler(x_start: float, y: float, n: int) -> str:
