@@ -268,7 +268,7 @@ def write_svg(n: int) -> None:
 
 def main() -> None:
     args = sys.argv[1:]
-    measures = [int(a) for a in args] if args else [4, 5]
+    measures = [int(a) for a in args] if args else [3, 4, 5]
     for n in measures:
         write_svg(n)
 
