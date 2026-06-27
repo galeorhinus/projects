@@ -57,17 +57,16 @@ RULER = "#888888"
 GUIDE = "#c8c8c8"
 
 LATIN_FONT = "Charter, Georgia, Times, serif"
+DEV_FONT = "Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif"
 
 # --- Layout ----------------------------------------------------------------
 
 MARGIN = 28
 TITLE_H = 66
-LEFT_LABEL_W = 80
-X0 = MARGIN + LEFT_LABEL_W + 16        # x where mātrā 0 sits (the measure start)
+X0 = MARGIN + 22                       # x where mātrā 0 sits (the measure start)
 ROW_GAP = 26
-RIGHT_LABEL_GAP = 22
-RIGHT_LABEL_W = 116
-RULER_GAP = 22
+RIGHT_PAD = 28
+RULER_GAP = 24
 
 STRIP_HALF = 3 * HEX_HEIGHT / 4        # half-height of a staggered strip
 ROW_PITCH = 2 * STRIP_HALF + ROW_GAP
@@ -133,10 +132,6 @@ def fillings(n: int) -> list[list[str]]:
     return out
 
 
-def arithmetic(tokens: list[str]) -> str:
-    return " + ".join(str(matra_of(t)) for t in tokens)
-
-
 # --- Rendering -------------------------------------------------------------
 
 def layout(tokens: list[str]) -> list[dict]:
@@ -175,9 +170,10 @@ def render_strip(tokens: list[str], measure_start_x: float, row_cy: float) -> st
             f'<polygon points="{hex_points(cx, cy, w)}" fill="{fill}" '
             f'stroke="{STROKE}" stroke-width="1.5" stroke-linejoin="round"/>'
         )
-        labels.append(text(cx, cy - 5, u["t"], 24, weight="700", halo=4.0))
-        labels.append(text(cx, cy + 17, f"{matra_of(u['t'])}", 11, fill=MUTED,
-                           style="italic", halo=3.0))
+        dev = "गुरु" if u["t"] == "G" else "लघु"
+        iast = "guru" if u["t"] == "G" else "laghu"
+        labels.append(text(cx, cy - 6, dev, 19, weight="600", family=DEV_FONT, halo=4.0))
+        labels.append(text(cx, cy + 16, iast, 12, fill=MUTED, style="italic", halo=3.0))
     return "\n  ".join(polys + labels)
 
 
@@ -186,19 +182,19 @@ def render_ruler(x_start: float, y: float, n: int) -> str:
     end_x = x_start + n * MATRA_UNIT
     frags = [
         f'<line x1="{x_start:.1f}" y1="{y:.1f}" x2="{end_x:.1f}" y2="{y:.1f}" '
-        f'stroke="{RULER}" stroke-width="1.2"/>'
+        f'stroke="{RULER}" stroke-width="2.6"/>'
     ]
     for i in range(n * 2 + 1):
         x = x_start + i * MATRA_UNIT / 2
         major = i % 2 == 0
-        tick = 8 if major else 4
+        tick = 12 if major else 6
         frags.append(
             f'<line x1="{x:.1f}" y1="{y:.1f}" x2="{x:.1f}" y2="{y - tick:.1f}" '
-            f'stroke="{RULER}" stroke-width="{1.2 if major else 1.0}"/>'
+            f'stroke="{RULER}" stroke-width="{2.4 if major else 1.5}"/>'
         )
         if major:
-            frags.append(text(x, y + 14, f"{i // 2}", 10, fill=MUTED))
-    frags.append(text((x_start + end_x) / 2, y + 30, "mātrā", 11, fill=MUTED, style="italic"))
+            frags.append(text(x, y + 20, f"{i // 2}", 15, fill=MUTED))
+    frags.append(text((x_start + end_x) / 2, y + 42, "mātrā", 15, fill=MUTED, style="italic"))
     return "\n  ".join(frags)
 
 
@@ -214,8 +210,8 @@ def build(n: int) -> tuple[str, float, float]:
     measure_word = {4: "Four", 5: "Five", 6: "Six", 7: "Seven", 8: "Eight"}.get(n, str(n))
     frags.append(text(MARGIN, 28, f"{measure_word} mātrās — {count} patterns",
                       20, anchor="start", weight="700"))
-    frags.append(text(MARGIN, 50, "L (laghu) = 1 mātrā   ·   G (guru) = 2 mātrās",
-                      12, fill=MUTED, anchor="start", style="italic"))
+    frags.append(text(MARGIN, 50, "लघु = 1 mātrā    ·    गुरु = 2 mātrās",
+                      14, fill=MUTED, anchor="start", family=DEV_FONT))
 
     row_cy0 = TITLE_H + STRIP_HALF
     stack_bottom = row_cy0 + (count - 1) * ROW_PITCH + STRIP_HALF
@@ -231,16 +227,12 @@ def build(n: int) -> tuple[str, float, float]:
 
     for idx, tokens in enumerate(rows):
         cy = row_cy0 + idx * ROW_PITCH
-        frags.append(text(MARGIN, cy, "".join(tokens), 18, anchor="start",
-                          weight="600"))
         frags.append(render_strip(tokens, X0, cy))
-        frags.append(text(tiles_right + RIGHT_LABEL_GAP, cy, arithmetic(tokens),
-                          14, fill=MUTED, anchor="start", style="italic"))
 
     frags.append(render_ruler(X0, ruler_y, n))
 
-    width = tiles_right + RIGHT_LABEL_GAP + RIGHT_LABEL_W + MARGIN
-    height = ruler_y + 46
+    width = tiles_right + RIGHT_PAD
+    height = ruler_y + 56
     return "\n  ".join(frags), width, height
 
 
