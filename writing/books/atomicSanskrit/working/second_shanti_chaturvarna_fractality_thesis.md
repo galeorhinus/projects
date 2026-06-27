@@ -10,6 +10,29 @@ At the linguistic level, Sanskrit preserves a disciplined architecture that keep
 
 The four domains are not a pyramid of rank. They are distributed civilizational functions: knowledge systems, defense and protection, trade and transportation, and manufacturing, labor, and skilled production. Each domain carries a responsibility. No domain owns the whole.
 
+## The Vedic Calibrant and Its Neighbors
+
+Before the social argument turns to *varna*, *jati*, and *apa-varna*, it needs a clean taxonomy of relationship to the Vedic calibrant.
+
+| Category | Relationship to the Vedic calibrant |
+|---|---|
+| ***Astika*** | Lives by the Vedic calibrant; accepts the Veda as the highest measure of order, correction, and continuity; remains harmonious with *nastika* and *prakritika* formations and with balance in the world. |
+| ***Nastika*** | Does not accept the Veda as calibrant, but is not threatened by it; can remain complementary, disciplined, dharmic, harmonious with *astika* and *prakritika* formations, and aligned with balance in the world. |
+| ***Prakritika*** | Lives through natural, local, customary, forest, clan, ecological, or inherited order without formal Vedic calibration, yet remains harmonious with *astika* and *nastika* formations and with balance in the world. |
+| ***Asuric*** | Is threatened by the Vedic calibrant and works to destroy, displace, shame, capture, or distort it; it is the only order in this taxonomy that cannot remain harmonious with the others or with balance in the world. |
+
+This taxonomy prevents the false binary of Vedic versus enemy. *Astika*, *nastika*, and *prakritika* formations can remain harmonious with each other and with the world's balance. The asuric formation is different because it experiences the calibrant, and the balance sustained by the calibrant, as a limit on capture.
+
+### Compatibility Is Not Immunity
+
+This later volume should develop the principle first seeded in *Atomic Sanskrit* Chapter 1: a formation can live harmoniously beside the Vedic calibrant, beside other harmonious formations, and within the balance of the world, yet still be captured later by the pyramid. *Atomic Sanskrit* Ch1 uses the distinction to prevent a false equation between "outside formal Vedic calibration" and "asuric." The social-order volume can carry the next step: outside the calibrant does not mean hostile, but outside the calibrant may mean less defended against pyramidal capture.
+
+The Vedic continuum preserved a long memory of defending against asuric formations. Its narratives of *asura*, *daitya*, *danava*, *rakshasa*, obstruction, disguise, stolen foundation, false gift, and apex command are not merely story material; they are recognition-forms. They train a civilization to notice capture when it appears through power, doctrine, patronage, institutional custody, or shame.
+
+Many *nastika* and *prakritika* cultures did not preserve that specific defensive memory at comparable scale. A *nastika* system may remain disciplined and dharmic without treating the Veda as calibrant. A *prakritika* culture may preserve forest, clan, ecology, local ritual, craft, and customary life without formal Vedic calibration. *Astika*, *nastika*, and *prakritika* formations can be harmonious with the Vedic calibrant, with each other, and with balance in the world. But harmony is not armor. Some *nastika* systems can be captured by institutional, imperial, or ideological pyramids. Many *prakritika* cultures around the world have been converted, administered, or shamed into Abrahamic and post-Abrahamic pyramidal forms.
+
+The point is not to condemn *nastika* or *prakritika* life. The point is to distinguish three states: harmony with the Vedic calibrant and the world, formal calibration by the Veda, and defensive preparedness against pyramidal capture. The asuric pyramid exploits the gap between the first and the third.
+
 ## Varna, Jati, and Apa-Varna
 
 *Varna* is the social calibrant. It is a chosen and trained responsibility-domain. Individuals may choose their *varna* at a young age, but the system must permit exit under exigent circumstances because the criterion is responsibility, disposition, action, and social need, not irreversible birth-status.

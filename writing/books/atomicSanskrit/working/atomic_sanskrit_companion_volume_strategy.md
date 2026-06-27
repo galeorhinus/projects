@@ -1,10 +1,12 @@
 # Atomic Sanskrit Companion Volume Strategy
 
-*Working strategy note. This is not a publishing decision yet; it preserves the current recommendation and the possible future split into companion volumes.*
+*Working strategy note. It preserves the current recommendation and the possible future split into companion volumes.*
 
 ## Core Recommendation
 
 Publish the present **Atomic Sanskrit** manuscript first as the founding volume.
+
+The current title should remain ***Atomic Sanskrit: The Fractal Calibration Architecture of Sanātan***. The founding book is the public entry point: it carries the eclipse/prosecution frame and must remain legible to catalogs, reviewers, libraries, and readers who do not yet know the internal vocabulary. **Sanskrit** keeps that doorway wide.
 
 The current book has two interlocked arguments:
 
@@ -16,7 +18,7 @@ The force of the current manuscript comes from the combination. The architecture
 The better sequence is:
 
 1. Publish **Atomic Sanskrit** as the main founding book.
-2. Later create a clean, non-polemical architecture companion.
+2. Later create a clean, affirmative architecture companion.
 3. Later create a focused courtroom companion: the Sanskrit case in pure trial form (*Sanskrit v. the Pyramid*).
 
 The founding book should remain the full strike: it reveals the architecture and names the containment.
@@ -31,7 +33,7 @@ The courtroom book would be sharper as polemic. But without the full architectur
 
 The current manuscript also performs the central thesis procedurally. It does not merely say Sanskrit was misclassified. It shows what Sanskrit is, then shows why the misclassification mattered. That sequence is worth preserving in the first public book.
 
-## Companion Volume 1: Non-Polemical Atomic Sanskrit
+## Companion Volume 1: Affirmative Architecture Companion
 
 ### Working Function
 
@@ -43,7 +45,15 @@ It should contain no PIE argument, no asuric-pyramid vocabulary, no institutiona
 
 **Conventions fork.** "No asuric-pyramid vocabulary" understates the work: the entire antagonist register goes to zero (dogma, machinery, pyramid's account, church of progress, category theft, heroic erasure), while the Indic-side conventions all carry over (no *"Indo-Aryan"* unquoted, no *tribal* / *vernacular*, *vibhakti* / *lakāra* pairings, mode-not-register, category before calendar). When drafting begins, the companion gets its own CLAUDE.md derived from the founding book's with the antagonist cluster deleted — otherwise drafting sessions will leak the battle vocabulary back in.
 
-### Possible Titles
+### Title Direction
+
+Current recommended title:
+
+***Sonomeric Samskritam: The Atomic, Fractal, Calibrant Architecture of Sanātan***
+
+The title can use **Samskritam** because this companion speaks from inside the affirmative architecture rather than from the public prosecutorial doorway. The subtitle should use **The**, not **An**: the companion presents the architecture as a definite claim, not one possible model among many. The word **Calibrant** belongs here because this volume is about Sanskrit's role as the living measure, not only the process of calibration.
+
+The earlier options remain available as fallback titles:
 
 - **Atomic Sanskrit: The Architecture of Sound**
 - **The Architecture of Sanskrit**
@@ -51,7 +61,7 @@ It should contain no PIE argument, no asuric-pyramid vocabulary, no institutiona
 - **The Sonomeric Architecture of Sanskrit**
 - **Sanskrit: From Sonomer to Sentence**
 
-The bare title **Atomic Sanskrit** is excluded: two books under one title by one author is a cataloging and search collision with the founding book. Current favorite: **Sanskrit from Sound to Sentence** — the most giftable and classroom-safe of the set. If the companion keeps the *Atomic* brand in a subtitle, the subtitle must make the non-polemical purpose unmistakable.
+The bare title **Atomic Sanskrit** is excluded: two books under one title by one author is a cataloging and search collision with the founding book. If the companion keeps the *Atomic* brand in a subtitle, the subtitle must make the affirmative architecture purpose unmistakable.
 
 The companion is also the natural first candidate for translation editions (Hindi, Marathi, Sanskrit-medium) — none of the polemic localization problems apply.
 
