@@ -27,7 +27,7 @@ BUILD_DIR = Path(__file__).resolve().parent
 
 sys.path.insert(0, str(BUILD_DIR))
 from matra_tiles import (  # noqa: E402
-    fillings, render_strip, render_ruler, tile, text,
+    fillings, render_strip, render_ruler, tile, text, width_of,
     BG, GOLD, TEXT, GUIDE, DEV_FONT, FS_IAST,
     MATRA_UNIT, SLANT, STRIP_HALF, ROW_PITCH, RULER_GAP,
 )
@@ -120,21 +120,27 @@ def main() -> None:
     chrome.append(text(MARGIN, MARGIN + 30, "Chandas as Mātrā Tiling", FS_TITLE,
                        fill=TITLE_FILL, anchor="start", weight="700", family=SERIF))
     chrome.append(text(MARGIN, MARGIN + 68,
-                       "Laghu fills one mātrā; guru fills two. Valid patterns emerge from measured sound.",
+                       "Valid patterns emerge from measured sound.",
                        FS_SUB, fill=SUB_FILL, anchor="start", style="italic", family=SERIF))
     chrome.append(f'<line x1="{MARGIN}" y1="{rule_y:.1f}" x2="{canvas_w - MARGIN:.1f}" '
                   f'y2="{rule_y:.1f}" stroke="{RULE}" stroke-width="1"/>')
 
-    # Legend (top-right): laghu + guru, Devanagari + IAST, two rows.
-    sw_x = canvas_w - MARGIN - 190
-    lbl_x = sw_x + 36
-    lr1_y, lr2_y = MARGIN + 16, MARGIN + 42
-    chrome.append(swatch("L", sw_x, lr1_y))
-    chrome.append(text(lbl_x, lr1_y, "लघु laghu · 1 mātrā", FS_IAST, fill=TEXT,
-                       anchor="start", family=DEV_FONT))
-    chrome.append(swatch("G", sw_x + 8, lr2_y))
-    chrome.append(text(lbl_x, lr2_y, "गुरु guru · 2 mātrās", FS_IAST, fill=TEXT,
-                       anchor="start", family=DEV_FONT))
+    # Legend (right, just above the rule): hexes right-aligned, text right-
+    # justified beside them, two rows (laghu, guru) in Devanagari + IAST.
+    sw = 0.85
+
+    def hw(token: str) -> float:                 # half-width of a swatch
+        return (width_of(token) / 2 + SLANT) * sw
+
+    x_r = canvas_w - MARGIN                       # common right edge of the hexes
+    x_t = x_r - 2 * hw("G") - 10                  # common right edge of the text
+    lr1_y, lr2_y = rule_y - 42, rule_y - 16
+    chrome.append(swatch("L", x_r - hw("L"), lr1_y, sw))
+    chrome.append(text(x_t, lr1_y, "लघु laghu · 1 mātrā", FS_IAST, fill=TEXT,
+                       anchor="end", family=DEV_FONT))
+    chrome.append(swatch("G", x_r - hw("G"), lr2_y, sw))
+    chrome.append(text(x_t, lr2_y, "गुरु guru · 2 mātrās", FS_IAST, fill=TEXT,
+                       anchor="end", family=DEV_FONT))
 
     body = "\n".join(backers + gridlines + strips + chrome)
     height_in = canvas_h / canvas_w * WIDTH_IN
