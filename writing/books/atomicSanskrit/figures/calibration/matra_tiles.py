@@ -1,22 +1,29 @@
 #!/usr/bin/env python3
 """matra_tiles.py — Chandas mātrā-tile figures for Chapter 14 §14.4.
 
-Visualizes the laghu / guru filling of a fixed metrical measure using the
-book's hex-tile grammar (Ch 10/11/12):
+Visualizes the laghu / guru filling of a fixed metrical measure with the
+book's staggered hex-tile grammar (Ch 10/11/12).
 
-    L (laghu) = 1-mātrā tile  → a V1-width hexagon (flat top = EDGE_LENGTH)
-    G (guru)  = 2-mātrā tile  → a V2-width hexagon (flat top = 2·EDGE_LENGTH)
+    L (laghu) = 1-mātrā tile      G (guru) = 2-mātrā tile
 
-The tiles interlock through the constant slanted edge the way every other
-hexagon figure in the book does, so a strip's flat-top span is *exactly* its
-total mātrā count. For a given measure of n mātrās the script lays out every
-valid filling (the Virahāṅka / Hemachandra count — 1, 2, 3, 5, 8, 13 …),
-left-aligned to a shared measure, with one half-mātrā ruler beneath the stack
-so the eye reads "different tilings, same measure."
+Geometry (the calculation the earlier scripts use — see
+figures/building_vakya/vakya_figures.py and working/dhatu_hexagons):
+
+  * A tile's flat-top width is  mātrā · MATRA_UNIT − SLANT, so its mātrā
+    *footprint* (flat top + one slanted edge) is exactly mātrā · MATRA_UNIT.
+    With WIDTH constants matching vakya: laghu = 40 px, guru = 100 px.
+  * Tiles are staggered on two rails (±HEX_HEIGHT/4); every gap is one slant
+    (EDGE_LENGTH/2), so the slanted edges interlock diagonally.
+  * The mātrā measure starts at the x-midpoint of a tile's left-most vertex
+    and its two next vertices, i.e. leftmost_vertex + EDGE_LENGTH/4.
+
+Because the per-tile footprints sum to mātrā · MATRA_UNIT and every gap is one
+slant, *every* filling of n mātrās spans an identical width — so all patterns
+align to one shared measure and a single ruler reads true for the whole stack.
 
 Usage:
-    python3 figures/calibration/matra_tiles.py            # n = 4 and 5 (the §14.4 cases)
-    python3 figures/calibration/matra_tiles.py 4 5 6      # any measures
+    python3 figures/calibration/matra_tiles.py          # n = 4 and 5 (§14.4)
+    python3 figures/calibration/matra_tiles.py 4 5 6    # any measures
 
 Output: figures/calibration/matra_tiles_<n>.svg
 """
@@ -32,34 +39,38 @@ BUILD_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(REPO_ROOT / "working" / "dhatu_hexagons"))
 from dhatu_hexagon import EDGE_LENGTH, HEX_HEIGHT  # noqa: E402
 
-# --- Geometry --------------------------------------------------------------
+# --- Geometry (matches the staggered Ch 10/11/12 hex grammar) --------------
 
-MATRA_PX = EDGE_LENGTH          # px of flat-top width per mātrā (V1 = 1, V2 = 2)
-SLANT = EDGE_LENGTH / 2         # horizontal projection of each slanted edge
+SLANT = EDGE_LENGTH / 2          # horizontal projection of one slanted edge (= 20)
+MATRA_UNIT = 60                  # px per mātrā along the measure (vakya value)
+UPPER_RAIL = -HEX_HEIGHT / 4     # the two staggered rails, HEX_HEIGHT/2 apart
+LOWER_RAIL = HEX_HEIGHT / 4
 
 # --- Palette / type --------------------------------------------------------
 
-LAGHU_FILL = "#dcdcdc"          # light gray — the lighter weight
-GURU_FILL = "#aaaaaa"           # medium gray — the heavier weight
+LAGHU_FILL = "#dcdcdc"          # lighter weight
+GURU_FILL = "#aaaaaa"           # heavier weight
 STROKE = "#333333"
 TEXT = "#1a1a1a"
 MUTED = "#555555"
 RULER = "#888888"
 GUIDE = "#c8c8c8"
 
-DEV_FONT = "Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif"
 LATIN_FONT = "Charter, Georgia, Times, serif"
 
 # --- Layout ----------------------------------------------------------------
 
 MARGIN = 28
-TITLE_H = 64
-LEFT_LABEL_W = 78               # room for the "GLL" letter string on the left
-STRIP_X = MARGIN + LEFT_LABEL_W
-ROW_GAP = 30                    # vertical gap between hex strips
-RIGHT_LABEL_GAP = 22            # gap from strip end to the arithmetic label
-RIGHT_LABEL_W = 96
-RULER_GAP = 18                  # gap from the lowest strip to the shared ruler
+TITLE_H = 66
+LEFT_LABEL_W = 80
+X0 = MARGIN + LEFT_LABEL_W + 16        # x where mātrā 0 sits (the measure start)
+ROW_GAP = 26
+RIGHT_LABEL_GAP = 22
+RIGHT_LABEL_W = 116
+RULER_GAP = 22
+
+STRIP_HALF = 3 * HEX_HEIGHT / 4        # half-height of a staggered strip
+ROW_PITCH = 2 * STRIP_HALF + ROW_GAP
 
 
 def esc(s: str) -> str:
@@ -69,8 +80,6 @@ def esc(s: str) -> str:
 def text(x: float, y: float, content: str, size: float, *, fill: str = TEXT,
          anchor: str = "middle", weight: str = "400", style: str = "normal",
          family: str = LATIN_FONT, halo: float = 0.0) -> str:
-    # halo > 0 paints a white outline behind the glyph so it reads over the
-    # interlocking tile seams.
     halo_attr = (
         f'paint-order="stroke" stroke="#ffffff" stroke-width="{halo}" '
         f'stroke-linejoin="round" ' if halo else ""
@@ -82,8 +91,8 @@ def text(x: float, y: float, content: str, size: float, *, fill: str = TEXT,
     )
 
 
-def hex_vertices(cx: float, cy: float, w: float) -> str:
-    """Flat-top hexagon of flat-width w, slant projection SLANT each side."""
+def hex_points(cx: float, cy: float, w: float) -> str:
+    """Flat-top hexagon, flat-width w, slant projection SLANT each side."""
     h = HEX_HEIGHT
     pts = [
         (cx - w / 2, cy - h / 2),
@@ -98,11 +107,16 @@ def hex_vertices(cx: float, cy: float, w: float) -> str:
 
 # --- Combinatorics ---------------------------------------------------------
 
-def fillings(n: int) -> list[list[str]]:
-    """Every laghu/guru filling of an n-mātrā measure.
+def matra_of(token: str) -> int:
+    return 2 if token == "G" else 1
 
-    Ordered to match §14.4: most gurus first, then by position.
-    """
+
+def width_of(token: str) -> float:
+    return matra_of(token) * MATRA_UNIT - SLANT   # L → 40, G → 100
+
+
+def fillings(n: int) -> list[list[str]]:
+    """Every laghu/guru filling of an n-mātrā measure, ordered as in §14.4."""
     out: list[list[str]] = []
 
     def rec(rem: int, acc: list[str]) -> None:
@@ -110,21 +124,13 @@ def fillings(n: int) -> list[list[str]]:
             out.append(acc[:])
             return
         if rem >= 1:
-            acc.append("L")
-            rec(rem - 1, acc)
-            acc.pop()
+            acc.append("L"); rec(rem - 1, acc); acc.pop()
         if rem >= 2:
-            acc.append("G")
-            rec(rem - 2, acc)
-            acc.pop()
+            acc.append("G"); rec(rem - 2, acc); acc.pop()
 
     rec(n, [])
-    out.sort(key=lambda p: (-p.count("G"), "".join(p)))  # 'G' < 'L' sorts as in §14.4
+    out.sort(key=lambda p: (-p.count("G"), "".join(p)))  # 'G' < 'L'
     return out
-
-
-def matra_of(token: str) -> int:
-    return 2 if token == "G" else 1
 
 
 def arithmetic(tokens: list[str]) -> str:
@@ -133,41 +139,57 @@ def arithmetic(tokens: list[str]) -> str:
 
 # --- Rendering -------------------------------------------------------------
 
-def render_strip(tokens: list[str], x_flat_left: float, cy: float) -> str:
-    """One metrical line as an interlocking L/G hex strip.
+def layout(tokens: list[str]) -> list[dict]:
+    """Staggered positions (raw, first tile centred at x=0).
 
-    x_flat_left = x of the first tile's top-left flat corner; flat tops abut,
-    slant points interlock, so the strip's flat span = total mātrās × MATRA_PX.
+    Tiles alternate rails by position, so every gap is one slant; cx advances
+    by (prev_w + w)/2 + SLANT — the compute_unit_layout rule.
     """
-    # Two passes: tiles interlock (slant points overlap), so every polygon is
-    # laid first and the labels go on top — otherwise a tile clips its
-    # neighbour's letter.
+    out: list[dict] = []
+    for i, t in enumerate(tokens):
+        w = width_of(t)
+        cy = UPPER_RAIL if i % 2 == 0 else LOWER_RAIL
+        if i == 0:
+            cx = 0.0
+        else:
+            prev = out[-1]
+            cx = prev["cx"] + (prev["w"] + w) / 2 + SLANT
+        out.append({"t": t, "cx": cx, "cy": cy, "w": w})
+    return out
+
+
+def render_strip(tokens: list[str], measure_start_x: float, row_cy: float) -> str:
+    """One filling as a staggered L/G hex strip, aligned so mātrā 0 = measure_start_x."""
+    lay = layout(tokens)
+    first = lay[0]
+    # Align the first tile's left-vertex midpoint (leftmost vertex + SLANT/2) to the measure start.
+    dx = measure_start_x - (first["cx"] - first["w"] / 2 - SLANT / 2)
     polys: list[str] = []
     labels: list[str] = []
-    cursor = x_flat_left
-    for t in tokens:
-        w = matra_of(t) * MATRA_PX
-        cx = cursor + w / 2
-        fill = GURU_FILL if t == "G" else LAGHU_FILL
+    for u in lay:
+        cx = u["cx"] + dx
+        cy = u["cy"] + row_cy
+        w = u["w"]
+        fill = GURU_FILL if u["t"] == "G" else LAGHU_FILL
         polys.append(
-            f'<polygon points="{hex_vertices(cx, cy, w)}" fill="{fill}" '
+            f'<polygon points="{hex_points(cx, cy, w)}" fill="{fill}" '
             f'stroke="{STROKE}" stroke-width="1.5" stroke-linejoin="round"/>'
         )
-        labels.append(text(cx, cy - 5, t, 24, weight="700", halo=4.0))
-        labels.append(text(cx, cy + 17, f"{matra_of(t)}", 11, fill=MUTED, style="italic", halo=3.0))
-        cursor += w
+        labels.append(text(cx, cy - 5, u["t"], 24, weight="700", halo=4.0))
+        labels.append(text(cx, cy + 17, f"{matra_of(u['t'])}", 11, fill=MUTED,
+                           style="italic", halo=3.0))
     return "\n  ".join(polys + labels)
 
 
-def render_ruler(x_flat_left: float, y: float, n: int) -> str:
-    """Half-mātrā ruler (Ch 10/11 style) spanning the shared measure."""
-    end_x = x_flat_left + n * MATRA_PX
+def render_ruler(x_start: float, y: float, n: int) -> str:
+    """Half-mātrā ruler spanning the shared measure [x_start, x_start + n·MATRA_UNIT]."""
+    end_x = x_start + n * MATRA_UNIT
     frags = [
-        f'<line x1="{x_flat_left:.1f}" y1="{y:.1f}" x2="{end_x:.1f}" y2="{y:.1f}" '
+        f'<line x1="{x_start:.1f}" y1="{y:.1f}" x2="{end_x:.1f}" y2="{y:.1f}" '
         f'stroke="{RULER}" stroke-width="1.2"/>'
     ]
     for i in range(n * 2 + 1):
-        x = x_flat_left + i * MATRA_PX / 2
+        x = x_start + i * MATRA_UNIT / 2
         major = i % 2 == 0
         tick = 8 if major else 4
         frags.append(
@@ -176,53 +198,49 @@ def render_ruler(x_flat_left: float, y: float, n: int) -> str:
         )
         if major:
             frags.append(text(x, y + 14, f"{i // 2}", 10, fill=MUTED))
-    frags.append(text((x_flat_left + end_x) / 2, y + 30, "mātrā", 11, fill=MUTED, style="italic"))
+    frags.append(text((x_start + end_x) / 2, y + 30, "mātrā", 11, fill=MUTED, style="italic"))
     return "\n  ".join(frags)
 
 
 def build(n: int) -> tuple[str, float, float]:
     rows = fillings(n)
-    row_h = HEX_HEIGHT + ROW_GAP
-    end_x = STRIP_X + n * MATRA_PX
+    count = len(rows)
+
+    measure_end = X0 + n * MATRA_UNIT
+    tiles_right = measure_end + SLANT / 2           # rightmost vertex of any strip
 
     frags: list[str] = []
 
-    # Title.
-    count = len(rows)
     measure_word = {4: "Four", 5: "Five", 6: "Six", 7: "Seven", 8: "Eight"}.get(n, str(n))
-    frags.append(text(MARGIN, 26, f"{measure_word} mātrās — {count} patterns",
+    frags.append(text(MARGIN, 28, f"{measure_word} mātrās — {count} patterns",
                       20, anchor="start", weight="700"))
-    frags.append(text(MARGIN, 48,
-                      "L (laghu) = 1 mātrā   ·   G (guru) = 2 mātrās",
+    frags.append(text(MARGIN, 50, "L (laghu) = 1 mātrā   ·   G (guru) = 2 mātrās",
                       12, fill=MUTED, anchor="start", style="italic"))
 
-    top = TITLE_H + HEX_HEIGHT / 2
-    # Measure-boundary guides spanning the whole stack.
-    stack_bottom = top + (count - 1) * row_h + HEX_HEIGHT / 2
-    for gx in (STRIP_X, end_x):
+    row_cy0 = TITLE_H + STRIP_HALF
+    stack_bottom = row_cy0 + (count - 1) * ROW_PITCH + STRIP_HALF
+    ruler_y = stack_bottom + RULER_GAP
+
+    # Shared measure-boundary guides (correct: every strip spans the same width).
+    for gx in (X0, measure_end):
         frags.append(
-            f'<line x1="{gx:.1f}" y1="{TITLE_H + 4:.1f}" x2="{gx:.1f}" '
-            f'y2="{stack_bottom + RULER_GAP:.1f}" stroke="{GUIDE}" '
-            f'stroke-width="1" stroke-dasharray="3,4"/>'
+            f'<line x1="{gx:.1f}" y1="{TITLE_H - 4:.1f}" x2="{gx:.1f}" '
+            f'y2="{ruler_y:.1f}" stroke="{GUIDE}" stroke-width="1" '
+            f'stroke-dasharray="3,4"/>'
         )
 
     for idx, tokens in enumerate(rows):
-        cy = top + idx * row_h
-        # Left: the L/G letter string.
+        cy = row_cy0 + idx * ROW_PITCH
         frags.append(text(MARGIN, cy, "".join(tokens), 18, anchor="start",
-                          weight="600", family=LATIN_FONT))
-        # The strip.
-        frags.append(render_strip(tokens, STRIP_X, cy))
-        # Right: the arithmetic.
-        frags.append(text(end_x + RIGHT_LABEL_GAP, cy, arithmetic(tokens), 14,
-                          fill=MUTED, anchor="start", style="italic"))
+                          weight="600"))
+        frags.append(render_strip(tokens, X0, cy))
+        frags.append(text(tiles_right + RIGHT_LABEL_GAP, cy, arithmetic(tokens),
+                          14, fill=MUTED, anchor="start", style="italic"))
 
-    # Shared ruler under the stack.
-    ruler_y = stack_bottom + RULER_GAP
-    frags.append(render_ruler(STRIP_X, ruler_y, n))
+    frags.append(render_ruler(X0, ruler_y, n))
 
-    width = end_x + RIGHT_LABEL_GAP + RIGHT_LABEL_W + MARGIN
-    height = ruler_y + 44
+    width = tiles_right + RIGHT_LABEL_GAP + RIGHT_LABEL_W + MARGIN
+    height = ruler_y + 46
     return "\n  ".join(frags), width, height
 
 
