@@ -130,7 +130,7 @@ When the *dhātavaḥ* are laid out sonomer by sonomer, a pattern reveals itself
 
 That recurring measured pattern is **धातुरचना (*dhāturacanā*)** — the atomic scaffold. Across the 2,168 *dhātavaḥ* of the *Dhātupāṭha*, many atoms inhabit the same scaffold.
 
-![One *gamādi* *dhāturacanā* scaffold with four different fillings.](figures/building_dhatuh/racana_scaffold.svg){#fig:building-dhatuh-racana-scaffold width=100%}
+![One *gamādi* *dhāturacanā* scaffold with four different fillings.](figures/building_dhatuh/racana_scaffold.svg){#fig:building-dhatuh-racana-scaffold width=4.5in}
 
 For example, **गम् (*gam*), नम् (*nam*), पच् (*pac*), and वद् (*vad*)** are four distinct atoms, all inhabiting the same shape: consonantal contact, short-vowel nucleus, consonantal contact <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">. Using Sanskrit's *-ādi* naming habit (*gam*-and-following), this is the **गमादि रचना (*gamādi racanā*)** — the *gamādi* scaffold.[NOTE: panini-adi-naming-convention] The timing is already inside the scaffold.
 

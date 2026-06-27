@@ -46,7 +46,7 @@ EXAMPLES = [
 
 # --- Two scales: small fillings (left), large scaffold (right) --------------
 
-SCALE_L = 0.5
+SCALE_L = 0.6                                 # 20% larger than the envelope scale
 EDGE_L, HEX_L, SLANT_L, MU_L = (EDGE_BASE * SCALE_L, HEX_BASE * SCALE_L,
                                 EDGE_BASE * SCALE_L / 2, 72 * SCALE_L)
 SCALE_R = 1.3
@@ -56,10 +56,10 @@ EDGE_R, HEX_R, SLANT_R, MU_R = (EDGE_BASE * SCALE_R, HEX_BASE * SCALE_R,
 # --- Horizontal layout ------------------------------------------------------
 
 MARGIN = 18
-LABEL_W = 90                                  # room for "गम् — gam" left of strip
+LABEL_W = 110                                 # room for "गम् — gam"; nudges dhātus right
 MEASURE_L = MARGIN + LABEL_W + SLANT_L / 2    # mātrā-0 of the left strips
 LEFT_RIGHT = MEASURE_L + 2 * MU_L + SLANT_L / 2
-ARROW_GAP = 132
+ARROW_GAP = 66                                # shorter arrows; pulls scaffold ~0.25in left
 MEASURE_R = LEFT_RIGHT + ARROW_GAP + SLANT_R / 2   # mātrā-0 of the scaffold
 CANVAS_W = MEASURE_R + 2 * MU_R + SLANT_R / 2 + MARGIN
 
@@ -70,21 +70,20 @@ STRIP_HALF_R = 3 * HEX_R / 4
 TOP = 18
 HEADER_Y = TOP + 13
 ROW_CY0 = HEADER_Y + 32 + STRIP_HALF_L
-PITCH_L = 2 * STRIP_HALF_L + 24
+PITCH_L = 2 * STRIP_HALF_L + 28
 LAST_CY = ROW_CY0 + (len(EXAMPLES) - 1) * PITCH_L
 SCAFFOLD_CY = (ROW_CY0 + LAST_CY) / 2
 RULER_Y = max(LAST_CY + STRIP_HALF_L, SCAFFOLD_CY + STRIP_HALF_R) + 26
-CANVAS_H = RULER_Y + 74
+CANVAS_H = RULER_Y + 38
 
-# --- Fonts (px → pt at the 4.75 in trade text width) ------------------------
+# --- Fonts (px → pt at the 4.5 in rendered width) ---------------------------
 
-TW = 4.75
+TW = 4.5
 FS_HEADER = ms.pt_to_px(11.0, CANVAS_W, TW)
 FS_LABEL = ms.pt_to_px(10.5, CANVAS_W, TW)
 FS_DEV = ms.pt_to_px(9.5, CANVAS_W, TW)
 FS_IAST = ms.pt_to_px(9.0, CANVAS_W, TW)
 FS_SLOT = ms.pt_to_px(11.0, CANVAS_W, TW)
-FS_CAPTION = ms.pt_to_px(10.0, CANVAS_W, TW)
 FS_RULER = ms.pt_to_px(9.5, CANVAS_W, TW)
 
 ARROW = ms.MUTED
@@ -159,8 +158,13 @@ def main():
         f'font-size="{FS_HEADER}" font-weight="600" text-anchor="middle" '
         f'fill="{ms.TEXT}">filled <tspan font-style="italic">dhātavaḥ</tspan></text>'
     )
-    body.append(ms.text(right_cx, HEADER_Y, "shared CV1C scaffold", FS_HEADER,
-                        fill=ms.TEXT, weight="600"))
+    body.append(
+        f'<text x="{CANVAS_W - MARGIN:.1f}" y="{HEADER_Y:.1f}" font-family="{ms.LATIN_FONT}" '
+        f'font-size="{FS_HEADER}" font-weight="600" text-anchor="end" '
+        f'dominant-baseline="middle" fill="{ms.TEXT}">'
+        f'<tspan font-family="{ms.DEV_FONT}">गमादि</tspan> '
+        f'(<tspan font-style="italic">gamādi</tspan>) / CV1C scaffold</text>'
+    )
 
     # Left fillings + their labels; collect arrow start anchors.
     anchors = []
@@ -193,15 +197,6 @@ def main():
                                 fs_num=FS_RULER, fs_label=FS_RULER))
     body.append(ms.render_ruler(MEASURE_R, RULER_Y, 2, matra_unit=MU_R,
                                 fs_num=FS_RULER, fs_label=FS_RULER))
-
-    # Scaffold caption below the right ruler (clears the "mātrā" axis label).
-    cap_y = RULER_Y + 56
-    body.append(
-        f'<text x="{right_cx:.1f}" y="{cap_y:.1f}" font-family="{ms.LATIN_FONT}" '
-        f'font-size="{FS_CAPTION}" text-anchor="middle" dominant-baseline="middle" '
-        f'fill="{ms.TEXT}">the <tspan font-family="{ms.DEV_FONT}">गमादि</tspan> '
-        f'(<tspan font-style="italic">gamādi</tspan>) atomic scaffold</text>'
-    )
 
     defs = (
         '<defs><marker id="arrowhead" markerWidth="10" markerHeight="8" refX="9" '
