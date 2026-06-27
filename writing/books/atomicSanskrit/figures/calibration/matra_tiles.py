@@ -37,7 +37,12 @@ REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 BUILD_DIR = Path(__file__).resolve().parent
 
 sys.path.insert(0, str(REPO_ROOT / "working" / "dhatu_hexagons"))
+sys.path.insert(0, str(REPO_ROOT / "figures" / "_shared"))
 from dhatu_hexagon import EDGE_LENGTH as _EDGE_BASE, HEX_HEIGHT as _HH_BASE  # noqa: E402
+from matra_style import (  # noqa: E402  — palette + fonts: single source of truth
+    BG, LAGHU_FILL, GURU_FILL, STROKE, GURU_TEXT, LAGHU_TEXT, GOLD, TEXT, MUTED,
+    RULER, GUIDE, LATIN_FONT, DEV_FONT,
+)
 
 # --- Geometry (matches the staggered Ch 10/11/12 hex grammar) --------------
 
@@ -50,22 +55,8 @@ UPPER_RAIL = -HEX_HEIGHT / 4     # the two staggered rails, HEX_HEIGHT/2 apart
 LOWER_RAIL = HEX_HEIGHT / 4
 
 # --- Palette / type --------------------------------------------------------
-
-# Warm palette drawn from the reference design.
-BG = "#ffffff"                  # white background
-LAGHU_FILL = "#d8c7a3"          # tan — the lighter weight (1 mātrā)
-GURU_FILL = "#4a3a28"           # dark brown — the heavier weight (2 mātrās)
-STROKE = "#5c4830"              # tile outline
-GURU_TEXT = "#f4eedd"           # mark colour on the dark guru tile
-LAGHU_TEXT = "#3d2f1f"          # mark colour on the tan laghu tile
-GOLD = "#a8842c"                # accent (the 5-mātrā result column)
-TEXT = "#3d2f1f"                # default dark-brown ink (titles)
-MUTED = "#6b563a"               # secondary brown (subtitle, ruler labels)
-RULER = "#7a6647"               # ruler line + ticks
-GUIDE = "#cdbf9e"               # dashed major-tick gridlines
-
-LATIN_FONT = "Charter, Georgia, Times, serif"
-DEV_FONT = "Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif"
+# Colours + fonts come from figures/_shared/matra_style.py (single source of
+# truth — change the palette there and every figure updates).
 
 # --- Font sizes (px) -------------------------------------------------------
 # Tuned so the COMBINED cascade (matra_tiles_combined.py, 603 px tall) prints its

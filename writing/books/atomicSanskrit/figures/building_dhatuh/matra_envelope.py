@@ -1,17 +1,19 @@
 #!/usr/bin/env python3
-"""
-fig_matra_envelope.py — Composite SVG of ten dhātu hexagons across the
-mātrā envelope (1.0 → 5.5 in half-mātrā steps).
+"""matra_envelope.py — ten dhātu hexagon strips across the mātrā envelope
+(1 → 5½ mātrās), in the shared calibration-style hex grammar.
 
-Reuses working/dhatu_hexagons/dhatu_hexagon.py for the per-dhātu geometry
-and composes ten dhātu strips into a single 5-row × 2-column grid.
-Adjacent consonant clusters render as one split timing envelope:
-two half-mātrā vyañjanas become a one-mātrā cluster, three become a
-one-and-a-half-mātrā cluster, and so on.
+Style (colours, ruler, gridlines, SVG, fonts) comes from
+figures/_shared/matra_style.py — the single source of truth, so a palette change
+there updates this figure too. Varṇa data (Devanagari, IAST, class) comes from
+working/dhatu_hexagons/dhatu_hexagon.py.
 
-Each cell shows: mātrā label · dhātu title (Devanagari + IAST) · hexagon strip.
+Geometry uses the ruler-aligned convention (width = mātrā·unit − slant), so the
+per-column mātrā ruler and the dashed gridlines line up with the tiles.
 
-Output: figures/building_dhatuh/matra_envelope.svg
+5-row × 2-column grid: left column 1–3 mātrās, right column 3½–5½ mātrās. Each
+column carries its own gridlines (behind the hexes) and a bottom ruler.
+
+Output: figures/build/matra_envelope.from-py.svg
 """
 
 from __future__ import annotations
@@ -20,263 +22,176 @@ import math
 import sys
 from pathlib import Path
 
-# Make working/dhatu_hexagons/ importable.
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(REPO_ROOT / "working" / "dhatu_hexagons"))
+sys.path.insert(0, str(REPO_ROOT / "figures" / "_shared"))
 
+import matra_style as ms  # noqa: E402
 from dhatu_hexagon import (  # noqa: E402
-    EDGE_LENGTH,
-    HEX_HEIGHT,
-    SIMPLE_FILL_CONSONANT,
-    SIMPLE_STROKE,
-    SIMPLE_STROKE_WIDTH,
-    VYANJANA_RAIL_Y,
-    WIDTH_BY_CLASS,
+    EDGE_LENGTH as EDGE_BASE,
+    HEX_HEIGHT as HEX_BASE,
+    VARNAS,
     devanagari_label,
-    hex_vertices,
     parse_dhatu_string,
-    rail_y_for_varna,
-    render_hexagon,
 )
 
+# --- Geometry (ruler-aligned convention, scaled down like matra_tiles) ------
 
-# (mātrā label, devanagari title, IAST title, dhātu particle-string)
+TILE_SCALE = 0.5
+EDGE = EDGE_BASE * TILE_SCALE
+HEX_HEIGHT = HEX_BASE * TILE_SCALE
+SLANT = EDGE / 2
+MATRA_UNIT = 72 * TILE_SCALE              # px per mātrā
+UPPER_RAIL = -HEX_HEIGHT / 4              # consonant rail
+LOWER_RAIL = HEX_HEIGHT / 4              # vowel rail
+
+# --- Fonts (px; tuned after measuring so labels print 9–11 pt at 4.5 in) ----
+
+# px sizes ≈ pt × (canvas_w / 324); canvas_w ≈ 384 → ×1.185. Targets 9–11 pt.
+FS_DEV = 11.9          # varṇa Devanagari in the hexes (≈10 pt)
+FS_IAST = 10.7         # varṇa IAST sub-label (≈9 pt)
+FS_LABEL = 13.0        # cell label, mātrā · dhātu (≈11 pt)
+FS_RULER = 11.9        # ruler numbers (≈10 pt)
+FS_AXIS = 11.9         # "mātrā" axis label (≈10 pt)
+
+# --- Layout ----------------------------------------------------------------
+
+MARGIN = 16
+COL_GAP = 26
+LABEL_DY = 30          # label baseline above the strip midline
+ROW_GAP = 30           # gap between rows
+RULER_GAP = 22
+
+PIPE = None            # (unused here; envelope shows varṇa letters, not pipes)
+
+# (mātrā, devanagari, IAST, particle-string)
 DHATUS = [
-    ("1",   "ऋ",        "ṛ",     "R"),
-    ("1½",  "कृ",       "kṛ",    "k,R"),
-    ("2",   "गम्",      "gam",   "g,a,m"),
-    ("2½",  "धा",       "dhā",   "dh,A"),
-    ("3",   "वाच्",     "vāc",   "v,A,c"),
-    ("3½",  "स्वाद्",   "svād",  "s,v,A,d"),
-    ("4",   "बाधृ",     "bādhṛ", "b,A,dh,R"),
-    ("4½",  "कुमार्",   "kumār", "k,u,m,A,r"),
-    ("5",   "दीपी",     "dīpī",  "d,I,p,I"),
-    ("5½",  "ह्लादी",   "hlādī", "h,l,A,d,I"),
+    ("1",  "ऋ",      "ṛ",     "R"),
+    ("1½", "कृ",     "kṛ",    "k,R"),
+    ("2",  "गम्",    "gam",   "g,a,m"),
+    ("2½", "धा",     "dhā",   "dh,A"),
+    ("3",  "वाच्",   "vāc",   "v,A,c"),
+    ("3½", "स्वाद्", "svād",  "s,v,A,d"),
+    ("4",  "बाधृ",   "bādhṛ", "b,A,dh,R"),
+    ("4½", "कुमार्", "kumār", "k,u,m,A,r"),
+    ("5",  "दीपी",   "dīpī",  "d,I,p,I"),
+    ("5½", "ह्लादी", "hlādī", "h,l,A,d,I"),
 ]
 
 
-# --- Layout parameters ---
-
-CELL_W = 420          # column width (px)
-CELL_H = 150          # row height (px)
-LEFT_MARGIN = 24      # x-offset for strip's left edge inside the cell
-TITLE_Y_OFFSET = 32   # y-offset for combined label + title line
-HEX_Y_OFFSET = 100    # y-offset for hexagon-strip midline from cell's top edge
-BOTTOM_PADDING = 40   # extra whitespace below the last row
-
-# Asymmetric shifts (1 mātrā = EDGE_LENGTH px):
-LEFT_COL_HEX_SHIFT   = EDGE_LENGTH   # shift left-column hexagons right by 1 mātrā
-RIGHT_COL_TEXT_SHIFT = EDGE_LENGTH   # shift right-column labels left by 1 mātrā
+def matra_of(cls: str) -> float:
+    return {"C": 0.5, "V1": 1.0, "V2": 2.0}.get(cls, 1.0)
 
 
-def strip_width(particles):
-    """Compute the total horizontal extent of a hexagon strip in geometry units."""
-    positions = compute_unit_layout(particles)
-    xs = []
-    for (cx, _cy), unit in zip(positions, particles):
-        w = unit_width(unit)
-        xs.extend([cx - w / 2 - EDGE_LENGTH / 2, cx + w / 2 + EDGE_LENGTH / 2])
-    return min(xs), max(xs)
-
-
-def display_units(particles):
-    """Group adjacent consonant runs into one split cluster tile.
-
-    A cluster tile keeps the mātrā accounting explicit: each vyañjana
-    contributes a half-mātrā, but the whole run occupies one bonded timing
-    envelope.
-    """
-    units = []
-    i = 0
+def units_of(dhatu_str: str) -> list[dict]:
+    """Parse a dhātu string into display units, grouping consonant runs into a
+    single split cluster tile (each vyañjana keeps its half-mātrā)."""
+    particles = parse_dhatu_string(dhatu_str)
+    units, i = [], 0
     while i < len(particles):
-        current = particles[i]
-        if current["class"] == "C":
-            run = [current]
+        cur = particles[i]
+        if cur["class"] == "C":
+            run = [cur]
             j = i + 1
             while j < len(particles) and particles[j]["class"] == "C":
-                run.append(particles[j])
-                j += 1
-            if len(run) > 1:
-                cluster_width = EDGE_LENGTH * len(run) / 2
-                units.append({
-                    "kind": "cluster",
-                    "class": "cluster",
-                    "width": cluster_width,
-                    "parts": run,
-                })
-                i = j
-                continue
-            units.append({
-                "kind": "particle",
-                "class": current["class"],
-                "particle": current,
-            })
-            i += 1
+                run.append(particles[j]); j += 1
+            units.append({"kind": "cluster" if len(run) > 1 else "C",
+                          "parts": run, "matra": 0.5 * len(run)})
+            i = j
             continue
-        units.append({
-            "kind": "particle",
-            "class": current["class"],
-            "particle": current,
-        })
+        units.append({"kind": cur["class"], "parts": [cur], "matra": matra_of(cur["class"])})
         i += 1
     return units
 
 
-def unit_width(unit):
-    """Return the top/bottom edge width for a particle or cluster unit."""
-    if unit["kind"] == "cluster":
-        return unit["width"]
-    return WIDTH_BY_CLASS[unit["class"]]
-
-
-def unit_rail_y(unit):
-    """Return the articulation rail for a display unit."""
-    if unit["kind"] == "cluster":
-        return VYANJANA_RAIL_Y
-    return rail_y_for_varna(unit["particle"])
-
-
-def compute_unit_layout(units):
-    """Compute articulation-rail positions for particle and cluster units."""
-    positions = []
-
-    for i, unit in enumerate(units):
-        cy = unit_rail_y(unit)
+def layout(units: list[dict]) -> list[dict]:
+    """Staggered positions: consonant/cluster on the upper rail, vowel on the
+    lower rail (they alternate, so every gap is one slant → ruler aligns)."""
+    out = []
+    for i, u in enumerate(units):
+        w = ms.matra_width(u["matra"], matra_unit=MATRA_UNIT, slant=SLANT)
+        cy = LOWER_RAIL if u["kind"].startswith("V") else UPPER_RAIL
         if i == 0:
-            positions.append((0.0, cy))
-            continue
-        w = unit_width(unit)
-        prev = units[i - 1]
-        prev_w = unit_width(prev)
-        prev_cy = positions[-1][1]
-        rail_step = EDGE_LENGTH / 2 if prev_cy != cy else EDGE_LENGTH
-        cx_new = positions[-1][0] + (prev_w + w) / 2 + rail_step
-        positions.append((cx_new, cy))
-
-    return positions
-
-
-def render_cluster_hexagon(cx, cy, unit):
-    """Render a consonant cluster inside one split timing envelope."""
-    w = unit_width(unit)
-    verts = hex_vertices(cx, cy, w)
-    points_str = " ".join(f"{x:.1f},{y:.1f}" for x, y in verts)
-    cluster_parts = unit["parts"]
-    n_parts = len(cluster_parts)
-    cell_w = w / n_parts
-    divider_pad = 8
-
-    fragments = [
-        f'<polygon points="{points_str}" '
-        f'fill="{SIMPLE_FILL_CONSONANT}" stroke="{SIMPLE_STROKE}" '
-        f'stroke-width="{SIMPLE_STROKE_WIDTH}" stroke-linejoin="round"/>',
-    ]
-
-    for divider_i in range(1, n_parts):
-        divider_x = cx - w / 2 + divider_i * cell_w
-        fragments.append(
-            f'<line x1="{divider_x:.1f}" y1="{cy - HEX_HEIGHT / 2 + divider_pad:.1f}" '
-            f'x2="{divider_x:.1f}" y2="{cy + HEX_HEIGHT / 2 - divider_pad:.1f}" '
-            f'stroke="#777777" stroke-width="0.9" stroke-linecap="round"/>'
-        )
-
-    for part_i, particle in enumerate(cluster_parts):
-        label_x = cx - w / 2 + cell_w * (part_i + 0.5)
-        fragments.extend([
-            f'<text x="{label_x:.1f}" y="{cy - 2:.1f}" '
-            f'font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" '
-            f'font-size="18" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">'
-            f'{devanagari_label(particle)}</text>',
-            f'<text x="{label_x:.1f}" y="{cy + 18:.1f}" '
-            f'font-family="Charter, Georgia, Times, serif" '
-            f'font-size="9" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#333">'
-            f'{particle["iast"]}</text>',
-        ])
-
-    return "\n  ".join(fragments)
-
-
-def render_cell(col, row, matra, deva, iast, dhatu_str):
-    """Render one grid cell with combined label + title on one line and a
-    left-aligned hexagon strip below."""
-    particles = parse_dhatu_string(dhatu_str)
-    units = display_units(particles)
-    positions = compute_unit_layout(units)
-
-    xmin_local, _xmax_local = strip_width(units)
-
-    cell_x = col * CELL_W
-    cell_y = row * CELL_H
-
-    # Asymmetric column shifts: left column nudges strips right, right column
-    # nudges labels left — each by one mātrā.
-    strip_offset = LEFT_MARGIN + (LEFT_COL_HEX_SHIFT if col == 0 else 0)
-    text_offset  = LEFT_MARGIN - (RIGHT_COL_TEXT_SHIFT if col == 1 else 0)
-
-    # Left-align the strip: its leftmost geometry point lands at cell_x + strip_offset.
-    tx = (cell_x + strip_offset) - xmin_local
-    ty = cell_y + HEX_Y_OFFSET
-
-    parts = []
-
-    # Combined mātrā label + dhātu title on one line.
-    parts.append(
-        f'<text x="{cell_x + text_offset}" y="{cell_y + TITLE_Y_OFFSET}" '
-        f'font-family="Charter, Georgia, Times, serif" '
-        f'font-size="18" font-weight="500" text-anchor="start" fill="#1a1a1a">'
-        f'<tspan font-style="italic">{matra} mātrā</tspan>'
-        f'  ·  '
-        f'<tspan font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Charter, Georgia, Times, serif">{deva}</tspan>'
-        f' — '
-        f'<tspan font-style="italic">{iast}</tspan>'
-        f'</text>'
-    )
-
-    # Hexagon strip (left-aligned to cell_x + LEFT_MARGIN).
-    for (cx, cy), unit in zip(positions, units):
-        if unit["kind"] == "cluster":
-            fragment = render_cluster_hexagon(cx, cy, unit)
+            cx = 0.0
         else:
-            fragment = render_hexagon(cx, cy, unit["particle"], style="simple")
-        parts.append(
-            f'<g transform="translate({tx:.1f},{ty:.1f})">'
-            f'{fragment}'
-            f'</g>'
-        )
+            prev = out[-1]
+            cx = prev["cx"] + (prev["w"] + w) / 2 + SLANT
+        out.append({**u, "cx": cx, "cy": cy, "w": w})
+    return out
 
+
+def render_tile(u: dict, cx: float, cy: float) -> str:
+    """One varṇa hex (or split cluster) with Devanagari + IAST labels."""
+    is_vowel = u["kind"].startswith("V")
+    fill = ms.LIGHT_FILL if is_vowel else ms.DARK_FILL
+    ink = ms.INK_DARK if is_vowel else ms.INK_LIGHT
+    w = u["w"]
+    parts = [
+        f'<polygon points="{ms.hex_points(cx, cy, w, slant=SLANT, hex_height=HEX_HEIGHT)}" '
+        f'fill="{fill}" stroke="{ms.STROKE}" stroke-width="{ms.STROKE_W}" stroke-linejoin="round"/>'
+    ]
+    n = len(u["parts"])
+    sub_w = w / n
+    for k in range(1, n):                       # cluster dividers
+        dx = cx - w / 2 + k * sub_w
+        parts.append(
+            f'<line x1="{dx:.1f}" y1="{cy - HEX_HEIGHT / 2 + 5:.1f}" '
+            f'x2="{dx:.1f}" y2="{cy + HEX_HEIGHT / 2 - 5:.1f}" '
+            f'stroke="{ink}" stroke-width="0.8" stroke-linecap="round" opacity="0.5"/>'
+        )
+    for k, p in enumerate(u["parts"]):
+        lx = cx - w / 2 + sub_w * (k + 0.5)
+        parts.append(ms.text(lx, cy - 4, devanagari_label(p), FS_DEV, fill=ink,
+                             weight="600", family=ms.DEV_FONT))
+        parts.append(ms.text(lx, cy + 13, p["iast"], FS_IAST, fill=ink, style="italic"))
     return "\n  ".join(parts)
 
 
-def main():
-    # Column-major layout: first 5 dhātus (mātrās 1–3) in the left column,
-    # next 5 (mātrās 3½–5½) in the right column.
-    n_cols = 2
-    n_rows = (len(DHATUS) + n_cols - 1) // n_cols
+def render_strip(units, measure_x, row_cy):
+    lay = layout(units)
+    first = lay[0]
+    dx = measure_x - (first["cx"] - first["w"] / 2 - SLANT / 2)
+    return "\n  ".join(render_tile(u, u["cx"] + dx, u["cy"] + row_cy) for u in lay)
 
-    total_w = n_cols * CELL_W
-    total_h = n_rows * CELL_H + BOTTOM_PADDING
 
-    svg_parts = []
-    svg_parts.append(
-        f'<svg xmlns="http://www.w3.org/2000/svg" '
-        f'viewBox="0 0 {total_w} {total_h}" '
-        f'width="{total_w}" height="{total_h}">'
-    )
-    svg_parts.append(f'  <title>Mātrā envelope across ten dhātavaḥ</title>')
-    svg_parts.append(
-        f'  <rect x="0" y="0" width="{total_w}" height="{total_h}" fill="white"/>'
-    )
+def main() -> None:
+    n_rows = (len(DHATUS) + 1) // 2
+    cols = [DHATUS[:n_rows], DHATUS[n_rows:]]
+    col_maxn = [3.0, 5.5]                       # max mātrā per column
 
-    for i, (matra, deva, iast, dhatu_str) in enumerate(DHATUS):
-        col = i // n_rows
-        row = i % n_rows
-        svg_parts.append("  " + render_cell(col, row, matra, deva, iast, dhatu_str))
+    # x: each column left-aligned to its own mātrā-0.
+    measure_x, x = [], MARGIN
+    for mx in col_maxn:
+        measure_x.append(x + SLANT / 2)
+        x += mx * MATRA_UNIT + SLANT + COL_GAP
+    canvas_w = measure_x[-1] + col_maxn[-1] * MATRA_UNIT + SLANT / 2 + MARGIN
 
-    svg_parts.append("</svg>")
+    strip_half = 3 * HEX_HEIGHT / 4
+    row_pitch = 2 * strip_half + ROW_GAP
+    top = MARGIN + 6
+    row_cy0 = top + LABEL_DY + strip_half
+    ruler_y = row_cy0 + (n_rows - 1) * row_pitch + strip_half + RULER_GAP
+    canvas_h = ruler_y + 46
 
-    out_path = REPO_ROOT / "figures" / "build" / "matra_envelope.from-py.svg"
-    out_path.write_text("\n".join(svg_parts), encoding="utf-8")
-    print(f"Wrote {out_path}")
+    grids, strips, chrome = [], [], []
+    for c, (column, mx, maxn) in enumerate(zip(cols, measure_x, col_maxn)):
+        grids.append(ms.gridlines(mx, math.floor(maxn), top, ruler_y, matra_unit=MATRA_UNIT))
+        for r, (matra, deva, iast, dstr) in enumerate(column):
+            cy = row_cy0 + r * row_pitch
+            chrome.append(ms.text(mx - SLANT / 2, cy - strip_half - 4,
+                                  f"{matra} mātrā · {deva} — {iast}", FS_LABEL,
+                                  fill=ms.TEXT, anchor="start", family=ms.DEV_FONT))
+            strips.append(render_strip(units_of(dstr), mx, cy))
+        chrome.append(ms.render_ruler(mx, ruler_y, maxn, matra_unit=MATRA_UNIT,
+                                      fs_num=FS_RULER, fs_label=FS_AXIS))
+
+    body = "\n".join(grids + strips + chrome)
+    out = REPO_ROOT / "figures" / "build" / "matra_envelope.from-py.svg"
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(ms.svg(canvas_w, canvas_h, body,
+                          title="Mātrā envelope across ten dhātavaḥ"), encoding="utf-8")
+    print(f"Wrote {out.relative_to(REPO_ROOT)}  ({canvas_w:.0f}x{canvas_h:.0f}px = "
+          f"{ms.WIDTH_IN}in x {canvas_h / canvas_w * ms.WIDTH_IN:.2f}in)")
 
 
 if __name__ == "__main__":
