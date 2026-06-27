@@ -228,13 +228,13 @@
   <text x="424.6" y="626.6" font-family="Charter, Georgia, Times, serif" font-size="14.0" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">5</text>
   <text x="352.6" y="654.6" font-family="Charter, Georgia, Times, serif" font-size="14.0" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">mātrā</text>
 <text x="16.0" y="46.0" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" font-size="18.1" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#2b2b2d">Chandas as Mātrā Tiling</text>
-<text x="16.0" y="84.0" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" font-size="11.0" font-weight="400" font-style="italic" text-anchor="start" dominant-baseline="middle" fill="#5f5346">Valid patterns emerge from measured sound.</text>
+<text x="16.0" y="84.0" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" font-size="12.6" font-weight="400" font-style="italic" text-anchor="start" dominant-baseline="middle" fill="#5f5346">Valid patterns emerge from measured sound.</text>
 <line x1="16" y1="100.0" x2="435.6" y2="100.0" stroke="#cccccc" stroke-width="1"/>
-<g transform="translate(420.0,58.0) scale(0.85)"><polygon points="-10.4,-13.9 10.4,-13.9 18.4,0.0 10.4,13.9 -10.4,13.9 -18.4,0.0" fill="#d8c7a3" stroke="#5c4830" stroke-width="1" stroke-linejoin="round"/>
+<g transform="translate(417.2,52.0) scale(1.0)"><polygon points="-10.4,-13.9 10.4,-13.9 18.4,0.0 10.4,13.9 -10.4,13.9 -18.4,0.0" fill="#d8c7a3" stroke="#5c4830" stroke-width="1" stroke-linejoin="round"/>
   <line x1="0.0" y1="-4.0" x2="0.0" y2="4.0" stroke="#3d2f1f" stroke-width="1.0" stroke-linecap="round"/></g>
-<text x="369.8" y="58.0" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="12.6" font-weight="400" font-style="normal" text-anchor="end" dominant-baseline="middle" fill="#3d2f1f">लघु laghu · 1 mātrā</text>
-<g transform="translate(407.7,84.0) scale(0.85)"><polygon points="-24.8,-13.9 24.8,-13.9 32.8,0.0 24.8,13.9 -24.8,13.9 -32.8,0.0" fill="#4a3a28" stroke="#5c4830" stroke-width="1" stroke-linejoin="round"/>
+<text x="360.0" y="52.0" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="12.6" font-weight="400" font-style="normal" text-anchor="end" dominant-baseline="middle" fill="#3d2f1f">लघु laghu · 1</text>
+<g transform="translate(402.8,84.0) scale(1.0)"><polygon points="-24.8,-13.9 24.8,-13.9 32.8,0.0 24.8,13.9 -24.8,13.9 -32.8,0.0" fill="#4a3a28" stroke="#5c4830" stroke-width="1" stroke-linejoin="round"/>
   <line x1="-2.6" y1="-4.0" x2="-2.6" y2="4.0" stroke="#f4eedd" stroke-width="1.0" stroke-linecap="round"/>
   <line x1="2.6" y1="-4.0" x2="2.6" y2="4.0" stroke="#f4eedd" stroke-width="1.0" stroke-linecap="round"/></g>
-<text x="369.8" y="84.0" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="12.6" font-weight="400" font-style="normal" text-anchor="end" dominant-baseline="middle" fill="#3d2f1f">गुरु guru · 2 mātrās</text>
+<text x="360.0" y="84.0" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="12.6" font-weight="400" font-style="normal" text-anchor="end" dominant-baseline="middle" fill="#3d2f1f">गुरु guru · 2</text>
 </svg>

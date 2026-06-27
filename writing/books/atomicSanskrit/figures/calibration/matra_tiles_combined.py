@@ -45,7 +45,7 @@ HEAD_GAP = 18            # space between column headers and the boxes below
 
 SERIF = "'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif"
 FS_TITLE = 18.1          # ≈ 13 pt at 4.5 in wide
-FS_SUB = 11.0            # subtitle, fit on one line at 4.5 in wide
+FS_SUB = 12.6            # subtitle ≈ 9 pt at 4.5 in wide
 TITLE_FILL = "#2b2b2d"
 SUB_FILL = "#5f5346"
 RULE = "#cccccc"
@@ -125,21 +125,21 @@ def main() -> None:
     chrome.append(f'<line x1="{MARGIN}" y1="{rule_y:.1f}" x2="{canvas_w - MARGIN:.1f}" '
                   f'y2="{rule_y:.1f}" stroke="{RULE}" stroke-width="1"/>')
 
-    # Legend (right, just above the rule): hexes right-aligned, text right-
-    # justified beside them, two rows (laghu, guru) in Devanagari + IAST.
-    sw = 0.85
+    # Legend (right, just above the rule): hexes the same size as the tiles
+    # below (sw=1.0), right-aligned, with right-justified Devanagari + IAST text.
+    sw = 1.0
 
     def hw(token: str) -> float:                 # half-width of a swatch
         return (width_of(token) / 2 + SLANT) * sw
 
     x_r = canvas_w - MARGIN                       # common right edge of the hexes
     x_t = x_r - 2 * hw("G") - 10                  # common right edge of the text
-    lr1_y, lr2_y = rule_y - 42, rule_y - 16
+    lr1_y, lr2_y = rule_y - 48, rule_y - 16
     chrome.append(swatch("L", x_r - hw("L"), lr1_y, sw))
-    chrome.append(text(x_t, lr1_y, "लघु laghu · 1 mātrā", FS_IAST, fill=TEXT,
+    chrome.append(text(x_t, lr1_y, "लघु laghu · 1", FS_IAST, fill=TEXT,
                        anchor="end", family=DEV_FONT))
     chrome.append(swatch("G", x_r - hw("G"), lr2_y, sw))
-    chrome.append(text(x_t, lr2_y, "गुरु guru · 2 mātrās", FS_IAST, fill=TEXT,
+    chrome.append(text(x_t, lr2_y, "गुरु guru · 2", FS_IAST, fill=TEXT,
                        anchor="end", family=DEV_FONT))
 
     body = "\n".join(backers + gridlines + strips + chrome)
