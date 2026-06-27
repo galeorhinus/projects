@@ -177,56 +177,56 @@
   <line x1="381.4" y1="554.9" x2="381.4" y2="562.8" stroke="#3d2f1f" stroke-width="1.0" stroke-linecap="round"/>
   <line x1="410.2" y1="568.7" x2="410.2" y2="576.7" stroke="#3d2f1f" stroke-width="1.0" stroke-linecap="round"/>
 <text x="27.0" y="124.0" font-family="Charter, Georgia, Times, serif" font-size="12.6" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#3d2f1f">1 · 2 · 3 mātrās</text>
-<line x1="27.0" y1="610.6" x2="113.4" y2="610.6" stroke="#7a6647" stroke-width="1"/>
-  <line x1="27.0" y1="610.6" x2="27.0" y2="598.6" stroke="#7a6647" stroke-width="1"/>
+<line x1="27.0" y1="610.6" x2="113.4" y2="610.6" stroke="#7a6647" stroke-width="1.0"/>
+  <line x1="27.0" y1="610.6" x2="27.0" y2="599.6" stroke="#7a6647" stroke-width="1.0"/>
   <text x="27.0" y="626.6" font-family="Charter, Georgia, Times, serif" font-size="14.0" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">0</text>
-  <line x1="41.4" y1="610.6" x2="41.4" y2="604.6" stroke="#7a6647" stroke-width="1"/>
-  <line x1="55.8" y1="610.6" x2="55.8" y2="598.6" stroke="#7a6647" stroke-width="1"/>
+  <line x1="41.4" y1="610.6" x2="41.4" y2="604.6" stroke="#7a6647" stroke-width="1.0"/>
+  <line x1="55.8" y1="610.6" x2="55.8" y2="599.6" stroke="#7a6647" stroke-width="1.0"/>
   <text x="55.8" y="626.6" font-family="Charter, Georgia, Times, serif" font-size="14.0" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">1</text>
-  <line x1="70.2" y1="610.6" x2="70.2" y2="604.6" stroke="#7a6647" stroke-width="1"/>
-  <line x1="84.6" y1="610.6" x2="84.6" y2="598.6" stroke="#7a6647" stroke-width="1"/>
+  <line x1="70.2" y1="610.6" x2="70.2" y2="604.6" stroke="#7a6647" stroke-width="1.0"/>
+  <line x1="84.6" y1="610.6" x2="84.6" y2="599.6" stroke="#7a6647" stroke-width="1.0"/>
   <text x="84.6" y="626.6" font-family="Charter, Georgia, Times, serif" font-size="14.0" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">2</text>
-  <line x1="99.0" y1="610.6" x2="99.0" y2="604.6" stroke="#7a6647" stroke-width="1"/>
-  <line x1="113.4" y1="610.6" x2="113.4" y2="598.6" stroke="#7a6647" stroke-width="1"/>
+  <line x1="99.0" y1="610.6" x2="99.0" y2="604.6" stroke="#7a6647" stroke-width="1.0"/>
+  <line x1="113.4" y1="610.6" x2="113.4" y2="599.6" stroke="#7a6647" stroke-width="1.0"/>
   <text x="113.4" y="626.6" font-family="Charter, Georgia, Times, serif" font-size="14.0" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">3</text>
-  <text x="70.2" y="654.6" font-family="Charter, Georgia, Times, serif" font-size="14.0" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">mātrā</text>
+  <text x="70.2" y="642.6" font-family="Charter, Georgia, Times, serif" font-size="14.0" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">mātrā</text>
 <text x="139.4" y="124.0" font-family="Charter, Georgia, Times, serif" font-size="12.6" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#3d2f1f">3 · 4 mātrās</text>
-<line x1="139.4" y1="610.6" x2="254.6" y2="610.6" stroke="#7a6647" stroke-width="1"/>
-  <line x1="139.4" y1="610.6" x2="139.4" y2="598.6" stroke="#7a6647" stroke-width="1"/>
+<line x1="139.4" y1="610.6" x2="254.6" y2="610.6" stroke="#7a6647" stroke-width="1.0"/>
+  <line x1="139.4" y1="610.6" x2="139.4" y2="599.6" stroke="#7a6647" stroke-width="1.0"/>
   <text x="139.4" y="626.6" font-family="Charter, Georgia, Times, serif" font-size="14.0" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">0</text>
-  <line x1="153.8" y1="610.6" x2="153.8" y2="604.6" stroke="#7a6647" stroke-width="1"/>
-  <line x1="168.2" y1="610.6" x2="168.2" y2="598.6" stroke="#7a6647" stroke-width="1"/>
+  <line x1="153.8" y1="610.6" x2="153.8" y2="604.6" stroke="#7a6647" stroke-width="1.0"/>
+  <line x1="168.2" y1="610.6" x2="168.2" y2="599.6" stroke="#7a6647" stroke-width="1.0"/>
   <text x="168.2" y="626.6" font-family="Charter, Georgia, Times, serif" font-size="14.0" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">1</text>
-  <line x1="182.6" y1="610.6" x2="182.6" y2="604.6" stroke="#7a6647" stroke-width="1"/>
-  <line x1="197.0" y1="610.6" x2="197.0" y2="598.6" stroke="#7a6647" stroke-width="1"/>
+  <line x1="182.6" y1="610.6" x2="182.6" y2="604.6" stroke="#7a6647" stroke-width="1.0"/>
+  <line x1="197.0" y1="610.6" x2="197.0" y2="599.6" stroke="#7a6647" stroke-width="1.0"/>
   <text x="197.0" y="626.6" font-family="Charter, Georgia, Times, serif" font-size="14.0" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">2</text>
-  <line x1="211.4" y1="610.6" x2="211.4" y2="604.6" stroke="#7a6647" stroke-width="1"/>
-  <line x1="225.8" y1="610.6" x2="225.8" y2="598.6" stroke="#7a6647" stroke-width="1"/>
+  <line x1="211.4" y1="610.6" x2="211.4" y2="604.6" stroke="#7a6647" stroke-width="1.0"/>
+  <line x1="225.8" y1="610.6" x2="225.8" y2="599.6" stroke="#7a6647" stroke-width="1.0"/>
   <text x="225.8" y="626.6" font-family="Charter, Georgia, Times, serif" font-size="14.0" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">3</text>
-  <line x1="240.2" y1="610.6" x2="240.2" y2="604.6" stroke="#7a6647" stroke-width="1"/>
-  <line x1="254.6" y1="610.6" x2="254.6" y2="598.6" stroke="#7a6647" stroke-width="1"/>
+  <line x1="240.2" y1="610.6" x2="240.2" y2="604.6" stroke="#7a6647" stroke-width="1.0"/>
+  <line x1="254.6" y1="610.6" x2="254.6" y2="599.6" stroke="#7a6647" stroke-width="1.0"/>
   <text x="254.6" y="626.6" font-family="Charter, Georgia, Times, serif" font-size="14.0" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">4</text>
-  <text x="197.0" y="654.6" font-family="Charter, Georgia, Times, serif" font-size="14.0" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">mātrā</text>
+  <text x="197.0" y="642.6" font-family="Charter, Georgia, Times, serif" font-size="14.0" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">mātrā</text>
 <text x="280.6" y="124.0" font-family="Charter, Georgia, Times, serif" font-size="12.6" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#a8842c">5 mātrās</text>
-<line x1="280.6" y1="610.6" x2="424.6" y2="610.6" stroke="#7a6647" stroke-width="1"/>
-  <line x1="280.6" y1="610.6" x2="280.6" y2="598.6" stroke="#7a6647" stroke-width="1"/>
+<line x1="280.6" y1="610.6" x2="424.6" y2="610.6" stroke="#7a6647" stroke-width="1.0"/>
+  <line x1="280.6" y1="610.6" x2="280.6" y2="599.6" stroke="#7a6647" stroke-width="1.0"/>
   <text x="280.6" y="626.6" font-family="Charter, Georgia, Times, serif" font-size="14.0" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">0</text>
-  <line x1="295.0" y1="610.6" x2="295.0" y2="604.6" stroke="#7a6647" stroke-width="1"/>
-  <line x1="309.4" y1="610.6" x2="309.4" y2="598.6" stroke="#7a6647" stroke-width="1"/>
+  <line x1="295.0" y1="610.6" x2="295.0" y2="604.6" stroke="#7a6647" stroke-width="1.0"/>
+  <line x1="309.4" y1="610.6" x2="309.4" y2="599.6" stroke="#7a6647" stroke-width="1.0"/>
   <text x="309.4" y="626.6" font-family="Charter, Georgia, Times, serif" font-size="14.0" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">1</text>
-  <line x1="323.8" y1="610.6" x2="323.8" y2="604.6" stroke="#7a6647" stroke-width="1"/>
-  <line x1="338.2" y1="610.6" x2="338.2" y2="598.6" stroke="#7a6647" stroke-width="1"/>
+  <line x1="323.8" y1="610.6" x2="323.8" y2="604.6" stroke="#7a6647" stroke-width="1.0"/>
+  <line x1="338.2" y1="610.6" x2="338.2" y2="599.6" stroke="#7a6647" stroke-width="1.0"/>
   <text x="338.2" y="626.6" font-family="Charter, Georgia, Times, serif" font-size="14.0" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">2</text>
-  <line x1="352.6" y1="610.6" x2="352.6" y2="604.6" stroke="#7a6647" stroke-width="1"/>
-  <line x1="367.0" y1="610.6" x2="367.0" y2="598.6" stroke="#7a6647" stroke-width="1"/>
+  <line x1="352.6" y1="610.6" x2="352.6" y2="604.6" stroke="#7a6647" stroke-width="1.0"/>
+  <line x1="367.0" y1="610.6" x2="367.0" y2="599.6" stroke="#7a6647" stroke-width="1.0"/>
   <text x="367.0" y="626.6" font-family="Charter, Georgia, Times, serif" font-size="14.0" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">3</text>
-  <line x1="381.4" y1="610.6" x2="381.4" y2="604.6" stroke="#7a6647" stroke-width="1"/>
-  <line x1="395.8" y1="610.6" x2="395.8" y2="598.6" stroke="#7a6647" stroke-width="1"/>
+  <line x1="381.4" y1="610.6" x2="381.4" y2="604.6" stroke="#7a6647" stroke-width="1.0"/>
+  <line x1="395.8" y1="610.6" x2="395.8" y2="599.6" stroke="#7a6647" stroke-width="1.0"/>
   <text x="395.8" y="626.6" font-family="Charter, Georgia, Times, serif" font-size="14.0" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">4</text>
-  <line x1="410.2" y1="610.6" x2="410.2" y2="604.6" stroke="#7a6647" stroke-width="1"/>
-  <line x1="424.6" y1="610.6" x2="424.6" y2="598.6" stroke="#7a6647" stroke-width="1"/>
+  <line x1="410.2" y1="610.6" x2="410.2" y2="604.6" stroke="#7a6647" stroke-width="1.0"/>
+  <line x1="424.6" y1="610.6" x2="424.6" y2="599.6" stroke="#7a6647" stroke-width="1.0"/>
   <text x="424.6" y="626.6" font-family="Charter, Georgia, Times, serif" font-size="14.0" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">5</text>
-  <text x="352.6" y="654.6" font-family="Charter, Georgia, Times, serif" font-size="14.0" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">mātrā</text>
+  <text x="352.6" y="642.6" font-family="Charter, Georgia, Times, serif" font-size="14.0" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">mātrā</text>
 <text x="16.0" y="46.0" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" font-size="18.1" font-weight="700" font-style="normal" text-anchor="start" dominant-baseline="middle" fill="#2b2b2d">Chandas as Mātrā Tiling</text>
 <text x="16.0" y="84.0" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" font-size="12.6" font-weight="400" font-style="italic" text-anchor="start" dominant-baseline="middle" fill="#5f5346">Valid patterns emerge from measured sound.</text>
 <line x1="16" y1="100.0" x2="435.6" y2="100.0" stroke="#cccccc" stroke-width="1"/>

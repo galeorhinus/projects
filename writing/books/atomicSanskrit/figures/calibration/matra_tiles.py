@@ -39,6 +39,7 @@ BUILD_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(REPO_ROOT / "working" / "dhatu_hexagons"))
 sys.path.insert(0, str(REPO_ROOT / "figures" / "_shared"))
 from dhatu_hexagon import EDGE_LENGTH as _EDGE_BASE, HEX_HEIGHT as _HH_BASE  # noqa: E402
+import matra_style as ms  # noqa: E402
 from matra_style import (  # noqa: E402  — palette + fonts: single source of truth
     BG, LAGHU_FILL, GURU_FILL, STROKE, GURU_TEXT, LAGHU_TEXT, GOLD, TEXT, MUTED,
     RULER, GUIDE, LATIN_FONT, DEV_FONT,
@@ -217,24 +218,10 @@ def render_strip(tokens: list[str], measure_start_x: float, row_cy: float) -> st
 
 
 def render_ruler(x_start: float, y: float, n: int) -> str:
-    """Half-mātrā ruler spanning the shared measure [x_start, x_start + n·MATRA_UNIT]."""
-    end_x = x_start + n * MATRA_UNIT
-    frags = [
-        f'<line x1="{x_start:.1f}" y1="{y:.1f}" x2="{end_x:.1f}" y2="{y:.1f}" '
-        f'stroke="{RULER}" stroke-width="1"/>'
-    ]
-    for i in range(n * 2 + 1):
-        x = x_start + i * MATRA_UNIT / 2
-        major = i % 2 == 0
-        tick = 12 if major else 6
-        frags.append(
-            f'<line x1="{x:.1f}" y1="{y:.1f}" x2="{x:.1f}" y2="{y - tick:.1f}" '
-            f'stroke="{RULER}" stroke-width="1"/>'
-        )
-        if major:
-            frags.append(text(x, y + 16, f"{i // 2}", FS_RULER_NUM, fill=MUTED))
-    frags.append(text((x_start + end_x) / 2, y + 44, "mātrā", FS_MATRA_LABEL, fill=MUTED, style="italic"))
-    return "\n  ".join(frags)
+    """Half-mātrā ruler — delegates to the shared matra_style ruler so the tick
+    and label spacing stay consistent with every other figure."""
+    return ms.render_ruler(x_start, y, n, matra_unit=MATRA_UNIT,
+                           fs_num=FS_RULER_NUM, fs_label=FS_MATRA_LABEL)
 
 
 def build(n: int, show_ruler: bool = True, show_legend: bool = True,

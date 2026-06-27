@@ -97,11 +97,28 @@ def hex_points(cx: float, cy: float, w: float, *, slant: float, hex_height: floa
     return " ".join(f"{x:.1f},{y:.1f}" for x, y in pts)
 
 
+def varna_label(cx: float, cy: float, deva: str, iast: str, *, ink: str,
+                fs_dev: float, fs_iast: float, dev_weight: str = "600",
+                family_dev: str = DEV_FONT) -> str:
+    """Stacked varṇa label: Devanagari centred, IAST tucked just beneath it.
+
+    Offsets scale with the font sizes so the pairing reads the same in every
+    figure — the single place that fixes Devanagari ↔ IAST spacing.
+    """
+    dev_y = cy - 0.30 * fs_dev
+    iast_y = dev_y + 0.5 * fs_dev + 0.5 * fs_iast + 1.0
+    return (
+        text(cx, dev_y, deva, fs_dev, fill=ink, weight=dev_weight, family=family_dev)
+        + "\n  "
+        + text(cx, iast_y, iast, fs_iast, fill=ink, style="italic")
+    )
+
+
 # --- Chrome: ruler + gridlines ---------------------------------------------
 
 def render_ruler(x_start: float, y: float, n: int, *, matra_unit: float,
                  fs_num: float, fs_label: float, label: str = "mātrā",
-                 num_dy: float = 16, label_dy: float = 44,
+                 num_dy: float = 16, label_dy: float | None = None,
                  color: str = RULER, line_w: float = STROKE_W) -> str:
     """Half-mātrā ruler from x_start spanning n mātrās (ticks 0..n)."""
     end_x = x_start + n * matra_unit
@@ -120,7 +137,8 @@ def render_ruler(x_start: float, y: float, n: int, *, matra_unit: float,
         if major:
             frags.append(text(x, y + num_dy, f"{i // 2}", fs_num, fill=MUTED))
     if label:
-        frags.append(text((x_start + end_x) / 2, y + label_dy, label, fs_label,
+        ly = y + (label_dy if label_dy is not None else num_dy + fs_label + 2)
+        frags.append(text((x_start + end_x) / 2, ly, label, fs_label,
                           fill=MUTED, style="italic"))
     return "\n  ".join(frags)
 

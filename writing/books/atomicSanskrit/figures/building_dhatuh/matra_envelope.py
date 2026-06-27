@@ -141,9 +141,8 @@ def render_tile(u: dict, cx: float, cy: float) -> str:
         )
     for k, p in enumerate(u["parts"]):
         lx = cx - w / 2 + sub_w * (k + 0.5)
-        parts.append(ms.text(lx, cy - 4, devanagari_label(p), FS_DEV, fill=ink,
-                             weight="600", family=ms.DEV_FONT))
-        parts.append(ms.text(lx, cy + 13, p["iast"], FS_IAST, fill=ink, style="italic"))
+        parts.append(ms.varna_label(lx, cy, devanagari_label(p), p["iast"],
+                                    ink=ink, fs_dev=FS_DEV, fs_iast=FS_IAST))
     return "\n  ".join(parts)
 
 
