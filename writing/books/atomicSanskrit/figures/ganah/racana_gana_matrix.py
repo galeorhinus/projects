@@ -175,8 +175,10 @@ def main() -> int:
             P.append(f'<rect x="{x:.1f}" y="{y}" width="{cw:.1f}" height="{CELL_H}" rx="2" '
                      f'fill="{shade(value, max_cell)}" stroke="#dddddd"/>')
             label = "—" if value == 0 else str(value)
+            # inline style beats the `text { fill }` stylesheet rule (presentation
+            # attributes lose to CSS, so a plain fill="" would be ignored).
             P.append(f'<text x="{x + cw / 2:.1f}" y="{mid:.1f}" class="cell" '
-                     f'fill="{text_color(value, max_cell)}">{label}</text>')
+                     f'style="fill:{text_color(value, max_cell)}">{label}</text>')
 
         rt = rows[racana]["row_total"]
         P.append(f'<rect x="{total_x}" y="{y}" width="{TOTAL_W}" height="{CELL_H}" rx="2" '

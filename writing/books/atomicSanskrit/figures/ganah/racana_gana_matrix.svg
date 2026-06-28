@@ -34,25 +34,25 @@
 </g>
 <text x="126" y="126.0" class="rowlabel" dominant-baseline="central">gamādi</text>
 <rect x="138.0" y="114" width="33.6" height="24" rx="2" fill="#3c3c3c" stroke="#dddddd"/>
-<text x="154.8" y="126.0" class="cell" fill="#ffffff">452</text>
+<text x="154.8" y="126.0" class="cell" style="fill:#ffffff">452</text>
 <rect x="173.6" y="114" width="30.8" height="24" rx="2" fill="#515151" stroke="#dddddd"/>
-<text x="189.0" y="126.0" class="cell" fill="#ffffff">218</text>
+<text x="189.0" y="126.0" class="cell" style="fill:#ffffff">218</text>
 <rect x="206.4" y="114" width="28.0" height="24" rx="2" fill="#676767" stroke="#dddddd"/>
-<text x="220.4" y="126.0" class="cell" fill="#ffffff">105</text>
+<text x="220.4" y="126.0" class="cell" style="fill:#ffffff">105</text>
 <rect x="236.4" y="114" width="28.0" height="24" rx="2" fill="#717171" stroke="#dddddd"/>
-<text x="250.4" y="126.0" class="cell" fill="#ffffff">75</text>
+<text x="250.4" y="126.0" class="cell" style="fill:#ffffff">75</text>
 <rect x="266.4" y="114" width="28.0" height="24" rx="2" fill="#969696" stroke="#dddddd"/>
-<text x="280.4" y="126.0" class="cell" fill="#202020">22</text>
+<text x="280.4" y="126.0" class="cell" style="fill:#202020">22</text>
 <rect x="296.4" y="114" width="28.0" height="24" rx="2" fill="#a9a9a9" stroke="#dddddd"/>
-<text x="310.4" y="126.0" class="cell" fill="#202020">11</text>
+<text x="310.4" y="126.0" class="cell" style="fill:#202020">11</text>
 <rect x="326.4" y="114" width="28.0" height="24" rx="2" fill="#acacac" stroke="#dddddd"/>
-<text x="340.4" y="126.0" class="cell" fill="#202020">10</text>
+<text x="340.4" y="126.0" class="cell" style="fill:#202020">10</text>
 <rect x="356.4" y="114" width="28.0" height="24" rx="2" fill="#b2b2b2" stroke="#dddddd"/>
-<text x="370.4" y="126.0" class="cell" fill="#202020">8</text>
+<text x="370.4" y="126.0" class="cell" style="fill:#202020">8</text>
 <rect x="386.4" y="114" width="28.0" height="24" rx="2" fill="#9a9a9a" stroke="#dddddd"/>
-<text x="400.4" y="126.0" class="cell" fill="#202020">19</text>
+<text x="400.4" y="126.0" class="cell" style="fill:#202020">19</text>
 <rect x="416.4" y="114" width="28.0" height="24" rx="2" fill="#bababa" stroke="#dddddd"/>
-<text x="430.4" y="126.0" class="cell" fill="#202020">6</text>
+<text x="430.4" y="126.0" class="cell" style="fill:#202020">6</text>
 <rect x="452.4" y="114" width="40" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
 <text x="472.4" y="126.0" class="total">926</text>
   <g transform="translate(30.0 152.0) scale(0.9524) translate(-10.10 -0.00)">
@@ -62,25 +62,25 @@
 </g>
 <text x="126" y="152.0" class="rowlabel" dominant-baseline="central">spadādi</text>
 <rect x="138.0" y="140" width="33.6" height="24" rx="2" fill="#616161" stroke="#dddddd"/>
-<text x="154.8" y="152.0" class="cell" fill="#ffffff">130</text>
+<text x="154.8" y="152.0" class="cell" style="fill:#ffffff">130</text>
 <rect x="173.6" y="140" width="30.8" height="24" rx="2" fill="#838383" stroke="#dddddd"/>
-<text x="189.0" y="152.0" class="cell" fill="#ffffff">41</text>
+<text x="189.0" y="152.0" class="cell" style="fill:#ffffff">41</text>
 <rect x="206.4" y="140" width="28.0" height="24" rx="2" fill="#9b9b9b" stroke="#dddddd"/>
-<text x="220.4" y="152.0" class="cell" fill="#202020">18</text>
+<text x="220.4" y="152.0" class="cell" style="fill:#202020">18</text>
 <rect x="236.4" y="140" width="28.0" height="24" rx="2" fill="#8d8d8d" stroke="#dddddd"/>
-<text x="250.4" y="152.0" class="cell" fill="#202020">30</text>
+<text x="250.4" y="152.0" class="cell" style="fill:#202020">30</text>
 <rect x="266.4" y="140" width="28.0" height="24" rx="2" fill="#cbcbcb" stroke="#dddddd"/>
-<text x="280.4" y="152.0" class="cell" fill="#202020">3</text>
+<text x="280.4" y="152.0" class="cell" style="fill:#202020">3</text>
 <rect x="296.4" y="140" width="28.0" height="24" rx="2" fill="#bababa" stroke="#dddddd"/>
-<text x="310.4" y="152.0" class="cell" fill="#202020">6</text>
+<text x="310.4" y="152.0" class="cell" style="fill:#202020">6</text>
 <rect x="326.4" y="140" width="28.0" height="24" rx="2" fill="#e0e0e0" stroke="#dddddd"/>
-<text x="340.4" y="152.0" class="cell" fill="#202020">1</text>
+<text x="340.4" y="152.0" class="cell" style="fill:#202020">1</text>
 <rect x="356.4" y="140" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="370.4" y="152.0" class="cell" fill="#9a9a9a">—</text>
+<text x="370.4" y="152.0" class="cell" style="fill:#9a9a9a">—</text>
 <rect x="386.4" y="140" width="28.0" height="24" rx="2" fill="#e0e0e0" stroke="#dddddd"/>
-<text x="400.4" y="152.0" class="cell" fill="#202020">1</text>
+<text x="400.4" y="152.0" class="cell" style="fill:#202020">1</text>
 <rect x="416.4" y="140" width="28.0" height="24" rx="2" fill="#d3d3d3" stroke="#dddddd"/>
-<text x="430.4" y="152.0" class="cell" fill="#202020">2</text>
+<text x="430.4" y="152.0" class="cell" style="fill:#202020">2</text>
 <rect x="452.4" y="140" width="40" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
 <text x="472.4" y="152.0" class="total">232</text>
   <g transform="translate(30.0 178.0) scale(0.9524) translate(-12.12 -0.00)">
@@ -90,25 +90,25 @@
 </g>
 <text x="126" y="178.0" class="rowlabel" dominant-baseline="central">manthādi</text>
 <rect x="138.0" y="166" width="33.6" height="24" rx="2" fill="#656565" stroke="#dddddd"/>
-<text x="154.8" y="178.0" class="cell" fill="#ffffff">114</text>
+<text x="154.8" y="178.0" class="cell" style="fill:#ffffff">114</text>
 <rect x="173.6" y="166" width="30.8" height="24" rx="2" fill="#717171" stroke="#dddddd"/>
-<text x="189.0" y="178.0" class="cell" fill="#ffffff">75</text>
+<text x="189.0" y="178.0" class="cell" style="fill:#ffffff">75</text>
 <rect x="206.4" y="166" width="28.0" height="24" rx="2" fill="#a1a1a1" stroke="#dddddd"/>
-<text x="220.4" y="178.0" class="cell" fill="#202020">15</text>
+<text x="220.4" y="178.0" class="cell" style="fill:#202020">15</text>
 <rect x="236.4" y="166" width="28.0" height="24" rx="2" fill="#cbcbcb" stroke="#dddddd"/>
-<text x="250.4" y="178.0" class="cell" fill="#202020">3</text>
+<text x="250.4" y="178.0" class="cell" style="fill:#202020">3</text>
 <rect x="266.4" y="166" width="28.0" height="24" rx="2" fill="#cbcbcb" stroke="#dddddd"/>
-<text x="280.4" y="178.0" class="cell" fill="#202020">3</text>
+<text x="280.4" y="178.0" class="cell" style="fill:#202020">3</text>
 <rect x="296.4" y="166" width="28.0" height="24" rx="2" fill="#cbcbcb" stroke="#dddddd"/>
-<text x="310.4" y="178.0" class="cell" fill="#202020">3</text>
+<text x="310.4" y="178.0" class="cell" style="fill:#202020">3</text>
 <rect x="326.4" y="166" width="28.0" height="24" rx="2" fill="#e0e0e0" stroke="#dddddd"/>
-<text x="340.4" y="178.0" class="cell" fill="#202020">1</text>
+<text x="340.4" y="178.0" class="cell" style="fill:#202020">1</text>
 <rect x="356.4" y="166" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="370.4" y="178.0" class="cell" fill="#9a9a9a">—</text>
+<text x="370.4" y="178.0" class="cell" style="fill:#9a9a9a">—</text>
 <rect x="386.4" y="166" width="28.0" height="24" rx="2" fill="#d3d3d3" stroke="#dddddd"/>
-<text x="400.4" y="178.0" class="cell" fill="#202020">2</text>
+<text x="400.4" y="178.0" class="cell" style="fill:#202020">2</text>
 <rect x="416.4" y="166" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="430.4" y="178.0" class="cell" fill="#9a9a9a">—</text>
+<text x="430.4" y="178.0" class="cell" style="fill:#9a9a9a">—</text>
 <rect x="452.4" y="166" width="40" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
 <text x="472.4" y="178.0" class="total">216</text>
   <g transform="translate(30.0 204.0) scale(0.8909) translate(-14.14 -0.00)">
@@ -118,25 +118,25 @@
 </g>
 <text x="126" y="204.0" class="rowlabel" dominant-baseline="central">vācādi</text>
 <rect x="138.0" y="192" width="33.6" height="24" rx="2" fill="#5e5e5e" stroke="#dddddd"/>
-<text x="154.8" y="204.0" class="cell" fill="#ffffff">146</text>
+<text x="154.8" y="204.0" class="cell" style="fill:#ffffff">146</text>
 <rect x="173.6" y="192" width="30.8" height="24" rx="2" fill="#7d7d7d" stroke="#dddddd"/>
-<text x="189.0" y="204.0" class="cell" fill="#ffffff">51</text>
+<text x="189.0" y="204.0" class="cell" style="fill:#ffffff">51</text>
 <rect x="206.4" y="192" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="220.4" y="204.0" class="cell" fill="#9a9a9a">—</text>
+<text x="220.4" y="204.0" class="cell" style="fill:#9a9a9a">—</text>
 <rect x="236.4" y="192" width="28.0" height="24" rx="2" fill="#acacac" stroke="#dddddd"/>
-<text x="250.4" y="204.0" class="cell" fill="#202020">10</text>
+<text x="250.4" y="204.0" class="cell" style="fill:#202020">10</text>
 <rect x="266.4" y="192" width="28.0" height="24" rx="2" fill="#d3d3d3" stroke="#dddddd"/>
-<text x="280.4" y="204.0" class="cell" fill="#202020">2</text>
+<text x="280.4" y="204.0" class="cell" style="fill:#202020">2</text>
 <rect x="296.4" y="192" width="28.0" height="24" rx="2" fill="#e0e0e0" stroke="#dddddd"/>
-<text x="310.4" y="204.0" class="cell" fill="#202020">1</text>
+<text x="310.4" y="204.0" class="cell" style="fill:#202020">1</text>
 <rect x="326.4" y="192" width="28.0" height="24" rx="2" fill="#cbcbcb" stroke="#dddddd"/>
-<text x="340.4" y="204.0" class="cell" fill="#202020">3</text>
+<text x="340.4" y="204.0" class="cell" style="fill:#202020">3</text>
 <rect x="356.4" y="192" width="28.0" height="24" rx="2" fill="#e0e0e0" stroke="#dddddd"/>
-<text x="370.4" y="204.0" class="cell" fill="#202020">1</text>
+<text x="370.4" y="204.0" class="cell" style="fill:#202020">1</text>
 <rect x="386.4" y="192" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="400.4" y="204.0" class="cell" fill="#9a9a9a">—</text>
+<text x="400.4" y="204.0" class="cell" style="fill:#9a9a9a">—</text>
 <rect x="416.4" y="192" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="430.4" y="204.0" class="cell" fill="#9a9a9a">—</text>
+<text x="430.4" y="204.0" class="cell" style="fill:#9a9a9a">—</text>
 <rect x="452.4" y="192" width="40" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
 <text x="472.4" y="204.0" class="total">214</text>
   <g transform="translate(30.0 230.0) scale(0.9524) translate(-10.11 -0.00)">
@@ -145,25 +145,25 @@
 </g>
 <text x="126" y="230.0" class="rowlabel" dominant-baseline="central">dhādi</text>
 <rect x="138.0" y="218" width="33.6" height="24" rx="2" fill="#939393" stroke="#dddddd"/>
-<text x="154.8" y="230.0" class="cell" fill="#202020">24</text>
+<text x="154.8" y="230.0" class="cell" style="fill:#202020">24</text>
 <rect x="173.6" y="218" width="30.8" height="24" rx="2" fill="#cbcbcb" stroke="#dddddd"/>
-<text x="189.0" y="230.0" class="cell" fill="#202020">3</text>
+<text x="189.0" y="230.0" class="cell" style="fill:#202020">3</text>
 <rect x="206.4" y="218" width="28.0" height="24" rx="2" fill="#bababa" stroke="#dddddd"/>
-<text x="220.4" y="230.0" class="cell" fill="#202020">6</text>
+<text x="220.4" y="230.0" class="cell" style="fill:#202020">6</text>
 <rect x="236.4" y="218" width="28.0" height="24" rx="2" fill="#9f9f9f" stroke="#dddddd"/>
-<text x="250.4" y="230.0" class="cell" fill="#202020">16</text>
+<text x="250.4" y="230.0" class="cell" style="fill:#202020">16</text>
 <rect x="266.4" y="218" width="28.0" height="24" rx="2" fill="#acacac" stroke="#dddddd"/>
-<text x="280.4" y="230.0" class="cell" fill="#202020">10</text>
+<text x="280.4" y="230.0" class="cell" style="fill:#202020">10</text>
 <rect x="296.4" y="218" width="28.0" height="24" rx="2" fill="#979797" stroke="#dddddd"/>
-<text x="310.4" y="230.0" class="cell" fill="#202020">21</text>
+<text x="310.4" y="230.0" class="cell" style="fill:#202020">21</text>
 <rect x="326.4" y="218" width="28.0" height="24" rx="2" fill="#d3d3d3" stroke="#dddddd"/>
-<text x="340.4" y="230.0" class="cell" fill="#202020">2</text>
+<text x="340.4" y="230.0" class="cell" style="fill:#202020">2</text>
 <rect x="356.4" y="218" width="28.0" height="24" rx="2" fill="#b6b6b6" stroke="#dddddd"/>
-<text x="370.4" y="230.0" class="cell" fill="#202020">7</text>
+<text x="370.4" y="230.0" class="cell" style="fill:#202020">7</text>
 <rect x="386.4" y="218" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="400.4" y="230.0" class="cell" fill="#9a9a9a">—</text>
+<text x="400.4" y="230.0" class="cell" style="fill:#9a9a9a">—</text>
 <rect x="416.4" y="218" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="430.4" y="230.0" class="cell" fill="#9a9a9a">—</text>
+<text x="430.4" y="230.0" class="cell" style="fill:#9a9a9a">—</text>
 <rect x="452.4" y="218" width="40" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
 <text x="472.4" y="230.0" class="total">89</text>
   <g transform="translate(30.0 256.0) scale(0.9524) translate(-4.04 -0.00)">
@@ -172,25 +172,25 @@
 </g>
 <text x="126" y="256.0" class="rowlabel" dominant-baseline="central">iṣādi</text>
 <rect x="138.0" y="244" width="33.6" height="24" rx="2" fill="#838383" stroke="#dddddd"/>
-<text x="154.8" y="256.0" class="cell" fill="#ffffff">41</text>
+<text x="154.8" y="256.0" class="cell" style="fill:#ffffff">41</text>
 <rect x="173.6" y="244" width="30.8" height="24" rx="2" fill="#c4c4c4" stroke="#dddddd"/>
-<text x="189.0" y="256.0" class="cell" fill="#202020">4</text>
+<text x="189.0" y="256.0" class="cell" style="fill:#202020">4</text>
 <rect x="206.4" y="244" width="28.0" height="24" rx="2" fill="#afafaf" stroke="#dddddd"/>
-<text x="220.4" y="256.0" class="cell" fill="#202020">9</text>
+<text x="220.4" y="256.0" class="cell" style="fill:#202020">9</text>
 <rect x="236.4" y="244" width="28.0" height="24" rx="2" fill="#bebebe" stroke="#dddddd"/>
-<text x="250.4" y="256.0" class="cell" fill="#202020">5</text>
+<text x="250.4" y="256.0" class="cell" style="fill:#202020">5</text>
 <rect x="266.4" y="244" width="28.0" height="24" rx="2" fill="#bebebe" stroke="#dddddd"/>
-<text x="280.4" y="256.0" class="cell" fill="#202020">5</text>
+<text x="280.4" y="256.0" class="cell" style="fill:#202020">5</text>
 <rect x="296.4" y="244" width="28.0" height="24" rx="2" fill="#d3d3d3" stroke="#dddddd"/>
-<text x="310.4" y="256.0" class="cell" fill="#202020">2</text>
+<text x="310.4" y="256.0" class="cell" style="fill:#202020">2</text>
 <rect x="326.4" y="244" width="28.0" height="24" rx="2" fill="#cbcbcb" stroke="#dddddd"/>
-<text x="340.4" y="256.0" class="cell" fill="#202020">3</text>
+<text x="340.4" y="256.0" class="cell" style="fill:#202020">3</text>
 <rect x="356.4" y="244" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="370.4" y="256.0" class="cell" fill="#9a9a9a">—</text>
+<text x="370.4" y="256.0" class="cell" style="fill:#9a9a9a">—</text>
 <rect x="386.4" y="244" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="400.4" y="256.0" class="cell" fill="#9a9a9a">—</text>
+<text x="400.4" y="256.0" class="cell" style="fill:#9a9a9a">—</text>
 <rect x="416.4" y="244" width="28.0" height="24" rx="2" fill="#e0e0e0" stroke="#dddddd"/>
-<text x="430.4" y="256.0" class="cell" fill="#202020">1</text>
+<text x="430.4" y="256.0" class="cell" style="fill:#202020">1</text>
 <rect x="452.4" y="244" width="40" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
 <text x="472.4" y="256.0" class="total">70</text>
   <g transform="translate(30.0 282.0) scale(0.8097) translate(-14.15 -0.00)">
@@ -200,25 +200,25 @@
 </g>
 <text x="126" y="282.0" class="rowlabel" dominant-baseline="central">hrādādi</text>
 <rect x="138.0" y="270" width="33.6" height="24" rx="2" fill="#7c7c7c" stroke="#dddddd"/>
-<text x="154.8" y="282.0" class="cell" fill="#ffffff">53</text>
+<text x="154.8" y="282.0" class="cell" style="fill:#ffffff">53</text>
 <rect x="173.6" y="270" width="30.8" height="24" rx="2" fill="#acacac" stroke="#dddddd"/>
-<text x="189.0" y="282.0" class="cell" fill="#202020">10</text>
+<text x="189.0" y="282.0" class="cell" style="fill:#202020">10</text>
 <rect x="206.4" y="270" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="220.4" y="282.0" class="cell" fill="#9a9a9a">—</text>
+<text x="220.4" y="282.0" class="cell" style="fill:#9a9a9a">—</text>
 <rect x="236.4" y="270" width="28.0" height="24" rx="2" fill="#d3d3d3" stroke="#dddddd"/>
-<text x="250.4" y="282.0" class="cell" fill="#202020">2</text>
+<text x="250.4" y="282.0" class="cell" style="fill:#202020">2</text>
 <rect x="266.4" y="270" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="280.4" y="282.0" class="cell" fill="#9a9a9a">—</text>
+<text x="280.4" y="282.0" class="cell" style="fill:#9a9a9a">—</text>
 <rect x="296.4" y="270" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="310.4" y="282.0" class="cell" fill="#9a9a9a">—</text>
+<text x="310.4" y="282.0" class="cell" style="fill:#9a9a9a">—</text>
 <rect x="326.4" y="270" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="340.4" y="282.0" class="cell" fill="#9a9a9a">—</text>
+<text x="340.4" y="282.0" class="cell" style="fill:#9a9a9a">—</text>
 <rect x="356.4" y="270" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="370.4" y="282.0" class="cell" fill="#9a9a9a">—</text>
+<text x="370.4" y="282.0" class="cell" style="fill:#9a9a9a">—</text>
 <rect x="386.4" y="270" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="400.4" y="282.0" class="cell" fill="#9a9a9a">—</text>
+<text x="400.4" y="282.0" class="cell" style="fill:#9a9a9a">—</text>
 <rect x="416.4" y="270" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="430.4" y="282.0" class="cell" fill="#9a9a9a">—</text>
+<text x="430.4" y="282.0" class="cell" style="fill:#9a9a9a">—</text>
 <rect x="452.4" y="270" width="40" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
 <text x="472.4" y="282.0" class="total">65</text>
   <g transform="translate(30.0 308.0) scale(0.9524) translate(-6.07 -0.00)">
@@ -227,25 +227,25 @@
 </g>
 <text x="126" y="308.0" class="rowlabel" dominant-baseline="central">krādi</text>
 <rect x="138.0" y="296" width="33.6" height="24" rx="2" fill="#989898" stroke="#dddddd"/>
-<text x="154.8" y="308.0" class="cell" fill="#202020">20</text>
+<text x="154.8" y="308.0" class="cell" style="fill:#202020">20</text>
 <rect x="173.6" y="296" width="30.8" height="24" rx="2" fill="#bababa" stroke="#dddddd"/>
-<text x="189.0" y="308.0" class="cell" fill="#202020">6</text>
+<text x="189.0" y="308.0" class="cell" style="fill:#202020">6</text>
 <rect x="206.4" y="296" width="28.0" height="24" rx="2" fill="#afafaf" stroke="#dddddd"/>
-<text x="220.4" y="308.0" class="cell" fill="#202020">9</text>
+<text x="220.4" y="308.0" class="cell" style="fill:#202020">9</text>
 <rect x="236.4" y="296" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="250.4" y="308.0" class="cell" fill="#9a9a9a">—</text>
+<text x="250.4" y="308.0" class="cell" style="fill:#9a9a9a">—</text>
 <rect x="266.4" y="296" width="28.0" height="24" rx="2" fill="#bababa" stroke="#dddddd"/>
-<text x="280.4" y="308.0" class="cell" fill="#202020">6</text>
+<text x="280.4" y="308.0" class="cell" style="fill:#202020">6</text>
 <rect x="296.4" y="296" width="28.0" height="24" rx="2" fill="#cbcbcb" stroke="#dddddd"/>
-<text x="310.4" y="308.0" class="cell" fill="#202020">3</text>
+<text x="310.4" y="308.0" class="cell" style="fill:#202020">3</text>
 <rect x="326.4" y="296" width="28.0" height="24" rx="2" fill="#a7a7a7" stroke="#dddddd"/>
-<text x="340.4" y="308.0" class="cell" fill="#202020">12</text>
+<text x="340.4" y="308.0" class="cell" style="fill:#202020">12</text>
 <rect x="356.4" y="296" width="28.0" height="24" rx="2" fill="#b6b6b6" stroke="#dddddd"/>
-<text x="370.4" y="308.0" class="cell" fill="#202020">7</text>
+<text x="370.4" y="308.0" class="cell" style="fill:#202020">7</text>
 <rect x="386.4" y="296" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="400.4" y="308.0" class="cell" fill="#9a9a9a">—</text>
+<text x="400.4" y="308.0" class="cell" style="fill:#9a9a9a">—</text>
 <rect x="416.4" y="296" width="28.0" height="24" rx="2" fill="#e0e0e0" stroke="#dddddd"/>
-<text x="430.4" y="308.0" class="cell" fill="#202020">1</text>
+<text x="430.4" y="308.0" class="cell" style="fill:#202020">1</text>
 <rect x="452.4" y="296" width="40" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
 <text x="472.4" y="308.0" class="total">64</text>
   <g transform="translate(30.0 334.0) scale(0.9524) translate(-10.10 -0.00)">
@@ -254,25 +254,25 @@
 </g>
 <text x="126" y="334.0" class="rowlabel" dominant-baseline="central">sthādi</text>
 <rect x="138.0" y="322" width="33.6" height="24" rx="2" fill="#949494" stroke="#dddddd"/>
-<text x="154.8" y="334.0" class="cell" fill="#202020">23</text>
+<text x="154.8" y="334.0" class="cell" style="fill:#202020">23</text>
 <rect x="173.6" y="322" width="30.8" height="24" rx="2" fill="#d3d3d3" stroke="#dddddd"/>
-<text x="189.0" y="334.0" class="cell" fill="#202020">2</text>
+<text x="189.0" y="334.0" class="cell" style="fill:#202020">2</text>
 <rect x="206.4" y="322" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="220.4" y="334.0" class="cell" fill="#9a9a9a">—</text>
+<text x="220.4" y="334.0" class="cell" style="fill:#9a9a9a">—</text>
 <rect x="236.4" y="322" width="28.0" height="24" rx="2" fill="#d3d3d3" stroke="#dddddd"/>
-<text x="250.4" y="334.0" class="cell" fill="#202020">2</text>
+<text x="250.4" y="334.0" class="cell" style="fill:#202020">2</text>
 <rect x="266.4" y="322" width="28.0" height="24" rx="2" fill="#b6b6b6" stroke="#dddddd"/>
-<text x="280.4" y="334.0" class="cell" fill="#202020">7</text>
+<text x="280.4" y="334.0" class="cell" style="fill:#202020">7</text>
 <rect x="296.4" y="322" width="28.0" height="24" rx="2" fill="#a5a5a5" stroke="#dddddd"/>
-<text x="310.4" y="334.0" class="cell" fill="#202020">13</text>
+<text x="310.4" y="334.0" class="cell" style="fill:#202020">13</text>
 <rect x="326.4" y="322" width="28.0" height="24" rx="2" fill="#e0e0e0" stroke="#dddddd"/>
-<text x="340.4" y="334.0" class="cell" fill="#202020">1</text>
+<text x="340.4" y="334.0" class="cell" style="fill:#202020">1</text>
 <rect x="356.4" y="322" width="28.0" height="24" rx="2" fill="#e0e0e0" stroke="#dddddd"/>
-<text x="370.4" y="334.0" class="cell" fill="#202020">1</text>
+<text x="370.4" y="334.0" class="cell" style="fill:#202020">1</text>
 <rect x="386.4" y="322" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="400.4" y="334.0" class="cell" fill="#9a9a9a">—</text>
+<text x="400.4" y="334.0" class="cell" style="fill:#9a9a9a">—</text>
 <rect x="416.4" y="322" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="430.4" y="334.0" class="cell" fill="#9a9a9a">—</text>
+<text x="430.4" y="334.0" class="cell" style="fill:#9a9a9a">—</text>
 <rect x="452.4" y="322" width="40" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
 <text x="472.4" y="334.0" class="total">49</text>
   <g transform="translate(30.0 360.0) scale(0.8909) translate(-12.12 -0.00)">
@@ -282,25 +282,25 @@
 </g>
 <text x="126" y="360.0" class="rowlabel" dominant-baseline="central">spardhādi</text>
 <rect x="138.0" y="348" width="33.6" height="24" rx="2" fill="#8e8e8e" stroke="#dddddd"/>
-<text x="154.8" y="360.0" class="cell" fill="#202020">29</text>
+<text x="154.8" y="360.0" class="cell" style="fill:#202020">29</text>
 <rect x="173.6" y="348" width="30.8" height="24" rx="2" fill="#afafaf" stroke="#dddddd"/>
-<text x="189.0" y="360.0" class="cell" fill="#202020">9</text>
+<text x="189.0" y="360.0" class="cell" style="fill:#202020">9</text>
 <rect x="206.4" y="348" width="28.0" height="24" rx="2" fill="#d3d3d3" stroke="#dddddd"/>
-<text x="220.4" y="360.0" class="cell" fill="#202020">2</text>
+<text x="220.4" y="360.0" class="cell" style="fill:#202020">2</text>
 <rect x="236.4" y="348" width="28.0" height="24" rx="2" fill="#e0e0e0" stroke="#dddddd"/>
-<text x="250.4" y="360.0" class="cell" fill="#202020">1</text>
+<text x="250.4" y="360.0" class="cell" style="fill:#202020">1</text>
 <rect x="266.4" y="348" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="280.4" y="360.0" class="cell" fill="#9a9a9a">—</text>
+<text x="280.4" y="360.0" class="cell" style="fill:#9a9a9a">—</text>
 <rect x="296.4" y="348" width="28.0" height="24" rx="2" fill="#b6b6b6" stroke="#dddddd"/>
-<text x="310.4" y="360.0" class="cell" fill="#202020">7</text>
+<text x="310.4" y="360.0" class="cell" style="fill:#202020">7</text>
 <rect x="326.4" y="348" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="340.4" y="360.0" class="cell" fill="#9a9a9a">—</text>
+<text x="340.4" y="360.0" class="cell" style="fill:#9a9a9a">—</text>
 <rect x="356.4" y="348" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="370.4" y="360.0" class="cell" fill="#9a9a9a">—</text>
+<text x="370.4" y="360.0" class="cell" style="fill:#9a9a9a">—</text>
 <rect x="386.4" y="348" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="400.4" y="360.0" class="cell" fill="#9a9a9a">—</text>
+<text x="400.4" y="360.0" class="cell" style="fill:#9a9a9a">—</text>
 <rect x="416.4" y="348" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="430.4" y="360.0" class="cell" fill="#9a9a9a">—</text>
+<text x="430.4" y="360.0" class="cell" style="fill:#9a9a9a">—</text>
 <rect x="452.4" y="348" width="40" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
 <text x="472.4" y="360.0" class="total">48</text>
 <text x="126" y="394.0" class="rowlabel" dominant-baseline="central">gaṇa total</text>
