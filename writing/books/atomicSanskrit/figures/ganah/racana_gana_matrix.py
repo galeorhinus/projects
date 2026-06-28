@@ -77,7 +77,8 @@ def text_color(value: int, max_value: int) -> str:
     if value <= 0:
         return "#9a9a9a"
     t = math.log(value + 1) / math.log(max_value + 1)
-    return "#ffffff" if t > 0.50 else "#202020"   # t>0.50 ≈ fill ≤ ~#989898
+    v = 245 - t * 185                              # the cell's gray value (see shade)
+    return "#ffffff" if v < 140 else "#202020"     # invert on the cell's own darkness
 
 
 def render_icon(icon_name: str, x: float, y: float, width: float, height: float,
@@ -111,23 +112,26 @@ def main() -> int:
     COL_GAP, ROW_GAP = 2, 2
     TOTAL_GAP, TOTAL_W = 8, 40
 
-    cells_w = n * (CELL_W + COL_GAP) - COL_GAP
-    total_x = LEFT + n * (CELL_W + COL_GAP) + TOTAL_GAP
+    # Widen the two busiest columns (bhvādi, curādi) for their big 3-digit cells.
+    col_scale = [1.2, 1.1] + [1.0] * (n - 2)
+    col_w = [CELL_W * s for s in col_scale]
+    col_x, x = [], LEFT
+    for cw in col_w:
+        col_x.append(x)
+        x += cw + COL_GAP
+    total_x = x - COL_GAP + TOTAL_GAP
     w = total_x + TOTAL_W + MARGIN
 
-    # Fonts (px). pt = px * 324 / w  (≈ px * 0.65 at w≈498).
+    # Fonts (px). pt = px * 324 / w  (≈ px * 0.64 at w≈505).
     fs_title, fs_sub = 16, 13
     fs_head, fs_row = 15, 15         # gaṇa headers == row labels
     fs_cell, fs_total = 14, 14
-    fs_src = 12.5
 
-    title_y, sub_y = 18, 33
-    header_h = 66                    # vertical room for the angled gaṇa headers
-    cells_top = sub_y + header_h
+    title_y, sub_y = 16, 31          # title/subtitle near the top
+    cells_top = 114                  # leaves room for the angled gaṇa headers
     cells_bottom = cells_top + n * (CELL_H + ROW_GAP)
     gtot_y = cells_bottom + 8
-    src_y = gtot_y + CELL_H + 24     # source sits well below the gaṇa-total row
-    h = src_y + fs_src + 12          # room for the two-line source note
+    h = gtot_y + CELL_H + MARGIN     # ends at the gaṇa-total row (no source note)
 
     P: list[str] = []
     P.append(f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}">')
@@ -140,7 +144,6 @@ def main() -> int:
   .rowlabel {{ font-size: {fs_row}px; font-weight: 700; text-anchor: end; }}
   .cell {{ font-size: {fs_cell}px; font-weight: 700; text-anchor: middle; dominant-baseline: central; }}
   .total {{ font-size: {fs_total}px; font-weight: 700; text-anchor: middle; dominant-baseline: central; }}
-  .src {{ font-size: {fs_src}px; fill: #555; }}
 </style>
 """)
     P.append(f'<rect x="0" y="0" width="100%" height="100%" fill="{ms.BG}"/>')
@@ -154,7 +157,7 @@ def main() -> int:
                 f'transform="rotate(45 {cx:.1f} {ay:.1f})">{esc(text)}</text>')
 
     for j, gana in enumerate(sorted_ganas):
-        cx = LEFT + j * (CELL_W + COL_GAP) + CELL_W / 2
+        cx = col_x[j] + col_w[j] / 2
         P.append(angled(f"{GANA_NAMES[gana]} · {gana}", cx))
     P.append(angled("total racanā", total_x + TOTAL_W / 2))
 
@@ -168,11 +171,11 @@ def main() -> int:
 
         for j, gana in enumerate(sorted_ganas):
             value = rows[racana][gana]
-            x = LEFT + j * (CELL_W + COL_GAP)
-            P.append(f'<rect x="{x}" y="{y}" width="{CELL_W}" height="{CELL_H}" rx="2" '
+            x, cw = col_x[j], col_w[j]
+            P.append(f'<rect x="{x:.1f}" y="{y}" width="{cw:.1f}" height="{CELL_H}" rx="2" '
                      f'fill="{shade(value, max_cell)}" stroke="#dddddd"/>')
             label = "—" if value == 0 else str(value)
-            P.append(f'<text x="{x + CELL_W / 2:.1f}" y="{mid:.1f}" class="cell" '
+            P.append(f'<text x="{x + cw / 2:.1f}" y="{mid:.1f}" class="cell" '
                      f'fill="{text_color(value, max_cell)}">{label}</text>')
 
         rt = rows[racana]["row_total"]
@@ -184,19 +187,16 @@ def main() -> int:
     gmid = gtot_y + CELL_H / 2
     P.append(f'<text x="{LABEL_RIGHT}" y="{gmid:.1f}" class="rowlabel" dominant-baseline="central">gaṇa total</text>')
     for j, gana in enumerate(sorted_ganas):
-        x = LEFT + j * (CELL_W + COL_GAP)
-        P.append(f'<rect x="{x}" y="{gtot_y}" width="{CELL_W}" height="{CELL_H}" rx="2" '
+        x, cw = col_x[j], col_w[j]
+        P.append(f'<rect x="{x:.1f}" y="{gtot_y}" width="{cw:.1f}" height="{CELL_H}" rx="2" '
                  f'fill="#eeeeee" stroke="#dddddd"/>')
-        P.append(f'<text x="{x + CELL_W / 2:.1f}" y="{gmid:.1f}" class="total">{totals[gana]}</text>')
+        P.append(f'<text x="{x + cw / 2:.1f}" y="{gmid:.1f}" class="total">{totals[gana]}</text>')
 
     top10_total = sum(rows[r]["row_total"] for r, _n, _i in TOP_TEN)
     P.append(f'<rect x="{total_x}" y="{gtot_y}" width="{TOTAL_W}" height="{CELL_H}" rx="2" '
              f'fill="#dddddd" stroke="#cccccc"/>')
     P.append(f'<text x="{total_x + TOTAL_W / 2:.1f}" y="{gmid:.1f}" class="total">{top10_total}</text>')
 
-    P.append(f'<text x="{MARGIN}" y="{src_y}" class="src">Source: analysis/dhatupatha/data/derived/racana_by_gana.csv</text>')
-    P.append(f'<text x="{MARGIN}" y="{src_y + fs_src + 4}" class="src">'
-             f'Top ten racanāḥ cover {top10_total}/2168 = 91.01% of the Dhātupāṭha inventory.</text>')
     P.append("</svg>\n")
 
     SVG_OUT.write_text("\n".join(P), encoding="utf-8")

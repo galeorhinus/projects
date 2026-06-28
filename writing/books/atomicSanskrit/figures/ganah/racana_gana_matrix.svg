@@ -1,7 +1,7 @@
 <!-- lineage: py
      canonical-source: racana_gana_matrix.from-py.svg
      updated: 2026-06-27 -->
-<svg xmlns="http://www.w3.org/2000/svg" width="498" height="439.5" viewBox="0 0 498 439.5">
+<svg xmlns="http://www.w3.org/2000/svg" width="504.4" height="418" viewBox="0 0 504.4 418">
 
 <style>
   text { font-family: Charter, "DejaVu Serif", serif; fill: #222; }
@@ -11,322 +11,319 @@
   .rowlabel { font-size: 15px; font-weight: 700; text-anchor: end; }
   .cell { font-size: 14px; font-weight: 700; text-anchor: middle; dominant-baseline: central; }
   .total { font-size: 14px; font-weight: 700; text-anchor: middle; dominant-baseline: central; }
-  .src { font-size: 12.5px; fill: #555; }
 </style>
 
 <rect x="0" y="0" width="100%" height="100%" fill="#ffffff"/>
-<text x="12" y="18" class="title">Racanā × Gaṇa Matrix</text>
-<text x="12" y="33" class="subtitle">Top ten scaffolds across Pāṇini’s ten operational classes</text>
-<text x="152.0" y="95.0" class="ghead" text-anchor="end" transform="rotate(45 152.0 95.0)">bhvādi · 1</text>
-<text x="182.0" y="95.0" class="ghead" text-anchor="end" transform="rotate(45 182.0 95.0)">curādi · 10</text>
-<text x="212.0" y="95.0" class="ghead" text-anchor="end" transform="rotate(45 212.0 95.0)">tudādi · 6</text>
-<text x="242.0" y="95.0" class="ghead" text-anchor="end" transform="rotate(45 242.0 95.0)">divādi · 4</text>
-<text x="272.0" y="95.0" class="ghead" text-anchor="end" transform="rotate(45 272.0 95.0)">adādi · 2</text>
-<text x="302.0" y="95.0" class="ghead" text-anchor="end" transform="rotate(45 302.0 95.0)">kryādi · 9</text>
-<text x="332.0" y="95.0" class="ghead" text-anchor="end" transform="rotate(45 332.0 95.0)">svādi · 5</text>
-<text x="362.0" y="95.0" class="ghead" text-anchor="end" transform="rotate(45 362.0 95.0)">juhotyādi · 3</text>
-<text x="392.0" y="95.0" class="ghead" text-anchor="end" transform="rotate(45 392.0 95.0)">rudhādi · 7</text>
-<text x="422.0" y="95.0" class="ghead" text-anchor="end" transform="rotate(45 422.0 95.0)">tanādi · 8</text>
-<text x="466.0" y="95.0" class="ghead" text-anchor="end" transform="rotate(45 466.0 95.0)">total racanā</text>
-  <g transform="translate(30.0 111.0) scale(0.9524) translate(-10.11 -0.00)">
+<text x="12" y="16" class="title">Racanā × Gaṇa Matrix</text>
+<text x="12" y="31" class="subtitle">Top ten scaffolds across Pāṇini’s ten operational classes</text>
+<text x="154.8" y="110.0" class="ghead" text-anchor="end" transform="rotate(45 154.8 110.0)">bhvādi · 1</text>
+<text x="189.0" y="110.0" class="ghead" text-anchor="end" transform="rotate(45 189.0 110.0)">curādi · 10</text>
+<text x="220.4" y="110.0" class="ghead" text-anchor="end" transform="rotate(45 220.4 110.0)">tudādi · 6</text>
+<text x="250.4" y="110.0" class="ghead" text-anchor="end" transform="rotate(45 250.4 110.0)">divādi · 4</text>
+<text x="280.4" y="110.0" class="ghead" text-anchor="end" transform="rotate(45 280.4 110.0)">adādi · 2</text>
+<text x="310.4" y="110.0" class="ghead" text-anchor="end" transform="rotate(45 310.4 110.0)">kryādi · 9</text>
+<text x="340.4" y="110.0" class="ghead" text-anchor="end" transform="rotate(45 340.4 110.0)">svādi · 5</text>
+<text x="370.4" y="110.0" class="ghead" text-anchor="end" transform="rotate(45 370.4 110.0)">juhotyādi · 3</text>
+<text x="400.4" y="110.0" class="ghead" text-anchor="end" transform="rotate(45 400.4 110.0)">rudhādi · 7</text>
+<text x="430.4" y="110.0" class="ghead" text-anchor="end" transform="rotate(45 430.4 110.0)">tanādi · 8</text>
+<text x="472.4" y="110.0" class="ghead" text-anchor="end" transform="rotate(45 472.4 110.0)">total racanā</text>
+  <g transform="translate(30.0 126.0) scale(0.9524) translate(-10.11 -0.00)">
 <polygon points="-2.02,-10.50 2.02,-10.50 6.06,-3.50 2.02,3.50 -2.02,3.50 -6.06,-3.50" fill="#a8842c"/>
 <polygon points="6.06,-3.50 14.15,-3.50 18.19,3.50 14.15,10.50 6.06,10.50 2.02,3.50" fill="#a8842c"/>
 <polygon points="18.19,-10.50 22.23,-10.50 26.27,-3.50 22.23,3.50 18.19,3.50 14.15,-3.50" fill="#a8842c"/>
 </g>
-<text x="126" y="111.0" class="rowlabel" dominant-baseline="central">gamādi</text>
-<rect x="138" y="99" width="28" height="24" rx="2" fill="#3c3c3c" stroke="#dddddd"/>
-<text x="152.0" y="111.0" class="cell" fill="#ffffff">452</text>
-<rect x="168" y="99" width="28" height="24" rx="2" fill="#515151" stroke="#dddddd"/>
-<text x="182.0" y="111.0" class="cell" fill="#ffffff">218</text>
-<rect x="198" y="99" width="28" height="24" rx="2" fill="#676767" stroke="#dddddd"/>
-<text x="212.0" y="111.0" class="cell" fill="#ffffff">105</text>
-<rect x="228" y="99" width="28" height="24" rx="2" fill="#717171" stroke="#dddddd"/>
-<text x="242.0" y="111.0" class="cell" fill="#ffffff">75</text>
-<rect x="258" y="99" width="28" height="24" rx="2" fill="#969696" stroke="#dddddd"/>
-<text x="272.0" y="111.0" class="cell" fill="#ffffff">22</text>
-<rect x="288" y="99" width="28" height="24" rx="2" fill="#a9a9a9" stroke="#dddddd"/>
-<text x="302.0" y="111.0" class="cell" fill="#202020">11</text>
-<rect x="318" y="99" width="28" height="24" rx="2" fill="#acacac" stroke="#dddddd"/>
-<text x="332.0" y="111.0" class="cell" fill="#202020">10</text>
-<rect x="348" y="99" width="28" height="24" rx="2" fill="#b2b2b2" stroke="#dddddd"/>
-<text x="362.0" y="111.0" class="cell" fill="#202020">8</text>
-<rect x="378" y="99" width="28" height="24" rx="2" fill="#9a9a9a" stroke="#dddddd"/>
-<text x="392.0" y="111.0" class="cell" fill="#202020">19</text>
-<rect x="408" y="99" width="28" height="24" rx="2" fill="#bababa" stroke="#dddddd"/>
-<text x="422.0" y="111.0" class="cell" fill="#202020">6</text>
-<rect x="446" y="99" width="40" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
-<text x="466.0" y="111.0" class="total">926</text>
-  <g transform="translate(30.0 137.0) scale(0.9524) translate(-10.10 -0.00)">
+<text x="126" y="126.0" class="rowlabel" dominant-baseline="central">gamādi</text>
+<rect x="138.0" y="114" width="33.6" height="24" rx="2" fill="#3c3c3c" stroke="#dddddd"/>
+<text x="154.8" y="126.0" class="cell" fill="#ffffff">452</text>
+<rect x="173.6" y="114" width="30.8" height="24" rx="2" fill="#515151" stroke="#dddddd"/>
+<text x="189.0" y="126.0" class="cell" fill="#ffffff">218</text>
+<rect x="206.4" y="114" width="28.0" height="24" rx="2" fill="#676767" stroke="#dddddd"/>
+<text x="220.4" y="126.0" class="cell" fill="#ffffff">105</text>
+<rect x="236.4" y="114" width="28.0" height="24" rx="2" fill="#717171" stroke="#dddddd"/>
+<text x="250.4" y="126.0" class="cell" fill="#ffffff">75</text>
+<rect x="266.4" y="114" width="28.0" height="24" rx="2" fill="#969696" stroke="#dddddd"/>
+<text x="280.4" y="126.0" class="cell" fill="#202020">22</text>
+<rect x="296.4" y="114" width="28.0" height="24" rx="2" fill="#a9a9a9" stroke="#dddddd"/>
+<text x="310.4" y="126.0" class="cell" fill="#202020">11</text>
+<rect x="326.4" y="114" width="28.0" height="24" rx="2" fill="#acacac" stroke="#dddddd"/>
+<text x="340.4" y="126.0" class="cell" fill="#202020">10</text>
+<rect x="356.4" y="114" width="28.0" height="24" rx="2" fill="#b2b2b2" stroke="#dddddd"/>
+<text x="370.4" y="126.0" class="cell" fill="#202020">8</text>
+<rect x="386.4" y="114" width="28.0" height="24" rx="2" fill="#9a9a9a" stroke="#dddddd"/>
+<text x="400.4" y="126.0" class="cell" fill="#202020">19</text>
+<rect x="416.4" y="114" width="28.0" height="24" rx="2" fill="#bababa" stroke="#dddddd"/>
+<text x="430.4" y="126.0" class="cell" fill="#202020">6</text>
+<rect x="452.4" y="114" width="40" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
+<text x="472.4" y="126.0" class="total">926</text>
+  <g transform="translate(30.0 152.0) scale(0.9524) translate(-10.10 -0.00)">
 <polygon points="-4.04,-10.50 4.04,-10.50 8.08,-3.50 4.04,3.50 -4.04,3.50 -8.08,-3.50" fill="#a8842c"/>
 <polygon points="8.08,-3.50 16.17,-3.50 20.21,3.50 16.17,10.50 8.08,10.50 4.04,3.50" fill="#a8842c"/>
 <polygon points="20.21,-10.50 24.25,-10.50 28.29,-3.50 24.25,3.50 20.21,3.50 16.17,-3.50" fill="#a8842c"/>
 </g>
-<text x="126" y="137.0" class="rowlabel" dominant-baseline="central">spadādi</text>
-<rect x="138" y="125" width="28" height="24" rx="2" fill="#616161" stroke="#dddddd"/>
-<text x="152.0" y="137.0" class="cell" fill="#ffffff">130</text>
-<rect x="168" y="125" width="28" height="24" rx="2" fill="#838383" stroke="#dddddd"/>
-<text x="182.0" y="137.0" class="cell" fill="#ffffff">41</text>
-<rect x="198" y="125" width="28" height="24" rx="2" fill="#9b9b9b" stroke="#dddddd"/>
-<text x="212.0" y="137.0" class="cell" fill="#202020">18</text>
-<rect x="228" y="125" width="28" height="24" rx="2" fill="#8d8d8d" stroke="#dddddd"/>
-<text x="242.0" y="137.0" class="cell" fill="#ffffff">30</text>
-<rect x="258" y="125" width="28" height="24" rx="2" fill="#cbcbcb" stroke="#dddddd"/>
-<text x="272.0" y="137.0" class="cell" fill="#202020">3</text>
-<rect x="288" y="125" width="28" height="24" rx="2" fill="#bababa" stroke="#dddddd"/>
-<text x="302.0" y="137.0" class="cell" fill="#202020">6</text>
-<rect x="318" y="125" width="28" height="24" rx="2" fill="#e0e0e0" stroke="#dddddd"/>
-<text x="332.0" y="137.0" class="cell" fill="#202020">1</text>
-<rect x="348" y="125" width="28" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="362.0" y="137.0" class="cell" fill="#9a9a9a">—</text>
-<rect x="378" y="125" width="28" height="24" rx="2" fill="#e0e0e0" stroke="#dddddd"/>
-<text x="392.0" y="137.0" class="cell" fill="#202020">1</text>
-<rect x="408" y="125" width="28" height="24" rx="2" fill="#d3d3d3" stroke="#dddddd"/>
-<text x="422.0" y="137.0" class="cell" fill="#202020">2</text>
-<rect x="446" y="125" width="40" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
-<text x="466.0" y="137.0" class="total">232</text>
-  <g transform="translate(30.0 163.0) scale(0.9524) translate(-12.12 -0.00)">
+<text x="126" y="152.0" class="rowlabel" dominant-baseline="central">spadādi</text>
+<rect x="138.0" y="140" width="33.6" height="24" rx="2" fill="#616161" stroke="#dddddd"/>
+<text x="154.8" y="152.0" class="cell" fill="#ffffff">130</text>
+<rect x="173.6" y="140" width="30.8" height="24" rx="2" fill="#838383" stroke="#dddddd"/>
+<text x="189.0" y="152.0" class="cell" fill="#ffffff">41</text>
+<rect x="206.4" y="140" width="28.0" height="24" rx="2" fill="#9b9b9b" stroke="#dddddd"/>
+<text x="220.4" y="152.0" class="cell" fill="#202020">18</text>
+<rect x="236.4" y="140" width="28.0" height="24" rx="2" fill="#8d8d8d" stroke="#dddddd"/>
+<text x="250.4" y="152.0" class="cell" fill="#202020">30</text>
+<rect x="266.4" y="140" width="28.0" height="24" rx="2" fill="#cbcbcb" stroke="#dddddd"/>
+<text x="280.4" y="152.0" class="cell" fill="#202020">3</text>
+<rect x="296.4" y="140" width="28.0" height="24" rx="2" fill="#bababa" stroke="#dddddd"/>
+<text x="310.4" y="152.0" class="cell" fill="#202020">6</text>
+<rect x="326.4" y="140" width="28.0" height="24" rx="2" fill="#e0e0e0" stroke="#dddddd"/>
+<text x="340.4" y="152.0" class="cell" fill="#202020">1</text>
+<rect x="356.4" y="140" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
+<text x="370.4" y="152.0" class="cell" fill="#9a9a9a">—</text>
+<rect x="386.4" y="140" width="28.0" height="24" rx="2" fill="#e0e0e0" stroke="#dddddd"/>
+<text x="400.4" y="152.0" class="cell" fill="#202020">1</text>
+<rect x="416.4" y="140" width="28.0" height="24" rx="2" fill="#d3d3d3" stroke="#dddddd"/>
+<text x="430.4" y="152.0" class="cell" fill="#202020">2</text>
+<rect x="452.4" y="140" width="40" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
+<text x="472.4" y="152.0" class="total">232</text>
+  <g transform="translate(30.0 178.0) scale(0.9524) translate(-12.12 -0.00)">
 <polygon points="-2.02,-10.50 2.02,-10.50 6.06,-3.50 2.02,3.50 -2.02,3.50 -6.06,-3.50" fill="#a8842c"/>
 <polygon points="6.06,-3.50 14.15,-3.50 18.19,3.50 14.15,10.50 6.06,10.50 2.02,3.50" fill="#a8842c"/>
 <polygon points="18.19,-10.50 26.27,-10.50 30.31,-3.50 26.27,3.50 18.19,3.50 14.15,-3.50" fill="#a8842c"/>
 </g>
-<text x="126" y="163.0" class="rowlabel" dominant-baseline="central">manthādi</text>
-<rect x="138" y="151" width="28" height="24" rx="2" fill="#656565" stroke="#dddddd"/>
-<text x="152.0" y="163.0" class="cell" fill="#ffffff">114</text>
-<rect x="168" y="151" width="28" height="24" rx="2" fill="#717171" stroke="#dddddd"/>
-<text x="182.0" y="163.0" class="cell" fill="#ffffff">75</text>
-<rect x="198" y="151" width="28" height="24" rx="2" fill="#a1a1a1" stroke="#dddddd"/>
-<text x="212.0" y="163.0" class="cell" fill="#202020">15</text>
-<rect x="228" y="151" width="28" height="24" rx="2" fill="#cbcbcb" stroke="#dddddd"/>
-<text x="242.0" y="163.0" class="cell" fill="#202020">3</text>
-<rect x="258" y="151" width="28" height="24" rx="2" fill="#cbcbcb" stroke="#dddddd"/>
-<text x="272.0" y="163.0" class="cell" fill="#202020">3</text>
-<rect x="288" y="151" width="28" height="24" rx="2" fill="#cbcbcb" stroke="#dddddd"/>
-<text x="302.0" y="163.0" class="cell" fill="#202020">3</text>
-<rect x="318" y="151" width="28" height="24" rx="2" fill="#e0e0e0" stroke="#dddddd"/>
-<text x="332.0" y="163.0" class="cell" fill="#202020">1</text>
-<rect x="348" y="151" width="28" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="362.0" y="163.0" class="cell" fill="#9a9a9a">—</text>
-<rect x="378" y="151" width="28" height="24" rx="2" fill="#d3d3d3" stroke="#dddddd"/>
-<text x="392.0" y="163.0" class="cell" fill="#202020">2</text>
-<rect x="408" y="151" width="28" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="422.0" y="163.0" class="cell" fill="#9a9a9a">—</text>
-<rect x="446" y="151" width="40" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
-<text x="466.0" y="163.0" class="total">216</text>
-  <g transform="translate(30.0 189.0) scale(0.8909) translate(-14.14 -0.00)">
+<text x="126" y="178.0" class="rowlabel" dominant-baseline="central">manthādi</text>
+<rect x="138.0" y="166" width="33.6" height="24" rx="2" fill="#656565" stroke="#dddddd"/>
+<text x="154.8" y="178.0" class="cell" fill="#ffffff">114</text>
+<rect x="173.6" y="166" width="30.8" height="24" rx="2" fill="#717171" stroke="#dddddd"/>
+<text x="189.0" y="178.0" class="cell" fill="#ffffff">75</text>
+<rect x="206.4" y="166" width="28.0" height="24" rx="2" fill="#a1a1a1" stroke="#dddddd"/>
+<text x="220.4" y="178.0" class="cell" fill="#202020">15</text>
+<rect x="236.4" y="166" width="28.0" height="24" rx="2" fill="#cbcbcb" stroke="#dddddd"/>
+<text x="250.4" y="178.0" class="cell" fill="#202020">3</text>
+<rect x="266.4" y="166" width="28.0" height="24" rx="2" fill="#cbcbcb" stroke="#dddddd"/>
+<text x="280.4" y="178.0" class="cell" fill="#202020">3</text>
+<rect x="296.4" y="166" width="28.0" height="24" rx="2" fill="#cbcbcb" stroke="#dddddd"/>
+<text x="310.4" y="178.0" class="cell" fill="#202020">3</text>
+<rect x="326.4" y="166" width="28.0" height="24" rx="2" fill="#e0e0e0" stroke="#dddddd"/>
+<text x="340.4" y="178.0" class="cell" fill="#202020">1</text>
+<rect x="356.4" y="166" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
+<text x="370.4" y="178.0" class="cell" fill="#9a9a9a">—</text>
+<rect x="386.4" y="166" width="28.0" height="24" rx="2" fill="#d3d3d3" stroke="#dddddd"/>
+<text x="400.4" y="178.0" class="cell" fill="#202020">2</text>
+<rect x="416.4" y="166" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
+<text x="430.4" y="178.0" class="cell" fill="#9a9a9a">—</text>
+<rect x="452.4" y="166" width="40" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
+<text x="472.4" y="178.0" class="total">216</text>
+  <g transform="translate(30.0 204.0) scale(0.8909) translate(-14.14 -0.00)">
 <polygon points="-2.02,-10.50 2.02,-10.50 6.06,-3.50 2.02,3.50 -2.02,3.50 -6.06,-3.50" fill="#a8842c"/>
 <polygon points="6.06,-3.50 22.23,-3.50 26.27,3.50 22.23,10.50 6.06,10.50 2.02,3.50" fill="#a8842c"/>
 <polygon points="26.27,-10.50 30.31,-10.50 34.35,-3.50 30.31,3.50 26.27,3.50 22.23,-3.50" fill="#a8842c"/>
 </g>
-<text x="126" y="189.0" class="rowlabel" dominant-baseline="central">vācādi</text>
-<rect x="138" y="177" width="28" height="24" rx="2" fill="#5e5e5e" stroke="#dddddd"/>
-<text x="152.0" y="189.0" class="cell" fill="#ffffff">146</text>
-<rect x="168" y="177" width="28" height="24" rx="2" fill="#7d7d7d" stroke="#dddddd"/>
-<text x="182.0" y="189.0" class="cell" fill="#ffffff">51</text>
-<rect x="198" y="177" width="28" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="212.0" y="189.0" class="cell" fill="#9a9a9a">—</text>
-<rect x="228" y="177" width="28" height="24" rx="2" fill="#acacac" stroke="#dddddd"/>
-<text x="242.0" y="189.0" class="cell" fill="#202020">10</text>
-<rect x="258" y="177" width="28" height="24" rx="2" fill="#d3d3d3" stroke="#dddddd"/>
-<text x="272.0" y="189.0" class="cell" fill="#202020">2</text>
-<rect x="288" y="177" width="28" height="24" rx="2" fill="#e0e0e0" stroke="#dddddd"/>
-<text x="302.0" y="189.0" class="cell" fill="#202020">1</text>
-<rect x="318" y="177" width="28" height="24" rx="2" fill="#cbcbcb" stroke="#dddddd"/>
-<text x="332.0" y="189.0" class="cell" fill="#202020">3</text>
-<rect x="348" y="177" width="28" height="24" rx="2" fill="#e0e0e0" stroke="#dddddd"/>
-<text x="362.0" y="189.0" class="cell" fill="#202020">1</text>
-<rect x="378" y="177" width="28" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="392.0" y="189.0" class="cell" fill="#9a9a9a">—</text>
-<rect x="408" y="177" width="28" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="422.0" y="189.0" class="cell" fill="#9a9a9a">—</text>
-<rect x="446" y="177" width="40" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
-<text x="466.0" y="189.0" class="total">214</text>
-  <g transform="translate(30.0 215.0) scale(0.9524) translate(-10.11 -0.00)">
+<text x="126" y="204.0" class="rowlabel" dominant-baseline="central">vācādi</text>
+<rect x="138.0" y="192" width="33.6" height="24" rx="2" fill="#5e5e5e" stroke="#dddddd"/>
+<text x="154.8" y="204.0" class="cell" fill="#ffffff">146</text>
+<rect x="173.6" y="192" width="30.8" height="24" rx="2" fill="#7d7d7d" stroke="#dddddd"/>
+<text x="189.0" y="204.0" class="cell" fill="#ffffff">51</text>
+<rect x="206.4" y="192" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
+<text x="220.4" y="204.0" class="cell" fill="#9a9a9a">—</text>
+<rect x="236.4" y="192" width="28.0" height="24" rx="2" fill="#acacac" stroke="#dddddd"/>
+<text x="250.4" y="204.0" class="cell" fill="#202020">10</text>
+<rect x="266.4" y="192" width="28.0" height="24" rx="2" fill="#d3d3d3" stroke="#dddddd"/>
+<text x="280.4" y="204.0" class="cell" fill="#202020">2</text>
+<rect x="296.4" y="192" width="28.0" height="24" rx="2" fill="#e0e0e0" stroke="#dddddd"/>
+<text x="310.4" y="204.0" class="cell" fill="#202020">1</text>
+<rect x="326.4" y="192" width="28.0" height="24" rx="2" fill="#cbcbcb" stroke="#dddddd"/>
+<text x="340.4" y="204.0" class="cell" fill="#202020">3</text>
+<rect x="356.4" y="192" width="28.0" height="24" rx="2" fill="#e0e0e0" stroke="#dddddd"/>
+<text x="370.4" y="204.0" class="cell" fill="#202020">1</text>
+<rect x="386.4" y="192" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
+<text x="400.4" y="204.0" class="cell" fill="#9a9a9a">—</text>
+<rect x="416.4" y="192" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
+<text x="430.4" y="204.0" class="cell" fill="#9a9a9a">—</text>
+<rect x="452.4" y="192" width="40" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
+<text x="472.4" y="204.0" class="total">214</text>
+  <g transform="translate(30.0 230.0) scale(0.9524) translate(-10.11 -0.00)">
 <polygon points="-2.02,-10.50 2.02,-10.50 6.06,-3.50 2.02,3.50 -2.02,3.50 -6.06,-3.50" fill="#a8842c"/>
 <polygon points="6.06,-3.50 22.23,-3.50 26.27,3.50 22.23,10.50 6.06,10.50 2.02,3.50" fill="#a8842c"/>
 </g>
-<text x="126" y="215.0" class="rowlabel" dominant-baseline="central">dhādi</text>
-<rect x="138" y="203" width="28" height="24" rx="2" fill="#939393" stroke="#dddddd"/>
-<text x="152.0" y="215.0" class="cell" fill="#ffffff">24</text>
-<rect x="168" y="203" width="28" height="24" rx="2" fill="#cbcbcb" stroke="#dddddd"/>
-<text x="182.0" y="215.0" class="cell" fill="#202020">3</text>
-<rect x="198" y="203" width="28" height="24" rx="2" fill="#bababa" stroke="#dddddd"/>
-<text x="212.0" y="215.0" class="cell" fill="#202020">6</text>
-<rect x="228" y="203" width="28" height="24" rx="2" fill="#9f9f9f" stroke="#dddddd"/>
-<text x="242.0" y="215.0" class="cell" fill="#202020">16</text>
-<rect x="258" y="203" width="28" height="24" rx="2" fill="#acacac" stroke="#dddddd"/>
-<text x="272.0" y="215.0" class="cell" fill="#202020">10</text>
-<rect x="288" y="203" width="28" height="24" rx="2" fill="#979797" stroke="#dddddd"/>
-<text x="302.0" y="215.0" class="cell" fill="#ffffff">21</text>
-<rect x="318" y="203" width="28" height="24" rx="2" fill="#d3d3d3" stroke="#dddddd"/>
-<text x="332.0" y="215.0" class="cell" fill="#202020">2</text>
-<rect x="348" y="203" width="28" height="24" rx="2" fill="#b6b6b6" stroke="#dddddd"/>
-<text x="362.0" y="215.0" class="cell" fill="#202020">7</text>
-<rect x="378" y="203" width="28" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="392.0" y="215.0" class="cell" fill="#9a9a9a">—</text>
-<rect x="408" y="203" width="28" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="422.0" y="215.0" class="cell" fill="#9a9a9a">—</text>
-<rect x="446" y="203" width="40" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
-<text x="466.0" y="215.0" class="total">89</text>
-  <g transform="translate(30.0 241.0) scale(0.9524) translate(-4.04 -0.00)">
+<text x="126" y="230.0" class="rowlabel" dominant-baseline="central">dhādi</text>
+<rect x="138.0" y="218" width="33.6" height="24" rx="2" fill="#939393" stroke="#dddddd"/>
+<text x="154.8" y="230.0" class="cell" fill="#202020">24</text>
+<rect x="173.6" y="218" width="30.8" height="24" rx="2" fill="#cbcbcb" stroke="#dddddd"/>
+<text x="189.0" y="230.0" class="cell" fill="#202020">3</text>
+<rect x="206.4" y="218" width="28.0" height="24" rx="2" fill="#bababa" stroke="#dddddd"/>
+<text x="220.4" y="230.0" class="cell" fill="#202020">6</text>
+<rect x="236.4" y="218" width="28.0" height="24" rx="2" fill="#9f9f9f" stroke="#dddddd"/>
+<text x="250.4" y="230.0" class="cell" fill="#202020">16</text>
+<rect x="266.4" y="218" width="28.0" height="24" rx="2" fill="#acacac" stroke="#dddddd"/>
+<text x="280.4" y="230.0" class="cell" fill="#202020">10</text>
+<rect x="296.4" y="218" width="28.0" height="24" rx="2" fill="#979797" stroke="#dddddd"/>
+<text x="310.4" y="230.0" class="cell" fill="#202020">21</text>
+<rect x="326.4" y="218" width="28.0" height="24" rx="2" fill="#d3d3d3" stroke="#dddddd"/>
+<text x="340.4" y="230.0" class="cell" fill="#202020">2</text>
+<rect x="356.4" y="218" width="28.0" height="24" rx="2" fill="#b6b6b6" stroke="#dddddd"/>
+<text x="370.4" y="230.0" class="cell" fill="#202020">7</text>
+<rect x="386.4" y="218" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
+<text x="400.4" y="230.0" class="cell" fill="#9a9a9a">—</text>
+<rect x="416.4" y="218" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
+<text x="430.4" y="230.0" class="cell" fill="#9a9a9a">—</text>
+<rect x="452.4" y="218" width="40" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
+<text x="472.4" y="230.0" class="total">89</text>
+  <g transform="translate(30.0 256.0) scale(0.9524) translate(-4.04 -0.00)">
 <polygon points="-4.04,-3.50 4.04,-3.50 8.08,3.50 4.04,10.50 -4.04,10.50 -8.08,3.50" fill="#a8842c"/>
 <polygon points="8.08,-10.50 12.12,-10.50 16.17,-3.50 12.12,3.50 8.08,3.50 4.04,-3.50" fill="#a8842c"/>
 </g>
-<text x="126" y="241.0" class="rowlabel" dominant-baseline="central">iṣādi</text>
-<rect x="138" y="229" width="28" height="24" rx="2" fill="#838383" stroke="#dddddd"/>
-<text x="152.0" y="241.0" class="cell" fill="#ffffff">41</text>
-<rect x="168" y="229" width="28" height="24" rx="2" fill="#c4c4c4" stroke="#dddddd"/>
-<text x="182.0" y="241.0" class="cell" fill="#202020">4</text>
-<rect x="198" y="229" width="28" height="24" rx="2" fill="#afafaf" stroke="#dddddd"/>
-<text x="212.0" y="241.0" class="cell" fill="#202020">9</text>
-<rect x="228" y="229" width="28" height="24" rx="2" fill="#bebebe" stroke="#dddddd"/>
-<text x="242.0" y="241.0" class="cell" fill="#202020">5</text>
-<rect x="258" y="229" width="28" height="24" rx="2" fill="#bebebe" stroke="#dddddd"/>
-<text x="272.0" y="241.0" class="cell" fill="#202020">5</text>
-<rect x="288" y="229" width="28" height="24" rx="2" fill="#d3d3d3" stroke="#dddddd"/>
-<text x="302.0" y="241.0" class="cell" fill="#202020">2</text>
-<rect x="318" y="229" width="28" height="24" rx="2" fill="#cbcbcb" stroke="#dddddd"/>
-<text x="332.0" y="241.0" class="cell" fill="#202020">3</text>
-<rect x="348" y="229" width="28" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="362.0" y="241.0" class="cell" fill="#9a9a9a">—</text>
-<rect x="378" y="229" width="28" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="392.0" y="241.0" class="cell" fill="#9a9a9a">—</text>
-<rect x="408" y="229" width="28" height="24" rx="2" fill="#e0e0e0" stroke="#dddddd"/>
-<text x="422.0" y="241.0" class="cell" fill="#202020">1</text>
-<rect x="446" y="229" width="40" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
-<text x="466.0" y="241.0" class="total">70</text>
-  <g transform="translate(30.0 267.0) scale(0.8097) translate(-14.15 -0.00)">
+<text x="126" y="256.0" class="rowlabel" dominant-baseline="central">iṣādi</text>
+<rect x="138.0" y="244" width="33.6" height="24" rx="2" fill="#838383" stroke="#dddddd"/>
+<text x="154.8" y="256.0" class="cell" fill="#ffffff">41</text>
+<rect x="173.6" y="244" width="30.8" height="24" rx="2" fill="#c4c4c4" stroke="#dddddd"/>
+<text x="189.0" y="256.0" class="cell" fill="#202020">4</text>
+<rect x="206.4" y="244" width="28.0" height="24" rx="2" fill="#afafaf" stroke="#dddddd"/>
+<text x="220.4" y="256.0" class="cell" fill="#202020">9</text>
+<rect x="236.4" y="244" width="28.0" height="24" rx="2" fill="#bebebe" stroke="#dddddd"/>
+<text x="250.4" y="256.0" class="cell" fill="#202020">5</text>
+<rect x="266.4" y="244" width="28.0" height="24" rx="2" fill="#bebebe" stroke="#dddddd"/>
+<text x="280.4" y="256.0" class="cell" fill="#202020">5</text>
+<rect x="296.4" y="244" width="28.0" height="24" rx="2" fill="#d3d3d3" stroke="#dddddd"/>
+<text x="310.4" y="256.0" class="cell" fill="#202020">2</text>
+<rect x="326.4" y="244" width="28.0" height="24" rx="2" fill="#cbcbcb" stroke="#dddddd"/>
+<text x="340.4" y="256.0" class="cell" fill="#202020">3</text>
+<rect x="356.4" y="244" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
+<text x="370.4" y="256.0" class="cell" fill="#9a9a9a">—</text>
+<rect x="386.4" y="244" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
+<text x="400.4" y="256.0" class="cell" fill="#9a9a9a">—</text>
+<rect x="416.4" y="244" width="28.0" height="24" rx="2" fill="#e0e0e0" stroke="#dddddd"/>
+<text x="430.4" y="256.0" class="cell" fill="#202020">1</text>
+<rect x="452.4" y="244" width="40" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
+<text x="472.4" y="256.0" class="total">70</text>
+  <g transform="translate(30.0 282.0) scale(0.8097) translate(-14.15 -0.00)">
 <polygon points="-4.04,-10.50 4.04,-10.50 8.08,-3.50 4.04,3.50 -4.04,3.50 -8.08,-3.50" fill="#a8842c"/>
 <polygon points="8.08,-3.50 24.25,-3.50 28.29,3.50 24.25,10.50 8.08,10.50 4.04,3.50" fill="#a8842c"/>
 <polygon points="28.29,-10.50 32.33,-10.50 36.37,-3.50 32.33,3.50 28.29,3.50 24.25,-3.50" fill="#a8842c"/>
 </g>
-<text x="126" y="267.0" class="rowlabel" dominant-baseline="central">hrādādi</text>
-<rect x="138" y="255" width="28" height="24" rx="2" fill="#7c7c7c" stroke="#dddddd"/>
-<text x="152.0" y="267.0" class="cell" fill="#ffffff">53</text>
-<rect x="168" y="255" width="28" height="24" rx="2" fill="#acacac" stroke="#dddddd"/>
-<text x="182.0" y="267.0" class="cell" fill="#202020">10</text>
-<rect x="198" y="255" width="28" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="212.0" y="267.0" class="cell" fill="#9a9a9a">—</text>
-<rect x="228" y="255" width="28" height="24" rx="2" fill="#d3d3d3" stroke="#dddddd"/>
-<text x="242.0" y="267.0" class="cell" fill="#202020">2</text>
-<rect x="258" y="255" width="28" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="272.0" y="267.0" class="cell" fill="#9a9a9a">—</text>
-<rect x="288" y="255" width="28" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="302.0" y="267.0" class="cell" fill="#9a9a9a">—</text>
-<rect x="318" y="255" width="28" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="332.0" y="267.0" class="cell" fill="#9a9a9a">—</text>
-<rect x="348" y="255" width="28" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="362.0" y="267.0" class="cell" fill="#9a9a9a">—</text>
-<rect x="378" y="255" width="28" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="392.0" y="267.0" class="cell" fill="#9a9a9a">—</text>
-<rect x="408" y="255" width="28" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="422.0" y="267.0" class="cell" fill="#9a9a9a">—</text>
-<rect x="446" y="255" width="40" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
-<text x="466.0" y="267.0" class="total">65</text>
-  <g transform="translate(30.0 293.0) scale(0.9524) translate(-6.07 -0.00)">
+<text x="126" y="282.0" class="rowlabel" dominant-baseline="central">hrādādi</text>
+<rect x="138.0" y="270" width="33.6" height="24" rx="2" fill="#7c7c7c" stroke="#dddddd"/>
+<text x="154.8" y="282.0" class="cell" fill="#ffffff">53</text>
+<rect x="173.6" y="270" width="30.8" height="24" rx="2" fill="#acacac" stroke="#dddddd"/>
+<text x="189.0" y="282.0" class="cell" fill="#202020">10</text>
+<rect x="206.4" y="270" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
+<text x="220.4" y="282.0" class="cell" fill="#9a9a9a">—</text>
+<rect x="236.4" y="270" width="28.0" height="24" rx="2" fill="#d3d3d3" stroke="#dddddd"/>
+<text x="250.4" y="282.0" class="cell" fill="#202020">2</text>
+<rect x="266.4" y="270" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
+<text x="280.4" y="282.0" class="cell" fill="#9a9a9a">—</text>
+<rect x="296.4" y="270" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
+<text x="310.4" y="282.0" class="cell" fill="#9a9a9a">—</text>
+<rect x="326.4" y="270" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
+<text x="340.4" y="282.0" class="cell" fill="#9a9a9a">—</text>
+<rect x="356.4" y="270" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
+<text x="370.4" y="282.0" class="cell" fill="#9a9a9a">—</text>
+<rect x="386.4" y="270" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
+<text x="400.4" y="282.0" class="cell" fill="#9a9a9a">—</text>
+<rect x="416.4" y="270" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
+<text x="430.4" y="282.0" class="cell" fill="#9a9a9a">—</text>
+<rect x="452.4" y="270" width="40" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
+<text x="472.4" y="282.0" class="total">65</text>
+  <g transform="translate(30.0 308.0) scale(0.9524) translate(-6.07 -0.00)">
 <polygon points="-2.02,-10.50 2.02,-10.50 6.06,-3.50 2.02,3.50 -2.02,3.50 -6.06,-3.50" fill="#a8842c"/>
 <polygon points="6.06,-3.50 14.15,-3.50 18.19,3.50 14.15,10.50 6.06,10.50 2.02,3.50" fill="#a8842c"/>
 </g>
-<text x="126" y="293.0" class="rowlabel" dominant-baseline="central">krādi</text>
-<rect x="138" y="281" width="28" height="24" rx="2" fill="#989898" stroke="#dddddd"/>
-<text x="152.0" y="293.0" class="cell" fill="#202020">20</text>
-<rect x="168" y="281" width="28" height="24" rx="2" fill="#bababa" stroke="#dddddd"/>
-<text x="182.0" y="293.0" class="cell" fill="#202020">6</text>
-<rect x="198" y="281" width="28" height="24" rx="2" fill="#afafaf" stroke="#dddddd"/>
-<text x="212.0" y="293.0" class="cell" fill="#202020">9</text>
-<rect x="228" y="281" width="28" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="242.0" y="293.0" class="cell" fill="#9a9a9a">—</text>
-<rect x="258" y="281" width="28" height="24" rx="2" fill="#bababa" stroke="#dddddd"/>
-<text x="272.0" y="293.0" class="cell" fill="#202020">6</text>
-<rect x="288" y="281" width="28" height="24" rx="2" fill="#cbcbcb" stroke="#dddddd"/>
-<text x="302.0" y="293.0" class="cell" fill="#202020">3</text>
-<rect x="318" y="281" width="28" height="24" rx="2" fill="#a7a7a7" stroke="#dddddd"/>
-<text x="332.0" y="293.0" class="cell" fill="#202020">12</text>
-<rect x="348" y="281" width="28" height="24" rx="2" fill="#b6b6b6" stroke="#dddddd"/>
-<text x="362.0" y="293.0" class="cell" fill="#202020">7</text>
-<rect x="378" y="281" width="28" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="392.0" y="293.0" class="cell" fill="#9a9a9a">—</text>
-<rect x="408" y="281" width="28" height="24" rx="2" fill="#e0e0e0" stroke="#dddddd"/>
-<text x="422.0" y="293.0" class="cell" fill="#202020">1</text>
-<rect x="446" y="281" width="40" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
-<text x="466.0" y="293.0" class="total">64</text>
-  <g transform="translate(30.0 319.0) scale(0.9524) translate(-10.10 -0.00)">
+<text x="126" y="308.0" class="rowlabel" dominant-baseline="central">krādi</text>
+<rect x="138.0" y="296" width="33.6" height="24" rx="2" fill="#989898" stroke="#dddddd"/>
+<text x="154.8" y="308.0" class="cell" fill="#202020">20</text>
+<rect x="173.6" y="296" width="30.8" height="24" rx="2" fill="#bababa" stroke="#dddddd"/>
+<text x="189.0" y="308.0" class="cell" fill="#202020">6</text>
+<rect x="206.4" y="296" width="28.0" height="24" rx="2" fill="#afafaf" stroke="#dddddd"/>
+<text x="220.4" y="308.0" class="cell" fill="#202020">9</text>
+<rect x="236.4" y="296" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
+<text x="250.4" y="308.0" class="cell" fill="#9a9a9a">—</text>
+<rect x="266.4" y="296" width="28.0" height="24" rx="2" fill="#bababa" stroke="#dddddd"/>
+<text x="280.4" y="308.0" class="cell" fill="#202020">6</text>
+<rect x="296.4" y="296" width="28.0" height="24" rx="2" fill="#cbcbcb" stroke="#dddddd"/>
+<text x="310.4" y="308.0" class="cell" fill="#202020">3</text>
+<rect x="326.4" y="296" width="28.0" height="24" rx="2" fill="#a7a7a7" stroke="#dddddd"/>
+<text x="340.4" y="308.0" class="cell" fill="#202020">12</text>
+<rect x="356.4" y="296" width="28.0" height="24" rx="2" fill="#b6b6b6" stroke="#dddddd"/>
+<text x="370.4" y="308.0" class="cell" fill="#202020">7</text>
+<rect x="386.4" y="296" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
+<text x="400.4" y="308.0" class="cell" fill="#9a9a9a">—</text>
+<rect x="416.4" y="296" width="28.0" height="24" rx="2" fill="#e0e0e0" stroke="#dddddd"/>
+<text x="430.4" y="308.0" class="cell" fill="#202020">1</text>
+<rect x="452.4" y="296" width="40" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
+<text x="472.4" y="308.0" class="total">64</text>
+  <g transform="translate(30.0 334.0) scale(0.9524) translate(-10.10 -0.00)">
 <polygon points="-4.04,-10.50 4.04,-10.50 8.08,-3.50 4.04,3.50 -4.04,3.50 -8.08,-3.50" fill="#a8842c"/>
 <polygon points="8.08,-3.50 24.25,-3.50 28.29,3.50 24.25,10.50 8.08,10.50 4.04,3.50" fill="#a8842c"/>
 </g>
-<text x="126" y="319.0" class="rowlabel" dominant-baseline="central">sthādi</text>
-<rect x="138" y="307" width="28" height="24" rx="2" fill="#949494" stroke="#dddddd"/>
-<text x="152.0" y="319.0" class="cell" fill="#ffffff">23</text>
-<rect x="168" y="307" width="28" height="24" rx="2" fill="#d3d3d3" stroke="#dddddd"/>
-<text x="182.0" y="319.0" class="cell" fill="#202020">2</text>
-<rect x="198" y="307" width="28" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="212.0" y="319.0" class="cell" fill="#9a9a9a">—</text>
-<rect x="228" y="307" width="28" height="24" rx="2" fill="#d3d3d3" stroke="#dddddd"/>
-<text x="242.0" y="319.0" class="cell" fill="#202020">2</text>
-<rect x="258" y="307" width="28" height="24" rx="2" fill="#b6b6b6" stroke="#dddddd"/>
-<text x="272.0" y="319.0" class="cell" fill="#202020">7</text>
-<rect x="288" y="307" width="28" height="24" rx="2" fill="#a5a5a5" stroke="#dddddd"/>
-<text x="302.0" y="319.0" class="cell" fill="#202020">13</text>
-<rect x="318" y="307" width="28" height="24" rx="2" fill="#e0e0e0" stroke="#dddddd"/>
-<text x="332.0" y="319.0" class="cell" fill="#202020">1</text>
-<rect x="348" y="307" width="28" height="24" rx="2" fill="#e0e0e0" stroke="#dddddd"/>
-<text x="362.0" y="319.0" class="cell" fill="#202020">1</text>
-<rect x="378" y="307" width="28" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="392.0" y="319.0" class="cell" fill="#9a9a9a">—</text>
-<rect x="408" y="307" width="28" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="422.0" y="319.0" class="cell" fill="#9a9a9a">—</text>
-<rect x="446" y="307" width="40" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
-<text x="466.0" y="319.0" class="total">49</text>
-  <g transform="translate(30.0 345.0) scale(0.8909) translate(-12.12 -0.00)">
+<text x="126" y="334.0" class="rowlabel" dominant-baseline="central">sthādi</text>
+<rect x="138.0" y="322" width="33.6" height="24" rx="2" fill="#949494" stroke="#dddddd"/>
+<text x="154.8" y="334.0" class="cell" fill="#202020">23</text>
+<rect x="173.6" y="322" width="30.8" height="24" rx="2" fill="#d3d3d3" stroke="#dddddd"/>
+<text x="189.0" y="334.0" class="cell" fill="#202020">2</text>
+<rect x="206.4" y="322" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
+<text x="220.4" y="334.0" class="cell" fill="#9a9a9a">—</text>
+<rect x="236.4" y="322" width="28.0" height="24" rx="2" fill="#d3d3d3" stroke="#dddddd"/>
+<text x="250.4" y="334.0" class="cell" fill="#202020">2</text>
+<rect x="266.4" y="322" width="28.0" height="24" rx="2" fill="#b6b6b6" stroke="#dddddd"/>
+<text x="280.4" y="334.0" class="cell" fill="#202020">7</text>
+<rect x="296.4" y="322" width="28.0" height="24" rx="2" fill="#a5a5a5" stroke="#dddddd"/>
+<text x="310.4" y="334.0" class="cell" fill="#202020">13</text>
+<rect x="326.4" y="322" width="28.0" height="24" rx="2" fill="#e0e0e0" stroke="#dddddd"/>
+<text x="340.4" y="334.0" class="cell" fill="#202020">1</text>
+<rect x="356.4" y="322" width="28.0" height="24" rx="2" fill="#e0e0e0" stroke="#dddddd"/>
+<text x="370.4" y="334.0" class="cell" fill="#202020">1</text>
+<rect x="386.4" y="322" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
+<text x="400.4" y="334.0" class="cell" fill="#9a9a9a">—</text>
+<rect x="416.4" y="322" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
+<text x="430.4" y="334.0" class="cell" fill="#9a9a9a">—</text>
+<rect x="452.4" y="322" width="40" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
+<text x="472.4" y="334.0" class="total">49</text>
+  <g transform="translate(30.0 360.0) scale(0.8909) translate(-12.12 -0.00)">
 <polygon points="-4.04,-10.50 4.04,-10.50 8.08,-3.50 4.04,3.50 -4.04,3.50 -8.08,-3.50" fill="#a8842c"/>
 <polygon points="8.08,-3.50 16.17,-3.50 20.21,3.50 16.17,10.50 8.08,10.50 4.04,3.50" fill="#a8842c"/>
 <polygon points="20.21,-10.50 28.29,-10.50 32.33,-3.50 28.29,3.50 20.21,3.50 16.17,-3.50" fill="#a8842c"/>
 </g>
-<text x="126" y="345.0" class="rowlabel" dominant-baseline="central">spardhādi</text>
-<rect x="138" y="333" width="28" height="24" rx="2" fill="#8e8e8e" stroke="#dddddd"/>
-<text x="152.0" y="345.0" class="cell" fill="#ffffff">29</text>
-<rect x="168" y="333" width="28" height="24" rx="2" fill="#afafaf" stroke="#dddddd"/>
-<text x="182.0" y="345.0" class="cell" fill="#202020">9</text>
-<rect x="198" y="333" width="28" height="24" rx="2" fill="#d3d3d3" stroke="#dddddd"/>
-<text x="212.0" y="345.0" class="cell" fill="#202020">2</text>
-<rect x="228" y="333" width="28" height="24" rx="2" fill="#e0e0e0" stroke="#dddddd"/>
-<text x="242.0" y="345.0" class="cell" fill="#202020">1</text>
-<rect x="258" y="333" width="28" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="272.0" y="345.0" class="cell" fill="#9a9a9a">—</text>
-<rect x="288" y="333" width="28" height="24" rx="2" fill="#b6b6b6" stroke="#dddddd"/>
-<text x="302.0" y="345.0" class="cell" fill="#202020">7</text>
-<rect x="318" y="333" width="28" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="332.0" y="345.0" class="cell" fill="#9a9a9a">—</text>
-<rect x="348" y="333" width="28" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="362.0" y="345.0" class="cell" fill="#9a9a9a">—</text>
-<rect x="378" y="333" width="28" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="392.0" y="345.0" class="cell" fill="#9a9a9a">—</text>
-<rect x="408" y="333" width="28" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
-<text x="422.0" y="345.0" class="cell" fill="#9a9a9a">—</text>
-<rect x="446" y="333" width="40" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
-<text x="466.0" y="345.0" class="total">48</text>
-<text x="126" y="379.0" class="rowlabel" dominant-baseline="central">gaṇa total</text>
-<rect x="138" y="367" width="28" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
-<text x="152.0" y="379.0" class="total">1134</text>
-<rect x="168" y="367" width="28" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
-<text x="182.0" y="379.0" class="total">468</text>
-<rect x="198" y="367" width="28" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
-<text x="212.0" y="379.0" class="total">171</text>
-<rect x="228" y="367" width="28" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
-<text x="242.0" y="379.0" class="total">151</text>
-<rect x="258" y="367" width="28" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
-<text x="272.0" y="379.0" class="total">76</text>
-<rect x="288" y="367" width="28" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
-<text x="302.0" y="379.0" class="total">69</text>
-<rect x="318" y="367" width="28" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
-<text x="332.0" y="379.0" class="total">39</text>
-<rect x="348" y="367" width="28" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
-<text x="362.0" y="379.0" class="total">25</text>
-<rect x="378" y="367" width="28" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
-<text x="392.0" y="379.0" class="total">25</text>
-<rect x="408" y="367" width="28" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
-<text x="422.0" y="379.0" class="total">10</text>
-<rect x="446" y="367" width="40" height="24" rx="2" fill="#dddddd" stroke="#cccccc"/>
-<text x="466.0" y="379.0" class="total">1973</text>
-<text x="12" y="415" class="src">Source: analysis/dhatupatha/data/derived/racana_by_gana.csv</text>
-<text x="12" y="431.5" class="src">Top ten racanāḥ cover 1973/2168 = 91.01% of the Dhātupāṭha inventory.</text>
+<text x="126" y="360.0" class="rowlabel" dominant-baseline="central">spardhādi</text>
+<rect x="138.0" y="348" width="33.6" height="24" rx="2" fill="#8e8e8e" stroke="#dddddd"/>
+<text x="154.8" y="360.0" class="cell" fill="#202020">29</text>
+<rect x="173.6" y="348" width="30.8" height="24" rx="2" fill="#afafaf" stroke="#dddddd"/>
+<text x="189.0" y="360.0" class="cell" fill="#202020">9</text>
+<rect x="206.4" y="348" width="28.0" height="24" rx="2" fill="#d3d3d3" stroke="#dddddd"/>
+<text x="220.4" y="360.0" class="cell" fill="#202020">2</text>
+<rect x="236.4" y="348" width="28.0" height="24" rx="2" fill="#e0e0e0" stroke="#dddddd"/>
+<text x="250.4" y="360.0" class="cell" fill="#202020">1</text>
+<rect x="266.4" y="348" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
+<text x="280.4" y="360.0" class="cell" fill="#9a9a9a">—</text>
+<rect x="296.4" y="348" width="28.0" height="24" rx="2" fill="#b6b6b6" stroke="#dddddd"/>
+<text x="310.4" y="360.0" class="cell" fill="#202020">7</text>
+<rect x="326.4" y="348" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
+<text x="340.4" y="360.0" class="cell" fill="#9a9a9a">—</text>
+<rect x="356.4" y="348" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
+<text x="370.4" y="360.0" class="cell" fill="#9a9a9a">—</text>
+<rect x="386.4" y="348" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
+<text x="400.4" y="360.0" class="cell" fill="#9a9a9a">—</text>
+<rect x="416.4" y="348" width="28.0" height="24" rx="2" fill="#f7f7f7" stroke="#dddddd"/>
+<text x="430.4" y="360.0" class="cell" fill="#9a9a9a">—</text>
+<rect x="452.4" y="348" width="40" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
+<text x="472.4" y="360.0" class="total">48</text>
+<text x="126" y="394.0" class="rowlabel" dominant-baseline="central">gaṇa total</text>
+<rect x="138.0" y="382" width="33.6" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
+<text x="154.8" y="394.0" class="total">1134</text>
+<rect x="173.6" y="382" width="30.8" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
+<text x="189.0" y="394.0" class="total">468</text>
+<rect x="206.4" y="382" width="28.0" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
+<text x="220.4" y="394.0" class="total">171</text>
+<rect x="236.4" y="382" width="28.0" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
+<text x="250.4" y="394.0" class="total">151</text>
+<rect x="266.4" y="382" width="28.0" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
+<text x="280.4" y="394.0" class="total">76</text>
+<rect x="296.4" y="382" width="28.0" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
+<text x="310.4" y="394.0" class="total">69</text>
+<rect x="326.4" y="382" width="28.0" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
+<text x="340.4" y="394.0" class="total">39</text>
+<rect x="356.4" y="382" width="28.0" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
+<text x="370.4" y="394.0" class="total">25</text>
+<rect x="386.4" y="382" width="28.0" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
+<text x="400.4" y="394.0" class="total">25</text>
+<rect x="416.4" y="382" width="28.0" height="24" rx="2" fill="#eeeeee" stroke="#dddddd"/>
+<text x="430.4" y="394.0" class="total">10</text>
+<rect x="452.4" y="382" width="40" height="24" rx="2" fill="#dddddd" stroke="#cccccc"/>
+<text x="472.4" y="394.0" class="total">1973</text>
 </svg>
