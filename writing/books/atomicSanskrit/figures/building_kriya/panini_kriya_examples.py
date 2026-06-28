@@ -24,7 +24,9 @@ from vedic_kriya_examples import (  # noqa: E402
     EMPTY_STROKE,
     EXAMPLES,
     HEX_HEIGHT,
+    LABEL_COL_RIGHT,
     LATIN_FONT,
+    LEADER_GAP,
     RIGHT_PAD,
     ROLE_FILL,
     ROLE_DEV,
@@ -38,6 +40,7 @@ from vedic_kriya_examples import (  # noqa: E402
     rail_for_particle,
     render_arrow,
     render_empty_slot,
+    render_leader,
     render_particle_cell,
     render_unit,
     resolve_particle,
@@ -74,8 +77,7 @@ def configure_panini(common_w: float) -> None:
 P_TOP_BASE_Y = 172
 P_MID_BASE_Y = 334
 P_BOT_BASE_Y = 500
-P_LABEL_X = 184
-P_LEFT_PAD = 222
+P_LABEL_X = LABEL_COL_RIGHT     # labels right-justify in the left column
 P_BOTTOM_PAD = 34
 ARROW_STROKE_WIDTH = 1.45
 ARROW_TIP_ADVANCE = 9 * ARROW_STROKE_WIDTH
@@ -459,20 +461,20 @@ def render_example(example: dict) -> str:
         for target_idx in particle["targets"]:
             target_to_middle_local[target_idx] = (x, y)
 
-    xmin, xmax, _, _ = units_extent(final_units)
+    final_xmin, xmax, _, _ = units_extent(final_units)
     mid_xmin, mid_xmax, _, _ = units_extent(middle_units)
     source_groups = [source_group_layout(group, target_to_middle_local) for group in groups]
     top_xmin = min(group["xmin"] for group in source_groups)
     top_xmax = max(group["xmax"] for group in source_groups)
-    xmin = min(xmin, top_xmin, mid_xmin)
+    xmin = min(final_xmin, top_xmin, mid_xmin)
     xmax = max(xmax, top_xmax, mid_xmax)
 
-    dx = P_LEFT_PAD - xmin
-    natural_w = xmax - xmin + P_LEFT_PAD + RIGHT_PAD
+    natural_w = LABEL_COL_RIGHT + LEADER_GAP + (xmax - xmin) + RIGHT_PAD
     canvas_w = P_COMMON_W if P_COMMON_W else natural_w
+    dx = (canvas_w - RIGHT_PAD) - xmax            # right-align the illustration
     height = P_BOT_BASE_Y + HEX_HEIGHT / 2 + P_BOTTOM_PAD
     height_in = height / canvas_w * WIDTH_IN
-    center_x = natural_w / 2                       # centre title/formula on content
+    center_x = (xmin + xmax) / 2 + dx             # centre title/formula on the illustration
     top_label_y = leftmost_source_center_y(source_groups, P_TOP_BASE_Y)
     mid_label_y = leftmost_middle_center_y(example["middle"], middle_centers, P_MID_BASE_Y)
     bot_label_y = leftmost_unit_center_y(final_units, P_BOT_BASE_Y)
@@ -498,6 +500,11 @@ def render_example(example: dict) -> str:
         "  " + render_local_row_label("dhātuḥ atom", mid_label_y),
         "  " + render_local_row_label("kriyāpada molecule", bot_label_y),
     ]
+
+    # Leader lines: each row label across to that row's leftmost hex.
+    svg.append("  " + render_leader(top_label_y, top_xmin + dx))
+    svg.append("  " + render_leader(mid_label_y, mid_xmin + dx))
+    svg.append("  " + render_leader(bot_label_y, final_xmin + dx))
 
     # Top row: Pāṇini's named source forms. Anubandhas are dashed and do
     # not drop into the dhātuḥ atom.

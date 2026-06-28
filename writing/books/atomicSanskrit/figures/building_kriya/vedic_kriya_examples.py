@@ -44,9 +44,14 @@ UPPER_RAIL_Y = -3 * HEX_HEIGHT / 4  # added / transformed vowels
 TOP_BASE_Y = 96
 MID_BASE_Y = 220
 BOT_BASE_Y = 352
-LABEL_X = 184
-LEFT_PAD = 222
-RIGHT_PAD = 36
+# Left label column (right-justified text, fixed near the left edge) + a leader-
+# line gap; the illustration is right-aligned with a consistent right pad.
+LABEL_COL_RIGHT = 150     # x where row-label text right-justifies
+LABEL_X = LABEL_COL_RIGHT  # back-compat alias
+LEADER_GAP = 52           # min gap between the label column and the illustration
+RIGHT_PAD = 30            # illustration right padding
+LEADER_TEXT_GAP = 12      # leader starts this far right of the label
+LEADER_HEX_GAP = 8        # leader ends this far left of the hex
 TOP_PAD = 22
 BOTTOM_PAD = 34
 
@@ -602,9 +607,22 @@ def render_row_label(text: str, y: float) -> str:
             )
         )
     return (
-        f'<text x="{LABEL_X:.1f}" y="{y:.1f}" font-family="{LATIN_FONT}" '
+        f'<text x="{LABEL_COL_RIGHT:.1f}" y="{y:.1f}" font-family="{LATIN_FONT}" '
         f'font-size="{FS_LABEL:.1f}" font-weight="700" text-anchor="end" '
         f'dominant-baseline="middle" fill="{ms.TEXT}">{"".join(lines)}</text>'
+    )
+
+
+def render_leader(y: float, hex_left_x: float) -> str:
+    """A thin dotted leader from the label column across to a row's leftmost hex."""
+    x1 = LABEL_COL_RIGHT + LEADER_TEXT_GAP
+    x2 = hex_left_x - LEADER_HEX_GAP
+    if x2 <= x1:
+        return ""
+    return (
+        f'<circle cx="{x1:.1f}" cy="{y:.1f}" r="2.2" fill="{ms.MUTED}"/>'
+        f'<line x1="{x1:.1f}" y1="{y:.1f}" x2="{x2:.1f}" y2="{y:.1f}" '
+        f'stroke="{ms.MUTED}" stroke-width="1" stroke-dasharray="1.5 3.5"/>'
     )
 
 
@@ -632,7 +650,7 @@ def render_example(example: dict) -> str:
         x, y = middle_centers[idx]
         for target_idx in particle["targets"]:
             target_to_middle_local[target_idx] = (x, y)
-    xmin, xmax, _, _ = units_extent(final_units)
+    final_xmin, xmax, _, _ = units_extent(final_units)
     mid_xmin, mid_xmax, _, _ = units_extent(middle_units)
     top_cells = []
     for src in example["activation"]:
@@ -643,11 +661,11 @@ def render_example(example: dict) -> str:
         top_cells.append(p)
     top_xmin = min(cell["x"] - cell["w"] / 2 - EDGE_LENGTH / 2 for cell in top_cells)
     top_xmax = max(cell["x"] + cell["w"] / 2 + EDGE_LENGTH / 2 for cell in top_cells)
-    xmin = min(xmin, top_xmin, mid_xmin)
+    xmin = min(final_xmin, top_xmin, mid_xmin)
     xmax = max(xmax, top_xmax, mid_xmax)
-    dx = LEFT_PAD - xmin
-    natural_w = xmax - xmin + LEFT_PAD + RIGHT_PAD
+    natural_w = LABEL_COL_RIGHT + LEADER_GAP + (xmax - xmin) + RIGHT_PAD
     canvas_w = COMMON_W if COMMON_W else natural_w
+    dx = (canvas_w - RIGHT_PAD) - xmax        # right-align the illustration
     bot_base_y = BOT_BASE_Y + example.get("bottom_y_shift", 0)
     height = bot_base_y + HEX_HEIGHT / 2 + BOTTOM_PAD
     height_in = height / canvas_w * WIDTH_IN
@@ -677,6 +695,11 @@ def render_example(example: dict) -> str:
         "  " + render_row_label("dhātuḥ atom", mid_label_y),
         "  " + render_row_label("kriyāpada molecule", bot_label_y),
     ]
+
+    # Leader lines: each row label across to that row's leftmost hex.
+    svg.append("  " + render_leader(top_label_y, top_xmin + dx))
+    svg.append("  " + render_leader(mid_label_y, mid_xmin + dx))
+    svg.append("  " + render_leader(bot_label_y, final_xmin + dx))
 
     # Top row: activation sonomers only.
     top_sources: list[tuple[dict, tuple[float, float]]] = []

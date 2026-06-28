@@ -1,69 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 690.0 568.6" width="4.5in" height="3.709in">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 664.0 568.6" width="4.5in" height="3.854in">
   <title>Pāṇinian kriyāpada assembly: yajati</title>
-  <rect x="0" y="0" width="690.0" height="568.6" fill="#ffffff"/>
+  <rect x="0" y="0" width="664.0" height="568.6" fill="#ffffff"/>
   <defs>
     <marker id="arrowhead" markerWidth="10" markerHeight="8" refX="0" refY="4" orient="auto" markerUnits="strokeWidth">
       <polygon points="0,0 9,4 0,8" fill="#6b563a"/>
     </marker>
   </defs>
-  <text x="315.0" y="24.0" font-family="Charter, Georgia, Times, serif" font-size="23.4" font-weight="700" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">bhvādi: śap → a; tip → ti</text>
-  <text x="315.0" y="54.0" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="23.4" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">यज् + अ + ति → यजति</text>
-  <text x="184.0" y="154.7" font-family="Charter, Georgia, Times, serif" font-size="23.4" font-weight="700" text-anchor="end" dominant-baseline="middle" fill="#3d2f1f"><tspan x="184.0" y="140.6">activation</tspan><tspan x="184.0" y="168.7">sonomers</tspan></text>
-  <text x="184.0" y="316.7" font-family="Charter, Georgia, Times, serif" font-size="23.4" font-weight="700" text-anchor="end" dominant-baseline="middle" fill="#3d2f1f"><tspan x="184.0" y="302.6">dhātuḥ</tspan><tspan x="184.0" y="330.7">atom</tspan></text>
-  <text x="184.0" y="482.7" font-family="Charter, Georgia, Times, serif" font-size="23.4" font-weight="700" text-anchor="end" dominant-baseline="middle" fill="#3d2f1f"><tspan x="184.0" y="468.6">kriyāpada</tspan><tspan x="184.0" y="496.7">molecule</tspan></text>
-  <text x="320.0" y="90.0" font-family="Charter, Georgia, Times, serif" font-size="21.3" font-weight="700" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f"><tspan font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif">शप्</tspan> <tspan font-style="italic">(śap)</tspan></text>
-  <text x="320.0" y="120.7" font-family="Charter, Georgia, Times, serif" font-size="19.2" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">the bhvādi vikaraṇa</text>
-  <polygon points="270.0,120.0 280.0,120.0 300.0,154.7 280.0,189.3 270.0,189.3 250.0,154.7" fill="#ffffff" stroke="#6b563a" stroke-width="1.35" stroke-dasharray="5 4" stroke-linejoin="round"/>
-  <text x="275.0" y="150.5" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="23.4" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">श्</text>
-  <text x="275.0" y="169.2" font-family="Charter, Georgia, Times, serif" font-size="19.2" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">ś</text>
-  <polygon points="300.0,154.7 340.0,154.7 360.0,189.3 340.0,224.0 300.0,224.0 280.0,189.3" fill="#4a3a28" stroke="#5c4830" stroke-width="1.45" stroke-linejoin="round"/>
-  <text x="320.0" y="185.1" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="23.4" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">अ</text>
-  <text x="320.0" y="203.8" font-family="Charter, Georgia, Times, serif" font-size="19.2" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">a</text>
-  <polygon points="360.0,120.0 370.0,120.0 390.0,154.7 370.0,189.3 360.0,189.3 340.0,154.7" fill="#ffffff" stroke="#6b563a" stroke-width="1.35" stroke-dasharray="5 4" stroke-linejoin="round"/>
-  <text x="365.0" y="150.5" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="23.4" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">प्</text>
-  <text x="365.0" y="169.2" font-family="Charter, Georgia, Times, serif" font-size="19.2" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">p</text>
-  <text x="524.0" y="90.0" font-family="Charter, Georgia, Times, serif" font-size="21.3" font-weight="700" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f"><tspan font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif">तिप्</tspan> <tspan font-style="italic">(tip)</tspan></text>
-  <text x="524.0" y="120.7" font-family="Charter, Georgia, Times, serif" font-size="19.2" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">the 3sg present ending</text>
-  <polygon points="474.0,120.0 484.0,120.0 504.0,154.7 484.0,189.3 474.0,189.3 454.0,154.7" fill="#6b563a" stroke="#5c4830" stroke-width="1.45" stroke-linejoin="round"/>
-  <text x="479.0" y="150.5" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="23.4" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">त्</text>
-  <text x="479.0" y="169.2" font-family="Charter, Georgia, Times, serif" font-size="19.2" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">t</text>
-  <polygon points="504.0,154.7 544.0,154.7 564.0,189.3 544.0,224.0 504.0,224.0 484.0,189.3" fill="#6b563a" stroke="#5c4830" stroke-width="1.45" stroke-linejoin="round"/>
-  <text x="524.0" y="185.1" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="23.4" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">इ</text>
-  <text x="524.0" y="203.8" font-family="Charter, Georgia, Times, serif" font-size="19.2" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">i</text>
-  <polygon points="564.0,120.0 574.0,120.0 594.0,154.7 574.0,189.3 564.0,189.3 544.0,154.7" fill="#ffffff" stroke="#6b563a" stroke-width="1.35" stroke-dasharray="5 4" stroke-linejoin="round"/>
-  <text x="569.0" y="150.5" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="23.4" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">प्</text>
-  <text x="569.0" y="169.2" font-family="Charter, Georgia, Times, serif" font-size="19.2" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">p</text>
-  <polygon points="242.0,282.0 252.0,282.0 272.0,316.7 252.0,351.3 242.0,351.3 222.0,316.7" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.45" stroke-linejoin="round"/>
-  <text x="247.0" y="312.5" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="23.4" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">य्</text>
-  <text x="247.0" y="331.2" font-family="Charter, Georgia, Times, serif" font-size="19.2" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">y</text>
-  <polygon points="272.0,316.7 312.0,316.7 332.0,351.3 312.0,386.0 272.0,386.0 252.0,351.3" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.45" stroke-linejoin="round"/>
-  <text x="292.0" y="347.1" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="23.4" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">अ</text>
-  <text x="292.0" y="365.8" font-family="Charter, Georgia, Times, serif" font-size="19.2" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">a</text>
-  <polygon points="332.0,282.0 342.0,282.0 362.0,316.7 342.0,351.3 332.0,351.3 312.0,316.7" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.45" stroke-linejoin="round"/>
-  <text x="337.0" y="312.5" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="23.4" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">ज्</text>
-  <text x="337.0" y="331.2" font-family="Charter, Georgia, Times, serif" font-size="19.2" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">j</text>
-  <polygon points="362.0,247.4 402.0,247.4 422.0,282.0 402.0,316.7 362.0,316.7 342.0,282.0" fill="none" stroke="#6b563a" stroke-width="1.35" stroke-dasharray="5 4" stroke-linejoin="round"/>
-  <polygon points="422.0,282.0 432.0,282.0 452.0,316.7 432.0,351.3 422.0,351.3 402.0,316.7" fill="none" stroke="#6b563a" stroke-width="1.35" stroke-dasharray="5 4" stroke-linejoin="round"/>
-  <polygon points="452.0,247.4 492.0,247.4 512.0,282.0 492.0,316.7 452.0,316.7 432.0,282.0" fill="none" stroke="#6b563a" stroke-width="1.35" stroke-dasharray="5 4" stroke-linejoin="round"/>
-  <path d="M 320.0,227.0 C 320.0,228.9 382.0,230.4 382.0,231.3" fill="none" stroke="#6b563a" stroke-width="1.45" marker-end="url(#arrowhead)"/>
-  <path d="M 479.0,192.3 C 479.0,225.5 427.0,249.8 427.0,266.0" fill="none" stroke="#6b563a" stroke-width="1.45" marker-end="url(#arrowhead)"/>
-  <path d="M 524.0,227.0 C 524.0,228.9 472.0,230.4 472.0,231.3" fill="none" stroke="#6b563a" stroke-width="1.45" marker-end="url(#arrowhead)"/>
-  <polygon points="242.0,448.0 252.0,448.0 272.0,482.7 252.0,517.3 242.0,517.3 222.0,482.7" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.45" stroke-linejoin="round"/>
-  <text x="247.0" y="478.5" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="23.4" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">य्</text>
-  <text x="247.0" y="497.2" font-family="Charter, Georgia, Times, serif" font-size="19.2" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">y</text>
-  <polygon points="272.0,482.7 312.0,482.7 332.0,517.3 312.0,552.0 272.0,552.0 252.0,517.3" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.45" stroke-linejoin="round"/>
-  <text x="292.0" y="513.1" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="23.4" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">अ</text>
-  <text x="292.0" y="531.8" font-family="Charter, Georgia, Times, serif" font-size="19.2" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">a</text>
-  <polygon points="332.0,448.0 342.0,448.0 362.0,482.7 342.0,517.3 332.0,517.3 312.0,482.7" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.45" stroke-linejoin="round"/>
-  <text x="337.0" y="478.5" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="23.4" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">ज्</text>
-  <text x="337.0" y="497.2" font-family="Charter, Georgia, Times, serif" font-size="19.2" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">j</text>
-  <polygon points="362.0,413.4 402.0,413.4 422.0,448.0 402.0,482.7 362.0,482.7 342.0,448.0" fill="#4a3a28" stroke="#5c4830" stroke-width="1.45" stroke-linejoin="round"/>
-  <text x="382.0" y="443.8" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="23.4" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">अ</text>
-  <text x="382.0" y="462.6" font-family="Charter, Georgia, Times, serif" font-size="19.2" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">a</text>
-  <polygon points="422.0,448.0 432.0,448.0 452.0,482.7 432.0,517.3 422.0,517.3 402.0,482.7" fill="#6b563a" stroke="#5c4830" stroke-width="1.45" stroke-linejoin="round"/>
-  <text x="427.0" y="478.5" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="23.4" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">त्</text>
-  <text x="427.0" y="497.2" font-family="Charter, Georgia, Times, serif" font-size="19.2" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">t</text>
-  <polygon points="452.0,413.4 492.0,413.4 512.0,448.0 492.0,482.7 452.0,482.7 432.0,448.0" fill="#6b563a" stroke="#5c4830" stroke-width="1.45" stroke-linejoin="round"/>
-  <text x="472.0" y="443.8" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="23.4" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">इ</text>
-  <text x="472.0" y="462.6" font-family="Charter, Georgia, Times, serif" font-size="19.2" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">i</text>
+  <text x="448.0" y="24.0" font-family="Charter, Georgia, Times, serif" font-size="22.5" font-weight="700" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">bhvādi: śap → a; tip → ti</text>
+  <text x="448.0" y="54.0" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="22.5" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">यज् + अ + ति → यजति</text>
+  <text x="150.0" y="154.7" font-family="Charter, Georgia, Times, serif" font-size="22.5" font-weight="700" text-anchor="end" dominant-baseline="middle" fill="#3d2f1f"><tspan x="150.0" y="141.2">activation</tspan><tspan x="150.0" y="168.2">sonomers</tspan></text>
+  <text x="150.0" y="316.7" font-family="Charter, Georgia, Times, serif" font-size="22.5" font-weight="700" text-anchor="end" dominant-baseline="middle" fill="#3d2f1f"><tspan x="150.0" y="303.2">dhātuḥ</tspan><tspan x="150.0" y="330.2">atom</tspan></text>
+  <text x="150.0" y="482.7" font-family="Charter, Georgia, Times, serif" font-size="22.5" font-weight="700" text-anchor="end" dominant-baseline="middle" fill="#3d2f1f"><tspan x="150.0" y="469.2">kriyāpada</tspan><tspan x="150.0" y="496.2">molecule</tspan></text>
+  <circle cx="162.0" cy="154.7" r="2.2" fill="#6b563a"/><line x1="162.0" y1="154.7" x2="282.0" y2="154.7" stroke="#6b563a" stroke-width="1" stroke-dasharray="1.5 3.5"/>
+  <circle cx="162.0" cy="316.7" r="2.2" fill="#6b563a"/><line x1="162.0" y1="316.7" x2="254.0" y2="316.7" stroke="#6b563a" stroke-width="1" stroke-dasharray="1.5 3.5"/>
+  <circle cx="162.0" cy="482.7" r="2.2" fill="#6b563a"/><line x1="162.0" y1="482.7" x2="254.0" y2="482.7" stroke="#6b563a" stroke-width="1" stroke-dasharray="1.5 3.5"/>
+  <text x="360.0" y="90.0" font-family="Charter, Georgia, Times, serif" font-size="20.5" font-weight="700" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f"><tspan font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif">शप्</tspan> <tspan font-style="italic">(śap)</tspan></text>
+  <text x="360.0" y="119.5" font-family="Charter, Georgia, Times, serif" font-size="18.4" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">the bhvādi vikaraṇa</text>
+  <polygon points="310.0,120.0 320.0,120.0 340.0,154.7 320.0,189.3 310.0,189.3 290.0,154.7" fill="#ffffff" stroke="#6b563a" stroke-width="1.35" stroke-dasharray="5 4" stroke-linejoin="round"/>
+  <text x="315.0" y="150.6" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="22.5" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">श्</text>
+  <text x="315.0" y="168.7" font-family="Charter, Georgia, Times, serif" font-size="18.4" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">ś</text>
+  <polygon points="340.0,154.7 380.0,154.7 400.0,189.3 380.0,224.0 340.0,224.0 320.0,189.3" fill="#4a3a28" stroke="#5c4830" stroke-width="1.45" stroke-linejoin="round"/>
+  <text x="360.0" y="185.3" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="22.5" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">अ</text>
+  <text x="360.0" y="203.3" font-family="Charter, Georgia, Times, serif" font-size="18.4" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">a</text>
+  <polygon points="400.0,120.0 410.0,120.0 430.0,154.7 410.0,189.3 400.0,189.3 380.0,154.7" fill="#ffffff" stroke="#6b563a" stroke-width="1.35" stroke-dasharray="5 4" stroke-linejoin="round"/>
+  <text x="405.0" y="150.6" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="22.5" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">प्</text>
+  <text x="405.0" y="168.7" font-family="Charter, Georgia, Times, serif" font-size="18.4" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">p</text>
+  <text x="564.0" y="90.0" font-family="Charter, Georgia, Times, serif" font-size="20.5" font-weight="700" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f"><tspan font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif">तिप्</tspan> <tspan font-style="italic">(tip)</tspan></text>
+  <text x="564.0" y="119.5" font-family="Charter, Georgia, Times, serif" font-size="18.4" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">the 3sg present ending</text>
+  <polygon points="514.0,120.0 524.0,120.0 544.0,154.7 524.0,189.3 514.0,189.3 494.0,154.7" fill="#6b563a" stroke="#5c4830" stroke-width="1.45" stroke-linejoin="round"/>
+  <text x="519.0" y="150.6" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="22.5" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">त्</text>
+  <text x="519.0" y="168.7" font-family="Charter, Georgia, Times, serif" font-size="18.4" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">t</text>
+  <polygon points="544.0,154.7 584.0,154.7 604.0,189.3 584.0,224.0 544.0,224.0 524.0,189.3" fill="#6b563a" stroke="#5c4830" stroke-width="1.45" stroke-linejoin="round"/>
+  <text x="564.0" y="185.3" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="22.5" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">इ</text>
+  <text x="564.0" y="203.3" font-family="Charter, Georgia, Times, serif" font-size="18.4" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">i</text>
+  <polygon points="604.0,120.0 614.0,120.0 634.0,154.7 614.0,189.3 604.0,189.3 584.0,154.7" fill="#ffffff" stroke="#6b563a" stroke-width="1.35" stroke-dasharray="5 4" stroke-linejoin="round"/>
+  <text x="609.0" y="150.6" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="22.5" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">प्</text>
+  <text x="609.0" y="168.7" font-family="Charter, Georgia, Times, serif" font-size="18.4" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">p</text>
+  <polygon points="282.0,282.0 292.0,282.0 312.0,316.7 292.0,351.3 282.0,351.3 262.0,316.7" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.45" stroke-linejoin="round"/>
+  <text x="287.0" y="312.6" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="22.5" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">य्</text>
+  <text x="287.0" y="330.7" font-family="Charter, Georgia, Times, serif" font-size="18.4" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">y</text>
+  <polygon points="312.0,316.7 352.0,316.7 372.0,351.3 352.0,386.0 312.0,386.0 292.0,351.3" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.45" stroke-linejoin="round"/>
+  <text x="332.0" y="347.3" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="22.5" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">अ</text>
+  <text x="332.0" y="365.3" font-family="Charter, Georgia, Times, serif" font-size="18.4" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">a</text>
+  <polygon points="372.0,282.0 382.0,282.0 402.0,316.7 382.0,351.3 372.0,351.3 352.0,316.7" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.45" stroke-linejoin="round"/>
+  <text x="377.0" y="312.6" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="22.5" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">ज्</text>
+  <text x="377.0" y="330.7" font-family="Charter, Georgia, Times, serif" font-size="18.4" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">j</text>
+  <polygon points="402.0,247.4 442.0,247.4 462.0,282.0 442.0,316.7 402.0,316.7 382.0,282.0" fill="none" stroke="#6b563a" stroke-width="1.35" stroke-dasharray="5 4" stroke-linejoin="round"/>
+  <polygon points="462.0,282.0 472.0,282.0 492.0,316.7 472.0,351.3 462.0,351.3 442.0,316.7" fill="none" stroke="#6b563a" stroke-width="1.35" stroke-dasharray="5 4" stroke-linejoin="round"/>
+  <polygon points="492.0,247.4 532.0,247.4 552.0,282.0 532.0,316.7 492.0,316.7 472.0,282.0" fill="none" stroke="#6b563a" stroke-width="1.35" stroke-dasharray="5 4" stroke-linejoin="round"/>
+  <path d="M 360.0,227.0 C 360.0,228.9 422.0,230.4 422.0,231.3" fill="none" stroke="#6b563a" stroke-width="1.45" marker-end="url(#arrowhead)"/>
+  <path d="M 519.0,192.3 C 519.0,225.5 467.0,249.8 467.0,266.0" fill="none" stroke="#6b563a" stroke-width="1.45" marker-end="url(#arrowhead)"/>
+  <path d="M 564.0,227.0 C 564.0,228.9 512.0,230.4 512.0,231.3" fill="none" stroke="#6b563a" stroke-width="1.45" marker-end="url(#arrowhead)"/>
+  <polygon points="282.0,448.0 292.0,448.0 312.0,482.7 292.0,517.3 282.0,517.3 262.0,482.7" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.45" stroke-linejoin="round"/>
+  <text x="287.0" y="478.6" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="22.5" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">य्</text>
+  <text x="287.0" y="496.7" font-family="Charter, Georgia, Times, serif" font-size="18.4" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">y</text>
+  <polygon points="312.0,482.7 352.0,482.7 372.0,517.3 352.0,552.0 312.0,552.0 292.0,517.3" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.45" stroke-linejoin="round"/>
+  <text x="332.0" y="513.3" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="22.5" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">अ</text>
+  <text x="332.0" y="531.3" font-family="Charter, Georgia, Times, serif" font-size="18.4" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">a</text>
+  <polygon points="372.0,448.0 382.0,448.0 402.0,482.7 382.0,517.3 372.0,517.3 352.0,482.7" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.45" stroke-linejoin="round"/>
+  <text x="377.0" y="478.6" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="22.5" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">ज्</text>
+  <text x="377.0" y="496.7" font-family="Charter, Georgia, Times, serif" font-size="18.4" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">j</text>
+  <polygon points="402.0,413.4 442.0,413.4 462.0,448.0 442.0,482.7 402.0,482.7 382.0,448.0" fill="#4a3a28" stroke="#5c4830" stroke-width="1.45" stroke-linejoin="round"/>
+  <text x="422.0" y="444.0" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="22.5" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">अ</text>
+  <text x="422.0" y="462.0" font-family="Charter, Georgia, Times, serif" font-size="18.4" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">a</text>
+  <polygon points="462.0,448.0 472.0,448.0 492.0,482.7 472.0,517.3 462.0,517.3 442.0,482.7" fill="#6b563a" stroke="#5c4830" stroke-width="1.45" stroke-linejoin="round"/>
+  <text x="467.0" y="478.6" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="22.5" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">त्</text>
+  <text x="467.0" y="496.7" font-family="Charter, Georgia, Times, serif" font-size="18.4" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">t</text>
+  <polygon points="492.0,413.4 532.0,413.4 552.0,448.0 532.0,482.7 492.0,482.7 472.0,448.0" fill="#6b563a" stroke="#5c4830" stroke-width="1.45" stroke-linejoin="round"/>
+  <text x="512.0" y="444.0" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="22.5" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">इ</text>
+  <text x="512.0" y="462.0" font-family="Charter, Georgia, Times, serif" font-size="18.4" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">i</text>
 </svg>
