@@ -74,13 +74,18 @@ def configure_panini(common_w: float) -> None:
     P_FS_LABEL = ms.pt_to_px(11.0, common_w, WIDTH_IN)
     configure_fonts(common_w)        # share width with the vedic hex renderer
 
-P_TOP_BASE_Y = 172
-P_MID_BASE_Y = 334
-P_BOT_BASE_Y = 500
+P_TOP_BASE_Y = 236              # pushed down to clear the group headings above
+P_MID_BASE_Y = 388
+P_BOT_BASE_Y = 552
+GROUP_HEADING_Y = 96            # absolute y of the adādi/tip group titles
 P_LABEL_X = LABEL_COL_RIGHT     # labels right-justify in the left column
 P_BOTTOM_PAD = 34
 ARROW_STROKE_WIDTH = 1.45
 ARROW_TIP_ADVANCE = 9 * ARROW_STROKE_WIDTH
+# Near-horizontal drop arrows get an S-wave (down → up → down) instead of a flat
+# line, so the shaft does not run straight into the arrowhead.
+NEAR_HORIZ_THRESHOLD = 55
+NEAR_HORIZ_SWING = 18
 
 
 PANINI_LABELS = {
@@ -387,14 +392,18 @@ def render_drop_arrow(x1: float, y1: float, x2: float, y2: float, *, dashed: boo
     end_y = y2 - ARROW_TIP_ADVANCE if y2 >= y1 else y2 + ARROW_TIP_ADVANCE
     if abs(x1 - x2) < 10:
         d = f"M {x1:.1f},{y1:.1f} L {x2:.1f},{end_y:.1f}"
+    elif abs(end_y - y1) < NEAR_HORIZ_THRESHOLD:
+        # Near-horizontal: S-wave — leave the start going straight down, swing
+        # back up, then come down into the arrowhead.
+        sw = NEAR_HORIZ_SWING
+        d = (
+            f"M {x1:.1f},{y1:.1f} "
+            f"C {x1:.1f},{y1 + sw:.1f} {x2:.1f},{end_y - sw:.1f} {x2:.1f},{end_y:.1f}"
+        )
     else:
         span = end_y - y1
-        if y2 >= y1:
-            c1_y = y1 + span * 0.45
-            c2_y = y1 + span * 0.78
-        else:
-            c1_y = y1 + span * 0.45
-            c2_y = y1 + span * 0.78
+        c1_y = y1 + span * 0.45
+        c2_y = y1 + span * 0.78
         d = (
             f"M {x1:.1f},{y1:.1f} "
             f"C {x1:.1f},{c1_y:.1f} {x2:.1f},{c2_y:.1f} {x2:.1f},{end_y:.1f}"
@@ -512,7 +521,7 @@ def render_example(example: dict) -> str:
     for group_layout in source_groups:
         group = group_layout["group"]
         label_x = group_layout["label_x"] + dx
-        svg.append("  " + render_source_title(group, label_x, P_TOP_BASE_Y - 82).replace("\n", "\n  "))
+        svg.append("  " + render_source_title(group, label_x, GROUP_HEADING_Y).replace("\n", "\n  "))
         for unit_index, unit in enumerate(group_layout["units"]):
             if unit["kind"] != "particle":
                 continue
