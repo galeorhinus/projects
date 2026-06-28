@@ -223,13 +223,9 @@ The *prayoga* audit then proceeds in three steps. It identifies every *dhātuḥ
 
 The first result is that the corpus is not flat. A small set of atoms carries very wide bonding range.
 
-| Dhātuḥ | Valency |
-|---|---:|
-| **कृ (*kṛ*)** | 1,062 |
-| **भू (*bhū*)** | 504 |
-| **धा (*dhā*)** | 386 |
-| **हृ (*hṛ*)** | 368 |
-| **गम् (*gam*)** | 291 |
+| Dhātuḥ | **कृ (*kṛ*)** | **भू (*bhū*)** | **धा (*dhā*)** | **हृ (*hṛ*)** | **गम् (*gam*)** |
+|:--|:--:|:--:|:--:|:--:|:--:|
+| Valency | 1,062 | 504 | 386 | 368 | 291 |
 
 These are measured bonding counts, not prestige rankings.
 
