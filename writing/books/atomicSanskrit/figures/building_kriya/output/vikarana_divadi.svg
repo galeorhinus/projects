@@ -1,43 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 211" width="500" height="211">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 211" width="4.5in" height="1.899in">
   <title>div → dīvyati</title>
-  <rect x="0" y="0" width="500" height="211" fill="white"/>
-  <text x="60.0" y="26.0" font-family="Charter, Georgia, Times, serif" font-size="16" font-weight="600" fill="#1a1a1a"><tspan font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif">दिवादि</tspan> <tspan font-style="italic">(divādi)</tspan>  ·  <tspan font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif">दिव्</tspan> <tspan font-style="italic">(div)</tspan> → <tspan font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-weight="700">दीव्यति</tspan> <tspan font-style="italic">(dīvyati)</tspan></text>
-  <text x="60.0" y="48.0" font-family="Charter, Georgia, Times, serif" font-size="12" font-style="italic" fill="#555">vikaraṇa: śyan (ya)</text>
-  <g transform="translate(85.0,149.6)"><polygon points="-5.0,-52.0 5.0,-52.0 25.0,-17.3 5.0,17.3 -5.0,17.3 -25.0,-17.3" fill="#dcdcdc" stroke="#1a1a1a" stroke-width="1.4" stroke-linejoin="round"/>
-  <text x="0.0" y="-16.8" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="22" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">द्</text>
-  <text x="0.0" y="1.7" font-family="Charter, Georgia, Times, serif" font-size="11" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#333333">d</text></g>
-  <g transform="translate(85.0,149.6)"><polygon points="25.0,-86.6 125.0,-86.6 145.0,-52.0 125.0,-17.3 25.0,-17.3 5.0,-52.0" fill="#888888" stroke="#1a1a1a" stroke-width="1.4" stroke-linejoin="round"/>
-  <text x="75.0" y="-51.5" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="22" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ई</text>
-  <text x="75.0" y="-33.0" font-family="Charter, Georgia, Times, serif" font-size="11" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#222222">ī</text></g>
-  <g transform="translate(85.0,149.6)"><polygon points="145.0,-52.0 165.0,-52.0 165.0,17.3 145.0,17.3 125.0,-17.3" fill="#dcdcdc" stroke="none"/>
-  <polygon points="165.0,-52.0 185.0,-52.0 205.0,-17.3 185.0,17.3 165.0,17.3" fill="#888888" stroke="none"/>
-  <polygon points="145.0,-52.0 185.0,-52.0 205.0,-17.3 185.0,17.3 145.0,17.3 125.0,-17.3" fill="none" stroke="#1a1a1a" stroke-width="1.4" stroke-linejoin="round"/>
+  <rect x="0" y="0" width="500" height="211" fill="#ffffff"/>
+  <text x="60.0" y="26.0" font-family="Charter, Georgia, Times, serif" font-size="16" font-weight="600" fill="#3d2f1f"><tspan font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif">दिवादि</tspan> <tspan font-style="italic">(divādi)</tspan>  ·  <tspan font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif">दिव्</tspan> <tspan font-style="italic">(div)</tspan> → <tspan font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-weight="700">दीव्यति</tspan> <tspan font-style="italic">(dīvyati)</tspan></text>
+  <text x="60.0" y="48.0" font-family="Charter, Georgia, Times, serif" font-size="12" font-style="italic" fill="#6b563a">vikaraṇa: śyan (ya)</text>
+  <g transform="translate(85.0,149.6)"><polygon points="-5.0,-52.0 5.0,-52.0 25.0,-17.3 5.0,17.3 -5.0,17.3 -25.0,-17.3" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.4" stroke-linejoin="round"/>
+  <text x="0.0" y="-16.8" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="22" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">द्</text>
+  <text x="0.0" y="1.7" font-family="Charter, Georgia, Times, serif" font-size="11" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">d</text></g>
+  <g transform="translate(85.0,149.6)"><polygon points="25.0,-86.6 125.0,-86.6 145.0,-52.0 125.0,-17.3 25.0,-17.3 5.0,-52.0" fill="#6b563a" stroke="#5c4830" stroke-width="1.4" stroke-linejoin="round"/>
+  <text x="75.0" y="-51.5" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="22" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">ई</text>
+  <text x="75.0" y="-33.0" font-family="Charter, Georgia, Times, serif" font-size="11" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">ī</text></g>
+  <g transform="translate(85.0,149.6)"><polygon points="145.0,-52.0 165.0,-52.0 165.0,17.3 145.0,17.3 125.0,-17.3" fill="#d8c7a3" stroke="none"/>
+  <polygon points="165.0,-52.0 185.0,-52.0 205.0,-17.3 185.0,17.3 165.0,17.3" fill="#6b563a" stroke="none"/>
+  <polygon points="145.0,-52.0 185.0,-52.0 205.0,-17.3 185.0,17.3 145.0,17.3 125.0,-17.3" fill="none" stroke="#5c4830" stroke-width="1.4" stroke-linejoin="round"/>
   <defs><clipPath id="kriya-cluster-3-cell0"><rect x="125.0" y="-86.6" width="40.0" height="138.6"/></clipPath><clipPath id="kriya-cluster-3-cell1"><rect x="165.0" y="-86.6" width="40.0" height="138.6"/></clipPath></defs>
-  <text x="165.0" y="-19.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="20" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a" clip-path="url(#kriya-cluster-3-cell0)">व्य</text>
-  <text x="165.0" y="-19.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="20" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a" clip-path="url(#kriya-cluster-3-cell1)">व्य</text>
-  <text x="155.0" y="-0.3" font-family="Charter, Georgia, Times, serif" font-size="9" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#333333">v</text>
-  <text x="175.0" y="-0.3" font-family="Charter, Georgia, Times, serif" font-size="9" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#222222">y</text></g>
-  <g transform="translate(85.0,149.6)"><polygon points="205.0,-86.6 245.0,-86.6 265.0,-52.0 245.0,-17.3 205.0,-17.3 185.0,-52.0" fill="#888888" stroke="#1a1a1a" stroke-width="1.4" stroke-linejoin="round"/>
-  <text x="225.0" y="-51.5" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="22" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">अ</text>
-  <text x="225.0" y="-33.0" font-family="Charter, Georgia, Times, serif" font-size="11" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#222222">a</text></g>
-  <g transform="translate(85.0,149.6)"><polygon points="265.0,-52.0 275.0,-52.0 295.0,-17.3 275.0,17.3 265.0,17.3 245.0,-17.3" fill="#555555" stroke="#1a1a1a" stroke-width="1.4" stroke-linejoin="round"/>
-  <text x="270.0" y="-16.8" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="22" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#f5f5f5">त्</text>
-  <text x="270.0" y="1.7" font-family="Charter, Georgia, Times, serif" font-size="11" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#d8d8d8">t</text></g>
-  <g transform="translate(85.0,149.6)"><polygon points="295.0,-86.6 335.0,-86.6 355.0,-52.0 335.0,-17.3 295.0,-17.3 275.0,-52.0" fill="#555555" stroke="#1a1a1a" stroke-width="1.4" stroke-linejoin="round"/>
-  <text x="315.0" y="-51.5" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="22" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#f5f5f5">इ</text>
-  <text x="315.0" y="-33.0" font-family="Charter, Georgia, Times, serif" font-size="11" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#d8d8d8">i</text></g>
-  <line x1="70.0" y1="181.9" x2="430.0" y2="181.9" stroke="#888" stroke-width="1.2"/>
-  <line x1="70.0" y1="181.9" x2="70.0" y2="173.9" stroke="#888" stroke-width="1.2"/>
-  <line x1="100.0" y1="181.9" x2="100.0" y2="177.9" stroke="#888" stroke-width="1.0"/>
-  <line x1="130.0" y1="181.9" x2="130.0" y2="173.9" stroke="#888" stroke-width="1.2"/>
-  <line x1="160.0" y1="181.9" x2="160.0" y2="177.9" stroke="#888" stroke-width="1.0"/>
-  <line x1="190.0" y1="181.9" x2="190.0" y2="173.9" stroke="#888" stroke-width="1.2"/>
-  <line x1="220.0" y1="181.9" x2="220.0" y2="177.9" stroke="#888" stroke-width="1.0"/>
-  <line x1="250.0" y1="181.9" x2="250.0" y2="173.9" stroke="#888" stroke-width="1.2"/>
-  <line x1="280.0" y1="181.9" x2="280.0" y2="177.9" stroke="#888" stroke-width="1.0"/>
-  <line x1="310.0" y1="181.9" x2="310.0" y2="173.9" stroke="#888" stroke-width="1.2"/>
-  <line x1="340.0" y1="181.9" x2="340.0" y2="177.9" stroke="#888" stroke-width="1.0"/>
-  <line x1="370.0" y1="181.9" x2="370.0" y2="173.9" stroke="#888" stroke-width="1.2"/>
-  <line x1="400.0" y1="181.9" x2="400.0" y2="177.9" stroke="#888" stroke-width="1.0"/>
-  <line x1="430.0" y1="181.9" x2="430.0" y2="173.9" stroke="#888" stroke-width="1.2"/>
+  <text x="165.0" y="-19.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="20" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f" clip-path="url(#kriya-cluster-3-cell0)">व्य</text>
+  <text x="165.0" y="-19.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="20" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd" clip-path="url(#kriya-cluster-3-cell1)">व्य</text>
+  <text x="155.0" y="-0.3" font-family="Charter, Georgia, Times, serif" font-size="9" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">v</text>
+  <text x="175.0" y="-0.3" font-family="Charter, Georgia, Times, serif" font-size="9" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">y</text></g>
+  <g transform="translate(85.0,149.6)"><polygon points="205.0,-86.6 245.0,-86.6 265.0,-52.0 245.0,-17.3 205.0,-17.3 185.0,-52.0" fill="#6b563a" stroke="#5c4830" stroke-width="1.4" stroke-linejoin="round"/>
+  <text x="225.0" y="-51.5" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="22" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">अ</text>
+  <text x="225.0" y="-33.0" font-family="Charter, Georgia, Times, serif" font-size="11" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">a</text></g>
+  <g transform="translate(85.0,149.6)"><polygon points="265.0,-52.0 275.0,-52.0 295.0,-17.3 275.0,17.3 265.0,17.3 245.0,-17.3" fill="#4a3a28" stroke="#5c4830" stroke-width="1.4" stroke-linejoin="round"/>
+  <text x="270.0" y="-16.8" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="22" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">त्</text>
+  <text x="270.0" y="1.7" font-family="Charter, Georgia, Times, serif" font-size="11" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">t</text></g>
+  <g transform="translate(85.0,149.6)"><polygon points="295.0,-86.6 335.0,-86.6 355.0,-52.0 335.0,-17.3 295.0,-17.3 275.0,-52.0" fill="#4a3a28" stroke="#5c4830" stroke-width="1.4" stroke-linejoin="round"/>
+  <text x="315.0" y="-51.5" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="22" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">इ</text>
+  <text x="315.0" y="-33.0" font-family="Charter, Georgia, Times, serif" font-size="11" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">i</text></g>
+  <line x1="70.0" y1="181.9" x2="430.0" y2="181.9" stroke="#6b563a" stroke-width="1.2"/>
+  <line x1="70.0" y1="181.9" x2="70.0" y2="173.9" stroke="#6b563a" stroke-width="1.2"/>
+  <line x1="100.0" y1="181.9" x2="100.0" y2="177.9" stroke="#6b563a" stroke-width="1.0"/>
+  <line x1="130.0" y1="181.9" x2="130.0" y2="173.9" stroke="#6b563a" stroke-width="1.2"/>
+  <line x1="160.0" y1="181.9" x2="160.0" y2="177.9" stroke="#6b563a" stroke-width="1.0"/>
+  <line x1="190.0" y1="181.9" x2="190.0" y2="173.9" stroke="#6b563a" stroke-width="1.2"/>
+  <line x1="220.0" y1="181.9" x2="220.0" y2="177.9" stroke="#6b563a" stroke-width="1.0"/>
+  <line x1="250.0" y1="181.9" x2="250.0" y2="173.9" stroke="#6b563a" stroke-width="1.2"/>
+  <line x1="280.0" y1="181.9" x2="280.0" y2="177.9" stroke="#6b563a" stroke-width="1.0"/>
+  <line x1="310.0" y1="181.9" x2="310.0" y2="173.9" stroke="#6b563a" stroke-width="1.2"/>
+  <line x1="340.0" y1="181.9" x2="340.0" y2="177.9" stroke="#6b563a" stroke-width="1.0"/>
+  <line x1="370.0" y1="181.9" x2="370.0" y2="173.9" stroke="#6b563a" stroke-width="1.2"/>
+  <line x1="400.0" y1="181.9" x2="400.0" y2="177.9" stroke="#6b563a" stroke-width="1.0"/>
+  <line x1="430.0" y1="181.9" x2="430.0" y2="173.9" stroke="#6b563a" stroke-width="1.2"/>
 </svg>

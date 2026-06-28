@@ -27,6 +27,8 @@ from vedic_kriya_examples import (  # noqa: E402
     LABEL_COL_RIGHT,
     LATIN_FONT,
     LEADER_GAP,
+    NEAR_HORIZ_SWING,
+    NEAR_HORIZ_THRESHOLD,
     RIGHT_PAD,
     ROLE_FILL,
     ROLE_DEV,
@@ -82,10 +84,7 @@ P_LABEL_X = LABEL_COL_RIGHT     # labels right-justify in the left column
 P_BOTTOM_PAD = 34
 ARROW_STROKE_WIDTH = 1.45
 ARROW_TIP_ADVANCE = 9 * ARROW_STROKE_WIDTH
-# Near-horizontal drop arrows get an S-wave (down → up → down) instead of a flat
-# line, so the shaft does not run straight into the arrowhead.
-NEAR_HORIZ_THRESHOLD = 55
-NEAR_HORIZ_SWING = 18
+# NEAR_HORIZ_THRESHOLD / NEAR_HORIZ_SWING are shared from vedic_kriya_examples.
 
 
 PANINI_LABELS = {

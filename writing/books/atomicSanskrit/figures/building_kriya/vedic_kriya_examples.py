@@ -54,6 +54,10 @@ LEADER_TEXT_GAP = 12      # leader starts this far right of the label
 LEADER_HEX_GAP = 8        # leader ends this far left of the hex
 TOP_PAD = 22
 BOTTOM_PAD = 34
+# Near-horizontal arrows get an S-wave (down → up → down) instead of a flat line
+# running into the arrowhead. Shared by the vedic and panini arrow renderers.
+NEAR_HORIZ_THRESHOLD = 55
+NEAR_HORIZ_SWING = 18
 
 # Warm 4-role palette (from figures/_shared/matra_style.py):
 #   original  = dhātuḥ atom's own varṇas      -> tan
@@ -560,18 +564,24 @@ def render_source_particle(particle: dict, centers: dict[int, tuple[float, float
 
 
 def render_arrow(x1: float, y1: float, x2: float, y2: float, *, dashed: bool = False) -> str:
-    if abs(x1 - x2) < 0.1:
-        dash = ' stroke-dasharray="5 4"' if dashed else ""
-        return (
-            f'<path d="M {x1:.1f},{y1:.1f} L {x2:.1f},{y2:.1f}" fill="none" '
-            f'stroke="{ARROW}" stroke-width="1.35"{dash} marker-end="url(#arrowhead)"/>'
-        )
-    mid_y = (y1 + y2) / 2
     dash = ' stroke-dasharray="5 4"' if dashed else ""
+    if abs(x1 - x2) < 0.1:
+        d = f"M {x1:.1f},{y1:.1f} L {x2:.1f},{y2:.1f}"
+    elif abs(y2 - y1) < NEAR_HORIZ_THRESHOLD:
+        sw = NEAR_HORIZ_SWING        # S-wave: down out of the start, up, then down to the head
+        d = (
+            f"M {x1:.1f},{y1:.1f} "
+            f"C {x1:.1f},{y1 + sw:.1f} {x2:.1f},{y2 - sw:.1f} {x2:.1f},{y2:.1f}"
+        )
+    else:
+        mid_y = (y1 + y2) / 2
+        d = (
+            f"M {x1:.1f},{y1:.1f} "
+            f"C {x1:.1f},{mid_y:.1f} {x2:.1f},{mid_y:.1f} {x2:.1f},{y2:.1f}"
+        )
     return (
-        f'<path d="M {x1:.1f},{y1:.1f} C {x1:.1f},{mid_y:.1f} '
-        f'{x2:.1f},{mid_y:.1f} {x2:.1f},{y2:.1f}" fill="none" '
-        f'stroke="{ARROW}" stroke-width="1.35"{dash} marker-end="url(#arrowhead)"/>'
+        f'<path d="{d}" fill="none" stroke="{ARROW}" stroke-width="1.35"{dash} '
+        f'marker-end="url(#arrowhead)"/>'
     )
 
 
