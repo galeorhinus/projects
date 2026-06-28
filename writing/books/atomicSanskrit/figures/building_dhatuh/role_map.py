@@ -21,12 +21,21 @@ standalone.
 
 Run: python3 figures/building_dhatuh/role_map.py
 Outputs:
+  figures/building_dhatuh/role_map_color.from-py.svg
   figures/building_dhatuh/role_map_color.svg
+  figures/building_dhatuh/role_map_gray.from-py.svg
   figures/building_dhatuh/role_map_gray.svg
 """
 
 import math
+import sys
 from pathlib import Path
+
+
+# Make figures/_shared importable from this subdirectory.
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+
+from _shared.lineage import promote
 
 
 # Per-consonant position-role counts: (onset_outer, onset_inner, coda_inner, coda_outer)
@@ -89,14 +98,14 @@ PLACE_COLOR_COLOR = {
 # Single neutral gray for all places — print-monochrome mode.
 PLACE_COLOR_GRAY = {k: "#888888" for k in PLACE_COLOR_COLOR}
 
-PLACE_LABEL = {
-    "velar":     "Velar (कण्ठ्य)",
-    "palatal":   "Palatal (तालव्य)",
-    "retroflex": "Retroflex (मूर्धन्य)",
-    "dental":    "Dental (दन्त्य)",
-    "labial":    "Labial (ओष्ठ्य)",
-    "semivowel": "Semivowel (अन्तःस्थ)",
-    "sibilant":  "Sibilant / Aspirate (ऊष्म)",
+PLACE_LABEL_COMPACT = {
+    "velar":     "Velar",
+    "palatal":   "Palatal",
+    "retroflex": "Retroflex",
+    "dental":    "Dental",
+    "labial":    "Labial",
+    "semivowel": "Semivowel",
+    "sibilant":  "Sibilant",
 }
 
 # Axis configuration per book design notes
@@ -105,9 +114,17 @@ Y_MAX = 175   # cut at 175; last labelled tick at 150
 X_TICKS = [0, 50, 100, 150, 200]
 Y_TICKS = [0, 50, 100, 150]
 
+# The figure is designed for the 4.5 inch trade-book text block. Text sizes
+# below are SVG units: at 800 viewBox units over 4.5 inches, 20 units is ~8 pt.
+TICK_FONT = 20
+AXIS_FONT = 25
+LEGEND_HEADER_FONT = 24
+LEGEND_FONT = 20
+MIN_DEVANAGARI_FONT = 20
+LEADER_LINE_WIDTH = 0.8
+
 # Threshold below which a label is rendered outside the bubble with a leader.
 INSIDE_RADIUS_THRESHOLD = 16
-MIN_FONT = 14   # minimum font size for any label (inside or outside)
 
 
 def compute_points():
@@ -131,10 +148,12 @@ def render(mode: str, out_path: Path):
 
     width = 800
     height = 620
-    pad_l = 90
-    pad_r = 240 if show_place_legend else 60
-    pad_t = 50
-    pad_b = 90
+    svg_width_in = 4.5
+    svg_height_in = svg_width_in * height / width
+    pad_l = 48
+    pad_r = 18
+    pad_t = 36
+    pad_b = 84
     plot_w = width - pad_l - pad_r
     plot_h = height - pad_t - pad_b
 
@@ -203,7 +222,7 @@ def render(mode: str, out_path: Path):
         label_positions[b["ch"]] = {"lx": lx, "ly": ly, "b": b}
 
     # Iterative repulsion between outside labels to reduce overlap
-    label_radius = 12
+    label_radius = MIN_DEVANAGARI_FONT * 0.62
     for _ in range(60):
         moved = False
         items = list(label_positions.values())
@@ -222,8 +241,8 @@ def render(mode: str, out_path: Path):
                     c["ly"] += push * uy
                     moved = True
         for v in items:
-            v["lx"] = max(plot_left + 12, min(plot_right - 12, v["lx"]))
-            v["ly"] = max(plot_top + 12, min(plot_bottom - 12, v["ly"]))
+            v["lx"] = max(plot_left + 26, min(plot_right - 12, v["lx"]))
+            v["ly"] = max(plot_top + 18, min(plot_bottom - 22, v["ly"]))
         if not moved:
             break
 
@@ -244,7 +263,7 @@ def render(mode: str, out_path: Path):
     svg.append('<?xml version="1.0" encoding="UTF-8"?>')
     svg.append(
         f'<svg xmlns="http://www.w3.org/2000/svg" '
-        f'width="{width}" height="{height}" '
+        f'width="{svg_width_in}in" height="{svg_height_in:.4f}in" '
         f'viewBox="0 0 {width} {height}" '
         f'font-family="Charter, &quot;Bitstream Charter&quot;, &quot;DejaVu Serif&quot;, serif">'
     )
@@ -263,7 +282,7 @@ def render(mode: str, out_path: Path):
             f'stroke="black" stroke-width="0.6"/>'
         )
         svg.append(
-            f'<text x="{sx}" y="{ax_y1 + 22}" font-size="14" text-anchor="middle">{tick}</text>'
+            f'<text x="{sx}" y="{ax_y1 + 26}" font-size="{TICK_FONT}" text-anchor="middle">{tick}</text>'
         )
     for tick in Y_TICKS:
         _, sy = to_screen(0, tick)
@@ -272,31 +291,12 @@ def render(mode: str, out_path: Path):
             f'stroke="black" stroke-width="0.6"/>'
         )
         svg.append(
-            f'<text x="{pad_l - 10}" y="{sy + 5}" font-size="14" text-anchor="end">{tick}</text>'
+            f'<text x="{pad_l - 10}" y="{sy + 7}" font-size="{TICK_FONT}" text-anchor="end">{tick}</text>'
         )
 
     svg.append(
         f'<text x="{pad_l + plot_w / 2}" y="{height - 22}" '
-        f'font-size="20" text-anchor="middle">Onset deployment</text>'
-    )
-    svg.append(
-        f'<text x="28" y="{pad_t + plot_h / 2}" '
-        f'font-size="20" text-anchor="middle" '
-        f'transform="rotate(-90 28 {pad_t + plot_h / 2})">'
-        f'Coda deployment</text>'
-    )
-
-    # Diagonal y = x reference
-    diag_max = min(X_MAX, Y_MAX)
-    dx1, dy1 = to_screen(0, 0)
-    dx2, dy2 = to_screen(diag_max, diag_max)
-    svg.append(
-        f'<line x1="{dx1}" y1="{dy1}" x2="{dx2}" y2="{dy2}" '
-        f'stroke="#cccccc" stroke-width="0.5" stroke-dasharray="3,3"/>'
-    )
-    svg.append(
-        f'<text x="{dx2 - 6}" y="{dy2 + 16}" font-size="11" fill="#888" '
-        f'text-anchor="end">onset = coda</text>'
+        f'font-size="{AXIS_FONT}" text-anchor="middle">Onset deployment</text>'
     )
 
     # Leader lines (under bubbles)
@@ -304,7 +304,7 @@ def render(mode: str, out_path: Path):
         svg.append(
             f'<line x1="{v["ex"]:.1f}" y1="{v["ey"]:.1f}" '
             f'x2="{v["lx"]:.1f}" y2="{v["ly"]:.1f}" '
-            f'stroke="#888" stroke-width="0.5"/>'
+            f'stroke="#888" stroke-width="{LEADER_LINE_WIDTH}"/>'
         )
 
     # Bubbles
@@ -315,21 +315,21 @@ def render(mode: str, out_path: Path):
             f'fill="{color}" fill-opacity="0.55" stroke="#333" stroke-width="0.5"/>'
         )
 
-    # Inside labels — black, bold, scale with radius (min MIN_FONT)
+    # Inside labels — black, bold, scale with radius (min 8pt at 4.5in width)
     for b in bubble_data:
         if b["outside"]:
             continue
-        fs = max(MIN_FONT, min(b["r"] * 1.2, 32))
+        fs = max(MIN_DEVANAGARI_FONT, min(b["r"] * 1.2, 32))
         svg.append(
             f'<text x="{b["sx"]:.1f}" y="{b["sy"]:.1f}" font-size="{fs:.1f}" '
             f'font-weight="bold" fill="#1a1a1a" '
             f'text-anchor="middle" dominant-baseline="central">{b["ch"]}</text>'
         )
 
-    # Outside labels — black, bold, font MIN_FONT, with white halo for legibility
+    # Outside labels — black, bold, min 8pt at 4.5in width, with white halo for legibility
     for v in label_positions.values():
         svg.append(
-            f'<text x="{v["lx"]:.1f}" y="{v["ly"]:.1f}" font-size="{MIN_FONT}" '
+            f'<text x="{v["lx"]:.1f}" y="{v["ly"]:.1f}" font-size="{MIN_DEVANAGARI_FONT}" '
             f'font-weight="bold" fill="#1a1a1a" '
             f'text-anchor="middle" dominant-baseline="central" '
             f'stroke="white" stroke-width="3" paint-order="stroke">'
@@ -338,44 +338,50 @@ def render(mode: str, out_path: Path):
 
     # Legend
     if show_place_legend:
-        legend_x = pad_l + plot_w + 30
-        legend_y = pad_t + 10
+        legend_x = plot_right - 102
+        legend_y = pad_t + 154
+        row_gap = 22
+        legend_rows = ["velar", "palatal", "retroflex", "dental", "labial", "semivowel", "sibilant"]
         svg.append(
-            f'<text x="{legend_x}" y="{legend_y - 4}" '
-            f'font-size="15" font-weight="bold">Place</text>'
+            f'<rect x="{legend_x - 16}" y="{legend_y - 30}" width="120" height="184" '
+            f'rx="4" fill="white" fill-opacity="0.88" stroke="#dddddd" stroke-width="0.4"/>'
         )
-        for i, key in enumerate(["velar", "palatal", "retroflex", "dental",
-                                 "labial", "semivowel", "sibilant"]):
-            y = legend_y + 18 + i * 26
+        svg.append(
+            f'<text x="{legend_x}" y="{legend_y}" '
+            f'font-size="{LEGEND_HEADER_FONT}" font-weight="bold">Place</text>'
+        )
+        for i, key in enumerate(legend_rows):
+            y = legend_y + 27 + i * row_gap
             svg.append(
-                f'<circle cx="{legend_x + 9}" cy="{y - 5}" r="9" '
+                f'<circle cx="{legend_x + 8}" cy="{y - 6}" r="7" '
                 f'fill="{place_color[key]}" fill-opacity="0.55" '
                 f'stroke="#333" stroke-width="0.4"/>'
             )
             svg.append(
-                f'<text x="{legend_x + 24}" y="{y - 1}" font-size="13">{PLACE_LABEL[key]}</text>'
+                f'<text x="{legend_x + 20}" y="{y}" font-size="{LEGEND_FONT}">{PLACE_LABEL_COMPACT[key]}</text>'
             )
-        bs_legend_top = legend_y + 18 + 7 * 26 + 24
-        bs_legend_x = legend_x
+        bs_legend_x = plot_left + 24
+        bs_legend_top = plot_top + 32
     else:
-        bs_legend_x = pad_l + plot_w - 170
-        bs_legend_top = pad_t + 18
+        bs_legend_x = plot_left + 24
+        bs_legend_top = plot_top + 32
 
     svg.append(
         f'<text x="{bs_legend_x}" y="{bs_legend_top}" '
-        f'font-size="15" font-weight="bold">Inner-cluster size</text>'
+        f'font-size="{LEGEND_HEADER_FONT}" font-weight="bold">Inner-cluster size</text>'
     )
-    sample_sizes = [50, 150, max_inner]
+    sample_sizes = [50, 150]
+    circle_top = bs_legend_top + 24
     for i, s in enumerate(sample_sizes):
-        cx = bs_legend_x + 22 + i * 60
-        cy = bs_legend_top + 42
+        cx = bs_legend_x + 32 + i * 92
         r = bubble_r(s)
+        cy = circle_top + r
         svg.append(
-            f'<circle cx="{cx}" cy="{cy}" r="{r:.1f}" '
-            f'fill="#888" fill-opacity="0.5" stroke="#333" stroke-width="0.4"/>'
+            f'<text x="{cx}" y="{circle_top - 8}" font-size="{LEGEND_FONT}" text-anchor="middle">n={s}</text>'
         )
         svg.append(
-            f'<text x="{cx}" y="{cy + r + 14}" font-size="11" text-anchor="middle">n={s}</text>'
+            f'<circle cx="{cx}" cy="{cy:.1f}" r="{r:.1f}" '
+            f'fill="#888" fill-opacity="0.5" stroke="#333" stroke-width="0.4"/>'
         )
 
     svg.append("</svg>")
@@ -384,10 +390,13 @@ def render(mode: str, out_path: Path):
 
 
 def main():
-    out_dir = Path(__file__).resolve().parent.parent / "build"
-    out_dir.mkdir(exist_ok=True)
-    render("color", out_dir / "role_map_color.from-py.svg")
-    render("gray",  out_dir / "role_map_gray.from-py.svg")
+    out_dir = Path(__file__).resolve().parent
+    color_source = out_dir / "role_map_color.from-py.svg"
+    gray_source = out_dir / "role_map_gray.from-py.svg"
+    render("color", color_source)
+    render("gray", gray_source)
+    print(f"Promoted {promote(color_source)}")
+    print(f"Promoted {promote(gray_source)}")
 
 
 if __name__ == "__main__":
