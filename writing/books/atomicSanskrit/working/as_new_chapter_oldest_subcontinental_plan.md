@@ -22,6 +22,16 @@
 > - **The Mind (philosophical / meaning):** ego-displacement / receiver-grammar (*sampradāna*)
 >   + the conjunctive participle (action sequenced as lived). How the subcontinent *thinks*.
 
+> **Demonstration set (lead with these for *all* arguments — author preference).** Southern
+> subcontinent: **Tamil, Telugu.** Central forest belt: **Mundari, Korku, Ho.** These five — all
+> classed by the pyramid as *unrelated* to Sanskrit — carry the mouth and mind in living form
+> and are the primary witnesses everywhere in the chapter. **Kannada and Santali are kept only
+> as *secondary* witnesses**; Hindi/Marathi excluded by design (HIGHLIGHT 4). **Korku now well-attested**
+> from Nagaraja (1999) via research — retroflex (native minimal pairs incl. /ɭ/), rich
+> reduplication, converb (*-Done* / *-Ten*) with full sentences, experiencer DLC *-n/-en* (one
+> perception sentence); all [VERIFY] against cited pages. Lone gap: a canonical "I am hungry"
+> sentence. See the Korku evidence bank.
+
 > **Placement.** Part VI (*Dispelling Rāhu*), as the expanded Ch 16. Part B *is* the dispelling.
 > No new chapter; no numbering ripple.
 
@@ -43,7 +53,8 @@
 Sanskrit was built from the subcontinental **mouth and mind** and encoded into the Vedas. The
 anatomical substrate — the curled-tongue retroflex, the doubled sound — and the philosophical
 substrate — the self as receiver rather than ego-master, action chained as it is lived — are
-both present across the subcontinent's languages (Tamil and Mundari carry them living), both
+both present across the subcontinent's languages (Tamil, Telugu, Mundari, Korku, and Ho carry
+them living), both
 engineered into Sanskrit, and both standing in the Veda from its first word. Pāṇini documents
 the architecture; he does not invent it.
 
@@ -75,8 +86,20 @@ doubling) sits a few verses later, in the same hymn — the mouth at work from t
 The curled tongue and the doubled sound — how the subcontinent makes and patterns sound.
 
 - **Retroflex — मूर्धन्य (*mūrdhanya*).** The tongue curls to the dome. Present across Tamil,
-  Mundari, and the subcontinent's languages; built into the *varṇamālā*; in the Veda's first
-  word. *What Pāṇini documents as* मूर्धन्य. [Integrate the existing Ch 16 retroflex material as
+  Telugu, Mundari, Korku, Ho, and the subcontinent's languages; built into the *varṇamālā*; in
+  the Veda's first word. *What Pāṇini documents as* मूर्धन्य. **Korku is a solid retroflex
+witness:** Nagaraja (1999) gives the full series /ʈ ʈʰ ɖ ɖʱ/ + flap /ɽ/ + **lateral /ɭ/ (the
+*agnimīḷe* ḷ)**, with **native minimal pairs** — *gaTa* "mire" / *gaTha* "broken grain";
+*Donga* "boat"; *DanDa* "stick"; the lateral in *kaLLa* "become stiff," *naLLa* "bamboo tube,"
+*seLLa* "meet." The older Zide (1960) doubt about a true contrast is outweighed — one honest
+footnote, not a demotion. *Counter + **frame discipline:*** the pyramid frames Munda retroflexes
+as borrowed, and one is equally tempted to say "Marathi got its retroflexes (*cheṇḍū, jhāḍ,
+taḷmaḷ*) from Munda." **Refuse the directional-borrowing frame either way** — retroflexion is the
+**shared mouth-signature of the whole field** (Munda, Dravidian, Indo-Aryan, Sanskrit all curl
+the tongue because they are all *of the field*; it is not a thing one language "gave" another).
+That Munda carries it deeply — even feeding Indo-Aryan vocabulary — shows how *foundational* the
+mouth-signature is, not that anyone borrowed it. (Marathi's retained ḷ in *taḷmaḷ* echoes the
+Veda's *agnimī**ḷ**e* — a resonance for us; Marathi stays excluded from the demonstration.) [Integrate the existing Ch 16 retroflex material as
   this sub-section — the *mūrdhanya* apparatus, the cross-language survey, the vocal-tract
   argument.]
 - **Reduplication — अभ्यास (*abhyāsa*).** The mouth doubles a sound. The field paints the world
@@ -127,7 +150,7 @@ dogma* / the *asuric pyramid* in the chapter.)
   *portable* language would not carry the field's mouth and mind; a language *built* in the field
   carries nothing else. (Reuse the Ch 16 retroflex move: "Avestan does not run on it.")
 - **Cross-family method (HIGHLIGHT 4).** The features span the families the pyramid swears are
-  *unrelated* — Tamil, Telugu, Kannada + Mundari, Ho, Santali. When the "unrelated" families all
+  *unrelated* — Tamil, Telugu + Mundari, Korku, Ho. When the "unrelated" families all
   carry the same mouth and mind Sanskrit carries, **inheritance is off the table by the pyramid's
   own taxonomy.** Exclude Hindi/Marathi *on purpose* (dismissible as intra-*"Indo-Aryan"*
   inheritance — naming them weakens the case). *Not a gap; the trap.*
@@ -180,7 +203,9 @@ vocal-tract / *āryatva*-of-the-mouth argument, and the Avestan absence (which �
 **Field (living):** Munda mimetic ≈10% of the lexicon (Ho, Mundari, Kharia, Santali, Sora;
 Phillips & Harrison 2017); Mundari *oṛa-moṛa*; Santali *gɛl* → *gɛ-gɛl*. Tamil *pala-pala* /
 *puli-kili*; Telugu echo *gī-* (*pustakam-gistakam*) + *gama-gama*; Kannada echo *gi-*
-(*haṇa-giṇa*) + *gama-gam-ane*.
+(*haṇa-giṇa*) + *gama-gam-ane*. **Korku** (Nagaraja): full *sene-sene* "going-going,"
+*DoDo-DoDo meT kasulajjen* "by seeing-seeing the eyes pained"; partial *bo-boco* "to fall,"
+*si-siriñj* "to sing"; adverbial *din-din* "day after day" [VERIFY pages — see Korku bank].
 
 **Engineered — built across the whole verbal architecture** (reduced + rule-bound *abhyāsa*; one
 onset + short vowel; *kuhoś cuḥ*, velar→palatal: *kṛ* → *cakāra*). Five formations + word-
@@ -221,7 +246,10 @@ person. Two faces: **recipient** (faith/peace/grace) and **experiencer** (hunger
 
 **Field (experiencer face, living):** Tamil *eṉakku paci* / *eṉakku teriyum*; Telugu *nāku
 ākaḷigā undi* / *nāku telusu*; Kannada *nanage haśivāgide* / *nanage gottu*; Mundari *reṅgej*
-Experiencer-Object verb (Badenoch, *A Course in Mundari*).
+Experiencer-Object verb (Badenoch, *A Course in Mundari*); **Korku** marks the
+experiencer/dative subject with the dative-locative **‑n/‑in/‑en** — perception flows *to* the
+experiencer: *in-en kenDe-khija Do-ken* "to me something appeared blackish" (Nagaraja p. 81). A
+canonical state-experiencer ("I am hungry") is still pending [VERIFY — see Korku bank].
 
 **Engineered (the *kāraka* fingerprint).** The receiver is a defined role — **सम्प्रदान
 (*sampradāna*)** — decoded across a sūtra-family: **1.4.32** *karmaṇā yam abhipraiti sa
@@ -267,7 +295,9 @@ dative-subject pattern distinct.
 ## Conjunctive participle / absolutive
 **Field (living, subject-controlled — not "loose"):** Tamil *sāppiṭṭu vandān*; Telugu *nēnu
 aṅgaḍiki veḷḷ-i, pūlu kon-i … vaccānu*; Kannada *nānu aṅgaḍige hōg-i, haṇṇu tan-du … bandenu*;
-Mundari serial/converb *jom-kedte senojana* [VERIFY form vs Osada].
+Mundari serial/converb *jom-kedte senojana* [VERIFY form vs Osada]; Korku — converb *‑Done*
+"while/by" / *‑Ten* "after": *pa:rku saRup-Done hen* "all came running" (Nagaraja p. 79);
+**same-subject constraint NOT attested** (consistent with the caveat below) [VERIFY — Korku bank].
 
 **Engineered (Sanskrit):** *ktvā* on a bare root (*kṛtvā, khāditvā*); *lyap* on a prefixed root
 (*upagamya, praṇamya*) — preverb-conditioned allomorphy Pāṇini documents; one indeclinable folds
@@ -277,7 +307,9 @@ a whole prior clause (*alpākṣaram* economy, Ch 10).
 *default* coreference, not absolute: Sanskrit has documented exceptions — passive main clause →
 corefers with the *agent* (तेन भुक्त्वा गम्यते); dative-experiencer subjects (Tikkanen 1987;
 Lowe). And the same-subject converb is itself *areal* (Tamil, Mundari behave the same), not a
-Sanskrit-unique gate. **Drop "absolutely / strictly identical."**
+Sanskrit-unique gate. **Drop "absolutely / strictly identical."** (Corroboration: Munda and
+Dravidian converbs themselves relax the same-subject constraint when the converb's subject is
+inanimate and the act non-volitional — the field's converb is default-coreference too.)
 
 **Vedic witnesses (cited):**
 - RV 1.4.8: *asya **pītvā** śatakrato ghano vṛtrāṇām abhavaḥ* (*pītvā*, **‑tvā**, bare root).
@@ -290,6 +322,56 @@ Sanskrit-unique gate. **Drop "absolutely / strictly identical."**
 
 ---
 
+# Korku evidence bank (Nagaraja 1999 — pulled via Gemini/Codex; all [VERIFY] against cited pages)
+
+Korku is now well-attested across all four features from the standard grammar (K. S. Nagaraja,
+*Korku Language: Grammar, Texts and Vocabulary*, 1999). Pages are Nagaraja's; confirm against the
+scan (archive.org/details/korkulanguagegra00naga). High confidence (page-cited extraction), but
+keep [VERIFY] until a human checks the pages.
+
+**Korku inventory reconciliation.** The current atlas uses a conservative Korku inventory from
+Zide/Anderson: /ʈ ɖ/ light the retroflex place, while aspirates and richer liquid contrasts are
+held out. Nagaraja 1999 appears to list a richer inventory, including retroflex aspirates, flap,
+and lateral. Verify whether Nagaraja treats these as core phonemes, dialectal forms, or
+loan-sensitive contrasts before revising the figure.
+
+**Mouth — retroflex.** Full phonemic series /ʈ ʈʰ ɖ ɖʱ/ + flap /ɽ/ (R) + lateral /ɭ/ (L).
+Native minimal/contrast words: *gaTa* "mire" / *gaTha* "broken grain"; *Donga* "boat"; *DanDa*
+"stick"; lateral & flap in *atRe* "noose/intestine," *hoLa* "insist," *kaLLa* "become stiff,"
+*naLLa* "bamboo tube," *seLLa* "meet." Korku–Mundari correspondence: Korku *Do* ↔ Mundari *oRo*
+(retroflex stop ↔ flap). **Settles Zide (1960):** native retroflex contrast is attested.
+
+**Mouth — reduplication.** Rich and productive:
+- Full verbal: *sene-sene* "going-going," *handDi-handDi* "wandering a long time," *giTij-giTij*
+  "sleeping-sleeping"; sentence — *DoDo-DoDo meT kasulajjen* "by seeing-seeing, the eyes pained"
+  (p. 50).
+- Productive: *ja:m-ja:m* "weeping continuously," *mama-mama* "cutting," *mece-mece* "chewing";
+  imperative *jom-jom* "keep eating!", *sene-sene* "go away!" (p. 60).
+- Partial (builds infinitive/imperfective): *bo-boco* "to fall," *si-siriñj* "to sing," *nu-nu*
+  "to drink," *sa-sa* "to bring" (pp. 60–61).
+- Adverbial: *din-din* "day after day," *ra:To-ma-ra:To* "in the very night," *jhaTTo-jhaTTo*
+  "very quickly" (p. 84).
+
+**Mind — conjunctive participle / converb (gap closed).** Several non-finite chainers:
+- *-Ten* "after": *Da:-Ten* "after doing," *kiji-Ten* "after selling," *joen-a-Ten* "after
+  eating" (p. 78); borrowed alternative *badon* "after" (*jojom-a-badon* "after eating").
+- *-Done* "while / by" (simultaneous): *pa:rku saRup-Done hen* "all came running"; *inkiñj
+  ja:m-Done … ura-n ol-en* "the two went home weeping"; *"ra:m ra:m" men-Done biD-jen* "he got
+  up saying 'Ram Ram'" (p. 79).
+- "While" *okoTo / khento*; "before" *suTu* (*bibiT-a suTu … pu:ja-khe* "before sowing, he
+  prayed," p. 79).
+- **Same-subject constraint: NOT attested** for Korku — consistent with the chapter's "default
+  coreference, not an absolute gate" caveat. Do not claim it.
+- *Reduplication × converb:* *inkiñj higra-higra-Done … ol-en* "the two went … in fear" — a
+  fear-reduplication carried on the converb (Mouth and Mind at once).
+
+**Mind — receiver / experiencer (mostly there).** Dative-locative (DLC) marker *-n / -in / -en*:
+*Diku-n* "to them," *haT-in* "to the market," *inij-en* "to this (animate)" (pp. 47–48). The
+receiver-as-locus shows in *in-en kenDe-khija Do-ken* "to me something appeared blackish" (p. 81)
+— perception flows *to* the experiencer in the DLC case. Benefactive: *iñ-a liñ-en pirom Doy-ba*
+"show mercy on me" (p. 49). **Lone gap:** a canonical *state*-experiencer sentence ("I am hungry /
+I know / anger came to me / I feel cold").
+
 ## Comparison (at a glance)
 
 (Languages named directly; "southern subcontinent" = Tamil/Telugu/Kannada, "central forest belt"
@@ -300,10 +382,13 @@ Sanskrit-unique gate. **Drop "absolutely / strictly identical."**
 | **Sanskrit** | 5 rule-bound formations + *āmreḍita*; *cakāra, dadāti, ā-nonavīti, ajījanat* | *sampradāna* (1.4.32 family); *śrad asmai*, *mṛḷa mahyam* | absolutive by rule (*kṛtvā / upagamya*); *pītvā, hatvā* |
 | **Tamil** | *pala-pala*; echo *puli-kili* | *eṉakku paci* / *eṉakku teriyum* | *sāppiṭṭu vandān* |
 | **Telugu** | echo *gī-* (*pustakam-gistakam*); *gama-gama* | *nāku ākaḷigā undi* / *nāku telusu* | *veḷḷi … koni … vaccānu* |
-| **Kannada** | echo *gi-* (*haṇa-giṇa*); *gama-gam-ane* | *nanage haśivāgide* / *nanage gottu* | *hōgi … tandu … bandenu* |
 | **Mundari** | mimetic ≈10%; *oṛa-moṛa* | *reṅgej* Experiencer-Object verb | serial/converb [VERIFY] |
+| **Korku** | *DoDo-DoDo meT kasulajjen* "by seeing-seeing the eyes pained"; partial *bo-boco* "to fall" (Nagaraja) | DLC **‑n/‑in/‑en**: *in-en … Do-ken* "to me it appeared" (Nagaraja) | converb *‑Done* "while/by": *pa:rku saRup-Done hen* "all came running" (Nagaraja) |
 | **Ho** | rich mimetic [VERIFY] | experiencer construction [VERIFY] | serial/converb [VERIFY] |
-| **Santali** | *gɛl* → *gɛ-gɛl* | experiencer construction [VERIFY] | serial/converb [VERIFY] |
+
+*Secondary witnesses (carry all three; cited data on hand): **Kannada** — echo *gi-*
+(*haṇa-giṇa*); *nanage haśivāgide / gottu*; *hōgi … tandu … bandenu*. **Santali** — *gɛl* →
+*gɛ-gɛl*; experiencer construction; serial converb.*
 
 *Retroflex (the mouth's other half): present across all the above; **absent from Avestan / Old
 Iranian** — the inversion, HIGHLIGHT 1.*
@@ -347,6 +432,36 @@ Iranian** — the inversion, HIGHLIGHT 1.*
 - CP Vedic anchors: **RV 1.4.8 *pītvā***, **AVŚ 4.10.2 *hatvā*** (+ Gemini's *niṣadya* 10.15.6,
   *saṃgatvāya* 10.14.8).
 
+## Remaining work (to draft / to settle)
+
+**Tier 1 — blocks a solid draft:**
+1. **Integrate the existing Ch 16 retroflex prose** (`as_1_16_retroflex.md`) into §1 "The
+   Mouth" — the *mūrdhanya* apparatus, the cross-language survey, the vocal-tract argument, the
+   Avestan-absence; reframe under mouth/mind. Net-new to weld in: the *agnimīḷe* keystone + the
+   Korku data. (Half the body is currently a pointer to the old chapter.)
+2. **State the pyramid's *actual* claims, sourced** (so Part B aims true, not at strawmen):
+   substrate-retroflexion (Emeneau / "Dravidian → Sanskrit"); gerund-from-Dravidian (the named
+   exhibit); dative-subject-as-areal-convergence; Proto-Munda/Austroasiatic reconstruction
+   (retroflex "contact-induced"); "Ṛgveda composed NW-subcontinent, retroflex = early contact."
+3. **Avestan-absence evidence** (HIGHLIGHT 1, the hinge): sourced statements that the retroflex /
+   the gerund / the syntax are absent in Avestan / Old Iranian.
+4. **§3 synthesis — argue the mouth–mind *unity*:** why sound + meaning are ONE subcontinental
+   substrate (the field's signature, both encoded, both decoded by Pāṇini), not two coincidences
+   side by side. Make the retroflex *incorporation* explicit — by **place** (*mūrdhanya* in the
+   varṇamālā grid) — parallel to reduplication / dative / CP.
+
+**Tier 2 — verification:** see the Open verification queue below.
+
+**Tier 3 — production / admin:**
+- **Title** decision (*The Subcontinental Mouth and Mind* / *Mouth and Mind* / *The First Word*).
+- **Figures:** vocal-apparatus (exists, `figures/adivadya/vocal_apparatus_sanskrit.svg`); a
+  mouth↔mind schematic; the comparison table as a figure.
+- **TOC + handoff:** update `reference/as_toc*.md` — Ch 16 expands and **absorbs the §16.x /
+  "new chapter" idea**; no numbering ripple (it stays Ch 16).
+- **Source docs:** the two thesis drafts (claude + codex) are now superseded by this plan for
+  Ch 16; the claude doc still carries the old citation errors (grace RV 1.25.19, awe conflation,
+  well-being wording) — propagate the fixes or mark it retired in favor of this plan.
+
 ## Open verification queue
 
 - *agnimīḷe* / RV 1.1.1 *īḷe* = ḷ; ऋ = *mūrdhanya* in a named Prātiśākhya/Pāṇinian source.
@@ -354,6 +469,13 @@ Iranian** — the inversion, HIGHLIGHT 1.*
   contact (so §5/§6 aim at the real target, not a strawman).
 - AV 4.36.1 anger citation + case form (क्रुध्याम vs क्रुष्याम).
 - Mundari converb (*-kedte*) + *reṅgej* experiencer form (Osada; Badenoch).
+- **Korku — now well-attested (see the Korku evidence bank); all [VERIFY] against the cited
+  Nagaraja pages.** Retroflex (native minimal pairs incl. /ɭ/), reduplication, and converb
+  (*-Done* / *-Ten* with full sentences) are closed. **Remaining:** (a) a canonical *state*-
+  experiencer sentence ("I am hungry / I know / anger came to me") — only a perception-experiencer
+  (*in-en … Do-ken* "to me it appeared," p. 81) is in hand; (b) human confirmation of the page
+  numbers against the scan (archive.org/details/korkulanguagegra00naga). The same-subject converb
+  constraint is **not** attested — leave it unclaimed.
 - Telugu/Kannada transliteration pass (native-checked).
 - Preface Vāk line ↔ RV 10.71.4 cross-reference.
 - Whitney on dative-with-*ruc* (*yadyad rocate viprebhyaḥ*); *abhyāsa* substitution rules
