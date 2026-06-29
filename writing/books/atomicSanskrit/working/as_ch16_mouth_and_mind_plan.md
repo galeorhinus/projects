@@ -137,6 +137,95 @@ syntax by **substrate contact** ("areal borrowing"). The features just laid out 
 account, contamination acquired *after* arrival. (First appearance of *Western philological
 dogma* / the *asuric pyramid* in the chapter.)
 
+**Open with the account's retreat (the drama) — sharp version adopted (author's draft).** A
+self-correcting narrator who can't keep the story still, performing the account's *documented*
+retreat. Draft opener:
+
+> Let me tell the pyramid's story. White-skinned, blond-haired Aryans with perfect facial
+> length-to-width ratios arrived in India, conquered, and enslaved the dark locals — No. Sorry. That
+> is the old telling. The academy has quietly retired it. The optics failed. Again:
+>
+> Light-skinned, Sanskrit-speaking migrants arrived, settled along the rivers, and composed the
+> Vedas — No, too definite. "Arrived and composed" concedes the timeline, and the skin colour is
+> still too compromising. Scratch it. Carefully now, in the modern, approved form:
+>
+> Some people — unspecified, mobile, of no stated origin, definitively "colourless" on the page,
+> yet, the account is most insistent, absolutely NOT the people already living here — came from
+> somewhere to the northwest. Their language did not curl the tongue. It had no reduplicating
+> verb-classes. Its grammar had no receiver-based psychology. And these, the pyramid tells us, are
+> the people who gave the subcontinent Sanskrit.
+>
+> Watch what survives every revision. The label changes: from conquerors to invaders, to migrants,
+> to steppe pastoralists, to unspecified arrivals. The cranial indices and the blond hair are
+> quietly dropped. The skin is, very carefully, bleached into an "unspecified" neutral. The
+> narrative perimeter shrinks. But one axiom is never on the table, never permitted to be
+> questioned: the bringers came from outside, and they did not have the field's mouth and mind.
+
+**Pivot to the cycle:** *That is the axiom. Everything else is negotiable; that is not. Grant it,
+then follow where it leads — the people already in the land (Tamil, Telugu, Mundari, Korku) have all
+of it, and here the account's troubles begin in earnest.* → the iterative compose→recompose cycle.
+
+**Bulletproofing notes:**
+1. **Accuracy = the bite — one reference per claim, in the endnote.** The retreat-sequence is
+   *real historiography*, and **every stage the opener names gets its own citation in the
+   endnote** — so a hostile reader can't call it caricature; it is the theory's own record of
+   itself retreating. The mockery rides on the body text; the documentation rides in the note.
+   Per-claim anchors to gather (verify each before print):
+   - **craniometry / cephalic index** in colonial race-science → Risley, *The People of India*
+     (1908) + the anthropometric-survey apparatus;
+   - **the blond / Nordic Aryan** image → 19th-c. Aryanism (and Müller's own late disavowal:
+     "Aryan is a linguistic, not a racial, term");
+   - **invasion + enslavement of the *dāsas*** → Müller's invasion narrative / the racial
+     *ārya–dāsa* reading;
+   - **the softening to "migration"** → the mid-20th-c. shift from invasion to migration;
+   - **"steppe pastoralists"** → the post-2015 ancient-DNA model (Narasimhan et al. 2019; Reich
+     lab);
+   - **the deracialized "unspecified" arrivals** → the current careful framing.
+   [VERIFY each citation — do not print a stage the note can't source.]
+2. **Keep the reductio about the *language*, not human DNA.** Migration of *people* ≠ portability
+   of the *language*. People may have moved; the chapter's target is the claim that the *language*
+   came in featureless and was assembled by contact. Say this once → aDNA becomes orthogonal and
+   can't be wielded against the argument.
+3. **Dosage (author's call, adopted):** the sharp racialized-retreat opener stays
+   *portability-targeted* — the racial content is the account's *walked-back* history landing on
+   the axiom, not a RAT prosecution (that stays in Ch 2/3/17). The evidence body follows
+   immediately, so the bite is earned.
+
+**Tell it as an *iterative* story (the reductio).** Then *narrate* it, and make the absurdity
+iterative. A people arrive at the northwestern rivers (Sapta-Sindhu, the
+account's own geography) and **compose the Vedas.** Their language, on the account, has none of the
+field's marks. Then they meet the people already there, and the cycle begins:
+- they notice the locals **curl the tongue** (retroflex) → they go back, re-engineer the
+  sound-system, and **re-compose the Vedas** (now *agnimīḷe* opens on a retroflex lateral they
+  lacked a generation earlier);
+- they notice the locals **double their verbs as a grammatical engine** — the reduplicating
+  present-class (*juhotyādi gaṇa*), the doubled perfect (*liṭ-lakāra*), the desiderative, the
+  intensive → back; build reduplication into the *gaṇas* and the *lakāras*; **re-compose the
+  Vedas** (now *cakāra, dadāti, johavīti* run through the corpus);
+- they notice the locals carry a **peculiar idea of the self** — receiver, not sovereign → back;
+  add the receiver-case to the *kāraka* grammar; **re-compose the Vedas** (now faith is placed *to*
+  Indra, Vāk *reveals herself*);
+- the folded verb (*ktvā/lyap*) → back, recompose. And again. And again.
+
+Each feature a fresh discovery; each discovery a return to the workshop; each return **a fresh
+recomposition of the one corpus whose entire preservation apparatus — *Prātiśākhya*, eleven
+recitations, syllable-level correction — exists for the single purpose of ensuring it is *never
+changed.*** By the end they have taken the field's sounds, its morphology, its syntax, and its very
+idea of the self. **There is nothing migrant left; they have *become the people.*** **The
+one-fact reframe:** or — they *were* the people; the language was built in the field and composed
+once. No workshop, no returns, no recomposition of the unchangeable. *The field was theirs because
+they were of the field.* (Keep it a *fair* reductio — iteration is exactly what "acquired feature
+by feature, yet present in the oldest layer" requires — and RAT-clean: "the people already here,"
+"oldest" arguendo.)
+
+**The "stack of *ifs*" doubles as Part B's checklist** — each later beat pulls one: *if* they
+arrived without the field's mouth and mind (→ §5 Avestan + hardware); *if* they borrowed it back
+(→ §6 *agnimīḷe*: the borrowing would have to finish before the "oldest" layer it already
+saturates); *if* the fanatical preservers were also absent-minded importers (→ the preservation
+paradox); *if* the features are foreign at all (→ §5 cross-family method). Then the one-fact
+reframe: **the mouth was local.** (Keep it a *fair* reductio — every step is what the account
+genuinely requires — and RAT-clean: "the people already here," not "displaced"; "oldest" arguendo.)
+
 ## §5 — It cannot be borrowed (the inversion + the method)
 
 - **Avestan inversion (HIGHLIGHT 1).** Avestan / Old Iranian does not carry the same mouth/mind
@@ -196,6 +285,39 @@ dogma* / the *asuric pyramid* in the chapter.)
   shown something simpler: the mouth is local, the mind is local, the architecture is local, and
   the Vedas already encode it. Sanskrit was not carried into this field. Sanskrit was built from
   it.*
+
+## §8 — What the grammar keeps (the WHAT — the chapter's landing)
+
+The HOW (field-built, not portable) is the foundation; **the WHAT is the point.** Land here,
+*after* the verdict. The features aren't areal trivia — read together they encode a philosophy,
+and Sanskrit doesn't *state* it, it **builds it into the grammar**, so that to speak rightly is to
+rehearse it:
+- **the self is a receiver, not a sovereign** — *sampradāna* / the dative-experiencer;
+- **knowledge reveals itself, it is not conquered** — the Jñāna Sūkta, **RV 10.71.4** *uto tvasmai
+  tanvaṃ vi sasre* (Vāk discloses herself to the prepared; the *dṛṣṭāḥ* **see**);
+- **agency is distributed, not pyramidal** — the *kāraka* system (a swastika, not a pyramid);
+- **the orientation is well-being, received and passed on** — *svasti / śam / mṛḷ* → *lokakṣema*.
+
+Together: **Sanskrit preserves *saṃskṛti*** — ego displaced, knowledge as revelation, agency
+shared, orientation toward well-being — *as the operating logic of the language itself.*
+*Saṃskṛtam*, "perfectly synthesized," is *saṃskṛti* made audible.
+
+**This earns the preservation question — the handoff.** A civilization that built its philosophy
+into the *bones* of the language would also build the most fanatical machine to keep those bones
+from drifting, because to lose the structure is to lose the worldview. Against what? The *asuric
+pyramid* — ego, control, extraction, the apex (*vikṛti*). The receiver-self is the anti-apex; the
+distributed *kāraka* the anti-pyramid; *lokakṣema* the anti-extraction. **Sanskrit is the encoded
+refusal of the asuric.** Keep this landing **light** (the book's standing frame, not a Ch 3
+prosecution), and **do not name "architects" or tell the origin story here** — §8 only *raises*
+the why-preserve question and hands it forward:
+- → **Ch 17 §17.7** (who / why / how — the architects honest-speculation thread; seed RV **10.71.2**
+  *dhīrā manasā vācam akrata*, "the wise formed Speech with the mind"). See
+  `honest_speculation_thread_plan.md` (its §4.4: Ch 16 *earns* the speculation, doesn't make it).
+- → the **Epilogue** (*āryatva* = the open achievement of this ethos; *make the world ārya*).
+
+> **RV 10.71 coordination:** Ch 16 uses **10.71.4** (Vāk *reveals herself* — receiver / WHAT);
+> Ch 17 uses **10.71.2** (the wise *formed* Vāk — architects / formation). Same hymn, complementary
+> jobs — flag each per the thread plan's endnote qualifier.
 
 ---
 
@@ -451,8 +573,10 @@ Iranian** — the inversion, HIGHLIGHT 1.*
    **integration map → `as_ch16_integration_map.md`** (what stays / rephrases / compresses /
    relocates, the RAT-relocation plan, the net-new list, the tagged-rebuild sequence). Headline:
    ~75% of the old chapter is reusable for the Mouth + Part B; **RAT is out** (relocate 16.5–16.6);
-   net-new = the whole Mind, reduplication, Korku, the §3 hinge, and the flagged architects
-   speculation.
+   net-new = the whole Mind, reduplication, Korku, the §3 hinge, and the **§8 WHAT closing
+   movement** (which hands off to Ch 17 §17.7 + Epilogue). The architects/honest-speculation block
+   itself is **NOT** a Ch 16 section — it lives in **Ch 17 §17.7** (see `honest_speculation_thread_plan.md`);
+   Ch 16 only earns it.
 2. **State the pyramid's *actual* claims, sourced** (so Part B aims true, not at strawmen):
    substrate-retroflexion (Emeneau / "Dravidian → Sanskrit"); gerund-from-Dravidian (the named
    exhibit); dative-subject-as-areal-convergence; Proto-Munda/Austroasiatic reconstruction

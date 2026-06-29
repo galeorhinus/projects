@@ -37,8 +37,10 @@ stay in a `<!-- CUT-BIN -->` block at the bottom with a destination, until you s
 - **PART B** — name the portability thesis → can't-be-borrowed (Avestan inversion + cross-family
   method + frame discipline) → corpus subcontinental from its first word (*agnimīḷe* harvest) +
   layers-aren't-a-clock → engineering-not-borrowing → **verdict** + one-line RAT forward-pointer.
-- *(optional, flagged)* **An honest speculation** — the architects / preservation-against-asuras
-  block (see Net-new §5; departs from the apauruṣeyatva default, must be walled off as speculation).
+- **§8 What the Grammar Keeps (the WHAT — the chapter's landing).** The Mind features encode
+  *saṃskṛti* (receiver-self, knowledge-as-revelation, distributed agency, *lokakṣema*); raise the
+  why-preserve question; **hand off to Ch 17 §17.7** (the architects honest-speculation — *not* a
+  Ch 16 section) and the **Epilogue**. Close on the WHAT, after the portability verdict.
 
 ---
 
@@ -110,21 +112,19 @@ placed.
    experiencer (DLC *-n/-en*, *in-en … Do-ken*).
 4. **§3 the mouth–mind hinge.** Mouth and mind are one field expressing itself through sound,
    grammar, and philosophy — the chapter's conceptual spine.
-5. **The honest-speculation "architects" block** *(flagged; placement TBD).* From the author's
-   notes: start the **problem of preservation against the asuras**; *nāstika / prākṛtika* modes
-   are fine but insufficient to preserve the knowledge needed to fend off asuras; the very fact
-   that this book is being written is evidence the preservation succeeded; **this is the one place
-   the book says "architects."** The speculation: they created **Vāk** with their mind; created
-   **Sanskrit** first; knew entropy would make Sanskrit drift; so created the **Vedas** (possibly
-   the four Vedas on the four functions); not all mantras at once — a possible chronology in which
-   some RV/AV/SV/YV mantras came first and later generations of **mantra-dṛṣṭāḥ / dṛṣṭikāḥ** filled
-   in more.
-   - **Caveat (load-bearing):** this **departs from the book's default *apauruṣeyatva* framing**
-     (the *dṛṣṭāḥ* *saw*, did not compose; no designing agent-class). So it must be **explicitly
-     walled off as speculation** ("the lineage's own anchor is *apauruṣeyatva*; but if one
-     speculates about agency…") and kept to this one place. **Decision pending:** does it live as
-     a flagged coda in *this* chapter (after the verdict), or better in the Overture / a dedicated
-     spot where the *dṛṣṭāḥ* framing is set? Don't fold it into the empirical sections.
+5. **§8 — the WHAT closing movement (the chapter's landing).** Read the Mind features together:
+   they encode *saṃskṛti* — receiver-self (*sampradāna*), knowledge-as-revelation (Jñāna Sūkta,
+   **RV 10.71.4**), distributed agency (*kāraka* = swastika not pyramid), *lokakṣema* (*svasti /
+   śam / mṛḷ*). Sanskrit **builds** this into the grammar (doesn't state it); *saṃskṛtam* is
+   *saṃskṛti* made audible. §8 lands the philosophy, raises the *why-preserve* question, and hands
+   off — to **Ch 17 §17.7** and the **Epilogue**. Keep the asuric / anti-apex landing *light*.
+   - **The architects / preservation-against-asuras speculation is NOT a Ch 16 section** (placement
+     now resolved). Per `honest_speculation_thread_plan.md` its main home is **Ch 17 §17.7**; Ch 16
+     only *earns* it, and must **avoid "architects" except in explicitly-flagged speculation**
+     (thread-plan §4.4). The author's notes (Vāk formed with the mind; Sanskrit first;
+     entropy-drift → the Vedas; four-Vedas / four-functions; mantra-chronology) feed **Ch 17 §17.7**,
+     seeded by **RV 10.71.2** (*dhīrā manasā vācam akrata*). RV 10.71 coordination: Ch 16 → 10.71.4
+     (Vāk reveals herself); Ch 17 → 10.71.2 (the wise formed Vāk).
 
 ---
 
