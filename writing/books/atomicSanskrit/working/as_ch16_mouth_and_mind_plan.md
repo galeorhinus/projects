@@ -447,10 +447,12 @@ Iranian** — the inversion, HIGHLIGHT 1.*
 ## Remaining work (to draft / to settle)
 
 **Tier 1 — blocks a solid draft:**
-1. **Integrate the existing Ch 16 retroflex prose** (`as_1_16_retroflex.md`) into §1 "The
-   Mouth" — the *mūrdhanya* apparatus, the cross-language survey, the vocal-tract argument, the
-   Avestan-absence; reframe under mouth/mind. Net-new to weld in: the *agnimīḷe* keystone + the
-   Korku data. (Half the body is currently a pointer to the old chapter.)
+1. **Integrate the existing Ch 16 retroflex prose** (`as_1_16_retroflex.md`) per the detailed
+   **integration map → `as_ch16_integration_map.md`** (what stays / rephrases / compresses /
+   relocates, the RAT-relocation plan, the net-new list, the tagged-rebuild sequence). Headline:
+   ~75% of the old chapter is reusable for the Mouth + Part B; **RAT is out** (relocate 16.5–16.6);
+   net-new = the whole Mind, reduplication, Korku, the §3 hinge, and the flagged architects
+   speculation.
 2. **State the pyramid's *actual* claims, sourced** (so Part B aims true, not at strawmen):
    substrate-retroflexion (Emeneau / "Dravidian → Sanskrit"); gerund-from-Dravidian (the named
    exhibit); dative-subject-as-areal-convergence; Proto-Munda/Austroasiatic reconstruction
