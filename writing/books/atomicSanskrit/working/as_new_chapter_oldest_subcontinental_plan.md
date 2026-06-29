@@ -458,9 +458,12 @@ Iranian** — the inversion, HIGHLIGHT 1.*
   mouth↔mind schematic; the comparison table as a figure.
 - **TOC + handoff:** update `reference/as_toc*.md` — Ch 16 expands and **absorbs the §16.x /
   "new chapter" idea**; no numbering ripple (it stays Ch 16).
-- **Source docs:** the two thesis drafts (claude + codex) are now superseded by this plan for
-  Ch 16; the claude doc still carries the old citation errors (grace RV 1.25.19, awe conflation,
-  well-being wording) — propagate the fixes or mark it retired in favor of this plan.
+- **Source docs (archived):** the two thesis drafts are **archived to `archive/`** — this plan
+  is canonical for Ch 16. The **Codex draft**
+  (`archive/subcontinental_features_sanskrit_engineering_thesis_codex.md`) holds **7 draft-prose
+  "manuscript formulation" paragraphs** + a fuller source list — mine it for *prose seeds* at
+  drafting time. The **Claude draft** is superseded and its citations are stale (grace RV
+  1.25.19, awe conflation, well-being wording — corrected here); do not draft from it.
 
 ## Open verification queue
 
@@ -492,3 +495,32 @@ Iranian** — the inversion, HIGHLIGHT 1.*
   10.14.8 (‑tvāya).
 - **Retroflex (the Mouth's first half):** integrate the existing Ch 16 draft (`as_1_16_retroflex.md`)
   as §1's retroflex sub-section; keep its cross-language survey and Avestan-absence intact.
+
+## Sources (consolidated from both drafts — verify before citing)
+
+*Areal-features framework:* Emeneau, "India as a Linguistic Area" (1956) — the inventory, and the
+gerund as distinguishing Sanskrit from other Indo-European; Masica, *Defining a Linguistic Area:
+South Asia* (1976); Subbarao, *South Asian Languages: A Syntactic Typology*.
+
+*Conjunctive participle / converb:* Amritavalli, *Morphology in Dravidian Languages* (Dravidian
+CP is subject-controlled); Tikkanen, *The Sanskrit Gerund* (1987) + Lowe, *Raising and Passive in
+Sanskrit* (non-canonical-subject gerunds — the caveat); Osada, *A Reference Grammar of Mundari* +
+Anderson, *The Munda Verb* (Munda converbs).
+
+*Dative / experiencer:* Verma & Mohanan, *Experiencer Subjects in South Asian Languages* (the
+regional construction ≠ Sanskrit's case architecture); Badenoch, *A Course in Mundari* (*reṅgej*
+Experiencer-Object); Whitney, *Sanskrit Grammar* (dative with *ruc*: *yadyad rocate viprebhyaḥ*).
+Pāṇini: 1.4.32 / 1.4.33 / 1.4.37 / 2.3.13 / 2.3.16.
+
+*Reduplication:* Phillips & Harrison, "Munda Mimetic Reduplication" (2017); Whitney, *Sanskrit
+Grammar* (intensive ch. XIV; *abhyāsa* §588 ff.); "Reduplication and Grammaticalization in Vedic
+Sanskrit" (academia.edu — cite for forms, not chronology).
+
+*Korku:* **Nagaraja, *Korku Language: Grammar, Texts and Vocabulary* (1999)** — the standard
+grammar (archive.org/details/korkulanguagegra00naga); Zide (1960) — the (outweighed)
+retroflex-contrast doubt; "Noun Morphology in Nihali and Korku" (the experiencer marker).
+
+*Vedic anchors (all [VERIFY] against a concordance):* absolutive RV 1.4.8, AVŚ 4.10.2 (+ RV
+10.15.6, 10.14.8); dative six-state matrix RV 2.12.5 / 1.114.1 / 6.47.10 / 2.33.8 / 1.89.6 /
+10.71.4 (anger AV 4.36.1 pending); reduplication RV 10.107.7 / 7.87.4 / 1.164.4 / 1.32.1 / 7.86.4
+/ 8.4.11 / 10.68.12 / 10.134.1 / 1.161.13 / 10.91.2 / 1.1.7.
