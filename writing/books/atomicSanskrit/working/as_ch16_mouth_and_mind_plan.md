@@ -1,12 +1,10 @@
 # Ch 16 (restructure) — *The Subcontinental Mouth and Mind*
 
 > **This supersedes the "new chapter after Ch 16" idea — the material is ROLLED INTO Ch 16.**
-> Filename is legacy (`as_new_chapter_oldest_subcontinental_plan.md`); rename to
-> `as_ch16_mouth_and_mind_plan.md` when convenient. Absorbs both subcontinental-features
-> drafts (`as_subcontinental_features_thesis_claude.md` + `…_codex.md`) and the existing Ch 16
+> Absorbs both subcontinental-features drafts (now in `archive/`) and the existing Ch 16
 > retroflex draft (`as_1_16_retroflex.md`).
 
-> **Concept.** One chapter on the **philosophical and anatomical substrate** that built
+> **Concept.** One chapter on the **philosophical and anatomical ground** that built
 > Sanskrit and encoded it into the Vedas. The **mouth** (anatomical / sound) and the **mind**
 > (philosophical / meaning) are both subcontinental — present across Tamil, Mundari, and the
 > Indian languages — and both are built into Sanskrit and standing in the Veda.
@@ -51,17 +49,16 @@
 ## Thesis
 
 Sanskrit was built from the subcontinental **mouth and mind** and encoded into the Vedas. The
-anatomical substrate — the curled-tongue retroflex, the doubled sound — and the philosophical
-substrate — the self as receiver rather than ego-master, action chained as it is lived — are
-both present across the subcontinent's languages (Tamil, Telugu, Mundari, Korku, and Ho carry
-them living), both
-engineered into Sanskrit, and both standing in the Veda from its first word. Pāṇini documents
-the architecture; he does not invent it.
+anatomical ground — the curled-tongue retroflex, the doubled sound — and the philosophical
+ground — the self as receiver rather than ego-master, action chained as it is lived — are both
+present across the subcontinent's languages (Tamil, Telugu, Mundari, Korku, and Ho carry them
+living) and both engineered into Sanskrit: the **mouth** stands in the Veda from its first word,
+the **mind** across the encoded corpus. Pāṇini documents the architecture; he does not invent it.
 
 Only once that stands does the chapter turn. The **portability thesis** — that Sanskrit is a
 transportable Indo-European import, carried in and *then* fitted with local features by contact
-— cannot survive a language whose mouth and mind are subcontinental to the root. **Sanskrit is
-not portable. It is rooted.**
+— cannot survive a language whose mouth and mind belong to the subcontinent. **Sanskrit is not
+portable. It is field-built.**
 
 ---
 
@@ -81,35 +78,28 @@ first word are both retroflex. (State this as a *fact*; no pyramid yet. Anchor w
 apparatus figure, `figures/adivadya/vocal_apparatus_sanskrit.svg`.) Even *dive-dive* (word-
 doubling) sits a few verses later, in the same hymn — the mouth at work from the opening breath.
 
-## §1 — The Mouth (the anatomical / sound substrate)
+## §1 — The Mouth (the anatomical / sound ground)
 
 The curled tongue and the doubled sound — how the subcontinent makes and patterns sound.
 
 - **Retroflex — मूर्धन्य (*mūrdhanya*).** The tongue curls to the dome. Present across Tamil,
   Telugu, Mundari, Korku, Ho, and the subcontinent's languages; built into the *varṇamālā*; in
-  the Veda's first word. *What Pāṇini documents as* मूर्धन्य. **Korku is a solid retroflex
-witness:** Nagaraja (1999) gives the full series /ʈ ʈʰ ɖ ɖʱ/ + flap /ɽ/ + **lateral /ɭ/ (the
-*agnimīḷe* ḷ)**, with **native minimal pairs** — *gaTa* "mire" / *gaTha* "broken grain";
-*Donga* "boat"; *DanDa* "stick"; the lateral in *kaLLa* "become stiff," *naLLa* "bamboo tube,"
-*seLLa* "meet." The older Zide (1960) doubt about a true contrast is outweighed — one honest
-footnote, not a demotion. *Counter + **frame discipline:*** the pyramid frames Munda retroflexes
-as borrowed, and one is equally tempted to say "Marathi got its retroflexes (*cheṇḍū, jhāḍ,
-taḷmaḷ*) from Munda." **Refuse the directional-borrowing frame either way** — retroflexion is the
-**shared mouth-signature of the whole field** (Munda, Dravidian, Indo-Aryan, Sanskrit all curl
-the tongue because they are all *of the field*; it is not a thing one language "gave" another).
-That Munda carries it deeply — even feeding Indo-Aryan vocabulary — shows how *foundational* the
-mouth-signature is, not that anyone borrowed it. (Marathi's retained ḷ in *taḷmaḷ* echoes the
-Veda's *agnimī**ḷ**e* — a resonance for us; Marathi stays excluded from the demonstration.) [Integrate the existing Ch 16 retroflex material as
-  this sub-section — the *mūrdhanya* apparatus, the cross-language survey, the vocal-tract
-  argument.]
+  the Veda's first word. *What Pāṇini documents as* मूर्धन्य. **Korku is a solid witness:**
+  Nagaraja (1999) gives the full series /ʈ ʈʰ ɖ ɖʱ/ + flap /ɽ/ + **lateral /ɭ/ (the *agnimīḷe*
+  ḷ)**, with native minimal pairs — *gaTa* "mire" / *gaTha* "broken grain"; *Donga* "boat";
+  *DanDa* "stick"; the lateral in *kaLLa, naLLa, seLLa*. (Marathi's retained ḷ in *taḷmaḷ*
+  echoes the Veda's *agnimī**ḷ**e* — a resonance; Marathi stays excluded from the demonstration.)
+  [Integrate the existing Ch 16 retroflex material here — the *mūrdhanya* apparatus, the
+  cross-language survey, the vocal-tract argument. **PART A stays positive: the
+  directional-borrowing counter + the Zide (1960) dispute move to PART B (§5).**]
 - **Reduplication — अभ्यास (*abhyāsa*).** The mouth doubles a sound. The field paints the world
-  by echoing it (Munda mimetic ≈10% of the lexicon; Dravidian echo/expressive). In Sanskrit the
+  by echoing it (mimetic reduplication ≈10% of the lexicon in the central forest belt; southern echo/expressive). In Sanskrit the
   doubling is built across the whole verbal architecture — five rule-bound formations +
   word-doubling — and the reduplicating class carries an acoustic signature (C4, Ch 11 §11.6).
   *What Pāṇini documents as* the perfect, the reduplicating class, the desiderative, the
   intensive, the *caṅ*-aorist, and *āmreḍita*. [→ Evidence bank: The Mouth.]
 
-## §2 — The Mind (the philosophical / meaning substrate)
+## §2 — The Mind (the philosophical / meaning ground)
 
 The self as receiver, the act as lived — how the subcontinent frames experience.
 
@@ -124,12 +114,16 @@ The self as receiver, the act as lived — how the subcontinent frames experienc
   Mundari converb). In the Veda: *pītvā*, *hatvā*, *niṣadya*, *saṃgatvāya*. *What Pāṇini
   documents as* the absolutive (*ktvā / lyap*). [→ Evidence bank: The Mind.]
 
-## §3 — One substrate, encoded (positive verdict, still no pyramid)
+## §3 — One field, encoded (the hinge — positive verdict, still no pyramid)
 
-The mouth and the mind are one subcontinental substrate. It built the language; it stands in the
-Veda from the first word; Pāṇini documents it whole. Sanskrit is uniquely architected in the
-subcontinent — in *sound* and in *meaning* alike. State the verdict flat, with no antagonist in
-view: this is simply what Sanskrit is.
+**Mouth and mind are not two coincidences; they are one field expressing itself** — through
+sound, through grammar, through philosophy. The curled tongue and the receiver-self are the same
+subcontinental ground seen from two angles: the body that makes the sounds, the mind that frames
+experience. Sanskrit takes that one field and engineers it — the mouth into the *varṇamālā*, the
+mind into the *kāraka* grammar — and the Veda encodes the whole (the mouth from its first word,
+the mind across the corpus). Pāṇini documents it; he does not invent it. State the verdict flat,
+with no antagonist in view: this is simply what Sanskrit is — *field-built, in sound and in
+meaning alike.*
 
 ---
 
@@ -145,10 +139,21 @@ dogma* / the *asuric pyramid* in the chapter.)
 
 ## §5 — It cannot be borrowed (the inversion + the method)
 
-- **Avestan inversion (HIGHLIGHT 1).** The mouth and the mind are absent from the "sister"
-  Avestan / Old Iranian — exactly what *built-in-the-field* predicts, not late borrowing. A
-  *portable* language would not carry the field's mouth and mind; a language *built* in the field
-  carries nothing else. (Reuse the Ch 16 retroflex move: "Avestan does not run on it.")
+- **Avestan inversion (HIGHLIGHT 1).** Avestan / Old Iranian does not carry the same mouth/mind
+  cluster — the **retroflex absence is strong and well-sourced**; the syntax is a *sourced
+  comparison* (state it, don't overclaim). That gap is exactly what *built-in-the-field* predicts,
+  not late borrowing: a *portable* language would not carry the field's mouth and mind; a language
+  *built* in the field carries nothing else. (Reuse the Ch 16 move: "Avestan does not run on it.")
+- **Frame discipline — refuse directional borrowing (moved here from Part A).** The pyramid frames
+  the central-forest-belt and southern retroflexes as *borrowed*; one is equally tempted to say
+  "Marathi got its retroflexes (*cheṇḍū, jhāḍ, taḷmaḷ*) from Munda." **Refuse the directional frame
+  either way** — retroflexion is the **shared mouth-signature of the whole field**: its languages
+  all curl the tongue because they are *of the field*; it is not a thing one language "gave"
+  another. That the central-forest-belt languages carry it deeply — even feeding Indo-Aryan
+  vocabulary — shows how *foundational* it is, not that anyone borrowed it. (On *origin*, the
+  pyramid leans on a reconstructed **Proto-Austroasiatic without retroflexes** — the same
+  reconstruction move as PIE — and Zide (1960) once doubted Korku's contrast; both are answered by
+  Nagaraja's native minimal pairs in §1.)
 - **Cross-family method (HIGHLIGHT 4).** The features span the families the pyramid swears are
   *unrelated* — Tamil, Telugu + Mundari, Korku, Ho. When the "unrelated" families all
   carry the same mouth and mind Sanskrit carries, **inheritance is off the table by the pyramid's
@@ -184,9 +189,13 @@ dogma* / the *asuric pyramid* in the chapter.)
   rule-bound *abhyāsa* and assigned slots; the receiver by the *sampradāna* role; action-chaining
   by *ktvā / lyap*. A borrower leaves features raw and peripheral; an engineer makes them
   structural. That versatility is the signature of design.
-- **Verdict.** Sanskrit is not portable. It is rooted — built from the subcontinental mouth and
-  mind, encoded in the Veda, documented by Pāṇini. The portability thesis collapses on the
-  corpus's own first word. (Tie *agnimīḷe* open → close.)
+- **Verdict.** Sanskrit is not portable. It is **field-built** — made from the subcontinental
+  mouth and mind, encoded in the Veda, documented by Pāṇini. The portability thesis collapses on
+  the corpus's own first word. (Tie *agnimīḷe* open → close.)
+- **Closing line (shape):** *The pyramid calls these features later contact. The chapter has
+  shown something simpler: the mouth is local, the mind is local, the architecture is local, and
+  the Vedas already encode it. Sanskrit was not carried into this field. Sanskrit was built from
+  it.*
 
 ---
 
@@ -200,7 +209,7 @@ vocal-tract / *āryatva*-of-the-mouth argument, and the Avestan absence (which �
 *mūrdhanya* in a named Prātiśākhya/Pāṇinian source; verify the *īḷe* reading at RV 1.1.1.]
 
 ## Reduplication (*abhyāsa*) — five formations + word-doubling
-**Field (living):** Munda mimetic ≈10% of the lexicon (Ho, Mundari, Kharia, Santali, Sora;
+**Field (living):** mimetic reduplication ≈10% of the lexicon in the central forest belt (Ho, Mundari, Kharia, Santali, Sora;
 Phillips & Harrison 2017); Mundari *oṛa-moṛa*; Santali *gɛl* → *gɛ-gɛl*. Tamil *pala-pala* /
 *puli-kili*; Telugu echo *gī-* (*pustakam-gistakam*) + *gama-gama*; Kannada echo *gi-*
 (*haṇa-giṇa*) + *gama-gam-ane*. **Korku** (Nagaraja): full *sene-sene* "going-going,"
@@ -269,9 +278,12 @@ not invent a way to think.*
 | Safety (*svasti*) | RV 1.89.6 | *svasti **naḥ** … bṛhaspatir dadhātu* |
 | Knowledge (Jñāna Sūkta) | RV 10.71.4 | *uto **tvasmai** tanvaṃ vi sasre, jāyeva patya uśatī suvāsāḥ* |
 
-**Anger — held back.** A *laukika / bhāṣāyām* witness for now: Pāṇini documents it (1.4.37), but
-the proposed Vedic citation (AV 4.36.1) is pending a clean reference — not counted among the
-Vedic witnesses until verified. (Do not present the matrix as complete.)
+**Anger — moving toward Vedic prose.** Pāṇini documents it directly (1.4.37); and the *tasmai …
+akrudhyat* "to him … was angry" construction (dative target of *krudh*) is a stock Brāhmaṇa-prose
+formula — candidate locators **TS 2.6.6.1**, **ŚB 1.4.3.16** (both flagged mis-numbered in an
+earlier pass: the *construction* is solid, the *exact* citations need confirming). If confirmed,
+anger is **Vedic-prose** evidence, not *bhāṣāyām*-only. Until then, don't count it among the six
+mantra witnesses. [VERIFY locators]
 
 **Keystone — the Jñāna Sūkta (RV 10.71.4).** The hymn on the *origin of language itself*: the
 human does not seize knowledge as an object — **Vāk, Speech, is the agent, and she reveals
@@ -284,7 +296,7 @@ draws on RV 10.71.4.]
 the subject commands, owns, acts. The subcontinental field, and the *sampradāna* role, let
 grammar say states *happen to* a person; the grammar refuses to make the ego the only
 grammatical center. The non-pyramidal stance, carried in the case-system. (This is the deep link
-between the *mind* substrate and the book's spine — but in Part A state it as worldview, without
+between the *mind* ground and the book's spine — but in Part A state it as worldview, without
 the pyramid; the anti-apex polemic can echo lightly in Part B.)
 
 **Caution (keep distinct, not a chronology).** The regional dative-*subject* construction
@@ -307,8 +319,8 @@ a whole prior clause (*alpākṣaram* economy, Ch 10).
 *default* coreference, not absolute: Sanskrit has documented exceptions — passive main clause →
 corefers with the *agent* (तेन भुक्त्वा गम्यते); dative-experiencer subjects (Tikkanen 1987;
 Lowe). And the same-subject converb is itself *areal* (Tamil, Mundari behave the same), not a
-Sanskrit-unique gate. **Drop "absolutely / strictly identical."** (Corroboration: Munda and
-Dravidian converbs themselves relax the same-subject constraint when the converb's subject is
+Sanskrit-unique gate. **Drop "absolutely / strictly identical."** (Corroboration: the central-forest-belt
+and southern converbs themselves relax the same-subject constraint when the converb's subject is
 inanimate and the act non-volitional — the field's converb is default-coreference too.)
 
 **Vedic witnesses (cited):**
@@ -446,9 +458,13 @@ Iranian** — the inversion, HIGHLIGHT 1.*
 3. **Avestan-absence evidence** (HIGHLIGHT 1, the hinge): sourced statements that the retroflex /
    the gerund / the syntax are absent in Avestan / Old Iranian.
 4. **§3 synthesis — argue the mouth–mind *unity*:** why sound + meaning are ONE subcontinental
-   substrate (the field's signature, both encoded, both decoded by Pāṇini), not two coincidences
+   field (its signature, both encoded, both decoded by Pāṇini), not two coincidences
    side by side. Make the retroflex *incorporation* explicit — by **place** (*mūrdhanya* in the
    varṇamālā grid) — parallel to reduplication / dative / CP.
+
+5. **Fill Ho** (currently `[VERIFY]` for all three features in the comparison table). Either
+   gather Ho data — converb, experiencer, reduplication; Ho is Kherwarian, close to Mundari, and
+   has grammars — or treat Ho as a *retroflex-only* witness until the data is secure.
 
 **Tier 2 — verification:** see the Open verification queue below.
 
@@ -464,6 +480,9 @@ Iranian** — the inversion, HIGHLIGHT 1.*
   "manuscript formulation" paragraphs** + a fuller source list — mine it for *prose seeds* at
   drafting time. The **Claude draft** is superseded and its citations are stale (grace RV
   1.25.19, awe conflation, well-being wording — corrected here); do not draft from it.
+- **Later (optional, Codex #10):** if this file grows unwieldy, split into `…_plan.md` (chapter
+  skeleton) + `…_evidence_bank.md` (Mouth/Mind banks + Korku dossier + Sources). Not now — keep
+  one canonical file through drafting.
 
 ## Open verification queue
 
@@ -522,5 +541,5 @@ retroflex-contrast doubt; "Noun Morphology in Nihali and Korku" (the experiencer
 
 *Vedic anchors (all [VERIFY] against a concordance):* absolutive RV 1.4.8, AVŚ 4.10.2 (+ RV
 10.15.6, 10.14.8); dative six-state matrix RV 2.12.5 / 1.114.1 / 6.47.10 / 2.33.8 / 1.89.6 /
-10.71.4 (anger AV 4.36.1 pending); reduplication RV 10.107.7 / 7.87.4 / 1.164.4 / 1.32.1 / 7.86.4
+10.71.4 (anger: TS 2.6.6.1 / ŚB 1.4.3.16 candidates, locators pending); reduplication RV 10.107.7 / 7.87.4 / 1.164.4 / 1.32.1 / 7.86.4
 / 8.4.11 / 10.68.12 / 10.134.1 / 1.161.13 / 10.91.2 / 1.1.7.
