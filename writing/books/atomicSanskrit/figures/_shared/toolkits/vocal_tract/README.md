@@ -352,6 +352,8 @@ The three Munda inventories follow standard published phonemic analyses:
 - Mundari: T. Osada, *A Reference Grammar of Mundari* (Institute for the Study of Languages and Cultures of Asia and Africa, 1992); Anderson and Osada, "Mundari," in Anderson 2008.
 - Korku: N. H. Zide, "Korku," in Anderson 2008; A. R. K. Zide and N. H. Zide, "Proto-Munda cultural vocabulary," in *Austroasiatic Studies* (1976).
 
+TODO: Reconcile the Korku inventory between Zide/Anderson and Nagaraja 1999. The current chart follows the conservative Zide/Anderson-style inventory and excludes aspirated retroflexes and richer liquid contrasts unless confirmed as core phonemes.
+
 The famous "checked" (glottalised) word-final stop allophones of the lineage are documented in all three primary sources; the atlas does not show them as separate phonemes because their phonemic status is debated — they are typically analysed as positional allophones of the regular stops rather than independent phonemes.
 
 The aspirate row in the Santali chart reflects Neukom's treatment of aspirates as integrated phonemes; aspirates in Mundari and Korku are more restricted (loanword-confined) and are not shown as separate rows in those charts.

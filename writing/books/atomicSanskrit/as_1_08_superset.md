@@ -4,7 +4,7 @@ The instrument is now visible. The human voice has lungs, vocal cords, a tongue,
 
 The same question now moves to the subcontinental field: what does this region do with that instrument before Sanskrit's grid is placed on the table? The test is simple: what sound-material is already here?
 
-The answer matters because the racial Arya thesis needs Sanskrit to be portable. Sanskrit must arrive as cargo from outside India. Its sound-system must be treated as external first, then locally modified after contact with subcontinental speakers. The sound-field tests that claim at the level of the body.
+The racial Arya thesis needs Sanskrit to be portable: cargo from outside India, external first, locally modified only after contact with subcontinental speakers. The sound-field tests that claim at the level of the body.
 
 If Sanskrit was engineered from outside the subcontinent, its sound inventory should resemble the proposed outside fields. If Sanskrit was engineered inside the subcontinental field, the material should already be visible across the region's speech communities. The comparison tests exactly that.
 
@@ -116,7 +116,7 @@ The result is 20 of 23.
 
 The figure is worth slow attention. The Sanskrit base sits on the page as a set of coordinates, not as a hidden statistical table. Tamil, Toda, and Kurukh light most of those coordinates. The result is visually simple: the southern field already reaches into the same mouth-zones Sanskrit later stabilizes as sonomers.
 
-The three unfilled cells are **ल**, **स**, and **श**. That result matters more than a raw percentage. It shows what kind of gap remains.
+The three unfilled cells are **ल**, **स**, and **श**. More than a raw percentage, that result shows what kind of gap remains.
 
 The gap is local. These are near-neighbor refinements inside already active zones, not missing throat positions, missing retroflex stops, or missing nasal categories. The southern set has laterals and sibilants. The atlas leaves the Sanskrit cells unfilled because Sanskrit assigns those sonomers to particular coordinates.
 
@@ -142,7 +142,7 @@ The unfilled cells are **ण**, **स**, **ष**, **श**, and **ल**. Again, t
 
 The forest-belt languages preserve the broad subcontinental architecture: stop positions, nasals, retroflex visibility, and a recognizable mouth-field. They are parallel selections from the same subcontinental field.
 
-Some of these languages also preserve features Sanskrit excludes. Ho and Mundari, for example, are associated with checked or glottalized endings in linguistic descriptions.[NOTE: ho-mundari-checked-consonants] That matters. The field is richer than Sanskrit. Sanskrit selects from it.
+Some of these languages also preserve features Sanskrit excludes. Ho and Mundari, for example, are associated with checked or glottalized endings in linguistic descriptions.[NOTE: ho-mundari-checked-consonants] The field is richer than Sanskrit; Sanskrit selects from it.
 
 Two internal surveys now stand:
 
@@ -163,7 +163,7 @@ The first control uses familiar Western European languages: English, French, and
 
 The result is 14 of 23.
 
-Fourteen still matters. All humans share the same broad vocal apparatus. Stops, nasals, labials, dentals, velars, and approximants recur across the world because the mouth is the same instrument. External languages obviously share some coordinates with Sanskrit.
+Fourteen is still a real overlap. All humans share the same broad vocal apparatus, so stops, nasals, labials, dentals, velars, and approximants recur across the world. External languages obviously share some coordinates with Sanskrit.
 
 The question is whether they occupy the same field with the same density. The density differs.
 
@@ -218,7 +218,7 @@ The field carries a retroflex band.
 
 The retroflex row requires its own test. A single borrowed retroflex might be explained away. A complete row is harder to explain. A row positioned inside a larger, symmetric sound-grid is harder still. A row preserved across regional speech-fields, recitation, grammar, and script becomes a fingerprint.
 
-That matters for the migration claim. A population whose sound-field lacks operative retroflexion has no natural path to engineering a language whose phonetic specification places a full retroflex row at the center of its matrix. The thesis would require an external group to arrive without the row, acquire it from local speakers, then produce the most exact phonetic architecture ever built around the row they supposedly borrowed.
+The migration claim has to cross that gap. A population whose sound-field lacks operative retroflexion has no natural path to engineering a language whose phonetic specification places a full retroflex row at the center of its matrix. The thesis would require an external group to arrive without the row, acquire it from local speakers, then produce the most exact phonetic architecture ever built around the row they supposedly borrowed.
 
 That is a rescue device for a theory, not a sound-field history.
 

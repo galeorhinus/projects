@@ -10,7 +10,7 @@ Five Rigvedic lines show it happening, each already carrying a finished verb, th
 
 ## 11.2 The Vedic Procedure Before Pāṇini
 
-All five examples come from the Rigveda, quoted as **पदपाठ (*padapāṭha*)** excerpts so the *kriyāpada* stays visible before **संहिता (*saṃhitā*)** sandhi recombines it.[NOTE: rigvedic-kriya-examples] Each one shows the procedure already at work: a semantic atom takes on further sonomers and becomes a *kriyāpada* molecule. The conjugation lesson can stay in the grammar handbook; what matters here is the assembly.
+All five examples come from the Rigveda, quoted as **पदपाठ (*padapāṭha*)** excerpts so the *kriyāpada* stays visible before **संहिता (*saṃhitā*)** sandhi recombines it.[NOTE: rigvedic-kriya-examples] Each one shows the procedure already at work: a semantic atom takes on further sonomers and becomes a *kriyāpada* molecule. The conjugation lesson can stay in the grammar handbook; the assembly is the evidence here.
 
 ### 1 *mātrā*: इ (*i*) → एति (*eti*)
 
@@ -243,7 +243,7 @@ The third result is the tier structure. The corpus-visible *dhātuḥ* labels ar
 
 The canonical polyvalent exemplars are **कृ (*kṛ*)**, **भू (*bhū*)**, **स्था (*sthā*)**, **गम् (*gam*)**, **ज्ञा (*jñā*)**, **दा (*dā*)**, **धा (*dhā*)**, **नी (*nī*)**, and **हृ (*hṛ*)**.[NOTE: dcs-vs-dhatupatha-count] These nine alone produce 26.5% of the verb-token record.
 
-The distribution matters because the procedure is already visible.
+The distribution makes the procedure visible.
 
 | Corpus-visible set | Share of verb-token record |
 |---|---:|

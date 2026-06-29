@@ -92,7 +92,7 @@ The quoted mantra is Ṛgveda 10.71.2:
 
 The first half supplies the engineering image. ***Saktum iva titaunā punantaḥ*** compares the operation to sifting meal or grain through a sieve. The image carries selection, separation, and refinement: the abundant field becomes usable measure. ***Dhīrāḥ manasā vācam akrata*** then says that the wise, with the mind, formed Speech. The verb ***akrata*** is an active finite Vedic plural form from √*kṛ* — "they formed" / "they made." It is the same making-root that stands behind **संस्कृत (*saṃskṛta*)** as "well-made" or "put together." The verse is a Vedic witness to deliberate speech-making: selection first, ordered form after.
 
-The second half explains why the result matters. Friends recognize friendship there. The final pāda reads in saṃhitā as ***bhadraiṣāṃ lakṣmīr nihitādhi vāci*** and separates as ***bhadrā eṣām lakṣmīḥ nihitā adhi vāci***: auspicious radiance is placed in Speech. That is the movement from the selected heap to the *varṇamālā*: the field is sifted, the sonomers are chosen, and the garland carries engineering as *divyatā*.
+The second half supplies the consequence. Friends recognize friendship there. The final pāda reads in saṃhitā as ***bhadraiṣāṃ lakṣmīr nihitādhi vāci*** and separates as ***bhadrā eṣām lakṣmīḥ nihitā adhi vāci***: auspicious radiance is placed in Speech. That is the movement from the selected heap to the *varṇamālā*: the field is sifted, the sonomers are chosen, and the garland carries engineering as *divyatā*.
 
 The translation choices are deliberate. *Saktum* can be rendered as meal, grain, or flour, depending on context; "grain" keeps the reader-facing sieve image concrete. *Punantaḥ* carries purification and refinement; the instrument *titaunā*, "by a sieve," makes "refined" the cleanest body translation. "Formed" is preferred to "created" for *akrata* because the claim is not creation from nothing. The field is already abundant; the wise sift, select, shape, and form Speech.
 
@@ -259,7 +259,7 @@ The dogma that filters Sanskrit through Abrahamic-substrate frames imports the g
 
 ### `rturasanam-murdha-shiksha`
 
-**Short:** The Śikṣā articulation-place line ऋटुरषाणां मूर्धा (*ṛṭuraṣāṇāṃ mūrdhā*) assigns ऋ (*ṛ*), the टु (*ṭu*) class, र (*ra*), and ष (*ṣa*) to मूर्धा (*mūrdhā*) — the head / roof-of-mouth site. The line matters in Ch16 because it does not merely name the retroflex site; the operative sound sequence makes the speaker perform it.
+**Short:** The Śikṣā articulation-place line ऋटुरषाणां मूर्धा (*ṛṭuraṣāṇāṃ mūrdhā*) assigns ऋ (*ṛ*), the टु (*ṭu*) class, र (*ra*), and ष (*ṣa*) to मूर्धा (*mūrdhā*) — the head / roof-of-mouth site. In Ch16 the line does more than identify the retroflex site; the operative sound sequence makes the speaker perform it.
 
 **Deployments:** Chapter 16 §16.2, after the *ṛ* / *ra* bridge and before the *Dhātupāṭha* frequency evidence.
 
@@ -378,7 +378,7 @@ First, the *bhūyāṃso* maxim and the *gauḥ* example are not two independent
 
 Second, the connector ***tadyathā*** (तद्यथा) — *"to wit," "as for instance," "by way of example"* — is a standard *Mahābhāṣya* formula used to attach a worked example to a structural claim. Its presence here identifies the *gauḥ* variants as Patañjali's chosen exemplification of the per-word asymmetry, not a separate observation. The passage is doing what any rigorous technical exposition does — stating the general principle, restating it at the level of generality the example will bear on, and producing the example.
 
-Third, the prose form is *bhāṣya* — commentarial prose — not metrical *śloka* (verse). The *Mahābhāṣya* is overwhelmingly prose commentary on Pāṇini's *sūtras* and Kātyāyana's *vārttikas*, with embedded *śloka-vārttikas* at certain points. This passage is *bhāṣya* prose. Secondary literature occasionally references the line as a *śloka*; precision matters. The form does not weaken the citation — the *Paspaśāhnika*'s opening positions carry the full canonical weight of the vyākaraṇa discipline regardless of prose-versus-verse form.
+Third, the prose form is *bhāṣya* — commentarial prose — not metrical *śloka* (verse). The *Mahābhāṣya* is overwhelmingly prose commentary on Pāṇini's *sūtras* and Kātyāyana's *vārttikas*, with embedded *śloka-vārttikas* at certain points. This passage is *bhāṣya* prose. Secondary literature occasionally references the line as a *śloka*, so the form should be stated carefully. The distinction does not weaken the citation — the *Paspaśāhnika*'s opening positions carry the full canonical weight of the vyākaraṇa discipline regardless of prose-versus-verse form.
 
 The passage is the *locus classicus* for the *apabhraṃśa* phenomenon in the Indic vyākaraṇa discipline. Every later reference to *apabhraṃśa* in the *vyākaraṇa* literature — and every later defense of the *siddha* axiom (Chapter 5 §5.2) against the entropy the *apabhraṃśas* embody — refers back, explicitly or implicitly, to this passage. Chapter 6 splits the passage across §6.2 and §6.3 because the two halves of the argument (quantitative asymmetry; per-word worked example) need to land in sequence, with the three-category analysis of §6.4 already prepared by the time the *gauḥ* variants are introduced. The textual unity restored here is what the *Mahābhāṣya* itself preserves — a single passage in which the *vaiyākaraṇaḥ* states the general claim, gives the per-word structure, and produces the example, in the order in which the demonstration proceeds.
 
@@ -1024,7 +1024,7 @@ That is the move. A witty use of "nothing" becomes a path toward Mesopotamian pr
 
 Kaplan did not invent this displacement. His book makes it easy to see.
 
-The distinction matters. Many ancient cultures had placeholder devices, blank spaces, or positional conventions. The Indic achievement was different: a decimal place-value system in which **śūnya** (शून्य) made absence at a position into a written symbol and then into an object of calculation. Brahmagupta's *Brāhma-Sphuṭa-Siddhānta* gives rules for arithmetic with zero and negative numbers; the Arabic transmission literature explicitly calls the system *ḥisāb al-Hind*, the calculation of India. See `place-value-arabic-transmission` for the fuller transmission note.
+The distinction changes the claim. Many ancient cultures had placeholder devices, blank spaces, or positional conventions. The Indic achievement was different: a decimal place-value system in which **śūnya** (शून्य) made absence at a position into a written symbol and then into an object of calculation. Brahmagupta's *Brāhma-Sphuṭa-Siddhānta* gives rules for arithmetic with zero and negative numbers; the Arabic transmission literature explicitly calls the system *ḥisāb al-Hind*, the calculation of India. See `place-value-arabic-transmission` for the fuller transmission note.
 
 Kaplan is therefore named here not because he invented the displacement, but because his book is a clean popular exemplar of the move. The same pattern appears in script typology. The sonomer and audiography were available to be named. The machinery instead named the Indic scripts by somebody else's category, *abugida*, and left the deeper Indic engineering unnamed.
 
@@ -2537,7 +2537,7 @@ The pair operates across the *Aṣṭādhyāyī* at multiple points. Specific *s
 
 The structural significance for Ch16: Pāṇini's *Aṣṭādhyāyī*, in operating with the *chandasi* / *bhāṣāyām* rule-markers as a structural feature of the grammar's rule-system, decodes a *two-mode parallel* analysis of Sanskrit. The *chandas* mode is not historically prior to the *bhāṣā* mode; the two modes are synchronically parallel, with rules of the grammar tagging which mode each rule applies to. The *chandas* mode preserves certain phonological features (the retroflex lateral ळ (*ḷ*), the three-fold accent system, the *plutaḥ* extended vowels) and certain morphological options (specific Vedic verb forms, specific Vedic compound formations) that the *bhāṣā* mode does not carry. The two modes share the broader phonological and morphological architecture; they differ at specific points the grammar explicitly flags.
 
-The category matters because the conventional account of the *chandasi* / *bhāṣāyām* relationship treats it as a historical relationship — *"Vedic Sanskrit"* as the older form, *"Classical Sanskrit"* as the descendant — and treats the relevant Pāṇinian rules as documenting the descent. Pāṇini's own mode rules do not support that account. The *Aṣṭādhyāyī* treats the two modes as synchronically parallel rule-sets within a single grammatical system, with the *vaiyākaraṇaḥ* operating both modes as features of the decoded language.
+The category changes the account. The conventional treatment of the *chandasi* / *bhāṣāyām* relationship makes it historical — *"Vedic Sanskrit"* as the older form, *"Classical Sanskrit"* as the descendant — and treats the relevant Pāṇinian rules as documenting the descent. Pāṇini's own mode rules do not support that account. The *Aṣṭādhyāyī* treats the two modes as synchronically parallel rule-sets within a single grammatical system, with the *vaiyākaraṇaḥ* operating both modes as features of the decoded language.
 
 Standard references: Pāṇini's *Aṣṭādhyāyī*, with the relevant *chandasi* and *bhāṣāyām* attributions. Standard editions: S. M. Katre, *Aṣṭādhyāyī of Pāṇini* (University of Texas Press, 1987); Rama Nath Sharma, *The Aṣṭādhyāyī of Pāṇini* (Munshiram Manoharlal, 6-volume edition, 1987–2003); Vasu's *The Ashtadhyayi of Panini* (Allahabad, 1891). Scholarly treatments: George Cardona, *Pāṇini: His Work and Its Traditions* (Motilal Banarsidass, 1988); Madhav Deshpande, "The Synchronic and the Diachronic in Pāṇinian Grammar" (in *Papers in Linguistics* 6, 1973); Hartmut Scharfe, *Grammatical Literature* (Otto Harrassowitz, 1977), Chapter 5.
 
@@ -3224,7 +3224,7 @@ The UNESCO citation explicitly references:
 - The unbroken transmission across many generations through the *guru-shishya* lineage-chain.
 - The integration of phonetics, meter, syntax, and recitation in a unified system.
 
-The structural significance for Ch15: the UNESCO recognition is, in itself, a small thing — UNESCO's list is a Western-establishment's gesture toward an architecture Western establishments have struggled to read for over a century. But the citation matters because UNESCO had to look at what was actually in front of it, and what was in front of it was an engineering accomplishment with no comparable analog among the ancient linguistic-preservation traditions surveyed here.
+The structural significance for Ch15: the UNESCO recognition is, in itself, a small thing — UNESCO's list is a Western-establishment's gesture toward an architecture Western establishments have struggled to read for over a century. The citation still has value because UNESCO had to look at what was actually in front of it: an engineering accomplishment with no comparable analog among the ancient linguistic-preservation traditions surveyed here.
 
 The official UNESCO documentation is available at unesco.org under the Intangible Cultural Heritage list; the inscription nomination file is the *Tradition of Vedic Chanting* (Inscription Number 00062, originally proclaimed 2003, transferred to the Representative List in 2008). The official summary describes the transmission as "the precise and unbroken transmission of the Vedic texts across many generations through *guru-shishya paramparā*."
 
@@ -4281,7 +4281,7 @@ The "calibration audit" is the test the standard codification story would need t
 
 ### `mitanni-indic-technical-vocabulary`
 
-**Short:** Mitanni Indic vocabulary matters here only as an external stability anchor: the recorded forms look like technical transmission from an already functioning Indic system, not like a language waiting to be stabilized by later Pāṇinian codification.
+**Short:** Mitanni Indic vocabulary functions here only as an external stability anchor: the recorded forms look like technical transmission from an already functioning Indic system, not like a language waiting to be stabilized by later Pāṇinian codification.
 
 **Deployments:** Appendix Part 8 §8.13, *Mitanni and the External Anchor*.
 
@@ -4623,7 +4623,7 @@ Keep **स्वाद् (*svād*)** as reserve if the prose needs a more immed
 
 **Deployments:** Chapter 12 §12.9; Chapter 18 §§18.6–18.7 when the worked examples (*mātṛ* → *mother*, *yuga* → *yoke*, *devaḥ* → Latin *deus*, *asuraḥ* → Avestan *ahura*) are developed.
 
-Chapter 6 establishes the Sanskrit-side term through Patañjali's *Paspaśāhnika*: *apaśabda* and *apabhraṃśa* denote the slipped or fallen-away form that leaves the correct *śabda*. The inverse angle matters because the same event looks different from the contact-language side. The Sanskrit form has fallen away from the calibrant architecture; in the receiving language, that received form can become productive and historically fertile.
+Chapter 6 establishes the Sanskrit-side term through Patañjali's *Paspaśāhnika*: *apaśabda* and *apabhraṃśa* denote the slipped or fallen-away form that leaves the correct *śabda*. From the contact-language side, the same event looks different. The Sanskrit form has fallen away from the calibrant architecture; in the receiving language, that received form can become productive and historically fertile.
 
 The coining **vivimorphosis** is built from Latin *vivus* ("alive") and Greek *morphōsis* ("shaping, formation"). It denotes the transition from engineered form to organic behavior. The term does not replace *apabhraṃśa*; it completes the two-sided description. *Apabhraṃśa* captures the loss from the calibrant side. Vivimorphosis captures the gain from the receiving side: the molecule becomes a seed, the seed becomes an organic root, and the root can produce descendants under the receiving language's own pressures.
 

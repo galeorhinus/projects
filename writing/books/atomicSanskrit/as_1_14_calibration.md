@@ -164,13 +164,13 @@ That is the *heroic erasure* move at the matrix level. Praise the named document
 
 The Pāṇini-as-rupture move is heroic erasure in its sharpest form: praise the so-called codifier, then weaponize the praise to convert *vaidika* and *laukika* from domains into chronology. Pāṇini cannot move Sanskrit out of one domain and into another. Domains are not periods. Pāṇini documents both. That is not analysis. It is a grammatical sleight of hand with civilizational consequences (Chapter 2 §2.1).
 
-The standing sequence holds at matrix scale: engineered architecture, Vedic encoding, many decoding disciplines, and Pāṇini's compressed rule-system as the finest surviving formalization.
+The standing sequence holds at matrix scale: engineered architecture, Vedic encoding, many decoding disciplines, and Pāṇini's compressed rule-system as the finest surviving documentation of that architecture.
 
 The calibration matrix is the engineered architecture. The Vedas are the encoding. The *Prātiśākhya*, *Śikṣā*, *Chandas*, and *Vyākaraṇam* are decoding disciplines. Pāṇini's decoding is the finest because it is the most compressed and generative. It is not the origin of the architecture.
 
 The teaching-level form of the same claim (Chapter 13 §13.5): the Veda preserves the form as performed; the *Aṣṭādhyāyī* preserves the form as derivable. Pāṇini added redundancy, not origin.
 
-Heroic erasure works by treating the second redundancy layer as the first. Praise Pāṇini as so-called codifier; erase the Vedic calibrant that was already correcting the language before his rules formalized the procedure. The named document survives in the foreground. The older operating matrix is pushed behind it. This is memory redirected, not memory preserved.
+Heroic erasure works by treating the second redundancy layer as the first. Praise Pāṇini as so-called codifier; erase the Vedic calibrant that was already correcting the language before his rules documented its procedure in compressed form. The named document survives in the foreground. The older operating matrix is pushed behind it. This is memory redirected, not memory preserved.
 
 The matrix in operation relies on the eleven *pāṭhas*, the aural architecture, the combinatorial recitation forms, and the working machinery by which the Vedic sound-body has been held without observable drift across thousands of years (Chapter 15).
 

@@ -268,7 +268,7 @@ The architecture assigns meaning with acoustic intelligence. It creates compact,
 
 This strengthens *varṇa-vāda* (वर्णवाद) rather than weakening it. The debate only makes sense inside an engineered language. A drifting natural language cannot sustain stable *varṇa-śakti* claims across its living record; its sounds shift, merge, and lose structural force. Sanskrit's sonomers remain discrete, stable, composable, and analyzable. That is why the debate could exist at all.[NOTE: varnavada-presupposes-engineering]
 
-The Vedic context grounds why this matters, because the *Vedas* are poems. Sound-meaning alignment is part of the verse's effect, its mantric power, its sanctity. *Mantra* (मन्त्र) itself — from the *dhātuḥ* *man* (मन्, to think) — is the acoustic instrument that aligns sound with contemplation. Poetry is built form-first: meter, alliteration, and sonic flow drive the assembly; meaning enters that architecture as the poet works.
+The Vedic context grounds the claim because the *Vedas* are poems. Sound-meaning alignment is part of the verse's effect, its mantric power, its sanctity. *Mantra* (मन्त्र) itself — from the *dhātuḥ* *man* (मन्, to think) — is the acoustic instrument that aligns sound with contemplation. Poetry is built form-first: meter, alliteration, and sonic flow drive the assembly; meaning enters that architecture as the poet works.
 
 Engineering is not the enemy of poetry. Engineering is what lets the poetry land. The *dhātuḥ* passes the fourth test. It is *sāravat*: compact form with semantic force.
 

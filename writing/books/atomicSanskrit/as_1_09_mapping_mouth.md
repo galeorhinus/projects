@@ -152,7 +152,7 @@ The breath-axis continues beyond the stop matrix into boundary sounds. The most 
 
 These sounds sit at the edge of ordinary combination. The old category name **अयोगवाह (*ayogavāha*)** captures the idea: that which carries without joining in the ordinary way.
 
-The *visarga* matters because a word such as **सिन्धुः (*sindhuḥ*)** ends with a breath-release sonomer. The sound is part of the architecture, and its behavior matters when later languages reflect Sanskrit.[NOTE: visarga-cognate-shadow]
+A word such as **सिन्धुः (*sindhuḥ*)** ends with a breath-release sonomer. The sound is part of the architecture, and later language reflections have to account for its behavior.[NOTE: visarga-cognate-shadow]
 
 The boundary sounds show the same discipline as the matrix. Sanskrit labels them, trains them, and gives them rules.
 
@@ -162,7 +162,7 @@ The selected sonomer becomes stable when it is held as an **अक्षरम�
 
 The word *akṣara* carries a large claim. It means the imperishable, the non-decaying. In the language system, it is the stable sound-unit that can be recited, written, counted, and recombined.[NOTE: aksara-imperishable-name]
 
-This is where the distinction between **sonomer** and **audiograph** matters. The sonomer is the measured sound-particle. The audiograph is the visible capture of that sound-particle in script. Sanskrit is sonomeric before it is audiographic. The language is built from measured sound-particles before any script makes those particles visible.
+The distinction between **sonomer** and **audiograph** is relevant here. The sonomer is the measured sound-particle; the audiograph is the visible capture of that sound-particle in script. Sanskrit is sonomeric before it is audiographic, built from measured sound-particles before any script makes those particles visible.
 
 An *akṣara* is vowel-centered. One vowel nucleus carries the unit. Consonants can open around it, close around it, or cluster at its edges, but the vowel supplies the acoustic center. Thus **पच् (*pac*)** is one *akṣara*, while **पचति (*pacati*)** has three.
 
@@ -219,6 +219,8 @@ The sequence proves it. An alphabet's order is arbitrary: *a, b, c* says little 
 
 Once the *varṇamālā* exists, script becomes implementation. The engineering lies in the ordered sound-grid: place, effort, voice, breath, nasality, and duration held in stable relation. Representing those sounds with written symbols is a trivial, procedural implementation of a scalable, fractal idea. Writing gives that grid a visible interface, much as decimal notation gives place-value number a visible form.
 
+The infinity glyph `∞` makes the unbounded easier to write; it does not make the unbounded thinkable. The visible mark is secondary; the architecture comes first.
+
 The pyramid files the architecture under its interface and calls it an alphabet. The *varṇa* flattens to "letter," the *akṣara* to "syllable-sign," the sonomeric grid to an ABC — and the engineering beneath the glyphs goes unseen. Restore the words and the engineering returns. The glyphs are secondary. The sound-architecture is the language.
 
 ## 9.10 The Grid Holds the Garland
@@ -227,7 +229,7 @@ The *varṇamālā* selects the sonomers. The *akṣara* stabilizes them. The *m
 
 The *varṇamālā* is upstream of the rule-system that indexes it. The **माहेश्वरसूत्राणि (*Māheśvara-sūtrāṇi*)** rearrange an inventory already standing into an operating index for grammar.[NOTE: pre-panini-pratisakhya-classification] The pyramid later distorts that order of events. The architectural point is enough here: Pāṇini decoded and indexed a system already operating.
 
-The consonant's half-*mātrā* matters most for the next step.[NOTE: vyanjana-duration-shiksha] A *dhātuḥ* such as **गम् (*gam*)** is more precise than "CVC": it is 1/2 + 1 + 1/2. **भू (*bhū*)** is 1/2 + 2. **दृश् (*dṛś*)** is 1/2 + 1 + 1/2. Before the atom has semantic behavior, it already has a timing envelope.
+The next step depends on the consonant's half-*mātrā*.[NOTE: vyanjana-duration-shiksha] A *dhātuḥ* such as **गम् (*gam*)** is more precise than "CVC": it is 1/2 + 1 + 1/2. **भू (*bhū*)** is 1/2 + 2. **दृश् (*dṛś*)** is 1/2 + 1 + 1/2. Before the atom has semantic behavior, it already has a timing envelope.
 
 The next scale uses that envelope. The notation — C, V1, V2 — is a modern shorthand for Sanskrit's older timing discipline. C is a half-*mātrā*. V1 is one *mātrā*. V2 is two *mātrās*. The scaffold is timed before it is filled.
 

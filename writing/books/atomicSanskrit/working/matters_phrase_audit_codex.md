@@ -123,7 +123,7 @@ Current:
 
 Proposed:
 
-> The distinction between **sonomer** and **audiograph** does the work here. The sonomer is the measured sound-particle; the audiograph is the visible capture of that sound-particle in script. Sanskrit is sonomeric before it is audiographic, built from measured sound-particles before any script makes those particles visible.
+> The distinction between **sonomer** and **audiograph** is relevant here. The sonomer is the measured sound-particle; the audiograph is the visible capture of that sound-particle in script. Sanskrit is sonomeric before it is audiographic, built from measured sound-particles before any script makes those particles visible.
 
 Reason: Keeps the placement function but reduces choppiness.
 

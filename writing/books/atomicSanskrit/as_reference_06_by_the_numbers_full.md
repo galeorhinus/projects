@@ -180,7 +180,7 @@ The class composition is the *vyākaraṇa* discipline's own classification read
 
 ![Per-consonant position-role split across single-*akṣara* atoms; the antaḥstha cluster-joiner band is visible as the wide inner-position bars.](figures/building_dhatuh/position_roles.svg){#fig:app5-position-roles width=100%}
 
-**Why this matters.** The *varṇamālā* gives 33 consonants. The architecture does not deploy them as interchangeable bonding sites. A small specialist class — the *antaḥsthāḥ* plus the *mūrdhanya* sibilant — does almost all consonant-to-consonant bonding work. This is the *carbon-of-clusters* role: a small set of atoms that bond promiscuously, holding larger consonant structures together while the other consonants do atom-boundary work.
+**What the numbers show.** The *varṇamālā* gives 33 consonants. The architecture does not deploy them as interchangeable bonding sites. A small specialist class — the *antaḥsthāḥ* plus the *mūrdhanya* sibilant — does almost all consonant-to-consonant bonding work. This is the *carbon-of-clusters* role: a small set of atoms that bond promiscuously, holding larger consonant structures together while the other consonants do atom-boundary work.
 
 The *vyākaraṇa* discipline's name for the class — *antaḥsthāḥ*, *those that stand between* — was already the right name. The data confirms the class is operationally real. Ch 10 §10.14 carries the chapter-prose statement of the same finding; this section is the reproducibility backbone.
 
@@ -207,7 +207,7 @@ The dual-role finding is driven by two consonants:
 
 Both sit at the *mūrdhanya* site. The architecture has placed its two heaviest cluster-joiners at the same articulatory location.
 
-**Why this matters — the dual-role engineering.** The other four places are predominantly atom-boundary specialists: *kaṇṭhya* and *oṣṭhya* open atoms, *dantya* closes them, *tālavya* sits between. *Mūrdhanya* alone is engineered as a **dual-role place** — it does both atom-boundary work AND cluster-joining work. The 550 *mūrdhanya* coda-outer appearances confirm the boundary role (the **62.8% retroflex-as-final** finding from §6.3); the 384 inner appearances add the cluster-joining role on top.
+**The dual-role engineering.** The other four places are predominantly atom-boundary specialists: *kaṇṭhya* and *oṣṭhya* open atoms, *dantya* closes them, *tālavya* sits between. *Mūrdhanya* alone is engineered as a **dual-role place** — it does both atom-boundary work AND cluster-joining work. The 550 *mūrdhanya* coda-outer appearances confirm the boundary role (the **62.8% retroflex-as-final** finding from §6.3); the 384 inner appearances add the cluster-joining role on top.
 
 The compounding signal. *Mūrdhanya* shows up three times in the appendix as the architecturally-most-loaded place:
 

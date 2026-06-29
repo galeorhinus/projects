@@ -46,7 +46,7 @@ The pyramid's account collapses both into Pāṇini and calls the collapse *codi
 
 Pāṇini did the opposite of codifying. He decoded.
 
-![Figure 5.1 — The Long Memory of Sanskrit Grammar. The *vyākaraṇa* discipline accumulates upward: Veda and recitation lineages at the foundation, named pre-Pāṇinian ācāryāḥ and analytical artifacts below, Pāṇini's *Aṣṭādhyāyī* as the formalization peak, and the *Trimuni Vyākaraṇam* above it.](figures/siddha_grammar/lineage_stack.svg){#fig:siddha-grammar-lineage-stack width=100%}
+![Figure 5.1 — The Long Memory of Sanskrit Grammar. The *vyākaraṇa* discipline accumulates upward: Veda and recitation lineages at the foundation, named pre-Pāṇinian ācāryāḥ and analytical artifacts below, Pāṇini's *Aṣṭādhyāyī* as the documentation peak, and the *Trimuni Vyākaraṇam* above it.](figures/siddha_grammar/lineage_stack.svg){#fig:siddha-grammar-lineage-stack width=100%}
 
 ## 5.2 The Opening Axiom
 

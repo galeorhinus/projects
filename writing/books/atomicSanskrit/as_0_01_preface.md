@@ -34,7 +34,7 @@ A civilization can continue reciting, teaching, parsing, and preserving the Sun,
 
 A wiser age would not need this book. It would look at Sanskrit and *see* the architecture. It would listen to the Vedas and *hear* the engineering. It would see that the differences between the Vedic and worldly domains are part of that engineering. The argument has to be made because the present age has been trained to see *neither*. Its redundancy is deliberate: a field-blind age has become **मुग्ध (*mugdha*)**, bewildered before what remains present. The book repeats the point because confusion that has hardened into civilizational self-doubt can only be cleared with repetition.
 
-The clearing begins later — shadow by shadow, plate by plate, until the field is a little brighter again. These pages say only what was darkened, what was placed in front of the Sun, and why seeing Sanskrit's true radiance again matters.
+The clearing begins later — shadow by shadow, plate by plate, until the field is a little brighter again. These pages say only what was darkened, what was placed in front of the Sun, and what changes when Sanskrit's true radiance can be seen again.
 
 ## What Was Eclipsed
 
@@ -93,7 +93,7 @@ The architectural route follows Sanskrit across scale: *varṇa* as sonomer, *ak
 
 The origin of Sanskrit is not the domain here. **अपौरुषेय (*apauruṣeya*)** is the answer carried by the lineage-chain; Chapter 17 §17.7 offers an honest speculation for the rationalist mind that cannot accept it. The observable claim is narrower: Sanskrit's engineering is on the page and in the mouth. The Vedas carry it. The decoding lineages unfold it. Pāṇini's unfolding is the finest surviving document of that work.
 
-That is why the radiance matters: Sanskrit seen as calibrant architecture restores the field that the eclipse darkened.
+Sanskrit seen as calibrant architecture restores the field that the eclipse darkened.
 
 ## What Follows
 

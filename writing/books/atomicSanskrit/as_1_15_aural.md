@@ -26,7 +26,7 @@ Auditure is the foundation. *Śikṣā* trains the body that carries it.
 
 The eleven *pāṭhas* divide into two groups. The five *prakṛti-pāṭhas* are primary recitations. The six *vikṛti-pāṭhas* are modified recitations that apply deeper permutations. Together they form one of the densest preservation codes any civilization has produced.[NOTE: eleven-pathas-full-list]
 
-***Saṃhitā-pāṭha*** (संहितापाठ) is the continuous recitation. Words are joined by *sandhi*. This is the flowing Vedic form, the verse as heard in its connected body. Every join matters: vowel length, voicing, nasal placement, consonantal transition, accent, and breath.
+***Saṃhitā-pāṭha*** (संहितापाठ) is the continuous recitation. Words are joined by *sandhi*. This is the flowing Vedic form, the verse as heard in its connected body. Every join carries information: vowel length, voicing, nasal placement, consonantal transition, accent, and breath.
 
 ***Pada-pāṭha*** (पदपाठ) is the word-by-word recitation. The *sandhi* is unwound. Each *pada* stands apart. The form makes morphology audible and fixes the word-boundaries that the flowing *saṃhitā* conceals. This is the recitation Yāska's *Nirukta* assumes and the recitation Pāṇini's **अष्टाध्यायी (*Aṣṭādhyāyī*)** refers back to in its derivations. The *pada-pāṭha* is itself a kind of analytical commentary, fixed in recitation form.
 
