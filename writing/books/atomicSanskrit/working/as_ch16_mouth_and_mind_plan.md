@@ -137,33 +137,52 @@ syntax by **substrate contact** ("areal borrowing"). The features just laid out 
 account, contamination acquired *after* arrival. (First appearance of *Western philological
 dogma* / the *asuric pyramid* in the chapter.)
 
-**Open with the account's retreat (the drama) — sharp version adopted (author's draft).** A
-self-correcting narrator who can't keep the story still, performing the account's *documented*
-retreat. Draft opener:
+**Part B opener — the pyramid's "notices" (satirical retreat memo). Adopted (author's draft);
+supersedes the earlier dramatized opener.** Introduce the conceit (e.g. *"Read the notices the
+pyramid has issued over two centuries"*), then run the errata sequence. The engine is the
+**refrain** — every costume is deleted; the body never moves. (Author's fuller draft is in-thread;
+this is the captured structure with the load-bearing lines.)
 
-> Let me tell the pyramid's story. White-skinned, blond-haired Aryans with perfect facial
-> length-to-width ratios arrived in India, conquered, and enslaved the dark locals — No. Sorry. That
-> is the old telling. The academy has quietly retired it. The optics failed. Again:
+> The pyramid's first notice was simple. The year is **1600 BCE**, **748 years after the Flood**.
+> Noah's descendants have prospered; Babel has scattered language into manageable peoples. Somewhere
+> along that ordained road a people turns toward India, carrying speech, ritual, gods, and order.
+> India receives. **Sanskrit arrives.** The Veda becomes old, but not too old. Sacred, but not
+> source. Impressive, but downstream.
 >
-> Light-skinned, Sanskrit-speaking migrants arrived, settled along the rivers, and composed the
-> Vedas — No, too definite. "Arrived and composed" concedes the timeline, and the skin colour is
-> still too compromising. Scratch it. Carefully now, in the modern, approved form:
+> *Correction: the management regrets the Biblical packaging. Please delete Noah, Babel, the divine
+> scattering, and the confidence with which the whole world was fitted inside Genesis.* The date may
+> now be expressed with scholarly flexibility — 1500, 1600, perhaps 1200 BCE for some layers. **The
+> northwest remains. The moving people remain. The pastoral carrier remains. Sanskrit remains
+> something brought into India.**
 >
-> Some people — unspecified, mobile, of no stated origin, definitively "colourless" on the page,
-> yet, the account is most insistent, absolutely NOT the people already living here — came from
-> somewhere to the northwest. Their language did not curl the tongue. It had no reduplicating
-> verb-classes. Its grammar had no receiver-based psychology. And these, the pyramid tells us, are
-> the people who gave the subcontinent Sanskrit.
+> The revised notice introduced the Aryan — an improved secular instrument: measurable,
+> classifiable, portable, conveniently northwestern. His skull could be measured, his nose
+> straightened into evidence; his face became an argument before his language was examined. Sanskrit
+> rode with him. *Correction: the management regrets the racial packaging. Please delete the skull,
+> the nose, the face, and the word race.* The date becomes an academic horizon (c. 1500 BCE;
+> 1700–1200 BCE; "late second millennium"). **The northwest remains… Sanskrit remains something
+> brought into India.**
 >
-> Watch what survives every revision. The label changes: from conquerors to invaders, to migrants,
-> to steppe pastoralists, to unspecified arrivals. The cranial indices and the blond hair are
-> quietly dropped. The skin is, very carefully, bleached into an "unspecified" neutral. The
-> narrative perimeter shrinks. But one axiom is never on the table, never permitted to be
-> questioned: the bringers came from outside, and they did not have the field's mouth and mind.
+> The next notice said migration. Not conquest, not race, not theology — just movement. *Correction:
+> the management regrets the invasion tone. Replace with elite dominance, language shift, cultural
+> transmission, mobility* — phrases that do not sound like conquest while doing the same work. The
+> date may now breathe (2000–1500; 1700–1300). Always adjustable. Never released. **The northwest
+> remains. The pastoral carrier remains. The horse remains close enough to the argument. Sanskrit
+> remains something brought into India.**
+>
+> The latest notice is careful. No one is saying race, invasion, Bible, or conquest. The story is
+> now steppe ancestry, mobile pastoralists, Indo-Iranian corridors, contact zones, substrate
+> effects. **The date is no longer a date. It is a window. The window is no longer a claim. It is a
+> model. The model is no longer a dogma. It is a consensus.** But the window still opens from
+> outside India; the pastoralists still move inward; **Sanskrit still arrives with a custody tag
+> already tied around its neck.**
 
-**Pivot to the cycle:** *That is the axiom. Everything else is negotiable; that is not. Grant it,
-then follow where it leads — the people already in the land (Tamil, Telugu, Mundari, Korku) have all
-of it, and here the account's troubles begin in earnest.* → the iterative compose→recompose cycle.
+**Pivot:** the memo lands on the **custody axiom = portability** (Sanskrit brought in; never
+released). The chapter then asks the one question the notices never allow — *is the axiom true?* —
+and the evidence (§5–§7) shows it is not: the mouth and the mind are subcontinental, so nothing was
+brought in. The **"custody tag"** hands forward to the book's *end-of-custody* spine (Ch 19, the
+Atri / eclipse frame). Register caution: introduce the memo conceit, and **ground it immediately
+with the hard evidence** so the satire opens and the linguistics confirms.
 
 **Bulletproofing notes:**
 1. **Accuracy = the bite — one reference per claim, in the endnote.** The retreat-sequence is
@@ -171,6 +190,9 @@ of it, and here the account's troubles begin in earnest.* → the iterative comp
    endnote** — so a hostile reader can't call it caricature; it is the theory's own record of
    itself retreating. The mockery rides on the body text; the documentation rides in the note.
    Per-claim anchors to gather (verify each before print):
+   - **the Biblical / Mosaic frame** (Noah, Babel, the Flood; *1600 BCE = 748 yrs after Ussher's
+     2348 BCE Flood*) → William Jones's reconciliation of Indian chronology with the Mosaic
+     timeframe; Ussher's chronology; early-philology post-Babel monogenesis;
    - **craniometry / cephalic index** in colonial race-science → Risley, *The People of India*
      (1908) + the anthropometric-survey apparatus;
    - **the blond / Nordic Aryan** image → 19th-c. Aryanism (and Müller's own late disavowal:
@@ -191,8 +213,11 @@ of it, and here the account's troubles begin in earnest.* → the iterative comp
    the axiom, not a RAT prosecution (that stays in Ch 2/3/17). The evidence body follows
    immediately, so the bite is earned.
 
-**Tell it as an *iterative* story (the reductio).** Then *narrate* it, and make the absurdity
-iterative. A people arrive at the northwestern rivers (Sapta-Sindhu, the
+**Iterative compose-and-recompose — DEMOTED (fold, don't stack a second set-piece).** The notices
+above carry the *retreat* reductio. Fold this cycle's one best punch into the §7 engineering beat —
+*to keep the axiom, the account must have the language assembled feature-by-feature, recomposing the
+unchangeable corpus each time.* Raw material:
+A people arrive at the northwestern rivers (Sapta-Sindhu, the
 account's own geography) and **compose the Vedas.** Their language, on the account, has none of the
 field's marks. Then they meet the people already there, and the cycle begins:
 - they notice the locals **curl the tongue** (retroflex) → they go back, re-engineer the
