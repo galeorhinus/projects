@@ -62,7 +62,131 @@ portable. It is field-built.**
 
 ---
 
-# PART A — Lay the facts (the pyramid stays off-stage)
+# Chapter section plan (canonical)
+
+## Ch 16 — The Subcontinental Mouth and Mind
+
+### Opening — epigraph + a few lines (NOT a numbered section)
+
+Like the chapter's existing open: the **epigraph** (*ṛṭuraṣāṇāṃ mūrdhā*, Pāṇinīya Śikṣā), then a
+few image-rich lines on RV 1.1.1 *agnim īḷe* — the Veda's first sentence already carries the
+subcontinental mouth (tongue curled, sound made, Veda audible). ऋ (*ṛ*) in *Ṛgveda* as a
+supporting beat; don't overpack. State as fact; no pyramid. (Detail: the *Cold open* block in the
+section-detail below.)
+
+## PART A — The Field Before the Argument
+
+### 16.1 The Mouth: *Mūrdhanya*
+
+Retroflex as anatomy, not chronology. Tamil, Telugu, Mundari, Korku, Ho as primary witnesses.
+Integrate the best of the current retroflex chapter here. Keep Avestan/borrowing OUT (→ Part B).
+Figure: vocal apparatus.
+
+**On splitting (you asked): keep it ONE section, in TWO internal movements** — (a) *the field's
+sound* (the flex; the cross-language sweep; the acoustic-signature / cinematic caricature) →
+(b) *the engineered depth* (ऋ at the *mūrdhanya* site; the ऋ/र bridge; the *Dhātupāṭha* load — the
+retroflex is **load-bearing, not surface**; Korku native minimal pairs). Gives retroflex room
+without a second number (the chapter is already ~10 sections; other features get one each). **Clean
+draft-time split point** at the (a)|(b) seam if it runs long.
+
+### 16.2 The Mouth Doubles: Reduplication
+
+Move from raw field habit to Sanskrit engineering. Show expressive reduplication in Tamil,
+Telugu, Mundari, and Korku, then Sanskrit's disciplined *abhyāsa*: perfect, desiderative,
+intensive, reduplicating class, *caṅ*, and *āmreḍita*. The key claim: Sanskrit does not merely
+repeat; it compresses repetition into architecture.
+
+### 16.3 The Mind Receives: *Sampradāna*
+
+Make this one of the chapter's strongest sections. Tamil *eṉakku*, Telugu *nāku*, Korku
+*-en/-n*, and Mundari experiencer constructions show the field's receiver-grammar. Then bring in
+Vedic receiver grammar: *śrad asmai*, *svasti naḥ*, *mṛḷa mahyam*, and RV 10.71.4, where Vāk
+reveals herself *to* the prepared receiver.
+
+No pyramid yet. Just: this is how the field thinks.
+
+### 16.4 The Mind Sequences: The Folded Action
+
+Conjunctive participle / absolutive. Tamil, Telugu, Korku, and Mundari action chaining, then
+Sanskrit *ktvā/lyap*. Keep the caveat: default coreference, not an absolute same-subject gate.
+The claim is incorporation, not uniqueness.
+
+### 16.5 One Field, Encoded
+
+This is the Part A landing. Mouth and mind are not separate coincidences. The same field appears
+as sound, morphology, syntax, and philosophy. Sanskrit builds the mouth into *varṇamālā*, builds
+the mind into *kāraka*, and the Veda encodes both. Pāṇini documents; he does not invent.
+
+End with the positive verdict:
+
+> Sanskrit is field-built: subcontinental in mouth, subcontinental in mind, engineered into
+> language, encoded in the Veda.
+
+## PART B — The Portability Thesis Collapses
+
+### 16.6 The Notices
+
+Use the satirical "management regrets..." piece here. This is where the pyramid enters. Keep the
+piece tight enough that it lands the custody axiom rather than becoming a second chapter:
+
+- the date shifts but remains late;
+- the northwest remains;
+- the pastoral carrier remains;
+- Sanskrit remains imported.
+
+Then pivot: the question is whether Sanskrit is portable at all.
+
+### 16.7 The Borrowing Model Cannot Hold
+
+Bring in the hard counters: cross-family distribution, refusal of the directional-borrowing frame,
+Avestan absence, and Emeneau's "borrowed" features reclassified. The five primary witnesses matter
+here because the pyramid classifies them as unrelated to Sanskrit, yet they carry the same mouth
+and mind.
+
+### 16.8 The Corpus Cannot Be Rewritten
+
+Place the recomposition reductio here. If Sanskrit arrived without the field's features and
+acquired them by contact, then the Vedic corpus has to be silently re-engineered after each contact
+event: retroflex, reduplication, receiver grammar, absolutive. That collides with the preservation
+architecture whose whole purpose is non-change.
+
+Also place the "layers are style, not clock" point here. Different Vedic styles do not prove
+chronological development.
+
+### 16.9 Engineering, Not Contact
+
+Land the technical verdict. Borrowing leaves features peripheral; Sanskrit makes them structural:
+
+- retroflex by mouth-place;
+- reduplication by rule-bound *abhyāsa*;
+- receiver grammar by *sampradāna*;
+- action chaining by *ktvā/lyap*.
+
+This is the "not portable" verdict.
+
+### 16.10 What the Grammar Keeps
+
+Close with the philosophical payload. Sanskrit preserves *saṃskṛti* in grammar: self as receiver,
+knowledge as revelation, agency as distributed, orientation toward *lokakṣema*. Keep this light
+but clear.
+
+This section hands forward to:
+
+- Ch 17 §17.7 for the honest speculation about formation and preservation;
+- the Epilogue for *āryatva* and the reader's role.
+
+Avoid making this a separate origin-story section. Ch 16 earns the speculation; Ch 17 speaks it.
+
+---
+
+# Section detail (the drafting notes that feed the section plan above)
+
+> **One canonical structure, two levels: the 16.x plan above + this detail.** Map of the older
+> §-numbering → the plan: *Cold open* → **Opening**; **§1** → **16.1** (retroflex) + **16.2**
+> (reduplication); **§2** → **16.3** (receiver) + **16.4** (CP); **§3** → **16.5**; **§4** →
+> **16.6** (notices) with the recomposition cycle → **16.8**; **§5** → **16.7**; **§6** → **16.8**;
+> **§7** → **16.9**; **§8** → **16.10**. Draft from the plan; pull content from the matching block
+> here. *(Full §-elimination merge available on request — this keeps the detail intact and mapped.)*
 
 ## Cold open — *agnimīḷe* (the mouth in the first word)
 

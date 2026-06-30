@@ -26,21 +26,17 @@
 `[KEEP]` · `[REPHRASE]` · `[COMPRESS]` · `[MOVE→§x]` · `[NEW]` · `[CUT?→dest]` — `[CUT?]` items
 stay in a `<!-- CUT-BIN -->` block at the bottom with a destination, until you sign off.
 
-## Target section flow (the new chapter)
+## Target section flow → see the canonical plan
 
-- **Cold open — *agnimīḷe*** (the mouth in the first word; field fact; no ārya, no pyramid).
-- **§1 The Mouth** (anatomical ground): *The Subcontinental Mouth* (retroflex across the field +
-  reduplication) → *The Mouth Becomes Architecture* (varṇamālā / mūrdhanya + abhyāsa / juhotyādi).
-- **§2 The Mind** (philosophical ground): *The Subcontinental Mind* (receiver-grammar +
-  action-chaining as field habits) → *Sanskrit Calibrates the Mind* (sampradāna + ktvā/lyap).
-- **§3 The hinge** — mouth and mind are one field.
-- **PART B** — name the portability thesis → can't-be-borrowed (Avestan inversion + cross-family
-  method + frame discipline) → corpus subcontinental from its first word (*agnimīḷe* harvest) +
-  layers-aren't-a-clock → engineering-not-borrowing → **verdict** + one-line RAT forward-pointer.
-- **§8 What the Grammar Keeps (the WHAT — the chapter's landing).** The Mind features encode
-  *saṃskṛti* (receiver-self, knowledge-as-revelation, distributed agency, *lokakṣema*); raise the
-  why-preserve question; **hand off to Ch 17 §17.7** (the architects honest-speculation — *not* a
-  Ch 16 section) and the **Epilogue**. Close on the WHAT, after the portability verdict.
+**The section structure is canonical in `as_ch16_mouth_and_mind_plan.md` (the 16.x plan):**
+Opening (epigraph + a few lines) · **16.1** Mouth / *mūrdhanya* · **16.2** Reduplication ·
+**16.3** Receiver / *sampradāna* · **16.4** Folded action (CP) · **16.5** One field (Part A
+landing) · **16.6** Notices · **16.7** Borrowing can't hold · **16.8** Corpus can't be rewritten ·
+**16.9** Engineering, not contact · **16.10** What the grammar keeps.
+
+This map's job is the **old→new content migration** (the table below), not the section structure.
+The integration table's older `§`-shorthand maps to the plan: *Cold open*→Opening; §1→16.1+16.2;
+§2→16.3+16.4; §3→16.5; §4→16.6; §5→16.7; §6→16.8; §7→16.9; §8→16.10.
 
 ---
 
