@@ -24,7 +24,7 @@ Entropy has a Sanskrit name: **अपभ्रंश (*apabhraṃśa*)** — fal
 
 The slip can be phonetic, morphological, or lexical. A sound shifts. A form reorganizes. A word is replaced by something easier. Grammar treats all three with the same structural eye. The deviation is a falling-away, not an alternative form.
 
-The *vaiyākaraṇāḥ* do not punish the speaker for violating authority. They identify where the form has fallen away from the architecture and restore it to fit. That is why *apabhraṃśa* is not merely "incorrect speech." It is entropy named in Sanskrit.
+The *vaiyākaraṇāḥ* do not punish the speaker for violating authority. They identify where the form has fallen away from the architecture and restore it to fit. *Apabhraṃśa* is therefore not merely "incorrect speech." It is entropy named in Sanskrit.
 
 The *vaiyākaraṇāḥ* identified this before modern linguistics had a vocabulary for it. They observed it in speech, measured it, and built grammar in direct response to it. The grammar that begins from *siddha* describes what *siddha* faces.
 
@@ -74,7 +74,7 @@ The same evidence—*gauḥ* and its fallings-away—produces three diagnostic c
 
 The three categories produce three different objects. Natural drift studies change. Codified correction enforces authority. Engineered self-correction preserves architecture. The pyramid's account pushes Sanskrit before Pāṇini (पाणिनि) into the first category and Sanskrit after Pāṇini into the second. Patañjali's examples belong to the third.
 
-Natural drift can be governed. Codification can be owned. Calibration makes the apex unnecessary. That is why the Sanskrit case cannot be reduced to either drift before Pāṇini or codification after Pāṇini. Both categories hide the same thing: correction by architecture.
+Natural drift can be governed. Codification can be owned. Calibration makes the apex unnecessary. The Sanskrit case cannot be reduced to either drift before Pāṇini or codification after Pāṇini. Both categories hide the same thing: correction by architecture.
 
 **Pyramid: correction by authority. *Sanātan*: correction by architecture.**
 

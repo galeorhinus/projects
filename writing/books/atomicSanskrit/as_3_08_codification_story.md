@@ -438,7 +438,7 @@ The codification story attempts to hide the radiant matrix for the same reason e
 
 **It is evidence that the pyramid is unnecessary.**
 
-This is why the story can praise Sanskrit and still conceal it. The praise is part of the concealment.
+The story can praise Sanskrit and still conceal it because the praise is part of the concealment.
 
 Heroic erasure works because it is emotionally satisfying. The reader gets a hero. The field gets a chronology. The church of progress gets its teleology. PIE gets its descendant. The asuric machinery gets to avoid the harder conclusion: Sanskrit's order was not manufactured by the named documenter it praises. The named documenter decoded an order the machinery still refuses to see.
 

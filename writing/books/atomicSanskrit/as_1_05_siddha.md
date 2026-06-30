@@ -120,7 +120,7 @@ Patañjali reached this conclusion through the standard Indic disputational stru
 
 That placement commits the discipline. The *vaiyākaraṇaḥ* does not merely record whatever speakers produce. He defends a system of established bonds against corruption. The *Aṣṭādhyāyī* is not a description of speaker habit. It is a specification of an engineered system. Deviations from the rules are not new standards. They are fallings-away from the standard.
 
-This is why the dogma's *codification* vocabulary fails. Codification imagines drift first and order later. Patañjali gives the opposite: established bond first, grammatical defense afterward. There is no transition from disorder to order. There is order, and there are fallings-away from order.
+The dogma's *codification* vocabulary fails at this point. Codification imagines drift first and order later. Patañjali gives the opposite: established bond first, grammatical defense afterward. There is no transition from disorder to order. There is order, and there are fallings-away from order.
 
 Patañjali, the canonical commentator on the canonical grammar, called the bond *siddha*. The engineering conclusion follows: grammar calibrates usage against an established architecture.
 

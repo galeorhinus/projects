@@ -118,6 +118,8 @@ PIE was an imaginary ancestor. Once it is removed, what remains is not a descend
 
 The Vedic sequence moves from eclipse to clearing before it reaches celebration. Svarbhānu's darkness has to be broken. The asurī māyā has to be dissolved. Atri finds the hidden Sun through *turīya brahman*, the fourth formulation of disciplined speech.[NOTE: rigveda-5-40-atri-clearing] Only then can the later mantra say that the Atris found what no others could. Life after PIE belongs to that middle work: remove the eclipse-device, clear the field, and re-enter the discipline by which sight becomes possible again.
 
+The preservation worked. The light remained available for recovery because the architecture held through the darkness.
+
 The remedy is a change of sight. PIE trained the reader to look for one ancestor at one point on a timeline. Sanskrit has to be seen fractally: sonomer, *akṣara*, *dhātuḥ*, *kriyāpada*, *śabda*, *vākya*, recitation, calibration matrix. The same engineering signature recurs across scale. A one-scale reconstruction made Sanskrit derivative. The scale-recurring architecture returns Sanskrit to its proper category: calibrant.
 
 The shadows were never the source.

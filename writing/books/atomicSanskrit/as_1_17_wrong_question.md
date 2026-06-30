@@ -93,7 +93,7 @@ There is a psychological term for that operation: ***gaslighting***. It is the s
 Gaslighting does not only erase memory. It can redirect memory. The machinery does not ask India to forget Pāṇini. It asks India to remember him incorrectly. The decoder becomes codifier. The documenter becomes origin. A civilization's reverence for one of its finest decoders is turned into reverence for codification itself.
 
 <!-- AISWEEP-OLD
-This is why praise can become a weapon. The machinery does not need to insult Pāṇini. It can praise him for the wrong act. Miscast him as codifier, and the civilization is trained to honor authority where it should be recognizing calibration. The memory remains reverent, but the object of reverence has been altered. That is gaslighting at civilizational scale.
+Praise can therefore become a weapon. The machinery does not need to insult Pāṇini. It can praise him for the wrong act. Miscast him as codifier, and the civilization is trained to honor authority where it should be recognizing calibration. The memory remains reverent, but the object of reverence has been altered. That is gaslighting at civilizational scale.
 AISWEEP-END -->
 Praise becomes a weapon here. The machinery does not need to insult Pāṇini. It can praise him for the wrong act. Miscast him as codifier, and the civilization is trained to honor authority where it should be recognizing calibration. The memory remains reverent, but the object of reverence has been altered. That is gaslighting at civilizational scale.
 
@@ -175,21 +175,31 @@ The answer is not to deny movement. The answer is to restore authorship.
 <!-- AISWEEP-OLD
 The dharmic continuum supplies the ground for this speculation. The reconstruction supplied here differs from the pyramid's speculation in one structural respect: it begins with humility. The ground comes from the continuum itself: the seers saw, the Vedas are heard, the corpus is without human authorship, speech drifts, and the Vedas remain the primary measure. The reconstruction is mine: the Vedas carry an engineered linguistic architecture; the grammatical disciplines decoded that architecture; Pāṇini compressed it into the working calibrant for the speech mode. The dharmic continuum did not need to say all of this. It preserved the architecture. The reconstruction makes explicit what the asuric machinery obscured: that the preserved architecture supports this speculation better than the pyramid's.
 AISWEEP-END -->
-This speculation stands on ground the dharmic continuum supplies, and it differs from the pyramid's speculation in one structural respect: it begins with humility. The ground comes from the continuum itself: the seers saw, the Vedas are heard, the corpus is without human authorship, speech drifts, and the Vedas remain the primary measure. The reconstruction is mine: the Vedas carry an engineered linguistic architecture; the grammatical disciplines decoded that architecture; Pāṇini compressed it into the working calibrant for the speech mode. The dharmic continuum did not need to say all of this. It preserved the architecture. The reconstruction makes explicit what the asuric machinery obscured: that the preserved architecture supports this speculation better than the pyramid's.
+This speculation stands on ground the dharmic continuum supplies, and it begins by refusing to collapse two claims that have to remain distinct.
 
-1. Sanskrit enters the historical record already engineered. Who specified its architecture, when that specification occurred, and how it entered the human world are not questions answered here.
-2. The continuum knows one thing at the origin: the *ṛṣis* were **मन्त्रद्रष्टारः (*mantra-draṣṭāraḥ*)** — seers of the mantras. They saw. Everyone after them heard. That is why the corpus is **श्रुति (*śruti*)** — that which is heard.
-3. Entropy is real. Ordinary speech drifts; memory weakens; pronunciation loosens; usage spreads outward into **अपभ्रंश (*apabhraṃśa*)**. **शब्दाः (*śabdāḥ*)** become **अपशब्दाः (*apaśabdāḥ*)**. **गौः (*gauḥ*)** becomes **गावी (*gāvī*)**, **गोणी (*goṇī*)**, **गोता (*gotā*)**, **गोपोतालिका (*gopotalikā*)** — and, in time, **गाय (*gāy*)**. A language as precise as Sanskrit could not be left to habit alone.
-4. The Vedas became the primary calibrant: **अपौरुषेय (*apauruṣeya*)**, encoded perfection, perfect when seen, perfect when heard, perfect today.
-5. This argument treats one layer of what the Vedas carry: the engineered linguistic system Sanskrit instantiates. The corpus carries other architectures also — ritual, cosmology, metaphysics, measure, healing, transmission, and more — but the linguistic layer is measurable, testable, and sufficient to overturn the pyramid's account.
-6. For a long time, implicit calibration worked. Those responsible for hearing and preserving the Vedic corpus held the primary calibrant. Those responsible for Sanskrit returned to it when *bhāṣā* needed correction. The method worked, but it was demanding because the grammar was present inside the corpus and its disciplines, not yet compressed into a compact operating manual.
-7. Many **वैयाकरणाः (*vaiyākaraṇāḥ*)** undertook the work of decoding what the Vedas carried: Yāska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, the **प्रातिशाख्य (*Prātiśākhya*)** and **शिक्षा (*Śikṣā*)** disciplines, and the wider pre-Pāṇinian grammatical line.
-8. Pāṇini comes after that work. He did not create the architecture. He compressed it. The *Aṣṭādhyāyī* became the easier day-to-day calibrant for *bhāṣā*. The Vedas remained the primary calibrant.
-9. As the age darkened further, the Vedas remained protected and Sanskrit remained protected, but the recognition of engineering was obscured. The asuric machinery could not destroy the architecture, so it misnamed it: drift became development, decoding became codification, calibration became standardization, and Sanskrit became one branch on a tree grown from an imaginary ancestor.
+The first concerns *vāc*. Bṛhaspati's *vācam akrata* gives the seed: the wise formed Speech with the mind.[NOTE: rigveda-10-71-2-sieve-vak] The mantra does not give biographies, dates, institutions, or a construction manual. It does not use the later language-name Sanskrit. It gives something more basic: the category of formed Speech, not drifted speech. Sanskrit is treated here as the calibrated architecture in which that Vedic *vāc* becomes visible.
+
+The second concerns the Vedas. The *ṛṣis* were **मन्त्रद्रष्टारः (*mantra-draṣṭāraḥ*)** — seers of the mantras. They saw. Everyone after them heard. The corpus is therefore **श्रुति (*śruti*)** — that which is heard — and **अपौरुषेय (*apauruṣeya*)** — not of human authorship.
+
+The honest limit remains: we do not know the historical identities of the wise, when Sanskrit's specification occurred, or how the architecture entered the human world. The pyramid converts conjecture into chronology and teaches it as settled fact. This book will not do that. It speculates openly and calls the speculation by its name.
+
+The motive is preservation with discrimination. Let what can flow, flow. Let what grows, grow. Let what changes, change. Preserve what is worthy of preservation for eternity: wisdom, measure, mantra, and the stories of how balance is kept even when darkness is everywhere.
+
+1. Sanskrit appears before history already engineered. The record gives the object: an architecture already functioning.
+2. The Vedic memory gives the first clue about agency: the wise formed *vāc* with the mind. That does not answer every modern question, but it refuses the weakest answer — that order of this kind arose from ordinary drift.
+3. What can be examined is the architecture that survived: sound, meter, atom, rule, recitation, correction, and lineage.
+4. Entropy is real. Ordinary speech drifts; memory weakens; pronunciation loosens; usage spreads outward into **अपभ्रंश (*apabhraṃśa*)**. A language as precise as Sanskrit could not have been left to habit alone.
+5. The Vedas stand as the primary calibrant: encoded perfection, perfect when seen, perfect when heard, perfect today.
+6. This argument treats one layer of what the Vedas carry: the engineered linguistic system Sanskrit instantiates. The corpus carries other architectures also — ritual, cosmology, metaphysics, measure, healing, transmission, and more — but the linguistic layer is measurable, testable, and sufficient to overturn the pyramid's account.
+7. The four Vedas need not be treated as four rungs on a historical ladder. Difference of function is not proof of difference in date.
+8. A more honest speculation is that the four Vedas were four functions of one preservation architecture. Across generations, mantras may have been seen, heard, arranged, and stabilized within those functional corpora.
+9. For a long time, implicit calibration worked. Those responsible for hearing and preserving the Vedic corpus held the primary calibrant. Those responsible for Sanskrit returned to it when *bhāṣā* needed correction.
+10. Many **वैयाकरणाः (*vaiyākaraṇāḥ*)** decoded what the Vedas carried: Yāska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, the **प्रातिशाख्य (*Prātiśākhya*)** and **शिक्षा (*Śikṣā*)** disciplines, and the wider pre-Pāṇinian grammatical line. Pāṇini did not create the architecture. He documented and compressed it into a working calibrant for *bhāṣā*.
+11. As the age darkened further, the Vedas remained protected and Sanskrit remained protected, but the recognition of engineering was obscured. The asuric machinery could not destroy the architecture, so it misnamed it: drift became development, decoding became codification, calibration became standardization, and Sanskrit became one branch on a tree grown from an imaginary ancestor.
 
 The rationalist demand for a historical mechanism meets an honest answer: ***we do not know.***[NOTE: nasadiya-sukta] What we do know is the architecture on the page and in the mouth.
 
-> ***The seers saw. The lineage heard. The vaiyākaraṇāḥ decoded. Pāṇini compressed. The Vedas remain the measure.***
+> ***The wise formed *vāc*. The seers saw. The lineage heard. The vaiyākaraṇāḥ decoded. Pāṇini documented and compressed. The Vedas remain the measure.***
 
 ## 17.8 Pāṇini Praised, Architecture Erased
 
@@ -221,7 +231,7 @@ That move is the target here. The battle is not with Pāṇini or the past. It i
 
 The machinery does not deny reverence. It redirects reverence.
 
-The civilization keeps the memory active, but the machinery changes its object. It trains the reader to bow before codification where the evidence points to calibration. That is why heroic erasure works better than direct denial: it does not insult the hero. It changes what the hero means.
+The civilization keeps the memory active, but the machinery changes its object. It trains the reader to bow before codification where the evidence points to calibration. Heroic erasure works better than direct denial because it does not insult the hero. It changes what the hero means.
 
 The asuric pyramid holds only as long as that move holds.
 

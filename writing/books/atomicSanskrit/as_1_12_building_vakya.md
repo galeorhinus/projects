@@ -112,7 +112,7 @@ An *upasargaḥ* redirects the field in which the atom acts. With *kṛ*, the op
 
 The point is the direction of the bond. Each *upasargaḥ* turns *kṛ* toward a different field — *pra-* toward prior formation, *vi-* toward alteration, *sam-* toward integrated refinement — without ever touching the atom at the center.
 
-The atom remains visible through the redirection. That is why the molecule can be interpreted. The head-bond changes the field while preserving the atom.
+The atom remains visible through the redirection, which is what makes the molecule interpretable. The head-bond changes the field while preserving the atom.
 
 ![Figure 12.4 — Head-bonds redirect the कृ (*kṛ*) field: *pra-*, *vi-*, and *sam-* produce different molecular territories.](figures/building_vakya/head_bonds.svg){#fig:building-vakya-head-bonds width=100%}
 
@@ -133,7 +133,7 @@ Now keep the head-bond the same and change the tail-bond. The **sam-** field giv
 
 The head-bond places the atom in the *sam-* field. The tail-bond decides whether the molecule designates the state, the act, or the result. The difference is grammatical and semantic. *Saṃskṛti* and *saṃskāra* remain related through their shared atom and head-bond, while remaining distinct because their tail-bonds differ.
 
-This is why *pratyayāḥ* behave as valence-shell stabilizers. They complete the outer shell of the molecule. Once the tail-bond lands, the molecule can take a role in a sentence.
+*Pratyayāḥ* behave as valence-shell stabilizers. They complete the outer shell of the molecule. Once the tail-bond lands, the molecule can take a role in a sentence.
 
 The tail-bond gives the atom a job.
 
@@ -180,7 +180,7 @@ The line contains a compact sentence assembly. In **ऋचा (*ṛcā*)**, the 
 
 The same is true of **किम् (*kim*)**, **तत् (*tat*)**, and **यः (*yaḥ*)**. Each form has entered sentence use with its role carried by form. The parts carry their own relational signatures.
 
-This is why Sanskrit can support freer word order while remaining clear. The order of words can serve emphasis, meter, sound, and poetic architecture because the relations are encoded in the *padāni*.
+Sanskrit can support freer word order while remaining clear because the relations are encoded in the *padāni*. The order of words can serve emphasis, meter, sound, and poetic architecture without losing the sentence's bonds.
 
 The *śabda* becomes a *padam* when it is prepared for relation. The molecule becomes sentence-ready.
 

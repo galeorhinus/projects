@@ -12,6 +12,8 @@ Under the pyramid's clock, the *Vedas* shrink to early literature: old texts, sc
 
 The matrix rests on three principles. First: the next generation is the archive. Content survives only when one generation receives it and transmits it to the next. Second: preservation must fit the human instrument. Human beings remember, recite, gesture, hear, discriminate, and correct. Third: the deepest systems use complementary pairs. The practitioner performs while the audience detects drift. The audience are more than passive listeners; they are active participants in an error-correction system.
 
+The motive is visible in the design. Ordinary life can keep moving: stories can be retold, customs can localize, crafts can adapt, speech can flow into regional forms. The matrix holds the measure. It preserves what must remain recoverable when memory weakens, darkness spreads, or authority tries to seize the gate.
+
 The third principle appears everywhere in *Sanātan*. It is structurally central to the **शास्त्रार्थ (*śāstrārtha*)** setting (Chapter 3 §3.5): truth is tested in front of listeners, not certified behind a closed institutional door. The same complementary structure operates here in the preservation setting. The performer carries the content. The listener guards the content. The chain is distributed because the civilization refused the pyramid.
 
 ## 14.1 The Four Preservation Modes
@@ -39,7 +41,7 @@ The four modes expose the civilizational contrast. In the Sanskritic ecology, wr
 
 ***Scripture*** is what happens when writing is elevated from support into sovereign preservation. A visible glyph carries the content, and the institution that controls the copy controls the transmission. The medium can be stone, palm leaf, paper, print, or digital storage; the custody logic is the same. The edition can be authorized, restricted, and seized.
 
-This is why the Abrahamic tradition elevates Scripture: the pyramid needs a controlled text. Whoever controls the written corpus controls the doctrine; whoever controls the doctrine controls the people. The same custody logic also explains progressive chronology capture, including the refusal to permit the more logical explanation that Aramaic evolved from Brāhmī (Appendix Part 3 §3.8).
+The Abrahamic tradition elevates Scripture because the pyramid needs a controlled text. Whoever controls the written corpus controls the doctrine; whoever controls the doctrine controls the people. The same custody logic also explains progressive chronology capture, including the refusal to permit the more logical explanation that Aramaic evolved from Brāhmī (Appendix Part 3 §3.8).
 
 *Sanātan* built a distributed preservation ecology — writing for what writing can carry, memory for what story must carry, gesture for what the body must carry, and hearing for what only exact sound can carry. The preservation engineering mirrors the polity engineering developed earlier (Chapter 3 §3.6): single-medium maps to single-apex pyramid; four-mode distributed maps to non-pyramidal *Sanātan*.
 
@@ -101,7 +103,7 @@ The counts add accordingly: one plus two is three, two plus three is five, three
 
 *Chandas* treats meter as discovered architecture. The discipline reveals the valid forms, counts their possibilities, charts their patterns, and trains poets and reciters to hold them. Grammar is decoded. The mouth is mapped. Meter is measured and discovered. In each case, Sanskrit's disciplines begin from architecture, not authority.
 
-That is why *Chandas* belongs inside the calibration matrix. Meter does more than beautify a verse. It defines what a valid timed form can be, gives the poet a design space, gives the reciter a checksum, and gives the listener a way to hear drift. Poetry, mathematics, and preservation meet in the same measured line.
+*Chandas* belongs inside the calibration matrix because meter does more than beautify a verse. It defines what a valid timed form can be, gives the poet a design space, gives the reciter a checksum, and gives the listener a way to hear drift. Poetry, mathematics, and preservation meet in the same measured line.
 
 ## 14.5 The Whole Language Carries the Sūtra-Discipline
 
@@ -118,7 +120,7 @@ The same discipline operates at the atomic scale (Chapter 10). At system scale, 
 
 The whole language carries the sūtra-discipline.
 
-This is why *chandas* and *bhāṣā* do not prove drift. They are operating modes inside one architecture. The *chandas* mode is the primary calibrant. The *bhāṣā* mode operates under a generative manual. Difference between modes is not decay. It is the system doing what it was engineered to do. The Western philological dogma treats the visible differences between *vaidika* and *laukika* Sanskrit — features of the *chandas* mode (the *udātta-anudātta-svarita* accent system; the ळ (*ḷ*) sound; certain lexical and morphological adjustments) that the *bhāṣā* mode does not deploy — as evidence of organic mutation across time. The category is wrong. Pāṇini's **अष्टाध्यायी (*Aṣṭādhyāyī*)** operates the *chandasi* rules (*chandas* mode) and the *bhāṣāyām* rules (*bhāṣā* mode) **synchronically**, not as older-to-newer chronology.
+*Chandas* and *bhāṣā* therefore do not prove drift. They are operating modes inside one architecture. The *chandas* mode is the primary calibrant. The *bhāṣā* mode operates under a generative manual. Difference between modes is not decay. It is the system doing what it was engineered to do. The Western philological dogma treats the visible differences between *vaidika* and *laukika* Sanskrit — features of the *chandas* mode (the *udātta-anudātta-svarita* accent system; the ळ (*ḷ*) sound; certain lexical and morphological adjustments) that the *bhāṣā* mode does not deploy — as evidence of organic mutation across time. The category is wrong. Pāṇini's **अष्टाध्यायी (*Aṣṭādhyāyī*)** operates the *chandasi* rules (*chandas* mode) and the *bhāṣāyām* rules (*bhāṣā* mode) **synchronically**, not as older-to-newer chronology.
 
 Other civilizations know mode-splits and codified standards — Classical and Vulgar Latin, Quranic/Classical and modern Arabic, Classical Chinese and modern Sinitic speech. Those comparisons show that one language-field can operate in more than one mode. They do not make Sanskrit one more codified language. Sanskrit's two-mode architecture is uniquely engineered for non-decay. The *"Vedic-to-Classical transition"* that looks like drift to the ***progressive dogma*** is the engineered system functioning exactly as designed.
 
@@ -138,7 +140,7 @@ The distinction is not preservation versus non-preservation. All three preserve.
 
 The asymmetry is what exposes the pyramid's insecurity or perhaps jealousy.
 
-The control cases are safe for the pyramid because each keeps authority visible. The Masoretic schools, the Quranic authorities, the church canon, the academies, the courts, the committees — each gives the machinery a custodian to identify. Sanskrit breaks that pattern. Pāṇini can be cited, but he does not exhaust the system. His grammar points backward to the matrix and outward to the living architecture. That is why the machinery praises Pāṇini as so-called codifier while refusing Sanskrit the recognition it gives smaller authority-bound systems. The praise does not arise from concession, what it disguises is deliberate concealment.
+The control cases are safe for the pyramid because each keeps authority visible. The Masoretic schools, the Quranic authorities, the church canon, the academies, the courts, the committees — each gives the machinery a custodian to identify. Sanskrit breaks that pattern. Pāṇini can be cited, but he does not exhaust the system. His grammar points backward to the matrix and outward to the living architecture. The machinery therefore praises Pāṇini as so-called codifier while refusing Sanskrit the recognition it gives smaller authority-bound systems. The praise is not a concession; it disguises deliberate concealment.
 
 The pyramid calls the Masoretic apparatus engineering. It calls Quranic recitation engineering. It calls Latin manuscript preservation engineering. When Sanskrit exceeds those benchmarks, it calls the result "oral tradition," "cultural conservatism," or "pre-modern habit." Same standard, different classification.
 
@@ -156,7 +158,7 @@ The calibration matrix was not assembled by one named author. The Vedic corpus i
 
 Pāṇini documented a matrix that was already in operation. He did not originate it.
 
-**This is why Pāṇini's praise is selective and dangerously seductive.** The machinery can safely admire the named documenter if admiration makes him look like origin. But Pāṇini is a threat to the pyramid when read correctly. He is not evidence that authority created Sanskrit's order. He is evidence that order already existed deeply enough to be decoded, compressed, and carried as rule. The pyramid praises him only by turning him into what he was not.
+**Pāṇini's praise is selective and therefore dangerously seductive.** The machinery can safely admire the named documenter if admiration makes him look like origin. But Pāṇini is a threat to the pyramid when read correctly. He is not evidence that authority created Sanskrit's order. He is evidence that order already existed deeply enough to be decoded, compressed, and carried as rule. The pyramid praises him only by turning him into what he was not.
 
 The Western philological account calls him a codifier because that word lets the asuric machinery relocate the engineering into a later named figure and erase the anonymous architecture underneath him. The dogma's ***"centuries of analysis"*** hypothesis projects the same fabrication onto the phonological framework: gradual assembly by anonymous *Prātiśākhya* and *Śikṣā* authors, built up from observations across many generations. The hypothesis fails the same test. The texts do not show gradual assembly. They do not preserve failed prototypes, provisional sound grids, experimental recitation systems, or incremental discovery notes. They present the matrix as an operating reality.
 
@@ -180,7 +182,7 @@ The deeper implication is civilizational. The calibration matrix proves material
 1. Order can exist without a pyramid and without apex authority.
 2. Order derived from a calibrant is far more sustainable than order derived from codification.
 
-Sanskrit preserves through sound, meter, lineage, grammar, discipline, and self-correction — not through decree, monopoly, committee, or institutional apex. The standard lives inside the architecture. That is why the asuric machinery cannot merely disagree with Sanskrit. It has to misdescribe it. Natural drift can be governed and codification can be owned, but calibration makes the apex unnecessary because he has no role inside the architecture.
+Sanskrit preserves through sound, meter, lineage, grammar, discipline, and self-correction — not through decree, monopoly, committee, or institutional apex. The standard lives inside the architecture. The asuric machinery cannot merely disagree with Sanskrit; it has to misdescribe it. Natural drift can be governed and codification can be owned, but calibration makes the apex unnecessary because he has no role inside the architecture.
 
 Its architecture displays दिव्यता (*divyatā*) and serves लोकक्षेम (*lokakṣema*) without requiring a pyramid to command it. Sanskrit is evidence that the pyramid is unnecessary.
 

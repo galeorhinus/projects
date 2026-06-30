@@ -124,7 +124,7 @@ The gap is local. These are near-neighbor refinements inside already active zone
 
 The figure does two things at once. It shows that the southern sound-field already carries nearly the whole Sanskrit base. It also shows where Sanskrit's engineering begins to appear: available zones are regularized into exact coordinates.
 
-This is why *mahāprāṇa* stays aside first. If the ten heavy-breath stops were included at the start, the reader might treat the absence of aspirates in many southern inventories as a failure of the field. That would be the wrong conclusion. The base field is the first question. Breath is the second. The southern survey answers the first question strongly: the base is already here.
+*Mahāprāṇa* stays aside first to keep the base field visible. If the ten heavy-breath stops were included at the start, the reader might treat the absence of aspirates in many southern inventories as a failure of the field. That would be the wrong conclusion. The base field is the first question. Breath is the second. The southern survey answers the first question strongly: the base is already here.
 
 ## 8.7 The Forest-Belt Survey: 18 of 23
 
@@ -240,7 +240,7 @@ Sanskrit turns that gesture into a sonomeric contrast.
 
 ![Figure 8.7 — *Mahāprāṇa* as vertical expansion. The base stop matrix carries ten cells across five mouth-places (voiceless and voiced rows). Sanskrit adds two more rows — voiceless-aspirated and voiced-aspirated — interleaved with the base in *varṇamālā* order, doubling the stop inventory to twenty without adding a single new mouth-place. Breath pressure becomes a second engineered axis.](figures/superset/mahaprana_vertical_expansion.svg){#fig:ch8-mahaprana-vertical-expansion width=100%}
 
-The same breath-axis continues beyond the stop matrix into **विसर्ग (*visarga*)**. A *mahāprāṇa* stop releases controlled breath after contact; *visarga* releases controlled breath after a vowel. Its basis is the same engineering principle: breath is made structural. This is why *sandhi* rules matter. They are transition rules for what happens when released breath meets the next sonomer, not spelling conventions.[NOTE: visarga-anusvara-articulation]
+The same breath-axis continues beyond the stop matrix into **विसर्ग (*visarga*)**. A *mahāprāṇa* stop releases controlled breath after contact; *visarga* releases controlled breath after a vowel. Its basis is the same engineering principle: breath is made structural. *Sandhi* rules carry that transition: what happens when released breath meets the next sonomer, not spelling conventions.[NOTE: visarga-anusvara-articulation]
 
 The move belongs to a larger discipline of **प्राण (*prāṇa*)**. A civilization that treats breath as a real category of embodied practice also builds a language in which breath becomes structurally visible. Yoga, recitation, mantra, and grammar all meet here. Breath becomes an operating dimension.
 

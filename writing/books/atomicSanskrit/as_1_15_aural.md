@@ -90,6 +90,8 @@ Among the comparison cases considered here, none is documented at this depth as 
 
 The architecture is not a hypothesis. It has been running continuously, without interruption, for as long as anyone can verify. It is running now. It will be running after the reader closes these pages.
 
+Its survival is evidence of the system's purpose. A matrix built to preserve recoverable form across darkness, distance, and time has preserved recoverable form across darkness, distance, and time. The reader can examine the architecture because the architecture did its work.
+
 This is **ध्रौव्यता (*dhrauvyatā*)** in operation: not a claim about constancy, but audible constancy itself.
 
 A civilization the progressive dogma has classified as pre-rational and pre-engineering has produced and maintained the most sophisticated preservation architecture in human history; the pyramid's reflex is to treat the architecture's continued operation as evidence of mere inherited custom. *Tradition* is the pyramid's word for engineering it does not want to see.

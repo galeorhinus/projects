@@ -18,6 +18,8 @@
 
 The same wound-line that opened the Preface returns here with the other half supplied. Svarbhānu's darkness did not win. The Atris found the Sun.
 
+The eclipse passed because the Sun remained.
+
 That is the work this ending asks the reader to enter.
 
 The recovery image is not total conquest. The Sun is visible, the seven core plates have fallen, and points of caretaking light appear across the world-field. The residual plates remain as work that no single book can finish.
@@ -133,7 +135,7 @@ The two phrases are one operation seen from two sides. To make the world *ārya*
 
 The call is conditional. It cannot be made by anyone who wants the prestige without the discipline. It can be made only by those who have re-learned the architecture: the sound, the recitation, the calibrant discipline, the *vyākaraṇam*, the restraint, the conduct.
 
-This is why *āryatva* is desirable. It is disciplined alignment with **सत् (*sat*)**, not **असत् (*asat*)**: clarity over obscurity, restraint over appetite, calibration over drift, welfare over domination.
+*Āryatva* is desirable because it is disciplined alignment with **सत् (*sat*)**, not **असत् (*asat*)**: clarity over obscurity, restraint over appetite, calibration over drift, welfare over domination.
 
 The Sanskrit fractal holds that standard in its architecture. Sound is measured. Speech is disciplined. Memory is calibrated. Knowledge is carried without apex command. When that architecture is made fully visible, it does not preach. It stands as a calibrant: those who wish can measure themselves against it and choose *sat* without turning truth into dogma.
 

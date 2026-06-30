@@ -22,7 +22,7 @@ The **sonomer** is the measured sound-particle. It is articulated by place, shap
 
 The sonomer is not only a spatial unit. It is also temporal. Chapter 7 mapped the vocal apparatus. Chapter 8 surveyed the sound-field. Chapter 9 then selected the field into the *varṇamālā*: five places of articulation, five manners of contact, the 5×5 *sparśa* matrix, and the timing grid. A consonant carries the half-*mātrā* interval; a short vowel carries one *mātrā*; a long vowel carries two; a pluta vowel carries three. Chapter 10 then built the *dhātuḥ* from those timed sonomers. The sonomer therefore carries two coordinates at once: where the sound is made and how long the sound is held.
 
-That is why the term is stronger than "phoneme." A phoneme is a contrastive unit in modern linguistics. A sonomer is a measured unit of speech production. It classifies speech by the same physical questions a modern speech-language pathologist would ask: where is the tongue, what is the contact, how is the breath released, how long does the sound last, and what changes when the speaker moves from one sound to the next? Sanskrit answered those questions inside the architecture.
+The term is stronger than "phoneme." A phoneme is a contrastive unit in modern linguistics. A sonomer is a measured unit of speech production. It classifies speech by the same physical questions a modern speech-language pathologist would ask: where is the tongue, what is the contact, how is the breath released, how long does the sound last, and what changes when the speaker moves from one sound to the next? Sanskrit answered those questions inside the architecture.
 
 The *varṇamālā* is the ordered inventory of those sonomers. It is not a pile of sounds. It is a map of the mouth and a timing grid: back to front, place by place, effort by effort, duration by duration.
 
@@ -156,7 +156,7 @@ The label *abugida* is not false at the surface. It is false as the final catego
 
 Brāhmī, Devanāgarī, and the Indic script family are audiographic. They render articulated sound as visible architecture. But audiography is already a surface layer. The deeper engineering is sonomeric: Sanskrit first isolates the sonomers, arranges them in the *varṇamālā*, and builds with them. The glyph is the interface.
 
-To admit *audiography* as a category would force the foundational dogma to acknowledge an Indic invention at the level it guards most closely: the engineering of writing. To admit *sonomer* would go deeper still. It would acknowledge that India first engineered the unit the script renders. That is why the asuric pyramid prefers a borrowed typological label. *Abugida* keeps the Indic system inside someone else's taxonomy. *Audiography* lets it stand in its own category.
+To admit *audiography* as a category would force the foundational dogma to acknowledge an Indic invention at the level it guards most closely: the engineering of writing. To admit *sonomer* would go deeper still. It would acknowledge that India first engineered the unit the script renders. The asuric pyramid therefore prefers a borrowed typological label. *Abugida* keeps the Indic system inside someone else's taxonomy. *Audiography* lets it stand in its own category.
 
 There is a precise parallel in another domain. In 1839, **John Herschel** coined *photography* — from Greek *phōs* (light) and *graphē* (writing) — for the engineered capture of visible reality as a stable visual artifact. Niépce's heliograph, Daguerre's daguerreotype, and Talbot's calotype were the engineering achievements. *Photography* is their name. The church of progress treats photography as a foundational accomplishment of the nineteenth-century West. It celebrates the named inventors. It traces the engineering. It teaches the achievement in every art school.
 
@@ -266,7 +266,7 @@ This is not neutral. It places the engineering of writing inside the Near-Easter
 
 The sonomer breaks that enclosure. It says the visible glyph is not the deepest achievement. The deepest achievement is the measured sound-particle and the ordered sound-system built from it. The script renders that system; it does not create it. The written word loses its monopoly over foundation.
 
-That is why the sonomer threatens the pyramid more directly than the audiograph. The audiograph challenges the claim that India borrowed writing. The sonomer challenges the deeper claim that writing is the primary civilizational foundation.
+The sonomer threatens the pyramid more directly than the audiograph. The audiograph challenges the claim that India borrowed writing. The sonomer challenges the deeper claim that writing is the primary civilizational foundation.
 
 A claim by Indian civilization to have engineered its script independently would dislocate the foundational claim. A stronger claim — that India first isolated the sonomers, produced the *varṇamālā*, and then rendered that sonomeric architecture as Brāhmī — does more. It relocates the foundation from writing to sound.
 

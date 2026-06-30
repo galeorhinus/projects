@@ -80,7 +80,7 @@ The verse completes the eclipse arc. Ṛgveda 5.40.5 states the wound: Svarbhān
 
 **Short:** Ṛgveda 10.71.2 supplies the keystone image for Chapter 9: the wise refine Speech as grain is sifted through a sieve, and then form Speech with the mind. The architectural claim is already present before the modern diagrams begin: the sound-field is abundant, selection is deliberate, and the formed result carries radiance.
 
-**Deployments:** Chapter 9 opening epigraph and §9.1 sieve-to-garland transition.
+**Deployments:** Chapter 9 opening epigraph and §9.1 sieve-to-garland transition; Chapter 17 §17.7 honest speculation.
 
 The quoted mantra is Ṛgveda 10.71.2:
 
@@ -94,11 +94,15 @@ The first half supplies the engineering image. ***Saktum iva titaunā punantaḥ
 
 The second half supplies the consequence. Friends recognize friendship there. The final pāda reads in saṃhitā as ***bhadraiṣāṃ lakṣmīr nihitādhi vāci*** and separates as ***bhadrā eṣām lakṣmīḥ nihitā adhi vāci***: auspicious radiance is placed in Speech. That is the movement from the selected heap to the *varṇamālā*: the field is sifted, the sonomers are chosen, and the garland carries engineering as *divyatā*.
 
+For §17.7, the key caution is this: the mantra speaks of *vāc*, not of "Sanskrit" by the later name. The argument there does not claim that Ṛgveda 10.71 supplies a modern construction history of Sanskrit. It also does not reduce *vāc* to the generic human ability to make coherent mouth-sounds. The *Ṛgvedic* speech-cluster treats *vāc* as a deeper category: meaningful, measured, hidden, revealed, transmitted, mantra-bearing, and formed by intelligence. Ṛgveda 10.71.1 links *vāc* with meaningful naming and with an excellent hidden portion disclosed through affection. Ṛgveda 10.71.2 describes Speech as sifted and refined like grain, then formed by the wise with the mind. Ṛgveda 10.71.3 says the path of Speech was found, that Speech entered the ṛṣis, and that she was distributed widely. Ṛgveda 10.71.4 distinguishes mere seeing and hearing from true access: one may look and not see Speech, listen and not hear her, while to another she reveals her body. Ṛgveda 10.71.7 grades speakers by depth of access despite shared eyes and ears. Ṛgveda 1.164.45 describes Speech as measured in four quarters, three hidden and one spoken. Ṛgveda 8.100.11 invokes divine Speech as generated, many-formed, spoken by beings, and nourishing like a cow. Ṛgveda 10.125 speaks in Vāk's own voice and presents her as the power that enables the ṛṣi and the one of clear intelligence.
+
+Taken together, these witnesses support *Vedic vāc* as a formed and revealed speech-category, not ordinary vocalization alone. Sanskrit is taken in Chapter 17 as the calibrated and preserved architecture in which that *vāc* becomes visible. The Vedic verses give the category; the book's preceding chapters argue the architecture.
+
 The translation choices are deliberate. *Saktum* can be rendered as meal, grain, or flour, depending on context; "grain" keeps the reader-facing sieve image concrete. *Punantaḥ* carries purification and refinement; the instrument *titaunā*, "by a sieve," makes "refined" the cleanest body translation. "Formed" is preferred to "created" for *akrata* because the claim is not creation from nothing. The field is already abundant; the wise sift, select, shape, and form Speech.
 
 Sāyaṇa can stand in the note without changing the body. His ritual and recitational frame belongs to the lineage of use. The architectural account sits underneath that frame: ritual performance, recitation, and recognition presuppose Speech already sifted, formed, recognized, and carried. The two accounts need not compete.
 
-Even if one grants the pyramid's view that Maṇḍala 10 is late within the Ṛgvedic corpus, the verse remains inside the Vedic speech-world. The concession does not weaken the point. The Vedic corpus itself describes Speech through selection, refinement, mental formation, social recognition, and radiance.
+The point does not depend on accepting the pyramid's clock for Maṇḍala 10. However that chronology is argued, the verse remains inside the Vedic speech-world. The Vedic corpus itself describes Speech through selection, refinement, mental formation, social recognition, and radiance.
 
 Source basis: Ṛgveda 10.71.2 in the *Vāk-sūkta*, attributed in the *Anukramaṇī* tradition to Bṛhaspati Āṅgirasa. The DCS pada record gives the four pādas as ***saktum iva titaunā punantaḥ***, ***yatra dhīrāḥ manasā vācam akrata***, ***atrā sakhāyaḥ sakhyāni jānate***, and ***bhadrā eṣām lakṣmīḥ nihitā adhi vāci***. The DCS conllu parse tags ***akrata*** as √*kṛ*, third-person plural past, and parses the final pāda as ***bhadrā eṣām lakṣmīḥ nihitā adhi vāci***. Griffith's translation independently supports the two key moves, rendering the wise as having "created language" and the close as a "blessed sign imprinted." Final publication should still verify the saṃhitā text and accenting against the selected printed Ṛgveda edition.
 
