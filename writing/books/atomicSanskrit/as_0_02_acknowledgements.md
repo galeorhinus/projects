@@ -7,7 +7,7 @@
 > Family, contributors, scholarly debts, archives, translators, readers of early drafts. The *Operation Red Lotus* preface's structure of recognizing each contributor by name and role works well here too.
 
 
-A special acknowledgment belongs to Samskrita Bharati and to the volunteers who have carried its work across India and across the world. For decades, they have taught Sanskrit not as a museum language, not as a credential, and not as a relic, but as speech — living, learnable, shareable, and capable of entering ordinary life again.
+A special acknowledgment belongs to Samskrita Bharati and to the volunteers who have carried its work across India and across the world. For decades, they have taught Sanskrit as speech — learnable, shareable, and spoken in ordinary life.
 
 Many of the people from whom I learned Sanskrit over the years were such volunteers. They did not announce themselves as carriers of a civilizational wave. They simply taught. But in the language of this book, that is exactly what they are: Wave 3 *ṛṣis* and *ṛṣikās* in action, carrying the calibrant back into the mouths of people who had been taught to admire Sanskrit from a distance rather than inhabit it.
 

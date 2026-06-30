@@ -66,56 +66,82 @@ portable. It is field-built.**
 
 ## Ch 16 — The Subcontinental Mouth and Mind
 
+> **STATUS — drafted end-to-end.** `as_1_16_retroflex.md` is now the canonical content (Part A:
+> Opening + §16.1–§16.6; Part B: §16.7–§16.11). This plan is the section record + remaining-work
+> tracker; the detailed §1–§8 scaffold further below is **superseded by the draft**. Section count
+> is now **16.1–16.11** — a new **§16.4 The Mind De-centers** was inserted and everything after
+> shifted +1. **Remaining:** (1) relocate the CUT-BIN RAT material → Ch 2/3/17/18/Epilogue
+> (dedup-checked); (2) source the Avestan-absence + the pyramid's actual substrate/areal claims for
+> §16.8; (3) **Ho** karta-demotion data (the one genuine gap); (4) verify the `[VERIFY]` citations
+> (śam RV 1.114.1; karmaṇi / Mundari / Korku; the *nimitta* verses; gerund 3.4.21). **Part-B
+> decision (locked):** the Mind sections argue by cross-family distribution + engineering, never by
+> a source-absence inversion (the receiver / dative-experiencer is pan-IE) — so the ego-displacement
+> lands as the WHAT / spine in §16.11, not as a "Sanskrit-uniquely-has-it" claim.
+
 ### Opening — epigraph + a few lines (NOT a numbered section)
 
-Like the chapter's existing open: the **epigraph** (*ṛṭuraṣāṇāṃ mūrdhā*, Pāṇinīya Śikṣā), then a
-few image-rich lines on RV 1.1.1 *agnim īḷe* — the Veda's first sentence already carries the
-subcontinental mouth (tongue curled, sound made, Veda audible). ऋ (*ṛ*) in *Ṛgveda* as a
-supporting beat; don't overpack. State as fact; no pyramid. (Detail: the *Cold open* block in the
-section-detail below.)
+The chapter opens under the epigraph from the *Pāṇinīya Śikṣā* and frames the whole chapter from
+the subcontinental mouth/mind cluster: mouth traits (curled tongue, doubled sound, folded action)
+and mind traits (receiver grammar, knowledge as disclosure, experience as arrival). State the
+test plainly: let that field stand first, then send the portability thesis along its own claimed
+route. Then move into RV 1.1.1, *agnim īḷe*. The first sentence of the Veda already carries the
+subcontinental mouth: the tongue curls, the sound is made, and the Veda becomes audible through the
+very anatomy the chapter will study. ऋ (*ṛ*) in *Ṛgveda* can serve as a supporting beat, but the
+opening should remain image-rich and brief. State the fact; keep the pyramid off-stage.
 
 ## PART A — The Field Before the Argument
 
 ### 16.1 The Mouth: *Mūrdhanya*
 
-Retroflex as anatomy, not chronology. Tamil, Telugu, Mundari, Korku, Ho as primary witnesses.
-Integrate the best of the current retroflex chapter here. Keep Avestan/borrowing OUT (→ Part B).
-Figure: vocal apparatus.
-
-**On splitting (you asked): keep it ONE section, in TWO internal movements** — (a) *the field's
-sound* (the flex; the cross-language sweep; the acoustic-signature / cinematic caricature) →
-(b) *the engineered depth* (ऋ at the *mūrdhanya* site; the ऋ/र bridge; the *Dhātupāṭha* load — the
-retroflex is **load-bearing, not surface**; Korku native minimal pairs). Gives retroflex room
-without a second number (the chapter is already ~10 sections; other features get one each). **Clean
-draft-time split point** at the (a)|(b) seam if it runs long.
+Retroflexion is treated as anatomy, not chronology. Tamil, Telugu, Mundari, Korku, and Ho serve
+as the primary witnesses for the curled-tongue field, while the best material from the current
+retroflex chapter supplies the vocal-tract argument and the cross-language sweep. Keep this as one
+numbered section with two internal movements: first the field's sound, then the engineered depth in
+Sanskrit — ऋ at the *mūrdhanya* site, the ऋ/र bridge, the *Dhātupāṭha* load, and Korku's native
+minimal pairs. Avestan, borrowing, and directional-origin disputes belong in Part B, not here.
 
 ### 16.2 The Mouth Doubles: Reduplication
 
-Move from raw field habit to Sanskrit engineering. Show expressive reduplication in Tamil,
-Telugu, Mundari, and Korku, then Sanskrit's disciplined *abhyāsa*: perfect, desiderative,
-intensive, reduplicating class, *caṅ*, and *āmreḍita*. The key claim: Sanskrit does not merely
-repeat; it compresses repetition into architecture.
+Reduplication moves from the field's habit of doubling sound into Sanskrit's disciplined
+architecture. Tamil, Telugu, Mundari, and Korku show expressive, mimetic, and echoic doubling as a
+living pattern of the field. Sanskrit then incorporates that pattern through rule-bound *abhyāsa*:
+the perfect, desiderative, intensive, reduplicating class, *caṅ*, and *āmreḍita*. The claim is not
+that Sanskrit merely repeats. Sanskrit compresses repetition into a grammatical machine.
 
 ### 16.3 The Mind Receives: *Sampradāna*
 
-Make this one of the chapter's strongest sections. Tamil *eṉakku*, Telugu *nāku*, Korku
-*-en/-n*, and Mundari experiencer constructions show the field's receiver-grammar. Then bring in
-Vedic receiver grammar: *śrad asmai*, *svasti naḥ*, *mṛḷa mahyam*, and RV 10.71.4, where Vāk
-reveals herself *to* the prepared receiver.
+*Sampradāna* should carry the strongest statement of the chapter's "mind" argument. Tamil
+*eṉakku*, Telugu *nāku*, Korku *-en/-n*, and Mundari experiencer constructions show a field in
+which hunger, knowing, perception, and inward states flow to the person rather than being seized
+by the ego as sovereign agent. Vedic receiver grammar then deepens the claim: *śrad asmai*,
+*svasti naḥ*, *mṛḷa mahyam*, and RV 10.71.4, where Vāk reveals herself *to* the prepared
+receiver. No pyramid enters yet. The movement simply shows how the field thinks.
 
-No pyramid yet. Just: this is how the field thinks.
+### 16.4 The Mind De-centers: *Karmaṇi* and *Bhāve*
 
-### 16.4 The Mind Sequences: The Folded Action
+The *kartṛ* need not hold the center of the sentence. Field-first (the chapter's sequence): Tamil
+(*paṭu*), Korku (intransitive/agentive forms + intentionality marking), and Mundari (a pronominal
+subject-marker; Ho by family-inference, forms not yet sourced) all reduce the sovereign doer. Then
+the Sanskrit architecture: the three **प्रयोग (*prayoga*)** — *kartari* / **karmaṇi** (*Rāmeṇa
+pustakaṃ paṭhyate*) / **bhāve** (*tena supyate*, no *karman* at all). English demotes the doer but
+stays subject-hungry; *bhāve* needs no one in the seat. Karta-demotion, not "passive voice."
+Marathi continuity rides in the note. [NOTE: karmani-bhave-karta-demotion]
 
-Conjunctive participle / absolutive. Tamil, Telugu, Korku, and Mundari action chaining, then
-Sanskrit *ktvā/lyap*. Keep the caveat: default coreference, not an absolute same-subject gate.
+### 16.5 The Mind Sequences: The Folded Action
+
+The folded-action section turns from states received by the self to actions sequenced as they are
+lived. Tamil, Telugu, Korku, and Mundari supply the field pattern: prior action folded into the
+flow of a later action through converb or action-chaining forms. Sanskrit incorporates that
+pattern through *ktvā* and *lyap*, compressing a whole prior action into one indeclinable form.
+Keep the caveat visible: the relation is default coreference, not an absolute same-subject gate.
 The claim is incorporation, not uniqueness.
 
-### 16.5 One Field, Encoded
+### 16.6 One Field, Encoded
 
-This is the Part A landing. Mouth and mind are not separate coincidences. The same field appears
-as sound, morphology, syntax, and philosophy. Sanskrit builds the mouth into *varṇamālā*, builds
-the mind into *kāraka*, and the Veda encodes both. Pāṇini documents; he does not invent.
+Part A lands by refusing to treat mouth and mind as separate coincidences. The same field appears
+as sound, morphology, syntax, and philosophy: the curled tongue, the doubled sound, the receiver
+self, and the folded action. Sanskrit builds the mouth into *varṇamālā*, builds the mind into
+*kāraka*, and the Veda encodes both. Pāṇini documents the architecture; he does not invent it.
 
 End with the positive verdict:
 
@@ -124,58 +150,93 @@ End with the positive verdict:
 
 ## PART B — The Portability Thesis Collapses
 
-### 16.6 The Notices
+### 16.7 The Notices
 
-Use the satirical "management regrets..." piece here. This is where the pyramid enters. Keep the
-piece tight enough that it lands the custody axiom rather than becoming a second chapter:
+The pyramid enters through the satirical "management regrets..." notices. Keep the piece tight
+enough to land the custody axiom rather than becoming a second chapter: the date shifts but
+remains late, the northwest remains, the pastoral carrier remains, and Sanskrit remains imported.
+The notices should make the reader feel the continuity without needing the continuity announced in
+abstract terms. The pivot then becomes direct: the account keeps treating Sanskrit as portable, but
+the evidence now asks whether Sanskrit can be portable at all.
 
-- the date shifts but remains late;
-- the northwest remains;
-- the pastoral carrier remains;
-- Sanskrit remains imported.
+### 16.8 The Borrowing Model Cannot Hold
 
-Then pivot: the question is whether Sanskrit is portable at all.
+The borrowing section turns the positive evidence against the portability thesis. The five primary
+witnesses are useful precisely because the pyramid classifies them as unrelated to Sanskrit, yet
+they carry the same mouth and mind. The comparator set follows the portability thesis itself:
+Avestan / Old Iranian first, then the wider non-Indic Indo-European field. The section should
+refuse the directional-borrowing trap, use cross-family distribution as method, and ask whether the
+claimed source-field carries the same mouth-and-mind cluster Sanskrit carries structurally.
+Keep §16.3 positive; bring its receiver-grammar evidence back here as the inner test against the
+imagined carrier route. The path that supposedly brought Sanskrit through the northwest has to
+explain both the mind Sanskrit encodes and the mouth Sanskrit sounds with.
+Emeneau's "borrowed" features can then be reclassified as evidence that the field itself is
+speaking through Sanskrit's architecture.
 
-### 16.7 The Borrowing Model Cannot Hold
+### 16.9 The Corpus Cannot Be Rewritten
 
-Bring in the hard counters: cross-family distribution, refusal of the directional-borrowing frame,
-Avestan absence, and Emeneau's "borrowed" features reclassified. The five primary witnesses matter
-here because the pyramid classifies them as unrelated to Sanskrit, yet they carry the same mouth
-and mind.
-
-### 16.8 The Corpus Cannot Be Rewritten
-
-Place the recomposition reductio here. If Sanskrit arrived without the field's features and
+The recomposition reductio belongs here. If Sanskrit arrived without the field's features and
 acquired them by contact, then the Vedic corpus has to be silently re-engineered after each contact
-event: retroflex, reduplication, receiver grammar, absolutive. That collides with the preservation
-architecture whose whole purpose is non-change.
+event: retroflex, reduplication, receiver grammar, absolutive. That requirement collides with the
+preservation architecture whose whole purpose is non-change. The section also carries the "layers
+are style, not clock" point: different Vedic styles do not prove chronological development, and
+function is not time.
 
-Also place the "layers are style, not clock" point here. Different Vedic styles do not prove
-chronological development.
+Bring in the pyramid's own clock while keeping the book's category-first stance: the witness it
+treats as first major evidence already opens with *agnimīḷe*, already carries the curled tongue,
+and the chapter has already shown receiver grammar and folded action inside the corpus. Use this to
+show that even the pyramid's preferred sequence leaves the corpus saturated with the subcontinental
+mouth and mind.
 
-### 16.9 Engineering, Not Contact
+### 16.10 Engineering, Not Contact
 
-Land the technical verdict. Borrowing leaves features peripheral; Sanskrit makes them structural:
+The technical verdict lands here. Borrowing leaves features peripheral; Sanskrit makes them
+structural. Retroflexion is built by mouth-place, reduplication by rule-bound *abhyāsa*, receiver
+grammar by *sampradāna*, and action chaining by *ktvā/lyap*. The result is not a pile of borrowed
+traits but an architecture whose parts have been incorporated according to their nature. That is
+the "not portable" verdict.
 
-- retroflex by mouth-place;
-- reduplication by rule-bound *abhyāsa*;
-- receiver grammar by *sampradāna*;
-- action chaining by *ktvā/lyap*.
+### 16.11 What the Grammar Keeps
 
-This is the "not portable" verdict.
+The chapter closes with the philosophical payload. Sanskrit preserves *saṃskṛti* in grammar:
+self as receiver, knowledge as revelation, agency as distributed, and orientation toward
+*lokakṣema*. **Anchored śruti-first → smṛti-named:** knowledge discloses itself (RV 10.71.4;
+Kaṭha 1.2.23 / Muṇḍaka 3.2.3, *vivṛṇute tanūṃ svām*); the apparatus is instrumental, the Self its
+lord (the Kaṭha chariot, 1.3.3–4); capped by the Gītā's **निमित्तमात्रं भव** (*nimittamātraṃ bhava*,
+11.33) — tied back to *ahaṃkāra* (§16.3) and the swastika-not-pyramid spine. [NOTE: nimitta-chariot]
+Keep the movement light but clear. Ch 16 earns the honest speculation; Ch 17 speaks
+it. The close should hand forward to Ch 17 §17.7 for formation and preservation, and to the
+Epilogue for *āryatva* and the reader's role.
 
-### 16.10 What the Grammar Keeps
+---
 
-Close with the philosophical payload. Sanskrit preserves *saṃskṛti* in grammar: self as receiver,
-knowledge as revelation, agency as distributed, orientation toward *lokakṣema*. Keep this light
-but clear.
+## Display convention for non-Sanskrit examples
 
-This section hands forward to:
+Use IAST-style romanization as the common bridge across all examples. Sanskrit examples appear in
+Devanagari plus IAST. Tamil and Telugu examples may appear in their native scripts plus
+IAST-style transliteration, with a Devanagari phonetic aid when it helps Sanskrit-trained readers
+hear the form. Mundari, Ho, and Korku should use the source transcription first, lightly
+normalized toward IAST only where useful; native scripts such as Mundari Bani or Warang Citi
+should appear only when the spelling is sourced. Korku should not be presented as having a
+separate native script unless that claim is independently verified.
 
-- Ch 17 §17.7 for the honest speculation about formation and preservation;
-- the Epilogue for *āryatva* and the reader's role.
+Devanagari renderings for Tamil, Telugu, Mundari, Ho, and Korku are phonetic aids, not claims
+about native orthography. Add this note near the first non-Sanskrit examples:
 
-Avoid making this a separate origin-story section. Ch 16 earns the speculation; Ch 17 speaks it.
+> Devanagari renderings for Tamil, Telugu, Mundari, Ho, and Korku examples are phonetic aids for
+> Sanskrit-trained readers, not claims about native orthography. The roman forms follow source
+> transcription, lightly normalized toward IAST where useful.
+
+Preferred body pattern:
+
+- Sanskrit: देवनागरी — *IAST* — gloss.
+- Tamil/Telugu: native script — *IAST-style transliteration* — optional Devanagari phonetic aid —
+  gloss.
+- Mundari/Ho/Korku: source transcription or IAST-normalized source form — optional Devanagari
+  phonetic aid — gloss.
+
+Use IPA only when a phonetic contrast absolutely needs it, such as /ɭ/ vs /l/, /ɽ/ vs /r/, or
+/ʈ/ vs /t/.
 
 ---
 
@@ -287,15 +348,16 @@ this is the captured structure with the load-bearing lines.)
 > 1700–1200 BCE; "late second millennium"). **The northwest remains… Sanskrit remains something
 > brought into India.**
 >
-> The next notice said migration. Not conquest, not race, not theology — just movement. *Correction:
+> The next notice preferred migration. Movement replaced conquest. Language spread replaced
+> domination. Cultural transmission replaced rule. *Correction:
 > the management regrets the invasion tone. Replace with elite dominance, language shift, cultural
-> transmission, mobility* — phrases that do not sound like conquest while doing the same work. The
+> transmission, mobility* — phrases that sound softer while doing the same work. The
 > date may now breathe (2000–1500; 1700–1300). Always adjustable. Never released. **The northwest
 > remains. The pastoral carrier remains. The horse remains close enough to the argument. Sanskrit
 > remains something brought into India.**
 >
-> The latest notice is careful. No one is saying race, invasion, Bible, or conquest. The story is
-> now steppe ancestry, mobile pastoralists, Indo-Iranian corridors, contact zones, substrate
+> The latest notice is careful. The story is now steppe ancestry, mobile pastoralists,
+> Indo-Iranian corridors, contact zones, substrate
 > effects. **The date is no longer a date. It is a window. The window is no longer a claim. It is a
 > model. The model is no longer a dogma. It is a consensus.** But the window still opens from
 > outside India; the pastoralists still move inward; **Sanskrit still arrives with a custody tag
@@ -377,11 +439,13 @@ genuinely requires — and RAT-clean: "the people already here," not "displaced"
 
 ## §5 — It cannot be borrowed (the inversion + the method)
 
-- **Avestan inversion (HIGHLIGHT 1).** Avestan / Old Iranian does not carry the same mouth/mind
-  cluster — the **retroflex absence is strong and well-sourced**; the syntax is a *sourced
-  comparison* (state it, don't overclaim). That gap is exactly what *built-in-the-field* predicts,
-  not late borrowing: a *portable* language would not carry the field's mouth and mind; a language
-  *built* in the field carries nothing else. (Reuse the Ch 16 move: "Avestan does not run on it.")
+- **Avestan / Old Iranian comparator (HIGHLIGHT 1).** The portability thesis supplies its own
+  test: Avestan / Old Iranian first, then the wider non-Indic Indo-European field. The chapter asks
+  whether that claimed source-field carries the same mouth-and-mind cluster Sanskrit carries
+  structurally. The **retroflex absence is strong and well-sourced**; the syntax is a *sourced
+  comparison* (state it, don't overclaim). That comparison supports *built-in-the-field*: Sanskrit
+  carries structurally what the subcontinent carries densely. (Reuse the Ch 16 move: the claimed
+  source-field has a different mouth-profile.)
 - **Frame discipline — refuse directional borrowing (moved here from Part A).** The pyramid frames
   the central-forest-belt and southern retroflexes as *borrowed*; one is equally tempted to say
   "Marathi got its retroflexes (*cheṇḍū, jhāḍ, taḷmaḷ*) from Munda." **Refuse the directional frame
@@ -427,7 +491,7 @@ genuinely requires — and RAT-clean: "the people already here," not "displaced"
   rule-bound *abhyāsa* and assigned slots; the receiver by the *sampradāna* role; action-chaining
   by *ktvā / lyap*. A borrower leaves features raw and peripheral; an engineer makes them
   structural. That versatility is the signature of design.
-- **Verdict.** Sanskrit is not portable. It is **field-built** — made from the subcontinental
+- **Verdict.** Sanskrit is **field-built** — made from the subcontinental
   mouth and mind, encoded in the Veda, documented by Pāṇini. The portability thesis collapses on
   the corpus's own first word. (Tie *agnimīḷe* open → close.)
 - **Closing line (shape):** *The pyramid calls these features later contact. The chapter has
@@ -692,17 +756,20 @@ Iranian** — the inversion, HIGHLIGHT 1.*
 
 1. Never "Sanskrit borrowed from Tamil/Munda" — stays inside the borrowing model.
 2. Never "regional dative-subject = Sanskrit's case architecture" (Verma & Mohanan).
-3. Never "uniquely Indian" — the claim is the *cluster + density + field + calibration*.
-4. Pāṇini documents/decodes; he does not invent. The Veda already encodes the architecture.
-5. Hindi/Marathi are continuity examples only, never primary proof.
-6. Anger stays *laukika/bhāṣāyām* (Pāṇini 1.4.37) until AV 4.36.1 is verified.
-7. Category before calendar throughout — argue *encoded corpus* and *domain/mode*, never *early
+3. Comparator scope follows the portability thesis: Avestan / Old Iranian first, then the wider
+   non-Indic Indo-European field. The question is whether the claimed source-field carries the same
+   mouth-and-mind cluster.
+4. Never "uniquely Indian" — the claim is the *cluster + density + field + calibration*.
+5. Pāṇini documents/decodes; he does not invent. The Veda already encodes the architecture.
+6. Hindi/Marathi are continuity examples only, never primary proof.
+7. Anger stays *laukika/bhāṣāyām* (Pāṇini 1.4.37) until AV 4.36.1 is verified.
+8. Category before calendar throughout — argue *encoded corpus* and *domain/mode*, never *early
    vs late*.
-8. Converbs are **subject-controlled, not loose** — never "loosely / endlessly" (HIGHLIGHT 3);
+9. Converbs are **subject-controlled, not loose** — never "loosely / endlessly" (HIGHLIGHT 3);
    verify example forms (esp. Mundari) before print.
-9. Keep **areal-distribution vs the engineering argument distinct**: areal linguistics says
+10. Keep **areal-distribution vs the engineering argument distinct**: areal linguistics says
    *where*; the chapter says *why* Sanskrit's participation signals engineering.
-10. The thesis is **incorporation**, not a concision-contest and not a chronology.
+11. The thesis is **incorporation**, not a concision-contest and not a chronology.
 11. **PART A discipline:** no pyramid, no rebuttal, no "they say" — pure positive architecture.
     The antagonist appears only in PART B (§4 onward).
 

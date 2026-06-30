@@ -12,15 +12,15 @@
 
 \bigskip
 
-Across the Indian subcontinent, language carries a distinctive cluster of mouth and mind. The tongue curls and the mouth doubles. The mind receives, lets knowledge disclose itself, and folds one action into another.
+Across the Indian subcontinent, language carries a distinctive cluster of mouth and mind. Anatomically, the tongue curls backward, and the mouth repeats and doubles its sounds. Philosophically, the mind receives rather than commands, lets the doer slip from the center of the sentence, and folds living actions into a single sequence.
 
-Let the field stand first: the curled tongue, the doubled mouth, the receiving mind, and the sound-field that carries them. After that, the portability thesis must walk its own claimed route: northwest, Indo-Iranian corridors, mobile pastoralists, Avestan / Old Iranian, and the wider non-Indic Indo-European field. If Sanskrit is said to arrive from there, that route has to account for the mouth Sanskrit sounds with and the mind Sanskrit encodes.
+Let this subcontinental ground stand first. Once the curled tongue and the receiving mind are laid bare, the pyramid's portability thesis must walk its own claimed route. It must trace the northwest corridors, the mobile pastoralists, Old Iranian, and the broader Indo-European field. If Sanskrit was imported along that path, the path must explain how the language acquired the mouth it sounds with and the mind it encodes.
 
 The first evidence is in the mouth.
 
 The opening word of the *Ṛgveda* is *agnimīḷe* (अग्निमीळे). The Veda's first sentence already carries the subcontinental mouth: the tongue curls, the sound is made, and the verse becomes audible through the anatomy this chapter studies.[NOTE: agnimile-rigveda-opening]
 
-The name *Ṛgveda* carries a second signal. Its first sound, ऋ (*ṛ*), is placed at the *mūrdhanya* site. The text's name and its first sentence both enter through the curled tongue.
+The name *Ṛgveda* itself carries a second signal. Its first sound, ऋ (*ṛ*), is placed at the *mūrdhanya* site. The text's name and its first sentence both enter through the curled tongue.
 
 ## PART A — The Field Before the Argument
 
@@ -28,7 +28,7 @@ The name *Ṛgveda* carries a second signal. Its first sound, ऋ (*ṛ*), is pl
 
 To articulate the core retroflex consonants of Sanskrit's engineered sound-system — ट (*ṭa*), ड (*ḍa*), and ण (*ṇa*) — the speaker has to isolate and contract the superior longitudinal muscle, curl the apex of the tongue backward, and strike it cleanly against the hard palate at roughly the midpoint of the vocal tract.
 
-The flex is the retroflex.
+The tongue curls back on itself — a flex. That flex is the retroflex.
 
 Across the subcontinent, the flex is everywhere. Tamil and Telugu operate it. Mundari, Ho, and Korku operate it. Marathi, Gujarati, Konkani, Sindhi, Bengali, Odia, Assamese, Hindi, Punjabi, and the related northern languages operate it. The feature crosses the family labels used in modern classification; the mouth-field is older and wider than the taxonomy.
 
@@ -48,15 +48,15 @@ Korku keeps the central forest belt visible inside the same mouth-field. Nagaraj
 
 ## 16.2 The Mouth Doubles: Reduplication
 
-The mouth also doubles. Tamil can intensify sensation through forms such as பளபள (*paḷa-paḷa*; Devanagari aid: पळ-पळ) and can make echo pairings such as புலி-கிலி (*puli-kili*; Devanagari aid: पुलि-किलि). Telugu uses echo and expressive forms such as పుస్తకం-గిస్తకం (*pustakam-gistakam*; Devanagari aid: पुस्तकम्-गिस्तकम्) and గమగమ (*gama-gama*; Devanagari aid: गम-गम). Mundari belongs in the same central forest-belt evidence: Phillips and Harrison include Mundari in their survey of mimetic reduplication across sound, movement, texture, taste, temperature, feeling, and sensation.[NOTE: phillips-harrison-mundari-mimetic-reduplication] Korku gives exact forms in another geography: Nagaraja records repeated forms such as *DoDo-DoDo* "seeing-seeing" (Devanagari aid: डोडो-डोडो) and partial forms such as *bo-boco* "to fall" (Devanagari aid: बो-बोचो).[NOTE: korku-nagaraja-mouth-mind-evidence] The examples differ by language, but the bodily habit is shared. A sound can be repeated to thicken perception, extend action, distribute reference, or make movement audible.
+Across the subcontinent, repetition of sounds or words carries meaning. Tamil can intensify sensation through forms such as பளபள (*paḷa-paḷa*; Devanagari aid: पळ-पळ) and can make echo pairings such as புலி-கிலி (*puli-kili*; Devanagari aid: पुलि-किलि). Telugu uses echo and expressive forms such as పుస్తకం-గిస్తకం (*pustakam-gistakam*; Devanagari aid: पुस्तकम्-गिस्तकम्) and గమగమ (*gama-gama*; Devanagari aid: गम-गम). Mundari belongs in the same central forest-belt evidence: Phillips and Harrison include Mundari in their survey of mimetic reduplication across sound, movement, texture, taste, temperature, feeling, and sensation.[NOTE: phillips-harrison-mundari-mimetic-reduplication] Korku gives exact forms in another geography: Nagaraja records repeated forms such as *DoDo-DoDo* "seeing-seeing" (Devanagari aid: डोडो-डोडो) and partial forms such as *bo-boco* "to fall" (Devanagari aid: बो-बोचो).[NOTE: korku-nagaraja-mouth-mind-evidence] The examples differ by language, but the bodily habit is shared. A sound can be repeated to thicken perception, extend action, distribute reference, or make movement audible.
 
 Sanskrit carries this distinctive field-habit and gives it architectural place.
 
 The Ṛgveda preserves word-level repetition directly: *dive-dive* — day by day; *gṛhe-gṛhe* — house after house, in every house; *vane-vane* — forest after forest, in every forest. Korku gives the same living habit in forms such as *DoDo-DoDo* — seeing-seeing. Mundari belongs to the same central forest-belt pattern through mimetic reduplication, though the exact live example should stay pending until verified. Sanskrit uses this word-level repetition for compact distributive force; Pāṇini later documents it as **आम्रेडित (*āmreḍita*)**.
 
-Repetition can look wasteful from the outside, but it often compresses information. English needs an added descriptor — “in forests everywhere” — to do what *vane-vane* does by repeating the unit itself. The repeated word carries plurality, distribution, continuity, and emphasis without importing another explanatory word.That sūtra-like compression makes reduplication a natural candidate for Sanskrit’s architecture.
+Repetition can look wasteful from the outside, but it often compresses information. English needs an added descriptor — “in forests everywhere” — to do what *vane-vane* does by repeating the unit itself. The repeated word carries plurality, distribution, continuity, and emphasis without importing another explanatory word. That sūtra-like compression makes reduplication a natural candidate for Sanskrit’s architecture.
 
-Sanskrit then goes further. It takes the power of repetition, abstracts it, disciplines it, compresses it at a sonomeric level, and distributes it across *lakāras*, *gaṇas*, and derived verb forms.
+Sanskrit then goes further. Its architecture takes the power of repetition, abstracts it, disciplines it, compresses it at a sonomeric level, and distributes it across *lakāras*, *gaṇas*, and derived verb forms.
 
 For example, at the consonant and syllable scale, the Veda takes the *d* consonant from the atom *dṛś* — to see — adds the *a* svara, and places it in front, as in *da-darśa* in Ṛgveda 1.164.4: *ko dadarśa prathamaṃ jāyamānam* — “who saw the first-born as he was being born?” Another example: the atom *dā* — to give — becomes *da-dāti* in Ṛgveda 10.107.7: *dakṣiṇāśvaṃ dakṣiṇā gāṃ dadāti*. The *carrying* atom *bhṛ* becomes *bi-bharti* in Ṛgveda 7.87.4. The repeated piece changes with the atom and functions as a small grammatical switch.[NOTE: vedic-reduplication-abhyasa-examples] Pāṇini later documented and named this operation **अभ्यास (*abhyāsa*)**. The perfect, **लिट् (*liṭ*)**, can carry it, as in *dadarśa*. The reduplicating class, **जुहोत्यादि गणः (*juhotyādi-gaṇaḥ*)**, can carry it, as in *dadāti*. The desiderative, **सन् (*san*)**, can carry it, as in *jighāṃsati*. The **चङ् लुङ् (*caṅ luṅ*)** aorist gives the same switch another home.
 
@@ -66,7 +66,7 @@ Sanskrit carries the subcontinent's core concept — repetition as meaning — a
 
 Hindu thought treats the ego — अहंकार (*ahaṃkāra*), the "I-making" faculty — as something to be understood and held in check, never the master of the self.[NOTE: ahamkara-ego-management] A civilization that insists on understanding the ego builds a language to manage it: a grammar that refuses to seat the "I" at the center of every act. The self becomes a receiver — the place a state arrives — not the sovereign that seizes it. This is the grammar of *experience*.
 
-The field carries the same discipline as a habit of everyday speech. English keeps the "I" in command — I am hungry. The subcontinent moves the other way. Tamil says எனக்கு பசி (*eṉakku paci*; Devanagari aid: एनक्कु पसि): to me, hunger. Telugu says నాకు ఆకలిగా ఉంది (*nāku ākaḷigā undi*; Devanagari aid: नाकु आकलिगा उन्दि): to me, hunger is. Mundari uses *reṅgej-iñ-a* (Devanagari aid: रेङ्गेज्-इञ्-अ), literally "hunger-me-is." In these forms the person is the locus where the state arrives, not the ego that commands it.
+The subcontinent carries the same discipline as a habit of everyday speech. English keeps the "I" in command — I am hungry. The subcontinent moves the other way. Tamil says எனக்கு பசி (*eṉakku pasi*; Devanagari aid: एनक्कु पसि): to me, hunger. Telugu says నాకు ఆకలిగా ఉంది (*nāku ākaḷigā undi*; Devanagari aid: नाकु आकलिगा उन्दि): to me, hunger is. Mundari uses *reṅgej-iñ-a* (Devanagari aid: रेङ्गेज्-इञ्-अ), literally "hunger-me-is." In these forms the person is the locus where the state arrives, not the ego that commands it.
 
 In Korku, the experiencer would use forms such as *-en* / *-n*; Nagaraja's example *in-en kenDe-khija Do-ken* (Devanagari aid: इन-एन केन्डे-खिजा डो-केन) means "to me something appeared blackish."[NOTE: korku-nagaraja-mouth-mind-evidence] 
 
@@ -78,29 +78,47 @@ RV 10.71.4 gives the section its keystone. Vāk is the agent. She reveals hersel
 
 The receiver-self is not one language's idiom. Korku, Mundari, Tamil, Telugu, and Sanskrit all seat the self as a receiver rather than a sovereign. This is what the subcontinent learned and kept: to understand the ego, and to carry a language built to manage it.
 
-## 16.4 The Mind Sequences: The Folded Action
+## 16.4 The Mind De-centers: *Karmaṇi* and *Bhāve*
 
-Experience arrives, and action unfolds.
+The doer can leave the center of a sentence. The agent — the **कर्तृ (*kartṛ*)** — recedes, and the clause settles on the thing acted on, or on the action itself. The English label "passive voice" misses the operation: this is not turning a sentence around, it is demoting the doer — making it oblique, optional, or gone.
 
-Tamil can say சாப்பிட்டு வந்தான் (*sāppiṭṭu vandān*; Devanagari aid: साप्पिट्टु वन्दान्): having eaten, he came. Telugu can chain వెళ్లి (*veḷḷi*; Devanagari aid: वेळ्ळि), కొని (*koni*; Devanagari aid: कोनि), and వచ్చాను (*vaccānu*; Devanagari aid: वच्चानु): having gone, having bought, I came. Korku uses converb forms such as *-Done* and *-Ten* (Devanagari aid: -डोने, -टेन) for "while / by" and "after"; Nagaraja's example *pa:rku saRup-Done hen* (Devanagari aid: पार्कु सड़ुप-डोने हेन) means "all came running."[NOTE: korku-nagaraja-mouth-mind-evidence] Mundari supplies the same broad field-pattern through serial or converb structures. One action folds into the next without forcing every action to stand as a separate sentence.
+The Indian subcontinental mind reduces the sovereign doer by several routes. Tamil demotes the agent through படு (*paṭu*) constructions — "the letter was written," leaving the doer optional. Korku separates an intransitive, agentless form from a transitive, agentive one, and Nagaraja notes that *-khe* marks not only transitivity and past sense but intention and purpose: the grammar itself distinguishes an event that merely happens from an act a doer drives. Ho explicitly groups intransitive and passive forms, and can mark action-stressing rather than object-stressing use. Mundari weakens the independent doer differently: pronominal subject marking belongs inside the predicate-field rather than letting a noun-subject stand as the sole sovereign anchor. The mechanisms differ; the direction is shared — the doer need not be the fixed center of the clause.[NOTE: karmani-bhave-karta-demotion]
 
-The Vedic corpus carries the same compression. Ṛgveda 1.4.8 has *pītvā*: having drunk. Atharvaveda 4.10.2 has *hatvā*: having slain. A whole earlier action enters the sentence as one compact form, so the sentence can move forward without turning every step into a separate clause.[NOTE: vedic-folded-action-ktva-lyap-examples] Pāṇini later documents this family of compact prior-action forms through operations such as **क्त्वा (*ktvā*)** and **ल्यप् (*lyap*)**.
+Sanskrit gives that shared direction an architecture: the three **प्रयोग (*prayoga*)**. In *kartari*, the doer is central. In **कर्मणि प्रयोग (*karmaṇi prayoga*)** the **कर्मन् (*karman*)**, the thing acted on, becomes the center: *Rāmeṇa pustakaṃ paṭhyate* — "by Rāma, the book is read." The *karman* (*pustakam*) takes the प्रथमा (*prathamā*, nominative); the *kartṛ* (*Rāmeṇa*) drops to the तृतीया (*tṛtīyā*, instrumental); the verb agrees with the thing done, not the doer. In **भावे प्रयोग (*bhāve prayoga*)** the de-centering goes all the way: the action stands forward with no *karman* at all, the agent in the instrumental and the verb in the third person singular — *tena supyate*, "by him, there is sleeping."
 
-The coreference relation should be stated carefully. These forms usually track the same agent or controlling participant, but the relation is default coreference rather than an absolute mechanical gate. That caveat keeps the claim where it belongs. Sanskrit incorporated the field-pattern into a precise grammatical instrument.
+English can demote the doer too — "the book was read," the agent trailing in an optional "by Rāma" — but it stays subject-hungry: it empties the doer's seat only by sliding the patient into it. Someone must still sit there. *Bhāve* needs no one in the seat; the action stands alone. Not a doer replaced, but a doer no longer required.
 
-## 16.5 One Field, Encoded
+This belongs with the chapter's larger argument. *Sampradāna* makes the person the receiver of experience; *karmaṇi* and *bhāve* make the doer incidental. The subcontinental mind does not only ask "who did it?" It can ask what was affected, what occurred, how the action entered the field — and it built a grammar that need not seat the ego at the center of the sentence.
 
-The cluster has four visible faces.
+## 16.5 The Mind Sequences: The Folded Action
 
-The tongue curls in *agnimīḷe*. The mouth doubles in *dadarśa*, *dadāti*, and *bibharti*. The self receives in *mahyam* and *tvasmai*. The act folds into the next act in *pītvā* and *hatvā*. Sound, morphology, syntax, and philosophy open through four doors into one field.
+Human action often arrives as sequence: eating, rising, going; seeing, deciding, speaking. A person can rise, wash, and step out the door — one continuous motion carried by one doer, not a list of separate events. The subcontinent's languages fold that flow into grammar: the act just finished is pressed into a specific form and tucked beneath the act that follows, so a chain of doing stays a single sentence with one thread running through it.
 
-Later grammar documents what the Veda already carries. The mouth becomes the *varṇamālā*. The mind enters the *kāraka* matrix. Repetition receives the name *abhyāsa*. The receiver becomes *sampradāna*. Prior action receives compact forms such as *ktvā* and *lyap*.
+Tamil says சாப்பிட்டு வந்தான் (*sāppiṭṭu vandān*; Devanagari aid: साप्पिट्टु वन्दान्): having eaten, he came — one verb folded under the next. Telugu chains a whole errand into a single breath: వెళ్లి (*veḷḷi*; Devanagari aid: वेळ्ळि), కొని (*koni*; Devanagari aid: कोनि), వచ్చాను (*vaccānu*; Devanagari aid: वच्चानु) — having gone, having bought, I came. Mundari folds the same way through its serial and converb structures. Across the field the prior act never stands alone; it bends into the act it leads to.
+
+Korku keeps the richest record. Nagaraja gives the converb *-Done* "while / by" and *-Ten* "after": *pa:rku saRup-Done hen* (Devanagari aid: पार्कु सड़ुप-डोने हेन), "all came running"; *inkiñj ja:m-Done … ura-n ol-en*, "the two went home weeping." Korku even braids the two faculties into one word — *inkiñj higra-higra-Done … ol-en*, "the two went … in fear" — a doubled sound (the mouth) riding a folded converb (the mind), the field's two signatures in a single form.[NOTE: korku-nagaraja-mouth-mind-evidence]
+
+Sanskrit's architecture folds action the same way. Ṛgveda 1.4.8 has *pītvā* — "having drunk." Atharvaveda 4.10.2 sets *hatvā* — "having slain" — inside *śaṅkhena hatvā rakṣāṃsy attriṇo vi ṣahāmahe*, "with the conch, having slain the rakṣas, we overcome the devourers": the conch of the Overture sounding within the grammar. A whole prior clause enters the line as one indeclinable, and the verse moves on without breaking the action into separate steps.[NOTE: vedic-folded-action-ktva-lyap-examples]
+
+Sanskrit then builds the fold into rule. On a bare dhātuḥ — an atom carrying no preverb — the form is **क्त्वा (*ktvā*)**: *kṛtvā*, "having done." Add an **उपसर्ग (*upasarga*, preverb)** and it shifts to **ल्यप् (*lyap*)**: *upagamya*, "having approached"; *praṇamya*, "having bowed." The preverb decides the shape — Pāṇini observed and documented the conditioning. His rule names the relation directly: **समानकर्तृकयोः पूर्वकाले (*samānakartṛkayoḥ pūrvakāle*)** — the affix marks the **पूर्वकाल (*pūrvakāla*)**, the prior act, of two actions that share one agent. One indeclinable folds an entire clause into itself: the same **अल्पाक्षरम् (*alpākṣaram*, minimal-syllable)** economy the architecture runs at every scale (Chapter 10).
+
+One doer usually threads the whole chain — eat, then come, the same person throughout. And Pāṇini is exact about which thread: **समानकर्तृक (*samānakartṛka*)**, the same **agent (कर्तृ, *kartṛ*)** — not the same grammatical subject. A passive that keeps the agent — *tena bhuktvā gamyate*, "by him, having eaten, it is gone" — satisfies the rule rather than breaking it; the "same-subject gate" is the looser Western approximation.[NOTE: gerund-coreference-default-not-gate] The thread is the agent, carried through, and the field's converbs run the same way. Incorporation, not a mechanical same-subject law.
+
+A complete act becomes one frozen form, leaning into the act that follows, and the sentence flows the way the doing flowed. This is a mind that takes action as a single connected motion — and a grammar built to speak it that way.
+
+## 16.6 One Field, Encoded
+
+The cluster has five visible faces.
+
+The tongue curls in *agnimīḷe*. Repetition becomes grammatical in *dadarśa*, *dadāti*, and *bibharti*. The self receives in *mahyam* and *tvasmai*. The doer recedes in *karmaṇi* and *bhāve*. The act folds into the next act in *pītvā* and *hatvā*. Five faces — in sound, in morphology, in syntax — open into one field.
+
+Later grammar documents what the Veda already carries. The mouth becomes the *varṇamālā*. The mind enters the *kāraka* matrix. Repetition receives the name *abhyāsa*. The receiver becomes *sampradāna*. The doer steps back in *karmaṇi* and *bhāve prayoga*. Prior action receives compact forms such as *ktvā* and *lyap*.
 
 Sanskrit is field-built: subcontinental in mouth, subcontinental in mind, engineered into language, encoded in the Veda.
 
 ## PART B — The Portability Thesis Collapses
 
-## 16.6 The Notices
+## 16.7 The Notices
 
 Read the notices the pyramid has issued over two centuries.
 
@@ -114,25 +132,29 @@ The next notice preferred migration. Movement replaced conquest. Language spread
 
 The latest notice is careful. The story is now steppe ancestry, mobile pastoralists, Indo-Iranian corridors, contact zones, substrate effects. **The date is no longer a date. It is a window. The window is no longer a claim. It is a model. The model is no longer a dogma. It is a consensus.** But the window still opens from outside India; the pastoralists still move inward; **Sanskrit still arrives with a custody tag already tied around its neck.**
 
-The notices keep Sanskrit portable; the evidence now tests whether portability can survive.
+The pyramid keeps changing the story but never loosens the custody tag. Each correction drops the last embarrassment — Noah, the skull, the invasion — and guards the one claim it will not give up: Sanskrit came from outside. Two centuries of walking it back have turned the retreat into the joke.
 
-## 16.7 The Borrowing Model Cannot Hold
+A much simpler explanation needs none of it. 
 
-The pyramid supplies its own comparator. Sanskrit is said to enter through the northwest, through Indo-Iranian corridors, carried by mobile pastoralists from an external field. That route gives the chapter its control: Avestan / Old Iranian first, then the wider non-Indic Indo-European field. The claimed carrier field must show the same cluster Sanskrit carries structurally — the curled tongue, disciplined reduplication, receiver grammar, and folded action.
+Sanskrit was built in the Indian subcontinent, not carried into it. The mouth is the field's mouth; the mind is the field's mind. The Veda carries both from its very first word.
 
-Across the subcontinent, the witnesses are dense. Tamil and Telugu carry the curled tongue, expressive doubling, receiver grammar, and folded action. Mundari, Ho, and Korku keep the central forest belt inside the same field. Sanskrit carries those features visibly: *agnimīḷe* curls the tongue at the threshold; *dadarśa*, *dadāti*, and *bibharti* compact doubling; *tvasmai* receives revelation; *pītvā* and *hatvā* fold prior action into the sentence. Pāṇini later documents the operations.
+## 16.8 The Borrowing Model Cannot Hold
+
+If Sanskrit arrived through the northwest, the claimed route is the test — Indo-Iranian corridors, Avestan / Old Iranian, and the wider non-Indic Indo-European field. That carrier field must show the same cluster Sanskrit carries structurally: the curled tongue, the doubled mouth, the receiver grammar, the demoted doer, and the folded action.
+
+The subcontinent supplies that field densely. Tamil and Telugu carry all five; Mundari, Ho, and Korku keep them inside the central forest belt — families the pyramid itself classes as unrelated, so a cluster they share cannot be inheritance. Sanskrit carries every one, from the curl of *agnimīḷe* to the fold of *pītvā*.
 
 The borrowing story performs the same maneuver each time. First it removes Sanskrit from the field. Then it returns the field's features as later acquisitions: retroflexion as substrate borrowing, the gerund or absolutive as areal feature, receiver grammar as local contact. Each feature is allowed to be Indian only after Sanskrit has been made non-Indian in origin.
 
 The receiver grammar from §16.3 is the inner test. Tamil, Telugu, Korku, and Mundari let hunger, knowing, perception, and inward states arrive to a person. The Veda does the same work through forms such as *asmai*, *naḥ*, *mahyam*, and *tvasmai*. The imagined carrier route now has to explain how an external language arrived already able to encode that mind, or how the Vedic corpus was later reworked to carry it.
 
-The custody trick is now visible. The pyramid grants the field its fragments while denying the field its architecture.
+The custody trick stands exposed. The pyramid grants the subcontinent its fragments while denying the field its architecture.
 
-The comparison is now concrete. The subcontinental field supplies the curled tongue, doubled mouth, receiving mind, and folded action. Sanskrit answers with *agnimīḷe*, *dadarśa*, *dadāti*, *bibharti*, *tvasmai*, *pītvā*, and *hatvā*. The Avestan / Old Iranian comparison must be sourced carefully, especially for syntax, but the structural point is already visible: the claimed source-field has a different mouth-profile, while the full cluster lives densely in the subcontinent. Sanskrit carries structurally what the subcontinent carries densely.
+Now set the two fields side by side. The claimed source — Avestan and Old Iranian — does not run the cluster: the retroflex is absent, and the syntax must be weighed with care before more is claimed. What the carrier was supposed to bring lives densely in the subcontinent instead. Sanskrit carries structurally what the field carries densely.
 
-## 16.8 The Corpus Cannot Be Rewritten
+## 16.9 The Corpus Cannot Be Rewritten
 
-The corpus presses from another side. Contact can move habits through a living speech community; the burden changes when the portability story has to alter a preserved corpus whose purpose is exact recurrence. If Sanskrit arrived without the field's features and acquired them by contact, then the Vedic corpus has to be silently reworked after each contact event: retroflex, reduplication, receiver grammar, absolutive.
+The corpus presses from another side. Contact can move habits through a speech community; the burden changes when the portability story has to alter a preserved corpus whose purpose is exact recurrence. If Sanskrit arrived without the field's features and acquired them by contact, then the Vedic corpus has to be silently reworked after each contact event: retroflex, reduplication, receiver grammar, absolutive.
 
 Each acquired feature demands a return to the workshop. The hymns must receive the curled tongue. The mantras must receive the doubled syllable. The receiver must enter the case-system. The folded action must enter the sentence. The pyramid then asks a preservation culture to behave like an absent-minded editing office.
 
@@ -146,21 +168,23 @@ The *chandas* / *bhāṣā* distinction belongs here. The *progressive dogma* pr
 
 The branch evidence sharpens the category further. A *śākhā* is a specified transmission line with its own branch-shape. The **माध्यन्दिन (*Mādhyandina*)** and **काण्व (*Kāṇva*)** recensions of the **शतपथब्राह्मण (*Śatapatha Brāhmaṇa*)** preserve related material through different branch-shapes, divisions, and arrangements. The correct axis is mode and branch rather than a single temporal slope from "Vedic" to "Classical."[NOTE: madhyandina-kanva-branch-shapes]
 
-## 16.9 Engineering, Not Contact
+## 16.10 Engineering, Not Contact
 
 Contact can move forms; engineering assigns place, role, and scale.
 
-Retroflexion enters by place: *agnimīḷe* makes the mouth curl at the Veda's threshold, and ऋ (*ṛ*) links the *mūrdhanya* site to the *Dhātupāṭha* and the name *Ṛgveda*. Reduplication enters by concision: *dadarśa*, *dadāti*, and *bibharti* make a field habit of doubling into a disciplined syllabic switch. Receiver grammar enters through forms such as *asmai*, *mahyam*, and *tvasmai*. Action chaining enters through forms such as *pītvā* and *hatvā*. Pāṇini later documents the operations as *abhyāsa*, *sampradāna*, *ktvā*, and *lyap*.
+Retroflexion enters by place: *agnimīḷe* makes the mouth curl at the Veda's threshold, and ऋ (*ṛ*) links the *mūrdhanya* site to the *Dhātupāṭha* and the name *Ṛgveda*. Reduplication enters by concision: *dadarśa*, *dadāti*, and *bibharti* make a field habit of doubling into a disciplined syllabic switch. Receiver grammar enters through forms such as *asmai*, *mahyam*, and *tvasmai*. The doer steps back through *karmaṇi* and *bhāve*. Action chaining enters through forms such as *pītvā* and *hatvā*. Pāṇini later documents the operations as *abhyāsa*, *sampradāna*, *karmaṇi*, *bhāve*, *ktvā*, and *lyap*.
 
-The signs line up on every axis. A borrowed feature can sit at the surface, accrete in marginal positions, or remain a local habit. Sanskrit takes these field-patterns into the load-bearing grammar of the system. The curled mouth becomes a sound-grid. Repetition becomes *dadarśa* and *dadāti*. Experience moves through *mahyam* and *tvasmai*. Sequence becomes *pītvā* and *hatvā*.
+The signs line up on every axis. A borrowed feature can sit at the surface, accrete in marginal positions, or remain a local habit. Sanskrit takes these field-patterns into the load-bearing grammar of the system. The curled mouth becomes a sound-grid. Repetition becomes *dadarśa* and *dadāti*. Experience moves through *mahyam* and *tvasmai*. The doer steps aside in *paṭhyate*. Sequence becomes *pītvā* and *hatvā*.
 
-Sanskrit is field-built.
+Sanskrit is built from the subcontinental field, and then preserves that field in calibrated form.
 
-## 16.10 What the Grammar Keeps
+## 16.11 What the Grammar Keeps
 
-Grammar can preserve a way of being.
+*Īḷe* curls the tongue to the dome. *Dadarśa* turns repetition into a disciplined syllabic switch. *Mahyam* and *tvasmai* let grace and revelation arrive at a receiver. *Paṭhyate* lets the deed stand and the doer step back. *Pītvā* lets one action pass into the next. The tongue curls, the sound doubles, the self receives, the doer recedes, and the act folds.
 
-*Mahyam* receives grace. *Asmai* receives faith. *Tvasmai* receives Vāk's self-disclosure. *Pītvā* lets one action pass into the next. *Dadarśa* lets repetition become a disciplined syllabic switch. The self can receive rather than seize; action can fold instead of sprawl; repetition can become precision.
+Śruti carries the same refusal to crown the ego. Knowledge discloses itself rather than yielding to a seizer — Vāk reveals her body to the prepared (*tanvaṃ vi sasre*, RV 10.71.4), and the Self reveals its own form to the one it chooses, never won by discourse or intellect or much hearing (*vivṛṇute tanūṃ svām*, Kaṭha Upaniṣad 1.2.23 / Muṇḍaka 3.2.3). The apparatus that would seize is itself demoted: in the Kaṭha chariot (1.3.3–4) the body is the chariot, the senses the horses, the mind the reins, the intellect the charioteer — instruments all, while the Self rides as lord, not as any one of them.[NOTE: nimitta-chariot]
+
+What the Veda enacts and the Upaniṣad pictures, the case-system carries: the receiver as *sampradāna*, the doer demoted in *karmaṇi* and *bhāve* — the structure Pāṇini decoded, not built. The Gītā states it outright: **निमित्तमात्रं भव सव्यसाचिन्** (*nimittamātraṃ bhava savyasācin*, 11.33) — "be a mere instrument." The grammar that will not seat the ego at the center of the sentence is the same civilization that will not seat the ego at the center of the self: the *ahaṃkāra* held in its place, agency distributed across the *kārakas* like a swastika, never gathered to a single apex.
 
 That is *saṃskṛti* inside grammar: calibrated preservation that leaves ordinary life room to move. The same civilization can keep the Veda exact, allow *prakṛta* life to speak, flow, grow, and change, and still carry a grammar that remembers how balance is kept when darkness presses on the field.
 
