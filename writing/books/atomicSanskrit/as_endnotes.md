@@ -4647,6 +4647,66 @@ The point of the note is methodological. A *Prātiśākhya* is not the Vedic man
 
 ---
 
+### `vedic-reduplication-abhyasa-examples`
+
+**Short:** Ṛgveda 1.164.4 has *dadarśa*, Ṛgveda 10.107.7 has *dadāti*, and Ṛgveda 7.87.4 has *bibharti*, so Chapter 16 treats compact reduplication as Vedic evidence first; Pāṇini later documents and names the operation **अभ्यास (*abhyāsa*)**.
+
+**Deployments:** Chapter 16 §16.2.
+
+The compact doubled form is already inside the Vedic corpus. Ṛgveda 1.164.4 uses *dadarśa* from √*dṛś*: *ko dadarśa prathamaṃ jāyamānam*. Ṛgveda 10.107.7 uses *dadāti* from √*dā*: *dakṣiṇāśvaṃ dakṣiṇā gāṃ dadāti*. Ṛgveda 7.87.4 gives *bibharti* from √*bhṛ*. Chapter 16 therefore introduces the phenomenon as Vedic evidence before naming Pāṇini's technical category. Pāṇini does not create the doubling; he documents, names, and regulates an operation already visible in the Veda as **अभ्यास (*abhyāsa*)**. Final production should verify accenting and exact saṃhitā / padapāṭha presentation against the printed Ṛgveda edition selected for the book.
+
+---
+
+### `ahamkara-ego-management`
+
+**Short:** *Ahaṃkāra* (अहंकार), literally "I-making," is the ego-principle in Indic thought — in Sāṅkhya an evolute of *prakṛti* and part of the inner instrument (*antaḥkaraṇa*) — and the tradition treats it as something to be understood and disciplined, not obeyed.
+
+**Deployments:** Chapter 16 §16.3.
+
+*Ahaṃkāra* (अहंकार) — *aham* ("I") + *kāra* ("making") — is the "I-making" faculty: the principle that generates the sense of a separate, sovereign self. In the Sāṅkhya enumeration it is an evolute of *mahat / buddhi* and part of the inner instrument (*antaḥkaraṇa*), alongside *manas* and *buddhi*; the Bhagavad Gītā and the Yoga and Vedānta streams treat the disciplining and ultimate transcendence of *ahaṃkāra* as central to the path. Chapter 16 uses the term for its grammatical correlate: a worldview that holds the ego to be managed rather than served is consistent with a grammar that declines to make the "I" the sovereign agent of every sentence and instead frames the self as a receiver (*sampradāna*). The chapter does not argue a specific Sāṅkhya doctrine; it draws the broad and well-attested point that Indic thought makes the ego an object of analysis and restraint.
+
+---
+
+### `vedic-receiver-sampradana-examples`
+
+**Short:** Chapter 16 introduces receiver grammar through Vedic examples first — trust (*śrad asmai dhatta*), peace (*śaṃ … dvipade catuṣpade*), safety (*svasti naḥ*), grace (*indra mṛḷa mahyam*), reverence (*namas* + dative), and knowledge (RV 10.71.4 *tvasmai*). Pāṇini later documents the receiver role through **सम्प्रदान (*sampradāna*)** and related dative operations.
+
+**Deployments:** Chapter 16 §16.3.
+
+The receiver pattern is already visible in the Vedic corpus. Ṛgveda 2.12.5 has *śrad asmai dhatta* — place faith "to him" (trust). Ṛgveda 1.114.1 has *yathā śam asad dvipade catuṣpade* — "so that there be well-being for biped and quadruped" (peace). The *svasti* formula uses *naḥ* — well-being "to us" (safety); Chapter 16 cites the broad RV 1.89.6 family. Ṛgveda 6.47.10 has *indra mṛḷa mahyam jīvātum iccha* — be gracious "to me" (grace). For reverence, *namas* governs the dative: Pāṇini 2.3.16 (*namaḥsvastisvāhāsvadhālaṃvaṣaḍyogāc ca*) assigns the fourth case after *namas*, *svasti*, and the rest, directing reverence toward its object rather than asserting the self. Ṛgveda 10.71.4 gives the epistemic form: Vāk reveals her body *tvasmai*, "to him" (knowledge). The point in Chapter 16 is not that every example is governed by one narrow sūtra; it is that the Veda repeatedly places inward states — blessing, grace, faith, reverence, and disclosure — toward a receiver. The general recipient role is **सम्प्रदान (*sampradāna*)**, which Pāṇini documents at 1.4.32 with the dative case at 2.3.13; he documents the role, he does not invent it. Final production should verify the exact verse locators and accenting against the selected Vedic editions; the RV 1.114.1 *śam* locator and reading in particular remain in the verification queue [VERIFY].
+
+---
+
+### `vedic-folded-action-ktva-lyap-examples`
+
+**Short:** Chapter 16 introduces folded-action forms through Vedic examples first: Ṛgveda 1.4.8 *pītvā* and Atharvaveda 4.10.2 *hatvā*. Pāṇini later documents this compact prior-action family through operations such as **क्त्वा (*ktvā*)** and **ल्यप् (*lyap*)**.
+
+**Deployments:** Chapter 16 §16.4.
+
+The Vedic corpus already carries compact prior-action forms. Ṛgveda 1.4.8 has *pītvā* in the sense "having drunk." Atharvaveda 4.10.2 has *hatvā* in the line *śaṅkhena hatvā rakṣāṃsy attriṇo vi ṣahāmahe* — "with the conch, having slain the rakṣas, we overcome the devourers." Chapter 16 uses these examples before giving the later grammatical label: a prior action can enter the sentence as one compact form instead of becoming a separate clause. Pāṇini later documents this family through operations such as **क्त्वा (*ktvā*)** and **ल्यप् (*lyap*)**. Final production should verify the exact RV 1.4.8 and AVŚ 4.10.2 text against the selected Vedic editions.
+
+---
+
+### `phillips-harrison-mundari-mimetic-reduplication`
+
+**Short:** Phillips and Harrison's 2017 survey of mimetic reduplication includes Mundari among seven central forest-belt languages where reduplicated forms depict sound, movement, texture, taste, temperature, feelings, and sensations, often occupying more than ten percent of the lexicon.
+
+**Deployments:** Chapter 16 §16.2.
+
+Jacob B. Phillips and K. David Harrison, "Munda Mimetic Reduplication," *Canadian Journal of Linguistics / Revue canadienne de linguistique* 62, no. 2 (2017): 221-242, DOI 10.1017/cnj.2017.13. The article surveys Ho, Kera Mundari, Kharia, Mundari, Remo (Bondo), Santali, and Sora. Its abstract states the useful high-level point for Chapter 16: these languages use mimetic reduplication for sensory domains including sound, space, movement, texture, smell, taste, temperature, feelings, and sensations, and the category often accounts for more than ten percent of the lexicon. Chapter 16 uses this note only for the Mundari / central forest-belt field-pattern. Exact Mundari lexical examples such as *oṛa-moṛa* should remain in the verification queue until checked against Osada or another direct Mundari source.
+
+---
+
+### `korku-nagaraja-mouth-mind-evidence`
+
+**Short:** The Korku examples in Chapter 16 come from K. S. Nagaraja's *Korku Language: Grammar, Texts, and Vocabulary* (1999): retroflex contrasts and laterals, reduplication, experiencer marking, and converb forms.
+
+**Deployments:** Chapter 16 §§16.1-16.4.
+
+K. S. Nagaraja's *Korku Language: Grammar, Texts, and Vocabulary* (Tokyo: Institute for the Study of Languages and Cultures of Asia and Africa, Tokyo University of Foreign Studies, 1999) is the working source for the Korku evidence in Chapter 16. The current evidence bank records the retroflex inventory and examples *gaTa* "mire" / *gaTha* "broken grain," *Donga* "boat," *DanDa* "stick," *kaLLa* "become stiff," *naLLa* "bamboo tube," and *seLLa* "meet"; reduplication examples including *DoDo-DoDo* "seeing-seeing" and *bo-boco* "to fall"; the dative-locative / experiencer form *in-en kenDe-khija Do-ken*; and converb forms such as *-Done* / *-Ten*, including *pa:rku saRup-Done hen*. The working page references are pp. 47-48 for dative-locative markers, p. 50 and pp. 60-61 for reduplication, p. 79 for converb examples, and p. 81 for the experiencer example. Final production should verify the exact page placement and typography against the scan or print copy before this note becomes fully load-bearing.
+
+---
+
 ### `madhyandina-kanva-branch-shapes`
 
 **Short:** The Mādhyandina and Kāṇva branches of the *Śatapatha Brāhmaṇa* are useful because they show branch-specific preservation rather than temporal decay: related Vedic material can survive in different branch-shapes without implying that Sanskrit moved down a single slope from an earlier "Vedic" stage to a later "Classical" stage.

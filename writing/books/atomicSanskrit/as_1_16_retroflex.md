@@ -1,4 +1,4 @@
-# Chapter 16 — Flexing the Retroflex
+# Chapter 16 — The Subcontinental Mouth and Mind
 
 ::: epigraph
 
@@ -12,7 +12,165 @@
 
 \bigskip
 
-The first test is in the mouth.
+Across the Indian subcontinent, language carries a distinctive cluster of mouth and mind. The tongue curls and the mouth doubles. The mind receives, lets knowledge disclose itself, and folds one action into another.
+
+Let the field stand first: the curled tongue, the doubled mouth, the receiving mind, and the sound-field that carries them. After that, the portability thesis must walk its own claimed route: northwest, Indo-Iranian corridors, mobile pastoralists, Avestan / Old Iranian, and the wider non-Indic Indo-European field. If Sanskrit is said to arrive from there, that route has to account for the mouth Sanskrit sounds with and the mind Sanskrit encodes.
+
+The first evidence is in the mouth.
+
+The opening word of the *Ṛgveda* is *agnimīḷe* (अग्निमीळे). The Veda's first sentence already carries the subcontinental mouth: the tongue curls, the sound is made, and the verse becomes audible through the anatomy this chapter studies.[NOTE: agnimile-rigveda-opening]
+
+The name *Ṛgveda* carries a second signal. Its first sound, ऋ (*ṛ*), is placed at the *mūrdhanya* site. The text's name and its first sentence both enter through the curled tongue.
+
+## PART A — The Field Before the Argument
+
+## 16.1 The Mouth: *Mūrdhanya*
+
+To articulate the core retroflex consonants of Sanskrit's engineered sound-system — ट (*ṭa*), ड (*ḍa*), and ण (*ṇa*) — the speaker has to isolate and contract the superior longitudinal muscle, curl the apex of the tongue backward, and strike it cleanly against the hard palate at roughly the midpoint of the vocal tract.
+
+The flex is the retroflex.
+
+Across the subcontinent, the flex is everywhere. Tamil and Telugu operate it. Mundari, Ho, and Korku operate it. Marathi, Gujarati, Konkani, Sindhi, Bengali, Odia, Assamese, Hindi, Punjabi, and the related northern languages operate it. The feature crosses the family labels used in modern classification; the mouth-field is older and wider than the taxonomy.
+
+The figure below marks the anatomy: the curled tongue, the *mūrdhanya* site, and the physical act behind the sound.
+
+![Figure 16.1 — The *mūrdhanya* flex.](figures/adivadya/vocal_apparatus_sanskrit.svg){#fig:ch16-murdhanya-flex width=100%}
+
+The *Pāṇinīya Śikṣā* epigraph points to the location in the mouth: मूर्धा (*mūrdhā*) — the head / roof of the mouth — is the articulatory site for ऋ (*ṛ*), the टु (*ṭu*) class, र (*ra*), and ष (*ṣa*).[NOTE: rturasanam-murdha-shiksha] Its own sound-body performs the rule. In ऋटुरषाणां (*ṛṭuraṣāṇāṃ*), the first vowel is ऋ (*ṛ*); the consonantal spine is ट-र-ष-ण (*ṭ-r-ṣ-ṇ*) — retroflex, semi-retroflex, retroflex, retroflex. The mouth must enter the site to state the site.
+
+ऋ (*ṛ*) stands at the *mūrdhanya* site and reaches down to the minimum layer of the architecture. The *Dhātupāṭha* preserves ऋ (*ṛ*) as a semantic atom of one मात्रा (*mātrā*) — the bare vowel-core, the smallest possible धातुः (*dhātuḥ*). The Vedic corpus takes its name from the same sound: ऋच् (*ṛc*), the verse of praise; ऋग्वेद (*Ṛgveda*), the Veda of the *ṛcaḥ*. The cosmological vocabulary carries it too: ऋत (*ṛta*), the order by which reality holds. One sonomer appears as mouth-position, semantic atom, textual name, and civilizational category.
+
+The *ṛ* (ऋ) / *ra* (र) bridge deepens that placement. Sanskrit gives the *r*-principle nuclear form in the *svara* table and bonding form in the *vyañjana* table. Under **यण्-सन्धि (*yaṇ-sandhi*)**, vocalic *ṛ* resolves into *ra* before a following vowel. The same articulatory principle crosses the vowel/consonant boundary, taking nuclear form in one table and bonding form in the other.
+
+The *Dhātupāṭha* turns that placement into measurable architecture. Of the *varṇamālā*'s fourteen vowels, *ṛ* carries 15.3% of CVC deployment across the *Dhātupāṭha* — second only to *a* (अ). *Ra* covers all four position-roles at meaningful magnitude, and the *mūrdhanya* class as a whole shows the dual profile the reference appendix measures in detail: closure at atom-boundaries and joining inside clusters. Chapter 10 §10.14 and Appendix Part 6 carry the full statistical audit; here the point is placement. The retroflex is load-bearing.
+
+Korku keeps the central forest belt visible inside the same mouth-field. Nagaraja records native retroflex contrasts such as *gaTa* "mire" / *gaTha* "broken grain" (Devanagari aid: गट / गठ), words such as *Donga* "boat" and *DanDa* "stick" (Devanagari aid: डोङ्ग, डण्ड), and laterals in *kaLLa* "become stiff," *naLLa* "bamboo tube," and *seLLa* "meet" (Devanagari aid: कळ्ळ, नळ्ळ, सेळ्ळ).[NOTE: korku-nagaraja-mouth-mind-evidence]
+
+## 16.2 The Mouth Doubles: Reduplication
+
+The mouth also doubles. Tamil can intensify sensation through forms such as பளபள (*paḷa-paḷa*; Devanagari aid: पळ-पळ) and can make echo pairings such as புலி-கிலி (*puli-kili*; Devanagari aid: पुलि-किलि). Telugu uses echo and expressive forms such as పుస్తకం-గిస్తకం (*pustakam-gistakam*; Devanagari aid: पुस्तकम्-गिस्तकम्) and గమగమ (*gama-gama*; Devanagari aid: गम-गम). Mundari belongs in the same central forest-belt evidence: Phillips and Harrison include Mundari in their survey of mimetic reduplication across sound, movement, texture, taste, temperature, feeling, and sensation.[NOTE: phillips-harrison-mundari-mimetic-reduplication] Korku gives exact forms in another geography: Nagaraja records repeated forms such as *DoDo-DoDo* "seeing-seeing" (Devanagari aid: डोडो-डोडो) and partial forms such as *bo-boco* "to fall" (Devanagari aid: बो-बोचो).[NOTE: korku-nagaraja-mouth-mind-evidence] The examples differ by language, but the bodily habit is shared. A sound can be repeated to thicken perception, extend action, distribute reference, or make movement audible.
+
+Sanskrit carries this distinctive field-habit and gives it architectural place.
+
+The Ṛgveda preserves word-level repetition directly: *dive-dive* — day by day; *gṛhe-gṛhe* — house after house, in every house; *vane-vane* — forest after forest, in every forest. Korku gives the same living habit in forms such as *DoDo-DoDo* — seeing-seeing. Mundari belongs to the same central forest-belt pattern through mimetic reduplication, though the exact live example should stay pending until verified. Sanskrit uses this word-level repetition for compact distributive force; Pāṇini later documents it as **आम्रेडित (*āmreḍita*)**.
+
+Repetition can look wasteful from the outside, but it often compresses information. English needs an added descriptor — “in forests everywhere” — to do what *vane-vane* does by repeating the unit itself. The repeated word carries plurality, distribution, continuity, and emphasis without importing another explanatory word.That sūtra-like compression makes reduplication a natural candidate for Sanskrit’s architecture.
+
+Sanskrit then goes further. It takes the power of repetition, abstracts it, disciplines it, compresses it at a sonomeric level, and distributes it across *lakāras*, *gaṇas*, and derived verb forms.
+
+For example, at the consonant and syllable scale, the Veda takes the *d* consonant from the atom *dṛś* — to see — adds the *a* svara, and places it in front, as in *da-darśa* in Ṛgveda 1.164.4: *ko dadarśa prathamaṃ jāyamānam* — “who saw the first-born as he was being born?” Another example: the atom *dā* — to give — becomes *da-dāti* in Ṛgveda 10.107.7: *dakṣiṇāśvaṃ dakṣiṇā gāṃ dadāti*. The *carrying* atom *bhṛ* becomes *bi-bharti* in Ṛgveda 7.87.4. The repeated piece changes with the atom and functions as a small grammatical switch.[NOTE: vedic-reduplication-abhyasa-examples] Pāṇini later documented and named this operation **अभ्यास (*abhyāsa*)**. The perfect, **लिट् (*liṭ*)**, can carry it, as in *dadarśa*. The reduplicating class, **जुहोत्यादि गणः (*juhotyādi-gaṇaḥ*)**, can carry it, as in *dadāti*. The desiderative, **सन् (*san*)**, can carry it, as in *jighāṃsati*. The **चङ् लुङ् (*caṅ luṅ*)** aorist gives the same switch another home.
+
+Sanskrit carries the subcontinent's core concept — repetition as meaning — and distributes it across the language, from word to syllable. What the subcontinental field does as a habit, the architecture does as a system.
+
+## 16.3 The Mind Receives: *Sampradāna*
+
+Hindu thought treats the ego — अहंकार (*ahaṃkāra*), the "I-making" faculty — as something to be understood and held in check, never the master of the self.[NOTE: ahamkara-ego-management] A civilization that insists on understanding the ego builds a language to manage it: a grammar that refuses to seat the "I" at the center of every act. The self becomes a receiver — the place a state arrives — not the sovereign that seizes it. This is the grammar of *experience*.
+
+The field carries the same discipline as a habit of everyday speech. English keeps the "I" in command — I am hungry. The subcontinent moves the other way. Tamil says எனக்கு பசி (*eṉakku paci*; Devanagari aid: एनक्कु पसि): to me, hunger. Telugu says నాకు ఆకలిగా ఉంది (*nāku ākaḷigā undi*; Devanagari aid: नाकु आकलिगा उन्दि): to me, hunger is. Mundari uses *reṅgej-iñ-a* (Devanagari aid: रेङ्गेज्-इञ्-अ), literally "hunger-me-is." In these forms the person is the locus where the state arrives, not the ego that commands it.
+
+In Korku, the experiencer would use forms such as *-en* / *-n*; Nagaraja's example *in-en kenDe-khija Do-ken* (Devanagari aid: इन-एन केन्डे-खिजा डो-केन) means "to me something appeared blackish."[NOTE: korku-nagaraja-mouth-mind-evidence] 
+
+Sanskrit carries the same receiver-stance and runs it through the deepest states. Trust is placed *to him* (*śrad asmai dhatta*). Peace is asked *for biped and quadruped* (*śaṃ ... dvipade catuṣpade*). Safety comes *to us* (*svasti naḥ*). Grace is asked of Indra *for me* (*indra mṛḷa mahyam*). Reverence bends toward its object, never asserting the self — *namas* turns to the receiver. In every case the state moves toward the human; the human does not seize it.[NOTE: vedic-receiver-sampradana-examples]
+
+Then Sanskrit builds the discipline into the grammar itself. The receiver becomes a defined role — **सम्प्रदान (*sampradāna*)**, one of the six **कारकाः (*kārakāḥ*)** — carried by its own case, the dative (*caturthī vibhakti* चतुर्थी विभक्ति), with a family of rules holding reverence, safety, trust, and grace to that receiver. Pāṇini later documented the role; he decoded a structure, he did not invent a way to think. What the subcontinental field manages by habit, Sanskrit manages by architecture.
+
+RV 10.71.4 gives the section its keystone. Vāk is the agent. She reveals herself *tvasmai*, to him, like a well-adorned wife to her husband. Even knowledge is not seized by the ego; it discloses itself to the prepared receiver.
+
+The receiver-self is not one language's idiom. Korku, Mundari, Tamil, Telugu, and Sanskrit all seat the self as a receiver rather than a sovereign. This is what the subcontinent learned and kept: to understand the ego, and to carry a language built to manage it.
+
+## 16.4 The Mind Sequences: The Folded Action
+
+Experience arrives, and action unfolds.
+
+Tamil can say சாப்பிட்டு வந்தான் (*sāppiṭṭu vandān*; Devanagari aid: साप्पिट्टु वन्दान्): having eaten, he came. Telugu can chain వెళ్లి (*veḷḷi*; Devanagari aid: वेळ्ळि), కొని (*koni*; Devanagari aid: कोनि), and వచ్చాను (*vaccānu*; Devanagari aid: वच्चानु): having gone, having bought, I came. Korku uses converb forms such as *-Done* and *-Ten* (Devanagari aid: -डोने, -टेन) for "while / by" and "after"; Nagaraja's example *pa:rku saRup-Done hen* (Devanagari aid: पार्कु सड़ुप-डोने हेन) means "all came running."[NOTE: korku-nagaraja-mouth-mind-evidence] Mundari supplies the same broad field-pattern through serial or converb structures. One action folds into the next without forcing every action to stand as a separate sentence.
+
+The Vedic corpus carries the same compression. Ṛgveda 1.4.8 has *pītvā*: having drunk. Atharvaveda 4.10.2 has *hatvā*: having slain. A whole earlier action enters the sentence as one compact form, so the sentence can move forward without turning every step into a separate clause.[NOTE: vedic-folded-action-ktva-lyap-examples] Pāṇini later documents this family of compact prior-action forms through operations such as **क्त्वा (*ktvā*)** and **ल्यप् (*lyap*)**.
+
+The coreference relation should be stated carefully. These forms usually track the same agent or controlling participant, but the relation is default coreference rather than an absolute mechanical gate. That caveat keeps the claim where it belongs. Sanskrit incorporated the field-pattern into a precise grammatical instrument.
+
+## 16.5 One Field, Encoded
+
+The cluster has four visible faces.
+
+The tongue curls in *agnimīḷe*. The mouth doubles in *dadarśa*, *dadāti*, and *bibharti*. The self receives in *mahyam* and *tvasmai*. The act folds into the next act in *pītvā* and *hatvā*. Sound, morphology, syntax, and philosophy open through four doors into one field.
+
+Later grammar documents what the Veda already carries. The mouth becomes the *varṇamālā*. The mind enters the *kāraka* matrix. Repetition receives the name *abhyāsa*. The receiver becomes *sampradāna*. Prior action receives compact forms such as *ktvā* and *lyap*.
+
+Sanskrit is field-built: subcontinental in mouth, subcontinental in mind, engineered into language, encoded in the Veda.
+
+## PART B — The Portability Thesis Collapses
+
+## 16.6 The Notices
+
+Read the notices the pyramid has issued over two centuries.
+
+The pyramid's first notice was simple. The year is **1600 BCE**, **748 years after the Flood**. Noah's descendants have prospered; Babel has scattered language into manageable peoples. Somewhere along that ordained road a people turns toward India, carrying speech, ritual, gods, and order. India receives. **Sanskrit arrives.** The Veda becomes old, but not too old. Sacred, but not source. Impressive, but downstream.
+
+*Correction: the management regrets the Biblical packaging. Please delete Noah, Babel, the divine scattering, and the confidence with which the whole world was fitted inside Genesis.* The date may now be expressed with scholarly flexibility — 1500, 1600, perhaps 1200 BCE for some layers. **The northwest remains. The moving people remain. The pastoral carrier remains. Sanskrit remains something brought into India.**
+
+The revised notice introduced the Aryan — an improved secular instrument: measurable, classifiable, portable, conveniently northwestern. His skull could be measured, his nose straightened into evidence; his face became an argument before his language was examined. Sanskrit rode with him. *Correction: the management regrets the racial packaging. Please delete the skull, the nose, the face, and the word race.* The date becomes an academic horizon (c. 1500 BCE; 1700–1200 BCE; "late second millennium"). **The northwest remains… Sanskrit remains something brought into India.**
+
+The next notice preferred migration. Movement replaced conquest. Language spread replaced domination. Cultural transmission replaced rule. *Correction: the management regrets the invasion tone. Replace with elite dominance, language shift, cultural transmission, mobility* — phrases that sound softer while doing the same work. The date may now breathe (2000–1500; 1700–1300). Always adjustable. Never released. **The northwest remains. The pastoral carrier remains. The horse remains close enough to the argument. Sanskrit remains something brought into India.**
+
+The latest notice is careful. The story is now steppe ancestry, mobile pastoralists, Indo-Iranian corridors, contact zones, substrate effects. **The date is no longer a date. It is a window. The window is no longer a claim. It is a model. The model is no longer a dogma. It is a consensus.** But the window still opens from outside India; the pastoralists still move inward; **Sanskrit still arrives with a custody tag already tied around its neck.**
+
+The notices keep Sanskrit portable; the evidence now tests whether portability can survive.
+
+## 16.7 The Borrowing Model Cannot Hold
+
+The pyramid supplies its own comparator. Sanskrit is said to enter through the northwest, through Indo-Iranian corridors, carried by mobile pastoralists from an external field. That route gives the chapter its control: Avestan / Old Iranian first, then the wider non-Indic Indo-European field. The claimed carrier field must show the same cluster Sanskrit carries structurally — the curled tongue, disciplined reduplication, receiver grammar, and folded action.
+
+Across the subcontinent, the witnesses are dense. Tamil and Telugu carry the curled tongue, expressive doubling, receiver grammar, and folded action. Mundari, Ho, and Korku keep the central forest belt inside the same field. Sanskrit carries those features visibly: *agnimīḷe* curls the tongue at the threshold; *dadarśa*, *dadāti*, and *bibharti* compact doubling; *tvasmai* receives revelation; *pītvā* and *hatvā* fold prior action into the sentence. Pāṇini later documents the operations.
+
+The borrowing story performs the same maneuver each time. First it removes Sanskrit from the field. Then it returns the field's features as later acquisitions: retroflexion as substrate borrowing, the gerund or absolutive as areal feature, receiver grammar as local contact. Each feature is allowed to be Indian only after Sanskrit has been made non-Indian in origin.
+
+The receiver grammar from §16.3 is the inner test. Tamil, Telugu, Korku, and Mundari let hunger, knowing, perception, and inward states arrive to a person. The Veda does the same work through forms such as *asmai*, *naḥ*, *mahyam*, and *tvasmai*. The imagined carrier route now has to explain how an external language arrived already able to encode that mind, or how the Vedic corpus was later reworked to carry it.
+
+The custody trick is now visible. The pyramid grants the field its fragments while denying the field its architecture.
+
+The comparison is now concrete. The subcontinental field supplies the curled tongue, doubled mouth, receiving mind, and folded action. Sanskrit answers with *agnimīḷe*, *dadarśa*, *dadāti*, *bibharti*, *tvasmai*, *pītvā*, and *hatvā*. The Avestan / Old Iranian comparison must be sourced carefully, especially for syntax, but the structural point is already visible: the claimed source-field has a different mouth-profile, while the full cluster lives densely in the subcontinent. Sanskrit carries structurally what the subcontinent carries densely.
+
+## 16.8 The Corpus Cannot Be Rewritten
+
+The corpus presses from another side. Contact can move habits through a living speech community; the burden changes when the portability story has to alter a preserved corpus whose purpose is exact recurrence. If Sanskrit arrived without the field's features and acquired them by contact, then the Vedic corpus has to be silently reworked after each contact event: retroflex, reduplication, receiver grammar, absolutive.
+
+Each acquired feature demands a return to the workshop. The hymns must receive the curled tongue. The mantras must receive the doubled syllable. The receiver must enter the case-system. The folded action must enter the sentence. The pyramid then asks a preservation culture to behave like an absent-minded editing office.
+
+Inside the pyramid's own clock, the problem sharpens. The text it treats as its first major witness already opens with *agnimīḷe*: the curled tongue at the threshold, the Vedic corpus entering through the mouth-field. The same chapter has already shown the receiver matrix and folded-action pattern standing inside the corpus. The witness the pyramid needs as clean evidence of external arrival is already saturated with the subcontinental mouth and mind.
+
+The preservation architecture works toward exact recurrence. The *Vedas* are **अपौरुषेय (*apauruṣeya*)** — without human author, not composed in time.[NOTE: apauruseya-mimamsa-sutra-1-1-5] They are **श्रुति (*śruti*)** — heard. The eleven **पाठाः (*pāṭhāḥ*)**, the **प्रातिशाख्य (*Prātiśākhya*)** discipline, and the **गुरुशिष्यपरम्परा (*guru-shishya paramparā*)** — the teacher-student lineage-chain — keep recurrence exact.
+
+The same principle applies inside the corpus. Different Vedas and different textual forms have different styles because they serve different functions. Hymn, chant, liturgical formula, prose explanation, branch arrangement, and recensional discipline need distinct modes of operation. Style is not clock. Function is not chronology.
+
+The *chandas* / *bhāṣā* distinction belongs here. The *progressive dogma* presents ळ as "lost between Vedic Sanskrit and Classical Sanskrit," but that move imports chronology into a mode distinction. Pāṇini's **अष्टाध्यायी (*Aṣṭādhyāyī*)** distinguishes the *chandas* mode (*chandasi*, "in meter") from the *bhāṣā* mode (*bhāṣāyām*, "in speech"). The *chandas* mode preserves ळ. The *bhāṣā* mode bounds it out of its productive inventory. Pāṇini documented a mode-distinction: preservation in one mode, bounded productivity in another.[NOTE: chandasi-bhasayam-astadhyayi]
+
+The branch evidence sharpens the category further. A *śākhā* is a specified transmission line with its own branch-shape. The **माध्यन्दिन (*Mādhyandina*)** and **काण्व (*Kāṇva*)** recensions of the **शतपथब्राह्मण (*Śatapatha Brāhmaṇa*)** preserve related material through different branch-shapes, divisions, and arrangements. The correct axis is mode and branch rather than a single temporal slope from "Vedic" to "Classical."[NOTE: madhyandina-kanva-branch-shapes]
+
+## 16.9 Engineering, Not Contact
+
+Contact can move forms; engineering assigns place, role, and scale.
+
+Retroflexion enters by place: *agnimīḷe* makes the mouth curl at the Veda's threshold, and ऋ (*ṛ*) links the *mūrdhanya* site to the *Dhātupāṭha* and the name *Ṛgveda*. Reduplication enters by concision: *dadarśa*, *dadāti*, and *bibharti* make a field habit of doubling into a disciplined syllabic switch. Receiver grammar enters through forms such as *asmai*, *mahyam*, and *tvasmai*. Action chaining enters through forms such as *pītvā* and *hatvā*. Pāṇini later documents the operations as *abhyāsa*, *sampradāna*, *ktvā*, and *lyap*.
+
+The signs line up on every axis. A borrowed feature can sit at the surface, accrete in marginal positions, or remain a local habit. Sanskrit takes these field-patterns into the load-bearing grammar of the system. The curled mouth becomes a sound-grid. Repetition becomes *dadarśa* and *dadāti*. Experience moves through *mahyam* and *tvasmai*. Sequence becomes *pītvā* and *hatvā*.
+
+Sanskrit is field-built.
+
+## 16.10 What the Grammar Keeps
+
+Grammar can preserve a way of being.
+
+*Mahyam* receives grace. *Asmai* receives faith. *Tvasmai* receives Vāk's self-disclosure. *Pītvā* lets one action pass into the next. *Dadarśa* lets repetition become a disciplined syllabic switch. The self can receive rather than seize; action can fold instead of sprawl; repetition can become precision.
+
+That is *saṃskṛti* inside grammar: calibrated preservation that leaves ordinary life room to move. The same civilization can keep the Veda exact, allow *prakṛta* life to speak, flow, grow, and change, and still carry a grammar that remembers how balance is kept when darkness presses on the field.
+
+The next chapter can now ask the formation question more honestly. If the mouth is local, the mind is local, the cluster is dense, and the Veda already encodes the architecture, then the older speculation becomes available: Sanskrit was built by those who knew what had to be preserved, and the Veda became the preservation matrix through which that architecture could endure.
+
+<!-- CUT-BIN: CH16 PASS 1
+
+Tracking principle: nothing below is deleted from the project silently. These blocks are removed from Ch16 because the new chapter targets portability, not the racial Arya thesis or the full āryatva argument. Candidate homes are recorded in the integration map.
+
+[CUT? → Ch17/18 or Ch2/3: old ārya/flex hook]
 
 There is an old joke waiting to be made about Sanskrit: before a people could be called *ārya*, they first had to prove they could flex.
 
@@ -20,97 +178,7 @@ The arm was never irrelevant. The *ārya* were respected because they were disci
 
 Especially the tongue.
 
-To articulate the core retroflex consonants of Sanskrit's engineered sound-system — ट (*ṭa*), ड (*ḍa*), and ण (*ṇa*) — the speaker has to isolate and contract the superior longitudinal muscle, curl the apex of the tongue backward, and strike it cleanly against the hard palate at roughly the midpoint of the vocal tract.
-
-That is the flex. That is the retroflex.
-
-Across the subcontinent, the flex is everywhere. The Munda lineage of the central forest belt — Santali, Ho, Mundari, Sora, Korku, Kharia — operates it. Tamil, Malayalam, Telugu, Kannada, and Tulu of the south operate it. Marathi, Gujarati, Konkani, and Sindhi of the west operate it. Bengali, Odia, and Assamese of the east operate it. Hindi, Punjabi, and the related northern languages operate it. Every major language group of the subcontinent shares this same muscular capability.
-
-They flex.
-
-Outside the subcontinent, the flex is a global anomaly. European languages do not run on retroflex articulation. Old Persian and Avestan — assigned to the same family as Sanskrit by Western philology — do not run on it. The Central Asian sound-fields imagined by the racial Arya thesis do not run on it. Mandarin Chinese, classical Greek, classical Latin, classical Arabic — none of them are built around the retroflex strike. The subcontinental sound-field is a phonetic island. The flex is the islander.
-
-A population whose sound-system does not contain the *mūrdhanya* row could not have authored a language whose phonetic specification requires it. The foundational dogma's only escape is strained on its face: migrants unable to produce the retroflex arrive in India, wait for their children to grow up among subcontinental speakers and learn the *mūrdhanya* from them, then — having borrowed back the retroflex they could not themselves produce — compose a phonetic specification around it and hand the system back as their own civilizational gift.
-
-The story fails at the mouth.
-
-You cannot engineer a software system that requires a hardware flex you do not possess. Sanskrit's architecture sits on the retroflex. The retroflex is subcontinental. Sanskrit's engineering operates inside the geography that can produce the flex.
-
-## 16.1 The Substrate-Borrowing Claim
-
-The *progressive dogma* presents the retroflex as a *substrate borrowing*. The canonical formula: Proto-Indo-European had no retroflex stops; Sanskrit acquired them after the arrival imagined by the racial Arya thesis, through contact with a pre-IE Dravidian or Munda substrate.
-
-The priests of progress have been writing this story for seventy years.[NOTE: retroflex-substrate-standard-account] One scholar made the retroflex the seminal areal-feature exhibit. Another carried the position into the pyramid's curriculum line. A third pushed a Munda-substrate variant when the Dravidian version came under empirical strain. A fourth, from inside the same account, argued that the substrate hypothesis was not supported by the data. The dissent was filed and ignored. The machinery continued.
-
-If the retroflex is a borrowing, Sanskrit's *mūrdhanya* row is layered onto the language from outside — peripheral, late, and acquired. That category move licenses the broader migration-and-borrowing account: Sanskrit becomes portable; subcontinental phonological features become substrate accretions; the architecture is allowed to remain external.
-
-Two claims now face each other.
-
-The substrate-borrowing claim *requires* Vedic Sanskrit to have changed. Without change, the retroflex set that PIE and Old Iranian lack could not have entered the language. The mechanism is acquisition: contact, bilingualism, category transfer. The story is a story of change.
-
-The Vedic-preservation continuum's commitment is the opposite. The *Vedas* are **अपौरुषेय (*apauruṣeya*)** — without human author, not composed in time.[NOTE: apauruseya-mimamsa-sutra-1-1-5] They are **श्रुति (*śruti*)** — heard. The eleven **पाठाः (*pāṭhāḥ*)**, the **प्रातिशाख्य (*Prātiśākhya*)** discipline, and the **गुरुशिष्यपरम्परा (*guru-shishya paramparā*)** — the teacher-student lineage-chain — form an error-correcting transmission channel engineered precisely to prevent change.
-
-The substrate-borrowing account needs change. The continuum forbids it. There is no middle ground.
-
-The same church of progress that documents the *Prātiśākhya* discipline, the layered recitation systems, the phoneme-level correction mechanisms, and the multi-generational transmission architecture must then explain why the engineers of that preservation infrastructure passively recorded substrate-acquired phonemes at the structural center of the system they preserved. Architects who design preservation at that level of rigor *choose* what to preserve. They do not arrive at central placement by accident. The substrate claim asks the reader to accept that engineers of unprecedented rigor were also passive recipients of contact phonology — at the exact site, the *mūrdhanya* class, where the architecture later turns out to be most active.
-
-The claim cannot survive structural scrutiny.
-
-## 16.2 The Retroflex Is Architectural
-
-The empirical record reverses the substrate claim at four measurable levels. Chapter 10 §10.14 develops these findings in full with the figures; this section uses them as the test.
-
-**The *ṛ* (ऋ) / *ra* (र) bridge — cross-inventory coupling at the *mūrdhanya* (मूर्धन्य) site.** Sanskrit places the *r*-principle in two forms at the same articulatory location. *Ṛ* (ऋ) is the only **स्वर (*svara*)** placed at the *mūrdhanya* position — a vowel that occupies a retroflex site. *Ra* (र) is the **व्यञ्जन (*vyañjana*)** of the same articulatory place. The two are derivationally linked: under **यण्-सन्धि (*yaṇ-sandhi*)**, vocalic *ṛ* resolves into *ra* before a following vowel. The same articulatory principle crosses the vowel/consonant boundary, taking nuclear form in the *svara* table and bonding form in the *vyañjana* table. Borrowed features do not show this kind of cross-inventory coupling. They sit at the surface of an inventory; they do not link a nuclear position to a bonding position at the same articulatory site.
-
-The epigraph precisely points to the location in the mouth: मूर्धा (*mūrdhā*) — the head / roof of the mouth — is the articulatory site for ऋ (*ṛ*), the टु (*ṭu*) class, र (*ra*), and ष (*ṣa*).[NOTE: rturasanam-murdha-shiksha] But the line does more than state the rule. Its own sound-body performs it. In the operative word ऋटुरषाणां (*ṛṭuraṣāṇāṃ*), the first vowel is ऋ (*ṛ*); the consonantal spine is ट-र-ष-ण (*ṭ-r-ṣ-ṇ*) — retroflex, semi-retroflex, retroflex, retroflex. The mouth must enter the site to say the rule that specifies the site. Sanskrit's phonetic science does not merely describe the architecture from outside. It makes the speaker perform the architecture while stating it.
-
-ऋ (*ṛ*) is not merely placed at the *mūrdhanya* site. It appears at the minimum layer of the architecture. The *Dhātupāṭha* preserves ऋ (*ṛ*) as a semantic atom of one मात्रा (*mātrā*) — the bare vowel-core, the smallest possible धातुः (*dhātuḥ*). The oldest Vedic corpus takes its name from the same sound: ऋच् (*ṛc*), the verse of praise; ऋग्वेद (*Ṛgveda*), the Veda of the *ṛcaḥ*. The cosmological vocabulary carries it too: ऋत (*ṛta*), the order by which reality holds. The same sound is atomic, Vedic, cosmological, and articulatory. This is recurrence across scale, not surface borrowing: one sonomer appears as mouth-position, semantic atom, textual name, and civilizational category. The racial Arya thesis must explain that depth. A feature so integral to the architecture cannot be treated as "late substrate residue."
-
-***Ṛ* (ऋ) as the second-most-active vowel of the *Dhātupāṭha*.** Of the *varṇamālā*'s fourteen vowels, *ṛ* carries **15.3%** of CVC deployment across the *Dhātupāṭha* — second only to *a* (अ). Cross-linguistically, the syllabic *ṛ* is typologically rare; most languages have no equivalent, and where it exists it is marginal. In Sanskrit, *ṛ* drives major *dhātu* families: *kṛ* (कृ, *to make*), *vṛ* (वृ, *to choose*), *dṛś* (दृश्, *to see*), *mṛ* (मृ, *to die*), *hṛ* (हृ, *to carry*), *tṛp* (तृप्, *to be satisfied*), *vṛt* (वृत्, *to turn*), *sṛj* (सृज्, *to release*). These atoms generate massive vocabulary — *karma*, *manas*, *mokṣa*, *sṛṣṭi*, *vṛddhi*, *prakṛti*, *vikṛti*, and hundreds more. A typologically rare phoneme is engineered into the four-vowel reactive core.
-
-***Ra* (र) as the universal bonder.** Position-role analysis of the *Dhātupāṭha*'s single-*akṣara* atoms shows *ra* covering all four position-roles at meaningful magnitude — onset-outer (78), onset-inner (126), coda-inner (100), coda-outer (51). No other consonant covers all four roles. Combined with *va* (व), *la* (ल), *ya* (य), and *ṣa* (ष), the semivowel row plus *ṣa* carries **73%** of all inner-cluster deployment across the corpus. The cluster-joining work of the language runs through five consonants — and *ra* (मूर्धन्य) plus *ṣa* (the retroflex sibilant) drive the *mūrdhanya* share of that work.
-
-**The *mūrdhanya* class as uniquely dual-role.** The position-role data shows the retroflex consonants doing two distinct kinds of work simultaneously. *Ṭa* (ट), *ṭha* (ठ), *ḍa* (ड), and *ṇa* (ण) cluster as closure specialists with high coda-outer deployment. *Ra* and *ṣa* operate as universal bonders with high inner-cluster deployment. The class as a whole shows **32.5%** inner-cluster activity — substantially higher than any other place of articulation, where the figures sit between 11% and 16%. Retroflex consonants do both atom-boundary work and cluster-joining work, in a way that no other class does. The dual-role profile is itself an engineered signal.
-
-The diagnostic is unambiguous on every axis: borrowed features sit at the surface; they accrete in marginal positions; they do not generate the system's foundational vocabulary; they do not link nuclei to bonders at the same articulatory place; they do not carry 73% of the cluster-joining work; they do not anchor the most active retroflex vowel core. The retroflex does all of these.
-
-The *Dhātupāṭha* refutes the borrowing story from inside the architecture.
-
-## 16.3 The Acoustic Signature of a Subcontinent
-
-The geographic exclusivity of the flex is so absolute that it remains the auditory boundary of the subcontinent today. The best proof of this is not provided by linguists. It is provided by the long history of Western cinematic caricature.
-
-When Peter Sellers played Hrundi V. Bakshi in *The Party*, the accent depended on the retroflex strike. When Fisher Stevens played Ben Jabituya in *Short Circuit*, the same. When Hank Azaria voiced Apu Nahasapeemapetilon across decades of *The Simpsons*, the same. When Mike Myers played the Guru Pitka in *The Love Guru*, the same. The substitutions are consistent: alveolar consonants replace the retroflex base, dental consonants land where ट ड ण would belong, and the tongue's resting placement strains for the curl it has never been trained to find.
-
-The mimicry, broadly offensive on its own terms, is also diagnostic. To sound recognizably Indian to a Western audience — even in broad parody — the actor has to force the superior longitudinal muscle backward and strike the palate. The audience cannot describe the muscle being flexed. The audience knows immediately when the actor is failing to flex it.
-
-The reality cannot be explained as a late habit layered over an imported Central Asian language. For an ancient language to place this geographically isolated muscle flex at the architectural center of its sound-system, that language could only have been engineered by speakers whose mouths had been doing the flex for generations.
-
-The mouth was here first.
-
-## 16.4 What the *Bhāṣā* Perimeter Left Outside
-
-The opening word of the *Ṛgveda* is *agnimīḷe* (अग्निमीळे). The second consonant — placed at the structural front of the foundational text — is the retroflex lateral ळ.[NOTE: agnimile-rigveda-opening] The *chandas* mode preserves it. The *Prātiśākhya*, *Śikṣā*, and layered *pāṭha* hierarchy hold it in place.
-
-The *progressive dogma* presents ळ as *"lost between Vedic Sanskrit and Classical Sanskrit"* — the canonical linear-decay narrative from an earlier stage to a later one. That move imports the pyramid's temporal story as if it were established fact. The source architecture says something else.
-
-Pāṇini's **अष्टाध्यायी (*Aṣṭādhyāyī*)** distinguishes the *chandas* mode (*chandasi*, *"in meter"*) from the *bhāṣā* mode (*bhāṣāyām*, *"in speech"*). These are not stages in a decay sequence. They are parallel operating modes. The *chandas*-mode rules govern one scope; the *bhāṣā*-mode rules govern another. ळ belongs to the *chandas* mode and is bounded out of the *bhāṣā* inventory.[NOTE: chandasi-bhasayam-astadhyayi]
-
-The *Prātiśākhya* discipline confirms the point technically: the learned descriptive idiom that documents the *chandas*-mode phonetic specifications of its śākhā's *saṃhitā*, including ळ.[NOTE: pratisakhya-bhashyam-chandasi] The learned discipline did not "lose" the Vedic feature. It documented the mode that preserves it.
-
-The branch evidence sharpens the category further. A *śākhā* is a specified transmission line, not a date. The **माध्यन्दिन (*Mādhyandina*)** and **काण्व (*Kāṇva*)** recensions of the **शतपथब्राह्मण (*Śatapatha Brāhmaṇa*)** preserve related material through different branch-shapes, divisions, and arrangements. That is what branch-specific preservation means. The correct axis is mode and branch, not a single temporal slope from "Vedic" to "Classical." Pāṇini's *bhāṣā* bounding is consistent with this older architecture: he documented a mode-distinction; he did not invent it, and he did not remove anything.[NOTE: madhyandina-kanva-branch-shapes]
-
-Pāṇini did not claim ळ did not exist. He assigned it to one mode and bounded it out of the other. The *bhāṣā* mode was optimized for rule-based completeness — the engineered analytical-generative engine required a specifiable scope, and the retroflex lateral fell outside that scope. What a bounded mode-specification does is draw a boundary around the design's intended functional scope.
-
-What the bounding did not do was shrink the operative subcontinental sound-field.
-
-The *chandas* mode continued operating with ळ in place. Marathi, Korku, Mundari, and the broader central-forest speech-fields continued operating with ळ and its sibling retroflex laterals. The southern subcontinental languages continued operating with their own retroflex-lateral phonemes — Tamil ழ, Malayalam ഴ, Telugu ళ, Kannada ಳ — distinct in articulatory detail, anchored in the same retroflex-lateral category.
-
-The *foundational dogma*'s racial Arya thesis treats Marathi ळ as a substrate intrusion from "Dravidian" or "Munda" into a Sanskrit-derived "Indo-Aryan" language. The bounded-mode account inverts the category. The retroflex lateral is not an intrusion. It is the continuous subcontinental sound-field that was always there, preserved in the *chandas* mode and in every regional speech-field that the *bhāṣā* boundary did not claim to govern. *"Classical Sanskrit without ळ"* is not a base reality from which Marathi diverged. It is a bounded mode-specification that the wider subcontinental linguistic reality lived outside of from the beginning.
-
-Pāṇini's bounding did not bring the retroflex lateral. The bounding calibrated against a sound-field already operating.
-
-## 16.5 The Colonial Claim Fails the Test
+[CUT? → Ch17/18 or Ch3: Müller / racial-thesis backstory]
 
 Max Müller was a German Lutheran philologist who never set foot in the subcontinent. He was hired by the English East India Company as an anthropological mercenary. The Company financed his critical edition of the *Ṛgveda* over a quarter of a century at Oxford, where he held the chair of comparative philology and built the *Sacred Books of the East* — the fifty-volume Oxford enterprise that brought the foundational texts of multiple non-Western civilizational corpora into a Christian-Protestant comparative-philological reading apparatus that treated Christianity as the implicit standard against which the other corpora were to be read.[NOTE: muller-eic-rigveda]
 
@@ -122,11 +190,13 @@ The retroflex evidence shuts that door. An external population unable to produce
 
 The formation Müller built is the precursor to what Chapter 3 calls the ***fourth Abrahamic religion*** — Abrahamic end-time structure secularized into progressive-civilizational theorizing. Müller himself was a transitional figure: still operating in Lutheran-Protestant idiom, laying the machinery the *church of progress* would later inherit and secularize. The structure was Abrahamic from the beginning. It required a chosen people. It required a fallen people whom the chosen people had displaced. It required a forward-march of civilizational history that justified the contemporary chosen people's authority over the contemporary fallen people. Müller built the apparatus in Christian vocabulary; the secularized successor inherited it and extended the work through what Chapter 3 develops as the ***missionaries of progress***.
 
+[CUT? → Ch2/3: Assalāyana ārya/dāsa binary]
+
 Sanātan's own primary-source authority shows the opposite of what the racial Arya thesis claims. The **असलायनसुत्त (*Assalāyana Sutta*)** of the **मज्झिमनिकाय (*Majjhima Nikāya*)** preserves a dialogue in which the Buddha, responding to Assalāyana on the question of *varṇa* (वर्ण), observes that the bordering nations of **योन (*Yona*)** and **कम्बोज (*Kamboja*)** — the Greek and Iranian-frontier regions immediately outside the dharmic subcontinent — operate with only two varnas, *ārya* and *dāsa*, where the dharmic-Indic order has the full fourfold *varṇa* system.[NOTE: assalayana-sutta]
 
-This is structurally devastating. The *ārya / dāsa* binary the racial Arya thesis places at the foundation of subcontinental civilizational prehistory is documented by the dharmic continuum itself as a *foreign-bordering-nations feature* — a category that operated outside the subcontinent, in the Greek and Iranian frontier zones, not within it. The binary Müller projected backward onto subcontinental prehistory was, on the dharmic continuum's own primary-source observation, an externally-located category-system.
+This is structurally devastating. The *ārya / dāsa* binary the racial Arya thesis places at the foundation of subcontinental civilizational prehistory is documented by the dharmic continuum itself as a *foreign-bordering-nations feature* — a category that operated outside the subcontinent, in the Greek and Iranian frontier zones, not within it.
 
-What the dharmic subcontinent did have was the *ārya / mleccha* binary. And in that binary, the colonial claim to *ārya* fails on two counts.
+[CUT? → Ch17/18 or Epilogue: Savarkar / mleccha set-piece]
 
 This is the move V.D. Savarkar made structural during his internment at Ratnagiri from 1924 to 1937, when the British prohibited him from political activity and CID officers monitored his public utterances for sedition. Savarkar developed a rhetorical loophole. He would deliver high-energy speeches on history and religion, building the audience toward a fever pitch. At the height of the moment he would shout the opening of a verse the Maharashtrian lineage-chain had been carrying across many generations — Samarth Ramdas's strategic-advice *ovi*, addressed in seventeenth-century Marathi political idiom to Sambhaji Maharaj against the Mughal invaders:
 
@@ -144,21 +214,7 @@ The audience knew the verse. They knew what came next. They supplied the word th
 
 That was the force of the moment. Savarkar did not need to utter the word; the audience completed it for him. The monitoring machinery of the British colonial state could not charge the speaker for a word the speaker had not spoken.[NOTE: savarkar-ratnagiri-mleccha][NOTE: samarth-ramdas-mleccha-verse]
 
-What was the audience completing? Two counts.
-
-**One: the colonial sound-field could not flex.** Its native phonology contained no retroflex articulation; untrained English mouths produced alveolars where the engineered Indic sound-system required ट, ड, ण; on the Sanskrit-technical definition of *mleccha*, this was the category the colonial claim occupied.
-
-**Two: nothing in colonial conduct resembled what *āryatva* meant.** *Ārya* in Sanātan's own vocabulary meant the disciplined, learned, restrained, skilled population bound to an order of conduct. The colonial state in the subcontinent was brutal, oppressive, and extractive; even its learned class — the philologists, the anthropologists, the colonial administrators — lacked the restraint *āryatva* required.
-
-Savarkar was technically accurate. The colonial claim failed the test of *āryatva* on two counts simultaneously: as a sound-field that did not produce the engineered Indic retroflex, and as a ruling formation whose conduct could not approach what *āryatva* required.
-
-Two counts. Same result.
-
-The colonial intellectual class that built the racial Arya thesis — and the institutional successors who carry its softened migration variant today — claimed *ārya* for itself. On every standard Sanātan's categories carry, the claim signaled the opposite: structural *mleccha*.
-
-## 16.6 The True Test of Āryatva
-
-If the colonial claim failed the test, what was the test?
+[CUT? → Epilogue: āryatva as open pedagogical achievement]
 
 The test was not race. The test was not lineage. The test was not skull shape, not skin colour, not bloodline, not ancestry, not whatever *Volk*-theoretical apparatus the German Romantic philological tradition would later weave around the word *ārya*. The test was achievement. The test was training. The test was the work the engineered Indic sound-system demanded of any mouth that would learn to speak it.
 
@@ -168,6 +224,4 @@ There is no permanent exclusion. There is no genetic gate. There is no inherited
 
 The Rigvedic call ***कृण्वन्तो विश्वमार्यम् (*kṛṇvanto viśvam āryam*)*** — *making the whole world ārya* — is incoherent inside the racial Arya thesis. Race cannot be made. Pedagogical achievement can. The mantra refutes the thesis on Sanātan's own foundational authority. The Epilogue lands the full mantra; the only account of *āryatva* on which the call coheres is the pedagogical account developed here.
 
-The retroflex is one instance of a structural pattern. The pyramid's account of Sanskrit fails every empirical test the architecture provides — not in this feature alone, but in every feature the architecture exposes to inspection. Chapter 17 takes the structural argument categorical: the genealogical project has been asking the wrong question of Sanskrit, and any precursor model built inside the project will fail the same test for the same structural reason. Chapter 18 closes on the specific construct PIE.
-
-The flex is the test. The training is open. The work begins at the mouth.
+END CUT-BIN -->
