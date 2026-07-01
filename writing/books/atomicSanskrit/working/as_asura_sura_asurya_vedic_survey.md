@@ -337,4 +337,31 @@ The word does not change meaning; the *function it serves* changes — sovereign
 
 ---
 
-*Status: **COMPLETE.** §1–§6 drafted and source-linked. All padaccheda for the key verses (§3) verified verbatim against the padapāṭha (wisdomlib), cross-checked against the Ṛgveda-Prātiśākhya for RV 1.174.1. Residual verification items are flagged inline (❓): Nirukta 3.8/10.34 verbatim Sarup wording; TB 2.2.9 / 2.3.8 and JB 3.35.3 exact Sanskrit; Sāyaṇa's glosses on RV 8.42.1 / 2.1.6; Uṇādi recension numbering; the full ~88-verse RV list (Grassmann/Hale) and the exhaustive cross-Vedic list (Vishva Bandhu Koṣa). The AV-Prātiśākhya remains inconclusive (OCR/access failure).*
+## 7. Narrative implications — what this does for the book *(analyst's commentary, 2026-07-01)*
+
+This section is strategic, not evidentiary: it reads §§2–6 for what they do to the argument. Recommendations are flagged as such.
+
+### 7.1 Established narratives this challenges
+
+**(a) The "asura degraded from god to demon" evolution.** The standard account has *asura* start positive (Varuṇa, Indra) and *become* pejorative across the Rigveda. That "became" is not in the text — it is an inference requiring an internal chronology of the maṇḍalas. §2.2 supplies a synchronic alternative that fits at least as well: in the Atharvaveda the sovereign/adversary split tracks **grammatical number** (singular = lord; plural = the opposing class), not date. Remove the timeline and there is no drift to narrate — one word, two concurrent functions. This is category-before-calendar with a concrete lexical case behind it.
+
+**(b) The Indo-Iranian *asura/ahura ↔ deva/daeva* "reversal" and the "great schism."** The migration-era religious history leans on a mirror-image: *asura* good→bad in India, *ahura* supreme in Iran; *deva* good in India, *daeva* demonic in Iran — read as the fossil of a common Indo-Iranian religion that split (Zarathustra's reform). That structure needs the Indian side to have flipped *over time*. Two findings remove the mechanism: the flip is the chronological artifact of (a); and the deva/asura polarity is generated *inside* the system as a structural-cosmological duality — the Brāhmaṇa cosmogonies derive devas from the up/mouth-breath and asuras from the down-breath (ŚB 11.1.6.8; TB 2.2.9 mouth vs. loins; the *su-/asu-* pair at TB 2.3.8) — i.e. order vs. counter-order manufactured as a pair, not remembered from a neighbor-tribe schism. Feeds the RAT/PIE dismantling (Ch 18) directly.
+
+**(c) The PIE reconstruction of *asura* is superfluous.** The indigenous disciplines carry a complete internal etymology (Yāska *Nirukta* 3.8; Uṇādi 1.42; the Brāhmaṇa *asu*-cosmogonies; Pāṇini 4.4.123 for *asurya*). This reinforces Ch 18 §18.7's "*contested* is the confession": Sanskrit explains the word from within; *\*h₂nsu-* adds only a hedge. And *sura*'s absence from all four Saṃhitās (§2.5) supports Sanskrit-as-source / Avestan *ahura*-as-receiver (*vivimorphosis / Pratibimba*) over co-descent — it removes the *need* for a shared ancestor. **Honest limit:** it does not by itself prove borrowing over cognate; it shifts the burden.
+
+### 7.2 The upgrade for Ch 3 §3.6 *(recommendation)*
+
+Reframe *asuratva* from "not-light" to **the measuring sovereignty turned to withholding.** In the Veda the *asura* is the sovereign *measurer*: Varuṇa *amimīta* — "measured out the earth" (8.42.1) — by *māyā*, which in the Veda is the power to *measure and form* (5.63.3, *asurasya māyáyā*). That is the book's engineering faculty in Vedic dress. So *asuratva* is one power in two orientations: it upholds the measure (suric; *lokakṣema*) or it hoards and darkens the light (asuric; the pyramid). This maps onto the church of progress better than flat "darkness" — the pyramid is *real sovereign power that withholds*, not weakness — and it feeds the eclipse spine (Svarbhānu = the measurer-turned-withholder; light darkened, not destroyed).
+
+### 7.3 The vulnerability to close *(flag)*
+
+The dominant *indigenous* etymology is ***asu* + *-ra*** = "possessing life-force" — **positive** — and the Vedic *asura* is overwhelmingly the **sovereign lord**. The book's *svar → suraḥ → asuraḥ* ("not-light") is the *privative* parse: real, and native to the recitation discipline (the Sāmaveda-Padapāṭha splits *a + surasya*, §5.5), but a **minority parse**, not the mainstream one. A reviewer who knows the Nirukta/Uṇādi tradition will object that the book built its central antagonist-word on a term the Vedas apply to the highest gods. Two defenses, both honest: (i) the antagonist-*asura* is the **Itihāsa/Purāṇic** figure the reader already knows (Hiraṇyakaśipu, Rāvaṇa) — uncontested; (ii) "not-light" is the book's **structural/diagnostic** segmentation, explicitly distinct from the word's Vedic *use*. Strongest: fold in the "one power, two orientations" frame (§7.2) so the positive Vedic asura becomes *part of* the argument rather than a fact against it. Ch 3 §3.6 should not imply the privative "not-light" is the word's *original/primary* Vedic meaning.
+
+### 7.4 Net
+- **Ch 18 §18.7** — reinforced: add "the reversal/schism is a chronology artifact" and "deva/asura is a structural duality, not a schism-memory"; the native etymology strengthens the existing PIE-superfluity move.
+- **Ch 3 §3.6** — upgrade to "the measurer / one power, two orientations"; this simultaneously closes §7.3's vulnerability and strengthens the pyramid diagnosis.
+- **Eclipse spine** — the asuric mode as light-*withholder* (not light-absence) resonates with Svarbhānu / Rāhu.
+
+---
+
+*Status: **COMPLETE.** §1–§7 drafted and source-linked. All padaccheda for the key verses (§3) verified verbatim against the padapāṭha (wisdomlib), cross-checked against the Ṛgveda-Prātiśākhya for RV 1.174.1. Residual verification items are flagged inline (❓): Nirukta 3.8/10.34 verbatim Sarup wording; TB 2.2.9 / 2.3.8 and JB 3.35.3 exact Sanskrit; Sāyaṇa's glosses on RV 8.42.1 / 2.1.6; Uṇādi recension numbering; the full ~88-verse RV list (Grassmann/Hale) and the exhaustive cross-Vedic list (Vishva Bandhu Koṣa). The AV-Prātiśākhya remains inconclusive (OCR/access failure).*
