@@ -163,7 +163,7 @@ A system that displays दिव्यता (*divyatā*) and preserves लो�
 
 The fourth Abrahamic religion is the institutional formation that has tried to absorb, contain, or overwrite that architecture. Earlier formations did it through military and administrative power. The fourth does it through academic, cultural, legal, and developmental power. The vocabulary has secularized. The structural project has not.
 
-The dharmic continuum has its own primary-source diagnosis of the foreign binary the Abrahamic substrate imposed on India. In the *Assalāyana Sutta*, the Buddha observes that the *ārya/dāsa* binary is visible among foreign-bordering nations such as Yona and Kamboja, not as an Indic universal — the dharmic continuum itself documenting the binary as foreign to the dharmic frame.[NOTE: assalayana-sutta-fwd] The Epilogue lands the citation in full.
+The dharmic continuum has its own primary-source diagnosis of the foreign binary the Abrahamic substrate imposed on India. In the *Assalāyana Sutta*, the Buddha observes that the *ārya/dāsa* binary is visible among foreign-bordering nations such as Yona and Kamboja, not as an Indic universal — the dharmic continuum itself documenting the binary as foreign to the dharmic frame.[NOTE: assalayana-sutta-fwd] Chapter 3 §3.2 lands the citation in full; the Epilogue returns to *āryatva* as invitation rather than race.
 
 Two architectures contest, asymmetrically. The fourth Abrahamic religion tries to remake an integrated civilization in the image of an imported binary structure. The architecture of *Sanātan* holds beneath whichever political-administrative regime happens to operate at the surface. It has not survived by accident. It survived because it was built to.
 

@@ -46,7 +46,7 @@ The 56 passages cluster into nine emergent groups. They overlap (most passages c
 **Citations:**
 
 - **`as_2_01_epilogue.md:21`** — Epilogue opening framing:
-  > Hindu stories are full of **असुर (*asuras*)** jealous of **देव (*devas*, the radiant ones)** — jealous of what the *devas* possessed and the *asuras* could not earn, and full of the *asuras*' constant desire to appropriate, to control, to take what they did not possess. The nineteenth-century European pyramid wanted **आर्यत्व (*āryatva*)** with that same hunger. It wanted the respect attached to *ārya* — defined in *Sanātan*'s own terms by discipline, learning, restraint, skill, and a strict code of conduct (Chapter 16 §16.6) — without the work the word required.
+  > Hindu stories are full of **असुर (*asuras*)** jealous of **देव (*devas*, the radiant ones)** — jealous of what the *devas* possessed and the *asuras* could not earn, and full of the *asuras*' constant desire to appropriate, to control, to take what they did not possess. The nineteenth-century European pyramid wanted **आर्यत्व (*āryatva*)** with that same hunger. It wanted the respect attached to *ārya* — discipline, learning, restraint, skill, and conduct in *Sanātan*'s own terms — without the work the word required.
 
 - **`as_0_03_prologue.md:33`** — Prologue §3:
   > That motive is civilizational envy sharpened into institutional strategy. Sanskrit displays an order the pyramid cannot generate: distributed, calibrated, self-correcting, and free of apex command. That exposes the pyramid's inferiority. It can rule drift. It can own codification. It cannot command calibration. So it performs category-theft: split Sanskrit before and after Pāṇini, deny the continuous architecture, and make the civilization doubt what it preserved.
@@ -295,7 +295,7 @@ The ten passages where the manuscript explicitly lists two or more asura motivat
 
 Motivations in sequence: **jealousy → inability to earn → desire to appropriate → desire to control → desire to take what they did not possess → hunger for respect without doing the work**.
 
-> Hindu stories are full of **असुर (*asuras*)** jealous of **देव (*devas*, the radiant ones)** — jealous of what the *devas* possessed and the *asuras* could not earn, and full of the *asuras*' constant desire to appropriate, to control, to take what they did not possess. The nineteenth-century European pyramid wanted **आर्यत्व (*āryatva*)** with that same hunger. It wanted the respect attached to *ārya* — defined in *Sanātan*'s own terms by discipline, learning, restraint, skill, and a strict code of conduct (Chapter 16 §16.6) — without the work the word required.
+> Hindu stories are full of **असुर (*asuras*)** jealous of **देव (*devas*, the radiant ones)** — jealous of what the *devas* possessed and the *asuras* could not earn, and full of the *asuras*' constant desire to appropriate, to control, to take what they did not possess. The nineteenth-century European pyramid wanted **आर्यत्व (*āryatva*)** with that same hunger. It wanted the respect attached to *ārya* — discipline, learning, restraint, skill, and conduct in *Sanātan*'s own terms — without the work the word required.
 
 ### M2. Ch 3 §3.6 agent-class definition — `as_1_03_fourth_abrahamic.md:146`
 

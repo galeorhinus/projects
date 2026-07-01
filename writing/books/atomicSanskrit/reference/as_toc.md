@@ -207,13 +207,18 @@
 ## Part VI — Dispelling Rāhu
 *Not descended, not sibling.*
 
-**Chapter 16 — Flexing the Retroflex**
-- 16.1 The Substrate-Borrowing Claim
-- 16.2 The Retroflex Is Architectural
-- 16.3 The Acoustic Signature of a Subcontinent
-- 16.4 What the *Bhāṣā* Perimeter Left Outside
-- 16.5 The Colonial Claim Fails the Test
-- 16.6 The True Test of *Āryatva*
+**Chapter 16 — The Subcontinental Mouth and Mind**
+- 16.1 The Mouth: *Mūrdhanya*
+- 16.2 The Mouth Doubles: Reduplication
+- 16.3 The Mind Receives: *Sampradāna*
+- 16.4 The Mind De-centers: *Karmaṇi* and *Bhāve*
+- 16.5 The Mind Sequences: The Folded Action
+- 16.6 One Field, Encoded
+- 16.7 The Notices
+- 16.8 The Borrowing Model Cannot Hold
+- 16.9 The Corpus Cannot Be Rewritten
+- 16.10 Engineering, Not Contact
+- 16.11 What the Grammar Keeps
 
 **Chapter 17 — The Wrong Question**
 - 17.1 The Architectural Test

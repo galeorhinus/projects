@@ -74,7 +74,7 @@ This is not jacket copy. It is a structural stress test.
 
 ## Part VI — Killing PIE
 
-**Chapter 16 — Flexing the Retroflex.** Chapter 16 isolates the retroflex row as the subcontinent's acoustic fingerprint and the operational test of *āryatva*. The chapter challenges the substrate-borrowing claim, shows the retroflex as architectural rather than accidental, and reframes *ārya* as trained phonetic achievement rather than race. Once race has failed the mouth-test, the next chapter asks whether the whole genealogical question was the wrong question from the beginning.
+**Chapter 16 — The Subcontinental Mouth and Mind.** Chapter 16 gathers the subcontinent's mouth and mind before the portability thesis is tested: retroflex articulation, reduplication, receiver grammar, doer-demotion, and folded action. Once the field is visible inside Sanskrit and the Veda, the next chapter asks whether the whole genealogical question was the wrong question from the beginning.
 
 **Chapter 17 — The Wrong Question.** Chapter 17 shifts from evidence to category. Genealogy can explain natural language change, but it cannot explain an engineered calibrant built from sonomers, atoms, scaffolds, molecular operations, and a preservation matrix. The chapter names gaslighting with footnotes, heroic erasure, and Pāṇini's redirected memory as mechanisms that keep the wrong question alive. Once the wrong question has been exposed, the next chapter can prosecute the imaginary ancestor built to answer it.
 

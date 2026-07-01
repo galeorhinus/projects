@@ -305,16 +305,21 @@ The book also runs on an *eclipse spine*: Sūrya (Sanskrit) is obscured by the a
 ## Part VI — Dispelling Rāhu
 *Not descended, not sibling.*
 
-*The eclipse-device itself — Rāhu, the imaginary ancestor placed over the Sun — comes into view, and the plates that make Sanskrit answer to it are lifted: the retroflex evidence, the wrong question, and the dispelling of PIE.*
+*The eclipse-device itself — Rāhu, the imaginary ancestor placed over the Sun — comes into view, and the plates that make Sanskrit answer to it are lifted: the subcontinental mouth-and-mind evidence, the wrong question, and the dispelling of PIE.*
 
-**Chapter 16 — Flexing the Retroflex** — *Isolates the retroflex* varga *(ट ठ ड ढ ण) as the operational test of* āryatva. *The* bhāṣā *perimeter, the Buddha-Assalāyana inversion, and the Savarkar Ratnagiri payoff.* Ārya *is a phonetic engineering achievement, not a race.*
+**Chapter 16 — The Subcontinental Mouth and Mind** — *Establishes that Sanskrit carries the subcontinent's mouth and mind before the portability thesis is tested: retroflex articulation, reduplication, receiver grammar, doer-demotion, and folded action. The chapter then makes the migration account walk its own claimed northwest route.*
 
-- 16.1 The Substrate-Borrowing Claim — *The retroflex-as-substrate story tested against Sanskrit's preservation continuum.*
-- 16.2 The Retroflex Is Architectural — *The* ṛ/ra *bridge, one-*mātrā* ṛ *atom, universal bonder role, dual-role* mūrdhanya *class.*
-- 16.3 The Acoustic Signature of a Subcontinent — *The retroflex distributed across the whole subcontinent, including non-IE families.*
-- 16.4 What the *Bhāṣā* Perimeter Left Outside — *The mode perimeter;* ळ *in the Ṛgveda that* bhāṣāyām *does not formally retain.*
-- 16.5 The Colonial Claim Fails the Test — *The racial Arya inversion; Müller named; the Buddha-Assalāyana citation; the Ramdas-Savarkar Ratnagiri convergence.*
-- 16.6 The True Test of *Āryatva* — *The pedagogical account: the retroflex as the operational test Sanskrit's own framework supplies; forward-pointer to the Epilogue.*
+- 16.1 The Mouth: *Mūrdhanya* — *The curled tongue, the Veda's first word, and the subcontinental sound-field.*
+- 16.2 The Mouth Doubles: Reduplication — *Repetition as field habit, then as Sanskrit architecture.*
+- 16.3 The Mind Receives: *Sampradāna* — *The self as receiver rather than sovereign agent.*
+- 16.4 The Mind De-centers: *Karmaṇi* and *Bhāve* — *The doer steps back; the action or affected thing can stand forward.*
+- 16.5 The Mind Sequences: The Folded Action — *Prior action compressed into forms such as pītvā and hatvā.*
+- 16.6 One Field, Encoded — *The five features gathered as one subcontinental field.*
+- 16.7 The Notices — *The pyramid's changing Aryan notices mocked by their retained custody tag.*
+- 16.8 The Borrowing Model Cannot Hold — *The claimed route is made to answer for the cluster Sanskrit carries structurally.*
+- 16.9 The Corpus Cannot Be Rewritten — *The Vedic corpus already carries the field; style and mode are not chronology.*
+- 16.10 Engineering, Not Contact — *Contact can move forms; engineering assigns place, role, and scale.*
+- 16.11 What the Grammar Keeps — *The grammar preserves a stance that refuses to crown the ego.*
 
 **Chapter 17 — The Wrong Question** — *Argues at the level of categories of explanation. The genealogical project asks the wrong question. The architectural test names what any valid model of Sanskrit must explain; the precursor model fails for the same structural reason.*
 

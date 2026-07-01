@@ -195,7 +195,7 @@ Stacked deployment (Pāṇini first, then axes): used at the close of the Prefac
 
 **Three-term system** stays unchanged: *mode* (Sanskrit variety); *style* (*shruti* / *smriti* text-class); *voice* or *idiom* (the book's discourse posture — polemic voice, engineering idiom, public-facing prose, legal language). Avoid *register* by default. Keep it only when quoting a source, discussing formal sociolinguistic register, or when no cleaner word works.
 
-**When the pyramid's terms appear in the book's own prose**, scare-quote on attribution (*the pyramid's "Classical Sanskrit"*); never use *Classical Sanskrit* unquoted as the book's own naming. The exception is Ch 1 §1.1 Move 7, where the pyramid's *"Vedic / Classical"* naming is quoted as the position the reader arrives carrying — and then dismantled. The Preface terminology note + Ch 1 §1.1 Move 7 are the canonical deployments of this convention; Ch 5 §5.6, Ch 14, Ch 16 §16.3, and Appendix Part 7 develop it.
+**When the pyramid's terms appear in the book's own prose**, scare-quote on attribution (*the pyramid's "Classical Sanskrit"*); never use *Classical Sanskrit* unquoted as the book's own naming. The exception is Ch 1 §1.1 Move 7, where the pyramid's *"Vedic / Classical"* naming is quoted as the position the reader arrives carrying — and then dismantled. The Preface terminology note + Ch 1 §1.1 Move 7 are the canonical deployments of this convention; Ch 5 §5.6, Ch 14, Ch 16 §16.9, and Appendix Part 7 develop it.
 
 ### Sanskrit typography — Devanagari as anchor, not wallpaper
 

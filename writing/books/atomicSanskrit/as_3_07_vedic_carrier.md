@@ -44,7 +44,7 @@ Six words. Walked phrase by phrase:
 
 Six words. Four accusatives in apposition. One genitive modifying. One verb form. The case-system does what word-order does in English; the inflections carry the grammatical roles; word order is free.
 
-**The retroflex lateral ळ (*ḷ*) in *agnimīḷe* is the key *chandas*-mode feature.** Pāṇini's *Aṣṭādhyāyī* tags rules deploying ळ as *chandasi*. The Nambūdiri, Mādhyandina, Kāṇva **शाखाः (*śākhās*)** all recite *agnimīḷe* with ळ intact across thousands of years through *guru-shishya* lineage-chains. The *bhāṣā* mode does not deploy ळ. The feature is not lost between the two modes — it is **mode-specific by engineered design** (Chapter 5 §5.6, Chapter 16 §16.3).
+**The retroflex lateral ळ (*ḷ*) in *agnimīḷe* is the key *chandas*-mode feature.** Pāṇini's *Aṣṭādhyāyī* tags rules deploying ळ as *chandasi*. The Nambūdiri, Mādhyandina, Kāṇva **शाखाः (*śākhās*)** all recite *agnimīḷe* with ळ intact across thousands of years through *guru-shishya* lineage-chains. The *bhāṣā* mode does not deploy ळ. The feature is not lost between the two modes — it is **mode-specific by engineered design** (Chapter 5 §5.6, Chapter 16 §§16.1, 16.9).
 
 One verse. The architecture operating. No grammar text needed for it to operate.
 
@@ -148,7 +148,7 @@ When the metrical slot requires the extra syllable, the verse uses the longer fo
 
 | The dogma's claim | Specific example | Engineering-mode response |
 |------|--------|----------------------|
-| Retroflex lateral **ळ (*ḷ*)** "lost" | Vedic *agnimīḷe* (अग्निमीळे) → Classical *agnimīle* / *agnimīḍe* | Not lost; preserved in the *chandas* mode (Pāṇini tags the rule *chandasi*), not deployed in the *bhāṣā* mode by design (Ch 16 §16.3). The Nambūdiri, Mādhyandina *śākhās* still recite the Vedic ळ exactly. |
+| Retroflex lateral **ळ (*ḷ*)** "lost" | Vedic *agnimīḷe* (अग्निमीळे) → Classical *agnimīle* / *agnimīḍe* | Not lost; preserved in the *chandas* mode (Pāṇini tags the rule *chandasi*), not deployed in the *bhāṣā* mode by design (Ch 16 §§16.1, 16.9). The Nambūdiri, Mādhyandina *śākhās* still recite the Vedic ळ exactly. |
 | **उदात्त-अनुदात्त-स्वरित (*udātta-anudātta-svarita*)** accent "lost" | Vedic three-way pitch accent → Classical unmarked | Preserved in Vedic recitation; not deployed in productive *bhāṣā*. Engineered for *chandas*-mode preservation; the *bhāṣā* mode operates a different specification that does not require pitch-distinction. |
 | ***Plutaḥ*** (प्लुतः) extended vowels "lost" | Vedic *o3m* (ओ३म्) → Classical *om* (ओम्) | Mode-specific; *plutaḥ* engineered for ritual-recitation specification where vowel-extension carries semantic weight. |
 | Vedic subjunctive (***leṭ-lakāra*** लेट्) "lost" | Vedic *karat* / *karāt* → Classical no subjunctive | Mode-specific; *leṭ-lakāra* is one of Pāṇini's ten *lakāras*, explicitly restricted to *chandasi*. The *bhāṣā* mode operates the optative (*liṅ-lakāra* लिङ्) in equivalent contexts. |

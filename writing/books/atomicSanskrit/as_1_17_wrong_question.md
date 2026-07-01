@@ -137,6 +137,10 @@ The racial Arya thesis survives by changing its instruments. Invasion becomes mi
 
 That is the migration trap.
 
+The early colonial formulation was explicit in its design: a conquering *ārya* race subjugating an indigenous *dāsa* population, a historical script that conveniently prefigured British rule. The modern iteration discards the discredited racial anthropology and the violent invasion narrative, yet fiercely guards the foundational custody claim: Sanskrit still arrives in India as the property of an outside people.[NOTE: muller-eic-rigveda]
+
+> The theft was never only historical. It was semantic first. Ārya was taken from discipline, learning, restraint, generosity, and achieved conduct, then remade as race, peoplehood, ancestry, and movement. Once that semantic theft was accepted, the historical theft could follow: Sanskrit became the speech-cargo of the invented people. The modern migration vocabulary softens the surface, but the two thefts remain joined.
+
 The trap asks the wrong question first and then forces every answer to live inside it. Did people move into India? Did people move out of India? Which population moved first? Which genetic signature appears where? Which steppe component enters which region? Once the debate accepts those terms, the deeper question has already been displaced. Sanskrit is no longer being asked as an architecture. It is being asked as cargo.
 
 Bodies move. Knowledge moves. Specialists move. Traders move. Students move. Refugees move. None of that proves authorship.
@@ -172,9 +176,6 @@ The answer is not to deny movement. The answer is to restore authorship.
 
 ## 17.7 An Honest Speculation for the Rationalist Mind
 
-<!-- AISWEEP-OLD
-The dharmic continuum supplies the ground for this speculation. The reconstruction supplied here differs from the pyramid's speculation in one structural respect: it begins with humility. The ground comes from the continuum itself: the seers saw, the Vedas are heard, the corpus is without human authorship, speech drifts, and the Vedas remain the primary measure. The reconstruction is mine: the Vedas carry an engineered linguistic architecture; the grammatical disciplines decoded that architecture; Pāṇini compressed it into the working calibrant for the speech mode. The dharmic continuum did not need to say all of this. It preserved the architecture. The reconstruction makes explicit what the asuric machinery obscured: that the preserved architecture supports this speculation better than the pyramid's.
-AISWEEP-END -->
 This speculation stands on ground the dharmic continuum supplies, and it begins by refusing to collapse two claims that have to remain distinct.
 
 The first concerns *vāc*. Bṛhaspati's *vācam akrata* gives the seed: the wise formed Speech with the mind.[NOTE: rigveda-10-71-2-sieve-vak] The mantra does not give biographies, dates, institutions, or a construction manual. It does not use the later language-name Sanskrit. It gives something more basic: the category of formed Speech, not drifted speech. Sanskrit is treated here as the calibrated architecture in which that Vedic *vāc* becomes visible.

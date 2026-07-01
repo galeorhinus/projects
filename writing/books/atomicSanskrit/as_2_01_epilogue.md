@@ -32,7 +32,7 @@ Recovery is not revenge. The dharmic account is karmic. Action bears consequence
 
 ***Break the shadow. Dispel the invented ancestor. Find the Sun. Invite the world. Restore the standard.***
 
-Hindu stories are full of **असुर (*asuras*)** jealous of **देव (*devas*, the radiant ones)** — jealous of what the *devas* possessed and the *asuras* could not earn, and full of the *asuras*' constant desire to appropriate, to control, to take what they did not possess. The nineteenth-century European pyramid wanted **आर्यत्व (*āryatva*)** with that same hunger. It wanted the respect attached to *ārya* — defined in *Sanātan*'s own terms by discipline, learning, restraint, skill, and a strict code of conduct (Chapter 16 §16.6) — without the work the word required.
+Hindu stories are full of **असुर (*asuras*)** jealous of **देव (*devas*, the radiant ones)** — jealous of what the *devas* possessed and the *asuras* could not earn, and full of the *asuras*' constant desire to appropriate, to control, to take what they did not possess. The nineteenth-century European pyramid wanted **आर्यत्व (*āryatva*)** with that same hunger. It wanted the respect attached to *ārya* — discipline, learning, restraint, skill, and conduct in *Sanātan*'s own terms — without the work the word required.
 
 The pyramid realized you do not demand *āryatva*. You earn it.
 

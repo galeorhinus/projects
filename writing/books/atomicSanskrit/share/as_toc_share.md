@@ -44,7 +44,7 @@ The book runs on an eclipse. Sanskrit is the Sun (Sūrya); the Western philologi
 - **Chapter 15 — Aural Architecture.** The recitation lineages: the engineering running today, without observable drift.
 
 ### Part VI — Dispelling Rāhu (*not descended, not sibling*)
-- **Chapter 16 — Flexing the Retroflex.** *Āryatva* as a phonetic engineering achievement, not a race.
+- **Chapter 16 — The Subcontinental Mouth and Mind.** The curled tongue, doubled sound, receiver grammar, doer-demotion, and folded action as one subcontinental field.
 - **Chapter 17 — The Wrong Question.** Genealogy asks the wrong question; movement is not authorship.
 - **Chapter 18 — PIE in the Sky.** PIE is the average of the reflections, mistaken for a source.
 

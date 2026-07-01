@@ -427,32 +427,24 @@ This Part returns to the prosecutorial frame established in Part I, but now with
 
 ---
 
-## Chapter 16 — Flexing the Retroflex
+## Chapter 16 — The Subcontinental Mouth and Mind
 
-This chapter isolates the मूर्धन्य (mūrdhanya) — the retroflex set — as the operational test of *āryatva* in the Indic phonetic-pedagogical framework. *Ārya* in Sanskrit's own register names not race or lineage but a phonetic-pedagogical achievement: mastery of *saṃskṛtam*'s engineered sound-system, including the precise tongue-placement required for the retroflex set (ट ठ ड ढ ण ष). On Sanskrit's own classification, a population entering India from the Central Asian or European sound-fields would have lacked retroflex articulation and would have been classified, matter-of-factly, as *mleccha* — speakers outside the refined sound-system. The "invading *ārya*" of nineteenth-century philology, on the evidence of the mouth itself, looks less like the author of Sanskrit and more like precisely the sort of untrained speaker the paramparā would have classified the other way around. The chapter opens with the Maharashtrian *mleccha*-against-occupier lineage (Samarth Ramdas's strategic-advice verse to Sambhaji Maharaj; Savarkar's redeployment of the same vocabulary in his Ratnagiri internment, 1924–1937) and develops the triple convergence: the British uniquely fit the *mleccha* designation in three senses simultaneously — Sanskrit technical, seventeenth-century Marathi political, twentieth-century Marathi political. The racial Arya thesis that imported Max Müller to assign the racial *ārya* role to white Europeans was constructed by people who, in the Indic continuum's own three-fold classification, were themselves the *mlecchas*.
+This chapter widens the older retroflex chapter into a full subcontinental field test. The mouth comes first: the curled tongue of *mūrdhanya* and the doubled sound of reduplication. The mind follows: receiver grammar, doer-demotion, and folded action. Tamil, Telugu, Korku, Mundari, and Ho supply the living field; the Veda and Sanskrit grammar show the same field encoded with architectural precision.
 
-* Open with the Maharashtrian *mleccha*-against-occupier lineage:
-  * Samarth Ramdas Swami समर्थ रामदास स्वामी — strategic-advice verse to Chhatrapati Sambhaji Maharaj naming the Mughal occupiers as *mleccha* — supplies the seventeenth-century textual-lineage source.
-  * V.D. Savarkar's twentieth-century redeployment during his Ratnagiri internment — the *Mleccha-kṣaya-kari* rhetorical loophole, the crowd completing the phrase Savarkar refused to finish, the legal immunity sustained while the political message landed.
-* Establish the technical force of the term:
-  * **आर्य (ārya)** in the Indic frame names a phonetic-pedagogical achievement, not a racial-migratory category.
-  * **म्लेच्छ (mleccha)** names the speaker outside the refined sound-system, not a moral-pejorative category.
-  * The distinction is a hierarchy of training, not a hierarchy of peoples — anyone can in principle enter.
-* Define the physiology of retroflex articulation:
-  * Tongue placement in the middle of the mouth, structurally present across the Indian sound-field.
-  * Largely absent from European linguistic lineages.
-* Establish the retroflex set as the operational marker of *āryatva*:
-  * The **मूर्धन्य (mūrdhanya)** sounds (ट ठ ड ढ ण ष) require precise articulation rooted in the Indic sound-field.
-  * Mastery of this articulation is the audible test the paramparā would have applied.
-  * On this test, the racial Arya thesis fails — and its invading *ārya* would have been classified *mleccha* by the paramparā itself.
-* Develop the triple convergence — the British uniquely fit *mleccha* in three senses at once:
-  * Sanskrit technical sense: they could not produce the *mūrdhanya* sounds.
-  * Seventeenth-century Marathi political sense: foreign occupiers in Samarth Ramdas's frame.
-  * Twentieth-century Marathi political sense: Savarkar's audience completing the phrase.
-* Hollywood reliance on retroflex caricature (Sellers, Stevens, Azaria) as a closing beat: the inverse evidence — the retroflex is the acoustic signature even those mocking it cannot avoid recognizing.
-* State the structural claim:
-  * The retroflex sits at the mathematical center of the **वर्णमाला (varṇamālā)** grid.
-  * By placing the most distinctively subcontinental sound at the structural center, the language permanently anchors its physics to its civilizational geography — and supplies the audible test by which any claim of *āryatva* can be measured.
+The chapter then turns the pyramid's own portability claim into a test. If Sanskrit arrived through a northwest route, that route must account for the full cluster Sanskrit carries structurally: the curled tongue, disciplined reduplication, receiver grammar, doer-demotion, and folded action. A borrowing account can explain isolated contact features; it cannot explain a Vedic corpus already saturated with the field and a grammar that assigns each field-pattern place, role, and scale.
+
+* Establish the five features as one field:
+  * **Mouth:** *mūrdhanya* retroflexion and reduplication.
+  * **Mind:** *sampradāna*, *karmaṇi / bhāve*, and folded action through *ktvā / lyap* style compression.
+* Keep the Veda before Pāṇini:
+  * Use Vedic examples first — *agnimīḷe*, *dive-dive*, *tvasmai*, *pītvā*, *hatvā*.
+  * Then show the later documented categories: *mūrdhanya*, *āmreḍita / abhyāsa*, *sampradāna*, *karmaṇi / bhāve*, *ktvā / lyap*.
+* Test the portability thesis:
+  * The claimed route must answer for the full cluster, not one borrowed sound.
+  * The Vedic corpus cannot be treated as a silently rewritten workshop after every contact event.
+  * Mode and branch explain variation better than chronology.
+* Close by handing the argument to Chapter 17:
+  * If the mouth is local, the mind is local, and the Veda already carries the architecture, the next question is no longer ancestry but construction.
 
 ---
 
