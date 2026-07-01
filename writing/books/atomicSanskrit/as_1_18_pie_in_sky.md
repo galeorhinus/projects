@@ -57,6 +57,8 @@ The procedural reconstruction is exposed for what it is — an average of the re
 
 PIE is not merely a speculative reconstruction. It is the asuric pyramid's most successful linguistic artifact: an imaginary ancestor manufactured by the Western philological machinery, sanctified by the church of progress, and installed above Sanskrit so the engineered source could be demoted into one cognate among many. The machinery baked it. The church cemented it. The pyramid needed it.
 
+The paired invention is exact. RAT supplies the imaginary people: *Aryans* as race, ancestry, or migrating population. PIE supplies the imaginary language: an unattested ancestor placed above Sanskrit. The phrase *"Indo-Aryan languages"* then binds the two inventions into ordinary academic speech, as though the stolen racial category were neutral linguistic classification. Sanskrit is real. *Ārya* is real. The Vedic archive is real. The invented people and the invented ancestor are the devices by which the real civilization is made external to itself.
+
 ## 18.3 What PIE Cannot Explain
 
 Chapter 17 separated movement from authorship. Here that distinction meets the imaginary ancestor itself.

@@ -32,7 +32,7 @@ That is *asurī māyā*: not illusion as such, not skill as such, but category-m
 
 **First.** Vedic Sanskrit was the naturally spoken language of the people the pyramid calls the *"Aryans"* — the racial category Chapter 3 calls the **Racial Arya Thesis (RAT)**. In the story, these itinerant pastoralists enter the subcontinent, become the founding event of Indic civilization, bring the language, use it, change it, and hand it to their descendants.
 
-The familiar acronyms AIT and AMT hide this first move by arguing over mechanism: invasion or migration. **RAT** exposes the premise underneath both. The theft begins when *ārya* is made racial and Sanskrit is made portable.
+The familiar acronyms AIT and AMT hide this first move by arguing over mechanism: invasion or migration. **RAT** exposes the premise underneath both. PIE supplies the imaginary ancestor-language. *"Indo-Aryan"* fastens the invented people to a linguistic taxonomy. **The theft begins when *ārya* is made racial and Sanskrit is made portable.**
 
 **Second.** Vedic Sanskrit drifted like any natural language. Sounds shifted, forms irregularized, and speech habits accumulated across generations. The same process that produced English from Old English and Italian from Latin supposedly operated on Sanskrit.
 

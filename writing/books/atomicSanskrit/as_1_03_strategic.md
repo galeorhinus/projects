@@ -6,7 +6,7 @@
 
 The botanical metaphor survived not because it was merely persuasive, but because it was useful: it kept Sanskrit portable, late, derivative, and dependent on an authority outside the Hindu continuum.
 
-The public debate usually says AIT or AMT: Aryan Invasion Theory or Aryan Migration Theory. Those labels argue over the vehicle. The premise underneath both versions is the **Racial Arya Thesis (RAT)**: the claim that *ārya* is race, peoplehood, ancestry, or bloodline rather than discipline and achievement. The Biblical chronology that once enclosed nineteenth-century European philology has been quietly removed from respectable scholarship. The colonial frame in which Schleicher worked has been formally disowned by the very institutions that still inherit his vocabulary.
+The public debate usually says AIT or AMT: Aryan Invasion Theory or Aryan Migration Theory. Those labels argue over the vehicle. **RAT supplies the imaginary people. PIE supplies the imaginary ancestor-language. *"Indo-Aryan"* makes the theft sound like taxonomy.** The premise underneath both versions is the **Racial Arya Thesis (RAT)**: the claim that *ārya* is race, peoplehood, ancestry, or bloodline rather than discipline and achievement. The Biblical chronology that once enclosed nineteenth-century European philology has been quietly removed from respectable scholarship. The colonial frame in which Schleicher worked has been formally disowned by the very institutions that still inherit his vocabulary.
 
 Yet the metaphor remains, and that kind of persistence does not happen by accident.
 
