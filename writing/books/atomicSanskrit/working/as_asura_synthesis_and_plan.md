@@ -72,6 +72,10 @@ The Sanskrit marks the same move in miniature: to name an *individual* withholde
 
 The pyramid would read *asura* = lord (Veda) and *asura* = demon (Purāṇa) as a contradiction, or as "semantic drift over time." The book reads it as **confirmation of the thesis**: the *same word* runs both ways precisely because the word is not what carries the charge — the **action** is. Sovereignty is praised; containment is condemned; and the one word can name either because *asura* is a *station of power*, while *asuratva* is a *mode of using it*. The tradition's own two etymologies and its *asura*/*āsura* grammar are the internal evidence that the discipline already knew this.
 
+**And the thesis does not depend on winning the etymology.** Under *either* indigenous parse — *asu + ra* ("life-lord") or *a + sura* ("not-light") — the shift from the sovereign who *measures* (Varuṇa) to the one who *walls up the flow* (Vṛtra) is identical. Containment is the charge under both derivations, so the argument is **etymology-independent**: the *asu + ra* tradition need not be defeated, only observed to change nothing. *(External review, 2026-07-01.)*
+
+**A method-filter follows.** Because the case rests on *action*, prefer **behaviour-evidence** (Vṛtra dams the waters; the Paṇis hoard the cows; the asuras enclose the earth) over **name-etymology** ("their names *mean* bind / withhold"). Name-etymology arguments re-enter the very etymology war this thesis exists to escape, and weaken the position even when individually true. Read the deed, not the label — the thesis restated as method.
+
 ---
 
 ## 5. The illustrations
@@ -95,19 +99,19 @@ Design notes: they read as **books** because they are vertical (spine-orientatio
 
 ### 5.2 Illustration 2 — **The Rotation** (shelf → seven eternal layers) + the laukika wheel
 
-Rotate the whole shelf **90° anti-clockwise.** A left→right *row* of upright books becomes a bottom→top *stack* of horizontal layers. The rotation sends the **rightmost** book (Upaniṣad) to the **top** and the **leftmost** (Ṛgveda) to the **bottom** — so **Vedānta lands at the top, as the culmination/crown**, not as the "latest in time." Each upright book (tall) becomes a horizontal **layer** (wide).
+Tip the shelf so the left→right *row* stands as a top→bottom **stack of layers** — **Ṛgveda at the top, Upaniṣad (Vedānta) at the base** (the last in the sequence, read top-down). Each upright book (tall) becomes a horizontal **layer** (wide). **Crucially, time is *not* the vertical axis** — it runs left→right (anādi → ananta); the vertical carries only the text-sequence. Ṛgveda-at-top also *inverts* the geological reflex (sediment would put the "oldest" at the *bottom*), so the stack cannot be misread as strata / a timeline. *(This is the mirror of a literal anti-clockwise turn, which would put the rightmost book on top; spec the figure by its end-state, not the motion.)*
 
 ```
         अनादि  anādi ←─────────────────────────────→ ananta  अनन्त
    ┈┈┈┌───────────────────────────────────────────────┐┈┈┈
-      │ 7  Upaniṣad — वेदान्त (Vedānta): text-sequential │
-      │            culmination, NOT chronological end     │
-      │ 6  Āraṇyaka                                        │      VAIDIKA
-      │ 5  Brāhmaṇa                                        │   (eternal / timeless;
-      │ 4  Atharvaveda                                     │    no beginning, no end)
-      │ 3  Sāmaveda                                        │
-      │ 2  Yajurveda                                       │
-      │ 1  Ṛgveda                                          │
+      │ Ṛgveda                                             │  ← TOP layer
+      │ Yajurveda                                           │
+      │ Sāmaveda                                            │      VAIDIKA
+      │ Atharvaveda                                         │   (eternal / timeless;
+      │ Brāhmaṇa                                            │    no beginning, no end)
+      │ Āraṇyaka                                            │
+      │ Upaniṣad — वेदान्त (Vedānta): end of the sequence,  │
+      │            text-sequential, NOT chronological       │  ← base layer
    ┈┈┈└───────────────────────────────────────────────┘┈┈┈
         (each layer runs anādi→ananta; both edges fade to ∞)
 
@@ -121,7 +125,7 @@ Rotate the whole shelf **90° anti-clockwise.** A left→right *row* of upright 
 ```
 
 **Reading the composite figure:**
-- **Vertical axis (bottom → top):** the seven-layer **text-sequence** — Ṛgveda at the base, *Vedānta* (Upaniṣad) at the crown. This is *text-sequential*, emphatically **not chronological**: the Upaniṣads are the Veda's philosophical summit, not its "late stratum."
+- **Vertical axis (top → base):** the seven-layer **text-sequence** — Ṛgveda at the top, *Vedānta* (Upaniṣad) at the base (the *end* of the sequence, read top-down). The vertical carries **no time** — it is text-order only. *Vedānta* = end of the Veda **text-sequentially, not chronologically**.
 - **Horizontal axis (left → right):** **अनादि (*anādi*) → अनन्त (*ananta*)** — the eternal extent. Every layer runs the full width and **fades to infinity at both edges**: no beginning, no end.
 - **Lower band:** the **laukika** sine-wave — the *kaalachakra* / *cakra* turning through cyclical time. **Crests = *saṃskṛti*** (enlightenment; the flow released; *swastika*). **Troughs = *vikṛti*** (darkness; the flow contained; the **pyramid**).
 
@@ -131,6 +135,7 @@ Rotate the whole shelf **90° anti-clockwise.** A left→right *row* of upright 
 - **Projection lines.** Drop faint dotted verticals from the eternal band into each crest and trough — the one eternal law *instantiated* at every turn of the wheel (the vaidika→laukika projection made visible).
 - **Optional "now" marker.** Place a small marker in a *trough* — the reader locates the present as a captured phase. (This is the book's implicit diagnosis of the church of progress; deploy only if the tone fits.)
 - **Production home:** `figures/<ch0-slug>/` (matplotlib + shared style), two panels or a two-step reveal (shelf → rotated layers). Devanāgarī primary in-figure per the figure convention; IAST + gloss in caption.
+- **Why not a wheel/axle?** An external review (2026-07-01) warned a vertical *stack* can read as geological strata (= time). It does not apply here: **time is the horizontal axis**, and Ṛgveda sits at the *top* (opposite the geological "oldest-at-bottom"). The wheel/axle mandala (vaidika = still hub; laukika = rotating rim) is a valid alternative and is recorded here — but the layered figure is kept, because the horizontal time-axis already defuses the chronology reading *and* the layers preserve the seven-book text-sequence with *Vedānta* as its end.
 
 ---
 
@@ -171,11 +176,13 @@ The two illustrations open the chapter (shelf → rotation) and establish the tw
 
 ## 8. Open items / to decide
 
-1. **The four → seven layers is locked** (Ṛg / Yajur / Sāma / Atharva / Brāhmaṇa / Āraṇyaka / Upaniṣad = Vedānta). Confirm the *Vedānta-at-the-top* orientation (anti-clockwise rotation puts the rightmost book on top).
+1. **Layer set + orientation — locked.** Seven layers (Ṛg / Yajur / Sāma / Atharva / Brāhmaṇa / Āraṇyaka / Upaniṣad = Vedānta), **Ṛgveda at the top, Vedānta at the base**, with **time on the horizontal axis** (anādi → ananta). This defuses the "layers = sediment / time" reading without a wheel/axle (external review, 2026-07-01). For the figure, spec the *end-state*, not the rotation direction.
 2. **Ch 0 reconciliation.** How the *asura*/reading-protocol material sits with Ch 0's current content (`as_1_00_seekers.md`) — additive framing, or a restructure? To review before drafting.
 3. **Claim wording** — lock the §1 candidate before it enters the TOC family.
 4. **Figure production** — which chapter slug owns the figure; two-panel vs. animated reveal for the rotation.
 5. **Verification residuals inherited from the survey** — Nirukta 3.8/10.34 verbatim; TB / JB exact Sanskrit; Uṇādi recension numbering; Sāyaṇa on 8.42.1 / 2.1.6 — confirm against print editions before any verbatim quote reaches the manuscript.
+6. **External-review candidates to source before use** (Gemini, 2026-07-01) — additional *action*-evidence for the containment thesis, held until verified: **Śuṣṇa** (the drought-adversary who withholds the waters — confirm asura-class + the characterization) and the **Śatapatha earth-hoarding motif** (asuras enclose / divide the earth; the devas reclaim it via the sacrifice / Viṣṇu's measuring — confirm the exact reference; **drop the "ox-hide measure"** unless it checks out). *Rejected* from the same review: the *Ahi* = "bind" and *Dānava* = "binder" etymologies (dubious, and they re-enter the etymology war Defense 2 wins), and the "asura = elder brother" gloss (speculative; contradicts ŚB 11.1.6, already cited).
+7. **Claim overlap** — verify whether the §1 candidate Claim refines an existing Claim (the review suggested "Claim 5") against `reference/as_toc_annotated.md` before adding to the TOC family.
 
 ---
 
