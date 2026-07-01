@@ -39,7 +39,7 @@ PIE is the conlang the conlangers' craft disowns.
 
 ## 18.2 The Bookkeeping Defense
 
-The standard defense retreats to bookkeeping. It says: yes, the forms are hypothetical; yes, nobody claims to have a recording of PIE; yes, the asterisk denotes reconstruction. The starred forms are only labels for systematic correspondences.
+The pyramid's defense retreats to bookkeeping. It says: yes, the forms are hypothetical; yes, nobody claims to have a recording of PIE; yes, the asterisk denotes reconstruction. The starred forms are only labels for systematic correspondences.
 
 <!-- AISWEEP-OLD
 Placement exposes the problem.
@@ -199,7 +199,7 @@ The same pattern appears in *devaḥ*:
 >
 > *atom → molecule → seed → root — life begins*
 
-The standard etymology (de Vaan 2008) projects Latin *deus* backward to PIE **\*deiwós** and **\*dyew-**. The Sanskrit chain is not projected. It is visible through the *dhātu*, the *śabda*, and the derivational architecture. The Latin form is the *apaśabda* — the organic root that sprouts in the receiving language after the Sanskrit molecule enters as *bīja*, the visarga reduced to a plain *-us*, the dhātu-derivation no longer visible to a Latin speaker.
+The pyramid's etymology projects Latin *deus* backward to PIE **\*deiwós** and **\*dyew-**.[NOTE: deva-pie-etymology] The Sanskrit chain is not projected. It is visible through the *dhātu*, the *śabda*, and the derivational architecture. The Latin form is the *apaśabda* — the organic root that sprouts in the receiving language after the Sanskrit molecule enters as *bīja*, the visarga reduced to a plain *-us*, the dhātu-derivation no longer visible to a Latin speaker.
 
 Philology under the descent assumption treats the reflections as evidence of a vanished ancestor. The calibrant account identifies them as reflections of the calibrant. The data is the same. The interpretation is incompatible.
 
@@ -207,7 +207,7 @@ Philology under the descent assumption treats the reflections as evidence of a v
 
 The *asura* case exposes the break.
 
-The Western philological dogma, represented here by Mayrhofer's *Etymologisches Wörterbuch des Altindoarischen*, pushes Sanskrit *asura-* through Indo-Iranian **\*asura-** toward a *contested* PIE **\*h₂nsu-** meaning "life force" or "lord."[NOTE: asura-standard-etymology-contested]
+The Western philological dogma pushes Sanskrit *asura-* through Indo-Iranian **\*asura-** toward a *contested* PIE **\*h₂nsu-** meaning "life force" or "lord."[NOTE: asura-standard-etymology-contested]
 
 *Contested* is the confession.
 
@@ -223,17 +223,17 @@ The Sanskrit-side chain is internal:
 >
 > *atom → molecule → seed → root — life begins*
 
-The Sanskrit side is documented through the engineering architecture. Chapter 3 §3.6 lays out the *svar* / *suraḥ* / *asuraḥ* morphology — *svar* the self-luminous anchor; *suraḥ* the engineered *śabda* "light"; *asuraḥ* the privative formation "not-light" — and uses it as the structural diagnosis of the asuric machinery's operating mode. The privative *a-suraḥ* account is the Indic-internal commentarial etymology the architecture endorses; the standard historical-philological position, anchored in Mayrhofer's EWAia, treats early-Rigvedic *asura* as the positive "lord, mighty one" with the privative account as a post-Rigvedic reanalysis. That divergence remains visible; the internal position here overrides the standard account on the structural grounds developed across Chapters 3, 13, and 17.
+The Sanskrit side is engineered, not reconstructed. Chapter 3 §3.6 lays out the morphology — *svar*, the self-luminous anchor; *suraḥ*, the engineered *śabda* for "light"; *asuraḥ*, the privative "not-light" built with *a-* — and makes it the structural diagnosis of the asuric operating mode. The pyramid reaches the same word from the other end: it takes *asura* to mean "lord, mighty one," reconstructs an imaginary ancestor behind it, and files the privative the *varṇamālā* assembles in plain sight as a later reinterpretation. One side documents an engineered form; the other bakes a root to avoid it.
 
 The same morphology drives the vivimorphosis chain at the contact-language boundary. Avestan **𐬀𐬵𐬎𐬭𐬀 (*ahura*)** is the *apaśabda* — the organic root vivimorphosed in the Iranian receiving language, the *s* shifted to *h* under the regular Indo-Iranian sound law (the same shift Chapter 9 §9.5 traces in *Sindhuḥ* → *Hinduš*), the visarga stripped to a plain *-a*.
 
 The *apaśabda* *ahura* anchors the central theological vocabulary of the Zoroastrian tradition. The semantic transformation that accompanies the phonetic one — what *asura* means in the Sanskrit source and what *ahura* comes to mean in the Avestan recipient, and what the suric / asuric distinction carries forward as the cosmic backdrop for the political-architectural argument — is taken up in a forthcoming volume in the ***Second Shanti*** series. What this section isolates is the phonetic vivimorphosis: the same engineered form, carried into a contact language as the *Pratibimba* the Iranian religious imagination has held for the entire span of its tradition.
 
-[FIGURE 18.2: Standard PIE reconstructions and vivimorphosis chains shown side by side for *deva* and *asura*. Standard etymology, Sanskrit *dhātu* / *śabda*, receiving-language *bīja*, and contact-language *apaśabda* across the rows.]
+[FIGURE 18.2: The pyramid's PIE reconstructions and the vivimorphosis chains shown side by side for *deva* and *asura*. The pyramid's etymology, Sanskrit *dhātu* / *śabda*, receiving-language *bīja*, and contact-language *apaśabda* across the rows.]
 
 | Stage | *deva* chain | *asura* chain |
 |---|---|---|
-| **Standard etymology** *(Western philological account)* | PIE \**deiwós* "deity" < \**dyew-* "to shine" (de Vaan 2008) | PIE \**h₂nsu-* "life force, lord" (Mayrhofer; contested) |
+| **The pyramid's etymology** *(Western philological account)* | PIE \**deiwós* "deity" < \**dyew-* "to shine" | PIE \**h₂nsu-* "life force, lord" (contested) |
 | **Status** | Pie in the sky | **PIE is a lie** |
 | ***dhātu*** *(Sanskrit constituent)* | दिव् (*div*, "to shine") | स्वर् (*svar*, "to shine") |
 | ***śabda*** *(Sanskrit calibrant; inorganic molecule)* | देवः (*devaḥ*) | सुरः (*suraḥ*, "light") → असुरः (*asuraḥ*, "not-light," via privative *a-*) |

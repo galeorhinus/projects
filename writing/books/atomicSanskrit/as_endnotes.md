@@ -4047,6 +4047,16 @@ Source: Bybee 1985, *Morphology: A Study of the Relation between Meaning and For
 
 ---
 
+### `deva-pie-etymology`
+
+**Short:** The Western philological account projects Latin *deus* and Sanskrit *devaḥ* back to a reconstructed PIE **\*deiwós** ("deity") under the root **\*dyew-** ("to shine"); the book treats the shared "shine" semantics as reflections of the engineered Sanskrit calibrant rather than evidence of a vanished common ancestor.
+
+**Deployments:** Ch18 §18.6 (the *deva* chain); Figure 18.2.
+
+Source: Michiel de Vaan, *Etymological Dictionary of Latin and the Other Italic Languages* (Leiden: Brill, 2008), entries for *deus* / *dīus*; verify exact reconstruction and wording against the edition used for final citation.
+
+---
+
 ### `asura-standard-etymology-contested`
 
 **Short:** Ch 18 §18.7 uses the Western philological dogma's account of *asura-* as an example of PIE overreach: Mayrhofer treats Sanskrit *asura-* through Indo-Iranian **\*asura-** and toward a contested PIE reconstruction, while the chapter's argument insists that the Sanskrit-side semantic and civilizational use cannot be explained by an imaginary ancestor.
@@ -4057,6 +4067,8 @@ Source: Bybee 1985, *Morphology: A Study of the Relation between Meaning and For
 The note is deliberately narrow. It does not need to settle the scholarly dispute over the ultimate etymology of *asura*. It records the point the chapter uses: the Western philological dogma itself flags the deeper PIE reconstruction as contested, while Sanskrit preserves the operating term in a real textual, ritual, philosophical, and civilizational field.
 AISWEEP-END -->
 Settling the scholarly dispute over the ultimate etymology of *asura* is not the point of the note. The point the chapter uses is narrower: the Western philological dogma itself flags the deeper PIE reconstruction as contested, while Sanskrit preserves the operating term in a real textual, ritual, philosophical, and civilizational field. The burden remains on the reconstruction to explain more than sound resemblance.
+
+On the specific divergence §18.7 turns on: Mayrhofer's *Etymologisches Wörterbuch des Altindoarischen* treats early-Rigvedic *asura-* as the positive "lord, mighty one" and the privative *a-suraḥ* ("not-light") as a post-Rigvedic reanalysis. The internal position adopted here reverses that priority — the privative is the engineered form, the "lord" sense the surface residue — on the structural grounds developed across Chapters 3, 13, and 17.
 
 Source: Manfred Mayrhofer, *Etymologisches Wörterbuch des Altindoarischen* (Heidelberg: Carl Winter, 1992–2001), entry for *asura-*; verify exact PIE reconstruction and wording against the edition used for final citation.
 
