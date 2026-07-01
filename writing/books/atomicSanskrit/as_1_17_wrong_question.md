@@ -135,6 +135,8 @@ That is the inversion. The speculation is not absent. It is wearing the robes of
 
 The racial Arya thesis survives by changing its instruments. Invasion becomes migration. Race becomes population. Skull measurement becomes DNA. The old vocabulary becomes embarrassing, so the pyramid updates the vocabulary and keeps the custody claim: Sanskrit must still arrive from outside India.
 
+AIT was the crude form. AMT is the laundered form. **RAT is the thesis.**
+
 That is the migration trap.
 
 The early colonial formulation was explicit in its design: a conquering *ārya* race subjugating an indigenous *dāsa* population, a historical script that conveniently prefigured British rule. The modern iteration discards the discredited racial anthropology and the violent invasion narrative, yet fiercely guards the foundational custody claim: Sanskrit still arrives in India as the property of an outside people.[NOTE: muller-eic-rigveda]

@@ -144,13 +144,13 @@ If the pyramid says Sanskrit arrived through the northwest, the claimed route be
 
 The subcontinent supplies the cluster densely rather than through one witness alone. Tamil and Telugu show the southern field; Mundari, Ho, and Korku keep the central forest belt in view. The pyramid itself separates these languages into unrelated families, so the shared cluster cannot be dismissed as simple inheritance inside one family tree. Sanskrit carries the whole cluster structurally, from the curl of *agnimīḷe* to the fold of *pītvā*.
 
-The borrowing story performs the same maneuver each time. First it removes Sanskrit from the field. Then it returns the field's features as later acquisitions: retroflexion as substrate borrowing, the gerund or absolutive as areal feature, receiver grammar as local contact, doer-demotion as passive-like areal habit. Each feature is allowed to be Indian only after Sanskrit has been made non-Indian in origin.
+The borrowing story performs the same maneuver each time. First it removes Sanskrit from the field. Then it returns the field's features as later acquisitions: retroflexion as substrate borrowing, the gerund or absolutive as areal feature, receiver grammar as local contact, doer-demotion as passive-like areal habit.[NOTE: borrowing-model-substrate-areal-claims] Each feature is allowed to be Indian only after Sanskrit has been made non-Indian in origin.
 
 The receiver grammar from §16.3 is the inner test. Tamil, Telugu, Korku, and Mundari let hunger, knowing, perception, and inward states arrive to a person. The Veda does the same work through forms such as *asmai*, *naḥ*, *mahyam*, and *tvasmai*. The imagined carrier route now has to explain how an external language arrived already able to encode that mind, or how the Vedic corpus was later reworked to carry it.
 
 The custody trick stands exposed. The pyramid grants the subcontinent its fragments while denying the field its architecture.
 
-Now set the two fields side by side. The claimed source — Avestan and Old Iranian — does not run the cluster: the retroflex is absent, and the syntax must be weighed with care before more is claimed. What the carrier was supposed to bring lives densely in the subcontinent instead. Sanskrit carries structurally what the field carries densely.
+Now set the two fields side by side. The claimed source — Avestan and Old Iranian — does not run the cluster: the retroflex series is absent, and the syntax must be weighed with care before more is claimed.[NOTE: avestan-retroflex-absence] What the carrier was supposed to bring lives densely in the subcontinent instead. Sanskrit carries structurally what the field carries densely.
 
 ## 16.9 The Corpus Cannot Be Rewritten
 

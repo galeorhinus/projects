@@ -30,7 +30,9 @@ The pyramid hides *saṃskṛti* by splitting Sanskrit in two. Before Pāṇini 
 
 That is *asurī māyā*: not illusion as such, not skill as such, but category-making used for concealment. The theft executes in seven moves. They are not independent slips. They form a single sequence of category-theft.
 
-**First.** Vedic Sanskrit was the naturally spoken language of the people the pyramid calls the *"Aryans"* — the racial category Chapter 3 calls the **racial Arya thesis**. In the story, these itinerant pastoralists enter the subcontinent, become the founding event of Indic civilization, bring the language, use it, change it, and hand it to their descendants.
+**First.** Vedic Sanskrit was the naturally spoken language of the people the pyramid calls the *"Aryans"* — the racial category Chapter 3 calls the **Racial Arya Thesis (RAT)**. In the story, these itinerant pastoralists enter the subcontinent, become the founding event of Indic civilization, bring the language, use it, change it, and hand it to their descendants.
+
+The familiar acronyms AIT and AMT hide this first move by arguing over mechanism: invasion or migration. **RAT** exposes the premise underneath both. The theft begins when *ārya* is made racial and Sanskrit is made portable.
 
 **Second.** Vedic Sanskrit drifted like any natural language. Sounds shifted, forms irregularized, and speech habits accumulated across generations. The same process that produced English from Old English and Italian from Latin supposedly operated on Sanskrit.
 

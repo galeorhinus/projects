@@ -342,7 +342,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 **Book term.** The shared premise underneath both the older invasion account and the softened migration account: *ārya* as race, peoplehood, or bloodline rather than discipline and achievement. Invasion and migration are mechanisms inside the thesis. The thesis itself is deeper: Sanskrit as transported cargo brought into the subcontinent by an external population belonging to a different race. Chapter 3 introduces the pillar; Chapter 16 refutes it at the mouth.
 
-**Use in book**: The full phrase **racial Arya thesis** is the default in body prose. **RAT** is a compressed label for figures, tables, and occasional prosecutorial shorthand where the tone can carry the bite. Avoid the acronym in solemn passages such as the Preface and Epilogue.
+**Use in book**: The book uses **Racial Arya Thesis (RAT)** to expose the premise beneath AIT and AMT. Invasion and migration are mechanisms; RAT is the thesis. The full phrase remains the default in sober body prose. Avoid the acronym in solemn passages such as the Preface and Epilogue.
 
 ### **lokakṣema** (लोकक्षेम)
 

@@ -4737,6 +4737,26 @@ The chapter reads the Mind features — the receiver *sampradāna* (§16.3) and 
 
 ---
 
+### `borrowing-model-substrate-areal-claims`
+
+**Short:** The positions §16.8 contests are real scholarship, not caricature: retroflexion as substrate/areal (Emeneau 1956; Kuiper; Masica 1991), the absolutive/gerund as a non-Indo-European "stimulus" feature (Emeneau 1956; Tikkanen 1987), and the dative/experiencer subject as South Asian areal convergence (Verma & Mohanan 1990); the "arrived from outside" premise rests on the Aryan-migration model and the post-2015 steppe-ancestry work (Narasimhan et al. 2019).
+
+**Deployments:** Chapter 16 §16.8.
+
+Chapter 16 argues against sourced positions, not paraphrase. (1) *Retroflexion as substrate/areal:* M. B. Emeneau, "India as a Linguistic Area," *Language* 32, no. 1 (1956): 3–16, treats the retroflex series as a defining South Asian areal feature shared across Indo-Aryan, Dravidian, and Munda; F. B. J. Kuiper argued a non-Indo-Aryan (Dravidian / Munda) substrate source for the Indo-Aryan retroflexes (*Aryans in the Rigveda*, 1991, and earlier work); Colin P. Masica, *The Indo-Aryan Languages* (Cambridge University Press, 1991), surveys retroflexion in the areal frame. (2) *The absolutive / gerund as a borrowed feature:* Emeneau (1956) singles out the gerund as distinguishing Sanskrit from the other Indo-European languages and looks to non-Indo-European Indian syntax for the stimulus; Bertil Tikkanen, *The Sanskrit Gerund: A Synchronic, Diachronic and Typological Analysis* (1987), develops it typologically (the "named exhibit"). (3) *The dative / experiencer subject as areal convergence:* M. K. Verma and K. P. Mohanan, eds., *Experiencer Subjects in South Asian Languages* (Stanford: CSLI, 1990). (4) *The external-arrival premise:* the Aryan-migration frame (from Müller onward) and the post-2015 ancient-DNA "steppe ancestry" model — Vagheesh M. Narasimhan et al., "The formation of human populations in South and Central Asia," *Science* 365, no. 6457 (2019). The chapter does not deny the features are pan-subcontinental; it reclassifies the *direction* — a cluster shared across families the same scholarship calls unrelated is what field-built predicts, not late contact. References web-verified 2026-06-30 (Emeneau 1956 = *Language* 32.1: 3–16, retroflex + gerund as areal; Masica 1991, Cambridge; Kuiper 1991; Verma & Mohanan 1990, CSLI; Tikkanen 1987, Studia Orientalia 62; Narasimhan et al. 2019 = *Science* 365.6457, eaat7487); page-level locators for the specific in-text claims to confirm at production.
+
+---
+
+### `avestan-retroflex-absence`
+
+**Short:** Avestan and Old Iranian have no counterpart to the Indic retroflex consonant series; retroflexion is standardly treated as an Indo-Aryan / South Asian development, not an Indo-Iranian inheritance — so the pyramid's own claimed carrier field lacks the very Mouth feature the borrowing story needs it to transmit.
+
+**Deployments:** Chapter 16 §16.8.
+
+The Indic retroflex stop series (ट ठ ड ढ ण) has no productive counterpart in Avestan or Old Persian: retroflexion is an Indo-Aryan innovation, not a shared Proto-Indo-Iranian feature. The cleanest witness is a cognate pair — Sanskrit *sthūṇā* ("pillar," with retroflex *ṇ*) beside Avestan *stūna* (dental) — where Indic retroflexes, Iranian keeps the dental. The areal-feature literature places retroflexion in the South Asian linguistic area, not the Iranian one (Emeneau 1956; Masica 1991; Kuiper's substrate account), and the standard Avestan grammar (Karl Hoffmann and Bernhard Forssman, *Avestische Laut- und Flexionslehre*, Innsbruck, 1996) describes an inventory without the Indic retroflex series. This is the inversion §16.8 turns on: a portable Indo-Iranian import would resemble its claimed carrier, yet the retroflex — the chapter's Mouth signature — is exactly what the carrier field lacks and the subcontinental field carries densely. Three precisions: (a) the *retroflex* absence is the strong, well-attested leg; the *syntax* comparison (gerund, dative-subject) stays hedged, needing careful Old Iranian comparison before more is claimed. (b) Avestan is sometimes analyzed as carrying a single marginal retroflex-ish segment (a /ʈ/, or the cluster /tθ/) — not the Indic productive five-member series; the claim is about the *series*, not the total absence of any retroflex-like sound. (c) Some later / eastern Iranian languages (e.g., Pashto) develop a secondary retroflex series through their own later contact; the claim here is about Old Iranian / Avestan, the pyramid's own claimed carrier stage. Core fact and references web-verified 2026-06-30; page-level locators to confirm at production.
+
+---
+
 ### `madhyandina-kanva-branch-shapes`
 
 **Short:** The Mādhyandina and Kāṇva branches of the *Śatapatha Brāhmaṇa* are useful because they show branch-specific preservation rather than temporal decay: related Vedic material can survive in different branch-shapes without implying that Sanskrit moved down a single slope from an earlier "Vedic" stage to a later "Classical" stage.
