@@ -80,40 +80,40 @@ The pyramid would read *asura* = lord (Veda) and *asura* = demon (Purāṇa) as 
 
 ## 5. The illustrations
 
-### 5.1 Illustration 1 — **The Shelf** (seven books, left → right)
+### 5.1 Illustration 1 — **The One Veda and its Four** (the establishing image)
 
-Seven volumes standing upright on a shelf, spines out, in text-sequence left to right:
+The single, undivided **eka Veda** — the eternal vaidika unity — beside the **four Vedas** into which it is divided for transmission. The three text-*strata* (Brāhmaṇa, Āraṇyaka, Upaniṣad = *Vedānta*) are **not** separate books; they are layers *within each* of the four:
 
 ```
- ┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐
- │Ṛg││Yaj││Sām││Ath││Brā││Āra││Upa│      ← upright books (spines)
- └──┘└──┘└──┘└──┘└──┘└──┘└──┘
-  1    2    3    4    5    6    7=Vedānta
- ══════════════════════════════════        (shelf)
-  left ─────────────────────→ right
+   ┌───────────┐          ┌────┐ ┌────┐ ┌────┐ ┌────┐
+   │ THE ONE   │   ═══⇒    │ Ṛg │ │Yaj │ │Sām │ │Ath │   the four
+   │  VEDA     │          └────┘ └────┘ └────┘ └────┘   (corpora)
+   │ (eka Veda)│          each internally: Saṃhitā · Brāhmaṇa ·
+   └───────────┘                           Āraṇyaka · Upaniṣad (= Vedānta)
+    one, eternal    →     divided for transmission (Vyāsa's vibhāga)
 ```
 
-1. **Ṛgveda** · 2. **Yajurveda** · 3. **Sāmaveda** · 4. **Atharvaveda** · 5. **Brāhmaṇa** · 6. **Āraṇyaka** · 7. **Upaniṣad = वेदान्त (*Vedānta*)** — the last in the sequence.
+The four — **Ṛgveda, Yajurveda, Sāmaveda, Atharvaveda** — are corpora. **Brāhmaṇa · Āraṇyaka · Upaniṣad (वेदान्त, *Vedānta*)** are the strata *within* each; *Vedānta* is the crowning Upaniṣadic band, not an eighth object. *(An external review, 2026-07-01, flagged the "seven equal books" version as teaching the wrong structure — corrected here.)*
 
-Design notes: they read as **books** because they are vertical (spine-orientation). The sequence is a **text-sequence**, read left→right; it is *not* a timeline. This first image simply installs the seven-part vaidika corpus as an ordered shelf, with the Upaniṣads as the *Vedānta* — the end of the shelf.
+Design note: this establishing image fixes *what the pieces are* — **one Veda, divided into four**, each internally layered (Saṃhitā → Brāhmaṇa → Āraṇyaka → Upaniṣad/Vedānta). The *division itself* — how the one becomes four, and where the fifth goes — is the subject of §5.2.
 
-### 5.2 Illustration 2 — **The Rotation** (shelf → seven eternal layers) + the laukika wheel
+### 5.2 Illustration 2 — **The Vyāsa-vibhāga**: the One divides into Four; a Fifth crosses into the laukika
 
-Tip the shelf so the left→right *row* stands as a top→bottom **stack of layers** — **Ṛgveda at the top, Upaniṣad (Vedānta) at the base** (the last in the sequence, read top-down). Each upright book (tall) becomes a horizontal **layer** (wide). **Crucially, time is *not* the vertical axis** — it runs left→right (anādi → ananta); the vertical carries only the text-sequence. Ṛgveda-at-top also *inverts* the geological reflex (sediment would put the "oldest" at the *bottom*), so the stack cannot be misread as strata / a timeline. *(This is the mirror of a literal anti-clockwise turn, which would put the rightmost book on top; spec the figure by its end-state, not the motion.)*
+The composite figure carries the whole story. The **eternal vaidika** is the single undivided Veda (the *eka Veda*), a level band running **anādi → ananta** — time is the *horizontal* axis, and both edges fade to ∞. At the **Kali-junction** — the recurring *vyāsa-vibhāga*, when human capacity contracts — the one Veda **fans into the four** (Ṛgveda at the top → Atharvaveda), which remain in the vaidika band; and a **fifth**, the **Itihāsa-Purāṇa** (the "fifth Veda," the Sūta line), **descends across the vaidika/laukika boundary** into the cyclical wave below. **Guardrail:** this is *not* an origin in time — the Veda is eternally one; the *division* is the cyclical act, repeated at **every** Dvāpara–Kali junction (28 Vyāsas). Mark the split as recurring, or label the panel as the laukika narrative; never as "the four Vedas began at moment T."
 
 ```
         अनादि  anādi ←─────────────────────────────→ ananta  अनन्त
    ┈┈┈┌───────────────────────────────────────────────┐┈┈┈
-      │ Ṛgveda                                             │  ← TOP layer
-      │ Yajurveda                                           │
-      │ Sāmaveda                                            │      VAIDIKA
-      │ Atharvaveda                                         │   (eternal / timeless;
-      │ Brāhmaṇa                                            │    no beginning, no end)
-      │ Āraṇyaka                                            │
-      │ Upaniṣad — वेदान्त (Vedānta): end of the sequence,  │
-      │            text-sequential, NOT chronological       │  ← base layer
+      │  ══ THE ONE VEDA (eka Veda) ══   ⇒  Ṛgveda          │  at the Kali-junction
+      │     eternal · undivided · vaidika    Yajurveda      │  the one fans into
+      │                                      Sāmaveda       │  the four (VAIDIKA);
+      │     (time runs left→right,           Atharvaveda    │  each internally:
+      │      anādi → ananta)                                │  Saṃhitā·Brāhmaṇa·
+      │                                                     │  Āraṇyaka·Upaniṣad
+      │  ⇩ a fifth peels off — Itihāsa-Purāṇa ("5th Veda")  │  (=Vedānta)
+      │  ⇩ and descends across the boundary, below ⇩        │
    ┈┈┈└───────────────────────────────────────────────┘┈┈┈
-        (each layer runs anādi→ananta; both edges fade to ∞)
+        (the one Veda, and the four, run anādi→ananta; edges fade to ∞; vertical = text-order, not time)
 
               ╱‾‾╲          ╱‾‾╲          ╱‾‾╲
    ┈┈┈┈┈┈┈┈┈╱────╲────────╱────╲────────╱────╲┈┈┈┈┈┈┈┈┈   LAUKIKA
@@ -125,17 +125,19 @@ Tip the shelf so the left→right *row* stands as a top→bottom **stack of laye
 ```
 
 **Reading the composite figure:**
-- **Vertical axis (top → base):** the seven-layer **text-sequence** — Ṛgveda at the top, *Vedānta* (Upaniṣad) at the base (the *end* of the sequence, read top-down). The vertical carries **no time** — it is text-order only. *Vedānta* = end of the Veda **text-sequentially, not chronologically**.
-- **Horizontal axis (left → right):** **अनादि (*anādi*) → अनन्त (*ananta*)** — the eternal extent. Every layer runs the full width and **fades to infinity at both edges**: no beginning, no end.
-- **Lower band:** the **laukika** sine-wave — the *kaalachakra* / *cakra* turning through cyclical time. **Crests = *saṃskṛti*** (enlightenment; the flow released; *swastika*). **Troughs = *vikṛti*** (darkness; the flow contained; the **pyramid**).
+- **Upper band — vaidika (eternal).** The single *eka Veda*, then the **four** it divides into (Ṛgveda at the top → Atharvaveda). Time is the **horizontal** axis (**अनादि *anādi* → अनन्त *ananta***, fading to ∞ both edges); the vertical carries **no time**. Ṛgveda-at-top also inverts the geological "oldest-at-bottom" reflex, so the band cannot be misread as strata.
+- **The Kali-junction (*vyāsa-vibhāga*).** Where the one becomes four — a **recurring** cyclical act, not a one-time origin. Each of the four is itself internally layered (Saṃhitā → Brāhmaṇa → Āraṇyaka → Upaniṣad/*Vedānta*).
+- **The fifth crosses the boundary.** The **Itihāsa-Purāṇa** (the "fifth Veda," the Sūta line) descends from the vaidika band into the laukika wave — the vaidika→laukika transition, embodied. (Vyāsa *divides* the vaidika four; he *authors* the laukika fifth.)
+- **Lower band — laukika (cyclical).** The *kaalachakra* / *cakra* sine-wave: **crests = *saṃskṛti*** (flow released; *swastika*), **troughs = *vikṛti*** (flow contained; the **pyramid**).
 
 ### 5.3 Design notes for production
 - **The geometry *is* the argument:** a straight, level, layered band (eternal) above a sine wave (cyclical). Straight-vs-wave states eternal-vs-cyclical before a single word is read.
 - **Eclipse-spine tie-in.** The sine-wave *is* the eclipse rhythm at scale: troughs = light **darkened** (Rāhu / Svarbhānu), crests = Sūrya unobscured — **never destroyed, only eclipsed.** The vaidika band above = the light that never goes out. The figure silently states the book's spine.
 - **Projection lines.** Drop faint dotted verticals from the eternal band into each crest and trough — the one eternal law *instantiated* at every turn of the wheel (the vaidika→laukika projection made visible).
 - **Optional "now" marker.** Place a small marker in a *trough* — the reader locates the present as a captured phase. (This is the book's implicit diagnosis of the church of progress; deploy only if the tone fits.)
-- **Production home:** `figures/<ch0-slug>/` (matplotlib + shared style), two panels or a two-step reveal (shelf → rotated layers). Devanāgarī primary in-figure per the figure convention; IAST + gloss in caption.
-- **Why not a wheel/axle?** An external review (2026-07-01) warned a vertical *stack* can read as geological strata (= time). It does not apply here: **time is the horizontal axis**, and Ṛgveda sits at the *top* (opposite the geological "oldest-at-bottom"). The wheel/axle mandala (vaidika = still hub; laukika = rotating rim) is a valid alternative and is recorded here — but the layered figure is kept, because the horizontal time-axis already defuses the chronology reading *and* the layers preserve the seven-book text-sequence with *Vedānta* as its end.
+- **Production home:** `figures/<ch0-slug>/` (matplotlib + shared style), two panels or a two-step reveal (the One Veda → the Four, with the fifth descending into the laukika wave). Devanāgarī primary in-figure per the figure convention; IAST + gloss in caption.
+- **Each Veda internally banded (structural honesty).** Draw each of the four Veda-layers as internally striped — Saṃhitā · Brāhmaṇa · Āraṇyaka · Upaniṣad (*Vedānta* as the crowning stripe) — so the strata sit *inside* the four, not as separate objects (external review, 2026-07-01, flagged the seven-equal-books version).
+- **Why not a wheel/axle?** An external review (2026-07-01) warned a vertical *stack* can read as geological strata (= time). It does not apply here: **time is the horizontal axis**, and Ṛgveda sits at the *top* (opposite the geological "oldest-at-bottom"). The wheel/axle mandala (vaidika = still hub; laukika = rotating rim) is a valid alternative and is recorded here — but the layered figure is kept, because the horizontal time-axis already defuses the chronology reading, the four-Veda division stays legible (each internally layered), and the fifth's descent shows the vaidika→laukika crossing.
 
 ---
 
