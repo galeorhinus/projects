@@ -362,6 +362,27 @@ The dominant *indigenous* etymology is ***asu* + *-ra*** = "possessing life-forc
 - **Ch 3 §3.6** — upgrade to "the measurer / one power, two orientations"; this simultaneously closes §7.3's vulnerability and strengthens the pyramid diagnosis.
 - **Eclipse spine** — the asuric mode as light-*withholder* (not light-absence) resonates with Svarbhānu / Rāhu.
 
+### 7.5 Not power but withholding — the containment-operation in the vaidika domain *(vaidika-only; laukika material deliberately excluded)*
+
+**Claim.** In the vaidika domain, power and singular sovereignty are never condemned; what is condemned is the *withholding / enclosing* of what should flow. That withholding-enclosure is the Vedic form of the pyramid — the *architecture of containment* (Ch 3 §3.5).
+
+**The sovereign side (praised).** The all-powerful singular *asura* is the highest praise: Varuṇa *samrāṭ*, all-knowing, props the sky and *measures* the earth (RV 8.42.1); the sovereign who *releases* — *śiśrathaḥ*, "loosen the sins we have committed" (RV 1.24.14). Sovereignty exercised as ordering-and-release.
+
+**The problem-side (the withholding-operation).** The vaidika adversary is defined by *enclosure / hoarding*, and the heroic act is *release*:
+- **Vṛtra** (√*vṛ*, "to cover, obstruct") **dams the waters**; Indra shatters the enclosure and frees them (the Vṛtra-slaying hymn, RV 1.32). ✅
+- **The Paṇis hoard the cows** (the dawn-herd / light / wealth) walled in the **Vala** cave; the act is to break it open and release them (the Sarama–Paṇi dialogue, RV 10.108; the Vala myth). ✅
+- **Namuci** — named *āsura* in the Yajurveda (VS 19.34; 20.67–68, §2.3) — the withholder who carried off Indra's strength (ŚB 12.7.1–3). ✅
+
+So the vaidika moral axis is **release vs. withholding** = *swastika vs. pyramid*: power that lets things flow and shine, versus power that walls them up and hoards.
+
+**Two precisions that keep the claim exactly vaidika-true:**
+1. **The vaidika domain sorts the two orientations across *different agents*** — the releasing sovereign (Varuṇa, Indra) vs. the enclosing withholder (Vṛtra, the Paṇis, Namuci). It does *not* depict one sovereign *asura* who *flips* into a pyramid-builder; that single-figure reversal is a structural (and laukika) reading, held out of this note.
+2. **Building is not the problem; enclosure is.** Varuṇa *builds* — props the sky, measures the earth. What is condemned is not raising a structure but raising one that *withholds the flow* (Vṛtra's dam) rather than *holding the frame open* (Varuṇa's propped sky, under which the waters and light move).
+
+**Distributed, not apex-monopolized.** The sovereign power is stated as shared: RV 3.55, *mahád **devā́nām** asuratvám ékam* — the one sovereign power is *of the gods*, held across the many, not seized at a single peak.
+
+**Feeds:** Ch 3 §3.5 (*architecture of containment* — Vṛtra's dam and the Paṇis' cave as the Vedic archetypes of enclosure / blockade / quarantine / concealment); the *swastika vs. pyramid* reframe; the eclipse spine (withholding = darkening, not destroying, the light). ⚠️ **Not yet in the manuscript — awaiting review.**
+
 ---
 
-*Status: **COMPLETE.** §1–§7 drafted and source-linked. All padaccheda for the key verses (§3) verified verbatim against the padapāṭha (wisdomlib), cross-checked against the Ṛgveda-Prātiśākhya for RV 1.174.1. Residual verification items are flagged inline (❓): Nirukta 3.8/10.34 verbatim Sarup wording; TB 2.2.9 / 2.3.8 and JB 3.35.3 exact Sanskrit; Sāyaṇa's glosses on RV 8.42.1 / 2.1.6; Uṇādi recension numbering; the full ~88-verse RV list (Grassmann/Hale) and the exhaustive cross-Vedic list (Vishva Bandhu Koṣa). The AV-Prātiśākhya remains inconclusive (OCR/access failure).*
+*Status: **COMPLETE.** §1–§7 drafted and source-linked (incl. §7.5, vaidika containment note). All padaccheda for the key verses (§3) verified verbatim against the padapāṭha (wisdomlib), cross-checked against the Ṛgveda-Prātiśākhya for RV 1.174.1. Residual verification items are flagged inline (❓): Nirukta 3.8/10.34 verbatim Sarup wording; TB 2.2.9 / 2.3.8 and JB 3.35.3 exact Sanskrit; Sāyaṇa's glosses on RV 8.42.1 / 2.1.6; Uṇādi recension numbering; the full ~88-verse RV list (Grassmann/Hale) and the exhaustive cross-Vedic list (Vishva Bandhu Koṣa). The AV-Prātiśākhya remains inconclusive (OCR/access failure).*
