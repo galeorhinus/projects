@@ -49,7 +49,7 @@ Three languages collectively covering 20 of 23 cells does not mean each language
 
 The inventory choices are conservative and editorial. Verification flags live in `working/inventory_atlas_coverage_surveys.md` §5: Pashto's full retroflex set, Greek's lack of phonemic /h/, the aspirated/ejective affricate collapse Armenian and Georgian carry, the single Burushaski symbol (ʈʂ) the harmonizer's manner taxonomy does not have a row for. The data trail is visible to any reader who wants it.
 
-The Korku chart uses this conservative policy. Nagaraja's grammar appears to preserve a richer Korku retroflex inventory than the atlas currently displays, including retroflex aspirates, a retroflex flap, and a retroflex lateral. The figure therefore treats Korku minimally: enough to show the retroflex place, without counting every possibly dialectal, loan-sensitive, or differently analyzed retroflex contrast.
+The Korku chart uses this conservative policy. The standard Korku grammar appears to preserve a richer retroflex inventory than the atlas currently displays, including retroflex aspirates, a retroflex flap, and a retroflex lateral.[NOTE: korku-nagaraja-mouth-mind-evidence] The figure therefore treats Korku minimally: enough to show the retroflex place, without counting every possibly dialectal, loan-sensitive, or differently analyzed retroflex contrast.
 
 The method is narrow and reproducible. It makes Chapter 8's question answerable in numbers the reader can audit.
 

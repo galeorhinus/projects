@@ -4147,6 +4147,16 @@ Source: Internal to the argument — Ch19 §19.4 establishes the account; Ch1 §
 
 ---
 
+### `dictionary-audit-sources`
+
+**Short:** The dictionary audit measures each *dhātuḥ*'s generative spread using the two standard Sanskrit–English dictionaries — Monier-Williams (*A Sanskrit–English Dictionary*) and V. S. Apte (*The Practical Sanskrit–English Dictionary*).
+
+**Deployments:** Chapter 11 (the dictionary audit).
+
+For each *dhātuḥ*, the dictionary audit counts the derivative forms the dictionary records — a measure of generative spread — using Monier-Williams (*A Sanskrit–English Dictionary*, Oxford, 1899) and V. S. Apte (*The Practical Sanskrit–English Dictionary*). It is the reference-based instrument that the corpus-based *prayoga* audit (Digital Corpus of Sanskrit) is compared against; on the matched subset the two correlate at +0.66. Final production should confirm the exact editions.
+
+---
+
 ### `prayoga-audit-valency`
 
 **Short:** Chapter 11 measures *prayoga* reactivity as corpus-attested combinatorial valency: distinct (*upasarga*, *pratyaya-class*) bonds visible in the Digital Corpus of Sanskrit, with dictionary and future *śāstra* audits kept separate.

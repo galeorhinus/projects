@@ -208,10 +208,10 @@ Two audits are needed.
 
 | Audit type | Purpose | Source | Details |
 |---|---|---|---|
-| **Dictionary audit** | Test how much vocabulary a *dhātuḥ* can generate | Monier-Williams and Apte | Curated sample of *dhātavaḥ*; counts derivative spread in the dictionaries |
+| **Dictionary audit** | Test how much vocabulary a *dhātuḥ* can generate | Standard Sanskrit dictionaries | Curated sample of *dhātavaḥ*; counts derivative spread in the dictionaries |
 | **प्रयोग (*prayoga*) audit** | Test how *dhātavaḥ* actually work in Sanskrit use | Digital Corpus of Sanskrit | Parsed corpus; counts actual verb-form occurrences and distinct bonding patterns |
 
-The dictionary audit asks a dictionary question: when a *dhātuḥ* is listed in Monier-Williams or Apte, how many derivative forms does the dictionary show it generating? The *prayoga* audit asks a use-question: when Sanskrit texts are parsed, which *dhātavaḥ* actually appear, how often do they appear, and how many different bonding patterns do they enter?
+The dictionary audit asks a dictionary question: when a *dhātuḥ* is listed in a standard Sanskrit dictionary, how many derivative forms does the dictionary show it generating?[NOTE: dictionary-audit-sources] The *prayoga* audit asks a use-question: when Sanskrit texts are parsed, which *dhātavaḥ* actually appear, how often do they appear, and how many different bonding patterns do they enter?
 
 The working record for the *prayoga* audit is the Digital Corpus of Sanskrit: 15,900 parsed Sanskrit files and more than a million verb-form occurrences.[NOTE: prayoga-audit-valency] The corpus includes familiar materials such as the *Ṛgveda*, the *Atharvaveda* Śaunaka, the *Mahābhārata*, and the *Rāmāyaṇa*, along with a much wider parsed Sanskrit record. The corpus is useful here because its files do more than preserve surface words. Where the parsing permits it, a verbal form is linked back to the *dhātuḥ* label behind the form and tagged for the *upasargaḥ* (उपसर्गः) and broad *pratyayaḥ* (प्रत्ययः) class involved.
 
@@ -229,7 +229,7 @@ The first result is that the corpus is not flat. A small set of atoms carries ve
 
 These are measured bonding counts, not prestige rankings.
 
-The second result is that the two independent instruments agree. On the matched Monier-Williams subset, the dictionary audit and the *prayoga* audit have a correlation value of **+0.66**. That means the two audits move together strongly: atoms that generate widely in the dictionaries also tend to bond widely in actual Sanskrit use. While distinct in their methods, both audits see the same signal: the same compact atoms keep generating, bonding, and appearing.
+The second result is that the two independent instruments agree. On the matched dictionary subset, the dictionary audit and the *prayoga* audit have a correlation value of **+0.66**. That means the two audits move together strongly: atoms that generate widely in the dictionaries also tend to bond widely in actual Sanskrit use. While distinct in their methods, both audits see the same signal: the same compact atoms keep generating, bonding, and appearing.
 
 The third result is the tier structure. The corpus-visible *dhātuḥ* labels arrange into three empirical groups. The chart makes the skew visible: a small polyvalent tier carries most actual use, while the long tail remains preserved as specialist material.
 
