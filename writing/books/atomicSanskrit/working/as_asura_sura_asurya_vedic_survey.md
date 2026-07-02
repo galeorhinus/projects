@@ -67,7 +67,7 @@ These are not rivals to be adjudicated by date; §6 shows how both land on the s
 - **Varuṇa:** RV 1.24.14 (voc.), 2.27.10 ✅ · *asuryā́ṇi* self-declaration at RV 4.42.2 ✅
 - **Mitra / Mitra-Varuṇa (dual):** RV 7.65.2 (nom. du. *asurā*), 5.63.3 (gen. sg. *asurasya*, of the rain-power) ✅
 - **Agni:** RV 3.3.4, 4.2.5, 5.12.1, 5.15.1 ✅
-- **Indra:** RV 1.174.1 (voc.), 3.38.4 ✅
+- **Indra:** RV **1.174.1, 8.90.6, 10.96.11, 10.99.12** — all vocative (Hale's four secure Indra-*asura* verses). ✅ *(Correction, verified 2026-07-02: RV 3.38.4, previously listed here, is **disputed** — Hale files it as uncertain-referent, possibly Viśvarūpa, not Indra; dropped as a clean case. Bhargava's per-deity "9" above counts *asura* + *asurya* / *asuratva* forms together; Hale's *asura*-epithet count for Indra is 4.)* Indra is called *asura* **natively only in the RV**; the AV (20.32.1c = RV 10.96.11) and SV (2.762a = RV 8.90.6) each carry one Indra-*asura* line **only by borrowing** an RV verse; the YV has none — there the *asuras* are the enemies Indra slays.
 - **Savitṛ / Sūrya:** RV 1.35.7, 1.35.10, 1.110.3, 4.53.1 ✅
 - **Dyaus · Rudra · Soma · Maruts · Vāyu · Ādityas · Apām Napāt:** named among *asura*-bearers in the general lists; ❓ pinpoint locators UNVERIFIED (in Hale)
 - **Plural / all devāḥ collectively:** RV 3.55 (all 22 vv.), refrain *mahád devā́nām asuratvám ékam*, "Great and single is the *asura*-hood of the gods" ✅
