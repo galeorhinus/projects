@@ -14,17 +14,17 @@ A survey of the *asura* / *sura* / *asurya* word-family across the Vedic corpus 
 
 ## 1. The core thesis
 
-> **The book uses the *laukika* *asura* — the masculine sovereign who hoards and contains. The asuric is defined by that action, not by the word's etymology.**
+> **The book takes the two senses of *asura* head-on: it separates them by *domain* and orders them by *Indic* chronology — and the difference is *accretion, not drift.* The asuric is defined by an action — hoarding, containment — not by the word.**
 
-**The register is declared, not argued.** We live in the *laukika* domain — the world of the Itihāsa-Purāṇa, the corpus Vyāsa entrusted to the Sūta line when he divided the Vedas' protection (§5). In its stories *asura* is unambiguous: the **masculine sovereign who hoards and contains** — Hiraṇyakaśipu, Rāvaṇa, and their kind. That is the meaning the book uses — not as the *original* or *etymological* sense, but as the *operative* sense of the domain we actually inhabit.
+**Two senses, two domains.** In the **vaidika** domain — the eternal, invariant Veda — *asura* is the **sovereign lord** (Varuṇa, Indra, Agni). In the **laukika** domain — the worldly stories, the Itihāsa-Purāṇa — *asura* is the **masculine sovereign who hoards and contains** (Hiraṇyakaśipu, Rāvaṇa). Both senses are real; they live in two different domains. *(The morphological derivation — *asu + ra* vs *a + sura* — the continuum has rightly debated for millennia; the book takes the two senses head-on but need not settle that derivation, because domain and accretion do the work.)*
 
-**The etymology is the continuum's to debate — not the book's.** The vaidika derivations (*asu + ra*, "life-force / life-lord"; *a + sura*, "not-*sura*") have been argued for millennia — Yāska, the Uṇādi-sūtras, the Prātiśākhyas, Sāyaṇa — and rightly so. The book honors that debate and declines to enter it. *You cannot be wrong about an etymology you explicitly refuse to settle.* (This is stronger than "etymology-independent": the book does not fight the etymology war at all.)
+**The difference is *added stories*, not *changed meaning*.** Nothing in the Vedas changed. The **language (bhāṣā) did not change.** What changed is the **laukika story-corpus, which grew** — the **Mahābhārata was added**, the Purāṇas accreted — over the tradition's **own** internal sequence (Vyāsa divides the Vedas and composes the Mahābhārata at the Dvāpara–Kali junction). This is **Indic chronology** — internal-frame ordering — not the pyramid's calendar. So *asura* did not "drift from god to demon": a *new body of stories was added*, and in it *asura* carries a consistent pattern. **The pyramid's account needs semantic drift (decay); the book's needs only accretion (growth) — and accretion is the opposite of decay** (§2.5, §4).
 
-**The vaidika layer is the deeper grounding, not the claim.** That the laukika hoarder is no arbitrary villain but the crystallization of the Veda's own structure — sovereignty praised (Varuṇa the measurer, who *releases*), withholding condemned (Vṛtra dams; the Paṇis hoard) — is *supporting depth* (Ch 3 / Second Shanti), not the load-bearing point. **The Veda does not condemn power; it condemns blocked flow.** The laukika *asura* is that condemnation given a face.
+**The book uses the pattern in the accreted stories.** Across the added laukika corpus the *asura* is the same figure — the **masculine sovereign who hoards and contains**. That figure is the **pyramid**; its occupant is the **male apex**. This is the meaning the book operationalizes.
+
+**The vaidika grounds it; it does not carry it.** That the laukika hoarder is no arbitrary villain but the crystallization of the Veda's own structure — power praised (Varuṇa the measurer, who *releases*), withholding condemned (Vṛtra dams; the Paṇis hoard) — is *supporting depth* (Ch 3 / Second Shanti). **The Veda does not condemn power; it condemns blocked flow.** The laukika *asura* is that condemnation given a face.
 
 **On *asuratva*.** The *-tva* abstract (असुरत्व) lets the book speak of a **mode / condition** — asura-*ness* — not a fixed people or lineage. The suffix alone proves nothing; the *usage* (the sovereign who hoards) carries the sense. The pyramid is *asuratva* wearing an institutional face.
-
-**The vulnerability dissolves.** The old worry — "you built your antagonist-word on a term the Veda applies to the highest gods" — no longer bites: the book never claims the Vedic/etymological sense. It declares the laukika sense and grounds it in the Veda's *structure* without adjudicating the *word*.
 
 **A subclaim, not a new Twenty Claim.** Both external reviews (2026-07-01) note this overlaps the existing pyramid-claims group (annotated TOC); deploy it as a refinement there, not as a 21st Claim. Working form: *"The asuric is a mode — asuratva, the hoarding of what should flow — not a word, an etymology, or a people. The book uses the laukika asura: the masculine sovereign who contains."*
 
@@ -53,6 +53,15 @@ The Sanskrit marks the same move in miniature: to name an *individual* withholde
 ### 2.4 Precision on scope
 "Laukika = cyclical" holds for the laukika **narrative** (itihāsa-purāṇa). The laukika *also* houses the analytical *śāstra* (Pāṇini's grammar, the darśanas), which is not cyclical-narrative. Clean statement: **the laukika *narrative* is the cyclical, specific register; the vaidika is the timeless, abstracted register.** This ties to *sabhyata* / dispersive history — the vaidika is maximal abstraction (the law, no name); the laukika names the instance for a given turn of the wheel.
 
+### 2.5 Fixed vs. accretive: the difference is *added stories*, not drift
+The two domains differ not only as eternal-vs-cyclical but in how their **content behaves**:
+- **Vaidika content is fixed.** The Vedas are invariant — nothing added, nothing changed, ever. (The *maṇḍalas* are functionally differentiated, never chronological strata.)
+- **Laukika content is accretive.** The story-corpus **grows** — the **Mahābhārata was added**, the Purāṇas accreted — over the tradition's **own** internal sequence (Vyāsa divides the Vedas and composes the Mahābhārata at the Dvāpara–Kali junction).
+
+Here the book uses **Indic chronology** — the tradition's internal-frame ordering (*before / after* within its own account) — while refusing the **pyramid's calendar** (BCE dates, "strata"). Internal ordering of *laukika accretion* is legitimate; calendar-dating of Indic texts is not. (Note the split: the **vaidika** carries *no* chronology — it is fixed; the **laukika** carries an *Indic internal* chronology — it accretes.)
+
+**The polemical payoff — accretion, not drift.** The pyramid explains the two senses of *asura* as **semantic drift** (meaning decaying over time; the language unstable). The book replaces drift with **accretion**: the Veda stayed fixed, the **language (bhāṣā) stayed fixed**, and the *laukika story-corpus grew*. *asura* did not change meaning — a new body of stories was **added**, and in it *asura* carries a consistent pattern. **Accretion is the opposite of decay** — which is exactly the book's spine. Added stories ≠ changed meaning ≠ decayed language.
+
 ---
 
 ## 3. The *asura* evidence, distilled *(full detail + sources in the survey)*
@@ -70,7 +79,7 @@ The Sanskrit marks the same move in miniature: to name an *individual* withholde
 
 ## 4. Why the "inconsistency" is the proof (the jiu-jitsu)
 
-The pyramid would read *asura* = lord (Veda) and *asura* = demon (Purāṇa) as a contradiction, or as "semantic drift over time." The book reads it as **confirmation of the thesis**: the *same word* runs both ways precisely because the word is not what carries the charge — the **action** is. Sovereignty is praised; containment is condemned; and the one word can name either because *asura* is a *station of power*, while *asuratva* is a *mode of using it*. The tradition's own two etymologies and its *asura*/*āsura* grammar are the internal evidence that the discipline already knew this.
+The pyramid reads *asura* = lord (Veda) and *asura* = hoarder (the worldly stories) as a contradiction — and explains it as **semantic drift over time** (meaning decaying, language unstable). The book takes the two senses **head-on** and gives the better account: **domain + accretion** (§2.5). The Veda stayed fixed; the language stayed fixed; the *laukika story-corpus grew*. The two senses coexist in two domains, and the difference is *added stories*, not *changed meaning*. The one word can carry both because *asura* is a *station of power* while *asuratva* is a *mode of using it* — and the accreted stories fix the pattern the book uses: the sovereign who hoards. **Accretion, not drift** — the pyramid's explanation requires decay; the book's requires none.
 
 **And the thesis does not depend on winning the etymology.** Under *either* indigenous parse — *asu + ra* ("life-lord") or *a + sura* ("not-light") — the shift from the sovereign who *measures* (Varuṇa) to the one who *walls up the flow* (Vṛtra) is identical. Containment is the charge under both derivations, so the argument is **etymology-independent**: the *asu + ra* tradition need not be defeated, only observed to change nothing. *(External review, 2026-07-01.)*
 
@@ -144,7 +153,7 @@ The composite figure carries the whole story. The **eternal vaidika** is the sin
 ## 6. Deployment plan
 
 ### 6.1 Ch 0 — a short reading-protocol (not a philology chapter)
-Ch 0 does **one** thing with *asura*: it **declares the register.** We live in the *laukika* domain; in its stories — the Itihāsa-Purāṇa that Vyāsa entrusted to the Sūta line when he divided the Vedas' protection — *asura* clearly means **the masculine sovereign who hoards and contains.** That is the meaning the book uses. The etymology (the *asu+ra* / *a+sura* debate) is acknowledged as something the continuum has *rightly* debated, and set aside — *not the book's point.*
+Ch 0 takes the two senses of *asura* **head-on**, in one short passage, and resolves them by **domain + Indic chronology**. In the eternal, invariant **Vedas**, *asura* is the sovereign lord; in the **laukika** stories — the Itihāsa-Purāṇa that Vyāsa entrusted to the Sūta line when he divided the Vedas' protection — *asura* is the masculine sovereign who **hoards and contains.** The difference is **added stories, not changed meaning**: the Vedas didn't change, the **language didn't change**, the laukika story-corpus **grew** (the Mahābhārata added). *Accretion, not drift.* The morphological etymology (*asu+ra* / *a+sura*) the continuum has *rightly* debated — the book acknowledges it and need not settle it, because domain and accretion do the work. The book then uses the **pattern** in the added stories: the hoarding male sovereign = the pyramid.
 
 This doubles as the book's **contested-words rule** (external review, 2026-07-01): for *asura*, *ārya*, *dhātu*, *māyā*, *saṃskṛtam*, the English label is never the authority — **function, action, and architecture decide.** Ch 0 teaches the reader to read the *deed*, not the label; Ch 3 then prosecutes containment. The three reading-rules, compactly: (1) functional, not chronological; (2) action, not label; (3) eternal law + cyclical instance.
 
