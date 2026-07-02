@@ -14,19 +14,19 @@ A survey of the *asura* / *sura* / *asurya* word-family across the Vedic corpus 
 
 ## 1. The core thesis
 
-> **The asuric is defined by containment — an idea and an action — not by the word or its etymology.**
+> **The book uses the *laukika* *asura* — the masculine sovereign who hoards and contains. The asuric is defined by that action, not by the word's etymology.**
 
-Three supports, each of which the survey establishes:
+**The register is declared, not argued.** We live in the *laukika* domain — the world of the Itihāsa-Purāṇa, the corpus Vyāsa entrusted to the Sūta line when he divided the Vedas' protection (§5). In its stories *asura* is unambiguous: the **masculine sovereign who hoards and contains** — Hiraṇyakaśipu, Rāvaṇa, and their kind. That is the meaning the book uses — not as the *original* or *etymological* sense, but as the *operative* sense of the domain we actually inhabit.
 
-1. **The Sanskrit already says it.** The book's antagonist-term is not *asura* (a labelled being) but ***asuratva*** असुरत्व — the *-tva* abstract, "asura-*ness*, the *mode* of acting." The morphology declares the asuric to be an **operating-mode, not an identity or a label.** The "it's the action, not the word" reading is not imposed; it is what the *-tva* suffix carries.
+**The etymology is the continuum's to debate — not the book's.** The vaidika derivations (*asu + ra*, "life-force / life-lord"; *a + sura*, "not-*sura*") have been argued for millennia — Yāska, the Uṇādi-sūtras, the Prātiśākhyas, Sāyaṇa — and rightly so. The book honors that debate and declines to enter it. *You cannot be wrong about an etymology you explicitly refuse to settle.* (This is stronger than "etymology-independent": the book does not fight the etymology war at all.)
 
-2. **The word itself refuses to settle it.** Two indigenous etymologies stand side by side and were *both* held live by the tradition — Yāska's ***asu + ra*** (*Nirukta* 3.8: "possessing life-breath" → the life-lord, **positive**) and the Sāmaveda-Padapāṭha's ***a + sura*** (the privative, **"not-*sura*"**). A tradition that keeps two competing morphological analyses of one theonym is telling us the *word* is not the arbiter — the **action** is.
+**The vaidika layer is the deeper grounding, not the claim.** That the laukika hoarder is no arbitrary villain but the crystallization of the Veda's own structure — sovereignty praised (Varuṇa the measurer, who *releases*), withholding condemned (Vṛtra dams; the Paṇis hoard) — is *supporting depth* (Ch 3 / Second Shanti), not the load-bearing point. **The Veda does not condemn power; it condemns blocked flow.** The laukika *asura* is that condemnation given a face.
 
-3. **The Vedic usage proves power is not the problem.** *asura* in the Veda is overwhelmingly the sovereign lord; the standalone *sura* "god" does not occur in *any* Saṃhitā. So the clean "*sura* = light / *asura* = dark" binary cannot be the Vedic meaning. What is condemned in the Veda is never *power* — it is *withholding* (see §3).
+**On *asuratva*.** The *-tva* abstract (असुरत्व) lets the book speak of a **mode / condition** — asura-*ness* — not a fixed people or lineage. The suffix alone proves nothing; the *usage* (the sovereign who hoards) carries the sense. The pyramid is *asuratva* wearing an institutional face.
 
-**This closes the vulnerability.** A reviewer who knows the Nirukta/Uṇādi tradition might object that the book built its antagonist-word on a term the Veda applies to the highest gods. The answer: the book was never claiming *asura* means "darkness." It claims *asuratva* — the **mode** — turns dark when it contains. The "inconsistency" is the proof, not the problem (§4).
+**The vulnerability dissolves.** The old worry — "you built your antagonist-word on a term the Veda applies to the highest gods" — no longer bites: the book never claims the Vedic/etymological sense. It declares the laukika sense and grounds it in the Veda's *structure* without adjudicating the *word*.
 
-**Candidate Claim** (for the Twenty Claims): *"The asuric is a mode of action — asuratva, containment, the withholding of what should flow — not a word, an etymology, or a people."*
+**A subclaim, not a new Twenty Claim.** Both external reviews (2026-07-01) note this overlaps the existing pyramid-claims group (annotated TOC); deploy it as a refinement there, not as a 21st Claim. Working form: *"The asuric is a mode — asuratva, the hoarding of what should flow — not a word, an etymology, or a people. The book uses the laukika asura: the masculine sovereign who contains."*
 
 ---
 
@@ -143,15 +143,14 @@ The composite figure carries the whole story. The **eternal vaidika** is the sin
 
 ## 6. Deployment plan
 
-### 6.1 Ch 0 — the reading-protocol (primary home)
-Ch 0 addresses the *vaidika / laukika* framework and the *asura* "inconsistency" **head-on**, and does triple duty as the book's **reading-lesson**. The *asura* case teaches all three of the book's interpretive rules at once:
-1. **Functional, not chronological** — read by domain (eternal / cyclical), not by "early / late."
-2. **Action, not label** — read the *mode* (*asuratva*), not the word or its etymology.
-3. **Eternal law + cyclical instance** — the vaidika holds the law; the laukika names the recurring face.
+### 6.1 Ch 0 — a short reading-protocol (not a philology chapter)
+Ch 0 does **one** thing with *asura*: it **declares the register.** We live in the *laukika* domain; in its stories — the Itihāsa-Purāṇa that Vyāsa entrusted to the Sūta line when he divided the Vedas' protection — *asura* clearly means **the masculine sovereign who hoards and contains.** That is the meaning the book uses. The etymology (the *asu+ra* / *a+sura* debate) is acknowledged as something the continuum has *rightly* debated, and set aside — *not the book's point.*
 
-The two illustrations open the chapter (shelf → rotation) and establish the two-layer picture the whole book will use. The section states "power / sovereignty is never the darkness; **containment** is," and points forward to Ch 3 for the mechanism.
+This doubles as the book's **contested-words rule** (external review, 2026-07-01): for *asura*, *ārya*, *dhātu*, *māyā*, *saṃskṛtam*, the English label is never the authority — **function, action, and architecture decide.** Ch 0 teaches the reader to read the *deed*, not the label; Ch 3 then prosecutes containment. The three reading-rules, compactly: (1) functional, not chronological; (2) action, not label; (3) eternal law + cyclical instance.
 
-**Dependency to manage:** the full *architecture of containment / asuratva* machinery lives in **Ch 3 §3.5–3.6**. Keep **Ch 0 = protocol + demonstration**, **Ch 3 = mechanism** — an intentional forward-reference, not duplication.
+**Fit (external review, having read the current Ch 0):** Ch 0 already carries the Sanskrit-Sun, the seekers, the caretakers, and the fractal setup; a full *asura* evidence-section would crowd it into a philology chapter. Keep Ch 0 to a **short reading-protocol paragraph** (near the end, before the transition to the pyramid). The **illustration** (§5) can open or anchor the chapter; the evidence itself lives in **Ch 3**.
+
+**Dependency to manage:** the full *architecture of containment / asuratva* machinery lives in **Ch 3 §3.5–3.6**. Keep **Ch 0 = the short protocol + the figure**, **Ch 3 = the mechanism and the evidence** — an intentional forward-reference, not duplication.
 
 ### 6.2 Sprinkle — into existing chapters
 - **Ch 3 §3.5–3.6** — Vṛtra's dam + the Paṇis' cave as the Vedic archetypes of containment; *asuratva* as **withholding**; the "measurer / one power, two orientations" refinement (survey §7.2, §7.5).
