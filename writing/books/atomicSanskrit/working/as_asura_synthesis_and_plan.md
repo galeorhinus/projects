@@ -1,6 +1,6 @@
 # *Asura* → Vaidika / Laukika: Synthesis, Framework & Deployment Plan
 
-> **Companion to** [`as_asura_sura_asurya_vedic_survey.md`](as_asura_sura_asurya_vedic_survey.md). That file is the **evidence** (occurrences across all four Vedas, padaccheda + translation, the analytical disciplines, the Prātiśākhyas). **This file is the synthesis, the interpretive framework, the two illustrations, and the chapter-distribution plan** derived from it.
+> **Companion to** [`as_asura_sura_asurya_vedic_survey.md`](as_asura_sura_asurya_vedic_survey.md). That file is the **evidence** (occurrences across all four Vedas, padaccheda + translation, the analytical disciplines, the Prātiśākhyas). **This file is the synthesis, the interpretive framework, the two illustrations, and the chapter-distribution plan** derived from it. A second evidence companion, [`as_vedic_antagonists_table.md`](as_vedic_antagonists_table.md), tables every Vedic antagonist by containment-function (feeds Ch 3 §3.6).
 >
 > **Nothing here is in the manuscript yet.** This is the plan of record, awaiting review. It feeds **Ch 0** (the reading-protocol), **Ch 3 §3.5–3.6** (architecture of containment / *asuratva*), and **Ch 18 §18.7** (the PIE / schism case); the civilizational-scale material is reserved for **Second Shanti**.
 
@@ -55,7 +55,7 @@ So the single figure who "flips" is not a vaidika failure — it is the **laukik
 The Sanskrit marks the same move in miniature: to name an *individual* withholder the Veda shifts from *asura* (the principle / the sovereign) to the derivative ***āsura*** (a specific instance — Namuci, VS 19.34). Word-formation mirrors the domain-move: abstract → specific.
 
 ### 2.4 Precision on scope
-"Laukika = cyclical" holds for the laukika **narrative** (itihāsa-purāṇa). The laukika *also* houses the analytical *śāstra* (Pāṇini's grammar, the darśanas), which is not cyclical-narrative. Clean statement: **the laukika *narrative* is the cyclical, specific register; the vaidika is the timeless, abstracted register.** This ties to *sabhyata* / dispersive history — the vaidika is maximal abstraction (the law, no name); the laukika names the instance for a given turn of the wheel.
+"Laukika = cyclical" holds for the laukika **narrative** (itihāsa-purāṇa). The laukika *also* houses the analytical *śāstra* (Pāṇini's grammar, the darśanas), which is not cyclical-narrative. Clean statement: **the laukika *narrative* is the cyclical, specific register; the vaidika is the timeless, abstracted register.** This ties to *sabhyata* / dispersive history — the vaidika is maximal abstraction (the law, no name); the laukika names the instance for a given turn of the wheel. The same principle shows at the *antagonist* level: the **RV** fights *cosmic* enemies (the enclosing serpent, the cow-penners), the **AV** fights *bedside* enemies (fever, sorcery, household demons) — a shift of **domain register, not chronology** (see [`as_vedic_antagonists_table.md`](as_vedic_antagonists_table.md) §6.3).
 
 ### 2.5 Fixed vs. accretive: the difference is *added stories*, not drift
 The two domains differ not only as eternal-vs-cyclical but in how their **content behaves**:
@@ -97,38 +97,78 @@ The pyramid reads *asura* = lord (Veda) and *asura* = hoarder (the worldly stori
 
 **A method-filter follows.** Because the case rests on *action*, prefer **behaviour-evidence** (Vṛtra dams the waters; the Paṇis hoard the cows; the asuras enclose the earth) over **name-etymology** ("their names *mean* bind / withhold"). Name-etymology arguments re-enter the very etymology war this thesis exists to escape, and weaken the position even when individually true. Read the deed, not the label — the thesis restated as method.
 
+**The whole antagonist-field confirms it — the deed, not the label, marks the enemy.** Across the Vedas the *containment function* is carried by demons *not* called *asura* just as much as by ones who are: **Vṛtra** (encloses the waters — *māyin* / Dāsa / Dānava, **not** *asura* in the RV), **Vala** (the cave), the **Paṇis** (hoard the cattle / light) — none of them *asura*; alongside **Svarbhānu, Pipru, Namuci, Varcin** — who *are*. The label *asura* is **orthogonal** to the antagonist-role; what unifies the enemy across the whole roster is the **deed** — withholding, enclosing, covering, hoarding. That is "action, not word" at the scale of the *entire demon-field*, not just one word's two readings. (Full evidence: [`as_vedic_antagonists_table.md`](as_vedic_antagonists_table.md).)
+
 ---
 
 ## 5. The illustrations
 
+### 5.0 Functional *vibhāga*: one Veda, four streams
+
+The figure should not show the four Vedas as four chronological layers, four equal "books," or four disconnected corpora. It should show the **one Veda distributed by Vyāsa into four functional streams** for preservation, transmission, and deployment as human capacity contracts at the Dvāpara–Kali junction. This is the functional meaning of the *vyāsa-vibhāga* for the book's purposes.
+
+Working four-function table:
+
+| Veda | Function | Ritual / priestly correlate | Book-language |
+|---|---|---|---|
+| **Ṛgveda** | **Invocation / vision / addressed speech** | *Hotṛ* recites the *ṛcaḥ* | The Veda as seen and spoken: praise, address, naming, calling the powers into presence. |
+| **Yajurveda** | **Operation / procedure / embodied action** | *Adhvaryu* measures, prepares, and performs the rite with *yajus* formulae | The Veda as action: mantra joined to measured act. |
+| **Sāmaveda** | **Resonance / elevation / melodic transformation** | *Udgātṛ* sings the *sāman* | The Veda as chant: spoken mantra lifted into patterned vibration. |
+| **Atharvaveda** | **Protection / correction / field-stabilization** | *Brahman* oversees, guards the rite, and corrects disturbance | The Veda as protection of the field: healing, averting, consecrating, guarding, restoring balance. |
+
+Textual anchors to verify and cite before manuscript deployment:
+- **Ṛgveda 10.71.11** already distinguishes the sacrificial field through four operations: one attends to the *ṛc*, one sings, one as *brahmā* declares the knowledge of what is to be done, and one measures the sacrifice. This is the strongest Vedic-internal anchor for the four-function reading.
+- **Bhāgavata Purāṇa 1.4.20-21** states that the four divisions named Ṛg, Yajus, Sāma, and Atharva were made separately, calls Itihāsa-Purāṇa the fifth Veda, and assigns the divided streams to Paila, Jaimini, Vaiśampāyana, and Sumantu.
+- **Viṣṇu Purāṇa 3.4** should be checked for the fuller division account and the four-priest / four-Veda functional mapping before any strong manuscript claim lands.
+
+Deployment options:
+- **Figure:** add function labels directly into Illustration 1 or Illustration 2: Ṛg = invocation, Yajus = operation, Sāman = resonance, Atharvan = protection/correction. This makes the one-to-four split visually meaningful instead of merely taxonomic.
+- **Table:** use the four-function table in Ch 0 or an endnote if the figure gets crowded.
+- **Paragraph:** if Ch 0 needs to stay light, one paragraph can state that Vyāsa's division is not a split into four dates but a distribution into four functions. The detailed table can move to the Source and Reference Companion or a figure note.
+
+### 5.0a Ch 0 triad: *vaidika*, *laukika*, *prākṛtika*
+
+The Ch 0 figure discussion should also install the Hindu continuum's three-way handling of continuity and change before the asuric pyramid enters. Keep this as a **triad** — *vaidika*, *laukika*, *prākṛtika* — and do **not** add the asuric category here. Ch 0 should teach the reader how the continuum distinguishes invariant preservation, Sanskritic accretion, and organic life. The asuric pyramid can arrive later as the order that flattens these distinctions into chronology, drift, and decay.
+
+Working Ch 0 body paragraph:
+
+> The Hindu continuum does not need one flat category for all continuity and change. The **vaidika** holds the invariant: the Veda does not change. The **laukika** carries accretion: stories, genres, cases, applications, and named figures grow while Sanskrit remains Sanskrit. The **prākṛtika** carries organic life: local speech, custom, habit, and social form adapt as people live. These are not three stages in a timeline. They are three ways a civilization protects what must not change, extends what can be applied, and lets life move where movement belongs.
+
+Short form for figure text or caption:
+
+> **Vaidika is invariant. Laukika is accretive. Prākṛtika is organic.** The Veda does not change. Sanskrit remains Sanskrit as laukika genres grow. Local life adapts. The pyramid's later move is to flatten these distinctions into chronology and decay.
+
+Placement note: this belongs in Ch 0 near the figure and before the final turn toward the asuric pyramid. It explains why the one Veda can divide, why laukika narrative can accrete, and why prākṛtika life can change without any of that implying decay.
+
 ### 5.1 Illustration 1 — **The One Veda and its Four** (the establishing image)
 
-The single, undivided **eka Veda** — the eternal vaidika unity — beside the **four Vedas** into which it is divided for transmission. The three text-*strata* (Brāhmaṇa, Āraṇyaka, Upaniṣad = *Vedānta*) are **not** separate books; they are layers *within each* of the four:
+The single, undivided **eka Veda** — the eternal vaidika unity — beside the **four functional streams** into which it is divided for transmission. The three text-*strata* (Brāhmaṇa, Āraṇyaka, Upaniṣad = *Vedānta*) are **not** separate books; they are layers *within each* of the four:
 
 ```
    ┌───────────┐          ┌────┐ ┌────┐ ┌────┐ ┌────┐
-   │ THE ONE   │   ═══⇒    │ Ṛg │ │Yaj │ │Sām │ │Ath │   the four
-   │  VEDA     │          └────┘ └────┘ └────┘ └────┘   (corpora)
+   │ THE ONE   │   ═══⇒    │ Ṛg │ │Yaj │ │Sām │ │Ath │   four functional
+   │  VEDA     │          └────┘ └────┘ └────┘ └────┘   streams
    │ (eka Veda)│          each internally: Saṃhitā · Brāhmaṇa ·
    └───────────┘                           Āraṇyaka · Upaniṣad (= Vedānta)
     one, eternal    →     divided for transmission (Vyāsa's vibhāga)
 ```
 
-The four — **Ṛgveda, Yajurveda, Sāmaveda, Atharvaveda** — are corpora. **Brāhmaṇa · Āraṇyaka · Upaniṣad (वेदान्त, *Vedānta*)** are the strata *within* each; *Vedānta* is the crowning Upaniṣadic band, not an eighth object. *(An external review, 2026-07-01, flagged the "seven equal books" version as teaching the wrong structure — corrected here.)*
+The four — **Ṛgveda, Yajurveda, Sāmaveda, Atharvaveda** — are corpora and functional streams: invocation, operation, resonance, and protection/correction. **Brāhmaṇa · Āraṇyaka · Upaniṣad (वेदान्त, *Vedānta*)** are the strata *within* each; *Vedānta* is the crowning Upaniṣadic band, not an eighth object. *(An external review, 2026-07-01, flagged the "seven equal books" version as teaching the wrong structure — corrected here.)*
 
-Design note: this establishing image fixes *what the pieces are* — **one Veda, divided into four**, each internally layered (Saṃhitā → Brāhmaṇa → Āraṇyaka → Upaniṣad/Vedānta). The *division itself* — how the one becomes four, and where the fifth goes — is the subject of §5.2.
+Design note: this establishing image fixes *what the pieces are* — **one Veda, divided into four functional streams**, each internally layered (Saṃhitā → Brāhmaṇa → Āraṇyaka → Upaniṣad/Vedānta). The *division itself* — how the one becomes four, and where the fifth goes — is the subject of §5.2.
 
 ### 5.2 Illustration 2 — **The Vyāsa-vibhāga**: the One divides into Four; a Fifth crosses into the laukika
 
-The composite figure carries the whole story. The **eternal vaidika** is the single undivided Veda (the *eka Veda*), a level band running **anādi → ananta** — time is the *horizontal* axis, and both edges fade to ∞. At the **Kali-junction** — the recurring *vyāsa-vibhāga*, when human capacity contracts — the one Veda **fans into the four** (Ṛgveda at the top → Atharvaveda), which remain in the vaidika band; and a **fifth**, the **Itihāsa-Purāṇa** (the "fifth Veda," the Sūta line), **descends across the vaidika/laukika boundary** into the cyclical wave below. **Guardrail:** this is *not* an origin in time — the Veda is eternally one; the *division* is the cyclical act, repeated at **every** Dvāpara–Kali junction (28 Vyāsas). Mark the split as recurring, or label the panel as the laukika narrative; never as "the four Vedas began at moment T."
+The composite figure carries the whole story. The **eternal vaidika** is the single undivided Veda (the *eka Veda*), a level band running **anādi → ananta** — time is the *horizontal* axis, and both edges fade to ∞. At the **Kali-junction** — the recurring *vyāsa-vibhāga*, when human capacity contracts — the one Veda **fans into four functional streams** (Ṛgveda at the top → Atharvaveda), which remain in the vaidika band; and a **fifth**, the **Itihāsa-Purāṇa** (the "fifth Veda," the Sūta line), **descends across the vaidika/laukika boundary** into the cyclical wave below. **Guardrail:** this is *not* an origin in time — the Veda is eternally one; the *division* is the cyclical act, repeated at **every** Dvāpara–Kali junction (28 Vyāsas). Mark the split as recurring, or label the panel as the laukika narrative; never as "the four Vedas began at moment T."
 
 ```
         अनादि  anādi ←─────────────────────────────→ ananta  अनन्त
    ┈┈┈┌───────────────────────────────────────────────┐┈┈┈
       │  ══ THE ONE VEDA (eka Veda) ══   ⇒  Ṛgveda          │  at the Kali-junction
       │     eternal · undivided · vaidika    Yajurveda      │  the one fans into
-      │                                      Sāmaveda       │  the four (VAIDIKA);
-      │     (time runs left→right,           Atharvaveda    │  each internally:
+      │                                      Sāmaveda       │  four functions
+      │                                      Atharvaveda    │  (VAIDIKA);
+      │     (time runs left→right,                          │  each internally:
       │      anādi → ananta)                                │  Saṃhitā·Brāhmaṇa·
       │                                                     │  Āraṇyaka·Upaniṣad
       │  ⇩ a fifth peels off — Itihāsa-Purāṇa ("5th Veda")  │  (=Vedānta)
@@ -146,7 +186,7 @@ The composite figure carries the whole story. The **eternal vaidika** is the sin
 ```
 
 **Reading the composite figure:**
-- **Upper band — vaidika (eternal).** The single *eka Veda*, then the **four** it divides into (Ṛgveda at the top → Atharvaveda). Time is the **horizontal** axis (**अनादि *anādi* → अनन्त *ananta***, fading to ∞ both edges); the vertical carries **no time**. Ṛgveda-at-top also inverts the geological "oldest-at-bottom" reflex, so the band cannot be misread as strata.
+- **Upper band — vaidika (eternal).** The single *eka Veda*, then the **four functional streams** it divides into (Ṛgveda at the top → Atharvaveda). Time is the **horizontal** axis (**अनादि *anādi* → अनन्त *ananta***, fading to ∞ both edges); the vertical carries **no time**. Ṛgveda-at-top also inverts the geological "oldest-at-bottom" reflex, so the band cannot be misread as strata.
 - **The Dvāpara–Kali junction (*vyāsa-vibhāga*)** — **label this point explicitly on the figure**; it visually anchors the Indic chronology (the continuum's own timekeeping). Where the one becomes four — a **recurring** cyclical act, not a one-time origin. Each of the four is itself internally layered (Saṃhitā → Brāhmaṇa → Āraṇyaka → Upaniṣad/*Vedānta*).
 - **The fifth crosses the boundary.** The **Itihāsa-Purāṇa** (the "fifth Veda," the Sūta line) descends from the vaidika band into the laukika wave — the vaidika→laukika transition, embodied. (Vyāsa *divides* the vaidika four; he *authors* the laukika fifth.)
 - **Lower band — laukika (cyclical).** The *kaalachakra* / *cakra* sine-wave: **crests = *saṃskṛti*** (flow released; *swastika*), **troughs = *vikṛti*** (flow contained; the **pyramid**).
@@ -171,10 +211,17 @@ This doubles as the book's **contested-words rule** (external review, 2026-07-01
 
 **Fit (external review, having read the current Ch 0):** Ch 0 already carries the Sanskrit-Sun, the seekers, the caretakers, and the fractal setup; a full *asura* evidence-section would crowd it into a philology chapter. Keep Ch 0 to a **short reading-protocol paragraph** (near the end, before the transition to the pyramid). The **illustration** (§5) can open or anchor the chapter; the evidence itself lives in **Ch 3**.
 
-**Dependency to manage:** the full *architecture of containment / asuratva* machinery lives in **Ch 3** (§3.5, plus a **new §3.6** to be added — see §8.8). Keep **Ch 0 = the short protocol + the figure**, **Ch 3 = the mechanism and the evidence** — an intentional forward-reference, not duplication.
+**Dependency to manage:** the full *architecture of containment / asuratva* machinery lives in **Ch 3** (§3.5, plus a **new §3.6** to be added — see §8.8). Keep **Ch 0 = the short protocol + the figure**, **Ch 3 = the pyramid's distortion of the triad plus the Vedic containment evidence** — an intentional forward-reference, not duplication.
 
 ### 6.2 Sprinkle — into existing chapters
-- **Ch 3 — add a new §3.6, "The Vedic Shape of Containment"** (the chapter currently ends at §3.5, "Containment: The Method" — see §8.8): Vṛtra's dam, the Paṇis' cave, and Namuci as the Vedic archetypes of containment; *asuratva* as **the measuring sovereignty turned to withholding** (one power, two orientations); the **boundary vs. enclosure** distinction (constraint that serves *ṛta* vs. capture that hoards); and the governing line — **"The Veda does not condemn power; it condemns blocked flow."** (survey §7.2, §7.5)
+- **Ch 3 — add a new §3.6, "The Vedic Shape of Containment"** (the chapter currently ends at §3.5, "Containment: The Method" — see §8.8). This section should first recall the Ch 0 triad and then add the asuric element:
+
+  > Chapter 0 introduced the Hindu continuum's three-way handling of continuity and change: the vaidika holds the invariant, the laukika accretes, and the prākṛtika moves organically. The pyramid's method is to collapse that triad into a single story of drift. Vaidika becomes "early." Laukika becomes "late." Prākṛtika becomes "natural evolution." Once the distinctions are flattened, the conclusion has already been prepared: Sanskrit must have changed, declined, branched, and been stabilized later by authority. This is containment by category theft.
+
+  After that bridge, §3.6 gives the Vedic archetypes as a **containment triad across the three great goods** — **Vṛtra** encloses the **waters**, **Vala + the Paṇis** hoard the **cattle / light**, **Svarbhānu** darkens the **sun** — each undone by the one heroic verb, **release** (un-cover, open, set free). Then: *asuratva* as **the measuring sovereignty turned to withholding** (one power, two orientations); the **boundary vs. enclosure** distinction (constraint that serves *ṛta* vs. capture that hoards); the pure withholder **Arāti** (niggardliness personified, in *both* RV and AV); and the governing line — **"The Veda does not condemn power; it condemns blocked flow."**
+    - **The eclipse spine is *vaidika*, not merely the book's framing device.** **Svarbhānu** (RV 5.40) — the *āsura* who covers Sūrya with darkness until **Atri restores "the eye of Sūrya"** — is a containment-of-light demon *in the Ṛgveda itself*: the book's Sūrya / Svarbhānu / Rāhu / Atris spine, grounded, and a containment act. This binds §3.6 to the illustration's eclipse-wave (§5) and to the book's spine.
+    - **Two guardrails (honest = unattackable):** (i) claim the containment pattern for the **central cosmic myths** (waters / cattle / light), **not** every demon — the flesh-eaters and disease-demons (rakṣas, piśāca, takman) are *affliction*, not containment, and the AV field is mostly affliction; (ii) **do not call Vṛtra an *asura*** — in the RV he is *māyin* + Dāsa + Dānava, not *asura*.
+    - Full roster + function analysis: [`as_vedic_antagonists_table.md`](as_vedic_antagonists_table.md). (survey §7.2, §7.5)
 - **Ch 18 §18.7** — reinforces the existing case: the *asura / ahura* reversal-and-schism as a **chronology artifact**; the **native etymology** making the PIE reconstruction superfluous; *sura* **absent from all Saṃhitās**; deva/asura as a **structural duality**, not a schism-memory (survey §7.1). **Guardrail (§18.7 currently leans hard on *svar → sura → asura*):** the section need not defeat the *asu + ra* reading — the Vedic sovereign reading stands; the point is that the privative reading is *also* native to the Sanskrit field, and **neither reading changes the functional diagnosis: the asuric mode is containment.**
 - **A figure or endnote** can carry the padaccheda verses (survey §3) so the specifics are on record without loading the prose.
 
@@ -198,7 +245,7 @@ This doubles as the book's **contested-words rule** (external review, 2026-07-01
 
 ## 8. Open items / to decide
 
-1. **Structure — locked.** **One Veda → four Vedic corpora** (Ṛg / Yajur / Sāma / Atharva), each internally layered **Saṃhitā / Brāhmaṇa / Āraṇyaka / Upaniṣad**, with *Vedānta* as the Upaniṣadic culmination — **not** seven equal books (§5.1). Orientation: Ṛgveda at the top, **time on the horizontal axis** (anādi → ananta); this defuses the "layers = sediment / time" reading without a wheel/axle (external review, 2026-07-01). Spec the figure by end-state, not rotation direction.
+1. **Structure — locked.** **One Veda → four functional streams** (Ṛg / Yajur / Sāma / Atharva: invocation / operation / resonance / protection-correction), each internally layered **Saṃhitā / Brāhmaṇa / Āraṇyaka / Upaniṣad**, with *Vedānta* as the Upaniṣadic culmination — **not** seven equal books (§5.1). Orientation: Ṛgveda at the top, **time on the horizontal axis** (anādi → ananta); this defuses the "layers = sediment / time" reading without a wheel/axle (external review, 2026-07-01). Spec the figure by end-state, not rotation direction.
 2. **Ch 0 reconciliation.** How the *asura*/reading-protocol material sits with Ch 0's current content (`as_1_00_seekers.md`) — additive framing, or a restructure? To review before drafting.
 3. **Claim wording** — lock the §1 candidate before it enters the TOC family.
 4. **Figure production** — which chapter slug owns the figure; two-panel vs. animated reveal for the rotation.
