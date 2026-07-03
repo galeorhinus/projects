@@ -42,7 +42,7 @@ The verse belongs to the Svarbhānu sequence in Ṛgveda 5.40. The opening stops
 
 ### `rigveda-5-40-atri-clearing`
 
-**Short:** The middle movement of Ṛgveda 5.40 belongs in Chapter 19: Svarbhānu's darkness is broken, the asurī māyā is dissolved, and Atri finds the hidden Sun through *turīya brahman* before the final Atri finding verse lands in the Epilogue.
+**Short:** The middle movement of Ṛgveda 5.40 belongs in Chapter 19: Svarbhānu's darkness is broken, the āsurī māyā is dissolved, and Atri finds the hidden Sun through *turīya brahman* before the final Atri finding verse lands in the Epilogue.
 
 The same Svarbhānu sequence supplies both the eclipse diagnostic and the closing logic. Ṛgveda 5.40.5 states the wound: Svarbhānu pierces Sūrya with darkness and the worlds become *akṣetravit*, field-blind. The intervening verses do not treat clearing as a mood shift. They lay out a procedure: Indra breaks the asura's *māyā*, and Ṛgveda 5.40.6 says:
 
@@ -311,7 +311,7 @@ The compound **संस्कृत (*saṃskṛta*)** is formed from two morph
 
 The ***kṛ*** dhātu (कृ), to which *sam-* attaches here, is among the most foundational of all Sanskrit *dhātavaḥ*. It is enumerated by Pāṇini in the *Dhātupāṭha* (the canonical inventory of Sanskrit dhātavaḥ) as a member of the *tanādi* class. Its semantic range is wide but consistent: *make, do, create, produce, perform an action, bring into being*. The English verb closest in semantic range is *make* — covering everything from making physical objects to making a poem to making a sound. The Sanskrit derivatives that radiate from this dhātu show how load-bearing it is for the language's vocabulary of action: ***karma*** (the deed, the made-thing, the action), ***kāryam*** (that which is to be done or made), ***kṛti*** (a created work, a composition), ***kartṛ*** (the doer, the agent), ***kāraka*** (the case-relations to a verb that carry the semantic roles of action).
 
-Crucially, ***kṛ*** does not mean *assemble*. Sanskrit has other dhātavaḥ for that operation: *yuj* (to yoke, to join), *sandhā* (to put together). *Kṛ* denotes primary creative action — the bringing into being, not the combinatorial joining of pre-existing parts. This distinction is load-bearing for the translation choices argued below.
+Crucially, ⟪कृ⟫ does not mean *assemble*. Sanskrit has other dhātavaḥ for that operation: ⟪युज्⟫ (*yuj*, to yoke, to join), and *sam-* + ⟪धा⟫ (*dhā*, to put together). ⟪कृ⟫ denotes primary creative action — the bringing into being, not the combinatorial joining of pre-existing parts. This distinction is load-bearing for the translation choices argued below.
 
 The past participle ***kṛta*** (कृत) is the *kṛdanta* formation: *kṛ* + the *-ta* suffix governed by *Aṣṭādhyāyī* 3.2.102 *(niṣṭhā)*. The resulting form means *made, done, created, produced, accomplished*. Used adjectivally or substantively, it denotes the completed state of the *kṛ*-action.
 
@@ -329,7 +329,7 @@ The compound is *karmadhāraya* — adjective-noun in structure, with the prefix
 
 Single-word translations have been considered and rejected:
 
-- ***Assembled*** is rejected outright. Assembly implies the components existed separately first and were then combined. *Kṛ* denotes primary creative action, not combinatorial joining; the components of *saṃskṛtam* are not pre-existing parts brought together but elements brought into being as a system. Translating *saṃskṛtam* as *assembled* imports a semantic field — the workshop, the kit of pre-cut parts — that the original word does not carry.
+- ***Assembled*** is rejected outright. Assembly implies the components existed separately first and were then combined. ⟪कृ⟫ denotes primary creative action, not combinatorial joining; the components of *saṃskṛtam* are not pre-existing parts brought together but elements brought into being as a system. Translating *saṃskṛtam* as *assembled* imports a semantic field — the workshop, the kit of pre-cut parts — that the original word does not carry.
 - ***Constructed*** is available as a secondary descriptor and the book uses *architecture* and *engineering* in adjacent passages. But *constructed* alone compresses *kṛ* toward a building-trade sense and loses the full primary-creation force the dhātu carries.
 - ***Refined*** captures the polysemy's cultivation axis but loses the engineering axis entirely.
 - ***Perfected*** alone loses the *made* sense and risks introducing a moralistic value-judgment that the Sanskrit compound does not carry.
@@ -1424,7 +1424,7 @@ Standard references: For Semitic root-and-pattern morphology, see Kees Versteegh
 
 The ***Dhātupāṭha*** is the canonical enumeration of Sanskrit *dhātavaḥ* organized as an appendix to Pāṇini's *Aṣṭādhyāyī*. The standard count is approximately 1,943 to 2,014 entries depending on the recension (the count varies slightly across the surviving manuscript recensions and across the commentarial recensions; the canonical figure conventionally cited is ~2,000). The *dhātavaḥ* are organized into ten ***gaṇāḥ*** (classes), each *gaṇa* defined by the specific morphological transformations the *dhātavaḥ* undergo in their conjugational forms:
 
-1. ***Bhvādi*** (the *bhū*-and-following class — class 1) — the largest class, containing *dhātavaḥ* that take the *-a-* thematic suffix in conjugation. Includes *bhū* (to be), *gam* (to go), *paṭh* (to read), *yaj* (to sacrifice), and the majority of the *Dhātupāṭha*.
+1. ***Bhvādi*** (the ⟪भू⟫-and-following class — class 1) — the largest class, containing *dhātavaḥ* that take the *-a-* thematic suffix in conjugation. Includes ⟪भू⟫ (to be), ⟪गम्⟫ (to go), ⟪पठ्⟫ (to read), ⟪यज्⟫ (to sacrifice), and the majority of the *Dhātupāṭha*.
 2. ***Adādi*** (the *ad*-and-following class — class 2) — athematic *dhātavaḥ*, conjugated without the *-a-* suffix; the *ad* (to eat) and *as* (to be) class.
 3. ***Juhotyādi*** (the *hu*-and-following class — class 3) — reduplicating *dhātavaḥ* in present-tense formation.
 4. ***Divādi*** (the *div*-and-following class — class 4) — *dhātavaḥ* taking the *-ya-* thematic suffix.
@@ -3820,7 +3820,7 @@ The classification is reproducible: re-running `python3 scripts/analyze_dhatupat
 
 **Edge cases and limitations.** Seven entries (~0.3%) classify as bare-vowel V-pattern structures after stripping — these are special-case Pāṇinian-citation forms (e.g., the bare-vowel dhātavaḥ *i* = इ "to go", *ṛ* = ऋ "to go", *f* in the SLP1 encoding) and are correctly retained as 1-akṣara dhātus. A more granular Pāṇinian analysis would also handle the *cuṭū* (*Aṣṭādhyāyī* 1.3.7) and *laśakvataddhite* (1.3.8) rules for initial-consonant anubandhas in *pratyaya*s, but these rules do not affect dhātu citation specifically and are out of scope for the structural analysis here.
 
-**Cross-validation.** The Sanskrit Heritage Platform's `parts.csv` (at https://github.com/sanskrit/data/blob/master/sanskrit-heritage-site/parts.csv) provides ~11,570 verb stems with their underlying dhātu forms (the source column named `root` gives the anubandha-stripped form per the Sanskrit Heritage convention). Spot-checking the structural-analysis output against this independent lexicon confirms that the *Aṣṭādhyāyī* 1.3.2 + 1.3.3 + 1.3.5 rules implemented here recover the standard underlying dhātavaḥ for the vast majority of *Dhātupāṭha* entries — including canonical cases like *kṛ* (ḍukṛñ → kṛ), *brū* (brūñ → brū), *śri* (śriñ → śri).
+**Cross-validation.** The Sanskrit Heritage Platform's `parts.csv` (at https://github.com/sanskrit/data/blob/master/sanskrit-heritage-site/parts.csv) provides ~11,570 verb stems with their underlying dhātu forms (the source column named `root` gives the anubandha-stripped form per the Sanskrit Heritage convention). Spot-checking the structural-analysis output against this independent lexicon confirms that the *Aṣṭādhyāyī* 1.3.2 + 1.3.3 + 1.3.5 rules implemented here recover the standard underlying dhātavaḥ for the vast majority of *Dhātupāṭha* entries — including canonical cases like ⟪कृ⟫ (ḍukṛñ → ⟪कृ⟫), ⟪ब्रू⟫ (brūñ → ⟪ब्रू⟫), and ⟪श्रि⟫ (śriñ → ⟪श्रि⟫).
 
 **The empirical claim therefore holds at:** the *Dhātupāṭha* inventory concentrates around compact sonomer-count and *mātrā* bands. Three-sonomer atoms are the peak (**58.2%**); four-sonomer atoms are still heavy (**25.7%**); five-sonomer atoms drop to **3.6%**; six-and-above is the cliff at **0.5%**. The 2-*mātrā* envelope carries **46.0%** of the inventory, and through 3 *mātrās* the coverage reaches **94%**. The compression-principle distribution is the empirical signature of an engineered atomic inventory.
 
@@ -3958,7 +3958,7 @@ The 2026-05-25 cleanup corrected the older matrix that still used pre-cleanup sc
 
 ### `vyakarana-etymology`
 
-**Short:** ***Vyākaraṇam*** (व्याकरणम्) = *vi-* (वि-, *apart*) + *ā-* (आ-, *toward*) + *kṛ* (कृ, *to do, to make*) — formed via the verbal stem *vi-ā-kṛ* through the abstract-noun derivation, with literal sense *the act of taking-apart*, *unfolding-apart*, *separating into constituents* — i.e., **analysis**, *de-composition*, not composition. Foundational for the book's polemic against the dogma's *codification* vocabulary: Sanskrit's own name for what Pāṇini did is the opposite operation — the *taking-apart* of a system already present. Sources: Monier-Williams 1899, Apte 1890, Yaska's *Nirukta*, the *Mahābhāṣya*.
+**Short:** ***Vyākaraṇam*** (व्याकरणम्) = *vi-* (वि-, *apart*) + *ā-* (आ-, *toward*) + ⟪कृ⟫ (*kṛ*, *to do, to make*) — formed via the verbal stem *vi-ā-kṛ* through the abstract-noun derivation, with literal sense *the act of taking-apart*, *unfolding-apart*, *separating into constituents* — i.e., **analysis**, *de-composition*, not composition. Foundational for the book's polemic against the dogma's *codification* vocabulary: Sanskrit's own name for what Pāṇini did is the opposite operation — the *taking-apart* of a system already present. Sources: Monier-Williams 1899, Apte 1890, Yaska's *Nirukta*, the *Mahābhāṣya*.
 
 **Deployments:** Ch1 §1.1 (the Bakers' Story / book refrain); Ch1 §1.6 (heroic erasure); Chapter 5 §5.1 (the *vyākaraṇam* / *vaiyākaraṇa* paragraph); Ch10 (the *Dhātupāṭha* as documentation of an inherited inventory); Ch13 §13.3; Ch14 §14.7; Claim #2.
 
@@ -4057,7 +4057,7 @@ The book's productivity-inversion claim — that Sanskrit shows the opposite of 
 
 The frequency-irregularity correlation is one of the most-replicated findings in natural-language morphology. The explanation in the natural-language framework: high-frequency forms are mastered as wholes (and so resist analogical regularization pressure) while low-frequency forms are subject to analogical regularization across generations. Frequency drives idiosyncrasy because frequency-of-use shapes the form — the language is *natural*.
 
-Sanskrit shows the opposite pattern. The most-productive *dhātus* — *kṛ, bhū, gam, sthā, dā, dhā, jñā, hṛ, nī* — are the most structurally minimal (CV / CVC patterns) AND the most paradigmatically regular. There is no idiosyncrasy at the top. *Kṛ* generates *karoti, karma, kartṛ, kāraṇa, kāryam, saṃskāra, prakṛti, vikṛti* through the standard *vibhakti* and *kṛdanta* paradigms; no suppletive forms, no paradigm-breaking irregularities.
+Sanskrit shows the opposite pattern. The most-productive *dhātus* — ⟪कृ⟫, ⟪भू⟫, ⟪गम्⟫, ⟪स्था⟫, ⟪दा⟫, ⟪धा⟫, ⟪ज्ञा⟫, ⟪हृ⟫, ⟪नी⟫ — are the most structurally minimal (CV / CVC patterns) AND the most paradigmatically regular. There is no idiosyncrasy at the top. ⟪कृ⟫ generates *karoti, karma, kartṛ, kāraṇa, kāryam, saṃskāra, prakṛti, vikṛti* through the standard *vibhakti* and *kṛdanta* paradigms; no suppletive forms, no paradigm-breaking irregularities.
 
 The empirical signature in the *Dhātupāṭha* curated sample (138 *dhātus*; full data in `analysis/dhatupatha/data/dhatu_productivity.csv`): Spearman ρ = −0.485 between productivity and sonomer count; CV pattern mean productivity 2.9× the CCVCC pattern's; top-20 dominated by minimal-sonomer patterns (11 of 20 are CV).
 

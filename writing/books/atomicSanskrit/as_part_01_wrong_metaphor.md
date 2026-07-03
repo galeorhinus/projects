@@ -1,6 +1,6 @@
 # Part I — How the Shadow Is Cast
 
-*The asurī māyā.*
+*The āsurī māyā.*
 
 ---
 

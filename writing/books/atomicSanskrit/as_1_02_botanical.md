@@ -1,4 +1,4 @@
-# Chapter 2 — Category Theft and Asurī Māyā
+# Chapter 2 — Category Theft and Āsurī Māyā
 
 ---
 
@@ -6,7 +6,7 @@
 
 The first charge is category theft: Sanskrit was made to answer inside the pyramid's category.
 
-The theft works through **आसुरी माया (*asurī māyā*)**. The charge is not *māyā* itself. Sanskrit knows *māyā* as power, measure, formation, appearance, and skill. The question is purpose. In asuric hands, *māyā* becomes a weapon of concealment: the false category is made to appear natural, and the true category is made to disappear before the evidence is heard.
+The theft works through **आसुरी माया (*āsurī māyā*)**. The charge is not *māyā* itself. Sanskrit knows *māyā* as power, measure, formation, appearance, and skill. The question is purpose. In asuric hands, *māyā* becomes a weapon of concealment: the false category is made to appear natural, and the true category is made to disappear before the evidence is heard.
 
 The pyramid made *saṃskṛti* answer as *prakṛti*. It took an engineered architecture, placed it inside a botanical field, and trained the reader to see growth, drift, ancestry, branches, plant-organs, and late codification where Sanskrit's own categories show created order, calibration, and distributed correction.
 
@@ -28,7 +28,7 @@ The theft is visible in the words nearest the reader. **मातृ (*mātṛ*)
 
 The pyramid hides *saṃskṛti* by splitting Sanskrit in two. Before Pāṇini (पाणिनि), it makes Sanskrit answer as *prakṛti*. After Pāṇini, it makes Sanskrit answer as codification. The repair looks late; the architecture vanishes.
 
-That is *asurī māyā*: not illusion as such, not skill as such, but category-making used for concealment. The theft executes in seven moves. They are not independent slips. They form a single sequence of category-theft.
+That is *āsurī māyā*: not illusion as such, not skill as such, but category-making used for concealment. The theft executes in seven moves. They are not independent slips. They form a single sequence of category-theft.
 
 **First.** Vedic Sanskrit was the naturally spoken language of the people the pyramid calls the *"Aryans"* — the racial category Chapter 3 calls the **Racial Arya Thesis (RAT)**. In the story, these itinerant pastoralists enter the subcontinent, become the founding event of Indic civilization, bring the language, use it, change it, and hand it to their descendants.
 
@@ -144,7 +144,7 @@ The refrain is simple:
 
 > ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.***
 
-The whole case turns on direction. *Codify* runs from disorder toward imposed order; *decode* runs from prior order toward explicit specification. Sanskrit's own word is ***vyākaraṇam*** (व्याकरणम्): *vi-* (वि, *apart*) + *ā-* (आ, *fully*) + *kṛ* (कृ, *to do, to make*) — *unfolding apart*. The ***vaiyākaraṇaḥ*** (वैयाकरणः) is the one who performs that unfolding. Chapter 5 lays out the analytical lineage in detail; Chapter 10 develops Yaska's *agni* decoding as a worked example.
+The whole case turns on direction. *Codify* runs from disorder toward imposed order; *decode* runs from prior order toward explicit specification. Sanskrit's own word is ***vyākaraṇam*** (व्याकरणम्): *vi-* (वि, *apart*) + *ā-* (आ, *fully*) + ⟪कृ⟫ (*kṛ*, *to do, to make*) — *unfolding apart*. The ***vaiyākaraṇaḥ*** (वैयाकरणः) is the one who performs that unfolding. Chapter 5 lays out the analytical lineage in detail; Chapter 10 develops Yaska's *agni* decoding as a worked example.
 
 Pāṇini did not codify Sanskrit. He decoded it. His *Aṣṭādhyāyī* documents the finest surviving decoding of an order already operating. The asuric machinery reverses that direction and calls the reversal *codification*. That is the institutional scale of the same category theft.
 

@@ -19,8 +19,8 @@ The book runs on an eclipse. Sanskrit is the Sun (Sūrya); the Western philologi
 - **Chapter 0 — Zero, Seekers, and the Infinite.** Sanskrit's character before the polemic: a language of seekers, freedom, and infinity.
 - **Chapter 1 — One, ___, and the Finite.** The antagonist: the asuric apex-one, the finite order that casts the shadow.
 
-### Part I — How the Shadow Is Cast (*the asurī māyā*)
-- **Chapter 2 — Category Theft and Asurī Māyā.** A created, calibrated architecture forced first into a botanical tree, then into a codified standard.
+### Part I — How the Shadow Is Cast (*the āsurī māyā*)
+- **Chapter 2 — Category Theft and Āsurī Māyā.** A created, calibrated architecture forced first into a botanical tree, then into a codified standard.
 - **Chapter 3 — Motive and Method.** Why the metaphor survives: three pillars (custody, enclosure, ascent) and containment as the method.
 - **Chapter 4 — The Fourth Abrahamic Religion.** Secular progressivism as the institutional carrier — the church of progress.
 

@@ -38,9 +38,9 @@
 ---
 
 ## Part I — How the Shadow Is Cast
-*The asurī māyā.*
+*The āsurī māyā.*
 
-**Chapter 2 — Category Theft and Asurī Māyā**
+**Chapter 2 — Category Theft and Āsurī Māyā**
 - 2.1 The Category Move
 - 2.2 The Metaphor Underneath
 - 2.3 Where Botany Works
@@ -165,10 +165,10 @@
 **Chapter 12 — Building the *Vākya* (वाक्य): Sanskrit's Molecular Assembly**
 - 12.1 From Verbal Molecule to Sentence Assembly
 - 12.2 The Bonding Procedure
-- 12.3 The *Kṛ* Atom as Flagship
+- 12.3 The ⟪कृ⟫ Atom as Flagship
 - 12.4 Head-Bonds: How *Upasargāḥ* Redirect the Atom
 - 12.5 Tail-Bonds: How *Pratyayāḥ* Stabilize the Molecule
-- 12.6 The *Kṛ* Bonding Matrix
+- 12.6 The ⟪कृ⟫ Bonding Matrix
 - 12.7 From *Śabda* to *Padam*
 - 12.8 From *Padam* to *Vākya*
 - 12.9 Boundary Crossing: *Apabhraṃśa* = Vivimorphosis

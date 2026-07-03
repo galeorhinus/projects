@@ -151,11 +151,11 @@ The book also runs on an *eclipse spine*: Sūrya (Sanskrit) is obscured by the a
 ---
 
 ## Part I — How the Shadow Is Cast
-*The asurī māyā.*
+*The āsurī māyā.*
 
 *How the shadow is cast: the false categories (descended, botanical, codified), the motive behind them, and the formation that operates the machinery.*
 
-**Chapter 2 — Category Theft and Asurī Māyā** — *Names the foundational category theft. Sanskrit belongs to the* saṃskṛti *category; the dogma splits it into natural drift before Pāṇini and codification after. Exposes the botanical metaphor, the* dhātuḥ *mistranslation, and the Pāṇini-as-codifier move as one theft, and names the engineered / encoded / decoded / codified stack.*
+**Chapter 2 — Category Theft and Āsurī Māyā** — *Names the foundational category theft. Sanskrit belongs to the* saṃskṛti *category; the dogma splits it into natural drift before Pāṇini and codification after. Exposes the botanical metaphor, the* dhātuḥ *mistranslation, and the Pāṇini-as-codifier move as one theft, and names the engineered / encoded / decoded / codified stack.*
 
 - 2.1 The Category Move — *The indictment: a created, calibrated architecture forced first into a botanical tree and then into a codified standard; the four-term stack table.*
 - 2.2 The Metaphor Underneath — *The family-tree metaphor that makes languages look botanical by default: plant-organs, branches, daughters, descent, drift, decay.*

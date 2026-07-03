@@ -116,7 +116,7 @@ The world cannot be invited into a discipline its carriers have abandoned.
 
 PIE was an imaginary ancestor. Once it is removed, what remains is not a descendant waiting for a parent. What remains is the architecture itself, three times deployed: first as Vedic corpus, second as Pāṇini's portable decoding, third as contemporary restatement.
 
-The Vedic sequence moves from eclipse to clearing before it reaches celebration. Svarbhānu's darkness has to be broken. The asurī māyā has to be dissolved. Atri finds the hidden Sun through *turīya brahman*, the fourth formulation of disciplined speech.[NOTE: rigveda-5-40-atri-clearing] Only then can the later mantra say that the Atris found what no others could. Life after PIE belongs to that middle work: remove the eclipse-device, clear the field, and re-enter the discipline by which sight becomes possible again.
+The Vedic sequence moves from eclipse to clearing before it reaches celebration. Svarbhānu's darkness has to be broken. The āsurī māyā has to be dissolved. Atri finds the hidden Sun through *turīya brahman*, the fourth formulation of disciplined speech.[NOTE: rigveda-5-40-atri-clearing] Only then can the later mantra say that the Atris found what no others could. Life after PIE belongs to that middle work: remove the eclipse-device, clear the field, and re-enter the discipline by which sight becomes possible again.
 
 The preservation worked. The light remained available for recovery because the architecture held through the darkness.
 
