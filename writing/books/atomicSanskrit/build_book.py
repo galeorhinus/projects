@@ -18,6 +18,7 @@ Usage:
   python3 build_book.py assemble                     # just concatenate
   python3 build_book.py pdf                          # just render the PDF
   python3 build_book.py stubs --force                # overwrite existing stub files
+  python3 build_book.py promote-svgs                 # promote newer figures/**/*.from*.svg
   python3 build_book.py grayscale-images             # create/update figures/*.gray.png
   python3 build_book.py grayscale-images --force     # recreate all figures/*.gray.png
   python3 build_book.py pdf --layout book-on-letter  # book-mock layout on letter paper
@@ -49,8 +50,16 @@ Grayscale images:
   grayscale-images scans figures/**/*.png, skips *.gray.png sources, and writes
                    sibling *.gray.png files. Existing grayscale files are
                    regenerated only when missing, older than the color source,
-                   or --force is passed. PDF assembly prefers *.gray.png when
-                   present, then *.png, then the original SVG link.
+                   or --force is passed. PDF assembly prefers current
+                   *.gray.png when present, then current *.png, then the
+                   original SVG link.
+
+SVG source promotion:
+  promote-svgs scans figures/**/*.from*.svg and promotes the newest source
+                   variant to its sibling canonical *.svg when the source is
+                   newer than the canonical. The build pipeline runs this
+                   preflight automatically before assemble/pdf/reference, so
+                   manuscript Markdown can keep linking to stable plain SVGs.
 
 Dependencies:
   - pandoc  (brew install pandoc)
@@ -65,6 +74,7 @@ values there; this script reads from it via pandoc's --metadata-file.
 from __future__ import annotations
 
 import argparse
+import datetime
 import os
 import re
 import shutil
@@ -74,11 +84,18 @@ from pathlib import Path
 
 BOOK_DIR = Path(__file__).resolve().parent
 BUILD_DIR = BOOK_DIR / "build"
+FIGURES_DIR = BOOK_DIR / "figures"
 METADATA_FILE = BOOK_DIR / "as_book.yaml"
 REFERENCE_METADATA_FILE = BOOK_DIR / "as_reference.yaml"
 REFERENCE_FRONT_FILE = BOOK_DIR / "as_reference_front.md"
 REFERENCE_APPENDIX_GLOB = "as_reference_*.md"
 PREAMBLE_TEMPLATE = BOOK_DIR / "templates" / "devanagari-preamble.tex.in"
+
+# Reuse the existing figure lineage comment writer. The helper lives under
+# figures/_shared, so expose figures/ as an import root for this script.
+if str(FIGURES_DIR) not in sys.path:
+    sys.path.insert(0, str(FIGURES_DIR))
+from _shared.lineage import inject_lineage_comment
 
 # Make sure common macOS TeX install locations are in PATH — some shells
 # (especially non-login zsh sessions) don't pick up /Library/TeX/texbin
@@ -225,6 +242,63 @@ def wrap_scripts_for_latex(md_text: str) -> str:
 
 
 PDF_IMAGE_RE = re.compile(r"(!\[[^\]]*\]\()([^)\s]+\.(?:svg|png))(\)(?:\{[^}\n]*\})?)")
+PDF_IMAGE_MAX_WIDTH_PX = 1800
+FROM_SVG_RE = re.compile(r"^(?P<base>.+)\.from[-_](?P<chain>[A-Za-z0-9_-]+)\.svg$")
+
+
+def parse_from_svg_source(path: Path) -> tuple[Path, str] | None:
+    """Return (canonical_path, lineage_chain) for a figures/*.from*.svg source.
+
+    The repository has both hyphen and underscore variants in circulation:
+    `name.from-cd.svg`, `name.from-py-cd.svg`, and a few `name.from_cd.svg`
+    files. Treat both separators as source-stage markers while writing the
+    same lineage comment the existing manual promoter uses.
+    """
+    match = FROM_SVG_RE.match(path.name)
+    if not match:
+        return None
+    base = match.group("base")
+    chain = re.sub(r"[-_]+", " → ", match.group("chain"))
+    return path.parent / f"{base}.svg", chain
+
+
+def cmd_promote_svgs(force: bool = False) -> int:
+    """Promote newer figures/**/*.from*.svg files to canonical sibling SVGs."""
+    if not FIGURES_DIR.exists():
+        print(f"Missing: {FIGURES_DIR.relative_to(BOOK_DIR)}", file=sys.stderr)
+        return 1
+
+    grouped: dict[Path, list[tuple[Path, str]]] = {}
+    for source in sorted(FIGURES_DIR.rglob("*.from*.svg")):
+        parsed = parse_from_svg_source(source)
+        if parsed is None:
+            continue
+        canonical, chain = parsed
+        grouped.setdefault(canonical, []).append((source, chain))
+
+    promoted = skipped = 0
+    for canonical, candidates in sorted(grouped.items()):
+        source, chain = max(candidates, key=lambda item: item[0].stat().st_mtime)
+        if (
+            not force
+            and canonical.exists()
+            and canonical.stat().st_mtime >= source.stat().st_mtime
+        ):
+            skipped += 1
+            continue
+
+        content = source.read_text(encoding="utf-8")
+        date = datetime.date.today().isoformat()
+        promoted_content = inject_lineage_comment(content, chain, source.name, date)
+        canonical.write_text(promoted_content, encoding="utf-8")
+        promoted += 1
+        print(
+            f"  promote {source.relative_to(BOOK_DIR)}"
+            f" -> {canonical.relative_to(BOOK_DIR)}"
+        )
+
+    print(f"SVG promotion: {promoted} updated, {skipped} already current.")
+    return 0
 
 
 def gray_png_path(path: Path) -> Path:
@@ -235,21 +309,29 @@ def prefer_png_images_for_pdf(md_text: str) -> str:
     """Use grayscale/raster siblings for PDF builds when available.
 
     Manuscript sources stay canonical with SVG links. The assembled Markdown
-    handed to Pandoc uses `figure.gray.png` when it exists, then `figure.png`
-    when it exists beside `figure.svg`, preserving the caption and any trailing
-    Pandoc image attributes.
+    handed to Pandoc uses `figure.gray.png` when it exists and is current,
+    then `figure.png` when it exists beside `figure.svg` and is current,
+    preserving the caption and any trailing Pandoc image attributes. A PNG is
+    "current" only when it is at least as new as the source image it replaces;
+    this prevents stale PNG fallbacks from hiding a freshly promoted SVG.
     """
+    def current(candidate: Path, source: Path) -> bool:
+        return candidate.exists() and candidate.stat().st_mtime >= source.stat().st_mtime
+
     def replace(match: re.Match) -> str:
         prefix, image_path, suffix = match.groups()
         source_path = BOOK_DIR / image_path
         if source_path.name.endswith(".gray.png"):
             return match.group(0)
         gray_path = gray_png_path(source_path)
-        if gray_path.exists():
+        if current(gray_path, source_path):
             return f"{prefix}{gray_path.relative_to(BOOK_DIR).as_posix()}{suffix}"
         if source_path.suffix.lower() == ".svg":
             png_path = source_path.with_suffix(".png")
-            if png_path.exists():
+            gray_png = gray_png_path(png_path)
+            if current(gray_png, source_path):
+                return f"{prefix}{gray_png.relative_to(BOOK_DIR).as_posix()}{suffix}"
+            if current(png_path, source_path):
                 return f"{prefix}{png_path.relative_to(BOOK_DIR).as_posix()}{suffix}"
         return match.group(0)
 
@@ -258,14 +340,29 @@ def prefer_png_images_for_pdf(md_text: str) -> str:
 
 def grayscale_command(source: Path, target: Path) -> list[str] | None:
     if magick := shutil.which("magick"):
-        return [magick, str(source), "-colorspace", "Gray", "-strip", str(target)]
+        return [
+            magick,
+            str(source),
+            "-colorspace", "Gray",
+            "-resize", f"{PDF_IMAGE_MAX_WIDTH_PX}x>",
+            "-strip",
+            str(target),
+        ]
     if convert := shutil.which("convert"):
-        return [convert, str(source), "-colorspace", "Gray", "-strip", str(target)]
+        return [
+            convert,
+            str(source),
+            "-colorspace", "Gray",
+            "-resize", f"{PDF_IMAGE_MAX_WIDTH_PX}x>",
+            "-strip",
+            str(target),
+        ]
     if sips := shutil.which("sips"):
         gray_profile = Path("/System/Library/ColorSync/Profiles/Generic Gray Profile.icc")
         if gray_profile.exists():
             return [
                 sips,
+                "--resampleWidth", str(PDF_IMAGE_MAX_WIDTH_PX),
                 "-s", "format", "png",
                 "-m", str(gray_profile),
                 str(source),
@@ -627,7 +724,12 @@ def clean_chapter(text: str, canonical_title: str) -> str:
     return text.strip() + "\n"
 
 
-def cmd_assemble(endnotes_mode: str = "full") -> int:
+def cmd_assemble(endnotes_mode: str = "full", promote_svgs: bool = True) -> int:
+    if promote_svgs:
+        rc = cmd_promote_svgs(force=False)
+        if rc != 0:
+            return rc
+
     BUILD_DIR.mkdir(exist_ok=True)
     # Suffix the assembled .md with the endnotes mode so full and short
     # variants can coexist as separate intermediate artifacts.
@@ -745,27 +847,23 @@ def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full") -> int:
     layout_suffix = "" if layout == "letter" else f".{layout}"
     pdf_path = BUILD_DIR / f"atomic_sanskrit{layout_suffix}{notes_suffix}.pdf"
 
-    # Auto-assemble before rendering if the assembled markdown is missing or
-    # any source chapter is newer than the assembled file. Cheap (assembly
-    # is just concatenation) and guarantees the PDF reflects current sources.
-    needs_assemble = not md_path.exists()
-    if md_path.exists():
-        md_mtime = md_path.stat().st_mtime
-        for entry in ASSEMBLY:
-            filename = entry["file"]
-            if filename is None:
-                continue
-            source = BOOK_DIR / filename
-            if source.exists() and source.stat().st_mtime > md_mtime:
-                needs_assemble = True
-                break
-        if not needs_assemble and METADATA_FILE.exists() and METADATA_FILE.stat().st_mtime > md_mtime:
-            needs_assemble = True
-    if needs_assemble:
-        print("Sources newer than assembled markdown — running assemble first.")
-        rc = cmd_assemble(endnotes_mode=endnotes_mode)
-        if rc != 0:
-            return rc
+    print("Refreshing canonical SVGs before PDF render.")
+    rc = cmd_promote_svgs(force=False)
+    if rc != 0:
+        return rc
+
+    print("Refreshing grayscale figure PNGs before PDF render.")
+    rc = cmd_grayscale_images(force=False)
+    if rc != 0:
+        return rc
+
+    # Always reassemble before rendering. Assembly is cheap, and the image
+    # preference pass depends on sibling figure files (*.gray.png, *.png) whose
+    # timestamps are not represented in the chapter source list.
+    print("Refreshing assembled markdown before PDF render.")
+    rc = cmd_assemble(endnotes_mode=endnotes_mode, promote_svgs=False)
+    if rc != 0:
+        return rc
 
     if not have("pandoc"):
         print("pandoc not found. Install via: brew install pandoc", file=sys.stderr)
@@ -830,6 +928,10 @@ def cmd_reference(layout: str = "letter") -> int:
     PDF hierarchy under the Endnotes chapter is clean. Writes
     build/atomic_sanskrit_reference.md and renders the PDF.
     """
+    rc = cmd_promote_svgs(force=False)
+    if rc != 0:
+        return rc
+
     BUILD_DIR.mkdir(exist_ok=True)
     if not REFERENCE_FRONT_FILE.exists():
         print(f"Missing: {REFERENCE_FRONT_FILE.name}", file=sys.stderr)
@@ -941,7 +1043,7 @@ def main() -> int:
     )
     parser.add_argument(
         "phase",
-        choices=["stubs", "assemble", "pdf", "all", "reference", "grayscale-images"],
+        choices=["stubs", "assemble", "pdf", "all", "reference", "promote-svgs", "grayscale-images"],
         nargs="?",
         default="all",
         help="Pipeline phase to run (default: all). 'reference' builds the "
@@ -978,6 +1080,8 @@ def main() -> int:
         return cmd_pdf(layout=args.layout, endnotes_mode=args.endnotes)
     if args.phase == "reference":
         return cmd_reference(layout=args.layout)
+    if args.phase == "promote-svgs":
+        return cmd_promote_svgs(force=args.force)
     if args.phase == "grayscale-images":
         return cmd_grayscale_images(force=args.force)
     # all

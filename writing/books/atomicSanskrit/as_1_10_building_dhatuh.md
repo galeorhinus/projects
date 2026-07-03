@@ -51,7 +51,7 @@ The verse gives the six characteristics in its own order. The tests proceed in e
 
 That sequence begins with construction because the *dhātuḥ* must first be visible as an assembled unit. Only then can the six criteria be tested at the atomic scale.
 
-The consequence is large. If the *dhātuḥ* passes the test, Sanskrit's basic semantic unit reveals itself as a thoughtfully assembled sonomeric form rather than a botanical root grown by drift. The *dhātuḥ* becomes an atomic instance of the same architectural discipline the *sūtra-lakṣaṇam* already recognizes in the *sūtra*.
+The consequence is large. If the *dhātuḥ* passes the test, Sanskrit's basic semantic unit reveals itself as a thoughtfully assembled sonomeric form rather than a botanical organ grown by drift. The *dhātuḥ* becomes an atomic instance of the same architectural discipline the *sūtra-lakṣaṇam* already recognizes in the *sūtra*.
 
 ## 10.3 From Sonomers to Semantic Atoms
 
@@ -59,13 +59,13 @@ With selected sonomers as the starting point, the next question is how *varṇā
 
 The *varṇamālā* (वर्णमाला) is the sonomeric inventory. A small cluster of these sonomers creates the **धातुः (*dhātuḥ*)**.
 
-In Chapter 2, the category-theft charge prosecuted the botanical metaphor and reclaimed *dhātuḥ* from the philological mistranslation that calls it a "root." The positive replacement is direct. Sanskrit does not have botanical roots. It has atoms — and the atom is the *dhātuḥ*.
+In Chapter 2, the category-theft charge prosecuted the botanical metaphor and reclaimed *dhātuḥ* from the philological mistranslation that forces it into a plant-category. The positive replacement is direct. Sanskrit does not build vocabulary from botanical organs. It has atoms — and the atom is the *dhātuḥ*.
 
-The metaphor is physical, not biological. Across Indic sciences, *dhātuḥ* denotes the constituent that holds: in *Loha-śāstra* (लोहशास्त्र), the metal that survives extraction; in *Rasaśāstra* (रसशास्त्र) and *Rasāyana-śāstra* (रसायनशास्त्र), the reactive constituent in synthesis; in *Āyurveda* (आयुर्वेद), the structural tissue from which the body is built.[NOTE: rasashastra-chemistry-anticipation][NOTE: saptadhatu-canonical] Furnace, laboratory, body, sentence: the same architectural word. The grammatical *dhātuḥ* belongs in that family. *Dhātuḥ* survived the demotion to "root"; the discipline that accepted the demotion lost access to what the term denoted.
+The metaphor is physical, not biological. Across Indic sciences, *dhātuḥ* denotes the constituent that holds: in *Loha-śāstra* (लोहशास्त्र), the metal that survives extraction; in *Rasaśāstra* (रसशास्त्र) and *Rasāyana-śāstra* (रसायनशास्त्र), the reactive constituent in synthesis; in *Āyurveda* (आयुर्वेद), the structural tissue from which the body is built.[NOTE: rasashastra-chemistry-anticipation][NOTE: saptadhatu-canonical] Furnace, laboratory, body, sentence: the same architectural word. The grammatical *dhātuḥ* belongs in that family. *Dhātuḥ* survived the botanical demotion; the discipline that accepted the demotion lost access to what the term denoted.
 
-The *Dhātupāṭha* (धातुपाठ) is the inventory of semantic atoms. The working inventory here is **2,168 *dhātavaḥ*** from that source.[NOTE: dhatupatha-count-and-ganas] The examples can now be plain: **कृ (*kṛ*)**, to do or make; **गम् (*gam*)**, to go; **भू (*bhū*)**, to be or become; **दृश् (*dṛś*)**, to see; **ज्ञा (*jñā*)**, to know. These are not words. They are the atoms from which words are assembled.
+The *Dhātupāṭha* (धातुपाठ) is the inventory of semantic atoms. The working inventory here is **2,168 *dhātavaḥ*** from that source.[NOTE: dhatupatha-count-and-ganas] The examples can now be plain: **⟪कृ⟫ (*kṛ*)**, to do or make; **⟪गम्⟫ (*gam*)**, to go; **⟪भू⟫ (*bhū*)**, to be or become; **⟪दृश्⟫ (*dṛś*)**, to see; **⟪ज्ञा⟫ (*jñā*)**, to know. These are not words. They are the atoms from which words are assembled.
 
-Comparative perspective sharpens the category: Semitic languages carry consonantal semantic roots, and Tamil grammar recognizes verbal bases.[NOTE: dhatu-cross-linguistic-analogues] What distinguishes the Sanskrit *dhātuḥ* is the full architecture around it: sonomeric inventory, timing, scaffold, bonding, and rule-system.
+Comparative perspective sharpens the category: Semitic languages carry consonantal semantic bases, and Tamil grammar recognizes verbal bases.[NOTE: dhatu-cross-linguistic-analogues] What distinguishes the Sanskrit *dhātuḥ* is the full architecture around it: sonomeric inventory, timing, scaffold, bonding, and rule-system.
 
 The architecture is three-layered:
 
@@ -120,7 +120,7 @@ The hexagon visualization carries the measure. Consonant slots are narrow, short
 
 ![Ten *dhātavaḥ* across the *mātrā* envelope, from the 1-*mātrā* floor to the 5½-*mātrā* cliff.](figures/building_dhatuh/matra_envelope.svg){#fig:building-dhatuh-matra-envelope width=100%}
 
-The figure begins with ऋ (*ṛ*), the minimum atom: a bare short vowel from which ऋषि (*ṛṣi*) and ऋत (*ṛta*) descend. कृ (*kṛ*) adds one consonant; गम् (*gam*) shows the modal 2-*mātrā* envelope; धा (*dhā*) and वाच् (*vāc*) show the productive middle; स्वाद् (*svād*), बाधृ (*bādhṛ*), कुमार् (*kumār*), दीपी (*dīpī*), and ह्लादी (*hlādī*) show the upper slope toward the cliff.
+The figure begins with ⟪ऋ⟫ (*ṛ*), the minimum atom: a bare short vowel from which ऋषि (*ṛṣi*) and ऋत (*ṛta*) descend. ⟪कृ⟫ (*kṛ*) adds one consonant; ⟪गम्⟫ (*gam*) shows the modal 2-*mātrā* envelope; ⟪धा⟫ (*dhā*) and ⟪वाच्⟫ (*vāc*) show the productive middle; ⟪स्वाद्⟫ (*svād*), ⟪बाधृ⟫ (*bādhṛ*), ⟪कुमार्⟫ (*kumār*), ⟪दीपी⟫ (*dīpī*), and ⟪ह्लादी⟫ (*hlādī*) show the upper slope toward the cliff.
 
 A *dhātuḥ* is built from timed sonomers. The shape of the atom is its *mātrā* envelope. That envelope is the timing boundary inside which construction must happen.
 
@@ -132,7 +132,7 @@ That recurring measured pattern is **धातुरचना (*dhāturacanā*)*
 
 ![One *gamādi* *dhāturacanā* scaffold with four different fillings.](figures/building_dhatuh/racana_scaffold.svg){#fig:building-dhatuh-racana-scaffold width=100%}
 
-For example, **गम् (*gam*), नम् (*nam*), पच् (*pac*), and वद् (*vad*)** are four distinct atoms, all inhabiting the same shape: consonantal contact, short-vowel nucleus, consonantal contact <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">. Using Sanskrit's *-ādi* naming habit (*gam*-and-following), this is the **गमादि रचना (*gamādi racanā*)** — the *gamādi* scaffold.[NOTE: panini-adi-naming-convention] The timing is already inside the scaffold.
+For example, **⟪गम्⟫ (*gam*), ⟪नम्⟫ (*nam*), ⟪पच्⟫ (*pac*), and ⟪वद्⟫ (*vad*)** are four distinct atoms, all inhabiting the same shape: consonantal contact, short-vowel nucleus, consonantal contact <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">. Using Sanskrit's *-ādi* naming habit (*gam*-and-following), this is the **गमादि रचना (*gamādi racanā*)** — the *gamādi* scaffold.[NOTE: panini-adi-naming-convention] The timing is already inside the scaffold.
 
 The filled hexagons differ in sonomer or *varṇa*; the scaffold remains identical. The *dhāturacanā* specifies the slots, the sonomers fill them, and the filled scaffold becomes the *dhātuḥ*: a semantic atom built from sonomers.
 
@@ -254,13 +254,13 @@ The *dhātuḥ* is where Sanskrit places semantic force. It is not a sonomeric o
 
 | *Dhātuḥ* | Core force | Sample forms that carry the force |
 |---|---|---|
-| कृ (*kṛ*) | do, make, act | करोति (*karoti*), कर्म (*karma*), कर्तृ (*kartṛ*), कार्य (*kārya*), संस्कार (*saṃskāra*) |
-| भू (*bhū*) | be, become | भवति (*bhavati*), भूत (*bhūta*), भाव (*bhāva*), सम्भव (*saṃbhava*) |
-| गम् (*gam*) | go, move | गच्छति (*gacchati*), गमन (*gamana*), गति (*gati*), आगम (*āgama*), सङ्गम (*saṅgama*) |
-| धा (*dhā*) | place, hold, put | दधाति (*dadhāti*), धातु (*dhātu*), विधान (*vidhāna*), निधान (*nidhāna*) |
-| ज्ञा (*jñā*) | know | जानाति (*jānāti*), ज्ञान (*jñāna*), अज्ञान (*ajñāna*), विज्ञान (*vijñāna*), प्रज्ञा (*prajñā*) |
+| ⟪कृ⟫ (*kṛ*) | do, make, act | करोति (*karoti*), कर्म (*karma*), कर्तृ (*kartṛ*), कार्य (*kārya*), संस्कार (*saṃskāra*) |
+| ⟪भू⟫ (*bhū*) | be, become | भवति (*bhavati*), भूत (*bhūta*), भाव (*bhāva*), सम्भव (*saṃbhava*) |
+| ⟪गम्⟫ (*gam*) | go, move | गच्छति (*gacchati*), गमन (*gamana*), गति (*gati*), आगम (*āgama*), सङ्गम (*saṅgama*) |
+| ⟪धा⟫ (*dhā*) | place, hold, put | दधाति (*dadhāti*), धातु (*dhātu*), विधान (*vidhāna*), निधान (*nidhāna*) |
+| ⟪ज्ञा⟫ (*jñā*) | know | जानाति (*jānāti*), ज्ञान (*jñāna*), अज्ञान (*ajñāna*), विज्ञान (*vijñāna*), प्रज्ञा (*prajñā*) |
 
-The table shows what *sāravat* means at the atomic scale: tiny forms carry immense semantic force. कृ (*kṛ*) alone generates action, actor, object, obligation, refinement, and transformation. भू (*bhū*) carries being and becoming. गम् (*gam*) carries motion into travel, arrival, scripture, and joining.
+The table shows what *sāravat* means at the atomic scale: tiny forms carry immense semantic force. ⟪कृ⟫ (*kṛ*) alone generates action, actor, object, obligation, refinement, and transformation. ⟪भू⟫ (*bhū*) carries being and becoming. ⟪गम्⟫ (*gam*) carries motion into travel, arrival, scripture, and joining.
 
 This is where engineering-poetry enters. Sanskrit does not treat sonomers as interchangeable filler. Flow-actions cluster around liquids and continuants — *sar* (सर्), *cal* (चल्), *car* (चर्), *dru* (द्रु), *plu* (प्लु), *sru* (स्रु), *kṣar* (क्षर्). Abrasion, diminishment, and cutting cluster around harsher sound-shapes — *kṣay* (क्षय), *kṣat* (क्षत), *kṣaṇ* (क्षण्), *kṣam* (क्षम्), *klam* (क्लम्), *kṣud* (क्षुद्), *kṣap* (क्षप्).
 
@@ -276,7 +276,7 @@ Engineering is not the enemy of poetry. Engineering is what lets the poetry land
 
 A *sūtra* must be **विश्वतोमुखम् (*viśvatomukham*)** — facing in every direction. It must apply beyond one narrow case. The atomic equivalent is not universal application in the grammatical sense. It is generative reach: one tiny atom must face many grammatical and semantic directions.
 
-कृ (*kṛ*) is the flagship example. It appears as action in **करोति (*karoti*)**, deed in **कर्म (*karma*)**, agent in **कर्तृ (*kartṛ*)**, what is to be done in **कार्यम् (*kāryam*)**, refinement in **संस्कार (*saṃskāra*)**, nature in **प्रकृति (*prakṛti*)**, cultivated order in **संस्कृति (*saṃskṛti*)**, and distortion in **विकृति (*vikṛti*)**. One atom faces action, object, agent, obligation, refinement, nature, culture, and deformation.
+⟪कृ⟫ (*kṛ*) is the flagship example. It appears as action in **करोति (*karoti*)**, deed in **कर्म (*karma*)**, agent in **कर्तृ (*kartṛ*)**, what is to be done in **कार्यम् (*kāryam*)**, refinement in **संस्कार (*saṃskāra*)**, nature in **प्रकृति (*prakṛti*)**, cultivated order in **संस्कृति (*saṃskṛti*)**, and distortion in **विकृति (*vikṛti*)**. One atom faces action, object, agent, obligation, refinement, nature, culture, and deformation.
 
 The spread demonstrates directional reach through bonding. The *dhātuḥ* remains the identifiable center while *upasargāḥ* and *pratyayāḥ* turn it toward different functions — a chemistry that operates directly through *prakṛti*, *saṃskṛti*, *vikṛti*, and *saṃskāra*.
 
@@ -308,7 +308,7 @@ Living speech normally produces rank-frequency concentration where a few forms c
 
 The central corridor remains *gamādi* <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold">. Roughly two-fifths of the inventory, visible *dhātavaḥ*, measured bonds, and counted uses all pass through that same scaffold.
 
-The compact *krādi* <img src="figures/_shared/icons/scaffold_cv1_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1 scaffold"> and *dhādi* <img src="figures/_shared/icons/scaffold_cv2_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2 scaffold"> scaffolds show the other side of the pattern. They are small in inventory share, but heavy in use because they hold atoms such as कृ (*kṛ*), हृ (*hṛ*), भू (*bhū*), धा (*dhā*), नी (*nī*), या (*yā*), and दा (*dā*). Compact does not mean marginal.
+The compact *krādi* <img src="figures/_shared/icons/scaffold_cv1_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1 scaffold"> and *dhādi* <img src="figures/_shared/icons/scaffold_cv2_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2 scaffold"> scaffolds show the other side of the pattern. They are small in inventory share, but heavy in use because they hold atoms such as ⟪कृ⟫ (*kṛ*), ⟪हृ⟫ (*hṛ*), ⟪भू⟫ (*bhū*), ⟪धा⟫ (*dhā*), ⟪नी⟫ (*nī*), ⟪या⟫ (*yā*), and ⟪दा⟫ (*dā*). Compact does not mean marginal.
 
 The same scaffolds that compress the inventory also carry Sanskrit in use. The *racanā* is not a naming convenience. It is part of the architecture.
 
@@ -320,7 +320,7 @@ The *dhātuḥ* passes the fifth test. It is *viśvatomukham*: one compact atom 
 
 The final test is stability. **अनवद्यम् (*anavadyam*)** means faultless, without defect. At the atomic scale, the defect to test for is loss of identity. If the atom disappears when it bonds, then it was never an atom. If the atom survives bonding and transformation, the architecture has preserved its unit.
 
-The *dhātuḥ* survives. कृ (*kṛ*) remains visible in *karoti*, *karma*, *kartṛ*, *kārya*, *saṃskāra*, *prakṛti*, and *vikṛti*. भू (*bhū*) remains visible in *bhavati*, *bhūta*, *bhāva*, and *saṃbhava*. गम् (*gam*) remains visible in *gacchati*, *gamana*, *gati*, *āgama*, and *saṅgama*. The forms change because bonding changes their grammatical and semantic direction. The atom does not become vague.
+The *dhātuḥ* survives. ⟪कृ⟫ (*kṛ*) remains visible in *karoti*, *karma*, *kartṛ*, *kārya*, *saṃskāra*, *prakṛti*, and *vikṛti*. ⟪भू⟫ (*bhū*) remains visible in *bhavati*, *bhūta*, *bhāva*, and *saṃbhava*. ⟪गम्⟫ (*gam*) remains visible in *gacchati*, *gamana*, *gati*, *āgama*, and *saṅgama*. The forms change because bonding changes their grammatical and semantic direction. The atom does not become vague.
 
 That stability makes the next scale necessary. When the *dhātuḥ* becomes *kriyā*, the rule-system still operates at the sonomeric level. The atom does not enter an undifferentiated word mass. It enters a procedure. The sonomers remain visible enough for operations to act on them.
 
@@ -386,17 +386,17 @@ Activation sonomers arrive, the *dhātuḥ* changes in governed ways, and the fi
 
 The central architectural claim is the ***Atomic Corollary***:
 
-> The *dhātuḥ* (धातुः) is the unit of stable identity in Sanskrit's engineering, holding its structure through bonding without losing its constitutive form. It is a physical constant of the system, not a mutating organic root.
+> The *dhātuḥ* (धातुः) is the unit of stable identity in Sanskrit's engineering, holding its structure through bonding without losing its constitutive form. It is a physical constant of the system, not a mutating organic form.
 
 Each clause carries the argument.
 
 ***Unit of stable identity.*** The *dhātuḥ* (धातुः) is what the *vyākaraṇa* discipline treats as the fundamental semantic atom. Every Sanskrit verb form, every nominal derivative of a verb, every *kṛdanta* (कृदन्त, primary derivative) and every *taddhita* (तद्धित, secondary derivative) formation traces back to a *dhātuḥ*. The *dhātuḥ* is the place where derivation begins and to which morphological analysis returns. It is the unit of identity in the system's combinatorial chemistry.
 
-***Holding its structure through bonding.*** A *dhātuḥ* combines with *upasargāḥ* (उपसर्गाः) and *pratyayāḥ* (प्रत्ययाः) — the bonding chemistry developed at the assembly scale — without losing its identity. Take *kṛ* (कृ). It appears in *karoti* (करोति, does), *kāryam* (कार्यम्, that which is to be done), *kartṛ* (कर्तृ, the doer), *karma* (कर्म, the deed), *saṃskāra* (संस्कार, the consecration), *prakṛti* (प्रकृति, original nature), and *vikṛti* (विकृति, modification). Across these forms, *kṛ* persists as the recognizable atomic unit. The *upasargāḥ* and *pratyayāḥ* attach to it and modify the molecular meaning, but they do not consume the atom. The atom is what comes through every bond intact.
+***Holding its structure through bonding.*** A *dhātuḥ* combines with *upasargāḥ* (उपसर्गाः) and *pratyayāḥ* (प्रत्ययाः) — the bonding chemistry developed at the assembly scale — without losing its identity. Take ⟪कृ⟫ (*kṛ*). It appears in *karoti* (करोति, does), *kāryam* (कार्यम्, that which is to be done), *kartṛ* (कर्तृ, the doer), *karma* (कर्म, the deed), *saṃskāra* (संस्कार, the consecration), *prakṛti* (प्रकृति, original nature), and *vikṛti* (विकृति, modification). Across these forms, ⟪कृ⟫ persists as the recognizable atomic unit. The *upasargāḥ* and *pratyayāḥ* attach to it and modify the molecular meaning, but they do not consume the atom. The atom is what comes through every bond intact.
 
 ***Without losing its constitutive form.*** The *dhātuḥ* (धातुः) does not mutate. The *dhātuḥ* in *karoti* (करोति) is the same *dhātuḥ* in *karma* (कर्म), in *saṃskāra* (संस्कार), in the *Vedas*, in the *Bhagavad Gītā*, in the *Rāmāyaṇa*. The form is the constant; what varies is what bonds to it.
 
-***Physical constant of the system, not a mutating organic root.*** The *vyākaraṇa* discipline's term *dhātu* (धातु) — the same term operating in metallurgy, in *Rasaśāstra*, in *Āyurveda* — places the unit in the engineering category by terminological choice. The mistranslation as "root" imposes botanical decay-and-growth onto a unit the Sanskrit lineage placed in the engineering category. That is the dogma's category theft.
+***Physical constant of the system, not a mutating organic form.*** The *vyākaraṇa* discipline's term *dhātu* (धातु) — the same term operating in metallurgy, in *Rasaśāstra*, in *Āyurveda* — places the unit in the engineering category by terminological choice. The botanical mistranslation imposes decay-and-growth onto a unit the Sanskrit lineage placed in the engineering category. That is the dogma's category theft.
 
 The convergence of names at two adjacent levels is itself the signal. The Sanskrit continuum calls the form-level unit ***akṣara*** (अक्षर) — the imperishable, that which does not flow away, the visible capture of a stable sound-bond, the audiograph of Appendix Part 3 — and the semantic-level unit ***dhātuḥ*** (धातुः) — the constituent constant that holds through bonding. Both names assert the same architectural property: persistence of identity through transformation. The convergence is not coincidence; it is the architecture labeling what is engineered.
 

@@ -48,9 +48,9 @@ The book also runs on an *eclipse spine*: Sūrya (Sanskrit) is obscured by the a
 
 ### ☀ Anti-entropic — *lifts the Botanical plate*
 
-6. **Modern linguistics mistranslated Sanskrit's foundational structural unit.** In Sanskrit grammar ***dhātuḥ*** is the basic atomic unit — the constituent that holds its identity through bonding. The same word does the same work across metallurgy, alchemy/chemistry, biology/physiology, and grammar. European linguists rendered ***dhātuḥ*** as "root" — a botanical organ destined to grow, age, and decay — importing the botanical-evolutionary frame (Claim 5) into a system built to resist it. **Chapter 2 §2.5; Chapter 10.**
+6. **Modern linguistics mistranslated Sanskrit's foundational structural unit.** In Sanskrit grammar ***dhātuḥ*** is the basic atomic unit — the constituent that holds its identity through bonding. The same word does the same work across metallurgy, alchemy/chemistry, biology/physiology, and grammar. European linguists forced ***dhātuḥ*** into a botanical category — importing the botanical-evolutionary frame (Claim 5) into a system built to resist it. **Chapter 2 §2.5; Chapter 10.**
 
-11. **Sanskrit's architecture is atomic and fractal, not biological: *varṇāḥ* are sonomers, *dhātavaḥ* are atoms, *śabdāḥ* are molecules, and the same engineering signature recurs across scale.** Standard linguistics inherits biological vocabulary from the family-tree model (Claim 5): words have *roots* and *stems*; languages *branch* and *decay*. The right metaphor is engineering. The ***varṇāḥ*** function as sonomers; the ***dhātavaḥ*** as atoms that bond into ***śabda*** molecules; sentences as larger structures. The Fractal Corollary: the *dhātuḥ* displays at atomic scale the same *sūtra-lakṣaṇāni* an engineered *sūtra* displays at sentence scale. *(Cross-link: also grounds the Sonomeric Sun.)* **Chapter 10, with the botanical metaphor prosecuted in Chapters 2 and 6.**
+11. **Sanskrit's architecture is atomic and fractal, not biological: *varṇāḥ* are sonomers, *dhātavaḥ* are atoms, *śabdāḥ* are molecules, and the same engineering signature recurs across scale.** Standard linguistics inherits biological vocabulary from the family-tree model (Claim 5): words have plant-organs and stems; languages *branch* and *decay*. The right metaphor is engineering. The ***varṇāḥ*** function as sonomers; the ***dhātavaḥ*** as atoms that bond into ***śabda*** molecules; sentences as larger structures. The Fractal Corollary: the *dhātuḥ* displays at atomic scale the same *sūtra-lakṣaṇāni* an engineered *sūtra* displays at sentence scale. *(Cross-link: also grounds the Sonomeric Sun.)* **Chapter 10, with the botanical metaphor prosecuted in Chapters 2 and 6.**
 
 13. **Sanskrit displays a signature natural drift does not produce: its highest-productivity atoms are structurally minimal *and* paradigmatically regular.** In natural languages, high-frequency forms become idiosyncratically irregular (English *be/have/do*; Latin *esse/ire/ferre*; Greek *eimi/oida/phēmi*) — one of the most-replicated findings in morphology. Sanskrit's most-productive *dhātus* (*kṛ, bhū, gam, sthā, dā, dhā, jñā, hṛ, nī*) are *also* minimal (CV/CVC) *and* regular. Two independent measures confirm the inverse productivity-vs-size signature: Path A (Spearman ρ = −0.485) and Path C (ρ = −0.490 / −0.4334 corpus-wide). Both axes engineered at once — a signature drift does not produce. **Chapter 10 §§10.7–10.11; Appendix Part 6; Source and Reference Companion (`analysis/ganah/`).**
 
@@ -158,10 +158,10 @@ The book also runs on an *eclipse spine*: Sūrya (Sanskrit) is obscured by the a
 **Chapter 2 — Category Theft and Asurī Māyā** — *Names the foundational category theft. Sanskrit belongs to the* saṃskṛti *category; the dogma splits it into natural drift before Pāṇini and codification after. Exposes the botanical metaphor, the* dhātuḥ *mistranslation, and the Pāṇini-as-codifier move as one theft, and names the engineered / encoded / decoded / codified stack.*
 
 - 2.1 The Category Move — *The indictment: a created, calibrated architecture forced first into a botanical tree and then into a codified standard; the four-term stack table.*
-- 2.2 The Metaphor Underneath — *The family-tree metaphor that makes languages look botanical by default: roots, branches, daughters, descent, drift, decay.*
+- 2.2 The Metaphor Underneath — *The family-tree metaphor that makes languages look botanical by default: plant-organs, branches, daughters, descent, drift, decay.*
 - 2.3 Where Botany Works — *Botany works for natural languages that grow through use; Sanskrit must be tested against a different category.*
 - 2.4 *Saṃskṛti* Made to Look Like *Prakṛti* — *The category theft proper: a created order forced into the natural-growth frame.*
-- 2.5 *Dhātuḥ* Is Not a Root — *How nineteenth-century philology rendered* dhātuḥ *as "root," turning a cross-domain term for structural constant into a botanical organ; the displacement restored.*
+- 2.5 *Dhātuḥ* Is an Atom — *How nineteenth-century philology forced* dhātuḥ *into a botanical category, turning a cross-domain term for structural constant into a plant-organ; the displacement restored.*
 - 2.6 Decoding, Not Codification — *Pāṇini decoded an existing architecture; heroic erasure praises him as codifier to make the prior architecture disappear.*
 - 2.7 The Theft Made Visible — *The close: the botanical metaphor is not harmless description; it is the category move that makes Sanskrit downstream.*
 
@@ -206,7 +206,7 @@ The book also runs on an *eclipse spine*: Sūrya (Sanskrit) is obscured by the a
 - 6.5 Engineered Against Entropy — *Sanskrit's architecture explicitly designed to resist* apabhraṃśa; *the layered apparatus named structurally.*
 - 6.6 Variation Is Not Drift — *Prosecutes the dogma's evidentiary claims for internal Vedic drift; variation is engineered design choice within one architecture.*
 - 6.7 The Calibrant Envelope — *The term **calibrant** for the engineered anchoring internal to Sanskrit; three tiers, with English's unanchored drift as the limit case. Ch 13 develops the internal apparatus as the **calibration matrix**; Ch 17 the external scope as **calibrant contact**.*
-- 6.8 The Fall Is Not Only Linguistic — *The engineered* śabda *becoming an organic* apaśabda *in the receiving language —* vivimorphosis; *reclaims "root" for the* apaśabda, *away from* dhātu.
+- 6.8 The Fall Is Not Only Linguistic — *The engineered* śabda *becoming an organic* apaśabda *in the receiving language —* vivimorphosis; *relocates the botanical metaphor to* apaśabda, *away from* dhātu.
 
 ---
 
@@ -341,7 +341,7 @@ The book also runs on an *eclipse spine*: Sūrya (Sanskrit) is obscured by the a
 - 18.5 Mother, Yoke, and the Dictionary Shift — *MW10 Sanskrit-at-terminus evidence;* yoke *as the deflection-proof anchor.*
 - 18.6 *Pratibimba* — *Vivimorphosis *chains as arrow blockquotes; the calibrant /* Pratibimba *triad.*
 - 18.7 PIE Is a Lie — *Asura* — Asuraḥ *worked example with the* PIE is a Lie *escalation.*
-- 18.8 One *Dhātu*, Three PIEs — *The cluster argument: √*dṛś *generates a family the machinery splits across three reconstructed PIE roots.*
+- 18.8 One *Dhātu*, Three PIEs — *The cluster argument: the* dṛś *dhātu generates a family the machinery splits across three reconstructed PIE ancestor-forms.*
 
 ---
 

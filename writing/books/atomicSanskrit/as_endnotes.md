@@ -90,7 +90,7 @@ The quoted mantra is Ṛgveda 10.71.2:
 > *saktum iva titaunā punanto yatra dhīrā manasā vācam akrata |*\
 > *atrā sakhāyaḥ sakhyāni jānate bhadraiṣāṃ lakṣmīr nihitādhi vāci ||*
 
-The first half supplies the engineering image. ***Saktum iva titaunā punantaḥ*** compares the operation to sifting meal or grain through a sieve. The image carries selection, separation, and refinement: the abundant field becomes usable measure. ***Dhīrāḥ manasā vācam akrata*** then says that the wise, with the mind, formed Speech. The verb ***akrata*** is an active finite Vedic plural form from √*kṛ* — "they formed" / "they made." It is the same making-root that stands behind **संस्कृत (*saṃskṛta*)** as "well-made" or "put together." The verse is a Vedic witness to deliberate speech-making: selection first, ordered form after.
+The first half supplies the engineering image. ***Saktum iva titaunā punantaḥ*** compares the operation to sifting meal or grain through a sieve. The image carries selection, separation, and refinement: the abundant field becomes usable measure. ***Dhīrāḥ manasā vācam akrata*** then says that the wise, with the mind, formed Speech. The verb ***akrata*** is an active finite Vedic plural form from the dhātu ⟪कृ⟫ (*kṛ*) — "they formed" / "they made." It is the same making-atom that stands behind **संस्कृत (*saṃskṛta*)** as "well-made" or "put together." The verse is a Vedic witness to deliberate speech-making: selection first, ordered form after.
 
 The second half supplies the consequence. Friends recognize friendship there. The final pāda reads in saṃhitā as ***bhadraiṣāṃ lakṣmīr nihitādhi vāci*** and separates as ***bhadrā eṣām lakṣmīḥ nihitā adhi vāci***: auspicious radiance is placed in Speech. That is the movement from the selected heap to the *varṇamālā*: the field is sifted, the sonomers are chosen, and the garland carries engineering as *divyatā*.
 
@@ -104,7 +104,7 @@ Sāyaṇa can stand in the note without changing the body. His ritual and recita
 
 The point does not depend on accepting the pyramid's clock for Maṇḍala 10. However that chronology is argued, the verse remains inside the Vedic speech-world. The Vedic corpus itself describes Speech through selection, refinement, mental formation, social recognition, and radiance.
 
-Source basis: Ṛgveda 10.71.2 in the *Vāk-sūkta*, attributed in the *Anukramaṇī* tradition to Bṛhaspati Āṅgirasa. The DCS pada record gives the four pādas as ***saktum iva titaunā punantaḥ***, ***yatra dhīrāḥ manasā vācam akrata***, ***atrā sakhāyaḥ sakhyāni jānate***, and ***bhadrā eṣām lakṣmīḥ nihitā adhi vāci***. The DCS conllu parse tags ***akrata*** as √*kṛ*, third-person plural past, and parses the final pāda as ***bhadrā eṣām lakṣmīḥ nihitā adhi vāci***. Griffith's translation independently supports the two key moves, rendering the wise as having "created language" and the close as a "blessed sign imprinted." Final publication should still verify the saṃhitā text and accenting against the selected printed Ṛgveda edition.
+Source basis: Ṛgveda 10.71.2 in the *Vāk-sūkta*, attributed in the *Anukramaṇī* tradition to Bṛhaspati Āṅgirasa. The DCS pada record gives the four pādas as ***saktum iva titaunā punantaḥ***, ***yatra dhīrāḥ manasā vācam akrata***, ***atrā sakhāyaḥ sakhyāni jānate***, and ***bhadrā eṣām lakṣmīḥ nihitā adhi vāci***. The DCS conllu parse tags ***akrata*** as the *kṛ* dhātu, third-person plural past, and parses the final pāda as ***bhadrā eṣām lakṣmīḥ nihitā adhi vāci***. Griffith's translation independently supports the two key moves, rendering the wise as having "created language" and the close as a "blessed sign imprinted." Final publication should still verify the saṃhitā text and accenting against the selected printed Ṛgveda edition.
 
 ---
 
@@ -122,7 +122,7 @@ The quoted mantra uses the saṃhitā form:
 > *devīṃ vācam ajanayanta devās tāṃ viśvarūpāḥ paśavo vadanti |*\
 > *sā no mandreṣam ūrjaṃ duhānā dhenur vāg asmān upa suṣṭutaitu ||*
 
-The DCS pada record separates the verse as ***devīm vācam ajanayanta devāḥ***, ***tām viśvarūpāḥ paśavaḥ vadanti***, ***sā naḥ mandrā iṣam ūrjam duhānā***, and ***dhenuḥ vāk asmān upa suṣṭutā ā etu***. The local conllu parse tags ***ajanayanta*** as a plural past form of √*janay*, "generated / caused to be born," and parses ***duhānā*** as a present participle from √*duh*, "milking / yielding." Jamison-Brereton render the verse: "The gods begat goddess Speech. The beasts of all forms speak her. Gladdening, milking out refreshment and nourishment for us, let Speech, the milk-cow, come well praised to us." Griffith similarly gives: "The Deities generated Vak the Goddess, and animals of every figure speak her." The active translation uses "all beings" for ***paśavaḥ*** to keep the verse's many-formed living field visible in the closing idiom.
+The DCS pada record separates the verse as ***devīm vācam ajanayanta devāḥ***, ***tām viśvarūpāḥ paśavaḥ vadanti***, ***sā naḥ mandrā iṣam ūrjam duhānā***, and ***dhenuḥ vāk asmān upa suṣṭutā ā etu***. The local conllu parse tags ***ajanayanta*** as a plural past form of the dhātu ⟪जनय्⟫ (*janay*), "generated / caused to be born," and parses ***duhānā*** as a present participle from the dhātu ⟪दुह्⟫ (*duh*), "milking / yielding." Jamison-Brereton render the verse: "The gods begat goddess Speech. The beasts of all forms speak her. Gladdening, milking out refreshment and nourishment for us, let Speech, the milk-cow, come well praised to us." Griffith similarly gives: "The Deities generated Vak the Goddess, and animals of every figure speak her." The active translation uses "all beings" for ***paśavaḥ*** to keep the verse's many-formed living field visible in the closing idiom.
 
 ---
 
@@ -139,7 +139,7 @@ The DCS pada record separates the verse as ***devīm vācam ajanayanta devāḥ*
 
 #### Sandhi-vicched (operations dissolved)
 
-- **पश्यन्न ददर्श** ← *paśyan* + *na dadarśa* — *paśyan* (present participle nom.sg. of √*paś*) ends in *n*; *na* begins with *n*; the doubling is metrical / sandhi geminate (Vedic mode).
+- **पश्यन्न ददर्श** ← *paśyan* + *na dadarśa* — *paśyan* (present participle nom.sg. of the dhātu ⟪पश्⟫ (*paś*)) ends in *n*; *na* begins with *n*; the doubling is metrical / sandhi geminate (Vedic mode).
 - **शृण्वन्न अशृणोति** ← *śṛṇvan* + *aśṛṇoti* — Vedic gemination of the final *n* before the following vowel.
 - **अशृणोत्येनाम्** ← *aśṛṇoti* + *enām* — *iko yaṇ aci* (Aṣṭ. 6.1.77): final *-i* of *aśṛṇoti* + initial *e-* of *enām* → *-y e-* (the *-i* becomes the glide *y*).
 - **उतो त्वस्मै** ← *uto* (= *uta* + *u* particle) + *tasmai* — *o + t* concatenates without further change.
@@ -151,20 +151,20 @@ The DCS pada record separates the verse as ***devīm vācam ajanayanta devāḥ*
 |---|---|---|
 | उत | *uta* | even, also (particle) |
 | त्वः | *tvaḥ* | one (here: one person / some) — pronoun nom.sg. m. |
-| पश्यन् | *paśyan* | seeing (present participle nom.sg. of √*paś*) |
+| पश्यन् | *paśyan* | seeing (present participle nom.sg. of the *paś* dhātu) |
 | न | *na* | not |
-| ददर्श | *dadarśa* | (he/she) saw (perfect 3sg. of √*dṛś*) |
+| ददर्श | *dadarśa* | (he/she) saw (perfect 3sg. of the dhātu ⟪दृश्⟫ (*dṛś*)) |
 | वाचम् | *vācam* | Speech (acc.sg. f. of *vāk*) |
-| शृण्वन् | *śṛṇvan* | hearing (present participle nom.sg. of √*śru*) |
+| शृण्वन् | *śṛṇvan* | hearing (present participle nom.sg. of the *śru* dhātu) |
 | अशृणोति | *aśṛṇoti* | (he/she) does not hear (3sg. present, with negation context) |
 | एनाम् | *enām* | her / this one (anaphoric pronoun acc.sg. f.) |
 | उतो | *uto* | and indeed (*uta* + emphatic *u*) |
 | त्वस्मै | *tasmai* | to him / to that one (dative sg. m. of *tad*) |
 | तन्वम् | *tanvam* | (her) body (acc.sg. f. of *tanū*) |
-| वि सस्रे | *vi sasre* | spread / revealed (perfect 3sg. middle of *vi-√sṛ*, "to spread out / reveal") |
+| वि सस्रे | *vi sasre* | spread / revealed (perfect 3sg. middle of *vi-sṛ*, "to spread out / reveal") |
 | जायेव | *jāyā iva* | like a wife |
 | पत्ये | *patye* | to (her) husband (dative sg. m. of *pati*) |
-| उशती | *uśatī* | desiring, willing (present participle nom.sg. f. of √*vaś*) |
+| उशती | *uśatī* | desiring, willing (present participle nom.sg. f. of the *vaś* dhātu) |
 | सुवासाः | *suvāsāḥ* | well-clad, beautifully-dressed (nom.sg. f.) |
 
 #### Translation
@@ -301,17 +301,17 @@ The line means that मूर्धा (*mūrdhā*) — the head / roof-of-mouth
 
 ### `samskrtam-morphology`
 
-**Short:** *saṃskṛta* (संस्कृत) = *sam-* (सम्, totality, completion) + *kṛta* (कृत, past participle of √*kṛ* (कृ), primary creation rather than combinatorial joining); the dual translation *perfectly synthesized* / *wholly created* preserves both axes English has no single word for. See Expanded Endnotes for the morphological argument.
+**Short:** *saṃskṛta* (संस्कृत) = *sam-* (सम्, totality, completion) + *kṛta* (कृत, past participle of the *kṛ* dhātu कृ, primary creation rather than combinatorial joining); the dual translation *perfectly synthesized* / *wholly created* preserves both axes English has no single word for. See Expanded Endnotes for the morphological argument.
 
 **Deployments:** Preface ¶17; Chapter 1 ¶7 *(both deployments use the same canonical gloss block in the main prose; this endnote provides the underlying grammatical and semantic analysis)*.
 
 The compound **संस्कृत (*saṃskṛta*)** is formed from two morphological elements, each carrying a precise semantic load.
 
-***Sam-*** (सम्) is a Sanskrit *upasarga* — a verbal prefix that attaches to a verbal root and modifies its meaning. The semantic field of *sam-* gathers around totality and completeness. Its mathematical sense, preserved most clearly in the English cognate *sum*, is the *whole reached by gathering*. Its completion sense is the *full extent attained*. Its perfection sense, preserved in derivatives like English *summit* (Latin *summus*, the highest, the most complete), is the *finished and proper state*. Greek *syn-* shares the same family of senses. When *sam-* attaches to a verbal root in Sanskrit, it pushes the root's action toward this totality / completion / perfection axis — the action carried to its full and proper extent.
+***Sam-*** (सम्) is a Sanskrit *upasarga* — a verbal prefix that attaches to a dhātu and modifies its meaning. The semantic field of *sam-* gathers around totality and completeness. Its mathematical sense, preserved most clearly in the English cognate *sum*, is the *whole reached by gathering*. Its completion sense is the *full extent attained*. Its perfection sense, preserved in derivatives like English *summit* (Latin *summus*, the highest, the most complete), is the *finished and proper state*. Greek *syn-* shares the same family of senses. When *sam-* attaches to a dhātu in Sanskrit, it pushes the dhātu's action toward this totality / completion / perfection axis — the action carried to its full and proper extent.
 
-The verbal root ***kṛ*** (कृ), to which *sam-* attaches here, is among the most foundational of all Sanskrit *dhātavaḥ*. It is enumerated by Pāṇini in the *Dhātupāṭha* (the canonical inventory of Sanskrit roots) as a member of the *tanādi* class. Its semantic range is wide but consistent: *make, do, create, produce, perform an action, bring into being*. The English verb closest in semantic range is *make* — covering everything from making physical objects to making a poem to making a sound. The Sanskrit derivatives that radiate from this root show how load-bearing it is for the language's vocabulary of action: ***karma*** (the deed, the made-thing, the action), ***kāryam*** (that which is to be done or made), ***kṛti*** (a created work, a composition), ***kartṛ*** (the doer, the agent), ***kāraka*** (the case-relations to a verb that carry the semantic roles of action).
+The ***kṛ*** dhātu (कृ), to which *sam-* attaches here, is among the most foundational of all Sanskrit *dhātavaḥ*. It is enumerated by Pāṇini in the *Dhātupāṭha* (the canonical inventory of Sanskrit dhātavaḥ) as a member of the *tanādi* class. Its semantic range is wide but consistent: *make, do, create, produce, perform an action, bring into being*. The English verb closest in semantic range is *make* — covering everything from making physical objects to making a poem to making a sound. The Sanskrit derivatives that radiate from this dhātu show how load-bearing it is for the language's vocabulary of action: ***karma*** (the deed, the made-thing, the action), ***kāryam*** (that which is to be done or made), ***kṛti*** (a created work, a composition), ***kartṛ*** (the doer, the agent), ***kāraka*** (the case-relations to a verb that carry the semantic roles of action).
 
-Crucially, ***kṛ*** does not mean *assemble*. Sanskrit has other verbal roots for that operation: *yuj* (to yoke, to join), *sandhā* (to put together). *Kṛ* denotes primary creative action — the bringing into being, not the combinatorial joining of pre-existing parts. This distinction is load-bearing for the translation choices argued below.
+Crucially, ***kṛ*** does not mean *assemble*. Sanskrit has other dhātavaḥ for that operation: *yuj* (to yoke, to join), *sandhā* (to put together). *Kṛ* denotes primary creative action — the bringing into being, not the combinatorial joining of pre-existing parts. This distinction is load-bearing for the translation choices argued below.
 
 The past participle ***kṛta*** (कृत) is the *kṛdanta* formation: *kṛ* + the *-ta* suffix governed by *Aṣṭādhyāyī* 3.2.102 *(niṣṭhā)*. The resulting form means *made, done, created, produced, accomplished*. Used adjectivally or substantively, it denotes the completed state of the *kṛ*-action.
 
@@ -330,12 +330,12 @@ The compound is *karmadhāraya* — adjective-noun in structure, with the prefix
 Single-word translations have been considered and rejected:
 
 - ***Assembled*** is rejected outright. Assembly implies the components existed separately first and were then combined. *Kṛ* denotes primary creative action, not combinatorial joining; the components of *saṃskṛtam* are not pre-existing parts brought together but elements brought into being as a system. Translating *saṃskṛtam* as *assembled* imports a semantic field — the workshop, the kit of pre-cut parts — that the original word does not carry.
-- ***Constructed*** is available as a secondary descriptor and the book uses *architecture* and *engineering* in adjacent passages. But *constructed* alone compresses *kṛ* toward a building-trade sense and loses the full primary-creation force the root carries.
+- ***Constructed*** is available as a secondary descriptor and the book uses *architecture* and *engineering* in adjacent passages. But *constructed* alone compresses *kṛ* toward a building-trade sense and loses the full primary-creation force the dhātu carries.
 - ***Refined*** captures the polysemy's cultivation axis but loses the engineering axis entirely.
 - ***Perfected*** alone loses the *made* sense and risks introducing a moralistic value-judgment that the Sanskrit compound does not carry.
 - ***Completed*** captures *sam-* but understates *kṛ* — Sanskrit was not just completed; it was *created* and brought to completion.
 
-The dual-translation approach is therefore not aesthetic redundancy. It is necessary because English does not have a single word that carries both the totality / perfection axis (the *sam-* contribution) and the primary-creation axis (the *kṛ* contribution) simultaneously. The two glosses are offered together — *perfectly synthesized or wholly created* — as the closest English approximation of what *saṃskṛtam* says, in its own root structure, about itself.
+The dual-translation approach is therefore not aesthetic redundancy. It is necessary because English does not have a single word that carries both the totality / perfection axis (the *sam-* contribution) and the primary-creation axis (the *kṛ* contribution) simultaneously. The two glosses are offered together — *perfectly synthesized or wholly created* — as the closest English approximation of what *saṃskṛtam* says, in its own dhātu structure, about itself.
 
 ---
 
@@ -572,11 +572,11 @@ Both scripts are visible renderings of the same underlying engineered specificat
 
 ### `aksara-imperishable-name`
 
-**Short:** ***Akṣara*** (अक्षर) = *a-* (privative) + √*kṣar* (क्षर्, to flow, to perish) — *the imperishable*; the same word denotes both the writing-and-utterance primitive and the Upaniṣadic / Vedāntic *Brahman* (*Bhagavad Gītā* 8.3, *akṣaraṃ brahma paramaṃ* / अक्षरं ब्रह्म परमम्); contrasts with Latin *littera* (smear), Greek *γράμμα* (scratch), Arabic *ḥarf* (edge), none of which claim non-decay at the level of the unit.
+**Short:** ***Akṣara*** (अक्षर) = *a-* (privative) + the *kṣar* dhātu (क्षर्, to flow, to perish) — *the imperishable*; the same word denotes both the writing-and-utterance primitive and the Upaniṣadic / Vedāntic *Brahman* (*Bhagavad Gītā* 8.3, *akṣaraṃ brahma paramaṃ* / अक्षरं ब्रह्म परमम्); contrasts with Latin *littera* (smear), Greek *γράμμα* (scratch), Arabic *ḥarf* (edge), none of which claim non-decay at the level of the unit.
 
 **Deployments:** Chapter 9 §9.6 (the *akṣara* introduction); Appendix Part 3 §3.1 (the audiograph = akṣara coinage).
 
-The Sanskrit term ***अक्षर (akṣara)*** is morphologically *a-* (privative) + √*kṣar* (to flow, to perish, to wear away) — literally *that which does not flow away* or *that which does not decay*. The same word denotes both the writing-and-utterance primitive (the syllable rendered as glyph) and the Upaniṣadic / Vedāntic name for *Brahman* itself: *अक्षरं ब्रह्म परमम् (akṣaraṃ brahma paramaṃ)*, *the supreme imperishable Brahman* (*Bhagavad Gītā* 8.3, deployed across multiple Upaniṣadic passages). The *Muṇḍaka Upaniṣad* 1.1.5 distinguishes *para vidyā* (higher knowledge) as that by which *akṣaram* (the imperishable) is known; *Maitrāyaṇī Upaniṣad* and *Praśna Upaniṣad* extend the usage. The shared term is not coincidental — the Indic continuum treats the writing-primitive and the metaphysical principle of non-decay as carrying the same name because they share the same property: *that which does not perish*.
+The Sanskrit term ***अक्षर (akṣara)*** is morphologically *a-* (privative) + the *kṣar* dhātu (to flow, to perish, to wear away) — literally *that which does not flow away* or *that which does not decay*. The same word denotes both the writing-and-utterance primitive (the syllable rendered as glyph) and the Upaniṣadic / Vedāntic name for *Brahman* itself: *अक्षरं ब्रह्म परमम् (akṣaraṃ brahma paramaṃ)*, *the supreme imperishable Brahman* (*Bhagavad Gītā* 8.3, deployed across multiple Upaniṣadic passages). The *Muṇḍaka Upaniṣad* 1.1.5 distinguishes *para vidyā* (higher knowledge) as that by which *akṣaram* (the imperishable) is known; *Maitrāyaṇī Upaniṣad* and *Praśna Upaniṣad* extend the usage. The shared term is not coincidental — the Indic continuum treats the writing-primitive and the metaphysical principle of non-decay as carrying the same name because they share the same property: *that which does not perish*.
 
 The contrast with other major writing traditions' terms is structural. **Latin** *littera* (letter) is from *lino* (to smear, to anoint) — a smeared mark on a surface. **Greek** *γράμμα (gramma)* is from *γράφω (graphō)* (to scratch, to write) — *what is scratched* or *what is written*. **Arabic** *ḥarf* (حرف) means *edge* or *side* — a mark at the edge of a surface. None of these terms carries a non-decay claim; each denotes the surface mark or the act of marking. The Sanskrit *akṣara*, alone among the major writing traditions' words for the writing-primitive, asserts non-decay at the level of the unit itself. The *sanātan* claim is in the vocabulary.
 
@@ -693,11 +693,11 @@ Sources for the verse text: the standard critical edition of the *Mahābhārata*
 | एव | *eva* | indeed (emphatic) |
 | च | *ca* | and |
 | विस्तरशः | *vistaraśaḥ* | at length, in detail (adverbial) |
-| प्रोक्तः | *proktaḥ* | (has been) spoken / described (past pass. part. nom.sg. m. of *pra-√vac*) |
+| प्रोक्तः | *proktaḥ* | (has been) spoken / described (past pass. part. nom.sg. m. of *pra-vac*) |
 | आसुरम् | *āsuram* | the asuric (acc.sg. n. — substantivized adjective) |
 | पार्थ | *pārtha* | O son of Pṛthā (vocative; epithet of Arjuna) |
 | मे | *me* | from me (genitive / ablative sg.) |
-| शृणु | *śṛṇu* | listen! (imperative 2sg. of √*śru*) |
+| शृणु | *śṛṇu* | listen! (imperative 2sg. of the *śru* dhātu) |
 
 #### Translation
 
@@ -961,7 +961,7 @@ The point is not that every occurrence of every name performs a full etymologica
 
 **Deployments:** Chapter 0 §0.3 — the Yāska-*deva* seed grounding *devabhāṣā* and the "action, not word" contested-words rule.
 
-Yāska's *Nirukta* 7.15 reads: **देवो दानाद्वा। दीपनाद्वा। द्योतनाद्वा। द्युस्थानो भवतीति वा॥** (*devo dānād vā | dīpanād vā | dyotanād vā | dyusthāno bhavatīti vā ||*) — "a *deva* is so called from giving (√dā), or from kindling / being effulgent (√dīp), or from illumining / shining (√dyut), or he is one who abides in the bright realm (*dyu* + √sthā)." Three of the four derivations run from verbal roots — the *nāmāny ākhyātajāni* principle (*Nirukta* 1.1) applied to *deva* itself; the fourth, *dyusthāna*, is locational. The §0.3 seed uses the three verbal derivations, since the point is names-from-actions; the locational fourth is recorded here for completeness. Locator, Devanāgarī, and IAST cross-confirmed against the Sanskrit text of *Nirukta* 7.15 (which continues *yo devaḥ sā devatā* — "the one who is a *deva* is a *devatā*") and against Sarup's edition, which carries the standard English rendering.
+Yāska's *Nirukta* 7.15 reads: **देवो दानाद्वा। दीपनाद्वा। द्योतनाद्वा। द्युस्थानो भवतीति वा॥** (*devo dānād vā | dīpanād vā | dyotanād vā | dyusthāno bhavatīti vā ||*) — "a *deva* is so called from giving (*dā*), or from kindling / being effulgent (*dīp*), or from illumining / shining (*dyut*), or he is one who abides in the bright realm (*dyu* + *sthā*)." Three of the four derivations run from verbal dhātavaḥ — the *nāmāny ākhyātajāni* principle (*Nirukta* 1.1) applied to *deva* itself; the fourth, *dyusthāna*, is locational. The §0.3 seed uses the three verbal derivations, since the point is names-from-actions; the locational fourth is recorded here for completeness. Locator, Devanāgarī, and IAST cross-confirmed against the Sanskrit text of *Nirukta* 7.15 (which continues *yo devaḥ sā devatā* — "the one who is a *deva* is a *devatā*") and against Sarup's edition, which carries the standard English rendering.
 
 ---
 
@@ -1096,11 +1096,11 @@ Source anchors: for the modern articulatory grid, see the International Phonetic
 | अदः | *adaḥ* | that (demonstrative pronoun n.sg. — distal) |
 | इदम् | *idam* | this (demonstrative pronoun n.sg. — proximal) |
 | पूर्णात् | *pūrṇāt* | from the whole (ablative sg. of *pūrṇa*) |
-| उदच्यते | *udacyate* | rises up / emerges (3sg. passive of *ud-√añc*) |
+| उदच्यते | *udacyate* | rises up / emerges (3sg. passive of *ud-añc*) |
 | पूर्णस्य | *pūrṇasya* | of the whole (genitive sg.) |
-| आदाय | *ādāya* | having taken (absolutive of *ā-√dā*) |
+| आदाय | *ādāya* | having taken (absolutive of *ā-dā*) |
 | एव | *eva* | indeed, just, only (emphatic particle) |
-| अवशिष्यते | *avaśiṣyate* | remains, is left behind (3sg. passive of *ava-√śiṣ*) |
+| अवशिष्यते | *avaśiṣyate* | remains, is left behind (3sg. passive of *ava-śiṣ*) |
 | शान्तिः | *śāntiḥ* | peace (nom.sg. f. of *śānti*) |
 
 #### Translation
@@ -1179,13 +1179,13 @@ The structural point the chapter makes from the chain: this is exactly the kind 
 
 The term ***धातुः (dhātuḥ)*** as the name for the foundational grammatical-semantic atom is pre-Pāṇinian and embedded in the *Prātiśākhya* and *Nirukta* disciplines that precede the *Aṣṭādhyāyī*. The relevant attestations:
 
-- ***Nirukta*** of Yāska (the canonical pre-Pāṇinian etymological treatise, attached to the *Veda* as one of the six *Vedāṅgas*). Yāska's *Nirukta* uses *dhātu* in the technical grammatical sense of *verbal root* — the foundational semantic constituent from which derived forms are produced. Yāska's framework, anchored at *Nirukta* 1.1–1.14, treats *dhātu* as the operative unit of verbal derivation and presupposes the term's technical use in the prior *vyākaraṇa* discipline.
+- ***Nirukta*** of Yāska (the canonical pre-Pāṇinian etymological treatise, attached to the *Veda* as one of the six *Vedāṅgas*). Yāska's *Nirukta* uses *dhātu* in the technical grammatical sense: the foundational semantic constituent from which derived forms are produced. Yāska's framework, anchored at *Nirukta* 1.1–1.14, treats *dhātu* as the operative unit of verbal derivation and presupposes the term's technical use in the prior *vyākaraṇa* discipline.
 - ***Prātiśākhya*** literature (the canonical phonetic-recitational treatises attached to each *Veda*: *Ṛk-Prātiśākhya*, *Taittirīya-Prātiśākhya*, *Vājasaneyi-Prātiśākhya*, *Atharvaveda-Prātiśākhya*). These texts use *dhātu* in the technical grammatical sense and presuppose the term's establishment.
-- ***Aṣṭādhyāyī*** itself (Pāṇini 1.3.1 — *bhūvādayo dhātavaḥ*, defining the *dhātus* as the elements of the *Dhātupāṭha* beginning with *bhū*). Pāṇini does not invent the term; he uses it in its already-established technical sense and refers to a *Dhātupāṭha* (the canonical enumeration of roots) that he treats as already given.
+- ***Aṣṭādhyāyī*** itself (Pāṇini 1.3.1 — *bhūvādayo dhātavaḥ*, defining the *dhātus* as the elements of the *Dhātupāṭha* beginning with *bhū*). Pāṇini does not invent the term; he uses it in its already-established technical sense and refers to a *Dhātupāṭha* (the canonical enumeration of dhātavaḥ) that he treats as already given.
 
-The term's pre-grammatical use in the *Vedic* corpus carries the same root-meaning *constituent constant*. In the metallurgical / extractive domain, *dhātu* denotes the foundational metallic constituent extracted from ore (the *sapta-dhātavaḥ* — gold, silver, copper, tin, lead, iron, mercury — across the relevant *Rasaśāstra* literature; the term appears across the *Saṃhitā*, *Brāhmaṇa*, and post-Vedic ritual and scientific texts). In the *Āyurvedic* biological domain, *dhātu* denotes the seven structural constituents of the body (*rasa, rakta, māṃsa, medas, asthi, majjā, śukra*; see endnote `saptadhatu-canonical`). The grammatical *dhātu* is the same term operating in the same structural sense — the constituent constant of the verbal system — across an engineering vocabulary that uses *dhātu* consistently in this sense across multiple domains (metallurgy, medicine, grammar, chemistry).
+The term's pre-grammatical use in the *Vedic* corpus carries the same base-meaning: *constituent constant*. In the metallurgical / extractive domain, *dhātu* denotes the foundational metallic constituent extracted from ore (the *sapta-dhātavaḥ* — gold, silver, copper, tin, lead, iron, mercury — across the relevant *Rasaśāstra* literature; the term appears across the *Saṃhitā*, *Brāhmaṇa*, and post-Vedic ritual and scientific texts). In the *Āyurvedic* biological domain, *dhātu* denotes the seven structural constituents of the body (*rasa, rakta, māṃsa, medas, asthi, majjā, śukra*; see endnote `saptadhatu-canonical`). The grammatical *dhātu* is the same term operating in the same structural sense — the constituent constant of the verbal system — across an engineering vocabulary that uses *dhātu* consistently in this sense across multiple domains (metallurgy, medicine, grammar, chemistry).
 
-The polemic point the chapter establishes: *bīja* and *mūla* are both already operating in the botanical / agricultural vocabulary of Sanskrit — the grammatical foundational unit could have been named *vyākaraṇa-bīja* (grammar-seed) or *vyākaraṇa-mūla* (grammar-root) without strain. The choice of *dhātu* — the engineering term — places the grammatical foundational unit in the engineering category. The botanical framing the pyramid imposes (*"root" as in plant root, with all the botanical connotations attached*) reverses what the engineering itself selected. The mistranslation is the imposition the chapter identifies; the original term signals the engineering placement explicitly.
+The polemic point the chapter establishes: *bīja* and *mūla* are both already operating in the botanical / agricultural vocabulary of Sanskrit — the grammatical foundational unit could have been named *vyākaraṇa-bīja* (grammar-seed) or *vyākaraṇa-mūla* (grammar-*mūla*) without strain. The choice of *dhātu* — the engineering term — places the grammatical foundational unit in the engineering category. The botanical framing the pyramid imposes reverses what the engineering itself selected. The mistranslation is the imposition the chapter identifies; the original term signals the engineering placement explicitly.
 
 The point is developed across Chapter 6 (the multi-domain *dhātu* usage) and Chapter 10 (the *dhātu* as the foundational atomic unit in the periodic-table architecture).
 
@@ -1308,17 +1308,17 @@ The point Chapter 6 §6.8 draws is narrow and load-bearing: caste-as-fixed-birth
 
 ### `liber-arāvan-etymology`
 
-**Short:** The Chapter 3 etymology places English *liberal* / *illiberal* beside Sanskrit **अरावन् (*arāvan*)**. Latin *liber* carries the semantic field of freedom and generosity; Sanskrit *arāvan* is glossed in the lexicons as "not liberal," adverse, hostile, and literally "not giving" from privative *a-* + √**रा** (*rā*, to give, grant, bestow). The body prose uses the comparison structurally: the institutional use of *liberal* operates as a closed-handed, non-giving power.
+**Short:** The Chapter 3 etymology places English *liberal* / *illiberal* beside Sanskrit **अरावन् (*arāvan*)**. Latin *liber* carries the semantic field of freedom and generosity; Sanskrit *arāvan* is glossed in the lexicons as "not liberal," adverse, hostile, and literally "not giving" from privative *a-* + the **रा** (*rā*) dhātu, to give, grant, bestow. The body prose uses the comparison structurally: the institutional use of *liberal* operates as a closed-handed, non-giving power.
 
 **Deployments:** Chapter 3 §3.4 — the *liber* / *arāvan* etymology that diagnoses the progressive structure as illiberal and closed-handed.
 
 The English side of the comparison is ordinary historical semantics. Latin *liber* carries "free"; the wider English word-family around *liberal* also carries generosity, openness, and unstintingness. *Illiberal* preserves the negation: not open, not generous, not free in spirit.
 
-The Sanskrit side is older and sharper. **अरावन् (*arāvan*)** is analyzed in the Monier-Williams entry as *a-rāvan*, with the gloss "not liberal," envious, hostile, and Vedic. The WisdomLib aggregation of Sanskrit dictionaries preserves the same lexicographic cluster: Apte gives "not offering" and "malignant"; Cappeller gives "hostile, adverse (lit. not giving)." The relevant semantic unit is √**रा** (*rā*) — to give, grant, or bestow — with privative *a-* negating the action.
+The Sanskrit side is older and sharper. **अरावन् (*arāvan*)** is analyzed in the Monier-Williams entry as *a-rāvan*, with the gloss "not liberal," envious, hostile, and Vedic. The WisdomLib aggregation of Sanskrit dictionaries preserves the same lexicographic cluster: Apte gives "not offering" and "malignant"; Cappeller gives "hostile, adverse (lit. not giving)." The relevant semantic unit is the **रा** (*rā*) dhātu — to give, grant, or bestow — with privative *a-* negating the action.
 
 The chapter does not claim that the Latin and Sanskrit words are cognate in a narrow comparative-philological sense. It uses the two etymologies diagnostically. In English, the claimed value is liberality; in Sanskrit, the structural opposite is *arāvan*: the one who withholds. The point is behavioral, not genealogical.
 
-Standard references: Monier-Williams, *A Sanskrit-English Dictionary* (1899), entries for √**रा** (*rā*) and **अरावन् (*arāvan*)**; V. S. Apte, *The Practical Sanskrit-English Dictionary*, **अरावन्**; Cappeller, *Sanskrit-English Dictionary*, **अरावन्**. The Cologne Digital Sanskrit Dictionaries and WisdomLib aggregations reproduce these entries in searchable form.
+Standard references: Monier-Williams, *A Sanskrit-English Dictionary* (1899), entries for the **रा** (*rā*) dhātu and **अरावन् (*arāvan*)**; V. S. Apte, *The Practical Sanskrit-English Dictionary*, **अरावन्**; Cappeller, *Sanskrit-English Dictionary*, **अरावन्**. The Cologne Digital Sanskrit Dictionaries and WisdomLib aggregations reproduce these entries in searchable form.
 
 ---
 
@@ -1400,17 +1400,17 @@ Standard references: *Caraka Saṃhitā* (Chaukhamba Sanskrit Series, with the *
 
 ### `dhatu-cross-linguistic-analogues`
 
-**Short:** The closest external analogues to the Sanskrit ***dhātuḥ*** (धातुः) are Semitic consonantal roots and Tamil verbal bases, but neither is the same category: Semitic roots are primarily consonantal abstractions that receive vocalic and morphological patterning; Tamil verbal bases are stems inside an agglutinative morphology; the Sanskrit *dhātuḥ* is a pronounceable semantic atom inside a generative architecture.
+**Short:** The closest external analogues to the Sanskrit ***dhātuḥ*** (धातुः) are Semitic consonantal bases and Tamil verbal bases, but neither is the same category: Semitic bases are primarily consonantal abstractions that receive vocalic and morphological patterning; Tamil verbal bases are stems inside an agglutinative morphology; the Sanskrit *dhātuḥ* is a pronounceable semantic atom inside a generative architecture.
 
 **Deployments:** Chapter 10 §10.3 ¶ — category clarification after the grammatical-*dhātuḥ* definition and before the measurement begins.
 
 The comparison is useful because it prevents two confusions at once. The first confusion is uniqueness-exaggeration: Sanskrit is not the only language in the world with sub-word semantic generators. The second confusion is flattening: those analogues do not erase the architectural specificity of the Sanskrit *dhātuḥ*.
 
-The closest visible external analogue is the Semitic root system. Arabic and Hebrew use consonantal roots — commonly triliteral — as semantic generators. Arabic **k-t-b**, for example, carries the field of writing: *kataba* (he wrote), *kitāb* (book), *kātib* (writer), *maktab* (office). Hebrew shows the same structural family in its own phonological system. The root is not normally a pronounceable word by itself. It is a consonantal abstraction that becomes lexical through vocalic patterns, prefixes, suffixes, and grammatical templates.
+The closest visible external analogue is the Semitic consonantal-base system. Arabic and Hebrew use consonantal bases — commonly triliteral — as semantic generators. Arabic **k-t-b**, for example, carries the field of writing: *kataba* (he wrote), *kitāb* (book), *kātib* (writer), *maktab* (office). Hebrew shows the same structural family in its own phonological system. The base is not normally a pronounceable word by itself. It is a consonantal abstraction that becomes lexical through vocalic patterns, prefixes, suffixes, and grammatical templates.
 
 Tamil supplies a different comparison. Tamil grammar recognizes verbal bases, often described as **வேர்ச்சொல் (*vērccol*)** or **வினையடி (*vinaiyaṭi*)**, from which finite verbs, participles, verbal nouns, and related formations are built. A base such as **செல் (*cel*, to go)** generates a family of forms through tense, person, number, gender, and participial morphology. Tamil is generative, but its generativity is agglutinative rather than *dhātu*-atomic. It can extend stems productively, but it does not organize the lexicon around a curated inventory of sound-bearing semantic atoms in the way Sanskrit does. The Tamil base is closer to a verbal stem operating inside an agglutinative system than to the Sanskrit *dhātuḥ* as the atomic semantic inventory of a formal derivational engine.
 
-The Sanskrit case differs at the point the chapter needs: the *dhātuḥ* is sound-bearing. ***कृ (*kṛ*)***, ***गम् (*gam*)***, ***भू (*bhū*)***, ***दृश् (*dṛś*)***, ***ज्ञा (*jñā*)*** are not full words, but they are pronounceable semantic atoms. They have phonetic bodies. They combine with *upasargāḥ* (उपसर्गाः), *pratyayāḥ* (प्रत्ययाः), *vikaraṇāḥ* (विकरणाः), and the broader rule-system of *Vyākaraṇam* to generate verbal and nominal worlds. That is the precise category the botanical word *root* fails to name.
+The Sanskrit case differs at the point the chapter needs: the *dhātuḥ* is sound-bearing. ***⟪कृ⟫ (*kṛ*)***, ***⟪गम्⟫ (*gam*)***, ***⟪भू⟫ (*bhū*)***, ***⟪दृश्⟫ (*dṛś*)***, ***⟪ज्ञा⟫ (*jñā*)*** are not full words, but they are pronounceable semantic atoms. They have phonetic bodies. They combine with *upasargāḥ* (उपसर्गाः), *pratyayāḥ* (प्रत्ययाः), *vikaraṇāḥ* (विकरणाः), and the broader rule-system of *Vyākaraṇam* to generate verbal and nominal worlds. That is the precise category the botanical substitute fails to name.
 
 Standard references: For Semitic root-and-pattern morphology, see Kees Versteegh, *The Arabic Language* (Edinburgh University Press, 1997) and *The Arabic Linguistic Tradition* (Routledge, 1997); Geoffrey Khan, ed., *Encyclopedia of Hebrew Language and Linguistics* (Brill, 2013); Aaron Maman, *Comparative Semitic Philology in the Middle Ages* (Brill, 2004). For Tamil verbal bases and Dravidian morphology, see Bhadriraju Krishnamurti, *The Dravidian Languages* (Cambridge University Press, 2003); Sanford B. Steever, ed., *The Dravidian Languages* (Routledge, 1998); Kamil Zvelebil, *The Smile of Murugan* (Brill, 1973); and the *Tamil Lexicon* (University of Madras, 1924–1936).
 
@@ -1699,7 +1699,7 @@ Source and standard references: see endnote `patanjali-siddhe-shabdarthasambandh
 
 The Mīmāṃsā doctrine of *apauruṣeyatva* — the *Vedas* having no author of any kind — is anchored at one of the earliest and most carefully argued positions in classical Indian philosophy. The foundational locus is **Jaimini's *Mīmāṃsā Sūtra* 1.1.5** in the *Pūrva-Mīmāṃsā* (पूर्वमीमांसा) discipline, with **Śabara's *Bhāṣya*** as the canonical commentary.
 
-**Morphology of the term.** ***Pauruṣeya*** (पौरुषेय) is derived from ***puruṣa*** (पुरुष, *person / man*) by the *taddhita* suffix *-eya* with *vṛddhi* substitution on the initial vowel (*u* → *au*, per *Aṣṭādhyāyī* 7.2.117 *taddhiteṣv acām ādeḥ*). The sense: *of / from / produced-by puruṣa*; *coming from a person*, *dependent on a human agent*. The privative compound ***apauruṣeya*** (अपौरुषेय) — *a-* + *pauruṣeya* — is therefore *na-Tatpuruṣa* in structure: *not produced by a person*, *not of human authorship*, more sharply *not dependent on a human speaker-author*. The morphology is grammatically transparent under standard Pāṇinian derivation; it does not require the *Nirukta*-style etymological recovery work the *Vedic* vocabulary itself receives (cf. endnote `aksara-imperishable-name` for the structurally parallel *a-* + √*kṣar* "the imperishable" — Sanskrit's vocabulary encodes both *not-of-decay* and *not-of-person* by the same *na-Tatpuruṣa* engineering pattern).
+**Morphology of the term.** ***Pauruṣeya*** (पौरुषेय) is derived from ***puruṣa*** (पुरुष, *person / man*) by the *taddhita* suffix *-eya* with *vṛddhi* substitution on the initial vowel (*u* → *au*, per *Aṣṭādhyāyī* 7.2.117 *taddhiteṣv acām ādeḥ*). The sense: *of / from / produced-by puruṣa*; *coming from a person*, *dependent on a human agent*. The privative compound ***apauruṣeya*** (अपौरुषेय) — *a-* + *pauruṣeya* — is therefore *na-Tatpuruṣa* in structure: *not produced by a person*, *not of human authorship*, more sharply *not dependent on a human speaker-author*. The morphology is grammatically transparent under standard Pāṇinian derivation; it does not require the *Nirukta*-style etymological recovery work the *Vedic* vocabulary itself receives (cf. endnote `aksara-imperishable-name` for the structurally parallel *a-* + the *kṣar* dhātu, "the imperishable" — Sanskrit's vocabulary encodes both *not-of-decay* and *not-of-person* by the same *na-Tatpuruṣa* engineering pattern).
 
 **The sūtra and its structural moves.** Jaimini's *Mīmāṃsā Sūtras* open by establishing the discipline's central concern: ***dharma-jijñāsā*** (धर्मजिज्ञासा — *the inquiry into dharma*). The discipline's epistemological foundation is laid in the first *adhyāya*'s first *pāda*. *Sūtra* 1.1.5 is the foundational sūtra establishing the *śabda-pramāṇa* commitment:
 
@@ -2283,7 +2283,7 @@ Four foundational works carried the European-philological encounter with Sanskri
 
 - **Otto von Böhtlingk, *Pâṇini's acht Bücher grammatischer Regeln*** (Bonn: König, 1839–1840) — the first critical edition of the *Aṣṭādhyāyī* in Europe, putting Pāṇini's grammatical methodology in front of European linguistics in its original *sūtra*-by-*sūtra* form. Böhtlingk subsequently produced the *Sanskrit-Wörterbuch* (1855–1875, seven volumes, with Rudolph Roth at Göttingen) — the standard Sanskrit-German lexicographical reference for the rest of the nineteenth century.
 
-- **William Dwight Whitney, *Sanskrit Grammar*** (Leipzig: Breitkopf and Härtel; London: Trübner; 1879; second edition 1889) — the standard English-language reference grammar of Sanskrit through the twentieth century. Whitney's *Roots, Verb-Forms, and Primary Derivatives of the Sanskrit Language* (Leipzig, 1885) became the canonical lexicographical reference for the verbal-root inventory.
+- **William Dwight Whitney, *Sanskrit Grammar*** (Leipzig: Breitkopf and Härtel; London: Trübner; 1879; second edition 1889) — the standard English-language reference grammar of Sanskrit through the twentieth century. Whitney's *Roots, Verb-Forms, and Primary Derivatives of the Sanskrit Language* (Leipzig, 1885) became the canonical lexicographical reference for the dhātu inventory.
 
 The chronological sequence the body prose carries: 1786 (Jones / opening) → 1808 (Schlegel / German absorption) → 1816 (Bopp / systematic comparative method) → 1839–40 (Böhtlingk / *Aṣṭādhyāyī* in front of European linguistics) → 1879 (Whitney / standard English-language reference). By 1886 the IPA founding and the 1888 chart land on a 2D grid structurally identical to the *varṇamālā*.
 
@@ -2315,9 +2315,9 @@ Through this entire early period (1816–1860), Sanskrit was treated as the sour
 
 Sir William Jones, "The Third Anniversary Discourse, on the Hindus," delivered at the Asiatic Society in Calcutta on February 2, 1786. Published in *Asiatic Researches* Volume 1 (Calcutta, 1788), pages 415–431. The passage that became canonical in the history of comparative philology:
 
-> *"The Sanskrit language, whatever be its antiquity, is of a wonderful structure; more perfect than the Greek, more copious than the Latin, and more exquisitely refined than either, yet bearing to both of them a stronger affinity, both in the roots of verbs and in the forms of grammar, than could possibly have been produced by accident; so strong indeed, that no philologer could examine them all three, without believing them to have sprung from some common source, which, perhaps, no longer exists; there is a similar reason, though not quite so forcible, for supposing that both the Gothic and the Celtick, though blended with a very different idiom, had the same origin with the Sanscrit; and the old Persian might be added to the same family."*
+Jones's 1786 formulation praised Sanskrit as structurally extraordinary and argued that Sanskrit, Greek, and Latin shared such strong affinity in verbal forms and grammar that accident could not explain it.
 
-The passage is one of the founding statements of comparative philology — the recognition that Sanskrit, Greek, Latin, Gothic, Celtic, and Old Persian share structural features (in verbal roots and grammatical forms) that cannot plausibly be explained by chance and that imply a common source. Jones's "common source" hypothesis was later formalized as the *Proto-Indo-European* reconstruction project, anchored in the comparative method.
+The passage is one of the founding statements of comparative philology — the recognition that Sanskrit, Greek, Latin, Gothic, Celtic, and Old Persian share structural features in verbal morphology and grammatical forms that cannot plausibly be explained by chance and that imply a common source. Jones's "common source" hypothesis was later formalized as the *Proto-Indo-European* reconstruction project, anchored in the comparative method.
 
 The structural significance the chapter establishes: Jones's 1786 address opens the European-philological project that operated continuously across the nineteenth and twentieth centuries to engage Sanskrit grammatical analysis. The chapter's broader argument — that the IPA framework and the contemporary phonological grid are direct absorbtions of the Sanskrit *varṇamālā* architecture by European linguistics across the long nineteenth century — begins at this 1786 moment. Jones recognized Sanskrit's grammatical structure as more perfect than the European languages he knew; the recognition launched the project of bringing Sanskrit grammatical analysis into European scholarship; the project's terminal output (the IPA, the contemporary phonological framework) is structurally identical to the *varṇamālā*'s 2D specification.
 
@@ -2369,7 +2369,7 @@ The convergent historical claim across these references: the European-philologic
 
 - **The phoneme concept.** European phonology's distinction between the phoneme as an abstract underlying unit and its phonetic realizations follows the *varṇa* / *ucchāraṇa* distinction the Sanskrit discipline operates with.
 
-- **The morpheme concept.** European morphology's analysis of words into constituent morphemes follows the Sanskrit discipline's analysis of words into root + affix combinations.
+- **The morpheme concept.** European morphology's analysis of words into constituent morphemes follows the Sanskrit discipline's analysis of words into dhātu + affix combinations.
 
 - **The generative-rule format.** European generative phonology and generative syntax in the mid-twentieth century (Chomsky, Halle, the early formal-linguistics tradition) explicitly cited Pāṇini's *sūtra* format as the methodological precedent for rule-based linguistic description.
 
@@ -2532,7 +2532,7 @@ The opening verse of the *Ṛgveda* — *Ṛgveda* 1.1.1 — is the canonical in
 >
 > *"I invoke Agni, the household-priest of the sacrifice, the divine officiant, the priest who summons, the most-bestower of treasures."*
 
-The verb *īḷe* — first-person singular present of the root *īḍ* (to praise, to invoke, to extol) — carries the retroflex lateral ळ in the standard *chandas*-mode pronunciation. The *Padapāṭha* preserves the form as *ī̌ḷe* with the retroflex lateral; the *Saṃhitā-pāṭha* recitation across the *Śākala* śākhā holds the same retroflex articulation.
+The verb *īḷe* — first-person singular present of the *īḍ* dhātu (to praise, to invoke, to extol) — carries the retroflex lateral ळ in the standard *chandas*-mode pronunciation. The *Padapāṭha* preserves the form as *ī̌ḷe* with the retroflex lateral; the *Saṃhitā-pāṭha* recitation across the *Śākala* śākhā holds the same retroflex articulation.
 
 The retroflex lateral ळ (ḷ) is the *mūrdhanya* lateral — the lateral consonant articulated at the same place of articulation as the retroflex stops *ṭ ṭh ḍ ḍh ṇ*. It is the fifth member of the lateral series alongside the dental लि (la); the retroflex lateral does not appear in the *bhāṣā*-mode phonological inventory. It is included in the *chandas*-mode inventory (Pāṇini tags such rules *chandasi*) and bounded out of the *bhāṣā* inventory — the two-mode synchronic-parallel distinction Pāṇini's *Aṣṭādhyāyī* operates with (see endnote `chandasi-bhasayam-astadhyayi`).
 
@@ -2599,7 +2599,7 @@ The colonial monitoring machinery could not charge Savarkar for a word he had no
 
 The dating: the speech-and-incident is anchored across the Ratnagiri-internment period (1924–1937 — Savarkar transferred from the Andaman Cellular Jail to Ratnagiri under colonial-political restrictions in 1924, with the restrictions lifted in 1937). The standard biographical references place it at one of the public meetings Savarkar addressed at the Patit Pavan Mandir (the temple at Ratnagiri that Savarkar established as a site of *aspr̥śya*-inclusive worship and of public political address during his internment; foundation stone laid 10 March 1929 by Shankaracharya Dr. Kurtakoti, with construction funded by Bhagoji Sheth Keer; *prāṇa-pratiṣṭhā* consecration ceremony performed 22 February 1931). The precise date of the *mleccha* speech-and-audience-completion incident varies across the sources; the structural form is consistent.
 
-The structural significance: the term *mleccha* — derived from the *Sanskrit* root *√mlecch* (to speak indistinctly, to speak barbarously) — is the canonical Sanskrit term for the non-dharmic, non-Sanskrit-speaking outsider. The term appears across the *Vedic*, *Brāhmaṇa*, *Sūtra*, *Smṛti*, and *Purāṇa* literature as the standing designation for those outside the *Sanskrit*-anchored civilizational order. Savarkar's deployment of the term in colonial Ratnagiri — and the audience's completion of the verse — placed the colonial claim inside the dharmic continuum's standing category for the non-dharmic outsider. The political force is preserved across the term's continuity across the depth of dharmic textual history.
+The structural significance: the term *mleccha* — derived from the Sanskrit dhātu ⟪म्लेच्छ्⟫ (*mlecch*), to speak indistinctly, to speak barbarously — is the canonical Sanskrit term for the non-dharmic, non-Sanskrit-speaking outsider. The term appears across the *Vedic*, *Brāhmaṇa*, *Sūtra*, *Smṛti*, and *Purāṇa* literature as the standing designation for those outside the *Sanskrit*-anchored civilizational order. Savarkar's deployment of the term in colonial Ratnagiri — and the audience's completion of the verse — placed the colonial claim inside the dharmic continuum's standing category for the non-dharmic outsider. The political force is preserved across the term's continuity across the depth of dharmic textual history.
 
 Standard references: the standard biographies of Savarkar — Dhananjay Keer, *Veer Savarkar* (Popular Prakashan, 1950, with subsequent revised editions); A. S. Bhide, *Savarkar's Journey: From the Andaman Cellular Jail to Hindu Mahasabha President* (in Marathi, multiple editions); Vikram Sampath, *Savarkar: Echoes from a Forgotten Past, 1883–1924* (Penguin Viking, 2019) and *Savarkar: A Contested Legacy, 1924–1966* (Penguin Viking, 2021). The incident appears across the Maratha lineage-chain's oral and printed accounts of Savarkar's Ratnagiri period; the precise date and verse-reference vary, with the structural form consistent.
 
@@ -3380,23 +3380,23 @@ Standard references: Malcolm Ross, "Contact-Induced Change and the Comparative M
 
 ### `wiktionary-pasyati-suppletion`
 
-**Short:** The Wiktionary entry on Sanskrit ***पश्यति*** (*paśyati*, "he sees") carries the machinery's account that the root is suppletive — *paśyati* derives from PIE *\*speḱ-*, the remainder of the paradigm from PIE *\*derḱ-*; Chapter 18 §18.8 uses the entry as a compact example of the pyramid's account splitting one Sanskrit *dhātu*-family across multiple reconstructed PIE roots.
+**Short:** The Wiktionary entry on Sanskrit ***पश्यति*** (*paśyati*, "he sees") carries the machinery's account that the paradigm is suppletive — *paśyati* derives from PIE *\*speḱ-*, the remainder of the paradigm from PIE *\*derḱ-*; Chapter 18 §18.8 uses the entry as a compact example of the pyramid's account splitting one Sanskrit *dhātu*-family across multiple reconstructed PIE ancestor-forms.
 
 **Deployments:** Chapter 18 §18.8 — the citation anchor for the Wiktionary etymological entry on Sanskrit *paśyati* and the philological ecosystem's account of suppletion across the Indo-European verbal paradigm for *to see*.
 
-The Wiktionary entry on the Sanskrit verb ***पश्यति (paśyati)*** ("he sees", third-person singular present active of the root *paś-*) carries the following etymological account (as of the version cited):
+The Wiktionary entry on the Sanskrit verb ***पश्यति (paśyati)*** ("he sees", third-person singular present active of the *paś* dhātu) carries the following etymological account (as of the version cited):
 
-> *"The root is suppletive — although पश्यति (paśyati) derives from Proto-Indo-European \*speḱ-, the remainder of the morphological paradigm is derived from Proto-Indo-European \*derḱ-."*
+> The entry claims that पश्यति (*paśyati*) derives from Proto-Indo-European \*speḱ-, while the rest of the morphological paradigm derives from Proto-Indo-European \*derḱ-*.
 
-The structural fact the chapter establishes: the entry posits *two* Proto-Indo-European starred roots (*\*speḱ-* and *\*derḱ-*) as the underlying source of the Sanskrit verb's morphological paradigm. The Sanskrit paradigm itself operates a *suppletive* relationship — *paśyati* (present-stem forms) and *adrākṣīt* (aorist-stem forms) derive from different roots in the surface paradigm. The PIE reconstruction attributes the suppletion to *inheritance* from two distinct PIE roots that have been combined into a single Sanskrit paradigm.
+The structural fact the chapter establishes: the entry posits *two* Proto-Indo-European starred ancestor-forms (*\*speḱ-* and *\*derḱ-*) as the underlying source of the Sanskrit verb's morphological paradigm. The Sanskrit paradigm itself operates a *suppletive* relationship — *paśyati* (present-stem forms) and *adrākṣīt* (aorist-stem forms) belong to different surface stems. The PIE reconstruction attributes the suppletion to *inheritance* from two distinct PIE ancestor-forms that have been combined into a single Sanskrit paradigm.
 
-The chapter's polemic account: the suppletion explanation is the PIE reconstruction project's standard move for any Sanskrit verbal paradigm that does not match a single reconstructable root. *Posit two PIE roots, derive the paradigm's parts from each, treat the suppletion as inheritance from the proto-language*. The move preserves the account's theoretical commitments (every Sanskrit form must derive from some PIE form; the reconstruction must produce the daughter paradigms) at the cost of multiplying entities — two roots, with their reconstructed paradigms, their reconstructed semantic relations, their reconstructed cross-daughter-language correspondences, all to handle the unity the Sanskrit side keeps visible.
+The chapter's polemic account: the suppletion explanation is the PIE reconstruction project's standard move for any Sanskrit verbal paradigm that does not match a single reconstructable ancestor-form. *Posit two PIE ancestor-forms, derive the paradigm's parts from each, treat the suppletion as inheritance from the proto-language*. The move preserves the account's theoretical commitments (every Sanskrit form must derive from some PIE form; the reconstruction must produce the daughter paradigms) at the cost of multiplying entities — two ancestor-forms, with their reconstructed paradigms, their reconstructed semantic relations, their reconstructed cross-daughter-language correspondences, all to handle the unity the Sanskrit side keeps visible.
 
-The alternative account active in §18.8 is narrower and cleaner: Pāṇinian architecture holds the *dṛś* family as a generated Sanskrit family, and *paśyati* is generated through standard present-stem derivation. The daughter-language cognates display partial inheritance through contact-transfer from the operational Sanskrit field, not from a starred two-PIE-root ancestor. The reconstruction project's two-PIE-root postulation is residue of the same operation applied in reverse — the project working backward from the Sanskrit material and projecting the PIE roots the daughter languages would need to have inherited.
+The alternative account active in §18.8 is narrower and cleaner: Pāṇinian architecture holds the *dṛś* family as a generated Sanskrit family, and *paśyati* is generated through standard present-stem derivation. The daughter-language cognates display partial inheritance through contact-transfer from the operational Sanskrit field, not from a starred two-PIE-ancestor account. The reconstruction project's two-PIE-ancestor postulation is residue of the same operation applied in reverse — the project working backward from the Sanskrit material and projecting the PIE ancestor-forms the daughter languages would need to have inherited.
 
 The Wiktionary entry is one of many instances where the chapter's analysis can be tested against routine etymological reference. The broader engagement with the routine reference ecosystem (etymonline, Wiktionary, the dictionary etymological notes) develops across Chapter 18 §§18.4–18.8 and across the cementing-of-PIE analysis at endnote `pie-cementing-recent-decades`.
 
-Standard references: the Wiktionary entry on पश्यति (paśyati) at en.wiktionary.org; the broader PIE-reconstruction literature for the *\*speḱ-* and *\*derḱ-* roots; Manfred Mayrhofer, *Etymologisches Wörterbuch des Altindoarischen* (Carl Winter, 1986–2001), s.v. *paś-*, *dṛś-*; Helmut Rix, *Lexikon der indogermanischen Verben* (Reichert Verlag, second edition 2001), entries on the relevant PIE verbal roots.
+Standard references: the Wiktionary entry on पश्यति (paśyati) at en.wiktionary.org; the broader PIE-reconstruction literature for *\*speḱ-* and *\*derḱ-*; Manfred Mayrhofer, *Etymologisches Wörterbuch des Altindoarischen* (Carl Winter, 1986–2001), s.v. *paś-*, *dṛś-*; Helmut Rix, *Lexikon der indogermanischen Verben* (Reichert Verlag, second edition 2001), entries on the relevant PIE verbal forms.
 
 ---
 
@@ -3466,7 +3466,7 @@ The *Behistun Inscription* — *Bīsotūn* in modern Persian — is a multilingu
 
 The decipherment of the Old Persian text by Henry Rawlinson across 1835–1847, building on earlier work by Grotefend, was foundational to nineteenth-century Iranian and Mesopotamian philology. The inscription's structural feature relevant to the chapter:
 
-When transliterated into Devanāgarī, the Behistun inscription can be read today by a fluent student of Sanskrit. The grammar, the root structures, much of the vocabulary — all of it sits within recognizable distance of the language a modern Indian student is trained in. The Old Persian forms display systematic phonological correspondences to Sanskrit forms (the Indo-Iranian *s* → *h* shift; the Old Persian preservation of certain consonant clusters Sanskrit simplifies; the Old Persian-Sanskrit cognate sets for common vocabulary).
+When transliterated into Devanāgarī, the Behistun inscription can be read today by a fluent student of Sanskrit. The grammar, the verbal structures, much of the vocabulary — all of it sits within recognizable distance of the language a modern Indian student is trained in. The Old Persian forms display systematic phonological correspondences to Sanskrit forms (the Indo-Iranian *s* → *h* shift; the Old Persian preservation of certain consonant clusters Sanskrit simplifies; the Old Persian-Sanskrit cognate sets for common vocabulary).
 
 Structural significance: a fluent *modern* speaker of Persian, presented with the same text, does *not* have the same experience. Modern Persian has drifted substantially from the Old Persian form — vocabulary cycled, phonology shifted, grammar simplified. Modern Persian carries the *cognate-shadow* of the Old Persian; Sanskrit preserves the engineered specification that Old Persian operated on as a contact-language. The two languages — Old Persian and Vedic Sanskrit — were close kin in their recorded forms; they have ended up in radically different relationships to their own past. Sanskrit operates today as the calibrant-anchored language that preserves the engineered form; Persian operates today as the natural-language descendant of its Old Persian form, with the descent visible in the drift.
 
@@ -3562,7 +3562,7 @@ Standard references: *Al-Kitāb* in its standard editions. The standard scholarl
 
 ### `medieval-hebrew-grammarians`
 
-**Short:** Hebrew grammar was codified medievally under explicit Arabic grammatical influence: ***Saadia Gaon*** (Saʿadyāh ben Yōsēf al-Fayyūmī, 882–942 CE, Egyptian-born Gaon of Sura; the *Ha-Egron* dictionary and *Kutub al-Lugha* — earliest systematic Hebrew grammars, in Judeo-Arabic); ***Judah ben David Hayyuj*** (c. 945–1000 CE, Cordoba; three-letter-root analysis); ***Jonah ibn Janah*** (c. 990–1055 CE, Cordoba / Saragossa; *Kitāb al-Tanqīḥ*); ***Abraham ibn Ezra*** (1089–1164 CE, carried the tradition to Christian Europe in Hebrew); ***David Kimhi*** (Radak, c. 1160–1235 CE, Provence; *Sefer Mikhlol*). If Arabic grammar derives from Pāṇinian methodology, Hebrew grammar is *triply* derived — Indic → Arabic → Hebrew.
+**Short:** Hebrew grammar was codified medievally under explicit Arabic grammatical influence: ***Saadia Gaon*** (Saʿadyāh ben Yōsēf al-Fayyūmī, 882–942 CE, Egyptian-born Gaon of Sura; the *Ha-Egron* dictionary and *Kutub al-Lugha* — earliest systematic Hebrew grammars, in Judeo-Arabic); ***Judah ben David Hayyuj*** (c. 945–1000 CE, Cordoba; three-letter-base analysis); ***Jonah ibn Janah*** (c. 990–1055 CE, Cordoba / Saragossa; *Kitāb al-Tanqīḥ*); ***Abraham ibn Ezra*** (1089–1164 CE, carried the tradition to Christian Europe in Hebrew); ***David Kimhi*** (Radak, c. 1160–1235 CE, Provence; *Sefer Mikhlol*). If Arabic grammar derives from Pāṇinian methodology, Hebrew grammar is *triply* derived — Indic → Arabic → Hebrew.
 
 **Deployments:** Chapter 19 §19.2 ¶ (Hebrew-grammar paragraph) — the citation anchor for the medieval Hebrew grammarians who codified Hebrew grammar under explicit Arabic grammatical influence.
 
@@ -3570,9 +3570,9 @@ Hebrew grammar was codified medievally, in the period from the tenth century CE 
 
 - ***Saadia Gaon*** (Saʿadyāh ben Yōsēf al-Fayyūmī) (882–942 CE), Egyptian-born Jewish scholar serving as Gaon of the Sura academy in Babylonia. Saadia's grammatical works — the *Ha-Egron* (the first Hebrew dictionary, in two parts) and *Kutub al-Lugha* (Books of the Language, in Judeo-Arabic) — are the earliest systematic Hebrew grammars, composed in Judeo-Arabic with explicit references to Arabic grammatical methodology.
 
-- ***Judah ben David Hayyuj*** (Yehuda ben David Hayyūj) (c. 945 – c. 1000 CE), Cordoban scholar of the Andalusian Jewish intellectual milieu. Hayyuj produced the foundational works on Hebrew verbal morphology that established the systematic three-letter-root analysis of Hebrew verbs. His works *Kitāb al-Afʿāl Dhawāt Ḥurūf al-Līn* (Book of the Verbs with Weak Letters) and *Kitāb al-Afʿāl Dhawāt al-Mithlayn* (Book of the Verbs with Doubled Letters) are written in Judeo-Arabic and explicitly model their analytical approach on Arabic grammatical methodology.
+- ***Judah ben David Hayyuj*** (Yehuda ben David Hayyūj) (c. 945 – c. 1000 CE), Cordoban scholar of the Andalusian Jewish intellectual milieu. Hayyuj produced the foundational works on Hebrew verbal morphology that established the systematic three-letter-base analysis of Hebrew verbs. His works *Kitāb al-Afʿāl Dhawāt Ḥurūf al-Līn* (Book of the Verbs with Weak Letters) and *Kitāb al-Afʿāl Dhawāt al-Mithlayn* (Book of the Verbs with Doubled Letters) are written in Judeo-Arabic and explicitly model their analytical approach on Arabic grammatical methodology.
 
-- ***Jonah ibn Janah*** (Yonāh ibn Janāḥ; also Abū al-Walīd Marwān ibn Janāḥ) (c. 990 – c. 1055 CE), Cordoban-and-Saragossan scholar of the Andalusian Jewish intellectual milieu. Ibn Janah's *Kitāb al-Tanqīḥ* (Book of Refinement) is the comprehensive medieval Hebrew grammar-and-dictionary, comprising the *Kitāb al-Lumaʿ* (Book of Splendid Things, the grammar) and the *Kitāb al-Uṣūl* (Book of Roots, the dictionary). The work is composed in Judeo-Arabic with extensive citations of Arabic grammatical works.
+- ***Jonah ibn Janah*** (Yonāh ibn Janāḥ; also Abū al-Walīd Marwān ibn Janāḥ) (c. 990 – c. 1055 CE), Cordoban-and-Saragossan scholar of the Andalusian Jewish intellectual milieu. Ibn Janah's *Kitāb al-Tanqīḥ* (Book of Refinement) is the comprehensive medieval Hebrew grammar-and-dictionary, comprising the *Kitāb al-Lumaʿ* (Book of Splendid Things, the grammar) and the *Kitāb al-Uṣūl* (the dictionary). The work is composed in Judeo-Arabic with extensive citations of Arabic grammatical works.
 
 - ***Abraham ibn Ezra*** (1089 – 1164 CE), Andalusian-born Jewish polymath who carried the Hebrew grammatical tradition northward into Christian Europe through his travels and his Hebrew-language grammatical works. *Sefat Yeter* (Excess of Language), *Moznayim* (Scales), *Tsahot* (Eloquence), *Sefer ha-Shem* (Book of the Name) — all written in Hebrew (rather than Judeo-Arabic) — translated the Andalusian Hebrew grammatical tradition for the broader medieval European Jewish readership.
 
@@ -3800,11 +3800,11 @@ A full reproducibility bundle accompanies the book at the repository subdirector
 
 **Anubandha-stripping methodology.** Three *it-saṃjñā* rules are applied algorithmically before structural classification:
 
-1. ***Aṣṭādhyāyī* 1.3.2 — *upadeśe 'janunāsika it***. In the citation form (*upadeśa*), a final *anunāsika*-marked short vowel is an *anubandha*. In the Pāṇinian citation convention, the trailing short *-a* / *-i* / *-u* after a consonant carries this status implicitly. The stripping rule applied: a trailing short -*a*, -*i*, or -*u* immediately following a consonant is stripped, *provided that at least one other vowel remains in the form*. The "vowel must remain" condition prevents over-stripping of genuine CV-pattern roots like *ji* जि (to conquer), *hu* हु (to sacrifice), *sru* स्रु (to flow), *ki* कि (to know), *ru* रु (to roar), where the short vowel is root-final, not anubandha. Long-vowel finals (-ā, -ī, -ū, -ṛ, -e, -ai, -o, -au) are root-final and not stripped — these are the *kṛ*, *bhū*, *dā*, *jñā*, *pā* class.
+1. ***Aṣṭādhyāyī* 1.3.2 — *upadeśe 'janunāsika it***. In the citation form (*upadeśa*), a final *anunāsika*-marked short vowel is an *anubandha*. In the Pāṇinian citation convention, the trailing short *-a* / *-i* / *-u* after a consonant carries this status implicitly. The stripping rule applied: a trailing short -*a*, -*i*, or -*u* immediately following a consonant is stripped, *provided that at least one other vowel remains in the form*. The "vowel must remain" condition prevents over-stripping of genuine CV-pattern dhātavaḥ like *ji* जि (to conquer), *hu* हु (to sacrifice), *sru* स्रु (to flow), *ki* कि (to know), *ru* रु (to roar), where the short vowel is dhātu-final, not anubandha. Long-vowel finals (-ā, -ī, -ū, -ṛ, -e, -ai, -o, -au) are dhātu-final and not stripped — these are the *kṛ*, *bhū*, *dā*, *jñā*, *pā* class.
 
 2. ***Aṣṭādhyāyī* 1.3.5 — *ādir ñiṭuḍavaḥ***. The initial two-character sequences *ñi* (SLP1: Ji), *ṭu* (wu), *ḍu* (qu) in dhātu citation forms are *anubandhas* and are stripped from the front.
 
-3. ***Aṣṭādhyāyī* 1.3.3 — *halantyam***. A trailing single-consonant *anubandha* — typically the ***ñit*** (Y), ***ṅit*** (N), ***lit*** (l), ***ṣit*** (S/z), ***ṭit*** (w), or ***ḍit*** (q) marker signaling grammatical properties such as ātmanepadī conjugation or vowel-shift behavior — is stripped when it sits immediately after a vowel. The classic case is the citation form ***ḍukṛñ*** (SLP1: `qukf\Y`) for the *kṛ* dhātu: the initial *ḍu* is stripped by 1.3.5, the trailing *ñ* by 1.3.3, leaving the bare root *kṛ*. 36 dhātus across the corpus (1.7%) carry trailing post-vowel consonant *anubandhas* of this kind; without this rule they would mis-classify as having an extra consonant.
+3. ***Aṣṭādhyāyī* 1.3.3 — *halantyam***. A trailing single-consonant *anubandha* — typically the ***ñit*** (Y), ***ṅit*** (N), ***lit*** (l), ***ṣit*** (S/z), ***ṭit*** (w), or ***ḍit*** (q) marker signaling grammatical properties such as ātmanepadī conjugation or vowel-shift behavior — is stripped when it sits immediately after a vowel. The classic case is the citation form ***ḍukṛñ*** (SLP1: `qukf\Y`) for the *kṛ* dhātu: the initial *ḍu* is stripped by 1.3.5, the trailing *ñ* by 1.3.3, leaving the bare dhātu *kṛ*. 36 dhātus across the corpus (1.7%) carry trailing post-vowel consonant *anubandhas* of this kind; without this rule they would mis-classify as having an extra consonant.
 
 Accent markers (~, \\, ^) in the SLP1 encoding indicate *udātta*, *anudātta*, and *svarita* respectively and are stripped before structural classification (they are recitational, not structural).
 
@@ -3816,11 +3816,11 @@ Accent markers (~, \\, ^) in the SLP1 encoding indicate *udātta*, *anudātta*, 
 - Classifies each *dhātu* by structural pattern (CV, CVC, CCVC, CVCC, CCVCC, etc.), sonomer count (number of V+C constituents), and akṣara count (number of vowel-nuclei)
 - Produces summary statistics by gaṇa, by structural pattern, by sonomer count, and by akṣara count
 
-The classification is reproducible: re-running `python3 scripts/analyze_dhatupatha.py` from the repository root regenerates the figures cited in the chapter.
+The classification is reproducible: re-running `python3 scripts/analyze_dhatupatha.py` from the repository base directory regenerates the figures cited in the chapter.
 
-**Edge cases and limitations.** Seven entries (~0.3%) classify as bare-vowel V-pattern structures after stripping — these are special-case Pāṇinian-citation forms (e.g., the bare-vowel roots *i* = इ "to go", *ṛ* = ऋ "to go", *f* in the SLP1 encoding) and are correctly retained as 1-akṣara dhātus. A more granular Pāṇinian analysis would also handle the *cuṭū* (*Aṣṭādhyāyī* 1.3.7) and *laśakvataddhite* (1.3.8) rules for initial-consonant anubandhas in *pratyaya*s, but these rules do not affect dhātu citation specifically and are out of scope for the structural analysis here.
+**Edge cases and limitations.** Seven entries (~0.3%) classify as bare-vowel V-pattern structures after stripping — these are special-case Pāṇinian-citation forms (e.g., the bare-vowel dhātavaḥ *i* = इ "to go", *ṛ* = ऋ "to go", *f* in the SLP1 encoding) and are correctly retained as 1-akṣara dhātus. A more granular Pāṇinian analysis would also handle the *cuṭū* (*Aṣṭādhyāyī* 1.3.7) and *laśakvataddhite* (1.3.8) rules for initial-consonant anubandhas in *pratyaya*s, but these rules do not affect dhātu citation specifically and are out of scope for the structural analysis here.
 
-**Cross-validation.** The Sanskrit Heritage Platform's `parts.csv` (at https://github.com/sanskrit/data/blob/master/sanskrit-heritage-site/parts.csv) provides ~11,570 verb stems with their underlying root forms (the *root* column gives the anubandha-stripped form per the Sanskrit Heritage convention). Spot-checking the structural-analysis output against this independent lexicon confirms that the *Aṣṭādhyāyī* 1.3.2 + 1.3.3 + 1.3.5 rules implemented here recover the standard underlying roots for the vast majority of *Dhātupāṭha* entries — including canonical cases like *kṛ* (ḍukṛñ → kṛ), *brū* (brūñ → brū), *śri* (śriñ → śri).
+**Cross-validation.** The Sanskrit Heritage Platform's `parts.csv` (at https://github.com/sanskrit/data/blob/master/sanskrit-heritage-site/parts.csv) provides ~11,570 verb stems with their underlying dhātu forms (the source column named `root` gives the anubandha-stripped form per the Sanskrit Heritage convention). Spot-checking the structural-analysis output against this independent lexicon confirms that the *Aṣṭādhyāyī* 1.3.2 + 1.3.3 + 1.3.5 rules implemented here recover the standard underlying dhātavaḥ for the vast majority of *Dhātupāṭha* entries — including canonical cases like *kṛ* (ḍukṛñ → kṛ), *brū* (brūñ → brū), *śri* (śriñ → śri).
 
 **The empirical claim therefore holds at:** the *Dhātupāṭha* inventory concentrates around compact sonomer-count and *mātrā* bands. Three-sonomer atoms are the peak (**58.2%**); four-sonomer atoms are still heavy (**25.7%**); five-sonomer atoms drop to **3.6%**; six-and-above is the cliff at **0.5%**. The 2-*mātrā* envelope carries **46.0%** of the inventory, and through 3 *mātrās* the coverage reaches **94%**. The compression-principle distribution is the empirical signature of an engineered atomic inventory.
 
@@ -3832,7 +3832,7 @@ The classification is reproducible: re-running `python3 scripts/analyze_dhatupat
 
 **Deployments:** Ch10 §10.5 (first introduction of the *gamādi racanā*).
 
-The suffix-like element ***-ādi*** (आदि) means *beginning with*, *and so on from*, *the class headed by*. Sanskrit grammatical literature uses this naming habit constantly: a class can be labeled by its first member plus *ādi*, with the first member functioning as the recognizable head of the set. Ch 10 adapts that habit for the scaffold roster. **गमादि (*gamādi*)** is the scaffold headed by **गम् (*gam*)**; **स्पदादि (*spadādi*)**, **मन्थादि (*manthādi*)**, **वाचादि (*vācādi*)**, and the rest follow the same convention.
+The suffix-like element ***-ādi*** (आदि) means *beginning with*, *and so on from*, *the class headed by*. Sanskrit grammatical literature uses this naming habit constantly: a class can be labeled by its first member plus *ādi*, with the first member functioning as the recognizable head of the set. Ch 10 adapts that habit for the scaffold roster. **गमादि (*gamādi*)** is the scaffold headed by **⟪गम्⟫ (*gam*)**; **स्पदादि (*spadādi*)**, **मन्थादि (*manthādi*)**, **वाचादि (*vācādi*)**, and the rest follow the same convention.
 
 The usage is a book-internal naming convention, not a claim that Pāṇini himself named these statistical scaffold categories. The point is methodological and reader-facing: the scaffold has a structural shorthand, but it also deserves a Sanskrit-facing name. *Gamādi racanā* is easier to remember than a bare formula, and it keeps the analysis inside the language's own habit of class naming.
 
@@ -3934,7 +3934,7 @@ This note does not attempt to settle chronology on the pyramid's terms. The dati
 
 ### `juhotyadibhyah-shluh-dadhati`
 
-**Short:** धा (*dhā*) → दधाति (*dadhāti*) supplies the teaching-level example for the two correction paths in Ch 13 §13.5. The rule-trained path cites Pāṇini's *Aṣṭādhyāyī* 2.4.75, **जुहोत्यादिभ्यः श्लुः (*juhotyādibhyaḥ śluḥ*)**, which governs the *juhotyādi* class operation. The saturation-trained path cites Ṛgveda 1.66.2, where the Vedic line preserves **दधाति (*dadhāti*)** directly: **वाजी । न । प्रीतः । वयः । दधाति** (*vājī | na | prītaḥ | vayaḥ | dadhāti*) — "Like a contented stallion, he bestows vital strength."
+**Short:** ⟪धा⟫ (*dhā*) → दधाति (*dadhāti*) supplies the teaching-level example for the two correction paths in Ch 13 §13.5. The rule-trained path cites Pāṇini's *Aṣṭādhyāyī* 2.4.75, **जुहोत्यादिभ्यः श्लुः (*juhotyādibhyaḥ śluḥ*)**, which governs the *juhotyādi* class operation. The saturation-trained path cites Ṛgveda 1.66.2, where the Vedic line preserves **दधाति (*dadhāti*)** directly: **वाजी । न । प्रीतः । वयः । दधाति** (*vājī | na | prītaḥ | vayaḥ | dadhāti*) — "Like a contented stallion, he bestows vital strength."
 
 **Deployments:** Ch13 §13.5 (the "Two Minds, Two Layers" subsection).
 
@@ -4069,7 +4069,7 @@ Source: Bybee 1985, *Morphology: A Study of the Relation between Meaning and For
 
 ### `deva-pie-etymology`
 
-**Short:** The Western philological account projects Latin *deus* and Sanskrit *devaḥ* back to a reconstructed PIE **\*deiwós** ("deity") under the root **\*dyew-** ("to shine"); the book treats the shared "shine" semantics as reflections of the engineered Sanskrit calibrant rather than evidence of a vanished common ancestor.
+**Short:** The Western philological account projects Latin *deus* and Sanskrit *devaḥ* back to a reconstructed PIE **\*deiwós** ("deity") under **\*dyew-** ("to shine"); the book treats the shared "shine" semantics as reflections of the engineered Sanskrit calibrant rather than evidence of a vanished common ancestor.
 
 **Deployments:** Ch18 §18.6 (the *deva* chain); Figure 18.2.
 
@@ -4428,7 +4428,7 @@ The line gives the lineage-chain's explicit version of what Chapter 5 develops: 
 | च | *ca* | and |
 | सूत्रम् | *sūtram* | a *sūtra* |
 | सूत्रविदः | *sūtravidaḥ* | the knowers of *sūtras* (nominative plural compound) |
-| विदुः | *viduḥ* | they know (perfect 3pl. of √*vid*, *to know*) |
+| विदुः | *viduḥ* | they know (perfect 3pl. of the dhātu ⟪विद्⟫ (*vid*), *to know*) |
 
 #### Translation
 
@@ -4637,7 +4637,7 @@ Standard citation: Yāska, *Nirukta* 1.12. A modern discussion of the Śākaṭ�
 
 ### `kr-bonding-examples`
 
-**Short:** कृ (*kṛ*) functions as the flagship atom because the same semantic atom generates a wide field of visible molecules: **कर्म (*karma*)**, **कर्तृ (*kartṛ*)**, **कार्य (*kārya*)**, **प्रकृति (*prakṛti*)**, **विकृति (*vikṛti*)**, **संस्कृति (*saṃskṛti*)**, and **संस्कार (*saṃskāra*)**.
+**Short:** ⟪कृ⟫ (*kṛ*) functions as the flagship atom because the same semantic atom generates a wide field of visible molecules: **कर्म (*karma*)**, **कर्तृ (*kartṛ*)**, **कार्य (*kārya*)**, **प्रकृति (*prakṛti*)**, **विकृति (*vikṛti*)**, **संस्कृति (*saṃskṛti*)**, and **संस्कार (*saṃskāra*)**.
 
 **Deployments:** Chapter 12 §§12.3-12.6.
 
@@ -4653,7 +4653,7 @@ The data-side reason for choosing *kṛ* is strong. In the Path C usage audit, *
 
 ### `hlad-contrast-atom`
 
-**Short:** **ह्लाद् (*hlād*)** is the lower-reactivity contrast atom for कृ (*kṛ*). The contrast prevents the argument from implying that every *dhātuḥ* behaves like the most reactive atom in the corpus.
+**Short:** **⟪ह्लाद्⟫ (*hlād*)** is the lower-reactivity contrast atom for ⟪कृ⟫ (*kṛ*). The contrast prevents the argument from implying that every *dhātuḥ* behaves like the most reactive atom in the corpus.
 
 **Deployments:** Chapter 12 §12.3.
 
@@ -4665,15 +4665,15 @@ Keep **स्वाद् (*svād*)** as reserve if the prose needs a more immed
 
 ### `apabhramsa-vivimorphosis-boundary`
 
-**Short:** Two names describe one boundary process. From Sanskrit's side, the process is **अपभ्रंश (*apabhraṃśa*)** — falling away from the engineered *śabda*. From the receiving language's side, the same process is **vivimorphosis** — the engineered molecule acquiring organic behavior as a seed and then as a root in another language.
+**Short:** Two names describe one boundary process. From Sanskrit's side, the process is **अपभ्रंश (*apabhraṃśa*)** — falling away from the engineered *śabda*. From the receiving language's side, the same process is **vivimorphosis** — the engineered molecule acquiring organic behavior as a seed and then as an organic form in another language.
 
 **Deployments:** Chapter 12 §12.9; Chapter 18 §§18.6–18.7 when the worked examples (*mātṛ* → *mother*, *yuga* → *yoke*, *devaḥ* → Latin *deus*, *asuraḥ* → Avestan *ahura*) are developed.
 
 Chapter 6 establishes the Sanskrit-side term through Patañjali's *Paspaśāhnika*: *apaśabda* and *apabhraṃśa* denote the slipped or fallen-away form that leaves the correct *śabda*. From the contact-language side, the same event looks different. The Sanskrit form has fallen away from the calibrant architecture; in the receiving language, that received form can become productive and historically fertile.
 
-The coining **vivimorphosis** is built from Latin *vivus* ("alive") and Greek *morphōsis* ("shaping, formation"). It denotes the transition from engineered form to organic behavior. The term does not replace *apabhraṃśa*; it completes the two-sided description. *Apabhraṃśa* captures the loss from the calibrant side. Vivimorphosis captures the gain from the receiving side: the molecule becomes a seed, the seed becomes an organic root, and the root can produce descendants under the receiving language's own pressures.
+The coining **vivimorphosis** is built from Latin *vivus* ("alive") and Greek *morphōsis* ("shaping, formation"). It denotes the transition from engineered form to organic behavior. The term does not replace *apabhraṃśa*; it completes the two-sided description. *Apabhraṃśa* captures the loss from the calibrant side. Vivimorphosis captures the gain from the receiving side: the molecule becomes a seed, the seed becomes an organic form, and that form can produce descendants under the receiving language's own pressures.
 
-The distinction protects the category-theft rejection of "root" for *dhātavaḥ*. Sanskrit's *dhātavaḥ* are semantic atoms inside an engineered architecture. Organic roots arise after boundary crossing, when a Sanskrit *śabda* becomes an *apaśabda* in another linguistic ecology. The botanical metaphor is therefore not abolished; it is relocated to the proper object.
+The distinction protects the category-theft rejection of the botanical substitute for *dhātavaḥ*. Sanskrit's *dhātavaḥ* are semantic atoms inside an engineered architecture. Organic forms arise after boundary crossing, when a Sanskrit *śabda* becomes an *apaśabda* in another linguistic ecology. The botanical metaphor is therefore not abolished; it is relocated to the proper object.
 
 ---
 
@@ -4695,7 +4695,7 @@ The point of the note is methodological. A *Prātiśākhya* is not the Vedic man
 
 **Deployments:** Chapter 16 §16.2.
 
-The compact doubled form is already inside the Vedic corpus. Ṛgveda 1.164.4 uses *dadarśa* from the atom *dṛś*: *ko dadarśa prathamaṃ jāyamānam*. Ṛgveda 10.107.7 uses *dadāti* from the atom *dā*: *dakṣiṇāśvaṃ dakṣiṇā gāṃ dadāti*. Ṛgveda 7.87.4 gives *bibharti* from the atom *bhṛ*. Chapter 16 therefore introduces the phenomenon as Vedic evidence before naming Pāṇini's technical category. Pāṇini does not create the doubling; he documents, names, and regulates an operation already visible in the Veda as **अभ्यास (*abhyāsa*)**. Locators web-verified 2026-06-30 (dadarśa RV 1.164.4; dadāti RV 10.107.7; bibharti RV 7.87.4); accenting and exact saṃhitā / padapāṭha presentation to confirm against the printed Ṛgveda edition at production.
+The compact doubled form is already inside the Vedic corpus. Ṛgveda 1.164.4 uses *dadarśa* from the atom ⟪दृश्⟫ (*dṛś*): *ko dadarśa prathamaṃ jāyamānam*. Ṛgveda 10.107.7 uses *dadāti* from the atom ⟪दा⟫ (*dā*): *dakṣiṇāśvaṃ dakṣiṇā gāṃ dadāti*. Ṛgveda 7.87.4 gives *bibharti* from the atom ⟪भृ⟫ (*bhṛ*). Chapter 16 therefore introduces the phenomenon as Vedic evidence before naming Pāṇini's technical category. Pāṇini does not create the doubling; he documents, names, and regulates an operation already visible in the Veda as **अभ्यास (*abhyāsa*)**. Locators web-verified 2026-06-30 (dadarśa RV 1.164.4; dadāti RV 10.107.7; bibharti RV 7.87.4); accenting and exact saṃhitā / padapāṭha presentation to confirm against the printed Ṛgveda edition at production.
 
 ---
 

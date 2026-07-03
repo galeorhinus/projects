@@ -22,7 +22,7 @@
 
 The subcontinental sound-field has now been surveyed: mouth-zones, the retroflex band, contact sounds, nasals, sibilant neighborhoods, and breath possibilities. Sanskrit curates that field into an **inventory**: a selected set of sonomers the language treats as stable sound-units, gives addresses to, teaches, preserves, and uses in grammar.
 
-The Vedic mantra provides the imagery of an abundant field and a sieve that curates. The wise refined raw sound, chose usable measure, and formed **वाक् (*Vāk*)** with the mind. **अक्रत (*akrata*)** is a finite plural verb from √कृ (*kṛ*): the wise *formed* Speech. The movement is direct: sound-field becomes *varṇamālā*.
+The Vedic mantra provides the imagery of an abundant field and a sieve that curates. The wise refined raw sound, chose usable measure, and formed **वाक् (*Vāk*)** with the mind. **अक्रत (*akrata*)** is a finite plural verb from the dhātu ⟪कृ⟫ (*kṛ*): the wise *formed* Speech. The movement is direct: sound-field becomes *varṇamālā*.
 
 The second half adds radiance. Friends recognize friendship in that formed Speech. In separated form, the final pāda says **भद्रा एषां लक्ष्मीः (*bhadrā eṣāṃ lakṣmīḥ*)** is placed **अधि वाचि (*adhi vāci*)** — in Speech: auspicious radiance, the beauty that makes order visible. This is the **दिव्यता (*divyatā*)** layer. The verse moves from engineering to radiance.
 
@@ -229,7 +229,7 @@ The *varṇamālā* selects the sonomers. The *akṣara* stabilizes them. The *m
 
 The *varṇamālā* is upstream of the rule-system that indexes it. The **माहेश्वरसूत्राणि (*Māheśvara-sūtrāṇi*)** rearrange an inventory already standing into an operating index for grammar.[NOTE: pre-panini-pratisakhya-classification] The pyramid later distorts that order of events. The architectural point is enough here: Pāṇini decoded and indexed a system already operating.
 
-The next step depends on the consonant's half-*mātrā*.[NOTE: vyanjana-duration-shiksha] A *dhātuḥ* such as **गम् (*gam*)** is more precise than "CVC": it is 1/2 + 1 + 1/2. **भू (*bhū*)** is 1/2 + 2. **दृश् (*dṛś*)** is 1/2 + 1 + 1/2. Before the atom has semantic behavior, it already has a timing envelope.
+The next step depends on the consonant's half-*mātrā*.[NOTE: vyanjana-duration-shiksha] A *dhātuḥ* such as **⟪गम्⟫ (*gam*)** is more precise than "CVC": it is 1/2 + 1 + 1/2. **⟪भू⟫ (*bhū*)** is 1/2 + 2. **⟪दृश्⟫ (*dṛś*)** is 1/2 + 1 + 1/2. Before the atom has semantic behavior, it already has a timing envelope.
 
 The next scale uses that envelope. The notation — C, V1, V2 — is a modern shorthand for Sanskrit's older timing discipline. C is a half-*mātrā*. V1 is one *mātrā*. V2 is two *mātrās*. The scaffold is timed before it is filled.
 

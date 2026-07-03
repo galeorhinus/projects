@@ -32,7 +32,7 @@ The source corpus is the digital Pāṇinian **धातुपाठ (*Dhātupā
 Each Pāṇinian *dhātu* citation form carries **अनुबन्ध (*anubandha*)** sounds — phonemes present in the citation that are not part of the underlying *dhātu*, used to signal grammatical properties the **अष्टाध्यायी (*Aṣṭādhyāyī*)** applies later in derivation. The **इत्संज्ञा (*it-saṃjñā*)** rules of *Aṣṭādhyāyī* 1.3.2–1.3.9 specify which phonemes are *anubandhas*. Three rules apply to *dhātavaḥ* and are implemented in every analysis script:
 
 - **1.3.2 — *upadeśe 'janunāsika it*** (उपदेशेऽजनुनासिक इत्): a final *anunāsika*-marked short vowel is an *anubandha*. Trailing short *-a* / *-i* / *-u* after a consonant carries this status. Implementation strips such trailing short vowels *only when at least one other vowel remains* — preserving genuine CV-pattern *dhātavaḥ* like *ji* (जि, to conquer), *hu* (हु, to sacrifice), *sru* (स्रु, to flow).
-- **1.3.3 — *halantyam*** (हलन्त्यम्): a trailing single-consonant *anubandha* is stripped when it sits immediately after a vowel. The canonical case is *kṛ* (कृ), cited as *ḍukṛñ* (डुकृञ्); after the initial *ḍu* is stripped by 1.3.5 and the trailing *ñ* by 1.3.3, the underlying *dhātu* *kṛ* is recovered.
+- **1.3.3 — *halantyam*** (हलन्त्यम्): a trailing single-consonant *anubandha* is stripped when it sits immediately after a vowel. The canonical case is ⟪कृ⟫ (*kṛ*), cited as *ḍukṛñ* (डुकृञ्); after the initial *ḍu* is stripped by 1.3.5 and the trailing *ñ* by 1.3.3, the underlying *dhātu* ⟪कृ⟫ is recovered.
 - **1.3.5 — *ādir ñiṭuḍavaḥ*** (आदिर्ञिटुडवः): the initial two-character sequences *ñi* / *ṭu* / *ḍu* in *dhātu* citation forms are *anubandhas* and are stripped from the front.
 
 Accent markers (~, \\, ^) — the **उदात्त (*udātta*)** / **अनुदात्त (*anudātta*)** / **स्वरित (*svarita*)** recitational distinctions — are stripped before structural classification.
@@ -219,7 +219,7 @@ Three independent measurements pointing at the same conclusion: the *mūrdhanya*
 
 ## 6.6 The *Ṛ* Signal and the *Ṛ* / *Ra* Bridge
 
-**Prediction.** अ (*a*, the inherent vowel) should dominate — lowest cost, default carrier. ऋ (*ṛ*) should cluster with specific consonants (the classic *vṛ-* वृ-, *kṛ-* कृ- *dhātu* pattern). Long vowels should be over-represented in compact CV / CCV *dhātavaḥ*.
+**Prediction.** अ (*a*, the inherent vowel) should dominate — lowest cost, default carrier. ऋ (*ṛ*) should cluster with specific consonants (the classic ⟪वृ⟫ / ⟪कृ⟫ *dhātu* pattern). Long vowels should be over-represented in compact CV / CCV *dhātavaḥ*.
 
 **Data** (*gaṇa* 1, 1,397 vowel occurrences):
 
@@ -283,7 +283,7 @@ Ch 10 §10.7 carries the canonical statement of the compression finding. This se
 
 *Akṣara* count: 1 *akṣara* **98.2%**, 2 *akṣaras* 1.6%, 3+ *akṣaras* 0.2%.
 
-**The falsification narrative.** Earlier appendix snapshots reported 48.5% modal-particle share, 1.9% at the 5-particle threshold, and 82.8% single-*akṣara* dominance. Those numbers came from a pre-Pāṇinian-1.3.2 *anubandha*-stripping pass, which misclassified ~320 *dhātavaḥ* whose trailing nasalized vowels are *it*-markers per Pāṇini and not part of the structural root. The correction shifted the modal-particle peak from 48.5% to 58.2%, sharpened the 5-particle threshold from 1.9% to 3.6%, and raised single-*akṣara* dominance from 82.8% to 98.2%. The architecture compresses more sharply than the pre-correction numbers indicated.
+**The falsification narrative.** Earlier appendix snapshots reported 48.5% modal-particle share, 1.9% at the 5-particle threshold, and 82.8% single-*akṣara* dominance. Those numbers came from a pre-Pāṇinian-1.3.2 *anubandha*-stripping pass, which misclassified ~320 *dhātavaḥ* whose trailing nasalized vowels are *it*-markers per Pāṇini and not part of the structural atom. The correction shifted the modal-particle peak from 48.5% to 58.2%, sharpened the 5-particle threshold from 1.9% to 3.6%, and raised single-*akṣara* dominance from 82.8% to 98.2%. The architecture compresses more sharply than the pre-correction numbers indicated.
 
 The methodological lesson: the empirical engineering signal lives in the post-Pāṇinian-stripped form. Applying the correct *Aṣṭādhyāyī* 1.3.x rules is not a clean-up step; it is the difference between measuring the *dhātuḥ* and measuring the citation form.
 
@@ -437,34 +437,34 @@ One engineering signature, three levels, one principle: range preserved where ra
 
 **The measurement.** Path C operationalizes reactivity as **corpus-attested combinatorial valency**: the count of distinct (*upasarga*, *pratyaya*-class) pairs in which each *dhātuḥ* surfaces across the Digital Corpus of Sanskrit (DCS) — Hellwig's lemmatized parsed corpus covering Vedic and post-Vedic Sanskrit. The reproducibility bundle is `analysis/ganah/`. Chapter 11 §§11.6–11.9 carries the polemic version; this section is the empirical reservoir.
 
-**The dataset.** 15,900 parsed CoNLL-U files. 1,007,361 verb-token occurrences. 35,319 unique (root, preverb, *pratyaya*-class) triples. 3,839 unique bare roots. Coverage spans Vedic (Ṛgveda, Atharvaveda), epic (Mahābhārata, Rāmāyaṇa), grammatical, *śāstric*, *purāṇic*, *kāvya*, Buddhist, medical, ritual, and philosophical material.
+**The dataset.** 15,900 parsed CoNLL-U files. 1,007,361 verb-token occurrences. 35,319 unique (dhātu, preverb, *pratyaya*-class) triples. 3,839 unique bare dhātavaḥ. Coverage spans Vedic (Ṛgveda, Atharvaveda), epic (Mahābhārata, Rāmāyaṇa), grammatical, *śāstric*, *purāṇic*, *kāvya*, Buddhist, medical, ritual, and philosophical material.
 
 **Top 20 *dhātavaḥ* by Path C valency:**
 
 | Rank | Dhātuḥ | Path C valency | Gloss |
 |---:|:--|---:|---|
-| 1 | **कृ (*kṛ*)** | 1,062 | do, make |
-| 2 | **भू (*bhū*)** | 504 | be, become |
-| 3 | **धा (*dhā*)** | 386 | place, set |
-| 4 | **हृ (*hṛ*)** | 368 | carry, take |
+| 1 | **⟪कृ⟫ (*kṛ*)** | 1,062 | do, make |
+| 2 | **⟪भू⟫ (*bhū*)** | 504 | be, become |
+| 3 | **⟪धा⟫ (*dhā*)** | 386 | place, set |
+| 4 | **⟪हृ⟫ (*hṛ*)** | 368 | carry, take |
 | 5 | वृत् (*vṛt*) | 293 | turn, exist |
-| 6 | **गम् (*gam*)** | 291 | go |
+| 6 | **⟪गम्⟫ (*gam*)** | 291 | go |
 | 7 | नी (*nī*) | 253 | lead |
 | 8 | क्रम् (*kram*) | 244 | step, proceed |
 | 9 | हन् (*han*) | 216 | strike |
-| 10 | पद् (*pad*) | 207 | fall, step |
+| 10 | ⟪पद्⟫ (*pad*) | 207 | fall, step |
 | 11 | या (*yā*) | 205 | go |
 | 12 | *vartay* | 194 | (DCS-derived causative; see methodological note below) |
 | 13 | ग्रह् (*grah*) | 182 | grasp |
 | 14 | सृज् (*sṛj*) | 182 | release, emit |
-| 15 | **दा (*dā*)** | 176 | give |
-| 16 | **ज्ञा (*jñā*)** | 176 | know |
-| 17 | युज् (*yuj*) | 172 | yoke, join |
+| 15 | **⟪दा⟫ (*dā*)** | 176 | give |
+| 16 | **⟪ज्ञा⟫ (*jñā*)** | 176 | know |
+| 17 | ⟪युज्⟫ (*yuj*) | 172 | yoke, join |
 | 18 | चर् (*car*) | 170 | move, wander |
-| 19 | **स्था (*sthā*)** | 166 | stand |
+| 19 | **⟪स्था⟫ (*sthā*)** | 166 | stand |
 | 20 | पत् (*pat*) | 164 | fall, fly |
 
-The **canonical nine polyvalent core** — *kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ* — is bolded above; all nine land in the top 19. Chapter 11 §11.6 develops this set as the carbon-class core. Mean valency across the full 3,839 roots is 9.2; median is 2, a long-tail distribution consistent with compression architecture.
+The **canonical nine polyvalent core** — *kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ* — is bolded above; all nine land in the top 19. Chapter 11 §11.6 develops this set as the carbon-class core. Mean valency across the full 3,839 dhātavaḥ is 9.2; median is 2, a long-tail distribution consistent with compression architecture.
 
 **Methodological note on *vartay*.** *vartay* appears at valency 194 but is a DCS-derived causative lemma — the form is a corpus-attested causative derivative of वृत् (*vṛt*), not a canonical *Dhātupāṭha* atom. The 9 canonical polyvalents land at ranks 1, 2, 6, 7, 13, 15, 16, 19 (one rank shifts up when *vartay* is excluded).
 
@@ -480,7 +480,7 @@ The **canonical nine polyvalent core** — *kṛ, bhū, sthā, gam, jñā, dā, 
 
 **The reactivity tier structure.** The 3,839 corpus-visible *dhātavaḥ* arrange into three empirical tiers under a locked cutoff scheme (valency ≥ 50 / 5–49 / ≤ 4):
 
-| Tier | Valency range | Roots | % of inventory | Verb-token share | Role |
+| Tier | Valency range | Dhātavaḥ | % of inventory | Verb-token share | Role |
 |---|---:|---:|---:|---:|---|
 | Polyvalent — the carbon class | ≥ 50 | 147 | **3.8%** | **67.6%** | high-bonding core |
 | Bivalent — the stable middle | 5–49 | 1,059 | 27.6% | 30.5% | productive middle |
@@ -566,7 +566,7 @@ Productivity by structural pattern:
 
 **Path A Spearman ρ (productivity vs particle count): −0.485.** Mean particle count, top 20 by productivity: **2.40**. Mean particle count, bottom 20: **3.50**. Bottom-to-top ratio: 1.46×.
 
-**Path C corroboration.** The corpus-attested valency measure (§6.12) reproduces the inverse relationship: **Path C ρ vs particles = −0.4334** on the full 3,839-root corpus. The compression principle holds at every measurement scale tested — curated 138-root MW sample, full 3,839-root corpus, both directions.
+**Path C corroboration.** The corpus-attested valency measure (§6.12) reproduces the inverse relationship: **Path C ρ vs particles = −0.4334** on the full 3,839-dhātu corpus. The compression principle holds at every measurement scale tested — curated 138-dhātu MW sample, full 3,839-dhātu corpus, both directions.
 
 **Verdict — strongly confirmed.** The CV pattern's mean productivity (32.6) is **2.9×** higher than CCVCC (11.4). The top 20 productivity ranks are dominated by 2-particle CV *dhātavaḥ* (11 of 20). *Kṛ* alone — two particles — anchors 75+ primary derivatives, more than the entire CCVCC sample combined.
 
@@ -629,23 +629,23 @@ Scripts:
 | `analyze_shells.py` | shell-structure analysis of consonant deployment |
 | `analyze_productivity.py` | §6.13 productivity vs structural complexity (Path A Spearman ρ = −0.485) |
 
-From the bundle root: `python3 scripts/<script-name>.py [gaṇa]` (`[gaṇa]` is an optional numerical filter 1–10).
+From the bundle directory: `python3 scripts/<script-name>.py [gaṇa]` (`[gaṇa]` is an optional numerical filter 1–10).
 
 ### Bundle 2: `analysis/ganah/` (Path C — corpus-attested)
 
 Source corpus and *prayoga* combinatorial-valency scripts for §6.12 (and the §6.11 Path C sharpening; the §6.13 Path C corroboration).
 
 - **`data/raw/dcs/`** — Hellwig's Digital Corpus of Sanskrit GitHub mirror (`OliverHellwig/sanskrit`), CC BY 4.0. 15,900 CoNLL-U parsed Sanskrit files; 180,176-row dictionary with explicit preverb attribution per lemma.
-- **`data/derived/attestation_index.csv`** — 35,319 unique (root, preverb, *pratyaya*-class) triples across 1,007,361 verb tokens.
-- **`data/derived/path_c_valency.csv`** — 3,839 roots with computed Path C valency.
-- **`data/derived/path_a_vs_path_c.csv`** — 121 matched MW roots for the two-instrument cross-validation.
+- **`data/derived/attestation_index.csv`** — 35,319 unique (dhātu, preverb, *pratyaya*-class) triples across 1,007,361 verb tokens.
+- **`data/derived/path_c_valency.csv`** — 3,839 dhātavaḥ with computed Path C valency.
+- **`data/derived/path_a_vs_path_c.csv`** — 121 matched MW dhātavaḥ for the two-instrument cross-validation.
 
 Scripts (run in execution order):
 
 | Script | Output feeds |
 |---|---|
-| `build_attestation.py` | attestation index — every (root, preverb, *pratyaya*) triple across the corpus |
-| `compute_valency.py` | §6.12 per-root Path C valency = count of distinct bonding pairs |
+| `build_attestation.py` | attestation index — every (dhātu, preverb, *pratyaya*) triple across the corpus |
+| `compute_valency.py` | §6.12 per-dhātu Path C valency = count of distinct bonding pairs |
 | `spearman_baseline.py` | §6.12 ρ(MW vs Path C) = +0.6647; §6.13 ρ(Path C vs particles) = −0.4334 |
 | `tier_cutoffs.py` | tier cutoff scheme selection (locked at ≥50 / 5–49 / ≤4) |
 | `tier_distribution.py` | §6.12 reactivity tier population + token shares |

@@ -54,7 +54,7 @@ The atom is यज् (*yaj*), a two-*mātrā* consonant-framed short-vowel atom
 
 ![Vedic assembly: यज् (*yaj*) becomes यजति (*yajati*).](figures/building_kriya/vedic_yajati.svg){#fig:building-kriya-vedic-yajati width=100%}
 
-### 2.5 *mātrās*: भू (*bhū*) → भवति (*bhavati*)
+### 2.5 *mātrās*: ⟪भू⟫ (*bhū*) → भवति (*bhavati*)
 
 > क्रतुः । **भवति** । उक्थ्यः ।
 >
@@ -62,11 +62,11 @@ The atom is यज् (*yaj*), a two-*mātrā* consonant-framed short-vowel atom
 >
 > RV 1.17.5c
 
-The atom is भू (*bhū*), a two-and-a-half-*mātrā* form: consonant plus long vowel. In **भवति (*bhavati*)**, the long vowel material changes into भव् (*bhav*), and अ (*a*) + ति (*ti*) complete the molecule.
+The atom is ⟪भू⟫ (*bhū*), a two-and-a-half-*mātrā* form: consonant plus long vowel. In **भवति (*bhavati*)**, the long vowel material changes into भव् (*bhav*), and अ (*a*) + ति (*ti*) complete the molecule.
 
-> भू (*bhū*) → भव् (*bhav*) + अ (*a*) + ति (*ti*) → भवति (*bhavati*)
+> ⟪भू⟫ (*bhū*) → भव् (*bhav*) + अ (*a*) + ति (*ti*) → भवति (*bhavati*)
 
-![Vedic assembly: भू (*bhū*) becomes भवति (*bhavati*).](figures/building_kriya/vedic_bhavati.svg){#fig:building-kriya-vedic-bhavati width=100%}
+![Vedic assembly: ⟪भू⟫ (*bhū*) becomes भवति (*bhavati*).](figures/building_kriya/vedic_bhavati.svg){#fig:building-kriya-vedic-bhavati width=100%}
 
 ### 3 *mātrās*: राज् (*rāj*) → राजति (*rājati*)
 
@@ -135,15 +135,15 @@ The five Vedic examples can now be read in Pāṇini's notation layer.
 
 ![Pāṇinian notation layer: अस् (*as*) becomes अस्ति (*asti*).](figures/building_kriya/panini_asti.svg){#fig:building-kriya-panini-asti width=100%}
 
-**यज् (*yaj*) → यजति (*yajati*).** This belongs in the *bhvādi* class. The class-signature is शप् (*śap*): the anubandhas disappear, and the visible survivor is अ (*a*). The *tiṅ* ending contributes ति (*ti*). The molecule is यजति (*yajati*).
+**⟪यज्⟫ (*yaj*) → यजति (*yajati*).** This belongs in the *bhvādi* class. The class-signature is शप् (*śap*): the anubandhas disappear, and the visible survivor is अ (*a*). The *tiṅ* ending contributes ति (*ti*). The molecule is यजति (*yajati*).
 
 ![Pāṇinian notation layer: यज् (*yaj*) becomes यजति (*yajati*).](figures/building_kriya/panini_yajati.svg){#fig:building-kriya-panini-yajati width=100%}
 
-**भू (*bhū*) → भवति (*bhavati*).** This also belongs in the *bhvādi* class. The operation changes भू (*bhū*) into भव् (*bhav*), the शप् (*śap*) operation contributes अ (*a*), and तिप् (*tip*) contributes ति (*ti*). The molecule is भवति (*bhavati*).
+**⟪भू⟫ (*bhū*) → भवति (*bhavati*).** This also belongs in the *bhvādi* class. The operation changes ⟪भू⟫ (*bhū*) into भव् (*bhav*), the शप् (*śap*) operation contributes अ (*a*), and तिप् (*tip*) contributes ति (*ti*). The molecule is भवति (*bhavati*).
 
-![Pāṇinian notation layer: भू (*bhū*) becomes भवति (*bhavati*).](figures/building_kriya/panini_bhavati.svg){#fig:building-kriya-panini-bhavati width=100%}
+![Pāṇinian notation layer: ⟪भू⟫ (*bhū*) becomes भवति (*bhavati*).](figures/building_kriya/panini_bhavati.svg){#fig:building-kriya-panini-bhavati width=100%}
 
-**राज् (*rāj*) → राजति (*rājati*).** This belongs in the *bhvādi* class. The शप् (*śap*) operation contributes अ (*a*), and तिप् (*tip*) contributes ति (*ti*). The molecule is राजति (*rājati*).
+**⟪राज्⟫ (*rāj*) → राजति (*rājati*).** This belongs in the *bhvādi* class. The शप् (*śap*) operation contributes अ (*a*), and तिप् (*tip*) contributes ति (*ti*). The molecule is राजति (*rājati*).
 
 ![Pāṇinian notation layer: राज् (*rāj*) becomes राजति (*rājati*).](figures/building_kriya/panini_rajati.svg){#fig:building-kriya-panini-rajati width=100%}
 
@@ -163,16 +163,16 @@ The full operating roster has ten classes.
 
 | No. | Gaṇa | Signature | Procedural effect | Example |
 |---:|---|---|---|---|
-| 1 | भ्वादि (*bhvādi*) | शप् (*śap*) / अ (*a*) | default thematic activation | पच् (*pac*) → पचति (*pacati*) |
-| 2 | अदादि (*adādi*) | शून्य (*śūnya*) / athematic | direct activation | अद् (*ad*) → अत्ति (*atti*) |
-| 3 | जुहोत्यादि (*juhotyādi*) | अभ्यास (*abhyāsa*) | echo/duplication before activation | धा (*dhā*) → दधाति (*dadhāti*) |
-| 4 | दिवादि (*divādi*) | श्यन् (*śyan*) / य (*ya*) | *ya*-extension | दिव् (*div*) → दीव्यति (*dīvyati*) |
-| 5 | स्वादि (*svādi*) | श्नु (*śnu*) / नु-नो (*nu-no*) | *nu/no* insertion | सु (*su*) → सुनोति (*sunoti*) |
-| 6 | तुदादि (*tudādi*) | श (*śa*) / अ (*a*) | thematic activation with class behavior | तुद् (*tud*) → तुदति (*tudati*) |
-| 7 | रुधादि (*rudhādi*) | श्नम् (*śnam*) / nasal infix | nasal insertion into atom | रुध् (*rudh*) → रुणद्धि (*ruṇaddhi*) |
-| 8 | तनादि (*tanādi*) | उ-ओ (*u-o*) | *u/o* activation | कृ (*kṛ*) → करोति (*karoti*) |
-| 9 | क्र्यादि (*kryādi*) | श्ना (*śnā*) / ना (*nā*) | *nā*-extension | क्री (*krī*) → क्रीणाति (*krīṇāti*) |
-| 10 | चुरादि (*curādi*) | णिच् (*ṇic*) / अय (*aya*) | *aya* activation | चुर् (*cur*) → चोरयति (*corayati*) |
+| 1 | भ्वादि (*bhvādi*) | शप् (*śap*) / अ (*a*) | default thematic activation | ⟪पच्⟫ (*pac*) → पचति (*pacati*) |
+| 2 | अदादि (*adādi*) | शून्य (*śūnya*) / athematic | direct activation | ⟪अद्⟫ (*ad*) → अत्ति (*atti*) |
+| 3 | जुहोत्यादि (*juhotyādi*) | अभ्यास (*abhyāsa*) | echo/duplication before activation | ⟪धा⟫ (*dhā*) → दधाति (*dadhāti*) |
+| 4 | दिवादि (*divādi*) | श्यन् (*śyan*) / य (*ya*) | *ya*-extension | ⟪दिव्⟫ (*div*) → दीव्यति (*dīvyati*) |
+| 5 | स्वादि (*svādi*) | श्नु (*śnu*) / नु-नो (*nu-no*) | *nu/no* insertion | ⟪सु⟫ (*su*) → सुनोति (*sunoti*) |
+| 6 | तुदादि (*tudādi*) | श (*śa*) / अ (*a*) | thematic activation with class behavior | ⟪तुद्⟫ (*tud*) → तुदति (*tudati*) |
+| 7 | रुधादि (*rudhādi*) | श्नम् (*śnam*) / nasal infix | nasal insertion into atom | ⟪रुध्⟫ (*rudh*) → रुणद्धि (*ruṇaddhi*) |
+| 8 | तनादि (*tanādi*) | उ-ओ (*u-o*) | *u/o* activation | ⟪कृ⟫ (*kṛ*) → करोति (*karoti*) |
+| 9 | क्र्यादि (*kryādi*) | श्ना (*śnā*) / ना (*nā*) | *nā*-extension | ⟪क्री⟫ (*krī*) → क्रीणाति (*krīṇāti*) |
+| 10 | चुरादि (*curādi*) | णिच् (*ṇic*) / अय (*aya*) | *aya* activation | ⟪चुर्⟫ (*cur*) → चोरयति (*corayati*) |
 
 The *gaṇaḥ* is the operational class. The *vikaraṇa* performs the operation. The examples in the last column are anchors: they show one familiar visible output of each operation.
 
@@ -223,7 +223,7 @@ The *prayoga* audit then proceeds in three steps. It identifies every *dhātuḥ
 
 The first result is that the corpus is not flat. A small set of atoms carries very wide bonding range.
 
-| Dhātuḥ | **कृ (*kṛ*)** | **भू (*bhū*)** | **धा (*dhā*)** | **हृ (*hṛ*)** | **गम् (*gam*)** |
+| Dhātuḥ | **⟪कृ⟫ (*kṛ*)** | **⟪भू⟫ (*bhū*)** | **⟪धा⟫ (*dhā*)** | **⟪हृ⟫ (*hṛ*)** | **⟪गम्⟫ (*gam*)** |
 |:--|:--:|:--:|:--:|:--:|:--:|
 | Valency | 1,062 | 504 | 386 | 368 | 291 |
 
@@ -241,7 +241,7 @@ The third result is the tier structure. The corpus-visible *dhātuḥ* labels ar
 | Bivalent — the stable middle | 5–49 | 1,059 (**27.6%**) | **30.5%** | productive middle |
 | Monovalent — closed-valency specialists | 1–4 | 2,633 (**68.6%**) | **1.9%** | preserved long tail |
 
-The canonical polyvalent exemplars are **कृ (*kṛ*)**, **भू (*bhū*)**, **स्था (*sthā*)**, **गम् (*gam*)**, **ज्ञा (*jñā*)**, **दा (*dā*)**, **धा (*dhā*)**, **नी (*nī*)**, and **हृ (*hṛ*)**.[NOTE: dcs-vs-dhatupatha-count] These nine alone produce 26.5% of the verb-token record.
+The canonical polyvalent exemplars are **⟪कृ⟫ (*kṛ*)**, **⟪भू⟫ (*bhū*)**, **⟪स्था⟫ (*sthā*)**, **⟪गम्⟫ (*gam*)**, **⟪ज्ञा⟫ (*jñā*)**, **⟪दा⟫ (*dā*)**, **⟪धा⟫ (*dhā*)**, **⟪नी⟫ (*nī*)**, and **⟪हृ⟫ (*hṛ*)**.[NOTE: dcs-vs-dhatupatha-count] These nine alone produce 26.5% of the verb-token record.
 
 The distribution makes the procedure visible.
 
@@ -269,7 +269,7 @@ So the resemblance and the engineering sit side by side. The frequency pattern m
 
 ## 11.7 Hyper-Reactive Atoms
 
-Carbon earns its place in chemistry by bonding promiscuously — a small center that throws off an enormous molecular space. Sanskrit's polyvalent atoms do the same grammatical work, and **कृ (*kṛ*)** is the clearest case: a three-letter *krādi* atom, the single most reactive item in the corpus. From it you get *karma* and *kāryam*, *kṛti* and *kartṛ*, *saṃskṛti* and *prakṛti* — the deed, the thing-to-be-done, the composition, the doer, refined order, raw nature. Everyday speech and the densest philosophy both run on it.
+Carbon earns its place in chemistry by bonding promiscuously — a small center that throws off an enormous molecular space. Sanskrit's polyvalent atoms do the same grammatical work, and **⟪कृ⟫ (*kṛ*)** is the clearest case: a three-letter *krādi* atom, the single most reactive item in the corpus. From it you get *karma* and *kāryam*, *kṛti* and *kartṛ*, *saṃskṛti* and *prakṛti* — the deed, the thing-to-be-done, the composition, the doer, refined order, raw nature. Everyday speech and the densest philosophy both run on it.
 
 The smallness is the point. *Kṛ* derives its power from its *availability* — short enough to enter anywhere, stable enough to survive the entry. *Bhū*, *dhā*, *hṛ*, *gam*, *nī*, *jñā*, *dā*, and *sthā* work the same way: compact atoms with enormous range.
 

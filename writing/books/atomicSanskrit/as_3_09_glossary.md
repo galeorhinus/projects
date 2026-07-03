@@ -6,9 +6,9 @@
 
 This book coins English terms only where English has already displaced a Sanskrit category. The coinage is not decoration. It is repair.
 
-The Sanskrit terms already exist. *Varṇa*, *akṣara*, and *dhātuḥ* are not vague inherited words waiting for English clarification. They are precise categories inside a working architecture. The problem is that English habits have trained even Sanskrit-literate readers to translate them into smaller and misleading words: *varṇa* becomes "sound," "letter," or "phoneme"; *akṣara* becomes "letter" or "alphabet"; *dhātuḥ* becomes "root."
+The Sanskrit terms already exist. *Varṇa*, *akṣara*, and *dhātuḥ* are not vague inherited words waiting for English clarification. They are precise categories inside a working architecture. The problem is that English habits have trained even Sanskrit-literate readers to translate them into smaller and misleading words: *varṇa* becomes "sound," "letter," or "phoneme"; *akṣara* becomes "letter" or "alphabet"; *dhātuḥ* becomes a botanical unit.
 
-These substitutions are not harmless. "Root" imports the botanical metaphor into Sanskrit's semantic atom. "Letter" makes script primary where sound is primary. "Alphabet" hides the sonomeric grid. Each mistranslation moves the reader into the wrong architecture before the argument even begins.
+These substitutions are not harmless. The botanical substitute imports the plant metaphor into Sanskrit's semantic atom. "Letter" makes script primary where sound is primary. "Alphabet" hides the sonomeric grid. Each mistranslation moves the reader into the wrong architecture before the argument even begins.
 
 The book's coined terms are therefore bridges back to Sanskrit's own categories. **Sonomer** is the measured sound-particle Sanskrit calls *varṇa*. **Audiograph** is the visible rendering of an *akṣara*. **Atom** is the sustaining semantic constituent Sanskrit calls *dhātuḥ*. The purpose is not novelty. The purpose is to make English stop flattening Sanskrit.
 
@@ -58,6 +58,8 @@ The glossary is organized in three groups:
 
 **English pair**: *atom* / *semantic atom*. The chemistry analogue, deployed throughout the book.
 
+**Formal notation**: when a *dhātuḥ* is shown as an atom or operand, the book writes it inside double angle brackets: ⟪कृ⟫ (*kṛ*), ⟪गम्⟫ (*gam*), ⟪भू⟫ (*bhū*). The brackets mark the semantic atom, not a botanical category.
+
 ### **racanā** (रचना) / **racanāḥ** (रचनाḥ)
 
 **Standard.** Construction, arrangement, composition. From *rac* (रच्) — to fashion, form, compose. Monier-Williams: arrangement, disposition; literary composition.
@@ -98,7 +100,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 **Sanskrit pair**: *dhātuḥ* / *dhātavaḥ*.
 
-**Use in book**: Chapter 2 rejects the philological *"root"* mistranslation; Chapter 10 lands *dhātuḥ* as semantic atom, builds the inventory, and tests the *dhātuḥ* against the six *sūtra-lakṣaṇāni* at atomic scale; Chapter 11 shows how the atom becomes *kriyā* through operational bonding; Chapter 12 develops the next assembly level; Chapter 13 establishes the calibration architecture that holds the atomic inventory stable across time.
+**Use in book**: Chapter 2 rejects the philological botanical mistranslation; Chapter 10 lands *dhātuḥ* as semantic atom, builds the inventory, and tests the *dhātuḥ* against the six *sūtra-lakṣaṇāni* at atomic scale; Chapter 11 shows how the atom becomes *kriyā* through operational bonding; Chapter 12 develops the next assembly level; Chapter 13 establishes the calibration architecture that holds the atomic inventory stable across time.
 
 ### **atomic scaffold**
 

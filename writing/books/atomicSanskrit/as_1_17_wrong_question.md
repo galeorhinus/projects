@@ -24,7 +24,7 @@ Any valid model of Sanskrit must explain six structural features. These are not 
 
 First: the ***varṇamālā*** as engineered phonetic grid (Chapter 7). A list of sounds is not enough. The model must explain the ordered articulatory architecture.
 
-Second: the ***dhātu*** architecture (Chapters 2 and 10). Sanskrit does not merely have "roots." It has semantic atoms that preserve identity through bonding and generate vocabulary through rule-governed combination.
+Second: the ***dhātu*** architecture (Chapters 2 and 10). Sanskrit does not merely have a loose inventory of verbal bases. It has semantic atoms that preserve identity through bonding and generate vocabulary through rule-governed combination.
 
 Third: the sound-to-meaning rule system (Chapters 11 and 12): *saṃdhi*, *gaṇa* organization, affixation, metrical constraint, and the generative architecture the *Aṣṭādhyāyī* compresses.
 
@@ -58,7 +58,7 @@ Walk the six requirements through the genealogical project.
 
 The ***varṇamālā***: PIE reconstructions can inventory phonemes. They do not produce an articulatory grid. Even a perfect inventory would not explain the engineered organization.
 
-The ***dhātu*** architecture: PIE reconstructions identify roots. Identifying root-like items is not the same as explaining an atomic constituent system. A pile of parts is not a machine.
+The ***dhātu*** architecture: PIE reconstructions identify lexical bases. Identifying base-like items is not the same as explaining an atomic constituent system. A pile of parts is not a machine.
 
 The generative rules: PIE reconstruction handles sound correspondences and sound changes. It does not produce the Sanskrit rule-set: *saṃdhi*, *gaṇa*, *upasarga*, *pratyaya*, and the formal derivational architecture.
 

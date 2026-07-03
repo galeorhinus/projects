@@ -1,6 +1,6 @@
 # Appendix Part 6 — The Architecture by the Numbers
 
-By the end of Chapter 10, the botanical root is gone and the *dhātuḥ* stands as an engineered semantic atom. Chapter 11 activates that atom. The smallest forms turn out to be the most reactive forms. The numerical audit behind those chapters asks the remaining question plainly: do the counts behave like accident, or like architecture?
+By the end of Chapter 10, the botanical substitute is gone and the *dhātuḥ* stands as an engineered semantic atom. Chapter 11 activates that atom. The smallest forms turn out to be the most reactive forms. The numerical audit behind those chapters asks the remaining question plainly: do the counts behave like accident, or like architecture?
 
 No single number can carry that answer. The pattern has to recur across levels: sound-particle, position, cluster, place, scaffold, operation, corpus use, and productivity. The *Source and Reference Companion* carries the tables, scripts, correction history, and replication notes. The record here keeps the source, the method, the strongest signals, and the principles visible in the counts.
 
@@ -95,7 +95,7 @@ If Sanskrit's atoms are engineered for reach, the smallest forms should produce 
 | 4 | 31 | 13.5 | 12.0 | 30 |
 | 5 | 8 | 11.4 | 12.0 | 18 |
 
-Two-particle atoms sit at the top. Five-particle atoms sit at the bottom. Language is not a toy dataset, so the pattern is not perfect, but the direction is clear. Path A gives Spearman ρ = **−0.485** between productivity and particle count. Path C, using actual corpus-attested valency across 3,839 roots, gives ρ = **−0.4334**. Two independent instruments point the same way.
+Two-particle atoms sit at the top. Five-particle atoms sit at the bottom. Language is not a toy dataset, so the pattern is not perfect, but the direction is clear. Path A gives Spearman ρ = **−0.485** between productivity and particle count. Path C, using actual corpus-attested valency across 3,839 dhātavaḥ, gives ρ = **−0.4334**. Two independent instruments point the same way.
 
 The top productive atoms are familiar because Sanskrit uses them everywhere: *kṛ* कृ, *bhū* भू, *dā* दा, *dhā* धा, *hṛ* हृ, *gam* गम्, *sthā* स्था, *jñā* ज्ञा. The smallest atoms generate the largest fields.
 
@@ -107,7 +107,7 @@ Here the botanical metaphor breaks. A plant metaphor expects growth, branching, 
 
 What the counts make visible is a category.
 
-If the *dhātuḥ* were a botanical root, the measurements would have no reason to converge. Particle count, place distribution, cluster behavior, retroflex loading, *gaṇa* behavior, and corpus valency could drift in separate directions. Instead, the same signature recurs: compression without collapse, range without randomness, productivity without irregularity, correction without apex command.
+If the *dhātuḥ* were a botanical organ, the measurements would have no reason to converge. Particle count, place distribution, cluster behavior, retroflex loading, *gaṇa* behavior, and corpus valency could drift in separate directions. Instead, the same signature recurs: compression without collapse, range without randomness, productivity without irregularity, correction without apex command.
 
 Nor is the architecture rigid. The long tail exists. Rare scaffolds exist. Specialized shapes exist. But the tail is governed. It preserves **वैचित्र्य (*vaicitrya*)** — patterned range — without dissolving the modal forms. A strong architecture needs range where range does work.
 

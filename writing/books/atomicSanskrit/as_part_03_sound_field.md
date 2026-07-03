@@ -6,7 +6,7 @@
 
 From the Sun's own account, the light descends into the body. Before the *dhātuḥ* can be measured as an atom, the sound-particles from which that atom is built have to become visible.
 
-Two distortions have fallen away: the plant-metaphor that turned *dhātuḥ* into root, and the codification-story that made Sanskrit depend on later stabilization. The next obstruction is alphabetic reduction: *varṇa* flattened into letter. Descended stays cracked — the deepest descent-plate falls only when Rāhu is dispelled in Part VI.
+Two distortions have fallen away: the plant-metaphor that forced *dhātuḥ* into a botanical category, and the codification-story that made Sanskrit depend on later stabilization. The next obstruction is alphabetic reduction: *varṇa* flattened into letter. Descended stays cracked — the deepest descent-plate falls only when Rāhu is dispelled in Part VI.
 
 ![Figure E.7 — The Sun's Sound-Body. Two plates:Botanical and Codified are removed; and plate Alphabetic is targeted as the sound-body becomes visible.](figures/eclipse_spine/eclipse_30_part03_sound_body_removed_2_3_target_4.svg){#fig:eclipse-part03-sound-body width=100%}
 

@@ -45,7 +45,7 @@
 - 2.2 The Metaphor Underneath
 - 2.3 Where Botany Works
 - 2.4 *Saṃskṛti* Made to Look Like *Prakṛti*
-- 2.5 *Dhātuḥ* Is Not a Root
+- 2.5 *Dhātuḥ* Is an Atom
 - 2.6 Decoding, Not Codification
 - 2.7 The Theft Made Visible
 

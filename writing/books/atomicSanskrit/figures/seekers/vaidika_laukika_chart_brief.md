@@ -1,11 +1,11 @@
 # Design Brief — The Vaidika / Laukika Chart (Ch 0)
 
-> **For: Claude Design.** Produce **3–4 distinct iterations** of a single figure for Chapter 0 of *Atomic Sanskrit*. The figure has **two stacked halves that share one horizontal time-axis**: the **eternal vaidika** domain on top, the **cyclical laukika** domain below. Deliver each iteration as a clean SVG (see *Style* and *Print* below).
+> **For: Claude Design.** Produce **3–4 distinct iterations** of a single figure for Chapter 0 of *Atomic Sanskrit* under seeking.html. The figure has **two stacked halves that share one horizontal time-axis**: the **eternal vaidika** domain on top, the **cyclical laukika** domain below. Deliver each iteration as a clean SVG (see *Style* and *Print* below).
 
 ---
 
 ## The idea in one line
-Above: the Veda — **eternal, one, timeless** (stretching with no beginning and no end). Below: the worldly cycle — **kaalachakra**, the turning wheel of clarity and darkness. The single vertical line **kaliyuga** is the hinge that runs through both halves: above it, the Veda's four streams sharpen into focus; below it, the cyclical age begins.
+Above: the Veda — **eternal, one, timeless** (stretching with no beginning and no end). Below: the worldly cycle — **laukika**, the sign wave of clarity and darkness. The single vertical line **kaliyuga** is the hinge that runs through both halves: above it, the Veda's four streams sharpen into focus.
 
 ---
 

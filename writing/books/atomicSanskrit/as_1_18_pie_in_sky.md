@@ -31,7 +31,7 @@ August Schleicher made the bakery visible. In 1868 he published a fable in his r
 
 Constructed languages — often called conlangs, short for constructed languages — are not the problem. The world of *The Lord of the Rings* carries Quenya and Sindarin: languages with phonological inventories, derivational morphology, syntax, and vocabularies running to thousands of words. The *Star Trek* world carries Klingon: a language with its own phonology, agglutinative case-and-aspect morphology, and a vocabulary its speaking community has since extended.[NOTE: conlangs-tolkien-okrand] Both projects are honest about the work. They invent phonology, morphology, syntax, and vocabulary for fictional worlds.
 
-Schleicher's PIE is a constructed language without the honesty of conlanging and without the engineering of a full conlang. The fictional-language projects build from the ground up: phonology first, morphology next, syntax next, vocabulary after that. Schleicher did none of that work. He collated forms from the real Indo-European languages, averaged them by the assumptions of the comparative method, replaced the Sanskrit *dhātavaḥ* that anchored the original family with reconstructed pseudo-roots, and supplied enough connecting grammar to write a short fable. The result is not a constructed language. It is a reverse-averaged hypothesis dressed in starred forms.
+Schleicher's PIE is a constructed language without the honesty of conlanging and without the engineering of a full conlang. The fictional-language projects build from the ground up: phonology first, morphology next, syntax next, vocabulary after that. Schleicher did none of that work. He collated forms from the real Indo-European languages, averaged them by the assumptions of the comparative method, replaced the Sanskrit *dhātavaḥ* that anchored the original family with reconstructed pseudo-atoms, and supplied enough connecting grammar to write a short fable. The result is not a constructed language. It is a reverse-averaged hypothesis dressed in starred forms.
 
 The fictional-language projects openly invent. Schleicher claimed to have found what he had made — he wore the discoverer's face over the inventor's work. The discipline inherited the claim. In Chapter 3 §3.6, this operating mode receives the Indic-categorical name *asuratva*; Schleicher is the named individual operator within the asuric pyramid's machinery.
 
@@ -67,7 +67,7 @@ PIE cannot account for the Indian sound-field. Sanskrit's retroflex core is subc
 
 PIE cannot account for the *varṇamālā*. A reconstructed precursor can offer an inventory. It cannot explain an engineered articulatory grid.
 
-PIE cannot account for the *dhātavaḥ*. The genealogical project knows "roots" as historical remnants. Sanskrit's *dhātavaḥ* are semantic atoms in an active architecture. The *dhātuḥ*-as-root mistranslation exposed in Chapter 2 was not an accident of philological vocabulary; it was an act of intellectual organization. PIE depends on it. Recovering *dhātuḥ* as a structural constituent — the category move completed across Chapters 2 and 10 — dissolves the foundation PIE rests on. A *dhātuḥ* is not a fossilized seed buried in the linguistic past. It is a constituent atom of an engineered system, perpetually active, available for synthesis at any moment. The genealogical project has nothing to do with such a constituent. It has only ever known how to perform autopsies.
+PIE cannot account for the *dhātavaḥ*. The genealogical project knows reconstructed bases as historical remnants. Sanskrit's *dhātavaḥ* are semantic atoms in an active architecture. The botanical mistranslation exposed in Chapter 2 was not an accident of philological vocabulary; it was an act of intellectual organization. PIE depends on it. Recovering *dhātuḥ* as a structural constituent — the category move completed across Chapters 2 and 10 — dissolves the foundation PIE rests on. A *dhātuḥ* is not a fossilized seed buried in the linguistic past. It is a constituent atom of an engineered system, perpetually active, available for synthesis at any moment. The genealogical project has nothing to do with such a constituent. It has only ever known how to perform autopsies.
 
 The botanical account has no explanation for the scaffold result. PIE can accommodate sound correspondences; it cannot explain why Sanskrit's semantic atoms sit inside a compact, timed, reactive scaffold architecture. Ten *racanāḥ* carry the overwhelming majority of the *Dhātupāṭha*; forty-seven carry the whole measured field. Genealogy can narrate descent. It cannot account for that architecture.
 
@@ -140,7 +140,7 @@ The deflection dies at *yoke*.
 
 Contemporary entries extend past real Sanskrit to a reconstructed terminus:
 
-> *yoke* ← *yok* ← *geoc* ← Proto-Germanic **\*jukam** ← **PIE \*yug-óm** *(from PIE root \**yeug-* "to join")*  
+> *yoke* ← *yok* ← *geoc* ← Proto-Germanic **\*jukam** ← **PIE \*yug-óm** *(from PIE \**yeug-* "to join")*  
 > *cognates:* Sanskrit *yuga-*, Latin *iugum*, Greek *zugón*, Lithuanian *jungas*, Hittite *iukan*
 
 The Sanskrit side has the architecture visible:
@@ -150,7 +150,7 @@ The Sanskrit side has the architecture visible:
 > *bīja* in receiving listeners' minds →  
 > **Old English *geoc* / Latin *iugum* / Greek *zugón* / English *yoke* (*apaśabdas*)**
 >
-> *atom → molecule → seed → root — life begins*
+> *atom → molecule → seed → sprout — life begins*
 
 One chain starts from a real Sanskrit *dhātu*. The other starts from a starred form.
 
@@ -186,9 +186,9 @@ The *mother* family becomes clear:
 > **बीज (*bīja*)** in the receiving listeners' minds →  
 > **Latin *māter* / Greek *mētēr* / Old English *mōdor* / Modern English *mother* (*apaśabdas*)**
 >
-> *atom → molecule → seed → root — life begins*
+> *atom → molecule → seed → sprout — life begins*
 
-The chain just walked is *Pratibimba* operating through **vivimorphosis** — the engineered *śabda* of Sanskrit transforming into the organic *apaśabda* of a contact language across thousands of years of *apabhraṃśa*. Chapter 12 §12.5 gives the three-stage mechanism: **शब्द (*śabda*)** as the inorganic molecule on the calibrant's side; **बीज (*bīja*)** as the seed-state the molecule occupies in the head of a non-Sanskrit listener who has received it; **अपशब्द (*apaśabda*)** as the organic root that sprouts when the *bīja* is finally expressed in the receiving language. What Indo-European philology calls "roots" are precisely these expressed *bījas*.
+The chain just walked is *Pratibimba* operating through **vivimorphosis** — the engineered *śabda* of Sanskrit transforming into the organic *apaśabda* of a contact language across thousands of years of *apabhraṃśa*. Chapter 12 §12.5 gives the three-stage mechanism: **शब्द (*śabda*)** as the inorganic molecule on the calibrant's side; **बीज (*bīja*)** as the seed-state the molecule occupies in the head of a non-Sanskrit listener who has received it; **अपशब्द (*apaśabda*)** as the organic form that sprouts when the *bīja* is finally expressed in the receiving language. What Indo-European philology treats as reconstructed ancestry is precisely these expressed *bījas*.
 
 The same pattern appears in *devaḥ*:
 
@@ -197,9 +197,9 @@ The same pattern appears in *devaḥ*:
 > *bīja* in the proto-Italic listener's head →  
 > **Latin *deus* (*apaśabda*)**
 >
-> *atom → molecule → seed → root — life begins*
+> *atom → molecule → seed → sprout — life begins*
 
-The pyramid's etymology projects Latin *deus* backward to PIE **\*deiwós** and **\*dyew-**.[NOTE: deva-pie-etymology] The Sanskrit chain is not projected. It is visible through the *dhātu*, the *śabda*, and the derivational architecture. The Latin form is the *apaśabda* — the organic root that sprouts in the receiving language after the Sanskrit molecule enters as *bīja*, the visarga reduced to a plain *-us*, the dhātu-derivation no longer visible to a Latin speaker.
+The pyramid's etymology projects Latin *deus* backward to PIE **\*deiwós** and **\*dyew-**.[NOTE: deva-pie-etymology] The Sanskrit chain is not projected. It is visible through the *dhātu*, the *śabda*, and the derivational architecture. The Latin form is the *apaśabda* — the organic form that sprouts in the receiving language after the Sanskrit molecule enters as *bīja*, the visarga reduced to a plain *-us*, the dhātu-derivation no longer visible to a Latin speaker.
 
 Philology under the descent assumption treats the reflections as evidence of a vanished ancestor. The calibrant account identifies them as reflections of the calibrant. The data is the same. The interpretation is incompatible.
 
@@ -221,11 +221,11 @@ The Sanskrit-side chain is internal:
 > *bīja* in the proto-Iranian listener's head →  
 > **Avestan 𐬀𐬵𐬎𐬭𐬀 (*ahura*, *apaśabda*)**
 >
-> *atom → molecule → seed → root — life begins*
+> *atom → molecule → seed → sprout — life begins*
 
-The Sanskrit side is engineered, not reconstructed. Chapter 3 §3.6 lays out the morphology — *svar*, the self-luminous anchor; *suraḥ*, the engineered *śabda* for "light"; *asuraḥ*, the privative "not-light" built with *a-* — and makes it the structural diagnosis of the asuric operating mode. The pyramid reaches the same word from the other end: it takes *asura* to mean "lord, mighty one," reconstructs an imaginary ancestor behind it, and files the privative the *varṇamālā* assembles in plain sight as a later reinterpretation. One side documents an engineered form; the other bakes a root to avoid it.
+The Sanskrit side is engineered, not reconstructed. Chapter 3 §3.6 lays out the morphology — *svar*, the self-luminous anchor; *suraḥ*, the engineered *śabda* for "light"; *asuraḥ*, the privative "not-light" built with *a-* — and makes it the structural diagnosis of the asuric operating mode. The pyramid reaches the same word from the other end: it takes *asura* to mean "lord, mighty one," reconstructs an imaginary ancestor behind it, and files the privative the *varṇamālā* assembles in plain sight as a later reinterpretation. One side documents an engineered form; the other bakes an ancestor-form to avoid it.
 
-The same morphology drives the vivimorphosis chain at the contact-language boundary. Avestan **𐬀𐬵𐬎𐬭𐬀 (*ahura*)** is the *apaśabda* — the organic root vivimorphosed in the Iranian receiving language, the *s* shifted to *h* under the regular Indo-Iranian sound law (the same shift Chapter 9 §9.5 traces in *Sindhuḥ* → *Hinduš*), the visarga stripped to a plain *-a*.
+The same morphology drives the vivimorphosis chain at the contact-language boundary. Avestan **𐬀𐬵𐬎𐬭𐬀 (*ahura*)** is the *apaśabda* — the organic form vivimorphosed in the Iranian receiving language, the *s* shifted to *h* under the regular Indo-Iranian sound law (the same shift Chapter 9 §9.5 traces in *Sindhuḥ* → *Hinduš*), the visarga stripped to a plain *-a*.
 
 The *apaśabda* *ahura* anchors the central theological vocabulary of the Zoroastrian tradition. The semantic transformation that accompanies the phonetic one — what *asura* means in the Sanskrit source and what *ahura* comes to mean in the Avestan recipient, and what the suric / asuric distinction carries forward as the cosmic backdrop for the political-architectural argument — is taken up in a forthcoming volume in the ***Second Shanti*** series. What this section isolates is the phonetic vivimorphosis: the same engineered form, carried into a contact language as the *Pratibimba* the Iranian religious imagination has held for the entire span of its tradition.
 
@@ -238,15 +238,15 @@ The *apaśabda* *ahura* anchors the central theological vocabulary of the Zoroas
 | ***dhātu*** *(Sanskrit constituent)* | दिव् (*div*, "to shine") | स्वर् (*svar*, "to shine") |
 | ***śabda*** *(Sanskrit calibrant; inorganic molecule)* | देवः (*devaḥ*) | सुरः (*suraḥ*, "light") → असुरः (*asuraḥ*, "not-light," via privative *a-*) |
 | ***bīja*** *(listener's seed)* | seed in proto-Italic listener | seed in proto-Iranian listener |
-| ***apaśabda*** *(organic root in contact language)* | Latin *deus* | Avestan 𐬀𐬵𐬎𐬭𐬀 (*ahura*) |
+| ***apaśabda*** *(organic form in contact language)* | Latin *deus* | Avestan 𐬀𐬵𐬎𐬭𐬀 (*ahura*) |
 
-**Process across all three vivimorphosis stages:** *apabhraṃśa* / vivimorphosis. **What IE philology calls "roots":** the bottom row — the *apaśabdas*. **The seed (*bīja*) is the missing middle.**
+**Process across all three vivimorphosis stages:** *apabhraṃśa* / vivimorphosis. **What IE philology treats as reconstructed ancestry:** the bottom row — the *apaśabdas*. **The seed (*bīja*) is the missing middle.**
 
 ## 18.8 One *Dhātu*, Three PIEs
 
-The recipe slips most visibly when one Sanskrit *dhātu* generates a family that the pyramid's account splits across multiple PIE roots.
+The recipe slips most visibly when one Sanskrit *dhātu* generates a family that the pyramid's account splits across multiple PIE ancestor-forms.
 
-Take **दृश् (*dṛś*)** — to see, to perceive, to behold. Pāṇini's *Dhātupāṭha* enumerates it as one *dhātu*, and the engineering account documented in Chapter 12 generates from it a unified family of derivatives:
+Take **⟪दृश्⟫ (*dṛś*)** — to see, to perceive, to behold. Pāṇini's *Dhātupāṭha* enumerates it as one *dhātu*, and the engineering account documented in Chapter 12 generates from it a unified family of derivatives:
 
 - **दर्शनम् (*darśanam*)** — viewing, vision, philosophical perspective (*kṛt* suffix *-ana* on the *guṇa*-grade *darś-*)
 - **दृष्टि (*dṛṣṭi*)** — sight, view (*kṛt* suffix *-ti*)
@@ -257,7 +257,7 @@ One *dhātu*. Four derivatives. One unified semantic field — seeing. The Sansk
 
 Now follow the cognates outward into the receiving languages — the English words the Western philological account itself acknowledges as cognates of this Sanskrit *dhātu*'s derivative family — and watch the machinery dismantle the unity:
 
-[FIGURE 18.3: One Sanskrit *dhātu*, multiple PIE roots — *dṛś* as unified Sanskrit family versus the pyramid's split into **\*derḱ-**, **\*spek-**, and dropped or displaced visual cognates.]
+[FIGURE 18.3: One Sanskrit *dhātu*, multiple PIE ancestor-forms — *dṛś* as unified Sanskrit family versus the pyramid's split into **\*derḱ-**, **\*spek-**, and dropped or displaced visual cognates.]
 
 | English cognate | Proximate source | PIE attribution *(pyramid's account)* |
 |---|---|---|
@@ -267,15 +267,15 @@ Now follow the cognates outward into the receiving languages — the English wor
 
 **One Sanskrit *dhātu*. The Western philological machinery splits the family.** And the splinter is in plain print on the same reference page. The Wiktionary entry for पश्यति, retrieved verbatim:
 
-> *"The root is suppletive — although पश्यति (paśyati) derives from Proto-Indo-European \*speḱ-, the remainder of the morphological paradigm is derived from Proto-Indo-European \*derḱ-."*[NOTE: wiktionary-pasyati-suppletion]
+> The entry claims that पश्यति (*paśyati*) derives from Proto-Indo-European \*speḱ-, while the rest of the paradigm derives from Proto-Indo-European \*derḱ-.[NOTE: wiktionary-pasyati-suppletion]
 
-In one sentence, the pyramid admits the splinter: what Sanskrit treats as one *dhātu* with one paradigm, the pyramid's account attributes to *two* reconstructed PIE roots. The connector word is *suppletive* — the technical name for the account's confession. When the inflected forms of what looks like one verb refuse to be traced back to one ancestor, the reconstruction regime invokes *suppletion*: the doctrine that different verb-forms come from different ancestral roots and have, by historical accident, fused into one paradigm. The Pāṇinian architecture does not need *suppletion* anywhere; it generates पश्यति from दृश् through standard present-stem derivation, and a Sanskrit schoolchild can show the steps. The PIE machinery invokes *suppletion* here because it cannot explain how the दृश्-class forms and the पश्यति-class forms can both belong to one verb.
+In one sentence, the pyramid admits the splinter: what Sanskrit treats as one *dhātu* with one paradigm, the pyramid's account attributes to *two* reconstructed PIE ancestor-forms. The connector word is *suppletive* — the technical name for the account's confession. When the inflected forms of what looks like one verb refuse to be traced back to one ancestor, the reconstruction regime invokes *suppletion*: the doctrine that different verb-forms come from different ancestral forms and have, by historical accident, fused into one paradigm. The Pāṇinian architecture does not need *suppletion* anywhere; it generates पश्यति from दृश् through standard present-stem derivation, and a Sanskrit schoolchild can show the steps. The PIE machinery invokes *suppletion* here because it cannot explain how the दृश्-class forms and the पश्यति-class forms can both belong to one verb.
 
 *Suppletion is not a feature of the language. It is the regime's signature on its own failure.*
 
-The third row of the table — *theory* — sharpens the same point in a different idiom. The English word inherits the visual semantics of दृश् through the Greek chain *theōros* (spectator, seer); the machinery, however, lists no Sanskrit cognation for *theory* in its standard reference account, routing the cognate cluster instead to a tentative **\*wer-(3)** "to perceive" (Watkins's "perhaps") with no Sanskrit derivative attached. Where row 1 and row 2 split the *dhātu*, row 3 drops the *dhātu* altogether — the Sanskrit semantic origin of *seeing as theory* simply does not appear in the ecosystem's account of where *theory* comes from.
+The third row of the table — *theory* — sharpens the same point in a different idiom. The English word inherits the visual semantics of ⟪दृश्⟫ through the Greek chain *theōros* (spectator, seer); the machinery, however, lists no Sanskrit cognation for *theory* in its standard reference account, routing the cognate cluster instead to a tentative **\*wer-(3)** "to perceive" (Watkins's "perhaps") with no Sanskrit derivative attached. Where row 1 and row 2 split the *dhātu*, row 3 drops the *dhātu* altogether — the Sanskrit semantic origin of *seeing as theory* simply does not appear in the ecosystem's account of where *theory* comes from.
 
-The reconstructed roots — \**derḱ-*, \**spek-*, and the dropped-altogether case under \**wer-(3)* — are *apaśabdas*. The bakers took the Sanskrit *dhātu*, scanned the daughter languages for surface forms whose semantic field overlapped with it, sorted them by phonetic shape, and invented one reconstructed form per phonetic cluster to serve as the ancestor. The Sanskrit *dhātu* — the engineered atom underneath the whole family — was treated as data to be reverse-engineered backward; the imaginary ancestors were the bake. Each starred form is the *progressive dogma*'s own corruption of the Sanskrit *dhātu*'s derivative family, retold as that family's source. PIE is *apaśabda* baked into ancestor.
+The reconstructed ancestor-forms — \**derḱ-*, \**spek-*, and the dropped-altogether case under \**wer-(3)* — are *apaśabdas*. The bakers took the Sanskrit *dhātu*, scanned the daughter languages for surface forms whose semantic field overlapped with it, sorted them by phonetic shape, and invented one reconstructed form per phonetic cluster to serve as the ancestor. The Sanskrit *dhātu* — the engineered atom underneath the whole family — was treated as data to be reverse-engineered backward; the imaginary ancestors were the bake. Each starred form is the *progressive dogma*'s own corruption of the Sanskrit *dhātu*'s derivative family, retold as that family's source. PIE is *apaśabda* baked into ancestor.
 
 The recipe is not subtle. The recipe runs across many *dhātus* the Western philological machinery has handled the same way. **Appendix Part 1 — *Baking the Mother Tongue*** lays out the recipe in detail: the institutional cartel that ran the bake across the nineteenth century, the colonial Sanskrit-knowledge pipeline that fed it, and *dhātu* after *dhātu* where the slip is in plain print on the ecosystem's own reference pages. The single case here is the headline. The appendix shows the operation.
 

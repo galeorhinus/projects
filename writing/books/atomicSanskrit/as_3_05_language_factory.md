@@ -46,7 +46,7 @@ The procedure has six steps.
 2. **Translate to Sanskrit**, identifying the *dhātus*, primitive nominals, and grammatical morphemes used.
 3. **Separate the Sanskrit forms into phonemes** — **स्वर (*svaras*)** (vowels) and **व्यञ्जन (*vyañjanas*)** (consonants).
 4. **Design a phoneme cipher**: a mapping from Sanskrit's phoneme set to the substrate's phoneme set.
-5. **Apply the cipher to all dhātus, nominals, and morphemes** consistently. Surface forms transform; abstract structure (root + suffix + ending; case inflection; conjugation; *sandhi*) is preserved.
+5. **Apply the cipher to all dhātus, nominals, and morphemes** consistently. Surface forms transform; abstract structure (dhātu + suffix + ending; case inflection; conjugation; *sandhi*) is preserved.
 6. **Render the output in Devanagari** — the same script that renders the original Sanskrit. The reader who knows Sanskrit can back-engineer the *dhātus* and morphemes by inspection.
 
 The grammar passes through unchanged. Agent nouns remain agent nouns. Present-tense verbs remain present-tense verbs. Case endings still carry case. *Sandhi* still governs junctions. The phonemes change; the architecture does not.
@@ -81,7 +81,7 @@ The Sanskrit:
 >
 > *pācakaḥ piṣṭakaṁ pacati. piṣṭakaṁ śūnyam. pācakaḥ ekākī hasati.*
 
-Six lexical primitives — √पच् (*pac*, to cook / bake), √पिष् (*piṣ*, to grind / knead), √हस् (*has*, to laugh), *śūnya* (hollow), *eka* (one) — and five grammatical morphemes: *-aka* (agent-noun suffix), *-ta* (past-participle), *-ākī* (adverbial-modifier), *-ti* (present 3sg verb ending), *-ḥ* (masc. nom. sg.), *-aṁ* (neuter acc. sg.). Eleven elements produce the entire three-sentence joke through the Sanskrit pattern of composition.
+Six lexical primitives — ⟪पच्⟫ (*pac*, to cook / bake), ⟪पिष्⟫ (*piṣ*, to grind / knead), ⟪हस्⟫ (*has*, to laugh), *śūnya* (hollow), *eka* (one) — and five grammatical morphemes: *-aka* (agent-noun suffix), *-ta* (past-participle), *-ākī* (adverbial-modifier), *-ti* (present 3sg verb ending), *-ḥ* (masc. nom. sg.), *-aṁ* (neuter acc. sg.). Eleven elements produce the entire three-sentence joke through the Sanskrit pattern of composition.
 
 The cipher maps each Sanskrit phoneme used to a Japanese-substrate phoneme, applied consistently:
 
@@ -127,7 +127,7 @@ Phonemes from the Japanese-substrate inventory. Grammar entirely from Sanskrit's
 
 ## 5.6 The Generative Reach
 
-Three sentences are only the floor. Once √पच् becomes the constructed root behind *kesepo*, the full Sanskrit verbal system operates on it. Each form passes through the cipher mechanically:
+Three sentences are only the floor. Once ⟪पच्⟫ (*pac*) becomes the constructed dhātu behind *kesepo*, the full Sanskrit verbal system operates on it. Each form passes through the cipher mechanically:
 
 | Sanskrit | Form | After cipher | Devanagari |
 |---|---|---|---|
@@ -136,7 +136,7 @@ Three sentences are only the floor. Once √पच् becomes the constructed ro
 | *paktaḥ* | past participle masc. nom. | *ketpe* | केत्पे |
 | *paktiḥ* | action-noun masc. nom. | *ketpo* | केत्पो |
 | *pācakāḥ* | agent-noun masc. nom. pl. | *kesete* | केसेते (homophonous with sg. — vowel-length collapse loses the number distinction) |
-| *hāsakaḥ* | "laugher" — agent-noun from √हस् | *rehete* | रेहेते |
+| *hāsakaḥ* | "laugher" — agent-noun from ⟪हस्⟫ (*has*) | *rehete* | रेहेते |
 
 Five *dhātus* and the associated suffix-and-ending inventory will produce, by simple combinatorics, several hundred surface forms. Sentence generation is similarly unbounded — declined nominals, conjugated verbs, compound constructions, relative clauses, indirect questions, embedded sentences, all legitimate within Sanskrit's grammatical specification and all transparently legible to a reader who can back-engineer the cipher.
 

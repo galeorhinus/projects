@@ -8,7 +8,7 @@ The first charge is category theft: Sanskrit was made to answer inside the pyram
 
 The theft works through **आसुरी माया (*asurī māyā*)**. The charge is not *māyā* itself. Sanskrit knows *māyā* as power, measure, formation, appearance, and skill. The question is purpose. In asuric hands, *māyā* becomes a weapon of concealment: the false category is made to appear natural, and the true category is made to disappear before the evidence is heard.
 
-The pyramid made *saṃskṛti* answer as *prakṛti*. It took an engineered architecture, placed it inside a botanical field, and trained the reader to see growth, drift, ancestry, branch, root, and late codification where Sanskrit's own categories show created order, calibration, and distributed correction.
+The pyramid made *saṃskṛti* answer as *prakṛti*. It took an engineered architecture, placed it inside a botanical field, and trained the reader to see growth, drift, ancestry, branches, plant-organs, and late codification where Sanskrit's own categories show created order, calibration, and distributed correction.
 
 The world is taught to recognize only two categories of language.
 
@@ -82,9 +82,9 @@ The seven moves do not merely misdescribe Sanskrit. They make it mobile, derivat
 
 The pyramid depends on one picture: the tree.
 
-In the 1860s, the German comparativist August Schleicher gave comparative philology its governing imagination.[NOTE: schleicher-stammbaumtheorie] Languages became living organisms. They had roots, stems, branches, families, daughters, sisters. They grew from ancestors, split across geography, mutated across time, and decayed into descendant forms. The metaphor looked innocent because it turned linguistic history into nature. Once the tree was accepted, the rest of the story followed almost automatically — and a century and a half later, the metaphor remains so naturalized that few of the discipline's practitioners notice they are speaking it.
+In the 1860s, the German comparativist August Schleicher gave comparative philology its governing imagination.[NOTE: schleicher-stammbaumtheorie] Languages became living organisms. They had plant-organs, stems, branches, families, daughters, sisters. They grew from ancestors, split across geography, mutated across time, and decayed into descendant forms. The metaphor looked innocent because it turned linguistic history into nature. Once the tree was accepted, the rest of the story followed almost automatically — and a century and a half later, the metaphor remains so naturalized that few of the discipline's practitioners notice they are speaking it.
 
-The tree takes a system that presents itself as created, measured, preserved, and calibrated, and makes it look like nature: growth, inheritance, mutation, decay. This conversion protects the pyramid from the more dangerous interpretation: Sanskrit as the swastika's geometry — distributed order without apex command. The threat is structural, not symbolic. If Sanskrit has roots, branches, and descendants, then Sanskrit belongs in the tree. If Sanskrit belongs in the tree, it must have a natural ancestor. If it has a natural ancestor, PIE becomes plausible. If PIE becomes plausible, Sanskrit can be made to descend. Once it descends, it is no longer *saṃskṛti* in its own right. It is inherited nature plus later repair. The category has been stolen before the evidence is heard.
+The tree takes a system that presents itself as created, measured, preserved, and calibrated, and makes it look like nature: growth, inheritance, mutation, decay. This conversion protects the pyramid from the more dangerous interpretation: Sanskrit as the swastika's geometry — distributed order without apex command. The threat is structural, not symbolic. If Sanskrit has plant-organs, branches, and descendants, then Sanskrit belongs in the tree. If Sanskrit belongs in the tree, it must have a natural ancestor. If it has a natural ancestor, PIE becomes plausible. If PIE becomes plausible, Sanskrit can be made to descend. Once it descends, it is no longer *saṃskṛti* in its own right. It is inherited nature plus later repair. The category has been stolen before the evidence is heard.
 
 The mātṛ / mother relation runs the same operation at layreader scale: closeness is admitted, direction is rerouted, and visible Sanskrit is made to stand below an imaginary parent. The metaphor has done its work before the argument begins.
 
@@ -104,7 +104,7 @@ Nor is *prakṛti* the enemy. Natural language, local custom, forest life, inher
 
 ## 2.4 Saṃskṛti Made to Look Like Prakṛti
 
-Sanskrit's own name puts it in another category. **संस्कृतम् (*saṃskṛtam*)** is an architectural declaration: *sam-* (complete, total, perfected) joined to *kṛta* (made, produced, brought into form), from the semantic atom *kṛ*, the action of making itself.[NOTE: samskrtam-morphology] The word means, without strain, the completely made, the perfectly formed, the wholly synthesized. The past participle does structural work: the language was created first; the name came later. Most languages are named for peoples or places. Sanskrit is named for how it is made.
+Sanskrit's own name puts it in another category. **संस्कृतम् (*saṃskṛtam*)** is an architectural declaration: *sam-* (complete, total, perfected) joined to *kṛta* (made, produced, brought into form), from the semantic atom ⟪कृ⟫ (*kṛ*), the action of making itself.[NOTE: samskrtam-morphology] The word means, without strain, the completely made, the perfectly formed, the wholly synthesized. The past participle does structural work: the language was created first; the name came later. Most languages are named for peoples or places. Sanskrit is named for how it is made.
 
 The contrast is equally precise. If *saṃskṛtam* is what is completely made, *prakṛti* is what keeps making itself — nature. **प्राकृतानि (*prākṛtāni*)** are the natural language forms — speech that keeps making itself, shifting, growing, branching, and decaying. Indic grammar did not lack the botanical category. It assigned that behavior to the *prākṛtāni*. *Saṃskṛtam* was the architecture of **सनातन (*Sanātan*)** — the integral, the perpetual, the ground on which civilization continues. The *prākṛtāni* were everything else.
 
@@ -112,21 +112,21 @@ The pyramid's story requires ancient Sanskrit to change. Its account of Vedic dr
 
 The dogma requires drift. Sanātan's continuum was built to prevent it. There is no middle ground. Chapter 16 develops the case where the contradiction lands sharpest — the retroflex consonant series.
 
-## 2.5 *Dhātuḥ* Is Not a Root
+## 2.5 *Dhātuḥ* Is an Atom
 
 Nineteenth-century European philology absorbed Sanskrit into the botanical scheme without absorbing Sanskrit's own distinction. It treated *saṃskṛtam* as one more leaf on an Indo-European tree: descended from an imaginary ancestor, governed by natural drift, and explainable by the same biology that explained ordinary languages. There was no place in the framework for an engineered language. So the engineering was folded away.
 
 The most consequential fold occurred in a single word: **धातुः (*dhātuḥ*)**. In Sanskrit grammar, the *dhātuḥ* is the foundational structural unit, and its semantic field extends across Sanskrit's scientific vocabulary. In Ayurveda, a *dhātuḥ* is one of the body's supporting tissues. In *Rasaśāstra* and metallurgical literature, a *dhātuḥ* is a fundamental element, an irreducible base substance valued for stability and constitutive force. Across domains, the meaning holds: a *dhātuḥ* supports, constitutes, and remains. It is a structural constant — a point Chapter 10 develops at atomic scale.
 
-European philology rendered *dhātuḥ* as **root**. The translation looks harmless only because the metaphor has already won. A *dhātuḥ* is a structural constant — the constituent the body, the metal, the medicine, and the grammar are all made of. *Root*, by contrast, is botanical: an appendage sunk into soil, growing, feeding, branching, rotting. The two words denote opposite operations. It is a constituent. It is what the language is made of. Translating it as "root" relocated Sanskrit's grammatical primitive from an engineering category into a botanical one. The mistranslation has long since stopped being a translator's note. It is now the foundational term of the discipline.
+European philology forced *dhātuḥ* into the botanical category. The translation looks harmless only because the metaphor has already won. A *dhātuḥ* is a structural constant — the constituent the body, the metal, the medicine, and the grammar are all made of. The botanical substitute, by contrast, is an appendage sunk into soil, growing, feeding, branching, rotting. The two categories denote opposite operations. A *dhātuḥ* is a constituent. It is what the language is made of. Translating it as a plant-organ relocated Sanskrit's grammatical primitive from an engineering category into a botanical one. The mistranslation has long since stopped being a translator's note. It is now the foundational term of the discipline.
 
-Sanskrit had botanical words available. *Bīja* (बीज) — the unit from which the plant grows. *Mūla* (मूल) — the anchor that draws and feeds. Either could have served as the grammar's basic unit in a plant-key. Sanskrit chose neither. It chose *dhātuḥ*, the word already available for the constituent constant of body, matter, and substance. The choice placed grammar in the engineering category. The mistranslation as "root" imposed the very metaphor Sanskrit had refused.[NOTE: dhatu-pre-panini-vedic]
+Sanskrit had botanical words available. *Bīja* (बीज) — the unit from which the plant grows. *Mūla* (मूल) — the anchor that draws and feeds. Either could have served as the grammar's basic unit in a plant-key. Sanskrit chose neither. It chose *dhātuḥ*, the word already available for the constituent constant of body, matter, and substance. The choice placed grammar in the engineering category. The botanical mistranslation imposed the very metaphor Sanskrit had refused.[NOTE: dhatu-pre-panini-vedic]
 
 The mistranslation was not a minor lexical slip. It was intellectual organization. The framework treated languages as organisms; it needed Sanskrit's primitive to be an organ; it translated the word accordingly. A civilizational term for structural constancy was moved into a European botanical garden and kept there as exhibit number one for the family-tree thesis.
 
-The theft lands at the atomic level. The *dhātuḥ* belongs to the architecture of constituents. *Root* moves it into the architecture of plants.
+The theft lands at the atomic level. The *dhātuḥ* belongs to the architecture of constituents. The botanical substitute moves it into the architecture of plants.
 
-Chapter 10 makes the consequence measurable. Once the *dhātuḥ* is recognized as an atom rather than a root, its construction can be tested. The test reveals not botanical growth but scaffolded architecture.
+Chapter 10 makes the consequence measurable. Once the *dhātuḥ* is recognized as an atom rather than a plant-organ, its construction can be tested. The test reveals not botanical growth but scaffolded architecture.
 
 ## 2.6 Decoding, Not Codification
 

@@ -22,7 +22,7 @@
 
 The shadow is cast here.
 
-At the opening of Part I, the pyramid still stands whole. The first three obstructions are targeted: Sanskrit made to look descended from PIE, botanical like roots and stems, and codified only after Pāṇini. These are the first acts of category theft.
+At the opening of Part I, the pyramid still stands whole. The first three obstructions are targeted: Sanskrit made to look descended from PIE, botanical like plant-organs and stems, and codified only after Pāṇini. These are the first acts of category theft.
 
 ![Figure E.5 — How the Shadow Is Cast. Three Plates: Descended, Botanical, and Codified are targeted while the full eclipse remains in place.](figures/eclipse_spine/eclipse_10_part01_shadow_cast_targets_1_2_3.svg){#fig:eclipse-part01-shadow-cast width=100%}
 
@@ -34,7 +34,7 @@ The shadow is cast by category theft: theft by misclassification, inversion by m
 
 What it darkens is the Sanskrit continuum — the civilization forced to answer to a false description of its own language. The injury is deeper than misdescription. The pyramid sustained, and sustains, a systematic effort to convince a civilization that its own understanding of reality is a mass delusion. Chapter 17 enters one instrument of that tactic into the record under its proper name: *gaslighting with footnotes*.
 
-The pyramid split the category. Before Pāṇini (पाणिनि), it made Sanskrit answer as **प्रकृति (*prakṛti*)**: natural growth, drift, descent, roots, branches, daughters. After Pāṇini, it made Sanskrit answer as codification: grammar, authority, freezing, standardization. Both moves hide the same truth: **Sanskrit is संस्कृति (*saṃskṛti*)** — created order, calibrated architecture, disciplined recurrence.
+The pyramid split the category. Before Pāṇini (पाणिनि), it made Sanskrit answer as **प्रकृति (*prakṛti*)**: natural growth, drift, descent, plant-organs, branches, daughters. After Pāṇini, it made Sanskrit answer as codification: grammar, authority, freezing, standardization. Both moves hide the same truth: **Sanskrit is संस्कृति (*saṃskṛti*)** — created order, calibrated architecture, disciplined recurrence.
 
 That concealment is the shadow. A swastika architecture — built for well-being, distributed order, and civilizational continuity — was first forced into a botanical tree, then into a codified standard.
 

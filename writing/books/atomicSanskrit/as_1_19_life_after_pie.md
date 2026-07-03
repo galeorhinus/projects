@@ -102,7 +102,7 @@ Wave 1 transmits the corpus form: Sanskrit as the *Vedas* carry it, implicit but
 Wave 3 carries four recognitions into global discourse:
 
 1. Sanskrit was engineered, not grown.
-2. **धातवः (*Dhātavaḥ*)** are constituents, not roots.
+2. **धातवः (*Dhātavaḥ*)** are constituents, not botanical units.
 3. **आर्यत्व (*Āryatva*)** is pedagogical, not racial.
 4. Sanskrit's reach moved through calibrant transmission, not population transfer.
 

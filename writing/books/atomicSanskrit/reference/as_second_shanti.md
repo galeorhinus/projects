@@ -172,7 +172,7 @@ The *chaturvarna* re-read (§5.6) is the same operation across four arms. Each *
 
 ### 4.3 Fractal democracy as the positive program
 
-- **The fractal universe.** Pyramid as convergent fractal; divergent fractal as the alternative. The fractal tree (roots = individuals; trunk = channel; branches = instances of divine quality) as the architecture.
+- **The fractal universe.** Pyramid as convergent fractal; divergent fractal as the alternative. The fractal tree (individuals = bases; trunk = channel; branches = instances of divine quality) as the architecture.
 - **The building blocks.** Self-governing circles at Dunbar-scale; channels of communication between circles (*brahmins* as connectors; *kumbh melā* as a periodic trade-show of ideas); fractal markets (*haat* / Sunday market); fractal economies (temple economies, decentralized distribution).
 - **The transition.** Disaggregating cities and refractalizing villages-and-towns first. Creating boundaries at town-formation. Disaggregating everything systematically.
 - **Anti-fragility.** A pyramid by definition needs a wide base; destabilizing the base shrinks the pyramid. A fractal does not depend on a base.
