@@ -965,6 +965,16 @@ Yāska's *Nirukta* 7.15 reads: **देवो दानाद्वा दीप
 
 ---
 
+### `veda-vyasa-division`
+
+**Short:** The one Veda's division into four (Ṛg/Yajur/Sāma/Atharva) by Vyāsa (Kṛṣṇa Dvaipāyana) at the last Dvāpara age is the Purāṇic account — *Viṣṇu Purāṇa* III.3–4 and *Bhāgavata Purāṇa* 12.6 — the four entrusted to Paila, Vaiśampāyana, Jaimini, and Sumantu, and the *itihāsa-purāṇa* to the Sūta (Romaharṣaṇa).
+
+**Deployments:** Chapter 0 §0.5 (Sanātana Time) — the Vyāsa-vibhāga paragraph.
+
+The fullest telling is the *Viṣṇu Purāṇa*, Book III. Chapter 3 gives the general principle — in every Dvāpara age Viṣṇu, in the person of Vyāsa, divides the one Veda into four "to promote the good of mankind," fitting it to mortals of limited perseverance, energy, and application. Chapter 4 gives the division by the current Vyāsa, Kṛṣṇa Dvaipāyana, at the last Dvāpara: Paila taught the *Ṛgveda*, Vaiśampāyana the *Yajurveda*, Jaimini the *Sāmaveda*, and Sumantu the *Atharvaveda*. The *Bhāgavata Purāṇa* (Canto 12, ch. 6) carries the same account and adds Romaharṣaṇa, the Sūta, receiving the *itihāsa-purāṇa*. The *Mahābhārata* frames Vyāsa as the arranger throughout; the epithet *Veda-vyāsa* denotes "the divider / arranger of the Veda." The division is arrangement for transmission, not authorship — consistent with the *apauruṣeyatva* of the Veda's content: the eternal *śabda* is arranged, never composed. Loci confirmed against Wilson's *Viṣṇu Purāṇa* (III.3–4) and the *Bhāgavata Purāṇa* (Canto 12.6).
+
+---
+
 ### `sanskrit-field-52b-reach`
 
 **Short:** Chapter 0's "more than 5.2 billion" estimate is an order-of-magnitude civilizational-field estimate, not a census category: roughly two billion people in the Indian subcontinent plus more than three billion more in the Indo-European / Indo-Iranian and Buddhist-transmission language fields.

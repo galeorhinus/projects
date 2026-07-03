@@ -106,7 +106,7 @@ These are three fields, each with its own duty: one preserves what must not chan
 
 The Veda is one. The continuum holds it as a single body of sound, without beginning and without end — *anādi* अनादि behind, *ananta* अनन्त ahead.
 
-At the turn from the Dvāpara age to the Kali age — the age of the Mahābhārata — Vyāsa divided the one Veda into four: *Ṛgveda*, *Yajurveda*, *Sāmaveda*, *Atharvaveda*, each with its *saṃhitā* and the *vistāra* that extends it — Brāhmaṇa, Āraṇyaka, Upaniṣad. The division added nothing and took nothing away. It arranged the one body for an age of shorter memory: preservation, not authorship. This is the vaidika domain, held in *chandas* (छन्दस्), the metrical mode.
+At the turn from the Dvāpara age to the Kali age — the age of the Mahābhārata — Vyāsa divided the one Veda into four: *Ṛgveda*, *Yajurveda*, *Sāmaveda*, *Atharvaveda*, each with its *saṃhitā* and the *vistāra* that extends it — Brāhmaṇa, Āraṇyaka, Upaniṣad. The division added nothing and took nothing away. It arranged the one body for an age of shorter memory: preservation, not authorship.[NOTE: veda-vyasa-division] This is the vaidika domain, held in *chandas* (छन्दस्), the metrical mode.
 
 At the same turn, the *itihāsa-purāṇa* — the fifth Veda — passed to the worldly keepers: the laukika domain, carried in *bhāṣā* (भाषा), the mode of speech. Its corpus grows; the language holds.
 
