@@ -102,7 +102,21 @@ These are three fields, each with its own duty: one preserves what must not chan
 
 ---
 
-## 0.5 A Language of Infinity
+## 0.5 Sanātana Time
+
+The Veda is one. The continuum holds it as a single body of sound, without beginning and without end — *anādi* अनादि behind, *ananta* अनन्त ahead.
+
+At the turn from the Dvāpara age to the Kali age — the age of the Mahābhārata — Vyāsa divided the one Veda into four: *Ṛgveda*, *Yajurveda*, *Sāmaveda*, *Atharvaveda*, each with its *saṃhitā* and the *vistāra* that extends it — Brāhmaṇa, Āraṇyaka, Upaniṣad. The division added nothing and took nothing away. It arranged the one body for an age of shorter memory: preservation, not authorship. This is the vaidika domain, held in *chandas* (छन्दस्), the metrical mode.
+
+At the same turn, the *itihāsa-purāṇa* — the fifth Veda — passed to the worldly keepers: the laukika domain, carried in *bhāṣā* (भाषा), the mode of speech. Its corpus grows; the language holds.
+
+The continuum measures all of this in its own time — *Sanātana* time. Tretā turned before Dvāpara, Satya before that; and through every age the Veda has kept watch over the laukika world, unchanged — the invariant calibrant against which the turning world is measured.
+
+![Figure 0.2 — Sanātana Time. The one Veda (invariant, *chandas* mode) divides into four at the Mahābhārata — each *saṃhitā* with its *vistāra* — while the *itihāsa-purāṇa* crosses into the laukika domain (*bhāṣā* mode), where civilizational clarity rises and falls across the yugas. All measured in the continuum's own time, *anādi* to *ananta*.](figures/seekers/seekers_vaidika_laukika.svg){#fig:sanatana-time width=100%}
+
+---
+
+## 0.6 A Language of Infinity
 
 The opening puzzle gave two answers: zero and infinity. The civilization that engineered Sanskrit made both operational — first in counting, then in language.
 
@@ -118,7 +132,7 @@ Two systems, one pattern: ten digits span arithmetic, the *dhātupāṭha* spans
 
 ---
 
-## 0.6 The Civilization That Holds It
+## 0.7 The Civilization That Holds It
 
 Sanskrit is held by an engineered transmission architecture.
 
@@ -138,7 +152,7 @@ If Sanskrit is the calibrant, then returning to Sanskrit is civilizational work,
 
 ---
 
-## 0.7 The Fractal Test
+## 0.8 The Fractal Test
 
 Sanskrit's engineering, architecture, and civilizational transmission can be followed without prior Sanskrit study. Readers who have studied the language will recognize many of the features ahead, now placed in a category very different from the one they were handed — and familiar material reveals more once the category around it changes.
 

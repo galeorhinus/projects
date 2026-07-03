@@ -988,7 +988,7 @@ Sources: United Nations Department of Economic and Social Affairs, Population Di
 
 **Short:** Sanskrit's vocabulary is not best understood as a dictionary inventory. It is generated from a finite engine: 2,168 *dhātavaḥ*, 22 *upasargāḥ*, the unprefixed state, *lakāra* verb grids, person-number endings, verbal voices, nominal derivatives, and recursive *samāsa* compounds. A conservative schematic count already exceeds twenty million outputs before compounds, technical coinage, and poetic extension are counted.
 
-**Deployments:** Chapter 0 §0.5 ("A Language of Infinity") — the paragraph contrasting dictionary inventory with Sanskrit's generative word-engine.
+**Deployments:** Chapter 0 §0.6 ("A Language of Infinity") — the paragraph contrasting dictionary inventory with Sanskrit's generative word-engine.
 
 The comparison is between dictionary inventory and generative output-space, not between two identical counting methods. English is useful as the familiar dictionary-language contrast. Oxford Languages describes the *Oxford English Dictionary* as documenting more than 600,000 words across English history; the often-cited OED2 current-use headword count is about 171,476. Either number is an inventory count: words admitted into a dictionary after historical usage.
 
@@ -4835,7 +4835,7 @@ Source anchor: Parag Tope, *Tatya Tope's Operation Red Lotus: The Anglo-Indian W
 
 **Short:** The maxim **धर्मो रक्षति रक्षितः (*dharmo rakṣati rakṣitaḥ*)** gives Chapter 0 its caretaker law: what protects must itself be protected.
 
-**Deployments:** Chapter 0 §0.6 (The Civilization That Holds It).
+**Deployments:** Chapter 0 §0.7 (The Civilization That Holds It).
 
 The phrase appears in *Manusmṛti* 8.15 as part of the larger warning that dharma, when harmed, harms; dharma, when protected, protects. Chapter 0 uses the maxim structurally rather than juridically: Sanskrit survived because the caretaking civilization protected the transmission; future protection requires active caretaking, not passive inheritance.
 
