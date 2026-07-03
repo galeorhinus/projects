@@ -106,11 +106,11 @@ Ten symbols — *0* through *9* — span all of arithmetic. Position carries the
 
 A finite inventory, a rule for combining it, one enabling idea — and the output has no ceiling.
 
-**Sanskrit does to language what zero does to counting.** A dictionary language stores its vocabulary as inventory: English admits words and lists them, on the order of 170,000 in current use. Sanskrit runs the other way. The *dhātupāṭha* धातुपाठ holds the semantic atoms — 2,168 *dhātavaḥ*; *upasargāḥ* उपसर्गाः and *pratyayāḥ* प्रत्ययाः attach to them; the verb-grids inflect them; *samāsa* समास composes them — and a compound can itself become a member of the next. The words are not stored; they are generated. A conservative count of the first-pass grammatical space already runs past **twenty million words before a single compound is formed**, and compounding adds no ceiling.[NOTE: sanskrit-generative-wordspace] Sanskrit is a word-engine.
+**Sanskrit does to language what zero does to counting.** A dictionary language stores its vocabulary as inventory: English admits words and lists them, on the order of 170,000 in current use. Sanskrit runs the other way: the *dhātupāṭha* धातुपाठ holds the semantic atoms — 2,168 *dhātavaḥ*; *upasargāḥ* उपसर्गाः and *pratyayāḥ* प्रत्ययाः attach to them; the verb-grids inflect them; *samāsa* समास composes them — and a compound can itself become a member of the next. The words are not stored; they are generated. A conservative count of the first-pass grammatical space already runs past **twenty million words before a single compound is formed**, and compounding adds no ceiling.[NOTE: sanskrit-generative-wordspace] Sanskrit is a word-engine.
 
 When India's space agency needed a name for its first lunar mission, the engine produced one: *Chandra* (moon) + *yāna* (vehicle) = *Chandrayāna* चन्द्रयान, moon-vehicle. The same engine turns whenever Sanskrit forms a technical term, a name, a mantra, or a verse. The dictionary catalogs the engine's output; it does not bound it.
 
-Two systems, one move: ten digits span arithmetic, the *dhātupāṭha* spans vocabulary — finite inventory, infinite reach. The same seeker culture, working in two domains, built systems where a small set of atoms opens onto unbounded space. The opening word returns: *pūrṇam*.
+Two systems, one pattern: ten digits span arithmetic, the *dhātupāṭha* spans vocabulary — finite inventory, infinite reach. The same seeker culture, working in two domains, built systems where a small set of atoms opens onto unbounded space. The opening word returns: *pūrṇam*.
 
 ---
 
