@@ -98,29 +98,23 @@ This is the first doorway into Sanskrit's engineering: the *prākṛta* flows, t
 
 ---
 
-## 0.5 A Language of Infinity — Words Without Limit
+## 0.5 A Language of Infinity
 
-Sanskrit can generate new words on demand.
+The opening puzzle gave two answers: zero and infinity. The civilization that engineered Sanskrit made both operational — first in counting, then in language.
 
-A dictionary language stores vocabulary as inventory. Sanskrit works differently. The *dhātupāṭha* धातुपाठ holds semantic atoms; *upasargāḥ* उपसर्गाः and *pratyayāḥ* प्रत्ययाः attach to them; *samāsa* समास composes them; new words emerge as needed.[NOTE: sanskrit-generative-wordspace] Sanskrit is a word-engine.
+Begin with counting, because everyone already trusts it. Ten symbols — *0* through *9* — span all of arithmetic. Position carries the value: the *2* in *246* is *two hundred*, the *2* in *26* is *twenty*, the *2* in *2* is *two*. The idea that makes it work is *śūnya* शून्य, the mark for absence at a position. Without zero, place value collapses; with zero, ten symbols reach every number there is. The world still counts this way — the *Hindu-Arabic numerals* of the reference works, received and refined by the Arabic mathematical discipline from the Indic one and carried west across the medieval period.[NOTE: place-value-arabic-transmission] The Indic origin is documented and uncontested, even where the engineering is domesticated as *a discovery* rather than recognized as engineering.
 
-When India's space agency needed a name for its first lunar mission, the language generated a compound: *Chandra* (moon) + *yāna* (vehicle) = *Chandrayāna* चन्द्रयान, moon-vehicle. The same engine works whenever Sanskrit forms a technical term, a name, a compound, a mantra, or a verse. Finite inputs, unbounded reach. The opening word returns: *pūrṇam*.
+Hold that move in view: a finite inventory, a rule for combining it, and one enabling idea — and the output has no ceiling.
 
----
+**Sanskrit does to language what zero does to counting.** A dictionary language stores its vocabulary as inventory: English admits words and lists them, on the order of 170,000 in current use. Sanskrit runs the other way. The *dhātupāṭha* धातुपाठ holds the semantic atoms — 2,168 *dhātavaḥ*; *upasargāḥ* उपसर्गाः and *pratyayāḥ* प्रत्ययाः attach to them; the verb-grids inflect them; *samāsa* समास composes them — and a compound can itself become a member of the next. The words are not stored; they are generated. A conservative count of the first-pass grammatical space already runs past **twenty million words before a single compound is formed**, and compounding adds no ceiling.[NOTE: sanskrit-generative-wordspace] Sanskrit is a word-engine.
 
-## 0.6 A Language of Infinity — Counting Without Limit
+When India's space agency needed a name for its first lunar mission, the engine produced one: *Chandra* (moon) + *yāna* (vehicle) = *Chandrayāna* चन्द्रयान, moon-vehicle. The same engine turns whenever Sanskrit forms a technical term, a name, a mantra, or a verse. The dictionary catalogs the engine's output; it does not bound it.
 
-The opening puzzle gave the two answers: zero and infinity. The civilization that engineered Sanskrit made one of them operational in the place-value number system.
-
-Ten symbols — *0* through *9* — span all of arithmetic. Position carries value: the *2* in *246* means *two hundred*, the *2* in *26* means *twenty*, the *2* in *2* means *two*. The crucial innovation is *śūnya* शून्य, the symbol for absence at a position. Without zero, place value collapses. With zero, the system spans infinity.
-
-The world counts in this system today. The numerals the world uses are called *Hindu-Arabic numerals* in standard reference works, and the *Arabic* part of the name acknowledges that the system reached Europe through Arabic-speaking intermediaries; the *Hindu* part acknowledges where it came from. The Arabic mathematical discipline received the system from the Indic mathematical discipline, refined and transmitted it, and passed it westward to Europe across the medieval period.[NOTE: place-value-arabic-transmission] The Indic origin is documented and uncontested in the history of mathematics, even where the engineering accomplishment is often domesticated as *a discovery* rather than recognized as engineering.
-
-A finite sound-field, finite semantic atoms, prefixes, and suffixes generate words without apparent end — language running the same intellectual pattern. Finite symbols, infinite reach. Ten digits span all of arithmetic; the *dhātupāṭha* spans vocabulary. The same seeker culture, working in two domains, built systems where small inventories open into unbounded space.
+Two systems, one move: ten digits span arithmetic, the *dhātupāṭha* spans vocabulary — finite inventory, infinite reach. The same seeker culture, working in two domains, built systems where a small set of atoms opens onto unbounded space. The opening word returns: *pūrṇam*.
 
 ---
 
-## 0.7 The Civilization That Holds It
+## 0.6 The Civilization That Holds It
 
 Sanskrit is held by an engineered transmission architecture.
 
@@ -140,7 +134,7 @@ If Sanskrit is the calibrant, then returning to Sanskrit is civilizational work,
 
 ---
 
-## 0.8 The Fractal Test
+## 0.7 The Fractal Test
 
 Sanskrit's engineering, architecture, and civilizational transmission can be followed without prior Sanskrit study. Readers who have studied the language will recognize many of the features ahead, now placed in a category very different from the one they were handed — and familiar material reveals more once the category around it changes.
 
