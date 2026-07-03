@@ -955,6 +955,16 @@ The point is not that every occurrence of every name performs a full etymologica
 
 ---
 
+### `yaska-deva-derivation`
+
+**Short:** Yāska (*Nirukta* 7.15) derives *deva* from action — *dānāt* (giving), *dīpanāt* (kindling), *dyotanāt* (illumining) — with a fourth, locational derivation, *dyusthānaḥ* (abiding in the bright realm).
+
+**Deployments:** Chapter 0 §0.3 — the Yāska-*deva* seed grounding *devabhāṣā* and the "action, not word" contested-words rule.
+
+Yāska's *Nirukta* 7.15 reads: **देवो दानाद्वा दीपनाद्वा द्योतनाद्वा द्युस्थानो भवतीति वा** (*devo dānād vā dīpanād vā dyotanād vā dyusthāno bhavatīti vā*) — "a *deva* is so called from giving (√dā), or from kindling / being effulgent (√dīp), or from illumining / shining (√dyut), or he is one who abides in the bright realm (*dyu* + √sthā)." Three of the four derivations run from verbal roots — the *nāmāny ākhyātajāni* principle (*Nirukta* 1.1) applied to *deva* itself; the fourth, *dyusthāna*, is locational. The §0.3 seed uses the three verbal derivations, since the point is names-from-actions; the locational fourth is recorded here for completeness. Locator and verbatim cross-confirmed against two independent sources; Sarup's edition of the *Nirukta* carries the standard English rendering.
+
+---
+
 ### `sanskrit-field-52b-reach`
 
 **Short:** Chapter 0's "more than 5.2 billion" estimate is an order-of-magnitude civilizational-field estimate, not a census category: roughly two billion people in the Indian subcontinent plus more than three billion more in the Indo-European / Indo-Iranian and Buddhist-transmission language fields.

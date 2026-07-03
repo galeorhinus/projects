@@ -82,19 +82,23 @@ Sanskrit's other name is ***devabhāṣā*** (देवभाषा) — the lan
 
 Sanskrit also trains the ear to hear a name as an attribute, one that can carry relation, action, quality, lineage, or function. Yāska's formula **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)** later gives the principle its technical form: names arise from actions.[NOTE: sanskrit-names-as-attributes] Sanskrit labels the world and discloses its structure in the same stroke.
 
+Yāska turned the same discipline on *deva* itself and derived the word from action: from *dā*, to give; from *dīp*, to kindle; from *dyut*, to shine.[NOTE: yaska-deva-derivation] The radiant ones of *devabhāṣā* are the giving, the kindling, the shining — the deed carried in the word, not a label pinned on it.
+
+The same rule governs the contested words ahead. *Asura*, *ārya*, *saṃskṛta* — each arrives as a fixed label, and each yields something different once its action and function are weighed. The English word is not the authority. What the word does is.
+
 ---
 
 ## 0.4 *Saṃskṛtam* and *Prākṛtāni*
 
-The language's own name — *saṃskṛtam* संस्कृतम्, *perfectly synthesized* or *wholly created* — stands across from *prākṛta*, the natural and changing. That distinction organizes the engineering argument.
+The language's own name — *saṃskṛtam* संस्कृतम्, *perfectly synthesized* or *wholly created* — stands across from *prākṛta* प्राकृत, the natural and the changing. That distinction opens the engineering argument.
 
-*Prākṛta* प्राकृत is the natural and the changing — what arises from ordinary process, what flows and shifts as conditions shift, what may differ across generations. *Prākṛta* is a valid mode of human cultural life, the speech that operates in the world's flow. Stories adapt to their tellers; songs absorb local idiom; everyday speech mutates as the conditions of life mutate. *Prākṛta* is *what is naturally produced*. *Saṃskṛta* is *what is consciously made*.
+*Prākṛta* is what ordinary process produces: speech that shifts as the conditions of life shift, stories that adapt to their tellers, songs that absorb local idiom. *Saṃskṛta* is what conscious formation makes and preservation holds. The civilization that built Sanskrit runs both and gives each its dignity through purpose. Everyday speech may change, because living speech must answer living circumstance. A *Vedic mantra* must stay exact, because its purpose is exact transmission. The *prākṛta* flows; the *saṃskṛta* holds.
 
-Sanskrit alone occupies the *saṃskṛta* side.
+*Saṃskṛta* itself runs in two domains. The **vaidika** वैदिक domain holds the invariant — the Veda does not change. The **laukika** लौकिक domain carries accretion — its story-corpus grows, the Mahābhārata and the Purāṇas added to it, while the language stays Sanskrit. Beside both flows the **prākṛtika** प्राकृतिक, the natural speech of daily life.
 
-The civilization that built Sanskrit maintained a two-bucket system. The *prākṛtika* प्राकृतिक bucket holds what naturally arises and changes. The *sāṃskṛtika* सांस्कृतिक bucket holds what is consciously formed and preserved. Each bucket carries dignity through purpose. Everyday speech may change because living speech must answer living circumstance. A *Vedic mantra* must remain exact because its purpose is exact transmission.
+These are three fields, each with its own duty: one preserves what must not change, one extends what can be applied, one lets life move where movement belongs. Together they are a civilization keeping three promises at once.
 
-This is the first doorway into Sanskrit's engineering: the *prākṛta* flows, the *saṃskṛta* holds.
+![Figure 0.1 — The three fields. *Saṃskṛta*, the made language, runs in two domains — *vaidika* (invariant) and *laukika* (accretive) — while *prākṛtika* flows beside them as the natural speech of daily life. All three run the full span from *anādi* to *ananta* — three concurrent fields.](figures/seekers/sanatana_triad.svg){#fig:sanatana-triad width=100%}
 
 ---
 
