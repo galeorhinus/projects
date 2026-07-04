@@ -638,7 +638,29 @@ Worked examples the tradition itself uses:
 
 The mechanism was itself debated: whether a *nānārtha* form is **one word with many meanings** (*ekaśabda-darśana*, polysemy) or **many words sharing a form** (*anekaśabda-darśana*, homonymy). [VERIFY: the *ekaśabda* / *anekaśabda* terminology and its attribution — cf. Émilie Aussant, "Sanskrit Theories on Homonymy and Polysemy"; confirm the exact terms and their source before print.]
 
-For *asura* the two derivations Yāska records do not share a semantic center: *asu-ra* is built on the noun *asu* (breath); *a-sura* is the privative of *sura*, itself from the *dhātu* ⟪सुर्⟫ (*sur*, to shine). Different origins, one form — the *anekaśabda* case. The distinction is the lineage-chain's own apparatus, in place long before the "Indo-Iranian reversal" story was assembled to explain a homonym as a single word that had flipped its sense.
+For *asura* the two derivations Yāska records do not share a semantic center: *asu-ra* is built on the noun *asu* (breath); *a-sura* is the privative of *sura*, itself from the *dhātu* ⟪सुर्⟫ (*sur*, to shine — *Dhātupāṭha* *tudādi* 6.66, *artha* ऐश्वर्यदीप्त्योः; see `sura-dhatu-dipti`). Different origins, one form — the *anekaśabda* case. The distinction is the lineage-chain's own apparatus, in place long before the "Indo-Iranian reversal" story was assembled to explain a homonym as a single word that had flipped its sense.
+
+---
+
+### `sura-dhatu-dipti`
+
+**Short:** *Sura* ("the shining one") derives from the Pāṇinian *dhātu* सुर् (aupadeśika षुरँ), *Dhātupāṭha* *tudādi* 6.66, whose *artha* is **ऐश्वर्यदीप्त्योः** — "of sovereignty and of shining" (ashtadhyayi.com: *"to rule, to be powerful, to shine"*). *A-sura* is the privative of that shining one: the un-shining. The *dīpti* ("shining") sense is explicit in the primary source, so the reading rests on Pāṇini's own *Dhātupāṭha*, not on a Western reconstruction.
+
+**Deployments:** Chapter 3 §3.6 ¶ (the four-parse sort) — the load-bearing anchor for the book's *a-sura* = "not-light" reading of the antagonist-word. This is the point a hostile reader attacks; the note holds it on the primary Pāṇinian source.
+
+**The root, from the Dhātupāṭha.** The dhātu is सुर्, cited in aupadeśika form as **षुरँ (*ṣur*)** — the initial ष् surfaces as स्, the final ँ is the accent-anubandha. It sits in the ***tudādi* gaṇa** (class 6) at **Dhātupāṭha 6.66** (ashtadhyayi.com base-index `06.0066`). Its *artha* is **ऐश्वर्यदीप्त्योः** (*aiśvarya-dīptyoḥ*), the genitive dual "of sovereignty and of shining"; the English gloss is *"to rule, to be powerful, to shine,"* the Hindi *ऐश्वर्यवान् होना, प्रकाशित होना* ("to be powerful, to be illuminated"). The **दीप्ति (*dīpti*, "shining")** sense is therefore in the source itself; the book draws on that sense (the *aiśvarya* "sovereignty" sense is part of the same root's range but is not what *a-sura* turns on).
+
+**The derivation.** From सुर् in its *dīpti* sense, *sura* is "the shining one," the radiant *deva*. Its privative is ***a-sura***: *a-* (the negating prefix, as in *a-hiṃsā*, *a-dharma*, *a-sita*) + *sura* — "the un-shining, the one who withholds the light." The segmentation is not the book's invention: the **Sāmaveda-Padapāṭha splits *a + surasya***, marking the *a-* natively in recitation.
+
+**Handling the standard objection.** Monier-Williams treats the *noun* सुर (the god) as probably a back-formation from *asura* — a positive coined by reading the *a-* of *asura* as privative, "as *sita* from *a-sita*." This does not touch the reading. (1) It is a claim about the *noun's* attestation history — MW cites *sura* only from the Maitrī Upaniṣad and *Mahābhārata* — not about the *root* सुर्, which stands on its own in the *Dhātupāṭha* with the *dīpti* sense. (2) MW's own analogy is a light/dark pair — *sita* "white, bright" beside *a-sita* "dark" — so even the back-formation account patterns *a-sura* as "not-bright." (3) The book operates in the internal frame: it derives *sura* from an attested Pāṇinian *dhātu*, which is the proper court for a Sanskrit derivation, not a reconstruction.
+
+**Reception and myth confirm the sense.** The wisdomlib gloss on RV 2.1.6 reads *asura* there in "the older sense — 'Sire' / 'Powerful' — not 'A-Sura,' the 'Anti-Shining' Demon," naming the split from inside the reception tradition. And *Svarbhānu*, the eclipse-*asura*, carries *svar* (स्वर्, the self-luminous heaven) in his name and darkens it — the un-shining one enacting the privative (see `svarbhanu-svar-etymology`).
+
+**A distinction kept, to forestall the philologist's counter.** The book's *a-sura* = "not-light" is built on the root सुर् (*dīpti*). It does not rest on — and must not be conflated with — सूर (*sūra*, long *ū*, "the sun"), स्वर् (*svar*, the light-realm), which are cognate light-words, nor with सुरा (*surā*, "liquor," from √*su*, "to distil"), which is unrelated.
+
+**Etymology-independent backstop.** The containment charge does not hang on this segmentation: whether the praised asura is *asu-ra* (holder of the life-breath) or the antagonist is *a-sura* (not-light), the deed the book tracks — holding-and-releasing versus withholding — is identical (§3.7).
+
+Source: ashtadhyayi.com *Dhātupāṭha*, entry `06.0066` (Pāṇinian *Dhātupāṭha*, *tudādi* gaṇa), cross-checked against the local machine-readable inventory in `analysis/dhatupatha/` (gaṇa 6, entry 66 = षुरँ). Monier-Williams s.v. *sura* / *asura* for the back-formation account.
 
 ---
 
