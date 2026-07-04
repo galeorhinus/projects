@@ -170,6 +170,22 @@ The words *god*, *gods*, *God*, *Gods* (and *godless*) never appear in the book'
 
 **Related — *goddess* / *Goddess*:** by the same Indic-frame logic, prefer ***Devī*** (देवी) for the feminine deity; established names (the *Devī Māhātmya*, the endnote stub `devi-mahatmya-goddess-undoes-male-apex`) keep their forms.
 
+### *"Demon"* — never for *asura* (the deva/asura companion to the *god* rule)
+
+The word *demon* never renders *asura* (असुर) in the book's own prose. *Demon* imports the Christian / Abrahamic demonology frame — a supernatural evil being inside a cosmology the book is dismantling — onto the Indic *asura*, exactly as *god* flattens *deva*. The *asura* is not a demon. It is the **adversary** in the *deva–asura* opposition, and (Ch 3 §3.6) the *a-sura* — the *un-shining*, the withholder of light. The valence is structural (release vs withholding), not the Christian good-vs-evil supernatural binary.
+
+Substitutes: ***the asura*** directly (the word carries its own category), ***the adversary***, ***the antagonist***, ***the adversary-host*** / ***the asura-host*** (the collective the *devāḥ* contend against), or the figure by name (*Vṛtra*, *Svarbhānu*, *Namuci*). The rejection extends to the wider adversary-class — *rākṣasa*, *dānava*, *daitya*, *daiteya* — where *demon* imports the same frame: name them directly or as *adversaries*. Do **not** substitute *devil* / *fiend* / *evil spirit* either — same frame.
+
+**Exemptions (kept verbatim):** verbatim quotation of a source, and the pyramid's own mistranslation being prosecuted (scare-quoted as the object of critique). Parallel to the *god / gods* rule.
+
+### *"Scripture"* — never for the Vedas / Indic corpus (reserved for the Abrahamic side)
+
+*Scripture* (Latin *scriptura*, *a writing*) never designates the Vedas or the Indic corpus in the book's own prose. The word encodes the Abrahamic written-holy-book frame — sacred content fixed in an authorized written text, controlled by an institution — the *foundational dogma*'s engineering choice the book contrasts against (Ch 13, Ch 14). The Vedas are ***śruti*** (श्रुति, *the heard*), not written scripture; the custody is *chandas* + *śruti* + the *guru-shishya* lineage-chain, not a controlled manuscript. Calling the Vedas *scripture* concedes the category the book exists to refuse.
+
+Substitutes for the Indic corpus: ***the Veda(s)***, ***śruti*** / ***the heard corpus***, ***the Vedic corpus***, ***the received corpus*** (*āmnāya*), ***the encoded corpus*** — by context. For *āgama* (आगम) the gloss is ***the arrived teaching*** / ***the Veda's own injunction***, never *scriptural injunction*.
+
+**Reserved for the Abrahamic side (keep *Scripture* / *scriptural*):** the Hebrew Bible, the Christian New Testament, the Qur'an, the Abrahamic *scriptural substrate*, and the ***Scripture*** mode itself — Ch 14 defines capital-*S* *Scripture* as the Abrahamic written-word preservation mode, contrasted with the Indic modes (*auditure*, *audiography*). Using *scripture* to **deny** that the Vedas reduce to it (Appendix Part 8; Ch 3 §3.8-adjacent — *"not reducible to scripture"*) is correct and stays. **Exemptions:** verbatim quotation (e.g., the missionary's *"translation of the Scriptures into Sanskrit"*), and the pyramid's reductive labeling of the Vedas being prosecuted (scare-quote on attribution).
+
 ### Two axes, not one chronology — *vaidika / laukika* (domains) + *chandas / bhāṣā* (modes)
 
 **Reject "Vedic Sanskrit / Classical Sanskrit" as the named pair.** The dogma collapses Sanskrit's two-axis architecture into a one-line chronology: "Classical" is a Greco-Latin classroom-canon classification imported onto Sanskrit, and the implicit "later-than-Vedic" sequencing imports the foreign teleology along with the label.
