@@ -642,6 +642,44 @@ For *asura* the two derivations Yāska records do not share a semantic center: *
 
 ---
 
+### `rv-1-174-1-indra-asura`
+
+**Short:** Ṛgveda 1.174.1 addresses Indra as *asura* (vocative) — the sovereign to whom the *devāḥ* are subject, guarding the people; the deed-earned sovereign sense the Ṛgveda gives the word.
+
+**Deployments:** Chapter 3 §3.6 — the first of the two mantras showing that the Ṛgvedic *asura* is the praised sovereign (the *asu-ra* breath-bearer), earned by deed per *nāmāny ākhyātajāni*, before the book identifies its antagonist as the distinct *a-sura*.
+
+**Saṃhitā-pāṭha:**
+
+> त्वं राजेन्द्र ये च देवा रक्षा नॄन्पाह्यसुर त्वमस्मान् ।
+> त्वं सत्पतिर्मघवा नस्तरुत्रस्त्वं सत्यो वसवानः सहोदाः ॥
+
+**Padaccheda:** त्वम् । राजा । इन्द्र । ये । च । देवाः । रक्ष । नॄन् । पाहि । असुर । त्वम् । अस्मान् । त्वम् । सत्ऽपतिः । मघऽवा । नः । तरुत्रः । त्वम् । सत्यः । वसवानः । सहःऽदाः ॥
+
+**Translation (Wilson, rendering Sāyaṇa):** "You, Indra, are king; those who are gods are (subject) to you; O *asura*, protect and cherish us men; you are the lord of the good (*sat-patiḥ*), the bountiful (*maghavā*), our deliverer (*tarutraḥ*); you are true (*satyaḥ*), the giver of strength (*sahaḥ-dāḥ*)."
+
+Here *asura* is a vocative epithet of **Indra** — the sovereign to whom "the gods themselves are subject." The first line is the worked example at Ṛgveda-Prātiśākhya §5.1, which independently confirms the padapāṭha. Source: the Wilson/Sāyaṇa translation as hosted at [wisdomlib](https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc830892.html); one of Hale's four secure Indra-*asura* vocatives (with RV 8.90.6, 10.96.11, 10.99.12).
+
+---
+
+### `rv-1-24-14-varuna-asura`
+
+**Short:** Ṛgveda 1.24.14 addresses Varuṇa as *asura pracetāḥ* ("wise *asura*," vocative) — the sovereign with the authority to *release* (*śiśrathaḥ*) the bonds of sin; sovereignty as the power to bind and to loose.
+
+**Deployments:** Chapter 3 §3.6 — the second sovereign-*asura* mantra; Varuṇa's deed is *release*, which ties the praised Ṛgvedic *asura* directly to the book's release-against-withholding axis (§3.7) and marks the antagonist *a-sura* as the withholder by contrast.
+
+**Saṃhitā-pāṭha:**
+
+> अव ते हेळो वरुण नमोभिरव यज्ञेभिरीमहे हविर्भिः ।
+> क्षयन्नस्मभ्यमसुर प्रचेता राजन्नेनांसि शिश्रथः कृतानि ॥
+
+**Padaccheda:** अव । ते । हेळः । वरुण । नमोभिः । अव । यज्ञेभिः । ईमहे । हविर्भिः । क्षयन् । अस्मभ्यम् । असुर । प्रऽचेतः । राजन् । एनांसि । शिश्रथः । कृतानि ॥
+
+**Translation (Wilson, rendering Sāyaṇa):** "O Varuṇa, we soften your wrath with obeisances (*namobhiḥ*), with sacrifices (*yajñebhiḥ*), with oblations (*havirbhiḥ*). Ruling over us, O wise *asura* (*asura pracetaḥ*), O king (*rājan*), loosen from us the sins we have committed."
+
+Here *asura* is a vocative epithet of **Varuṇa** — the sovereign addressed as the one with authority to *release* (*śiśrathaḥ*, √śrath) the bonds of sin: sovereignty as the power to bind and to loose. Source: the Wilson/Sāyaṇa translation as hosted at [wisdomlib](https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc829155.html).
+
+---
+
 ### `maitrayani-samhita-1-9-3-satya-asura`
 
 **Short:** Maitrāyaṇī Saṃhitā 1.9.3 gives the Part I opener its sat/asat axis: the devas are created by truth and become truth; the asuras are created by untruth and become untruth.
