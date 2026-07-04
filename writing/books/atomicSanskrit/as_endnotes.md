@@ -621,6 +621,27 @@ Source note: the verse is commonly cited as *Mahābhārata*, Vana Parva 3.200.4 
 
 ---
 
+### `nanartha-homonymy`
+
+**Short:** Sanskrit's lexicographers catalogued homonymy long before the philological machinery built a "reversal" on it: *nānārtha* (many-meaning forms) has its own section in the *Amarakośa* (the *nānārtha-varga*), and the analysts distinguished one word carrying many senses — *ekaśabda* — from several words sharing one form — *anekaśabda*. *Asura* is *anekaśabda*: *asu-ra* (breath-bearer) and *a-sura* (un-shining) are distinct derivations that happen to share a form, not one word that reversed. See the companion for the *go*/*hari* sense-lists and the *ekaśabda* / *anekaśabda* discussion.
+
+**Deployments:** Chapter 3 §3.6 — the refutation of the "asura reversal / Indo-Iranian schism" story by appeal to the homonymy the Sanskrit lexicographic discipline had already catalogued; underwrites the unequivocal "two different words, one form" claim.
+
+**नानार्थ (*nānārtha*)** — "many-meaning" — is the standing lexicographic category for a single phonic form bearing more than one referent. The category is not a modern reconstruction; it is the discipline's own, worked out in the thesauri and the grammatical-philosophical literature.
+
+The **अमरकोश (*Amarakośa*)** — Amarasiṃha's thesaurus, the most widely memorized lexicon in the lineage-chain — collects such forms in a dedicated section, the **नानार्थवर्ग (*nānārtha-varga*)**. [VERIFY: confirm the *nānārtha-varga* sits in the third *kāṇḍa* (the *Sāmānya-* / *Nānārtha-varga* group) of the *Amarakośa*, and its scope, before print.]
+
+Worked examples the tradition itself uses:
+
+- **गो (*go*)** — the classic *nānārtha* form, discussed by Yāska in the *Nirukta*. Senses include cow, the earth, speech (*vāc*), and the ray or beam of light, among others (Monier-Williams, s.v. *go*, lists these and more). One form, many referents; the reciter disambiguates by context.
+- **हरि (*hari*)** — senses include Viṣṇu, Indra, the sun, the moon, a lion, a horse, a monkey, and the color green/tawny (Monier-Williams, s.v. *hari*). A stock entry in the *nānārtha* registers.
+
+The mechanism was itself debated: whether a *nānārtha* form is **one word with many meanings** (*ekaśabda-darśana*, polysemy) or **many words sharing a form** (*anekaśabda-darśana*, homonymy). [VERIFY: the *ekaśabda* / *anekaśabda* terminology and its attribution — cf. Émilie Aussant, "Sanskrit Theories on Homonymy and Polysemy"; confirm the exact terms and their source before print.]
+
+For *asura* the two derivations Yāska records do not share a semantic center: *asu-ra* is built on the noun *asu* (breath); *a-sura* is the privative of *sura*, itself from the *dhātu* ⟪सुर्⟫ (*sur*, to shine). Different origins, one form — the *anekaśabda* case. The distinction is the lineage-chain's own apparatus, in place long before the "Indo-Iranian reversal" story was assembled to explain a homonym as a single word that had flipped its sense.
+
+---
+
 ### `maitrayani-samhita-1-9-3-satya-asura`
 
 **Short:** Maitrāyaṇī Saṃhitā 1.9.3 gives the Part I opener its sat/asat axis: the devas are created by truth and become truth; the asuras are created by untruth and become untruth.
