@@ -680,6 +680,23 @@ Here *asura* is a vocative epithet of **Varuṇa** — the sovereign addressed a
 
 ---
 
+### `rv-agni-mitra-rudra-asura`
+
+**Short:** The life-force reading that makes Indra and Varuṇa *asura* also holds for Agni, Rudra, and Mitra — Agni/Rudra as *asuraḥ* at RV 2.1.6 (*tvám agne rudró asuró mahó divaḥ*), Mitra-Varuṇa as *asurā* ("the *asuras* among the *devāḥ*") at RV 7.65.2 — each titled for the life he holds.
+
+**Deployments:** Chapter 3 §3.6 ¶ after the Indra and Varuṇa mantras — generalizes the *asu-ra* (deed-earned holder of the life-force) parse across the Ṛgveda's other praised *asuras*, so the sovereign-*asura* usage is shown to be a pattern, not two isolated verses.
+
+**RV 2.1.6 — Agni as Rudra:**
+
+> त्वमग्ने रुद्रो असुरो महो दिवस्त्वं शर्धो मारुतं पृक्ष ईशिषे ।
+> त्वं वातैररुणैर्यासि शंगयस्त्वं पूषा विधतः पासि नु त्मना ॥
+
+"You, Agni, are Rudra, the *asura* of the great heaven; you rule (*īśiṣe*) the Marut host and the nourishing vigour (*pṛkṣ*); you travel with the ruddy winds, blessing the household; as Pūṣan you protect the worshipper by your own self." The single verse titles both **Agni** and **Rudra** *asura*, and the deed is the holding and ruling of vigour (*pṛkṣ*) and the protection of the worshipper. The wisdomlib gloss reads *asura* here in "the older sense — 'Sire' / 'Powerful' — not 'A-Sura,' the 'Anti-Shining' Demon," articulating the *suraḥ* / *a-suraḥ* split from within the reception tradition.
+
+**RV 7.65.2 — Mitra-Varuṇa:** *tā́ vāṃ … devā́nām asurā́* — "you two are the *asuras* among the *devāḥ*"; the pair is asked to make the dwellings *ūrjayantīḥ*, "full of vigour." **Mitra** carries the *asura* title (in the dual with Varuṇa) as the bond that holds and nourishes — again the holding of life. (Padapāṭha and Wilson/Sāyaṇa rendering at wisdomlib; cf. the per-deity survey in `working/as_asura_sura_asurya_vedic_survey.md` §3.2, §3.5.)
+
+---
+
 ### `maitrayani-samhita-1-9-3-satya-asura`
 
 **Short:** Maitrāyaṇī Saṃhitā 1.9.3 gives the Part I opener its sat/asat axis: the devas are created by truth and become truth; the asuras are created by untruth and become untruth.
