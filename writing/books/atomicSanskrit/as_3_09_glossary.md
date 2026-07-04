@@ -15,8 +15,8 @@ The book's coined terms are therefore bridges back to Sanskrit's own categories.
 The glossary is organized in three groups:
 
 1. **Engineering core vocabulary** — the chemistry idiom the book uses across chapters.
-2. **Technical Sanskrit vocabulary** — standard grammatical and śāstric terms whose specific senses matter for the polemic.
-3. **Polemic vocabulary** — the cluster terms the book uses for the pyramid and its formations.
+2. **Technical Sanskrit vocabulary** — standard grammatical and śāstric terms whose specific senses matter for the diagnosis.
+3. **Diagnostic vocabulary** — the cluster terms the book uses for the pyramid and its formations.
 
 ---
 
@@ -54,7 +54,7 @@ The glossary is organized in three groups:
 
 ### **dhātuḥ** (धातुः) / **dhātavaḥ** (धातवः)
 
-**Standard, multi-domain.** The foundational constituent. In grammar: the semantic atom that combines with affixes (Pāṇini's *Dhātupāṭha*). In metallurgy: the elemental constituent of an alloy. In *Rasaśāstra* and *Āyurveda*: the body's foundational constituents. Cross-domain semantic constancy: "that which holds, sustains, supports." Etymology from *dhā* (धा) — to place, hold, sustain.
+**Standard, multi-domain.** The foundational constituent. In grammar: the semantic atom that combines with affixes (Pāṇini's *Dhātupāṭha*). In metallurgy: the elemental constituent of an alloy. In *Rasaśāstra* and *Āyurveda*: the body's foundational constituents. Cross-domain semantic constancy: "that which holds, sustains, supports." Etymology from ⟪धा⟫ (*dhā*) — to place, hold, sustain.
 
 **English pair**: *atom* / *semantic atom*. The chemistry analogue, deployed throughout the book.
 
@@ -148,7 +148,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **vyākaraṇam** (व्याकरणम्)
 
-**Standard.** Grammar; the analytical discipline. Etymology: *vi-* (apart) + *ā-* (toward) + *kṛ* (to do) — the act of *taking apart, unfolding apart*. Decomposition, not composition — the polemic point the book makes against the "codification" account. Reference Yaska's *Nirukta* and the *Pāṇinian* discipline.
+**Standard.** Grammar; the analytical discipline. Etymology: *vi-* (apart) + *ā-* (toward) + ⟪कृ⟫ (*kṛ*, to do) — the act of *taking apart, unfolding apart*. Decomposition, not composition — the structural point the book makes against the "codification" account. Reference Yaska's *Nirukta* and the *Pāṇinian* discipline.
 
 ### **vaiyākaraṇāḥ** (वैयाकरणाः)
 
@@ -176,6 +176,10 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 **Standard.** Vedic domain / worldly-learned domain. Canonical in Patañjali's *Mahābhāṣya*. Concurrent civilizational fields, not stages on a timeline.
 
+### **curated transmission** / **percipient selection**
+
+**Book terms.** The *laukika* corpus is a **curated transmission**: its language stays calibrated Sanskrit while its content is actively tended — **selected**, **accretive** (grown by new composition), and **lossy**. **Percipient selection** is that tending: a discerning community's curation of what the corpus carries, keeping what serves *lokakṣema* and releasing the rest. Loss has two agents — **percipient release** (dharmic; the community lets go) and **asuric destruction** (deliberate attack or its consequence, developed in Chapter 3). The contrast is the *vaidika*, whose content is invariant and un-erasable. Every change to the corpus has a hand behind it; the language beneath it stays calibrated.
+
 ### **Sanātan** (सनातन)
 
 **Standard.** The eternal / unchanging order; the civilizational continuum the book treats as the alternative architecture to the asuric pyramid. Operates as a proper noun in the book — no English partner; *Sanātan* is the term.
@@ -186,7 +190,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **saṃskṛti** (संस्कृति)
 
-**Standard Sanskrit, book-controlled deployment.** Cultivated, refined, formed order; the balanced civilizational fractal oriented toward well-being. In the book's polemic, Sanskrit is the linguistic layer of *saṃskṛti*: engineered, disciplined, distributed, calibrated architecture. *Saṃskṛti* keeps balance across scale. The pyramid's botanical metaphor steals this category by making Sanskrit answer to natural drift rather than recognizing it as created order.
+**Standard Sanskrit, book-controlled deployment.** Cultivated, refined, formed order; the balanced civilizational fractal oriented toward well-being. In the book's diagnosis, Sanskrit is the linguistic layer of *saṃskṛti*: engineered, disciplined, distributed, calibrated architecture. *Saṃskṛti* keeps balance across scale. The pyramid's botanical metaphor steals this category by making Sanskrit answer to natural drift rather than recognizing it as created order.
 
 ### **vikṛti** (विकृति)
 
@@ -254,7 +258,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ---
 
-## 3. Polemic vocabulary
+## 3. Diagnostic vocabulary
 
 ### **dogma**
 
@@ -348,7 +352,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **lokakṣema** (लोकक्षेम)
 
-**Standard.** The welfare of the world; the orienting goal of *Sanātan*'s architecture. Operates as a proper noun in the book's polemic vocabulary.
+**Standard.** The welfare of the world; the orienting goal of *Sanātan*'s architecture. Operates as a proper noun in the book's diagnostic vocabulary.
 
 ### **heroic erasure**
 
@@ -372,7 +376,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **Pratibimba** (प्रतिबिम्ब)
 
-**Standard Sanskrit term, book-repurposed as polemic category.** A reflection — what appears in a mirror, cast from an original. The book uses *Pratibimba* for the relation between Sanskrit and the cognate languages the machinery classifies as siblings: Hindi, Marathi, Greek, Latin, Persian, Lithuanian, Tocharian. The pyramid's account places all of these as descendants of an imaginary *Proto-Indo-European* parent. The counter-account: there is no PIE. The cognates everywhere else are *Pratibimbas* — reflections of the original engineered Sanskrit forms. *Mātṛ* is the etymon of *mother*; *pater* is a *Pratibimba* of *pitṛ*. The Preface introduces the hook; Chapter 2 exposes the category theft; Chapter 18 §18.6 develops the calibrant-and-reflection architecture in full.
+**Standard Sanskrit term, book-repurposed as diagnostic category.** A reflection — what appears in a mirror, cast from an original. The book uses *Pratibimba* for the relation between Sanskrit and the cognate languages the machinery classifies as siblings: Hindi, Marathi, Greek, Latin, Persian, Lithuanian, Tocharian. The pyramid's account places all of these as descendants of an imaginary *Proto-Indo-European* parent. The counter-account: there is no PIE. The cognates everywhere else are *Pratibimbas* — reflections of the original engineered Sanskrit forms. *Mātṛ* is the etymon of *mother*; *pater* is a *Pratibimba* of *pitṛ*. The Preface introduces the hook; Chapter 2 exposes the category theft; Chapter 18 §18.6 develops the calibrant-and-reflection architecture in full.
 
 ### **engineered / encoded / decoded / codified**
 

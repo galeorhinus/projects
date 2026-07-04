@@ -68,7 +68,7 @@ Each move is false, move by move:
 
   > *The dogma says:* *"Vedic Sanskrit evolved into Classical Sanskrit."*
   >
-  > *The Hindu continuum says:* *"Sanskrit operates across vaidika and laukika domains, through chandas and bhāṣā modes."*
+  > *The Hindu continuum says:* *"Sanskrit operates across vaidika and laukika domains, through chandas and bhāṣā modes — one calibrated language, a curated corpus."*
 
   **The asuric machinery makes Pāṇini a rupture. The architecture makes him a witness.**
 

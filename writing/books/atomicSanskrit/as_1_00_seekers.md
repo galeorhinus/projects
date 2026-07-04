@@ -94,11 +94,11 @@ The language's own name — *saṃskṛtam* संस्कृतम्, *perfec
 
 *Prākṛta* is what ordinary process produces: local idiom, songs, sayings, and everyday forms, all of it shifting as the conditions of life shift. *Saṃskṛta* is what conscious formation makes and preservation holds. The civilization that built Sanskrit runs both and gives each its dignity through purpose. Everyday speech may change, because living speech must answer living circumstance. A *Vedic mantra* must stay exact, because its purpose is exact transmission. The *prākṛta* flows; the *saṃskṛta* holds.
 
-*Saṃskṛta* itself runs in two domains. The **vaidika** वैदिक domain holds the invariant — the Veda does not change. The **laukika** लौकिक domain carries accretion — its story-corpus grows, the Mahābhārata and the Purāṇas added to it, while the language stays Sanskrit. Beside both flows the **prākṛtika** प्राकृतिक, the natural speech of daily life.
+*Saṃskṛta* itself runs in two domains, and in both the language holds — calibrated Sanskrit. The **vaidika** वैदिक domain is invariant in content as well: the Veda does not change. The **laukika** लौकिक domain is a **curated transmission** — its corpus is selected, accretive, and lossy, tended by **percipient selection**, the discerning community keeping what serves and letting the rest go, while the language stays Sanskrit. Beside both flows the **prākṛtika** प्राकृतिक, where language and content alike change: the natural speech of daily life.
 
 These are three fields, each with its own duty: one preserves what must not change, one extends what can be applied, one lets life move where movement belongs. Together they are a civilization keeping three promises at once.
 
-![Figure 0.1 — The three fields. *Saṃskṛta*, the wholly created language, runs in two domains — *vaidika* (invariant) and *laukika* (accretive) — while *prākṛtika* flows beside them as the natural speech of daily life. All three run the full span from *anādi* to *ananta* — three concurrent fields.](figures/seekers/sanatana_triad.svg){#fig:sanatana-triad width=100%}
+![Figure 0.1 — The three fields. *Saṃskṛta*, the wholly created language, runs in two domains — *vaidika* (invariant) and *laukika* (a curated transmission: selected, accretive, lossy) — while *prākṛtika* flows beside them as the natural speech of daily life. In both saṃskṛta domains the language holds calibrated Sanskrit; all three run the full span from *anādi* to *ananta*.](figures/seekers/sanatana_triad.svg){#fig:sanatana-triad width=100%}
 
 ---
 

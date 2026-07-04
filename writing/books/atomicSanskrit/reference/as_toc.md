@@ -345,7 +345,7 @@
   - 7.2 Three Verses — The Implicit Grammar in Operation
   - 7.3 The *Dhātu* Inventory in the Corpus
   - 7.4 The Overreach Called Evolution
-  - 7.5 Meter, Not Decay
+  - 7.5 Meter, Not Loss
   - 7.6 What Natural Drift Looks Like
   - 7.7 The Matrix Succeeds
 - **Appendix Part 8 — The Codification Story, Refuted**
@@ -353,7 +353,7 @@
   - 8.2 The Two Drift Claims
   - 8.3 The Circular Method
   - 8.4 Drift, Codification, Calibration
-  - 8.5 Vedic-Internal Variation Is Not Decay
+  - 8.5 Vedic-Internal Variation Is Functional Division
   - 8.6 Vedic and Classical Is the Wrong Pair
   - 8.7 The Decoding Lineage Before Pāṇini
   - 8.8 Patañjali Gives the Order

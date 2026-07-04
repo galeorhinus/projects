@@ -77,7 +77,7 @@ Three lines of **गायत्री (*gāyatrī*)** meter — eight syllables
 
 - ***tat*** (तत्) — **nominative-accusative neuter singular** (*prathamā* / *dvitīyā vibhakti*, *napuṃsaka-liṅga* नपुंसक-लिङ्ग) pronoun.
 - ***savitur*** (सवितुर्) — **genitive singular** (*ṣaṣṭhī vibhakti*) of *savitṛ* (सवितृ, *the Sun-deity*). *Savituḥ* → *-r* before voiced consonant — *visarga-sandhi*.
-- ***vareṇyam*** (वरेण्यम्) — **accusative singular neuter** of *vareṇya*, a **कृदन्त (*kṛdanta*)** formed from the *dhātu* *vṛ* (वृ, *to choose*) + the *kṛt-pratyaya* *-ya* with *guṇa*. The *dhātu* → *śabda* assembly chemistry (Chapter 12) operating directly in the verse.
+- ***vareṇyam*** (वरेण्यम्) — **accusative singular neuter** of *vareṇya*, a **कृदन्त (*kṛdanta*)** formed from the *dhātu* ⟪वृ⟫ (*vṛ*, *to choose*) + the *kṛt-pratyaya* *-ya* with *guṇa*. The *dhātu* → *śabda* assembly chemistry (Chapter 12) operating directly in the verse.
 - ***bhargo*** (भर्गो) — **accusative singular neuter** of *bharga* (भर्ग, *splendor*). Final *-as* → *-o* before voiced consonant.
 - ***devasya*** (देवस्य) — **genitive singular** of *deva*.
 - ***dhīmahi*** (धीमहि) — **1pl optative middle** (*liṅ-lakāra* लिङ्, *bahuvacana* बहुवचन, *ātmanepada*) of *dhī* (धी, *to contemplate*).
@@ -129,7 +129,7 @@ The *progressive dogma*'s *"Sanskrit was constantly evolving"* claim is the same
 
 The alternations do not carry that claim. They carry something else.
 
-## 7.5 Meter, Not Decay
+## 7.5 Meter, Not Loss
 
 Vedic Sanskrit can use both a shorter and a longer instrumental plural — for *deva*:
 
@@ -163,7 +163,9 @@ The same retroflex lateral ळ, the Vedic pitch accent, *plutaḥ* extended vowe
 
 The dogma calls this loss. The architecture calls it role.
 
-*Vaidika* and *laukika* Sanskrit are not two languages. They are one Sanskrit operating across two domains, through two modes: the *chandas* mode (metrical corpus) and the *bhāṣā* mode (productive speech-and-learning). Pāṇini documents both. He does not place one as the decayed child of the other. Everything is about the meter.
+*Vaidika* and *laukika* Sanskrit are not two languages. They are one Sanskrit operating across two domains, through two modes: the *chandas* mode (metrical corpus) and the *bhāṣā* mode (productive speech-and-learning). Pāṇini documents both. Everything is about the meter.
+
+Natural drift would carry the language itself. Here the language holds, and only the corpus moves — the *laukika* content composed, sifted, and sometimes lost. That is a **curated transmission**, tended by percipient selection, the calibrant unmoved.
 
 ## 7.6 What Natural Drift Looks Like
 

@@ -406,7 +406,7 @@ The book also runs on an *eclipse spine*: Sūrya (Sanskrit) is obscured by the a
 
 **Appendix Part 7 — The Vedic Carrier** *(drafted)* — *Demonstrates the corpus-before-manual claim: the Vedic corpus already carries the architecture later disciplines decode. Separates meter, mode, branch, and recension from decay; shows what natural drift would look like; closes that the matrix succeeds because the corpus form preserves the grammar before any manual names it.*
 
-- 7.1 Corpus Before Manual · 7.2 Three Verses — The Implicit Grammar in Operation · 7.3 The *Dhātu* Inventory in the Corpus · 7.4 The Overreach Called Evolution · 7.5 Meter, Not Decay · 7.6 What Natural Drift Looks Like · 7.7 The Matrix Succeeds
+- 7.1 Corpus Before Manual · 7.2 Three Verses — The Implicit Grammar in Operation · 7.3 The *Dhātu* Inventory in the Corpus · 7.4 The Overreach Called Evolution · 7.5 Meter, Not Loss · 7.6 What Natural Drift Looks Like · 7.7 The Matrix Succeeds
 
 **Appendix Part 8 — The Codification Story, Refuted** *(drafted)* — *Direct response to the claim that Sanskrit drifted until Pāṇini codified it. Separates Vedic-internal variation from Vedic-to-*bhāṣā* difference; exposes the circular method; restores the pre-Pāṇinian decoding lineage; uses Patañjali's* siddhe śabdārthasambandhe *and* apabhraṃśa *as anchors; closes that Pāṇini decoded the language that had learned how not to melt.*
 

@@ -60,7 +60,7 @@ The second says Pāṇini stands between two languages or two chronological stag
 
 The pyramid's account depends on blurring the two claims. Once the claims are separated, each has to stand on its own evidence.
 
-Vedic-internal variation is not proof of decay. Vedic-to-*bhāṣā* difference is not proof of evolution. Both require interpretation. The dogma supplies one interpretation. The architecture supplies a better one.
+Vedic-internal variation is functional division, not drift. Vedic-to-*bhāṣā* difference is design, not evolution. Both require interpretation. The dogma supplies one interpretation. The architecture supplies a better one.
 
 ## 8.3 The Circular Method
 
@@ -107,7 +107,7 @@ The codification story splits Sanskrit so the architecture disappears. Sanskrit 
 
 The control cases make the distinction sharper. Masoretic Hebrew, Quranic Arabic, ecclesiastical Latin, and modern standardized languages show what codification can do. It can guard a bounded text, stabilize a selected form, train a clergy or school, and enforce correction through a recognized authority. That is real preservation. It is not calibration. Sanskrit's matrix preserves more than a selected form. It preserves the Vedic corpus, the sound-grid, the recitation code, the grammar, the atom-inventory, and the generative engine that continues producing valid forms. Codification holds a standard by authority. Calibration places the standard inside the architecture.
 
-## 8.5 Vedic-Internal Variation Is Not Decay
+## 8.5 Vedic-Internal Variation Is Functional Division
 
 Appendix Part 7 has already walked the Vedic-carrier evidence in detail. The conclusion can be compressed here.
 

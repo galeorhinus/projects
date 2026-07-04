@@ -128,7 +128,7 @@ Patañjali, the canonical commentator on the canonical grammar, called the bond 
 
 Two claims anchor the argument.
 
-First: Patañjali rejects the premise of decay. Modern historical linguistics assumes languages mutate, drift, and renew, and the linguist tracks the trajectory. Patañjali's framework refuses that assumption at the metaphysical level. The bond between word and meaning is established. Grammar exists to defend the establishment.
+First: by holding the bond between a word and its meaning to be fixed, Patañjali automatically rejects the premise of change and drift. Modern historical linguistics assumes languages mutate, drift, and renew, and the linguist tracks the trajectory. Patañjali's framework refuses that assumption at the metaphysical level: grammar exists to defend the bond.
 
 The second: Sanskrit begins from permanence. Permanence accommodates error. Patañjali fully recognized variation, misuse, corruption, and *apabhraṃśa*—but he denied that variation is the bond's behavior. The bond holds. Speakers fall away from it. The *vaiyākaraṇaḥ* keeps the bond visible against the fallings-away.
 
