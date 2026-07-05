@@ -360,3 +360,38 @@ A *kṛt* companion pair (or a §18.8-style one-dhātu-many-costumes panel: क�
 
 [VERIFY before deployment: exact sūtra numbers for the suṭ-āgama cluster (*suṭ kāt pūrvaḥ*, *saṃpary-upebhyaḥ karotau bhūṣaṇe*, *samavāye ca* — 6.1.135–137 region) and for the visarga → s compound rule covering *namas-kāra / puras-kāra / bhās-kara* (8.3.46 region, *ataḥ kṛkamikaṃsa…*); confirm 6.1.8 / 7.4.60 / 7.4.62 numbering against the ashtadhyayi.com text; kṛtī chedane 6.171 already verified against the local Dhātupāṭha data.]
 
+### §11 addenda (2026-07-04, second pass)
+
+- **The t is a second confessed device.** The pyramid handles the t-ful daughters (*curtus, \*skurtaz* → *short/shirt/skirt/curt*) via the **"root extension"** (*Erweiterung* / determinative): \*(s)ker-t- posited alongside \*(s)ker-d-, \*(s)ker-p- wherever daughters demand — and the extensions **carry no meaning and follow no rule by their own handbooks**. Sanskrit side: the *t* is **root-final in ⟪कृत्⟫**; where it is a suffix it is the *kta*-participle by stated rule — **kṛtta ↔ curtus**, sound for sound, sense for sense (their \*-tó- is *kta*, harvested like the ablaut).
+- **Mechanism 3 reaches कृत् directly:** s-final preverbs — *dus/nis + k-* → **duṣ-kṛta, niṣ-** forms: the *ṣ* sits immediately on *kṛta*. (The suṭ flagship *saṃ-s-kṛta* is ⟪कृ⟫ "make"; the boundary mechanisms cover the cut-family.)
+- **The meaning-bearing s:** the grammar distinguishes *saṃkṛta* (merely assembled) from *saṃskṛta* (refined) — the inserted *s* carries the भूषणे sense. In Sanskrit the *s* has a stated source, a stated position, and a stated meaning; in PIE it has parentheses.
+- **The tally:** to reconstruct *shirt/skirt/short/curt* the pyramid stacks **three ruleless devices** (mobile s, root extension t, zero grade); Sanskrit needs **one Dhātupāṭha entry + two stated rules** (boundary sandhi; *kta*).
+
+## 12. BUILT (2026-07-04): the *kṛt* figure pair + section skeleton for the PIE-fraud process
+
+Author's decision: **kṛt is the lead worked example** — the fraud needs *two* confessed devices there (parenthesized s + disappearing t), and the payoff words are in the reader's wardrobe (*shirt, skirt, short, curt*). The *jan* pair remains as the second family.
+
+### Figures (scripts + staged `.from-py-cd.svg` in `figures/pie_in_sky/`)
+
+- **`sker_pie_tree.svg`** (Figure A′, fraud exhibit): dashed \*(s)ker- "to cut" at root → *curtus* (solid; Latin — no s) → *curt, cortex*; \*skurtaz (dashed; s + t) → *short, shirt, skirt*; \*skeraną (dashed; s, no t) → *shear, share, score*. Three-line legend states the confessions: the s-mobile (no source, no rule, no meaning), the root extension (meaningless by their own account), dashed = never attested — and no Sanskrit appears on it.
+- **`krt_orbit_radiance.svg`** (Figure B′, Sun restored): कृत् center; inner orbit *kṛtta, kartana, kartarī* (scissors), *kṛntati*; middle orbit Hindi *kāṭnā*, Marathi *kātarṇe*, Bengali *kāṭā*, Punjabi *kaṭṇā*, Kannada *kattari*, Telugu *kattera* [VERIFY vs Turner CDIAL before print]; three rays → *curtus* / \*skurtaz / \*skeraną trees. In-figure annotations: *"the s: a mis-cut word boundary — saṃ-s-kṛta · namas-kāra · duṣ-kṛta"* and *"the t was always in the atom."*
+- Same staging caveats as the *jan* pair (Indic shaping, ⟪ ⟫ by hand, native scripts by hand, numpy PYTHONPATH workaround).
+
+### Section skeleton — "The Recipe, Step by Step" (candidate for Ch18; kṛt as the worked example)
+
+The section explains the *process* of the PIE fraud once, concretely, so every other case (jan, mātṛ, yuga, dṛś) can be read as reruns. Nine moves:
+
+1. **Open in the reader's wardrobe.** *Shirt, skirt, short, curt* — four everyday words, one family. (Familiar-example anchor; no Sanskrit yet.)
+2. **Show the pyramid's own account.** [Figure A′] The popular wheel: \*(s)ker- "to cut" at the center of ~60 English words. No Sanskrit anywhere on the page.
+3. **Read the center's own notation — the confessions.** (a) the parenthesized (s): the "s-mobile," a consonant with no source, no rule, no meaning; (b) the t that comes and goes: the "root extension," meaningless by their own handbooks; (c) the asterisk: never spoken. Three devices, all confessed in print.
+4. **The Dhātupāṭha states the atom.** ⟪कृत्⟫ *kṛtī* छेदने, tudādi 6.171 — k-ṛ-t, "to cut," *kṛntati*. One entry. The t is root-final. (Displacement beat: the "zero grade \*(s)kr̥t-" is this form, on its surface, as the citation form.)
+5. **The s, by stated rule.** Sanskrit's boundary machinery delivers s+k strings constantly: suṭ-āgama (*saṃ-s-kṛta* — meaning-bearing, भूषणे), visarga → s (*namas-kāra, puras-kāra, bhās-kara*), s-final preverbs (*duṣ-kṛta*). The listener mis-cuts the boundary; the bīja seeds *sker-* as a unit; s-less strings seed the bare forms. "Mobility" = boundary variability. Their own best hypothesis (sandhi misdivision) concedes the mechanism — minus the grammar that states the rules.
+6. **The t, by the atom and the suffix.** *kṛt + kta →* **kṛtta** = *curtus*, sound for sound, sense for sense. Their \*-tó- is *kta*.
+7. **The vowel, by the same machine as kun-.** ṛ → ur/ir/or in the receiving mouths gives *short/shirt/skirt* (parallel to n̥ → un in \*kunją); "ablaut" itself modeled on Sanskrit's documented alternations.
+8. **The tally, then the recipe generalized.** Three confessed devices vs one listed atom + two stated rules. Then name the five-step recipe the case instantiates: (i) delete the source language from the page; (ii) average the reflections; (iii) star the average and install it as ancestor; (iv) convert every unexplained residue into a device (mobile s, extension, laryngeal); (v) file the source as one more daughter. State that every entry in the etymological dictionary is this recipe rerun.
+9. **Close on the restored picture.** [Figure B′] The Sun, the orbits (the cutting-words alive in Indic mouths: *kāṭnā, kattari…*), the rays, the trees at the landing points. Hammer: **In Sanskrit the s has a source, a position, and a meaning; in PIE it has parentheses.**
+
+### If this works — chapter-revision candidates
+
+The same nine-move template reruns on: *jan*/\*ǵenh₁ (§9–10 material; devices: contested reconstruction + ablaut-harvest), *mātṛ* (§18.5's dictionary-shift, restructured as moves 1–3), *dṛś* (§18.8's three-PIEs = move 8's device-multiplication), *yuga*. Candidate placement: the section lands as a rebuilt §18.5 or a new §18.5a, with §18.8 shortened to reruns of the named recipe.
+
