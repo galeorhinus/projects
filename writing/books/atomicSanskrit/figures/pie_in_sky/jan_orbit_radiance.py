@@ -129,7 +129,7 @@ def main():
     ax.text(2.45, -2.16, "trees grow where the light lands",
             fontsize=6.4, color=ACCENT, ha="center", style="italic")
 
-    for name in ("jan_orbit_radiance.from-py-cd.svg", "jan_orbit_radiance.svg"):
+    for name in ("jan_orbit_radiance.from-py.svg", "jan_orbit_radiance.svg"):
         fig.savefig(OUT / name, bbox_inches="tight")
     print("wrote", OUT / "jan_orbit_radiance.svg")
 

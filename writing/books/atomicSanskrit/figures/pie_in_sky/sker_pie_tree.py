@@ -96,7 +96,7 @@ def main():
             "— and no Sanskrit appears on it",
             fontsize=6.6, color=ACCENT, ha="left", va="center")
 
-    for name in ("sker_pie_tree.from-py-cd.svg", "sker_pie_tree.svg"):
+    for name in ("sker_pie_tree.from-py.svg", "sker_pie_tree.svg"):
         fig.savefig(OUT / name, bbox_inches="tight")
     print("wrote", OUT / "sker_pie_tree.svg")
 

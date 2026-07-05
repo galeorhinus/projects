@@ -283,7 +283,7 @@ The word-family for the radiance side is settled: **⟪जन्⟫ (*jan*)** �
 
 Word-level twins: **jāta ↔ (g)nātus** “born”; **jāti** (birth → kind, class) ↔ **genus** (kind) — the same semantic walk from birth to category.
 
-Two figures generated as a pair (scripts + staged `.from-py-cd.svg` in `figures/pie_in_sky/`, commit `05e396b`):
+Two figures generated as a pair (scripts + staged `.from-py.svg` in `figures/pie_in_sky/`, commit `05e396b`; convention: python emits `.from-py.svg`, and the Claude-Design hand-edit returns as `.from-py-cd.svg`):
 
 ### Figure A — `genh_pie_tree.svg` (the fraud exhibit)
 
@@ -371,7 +371,7 @@ A *kṛt* companion pair (or a §18.8-style one-dhātu-many-costumes panel: क�
 
 Author's decision: **kṛt is the lead worked example** — the fraud needs *two* confessed devices there (parenthesized s + disappearing t), and the payoff words are in the reader's wardrobe (*shirt, skirt, short, curt*). The *jan* pair remains as the second family.
 
-### Figures (scripts + staged `.from-py-cd.svg` in `figures/pie_in_sky/`)
+### Figures (scripts + staged `.from-py.svg` in `figures/pie_in_sky/`; CD hand-edit returns as `.from-py-cd.svg`)
 
 - **`sker_pie_tree.svg`** (Figure A′, fraud exhibit): dashed \*(s)ker- "to cut" at root → *curtus* (solid; Latin — no s) → *curt, cortex*; \*skurtaz (dashed; s + t) → *short, shirt, skirt*; \*skeraną (dashed; s, no t) → *shear, share, score*. Three-line legend states the confessions: the s-mobile (no source, no rule, no meaning), the root extension (meaningless by their own account), dashed = never attested — and no Sanskrit appears on it.
 - **`krt_orbit_radiance.svg`** (Figure B′, Sun restored): कृत् center; inner orbit *kṛtta, kartana, kartarī* (scissors), *kṛntati*; middle orbit Hindi *kāṭnā*, Marathi *kātarṇe*, Bengali *kāṭā*, Punjabi *kaṭṇā*, Kannada *kattari*, Telugu *kattera* [VERIFY vs Turner CDIAL before print]; three rays → *curtus* / \*skurtaz / \*skeraną trees. In-figure annotations: *"the s: a mis-cut word boundary — saṃ-s-kṛta · namas-kāra · duṣ-kṛta"* and *"the t was always in the atom."*

@@ -134,7 +134,7 @@ def main():
     ax.text(2.45, -2.20, "the t was always in the atom",
             fontsize=6.4, color=ACCENT, ha="center", style="italic")
 
-    for name in ("krt_orbit_radiance.from-py-cd.svg", "krt_orbit_radiance.svg"):
+    for name in ("krt_orbit_radiance.from-py.svg", "krt_orbit_radiance.svg"):
         fig.savefig(OUT / name, bbox_inches="tight")
     print("wrote", OUT / "krt_orbit_radiance.svg")
 
