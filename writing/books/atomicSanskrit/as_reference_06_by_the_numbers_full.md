@@ -392,7 +392,7 @@ The same matrix carries the OCP avoidance finding (§6.9's scalar) and the *mūr
 
 - ***Racanā* level** — this section. 37 long-tail scaffolds preserve reach for scope the top-10 cannot stage.
 - **Morphological level** — Chapter 14 §14.3. The *chandas* mode preserves multiple infinitive endings (*-tum*, *-tavai*, *-dhyai*, *-tave*, *-tos*, *-sani*) for metrical scope; the *bhāṣā* mode keeps *-tum* canonical for non-metrical scope. Appendix Part 7 traces the full morphological inventory.
-- **Aesthetic level** — Chapter 10 §10.10. The architecture's range across non-modal scaffolds is what makes engineering-poetry's form-meaning assignment have somewhere to land.
+- **Aesthetic level** — Chapter 10 §10.10. The architecture's range across non-modal scaffolds is what makes engineering-poetry's form-meaning assignment have somewhere to settle.
 
 One engineering signature, three levels, one principle: range preserved where range does work.
 
@@ -464,9 +464,9 @@ One engineering signature, three levels, one principle: range preserved where ra
 | 19 | **⟪स्था⟫ (*sthā*)** | 166 | stand |
 | 20 | पत् (*pat*) | 164 | fall, fly |
 
-The **canonical nine polyvalent core** — *kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ* — is bolded above; all nine land in the top 19. Chapter 11 §11.6 develops this set as the carbon-class core. Mean valency across the full 3,839 dhātavaḥ is 9.2; median is 2, a long-tail distribution consistent with compression architecture.
+The **canonical nine polyvalent core** — *kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ* — is bolded above; all nine sit in the top 19. Chapter 11 §11.6 develops this set as the carbon-class core. Mean valency across the full 3,839 dhātavaḥ is 9.2; median is 2, a long-tail distribution consistent with compression architecture.
 
-**Methodological note on *vartay*.** *vartay* appears at valency 194 but is a DCS-derived causative lemma — the form is a corpus-attested causative derivative of वृत् (*vṛt*), not a canonical *Dhātupāṭha* atom. The 9 canonical polyvalents land at ranks 1, 2, 6, 7, 13, 15, 16, 19 (one rank shifts up when *vartay* is excluded).
+**Methodological note on *vartay*.** *vartay* appears at valency 194 but is a DCS-derived causative lemma — the form is a corpus-attested causative derivative of वृत् (*vṛt*), not a canonical *Dhātupāṭha* atom. The 9 canonical polyvalents fall at ranks 1, 2, 6, 7, 13, 15, 16, 19 (one rank shifts up when *vartay* is excluded).
 
 **The two-instrument agreement.** Path C (corpus-attested valency) and Path A (Monier-Williams + Apte derivative count) measure substantively the same thing through different windows:
 
@@ -568,7 +568,7 @@ Productivity by structural pattern:
 
 **Path C corroboration.** The corpus-attested valency measure (§6.12) reproduces the inverse relationship: **Path C ρ vs particles = −0.4334** on the full 3,839-dhātu corpus. The compression principle holds at every measurement scale tested — curated 138-dhātu MW sample, full 3,839-dhātu corpus, both directions.
 
-**Verdict — strongly confirmed.** The CV pattern's mean productivity (32.6) is **2.9×** higher than CCVCC (11.4). The top 20 productivity ranks are dominated by 2-particle CV *dhātavaḥ* (11 of 20). *Kṛ* alone — two particles — anchors 75+ primary derivatives, more than the entire CCVCC sample combined.
+**Verdict — strongly confirmed.** The CV pattern's mean productivity (32.6) is **2.9×** higher than CCVCC (11.4). The top 20 productivity ranks are dominated by 2-particle CV *dhātavaḥ* (11 of 20). ⟪कृ⟫ alone — two particles — anchors 75+ primary derivatives, more than the entire CCVCC sample combined.
 
 **The natural-language inversion.**[NOTE: productivity-inversion-natural-language] In natural languages, the most-frequent forms tend toward idiosyncratic irregularity: English *be / have / do* are paradigmatically broken; Latin *esse / ire / ferre* are suppletive; Greek *eimi / oida / phēmi* same pattern. The frequency-irregularity correlation is one of the most-replicated typological findings in natural-language morphology. In Sanskrit's engineered case, the correlation runs the opposite way: the highest-productivity *dhātavaḥ* are *also* the most structurally minimal *and* paradigmatically regular. There is no idiosyncrasy at the top.
 

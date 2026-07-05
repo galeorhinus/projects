@@ -134,13 +134,13 @@ The two learning-paths also sort out Pāṇini's role. Whether a Pāṇini-style
 
 What survived on the rule-extraction side is one matter. What survived on the saturation side is observable. The Vedic corpus survived, together with its recitation lineages, and the Vedas function as a calibrant matrix: a preserved body of language that holds form against drift across thousands of years. Where a form is in doubt, the Veda settles it. Where pronunciation is in doubt, the *Prātiśākhya* settles it. Where transmission risks decay, the eleven *pāṭhas* of recitation restore it.
 
-Pāṇini's *Aṣṭādhyāyī* added a second redundancy layer on top of that calibrant matrix. The sūtra-level rule-system made the language's structure explicit, compact, portable, recoverable, and teachable. This second layer is especially powerful for rule-trained minds — the *vyākaraṇa*-type readers for whom the rule clicks before the pattern lands. Where the Veda preserves the form as performed, the *Aṣṭādhyāyī* preserves the form as derivable. Pāṇini did not replace the Veda. He added a path suited to another kind of mind.
+Pāṇini's *Aṣṭādhyāyī* added a second redundancy layer on top of that calibrant matrix. The sūtra-level rule-system made the language's structure explicit, compact, portable, recoverable, and teachable. This second layer is especially powerful for rule-trained minds — the *vyākaraṇa*-type readers for whom the rule clicks before the pattern settles. Where the Veda preserves the form as performed, the *Aṣṭādhyāyī* preserves the form as derivable. Pāṇini did not replace the Veda. He added a path suited to another kind of mind.
 
 The same distinction operates in ordinary teaching today. A student writes, "I goed to the store yesterday." The form is wrong. One teacher corrects by rule: "Go is irregular. Its past tense is *went*." Another teacher corrects by sentence: "No — we say, **I went to the store yesterday**." The first correction states the rule. The second restores the form through living use. Two paths; one correction.
 
 The same operation runs in Sanskrit. Suppose a student sees the *dhātuḥ* **⟪धा⟫ (*dhā*)** and, by false analogy with **भवति (*bhavati*)**, writes **धाति (*dhāti*)**. The form is wrong. A *vyākaraṇa*-trained reader corrects by rule: **⟪धा⟫ (*dhā*)** belongs to the third **गणः (*gaṇaḥ*)**, the **जुहोत्यादि (*juhotyādi*)** class. Pāṇini specifies the operation in *Aṣṭādhyāyī* 2.4.75: **जुहोत्यादिभ्यः श्लुः (*juhotyādibhyaḥ śluḥ*)**.[NOTE: juhotyadibhyah-shluh-dadhati] The rule suppresses the regular *vikaraṇa*, reduplicates the *dhātuḥ*, and attaches the personal ending: ⟪धा⟫ → *da-dhā* → **दधाति (*dadhāti*)**. The wrong form **धाति (*dhāti*)** drops out.
 
-A *śravaṇa*-trained reader can correct by mantra. The wrong form lands as deviant against the internalized record, and the corrector quotes the Vedic line:
+A *śravaṇa*-trained reader can correct by mantra. The wrong form registers as deviant against the internalized record, and the corrector quotes the Vedic line:
 
 > वाजी । न । प्रीतः । वयः । दधाति ।
 >

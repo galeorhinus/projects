@@ -100,7 +100,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 **Sanskrit pair**: *dhātuḥ* / *dhātavaḥ*.
 
-**Use in book**: Chapter 2 rejects the philological botanical mistranslation; Chapter 10 lands *dhātuḥ* as semantic atom, builds the inventory, and tests the *dhātuḥ* against the six *sūtra-lakṣaṇāni* at atomic scale; Chapter 11 shows how the atom becomes *kriyā* through operational bonding; Chapter 12 develops the next assembly level; Chapter 13 establishes the calibration architecture that holds the atomic inventory stable across time.
+**Use in book**: Chapter 2 rejects the philological botanical mistranslation; Chapter 10 establishes *dhātuḥ* as semantic atom, builds the inventory, and tests the *dhātuḥ* against the six *sūtra-lakṣaṇāni* at atomic scale; Chapter 11 shows how the atom becomes *kriyā* through operational bonding; Chapter 12 develops the next assembly level; Chapter 13 establishes the calibration architecture that holds the atomic inventory stable across time.
 
 ### **atomic scaffold**
 
@@ -393,7 +393,7 @@ Book refrain: ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many.
 ## Conventions for using this glossary
 
 - Cross-references in the book's chapter prose use the Sanskrit form. The English pair is available; pick whichever fits the local rhythm (per CLAUDE.md's Sanskrit / English alternation rules).
-- On first use of any term in a chapter, pair both forms once. Use Devanagari as an anchor when the term is load-bearing or being installed; after that, IAST or English alone is fine.
+- On first use of any term in a chapter, pair both forms once. Use Devanagari as an anchor when the term carries weight or is being installed; after that, IAST or English alone is fine.
 - Do not bold every Devanagari occurrence. Reserve bold Devanagari for installation moments, tables, figures, hammers, and terms being defined.
 - Where a chapter introduces a coined compound (e.g., *dhāturacanā*) for the first time, anchor in the etymology: *"dhātu + racanā — atomic scaffold"*. Do not meta-narrate ("what this book calls").
 - Per-term endnotes carry the rationale where the etymology alone is not enough.

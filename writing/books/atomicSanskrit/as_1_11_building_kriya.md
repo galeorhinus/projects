@@ -12,7 +12,7 @@ Five Rigvedic lines show it happening, each already carrying a finished verb, th
 
 All five examples come from the Rigveda, quoted as **पदपाठ (*padapāṭha*)** excerpts so the *kriyāpada* stays visible before **संहिता (*saṃhitā*)** sandhi recombines it.[NOTE: rigvedic-kriya-examples] Each one shows the procedure already at work: a semantic atom takes on further sonomers and becomes a *kriyāpada* molecule. The conjugation lesson can stay in the grammar handbook; the assembly is the evidence here.
 
-### 1 *mātrā*: इ (*i*) → एति (*eti*)
+### 1 *mātrā*: ⟪इ⟫ (*i*) → एति (*eti*)
 
 > तन्यतुः । मरुताम् । **एति** । धृष्णुया ।
 >
@@ -20,13 +20,13 @@ All five examples come from the Rigveda, quoted as **पदपाठ (*padapā�
 >
 > RV 1.23.11b
 
-The atom is इ (*i*), a one-*mātrā* vowel atom. In **एति (*eti*)**, the atom appears as ए (*e*) and receives ति (*ti*).
+The atom is ⟪इ⟫ (*i*), a one-*mātrā* vowel atom. In **एति (*eti*)**, the atom appears as ए (*e*) and receives ति (*ti*).
 
-> इ (*i*) → ए (*e*) + ति (*ti*) → एति (*eti*)
+> ⟪इ⟫ (*i*) → ए (*e*) + ति (*ti*) → एति (*eti*)
 
-![Vedic assembly: इ (*i*) becomes एति (*eti*).](figures/building_kriya/vedic_eti.svg){#fig:building-kriya-vedic-eti width=100%}
+![Vedic assembly: ⟪इ⟫ (*i*) becomes एति (*eti*).](figures/building_kriya/vedic_eti.svg){#fig:building-kriya-vedic-eti width=100%}
 
-### 1.5 *mātrās*: अस् (*as*) → अस्ति (*asti*)
+### 1.5 *mātrās*: ⟪अस्⟫ (*as*) → अस्ति (*asti*)
 
 > नहि । वाम् । **अस्ति** । दूरके ।
 >
@@ -34,13 +34,13 @@ The atom is इ (*i*), a one-*mātrā* vowel atom. In **एति (*eti*)**, the
 >
 > RV 1.22.4a
 
-The atom is अस् (*as*), a one-and-a-half-*mātrā* form: short vowel plus consonant. In **अस्ति (*asti*)**, the atom remains visible and ति (*ti*) bonds directly to it.
+The atom is ⟪अस्⟫ (*as*), a one-and-a-half-*mātrā* form: short vowel plus consonant. In **अस्ति (*asti*)**, the atom remains visible and ति (*ti*) bonds directly to it.
 
-> अस् (*as*) + ति (*ti*) → अस्ति (*asti*)
+> ⟪अस्⟫ (*as*) + ति (*ti*) → अस्ति (*asti*)
 
-![Vedic assembly: अस् (*as*) becomes अस्ति (*asti*).](figures/building_kriya/vedic_asti.svg){#fig:building-kriya-vedic-asti width=100%}
+![Vedic assembly: ⟪अस्⟫ (*as*) becomes अस्ति (*asti*).](figures/building_kriya/vedic_asti.svg){#fig:building-kriya-vedic-asti width=100%}
 
-### 2 *mātrās*: यज् (*yaj*) → यजति (*yajati*)
+### 2 *mātrās*: ⟪यज्⟫ (*yaj*) → यजति (*yajati*)
 
 > पिता । आपिः । **यजति** । आपये ।
 >
@@ -48,11 +48,11 @@ The atom is अस् (*as*), a one-and-a-half-*mātrā* form: short vowel plus 
 >
 > RV 1.26.3b
 
-The atom is यज् (*yaj*), a two-*mātrā* consonant-framed short-vowel atom. In **यजति (*yajati*)**, the atom receives an added अ (*a*) before ति (*ti*).
+The atom is ⟪यज्⟫ (*yaj*), a two-*mātrā* consonant-framed short-vowel atom. In **यजति (*yajati*)**, the atom receives an added अ (*a*) before ति (*ti*).
 
-> यज् (*yaj*) + अ (*a*) + ति (*ti*) → यजति (*yajati*)
+> ⟪यज्⟫ (*yaj*) + अ (*a*) + ति (*ti*) → यजति (*yajati*)
 
-![Vedic assembly: यज् (*yaj*) becomes यजति (*yajati*).](figures/building_kriya/vedic_yajati.svg){#fig:building-kriya-vedic-yajati width=100%}
+![Vedic assembly: ⟪यज्⟫ (*yaj*) becomes यजति (*yajati*).](figures/building_kriya/vedic_yajati.svg){#fig:building-kriya-vedic-yajati width=100%}
 
 ### 2.5 *mātrās*: ⟪भू⟫ (*bhū*) → भवति (*bhavati*)
 
@@ -68,7 +68,7 @@ The atom is ⟪भू⟫ (*bhū*), a two-and-a-half-*mātrā* form: consonant pl
 
 ![Vedic assembly: ⟪भू⟫ (*bhū*) becomes भवति (*bhavati*).](figures/building_kriya/vedic_bhavati.svg){#fig:building-kriya-vedic-bhavati width=100%}
 
-### 3 *mātrās*: राज् (*rāj*) → राजति (*rājati*)
+### 3 *mātrās*: ⟪राज्⟫ (*rāj*) → राजति (*rājati*)
 
 > अग्निः । देवेषु । **राजति** ।
 >
@@ -76,15 +76,15 @@ The atom is ⟪भू⟫ (*bhū*), a two-and-a-half-*mātrā* form: consonant pl
 >
 > RV 5.25.4a
 
-The atom is राज् (*rāj*), a three-*mātrā* scaffold: consonant, long vowel, consonant. In **राजति (*rājati*)**, the atom receives अ (*a*) and ति (*ti*).
+The atom is ⟪राज्⟫ (*rāj*), a three-*mātrā* scaffold: consonant, long vowel, consonant. In **राजति (*rājati*)**, the atom receives अ (*a*) and ति (*ti*).
 
-> राज् (*rāj*) + अ (*a*) + ति (*ti*) → राजति (*rājati*)
+> ⟪राज्⟫ (*rāj*) + अ (*a*) + ति (*ti*) → राजति (*rājati*)
 
-![Vedic assembly: राज् (*rāj*) becomes राजति (*rājati*).](figures/building_kriya/vedic_rajati.svg){#fig:building-kriya-vedic-rajati width=100%}
+![Vedic assembly: ⟪राज्⟫ (*rāj*) becomes राजति (*rājati*).](figures/building_kriya/vedic_rajati.svg){#fig:building-kriya-vedic-rajati width=100%}
 
 The figures use one visual convention. The first row shows activation sonomers. The second row shows the *dhātuḥ* atom and the dashed destination slots where new sonomers will enter. The third row shows the finished *kriyāpada* molecule. Light gray is original *dhātuḥ* material. Medium gray is *dhātuḥ* material that changes shape. Very dark cells are activation sonomers such as the added अ (*a*). Dark cells are the ति (*ti*) ending.
 
-The color scheme in the figures is primarily a reading aid; the primary purpose is to demonstrate recoverability. इ becomes एति, अस् becomes अस्ति, यज् becomes यजति, भू becomes भवति, राज् becomes राजति — sometimes the atom's sonomers ride through unchanged, sometimes they transform, but in every case the atom stays visible enough to read the procedure back off the result.
+The color scheme in the figures is primarily a reading aid; the primary purpose is to demonstrate recoverability. ⟪इ⟫ becomes एति, ⟪अस्⟫ becomes अस्ति, ⟪यज्⟫ becomes यजति, ⟪भू⟫ becomes भवति, ⟪राज्⟫ becomes राजति — sometimes the atom's sonomers ride through unchanged, sometimes they transform, but in every case the atom stays visible enough to read the procedure back off the result.
 
 The Vedic corpus already runs these operations; the figures only make them visible. The atomic *sūtra* survives activation, still compact and still traceable inside the verbal molecule. When Pāṇini came to it, he gave each part of the assembly a name — the class गणः (*gaṇaḥ*), the operation विकरणम् (*vikaraṇam*), the ending तिङ्-प्रत्ययः (*tiṅ-pratyayaḥ*), the metadata tag अनुबन्धः (*anubandhaḥ*) — labels for steps the corpus was already taking.
 
@@ -127,17 +127,17 @@ The sequence is straightforward:
 
 The five Vedic examples can now be read in Pāṇini's notation layer.
 
-**इ (*i*) → एति (*eti*).** In Pāṇini's terminology, this belongs in the *adādi* class. The visible operation is transformation: इ (*i*) appears as ए (*e*). The *tiṅ* ending तिप् (*tip*) contributes ति (*ti*). The molecule is एति (*eti*).
+**⟪इ⟫ (*i*) → एति (*eti*).** In Pāṇini's terminology, this belongs in the *adādi* class. The visible operation is transformation: ⟪इ⟫ (*i*) appears as ए (*e*). The *tiṅ* ending तिप् (*tip*) contributes ति (*ti*). The molecule is एति (*eti*).
 
-![Pāṇinian notation layer: इ (*i*) becomes एति (*eti*).](figures/building_kriya/panini_eti.svg){#fig:building-kriya-panini-eti width=100%}
+![Pāṇinian notation layer: ⟪इ⟫ (*i*) becomes एति (*eti*).](figures/building_kriya/panini_eti.svg){#fig:building-kriya-panini-eti width=100%}
 
-**अस् (*as*) → अस्ति (*asti*).** This also belongs in the *adādi* class. No visible class vowel is inserted. The *dhātuḥ* bonds directly with ति (*ti*), and the स् + त् contact becomes the visible स्त् cluster. The molecule is अस्ति (*asti*).
+**⟪अस्⟫ (*as*) → अस्ति (*asti*).** This also belongs in the *adādi* class. No visible class vowel is inserted. The *dhātuḥ* bonds directly with ति (*ti*), and the स् + त् contact becomes the visible स्त् cluster. The molecule is अस्ति (*asti*).
 
-![Pāṇinian notation layer: अस् (*as*) becomes अस्ति (*asti*).](figures/building_kriya/panini_asti.svg){#fig:building-kriya-panini-asti width=100%}
+![Pāṇinian notation layer: ⟪अस्⟫ (*as*) becomes अस्ति (*asti*).](figures/building_kriya/panini_asti.svg){#fig:building-kriya-panini-asti width=100%}
 
 **⟪यज्⟫ (*yaj*) → यजति (*yajati*).** This belongs in the *bhvādi* class. The class-signature is शप् (*śap*): the anubandhas disappear, and the visible survivor is अ (*a*). The *tiṅ* ending contributes ति (*ti*). The molecule is यजति (*yajati*).
 
-![Pāṇinian notation layer: यज् (*yaj*) becomes यजति (*yajati*).](figures/building_kriya/panini_yajati.svg){#fig:building-kriya-panini-yajati width=100%}
+![Pāṇinian notation layer: ⟪यज्⟫ (*yaj*) becomes यजति (*yajati*).](figures/building_kriya/panini_yajati.svg){#fig:building-kriya-panini-yajati width=100%}
 
 **⟪भू⟫ (*bhū*) → भवति (*bhavati*).** This also belongs in the *bhvādi* class. The operation changes ⟪भू⟫ (*bhū*) into भव् (*bhav*), the शप् (*śap*) operation contributes अ (*a*), and तिप् (*tip*) contributes ति (*ti*). The molecule is भवति (*bhavati*).
 
@@ -145,7 +145,7 @@ The five Vedic examples can now be read in Pāṇini's notation layer.
 
 **⟪राज्⟫ (*rāj*) → राजति (*rājati*).** This belongs in the *bhvādi* class. The शप् (*śap*) operation contributes अ (*a*), and तिप् (*tip*) contributes ति (*ti*). The molecule is राजति (*rājati*).
 
-![Pāṇinian notation layer: राज् (*rāj*) becomes राजति (*rājati*).](figures/building_kriya/panini_rajati.svg){#fig:building-kriya-panini-rajati width=100%}
+![Pāṇinian notation layer: ⟪राज्⟫ (*rāj*) becomes राजति (*rājati*).](figures/building_kriya/panini_rajati.svg){#fig:building-kriya-panini-rajati width=100%}
 
 The figures reuse the hexagonal vocabulary of §11.2, with one addition: the top row now carries Pāṇini's notation layer, where शप् (*śap*) and तिप् (*tip*) appear as technical source forms and the dashed cells are अनुबन्धाः (*anubandhāḥ*), the metadata tags that drop out once the surviving sonomers enter the atom. The action is exactly what it was in the Vedic examples; only the labels are new. What was implicit there now carries Pāṇini's vocabulary — *gaṇaḥ*, *vikaraṇam*, *aṅgam*, *tiṅ-pratyayaḥ*, *anubandhaḥ*.
 
@@ -259,7 +259,7 @@ On its own, that concentration is exactly what any natural language shows, so th
 | Natural-language pattern | Sanskrit pattern |
 |---|---|
 | A few whole words or forms become very frequent. | A few *dhātavaḥ* become highly reactive atoms. |
-| High-frequency forms often erode, supplete, or become idiosyncratic: English *be*, *have*, *do*; Latin *esse*, *ire*, *ferre*; Greek *eimi*, *oida*, *phēmi*. | The highest-reactivity atoms remain compact and grammatically usable: *kṛ*, *bhū*, *dhā*, *hṛ*, *gam*, *nī*, *jñā*, *dā*, *sthā*. |
+| High-frequency forms often erode, supplete, or become idiosyncratic: English *be*, *have*, *do*; Latin *esse*, *ire*, *ferre*; Greek *eimi*, *oida*, *phēmi*. | The highest-reactivity atoms remain compact and grammatically usable: ⟪कृ⟫, ⟪भू⟫, ⟪धा⟫, ⟪हृ⟫, ⟪गम्⟫, ⟪नी⟫, ⟪ज्ञा⟫, ⟪दा⟫, ⟪स्था⟫. |
 | Frequency often protects irregularity because speakers master common forms as wholes. | Reactivity preserves decomposability because the atom keeps bonding through *upasargāḥ* and *pratyayāḥ*. |
 | The surface list shifts by genre, region, and era. | The same high-reactivity core remains visible across the tested Sanskrit use-domains (§11.9). |
 
@@ -271,7 +271,7 @@ So the resemblance and the engineering sit side by side. The frequency pattern m
 
 Carbon earns its place in chemistry by bonding promiscuously — a small center that throws off an enormous molecular space. Sanskrit's polyvalent atoms do the same grammatical work, and **⟪कृ⟫ (*kṛ*)** is the clearest case: a three-letter *krādi* atom, the single most reactive item in the corpus. From it you get *karma* and *kāryam*, *kṛti* and *kartṛ*, *saṃskṛti* and *prakṛti* — the deed, the thing-to-be-done, the composition, the doer, refined order, raw nature. Everyday speech and the densest philosophy both run on it.
 
-The smallness is the point. *Kṛ* derives its power from its *availability* — short enough to enter anywhere, stable enough to survive the entry. *Bhū*, *dhā*, *hṛ*, *gam*, *nī*, *jñā*, *dā*, and *sthā* work the same way: compact atoms with enormous range.
+The smallness is the point. ⟪कृ⟫ derives its power from its *availability* — short enough to enter anywhere, stable enough to survive the entry. ⟪भू⟫, ⟪धा⟫, ⟪हृ⟫, ⟪गम्⟫, ⟪नी⟫, ⟪ज्ञा⟫, ⟪दा⟫, and ⟪स्था⟫ work the same way: compact atoms with enormous range.
 
 The principle is the *sūtra* principle one scale down — maximum recoverable structure in minimum form. Read that way, the *Dhātupāṭha* turns into an inventory of reactive atoms: Sanskrit's working set.
 
@@ -289,7 +289,7 @@ The figure is one possible table, not the table. The analysis tested multiple ax
 
 They operate as orthogonal dimensions of one architecture.
 
-The structure shows because the operation requires it. *Kṛ*, *hṛ*, and *vṛt* carry ऋ. *Dhā*, *dā*, *sthā*, *jñā*, and *yā* carry आ. *Gam*, *kram*, *han*, and *pad* carry अ. The C4 voiced-aspirate column is enriched in *juhotyādi*: 33.3% in the inventory and 42.9% in the subset visible in the corpus.[NOTE: cross-gana-column-distribution]
+The structure shows because the operation requires it. ⟪कृ⟫, ⟪हृ⟫, and ⟪वृत्⟫ carry ऋ. ⟪धा⟫, ⟪दा⟫, ⟪स्था⟫, ⟪ज्ञा⟫, and ⟪या⟫ carry आ. ⟪गम्⟫, ⟪क्रम्⟫, ⟪हन्⟫, and ⟪पद्⟫ carry अ. The C4 voiced-aspirate column is enriched in *juhotyādi*: 33.3% in the inventory and 42.9% in the subset visible in the corpus.[NOTE: cross-gana-column-distribution]
 
 That number is a procedural fit, not just a distribution fact. *Juhotyādi* is the reduplicating class, and reduplication doubles the initial signal, so the doubled consonant has to stay recognizable across the syllable boundary; C4 — voiced, aspirated, breathy — is the acoustically robust column, and the architecture parks its most distinctive consonants exactly where the operation needs the most distinction. The sounds are distributed strictly by function.
 

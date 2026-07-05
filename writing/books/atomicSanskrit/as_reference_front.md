@@ -1,6 +1,6 @@
 # Preface
 
-This volume is the *Source and Reference Companion* to the printed book *Atomic Sanskrit: The Fractal Calibration Architecture of Sanātan*. The printed book carries one-sentence endnotes — citation anchors, named references, the load-bearing sentence the printed-book reader needs at the point of citation. The companion carries the full long-form: technical appendices, complete bibliographic citations, primary-source quotes, verification trails, source-history discussions, structural-significance analysis. The two volumes share a single source. The printed book's endnote at *"See expanded endnote for X"* points here.
+This volume is the *Source and Reference Companion* to the printed book *Atomic Sanskrit: The Fractal Calibration Architecture of Sanātan*. The printed book carries one-sentence endnotes — citation anchors, named references, the one sentence the printed-book reader needs at the point of citation. The companion carries the full long-form: technical appendices, complete bibliographic citations, primary-source quotes, verification trails, source-history discussions, structural-significance analysis. The two volumes share a single source. The printed book's endnote at *"See expanded endnote for X"* points here.
 
 The companion is for the reader the printed book respects but does not need to slow down for: the serious reader, the reviewer, the critic, the hostile academic. The case the printed book makes is the case the companion documents. Every claim, every citation, every primary source. The case rests on visible architecture; the companion is the apparatus that lets a determined reader verify it.
 
@@ -15,7 +15,7 @@ Each entry's structure:
 - **Deployments:** *Chapter and section references showing where the entry is cited in the printed book.*
 - The full long-form content: citation, primary-source quotes, verification trail, source-history discussion, structural-significance analysis.
 
-**To find a specific entry:** use your PDF reader's search function on the stub-name. Stub-names are stable identifiers; pointers from the printed book land here exactly.
+**To find a specific entry:** use your PDF reader's search function on the stub-name. Stub-names are stable identifiers; pointers from the printed book resolve here exactly.
 
 **Ordering:** entries follow the topical clustering of the underlying source file. The order is not strictly chronological with respect to the printed book's chapter sequence; the *Deployments* line on each entry supplies the chapter-by-chapter reverse index.
 

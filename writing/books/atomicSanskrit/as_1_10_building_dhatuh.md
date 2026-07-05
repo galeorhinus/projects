@@ -114,7 +114,7 @@ The atom is therefore not only spatially assembled. It is temporally measured.
 
 At atomic scale, the same timing shorthand applies: **C** is the consonantal event, **V1** is the short-vowel nucleus, and **V2** is the long-vowel nucleus. The notation is not typographic. It is temporal.
 
-That means a *dhātuḥ* is not merely a sequence of sounds. It is a measured construction. *Kṛ* (कृ) is C + V1. *Gam* (गम्) is C + V1 + C. *Bhū* (भू) is C + V2. The timing is inside the label.
+That means a *dhātuḥ* is not merely a sequence of sounds. It is a measured construction. ⟪कृ⟫ is C + V1. ⟪गम्⟫ is C + V1 + C. ⟪भू⟫ is C + V2. The timing is inside the label.
 
 The hexagon visualization carries the measure. Consonant slots are narrow, short-vowel slots are medium, long-vowel slots are wide.
 
@@ -167,13 +167,13 @@ The first test is size. If the semantic atom is engineered for compactness, the 
 
 ![Sonomer-count distribution across the 2,168 *dhātavaḥ*.](figures/building_dhatuh/particle_count.svg){#fig:building-dhatuh-particle-count width=100%}
 
-The sonomer-count peak lands at three: **58.2%** of the inventory. Four-sonomer atoms remain heavy at **25.7%**. Five-sonomer atoms drop to **3.6%**. Six-and-above is the cliff at **0.5%**. The inventory is not drifting toward length. It concentrates identity into compact forms.
+The sonomer-count peak sits at three: **58.2%** of the inventory. Four-sonomer atoms remain heavy at **25.7%**. Five-sonomer atoms drop to **3.6%**. Six-and-above is the cliff at **0.5%**. The inventory is not drifting toward length. It concentrates identity into compact forms.
 
 The same question now moves from sonomer count to timing. If the atom is compact by design, the *mātrā* distribution should show the same signature: a narrow band, a peak near the minimum, a cliff past it.
 
 ![Distribution of the 2,168 *dhātavaḥ* across *mātrā* values.](figures/building_dhatuh/matra_distribution.svg){#fig:building-dhatuh-matra-distribution width=100%}
 
-The timing distribution lands the same signal. The 2-*mātrā* envelope alone carries almost half the inventory: **998 entries, or 46.0%**. Add the 2½-*mātrā* atoms and the coverage rises past **78%**. By 3 *mātrās*, it reaches **94%**.
+The timing distribution repeats the same signal. The 2-*mātrā* envelope alone carries almost half the inventory: **998 entries, or 46.0%**. Add the 2½-*mātrā* atoms and the coverage rises past **78%**. By 3 *mātrās*, it reaches **94%**.
 
 Then the cliff appears. Every value from 4 *mātrās* onward together accounts for under **3%** of the inventory. The architecture commits to a narrow band of measured time.
 
@@ -218,7 +218,7 @@ The count itself is striking. The *varṇamālā* carries forty-seven core *var�
 
 No mathematical rule requires the two counts to match. The *varṇa* total comes from the engineered phonetic grid; the scaffold total emerges from the *Dhātupāṭha* inventory. But the picture the match draws is real: **forty-seven sonomers flow through forty-seven scaffolds, and the architecture selects 2,168 stable atoms from the combinatorial space they together span.**
 
-The skeptic's question lands here: *if the system is so compact, why have a tail at all?* The answer is the architecture's own. Engineered systems are not mechanically minimized. They concentrate around modal forms and preserve range where range does work. Rare meanings can take rare shapes. Dense clusters can stage iconic force. Disyllabic envelopes can serve metrical contexts that demand a longer signature.
+The skeptic's question presses here: *if the system is so compact, why have a tail at all?* The answer is the architecture's own. Engineered systems are not mechanically minimized. They concentrate around modal forms and preserve range where range does work. Rare meanings can take rare shapes. Dense clusters can stage iconic force. Disyllabic envelopes can serve metrical contexts that demand a longer signature.
 
 The modal scaffolds are tight. The tail is small. The range is governed. The *dhātuḥ* passes the second test. It is *astobham*: compact without padding, varied without waste.
 
@@ -268,9 +268,9 @@ The architecture assigns meaning with acoustic intelligence. It creates compact,
 
 This strengthens *varṇa-vāda* (वर्णवाद) rather than weakening it. The debate only makes sense inside an engineered language. A drifting natural language cannot sustain stable *varṇa-śakti* claims across its living record; its sounds shift, merge, and lose structural force. Sanskrit's sonomers remain discrete, stable, composable, and analyzable. That stability is what lets the debate exist at all.[NOTE: varnavada-presupposes-engineering]
 
-The Vedic context grounds the claim because the *Vedas* are poems. Sound-meaning alignment is part of the verse's effect, its mantric power, its sanctity. *Mantra* (मन्त्र) itself — from the *dhātuḥ* *man* (मन्, to think) — is the acoustic instrument that aligns sound with contemplation. Poetry is built form-first: meter, alliteration, and sonic flow drive the assembly; meaning enters that architecture as the poet works.
+The Vedic context grounds the claim because the *Vedas* are poems. Sound-meaning alignment is part of the verse's effect, its mantric power, its sanctity. *Mantra* (मन्त्र) itself — from the *dhātuḥ* ⟪मन्⟫ (*man*), to think — is the acoustic instrument that aligns sound with contemplation. Poetry is built form-first: meter, alliteration, and sonic flow drive the assembly; meaning enters that architecture as the poet works.
 
-Engineering is not the enemy of poetry. Engineering is what lets the poetry land. The *dhātuḥ* passes the fourth test. It is *sāravat*: compact form with semantic force.
+Engineering is not the enemy of poetry. Engineering is what lets the poetry strike home. The *dhātuḥ* passes the fourth test. It is *sāravat*: compact form with semantic force.
 
 ## 10.11 विश्वतोमुखम् (*Viśvatomukham*) — Let It Face Many Directions
 
@@ -346,9 +346,9 @@ No ordinary drifting language generates that disciplinary constellation by accid
 
 Yaska's decoding of **अग्नि (*agni*)** at *Nirukta* 7.14 makes the point concrete. Predating Pāṇini and foundational to the etymological decoding discipline, Yaska treats one word with four independent *dhātu*-level decodings, two attributed to earlier named pre-Pāṇinian decoders:[NOTE: yaska-agni-nirukta-7-14]
 
-> ***agra-nī*** (अग्रनी) — *that which leads at the front*, from *agra* (अग्र, front) + the *dhātu* *nī* (नी, to lead). Fire leads the sacrificial procession; it is brought forward at the front of every rite.
+> ***agra-nī*** (अग्रनी) — *that which leads at the front*, from *agra* (अग्र, front) + the *dhātu* ⟪नी⟫ (*nī*), to lead. Fire leads the sacrificial procession; it is brought forward at the front of every rite.
 >
-> ***aṅga-nī*** (अङ्गनी) — *that which leads the limbs*, from *aṅga* (अङ्ग, limb) + *nī*. Fire animates the body; warmth activates the limbs.
+> ***aṅga-nī*** (अङ्गनी) — *that which leads the limbs*, from *aṅga* (अङ्ग, limb) + ⟪नी⟫. Fire animates the body; warmth activates the limbs.
 >
 > ***aknopana*** (अक्नोपन) — *that which does not moisten*, from negative *a-* (अ-) + the *dhātu* *knop* (क्नोप्, to moisten). **Per Sthaulāṣṭhīvi** (स्थौलाष्ठीवि), a pre-Pāṇinian decoder Yaska cites by name. Fire dries; it does not anoint with oil.
 >

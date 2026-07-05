@@ -20,7 +20,7 @@ If the bond between word and meaning is established, grammar has a task. It must
 
 Codified systems correct by authority; Sanskrit corrects by architecture. That distinction becomes visible here. If correctness comes from authority, error is disobedience. If correctness comes from architecture, error is misalignment. *Apabhraṃśa* is misalignment — the uttered form slipping away from the established bond between word and meaning, sound and form, usage and rule.
 
-Entropy has a Sanskrit name: **अपभ्रंश (*apabhraṃśa*)** — falling away, slipping off. The morphology is transparent: *apa-* means away, off, down; *bhraṃśa* carries the *bhraṃś* semantic atom, to fall or slip. A speaker produces *apabhraṃśa* when the uttered form slips from the engineered form grammar specifies.
+Entropy has a Sanskrit name: **अपभ्रंश (*apabhraṃśa*)** — falling away, slipping off. The morphology is transparent: *apa-* means away, off, down; *bhraṃśa* carries the semantic atom ⟪भ्रंश्⟫ (*bhraṃś*), to fall or slip. A speaker produces *apabhraṃśa* when the uttered form slips from the engineered form grammar specifies.
 
 The slip can be phonetic, morphological, or lexical. A sound shifts. A form reorganizes. A word is replaced by something easier. Grammar treats all three with the same structural eye. The deviation is a falling-away, not an alternative form.
 
@@ -110,7 +110,7 @@ The pattern is consistent. The pyramid's account turns difference into time. San
 
 The pyramid's account needs Vedic Sanskrit to have changed. Without change, the migration-and-borrowing machinery loses its operating premise. The engineering thesis does not deny variation; it denies that variation is automatically entropy.
 
-**Appendix Part 7 — *The Vedic Carrier*** develops each of the dogma's eight drift-claims with its specific example and tabulates the engineering-mode response, after walking three load-bearing Ṛgvedic verses phrase-by-phrase to demonstrate the implicit grammar in operation in the corpus form. The polemic-critical observation landing at the appendix's center: *chandas* (छन्दस्) means *meter*; the *chandas* mode is the metrical mode; everything that distinguishes the *chandas* mode from the *bhāṣā* mode is, fundamentally, what the meter requires.
+**Appendix Part 7 — *The Vedic Carrier*** develops each of the dogma's eight drift-claims with its specific example and tabulates the engineering-mode response, after walking three anchor Ṛgvedic verses phrase-by-phrase to demonstrate the implicit grammar in operation in the corpus form. The polemic-critical observation at the appendix's center: *chandas* (छन्दस्) means *meter*; the *chandas* mode is the metrical mode; everything that distinguishes the *chandas* mode from the *bhāṣā* mode is, fundamentally, what the meter requires.
 
 ## 6.7 The Calibrant Envelope
 

@@ -50,7 +50,7 @@ Pāṇini did the opposite of codifying. He decoded.
 
 ## 5.2 The Opening Axiom
 
-The load-bearing text sits one layer above the *Aṣṭādhyāyī* itself, in the opening of Patañjali's *Mahābhāṣya*.
+The keystone text sits one layer above the *Aṣṭādhyāyī* itself, in the opening of Patañjali's *Mahābhāṣya*.
 
 The first section of the *Mahābhāṣya* is the **पस्पशाह्निक (*Paspaśāhnika*)**, the opening discourse that establishes what kind of object grammar studies. It is not a ceremonial preface. It is where Patañjali fixed the metaphysical footing of the entire discipline.
 

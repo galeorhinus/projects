@@ -66,13 +66,13 @@ The figures keep the timing layer visible. The ruler below each strip shows the 
 
 ![Figure 12.2 — Ch12 visual key: atom, head-bond, tail-bond, role-ending, nasal consonant, visarga, and half-*mātrā* ruler.](figures/building_vakya/visual_key.svg){#fig:building-vakya-visual-key width=100%}
 
-## 12.3 The *Kṛ* Atom as Flagship
+## 12.3 The ⟪कृ⟫ Atom as Flagship
 
 One atom can carry the whole demonstration. The cleanest choice is **⟪कृ⟫ (*kṛ*)**.
 
 It is small: a compact sonomeric atom. It is also highly reactive. In the usage audit, *kṛ* carries the highest measured bonding range among the corpus-linked *dhātavaḥ*: 1,062 measured bonds and 50,155 counted uses.[NOTE: kr-bonding-examples] The number supports the choice. The proof is procedural. The reader can watch *kṛ* bond.
 
-The atom means *do*, *make*, *act*. From that small semantic center Sanskrit builds several load-bearing words:
+The atom means *do*, *make*, *act*. From that small semantic center Sanskrit builds several workhorse words:
 
 | Form | Assembly signal | Function |
 |---|---|---|
@@ -133,13 +133,13 @@ Now keep the head-bond the same and change the tail-bond. The **sam-** field giv
 
 The head-bond places the atom in the *sam-* field. The tail-bond decides whether the molecule designates the state, the act, or the result. The difference is grammatical and semantic. *Saṃskṛti* and *saṃskāra* remain related through their shared atom and head-bond, while remaining distinct because their tail-bonds differ.
 
-*Pratyayāḥ* behave as valence-shell stabilizers. They complete the outer shell of the molecule. Once the tail-bond lands, the molecule can take a role in a sentence.
+*Pratyayāḥ* behave as valence-shell stabilizers. They complete the outer shell of the molecule. Once the tail-bond closes, the molecule can take a role in a sentence.
 
 The tail-bond gives the atom a job.
 
 ![Figure 12.5 — Tail-bonds stabilize molecule class: *kārya*, *karma*, *kartṛ*, *saṃskṛti*, and *saṃskāra*.](figures/building_vakya/tail_bonds.svg){#fig:building-vakya-tail-bonds width=100%}
 
-## 12.6 The *Kṛ* Bonding Matrix
+## 12.6 The ⟪कृ⟫ Bonding Matrix
 
 The head-bond and tail-bond can now be placed on one matrix. The matrix is a conservative demonstration of the procedure: one atom, different head-bonds, different tail-bonds, different molecules.
 

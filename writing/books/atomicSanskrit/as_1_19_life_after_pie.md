@@ -91,7 +91,7 @@ This imposes the first precondition on Wave 3. The Diasporic Wave is the demogra
 
 You cannot extend what you do not have.
 
-The closing Rigvedic call — **कृण्वन्तो विश्वमार्यम् (*kṛṇvanto viśvam āryam*)**, *making the world ārya* — is conditional on the speaker being *ārya*. The full exhortation lands in the Epilogue.
+The closing Rigvedic call — **कृण्वन्तो विश्वमार्यम् (*kṛṇvanto viśvam āryam*)**, *making the world ārya* — is conditional on the speaker being *ārya*. The Epilogue carries the full exhortation.
 
 ## 19.4 Wave 3 — The Contemporary Relearning
 

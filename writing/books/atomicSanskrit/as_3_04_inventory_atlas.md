@@ -2,7 +2,7 @@
 
 ---
 
-Chapter 8 surveys the subcontinental sound-field through four figures: the deep-south Southern Survey, the Santali-free Forest-Belt Survey, the Western IE control, and the Central Asian control. The polemic ladder lands cleanly at four step-points (20, 18, 14, 12 of 23 Sanskrit base coordinates).
+Chapter 8 surveys the subcontinental sound-field through four figures: the deep-south Southern Survey, the Santali-free Forest-Belt Survey, the Western IE control, and the Central Asian control. The polemic ladder descends cleanly through four step-points (20, 18, 14, 12 of 23 Sanskrit base coordinates).
 
 The empirical material supporting the four-step ladder appears here: the atlas methodology in depth, the seven control surveys the body could not fit, and the eleven-survey coverage cascade.
 
@@ -10,7 +10,7 @@ The empirical material supporting the four-step ladder appears here: the atlas m
 
 The atlas asks one physical question: when a language treats a consonant as a contrastive coordinate, where does that consonant sit on a shared mouth-map? It measures the body-anchored coordinates each language treats as independent contrastive slots — not vocabulary, descent, prestige, script, age, or any of the pyramid's classificatory buckets.[NOTE: language-hotzones-inventory-method]
 
-**The horizontal axis carries twelve places.** Each language's consonants land on a 12-column axis that runs from lips to glottis along the human vocal tract:
+**The horizontal axis carries twelve places.** Each language's consonants fall on a 12-column axis that runs from lips to glottis along the human vocal tract:
 
 | Col | Sanskrit anchor | Standard label | Body location |
 |---:|---|---|---|
@@ -33,7 +33,7 @@ The five Sanskrit-named places (BIL, DEN, RET, PAL, VEL) carry their *sthāna* n
 
 **The mahāprāṇa-strip preset isolates the base field.** Chapter 8 §8.3 defines a 23-cell Sanskrit base by holding aside the ten *mahāprāṇa* stop cells: **ख छ ठ थ फ** and **घ झ ढ ध भ**. Sensitivity check, not demotion. Sanskrit's vertical breath axis remains structural; Chapter 8 needs the base field isolated from the breath layer Sanskrit stacks on top. The preset removes manner rows 1 (voiceless aspirated) and 3 (voiced aspirated) from every language's harmonized cell set before comparison. Aspirated stops in any comparison language are removed too. The atlas then measures coverage across the rows Sanskrit's base lights, not across all manner rows.[NOTE: inventory-atlas-coverage-surveys]
 
-**The field-versus-coordinate distinction keeps the comparison honest.** Chapter 8 §8.2 introduces it; the full depth lands here.
+**The field-versus-coordinate distinction keeps the comparison honest.** Chapter 8 §8.2 introduces it; the full treatment is here.
 
 A *spoken sound-field* is the set of acoustic realizations a language's speakers can and do produce. It includes allophonic variation, contextual realization, dialect-level variation, and the long tail of phonetic detail a careful field-phonetician would record.
 
@@ -43,7 +43,7 @@ Tamil speakers produce voiced stop sounds in real speech. Tamil's contrastive in
 
 **The coverage criterion is union, not ranking.** For each three-language comparison set, a Sanskrit cell counts as *covered* if at least one of the three languages lights it. Chapter 8 asks whether the subcontinental field — or some other region — supplies enough material to make Sanskrit's base recoverable. Union coverage answers that question without conflating it with per-language ranking.
 
-Three languages collectively covering 20 of 23 cells does not mean each language carries 20 of those cells; it means the union of their three inventories intersects Sanskrit's base in 20 places. A language that contributes three or four cells can still be load-bearing if those cells are otherwise unfilled.
+Three languages collectively covering 20 of 23 cells does not mean each language carries 20 of those cells; it means the union of their three inventories intersects Sanskrit's base in 20 places. A language that contributes three or four cells can still carry weight if those cells are otherwise unfilled.
 
 **Inventory provenance is open.** The eleven surveys are computed against a harmonized set of phonemic inventories drawn from standard linguistic descriptions per language. The Python generator `figures/_shared/toolkits/vocal_tract/configs/_generate_new_configs.py` carries every inventory in one place alongside its reference work — Padgett (2003) and Yanushevskaya & Bunčić (2015) for Russian; Tegey & Robson (1996) and Bečka (1969) for Pashto; Schulze (2000), Stilo (2008), and Pirejko (1976) for Talysh; and so on for each comparison language. Anyone who wants to test an alternative inventory choice can edit the file, regenerate the JSON, and rebuild the figure. The reproducibility bundle ships with the figure pipeline.
 
@@ -111,7 +111,7 @@ Three languages from three different pyramid classifications, all from the Cauca
 
 ![Figure A.4.6 — Caucasus Survey: 10 of 23 Sanskrit base coordinates. Three pyramid classifications collide in one geographic region — and the floor coverage of all eleven surveys appears at exactly that point. Geographic distance from the subcontinent is what moves the number.](figures/superset/sk_armenian_georgian_ossetian.svg){#fig:app4-caucasus-survey width=100%}
 
-Three pyramid classifications collide inside one geographic region. None rescues the coverage. The Caucasus sits far enough from the subcontinent that geographic distance dominates. The floor lands here.
+Three pyramid classifications collide inside one geographic region. None rescues the coverage. The Caucasus sits far enough from the subcontinent that geographic distance dominates. The floor is here.
 
 ## 4.8 Slavic & Caucasus IE Survey: 11 of 23
 

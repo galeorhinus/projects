@@ -110,7 +110,7 @@ The contrast is equally precise. If *saṃskṛtam* is what is completely made, 
 
 The pyramid's story requires ancient Sanskrit to change. Its account of Vedic drift, substrate absorption, the retroflex row, the syllabic *ṛ* (ऋ), and the supposed transition from Vedic to Classical cannot work without change. The Vedic-preservation continuum makes the opposite commitment. The *Vedas* are ***apauruṣeya*** (अपौरुषेय) — without human author, not composed in time[NOTE: apauruseya-mimamsa-sutra-1-1-5] — and ***śruti*** (श्रुति), heard rather than made. The eleven *pāṭhas* (पाठाः), the *Prātiśākhya* (प्रातिशाख्य) discipline, and the *guru-shishya* lineage-chain (गुरुशिष्यपरम्परा, *guru-shishya paramparā*) form an error-correcting transmission channel engineered to prevent change.
 
-The dogma requires drift. Sanātan's continuum was built to prevent it. There is no middle ground. Chapter 16 develops the case where the contradiction lands sharpest — the retroflex consonant series.
+The dogma requires drift. Sanātan's continuum was built to prevent it. There is no middle ground. Chapter 16 develops the case where the contradiction bites sharpest — the retroflex consonant series.
 
 ## 2.5 *Dhātuḥ* Is an Atom
 
@@ -124,7 +124,7 @@ Sanskrit had botanical words available. *Bīja* (बीज) — the unit from wh
 
 The mistranslation was not a minor lexical slip. It was intellectual organization. The framework treated languages as organisms; it needed Sanskrit's primitive to be an organ; it translated the word accordingly. A civilizational term for structural constancy was moved into a European botanical garden and kept there as exhibit number one for the family-tree thesis.
 
-The theft lands at the atomic level. The *dhātuḥ* belongs to the architecture of constituents. The botanical substitute moves it into the architecture of plants.
+The theft strikes at the atomic level. The *dhātuḥ* belongs to the architecture of constituents. The botanical substitute moves it into the architecture of plants.
 
 Chapter 10 makes the consequence measurable. Once the *dhātuḥ* is recognized as an atom rather than a plant-organ, its construction can be tested. The test reveals not botanical growth but scaffolded architecture.
 
