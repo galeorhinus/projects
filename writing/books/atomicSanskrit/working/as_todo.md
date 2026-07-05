@@ -13,7 +13,6 @@
 ## CURRENT FOCUS
 
 - [~] **[P1] Ch3 §3.6 asura-analysis follow-ups (queued 2026-07-04; largely done 2026-07-04).** The full §3.6 *The Asura Analysis* + §3.7 *The Vedic Shape of Containment* split is drafted and committed. **Done:** all 13 §3.6–3.7 `[NOTE:]` anchors now have endnote entries (six new stubs added, incl. Nirukta 1.12 verified for *nāmāny ākhyātajāni*); §18.7 consolidated — the *ahura* chain now carries the breath-bearer (*asu-ra*) per §3.6, the "svar as dhātu" slip fixed (the dhātu is ⟪सुर्⟫, *Dhātupāṭha* tudādi 6.66, *artha* ऐश्वर्यदीप्त्योः "to shine"; `sura-dhatu-dipti` endnote carries the citation); Ch4 §-level *sur*/*svar* line fixed; RV 2.24.3 Vala agent corrected to Bṛhaspati (Wilson verified); stale §3.6 cross-refs retargeted book-wide (§3.7 / Ch 4) incl. CLAUDE.md. **Remaining (print-prep verification):**
-  - `nanartha-homonymy`: *Amarakośa* *nānārtha-varga* kāṇḍa placement; *ekaśabda* / *anekaśabda* terms + Aussant attribution.
   - `nirukta-names-from-actions` + `yaska-asura-nirukta`: verbatim Sanskrit vs print Sarup (1.12 and 3.8, incl. the sandhi at *asur iti*).
   - `rv-3-55-asuratvam-ekam`: the 24/22 *asuratva* occurrence split vs Grassmann / Vishva Bandhu Koṣa.
 - [x] **[P1] "Scripture" ban cleanup (queued 2026-07-04; done 2026-07-04, commit `61d2fa4`).** Targeted, not a blind sweep — most of the book's 32 uses are correct (Abrahamic *Scripture* mode, Bible/NT/Qur'an, "not reducible to scripture" denials — all KEEP). Fix only the Vedas/Indic-corpus uses:
