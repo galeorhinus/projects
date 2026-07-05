@@ -325,3 +325,38 @@ So \*ǵn̥h₁- → *kun-*, plus suffix *-ją*; and \*ǵn̥h₁-tó- → Germani
 
 [VERIFY before deployment: the Pāṇinian sūtra locus for the jan → jā elision (cf. 6.4.42–43 region, *janasanakhanāṃ sañjhaloḥ*); OE *cund* attestation; the standard claim n̥h₁ → ā for jāta.]
 
+## 11. The *kṛt* case: the s-mobile is a sandhi artifact (second word-family)
+
+Second chart in the same series (author's reference copy at `downloads/krt.webp`, kept uncommitted — third-party image): the "Etymological Tree of Sker," PIE ***\*(s)ker-* "to cut"** at center — Latin *curtus / cortex / carō* (no *s*), Germanic *\*skurtaz / \*skeraną / \*skarō* → *short, shirt, skirt, shear, sharp, share, scar, score, shred* (with *s*). Once again no Sanskrit on the page. The hidden dhātu:
+
+| Entry | Aupadeśika | Gaṇa | Artha |
+|---|---|---|---|
+| 6.171 | कृतीँ | *tudādi* | **छेदने** — to cut, to break, to slice (*kṛntati*) |
+
+(Also कृत् 7.10 *rudhādi*, वेष्टने "to surround" — distinct sense; and the *liṭ* is *cakarta*.)
+
+### The s-mobile confession
+
+The chart's own center writes the *s* in parentheses: ***\*(s)ker-***. The "s-mobile" is a floating consonant with **no source, no rule, no conditioning environment** — present in some daughters, absent in others. The parentheses are the same genre of confession as *contested* on \*h₂n̥su-. The pyramid's own literature most often explains s-mobile as **sandhi misdivision**: a word-final \*-s from the preceding word, re-cut by listeners onto the following word in connected speech.
+
+### Sanskrit states that mechanism as rule — and the flagship is the book's title-word
+
+- **suṭ-āgama:** *sam + kṛ* → **saṃ-s-kṛ** — an *s* inserted immediately before *kṛ* by explicit rule (the *suṭ kāt pūrvaḥ* cluster). ***Saṃskṛta* and *saṃskāra* carry an engineered *s* before the *kṛ*.**
+- **Visarga → s before k** in the standard compounds: *namas-kāra*, *puras-kāra*, *tiras-kāra*, *bhās-kara*.
+
+The Sanskrit speech-stream constantly presents **s + kṛ / kar** at boundaries, by stated rule. A receiving ear re-cuts the boundary and seeds *sker-* as one unit; where the source ran bare *kṛt / kar-*, the reflex has no *s*. **The "mobility" of the s is the variability of word boundaries in the source stream.** The pyramid heard a sandhi phenomenon and reconstructed it as a mystery prefix — the listener's mis-cut *bīja*, i.e., the vivimorphosis model, stated from their side.
+
+### The reduplication question (author's cakarta hypothesis, resolved)
+
+Could the *s* come from *liṭ* reduplication (*kṛt → cakarta*)? No — the abhyāsa of a velar root always yields ***ca-***, never *sa-*: *liṭ* demands doubling (*liṭi dhātor anabhyāsasya*, 6.1.8); the abhyāsa keeps only the first consonant (*halādiḥ śeṣaḥ*, 7.4.60); velars palatalize in the abhyāsa (*kuhoś cuḥ*, 7.4.62): *kṛt → ka-kart → cakarta*. The *c* is rule-stated dissimilation — engineering, not drift. But the instinct is the right model, and **reduplication pays off on the *jan* chart itself**: the gray box there includes \*ǵíǵnh₁ (→ Greek *gígnomai*, Latin *gignō*) — a **reduplicated** form, i.e., Sanskrit's abhyāsa system (*ja-jñe*, *ja-jāna*) copied into the phantom exactly as ablaut was.
+
+### The bonus in plain sight
+
+Their \*skurtaz → *short, shirt, skirt* is **s + kṛt** run through the same machine as *kun-*: syllabic **ṛ → ur** in Germanic (parallel to *n̥ → un* in \*kunją). What the pyramid calls the "zero grade \*(s)kr̥t-" is **the Dhātupāṭha's कृत्, on its surface, as the citation form.** *Shirt, skirt, short, curt*: one dhātu plus a mis-cut boundary-*s*, four costumes.
+
+### Figure option
+
+A *kṛt* companion pair (or a §18.8-style one-dhātu-many-costumes panel: कृत् → *curt/cortex* [no s] vs *shirt/skirt/short/score* [boundary-s]) would let Ch18 run the s-mobile indictment visually. Could reuse the `jan_orbit_radiance.py` scaffold with the *kṛt* word-sets. Decide after the *jan* pair lands in the manuscript.
+
+[VERIFY before deployment: exact sūtra numbers for the suṭ-āgama cluster (*suṭ kāt pūrvaḥ*, *saṃpary-upebhyaḥ karotau bhūṣaṇe*, *samavāye ca* — 6.1.135–137 region) and for the visarga → s compound rule covering *namas-kāra / puras-kāra / bhās-kara* (8.3.46 region, *ataḥ kṛkamikaṃsa…*); confirm 6.1.8 / 7.4.60 / 7.4.62 numbering against the ashtadhyayi.com text; kṛtī chedane 6.171 already verified against the local Dhātupāṭha data.]
+
