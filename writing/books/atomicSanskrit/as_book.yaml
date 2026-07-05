@@ -16,7 +16,7 @@ lang: en-US
 # --- Typography ---
 mainfont: EB Garamond              # Latin + IAST diacritics
 devanagarifont: Adobe Devanagari   # custom variable; substituted into templates/devanagari-preamble.tex.in
-fontsize: 11.0pt
+fontsize: 11pt
 linestretch: 1.15
 
 # --- Document structure ---

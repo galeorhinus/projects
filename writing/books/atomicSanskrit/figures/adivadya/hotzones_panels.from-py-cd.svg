@@ -1,170 +1,170 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="4.5000in" height="5.2830in" viewBox="0 0 5.0000 5.8700">
-  <rect x="0" y="0" width="5.0000" height="5.8700" fill="#f4f4f3"></rect>
-  <g transform="translate(0 0.6200)">
-  <g transform="translate(2.5000 5.7000)">
-    <path d="M -2.2399 -4.8034 A 5.3000 5.3000 0 0 1 -1.8849 -4.9535 L -1.6183 -4.2525 A 4.5500 4.5500 0 0 0 -1.9229 -4.1237 Z" fill="#eeece5" stroke="none"></path>
-    <path d="M -1.8849 -4.9535 A 5.3000 5.3000 0 0 1 -1.5201 -5.0773 L -1.3050 -4.3589 A 4.5500 4.5500 0 0 0 -1.6183 -4.2525 Z" fill="#dcd8ce" stroke="none"></path>
-    <path d="M -1.5201 -5.0773 A 5.3000 5.3000 0 0 1 -1.1471 -5.1744 L -0.9848 -4.4422 A 4.5500 4.5500 0 0 0 -1.3050 -4.3589 Z" fill="#eeece5" stroke="none"></path>
-    <path d="M -1.1471 -5.1744 A 5.3000 5.3000 0 0 1 -0.7681 -5.2440 L -0.6595 -4.5020 A 4.5500 4.5500 0 0 0 -0.9848 -4.4422 Z" fill="#dcd8ce" stroke="none"></path>
-    <path d="M -0.7681 -5.2440 A 5.3000 5.3000 0 0 1 -0.3851 -5.2860 L -0.3306 -4.5380 A 4.5500 4.5500 0 0 0 -0.6595 -4.5020 Z" fill="#eeece5" stroke="none"></path>
-    <path d="M -0.3851 -5.2860 A 5.3000 5.3000 0 0 1 -0.0000 -5.3000 L 0.0000 -4.5500 A 4.5500 4.5500 0 0 0 -0.3306 -4.5380 Z" fill="#dcd8ce" stroke="none"></path>
-    <path d="M -0.0000 -5.3000 A 5.3000 5.3000 0 0 1 0.3851 -5.2860 L 0.3306 -4.5380 A 4.5500 4.5500 0 0 0 0.0000 -4.5500 Z" fill="#eeece5" stroke="none"></path>
-    <path d="M 0.3851 -5.2860 A 5.3000 5.3000 0 0 1 0.7681 -5.2440 L 0.6595 -4.5020 A 4.5500 4.5500 0 0 0 0.3306 -4.5380 Z" fill="#dcd8ce" stroke="none"></path>
-    <path d="M 0.7681 -5.2440 A 5.3000 5.3000 0 0 1 1.1471 -5.1744 L 0.9848 -4.4422 A 4.5500 4.5500 0 0 0 0.6595 -4.5020 Z" fill="#eeece5" stroke="none"></path>
-    <path d="M 1.1471 -5.1744 A 5.3000 5.3000 0 0 1 1.5201 -5.0773 L 1.3050 -4.3589 A 4.5500 4.5500 0 0 0 0.9848 -4.4422 Z" fill="#dcd8ce" stroke="none"></path>
-    <path d="M 1.5201 -5.0773 A 5.3000 5.3000 0 0 1 1.8849 -4.9535 L 1.6183 -4.2525 A 4.5500 4.5500 0 0 0 1.3050 -4.3589 Z" fill="#eeece5" stroke="none"></path>
-    <path d="M 1.8849 -4.9535 A 5.3000 5.3000 0 0 1 2.2399 -4.8034 L 1.9229 -4.1237 A 4.5500 4.5500 0 0 0 1.6183 -4.2525 Z" fill="#dcd8ce" stroke="none"></path>
-    <path d="M -2.2399 -4.8034 A 5.3000 5.3000 0 0 1 2.2399 -4.8034 L 1.9229 -4.1237 A 4.5500 4.5500 0 0 0 -1.9229 -4.1237 Z" fill="none" stroke="#9a9892" stroke-width="0.012"></path>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif" transform="translate(-1.8484 -4.5656) rotate(67.0833)">BI-</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif" transform="translate(-1.9871 -4.5070) rotate(67.0833)">LABIAL</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif" transform="translate(-1.5118 -4.6878) rotate(71.2500)">LABIO-</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif" transform="translate(-1.6544 -4.6394) rotate(71.2500)">DENTAL</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif" transform="translate(-1.1672 -4.7853) rotate(75.4167)">INTER-</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif" transform="translate(-1.3129 -4.7474) rotate(75.4167)">DENTAL</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif" transform="translate(-0.8904 -4.8438) rotate(79.5833)">DENTAL</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif" transform="translate(-0.4613 -4.9039) rotate(83.7500)">ALVEO-</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif" transform="translate(-0.6110 -4.8876) rotate(83.7500)">LAR</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif" transform="translate(-0.1038 -4.9245) rotate(87.9167)">POST-</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif" transform="translate(-0.2543 -4.9190) rotate(87.9167)">ALV.</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif" transform="translate(0.1038 -4.9245) rotate(-87.9167)">RETRO-</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif" transform="translate(0.2543 -4.9190) rotate(-87.9167)">FLEX</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif" transform="translate(0.5361 -4.8957) rotate(-83.7500)">PALATAL</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif" transform="translate(0.8904 -4.8438) rotate(-79.5833)">VELAR</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif" transform="translate(1.2400 -4.7663) rotate(-75.4167)">UVULAR</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif" transform="translate(1.5118 -4.6878) rotate(-71.2500)">PHAR-</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif" transform="translate(1.6544 -4.6394) rotate(-71.2500)">YNGEAL</text>
-    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif" transform="translate(1.9178 -4.5363) rotate(-67.0833)">GLOTTAL</text>
-    <path d="M -2.2393 -4.9138 L -2.2559 -4.9502" stroke="#8f8d86" stroke-width="0.012"></path>
-    <path d="M -1.5938 -5.1594 L -1.6056 -5.1976" stroke="#8f8d86" stroke-width="0.012"></path>
-    <path d="M -2.2393 -4.9138 A 5.4000 5.4000 0 0 1 -1.5938 -5.1594" fill="none" stroke="#8f8d86" stroke-width="0.012" stroke-linecap="round"></path>
-    <defs><path id="grplbl_lab" d="M -2.2808 -5.0048 A 5.5000 5.5000 0 0 1 -1.6233 -5.2550" fill="none"></path></defs>
-    <text font-size="0.125" letter-spacing="0.020" fill="#8f8d86" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif"><textPath href="#grplbl_lab" startOffset="50%" text-anchor="middle">LAB</textPath></text>
-    <path d="M -1.5035 -5.1865 L -1.5147 -5.2249" stroke="#8f8d86" stroke-width="0.012"></path>
-    <path d="M 0.3453 -5.3889 L 0.3479 -5.4289" stroke="#8f8d86" stroke-width="0.012"></path>
-    <path d="M -1.5035 -5.1865 A 5.4000 5.4000 0 0 1 0.3453 -5.3889" fill="none" stroke="#8f8d86" stroke-width="0.012" stroke-linecap="round"></path>
-    <defs><path id="grplbl_coronal" d="M -1.5314 -5.2825 A 5.5000 5.5000 0 0 1 0.3517 -5.4887" fill="none"></path></defs>
-    <text font-size="0.125" letter-spacing="0.020" fill="#8f8d86" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif"><textPath href="#grplbl_coronal" startOffset="50%" text-anchor="middle">CORONAL</textPath></text>
-    <path d="M 0.4393 -5.3821 L 0.4426 -5.4220" stroke="#8f8d86" stroke-width="0.012"></path>
-    <path d="M 2.2393 -4.9138 L 2.2559 -4.9502" stroke="#8f8d86" stroke-width="0.012"></path>
-    <path d="M 0.4393 -5.3821 A 5.4000 5.4000 0 0 1 2.2393 -4.9138" fill="none" stroke="#8f8d86" stroke-width="0.012" stroke-linecap="round"></path>
-    <defs><path id="grplbl_dorsal" d="M 0.4475 -5.4818 A 5.5000 5.5000 0 0 1 2.2808 -5.0048" fill="none"></path></defs>
-    <text font-size="0.125" letter-spacing="0.020" fill="#8f8d86" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif"><textPath href="#grplbl_dorsal" startOffset="50%" text-anchor="middle">DORSAL · LARYNGEAL</textPath></text>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="4.5000in" height="5.2830in" viewBox="0 0 5.0000 5.8700" data-om-id="997703b4:503">
+  <rect x="0" y="0" width="5.0000" height="5.8700" fill="#f4f4f3" data-om-id="997703b4:504"/>
+  <g transform="translate(0 0.6200)" data-om-id="997703b4:505">
+  <g transform="translate(2.5000 5.7000)" data-om-id="997703b4:506">
+    <path d="M -2.2399 -4.8034 A 5.3000 5.3000 0 0 1 -1.8849 -4.9535 L -1.6183 -4.2525 A 4.5500 4.5500 0 0 0 -1.9229 -4.1237 Z" fill="#eeece5" stroke="none" data-om-id="997703b4:507"/>
+    <path d="M -1.8849 -4.9535 A 5.3000 5.3000 0 0 1 -1.5201 -5.0773 L -1.3050 -4.3589 A 4.5500 4.5500 0 0 0 -1.6183 -4.2525 Z" fill="#dcd8ce" stroke="none" data-om-id="997703b4:508"/>
+    <path d="M -1.5201 -5.0773 A 5.3000 5.3000 0 0 1 -1.1471 -5.1744 L -0.9848 -4.4422 A 4.5500 4.5500 0 0 0 -1.3050 -4.3589 Z" fill="#eeece5" stroke="none" data-om-id="997703b4:509"/>
+    <path d="M -1.1471 -5.1744 A 5.3000 5.3000 0 0 1 -0.7681 -5.2440 L -0.6595 -4.5020 A 4.5500 4.5500 0 0 0 -0.9848 -4.4422 Z" fill="#dcd8ce" stroke="none" data-om-id="997703b4:510"/>
+    <path d="M -0.7681 -5.2440 A 5.3000 5.3000 0 0 1 -0.3851 -5.2860 L -0.3306 -4.5380 A 4.5500 4.5500 0 0 0 -0.6595 -4.5020 Z" fill="#eeece5" stroke="none" data-om-id="997703b4:511"/>
+    <path d="M -0.3851 -5.2860 A 5.3000 5.3000 0 0 1 -0.0000 -5.3000 L 0.0000 -4.5500 A 4.5500 4.5500 0 0 0 -0.3306 -4.5380 Z" fill="#dcd8ce" stroke="none" data-om-id="997703b4:512"/>
+    <path d="M -0.0000 -5.3000 A 5.3000 5.3000 0 0 1 0.3851 -5.2860 L 0.3306 -4.5380 A 4.5500 4.5500 0 0 0 0.0000 -4.5500 Z" fill="#eeece5" stroke="none" data-om-id="997703b4:513"/>
+    <path d="M 0.3851 -5.2860 A 5.3000 5.3000 0 0 1 0.7681 -5.2440 L 0.6595 -4.5020 A 4.5500 4.5500 0 0 0 0.3306 -4.5380 Z" fill="#dcd8ce" stroke="none" data-om-id="997703b4:514"/>
+    <path d="M 0.7681 -5.2440 A 5.3000 5.3000 0 0 1 1.1471 -5.1744 L 0.9848 -4.4422 A 4.5500 4.5500 0 0 0 0.6595 -4.5020 Z" fill="#eeece5" stroke="none" data-om-id="997703b4:515"/>
+    <path d="M 1.1471 -5.1744 A 5.3000 5.3000 0 0 1 1.5201 -5.0773 L 1.3050 -4.3589 A 4.5500 4.5500 0 0 0 0.9848 -4.4422 Z" fill="#dcd8ce" stroke="none" data-om-id="997703b4:516"/>
+    <path d="M 1.5201 -5.0773 A 5.3000 5.3000 0 0 1 1.8849 -4.9535 L 1.6183 -4.2525 A 4.5500 4.5500 0 0 0 1.3050 -4.3589 Z" fill="#eeece5" stroke="none" data-om-id="997703b4:517"/>
+    <path d="M 1.8849 -4.9535 A 5.3000 5.3000 0 0 1 2.2399 -4.8034 L 1.9229 -4.1237 A 4.5500 4.5500 0 0 0 1.6183 -4.2525 Z" fill="#dcd8ce" stroke="none" data-om-id="997703b4:518"/>
+    <path d="M -2.2399 -4.8034 A 5.3000 5.3000 0 0 1 2.2399 -4.8034 L 1.9229 -4.1237 A 4.5500 4.5500 0 0 0 -1.9229 -4.1237 Z" fill="none" stroke="#9a9892" stroke-width="0.012" data-om-id="997703b4:519"/>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-1.8484 -4.5656) rotate(67.0833)" data-om-id="997703b4:520">BI-</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-1.9871 -4.5070) rotate(67.0833)" data-om-id="997703b4:521">LABIAL</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-1.5118 -4.6878) rotate(71.2500)" data-om-id="997703b4:522">LABIO-</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-1.6544 -4.6394) rotate(71.2500)" data-om-id="997703b4:523">DENTAL</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-1.1672 -4.7853) rotate(75.4167)" data-om-id="997703b4:524">INTER-</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-1.3129 -4.7474) rotate(75.4167)" data-om-id="997703b4:525">DENTAL</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-0.8904 -4.8438) rotate(79.5833)" data-om-id="997703b4:526">DENTAL</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-0.4613 -4.9039) rotate(83.7500)" data-om-id="997703b4:527">ALVEO-</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-0.6110 -4.8876) rotate(83.7500)" data-om-id="997703b4:528">LAR</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-0.1038 -4.9245) rotate(87.9167)" data-om-id="997703b4:529">POST-</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(-0.2543 -4.9190) rotate(87.9167)" data-om-id="997703b4:530">ALV.</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(0.1038 -4.9245) rotate(-87.9167)" data-om-id="997703b4:531">RETRO-</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(0.2543 -4.9190) rotate(-87.9167)" data-om-id="997703b4:532">FLEX</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(0.5361 -4.8957) rotate(-83.7500)" data-om-id="997703b4:533">PALATAL</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(0.8904 -4.8438) rotate(-79.5833)" data-om-id="997703b4:534">VELAR</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(1.2400 -4.7663) rotate(-75.4167)" data-om-id="997703b4:535">UVULAR</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(1.5118 -4.6878) rotate(-71.2500)" data-om-id="997703b4:536">PHAR-</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(1.6544 -4.6394) rotate(-71.2500)" data-om-id="997703b4:537">YNGEAL</text>
+    <text text-anchor="middle" dominant-baseline="middle" font-size="0.139" letter-spacing="0.008" fill="#3a3a3c" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" transform="translate(1.9178 -4.5363) rotate(-67.0833)" data-om-id="997703b4:538">GLOTTAL</text>
+    <path d="M -2.2393 -4.9138 L -2.2559 -4.9502" stroke="#8f8d86" stroke-width="0.012" data-om-id="997703b4:539"/>
+    <path d="M -1.5938 -5.1594 L -1.6056 -5.1976" stroke="#8f8d86" stroke-width="0.012" data-om-id="997703b4:540"/>
+    <path d="M -2.2393 -4.9138 A 5.4000 5.4000 0 0 1 -1.5938 -5.1594" fill="none" stroke="#8f8d86" stroke-width="0.012" stroke-linecap="round" data-om-id="997703b4:541"/>
+    <defs data-om-id="997703b4:542"><path id="grplbl_lab" d="M -2.2808 -5.0048 A 5.5000 5.5000 0 0 1 -1.6233 -5.2550" fill="none" data-om-id="997703b4:543"/></defs>
+    <text font-size="0.125" letter-spacing="0.020" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" data-om-id="997703b4:544"><textPath href="#grplbl_lab" startOffset="50%" text-anchor="middle" data-om-id="997703b4:545">LAB</textPath></text>
+    <path d="M -1.5035 -5.1865 L -1.5147 -5.2249" stroke="#8f8d86" stroke-width="0.012" data-om-id="997703b4:546"/>
+    <path d="M 0.3453 -5.3889 L 0.3479 -5.4289" stroke="#8f8d86" stroke-width="0.012" data-om-id="997703b4:547"/>
+    <path d="M -1.5035 -5.1865 A 5.4000 5.4000 0 0 1 0.3453 -5.3889" fill="none" stroke="#8f8d86" stroke-width="0.012" stroke-linecap="round" data-om-id="997703b4:548"/>
+    <defs data-om-id="997703b4:549"><path id="grplbl_coronal" d="M -1.5314 -5.2825 A 5.5000 5.5000 0 0 1 0.3517 -5.4887" fill="none" data-om-id="997703b4:550"/></defs>
+    <text font-size="0.125" letter-spacing="0.020" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" data-om-id="997703b4:551"><textPath href="#grplbl_coronal" startOffset="50%" text-anchor="middle" data-om-id="997703b4:552">CORONAL</textPath></text>
+    <path d="M 0.4393 -5.3821 L 0.4426 -5.4220" stroke="#8f8d86" stroke-width="0.012" data-om-id="997703b4:553"/>
+    <path d="M 2.2393 -4.9138 L 2.2559 -4.9502" stroke="#8f8d86" stroke-width="0.012" data-om-id="997703b4:554"/>
+    <path d="M 0.4393 -5.3821 A 5.4000 5.4000 0 0 1 2.2393 -4.9138" fill="none" stroke="#8f8d86" stroke-width="0.012" stroke-linecap="round" data-om-id="997703b4:555"/>
+    <defs data-om-id="997703b4:556"><path id="grplbl_dorsal" d="M 0.4475 -5.4818 A 5.5000 5.5000 0 0 1 2.2808 -5.0048" fill="none" data-om-id="997703b4:557"/></defs>
+    <text font-size="0.125" letter-spacing="0.020" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" data-om-id="997703b4:558"><textPath href="#grplbl_dorsal" startOffset="50%" text-anchor="middle" data-om-id="997703b4:559">DORSAL · LARYNGEAL</textPath></text>
   </g>
-  <line x1="0.6699" y1="1.4210" x2="0.6699" y2="4.5501" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04"></line>
-  <line x1="0.9892" y1="1.2994" x2="0.9892" y2="4.4169" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04"></line>
-  <line x1="1.3166" y1="1.2014" x2="1.3166" y2="4.3095" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04"></line>
-  <line x1="1.6502" y1="1.1275" x2="1.6502" y2="4.2285" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04"></line>
-  <line x1="1.9883" y1="1.0779" x2="1.9883" y2="4.1742" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04"></line>
-  <line x1="2.3291" y1="1.0531" x2="2.3291" y2="4.1470" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04"></line>
-  <line x1="2.6709" y1="1.0531" x2="2.6709" y2="4.1470" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04"></line>
-  <line x1="3.0117" y1="1.0779" x2="3.0117" y2="4.1742" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04"></line>
-  <line x1="3.3498" y1="1.1275" x2="3.3498" y2="4.2285" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04"></line>
-  <line x1="3.6834" y1="1.2014" x2="3.6834" y2="4.3095" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04"></line>
-  <line x1="4.0108" y1="1.2994" x2="4.0108" y2="4.4169" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04"></line>
-  <line x1="4.3301" y1="1.4210" x2="4.3301" y2="4.5501" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04"></line>
-  <g transform="translate(2.5000 6.6904)">
-    <path d="M -2.1765 -4.6675 A 5.1500 5.1500 0 0 1 -1.8316 -4.8133 L -1.7249 -4.5329 A 4.8500 4.8500 0 0 0 -2.0497 -4.3956 Z" fill="#f2f0ec" stroke="none"></path>
-    <path d="M -1.8316 -4.8133 A 5.1500 5.1500 0 0 1 -1.4770 -4.9336 L -1.3910 -4.6462 A 4.8500 4.8500 0 0 0 -1.7249 -4.5329 Z" fill="#e7e4dc" stroke="none"></path>
-    <path d="M -1.4770 -4.9336 A 5.1500 5.1500 0 0 1 -1.1147 -5.0279 L -1.0497 -4.7350 A 4.8500 4.8500 0 0 0 -1.3910 -4.6462 Z" fill="#f2f0ec" stroke="none"></path>
-    <path d="M -1.1147 -5.0279 A 5.1500 5.1500 0 0 1 -0.7464 -5.0956 L -0.7029 -4.7988 A 4.8500 4.8500 0 0 0 -1.0497 -4.7350 Z" fill="#e7e4dc" stroke="none"></path>
-    <path d="M -0.7464 -5.0956 A 5.1500 5.1500 0 0 1 -0.3742 -5.1364 L -0.3524 -4.8372 A 4.8500 4.8500 0 0 0 -0.7029 -4.7988 Z" fill="#f2f0ec" stroke="none"></path>
-    <path d="M -0.3742 -5.1364 A 5.1500 5.1500 0 0 1 -0.0000 -5.1500 L -0.0000 -4.8500 A 4.8500 4.8500 0 0 0 -0.3524 -4.8372 Z" fill="#e7e4dc" stroke="none"></path>
-    <path d="M -0.0000 -5.1500 A 5.1500 5.1500 0 0 1 0.3742 -5.1364 L 0.3524 -4.8372 A 4.8500 4.8500 0 0 0 -0.0000 -4.8500 Z" fill="#f2f0ec" stroke="none"></path>
-    <path d="M 0.3742 -5.1364 A 5.1500 5.1500 0 0 1 0.7464 -5.0956 L 0.7029 -4.7988 A 4.8500 4.8500 0 0 0 0.3524 -4.8372 Z" fill="#e7e4dc" stroke="none"></path>
-    <path d="M 0.7464 -5.0956 A 5.1500 5.1500 0 0 1 1.1147 -5.0279 L 1.0497 -4.7350 A 4.8500 4.8500 0 0 0 0.7029 -4.7988 Z" fill="#f2f0ec" stroke="none"></path>
-    <path d="M 1.1147 -5.0279 A 5.1500 5.1500 0 0 1 1.4770 -4.9336 L 1.3910 -4.6462 A 4.8500 4.8500 0 0 0 1.0497 -4.7350 Z" fill="#e7e4dc" stroke="none"></path>
-    <path d="M 1.4770 -4.9336 A 5.1500 5.1500 0 0 1 1.8316 -4.8133 L 1.7249 -4.5329 A 4.8500 4.8500 0 0 0 1.3910 -4.6462 Z" fill="#f2f0ec" stroke="none"></path>
-    <path d="M 1.8316 -4.8133 A 5.1500 5.1500 0 0 1 2.1765 -4.6675 L 2.0497 -4.3956 A 4.8500 4.8500 0 0 0 1.7249 -4.5329 Z" fill="#e7e4dc" stroke="none"></path>
-    <path d="M -2.1765 -4.6675 A 5.1500 5.1500 0 0 1 2.1765 -4.6675 L 2.0497 -4.3956 A 4.8500 4.8500 0 0 0 -2.0497 -4.3956 Z" fill="none" stroke="#b8b6b0" stroke-width="0.008"></path>
-    <circle cx="-1.9470" cy="-4.6054" r="0.0983" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="-1.6072" cy="-4.7347" r="0.0695" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="-1.2589" cy="-4.8389" r="0.0695" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="-0.9040" cy="-4.9176" r="0.0983" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="-0.5443" cy="-4.9703" r="0.0851" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="-0.1818" cy="-4.9967" r="0.0983" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="0.5443" cy="-4.9703" r="0.0491" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="0.9040" cy="-4.9176" r="0.0851" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="1.9470" cy="-4.6054" r="0.0491" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
+  <line x1="0.6699" y1="1.4210" x2="0.6699" y2="4.5501" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" data-om-id="997703b4:560"/>
+  <line x1="0.9892" y1="1.2994" x2="0.9892" y2="4.4169" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" data-om-id="997703b4:561"/>
+  <line x1="1.3166" y1="1.2014" x2="1.3166" y2="4.3095" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" data-om-id="997703b4:562"/>
+  <line x1="1.6502" y1="1.1275" x2="1.6502" y2="4.2285" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" data-om-id="997703b4:563"/>
+  <line x1="1.9883" y1="1.0779" x2="1.9883" y2="4.1742" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" data-om-id="997703b4:564"/>
+  <line x1="2.3291" y1="1.0531" x2="2.3291" y2="4.1470" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" data-om-id="997703b4:565"/>
+  <line x1="2.6709" y1="1.0531" x2="2.6709" y2="4.1470" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" data-om-id="997703b4:566"/>
+  <line x1="3.0117" y1="1.0779" x2="3.0117" y2="4.1742" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" data-om-id="997703b4:567"/>
+  <line x1="3.3498" y1="1.1275" x2="3.3498" y2="4.2285" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" data-om-id="997703b4:568"/>
+  <line x1="3.6834" y1="1.2014" x2="3.6834" y2="4.3095" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" data-om-id="997703b4:569"/>
+  <line x1="4.0108" y1="1.2994" x2="4.0108" y2="4.4169" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" data-om-id="997703b4:570"/>
+  <line x1="4.3301" y1="1.4210" x2="4.3301" y2="4.5501" stroke="#cdccc8" stroke-width="0.005" stroke-dasharray="0.04 0.04" data-om-id="997703b4:571"/>
+  <g transform="translate(2.5000 6.6904)" data-om-id="997703b4:572">
+    <path d="M -2.1765 -4.6675 A 5.1500 5.1500 0 0 1 -1.8316 -4.8133 L -1.7249 -4.5329 A 4.8500 4.8500 0 0 0 -2.0497 -4.3956 Z" fill="#f2f0ec" stroke="none" data-om-id="997703b4:573"/>
+    <path d="M -1.8316 -4.8133 A 5.1500 5.1500 0 0 1 -1.4770 -4.9336 L -1.3910 -4.6462 A 4.8500 4.8500 0 0 0 -1.7249 -4.5329 Z" fill="#e7e4dc" stroke="none" data-om-id="997703b4:574"/>
+    <path d="M -1.4770 -4.9336 A 5.1500 5.1500 0 0 1 -1.1147 -5.0279 L -1.0497 -4.7350 A 4.8500 4.8500 0 0 0 -1.3910 -4.6462 Z" fill="#f2f0ec" stroke="none" data-om-id="997703b4:575"/>
+    <path d="M -1.1147 -5.0279 A 5.1500 5.1500 0 0 1 -0.7464 -5.0956 L -0.7029 -4.7988 A 4.8500 4.8500 0 0 0 -1.0497 -4.7350 Z" fill="#e7e4dc" stroke="none" data-om-id="997703b4:576"/>
+    <path d="M -0.7464 -5.0956 A 5.1500 5.1500 0 0 1 -0.3742 -5.1364 L -0.3524 -4.8372 A 4.8500 4.8500 0 0 0 -0.7029 -4.7988 Z" fill="#f2f0ec" stroke="none" data-om-id="997703b4:577"/>
+    <path d="M -0.3742 -5.1364 A 5.1500 5.1500 0 0 1 -0.0000 -5.1500 L -0.0000 -4.8500 A 4.8500 4.8500 0 0 0 -0.3524 -4.8372 Z" fill="#e7e4dc" stroke="none" data-om-id="997703b4:578"/>
+    <path d="M -0.0000 -5.1500 A 5.1500 5.1500 0 0 1 0.3742 -5.1364 L 0.3524 -4.8372 A 4.8500 4.8500 0 0 0 -0.0000 -4.8500 Z" fill="#f2f0ec" stroke="none" data-om-id="997703b4:579"/>
+    <path d="M 0.3742 -5.1364 A 5.1500 5.1500 0 0 1 0.7464 -5.0956 L 0.7029 -4.7988 A 4.8500 4.8500 0 0 0 0.3524 -4.8372 Z" fill="#e7e4dc" stroke="none" data-om-id="997703b4:580"/>
+    <path d="M 0.7464 -5.0956 A 5.1500 5.1500 0 0 1 1.1147 -5.0279 L 1.0497 -4.7350 A 4.8500 4.8500 0 0 0 0.7029 -4.7988 Z" fill="#f2f0ec" stroke="none" data-om-id="997703b4:581"/>
+    <path d="M 1.1147 -5.0279 A 5.1500 5.1500 0 0 1 1.4770 -4.9336 L 1.3910 -4.6462 A 4.8500 4.8500 0 0 0 1.0497 -4.7350 Z" fill="#e7e4dc" stroke="none" data-om-id="997703b4:582"/>
+    <path d="M 1.4770 -4.9336 A 5.1500 5.1500 0 0 1 1.8316 -4.8133 L 1.7249 -4.5329 A 4.8500 4.8500 0 0 0 1.3910 -4.6462 Z" fill="#f2f0ec" stroke="none" data-om-id="997703b4:583"/>
+    <path d="M 1.8316 -4.8133 A 5.1500 5.1500 0 0 1 2.1765 -4.6675 L 2.0497 -4.3956 A 4.8500 4.8500 0 0 0 1.7249 -4.5329 Z" fill="#e7e4dc" stroke="none" data-om-id="997703b4:584"/>
+    <path d="M -2.1765 -4.6675 A 5.1500 5.1500 0 0 1 2.1765 -4.6675 L 2.0497 -4.3956 A 4.8500 4.8500 0 0 0 -2.0497 -4.3956 Z" fill="none" stroke="#b8b6b0" stroke-width="0.008" data-om-id="997703b4:585"/>
+    <circle cx="-1.9470" cy="-4.6054" r="0.0983" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:586"/>
+    <circle cx="-1.6072" cy="-4.7347" r="0.0695" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:587"/>
+    <circle cx="-1.2589" cy="-4.8389" r="0.0695" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:588"/>
+    <circle cx="-0.9040" cy="-4.9176" r="0.0983" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:589"/>
+    <circle cx="-0.5443" cy="-4.9703" r="0.0851" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:590"/>
+    <circle cx="-0.1818" cy="-4.9967" r="0.0983" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:591"/>
+    <circle cx="0.5443" cy="-4.9703" r="0.0491" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:592"/>
+    <circle cx="0.9040" cy="-4.9176" r="0.0851" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:593"/>
+    <circle cx="1.9470" cy="-4.6054" r="0.0491" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:594"/>
   </g>
-  <text x="2.5000" y="2.0248" text-anchor="middle" dominant-baseline="middle" font-size="0.128" font-weight="bold" fill="#2b2b2d" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">English · 24 consonants</text>
-  <g transform="translate(2.5000 7.5448)">
-    <path d="M -2.1765 -4.6675 A 5.1500 5.1500 0 0 1 -1.8316 -4.8133 L -1.7249 -4.5329 A 4.8500 4.8500 0 0 0 -2.0497 -4.3956 Z" fill="#f2f0ec" stroke="none"></path>
-    <path d="M -1.8316 -4.8133 A 5.1500 5.1500 0 0 1 -1.4770 -4.9336 L -1.3910 -4.6462 A 4.8500 4.8500 0 0 0 -1.7249 -4.5329 Z" fill="#e7e4dc" stroke="none"></path>
-    <path d="M -1.4770 -4.9336 A 5.1500 5.1500 0 0 1 -1.1147 -5.0279 L -1.0497 -4.7350 A 4.8500 4.8500 0 0 0 -1.3910 -4.6462 Z" fill="#f2f0ec" stroke="none"></path>
-    <path d="M -1.1147 -5.0279 A 5.1500 5.1500 0 0 1 -0.7464 -5.0956 L -0.7029 -4.7988 A 4.8500 4.8500 0 0 0 -1.0497 -4.7350 Z" fill="#e7e4dc" stroke="none"></path>
-    <path d="M -0.7464 -5.0956 A 5.1500 5.1500 0 0 1 -0.3742 -5.1364 L -0.3524 -4.8372 A 4.8500 4.8500 0 0 0 -0.7029 -4.7988 Z" fill="#f2f0ec" stroke="none"></path>
-    <path d="M -0.3742 -5.1364 A 5.1500 5.1500 0 0 1 -0.0000 -5.1500 L -0.0000 -4.8500 A 4.8500 4.8500 0 0 0 -0.3524 -4.8372 Z" fill="#e7e4dc" stroke="none"></path>
-    <path d="M -0.0000 -5.1500 A 5.1500 5.1500 0 0 1 0.3742 -5.1364 L 0.3524 -4.8372 A 4.8500 4.8500 0 0 0 -0.0000 -4.8500 Z" fill="#f2f0ec" stroke="none"></path>
-    <path d="M 0.3742 -5.1364 A 5.1500 5.1500 0 0 1 0.7464 -5.0956 L 0.7029 -4.7988 A 4.8500 4.8500 0 0 0 0.3524 -4.8372 Z" fill="#e7e4dc" stroke="none"></path>
-    <path d="M 0.7464 -5.0956 A 5.1500 5.1500 0 0 1 1.1147 -5.0279 L 1.0497 -4.7350 A 4.8500 4.8500 0 0 0 0.7029 -4.7988 Z" fill="#f2f0ec" stroke="none"></path>
-    <path d="M 1.1147 -5.0279 A 5.1500 5.1500 0 0 1 1.4770 -4.9336 L 1.3910 -4.6462 A 4.8500 4.8500 0 0 0 1.0497 -4.7350 Z" fill="#e7e4dc" stroke="none"></path>
-    <path d="M 1.4770 -4.9336 A 5.1500 5.1500 0 0 1 1.8316 -4.8133 L 1.7249 -4.5329 A 4.8500 4.8500 0 0 0 1.3910 -4.6462 Z" fill="#f2f0ec" stroke="none"></path>
-    <path d="M 1.8316 -4.8133 A 5.1500 5.1500 0 0 1 2.1765 -4.6675 L 2.0497 -4.3956 A 4.8500 4.8500 0 0 0 1.7249 -4.5329 Z" fill="#e7e4dc" stroke="none"></path>
-    <path d="M -2.1765 -4.6675 A 5.1500 5.1500 0 0 1 2.1765 -4.6675 L 2.0497 -4.3956 A 4.8500 4.8500 0 0 0 -2.0497 -4.3956 Z" fill="none" stroke="#b8b6b0" stroke-width="0.008"></path>
-    <circle cx="-1.9470" cy="-4.6054" r="0.0851" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="-1.6072" cy="-4.7347" r="0.0491" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="-1.2589" cy="-4.8389" r="0.0851" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="-0.9040" cy="-4.9176" r="0.0983" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="-0.5443" cy="-4.9703" r="0.1204" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="-0.1818" cy="-4.9967" r="0.0695" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="0.5443" cy="-4.9703" r="0.0491" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="0.9040" cy="-4.9176" r="0.0851" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="1.2589" cy="-4.8389" r="0.0491" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="1.6072" cy="-4.7347" r="0.0695" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="1.9470" cy="-4.6054" r="0.0695" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
+  <text x="2.5000" y="2.0248" text-anchor="middle" dominant-baseline="middle" font-size="0.128" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" data-om-id="997703b4:595">English · 24 consonants</text>
+  <g transform="translate(2.5000 7.5448)" data-om-id="997703b4:596">
+    <path d="M -2.1765 -4.6675 A 5.1500 5.1500 0 0 1 -1.8316 -4.8133 L -1.7249 -4.5329 A 4.8500 4.8500 0 0 0 -2.0497 -4.3956 Z" fill="#f2f0ec" stroke="none" data-om-id="997703b4:597"/>
+    <path d="M -1.8316 -4.8133 A 5.1500 5.1500 0 0 1 -1.4770 -4.9336 L -1.3910 -4.6462 A 4.8500 4.8500 0 0 0 -1.7249 -4.5329 Z" fill="#e7e4dc" stroke="none" data-om-id="997703b4:598"/>
+    <path d="M -1.4770 -4.9336 A 5.1500 5.1500 0 0 1 -1.1147 -5.0279 L -1.0497 -4.7350 A 4.8500 4.8500 0 0 0 -1.3910 -4.6462 Z" fill="#f2f0ec" stroke="none" data-om-id="997703b4:599"/>
+    <path d="M -1.1147 -5.0279 A 5.1500 5.1500 0 0 1 -0.7464 -5.0956 L -0.7029 -4.7988 A 4.8500 4.8500 0 0 0 -1.0497 -4.7350 Z" fill="#e7e4dc" stroke="none" data-om-id="997703b4:600"/>
+    <path d="M -0.7464 -5.0956 A 5.1500 5.1500 0 0 1 -0.3742 -5.1364 L -0.3524 -4.8372 A 4.8500 4.8500 0 0 0 -0.7029 -4.7988 Z" fill="#f2f0ec" stroke="none" data-om-id="997703b4:601"/>
+    <path d="M -0.3742 -5.1364 A 5.1500 5.1500 0 0 1 -0.0000 -5.1500 L -0.0000 -4.8500 A 4.8500 4.8500 0 0 0 -0.3524 -4.8372 Z" fill="#e7e4dc" stroke="none" data-om-id="997703b4:602"/>
+    <path d="M -0.0000 -5.1500 A 5.1500 5.1500 0 0 1 0.3742 -5.1364 L 0.3524 -4.8372 A 4.8500 4.8500 0 0 0 -0.0000 -4.8500 Z" fill="#f2f0ec" stroke="none" data-om-id="997703b4:603"/>
+    <path d="M 0.3742 -5.1364 A 5.1500 5.1500 0 0 1 0.7464 -5.0956 L 0.7029 -4.7988 A 4.8500 4.8500 0 0 0 0.3524 -4.8372 Z" fill="#e7e4dc" stroke="none" data-om-id="997703b4:604"/>
+    <path d="M 0.7464 -5.0956 A 5.1500 5.1500 0 0 1 1.1147 -5.0279 L 1.0497 -4.7350 A 4.8500 4.8500 0 0 0 0.7029 -4.7988 Z" fill="#f2f0ec" stroke="none" data-om-id="997703b4:605"/>
+    <path d="M 1.1147 -5.0279 A 5.1500 5.1500 0 0 1 1.4770 -4.9336 L 1.3910 -4.6462 A 4.8500 4.8500 0 0 0 1.0497 -4.7350 Z" fill="#e7e4dc" stroke="none" data-om-id="997703b4:606"/>
+    <path d="M 1.4770 -4.9336 A 5.1500 5.1500 0 0 1 1.8316 -4.8133 L 1.7249 -4.5329 A 4.8500 4.8500 0 0 0 1.3910 -4.6462 Z" fill="#f2f0ec" stroke="none" data-om-id="997703b4:607"/>
+    <path d="M 1.8316 -4.8133 A 5.1500 5.1500 0 0 1 2.1765 -4.6675 L 2.0497 -4.3956 A 4.8500 4.8500 0 0 0 1.7249 -4.5329 Z" fill="#e7e4dc" stroke="none" data-om-id="997703b4:608"/>
+    <path d="M -2.1765 -4.6675 A 5.1500 5.1500 0 0 1 2.1765 -4.6675 L 2.0497 -4.3956 A 4.8500 4.8500 0 0 0 -2.0497 -4.3956 Z" fill="none" stroke="#b8b6b0" stroke-width="0.008" data-om-id="997703b4:609"/>
+    <circle cx="-1.9470" cy="-4.6054" r="0.0851" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:610"/>
+    <circle cx="-1.6072" cy="-4.7347" r="0.0491" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:611"/>
+    <circle cx="-1.2589" cy="-4.8389" r="0.0851" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:612"/>
+    <circle cx="-0.9040" cy="-4.9176" r="0.0983" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:613"/>
+    <circle cx="-0.5443" cy="-4.9703" r="0.1204" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:614"/>
+    <circle cx="-0.1818" cy="-4.9967" r="0.0695" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:615"/>
+    <circle cx="0.5443" cy="-4.9703" r="0.0491" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:616"/>
+    <circle cx="0.9040" cy="-4.9176" r="0.0851" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:617"/>
+    <circle cx="1.2589" cy="-4.8389" r="0.0491" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:618"/>
+    <circle cx="1.6072" cy="-4.7347" r="0.0695" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:619"/>
+    <circle cx="1.9470" cy="-4.6054" r="0.0695" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:620"/>
   </g>
-  <text x="2.5000" y="2.8792" text-anchor="middle" dominant-baseline="middle" font-size="0.128" font-weight="bold" fill="#2b2b2d" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">Arabic · 28 consonants</text>
-  <g transform="translate(2.5000 8.3992)">
-    <path d="M -2.1765 -4.6675 A 5.1500 5.1500 0 0 1 -1.8316 -4.8133 L -1.7249 -4.5329 A 4.8500 4.8500 0 0 0 -2.0497 -4.3956 Z" fill="#f2f0ec" stroke="none"></path>
-    <path d="M -1.8316 -4.8133 A 5.1500 5.1500 0 0 1 -1.4770 -4.9336 L -1.3910 -4.6462 A 4.8500 4.8500 0 0 0 -1.7249 -4.5329 Z" fill="#e7e4dc" stroke="none"></path>
-    <path d="M -1.4770 -4.9336 A 5.1500 5.1500 0 0 1 -1.1147 -5.0279 L -1.0497 -4.7350 A 4.8500 4.8500 0 0 0 -1.3910 -4.6462 Z" fill="#f2f0ec" stroke="none"></path>
-    <path d="M -1.1147 -5.0279 A 5.1500 5.1500 0 0 1 -0.7464 -5.0956 L -0.7029 -4.7988 A 4.8500 4.8500 0 0 0 -1.0497 -4.7350 Z" fill="#e7e4dc" stroke="none"></path>
-    <path d="M -0.7464 -5.0956 A 5.1500 5.1500 0 0 1 -0.3742 -5.1364 L -0.3524 -4.8372 A 4.8500 4.8500 0 0 0 -0.7029 -4.7988 Z" fill="#f2f0ec" stroke="none"></path>
-    <path d="M -0.3742 -5.1364 A 5.1500 5.1500 0 0 1 -0.0000 -5.1500 L -0.0000 -4.8500 A 4.8500 4.8500 0 0 0 -0.3524 -4.8372 Z" fill="#e7e4dc" stroke="none"></path>
-    <path d="M -0.0000 -5.1500 A 5.1500 5.1500 0 0 1 0.3742 -5.1364 L 0.3524 -4.8372 A 4.8500 4.8500 0 0 0 -0.0000 -4.8500 Z" fill="#f2f0ec" stroke="none"></path>
-    <path d="M 0.3742 -5.1364 A 5.1500 5.1500 0 0 1 0.7464 -5.0956 L 0.7029 -4.7988 A 4.8500 4.8500 0 0 0 0.3524 -4.8372 Z" fill="#e7e4dc" stroke="none"></path>
-    <path d="M 0.7464 -5.0956 A 5.1500 5.1500 0 0 1 1.1147 -5.0279 L 1.0497 -4.7350 A 4.8500 4.8500 0 0 0 0.7029 -4.7988 Z" fill="#f2f0ec" stroke="none"></path>
-    <path d="M 1.1147 -5.0279 A 5.1500 5.1500 0 0 1 1.4770 -4.9336 L 1.3910 -4.6462 A 4.8500 4.8500 0 0 0 1.0497 -4.7350 Z" fill="#e7e4dc" stroke="none"></path>
-    <path d="M 1.4770 -4.9336 A 5.1500 5.1500 0 0 1 1.8316 -4.8133 L 1.7249 -4.5329 A 4.8500 4.8500 0 0 0 1.3910 -4.6462 Z" fill="#f2f0ec" stroke="none"></path>
-    <path d="M 1.8316 -4.8133 A 5.1500 5.1500 0 0 1 2.1765 -4.6675 L 2.0497 -4.3956 A 4.8500 4.8500 0 0 0 1.7249 -4.5329 Z" fill="#e7e4dc" stroke="none"></path>
-    <path d="M -2.1765 -4.6675 A 5.1500 5.1500 0 0 1 2.1765 -4.6675 L 2.0497 -4.3956 A 4.8500 4.8500 0 0 0 -2.0497 -4.3956 Z" fill="none" stroke="#b8b6b0" stroke-width="0.008"></path>
-    <circle cx="-1.9470" cy="-4.6054" r="0.0983" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="-1.6072" cy="-4.7347" r="0.0491" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="-0.5443" cy="-4.9703" r="0.1300" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="0.1818" cy="-4.9967" r="0.0851" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="0.5443" cy="-4.9703" r="0.0983" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="0.9040" cy="-4.9176" r="0.0983" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="1.9470" cy="-4.6054" r="0.0491" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
+  <text x="2.5000" y="2.8792" text-anchor="middle" dominant-baseline="middle" font-size="0.128" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" data-om-id="997703b4:621">Arabic · 28 consonants</text>
+  <g transform="translate(2.5000 8.3992)" data-om-id="997703b4:622">
+    <path d="M -2.1765 -4.6675 A 5.1500 5.1500 0 0 1 -1.8316 -4.8133 L -1.7249 -4.5329 A 4.8500 4.8500 0 0 0 -2.0497 -4.3956 Z" fill="#f2f0ec" stroke="none" data-om-id="997703b4:623"/>
+    <path d="M -1.8316 -4.8133 A 5.1500 5.1500 0 0 1 -1.4770 -4.9336 L -1.3910 -4.6462 A 4.8500 4.8500 0 0 0 -1.7249 -4.5329 Z" fill="#e7e4dc" stroke="none" data-om-id="997703b4:624"/>
+    <path d="M -1.4770 -4.9336 A 5.1500 5.1500 0 0 1 -1.1147 -5.0279 L -1.0497 -4.7350 A 4.8500 4.8500 0 0 0 -1.3910 -4.6462 Z" fill="#f2f0ec" stroke="none" data-om-id="997703b4:625"/>
+    <path d="M -1.1147 -5.0279 A 5.1500 5.1500 0 0 1 -0.7464 -5.0956 L -0.7029 -4.7988 A 4.8500 4.8500 0 0 0 -1.0497 -4.7350 Z" fill="#e7e4dc" stroke="none" data-om-id="997703b4:626"/>
+    <path d="M -0.7464 -5.0956 A 5.1500 5.1500 0 0 1 -0.3742 -5.1364 L -0.3524 -4.8372 A 4.8500 4.8500 0 0 0 -0.7029 -4.7988 Z" fill="#f2f0ec" stroke="none" data-om-id="997703b4:627"/>
+    <path d="M -0.3742 -5.1364 A 5.1500 5.1500 0 0 1 -0.0000 -5.1500 L -0.0000 -4.8500 A 4.8500 4.8500 0 0 0 -0.3524 -4.8372 Z" fill="#e7e4dc" stroke="none" data-om-id="997703b4:628"/>
+    <path d="M -0.0000 -5.1500 A 5.1500 5.1500 0 0 1 0.3742 -5.1364 L 0.3524 -4.8372 A 4.8500 4.8500 0 0 0 -0.0000 -4.8500 Z" fill="#f2f0ec" stroke="none" data-om-id="997703b4:629"/>
+    <path d="M 0.3742 -5.1364 A 5.1500 5.1500 0 0 1 0.7464 -5.0956 L 0.7029 -4.7988 A 4.8500 4.8500 0 0 0 0.3524 -4.8372 Z" fill="#e7e4dc" stroke="none" data-om-id="997703b4:630"/>
+    <path d="M 0.7464 -5.0956 A 5.1500 5.1500 0 0 1 1.1147 -5.0279 L 1.0497 -4.7350 A 4.8500 4.8500 0 0 0 0.7029 -4.7988 Z" fill="#f2f0ec" stroke="none" data-om-id="997703b4:631"/>
+    <path d="M 1.1147 -5.0279 A 5.1500 5.1500 0 0 1 1.4770 -4.9336 L 1.3910 -4.6462 A 4.8500 4.8500 0 0 0 1.0497 -4.7350 Z" fill="#e7e4dc" stroke="none" data-om-id="997703b4:632"/>
+    <path d="M 1.4770 -4.9336 A 5.1500 5.1500 0 0 1 1.8316 -4.8133 L 1.7249 -4.5329 A 4.8500 4.8500 0 0 0 1.3910 -4.6462 Z" fill="#f2f0ec" stroke="none" data-om-id="997703b4:633"/>
+    <path d="M 1.8316 -4.8133 A 5.1500 5.1500 0 0 1 2.1765 -4.6675 L 2.0497 -4.3956 A 4.8500 4.8500 0 0 0 1.7249 -4.5329 Z" fill="#e7e4dc" stroke="none" data-om-id="997703b4:634"/>
+    <path d="M -2.1765 -4.6675 A 5.1500 5.1500 0 0 1 2.1765 -4.6675 L 2.0497 -4.3956 A 4.8500 4.8500 0 0 0 -2.0497 -4.3956 Z" fill="none" stroke="#b8b6b0" stroke-width="0.008" data-om-id="997703b4:635"/>
+    <circle cx="-1.9470" cy="-4.6054" r="0.0983" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:636"/>
+    <circle cx="-1.6072" cy="-4.7347" r="0.0491" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:637"/>
+    <circle cx="-0.5443" cy="-4.9703" r="0.1300" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:638"/>
+    <circle cx="0.1818" cy="-4.9967" r="0.0851" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:639"/>
+    <circle cx="0.5443" cy="-4.9703" r="0.0983" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:640"/>
+    <circle cx="0.9040" cy="-4.9176" r="0.0983" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:641"/>
+    <circle cx="1.9470" cy="-4.6054" r="0.0491" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:642"/>
   </g>
-  <text x="2.5000" y="3.7336" text-anchor="middle" dominant-baseline="middle" font-size="0.128" font-weight="bold" fill="#2b2b2d" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">Mandarin · 24 consonants</text>
-  <g transform="translate(2.5000 9.2536)">
-    <path d="M -2.1765 -4.6675 A 5.1500 5.1500 0 0 1 -1.8316 -4.8133 L -1.7249 -4.5329 A 4.8500 4.8500 0 0 0 -2.0497 -4.3956 Z" fill="#f2f0ec" stroke="none"></path>
-    <path d="M -1.8316 -4.8133 A 5.1500 5.1500 0 0 1 -1.4770 -4.9336 L -1.3910 -4.6462 A 4.8500 4.8500 0 0 0 -1.7249 -4.5329 Z" fill="#e7e4dc" stroke="none"></path>
-    <path d="M -1.4770 -4.9336 A 5.1500 5.1500 0 0 1 -1.1147 -5.0279 L -1.0497 -4.7350 A 4.8500 4.8500 0 0 0 -1.3910 -4.6462 Z" fill="#f2f0ec" stroke="none"></path>
-    <path d="M -1.1147 -5.0279 A 5.1500 5.1500 0 0 1 -0.7464 -5.0956 L -0.7029 -4.7988 A 4.8500 4.8500 0 0 0 -1.0497 -4.7350 Z" fill="#e7e4dc" stroke="none"></path>
-    <path d="M -0.7464 -5.0956 A 5.1500 5.1500 0 0 1 -0.3742 -5.1364 L -0.3524 -4.8372 A 4.8500 4.8500 0 0 0 -0.7029 -4.7988 Z" fill="#f2f0ec" stroke="none"></path>
-    <path d="M -0.3742 -5.1364 A 5.1500 5.1500 0 0 1 -0.0000 -5.1500 L -0.0000 -4.8500 A 4.8500 4.8500 0 0 0 -0.3524 -4.8372 Z" fill="#e7e4dc" stroke="none"></path>
-    <path d="M -0.0000 -5.1500 A 5.1500 5.1500 0 0 1 0.3742 -5.1364 L 0.3524 -4.8372 A 4.8500 4.8500 0 0 0 -0.0000 -4.8500 Z" fill="#f2f0ec" stroke="none"></path>
-    <path d="M 0.3742 -5.1364 A 5.1500 5.1500 0 0 1 0.7464 -5.0956 L 0.7029 -4.7988 A 4.8500 4.8500 0 0 0 0.3524 -4.8372 Z" fill="#e7e4dc" stroke="none"></path>
-    <path d="M 0.7464 -5.0956 A 5.1500 5.1500 0 0 1 1.1147 -5.0279 L 1.0497 -4.7350 A 4.8500 4.8500 0 0 0 0.7029 -4.7988 Z" fill="#f2f0ec" stroke="none"></path>
-    <path d="M 1.1147 -5.0279 A 5.1500 5.1500 0 0 1 1.4770 -4.9336 L 1.3910 -4.6462 A 4.8500 4.8500 0 0 0 1.0497 -4.7350 Z" fill="#e7e4dc" stroke="none"></path>
-    <path d="M 1.4770 -4.9336 A 5.1500 5.1500 0 0 1 1.8316 -4.8133 L 1.7249 -4.5329 A 4.8500 4.8500 0 0 0 1.3910 -4.6462 Z" fill="#f2f0ec" stroke="none"></path>
-    <path d="M 1.8316 -4.8133 A 5.1500 5.1500 0 0 1 2.1765 -4.6675 L 2.0497 -4.3956 A 4.8500 4.8500 0 0 0 1.7249 -4.5329 Z" fill="#e7e4dc" stroke="none"></path>
-    <path d="M -2.1765 -4.6675 A 5.1500 5.1500 0 0 1 2.1765 -4.6675 L 2.0497 -4.3956 A 4.8500 4.8500 0 0 0 -2.0497 -4.3956 Z" fill="none" stroke="#b8b6b0" stroke-width="0.008"></path>
-    <circle cx="-1.9470" cy="-4.6054" r="0.1099" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="-1.6072" cy="-4.7347" r="0.0695" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="-1.2589" cy="-4.8389" r="0.0491" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="-0.9040" cy="-4.9176" r="0.1099" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="-0.5443" cy="-4.9703" r="0.0851" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="-0.1818" cy="-4.9967" r="0.0851" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="0.5443" cy="-4.9703" r="0.0695" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="0.9040" cy="-4.9176" r="0.0983" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
-    <circle cx="1.9470" cy="-4.6054" r="0.0491" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle>
+  <text x="2.5000" y="3.7336" text-anchor="middle" dominant-baseline="middle" font-size="0.128" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" data-om-id="997703b4:643">Mandarin · 24 consonants</text>
+  <g transform="translate(2.5000 9.2536)" data-om-id="997703b4:644">
+    <path d="M -2.1765 -4.6675 A 5.1500 5.1500 0 0 1 -1.8316 -4.8133 L -1.7249 -4.5329 A 4.8500 4.8500 0 0 0 -2.0497 -4.3956 Z" fill="#f2f0ec" stroke="none" data-om-id="997703b4:645"/>
+    <path d="M -1.8316 -4.8133 A 5.1500 5.1500 0 0 1 -1.4770 -4.9336 L -1.3910 -4.6462 A 4.8500 4.8500 0 0 0 -1.7249 -4.5329 Z" fill="#e7e4dc" stroke="none" data-om-id="997703b4:646"/>
+    <path d="M -1.4770 -4.9336 A 5.1500 5.1500 0 0 1 -1.1147 -5.0279 L -1.0497 -4.7350 A 4.8500 4.8500 0 0 0 -1.3910 -4.6462 Z" fill="#f2f0ec" stroke="none" data-om-id="997703b4:647"/>
+    <path d="M -1.1147 -5.0279 A 5.1500 5.1500 0 0 1 -0.7464 -5.0956 L -0.7029 -4.7988 A 4.8500 4.8500 0 0 0 -1.0497 -4.7350 Z" fill="#e7e4dc" stroke="none" data-om-id="997703b4:648"/>
+    <path d="M -0.7464 -5.0956 A 5.1500 5.1500 0 0 1 -0.3742 -5.1364 L -0.3524 -4.8372 A 4.8500 4.8500 0 0 0 -0.7029 -4.7988 Z" fill="#f2f0ec" stroke="none" data-om-id="997703b4:649"/>
+    <path d="M -0.3742 -5.1364 A 5.1500 5.1500 0 0 1 -0.0000 -5.1500 L -0.0000 -4.8500 A 4.8500 4.8500 0 0 0 -0.3524 -4.8372 Z" fill="#e7e4dc" stroke="none" data-om-id="997703b4:650"/>
+    <path d="M -0.0000 -5.1500 A 5.1500 5.1500 0 0 1 0.3742 -5.1364 L 0.3524 -4.8372 A 4.8500 4.8500 0 0 0 -0.0000 -4.8500 Z" fill="#f2f0ec" stroke="none" data-om-id="997703b4:651"/>
+    <path d="M 0.3742 -5.1364 A 5.1500 5.1500 0 0 1 0.7464 -5.0956 L 0.7029 -4.7988 A 4.8500 4.8500 0 0 0 0.3524 -4.8372 Z" fill="#e7e4dc" stroke="none" data-om-id="997703b4:652"/>
+    <path d="M 0.7464 -5.0956 A 5.1500 5.1500 0 0 1 1.1147 -5.0279 L 1.0497 -4.7350 A 4.8500 4.8500 0 0 0 0.7029 -4.7988 Z" fill="#f2f0ec" stroke="none" data-om-id="997703b4:653"/>
+    <path d="M 1.1147 -5.0279 A 5.1500 5.1500 0 0 1 1.4770 -4.9336 L 1.3910 -4.6462 A 4.8500 4.8500 0 0 0 1.0497 -4.7350 Z" fill="#e7e4dc" stroke="none" data-om-id="997703b4:654"/>
+    <path d="M 1.4770 -4.9336 A 5.1500 5.1500 0 0 1 1.8316 -4.8133 L 1.7249 -4.5329 A 4.8500 4.8500 0 0 0 1.3910 -4.6462 Z" fill="#f2f0ec" stroke="none" data-om-id="997703b4:655"/>
+    <path d="M 1.8316 -4.8133 A 5.1500 5.1500 0 0 1 2.1765 -4.6675 L 2.0497 -4.3956 A 4.8500 4.8500 0 0 0 1.7249 -4.5329 Z" fill="#e7e4dc" stroke="none" data-om-id="997703b4:656"/>
+    <path d="M -2.1765 -4.6675 A 5.1500 5.1500 0 0 1 2.1765 -4.6675 L 2.0497 -4.3956 A 4.8500 4.8500 0 0 0 -2.0497 -4.3956 Z" fill="none" stroke="#b8b6b0" stroke-width="0.008" data-om-id="997703b4:657"/>
+    <circle cx="-1.9470" cy="-4.6054" r="0.1099" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:658"/>
+    <circle cx="-1.6072" cy="-4.7347" r="0.0695" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:659"/>
+    <circle cx="-1.2589" cy="-4.8389" r="0.0491" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:660"/>
+    <circle cx="-0.9040" cy="-4.9176" r="0.1099" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:661"/>
+    <circle cx="-0.5443" cy="-4.9703" r="0.0851" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:662"/>
+    <circle cx="-0.1818" cy="-4.9967" r="0.0851" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:663"/>
+    <circle cx="0.5443" cy="-4.9703" r="0.0695" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:664"/>
+    <circle cx="0.9040" cy="-4.9176" r="0.0983" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:665"/>
+    <circle cx="1.9470" cy="-4.6054" r="0.0491" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:666"/>
   </g>
-  <text x="2.5000" y="4.5880" text-anchor="middle" dominant-baseline="middle" font-size="0.128" font-weight="bold" fill="#2b2b2d" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">Zulu · 26 consonants</text>
+  <text x="2.5000" y="4.5880" text-anchor="middle" dominant-baseline="middle" font-size="0.128" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" data-om-id="997703b4:667">Zulu · 26 consonants</text>
   </g>
-<text x="2.5000" y="0.345" text-anchor="middle" font-size="0.172" font-weight="bold" fill="#2b2b2d" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">Language Hotzones Along the Vocal Tract</text>
-<text x="2.5000" y="0.545" text-anchor="middle" font-size="0.125" font-style="italic" fill="#8f8d86" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">Where each language concentrates its consonants — lips at left, glottis at right.</text>
-<text x="1.86" y="5.65" text-anchor="end" font-size="0.124" font-style="italic" fill="#8f8d86" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">dot size =</text><text x="1.86" y="5.78" text-anchor="end" font-size="0.124" font-style="italic" fill="#8f8d86" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">consonants</text><circle cx="2.07" cy="5.6159" r="0.0491" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle><text x="2.07" y="5.78" text-anchor="middle" font-size="0.124" fill="#6f6f72" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">1</text><circle cx="2.34" cy="5.5668" r="0.0982" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle><text x="2.34" y="5.78" text-anchor="middle" font-size="0.124" fill="#6f6f72" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">4</text><circle cx="2.66" cy="5.5351" r="0.1299" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02"></circle><text x="2.66" y="5.78" text-anchor="middle" font-size="0.124" fill="#6f6f72" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">7</text>
+<text x="2.5000" y="0.345" text-anchor="middle" font-size="0.172" font-weight="bold" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" data-om-id="997703b4:668">Language Hotzones Along the Vocal Tract</text>
+<text x="2.5000" y="0.545" text-anchor="middle" font-size="0.125" font-style="italic" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" data-om-id="997703b4:669">Where each language concentrates its consonants — lips at left, glottis at right.</text>
+<text x="1.86" y="5.65" text-anchor="end" font-size="0.124" font-style="italic" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" data-om-id="997703b4:670">dot size =</text><text x="1.86" y="5.78" text-anchor="end" font-size="0.124" font-style="italic" fill="#8f8d86" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" data-om-id="997703b4:671">consonants</text><circle cx="2.07" cy="5.6159" r="0.0491" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:672"/><text x="2.07" y="5.78" text-anchor="middle" font-size="0.124" fill="#6f6f72" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" data-om-id="997703b4:673">1</text><circle cx="2.34" cy="5.5668" r="0.0982" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:674"/><text x="2.34" y="5.78" text-anchor="middle" font-size="0.124" fill="#6f6f72" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" data-om-id="997703b4:675">4</text><circle cx="2.66" cy="5.5351" r="0.1299" fill="#5f5f62" stroke="#f4f4f3" stroke-width="0.02" data-om-id="997703b4:676"/><text x="2.66" y="5.78" text-anchor="middle" font-size="0.124" fill="#6f6f72" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" data-om-id="997703b4:677">7</text>
 </svg>
