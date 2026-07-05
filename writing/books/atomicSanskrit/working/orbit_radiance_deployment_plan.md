@@ -272,3 +272,56 @@ Recommended order:
 4. Should the main figure use *gauḥ* only, or multiple word families?
 5. Should “radiance-touched” become formal vocabulary, or remain prose imagery?
 
+## 9. BUILT (2026-07-04): the *jan* / \*ǵenh₁ figure pair
+
+The word-family for the radiance side is settled: **⟪जन्⟫ (*jan*)** — the dhātu hiding behind the popular \*ǵenh₁ “to give birth” etymological tree (the widely-shared Starkey Comics chart, which has **no Sanskrit anywhere on it**; author's reference copy at `downloads/jan.jpeg`, kept uncommitted — third-party image). The Dhātupāṭha carries *jan* **twice**, covering both of the phantom's glosses:
+
+| Entry | Aupadeśika | Gaṇa | Artha |
+|---|---|---|---|
+| 3.25 | जनँ | *juhotyādi* | जनने — to create, to procreate, to make |
+| 4.44 | जनीँ | *divādi* | प्रादुर्भावे — to be born, to come into existence (*jāyate*) |
+
+Word-level twins: **jāta ↔ (g)nātus** “born”; **jāti** (birth → kind, class) ↔ **genus** (kind) — the same semantic walk from birth to category.
+
+Two figures generated as a pair (scripts + staged `.from-py-cd.svg` in `figures/pie_in_sky/`, commit `05e396b`):
+
+### Figure A — `genh_pie_tree.svg` (the fraud exhibit)
+
+Their tree, their topology, simplified: dashed \*ǵenh₁ at the root → Latin *genus·(g)nātus* → *nation, nature, native*; Greek *génos* → *genesis, gene*; dashed \*kunją → *kind, king, kindergarten*. Legend: *dashed = reconstructed; never spoken, never attested* — and no Sanskrit appears on it. The figure reproduces the pyramid's account faithfully; the caption convicts it (the root of this whole tree sits in the Dhātupāṭha with both of the phantom's meanings).
+
+Design decision: **rays = receiving surfaces, not words.** One ray to Latin *genus* with the whole tree sprouting from it would be wrong by the pyramid's own account (Greek *génos* and Germanic *kind/king* are not from Latin); three branch-heads is their own topology and cannot be contested.
+
+### Figure B — `jan_orbit_radiance.svg` (the Sun restored)
+
+जन् as Sun → inner orbit of Sanskrit śabdas (*janma, jāti, jāta, jana, jananī, prajā*) → middle orbit of living Indic forms (Hindi *janam*, Marathi *janma*, Bengali *jônmo*, Punjabi *janam*, Telugu *janma*, Malayalam *janmam*) → dashed **Sanskritic gravity** boundary → three dashed radiance rays landing on Latin / Greek / Proto-Germanic, each sprouting a small tree. Footer: *”trees grow where the light lands.”*
+
+The pair enacts the dichotomy → reframe move in two images: A is the pyramid's account (tree, phantom root, Sanskrit absent); B is the restored account (Sun, orbits, radiance — botany begins exactly where the rays land, never at the center). **The botanical metaphor is true exactly there and only there: trees grow where the radiance lands. The pyramid's error was planting the tree at the center and replacing the Sun with a phantom root.**
+
+### Staging caveats (for the hand-edit / CD pass)
+
+- matplotlib lacks Indic shaping: Devanagari conjuncts (प्र, न्म) may render decomposed — re-set the Devanagari text in the SVG editor.
+- The ⟪ ⟫ dhātu marker is absent from the figure fonts; the center shows जन् plain — add the brackets by hand if wanted.
+- Middle-orbit forms are roman + language tag; native scripts (জন্ম, జన్మ, ജന്മം…) can be added by hand. Word-sets sit in each script's docstring for pruning. Tamil ஜென்மம் is a tatsama loan (native *piṟappu*) — label as such if included.
+- Generation workaround: run with `PYTHONPATH=/usr/local/Cellar/numpy/2.4.5/lib/python3.14/site-packages` (system python3.14 site-packages numpy is broken).
+
+### Deployment candidates
+
+- Figure A near Ch18 §18.5 (the dictionary-shift / recipe territory).
+- Figure B in Ch18 §18.7, or as the §18.6 *Pratibimba* figure.
+- *jan* as a second worked case in §18.8 *One Dhātu, Three PIEs*, alongside ⟪दृश्⟫.
+- Captions still to draft.
+
+## 10. The *kun-* derivation note (for the figure endnote)
+
+Why does \*kunją look nothing like \*ǵenh₁? The pyramid's own bridge needs **three stacked machines**:
+
+1. **Zero grade (ablaut):** \*ǵenh₁- is assigned a vowel-less variant \*ǵn̥h₁- with syllabic n̥.
+2. **Syllabic-nasal vocalization:** in Germanic, n̥ → *un* — the *u* was never in the root.
+3. **Grimm's Law:** ǵ → *k*.
+
+So \*ǵn̥h₁- → *kun-*, plus suffix *-ją*; and \*ǵn̥h₁-tó- → Germanic *kund-* (OE *cund*, “-kind, -born”) = **Sanskrit jāta** (with n̥h₁ → ā claimed for Indic) = Latin *(g)nātus* — one form, three costumes, by their own account.
+
+**The polemic point:** Sanskrit documents the *jan* ~ *jā* alternation as an explicit rule — Pāṇini derives *jāyate*, *jāta* from ⟪जन्⟫ by stated operation (the *n* elides with lengthening in specified environments). The full/zero-grade “ablaut” apparatus the comparativists installed in PIE was modeled on Sanskrit's *guṇa/vṛddhi* system in the first place — Sanskrit's documented, rule-governed dhātu-alternations, harvested and back-projected into the phantom as “ablaut grades.” The chain runs: Pāṇini states the rule → the pyramid copies the rule into \*ǵenh₁/\*ǵn̥h₁ → then derives *kun-* from its copy and calls Sanskrit one more descendant of it. The *dṛś* pattern of §18.8 again: the Sanskrit side holds the family with one dhātu and stated operations; the pyramid's side needs a phantom plus three reconstructed processes, each inferred backward from the daughters.
+
+[VERIFY before deployment: the Pāṇinian sūtra locus for the jan → jā elision (cf. 6.4.42–43 region, *janasanakhanāṃ sañjhaloḥ*); OE *cund* attestation; the standard claim n̥h₁ → ā for jāta.]
+
