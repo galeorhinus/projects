@@ -58,7 +58,7 @@ Before grammar's object is analyzed, grammar's purpose is stated.[NOTE: prayojan
 
 - **रक्षा (*rakṣā*)** — preservation of the *Vedas* through correct forms.
 - **ऊह (*ūha*)** — modification for ritual contexts.
-- **आगम (*āgama*)** — scriptural injunction to study grammar.
+- **आगम (*āgama*)** — the Veda's own injunction to study grammar.
 - **लघु (*laghu*)** — brevity and efficiency in mastery.
 - **असंदेह (*asaṃdeha*)** — removal of doubt in usage.
 

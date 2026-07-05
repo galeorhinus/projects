@@ -4189,7 +4189,7 @@ This silence is significant in the context of the book's polemic. A text that im
 AISWEEP-END -->
 A text that imposes a new standard normally has to explain its authority: what the standard is for, why this standard and not another, what problem it solves. A documenter describing an existing system has no such burden, because the document is its own purpose: the activity is *enumerate-and-describe*, not *design-and-justify*. Pāṇini's silence on purpose is consistent with the documenter role and inconsistent with the order-maker role the codification story assigns him.
 
-The lineage's answer to "why was the *Aṣṭādhyāyī* written?" comes one commentarial generation later, in Patañjali's *Mahābhāṣya* (see endnote `prayojanani-paspashahnika`). Patañjali's five-fold answer (*rakṣā, ūha, āgama, laghu, asaṃdeha*) describes grammar's purposes as *meta-operations on an existing language* — preservation, modification, scriptural enjoining, mastery, doubt-removal — not as the act of constructing the language itself. The purpose-statement is therefore second-hand, post-hoc, and the activity-noun is *vyākaraṇam* — *analysis*.
+The lineage's answer to "why was the *Aṣṭādhyāyī* written?" comes one commentarial generation later, in Patañjali's *Mahābhāṣya* (see endnote `prayojanani-paspashahnika`). Patañjali's five-fold answer (*rakṣā, ūha, āgama, laghu, asaṃdeha*) describes grammar's purposes as *meta-operations on an existing language* — preservation, modification, the Veda's own enjoining, mastery, doubt-removal — not as the act of constructing the language itself. The purpose-statement is therefore second-hand, post-hoc, and the activity-noun is *vyākaraṇam* — *analysis*.
 
 Source: Pāṇini, *Aṣṭādhyāyī* (Bhattoji Dīkṣita's *Siddhāntakaumudī* ordering; Bohtlingk 1839–40 critical edition; Vasu 1891 English translation; Cardona 1976 *Pāṇini: A Survey of Research* on the structural silence of the text).
 
@@ -4197,7 +4197,7 @@ Source: Pāṇini, *Aṣṭādhyāyī* (Bhattoji Dīkṣita's *Siddhāntakaumud�
 
 ### `prayojanani-paspashahnika`
 
-**Short:** Patañjali's *Mahābhāṣya* opens (the *Paspaśāhnika*) with ***kim prayojanam vyākaraṇasya*** (किं प्रयोजनं व्याकरणस्य — *"what is the purpose of grammar?"*) and answers with the ***pañca prayojanāni*** (पञ्च प्रयोजनानि — *five purposes*): ***rakṣā*** (रक्षा, preservation of the *Vedas*), ***ūha*** (ऊह, ritual-context modification), ***āgama*** (आगम, scriptural injunction), ***laghu*** (लघु, brevity / efficient mastery), ***asaṃdeha*** (असंदेह, removal of doubt). All five presuppose an *already-existing* engineered language to preserve, modify, study, condense, clarify; none says "to engineer a new language" or "to codify a drifting one" — the lineage-chain's own answer to *why grammar?* confirms the documenter role in its very first move.
+**Short:** Patañjali's *Mahābhāṣya* opens (the *Paspaśāhnika*) with ***kim prayojanam vyākaraṇasya*** (किं प्रयोजनं व्याकरणस्य — *"what is the purpose of grammar?"*) and answers with the ***pañca prayojanāni*** (पञ्च प्रयोजनानि — *five purposes*): ***rakṣā*** (रक्षा, preservation of the *Vedas*), ***ūha*** (ऊह, ritual-context modification), ***āgama*** (आगम, the Veda's own injunction), ***laghu*** (लघु, brevity / efficient mastery), ***asaṃdeha*** (असंदेह, removal of doubt). All five presuppose an *already-existing* engineered language to preserve, modify, study, condense, clarify; none says "to engineer a new language" or "to codify a drifting one" — the lineage-chain's own answer to *why grammar?* confirms the documenter role in its very first move.
 
 **Deployments:** Chapter 5 §5.2 (the Patañjali five-prayojanāni paragraph); Claim #2.
 
@@ -4205,11 +4205,11 @@ The opening of Patañjali's *Mahābhāṣya* — the *Paspaśāhnika*, the intro
 
 1. ***रक्षा (*rakṣā*)*** — preservation: of the *Vedas*, by knowing the correct forms. Knowledge of grammar enables the practitioner to preserve Vedic recitation against drift.
 2. ***ऊह (*ūha*)*** — modification / substitution: ritual contexts require substituting variant forms (when a different deity is invoked in a *mantra*, the case-form must adjust accordingly), and grammar supplies the rules for these substitutions.
-3. ***आगम (*āgama*)*** — scriptural injunction: the *Vedas* themselves enjoin the study of grammar; learning grammar is a Vedic obligation, not an optional refinement.
+3. ***आगम (*āgama*)*** — the Veda's own injunction: the *Vedas* themselves enjoin the study of grammar; learning grammar is a Vedic obligation, not an optional refinement.
 4. ***लघु (*laghu*)*** — brevity / efficiency: mastering grammar efficiently is itself a virtue; grammar provides the compact rules from which the full language can be regenerated.
 5. ***असंदेह (*asaṃdeha*)*** — removal of doubt: grammar resolves ambiguity in usage and interpretation.
 
-Every one of the five presupposes an *already-existing* engineered language. *Rakṣā* presupposes a *Veda* to preserve; *ūha* presupposes ritual forms to modify; *āgama* presupposes scripture that enjoins study; *laghu* presupposes correct usage to master efficiently; *asaṃdeha* presupposes ambiguities in existing usage to resolve. None of the five says "to engineer a new language" or "to codify a drifting one." The lineage-chain's own answer to *why grammar?* confirms the documenter role in its very first move.
+Every one of the five presupposes an *already-existing* engineered language. *Rakṣā* presupposes a *Veda* to preserve; *ūha* presupposes ritual forms to modify; *āgama* presupposes a Veda that enjoins study; *laghu* presupposes correct usage to master efficiently; *asaṃdeha* presupposes ambiguities in existing usage to resolve. None of the five says "to engineer a new language" or "to codify a drifting one." The lineage-chain's own answer to *why grammar?* confirms the documenter role in its very first move.
 
 Source: Patañjali, *Mahābhāṣya*, *Paspaśāhnika* opening — Kielhorn's edition (third edition revised by Abhyankar, Bhandarkar Oriental Research Institute, Pune), volume I, p. 1; Joshi & Roodbergen's translation-commentary series on the *Mahābhāṣya* (Sahitya Akademi / Pune University publications, 1968–2003).
 

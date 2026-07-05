@@ -260,7 +260,7 @@ The *dhātuḥ* is where Sanskrit places semantic force. It is not a sonomeric o
 | ⟪धा⟫ (*dhā*) | place, hold, put | दधाति (*dadhāti*), धातु (*dhātu*), विधान (*vidhāna*), निधान (*nidhāna*) |
 | ⟪ज्ञा⟫ (*jñā*) | know | जानाति (*jānāti*), ज्ञान (*jñāna*), अज्ञान (*ajñāna*), विज्ञान (*vijñāna*), प्रज्ञा (*prajñā*) |
 
-The table shows what *sāravat* means at the atomic scale: tiny forms carry immense semantic force. ⟪कृ⟫ (*kṛ*) alone generates action, actor, object, obligation, refinement, and transformation. ⟪भू⟫ (*bhū*) carries being and becoming. ⟪गम्⟫ (*gam*) carries motion into travel, arrival, scripture, and joining.
+The table shows what *sāravat* means at the atomic scale: tiny forms carry immense semantic force. ⟪कृ⟫ (*kṛ*) alone generates action, actor, object, obligation, refinement, and transformation. ⟪भू⟫ (*bhū*) carries being and becoming. ⟪गम्⟫ (*gam*) carries motion into travel, arrival, the arrived teaching (*āgama*), and joining.
 
 This is where engineering-poetry enters. Sanskrit does not treat sonomers as interchangeable filler. Flow-actions cluster around liquids and continuants — *sar* (सर्), *cal* (चल्), *car* (चर्), *dru* (द्रु), *plu* (प्लु), *sru* (स्रु), *kṣar* (क्षर्). Abrasion, diminishment, and cutting cluster around harsher sound-shapes — *kṣay* (क्षय), *kṣat* (क्षत), *kṣaṇ* (क्षण्), *kṣam* (क्षम्), *klam* (क्लम्), *kṣud* (क्षुद्), *kṣap* (क्षप्).
 
@@ -350,9 +350,9 @@ Yaska's decoding of **अग्नि (*agni*)** at *Nirukta* 7.14 makes the poi
 >
 > ***aṅga-nī*** (अङ्गनी) — *that which leads the limbs*, from *aṅga* (अङ्ग, limb) + ⟪नी⟫. Fire animates the body; warmth activates the limbs.
 >
-> ***aknopana*** (अक्नोपन) — *that which does not moisten*, from negative *a-* (अ-) + the *dhātu* *knop* (क्नोप्, to moisten). **Per Sthaulāṣṭhīvi** (स्थौलाष्ठीवि), a pre-Pāṇinian decoder Yaska cites by name. Fire dries; it does not anoint with oil.
+> ***aknopana*** (अक्नोपन) — *that which does not moisten*, from negative *a-* (अ-) + the *dhātu* ⟪क्नोप्⟫ (*knop*, to moisten). **Per Sthaulāṣṭhīvi** (स्थौलाष्ठीवि), a pre-Pāṇinian decoder Yaska cites by name. Fire dries; it does not anoint with oil.
 >
-> ***i + añj + dah → agni*** — *the one born from three dhātavaḥ*: *i* (इ, to go) + *añj* (अञ्ज्, to anoint / illuminate) + *dah* (दह्, to burn). **Per Śakapūṇi** (शकपूणि), a second pre-Pāṇinian decoder Yaska cites by name. The three-*dhātu* derivation combines motion, illumination, and burning into one word.
+> ***i + añj + dah → agni*** — *the one born from three dhātavaḥ*: ⟪इ⟫ (*i*, to go) + ⟪अञ्ज्⟫ (*añj*, to anoint / illuminate) + ⟪दह्⟫ (*dah*, to burn). **Per Śakapūṇi** (शकपूणि), a second pre-Pāṇinian decoder Yaska cites by name. The three-*dhātu* derivation combines motion, illumination, and burning into one word.
 
 To the philological eye, four derivations of one word look like uncertainty — competing guesses about a single "true" etymology. Inside the Sanskrit analytical frame they are functional decompositions. Yaska is performing a precise functional analysis, isolating the properties the word carries in use: fire leads, animates, dries, illuminates, and burns.
 
