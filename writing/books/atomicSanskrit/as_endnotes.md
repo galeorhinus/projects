@@ -721,6 +721,96 @@ Here *asura* is a vocative epithet of **Varuṇa** — the sovereign addressed a
 
 ---
 
+### `nirukta-names-from-actions`
+
+**Short:** *Nirukta* 1.12 — ***tatra nāmāny ākhyātajāni iti śākaṭāyano nairuktasamayaś ca***: "names arise from actions" is Śākaṭāyana's thesis and the settled position (*samaya*) of the Nairukta school, which Yāska adopts as the discipline's working method; Gārgya's partial dissent is debated and answered at *Nirukta* 1.12–14.
+
+**Deployments:** Chapter 3 §3.6 (Yāska's governing rule, introduced before the *asura* parses); §3.7 close ("As Yāska said, *nāmāny ākhyātajāni*"); the "Action, not word" governing line.
+
+The principle **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)** — *names are born from verbs / actions* — opens the *Nirukta*'s methodological discussion at 1.12: *tatra nāmāny ākhyātajāni iti śākaṭāyano nairuktasamayaś ca* — "here, that names arise from *ākhyātas* (verbal actions) is the view of Śākaṭāyana and the consensus of the Nairuktas." Gārgya and the grammarians hold the narrower view that only morphologically transparent nouns derive from verbs; Yāska argues the Nairukta side across 1.12–14 and operates the whole *Nirukta* on it: every name is traceable to a *dhātu*, similar in form and meaning, and discloses the action of its bearer.
+
+The rule is not an antiquarian curiosity; it is the analytical warrant Chapter 3 uses. Yāska applies it to *asura* itself — two of his four parses (*asyati*, *asuratāḥ*) derive the word from the *dhātu* ⟪अस्⟫, reading the bearer's deed out of the name (see `yaska-asura-nirukta`).
+
+Source: *Nirukta* 1.12, Lakshman Sarup's edition and translation (*The Nighaṇṭu and the Nirukta*, 1920–27). [VERIFY: verbatim Sanskrit of 1.12 against print Sarup at print-prep.]
+
+---
+
+### `yaska-asura-nirukta`
+
+**Short:** Yāska's *Nirukta* 3.8 does not give *asura* one derivation; it lays out a menu in the *iti vā … iti vā* style — the breath-bearer (*asu*, the life-force set in the body), the evil-caster (⟪अस्⟫, *asyaty anarthān*), the cast-down (⟪अस्⟫, *asuratāḥ*), and the relational *asurāḥ suravirodhinaḥ* ("opponents of the *suras*"). One form, several words, set out in the open — the discipline's own record that the form is a meeting-place, not a single word.
+
+**Deployments:** Chapter 3 §3.6 — the four-parse blockquote and the *vaidika* / *laukika* sort that follows it; the *anekaśabda* argument against the pyramid's reversal-story.
+
+The *Nirukta* treats *asura* in its characteristic alternative-offering style. The four parses, with working translations:
+
+1. ***asu-ra*** — from **असु (*asu*)**, breath, the life-force "set in the body" (*astaḥ śarīre bhavati*): the *asura* is the one who holds *asu*. The dominant indigenous derivation — carried also by the Uṇādi analysis, the Brāhmaṇa *asu*-cosmogonies, and Sāyaṇa's glosses (*prāṇavantam*, *balavantam*) in the sovereign contexts.
+2. ***asyati*** — from the *dhātu* ⟪अस्⟫ (*as*, to cast, to throw): *asyaty anarthān*, "he hurls off misfortunes." An action-derivation, per *nāmāny ākhyātajāni*.
+3. ***asuratāḥ*** — again from ⟪अस्⟫: flung from their stations (*sthāneṣu* / *sveṣu*) — the cast-down.
+4. ***asurāḥ suravirodhinaḥ*** — "the *asuras* are the opponents of the *suras*." A relational gloss, not an action-derivation: it presupposes *sura* as a standing word, which is a *laukika* development — consistent with the book's assignment of the light/dark *sura* / *a-sura* pair to the *laukika* field (the *Nirukta* is itself *laukika śāstra*).
+
+Two structural facts carry Chapter 3's use. First, Yāska himself holds several parses at once — the discipline debated the word in the open, thousands of years before the philological machinery declared its "reversal." Second, the parses do not share a semantic center: derivations from *asu* (breath) and from ⟪अस्⟫ (to cast) and the privative *a-sura* (see `sura-dhatu-dipti`) arrive at one phonic form from different origins — the *anekaśabda* configuration (see `nanartha-homonymy`).
+
+Source: *Nirukta* 3.8, Sarup's edition; the core fragment independently corroborated via Apte and the wisdomlib *Nirukta* text. [VERIFY: full verbatim wording of 3.8, including the sandhi at *asur iti*, against print Sarup at print-prep.]
+
+---
+
+### `rv-1-32-vrtra`
+
+**Short:** Ṛgveda 1.32 is the Vṛtra hymn: Vṛtra — the name from ⟪वृ⟫ (*vṛ*, to cover, to obstruct) — withholds the waters; Indra's *vajra* breaks the obstruction and the rivers run. The Ṛgveda's archetype of containment-and-release — and the hymn never calls Vṛtra *asura*: he is *māyin*, Dāsa, Dānava.
+
+**Deployments:** Chapter 3 §3.7 — first member of the containment triad (waters); the deed-not-word proof (the arch-withholder is not called *asura*).
+
+Ṛgveda 1.32 (Maṇḍala 1, to Indra) narrates the deed the tradition treats as Indra's defining act: Vṛtra lies coiled on the mountain enclosing the waters; Indra strikes him with the *vajra*; the waters break free and flow to the sea "like lowing cows." The name **वृत्र (*vṛtra*)** is itself an action-name per *nāmāny ākhyātajāni*: from ⟪वृ⟫, *to cover, to obstruct* — the Coverer, the Obstructor. The hymn's own epithets for him are *māyin* (wielder of *māyā*), *dāsa*, and the patronymic Dānava — not *asura*; the deed of containment, not the word, marks him as the adversary (the §3.7 proof).
+
+Standard text and translations: Wilson (rendering Sāyaṇa) and Griffith ad RV 1.32; saṃhitā and padapāṭha witnesses at wisdomlib.
+
+---
+
+### `rv-vala-panis`
+
+**Short:** The Vala myth is the second containment archetype: the Paṇis — the *niggards* — wall the cattle (the dawn-herd, the light) in the Vala cave; Bṛhaspati / Brahmaṇaspati breaks the enclosure by the sacred word and "displays the light" (RV 2.24.3, Wilson); Indra and the Aṅgirases carry the deed in the parallel tellings; Saramā, sent ahead, faces the Paṇis down in the dialogue-hymn RV 10.108. The hoarders, like Vṛtra, are not called *asura* — the deed marks them.
+
+**Deployments:** Chapter 3 §3.7 — second member of the containment triad (cattle-light); the deed-not-word proof (the archetypal hoarders are not called *asura*).
+
+The Vala complex runs across several hymns. **RV 2.24.3** (to Brahmaṇaspati), in Wilson's rendering: "That was the exploit … by which the firm (shut gates) were thrown open, the strong (barriers) were relaxed, (by him) who set the cows at liberty; who, by the (force of the) sacred prayer, destroyed Bala; who dispersed the darkness and displayed the light." The agent at 2.24.3 is **Bṛhaspati / Brahmaṇaspati**, and his instrument is the sacred word — the enclosure falls to *brahman*, not to the *vajra*. The parallel tellings put **Indra with the Aṅgirases** at the cave; **RV 10.108** is the dialogue-hymn in which **Saramā**, Indra's hound sent ahead, refuses the Paṇis' bribes and announces the coming breach. The **पणयः (*paṇayaḥ*)** are the hoarders — the name associated with *paṇ* (to bargain, to traffic) — miserly withholders of cattle, light, and wealth.
+
+The structural point Chapter 3 draws: waters (Vṛtra), cattle-light (Vala), sun (Svarbhānu) are one operation — goods enclosed, goods released — and the word *asura* attaches to none of the first two containers, while the deed of containment marks all three.
+
+Source: Wilson ad RV 2.24.3 (wisdomlib); RV 10.108 (Saramā–Paṇi dialogue), standard translations.
+
+---
+
+### `rv-8-42-1-varuna-measures`
+
+**Short:** Ṛgveda 8.42.1 — *astabhnād dyām asuro viśvavedā amimīta varimāṇaṃ pṛthivyāḥ* — "the *asura*, all-knowing, propped up the heaven; he measured out the breadth of the earth; as *samrāṭ* he took his seat over all beings: all these are the ordinances (*vratāni*) of Varuṇa." The *asura* as the measurer: the engineering faculty in Vedic dress.
+
+**Deployments:** Chapter 3 §3.7 — the *asuratva* paragraph (the holding-and-measuring power in two orientations); the boundary-vs-enclosure line (Varuṇa builds and the flow still moves).
+
+**Saṃhitā-pāṭha:**
+
+> अस्तभ्नाद् द्यामसुरो विश्ववेदा अमिमीत वरिमाणं पृथिव्याः ।
+> आसीदद्विश्वा भुवनानि सम्राड् विश्वेत्तानि वरुणस्य व्रतानि ॥
+
+**Padaccheda:** अस्तभ्नात् । द्याम् । असुरः । विश्वऽवेदाः । अमिमीत । वरिमाणम् । पृथिव्याः । आ । असीदत् । विश्वा । भुवनानि । सम्राट् । विश्वा । इत् । तानि । वरुणस्य । व्रतानि ॥
+
+**Translation:** "The *asura*, all-knowing, propped up the heaven; he measured out the breadth of the earth. As *samrāṭ* (universal ruler) he took his seat over all beings. All these are the *vratāni* (ordinances) of Varuṇa."
+
+Key verbs: *astabhnāt* (propped, pillared apart — ⟪स्तम्भ्⟫), *amimīta* (measured out — ⟪मा⟫, middle voice), *āsīdat* (took his seat — ⟪सद्⟫). The *asura* here props, measures, and legislates — and under the propped frame the waters and the light still move, which is why the Veda praises the structure (the §3.7 boundary-vs-enclosure line). The epithet-formula *asuro viśvavedāḥ* recurs at VS 27.12 (= TS 4.1.8.1 = MS 2.12.6) re-anchored on Agni/Tanūnapāt — the same ordering-function formula, stable across the corpus. Padapāṭha verified against wisdomlib witnesses.
+
+---
+
+### `rv-3-55-asuratvam-ekam`
+
+**Short:** Ṛgveda 3.55 carries the refrain ***mahád devā́nām asuratvám ékam*** — "great and single is the *asura*-power of the *devāḥ*" — across all twenty-two of its verses. The abstract *asuratva* appears 24 times in the Ṛgveda, 22 of them in this one hymn's refrain: the power is stated as held by the *devāḥ* collectively — across the many, not seized at an apex.
+
+**Deployments:** Chapter 3 §3.7 — the distributed-not-apex paragraph ("the pyramid is precisely the seizure the Veda refuses").
+
+The refrain — **महद् देवानाम् असुरत्वम् एकम् (*mahád devā́nām asuratvám ékam*)** — closes every verse of RV 3.55 (Maṇḍala 3, a Viśvedevāḥ hymn). The abstract noun **असुरत्व (*asuratva*)**, "*asura*-hood, *asura*-power," is rare in the Ṛgveda — 24 occurrences, of which 22 are this single hymn's refrain — so the corpus's own concentrated statement about *asuratva* is precisely this line. Its grammar carries the argument Chapter 3 §3.7 makes: the power is *ékam* (one), *mahát* (great), and *devā́nām* (of the *devāḥ*, genitive plural) — a single great power held across the plurality, not the possession of a single peak. The hymn's refrain-form enacts the distribution: the same line, returning under twenty-two different verses.
+
+Source: RV 3.55, standard saṃhitā text; occurrence counts per the standard concordance tallies (Grassmann s.v. *asuratva*). [VERIFY: exact 24/22 split against Grassmann or the Vishva Bandhu Koṣa at print-prep.]
+
+---
+
 ### `maitrayani-samhita-1-9-3-satya-asura`
 
 **Short:** Maitrāyaṇī Saṃhitā 1.9.3 gives the Part I opener its sat/asat axis: the devas are created by truth and become truth; the asuras are created by untruth and become untruth.
