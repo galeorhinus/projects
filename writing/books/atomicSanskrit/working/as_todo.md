@@ -12,10 +12,10 @@
 
 ## CURRENT FOCUS
 
-- [ ] **[P1] Ch3 §3.6 asura-analysis follow-ups (queued 2026-07-04).** The full §3.6 *The Asura Analysis* + §3.7 *The Vedic Shape of Containment* split is drafted and committed (`877232c`, `4e12728`). Remaining:
-  - **Endnote stubs still to draft** (referenced in §3.6/§3.7, not yet written): `nirukta-names-from-actions`, `yaska-asura-nirukta`, `rv-1-32-vrtra`, `rv-vala-panis`, `rv-8-42-1-varuna-measures`, `rv-3-55-asuratvam-ekam`. (`yaska-deva-derivation`, `rigveda-5-40-atri-clearing`, `nanartha-homonymy` already exist.)
-  - **§18.7 consolidation:** trim the Ch18 asura / ahura / PIE-reversal material now duplicated by §3.6 down to a cross-reference; fix §18.7's "svar as dhātu" → ⟪सुर्⟫ (*sur*) is the dhātu, *svar* is the light-noun.
-  - **Two `[VERIFY:]` flags in the `nanartha-homonymy` endnote:** confirm the *Amarakośa* *nānārtha-varga* kāṇḍa placement; confirm the *ekaśabda* / *anekaśabda* terms + Aussant attribution ("Sanskrit Theories on Homonymy and Polysemy").
+- [~] **[P1] Ch3 §3.6 asura-analysis follow-ups (queued 2026-07-04; largely done 2026-07-04).** The full §3.6 *The Asura Analysis* + §3.7 *The Vedic Shape of Containment* split is drafted and committed. **Done:** all 13 §3.6–3.7 `[NOTE:]` anchors now have endnote entries (six new stubs added, incl. Nirukta 1.12 verified for *nāmāny ākhyātajāni*); §18.7 consolidated — the *ahura* chain now carries the breath-bearer (*asu-ra*) per §3.6, the "svar as dhātu" slip fixed (the dhātu is ⟪सुर्⟫, *Dhātupāṭha* tudādi 6.66, *artha* ऐश्वर्यदीप्त्योः "to shine"; `sura-dhatu-dipti` endnote carries the citation); Ch4 §-level *sur*/*svar* line fixed; RV 2.24.3 Vala agent corrected to Bṛhaspati (Wilson verified); stale §3.6 cross-refs retargeted book-wide (§3.7 / Ch 4) incl. CLAUDE.md. **Remaining (print-prep verification):**
+  - `nanartha-homonymy`: *Amarakośa* *nānārtha-varga* kāṇḍa placement; *ekaśabda* / *anekaśabda* terms + Aussant attribution.
+  - `nirukta-names-from-actions` + `yaska-asura-nirukta`: verbatim Sanskrit vs print Sarup (1.12 and 3.8, incl. the sandhi at *asur iti*).
+  - `rv-3-55-asuratvam-ekam`: the 24/22 *asuratva* occurrence split vs Grassmann / Vishva Bandhu Koṣa.
 - [ ] **[P1] "Scripture" ban cleanup (queued 2026-07-04, per new CLAUDE.md rule).** Targeted, not a blind sweep — most of the book's 32 uses are correct (Abrahamic *Scripture* mode, Bible/NT/Qur'an, "not reducible to scripture" denials — all KEEP). Fix only the Vedas/Indic-corpus uses:
   - *āgama* = "scriptural injunction" gloss → *the arrived teaching* / *the Veda's own injunction*: [as_1_05_siddha.md:61](../as_1_05_siddha.md#L61), [as_1_10_building_dhatuh.md:263](../as_1_10_building_dhatuh.md#L263), and endnotes `4023 / 4031 / 4039 / 4043` (Patañjali's five *prayojanāni*).
   - Scare-quote the two "pyramid's reductive list of the Vedas" cases: [as_0_01_preface.md:31](../as_0_01_preface.md#L31), [as_1_14_calibration.md:11](../as_1_14_calibration.md#L11).

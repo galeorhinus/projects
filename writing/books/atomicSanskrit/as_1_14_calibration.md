@@ -43,7 +43,7 @@ The four modes expose the civilizational contrast. In the Sanskritic ecology, wr
 
 The Abrahamic tradition elevates Scripture because the pyramid needs a controlled text. Whoever controls the written corpus controls the doctrine; whoever controls the doctrine controls the people. The same custody logic also explains progressive chronology capture, including the refusal to permit the more logical explanation that Aramaic evolved from Brāhmī (Appendix Part 3 §3.8).
 
-*Sanātan* built a distributed preservation ecology — writing for what writing can carry, memory for what story must carry, gesture for what the body must carry, and hearing for what only exact sound can carry. The preservation engineering mirrors the polity engineering developed earlier (Chapter 3 §3.6): single-medium maps to single-apex pyramid; four-mode distributed maps to non-pyramidal *Sanātan*.
+*Sanātan* built a distributed preservation ecology — writing for what writing can carry, memory for what story must carry, gesture for what the body must carry, and hearing for what only exact sound can carry. The preservation engineering mirrors the polity engineering developed earlier (Chapter 3 §3.7): single-medium maps to single-apex pyramid; four-mode distributed maps to non-pyramidal *Sanātan*.
 
 Single medium, single apex. Four modes, distributed civilization.
 

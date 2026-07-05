@@ -33,7 +33,7 @@ Constructed languages — often called conlangs, short for constructed languages
 
 Schleicher's PIE is a constructed language without the honesty of conlanging and without the engineering of a full conlang. The fictional-language projects build from the ground up: phonology first, morphology next, syntax next, vocabulary after that. Schleicher did none of that work. He collated forms from the real Indo-European languages, averaged them by the assumptions of the comparative method, replaced the Sanskrit *dhātavaḥ* that anchored the original family with reconstructed pseudo-atoms, and supplied enough connecting grammar to write a short fable. The result is not a constructed language. It is a reverse-averaged hypothesis dressed in starred forms.
 
-The fictional-language projects openly invent. Schleicher claimed to have found what he had made — he wore the discoverer's face over the inventor's work. The discipline inherited the claim. In Chapter 3 §3.6, this operating mode receives the Indic-categorical name *asuratva*; Schleicher is the named individual operator within the asuric pyramid's machinery.
+The fictional-language projects openly invent. Schleicher claimed to have found what he had made — he wore the discoverer's face over the inventor's work. The discipline inherited the claim. In Chapter 3 §3.7, this operating mode receives the Indic-categorical name *asuratva*; Schleicher is the named individual operator within the asuric pyramid's machinery.
 
 PIE is the conlang the conlangers' craft disowns.
 
@@ -215,17 +215,17 @@ The Western philological dogma pushes Sanskrit *asura-* through Indo-Iranian **\
 
 The Sanskrit-side chain is internal:
 
-> **स्वर् (*svar*, "sun, heaven, light, the bright firmament") →**  
-> **सुरः (*suraḥ*, "light") →**  
-> **असुरः (*asuraḥ*, "not-light," via privative *a-*) →**  
+> **⟪अस्⟫ (*as*, *to be*) →**  
+> **असु (*asu*, the life-breath, "set in the body") →**  
+> **असुरः (*asu-ra*, "the breath-bearer, the holder of the life-force") →**  
 > *bīja* in the proto-Iranian listener's head →  
 > **Avestan 𐬀𐬵𐬎𐬭𐬀 (*ahura*, *apaśabda*)**
 >
 > *atom → molecule → seed → sprout — life begins*
 
-The Sanskrit side is engineered, not reconstructed. Chapter 3 §3.6 lays out the morphology — *svar*, the self-luminous anchor; *suraḥ*, the engineered *śabda* for "light"; *asuraḥ*, the privative "not-light" built with *a-* — and makes it the structural diagnosis of the asuric operating mode. The pyramid reaches the same word from the other end: it takes *asura* to mean "lord, mighty one," reconstructs an imaginary ancestor behind it, and files the privative the *varṇamālā* assembles in plain sight as a later reinterpretation. One side documents an engineered form; the other bakes an ancestor-form to avoid it.
+The Sanskrit side is engineered, not reconstructed — and it is two words, not one. Chapter 3 §3.6 carries the full analysis: *asu-ra*, the breath-bearer the Ṛgveda praises in Indra and Varuṇa, and *a-sura*, the un-shining withholder — the privative of *sura*, the shining one from the *dhātu* ⟪सुर्⟫ — two derivations meeting on one form, catalogued in the open by Yāska. The pyramid could not hold two words on one form, so it reconstructed one imaginary ancestor behind both: the *contested* \**h₂n̥su-* "life force" — an ancestor-form baked to carry the very meaning, *asu*, the life-force, that Yāska's derivation states in plain sight. One side documents two engineered forms; the other bakes one ancestor to avoid them.
 
-The same morphology drives the vivimorphosis chain at the contact-language boundary. Avestan **𐬀𐬵𐬎𐬭𐬀 (*ahura*)** is the *apaśabda* — the organic form vivimorphosed in the Iranian receiving language, the *s* shifted to *h* under the regular Indo-Iranian sound law (the same shift Chapter 9 §9.5 traces in *Sindhuḥ* → *Hinduš*), the visarga stripped to a plain *-a*.
+The vivimorphosis at the contact-language boundary carries the breath-bearer, not the withholder. Avestan **𐬀𐬵𐬎𐬭𐬀 (*ahura*)** is the *apaśabda* of *asu-ra* — the organic form vivimorphosed in the Iranian receiving language, the *s* shifted to *h* under the regular Indo-Iranian sound law (the same shift Chapter 9 §9.5 traces in *Sindhuḥ* → *Hinduš*), the visarga stripped to a plain *-a*. Ahura Mazdā wears the breath-bearer's title because the breath-bearer is the word that traveled; the *a-sura*, the other word on the same form, never crossed the mountains. That is why the "Indo-Iranian reversal" the pyramid reconstructs never happened: nothing reversed, because the two languages hold two different words (Chapter 3 §3.6).
 
 The *apaśabda* *ahura* anchors the central theological vocabulary of the Zoroastrian tradition. The semantic transformation that accompanies the phonetic one — what *asura* means in the Sanskrit source and what *ahura* comes to mean in the Avestan recipient, and what the suric / asuric distinction carries forward as the cosmic backdrop for the political-architectural argument — is taken up in a forthcoming volume in the ***Second Shanti*** series. What this section isolates is the phonetic vivimorphosis: the same engineered form, carried into a contact language as the *Pratibimba* the Iranian religious imagination has held for the entire span of its tradition.
 
@@ -235,12 +235,12 @@ The *apaśabda* *ahura* anchors the central theological vocabulary of the Zoroas
 |---|---|---|
 | **The pyramid's etymology** *(Western philological account)* | PIE \**deiwós* "deity" < \**dyew-* "to shine" | PIE \**h₂nsu-* "life force, lord" (contested) |
 | **Status** | Pie in the sky | **PIE is a lie** |
-| ***dhātu*** *(Sanskrit constituent)* | दिव् (*div*, "to shine") | स्वर् (*svar*, "to shine") |
-| ***śabda*** *(Sanskrit calibrant; inorganic molecule)* | देवः (*devaḥ*) | सुरः (*suraḥ*, "light") → असुरः (*asuraḥ*, "not-light," via privative *a-*) |
+| ***dhātu*** *(Sanskrit constituent)* | ⟪दिव्⟫ (*div*, "to shine") | ⟪अस्⟫ (*as*, "to be") → असु (*asu*, "the life-breath") |
+| ***śabda*** *(Sanskrit calibrant; inorganic molecule)* | देवः (*devaḥ*) | असुरः (*asu-ra*, "the breath-bearer") |
 | ***bīja*** *(listener's seed)* | seed in proto-Italic listener | seed in proto-Iranian listener |
 | ***apaśabda*** *(organic form in contact language)* | Latin *deus* | Avestan 𐬀𐬵𐬎𐬭𐬀 (*ahura*) |
 
-**Process across all three vivimorphosis stages:** *apabhraṃśa* / vivimorphosis. **What IE philology treats as reconstructed ancestry:** the bottom row — the *apaśabdas*. **The seed (*bīja*) is the missing middle.**
+**Process across all three vivimorphosis stages:** *apabhraṃśa* / vivimorphosis. **What IE philology treats as reconstructed ancestry:** the bottom row — the *apaśabdas*. **The seed (*bīja*) is the missing middle.** The adversary-word — *a-sura*, the un-shining, the privative of ⟪सुर्⟫'s shining one — sits on the same Sanskrit form and takes no part in this chain; Chapter 3 §3.6 holds the two words apart.
 
 ## 18.8 One *Dhātu*, Three PIEs
 

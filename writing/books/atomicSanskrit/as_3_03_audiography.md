@@ -134,7 +134,7 @@ That is the archive of survival, not the archive of invention.
 
 Stone preserves what authority wanted preserved. The surviving inscriptions are apex speech carved into durable matter. They do not prove that writing began with the apex. They prove that the apex had the resources to make writing survive.
 
-The same pattern appears elsewhere. Hammurabi's stele. Darius's Behistun inscription. Egyptian pyramids and tomb inscriptions. Monumental authority survives because stone survives. The pyramid preserves itself in the material best suited to preservation. The ***asuric pyramid*** Chapter 3 §3.6 defines is not only a metaphor here. It is the literal shape stone preserves best.
+The same pattern appears elsewhere. Hammurabi's stele. Darius's Behistun inscription. Egyptian pyramids and tomb inscriptions. Monumental authority survives because stone survives. The pyramid preserves itself in the material best suited to preservation. The ***asuric pyramid*** Chapter 4 defines is not only a metaphor here. It is the literal shape stone preserves best.
 
 A distributed civilization leaves a different archive. Notes, teaching aids, accounts, letters, mnemonic prompts, working drafts, student exercises, household records, market communication — these live on palm leaf, birch bark, wood, cloth, temporary tablets. In the Indian climate, that archive dies. The absence of surviving notebooks is not evidence that no one wrote notes. It is evidence that stone survives and palm leaf rots.
 
@@ -260,7 +260,7 @@ The Brāhmī-from-Aramaic narrative persists because writing is foundational ins
 
 The Hebrew Bible declares the written word as the medium of the covenant. The Torah is given in writing on Sinai. The Christian gospel of John opens with *the Word was God* — the *logos*. The Qurʾān's first revelation to Muḥammad begins with *iqraʾ* — read, recite. All three original Abrahamic religions are religions of the written word. All three place authority in a textual act.
 
-The ***fourth Abrahamic religion*** — the asuric formation Chapter 3 §3.6 anchors — inherits the same orientation in secular form. Its foundational dogma makes the modern academy's history of civilization a history of writing. Civilization begins where writing begins. Writing systems become the index of civilizational origin. Sumerian cuneiform, Egyptian hieroglyphs, Phoenician alphabet, Greek vowel letters, Latin script — these become the foundational moments the foundational dogma identifies.
+The ***fourth Abrahamic religion*** — the asuric formation Chapter 4 anchors — inherits the same orientation in secular form. Its foundational dogma makes the modern academy's history of civilization a history of writing. Civilization begins where writing begins. Writing systems become the index of civilizational origin. Sumerian cuneiform, Egyptian hieroglyphs, Phoenician alphabet, Greek vowel letters, Latin script — these become the foundational moments the foundational dogma identifies.
 
 This is not neutral. It places the engineering of writing inside the Near-Eastern-to-European corridor. Later scripts, including Brāhmī, become adaptations of templates that originated there. The progressive dogma then adds the time-axis: later-along-the-corridor becomes more advanced. The two doctrinal strata complete the enclosure.
 
@@ -270,7 +270,7 @@ The sonomer threatens the pyramid more directly than the audiograph. The audiogr
 
 A claim by Indian civilization to have engineered its script independently would dislocate the foundational claim. A stronger claim — that India first isolated the sonomers, produced the *varṇamālā*, and then rendered that sonomeric architecture as Brāhmī — does more. It relocates the foundation from writing to sound.
 
-The Brāhmī-from-Aramaic narrative is not random. It defends the foundational civilizational claim Chapter 3 §3.6 establishes. It is the script-level analogue of the Sanskrit-from-PIE narrative. Both do the same asuric work in different media. The main argument dismantles the second. The prosecution now isolates the first as a parallel target.
+The Brāhmī-from-Aramaic narrative is not random. It defends the foundational civilizational claim Chapter 4 establishes. It is the script-level analogue of the Sanskrit-from-PIE narrative. Both do the same asuric work in different media. The main argument dismantles the second. The prosecution now isolates the first as a parallel target.
 
 ## 3.10 The Work Ahead
 

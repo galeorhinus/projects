@@ -112,7 +112,7 @@ The pyramid does not know Sanskrit's origin. It has no inscription of PIE, no sp
 1. A reconstruction method was built in nineteenth-century Europe from comparison among Sanskrit, Greek, Latin, Germanic, Iranian, and related languages.
 2. The method inferred an imaginary ancestor: ***Proto-Indo-European***.
 3. The imaginary ancestor was treated as historically prior to Sanskrit, even though Sanskrit is real, recited, taught, and operating while PIE is not.
-4. The ancestor had to sit outside India, because a calibrant engineered within India proves order can stand without an apex — the pyramid's founding threat (Chapter 3 §3.6). He can dominate that civilization, but he cannot claim the world's most precise language if the calibrant stands inside it.
+4. The ancestor had to sit outside India, because a calibrant engineered within India proves order can stand without an apex — the pyramid's founding threat (Chapter 3 §3.7). He can dominate that civilization, but he cannot claim the world's most precise language if the calibrant stands inside it.
 5. A mechanism was then needed by which Sanskrit entered India. That mechanism became the racial Arya thesis: invasion first, migration later, the same racialized premise underneath both.
 6. When Sanskrit displayed subcontinental features, especially the retroflex row, the pyramid's account called them substrate borrowings instead of evidence that Sanskrit's engineering operates from inside the subcontinental sound-field.
 7. When Vedic preservation showed extraordinary stability, the pyramid's account called it late conservatism rather than engineered anti-entropy.
@@ -129,7 +129,7 @@ The pyramid's speculation is not neutral reason correcting the Hindu continuum. 
 
 The same machinery that calls Hindu civilizational memory "mythology" asks the world to treat its own constructed ancestor as science. Sanskrit, preserved in sound and use, was declared dead. PIE, preserved nowhere, recited nowhere, spoken by no known community, was granted ancestral life.
 
-That is the inversion. The speculation is not absent. It is wearing the robes of the ***priests of progress***, defended by its ***jihadis of progress***, exported by its ***missionaries of progress*** — the ***church of progress*** operating in *asuric* mode (Chapter 3 §3.6).
+That is the inversion. The speculation is not absent. It is wearing the robes of the ***priests of progress***, defended by its ***jihadis of progress***, exported by its ***missionaries of progress*** — the ***church of progress*** operating in *asuric* mode (Chapter 3 §3.7).
 
 ## 17.6 The Migration Trap
 
