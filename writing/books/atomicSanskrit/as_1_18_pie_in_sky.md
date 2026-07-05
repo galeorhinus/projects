@@ -145,7 +145,7 @@ Contemporary entries extend past real Sanskrit to a reconstructed terminus:
 
 The Sanskrit side has the architecture visible:
 
-> **युज् (*yuj*, *dhātuḥ* "to join, to yoke") →**  
+> **⟪युज्⟫ (*yuj*, *dhātuḥ* "to join, to yoke") →**  
 > **युग (*yuga*, *śabda* — the yoking, the yoke) →**  
 > *bīja* in receiving listeners' minds →  
 > **Old English *geoc* / Latin *iugum* / Greek *zugón* / English *yoke* (*apaśabdas*)**
@@ -181,7 +181,7 @@ What does the contacted language carry afterward? A reflection. Sanskrit has the
 
 The *mother* family becomes clear:
 
-> **मा (*mā*, *dhātuḥ* "to measure") →**  
+> **⟪मा⟫ (*mā*, *dhātuḥ* "to measure") →**  
 > **मातृ (*mātṛ*, *śabda* — "the measurer, mother") →**  
 > **बीज (*bīja*)** in the receiving listeners' minds →  
 > **Latin *māter* / Greek *mētēr* / Old English *mōdor* / Modern English *mother* (*apaśabdas*)**
@@ -192,7 +192,7 @@ The chain just walked is *Pratibimba* operating through **vivimorphosis** — th
 
 The same pattern appears in *devaḥ*:
 
-> **दिव् (*div*, *dhātuḥ* "to shine") →**  
+> **⟪दिव्⟫ (*div*, *dhātuḥ* "to shine") →**  
 > **देवः (*devaḥ*, *śabda* — the shining one) →**  
 > *bīja* in the proto-Italic listener's head →  
 > **Latin *deus* (*apaśabda*)**
