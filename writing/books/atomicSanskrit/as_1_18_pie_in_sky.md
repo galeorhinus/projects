@@ -115,13 +115,14 @@ Brugmann's reconstruction falls to **0.73**. The standard / laryngeal reconstruc
 
 ## 18.5 The Recipe, Step by Step
 
-Four words hang in every English-speaking wardrobe: *shirt*, *skirt*, *short* — and, for the abrupt, *curt*. The dictionary files all four in one family, and the family tree printed for them has become a small internet celebrity: a bright wheel with some sixty English words around the rim — *shear, share, score, shred, sharp, cortex, carnal, carnival* — and at the hub a gray circle holding the claimed ancestor of them all: **\*(s)ker-**, "to cut." The wheel is handsome, confident, and widely shared. No Sanskrit appears anywhere on it.
+Four words hang in every English-speaking wardrobe: *shirt*, *skirt*, *short* — and, for the abrupt, *curt*. The dictionary files all four in one family, and the family tree printed for them has become a small internet celebrity: a bright wheel with some sixty English words around the rim — *shear, share, score, shred, sharp, cortex, carnal, carnival* — and at the hub a gray circle marked PIE, holding the claimed ancestor of them all: **\*(s)ker-**, "to cut." The wheel is handsome, confident, and widely shared. No Sanskrit appears anywhere on it.
 
 ![Figure 18.2 — \*(s)ker- — the Phantom of Cutting. The wheel simplified to its own topology — their branches, their notation, nothing added: dashed = never spoken. No Sanskrit on the page.](figures/pie_in_sky/sker_pie_tree.svg){#fig:ch18-sker-phantom width=100%}
 
 The hub's own notation makes three confessions, printed in plain sight. The asterisk is the first: the form was never spoken, never heard, never written by anyone — it is a procedural average, the bake this chapter opened with. The parentheses around the *s* are the second. Some daughters carry the *s* (*shirt*, *score*, *shear*); others lack it (*curt*, *cortex*, and Latin's whole wing); and the reconstruction cannot say why. The discipline's term for this is the *s-mobile* — a consonant with no source, no rule, no conditioning environment, and no meaning, "mobile" because it comes and goes as the data demands.[NOTE: s-mobile-root-extension-confessions] The *t* is the third confession. *Curtus* and \*skurtaz have it; \*skeraną and *carō* do not; so the handbooks posit a "root extension" — \*(s)ker-t- beside \*(s)ker-, with sibling extensions in *-d-* and *-p-* for other awkward cousins — and concede, in their own pages, that the extensions carry no identifiable meaning and follow no rule. A phantom base, a floating consonant, a meaningless appendix. That is the hub of the wheel.
 
 All that acrobatics to hide the real origin of these words: the Sanskrit atom **⟪कृत्⟫ (*kṛt*)**.
+
 **⟪कृत्⟫ (*kṛt*)** sits in the Dhātupāṭha's *tudādi* list with its meaning declared: **छेदने (*chedane*)** — *in cutting*.[NOTE: krt-dhatupatha-chedane] Three sounds: *k*, *ṛ*, *t*. The present is *kṛntati* — *she cuts*. The *t* the reconstruction must bolt on as an "extension" is the atom's own final sound; the vowel the reconstruction must delete by "zero grade" was never there to delete — the form the pyramid writes as \*(s)kr̥t- and derives by two operations is कृत्, on its surface, as the citation form.
 
 Abandon the obsession with an imaginary language spoken by imaginary people, and Sanskrit offers an answer that requires more logic and less imagination.
@@ -189,9 +190,6 @@ The Sanskrit side has the architecture visible:
 
 One chain starts from a real Sanskrit *dhātu*. The other starts from a starred form.
 
-<!-- AISWEEP-OLD
-The pattern holds across word categories. The Sanskrit side is documented through the engineering architecture; only the contact-language end is treated by the Western philological account as a sibling of an invented PIE form.
-AISWEEP-END -->
 Across word categories the Sanskrit side is documented through the engineering architecture; only the contact-language end is treated by the Western philological account as a sibling of an invented PIE form. PIE is suspended above Sanskrit as an imaginary ancestor. It does not explain the ground from which Sanskrit actually rises. The ground is the Indian mouth, the Indian sound-field, the *varṇamālā*, the *dhātavaḥ*, the grammar, the *Vedas*, and the anti-entropy preservation system that has held the engineered architecture across thousands of years.
 
 PIE can organize a comparative label; it cannot supply an etymon. The asterisk signals a non-existence, and non-existence is not a source. The etymon of *mother* is Sanskrit *mātṛ*. The etymon of *father* is Sanskrit *pitṛ*. The reflections — **प्रतिबिम्ब (*Pratibimba*)** — that the calibrated languages carry are the calibrant's footprint, not evidence of a vanished ancestor.
