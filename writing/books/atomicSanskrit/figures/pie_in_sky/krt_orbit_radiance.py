@@ -127,12 +127,15 @@ def main():
     # --- zone labels ---
     ax.text(0.55, 2.02, "radiance", fontsize=6.4, color=ACCENT,
             ha="center", style="italic")
-    # --- the mis-cut device: the word before donates its s at the boundary ---
-    ax.text(-0.55, -2.30, "नमस्कार · संस्कृतम् — the s belongs to the word before:",
+    # --- the mis-cut device (schematic): the word before donates its s ---
+    # NOTE: lexical s+k flagships (namaskāra, saṃskṛtam) are kṛ-family and live
+    # in the Recipe prose, where the kṛ/kṛt distinction is stated; the figure
+    # shows the mechanism on this atom schematically.
+    ax.text(-0.55, -2.30, "the s rides in from the word before:",
             fontsize=6.2, color=ACCENT, ha="center", style="italic")
-    ax.text(-0.55, -2.52, "namas·kāra    saṃs·kṛtam       (the boundary)",
-            fontsize=6.2, color=FILL, ha="center")
-    ax.text(-0.55, -2.74, "heard as   nama·skā-    saṃ·skṛ-   --   the seed keeps the s",
+    ax.text(-0.55, -2.52, "…s | kṛt-…        (the boundary)",
+            fontsize=6.6, color=FILL, ha="center")
+    ax.text(-0.55, -2.74, "heard as   … | skṛt-…   --   the seed keeps the s",
             fontsize=6.2, color=ACCENT, ha="center", style="italic")
     ax.text(2.45, -2.52, "the t was always in the atom",
             fontsize=6.4, color=ACCENT, ha="center", style="italic")
