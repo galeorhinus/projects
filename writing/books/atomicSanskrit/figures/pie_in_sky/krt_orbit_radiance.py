@@ -67,7 +67,7 @@ def tree(ax, bx, by, head, head_sub, leaves, dashed_head=False, leaf_dx=0.72):
 def main():
     fig, ax = setup(figsize=(4.5, 3.4))
     ax.set_xlim(-3.55, 3.55)
-    ax.set_ylim(-2.28, 2.34)
+    ax.set_ylim(-2.95, 2.34)
     ax.set_aspect("equal")
     ax.axis("off")
 
@@ -127,11 +127,14 @@ def main():
     # --- zone labels ---
     ax.text(0.55, 2.02, "radiance", fontsize=6.4, color=ACCENT,
             ha="center", style="italic")
-    ax.text(0.62, -1.78, "the s: a mis-cut word boundary —",
-            fontsize=5.9, color=ACCENT, ha="center", style="italic")
-    ax.text(0.62, -1.98, "saṃ-s-kṛta · namas-kāra · duṣ-kṛta",
-            fontsize=5.9, color=ACCENT, ha="center", style="italic")
-    ax.text(2.45, -2.20, "the t was always in the atom",
+    # --- the mis-cut device: the word before donates its s at the boundary ---
+    ax.text(-0.55, -2.30, "नमस्कार · संस्कृतम् — the s belongs to the word before:",
+            fontsize=6.2, color=ACCENT, ha="center", style="italic")
+    ax.text(-0.55, -2.52, "namas·kāra    saṃs·kṛtam       (the boundary)",
+            fontsize=6.2, color=FILL, ha="center")
+    ax.text(-0.55, -2.74, "heard as   nama·skā-    saṃ·skṛ-   --   the seed keeps the s",
+            fontsize=6.2, color=ACCENT, ha="center", style="italic")
+    ax.text(2.45, -2.52, "the t was always in the atom",
             fontsize=6.4, color=ACCENT, ha="center", style="italic")
 
     for name in ("krt_orbit_radiance.from-py.svg", "krt_orbit_radiance.svg"):
