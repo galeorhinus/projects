@@ -58,7 +58,7 @@ Current anchors:
 Proposed changes:
 
 1. Keep *apabhraṃśa* as falling-away.
-2. After Figure 6.1, add a short bridge:
+2. **DONE (2026-07-06):** the author revised Figure 6.1 itself into the orbital form (gauḥ as small sun with rays; the four apabhraṃśas as satellites on faint rings, labeled by deviation type), and the seed paragraph now follows it in §6.3: gravity + orbit + field introduced, radiance withheld for Ch18, closing "the fall of a satellite, not of a leaf. What becomes of a form that leaves the field altogether is Chapter 18's story." Original bridge draft below for reference:
 
    > The fall is not the same in every field. Inside the Indic field, Sanskrit's gravity remains active. A form may move outward from *gauḥ*, but it can still remain in orbit: visible, measurable, and pulled back toward the source. Outside that field, a reflected form can travel farther and drift.
 

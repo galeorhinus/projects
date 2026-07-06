@@ -56,7 +56,9 @@ Each variant falls away differently. *Gāvī* lengthens and reshapes the form. *
 
 Patañjali does not list these as alternative correct forms. He lists them as corruptions of one correct form. The point is not schoolmaster prescription. It is specification. *Gauḥ* is the engineered form. The others are what speech produces when articulation slips, memory thins, or transmission degrades.
 
-![Figure 6.1 — *Gauḥ* and Its Four Canonical *Apabhraṃśas*. Patañjali's example made visible: one calibrated form, many falling-away forms.](figures/apabhramsa/gauh_four_apabhramsas.svg){#fig:apabhramsa-gauh-four-apabhramsas width=90%}
+![Figure 6.1 — *Gauḥ* and Its Four Canonical *Apabhraṃśas*. Patañjali's example made visible: one calibrated form; four falls, each at its own distance, all held in orbit.](figures/apabhramsa/gauh_four_apabhramsas.svg){#fig:apabhramsa-gauh-four-apabhramsas width=90%}
+
+The figure's geometry carries the point. The four forms fall at different distances, but every one of them falls *around* the calibrant — none falls into nothing. Inside the Indic field, Sanskrit's gravity holds: a form can fall far from *gauḥ* and remain in orbit, visible and measurable against the center it fell from. *Apabhraṃśa* is a fall inside a field — the fall of a satellite, not of a leaf. What becomes of a form that leaves the field altogether is Chapter 18's story.
 
 Modern linguistics later labeled phonetic erosion, morphological reanalysis, and lexical replacement. Patañjali had the phenomena in front of him. He gave them their names, measured their asymmetry, and placed grammar on the side of the engineered form — thousands of years before any modern philological project.
 
