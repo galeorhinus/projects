@@ -1,7 +1,59 @@
 # Chapter 18 Rewrite Plan — *mother* → *jan*, and the Bakery That Scaled
 
-Status: **PLAN — awaiting decisions + verification gate.** Nothing deployed.
+Status: **PLAN — verification COMPLETE (2026-07-06). Thesis corrected; awaiting go to write.** Nothing deployed.
 Created 2026-07-06. Companion to `working/orbit_radiance_deployment_plan.md` (the orbit/radiance thread, already deployed).
+
+---
+
+## VERIFICATION RESULTS (2026-07-06) — all three Gemini quotes were FABRICATED; the real evidence is stronger
+
+Three background agents checked the primary texts (archive.org scans + Project Gutenberg). **Not one of Gemini's three quotations survived.** The real material, verified verbatim against the scans, reframes the chapter's claim into something more defensible and better-suited to the "bakery scaled" narrative.
+
+### Killed (do NOT use — fabricated / mis-sourced)
+- ❌ Skeat's *"I have therefore used the Sanskrit forms as the best representatives of the original Aryan roots"* — **not in the 1882 text at all.** Skeat in fact *distinguishes* his (reconstructed, unstarred) "Aryan" root-forms from the Sanskrit forms.
+- ❌ Skeat "Root 119 JAN" / "Root 37 KART" / GENUS "Root JAN… Skt. janas, a race" / CURT "Allied to Skt. kṛt" — **all false as worded** (real forms below; and Skeat derives CURT from **√SKAR**, not kṛt).
+- ❌ Chambers *"[A.S. cynn; Goth. kuni; Icel. kyn; from Sans. jan, to beget.]"* — **matches no Chambers edition**; that phrasing is actually *Webster's*.
+- ❌ Müller *"They are all derived from the Sanskrit root JAN, to beget, to produce."* — **fabricated**, and not in the 1861 First Series (the real passages are Second Series, 1863).
+
+### Confirmed verbatim (USE THESE)
+
+**Chambers's Etymological Dictionary, ed. James Donald (1872), p. 281:**
+- KIN: *"[A.S. cyn. Ice. kyn, family, race; A.S. cennan, to beget; akin to jan, to beget, root of Genus.]"*
+- KING: *"King, king, n. lit. the father of a people… [A.S. cyning—cyn, offspring; Sans. ganaka, father—root gan, to beget.] See Kin."*
+- Structural point: chains end at a real, **un-starred** Sanskrit "to beget" root; no reconstructed proto-form. (19th-c. orthography writes √jan as *gan/jan* interchangeably — flag in endnote.)
+
+**Skeat, *Etymological Dictionary*, 1st ed. 1882 (archive.org `in.ernet.dli.2015.83588`):**
+- Roots-list intro: *"The following is a brief list of the principal Aryan roots occurring in English."* … *"The roots are arranged according to the alphabetical order of the Sanskrit alphabet, by help of which we obtain an Aryan alphabet."* … key: *"Forms in thick type, as AK, are Aryan; forms in parenthesis, as (AH), are Teutonic."*
+- Root **87**: *"√GA, to beget, produce… GAN… Skt. jan, to beget; Gk. γέν-ος, race… Lat. gi-gn-ere, to beget…"*
+- Root **60**: *"√KART (= √HRAD, HRAND), to cut. Skt. kṛt, to scratch, cut… Lat. cult-er, a knife…"*
+- GENUS: *"GENUS, breed, race, kin. (L.)… — √GAN, to beget; cf. Skt. jan, to beget… Doublet, kin, q.v."*
+- CURT: *"CURT, short, concise. (L.)… — Lat. curtus, docked, clipped. — √SKAR, to shear, cut; whence also E. shear… See Shear."*
+- **Asterisk-absence CONFIRMED:** roots print as √GAN, √KART, √SKAR — no leading `*`.
+
+**Skeat's own-edition DRIFT — the killer exhibit (CONFIRMED):** between the 1882/1888 editions and the later "New & Revised" (4th) edition, Skeat's *own* dictionary migrated:
+- appendix title *"List of **Aryan** Roots"* → *"List of **Indogermanic** Roots"*
+- GENUS root **√GAN → √KN**; Latin stem *"(stem gener-)"* [no asterisk] → *"(stem gener-, **for \*genes-**)"* citing **Brugmann i. §604**
+- CURT root **√SKAR → √SKER**
+- authorities **Fick / Curtius / Vaniček → Brugmann / Uhlenbeck / Prellwitz / Kluge**
+- body proto-forms: attested → **starred** (e.g. Teut. *"\*audan-"*)
+
+**Müller, *Lectures on the Science of Language*, Second Series (1863):**
+- Lec. IV (~p.193): *"Thus jan, which means to create, to produce, and which we find in Sk. janas, Gr. génos, genus, kin, is raised to jnâ…"* (gloss is *to create, to produce* — not *to beget*)
+- Lec. V *Grimm's Law* (~p.242–43): *"The English kin is Gothic kuni… In Greek génos, Lat. genus, Sk. janas, we have the same word… just as king… meant originally, like Sk. janaka, father."*
+- Lec. VI (~p.255–56): *"…the name Konig, or King… corresponds to the Sanskrit janaka. What did it mean? It simply meant father, the father of a family, 'the king of his own kin,' the father of a clan, the father of a people."*
+- **CAVEAT (load-bearing):** Müller's frame is **comparative-cognate** — *"the same word," "like Sk. janaka"* — Sanskrit as best-preserved *witness*, NOT parent. The book must NOT say Müller derived English *from* Sanskrit.
+
+### CORRECTED THESIS for §18.6 (stronger, fully verified, and exactly the "bakery" narrative)
+
+Old (overstated, partly false): *the old dictionaries credited Sanskrit as the source.*
+New (verified, ironclad): **the asterisk was added over time.** 19th-c. philology anchored these etymologies on **real, attested, un-starred** words — including real Sanskrit (*jan, janaka, ganaka, kṛt*), even where it posited a common "Aryan" root (written *without* an asterisk, ordered by the Sanskrit alphabet). The bakers then **inserted starred reconstructions** above the real forms, renamed "Aryan" → "Indogermanic," swapped Fick/Curtius for Brugmann, and demoted the real Sanskrit to "one cognate among many." **Skeat's own dictionary is the proof, inside one publisher's revision history:** √GAN → √KN, *(stem gener-)* → *(for \*genes-)*, √SKAR → √SKER, Aryan → Indogermanic, Fick → Brugmann. The asterisk *is* the bake; you can watch it arrive.
+
+### Consequent corrections to the plan below
+- **§18.4 bakery-scaled beat is now DOCUMENTED, not asserted** — build it on the Skeat edition-drift (name **Brugmann** as the baker who came in; Fick/Curtius as the un-starred predecessors).
+- **§18.6** runs on **king / kin / genus** (Chambers + Skeat + Müller), on the *asterisk-added* thesis, with the Müller comparative caveat respected. **king = "the father of a people"** (Chambers *ganaka* + Müller *janaka*) → the masculine-apex / *the Father* thread.
+- **DROP the kṛt-gets-Skeat-corroboration idea** — Skeat 1882 already routed CURT through the s-mobile **√SKAR**, not kṛt. §18.5's kṛt case stands on its own Pāṇinian grounds. Optional honest note: even Skeat filed *curt* under the s-mobile root — the capture the book diagnoses was already operating.
+- **Opening word:** recommend **king** (dual-documented, carries the apex/Father theme, clean then→now shift). *mother* ret+ *yoke* can retire, or *mother* stays only if you want the iconic asterisk illustration (its AHD-1992/MW-1993 blockquotes are plausible but UNVERIFIED — would need the same gate).
+- Full-text scans saved locally in scratchpad (`skeat_83588.txt`, `skeat_1888.txt`, etc.) for pulling more verbatim entries at draft time.
 
 ---
 
