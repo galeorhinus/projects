@@ -139,9 +139,9 @@ Now the tally. To reach *shirt*, *skirt*, *short*, and *curt*, the pyramid stack
 
 And the case generalizes, because the case is a recipe. Delete the source language from the page. Average the reflections that remain. Star the average and install it as the ancestor. Convert every residue the average cannot digest into a device — a mobile consonant, a meaningless extension, an unpronounceable laryngeal. File the source language as one more daughter of its own reflections. Run the recipe entry by entry, and the etymological dictionary assembles itself — tree after handsome tree, each standing on a phantom, the Sun nowhere on the page.
 
-![Figure 18.4 — \*ǵenh₁ — the Phantom of Birth. Their tree, their notation: dashed = never spoken. No Sanskrit on the page.](figures/pie_in_sky/genh_pie_tree.svg){#fig:ch18-genh-phantom width=100%}
+![Figure 18.4 — \*ǵenh₁ — the Phantom of Birth. Another popular tree, trimmed the same way — their branches, their notation, nothing added: dashed = never spoken. No Sanskrit on the page.](figures/pie_in_sky/genh_pie_tree.svg){#fig:ch18-genh-phantom width=100%}
 
-The recipe reruns wherever it is pointed. The birth-family is the same tree again: \*ǵenh₁ "to give birth" over *nation*, *nature*, *gene*, *kind*, and *king*, with no Sanskrit on the page — while **⟪जन्⟫ (*jan*)** sits in the Dhātupāṭha carrying both of the phantom's meanings, its words alive from *janma* to Bengali *jônmo*.[NOTE: jan-dhatupatha-double-entry]
+The recipe reruns wherever it is pointed — the same imaginary race, the same imaginary language. The birth-family is another such tree: \*ǵenh₁ "to give birth" spread over *nation*, *nature*, *gene*, *kind*, and *king*, with no Sanskrit on the page — while **⟪जन्⟫ (*jan*)** sits in the Dhātupāṭha carrying both of the phantom's meanings, its words alive from *janma* to Bengali *jônmo*.[NOTE: jan-dhatupatha-double-entry]
 
 ![Figure 18.5 — ⟪जन्⟫ · Orbit and Radiance — the Birth-Atom. The words orbit; the radiance seeds far soil; trees grow where the light lands.](figures/pie_in_sky/jan_orbit_radiance.svg){#fig:ch18-jan-orbit width=100%}
 
