@@ -9,9 +9,9 @@ reproduces the pyramid's account faithfully; the caption does the work.
 
 Word data (all from the pyramid's own chart / standard dictionaries):
   root   : *ǵenh₁ "to give birth"           [reconstructed — dashed]
-  Latin  : genus "kind, race"; (g)nātus "born"
+  Latin  : genus "stock, race"; (g)nātus "born"
            → nation, nature, native, gender
-  Greek  : génos "kind, race"; génesis
+  Greek  : génos "stock, race"; génesis
            → genesis, gene
   PGmc   : *kunją [reconstructed — dashed]
            → kind, kin, king, kindergarten
@@ -63,8 +63,8 @@ def main():
 
     # --- branch-heads ---
     heads = [
-        (-2.5, 1.55, "genus · (g)nātus", "Latin — “kind, race” · “born”", False),
-        (0.0,  1.55, "génos", "Greek — “kind, race”", False),
+        (-2.5, 1.55, "genus · (g)nātus", "Latin — “stock, race” · “born”", False),
+        (0.0,  1.55, "génos", "Greek — “stock, race”", False),
         (2.5,  1.55, "*kunją", "Proto-Germanic", True),
     ]
     for x, y, t, s, d in heads:
