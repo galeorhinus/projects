@@ -423,7 +423,7 @@ And the case generalizes, because the case is a recipe. Delete the source langua
 
 [FIGURE 18.x-B: *The Sun restored.* — ⟪कृत्⟫ at center; *kṛtta, kartana, kartarī, kṛntati* in near orbit; the living cutting-words — Hindi *kāṭnā*, Marathi *kātarṇe*, Bengali *kāṭā*, Punjabi *kaṭṇā*, Kannada *kattari*, Telugu *kattera* — in far orbit; three radiance rays landing on Latin and Germanic surfaces, a small tree sprouting at each landing point. `figures/pie_in_sky/krt_orbit_radiance.svg`]
 
-The restored picture needs no devices. The atom sits at the center, listed and glossed. The derivations orbit it by stated rule. The living languages carry the cutting-words in daily mouths — a Kannada tailor's *kattari* is *kartarī*, the scissors, still cutting. Beyond the field, the rays land where the carriers took them, and trees grow at the landing points — *curt* and *cortex* on the Latin surface, *shirt* and *skirt* and *short* where the boundary-*s* rode along, *shear* and *share* where it did not. In Sanskrit the *s* has a source, a position, and a meaning. In PIE it has parentheses.
+Sanskrit needs no devices. The atom sits at the center, listed and glossed. The derivations orbit it by stated rule. The living languages carry the cutting-words in daily mouths — a Kannada tailor's *kattari* is *kartarī*, the scissors, still cutting. Beyond the field, the rays land where the carriers took them, and trees grow at the landing points — *curt* and *cortex* on the Latin surface, *shirt* and *skirt* and *short* where the boundary-*s* rode along, *shear* and *share* where it did not. In Sanskrit the *s* has a source, a position, and a meaning. In PIE it has parentheses.
 
 ---
 

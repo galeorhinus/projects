@@ -147,7 +147,7 @@ The recipe reruns wherever it is pointed — the same imaginary race, the same i
 
 ![Figure 18.3 — ⟪कृत्⟫ · Orbit and Radiance — the Cut-Atom. The words orbit; the radiance seeds far soil; the tree is never the source.](figures/pie_in_sky/krt_orbit_radiance.svg){#fig:ch18-krt-orbit width=100%}
 
-The restored picture needs no devices. The atom sits at the center, listed and glossed. The derivations orbit it by stated rule. The living languages carry the cutting-words in daily mouths — a Kannada tailor's *kattari* is *kartarī*, the scissors, still cutting. Beyond the field, the rays land where the carriers took them, and trees grow at the landing points — *curt* and *cortex* on the Latin surface, *shirt* and *skirt* and *short* where the boundary-*s* rode along, *shear* and *share* where it did not. In Sanskrit the *s* has a source, a position, and a meaning. In PIE it has parentheses.
+Sanskrit needs no devices. The atom sits at the center, listed and glossed. The derivations orbit it by stated rule. The living languages carry the cutting-words in daily mouths — a Kannada tailor's *kattari* is *kartarī*, the scissors, still cutting. Beyond the field, the rays land where the carriers took them, and trees grow at the landing points — *curt* and *cortex* on the Latin surface, *shirt* and *skirt* and *short* where the boundary-*s* rode along, *shear* and *share* where it did not. In Sanskrit the *s* has a source, a position, and a meaning. In PIE it has parentheses.
 
 ## 18.6 Mother, Yoke, and the Dictionary Shift
 
