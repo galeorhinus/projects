@@ -127,17 +127,17 @@ def main():
     # --- zone labels ---
     ax.text(0.55, 2.02, "radiance", fontsize=6.4, color=ACCENT,
             ha="center", style="italic")
-    # --- the mis-cut device (schematic): the word before donates its s ---
-    # NOTE: lexical s+k flagships (namaskāra, saṃskṛtam) are kṛ-family and live
-    # in the Recipe prose, where the kṛ/kṛt distinction is stated; the figure
-    # shows the mechanism on this atom schematically.
-    ax.text(-0.55, -2.30, "the s rides in from the word before:",
+    # --- the confusion device: the famous s belongs to the OTHER atom ---
+    # suṭ is atom-locked to ⟪कृ⟫ (P.6.1.137 karotau); offered to ⟪कृत्⟫ the
+    # grammar refuses it (saṅkṛntati, parikṛntati — corpus-attested, no s).
+    # The ear that cannot tell the two atoms apart hears skṛt- as one unit.
+    ax.text(-0.55, -2.30, "the famous s belongs to कृ (kṛ), to make:  saṃ·s·kṛ·ta — suṭ + kta",
+            fontsize=6.2, color=FILL, ha="center")
+    ax.text(-0.55, -2.52, "offered to कृत् (kṛt) the grammar refuses it:  saṅkṛntati · parikṛntati",
             fontsize=6.2, color=ACCENT, ha="center", style="italic")
-    ax.text(-0.55, -2.52, "…s | kṛt-…        (the boundary)",
-            fontsize=6.6, color=FILL, ha="center")
-    ax.text(-0.55, -2.74, "heard as   … | skṛt-…   --   the seed keeps the s",
+    ax.text(-0.55, -2.74, "the ear that cannot tell them apart hears one unit:  skṛt-",
             fontsize=6.2, color=ACCENT, ha="center", style="italic")
-    ax.text(2.45, -2.52, "the t was always in the atom",
+    ax.text(2.55, -2.74, "the t was always in the atom",
             fontsize=6.4, color=ACCENT, ha="center", style="italic")
 
     for name in ("krt_orbit_radiance.from-py.svg", "krt_orbit_radiance.svg"):
