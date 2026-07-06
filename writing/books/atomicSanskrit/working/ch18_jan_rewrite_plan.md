@@ -43,6 +43,24 @@ They complement; they do not overlap. §18.5's *jan* rerun stays a single paragr
 
 ---
 
+## 3A. The triad — imaginary people, imaginary language, imaginary words
+
+Upgrade the chapter's existing **pair** (RAT = imaginary people; PIE = imaginary language) to a **triad** by adding the third leg the rewrite proves: **the asterisk marks the imaginary word** (`*ǵenh₁`, `*(s)ker-`, `*genes-`). The three nest by scale —
+
+> an imaginary **people**, speaking an imaginary **language**, built from imaginary **words**
+
+— which is the book's own fractal (atom → language → civilization) run in reverse as fabrication. Connective line: **the asterisk is the one visible confession** — printed on the word, the language assembled from those words, the people posited to have spoken it. *One mark, three fictions.*
+
+Keep the counter-asymmetry clean: the real story has a real **custodial civilization** (the lineage-chain) preserving a real language of real words — **not a real race**. The triad demolishes RAT's "people" without positing a designing people (stays inside *apauruṣeyatva*). "Imaginary words" = the **starred reconstructions**, never the real daughter words (*kin, king, curt* are real) — always tie it to the asterisk so the distinction is unmistakable.
+
+**Deployment (ration — 3 sites, not 4):**
+1. **§18.2 — canonical statement (primary).** Extend the paired-invention blockquote: *…and the starred etyma supply the imaginary words — forms no mouth ever made.*
+2. **§18.6 — verdict close (primary).** *An imaginary people, speaking an imaginary language, built from imaginary words — and the only real thing in the story is the Sanskrit it was reverse-engineered from.*
+3. **§18.5 — cheap callback.** Existing *"the same imaginary race, the same imaginary language"* → add *"…the same imaginary words."*
+4. **§18.8/18.9 — HOLD in reserve.** Only if the close wants it; skip to avoid over-deploying.
+
+---
+
 ## 4. VERIFIED EVIDENCE DOSSIER (use these; nothing else)
 
 All verbatim from the primary scans. 19th-c. orthography writes Sanskrit √jan (जन्) as *gan/jan* interchangeably (palatal *g*); flag once in an endnote so it reads as historical spelling, not inconsistency.
