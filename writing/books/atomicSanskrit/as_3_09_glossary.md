@@ -82,7 +82,7 @@ The glossary is organized in three groups:
 
 ### **upasarga** (उपसर्ग) / **upasargāḥ** (उपसर्गाः)
 
-**Standard.** The 22 directional / aspectual prefix-particles that bond with *dhātavaḥ* in derivation. Pāṇini A.1.4.59 lists them collectively; the canonical list (*pra, parā, apa, sam, anu, ava, niḥ, duḥ, vi, ā, ni, adhi, api, ati, su, ud, abhi, prati, pari, upa* + two contested forms) is fixed.
+**Standard.** The 22 directional / aspectual prefix-particles that bond with *dhātavaḥ* in derivation. Pāṇini A.1.4.59 lists them collectively; the received list (*pra, parā, apa, sam, anu, ava, niḥ, duḥ, vi, ā, ni, adhi, api, ati, su, ud, abhi, prati, pari, upa* + two contested forms) is fixed.
 
 **English pair**: *preverb*. In the chemistry idiom: *head-bond* (Chapter 12 vocabulary stack).
 
@@ -126,11 +126,11 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **calibrand**
 
-**Book-coined English, sibling to *calibrant*.** *That which is calibrated* — formed like *operand*, *multiplicand*, *analysand*: the thing acted upon. Where *calibrant* designates Sanskrit as the engineered standard, **calibrand** designates a language restructured toward it through **calibrant contact** (Chapter 18 §18.6). The calibrand languages are the set the philological machinery — treating their shared reflections as common descent — classifies as the *"Indo-European"* and *"Indo-Iranian"* families; each calibrand instead carries a *Pratibimba* (reflection) of the calibrant, not a fragment of a vanished ancestor. The term replaces a geography-plus-family-tree label with one that encodes the relation: a reflection of a standard, not descended from a parent.
+**Book-coined English, sibling to *calibrant*.** *That which is calibrated* — formed like *operand*, *multiplicand*, *analysand*: the thing acted upon. Where *calibrant* designates Sanskrit as the engineered standard, **calibrand** designates a language restructured toward it through **calibrant contact** (Chapter 18 §18.7). The calibrand languages are the set the philological machinery — treating their shared reflections as common descent — classifies as the *"Indo-European"* and *"Indo-Iranian"* families; each calibrand instead carries a *Pratibimba* (reflection) of the calibrant, not a fragment of a vanished ancestor. The term replaces a geography-plus-family-tree label with one that encodes the relation: a reflection of a standard, not descended from a parent.
 
-### **diverging** / **drifting**
+### **orbital** / **drifting** (with **Sanskritic gravity** and **radiance**)
 
-**Book-coined English, the two kinds of natural language.** Both name change away from an engineered form; anchoring is what separates them. A **diverging** language is calibrant-anchored: it moves from the standard — *apabhraṃśa*, the falling-away — but stays bounded, pulled back toward a form it can still be measured against (the Indic languages anchored to or descended from Sanskrit — Marathi, Hindi, Bengali). A **drifting** language has no calibrant: it moves without bound, because nothing holds a center for it to depart from (English, and the far cognates). Both sit inside the *prakṛti* category, distinct from the *calibrant* (Sanskrit, the standard) and from *codified* languages (drift arrested by external authority). The pair cross-cuts the *calibrand* / *Pratibimba* classification: a far calibrand (Greek, Latin, Persian) drifts, while a Sanskrit-anchored Indic language diverges, though both carry reflections of the calibrant. Introduced in Chapter 6 §6.7; placed in the typology in Chapter 14 §14.5.
+**Book-coined English, the two kinds of natural language.** Both name change away from an engineered form; the field is what separates them. An **orbital** language is calibrant-anchored: it moves from the standard — *apabhraṃśa*, the falling-away — but stays in orbit, pulled back by **Sanskritic gravity** toward a form it can still be measured against (the Indic languages anchored to or descended from Sanskrit — Marathi, Hindi, Bengali). A **drifting** form is outside the field: it moves without bound, because nothing holds a center for it to depart from (English, and the far cognates). **Radiance** is the outward face of the same Sun: Wave 1 and Wave 2 carriers take Sanskritic light beyond the field, receiving languages hold reflections (*Pratibimba*), and where a ray lands a tree grows — the botanical account is true there and only there. Both orbital and drifting sit inside the *prakṛti* category, distinct from the *calibrant* (Sanskrit, the standard) and from *codified* languages (drift arrested by external authority). The pair cross-cuts the *calibrand* / *Pratibimba* classification: a far calibrand (Greek, Latin, Persian) drifts, while a Sanskrit-anchored Indic language orbits, though both carry reflections of the calibrant. *Diverging* remains available as technical backup for *orbital*. Introduced in Chapter 6 §6.3 and §6.7; the radiance side developed in Chapter 18; placed in the typology in Chapter 14 §14.5.
 
 ### **fractal**
 
@@ -156,7 +156,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **Aṣṭādhyāyī** (अष्टाध्यायी)
 
-**Standard, book-controlled deployment.** Pāṇini's foundational grammar — the *Eight-Chapter* treatise. The canonical *vyākaraṇa* text. The dogma treats it as the codification of a previously-drifting language; the counter-category is the finest *decoding* of an architecture already engineered into the *Vedas*. Cited across Chapters 4, 6, 8, 10, and Appendix Part 8; the codified → decoded correction is central to the book's refrain (*Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest*).
+**Standard, book-controlled deployment.** Pāṇini's foundational grammar — the *Eight-Chapter* treatise. The standard *vyākaraṇa* text. The dogma treats it as the codification of a previously-drifting language; the counter-category is the finest *decoding* of an architecture already engineered into the *Vedas*. Cited across Chapters 4, 6, 8, 10, and Appendix Part 8; the codified → decoded correction is central to the book's refrain (*Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest*).
 
 ### **paramparā** (परम्परा)
 
@@ -174,7 +174,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **vaidika** (वैदिक) / **laukika** (लौकिक)
 
-**Standard.** Vedic domain / worldly-learned domain. Canonical in Patañjali's *Mahābhāṣya*. Concurrent civilizational fields, not stages on a timeline.
+**Standard.** Vedic domain / worldly-learned domain. Documented in Patañjali's *Mahābhāṣya*. Concurrent civilizational fields, not stages on a timeline.
 
 ### **curated transmission** / **percipient selection**
 
@@ -226,7 +226,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **Dhātupāṭha** (धातुपाठ)
 
-**Standard.** The canonical enumeration of *dhātavaḥ* organized as an appendix to Pāṇini's *Aṣṭādhyāyī*. The standard count is approximately 1,943 to 2,014 entries depending on the recension. Ten *gaṇāḥ* (classes). Used as the working corpus throughout Chapters 10–11 (the book uses a 2,168-entry recension).
+**Standard.** The operational enumeration of *dhātavaḥ* organized as an appendix to Pāṇini's *Aṣṭādhyāyī*. The standard count is approximately 1,943 to 2,014 entries depending on the recension. Ten *gaṇāḥ* (classes). Used as the working corpus throughout Chapters 10–11 (the book uses a 2,168-entry recension).
 
 ### **gaṇa** (गण) / **gaṇāḥ** (गणाः)
 
@@ -376,7 +376,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **Pratibimba** (प्रतिबिम्ब)
 
-**Standard Sanskrit term, book-repurposed as diagnostic category.** A reflection — what appears in a mirror, cast from an original. The book uses *Pratibimba* for the relation between Sanskrit and the cognate languages the machinery classifies as siblings: Hindi, Marathi, Greek, Latin, Persian, Lithuanian, Tocharian. The pyramid's account places all of these as descendants of an imaginary *Proto-Indo-European* parent. The counter-account: there is no PIE. The cognates everywhere else are *Pratibimbas* — reflections of the original engineered Sanskrit forms. *Mātṛ* is the etymon of *mother*; *pater* is a *Pratibimba* of *pitṛ*. The Preface introduces the hook; Chapter 2 exposes the category theft; Chapter 18 §18.6 develops the calibrant-and-reflection architecture in full.
+**Standard Sanskrit term, book-repurposed as diagnostic category.** A reflection — what appears in a mirror, cast from an original. The book uses *Pratibimba* for the relation between Sanskrit and the cognate languages the machinery classifies as siblings: Hindi, Marathi, Greek, Latin, Persian, Lithuanian, Tocharian. The pyramid's account places all of these as descendants of an imaginary *Proto-Indo-European* parent. The counter-account: there is no PIE. The cognates everywhere else are *Pratibimbas* — reflections of the original engineered Sanskrit forms. *Mātṛ* is the etymon of *mother*; *pater* is a *Pratibimba* of *pitṛ*. The Preface introduces the hook; Chapter 2 exposes the category theft; Chapter 18 §18.7 develops the calibrant-and-reflection architecture in full.
 
 ### **engineered / encoded / decoded / codified**
 

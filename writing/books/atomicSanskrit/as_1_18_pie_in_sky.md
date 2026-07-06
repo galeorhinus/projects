@@ -71,7 +71,7 @@ PIE cannot account for the *dhātavaḥ*. The genealogical project knows reconst
 
 The botanical account has no explanation for the scaffold result. PIE can accommodate sound correspondences; it cannot explain why Sanskrit's semantic atoms sit inside a compact, timed, reactive scaffold architecture. Ten *racanāḥ* carry the overwhelming majority of the *Dhātupāṭha*; forty-seven carry the whole measured field. Genealogy can narrate descent. It cannot account for that architecture.
 
-PIE cannot account for *siddha*. The *Mahābhāṣya* opens by stating that the bond between word and meaning is *siddha* — established, not subject to drift. Patañjali, the canonical commentator on the canonical grammar, declares Sanskrit's metaphysical commitment as anti-decay. The PIE account treats Sanskrit through the opposite metaphysics: language as descent, decay, drift across generations. The two accounts cannot coexist. One of them has to be wrong about what the object is.
+PIE cannot account for *siddha*. The *Mahābhāṣya* opens by stating that the bond between word and meaning is *siddha* — established, not subject to drift. Patañjali's *Mahābhāṣya*, standing over Pāṇini's *Aṣṭādhyāyī*, declares Sanskrit's metaphysical commitment as anti-decay. The PIE account treats Sanskrit through the opposite metaphysics: language as descent, decay, drift across generations. The two accounts cannot coexist. One of them has to be wrong about what the object is.
 
 PIE depends on the split. The pyramid's story requires Sanskrit before Pāṇini (पाणिनि) to be treated as *prakṛti*: natural speech, descended, drifting, needing an ancestor. After Pāṇini, the same story requires Sanskrit to be treated as "codification": cleaned up, frozen, stabilized by grammar. The first move makes PIE necessary. The second move prevents Sanskrit's architecture from dissolving PIE. Together they hide the continuous category: Sanskrit as *saṃskṛti*, calibrated architecture operating before Pāṇini, through Pāṇini, and after Pāṇini.
 
@@ -113,7 +113,39 @@ Against that background, the curve is revealing. Brugmann's reconstruction falls
 AISWEEP-END -->
 Brugmann's reconstruction falls to **0.73**. The standard / laryngeal reconstruction falls to **0.64**. The glottalic turn falls furthest, to **0.48**. Then the modern reconstruction rises again to **0.64** — against that background, a revealing curve. The pattern is not the discovery of a stable ancestor. It is a reconstruction moving around Sanskrit: close at first, then away, then back toward Sanskrit-like material when Sanskrit can no longer be ignored.
 
-## 18.5 Mother, Yoke, and the Dictionary Shift
+## 18.5 The Recipe, Step by Step
+
+Four words hang in every English-speaking wardrobe: *shirt*, *skirt*, *short* — and, for the abrupt, *curt*. The dictionary files all four in one family, and the family tree printed for them has become a small internet celebrity: a bright wheel with some sixty English words around the rim — *shear, share, score, shred, sharp, cortex, carnal, carnival* — and at the hub a gray circle holding the claimed ancestor of them all: **\*(s)ker-**, "to cut." The wheel is handsome, confident, and widely shared. No Sanskrit appears anywhere on it.
+
+![Figure 18.2 — \*(s)ker- — the Phantom of Cutting. Their tree, their notation: dashed = never spoken. No Sanskrit on the page.](figures/pie_in_sky/sker_pie_tree.svg){#fig:ch18-sker-phantom width=100%}
+
+The hub's own notation makes three confessions, printed in plain sight. The asterisk is the first: the form was never spoken, never heard, never written by anyone — it is a procedural average, the bake this chapter opened with. The parentheses around the *s* are the second. Some daughters carry the *s* (*shirt*, *score*, *shear*); others lack it (*curt*, *cortex*, and Latin's whole wing); and the reconstruction cannot say why. The discipline's term for this is the *s-mobile* — a consonant with no source, no rule, no conditioning environment, and no meaning, "mobile" because it comes and goes as the data demands.[NOTE: s-mobile-root-extension-confessions] The *t* is the third confession. *Curtus* and \*skurtaz have it; \*skeraną and *carō* do not; so the handbooks posit a "root extension" — \*(s)ker-t- beside \*(s)ker-, with sibling extensions in *-d-* and *-p-* for other awkward cousins — and concede, in their own pages, that the extensions carry no identifiable meaning and follow no rule. A phantom base, a floating consonant, a meaningless appendix. That is the hub of the wheel.
+
+The Dhātupāṭha states the atom. **⟪कृत्⟫ (*kṛt*)** sits in the *tudādi* list with its meaning declared: **छेदने (*chedane*)** — *in cutting*.[NOTE: krt-dhatupatha-chedane] Three sounds: *k*, *ṛ*, *t*. The present is *kṛntati* — *he cuts*. The *t* the reconstruction must bolt on as an "extension" is the atom's own final sound; the vowel the reconstruction must delete by "zero grade" was never there to delete — the form the pyramid writes as \*(s)kr̥t- and derives by two operations is कृत्, on its surface, as the citation form.
+
+The *s* has a source, and Sanskrit states it as rule — for a different atom. The *suṭ*-āgama inserts an *s* before **⟪कृ⟫**, *to make*, and before ⟪कृ⟫ alone: *saṃparibhyāṃ karotau bhūṣaṇe* — after *sam-* and *pari-*, on *karoti*, in the sense of refinement. *Sam + kṛ* → **संस्कृतम् (*saṃ-s-kṛ-ta*)**, the assembled, the perfected; *pari + kṛ* → **परिष्कृतम् (*pariṣ-kṛta*)**, the polished. The insertion is meaning-bearing: the grammar distinguishes *saṃkṛta*, merely put together, from *saṃskṛta*, refined — the *s* carries the refinement.[NOTE: sut-agama-visarga-s] Offer the same prefixes to ⟪कृत्⟫, *to cut*, and the grammar refuses the *s*: *sam + kṛt* → *saṅkṛntati*, he chops up; *pari + kṛt* → *parikṛntati*, he clips around. The corpus record agrees — eighteen upasargas ride the cutting-atom across the attested texts, and not one brings an *s*.[NOTE: krt-upasarga-corpus] Inside Sanskrit, then, the *s* stands before *kṛ* constantly — in the everyday words and in the most famous word of all — and before *kṛt* never. An *s* attached to the cut-family did not come from the grammar. It came from a listener.
+
+Now put a listener in front of that grammar — a listener who does not have it. The most famous Sanskrit word in the world carries the surface skeleton ***s-k-ṛ-t***: the *s* is the suṭ, ⟪कृ⟫'s alone; the *t* is the *kta*-suffix; between them sits the make-atom. The ear that cannot tell ⟪कृ⟫ from ⟪कृत्⟫ — and no ear outside the grammar can — hears *skṛt-* as one unit, and files it beside the cutting-words the same speech-stream carries: *kṛntati*, *kartana*. Their \*(s)kr̥t- is that mishearing, formalized. Its floating *s* is the suṭ. Its meaningless "extension" *t* is the *kta*. Its gloss, *to cut*, is borrowed from the atom next door. Every part of the reconstruction is real; only the assembly is theirs — and every real part was rule-generated around the *other* dhātu. The pyramid's own leading hypothesis for the s-mobile — misdivision of connected speech — concedes the mechanism while omitting the one language whose grammar wrote the rules down.
+
+The *t* has a source too, twice over. The atom's own final sound, as above. And where it is a suffix, it is the *kta*-participle by stated rule: *kṛt + kta* → **कृत्त (*kṛtta*)**, *cut off, shortened* — which is Latin *curtus*, sound for sound and sense for sense. The \*-tó- suffix the reconstruction deploys is *kta*, harvested from the grammar that states it, like the ablaut before it.
+
+The vowel completes the set. In the receiving mouths the syllabic *ṛ* opens to *ur*, *ir*, *or* — \*skurtaz, *shirt*, *short* — the same machine that turned *n̥* into *un* for \*kunją in the *kind* family. Every operation the reconstruction runs is a rule inferred backward from the daughters; the daughters' own source ran the alternations by rules a grammarian wrote down.
+
+Now the tally. To reach *shirt*, *skirt*, *short*, and *curt*, the pyramid stacks three devices, each confessed as ruleless in its own literature: a mobile *s*, an extension *t*, and a zero grade to delete the vowel it first inserted. Sanskrit needs one Dhātupāṭha entry and two stated rules — boundary sandhi and the *kta* suffix.
+
+And the case generalizes, because the case is a recipe. Delete the source language from the page. Average the reflections that remain. Star the average and install it as the ancestor. Convert every residue the average cannot digest into a device — a mobile consonant, a meaningless extension, an unpronounceable laryngeal. File the source language as one more daughter of its own reflections. Run the recipe entry by entry, and the etymological dictionary assembles itself — wheel after handsome wheel, each with a phantom at the hub and the Sun nowhere on the page.
+
+The recipe reruns wherever it is pointed. The birth-family is the same wheel again: \*ǵenh₁ "to give birth" over *nation*, *nature*, *gene*, *kind*, and *king*, with no Sanskrit on the page — while **⟪जन्⟫ (*jan*)** sits in the Dhātupāṭha carrying both of the phantom's meanings, its words alive from *janma* to Bengali *jônmo*.[NOTE: jan-dhatupatha-double-entry]
+
+![Figure 18.4 — \*ǵenh₁ — the Phantom of Birth. Their tree, their notation: dashed = never spoken. No Sanskrit on the page.](figures/pie_in_sky/genh_pie_tree.svg){#fig:ch18-genh-phantom width=100%}
+
+![Figure 18.5 — ⟪जन्⟫ · Orbit and Radiance — the Birth-Atom. The words orbit; the radiance seeds far soil; trees grow where the light lands.](figures/pie_in_sky/jan_orbit_radiance.svg){#fig:ch18-jan-orbit width=100%}
+
+![Figure 18.3 — ⟪कृत्⟫ · Orbit and Radiance — the Cut-Atom. The words orbit; the radiance seeds far soil; the tree is never the source.](figures/pie_in_sky/krt_orbit_radiance.svg){#fig:ch18-krt-orbit width=100%}
+
+The restored picture needs no devices. The atom sits at the center, listed and glossed. The derivations orbit it by stated rule. The living languages carry the cutting-words in daily mouths — a Kannada tailor's *kattari* is *kartarī*, the scissors, still cutting. Beyond the field, the rays land where the carriers took them, and trees grow at the landing points — *curt* and *cortex* on the Latin surface, *shirt* and *skirt* and *short* where the boundary-*s* rode along, *shear* and *share* where it did not. In Sanskrit the *s* has a source, a position, and a meaning. In PIE it has parentheses.
+
+## 18.6 Mother, Yoke, and the Dictionary Shift
 
 The shift can be seen in *mother*. The *American Heritage Dictionary*, 3rd edition (1992), and the references that have followed it, extend the chain past real Sanskrit to a reconstructed PIE terminus:
 
@@ -165,7 +197,9 @@ PIE can organize a comparative label; it cannot supply an etymon. The asterisk s
 
 The reconstruction floats above the evidence. The Sanskrit system stands in plain sight.
 
-## 18.6 *Pratibimba*
+## 18.7 *Pratibimba*
+
+*Pratibimba* is the optical word; radiance is the transmission image. Sanskritic forms did not require a migrating race — they required carriers, contact, and a receiving field. The light traveled; the receiving languages held reflections; the philologists mistook the pattern of reflected light for a vanished parent body. **Radiance explains resemblance without ancestry.** And past the field's edge the reflection is on its own: the *apaśabda* is drift outside active Sanskritic gravity — the orbit of Chapter 6, ended.
 
 Contact linguistics already knows that structural and lexical features can move across languages under intense contact. Thomason and Kaufman's account (1988, *Language Contact, Creolization, and Genetic Linguistics*) carries two central claims here.[NOTE: thomason-kaufman-1988] First, any feature — structural or lexical — can in principle transfer between languages in contact; the older assumption that grammar is borrowing-proof has been definitively rejected. Second, the intensity and duration of contact predicts the depth of structural transfer. The Sanskrit case presents exactly the conditions Thomason and Kaufman identified as producing extreme contact effects: prolonged, multi-generational engagement of Sanskrit-bearing specialists with the natural languages of Central and West Asia. The Mitanni evidence is direct documentation of exactly this kind of multi-generational specialist contact.
 
@@ -203,7 +237,7 @@ The pyramid's etymology projects Latin *deus* backward to PIE **\*deiwós** and 
 
 Philology under the descent assumption treats the reflections as evidence of a vanished ancestor. The calibrant account identifies them as reflections of the calibrant. The data is the same. The interpretation is incompatible.
 
-## 18.7 PIE Is a Lie — *Asura*
+## 18.8 PIE Is a Lie — *Asura*
 
 The *asura* case exposes the break.
 
@@ -231,7 +265,7 @@ The vivimorphosis at the contact-language boundary carries the breath-bearer, no
 
 The *apaśabda* *ahura* anchors the central theological vocabulary of the Zoroastrian tradition. The semantic transformation that accompanies the phonetic one — what *asura* means in the Sanskrit source and what *ahura* comes to mean in the Avestan recipient, and what the suric / asuric distinction carries forward as the cosmic backdrop for the political-architectural argument — is taken up in a forthcoming volume in the ***Second Shanti*** series. What this section isolates is the phonetic vivimorphosis: the same engineered form, carried into a contact language as the *Pratibimba* the Iranian religious imagination has held for the entire span of its tradition.
 
-[FIGURE 18.2: The pyramid's PIE reconstructions and the vivimorphosis chains shown side by side for *deva* and *asura*. The pyramid's etymology, Sanskrit *dhātu* / *śabda*, receiving-language *bīja*, and contact-language *apaśabda* across the rows.]
+[FIGURE 18.6: The pyramid's PIE reconstructions and the vivimorphosis chains shown side by side for *deva* and *asura*. The pyramid's etymology, Sanskrit *dhātu* / *śabda*, receiving-language *bīja*, and contact-language *apaśabda* across the rows.]
 
 | Stage | *deva* chain | *asura* chain |
 |---|---|---|
@@ -244,7 +278,7 @@ The *apaśabda* *ahura* anchors the central theological vocabulary of the Zoroas
 
 **Process across all three vivimorphosis stages:** *apabhraṃśa* / vivimorphosis. **What IE philology treats as reconstructed ancestry:** the bottom row — the *apaśabdas*. **The seed (*bīja*) is the missing middle.** The adversary-word — *a-sura*, the un-shining, the privative of ⟪सुर्⟫'s shining one — sits on the same Sanskrit form and takes no part in this chain; Chapter 3 §3.6 holds the two words apart.
 
-## 18.8 One *Dhātu*, Three PIEs
+## 18.9 One *Dhātu*, Three PIEs
 
 The recipe slips most visibly when one Sanskrit *dhātu* generates a family that the pyramid's account splits across multiple PIE ancestor-forms.
 
@@ -259,7 +293,7 @@ One *dhātu*. Four derivatives. One unified semantic field — seeing. The Sansk
 
 Now follow the cognates outward into the receiving languages — the English words the Western philological account itself acknowledges as cognates of this Sanskrit *dhātu*'s derivative family — and watch the machinery dismantle the unity:
 
-[FIGURE 18.3: One Sanskrit *dhātu*, multiple PIE ancestor-forms — *dṛś* as unified Sanskrit family versus the pyramid's split into **\*derḱ-**, **\*spek-**, and dropped or displaced visual cognates.]
+[FIGURE 18.7: One Sanskrit *dhātu*, multiple PIE ancestor-forms — *dṛś* as unified Sanskrit family versus the pyramid's split into **\*derḱ-**, **\*spek-**, and dropped or displaced visual cognates.]
 
 | English cognate | Proximate source | PIE attribution *(pyramid's account)* |
 |---|---|---|
@@ -302,6 +336,8 @@ PIE is in the sky. The architecture is on the ground.
 ***The imaginary ancestor loses its assigned life.***
 
 ***The asuric pyramid is the machinery that installed it.***
+
+The arithmetic of this section is the recipe of §18.5 running unchanged: one attested atom, three phantom ancestors — the device-count rising to cover what the averaging cannot.
 
 ***PIE must die as doctrine.***
 

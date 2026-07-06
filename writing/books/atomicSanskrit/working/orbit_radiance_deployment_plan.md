@@ -1,6 +1,6 @@
 # Orbit and Radiance Deployment Plan
 
-Status: working plan.
+Status: **DEPLOYED 2026-07-06** (commit series ending this date). Ch18 §18.5 The Recipe (with all four figures + five endnotes), §18.7 radiance paragraph, §18.9 rerun close, sections renumbered 18.5→18.6…18.8→18.9 with repo-wide cross-ref sweep; Ch6 §6.7 rebuilt as Orbit and Drift (seed already in §6.3); glossary entry rebuilt (orbital/drifting + gravity/radiance); Ch19 radiance sentence; Epilogue two-fields sentence. Remaining: Figure 6.3 decision (revised 6.1 may suffice); print-prep VERIFY flags in the five new endnotes.
 
 Purpose: replace or supplement the current **diverging / drifting** typology with a stronger image drawn from the book's eclipse spine: **Sanskrit as Sun**. Sanskrit has **gravity** and **radiance**. Its gravity holds Indic languages in orbit; its radiance travels outward through Wave 1 and Wave 2 carriers and leaves reflections in non-Indic contact languages.
 

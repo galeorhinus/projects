@@ -1,6 +1,6 @@
 # Atomic Sanskrit — Endnotes (Expanded Prose)
 
-> **Status:** Canonical file for expanded endnote prose. Endnote stubs throughout the chapter drafts are marked inline as `[NOTE: stub-name]`. As stubs are expanded into full endnote prose, the expanded version lives here, keyed by stub name. Each entry includes the deployment locations (which chapters/sections cite the endnote) so the prose can be revised once and the revision propagates to all citations.
+> **Status:** Reference file for expanded endnote prose. Endnote stubs throughout the chapter drafts are marked inline as `[NOTE: stub-name]`. As stubs are expanded into full endnote prose, the expanded version lives here, keyed by stub name. Each entry includes the deployment locations (which chapters/sections cite the endnote) so the prose can be revised once and the revision propagates to all citations.
 >
 > Convention: each endnote begins with its stub name as a level-3 heading. The prose follows. Length varies — most endnotes are 50–200 words (standard citation-plus-context); a few central endnotes are longer (400–800 words) where the supporting analysis is substantive.
 >
@@ -173,7 +173,7 @@ The DCS pada record separates the verse as ***devīm vācam ajanayanta devāḥ*
 
 #### Source and provenance
 
-*Ṛgveda* 10.71.4, part of the *Vāk-sūkta* (the Speech-hymn). Standard editions: Aufrecht's *Die Hymnen des Ṛgveda* (1877 / Wiesbaden reprint); van Nooten & Holland's *Rig Veda: A Metrically Restored Text* (Harvard Oriental Series 1994); Sāyaṇa's *bhāṣya*. The *Anukramaṇī* attributes the hymn to *Bṛhaspati Āṅgirasa*. The verse is one of the lineage's canonical anchors for the seer / non-seer distinction in Vedic epistemology. Final publication should verify the saṃhitā-text against the selected Ṛgveda edition.
+*Ṛgveda* 10.71.4, part of the *Vāk-sūkta* (the Speech-hymn). Standard editions: Aufrecht's *Die Hymnen des Ṛgveda* (1877 / Wiesbaden reprint); van Nooten & Holland's *Rig Veda: A Metrically Restored Text* (Harvard Oriental Series 1994); Sāyaṇa's *bhāṣya*. The *Anukramaṇī* attributes the hymn to *Bṛhaspati Āṅgirasa*. The verse is one of the lineage's received anchors for the seer / non-seer distinction in Vedic epistemology. Final publication should verify the saṃhitā-text against the selected Ṛgveda edition.
 
 The Preface quotes Ṛgveda 10.71.4:
 
@@ -187,13 +187,13 @@ The line belongs to the *Vāk* hymn, where speech is present but not equally acc
 
 The Preface reveals the verse in two movements. The first half stands at the threshold: Sanskrit was not hidden. It was recited, taught, parsed, catalogued, and printed. The failure was not absence of evidence. It was failure of perception — looking without seeing, listening without hearing. The second half is activated when the Preface introduces the *mantra-dṛṣṭāḥ*: ***tanvaṃ vi sasre*** says that Speech "revealed / spread out her body" to the one capable of seeing, compared in the verse to a willing, well-dressed wife before her husband. The point is not ornamental metaphor. It is the Indic epistemic claim: the seers did not manufacture speech; Speech revealed herself.
 
-The seer-function is not gender-bound. The most ontologically radical *mantra-dṛṣṭā* moment in the corpus — *Vāk* declaring her own primordiality in the first person — is recorded through a female *ṛṣikā*: ***Vāk Ambhṛṇī*** (वाक् आम्भृणी), the seer of Ṛgveda 10.125 in the *Anukramaṇī*. The lineage did not need modern correction to admit this; it was already there in the canonical index. The Preface therefore keeps the RV 10.71.4 wife-image inside its proper frame: a metaphor of revelation, not a restriction on who may see, by citing the lineage's women seers — *ṛṣikāḥ* and *brahmavādinyaḥ* such as Lopāmudrā, Apālā, Viśvavārā, Ghoṣā, and Vāk Ambhṛṇī. See `rigveda-10-125-vak-ambhrini` for the full hymn, source basis, and three-layer structural argument.
+The seer-function is not gender-bound. The most ontologically radical *mantra-dṛṣṭā* moment in the corpus — *Vāk* declaring her own primordiality in the first person — is recorded through a female *ṛṣikā*: ***Vāk Ambhṛṇī*** (वाक् आम्भृणी), the seer of Ṛgveda 10.125 in the *Anukramaṇī*. The lineage did not need modern correction to admit this; it was already there in the received index. The Preface therefore keeps the RV 10.71.4 wife-image inside its proper frame: a metaphor of revelation, not a restriction on who may see, by citing the lineage's women seers — *ṛṣikāḥ* and *brahmavādinyaḥ* such as Lopāmudrā, Apālā, Viśvavārā, Ghoṣā, and Vāk Ambhṛṇī. See `rigveda-10-125-vak-ambhrini` for the full hymn, source basis, and three-layer structural argument.
 
 ---
 
 ### `rigveda-10-125-vak-ambhrini`
 
-**Short:** RV 10.125 (the *Devī Sūkta* / *Vāk Sūkta*) is the corpus's most ontologically radical *mantra-dṛṣṭā* moment: *vāk* speaks in first person declaring her own primordiality and choosing whom she makes into a *ṛṣi*; the canonical seer recorded by the *Sarvānukramaṇī* is the female *ṛṣikā* Vāk Ambhṛṇī, placing the substrate's voice and the seer's voice together at the architecture's deepest layer.
+**Short:** RV 10.125 (the *Devī Sūkta* / *Vāk Sūkta*) is the corpus's most ontologically radical *mantra-dṛṣṭā* moment: *vāk* speaks in first person declaring her own primordiality and choosing whom she makes into a *ṛṣi*; the received seer recorded by the *Sarvānukramaṇī* is the female *ṛṣikā* Vāk Ambhṛṇī, placing the substrate's voice and the seer's voice together at the architecture's deepest layer.
 
 **Deployments:** Preface — at the end of *"…it is not a rule that only men see."* (paragraph citing *mantra-dṛṣṭāḥ* and the *ṛṣikāḥ* list). Additional candidate sites for later deployment — Appendix Part 3 (the *akṣara* / *vāk* primordiality layer); Appendix Part 7 §7.2 verse-walk (alongside RV 1.1.1, 10.129.1, 3.62.10).
 
@@ -241,13 +241,13 @@ This line fixes the *mantra-dṛṣṭā* mechanism at the ontologically deepest
 
 The hymn closes with *vāk* claiming the cosmic-substrate position the *Mīmāṃsā* later codifies as ***apauruṣeyatva***. Speech declares herself beginningless, all-pervading, and the conferrer of the *ṛṣi*-faculty. The hymn does not say a sage saw something *about* speech; it says *vāk* spoke, and the seer wrote down what she said.
 
-**The seer.** ***Vāk Ambhṛṇī*** (वाक् आम्भृणी), daughter of the sage Ambhṛṇa. The standard anukramaṇī-style headnote records the hymn as: eight verses; seer ***Vāgāmbhṛṇī***; deity ***Ātmā***; meter ***triṣṭubh***, with verse 2 in ***jagatī***. Some recitational and explanatory displays identify the deity as Vāgāmbhṛṇī / Vāk because, in this hymn, speaker and deity coincide. The structural point is unchanged: the canonical index records a female *ṛṣikā* in the same systematic frame it uses for male *ṛṣis*. No separate category. No editorial caveat. No flag indicating that the recording is exceptional.
+**The seer.** ***Vāk Ambhṛṇī*** (वाक् आम्भृणी), daughter of the sage Ambhṛṇa. The standard anukramaṇī-style headnote records the hymn as: eight verses; seer ***Vāgāmbhṛṇī***; deity ***Ātmā***; meter ***triṣṭubh***, with verse 2 in ***jagatī***. Some recitational and explanatory displays identify the deity as Vāgāmbhṛṇī / Vāk because, in this hymn, speaker and deity coincide. The structural point is unchanged: the received index records a female *ṛṣikā* in the same systematic frame it uses for male *ṛṣis*. No separate category. No editorial caveat. No flag indicating that the recording is exceptional.
 
 **Three-layer structural argument for gender-neutrality.** No layer of the architecture introduces gender as a category that admits or excludes.
 
 - (a) *The thing received is grammatically feminine.* **वाक् (*vāk*)** is feminine in Sanskrit's own grammar (*strīliṅga*). The substrate the *ṛṣis* receive is named with a feminine form across the corpus. This is morphological, not poetic.
 - (b) *The reception mechanism is faculty-neutral.* Yāska's *Nirukta* 2.11 defines the *ṛṣi* as ***ṛṣir darśanāt*** — the *ṛṣi* is so called from *darśana*, from seeing. RV 10.71.7 draws the difference between *ṛṣi* and bystander as ***mano-javeṣv asamā*** — unequal in mental quickness — not anatomical, not social, not gendered.
-- (c) *The recording system is non-discriminating.* The *Sarvānukramaṇī* lists ***ṛṣikāḥ*** alongside ***ṛṣis*** using the same systematic frame. Named female mantra-receivers in the canonical list include Lopāmudrā (RV 1.179), Apālā Ātreyī (RV 8.91), Yamī Vaivasvatī (RV 10.10), Urvaśī (RV 10.95), Sūryā Sāvitrī (RV 10.85), Ghoṣā Kākṣīvatī (RV 10.39–40), Viśvavārā Ātreyī (RV 5.28), Indrāṇī (RV 10.86), Sarparājñī (RV 10.189), Śraddhā Kāmāyanī (RV 10.151), and Vāk Ambhṛṇī herself.
+- (c) *The recording system is non-discriminating.* The *Sarvānukramaṇī* lists ***ṛṣikāḥ*** alongside ***ṛṣis*** using the same systematic frame. Named female mantra-receivers in the received list include Lopāmudrā (RV 1.179), Apālā Ātreyī (RV 8.91), Yamī Vaivasvatī (RV 10.10), Urvaśī (RV 10.95), Sūryā Sāvitrī (RV 10.85), Ghoṣā Kākṣīvatī (RV 10.39–40), Viśvavārā Ātreyī (RV 5.28), Indrāṇī (RV 10.86), Sarparājñī (RV 10.189), Śraddhā Kāmāyanī (RV 10.151), and Vāk Ambhṛṇī herself.
 
 The thing received is feminine; the mechanism is faculty-neutral; the recording system is non-discriminating. The stack is consistent across all three layers.
 
@@ -303,13 +303,13 @@ The line means that मूर्धा (*mūrdhā*) — the head / roof-of-mouth
 
 **Short:** *saṃskṛta* (संस्कृत) = *sam-* (सम्, totality, completion) + *kṛta* (कृत, past participle of the *kṛ* dhātu कृ, primary creation rather than combinatorial joining); the dual translation *perfectly synthesized* / *wholly created* preserves both axes English has no single word for. See Expanded Endnotes for the morphological argument.
 
-**Deployments:** Preface ¶17; Chapter 1 ¶7 *(both deployments use the same canonical gloss block in the main prose; this endnote provides the underlying grammatical and semantic analysis)*.
+**Deployments:** Preface ¶17; Chapter 1 ¶7 *(both deployments use the same standard gloss block in the main prose; this endnote provides the underlying grammatical and semantic analysis)*.
 
 The compound **संस्कृत (*saṃskṛta*)** is formed from two morphological elements, each carrying a precise semantic load.
 
 ***Sam-*** (सम्) is a Sanskrit *upasarga* — a verbal prefix that attaches to a dhātu and modifies its meaning. The semantic field of *sam-* gathers around totality and completeness. Its mathematical sense, preserved most clearly in the English cognate *sum*, is the *whole reached by gathering*. Its completion sense is the *full extent attained*. Its perfection sense, preserved in derivatives like English *summit* (Latin *summus*, the highest, the most complete), is the *finished and proper state*. Greek *syn-* shares the same family of senses. When *sam-* attaches to a dhātu in Sanskrit, it pushes the dhātu's action toward this totality / completion / perfection axis — the action carried to its full and proper extent.
 
-The ***kṛ*** dhātu (कृ), to which *sam-* attaches here, is among the most foundational of all Sanskrit *dhātavaḥ*. It is enumerated by Pāṇini in the *Dhātupāṭha* (the canonical inventory of Sanskrit dhātavaḥ) as a member of the *tanādi* class. Its semantic range is wide but consistent: *make, do, create, produce, perform an action, bring into being*. The English verb closest in semantic range is *make* — covering everything from making physical objects to making a poem to making a sound. The Sanskrit derivatives that radiate from this dhātu show how much weight it carries in the language's vocabulary of action: ***karma*** (the deed, the made-thing, the action), ***kāryam*** (that which is to be done or made), ***kṛti*** (a created work, a composition), ***kartṛ*** (the doer, the agent), ***kāraka*** (the case-relations to a verb that carry the semantic roles of action).
+The ***kṛ*** dhātu (कृ), to which *sam-* attaches here, is among the most foundational of all Sanskrit *dhātavaḥ*. It is enumerated by Pāṇini in the *Dhātupāṭha* (the operational inventory of Sanskrit dhātavaḥ) as a member of the *tanādi* class. Its semantic range is wide but consistent: *make, do, create, produce, perform an action, bring into being*. The English verb closest in semantic range is *make* — covering everything from making physical objects to making a poem to making a sound. The Sanskrit derivatives that radiate from this dhātu show how much weight it carries in the language's vocabulary of action: ***karma*** (the deed, the made-thing, the action), ***kāryam*** (that which is to be done or made), ***kṛti*** (a created work, a composition), ***kartṛ*** (the doer, the agent), ***kāraka*** (the case-relations to a verb that carry the semantic roles of action).
 
 Crucially, ⟪कृ⟫ does not mean *assemble*. Sanskrit has other dhātavaḥ for that operation: ⟪युज्⟫ (*yuj*, to yoke, to join), and *sam-* + ⟪धा⟫ (*dhā*, to put together). ⟪कृ⟫ denotes primary creative action — the bringing into being, not the combinatorial joining of pre-existing parts. This distinction carries the translation choices argued below.
 
@@ -392,7 +392,7 @@ The passage is the *locus classicus* for the *apabhraṃśa* phenomenon in the I
 
 **Short:** The displacement of Sanskrit from the terminus of Indo-European etymological chains to one daughter alongside others (with PIE inserted as reconstructed terminus) is a two-century arc — Bopp 1816 (Sanskrit as ancestor) → Schleicher 1861 (common source distinct from Sanskrit) → mid-20c (academic references) → 2000s (popular references); *Merriam-Webster's Collegiate 10th* (1993) still showed Sanskrit-at-terminus for *mother*. See Expanded Endnotes for the staged chronology.
 
-**Deployments:** Chapter 18 opening and §18.5 worked examples for *mother* and *yoke* — the dictionary-shift paragraphs showing how the etymological chain's terminus has moved from Sanskrit (early-19th-century philology and popular references into the late 20th century) to reconstructed PIE (the contemporary standard).
+**Deployments:** Chapter 18 opening and §18.6 worked examples for *mother* and *yoke* — the dictionary-shift paragraphs showing how the etymological chain's terminus has moved from Sanskrit (early-19th-century philology and popular references into the late 20th century) to reconstructed PIE (the contemporary standard).
 
 The displacement of Sanskrit from the source position of Indo-European etymological chains happened in identifiable stages across roughly two centuries of philological development.
 
@@ -440,7 +440,7 @@ The credit for the asterisk-before-reconstructed-form convention is widely attri
 
 **Short:** Roman Jakobson, "Why 'Mama' and 'Papa'?" (1959 lecture, published 1960 in *Perspectives in Psychological Theory*) — argues *mama* / *papa* type kinship terms cluster cross-linguistically because of infant phonological universals, not genetic cognation; the deflection touches *mother* but has no purchase on *yoke* (not a kinship term, not phonologically universal), which is why the chapter pairs both worked examples.
 
-**Deployments:** Chapter 18 §18.5 ¶3 — the *yoke* paragraph, where the nursery-word deflection is named and shown to have no purchase on a non-kinship cognate set.
+**Deployments:** Chapter 18 §18.6 ¶3 — the *yoke* paragraph, where the nursery-word deflection is named and shown to have no purchase on a non-kinship cognate set.
 
 Roman Jakobson, "Why 'Mama' and 'Papa'?" in Bernard Kaplan and Seymour Wapner (editors), *Perspectives in Psychological Theory: Essays in Honor of Heinz Werner* (New York: International Universities Press, 1960), pages 124–134. The paper was delivered as a 1959 lecture and is conventionally cited by the lecture date in linguistic literature; the published volume carries 1960. Both year-references appear in the secondary literature; the chapter's "1959" follows the lecture-date convention.
 
@@ -456,7 +456,7 @@ The chapter's response — and the structural reason *yoke* is deployed as the s
 
 **Short:** PIE has been cemented as the default etymological endpoint in routine reference during the past quarter century (Watkins's *American Heritage* IE Roots Appendix expanded across editions; etymonline launched 2001; Mallory-Adams 1997; Rix 2001; de Vaan 2008; Beekes 2010) — the same window in which dharmic-civilizational discourse first emerged from its long sequence of constraints; an ecosystem-level hardening of the *progressive dogma* the chapter argues is not coincidence.
 
-**Deployments:** Chapter 18 §18.4 close — the cementing-of-PIE-in-recent-decades paragraph that closes the third-pillar diagnosis and prepares the dictionary-shift worked examples that follow in §18.5.
+**Deployments:** Chapter 18 §18.4 close — the cementing-of-PIE-in-recent-decades paragraph that closes the third-pillar diagnosis and prepares the dictionary-shift worked examples that follow in §18.6.
 
 The cementing of PIE as the default endpoint of routine etymological reference has accelerated in roughly the past quarter century. Calvert Watkins's *Indo-European Roots Appendix* in *The American Heritage Dictionary*, present since the first edition in 1969 and substantially expanded across the third (1992), fourth (2000), and fifth (2011) editions, has long been the most prominent IE-anchoring machinery in any flagship English dictionary. Douglas Harper's *Online Etymology Dictionary* launched in 2001 and grew into the default free online etymological reference for English; it gives PIE as the default endpoint of every etymological chain. The reference ecosystem that anchors this routine usage was substantially built out in the same window: J. P. Mallory and Douglas Q. Adams, *Encyclopedia of Indo-European Culture* (1997); Helmut Rix, *Lexikon der indogermanischen Verben* (2001); Michiel de Vaan, *Etymological Dictionary of Latin and the other Italic Languages* (2008); Robert Beekes, *Etymological Dictionary of Greek* (2010). Each takes PIE as the etymological terminus by default. Together they form the ecosystem that subsequent dictionaries, college texts, and online reference works lean on. The English-speaking reader who looked up a word in *Webster's* in 1995 met etymologies stopping at Latin, Greek, or Sanskrit. The same reader online today meets etymologies that pass through those proximate sources to arrive at PIE. The shift is real, observable, and recent.
 
@@ -666,6 +666,56 @@ For *asura* the two derivations Yāska records do not share a semantic center: *
 **Etymology-independent backstop.** The containment charge does not hang on this segmentation: whether the praised asura is *asu-ra* (holder of the life-breath) or the antagonist is *a-sura* (not-light), the deed the book tracks — holding-and-releasing versus withholding — is identical (§3.7).
 
 Source: ashtadhyayi.com *Dhātupāṭha*, entry `06.0066` (Pāṇinian *Dhātupāṭha*, *tudādi* gaṇa), cross-checked against the local machine-readable inventory in `analysis/dhatupatha/` (gaṇa 6, entry 66 = षुरँ). Monier-Williams s.v. *sura* / *asura* for the back-formation account.
+
+---
+
+### `s-mobile-root-extension-confessions`
+
+**Short:** The two devices in \*(s)ker-'s own notation are confessed in the pyramid's handbooks: the *s-mobile* — the parenthesized *s* — has no source, no rule, no conditioning environment, and no meaning; the "root extensions" (*Erweiterungen*) — the *-t-*, *-d-*, *-p-* appended to make daughters fit — carry no identifiable meaning and follow no rule. Pokorny's dictionary lists \*(s)ker- beside its extended variants as separate headwords.
+
+**Deployments:** Chapter 18 §18.5 (the Recipe — move 3, the notational confessions; move 6, the *t*).
+
+The **s-mobile** is standard IE vocabulary for an initial \*s- that appears in some cognate sets and is absent in others with no stated conditioning; the parentheses in \*(s)ker- are the notation of that admission. The leading account offered in the literature is sandhi misdivision — a word-final \*-s re-cut onto the following word by hearers — which concedes the listener-side mechanism the chapter develops. The **root extension** (German *Erweiterung*, also "enlargement," "determinative") is the standard device for consonants appended to a reconstructed base to cover subsets of the daughters; the handbooks state that the extensions carry no isolable meaning. Pokorny (*Indogermanisches etymologisches Wörterbuch*) organizes \*(s)ker- "to cut" with its extended variants precisely this way. [VERIFY: exact handbook citations at print-prep — Pokorny s.v. \*(s)ker-; a standard textbook statement of s-mobile (e.g., Fortson or Szemerényi) and of root extensions as meaningless/ruleless.]
+
+---
+
+### `krt-dhatupatha-chedane`
+
+**Short:** ⟪कृत्⟫ (*kṛt*), aupadeśika कृतीँ, *tudādi* — Dhātupāṭha 6.171, *artha* **छेदने** ("in cutting"; *kṛntati*, "he cuts") — verified against the machine-readable Pāṇinian Dhātupāṭha. The homonymous कृत् 7.10 (*rudhādi*, वेष्टने "to surround") is a distinct entry and plays no part in the cut-family.
+
+**Deployments:** Chapter 18 §18.5 (the Recipe — move 4, the atom).
+
+The entry data: base-index 06.0171, dhātu कृत्, aupadeśika कृतीँ, gaṇa 6 (*tudādi*), pada P, artha छेदने, gloss "to cut, to break, to slice." Present *kṛntati*; participle *kṛtta* (*kṛt + kta*), "cut off" — the pair Chapter 18 sets beside Latin *curtus*. Derivatives in the near orbit: *kartana* (cutting), *kartarī* (scissors — alive in Kannada *kattari*, Telugu *kattera*), *kṛntana*. Source: ashtadhyayi.com Dhātupāṭha data (verified locally); the second कृत् at 10.155 (कॄतँ, *saṃśabdane*) and the *rudhādi* 7.10 homonym are kept distinct.
+
+---
+
+### `krt-upasarga-corpus`
+
+**Short:** The Digital Corpus of Sanskrit record (via the book's own analysis bundle) shows ⟪कृत्⟫ riding **18 distinct upasargas across 650 attested tokens** — *ni* 223, *ut* 74, *api* 28, *vi* 15, *ava* 15, *vini* 14, **sam 14**, **pari 13**, *pra* 9, *apa* 8, and more — **and not one form carries an *s***. The suṭ-refusal is not only Pāṇini's rule; it is the attested record.
+
+**Deployments:** Chapter 18 §18.5 (the Recipe — the corpus sentence in the *s*-paragraph).
+
+The aggregation comes from the book's reproducibility bundle: `analysis/ganah/data/derived/path_c_valency.csv` (kṛt: valency 74, 650 tokens, 19 distinct preverbs including the null preverb) and `analysis/ganah/data/derived/attestation_index.csv` (per-combination counts; the 18 non-null upasargas as listed, with *saṃni*, *samut*, *abhi*, *vyava*, *upa*, *anu*, *ā*, *saṃpra* in the tail). The DCS source and processing are documented in `analysis/ganah/README.md`. The structural point: the cutting-atom is richly preverb-active — including *sam-* and *pari-*, the two prefixes that trigger suṭ on ⟪कृ⟫ — and the *s* never appears on it.
+
+---
+
+### `sut-agama-visarga-s`
+
+**Short:** The suṭ-āgama plants an *s* immediately before ⟪कृ⟫ — and before ⟪कृ⟫ alone: *suṭ kāt pūrvaḥ* with *saṃparibhyāṃ karotau bhūṣaṇe* (*karotau* — on *karoti*) — giving **saṃ-s-kṛta** and **pariṣ-kṛta**, the *s* meaning-bearing (भूषणे, refinement: *saṃkṛta* "put together" vs *saṃskṛta* "refined"). The visarga-to-*s* compounds (*namas-kāra*, *puras-kāra*, *bhās-kara*) are likewise ⟪कृ⟫-side. Offered to ⟪कृत्⟫ the grammar refuses the *s*: *saṅkṛntati*, *parikṛntati*.
+
+**Deployments:** Chapter 18 §18.5 (the Recipe — the *s*-paragraph: the suṭ, the refusal, and the ear's *skṛt-*).
+
+The sūtra cluster (numbering per the standard text): 6.1.135 *suṭ kāt pūrvaḥ* (the augment *s* goes before the *k*); 6.1.137 *saṃparibhyāṃ karotau bhūṣaṇe* (after *sam-* and *pari-*, on *karoti*, in the sense of adornment/refinement); 6.1.138 *samavāye ca*; 6.1.139 *upāt…* (the *upa-* extension). The retroflexion in *pariṣkṛta* follows by the standard *ṣatva* after *i*. The visarga → *s* compound rule for *namas-kāra / puras-kāra / tiras-kāra / bhās-kara* sits in the 8.3.46 region (*ataḥ kṛkamikaṃsa…*). All of it is ⟪कृ⟫-family; none of it touches ⟪कृत्⟫ — which is what makes the famous *s* of *saṃskṛta* the donor of the mis-generalized *s* in the receiving ear, and never a Sanskrit-internal property of the cut-atom (see `krt-upasarga-corpus`). [VERIFY: sūtra numbers 6.1.135/137/138/139 and the 8.3.46 locus against the ashtadhyayi.com text at print-prep.]
+
+---
+
+### `jan-dhatupatha-double-entry`
+
+**Short:** The Dhātupāṭha carries ⟪जन्⟫ twice, covering both glosses the \*ǵenh₁ chart assigns its phantom: **3.25** (जनँ, *juhotyādi*) *artha* **जनने** — "to create, to procreate"; **4.44** (जनीँ, *divādi*) *artha* **प्रादुर्भावे** — "to be born, to come into existence" (*jāyate*). Verified against the machine-readable Pāṇinian Dhātupāṭha. The word-level twins: *jāta* ↔ *(g)nātus* "born"; *jāti* (birth → kind, class) ↔ *genus* (kind) — the same semantic walk from birth to category.
+
+**Deployments:** Chapter 18 §18.5 (the Recipe — the birth-family rerun paragraph, Figures 18.4–18.5).
+
+Entry data: base-index 03.0025 — जनँ, gaṇa 3, जनने, "to create, to procreate, to make"; base-index 04.0044 — जनीँ, gaṇa 4, प्रादुर्भावे, "to be born, to become, to come to existence." The near-orbit śabdas: *janma* (birth), *jana* (people), *jananī* (mother), *janaka* (begetter), *jāta* (born), *jāti* (birth, kind), *prajā* (offspring, subjects). Living forms: Hindi *janam*, Marathi *janma*, Bengali *jônmo*, Punjabi *janam*, Telugu *janma*, Malayalam *janmam* [VERIFY: living-form orthography vs Turner CDIAL at print-prep]. Source: ashtadhyayi.com Dhātupāṭha data, verified locally.
 
 ---
 
@@ -2285,11 +2335,11 @@ Deployment: Mishra's contemporary articulation provides a living lineage-chain a
 
 ### `visarga-cognate-shadow`
 
-**Short:** The cognate chain ***सिन्धुः (Sindhuḥ)*** → Old Persian *Hinduš* (𐏃𐎡𐎯𐎢𐏁, with Indo-Iranian *s* → *h*) → Greek *Indós* (Ἰνδός, dropping initial *h-*) → Latin *Indus* — the contact languages preserve the surface shape of the *visarga* (विसर्ग)-bearing ending but lose its breath-specification at each step; the contemporary name *Hindu* descends through the Iranian rendering, carrying the cognate shadow rather than the Sanskrit *visarga* itself. The *Pratibimba* (प्रतिबिम्ब, *reflection / mirror image*) pattern Chapter 18 §18.6 develops in full.
+**Short:** The cognate chain ***सिन्धुः (Sindhuḥ)*** → Old Persian *Hinduš* (𐏃𐎡𐎯𐎢𐏁, with Indo-Iranian *s* → *h*) → Greek *Indós* (Ἰνδός, dropping initial *h-*) → Latin *Indus* — the contact languages preserve the surface shape of the *visarga* (विसर्ग)-bearing ending but lose its breath-specification at each step; the contemporary name *Hindu* descends through the Iranian rendering, carrying the cognate shadow rather than the Sanskrit *visarga* itself. The *Pratibimba* (प्रतिबिम्ब, *reflection / mirror image*) pattern Chapter 18 §18.7 develops in full.
 
 **Deployments:** Chapter 9 §9.5 — the citation anchor for the *Sindhuḥ* → *Hinduš* / *Indós* / *Indus* cognate-shadow analysis.
 
-The cognate chain from Sanskrit ***सिन्धुः (Sindhuḥ)*** through Old Persian, Greek, and Latin renderings illustrates the structural pattern Chapter 18 §18.6 develops in full under the *Pratibimba (प्रतिबिम्ब — reflection / mirror image)* analysis. The chain:
+The cognate chain from Sanskrit ***सिन्धुः (Sindhuḥ)*** through Old Persian, Greek, and Latin renderings illustrates the structural pattern Chapter 18 §18.7 develops in full under the *Pratibimba (प्रतिबिम्ब — reflection / mirror image)* analysis. The chain:
 
 - **Sanskrit सिन्धुः (Sindhuḥ)** — nominative singular of the *Sindhu* river name, with the *visarga* (-ḥ) carrying the engineered breath-release at the close of the name. The full pronunciation includes the visarga's voiceless aspiration; the river-name is *Sindhuḥ*, not *Sindhu*.
 
@@ -2301,7 +2351,7 @@ The cognate chain from Sanskrit ***सिन्धुः (Sindhuḥ)*** through 
 
 The structural observation: the contact languages preserve the *surface form* of the *visarga*-bearing ending. Old Persian renders it consonantally as *-š*; Greek and Latin substitute their own thematic-vowel nominative endings (*-os*, *-us*). What the contact languages cannot carry forward is the *breath specification* the visarga encoded — the voiceless aspirated release at the close of the vowel. The breath is lost in transmission; only the consonantal silhouette of the ending survives. The further from the calibrant, the less of the breath-engineering survives.
 
-This pattern — the *Pratibimba* pattern — is general across Sanskrit-to-Indo-European cognates: the calibrant-anchored Sanskrit form preserves the engineered phonetic specification (breath, accent, syllable structure); the contact-language cognate preserves the *shape* of the form but loses the specification. Chapter 18 §18.6 develops the full *Pratibimba* analysis with worked examples including the *mātṛ* / *mater* / *mother* chain, the *yuga* / *yoke* chain, the *devaḥ* / *deus* chain, and the *asuraḥ* / *ahura* chain.
+This pattern — the *Pratibimba* pattern — is general across Sanskrit-to-Indo-European cognates: the calibrant-anchored Sanskrit form preserves the engineered phonetic specification (breath, accent, syllable structure); the contact-language cognate preserves the *shape* of the form but loses the specification. Chapter 18 §18.7 develops the full *Pratibimba* analysis with worked examples including the *mātṛ* / *mater* / *mother* chain, the *yuga* / *yoke* chain, the *devaḥ* / *deus* chain, and the *asuraḥ* / *ahura* chain.
 
 Deployment at the *Sindhu* example: the *Hindu* name, by which the dharmic civilization is widely known, descends through this very chain — the Old Persian *Hindu-* (with the *s* → *h* shift) entering general non-Indic usage. The contemporary name *Hindu* therefore preserves the Iranian rendering of the visarga rather than the Sanskrit visarga itself. The civilizational name carries the cognate shadow of the engineered original; the engineered original (*Sindhuḥ*, with the visarga's breath-release) remains operational only inside the Sanskrit-anchored form.
 
@@ -2486,7 +2536,7 @@ The chronological sequence the body prose carries: 1786 (Jones / opening) → 18
 
 **Short:** Three foundational works of the early-19th-century comparative-philological project, positioning Sanskrit at the source position of Indo-European etymological chains: Franz Bopp, *Über das Conjugationssystem der Sanskritsprache* (Frankfurt, 1816); Franz Bopp, *Vergleichende Grammatik der Sanskrit-, Send-, Armenischen-, Griechischen-, Lateinischen-, Litauischen-, Altslavischen-, Gothischen- und Deutschen* (Berlin, 1833–1852, six fascicles); August Friedrich Pott, *Etymologische Forschungen auf dem Gebiete der indo-germanischen Sprachen* (Lemgo: Meyer, 1833–1836; expanded 1859–1876, five volumes). The post-1861 Schleicher inversion moved the anchor from Sanskrit to reconstructed PIE.
 
-**Deployments:** Chapter 18 §18.5 — the citation anchor for the early-19th-century comparative-philology works that positioned Sanskrit at the source position of Indo-European etymological chains, before the post-1861 Schleicher inversion moved the anchor from Sanskrit to the reconstructed proto-language.
+**Deployments:** Chapter 18 §18.6 — the citation anchor for the early-19th-century comparative-philology works that positioned Sanskrit at the source position of Indo-European etymological chains, before the post-1861 Schleicher inversion moved the anchor from Sanskrit to the reconstructed proto-language.
 
 Three foundational works:
 
@@ -3537,7 +3587,7 @@ Standard references: R. H. Robins, *A Short History of Linguistics* (Longman, 4t
 
 **Short:** Sarah Grey Thomason and Terrence Kaufman, *Language Contact, Creolization, and Genetic Linguistics* (University of California Press, 1988) — foundational account in language-contact theory: any feature (structural or lexical) can in principle transfer between languages in contact; the intensity and duration of contact predicts the depth of structural transfer (four-level scale from casual contact to very strong cultural pressure, with predicted contact-transfer depths at each level). The account supports the chapter's reversal hypothesis: prolonged multi-generational Sanskrit-bearing specialist contact with Central / West Asian languages would produce extreme structural-transfer effects.
 
-**Deployments:** Chapter 18 §18.6 — the citation anchor for the Thomason-Kaufman account of language contact and structural borrowing.
+**Deployments:** Chapter 18 §18.7 — the citation anchor for the Thomason-Kaufman account of language contact and structural borrowing.
 
 Sarah Grey Thomason and Terrence Kaufman, *Language Contact, Creolization, and Genetic Linguistics* (University of California Press, 1988). The book is the foundational late-twentieth-century reframing of language-contact theory in historical linguistics. The two principal claims the chapter draws on:
 
@@ -3557,7 +3607,7 @@ Standard reference: Sarah Grey Thomason and Terrence Kaufman, *Language Contact,
 
 **Short:** Malcolm Ross, "Contact-Induced Change and the Comparative Method: Cases from Papua New Guinea," in Durie & Ross, eds., *The Comparative Method Reviewed* (Oxford University Press, 1996): 180–217 — develops the concept of ***metatypy*** (the most extreme contact-induced outcome: a language's morphosyntax wholesale restructured to match a *model* language while retaining inherited vocabulary); canonical case ***Takia*** (Austronesian / Oceanic, Karkar Island PNG) restructured by contact with ***Waskia*** (Papuan / Trans-New Guinea), producing a language with Austronesian vocabulary and Papuan grammar. The chapter develops the reversal hypothesis by analogy: Sanskrit as model, contacted Central / West Asian languages as replicas, PIE as backward-projection of the aggregate replica features.
 
-**Deployments:** Chapter 18 §18.6 — the citation anchor for Malcolm Ross's *metatypy* account with the Takia/Waskia case study.
+**Deployments:** Chapter 18 §18.7 — the citation anchor for Malcolm Ross's *metatypy* account with the Takia/Waskia case study.
 
 Malcolm Ross developed the concept of ***metatypy*** in his 1996 paper "Contact-Induced Change and the Comparative Method: Cases from Papua New Guinea" (in *The Comparative Method Reviewed*, ed. Mark Durie and Malcolm Ross, Oxford University Press, 1996). The concept captures the most extreme outcome of contact-induced structural change: *a language's morphosyntax is wholesale restructured to match a model language, while the recipient retains its inherited vocabulary*.
 
@@ -3565,7 +3615,7 @@ The mechanism Ross developed: under conditions of prolonged bilingualism in a co
 
 The canonical case study: ***Takia***, an Austronesian (Oceanic) language spoken on Karkar Island in Papua New Guinea, restructured by sustained contact with ***Waskia***, a Papuan (Trans-New Guinea) language spoken on the same island. Over generations of bilingualism (most Takia speakers also spoke Waskia; Waskia speakers were largely monolingual or less commonly bilingual), the Takia community restructured Takia's morphosyntax to match Waskia's grammatical organization while preserving Takia's vocabulary. The result: Takia today carries Austronesian vocabulary but Papuan grammar — a language whose typological profile is at the boundary of two major language families.
 
-The structural significance the chapter establishes: the Takia case is the canonical metatypy example because the asymmetry is clean (one model, one replica; structural restructuring; vocabulary preservation). The chapter develops the reversal hypothesis by analogy: *Sanskrit as the model; contacted languages of Central and West Asia as replicas; the aggregate of replica features projected backward by nineteenth-century European philologists as PIE*. The hypothesis is that the apparent grammatical commonalities the European philological project identified across the *daughter Indo-European languages* are not residue of a common ancestor (the PIE reconstruction) but rather residue of *common contact* with a single model language (Sanskrit, operated by the *Saptaṛṣi*-and-successor specialist transmission across the pre-historic period). The chapter develops this thesis in §18.6 and hands the transmission-mechanism analysis forward to Chapter 19.
+The structural significance the chapter establishes: the Takia case is the canonical metatypy example because the asymmetry is clean (one model, one replica; structural restructuring; vocabulary preservation). The chapter develops the reversal hypothesis by analogy: *Sanskrit as the model; contacted languages of Central and West Asia as replicas; the aggregate of replica features projected backward by nineteenth-century European philologists as PIE*. The hypothesis is that the apparent grammatical commonalities the European philological project identified across the *daughter Indo-European languages* are not residue of a common ancestor (the PIE reconstruction) but rather residue of *common contact* with a single model language (Sanskrit, operated by the *Saptaṛṣi*-and-successor specialist transmission across the pre-historic period). The chapter develops this thesis in §18.7 and hands the transmission-mechanism analysis forward to Chapter 19.
 
 Standard references: Malcolm Ross, "Contact-Induced Change and the Comparative Method: Cases from Papua New Guinea," in Mark Durie and Malcolm Ross, eds., *The Comparative Method Reviewed: Regularity and Irregularity in Language Change* (Oxford University Press, 1996), pp. 180–217. Ross's subsequent papers extend the framework: "Metatypy" entry in the *International Encyclopedia of Linguistics* (Oxford University Press, second edition 2003); "Diagnosing Contact Processes from Their Outcomes," in *Studies in Language* 37 (2013). For the Takia/Waskia specifically: Malcolm Ross, *Takia, a Language of Karkar Island, Madang Province* (Pacific Linguistics, Australian National University, 2002).
 
@@ -3573,9 +3623,9 @@ Standard references: Malcolm Ross, "Contact-Induced Change and the Comparative M
 
 ### `wiktionary-pasyati-suppletion`
 
-**Short:** The Wiktionary entry on Sanskrit ***पश्यति*** (*paśyati*, "he sees") carries the machinery's account that the paradigm is suppletive — *paśyati* derives from PIE *\*speḱ-*, the remainder of the paradigm from PIE *\*derḱ-*; Chapter 18 §18.8 uses the entry as a compact example of the pyramid's account splitting one Sanskrit *dhātu*-family across multiple reconstructed PIE ancestor-forms.
+**Short:** The Wiktionary entry on Sanskrit ***पश्यति*** (*paśyati*, "he sees") carries the machinery's account that the paradigm is suppletive — *paśyati* derives from PIE *\*speḱ-*, the remainder of the paradigm from PIE *\*derḱ-*; Chapter 18 §18.9 uses the entry as a compact example of the pyramid's account splitting one Sanskrit *dhātu*-family across multiple reconstructed PIE ancestor-forms.
 
-**Deployments:** Chapter 18 §18.8 — the citation anchor for the Wiktionary etymological entry on Sanskrit *paśyati* and the philological ecosystem's account of suppletion across the Indo-European verbal paradigm for *to see*.
+**Deployments:** Chapter 18 §18.9 — the citation anchor for the Wiktionary etymological entry on Sanskrit *paśyati* and the philological ecosystem's account of suppletion across the Indo-European verbal paradigm for *to see*.
 
 The Wiktionary entry on the Sanskrit verb ***पश्यति (paśyati)*** ("he sees", third-person singular present active of the *paś* dhātu) carries the following etymological account (as of the version cited):
 
@@ -3585,7 +3635,7 @@ The structural fact the chapter establishes: the entry posits *two* Proto-Indo-E
 
 The chapter's polemic account: the suppletion explanation is the PIE reconstruction project's standard move for any Sanskrit verbal paradigm that does not match a single reconstructable ancestor-form. *Posit two PIE ancestor-forms, derive the paradigm's parts from each, treat the suppletion as inheritance from the proto-language*. The move preserves the account's theoretical commitments (every Sanskrit form must derive from some PIE form; the reconstruction must produce the daughter paradigms) at the cost of multiplying entities — two ancestor-forms, with their reconstructed paradigms, their reconstructed semantic relations, their reconstructed cross-daughter-language correspondences, all to handle the unity the Sanskrit side keeps visible.
 
-The alternative account active in §18.8 is narrower and cleaner: Pāṇinian architecture holds the *dṛś* family as a generated Sanskrit family, and *paśyati* is generated through standard present-stem derivation. The daughter-language cognates display partial inheritance through contact-transfer from the operational Sanskrit field, not from a starred two-PIE-ancestor account. The reconstruction project's two-PIE-ancestor postulation is residue of the same operation applied in reverse — the project working backward from the Sanskrit material and projecting the PIE ancestor-forms the daughter languages would need to have inherited.
+The alternative account active in §18.9 is narrower and cleaner: Pāṇinian architecture holds the *dṛś* family as a generated Sanskrit family, and *paśyati* is generated through standard present-stem derivation. The daughter-language cognates display partial inheritance through contact-transfer from the operational Sanskrit field, not from a starred two-PIE-ancestor account. The reconstruction project's two-PIE-ancestor postulation is residue of the same operation applied in reverse — the project working backward from the Sanskrit material and projecting the PIE ancestor-forms the daughter languages would need to have inherited.
 
 The Wiktionary entry is one of many instances where the chapter's analysis can be tested against routine etymological reference. The broader engagement with the routine reference ecosystem (etymonline, Wiktionary, the dictionary etymological notes) develops across Chapter 18 §§18.4–18.8 and across the cementing-of-PIE analysis at endnote `pie-cementing-recent-decades`.
 
@@ -4264,7 +4314,7 @@ Source: Bybee 1985, *Morphology: A Study of the Relation between Meaning and For
 
 **Short:** The Western philological account projects Latin *deus* and Sanskrit *devaḥ* back to a reconstructed PIE **\*deiwós** ("deity") under **\*dyew-** ("to shine"); the book treats the shared "shine" semantics as reflections of the engineered Sanskrit calibrant rather than evidence of a vanished common ancestor.
 
-**Deployments:** Ch18 §18.6 (the *deva* chain); Figure 18.2.
+**Deployments:** Ch18 §18.7 (the *deva* chain); Figure 18.6.
 
 Source: Michiel de Vaan, *Etymological Dictionary of Latin and the Other Italic Languages* (Leiden: Brill, 2008), entries for *deus* / *dīus*; verify exact reconstruction and wording against the edition used for final citation.
 
@@ -4272,18 +4322,18 @@ Source: Michiel de Vaan, *Etymological Dictionary of Latin and the Other Italic 
 
 ### `asura-standard-etymology-contested`
 
-**Short:** Ch 18 §18.7 uses the Western philological dogma's account of *asura-* as an example of PIE overreach: Mayrhofer treats Sanskrit *asura-* through Indo-Iranian **\*asura-** and toward a contested PIE reconstruction — while the machinery's own dictionary already recorded both Sanskrit derivations side by side: Monier-Williams s.v. *asura* gives the *asu* (life-force, via √as) derivation and the privative *a-* + *sura* re-analysis in the same entry.
+**Short:** Ch 18 §18.8 uses the Western philological dogma's account of *asura-* as an example of PIE overreach: Mayrhofer treats Sanskrit *asura-* through Indo-Iranian **\*asura-** and toward a contested PIE reconstruction — while the machinery's own dictionary already recorded both Sanskrit derivations side by side: Monier-Williams s.v. *asura* gives the *asu* (life-force, via √as) derivation and the privative *a-* + *sura* re-analysis in the same entry.
 
-**Deployments:** Ch18 §18.7 (the *asura* / PIE-is-a-lie case — the contested-reconstruction charge at the section opening, and the "pyramid was clearly aware of both words" documented-awareness charge at the two-words paragraph).
+**Deployments:** Ch18 §18.8 (the *asura* / PIE-is-a-lie case — the contested-reconstruction charge at the section opening, and the "pyramid was clearly aware of both words" documented-awareness charge at the two-words paragraph).
 
 <!-- AISWEEP-OLD
 The note is deliberately narrow. It does not need to settle the scholarly dispute over the ultimate etymology of *asura*. It records the point the chapter uses: the Western philological dogma itself flags the deeper PIE reconstruction as contested, while Sanskrit preserves the operating term in a real textual, ritual, philosophical, and civilizational field.
 AISWEEP-END -->
 Settling the scholarly dispute over the ultimate etymology of *asura* is not the point of the note. The point the chapter uses is narrower: the Western philological dogma itself flags the deeper PIE reconstruction as contested, while Sanskrit preserves the operating term in a real textual, ritual, philosophical, and civilizational field. The burden remains on the reconstruction to explain more than sound resemblance.
 
-On the specific divergence §18.7 turns on: the Western philological apparatus (Mayrhofer's *Etymologisches Wörterbuch des Altindoarischen*) takes the sovereign sense "lord, mighty one" as the primary value of *asura-* and the privative *a-suraḥ* ("not-light") as a secondary reanalysis. That priority rests on an assumed internal chronology of the maṇḍalas — sovereign-sense "early," adversarial-sense "late" — which the book rejects on principle: the maṇḍalas are functionally differentiated, not chronological strata (the category-before-calendar frame; the chronology-capture argument of Chapter 1). The maṇḍala-to-maṇḍala variation is functional, not temporal. *Asura* carries the sovereign-epithet function in the hymns of cosmic ordering — Varuṇa the *asuro viśvavedāḥ*, "the all-knowing Asura" who props the heaven and measures the earth (RV 8.42.1); Agni identified with Rudra, *asuro maho divaḥ*, "the Asura of the great heaven" (RV 2.1.6) — and the adversarial function where opposition is the theme. The privative is the engineered form; the sovereign sense is the function the word serves where sovereignty is the theme, on the structural grounds developed across Chapters 3, 13, and 17. (The standalone *sura* "light/deva" does not occur in the Ṛgvedic corpus; it is an artifact of parsing *asura* as *a-sura*.)
+On the specific divergence §18.8 turns on: the Western philological apparatus (Mayrhofer's *Etymologisches Wörterbuch des Altindoarischen*) takes the sovereign sense "lord, mighty one" as the primary value of *asura-* and the privative *a-suraḥ* ("not-light") as a secondary reanalysis. That priority rests on an assumed internal chronology of the maṇḍalas — sovereign-sense "early," adversarial-sense "late" — which the book rejects on principle: the maṇḍalas are functionally differentiated, not chronological strata (the category-before-calendar frame; the chronology-capture argument of Chapter 1). The maṇḍala-to-maṇḍala variation is functional, not temporal. *Asura* carries the sovereign-epithet function in the hymns of cosmic ordering — Varuṇa the *asuro viśvavedāḥ*, "the all-knowing Asura" who props the heaven and measures the earth (RV 8.42.1); Agni identified with Rudra, *asuro maho divaḥ*, "the Asura of the great heaven" (RV 2.1.6) — and the adversarial function where opposition is the theme. The privative is the engineered form; the sovereign sense is the function the word serves where sovereignty is the theme, on the structural grounds developed across Chapters 3, 13, and 17. (The standalone *sura* "light/deva" does not occur in the Ṛgvedic corpus; it is an artifact of parsing *asura* as *a-sura*.)
 
-**The documented-awareness charge.** The "clearly aware of both words" sentence in §18.7 rests on the machinery's own reference works. Monier-Williams, *A Sanskrit-English Dictionary* (Oxford: Clarendon Press, 1899), s.v. *asura*: the entry derives the word from *asu* ("spirit, life-force"; via √as, "to be") — the breath-bearer derivation — **and** records the re-analysis as *a-* + *sura* (the privative), in the same entry; s.v. *sura*, MW makes the privative analysis explicit — *sura* "probably from *asura*, as if from *a-sura*, and as *sita* from *a-sita*" — a light/dark pair as the chosen analogy. The same dictionary carries the dhātu सुर् "to shine" from the *Dhātupāṭha* (see `sura-dhatu-dipti`). And the discipline's own press printed Yāska's four parses: Lakshman Sarup, *The Nighaṇṭu and the Nirukta* (Oxford University Press, 1920–27). Both words, both derivations, the shining dhātu, and Yāska's open menu — all in the machinery's own publications before and while the reversal-story was taught. The conflation was not made in ignorance of the second word; it was made with both words on the page.
+**The documented-awareness charge.** The "clearly aware of both words" sentence in §18.8 rests on the machinery's own reference works. Monier-Williams, *A Sanskrit-English Dictionary* (Oxford: Clarendon Press, 1899), s.v. *asura*: the entry derives the word from *asu* ("spirit, life-force"; via √as, "to be") — the breath-bearer derivation — **and** records the re-analysis as *a-* + *sura* (the privative), in the same entry; s.v. *sura*, MW makes the privative analysis explicit — *sura* "probably from *asura*, as if from *a-sura*, and as *sita* from *a-sita*" — a light/dark pair as the chosen analogy. The same dictionary carries the dhātu सुर् "to shine" from the *Dhātupāṭha* (see `sura-dhatu-dipti`). And the discipline's own press printed Yāska's four parses: Lakshman Sarup, *The Nighaṇṭu and the Nirukta* (Oxford University Press, 1920–27). Both words, both derivations, the shining dhātu, and Yāska's open menu — all in the machinery's own publications before and while the reversal-story was taught. The conflation was not made in ignorance of the second word; it was made with both words on the page.
 
 Source: Manfred Mayrhofer, *Etymologisches Wörterbuch des Altindoarischen* (Heidelberg: Carl Winter, 1992–2001), entry for *asura-*; Monier-Williams (1899), s.vv. *asura*, *sura*, and the root सुर्; Sarup (1920–27). [VERIFY: exact PIE reconstruction and wording against the Mayrhofer edition used for final citation; exact page/column for the MW *asura* and *sura* entries at print-prep.]
 
@@ -4862,7 +4912,7 @@ Keep **स्वाद् (*svād*)** as reserve if the prose needs a more immed
 
 **Short:** Two names describe one boundary process. From Sanskrit's side, the process is **अपभ्रंश (*apabhraṃśa*)** — falling away from the engineered *śabda*. From the receiving language's side, the same process is **vivimorphosis** — the engineered molecule acquiring organic behavior as a seed and then as an organic form in another language.
 
-**Deployments:** Chapter 12 §12.9; Chapter 18 §§18.6–18.7 when the worked examples (*mātṛ* → *mother*, *yuga* → *yoke*, *devaḥ* → Latin *deus*, *asuraḥ* → Avestan *ahura*) are developed.
+**Deployments:** Chapter 12 §12.9; Chapter 18 §§18.8–18.8 when the worked examples (*mātṛ* → *mother*, *yuga* → *yoke*, *devaḥ* → Latin *deus*, *asuraḥ* → Avestan *ahura*) are developed.
 
 Chapter 6 establishes the Sanskrit-side term through Patañjali's *Paspaśāhnika*: *apaśabda* and *apabhraṃśa* denote the slipped or fallen-away form that leaves the correct *śabda*. From the contact-language side, the same event looks different. The Sanskrit form has fallen away from the calibrant architecture; in the receiving language, that received form can become productive and historically fertile.
 

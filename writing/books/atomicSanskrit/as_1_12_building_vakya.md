@@ -257,7 +257,7 @@ What the philological dogma treats as ancestral bases across its reconstructed d
 
 **Inverse:** petrification turns organic → mineral; vivimorphosis turns engineered → organic, via the seed.
 
-The form that sprouts from the *bīja* — the expressed organic form — is what Patañjali calls **अपशब्द (*apaśabda*)** in the *Mahābhāṣya* (1.1.1): the slipped form, the canonical opposite of *śabda*. The *śabda* and *apaśabda* differ fundamentally in kind. The *śabda* is an engineered molecule held by specification within the calibrant architecture. The *apaśabda* is an organic form expressed from a *bīja*, taking nourishment from its new linguistic soil. While the engineered molecule resists drift, the organic form develops descendants, mutations, branches, and a line of evolution within the receiving language.
+The form that sprouts from the *bīja* — the expressed organic form — is what Patañjali calls **अपशब्द (*apaśabda*)** in the *Mahābhāṣya* (1.1.1): the slipped form, the named opposite of *śabda*. The *śabda* and *apaśabda* differ fundamentally in kind. The *śabda* is an engineered molecule held by specification within the calibrant architecture. The *apaśabda* is an organic form expressed from a *bīja*, taking nourishment from its new linguistic soil. While the engineered molecule resists drift, the organic form develops descendants, mutations, branches, and a line of evolution within the receiving language.
 
 The category-theft charge has already reclaimed *dhātuḥ* from the botanical substitute. The philological dogma has long labeled Sanskrit's *dhātavaḥ* with a plant-word — a category-theft that Chapter 2 dismantles, because *dhātavaḥ* are engineered constituents in an atomic architecture rather than organic origins. The botanical metaphor was a valid linguistic concept aimed at the wrong target. The true organic form is the *apaśabda*: a form that grows, branches, mutates, and dies in the soil of a natural language. Organic forms are what *apaśabdas* are, while *dhātavaḥ* remain constituents.
 
@@ -267,7 +267,7 @@ Petrification turns a living tree into stone. The form is preserved across geolo
 
 The cost of organic behavior is mortality. The cost of engineered permanence is the absence of ordinary drift. Inside Sanskrit, the form remains engineered. In contact languages, what Sanskrit engineered can become productive in a new ecology.
 
-Chapter 18 §18.6 develops the worked examples: *devaḥ* becoming Latin *deus*; *asuraḥ* becoming Avestan *ahura*; *Sindhuḥ* (Chapter 9 §9.5) becoming Old Persian *Hinduš* and then Greek *Indós* and Latin *Indus*. Each is one *śabda* that crossed the calibrant boundary and vivimorphosed into an organic form with its own productive behavior in a contact language. The organic form retains the molecule's atomic signature without preserving its engineered bonds. The form becomes organically productive, but the engineering is gone.
+Chapter 18 §18.7 develops the worked examples: *devaḥ* becoming Latin *deus*; *asuraḥ* becoming Avestan *ahura*; *Sindhuḥ* (Chapter 9 §9.5) becoming Old Persian *Hinduš* and then Greek *Indós* and Latin *Indus*. Each is one *śabda* that crossed the calibrant boundary and vivimorphosed into an organic form with its own productive behavior in a contact language. The organic form retains the molecule's atomic signature without preserving its engineered bonds. The form becomes organically productive, but the engineering is gone.
 
 **The pressures of language explain the similarities. They cannot explain the architecture.**
 

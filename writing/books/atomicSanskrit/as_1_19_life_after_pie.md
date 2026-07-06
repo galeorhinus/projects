@@ -6,6 +6,8 @@ That explanation has three calibrant waves and one diasporic wave.
 
 Wave 1 carried Sanskritic structure outward before Pāṇini, through expert transmission. Wave 2 carried the science of grammar outward after Pāṇini, through methodological imitation. The Diasporic Wave carried Indic substrate outward through communities rather than experts. Wave 3 is contemporary: the restated engineered Sanskrit thesis entering global discourse, conditional on the carriers relearning the architecture themselves.
 
+The waves are not population-ancestry stories. They are radiance stories: trained carriers taking Sanskritic light outward in different forms — and the trees of Chapter 18 grow where that light landed.
+
 Life after PIE begins with architecture standing on its own ground.
 
 ## 19.1 Wave 1 — Pre-Pāṇinian Propagation

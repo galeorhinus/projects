@@ -100,7 +100,7 @@ The parallel between Vol 1 and the forthcoming volumes is the *engineering-prese
 ### 3.5 Asuras-as-noise / devas-as-light cosmic register
 
 - The sound axis of *asuratva* vs the light axis of *daivatva*. Humans find quietude by moving from darkness to light.
-- Vol 1's Ch 18 §18.7 establishes the linguistic vivimorphosis (*asura → ahura* phonetics); forthcoming volumes develop the polity-architectural and economic-architectural meanings.
+- Vol 1's Ch 18 §18.8 establishes the linguistic vivimorphosis (*asura → ahura* phonetics); forthcoming volumes develop the polity-architectural and economic-architectural meanings.
 
 ### 3.6 Followers vs seekers as human typology
 
@@ -209,7 +209,7 @@ The political volume closes loops *Atomic Sanskrit* opens but does not develop:
 - The pyramid-vs-swastika contrast (Ch 3 §3.6) gets built out into the fractal-democracy positive program.
 - The *prakriti / sanskriti* binary (Ch 5) gets extended to the three-shape framework (*prakriti / vikriti / sanskriti*) with the geometric mapping.
 - The *Sanātan* architecture (Ch 3 §3.6 close; Ch 5 §5.6) gets its political-organizational specification.
-- The *asura* etymology and *Pratibimba* (Ch 18 §18.7) gets its cosmic-register development (asuras-as-noise / devas-as-light) and the suric/asuric political-architectural implications.
+- The *asura* etymology and *Pratibimba* (Ch 18 §18.8) gets its cosmic-register development (asuras-as-noise / devas-as-light) and the suric/asuric political-architectural implications.
 
 ---
 
@@ -218,7 +218,7 @@ The political volume closes loops *Atomic Sanskrit* opens but does not develop:
 ### 5.1 *Durartha-śāstra* — economics as scarcity-management
 
 - The Sanskrit-anchor for the economics-as-scarcity-management critique.
-- Variant spelling: *Doosthashastra* — the author to lock the canonical form.
+- Variant spelling: *Doosthashastra* — the author to lock the final form.
 - The Western tradition's economics operates on scarcity as foundational; the Indic tradition's alternative operates on *vasudha has plenty for everyone's need but not for everyone's greed*.
 
 ### 5.2 Make God scarce
@@ -343,7 +343,7 @@ This section grows as material surfaces during *Atomic Sanskrit* work that prope
 
 - **The *Shanti-as-quietude-not-peace* re-definition.** Already deployed in the *Atomic Sanskrit* "About the Second Shanti Series" front-matter page; the political volume develops the polity-architectural implication.
 
-- **The deva-as-light / asura-as-noise polity-architectural account** beyond the linguistic vivimorphosis of Ch 18 §18.7.
+- **The deva-as-light / asura-as-noise polity-architectural account** beyond the linguistic vivimorphosis of Ch 18 §18.8.
 
 - **The *Vedas* as the empirical demonstration of distributed order without an apex.** Three connected observations the user flagged during the Ch 5 §5.5 / Appendix Part 7 work on *chandas + śruti* as the anti-entropy form: (i) **The Vedas are a working example of a democratic system in which continuing order is maintained without authority** — the architecture is self-policing through *chandas* (meter as cryptographic hash) + *śruti* (audience-as-verifier across thousands of years, through *guru-shishya paramparā*), with no apex office controlling the corpus. *Apauruṣeya* is the operating premise; there is no Pope of *śruti*. *(ii)* **The Vedas threaten pyramidal order at such a core level that every asuric mind everywhere in the world is threatened by them.** Every asuric / pyramidal formation requires traceable human authorization at the apex; *apauruṣeya* texts have no apex to authorize, no source to capture, no priestly monopoly to maintain. The pyramid cannot file what *apauruṣeya* presents to it; the architecture is structurally inoperable against pyramidal capture. *(iii)* **India has fought this battle internally as well.** The dharmic tradition's *swastika* organization has had to defend itself not only against external asuric formations but against internal centralizing tendencies — sect-based apex-claims, institutional pyramid-building inside the *paramparā*, political organizations that try to convert the rotational architecture into a pyramidal corporation. The battle is structural and ongoing. *Cross-references in Atomic Sanskrit:* Ch 3 §3.6; Ch 5 §5.5; Ch 10 §10.8; Appendix Part 7 §7.6.
 
@@ -374,7 +374,7 @@ Places where *Atomic Sanskrit* touches forthcoming-volume territory without deve
 - **Chapter 3 §3.6** — *asuratva*, the pyramid-vs-swastika contest, the Vedas-as-weapon-against-every-pyramid sharpening.
 - **Chapter 5 §5.5–§5.6** — *apabhraṃśa* → *chandas + śruti* engineering; the *sanātan* / *prakriti* / *sanskriti* base terminology.
 - **Chapter 13–16** — engineered preservation; the calibration matrix; the *Auditure* / *Mnemoniture* / *Flexture* four-coinage taxonomy; the eleven *pāṭhas*.
-- **Chapter 18 §18.7** — the *asura → ahura* linguistic vivimorphosis; the cosmic-register backdrop for the polity-architectural argument.
+- **Chapter 18 §18.8** — the *asura → ahura* linguistic vivimorphosis; the cosmic-register backdrop for the polity-architectural argument.
 - **Epilogue** — the civilizational close and the signal of the larger inquiry; the most direct hand-off point.
 - **Appendix Part 7 (The Vedic Carrier)** — the demonstration that the Vedas implicitly carry the architecture; the empirical proof-of-concept the political volume operates from.
 
@@ -405,7 +405,7 @@ Forthcoming volumes may coin additional standing vocabulary:
 
 - *Fractal democracy* (political-volume defining)
 - *Restraint vs constraint* (load-bearing polarity)
-- *Durartha-śāstra* / *Doosthashastra* (the Sanskrit-anchor for the economics-as-scarcity-management critique — author to lock canonical form)
+- *Durartha-śāstra* / *Doosthashastra* (the Sanskrit-anchor for the economics-as-scarcity-management critique — author to lock final form)
 - *Sat-asat-viveka-buddhi* (the discriminative-intelligence faculty)
 - *Aham / atma* polarity
 - *Paroksha / aparoksha* polarity
