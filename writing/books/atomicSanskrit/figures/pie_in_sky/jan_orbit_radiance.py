@@ -129,9 +129,10 @@ def main():
     ax.text(2.45, -2.16, "trees grow where the light lands",
             fontsize=6.4, color=ACCENT, ha="center", style="italic")
 
-    for name in ("jan_orbit_radiance.from-py.svg", "jan_orbit_radiance.svg"):
-        fig.savefig(OUT / name, bbox_inches="tight")
-    print("wrote", OUT / "jan_orbit_radiance.svg")
+    # emits ONLY the .from-py.svg staging file; the working .svg is the
+    # promoted CD final and must never be overwritten by regeneration.
+    fig.savefig(OUT / "jan_orbit_radiance.from-py.svg", bbox_inches="tight")
+    print("wrote", OUT / "jan_orbit_radiance.from-py.svg")
 
 
 if __name__ == "__main__":

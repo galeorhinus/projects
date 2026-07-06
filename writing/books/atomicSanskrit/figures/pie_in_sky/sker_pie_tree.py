@@ -96,9 +96,10 @@ def main():
             "— and no Sanskrit appears on it",
             fontsize=6.6, color=ACCENT, ha="left", va="center")
 
-    for name in ("sker_pie_tree.from-py.svg", "sker_pie_tree.svg"):
-        fig.savefig(OUT / name, bbox_inches="tight")
-    print("wrote", OUT / "sker_pie_tree.svg")
+    # emits ONLY the .from-py.svg staging file; the working .svg is the
+    # promoted CD final and must never be overwritten by regeneration.
+    fig.savefig(OUT / "sker_pie_tree.from-py.svg", bbox_inches="tight")
+    print("wrote", OUT / "sker_pie_tree.from-py.svg")
 
 
 if __name__ == "__main__":
