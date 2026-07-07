@@ -120,7 +120,7 @@ Each term designates a physical operation. The vocabulary maps directly onto phy
 
 The Sanskrit system classifies sound through contact.
 
-A sound may involve full contact, light contact, constriction without full contact, or no contact. The śāstric terms are **स्पृष्ट (*spṛṣṭa*)** — touched; **ईषत्स्पृष्ट (*īṣat-spṛṣṭa*)** — lightly touched; **ईषत्संवृत (*īṣat-saṃvṛta*)** — lightly closed; and **अस्पृष्ट (*aspṛṣṭa*)** — untouched.[NOTE: sprista-isatsprista-isatsamvrta-vivrta-constriction]
+Every sound requires a specific degree of contact. The mouth might clamp shut entirely, touch lightly, constrict the airflow, or make no contact at all. The śāstric terms mark these levels with absolute precision. **स्पृष्ट (*spṛṣṭa*)** means fully touched. **ईषत्स्पृष्ट (*īṣat-spṛṣṭa*)** means lightly touched. **ईषत्संवृत (*īṣat-saṃvṛta*)** means lightly closed, constricting the air without full contact. Finally, **अस्पृष्ट (*aspṛṣṭa*)** means entirely untouched.[NOTE: sprista-isatsprista-isatsamvrta-vivrta-constriction]
 
 From those contact-types arise four major sound classes.
 
@@ -142,7 +142,7 @@ The Sanskrit sound-system rests on three governing questions: **स्थान 
 
 In modern phonetics, *sthāna* corresponds closely to place of articulation. *Prayatna* corresponds broadly to manner and effort, but it holds more than the English word *manner*: contact-type, voicing, aspiration, breath-pressure, and nasal coupling all belong to what the body does at the chosen place.
 
-*Prayatna* is the effort applied to that geometry. It divides into two layers. **आभ्यन्तर प्रयत्न (*ābhyantara prayatna*)** is internal effort: the contact or constriction type at the place. **बाह्य प्रयत्न (*bāhya prayatna*)** is external effort: voicing (***अनुप्रदान (*anupradāna*)*** — *śvāsa* breath versus *nāda* resonance), aspiration, breath pressure, and nasal coupling.[NOTE: abhyantara-bahya-prayatna][NOTE: svasa-nada-vivrta-samvrta-phonation]
+*Prayatna* is the effort applied to the mouth's geometry. It splits into internal and external effort. **आभ्यन्तर प्रयत्न (*ābhyantara prayatna*)** is the internal effort: the specific degree of contact or constriction at the physical place. **बाह्य प्रयत्न (*bāhya prayatna*)** is the external effort — it manages the final output: voicing (***अनुप्रदान (*anupradāna*)***, which toggles between *śvāsa* breath and *nāda* resonance), aspiration, breath pressure, and nasal coupling.[NOTE: abhyantara-bahya-prayatna][NOTE: svasa-nada-vivrta-samvrta-phonation]
 
 The full classification runs on multiple axes. It measures exactly where the sound is made, what moves to make it, and how the breath and vocal cords behave.
 
