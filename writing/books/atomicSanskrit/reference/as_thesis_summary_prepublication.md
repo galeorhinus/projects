@@ -100,6 +100,6 @@
 
 29. **Sanskrit is a preserved and still-generative architecture.** Its category has been obscured.
 
-30. **India's civilizational responsibility remains central.** Sanskrit was preserved by a civilization, not by an abstract academic object called "language."
+30. **India's civilizational responsibility remains central.** Sanskrit was preserved by a civilization, not by codification and not by authority.
 
 31. **The work now is recognition and transmission.** Once the category is corrected, the next task is to learn, teach, and preserve Sanskrit on its own terms.
