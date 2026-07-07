@@ -56,7 +56,7 @@
 
 11. **Calling Indic scripts by a foreign typological label hides the achievement.** The achievement is articulated sound made visible through a pre-existing sound order.
 
-12. **The label "abugida" files Indic scripts under a typology blind to the architecture.** It sorts the visible marks but not the sound those marks render; that architecture has a name of its own, reserved for the book.
+12. **The pyramid files Indic scripts under "abugida" — a typology blind to the architecture.** It sorts the visible marks but not the sound those marks render; that architecture has a name of its own, reserved for the book.
 
 ### Word Formation
 
