@@ -36,7 +36,7 @@ Third, Pāṇini is placed at the rupture-point. Before him, the language was ch
 
 Fourth, the living speech of the people is cast as the natural continuation of change. The Prakrits and later regional languages are made the organic descendants of spoken usage. Sanskrit becomes the elite, priestly, literary, codified form held artificially above the stream.
 
-The story is elegant because it tracks the assumptions of the field that tells it. Natural languages drift. Standard languages are codified. Older stages precede newer stages. Named authorities regularize what speakers have made unstable. A named genius fits the pyramid's account of knowledge better than an anonymous architecture carried across thousands of years.
+The story is elegant because it tracks the assumptions of the field that tells it. Natural languages drift. Standard languages are codified. Older stages precede newer stages. Named authorities regularize what speakers have made unstable. A named genius fits the pyramid's account of knowledge better than an anonymous architecture held across thousands of years.
 
 But elegance is not evidence.
 
@@ -54,7 +54,7 @@ The second claim is **Vedic-to-Classical drift**. The pyramid points to differen
 
 These are not the same claim.
 
-The first says the Vedic corpus itself shows uncontrolled historical movement. Appendix Part 7 answered that: the Vedic corpus carries engineered mode-difference, metrical tooling, recension-specific specification, and preserved optionality. The evidence does not show unbounded drift. It shows bounded variation inside a preservation system.
+The first says the Vedic corpus itself shows uncontrolled historical movement. Appendix Part 7 answered that: the Vedic corpus preserves engineered mode-difference, metrical tooling, recension-specific specification, and preserved optionality. The evidence does not show unbounded drift. It shows bounded variation inside a preservation system.
 
 The second says Pāṇini stands between two languages or two chronological stages. The Preface, Chapter 1, Chapter 5, and Chapter 17 answer that: **वैदिक (*vaidika*)** and **लौकिक (*laukika*)** are domains; **छन्दस् (*chandas*)** and **भाषा (*bhāṣā*)** are modes. Domain is not chronology. Mode is not drift.
 
@@ -86,15 +86,15 @@ That is not measurement. That is bootstrapping.
 
 Chapter 5 introduced the diagnostic the codification story requires. There are three different frames for linguistic change, and they correspond to the categories Chapter 1 developed.
 
-1. **Natural drift** is the ***प्रकृति (*prakṛti*)*** frame. It is what ordinary speech does when no strong internal preservation architecture constrains it. Sounds shift. Endings erode. Word meanings slide. Forms regularize by analogy or break by frequency. Communities carry the forms forward without remembering the older architecture. Old English becomes Middle English. Latin becomes Romance. The form changes, the meaning changes, and the earlier system becomes unrecoverable without scholarly apparatus. This is standardization by usage.
+1. **Natural drift** is the ***प्रकृति (*prakṛti*)*** frame. It is what ordinary speech does when no strong internal preservation architecture constrains it. Sounds shift. Endings erode. Word meanings slide. Forms regularize by analogy or break by frequency. Communities hold the forms forward without remembering the older architecture. Old English becomes Middle English. Latin becomes Romance. The form changes, the meaning changes, and the earlier system becomes unrecoverable without scholarly apparatus. This is standardization by usage.
 
 2. **Codified correction** is the pyramidal frame. An academy, court, priesthood, school, state, dictionary, grammar, or educational apparatus declares a standard and corrects usage against it. The authority says: this is the correct form. Speakers are corrected because they have departed from the authorized standard. The model is pyramidal. Correctness descends from above. This is standardization by codification.
 
-3. **Engineered self-correction** is the ***संस्कृति (*saṃskṛti*)*** frame. The architecture itself carries the diagnostic. Meter detects the wrong syllable weight. Recitation detects the wrong sound. The *padapāṭha* detects broken word-boundaries. The *krama*, *jaṭā*, and *ghana* recitations detect sequence-drift. The *Prātiśākhya* detects phonetic error by *śākhā*. The *Śikṣā* discipline trains the mouth. The *Aṣṭādhyāyī* detects malformed derivation. The *Dhātupāṭha* preserves the atomic inventory. The system corrects by internal fit. This is standardization by calibration.
+3. **Engineered self-correction** is the ***संस्कृति (*saṃskṛti*)*** frame. The architecture itself builds the diagnostic. Meter detects the wrong syllable weight. Recitation detects the wrong sound. The *padapāṭha* detects broken word-boundaries. The *krama*, *jaṭā*, and *ghana* recitations detect sequence-drift. The *Prātiśākhya* detects phonetic error by *śākhā*. The *Śikṣā* discipline trains the mouth. The *Aṣṭādhyāyī* detects malformed derivation. The *Dhātupāṭha* preserves the atomic inventory. The system corrects by internal fit. This is standardization by calibration.
 
 The pyramid's account pushes Sanskrit before Pāṇini into the first frame and Sanskrit after Pāṇini into the second. Sanskrit operates in the third.
 
-This is the distinction the whole book has carried:
+This is the distinction the whole book has held:
 
 > Codification is standardization by authority.  
 > Calibration is standardization by architecture.
@@ -147,7 +147,7 @@ The Pāṇini-as-rupture tactic is heroic erasure in its sharpest form: praise t
 
 The architecture says the opposite.
 
-The Vedas remain the primary measure. *Bhāṣā* remains exposed to *apabhraṃśa*. Pāṇini compresses the rules for *bhāṣā* so that the speech mode can be calibrated more easily against the architecture the Vedas carry.
+The Vedas remain the primary measure. *Bhāṣā* remains exposed to *apabhraṃśa*. Pāṇini compresses the rules for *bhāṣā* so that the speech mode can be calibrated more easily against the architecture the Vedas preserve.
 
 The Vedas preserved the architecture. Pāṇini made the architecture operational.
 
@@ -211,7 +211,7 @@ A skeptic may still say: but Sanskrit did change. The answer is exact: ordinary 
 
 That is the civilizational design. Sanātan did not require every person to speak the calibrant language. Society spoke its living languages, its household speech, its market idioms, its songs, its regional forms. Sanskrit stood elsewhere. It was the *dhruvamān bhāṣā*, the north-star language: stable enough to orient speech, memory, knowledge, ritual, and grammar without needing to police every living mouth.
 
-Codified languages require authority to correct them. Calibrated Sanskrit carries correction inside the architecture.
+Codified languages require authority to correct them. Calibrated Sanskrit builds correction inside the architecture.
 
 ## 8.10 The Same-Timeline Test
 
@@ -259,7 +259,7 @@ The Bhagavad Gītā says:
 >
 > *karmaṇy evādhikāras te mā phaleṣu kadācana |*
 
-**कर्मणि** is locative under sandhi; **अधिकारः** is nominative; **ते** carries dative force; **फलेषु** is locative plural. Sandhi joins, case endings bear the load, word order remains free because grammar is carried on the word.
+**कर्मणि** is locative under sandhi; **अधिकारः** is nominative; **ते** holds dative force; **फलेषु** is locative plural. Sandhi joins, case endings bear the load, word order remains free because grammar lives on the word.
 
 Kālidāsa opens the *Raghuvaṃśa*:
 
@@ -267,7 +267,7 @@ Kālidāsa opens the *Raghuvaṃśa*:
 >
 > *vāgarthāv iva saṃpṛktau vāgarthapratipattaye |*
 
-**वाक्** and **अर्थ** compound into **वागर्थ**; the dual ending in **वागर्थौ** / **सम्पृक्तौ** is doing real grammatical work; **प्रतिपत्तये** carries the dative purpose. Later poetry, continuous architecture: compounding, case, number, sandhi, meter.
+**वाक्** and **अर्थ** compound into **वागर्थ**; the dual ending in **वागर्थौ** / **सम्पृक्तौ** is doing real grammatical work; **प्रतिपत्तये** holds the dative purpose. Later poetry, continuous architecture: compounding, case, number, sandhi, meter.
 
 A simple prose opening from the story corpus gives the same result without the pressure of verse:
 
@@ -293,7 +293,7 @@ A non-liturgical example makes the point sharper. *Beowulf* opens:
 >
 > Listen. We have heard of the Spear-Danes in days gone by, of the glory of the people's kings, how those nobles performed deeds of courage.
 
-Translation is needed before the modern reader can enter. *Hwæt* is not *what*. *Gār-Dena* must be unpacked as *Spear-Danes*. *Geārdagum* carries the old dative plural; *Þēodcyninga* compounds people-kings under genitive plural; *Gefrūnon* is not a transparent verb; *Æþelingas* and *ellen* survive only as antiquarian traces. This is not old spelling. It is an earlier architecture — grammar, vocabulary, sound-shape — no longer operating in modern English.
+Translation is needed before the modern reader can enter. *Hwæt* is not *what*. *Gār-Dena* must be unpacked as *Spear-Danes*. *Geārdagum* preserves the old dative plural; *Þēodcyninga* compounds people-kings under genitive plural; *Gefrūnon* is not a transparent verb; *Æþelingas* and *ellen* survive only as antiquarian traces. This is not old spelling. It is an earlier architecture — grammar, vocabulary, sound-shape — no longer operating in modern English.
 
 Middle English is closer but still visibly changed:
 
@@ -305,11 +305,11 @@ Early Modern English comes closer again:
 
 > *Our Father which art in heaven...*
 
-Legible, but marked: *which* where modern usage expects *who*, *art* where modern speech says *are*, verb endings and pronouns surviving mainly in liturgical or archaizing styles. The path from Old English to modern English has already passed through major structural loss — Old English carried five cases (nominative, accusative, genitive, dative, instrumental) and three grammatical genders; modern English keeps a vestigial possessive, an objective pronoun set, and no genders at all. Case collapse, gender loss, phonological shift, vocabulary replacement, hardened word order — the architecture itself was lost.
+Legible, but marked: *which* where modern usage expects *who*, *art* where modern speech says *are*, verb endings and pronouns surviving mainly in liturgical or archaizing styles. The path from Old English to modern English has already passed through major structural loss — Old English had five cases (nominative, accusative, genitive, dative, instrumental) and three grammatical genders; modern English keeps a vestigial possessive, an objective pronoun set, and no genders at all. Case collapse, gender loss, phonological shift, vocabulary replacement, hardened word order — the architecture itself was lost.
 
-A second asymmetry compounds the first. Vedic recitation today still produces the sounds the *Śikṣā* texts specify; the *pāṭha* lineages have preserved the audio. Old English pronunciation is *reconstructed* — no living lineage carries it. The architecture preserves what natural language loses.
+A second asymmetry compounds the first. Vedic recitation today still produces the sounds the *Śikṣā* texts specify; the *pāṭha* lineages have preserved the audio. Old English pronunciation is *reconstructed* — no living lineage preserves it. The architecture preserves what natural language loses.
 
-English did not merely vary by mode. It changed by architecture. The earlier system became inaccessible to ordinary speakers. The modern reader needs specialists, glosses, dictionaries, and training to move backward.
+English did not merely vary by mode. It changed by architecture. The earlier system became inaccessible to ordinary speakers. The modern reader needs specialists, annotations, dictionaries, and training to move backward.
 
 Sanskrit does not show that signature across the examples above. The Vedic verses are not identical to later prose and poetry. They should not be. They operate in *chandas*, under meter, accent, recitation, and Vedic rule-context. Later *bhāṣā* operates differently. But the underlying architecture remains legible: case, number, gender, sandhi, compound, verbal formation, and the *dhātu*-based engine remain visible across the interval the pyramid itself insists on.
 
@@ -317,7 +317,7 @@ The difference is decisive.
 
 Across the pyramid's own timeline, English becomes another language to the ordinary reader. Sanskrit remains Sanskrit. That does not prove absence of variation. It proves a different kind of system: not uncontrolled drift, but architecture held inside calibration.
 
-The exercise also clarifies what the codification story would have to show. Differences between Vedic and later Sanskrit are obvious — listing them is not the test. The test is whether those differences carry the same signature English displays: cascading loss of architecture, ordinary-reader unrecognizability, inflectional collapse, scholarly reconstruction. The Sanskrit evidence shows none of that. It shows mode-difference, metrical tooling, and preserved architecture. The English comparison is the control case.
+The exercise also clarifies what the codification story would have to show. Differences between Vedic and later Sanskrit are obvious — listing them is not the test. The test is whether those differences show the same signature English displays: cascading loss of architecture, ordinary-reader unrecognizability, inflectional collapse, scholarly reconstruction. The Sanskrit evidence shows none of that. It shows mode-difference, metrical tooling, and preserved architecture. The English comparison is the control case.
 
 Old English became modern English through natural drift, conquest, sound change, inflectional loss, lexical replacement, spelling standardization, and authority-based correction. *Beowulf* now needs translation. Sanskrit moved through *chandas* and *bhāṣā*, *śruti* and *smṛti*, *apabhraṃśa* around it and calibration inside it. The two histories are not the same kind of event.
 
@@ -333,9 +333,9 @@ That is the audit the codification story requires.[NOTE: calibration-audit-gap]
 
 The book has already begun the audit across the chapters, though not under this name.
 
-Chapter 4 shows that the grammar discipline predates Pāṇini. Chapter 5 shows that *apabhraṃśa* is a falling-away from an established form, not a stage in a descent tree. Chapter 10 shows atomic compression: a 2,168-entry *Dhātupāṭha* inventory concentrated in compact measured forms, with ten *dhāturacanā* scaffolds carrying more than four-fifths of the corpus. Chapter 11 shows role-patterned consonantal behavior. Chapter 14 shows the six-layer calibration matrix. Appendix Part 6 gives the book-facing numerical audit and points to the Source and Reference Companion for the full audit trail. Appendix Part 7 shows the Vedic corpus already operating the grammar.
+Chapter 4 shows that the grammar discipline predates Pāṇini. Chapter 5 shows that *apabhraṃśa* is a falling-away from an established form, not a stage in a descent tree. Chapter 10 shows atomic compression: a 2,168-entry *Dhātupāṭha* inventory concentrated in compact measured forms, with ten *dhāturacanā* scaffolds holding more than four-fifths of the corpus. Chapter 11 shows role-patterned consonantal behavior. Chapter 14 shows the six-layer calibration matrix. Appendix Part 6 gives the book-facing numerical audit and points to the Source and Reference Companion for the full audit trail. Appendix Part 7 shows the Vedic corpus already operating the grammar.
 
-The audit also has to account for the minimum layer. ⟪ऋ⟫ (*ṛ*) is a semantic atom of one मात्रा (*mātrā*) in the *Dhātupāṭha* — the bare vowel-core, the smallest possible धातुः (*dhātuḥ*). The Vedic naming layer carries the same sound in ऋच् (*ṛc*) and ऋग्वेद (*Ṛgveda*). The cosmological layer carries it in ऋत (*ṛta*). The Śikṣā discipline places ऋ (*ṛ*) at the *mūrdhanya* site. That stack is not compatible with a late-peripheral substrate feature. It is the kind of deep architectural placement the calibration audit exists to test. Codification cannot explain a sound already operating as atom, Vedic name, cosmological term, and articulatory site.
+The audit also has to account for the minimum layer. ⟪ऋ⟫ (*ṛ*) is a semantic atom of one मात्रा (*mātrā*) in the *Dhātupāṭha* — the bare vowel-core, the smallest possible धातुः (*dhātuḥ*). The Vedic naming layer holds the same sound in ऋच् (*ṛc*) and ऋग्वेद (*Ṛgveda*). The cosmological layer holds it in ऋत (*ṛta*). The Śikṣā discipline places ऋ (*ṛ*) at the *mūrdhanya* site. That stack is not compatible with a late-peripheral substrate feature. It is the kind of deep architectural placement the calibration audit exists to test. Codification cannot explain a sound already operating as atom, Vedic name, cosmological term, and articulatory site.
 
 That is what the audit begins to find.
 
@@ -479,9 +479,9 @@ The replacement model is simpler than the pyramid's story because it does not ne
 
 Sanskrit stands before the historical record as an already engineered architecture. Who specified it, when the specification occurred, and how it entered human transmission are not questions this book pretends to answer. The lineage-chain says the *ṛṣis* saw and the lineage heard. The rationalist mind may bracket the metaphysics. It still has to account for the architecture.
 
-The Vedas are the primary calibration matrix. They are not reducible to scripture. They are also the preserved corpus-form of the linguistic architecture. They carry grammar, sound, meter, derivation, and transmission in one body.
+The Vedas are the primary calibration matrix. They are not reducible to scripture. They are also the preserved corpus-form of the linguistic architecture. They hold grammar, sound, meter, derivation, and transmission in one body.
 
-The pre-Pāṇinian disciplines decode what the Vedas carry. *Nirukta* decodes word-meaning. *Prātiśākhya* decodes phonetic specification. *Śikṣā* trains articulation. *Chandas* measures timing. *Padapāṭha* decomposes sequence. The earlier *vaiyākaraṇāḥ* Pāṇini cites are the documentary trace of a decoding lineage already operating.
+The pre-Pāṇinian disciplines decode what the Vedas preserve. *Nirukta* decodes word-meaning. *Prātiśākhya* decodes phonetic specification. *Śikṣā* trains articulation. *Chandas* measures timing. *Padapāṭha* decomposes sequence. The earlier *vaiyākaraṇāḥ* Pāṇini cites are the documentary trace of a decoding lineage already operating.
 
 Pāṇini compresses the architecture into the *Aṣṭādhyāyī*. That compression gives *bhāṣā* an accessible working calibrant. The Vedas remain the primary measure; the *Aṣṭādhyāyī* becomes the manual by which later generations can keep learned speech aligned with the measure.
 
@@ -501,7 +501,7 @@ The story that Pāṇini codified Sanskrit is not a neutral summary. It is the p
 
 The bridge collapses.
 
-The Vedas already carry the grammar. The pre-Pāṇinian decoders already analyze the system. Patañjali already states the established bond. *Apabhraṃśa* already denotes entropy. Pāṇini already distinguishes modes, not periods. The *Aṣṭādhyāyī* already includes licensed variation. The *Dhātupāṭha* already displays atomic compression. The calibration matrix already preserves form.
+The Vedas already preserve the grammar. The pre-Pāṇinian decoders already analyze the system. Patañjali already states the established bond. *Apabhraṃśa* already denotes entropy. Pāṇini already distinguishes modes, not periods. The *Aṣṭādhyāyī* already includes licensed variation. The *Dhātupāṭha* already displays atomic compression. The calibration matrix already preserves form.
 
 The dogma makes Pāṇini a rupture because the tree requires a rupture.
 

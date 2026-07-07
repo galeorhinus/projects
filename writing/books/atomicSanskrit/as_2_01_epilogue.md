@@ -80,7 +80,7 @@ The argument resolves into a contest between two civilizational architectures.
 
 The asuric architecture builds pyramids: apex authority, controlled doctrine, captured institutions, extracted labor, managed origins, and narratives that make the base answer to the top. Its apex seats a single figure; he shares power with no one and bends the base toward himself. It operates through **तमस् (*tamas*)**: obscurity, inertia, concealment.
 
-The dharmic architecture distributes authority: *apauruṣeya* text without apex-author, teacher-student lineage across generations, *śāstrārtha* before witnesses, recitation verified by audience, knowledge carried by discipline rather than decree. No one sits at its peak; there is no peak to sit. When *Sanātan* pictures the power that holds such an order, it pictures **शक्ति (*Śakti*)** — and she is not enthroned. Her power is distributed, which is exactly why no apex can seize it and no patriarch can hold it. It operates through **सत्त्व (*sattva*)**: clarity, balance, illumination.
+The dharmic architecture distributes authority: *apauruṣeya* text without apex-author, teacher-student lineage across generations, *śāstrārtha* before witnesses, recitation verified by audience, knowledge transmitted by discipline rather than decree. No one sits at its peak; there is no peak to sit. When *Sanātan* pictures the power that holds such an order, it pictures **शक्ति (*Śakti*)** — and she is not enthroned. Her power is distributed, which is exactly why no apex can seize it and no patriarch can hold it. It operates through **सत्त्व (*sattva*)**: clarity, balance, illumination.
 
 The claim is not that Sanskrit came first. Priority is not the controlling point. Priority arguments often accept the pyramid's own logic: first means foundational, foundational means authoritative, authoritative means control.
 
@@ -137,7 +137,7 @@ The call is conditional. It cannot be made by anyone who wants the prestige with
 
 *Āryatva* is desirable because it is disciplined alignment with **सत् (*sat*)**, not **असत् (*asat*)**: clarity over obscurity, restraint over appetite, calibration over drift, welfare over domination.
 
-The Sanskrit fractal holds that standard in its architecture. Sound is measured. Speech is disciplined. Memory is calibrated. Knowledge is carried without apex command. When that architecture is made fully visible, it does not preach. It stands as a calibrant: those who wish can measure themselves against it and choose *sat* without turning truth into dogma.
+The Sanskrit fractal holds that standard in its architecture. Sound is measured. Speech is disciplined. Memory is calibrated. Knowledge is held without apex command. When that architecture is made fully visible, it does not preach. It stands as a calibrant: those who wish can measure themselves against it and choose *sat* without turning truth into dogma.
 
 That is the bridge from Sanskrit to Sanātan: calibration does not remain trapped inside grammar. The same distributed discipline can recur in conduct, memory, knowledge, and social order.
 
@@ -147,17 +147,17 @@ The invitation is not ethnic. It is architectural.
 
 ## The Inward Correction
 
-India must not answer the pyramid by building smaller pyramids inside itself. Modern schooling, bureaucracy, broadcasting, and state language policy have often treated living regional speech as if it were defective because it does not match the standardized form chosen by committee, capital, university, or textbook. Marathi has its Pune standard; other Marathi speech-fields have been treated as lesser. Konkani's separation from Marathi carries, among other things, the memory of that pressure. The pattern is not unique to Maharashtra. It repeats wherever a living *prākṛtika bhāṣā* is forced to answer to a single authorized standard.
+India must not answer the pyramid by building smaller pyramids inside itself. Modern schooling, bureaucracy, broadcasting, and state language policy have often treated living regional speech as if it were defective because it does not match the standardized form chosen by committee, capital, university, or textbook. Marathi has its Pune standard; other Marathi speech-fields have been treated as lesser. Konkani's separation from Marathi holds, among other things, the memory of that pressure. The pattern is not unique to Maharashtra. It repeats wherever a living *prākṛtika bhāṣā* is forced to answer to a single authorized standard.
 
 Sanskrit teaches the opposite lesson. The **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**, the fixed-measure language, must be held with rigor; the living languages must be allowed to flow. *Prākṛtika* speech is not sin or failure. It is life. **The danger is to confuse the calibrant's discipline with the state's authority.** Sanskrit survived because it was held as calibrant, not imposed as an imperial vernacular. India's internal reform begins there: preserve Sanskrit with seriousness, let the *bhāṣās* flourish on their own terms, and stop calling local life incorrect because it did not pass through an apex.
 
 Islamic imperial formations were defeated. The Christian conversion ambition was checked. British political rule was expelled. But the deeper work remains: the restoration of Sanskrit as calibrant inside Indian life — the radiant matrix — the measure of discipline, memory, sound, grammar, and conduct, not a credential and not a slogan. Internal *āryatva* begins by acknowledging what Sanskrit is and by refusing to reproduce, inside India, the same authority model prosecuted outside it.
 
-Three shadows the argument cannot lift by itself remain on the field. The institutions keep their own custody — departments, journals, peer review, curricula, and the funding that holds them: chairs, grants, donor-shaped centers, and a state that still pays for its own colonial Indology. They will not dissolve because a case has been made. The public mind lags the proof: textbooks, encyclopedias, search results, and casual speech will keep repeating *"Sanskrit is Indo-European"* long after the architecture is visible. And the deepest shadow is inward — the trained hesitation that makes a civilization ask the pyramid's permission before trusting its own categories. None of the three falls to argument. They fall to widespread awareness, carried by many hands. That is the Atris' work, not one author's.
+Three shadows the argument cannot lift by itself remain on the field. The institutions keep their own custody — departments, journals, peer review, curricula, and the funding that holds them: chairs, grants, donor-shaped centers, and a state that still pays for its own colonial Indology. They will not dissolve because a case has been made. The public mind lags the proof: textbooks, encyclopedias, search results, and casual speech will keep repeating *"Sanskrit is Indo-European"* long after the architecture is visible. And the deepest shadow is inward — the trained hesitation that makes a civilization ask the pyramid's permission before trusting its own categories. None of the three falls to argument. They fall to widespread awareness, transmitted by many hands. That is the Atris' work, not one author's.
 
 ## The Mantra
 
-For that invitation to become real, Wave 3 must first be carried by those closest to the calibrant. The reader is addressed as a Wave 3 *ṛṣi* or *ṛṣikā* in potential, after the re-learning. Indians in the subcontinent, the global Indian diaspora, and the Romani branch that carried Indic substrate longest in the wild are the first human substrate through which Wave 3 must propagate. *Atomic Sanskrit* is a Wave 3 instrument, not the work itself. It makes the radiant matrix visible again. Visibility is the precondition.
+For that invitation to become real, Wave 3 must first be transmitted by those closest to the calibrant. The reader is addressed as a Wave 3 *ṛṣi* or *ṛṣikā* in potential, after the re-learning. Indians in the subcontinent, the global Indian diaspora, and the Romani branch that held Indic substrate longest in the wild are the first human substrate through which Wave 3 must propagate. *Atomic Sanskrit* is a Wave 3 instrument, not the work itself. It makes the radiant matrix visible again. Visibility is the precondition.
 
 The work is re-learning.
 
@@ -187,13 +187,13 @@ The final turn therefore asks Vāk herself to nourish the work:
 >
 > The devas generated divine Speech; all beings, in many forms, speak her. May Vāk, well-praised, come to us like a milk-cow, gladdening us and yielding refreshment and strength.[NOTE: rigveda-8-100-11-vak-blessing]
 
-The invitation is not to compose new *śruti*. It is to become capable of seeing what Vāk has already revealed, to carry the architecture forward, and to let Speech nourish the next civilizational act.
+The invitation is not to compose new *śruti*. It is to become capable of seeing what Vāk has already revealed, to take the architecture forward, and to let Speech nourish the next civilizational act.
 
 The Sun has been found.
 
 The category is restored.
 
-The Atris found the Sun. The reader now carries the cry.
+The Atris found the Sun. The reader now holds the cry.
 
 ***कृण्वन्तो विश्वम् आर्यम् अपघ्नन्तो अराव्णः।***
 

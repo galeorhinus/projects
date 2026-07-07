@@ -12,7 +12,7 @@ The live printed-book appendix remains at `as_3_06_by_the_numbers.md`. Future pa
 
 ---
 
-Chapter 10 states the architectural claim. Chapter 11 carries the claim one scale up into operation. This appendix is the empirical reservoir behind both — every statistical signal at every layer of the architecture, with the reproducibility bundles that re-derive the numbers.
+Chapter 10 states the architectural claim. Chapter 11 states the claim one scale up into operation. This appendix is the empirical reservoir behind both — every statistical signal at every layer of the architecture, with the reproducibility bundles that re-derive the numbers.
 
 The appendix is organized as four layers that mirror the chapters' procedural arc:
 
@@ -29,10 +29,10 @@ Synthesis (§6.14) and replication (§6.15) close the appendix.
 
 The source corpus is the digital Pāṇinian **धातुपाठ (*Dhātupāṭha*)** from the open-source `sanskrit/vyakarana` GitHub project: 2,168 entries across the ten **गणाः (*gaṇāḥ*)**. The count sits within the conventional Pāṇinian range (~1,940 to ~2,200 depending on recension); the **माधवीय धातुवृत्ति (*Mādhavīya Dhātuvṛtti*)**, the **सिद्धान्तकौमुदी (*Siddhāntakaumudī*)**, and the **क्षीरस्वामिन् (*Kṣīrasvāmin*)** commentary yield comparable totals with minor recensional variation in marginal entries.
 
-Each Pāṇinian *dhātu* citation form carries **अनुबन्ध (*anubandha*)** sounds — phonemes present in the citation that are not part of the underlying *dhātu*, used to signal grammatical properties the **अष्टाध्यायी (*Aṣṭādhyāyī*)** applies later in derivation. The **इत्संज्ञा (*it-saṃjñā*)** rules of *Aṣṭādhyāyī* 1.3.2–1.3.9 specify which phonemes are *anubandhas*. Three rules apply to *dhātavaḥ* and are implemented in every analysis script:
+Each Pāṇinian *dhātu* citation form holds **अनुबन्ध (*anubandha*)** sounds — phonemes present in the citation that are not part of the underlying *dhātu*, used to signal grammatical properties the **अष्टाध्यायी (*Aṣṭādhyāyī*)** applies later in derivation. The **इत्संज्ञा (*it-saṃjñā*)** rules of *Aṣṭādhyāyī* 1.3.2–1.3.9 specify which phonemes are *anubandhas*. Three rules apply to *dhātavaḥ* and are implemented in every analysis script:
 
-- **1.3.2 — *upadeśe 'janunāsika it*** (उपदेशेऽजनुनासिक इत्): a final *anunāsika*-marked short vowel is an *anubandha*. Trailing short *-a* / *-i* / *-u* after a consonant carries this status. Implementation strips such trailing short vowels *only when at least one other vowel remains* — preserving genuine CV-pattern *dhātavaḥ* like *ji* (जि, to conquer), *hu* (हु, to sacrifice), *sru* (स्रु, to flow).
-- **1.3.3 — *halantyam*** (हलन्त्यम्): a trailing single-consonant *anubandha* is stripped when it sits immediately after a vowel. The canonical case is ⟪कृ⟫ (*kṛ*), cited as *ḍukṛñ* (डुकृञ्); after the initial *ḍu* is stripped by 1.3.5 and the trailing *ñ* by 1.3.3, the underlying *dhātu* ⟪कृ⟫ is recovered.
+- **1.3.2 — *upadeśe 'janunāsika it*** (उपदेशेऽजनुनासिक इत्): a final *anunāsika*-marked short vowel is an *anubandha*. Trailing short *-a* / *-i* / *-u* after a consonant holds this status. Implementation strips such trailing short vowels *only when at least one other vowel remains* — preserving genuine CV-pattern *dhātavaḥ* like *ji* (जि, to conquer), *hu* (हु, to sacrifice), *sru* (स्रु, to flow).
+- **1.3.3 — *halantyam*** (हलन्त्यम्): a trailing single-consonant *anubandha* is stripped when it sits immediately after a vowel. The standard case is ⟪कृ⟫ (*kṛ*), cited as *ḍukṛñ* (डुकृञ्); after the initial *ḍu* is stripped by 1.3.5 and the trailing *ñ* by 1.3.3, the underlying *dhātu* ⟪कृ⟫ is recovered.
 - **1.3.5 — *ādir ñiṭuḍavaḥ*** (आदिर्ञिटुडवः): the initial two-character sequences *ñi* / *ṭu* / *ḍu* in *dhātu* citation forms are *anubandhas* and are stripped from the front.
 
 Accent markers (~, \\, ^) — the **उदात्त (*udātta*)** / **अनुदात्त (*anudātta*)** / **स्वरित (*svarita*)** recitational distinctions — are stripped before structural classification.
@@ -182,7 +182,7 @@ The class composition is the *vyākaraṇa* discipline's own classification read
 
 **What the numbers show.** The *varṇamālā* gives 33 consonants. The architecture does not deploy them as interchangeable bonding sites. A small specialist class — the *antaḥsthāḥ* plus the *mūrdhanya* sibilant — does almost all consonant-to-consonant bonding work. This is the *carbon-of-clusters* role: a small set of atoms that bond promiscuously, holding larger consonant structures together while the other consonants do atom-boundary work.
 
-The *vyākaraṇa* discipline's name for the class — *antaḥsthāḥ*, *those that stand between* — was already the right name. The data confirms the class is operationally real. Ch 10 §10.14 carries the chapter-prose statement of the same finding; this section is the reproducibility backbone.
+The *vyākaraṇa* discipline's name for the class — *antaḥsthāḥ*, *those that stand between* — was already the right name. The data confirms the class is operationally real. Ch 10 §10.14 states the chapter-prose version of the same finding; this section is the reproducibility backbone.
 
 ## 6.5 The *Mūrdhanya* Dual-Role Place
 
@@ -215,7 +215,7 @@ The compounding signal. *Mūrdhanya* shows up three times in the appendix as the
 2. **Uniquely dual-role** (this section): 32.6% inner activity vs 10.6–15.4% elsewhere. Retroflex also does cluster-joining work.
 3. **Cross-inventory coupling** (§6.6): *ṛ* as nuclear vowel at the *mūrdhanya* site and *ra* as the universal cluster-joiner at the same site — the *svara* and *vyañjana* inventories bridged at one articulatory location.
 
-Three independent measurements pointing at the same conclusion: the *mūrdhanya* class does more architectural work than any other place. None of these is in the pyramid's account of retroflex as a marked, marginal, areal feature. Ch 10 §10.14 carries the chapter-prose statement; Ch 16 §16.1 develops the retroflex-as-architecturally-central polemic on this foundation.
+Three independent measurements pointing at the same conclusion: the *mūrdhanya* class does more architectural work than any other place. None of these is in the pyramid's account of retroflex as a marked, marginal, areal feature. Ch 10 §10.14 states the chapter-prose version; Ch 16 §16.1 develops the retroflex-as-architecturally-central polemic on this foundation.
 
 ## 6.6 The *Ṛ* Signal and the *Ṛ* / *Ra* Bridge
 
@@ -253,15 +253,15 @@ The Sanskrit phonological apparatus places *ṛ* (ऋ) at the *mūrdhanya* site 
 
 The bridge is not symbolic — it is operational. Under **यण्-सन्धि (*yaṇ-sandhi*)**, vocalic ऋ resolves into र before a following vowel: the same articulatory principle crossing the vowel/consonant boundary, taking nuclear form in the *svara* table and bonding form in the *vyañjana* table. *Ṛ* and *ra* are the same *r*-principle, deployed twice — once as nucleus, once as bonder.
 
-The *mūrdhanya* site therefore carries:
+The *mūrdhanya* site therefore holds:
 
 - the only vowel at that place (*ṛ*) — high-yield, typologically rare, central to the *dhātupāṭha* inventory;
 - the universal cluster-joiner consonant (*ra*) — extreme inner-cluster specialist;
 - the *sandhi* rule (*yaṇ-sandhi*) that converts between the two forms.
 
-Three coupled loadings at one articulatory location. The architecture is not distributing structural weight evenly across places. The tongue-curl site carries disproportionate load by design.
+Three coupled loadings at one articulatory location. The architecture is not distributing structural weight evenly across places. The tongue-curl site holds disproportionate load by design.
 
-Ch 10 §10.14 develops the bridge as a fractal-behavior claim at the *varṇamālā* level. Ch 16 §16.1 carries the retroflex-as-architecturally-central polemic forward.
+Ch 10 §10.14 develops the bridge as a fractal-behavior claim at the *varṇamālā* level. Ch 16 §16.1 takes the retroflex-as-architecturally-central polemic forward.
 
 ---
 
@@ -269,7 +269,7 @@ Ch 10 §10.14 develops the bridge as a fractal-behavior claim at the *varṇamā
 
 ## 6.7 Compression — Particle and *Akṣara* Counts
 
-Ch 10 §10.7 carries the canonical statement of the compression finding. This section preserves the falsification narrative that produced the current numbers.
+Ch 10 §10.7 states the reference statement of the compression finding. This section preserves the falsification narrative that produced the current numbers.
 
 **Data** (across all 2,168 *dhātavaḥ*, post-Pāṇinian *anubandha*-stripping per *Aṣṭādhyāyī* 1.3.2 / 1.3.3 / 1.3.5):
 
@@ -363,7 +363,7 @@ Retroflex is **2.3× more common as the final consonant than as the initial cons
 - ओष्ठ्य × मूर्धन्य: **101** (lip-release → retroflex-settle)
 - कण्ठ्य × मूर्धन्य: **98** (velar-release → retroflex-settle — *kṛṣ* कृष्, *gṛh* गृह्)
 
-The same matrix carries the OCP avoidance finding (§6.9's scalar) and the *mūrdhanya* C₂ asymmetry (§6.5's third compounding signal). Voicing harmony is the milder secondary effect — easier to maintain a voicing state across the syllable than to switch.
+The same matrix holds the OCP avoidance finding (§6.9's scalar) and the *mūrdhanya* C₂ asymmetry (§6.5's third compounding signal). Voicing harmony is the milder secondary effect — easier to maintain a voicing state across the syllable than to switch.
 
 ## 6.10 *Vaicitrya* — Engineered Range in the Tail
 
@@ -380,9 +380,9 @@ The same matrix carries the OCP avoidance finding (§6.9's scalar) and the *mūr
 
 **Reading the strata.**
 
-***Near tail*** (ranks 11–15). **V1CC** (35 *dhātavaḥ*: अर्द्, अञ्च्, अर्च्, अर्ज्), **CCV1** (35: क्षि, स्मृ, श्रि, ह्वृ, स्वृ), **V2C** (28: एध्, ओख्, ईख्, एज्, ईज्), **CV2CC** (23: वेष्ट्, चेष्ट्, घूर्ण्), and **CV1CV2C** (7: a disyllabic shape just clearing the rank-15 line). Five shapes at 0.3–1.6% deployment each. The cutoff between top-10 and the near tail is statistical, not architectural — these scaffolds carry the same kind of work as the lower-frequency members of the top-10 list. Each serves a specific structural scope: vowel-initial closed forms (V1CC), cluster-onset short atoms (CCV1), long-vowel closed atoms (V2C), and long-vowel double-closed atoms (CV2CC).
+***Near tail*** (ranks 11–15). **V1CC** (35 *dhātavaḥ*: अर्द्, अञ्च्, अर्च्, अर्ज्), **CCV1** (35: क्षि, स्मृ, श्रि, ह्वृ, स्वृ), **V2C** (28: एध्, ओख्, ईख्, एज्, ईज्), **CV2CC** (23: वेष्ट्, चेष्ट्, घूर्ण्), and **CV1CV2C** (7: a disyllabic shape just clearing the rank-15 line). Five shapes at 0.3–1.6% deployment each. The cutoff between top-10 and the near tail is statistical, not architectural — these scaffolds hold the same kind of work as the lower-frequency members of the top-10 list. Each serves a specific structural scope: vowel-initial closed forms (V1CC), cluster-onset short atoms (CCV1), long-vowel closed atoms (V2C), and long-vowel double-closed atoms (CV2CC).
 
-***Mid tail*** (ranks 16–25). 10 scaffolds at 0.1–0.3% each. Three families. **Disyllabic** shapes — V2CV1C, CV2CV2, CV2CV1, CV1CCV2, V1 — for the rare atoms whose semantic targets required a four- to five-*mātrā* envelope. **Three-consonant onset clusters** — CCCV1C, CCCV2C — for specific phonetic-iconic targets where two-consonant clusters could not stage the intended density. **Boundary shapes** — V2CC, CCV2CC, CV1CCC — that exhaust corner cases of the timing grid. None of these is a residual: each carries *dhātavaḥ* the modal scaffolds could not host.
+***Mid tail*** (ranks 16–25). 10 scaffolds at 0.1–0.3% each. Three families. **Disyllabic** shapes — V2CV1C, CV2CV2, CV2CV1, CV1CCV2, V1 — for the rare atoms whose semantic targets required a four- to five-*mātrā* envelope. **Three-consonant onset clusters** — CCCV1C, CCCV2C — for specific phonetic-iconic targets where two-consonant clusters could not stage the intended density. **Boundary shapes** — V2CC, CCV2CC, CV1CCC — that exhaust corner cases of the timing grid. None of these is a residual: each holds *dhātavaḥ* the modal scaffolds could not host.
 
 ***Deep tail*** (ranks 26–47). 22 scaffolds, mostly 1-occurrence forms. The lone CCCCV2CC dense-cluster shape. Bare V1 and bare C as floor cases. 29 *dhātavaḥ* spread across 22 shapes — perimeter cases where the architecture leaves room for one-off engineering. The system permits what it does not promote.
 
@@ -391,7 +391,7 @@ The same matrix carries the OCP avoidance finding (§6.9's scalar) and the *mūr
 **The cross-axis claim.** The *vaicitrya* signature appears at three levels of the architecture:
 
 - ***Racanā* level** — this section. 37 long-tail scaffolds preserve reach for scope the top-10 cannot stage.
-- **Morphological level** — Chapter 14 §14.3. The *chandas* mode preserves multiple infinitive endings (*-tum*, *-tavai*, *-dhyai*, *-tave*, *-tos*, *-sani*) for metrical scope; the *bhāṣā* mode keeps *-tum* canonical for non-metrical scope. Appendix Part 7 traces the full morphological inventory.
+- **Morphological level** — Chapter 14 §14.3. The *chandas* mode preserves multiple infinitive endings (*-tum*, *-tavai*, *-dhyai*, *-tave*, *-tos*, *-sani*) for metrical scope; the *bhāṣā* mode keeps *-tum* standard for non-metrical scope. Appendix Part 7 traces the full morphological inventory.
 - **Aesthetic level** — Chapter 10 §10.10. The architecture's range across non-modal scaffolds is what makes engineering-poetry's form-meaning assignment have somewhere to settle.
 
 One engineering signature, three levels, one principle: range preserved where range does work.
@@ -435,18 +435,18 @@ One engineering signature, three levels, one principle: range preserved where ra
 
 §§6.2–5.11 measure the *Dhātupāṭha* itself — the engineered inventory. This section measures **what Sanskrit does with the inventory** — corpus-attested deployment across actual Sanskrit use.
 
-**The measurement.** Path C operationalizes reactivity as **corpus-attested combinatorial valency**: the count of distinct (*upasarga*, *pratyaya*-class) pairs in which each *dhātuḥ* surfaces across the Digital Corpus of Sanskrit (DCS) — Hellwig's lemmatized parsed corpus covering Vedic and post-Vedic Sanskrit. The reproducibility bundle is `analysis/ganah/`. Chapter 11 §§11.6–11.9 carries the polemic version; this section is the empirical reservoir.
+**The measurement.** Path C operationalizes reactivity as **corpus-attested combinatorial valency**: the count of distinct (*upasarga*, *pratyaya*-class) pairs in which each *dhātuḥ* surfaces across the Digital Corpus of Sanskrit (DCS) — Hellwig's lemmatized parsed corpus covering Vedic and post-Vedic Sanskrit. The reproducibility bundle is `analysis/ganah/`. Chapter 11 §§11.6–11.9 states the polemic version; this section is the empirical reservoir.
 
 **The dataset.** 15,900 parsed CoNLL-U files. 1,007,361 verb-token occurrences. 35,319 unique (dhātu, preverb, *pratyaya*-class) triples. 3,839 unique bare dhātavaḥ. Coverage spans Vedic (Ṛgveda, Atharvaveda), epic (Mahābhārata, Rāmāyaṇa), grammatical, *śāstric*, *purāṇic*, *kāvya*, Buddhist, medical, ritual, and philosophical material.
 
 **Top 20 *dhātavaḥ* by Path C valency:**
 
-| Rank | Dhātuḥ | Path C valency | Gloss |
+| Rank | Dhātuḥ | Path C valency | Meaning |
 |---:|:--|---:|---|
 | 1 | **⟪कृ⟫ (*kṛ*)** | 1,062 | do, make |
 | 2 | **⟪भू⟫ (*bhū*)** | 504 | be, become |
 | 3 | **⟪धा⟫ (*dhā*)** | 386 | place, set |
-| 4 | **⟪हृ⟫ (*hṛ*)** | 368 | carry, take |
+| 4 | **⟪हृ⟫ (*hṛ*)** | 368 | hold, take |
 | 5 | वृत् (*vṛt*) | 293 | turn, exist |
 | 6 | **⟪गम्⟫ (*gam*)** | 291 | go |
 | 7 | नी (*nī*) | 253 | lead |
@@ -464,9 +464,9 @@ One engineering signature, three levels, one principle: range preserved where ra
 | 19 | **⟪स्था⟫ (*sthā*)** | 166 | stand |
 | 20 | पत् (*pat*) | 164 | fall, fly |
 
-The **canonical nine polyvalent core** — *kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ* — is bolded above; all nine sit in the top 19. Chapter 11 §11.6 develops this set as the carbon-class core. Mean valency across the full 3,839 dhātavaḥ is 9.2; median is 2, a long-tail distribution consistent with compression architecture.
+The **reference nine polyvalent core** — *kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ* — is bolded above; all nine sit in the top 19. Chapter 11 §11.6 develops this set as the carbon-class core. Mean valency across the full 3,839 dhātavaḥ is 9.2; median is 2, a long-tail distribution consistent with compression architecture.
 
-**Methodological note on *vartay*.** *vartay* appears at valency 194 but is a DCS-derived causative lemma — the form is a corpus-attested causative derivative of वृत् (*vṛt*), not a canonical *Dhātupāṭha* atom. The 9 canonical polyvalents fall at ranks 1, 2, 6, 7, 13, 15, 16, 19 (one rank shifts up when *vartay* is excluded).
+**Methodological note on *vartay*.** *vartay* appears at valency 194 but is a DCS-derived causative lemma — the form is a corpus-attested causative derivative of वृत् (*vṛt*), not a listed *Dhātupāṭha* atom. The 9 reference polyvalents fall at ranks 1, 2, 6, 7, 13, 15, 16, 19 (one rank shifts up when *vartay* is excluded).
 
 **The two-instrument agreement.** Path C (corpus-attested valency) and Path A (Monier-Williams + Apte derivative count) measure substantively the same thing through different windows:
 
@@ -492,14 +492,14 @@ The polyvalent tier — 3.8% of the inventory — generates **67.6%** of all cor
 
 **Cross-corpus invariance.** The same engineered core dominates across four DCS sub-corpora — *śruti* (Ṛgveda, Atharvaveda Śaunaka) and *smṛti* (Mahābhārata, Rāmāyaṇa):
 
-| Sub-corpus | Style | Files | Canonical 9 attested | In top-20 |
+| Sub-corpus | Style | Files | Reference 9 visible | In top-20 |
 |---|---|---:|---:|---:|
 | Ṛgveda | *śruti* | 1,028 | 9/9 | 6/9 |
 | Atharvaveda Śaunaka | *śruti* | 519 | 9/9 | 6/9 |
 | Mahābhārata | *smṛti* | 1,995 | 9/9 | **9/9** |
 | Rāmāyaṇa | *smṛti* | 606 | 9/9 | **9/9** |
 
-The canonical 9 are **9/9 attested in every sub-corpus**. Pairwise Spearman correlations across sub-corpora:
+The reference 9 are **9/9 visible in every sub-corpus**. Pairwise Spearman correlations across sub-corpora:
 
 | Comparison | ρ |
 |---|---:|
@@ -507,9 +507,9 @@ The canonical 9 are **9/9 attested in every sub-corpus**. Pairwise Spearman corr
 | *Smṛti* × *Smṛti* (Mahābhārata × Rāmāyaṇa) | **+0.87** |
 | Cross-style (any *śruti* × any *smṛti*) | +0.46 to +0.57 |
 
-Style-internal agreement is higher than cross-style — but cross-style agreement is still strongly positive. The carbon-class core is invariant across the design-purpose split. The Ṛgveda's top-20 includes ritual-specific atoms (*vah* वह्, *yam* यम्, *bhṛ* भृ, *cakṣ* चक्ष्) that don't survive into *smṛti*'s top-20; the canonical core is attested at high valency in every sub-corpus regardless.
+Style-internal agreement is higher than cross-style — but cross-style agreement is still strongly positive. The carbon-class core is invariant across the design-purpose split. The Ṛgveda's top-20 includes ritual-specific atoms (*vah* वह्, *yam* यम्, *bhṛ* भृ, *cakṣ* चक्ष्) that don't survive into *smṛti*'s top-20; the reference core remains visible at high valency in every sub-corpus regardless.
 
-![Rank trajectory of the canonical polyvalent *dhātavaḥ* across DCS sub-corpora.](figures/ganah/canonical_rank_trajectory.svg){#fig:app5-canonical-rank-trajectory width=100%}
+![Rank trajectory of the reference polyvalent *dhātavaḥ* across DCS sub-corpora.](figures/ganah/canonical_rank_trajectory.svg){#fig:app5-canonical-rank-trajectory width=100%}
 
 The deployments vary. The core remains. The result matches the procedural model: a stable set of high-reactivity atoms, different domains applying them to different work, and the same engine driving all of them.
 
@@ -525,7 +525,7 @@ The deployments vary. The core remains. The result matches the procedural model:
 
 Top 15 *dhātavaḥ* by productivity:
 
-| Rank | Dhātu | Pattern | Particles | Productivity | Gloss |
+| Rank | Dhātu | Pattern | Particles | Productivity | Meaning |
 |---:|:--|:---|---:|---:|---|
 | 1 | *kṛ* कृ | CV | 2 | 75 | do/make |
 | 2 | *bhū* भू | CV | 2 | 55 | be/become |
@@ -534,7 +534,7 @@ Top 15 *dhātavaḥ* by productivity:
 | 5 | *dā* दा | CV | 2 | 45 | give |
 | 6 | *dhā* धा | CV | 2 | 40 | place/set |
 | 7 | *jñā* ज्ञा | CV | 2 | 40 | know |
-| 8 | *hṛ* हृ | CV | 2 | 40 | carry/take |
+| 8 | *hṛ* हृ | CV | 2 | 40 | hold/take |
 | 9 | *nī* नी | CV | 2 | 40 | lead |
 | 10 | *as* अस् | VC | 2 | 40 | be/exist |
 | 11 | *vac* वच् | CVC | 3 | 40 | speak |
@@ -585,7 +585,7 @@ The numbers reveal the architecture operating at eight levels:
 1. **Cost × distinguishability** (per-consonant). C1 dominates because it is cheap and clear; C4 survives because it earns its cost through perceptual value; C2 is under-deployed because it pays cost for negligible distinctiveness gain. Spearman ρ = +0.304. *(§6.2.)*
 2. **Cell-level allocation** (per place × column). Specific cells are deployed at wildly different rates the two-factor model cannot capture. Labial *m* (131) vs velar *ṅ* (2) — 65× at identical engineering value. *(§6.2.)*
 3. **Position-conditional preferences** (per position × column / place). Each column and each place has a position-specific signature. Retroflex strongly prefers final (62.8%); palatals favor final (45%); velars and labials favor initial. *(§6.3.)*
-4. **Cluster-joiner specialization** (per consonant × position-role). A six-atom class — the *antaḥsthāḥ* (य, र, ल, व) plus *mūrdhanya* sibilant ष plus boundary specialists फ, न — carries 73% of cluster-joining work. *(§6.4.)*
+4. **Cluster-joiner specialization** (per consonant × position-role). A six-atom class — the *antaḥsthāḥ* (य, र, ल, व) plus *mūrdhanya* sibilant ष plus boundary specialists फ, न — holds 73% of cluster-joining work. *(§6.4.)*
 5. ***Mūrdhanya* dual-role engineering** (per place). The retroflex place is uniquely loaded with both boundary work (62.8% final) AND cluster-joining work (32.6% inner) — driven by *ra* and *ṣa* at the same articulatory site. *(§6.5; coupled with the *ṛ/ra* bridge at §6.6.)*
 6. **Cross-position OCP** (per *dhātuḥ*). Place-of-articulation avoidance across the syllable operates at 62% below chance. The strongest single empirical signal in the appendix; the place × place matrix visualizes both the OCP suppression and the *mūrdhanya* C₂ asymmetry. *(§6.9.)*
 7. ***Gaṇa*-specific functional matching** (per derivational class). The *juhotyādi* reduplicating class enriches C4 (33.3% inventory → 42.9% corpus-restricted) because reduplication needs acoustic robustness. *(§6.11.)*
@@ -684,13 +684,13 @@ The architecture is visible. The numbers are reproducible.
 - ***Ṛ* / *ra* bridge** — folded into §6.6 as the closing move; couples §6.5 (*mūrdhanya* dual-role) with the §6.6 *ṛ*-signal finding.
 - **Extended-cluster 1,852-atom baseline** — adopted throughout Part A (replaces CVC-only 920-atom baseline). Place × place matrix now operates on 1,141 atoms (extended-cluster CVC subset with both consonants classifiable to a Pāṇinian place).
 - **Five class-level signatures** — not adopted as a separate framework in App 5 (more useful in Ch 10 prose); the underlying findings now appear distributed across §§6.2 (column), §6.3 (position), §6.4 (bonding), §6.5 (place dual-role), §6.8 (closure / clusters).
-- **CVC place × place matrix** — new content in §6.9; carries both OCP visualization and *mūrdhanya* C₂ asymmetry on one figure.
+- **CVC place × place matrix** — new content in §6.9; contains both OCP visualization and *mūrdhanya* C₂ asymmetry on one figure.
 - **New figures referenced** — `building_dhatuh_position_roles.svg` (§6.4); `ganah_reactivity_tiers.svg` and `ganah_canonical_rank_trajectory.svg` (§6.12). The `building_dhatuh_subatomic_periodicity.svg` and `building_dhatuh_two_level_periodicity.svg` figures are available for future inclusion if a periodic-axes section is added.
-- ***Prayoga* reactivity material** — new §6.12 carries the full Path C audit (top-20 valency table; two-instrument agreement at ρ = +0.6647; reactivity tier structure 3.8% / 27.6% / 68.6%; cross-corpus pairwise Spearman; canonical 9/9 invariance). Chapter 11 §§11.6–11.9 carries the polemic version; Appendix Part 6 §6.12 is the reproducibility reservoir.
+- ***Prayoga* reactivity material** — new §6.12 contains the full Path C audit (top-20 valency table; two-instrument agreement at ρ = +0.6647; reactivity tier structure 3.8% / 27.6% / 68.6%; cross-corpus pairwise Spearman; reference 9/9 invariance). Chapter 11 §§11.6–11.9 states the polemic version; Appendix Part 6 §6.12 is the reproducibility reservoir.
 
 **Number reconciliations:**
 
-- **Particle-count distribution** — preserved at 11.6% / 58.2% / 25.6% / 3.6% / 0.5% (matches Ch 10 §10.7 canonical statement); §6.7 now slimmed and frames its unique contribution as the falsification narrative (48.5% → 58.2% under corrected anubandha-stripping).
+- **Particle-count distribution** — preserved at 11.6% / 58.2% / 25.6% / 3.6% / 0.5% (matches Ch 10 §10.7 reference statement); §6.7 now slimmed and frames its unique contribution as the falsification narrative (48.5% → 58.2% under corrected anubandha-stripping).
 - ***Juhotyādi* C4 share** — 31.8% (pre-correction) → 33.3% (post-correction inventory) → 42.9% (Path C corpus-restricted). All three numbers and the methodological narrative now appear in §6.11.
 - **Scaffold count** — 69 (pre-cleanup) → 47 (post-cleanup, matching Ch 10 §10.8). Long-tail count: 59 → 37. §6.10 re-stratified: near tail 5 scaffolds at 5.90%, mid tail 10 at 1.75%, deep tail 22 at 1.34% (totaling 9.00% — matches Ch 10 §10.8 *vaicitrya* statement).
 
@@ -723,10 +723,10 @@ Forward — Path B *śāstra* audit deferred to future research; Path C extensio
 **Voice notes:**
 
 - Voice: empirical-engineering report with prediction-data-verdict cycles. Closer to a technical appendix than to the prosecutorial voice of Parts 1–3 or the constructive-demonstrative voice of Part 4.
-- Polemic carried at §6.13 close (natural-language inversion: "minimum atoms, maximum reach, regular procedure") and §6.14 synthesis close ("The numbers audit the engineering.").
+- Polemic held at §6.13 close (natural-language inversion: "minimum atoms, maximum reach, regular procedure") and §6.14 synthesis close ("The numbers audit the engineering.").
 - Falsifications named in the open at each verdict block — empirical-rigor signal that distinguishes engineering thesis from confirmation-only prose.
-- §6.7 falsification narrative (48.5% → 58.2%) is the appendix's signature methodological move: name what the wrong stripping produced; name what the right stripping produces; let the methodology improvement carry the engineering signal.
+- §6.7 falsification narrative (48.5% → 58.2%) is the appendix's signature methodological move: name what the wrong stripping produced; name what the right stripping produces; let the methodology improvement hold the engineering signal.
 
 **Endnote stubs (preserved from v2):**
 
-- `productivity-inversion-natural-language` — the frequency-irregularity correlation in natural-language typology (English / Latin / Greek suppletives) versus Sanskrit's frequency-regularity correlation; document the canonical typological-morphology literature on suppletion and idiosyncrasy at high frequency.
+- `productivity-inversion-natural-language` — the frequency-irregularity correlation in natural-language typology (English / Latin / Greek suppletives) versus Sanskrit's frequency-regularity correlation; document the standard typological-morphology literature on suppletion and idiosyncrasy at high frequency.

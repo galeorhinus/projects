@@ -1,6 +1,6 @@
 # Appendix Part 5 — The Language Factory
 
-*Draft v2 (2026-05-20). Paraphrased four-tier merge of Codex compression (1,375 words) against the canonical draft (4,300 prose words). **Appendix voice**: T1 + T2 + T4 substance preserved through paraphrase; T3 compressed to Codex-style tightness. Codex's nine-section structure preserved; canonical's reference specifics (Bopp's *Vergleichende Grammatik* 1833–1852 + Schleicher's *Compendium* 1861 + *Avis akvāsas ka* 1868; Pune-Calcutta-Oxford-Göttingen pipeline; full §5.6 paradigm table with apacat / pacatu / paktaḥ / paktiḥ / pācakāḥ / hāsakaḥ; three-reasons-for-Japanese rationale; *asuratva* Ch 3 §3.7 + *lokakṣema* polemic) restored in paraphrased form. Devanagari first-use audit run on Indic terms.*
+*Draft v2 (2026-05-20). Paraphrased four-tier merge of Codex compression (1,375 words) against the reference draft (4,300 prose words). **Appendix voice**: T1 + T2 + T4 substance preserved through paraphrase; T3 compressed to Codex-style tightness. Codex's nine-section structure preserved; the reference draft's specifics (Bopp's *Vergleichende Grammatik* 1833–1852 + Schleicher's *Compendium* 1861 + *Avis akvāsas ka* 1868; Pune-Calcutta-Oxford-Göttingen pipeline; full §5.6 paradigm table with apacat / pacatu / paktaḥ / paktiḥ / pācakāḥ / hāsakaḥ; three-reasons-for-Japanese rationale; *asuratva* Ch 3 §3.7 + *lokakṣema* polemic) restored in paraphrased form. Devanagari first-use audit run on Indic terms.*
 
 ---
 
@@ -49,7 +49,7 @@ The procedure has six steps.
 5. **Apply the cipher to all dhātus, nominals, and morphemes** consistently. Surface forms transform; abstract structure (dhātu + suffix + ending; case inflection; conjugation; *sandhi*) is preserved.
 6. **Render the output in Devanagari** — the same script that renders the original Sanskrit. The reader who knows Sanskrit can back-engineer the *dhātus* and morphemes by inspection.
 
-The grammar passes through unchanged. Agent nouns remain agent nouns. Present-tense verbs remain present-tense verbs. Case endings still carry case. *Sandhi* still governs junctions. The phonemes change; the architecture does not.
+The grammar passes through unchanged. Agent nouns remain agent nouns. Present-tense verbs remain present-tense verbs. Case endings still hold case. *Sandhi* still governs junctions. The phonemes change; the architecture does not.
 
 What the substrate contributes: the phonemes. What Sanskrit's engine contributes: everything else.
 
@@ -119,7 +119,7 @@ The constructed language:
 >
 > *kesete koshteten kesepo. koshteten shanyem. kesete iteto rehepo.*
 
-Interlinear gloss:
+Interlinear rendering:
 
 > केसेते (baker-NOM) कोश्तेतेन् (pie-ACC) केसेपो (bakes-3sg). कोश्तेतेन् (pie-NOM) शान्येम् (empty-NOM). केसेते (baker-NOM) इतेतो (alone-ADV) रेहेपो (laughs-3sg).
 
@@ -150,7 +150,7 @@ This is what a language factory does.
 
 Three things.
 
-**First, Sanskrit's architecture is procedure, not corpus.** The *dhātus* are not bound to their phonemes; the rules are not bound to their specific phonological inputs. The architecture is procedure. Any phonemic substrate that can carry the procedure's structural operations can carry Sanskrit's engine. Pāṇini documents the procedure; the phonemes are what Sanskrit happens to use.
+**First, Sanskrit's architecture is procedure, not corpus.** The *dhātus* are not bound to their phonemes; the rules are not bound to their specific phonological inputs. The architecture is procedure. Any phonemic substrate that can hold the procedure's structural operations can hold Sanskrit's engine. Pāṇini documents the procedure; the phonemes are what Sanskrit happens to use.
 
 **Second, engineering is transferable.** Arithmetic transfers from counting apples to counting electrons. Musical notation transfers from European harmony to Indian *rāga*. Sanskrit's framework transfers from Sanskrit phonemes to Japanese phonemes. *Transferability is the signature of engineering.*
 

@@ -14,7 +14,7 @@
 
 \bigskip
 
-A single syllable, carried on a single breath: **ॐ (*Oṃ*)**.
+A single syllable, held on a single breath: **ॐ (*Oṃ*)**.
 
 The lungs provide steady pressure. The vocal cords meet, vibrate, and hold a tone. The mouth opens; the tongue rests low; the soft palate seals the nasal passage. From glottis to lips, the vocal tract becomes one resonating chamber, and the sound that fills it is **अ (*a*)** — the **कण्ठ्य (*kaṇṭhya*)** vowel, open in the throat, the body's least obstructed tone.
 
@@ -24,7 +24,7 @@ Then the lips close. The soft palate drops. The oral passage shuts; the nasal pa
 
 One breath. Three sonic spaces: throat-open, mouth-shaped, nose-coupled. Lungs, vocal cords, tongue, lips, soft palate, oral cavity, and nasal cavity all participate. **Oṃ is a compact acoustic sweep through the anatomy of sound.**
 
-Concision by design leaves recognizable signs: small form, no waste, clear transitions, concentrated meaning, many-facing use, and stable identity across time. Oṃ carries all six in a single breath. **Oṃ is architecture in seed form.**
+Concision by design leaves recognizable signs: small form, no waste, clear transitions, concentrated meaning, many-facing use, and stable identity across time. Oṃ holds all six in a single breath. **Oṃ is architecture in seed form.**
 
 The śāstra makes the same compression explicit. The *Māṇḍūkya Upaniṣad* identifies this *akṣara* with "all this": past, present, future, and what stands beyond the three times.[NOTE: om-vocal-tract-macro-gesture] *Sanātan* captures what holds across time, not simple antiquity. Oṃ is the acoustic seed of *Sanātan*: one syllable, one breath, the whole instrument, and the whole time-field.
 
@@ -136,7 +136,7 @@ The Sanskrit sound-system rests on three governing questions: **स्थान 
 
 *Sthāna* is geometry. It sets where the airflow is shaped. Moving the contact point from throat to palate to teeth changes the resonating cavity and therefore the acoustic signature.
 
-In modern phonetics, *sthāna* corresponds closely to place of articulation. *Prayatna* corresponds broadly to manner and effort, but it carries more than the English word *manner*: contact-type, voicing, aspiration, breath-pressure, and nasal coupling all belong to what the body does at the chosen place.
+In modern phonetics, *sthāna* corresponds closely to place of articulation. *Prayatna* corresponds broadly to manner and effort, but it holds more than the English word *manner*: contact-type, voicing, aspiration, breath-pressure, and nasal coupling all belong to what the body does at the chosen place.
 
 *Prayatna* is the effort applied to that geometry. It divides into two layers. **आभ्यन्तर प्रयत्न (*ābhyantara prayatna*)** is internal effort: the contact or constriction type at the place. **बाह्य प्रयत्न (*bāhya prayatna*)** is external effort: voicing (***अनुप्रदान (*anupradāna*)*** — *śvāsa* breath versus *nāda* resonance), aspiration, breath pressure, and nasal coupling.[NOTE: abhyantara-bahya-prayatna][NOTE: svasa-nada-vivrta-samvrta-phonation]
 

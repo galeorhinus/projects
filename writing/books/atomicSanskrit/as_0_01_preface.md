@@ -50,7 +50,7 @@ The chapters that follow demonstrate what becomes one of the book's refrains: **
 
 Sanskrit is therefore the calibrant. Its architecture is fractal: the same calibration law recurs across sound, atom, grammar, recitation, memory, and transmission. Sanātan extends that pattern across domains; this volume begins with language because language makes the architecture audible.
 
-The words nearest the reader carry the same evidence. **मातृ (*mātṛ*)** is not Sanskrit's cousin beside *mother*; it is the etymon. The English word is a **प्रतिबिम्ब (*Pratibimba*)** — a reflection of the original form.
+The words nearest the reader contain the same evidence. **मातृ (*mātṛ*)** is not Sanskrit's cousin beside *mother*; it is the etymon. The English word is a **प्रतिबिम्ब (*Pratibimba*)** — a reflection of the original form.
 
 ## The Boy's Question
 
@@ -61,7 +61,7 @@ I was eight or nine, working through the second verse of the first chapter of th
 
 — and I was mispronouncing the close. The *pāda* ends *rājā vacanam abravīt*: *the king spoke these words.* Written continuously as वचनमब्रवीत्, the *m* that closes *vacanam* meets the *a* that opens *abravīt*, and the two combine into a single syllable, *ma*. I was treating the *m* as a clean *halant* (हलन्त), often done in Marathi — a stopped consonant — and then dropping the initial *a* of *abravīt* entirely, so the line came out *vacanam-bravīt*: seven syllables where the meter wanted eight.
 
-My mother heard the error and corrected me gently. The *m* was not a stop. It was carrying the *a* from the next word. The two had fused. *This is sandhi* (सन्धि), she said, and gave me a primer on the spot. *अ + अ = आ* (*a + a = ā*). *इ + अ = य* (*i + a = ya*). *म् + अ = म* (*m + a = ma*). The rules of how sounds combine when words meet.
+My mother heard the error and corrected me gently. The *m* was not a stop. It was taking the *a* from the next word. The two had fused. *This is sandhi* (सन्धि), she said, and gave me a primer on the spot. *अ + अ = आ* (*a + a = ā*). *इ + अ = य* (*i + a = ya*). *म् + अ = म* (*m + a = ma*). The rules of how sounds combine when words meet.
 
 I loved numbers, and the *sandhi* rules looked like arithmetic. *a plus a makes ā. m plus a makes ma.* The same shape. The same deterministic operation. I remember asking my mother, with the literal-mindedness of a child who had just spotted a structural pattern, *so you can do math with Sanskrit?* She laughed and said yes, and went back to whatever she was doing. I never lost the question.
 
@@ -87,11 +87,11 @@ When Sanskrit's light shines again as calibrated architecture, the hunger for th
 
 The *paramparā* held the central position from the start. **व्याकरणम् (*vyākaraṇam*)** — analysis, separation, unfolding apart — describes an operation performed on an already-formed object. Patañjali opens the *Mahābhāṣya* with **सिद्धे शब्दार्थसम्बन्धे (*siddhe śabdārthasambandhe*)**: the bond between word and meaning is established.[NOTE: parampara-vyakaranam-bhartrhari-position-1] Every *vaiyākaraṇaḥ* in the chain decodes; none claims to invent.
 
-Modern Indian advocates have carried this position under active institutional pressure: Maharṣi Dayānanda Saraswatī, Sri Aurobindo, T. V. Kapali Sastry, Sampadananda Mishra, Pandit Madhusudan Ojha, Subhash Kak, Kapil Kapoor, Rajiv Malhotra, and others working in Sanskrit, English, and Indian languages I do not read.[NOTE: modern-sanskrit-lineage-roles]
+Modern Indian advocates have maintained this position under active institutional pressure: Maharṣi Dayānanda Saraswatī, Sri Aurobindo, T. V. Kapali Sastry, Sampadananda Mishra, Pandit Madhusudan Ojha, Subhash Kak, Kapil Kapoor, Rajiv Malhotra, and others working in Sanskrit, English, and Indian languages I do not read.[NOTE: modern-sanskrit-lineage-roles]
 
 The architectural route follows Sanskrit across scale: *varṇa* as sonomer, *akṣara* as audiograph, *dhātuḥ* as atom, *śabda* as molecule, *upasarga* and *pratyaya* as bonding chemistry, and sentence as assembly. The *Vedas* are the corpus the architecture preserves; Pāṇini's *Aṣṭādhyāyī* is the finest surviving *sūtra*-level documentation of that architecture; the Vedic recitation systems are preservation machinery rather than cultural ornament.[NOTE: patanjali-siddhe-shabdarthasambandhe][NOTE: eleven-pathas]
 
-The origin of Sanskrit is not the domain here. **अपौरुषेय (*apauruṣeya*)** is the answer carried by the lineage-chain; Chapter 17 §17.7 offers an honest speculation for the rationalist mind that cannot accept it. The observable claim is narrower: Sanskrit's engineering is on the page and in the mouth. The Vedas carry it. The decoding lineages unfold it. Pāṇini's unfolding is the finest surviving document of that work.
+The origin of Sanskrit is not the domain here. **अपौरुषेय (*apauruṣeya*)** is the answer preserved by the lineage-chain; Chapter 17 §17.7 offers an honest speculation for the rationalist mind that cannot accept it. The observable claim is narrower: Sanskrit's engineering is on the page and in the mouth. The Vedas preserve it. The decoding lineages unfold it. Pāṇini's unfolding is the finest surviving document of that work.
 
 Sanskrit seen as calibrant architecture restores the field that the eclipse darkened.
 

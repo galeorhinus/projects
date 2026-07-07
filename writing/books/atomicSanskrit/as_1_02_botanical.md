@@ -44,7 +44,7 @@ The familiar acronyms AIT and AMT hide this first move by arguing over mechanism
 
 **Sixth.** The metaphor holding the story together is botanical. Languages are organisms. They are born, branch, mutate, decay, and produce descendants. PIE is the ancestor. Vedic Sanskrit is one branch. Classical Sanskrit is the branch the machinery says Pāṇini locked in place. The modern languages are the leaves that kept growing.
 
-**Seventh, and most consequential outside the academy.** The account reaches ordinary readers as the two-versions claim: ***Vedic Sanskrit and Classical Sanskrit are two different languages***. Vedic is the older natural language. Classical is the later Pāṇinian codification. Pāṇini stands at the boundary; two languages stand on either side. This is the sentence the reader most likely arrives carrying.
+**Seventh, and most consequential outside the academy.** The account reaches ordinary readers as the two-versions claim: ***Vedic Sanskrit and Classical Sanskrit are two different languages***. Vedic is the older natural language. Classical is the later Pāṇinian codification. Pāṇini stands at the boundary; two languages stand on either side. This is the sentence the reader most likely arrives with.
 
 Drift before Pāṇini. Freeze after Pāṇini. Nature on one side, codification on the other. The continuous architecture disappears between them.
 
@@ -94,7 +94,7 @@ The botanical model earns its appeal honestly. It describes natural language cha
 
 English and Dutch do behave like sister forms inside the Germanic family. Latin did produce the Romance languages. French, Spanish, and Italian did change across geography, politics, usage, and time. Natural languages shed endings, blur sounds, absorb neighbors, simplify some forms, complicate others, and reproduce themselves in altered descendants.
 
-Old English **hlāfweard**, the "bread-guardian," became **laverd**, then **lorde**, then modern **Lord** — a title now reserved for men at the summit of the English hierarchy and for the Almighty.[NOTE: hlafweard-etymology] The domestic provider became the political-theological superior. The trajectory mirrors the civilization that carried it; the form mutated; the original transparency disappeared.
+Old English **hlāfweard**, the "bread-guardian," became **laverd**, then **lorde**, then modern **Lord** — a title now reserved for men at the summit of the English hierarchy and for the Almighty.[NOTE: hlafweard-etymology] The domestic provider became the political-theological superior. The trajectory mirrors the civilization that preserved it; the form mutated; the original transparency disappeared.
 
 This is botany at work. The metaphor fits its own object.
 
@@ -130,7 +130,7 @@ Chapter 10 makes the consequence measurable. Once the *dhātuḥ* is recognized 
 
 ## 2.6 Decoding, Not Codification
 
-*Codified* — the strategic word — lets the *asuric machinery* acknowledge what it cannot deny: Sanskrit's precision, scale, and generative power. The same word neutralizes what threatens the pyramid: Sanskrit as *saṃskṛti*, an engineered fractal of distributed order. *Codified* is the post-Pāṇinian half of the theft. It stops calling Sanskrit nature only when it can make Sanskrit answer to grammar as an external standard. The word makes a self-correcting architecture look dependent on a later authority. It assigns the architecture to one named figure at one late point inside the machinery's own chronology. It implies a transition: disorder before, order after. That implication carries the theft. It credits Pāṇini with architecture the lineage treats as prior to him, and it protects the chronology from the more dangerous claim: Sanskrit was engineered against drift from the start.
+*Codified* — the strategic word — lets the *asuric machinery* acknowledge what it cannot deny: Sanskrit's precision, scale, and generative power. The same word neutralizes what threatens the pyramid: Sanskrit as *saṃskṛti*, an engineered fractal of distributed order. *Codified* is the post-Pāṇinian half of the theft. It stops calling Sanskrit nature only when it can make Sanskrit answer to grammar as an external standard. The word makes a self-correcting architecture look dependent on a later authority. It assigns the architecture to one named figure at one late point inside the machinery's own chronology. It implies a transition: disorder before, order after. That implication makes the theft work. It credits Pāṇini with architecture the lineage treats as prior to him, and it protects the chronology from the more dangerous claim: Sanskrit was engineered against drift from the start.
 
 The two halves of the theft pull in different directions. The botanical half moves Sanskrit downward into nature and ancestry; the codification half moves it sideways into authority and standardization. *Saṃskṛti* disappears between them.
 

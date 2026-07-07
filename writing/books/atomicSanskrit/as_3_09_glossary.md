@@ -22,7 +22,7 @@ The glossary is organized in three groups:
 
 ## 1. Engineering core vocabulary
 
-> **How to read the pairs below.** Each entry binds a Sanskrit term to its English equivalent. The Sanskrit is primary in lineage, recitation, and grammar; the English carries the engineering and chemistry idiom. Neither is decoration. They denote one object from two directions — *dhātuḥ* and *atom* are not a word and its translation, but one constituent seen from the lineage-chain's side and from the engineer's.
+> **How to read the pairs below.** Each entry binds a Sanskrit term to its English equivalent. The Sanskrit is primary in lineage, recitation, and grammar; the English holds the engineering and chemistry idiom. Neither is decoration. They denote one object from two directions — *dhātuḥ* and *atom* are not a word and its translation, but one constituent seen from the lineage-chain's side and from the engineer's.
 
 ### **varṇa** (वर्ण) / **varṇāḥ** (वर्णाः)
 
@@ -46,11 +46,11 @@ The glossary is organized in three groups:
 
 ### **sonomeron**
 
-**Book-coined English, optional engineering gloss.** A stable sonomeric cell: one vowel-centered acoustic unit that can hold one or more sonomers without blurring their identities. Sanskrit's own word is stronger and primary: **अक्षरम् (*akṣaram*)**, the imperishable unit. *Sonomeron* is used only when the engineering analogy needs a compact English label for the *akṣara* as an assembly of sonomers.
+**Book-coined English, optional engineering rendering.** A stable sonomeric cell: one vowel-centered acoustic unit that can hold one or more sonomers without blurring their identities. Sanskrit's own word is stronger and primary: **अक्षरम् (*akṣaram*)**, the imperishable unit. *Sonomeron* is used only when the engineering analogy needs a compact English label for the *akṣara* as an assembly of sonomers.
 
 **Sanskrit pair**: *akṣara*.
 
-**Use in book**: glossary-only unless a later diagram needs the engineering gloss. The main prose should continue to use *akṣara*.
+**Use in book**: glossary-only unless a later diagram needs the engineering rendering. The main prose should continue to use *akṣara*.
 
 ### **dhātuḥ** (धातुः) / **dhātavaḥ** (धातवः)
 
@@ -126,11 +126,11 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **calibrand**
 
-**Book-coined English, sibling to *calibrant*.** *That which is calibrated* — formed like *operand*, *multiplicand*, *analysand*: the thing acted upon. Where *calibrant* designates Sanskrit as the engineered standard, **calibrand** designates a language restructured toward it through **calibrant contact** (Chapter 18 §18.7). The calibrand languages are the set the philological machinery — treating their shared reflections as common descent — classifies as the *"Indo-European"* and *"Indo-Iranian"* families; each calibrand instead carries a *Pratibimba* (reflection) of the calibrant, not a fragment of a vanished ancestor. The term replaces a geography-plus-family-tree label with one that encodes the relation: a reflection of a standard, not descended from a parent.
+**Book-coined English, sibling to *calibrant*.** *That which is calibrated* — formed like *operand*, *multiplicand*, *analysand*: the thing acted upon. Where *calibrant* designates Sanskrit as the engineered standard, **calibrand** designates a language restructured toward it through **calibrant contact** (Chapter 18 §18.7). The calibrand languages are the set the philological machinery — treating their shared reflections as common descent — classifies as the *"Indo-European"* and *"Indo-Iranian"* families; each calibrand instead holds a *Pratibimba* (reflection) of the calibrant, not a fragment of a vanished ancestor. The term replaces a geography-plus-family-tree label with one that encodes the relation: a reflection of a standard, not descended from a parent.
 
 ### **orbital** / **drifting** (with **Sanskritic gravity** and **radiance**)
 
-**Book-coined English, the two kinds of natural language.** Both name change away from an engineered form; the field is what separates them. An **orbital** language is calibrant-anchored: it moves from the standard — *apabhraṃśa*, the falling-away — but stays in orbit, pulled back by **Sanskritic gravity** toward a form it can still be measured against (the Indic languages anchored to or descended from Sanskrit — Marathi, Hindi, Bengali). A **drifting** form is outside the field: it moves without bound, because nothing holds a center for it to depart from (English, and the far cognates). **Radiance** is the outward face of the same Sun: Wave 1 and Wave 2 carriers take Sanskritic light beyond the field, receiving languages hold reflections (*Pratibimba*), and where a ray lands a tree grows — the botanical account is true there and only there. Both orbital and drifting sit inside the *prakṛti* category, distinct from the *calibrant* (Sanskrit, the standard) and from *codified* languages (drift arrested by external authority). The pair cross-cuts the *calibrand* / *Pratibimba* classification: a far calibrand (Greek, Latin, Persian) drifts, while a Sanskrit-anchored Indic language orbits, though both carry reflections of the calibrant. *Diverging* remains available as technical backup for *orbital*. Introduced in Chapter 6 §6.3 and §6.7; the radiance side developed in Chapter 18; placed in the typology in Chapter 14 §14.5.
+**Book-coined English, the two kinds of natural language.** Both name change away from an engineered form; the field is what separates them. An **orbital** language is calibrant-anchored: it moves from the standard — *apabhraṃśa*, the falling-away — but stays in orbit, pulled back by **Sanskritic gravity** toward a form it can still be measured against (the Indic languages anchored to or descended from Sanskrit — Marathi, Hindi, Bengali). A **drifting** form is outside the field: it moves without bound, because nothing holds a center for it to depart from (English, and the far cognates). **Radiance** is the outward face of the same Sun: Wave 1 and Wave 2 carriers take Sanskritic light beyond the field, receiving languages hold reflections (*Pratibimba*), and where a ray lands a tree grows — the botanical account is true there and only there. Both orbital and drifting sit inside the *prakṛti* category, distinct from the *calibrant* (Sanskrit, the standard) and from *codified* languages (drift arrested by external authority). The pair cross-cuts the *calibrand* / *Pratibimba* classification: a far calibrand (Greek, Latin, Persian) drifts, while a Sanskrit-anchored Indic language orbits, though both hold reflections of the calibrant. *Diverging* remains available as technical backup for *orbital*. Introduced in Chapter 6 §6.3 and §6.7; the radiance side developed in Chapter 18; placed in the typology in Chapter 14 §14.5.
 
 ### **fractal**
 
@@ -140,7 +140,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **Fractal Corollary**
 
-**Book-coined English.** The extension of the Atomic Corollary: if Sanskrit is engineered, the engineering should recur across scales. Chapter 10 tests this at the *dhātuḥ* scale through the six *sūtra-lakṣaṇāni*. The volume as a whole follows the recurrence from mouth to language; later *Second Shanti* volumes carry the same inquiry from language into civilizational architecture.
+**Book-coined English.** The extension of the Atomic Corollary: if Sanskrit is engineered, the engineering should recur across scales. Chapter 10 tests this at the *dhātuḥ* scale through the six *sūtra-lakṣaṇāni*. The volume as a whole follows the recurrence from mouth to language; later *Second Shanti* volumes take the same inquiry from language into civilizational architecture.
 
 ---
 
@@ -152,7 +152,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **vaiyākaraṇāḥ** (वैयाकरणाः)
 
-**Standard.** Practitioners of *vyākaraṇa*. In the book's engineering vocabulary: the *decoders* and documenters — those who unfold and state the architecture the *Vedas* encode. The English word *grammarians* is avoided for the Sanskrit tradition because it carries a letter-facing and schoolroom-rule sense that does not match the role-title.
+**Standard.** Practitioners of *vyākaraṇa*. In the book's engineering vocabulary: the *decoders* and documenters — those who unfold and state the architecture the *Vedas* encode. The English word *grammarians* is avoided for the Sanskrit tradition because it brings a letter-facing and schoolroom-rule sense that does not match the role-title.
 
 ### **Aṣṭādhyāyī** (अष्टाध्यायी)
 
@@ -160,7 +160,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **paramparā** (परम्परा)
 
-**Standard.** The unbroken lineage-chain and transmission-chain through which knowledge is carried across generations. *Guru-shishya paramparā* — the teacher-student transmission chain. At system scale, *paramparā* is distributed transmission architecture: vertical lineage-chains preserving custody across generations, and horizontal transmission-networks moving knowledge across villages, towns, assemblies, and regions.
+**Standard.** The unbroken lineage-chain and transmission-chain through which knowledge is transmitted across generations. *Guru-shishya paramparā* — the teacher-student transmission chain. At system scale, *paramparā* is distributed transmission architecture: vertical lineage-chains preserving custody across generations, and horizontal transmission-networks moving knowledge across villages, towns, assemblies, and regions.
 
 **English pair**: *lineage* / *chain*; at architectural scale, *transmission architecture* / *transmission network*. In this book, *paramparā* does not mean "tradition" as inherited custom. It denotes the Indic continuity mechanism itself.
 
@@ -178,7 +178,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **curated transmission** / **percipient selection**
 
-**Book terms.** The *laukika* corpus is a **curated transmission**: its language stays calibrated Sanskrit while its content is actively tended — **selected**, **accretive** (grown by new composition), and **lossy**. **Percipient selection** is that tending: a discerning community's curation of what the corpus carries, keeping what serves *lokakṣema* and releasing the rest. Loss has two agents — **percipient release** (dharmic; the community lets go) and **asuric destruction** (deliberate attack or its consequence, developed in Chapter 3). The contrast is the *vaidika*, whose content is invariant and un-erasable. Every change to the corpus has a hand behind it; the language beneath it stays calibrated.
+**Book terms.** The *laukika* corpus is a **curated transmission**: its language stays calibrated Sanskrit while its content is actively tended — **selected**, **accretive** (grown by new composition), and **lossy**. **Percipient selection** is that tending: a discerning community's curation of what the corpus preserves, keeping what serves *lokakṣema* and releasing the rest. Loss has two agents — **percipient release** (dharmic; the community lets go) and **asuric destruction** (deliberate attack or its consequence, developed in Chapter 3). The contrast is the *vaidika*, whose content is invariant and un-erasable. Every change to the corpus has a hand behind it; the language beneath it stays calibrated.
 
 ### **Sanātan** (सनातन)
 
@@ -202,7 +202,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **devabhāṣā** (देवभाषा)
 
-**Standard lineage epithet, book-elevated.** *The language of the devas* — the radiant ones. The lineage-name for Sanskrit. The book treats this as more than ornament: it captures what the language *did* — carried light outward, calibrating other languages across the depth of time. The radiative function is a descriptive claim about how Sanskrit operated on the surrounding subcontinental and Indo-European sound-fields, not a poetic gesture. Chapter 0 §0.3 establishes; deployed as a recurring frame.
+**Standard lineage epithet, book-elevated.** *The language of the devas* — the radiant ones. The lineage-name for Sanskrit. The book treats this as more than ornament: it captures what the language *did* — radiated light outward, calibrating other languages across the depth of time. The radiative function is a descriptive claim about how Sanskrit operated on the surrounding subcontinental and Indo-European sound-fields, not a poetic gesture. Chapter 0 §0.3 establishes; deployed as a recurring frame.
 
 ### **jijñāsā** (जिज्ञासा)
 
@@ -236,7 +236,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 **Standard.** "The imperishable"; the syllabic sound-bond — a *svaraḥ* with any consonantal contacts that surround it. The stable acoustic unit; the audiograph's referent.
 
-**Engineering gloss**: *sonomeron* — a sonomeric cell. The book keeps *akṣara* primary because the Sanskrit term carries both the technical and civilizational force.
+**Engineering rendering**: *sonomeron* — a sonomeric cell. The book keeps *akṣara* primary because the Sanskrit term holds both the technical and civilizational force.
 
 ### **mātrā** (मात्रा)
 
@@ -302,7 +302,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **missionaries of progress**
 
-**Book-coined cluster.** The export class inside the church of progress: writers, popularizers, institutional advocates, and civilizational managers who carry the doctrine outward under public vocabulary such as modernization, development, reform, science, or rights.
+**Book-coined cluster.** The export class inside the church of progress: writers, popularizers, institutional advocates, and civilizational managers who advance the doctrine outward under public vocabulary such as modernization, development, reform, science, or rights.
 
 ### **jihadis of progress**
 
@@ -393,7 +393,7 @@ Book refrain: ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many.
 ## Conventions for using this glossary
 
 - Cross-references in the book's chapter prose use the Sanskrit form. The English pair is available; pick whichever fits the local rhythm (per CLAUDE.md's Sanskrit / English alternation rules).
-- On first use of any term in a chapter, pair both forms once. Use Devanagari as an anchor when the term carries weight or is being installed; after that, IAST or English alone is fine.
+- On first use of any term in a chapter, pair both forms once. Use Devanagari as an anchor when the term has weight or is being installed; after that, IAST or English alone is fine.
 - Do not bold every Devanagari occurrence. Reserve bold Devanagari for installation moments, tables, figures, hammers, and terms being defined.
 - Where a chapter introduces a coined compound (e.g., *dhāturacanā*) for the first time, anchor in the etymology: *"dhātu + racanā — atomic scaffold"*. Do not meta-narrate ("what this book calls").
-- Per-term endnotes carry the rationale where the etymology alone is not enough.
+- Per-term endnotes preserve the rationale where the etymology alone is not enough.

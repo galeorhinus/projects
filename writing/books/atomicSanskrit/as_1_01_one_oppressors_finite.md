@@ -86,7 +86,7 @@ The result is field-loss. Sanskrit remains present, but the world becomes *akṣ
 
 The transmission architecture preserved this recognition for thousands of years as stories rather than abstract theory of power. Each story is a recipe. Each recipe teaches the next generation how to recognize the asuric operation when the costume changes.
 
-The lineage-chain preserved the asura stories as recognition-forms. A story can carry memory, but it can also carry a diagnostic grammar. It can teach a child that Svarbhānu darkened the Sun, teach an elder that darkness can be used as a weapon against light, and teach a civilization that the first symptom of successful asuric attack is field-loss: **अक्षेत्रवित् (*akṣetravit*)**, not knowing the field.
+The lineage-chain preserved the asura stories as recognition-forms. A story can transmit memory, but it can also transmit a diagnostic grammar. It can teach a child that Svarbhānu darkened the Sun, teach an elder that darkness can be used as a weapon against light, and teach a civilization that the first symptom of successful asuric attack is field-loss: **अक्षेत्रवित् (*akṣetravit*)**, not knowing the field.
 
 At institutional scale, the recipes become repeatable operations. The asuric pyramid runs them all for a single purpose: finite control—narrowing the terrain, capturing the gate, training the civilization to answer inside the pyramid's category.
 
@@ -94,7 +94,7 @@ At institutional scale, the recipes become repeatable operations. The asuric pyr
 
 **Withhold the light.** Svarbhānu darkens Sūrya. Vṛtra withholds the waters. Kāliya poisons the river. The shared structure is obstruction of circulation: light, water, knowledge, speech, field-orientation. The source remains; access to what the source makes visible is blocked.
 
-**Steal the foundation.** Madhu and Kaiṭabha carry away the Vedas. Hayagrīva-asura repeats the theft. The stolen thing is often unusable to the thief. Its value lies in removal. PIE performs that operation against Sanskrit: an imagined ancestor is placed above the visible calibrant.
+**Steal the foundation.** Madhu and Kaiṭabha steal away the Vedas. Hayagrīva-asura repeats the theft. The stolen thing is often unusable to the thief. Its value lies in removal. PIE performs that operation against Sanskrit: an imagined ancestor is placed above the visible calibrant.
 
 **Wear false identity.** Pūtanā comes as nurse. Mārīca comes as deer. Kālanemi comes as ascetic. Pauṇḍraka comes as Vāsudeva. The costume is the entry mechanism. The modern form is polite: scholarship, translation, preservation, objectivity, public education. The category attached to the gift does the capture.
 
@@ -110,7 +110,7 @@ The attack on Sanskrit is a category attack. The pyramid leaves the word *Sanskr
 
 The first move is ancestry theft. PIE is placed above Sanskrit, and Sanskrit is made downstream. The engineered calibrant becomes one branch among many. The real language must answer to an imaginary ancestor; the preserved system must answer to a reconstructed source; the visible architecture must answer to a starred form no known community ever spoke. Sūrya remains visible, but the sky has been darkened.
 
-The public move is language capture. Words such as *plant-organ*, *branch*, *daughter*, *migration*, *reconstruction*, *codification*, *"mythology"*, *cosmopolis*, *elite*, *early*, *late*, *primitive*, and *interpolation* carry the concealment into ordinary speech. A reader can absorb the verdict before seeing the evidence because the vocabulary has already assigned the category.
+The public move is language capture. Words such as *plant-organ*, *branch*, *daughter*, *migration*, *reconstruction*, *codification*, *"mythology"*, *cosmopolis*, *elite*, *early*, *late*, *primitive*, and *interpolation* smuggle the concealment into ordinary speech. A reader can absorb the verdict before seeing the evidence because the vocabulary has already assigned the category.
 
 These operations execute category theft. Sanskrit is made to answer inside categories built to hide what Sanskrit is.
 

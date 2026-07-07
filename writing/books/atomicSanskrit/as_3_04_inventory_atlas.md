@@ -10,7 +10,7 @@ The empirical material supporting the four-step ladder appears here: the atlas m
 
 The atlas asks one physical question: when a language treats a consonant as a contrastive coordinate, where does that consonant sit on a shared mouth-map? It measures the body-anchored coordinates each language treats as independent contrastive slots — not vocabulary, descent, prestige, script, age, or any of the pyramid's classificatory buckets.[NOTE: language-hotzones-inventory-method]
 
-**The horizontal axis carries twelve places.** Each language's consonants fall on a 12-column axis that runs from lips to glottis along the human vocal tract:
+**The horizontal axis holds twelve places.** Each language's consonants fall on a 12-column axis that runs from lips to glottis along the human vocal tract:
 
 | Col | Sanskrit anchor | Standard label | Body location |
 |---:|---|---|---|
@@ -27,9 +27,9 @@ The atlas asks one physical question: when a language treats a consonant as a co
 | 10 | — | pharyngeal | tongue root toward pharynx wall |
 | 11 | — | glottal | vocal folds |
 
-The five Sanskrit-named places (BIL, DEN, RET, PAL, VEL) carry their *sthāna* names. The seven other columns carry standard labels — Sanskrit's grid does not stop there. The five *sthāna* names define Sanskrit's selection from the broader anatomical space the human voice can reach.
+The five Sanskrit-named places (BIL, DEN, RET, PAL, VEL) hold their *sthāna* names. The seven other columns hold standard labels — Sanskrit's grid does not stop there. The five *sthāna* names define Sanskrit's selection from the broader anatomical space the human voice can reach.
 
-**The vertical axis carries thirteen manners.** Thirteen manner rows describe how the consonant is shaped at its place: five stop rows (voiceless unaspirated, voiceless aspirated, voiced unaspirated, voiced aspirated, ejective), two affricate rows (voiceless, voiced), two fricative rows (voiceless, voiced), and one each for nasal, lateral, tap-or-trill, and approximant / glide. The two aspirated stop rows are Sanskrit's *mahāprāṇa* row pair, set apart by the strip preset described below. The ejective row appears for languages carrying the Caucasian or Native American glottal-pressure system; Sanskrit does not light it.
+**The vertical axis holds thirteen manners.** Thirteen manner rows describe how the consonant is shaped at its place: five stop rows (voiceless unaspirated, voiceless aspirated, voiced unaspirated, voiced aspirated, ejective), two affricate rows (voiceless, voiced), two fricative rows (voiceless, voiced), and one each for nasal, lateral, tap-or-trill, and approximant / glide. The two aspirated stop rows are Sanskrit's *mahāprāṇa* row pair, set apart by the strip preset described below. The ejective row appears for languages holding the Caucasian or Native American glottal-pressure system; Sanskrit does not light it.
 
 **The mahāprāṇa-strip preset isolates the base field.** Chapter 8 §8.3 defines a 23-cell Sanskrit base by holding aside the ten *mahāprāṇa* stop cells: **ख छ ठ थ फ** and **घ झ ढ ध भ**. Sensitivity check, not demotion. Sanskrit's vertical breath axis remains structural; Chapter 8 needs the base field isolated from the breath layer Sanskrit stacks on top. The preset removes manner rows 1 (voiceless aspirated) and 3 (voiced aspirated) from every language's harmonized cell set before comparison. Aspirated stops in any comparison language are removed too. The atlas then measures coverage across the rows Sanskrit's base lights, not across all manner rows.[NOTE: inventory-atlas-coverage-surveys]
 
@@ -43,11 +43,11 @@ Tamil speakers produce voiced stop sounds in real speech. Tamil's contrastive in
 
 **The coverage criterion is union, not ranking.** For each three-language comparison set, a Sanskrit cell counts as *covered* if at least one of the three languages lights it. Chapter 8 asks whether the subcontinental field — or some other region — supplies enough material to make Sanskrit's base recoverable. Union coverage answers that question without conflating it with per-language ranking.
 
-Three languages collectively covering 20 of 23 cells does not mean each language carries 20 of those cells; it means the union of their three inventories intersects Sanskrit's base in 20 places. A language that contributes three or four cells can still carry weight if those cells are otherwise unfilled.
+Three languages collectively covering 20 of 23 cells does not mean each language holds 20 of those cells; it means the union of their three inventories intersects Sanskrit's base in 20 places. A language that contributes three or four cells can still hold weight if those cells are otherwise unfilled.
 
-**Inventory provenance is open.** The eleven surveys are computed against a harmonized set of phonemic inventories drawn from standard linguistic descriptions per language. The Python generator `figures/_shared/toolkits/vocal_tract/configs/_generate_new_configs.py` carries every inventory in one place alongside its reference work — Padgett (2003) and Yanushevskaya & Bunčić (2015) for Russian; Tegey & Robson (1996) and Bečka (1969) for Pashto; Schulze (2000), Stilo (2008), and Pirejko (1976) for Talysh; and so on for each comparison language. Anyone who wants to test an alternative inventory choice can edit the file, regenerate the JSON, and rebuild the figure. The reproducibility bundle ships with the figure pipeline.
+**Inventory provenance is open.** The eleven surveys are computed against a harmonized set of phonemic inventories drawn from standard linguistic descriptions per language. The Python generator `figures/_shared/toolkits/vocal_tract/configs/_generate_new_configs.py` holds every inventory in one place alongside its reference work — Padgett (2003) and Yanushevskaya & Bunčić (2015) for Russian; Tegey & Robson (1996) and Bečka (1969) for Pashto; Schulze (2000), Stilo (2008), and Pirejko (1976) for Talysh; and so on for each comparison language. Anyone who wants to test an alternative inventory choice can edit the file, regenerate the JSON, and rebuild the figure. The reproducibility bundle ships with the figure pipeline.
 
-The inventory choices are conservative and editorial. Verification flags live in `working/inventory_atlas_coverage_surveys.md` §5: Pashto's full retroflex set, Greek's lack of phonemic /h/, the aspirated/ejective affricate collapse Armenian and Georgian carry, the single Burushaski symbol (ʈʂ) the harmonizer's manner taxonomy does not have a row for. The data trail is visible to any reader who wants it.
+The inventory choices are conservative and editorial. Verification flags live in `working/inventory_atlas_coverage_surveys.md` §5: Pashto's full retroflex set, Greek's lack of phonemic /h/, the aspirated/ejective affricate collapse Armenian and Georgian hold, the single Burushaski symbol (ʈʂ) the harmonizer's manner taxonomy does not have a row for. The data trail is visible to any reader who wants it.
 
 The Korku chart uses this conservative policy. The standard Korku grammar appears to preserve a richer retroflex inventory than the atlas currently displays, including retroflex aspirates, a retroflex flap, and a retroflex lateral.[NOTE: korku-nagaraja-mouth-mind-evidence] The figure therefore treats Korku minimally: enough to show the retroflex place, without counting every possibly dialectal, loan-sensitive, or differently analyzed retroflex contrast.
 
@@ -61,11 +61,11 @@ The unfilled letters match the body set too: **ण · स · ष · श · ल**
 
 ![Figure A.4.1 — Munda Survey: 18 of 23 Sanskrit base coordinates. Korku, Mundari, and Santali cover the same 18 cells the body's Forest-Belt Survey covers, with the same unfilled set (ण · स · ष · श · ल).](figures/superset/sk_korku_mundari_santali.svg){#fig:app4-munda-survey width=100%}
 
-Santali's heavier Indic absorption does not move the count. The unfilled cells are not what Santali borrowed from Sanskrit; they are what Sanskrit chose to place differently from the broader subcontinental field. Switching Ho for Santali leaves the geographic verdict intact. The forest belt carries 18 of Sanskrit's 23 base coordinates regardless of which three forest-belt languages are sampled.
+Santali's heavier Indic absorption does not move the count. The unfilled cells are not what Santali borrowed from Sanskrit; they are what Sanskrit chose to place differently from the broader subcontinental field. Switching Ho for Santali leaves the geographic verdict intact. The forest belt holds 18 of Sanskrit's 23 base coordinates regardless of which three forest-belt languages are sampled.
 
 ## 4.3 Santali-Free Mixed Control: 18 of 23
 
-The Mixed Control swaps Santali for Burushaski — the Hunza Valley language-isolate sitting outside every family tree the subcontinent carries — and pairs it with Korku and Mundari.
+The Mixed Control swaps Santali for Burushaski — the Hunza Valley language-isolate sitting outside every family tree the subcontinent holds — and pairs it with Korku and Mundari.
 
 ![Figure A.4.2 — Mixed Control: 18 of 23 Sanskrit base coordinates. Korku, Mundari, and Burushaski reach the same 18-cell coverage as the all-Munda control; Burushaski's retroflex inventory exchanges one unfilled cell for another but does not move the count.](figures/superset/sk_korku_mundari_burushaski.svg){#fig:app4-mixed-control width=100%}
 
@@ -81,7 +81,7 @@ The Dispersed Survey picks one representative from each branch: Sora (South Mund
 
 ![Figure A.4.3 — Dispersed Survey: 15 of 23 Sanskrit base coordinates. Sora, Khasi, and Nicobarese — three languages the machinery classifies under one *"Austro-Asiatic"* umbrella across three remote subcontinental poles — cover three fewer cells than the all-Munda Forest-Belt Survey.](figures/superset/sk_sora_khasi_nicobarese.svg){#fig:app4-dispersed-survey width=100%}
 
-The single pyramid label *"Austro-Asiatic"* predicts that these three languages should share structural sound-field properties. They do not. Sora's South Munda inventory lacks the retroflex stops North Munda carries; Khasi runs voiceless-aspirated stops as the Mon-Khmer signature; Nicobarese carries neither retroflex nor aspirated stops. Three languages under one manufactured umbrella deliver three different inventory shapes, and their union covers less of Sanskrit's base than any all-subcontinental control.
+The single pyramid label *"Austro-Asiatic"* predicts that these three languages should share structural sound-field properties. They do not. Sora's South Munda inventory lacks the retroflex stops North Munda holds; Khasi runs voiceless-aspirated stops as the Mon-Khmer signature; Nicobarese holds neither retroflex nor aspirated stops. Three languages under one manufactured umbrella deliver three different inventory shapes, and their union covers less of Sanskrit's base than any all-subcontinental control.
 
 The family label is not structural. Geography is structural — and inside the *"Austro-Asiatic"* umbrella the geography is dispersed across three remote regions of the subcontinent.
 
@@ -91,7 +91,7 @@ Three north-western contact-zone languages — Pashto (*"Iranian"* by the pyrami
 
 ![Figure A.4.4 — Northwest Frontier Survey: 20 of 23 Sanskrit base coordinates. Pashto, Nuristani, and Burushaski cover the same 20 cells the deep-south Tamil + Toda + Kurukh set covers, with the same unfilled triple (ल · स · श). Two geographically opposite ends of the subcontinent deliver the same count.](figures/superset/sk_pashto_nuristani_burushaski.svg){#fig:app4-nw-frontier-survey width=100%}
 
-Two geographically opposite sets — deep south and north-western frontier — deliver the same count with the same unfilled list. Both regions sit inside the subcontinental retroflex contact zone; both carry the cells Sanskrit's base lights.
+Two geographically opposite sets — deep south and north-western frontier — deliver the same count with the same unfilled list. Both regions sit inside the subcontinental retroflex contact zone; both hold the cells Sanskrit's base lights.
 
 The set is taxonomically mixed. Pashto is *"Iranian"* by the pyramid's label; Nuristani is a separate IE branch the machinery classifies neither as Indic nor as Iranian; Burushaski is a language-isolate. The three pyramid classifications collide inside one geographic outcome — and the outcome ties the southern set. The frontier inventories acquired the retroflex column from the same subcontinental contact zone the deep-south languages preserve. The geography predicts the count; the classifications do not.
 
@@ -103,7 +103,7 @@ Three Iranian languages outside the north-western contact zone — Farsi (Iran),
 
 The 13/23 number is the same coverage a random external English + Arabic + Farsi mix delivers. Three languages the pyramid classifies as Sanskrit's "Iranian sister branch" cousins cover no more of Sanskrit's base than three external languages do.
 
-The contact / non-contact axis carries the explanation. Swapping Talysh for Balochi — a north-western frontier Iranian language that did acquire retroflex from the subcontinental contact zone — moves coverage from 13 to 16. The exact 3-cell jump is the retroflex column **ट · ड · र** Balochi carries and Caspian-littoral Iranian does not. The "Iranian" classification predicts nothing once contact is held constant.
+The contact / non-contact axis holds the explanation. Swapping Talysh for Balochi — a north-western frontier Iranian language that did acquire retroflex from the subcontinental contact zone — moves coverage from 13 to 16. The exact 3-cell jump is the retroflex column **ट · ड · र** Balochi holds and Caspian-littoral Iranian does not. The "Iranian" classification predicts nothing once contact is held constant.
 
 ## 4.7 Caucasus Survey: 10 of 23
 
@@ -143,9 +143,9 @@ The eleven surveys — four in the body, seven in this appendix — stack into a
 
 **Geographic distance from the subcontinent predicts coverage.** The two 20/23 ceilings appear at geographically opposite poles — the deep-south Tamil + Toda + Kurukh set and the north-western Pashto + Nuristani + Burushaski set. Both sit inside the subcontinental retroflex contact zone. Both cover the same 20 cells with the same three unfilled letters (**ल · स · श**). At the other end, the Caucasus Survey delivers 10/23 — the lowest of the eleven — because the Caucasus is far enough from the subcontinent that no classification rescues the coverage.
 
-**The pyramid's "Indo-European" classification does not predict coverage.** Inside the IE-classified set the spread is 11/23 to 20/23 — a nine-cell range driven entirely by geography. Pashto + Nuristani at the high end carry the same IE label as Russian + Ukrainian + Ossetian at the low end. The classification is structurally inert.
+**The pyramid's "Indo-European" classification does not predict coverage.** Inside the IE-classified set the spread is 11/23 to 20/23 — a nine-cell range driven entirely by geography. Pashto + Nuristani at the high end hold the same IE label as Russian + Ukrainian + Ossetian at the low end. The classification is structurally inert.
 
-**The pyramid's "Iranian sister branch" claim collapses on the contact axis.** Pashto and Balochi — Iranian languages inside the north-western subcontinental contact zone — carry the retroflex column and contribute heavily to the 20/23 NW Frontier ceiling. Farsi, Kurdish, and Talysh — Iranian languages outside the contact zone — deliver 13/23, the same coverage three random external languages do. The Iranian classification predicts nothing once contact is held constant.
+**The pyramid's "Iranian sister branch" claim collapses on the contact axis.** Pashto and Balochi — Iranian languages inside the north-western subcontinental contact zone — hold the retroflex column and contribute heavily to the 20/23 NW Frontier ceiling. Farsi, Kurdish, and Talysh — Iranian languages outside the contact zone — deliver 13/23, the same coverage three random external languages do. The Iranian classification predicts nothing once contact is held constant.
 
 **The *"Austro-Asiatic"* family label fails the same test.** Munda inside the central forest belt delivers 18/23. The same family label across dispersed subcontinental geography (Sora + Khasi + Nicobarese) delivers 15/23. The label flattens three different sound-fields.
 

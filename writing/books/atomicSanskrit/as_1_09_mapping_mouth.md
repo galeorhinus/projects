@@ -33,9 +33,9 @@ Pyramids and hilltop cities announce power through height, mass, and command. Hi
 The curated heap then becomes ordered form. Sanskrit's own name for the selected sound-inventory is **वर्णमाला (*varṇamālā*)** — the garland of *varṇas*. 
 ![Figure 9.2 — The *varṇamālā* as the sonomer garland: selected sounds strung as a measured sonomer inventory.](figures/mapping_mouth/varnamala_sonomer_garland.svg){#fig:ch9-sonomer-garland width=100%}
 
-The figure below is my modern rendering. The arrangement by place and effort is ancient, and the name varṇamālā already calls the inventory a garland; what I have not found is an earlier rendering that draws that garland as an articulatory mouth-map, each bead set at its own coordinate. I did not invent the order. I saw the visual form while meditating on the architecture itself, in a state of sustained hyperfocus where the sounds had become positions, weights, colors, and paths — where engineering collided with poetic beauty. That seeing was Vāk’s gift, as is the ability to write this book. When the sounds are visualized through Sanskrit’s own vocabulary, they arrange themselves as what the name already says: a garland of chosen beads, woven for Vāk herself to wear. I returned it to her, strung. The poetry of the माला (mālā) carries the engineering inside beauty.
+The figure below is my modern rendering. The arrangement by place and effort is ancient, and the name varṇamālā already calls the inventory a garland; what I have not found is an earlier rendering that draws that garland as an articulatory mouth-map, each bead set at its own coordinate. I did not invent the order. I saw the visual form while meditating on the architecture itself, in a state of sustained hyperfocus where the sounds had become positions, weights, colors, and paths — where engineering collided with poetic beauty. That seeing was Vāk’s gift, as is the ability to write this book. When the sounds are visualized through Sanskrit’s own vocabulary, they arrange themselves as what the name already says: a garland of chosen beads, woven for Vāk herself to wear. I returned it to her, strung. The poetry of the माला (mālā) holds the engineering inside beauty.
 
-The word is poetic and precise. A garland differs from a heap. Each bead is chosen, shaped, placed, and strung in an order that can be carried. The *varṇamālā* does the same with sound. It is the quintessence of **दिव्यता (*divyatā*)**: engineering made radiant.
+The word is poetic and precise. A garland differs from a heap. Each bead is chosen, shaped, placed, and strung in an order that can be held. The *varṇamālā* does the same with sound. It is the quintessence of **दिव्यता (*divyatā*)**: engineering made radiant.
 
 The word garland is important because it preserves Sanskrit's own way of seeing this sound-inventory. These are measured sound-particles before they become "letters": **sonomers**. A sonomer is what Sanskrit calls a *varṇa*: a selected, measured, repeatable unit of sound.
 
@@ -60,7 +60,7 @@ The *varṇamālā* is organized into four working divisions:
 
 The *ayogavāha* sounds sit at the boundary: **अनुस्वार (*anusvāra*)**, **विसर्ग (*visarga*)**, and related breath or nasal release forms recognized by the *Prātiśākhya* discipline.[NOTE: ayogavaha-category-pratisakhya]
 
-These classes are roles in assembly. Vowels hold the resonant center of the *akṣara*. Stops build hard contact. Nasals couple the oral and nasal cavities. *Antaḥstha* sounds move between vowel and consonant behavior. *Ūṣman* sounds carry friction and breath. The *visarga* releases breath after the vowel; *anusvāra* points nasal resonance into the next contact.[NOTE: visarga-anusvara-articulation]
+These classes are roles in assembly. Vowels hold the resonant center of the *akṣara*. Stops build hard contact. Nasals couple the oral and nasal cavities. *Antaḥstha* sounds move between vowel and consonant behavior. *Ūṣman* sounds hold friction and breath. The *visarga* releases breath after the vowel; *anusvāra* points nasal resonance into the next contact.[NOTE: visarga-anusvara-articulation]
 
 Sanskrit is already using the language of the body. A sound is specified by **स्थान (*sthāna*)**, place; **प्रयत्न (*prayatna*)**, effort or manner; **प्राण (*prāṇa*)**, breath pressure; **घोष (*ghoṣa*)**, vocal-cord vibration; and **अनुनासिक (*anunāsika*)**, nasal coupling. Modern speech science uses different labels, but the same physical questions apply: where is the constriction, what kind of constriction is it, is the voice on, how much breath is released, and does the nasal passage open?[NOTE: place-of-articulation-sanskrit-terms]
 
@@ -140,7 +140,7 @@ The ten heavy-breath stops are:
 
 They are Sanskrit's vertical expansion of the contact grid. The base places were already available in the field. Sanskrit adds a breath-pressure layer and makes the contrast structural.
 
-English gives an easy comparison. In **pin**, the **p** often carries a small puff of breath. In **spin**, that puff usually disappears. English speakers can produce the difference, but English leaves the breath contextual. Sanskrit makes breath a coordinate: **प (*pa*)** and **फ (*pha*)** are independent word-making sonomers.
+English gives an easy comparison. In **pin**, the **p** often holds a small puff of breath. In **spin**, that puff usually disappears. English speakers can produce the difference, but English leaves the breath contextual. Sanskrit makes breath a coordinate: **प (*pa*)** and **फ (*pha*)** are independent word-making sonomers.
 
 The same is visible in everyday English compounds. Speakers can feel a burst of breath across **backhand**, **blockhead**, **crackhead**, **pighead**, **bighead**, **hitchhike**, **hedgehog**, **pothole**, **foghorn**, **like hell**, **hip-hop**, and **Grubhub**. The body can do it. Sanskrit builds a full grid from it.
 
@@ -150,7 +150,7 @@ The move also fits Sanskrit's wider culture of breath. *Prāṇa* is trained in 
 
 The breath-axis continues beyond the stop matrix into boundary sounds. The most familiar are **अनुस्वार (*anusvāra*)** and **विसर्ग (*visarga*)**. The *anusvāra* indicates nasal resonance that points toward the following sound. In careful analysis, it is a shorthand for nasal behavior governed by the next contact. The *visarga* is a release of breath after a vowel, often shaped by what follows.[NOTE: sandhi-anusvara-assimilation]
 
-These sounds sit at the edge of ordinary combination. The old category name **अयोगवाह (*ayogavāha*)** captures the idea: that which carries without joining in the ordinary way.
+These sounds sit at the edge of ordinary combination. The old category name **अयोगवाह (*ayogavāha*)** captures the idea: that which holds without joining in the ordinary way.
 
 A word such as **सिन्धुः (*sindhuḥ*)** ends with a breath-release sonomer. The sound is part of the architecture, and later language reflections have to account for its behavior.[NOTE: visarga-cognate-shadow]
 
@@ -160,11 +160,11 @@ The boundary sounds show the same discipline as the matrix. Sanskrit labels them
 
 The selected sonomer becomes stable when it is held as an **अक्षरम् (*akṣaram*)**.
 
-The word *akṣara* carries a large claim. It means the imperishable, the non-decaying. In the language system, it is the stable sound-unit that can be recited, written, counted, and recombined.[NOTE: aksara-imperishable-name]
+The word *akṣara* holds a large claim. It means the imperishable, the non-decaying. In the language system, it is the stable sound-unit that can be recited, written, counted, and recombined.[NOTE: aksara-imperishable-name]
 
 The distinction between **sonomer** and **audiograph** is relevant here. The sonomer is the measured sound-particle; the audiograph is the visible capture of that sound-particle in script. Sanskrit is sonomeric before it is audiographic, built from measured sound-particles before any script makes those particles visible.
 
-An *akṣara* is vowel-centered. One vowel nucleus carries the unit. Consonants can open around it, close around it, or cluster at its edges, but the vowel supplies the acoustic center. Thus **पच् (*pac*)** is one *akṣara*, while **पचति (*pacati*)** has three.
+An *akṣara* is vowel-centered. One vowel nucleus holds the unit. Consonants can open around it, close around it, or cluster at its edges, but the vowel supplies the acoustic center. Thus **पच् (*pac*)** is one *akṣara*, while **पचति (*pacati*)** has three.
 
 The *varṇamālā* is spatial and temporal. The spatial grid tells the body where and how to make contact. The timing grid tells the reciter how long the sound holds. The unit is the **मात्रा (*mātrā*)**, the measure.
 
@@ -175,7 +175,7 @@ The *varṇamālā* is spatial and temporal. The spatial grid tells the body whe
 | Long vowel | **दीर्घ स्वर (*dīrgha svara*)** | 2 *mātrās* | extended nucleus |
 | Prolated vowel | **प्लुत स्वर (*pluta svara*)** | 3 *mātrās* | prolonged recitational form |
 
-The timing discipline is old and central.[NOTE: hrasva-dirgha-pluta-matra] Vedic recitation also carries accent: **उदात्त (*udātta*)**, **अनुदात्त (*anudātta*)**, and **स्वरित (*svarita*)**.[NOTE: vedic-svara-system] Accent and duration do different work. Duration measures the sound-particle itself. Accent shapes recitation.
+The timing discipline is old and central.[NOTE: hrasva-dirgha-pluta-matra] Vedic recitation also holds accent: **उदात्त (*udātta*)**, **अनुदात्त (*anudātta*)**, and **स्वरित (*svarita*)**.[NOTE: vedic-svara-system] Accent and duration do different work. Duration measures the sound-particle itself. Accent shapes recitation.
 
 The visible script belongs to *lipi*. The deeper structure belongs to sound. Appendix Part 3 develops the script argument in full: Indic writing is audiographic because it makes the sonomer visible. Sanskrit first selects the sonomer; then the script can show it.
 
@@ -235,10 +235,10 @@ The next scale uses that envelope. The notation — C, V1, V2 — is a modern sh
 
 At this scale, the *varṇamālā* is the first visible Sanskritic specification: compact, ordered, body-mapped, timed, teachable, and stable. The six-part test later receives its formal name through the **सूत्रलक्षणम् (*sūtra-lakṣaṇam*)**, but the same qualities are already visible here.
 
-1. **Compact.** The selected set is small enough to carry and teach.
+1. **Compact.** The selected set is small enough to hold and teach.
 2. **Without waste.** Every class and position has a role.
 3. **Unambiguous.** Each sonomer has a place, manner, breath, voice, nasal, and timing profile.
-4. **Essence-bearing.** The classes themselves carry operational meaning: vowel, contact, nasal, between-standing, friction, breath-release.
+4. **Essence-bearing.** The classes themselves hold operational meaning: vowel, contact, nasal, between-standing, friction, breath-release.
 5. **Many-facing.** The same selected set serves recitation, grammar, poetry, mantra, śāstra, and ordinary speech.
 6. **Stable.** The same architecture remains available across transmission, notation, teaching, and rule-making.
 

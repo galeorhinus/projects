@@ -20,7 +20,7 @@ If the bond between word and meaning is established, grammar has a task. It must
 
 Codified systems correct by authority; Sanskrit corrects by architecture. That distinction becomes visible here. If correctness comes from authority, error is disobedience. If correctness comes from architecture, error is misalignment. *Apabhraṃśa* is misalignment — the uttered form slipping away from the established bond between word and meaning, sound and form, usage and rule.
 
-Entropy has a Sanskrit name: **अपभ्रंश (*apabhraṃśa*)** — falling away, slipping off. The morphology is transparent: *apa-* means away, off, down; *bhraṃśa* carries the semantic atom ⟪भ्रंश्⟫ (*bhraṃś*), to fall or slip. A speaker produces *apabhraṃśa* when the uttered form slips from the engineered form grammar specifies.
+Entropy has a Sanskrit name: **अपभ्रंश (*apabhraṃśa*)** — falling away, slipping off. The morphology is transparent: *apa-* means away, off, down; *bhraṃśa* contains the semantic atom ⟪भ्रंश्⟫ (*bhraṃś*), to fall or slip. A speaker produces *apabhraṃśa* when the uttered form slips from the engineered form grammar specifies.
 
 The slip can be phonetic, morphological, or lexical. A sound shifts. A form reorganizes. A word is replaced by something easier. Grammar treats all three with the same structural eye. The deviation is a falling-away, not an alternative form.
 
@@ -38,7 +38,7 @@ Patañjali states the asymmetry in the *Paspaśāhnika*:
 >
 > *Many are the corruptions; few are the words.*[NOTE: paspashahnika-apabhramsa-passage]
 
-The epigraph renders the same asymmetry through *apabhraṃśa*, the term of art here. Patañjali's maxim uses **अपशब्दाः (*apaśabdāḥ*)** — faulty words, non-words — and the same passage then lists the **अपभ्रंशाः (*apabhraṃśāḥ*)** of **गौः (*gauḥ*)**. The two terms carry the same structural judgment from different angles: *apaśabda* points to the wrong word; *apabhraṃśa* points to the falling-away.
+The epigraph renders the same asymmetry through *apabhraṃśa*, the term of art here. Patañjali's maxim uses **अपशब्दाः (*apaśabdāḥ*)** — faulty words, non-words — and the same passage then lists the **अपभ्रंशाः (*apabhraṃśāḥ*)** of **गौः (*gauḥ*)**. The two terms hold the same structural judgment from different angles: *apaśabda* points to the wrong word; *apabhraṃśa* points to the falling-away.
 
 The maxim records an empirical observation. The set of correct words is small. The set of corruptions generated from those words is large. The relation is asymmetric: the engineered set is the minority, and the fallings-away multiply.
 
@@ -72,7 +72,7 @@ The same evidence—*gauḥ* and its fallings-away—produces three diagnostic c
 
 **Codified correction** is the pyramidal category. Standardization comes from codification: a prestige form is selected, stabilized, taught, and defended by institutions. Correction comes from outside the speaker and above the usage — academy, priesthood, school, court, committee, dictionary, grammar. Authority supplies the standard.
 
-**Engineered self-correction** is the ***संस्कृति (*saṃskṛti*)*** category. Standardization comes from calibration: architecture correcting itself. Sanskrit does not depend on an external authority selecting one prestige variant from a field of living variation. The architecture carries its own diagnostic system. Meter catches the phonetic slip. Recitation catches the audible drift. Grammar catches the malformed word. The *pāṭha* disciplines catch the broken sequence. *Gauḥ* is correct because the system generates it; *gāvī*, *goṇī*, *gotā*, and *gopotalikā* are departures because the system detects them as departures.
+**Engineered self-correction** is the ***संस्कृति (*saṃskṛti*)*** category. Standardization comes from calibration: architecture correcting itself. Sanskrit does not depend on an external authority selecting one prestige variant from a field of living variation. The architecture builds its own diagnostic system. Meter catches the phonetic slip. Recitation catches the audible drift. Grammar catches the malformed word. The *pāṭha* disciplines catch the broken sequence. *Gauḥ* is correct because the system generates it; *gāvī*, *goṇī*, *gotā*, and *gopotalikā* are departures because the system detects them as departures.
 
 The three categories produce three different objects. Natural drift studies change. Codified correction enforces authority. Engineered self-correction preserves architecture. The pyramid's account pushes Sanskrit before Pāṇini (पाणिनि) into the first category and Sanskrit after Pāṇini into the second. Patañjali's examples belong to the third.
 
@@ -130,7 +130,7 @@ Languages sort into three tiers by their relation to that standard: the calibran
 
 Pinker coined the cycle's name. He did not supply the structural explanation. English borrowed Greek and Latin surfaces without a living *dhātu*-system to anchor them. *Moron* was untethered the day it entered English. In Marathi or Hindi, *mūrkha* remains tethered because the dhātu-image remains alive in the same speech ecosystem. The engineered system continues to anchor the word even when most speakers do not consciously know the dhātu.
 
-**[FIGURE 6.3: *The Sanskritic Gravity Field.* — three tiers across an anchoring-strength axis. Left: Sanskrit as calibrant-sun, with *gauḥ*, *jaḍa*, *mūrkha* preserved multi-valently. Center: the orbital tier — Marathi/Hindi, held in the field, bounded within the dhātu image-space. Right: beyond the field — English adrift, no calibrant, the euphemism treadmill. NOTE: the revised orbital Figure 6.1 may carry this load; decide at figure-pass whether 6.3 is still needed.]**
+**[FIGURE 6.3: *The Sanskritic Gravity Field.* — three tiers across an anchoring-strength axis. Left: Sanskrit as calibrant-sun, with *gauḥ*, *jaḍa*, *mūrkha* preserved multi-valently. Center: the orbital tier — Marathi/Hindi, held in the field, bounded within the dhātu image-space. Right: beyond the field — English adrift, no calibrant, the euphemism treadmill. NOTE: the revised orbital Figure 6.1 may hold this load; decide at figure-pass whether 6.3 is still needed.]**
 
 The internal infrastructure that makes Sanskrit a calibrant is the calibration matrix (Chapter 14). The external relation is the calibrant-contact dynamic (Chapter 18). Both rest on the same principle — gravity inside the field, radiance beyond it: engineered source, asymmetric anchoring, and an orbit whose reach is set by anchoring strength.
 

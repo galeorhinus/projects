@@ -14,4 +14,4 @@ Two civilizational fractals stand against each other in the record: the swastika
 
 History remembers the attacks on this architecture by asuric formations across time—ancient, Abrahamic, and modern. But those attacks do not define the architecture. They reveal why it threatens the pyramid. The architecture itself is the target.
 
-Later volumes carry the full civilizational meaning of that opposition. This book begins with the linguistic case.
+Later volumes hold the full civilizational meaning of that opposition. This book begins with the linguistic case.

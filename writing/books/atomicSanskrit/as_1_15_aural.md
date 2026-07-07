@@ -1,10 +1,10 @@
 # Chapter 15 — Aural Architecture
 
-After the calibration matrix comes sound, where formed Speech carries her radiance as audible preservation (Chapter 9).
+After the calibration matrix comes sound, where formed Speech holds her radiance as audible preservation (Chapter 9).
 
 This preservation is audible in the *pāṭhas* — living recitation systems maintained in identifiable lineages, taught in *gurukulas*, examined by teachers, performed before communities, and available to the ear.
 
-The *saṃhitā-pāṭha* is recited in temples and homes across the subcontinent and the diaspora. The *krama-pāṭha* is taught by lineages that still test it formally. The *ghana-pāṭha* is mastered by senior reciters who carry a title recognized across Vedic communities. These are the operational layer of the preservation system mapped earlier (Chapter 14).
+The *saṃhitā-pāṭha* is recited in temples and homes across the subcontinent and the diaspora. The *krama-pāṭha* is taught by lineages that still test it formally. The *ghana-pāṭha* is mastered by senior reciters who hold a title recognized across Vedic communities. These are the operational layer of the preservation system mapped earlier (Chapter 14).
 
 *Auditure* now appears in operation, with *Mnemoniture* as the remembered setting around it. The *Śikṣā* discipline trains the instrument. The eleven *pāṭhas* re-encode the corpus. Continuous recitation across multiple geographically separated lineages supplies the empirical cross-check. Sanskrit's preservation architecture leaves an observable engineering signature. The eleven *pāṭhas* are that signature.
 
@@ -14,19 +14,19 @@ The *saṃhitā-pāṭha* is recited in temples and homes across the subcontinen
 
 The **प्रातिशाख्य (*Prātiśākhya*)** discipline specifies the phonetic constants of a recension: sounds, accents, junctions, pauses, and recitational rules. *Śikṣā* trains the human instrument to produce those constants reliably. It tells the student what to do with the tongue, breath, palate, duration, pitch, and sequence. It tells the teacher what to check.
 
-The named *Śikṣā* texts are compact because they are training manuals, not survey essays. The *Pāṇinīya-Śikṣā*, *Yājñavalkya-Śikṣā*, *Vāsiṣṭhī-Śikṣā*, *Āpiśali-Śikṣā*, and *Bhāradvāja-Śikṣā* belong to that world of disciplined production.[NOTE: shiksha-texts-canonical-list] They read like operating instructions for a precision instrument. Points of articulation are enumerated. Vowel durations are quantified in **मात्रा (*mātrā*)** counts; consonants are treated as half-*mātrā* timing events — ***व्यञ्जनं चार्धमात्रिकम्***.[NOTE: vyanjana-duration-shiksha] Modes of contact between articulators are specified. Consequences of slippage at each point are tabulated. The procedural character of the texts is the signature of the architecture working through them.
+The named *Śikṣā* texts are compact because they are training manuals, not survey essays. The *Pāṇinīya-Śikṣā*, *Yājñavalkya-Śikṣā*, *Vāsiṣṭhī-Śikṣā*, *Āpiśali-Śikṣā*, and *Bhāradvāja-Śikṣā* belong to that world of disciplined production.[NOTE: shiksha-texts-standard-list] They read like operating instructions for a precision instrument. Points of articulation are enumerated. Vowel durations are quantified in **मात्रा (*mātrā*)** counts; consonants are treated as half-*mātrā* timing events — ***व्यञ्जनं चार्धमात्रिकम्***.[NOTE: vyanjana-duration-shiksha] Modes of contact between articulators are specified. Consequences of slippage at each point are tabulated. The procedural character of the texts is the signature of the architecture working through them.
 
-Recitation is public. A *śiṣya* recites before a *guru*, before peers, before senior reciters, before a community that has heard the form before. A deviation is heard. Being heard, it is corrected. The *guru* carries the trained ear of his own *guru*. The student enters the chain by being corrected into it.
+Recitation is public. A *śiṣya* recites before a *guru*, before peers, before senior reciters, before a community that has heard the form before. A deviation is heard. Being heard, it is corrected. The *guru* holds the trained ear of his own *guru*. The student enters the chain by being corrected into it.
 
 The Veda is recitation first, writing second. The recitation is the primary body. Writing is a later reflection. The standard enumeration of the *Vedāṅgas* preserves the priority correctly: *Śikṣā* stands first.[NOTE: shiksha-first-vedanga-priority] Sound-production precedes the grammar that analyzes the form, the etymology that explains it, the ritual that employs it, and the calendrical discipline that times its use.
 
-Auditure is the foundation. *Śikṣā* trains the body that carries it.
+Auditure is the foundation. *Śikṣā* trains the body that holds it.
 
 ## 15.2 The Eleven *Pāṭhas*
 
 The eleven *pāṭhas* divide into two groups. The five *prakṛti-pāṭhas* are primary recitations. The six *vikṛti-pāṭhas* are modified recitations that apply deeper permutations. Together they form one of the densest preservation codes any civilization has produced.[NOTE: eleven-pathas-full-list]
 
-***Saṃhitā-pāṭha*** (संहितापाठ) is the continuous recitation. Words are joined by *sandhi*. This is the flowing Vedic form, the verse as heard in its connected body. Every join carries information: vowel length, voicing, nasal placement, consonantal transition, accent, and breath.
+***Saṃhitā-pāṭha*** (संहितापाठ) is the continuous recitation. Words are joined by *sandhi*. This is the flowing Vedic form, the verse as heard in its connected body. Every join holds information: vowel length, voicing, nasal placement, consonantal transition, accent, and breath.
 
 ***Pada-pāṭha*** (पदपाठ) is the word-by-word recitation. The *sandhi* is unwound. Each *pada* stands apart. The form makes morphology audible and fixes the word-boundaries that the flowing *saṃhitā* conceals. This is the recitation Yāska's *Nirukta* assumes and the recitation Pāṇini's **अष्टाध्यायी (*Aṣṭādhyāyī*)** refers back to in its derivations. The *pada-pāṭha* is itself a kind of analytical commentary, fixed in recitation form.
 

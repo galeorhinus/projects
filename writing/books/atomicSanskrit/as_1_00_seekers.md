@@ -20,7 +20,7 @@
 
 \bigskip
 
-The image places Sanskrit as the Sun: a radiant *svastika* carrying *saṃskṛtam* संस्कृतम्, with *akṣaraḥ* अक्षरः, *varṇaḥ* वर्णः, *chandaḥ* छन्दः, and *dhātuḥ* धातुः held inside its form. The ledger beside it lists the seven qualities the eclipse will later obscure.
+The image places Sanskrit as the Sun: a radiant *svastika* holding *saṃskṛtam* संस्कृतम्, with *akṣaraḥ* अक्षरः, *varṇaḥ* वर्णः, *chandaḥ* छन्दः, and *dhātuḥ* धातुः held inside its form. The ledger beside it lists the seven qualities the eclipse will later obscure.
 
 ![Figure E.3 — Sanskrit-Sun. The positive ledger appears before the pyramid: wholly created, anti-entropic, self-correcting, sonomeric, audiographic, calibrant, and Vedic Matrix.](figures/eclipse_spine/eclipse_01_ch0_sanskrit_sun.svg){#fig:eclipse-ch0-sanskrit-sun width=100%}
 
@@ -72,17 +72,17 @@ Sanskrit's engineering begins with a civilization already capable of the act.
 
 The reader already knows more Sanskrit than the reader knows.
 
-The English word *guru* is Sanskrit *guru* गुरु, meaning *weighty* — a teacher whose authority comes from the weight of what they carry. *Karma* is *karma* कर्म, *action* and what action produces. *Avatar* is *avatāra* अवतार, *that which has descended* — a form taken by a higher power for a particular purpose. *Mantra* is *mantra* मन्त्र, the engineered acoustic instrument of contemplation. *Yoga* is *yoga* योग — from the semantic atom ⟪युज्⟫ (*yuj*), *to join* — the discipline of joining the practitioner to that which is being practiced. *Pundit* is *paṇḍita* पण्डित, a learned man. *Jungle* is *jaṅgala* जङ्गल. *Nirvana* is *nirvāṇa* निर्वाण. *Aryan* is the corrupted reflection of *ārya* आर्य, which Sanskrit defines not as a race but as a phonetic-pedagogical achievement.[NOTE: english-sanskrit-loanwords]
+The English word *guru* is Sanskrit *guru* गुरु, meaning *weighty* — a teacher whose authority comes from the weight of what they hold. *Karma* is *karma* कर्म, *action* and what action produces. *Avatar* is *avatāra* अवतार, *that which has descended* — a form taken by a higher power for a particular purpose. *Mantra* is *mantra* मन्त्र, the engineered acoustic instrument of contemplation. *Yoga* is *yoga* योग — from the semantic atom ⟪युज्⟫ (*yuj*), *to join* — the discipline of joining the practitioner to that which is being practiced. *Pundit* is *paṇḍita* पण्डित, a learned man. *Jungle* is *jaṅgala* जङ्गल. *Nirvana* is *nirvāṇa* निर्वाण. *Aryan* is the corrupted reflection of *ārya* आर्य, which Sanskrit defines not as a race but as a phonetic-pedagogical achievement.[NOTE: english-sanskrit-loanwords]
 
 The reader who has attended an Indian wedding has heard *mantras* in their Sanskrit form. The reader who has been to a yoga class has heard Sanskrit names of postures, *āsanas* आसन, that are precise compounds the language generates from its atomic inventory: *vṛkṣāsana* (tree-pose), *bhujaṅgāsana* (cobra-pose), *adho mukha śvānāsana* (downward-facing-dog-pose). The reader who has glanced at the names of Indian space missions has seen *Chandrayaan* चन्द्रयान — moon-vehicle, *Mangalyaan* मङ्गलयान — Mars-vehicle, and *Gaganyaan* गगनयान — sky-vehicle — all Sanskrit compounds engineered for the modern naming requirement. The reader who has watched the news has heard *Bhārat* भारत — the Sanskrit name India uses for itself.
 
 Sanskrit continues to work. It still labels, blesses, measures, and composes. It remains audible in homes, temples, classrooms, weddings, yoga halls, space missions, and ordinary names. The light remains.
 
-Sanskrit's other name is ***devabhāṣā*** (देवभाषा) — the language of the *devas*, the radiant ones. The phrase captures what the language did. It carried light outward.
+Sanskrit's other name is ***devabhāṣā*** (देवभाषा) — the language of the *devas*, the radiant ones. The phrase captures what the language did. It radiated light outward.
 
-Sanskrit also trains the ear to hear a name as an attribute, one that can carry relation, action, quality, lineage, or function. Yāska's formula **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)** later gives the principle its technical form: names arise from actions.[NOTE: sanskrit-names-as-attributes] Sanskrit labels the world and discloses its structure in the same stroke.
+Sanskrit also trains the ear to hear a name as an attribute, one that can hold relation, action, quality, lineage, or function. Yāska's formula **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)** later gives the principle its technical form: names arise from actions.[NOTE: sanskrit-names-as-attributes] Sanskrit labels the world and discloses its structure in the same stroke.
 
-Yāska turned the same discipline on *deva* itself and derived the word from action: from *dā*, to give; from *dīp*, to kindle; from *dyut*, to shine.[NOTE: yaska-deva-derivation] The radiant ones of *devabhāṣā* are the giving, the kindling, the shining — the deed carried in the word, not a label pinned on it.
+Yāska turned the same discipline on *deva* itself and derived the word from action: from *dā*, to give; from *dīp*, to kindle; from *dyut*, to shine.[NOTE: yaska-deva-derivation] The radiant ones of *devabhāṣā* are the giving, the kindling, the shining — the deed held in the word, not a label pinned on it.
 
 The same rule governs the contested words ahead. *Asura*, *ārya*, *saṃskṛta* — each arrives as a fixed label, and each yields something different once its action and function are weighed. The English word is not the authority. What the word does is.
 
@@ -108,7 +108,7 @@ The Veda is one. The continuum holds it as a single body of sound, without begin
 
 At the turn from the Dvāpara age to the Kali age — the age of the Mahābhārata — Vyāsa divided the one Veda into four: *Ṛgveda*, *Yajurveda*, *Sāmaveda*, *Atharvaveda*, each with its *saṃhitā* and associated vistāra — Brāhmaṇa, Āraṇyaka, Upaniṣad. The division added nothing and took nothing away. It arranged the one body for an age of shorter memory: preservation, not authorship.[NOTE: veda-vyasa-division] This is the vaidika domain, held in *chandas* (छन्दस्), the metrical mode.
 
-At the same turn, the *itihāsa-purāṇa* — the fifth Veda — passed to the laukika keepers: the laukika domain, carried in *bhāṣā* (भाषा), the mode of speech. Its corpus grows; the language holds.
+At the same turn, the *itihāsa-purāṇa* — the fifth Veda — passed to the laukika keepers: the laukika domain, held in *bhāṣā* (भाषा), the mode of speech. Its corpus grows; the language holds.
 
 The continuum measures all of this in its own time — *Sanātana* time. Tretā turned before Dvāpara, Satya before that; and through every age the Veda has kept watch over the laukika world, unchanged — the invariant calibrant against which the turning world is measured.
 
@@ -120,7 +120,7 @@ The continuum measures all of this in its own time — *Sanātana* time. Tretā 
 
 The opening puzzle gave two answers: zero and infinity. The civilization that engineered Sanskrit made both operational — first in counting, then in language.
 
-Ten symbols — *0* through *9* — span all of arithmetic. Position carries the value: the *2* in *246* is *two hundred*, the *2* in *26* is *twenty*, the *2* in *2* is *two*. The idea that makes it work is *śūnya* शून्य, the mark for absence at a position. Without zero, place value collapses; with zero, ten symbols reach every number there is. The world still counts this way — the *Hindu-Arabic numerals* of the reference works, received and refined by the Arabic mathematical discipline from the Indic one and carried west across the medieval period.[NOTE: place-value-arabic-transmission] The Indic origin is documented and uncontested, even where the engineering is domesticated as *a discovery* rather than recognized as engineering.
+Ten symbols — *0* through *9* — span all of arithmetic. Position determines the value: the *2* in *246* is *two hundred*, the *2* in *26* is *twenty*, the *2* in *2* is *two*. The idea that makes it work is *śūnya* शून्य, the mark for absence at a position. Without zero, place value collapses; with zero, ten symbols reach every number there is. The world still counts this way — the *Hindu-Arabic numerals* of the reference works, received and refined by the Arabic mathematical discipline from the Indic one and taken west across the medieval period.[NOTE: place-value-arabic-transmission] The Indic origin is documented and uncontested, even where the engineering is domesticated as *a discovery* rather than recognized as engineering.
 
 A finite inventory, a rule for combining it, one enabling idea — and the output has no ceiling.
 
@@ -136,7 +136,7 @@ Two systems, one pattern: ten digits span arithmetic, the *dhātupāṭha* spans
 
 Sanskrit is held by an engineered transmission architecture.
 
-One visible form of that architecture is *guru-shishya paramparā* गुरुशिष्यपरम्परा — the teacher-student lineage-chain. *Guru* transmits to *shishya*; the *shishya* becomes the *guru* of the next *shishya*; the chain extends across thousands of years. The transmission is direct, personal, embodied. The student hears, repeats, is corrected, repeats again, and carries the corrected form forward. The architecture is larger than this one relation, but the relation shows the principle clearly: Sanskrit is held by trained continuity that includes memory and disciplines it.
+One visible form of that architecture is *guru-shishya paramparā* गुरुशिष्यपरम्परा — the teacher-student lineage-chain. *Guru* transmits to *shishya*; the *shishya* becomes the *guru* of the next *shishya*; the chain extends across thousands of years. The transmission is direct, personal, embodied. The student hears, repeats, is corrected, repeats again, and takes the corrected form forward. The architecture is larger than this one relation, but the relation shows the principle clearly: Sanskrit is held by trained continuity that includes memory and disciplines it.
 
 The hearing-repetition-correction cycle is the smallest visible unit of caretaking: correction without contempt, repetition without fatigue, memory with accountability. A mother correcting a child's Gītā recitation belongs to the same civilizational pattern as a Vedic teacher correcting a student's accent. Scale differs. The duty does not.
 

@@ -2,17 +2,17 @@
 
 By the end of Chapter 10, the botanical substitute is gone and the *dhātuḥ* stands as an engineered semantic atom. Chapter 11 activates that atom. The smallest forms turn out to be the most reactive forms. The numerical audit behind those chapters asks the remaining question plainly: do the counts behave like accident, or like architecture?
 
-No single number can carry that answer. The pattern has to recur across levels: sound-particle, position, cluster, place, scaffold, operation, corpus use, and productivity. The *Source and Reference Companion* carries the tables, scripts, correction history, and replication notes. The record here keeps the source, the method, the strongest signals, and the principles visible in the counts.
+No single number can answer that. The pattern has to recur across levels: sound-particle, position, cluster, place, scaffold, operation, corpus use, and productivity. The *Source and Reference Companion* holds the tables, scripts, correction history, and replication notes. The record here keeps the source, the method, the strongest signals, and the principles visible in the counts.
 
-Two paths carry the audit. **Path A** measures the digital Pāṇinian **धातुपाठ (*Dhātupāṭha*)**: 2,168 entries across the ten **गणाः (*gaṇāḥ*)**, after **अनुबन्ध (*anubandha*)** markers are removed by the relevant *Aṣṭādhyāyī* rules. **Path C** measures actual use through the Digital Corpus of Sanskrit: corpus-attested combinatorial valency across parsed Sanskrit texts. Path A tests the inventory. Path C tests deployment.
+Two paths hold the audit. **Path A** measures the digital Pāṇinian **धातुपाठ (*Dhātupāṭha*)**: 2,168 entries across the ten **गणाः (*gaṇāḥ*)**, after **अनुबन्ध (*anubandha*)** markers are removed by the relevant *Aṣṭādhyāyī* rules. **Path C** measures actual use through the Digital Corpus of Sanskrit: corpus-attested combinatorial valency across parsed Sanskrit texts. Path A tests the inventory. Path C tests deployment.
 
-A signal visible only in the dictionary inventory may be a compilation artifact. A signal visible only in corpus use may be a genre or survival artifact. A signal that survives both paths carries more weight, and the two-path design exists to catch the false confidence either path alone would breed.
+A signal visible only in the dictionary inventory may be a compilation artifact. A signal visible only in corpus use may be a genre or survival artifact. A signal that survives both paths holds more weight, and the two-path design exists to catch the false confidence either path alone would breed.
 
 ---
 
 ## 6.1 The Structural Baseline
 
-First remove what Pāṇini tells us is only grammatical marking. A *dhātuḥ* citation form may carry *anubandha* sounds that instruct later operations but do not belong to the atom being measured. Count them, and the measurement has already drifted: scaffolding has been counted as structure.
+First remove what Pāṇini tells us is only grammatical marking. A *dhātuḥ* citation form may hold *anubandha* sounds that instruct later operations but do not belong to the atom being measured. Count them, and the measurement has already drifted: scaffolding has been counted as structure.
 
 Once those markers are removed, the compression becomes severe:
 
@@ -48,19 +48,19 @@ So the result cannot be reduced to broad preference. Individual sound-particles 
 
 ### 3. Position-Conditional Preference
 
-Position changes work. A consonant opening an atom does not behave like a consonant closing one. Initial position favors release and clarity. Final position carries settlement, bonding, and later *sandhi* behavior.
+Position changes work. A consonant opening an atom does not behave like a consonant closing one. Initial position favors release and clarity. Final position holds settlement, bonding, and later *sandhi* behavior.
 
 Retroflex sounds are depleted initially and strongly loaded finally — the counts follow the work. Palatals also rise in final use. Velars and labials prefer initial work. The inventory is not flat matter poured into slots; it is role-sensitive.
 
 ### 4. Cluster-Joiner Specialization
 
-Clusters do not ask every consonant to do the same work. A small specialist class carries most of the joining. Its major members are the **अन्तःस्थाः (*antaḥsthāḥ*)** — *ya, ra, la, va* — with *ra* at the extreme. The grammatical tradition had already placed them between.
+Clusters do not ask every consonant to do the same work. A small specialist class holds most of the joining. Its major members are the **अन्तःस्थाः (*antaḥsthāḥ*)** — *ya, ra, la, va* — with *ra* at the extreme. The grammatical tradition had already placed them between.
 
 The category is operational, not decorative. These sounds join consonant to consonant while other sounds do more boundary work.
 
 ### 5. *Mūrdhanya* Dual-Role Engineering
 
-The **मूर्धन्य (*mūrdhanya*)** site carries unusual load. It is strongly final, strongly active in cluster-joining, and tied to the *ṛ* / *ra* bridge. A place treated as marked or marginal by the usual story becomes central under measurement.
+The **मूर्धन्य (*mūrdhanya*)** site holds unusual load. It is strongly final, strongly active in cluster-joining, and tied to the *ṛ* / *ra* bridge. A place treated as marked or marginal by the usual story becomes central under measurement.
 
 The pyramid's retroflex story fails at this point. Late, local, marginal, borrowed: each label misses the same architectural role. Retroflex is a loaded design site inside Sanskrit.
 
@@ -128,6 +128,6 @@ The *Source and Reference Companion* preserves the replication trail:
 
 The code bundles are already organized for public audit. Path A measures the structure of the *Dhātupāṭha*. Path C measures corpus deployment. A future Path B can measure the formal bonding space licensed by the *Aṣṭādhyāyī* itself: what the rule-system makes available, not merely what dictionaries list or corpora preserve.
 
-The printed book needs the result more than every table: the architecture survives measurement. The companion carries the audit trail for the reader who wants to rerun it.
+The printed book needs the result more than every table: the architecture survives measurement. The companion preserves the audit trail for the reader who wants to rerun it.
 
 The *Dhātupāṭha* is an atomic inventory. The numbers show the engineering.
