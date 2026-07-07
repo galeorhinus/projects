@@ -16,7 +16,7 @@
 
 \bigskip
 
-Selected sonomers are now on the page. Construction is the next question: which sonomers combine into the first stable units that mean?
+The selected sonomers are now in place. Construction is the next question: which sonomers combine into the first stable units that mean?
 
 Sanskrit's answer is the **धातुः (*dhātuḥ*)**.
 

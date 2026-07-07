@@ -114,7 +114,7 @@ Tamil gives a major southern literary language. Toda gives a Nilgiri speech-fiel
 
 The result is 20 of 23.
 
-The figure is worth slow attention. The Sanskrit base sits on the page as a set of coordinates, not as a hidden statistical table. Tamil, Toda, and Kurukh light most of those coordinates. The result is visually simple: the southern field already reaches into the same mouth-zones Sanskrit later stabilizes as sonomers.
+The figure is worth slow attention. The Sanskrit base sits as a set of coordinates, not as a hidden statistical table. Tamil, Toda, and Kurukh light most of those coordinates. The result is visually simple: the southern field already reaches into the same mouth-zones Sanskrit later stabilizes as sonomers.
 
 The three unfilled cells are **ल**, **स**, and **श**. More than a raw percentage, that result shows what kind of gap remains.
 

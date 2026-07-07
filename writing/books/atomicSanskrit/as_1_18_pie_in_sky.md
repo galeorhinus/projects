@@ -121,7 +121,7 @@ The reconstruction bakers were only the first shift; a second took the reference
 
 Four words hang in every English-speaking wardrobe: *shirt*, *skirt*, *short* — and, for the abrupt, *curt*. The dictionary files all four in one family, and the family tree printed for them has become a small internet celebrity: a massive spreading tree, fifty-plus English words in its branches — *shear, share, score, shred, sharp, cortex, carnal, carnival* — and at its root, marked PIE, the claimed ancestor of them all: **\*(s)ker-**, "to cut." The tree is handsome, confident, and widely shared. No Sanskrit appears anywhere on it.
 
-![Figure 18.2 — \*(s)ker- — the Phantom of Cutting. The tree simplified to its own topology — their branches, their notation, nothing added: dashed = never spoken. No Sanskrit on the page.](figures/pie_in_sky/sker_pie_tree.svg){#fig:ch18-sker-phantom width=100%}
+![Figure 18.2 — \*(s)ker- — the Phantom of Cutting. The tree simplified to its own topology — their branches, their notation, nothing added: dashed = never spoken. No Sanskrit in the tree.](figures/pie_in_sky/sker_pie_tree.svg){#fig:ch18-sker-phantom width=100%}
 
 The notation at the base of that tree makes three confessions, printed in plain sight. The asterisk is the first: the form was never spoken, never heard, never written by anyone — it is a procedural average, the bake this chapter opened with. The parentheses around the *s* are the second. Some daughters hold the *s* (*shirt*, *score*, *shear*); others lack it (*curt*, *cortex*, and Latin's whole wing); and the reconstruction cannot say why. The discipline's term for this is the *s-mobile* — a consonant with no source, no rule, no conditioning environment, and no meaning, "mobile" because it comes and goes as the data demands.[NOTE: s-mobile-root-extension-confessions] The *t* is the third confession. *Curtus* and \*skurtaz have it; \*skeraną and *carō* do not; so the handbooks posit a "root extension" — \*(s)ker-t- beside \*(s)ker-, with sibling extensions in *-d-* and *-p-* for other awkward cousins — and concede, in their own pages, that the extensions hold no identifiable meaning and follow no rule. A phantom base, a floating consonant, a meaningless appendix. That is what the whole tree stands on.
 
@@ -163,9 +163,9 @@ Then the asterisk moved. Not into existence — Schleicher had the mark in 1868 
 
 Today the move is complete. Look up *king* now — Etymonline, the Oxford entries, the aggregators a reader actually consults — and the chain ends at **\*ǵenh₁-**, "to beget." *Janaka* survives as a cognate, one sibling in a list, several lines below the form nobody ever spoke.
 
-The recipe reruns wherever it is pointed — the same imaginary race, the same imaginary language, the same imaginary words. The birth-family is another such tree: \*ǵenh₁ "to give birth" spread over *nation*, *nature*, *gene*, *kind*, and *king*, with no Sanskrit on the page — while **⟪जन्⟫ (*jan*)** sits in the Dhātupāṭha holding both of the phantom's meanings, its words alive from *janma* to Bengali *jônmo*.[NOTE: jan-dhatupatha-double-entry]
+The recipe reruns wherever it is pointed — the same imaginary race, the same imaginary language, the same imaginary words. The birth-family is another such tree: \*ǵenh₁ "to give birth" spread over *nation*, *nature*, *gene*, *kind*, and *king*, with no Sanskrit in it — while **⟪जन्⟫ (*jan*)** sits in the Dhātupāṭha holding both of the phantom's meanings, its words alive from *janma* to Bengali *jônmo*.[NOTE: jan-dhatupatha-double-entry]
 
-![Figure 18.4 — \*ǵenh₁ — the Phantom of Birth. Another popular tree, trimmed the same way — their branches, their notation, nothing added: dashed = never spoken. No Sanskrit on the page.](figures/pie_in_sky/genh_pie_tree.svg){#fig:ch18-genh-phantom width=100%}
+![Figure 18.4 — \*ǵenh₁ — the Phantom of Birth. Another popular tree, trimmed the same way — their branches, their notation, nothing added: dashed = never spoken. No Sanskrit in the tree.](figures/pie_in_sky/genh_pie_tree.svg){#fig:ch18-genh-phantom width=100%}
 
 The Sanskrit side never needed the star, because the architecture is self-evident:
 
