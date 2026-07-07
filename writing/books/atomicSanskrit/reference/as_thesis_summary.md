@@ -43,7 +43,7 @@ The Eight Core Theses describe the movement of the argument. The Eclipse Ledger 
 
 2. **The Vedas are the primary calibration matrix.** The corpus preserves the architecture through recitation, meter, lineage, and correction. Dating the Vedas as old texts does not explain what they do. **Chapters 14 and 15.**
 
-3. **The family-tree metaphor is the foundational category theft of historical linguistics.** It fits natural languages that branch, drift, and decay; it fails on a language engineered against exactly that behavior. **Chapter 2.**
+3. **The family-tree metaphor is the foundational category theft of historical linguistics.** The discipline arranges the world's languages like a family tree — a parent branching into daughters that drift and mutate across generations. That picture fits a natural language; it fails on one engineered against that behavior. **Chapter 2.**
 
 4. **PIE is an imaginary language placed above a real one.** It is unattested in any speech community, inscription, recitation lineage, or text. The asterisk is the visible confession: a reconstructed form installed in the source slot. **Chapter 18.**
 

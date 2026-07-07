@@ -32,7 +32,7 @@
 
 1. **Sanskrit is wholly created.** Its own name, *saṃskṛtam*, places it in the category of completed order. The contrast with *prākṛta* draws the line between the wholly made and the naturally formed.
 
-2. **The family-tree metaphor fails on Sanskrit.** Trees grow, branch, mutate, and decay. That metaphor may suit natural languages, but it cannot explain a language designed to resist drift.
+2. **The family-tree metaphor fails on Sanskrit.** Historical linguistics arranges the world's languages like a family tree: a parent language branching into daughters that drift apart and change over generations. Trees grow, branch, mutate, and decay — a fair picture of a natural language, but not of one engineered to resist those forces.
 
 3. **The "Vedic Sanskrit" / "Classical Sanskrit" split is misleading.** The visible differences are real, but they do not prove two languages or a chronology of decay and repair.
 
