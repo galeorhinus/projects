@@ -85,7 +85,7 @@ The Eight Core Theses describe the movement of the argument. The Eclipse Ledger 
 
 19. **Once the *varṇamālā* exists, script becomes implementation.** The engineering lies in the ordered sound-grid. Writing gives that grid a visible interface, much as decimal notation gives place-value number a visible form. **Chapter 9; Appendix Part 3.**
 
-20. **Brāhmī and Devanāgarī are audiographic.** Their engineering renders articulated sound visible. The pyramid files such systems under *abugida* — a typology blind to the architecture. **Chapter 13; Appendix Part 3.**
+20. **Brāhmī and Devanāgarī are audiographic.** Their engineering renders articulated sound visible. The pyramid misfiles such systems under *abugida* — a typology blind to the architecture. Why it misfiles them, the book reveals. **Chapter 13; Appendix Part 3.**
 
 21. **Brāhmī's engineering cannot be borrowed from Aramaic.** Aramaic can explain neither the 5x5 place-and-manner matrix nor the vowel and breath architecture. Letter-shapes are not the achievement; the sound-grid is. **Appendix Part 3.**
 
