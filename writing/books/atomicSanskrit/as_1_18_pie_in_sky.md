@@ -37,6 +37,8 @@ The fictional-language projects openly invent. Schleicher claimed to have found 
 
 PIE is the conlang the conlangers' craft disowns.
 
+Hear the first syllable again. The honest conlanger's *con-* is *constructed* — printed on the label, admitted up front. Schleicher's is the other *con*: the confidence man's, the face worn over the work. Same three letters, opposite honesty. One builds a language and says so; the other builds one and swears he found it.
+
 ## 18.2 The Bookkeeping Defense
 
 The pyramid's defense retreats to bookkeeping. It says: yes, the forms are hypothetical; yes, nobody claims to have a recording of PIE; yes, the asterisk denotes reconstruction. The starred forms are only labels for systematic correspondences.
