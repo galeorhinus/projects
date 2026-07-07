@@ -20,7 +20,7 @@
 
 7. **The data now points back to Sanskrit.** Sound structure, word-formation, preservation, and contact evidence all need an explanation the family-tree account cannot give.
 
-8. **The book proposes new vocabulary where the pyramid's vocabulary misdirects.** Where an inherited label is too small for what it names, the book supplies a better one — held back until publication.
+8. **The book proposes new vocabulary where the pyramid's vocabulary misdirects.** Each label drags a foreign category onto an engineered object and hides what it is. The precise words are reserved for the book.
 
 9. **The reader inherits a responsibility.** Once the category is corrected, the reader takes up Sanskrit as a still-generative architecture and India's own inheritance — to learn, teach, and transmit.
 
