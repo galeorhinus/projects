@@ -50,57 +50,55 @@
 
 8. **Sanskrit begins with sound, not script.** The language's sound-system is ordered by the body: place, effort, voice, breath, nasality, and duration.
 
-9. **A written sign is downstream of the sound-system.** Once the sound-grid exists, script becomes a visual implementation of something already engineered.
+9. **Writing is secondary to the brilliance beneath it.** The foundation of Sanskrit's engineering is a sound-architecture, not a script; Brāhmī only renders it visible. That brilliance radiated outward, and where it reached, it left its mark. How far it reached — and into which scripts — is reserved for the book.
 
-10. **Brāhmī is the source, Aramaic the reflection.** The engineering is Indic — the ordered consonant grid, the vowel system, the breath distinctions — and it radiated outward. The pyramid runs the arrow backwards; how it truly points, the book demonstrates.
-
-11. **The pyramid misfiles Indic scripts under a foreign typology — "abugida" — blind to the architecture.** The achievement it hides is articulated sound made visible through a pre-existing sound order; the label sorts the visible marks but not the sound those marks render. Why the pyramid prefers that misfiling, and the name the architecture deserves, are reserved for the book.
+10. **The pyramid misfiles Indic scripts under a foreign typology — "abugida" — blind to the architecture.** The achievement it hides is articulated sound made visible through a pre-existing sound order; the label sorts the visible marks but not the sound those marks render. Why the pyramid prefers that misfiling, and the name the architecture deserves, are reserved for the book.
 
 ### Word Formation
 
-12. **The *dhātuḥ* is an atom, not a botanical organ.** It is a stable structural constituent, closer to an atom in an engineered system than to the root of a plant.
+11. **The *dhātuḥ* is an atom, not a botanical organ.** It is a stable structural constituent, closer to an atom in an engineered system than to the root of a plant.
 
-13. **Sanskrit builds words from smaller stable units without losing structure.** Sounds form constituents; constituents form words; words form sentences. The lower levels remain traceable inside the higher ones.
+12. **Sanskrit builds words from smaller stable units without losing structure.** Sounds form constituents; constituents form words; words form sentences. The lower levels remain traceable inside the higher ones.
 
-14. **The *Dhātupāṭha* is an operating inventory.** It holds semantic units that enter classes, accept additions, and generate usable language.
+13. **The *Dhātupāṭha* is an operating inventory.** It holds semantic units that enter classes, accept additions, and generate usable language.
 
-15. **"Root," "stem," "letter," and "word" smuggle the wrong categories into Sanskrit's word-building.** The book uses new terminology in their place.
+14. **"Root," "stem," "letter," and "word" smuggle the wrong categories into Sanskrit's word-building.** The book uses new terminology in their place.
 
 ### Preservation
 
-16. **Sanskrit identifies drift and resists it.** Patañjali's discussion of correct words and their fallings-away shows that drift was observed, marked, and answered by design.
+15. **Sanskrit identifies drift and resists it.** Patañjali's discussion of correct words and their fallings-away shows that drift was observed, marked, and answered by design.
 
-17. **Writing alone cannot explain Sanskrit's preservation.** Stone does not scale; paper decays; archives can be seized; offices can gate access. Sanskrit required a distributed preservation architecture.
+16. **Writing alone cannot explain Sanskrit's preservation.** Stone does not scale; paper decays; archives can be seized; offices can gate access. Sanskrit required a distributed preservation architecture.
 
-18. **The "oral tradition" label flattens a precise sound-preservation system into storytelling.** The book supplies vocabulary for the preservation modes English does not distinguish.
+17. **The "oral tradition" label flattens a precise sound-preservation system into storytelling.** The book supplies vocabulary for the preservation modes English does not distinguish.
 
-19. **Vedic recitation is empirical evidence.** The recitation systems are redundancy systems that preserve sound with precision.
+18. **Vedic recitation is empirical evidence.** The recitation systems are redundancy systems that preserve sound with precision.
 
-20. **The preservation system still runs.** Its strongest evidence is audible in recitation lineages today.
+19. **The preservation system still runs.** Its strongest evidence is audible in recitation lineages today.
 
 ### PIE, Arya, And Contact
 
-21. **PIE is not an etymon.** A reconstructed form may summarize similarities among real languages, but it cannot be the source of a real word unless it corresponds to a real spoken language.
+20. **PIE is not an etymon.** A reconstructed form may summarize similarities among real languages, but it cannot be the source of a real word unless it corresponds to a real spoken language.
 
-22. **The racial Arya thesis made Sanskrit external to India.** Changing the label from invasion to migration does not fix the deeper problem: movement is not authorship.
+21. **The racial Arya thesis made Sanskrit external to India.** Changing the label from invasion to migration does not fix the deeper problem: movement is not authorship.
 
-23. **"Invasion" and "migration" debates keep the reader arguing about movement.** The real question is authorship; the book supplies sharper vocabulary for the racial thesis and its residue.
+22. **"Invasion" and "migration" debates keep the reader arguing about movement.** The real question is authorship; the book supplies sharper vocabulary for the racial thesis and its residue.
 
-24. **"Indo-Aryan" is not a neutral label.** It preserves a racial-era category inside modern linguistic language.
+23. **"Indo-Aryan" is not a neutral label.** It preserves a racial-era category inside modern linguistic language.
 
-25. **Sanskritic influence does not require mass migration.** Trained specialists, teaching lineages, ritual contact, and long-duration intellectual exchange can move language features without moving whole populations.
+24. **Sanskritic influence does not require mass migration.** Trained specialists, teaching lineages, ritual contact, and long-duration intellectual exchange can move language features without moving whole populations.
 
-26. **Similarity does not automatically mean descent.** Shared forms can arise from contact, prestige, teaching, ritual exchange, and long-term influence, not only from ancestry.
+25. **Similarity does not automatically mean descent.** Shared forms can arise from contact, prestige, teaching, ritual exchange, and long-term influence, not only from ancestry.
 
-27. **English and other European languages preserve Sanskritic reflections.** Words such as *mother*, *king*, and related families call for re-examination that does not place an imaginary ancestor above Sanskrit. The book supplies vocabulary for the reflection without reducing it to ancestry.
+26. **English and other European languages preserve Sanskritic reflections.** Words such as *mother*, *king*, and related families call for re-examination that does not place an imaginary ancestor above Sanskrit. The book supplies vocabulary for the reflection without reducing it to ancestry.
 
 ### Recovery
 
-28. **Sanskrit is a preserved and still-generative architecture.** Its category has been obscured.
+27. **Sanskrit is a preserved and still-generative architecture.** Its category has been obscured.
 
-29. **India's civilizational responsibility remains central.** Sanskrit was preserved by a civilization, not by codification and not by authority. How Sanskrit holds without either is what the book demonstrates.
+28. **India's civilizational responsibility remains central.** Sanskrit was preserved by a civilization, not by codification and not by authority. How Sanskrit holds without either is what the book demonstrates.
 
-30. **The work now is recognition and transmission.** Once the category is corrected, the next task is to learn, teach, and preserve Sanskrit on its own terms.
+29. **The work now is recognition and transmission.** Once the category is corrected, the next task is to learn, teach, and preserve Sanskrit on its own terms.
 
 ---
 
