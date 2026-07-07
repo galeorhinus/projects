@@ -87,7 +87,7 @@ The Eight Core Theses describe the movement of the argument. The Eclipse Ledger 
 
 20. **Brāhmī and Devanāgarī are audiographic.** Their engineering renders articulated sound visible. The pyramid misfiles such systems under *abugida* — a typology blind to the architecture. Why it misfiles them, the book reveals. **Chapter 13; Appendix Part 3.**
 
-21. **Brāhmī's engineering cannot be borrowed from Aramaic.** Aramaic can explain neither the 5x5 place-and-manner matrix nor the vowel and breath architecture. Letter-shapes are not the achievement; the sound-grid is. **Appendix Part 3.**
+21. **Brāhmī is the source, Aramaic the reflection.** The engineering is Indic — the 5×5 place-and-manner matrix, the vowel and breath architecture — and it radiated outward. The pyramid runs the arrow backwards; the book demonstrates which way it points. **Appendix Part 3.**
 
 22. **Writing is not preservation by itself.** Stone can last but does not scale; paper scales but decays; archives can be seized; offices can gate access. Sanskrit's answer is calibration through active auditure, with writing assigned a bounded role. **Chapter 13; Chapter 14.**
 

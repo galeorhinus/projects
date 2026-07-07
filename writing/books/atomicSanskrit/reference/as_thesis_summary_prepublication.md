@@ -52,7 +52,7 @@
 
 9. **A written sign is downstream of the sound-system.** Once the sound-grid exists, script becomes a visual implementation of something already engineered.
 
-10. **Brāhmī's sound-architecture cannot be borrowed from Aramaic.** Aramaic cannot explain the ordered consonant grid, the vowel system, or the breath distinctions visible in Brāhmī and later Indic scripts. The letter-shapes may travel; the engineering cannot.
+10. **Brāhmī is the source, Aramaic the reflection.** The engineering is Indic — the ordered consonant grid, the vowel system, the breath distinctions — and it radiated outward. The pyramid runs the arrow backwards; how it truly points, the book demonstrates.
 
 11. **The pyramid misfiles Indic scripts under a foreign typology — "abugida" — blind to the architecture.** The achievement it hides is articulated sound made visible through a pre-existing sound order; the label sorts the visible marks but not the sound those marks render. Why the pyramid prefers that misfiling, and the name the architecture deserves, are reserved for the book.
 
