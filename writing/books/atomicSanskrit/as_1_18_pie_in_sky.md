@@ -155,7 +155,7 @@ Sanskrit needs no devices, because the atom sits at the center, listed and self-
 
 ## 18.6 Kin, Kind, King: the Dictionary Shift
 
-Open an English dictionary from before the bakers took the reference shelf, and the chain for *king* ends at a real word. James Donald's *Chambers's Etymological Dictionary* (1872) glosses it plainly:
+Open an English dictionary from before the bakers took the reference shelf, and the chain for *king* ends at a real word. James Donald's *Chambers's Etymological Dictionary* (1872) renders it plainly:
 
 > **King** … *lit. the father of a people* … [A.S. *cyning* — *cyn*, offspring; **Sans. *ganaka*, father — root *gan*, to beget**.][NOTE: chambers-1872-king-kin]
 
@@ -178,7 +178,7 @@ The Sanskrit side never needed the star, because the architecture is on the page
 
 One chain begins from a real *dhātuḥ* recorded in the Dhātupāṭha and unfolds by rule. The other begins from a form recorded nowhere.
 
-*King* carries the whole indictment. *The father of a people* — Chambers and Müller both glossed it so, from the Sanskrit begetter — once ran in the dictionaries beside a real, unstarred *janaka*. Later reference culture floated a starred ancestor above the entire family and moved the real Sanskrit into the cognate list. The begetter-word for the apex, the father of the people — and the machinery reconstructed an imaginary parent to stand even over that.
+*King* carries the whole indictment. *The father of a people* — Chambers and Müller both had it so, tracing it to the Sanskrit begetter — once ran in the dictionaries beside a real, unstarred *janaka*. Later reference culture floated a starred ancestor above the entire family and moved the real Sanskrit into the cognate list. The begetter-word for the apex, the father of the people — and the machinery reconstructed an imaginary parent to stand even over that.
 
 An imaginary people, speaking an imaginary language, built from imaginary words. The asterisk is the one visible confession — printed on the word, the language assembled from those words, the people posited to have spoken it. One mark, three fictions. The only real thing in the story is the Sanskrit it was reverse-engineered from.
 
