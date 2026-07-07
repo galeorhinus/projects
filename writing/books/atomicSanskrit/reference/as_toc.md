@@ -235,10 +235,11 @@
 - 18.2 The Bookkeeping Defense
 - 18.3 What PIE Cannot Explain
 - 18.4 The Cementing
-- 18.5 Mother, Yoke, and the Dictionary Shift
-- 18.6 *Pratibimba*
-- 18.7 PIE Is a Lie — *Asura*
-- 18.8 One *Dhātu*, Three PIEs
+- 18.5 The Recipe, Step by Step
+- 18.6 Kin, Kind, King: the Dictionary Shift
+- 18.7 *Pratibimba*
+- 18.8 PIE Is a Lie — *Asura*
+- 18.9 One *Dhātu*, Three PIEs
 
 ---
 

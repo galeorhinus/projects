@@ -4,116 +4,13 @@
 
 ---
 
-## The Seven Claims — the argument arc
-
-The book's *method* compresses into seven claims:
-
-1. **Sanskrit was engineered.**
-2. **The Vedas encoded the engineering.**
-3. **Pāṇini did not codify Sanskrit; he *decoded* its engineering.**
-4. **The pyramid misnamed that engineering.**
-5. **PIE concealed the architecture.**
-6. **The data now exposes it.**
-7. **The reader inherits the work of carrying the architecture forward.**
-
-## The Eclipse Ledger — the category map
-
-The book also runs on an *eclipse spine*: Sūrya (Sanskrit) is obscured by the asuric pyramid (Svarbhānu) and the imaginary ancestor PIE (Rāhu); the caretakers (Atris) recover the Sun. Each Part removes one shadow-plate and restores one solar quality.
-
-| The Sun — what Sanskrit is | The Eclipse — what the world is shown |
-|---|---|
-| **Wholly Created** | **Descended** (a PIE daughter) |
-| **Anti-entropic** | **Botanical** (a plant that drifts and decays) |
-| **Calibrated** | **Codified** (stabilized late by Pāṇini) |
-| **Sonomeric** | **Alphabetic** (*varṇa* flattened to "letter") |
-| **Audiographic** | **Abugida** (filed under a foreign typology) |
-| **Calibrant** | **Sibling Language** (one branch among many) |
-| **Vedic Matrix** | **Early Literature** (old texts to be dated) |
-
-**The two sevens are different compressions.** The Seven Claims are the *method* (engineered → encoded → decoded → misnamed → concealed → exposed → carried). The Eclipse Ledger is the *map* (the seven category-qualities restored). The twenty-two supporting claims below are organized by the **Sun each one restores**.
-
----
-
-## The Twenty-Two Supporting Claims, by the Sun they restore
-
-*Each supporting claim is developed in the chapter(s) indicated. Written for first-time readers — every book-internal term is glossed inline. A few claims serve two Suns; the cross-link is noted. Three claims (7, 8, 9) name the pyramid that casts the shadow; one (15) is the residual Racial-Arya plate; one (22) is the recovery. They sit outside the seven core plates by design.*
-
-### ☀ Wholly Created — *lifts the Descended plate*
-
-1. **Sanskrit is the only created language in the world. All others are evolved — what linguists call "natural" languages.** The civilization that produced Sanskrit named it ***saṃskṛtam*** (*consciously assembled* / *wholly created*) and distinguished it explicitly from natural languages, which it called ***prākṛtāni*** (*the natural*). The engineered-versus-natural distinction is Sanskrit's own self-description, carried continuously across thousands of years. **Chapter 0 §0.4; Chapter 2.**
-
-5. **The family-tree metaphor — languages as biological organisms that grow, branch, and decay — is the foundational category theft of historical linguistics.** Standard linguistics depicts the world's languages as a tree, each *descending* from earlier ones. August Schleicher introduced the metaphor in the 1860s. It works for natural languages, which do grow and decay; it fails on Sanskrit, deliberately engineered (Claim 1) to resist exactly that behavior. **Chapter 2.**
-
-10. **Proto-Indo-European (PIE) is an imaginary language built by a German linguist in the 1860s who had Sanskrit's complete grammatical engineering on his desk — and chose to ignore it.** PIE is unattested in any text, inscription, or tradition; it exists only as a starred form (*méh₂tēr) inside the apparatus that posits it. Schleicher had the *Aṣṭādhyāyī*, the *Dhātupāṭha*, the *Prātiśākhya* texts, and the *varṇamālā* assembled by two generations of Pune-Calcutta-Oxford-Göttingen exchange, and constructed an imaginary ancestor instead — because acknowledging Sanskrit as engineered would have placed the foundational engineering of language in India rather than the Near-East-to-Europe corridor. **Chapter 2 §2.6, Chapter 18 §18.1, and Appendix Part 5 §5.8.**
-
-### ☀ Anti-entropic — *lifts the Botanical plate*
-
-6. **Modern linguistics mistranslated Sanskrit's foundational structural unit.** In Sanskrit grammar ***dhātuḥ*** is the basic atomic unit — the constituent that holds its identity through bonding. The same word does the same work across metallurgy, alchemy/chemistry, biology/physiology, and grammar. European linguists forced ***dhātuḥ*** into a botanical category — importing the botanical-evolutionary frame (Claim 5) into a system built to resist it. **Chapter 2 §2.5; Chapter 10.**
-
-11. **Sanskrit's architecture is atomic and fractal, not biological: *varṇāḥ* are sonomers, *dhātavaḥ* are atoms, *śabdāḥ* are molecules, and the same engineering signature recurs across scale.** Standard linguistics inherits biological vocabulary from the family-tree model (Claim 5): words have plant-organs and stems; languages *branch* and *decay*. The right metaphor is engineering. The ***varṇāḥ*** function as sonomers; the ***dhātavaḥ*** as atoms that bond into ***śabda*** molecules; sentences as larger structures. The Fractal Corollary: the *dhātuḥ* displays at atomic scale the same *sūtra-lakṣaṇāni* an engineered *sūtra* displays at sentence scale. *(Cross-link: also grounds the Sonomeric Sun.)* **Chapter 10, with the botanical metaphor prosecuted in Chapters 2 and 6.**
-
-13. **Sanskrit displays a signature natural drift does not produce: its highest-productivity atoms are structurally minimal *and* paradigmatically regular.** In natural languages, high-frequency forms become idiosyncratically irregular (English *be/have/do*; Latin *esse/ire/ferre*; Greek *eimi/oida/phēmi*) — one of the most-replicated findings in morphology. Sanskrit's most-productive *dhātus* (*kṛ, bhū, gam, sthā, dā, dhā, jñā, hṛ, nī*) are *also* minimal (CV/CVC) *and* regular. Two independent measures confirm the inverse productivity-vs-size signature: Path A (Spearman ρ = −0.485) and Path C (ρ = −0.490 / −0.4334 corpus-wide). Both axes engineered at once — a signature drift does not produce. **Chapter 10 §§10.7–10.11; Appendix Part 6; Source and Reference Companion (`analysis/ganah/`).**
-
-### ☀ Calibrated — *lifts the Codified plate*
-
-2. **Pāṇini did not codify Sanskrit. He did the EXACT opposite — he decoded it.** Sanskrit was engineered; the Vedas encode it; many decoded what the Vedas encode — Yaska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, the pre-Pāṇinian *vaiyākaraṇa* roster, the *Prātiśākhya* and *Śikṣā* disciplines. Pāṇini's decoding is the finest. *(Book refrain: **Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.**)* The pyramid's *"codified"* concedes engineering while crediting one late figure with it. Sanskrit's own word for the activity is ***vyākaraṇam*** — *unfolding apart*, de-composition — the precise opposite of composition; the role-title ***vaiyākaraṇaḥ*** names the decoder-documenter, never *architect* or *engineer*. *Codify* and *decode* run in opposite structural directions. **Chapter 2 §2.1 (the strategic move on the vocabulary) and §2.6 (heroic erasure); Chapter 5 (the *siddha* axiom); Chapters 13 §13.3 and 14 §14.7 (heroic erasure at script and matrix scale).**
-
-3. **Vedic and Classical Sanskrit are not two languages. Sanskrit is one engineered system across two domains and two modes: *vaidika*/*laukika* and *chandas*/*bhāṣā*.** ***Vaidika*** and ***laukika*** name two concurrent civilizational fields; ***chandas*** and ***bhāṣā*** name two grammatical modes Pāṇini marks throughout the *Aṣṭādhyāyī* (*chandasi* / *bhāṣāyām*). These are mode markers, not temporal markers. The dogma collapses the two-axis architecture into one chronology and makes Pāṇini the rupture-point. *Domain is not chronology. Mode is not drift. Pāṇini witnesses both.* **Preface (terminology note); Chapter 2 §2.6 (empirical refutation); Chapter 6 §6.7 (calibrant envelope); Chapter 13 §13.3; Chapter 14 §14.7; Appendix Part 7.**
-
-4. **The engineering recognition is not new. The Sanskrit-literate continuum operated on the engineering thesis continuously for thousands of years.** Five analytical disciplines — ***vyākaraṇam***, ***nirukta***, ***chandas***, ***śikṣā***, and ***Mīmāṃsā*** — are five **decoding disciplines**, each decoding a layer of what the Vedas encode. The pre-Pāṇinian witnesses are explicit: Yaska's *Nirukta* cites Sthaulāṣṭhīvi and Śakapūṇi; Śākalya's *padapāṭha*, the four *Prātiśākhya* texts, and the *vaiyākaraṇa* roster Pāṇini himself names (Āpiśali, Kāśyapa, Gārgya, Gālava, …) all presuppose discrete, composable engineered units. The pyramid's account of Sanskrit as a naturally drifting language is the historical anomaly. **Chapter 10 §10.13; the four-term stack lands as a table in Chapter 2 §2.1.**
-
-### ☀ Sonomeric — *lifts the Alphabetic plate*
-
-12. **The *Dhātupāṭha* is Sanskrit's table of reactive atoms — an operating inventory Pāṇini decoded.** If *dhātus* are atoms, they arrange by reactivity. The 2,168 measured atoms enter ten ***gaṇāḥ*** and bond via *upasargāḥ* and *pratyayāḥ* into verbal molecules. By corpus-attested valency (Path C, Digital Corpus of Sanskrit) they fall in three tiers: polyvalent (147 atoms, 3.8%, generating 67.6% of verb-token occurrences), bivalent, and monovalent. The reference core (*kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ*) generates 26.5% of the record from 0.2% of the inventory and is invariant across the *śruti*/*smṛti* split. Mendeleev's periodic table is 1869; Sanskrit's operating table has run for thousands of years. *(The sonomeric grid itself is restored in Chapter 9 §9.9 — varṇa is not a letter; see Claim 11.)* **Chapter 11; Appendix Part 6; Source and Reference Companion (`analysis/ganah/`).**
-
-### ☀ Audiographic — *lifts the Abugida plate*
-
-16. **Brāhmī, like Devanāgarī, is audiographic: the engineered Sanskrit sound-system rendered visible, not a script derived from outside India.** Standard scholarship calls Brāhmī "brilliantly adapted" from Aramaic. Its 5×5 consonant matrix by place and manner, its vowel-diacritic system, and its breath-gesture marks have no source in Aramaic, a consonant-only alphabet with no phonetic-engineering content. The encoding could not be borrowed from a source that does not contain it. *Letter-shapes are the digits; the varṇamālā is the place-value* — calling an audiographic system an "abugida" is the reduction that would file the decimal place-value system under "numeral notation." **Chapter 13 §13.3 and Appendix Part 3.**
-
-17. **The book coins five English terms for engineering categories the academy has not named; each has a Sanskrit counterpart in continuous use.**
-    - ***Auditure*** (*audīre* + *-tūra*) — sound preserved through speech-hearing without writing; Sanskrit ***śruti***. **The Vedas are not Scripture; they are Auditure.** *(Cross-link: Vedic Matrix.)* Chapters 14–15.
-    - ***Mnemoniture*** (*mnēmē* + *-tūra*) — content preserved through memory and retelling; Sanskrit ***smṛti***. Chapter 14.
-    - ***Flexture*** (*flexus* + *-tūra*) — content preserved through choreographed gesture (the classical dance lineages); Sanskrit ***mudrā*** / ***nāṭyaśāstra***. Chapter 14.
-    - ***Audiography*** (*audi-* + *-graphia*, parallel to *photography*) — articulated sound rendered as engineered glyph; Sanskrit ***akṣara*** (*the imperishable*). **Photography (1839) captures decaying light; audiography captures sound into a unit whose name asserts non-decay, and is thousands of years older.** Chapter 9 §9.6, Appendix Part 3.
-    - ***Vivimorphosis*** (*vivi-* + *morphosis*) — an engineered Sanskrit word coming alive as an organic word in a receiving language, after passing through the listener as a seed (***bīja***); loss-side Sanskrit term ***apabhraṃśa***. *(Cross-link: Calibrant.)* Chapter 12 §12.9, Chapter 18 §18.7.
-
-### ☀ Calibrant — *lifts the Sibling-Language plate*
-
-20. **English *mother* descends from Sanskrit *mātṛ*. There is no separate ancestor between them.** Dictionaries trace *mother*, *mātṛ*, *mētēr*, *māter*, *Mutter* back to a reconstructed *méh₂tēr (PIE). The relationship runs the other way: *mātṛ* is the engineered source; the others are reflections. Sanskrit names it ***pratibimba*** (*reflection*). What linguistics assembled into an imaginary ancestor is the *average of the reflections*, mistaken for a source. **Chapters 17 and 18.**
-
-21. **Sanskrit is not a descendant of any earlier language. It is the engineered calibration language that led to the Indo-European family.** Standard linguistics makes Sanskrit one daughter of PIE, sibling to the rest. The relationship is the opposite: Sanskrit was the engineered calibration reference. Every formal grammar the academy treats as foundational — Greek (Dionysius Thrax), Latin (Priscian), Tibetan (*Sum cu pa*), Arabic (Sibawayh), Hebrew (the medieval grammarians) — is methodologically downstream of Pāṇini's *Aṣṭādhyāyī*. The book calls this *Wave 2*. *(Cross-link: Wholly Created.)* **Chapter 19.**
-
-14. **Sanskrit's grammatical apparatus is a language factory, not just a word factory.** Most languages have rules for new words; Sanskrit's apparatus produces working *languages*. Its components (*dhātus*, *pratyayas*, *vibhaktis*, *sandhi*, paradigms) form a meta-system that, applied to any phoneme inventory through a fixed cipher, generates a language with Sanskrit's generative reach. Appendix Part 5 demonstrates this by construction: a Japanese-substrate language, ***Yenpro*** (from *yantrī*, *the engine*), grammatically Sanskrit and phonologically Japanese. **Appendix Part 5.**
-
-### ☀ Vedic Matrix — *lifts the Early-Literature plate*
-
-18. **The *Vedas* function as a calibration matrix — a mathematically locked acoustic corpus that encodes the rules of Sanskrit and continuously checks usage against the specification.** Six engineered layers operate concurrently at six timescales: the *Vedas*, the ***Prātiśākhya*** literature, ***Vyākaraṇam***, the ***Dhātupāṭha***, the ***varṇamālā***, and ***chandas***; the ***Śikṣā*** discipline trains each generation across all six. Meter functions like a cryptographic hash: any drift shifts the acoustic fingerprint and is caught. Preservation across thousands of years is engineered redundancy, not cultural conservatism. **Chapter 14, with the problem set up in Chapter 13.**
-
-19. **The Vedic recitation lineages are the empirical demonstration — running today, in real time — that the engineering still works.** The corpus is recited in engineered patterns — ***saṃhitā***, ***pada***, ***krama***, ***jaṭā***, ***ghana*** — each mathematically derivable from the others, so any drift in one would mismatch the rest. Across geographically separated *pāṭhaśālā* (Nambūdiri, Maharashtra, Tamil, Kashmir, Banaras, Karnataka, Gujarat), phonetic precision has held without observable drift. The academy reads this as *traditional* — its word for engineering it cannot afford to see. **Chapter 15.**
-
-### The frame — the pyramid, the residual, the recovery
-
-*The pyramid that casts the shadow (why):*
-
-7. **The Western academic establishment has ensured the idea that Sanskrit is engineered cannot even be formed.** Historical linguistics, Indo-European philology, and Indology operate within frameworks that pre-emptively rule out the engineered hypothesis. The defense is structural, not argued — the disciplines assume its impossibility as a precondition. **Chapter 3.**
-
-8. **Linear-progress teleology — the doctrine that the present is always more advanced than the past — is what makes the engineered-Sanskrit thesis structurally unacceptable to the academy.** The book calls it the ***progressive dogma***. The racial Arya thesis has weakened and the Biblical chronology has been retired; the progress doctrine has not. An ancient civilization with unsurpassed architectural sophistication forces the arrow to run the wrong way. **Chapter 3.**
-
-9. **Secular progressivism is the fourth Abrahamic religion.** Judaism named the lineage, Christianity reformed it, Islam reformed it again; progressivism secularized it — one privileged lineage, one direction of progress, one doctrine-set, one institutional apparatus. The post-"Enlightenment" academy is the ***church of progress***, operating through ***missionaries***, ***jihadis***, and ***priests of progress***. The polemic resolves into a contest of architectures: ***Sanātan*** vs. the fourth Abrahamic religion. **Chapter 4, deployed across Chapters 3, 18, 19, and the Epilogue.**
-
-*The residual plate (left for later Atris):*
-
-15. **The Sanskrit word *ārya* names a phonetic engineering achievement, not a race.** The retroflex consonants (ṭa, ṭha, ḍa, ḍha, ṇa), produced by curling the tongue tip to the palate, are the operational test of ***āryatva***; the trained body is *ārya*. Standard textbooks still carry the racial Arya thesis. On Sanskrit's own classification, Central-Asian migrants unable to produce the retroflexes would be the *opposite* of *ārya* — and could not have authored a language whose specification requires sounds they could not make. **Chapter 16.**
-
-*The recovery (the Atris):*
-
-22. **The Indic civilization's re-emergence depends on the diaspora's re-learning of Sanskrit. The work begins with the reader.** Indic peoples have spread for centuries — the Romani into Europe, the modern global diaspora across the Caribbean, Indian Ocean, Pacific, Africa, and the West (the ***Diasporic Wave***). What is needed now is ***Wave 3*** — relearning Sanskrit on the *paramparā*'s own terms, reconstituting ***āryatva***. The book is a Wave 3 instrument; reading it positions the reader to participate. The Rigvedic call ***kṛṇvanto viśvam āryam*** is conditional on the speaker being *ārya* — and so on the reader. **Chapter 19 and the Epilogue.**
+The thesis summary has moved to `reference/as_thesis_summary.md`. This file now stays focused on chapter order and summaries.
 
 ---
 
 ## Front Matter
 
-**Preface — The Eclipse** *(drafted)* — *Opens on the Ṛgveda 5.40.5 eclipse: Svarbhānu (the asuric pyramid) pierces Sūrya (Sanskrit) with darkness, and the world goes field-blind. Names the eclipse cast (Sūrya / Svarbhānu / Rāhu = PIE), lays out the seven shadows as a compressed prose ledger, and states the stance: category before calendar; the task is to clear the shadow, not to plead a case. Carries the personal hook (the boy's sandhi correction) and the chronology stance.*
+**Preface — The Eclipse** *(drafted)* — *Opens on the Ṛgveda 5.40.5 eclipse: Svarbhānu (the asuric pyramid) pierces Sūrya (Sanskrit) with darkness, and the world goes field-blind. Names the eclipse cast (Sūrya / Svarbhānu / Rāhu = PIE), lays out the seven shadows as a compressed prose ledger, and states the stance: category before calendar; the task is to clear the shadow, not to plead a case. Includes the personal hook (the boy's sandhi correction) and the chronology stance.*
 
 - What Was Eclipsed — *The claim in brief: the language bears the word* saṃskṛtam; *the* paramparā *received and documented it; the architecture is on the page and in the mouth, treated as anything but obvious only because the field around it was darkened.*
 - The Boy's Question — *The author's childhood encounter with* sandhi *while reciting* Bhagavad Gītā *1.2 — calibration in the mouth — that set the engineering thesis in motion.*
@@ -130,7 +27,7 @@ The book also runs on an *eclipse spine*: Sūrya (Sanskrit) is obscured by the a
 
 ---
 
-**Chapter 0 — Zero, Seekers, and the Infinite** *(drafted)* — *The setup chapter. Establishes Sanskrit's character before the polemic. Opens with the* Īśopaniṣad *pūrṇam puzzle — zero, infinity, wholeness — then the culture-of-seekers origin, the reader's existing Sanskrit, the language's self-naming (*saṃskṛtam* / *prākṛtāni*), the generative word- and number-spaces, and the living* guru-shishya paramparā. *Presents the features the rest of the book treats as engineering; the seekers are the light-keepers. Hands to Chapter 1.*
+**Chapter 0 — Zero, Seekers, and the Infinite** *(drafted)* — *The setup chapter. Establishes Sanskrit's character before the argument turns toward the pyramid. Opens with the* Īśopaniṣad *pūrṇam puzzle — zero, infinity, wholeness — then the culture-of-seekers origin, the reader's existing Sanskrit, the language's self-naming (*saṃskṛtam* / *prākṛtāni*), the generative word- and number-spaces, and the living* guru-shishya paramparā. *Presents the features the rest of the book treats as engineering; the seekers are the light-keepers. Hands to Chapter 1.*
 
 - 0.1 The Puzzle of the Whole — *The* Īśopaniṣad *invocation as a puzzle whose answer can be zero or infinity; the verse's own word is* pūrṇam, *the whole.*
 - 0.2 A Culture of Seekers — *The civilization that engineered Sanskrit also built zero, place-value, Ayurveda, Nyāya, Sāṃkhya, and the* darśanas; *language and number fell out of the same inquiry-driven culture.*
@@ -155,14 +52,14 @@ The book also runs on an *eclipse spine*: Sūrya (Sanskrit) is obscured by the a
 
 *How the shadow is cast: the false categories (descended, botanical, codified), the motive behind them, and the formation that operates the machinery.*
 
-**Chapter 2 — Category Theft and Āsurī Māyā** — *Names the foundational category theft. Sanskrit belongs to the* saṃskṛti *category; the dogma splits it into natural drift before Pāṇini and codification after. Exposes the botanical metaphor, the* dhātuḥ *mistranslation, and the Pāṇini-as-codifier move as one theft, and names the engineered / encoded / decoded / codified stack.*
+**Chapter 2 — Category Theft and Āsurī Māyā** — *Names the foundational category theft. Sanskrit belongs to the* saṃskṛti *category; the dogma splits it into natural drift before Pāṇini and codification after. Exposes the botanical metaphor, the* dhātuḥ *mistranslation, and the Pāṇini-as-"codifier" move as one theft, and names the engineered / encoded / decoded / codified stack.*
 
 - 2.1 The Category Move — *The indictment: a created, calibrated architecture forced first into a botanical tree and then into a codified standard; the four-term stack table.*
 - 2.2 The Metaphor Underneath — *The family-tree metaphor that makes languages look botanical by default: plant-organs, branches, daughters, descent, drift, decay.*
 - 2.3 Where Botany Works — *Botany works for natural languages that grow through use; Sanskrit must be tested against a different category.*
 - 2.4 *Saṃskṛti* Made to Look Like *Prakṛti* — *The category theft proper: a created order forced into the natural-growth frame.*
 - 2.5 *Dhātuḥ* Is an Atom — *How nineteenth-century philology forced* dhātuḥ *into a botanical category, turning a cross-domain term for structural constant into a plant-organ; the displacement restored.*
-- 2.6 Decoding, Not Codification — *Pāṇini decoded an existing architecture; heroic erasure praises him as codifier to make the prior architecture disappear.*
+- 2.6 Decoding, Not Codification — *Pāṇini decoded an existing architecture; heroic erasure praises him as the supposed codifier to make the prior architecture disappear.*
 - 2.7 The Theft Made Visible — *The close: the botanical metaphor is not harmless description; it is the category move that makes Sanskrit downstream.*
 
 **Chapter 3 — Motive and Method** — *Asks why the botanical metaphor has not gone. Lethargy and hegemony helped establish it; only strategic necessity accounts for its persistence. Surveys the three pillars the metaphor defends — custody (racial), enclosure (theological), ascent (progress) — and names containment as the method.*
@@ -274,7 +171,7 @@ The book also runs on an *eclipse spine*: Sūrya (Sanskrit) is obscured by the a
 
 *The engineered preservation system that has held Sanskrit acoustically stable across thousands of years: the problem, the calibration matrix, and the aural architecture in operation.*
 
-**Chapter 13 — Why Preservation Needs Engineering** *(drafted)* — *Sets up anti-entropy as the central engineering problem.* Apabhraṃśa *is the default trajectory; the architecture had to design against it. Writing (*lipi*) is disqualified for the* sāṃskṛtika *bucket on perishable-medium grounds; the Abrahamic Scripture choice is contrasted as the institutional-control lever the Indic engineering refused. Carries the Brāhmī-from-Aramaic refutation (abugida names the surface; audiography names the engineering) and corrects* oral tradition *into* aural.
+**Chapter 13 — Why Preservation Needs Engineering** *(drafted)* — *Sets up anti-entropy as the central engineering problem.* Apabhraṃśa *is the default trajectory; the architecture had to design against it. Writing (*lipi*) is disqualified for the* sāṃskṛtika *bucket on perishable-medium grounds; the Abrahamic Scripture choice is contrasted as the institutional-control lever the Indic engineering refused. Includes the Brāhmī-from-Aramaic refutation (abugida names the surface; audiography names the engineering) and corrects* oral tradition *into* aural.
 
 - 13.1 What Sanskrit Has to Hold — *Apabhraṃśa *as the default the engineering had to design against; the three-chapter handoff.*
 - 13.2 *Prākṛta*, *Saṃskṛta*, *Sanātan* — *The two-bucket organization: flowing-allowed vs. held-against-drift; the engineering precondition.*
@@ -307,7 +204,7 @@ The book also runs on an *eclipse spine*: Sūrya (Sanskrit) is obscured by the a
 
 *The eclipse-device itself — Rāhu, the imaginary ancestor placed over the Sun — comes into view, and the plates that make Sanskrit answer to it are lifted: the subcontinental mouth-and-mind evidence, the wrong question, and the dispelling of PIE.*
 
-**Chapter 16 — The Subcontinental Mouth and Mind** — *Establishes that Sanskrit carries the subcontinent's mouth and mind before the portability thesis is tested: retroflex articulation, reduplication, receiver grammar, doer-demotion, and folded action. The chapter then makes the migration account walk its own claimed northwest route.*
+**Chapter 16 — The Subcontinental Mouth and Mind** — *Establishes that Sanskrit holds the subcontinent's mouth and mind before the portability thesis is tested: retroflex articulation, reduplication, receiver grammar, doer-demotion, and folded action. The chapter then makes the migration account walk its own claimed northwest route.*
 
 - 16.1 The Mouth: *Mūrdhanya* — *The curled tongue, the Veda's first word, and the subcontinental sound-field.*
 - 16.2 The Mouth Doubles: Reduplication — *Repetition as field habit, then as Sanskrit architecture.*
@@ -316,8 +213,8 @@ The book also runs on an *eclipse spine*: Sūrya (Sanskrit) is obscured by the a
 - 16.5 The Mind Sequences: The Folded Action — *Prior action compressed into forms such as pītvā and hatvā.*
 - 16.6 One Field, Encoded — *The five features gathered as one subcontinental field.*
 - 16.7 The Notices — *The pyramid's changing Aryan notices mocked by their retained custody tag.*
-- 16.8 The Borrowing Model Cannot Hold — *The claimed route is made to answer for the cluster Sanskrit carries structurally.*
-- 16.9 The Corpus Cannot Be Rewritten — *The Vedic corpus already carries the field; style and mode are not chronology.*
+- 16.8 The Borrowing Model Cannot Hold — *The claimed route is made to answer for the cluster Sanskrit holds structurally.*
+- 16.9 The Corpus Cannot Be Rewritten — *The Vedic corpus already preserves the field; style and mode are not chronology.*
 - 16.10 Engineering, Not Contact — *Contact can move forms; engineering assigns place, role, and scale.*
 - 16.11 What the Grammar Keeps — *The grammar preserves a stance that refuses to crown the ego.*
 
@@ -332,16 +229,17 @@ The book also runs on an *eclipse spine*: Sūrya (Sanskrit) is obscured by the a
 - 17.7 An Honest Speculation for the Rationalist Mind — *The calibrated alternative for the mind that cannot accept* apauruṣeya.
 - 17.8 Pāṇini Praised, Architecture Erased — *The heroic-erasure close: Pāṇini's greatness granted, then reclassified as decoding.*
 
-**Chapter 18 — PIE in the Sky** — *The case against PIE. The bookkeeping defense rejected; the non-existent etymon; the* Pratibimba *move (what philology assembled is the average of the reflections).* PIE is in the sky. The architecture is on the ground.*
+**Chapter 18 — PIE in the Sky** — *The case against PIE. The bookkeeping defense is rejected; the asterisk is denied ancestor-status; the recipe is shown through* kṛt, jan, asura, *and* dṛś. *PIE is in the sky. The architecture is on the ground.*
 
 - 18.1 Schleicher's Bake — *Opening anecdote; the asterisk convention; the conlang comparison (Quenya, Klingon).*
 - 18.2 The Bookkeeping Defense — *Why methodological openness cannot save the construct.*
 - 18.3 What PIE Cannot Explain — *Engineered-architecture features the PIE framework cannot accommodate.*
 - 18.4 The Cementing — *Third-pillar diagnosis; recent-decades cementing in routine reference.*
-- 18.5 Mother, Yoke, and the Dictionary Shift — *MW10 Sanskrit-at-terminus evidence;* yoke *as the deflection-proof anchor.*
-- 18.6 *Pratibimba* — *Vivimorphosis *chains as arrow blockquotes; the calibrant /* Pratibimba *triad.*
-- 18.7 PIE Is a Lie — *Asura* — Asuraḥ *worked example with the* PIE is a Lie *escalation.*
-- 18.8 One *Dhātu*, Three PIEs — *The cluster argument: the* dṛś *dhātu generates a family the machinery splits across three reconstructed PIE ancestor-forms.*
+- 18.5 The Recipe, Step by Step — *The* kṛt / \*(s)ker- *case: mobile* s, *meaningless extension, zero-grade device, and the Sanskrit atom at the center.*
+- 18.6 Kin, Kind, King: the Dictionary Shift — *The* jan / \*ǵenh₁ *case: the star moves into the source slot and Sanskrit is demoted into the cognate list.*
+- 18.7 *Pratibimba* — *Vivimorphosis chains as arrow blockquotes; the calibrant /* Pratibimba *triad.*
+- 18.8 PIE Is a Lie — *Asura* — Asuraḥ *worked example with the* PIE is a Lie *escalation.*
+- 18.9 One *Dhātu*, Three PIEs — *The cluster argument: the* dṛś *dhātu generates a family the machinery splits across three reconstructed PIE ancestor-forms.*
 
 ---
 
@@ -350,7 +248,7 @@ The book also runs on an *eclipse spine*: Sūrya (Sanskrit) is obscured by the a
 
 *With Rāhu dispelled, the Sun stands clear and explanation begins: the waves of Sanskrit's calibrant operation across the world, leading to the contemporary phase conditional on the diaspora's re-learning of* āryatva.
 
-**Chapter 19 — Life After PIE** — *Four waves: Wave 1 (pre-Pāṇinian propagation; the Saptaṛṣi roster; the Mitanni anchor); Wave 2 (post-Pāṇinian propagation of formal grammar — Pāṇini reclassified from codifier to decoder, with world grammatical traditions downstream); the Diasporic Wave (Romani and the modern global diaspora); Wave 3 (the contemporary phase, conditional on the diaspora's re-learning of* āryatva*).*
+**Chapter 19 — Life After PIE** — *Four waves: Wave 1 (pre-Pāṇinian propagation; the Saptaṛṣi roster; the Mitanni anchor); Wave 2 (post-Pāṇinian propagation of formal grammar — Pāṇini restored as decoder, with world grammatical disciplines downstream); the Diasporic Wave (Romani and the modern global diaspora); Wave 3 (the contemporary phase, conditional on the diaspora's re-learning of* āryatva*).*
 
 - 19.1 Wave 1 — Pre-Pāṇinian Propagation — *The Saptaṛṣi roster, the Mitanni anchor, the deep-time outward propagation before formal documentation.*
 - 19.2 Wave 2 — Methodological *Metatypy* — *Pāṇini's greatness restored to the right category: portable decoding of grammar-method; every world grammatical tradition methodologically downstream.*
@@ -361,7 +259,7 @@ The book also runs on an *eclipse spine*: Sūrya (Sanskrit) is obscured by the a
 
 ## Epilogue — Make the World Ārya
 
-**Epilogue — Make the World Ārya** *(drafted)* — *The recovery close. The eclipse is over: Svarbhānu's darkness did not win; the Atris found the Sun. The shadow is cleared plate by plate and Rāhu is dispelled; the dharmic frame (karma,* prāyaścitta*) replaces revenge. Names the three residual shadows that remain — institutional custody, public-knowledge lag, and civilizational self-doubt — as the work of the other Atris, then lands the Rigvedic* kṛṇvanto viśvam āryam | apaghnanto arāvṇaḥ *and the Vāk blessing. The reader carries the cry.*
+**Epilogue — Make the World Ārya** *(drafted)* — *The recovery close. The eclipse is over: Svarbhānu's darkness did not win; the Atris found the Sun. The shadow is cleared plate by plate and Rāhu is dispelled; the dharmic frame (karma,* prāyaścitta*) replaces revenge. Names the three residual shadows that remain — institutional custody, public-knowledge lag, and civilizational self-doubt — as the work of the other Atris, then lands the Rigvedic* kṛṇvanto viśvam āryam | apaghnanto arāvṇaḥ *and the Vāk blessing. The reader now receives the cry.*
 
 - The Eclipse Is Over — *The wound-line from the Preface returns with the other half supplied: the Atris found the Sun.*
 - What Recognition Makes Possible — *What becomes visible once Sanskrit is no longer forced to answer as a daughter of PIE.*
@@ -370,7 +268,7 @@ The book also runs on an *eclipse spine*: Sūrya (Sanskrit) is obscured by the a
 - The Chronology Refusal — *Category before calendar, echoed at the close without turning chronology into deferred combat.*
 - The Invitation — *The outward turn: inviting the world once the carriers have relearned.*
 - The Inward Correction — *India must not build smaller pyramids inside itself; preserve Sanskrit as calibrant, let the* bhāṣās *flourish. The three residual shadows named as the Atris' work.*
-- The Mantra — *Wave 3 and the reader-as-Atri; the Vāk blessing;* the Sun has been found; the reader now carries the cry.
+- The Mantra — *Wave 3 and the reader-as-Atri; the Vāk blessing;* the Sun has been found; the reader now receives the cry.
 
 ---
 
@@ -384,7 +282,7 @@ The book also runs on an *eclipse spine*: Sūrya (Sanskrit) is obscured by the a
 
 - 1.1 The Conversion-Extraction Nexus · 1.2 The Pipeline · 1.3 The Pundits and the Priests · 1.4 The German Bake · 1.5 Recipe After Recipe — The Dhātu Cluster Evidence · 1.6 The Verdict — Continuity Across Independence
 
-**Appendix Part 2 — The Encyclopaedic Confirmation** *(drafted; analogous to ORL's* Chapter Zero) — *Institutional polemic against the* Encyclopaedic Dictionary of Sanskrit on Historical Principles *(Deccan College, Pune, 1948–present). Indicts the post-independence choice to rubber-stamp the OED's* historical-principles *methodology and deny Sanskrit the engineered-preservation framing the same tradition applied to Hebrew. Closes on the invitation: only the framework has to change.*
+**Appendix Part 2 — The Encyclopaedic Confirmation** *(drafted; analogous to ORL's* Chapter Zero) — *Institutional indictment of the* Encyclopaedic Dictionary of Sanskrit on Historical Principles *(Deccan College, Pune, 1948–present). Indicts the post-independence choice to rubber-stamp the OED's* historical-principles *methodology and deny Sanskrit the engineered-preservation framing the same discipline applied to Hebrew. Closes on the invitation: only the framework has to change.*
 
 - 2.1 The Fleet · 2.2 A Choice, Not an Inheritance · 2.3 The Project and Its Method · 2.4 The Double Standard · 2.5 Three Layers of Variation · 2.6 The English Contrast · 2.7 What the Project Cannot Show · 2.8 The Reframe · 2.9 जाड्यम् अपहन्यताम् (*Jāḍyam Apahanyatām*) — Let the *Jāḍya* Be Removed
 
@@ -404,7 +302,7 @@ The book also runs on an *eclipse spine*: Sūrya (Sanskrit) is obscured by the a
 
 - 6.1 The Structural Baseline · 6.2 Eight Engineering Principles · 6.3 The Productivity Test · 6.4 Why The Numbers Matter · 6.5 Replication
 
-**Appendix Part 7 — The Vedic Carrier** *(drafted)* — *Demonstrates the corpus-before-manual claim: the Vedic corpus already carries the architecture later disciplines decode. Separates meter, mode, branch, and recension from decay; shows what natural drift would look like; closes that the matrix succeeds because the corpus form preserves the grammar before any manual names it.*
+**Appendix Part 7 — The Vedic Carrier** *(drafted)* — *Demonstrates the corpus-before-manual claim: the Vedic corpus already preserves the architecture later disciplines decode. Separates meter, mode, branch, and recension from decay; shows what natural drift would look like; closes that the matrix succeeds because the corpus form preserves the grammar before any manual names it.*
 
 - 7.1 Corpus Before Manual · 7.2 Three Verses — The Implicit Grammar in Operation · 7.3 The *Dhātu* Inventory in the Corpus · 7.4 The Overreach Called Evolution · 7.5 Meter, Not Loss · 7.6 What Natural Drift Looks Like · 7.7 The Matrix Succeeds
 
@@ -412,7 +310,7 @@ The book also runs on an *eclipse spine*: Sūrya (Sanskrit) is obscured by the a
 
 - 8.1–8.18 (eighteen sections), closing on the Verdict.
 
-**Appendix Part 9 — Glossary** *(drafted)* — *Reference for the book's technical vocabulary in three groups: (1) **engineering core vocabulary** (the chemistry stack, with coined compounds flagged); (2) **technical Sanskrit vocabulary**; (3) **polemic vocabulary** (the cluster terms). Each entry marks the term as standard, coined, or repurposed.*
+**Appendix Part 9 — Glossary** *(drafted)* — *Reference for the book's technical vocabulary in three groups: (1) **engineering core vocabulary** (the chemistry stack, with coined compounds flagged); (2) **technical Sanskrit vocabulary**; (3) **diagnostic vocabulary** (the cluster terms). Each entry marks the term as standard, coined, or repurposed.*
 
 ---
 
