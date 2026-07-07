@@ -271,8 +271,8 @@ Take **⟪दृश्⟫ (*dṛś*)** — to see, to perceive, to behold. Pā�
 
 - **दर्शनम् (*darśanam*)** — viewing, vision, philosophical perspective (*kṛt* suffix *-ana* on the *guṇa*-grade *darś-*)
 - **दृष्टि (*dṛṣṭi*)** — sight, view (*kṛt* suffix *-ti*)
-- **दृश्यम् (*dṛśyam*)** — the visible, the seen (gerundive in *-ya*)
-- **पश्यति (*paśyati*)** — sees (present-tense stem, generated through standard present-stem derivation)
+- **दृश्यम् (*dṛśyam*)** — the visible, the seen (the *kṛtya* gerundive in *-ya*)
+- **पश्यति (*paśyati*)** — sees (the finite present-tense form, *laṭ-lakāra*)
 
 One *dhātu*. Four derivatives. One unified semantic field — seeing. The Sanskrit side holds the family in one visible construction.
 
@@ -290,7 +290,7 @@ Now follow the cognates outward into the receiving languages — the English wor
 
 > The entry claims that पश्यति (*paśyati*) derives from Proto-Indo-European \*speḱ-, while the rest of the paradigm derives from Proto-Indo-European \*derḱ-.[NOTE: wiktionary-pasyati-suppletion]
 
-In one sentence, the pyramid admits the splinter: what Sanskrit treats as one *dhātu* with one paradigm, the pyramid's account attributes to *two* reconstructed PIE ancestor-forms. The connector word is *suppletive* — the technical name for the account's confession. When the inflected forms of what looks like one verb refuse to be traced back to one ancestor, the reconstruction regime invokes *suppletion*: the doctrine that different verb-forms come from different ancestral forms and have, by historical accident, fused into one paradigm. The Pāṇinian architecture does not need *suppletion* anywhere; it generates पश्यति from दृश् through standard present-stem derivation, and a Sanskrit schoolchild can show the steps. The PIE machinery invokes *suppletion* here because it cannot explain how the दृश्-class forms and the पश्यति-class forms can both belong to one verb.
+In one sentence, the pyramid admits the splinter: what Sanskrit treats as one *dhātu* with one paradigm, the pyramid's account attributes to *two* reconstructed PIE ancestor-forms. The connector word is *suppletive* — the technical name for the account's confession. When the inflected forms of what looks like one verb refuse to be traced back to one ancestor, the reconstruction regime invokes *suppletion*: the doctrine that different verb-forms come from different ancestral forms and have, by historical accident, fused into one paradigm. The Pāṇinian architecture does not need *suppletion* anywhere; it generates पश्यति from दृश् through standard present-tense derivation, and a Sanskrit schoolchild can show the steps. The PIE machinery invokes *suppletion* here because it cannot explain how the दृश्-class forms and the पश्यति-class forms can both belong to one verb.
 
 *Suppletion is not a feature of the language. It is the regime's signature on its own failure.*
 

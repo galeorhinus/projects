@@ -98,7 +98,7 @@ The *Dhātupāṭha* gives Sanskrit unified semantic atoms. PIE reconstruction s
 
 ### Case 1 — ⟪दृश्⟫ (*dṛś*) dhātu, to see
 
-The *dhātu* generates the unified family *darśanam* / *dṛṣṭi* / *dṛśyam* / *paśyati* — viewing, sight, the visible, the present-stem verb-form. One semantic field: seeing. The pyramid's account splits the family across separate PIE attributions:
+The *dhātu* generates the unified family *darśanam* / *dṛṣṭi* / *dṛśyam* / *paśyati* — viewing, sight, the visible, the finite present-tense form. One semantic field: seeing. The pyramid's account splits the family across separate PIE attributions:
 
 | English cognate | Proximate source | PIE attribution |
 |---|---|---|
@@ -106,7 +106,7 @@ The *dhātu* generates the unified family *darśanam* / *dṛṣṭi* / *dṛśy
 | **spy**, **spectacle**, **inspect**, **species** | Latin *specere* "to look at" | \***spek-** "to observe" — Sanskrit *paśyati* explicitly attributed |
 | **theory** | Greek *theōros* "spectator" | \***wer- (3)** "to perceive" *(Watkins, "perhaps")* — no Sanskrit cognation listed |
 
-The machinery's own confession, printed on the Wiktionary entry for पश्यति, attributes *paśyati* to Proto-Indo-European \*speḱ- and the rest of the paradigm to Proto-Indo-European \*derḱ-. One sentence admits the splinter: what Sanskrit treats as one *dhātu* with one paradigm, the pyramid's account attributes to two separate reconstructed PIE ancestor-forms. *Suppletive* exposes the machinery's inability to unify the Sanskrit paradigm under a single reconstructed ancestor-form. Suppletion is not a feature of Sanskrit; it is the regime's signature on its own failure to unify what the Pāṇinian framework unifies by standard present-stem derivation. The Sanskrit semantic origin of *seeing as theory* simply does not appear in the ecosystem's account of *theory* at all.
+The machinery's own confession, printed on the Wiktionary entry for पश्यति, attributes *paśyati* to Proto-Indo-European \*speḱ- and the rest of the paradigm to Proto-Indo-European \*derḱ-. One sentence admits the splinter: what Sanskrit treats as one *dhātu* with one paradigm, the pyramid's account attributes to two separate reconstructed PIE ancestor-forms. *Suppletive* exposes the machinery's inability to unify the Sanskrit paradigm under a single reconstructed ancestor-form. Suppletion is not a feature of Sanskrit; it is the regime's signature on its own failure to unify what the Pāṇinian framework unifies by standard present-tense derivation. The Sanskrit semantic origin of *seeing as theory* simply does not appear in the ecosystem's account of *theory* at all.
 
 *Suppletion* is the bakers admitting the recipe slipped.
 
@@ -138,7 +138,7 @@ The *mother* attribution is held separately from the *measure* attribution — t
 
 ### Case 4 — ⟪गम्⟫ (*gam*) dhātu, to go
 
-The *dhātu* generates **gamana** (going, motion), **gati** (gait, motion, state), **agra-gāmin** (forerunner), and across the variant stem जि-गा (*jigā*) the present-stem **jagati** (he/she/it goes) and the noun **jagat** (the world, the moving one — what goes, what is in motion). Semantic axis: motion.
+The *dhātu* generates **gamana** (going, motion), **gati** (gait, motion, state), **agra-gāmin** (forerunner), and across the variant form जि-गा (*jigā*) the present-tense **jagati** (he/she/it goes) and the noun **jagat** (the world, the moving one — what goes, what is in motion). Semantic axis: motion.
 
 The machinery distinguishes — variably across the etymological reference works — **two** or **three** PIE ancestor-forms:
 
