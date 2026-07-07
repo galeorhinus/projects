@@ -39,7 +39,7 @@ The Eight Core Theses describe the movement of the argument. The Eclipse Ledger 
 
 ### Wholly Created — lifts the Descended plate
 
-1. **Sanskrit is wholly created.** Its own name, **संस्कृतम् (*saṃskṛtam*)**, places it in the category of completed order, not natural drift. The contrast with **प्राकृत (*prākṛta*)** is not decorative vocabulary; it is the civilizational category distinction the book restores. **Chapter 0 §0.4; Chapter 2.**
+1. **Sanskrit is wholly created.** Its own name, **संस्कृतम् (*saṃskṛtam*)**, places it in the category of completed order. The contrast with **प्राकृत (*prākṛta*)** draws the line between the wholly made and the naturally formed. **Chapter 0 §0.4; Chapter 2.**
 
 2. **The Vedas are the primary calibration matrix.** The corpus preserves the architecture through recitation, meter, lineage, and correction. Dating the Vedas as old texts does not explain what they do. **Chapters 14 and 15.**
 
