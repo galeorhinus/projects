@@ -50,7 +50,7 @@
 
 8. **Sanskrit begins with sound, not script.** The language's sound-system is ordered by the body: place, effort, voice, breath, nasality, and duration.
 
-9. **Writing is secondary to the brilliance beneath it.** The foundation of Sanskrit's engineering is a sound-architecture, not a script; Brāhmī only renders it visible. That brilliance radiated outward, and where it reached, it left its mark. How far it reached — and into which scripts — is reserved for the book.
+9. **Writing is secondary to the brilliance beneath it.** Brāhmī renders that brilliance visible; the book analyzes what it is. That brilliance radiated outward, and where it reached, it left its mark. How far — and into which scripts — is reserved for the book.
 
 10. **The pyramid misfiles Indic scripts under a foreign typology — "abugida" — blind to the architecture.** The achievement it hides is articulated sound made visible through a pre-existing sound order; the label sorts the visible marks but not the sound those marks render. Why the pyramid prefers that misfiling, and the name the architecture deserves, are reserved for the book.
 
