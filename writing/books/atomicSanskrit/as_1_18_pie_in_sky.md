@@ -2,20 +2,20 @@
 
 The answer was waiting in the joke.
 
-Years ago, I looked up *mother* and found Sanskrit where an honest etymology would put it: at the deepest real-language end of the chain.
+Years ago I looked up *king* — and *kin*, *genus*, and a dozen everyday words beside them — and found Sanskrit where an honest etymology puts it: at the deepest real-language end of the chain.
 
-> *mother* ← Middle English *moder* ← Old English *mōdor*  
-> akin to Old High German *muoter*, Latin *māter*, Greek *mētēr*, Sanskrit *mātṛ*[NOTE: pre-pie-dictionary-shift]
+> *king* ← Old English *cyning* ← *cyn*, offspring  
+> — Sanskrit *janaka*, *the father of a people*[NOTE: pre-pie-dictionary-shift]
 
-Sanskrit stood at the bottom because Sanskrit was there. Real. Preserved. Recited. Taught. Operating.
+Sanskrit stood at the bottom because Sanskrit was there. Real. Preserved. Recited. Taught. Operating. And the older dictionaries said, in plain words, what *king* had meant: the father of a people.
 
-A few years later the entry had changed. The ancestry line now ran through a starred reconstruction:
+A generation of reference works later, the entry had changed. The ancestry line now ran through a starred reconstruction:
 
-> *mother* ← Middle English *moder* ← Old English *mōdor* ← Proto-Germanic **\*mōdēr-** ← PIE **\*méh₂tēr-**
+> *king* ← Old English *cyning* ← Proto-Germanic **\*kuningaz** ← PIE **\*ǵenh₁-**, "to beget"
 
-The real languages were moved into the cognate list:
+The real word was moved into the cognate list, several lines down:
 
-> cognate with Old High German *muoter*, Latin *māter*, Greek *mētēr*, Sanskrit *mātṛ*
+> cognate with Sanskrit *janaka*, Latin *genus*, Greek *génos*
 
 The layout did the work. Sanskrit no longer stood at the deepest real-language end of the chain. It had been moved sideways, one sibling among many. Above every real language floated a starred form nobody had spoken. The asterisk admitted the truth. The form was reconstructed. It was procedure, not speech.
 
@@ -27,7 +27,7 @@ Behind every PIE form sits a **\*baker**.
 
 ## 18.1 Schleicher's Bake
 
-August Schleicher made the bakery visible. In 1868 he published a fable in his reconstructed Proto-Indo-European — *Avis akvāsas ka*, "The Sheep and the Horses" — the first complete piece of literature written in a language no human community had ever spoken. Every word carried an asterisk: \**ávis*, \**akvā́sas*, \**kr̥nuto*, \**wl̥qis*, \**ágrom* — each form reconstructed, none recorded in any speaker's language, each baked from cognates collected backward across the daughter Indo-European languages.[NOTE: schleicher-1868-fable] The asterisk before each form had been Schleicher's notational invention in his earlier *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (1861); the 1868 fable made the convention fully operational, a working showcase of a reconstructed language at literary length.
+The first baker was August Schleicher. He made the bakery visible: in 1868 he published a fable in his reconstructed Proto-Indo-European — *Avis akvāsas ka*, "The Sheep and the Horses" — the first complete piece of literature written in a language no human community had ever spoken. Every word carried an asterisk: \**ávis*, \**akvā́sas*, \**kr̥nuto*, \**wl̥qis*, \**ágrom* — each form reconstructed, none recorded in any speaker's language, each baked from cognates collected backward across the daughter Indo-European languages.[NOTE: schleicher-1868-fable] The asterisk before each form had been Schleicher's notational invention in his earlier *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (1861); the 1868 fable made the convention fully operational, a working showcase of a reconstructed language at literary length.
 
 Constructed languages — often called conlangs, short for constructed languages — are not the problem. The world of *The Lord of the Rings* carries Quenya and Sindarin: languages with phonological inventories, derivational morphology, syntax, and vocabularies running to thousands of words. The *Star Trek* world carries Klingon: a language with its own phonology, agglutinative case-and-aspect morphology, and a vocabulary its speaking community has since extended.[NOTE: conlangs-tolkien-okrand] Both projects are honest about the work. They invent phonology, morphology, syntax, and vocabulary for fictional worlds.
 
@@ -46,18 +46,18 @@ Placement exposes the problem.
 
 When a dictionary writes "from PIE \*méh₂tēr" at the deepest point in an etymological chain, it is not merely filing a correspondence. It is assigning ancestry.
 AISWEEP-END -->
-When a dictionary writes "from PIE \*méh₂tēr" at the deepest point in an etymological chain, it is not merely filing a correspondence. It is assigning ancestry. Placement does that work. The asterisk is a procedural disclaimer. The chain position is an ontological commitment. The casual reader does not read "summary label for a correspondence set." The reader reads "source." The bookkeeping label has been doing ancestor work continuously, every time the label has been deployed.
+When a dictionary writes "from PIE \*ǵenh₁" at the deepest point in an etymological chain, it is not merely filing a correspondence. It is assigning ancestry. Placement does that work. The asterisk is a procedural disclaimer. The chain position is an ontological commitment. The casual reader does not read "summary label for a correspondence set." The reader reads "source." The bookkeeping label has been doing ancestor work continuously, every time the label has been deployed.
 
 <!-- AISWEEP-OLD
 The logic breaks again. PIE cannot be the etymon of any word. A reconstructed form is not an etymon.
 AISWEEP-END -->
-PIE cannot be the etymon of any word, and the logic breaks again on that fact. A reconstructed form is not an etymon. The endpoint of going backward in time is the *earliest* real form, not a reconstruction the procedure has projected behind that form. A reconstruction may summarize features shared by real forms; it cannot be the source from which those forms descend unless the reconstruction corresponds to a real spoken form. *Mātṛ* exists. *Māter* exists. *Mētēr* exists. **\*méh₂tēr** does not.
+PIE cannot be the etymon of any word, and the logic breaks again on that fact. A reconstructed form is not an etymon. The endpoint of going backward in time is the *earliest* real form, not a reconstruction the procedure has projected behind that form. A reconstruction may summarize features shared by real forms; it cannot be the source from which those forms descend unless the reconstruction corresponds to a real spoken form. *Janaka* exists. *Genus* exists. *Génos* exists. **\*ǵenh₁** does not.
 
 The procedural reconstruction is exposed for what it is — an average of the reflections, misrepresented as a source. The bookkeeping claim collapses.
 
 PIE is not merely a speculative reconstruction. It is the asuric pyramid's most successful linguistic artifact: an imaginary ancestor manufactured by the Western philological machinery, sanctified by the church of progress, and installed above Sanskrit so the engineered source could be demoted into one cognate among many. The machinery baked it. The church cemented it. The pyramid needed it.
 
-> The paired invention is exact. RAT supplies the imaginary people: *Aryans* as race, ancestry, or migrating population. PIE supplies the imaginary language: an imaginary ancestor placed above Sanskrit. The phrase *"Indo-Aryan languages"* then binds the two inventions into ordinary academic speech, as though the stolen racial category were neutral linguistic classification. Sanskrit is real. *Ārya* is real. The Vedic archive is real. The invented people and the invented ancestor are the devices by which the real civilization is made external to itself.
+> The invention is a triad, and it is exact. RAT supplies the imaginary people: *Aryans* as race, ancestry, or migrating population. PIE supplies the imaginary language: an imaginary ancestor placed above Sanskrit. And the starred reconstructions supply the imaginary words — forms no mouth ever made. The phrase *"Indo-Aryan languages"* then binds the inventions into ordinary academic speech, as though the stolen racial category were neutral linguistic classification. Sanskrit is real. *Ārya* is real. The Vedic archive is real. The imaginary people, the imaginary language, and the imaginary words are the devices by which the real civilization is made external to itself.
 
 ## 18.3 What PIE Cannot Explain
 
@@ -113,6 +113,8 @@ Against that background, the curve is revealing. Brugmann's reconstruction falls
 AISWEEP-END -->
 Brugmann's reconstruction falls to **0.73**. The standard / laryngeal reconstruction falls to **0.64**. The glottalic turn falls furthest, to **0.48**. Then the modern reconstruction rises again to **0.64** — against that background, a revealing curve. The pattern is not the discovery of a stable ancestor. It is a reconstruction moving around Sanskrit: close at first, then away, then back toward Sanskrit-like material when Sanskrit can no longer be ignored.
 
+The reconstruction bakers were only the first shift; a second took the reference shelf. Julius Pokorny's *Indogermanisches etymologisches Wörterbuch* (1959) gathered the starred roots into a cookbook. Calvert Watkins built them into the *American Heritage Dictionary*'s appendix — a pie in every American desk. The free online references a reader now consults, Etymonline and the aggregators, made the starred form the default terminus. More bakers, more pies. The reconstructions did not merely multiply in the journals; they climbed into the dictionaries, edition by edition, until the entry a child reads today ends at a star. The next section follows that climb into one dictionary's own pages.
+
 ## 18.5 The Recipe, Step by Step
 
 Four words hang in every English-speaking wardrobe: *shirt*, *skirt*, *short* — and, for the abrupt, *curt*. The dictionary files all four in one family, and the family tree printed for them has become a small internet celebrity: a massive spreading tree, fifty-plus English words in its branches — *shear, share, score, shred, sharp, cortex, carnal, carnival* — and at its root, marked PIE, the claimed ancestor of them all: **\*(s)ker-**, "to cut." The tree is handsome, confident, and widely shared. No Sanskrit appears anywhere on it.
@@ -141,7 +143,7 @@ And the case generalizes, because the case is a recipe. Delete the source langua
 
 ![Figure 18.4 — \*ǵenh₁ — the Phantom of Birth. Another popular tree, trimmed the same way — their branches, their notation, nothing added: dashed = never spoken. No Sanskrit on the page.](figures/pie_in_sky/genh_pie_tree.svg){#fig:ch18-genh-phantom width=100%}
 
-The recipe reruns wherever it is pointed — the same imaginary race, the same imaginary language. The birth-family is another such tree: \*ǵenh₁ "to give birth" spread over *nation*, *nature*, *gene*, *kind*, and *king*, with no Sanskrit on the page — while **⟪जन्⟫ (*jan*)** sits in the Dhātupāṭha carrying both of the phantom's meanings, its words alive from *janma* to Bengali *jônmo*.[NOTE: jan-dhatupatha-double-entry]
+The recipe reruns wherever it is pointed — the same imaginary race, the same imaginary language, the same imaginary words. The birth-family is another such tree: \*ǵenh₁ "to give birth" spread over *nation*, *nature*, *gene*, *kind*, and *king*, with no Sanskrit on the page — while **⟪जन्⟫ (*jan*)** sits in the Dhātupāṭha carrying both of the phantom's meanings, its words alive from *janma* to Bengali *jônmo*.[NOTE: jan-dhatupatha-double-entry]
 
 ![Figure 18.5 — ⟪जन्⟫ · Orbit and Radiance — the Birth-Atom. The words orbit; the radiance seeds far soil; trees grow where the light lands.](figures/pie_in_sky/jan_orbit_radiance.svg){#fig:ch18-jan-orbit width=100%}
 
