@@ -63,7 +63,7 @@ The Eight Core Theses describe the movement of the argument. The Eclipse Ledger 
 
 10. **Pāṇini decoded and documented an operating system; he did not codify a drifting language.** The book's refrain is exact: Sanskrit was engineered, encoded in the Vedas, decoded by many, and Pāṇini's decoding is the finest. **Preface; Chapter 2 §2.6; Chapter 5; Chapter 11 §11.10.**
 
-11. **Vedic and Classical Sanskrit are not two languages.** **वैदिक (*vaidika*)** and **लौकिक (*laukika*)** are domains; **छन्दसि (*chandasi*)** and **भाषायाम् (*bhāṣāyām*)** are modes. Domain is not chronology. Mode is not drift. Pāṇini witnesses both. **Preface; Chapter 2 §2.6; Chapter 6 §6.6; Chapter 14 §14.7.**
+11. **Vedic and Classical Sanskrit are not two languages — the split is imaginary.** **वैदिक (*vaidika*)** and **लौकिक (*laukika*)** are domains; **छन्दसि (*chandasi*)** and **भाषायाम् (*bhāṣāyām*)** are modes. Domain is not chronology. Mode is not drift. Pāṇini witnesses both. **Preface; Chapter 2 §2.6; Chapter 6 §6.6; Chapter 14 §14.7.**
 
 12. **The engineering recognition is older than Pāṇini.** Yāska, Śākalya, the *Prātiśākhyas*, the *Śikṣā* disciplines, and the pre-Pāṇinian *vaiyākaraṇāḥ* already presuppose discrete, stable, analyzable units. Pāṇini stands inside a decoding lineage. **Chapter 5; Chapter 10 §10.13.**
 

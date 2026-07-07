@@ -1,12 +1,12 @@
 # Atomic Sanskrit — Pre-Publication Thesis Summary
 
-*A pre-publication summary of the book's central thesis. It preserves the argument without revealing the book's technical vocabulary, coinages, or full metaphor system before publication. Where current terminology is inadequate, it notes that the book proposes new vocabulary.*
+*A pre-publication summary of the book's central thesis. It preserves the argument without revealing the book's technical vocabulary, coinages, or full metaphor system before publication. Where the pyramid's terminology misdirects, it flags that the book proposes new vocabulary.*
 
 ---
 
 ## Core Theses
 
-1. **Sanskrit was engineered.** Its structure shows the order, stability, and generativity of an engineered system.
+1. **Sanskrit was engineered.** Its structure is ordered, stable, and endlessly productive — the signature of engineering, not of drift.
 
 2. **The Vedas preserve that engineering.** They are the primary acoustic corpus that holds the language's architecture.
 
@@ -48,7 +48,7 @@
 
 7. **Sanskrit begins with sound, not script.** The language's sound-system is ordered by the body: place, effort, voice, breath, nasality, and duration.
 
-8. **Writing is secondary to the brilliance beneath it.** Brāhmī renders that brilliance visible; the book analyzes what it is. That brilliance radiated outward, and where it reached, it left its mark. How far — and into which scripts — is reserved for the book.
+8. **Writing is secondary to the brilliance beneath it.** Brāhmī renders that brilliance visible; the book analyzes what it is. It radiated outward, and where it reached, it left its mark. How far — and into which scripts — is reserved for the book.
 
 9. **The pyramid misfiles Indic scripts under a foreign typology — "abugida" — blind to the architecture.** The achievement it hides is articulated sound made visible through a pre-existing sound order; the label sorts the visible marks but not the sound those marks render. Why the pyramid prefers that misfiling, and the name the architecture deserves, are reserved for the book.
 
@@ -76,11 +76,11 @@
 
 ### PIE, Arya, And Contact
 
-19. **PIE is not an etymon.** A reconstructed form may summarize similarities among real languages, but it cannot be the source of a real word unless it corresponds to a real spoken language.
+19. **PIE is not an etymon.** Every dictionary that traces a word to a starred form is citing a reconstruction as if it were a source.
 
 20. **The racial Arya thesis made Sanskrit external to India.** Changing the label from invasion to migration does not fix the deeper problem: movement is not authorship.
 
-21. **"Invasion" and "migration" debates keep the reader arguing about movement.** The real question is authorship; the book supplies sharper vocabulary for the racial thesis and its residue.
+21. **"Invasion" and "migration" are two answers to the wrong question.** The book supplies sharper vocabulary for the racial thesis and the residue it left in linguistics.
 
 22. **"Indo-Aryan" is not a neutral label.** It preserves a racial-era category inside modern linguistic language.
 
@@ -94,7 +94,7 @@
 
 26. **Sanskrit is a preserved and still-generative architecture.** Its category has been obscured.
 
-27. **India's civilizational responsibility remains central.** Sanskrit was preserved by a civilization, not by codification and not by authority. How Sanskrit holds without either is what the book demonstrates.
+27. **India's civilizational responsibility remains central.** Sanskrit was preserved by a civilization, where neither codification nor authority could. How it holds without either is what the book demonstrates.
 
 28. **The work now is recognition and transmission.** Once the category is corrected, the next task is to learn, teach, and preserve Sanskrit on its own terms.
 
