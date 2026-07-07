@@ -56,7 +56,7 @@
 
 11. **Calling Indic scripts by a foreign typological label hides the achievement.** The achievement is articulated sound made visible through a pre-existing sound order.
 
-12. **The label "abugida" files Indic scripts under a typology blind to the architecture.** It sorts the visible marks but not the sound those marks render; the book supplies a term for that architecture.
+12. **The label "abugida" files Indic scripts under a typology blind to the architecture.** It sorts the visible marks but not the sound those marks render; that architecture has a name of its own, reserved for the book.
 
 ### Word Formation
 
@@ -100,6 +100,10 @@
 
 29. **Sanskrit is a preserved and still-generative architecture.** Its category has been obscured.
 
-30. **India's civilizational responsibility remains central.** Sanskrit was preserved by a civilization, not by codification and not by authority.
+30. **India's civilizational responsibility remains central.** Sanskrit was preserved by a civilization, not by codification and not by authority. How Sanskrit holds without either is what the book demonstrates.
 
 31. **The work now is recognition and transmission.** Once the category is corrected, the next task is to learn, teach, and preserve Sanskrit on its own terms.
+
+---
+
+The argument is here, in plain terms. The book's own vocabulary, its worked demonstrations, and the single image that runs from first page to last are reserved for the book.
