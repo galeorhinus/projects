@@ -50,7 +50,7 @@ The *dhātuḥ* is a semantic atom. To enter speech, it must bond into a sentenc
 
 Sanskrit bonds the atom in two main directions. A head-bond enters before the atom. A tail-bond enters after it. Sanskrit's grammatical names are **उपसर्गः (*upasargaḥ*)** and **प्रत्ययः (*pratyayaḥ*)**.
 
-An *upasargaḥ* redirects the atom's field of action. A *pratyayaḥ* stabilizes the molecule's class: action, agent, deed, instrument, state, obligation, and so on. A **विभक्तिः (*vibhaktiḥ*)** or **तिङ्-प्रत्ययः (*tiṅ-pratyayaḥ*)** then prepares the form for sentence use by fixing role, number, person, and relation.
+An *upasargaḥ* redirects the atom's field of action. A *pratyayaḥ* stabilizes the molecule into a usable class — settling whether the same atom closes as the action itself, as the one who acts, as the deed done, or as the state left behind. A final role-ending then readies the form for the sentence: a **विभक्तिः (*vibhaktiḥ*)** sets a name's role, number, and relation, and a **तिङ्-प्रत्ययः (*tiṅ-pratyayaḥ*)** sets a verb's person, number, and relation.
 
 The governing issue is recoverability. The bond remains visible enough for the form to be analyzed, taught, corrected, recited, and recalibrated.
 

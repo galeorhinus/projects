@@ -46,7 +46,7 @@ The survey uses the mouth-map vocabulary already established. Modern phonetics o
 
 Here *survey* means analysis of already completed surveys. The fieldwork, grammars, phonological descriptions, and consonant-inventory datasets were produced by linguists over many decades. The work here is to take those published inventories, map their contrastive consonant slots onto the place × manner grid, and measure how much of Sanskrit's base each comparison set covers.
 
-The full Sanskrit vocabulary remains more granular. **करण (*karaṇa*)** is the active articulator: what part of the mouth does the work. **प्राण (*prāṇa*)** is breath pressure. **घोष (*ghoṣa*)** is voicing or vocal-cord resonance. **अनुनासिक (*anunāsika*)** is nasal coupling.
+The full Sanskrit vocabulary remains more granular, tracking four separate actions of the speaking body. **करण (*karaṇa*)** is the active articulator — the moving part, the tongue-tip or lip that travels to the place and makes contact. **प्राण (*prāṇa*)** controls the breath pressure behind that contact, toggling a stop between light (*alpaprāṇa*) and heavy (*mahāprāṇa*). **घोष (*ghoṣa*)** switches the vocal cords on or off, marking the sound as voiced or voiceless. **अनुनासिक (*anunāsika*)** opens the nasal passage, routing the sound through the nose instead of the mouth.
 
 Modern phonetics uses parallel categories: place of articulation, manner of articulation, aspiration, voicing, and nasality. Sanskrit's terms point to the action of the speaking body.
 

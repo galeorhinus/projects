@@ -100,7 +100,7 @@ In that explicit notation, a *dhātuḥ* must do three things before it becomes 
 2. It must receive the operation appropriate to that class.
 3. It must take the verbal ending that completes the action-form.
 
-Sanskrit's operating classes are the **गणाः (*gaṇāḥ*)**. The class-operation is signaled by a **विकरणम् (*vikaraṇam*)**, or by another class process such as zero operation, transformation, or reduplication. The verbal endings are the **तिङ्-प्रत्ययाः (*tiṅ-pratyayāḥ*)**.
+Each of the three requirements has its apparatus. The operating classes are the **गणाः (*gaṇāḥ*)**. The marker that runs the class-operation is a **विकरणम् (*vikaraṇam*)** — usually an inserted vowel or affix, sometimes zero operation, sometimes a reshaping of the atom, sometimes reduplication. The verbal endings that close the action-form are the **तिङ्-प्रत्ययाः (*tiṅ-pratyayāḥ*)**.
 
 In Pāṇini's notation, that gives the basic procedure:
 
@@ -269,7 +269,7 @@ So the resemblance and the engineering sit side by side. The frequency pattern m
 
 ## 11.7 Hyper-Reactive Atoms
 
-Carbon earns its place in chemistry by bonding promiscuously — a small center that throws off an enormous molecular space. Sanskrit's polyvalent atoms do the same grammatical work, and **⟪कृ⟫ (*kṛ*)** is the clearest case: a three-letter *krādi* atom, the single most reactive item in the corpus. From it you get *karma* and *kāryam*, *kṛti* and *kartṛ*, *saṃskṛti* and *prakṛti* — the deed, the thing-to-be-done, the composition, the doer, refined order, raw nature. Everyday speech and the densest philosophy both run on it.
+Carbon earns its place in chemistry by bonding promiscuously — a small center that throws off an enormous molecular space. Sanskrit's polyvalent atoms do the same grammatical work, and **⟪कृ⟫ (*kṛ*)** is the clearest case: a three-letter *krādi* atom, the single most reactive item in the corpus. From it come *karma* and *kāryam*, *kṛti* and *kartṛ*, *saṃskṛti* and *prakṛti* — the deed, the thing-to-be-done, the composition, the doer, refined order, raw nature. Everyday speech and the densest philosophy both run on it.
 
 The smallness is the point. ⟪कृ⟫ derives its power from its *availability* — short enough to enter anywhere, stable enough to survive the entry. ⟪भू⟫, ⟪धा⟫, ⟪हृ⟫, ⟪गम्⟫, ⟪नी⟫, ⟪ज्ञा⟫, ⟪दा⟫, and ⟪स्था⟫ work the same way: compact atoms with enormous range.
 

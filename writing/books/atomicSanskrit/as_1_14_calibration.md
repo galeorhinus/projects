@@ -73,7 +73,7 @@ Auditure preserves the Vedic corpus as sound. The full calibration matrix contai
 
 ***Layer 1 — The Vedas.*** The Vedas are the preserved corpus. They are the primary calibrant, the sound-body the system protects. Every other layer exists to keep that body from drifting.
 
-***Layer 2 — The *Prātiśākhya* discipline.*** The *Prātiśākhya* texts specify the phonetic rules of particular Vedic recensions: sound, accent, junction, pause, and recitational detail. They are specification documents.
+***Layer 2 — The *Prātiśākhya* discipline.*** Each *Prātiśākhya* text fixes the phonetic rules of one Vedic recension: how a sound is articulated, where the accent falls, how two sounds join at a junction, where the reciter pauses. It is the written specification a teacher checks a recitation against.
 
 ***Layer 3 — *Vyākaraṇam*.*** व्याकरणम् (*vyākaraṇam*) is the grammatical specification, not "grammar" in the schoolbook sense and not "codification" in the dogma's sense. It describes the generative architecture by which valid forms are produced and invalid forms are rejected.
 
@@ -107,7 +107,7 @@ The counts add accordingly: one plus two is three, two plus three is five, three
 
 ## 14.5 The Whole Language Holds the Sūtra-Discipline
 
-Natural languages standardize by usage: the ***प्रकृति (*prakṛti*)*** category. Codified languages standardize by codification: selected standards held by authority. Sanskrit standardizes by calibration: the ***संस्कृति (*saṃskṛti*)*** category, architecture correcting itself. The natural category splits once more — by anchoring rather than mechanism: a calibrant-anchored language **diverges** within bounds, while a language with no calibrant **drifts** without bound (Chapter 6 §6.7).
+A language holds its standard in one of three ways, and the way decides whether the standard can drift. In a natural language, usage holds it: the standard is whatever the community of speakers happens to do — the ***प्रकृति (*prakṛti*)*** category. In a codified language, authority holds it: a court, academy, or committee selects a standard and enforces it. In Sanskrit, calibration holds it: the architecture corrects itself against a fixed measure — the ***संस्कृति (*saṃskṛti*)*** category. The natural category then splits again, not by mechanism but by anchor. A language with a calibrant to check against stays in orbit — it moves, but Sanskrit's gravity holds it within bounds. A language with none drifts — it moves without limit (Chapter 6 §6.7).
 
 The same discipline operates at the atomic scale (Chapter 10). At system scale, the answer is the language itself. These are relative characteristics. A *sūtra* is compact when measured against a longer exposition; unambiguous when measured against a statement that can be misunderstood; essence-bearing when measured against speech that holds less recoverable meaning. At the system scale, the comparison is between Sanskrit as a calibrated language and ordinary uncalibrated speech preserved by habit, local drift, historical residue, and external standardization. Against that comparator, Sanskrit displays the same six characteristics the *sūtra-lakṣaṇam* specifies at the rule scale and seen earlier at the atomic scale.[NOTE: whole-language-sutra-discipline-comparator]
 

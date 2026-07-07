@@ -1,6 +1,6 @@
 # Teaching-Tone De-AI Pass — Chs 7–14 Review Doc
 
-**Status: DRAFT for author review. NOTHING applied to the manuscript.** Accept / edit / reject each candidate; I apply only what you approve.
+**Status: APPLIED 2026-07-07.** All 10 candidates (with the author's edits), the §14.5 orbit-language alignment, and the two convention catches (§9.3, §11.7) are now in the manuscript. This doc is retained as the record of what changed (BEFORE/AFTER below).
 
 Generated 2026-07-07. One agent per chapter found candidates and drafted rewrites to the locked recipe; I quality-gate each for recipe-fidelity before it lands here.
 
@@ -82,7 +82,7 @@ Each candidate has a **BEFORE** (verbatim current text) and an **AFTER** (propos
 **AFTER:**
 > The *varṇamālā* is organized into four working divisions. Each division is a role in assembly:
 >
-> 1. **स्वराः (*svarāḥ*)** — the vowels. Each holds the resonant center of the *akṣara*.
+> 1. **स्वराः (*svarāḥ*)** — the vowels. Each holds the resonant center of the *akṣara*, the nucleus.
 > 2. **स्पर्शाः (*sparśāḥ*)** — the contact sounds, the stops and nasals of the five-by-five matrix. Stops build hard contact; nasals couple the oral and nasal cavities.
 > 3. **अन्तःस्थाः (*antaḥsthāḥ*)** — the between-standing sounds य र ल व. Each moves between vowel and consonant behavior.
 > 4. **ऊष्माणः (*ūṣmāṇaḥ*)** — the heat or friction sounds श ष स ह. Each holds friction and breath.
@@ -94,7 +94,7 @@ Each candidate has a **BEFORE** (verbatim current text) and an **AFTER** (propos
 **BEFORE:**
 > Sanskrit is already using the language of the body. A sound is specified by **स्थान (*sthāna*)**, place; **प्रयत्न (*prayatna*)**, effort or manner; **प्राण (*prāṇa*)**, breath pressure; **घोष (*ghoṣa*)**, vocal-cord vibration; and **अनुनासिक (*anunāsika*)**, nasal coupling. Modern speech science uses different labels, but the same physical questions apply: where is the constriction, what kind of constriction is it, is the voice on, how much breath is released, and does the nasal passage open?[NOTE: place-of-articulation-sanskrit-terms]
 **AFTER:**
-> Sanskrit is already using the language of the body. Five parameters specify a sound, and each puts one physical question to the mouth.
+> Sanskrit already uses the language of the body. Five parameters specify a sound, and each puts one physical question to the mouth.
 >
 > **स्थान (*sthāna*)** fixes the place — where along the vocal tract the constriction forms. **प्रयत्न (*prayatna*)** sets the effort — the manner of the constriction, full contact or partial. **घोष (*ghoṣa*)** switches the voice — whether the vocal cords vibrate during the sound. **प्राण (*prāṇa*)** controls the breath-pressure from the lungs, toggling between light and heavy release. **अनुनासिक (*anunāsika*)** opens the nasal passage — whether resonance couples into the nose.
 >
@@ -113,14 +113,14 @@ Each candidate has a **BEFORE** (verbatim current text) and an **AFTER** (propos
 **BEFORE:**
 > This strengthens *varṇa-vāda* (वर्णवाद) rather than weakening it. The debate only makes sense inside an engineered language. A drifting natural language cannot sustain stable *varṇa-śakti* claims across its living record; its sounds shift, merge, and lose structural force. Sanskrit's sonomers remain discrete, stable, composable, and analyzable. That stability is what lets the debate exist at all.[NOTE: varnavada-presupposes-engineering]
 **AFTER:**
-> This strengthens *varṇa-vāda* (वर्णवाद) — the position that each sonomer carries an intrinsic meaning-force, a *varṇa-śakti* (वर्णशक्ति) resident in the sound itself — rather than weakening it. The debate only makes sense inside an engineered language. A drifting natural language cannot sustain stable *varṇa-śakti* claims across its living record; its sounds shift, merge, and lose structural force. Sanskrit's sonomers remain discrete, stable, composable, and analyzable. That stability is what lets the debate exist at all.[NOTE: varnavada-presupposes-engineering]
+> This concept is called as वर्णशक्ति (varṇa-śakti): the semantic potency of a measured sound-particle operating inside a calibrated field. This position—varṇa-vāda (वर्णवाद)—proposes that each sonomer carries an intrinsic meaning-force resident in the sound itself. This entire framework and the debate rests directly on the foundation of an engineered language. To sustain a stable varṇa-śakti across a living record, the sounds must remain discrete, stable, composable, and analyzable. The architecture of the varṇamālā guarantees this consistency. The rigid stability of the grid provides the necessary environment for the theory to hold true. [NOTE: varnavada-presupposes-engineering]
 
 ### §10.2 — *dhātuḥ* category recap (also fixes a stacked-negative)
 **Diagnosis:** a near-synonym triad ("constituent, semantic atom, stable bearer") asserted as a bare list after a stacked triple-negative ("not a sentence, not a word, not a grammatical rule"), showing nothing of what any facet does. *(Stacked negatives are also a de-AI tell.)*
 **BEFORE:**
 > The design now moves one scale downward. A *sūtra* is a crafted sentence. A *dhātuḥ* is not a sentence, not a word, and not a grammatical rule. The category is already set: constituent, semantic atom, stable bearer. The question is whether the same characteristics of engineered compactness reappear inside it.
 **AFTER:**
-> The design now moves one scale downward. A *sūtra* is a crafted sentence; the *dhātuḥ* sits below it — smaller than a word, and not a grammatical rule at all. Its category is already fixed: the constituent that holds meaning while larger forms assemble around it, the semantic atom. The question is whether the same characteristics of engineered compactness reappear inside it.
+> The design now moves one scale downward. A *sūtra* is a crafted sentence; the *dhātuḥ* sits below it — smaller than a word, and unusable in a sentence. Its category is already defined: the constituent that holds meaning while larger forms assemble around it, the semantic atom. The question is whether the same characteristics of engineered compactness reappear inside it.
 
 > **Gate note:** the agent's draft read *"smaller than a word, smaller than a grammatical rule"* — a rule isn't a size, so I changed the second clause to *"and not a grammatical rule at all"* to keep the affirmative lead without the category-mismatch.
 

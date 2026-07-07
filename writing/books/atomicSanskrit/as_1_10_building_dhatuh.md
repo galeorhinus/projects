@@ -43,7 +43,7 @@ That recurrence defines **fractal** in the architectural sense: the same organiz
 
 ## 10.2 From Sūtra to Dhātuḥ — The Fractal Question
 
-The design now moves one scale downward. A *sūtra* is a crafted sentence. A *dhātuḥ* is not a sentence, not a word, and not a grammatical rule. The category is already set: constituent, semantic atom, stable bearer. The question is whether the same characteristics of engineered compactness reappear inside it.
+The design now moves one scale downward. A *sūtra* is a crafted sentence; the *dhātuḥ* sits below it — smaller than a word, and unusable in a sentence. Its category is already defined: the constituent that holds meaning while larger forms assemble around it, the semantic atom. The question is whether the same characteristics of engineered compactness reappear inside it.
 
 The verse gives the six characteristics in its own order. The tests proceed in engineering order:
 
@@ -266,7 +266,7 @@ This is where engineering-poetry enters. Sanskrit does not treat sonomers as int
 
 The architecture assigns meaning with acoustic intelligence. It creates compact, distinguishable forms, and liquids fit flow because they sound like flow. *Kṣa* fits abrasion because it sounds like abrasion. Form comes first; assignment gives that form semantic force.
 
-This strengthens *varṇa-vāda* (वर्णवाद) rather than weakening it. The debate only makes sense inside an engineered language. A drifting natural language cannot sustain stable *varṇa-śakti* claims across its living record; its sounds shift, merge, and lose structural force. Sanskrit's sonomers remain discrete, stable, composable, and analyzable. That stability is what lets the debate exist at all.[NOTE: varnavada-presupposes-engineering]
+This concept is called **वर्णशक्ति (*varṇa-śakti*)**: the semantic potency of a measured sound-particle operating inside a calibrated field. This position — **वर्णवाद (*varṇa-vāda*)** — proposes that each sonomer carries an intrinsic meaning-force resident in the sound itself. This entire framework and the debate rest directly on the foundation of an engineered language. To sustain a stable *varṇa-śakti* across a living record, the sounds must remain discrete, stable, composable, and analyzable. The architecture of the *varṇamālā* guarantees this consistency. The rigid stability of the grid provides the necessary environment for the theory to hold true.[NOTE: varnavada-presupposes-engineering]
 
 The Vedic context grounds the claim because the *Vedas* are poems. Sound-meaning alignment is part of the verse's effect, its mantric power, its sanctity. *Mantra* (मन्त्र) itself — from the *dhātuḥ* ⟪मन्⟫ (*man*), to think — is the acoustic instrument that aligns sound with contemplation. Poetry is built form-first: meter, alliteration, and sonic flow drive the assembly; meaning enters that architecture as the poet works.
 

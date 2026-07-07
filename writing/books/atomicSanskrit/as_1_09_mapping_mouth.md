@@ -39,6 +39,8 @@ The word is poetic and precise. A garland differs from a heap. Each bead is chos
 
 The word garland is important because it preserves Sanskrit's own way of seeing this sound-inventory. These are measured sound-particles before they become "letters": **sonomers**. A sonomer is what Sanskrit calls a *varṇa*: a selected, measured, repeatable unit of sound.
 
+That distinction becomes critical later. Sanskrit's internal disciplines ask whether a measured sound-particle has **वर्णशक्ति (*varṇa-śakti*)** — semantic potency inside a calibrated field. This chapter does not settle that debate; it establishes the condition for it: stable, teachable, body-mapped sound-units. Without the grid, *varṇa-śakti* feels like sound-mysticism. With the grid, it becomes a serious Sanskritic question.
+
 > **Sonomers: The Pre-Pāṇinian Sound-Units**
 >
 > In terms of chronology the *varṇāḥ* are pre-Pāṇinian. The Vedic phonetic discipline already treats Speech as made of distinguishable sound-units, measured by *svara*, *mātrā*, force, continuity, and recitational joining. The ordered sound-inventory later called the *varṇamālā* stands inside that older discipline.
@@ -51,18 +53,20 @@ The two views are the same object. In Sanskrit's own language, the sound-invento
 
 ## 9.2 The Four Divisions
 
-The *varṇamālā* is organized into four working divisions:
+The *varṇamālā* is organized into four working divisions. Each division is a role in assembly:
 
-1. **स्वराः (*svarāḥ*)** — vowels, the open resonant nuclei.
-2. **स्पर्शाः (*sparśāḥ*)** — contact sounds, the stops and nasals arranged in the five-by-five matrix.
-3. **अन्तःस्थाः (*antaḥsthāḥ*)** — the between-standing sounds: य र ल व.
-4. **ऊष्माणः (*ūṣmāṇaḥ*)** — the heat or friction sounds: श ष स ह.
+1. **स्वराः (*svarāḥ*)** — the vowels. Each holds the resonant center of the *akṣara*, the nucleus.
+2. **स्पर्शाः (*sparśāḥ*)** — the contact sounds, the stops and nasals of the five-by-five matrix. Stops build hard contact; nasals couple the oral and nasal cavities.
+3. **अन्तःस्थाः (*antaḥsthāḥ*)** — the between-standing sounds य र ल व. Each moves between vowel and consonant behavior.
+4. **ऊष्माणः (*ūṣmāṇaḥ*)** — the heat or friction sounds श ष स ह. Each holds friction and breath.
 
-The *ayogavāha* sounds sit at the boundary: **अनुस्वार (*anusvāra*)**, **विसर्ग (*visarga*)**, and related breath or nasal release forms recognized by the *Prātiśākhya* discipline.[NOTE: ayogavaha-category-pratisakhya]
+The *ayogavāha* sounds sit at the boundary: **अनुस्वार (*anusvāra*)**, **विसर्ग (*visarga*)**, and related breath or nasal release forms recognized by the *Prātiśākhya* discipline.[NOTE: ayogavaha-category-pratisakhya] The *visarga* releases breath after the vowel; the *anusvāra* points nasal resonance into the next contact.[NOTE: visarga-anusvara-articulation]
 
-These classes are roles in assembly. Vowels hold the resonant center of the *akṣara*. Stops build hard contact. Nasals couple the oral and nasal cavities. *Antaḥstha* sounds move between vowel and consonant behavior. *Ūṣman* sounds hold friction and breath. The *visarga* releases breath after the vowel; *anusvāra* points nasal resonance into the next contact.[NOTE: visarga-anusvara-articulation]
+Sanskrit already uses the language of the body. Five parameters specify a sound, and each puts one physical question to the mouth.
 
-Sanskrit is already using the language of the body. A sound is specified by **स्थान (*sthāna*)**, place; **प्रयत्न (*prayatna*)**, effort or manner; **प्राण (*prāṇa*)**, breath pressure; **घोष (*ghoṣa*)**, vocal-cord vibration; and **अनुनासिक (*anunāsika*)**, nasal coupling. Modern speech science uses different labels, but the same physical questions apply: where is the constriction, what kind of constriction is it, is the voice on, how much breath is released, and does the nasal passage open?[NOTE: place-of-articulation-sanskrit-terms]
+**स्थान (*sthāna*)** fixes the place — where along the vocal tract the constriction forms. **प्रयत्न (*prayatna*)** sets the effort — the manner of the constriction, full contact or partial. **घोष (*ghoṣa*)** switches the voice — whether the vocal cords vibrate during the sound. **प्राण (*prāṇa*)** controls the breath-pressure from the lungs, toggling between light and heavy release. **अनुनासिक (*anunāsika*)** opens the nasal passage — whether resonance couples into the nose.
+
+Modern speech science uses different labels for the same five questions.[NOTE: place-of-articulation-sanskrit-terms]
 
 Sanskrit's old terminology still feels modern because it captures the operating conditions that produce sounds rather than labeling them by alphabetic habit.
 
@@ -82,7 +86,7 @@ The Sanskrit-only extraction lets the architecture reveal itself.[NOTE: varnamal
 >
 > Appendix Part 3 §3.5 applies this burden test to Brāhmī and Aramaic. An earlier symbol can suggest contact; it cannot explain a sound-grid it does not contain. Shape is not structure. Chronology is not causation.
 
-The contact grid supplies the main address axis: velar, palatal, retroflex, dental, labial. Sanskrit names them:
+The contact grid supplies the main address axis: velar, palatal, retroflex, dental, labial. Sanskrit labels them:
 
 | Place | Sanskrit term | Body location |
 |---|---|---|
