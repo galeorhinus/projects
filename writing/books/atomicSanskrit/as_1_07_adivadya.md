@@ -112,7 +112,7 @@ The five named *sthāna* are a specific selection from the possible places of co
 
 Alongside *sthāna* is **करण (*karaṇa*)** — the active articulator, the part that moves to make contact. The tongue is the principal *karaṇa*; the lower lip is the *karaṇa* for labial sounds. *Sthāna* is where contact occurs. *Karaṇa* is what moves to make it.[NOTE: karana-active-articulator]
 
-Three further systems complete the sound, and each is a switch the body throws one way or the other. **प्राण (*prāṇa*)** is breath-pressure: hold a palm to your mouth and say *k* — barely a stir (*alpaprāṇa*, light breath); say *kh* and a puff lands on your hand (*mahāprāṇa*, heavy breath). **घोष (*ghoṣa*)** is vocal-cord vibration: rest two fingers on your throat and say *sss* — nothing (*aghoṣa*, unvoiced); say *zzz* and the cords buzz under your fingers (*ghoṣa*, voiced). **अनुनासिक (*anunāsika*)** is nasal coupling: pinch your nose and say *b*, then *m* — *b* comes out fine, but *m* chokes off, because it needs the nasal passage the soft palate opens for it.
+Three further systems complete the sound, each acting as a binary switch. **प्राण (*prāṇa*)** manages the breath-pressure from the lungs, toggling between light (*alpaprāṇa*) and heavy (*mahāprāṇa*). **घोष (*ghoṣa*)** controls the vocal cords, leaving them silent (*aghoṣa*) or vibrating (*ghoṣa*). Finally, **अनुनासिक (*anunāsika*)** manages nasal coupling, dropping the soft palate to open the nasal cavity or raising it to close it.
 
 Each term designates a physical operation. The vocabulary maps directly onto physiology.
 
@@ -144,7 +144,11 @@ In modern phonetics, *sthāna* corresponds closely to place of articulation. *Pr
 
 *Prayatna* is the effort applied to that geometry. It divides into two layers. **आभ्यन्तर प्रयत्न (*ābhyantara prayatna*)** is internal effort: the contact or constriction type at the place. **बाह्य प्रयत्न (*bāhya prayatna*)** is external effort: voicing (***अनुप्रदान (*anupradāna*)*** — *śvāsa* breath versus *nāda* resonance), aspiration, breath pressure, and nasal coupling.[NOTE: abhyantara-bahya-prayatna][NOTE: svasa-nada-vivrta-samvrta-phonation]
 
-The full classification runs on many axes at once: where the sound is made, what moves to make it, whether the vocal cords vibrate, whether breath is forceful, whether the nose is coupled, how long the sound holds. Take one consonant through all of them. **घ (*gh*)** is made in the throat (*sthāna*: *kaṇṭhya*), with the back of the tongue as the mover (*karaṇa*), the vocal cords vibrating (*ghoṣa*: voiced), a hard push of breath behind it (*mahāprāṇa*: aspirated), the nose sealed (oral), held for one *mātrā*. Change a single value and the sound changes with it: drop the voicing and *gh* becomes *kh*; drop the breath and it becomes *g*; open the nose and it becomes *ṅ*. Every sound sits at its own address in that space — and the *varṇamālā* is the map of all the addresses.
+The full classification runs on multiple axes. It measures exactly where the sound is made, what moves to make it, and how the breath and vocal cords behave.
+
+Consider the sound **घ (*gh*)** that is placed in the throat (*kaṇṭhya*). The root of the tongue moves to strike it (*karaṇa*). The vocal cords are buzzing (*ghoṣa*), and a heavy push of breath drives it (*mahāprāṇa*). The nose remains sealed during all of this.
+
+Flip just one switch, and the output changes. Turn off the voicing, and *gh* becomes *kh*. Turn down the breath, and it becomes *g*. Open the nose, and it becomes *ṅ*. Every sound sits at its own specific address. The *varṇamālā* is the map of all those addresses.
 
 English phonetics reaches a parallel decomposition through another vocabulary: place, manner, voicing, aspiration, nasalization, duration. Sanskrit names *sthāna*, *karaṇa*, *prayatna*, *prāṇa*, *ghoṣa*, *anunāsika*, *anupradāna*, and *mātrā*. The systems describe the same instrument. Sanskrit's vocabulary is the vocabulary the architecture itself uses.
 
