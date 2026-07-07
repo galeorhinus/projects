@@ -112,7 +112,7 @@ The five named *sthāna* are a specific selection from the possible places of co
 
 Alongside *sthāna* is **करण (*karaṇa*)** — the active articulator, the part that moves to make contact. The tongue is the principal *karaṇa*; the lower lip is the *karaṇa* for labial sounds. *Sthāna* is where contact occurs. *Karaṇa* is what moves to make it.[NOTE: karana-active-articulator]
 
-Three further systems complete the sound, and each is a switch the body throws one way or the other. **प्राण (*prāṇa*)** is breath-pressure: hold a palm to your mouth and say *k* — barely a stir (*alpaprāṇa*, light breath); say *kh* and a puff lands on your hand (*mahāprāṇa*, heavy breath). **घोष (*ghoṣa*)** is vocal-cord vibration: rest two fingers on your throat and say *sss* — nothing (*aghoṣa*, unvoiced); say *zzz* and the cords buzz under your fingers (*ghoṣa*, voiced). **अनुनासिक (*anunāsika*)** is nasal coupling: pinch your nose and say *b*, then *m* — *b* comes out fine, but *m* chokes off, because it needs the nasal passage the soft palate opens for it.
+Three further systems complete the sound. **प्राण (*prāṇa*)** is breath-pressure from the lungs: *alpaprāṇa* or *mahāprāṇa*. **घोष (*ghoṣa*)** is vocal-cord vibration: *aghoṣa* or *ghoṣa*. **अनुनासिक (*anunāsika*)** is nasal coupling: the soft palate opens the nasal cavity or closes it.
 
 Each term designates a physical operation. The vocabulary maps directly onto physiology.
 
