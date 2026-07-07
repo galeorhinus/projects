@@ -30,7 +30,7 @@
 
 ### Category
 
-1. **Sanskrit's own name matters.** *Saṃskṛtam* points to completed order; *prākṛta* points to natural formation.
+1. **Sanskrit's own name matters.** *Saṃskṛtam* points to completed order; the contrast with *prākṛta* draws the line between the wholly made and the naturally formed.
 
 2. **The family-tree metaphor fails on Sanskrit.** Trees grow, branch, mutate, and decay. That metaphor may suit natural languages, but it cannot explain a language designed to resist drift.
 
@@ -56,11 +56,11 @@
 
 11. **Calling Indic scripts by a foreign typological label hides the achievement.** The achievement is articulated sound made visible through a pre-existing sound order.
 
-12. **The label "abugida" is too small for Indic scripts.** It sorts visible marks but never captures the sound-architecture those marks render; the book supplies a term for that architecture.
+12. **The label "abugida" files Indic scripts under a typology blind to the architecture.** It sorts the visible marks but not the sound those marks render; the book supplies a term for that architecture.
 
 ### Word Formation
 
-13. **The *dhātuḥ* is not a "root" in a botanical sense.** It is a stable structural constituent, closer to an atom in an engineered system than to the root of a plant.
+13. **The *dhātuḥ* is an atom, not a botanical organ.** It is a stable structural constituent, closer to an atom in an engineered system than to the root of a plant.
 
 14. **Sanskrit builds words from smaller stable units without losing structure.** Sounds form constituents; constituents form words; words form sentences. The lower levels remain traceable inside the higher ones.
 
@@ -76,7 +76,7 @@
 
 19. **The "oral tradition" label flattens a precise sound-preservation system into storytelling.** The book supplies vocabulary for the preservation modes English does not distinguish.
 
-20. **Vedic recitation is empirical evidence.** The recitation systems are redundancy systems that preserve sound with extraordinary precision.
+20. **Vedic recitation is empirical evidence.** The recitation systems are redundancy systems that preserve sound with precision.
 
 21. **The preservation system still runs.** Its strongest evidence is audible in recitation lineages today.
 
@@ -94,7 +94,7 @@
 
 27. **Similarity does not automatically mean descent.** Shared forms can arise from contact, prestige, teaching, ritual exchange, and long-term influence, not only from ancestry.
 
-28. **English and other European languages preserve Sanskritic reflections.** Words such as *mother*, *king*, and related families need to be re-examined without placing an imaginary ancestor above Sanskrit by default. The book proposes vocabulary for this reflection process without reducing it to ancestry.
+28. **English and other European languages preserve Sanskritic reflections.** Words such as *mother*, *king*, and related families call for re-examination that does not place an imaginary ancestor above Sanskrit. The book supplies vocabulary for the reflection without reducing it to ancestry.
 
 ### Recovery
 
