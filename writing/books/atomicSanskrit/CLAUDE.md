@@ -186,6 +186,12 @@ Substitutes for the Indic corpus: ***the Veda(s)***, ***śruti*** / ***the heard
 
 **Reserved for the Abrahamic side (keep *Scripture* / *scriptural*):** the Hebrew Bible, the Christian New Testament, the Qur'an, the Abrahamic *scriptural substrate*, and the ***Scripture*** mode itself — Ch 14 defines capital-*S* *Scripture* as the Abrahamic written-word preservation mode, contrasted with the Indic modes (*auditure*, *audiography*). Using *scripture* to **deny** that the Vedas reduce to it (Appendix Part 8; Ch 3 §3.8-adjacent — *"not reducible to scripture"*) is correct and stays. **Exemptions:** verbatim quotation (e.g., the missionary's *"translation of the Scriptures into Sanskrit"*), and the pyramid's reductive labeling of the Vedas being prosecuted (scare-quote on attribution).
 
+### *"Myth"* / *"mythology"* — never for the Indic corpus (*itihāsa* is history)
+
+*Myth* means, by definition, *a thing that did not happen* — falsehood built into the word. It never designates the Vedas, the *Itihāsa* (*Rāmāyaṇa*, *Mahābhārata*), the Purāṇas, or any Indic account in the book's own prose; calling them *myth* concedes the "it never happened" frame the book refuses. The Indic category is ***इतिहास (*itihāsa*)*** — *"thus it indeed was,"* remembered history, not fable. Substitutes: ***itihāsa*** / ***the Itihāsa corpus***, ***the received account***, ***the account*** / ***the narrative***, ***the Purāṇic record*** — by context.
+
+**Reserved for the pyramid side (keep *myth* / *mythology*):** the pyramid's *own* fabrications, where the "did-not-happen" charge is the point — the *founder-myth* of Pāṇini-as-codifier, the PIE *ancestor-myth*, the racial-Arya *mythology*. There *myth* is the correct pejorative. **Exemptions:** verbatim quotation, and the pyramid's own *myth*-labeling of Indic material being prosecuted (scare-quote on attribution). Parallel to the *demon* / *scripture* / *god* bans.
+
 ### Two axes, not one chronology — *vaidika / laukika* (domains) + *chandas / bhāṣā* (modes)
 
 **Reject "Vedic Sanskrit / Classical Sanskrit" as the named pair.** The dogma collapses Sanskrit's two-axis architecture into a one-line chronology: "Classical" is a Greco-Latin classroom-canon classification imported onto Sanskrit, and the implicit "later-than-Vedic" sequencing imports the foreign teleology along with the label.

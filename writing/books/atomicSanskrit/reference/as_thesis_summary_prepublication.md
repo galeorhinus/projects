@@ -16,11 +16,11 @@
 
 5. **The pyramid misclassifies Sanskrit.** It makes Sanskrit appear first as a naturally drifting language and then as a late grammatical norm. Both moves hide the continuous architecture.
 
-6. **Proto-Indo-European is an imagined ancestor placed above a real language.** Its starred forms are reconstructions, not speech. A reconstruction can summarize data; it cannot be the source of a word unless it corresponds to a form someone actually spoke.
+6. **Proto-Indo-European (PIE) is an imagined ancestor placed above a real language.** Its starred forms are reconstructions, not speech. A reconstruction can summarize data; it cannot be the source of a word unless it corresponds to a form someone actually spoke.
 
 7. **The data now points back to Sanskrit.** Sound structure, word-formation, preservation, and contact evidence all need an explanation the family-tree account cannot give.
 
-8. **The book proposes new vocabulary where inherited vocabulary fails.** Where an inherited label is too small for what it names, the book supplies a better one — held back until publication.
+8. **The book proposes new vocabulary where the pyramid's vocabulary misdirects.** Where an inherited label is too small for what it names, the book supplies a better one — held back until publication.
 
 9. **The reader inherits a responsibility.** Once the category is corrected, the reader takes up Sanskrit as a still-generative architecture and India's own inheritance — to learn, teach, and transmit.
 
@@ -72,7 +72,7 @@
 
 17. **Vedic recitation is the empirical proof, and it still runs.** The recitation systems preserve sound through layered redundancy; they remain audible in lineages today.
 
-18. **The Vedas preserve more than they are known to.** What the recitation has kept unbroken is something beyond hymn and ritual — and that something has sustained Sanātan itself. What it is, the book shows.
+18. **The Vedas preserve more than they are known to.** What the recitation has kept unbroken is something beyond hymn and beat — and that something has sustained Sanātan itself. What it is, the book shows.
 
 ### PIE, Arya, And Contact
 
