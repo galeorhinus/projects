@@ -30,7 +30,7 @@
 
 ### Category
 
-1. **Sanskrit's own name matters.** *Saṃskṛtam* points to completed order; the contrast with *prākṛta* draws the line between the wholly made and the naturally formed.
+1. **Sanskrit is wholly created.** Its own name, *saṃskṛtam*, places it in the category of completed order. The contrast with *prākṛta* draws the line between the wholly made and the naturally formed.
 
 2. **The family-tree metaphor fails on Sanskrit.** Trees grow, branch, mutate, and decay. That metaphor may suit natural languages, but it cannot explain a language designed to resist drift.
 
