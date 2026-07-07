@@ -28,6 +28,9 @@ Usage:
   python3 build_book.py pdf --endnotes short         # short-form endnotes (printed-book mode)
   python3 build_book.py pdf --endnotes full          # full-form endnotes (default — reference-grade)
   python3 build_book.py reference --layout trade     # Source and Reference Companion as standalone PDF
+  python3 build_book.py convert reference/as_thesis_summary.md        # any .md → build/<name>.pdf (letter)
+  python3 build_book.py convert notes.md --layout a4                  # A4 page size
+  python3 build_book.py convert notes.md -o out.pdf                   # custom output path
 
 Layouts:
   letter           8.5×11 paper, 1in margins. Manuscript review.
@@ -148,7 +151,9 @@ STUB_FILES = {
 
 # PDF page layouts. Each entry is a pandoc -V geometry:... value.
 LAYOUTS = {
-    "letter": "margin=1in",
+    "letter": "letterpaper,margin=1in",
+    # A4 with 1in margins — for the `convert` subcommand / non-US page size.
+    "a4": "a4paper,margin=1in",
     # ~4.5×7.5 text block centered on 8.5×11 — book-page mock-up on letter paper.
     "book-on-letter": "paperwidth=8.5in,paperheight=11in,textwidth=4.5in,textheight=7.5in,centering",
     # True 6×9 trim with book-style asymmetric margins (inner > outer for binding).
@@ -1035,6 +1040,76 @@ def cmd_reference(layout: str = "letter") -> int:
     return 0
 
 
+def cmd_convert(input_arg: str | None, layout: str = "letter", output_arg: str | None = None) -> int:
+    """Convert an arbitrary Markdown file to PDF using the book's font stack
+    (EB Garamond for Latin/IAST + the Devanagari preamble) — WITHOUT the book's
+    title-page metadata, so no "Atomic Sanskrit" title block is stamped on the
+    document. Output lands in build/ by default; override with -o."""
+    if not input_arg:
+        print("convert requires an input file, e.g.:  python3 build_book.py convert FILE.md", file=sys.stderr)
+        return 1
+    src = Path(input_arg)
+    if not src.is_absolute():
+        src = BOOK_DIR / src
+    if not src.exists():
+        print(f"Input not found: {input_arg}", file=sys.stderr)
+        return 1
+    if not have("pandoc"):
+        print("pandoc not found. Install via: brew install pandoc", file=sys.stderr)
+        return 1
+    if not have("xelatex"):
+        print("xelatex not found. Install via: brew install --cask basictex", file=sys.stderr)
+        return 1
+
+    BUILD_DIR.mkdir(exist_ok=True)
+    if output_arg:
+        pdf_path = Path(output_arg)
+        if not pdf_path.is_absolute():
+            pdf_path = BOOK_DIR / pdf_path
+    else:
+        pdf_path = BUILD_DIR / f"{src.stem}.pdf"
+
+    # Devanagari preamble (same substitution the book render uses), so
+    # देवनागरी renders with the configured font.
+    devanagari_font = read_yaml_value(METADATA_FILE, "devanagarifont")
+    preamble_text = PREAMBLE_TEMPLATE.read_text().replace("__DEVANAGARIFONT__", devanagari_font)
+    generated_preamble = BUILD_DIR / "devanagari-preamble.tex"
+    generated_preamble.write_text(preamble_text)
+
+    # Pull only the fonts from as_book.yaml (not the full metadata) — the Latin
+    # font carries the IAST diacritics; the title/header-includes are left out.
+    mainfont = read_yaml_value(METADATA_FILE, "mainfont")
+    fontsize = read_yaml_value(METADATA_FILE, "fontsize")
+
+    # Wrap non-Latin script runs (Devanagari, Tamil, …) in raw-LaTeX font
+    # groups — the same pass the book/reference builds run. The preamble only
+    # *defines* the script fonts; wrap_scripts_for_latex is what applies them,
+    # so without this step Devanagari falls back to the Latin mainfont.
+    tmp_md = BUILD_DIR / f"{src.stem}.for-pdf.md"
+    tmp_md.write_text(wrap_scripts_for_latex(src.read_text()))
+
+    cmd = [
+        "pandoc", str(tmp_md),
+        "-o", str(pdf_path),
+        "--pdf-engine=xelatex",
+        "-V", f"geometry:{LAYOUTS[layout]}",
+        "-V", f"mainfont={mainfont}",
+        "-V", f"fontsize={fontsize}",
+        "-H", str(generated_preamble),
+    ]
+    print(f"Converting {src.name} → {pdf_path.relative_to(BOOK_DIR)} (layout={layout})...")
+    result = subprocess.run(cmd, capture_output=True, text=True)
+    if result.returncode != 0:
+        print("PDF conversion FAILED. pandoc stderr:\n", file=sys.stderr)
+        print(result.stderr, file=sys.stderr)
+        return result.returncode
+    if result.stderr.strip():
+        print("pandoc warnings:")
+        print(result.stderr[:1000])
+    print(f"PDF → {pdf_path.relative_to(BOOK_DIR)}")
+    return 0
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(
         description="Atomic Sanskrit book builder.",
@@ -1043,11 +1118,23 @@ def main() -> int:
     )
     parser.add_argument(
         "phase",
-        choices=["stubs", "assemble", "pdf", "all", "reference", "promote-svgs", "grayscale-images"],
+        choices=["stubs", "assemble", "pdf", "all", "reference", "promote-svgs", "grayscale-images", "convert"],
         nargs="?",
         default="all",
         help="Pipeline phase to run (default: all). 'reference' builds the "
-             "Source and Reference Companion as a standalone PDF.",
+             "Source and Reference Companion as a standalone PDF. 'convert' "
+             "renders an arbitrary .md file to PDF (see the 'input' argument).",
+    )
+    parser.add_argument(
+        "input",
+        nargs="?",
+        default=None,
+        help="For 'convert': the Markdown file to render to PDF (output goes to build/<name>.pdf).",
+    )
+    parser.add_argument(
+        "-o", "--output",
+        default=None,
+        help="For 'convert': output PDF path (default: build/<name>.pdf).",
     )
     parser.add_argument(
         "--force",
@@ -1058,7 +1145,8 @@ def main() -> int:
         "--layout",
         choices=list(LAYOUTS),
         default="letter",
-        help="PDF page layout (default: letter). Only applies to pdf/all phases.",
+        help="PDF page layout (default: letter). Applies to pdf/all/reference/convert. "
+             "For 'convert', letter and a4 are the usual page sizes.",
     )
     parser.add_argument(
         "--endnotes",
@@ -1080,6 +1168,8 @@ def main() -> int:
         return cmd_pdf(layout=args.layout, endnotes_mode=args.endnotes)
     if args.phase == "reference":
         return cmd_reference(layout=args.layout)
+    if args.phase == "convert":
+        return cmd_convert(args.input, layout=args.layout, output_arg=args.output)
     if args.phase == "promote-svgs":
         return cmd_promote_svgs(force=args.force)
     if args.phase == "grayscale-images":
