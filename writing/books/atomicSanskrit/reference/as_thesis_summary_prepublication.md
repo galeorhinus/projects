@@ -72,7 +72,7 @@
 
 17. **Vedic recitation is the empirical proof, and it still runs.** The recitation systems preserve sound through layered redundancy; they remain audible in lineages today.
 
-18. **The Vedas preserve more than they are known to.** What the recitation has kept unbroken is something beyond hymn and rite — and that something has sustained Sanātan itself. What it is, the book shows.
+18. **The Vedas preserve more than they are known to.** What the recitation has kept unbroken is something beyond hymn and ritual — and that something has sustained Sanātan itself. What it is, the book shows.
 
 ### PIE, Arya, And Contact
 
