@@ -150,7 +150,7 @@ Consider the sound **घ (*gh*)** that is placed in the throat (*kaṇṭhya*). 
 
 Flip just one switch, and the output changes. Turn off the voicing, and *gh* becomes *kh*. Turn down the breath, and it becomes *g*. Open the nose, and it becomes *ṅ*. Every sound sits at its own specific address. The *varṇamālā* is the map of all those addresses.
 
-English phonetics reaches a parallel decomposition through another vocabulary: place, manner, voicing, aspiration, nasalization, duration. Sanskrit names *sthāna*, *karaṇa*, *prayatna*, *prāṇa*, *ghoṣa*, *anunāsika*, *anupradāna*, and *mātrā*. The systems describe the same instrument. Sanskrit's vocabulary is the vocabulary the architecture itself uses.
+Modern phonetics breaks down speech using its own labels: place, manner, voicing, aspiration, nasalization, and duration. The goal is to analyze the sounds that already exist in a language. Sanskrit maps the phonetic grid using *sthāna*, *karaṇa*, *prayatna*, *prāṇa*, *ghoṣa*, *anunāsika*, *anupradāna*, and *mātrā*. But Sanskrit's purpose is different. It is not engaged in anatomical analysis of what the mouth happens to do. It is describing the structural architecture that was engineered for the language.
 
 The opening syllable can now be heard anatomically. **ॐ (*oṃ*)**, unfolded as **अ-उ-म् (*a-u-m*)**, uses the same bodily systems the *varṇamālā* organizes: breath from the lungs, vibration at the vocal cords, resonance in the oral cavity, shaping and closure at the lips, and nasal coupling at the end. *Oṃ* compresses the whole anatomical field into one syllable.[NOTE: om-vocal-tract-macro-gesture]
  
