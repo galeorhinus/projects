@@ -149,54 +149,34 @@ The recipe reruns wherever it is pointed — the same imaginary race, the same i
 
 Sanskrit needs no devices, because the atom sits at the center, listed and self-explanatory. The derivations orbit it by stated rule. The living languages carry the cutting-words in daily mouths — a Kannada tailor's *kattari* is *kartarī*, the scissors, still cutting. Beyond the field, the rays land where the carriers took them, and trees grow at the landing points — *curt* and *cortex* on the Latin surface, *shirt* and *skirt* and *short* where the boundary-*s* rode along, *shear* and *share* where it did not. In Sanskrit the *s* has a source, a position, and a meaning. In PIE it has parentheses.
 
-## 18.6 Mother, Yoke, and the Dictionary Shift
+## 18.6 Kin, Kind, King: the Dictionary Shift
 
-The shift can be seen in *mother*. The *American Heritage Dictionary*, 3rd edition (1992), and the references that have followed it, extend the chain past real Sanskrit to a reconstructed PIE terminus:
+Open an English dictionary from before the bakers took the reference shelf, and the chain for *king* ends at a real word. James Donald's *Chambers's Etymological Dictionary* (1872) glosses it plainly:
 
-> *mother* ← *moder* (Middle English) ← *mōdor* (Old English) ← Proto-Germanic **\*mōdēr-** ← **PIE \*méh₂tēr-** *(reconstructed terminus)*  
-> *cognates:* Sanskrit *mātṛ-*, Greek μήτηρ (*mētēr*), Latin *māter*, Lithuanian *mótė*
+> **King** … *lit. the father of a people* … [A.S. *cyning* — *cyn*, offspring; **Sans. *ganaka*, father — root *gan*, to beget**.][NOTE: chambers-1872-king-kin]
 
-The same word, in *Merriam-Webster's Collegiate Dictionary*, 10th edition (1993), the routine American desk dictionary of the era, did not extend past real Sanskrit:
+No asterisk. No reconstructed ancestor floating above the entry. The chain runs back to a real Sanskrit word — *ganaka*, the begetter, the father — and stops, because that is where the real words stop. The *kin* entry does the same: *"akin to jan, to beget, root of Genus."* The nineteenth century wrote the *dhātuḥ* **⟪जन्⟫ (*jan*)** as *gan* or *jan* indifferently — the palatal softened, the root the same.
 
-> *mother* ← *moder* (Middle English) ← *mōdor* (Old English)  
-> *akin to:* OHG *muoter*, Latin *māter*, Greek μήτηρ (*mētēr*), **Sanskrit *mātṛ*** *(deepest cited form)*
+Skeat's *Etymological Dictionary* (1882) prints *genus* the same way: *"— √GAN, to beget; cf. Skt. jan, to beget… Doublet, kin."* Skeat's roots are his own reconstructions, drawn from Fick — yet he prints them **unstarred**, as bare capitals, and orders the whole list *"according to the alphabetical order of the Sanskrit alphabet."*[NOTE: skeat-aryan-roots-and-edition-drift] Real Sanskrit sits inside every chain; the reconstruction claims no throne above the data.
 
-And in early-19th-century philology — across the foundational works of the comparative-method machinery as it was being built[NOTE: early-19c-comparative-philology-bopp-pott] — Sanskrit was routinely placed at or near the source position of Indo-European etymological chains.
+Even Max Müller, who did more than anyone to build the racial frame this book prosecutes, ran his chains to real Sanskrit. In the *Lectures on the Science of Language* (1863) he sets *kin*, *genus*, and *king* beside *janas* and *janaka*: *"king… meant originally, like Sk. janaka, father."*[NOTE: muller-1863-janaka-king] Müller was a comparativist — to him Sanskrit was the best-preserved witness, not the parent, and he posited a common source above it. But the deepest real word he could point to was Sanskrit, and he wrote it plain, no star above it.
 
-Two things have happened in the displacement. The chain has been extended past real Sanskrit into reconstructed Proto-Germanic and then into reconstructed PIE. And Sanskrit, formerly at the chain's terminus, has been demoted to a cognate of equal status with Latin, Greek, Lithuanian. The displacement happened in stages — Sanskrit progressively demoted from *source* to *ancestor-among-siblings* to *cognate-among-many* — across nearly two centuries of philological development, with the cementing of the contemporary state visible largely in the past quarter-century.[NOTE: pre-pie-dictionary-shift]
+Then the asterisk moved. Not into existence — Schleicher had the mark in 1868 — but into the source slot, above the real forms, where a reader is trained to read it as the ancestor. Skeat's own dictionary records the move, edition to edition. The appendix headed *"List of Aryan Roots"* in 1882 becomes the *"List of Indogermanic Roots."* The *genus* entry that read *"(stem gener-)"* grows a starred form — *"(stem gener-, for \*genes-),"* now citing Brugmann. √GAN becomes √KN; √SKAR becomes √SKER; Fick and Curtius give way to Brugmann and Kluge. One reference work, its own successive editions, and the star climbs into place. Not one man's honesty failing — the reference culture moving, the bakers re-baking the shelf.[NOTE: pre-pie-dictionary-shift]
 
-The pyramid's account has a stock deflection for the *mother* case: the "nursery word" argument — the universal infant-babble cluster of *mama*-type forms across unrelated languages (Roman Jakobson, "Why 'Mama' and 'Papa'?", 1959), treated as a phonetic universal rather than evidence of cognation.[NOTE: jakobson-1959-nursery-words]
+Today the move is complete. Look up *king* now — Etymonline, the Oxford entries, the aggregators a reader actually consults — and the chain ends at **\*ǵenh₁-**, "to beget." *Janaka* survives as a cognate, one sibling in a list, several lines below the form nobody ever spoke.
 
-The deflection dies at *yoke*.
+The Sanskrit side never needed the star, because the architecture is on the page:
 
-*Yoke* is an implement, an agricultural technology, a specific cognate set no infant babbles. The same *Merriam-Webster's Collegiate*, 10th edition (1993), shows the same Sanskrit-at-terminus pattern for *yoke*:
+> **⟪जन्⟫ (*jan*, *dhātuḥ* — to beget, to be born) →**
+> **जनक (*janaka* — the begetter, the father); जन्म (*janma* — birth); जाति (*jāti* — birth, kind, class) →**
+> *bīja* in the receiving listener's mind →
+> **Latin *genus* / Greek *génos* / Old English *cyning* / English *king* (*apaśabdas*)**[NOTE: jan-dhatupatha-double-entry]
 
-> *yoke* ← *yok* ← *geoc* (Old English)  
-> *akin to:* OHG *joh*, Latin *iugum*, Greek ζυγόν (*zugón*), **Sanskrit *yuga*** *(deepest cited form)*
+One chain begins from a real *dhātuḥ* recorded in the Dhātupāṭha and unfolds by rule. The other begins from a form recorded nowhere.
 
-Contemporary entries extend past real Sanskrit to a reconstructed terminus:
+*King* carries the whole indictment. *The father of a people* — Chambers and Müller both glossed it so, from the Sanskrit begetter — once ran in the dictionaries beside a real, unstarred *janaka*. Later reference culture floated a starred ancestor above the entire family and moved the real Sanskrit into the cognate list. The begetter-word for the apex, the father of the people — and the machinery reconstructed an imaginary parent to stand even over that.
 
-> *yoke* ← *yok* ← *geoc* ← Proto-Germanic **\*jukam** ← **PIE \*yug-óm** *(from PIE \**yeug-* "to join")*  
-> *cognates:* Sanskrit *yuga-*, Latin *iugum*, Greek *zugón*, Lithuanian *jungas*, Hittite *iukan*
-
-The Sanskrit side has the architecture visible:
-
-> **⟪युज्⟫ (*yuj*, *dhātuḥ* "to join, to yoke") →**  
-> **युग (*yuga*, *śabda* — the yoking, the yoke) →**  
-> *bīja* in receiving listeners' minds →  
-> **Old English *geoc* / Latin *iugum* / Greek *zugón* / English *yoke* (*apaśabdas*)**
->
-> *atom → molecule → seed → sprout — life begins*
-
-One chain starts from a real Sanskrit *dhātu*. The other starts from a starred form.
-
-Across word categories the Sanskrit side is documented through the engineering architecture; only the contact-language end is treated by the Western philological account as a sibling of an invented PIE form. PIE is suspended above Sanskrit as an imaginary ancestor. It does not explain the ground from which Sanskrit actually rises. The ground is the Indian mouth, the Indian sound-field, the *varṇamālā*, the *dhātavaḥ*, the grammar, the *Vedas*, and the anti-entropy preservation system that has held the engineered architecture across thousands of years.
-
-PIE can organize a comparative label; it cannot supply an etymon. The asterisk signals a non-existence, and non-existence is not a source. The etymon of *mother* is Sanskrit *mātṛ*. The etymon of *father* is Sanskrit *pitṛ*. The reflections — **प्रतिबिम्ब (*Pratibimba*)** — that the calibrated languages carry are the calibrant's footprint, not evidence of a vanished ancestor.
-
-**The shared features prove Sanskrit is living speech. The unshared architecture proves it is engineered.**
-
-The reconstruction floats above the evidence. The Sanskrit system stands in plain sight.
+An imaginary people, speaking an imaginary language, built from imaginary words. The asterisk is the one visible confession — printed on the word, the language assembled from those words, the people posited to have spoken it. One mark, three fictions. The only real thing in the story is the Sanskrit it was reverse-engineered from.
 
 ## 18.7 *Pratibimba*
 
