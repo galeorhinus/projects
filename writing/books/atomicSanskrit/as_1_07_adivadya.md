@@ -52,6 +52,8 @@ The anatomy makes the instrument analogy concrete. A clarinet has one reed and a
 
 A consonant is an event of contact or near-contact.
 
+Two coordinates fix each one: a place and a manner. *Stop*, *fricative*, and *nasal* are manners — a stop is one manner of consonant, not a synonym for the whole class.
+
 Some part of the anatomy moves toward another part. The active articulator is usually the tongue or lower lip. The passive articulator may be the upper lip, teeth, alveolar ridge, hard palate, soft palate, uvula, pharynx, or glottis. Where the contact happens gives the sound its place: bilabial, dental, alveolar, retroflex, palatal, velar, uvular, pharyngeal, glottal.
 
 How the contact happens gives the sound its manner. A stop closes the passage and releases it. A fricative narrows the passage until turbulence appears. A nasal closes the mouth while opening the nose. An approximant comes close without producing turbulence. An affricate begins as a stop and releases as a fricative. Voicing and aspiration complete the profile: do the vocal cords vibrate, and how forcefully is breath released? English *p* at the start of *pin* releases with an audible puff; the same *p* in *spin* releases less. Some languages use that difference systematically; English leaves it contextual.
