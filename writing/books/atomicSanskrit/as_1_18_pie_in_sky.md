@@ -209,6 +209,8 @@ The *mother* family becomes clear:
 
 The chain just walked is *Pratibimba* operating through **vivimorphosis** — the engineered *śabda* of Sanskrit transforming into the organic *apaśabda* of a contact language across thousands of years of *apabhraṃśa*. Chapter 12 §12.5 gives the three-stage mechanism: **शब्द (*śabda*)** as the inorganic molecule on the calibrant's side; **बीज (*bīja*)** as the seed-state the molecule occupies in the head of a non-Sanskrit listener who has received it; **अपशब्द (*apaśabda*)** as the organic form that sprouts when the *bīja* is finally expressed in the receiving language. What Indo-European philology treats as reconstructed ancestry is precisely these expressed *bījas*.
 
+![Figure 18.6 — The Vivimorphosis of ⟪स्था⟫ (*sthā*). From engineered Sanskrit molecules to an organic language tree.](figures/pie_in_sky/stha_vivimorphosis.svg){#fig:ch18-stha-vivimorphosis width=100%}
+
 The same pattern appears in *devaḥ*:
 
 > **⟪दिव्⟫ (*div*, *dhātuḥ* "to shine") →**  
@@ -250,7 +252,7 @@ The vivimorphosis at the contact-language boundary holds the breath-bearer, not 
 
 The *apaśabda* *ahura* anchors the central theological vocabulary of the Zoroastrian tradition. The semantic transformation that accompanies the phonetic one — what *asura* means in the Sanskrit source and what *ahura* comes to mean in the Avestan recipient, and what the suric / asuric distinction holds forward as the cosmic backdrop for the political-architectural argument — is taken up in a forthcoming volume in the ***Second Shanti*** series. What this section isolates is the phonetic vivimorphosis: the same engineered form, transmitted into a contact language as the *Pratibimba* the Iranian religious imagination has held for the entire span of its tradition.
 
-[FIGURE 18.6: The pyramid's PIE reconstructions and the vivimorphosis chains shown side by side for *deva* and *asura*. The pyramid's etymology, Sanskrit *dhātu* / *śabda*, receiving-language *bīja*, and contact-language *apaśabda* across the rows.]
+[FIGURE 18.7: The pyramid's PIE reconstructions and the vivimorphosis chains shown side by side for *deva* and *asura*. The pyramid's etymology, Sanskrit *dhātu* / *śabda*, receiving-language *bīja*, and contact-language *apaśabda* across the rows.]
 
 | Stage | *deva* chain | *asura* chain |
 |---|---|---|
@@ -278,7 +280,7 @@ One *dhātu*. Four derivatives. One unified semantic field — seeing. The Sansk
 
 Now follow the cognates outward into the receiving languages — the English words the Western philological account itself acknowledges as cognates of this Sanskrit *dhātu*'s derivative family — and watch the machinery dismantle the unity:
 
-[FIGURE 18.7: One Sanskrit *dhātu*, multiple PIE ancestor-forms — *dṛś* as unified Sanskrit family versus the pyramid's split into **\*derḱ-**, **\*spek-**, and dropped or displaced visual cognates.]
+[FIGURE 18.8: One Sanskrit *dhātu*, multiple PIE ancestor-forms — *dṛś* as unified Sanskrit family versus the pyramid's split into **\*derḱ-**, **\*spek-**, and dropped or displaced visual cognates.]
 
 | English cognate | Proximate source | PIE attribution *(pyramid's account)* |
 |---|---|---|
