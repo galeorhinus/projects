@@ -153,7 +153,7 @@ STUB_FILES = {
 LAYOUTS = {
     "letter": "letterpaper,margin=1in",
     # A4 with 1in margins — for the `convert` subcommand / non-US page size.
-    "a4": "a4paper,margin=1in",
+    "a4": "a4paper,inner=0.3in,outer=0.2in,top=0.25in,bottom=0.15in",
     # ~4.5×7.5 text block centered on 8.5×11 — book-page mock-up on letter paper.
     "book-on-letter": "paperwidth=8.5in,paperheight=11in,textwidth=4.5in,textheight=7.5in,centering",
     # True 6×9 trim with book-style asymmetric margins (inner > outer for binding).

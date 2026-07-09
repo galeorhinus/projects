@@ -99,5 +99,3 @@
 28. **The work now is recognition and transmission.** Once the category is corrected, the next task is to learn, teach, and preserve Sanskrit on its own terms.
 
 ---
-
-The argument is here, in plain terms. The book's own vocabulary, its worked demonstrations, and the single image that runs from first page to last are reserved for the book.

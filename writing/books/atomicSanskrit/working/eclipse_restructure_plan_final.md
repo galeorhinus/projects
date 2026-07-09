@@ -19,7 +19,7 @@ Drawn from **Ṛgveda 5.40** (Svarbhānu eclipses Sūrya; the Atris alone recove
 | Figure | Maps to |
 |---|---|
 | **Sūrya** | Sanskrit — engineered, radiant, generative light |
-| **Svarbhānu** | the asuric pyramid — the masculine apex-form and its actor-network |
+| **Svarbhānu** | the asuric pyramid — the masculine apex-form and the layered hierarchy beneath him |
 | **Rāhu** | PIE — the eclipse-device / false head placed over Sanskrit |
 | **Atri / the Atris** | Hindus / *paramparā* — the caretakers who can find the Sun again |
 | ***dharmaḥ rakṣati rakṣitaḥ*** | why caretaking now requires action |

@@ -136,7 +136,7 @@ Two systems, one pattern: ten digits span arithmetic, the *dhātupāṭha* spans
 
 Sanskrit is held by an engineered transmission architecture.
 
-One visible form of that architecture is *guru-shishya paramparā* गुरुशिष्यपरम्परा — the teacher-student lineage-chain. *Guru* transmits to *shishya*; the *shishya* becomes the *guru* of the next *shishya*; the chain extends across thousands of years. The transmission is direct, personal, embodied. The student hears, repeats, is corrected, repeats again, and takes the corrected form forward. The architecture is larger than this one relation, but the relation shows the principle clearly: Sanskrit is held by trained continuity that includes memory and disciplines it.
+One visible form of that architecture is the transmission chain. *Guru* transmits to *shishya*; the *shishya* becomes the *guru* of the next *shishya*; the chain extends across thousands of years. The transmission is direct, personal, embodied. The student hears, repeats, is corrected, repeats again, and takes the corrected form forward. The architecture is larger than this one relation, but the relation shows the principle clearly: Sanskrit is held by trained continuity that includes memory and disciplines it.
 
 The hearing-repetition-correction cycle is the smallest visible unit of caretaking: correction without contempt, repetition without fatigue, memory with accountability. A mother correcting a child's Gītā recitation belongs to the same civilizational pattern as a Vedic teacher correcting a student's accent. Scale differs. The duty does not.
 
