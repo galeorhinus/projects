@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 725" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif">
+<rect x="0" y="0" width="1240" height="725" fill="#ffffff"/>
+<rect x="18" y="70" width="452" height="578" rx="14" fill="#f4f8fd" stroke="#dbe6f3"/>
+<rect x="486" y="70" width="212" height="578" rx="14" fill="#fffaf0" stroke="#f2e4c7"/>
+<rect x="714" y="70" width="512" height="578" rx="14" fill="#f5faf1" stroke="#dcecd1"/>
+<text x="620.0" y="38" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="26" fill="#111" text-anchor="middle" font-weight="bold" font-style="normal">Vivimorphosis — schematic  ·  √div</text>
+<text x="620.0" y="60" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="14" fill="#555" text-anchor="middle" font-weight="normal" font-style="normal">LEFT: engineered Sanskrit source (hexes)   ·   MIDDLE: radiance, no orbit   ·   RIGHT: organic foreign sprout (tree)</text>
+<text x="244" y="626" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="15" fill="#8a8a8a" text-anchor="middle" font-weight="bold" font-style="normal">ENGINEERED SOURCE</text>
+<text x="244" y="644" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="12.5" fill="#8a8a8a" text-anchor="middle" font-weight="normal" font-style="normal">dhātu + upasarga / pratyaya → śabdāḥ</text>
+<text x="592" y="626" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="15" fill="#8a8a8a" text-anchor="middle" font-weight="bold" font-style="normal">RADIANCE</text>
+<text x="592" y="644" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="12.5" fill="#8a8a8a" text-anchor="middle" font-weight="normal" font-style="normal">contact, not migration</text>
+<text x="1140" y="626" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="15" fill="#8a8a8a" text-anchor="middle" font-weight="bold" font-style="normal">VIVIMORPHOSIS</text>
+<text x="1140" y="644" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="12.5" fill="#8a8a8a" text-anchor="middle" font-weight="normal" font-style="normal">bīja → apaśabdāḥ</text>
+<line x1="175" y1="300" x2="300" y2="150" stroke="#3b6ea5" stroke-width="1.6" opacity="0.55"/>
+<text x="237.5" y="221.0" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="11" fill="#7a5a1a" text-anchor="middle" font-weight="normal" font-style="italic">+ac</text>
+<line x1="175" y1="300" x2="360" y2="300" stroke="#3b6ea5" stroke-width="1.6" opacity="0.55"/>
+<text x="267.5" y="296.0" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="11" fill="#7a5a1a" text-anchor="middle" font-weight="normal" font-style="italic">+yat</text>
+<line x1="175" y1="300" x2="300" y2="455" stroke="#3b6ea5" stroke-width="1.6" opacity="0.55"/>
+<text x="237.5" y="373.5" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="11" fill="#7a5a1a" text-anchor="middle" font-weight="normal" font-style="italic">+tal</text>
+<line x1="175" y1="300" x2="70" y2="300" stroke="#3b6ea5" stroke-width="1.6" opacity="0.55"/>
+<text x="122.5" y="296.0" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="11" fill="#7a5a1a" text-anchor="middle" font-weight="normal" font-style="italic">sky</text>
+<line x1="175" y1="300" x2="120" y2="140" stroke="#3b6ea5" stroke-width="1.6" opacity="0.55"/>
+<text x="147.5" y="216.0" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="11" fill="#7a5a1a" text-anchor="middle" font-weight="normal" font-style="italic">day</text>
+<line x1="300" y1="150" x2="410" y2="120" stroke="#3b6ea5" stroke-width="1.4" opacity="0.5"/>
+<text x="400" y="90" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="11" fill="#7a5a1a" text-anchor="middle" font-weight="normal" font-style="italic">+ṅīp</text>
+<polygon points="241.0,300.0 208.0,357.2 142.0,357.2 109.0,300.0 142.0,242.8 208.0,242.8" fill="#fbe6bf" stroke="#c88a2c" stroke-width="3.5"/>
+<text x="175" y="294" font-family="'Noto Sans Devanagari','Devanagari Sangam MN','Kohinoor Devanagari',sans-serif" font-size="32" fill="#5a3a06" text-anchor="middle" font-weight="bold" font-style="normal">दिव्</text>
+<text x="175" y="316" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="15" fill="#5a3a06" text-anchor="middle" font-weight="normal" font-style="italic">div</text>
+<text x="175" y="333" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="12" fill="#5a3a06" text-anchor="middle" font-weight="normal" font-style="normal">“to shine”</text>
+<polygon points="346.0,150.0 323.0,189.8 277.0,189.8 254.0,150.0 277.0,110.2 323.0,110.2" fill="#dbe6f3" stroke="#3b6ea5" stroke-width="2.5"/>
+<text x="300" y="144" font-family="'Noto Sans Devanagari','Devanagari Sangam MN','Kohinoor Devanagari',sans-serif" font-size="20" fill="#123152" text-anchor="middle" font-weight="bold" font-style="normal">देव</text>
+<text x="300" y="163" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="12.5" fill="#123152" text-anchor="middle" font-weight="normal" font-style="italic">deva</text>
+<text x="300" y="177" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="10.5" fill="#123152" text-anchor="middle" font-weight="normal" font-style="normal">the shining one</text>
+<polygon points="406.0,300.0 383.0,339.8 337.0,339.8 314.0,300.0 337.0,260.2 383.0,260.2" fill="#dbe6f3" stroke="#3b6ea5" stroke-width="2.5"/>
+<text x="360" y="294" font-family="'Noto Sans Devanagari','Devanagari Sangam MN','Kohinoor Devanagari',sans-serif" font-size="20" fill="#123152" text-anchor="middle" font-weight="bold" font-style="normal">दिव्य</text>
+<text x="360" y="313" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="12.5" fill="#123152" text-anchor="middle" font-weight="normal" font-style="italic">divya</text>
+<text x="360" y="327" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="10.5" fill="#123152" text-anchor="middle" font-weight="normal" font-style="normal">divine</text>
+<polygon points="346.0,455.0 323.0,494.8 277.0,494.8 254.0,455.0 277.0,415.2 323.0,415.2" fill="#dbe6f3" stroke="#3b6ea5" stroke-width="2.5"/>
+<text x="300" y="449" font-family="'Noto Sans Devanagari','Devanagari Sangam MN','Kohinoor Devanagari',sans-serif" font-size="20" fill="#123152" text-anchor="middle" font-weight="bold" font-style="normal">देवता</text>
+<text x="300" y="468" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="12.5" fill="#123152" text-anchor="middle" font-weight="normal" font-style="italic">devatā</text>
+<text x="300" y="482" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="10.5" fill="#123152" text-anchor="middle" font-weight="normal" font-style="normal">divinity</text>
+<polygon points="114.0,300.0 92.0,338.1 48.0,338.1 26.0,300.0 48.0,261.9 92.0,261.9" fill="#dbe6f3" stroke="#3b6ea5" stroke-width="2.5"/>
+<text x="70" y="294" font-family="'Noto Sans Devanagari','Devanagari Sangam MN','Kohinoor Devanagari',sans-serif" font-size="20" fill="#123152" text-anchor="middle" font-weight="bold" font-style="normal">द्यौः</text>
+<text x="70" y="313" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="12.5" fill="#123152" text-anchor="middle" font-weight="normal" font-style="italic">dyauḥ</text>
+<text x="70" y="327" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="10.5" fill="#123152" text-anchor="middle" font-weight="normal" font-style="normal">sky / Dyaus</text>
+<polygon points="164.0,140.0 142.0,178.1 98.0,178.1 76.0,140.0 98.0,101.9 142.0,101.9" fill="#dbe6f3" stroke="#3b6ea5" stroke-width="2.5"/>
+<text x="120" y="134" font-family="'Noto Sans Devanagari','Devanagari Sangam MN','Kohinoor Devanagari',sans-serif" font-size="20" fill="#123152" text-anchor="middle" font-weight="bold" font-style="normal">दिवस</text>
+<text x="120" y="153" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="12.5" fill="#123152" text-anchor="middle" font-weight="normal" font-style="italic">divasa</text>
+<text x="120" y="167" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="10.5" fill="#123152" text-anchor="middle" font-weight="normal" font-style="normal">daytime</text>
+<polygon points="450.0,120.0 430.0,154.6 390.0,154.6 370.0,120.0 390.0,85.4 430.0,85.4" fill="#dbe6f3" stroke="#3b6ea5" stroke-width="2.5"/>
+<text x="410" y="114" font-family="'Noto Sans Devanagari','Devanagari Sangam MN','Kohinoor Devanagari',sans-serif" font-size="20" fill="#123152" text-anchor="middle" font-weight="bold" font-style="normal">देवी</text>
+<text x="410" y="133" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="12.5" fill="#123152" text-anchor="middle" font-weight="normal" font-style="italic">devī</text>
+<text x="410" y="147" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="10.5" fill="#123152" text-anchor="middle" font-weight="normal" font-style="normal">Devī</text>
+<line x1="705" y1="90" x2="705" y2="612" stroke="#c9a24a" stroke-width="1.6" stroke-dasharray="7 6"/>
+<text x="705" y="84" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="11.5" fill="#a07d2a" text-anchor="middle" font-weight="normal" font-style="italic">receiving-field edge</text>
+<text x="430" y="208" font-family="'Noto Sans Devanagari','Devanagari Sangam MN','Kohinoor Devanagari',sans-serif" font-size="12.5" fill="#b5872f" text-anchor="start" font-weight="normal" font-style="italic">देवः (devaḥ) radiates ↘</text>
+<line x1="348" y1="150" x2="773" y2="538" stroke="#e0a53a" stroke-width="2" opacity="0.5"/>
+<line x1="348" y1="150" x2="776" y2="546" stroke="#e0a53a" stroke-width="2" opacity="0.5"/>
+<line x1="348" y1="150" x2="779" y2="552" stroke="#e0a53a" stroke-width="2" opacity="0.5"/>
+<line x1="348" y1="150" x2="781" y2="556" stroke="#e0a53a" stroke-width="2" opacity="0.5"/>
+<line x1="348" y1="150" x2="783" y2="558" stroke="#e0a53a" stroke-width="2" opacity="0.5"/>
+<text x="555" y="250" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="12" fill="#b5872f" text-anchor="middle" font-weight="normal" font-style="italic">the light travels</text>
+<text x="660" y="470" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="11.5" fill="#b5872f" text-anchor="start" font-weight="normal" font-style="italic">the seed the light dropped ↘</text>
+<line x1="726" y1="558" x2="1214" y2="558" stroke="#8a6a4a" stroke-width="2.5"/>
+<ellipse cx="792" cy="558" rx="16" ry="11" fill="#b98a4a" stroke="#7a5a2a" stroke-width="2"/>
+<text x="792" y="584" font-family="'Noto Sans Devanagari','Devanagari Sangam MN','Kohinoor Devanagari',sans-serif" font-size="12" fill="#6a4a1a" text-anchor="middle" font-weight="normal" font-style="normal">बीज (bīja) — seed</text>
+<path d="M792,558 C 802,480 832,430 860,370 S 905,320 905,300" fill="none" stroke="#8a6a4a" stroke-width="9" stroke-linecap="round"/>
+<path d="M890,330 Q860,220 905,150" fill="none" stroke="#8a6a4a" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="905" cy="132" rx="58" ry="24" fill="#d3e6c4" stroke="#5a8f4e" stroke-width="2"/>
+<text x="905" y="129" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="13.5" fill="#254a1c" text-anchor="middle" font-weight="bold" font-style="italic">Zeus</text>
+<text x="905" y="145" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="11.5" fill="#254a1c" text-anchor="middle" font-weight="normal" font-style="normal">(gen. Diós) — Greek</text>
+<path d="M900,320 Q960,210 1010,150" fill="none" stroke="#8a6a4a" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="1010" cy="138" rx="58" ry="24" fill="#d3e6c4" stroke="#5a8f4e" stroke-width="2"/>
+<text x="1010" y="135" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="13.5" fill="#254a1c" text-anchor="middle" font-weight="bold" font-style="italic">deus</text>
+<text x="1010" y="151" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="11.5" fill="#254a1c" text-anchor="middle" font-weight="normal" font-style="normal">→ deity — Latin</text>
+<path d="M905,315 Q1030,235 1120,205" fill="none" stroke="#8a6a4a" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="1120" cy="200" rx="58" ry="24" fill="#d3e6c4" stroke="#5a8f4e" stroke-width="2"/>
+<text x="1120" y="197" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="13.5" fill="#254a1c" text-anchor="middle" font-weight="bold" font-style="italic">dīvus</text>
+<text x="1120" y="213" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="11.5" fill="#254a1c" text-anchor="middle" font-weight="normal" font-style="normal">→ divine · diva</text>
+<path d="M905,325 Q1030,320 1120,300" fill="none" stroke="#8a6a4a" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="1120" cy="300" rx="58" ry="24" fill="#d3e6c4" stroke="#5a8f4e" stroke-width="2"/>
+<text x="1120" y="297" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="13.5" fill="#254a1c" text-anchor="middle" font-weight="bold" font-style="italic">Iuppiter</text>
+<text x="1120" y="313" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="11.5" fill="#254a1c" text-anchor="middle" font-weight="normal" font-style="normal">→ Jove · jovial</text>
+<path d="M895,345 Q1010,395 1115,398" fill="none" stroke="#8a6a4a" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="1115" cy="398" rx="58" ry="24" fill="#d3e6c4" stroke="#5a8f4e" stroke-width="2"/>
+<text x="1115" y="395" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="13.5" fill="#254a1c" text-anchor="middle" font-weight="bold" font-style="italic">diēs</text>
+<text x="1115" y="411" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="11.5" fill="#254a1c" text-anchor="middle" font-weight="normal" font-style="normal">→ diurnal · journal</text>
+<path d="M870,380 Q905,440 972,452" fill="none" stroke="#8a6a4a" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="972" cy="452" rx="58" ry="24" fill="#d3e6c4" stroke="#5a8f4e" stroke-width="2"/>
+<text x="972" y="449" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="13.5" fill="#254a1c" text-anchor="middle" font-weight="bold" font-style="italic">Tīw</text>
+<text x="972" y="465" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="11.5" fill="#254a1c" text-anchor="middle" font-weight="normal" font-style="normal">→ Tuesday — Germanic</text>
+<text x="905" y="108" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="11" fill="#5a8f4e" text-anchor="middle" font-weight="bold" font-style="normal">GREEK</text>
+<text x="1120" y="168" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="11" fill="#5a8f4e" text-anchor="middle" font-weight="bold" font-style="normal">LATIN</text>
+<text x="972" y="486" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="11" fill="#5a8f4e" text-anchor="middle" font-weight="bold" font-style="normal">GERMANIC</text>
+<rect x="792" y="500" width="418" height="40" rx="8" fill="#eef6e7" stroke="#5a8f4e"/>
+<text x="1001" y="517" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="14.5" fill="#254a1c" text-anchor="middle" font-weight="bold" font-style="normal">KEYSTONE:  Dyauḥ-pitā  =  Zeus-patḗr  =  Iuppiter</text>
+<text x="1001" y="533" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="11.5" fill="#254a1c" text-anchor="middle" font-weight="normal" font-style="italic">the same shining sky-father, reflected three ways</text>
+<path d="M792,558 C 784,610 758,642 746,672" fill="none" stroke="#9a9a9a" stroke-width="4" stroke-dasharray="6 6"/>
+<path d="M792,558 C 800,610 826,642 840,674" fill="none" stroke="#9a9a9a" stroke-width="4" stroke-dasharray="6 6"/>
+<line x1="752" y1="676" x2="836" y2="612" stroke="#c0392b" stroke-width="2.6"/>
+<text x="1010" y="690" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="13" fill="#c0392b" text-anchor="middle" font-weight="bold" font-style="normal">✗  *dyew-  (reconstructed PIE) — the root the pyramid imagines</text>
+<text x="1010" y="708" font-family="'EB Garamond','Gentium Plus','Charis SIL','Times New Roman',serif" font-size="11" fill="#c0392b" text-anchor="middle" font-weight="normal" font-style="italic">no trunk descends; the seed came from the light, not from below</text>
+</svg>
