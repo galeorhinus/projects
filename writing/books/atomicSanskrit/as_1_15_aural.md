@@ -1,6 +1,8 @@
 # Chapter 15 — Aural Architecture
 
-After the calibration matrix comes sound, where formed Speech holds her radiance as audible preservation (Chapter 9).
+What Speech revealed as mantra has been ringing out continuously for thousands of years.
+
+The Veda is heard as recitation: breath, pitch, duration, accent, sequence, correction, and lineage. A syllable appears and vanishes, but the trained system catches it before it can drift. The mouth produces; the ear verifies; the teacher corrects; the community hears. This is Auditure in operation.
 
 This preservation is audible in the *pāṭhas* — living recitation systems maintained in identifiable lineages, taught in *gurukulas*, examined by teachers, performed before communities, and available to the ear.
 

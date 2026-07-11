@@ -1,10 +1,26 @@
 # Chapter 2 — Category Theft and Āsurī Māyā
 
+::: epigraph
+
+> मायाभिरिन्द्र मायिनं त्वं शुष्णमवातिरः ।\
+> विदुष्टे तस्य मेधिरास्तेषां श्रवांस्युत्तिर ॥
+>
+> *māyābhir indra māyinaṃ tvaṃ śuṣṇam avātiraḥ |*\
+> *viduṣ ṭe tasya medhirās teṣāṃ śravāṃsy ut tira ||*
+>
+> With *māyās*, O Indra, you struck down the *māyin* Śuṣṇa. The wise know this deed of yours; raise their renown.
+>
+> `\hfill`{=latex}*— Ṛgveda 1.11.7*[NOTE: rigveda-1-11-7-maya-mayin]
+
+:::
+
+\bigskip
+
 ---
 
 ## 2.1 The Category Move
 
-The first charge is category theft: Sanskrit was made to answer inside the pyramid's category.
+The first charge is category theft: Sanskrit was miscategorized by the pyramid.
 
 The theft works through **आसुरी माया (*āsurī māyā*)**. The charge is not *māyā* itself. Sanskrit knows *māyā* as power, measure, formation, appearance, and skill. The question is purpose. In asuric hands, *māyā* becomes a weapon of concealment: the false category is made to appear natural, and the true category is made to disappear before the evidence is heard.
 

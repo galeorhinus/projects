@@ -6,7 +6,7 @@ The matrix is **दिव्य (*divya*)** in the precise sense used here: radi
 
 This is the radiant matrix.
 
-The Vedic form of the same claim is (Chapter 9): ***bhadrā eṣām lakṣmīḥ nihitā adhi vāci*** — auspicious radiance is placed in Speech. The sieve and the garland showed how the sound-field becomes ordered Speech. The remaining question is how that radiance is held. The answer is the matrix: sound, meter, grammar, memory, and lineage acting together as calibration.
+The Vedic form of the same claim is (Chapter 9): भद्रा एषाम् लक्ष्मीः निहिता अधि वाचि (*bhadrā eṣām lakṣmīḥ nihitā adhi vāci*) — auspicious radiance is placed in Speech. The sieve and the garland showed how the sound-field becomes ordered Speech. The remaining question is how that radiance is held. The answer is the matrix: sound, meter, grammar, memory, and lineage acting together as calibration.
 
 Under the pyramid's clock, the *Vedas* shrink to early literature: old texts, "scripture," ritual material, and chronological evidence, valued mainly for dating *"Vedic Sanskrit."* The matrix answers that too. The *Vedas* are not a corpus waiting to be dated; they are encoded perfection, held across generations by sound, meter, recitation, lineage, and calibration. What the clock files as early is in fact the most precisely preserved.
 

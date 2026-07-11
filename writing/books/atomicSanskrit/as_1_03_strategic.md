@@ -1,5 +1,21 @@
 # Chapter 3 — Motive and Method
 
+::: epigraph
+
+> वि तिष्ठध्वं मरुतो विक्ष्विच्छत गृभायत रक्षसः सं पिनष्टन ।\
+> वयो ये भूत्वी पतयन्ति नक्तभिर्ये वा रिपो दधिरे देवे अध्वरे ॥
+>
+> *vi tiṣṭhadhvaṃ maruto vikṣv icchata gṛbhāyata rakṣasaḥ saṃ pinaṣṭana |*\
+> *vayo ye bhūtvī patayanti naktabhir ye vā ripo dadhire deve adhvare ||*
+>
+> Spread among the people, O Maruts; seek them out. Seize the rākṣasas and crush them: those who fly by night in the form of birds, and those who bring hostility into the sacred and peaceful ceremony.
+>
+> `\hfill`{=latex}*— Ṛgveda 7.104.18*[NOTE: rigveda-7-104-18-rakshasas-night]
+
+:::
+
+\bigskip
+
 ---
 
 ## 3.1 Why the Tree Survived

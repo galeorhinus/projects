@@ -250,10 +250,22 @@ The *varṇamālā* is the sonomeric sūtra. Pāṇini's Māheśvara-sūtras mak
 
 The Vedic mantra describes the operation: Speech is sifted like grain. The field is abundant; the sieve curates usable measure from abundance. The *varṇamālā* is that measure in sound: compact, ordered, body-mapped, timed, teachable, and stable.
 
+The next mantra goes on from selection to transmission:
+
+> यज्ञेन वाचः पदवीयमायन्तामन्वविन्दन्नृषिषु प्रविष्टाम् ।\
+> तामाभृत्या व्यदधुः पुरुत्रा तां सप्त रेभा अभि सं नवन्ते ॥
+>
+> *yajñena vācaḥ padavīyam āyan tām anv avindann ṛṣiṣu praviṣṭām |*\
+> *tām ābhṛtyā vy adadhuḥ purutrā tāṃ sapta rebhā abhi saṃ navante ||*
+>
+> Through yajña they followed the path of Speech; they found her entered into the ṛṣis. Bringing her forth, they distributed her widely; the seven singers resounded toward her.[NOTE: rigveda-10-71-3-path-vak]
+
+The verse preserves the order: path, discovery, embodiment in the ṛṣis, and distribution. The *varṇamālā* is the first visible grid in that distribution: selected sound, placed sound, teachable sound.
+
 This is the first major scale in the fractal sequence. Oṃ compressed the whole instrument into one syllable. The *varṇamālā* selects from the sound-field and presents the first visible Sanskritic grid. The next recurrence is the *dhātuḥ*: the semantic atom displays the same discipline at a higher scale.
 
 The scale-chain:
 
 > instrument → sound-field → Vedic sieve → *varṇamālā* → atom
 
-The instrument has been mapped. The field has been surveyed. The sieve and the selected grid are now visible. Sanskrit has measured sonomers. The system next builds the **धातुः (*dhātuḥ*)**, the semantic atom.
+So far, the instrument has been mapped and the field has been surveyed. Sanskrit has measured sonomers, selected through the Vedic sieve and placed in a grid. The system next builds the **धातुः (*dhātuḥ*)**, the semantic atom using these measured sonomers.

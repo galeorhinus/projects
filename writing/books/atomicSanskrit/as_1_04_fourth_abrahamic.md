@@ -1,5 +1,21 @@
 # Chapter 4 — The Fourth Abrahamic Religion
 
+::: epigraph
+
+> दासपत्नीरहिगोपा अतिष्ठन्निरुद्धा आपः पणिनेव गावः ।\
+> अपां बिलमपिहितं यदासीद्वृत्रं जघन्वाँ अप तद्ववार ॥
+>
+> *dāsapatnīr ahigopā atiṣṭhan niruddhā āpaḥ paṇineva gāvaḥ |*\
+> *apāṃ bilam apihitaṃ yad āsīd vṛtraṃ jaghanvām̐ apa tad vavāra ||*
+>
+> The waters stood obstructed, guarded by Ahi, like cows held by a Paṇi. When the opening of the waters had been covered, he struck Vṛtra and opened it.
+>
+> `\hfill`{=latex}*— Ṛgveda 1.32.11*[NOTE: rv-1-32-vrtra]
+
+:::
+
+\bigskip
+
 ---
 
 ## 4.1 The Fourth Religion

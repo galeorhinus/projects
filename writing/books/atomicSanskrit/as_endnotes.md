@@ -108,6 +108,28 @@ Source basis: Ṛgveda 10.71.2 in the *Vāk-sūkta*, attributed in the *Anukrama
 
 ---
 
+### `rigveda-10-71-3-path-vak`
+
+**Short:** Ṛgveda 10.71.3 continues the Chapter 9 epigraph sequence: the path of Speech is followed, Speech is found entered into the ṛṣis, then brought forth and distributed widely. Chapter 9 uses the verse at the close to move from the Vedic sieve to the visible grid of the *varṇamālā*.
+
+**Deployments:** Chapter 9 §9.10 close, after the return to the RV 10.71.2 sieve.
+
+The quoted mantra is Ṛgveda 10.71.3:
+
+> यज्ञेन वाचः पदवीयमायन्तामन्वविन्दन्नृषिषु प्रविष्टाम् ।\
+> तामाभृत्या व्यदधुः पुरुत्रा तां सप्त रेभा अभि सं नवन्ते ॥
+>
+> *yajñena vācaḥ padavīyam āyan tām anv avindann ṛṣiṣu praviṣṭām |*\
+> *tām ābhṛtyā vy adadhuḥ purutrā tāṃ sapta rebhā abhi saṃ navante ||*
+
+Working translation: *Through yajña they followed the path of Speech; they found her entered into the ṛṣis. Bringing her forth, they distributed her widely; the seven singers resounded toward her.*
+
+The verse follows the Chapter 9 epigraph directly. Verse 10.71.2 gives the sieve: Speech refined by the wise with the mind. Verse 10.71.3 gives the transmission sequence: path, discovery, entry into the ṛṣis, bringing forth, distribution, and resonance. Chapter 9 uses that sequence to close the *varṇamālā* argument: the selected sound-grid is the first visible, teachable form through which Speech is distributed.
+
+Source basis: Ṛgveda 10.71.3; the accented saṃhitā text checked during drafting against the SanskritDocuments Rigveda Mandala 10 display, which prints the verse at 10.071.03. Final production should verify accenting, padapāṭha, and translation choices against the selected printed Ṛgveda edition.
+
+---
+
 ### `rigveda-8-100-11-vak-blessing`
 
 **Short:** Ṛgveda 8.100.11 supplies the Vāk-blessing near the Epilogue's close. After the architecture of formed Speech has been traced, this verse asks divine Speech to approach as nourishment: spoken by all beings, well-praised, and yielding refreshment and strength.
@@ -130,7 +152,7 @@ The DCS pada record separates the verse as ***devīm vācam ajanayanta devāḥ*
 
 **Short:** Ṛgveda 10.71.4 gives the Preface its governing perception-frame: one may look and still not see *vāk*; one may listen and still not hear her. The feminine pronoun follows Sanskrit grammar: *vāk* (वाक्, speech) is feminine, and the verse's object pronoun *enām* (एनाम्) is feminine accusative singular. The first half frames Sanskrit's modern reception: the architecture has been visible and audible, but the pyramid has failed to perceive it. The second half is held for the *mantra-dṛṣṭāḥ* discussion: Speech reveals her body only to the one capable of seeing.
 
-**Deployments:** Preface opening epigraph.
+**Deployments:** Preface opening epigraph; Chapter 13 opening epigraph and §13.1 bridge.
 
 #### Padapāṭha (word-separated form)
 
@@ -188,6 +210,30 @@ The line belongs to the *Vāk* hymn, where speech is present but not equally acc
 The Preface reveals the verse in two movements. The first half stands at the threshold: Sanskrit was not hidden. It was recited, taught, parsed, catalogued, and printed. The failure was not absence of evidence. It was failure of perception — looking without seeing, listening without hearing. The second half is activated when the Preface introduces the *mantra-dṛṣṭāḥ*: ***tanvaṃ vi sasre*** says that Speech "revealed / spread out her body" to the one capable of seeing, compared in the verse to a willing, well-dressed wife before her husband. The point is not ornamental metaphor. It is the Indic epistemic claim: the seers did not manufacture speech; Speech revealed herself.
 
 The seer-function is not gender-bound. The most ontologically radical *mantra-dṛṣṭā* moment in the corpus — *Vāk* declaring her own primordiality in the first person — is recorded through a female *ṛṣikā*: ***Vāk Ambhṛṇī*** (वाक् आम्भृणी), the seer of Ṛgveda 10.125 in the *Anukramaṇī*. The lineage did not need modern correction to admit this; it was already there in the received index. The Preface therefore keeps the RV 10.71.4 wife-image inside its proper frame: a metaphor of revelation, not a restriction on who may see, by citing the lineage's women seers — *ṛṣikāḥ* and *brahmavādinyaḥ* such as Lopāmudrā, Apālā, Viśvavārā, Ghoṣā, and Vāk Ambhṛṇī. See `rigveda-10-125-vak-ambhrini` for the full hymn, source basis, and three-layer structural argument.
+
+Chapter 13 uses the same verse for the preservation problem. Speech may be visible and audible, yet not truly seen or heard. The Veda therefore requires more than storage: it requires the architecture that produces the prepared listener — trained ear, trained mouth, recitational discipline, correction, and lineage — to whom Speech can reveal herself.
+
+---
+
+### `rigveda-1-164-45-four-quarters-vak`
+
+**Short:** Ṛgveda 1.164.45 supplies Chapter 8's caution: human beings speak only the fourth quarter of Speech; the deeper three remain hidden to ordinary utterance. The chapter therefore begins with the visible sound-field rather than claiming to exhaust *vāk*.
+
+**Deployments:** Chapter 8 opening epigraph and §8.1 bridge.
+
+The quoted mantra is Ṛgveda 1.164.45:
+
+> चत्वारि वाक्परिमिता पदानि तानि विदुर्ब्राह्मणा ये मनीषिणः ।\
+> गुहा त्रीणि निहिता नेङ्गयन्ति तुरीयं वाचो मनुष्या वदन्ति ॥
+>
+> *catvāri vāk parimitā padāni tāni vidur brāhmaṇā ye manīṣiṇaḥ |*\
+> *guhā trīṇi nihitā neṅgayanti turīyaṃ vāco manuṣyā vadanti ||*
+
+Working translation: *Speech has four measured quarters. The wise know them. Three are hidden in the cave and do not move; human beings speak the fourth.*
+
+The verse belongs to Ṛgveda 1.164, the same riddle-hymn that later supplies Chapter 12's *akṣara* epigraph at 1.164.39. Its force in Chapter 8 is methodological. The spoken mouth-field is real, measurable, and necessary, but it is not the whole of *vāk*. The chapter therefore starts from the fourth quarter — the audible, embodied sound-field — while keeping the hidden depth of Speech in view.
+
+Source basis: standard Ṛgveda text; final production should verify accenting and exact saṃhitā / padapāṭha against the selected printed edition. See also `rigveda-1-164-39-akshara-assembly`, which discusses the same hymn's *akṣara* cluster and notes 1.164.45 as part of that speech-field.
 
 ---
 
@@ -843,13 +889,59 @@ Source: *Nirukta* 3.8, Sarup's edition; the core fragment independently corrobor
 
 ---
 
+### `rigveda-1-11-7-maya-mayin`
+
+**Short:** Ṛgveda 1.11.7 gives Chapter 2 its Vedic distinction: *māyā* is not the problem; *āsurī māyā* is. Indra defeats the *māyin* Śuṣṇa with *māyās* of his own, so the verse marks skill and power by purpose, not by the word alone.
+
+**Deployments:** Chapter 2 opening epigraph.
+
+The quoted mantra is Ṛgveda 1.11.7:
+
+> मायाभिरिन्द्र मायिनं त्वं शुष्णमवातिरः ।\
+> विदुष्टे तस्य मेधिरास्तेषां श्रवांस्युत्तिर ॥
+>
+> *māyābhir indra māyinaṃ tvaṃ śuṣṇam avātiraḥ |*\
+> *viduṣ ṭe tasya medhirās teṣāṃ śravāṃsy ut tira ||*
+
+Working translation: *With māyās, O Indra, you struck down the māyin Śuṣṇa. The wise know this deed of yours; raise their renown.*
+
+The verse protects Chapter 2 from flattening *māyā* into a simple negative. Indra also uses *māyā*; the adversary is the *māyin* whose power withholds and deceives. The chapter's category is therefore **आसुरी माया (*āsurī māyā*)** — concealment used to misclassify Sanskrit and make the false category appear natural.
+
+Source basis: Ṛgveda 1.11.7; final production should verify accenting, saṃhitā text, and the sandhi / padapāṭha at *viduṣ ṭe* against the selected printed Ṛgveda edition.
+
+---
+
+### `rigveda-7-104-18-rakshasas-night`
+
+**Short:** Ṛgveda 7.104.18 gives Chapter 3 its search-and-exposure frame: the Maruts are called to spread among the people, seek out the *rākṣasas*, seize and crush those who move under night-disguise and those who bring hostility into the sacred rite.
+
+**Deployments:** Chapter 3 opening epigraph.
+
+The quoted mantra is Ṛgveda 7.104.18:
+
+> वि तिष्ठध्वं मरुतो विक्ष्विच्छत गृभायत रक्षसः सं पिनष्टन ।\
+> वयो ये भूत्वी पतयन्ति नक्तभिर्ये वा रिपो दधिरे देवे अध्वरे ॥
+>
+> *vi tiṣṭhadhvaṃ maruto vikṣv icchata gṛbhāyata rakṣasaḥ saṃ pinaṣṭana |*\
+> *vayo ye bhūtvī patayanti naktabhir ye vā ripo dadhire deve adhvare ||*
+
+Working translation: *Spread among the people, O Maruts; seek them out. Seize the rākṣasas and crush them: those who fly by night in the form of birds, and those who bring hostility into the sacred rite.*
+
+The chapter uses the verse structurally. The adversary is not merely an opponent with a different claim; he enters under concealment, moves by night, and carries hostility into the field that should remain ordered. That is why Chapter 3 turns from motive to method: the pyramid's work must be searched out inside institutions, categories, incentives, and language.
+
+Source basis: Ṛgveda 7.104.18; final production should verify accenting and exact saṃhitā / padapāṭha against the selected printed edition.
+
+---
+
 ### `rv-1-32-vrtra`
 
 **Short:** Ṛgveda 1.32 is the Vṛtra hymn: Vṛtra — the name from ⟪वृ⟫ (*vṛ*, to cover, to obstruct) — withholds the waters; Indra's *vajra* breaks the obstruction and the rivers run. The Ṛgveda's archetype of containment-and-release — and the hymn never calls Vṛtra *asura*: he is *māyin*, Dāsa, Dānava.
 
-**Deployments:** Chapter 3 §3.7 — first member of the containment triad (waters); the deed-not-word proof (the arch-withholder is not called *asura*).
+**Deployments:** Chapter 3 §3.7 — first member of the containment triad (waters); the deed-not-word proof (the arch-withholder is not called *asura*). Chapter 4 opening epigraph.
 
 Ṛgveda 1.32 (Maṇḍala 1, to Indra) narrates the deed the tradition treats as Indra's defining act: Vṛtra lies coiled on the mountain enclosing the waters; Indra strikes him with the *vajra*; the waters break free and flow to the sea "like lowing cows." The name **वृत्र (*vṛtra*)** is itself an action-name per *nāmāny ākhyātajāni*: from ⟪वृ⟫, *to cover, to obstruct* — the Coverer, the Obstructor. The hymn's own epithets for him are *māyin* (wielder of *māyā*), *dāsa*, and the patronymic Dānava — not *asura*; the deed of containment, not the word, marks him as the adversary (the §3.7 proof).
+
+Chapter 4 uses 1.32.11 as the epigraph because it makes the custody pattern visible in a single image: the waters are obstructed and guarded by Ahi, like cows held by a Paṇi; when the opening has been covered, Indra strikes Vṛtra and opens it. The fourth Abrahamic religion repeats that structure through doctrine, custody, archive, institution, and credentialed gate.
 
 Standard text and translations: Wilson (rendering Sāyaṇa) and Griffith ad RV 1.32; saṃhitā and padapāṭha witnesses at wisdomlib.
 

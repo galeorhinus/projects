@@ -1,3 +1,19 @@
+::: epigraph
+
+> उत त्वः पश्यन्न ददर्श वाचम् उत त्वः शृण्वन्न अशृणोत्येनाम् ।\
+> उतो त्वस्मै तन्वं वि सस्रे जायेव पत्य उशती सुवासाः ॥
+>
+> *uta tvaḥ paśyan na dadarśa vācam uta tvaḥ śṛṇvann aśṛṇoty enām |*\
+> *uto tvasmai tanvaṃ vi sasre jāyeva patya uśatī suvāsāḥ ||*
+>
+> One may look and not see Speech; one may hear and not hear her. To another she reveals her body, like a willing, well-adorned wife to her husband.
+>
+> `\hfill`{=latex}*— Ṛgveda 10.71.4*[NOTE: rigveda-10-71-4-vach]
+
+:::
+
+\bigskip
+
 # Chapter 13 — Why Preservation Needs Engineering
 
 ## 13.1 What Sanskrit Has to Hold
@@ -13,6 +29,8 @@ Left alone, language drifts, or *falls away.*
 What Sanskrit has to hold is concrete: sound, meaning, grammar, meter, recitation, and usage, all of it under the ordinary pressure of human speech. The Vedas make the problem visible at full scale. They hold cosmological inquiry, metaphysical vision, ethical order, mathematical proportion, astronomical observation, healing knowledge, and the rules of precise, performative action. Embedded within that breadth is the linguistic architecture this volume isolates: the sound-body, the metrical body, the grammatical body, and the recitational body.
 
 The Vedas function as sacred corpus and primary calibration matrix at once. If that matrix drifts, the calibrant drifts with it.
+
+Speech, as the epigraph describes, may be visible and audible, yet not truly seen or heard. The Veda therefore requires more than storage. It requires a preservation system capable of producing the listener to whom Speech can reveal herself.
 
 What belongs to ordinary flow, and what must be held? Sanskrit has the distinction ready-made: *prākṛta*, *saṃskṛta*, and *sanātan*.
 

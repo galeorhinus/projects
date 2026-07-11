@@ -1,3 +1,21 @@
+::: epigraph
+
+> चत्वारि वाक्परिमिता पदानि तानि विदुर्ब्राह्मणा ये मनीषिणः ।\
+> गुहा त्रीणि निहिता नेङ्गयन्ति तुरीयं वाचो मनुष्या वदन्ति ॥
+>
+> *catvāri vāk parimitā padāni tāni vidur brāhmaṇā ye manīṣiṇaḥ |*\
+> *guhā trīṇi nihitā neṅgayanti turīyaṃ vāco manuṣyā vadanti ||*
+>
+> Speech has four measured quarters. The wise know them. Three are hidden in the cave and do not move; human beings speak the fourth.
+>
+> `\hfill`{=latex}*— Ṛgveda 1.164.45*[NOTE: rigveda-1-164-45-four-quarters-vak]
+
+:::
+
+\bigskip
+
+---
+
 # Chapter 8 — The Subcontinental Sound-Field
 
 The instrument is now visible. The human voice has lungs, vocal cords, a tongue, lips, teeth, palate, nasal cavity, and breath. It can strike, release, hum, sustain, aspirate, nasalize, and hold pitch. The mouth is richer than any one language needs.
@@ -19,6 +37,8 @@ That field is visible before Sanskrit is formally revealed as a grid. Southern l
 The physical question comes first: which mouth-positions and sound-actions are available across the subcontinent? The genealogical question follows.
 
 The answer is the field. The grid comes after the field.
+
+The epigraph gives the chapter its caution. Human beings speak only the fourth quarter of Speech; the rest remains hidden to ordinary utterance. This chapter does not claim to unveil the hidden three. It begins with the spoken field itself: the bodily sound-material available across the subcontinent before Sanskrit selects and orders it. Even at that visible level, the subcontinental sound-field is larger than any one language.
 
 ## 8.2 A Sound Is Not Always a Slot
 
