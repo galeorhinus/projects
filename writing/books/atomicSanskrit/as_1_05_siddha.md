@@ -20,7 +20,7 @@ Part I exposed the asuric machinery designed to destroy Sanskrit, and when that 
 
 To explain that self-conception, the English word *grammar* is wholly inadequate. The word grammar imports a script-facing bias. *Grammar* comes through Latin *grammatica* from Greek *grammatikē technē*: the art of letters. At its root stands Greek *gramma*, a letter or written mark. English inherited that history, and the word also bears the weight of a policing apparatus built to enforce proper usage.
 
-Given this history, calling Pāṇini a "grammarian" is deeply misleading. In the framework of Sanskrit and saṃskṛti, the idea of an authority policing speech is fundamentally alien. Pāṇini was never an enforcer of arbitrary standards, nor was he a technician arranging written glyphs. He was a **वैयाकरणः (*vaiyākaraṇaḥ*)**. The वैयाकरणाः (vaiyākaraṇāḥ) lineage he belonged to did not invent rules to govern behavior; they decoded the existing architecture of sound so the practitioner could preserve the precision.
+Given this history, calling Pāṇini a "grammarian" is deeply misleading. In the framework of Sanskrit and saṃskṛti, the idea of an authority policing speech is fundamentally alien. Pāṇini was never an enforcer of arbitrary standards, nor was he a technician arranging written glyphs. He was a **वैयाकरणः (*vaiyākaraṇaḥ*)**. The **वैयाकरणाः (*vaiyākaraṇāḥ*)** lineage he belonged to did not invent rules to govern behavior; they decoded the existing architecture of sound so the practitioner could preserve precision.
 
 The analytical discipline is **व्याकरणम् (*vyākaraṇam*)**: ***वि (vi-,*** apart) + ***आ (ā-,*** fully) + ***कृ (kṛ,*** to do, to make) — taking apart, unfolding, analyzing an already present system.[NOTE: vyakarana-etymology] The activity the word denotes is de-composition, not composition. The **वैयाकरणः (*vaiyākaraṇaḥ*)** is the one who performs that unfolding.[NOTE: vaiyakarana-role-title] The role-title designates a decoder, not a codifier.
 
@@ -62,7 +62,7 @@ If the purpose of *grammar* in the English language is to correct and police *co
 - **लघु (*laghu*)** — brevity and efficiency in mastery.
 - **असंदेह (*asaṃdeha*)** — removal of doubt in usage.
 
-All of these purposes are consistent with a self-correcting system that's designed to be a calibrant. There is a *Veda* to preserve, a correct form to master, a usage whose doubt can be removed. *Vyākaraṇam* is a meta-operation on an architecture already in place. That is what Pāṇini was: a *vaiyākaraṇaḥ*, a decoder, an analyst, and a documenter, *not a codifier*.
+All of these purposes are consistent with a self-correcting system that is designed to be a calibrant. There is a *Veda* to preserve, a correct form to master, a usage whose doubt can be removed. *Vyākaraṇam* is a meta-operation on an architecture already in place. That is what Pāṇini was: a *vaiyākaraṇaḥ*, a decoder, an analyst, and a documenter, *not a codifier*.
 
 Although *grammar* is an imprecise English rendering of *vyākaraṇam*, English has no better common substitute. After this correction, the book uses *grammar* as shorthand where the context is clear.
 
@@ -106,7 +106,7 @@ Applied to language, the question is exact. Is the bond between word and meaning
 
 If the bond is *kārya*, grammar studies a moving target. Words are produced, meanings negotiated, and rules become descriptions of current practice, valid until practice changes.
 
-If the bond is *siddha*, grammar studies a structural object. Words and meanings are joined by an established relation. Rules do not summarize what speakers happen to do. They state what correctness is. A speaker who deviates has not created a new bond. He has produced an **अपभ्रंश (*apabhraṃśa*)**, a falling-away from a bond that already stood.
+If the bond is *siddha*, grammar studies a structural object. Words and meanings are joined by an established relation. Rules do not summarize what speakers happen to do. They state what correctness is. Speakers who deviate have not created a new bond. They have slipped from a bond that already stood.
 
 The two models are not two theories of the same object. They define different objects. Modern historical linguistics studies *kārya*: language as ongoing production. Patañjalian grammar studies *siddha*: language as established structure. To apply *kārya* methods to a *siddha* system is to study the wrong object with the wrong tools.
 
@@ -120,9 +120,9 @@ Patañjali reaches this conclusion through the Indian method of stating the oppo
 
 > This structure gives the reader the first working view of Sanskrit as a self-correcting calibrant. Later volumes in the Second Shanti series will explore how sanskriti extends this calibrant architecture to higher fractal scales.
 
-The *vaiyākaraṇāḥ* do not merely record whatever speakers produce. They defend a system of established bonds against corruption. The *Aṣṭādhyāyī* is not a description of speaker habit. It is a specification of an engineered system. Deviations from the rules are not new standards. They are fallings-away from the standard.
+The *vaiyākaraṇāḥ* do not merely record whatever speakers produce. They defend a system of established bonds against corruption. The *Aṣṭādhyāyī* is not a description of speaker habit. It is a specification of an engineered system. Deviations from the rules are not new standards. They are slips from the standard.
 
-The dogma's *codification* vocabulary fails at this point. Codification imagines drift first and order later. Patañjali gives the opposite: established bond first, grammatical defense afterward. There is no transition from disorder to order. There is order, and there are fallings-away from order.
+The dogma's *codification* vocabulary fails at this point. Codification imagines drift first and order later. Patañjali gives the opposite: established bond first, grammatical defense afterward. There is no transition from disorder to order. There is order, and there are slips from order.
 
 Patañjali's *Mahābhāṣya*, standing over Pāṇini's *Aṣṭādhyāyī*, called the bond *siddha*. The engineering conclusion follows: grammar calibrates usage against an established architecture.
 
@@ -132,7 +132,7 @@ Two claims anchor the argument.
 
 First: by holding the bond between a word and its meaning to be fixed, Patañjali automatically rejects the premise of change and drift. Modern historical linguistics assumes languages mutate, drift, and renew, and the linguist tracks the trajectory. Patañjali's framework refuses that assumption at the metaphysical level: grammar exists to defend the bond.
 
-The second: Sanskrit begins from permanence. Permanence accommodates error. Patañjali fully recognized variation, misuse, corruption, and *apabhraṃśa*—but he denied that variation is the bond's behavior. The bond holds. Speakers fall away from it. The *vaiyākaraṇaḥ* keeps the bond visible against the fallings-away.
+The second: Sanskrit begins from permanence. Permanence accommodates error. Patañjali fully recognized variation, misuse, and corruption, but he denied that variation is the bond's behavior. The bond holds. Speakers slip from it. The *vaiyākaraṇaḥ* keeps the bond visible against the linguistic slips.
 
 The engineered Sanskrit thesis is therefore not alien to the Sanskrit lineage. Engineering language restates Sanskrit's own grammatical self-description. *Engineered first* states the architecture's priority. *Siddha* captures the architecture's metaphysical property. There is no codification event because there is no transition from drift to fixity. The bond was *siddha* before Pāṇini sat down to document it; it remained *siddha* after he finished. Pāṇini documented a *siddha* system. Patañjali says so at the opening of the *Mahābhāṣya*.
 

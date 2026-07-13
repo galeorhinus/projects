@@ -20,13 +20,13 @@ If the bond between word and meaning is established, grammar has a task. It must
 
 Codified systems correct by authority; Sanskrit corrects by architecture. That distinction becomes visible here. If correctness comes from authority, error is disobedience. If correctness comes from architecture, error is misalignment. *Apabhraṃśa* is misalignment — the uttered form slipping away from the established bond between word and meaning, sound and form, usage and rule.
 
-Entropy has a Sanskrit name: **अपभ्रंश (*apabhraṃśa*)** — falling away, slipping off. The morphology is transparent: *apa-* means away, off, down; *bhraṃśa* contains the semantic atom ⟪भ्रंश्⟫ (*bhraṃś*), to fall or slip. A speaker produces *apabhraṃśa* when the uttered form slips from the engineered form grammar specifies.
+Sanskrit has a name for that slipping: अपभ्रंश (apabhraṃśa), a falling-away from established form. The morphology is transparent: *apa-* means away, off, down; *bhraṃśa* contains the semantic atom ⟪भ्रंश्⟫ (*bhraṃś*), to fall or slip. A speaker produces *apabhraṃśa* when the uttered form slips from the engineered form grammar specifies.
 
 The slip can be phonetic, morphological, or lexical. A sound shifts. A form reorganizes. A word is replaced by something easier. Grammar treats all three with the same structural eye. The deviation is a falling-away, not an alternative form.
 
 The *vaiyākaraṇāḥ* do not punish the speaker for violating authority. They identify where the form has fallen away from the architecture and restore it to fit. *Apabhraṃśa* is therefore not merely "incorrect speech." It is entropy named in Sanskrit.
 
-The *vaiyākaraṇāḥ* identified this before modern linguistics had a vocabulary for it. They observed it in speech, measured it, and built grammar in direct response to it. The grammar that begins from *siddha* describes what *siddha* faces.
+The *vaiyākaraṇāḥ* identified this before modern linguistics had a vocabulary for it. They observed it in speech, measured it, and documented the grammatical defense against it. The grammar that begins from *siddha* describes what *siddha* faces.
 
 ## 6.2 Few Words, Many Corruptions
 
@@ -54,15 +54,13 @@ Patañjali demonstrates the asymmetry with a single example. The correct word is
 
 Each variant falls away differently. *Gāvī* lengthens and reshapes the form. *Goṇī* shifts the consonantal body. *Gotā* simplifies and re-suffixes. *Gopotalikā* adds derivational material that no engineered template requires. The details differ. The structural relation is the same.
 
-Patañjali does not list these as alternative correct forms. He lists them as corruptions of one correct form. The point is not schoolmaster prescription. It is specification. *Gauḥ* is the engineered form. The others are what speech produces when articulation slips, memory thins, or transmission degrades.
+Patañjali lists them as corruptions of one correct form. The act is specification. *Gauḥ* is the engineered form. The others are what speech produces when articulation slips, memory thins, or transmission degrades.
 
 ![Figure 6.1 — *Gauḥ* and Its Four Listed *Apabhraṃśas*. Patañjali's example made visible: one calibrated form; four falls, each at its own distance, all held in orbit.](figures/apabhramsa/gauh_four_apabhramsas.svg){#fig:apabhramsa-gauh-four-apabhramsas width=90%}
 
 The figure's geometry demonstrates the four forms falling at different distances, yet each falls *around* the calibrant. Inside the Indic field, Sanskrit's gravity holds: a form can fall far from *gauḥ* and remain in orbit, visible and measurable against the center it fell from. *Apabhraṃśa* is the satellite's fall — the fall that keeps its center. Beyond the field, the light itself travels — and where a ray lands, a seedling rises and becomes its own tree. Chapter 18 follows the rays outward: more orbits, and the trees that grow where the light lands.
 
-Modern linguistics later labeled phonetic erosion, morphological reanalysis, and lexical replacement. Patañjali had the phenomena in front of him. He gave them their names, measured their asymmetry, and placed grammar on the side of the engineered form — thousands of years before any modern philological project.
-
-The evidence was always available. The modern shift came from the external account that decided to call deviations alternative forms.
+Modern linguistics later labeled these phenomena as phonetic erosion, morphological reanalysis, and lexical replacement. Patañjali documented the phenomena, had the vocabulary for them, measured their asymmetry, and placed grammar on the side of the engineered form — thousands of years before any modern philological project.
 
 ## 6.4 Drift, Codification, Calibration
 
@@ -70,13 +68,15 @@ The same evidence—*gauḥ* and its fallings-away—produces three diagnostic c
 
 **Natural drift** is the ***प्रकृति (*prakṛti*)*** category. Standardization comes from usage: habit, prestige, contact, local life, and whatever later schooling records after the fact. Forms shift across speech communities and time. The linguist tracks the trajectory. *Gauḥ* and *gāvī* become related forms in a history of usage.
 
-**Codified correction** is the pyramidal category. Standardization comes from codification: a prestige form is selected, stabilized, taught, and defended by institutions. Correction comes from outside the speaker and above the usage — academy, priesthood, school, court, committee, dictionary, grammar. Authority supplies the standard.
+**Codified correction** is the pyramidal category, ***विकृति (*vikṛti*)***. Standardization comes from codification: a prestige form is selected, stabilized, taught, and defended by institutions. Correction comes from outside the speaker and above the usage — academy, priesthood, school, court, committee, dictionary, grammar. Authority supplies the standard.
 
 **Engineered self-correction** is the ***संस्कृति (*saṃskṛti*)*** category. Standardization comes from calibration: architecture correcting itself. Sanskrit does not depend on an external authority selecting one prestige variant from a field of living variation. The architecture builds its own diagnostic system. Meter catches the phonetic slip. Recitation catches the audible drift. Grammar catches the malformed word. The *pāṭha* disciplines catch the broken sequence. *Gauḥ* is correct because the system generates it; *gāvī*, *goṇī*, *gotā*, and *gopotalikā* are departures because the system detects them as departures.
 
-The three categories produce three different objects. Natural drift studies change. Codified correction enforces authority. Engineered self-correction preserves architecture. The pyramid's account pushes Sanskrit before Pāṇini (पाणिनि) into the first category and Sanskrit after Pāṇini into the second. Patañjali's examples belong to the third.
+The three categories represent three different situations. Natural drift represents change. Codified correction enforces authority. Engineered self-correction preserves architecture. The pyramid's account pushes Sanskrit *before* Pāṇini (पाणिनि) into the first category of prakṛtik drift, and Sanskrit after Pāṇini into the second as a *codified* system. Patañjali's examples demonstrate the reality: Sanskrit belongs to the third.
 
-Natural drift can be governed. Codification can be owned. Calibration makes the apex unnecessary. The Sanskrit case cannot be reduced to either drift before Pāṇini or codification after Pāṇini. Both categories hide the same thing: correction by architecture.
+What explains the pyramid's motivations? Natural drift can be governed. Codification can be owned and managed. Calibration makes the apex unnecessary.
+
+Sanskrit's ability to withstand entropy for thousands of years before Pāṇini and thousands of years after cannot be reduced to either drift before Pāṇini or codification after Pāṇini. Both categories hide the same thing: correction by architecture — the pyramid's greatest fear.
 
 **Pyramid: correction by authority. *Sanātan*: correction by architecture.**
 
@@ -106,13 +106,13 @@ The pyramid's account claims direct evidence of drift inside the Vedic corpus. I
 
 The phenomena are real. The interpretation is wrong. The progressive dogma treats difference as drift. The engineering thesis treats difference as design.
 
-The four Vedas differ because they serve different functions: hymnic invocation, incantatory corpus, ritual formula, melodic chant. Rigvedic *maṇḍalas* differ because metrical and compositional choices serve different ritual contexts. The Saṃhitā, Brāhmaṇa, Āraṇyaka, and Upaniṣad layers differ because each layer does different work. *Prātiśākhya* sandhi differences are documented recension-specific specifications, not uncontrolled school drift. The Vedic accent system has not eroded; it remains exactly preserved in the *chandas* mode and is simply not active in the *bhāṣā* mode. Variant word forms are often licensed alternates through operators such as **वा (*vā*)** and **विभाषा (*vibhāṣā*)**. Recensional differences are discrete and preserved inside lineages, not continuous and unbounded. Vedic-Avestan parallels do not require a drifting Proto-Indo-Iranian intermediate; Chapter 18 develops the *pratibimba* account of reflection.
+The four Vedas differ because they serve different functions: hymnic invocation, incantatory corpus, yajña formula, melodic chant. Rigvedic *maṇḍalas* differ because metrical and compositional choices serve different yajña contexts. The Saṃhitā, Brāhmaṇa, Āraṇyaka, and Upaniṣad layers differ because each layer does different work. *Prātiśākhya* sandhi differences are documented recension-specific specifications, not uncontrolled school drift. The Vedic accent system has not eroded; it remains exactly preserved in the *chandas* mode and is simply not active in the *bhāṣā* mode. Variant word forms are often licensed alternates through operators such as **वा (*vā*)** and **विभाषा (*vibhāṣā*)**. Recensional differences are discrete and preserved inside lineages, not continuous and unbounded. Vedic-Avestan parallels do not require a drifting Proto-Indo-Iranian intermediate; Chapter 18 develops the *pratibimba* account of reflection.
 
 The pattern is consistent. The pyramid's account turns difference into time. Sanskrit's own architecture assigns difference to function, mode, recension, option, meter, or transmission stream. Difference is not drift until the mechanism of drift is shown. The account usually supplies the label, not the mechanism.
 
 The pyramid's account needs Vedic Sanskrit to have changed. Without change, the migration-and-borrowing machinery loses its operating premise. The engineering thesis does not deny variation; it denies that variation is automatically entropy.
 
-**Appendix Part 7 — *The Vedic Carrier*** develops each of the dogma's eight drift-claims with its specific example and tabulates the engineering-mode response, after walking three anchor Ṛgvedic verses phrase-by-phrase to demonstrate the implicit grammar in operation in the corpus form. The polemic-critical observation at the appendix's center: *chandas* (छन्दस्) means *meter*; the *chandas* mode is the metrical mode; everything that distinguishes the *chandas* mode from the *bhāṣā* mode is, fundamentally, what the meter requires.
+**Appendix Part 7 — *The Vedic Carrier*** develops each of the dogma's eight drift-claims with its specific example and tabulates the engineering-mode response, after walking three anchor Ṛgvedic verses phrase-by-phrase to demonstrate the implicit grammar in operation in the corpus form. The diagnostic observation at the appendix's center: *chandas* (छन्दस्) means *meter*; the *chandas* mode is the metrical mode; everything that distinguishes the *chandas* mode from the *bhāṣā* mode is, fundamentally, what the meter requires.
 
 ## 6.7 Orbit and Drift
 
