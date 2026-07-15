@@ -24,6 +24,8 @@ The number here is **one**: the asuric one, the apex-one.
 
 One ruler. One doctrine. One permitted origin. One authorized text. One sanctioned interpretation. One gate through which reality must pass before it is allowed to be called True.
 
+Chapter 0 used follower in the Sanātan sense: a seeker who has *chosen a path*. Two words highlight the distinction: **a** and **chosen**. *A path* means plurality. *Chosen* means agency. The pyramid is threatened by both. It wants one road, one gate, one sanctioned account of knowledge and obedience.
+
 And the one is a Him — a blank each age fills with a new name. Hiraṇyakaśipu, who would suffer no worship but his own. Rāvaṇa, whose will was the law of three worlds. Vṛtra, who seized the waters and called the withholding order. The names change; the Him does not. A later age enthrones Him beyond the sky, capitalizes His name, puts His order past question, brooking no other before Him. New face. No Image. Same apex.[NOTE: devi-mahatmya-goddess-undoes-male-apex]
 
 The finite order turns plurality into command.  A pyramid.
@@ -58,13 +60,15 @@ The pyramid is a created fractal of deformation: **विकृति (*vikṛti
 
 The shape repeats across domains. In religion, it becomes one book, one prophet, one church, one priesthood, one permitted salvation. In empire, it becomes one crown, one law, one census, one tax, one map, one extracted people. In scholarship, it becomes one method, one peer circle, one credentialing ladder, one permitted origin story. In language, it becomes one ancestor, one chronology, one authorized grammar-story, one verdict on what the civilization is allowed to remember.
 
+In education, the same shape becomes one curriculum, one examination ladder, one credentialed memory, one permitted account of the past. Long before the child can inspect the frame, the curriculum has trained the child to inherit the pyramid's categories.
+
 The pyramid demands finitism. A finite universe can be narrated from a first point. A finite timeline can be owned by whoever controls the origin story. A finite canon can be guarded by whoever controls the gate. A finite people can be counted, ranked, administered, converted, educated, and corrected. The apex wants a world with edges because edges make possession easier — and because the boundless, which he can neither bound nor rule, frightens him.
 
 Sanskrit resists that shape. Its order descends through the distributed field rather than from a human apex. The standard is distributed through sound, measure, recitation, grammar, semantic atoms, lineage, and disciplined use. A wrong sound can be caught by the mouth. A wrong measure can be caught by meter. A wrong form can be caught by grammar. A wrong derivation can be caught by the *dhātuḥ*. A wrong recitation can be caught by the *pāṭha*. Sanskrit places correction inside the architecture.
 
 Calibration is what the pyramid cannot conquer, because the standard lives in the system itself. Natural drift can be surveyed and ruled. Codification can be captured by authority. The pyramid can lord over drift and sanctify codification. Because it cannot conquer calibration, it must hide the category entirely.
 
-> This distinction is critical because not everything outside formal Vedic calibration is asuric. A *nastika* discipline may refuse the Veda as calibrant and still live harmoniously beside it, beside other harmonious formations, and within the balance of the world. A *prakritika* culture may live through forest, clan, custom, ecology, craft, and local memory without being threatened by the Vedic measure. The asuric formation is different: it is threatened by the calibrant and by the balance the calibrant protects; it therefore works to destroy, displace, shame, capture, or distort it. Compatibility is not immunity: a formation can live harmoniously beside the calibrant and within the world's balance, and still later be captured, co-opted, or controlled by the pyramid.[NOTE: compatibility-is-not-immunity]
+**Diagnostic distinction.** Not everything outside formal Vedic calibration is asuric. A *nastika* discipline may refuse the Veda as calibrant and still live harmoniously beside it, beside other harmonious formations, and within the balance of the world. A *prakritika* culture may live through forest, clan, custom, ecology, craft, and local memory without being threatened by the Vedic measure. The asuric formation is different: it is threatened by the calibrant and by the balance the calibrant protects; it therefore works to destroy, displace, shame, capture, or distort it. Compatibility is not immunity: a formation can live harmoniously beside the calibrant and within the world's balance, and still later be captured, co-opted, or controlled by the pyramid.[NOTE: compatibility-is-not-immunity]
 
 Preservation has to discriminate. Living forms can flow, grow, and change while the calibrant holds the measure by which balance is restored when darkness spreads. The pyramid targets that measure because capture becomes harder when correction remains distributed.
 

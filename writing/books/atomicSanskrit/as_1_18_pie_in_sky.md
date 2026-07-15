@@ -57,9 +57,9 @@ PIE cannot be the etymon of any word, and the logic breaks again on that fact. A
 
 The procedural reconstruction is exposed for what it is — an average of the reflections, misrepresented as a source. The bookkeeping claim collapses.
 
-PIE is not merely a speculative reconstruction. It is the asuric pyramid's most successful linguistic artifact: an imaginary ancestor manufactured by the Western philological machinery, sanctified by the church of progress, and installed above Sanskrit so the engineered source could be demoted into one cognate among many. The machinery baked it. The church cemented it. The pyramid needed it.
+PIE is not merely a speculative reconstruction. It is the asuric pyramid's most successful linguistic artifact: an imaginary ancestor manufactured by the Western philological machinery, sanctified by the church of progress, and installed above Sanskrit so the engineered source could be demoted into one cognate among many. The pyramid needed it so the machinery baked it and the church of progress cemented it.
 
-> The invention is a triad, and it is exact. RAT supplies the imaginary people: *Aryans* as race, ancestry, or migrating population. PIE supplies the imaginary language: an imaginary ancestor placed above Sanskrit. And the starred reconstructions supply the imaginary words — forms no mouth ever made. The phrase *"Indo-Aryan languages"* then binds the inventions into ordinary academic speech, as though the stolen racial category were neutral linguistic classification. Sanskrit is real. *Ārya* is real. The Vedic archive is real. The imaginary people, the imaginary language, and the imaginary words are the devices by which the real civilization is made external to itself.
+**The triad of invention.** RAT supplies the imaginary people: *Aryans* as race, ancestry, or migrating population. PIE supplies the imaginary language: an imaginary ancestor placed above Sanskrit. And the starred reconstructions supply the imaginary words — forms no mouth ever made. The phrase *"Indo-Aryan languages"* then binds the inventions into ordinary academic speech, as though the stolen racial category were neutral linguistic classification. Sanskrit is real. *Ārya* is real. The Vedic archive is real. The imaginary people, the imaginary language, and the imaginary words are the devices by which the real civilization is made external to itself.
 
 ## 18.3 What PIE Cannot Explain
 
@@ -80,6 +80,8 @@ PIE depends on the split. The pyramid's story requires Sanskrit before Pāṇini
 *An engineered calibrant does not need a natural ancestor, and a decoded system does not need a codifier.*
 
 PIE protects this boundary too. If Sanskrit is only a natural language before Pāṇini and a "codified" language after Pāṇini, then PIE remains plausible and authority remains necessary. But if Sanskrit is recognized as a calibrant, the direction reverses. Sanskrit becomes the measure, not the measured. Pāṇini becomes the decoder of an already-operative architecture, not the authority who imposed order. The pyramid cannot allow that recognition to spread even among its own readers. Once the calibrant is visible, the imaginary ancestor begins to look unnecessary.
+
+PIE becomes durable through education. Once the imagined ancestor is installed as curriculum, Sanskrit is encountered as a descendant before it is encountered as architecture. The classroom does not merely teach a theory; it assigns Sanskrit its place before Sanskrit can speak for itself.
 
 PIE cannot account for the calibration matrix. A precursor language does not contain *pāṭha* recitations, *Prātiśākhya* specifications, *Śikṣā* training, or engineered anti-entropy.
 

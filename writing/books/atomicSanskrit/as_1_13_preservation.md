@@ -112,9 +112,11 @@ The mouth produces. The ear preserves. The engineering is in what the ear catche
 
 The ***progressive dogma*** collapses both into "oral tradition" because both happen without writing. The collapse serves the linear-progress teleology (Chapter 2 §2.4): writing is taken to be advanced, oral transmission to be primitive residue. The dogma's framing has the engineering backwards.
 
-Writing is easier. It asks one sense to read, one hand to write, one medium to store. Once the glyph exists, the medium holds the burden.
+Centralized education benefits from that collapse. “Oral tradition” is easy to place below writing inside a schoolbook ladder of progress. “Aural engineering” is harder to subordinate, because it asks the reader to see trained hearing, recitation, lineage, and correction as a preservation technology.
 
-Aural preservation is harder. It requires trained vocal production, trained discriminating hearing, social continuity, *guru-shishya* lineage-discipline, and multi-channel recitation redundancy strong enough to detect and correct error before it becomes inheritance. It uses the body as instrument and the ear as validator. That is not primitive. It is higher engineering.
+Writing asks one sense to read, one hand to write, one medium to store. Once the glyph exists, custody can move to the medium, which makes writing easy for institutions to prefer.
+
+Aural preservation faces harder design constraints. It requires trained vocal production, trained discriminating hearing, social continuity, *guru-shishya* lineage-discipline, and multi-channel recitation redundancy strong enough to detect and correct error before it becomes inheritance. It uses the body as instrument and the ear as validator. Once those design constraints are met, aural engineering becomes a powerful counter to the asuric pyramid: the standard lives in trained persons and distributed lineages, not in a seized medium.
 
 The label "oral tradition" also flattens the architecture. Indic preservation runs four engineered modes — memory-based retelling, embodied practice, precise speech-hearing transmission, and written documentation where writing is appropriate — and only some are oral at all. The Vedic preservation system is the aural one.
 

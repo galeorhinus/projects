@@ -102,6 +102,8 @@ The defense is not an answer to arguments. It is an intellectual blockade that p
 
 The metaphor is the architecture of containment. It defended race, then theology, and now progress. Three justifications, one function. The *priests of progress* keep that function alive through peer review, citation conventions, reference works, and classroom inheritance. The deeper formation behind them is the subject of Chapter 4: the *asuric pyramid*, the hierarchy of ego, control, and institutional power that turns doctrine into enclosure.
 
+That inheritance is part of the blockade. Once a category enters textbooks, examinations, degree programs, and reference works, it no longer has to win each argument afresh. It becomes the floor on which argument is allowed to stand.
+
 The containment protects more than a metaphor. It protects a theory of authority. If Sanskrit is calibrated by architecture rather than codified by power, the pyramid loses one of its deepest premises: that order must descend from an apex.
 
 Calibration is more dangerous to the pyramid than drift or codification. Drift can be managed; codification can be owned; calibration makes the apex unnecessary.

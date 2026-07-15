@@ -42,6 +42,8 @@ The story merges different phenomena, imports a chronological frame into categor
 
 The story survives because it sounds reasonable to readers trained by the progressive dogma's premises. It does not survive the architecture.
 
+Its strongest carrier is the classroom. The student receives the sequence as common sense: Vedic first, Classical later, Pāṇini as the great codifier. Centralized education makes the rupture feel obvious because no alternative is presented.
+
 ## 8.2 The Two Drift Claims
 
 The codification story hides two different claims under one word: drift.

@@ -1,14 +1,16 @@
 # Chapter 14 — The Calibration Matrix
 
-Sanskrit is the **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)** — the fixed-measure language (Chapter 13). A fixed measure has to be held across generations. The calibration matrix is the architecture that makes that holding possible.
+Sanskrit is the **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)** — the fixed-measure language, the calibrant whose radiance and consistency hold language and civilizational ethos across thousands of years. This chapter describes the calibration matrix, the architecture that makes that holding possible.
 
-The matrix is **दिव्य (*divya*)** in the precise sense used here: radiant, brilliant, bearing the order of the *devas*. Here divinity is not ornament or exaggeration; it is radiance as observable architecture. A system that preserves sound, meter, grammar, memory, and lineage without apex command is radiant because its order gives light without needing a pyramid to issue it.
+The matrix is **दिव्य (*divya*)** in the precise sense: radiant, brilliant, bearing the order of the *devas*. A system that preserves sound, meter, grammar, memory, and lineage without apex command is radiant because its order gives light without needing a pyramid to issue it.
 
 This is the radiant matrix.
 
 The Vedic form of the same claim is (Chapter 9): भद्रा एषाम् लक्ष्मीः निहिता अधि वाचि (*bhadrā eṣām lakṣmīḥ nihitā adhi vāci*) — auspicious radiance is placed in Speech. The sieve and the garland showed how the sound-field becomes ordered Speech. The remaining question is how that radiance is held. The answer is the matrix: sound, meter, grammar, memory, and lineage acting together as calibration.
 
-Under the pyramid's clock, the *Vedas* shrink to early literature: old texts, "scripture," ritual material, and chronological evidence, valued mainly for dating *"Vedic Sanskrit."* The matrix answers that too. The *Vedas* are not a corpus waiting to be dated; they are encoded perfection, held across generations by sound, meter, recitation, lineage, and calibration. What the clock files as early is in fact the most precisely preserved.
+**Central claim.** This is what the pyramid cannot conquer or co-opt: a calibrant that lives within society and rejects the need for apex authority. The pyramid can survey natural drift, codify it, create apex languages — prestige languages placed above living speech — centralize education, and capture transmission through office, credential, curriculum, and school. It can lord over drift and sanctify codification because both provide an apex-handle. Calibration gives it none. Sound, meter, grammar, memory, lineage, distributed transmission, and architecture hold the measure together; no single gate owns it. So the pyramid must hide the category before it can attack the language.
+
+Under the pyramid's clock, the *Vedas* shrink to early literature: old texts, "scripture," yajña material, and chronological evidence, valued mainly for dating *"Vedic Sanskrit."* The matrix answers that too. The *Vedas* are not a corpus waiting to be dated; they are encoded perfection, held across generations by sound, meter, recitation, lineage, and calibration. What the clock files as early is in fact the most precisely preserved.
 
 The matrix rests on three principles. First: the next generation is the archive. Content survives only when one generation receives it and transmits it to the next. Second: preservation must fit the human instrument. Human beings remember, recite, gesture, hear, discriminate, and correct. Third: the deepest systems use complementary pairs. The practitioner performs while the audience detects drift. The audience are more than passive listeners; they are active participants in an error-correction system.
 

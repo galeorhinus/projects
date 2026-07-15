@@ -38,6 +38,8 @@ The threat is the missing third category, and Sanskrit belongs there. Sanskrit i
 
 Through the nineteenth century, the Western philological machinery baked a story about Sanskrit that refused this third category. Bopp's comparative grammar (1810s), Schleicher's family tree (1860s), Müller's pedagogical machinery (1850s–1880s), Brugmann's *Grundriss* (1886). Three generations of European comparativists assembled the ingredients. The recipe still holds. If anything, PIE has become more entrenched: the imagined ancestor remains the controlling premise of authorized Indo-European curricula and reference works today.[NOTE: bakers-story-seven-moves]
 
+This is why the theft survives outside specialist prose. Centralized education turns the category theft into early habit: roots and branches, Vedic before Classical, Pāṇini as codifier, PIE as parent. By the time the reader meets Sanskrit directly, the wrong frame has already been installed.
+
 PIE is the eclipse-device in technical form—the mechanism that makes category theft hold. Place an invented ancestor above Sanskrit, and the calibrant is demoted to a cognate. The real language, preserved in sound and use, is placed below an imagined parent preserved nowhere, spoken by no known community, and recited by no lineage.
 
 The theft is visible in the words nearest the reader. **मातृ (*mātṛ*)** is not Sanskrit's cousin beside *mother*; it is the etymon. The English word is a **प्रतिबिम्ब (*Pratibimba*)** — a reflection of the original form. The pyramid's account reverses that relation. It routes *mother* through reconstructed forms while *mātṛ* is made to stand beside it as a sibling. The asterisk becomes a small sign of authority: invisible speech placed above visible architecture.
