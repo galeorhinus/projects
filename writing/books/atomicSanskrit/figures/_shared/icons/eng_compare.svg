@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" width="720" height="480">
+<rect width="100%" height="100%" fill="white"/>
+<polygon points="115.0,70.0 125.0,70.0 145.0,104.6 125.0,139.3 115.0,139.3 95.0,104.6" fill="#d8c7a3" stroke="#5c4830" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="145.0,104.6 185.0,104.6 205.0,139.3 185.0,173.9 145.0,173.9 125.0,139.3" fill="#d8c7a3" stroke="#5c4830" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="205.0,70.0 245.0,70.0 265.0,104.6 245.0,139.3 205.0,139.3 185.0,104.6" fill="#d8c7a3" stroke="#5c4830" stroke-width="2" stroke-linejoin="round"/>
+<text x="180.0" y="40" font-family="Georgia, serif" font-size="20" fill="#6b563a" text-anchor="middle" font-weight="700">v1</text>
+<text x="180.0" y="216" font-family="Georgia, serif" font-size="15" fill="#3d2f1f" text-anchor="middle" font-weight="400">0.5 high · 1 low · 1 high</text>
+<polygon points="475.0,104.6 515.0,104.6 535.0,139.3 515.0,173.9 475.0,173.9 455.0,139.3" fill="#d8c7a3" stroke="#5c4830" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="535.0,70.0 575.0,70.0 595.0,104.6 575.0,139.3 535.0,139.3 515.0,104.6" fill="#d8c7a3" stroke="#5c4830" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="595.0,104.6 605.0,104.6 625.0,139.3 605.0,173.9 595.0,173.9 575.0,139.3" fill="#d8c7a3" stroke="#5c4830" stroke-width="2" stroke-linejoin="round"/>
+<text x="540.0" y="40" font-family="Georgia, serif" font-size="20" fill="#6b563a" text-anchor="middle" font-weight="700">v2</text>
+<text x="540.0" y="216" font-family="Georgia, serif" font-size="15" fill="#3d2f1f" text-anchor="middle" font-weight="400">1 low · 1 high · 0.5 low</text>
+<polygon points="130.0,310.0 170.0,310.0 190.0,344.6 170.0,379.3 130.0,379.3 110.0,344.6" fill="#d8c7a3" stroke="#5c4830" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="190.0,344.6 200.0,344.6 220.0,379.3 200.0,413.9 190.0,413.9 170.0,379.3" fill="#d8c7a3" stroke="#5c4830" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="220.0,310.0 230.0,310.0 250.0,344.6 230.0,379.3 220.0,379.3 200.0,344.6" fill="#d8c7a3" stroke="#5c4830" stroke-width="2" stroke-linejoin="round"/>
+<text x="180.0" y="280" font-family="Georgia, serif" font-size="20" fill="#6b563a" text-anchor="middle" font-weight="700">v3</text>
+<text x="180.0" y="456" font-family="Georgia, serif" font-size="15" fill="#3d2f1f" text-anchor="middle" font-weight="400">1 high · 0.5 low · 0.5 high</text>
+<polygon points="490.0,344.6 530.0,344.6 550.0,379.3 530.0,413.9 490.0,413.9 470.0,379.3" fill="#d8c7a3" stroke="#5c4830" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="550.0,310.0 560.0,310.0 580.0,344.6 560.0,379.3 550.0,379.3 530.0,344.6" fill="#d8c7a3" stroke="#5c4830" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="580.0,344.6 590.0,344.6 610.0,379.3 590.0,413.9 580.0,413.9 560.0,379.3" fill="#d8c7a3" stroke="#5c4830" stroke-width="2" stroke-linejoin="round"/>
+<text x="540.0" y="280" font-family="Georgia, serif" font-size="20" fill="#6b563a" text-anchor="middle" font-weight="700">v4</text>
+<text x="540.0" y="456" font-family="Georgia, serif" font-size="15" fill="#3d2f1f" text-anchor="middle" font-weight="400">1 low · 0.5 high · 0.5 low</text>
+</svg>
