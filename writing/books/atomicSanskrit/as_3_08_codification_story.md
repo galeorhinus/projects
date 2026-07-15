@@ -4,8 +4,6 @@
 
 ---
 
-The codification story arrives in the reader's mind before the book can speak.
-
 Sanskrit, the reader has been told, was once Vedic: older, freer, more irregular, more natural, more alive. Then speech changed. Forms shifted. Accent weakened. Infinitives narrowed. The subjunctive faded. Ordinary usage moved away from the archaic sacred language. Pāṇini entered the scene and performed the great act of codification. He observed the language, mapped it with unmatched brilliance, and froze the form later called Classical Sanskrit.
 
 That story is everywhere because it is useful. It lets the progressive dogma retain the natural-language premise while admiring Pāṇini. Sanskrit can remain one branch on the Indo-European tree, PIE can remain the imaginary ancestor, Vedic can remain the earlier stage, Classical can remain the later standard, and Pāṇini can be praised as the genius who imposed order late enough for the tree to survive.
