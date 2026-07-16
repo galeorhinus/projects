@@ -1,4 +1,4 @@
-# Atomic Sanskrit: The Fractal Calibration Architecture of Sanātan
+# Atomic Sanskrit: The Radiant, Calibrant, and Fractal Architecture of Sanātan
 ### *Volume 1 of Second Shanti*
 
 ---

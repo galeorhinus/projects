@@ -1,14 +1,14 @@
 # Chapter 15 — Aural Architecture
 
-What Speech revealed as mantra has been ringing out continuously for thousands of years.
+What Speech revealed as mantra in the Veda has been ringing out continuously, unchanged in recitational form, for thousands of years.
 
-The Veda is heard as recitation: breath, pitch, duration, accent, sequence, correction, and lineage. A syllable appears and vanishes, but the trained system catches it before it can drift. The mouth produces; the ear verifies; the teacher corrects; the community hears. This is Auditure in operation.
+The Veda is heard as recitation: breath, pitch, duration, accent, sequence, and self-correction through distributed transmission architecture. A syllable appears and vanishes, but the trained system catches it before it can drift. The mouth produces; the ear verifies; the teacher corrects; the community hears. This is Auditure in operation.
 
 This preservation is audible in the *pāṭhas* — living recitation systems maintained in identifiable lineages, taught in *gurukulas*, examined by teachers, performed before communities, and available to the ear.
 
 The *saṃhitā-pāṭha* is recited in temples and homes across the subcontinent and the diaspora. The *krama-pāṭha* is taught by lineages that still test it formally. The *ghana-pāṭha* is mastered by senior reciters who hold a title recognized across Vedic communities. These are the operational layer of the preservation system mapped earlier (Chapter 14).
 
-*Auditure* now appears in operation, with *Mnemoniture* as the remembered setting around it. The *Śikṣā* discipline trains the instrument. The eleven *pāṭhas* re-encode the corpus. Continuous recitation across multiple geographically separated lineages supplies the empirical cross-check. Sanskrit's preservation architecture leaves an observable engineering signature. The eleven *pāṭhas* are that signature.
+*Auditure* is what is heard; *Mnemoniture* is what is remembered in story, wisdom, setting, and civilizational memory. The *Śikṣā* discipline trains the speech instrument, and the eleven *pāṭhas* re-encode the corpus. Continuous recitation across geographically separated lineages, with periodic contact among them, supplies the empirical cross-check. Sanskrit's preservation architecture leaves an observable engineering signature. The eleven *pāṭhas* are that signature.
 
 ## 15.1 The *Śikṣā* Discipline
 
@@ -16,13 +16,13 @@ The *saṃhitā-pāṭha* is recited in temples and homes across the subcontinen
 
 The **प्रातिशाख्य (*Prātiśākhya*)** discipline specifies the phonetic constants of a recension: sounds, accents, junctions, pauses, and recitational rules. *Śikṣā* trains the human instrument to produce those constants reliably. It tells the student what to do with the tongue, breath, palate, duration, pitch, and sequence. It tells the teacher what to check.
 
-The named *Śikṣā* texts are compact because they are training manuals, not survey essays. The *Pāṇinīya-Śikṣā*, *Yājñavalkya-Śikṣā*, *Vāsiṣṭhī-Śikṣā*, *Āpiśali-Śikṣā*, and *Bhāradvāja-Śikṣā* belong to that world of disciplined production.[NOTE: shiksha-texts-standard-list] They read like operating instructions for a precision instrument. Points of articulation are enumerated. Vowel durations are quantified in **मात्रा (*mātrā*)** counts; consonants are treated as half-*mātrā* timing events — ***व्यञ्जनं चार्धमात्रिकम्***.[NOTE: vyanjana-duration-shiksha] Modes of contact between articulators are specified. Consequences of slippage at each point are tabulated. The procedural character of the texts is the signature of the architecture working through them.
+The listed *Śikṣā* texts are compact because they are training manuals, not survey essays. The *Pāṇinīya-Śikṣā*, *Yājñavalkya-Śikṣā*, *Vāsiṣṭhī-Śikṣā*, *Āpiśali-Śikṣā*, and *Bhāradvāja-Śikṣā* belong to that world of disciplined production.[NOTE: shiksha-texts-standard-list] They read like operating instructions for a precision instrument. Points of articulation are enumerated. Vowel durations are quantified in **मात्रा (*mātrā*)** counts; consonants are treated as half-*mātrā* timing events — ***व्यञ्जनं चार्धमात्रिकम्***.[NOTE: vyanjana-duration-shiksha] Modes of contact between articulators are specified. Consequences of slippage at each point are tabulated. The procedural character of the texts is the signature of the architecture working through them.
 
 Recitation is public. A *śiṣya* recites before a *guru*, before peers, before senior reciters, before a community that has heard the form before. A deviation is heard. Being heard, it is corrected. The *guru* holds the trained ear of his own *guru*. The student enters the chain by being corrected into it.
 
 The Veda is recitation first, writing second. The recitation is the primary body. Writing is a later reflection. The standard enumeration of the *Vedāṅgas* preserves the priority correctly: *Śikṣā* stands first.[NOTE: shiksha-first-vedanga-priority] Sound-production precedes the grammar that analyzes the form, the etymology that explains it, the ritual that employs it, and the calendrical discipline that times its use.
 
-Auditure is the foundation. *Śikṣā* trains the body that holds it.
+Auditure is the foundation and *Śikṣā* trains the instrument, the body that holds it.
 
 ## 15.2 The Eleven *Pāṭhas*
 
@@ -58,13 +58,13 @@ The *ghana-pāṭha* checks three-word windows. Each cell is expanded, reversed,
 
 The *vikṛti* recitations add further constraint. Each modified form gives the sequence a different shape. Together they form a redundancy field around the Vedic corpus. It is hard to construct a corruption that passes all eleven.
 
-This is the calibration matrix in motion (Chapter 14 §14.3) — *Chandas* operating like a cryptographic hash over the phonetic content. The meter binds the verse into a metrical form with low tolerance for drift. The *pāṭhas* re-encode the same content under combinatorial constraints with low tolerance for drift. *Śikṣā* trains the human instrument. The *guru* listens. The audience listens. The senior reciter listens. The old question remains (Chapter 14 §14.2): who guards the guards? In Auditure, the room itself participates in the answer, with multiple trained ears hearing the same *(n, n+1)* *sandhi* boundary in the *jaṭā-pāṭha* at the same instant.[NOTE: combinatorial-redundancy-comparative]
+This is the calibration matrix in motion (Chapter 14 §14.3) — *Chandas* operating like a cryptographic hash over the phonetic content. The meter binds the verse into a metrical form with low tolerance for drift. The *pāṭhas* re-encode the same content under combinatorial constraints with low tolerance for drift. *Śikṣā* trains the human instrument. The *guru* listens. The audience listens. The senior reciter listens. Auditure, as Sanātan’s aural foundation, answers the old question (Chapter 14 §14.2): who guards the guards? The room itself participates in the answer, with multiple trained ears hearing the same *(n, n+1)* *sandhi* boundary in the *jaṭā-pāṭha* at the same instant.[NOTE: combinatorial-redundancy-comparative]
 
-The *progressive dogma* treats the *pāṭhas* — when it engages them at all — as religious devotion, mnemonic ingenuity, or pedagogical curiosity. That category misses the object in front of it. The *pāṭhas* are not decorative. They are preservation engineering.
+As long as society continues to listen to what is heard, Auditure remains distributed and democratized.  
+
+The *progressive dogma* treats the *pāṭhas* — when it engages them at all — as religious devotion, mnemonic ingenuity, or pedagogical curiosity. That category obscures the fact that the *pāṭhas* are preservation engineering at the finest.
 
 ## 15.4 Empirical Verification
-
-The strongest evidence is not textual. It is audible.
 
 Vedic recitation survives in multiple geographically separated lineages: the Nambūdiri Brahmins of Kerala; Maharashtra Brahmin lineages; Tamil Nadu and Karnataka lineages; the Banaras and Allahabad lineages of the northern plains; Gujarat and Rajasthan lineages of the western coast; the Kashmir Pandit lineages preserved through displacement.[NOTE: nambudiri-vedic-recitation-isolation] These communities were not coordinated by one centralized institution. They preserved through parallel *guru-shishya* lineage-chains, with *śākhā* specification governing the differences that do appear.
 
@@ -72,15 +72,13 @@ The recitations can be compared. Recordings exist. Fieldwork on Nambūdiri recit
 
 The phonetic constants match at the level the architecture predicts: *varṇa* inventory, accent where preserved, *sandhi* execution, metrical structure, and recitational discipline. The lineages become independent checks. Their recitations agree.[NOTE: cross-shakha-verification-fieldwork]
 
-UNESCO recognized Vedic chanting in 2003 as a Masterpiece of the Oral and Intangible Heritage of Humanity.[NOTE: unesco-vedic-chanting-2003] The recognition is not the authority. The recitation is the authority. But even an external institution had to acknowledge the continuity and precision of the practice in front of it.
-
 The reader can test the claim. Recordings of *saṃhitā*, *krama*, *jaṭā*, and *ghana* recitation are available. The architecture can be heard. The system is not a claim about the past only. It is operating now.
 
 ## 15.5 The Living Architecture
 
 Three implications follow.
 
-First: the preservation architecture is observable. Competing accounts must explain the audible evidence, not merely tell a story about textual development.
+First: the preservation architecture is observable. The “oral tradition” label must explain the audible evidence, not merely tell an imagined story about textual development.
 
 Second: the engineering is real. The eleven *pāṭhas* operate as error-detecting re-encodings, *Śikṣā* trains the instrument, *Chandas* supplies the metrical hash, the *Prātiśākhya* documents the phonetic constants, and the *guru*, peer group, senior reciter, and audience together form a distributed verification network.
 

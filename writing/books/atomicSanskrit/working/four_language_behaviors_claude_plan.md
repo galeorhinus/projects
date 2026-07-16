@@ -33,6 +33,20 @@ The load-bearing distinction, now visible in the grid: **petrified and engineere
 
 **(b) The arrow — the narrative + the trap.** Three boxes (botanical / petrified / engineered) with **one arrow, engineered → botanical, labelled *vivimorphosis*.** The pyramid stands at the arrow's output and infers a botanical source. This is the PIE argument in one diagram.
 
+**(c) The adaptation axis — who absorbs change? (author, 2026-07-15 — load-bearing addition).** The world changes; every language faces the same pressure. The three states answer it differently:
+
+| Behavior | When the world changes… | Cost |
+|---|---|---|
+| **Botanical** | **the language changes** — it must mutate to accommodate new things, so it drifts | adaptation is paid for in drift: the past becomes unreadable |
+| **Petrified** | **nothing changes** — the frozen form cannot accommodate the new | stuck in the past: the price of fixity is obsolescence for new situations |
+| **Engineered** | **the usage changes, not the language** — the generative architecture (dhātu × pratyaya × upasarga) already holds unlimited vocabulary, so speakers derive what the new situation needs from the standing atoms; the architecture itself never moves | none: adaptation without drift |
+
+**This is the quintessence of *laukika*.** Sanskrit straddles **two simultaneous modes** (the vaidika/laukika + chandas/bhāṣā two-axis convention, CLAUDE.md): one mode that **never changes** (the *chandas*/vaidika corpus — the fixed calibrant), and a second mode where **the language still doesn't change but the usage adapts** (*laukika* — speakers derive new words from the same architecture for new situations). Unlimited generativity is what makes this possible: a botanical language must *mutate* to get a new word; Sanskrit *derives* one from the standing inventory. The language holds; the usage moves.
+
+**What the pyramid must hide — and how the "Vedic/Classical" fraud does it.** A language that runs a never-changing mode and an adapting-usage mode **simultaneously** breaks the botanical premise outright (natural languages cannot do this; they adapt only by drifting). So the pyramid re-describes the two simultaneous modes as two **sequential stages** — "Vedic Sanskrit" (early) hardening into "Classical Sanskrit" (late) — converting the architecture's live dual-mode capability into a chronology of decay-and-repair. *Domain is not chronology. Mode is not drift.* The four-behavior map plus this axis states the mechanism behind those hammers: the split-into-two-languages story exists **because** the dual-mode straddle would otherwise be visible.
+
+*Deployment:* the axis belongs wherever the compass lands (Ch2 — one tight beat: "a botanical language adapts by changing; Sanskrit adapts its usage while the language holds"), with the *laukika* development in the two-axis material (Preface terminology note, Ch1 §1.1 Move 7, Ch14) and the fraud-connection in Ch12/Ch18 where the machinery lives. Also feeds the layers-vs-time figure: the Sanskrit base-layer never moves *and yet* tracks every era — the strands above it move *in order to* track their eras.
+
 ## Current locations (verified against the manuscript)
 
 ### 1. Botanical change
@@ -280,6 +294,41 @@ RAT says Sanskrit arrived by invasion/imposition — the colonizer's move. But i
 - **The colonization cases** (Amazigh/Coptic/Aramaic + the table) → **Appendix Part 8**, tied into **Ch3** (the Abrahamic colonizations of India).
 - **Lead example: Marathi** = Sanskrit (via Prakrit/Maharashtri) + Korku + Ho + Mundari; forest-belt languages still living. **No Tamil.**
 - **⚠ Scope discipline (Codex's flag).** The Arabic/Coptic/Amazigh/Aramaic comparison balloons into a *second book* fast. Keep the **main line to the single compressed payoff** (*Korku-would-be-Coptic*, ~one line); confine the full comparative apparatus **and its sourcing** to **App 8**. This material is *evidence for the Radiance Thesis*, not a comparative-linguistics treatise — resist the sprawl, and every case (Coptic dead, Amazigh marginalized, Aramaic near-extinct, Persian survived) carries a citation before it deploys.
+
+## Vivimorphosis as endowment — botanical languages tap the calibrant (author, 2026-07-15)
+
+The plan so far frames vivimorphosis from the *source* side: the engineered form drifts, the *apaśabda* falls away. **The receiving side of the same event is a gift.** A botanical language that catches the radiance **taps into Sanskrit's generative capability** — it receives not just words but *productive seeds* — and gains lasting richness **while continuing its own botanical flow.** Nothing about the host is interrupted: it keeps drifting, keeps being itself, and is permanently wealthier. This is the positive mirror of the colonizer's-move section: **colonization erases the host; radiance endows it.**
+
+**The mechanism, in the book's own image:** the *bīja* is a **productive** seed. What sprouts is not one word but a **word-family** — the seed keeps part of the dhātu's generative capacity and goes on generating *inside* the receiving language. The vivimorphosis tree figure already draws this: **one seed, an entire canopy.**
+
+### Case 1 — Greek and Latin: replace the starred forms with dhātus and the richness becomes visible
+
+The move: in the etymological dictionaries, where a starred PIE root sits above a Greco-Latin word-family, **put the Sanskrit dhātu back in the source slot** — and the family reads as a dhātu-tap. The richness of the classical languages (and, through them, of English) is the dhātu engine's endowment:
+
+| dhātu | the pyramid's asterisk | the family it feeds (via Greek/Latin, into English) |
+|---|---|---|
+| ⟪स्था⟫ *sthā* | \**steh₂-* | *status, state, estate, station, stable, establish, statue, statute, instant, constant, substance, circumstance, system, stasis, static…* |
+| ⟪जन्⟫ *jan* | \**ǵenh₁-* | *genus, gene, generate, general, generous, genius, gentle, nature, native, nation, genesis…* |
+| ⟪विद्⟫ *vid* | \**weyd-* | *video, vision, evident, provide, review, idea, wit, wisdom…* |
+| ⟪धा⟫ *dhā* | \**dʰeh₁-* | Latin *facere*: *fact, factory, effect, office, deficit…*; Greek *tithēmi*: *thesis, theme, hypothesis…* |
+| ⟪भृ⟫ *bhṛ* | \**bʰer-* | *transfer, refer, confer, fertile; metaphor, phosphorus, euphoria…* |
+| ⟪मा⟫ *mā* | \**meh₁-* | *measure, dimension, immense; metre, geometry, symmetry…* |
+
+A huge fraction of English abstract vocabulary sits in these dhātu-fed families. And the *derivational fecundity itself* — one root yielding dozens of formations — is the dhātu × pratyaya engine's signature, palely persisting in the receiving languages. **Greek and Latin did not lose their botanical flow; they got rich.** (Ch18 already runs *sthā*/*div*; this generalizes it into the endowment table.)
+
+### Case 2 — Buddhism carries the radiance into Asia (Wave 1 + Wave 2, no army anywhere)
+
+The Asian sweep is the cleanest live demonstration, because **no conquest is available to explain it** — monks, not soldiers; *ṛṣi-carried radiance* in the historical record:
+
+- **Wave 1 (vocabulary seeds):** *dhyāna* → Chinese *chán* 禅 → Japanese *zen*; *buddha* → *fó* 佛; *nirvāṇa* → *nièpán* 涅槃; *kṣaṇa* → *chànà* / Japanese *setsuna*; *stūpa* → *tǎ* 塔 / *sotoba*; *maṇḍala* → *mandara*; *bodhisattva* → *púsà* / *bosatsu* — each seed sprouting in the host's own phonology, host flow uninterrupted.
+- **Wave 2 (method seeds — the deeper endowment):** **Japanese kana ordering** — the *gojūon* grid (a-i-u-e-o × k-s-t-n-h-m-y-r-w) follows the **varṇamālā's order**, received through Siddham (*shittan*) studies; **Chinese rime-table phonology** developed under the stimulus of Sanskrit phonetic science; **Tibetan** received grammar-method wholesale (the *Mahāvyutpatti* translation standard). The receiving civilizations took not only words but **the analytical apparatus** — and stayed entirely themselves.
+- **Southeast Asia (the naming layer):** Indonesian/Malay ***bahasa* < *bhāṣā*** — *the very word for "language" is the calibrant's seed*; **Singapore < *Siṃhapura***; **Ayutthaya < *Ayodhyā***; **Angkor < *nagara***; *Suvarṇabhūmi* (Bangkok's airport), *Pancasila* (*pañca-śīla*), Garuda, *raja/putra/nama/desa/bumi/warna/karya* throughout Malay-Indonesian; Thai's royal and learned registers running on Sanskrit-Pali vocabulary.
+
+**Guardrails:** (a) much SE-Asian material traveled via **Pali** — in the book's terms an *orbital* form, so say **Sanskritic (Sanskrit and its orbital Pali)** rather than claiming direct Sanskrit for each item; (b) **⚠ VERIFY before body deployment**: the *gojūon*-from-Siddham and rime-table claims are documented but need citations pulled; the toponym etymologies (Siṃhapura, Ayodhyā→Ayutthaya, nagara→Angkor) are standard but should each carry a source; log in the verification queue with the Marathi items.
+
+**The three-way close this enables:** Arabic conquest reached Persia — Persian survived *but Coptic and Amazigh did not*. Sanskrit reached China, Japan, Java, Siam — with **no army at any point** — and **every receiving language is alive, enriched, and itself**. Radiance endows; conquest erases; and the endowment even runs *through* the classical languages of Europe into English, which is why the reader's own abstract vocabulary is full of dhātu-fed families.
+
+**Deployment:** the Greco-Latin endowment table → **Ch18** (beside the *sthā*/*div* trees — the "replace the asterisk with the dhātu" move); the Buddhist-Asia sweep → **Ch19** (Wave 1/2 territory; *Life After PIE*'s constructive turn); compressed echoes in **App 8** and the Epilogue's radiance material. **Figure hook:** in the layers-vs-time diagram, a strand that takes a radiance pulse should visibly **branch and thicken afterward** — endowment drawn, not asserted.
 
 ## The petrification warning — India now (the prescription)
 

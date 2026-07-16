@@ -60,6 +60,8 @@ The same disposition appears across domains. It built the place-value number sys
 
 These achievements share one source: a culture of *ṛṣis* ऋषि and *ṛṣikās* ऋषिका, *jijñāsus* जिज्ञासु and *muniśvaras* मुनीश्वर — seekers, inquirers, disciplined men and women whose work the civilization remembered without always remembering their names.
 
+Within *Sanātan*, even a follower is first a seeker: someone who has chosen a path because that path fits their worldview, capacity, temperament, duties, and present state of life. The path may be inherited, taught, discovered, or deepened through lineage, but it remains a path entered by a living person, not a single corridor imposed on all.
+
 The analytical decomposition of language and number both belong to that culture. The same civilization that asked *how many quantities can be expressed* answered with a place-value system in which ten symbols span arithmetic. The same civilization that asked *how many words can be generated* answered with *dhātu* धातु, *upasarga* उपसर्ग, and *pratyaya* प्रत्यय: semantic atoms, prefixes, and suffixes through which a finite inventory opens into a practically limitless vocabulary.
 
 Sanskrit's engineering is the analytical decomposition of the audible world. The number system is the analytical decomposition of the countable world. Both are works of disciplined seeking.

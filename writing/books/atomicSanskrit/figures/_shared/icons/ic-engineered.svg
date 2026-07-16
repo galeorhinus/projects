@@ -1,0 +1,8 @@
+<!-- lineage: py
+     canonical-source: ic-engineered.from-py.svg
+     updated: 2026-07-15 -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 202 136" width="202" height="136">
+<polygon points="36.0,16.0 76.0,16.0 96.0,50.6 76.0,85.3 36.0,85.3 16.0,50.6" fill="#d8c7a3" stroke="#5c4830" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="96.0,50.6 106.0,50.6 126.0,85.3 106.0,119.9 96.0,119.9 76.0,85.3" fill="#d8c7a3" stroke="#5c4830" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="126.0,16.0 166.0,16.0 186.0,50.6 166.0,85.3 126.0,85.3 106.0,50.6" fill="#d8c7a3" stroke="#5c4830" stroke-width="2" stroke-linejoin="round"/>
+</svg>

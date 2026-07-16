@@ -159,7 +159,7 @@ When a phase or sub-item completes, mark the box and add a one-line note with th
 ### D.4 — Cover design [ ]
 
 - [ ] Brief for the cover artist / designer.
-- [ ] Title + subtitle locked: ***Atomic Sanskrit: The Fractal Calibration Architecture of Sanātan*** (per current `as_book.yaml`).
+- [ ] Title + subtitle locked: ***Atomic Sanskrit: The Radiant, Calibrant, and Fractal Architecture of Sanātan*** (per current `as_book.yaml`).
 
 ### D.5 — Final copy edit [ ]
 

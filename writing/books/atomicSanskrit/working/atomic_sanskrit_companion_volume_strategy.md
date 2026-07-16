@@ -6,7 +6,7 @@
 
 Publish the present **Atomic Sanskrit** manuscript first as the founding volume.
 
-The current title should remain ***Atomic Sanskrit: The Fractal Calibration Architecture of Sanātan***. The founding book is the public entry point: it carries the eclipse/prosecution frame and must remain legible to catalogs, reviewers, libraries, and readers who do not yet know the internal vocabulary. **Sanskrit** keeps that doorway wide.
+The current title should remain ***Atomic Sanskrit: The Radiant, Calibrant, and Fractal Architecture of Sanātan***. The founding book is the public entry point: it carries the eclipse/prosecution frame and must remain legible to catalogs, reviewers, libraries, and readers who do not yet know the internal vocabulary. **Sanskrit** keeps that doorway wide.
 
 The current book has two interlocked arguments:
 
@@ -144,7 +144,7 @@ The diagnostic vocabulary appears as the prosecution's analytical frame, not as 
 
 Current favorite: **Sanskrit v. the Pyramid** — the court-caption form is continuous with the founding Prologue, which already names the asuric pyramid as the accused. Avoid *The Trial of Sanskrit*: it inverts who is on trial.
 
-The title inventory from the earlier broad concept (**The Asuric Pyramid: The Fractal Architecture of Control**, **Daitya Pyramid**, **The Pyramid Against the Swastika**) moves with that concept to the Second Shanti series. The subtitle-mirror idea — *The Fractal Architecture of Control* answering *The Fractal Calibration Architecture of Sanātan* — is preserved there.
+The title inventory from the earlier broad concept (**The Asuric Pyramid: The Fractal Architecture of Control**, **Daitya Pyramid**, **The Pyramid Against the Swastika**) moves with that concept to the Second Shanti series. The subtitle-mirror idea — *The Fractal Architecture of Control* answering *The Radiant, Calibrant, and Fractal Architecture of Sanātan* — is preserved there.
 
 ### Intended Audience
 

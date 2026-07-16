@@ -1261,7 +1261,7 @@ Source: Kielhorn's edition of the *Mahābhāṣya* (third edition revised by Abh
 
 ### `eleven-pathas`
 
-**Short:** The Vedic recitation lineages transmit each *Saṃhitā* (संहिता) through eleven *pāṭhas* (पाठ) — five *prakṛti* (प्रकृति: *Saṃhitā*, *Pada* (पद), *Krama* (क्रम), *Jaṭā* (जटा), *Ghana* (घन)) and six *vikṛti* (विकृति: *Mālā*, *Śikhā*, *Rekhā*, *Dhvaja*, *Daṇḍa*, *Ratha*) — operating as a many-to-one error-correcting code: each *pāṭha* recombines the same word-sequence by a different permutation rule, so any phoneme error propagates inconsistently and is caught by the *guru-shishya* lineage-chain. Documented in the *Prātiśākhya* (प्रातिशाख्य) and *Śikṣā* (शिक्षा) literature; UNESCO-recognized 2003.
+**Short:** The Vedic recitation lineages transmit each *Saṃhitā* (संहिता) through eleven *pāṭhas* (पाठ) — five *prakṛti* (प्रकृति: *Saṃhitā*, *Pada* (पद), *Krama* (क्रम), *Jaṭā* (जटा), *Ghana* (घन)) and six *vikṛti* (विकृति: *Mālā*, *Śikhā*, *Rekhā*, *Dhvaja*, *Daṇḍa*, *Ratha*) — operating as a many-to-one error-correcting code: each *pāṭha* recombines the same word-sequence by a different permutation rule, so any phoneme error propagates inconsistently and is caught by the *guru-shishya* lineage-chain. Documented in the *Prātiśākhya* (प्रातिशाख्य) and *Śikṣā* (शिक्षा) literature.
 
 **Deployments:** Preface ¶17 — the methodology paragraph that presents the eleven *pāṭhas* as a redundancy system rather than cultural ornament; subsequent extended treatment at Chapter 15 §§15.2–15.3.
 
@@ -1288,7 +1288,7 @@ The combinatorial logic is the point. Each successive *pāṭha* recombines the 
 
 The *Ghana-pāṭha* mastery confers the title ***Ghanapāṭhin*** — a reciter recognized as having mastered the densest of the standard *prakṛti-pāṭhas*. The honorific is socially recognized across Vedic recitation lineages (Nambūdiri, Iyengar, Iyer, Gauḍa, Marāṭhī Deśastha, and others maintaining recitation lineages); calling a reciter *Ghanapāṭhin* anchors the speaker's training depth.
 
-The eleven *pāṭhas* are treated extensively in the *Prātiśākhya* literature (the received phonetic-recitational *śāstra* attached to each *Veda*: *Ṛk-Prātiśākhya*, *Taittirīya-Prātiśākhya*, *Vājasaneyi-Prātiśākhya*, *Atharvaveda-Prātiśākhya*) and in the *Śikṣā* texts (the auxiliary phonetics literature including *Pāṇinīya-Śikṣā*, *Nāradīya-Śikṣā*, *Yājñavalkya-Śikṣā*). Modern documentation: Wayne Howard, *Sāmavedic Chant* (Yale University Press, 1977); Frits Staal, *The Science of Ritual* (Bhandarkar Oriental Research Institute, 1982); the UNESCO 2003 recognition of *Vedic Chanting* as a *Masterpiece of the Oral and Intangible Heritage of Humanity* (transferred in 2008 to the UNESCO Representative List of the Intangible Cultural Heritage of Humanity). Chapter 15 §§15.2–15.3 develops the redundancy-system analysis in full.
+The eleven *pāṭhas* are treated extensively in the *Prātiśākhya* literature (the received phonetic-recitational *śāstra* attached to each *Veda*: *Ṛk-Prātiśākhya*, *Taittirīya-Prātiśākhya*, *Vājasaneyi-Prātiśākhya*, *Atharvaveda-Prātiśākhya*) and in the *Śikṣā* texts (the auxiliary phonetics literature including *Pāṇinīya-Śikṣā*, *Nāradīya-Śikṣā*, *Yājñavalkya-Śikṣā*). Modern documentation includes Wayne Howard, *Sāmavedic Chant* (Yale University Press, 1977) and Frits Staal, *The Science of Ritual* (Bhandarkar Oriental Research Institute, 1982). Chapter 15 §§15.2–15.3 develops the redundancy-system analysis in full.
 
 ---
 
@@ -3335,7 +3335,7 @@ The principal manuscript anchors: the ***Aleppo Codex*** (Crown of Aleppo, early
 
 The Western philological community reads the Masoretic apparatus as engineered preservation. The textual-critical literature explicitly treats the Masoretic text as a deliberately fixed specification against which medieval and modern Hebrew Bible manuscripts are evaluated. The terminology of "engineering" applied to textual preservation is the Western field's own; Ch14 operates within that established recognition to make the comparative-tradition case.
 
-The structural comparison Ch14 establishes: the Masoretic apparatus is sophisticated engineered preservation, operating across roughly four centuries of codification activity. The apparatus is impressive on its own terms. The broader claim is that the Vedic preservation infrastructure is *more rigorous* — operating at the phoneme level rather than the consonant-and-vocalization-and-cantillation level, across more generations of continuous operation, with deeper redundancy (the eleven *pāṭhas*) and broader independent-lineage cross-verification (see endnotes `nambudiri-vedic-recitation-isolation`, `cross-shakha-verification-fieldwork`, `unesco-vedic-chanting-2003`).
+The structural comparison Ch14 establishes: the Masoretic apparatus is sophisticated engineered preservation, operating across roughly four centuries of codification activity. The apparatus is impressive on its own terms. The broader claim is that the Vedic preservation infrastructure is *more rigorous* — operating at the phoneme level rather than the consonant-and-vocalization-and-cantillation level, across more generations of continuous operation, with deeper redundancy (the eleven *pāṭhas*) and broader independent-lineage cross-verification (see endnotes `nambudiri-vedic-recitation-isolation` and `cross-shakha-verification-fieldwork`).
 
 Standard references: Israel Yeivin, *Introduction to the Tiberian Masorah* (Scholars Press, 1980, English translation of his 1968 Hebrew original); Aron Dotan, *The Hebrew Bible (Codex Leningrad B19A): Reproduced in Facsimile* (Eerdmans, 1998); Emanuel Tov, *Textual Criticism of the Hebrew Bible* (Fortress Press, 3rd edition 2012); Page H. Kelley, Daniel S. Mynatt, Timothy G. Crawford, *The Masorah of Biblia Hebraica Stuttgartensia: Introduction and Annotated Glossary* (Eerdmans, 1998). For the Aleppo Codex: Mordechai Glatzer, *Aleppo Codex: Codicological and Paleographic Aspects of the Crown of Aleppo* (Ben-Zvi Institute, 1989).
 
@@ -3601,29 +3601,6 @@ The subsequent fieldwork on Vedic recitation across multiple *śākhā* lineages
 The empirical observation for Ch15: where the lineages diverge in their recitations, the divergences are *catalogued, named, and located* — *this śākhā has this reading at this point; that śākhā has that reading at that point*. The *Prātiśākhya* of each *śākhā* lays out the phonetic constants the *śākhā* preserves; the differences across lineages are at the level the *Prātiśākhya* texts *predict* rather than at the level of free drift. The lineages function as independent checks against one another; the recitational evidence agrees at the governed points.
 
 Standard references: the works enumerated above; the broader literature on Vedic recitation as engineered preservation; the contemporary documentation projects available through the named institutions.
-
----
-
-### `unesco-vedic-chanting-2003`
-
-**Short:** UNESCO recognized ***Vedic chanting*** on its *Masterpieces of the Oral and Intangible Heritage of Humanity* list in 2003 (Inscription Number 00062; transferred 2008 to the *Representative List of the Intangible Cultural Heritage of Humanity*); citation submitted by the Indian government, referencing the multi-channel preservation engineering (eleven *pāṭhas*), cross-lineage continuity across geographically separated transmission networks, unbroken *guru-shishya* transmission across many generations, and the integration of phonetics, meter, syntax, and recitation in a unified system.
-
-**Deployments:** Chapter 15 §15.4 ¶ — the citation anchor for the UNESCO 2003 recognition of Vedic chanting.
-
-UNESCO recognized ***Vedic chanting*** (the *Tradition of Vedic Chanting*) on its list of *Masterpieces of the Oral and Intangible Heritage of Humanity* in 2003, with the citation submitted by the Indian government. The recognition was transferred in 2008 to the *UNESCO Representative List of the Intangible Cultural Heritage of Humanity* when the Masterpieces program was reorganized.
-
-The UNESCO citation explicitly references:
-
-- The multi-channel preservation engineering — the eleven *pāṭhas* and the broader phonetic-recitational redundancy system.
-- The cross-lineage continuity across geographically separated Vedic transmission networks.
-- The unbroken transmission across many generations through the *guru-shishya* lineage-chain.
-- The integration of phonetics, meter, syntax, and recitation in a unified system.
-
-The structural significance for Ch15: the UNESCO recognition is, in itself, a small thing — UNESCO's list is a Western-establishment's gesture toward an architecture Western establishments have struggled to read for over a century. The citation still has value because UNESCO had to look at what was actually in front of it: an engineering accomplishment with no comparable analog among the ancient linguistic-preservation traditions surveyed here.
-
-The official UNESCO documentation is available at unesco.org under the Intangible Cultural Heritage list; the inscription nomination file is the *Tradition of Vedic Chanting* (Inscription Number 00062, originally proclaimed 2003, transferred to the Representative List in 2008). The official summary describes the transmission as "the precise and unbroken transmission of the Vedic texts across many generations through *guru-shishya paramparā*."
-
-Standard references: UNESCO Intangible Cultural Heritage documentation at unesco.org; the nomination file submitted by the Indian government; subsequent scholarly engagement with the UNESCO recognition (the *International Journal of Intangible Heritage*; various conference proceedings).
 
 ---
 

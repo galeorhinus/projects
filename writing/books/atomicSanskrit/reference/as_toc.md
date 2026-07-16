@@ -1,6 +1,6 @@
 # Atomic Sanskrit — Table of Contents
 
-*The Fractal Calibration Architecture of Sanātan*
+*The Radiant, Calibrant, and Fractal Architecture of Sanātan*
 
 ## Front Matter
 

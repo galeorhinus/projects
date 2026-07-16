@@ -6,10 +6,21 @@ Make sure the reader can distinguish four different language behaviors that the 
 
 1. **Botanical change** — natural languages change organically through usage, geography, prestige, contact, time, and decay.
 2. **Petrification** — an organic language-form is selected and preserved by authority, canon, clergy, academy, school, state, or document custody.
-3. **Engineering** — Sanskrit is held by internal architecture: sound, meter, grammar, recitation, lineage, and calibration.
+3. **Engineering** — Sanskrit is held by internal architecture: sound, meter, grammar, recitation, lineage, and calibration. The vocabulary can expand without the language having to mutate.
 4. **Vivimorphosis** — an engineered Sanskrit form crosses the calibrant boundary and becomes organic inside another language.
 
 The existing manuscript already contains the parts. The reader needs one clear synthesis so these do not blur into each other.
+
+## Load-Bearing Distinction: Where Adaptation Happens
+
+The four-behavior frame must distinguish **language change** from **usage adaptation**.
+
+- In **botanical change**, language adapts to new time, place, situation, contact, and need by changing organically. New circumstances alter the language itself: sound shifts, forms drift, meanings move, and branches form.
+- In **petrification**, the selected register is held in the past. It can remain usable in sacred, legal, scholarly, or ceremonial contexts, but its bounded form is protected against ordinary adaptation. Living speech continues elsewhere.
+- In **engineering**, the architecture itself has unlimited generative capacity. Sanskrit does not need to mutate in order to meet new circumstances. Speakers adapt **usage**: they compose, derive, extend, and apply within the calibrated architecture. This is the quintessence of the **laukika** domain: the language remains Sanskrit while usage answers the world.
+- In **vivimorphosis**, an engineered Sanskrit form leaves the calibrant boundary. Once outside the architecture, it behaves botanically in the receiving language.
+
+This distinction also explains why the pyramid has to hide Sanskrit's two simultaneous domains. In the **vaidika** domain, both language and content are invariant. In the **laukika** domain, the language remains calibrated while usage, composition, subject matter, and application adapt. The pyramid's split — natural Vedic before Pāṇini, codified Classical after Pāṇini — hides the more dangerous fact: Sanskrit can preserve an unchanging calibrant and support adaptive civilizational use at the same time.
 
 ## Current Locations
 
@@ -132,7 +143,7 @@ Primary locations:
 
 Current role:
 
-The book already makes Sanskrit the only full language example of engineering: not natural drift, not codified correction, but calibration by architecture.
+The book already makes Sanskrit the only full language example of engineering: not natural drift, not codified correction, but calibration by architecture. The synthesis should add the adaptation-layer point: Sanskrit adapts by **usage within architecture**, not by mutation of the language itself. The **laukika** domain is the visible proof: new subjects, contexts, and compositions can appear while the language remains calibrated Sanskrit.
 
 Deployment note:
 
@@ -149,16 +160,25 @@ Current role:
 
 Ch12 already gives the strongest definition: a Sanskrit *śabda* crosses the calibrant boundary, becomes *bīja* in a listener’s cognition, and later sprouts as *apaśabda* inside a contact language.
 
+Add the benefit-side explicitly:
+
+Vivimorphosis is not only a story of loosening. A botanical language can **tap into Sanskrit's generative capability** without becoming Sanskrit and without ceasing to flow as a natural language. Sanskrit supplies engineered molecules, semantic atoms, compounds, technical vocabulary, philosophical categories, liturgical terms, and naming patterns. The receiving language absorbs them as *bīja* and then grows them in its own grammar, sound-system, and usage. The receiving language benefits from Sanskrit's radiance while remaining botanical.
+
 Examples and guardrails:
 
 - **Old Persian / Avestan** can be treated as strong vivimorphosis candidates. They occupy a distinct Iranian language ecology and preserve cases where Sanskritic forms or categories appear as organicized contact-language forms: *asura → ahura*, *Sindhu → Hinduš*, and similar cases developed in Ch18.
-- **Greek and Latin** should be treated as major vivimorphosis fields. They preserve a large number of organicized forms whose Sanskrit atomic / molecular structure remains recoverable, while the Sanskrit engineering is no longer operational inside Greek or Latin. Their likely path in this terminology is: Sanskritic radiance → vivimorphosis → Greek / Latin botanical life → classical petrification.
+- **Greek and Latin** should be treated as major vivimorphosis fields. They preserve a large number of organicized forms whose Sanskrit atomic / molecular structure remains recoverable, while the Sanskrit engineering is no longer operational inside Greek or Latin. The book should make the replacement explicit: remove the imaginary PIE ancestor from the explanatory slot and test whether Sanskrit *dhātavaḥ* and molecules account for the richness that Greek and Latin received. Their likely path in this terminology is: Sanskritic radiance → vivimorphosis → Greek / Latin botanical life → classical petrification.
+- **Asian Buddhist transmission languages** should become the second major benefit-case, after Greek and Latin. Buddhism carried Sanskritic and Sanskrit-adjacent vocabulary, compounds, names, mantras, doctrinal categories, and translation-calque patterns into Pāli, Gāndhārī, Buddhist Hybrid Sanskrit, Tibetan, Chinese, Korean, Japanese, Vietnamese, Mongolian, Thai, Khmer, Burmese, and related literary worlds. These languages did not become Sanskrit. They drew from Sanskrit's generative reservoir, absorbed the *bījas*, and continued flowing in their own grammars. This is vivimorphosis as civilizational enrichment rather than ancestry.
 - **Prakrit / Prākritika languages** should not be the flagship vivimorphosis examples. They remain inside Sanskrit’s gravity field. They are better described as **orbital apabhraṃśa**, **orbital naturalization**, or **calibrant-adjacent naturalization**: natural speech moving away from Sanskrit while remaining close enough to be measured against it.
 - Older contact languages may preserve forms closer to Sanskrit, but age alone is not the explanation. Closeness depends on contact intensity, prestige, sound inventory, preservation mechanisms, and whether a later authority petrified a received form.
 
 Deployment note:
 
 Keep the full explanation in Ch12. Ch18 should continue to show worked cases: *mātṛ → mother*, *devaḥ → deus*, *asuraḥ → ahura*, *sthā* vivimorphosis, and related examples.
+
+Add a companion deployment either in Ch18 or the Source and Reference Companion:
+
+> Vivimorphosis is also how Sanskrit enriches botanical languages. Greek and Latin should be reread with Sanskrit *dhātavaḥ* in the source position where the pyramid now places PIE. Asian Buddhist transmission gives the same pattern in a historically visible register: Sanskritic categories, names, compounds, and mantric forms enter living languages, become local *bījas*, and then grow in Chinese, Tibetan, Japanese, Southeast Asian, and other language ecologies without making those languages Sanskrit.
 
 ## Recommended Deployment
 
@@ -202,10 +222,10 @@ Suggested table:
 
 | Behavior | What changes | What preserves | Example |
 |---|---|---|---|
-| **Botanical change** | Organic speech shifts by usage, geography, prestige, contact, and time. | Nothing internal prevents drift. | Old English → English; Latin → Romance. |
-| **Petrification** | A selected register is frozen or guarded by authority. | Text, canon, school, clergy, state, document custody. | Quranic Arabic, Masoretic / Biblical Hebrew, ecclesiastical Latin. |
+| **Botanical change** | Organic speech adapts by changing: sounds, forms, meanings, and branches drift with time, place, contact, and circumstance. | Nothing internal prevents drift. | Old English → English; Latin → Romance. |
+| **Petrification** | A selected register is guarded against ordinary adaptation and held as a bounded past form. | Text, canon, school, clergy, state, document custody. | Quranic Arabic, Masoretic / Biblical Hebrew, ecclesiastical Latin. |
 | **Revivification** | A petrified form re-enters living speech. | The old form supplies a source, but ordinary speakers resume change. | Modern Hebrew as revived speech; other revival cases to verify. |
-| **Engineering** | The form is generated and corrected from inside the architecture. | Sound, meter, grammar, recitation, lineage, calibration. | Sanskrit. |
+| **Engineering** | Usage adapts while the language remains calibrated; vocabulary expands through generative architecture rather than mutation. | Sound, meter, grammar, recitation, lineage, calibration. | Sanskrit, especially the laukika domain. |
 | **Vivimorphosis** | An engineered form becomes organic outside Sanskrit. | A seed or reflection survives, while engineered bonds loosen. | Greek and Latin fields; *devaḥ → deus*; *mātṛ → mother*; *asuraḥ → ahura*; *Sindhu → Hinduš*. |
 
 Optional related row if the table expands:
@@ -216,6 +236,10 @@ Possible paragraph before the table:
 
 > The botanical metaphor finally has its proper map. It explains natural change. It also explains what happens after a Sanskrit *śabda* crosses the calibrant boundary and takes organic life elsewhere. It does not explain Sanskrit itself.
 
+Possible paragraph after the table:
+
+> The crucial difference is the layer at which adaptation occurs. Botanical languages adapt by changing the language. Petrified registers resist adaptation by being held under authority. Sanskrit adapts differently: the calibrated language remains itself, while speakers extend usage through derivation, composition, application, and commentary. That is why **laukika** Sanskrit matters. It shows a language that can answer changing worlds without ceasing to be the calibrant.
+
 ### Ch18
 
 Use the four-way distinction implicitly through examples.
@@ -225,6 +249,14 @@ Add a brief reminder near the *sthā* vivimorphosis figure:
 > The organic tree belongs on the receiving side. Sanskrit supplies engineered molecules; contact languages grow the botanical forms.
 
 This keeps the reader from confusing the visual tree in Ch18 with the botanical theft rejected in Ch2.
+
+Add a second reminder after the Greek / Latin / *sthā* example cluster:
+
+> Vivimorphosis is not impoverishment. It is one way botanical languages receive Sanskritic radiance. Greek and Latin gained richness from Sanskritic atoms and molecules while continuing their own natural flow. The pyramid turned that enrichment backward into ancestry and called the imagined source PIE.
+
+Possible later paragraph, if the Asian Buddhist case is brought into Ch18 or an appendix:
+
+> The Buddhist transmission map shows vivimorphosis in daylight. Sanskritic and Sanskrit-adjacent forms travel with teachers, texts, mantras, names, compounds, and categories. Chinese, Tibetan, Japanese, Korean, Vietnamese, Mongolian, Thai, Khmer, Burmese, and other languages receive them, translate them, calque them, pronounce them locally, and grow new literary and philosophical vocabularies around them. None becomes Sanskrit. Each remains botanical. Yet each has tapped, visibly, into Sanskrit's generative reservoir.
 
 Possible Ch18 terminology addition:
 
@@ -353,6 +385,8 @@ Use this contrast near the section that rejects the migration-generated Sanskrit
 
 Handle the “Western philology has done real research on botanical change” point here, not in the main body.
 
+Also handle the “vivimorphosis as enrichment” evidence here if the body needs to stay lean.
+
 Mention the major descriptive traditions:
 
 - comparative method
@@ -367,6 +401,12 @@ Mention the major descriptive traditions:
 Use the point fairly:
 
 > The descriptive work on natural language change is not the problem. The category extension is the problem. A method built to describe botanical change was treated as universal, then forced onto Sanskrit.
+
+Suggested evidence subsections:
+
+1. **Greek and Latin without PIE in the source slot.** Choose a small set of high-value families where the current reference tradition sends the reader to PIE, then test the Sanskrit *dhātuḥ* / molecule explanation directly. Good candidates already in the manuscript orbit: *jan* / birth-family, *div* / light-divinity family, *mā* / mother-measure family, *sthā* / standing-state family, *as* / being-family.
+2. **Buddhist Sanskritic radiance in Asia.** Build a compact table of Sanskrit or Sanskrit-adjacent source forms, transmission path, receiving-language form, and semantic field. Possible semantic fields: Buddha / bodhi / dharma / karma / saṃgha, mantra and dhāraṇī terms, names of deities and bodhisattvas, philosophical vocabulary, monastic vocabulary, and calqued compounds.
+3. **What the examples prove.** Botanical languages can receive Sanskritic radiance, derive new vocabulary and categories from it, and keep flowing. The contact benefit is real. The ancestry claim is the pyramid's reversal.
 
 ## Figure Possibility
 
