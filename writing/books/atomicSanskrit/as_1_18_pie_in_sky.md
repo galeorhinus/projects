@@ -43,16 +43,8 @@ Hear the first syllable again. The honest conlanger's *con-* is *constructed* �
 
 The pyramid's defense retreats to bookkeeping. It says: yes, the forms are hypothetical; yes, nobody claims to have a recording of PIE; yes, the asterisk denotes reconstruction. The starred forms are only labels for systematic correspondences.
 
-<!-- AISWEEP-OLD
-Placement exposes the problem.
-
-When a dictionary writes "from PIE \*méh₂tēr" at the deepest point in an etymological chain, it is not merely filing a correspondence. It is assigning ancestry.
-AISWEEP-END -->
 When a dictionary writes "from PIE \*ǵenh₁" at the deepest point in an etymological chain, it is not merely filing a correspondence. It is assigning ancestry. Placement does that work. The asterisk is a procedural disclaimer. The chain position is an ontological commitment. The casual reader does not read "summary label for a correspondence set." The reader reads "source." The bookkeeping label has been doing ancestor work continuously, every time the label has been deployed.
 
-<!-- AISWEEP-OLD
-The logic breaks again. PIE cannot be the etymon of any word. A reconstructed form is not an etymon.
-AISWEEP-END -->
 PIE cannot be the etymon of any word, and the logic breaks again on that fact. A reconstructed form is not an etymon. The endpoint of going backward in time is the *earliest* real form, not a reconstruction the procedure has projected behind that form. A reconstruction may summarize features shared by real forms; it cannot be the source from which those forms descend unless the reconstruction corresponds to a real spoken form. *Janaka* exists. *Genus* exists. *Génos* exists. **\*ǵenh₁** does not.
 
 The procedural reconstruction is exposed for what it is — an average of the reflections, misrepresented as a source. The bookkeeping claim collapses.
@@ -246,7 +238,7 @@ The Sanskrit-side chain is internal:
 >
 > *atom → molecule → seed → sprout — life begins*
 
-The Sanskrit side is engineered, not reconstructed — and it is two words, not one. The first is *asu-ra*, the breath-bearer: the holder of the life-force, the *asura* the Ṛgveda praises in Indra and Varuṇa. The second is *a-sura*, the un-shining: the privative of *sura*, the shining one from the *dhātu* ⟪सुर्⟫ — the withholder. Two derivations, one form. Yāska catalogued them in the open; Chapter 3 §3.6 develops the full analysis.
+The Sanskrit side is engineered, not reconstructed — and it is two words, not one. The first is *asu-ra*, the breath-bearer: the holder of the life-force, the *asura* the Ṛgveda praises in Indra and Varuṇa. The second is *a-sura*, the un-shining: the privative of *sura*, the shining one from the *dhātu* ⟪सुर्⟫ — the withholder. Two derivations, one form. Yāska catalogued them in the open; Chapter 3 §3.6 develops the full analysis. **अजः (*ajaḥ*)** is another Sanskrit example of two completely different words that sound identical. *Aj*-a, the goat, the driven one from ⟪अज्⟫, beside a-*ja*, the Unborn of the Gītā, the privative of ⟪जन्⟫ — a dhātu-build beside a privative on one identical sound, exactly as *asu*-ra sits beside a-*sura*.
 
 The pyramid was clearly aware of both words.[NOTE: asura-standard-etymology-contested] Its own dictionaries record both derivations side by side — Monier-Williams gives *asura* from *asu*, the life-force, and the privative *a-* + *sura* in the same entry; its own presses printed Yāska's parses. But two honest words feed no reconstruction, so it chose one word and baked one imaginary ancestor behind it: the *contested* \**h₂n̥su-* "life force" — an ancestor-form built to hold the very meaning, *asu*, that its own dictionary already recorded from Yāska's derivation. One side documents two engineered forms; the other bakes one ancestor to avoid them.
 
