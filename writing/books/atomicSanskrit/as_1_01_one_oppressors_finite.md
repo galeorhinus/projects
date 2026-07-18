@@ -82,7 +82,7 @@ The asuric pyramid repeats that operation against Sanskrit in two stages. First 
 
 Svarbhānu obscures: the light remains, but the field goes dark. The worlds are still there, yet they become **मुग्ध (*mugdha*)**, bewildered. The same shape governs the attack on Sanskrit. The sound remains audible. The texts remain printed. Pāṇini remains praised. The dictionaries remain on the shelf. What is darkened is the category: Sanskrit as **संस्कृति (*saṃskṛti*)**, calibrated architecture.
 
-Sanskrit is made to answer to PIE, codification, power, chronology, and finite origin. The visible language is forced under an invisible ancestor. The living architecture is made dependent on a later documenter. Indic writing systems are categorized as abugida, a fundamentally different writing system belonging to another continent. The distributed standard is translated into authority. The beginningless is forced into the pyramid's clock.
+Sanskrit is subordinated to PIE, codification, power, chronology, and finite origin. The visible language is forced under an invisible ancestor. The living architecture is made dependent on a later documenter. Indic writing systems are categorized as abugida, a fundamentally different writing system belonging to another continent. The distributed standard is translated into authority. The beginningless is forced into the pyramid's clock.
 
 The result is field-loss. Sanskrit remains present, but the world becomes *akṣetravit*: unable to discern the terrain.
 
@@ -92,9 +92,9 @@ The transmission architecture preserved this recognition for thousands of years 
 
 The lineage-chain preserved the asura stories as recognition-forms. A story can transmit memory, but it can also transmit a diagnostic grammar. It can teach a child that Svarbhānu darkened the Sun, teach an elder that darkness can be used as a weapon against light, and teach a civilization that the first symptom of successful asuric attack is field-loss: **अक्षेत्रवित् (*akṣetravit*)**, not knowing the field.
 
-At institutional scale, the recipes become repeatable operations. The asuric pyramid runs them all for a single purpose: finite control—narrowing the terrain, capturing the gate, training the civilization to answer inside the pyramid's category.
+At institutional scale, the recipes become repeatable operations. The asuric pyramid runs them all for a single purpose: finite control—narrowing the terrain, capturing the gate, training the civilization to confine its thought inside the pyramid's category.
 
-**Install the apex-one.** The hunger of the apex becomes the demand that every plural field answer to one gate. One origin. One doctrine. One permitted chronology. One authorized method. One human office that decides what counts as knowledge.
+**Install the apex-one.** The hunger of the apex becomes the demand that every plural field be subordinated to one gate. One origin. One doctrine. One permitted chronology. One authorized method. One human office that decides what counts as knowledge.
 
 **Withhold the light.** Svarbhānu darkens Sūrya. Vṛtra withholds the waters. Kāliya poisons the river. The shared structure is obstruction of circulation: light, water, knowledge, speech, field-orientation. The source remains; access to what the source makes visible is blocked.
 
@@ -108,7 +108,7 @@ At institutional scale, the recipes become repeatable operations. The asuric pyr
 
 **Possess the uncontainable.** Śumbha, Andhaka, and Jalandhara treat the unownable as inventory. The apex repeats the move with speech, memory, lineage, civilization, and the authority to say what they are.
 
-**Teach surface as depth.** Virocana hears the teaching of the Self and returns with the body. The surface is made to answer as substance. Courtly use becomes source. Social location becomes architecture. Power vocabulary replaces engineering vocabulary.
+**Teach surface as depth.** Virocana hears the teaching of the Self and returns with the body. The surface is passed off as substance. Courtly use becomes source. Social location becomes architecture. Power vocabulary replaces engineering vocabulary.
 
 The attack on Sanskrit is a category attack. The pyramid leaves the word *Sanskrit* visible and decides what category the word is allowed to occupy. Once the category is stolen, every fact is read inside it.
 
@@ -116,7 +116,7 @@ The first move is ancestry theft. PIE is placed above Sanskrit, and Sanskrit is 
 
 The public move is language capture. Words such as *plant-organ*, *branch*, *daughter*, *migration*, *reconstruction*, *codification*, *"mythology"*, *cosmopolis*, *elite*, *early*, *late*, *primitive*, and *interpolation* smuggle the concealment into ordinary speech. A reader can absorb the verdict before seeing the evidence because the vocabulary has already assigned the category.
 
-These operations execute category theft. Sanskrit is made to answer inside categories built to hide what Sanskrit is.
+These operations execute category theft. Sanskrit is confined within categories built to hide what Sanskrit is.
 
 At the summit sits the one who must own the field. He does not share authority with the distributed field. He converts the field into a base and calls his view the whole. Sanskrit threatens him because Sanskrit preserves an order with no apex at all.
 

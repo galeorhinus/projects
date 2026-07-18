@@ -32,7 +32,7 @@ What darkens it is the asuric pyramid: the वैकृतिक (*vaikṛtika*)
 
 The shadow is cast by category theft: theft by misclassification, inversion by metaphor, subordination by genealogy, concealment by doctrine.
 
-What it darkens is the Sanskrit continuum — the civilization forced to answer to a false description of its own language. The injury is deeper than misdescription. The pyramid sustained, and sustains, a systematic effort to convince a civilization that its own understanding of reality is a mass delusion. Chapter 17 enters one instrument of that tactic into the record under its proper name: *gaslighting with footnotes*.
+What it darkens is the Sanskrit continuum — the civilization subjected to a false description of its own language. The injury is deeper than misdescription. The pyramid sustained, and sustains, a systematic effort to convince a civilization that its own understanding of reality is a mass delusion. Chapter 17 enters one instrument of that tactic into the record under its proper name: *gaslighting with footnotes*.
 
 The pyramid split the category. Before Pāṇini (पाणिनि), it made Sanskrit answer as **प्रकृति (*prakṛti*)**: natural growth, drift, descent, plant-organs, branches, daughters. After Pāṇini, it made Sanskrit answer as codification: grammar, authority, freezing, standardization. Both moves hide the same truth: **Sanskrit is संस्कृति (*saṃskṛti*)** — created order, calibrated architecture, disciplined recurrence.
 
