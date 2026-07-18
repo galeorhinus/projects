@@ -89,7 +89,7 @@ The diaspora persisted under headwinds from both sides. Inside the subcontinent,
 
 The Diasporic Wave is structurally distinct from Waves 1 and 2 in one critical sense: it preserves the source directly. The calibrant waves operated through expert mediation; the calibrated languages received reflections — *Pratibimba* — of the calibrant. The Diasporic Wave operates through demographic transmission; the diasporic communities hold the calibrant itself, in lived form. The vocabulary that has entered host languages from the modern diaspora — *yoga*, *mantra*, *guru*, *dharma*, *karma*, *avatar*, *namaste*, *pundit* — entered as direct loans, not as *Pratibimba*. The host languages know that these are Indic words. The diaspora has held the source, not the reflection.
 
-This imposes the first precondition on Wave 3. The Diasporic Wave is the demographic substrate through which the third calibrant wave must propagate, if it is to propagate as a calibrant wave at all. But the diasporic carriers have brought Indic substrate into the world while often, across many generations of host-society pressure, losing the engineered discipline that gave the substrate its depth. The substrate has been preserved; the calibrant capacity that produced it has thinned. For Wave 3 to operate as a calibrant wave, the diaspora — Indians in the subcontinent, the modern global Indian diaspora, and the Romani branch that has held Indic substrate longest in the wild — must first relearn to be *ārya* themselves. The retroflex must be reclaimed. Sanskrit's discipline must be reentered. The *vyākaraṇam* discipline must be picked back up. The Vedic preservation system must be engaged with as engineered architecture, not as ritual ornament.
+This imposes the first precondition on Wave 3. The Diasporic Wave is the demographic substrate through which the third calibrant wave must propagate, if it is to propagate as a calibrant wave at all. But the diasporic carriers have brought Indic substrate into the world while often, across many generations of host-society pressure, losing the engineered discipline that gave the substrate its depth. The substrate has been preserved; the calibrant capacity that produced it has thinned. For Wave 3 to operate as a calibrant wave, the diaspora — Indians in the subcontinent, the modern global Indian diaspora, and the Romani branch that has held Indic substrate longest outside the subcontinent — must first relearn to be *ārya* themselves. The retroflex must be reclaimed. Sanskrit's discipline must be reentered. The *vyākaraṇam* discipline must be picked back up. The Vedic preservation system must be engaged with as engineered architecture, not as ritual ornament.
 
 You cannot extend what you do not have.
 
@@ -110,7 +110,7 @@ Wave 3 holds four recognitions into global discourse:
 
 *Atomic Sanskrit* is a Wave 3 instrument pointed toward the Sun. The carriers must relearn enough to be the carriers of the radiance with discipline, clarity, and restraint.
 
-That precondition now becomes Wave 3's first discipline: Indians in the subcontinent, the modern global Indian diaspora, and the Romani branch that held Indic substrate longest in the wild must reconstitute *āryatva* before attempting to extend it.
+That precondition now becomes Wave 3's first discipline: Indians in the subcontinent, the modern global Indian diaspora, and the Romani branch that held Indic substrate longest outside the subcontinent must reconstitute *āryatva* before attempting to extend it.
 
 The invitation begins when the carriers reenter the discipline themselves.
 
@@ -124,6 +124,6 @@ The preservation worked. The light remained available for recovery because the a
 
 The remedy is a change of sight. PIE trained the reader to look for one ancestor at one point on a timeline. Sanskrit has to be seen fractally: sonomer, *akṣara*, *dhātuḥ*, *kriyāpada*, *śabda*, *vākya*, recitation, calibration matrix. The same engineering signature recurs across scale. A one-scale reconstruction made Sanskrit derivative. The scale-recurring architecture returns Sanskrit to its proper category: calibrant.
 
-The Sun can be found. Its radiance can travel. And the apparatus built around Rāhu can be turned toward the Sun. Once the light is visible, even the ocean the pyramid churned can be churned again.
+TThe Sun can be found. Its radiance can travel. And the apparatus built around Rāhu can be turned toward the Sun. What the pyramid assembled to obscure the radiance can now help reveal it.
 
-The pyramid's churn yielded much poison, and generations were made to drink it. Now the same ocean can yield nectar.
+The pyramid drew poison from that accumulation, and generations were made to drink it. The same accumulation can still yield nectar.

@@ -232,6 +232,8 @@ Weinreich covers all three: *a language is a dialect with an army and a navy.* (
 
 Both impose a classification **from an apex** — a petrified prestige-form (Classical Arabic/Chinese) or a manufactured ancestor (PIE). **Sanskrit's unity is the swastika alternative:** real, but from a *distributed engineered calibrant* (radiance/orbit) — no apex, no army enforcing it. Arabic's "one language" needs the Qur'an's authority to hold; the Indic field needs no central office.
 
+**✅ First manuscript instance deployed (author, 2026-07-17):** the Epilogue's *Inward Correction* now grounds the pattern in a documented Indian case — **Konkani classified as a "dialect of Marathi"** as part of the political case for merging Goa into Maharashtra; the resistance (1967 Opinion Poll; the 1987 Official Language Act) established Konkani's independent standing. Endnote `konkani-marathi-language-pressure` (author-sourced: Coelho 2014/2016 + India Code) carries the citations. This is the apex-language/"dialect" move operating *inside* India — use it as the domestic anchor when the Ch2 symmetry beat and App 8 cases deploy.
+
 **The tie to petrification (the load-bearing link):** the dialect-fraud is the *political payoff* of petrification. The frozen prestige-form is exactly what lets an authority demote the living languages beneath it to "mere dialects." **Petrification (a frozen apex) → homogenization (everything under it demoted).** That is why this belongs next to the petrification material, not off on its own.
 
 **Placement — recommendation:**

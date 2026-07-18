@@ -5205,7 +5205,7 @@ The phrase appears in *Manusmṛti* 8.15 as part of the larger warning that dhar
 
 **Short:** [TBD: Citation] The churning of the ocean: Mahābhārata Ādi Parva (Āstīka section) and the Purāṇic tellings; the cited account to be fixed at print-prep.
 
-**Deployments:** Epilogue, *The Churn Remains* ¶1.
+**Deployments:** Epilogue, *Where the Nectar Rises* ¶1.
 
 The samudra-manthana appears across the itihāsa-Purāṇic corpus: the Mahābhārata's Ādi Parva (Āstīka section), the Viṣṇu Purāṇa, and the Bhāgavata Purāṇa (Skandha VIII) carry the fullest tellings — devas and asuras churning with Mandara as rod and Vāsuki as rope, Kūrma bearing the mountain, halāhala surfacing before amṛta, and the distribution at which Svarbhānu takes the stolen sip. [VERIFY before print: fix the edition and verse range for the telling actually cited; settle the *halāhala / hālāhala* spelling against that source; the Epilogue's prose keeps the account's structural sequence and asserts nothing any major telling contradicts.]
 
@@ -5215,7 +5215,7 @@ The samudra-manthana appears across the itihāsa-Purāṇic corpus: the Mahābh�
 
 **Short:** [TBD: Citation+Context] The Vedic Svarbhānu (RV 5.40) and the churning-thief beheaded at the amṛta-distribution are one figure across the textual layers; Rāhu is the later name of the severed head.
 
-**Deployments:** Epilogue, *The Churn Remains* ¶3.
+**Deployments:** Epilogue, *Where the Nectar Rises* ¶3.
 
 The book's eclipse spine runs on the Vedic layer: Svarbhānu the asura pierces Sūrya with darkness (RV 5.40.5), and the Atris restore the Sun (RV 5.40.6, 5.40.8). The itihāsa-Purāṇic layer supplies the origin-mechanism the Epilogue deploys: at the amṛta-distribution the asura slips into the deva row, drinks, and is severed; the undying head persists as Rāhu, the eclipse-device. The Mahābhārata identifies the churning-thief with Svarbhānu by name and epithet, and the later astronomical tradition treats Rāhu and Ketu as the severed head and trunk. The layering is deliberate in the book: the Vedic name for the attacker, the Purāṇic name for the device, one figure across the layers. [VERIFY before print: the Mahābhārata locus identifying the churning-asura as Svarbhānu, and the Purāṇic loci for the Rāhu naming.]
 
@@ -5225,7 +5225,7 @@ The book's eclipse spine runs on the Vedic layer: Svarbhānu the asura pierces S
 
 **Short:** The deva-as-principle reading follows Sri Aurobindo, *The Secret of the Veda*; the anti-entropy application is developed in the companion.
 
-**Deployments:** Epilogue, *The Churn Remains* ¶4.
+**Deployments:** Epilogue, *Where the Nectar Rises* ¶4.
 
 In *The Secret of the Veda* (serialized in *Arya*, 1914–1920), Sri Aurobindo establishes the hermeneutic this paragraph compresses: the *devāḥ* are not individual persons but operating principles — powers of light, truth, and order (*ṛta*) — and the received accounts encode cosmic and psychological mechanics. Read through that lens, the amṛta-distribution is precise engineering: *a-mṛta* is immunity to decay; the devas are the powers of flow and radiance; the asuras of the churning are the powers of containment and withholding (Chapter 3 §3.6). Nectar given to the flow-principles immunizes the moving order against entropy — the system they govern becomes *sanātana*, eternal by engineering rather than by decree. Nectar in a container would freeze the cosmos around a permanent apex — hence the instant severing of Svarbhānu: the one leak is terminated before containment can become immortal. [VERIFY before print: the psychological-interpretation hermeneutic is throughout *The Secret of the Veda*; confirm whether the samudra-manthana receives explicit treatment anywhere in Aurobindo's corpus, or attribute the hermeneutic to Aurobindo and the manthana application to this book.]
 
@@ -5235,8 +5235,18 @@ In *The Secret of the Veda* (serialized in *Arya*, 1914–1920), Sri Aurobindo e
 
 **Short:** [TBD: Citation] The colonial-era Sanskrit institutes — Benares (1791), Calcutta (1824), Poona (1821, later Deccan College) and their siblings — supplied the Sanskrit expertise the philological churn ran on, while the apex narrative stayed European.
 
-**Deployments:** Epilogue, *The Churn Remains* ¶2.
+**Deployments:** Epilogue, *Where the Nectar Rises* ¶2.
 
 The pattern is structural, not incidental: the East India Company and Crown administrations established and patronized Sanskrit institutions in India — Benares Sanskrit College (1791, Jonathan Duncan), Fort William College, Calcutta (1800), Calcutta Sanskrit College (1824), Poona Sanskrit College (1821, absorbed into Deccan College, 1864) — alongside the Asiatic Society (1784) as the hub. Pandits trained and employed in these institutions supplied the grammatical mastery, the manuscripts, the readings, and the informant labor; the interpretive frame — the family tree, the racial Arya thesis, the imaginary ancestor — remained the property of the European chairs. Appendix Part 2 prosecutes the mature form of the same arrangement in Deccan College's dictionary project. [VERIFY before print: founding dates and institutional names; add Madras and Bombay Presidency institutions to complete the half-dozen.]
+
+---
+
+### `konkani-marathi-language-pressure`
+
+**Short:** The classification of Konkani as a Marathi dialect became part of the political case for merging Goa into Maharashtra; the resistance established Konkani's independent public and official standing.
+
+**Deployments:** Epilogue, *The Inward Correction*.
+
+After Goa joined India, advocates of merger with Maharashtra argued that Konkani was a dialect of Marathi; that classification became part of the political case for merger. Goa rejected merger in the 1967 Opinion Poll. The Goa, Daman and Diu Official Language Act of 1987 established Konkani as Goa's official language while permitting Marathi for specified official purposes. The example concerns the political pressure created when a stronger neighboring standard claims authority over a living speech-field; it does not deny the close relationship between Konkani and Marathi. Sources: J. P. Coelho, "Official language, state and civil society: Issues concerning the implementation of the 'Official Language Act' in Goa," *Social Science Gazetteer* 9, nos. 1–2 (2014/2016), 37–58; *The Goa, Daman and Diu Official Language Act, 1987* (Act No. 5 of 1987), India Code.
 
 ---
