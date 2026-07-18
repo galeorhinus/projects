@@ -158,7 +158,7 @@ If Sanskrit is the calibrant, then returning to Sanskrit is civilizational work,
 
 Sanskrit's engineering, architecture, and civilizational transmission can be followed without prior Sanskrit study. Readers who have studied the language will recognize many of the features ahead, now placed in a category very different from the one they were handed — and familiar material reveals more once the category around it changes.
 
-The claim is architectural: Sanskrit is the calibrant, and its architecture is fractal. Here, *fractal* means the same organizing law recurring across scale. The proof proceeds from the ground up: mouth, sound-field, sonomeric grid, semantic atom, verbal molecule, sentence assembly, *sūtra*, and calibration matrix. Each level keeps the lower level visible. The recurrence across scale is the pattern the proof will test.
+The claim is architectural: Sanskrit is the calibrant, and its architecture is fractal. Here, *fractal* means the same organizing law recurring across scale. The proof proceeds from the ground up — mouth, sound-field, sonomeric grid, semantic atom, verbal molecule, sentence assembly, *sūtra*, and calibration matrix — because each level keeps the lower level visible and allows the recurrence to be tested.
 
 The seekers and caretakers now stand against another fractal: the asuric pyramid. It is a finite order that repeats command, conquest, and enclosure at every scale. Sitting at the top of that pyramid is the apex. He is threatened by Sanskrit because Sanskrit preserves a distributed order beyond his reach. The battle that follows clears the shadow he casts across the field.
 

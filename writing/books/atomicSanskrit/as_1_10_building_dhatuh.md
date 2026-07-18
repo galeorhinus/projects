@@ -83,7 +83,7 @@ The physical analogy gives that map its working vocabulary. **Particles** are th
 
 Chemistry operates on matter, and Sanskrit operates on measured sound. The material is different, but the architecture is the same: small stable units combine into larger forms.
 
-*Varṇāḥ* enter as sonomers. A measured *dhāturacanā* holds them. The filled scaffold becomes a *dhātuḥ*. The *dhātuḥ* later bonds into *śabda*.
+*Varṇāḥ* enter as sonomers and fill a measured *dhāturacanā*, forming the *dhātuḥ* that will later bond into *śabda*.
 
 Before the inventory is measured, the construction itself has to be clear. Sanskrit assigns *svarāḥ* and *vyañjanāni* different work inside the atom; the difference is measured in *mātrā*.
 

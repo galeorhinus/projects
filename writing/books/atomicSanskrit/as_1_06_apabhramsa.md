@@ -22,7 +22,7 @@ Codified systems correct by authority; Sanskrit corrects by architecture. That d
 
 Sanskrit has a name for that slipping: अपभ्रंश (apabhraṃśa), a falling-away from established form. The morphology is transparent: *apa-* means away, off, down; *bhraṃśa* contains the semantic atom ⟪भ्रंश्⟫ (*bhraṃś*), to fall or slip. A speaker produces *apabhraṃśa* when the uttered form slips from the engineered form grammar specifies.
 
-The slip can be phonetic, morphological, or lexical. A sound shifts. A form reorganizes. A word is replaced by something easier. Grammar treats all three with the same structural eye. The deviation is a falling-away, not an alternative form.
+The slip can be phonetic, morphological, or lexical: a sound shifts, a form reorganizes, or a word is replaced by something easier. Grammar treats all three with the same structural eye because each is a falling-away from the established form.
 
 The *vaiyākaraṇāḥ* do not punish the speaker for violating authority. They identify where the form has fallen away from the architecture and restore it to fit. *Apabhraṃśa* is therefore not merely "incorrect speech." It is entropy named in Sanskrit.
 
@@ -70,7 +70,7 @@ The same evidence—*gauḥ* and its fallings-away—produces three diagnostic c
 
 **Codified correction** is the pyramidal category, ***विकृति (*vikṛti*)***. Standardization comes from codification: a prestige form is selected, stabilized, taught, and defended by institutions. Correction comes from outside the speaker and above the usage — academy, priesthood, school, court, committee, dictionary, grammar. Authority supplies the standard.
 
-**Engineered self-correction** is the ***संस्कृति (*saṃskṛti*)*** category. Standardization comes from calibration: architecture correcting itself. Sanskrit does not depend on an external authority selecting one prestige variant from a field of living variation. The architecture builds its own diagnostic system. Meter catches the phonetic slip. Recitation catches the audible drift. Grammar catches the malformed word. The *pāṭha* disciplines catch the broken sequence. *Gauḥ* is correct because the system generates it; *gāvī*, *goṇī*, *gotā*, and *gopotalikā* are departures because the system detects them as departures.
+**Engineered self-correction** is the ***संस्कृति (*saṃskṛti*)*** category. Because the architecture contains its own diagnostic system, Sanskrit does not depend on an external authority selecting one prestige variant from a field of living variation. Meter exposes a phonetic slip, recitation makes audible drift available for correction, grammar rejects a malformed word, and the *pāṭha* disciplines catch a broken sequence. *Gauḥ* is correct because the system generates it; *gāvī*, *goṇī*, *gotā*, and *gopotalikā* are departures because the same system detects them as departures.
 
 The three categories represent three different situations. Natural drift represents change. Codified correction enforces authority. Engineered self-correction preserves architecture. The pyramid's account pushes Sanskrit *before* Pāṇini (पाणिनि) into the first category of *prākṛtika* drift, and Sanskrit after Pāṇini into the second as a *codified* system. Patañjali's examples demonstrate the reality: Sanskrit belongs to the third.
 

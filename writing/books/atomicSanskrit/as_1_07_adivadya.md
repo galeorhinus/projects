@@ -18,9 +18,9 @@ A single syllable, held on a single breath: **ॐ (*Oṃ*)**.
 
 The lungs provide steady pressure. The vocal cords meet, vibrate, and hold a tone. The mouth opens; the tongue rests low; the soft palate seals the nasal passage. From glottis to lips, the vocal tract becomes one resonating chamber, and the sound that fills it is **अ (*a*)** — the **कण्ठ्य (*kaṇṭhya*)** vowel, open in the throat, the body's least obstructed tone.
 
-Then the instrument begins to shape itself. The tongue lifts in small increments. The lips round. The same breath and the same voicing continue, but the chamber changes around the tone. **अ (*a*)** moves toward **उ (*u*)** without a break. The closest musical analogy is a *meend*, but the glide here is in vowel color rather than pitch: the fundamental may hold steady while the resonance changes. In speech-science terms, the vocal cords supply the source and the vocal tract supplies the filter; as the filter changes shape, the heard vowel changes with it.
+Then the instrument begins to shape itself: the tongue lifts in small increments and the lips round while the same breath and voicing continue. Because the chamber changes around the tone, **अ (*a*)** moves toward **उ (*u*)** without a break. The closest musical analogy is a *meend*, but the glide here is in vowel color rather than pitch: the fundamental may hold steady while the resonance changes. In speech-science terms, the vocal cords supply the source and the vocal tract supplies the filter; as the filter changes shape, the heard vowel changes with it.
 
-Then the lips close. The soft palate drops. The oral passage shuts; the nasal passage opens. Breath and voicing continue, but the resonance moves into the nasal cavity as **म् (*m*)**. The sound hums rather than bursts, then fades.
+Then the lips close and the soft palate drops, shutting the oral passage and opening the nasal one. Breath and voicing continue, but the new path moves the resonance into the nasal cavity as **म् (*m*)**. The sound hums rather than bursts, then fades.
 
 One breath. Three sonic spaces: throat-open, mouth-shaped, nose-coupled. Lungs, vocal cords, tongue, lips, soft palate, oral cavity, and nasal cavity all participate. **Oṃ is a compact acoustic sweep through the anatomy of sound.**
 

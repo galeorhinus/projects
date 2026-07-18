@@ -1,6 +1,6 @@
 # About the *Second Shanti* Series
 
-Many Vedic mantras end with Shanti recited three times. Each recitation refers to a distinct fractal—a pattern whose organizing structure recurs. Together, the three map the universe across three distinct domains. Later volumes in this series detail those domains.
+Many Vedic mantras end with Shanti recited three times, each recitation corresponding to a distinct fractal — a pattern whose organizing structure recurs. Together, the three map the universe across three domains that later volumes in this series develop in detail.
 
 The series advances a central claim: the Vedic corpus contains far more order than the modern reader is taught to see. Each volume brings one or more layers of that hidden architecture into view.
 

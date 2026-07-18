@@ -64,9 +64,9 @@ In education, the same shape becomes one curriculum, one examination ladder, one
 
 The pyramid demands finitism. A finite universe can be narrated from a first point. A finite timeline can be owned by whoever controls the origin story. A finite canon can be guarded by whoever controls the gate. A finite people can be counted, ranked, administered, converted, educated, and corrected. The apex wants a world with edges because edges make possession easier — and because the boundless, which he can neither bound nor rule, frightens him.
 
-Sanskrit resists that shape. Its order descends through the distributed field rather than from a human apex. The standard is distributed through sound, measure, recitation, grammar, semantic atoms, lineage, and disciplined use. A wrong sound can be caught by the mouth. A wrong measure can be caught by meter. A wrong form can be caught by grammar. A wrong derivation can be caught by the *dhātuḥ*. A wrong recitation can be caught by the *pāṭha*. Sanskrit places correction inside the architecture.
+Sanskrit resists that shape because its order descends through the distributed field rather than from a human apex. Sound, measure, recitation, grammar, semantic atoms, lineage, and disciplined use each supply a point of correction: the mouth catches a wrong sound, meter exposes a wrong measure, grammar rejects a wrong form, the *dhātuḥ* reveals a wrong derivation, and the *pāṭha* catches a broken recitation. Together, these checks distribute correction through Sanskrit's architecture.
 
-Calibration is what the pyramid cannot conquer, because the standard lives in the system itself. Natural drift can be surveyed and ruled. Codification can be captured by authority. The pyramid can lord over drift and sanctify codification. Because it cannot conquer calibration, it must hide the category entirely.
+The pyramid can survey and rule natural drift, capture codification through authority, lord over one, and sanctify the other. Calibration gives it no equivalent handle because the standard lives inside the system itself. The pyramid must therefore hide the category entirely.
 
 **Diagnostic distinction.** Not everything outside formal Vedic calibration is asuric. A *nastika* discipline may refuse the Veda as calibrant and still live harmoniously beside it, beside other harmonious formations, and within the balance of the world. A *prākṛtika* culture may live through forest, clan, custom, ecology, craft, and local memory without being threatened by the Vedic measure. The asuric formation is different: it is threatened by the calibrant and by the balance the calibrant protects; it therefore works to destroy, displace, shame, capture, or distort it. Although, *nastika* and *prākṛtika* systems can coexist alongside *saṃskṛti*, compatibility does not mean immunity: a formation can live harmoniously beside the calibrant and within the world's balance, and still later be captured, co-opted, or controlled by the pyramid.[NOTE: compatibility-is-not-immunity]
 
@@ -88,9 +88,9 @@ The result is field-loss. Sanskrit remains present, but the world becomes *akṣ
 
 ## 1.4 The Operations
 
-The transmission architecture preserved this recognition for thousands of years as stories rather than abstract theory of power. Each story is a recipe. Each recipe teaches the next generation how to recognize the asuric operation when the costume changes.
+The transmission architecture placed these recognitions inside stories, allowing them to survive for thousands of years and travel between generations. Each story works as both memory and diagnostic recipe, while the varied casts teach successive generations to recognize the same asuric operation beneath a new costume.
 
-The lineage-chain preserved the asura stories as recognition-forms. A story can transmit memory, but it can also transmit a diagnostic grammar. It can teach a child that Svarbhānu darkened the Sun, teach an elder that darkness can be used as a weapon against light, and teach a civilization that the first symptom of successful asuric attack is field-loss: **अक्षेत्रवित् (*akṣetravit*)**, not knowing the field.
+Svarbhānu can teach a child that darkness covered the Sun, an elder that darkness can become a weapon against light, and a civilization that the first symptom of successful asuric attack is field-loss: **अक्षेत्रवित् (*akṣetravit*)**, not knowing the field.
 
 At institutional scale, the recipes become repeatable operations. The asuric pyramid runs them all for a single purpose: finite control—narrowing the terrain, capturing the gate, training the civilization to confine its thought inside the pyramid's category.
 
@@ -112,7 +112,7 @@ At institutional scale, the recipes become repeatable operations. The asuric pyr
 
 The attack on Sanskrit is a category attack. The pyramid leaves the word *Sanskrit* visible and decides what category the word is allowed to occupy. Once the category is stolen, every fact is read inside it.
 
-The first move is ancestry theft. PIE is placed above Sanskrit, and Sanskrit is made downstream. The engineered calibrant becomes one branch among many. The real language, the preserved system, and the visible architecture are all subordinated to ghosts: an imaginary ancestor, a reconstructed source, and a starred form no known community ever spoke. Sūrya remains visible, but the sky has been darkened.
+The first move is ancestry theft. PIE is placed above Sanskrit, and Sanskrit is made downstream. The engineered calibrant becomes one branch among many. The real language must answer to an imaginary ancestor; the preserved system must answer to a reconstructed source; the visible architecture must answer to a starred form no known community ever spoke. Sūrya remains visible, but the sky has been darkened.
 
 The public move is language capture. Words such as *plant-organ*, *branch*, *daughter*, *migration*, *reconstruction*, *codification*, *"mythology"*, *cosmopolis*, *elite*, *early*, *late*, *primitive*, and *interpolation* smuggle the concealment into ordinary speech. A reader can absorb the verdict before seeing the evidence because the vocabulary has already assigned the category.
 

@@ -134,7 +134,7 @@ Codification preserves a standard by authority, not a language by architecture.
 
 The grammatical principle is: bond first, usage second, *śāstra* third (Chapter 5). The calibration matrix is that principle scaled to civilization. The standard already stands; the system trains bodies, ears, memory, grammar, and community to hold usage against it.
 
-A Sanskrit form enters transmission and comes out identical — same vowel length, same accent, same sequence — generation after generation, while the ordinary speech around it drifts. That constancy under transmission, holding fixed while speech moves, is **ध्रौव्यता (*dhrauvyatā*)**. Because Sanskrit holds fixed, it works as the measure everything else is checked against — the fixed-measure language, **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**, the calibrant that sound, form, memory, grammar, and usage are held against.
+A Sanskrit form begins transmission and comes out identical — same vowel length, same accent, same sequence — generation after generation, while the ordinary speech around it drifts. That constancy under transmission, holding fixed while speech moves, is **ध्रौव्यता (*dhrauvyatā*)**. Because Sanskrit holds fixed, it works as the measure everything else is checked against — the fixed-measure language, **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**, the calibrant that sound, form, memory, grammar, and usage are held against.
 
 Codification also draws a line. The codified standard becomes correct; what falls outside it becomes wrong. Sanskrit does not operate this way. It is not an imperial language imposed from an apex. The living languages of the people are not declared deviant because they are not Sanskrit. They flow as *prākṛtika* speech. The calibrant model draws no such line. The calibrant is held; ordinary speech is allowed to flow.
 
@@ -146,7 +146,7 @@ That architecture rests on *paramparā*, but *paramparā* is not merely "traditi
 
 ## 13.6 Two Minds, Two Layers
 
-Minds learn language two ways. Some learn by **saturation**. They hear enough correct speech, read enough correct sentences, recite enough stable forms, and the valid pattern enters them. They cannot necessarily state the rule, but they know when a form has gone wrong. Other minds learn by explicit structure. They want the category, the operation, the named rule. For them, correctness becomes stable when the procedure is visible.
+Minds learn language through saturation or explicit structure. Saturation-trained learners hear enough correct speech, read enough correct sentences, and recite enough stable forms for the valid pattern to imprint; even when they cannot state the rule, they know when a form has gone wrong. Structure-trained learners want the category, the operation, and the named rule because a visible procedure makes correctness stable for them.
 
 Sanskrit has its own names for both paths. **श्रवण (*śravaṇa*)** — hearing-based reception — serves the saturation-trained mind. **व्याकरणम् (*vyākaraṇam*)** — analytical decomposition — serves the rule-trained mind. Most learners use both pathways and shift between them as mastery deepens. But the weighting differs across individuals, and the difference is real enough that the same language, taught the same way, can produce different kinds of mature speakers.
 

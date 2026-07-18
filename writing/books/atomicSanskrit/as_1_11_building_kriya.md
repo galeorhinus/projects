@@ -219,7 +219,7 @@ That gives the audit a concrete measurement. For each *dhātuḥ* visible in the
 
 Valency therefore means bonding range. A low-valency atom appears in only a few configurations. A high-valency atom bonds across many configurations. The chemical analogy is disciplined by this measured grammatical behavior: reactivity means range of permissible bonding, not chemical substance.
 
-The *prayoga* audit then proceeds in three steps. It identifies every *dhātuḥ* label the corpus makes visible. It counts the atom's actual uses and distinct bonding patterns. It then compares that bonding range against the atom's sonomeric size and against the dictionary audit.
+The *prayoga* audit identifies every *dhātuḥ* label the corpus makes visible, counts the atom's actual uses and distinct bonding patterns, and then compares that range with the atom's sonomeric size and the dictionary audit.
 
 The first result is that the corpus is not flat. A small set of atoms holds very wide bonding range.
 

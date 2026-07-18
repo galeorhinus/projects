@@ -108,21 +108,23 @@ Intermingle. All-verdict feels like a slogan deck; all-topic feels like a survey
 
 ---
 
-## 4A. Compression Discipline
+## 4A. Compression and Causal Exposition
 
-Sentence rhythm is the music; compression discipline is the editing pass that lets the music land. Distilled from a sweep of Codex compressions across Chs 1–13 (2026-05-20) that the author endorsed for forward deployment. Treat these as the default editing pass on every section before submission.
+Sentence rhythm is the music; compression removes padding, while causal exposition preserves the logic. Distilled from a sweep of Codex compressions across Chs 1–13 (2026-05-20) and corrected after later drafts over-applied the short-sentence pattern. Treat these as the default editing pass on every section before submission.
 
-- **Tight declarative topic-sentence openings.** Each section and paragraph opens on a single short clause stating the thesis, not a multi-clause throat-clear. *"Sanskrit's architecture was built to last." / "लीपि (lipi) is writing: linguistic content fixed in visible marks." / "India has an oral tradition. So does every civilization." / "The civilization that engineered Sanskrit organized its world through a functional distinction."* The reader knows what the paragraph is doing from the first sentence; everything that follows builds on that anchor.
+- **Clear openings without a metronome.** A section may open on a tight declarative sentence when it establishes the governing idea. Do not force every paragraph to begin with a supershort thesis clause. When the subject, mechanism, and consequence form one thought, keep them together in a sentence long enough to carry the logic. *"Sanskrit's architecture was built to last"* can anchor a movement; a succession of equivalent anchors turns the prose into an outline.
 
-- **One-line hammer interpolations between paragraphs.** Short standalone lines punctuating the argument and giving the reader a beat to absorb. *"But no engineering matters if it decays." / "That is the category error." / "The answer was not writing." / "That is the normal direction of language. It falls away."* Different from the short-line pivots in §4 — those name the verdict at the close of a movement; these are mid-section punctuation that lets the next paragraph reset cleanly. Use sparingly — one or two per section.
+- **One-line hammer interpolations between paragraphs.** Short standalone lines punctuate an argument and give the reader a beat to absorb. Reserve them for an earned correction, verdict, refrain, or reversal after the explanation has prepared the ground. A short line whose only job is to announce importance, create a hinge, or avoid writing the causal bridge should be removed or folded into the surrounding prose.
 
-- **Compressed connective tissue.** Cut "As we have seen…", "Building on the previous section…", "It follows that…", "Having established…", "With that in place…", "Turning to…". Ideas juxtapose directly; the structural relationship lands through cadence, not narration. If a connection is genuinely non-obvious, name it in one short clause, not a transition paragraph.
+- **Substantive connective tissue.** Cut empty signposting such as "As we have seen…", "Building on the previous section…", "Having established…", and "Turning to…". Then state the actual connection inside the argument: identify the actor, the mechanism, and the consequence. Juxtaposition is sufficient only when the relationship is already obvious; it must not make the reader supply an omitted premise.
+
+- **Causal expository prose for mechanisms.** When a paragraph explains how transmission, calibration, theft, drift, or preservation works, show the sequence in full. Combine related beats into varied sentences so the reason travels with the claim. *"A deviation is heard. Being heard, it is corrected"* compresses the outline but hides the mechanism. Explain that the distributed community already holds the auditory measure and can therefore detect and correct a deviation as it occurs.
 
 - **Less prose around bolded points.** When a Devanagari term + Roman + gloss appears in bold, do not write a follow-up paragraph that re-explains it. The bold and the gloss do the work. The next sentence does the next thing.
 
 - **Appositive definitions over multi-clause definitions.** *"लीपि (lipi) is writing: linguistic content fixed in visible marks."* Not *"लीपि (lipi) is the Sanskrit name for writing — the technology of recording linguistic content in marks on a physical medium…"* Colon + tight phrase replaces em-dash + sub-clause + clarifying continuation.
 
-- **Shorter paragraphs.** 2–4 sentences typical, not 5–8. After the topic sentence, two or three sentences develop the point; then pivot. A long accumulation paragraph still has its place (the *catalog construction* and *drumbeat* patterns in §4 above), but it must be earning the length — not coasting on elaboration.
+- **Paragraph length follows the operation.** Two to four sentences often suffice, but sentence count is not the target. Keep the steps together while one mechanism is being explained; split when the subject or operation changes. A long accumulation paragraph still has its place (the *catalog construction* and *drumbeat* patterns in §4 above), but it must earn the length.
 
 - **Strip amplifiers and reassurers.** *Indeed, in fact, of course, naturally, clearly, importantly, crucially, notably, certainly, obviously, undoubtedly, very, quite, simply, just.* These signal hedging or filler regardless of intent. Cut on sight. If the claim is true, it doesn't need *clearly*; if it needs *clearly*, the sentence isn't doing its work.
 
@@ -130,17 +132,17 @@ Sentence rhythm is the music; compression discipline is the editing pass that le
 
 - **No meta-narration about the prose itself.** Cut *"This section will examine…", "As Chapter N will develop…", "We will see that…", "The following paragraph argues…", "What follows is…"* Forward-pointer cross-references at the right moment carry the load (*"Chapter 14 lays out the matrix in full."* at the end of the relevant paragraph), not as preamble.
 
-- **Verdict register at section close.** Already in §4; the compression discipline sharpens it: every section ends on a hammer, not a taper. If the section's last paragraph is summarizing what was just argued, cut the summary and let the last load-bearing sentence be the close.
+- **Verdict register at section close.** Already in §4; the compression discipline sharpens it: an earned hammer can close a section, while an explanatory movement may end on its last load-bearing sentence. Cut summary tapers and templated verdicts alike.
 
 - **Diagnostic to run on every section before submission.**
-  1. Read the first sentence of each paragraph. Is it a single short declarative clause? If not, can it be?
+  1. Read the first sentence of each paragraph. Does it begin the substance directly, and does its length fit the thought rather than a template?
   2. Are there any *indeed / in fact / of course / clearly* tokens? Cut.
-  3. Are there transition phrases at paragraph openings (*"Having seen…", "Building on…"*)? Cut and let the juxtaposition carry.
-  4. Are any paragraphs longer than four sentences? Audit — is the length earning its keep, or is elaboration coasting?
+  3. Are there transition phrases at paragraph openings (*"Having seen…", "Building on…"*)? Replace them with the substantive causal relation, or cut them when the relation is already clear.
+  4. Does any explanatory passage use three or more short declarations where one varied sentence would carry the mechanism more clearly? Rebuild the causal chain.
   5. Does any section close on a summary or a taper? Find the last load-bearing sentence and end there instead.
   6. Are bold Devanagari/Roman/gloss triples followed by re-explanation paragraphs? Cut the re-explanation.
 
-The compression discipline pairs with — does not replace — the §4 sentence-rhythm patterns and the Voice Prime Directive in CLAUDE.md. The polemic must still BE in the sentence structure; named-agent active voice still rules. Compression is what makes the polemic land without padding.
+Compression removes padding; causal exposition preserves the bridge. Both pair with the §4 sentence-rhythm patterns and the Voice Prime Directive in CLAUDE.md. Named-agent active voice still rules, and hammers still land the polemic, but ordinary explanation must show enough mechanism for the reader to follow without reconstructing an outline.
 
 ---
 

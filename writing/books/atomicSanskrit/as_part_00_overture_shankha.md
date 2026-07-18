@@ -30,4 +30,4 @@ Sanskrit is the Sun. The asuric pyramid has drawn its shadow across the field. W
 
 Before the light returns, the parties must be visible. On one side stand the seekers and caretakers: the civilization trained to listen, correct, remember, and keep looking. On the other side stands the asuric pyramid, the finite order with the apex at its head. He wants the field to look upward for authority.
 
-The Śaṅkha sounds while the field is still dark. Then the work narrows. The caretakers have been seen. The finite order has been seen. The next threshold is the shadow itself — how it was cast, and how it lifts.
+The Śaṅkha sounds while the field is still dark. With the caretakers and the finite order now visible, the work narrows to the shadow itself — how it was cast, and how it lifts.

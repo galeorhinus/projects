@@ -229,7 +229,7 @@ The pyramid files the architecture under its interface and calls it an alphabet.
 
 ## 9.10 The Grid Holds the Garland
 
-The *varṇamālā* selects the sonomers. The *akṣara* stabilizes them. The *mātrā* measures them. The sound volume shows how the axes multiply. Now the system is ready to build atoms.
+The *varṇamālā* selects the sonomers, the *akṣara* stabilizes them, and the *mātrā* measures them. The sound volume shows how those axes multiply, preparing the system to build atoms.
 
 The *varṇamālā* is upstream of the rule-system that indexes it. The **माहेश्वरसूत्राणि (*Māheśvara-sūtrāṇi*)** rearrange an inventory already standing into an operating index for grammar.[NOTE: pre-panini-pratisakhya-classification] The pyramid later distorts that order of events. The architectural point is enough here: Pāṇini decoded and indexed a system already operating.
 

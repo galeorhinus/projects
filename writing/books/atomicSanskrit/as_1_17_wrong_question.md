@@ -90,7 +90,7 @@ Therefore, the pyramid has to now argue that Sanskrit's own disciplines misperce
 
 There is a psychological term for that operation: ***gaslighting***. It is the systematic effort to convince a person, or a civilization, that accurate perception is delusion.
 
-Gaslighting does not only erase memory. It can redirect memory. The machinery does not ask India to forget Pāṇini. It asks India to remember him incorrectly. The decoder becomes codifier. The documenter becomes origin. A civilization's reverence for one of its finest decoders is turned into reverence for codification itself.
+Gaslighting can redirect memory without erasing it. The machinery asks India to remember Pāṇini incorrectly, turning the decoder into codifier and the documenter into origin. A civilization's reverence for one of its finest decoders is thereby redirected toward codification itself.
 
 <!-- AISWEEP-OLD
 Praise can therefore become a weapon. The machinery does not need to insult Pāṇini. It can praise him for the wrong act. Miscast him as codifier, and the civilization is trained to honor authority where it should be recognizing calibration. The memory remains reverent, but the object of reverence has been altered. That is gaslighting at civilizational scale.

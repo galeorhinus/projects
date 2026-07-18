@@ -34,7 +34,7 @@ The hierarchy is therefore:
 
 > **sonomer → varṇamālā → akṣara → audiograph → lipi**
 
-The sonomer is the unit. The *varṇamālā* orders the units. The *akṣara* stabilizes the unit. The audiograph makes it visible. *Lipi* is the interface, not the foundation.
+The sonomer enters the *varṇamālā*, which orders the units; the *akṣara* stabilizes that ordered sound, and the audiograph makes it visible through *lipi*. The hierarchy places *lipi* at the interface rather than the foundation.
 
 The foundational dogma starts at the wrong end of that hierarchy. It sees the visible symbol first. It compares glyphs. It asks whether Brāhmī looks like Aramaic. It classifies Indic scripts as *abugidas*. It treats the visible interface as the primary object.
 

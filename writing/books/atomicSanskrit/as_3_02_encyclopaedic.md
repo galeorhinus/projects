@@ -60,7 +60,7 @@ The structural fact is the prosecutorial target: the choice to continue inside t
 
 **Volume 1 appeared in 1976 under Dr A.M. Ghatage** as first general editor. Thirty-five volumes, 6,056 pages, 1,500 corpus texts, ten million Scriptorium slips assembled between 1948 and 1973: the project describes its span — in its own imposed dating — from the *Vedas* around 1400 BCE to *Hāsyarṇava* in 1850 CE.
 
-The method is the *Oxford English Dictionary*'s *historical principles*, set up by James Murray in the 1880s. Collect attestations. Date the texts. Arrange meanings chronologically. Treat older attestations as earlier stages, later as development.
+The method follows the *historical principles* established for the *Oxford English Dictionary* under James Murray in the 1880s: collect attestations, date the texts, arrange meanings chronologically, and treat older attestations as earlier stages from which later usage developed.
 
 This was built for natural-historical languages. English's *hlāfweard* gradually became *Lord*; the method tracks that. Applied to Sanskrit, the method imports its conclusion. *On Historical Principles* assumes that the difference between Vedic Sanskrit and Pāṇinian Sanskrit is the same kind of difference as *hlāfweard* and *Lord*, only longer.
 

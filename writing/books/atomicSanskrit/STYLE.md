@@ -6,7 +6,7 @@ Use direct, declarative, college-level English.
 
 Preserve the book's core terminology — *dhātuḥ*, sonomer, *racanā*, scaffold, *mātrā*, *prayoga*, calibration, architecture — but explain each conceptual move in sequence.
 
-Avoid academic hedging, inflated abstraction, insider shorthand, and recoverist phrasing. Break dense claims into short explanatory steps. Prefer clarity over compression when the reader needs the bridge.
+Avoid academic hedging, inflated abstraction, insider shorthand, and recoverist phrasing. Explain dense claims through concrete actors, operations, and consequences. Prefer clarity over compression when the reader needs the bridge.
 
 The voice should remain confident, prosecutorial, and architectural: state what is being tested, why the test matters, what the evidence shows, and what conclusion follows.
 
@@ -19,7 +19,8 @@ When rewriting existing prose:
 - Explain the term on first use when the reader needs it.
 - Replace academic abstractions with concrete operations.
 - Turn noun-heavy claims into verb-driven sentences.
-- Break long analytical paragraphs into clear steps.
+- Make the causal sequence explicit: who acts, by what mechanism, and with what consequence.
+- Combine related beats when separate short sentences would force the reader to reconstruct the connection.
 - Preserve hammers, but make sure the reader has been prepared for them.
 
 ## Sanskrit Term Typography
@@ -47,18 +48,21 @@ Example pattern:
 
 > The first test is compression. If Sanskrit is engineered at the atomic level, the *dhātu* inventory should not sprawl randomly. It should concentrate meaning into compact, reusable forms. The data does exactly that.
 
+This is **causal expository prose**: each sentence supplies the reason for the next. Sentence length may vary, and related operations may stay together in one sentence. Do not render an outline as serial short declarations or rely on juxtaposition to conceal a missing premise.
+
 ## Turn Discipline
 
 Short turn sentences are useful when the reader needs a major shift signaled clearly:
 
-> The distinction matters.
-> The test is simple.
 > The burden now shifts.
-> The point is not X. The point is Y.
+> That closes the question.
+> The Sun can be found.
 
 Use them for major turns, corrections, verdicts, and frame-shifts. Do not use them as default paragraph openers.
 
 If the next sentence already performs the turn, delete the hinge.
+
+Short turns sharpen an explanation; they do not replace one. Reserve compressed parataxis for an earned hammer or refrain after the causal work is complete.
 
 Prefer:
 

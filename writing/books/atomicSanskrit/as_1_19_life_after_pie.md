@@ -14,7 +14,7 @@ Life after PIE begins with architecture standing on its own ground.
 
 The first question after PIE is: what did Sanskrit do once it existed?
 
-PIE is built on the premise of population descent: a people migrates, holds a language, and the language mutates into descendants. When that illusory premise is abandoned, logic and reason can prevail. The Calibrant Radiance Thesis offers the alternative, and it runs on expert transmission. A Sanskrit-trained *ārya*, expert in *vyākaraṇam*, enters another linguistic world — and that world wants to be part of the radiance. The transmission unit is the trained carrier. The credibility is pedagogical mastery. A *guru* and a receiving lineage hungry for what the *guru* possesses are sufficient.
+PIE is built on the premise of population descent: a people migrates, holds a language, and the language mutates into descendants. The Calibrant Radiance Thesis replaces that premise with expert transmission. A Sanskrit-trained *ārya*, expert in *vyākaraṇam*, enters another linguistic world that wants to participate in the radiance; pedagogical mastery gives the carrier credibility, and a receiving lineage provides continuity. A *guru* and a lineage hungry for what the *guru* possesses are sufficient.
 
 The **सप्तर्षि (*Saptaṛṣi*)** lineage supplies the structural roster of pre-Pāṇinian Vedic experts whose lines extend geographically.
 
@@ -124,6 +124,6 @@ The preservation worked. The light remained available for recovery because the a
 
 The remedy is a change of sight. PIE trained the reader to look for one ancestor at one point on a timeline. Sanskrit has to be seen fractally: sonomer, *akṣara*, *dhātuḥ*, *kriyāpada*, *śabda*, *vākya*, recitation, calibration matrix. The same engineering signature recurs across scale. A one-scale reconstruction made Sanskrit derivative. The scale-recurring architecture returns Sanskrit to its proper category: calibrant.
 
-TThe Sun can be found. Its radiance can travel. And the apparatus built around Rāhu can be turned toward the Sun. What the pyramid assembled to obscure the radiance can now help reveal it.
+The Sun can be found. Its radiance can travel. And the apparatus built around Rāhu can be turned toward the Sun. What the pyramid assembled to obscure the radiance can now help reveal it.
 
 The pyramid drew poison from that accumulation, and generations were made to drink it. The same accumulation can still yield nectar.

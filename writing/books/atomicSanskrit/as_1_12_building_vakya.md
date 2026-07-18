@@ -22,7 +22,7 @@
 
 ## 12.1 From Verbal Molecule to Sentence Assembly
 
-When a *dhātuḥ* enters an operation, it becomes a **क्रियापदम् (*kriyāpadam*)** — a verbal molecule. The language now has to build the rest around it: names, role-bearing words, and the sentences that let the action enter speech.
+When a *dhātuḥ* engages an operation, it becomes a **क्रियापदम् (*kriyāpadam*)** — a verbal molecule. The language now has to build the rest around it: names, role-bearing words, and the sentences that let the action enter speech.
 
 One test of engineering is: can Sanskrit build larger forms without blurring the lower levels — the sonomer still visible inside the atom, the atom inside the molecule, the molecule inside the **पदम् (*padam*)**, and the *padam* inside the **वाक्यम् (*vākyam*)**?
 
@@ -48,7 +48,7 @@ From there the chain runs outward: the verbal molecule becomes a source of names
 
 The *dhātuḥ* is a semantic atom. To enter speech, it must bond into a sentence-ready form.
 
-Sanskrit bonds the atom in two main directions. A head-bond enters before the atom. A tail-bond enters after it. Sanskrit's grammatical names are **उपसर्गः (*upasargaḥ*)** and **प्रत्ययः (*pratyayaḥ*)**.
+Sanskrit bonds the atom in two main directions. A head-bond attaches before the atom. A tail-bond attaches after it. Sanskrit's grammatical names are **उपसर्गः (*upasargaḥ*)** and **प्रत्ययः (*pratyayaḥ*)**.
 
 An *upasargaḥ* redirects the atom's field of action. A *pratyayaḥ* stabilizes the molecule into a usable class — settling whether the same atom closes as the action itself, as the one who acts, as the deed done, or as the state left behind. A final role-ending then readies the form for the sentence: a **विभक्तिः (*vibhaktiḥ*)** sets a name's role, number, and relation, and a **तिङ्-प्रत्ययः (*tiṅ-pratyayaḥ*)** sets a verb's person, number, and relation.
 
@@ -56,7 +56,7 @@ The governing issue is recoverability. The bond remains visible enough for the f
 
 The philological dogma treats the *upasargaḥ* as a preverb: a spatial particle that gradually fused with the verb through ordinary linguistic evolution. That may be a fair description of some natural-language histories, but Sanskrit runs a different operation.
 
-In English, a preposition usually stands outside the action: *from*, *toward*, *over*, *under*. In Sanskrit, the *upasargaḥ* enters the word-body and redirects the action from within the derivation by bonding with the atom.
+In English, a preposition usually stands outside the action: *from*, *toward*, *over*, *under*. In Sanskrit, the *upasargaḥ* binds into the word-body and redirects the action from within the derivation by bonding with the atom.
 
 A *pratyayaḥ* performs the other side of the bonding procedure, completing the molecule into a usable class: one suffix makes an action-name, another an agent, another something-to-be-done. Through all of it the same atom stays visible, while the molecule's outer shell changes what the form can do in a sentence.
 
@@ -104,11 +104,11 @@ The first bonding direction is the head-bond. Sanskrit calls it **उपसर�
 
 An *upasargaḥ* redirects the field in which the atom acts. With *kṛ*, the operation is easy to see because the atom is small and the resulting molecules are familiar.
 
-**प्र (*pra-*)** faces forward, prior, forth. When *pra-* enters the *kṛ* field, the result is **प्रकृति (*prakṛti*)**: the prior condition, nature, original formation. The molecule settles the direction into a precise conceptual place.
+**प्र (*pra-*)** faces forward, prior, forth. When *pra-* binds to the *kṛ* field, the result is **प्रकृति (*prakṛti*)**: the prior condition, nature, original formation. The molecule settles the direction into a precise conceptual place.
 
-**वि (*vi-*)** faces apart, differentiated, separated, modified. When *vi-* enters the same field, the result is **विकृति (*vikṛti*)**: alteration, deformation, modification. The atom remains; the direction of action changes.
+**वि (*vi-*)** faces apart, differentiated, separated, modified. When *vi-* binds to the same field, the result is **विकृति (*vikṛti*)**: alteration, deformation, modification. The atom remains; the direction of action changes.
 
-**सम् (*sam-*)** faces together, integrated, completed, refined. When *sam-* enters the *kṛ* field, it yields the family of integrated and refined forms: **संस्कृति (*saṃskṛti*)**, **संस्कार (*saṃskāra*)**, and **संस्कृत (*saṃskṛta*)**. In prose, **sam + kṛ** is useful shorthand for the semantic operation. In the actual sonomeric form, the visible **स्** in **संस्कृति** and **संस्कार** must be accounted for by the rules that build the surface molecule.[NOTE: kr-bonding-examples]
+**सम् (*sam-*)** faces together, integrated, completed, refined. When *sam-* binds to the *kṛ* field, it yields the family of integrated and refined forms: **संस्कृति (*saṃskṛti*)**, **संस्कार (*saṃskāra*)**, and **संस्कृत (*saṃskṛta*)**. In prose, **sam + kṛ** is useful shorthand for the semantic operation. In the actual sonomeric form, the visible **स्** in **संस्कृति** and **संस्कार** must be accounted for by the rules that build the surface molecule.[NOTE: kr-bonding-examples]
 
 The point is the direction of the bond. Each *upasargaḥ* turns ⟪कृ⟫ toward a different field — *pra-* toward prior formation, *vi-* toward alteration, *sam-* toward integrated refinement — without ever touching the atom at the center.
 
@@ -236,7 +236,7 @@ That process needs two names because it has two faces.
 
 From the Sanskrit side, the process is **अपभ्रंश (*apabhraṃśa*)**: falling away from the engineered form. From the contact-language side, the same process is **vivimorphosis**: the engineered molecule acquiring organic behavior.[NOTE: apabhramsa-vivimorphosis-boundary]
 
-The transformation happens in stages. A Sanskrit speaker utters the engineered *śabda*. A non-Sanskrit listener receives it. In the listener's cognition, the form becomes a **बीज (*bīja*)**, a seed: latent, held, not yet expressed. When a later speaker uses that received form inside the receiving language's own sound and grammar, the *bīja* sprouts into an organic form.
+The transformation begins when a Sanskrit speaker utters the engineered *śabda* and a non-Sanskrit listener receives it. The listener's cognition holds the form as a **बीज (*bīja*)**, a seed that remains latent until a later speaker places it inside the receiving language's own sound and grammar. At that point, the *bīja* sprouts into an organic form.
 
 The botanical metaphor finally has its proper target: the *apaśabda*.
 
@@ -275,7 +275,7 @@ Chapter 18 §18.7 develops the worked examples: *devaḥ* becoming Latin *deus*;
 
 ## 12.10 Close — Assembly Without Loss
 
-The *dhātuḥ* now stands as an atomic construction, and the atom that entered operation has become action. The next scale follows: the atom becomes *śabda*, the molecule becomes *padam*, and the *padam* enters the *vākya*.
+The *dhātuḥ* now stands as an atomic construction, and the atom that entered operation has become action. The next scale follows: the atom becomes *śabda*, the molecule becomes *padam*, and the *padam* integrates into the *vākya*.
 
 The governing principle is assembly without loss. The sentence is larger than the atom, yet the atom stays recoverable inside it — and so does every layer between: the sonomers because Sanskrit's operations still work at the sonomeric level, the head-bond and tail-bond because they leave grammatical and semantic signatures, the role-ending because *vibhaktiḥ* and *tiṅ-pratyayaḥ* hold relation, number, person, and role.
 

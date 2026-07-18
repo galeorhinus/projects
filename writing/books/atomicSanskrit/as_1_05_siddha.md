@@ -82,7 +82,7 @@ The epigraph uses the opening clause: **सिद्धे शब्दार्
 
 The full sentence then moves in exact order. First comes the established bond. Then comes **लोकतोऽर्थप्रयुक्ते शब्दप्रयोगे (*lokato 'rthaprayukte śabdaprayoge*)** — word-usage in the world, prompted by meaning. Only after those two premises comes **शास्त्रेण धर्मनियमः (*śāstreṇa dharmaniyamaḥ*)** — regulation by *śāstra* of correct usage. Patañjali gives the order: bond first, usage second, *śāstra* third. *Śāstra* regulates usage. It does not manufacture the bond.
 
-Bṛhaspati's **वाचमक्रत (*vācam akrata*)** (chapter 9) sits one layer beneath this grammar, describing Speech as formed by the wise with the mind. Patañjali's *siddha* gives the grammatical consequence: the formed architecture already stands before an individual speaker uses it. Grammar enters after that standing has been recognized.
+Bṛhaspati's **वाचमक्रत (*vācam akrata*)** (chapter 9) sits one layer beneath this grammar, describing Speech as formed by the wise with the mind. Patañjali's *siddha* gives the grammatical consequence: the formed architecture already stands before an individual speaker uses it. Grammar arrives after that standing has been recognized.
 
 > **Authority vs architecture.** In a codified language, correctness comes from an authority that declares a standard. In Sanskrit, correctness comes from an architecture that is already established. The *śāstra* does not manufacture the standard; it calibrates usage against the standard.
 >
@@ -132,7 +132,7 @@ Two claims anchor the argument.
 
 First: by holding the bond between a word and its meaning to be fixed, Patañjali automatically rejects the premise of change and drift. Modern historical linguistics assumes languages mutate, drift, and renew, and the linguist tracks the trajectory. Patañjali's framework refuses that assumption at the metaphysical level: grammar exists to defend the bond.
 
-The second: Sanskrit begins from permanence. Permanence accommodates error. Patañjali fully recognized variation, misuse, and corruption, but he denied that variation is the bond's behavior. The bond holds. Speakers slip from it. The *vaiyākaraṇaḥ* keeps the bond visible against the linguistic slips.
+The second: Sanskrit begins from permanence, a premise that accommodates error without treating variation as the bond's behavior. Patañjali fully recognized variation, misuse, and corruption, but held that the bond remains established while speakers slip from it. The *vaiyākaraṇaḥ* keeps that bond visible against the linguistic slips.
 
 The engineered Sanskrit thesis is therefore not alien to the Sanskrit lineage. Engineering language restates Sanskrit's own grammatical self-description. *Engineered first* states the architecture's priority. *Siddha* captures the architecture's metaphysical property. There is no codification event because there is no transition from drift to fixity. The bond was *siddha* before Pāṇini sat down to document it; it remained *siddha* after he finished. Pāṇini documented a *siddha* system. Patañjali says so at the opening of the *Mahābhāṣya*.
 

@@ -420,6 +420,14 @@ Uniform tightness is itself an AI tell, and it is the counterweight the compress
 
 At the same time, the book's **short hammer-paragraphs, verdict-voice closes, and rhetorical triads are signature voice, not tells.** *Ration* them — when every paragraph hammers, the deliberate ones stop landing — but never reduce them to zero. Protect the earned beat (*"Left alone, language falls away."*; *"Lose the corpus, the sūtra survives…"*; the three-line closes). An outside AI reviewer cannot distinguish a deliberate hammer from accidental metronome and will try to flatten both into long subordinated academic prose — which only trades one synthetic register for another. Cut signposting and uniformity; keep the verdict voice.
 
+### Causal exposition — preserve the bridge
+
+Explanatory passages use **causal expository prose**: identify the actors, show the mechanism, order the steps, and state the consequence. The reader should see why one sentence follows from the previous one without having to reconstruct an omitted premise. Combine related beats into sentences of varied length when the causal relation belongs inside a single thought.
+
+Do not turn an outline into prose by placing each point in its own short sentence. That compressed paratactic style can sound forceful while concealing the mechanism: *a deviation is heard; being heard, it is corrected*. Write the operation instead: the distributed community already holds the auditory measure, so it hears a deviation and corrects it as soon as it occurs. Causal language belongs inside the explanation; empty transitions such as *therefore* or *this is why* do not repair a missing mechanism.
+
+Hammers perform a different job. They may close a movement, sharpen a verdict, or establish a refrain after the explanatory work has prepared them. They should not carry a chain of reasoning by themselves.
+
 ### Failure mode 1 — Reject the recoverist voice everywhere The earlier convention had polemic chapters deploy a *hermeneutic / recoverist* voice — first-person plural ("we have walked"), present perfect continuous ("has been reading"), self-referential apparatus ("this book has been recovering"), book-as-humble-reader hand. That convention is retired. The polemic does not need the recoverist scaffolding; the polemic works through *named-agent active voice* (the pyramid does X; Sanskrit's apparatus does Y; the architecture stands) and through the named-cluster vocabulary (asuric / asuratva / pyramid / lokakṣema / Sanātan). The recoverist hand was load-bearing for an earlier draft frame; the named-categorical naming work now does the same job without the hedging that hermeneutic voice accumulates.
 
 **The conversion rule (apply universally):**

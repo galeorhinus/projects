@@ -22,7 +22,7 @@
 
 The first charge is category theft: Sanskrit was miscategorized by the pyramid.
 
-The theft works through **आसुरी माया (*āsurī māyā*)**. The charge is not *māyā* itself. Sanskrit knows *māyā* as power, measure, formation, appearance, and skill. The question is purpose. In asuric hands, *māyā* becomes a weapon of concealment: the false category is made to appear natural, and the true category is made to disappear before the evidence is heard.
+The theft works through **आसुरी माया (*āsurī māyā*)**. Sanskrit knows *māyā* as power, measure, formation, appearance, and skill, so the charge turns on its purpose. In asuric hands, *māyā* becomes a weapon of concealment: the false category is made to appear natural, and the true category is made to disappear before the evidence is heard.
 
 The pyramid made *saṃskṛti* answer as *prakṛti*. It took an engineered architecture, placed it inside a botanical field, and trained the reader to see growth, drift, ancestry, branches, plant-organs, and late codification where Sanskrit's own categories show created order, calibration, and distributed correction.
 
@@ -32,9 +32,9 @@ The first is natural speech: ***प्रकृति (*prakṛti*)***. Natural 
 
 The second is the codified standard: a selected form stabilized by grammar, school, academy, court, priesthood, state, dictionary, or textbook. The pyramidal frame prefers this category because every case gives it an authority to point to: the Académie française for French, the Real Academia Española for Spanish, the Accademia della Crusca for Italian, church canon for ecclesiastical Latin, the Uthmanic codex and *qirā'āt* authorities for Quranic Arabic, the Masoretic schools for Hebrew. A standard is set. An authority guards it. Correctness descends.
 
-The pyramid likes the second category because codification is easy to own. But the first category does not threaten it either. Natural drift can be surveyed, ranked, managed, classified, and ruled. The pyramid can govern nature.
+The pyramid can own the second category through the authority that codifies it, while the first can be surveyed, ranked, managed, classified, and ruled as natural drift. Neither category threatens the pyramid.
 
-The threat is the missing third category, and Sanskrit belongs there. Sanskrit is ***संस्कृति (*saṃskṛti*)***: created order, calibrated architecture, distributed correction. Its standard does not descend from an apex. The standard lives inside the architecture.
+The missing third category threatens the pyramid because its standard lives inside the architecture, and Sanskrit belongs there. Sanskrit is ***संस्कृति (*saṃskṛti*)***: created order, calibrated architecture, distributed correction that does not descend from an apex.
 
 Through the nineteenth century, the Western philological machinery baked a story about Sanskrit that refused this third category. Bopp's comparative grammar (1810s), Schleicher's family tree (1860s), Müller's pedagogical machinery (1850s–1880s), Brugmann's *Grundriss* (1886). Three generations of European comparativists assembled the ingredients. The recipe still holds. If anything, PIE has become more entrenched: the imagined ancestor remains the controlling premise of authorized Indo-European curricula and reference works today.[NOTE: bakers-story-seven-moves]
 
@@ -44,7 +44,7 @@ PIE is the eclipse-device in technical form—the mechanism that makes category 
 
 The theft is visible in the words nearest the reader. **मातृ (*mātṛ*)** is not Sanskrit's cousin beside *mother*; it is the etymon. The English word is a **प्रतिबिम्ब (*Pratibimba*)** — a reflection of the original form. The pyramid's account reverses that relation. It routes *mother* through reconstructed forms while *mātṛ* is made to stand beside it as a sibling. The asterisk becomes a small sign of authority: invisible speech placed above visible architecture.
 
-The pyramid hides *saṃskṛti* by splitting Sanskrit in two. Before Pāṇini (पाणिनि), it makes Sanskrit answer as *prakṛti*. After Pāṇini, it makes Sanskrit answer as codification. The repair looks late; the architecture vanishes.
+The pyramid hides *saṃskṛti* by making Sanskrit answer as *prakṛti* before Pāṇini (पाणिनि) and as codification after him. That split makes the repair look late, so the standing architecture disappears from view.
 
 That is *āsurī māyā*: not illusion as such, not skill as such, but category-making used for concealment. The theft executes in seven moves. They are not independent slips. They form a single sequence of category-theft.
 
