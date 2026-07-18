@@ -30,7 +30,7 @@ The *vyākaraṇa* discipline extends across a long analytical lineage, with wel
 
 After Pāṇini came Kātyāyana's **वार्त्तिकानि (*Vārttikāni*)**, the supplementary and corrective observations on Pāṇini's rules, and Patañjali's **महाभाष्यम् (*Mahābhāṣyam*)**, the great commentary that engages both Pāṇini and Kātyāyana. Together, Pāṇini, Kātyāyana, and Patañjali form the **त्रिमुनि व्याकरणम् (*Trimuni Vyākaraṇam*)**, the commentarial unit through which the analytical lineage has described Sanskrit.
 
-Standing at the center of this lineage, Pāṇini acted as a decoder of an ancient and established architecture that was fully operational. His documentation is the surviving peak of a much older analytical lineage of unfolding.
+Standing at the center of this lineage, Pāṇini decoded an ancient and established architecture already in full operation. His documentation survives as the peak of a much older analytical lineage of unfolding.
 
 The book's refrain is:
 

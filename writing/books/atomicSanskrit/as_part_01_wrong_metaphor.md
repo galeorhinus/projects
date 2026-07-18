@@ -36,7 +36,7 @@ What it darkens is the Sanskrit continuum — the civilization subjected to a fa
 
 The pyramid split the category. Before Pāṇini (पाणिनि), it made Sanskrit answer as **प्रकृति (*prakṛti*)**: natural growth, drift, descent, plant-organs, branches, daughters. After Pāṇini, it made Sanskrit answer as codification: grammar, authority, freezing, standardization. Both moves hide the same truth: **Sanskrit is संस्कृति (*saṃskṛti*)** — created order, calibrated architecture, disciplined recurrence.
 
-That concealment is the shadow. A swastika architecture — built for well-being, distributed order, and civilizational continuity — was first forced into a botanical tree, then into a codified standard.
+That concealment is the shadow. A swastika architecture — built for well-being, distributed order, and civilizational continuity — is first forced into a botanical tree, then into a codified standard.
 
 Sanskrit threatens the pyramid because it proves that order need not descend from an apex. A distributed, calibrated, self-correcting architecture preserves knowledge more deeply than authority can command it. If Sanskrit is seen as *saṃskṛti*, the pyramid's claim to necessity weakens. The pyramid therefore had to keep the Sun from being seen whole.
 
@@ -52,7 +52,7 @@ The architecture shows redundancy even at the human scale: the Veda preserves fo
 
 The reader is asked to exercise an older test: **सत्-असत्-विवेक (*sat-asat-viveka*)** — discernment between what accords with reality and what distorts it. The standard is universal: **यत् भूतहितम् अत्यन्तं तत् सत्यम् (*yat bhūta-hitam atyantaṃ tat satyam*)**[NOTE: satyam-bhutahitam-mahabharata] — that which serves the welfare of beings, fully and ultimately, is truth. *Bhūta* here means living beings: humans and the full field of life.
 
-The Sun was never gone, only obscured. The eclipse is caused by स्वर्भानु; the imaginary ancestor is राहु. The Atris found the hidden Sun by the fourth formulation, not by force — and the same formulation clears the shadow here, plate by plate, until the light stands whole.
+The Sun remains behind the shadow. The eclipse is caused by स्वर्भानु; the imaginary ancestor is राहु. The Atris found the hidden Sun by the fourth formulation, not by force — and the same formulation clears the shadow here, plate by plate, until the light stands whole.
 
 Chapter 2 exposes the first plates of the shadow: Sanskrit made to look *descended* and *botanical* before Pāṇini, *codified* after him, while its own fractal category — *saṃskṛti* — stays hidden. Chapter 3 asks why the tree had to be defended. Chapter 4 develops the formation behind the defense: the asuric pyramid, the hierarchy that turns knowledge into concealment.
 

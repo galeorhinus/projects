@@ -22,9 +22,9 @@ It is not Japanese, not Sanskrit, not any language a linguist has catalogued. Th
 
 The baker is Schleicher. The joke is deliberate. As of this writing, Yenpro has one speaker — the author — and a documented corpus of three sentences. The line above is the third. The other two appear in §5.5.
 
-***Yenpro*** is the language's name for itself. In Sanskrit, the same word is ***yantrī*** (यन्त्री) — *the engine*, feminine, the gender most languages take in their own naming. Yenpro was made using Sanskrit's language engine: the **धातुपाठ (*dhātupāṭha*)**, the **प्रत्यय (*pratyaya*)** and **विभक्ति (*vibhakti*)** systems, the **सन्धि (*sandhi*)** rules, the declension and conjugation paradigms — all of it operating on a Japanese-substrate phoneme inventory through a fixed cipher. The surface phonemes are Japanese-set. The architecture is Sanskritic.
+***Yenpro*** is the language's name for itself. In Sanskrit, the same word is ***yantrī*** (यन्त्री) — *the engine*, feminine, the gender most languages take in their own naming. Yenpro runs on Sanskrit's language engine: the **धातुपाठ (*dhātupāṭha*)**, the **प्रत्यय (*pratyaya*)** and **विभक्ति (*vibhakti*)** systems, the **सन्धि (*sandhi*)** rules, the declension and conjugation paradigms — all of it operating on a Japanese-substrate phoneme inventory through a fixed cipher. The surface phonemes are Japanese-set. The architecture is Sanskritic.
 
-The contrast is the argument. Yenpro has three sentences, three **धातु (*dhātu*)**s, a name, and a future: ten thousand more sentences could be produced by next Tuesday. Schleicher's PIE, after a hundred and fifty years of philological labor, has the one fable he wrote down — *Avis akvāsas ka* — and a constellation of starred forms that look like grammar from the outside and generate nothing from the inside. One had the engine. The other did not.
+The contrast is the argument. Yenpro has three sentences, three **धातु (*dhātu*)**s, a name, and a future: ten thousand more sentences could be produced by next Tuesday. Schleicher's PIE, after a hundred and fifty years of philological labor, has the one fable he wrote down — *Avis akvāsas ka* — and a constellation of starred forms that look like grammar from the outside and generate nothing from the inside. One has the engine. The other does not.
 
 ## 5.2 From Word Factory to Language Factory
 

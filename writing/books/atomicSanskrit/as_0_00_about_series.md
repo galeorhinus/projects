@@ -4,7 +4,7 @@ Many Vedic mantras end with Shanti recited three times. Each recitation refers t
 
 The series advances a central claim: the Vedic corpus contains far more order than the modern reader is taught to see. Each volume brings one or more layers of that hidden architecture into view.
 
-That is why Hindus have treated the protection of the *Vedas* as a civilizational duty across thousands of years. They were preserving more than sacred speech: memory, measure, discipline, and balance encoded for transmission through the darkness of time.
+That is why Hindus have treated the protection of the *Vedas* as a civilizational duty across thousands of years. In protecting them, they have preserved more than sacred speech: memory, measure, discipline, and balance encoded for transmission through the darkness of time.
 
 *Atomic Sanskrit* is the first volume of ***Second Shanti***. It begins with the linguistic layer: Sanskrit as the radiant, calibrant, and fractal architecture visible in the Vedic corpus and sustained by the *Vedāṅga* disciplines. It follows the fractal from mouth to language: sonomer, *akṣara*, *dhātuḥ*, *kriyā*, *śabda*, *vākya*, *sūtra*, and the calibrated language as a whole. Sanskrit is alive; the system is visible in ongoing recitation, grammar, and use, not reconstructed from fragments.
 

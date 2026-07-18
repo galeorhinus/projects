@@ -16,7 +16,7 @@ The asuric Christian pyramid failed to destroy the civilization's architecture, 
 
 ## 2.1 The Fleet
 
-The Deccan College dictionary is one case because its documentation is complete and its title confesses the method. The pattern is larger. Linear progressivism — the secularized descendant of the *fourth Abrahamic religion*'s chronological-evolutionary timeline — remained the default operating system across institutional Indology after 1947. Three other instances make the pattern visible.
+The Deccan College dictionary is one case because its documentation is complete and its title confesses the method. The pattern is larger. Linear progressivism — the secularized descendant of the *fourth Abrahamic religion*'s chronological-evolutionary timeline — has remained the default operating system across institutional Indology since 1947. Three other instances make the pattern visible.
 
 **The Bhandarkar Oriental Research Institute (1919; final *Mahābhārata* volume 1966).** BORI's Critical Editions of the *Mahābhārata* and *Rāmāyaṇa* applied Western biblical textual criticism — a tool built to reverse-engineer a fragile Ur-text from corrupt manuscript copies — to **स्मृति (*smṛti*)**, a distributed generative network built to preserve a core while allowing regional, ritual, and civilizational expansion. What the method calls *interpolation* is often the system operating. BORI applied a decaying-manuscript diagnostic to an open-source engine and diagnosed the engine's generative output as disease.
 
@@ -185,7 +185,7 @@ Deccan College made a choice in 1948. It can make a different choice today.
 
 ## 2.9 जाड्यम् अपहन्यताम् (*Jāḍyam Apahanyatām*) — Let the *Jāḍya* Be Removed
 
-The Deccan College dictionary is one institution. BORI, the *Linguistic Survey of India*'s descendants, the Archaeological Survey of India, the history departments — all of them face the same choice. All of them assembled, across decades, the raw data of a decentralized, engineered civilization. All of them processed it through the centralized, evolutionary algorithms of their predecessors. The choice was made and re-made.
+The Deccan College dictionary is one institution. BORI, the *Linguistic Survey of India*'s descendants, the Archaeological Survey of India, the history departments — all of them face the same choice. All of them have assembled, across decades, the raw data of a decentralized, engineered civilization. All of them have processed it through the centralized, evolutionary algorithms of their predecessors. The choice has been made and re-made.
 
 The institutional posture is itself **जड (*jaḍa*)** — the Sanskrit term Chapter 5 §5.6 introduced for *inert*, *lifeless-matter*, *dull-minded*, *cold-and-heavy*. The Sanskrit that captures this property precisely is the very Sanskrit the framework refuses to recognize as engineered.
 

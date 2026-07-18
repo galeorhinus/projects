@@ -38,7 +38,7 @@ The older diagnostic vocabulary underneath these operations is precise: the *pa�
 
 The full structure has doctrine, institution, missionaries, defenders, and priests. Progressivism is the **fourth Abrahamic religion**.
 
-The substitutions are exact. Heaven on earth became progress. Salvation became development. The elect became the enlightened. The damned became the backward. Mission became modernization. Heresy became anti-science, regressive, pseudo-scholarship, communalism. The end times became the end of history.[NOTE: end-of-history-fukuyama] Original sin survived as historical injustice, with the operative content changing by faction while the structure remained.
+The substitutions followed an exact pattern. Heaven on earth became progress. Salvation became development. The elect became the enlightened. The damned became the backward. Mission became modernization. Heresy became anti-science, regressive, pseudo-scholarship, communalism. The end times became the end of history.[NOTE: end-of-history-fukuyama] Original sin survived as historical injustice, with the operative content changing by faction while the structure remained.
 
 The genealogy runs deeper than metaphor. The *"Enlightenment"* did not abolish Abrahamic end-time structure; it secularized it into a beginning, a saving sequence, and an end toward which collective effort is bent. The end may be liberal democracy or technological transcendence. The vehicle changes. The end-time structure does not.[NOTE: voegelin-gnosticism]
 
@@ -131,7 +131,7 @@ In the *Vana Parva* of the *Mahābhārata*, Bandin holds King Janaka's court aga
 
 Aṣṭāvakra defeats the gate before he defeats Bandin. He exposes the fraud: a council that judges by age, appearance, and external standing before hearing the argument is not a council of the learned. It is a council of fools. The lineage's verdict is clear. The hero is Aṣṭāvakra. The villain is Bandin.[NOTE: ashtavakra-bandin-mahabharata]
 
-The debate was not peer review. It was **शास्त्रार्थ (*śāstrārtha*)**: knowledge tested in public. The audience was not a hidden committee of credentialed insiders. The audience was the court itself — learners, citizens, visitors, retinue, witnesses. The verdict was rendered by demonstration, not by anonymous gatekeeping. *Śāstrārtha* democratizes knowledge because the audience is structurally present. Peer review concentrates verdict in a sub-class invisible to the audience and unanswerable to it.
+The debate was not peer review. It was **शास्त्रार्थ (*śāstrārtha*)**: knowledge tested in public. The audience was not a hidden committee of credentialed insiders. The audience was the court itself — learners, citizens, visitors, retinue, witnesses. The verdict was rendered by demonstration, not by anonymous gatekeeping. The structural difference remains: *śāstrārtha* democratizes knowledge because the audience is structurally present. Peer review concentrates verdict in a sub-class invisible to the audience and unanswerable to it.
 
 The contemporary Bandin sits on an editorial board, grant panel, appointments committee, dissertation committee, or review desk. His language has changed. His structure has not. He says: this has not appeared in a reputable journal. This is outside scholarly consensus. This does not meet disciplinary standards. This is not how the field understands the question. The debate is decided by deciding who may enter the debate.
 
@@ -181,7 +181,7 @@ The fourth Abrahamic religion is the institutional formation that has tried to a
 
 The dharmic continuum has its own primary-source diagnosis of the foreign binary the Abrahamic substrate imposed on India. In the *Assalāyana Sutta*, the Buddha observes that the *ārya/dāsa* binary is visible among foreign-bordering nations such as Yona and Kamboja, not as an Indic universal — the dharmic continuum itself documenting the binary as foreign to the dharmic frame.[NOTE: assalayana-sutta-fwd] Chapter 3 §3.2 sets out the citation in full; the Epilogue returns to *āryatva* as invitation rather than race.
 
-Two architectures contest, asymmetrically. The fourth Abrahamic religion tries to remake an integrated civilization in the image of an imported binary structure. The architecture of *Sanātan* holds beneath whichever political-administrative regime happens to operate at the surface. It has not survived by accident. It survived because it was built to.
+Two architectures contest, asymmetrically. The fourth Abrahamic religion tries to remake an integrated civilization in the image of an imported binary structure. The architecture of *Sanātan* holds beneath whichever political-administrative regime happens to operate at the surface. Its design has carried it through each change of regime.
 
 ![Figure 4.2 — Pyramid and Swastika: Two Architectures of Authority. The pyramid authorizes from above; the swastika architecture transmits, tests, and corrects through society itself.](figures/fourth_abrahamic/pyramid_and_swastika.svg){#fig:ch4-pyramid-swastika width=100%}
 

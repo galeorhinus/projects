@@ -26,7 +26,7 @@ The recovery image is not total conquest. The Sun is visible, the seven core pla
 
 ![Figure E.12 — Atri Recovery. The Sanskrit-Sun is visible; seven core plates have fallen, residual shadows remain, and points of caretaking light appear across the world-field.](figures/eclipse_spine/eclipse_80_epilogue_atri_recovery.svg){#fig:eclipse-epilogue-atri-recovery width=100%}
 
-The core shadow is cleared. Plate by plate the obscuration came off — Descended, Botanical, Codified, Alphabetic, Abugida, Sibling Language, Early Literature — and Rāhu, the invented ancestor, was dispelled. What cast the shadow has a name: the asuric pyramid. The remedy began in Chapter 19, with the waves of transmission and the work of relearning.
+The core shadow is cleared. Plate by plate the obscuration falls away — Descended, Botanical, Codified, Alphabetic, Abugida, Sibling Language, Early Literature — and Rāhu, the invented ancestor, is dispelled. The asuric pyramid casts the shadow. Chapter 19 begins the remedy with the waves of transmission and the work of relearning.
 
 Recovery is not revenge. The dharmic account is karmic. Action bears consequence, but restoration remains possible when action changes. The proper word is **प्रायश्चित्त (*prāyaścitta*)**: self-initiated atonement, internal accountability, correction by action.
 

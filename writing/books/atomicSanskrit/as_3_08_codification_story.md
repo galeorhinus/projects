@@ -209,7 +209,7 @@ The differences that do exist are bounded, named, and assigned: mode, meter, rec
 
 A skeptic may still say: but Sanskrit did change. The answer is exact: ordinary speech always changes; Sanskrit's calibrated architecture did not collapse into that change. *Prākṛtika* speech flowed. Regional languages flourished. *Apabhraṃśa* multiplied. The calibrant remained.
 
-That is the civilizational design. Sanātan did not require every person to speak the calibrant language. Society spoke its living languages, its household speech, its market idioms, its songs, its regional forms. Sanskrit stood elsewhere. It was the *dhruvamān bhāṣā*, the north-star language: stable enough to orient speech, memory, knowledge, ritual, and grammar without needing to police every living mouth.
+That is the civilizational design. Sanātan does not require every person to speak the calibrant language. Society speaks its living languages, its household speech, its market idioms, its songs, its regional forms. Sanskrit stands elsewhere. It is the *dhruvamān bhāṣā*, the north-star language: stable enough to orient speech, memory, knowledge, ritual, and grammar without needing to police every living mouth.
 
 Codified languages require authority to correct them. Calibrated Sanskrit builds correction inside the architecture.
 
