@@ -159,9 +159,9 @@ The *chaturvarna* re-read (§5.6) is the same operation across four arms. Each *
 
 ### 4.1 The three shapes / three categories
 
-- ***Prakriti*** **(nature) = circle.** Dunbar's number ~150; two-degrees-of-separation; self-governance; overlapping clusters. Stable at small scale; fragile under pressure.
-- ***Vikriti*** **(distortion) = cone / pyramid.** The pyramid's apparent beauty (efficiency, scale, scope, technological progress) and structural ugliness (the dark triangle, centralization, scarcity-economics, the *durartha-śāstra* critique). Cones (mafia, feudal, basic hierarchical) cannot stack; pyramids (corporate, nation-state, globalist) stack indefinitely. The Abrahamic-substrate pyramid is uniquely toxic because it is sanctioned by Dictator-God.
-- ***Sanskriti*** **(engineered order) = swastika.** Fractal, rotational, distributed, anti-fragile, unstackable, scalable through replication rather than aggregation. *Chaturvarna* as the four-color spaces. The architectural specification *Atomic Sanskrit* names in Ch 3 §3.6 as *Sanātan*'s non-pyramidal structure.
+- ***Prakṛti*** **(nature) = circle.** Dunbar's number ~150; two-degrees-of-separation; self-governance; overlapping clusters. Stable at small scale; fragile under pressure.
+- ***Vikṛti*** **(distortion) = cone / pyramid.** The pyramid's apparent beauty (efficiency, scale, scope, technological progress) and structural ugliness (the dark triangle, centralization, scarcity-economics, the *durartha-śāstra* critique). Cones (mafia, feudal, basic hierarchical) cannot stack; pyramids (corporate, nation-state, globalist) stack indefinitely. The Abrahamic-substrate pyramid is uniquely toxic because it is sanctioned by Dictator-God.
+- ***Saṃskṛti*** **(engineered order) = swastika.** Fractal, rotational, distributed, anti-fragile, unstackable, scalable through replication rather than aggregation. *Chaturvarna* as the four-color spaces. The architectural specification *Atomic Sanskrit* names in Ch 3 §3.6 as *Sanātan*'s non-pyramidal structure.
 
 ### 4.2 Pyramid critique (extending *Atomic Sanskrit* Ch 3 §§3.3–3.6)
 
@@ -197,7 +197,7 @@ Proposed structural framework for the political volume's opening polemic — the
 
 3. ***The Weapon Framing*** — name the structural threat the *Vedas* pose to every pyramidal formation. Each historical pyramid has had to either *suppress* the Vedic architecture (Islamic conquest's library-burnings; colonial chronology-imposition; modern academic absorption into family-tree taxonomy) or *absorb* it into pyramidal terms (the pyramid's "Sanskrit is just another natural language" account is the absorption move). The *Vedas* threaten not specific pyramids but the **pyramidal premise itself** — that order requires authority. Past, present, and future formations are all targeted by the same structural disproof. *Standing polemic phrase candidate:* ***"The Vedas were a weapon against every pyramid — in the past, the present, and the future."*** (This sharpening landed in *Atomic Sanskrit* Ch 3 §3.6 during the Session 11 Vedas-as-distributed-order work; the political volume develops it polity-architecturally.)
 
-4. ***The Fractal-Democracy Alternative*** — the volume's positive specification. Karma as ledger; fractal restraints; no institutional outsourcing of self-responsibility. The *prakriti / vikriti / sanskriti* triad mapped to the *circle / cone-pyramid / swastika* shape-language Ch 3 §3.6 introduced. The polity-architectural form the Vedic disproof opens space for.
+4. ***The Fractal-Democracy Alternative*** — the volume's positive specification. Karma as ledger; fractal restraints; no institutional outsourcing of self-responsibility. The *prakṛti / vikṛti / saṃskṛti* triad mapped to the *circle / cone-pyramid / swastika* shape-language Ch 3 §3.6 introduced. The polity-architectural form the Vedic disproof opens space for.
 
 ***Progression: assumption → disproof → weapon → alternative.*** Each stage builds; the polemic compounds.
 
@@ -207,7 +207,7 @@ The political volume closes loops *Atomic Sanskrit* opens but does not develop:
 
 - The *Aṣṭāvakra / Bandin* "who guards the guards" diagnostic (Ch 3 §3.5) gets its fractal-democracy *answer* — karma as ledger.
 - The pyramid-vs-swastika contrast (Ch 3 §3.6) gets built out into the fractal-democracy positive program.
-- The *prakriti / sanskriti* binary (Ch 5) gets extended to the three-shape framework (*prakriti / vikriti / sanskriti*) with the geometric mapping.
+- The *prakṛti / saṃskṛti* binary (Ch 5) gets extended to the three-shape framework (*prakṛti / vikṛti / saṃskṛti*) with the geometric mapping.
 - The *Sanātan* architecture (Ch 3 §3.6 close; Ch 5 §5.6) gets its political-organizational specification.
 - The *asura* etymology and *Pratibimba* (Ch 18 §18.8) gets its cosmic-register development (asuras-as-noise / devas-as-light) and the suric/asuric political-architectural implications.
 
@@ -230,7 +230,7 @@ The political volume closes loops *Atomic Sanskrit* opens but does not develop:
 ### 5.3 Efficiency as *maya*
 
 - *Scale-and-scope* efficiencies are reductionist; *fractal efficiency* is the alternative.
-- The Indian economy wasn't killed by machines; it was killed by centralization. Centralization is the actual *vikriti*.
+- The Indian economy wasn't killed by machines; it was killed by centralization. Centralization is the actual *vikṛti*.
 
 ### 5.4 Fractal markets
 
@@ -323,7 +323,7 @@ To avoid duplication, forthcoming volumes treat these as Vol 1 ground:
 - **The Aṣṭāvakra/Bandin diagnostic** — Ch 3 §3.5 (the *peer* mechanism; the *śāstrārtha* counter-frame).
 - **The Vedas-as-weapon-against-every-pyramid sharpening** — Ch 3 §3.6 (Session 11 addition).
 - **Heroic erasure** — Ch 1 §1.6 (the pyramid's founder-myth move), with script-level deployment in Ch 13 §13.3.
-- **The *Sanātan* / *prakriti* / *Sanskriti* base terminology** — Ch 5 (forthcoming volumes add *vikriti* as the middle).
+- **The *Sanātan* / *prakṛti* / *saṃskṛti* base terminology** — Ch 5 (forthcoming volumes add *vikṛti* as the middle).
 - **The cooking/baking-vs-manufacture convention** — `CLAUDE.md` (inherited).
 - **Vivimorphosis as the engineered-to-organic transformation** — Ch 12 §12.5 (forthcoming volumes may reference for cosmic-register applications).
 - **Outward-absorption mechanism** — Ch 3 §3.4 (the church-of-progress's elevation-of-tradition-internal-scholars move).
@@ -359,7 +359,7 @@ This section grows as material surfaces during *Atomic Sanskrit* work that prope
 
 - **The apex needs his flock; the flock does not need him.** The Abrahamic apex is a shepherd — his authority is borrowed from below and sustained only by the obedience of his followers. Beneath the jealous-God posture sits a structural insecurity: he fears the flock will abandon him, because a flock that discovers it needs no shepherd dissolves the apex entirely. This is the human underside of the no-apex threat (*Sanskrit preserves an order with no apex at all* — AP0 §1.4, Ch 4 §4.6): the distributed order does not merely sit beyond his command; it shows the sheep they were never his to keep. It is what drives the pyramid's membership machinery — boundary-policing, apostasy penalty, conversion economics (Ambedkar's *closed corporation*, Ch 4 §4.1). *Atomic Sanskrit* drips only the apex-trait — the insecurity itself; the full pastoral-control apparatus is polity / social, for the **political** volume (§4), tied to §3.6 (*followers vs seekers*) and §3.7 (top-down vs inside-out). Guardrail: Vol 1 keeps the trait, not the mechanism.
 
-- **Varṇa is the fractal unit at both scales — and the calibrant principle governs society as it governs language.** The unit of the language system is a *varṇa* (the sound-particle of the *varṇamālā*); the unit of the social system is also *varṇa* (the social order) — one word, one fractal unit, two scales. The linguistic architecture is therefore the template for the social one. **Sanskrit is a calibrant, not an imposition:** it is the engineered reference (*saṃskṛti*) against which speech is measured, yet the *prākritik* languages keep thriving in their own right — Sanskrit calibrates without replacing or ruling them (Ch 5 §5.6; Ch 6). The same shape is meant to hold for society: *varṇa* by *guṇa* / *karma* (*Bhagavad Gītā* 4.13) as a **calibrant** — a stable reference orienting the social field toward *lokakṣema* — **not** an imposed birth-rank, with the lived, regional, *jāti*-level social forms continuing to thrive, calibrated but never overwritten, exactly as the prākrits thrive beneath Sanskrit. Caste-as-fixed-birth-rank is the *failure* of this: *varṇa* seized and frozen into a pyramid — the social *apabhraṃśa* the caste item above tracks — the exact inversion of varṇa-as-calibrant. So the positive program (varṇa as a non-imposed, distributed calibrant) is the social mirror of §3.9's swastika (calibration-responsibility, not apex-command) and the §5.6 *chaturvarna* re-read; for the **political / vikṛti** volume. Guardrail: this is the *corrective* architecture (calibrant, not hierarchy), held distinct from the distortion it answers; Vol 1 keeps the linguistic fractal only.
+- **Varṇa is the fractal unit at both scales — and the calibrant principle governs society as it governs language.** The unit of the language system is a *varṇa* (the sound-particle of the *varṇamālā*); the unit of the social system is also *varṇa* (the social order) — one word, one fractal unit, two scales. The linguistic architecture is therefore the template for the social one. **Sanskrit is a calibrant, not an imposition:** it is the engineered reference (*saṃskṛti*) against which speech is measured, yet the *prākṛtika* languages keep thriving in their own right — Sanskrit calibrates without replacing or ruling them (Ch 5 §5.6; Ch 6). The same shape is meant to hold for society: *varṇa* by *guṇa* / *karma* (*Bhagavad Gītā* 4.13) as a **calibrant** — a stable reference orienting the social field toward *lokakṣema* — **not** an imposed birth-rank, with the lived, regional, *jāti*-level social forms continuing to thrive, calibrated but never overwritten, exactly as the *prākṛtika* languages thrive beneath Sanskrit. Caste-as-fixed-birth-rank is the *failure* of this: *varṇa* seized and frozen into a pyramid — the social *apabhraṃśa* the caste item above tracks — the exact inversion of varṇa-as-calibrant. So the positive program (varṇa as a non-imposed, distributed calibrant) is the social mirror of §3.9's swastika (calibration-responsibility, not apex-command) and the §5.6 *chaturvarna* re-read; for the **political / vikṛti** volume. Guardrail: this is the *corrective* architecture (calibrant, not hierarchy), held distinct from the distortion it answers; Vol 1 keeps the linguistic fractal only.
 
 ---
 
@@ -372,7 +372,7 @@ Places where *Atomic Sanskrit* touches forthcoming-volume territory without deve
 - **Chapter 2 (Why the Pyramid Needs the Tree)** — the Progress Crisis names the linear-progress teleology as the contemporary opponent; forthcoming volumes develop this as one face of the asuric posture.
 - **Chapter 3 §3.5** — the Aṣṭāvakra-Bandin diagnostic; the *who guards the guards* question that the political volume answers through karma-as-ledger.
 - **Chapter 3 §3.6** — *asuratva*, the pyramid-vs-swastika contest, the Vedas-as-weapon-against-every-pyramid sharpening.
-- **Chapter 5 §5.5–§5.6** — *apabhraṃśa* → *chandas + śruti* engineering; the *sanātan* / *prakriti* / *sanskriti* base terminology.
+- **Chapter 5 §5.5–§5.6** — *apabhraṃśa* → *chandas + śruti* engineering; the *sanātan* / *prakṛti* / *saṃskṛti* base terminology.
 - **Chapter 13–16** — engineered preservation; the calibration matrix; the *Auditure* / *Mnemoniture* / *Flexture* four-coinage taxonomy; the eleven *pāṭhas*.
 - **Chapter 18 §18.8** — the *asura → ahura* linguistic vivimorphosis; the cosmic-register backdrop for the polity-architectural argument.
 - **Epilogue** — the civilizational close and the signal of the larger inquiry; the most direct hand-off point.
@@ -437,7 +437,7 @@ The book-coined English terms ***Mnemoniture***, ***Flexture***, ***Auditure*** 
 
 Forthcoming volumes have not started drafting. This file is purely a planning + parking-lot document. When the author begins work on a specific forthcoming volume, this document becomes the seed for that volume's working handoff file.
 
-*Last updated: 2026-06-18 — parked the *varṇa-as-calibrant* item in §8: *varṇa* is the fractal unit at both scales (the sound-particle and the social order), and the calibrant-not-imposition principle extends from language to society — *varṇa* as a non-imposed calibrant, with *jāti* / regional social forms thriving as the prākrits thrive beneath Sanskrit; the positive complement to the caste-as-*apabhraṃśa* item; ties §3.9 (swastika) and §5.6 (*chaturvarna* re-read); for the **political / vikṛti** volume.*
+*Last updated: 2026-06-18 — parked the *varṇa-as-calibrant* item in §8: *varṇa* is the fractal unit at both scales (the sound-particle and the social order), and the calibrant-not-imposition principle extends from language to society — *varṇa* as a non-imposed calibrant, with *jāti* / regional social forms thriving as the *prākṛtika* languages thrive beneath Sanskrit; the positive complement to the caste-as-*apabhraṃśa* item; ties §3.9 (swastika) and §5.6 (*chaturvarna* re-read); for the **political / vikṛti** volume.*
 
 *2026-06-15 — parked the caste-as-social-*apabhraṃśa* item in §8 (surfaced in the Ch 6 §6.8 work; cross-ref Ch 3 §3.2; new `caste-colonial-census-hardening` endnote). Assigned to the **vikṛti** volume; ties to §3.9. Also parked the *apex-needs-his-flock* item in §8 (surfaced in the apex-trait / distributed-order work; for the **political** volume, ties to §3.6 followers-vs-seekers).*
 

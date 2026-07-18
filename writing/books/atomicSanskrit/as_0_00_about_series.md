@@ -10,11 +10,11 @@ That is why Hindus have treated the protection of the *Vedas* as a civilizationa
 
 Forthcoming volumes begin where this book stops: language to civilizational form. They trace polity, economy, responsibility, and other structures preserved by the same Vedic depth. Those volumes document what survives without forcing every fragment into a single manufactured reconstruction.
 
-Those later volumes distinguish the Vedic calibrant from its neighbors: *astika* formations that live by it, *nastika* and *prakritika* formations that can remain harmonious with it, with each other, and with balance in the world, and asuric formations that are threatened by that balance.
+Those later volumes distinguish the Vedic calibrant from its neighbors: *astika* formations that live by it, *nastika* and *prākṛtika* formations that can remain harmonious with it, with each other, and with balance in the world, and asuric formations that are threatened by that balance.
 
 Fractality operates in nature and in human-created order. Sanskrit's own categorical vocabulary draws the distinction. ***प्रकृति (*prakṛti*)*** is the natural fractal — the recurrence nature produces: trees, branching, organic growth. ***संस्कृति (*saṃskṛti*)*** is the balanced civilizational fractal — recurrence disciplined toward balance, welfare, memory, and continuity. ***विकृति (*vikṛti*)*** is the distorted civilizational fractal — recurrence bent toward hierarchy, extraction, control, and concealment.
 
-Two civilizational fractals stand against each other in the record: the swastika and the pyramid. The swastika — *su-asti*, "well-being," "may it be good" — is the *saṃskṛti* fractal: created order aligned with welfare. The pyramid is the *vikṛti* fractal: created order bent into hierarchy, apex authority, extracted labor, controlled doctrine, and withheld light.
+Two civilizational fractals stand against each other in the record: the swastika and the pyramid. The swastika — *su-asti*, "well-being," "may it be good" — is the *sāṃskṛtika* fractal: created order aligned with welfare. The pyramid is the *vaikṛtika* fractal: created order bent into hierarchy, apex authority, extracted labor, controlled doctrine, and withheld light.
 
 History remembers the attacks on this architecture by asuric formations across time — ancient, Abrahamic, and modern. Those attacks were designed to destroy, capture, or obscure the architecture, but they also reveal why it threatens the pyramid. The architecture itself is the target.
 

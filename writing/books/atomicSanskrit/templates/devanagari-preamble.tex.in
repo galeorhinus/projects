@@ -17,6 +17,12 @@
 %     font selection).
 
 \usepackage{fontspec}
+\usepackage{caption}
+
+% Figure numbers are authored directly in Markdown captions (for example,
+% Figure 0.1 and Figure E.3). Suppress LaTeX's independent sequential label so
+% numbered and intentionally unnumbered captions both render as written.
+\captionsetup[figure]{labelformat=empty}
 
 \newfontfamily{\devanagarifont}[Script=Devanagari]{__DEVANAGARIFONT__}
 \newfontfamily{\arabicfont}[Script=Arabic]{Geeza Pro}

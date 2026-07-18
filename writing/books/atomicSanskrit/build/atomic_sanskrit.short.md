@@ -10,11 +10,11 @@ That is why Hindus have treated the protection of the *Vedas* as a civilizationa
 
 Forthcoming volumes begin where this book stops: language to civilizational form. They trace polity, economy, responsibility, and other structures preserved by the same Vedic depth. Those volumes document what survives without forcing every fragment into a single manufactured reconstruction.
 
-Those later volumes distinguish the Vedic calibrant from its neighbors: *astika* formations that live by it, *nastika* and *prakritika* formations that can remain harmonious with it, with each other, and with balance in the world, and asuric formations that are threatened by that balance.
+Those later volumes distinguish the Vedic calibrant from its neighbors: *astika* formations that live by it, *nastika* and *prākṛtika* formations that can remain harmonious with it, with each other, and with balance in the world, and asuric formations that are threatened by that balance.
 
 Fractality operates in nature and in human-created order. Sanskrit's own categorical vocabulary draws the distinction. ***`{\devanagarifont प्रकृति}`{=latex} (*prakṛti*)*** is the natural fractal — the recurrence nature produces: trees, branching, organic growth. ***`{\devanagarifont संस्कृति}`{=latex} (*saṃskṛti*)*** is the balanced civilizational fractal — recurrence disciplined toward balance, welfare, memory, and continuity. ***`{\devanagarifont विकृति}`{=latex} (*vikṛti*)*** is the distorted civilizational fractal — recurrence bent toward hierarchy, extraction, control, and concealment.
 
-Two civilizational fractals stand against each other in the record: the swastika and the pyramid. The swastika — *su-asti*, "well-being," "may it be good" — is the *saṃskṛti* fractal: created order aligned with welfare. The pyramid is the *vikṛti* fractal: created order bent into hierarchy, apex authority, extracted labor, controlled doctrine, and withheld light.
+Two civilizational fractals stand against each other in the record: the swastika and the pyramid. The swastika — *su-asti*, "well-being," "may it be good" — is the *sāṃskṛtika* fractal: created order aligned with welfare. The pyramid is the *vaikṛtika* fractal: created order bent into hierarchy, apex authority, extracted labor, controlled doctrine, and withheld light.
 
 History remembers the attacks on this architecture by asuric formations across time — ancient, Abrahamic, and modern. Those attacks were designed to destroy, capture, or obscure the architecture, but they also reveal why it threatens the pyramid. The architecture itself is the target.
 
@@ -254,7 +254,7 @@ The language's own name — *saṃskṛtam* `{\devanagarifont संस्कृ
 
 These are three fields, each with its own duty: one preserves what must not change, one extends what can be applied, one lets life move where movement belongs. Together they are a civilization keeping three promises at once.
 
-![Figure 0.1 — The three fields. *Saṃskṛta*, the wholly created language, runs in two domains — *vaidika* (invariant) and *laukika* (a curated transmission: selected, accretive, lossy) — while *prākṛtika* flows beside them as the natural speech of daily life. In both saṃskṛta domains the language holds calibrated Sanskrit; all three run the full span from *anādi* to *ananta*.](figures/seekers/sanatana_triad.svg){#fig:sanatana-triad width=100%}
+![Figure 0.1 — The three fields. *Saṃskṛta*, the wholly created language, runs in two domains — *vaidika* (invariant) and *laukika* (a curated transmission: selected, accretive, lossy) — while *prākṛtika* flows beside them as the natural speech of daily life. In both saṃskṛta domains the language holds calibrated Sanskrit; all three run the full span from *anādi* to *ananta*.](figures/seekers/sanatana_triad.gray.png){#fig:sanatana-triad width=100%}
 
 ---
 
@@ -268,7 +268,7 @@ At the same turn, the *itihāsa-purāṇa* — the fifth Veda — passed to the 
 
 The continuum measures all of this in its own time — *Sanātana* time. Tretā turned before Dvāpara, Satya before that; and through every age the Veda has kept watch over the laukika world, unchanged — the invariant calibrant against which the turning world is measured.
 
-![Figure 0.2 — Sanātana Time. The one Veda (invariant, *chandas* mode) divides into four at the Mahābhārata — each *saṃhitā* with its *vistāra* — while the *itihāsa-purāṇa* crosses into the laukika domain (*bhāṣā* mode), where civilizational clarity rises and falls across the yugas. All measured in the continuum's own time, *anādi* to *ananta*.](figures/seekers/seekers_vaidika_laukika.svg){#fig:sanatana-time width=100%}
+![Figure 0.2 — Sanātana Time. The one Veda (invariant, *chandas* mode) divides into four at the Mahābhārata — each *saṃhitā* with its *vistāra* — while the *itihāsa-purāṇa* crosses into the laukika domain (*bhāṣā* mode), where civilizational clarity rises and falls across the yugas. All measured in the continuum's own time, *anādi* to *ananta*.](figures/seekers/seekers_vaidika_laukika.gray.png){#fig:sanatana-time width=100%}
 
 ---
 
@@ -386,7 +386,7 @@ Sanskrit resists that shape. Its order descends through the distributed field ra
 
 Calibration is what the pyramid cannot conquer, because the standard lives in the system itself. Natural drift can be surveyed and ruled. Codification can be captured by authority. The pyramid can lord over drift and sanctify codification. Because it cannot conquer calibration, it must hide the category entirely.
 
-**Diagnostic distinction.** Not everything outside formal Vedic calibration is asuric. A *nastika* discipline may refuse the Veda as calibrant and still live harmoniously beside it, beside other harmonious formations, and within the balance of the world. A *prakritika* culture may live through forest, clan, custom, ecology, craft, and local memory without being threatened by the Vedic measure. The asuric formation is different: it is threatened by the calibrant and by the balance the calibrant protects; it therefore works to destroy, displace, shame, capture, or distort it. Compatibility is not immunity: a formation can live harmoniously beside the calibrant and within the world's balance, and still later be captured, co-opted, or controlled by the pyramid.`\textsuperscript{[20]}`{=latex}
+**Diagnostic distinction.** Not everything outside formal Vedic calibration is asuric. A *nastika* discipline may refuse the Veda as calibrant and still live harmoniously beside it, beside other harmonious formations, and within the balance of the world. A *prākṛtika* culture may live through forest, clan, custom, ecology, craft, and local memory without being threatened by the Vedic measure. The asuric formation is different: it is threatened by the calibrant and by the balance the calibrant protects; it therefore works to destroy, displace, shame, capture, or distort it. Although, *nastika* and *prākṛtika* systems can coexist alongside *saṃskṛti*, compatibility does not mean immunity: a formation can live harmoniously beside the calibrant and within the world's balance, and still later be captured, co-opted, or controlled by the pyramid.`\textsuperscript{[20]}`{=latex}
 
 Preservation has to discriminate. Living forms can flow, grow, and change while the calibrant holds the measure by which balance is restored when darkness spreads. The pyramid targets that measure because capture becomes harder when correction remains distributed.
 
@@ -469,7 +469,7 @@ At the opening of Part I, the pyramid still stands whole. The first three obstru
 
 The Sun is Sanskrit: the architecture of `{\devanagarifont सनातन}`{=latex} `{\devanagarifont संस्कृति}`{=latex} (*sanātana saṃskṛti*), the engineered order. Distributed, measured, preserved, and self-calibrated, it holds speech, memory, and civilization without apex command. It does not descend. It does not drift. It does not decay. It is the light the world was trained not to see.
 
-What darkens it is the asuric pyramid: the `{\devanagarifont विकृति}`{=latex} (*vikṛti*) fractal, a top-down order that repeats itself at every level of its hierarchy. Threatened by distributed order, it corrupts networks into hierarchies, freezes living architecture into dead doctrine, and withholds knowledge to keep others in darkness. The oldest record calls the eclipse `{\devanagarifont स्वर्भानु}`{=latex} (*Svarbhānu*) — and his name holds the very *svar*, the light, he sets out to swallow.`\textsuperscript{[22]}`{=latex} The Sun is darkened, not destroyed.
+What darkens it is the asuric pyramid: the `{\devanagarifont वैकृतिक}`{=latex} (*vaikṛtika*) fractal, a top-down order that repeats itself at every level of its hierarchy. Threatened by distributed order, it corrupts networks into hierarchies, freezes living architecture into dead doctrine, and withholds knowledge to keep others in darkness. The oldest record calls the eclipse `{\devanagarifont स्वर्भानु}`{=latex} (*Svarbhānu*) — and his name holds the very *svar*, the light, he sets out to swallow.`\textsuperscript{[22]}`{=latex} The Sun is darkened, not destroyed.
 
 The shadow is cast by category theft: theft by misclassification, inversion by metaphor, subordination by genealogy, concealment by doctrine.
 
@@ -557,7 +557,7 @@ The familiar acronyms AIT and AMT hide this first move by arguing over mechanism
 
 **Third.** By the time Pāṇini wrote the *Aṣṭādhyāyī* (`{\devanagarifont अष्टाध्यायी}`{=latex}), the pyramid's story says the Sanskrit of the educated elite — the *śiṣṭa-bhāṣā* (`{\devanagarifont शिष्ट}`{=latex}-`{\devanagarifont भाषा}`{=latex}) — needed cleanup. Pāṇini selected its features, regularized its forms, and *codified* its grammar. *"Classical Sanskrit"* is what he produced.
 
-**Fourth.** With Pāṇini made the codifier, Sanskrit can be said to freeze. The Prakrits continued changing into the modern Indian languages; *"Classical Sanskrit"* remained fixed as an artificial formal language. The dogma's softer wording puts the move directly: *Classical Sanskrit is artificially frozen and highly codified — arguably the most successful standardized formal language in human history*. The transition does the work: drift before Pāṇini, freeze after Pāṇini, Pāṇini at the hinge.
+**Fourth.** With Pāṇini made the codifier, Sanskrit can be said to freeze. The *Prākṛta* languages continued changing into the modern Indian languages; *"Classical Sanskrit"* remained fixed as an artificial formal language. The dogma's softer wording puts the move directly: *Classical Sanskrit is artificially frozen and highly codified — arguably the most successful standardized formal language in human history*. The transition does the work: drift before Pāṇini, freeze after Pāṇini, Pāṇini at the hinge.
 
 **Fifth.** Because Vedic Sanskrit was made to answer as a natural language, it was made to require natural ancestors. The Indo-European family tree supplied one: Proto-Indo-European, the imaginary ancestor from which Sanskrit, Greek, Latin, Iranian, Germanic, Slavic, Celtic, and the rest supposedly descend.
 
@@ -617,7 +617,7 @@ Old English **hlāfweard**, the "bread-guardian," became **laverd**, then **lord
 
 This is botany at work. The metaphor fits its own object.
 
-Plants are fractal. Natural languages are fractal in the same sense: patterns recur through branching, drift, inheritance, and adaptation. That does not make every fractal botanical. The plant is *prakṛti* — natural recurrence, growth, mutation, and decay. Sanskrit is *saṃskṛti* — engineered recurrence, measured order, calibration, and self-correction. The problem with the botanical metaphor is not that it noticed recurrence. The category theft is the transfer: it treated a *saṃskṛti* fractal as *prakṛti*.
+Plants are fractal. Natural languages are fractal in the same sense: patterns recur through branching, drift, inheritance, and adaptation. That does not make every fractal botanical. The plant is *prakṛti* — natural recurrence, growth, mutation, and decay. Sanskrit is *saṃskṛti* — engineered recurrence, measured order, calibration, and self-correction. The problem with the botanical metaphor is not that it noticed recurrence. The category theft is the transfer: it treated a *sāṃskṛtika* fractal as *prakṛti*.
 
 Nor is *prakṛti* the enemy. Natural language, local custom, forest life, inherited speech, and ordinary social continuity all have their own dignity. The fraud begins when the pyramid takes a category that fits natural drift and uses it to conceal an engineered calibrant.
 
@@ -1195,7 +1195,7 @@ The bond does not evolve or mutate. It is a structural constant. This does not m
 
 Patañjali reaches this conclusion through the Indian method of stating the opposing position, answering it, and reaching the settled conclusion. The reader may be familiar with the `{\devanagarifont पूर्वपक्ष}`{=latex}–`{\devanagarifont सिद्धान्त}`{=latex} (pūrvapakṣa–siddhānta). The technical details belong to the *Paspaśāhnika* itself. The structural fact belongs here: the *Mahābhāṣya* places the *siddha* commitment at the opening of the received commentary and lets the rest of the grammatical project follow from it.
 
-**Second Shanti.** This structure gives the reader the first working view of Sanskrit as a self-correcting calibrant. Later volumes in the Second Shanti series will explore how sanskriti extends this calibrant architecture to higher fractal scales.
+**Second Shanti.** This structure gives the reader the first working view of Sanskrit as a self-correcting calibrant. Later volumes in the Second Shanti series will explore how *saṃskṛti* extends this calibrant architecture to higher fractal scales.
 
 The *vaiyākaraṇāḥ* do not merely record whatever speakers produce. They defend a system of established bonds against corruption. The *Aṣṭādhyāyī* is not a description of speaker habit. It is a specification of an engineered system. Deviations from the rules are not new standards. They are slips from the standard.
 
@@ -1289,7 +1289,7 @@ The same evidence—*gauḥ* and its fallings-away—produces three diagnostic c
 
 **Engineered self-correction** is the ***`{\devanagarifont संस्कृति}`{=latex} (*saṃskṛti*)*** category. Standardization comes from calibration: architecture correcting itself. Sanskrit does not depend on an external authority selecting one prestige variant from a field of living variation. The architecture builds its own diagnostic system. Meter catches the phonetic slip. Recitation catches the audible drift. Grammar catches the malformed word. The *pāṭha* disciplines catch the broken sequence. *Gauḥ* is correct because the system generates it; *gāvī*, *goṇī*, *gotā*, and *gopotalikā* are departures because the system detects them as departures.
 
-The three categories represent three different situations. Natural drift represents change. Codified correction enforces authority. Engineered self-correction preserves architecture. The pyramid's account pushes Sanskrit *before* Pāṇini (`{\devanagarifont पाणिनि}`{=latex}) into the first category of prakṛtik drift, and Sanskrit after Pāṇini into the second as a *codified* system. Patañjali's examples demonstrate the reality: Sanskrit belongs to the third.
+The three categories represent three different situations. Natural drift represents change. Codified correction enforces authority. Engineered self-correction preserves architecture. The pyramid's account pushes Sanskrit *before* Pāṇini (`{\devanagarifont पाणिनि}`{=latex}) into the first category of *prākṛtika* drift, and Sanskrit after Pāṇini into the second as a *codified* system. Patañjali's examples demonstrate the reality: Sanskrit belongs to the third.
 
 What explains the pyramid's motivations? Natural drift can be governed. Codification can be owned and managed. Calibration makes the apex unnecessary.
 
@@ -3251,7 +3251,7 @@ Writing has one structural feature that disqualifies it from preserving immutabl
 
 The Indic engineering refused that dependency for the content that could not be risked.
 
-*Lipi* remained appropriate for the *prākṛta* bucket: administration, commentary, education, plays, contemporary stories, regional literature, practical communication. But for the *sāṃskṛtika* bucket — the *Vedas*, the phonetic specification, the recitational system, the architecture's calibrants — writing was insufficient.
+*Lipi* remained appropriate for the *prākṛtika* bucket: administration, commentary, education, plays, contemporary stories, regional literature, practical communication. But for the *sāṃskṛtika* bucket — the *Vedas*, the phonetic specification, the recitational system, the architecture's calibrants — writing was insufficient.
 
 The Abrahamic-substrate civilizations made the opposite engineering choice. Their revelatory cores are anchored in the *written word*: the Hebrew Bible, the Christian New Testament, the Qur'an. The capitalization of *Scripture* in English — the elevated capital-S of the religious text, distinct from the lower-case *scripture* of merely-written matter — signals the structural elevation the Abrahamic-substrate framework gives to the perishable-medium technology. The medium has been made theological. The institutional carrier (the church, the synagogue, the mosque; later the academy as the *church of progress*) controls the production, distribution, and interpretation of the medium. The medium's destructibility becomes the institution's lever. Who can copy the manuscript can copy it differently; who can burn the manuscript can erase what it held.
 
@@ -3868,7 +3868,7 @@ Sanskrit is built from the subcontinental field, and then preserves that field i
 
 What the Veda enacts and the Upaniṣad pictures, the case-system holds: the receiver as *sampradāna*, the doer demoted in *karmaṇi* and *bhāve* — the structure Pāṇini decoded, not built. The Gītā states it outright: **`{\devanagarifont निमित्तमात्रं}`{=latex} `{\devanagarifont भव}`{=latex} `{\devanagarifont सव्यसाचिन्}`{=latex}** (*nimittamātraṃ bhava savyasācin*, 11.33) — "be a mere instrument." The grammar that will not seat the ego at the center of the sentence is the same civilization that will not seat the ego at the center of the self: the *ahaṃkāra* held in its place, agency distributed across the *kāraka* field rather than gathered to a single apex.
 
-That is `{\devanagarifont संस्कृति}`{=latex} (*saṃskṛti*) inside grammar: calibrated preservation that leaves ordinary life room to move. The same civilization can keep the Veda exact, allow *prakṛta* life to speak, flow, grow, and change, and still hold a grammar that remembers how balance is kept when darkness presses on the field.
+That is `{\devanagarifont संस्कृति}`{=latex} (*saṃskṛti*) inside grammar: calibrated preservation that leaves ordinary life room to move. The same civilization can keep the Veda exact, allow *prākṛtika* life to speak, flow, grow, and change, and still hold a grammar that remembers how balance is kept when darkness presses on the field.
 
 The next chapter can now ask the formation question more honestly. If the mouth is local, the mind is local, the cluster is dense, and the Veda already encodes the architecture, then the older speculation becomes available: Sanskrit was built by those who knew what had to be preserved, and the Veda became the preservation matrix through which that architecture could endure.
 
@@ -6263,7 +6263,7 @@ Second, the later Vedic layers are taken as evidence of change: Brāhmaṇas, Ā
 
 Third, Pāṇini is placed at the rupture-point. Before him, the language was changing. After him, it was codified. The *Aṣṭādhyāyī* becomes the great freeze: nearly four thousand rules that arrested drift and produced the standard later called Classical Sanskrit.
 
-Fourth, the living speech of the people is cast as the natural continuation of change. The Prakrits and later regional languages are made the organic descendants of spoken usage. Sanskrit becomes the elite, priestly, literary, codified form held artificially above the stream.
+Fourth, the living speech of the people is cast as the natural continuation of change. The *Prākṛta* languages and later regional languages are made the organic descendants of spoken usage. Sanskrit becomes the elite, priestly, literary, codified form held artificially above the stream.
 
 The story is elegant because it tracks the assumptions of the field that tells it. Natural languages drift. Standard languages are codified. Older stages precede newer stages. Named authorities regularize what speakers have made unstable. A named genius fits the pyramid's account of knowledge better than an anonymous architecture held across thousands of years.
 
@@ -6696,7 +6696,7 @@ The skeptical objection can now be answered directly.
 | Vedic accent disappeared. | Vedic accent remains preserved in recitation. It is not part of ordinary *bhāṣā* operation in the same way. Preservation in one mode and non-deployment in another is not loss. |
 | Vedic had many infinitives; Classical has fewer. | Metrical corpus operation requires alternate syllable-forms. Productive speech does not require the same range. Multiple infinitives are metrical tooling before they are evidence of drift. |
 | Pāṇini distinguished *chandas* and *bhāṣā*, proving historical difference. | He distinguished operational modes. *Chandasi* means "in meter"; *bhāṣāyām* means "in speech." The terms are locative rule-contexts, not chronological labels. |
-| The Prakrits prove spoken Sanskrit was mutating naturally. | The Prakrits prove what the book already grants: living speech flows. They do not prove the calibrant collapsed. Sanātan allowed living languages to flourish while preserving Sanskrit as calibrant. |
+| The *Prākṛta* languages prove spoken Sanskrit was mutating naturally. | The *Prākṛta* languages prove what the book already grants: living speech flows. They do not prove the calibrant collapsed. Sanātan allowed living languages to flourish while preserving Sanskrit as calibrant. |
 | Grammar froze Sanskrit artificially. | Artificial freezing is codification by authority. Sanskrit preservation is calibration by architecture: metrical, aural, grammatical, phonetic, mnemonic, and lineage-based. |
 | Pāṇini created Classical Sanskrit. | Pāṇini created the finest manual for operating *bhāṣā* against the existing architecture. The system he documented is visible in Vedic verses before any grammar text describes it. |
 
@@ -6716,7 +6716,7 @@ The pre-Pāṇinian disciplines decode what the Vedas preserve. *Nirukta* decode
 
 Pāṇini compresses the architecture into the *Aṣṭādhyāyī*. That compression gives *bhāṣā* an accessible working calibrant. The Vedas remain the primary measure; the *Aṣṭādhyāyī* becomes the manual by which later generations can keep learned speech aligned with the measure.
 
-The Prakrits and regional languages flow as living speech. They are not sinful deviations from an imperial tongue. They are *prākṛtika* speech. Sanskrit stands as calibrant, not tyrant.
+The *Prākṛta* languages and regional languages flow as living speech. They are not sinful deviations from an imperial tongue. They are *prākṛtika* speech. Sanskrit stands as calibrant, not tyrant.
 
 The distinction is civilizational:
 
@@ -6933,6 +6933,8 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 ### **Sanātan** (`{\devanagarifont सनातन}`{=latex})
 
 **Standard.** The eternal / unchanging order; the civilizational continuum the book treats as the alternative architecture to the asuric pyramid. Operates as a proper noun in the book — no English partner; *Sanātan* is the term.
+
+**Form discipline for the following triad.** *Prakṛti*, *saṃskṛti*, and *vikṛti* are nouns and category names. Their ordinary adjective forms are *prākṛtika*, *sāṃskṛtika*, and *vaikṛtika*. Established compounds such as *prakṛti-pāṭha*, *vikṛti-pāṭha*, and *prakṛti-bhāva* retain the noun. The form *prākṛta* describes what is naturally formed and also identifies a historical *Prākṛta* language or register. *Saṃskṛta* names the wholly created form and the language; *Sanskritic* is the English adjective for something pertaining to Sanskrit. When the adjective belongs to *saṃskṛti*, the form is *sāṃskṛtika*.
 
 ### **prakṛti** (`{\devanagarifont प्रकृति}`{=latex})
 

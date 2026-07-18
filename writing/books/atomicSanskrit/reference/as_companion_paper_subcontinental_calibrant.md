@@ -29,7 +29,7 @@ The paper organizes the subcontinental languages by region — northern, western
 
 ### Northern Languages
 
-Hindi-Urdu, Punjabi, Kashmiri, Dogri, and the languages of the upper subcontinent. The calibrant relationship to Sanskrit is direct across this region — the regional Prākrits whose Apabhraṃśa stages produced the present-day languages stood in continuous calibrant contact with the engineered Sanskrit register for many generations. The mainstream framing treats these languages as the "natural descendants" of Sanskrit through ordinary linguistic decay. The engineered Sanskrit thesis allows a different framing: they are the natural descendants of unanchored speech registers (the regional Prākrits) that were continuously calibrated against the anchored Sanskrit register, retaining measurable Sanskritic structural features that ordinary linguistic decay would not preserve.
+Hindi-Urdu, Punjabi, Kashmiri, Dogri, and the languages of the upper subcontinent. The calibrant relationship to Sanskrit is direct across this region — the regional *Prākṛta* languages whose *Apabhraṃśa* stages produced the present-day languages stood in continuous calibrant contact with the engineered Sanskrit register for many generations. The mainstream framing treats these languages as the "natural descendants" of Sanskrit through ordinary linguistic decay. The engineered Sanskrit thesis allows a different framing: they are the natural descendants of unanchored speech registers (the regional *Prākṛta* languages) that were continuously calibrated against the anchored Sanskrit register, retaining measurable Sanskritic structural features that ordinary linguistic decay would not preserve.
 
 ### Western Languages
 
@@ -100,7 +100,7 @@ The paper does not need to redo the foundational engineering argument. *Atomic S
 
 1. **Introduction.** Personal stake (Marathi). The companion-paper relationship to *Atomic Sanskrit*. Why this story is being told separately.
 2. **The framework.** Brief recap of the calibrant-language and methodological-metatypy concepts from *Atomic Sanskrit*. Why the geographical adjacency objection fails: the engineered character of the calibrant is what produces the propagation, not the proximity.
-3. **The Northern Languages.** Hindi-Urdu, Punjabi, Kashmiri, Dogri. The direct calibrant relationship. The standard "descent from Sanskrit through Prākrit decay" reframed as continuous calibration of unanchored speech against an anchored Sanskritic register.
+3. **The Northern Languages.** Hindi-Urdu, Punjabi, Kashmiri, Dogri. The direct calibrant relationship. The standard "descent from Sanskrit through *Prākṛta* decay" reframed as continuous calibration of unanchored speech against an anchored Sanskritic register.
 4. **The Eastern Languages.** Bengali, Odia, Assamese, and the languages of the northeastern frontier (Manipuri, Bodo, Mizo, Garo, Lepcha). The *va* / *ba* anchor extended across the region. Tibetan-mediated calibration noted where it applies.
 5. **The Southern Languages.** Tamil, Malayalam, Telugu, Kannada, Tulu, Sinhalese. The *Tolkāppiyam* and methodological metatypy. The bidirectional asymmetry (southern retroflexion in Sanskrit; Sanskritic methodology in southern grammar) handled honestly.
 6. **The Central Languages.** Korku, Mundari, Santali, Ho, Sora, Kharia, and the Munda lineage of the central forest belt. Sustained contact, vocabulary borrowing, structural effects.
@@ -112,7 +112,7 @@ The paper does not need to redo the foundational engineering argument. *Atomic S
 ## Citations to Track
 
 - Sources cited in *Atomic Sanskrit*'s Chapter 17 (Thomason-Kaufman, Ross, Cardona, Staal, Pollock, McEvilley) carry over.
-- For the northern, western, and eastern languages: George Cardona's broader work on Sanskrit-derived languages; Hans Henrich Hock; the standard reference works on Prākrit and Apabhraṃśa.
+- For the northern, western, and eastern languages: George Cardona's broader work on Sanskrit-derived languages; Hans Henrich Hock; the standard reference works on *Prākṛta* and *Apabhraṃśa*.
 - For the southern languages: Kamil Zvelebil on the *Tolkāppiyam*; George Hart on Tamil-Sanskrit contact; the standard comparative literature on the southern languages, with appropriate skepticism toward its PIE-style genealogical assumptions.
 - For the central forest belt: Norman H. Zide and the Austro-asiatic comparativist tradition.
 - For the northeastern languages: James Matisoff and the Sino-Tibetan comparativist tradition.

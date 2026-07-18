@@ -136,6 +136,20 @@ Use *prakṛti*, *saṃskṛti*, and *vikṛti* as category terms, not loose syn
 - *saṃskṛti* = balanced civilizational recurrence oriented toward well-being.
 - *vikṛti* = distorted civilizational recurrence captured by control.
 
+Keep the noun and adjective forms distinct:
+
+- nouns / category names: *prakṛti*, *saṃskṛti*, *vikṛti*.
+- adjectives: *prākṛtika*, *sāṃskṛtika*, *vaikṛtika*.
+- *prākṛta* may describe what is naturally formed or identify a historical
+  *Prākṛta* language or register.
+- *saṃskṛta* names the wholly created form and the language; *Sanskritic* is
+  the English adjective for something pertaining to Sanskrit. Neither replaces
+  *sāṃskṛtika* when the intended adjective is derived from *saṃskṛti*.
+- established compounds retain their noun first member: *prakṛti-pāṭha*,
+  *vikṛti-pāṭha*, *prakṛti-bhāva*.
+- preserve proper Romanized names such as *Samskrita Bharati* as the named
+  organization writes them.
+
 The body term for the antagonist remains *asuric pyramid*. Use *vikṛti* sparingly at category-setting moments.
 
 This volume proves the linguistic fractal from mouth to language. It may point forward to the civilizational fractal, but it should not present later Second Shanti arguments as already proven here.

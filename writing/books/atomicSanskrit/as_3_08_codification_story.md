@@ -32,7 +32,7 @@ Second, the later Vedic layers are taken as evidence of change: Brāhmaṇas, Ā
 
 Third, Pāṇini is placed at the rupture-point. Before him, the language was changing. After him, it was codified. The *Aṣṭādhyāyī* becomes the great freeze: nearly four thousand rules that arrested drift and produced the standard later called Classical Sanskrit.
 
-Fourth, the living speech of the people is cast as the natural continuation of change. The Prakrits and later regional languages are made the organic descendants of spoken usage. Sanskrit becomes the elite, priestly, literary, codified form held artificially above the stream.
+Fourth, the living speech of the people is cast as the natural continuation of change. The *Prākṛta* languages and later regional languages are made the organic descendants of spoken usage. Sanskrit becomes the elite, priestly, literary, codified form held artificially above the stream.
 
 The story is elegant because it tracks the assumptions of the field that tells it. Natural languages drift. Standard languages are codified. Older stages precede newer stages. Named authorities regularize what speakers have made unstable. A named genius fits the pyramid's account of knowledge better than an anonymous architecture held across thousands of years.
 
@@ -465,7 +465,7 @@ The skeptical objection can now be answered directly.
 | Vedic accent disappeared. | Vedic accent remains preserved in recitation. It is not part of ordinary *bhāṣā* operation in the same way. Preservation in one mode and non-deployment in another is not loss. |
 | Vedic had many infinitives; Classical has fewer. | Metrical corpus operation requires alternate syllable-forms. Productive speech does not require the same range. Multiple infinitives are metrical tooling before they are evidence of drift. |
 | Pāṇini distinguished *chandas* and *bhāṣā*, proving historical difference. | He distinguished operational modes. *Chandasi* means "in meter"; *bhāṣāyām* means "in speech." The terms are locative rule-contexts, not chronological labels. |
-| The Prakrits prove spoken Sanskrit was mutating naturally. | The Prakrits prove what the book already grants: living speech flows. They do not prove the calibrant collapsed. Sanātan allowed living languages to flourish while preserving Sanskrit as calibrant. |
+| The *Prākṛta* languages prove spoken Sanskrit was mutating naturally. | The *Prākṛta* languages prove what the book already grants: living speech flows. They do not prove the calibrant collapsed. Sanātan allowed living languages to flourish while preserving Sanskrit as calibrant. |
 | Grammar froze Sanskrit artificially. | Artificial freezing is codification by authority. Sanskrit preservation is calibration by architecture: metrical, aural, grammatical, phonetic, mnemonic, and lineage-based. |
 | Pāṇini created Classical Sanskrit. | Pāṇini created the finest manual for operating *bhāṣā* against the existing architecture. The system he documented is visible in Vedic verses before any grammar text describes it. |
 
@@ -485,7 +485,7 @@ The pre-Pāṇinian disciplines decode what the Vedas preserve. *Nirukta* decode
 
 Pāṇini compresses the architecture into the *Aṣṭādhyāyī*. That compression gives *bhāṣā* an accessible working calibrant. The Vedas remain the primary measure; the *Aṣṭādhyāyī* becomes the manual by which later generations can keep learned speech aligned with the measure.
 
-The Prakrits and regional languages flow as living speech. They are not sinful deviations from an imperial tongue. They are *prākṛtika* speech. Sanskrit stands as calibrant, not tyrant.
+The *Prākṛta* languages and regional languages flow as living speech. They are not sinful deviations from an imperial tongue. They are *prākṛtika* speech. Sanskrit stands as calibrant, not tyrant.
 
 The distinction is civilizational:
 

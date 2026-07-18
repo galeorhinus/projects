@@ -72,7 +72,7 @@ The same evidence—*gauḥ* and its fallings-away—produces three diagnostic c
 
 **Engineered self-correction** is the ***संस्कृति (*saṃskṛti*)*** category. Standardization comes from calibration: architecture correcting itself. Sanskrit does not depend on an external authority selecting one prestige variant from a field of living variation. The architecture builds its own diagnostic system. Meter catches the phonetic slip. Recitation catches the audible drift. Grammar catches the malformed word. The *pāṭha* disciplines catch the broken sequence. *Gauḥ* is correct because the system generates it; *gāvī*, *goṇī*, *gotā*, and *gopotalikā* are departures because the system detects them as departures.
 
-The three categories represent three different situations. Natural drift represents change. Codified correction enforces authority. Engineered self-correction preserves architecture. The pyramid's account pushes Sanskrit *before* Pāṇini (पाणिनि) into the first category of prakṛtik drift, and Sanskrit after Pāṇini into the second as a *codified* system. Patañjali's examples demonstrate the reality: Sanskrit belongs to the third.
+The three categories represent three different situations. Natural drift represents change. Codified correction enforces authority. Engineered self-correction preserves architecture. The pyramid's account pushes Sanskrit *before* Pāṇini (पाणिनि) into the first category of *prākṛtika* drift, and Sanskrit after Pāṇini into the second as a *codified* system. Patañjali's examples demonstrate the reality: Sanskrit belongs to the third.
 
 What explains the pyramid's motivations? Natural drift can be governed. Codification can be owned and managed. Calibration makes the apex unnecessary.
 

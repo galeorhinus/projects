@@ -184,6 +184,8 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 **Standard.** The eternal / unchanging order; the civilizational continuum the book treats as the alternative architecture to the asuric pyramid. Operates as a proper noun in the book — no English partner; *Sanātan* is the term.
 
+**Form discipline for the following triad.** *Prakṛti*, *saṃskṛti*, and *vikṛti* are nouns and category names. Their ordinary adjective forms are *prākṛtika*, *sāṃskṛtika*, and *vaikṛtika*. Established compounds such as *prakṛti-pāṭha*, *vikṛti-pāṭha*, and *prakṛti-bhāva* retain the noun. The form *prākṛta* describes what is naturally formed and also identifies a historical *Prākṛta* language or register. *Saṃskṛta* names the wholly created form and the language; *Sanskritic* is the English adjective for something pertaining to Sanskrit. When the adjective belongs to *saṃskṛti*, the form is *sāṃskṛtika*.
+
 ### **prakṛti** (प्रकृति)
 
 **Standard Sanskrit, book-controlled deployment.** Nature; original condition; natural recurrence. In the book's fractal vocabulary, *prakṛti* denotes the natural fractal: the forms and efficiencies nature produces without deliberate civilizational cultivation. Natural languages belong in this category. Sanskrit shares many of their efficiencies, but the book argues that Sanskrit is not reducible to *prakṛti*.

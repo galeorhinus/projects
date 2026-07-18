@@ -118,7 +118,7 @@ The bond does not evolve or mutate. It is a structural constant. This does not m
 
 Patañjali reaches this conclusion through the Indian method of stating the opposing position, answering it, and reaching the settled conclusion. The reader may be familiar with the पूर्वपक्ष–सिद्धान्त (pūrvapakṣa–siddhānta). The technical details belong to the *Paspaśāhnika* itself. The structural fact belongs here: the *Mahābhāṣya* places the *siddha* commitment at the opening of the received commentary and lets the rest of the grammatical project follow from it.
 
-**Second Shanti.** This structure gives the reader the first working view of Sanskrit as a self-correcting calibrant. Later volumes in the Second Shanti series will explore how sanskriti extends this calibrant architecture to higher fractal scales.
+**Second Shanti.** This structure gives the reader the first working view of Sanskrit as a self-correcting calibrant. Later volumes in the Second Shanti series will explore how *saṃskṛti* extends this calibrant architecture to higher fractal scales.
 
 The *vaiyākaraṇāḥ* do not merely record whatever speakers produce. They defend a system of established bonds against corruption. The *Aṣṭādhyāyī* is not a description of speaker habit. It is a specification of an engineered system. Deviations from the rules are not new standards. They are slips from the standard.
 

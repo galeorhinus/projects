@@ -56,7 +56,7 @@ The familiar acronyms AIT and AMT hide this first move by arguing over mechanism
 
 **Third.** By the time Pāṇini wrote the *Aṣṭādhyāyī* (अष्टाध्यायी), the pyramid's story says the Sanskrit of the educated elite — the *śiṣṭa-bhāṣā* (शिष्ट-भाषा) — needed cleanup. Pāṇini selected its features, regularized its forms, and *codified* its grammar. *"Classical Sanskrit"* is what he produced.
 
-**Fourth.** With Pāṇini made the codifier, Sanskrit can be said to freeze. The Prakrits continued changing into the modern Indian languages; *"Classical Sanskrit"* remained fixed as an artificial formal language. The dogma's softer wording puts the move directly: *Classical Sanskrit is artificially frozen and highly codified — arguably the most successful standardized formal language in human history*. The transition does the work: drift before Pāṇini, freeze after Pāṇini, Pāṇini at the hinge.
+**Fourth.** With Pāṇini made the codifier, Sanskrit can be said to freeze. The *Prākṛta* languages continued changing into the modern Indian languages; *"Classical Sanskrit"* remained fixed as an artificial formal language. The dogma's softer wording puts the move directly: *Classical Sanskrit is artificially frozen and highly codified — arguably the most successful standardized formal language in human history*. The transition does the work: drift before Pāṇini, freeze after Pāṇini, Pāṇini at the hinge.
 
 **Fifth.** Because Vedic Sanskrit was made to answer as a natural language, it was made to require natural ancestors. The Indo-European family tree supplied one: Proto-Indo-European, the imaginary ancestor from which Sanskrit, Greek, Latin, Iranian, Germanic, Slavic, Celtic, and the rest supposedly descend.
 
@@ -116,7 +116,7 @@ Old English **hlāfweard**, the "bread-guardian," became **laverd**, then **lord
 
 This is botany at work. The metaphor fits its own object.
 
-Plants are fractal. Natural languages are fractal in the same sense: patterns recur through branching, drift, inheritance, and adaptation. That does not make every fractal botanical. The plant is *prakṛti* — natural recurrence, growth, mutation, and decay. Sanskrit is *saṃskṛti* — engineered recurrence, measured order, calibration, and self-correction. The problem with the botanical metaphor is not that it noticed recurrence. The category theft is the transfer: it treated a *saṃskṛti* fractal as *prakṛti*.
+Plants are fractal. Natural languages are fractal in the same sense: patterns recur through branching, drift, inheritance, and adaptation. That does not make every fractal botanical. The plant is *prakṛti* — natural recurrence, growth, mutation, and decay. Sanskrit is *saṃskṛti* — engineered recurrence, measured order, calibration, and self-correction. The problem with the botanical metaphor is not that it noticed recurrence. The category theft is the transfer: it treated a *sāṃskṛtika* fractal as *prakṛti*.
 
 Nor is *prakṛti* the enemy. Natural language, local custom, forest life, inherited speech, and ordinary social continuity all have their own dignity. The fraud begins when the pyramid takes a category that fits natural drift and uses it to conceal an engineered calibrant.
 
