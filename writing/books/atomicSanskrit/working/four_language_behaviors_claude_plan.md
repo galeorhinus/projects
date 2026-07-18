@@ -45,7 +45,7 @@ The load-bearing distinction, now visible in the grid: **petrified and engineere
 
 **What the pyramid must hide — and how the "Vedic/Classical" fraud does it.** A language that runs a never-changing mode and an adapting-usage mode **simultaneously** breaks the botanical premise outright (natural languages cannot do this; they adapt only by drifting). So the pyramid re-describes the two simultaneous modes as two **sequential stages** — "Vedic Sanskrit" (early) hardening into "Classical Sanskrit" (late) — converting the architecture's live dual-mode capability into a chronology of decay-and-repair. *Domain is not chronology. Mode is not drift.* The four-behavior map plus this axis states the mechanism behind those hammers: the split-into-two-languages story exists **because** the dual-mode straddle would otherwise be visible.
 
-*Deployment:* the axis belongs wherever the compass lands (Ch2 — one tight beat: "a botanical language adapts by changing; Sanskrit adapts its usage while the language holds"), with the *laukika* development in the two-axis material (Preface terminology note, Ch1 §1.1 Move 7, Ch14) and the fraud-connection in Ch12/Ch18 where the machinery lives. Also feeds the layers-vs-time figure: the Sanskrit base-layer never moves *and yet* tracks every era — the strands above it move *in order to* track their eras.
+*Deployment:* the axis belongs wherever the compass lands (Ch2 — one tight beat: "a botanical language adapts by changing; Sanskrit adapts its usage while the language holds"), with the *laukika* development in the two-axis material (Preface terminology note, Ch1 §1.1 Move 7, Ch14) and the fraud-connection in Ch12/Ch18 where the machinery lives. **✅ Epilogue echo DEPLOYED 2026-07-17** (`## Where the Nectar Rises`, codification-vs-swastika ¶: *"the usage adapts; the language holds… A codified language freezes and falls behind its own world. The calibrant stands still and keeps up."*). **Sequencing:** the Ch2/Ch12 formal introductions must ship before print — the Epilogue now echoes them. Also feeds the layers-vs-time figure: the Sanskrit base-layer never moves *and yet* tracks every era — the strands above it move *in order to* track their eras.
 
 ## Current locations (verified against the manuscript)
 
@@ -344,7 +344,7 @@ Petrification is not only history (Arabic, Latin, Hebrew) or someone else's colo
 
 **Deployment (a recurring warning wherever petrification appears):**
 - **Appendix Part 8 (codification story)** — turn the historical petrification cases toward the **live threat to India now**: the same freeze, self-inflicted.
-- **Epilogue** — the **prescription** as a forward-facing close (fits *Make the World Ārya* + the reader-responsibility thesis and the codification-vs-swastika beat already at Epilogue:61): *abandon petrification, embrace Sanskrit-as-lone-calibrant, let the languages thrive.*
+- **Epilogue** — ✅ **DEPLOYED 2026-07-17**, relocated same day per Codex review into `## The Inward Correction` (it duplicated that section's state-standards argument; one copy, at the crescendo's proper place): the homeward-warning paragraph (state academies freezing Marathi/Hindi/Bengali = the pyramid's apex-move self-inflicted; one calibrant, dozens of living languages; *the freeze would destroy the evidence no invader ever could*), plus **"Codification is petrification"** in the Mohinī-engineering paragraph.
 - **Ch2 / Ch6 / Ch14** — where petrification/codification is defined, a one-line forward-pointer: *this is not only history; India risks it now.*
 
 ## Draft-prose seeds (pulled from Codex — starting points, not final prose)
@@ -407,4 +407,4 @@ Both plans agree on: the four names, adopting **petrification**, the guardrail a
 4. **2×2 grid, four-band strip, or both** — and build now or after the Ch12 table language locks?
 5. Adopt the **conlang disqualifier** sentence, and where?
 6. **Dialect fraud placement** — Ch2 symmetry beat + Appendix Part 8 detailed case (recommended), or elsewhere? (see "The dialect fraud" section)
-7. **Petrification warning (India now)** — App 8 (live threat) + Epilogue (prescription) + one-line warnings at Ch2/6/14 (recommended)? (see "The petrification warning" section)
+7. **Petrification warning (India now)** — ✅ **Epilogue prescription DEPLOYED 2026-07-17** (`## Where the Nectar Rises`); still pending: App 8 (live-threat development) + one-line warnings at Ch2/6/14.

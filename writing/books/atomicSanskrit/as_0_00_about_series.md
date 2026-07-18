@@ -2,9 +2,13 @@
 
 Many Vedic mantras end with Shanti recited three times. Each recitation refers to a distinct fractal—a pattern whose organizing structure recurs. Together, the three map the universe across three distinct domains. Later volumes in this series detail those domains.
 
-*Atomic Sanskrit* is the first volume of ***Second Shanti*** — a series mapping the architectures that have held *Sanātan* across thousands of years. This first volume establishes the linguistic layer: Sanskrit as the engineered, anti-entropic calibrant visible in the Vedic corpus and preserved by the *Vedāṅga* disciplines. It follows the fractal from mouth to language: sonomer, *akṣara*, *dhātuḥ*, *kriyā*, *śabda*, *vākya*, *sūtra*, and the calibrated language as a whole. Sanskrit is alive; the system is visible in ongoing recitation, grammar, and use, not reconstructed from fragments.
+The series advances a central claim: the Vedic corpus contains far more order than the modern reader is taught to see. Each volume brings one or more layers of that hidden architecture into view.
 
-Forthcoming volumes in the series begin where this book stops: language to civilizational architecture. They trace political architecture, economic architecture, and other civilizational forms preserved alongside them. Those volumes document what survives without forcing every fragment into a single manufactured reconstruction.
+That is why Hindus have treated the protection of the *Vedas* as a civilizational duty across thousands of years. They were preserving more than sacred speech: memory, measure, discipline, and balance encoded for transmission through the darkness of time.
+
+*Atomic Sanskrit* is the first volume of ***Second Shanti***. It begins with the linguistic layer: Sanskrit as the radiant, calibrant, and fractal architecture visible in the Vedic corpus and sustained by the *Vedāṅga* disciplines. It follows the fractal from mouth to language: sonomer, *akṣara*, *dhātuḥ*, *kriyā*, *śabda*, *vākya*, *sūtra*, and the calibrated language as a whole. Sanskrit is alive; the system is visible in ongoing recitation, grammar, and use, not reconstructed from fragments.
+
+Forthcoming volumes begin where this book stops: language to civilizational form. They trace polity, economy, responsibility, and other structures preserved by the same Vedic depth. Those volumes document what survives without forcing every fragment into a single manufactured reconstruction.
 
 Those later volumes distinguish the Vedic calibrant from its neighbors: *astika* formations that live by it, *nastika* and *prakritika* formations that can remain harmonious with it, with each other, and with balance in the world, and asuric formations that are threatened by that balance.
 
@@ -12,6 +16,6 @@ Fractality operates in nature and in human-created order. Sanskrit's own categor
 
 Two civilizational fractals stand against each other in the record: the swastika and the pyramid. The swastika — *su-asti*, "well-being," "may it be good" — is the *saṃskṛti* fractal: created order aligned with welfare. The pyramid is the *vikṛti* fractal: created order bent into hierarchy, apex authority, extracted labor, controlled doctrine, and withheld light.
 
-History remembers the attacks on this architecture by asuric formations across time—ancient, Abrahamic, and modern. But those attacks do not define the architecture. They reveal why it threatens the pyramid. The architecture itself is the target.
+History remembers the attacks on this architecture by asuric formations across time — ancient, Abrahamic, and modern. Those attacks were designed to destroy, capture, or obscure the architecture, but they also reveal why it threatens the pyramid. The architecture itself is the target.
 
-Later volumes hold the full civilizational meaning of that opposition. This book begins with the linguistic case.
+This series discusses the full civilizational meaning of that opposition. This book begins with the linguistic case.
