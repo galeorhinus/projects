@@ -57,7 +57,7 @@ header-includes:
 #   title     canonical title rendered into the assembled markdown
 #   subtitle  optional one-line italic subtitle below \part{} for "part"
 #             entries — the eclipse-arc map (see
-#             working/eclipse_spine_conversion_plan.md). Null when
+#             working/40_reference/decisions/eclipse_spine_conversion_plan.md). Null when
 #             absent.
 #
 # Pandoc ignores keys it doesn't recognize; this `assembly` block coexists

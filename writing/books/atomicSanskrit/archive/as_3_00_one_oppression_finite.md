@@ -1,6 +1,6 @@
 # Appendix Part 0 — One, Oppressors, and the Finite
 
-*Draft v1 rail-pass (2026-06-10). This appendix mirrors Chapter 0. Chapter 0 names zero, seekers, and the infinite. Appendix Part 0 names the inverted architecture: the apex-one, oppressors, and the finite. Middle sections remain to be drafted from `working/ap0_authority_oppression_finite_plan.md`; this pass establishes the opening and closing rails.*
+*Draft v1 rail-pass (2026-06-10). This appendix mirrors Chapter 0. Chapter 0 names zero, seekers, and the infinite. Appendix Part 0 names the inverted architecture: the apex-one, oppressors, and the finite. Middle sections remain to be drafted from `working/20_queued/ap0_authority_oppression_finite_plan.md`; this pass establishes the opening and closing rails.*
 
 ---
 

@@ -1,4 +1,4 @@
-> **SUPERSEDED (archived).** Canonical artifact = `working/as_new_chapter_oldest_subcontinental_plan.md`
+> **SUPERSEDED (archived).** The executed chapter plan is retained at `working/80_completed/plans/as_ch16_mouth_and_mind_plan.md`.
 > (Ch 16 "The Subcontinental Mouth and Mind"). **Do not draft from this file** — some citations
 > are stale (grace RV 1.25.19 → use 6.47.10; awe/RV 2.33.8 conflation; well-being wording),
 > corrected in the plan. Kept for lineage only.

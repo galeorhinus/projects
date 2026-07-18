@@ -100,8 +100,8 @@
 
 | Status | File / Folder | Task | Notes |
 |---|---|---|---|
-| TODO | `working/public_facing/articles/` | Consider a public-facing article on the six-characteristic fractal test. | Working angle: Sanskrit's architecture passes the same test from mouth to language — sonomer inventory / Māheśvara-sūtras, *dhātuḥ*, *sūtra*, and the language as a whole. Likely title: "From Mouth to Language: Sanskrit's Repeating Architecture." Alternate hooks: "What makes Sanskrit fractal?", "The Six Tests Sanskrit Passes." Later volumes carry the recurrence into *saṃskṛti*. |
-| TODO | `working/public_facing/articles/article_release_table.md` | Add the fractal-test article to the release table if we decide to publish it. | Likely magazine-style piece after the sonomer and retroflex articles; could also become the broad *Atomic Sanskrit* thesis article. |
+| TODO | `working/50_projects/public_facing/articles/` | Consider a public-facing article on the six-characteristic fractal test. | Working angle: Sanskrit's architecture passes the same test from mouth to language — sonomer inventory / Māheśvara-sūtras, *dhātuḥ*, *sūtra*, and the language as a whole. Likely title: "From Mouth to Language: Sanskrit's Repeating Architecture." Alternate hooks: "What makes Sanskrit fractal?", "The Six Tests Sanskrit Passes." Later volumes carry the recurrence into *saṃskṛti*. |
+| TODO | `working/50_projects/public_facing/articles/article_release_table.md` | Add the fractal-test article to the release table if we decide to publish it. | Likely magazine-style piece after the sonomer and retroflex articles; could also become the broad *Atomic Sanskrit* thesis article. |
 
 ---
 

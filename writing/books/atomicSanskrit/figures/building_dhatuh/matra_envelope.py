@@ -5,7 +5,7 @@
 Style (colours, ruler, gridlines, SVG, fonts) comes from
 figures/_shared/matra_style.py — the single source of truth, so a palette change
 there updates this figure too. Varṇa data (Devanagari, IAST, class) comes from
-working/dhatu_hexagons/dhatu_hexagon.py.
+working/50_projects/dhatu_hexagons/dhatu_hexagon.py.
 
 Geometry uses the ruler-aligned convention (width = mātrā·unit − slant), so the
 per-column mātrā ruler and the dashed gridlines line up with the tiles.

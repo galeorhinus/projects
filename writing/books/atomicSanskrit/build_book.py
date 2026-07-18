@@ -126,7 +126,7 @@ for _texdir in (
 #   title     canonical title rendered into the assembled markdown
 #   subtitle  optional one-line italic subtitle below \part{} for "part"
 #             entries — the eclipse-arc map (see
-#             working/eclipse_spine_conversion_plan.md). None when
+#             working/40_reference/decisions/eclipse_spine_conversion_plan.md). None when
 #             absent.
 
 
@@ -503,7 +503,7 @@ def load_drafted_endnotes(mode: str = "full") -> dict[str, str]:
 
 
 def load_stub_descriptions() -> dict[str, str]:
-    """Parse working/as_todo.md Section E and return { stub-name: description }."""
+    """Parse working/10_active/as_todo.md Section E and return { stub-name: description }."""
     path = BOOK_DIR / "working" / "as_todo.md"
     if not path.exists():
         return {}

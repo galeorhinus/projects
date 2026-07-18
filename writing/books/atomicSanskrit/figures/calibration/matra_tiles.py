@@ -7,7 +7,7 @@ book's staggered hex-tile grammar (Ch 10/11/12).
     L (laghu) = 1-mātrā tile      G (guru) = 2-mātrā tile
 
 Geometry (the calculation the earlier scripts use — see
-figures/building_vakya/vakya_figures.py and working/dhatu_hexagons):
+figures/building_vakya/vakya_figures.py and working/50_projects/dhatu_hexagons):
 
   * A tile's flat-top width is  mātrā · MATRA_UNIT − SLANT, so its mātrā
     *footprint* (flat top + one slanted edge) is exactly mātrā · MATRA_UNIT.

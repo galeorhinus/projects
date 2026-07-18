@@ -71,7 +71,7 @@ Each script reads / writes from `data/derived/`. Requirements: Python 3.10+, sta
 
 ## Author + Provenance
 
-Author: Parag Tope (book-side author). Analysis scripts and methodology drafted during the autonomous night session of 2026-05-18 under the brief in `working/as_todo.md` CURRENT FOCUS — *Path C autonomous-night-session kickoff*.
+Author: Parag Tope (book-side author). Analysis scripts and methodology drafted during the autonomous night session of 2026-05-18 under the brief in `working/10_active/as_todo.md` CURRENT FOCUS — *Path C autonomous-night-session kickoff*.
 
 The reproducibility bundle is structured for public release alongside the book and the companion companion; nothing in this directory depends on private resources.
 

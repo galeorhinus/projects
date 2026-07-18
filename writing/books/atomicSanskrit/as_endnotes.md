@@ -462,7 +462,7 @@ The chain runs Middle English → Old English with an "akin to" cognate list, an
 
 The displacement is therefore not a single event but a two-century arc, with the cementing of the contemporary state visible largely in the past quarter-century.
 
-**Verification status.** Stages 1–4 are reasonably well-established in the standard history of comparative philology and can be confirmed against any history-of-linguistics reference (e.g., R. H. Robins, *A Short History of Linguistics*; Anna Morpurgo Davies, *Nineteenth-Century Linguistics*). Stage 5 (the 1990s popular-tier residue) is the subject of an active verification task in `working/as_verification_todo.md`; specific 1990s dictionary entries that show Sanskrit-at-terminus chains need primary-source verification before being cited as decisive evidence. Stage 6 is empirically observable in contemporary references.
+**Verification status.** Stages 1–4 are reasonably well-established in the standard history of comparative philology and can be confirmed against any history-of-linguistics reference (e.g., R. H. Robins, *A Short History of Linguistics*; Anna Morpurgo Davies, *Nineteenth-Century Linguistics*). Stage 5 (the 1990s popular-tier residue) is the subject of an active verification task in `working/10_active/as_verification_todo.md`; specific 1990s dictionary entries that show Sanskrit-at-terminus chains need primary-source verification before being cited as decisive evidence. Stage 6 is empirically observable in contemporary references.
 
 ---
 
@@ -852,7 +852,7 @@ Here *asura* is a vocative epithet of **Varuṇa** — the sovereign addressed a
 
 "You, Agni, are Rudra, the *asura* of the great heaven; you rule (*īśiṣe*) the Marut host and the nourishing vigour (*pṛkṣ*); you travel with the ruddy winds, blessing the household; as Pūṣan you protect the worshipper by your own self." The single verse titles both **Agni** and **Rudra** *asura*, and the deed is the holding and ruling of vigour (*pṛkṣ*) and the protection of the worshipper. The WisdomLib rendering reads *asura* here in "the older sense — 'Sire' / 'Powerful' — not 'A-Sura,' the 'Anti-Shining' Demon," articulating the *suraḥ* / *a-suraḥ* split from within the reception tradition.
 
-**RV 7.65.2 — Mitra-Varuṇa:** *tā́ vāṃ … devā́nām asurā́* — "you two are the *asuras* among the *devāḥ*"; the pair is asked to make the dwellings *ūrjayantīḥ*, "full of vigour." **Mitra** holds the *asura* title (in the dual with Varuṇa) as the bond that holds and nourishes — again the holding of life. (Padapāṭha and Wilson/Sāyaṇa rendering at wisdomlib; cf. the per-deity survey in `working/as_asura_sura_asurya_vedic_survey.md` §3.2, §3.5.)
+**RV 7.65.2 — Mitra-Varuṇa:** *tā́ vāṃ … devā́nām asurā́* — "you two are the *asuras* among the *devāḥ*"; the pair is asked to make the dwellings *ūrjayantīḥ*, "full of vigour." **Mitra** holds the *asura* title (in the dual with Varuṇa) as the bond that holds and nourishes — again the holding of life. (Padapāṭha and Wilson/Sāyaṇa rendering at wisdomlib; cf. the per-deity survey in `working/40_reference/research/as_asura_sura_asurya_vedic_survey.md` §3.2, §3.5.)
 
 ---
 
@@ -2172,7 +2172,7 @@ The body deploys four figures. The Southern Survey (`sk_tamil_toda_kurukh.svg`) 
 
 This is an inventory-coordinate analysis, not a claim about vocabulary, descent, prestige, script, or speech-frequency. The atlas records what each language promotes to a contrastive consonantal coordinate, not every contextual sound its speakers can physically produce. The survey also does not treat *mahāprāṇa* as secondary or unimportant; holding those ten cells aside is a sensitivity move that isolates the base field before the breath-pressure engineering layer is analyzed.
 
-The analysis and reproducible figure plan are preserved in `working/inventory_atlas_coverage_surveys.md`, with the generated SVGs in `figures/superset/`.
+The analysis and reproducible figure plan are preserved in `working/40_reference/research/inventory_atlas_coverage_surveys.md`, with the generated SVGs in `figures/superset/`.
 
 ---
 
@@ -4300,7 +4300,7 @@ The Vedic line was checked against the local DCS Ṛgveda parse (`Ṛgveda-0065-
 
 The matrix keeps two classifications separate. ***Racanā*** measures construction: the *gamādi*, *spadādi*, *manthādi*, *vācādi*, *dhādi*, *iṣādi*, *hrādādi*, *krādi*, *sthādi*, and *spardhādi* scaffolds that hold most of the *Dhātupāṭha*. ***Gaṇaḥ*** measures operation: the ten Pāṇinian classes through which a *dhātuḥ* enters the verbal machinery. The cross-tab shows that the two axes are related but not identical. The *gamādi* scaffold appears in all ten *gaṇāḥ* and holds 926 atoms; *bhvādi* is the largest operational landing zone; many possible cells remain empty. The empty cells matter: they show which construction × operation pairings the system does not use.
 
-The 2026-05-25 cleanup corrected the older matrix that still used pre-cleanup scaffold totals. The old output showed 69 observed *racanāḥ* and top-ten coverage of 1,762 / 2,168 (**81.27%**). The current script uses the corrected anubandha stripper and the current Ch 10 top-ten scaffold roster; the corrected top-ten coverage is 1,973 / 2,168 (**91.01%**). The working audit lives at `working/ch11_analysis_audit_2026-05-25.md`.
+The 2026-05-25 cleanup corrected the older matrix that still used pre-cleanup scaffold totals. The old output showed 69 observed *racanāḥ* and top-ten coverage of 1,762 / 2,168 (**81.27%**). The current script uses the corrected anubandha stripper and the current Ch 10 top-ten scaffold roster; the corrected top-ten coverage is 1,973 / 2,168 (**91.01%**). The working audit lives at `working/40_reference/research/ch11_analysis_audit_2026-05-25.md`.
 
 ---
 
@@ -4482,7 +4482,7 @@ The dogma's eight specific claims about variation inside the Vedic corpus, with 
 7. **Śākala vs. Bāṣkala recensional differences** — standard text-critical work on the *Ṛgveda*'s recensional history.
 8. **Vedic vs. Avestan parallels** — Mayrhofer, *Etymologisches Wörterbuch des Altindoarischen* (EWAia, 1986–2001); the entire "Proto-Indo-Iranian" reconstruction framework.
 
-Chapter 6 §6.6's engineering response to each: not drift, but engineered design choice. The unifying observation: *the dogma treats all variation as drift; the engineering thesis treats all variation as engineered design choices within the same architecture*. The optional Appendix Part 7 (P2 deferred per `working/as_todo.md`) is where the per-claim technical detail would go if reader review calls for it.
+Chapter 6 §6.6's engineering response to each: not drift, but engineered design choice. The unifying observation: *the dogma treats all variation as drift; the engineering thesis treats all variation as engineered design choices within the same architecture*. The optional Appendix Part 7 (P2 deferred per `working/10_active/as_todo.md`) is where the per-claim technical detail would go if reader review calls for it.
 
 Source: Standard Vedic-studies scholarly references for the pyramid's claims (as enumerated above); the book's engineering response is the chapter's own argumentative work, anchored in Pāṇini's *chandasi* / *bhāṣāyām* categorical framework (see endnote `chandasi-bhashayam-mode-markers`).
 

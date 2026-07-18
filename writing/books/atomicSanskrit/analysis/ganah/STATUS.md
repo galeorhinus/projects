@@ -8,7 +8,7 @@ This file is the morning handoff: the user reads this first to understand what c
 
 ## Run plan
 
-Eleven phases per `working/as_todo.md` CURRENT FOCUS — Path C autonomous-night-session brief:
+Eleven phases per `working/10_active/as_todo.md` CURRENT FOCUS — Path C autonomous-night-session brief:
 
 1. Bundle scaffolding (`analysis/ganah/` mirroring `analysis/dhatupatha/`).
 2. Corpus acquisition (DCS GitHub → GRETIL → Whitney 1885 fallback).

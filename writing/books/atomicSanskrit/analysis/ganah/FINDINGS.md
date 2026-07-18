@@ -193,7 +193,7 @@ The four-axis report from Phase 9 surfaced the empirical-architectural tradeoff 
 
 **Deployment rule for Ch 11.** Column = Axis C. Vowel = Axis A. The two are presented as orthogonal architectural dimensions. The column carries the consonant-axis polemic — same axis Ch 10 already commits to. The vowel-axis lands as an empirical-confirmation move rather than a competing column claim. Cell position on the (column, row) grid determines reactivity tier; the vowel-signature is a second confirming dimension the architecture rides on, not a third axis on the periodic table itself.
 
-The locked decision propagates into `working/as_todo.md` Ch 11 architecture section and serves as the source-of-truth pointer for `as_1_11_building_kriya.md` prose drafting.
+The locked decision propagates into `working/10_active/as_todo.md` Ch 11 architecture section and serves as the source-of-truth pointer for `as_1_11_building_kriya.md` prose drafting.
 
 ---
 

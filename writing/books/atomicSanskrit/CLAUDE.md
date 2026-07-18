@@ -21,15 +21,15 @@ Target: ~115,000 prose words + ~5,000 endnotes ≈ ~120,000 manuscript (raised 2
 | `CLAUDE.md` | This file. Bootstrap context. |
 | `.claude/skills/atomic-sanskrit/SKILL.md` | Full voice/style manual. Loaded automatically in the IDE; uploadable to web. |
 | `as_session*_handoff.md` | Session-by-session state. Most recent is canonical. |
-| `working/as_todo.md` | Queued work, P0 / P1 / P2 / P3 priorities. |
+| `working/10_active/as_todo.md` | Queued work, P0 / P1 / P2 / P3 priorities. |
 | `reference/as_toc.md` | Bare TOC, shareable. |
 | `reference/as_toc_annotated.md` | TOC with summaries + the canonical Claims list (currently *The Twenty Claims* — count grows as new claims are surfaced). |
 | `reference/as_toc_notes.md` | Working TOC document. |
 | `as_endnotes.md` | Expanded endnote prose. Stub names key the entries. |
 | `reference/as_orl_voice_reference.md` | Distilled voice patterns from the *Operation Red Lotus* Appendix (Chapter Zero: The Rear-View Mirror, pp. 317–324). Reference document for polemic-chapter drafting. The source PDF (`orlAppendix.pdf`) does not need to be re-read once this distillation is in place. |
 | `as_3_02_encyclopaedic.md` | Appendix Part 2 — The Encyclopaedic Confirmation. Institutional polemic against the *Encyclopaedic Dictionary of Sanskrit on Historical Principles* (Deccan College, 1948–present). Structurally analogous to ORL's *Chapter Zero: The Rear-View Mirror*. ~3,650 words, seven sections, two tables. |
-| `working/as_verification_todo.md` | The verification queue. Every unverified claim across drafted chapters, organized by chapter, with verification path. Inline `[VERIFY:]` markers in chapter drafts log here. |
-| `working/as_verification_process.md` | The verification workflow. Tier system (A–F), working modes (background / targeted / deep-dive), tool usage, division of labor. **When the user asks "how does verification work?" or "what needs verification?" — start here.** |
+| `working/10_active/as_verification_todo.md` | The verification queue. Every unverified claim across drafted chapters, organized by chapter, with verification path. Inline `[VERIFY:]` markers in chapter drafts log here. |
+| `working/40_reference/workflows/as_verification_process.md` | The verification workflow. Tier system (A–F), working modes (background / targeted / deep-dive), tool usage, division of labor. **When the user asks "how does verification work?" or "what needs verification?" — start here.** |
 | `as_book.yaml` | Canonical book metadata (title, subtitle, author, fonts, document structure). Single source of truth; never duplicate inline in scripts or templates. |
 | `build_book.py` | Pipeline: assemble chapters → render PDF via pandoc + xelatex. Three phases (`stubs`, `assemble`, `pdf`, `all`). Three layouts (`letter`, `book-on-letter`, `trade`). |
 
@@ -37,7 +37,7 @@ Target: ~115,000 prose words + ~5,000 endnotes ≈ ~120,000 manuscript (raised 2
 
 | Directory | Purpose |
 |---|---|
-| `working/` | High-churn working docs: `as_todo.md`, `as_sidebars.md`, `as_session*_handoff.md`, `as_session_review.md`, `as_verification_todo.md`, `as_verification_process.md`. |
+| `working/` | Status-classified development material. Start with `working/README.md`; current work lives in `working/10_active/`, accepted next work in `working/20_queued/`, durable evidence and decisions in `working/40_reference/`, completed records in `working/80_completed/`, and replaced drafts in `working/90_superseded/`. |
 | `reference/` | Lower-churn planning + external-reference docs: `as_toc*.md`, `as_orl_voice_reference.md`, `as_second_shanti.md`, `as_companion_paper_subcontinental_calibrant.md`. |
 | `figures/` | Figure scripts (Python + matplotlib) and their PDF/SVG outputs. One subdirectory per chapter, named by chapter slug (`figures/building_dhatuh/`, `figures/ganah/`, ...) plus `figures/_shared/style.py` for shared typography. |
 | `analysis/` | Empirical-analysis reproducibility bundles. One self-contained subdirectory per analysis (`analysis/dhatupatha/` for Ch 10 / App 5; `analysis/ganah/` planned for Ch 11; `analysis/affixation/` planned for Ch 12). Each bundle carries its own `README.md`, `data/`, `derived/`, and `scripts/`. |
@@ -47,7 +47,7 @@ Target: ~115,000 prose words + ~5,000 endnotes ≈ ~120,000 manuscript (raised 2
 
 ### Drafts (open as needed)
 
-Front matter: `as_0_01_preface.md` (Preface), `as_0_02_acknowledgements.md` (Acknowledgments — author thanks, expandable), and `as_part_00_overture_shankha.md` (Overture — *The Śaṅkha*; the eclipse-war ignition between Preface and Ch 0), with `as_0_04_note_on_notes.md` following. (The former Prologue `as_0_03_prologue.md`, *The Prosecution*, is **archived**: its content was re-narrated into the Part I opener when the courtroom frame was retired for the eclipse spine — see `working/eclipse_spine_conversion_plan.md`.) Body chapters: `as_1_00_seekers.md` (Ch 0) through `as_1_19_life_after_pie.md` (Ch 19). Epilogue: `as_2_01_epilogue.md` (renamed 2026-05-19 from *The Atomic Corollary Going Forward* to *Make the World Ārya*). Appendix parts: `as_3_01_baking.md` through `as_3_09_glossary.md`. **Book division structure**: Front Matter / Overture / Parts I–VII / Epilogue / Appendices. The book runs on the **eclipse spine** (Sūrya / Svarbhānu / Rāhu / the Atris); the former courtroom frame is retired. Part VI contains Chs 16–18 (*Dispelling Rāhu*); Part VII contains Ch 19 alone. Each Part carries an italicized eclipse-arc subtitle; full map in `working/eclipse_spine_conversion_plan.md`.
+Front matter: `as_0_01_preface.md` (Preface), `as_0_02_acknowledgements.md` (Acknowledgments — author thanks, expandable), and `as_part_00_overture_shankha.md` (Overture — *The Śaṅkha*; the eclipse-war ignition between Preface and Ch 0), with `as_0_04_note_on_notes.md` following. (The former Prologue `as_0_03_prologue.md`, *The Prosecution*, is **archived**: its content was re-narrated into the Part I opener when the courtroom frame was retired for the eclipse spine — see `working/40_reference/decisions/eclipse_spine_conversion_plan.md`.) Body chapters: `as_1_00_seekers.md` (Ch 0) through `as_1_19_life_after_pie.md` (Ch 19). Epilogue: `as_2_01_epilogue.md` (renamed 2026-05-19 from *The Atomic Corollary Going Forward* to *Make the World Ārya*). Appendix parts: `as_3_01_baking.md` through `as_3_09_glossary.md`. **Book division structure**: Front Matter / Overture / Parts I–VII / Epilogue / Appendices. The book runs on the **eclipse spine** (Sūrya / Svarbhānu / Rāhu / the Atris); the former courtroom frame is retired. Part VI contains Chs 16–18 (*Dispelling Rāhu*); Part VII contains Ch 19 alone. Each Part carries an italicized eclipse-arc subtitle; full map in `working/40_reference/decisions/eclipse_spine_conversion_plan.md`.
 
 **Filename convention.** Manuscript files carry a three-segment prefix `as_<zone>_<seq>_<slug>.md`:
 - **Zone** (single digit) encodes the document region: `0` = front matter; `1` = body chapters; `2` = end matter (epilogue); `3` = appendix parts.
@@ -58,13 +58,13 @@ Reference and working files (TOC, endnotes, sidebars, todo, verification, etc.) 
 
 ### Standing artifacts
 
-`working/as_sidebars.md`, `working/as_session_review.md`, `reference/as_second_shanti.md` (series planning + diverted material for forthcoming volumes), `reference/as_companion_paper_subcontinental_calibrant.md`.
+`working/40_reference/source_material/as_sidebars.md`, `working/80_completed/handoffs/as_session_review.md`, `reference/as_second_shanti.md` (series planning + diverted material for forthcoming volumes), `reference/as_companion_paper_subcontinental_calibrant.md`.
 
 ### Archives (historical reference only)
 
 - `archive/as_ch07_draft_pre_split.md`, `archive/as_ch07_notes_pre_split.md` — pre-Session-9 Ch7 before the descriptive/polemic split.
 - `archive/as_atomic_draft_disposition.md` — Session 3 disposition of the rough draft `archive/old/atomicSanskrit.md` against an earlier TOC; superseded by the chapter drafts themselves.
-- `archive/as_session9_handoff.md` — pre-Session-10 handoff; superseded by `working/as_session10_handoff.md`.
+- `archive/as_session9_handoff.md` — pre-Session-10 handoff; superseded by `working/90_superseded/handoffs/as_session10_handoff.md`.
 - `archive/notes/as_1_NN_<slug>_notes.md` and `archive/notes/as_2_01_epilogue_notes.md` — chapter-notes drafting scaffolds; vestigial now that the chapter drafts are canonical; archived 2026-05-17.
 
 ---
@@ -75,12 +75,12 @@ When opening a new session:
 
 1. Read this file.
 2. Read the latest `as_session*_handoff.md` for current state.
-3. Read `working/as_todo.md` for queued work and priorities.
+3. Read `working/10_active/as_todo.md` for queued work and priorities.
 4. Confirm what we're working on before editing anything.
 
 When closing a session:
 
-1. Update `working/as_todo.md` if priorities shifted.
+1. Update `working/10_active/as_todo.md` if priorities shifted.
 2. Write a new `as_sessionN_handoff.md` capturing: accomplishments, files modified, locked decisions, outstanding work, next-session opener recommendation.
 3. Commit.
 
@@ -707,11 +707,11 @@ The dual translation is load-bearing. The endnote `samskrtam-morphology` (in `as
 
 **Per-chapter pattern.** Italicize on first use in a chapter, then plain. No scare quotes for the book's own compounds. Specific establishment-naming vocabulary (*Western philology*, *racial Arya thesis*, *Müllerian Indology*, named figures like Müller / Whitney / Schleicher) stays as is — those name specific disciplines / frameworks / figures, not the structural class.
 
-**Diagnostic.** If a sentence reaches for *orthodoxy* in polemic voice, stop and classify the use: dogma / doctrine / machinery / account / actor. Then replace by function. Full table and workflow: `working/orthodoxy_to_dogma_replacement_policy.md`.
+**Diagnostic.** If a sentence reaches for *orthodoxy* in polemic voice, stop and classify the use: dogma / doctrine / machinery / account / actor. Then replace by function. Full table and workflow: `working/40_reference/workflows/orthodoxy_to_dogma_replacement_policy.md`.
 
 ### The asuric apex is male — one claim, one direction
 
-The book makes **exactly one gender claim**: the asuric / pyramidal / Abrahamic apex is always male. It is the only gendered assertion in the book; hold it strictly. Deploy it as *drip*, not assertion — pronoun-discipline + exemplar clusters + a few anchor lines — never as "men are the problem." Full multi-pass plan: `working/masculine_apex_threading_plan.md`.
+The book makes **exactly one gender claim**: the asuric / pyramidal / Abrahamic apex is always male. It is the only gendered assertion in the book; hold it strictly. Deploy it as *drip*, not assertion — pronoun-discipline + exemplar clusters + a few anchor lines — never as "men are the problem." Full multi-pass plan: `working/40_reference/decisions/masculine_apex_threading_plan.md`.
 
 - **Pronoun the *occupant*, not the structure.** The figure who occupies the apex — the asura-singular, the Abrahamic Father, the patriarch, a named operator (Schleicher, Müller, Bopp, Whitney) — is **he/his**. The *structure* (the pyramid, the dogma, the machinery, the church) stays **it**. "The pyramid wants a he at its peak"; "at the top sits a he."
 - **The named apex-asuras are all men** — Hiraṇyakaśipu, Rāvaṇa, Vṛtra, Mahiṣa, Bali, Śumbha–Niśumbha, Madhu–Kaiṭabha. There is no canonical apex-*asurī*; the women on the asura side (Pūtanā, Tāṭakā, Sūrpaṇakhā, Holikā) are agents and kin, never the peak. Cluster the male exemplars so the reader inducts the pattern; never assert it.
@@ -769,7 +769,7 @@ Every endnote entry in `as_endnotes.md` carries TWO forms in the same source-of-
 
 **Build pipeline (planned):** `build_book.py --endnotes=short` will emit only the `**Short:**` line content per entry (dropping the `**Short:**` marker and the rest of the body), used for the printed-book endnote section. `--endnotes=full` (current default) emits the full body, used for the companion. Pipeline integration lands when the editorial pass produces actual short content; until then, `--endnotes=short` would emit `[TBD: ...]` placeholders, which is not useful.
 
-**One-time sweep (2026-05-18):** every existing entry in `as_endnotes.md` was scaffolded with a `**Short:** [TBD: <category>]` placeholder by `working/endnotes_short_scaffold.py`. The script is idempotent — re-running it skips entries that already carry a `**Short:**` field — so it can be invoked again if entries get added without their Short field by accident.
+**One-time sweep (2026-05-18):** every existing entry in `as_endnotes.md` was scaffolded with a `**Short:** [TBD: <category>]` placeholder by `working/tools/endnotes_short_scaffold.py`. The script is idempotent — re-running it skips entries that already carry a `**Short:**` field — so it can be invoked again if entries get added without their Short field by accident.
 
 ---
 

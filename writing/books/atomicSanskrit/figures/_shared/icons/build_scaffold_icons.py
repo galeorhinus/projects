@@ -13,7 +13,7 @@ Use cases:
     one racanā
 
 Geometry follows the rail tiling of the main hexagon figures
-(working/dhatu_hexagons/dhatu_hexagon.py): consonants stay on the upper
+(working/50_projects/dhatu_hexagons/dhatu_hexagon.py): consonants stay on the upper
 rail, vowels stay on the lower rail, and adjacent consonants are grouped
 into one split timing envelope. The icons use a small fixed height
 (14 SVG units) so they scale cleanly to text em-height.

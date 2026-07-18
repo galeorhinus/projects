@@ -166,7 +166,7 @@ The cascade is doctrinal → institutional → ontological:
 
 Do not stack every term in one sentence. Pick the layer the paragraph is prosecuting.
 
-Avoid *orthodoxy* as a default polemic noun. It is too intra-institutional and softens the target. Use it only when quoting or discussing another writer's category. Full replacement table: `working/orthodoxy_to_dogma_replacement_policy.md`.
+Avoid *orthodoxy* as a default polemic noun. It is too intra-institutional and softens the target. Use it only when quoting or discussing another writer's category. Full replacement table: `working/40_reference/workflows/orthodoxy_to_dogma_replacement_policy.md`.
 
 ## Banned Hermeneutic Noun
 

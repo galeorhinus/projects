@@ -357,8 +357,8 @@ The decision rests on how much new data the open-questions list above yields. A 
 
 - **Endnote** `vyanjana-duration-shiksha` — reference-grade version (in `as_endnotes.md`), deployed at Ch 15 §15.1.
 - **Endnote** `hrasva-dirgha-pluta-matra` — vowel-duration framework (companion specification, in `as_endnotes.md`).
-- **Design notes** `working/as_dhatu_hexagon_design_notes.md` — the visualization scheme that builds on this timing specification (½:1:2 ratios encoded as hexagon widths).
-- **Visualization tool** `working/dhatu_hexagons/dhatu_hexagon.py` — generates SVGs encoding the ½-mātrā vyañjana / 1-mātrā hrasva / 2-mātrā dīrgha distinction as constant-height variable-width hexagons.
+- **Design notes** `working/50_projects/dhatu_hexagons/as_dhatu_hexagon_design_notes.md` — the visualization scheme that builds on this timing specification (½:1:2 ratios encoded as hexagon widths).
+- **Visualization tool** `working/50_projects/dhatu_hexagons/dhatu_hexagon.py` — generates SVGs encoding the ½-mātrā vyañjana / 1-mātrā hrasva / 2-mātrā dīrgha distinction as constant-height variable-width hexagons.
 - **Chapter 15 §15.1** — the body-prose deployment of the ½-*mātrā* claim ("Vowel durations are quantified in **मात्रा (*mātrā*)** counts; consonants are treated as half-*mātrā* timing events — ***व्यञ्जनं चार्धमात्रिकम्***.").
 - **Chapter 16** — the retroflex / substrate-borrowing chapter that the voiced-aspirate temporal-fingerprint data feeds.
 - **Chapter 8 §8.4** — canonical introduction of the *spatial* snap-to-grid principle (Illustrator / Figma / Blender analogy). The temporal snap-to-grid argument extends this discussion to the second axis.
