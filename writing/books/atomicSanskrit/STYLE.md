@@ -52,6 +52,8 @@ This is **causal expository prose**: each sentence supplies the reason for the n
 
 The rule in three lines: *Express causality primarily through actors and verbs. Use conjunctions when the relationship would otherwise remain unclear. Reserve short declarative sentences for conclusions, refrains, and revelations.*
 
+Ration: use no more than one sentence-opening logical connector every two or three paragraphs; express most relationships through actors, causal verbs, and sequence; internal conjunctions remain available wherever clarity requires them.
+
 ## Turn Discipline
 
 Short turn sentences are useful when the reader needs a major shift signaled clearly:
