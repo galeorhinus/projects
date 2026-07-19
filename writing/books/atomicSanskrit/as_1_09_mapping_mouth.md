@@ -164,7 +164,7 @@ The boundary sounds show the same discipline as the matrix. Sanskrit labels them
 
 The selected sonomer becomes stable when it is held as an **अक्षरम् (*akṣaram*)**.
 
-The word *akṣara* holds a large claim. It means the imperishable, the non-decaying. In the language system, it is the stable sound-unit that can be recited, written, counted, and recombined.[NOTE: aksara-imperishable-name]
+Because the word *akṣara* actively means the imperishable and the non-decaying, it holds a significantly large claim. Within the language system, this means it serves as the stable sound-unit that can be rigorously recited, written, counted, and recombined.[NOTE: aksara-imperishable-name]
 
 The distinction between **sonomer** and **audiograph** is relevant here. The sonomer is the measured sound-particle; the audiograph is the visible capture of that sound-particle in script. Sanskrit is sonomeric before it is audiographic, built from measured sound-particles before any script makes those particles visible.
 
@@ -187,15 +187,15 @@ The visible script belongs to *lipi*. The deeper structure belongs to sound. App
 
 Once the consonant grid and the vowel measures are visible, the inventory opens into a volume.
 
-The consonant frame has 5×7 possible addresses. Thirty-three cells are filled: 25 *sparśa*, 4 *antaḥstha*, and 4 *ūṣman*. Two cells remain empty. Those empty cells matter because the frame exists before every address is filled.
+Extending the five mouth stations across seven consonant rows produces thirty-five possible coordinates, of which Sanskrit's independent consonant inventory occupies thirty-three: 25 *sparśa*, four *antaḥstha*, and four *ūṣman*. The two unfilled core coordinates invite a useful thought experiment: which sounds occupy them elsewhere, and how does Sanskrit deploy or withhold them?[NOTE: sound-volume-two-empty-cells]
 
 The 14 vowels attach as the third dimension:
 
 > 5 × 7 × 14 = 490 possible consonant-vowel addresses
 
-Two empty consonant cells extend through all 14 vowel positions, leaving 462 occupied consonant-vowel addresses. A *bārahkhaḍī*-style teaching row is one fiber of this volume unrolled for the classroom: क, का, कि, की, कु, कू, कृ, कॄ, कॢ, कॣ, के, कै, को, कौ.
+Two coordinates outside the independent inventory extend through all 14 vowel positions, leaving 462 occupied consonant-vowel addresses. A *bārahkhaḍī*-style teaching row is one fiber of this volume unrolled for the classroom: क, का, कि, की, कु, कू, कृ, कॄ, कॢ, कॣ, के, कै, को, कौ.
 
-![Figure 9.5 — The Sound Volume. The 5×7 consonant plane extends through the 14-vowel axis. Two empty consonant cells pass through the full vowel dimension; one lit क fiber unrolls the *bārahkhaḍī*-style teaching row so *mātrā* is visible as width.](figures/mapping_mouth/sound_volume.svg){#fig:ch9-sound-volume width=100%}
+![Figure 9.5 — The Sound Volume. The 5×7 consonant plane extends through the 14-vowel axis. Two cells remain outside the independent consonant inventory; one lit क fiber unrolls the *bārahkhaḍī*-style teaching row so *mātrā* is visible as width.](figures/mapping_mouth/sound_volume.svg){#fig:ch9-sound-volume width=100%}
 
 The figure makes the multiplication visible without making the argument mathematical. Sanskrit gives each selected part a place, a role, and a timed path through combination.
 
@@ -205,27 +205,27 @@ Selection is visible in what Sanskrit includes and in what it leaves out.
 
 The subcontinental field contains more than the Sanskrit grid. Tamil preserves an alveolar contact station that sits between dental and retroflex. Sindhi operates implosive consonants. Some central-eastern languages preserve glottal closure or checked consonants. Contact layers bring labio-dental fricatives such as *f*. Other world sound-fields include uvulars, pharyngeals, ejectives, clicks, and lateral fricatives.[NOTE: tamil-alveolar-trill][NOTE: sindhi-implosives-inventory][NOTE: ho-mundari-checked-consonants][NOTE: urdu-persian-arabic-loan-phonemes]
 
-The mouth can do more. The subcontinent knew more. The world certainly contains more. Sanskrit selects.
+Although the mouth can do more, the subcontinent knew more, and the world certainly contains more, Sanskrit intentionally selects only what it needs.
 
-The exclusions follow the same logic as the inclusions. Dental, alveolar, and retroflex are all possible, but a full three-way place grid in the tongue-tip region would crowd the axis. Sanskrit keeps dental and retroflex and gives each a stable role. Labio-dental fricatives crowd the labial zone. Implosives crowd the voiced stop row. Glottal stops crowd the breath-release boundary where *visarga* is already doing a different kind of work. Pharyngeals and uvulars belong to other regional sound-fields.
+Because a full three-way place grid in the tongue-tip region would overly crowd the axis, the exclusions follow exactly the same logic as the inclusions: while dental, alveolar, and retroflex are all anatomically possible, Sanskrit strictly keeps dental and retroflex, carefully giving each a stable role. Similarly, because labio-dental fricatives crowd the labial zone, implosives crowd the voiced stop row, and glottal stops crowd the breath-release boundary (where *visarga* is already doing a different kind of work), all pharyngeals and uvulars are deliberately excluded and relegated to other regional sound-fields.
 
-More sounds can weaken engineering. A language designed for long preservation must protect distinguishability. A sound that is impressive but too close to a neighbor can become a liability. A sound that belongs to another field can pull the grid away from its own architecture.
+Adding more sounds can actually weaken the engineering because a language designed for long preservation must strictly protect distinguishability. If a sound is impressive but too close to its neighbor, it becomes a liability, just as a sound borrowed from another field can gradually pull the entire grid away from its core architecture.
 
 Sanskrit's restraint is part of its design.
 
 ## 9.9 Varṇa Is Not Letter
 
-The reflex is to call these letters. The reflex imports an alphabet — a finished list of glyphs for writing down a language that already exists. The *varṇamālā* runs the other way: the sound-particles come first, and a glyph for them comes later, if at all.
+Although the natural modern reflex is to call these "letters," that reflex mistakenly imports the concept of an alphabet—a finished list of glyphs meant specifically for writing down a language that already exists. By stark contrast, the *varṇamālā* runs entirely the other way: because the engineered sound-particles must always come first, a glyph for them can only ever come later, if at all.
 
 A *varṇa* is a measured unit of sound — a *sthāna*, a *prayatna*, a voice setting, a nasal setting, a duration in *mātrā*. None of that is a property of a written shape. A letter is a sign read with the eye; a *varṇa* is an articulation made with the body. The *varṇamālā* is a sonomeric grid — sound-particles ordered by where and how the mouth makes them — not an alphabet of glyphs ordered by custom.
 
-The sequence proves it. An alphabet's order is arbitrary: *a, b, c* says little about the sounds. The *varṇamālā*'s order is the mouth itself — throat to lip, stop to nasal, short to long. The grid is the engineering; the glyphs are a later convenience.
+The sequence itself proves this distinction: while an alphabet's order is arbitrary (where *a, b, c* says little about the sounds), the *varṇamālā*'s order maps the mouth itself—moving systematically from throat to lip, stop to nasal, short to long. Because the grid represents the underlying engineering, the written glyphs are merely a later convenience.
 
-Once the *varṇamālā* exists, script becomes implementation. The engineering lies in the ordered sound-grid: place, effort, voice, breath, nasality, and duration held in stable relation. Representing those sounds with written symbols is a trivial, procedural implementation of a scalable, fractal idea. Writing gives that grid a visible interface, much as decimal notation gives place-value number a visible form.
+Consequently, once the *varṇamālā* fully exists, the script merely becomes implementation. Because the true engineering lies entirely in the ordered sound-grid—where place, effort, voice, breath, nasality, and duration are held in stable relation—representing those precise sounds with written symbols is just a trivial, procedural implementation of a scalable, fractal idea. Ultimately, writing simply gives that structural grid a visible interface, exactly much as decimal notation gives place-value numbers a visible form.
 
 The infinity glyph `∞` makes the unbounded easier to write; it does not make the unbounded thinkable. The visible mark is secondary; the architecture comes first.
 
-The pyramid files the architecture under its interface and calls it an alphabet. The *varṇa* flattens to "letter," the *akṣara* to "syllable-sign," the sonomeric grid to an ABC — and the engineering beneath the glyphs goes unseen. Restore the words and the engineering returns. The glyphs are secondary. The sound-architecture is the language.
+When the pyramid files this architecture under its interface and calls it an alphabet, it flattens the *varṇa* to "letter," the *akṣara* to "syllable-sign," and the sonomeric grid to an ABC, causing the engineering beneath the glyphs to go completely unseen. By restoring the precise Sanskrit terms, the engineering immediately returns to focus, revealing that the glyphs are secondary while the sound-architecture is the true language.
 
 ## 9.10 The Grid Holds the Garland
 

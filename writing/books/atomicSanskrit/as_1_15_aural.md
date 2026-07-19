@@ -20,7 +20,7 @@ The listed *Śikṣā* texts are compact because they are training manuals, not 
 
 Recitation is a public audit. A *śiṣya* recites before a *guru*, before peers, before senior reciters, and before a community that serves as a distributed standard. Any deviation from the established form is immediately heard, and therefore immediately corrected. The *guru* corrects the student by applying the exact auditory measure he inherited from his own *guru*. Through this constant calibration, the student is welded to the transmission chain by being corrected into it.
 
-The Veda is recitation first, writing second. The recitation is the primary body. Writing is a later reflection. The standard enumeration of the *Vedāṅgas* preserves the priority correctly: *Śikṣā* stands first.[NOTE: shiksha-first-vedanga-priority] Sound-production precedes the grammar that analyzes the form, the etymology that explains it, the ritual that employs it, and the calendrical discipline that times its use.
+Because the Veda is recitation first and writing second, the recitation remains its primary body while writing serves merely as a later reflection. The standard enumeration of the *Vedāṅgas* correctly preserves this priority by placing *Śikṣā* first, demonstrating that sound-production precedes the grammar that analyzes the form, the etymology that explains it, the ritual that employs it, and the calendrical discipline that times its use.[NOTE: shiksha-first-vedanga-priority]
 
 Auditure is the foundation and *Śikṣā* trains the instrument, the body that holds it.
 
@@ -32,9 +32,9 @@ The eleven *pāṭhas* divide into two groups. The five *prakṛti-pāṭhas* ar
 
 ***Pada-pāṭha*** (पदपाठ) is the word-by-word recitation. The *sandhi* is unwound. Each *pada* stands apart. The form makes morphology audible and fixes the word-boundaries that the flowing *saṃhitā* conceals. This is the recitation Yāska's *Nirukta* assumes and the recitation Pāṇini's **अष्टाध्यायी (*Aṣṭādhyāyī*)** refers back to in its derivations. The *pada-pāṭha* is itself a kind of analytical commentary, fixed in recitation form.
 
-***Krama-pāṭha*** (क्रमपाठ) is the step recitation. Words move in overlapping pairs: 1-2, 2-3, 3-4, 4-5. Each interior word appears twice, once as the second member of a pair and once as the first member of the next. The order is locked by overlap.
+Because ***krama-pāṭha*** (क्रमपाठ) acts as the step recitation, the words move in overlapping pairs (1-2, 2-3, 3-4, 4-5). Therefore, each interior word appears twice—once as the second member of a pair and once as the first member of the next—ensuring that the sequence is firmly locked by overlap.
 
-***Jaṭā-pāṭha*** (जटापाठ) is the braid recitation: 1-2, 2-1, 1-2; 2-3, 3-2, 2-3. The pair is recited forward, backward, forward. The name *jaṭā* captures the weave. The reciter must execute the words and the joins in both directions.
+***Jaṭā-pāṭha*** (जटापाठ) functions as the braid recitation (1-2, 2-1, 1-2; 2-3, 3-2, 2-3), where each pair is recited forward, backward, and forward again. Because the name *jaṭā* accurately captures this weave, the reciter is forced to execute both the words and their joins in both directions.
 
 ***Ghana-pāṭha*** (घनपाठ) is the dense recitation. The pattern extends into three-word windows: 1-2, 2-1, 1-2-3, 3-2-1, 1-2-3; then the window advances. A ***Ghanapāṭhī*** has mastered the highest common recitational density and is recognized as such across Vedic communities by title.[NOTE: ghanapathi-title-recognition]
 
@@ -54,7 +54,7 @@ The *krama-pāṭha* checks word order. If word *n* appears in pair *(n-1, n)* a
 
 The *jaṭā-pāṭha* checks order and *sandhi*. Forward-backward-forward recitation forces the join to be executed in more than one direction. *Sandhi* rules are not symmetric — what happens when *aḥ* meets *a* is not the inverse of what happens when *a* meets *aḥ*. A join that passes unnoticed in ordinary forward flow can fail when the pair reverses. The braid exposes the weak point.
 
-The *ghana-pāṭha* checks three-word windows. Each cell is expanded, reversed, restored, and advanced. A *Ghanapāṭhī* who reaches the end of a verse has executed adjacent joins repeatedly, in multiple orderings, under auditory supervision. The density is the point.
+The *ghana-pāṭha* checks three-word windows by expanding, reversing, restoring, and advancing each cell. Consequently, a *Ghanapāṭhī* who reaches the end of a verse has executed adjacent joins repeatedly across multiple orderings under auditory supervision, proving that the density itself is the point.
 
 The *vikṛti* recitations add further constraint. Each modified form gives the sequence a different shape. Together they form a redundancy field around the Vedic corpus. It is hard to construct a corruption that passes all eleven.
 
@@ -68,29 +68,29 @@ The *progressive dogma* treats the *pāṭhas* — when it engages them at all �
 
 Vedic recitation survives in multiple geographically separated lineages: the Nambūdiri Brahmins of Kerala; Maharashtra Brahmin lineages; Tamil Nadu and Karnataka lineages; the Banaras and Allahabad lineages of the northern plains; Gujarat and Rajasthan lineages of the western coast; the Kashmir Pandit lineages preserved through displacement.[NOTE: nambudiri-vedic-recitation-isolation] These communities were not coordinated by one centralized institution. They preserved through parallel *guru-shishya* lineage-chains, with *śākhā* specification governing the differences that do appear.
 
-The recitations can be compared. Recordings exist. Fieldwork on Nambūdiri recitation in the 1970s placed the recitation lineages into audio and film archives.[NOTE: staal-agni-nambudiri-recording] Later recordings extend the corpus. Where lineages differ, the differences are labeled, located, and governed by *śākhā* specification. They are not random drift.
+Because the recitations can be directly compared, and recordings exist—including fieldwork on Nambūdiri recitation in the 1970s that placed the lineages into audio and film archives, alongside later recordings that extend the corpus—it becomes clear that where lineages differ, the differences are labeled, located, and strictly governed by *śākhā* specification rather than random drift.[NOTE: staal-agni-nambudiri-recording]
 
-The phonetic constants match at the level the architecture predicts: *varṇa* inventory, accent where preserved, *sandhi* execution, metrical structure, and recitational discipline. The lineages become independent checks. Their recitations agree.[NOTE: cross-shakha-verification-fieldwork]
+Because the phonetic constants match exactly at the level the architecture predicts (*varṇa* inventory, accent where preserved, *sandhi* execution, metrical structure, and recitational discipline), the geographically separated lineages act as independent checks whose recitations fundamentally agree.[NOTE: cross-shakha-verification-fieldwork]
 
-The reader can test the claim. Recordings of *saṃhitā*, *krama*, *jaṭā*, and *ghana* recitation are available. The architecture can be heard. The system is not a claim about the past only. It is operating now.
+The reader can test the claim directly: because recordings of *saṃhitā*, *krama*, *jaṭā*, and *ghana* recitation are widely available, the architecture can be heard in real time, proving that the system is not merely a claim about the past but is actively operating now.
 
 ## 15.5 The Living Architecture
 
 Three implications follow.
 
-First: the preservation architecture is observable. The “oral tradition” label must explain the audible evidence, not merely tell an imagined story about textual development.
+First: because the preservation architecture is observable, the “oral tradition” label must explain the audible evidence rather than merely telling an imagined story about textual development.
 
-Second: the engineering is real. The eleven *pāṭhas* operate as error-detecting re-encodings, *Śikṣā* trains the instrument, *Chandas* supplies the metrical hash, the *Prātiśākhya* documents the phonetic constants, and the *guru*, peer group, senior reciter, and audience together form a distributed verification network.
+Second: the engineering is demonstrably real because the eleven *pāṭhas* operate as error-detecting re-encodings, *Śikṣā* trains the instrument, *Chandas* supplies the metrical hash, the *Prātiśākhya* documents the phonetic constants, and the *guru*, peer group, senior reciter, and audience together form a distributed verification network.
 
-Third: the architectural thesis is now empirically grounded. By this point the botanical metaphor has been dismantled, the mouth has been mapped, the *dhātavaḥ* have been identified, the generative architecture has been described, and the calibration matrix has been laid out. The operating evidence is now audible. The architecture is not only a reconstruction. It is being performed.
+Third: the architectural thesis is now empirically grounded. Because the botanical metaphor has been dismantled, the mouth has been mapped, the *dhātavaḥ* have been identified, the generative architecture has been described, and the calibration matrix has been laid out, the operating evidence is now fully audible. Therefore, the architecture is not only a reconstruction; it is being actively performed.
 
 The same compression-with-recoverability law that operates inside the sonomer and the *dhātuḥ* operates at the scale of the recitation itself. The fractal architecture is audible in operation.
 
 Among the comparison cases considered here, none is documented at this depth as an ancient linguistic preservation system. The Masoretic apparatus preserves a written Hebrew text. Quranic recitation overlaps with Auditure but does not use an eleven-fold combinatorial re-encoding. Latin preservation depends primarily on written transmission with chant traditions layered on top.[NOTE: masoretic-codification-timing][NOTE: quran-recitation-vs-pathas-comparison] None has the same redundancy depth, cross-lineage independence, and living recitational architecture. The comparative case is already in place at the architecture level (Chapter 14 §14.6); the evidence here makes it audible.
 
-The architecture is not a hypothesis. It has been running continuously, without interruption, for as long as anyone can verify. It is running now. It will be running after the reader closes these pages.
+Because this architecture has been running continuously and without interruption for as long as the record can verify, it is clearly not a hypothesis. It is running now, and it will continue running after the reader closes these pages.
 
-Its survival is evidence of the system's purpose. A matrix built to preserve recoverable form across darkness, distance, and time has preserved recoverable form across darkness, distance, and time. The reader can examine the architecture because the architecture did its work.
+Ultimately, its survival is evidence of the system's explicit purpose: because a matrix built to preserve recoverable form across darkness, distance, and time has successfully preserved recoverable form across darkness, distance, and time, the reader can examine the architecture precisely because the architecture did its work.
 
 This is **ध्रौव्यता (*dhrauvyatā*)** in operation: not a claim about constancy, but audible constancy itself.
 

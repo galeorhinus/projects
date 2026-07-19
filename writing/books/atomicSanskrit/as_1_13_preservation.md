@@ -20,7 +20,7 @@
 
 Sanskrit's architecture was built to last. Its visible components now include the **वर्णमाला (*varṇamālā*)** as the engineered phonetic grid, the **धातवः (*dhātavaḥ*)** as an inventory of reactive atoms, the **गणाः (*gaṇāḥ*)** as Pāṇini's operating classes, the **उपसर्गाः (*upasargāḥ*)** and **प्रत्ययाः (*pratyayāḥ*)** as the bonding procedure, and the **अष्टाध्यायी (*Aṣṭādhyāyī*)** as the formal specification. The system is integrated and complete.
 
-A specification that drifts is no longer a specification. A calibrant calibrated by what it calibrates is no longer a calibrant.
+Because a specification that drifts is no longer a specification, it follows logically that a calibrant calibrated by what it calibrates is no longer a calibrant.
 
 Sanskrit's own vocabulary has a name for the danger: **अपभ्रंशः (*apabhraṃśa*)** — falling away, slippage, the unmaking of an engineered form into fallen-away variants. Patañjali lists the case (Chapter 6 §6.2): **गौः (*gauḥ*)** (the engineered Sanskrit word for *cow*) against the four *apabhraṃśas* the **महाभाष्य (*Mahābhāṣya*)** documents — **गावी (*gāvī*)**, **गोणी (*goṇī*)**, **गोता (*gotā*)**, **गोपोतलिका (*gopotalikā*)**. The source is one. The fallings-away are many. *Apabhraṃśa* is the default trajectory of any linguistic form left to uncalibrated speech.
 
@@ -30,7 +30,7 @@ What Sanskrit has to hold is concrete: sound, meaning, grammar, meter, recitatio
 
 The Vedas function as sacred corpus and primary calibration matrix at once. If that matrix drifts, the calibrant drifts with it.
 
-Speech, as the epigraph describes, may be visible and audible, yet not truly seen or heard. The Veda therefore requires more than storage. It requires a preservation system capable of producing the listener to whom Speech can reveal herself.
+Because Speech, as the epigraph describes, may be visible and audible yet not truly seen or heard, the Veda requires much more than passive storage. It requires a dynamic preservation system capable of producing the precisely trained listener to whom Speech can reveal herself.
 
 What belongs to ordinary flow, and what must be held? Sanskrit has the distinction ready-made: *prākṛta*, *saṃskṛta*, and *sanātan*.
 
@@ -38,9 +38,9 @@ What belongs to ordinary flow, and what must be held? Sanskrit has the distincti
 
 The civilization that engineered Sanskrit organized its world through a functional distinction.
 
-**प्राकृत (*prākṛta*)** is the natural and changing. It is what arises through ordinary social process: everyday speech, stories, customs, local usages, technologies, memories that adapt as they pass through tellers and listeners. *Prākṛta* is allowed to flow.
+**प्राकृत (*prākṛta*)** represents the natural and the changing. Because it is whatever arises through ordinary social processes—everyday speech, stories, customs, local usages, technologies, and memories that adapt as they pass through tellers and listeners—*Prākṛta* is allowed to flow.
 
-**संस्कृत (*saṃskṛta*)** is the made-precise. It is what has been worked, refined, and held against drift. *Saṃskṛta* is the name of the language itself, because the language belongs to this category. The *Vedas*, the phonetic specification, the formal grammar, the *dhātu* inventory, the metrical system — these are not left to ordinary flow. They are held.
+**संस्कृत (*saṃskṛta*)** is the wholy-synthesized/engineered: it is what has been worked, refined, and deliberately held against drift. *Saṃskṛta* serves as the name of the language itself because the language structurally belongs to this category. Consequently, the *Vedas*, the phonetic specification, the formal grammar, the *dhātu* inventory, and the metrical system are not left to ordinary flow; rather, they are held.
 
 The distinction maps directly to **सनातन (*sanātan*)** — the perpetual, the ground that does not move. *Saṃskṛta* forms are built to be *sanātan*. *Prākṛta* forms are allowed to change. This is not a hierarchy. It is engineering classification.
 
@@ -60,9 +60,9 @@ Writing did not meet that test.
 
 The civilization knew writing and used it through Brāhmī, Devanagari, the southern scripts, and their regional descendants and adaptations — all forms of *lipi*. The decision not to entrust the *Vedas* to writing was not ignorance of writing. It was engineering judgment.
 
-Writing has one structural feature that disqualifies it from preserving immutable content: it depends on a physical medium. The glyphs must be inscribed on stone, palm leaves, bark, cloth, paper. Every physical medium has two failure modes.
+Writing has one structural feature that disqualifies it from preserving immutable content: it depends entirely on a physical medium. Because glyphs must be inscribed on stone, palm leaves, bark, cloth, or paper, every physical medium inherently carries two failure modes.
 
-**The first is decay.** Stone weathers; palm leaves rot; cloth fades; paper crumbles. Modern digital media are no exception — magnetic tape demagnetizes, optical disks delaminate, flash storage suffers bit-rot, cloud storage depends on institutional continuity that itself has a lifetime. Every medium has a lifetime; the preservation interval for *sāṃskṛtika* content exceeds it.
+**The first is decay.** While stone weathers, palm leaves rot, cloth fades, and paper crumbles, modern digital media are no exception—magnetic tape demagnetizes, optical disks delaminate, flash storage suffers bit-rot, and cloud storage depends on institutional continuity that itself has a finite lifetime. Because every physical medium has a distinct lifetime, the required preservation interval for *sāṃskṛtika* content inevitably exceeds it.
 
 **The second is destruction.** Manuscripts burn. Libraries are smashed. Tablets are confiscated and pulped. The subcontinent's record documents cases of all three across the Islamic and colonial periods that followed the architecture's establishment. The engineering decision the civilization made about *lipi* was made long before those particular destructions; it reflects the general observation that any medium dependent on physical storage is destroyable, and that centralized storage concentrates the vulnerability at a single point.
 
@@ -136,9 +136,9 @@ The grammatical principle is: bond first, usage second, *śāstra* third (Chapte
 
 A Sanskrit form begins transmission and comes out identical — same vowel length, same accent, same sequence — generation after generation, while the ordinary speech around it drifts. That constancy under transmission, holding fixed while speech moves, is **ध्रौव्यता (*dhrauvyatā*)**. Because Sanskrit holds fixed, it works as the measure everything else is checked against — the fixed-measure language, **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**, the calibrant that sound, form, memory, grammar, and usage are held against.
 
-Codification also draws a line. The codified standard becomes correct; what falls outside it becomes wrong. Sanskrit does not operate this way. It is not an imperial language imposed from an apex. The living languages of the people are not declared deviant because they are not Sanskrit. They flow as *prākṛtika* speech. The calibrant model draws no such line. The calibrant is held; ordinary speech is allowed to flow.
+While standard codification draws a hard line—where the codified standard becomes correct and whatever falls outside it becomes wrong—Sanskrit does not operate this way. Because it is not an imperial language imposed from an apex, the living languages of the people are not declared deviant simply because they are not Sanskrit; rather, they flow as *prākṛtika* speech. Consequently, the calibrant model draws no such line: the calibrant is held, while ordinary speech is allowed to flow.
 
-Sanātan does not require every person to speak the calibrant language. Society speaks its living languages, its prākṛtika forms, its regional speech-fields, its household speech, its songs, its market idioms. These are not treated as sinful deviations from an authorized tongue. They flourish.
+Because Sanātan does not require every person to speak the calibrant language, society speaks its living languages, its prākṛtika forms, its regional speech-fields, its household speech, its songs, and its market idioms. Therefore, rather than being treated as sinful deviations from an authorized tongue, these idioms flourish.
 
 Sanskrit stands elsewhere. Like ध्रुव (dhruva), the fixed star, it serves as the calibrant language: the disciplined, preserved, architected standard against which knowledge, yajña, grammar, memory, and civilizational continuity can be held. Its preservation does not rest on a declared standard alone. The Vedic corpus, the Prātiśākhya discipline, Śikṣā, Chandas, the pāṭha systems, Vyākaraṇam, the Dhātupāṭha, and the *guru-shishya* lineage-chains form a calibration architecture. The burden of that preservation falls on those who choose the path of rigor. The system carries correctness into action: it detects drift, corrects drift, and trains the human instrument that holds the form.
 
@@ -150,13 +150,13 @@ Minds learn language through saturation or explicit structure. Saturation-traine
 
 Sanskrit has its own names for both paths. **श्रवण (*śravaṇa*)** — hearing-based reception — serves the saturation-trained mind. **व्याकरणम् (*vyākaraṇam*)** — analytical decomposition — serves the rule-trained mind. Most learners use both pathways and shift between them as mastery deepens. But the weighting differs across individuals, and the difference is real enough that the same language, taught the same way, can produce different kinds of mature speakers.
 
-The two learning-paths also sort out Pāṇini's role. Whether a Pāṇini-style work existed when Sanskrit's architecture was first laid down is not known. The *Aṣṭādhyāyī* itself cites pre-Pāṇinian *vaiyākaraṇāḥ* — Śākalya, Gārgya, Āpiśali, Kāśyapa, Sphoṭāyana, and others — whose works did not survive transmission. There may have been earlier sūtra-level documentation that has been lost; there may not have been. No such claim is necessary.
+These two learning-paths also sort out Pāṇini's role: while it remains unknown whether a Pāṇini-style work existed when Sanskrit's architecture was first laid down, the *Aṣṭādhyāyī* itself cites pre-Pāṇinian *vaiyākaraṇāḥ*—Śākalya, Gārgya, Āpiśali, Kāśyapa, Sphoṭāyana, and others—whose works did not survive transmission. Although there may or may not have been earlier sūtra-level documentation that was lost, no such claim is necessary.
 
 What survived on the rule-extraction side is one matter. What survived on the saturation side is observable. The Vedic corpus survived, together with its recitation lineages, and the Vedas function as a calibrant matrix: a preserved body of language that holds form against drift across thousands of years. Where a form is in doubt, the Veda settles it. Where pronunciation is in doubt, the *Prātiśākhya* settles it. Where transmission risks decay, the eleven *pāṭhas* of recitation restore it.
 
 Pāṇini's *Aṣṭādhyāyī* added a second redundancy layer on top of that calibrant matrix. The sūtra-level rule-system made the language's structure explicit, compact, portable, recoverable, and teachable. This second layer is especially powerful for rule-trained minds — the *vyākaraṇa*-type readers for whom the rule clicks before the pattern settles. Where the Veda preserves the form as performed, the *Aṣṭādhyāyī* preserves the form as derivable. Pāṇini did not replace the Veda. He added a path suited to another kind of mind.
 
-The same distinction operates in ordinary teaching today. A student writes, "I goed to the store yesterday." The form is wrong. One teacher corrects by rule: "Go is irregular. Its past tense is *went*." Another teacher corrects by sentence: "No — we say, **I went to the store yesterday**." The first correction states the rule. The second restores the form through living use. Two paths; one correction.
+The same distinction operates in ordinary teaching today: when a student writes, "I goed to the store yesterday," the form is wrong. While one teacher corrects by rule ("Go is irregular; its past tense is *went*"), another teacher corrects by sentence ("No—we say, **I went to the store yesterday**"). Because the first correction states the rule while the second restores the form through living use, they represent two distinct paths arriving at one correction.
 
 The same operation runs in Sanskrit. Suppose a student sees the *dhātuḥ* **⟪धा⟫ (*dhā*)** and, by false analogy with **भवति (*bhavati*)**, writes **धाति (*dhāti*)**. The form is wrong. A *vyākaraṇa*-trained reader corrects by rule: **⟪धा⟫ (*dhā*)** belongs to the third **गणः (*gaṇaḥ*)**, the **जुहोत्यादि (*juhotyādi*)** class. Pāṇini specifies the operation in *Aṣṭādhyāyī* 2.4.75: **जुहोत्यादिभ्यः श्लुः (*juhotyādibhyaḥ śluḥ*)**.[NOTE: juhotyadibhyah-shluh-dadhati] The rule suppresses the regular *vikaraṇa*, reduplicates the *dhātuḥ*, and attaches the personal ending: ⟪धा⟫ → *da-dhā* → **दधाति (*dadhāti*)**. The wrong form **धाति (*dhāti*)** drops out.
 
@@ -174,7 +174,7 @@ The student hears **दधाति (*dadhāti*)** inside the line, and the wron
 
 Both readers arrive at the same form. They do not depend on each other. The Veda would correct the error if the *Aṣṭādhyāyī* had never been compiled. The *Aṣṭādhyāyī* corrects the error even where the relevant Vedic line is not at hand. Two independent layers of redundancy hold the same form in place, and two independent layers accommodate two kinds of mind.
 
-If the corpus is lost, the sūtra survives; if the sūtra is lost, the corpus survives. Only the loss of both degrades the language. Sanskrit holds both paths simultaneously.
+Because if the corpus is lost, the sūtra survives, and if the sūtra is lost, the corpus survives, only the loss of both degrades the language. Therefore, Sanskrit holds both paths simultaneously.
 
 This is **संस्कृति (*saṃskṛti*)** as preservation system: distributed self-correction without apex command. A pyramid can announce a standard and punish deviation. It cannot, by authority alone, make every participant an instrument of detection. Sanskrit's preservation architecture does that. The threat is not only that the language survived. The threat is that it survived without needing the pyramid.
 

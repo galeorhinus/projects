@@ -174,7 +174,7 @@ The full operating roster has ten classes.
 | 9 | क्र्यादि (*kryādi*) | श्ना (*śnā*) / ना (*nā*) | *nā*-extension | ⟪क्री⟫ (*krī*) → क्रीणाति (*krīṇāti*) |
 | 10 | चुरादि (*curādi*) | णिच् (*ṇic*) / अय (*aya*) | *aya* activation | ⟪चुर्⟫ (*cur*) → चोरयति (*corayati*) |
 
-The *gaṇaḥ* is the operational class. The *vikaraṇa* performs the operation. The examples in the last column are anchors: they show one familiar visible output of each operation.
+Because the *gaṇaḥ* serves strictly as the operational class while the *vikaraṇa* explicitly performs the operation itself, the examples in the final column deliberately act as anchors: they clearly show exactly one familiar, visible output of each distinct operation.
 
 One pattern is worth catching before the matrix arrives: the consonant-bearing class operations reach for the same few consonants every time. *Divādi* and *curādi* use य (*ya*); *svādi*, *rudhādi*, and *kryādi* use न (*na*) — the very cluster-joining specialists holding dense atoms together (Chapter 10, Appendix 5). The architecture activates the molecule with the same bonding sonomers it used to build the atom; rather than inventing new vocabulary at the next scale, it reuses its specialists.
 
@@ -190,7 +190,7 @@ After *anubandha* stripping, the 2,168-entry *Dhātupāṭha* inhabits 47 observ
 
 ![The top ten *racanāḥ* across Pāṇini's ten *gaṇāḥ*.](figures/ganah/racana_gana_matrix.svg){#fig:ganah-racana-gana-matrix width=100%}
 
-The central corridor is visible immediately. The **गमादि (*gamādi*)** <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> scaffold appears in all ten *gaṇāḥ* and holds 926 atoms by itself. It is the dominant construction corridor. The *bhvādi* class is the largest operational landing zone, with 1,134 atoms overall and 452 *gamādi* atoms alone.
+The central corridor becomes visible immediately: because the **गमादि (*gamādi*)** <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> scaffold actively appears in all ten *gaṇāḥ* and alone holds 926 atoms, it is unequivocally the dominant construction corridor. Similarly, the *bhvādi* class serves as the largest operational landing zone, holding 1,134 atoms overall and featuring 452 *gamādi* atoms alone.
 
 The other concentrations are patterned too: *curādi* is the systematic runner-up for many closed scaffolds, *kryādi* draws the long-vowel open shapes, and even the smallest *gaṇāḥ* run to type, each gathering in the shapes its operation suits.
 
@@ -217,7 +217,7 @@ The working record for the *prayoga* audit is the Digital Corpus of Sanskrit: 15
 
 That gives the audit a concrete measurement. For each *dhātuḥ* visible in the corpus, the audit counts two things: how often forms from that atom appear, and how many different bonding patterns the atom enters. The head-bond is the *upasargaḥ*: *pra-*, *vi-*, *sam-*, *abhi-*, *anu-*, and the rest of the preverb set. The tail-bond is the *pratyayaḥ*: the suffix class that activates the atom into finite, participial, infinitival, or derivative form. Every distinct (*upasarga*, *pratyaya*-class) pairing visible in the parsed record counts as one unit of **valency**.
 
-Valency therefore means bonding range. A low-valency atom appears in only a few configurations. A high-valency atom bonds across many configurations. The chemical analogy is disciplined by this measured grammatical behavior: reactivity means range of permissible bonding, not chemical substance.
+Valency, therefore, strictly dictates bonding range: while a low-valency atom appears in only a few configurations, a high-valency atom robustly bonds across many configurations. As a result, the chemical analogy is rigidly disciplined by this very measured grammatical behavior, proving that reactivity fundamentally means the range of permissible bonding rather than any vague chemical substance.
 
 The *prayoga* audit identifies every *dhātuḥ* label the corpus makes visible, counts the atom's actual uses and distinct bonding patterns, and then compares that range with the atom's sonomeric size and the dictionary audit.
 
@@ -263,7 +263,7 @@ On its own, that concentration is exactly what any natural language shows, so th
 | Frequency often protects irregularity because speakers master common forms as wholes. | Reactivity preserves decomposability because the atom keeps bonding through *upasargāḥ* and *pratyayāḥ*. |
 | The surface list shifts by genre, region, and era. | The same high-reactivity core remains visible across the tested Sanskrit use-domains (§11.9). |
 
-Concentration is only the start of it. What Sanskrit adds is compactness, regular bonding, scaffold order, and cross-domain stability stacked on top of the concentration — and the numbers show it directly. The *prayoga* audit gives a correlation of **-0.43** between valency and sonomer count; the matched dictionary subset gives **-0.49**. The sign runs downward: the larger the atom, the narrower its measured bonding range. The higher the yield, the smaller the atom.
+However, concentration is merely the beginning. Because Sanskrit deliberately adds immense compactness, regular bonding, precise scaffold order, and vast cross-domain stability directly on top of that initial concentration, the numbers demonstrate it unequivocally: the *prayoga* audit gives a striking correlation of **-0.43** between valency and sonomer count, while the matched dictionary subset yields **-0.49**. Since the sign runs sharply downward—proving that the larger the atom, the dramatically narrower its measured bonding range—it confirms the engineering rule: the higher the yield, the smaller the atom.
 
 So the resemblance and the engineering sit side by side. The frequency pattern mirrors natural languages, while the sonomeric procedure underneath it operates by strict architectural design.
 
@@ -271,7 +271,7 @@ So the resemblance and the engineering sit side by side. The frequency pattern m
 
 Carbon earns its place in chemistry by bonding promiscuously — a small center that throws off an enormous molecular space. Sanskrit's polyvalent atoms do the same grammatical work, and **⟪कृ⟫ (*kṛ*)** is the clearest case: a three-letter *krādi* atom, the single most reactive item in the corpus. From it come *karma* and *kāryam*, *kṛti* and *kartṛ*, *saṃskṛti* and *prakṛti* — the deed, the thing-to-be-done, the composition, the doer, refined order, raw nature. Everyday speech and the densest philosophy both run on it.
 
-The smallness is the point. ⟪कृ⟫ derives its power from its *availability* — short enough to enter anywhere, stable enough to survive the entry. ⟪भू⟫, ⟪धा⟫, ⟪हृ⟫, ⟪गम्⟫, ⟪नी⟫, ⟪ज्ञा⟫, ⟪दा⟫, and ⟪स्था⟫ work the same way: compact atoms with enormous range.
+Crucially, the smallness itself is the entire point. Because ⟪कृ⟫ derives its extreme power directly from its *availability*—being short enough to seamlessly enter anywhere while remaining stable enough to survive the entry—⟪भू⟫, ⟪धा⟫, ⟪हृ⟫, ⟪गम्⟫, ⟪नी⟫, ⟪ज्ञा⟫, ⟪दा⟫, and ⟪स्था⟫ precisely mirror this behavior, operating as perfectly compact atoms that yield an enormous grammatical range.
 
 The principle is the *sūtra* principle one scale down — maximum recoverable structure in minimum form. Read that way, the *Dhātupāṭha* turns into an inventory of reactive atoms: Sanskrit's working set.
 

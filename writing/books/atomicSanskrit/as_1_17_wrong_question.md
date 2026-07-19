@@ -170,7 +170,7 @@ The calibrant thesis treats such movement differently. Sanskrit need not spread 
 AISWEEP-END -->
 Sanskrit need not spread because a race migrated; the calibrant thesis treats such movement differently. Sanskrit can leave traces because trained specialists, preserved sound-systems, and disciplined textual lineages entered other language-worlds and changed them. The pyramid looks at similarity and invents an imaginary ancestor. The architectural lens looks at similarity and asks whether a preserved calibrant touched less stable speech-fields at different depths.
 
-This does not require denying movement. Denying movement would accept the trap. The point is to separate motion from creation. The Racial Arya Thesis needs movement because it needs an external author. The engineered Sanskrit thesis does not fear movement because authorship is argued from construction: sound-grid, atom, molecule, sentence, recitation, grammar, and calibration.
+This argument does not require denying movement; denying movement would merely accept the trap. The deeper point requires separating motion from creation. While the Racial Arya Thesis needs movement to supply an external author, the engineered Sanskrit thesis never fears movement, rooting its argument for authorship in construction: sound-grid, atom, molecule, sentence, recitation, grammar, and calibration.
 
 The trap asks the reader to choose between inward migration and outward migration. Sanskrit asks a better question: what was built, how was it preserved, and what kind of civilization could hold it?
 
@@ -182,7 +182,7 @@ This speculation stands on ground the dharmic continuum supplies, and it begins 
 
 The first concerns *vāc*. Bṛhaspati's *vācam akrata* gives the seed: the wise formed Speech with the mind.[NOTE: rigveda-10-71-2-sieve-vak] The mantra does not give biographies, dates, institutions, or a construction manual. It does not use the later language-name Sanskrit. It gives something more basic: the category of formed Speech, not drifted speech. Sanskrit is treated here as the calibrated architecture in which that Vedic *vāc* becomes visible.
 
-The second concerns the Vedas. The *ṛṣis* were **मन्त्रद्रष्टारः (*mantra-draṣṭāraḥ*)** — seers of the mantras. They saw. Everyone after them heard. The corpus is therefore **श्रुति (*śruti*)** — that which is heard — and **अपौरुषेय (*apauruṣeya*)** — not of human authorship.
+The second certainty concerns the Vedas themselves. Acting as **मन्त्रद्रष्टारः (*mantra-draṣṭāraḥ*)**—seers of the mantras—the *ṛṣis* saw, leaving everyone after them to hear. Consequently, the corpus is recognized as **श्रुति (*śruti*)**—that which is heard—and **अपौरुषेय (*apauruṣeya*)**—not of human authorship.
 
 The honest limit remains: we do not know the historical identities of the wise, when Sanskrit's specification occurred, or how the architecture entered the human world. The pyramid converts conjecture into chronology and teaches it as settled fact. This book will not do that. It speculates openly and calls the speculation by its name.
 
@@ -226,15 +226,15 @@ The pedagogical consequence belongs in Chapter 13 §13.5. Before Pāṇini, corr
 
 The Vedas preserved the architecture. Pāṇini made the architecture operational.
 
-The *progressive dogma* requires the opposite flow: Vedic as primitive, Classical as refined, Pāṇini as inventor, *bhāṣā* as descendant, *apabhraṃśa* as a stage in descent rather than the tendency the calibrant corrects. The inversion is not stylistic. It is doctrinal. A descent thesis and an engineering thesis are structural opposites. They cannot both be the right account of the same object.
+By demanding the opposite flow, the *progressive dogma* treats Vedic as primitive, Classical as refined, Pāṇini as inventor, *bhāṣā* as descendant, and *apabhraṃśa* as a stage in descent rather than the tendency the calibrant corrects. This inversion operates as a doctrinal requirement rather than a stylistic choice. As structural opposites, a descent thesis and an engineering thesis cannot both serve as the correct account of the same object.
 
-The *heroic-erasure* move (Chapter 1 §1.6, Chapter 13 §13.3) enforces the inversion. The machinery runs the script: celebrate Pāṇini as codifier; deny the engineering that preceded him; praise the named operator; hide the architecture he decoded. It does not fight Pāṇini. It uses him. It turns civilizational memory toward codification and away from calibration.
+Enforcing this inversion, the *heroic-erasure* move (Chapter 1 §1.6, Chapter 13 §13.3) executes a precise script: celebrate Pāṇini as codifier to deny the engineering that preceded him, and praise the named operator to hide the architecture he decoded. By using Pāṇini rather than fighting him, the machinery turns civilizational memory toward codification and away from calibration.
 
-That move is the target here. The battle is not with Pāṇini or the past. It is with the present machinery that tells Hindus to remember Pāṇini as codifier, not as decoder.
+That exact maneuver forms the target here. The battle lies not with Pāṇini or the past, but with the present machinery telling Hindus to remember Pāṇini as a codifier rather than a decoder.
 
 The machinery does not deny reverence. It redirects reverence.
 
-The civilization keeps the memory active, but the machinery changes its object. It trains the reader to bow before codification where the evidence points to calibration. Heroic erasure works better than direct denial because it does not insult the hero. It changes what the hero means.
+While the civilization keeps the memory active, the machinery changes its object, training the reader to bow before codification where the evidence points to calibration. By changing what the hero means rather than insulting him, heroic erasure works more effectively than direct denial.
 
 The asuric pyramid holds only as long as that move holds.
 

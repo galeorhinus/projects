@@ -62,7 +62,7 @@ The sound-field is physical. The slot is architectural.
 
 ## 8.3 How We Map the Sounds
 
-The survey uses the mouth-map vocabulary already established. Modern phonetics often begins with **place** and **manner**: where a sound is made, and what kind of action makes it. Sanskrit labels the same working coordinates **स्थान (*sthāna*)**, place, and **प्रयत्न (*prayatna*)**, effort or manner. Those coordinates compare consonant inventories here; **मात्रा (*mātrā*)**, measured duration, enters when the selected sounds become a timed parts inventory.
+The survey uses the mouth-map vocabulary already established. Modern phonetics often begins with **place** and **manner**: where a sound is made, and what kind of action makes it. Sanskrit labels the same working coordinates **स्थान (*sthāna*)**, place, and **प्रयत्न (*prayatna*)**, effort or manner. Those coordinates compare consonant inventories here; **मात्रा (*mātrā*)**, measured duration is tracked when the selected sounds become a timed parts inventory.
 
 Here *survey* means analysis of already completed surveys. The fieldwork, grammars, phonological descriptions, and consonant-inventory datasets were produced by linguists over many decades. The work here is to take those published inventories, map their contrastive consonant slots onto the place × manner grid, and measure how much of Sanskrit's base each comparison set covers.
 
@@ -204,27 +204,27 @@ The contrast is visible without technical machinery:
 - Western European control: 14 of 23.
 - Central Asian control: 12 of 23.
 
-The pattern follows geography over the pyramid's family labels. The subcontinental sets cover more of Sanskrit's base. The external controls cover less. The Central Asian control, in particular, looks weak as a source-field for Sanskrit's sound architecture.
+Ultimately, the pattern firmly follows geography over the pyramid's family labels. Because the subcontinental sets comprehensively cover more of Sanskrit's base while the external controls cover significantly less, the Central Asian control, in particular, looks exceptionally weak as a plausible source-field for Sanskrit's sophisticated sound architecture.
 
-The sound-field behaves like geography rather than transported cargo. The closer the set is to the subcontinental field, the more of the Sanskrit base it covers. The farther the set moves from that field, the more the coverage falls. The numbers make the visual pattern harder to ignore.
+In this way, the sound-field behaves precisely like anchored geography rather than transported cargo. Because the closer the set is to the subcontinental field, the more of the Sanskrit base it naturally covers—and conversely, the farther the set moves from that field, the more the coverage precipitously falls—the underlying numbers make the visual pattern incredibly hard to ignore.
 
 ## 8.9 The Gaps Are Neighbors
 
 The gaps show where the engineering becomes visible.
 
-A natural sound-field gives zones. A calibrated language chooses coordinates. Sanskrit's visible act is the conversion of zones into exact sonomeric slots.
+While a natural sound-field inherently gives broad zones, a strictly calibrated language deliberately chooses exact coordinates. Therefore, Sanskrit's most visible engineering act is the methodical conversion of these loose zones into perfectly exact sonomeric slots.
 
-The southern survey makes this clearest. The missing cells are **ल**, **स**, and **श**. The field has laterals and sibilant-like material; Sanskrit places them in a particular architecture. **ल** is assigned to the dental/front-coronal line. **स** is assigned to the dental sibilant coordinate. **श** completes the palatal member of a three-sibilant system alongside **स** and **ष**.
+The southern survey makes this perfectly clear because its missing cells are specifically **ल**, **स**, and **श**. While the field naturally possesses laterals and sibilant-like material, Sanskrit deliberately places them into a highly particular architecture: **ल** is assigned directly to the dental/front-coronal line, **स** is assigned to the precise dental sibilant coordinate, and **श** completes the palatal member of an intricate three-sibilant system alongside **स** and **ष**.
 
-The forest-belt survey shows the same principle with a different selection. Its unfilled cells include **ण**, **स**, **ष**, **श**, and **ल**. The region still holds the broad architecture; Sanskrit's grid chooses a sharper distribution of nasal, lateral, and sibilant coordinates than that particular comparison set holds.
+Similarly, the forest-belt survey demonstrates the very same principle, but with a different selection. Because its unfilled cells include **ण**, **स**, **ष**, **श**, and **ल**, the region still successfully holds the broad architecture; however, Sanskrit's refined grid intentionally chooses a far sharper distribution of nasal, lateral, and sibilant coordinates than that particular comparison set naturally holds.
 
 ![Figure 8.6 — The Gaps Are Neighbors. The three southern-survey unfilled cells (ल · स · श) are Sanskrit's place-coding choices, not field absences. The southern languages occupy nearby places in the same zones — Sanskrit snaps each zone to a specific coordinate. श is not a single snap but the palatal member of Sanskrit's complete three-sibilant system (स · ष · श).](figures/superset/snap_to_grid_neighbor_cells.svg){#fig:ch8-gaps-are-neighbors width=100%}
 
-This is the snap-to-grid move. In a drawing program, a line can float anywhere. When snap-to-grid is turned on, the line lands on a defined coordinate. A CAD engineer or illustrator uses the same discipline: the field remains continuous, but the working object locks to the grid. Sanskrit does the same with sound. The mouth gives zones; the language chooses exact stations and makes them teachable, repeatable, and stable.
+This is fundamentally the snap-to-grid move. Just as a line can float anywhere in a drawing program until snap-to-grid is turned on—causing the line to land precisely on a defined coordinate—a CAD engineer or illustrator uses this exact discipline: the background field remains continuous, but the working object locks firmly to the grid. Because Sanskrit does exactly the same with sound, while the mouth naturally provides continuous zones, the engineered language deliberately chooses exact stations, thereby making them universally teachable, repeatable, and stable.
 
 This is how engineering often looks. The raw material is already present. The system regularizes it.
 
-A carpenter selects from the forest's curves. A metallurgist refines ore. An engineer selects, aligns, rejects, and regularizes. Sanskrit does the same with sound. The subcontinental sound-field is the material. The *varṇamālā* is the curated superset: selected from the field, aligned to coordinates, and disciplined as a grid.
+Just as a carpenter selects specifically from the forest's curves, a metallurgist refines raw ore, and an engineer methodically selects, aligns, rejects, and regularizes, Sanskrit does exactly the same with sound. Because the subcontinental sound-field serves as the raw material, the resulting *varṇamālā* is the carefully curated superset—deliberately selected from the field, rigorously aligned to exact coordinates, and permanently disciplined as a structural grid.
 
 The field gives the mouth. Sanskrit chooses the coordinates.
 
@@ -236,7 +236,7 @@ Sanskrit includes a complete retroflex row: **ट ठ ड ढ ण**. It also ext
 
 The field holds a retroflex band.
 
-The retroflex row requires its own test. A single borrowed retroflex might be explained away. A complete row is harder to explain. A row positioned inside a larger, symmetric sound-grid is harder still. A row preserved across regional speech-fields, recitation, grammar, and script becomes a fingerprint.
+Consequently, the retroflex row requires its own specific test. While a single borrowed retroflex might be easily explained away, a complete row is significantly harder to explain. Furthermore, because a full row positioned inside a larger, perfectly symmetric sound-grid is harder still to dismiss, a complete row preserved intact across regional speech-fields, recitation, grammar, and script ultimately becomes an unmistakable fingerprint.
 
 The migration claim has to cross that gap. A population whose sound-field lacks operative retroflexion has no natural path to engineering a language whose phonetic specification places a full retroflex row at the center of its matrix. The thesis would require an external group to arrive without the row, acquire it from local speakers, then produce the most exact phonetic architecture ever built around the row they supposedly borrowed.
 
@@ -252,7 +252,7 @@ The ten *mahāprāṇa* stops are structural additions: **ख छ ठ थ फ** 
 
 That is a different kind of engineering from place selection. Place uses the mouth: lips, teeth, tongue, palate, velar region. *Mahāprāṇa* uses breath. The system adds a vertical axis without crowding the horizontal one.
 
-This is the cleanest way to understand the 23-cell survey. The subcontinental field supplies the broad base. Sanskrit then stacks a breath-pressure layer on top of that base. The engineering creates more sonomers without adding more mouth-places. It multiplies the same five places by controlled breath.
+This is the absolute cleanest way to understand the 23-cell survey: the subcontinental field supplies the broad base, and Sanskrit then carefully stacks a breath-pressure layer directly on top of that base. Because this engineering seamlessly creates more sonomers without needing to add more physical mouth-places, it effectively multiplies the very same five places simply by utilizing controlled breath.
 
 English speakers can feel the raw gesture, even though English leaves it contextual. Say *backhand*, *blockhead*, *crackhead*. Say *pighead* or *bighead*. Say *hitchhike*, *hedgehog*, *pothole*, *foghorn*, *like hell*, *hip-hop*. Across compound boundaries and word edges, the mouth can release a stop into a strong breath gesture.
 
@@ -274,7 +274,7 @@ The comparison has mapped a field rather than searching for a single parent lang
 
 The southern set covers 20 of Sanskrit's 23 base coordinates. The forest-belt set covers 18. Western European languages cover less. Central Asian languages cover less still. The pattern is geographic and anatomical before it is genealogical.
 
-The result says something more useful than "Tamil, Toda, Kurukh, Korku, Mundari, and Ho are Sanskrit." They are parallel selections from a subcontinental sound-field broad enough to supply Sanskrit's base. Their differences also matter. Tamil keeps an alveolar distinction Sanskrit excludes. Forest-belt languages preserve glottal or checked features Sanskrit excludes. Sindhi preserves implosives Sanskrit excludes. The field is larger than Sanskrit.
+Ultimately, the result says something far more useful than merely concluding "Tamil, Toda, Kurukh, Korku, Mundari, and Ho are Sanskrit." Instead, it proves they are parallel selections drawn from a subcontinental sound-field broad enough to entirely supply Sanskrit's base. However, their differences also matter significantly: because Tamil keeps an alveolar distinction that Sanskrit excludes, forest-belt languages preserve glottal features that Sanskrit excludes, and Sindhi preserves implosives that Sanskrit excludes, we see clearly that the raw field itself is vastly larger than Sanskrit.
 
 That is exactly why the evidence for engineering becomes stronger. Sanskrit selected, regularized, timed, and preserved.
 

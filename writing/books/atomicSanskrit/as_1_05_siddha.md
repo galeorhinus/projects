@@ -18,7 +18,7 @@
 
 Part I exposed the asuric machinery designed to destroy Sanskrit, and when that failed, to obscure its radiance. Part II turns inward to describe Sanskrit's own analytical self-conception.
 
-To explain that self-conception, the English word *grammar* is wholly inadequate. The word grammar imports a script-facing bias. *Grammar* comes through Latin *grammatica* from Greek *grammatikē technē*: the art of letters. At its root stands Greek *gramma*, a letter or written mark. English inherited that history, and the word also bears the weight of a policing apparatus built to enforce proper usage.
+To explain that self-conception, the English word *grammar* is wholly inadequate because it actively imports a script-facing bias. Since *grammar* comes through Latin *grammatica* from Greek *grammatikē technē* (the art of letters), its very root is the Greek *gramma*—a letter or written mark. Consequently, because English inherited that history, the word now also bears the heavy weight of a policing apparatus built specifically to enforce proper usage.
 
 Given this history, calling Pāṇini a "grammarian" is deeply misleading. In the framework of Sanskrit and saṃskṛti, the idea of an authority policing speech is fundamentally alien. Pāṇini was never an enforcer of arbitrary standards, nor was he a technician arranging written glyphs. He was a **वैयाकरणः (*vaiyākaraṇaḥ*)**. The **वैयाकरणाः (*vaiyākaraṇāḥ*)** lineage he belonged to did not invent rules to govern behavior; they decoded the existing architecture of sound so the practitioner could preserve precision.
 
@@ -78,7 +78,7 @@ Then Patañjali places the decisive Vārttika at the opening:
 
 The epigraph uses the opening clause: **सिद्धे शब्दार्थसम्बन्धे (*siddhe śabdārthasambandhe*)**. Six syllables that hold the weight of the discipline.
 
-*Siddhe* is the locative of *siddha*: in the established, where the established holds. **शब्दार्थसम्बन्ध (*śabdārthasambandha*)** is the bond between word and meaning. The construction announces the premise from which the commentary proceeds. The pyramid’s linguistic account treats the bond as convention: produced by usage, maintained by a speech community, and altered by time. Patañjali begins from the opposite position: the bond is already established.
+Because *Siddhe* is the locative of *siddha* (meaning "in the established", or "where the established holds") and **शब्दार्थसम्बन्ध (*śabdārthasambandha*)** is the bond between word and meaning, this construction formally announces the premise from which the entire commentary proceeds. While the pyramid’s linguistic account treats this bond as mere convention—produced by usage, maintained by a speech community, and arbitrarily altered by time—Patañjali begins from the absolute opposite position: the bond is already established.
 
 The full sentence then moves in exact order. First comes the established bond. Then comes **लोकतोऽर्थप्रयुक्ते शब्दप्रयोगे (*lokato 'rthaprayukte śabdaprayoge*)** — word-usage in the world, prompted by meaning. Only after those two premises comes **शास्त्रेण धर्मनियमः (*śāstreṇa dharmaniyamaḥ*)** — regulation by *śāstra* of correct usage. Patañjali gives the order: bond first, usage second, *śāstra* third. *Śāstra* regulates usage. It does not manufacture the bond.
 
@@ -92,7 +92,7 @@ Bṛhaspati's **वाचमक्रत (*vācam akrata*)** (chapter 9) sits on
 
 The distinction holds at the level of teaching (Chapter 13 §13.5). One mind reaches correctness through preserved use; another reaches it through explicit rule. Both correct by architecture, not by institutional decree.
 
-Modern linguistics begins elsewhere. It treats the relationship between word and meaning as conventional, contingent, and historically mutable. Speech communities make the bond; later speech communities remake it. Historical linguistics studies that remaking. Patañjali begins from the refusal of that premise. The bond does not drift, has not drifted, and will not drift, because the bond is *siddha*.
+Modern linguistics begins entirely elsewhere, treating the relationship between word and meaning as conventional, contingent, and historically mutable. Because speech communities make the bond and later speech communities remake it, historical linguistics merely studies that remaking. In contrast, Patañjali begins from a total refusal of that premise: the bond does not drift, has not drifted, and will not drift, simply because the bond is already *siddha*.
 
 ## 5.3 The Choice: *Siddha* or *Kārya*
 
@@ -108,7 +108,7 @@ If the bond is *kārya*, grammar studies a moving target. Words are produced, me
 
 If the bond is *siddha*, grammar studies a structural object. Words and meanings are joined by an established relation. Rules do not summarize what speakers happen to do. They state what correctness is. Speakers who deviate have not created a new bond. They have slipped from a bond that already stood.
 
-The two models are not two theories of the same object. They define different objects. Modern historical linguistics studies *kārya*: language as ongoing production. Patañjalian grammar studies *siddha*: language as established structure. To apply *kārya* methods to a *siddha* system is to study the wrong object with the wrong tools.
+These two models are not simply two theories of the same object; rather, they define fundamentally different objects. While modern historical linguistics studies *kārya* (language as ongoing production), Patañjalian grammar studies *siddha* (language as established structure). Therefore, to apply *kārya* methods to a *siddha* system is to inevitably study the wrong object using the wrong tools.
 
 ## 5.4 The Bond Holds
 
@@ -122,7 +122,7 @@ Patañjali reaches this conclusion through the Indian method of stating the oppo
 
 The *vaiyākaraṇāḥ* do not merely record whatever speakers produce. They defend a system of established bonds against corruption. The *Aṣṭādhyāyī* is not a description of speaker habit. It is a specification of an engineered system. Deviations from the rules are not new standards. They are slips from the standard.
 
-The dogma's *codification* vocabulary fails at this point. Codification imagines drift first and order later. Patañjali gives the opposite: established bond first, grammatical defense afterward. There is no transition from disorder to order. There is order, and there are slips from order.
+The dogma's *codification* vocabulary fundamentally fails at this point because codification imagines drift first and order later. By contrast, Patañjali provides the exact opposite: an established bond first, followed by grammatical defense afterward. Therefore, there is no transition from disorder to order; there is only order, and subsequent slips from that order.
 
 Patañjali's *Mahābhāṣya*, standing over Pāṇini's *Aṣṭādhyāyī*, called the bond *siddha*. The engineering conclusion follows: grammar calibrates usage against an established architecture.
 

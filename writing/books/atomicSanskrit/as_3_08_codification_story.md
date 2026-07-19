@@ -422,13 +422,13 @@ It flatters Pāṇini by making him singular. The story praises him as the unmat
 
 It flatters the academy by giving it a familiar object. A language that drifted until codified fits the categories of historical linguistics, philology, textual chronology, and standard-language formation. The academy knows how to handle that object. It can date, compare, reconstruct, periodize, and lecture. An engineered calibrant language is a more dangerous object. It asks whether the field has been using the wrong categories for two centuries. The academy therefore keeps the familiar object and calls the unfamiliar object belief.
 
-It flatters the church of progress by protecting its linear teleology. Vedic must be earlier and less developed. Classical must be later and more regular. Pāṇini must be the improvement-point. The movement must run from archaic to refined, from fluid to fixed, from oral to grammatical, from sacred usage to technical analysis. That is the progressive story of knowledge in linguistic costume. The fact that Sanskrit's own architecture does not move that way is precisely why the architecture has to be flattened.
+It flatters the church of progress by protecting its linear teleology, which demands that Vedic be earlier and less developed, that Classical be later and more regular, and that Pāṇini be the improvement-point. Because this movement must run from archaic to refined, from fluid to fixed, and from sacred usage to technical analysis, the progressive story of knowledge requires a linguistic costume. The fact that Sanskrit's own architecture does not actually move that way is precisely why the architecture has to be flattened.
 
 It flatters the colonial inheritance by keeping Sanskrit dependent on external explanation. If Sanskrit is one branch among Indo-European languages, and if Pāṇini merely codified a late standard, then Sanskrit's deepest order does not have to be explained from inside Sanātan's own categories. The explanation can remain outside: PIE, migration, substrate borrowing, chronological stages, philological reconstruction. The Sanskrit continuum becomes data. The machinery remains interpreter.
 
 At the philological level, it protects PIE.
 
-PIE needs Sanskrit to be a descendant. It does not need Sanskrit to be a calibrant. A descendant can be compared, placed, and reconstructed backward into an ancestor. A calibrant reverses the direction of explanation. The codification story helps prevent that reversal. It says: yes, Sanskrit is magnificent, but its magnificence comes late. The Vedas are older, rougher, more natural. Pāṇini regularizes. Classical Sanskrit is the fixed product. The ancestor remains upstream.
+Because PIE needs Sanskrit to be a descendant rather than a calibrant, it relies on the codification story to prevent a reversal in the direction of explanation. While a descendant can be compared and reconstructed backward into an ancestor, a calibrant reverses this completely. Thus, the codification story insists that while Sanskrit is magnificent, its magnificence comes late and in the form of an imaginary codification: it claims the Vedas are older and rougher, Pāṇini merely regularizes them, and Classical Sanskrit is just the fixed product—ensuring that the imaginary ancestor remains safely upstream.
 
 At the deeper civilizational level, it protects the asuric pyramid.
 
@@ -440,7 +440,7 @@ The codification story attempts to hide the radiant matrix for the same reason e
 
 The story can praise Sanskrit and still conceal it because the praise is part of the concealment.
 
-Heroic erasure works because it is emotionally satisfying. The reader gets a hero. The field gets a chronology. The church of progress gets its teleology. PIE gets its descendant. The asuric machinery gets to avoid the harder conclusion: Sanskrit's order was not manufactured by the named documenter it praises. The named documenter decoded an order the machinery still refuses to see.
+Heroic erasure works because it is emotionally satisfying across the board: the reader gets a hero, the field gets a chronology, the church of progress gets its teleology, and PIE gets its descendant. Consequently, the asuric machinery gets to avoid the harder conclusion: Sanskrit's order was not manufactured by the named documenter it praises, but rather, that documenter decoded an order the machinery deliberately obscures.
 
 Once the architecture is visible, the praise has to change form.
 
@@ -481,7 +481,7 @@ Sanskrit stands before the historical record as an already engineered architectu
 
 The Vedas are the primary calibration matrix. They are not reducible to scripture. They are also the preserved corpus-form of the linguistic architecture. They hold grammar, sound, meter, derivation, and transmission in one body.
 
-The pre-Pāṇinian disciplines decode what the Vedas preserve. *Nirukta* decodes word-meaning. *Prātiśākhya* decodes phonetic specification. *Śikṣā* trains articulation. *Chandas* measures timing. *Padapāṭha* decomposes sequence. The earlier *vaiyākaraṇāḥ* Pāṇini cites are the documentary trace of a decoding lineage already operating.
+The pre-Pāṇinian disciplines actively decode exactly what the Vedas preserve: *Nirukta* decodes word-meaning, *Prātiśākhya* decodes phonetic specification, *Śikṣā* trains articulation, *Chandas* measures timing, and *Padapāṭha* decomposes sequence. Because of this, the earlier *vaiyākaraṇāḥ* that Pāṇini cites are not random antecedents; they are the documentary trace of a decoding lineage already operating at scale.
 
 Pāṇini compresses the architecture into the *Aṣṭādhyāyī*. That compression gives *bhāṣā* an accessible working calibrant. The Vedas remain the primary measure; the *Aṣṭādhyāyī* becomes the manual by which later generations can keep learned speech aligned with the measure.
 
@@ -497,7 +497,7 @@ The codification story belongs to the pyramid. The calibration model belongs to 
 
 ## 8.18 Verdict
 
-The story that Pāṇini codified Sanskrit is not a neutral summary. It is the pyramid's bridge between two needs. The pyramid needs Sanskrit to be natural enough for PIE. It needs Pāṇini to be brilliant enough to explain the grammar. The bridge solves both problems by miscasting Pāṇini as the codifier of a late standard.
+The story that Pāṇini codified Sanskrit is not a neutral summary, but rather the pyramid's bridge between two conflicting needs. Because the pyramid needs Sanskrit to be natural enough for PIE while simultaneously needing Pāṇini to be brilliant enough to explain the grammar, the bridge neatly solves both problems by miscasting Pāṇini as the codifier of a late standard.
 
 The bridge collapses.
 

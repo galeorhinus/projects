@@ -20,19 +20,17 @@
 
 \bigskip
 
-The shadow is cast here.
-
-At the opening of Part I, the pyramid still stands whole. The first three obstructions are targeted: Sanskrit made to look descended from PIE, botanical like plant-organs and stems, and codified only after Pāṇini. These are the first acts of category theft.
+At the opening of Part I, the pyramid still stands whole. The first three obstructions are targeted: Sanskrit is subordinated to PIE, forced into a botanical vocabulary of plant-organs and stems, and presented as a language supposedly “codified” by Pāṇini. These are the first acts of category theft.
 
 ![Figure E.5 — How the Shadow Is Cast. Three Plates: Descended, Botanical, and Codified are targeted while the full eclipse remains in place.](figures/eclipse_spine/eclipse_10_part01_shadow_cast_targets_1_2_3.svg){#fig:eclipse-part01-shadow-cast width=100%}
 
-The Sun is Sanskrit: the architecture of सनातन संस्कृति (*sanātana saṃskṛti*), the engineered order. Distributed, measured, preserved, and self-calibrated, it holds speech, memory, and civilization without apex command. It does not descend. It does not drift. It does not decay. It is the light the world was trained not to see.
+The Sun is Sanskrit: the engineered order of सनातन संस्कृति (*sanātana saṃskṛti*). Because this architecture is distributed, measured, and self-calibrated, it holds civilization together without an apex command. Consequently, it neither descends, drifts, nor decays—making it the exact light the world was trained not to see.
 
 What darkens it is the asuric pyramid: the वैकृतिक (*vaikṛtika*) fractal, a top-down order that repeats itself at every level of its hierarchy. Threatened by distributed order, it corrupts networks into hierarchies, freezes living architecture into dead doctrine, and withholds knowledge to keep others in darkness. The oldest record calls the eclipse स्वर्भानु (*Svarbhānu*) — and his name holds the very *svar*, the light, he sets out to swallow.[NOTE: svarbhanu-svar-etymology] The Sun is darkened, not destroyed.
 
 The shadow is cast by category theft: theft by misclassification, inversion by metaphor, subordination by genealogy, concealment by doctrine.
 
-What it darkens is the Sanskrit continuum — the civilization subjected to a false description of its own language. The injury is deeper than misdescription. The pyramid sustained, and sustains, a systematic effort to convince a civilization that its own understanding of reality is a mass delusion. Chapter 17 enters one instrument of that tactic into the record under its proper name: *gaslighting with footnotes*.
+What it darkens is the Sanskrit continuum — the civilization subjected to a false description of its own language. The injury is deeper than misdescription. The pyramid sustained, and sustains, a systematic effort to convince a civilization that its own understanding of reality is a mass delusion. Chapter 17 calls out one instrument of that tactic under its proper name: *gaslighting with footnotes*.
 
 The pyramid split the category. Before Pāṇini (पाणिनि), it made Sanskrit answer as **प्रकृति (*prakṛti*)**: natural growth, drift, descent, plant-organs, branches, daughters. After Pāṇini, it made Sanskrit answer as codification: grammar, authority, freezing, standardization. Both moves hide the same truth: **Sanskrit is संस्कृति (*saṃskṛti*)** — created order, calibrated architecture, disciplined recurrence.
 

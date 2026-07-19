@@ -68,7 +68,7 @@ Most consonants are controlled bursts — which is why the tabla analogy works. 
 
 A vowel is what air does when the vocal tract remains open.
 
-The vocal cords vibrate. Air passes through a shaped cavity. The sound sustains as long as the speaker holds the shape. No closure. No burst. No release. A vowel is a standing resonance.
+While the vocal cords vibrate and air passes through a shaped cavity, the sound sustains as long as the speaker holds that shape. Because there is no closure, no burst, and no release, a vowel is fundamentally a standing resonance.
 
 Three parameters do most of the work: tongue height, tongue advancement, and lip rounding. High front unrounded gives the *ee* of *see*. High back rounded gives the *oo* of *moon*. Low open position gives the *ah* of *father*. Nasalization couples the nasal cavity. Length controls duration; Sanskrit makes that duration countable through **मात्रा (*mātrā*)**, the measure of how long a sound occupies speech-time.[NOTE: hrasva-dirgha-pluta-matra] Tone adds pitch contour.
 
@@ -78,7 +78,7 @@ The bansuri gives the clearest analogy: breath through a shaped resonant tube, w
 
 The sitar sits between the two. Each pluck is a discrete attack — like a consonant event. The string then sustains and decays — like a vowel. Speech alternates between attacks and sustains the same way.
 
-Consonants are events. Vowels are sustained tones. Speech alternates between attack and resonance.
+Because consonants are discrete events and vowels are sustained tones, human speech constantly alternates between attack and resonance.
 
 ## 7.5 Every Language Is a Selection
 
@@ -106,13 +106,13 @@ The same Indic classificatory discipline that named constructed instruments — 
 
 ![Figure 7.3 — The Vocal Apparatus in Sanskrit. The same instrument described through Sanskrit's operating categories: *sthāna*, *prāṇa*, *ghoṣa*, and *anunāsika*.](figures/adivadya/vocal_apparatus_sanskrit.svg){#fig:adivadya-vocal-apparatus-sanskrit width=100%}
 
-The Sanskrit account begins with **स्थान (*sthāna*)** — place. Each *sthāna* name derives from the anatomy by a single pattern. The lip, *oṣṭha* (ओष्ठ), gives **ओष्ठ्य (*oṣṭhya*)** — of the lips. The tooth, *danta* (दन्त), gives **दन्त्य (*dantya*)** — of the teeth. The crown of the palate, *mūrdhan* (मूर्धन्, *head*), gives **मूर्धन्य (*mūrdhanya*)** — of the crown. The palate, *tālu* (तालु), gives **तालव्य (*tālavya*)** — of the palate. The throat, *kaṇṭha* (कण्ठ), gives **कण्ठ्य (*kaṇṭhya*)** — of the throat. Five places named from anatomy by one derivational pattern.
+The Sanskrit account begins with **स्थान (*sthāna*)**—place—where each *sthāna* name derives from the anatomy via a single, consistent pattern. The lip, *oṣṭha* (ओष्ठ), gives **ओष्ठ्य (*oṣṭhya*)** (of the lips); the tooth, *danta* (दन्त), gives **दन्त्य (*dantya*)** (of the teeth); the crown of the palate, *mūrdhan* (मूर्धन्, *head*), gives **मूर्धन्य (*mūrdhanya*)** (of the crown); the palate, *tālu* (तालु), gives **तालव्य (*tālavya*)** (of the palate); and the throat, *kaṇṭha* (कण्ठ), gives **कण्ठ्य (*kaṇṭhya*)** (of the throat). Ultimately, these are five precise places named from anatomy by exactly one derivational pattern.
 
 The five named *sthāna* are a specific selection from the possible places of contact. The interdental position between the upper and lower teeth, where the English *th* is made, sits between *oṣṭhya* and *dantya* and receives no separate Sanskrit station. The deep pharyngeal region where the Arabic ع and ح are made sits behind *kaṇṭhya* and remains outside the system. The question now passes to the subcontinental sound-field: are those five places already active before Sanskrit makes them exact?[NOTE: place-of-articulation-sanskrit-terms]
 
 Alongside *sthāna* is **करण (*karaṇa*)** — the active articulator, the part that moves to make contact. The tongue is the principal *karaṇa*; the lower lip is the *karaṇa* for labial sounds. *Sthāna* is where contact occurs. *Karaṇa* is what moves to make it.[NOTE: karana-active-articulator]
 
-Three further systems complete the sound, each acting as a binary switch. **प्राण (*prāṇa*)** manages the breath-pressure from the lungs, toggling between light (*alpaprāṇa*) and heavy (*mahāprāṇa*). **घोष (*ghoṣa*)** controls the vocal cords, leaving them silent (*aghoṣa*) or vibrating (*ghoṣa*). Finally, **अनुनासिक (*anunāsika*)** manages nasal coupling, dropping the soft palate to open the nasal cavity or raising it to close it.
+Three further systems complete the sound, with each acting as a precise binary switch. **प्राण (*prāṇa*)** manages the breath-pressure from the lungs, toggling between light (*alpaprāṇa*) and heavy (*mahāprāṇa*); **घोष (*ghoṣa*)** controls the vocal cords, leaving them silent (*aghoṣa*) or vibrating (*ghoṣa*); and finally, **अनुनासिक (*anunāsika*)** manages nasal coupling, dropping the soft palate to open the nasal cavity or raising it to close it.
 
 Each term designates a physical operation. The vocabulary maps directly onto physiology.
 
@@ -148,7 +148,7 @@ The full classification runs on multiple axes. It measures exactly where the sou
 
 Consider the sound **घ (*gh*)** that is placed in the throat (*kaṇṭhya*). The root of the tongue moves to strike it (*karaṇa*). The vocal cords are buzzing (*ghoṣa*), and a heavy push of breath drives it (*mahāprāṇa*). The nose remains sealed during all of this.
 
-Flip just one switch, and the output changes. Turn off the voicing, and *gh* becomes *kh*. Turn down the breath, and it becomes *g*. Open the nose, and it becomes *ṅ*. Every sound sits at its own specific address. The *varṇamālā* is the map of all those addresses.
+Because flipping just one switch instantly changes the output, turning off the voicing makes *gh* become *kh*, turning down the breath makes it become *g*, and opening the nose makes it become *ṅ*. Therefore, since every sound sits at its own specific, engineered address, the *varṇamālā* serves as the comprehensive map of all those addresses.
 
 Modern phonetics breaks down speech using its own labels: place, manner, voicing, aspiration, nasalization, and duration. The goal is to analyze the sounds that already exist in a language. Sanskrit maps the phonetic grid using *sthāna*, *karaṇa*, *prayatna*, *prāṇa*, *ghoṣa*, *anunāsika*, *anupradāna*, and *mātrā*. But Sanskrit's purpose is different. It is not merely engaged in anatomical analysis of what the mouth happens to do. It is describing the structural architecture that was engineered for the language.
 

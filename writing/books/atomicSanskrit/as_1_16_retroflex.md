@@ -130,9 +130,9 @@ The revised notice introduced the Aryan — an improved secular instrument: meas
 
 The next notice preferred migration. Movement replaced conquest. Language spread replaced domination. Cultural transmission replaced rule. *Correction: the management regrets the invasion tone. Replace with elite dominance, language shift, cultural transmission, mobility* — phrases that sound softer while doing the same work. The date may now breathe (2000–1500; 1700–1300). Always adjustable. Never released. **The northwest remains. The pastoral carrier remains. The horse remains close enough to the argument. Sanskrit remains something brought into India.**
 
-The latest notice is careful. The story is now steppe ancestry, mobile pastoralists, Indo-Iranian corridors, contact zones, substrate effects. **The date is no longer a date. It is a window. The window is no longer a claim. It is a model. The model is no longer a dogma. It is a consensus.** But the window still opens from outside India; the pastoralists still move inward; **Sanskrit still arrives with a custody tag already tied around its neck.**
+Forced to be careful, the latest notice shifts the story to steppe ancestry, mobile pastoralists, Indo-Iranian corridors, contact zones, and substrate effects. Consequently, the date becomes a window, the claim becomes a model, and the dogma becomes a consensus. Yet the window still securely opens from outside India and the pastoralists continue moving inward, ensuring that Sanskrit inevitably arrives with a custody tag already tied around its neck.
 
-The pyramid keeps changing the story but never loosens the custody tag. Each correction drops the last embarrassment — Noah, the skull, the invasion — and guards the one claim it will not give up: Sanskrit came from outside. Two centuries of walking it back have turned the retreat into the joke.
+While the pyramid keeps changing the story, it never loosens the custody tag. By dropping the last embarrassment—Noah, the skull, the invasion—each subsequent correction guards the single claim it will not surrender: that Sanskrit came from outside. Ultimately, two centuries of continuously walking the narrative back have made the retreat itself the defining feature of the argument.
 
 A much simpler explanation needs none of it. 
 
@@ -146,7 +146,7 @@ The subcontinent supplies the cluster densely rather than through one witness al
 
 The borrowing story performs the same maneuver each time. First it removes Sanskrit from the field. Then it returns the field's features as later acquisitions: retroflexion as substrate borrowing, the gerund or absolutive as areal feature, receiver grammar as local contact, doer-demotion as passive-like areal habit.[NOTE: borrowing-model-substrate-areal-claims] Each feature is allowed to be Indian only after Sanskrit has been made non-Indian in origin.
 
-The receiver grammar from §16.3 is the inner test. Tamil, Telugu, Korku, and Mundari let hunger, knowing, perception, and inward states arrive to a person. The Veda does the same work through forms such as *asmai*, *naḥ*, *mahyam*, and *tvasmai*. The imagined carrier route now has to explain how an external language arrived already able to encode that mind, or how the Vedic corpus was later reworked to hold it.
+The receiver grammar detailed in §16.3—where the self functions as the *sampradāna* (the locus where an experience arrives) rather than an active doer—provides the sharpest test against this maneuver. By demonstrating that while Tamil, Telugu, Korku, and Mundari let hunger, knowing, perception, and inward states arrive to a person, the Veda performs exactly the same work through forms such as *asmai*, *naḥ*, *mahyam*, and *tvasmai*, the structure itself demands an answer. The imagined carrier route must therefore explain how an external language arrived already able to encode that specific mind, or how the massive Vedic corpus was later systematically reworked to hold it.
 
 The custody trick stands exposed. The pyramid grants the subcontinent its fragments while denying the field its architecture.
 
@@ -156,7 +156,7 @@ Now set the two fields side by side. The claimed source — Avestan and Old Iran
 
 The corpus presses from another side. Contact can move habits through a speech community; the burden changes when the portability story has to alter a preserved corpus whose purpose is exact recurrence. If Sanskrit arrived without the field's features and acquired them by contact, then the Vedic corpus has to be silently reworked after each contact event: retroflex, reduplication, receiver grammar, absolutive.
 
-Each acquired feature demands a return to the workshop. The hymns must receive the curled tongue. The mantras must receive the doubled syllable. The receiver must enter the case-system. The folded action must enter the sentence. The pyramid then asks a preservation culture to behave like an absent-minded editing office.
+Acquiring these features would demand a continuous return to the workshop, requiring the hymns to receive the curled tongue, the mantras to receive the doubled syllable, the receiver to enter the case-system, and the folded action to enter the sentence. The pyramid's hypothesis therefore asks an engineered preservation culture to behave like an absent-minded editing office.
 
 Inside the pyramid's own clock, the problem sharpens. The text it treats as its first major witness already opens with *agnimīḷe*: the curled tongue at the threshold, the Vedic corpus entering through the mouth-field. By this point the receiver matrix and folded-action pattern are standing inside the corpus as well. The witness the pyramid needs as clean evidence of external arrival is already saturated with the subcontinental mouth and mind.
 
@@ -172,7 +172,7 @@ The branch evidence sharpens the category further. A शाखा (*śākhā*) i
 
 Contact can move forms; engineering assigns place, role, and scale.
 
-Retroflexion enters by place: *agnimīḷe* makes the mouth curl at the Veda's threshold, and ⟪ऋ⟫ (*ṛ*) links the *mūrdhanya* site to the *Dhātupāṭha* and the name *Ṛgveda*. Reduplication enters by concision: *dadarśa*, *dadāti*, and *bibharti* make a field habit of doubling into a disciplined syllabic switch. Receiver grammar enters through forms such as *asmai*, *mahyam*, and *tvasmai*. The doer steps back through *karmaṇi* and *bhāve*. Action chaining enters through forms such as *pītvā* and *hatvā*. Pāṇini later documents the operations as *abhyāsa*, *sampradāna*, *karmaṇi*, *bhāve*, *ktvā*, and *lyap*.
+Retroflexion anchors by place: *agnimīḷe* makes the mouth curl at the Veda's threshold, and ⟪ऋ⟫ (*ṛ*) links the *mūrdhanya* site to the *Dhātupāṭha* and the name *Ṛgveda*. Reduplication operates by concision: *dadarśa*, *dadāti*, and *bibharti* make a field habit of doubling into a disciplined syllabic switch. The concept of the receiver—the one to whom an action is directed—surfaces through forms such as *asmai*, *mahyam*, and *tvasmai*. The doer steps back through *karmaṇi* and *bhāve*. Action chaining is executed through forms such as *pītvā* and *hatvā*. Pāṇini later documents the operations as *abhyāsa*, *sampradāna*, *karmaṇi*, *bhāve*, *ktvā*, and *lyap*.
 
 The same pattern repeats across the cluster. A borrowed feature can sit at the surface, accrete in marginal positions, or remain a local habit. Sanskrit takes these field-patterns into the grammar that holds the system. The curled mouth becomes a sound-grid. Repetition becomes *dadarśa* and *dadāti*. Experience moves through *mahyam* and *tvasmai*. The doer steps aside in *paṭhyate*. Sequence becomes *pītvā* and *hatvā*.
 
@@ -180,7 +180,7 @@ Sanskrit is built from the subcontinental field, and then preserves that field i
 
 ## 16.11 What the Grammar Keeps
 
-*Īḷe* curls the tongue to the dome. *Dadarśa* turns repetition into a disciplined syllabic switch. *Mahyam* and *tvasmai* let grace and revelation arrive at a receiver. *Paṭhyate* lets the deed stand and the doer step back. *Pītvā* lets one action pass into the next. The tongue curls, the sound doubles, the self receives, the doer recedes, and the act folds.
+Through *īḷe* curling the tongue to the dome and *dadarśa* turning repetition into a disciplined syllabic switch, the subcontinental field is explicitly made audible. As *mahyam* and *tvasmai* let grace and revelation arrive at a receiver, *paṭhyate* lets the deed stand while the doer steps back, and *pītvā* lets one action pass into the next, the entire architecture structurally aligns: the tongue curls, the sound doubles, the self receives, the doer recedes, and the act folds.
 
 Śruti holds the same refusal to crown the ego. Knowledge discloses itself rather than yielding to a seizer — Vāk reveals her body to the prepared (*tanvaṃ vi sasre*, RV 10.71.4), and the Self reveals its own form to the one it chooses, never won by discourse or intellect or much hearing (*vivṛṇute tanūṃ svām*, Kaṭha Upaniṣad 1.2.23 / Muṇḍaka 3.2.3). The apparatus that would seize is itself demoted: in the Kaṭha chariot (1.3.3–4) the body is the chariot, the senses the horses, the mind the reins, the intellect the charioteer — instruments all, while the Self rides as lord, not as any one of them.[NOTE: nimitta-chariot]
 

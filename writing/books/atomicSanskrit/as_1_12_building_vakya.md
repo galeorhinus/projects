@@ -133,7 +133,7 @@ Now keep the head-bond the same and change the tail-bond. The **sam-** field giv
 
 The head-bond places the atom in the *sam-* field. The tail-bond decides whether the molecule designates the state, the act, or the result. The difference is grammatical and semantic. *Saṃskṛti* and *saṃskāra* remain related through their shared atom and head-bond, while remaining distinct because their tail-bonds differ.
 
-*Pratyayāḥ* behave as valence-shell stabilizers. They complete the outer shell of the molecule. Once the tail-bond closes, the molecule can take a role in a sentence.
+Because *pratyayāḥ* actively behave as valence-shell stabilizers by fully completing the outer shell of the molecule, it is only once this tail-bond securely closes that the molecule can finally take on a definitive role in a sentence.
 
 The tail-bond gives the atom a job.
 
@@ -152,7 +152,7 @@ The blanks are intentional. They flag unused cells. The test is recoverability, 
 | वि (*vi-*) | विकृति (*vikṛti*) | विकार (*vikāra*) | — | — | — |
 | सम् (*sam-*) | संस्कृति (*saṃskṛti*) | संस्कार (*saṃskāra*) | — | — | — |
 
-Read the table procedurally. Down the rows, the head-bond changes the field: none, *pra-*, *vi-*, *sam-*. Across the columns, the tail-bond changes the molecule's class: state-name, act-name, obligation, deed, agent. At every filled cell, the *kṛ* atom remains the center.
+By reading the table procedurally—where moving down the rows changes the head-bond's field (none, *pra-*, *vi-*, *sam-*) while moving across the columns changes the tail-bond's molecule class (state-name, act-name, obligation, deed, agent)—it becomes immediately clear that at every filled cell, the highly stable *kṛ* atom remains the absolute center.
 
 This is molecular construction.
 
@@ -178,7 +178,7 @@ Returning to the epigraph line:
 
 The line contains a compact sentence assembly. In **ऋचा (*ṛcā*)**, the **-ā** signals the instrumental relation: *by the ṛc*, *with the ṛc*, *through the ṛc*. The relation is held inside the *padam*.
 
-The same is true of **किम् (*kim*)**, **तत् (*tat*)**, and **यः (*yaḥ*)**. Each form has entered sentence use with its role held by form. The parts hold their own relational signatures.
+Because the exact same principle is true of **किम् (*kim*)**, **तत् (*tat*)**, and **यः (*yaḥ*)**, each specific form explicitly enters sentence use with its role already securely held by its own internal form, ensuring that the parts independently hold their own relational signatures.
 
 Sanskrit can support freer word order while remaining clear because the relations are encoded in the *padāni*. The order of words can serve emphasis, meter, sound, and poetic architecture without losing the sentence's bonds.
 
@@ -218,7 +218,7 @@ By the time the *vākya* is formed, every level beneath it is still recoverable,
 
 The sentence is the larger assembly, yet the smaller engineering remains visible inside it.
 
-That is the answer at assembly scale. The *dhātuḥ* displayed atomic recoverability. The *vākya* displays assembly-scale recoverability. Sanskrit builds upward without losing the levels underneath. Formed Speech keeps her lower levels visible: sonomers, atoms, molecules, bonds, and roles remain traceable inside the assembly.
+This provides the definitive answer at the assembly scale: just as the *dhātuḥ* consistently displayed strict atomic recoverability, the *vākya* clearly displays full assembly-scale recoverability. Because Sanskrit aggressively builds upward without ever losing the architectural levels underneath, Formed Speech rigorously keeps her lower levels fully visible, ensuring that sonomers, atoms, molecules, bonds, and roles all remain perfectly traceable inside the final assembly.
 
 ![Figure 12.8 — Full sonomeric sentence experiment: यस्तन्न वेद किमृचा करिष्यति.](figures/building_vakya/sentence_full_hex.svg){#fig:building-vakya-sentence-full-hex width=100%}
 
@@ -263,7 +263,7 @@ The category-theft charge has already reclaimed *dhātuḥ* from the botanical s
 
 The transformation from *śabda* to *apaśabda* has two names. ***Apabhraṃśa*** is Sanskrit's name — the falling-away, the slip from the engineered form, the term Patañjali deploys for what the *vaiyākaraṇaḥ* must defend against. **Vivimorphosis** is the English coining for the same event viewed from the inverse angle: the engineered molecule acquiring organic behavior. *Apabhraṃśa* foregrounds the structural loss, while *vivimorphosis* foregrounds the organic gain. They trace the same arrow from opposite ends of the calibrant boundary.
 
-Petrification turns a living tree into stone. The form is preserved across geological time, but the life is gone. **Vivimorphosis is the inverse.** The engineered *śabda*, preserved for as long as the calibrant architecture holds it, crosses into a contact language and acquires organic behavior. It has descendants of its own in the receiving language. It can mutate. It can die.
+While petrification turns a living tree into stone—preserving the outer form across geological time while entirely stripping away the life—**vivimorphosis acts as the precise inverse.** Because the engineered *śabda* is rigorously preserved only for as long as the calibrant architecture deliberately holds it, the moment it crosses into a contact language, it immediately acquires organic behavior, rapidly developing its own descendants, mutating uncontrollably, and eventually dying within that receiving language.
 
 The cost of organic behavior is mortality. The cost of engineered permanence is the absence of ordinary drift. Inside Sanskrit, the form remains engineered. In contact languages, what Sanskrit engineered can become productive in a new ecology.
 

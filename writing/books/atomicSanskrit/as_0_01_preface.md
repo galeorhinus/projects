@@ -32,7 +32,7 @@ The eclipse does not make Sanskrit vanish. Sanskrit has remained visible, audibl
 
 A civilization can continue reciting, teaching, parsing, and preserving the Sun, yet hesitate before its own categories because the field around them has been darkened — and that civilizational self-doubt is the deeper injury. The hesitation is not organic humility. It is the effect of an eclipse.
 
-A wiser age would not need this book. It would look at Sanskrit and *see* the architecture. It would listen to the Vedas and *hear* the engineering. It would see that the differences between the Vedic and worldly domains are part of that engineering. The argument has to be made because the present age has been trained to see *neither*. Its redundancy is deliberate: a field-blind age has become **मुग्ध (*mugdha*)**, bewildered before what remains present. The book repeats the point because confusion that has hardened into civilizational self-doubt can only be cleared with repetition.
+A wiser age would not need this book because it would simply look at Sanskrit and *see* the architecture, and listen to the Vedas and *hear* the engineering—immediately recognizing that the differences between the Vedic and worldly domains are an intentional part of that engineering. However, the argument has to be made because the present age has been trained to see *neither*. This deliberate redundancy is necessary: because a field-blind age has become **मुग्ध (*mugdha*)**—bewildered before what remains present—the book must repeat its points, knowing that confusion hardened into civilizational self-doubt can only be cleared through repetition.
 
 The clearing begins later — shadow by shadow, plate by plate, until the field is a little brighter again. These pages say only what was darkened, what was placed in front of the Sun, and what changes when Sanskrit's true radiance can be seen again.
 
@@ -79,7 +79,7 @@ A civilization oriented to the unbounded does not make chronology the judge of t
 
 The pyramid needs the unbounded forced into a finite clock. Once it owns the clock, it can call one layer early, another late, one primitive, another developed, one original, another borrowed. It can turn domain into period, mode into stage, architecture into evolution, and calibration into late correction. For Indic depth, the practice is *thousands of years*, with no counter-chronology manufactured merely to occupy the same battlefield.[NOTE: chronology-asymmetry-rationale]
 
-The pyramid uses chronology to commit category theft. It turns Sanskrit's internal distinctions into a timeline: domain becomes period, mode becomes stage, and Pāṇini becomes the codifier, the hinge between *"Vedic"* drift and *"Classical"* codification. Chronology can sequence evidence, but it cannot decide the category of Sanskrit.
+The pyramid uses chronology to commit category theft by turning Sanskrit's internal distinctions into a linear timeline: domain becomes period, mode becomes stage, and Pāṇini is recast as the codifier—the artificial hinge between alleged *"Vedic"* drift and *"Classical"* codification. Although chronology can sequence evidence, it fundamentally cannot decide the structural category of Sanskrit.
 
 When Sanskrit's light shines again as calibrated architecture, the hunger for the pyramid's calendar may itself fade. The point is not to win a pointless date-contest. The point is to make the architecture visible so chronology becomes servant, not sovereign.
 
@@ -91,7 +91,7 @@ Modern Indian advocates have maintained this position under active institutional
 
 The architectural route follows Sanskrit across scale: *varṇa* as sonomer, *akṣara* as audiograph, *dhātuḥ* as atom, *śabda* as molecule, *upasarga* and *pratyaya* as bonding chemistry, and sentence as assembly. The *Vedas* are the corpus the architecture preserves; Pāṇini's *Aṣṭādhyāyī* is the finest surviving *sūtra*-level documentation of that architecture; the Vedic recitation systems are preservation machinery rather than cultural ornament.[NOTE: patanjali-siddhe-shabdarthasambandhe][NOTE: eleven-pathas]
 
-The origin of Sanskrit is not the domain here. **अपौरुषेय (*apauruṣeya*)** is the answer preserved by the lineage-chain; Chapter 17 §17.7 offers an honest speculation for the rationalist mind that cannot accept it. The observable claim is narrower: Sanskrit's engineering is on the page and in the mouth. The Vedas preserve it. The decoding lineages unfold it. Pāṇini's unfolding is the finest surviving document of that work.
+The origin of Sanskrit is not the primary domain here (though **अपौरुषेय (*apauruṣeya*)** remains the answer preserved by the lineage-chain, and Chapter 17 §17.7 offers an honest speculation for the rationalist mind that cannot accept it). The observable claim is much narrower: Sanskrit's engineering exists on the page and in the mouth. Because the Vedas preserve it and the decoding lineages unfold it, Pāṇini's unfolding is simply the finest surviving document of that continuous work.
 
 Sanskrit seen as calibrant architecture restores the field that the eclipse darkened.
 

@@ -28,7 +28,7 @@ The pyramid made *saṃskṛti* answer as *prakṛti*. It took an engineered arc
 
 The world is taught to recognize only two categories of language.
 
-The first is natural speech: ***प्रकृति (*prakṛti*)***. Natural speech grows through use, contact, memory, habit, drift, and local life. It branches, shifts, borrows, erodes, regularizes, and splits. This is language as nature.
+The first category is natural speech: ***प्रकृति (*prakṛti*)***, which behaves organically—growing through use, contact, and local habit. Because it acts like a natural organism, it inevitably branches, borrows, and erodes as it drifts through time.
 
 The second is the codified standard: a selected form stabilized by grammar, school, academy, court, priesthood, state, dictionary, or textbook. The pyramidal frame prefers this category because every case gives it an authority to point to: the Académie française for French, the Real Academia Española for Spanish, the Accademia della Crusca for Italian, church canon for ecclesiastical Latin, the Uthmanic codex and *qirā'āt* authorities for Quranic Arabic, the Masoretic schools for Hebrew. A standard is set. An authority guards it. Correctness descends.
 
@@ -64,7 +64,7 @@ The familiar acronyms AIT and AMT hide this first move by arguing over mechanism
 
 **Seventh, and most consequential outside the academy.** The account reaches ordinary readers as the two-versions claim: ***Vedic Sanskrit and Classical Sanskrit are two different languages***. Vedic is the older natural language. Classical is the later Pāṇinian codification. Pāṇini stands at the boundary; two languages stand on either side. This is the sentence the reader most likely arrives with.
 
-Drift before Pāṇini. Freeze after Pāṇini. Nature on one side, codification on the other. The continuous architecture disappears between them.
+By assigning linguistic drift to the period before Pāṇini and an absolute freeze to the period after him, the pyramid places nature on one side and codification on the other. This false dichotomy ensures that the continuous, self-calibrating architecture disappears entirely between the two extremes.
 
 Each move is false, move by move:
 

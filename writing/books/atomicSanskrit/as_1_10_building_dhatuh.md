@@ -35,7 +35,7 @@ Sanskrit already holds a design specification for compact engineered form. The e
 
 Together, these six characteristics produce **सूत्रलाघवम् (*sūtra-lāghavam*)**: engineered brevity. The form is short, but the structure it holds is large. The *sūtra* is compact, clear, meaningful, wide-facing, economical, and stable.
 
-A *sūtra* is known to be made. A mind compressed it, removed excess, protected clarity, packed meaning into it, made it usable across contexts, and left it stable enough for the lineage to hold.
+Because a *sūtra* is universally known to be engineered, a highly disciplined mind deliberately compressed it, removed all excess, strictly protected its clarity, packed immense meaning into it, made it highly usable across contexts, and ultimately left it stable enough for the lineage to securely hold.
 
 The same question now descends one scale lower. If the *dhātuḥ* displays the same defining characteristics as the *sūtra*, Sanskrit's architecture is not merely engineered at one level. The same design recurs across scale.
 
@@ -63,7 +63,7 @@ In Chapter 2, the category-theft charge prosecuted the botanical metaphor and re
 
 The metaphor is physical, not biological. Across Indic sciences, *dhātuḥ* denotes the constituent that holds: in *Loha-śāstra* (लोहशास्त्र), the metal that survives extraction; in *Rasaśāstra* (रसशास्त्र) and *Rasāyana-śāstra* (रसायनशास्त्र), the reactive constituent in synthesis; in *Āyurveda* (आयुर्वेद), the structural tissue from which the body is built.[NOTE: rasashastra-chemistry-anticipation][NOTE: saptadhatu-standard] Furnace, laboratory, body, sentence: the same architectural word. The grammatical *dhātuḥ* belongs in that family. *Dhātuḥ* survives the botanical demotion; the discipline that accepts the demotion loses access to what the term denotes.
 
-The *Dhātupāṭha* (धातुपाठ) is the inventory of semantic atoms. The working inventory here is **2,168 *dhātavaḥ*** from that source.[NOTE: dhatupatha-count-and-ganas] The examples can now be plain: **⟪कृ⟫ (*kṛ*)**, to do or make; **⟪गम्⟫ (*gam*)**, to go; **⟪भू⟫ (*bhū*)**, to be or become; **⟪दृश्⟫ (*dṛś*)**, to see; **⟪ज्ञा⟫ (*jñā*)**, to know. These are not words. They are the atoms from which words are assembled.
+The *Dhātupāṭha* (धातुपाठ) is the inventory of semantic atoms. The working inventory here is **2,168 *dhātavaḥ*** from that source.[NOTE: dhatupatha-count-and-ganas] The examples can now be completely plain: **⟪कृ⟫ (*kṛ*)**, to do or make; **⟪गम्⟫ (*gam*)**, to go; **⟪भू⟫ (*bhū*)**, to be or become; **⟪दृश्⟫ (*dṛś*)**, to see; **⟪ज्ञा⟫ (*jñā*)**, to know. Crucially, these are explicitly not words; rather, they are the foundational semantic atoms from which all words are later assembled.
 
 Comparative perspective sharpens the category: Semitic languages hold consonantal semantic bases, and Tamil grammar recognizes verbal bases.[NOTE: dhatu-cross-linguistic-analogues] What distinguishes the Sanskrit *dhātuḥ* is the full architecture around it: sonomeric inventory, timing, scaffold, bonding, and rule-system.
 
@@ -93,13 +93,13 @@ The *varṇamālā* gives Sanskrit two kinds of sonomers. They do different work
 
 **स्वराः (*svarāḥ*) are nuclei.** The word encodes the structural fact: a *svaraḥ* shines by itself. A vowel can stand alone as a syllable. आ, ई, ऊ — each is pronounceable without help. The vowel holds acoustic center, timing, and syllabic identity. Remove the consonants and the vowel remains. Remove the vowel and the consonant collapses into an unutterable glyph.
 
-That is what a nucleus does in the atomic metaphor. It holds identity. It anchors the structure. It is stable and central.
+This is precisely what a nucleus does within the atomic metaphor: because it securely holds identity and anchors the entire structure, it remains perfectly stable and central.
 
 **व्यञ्जनानि (*vyañjanāni*) are electrons.** A consonant manifests the vowel. क, ख, ग, घ, ङ differ not because the vowel changes — the inherent अ remains — but because each consonant gives the vowel a different sonic surface. The consonant reveals, sharpens, colors, and positions the vowel.
 
 A consonant cannot stand alone as a stable spoken unit. The script tells the truth: क is pronounceable as *ka* because it holds inherent अ. Strip the vowel and क् becomes a suspended consonant, a sign waiting for a host.
 
-That is electron behavior. Electrons do not hold the atom's identity the way the nucleus does, but they make bonding possible. They are mobile, peripheral, and chemically decisive.
+This exhibits classic electron behavior: while electrons do not hold the atom's core identity the way the nucleus does, they actively make bonding possible precisely because they are mobile, peripheral, and chemically decisive.
 
 The Sanskrit system then calls the stable result **अक्षरम् (*akṣaram*)** — the imperishable. A *svaraḥ* can stand alone, or one or more *vyañjanāni* can bond around it into a stable sound-unit, and the script captures that unit as an audiograph. The *akṣaram* is the stable sound-bond made visible.
 
@@ -114,7 +114,7 @@ The atom is therefore not only spatially assembled. It is temporally measured.
 
 At atomic scale, the same timing shorthand applies: **C** is the consonantal event, **V1** is the short-vowel nucleus, and **V2** is the long-vowel nucleus. The notation is not typographic. It is temporal.
 
-That means a *dhātuḥ* is not merely a sequence of sounds. It is a measured construction. ⟪कृ⟫ is C + V1. ⟪गम्⟫ is C + V1 + C. ⟪भू⟫ is C + V2. The timing is inside the label.
+That means a *dhātuḥ* is never merely a sequence of sounds, but rather a strictly measured construction: while ⟪कृ⟫ is C + V1 and ⟪गम्⟫ is C + V1 + C, ⟪भू⟫ is C + V2, constantly demonstrating that the precise timing is engineered directly inside the label.
 
 The hexagon visualization holds the measure. Consonant slots are narrow, short-vowel slots are medium, long-vowel slots are wide.
 
@@ -358,7 +358,7 @@ To the philological eye, four derivations of one word look like uncertainty — 
 
 The decompositions expose different stresses inside one assembled word, which is exactly what stable constituents make possible. *Agni* can be decoded because *varṇāḥ*, *dhātavaḥ*, and bonding rules are discrete enough to support decoding. A drifting, botanical language generates guesses; Sanskrit generated analysis, and that analysis was already running through named decoders before any formal grammar text described the system.
 
-The Sanskrit-literate world did not debate whether Sanskrit was engineered. It debated how the engineering produces meaning: *varṇa-vāda* versus *sphoṭa-vāda*, intrinsic charge versus assignment freedom, *dhātu*-prior versus *śabda*-prior. These are internal debates within the engineering thesis. The progressive dogma's "natural language like any other" account is not one of the internal schools. It is an outsider's denial of the room in which the debate happened.
+Because the Sanskrit-literate world never debated whether Sanskrit was engineered, it instead vigorously debated exactly *how* that engineering produces meaning: *varṇa-vāda* versus *sphoṭa-vāda*, intrinsic charge versus assignment freedom, *dhātu*-prior versus *śabda*-prior. While these were always rigorous internal debates operating entirely within the engineering thesis, the progressive dogma's "natural language like any other" account is decidedly not one of these internal schools; rather, it is merely an outsider's outright denial of the very room in which the debate originally happened.
 
 The Sanskrit lineage is right. The progressive dogma is the anomaly.
 
@@ -366,7 +366,7 @@ The Sanskrit lineage is right. The progressive dogma is the anomaly.
 
 The *Dhātupāṭha* reveals one more signal before the chapter closes: the sonomers themselves have roles.
 
-A mere list gives the analyst frequencies. Sanskrit gives the analyst valency. The same consonant does not merely occur often or rarely. It occupies a position, performs a function, and reveals a measurable bonding profile inside the *dhātuḥ*. That is not alphabetic accident. That is atomic behavior.
+While a mere list gives the analyst basic frequencies, Sanskrit specifically gives the analyst structural valency. Because the very same consonant does not merely occur often or rarely, but rather precisely occupies a defined position, actively performs a specific function, and clearly reveals a measurable bonding profile inside the *dhātuḥ*, this proves we are observing atomic behavior rather than a simple alphabetic accident.
 
 ![Position-role map of consonants across single-*akṣara* atoms.](figures/building_dhatuh/role_map_color.svg){#fig:building-dhatuh-role-map width=100%}
 
@@ -404,7 +404,7 @@ The corollary's consequences run forward. The next levels are *kriyā*, bonding 
 
 The corollary's consequences run backward as well. The diagnoses of the philological dogma — Chapter 2 on the botanical fallacy, Chapter 17 on the wrong question, and Chapter 18 on PIE in the sky — are now anchored by the Atomic Corollary's positive content. The pyramid's account fails fundamentally because the architecture is atomic, and atomic architectures do not behave the way the dogma's botanical model assumes.
 
-The *dhātuḥ* is the unit of stable identity. The Sanskrit continuum called it that. The name must be restored.
+Because the *dhātuḥ* serves as the fundamental unit of stable identity—exactly as the Sanskrit continuum explicitly called it—its proper name must absolutely be restored.
 
 Sanskrit is not a plant. It is an atomic system.
 
@@ -412,7 +412,7 @@ Sanskrit is not a plant. It is an atomic system.
 
 *Sūtra-lakṣaṇam* set the specification. The six atomic tests return the verdict.
 
-The *Dhātupāṭha* passes. **अल्पाक्षरम् (*alpākṣaram*)** appears in compact sonomer and *mātrā* distributions. **अस्तोभम् (*astobham*)** appears in scaffold concentration and governed range. **असंदिग्धम् (*asaṃdigdham*)** appears in the acoustic-edged choices inside the same timing budgets. **सारवत् (*sāravat*)** appears in the semantic force of tiny atoms. **विश्वतोमुखम् (*viśvatomukham*)** appears in their reach through bonding and use. **अनवद्यम् (*anavadyam*)** appears in their stability through transformation.
+Consequently, the *Dhātupāṭha* definitively passes this test: **अल्पाक्षरम् (*alpākṣaram*)** clearly appears in its exquisitely compact sonomer and *mātrā* distributions; **अस्तोभम् (*astobham*)** reveals itself strictly in the scaffold concentration and fiercely governed range; **असंदिग्धम् (*asaṃdigdham*)** emerges directly in the exact, acoustic-edged choices constrained inside strict timing budgets; **सारवत् (*sāravat*)** continuously appears in the immense semantic force held by such tiny atoms; **विश्वतोमुखम् (*viśvatomukham*)** is proven through their limitless reach via bonding and use; and finally, **अनवद्यम् (*anavadyam*)** is visibly proven by their enduring stability across rigorous transformation.
 
 The principle stated at the level of the *sūtra* reaches the atom.
 
@@ -434,7 +434,7 @@ The *varṇamālā* already displayed the same six characteristics at the sound-
 
 The first scale is the specified sound inventory. The *varṇamālā* already has the six characteristics of a *sūtra*. Pāṇini saw that sonomeric architecture, rearranged the inventory into an operating index for his meta-rules, and built the *Aṣṭādhyāyī* on it. The grammatical lineage remembers that rearranged index as the Māheśvara-sūtras. In that operational form, the sound inventory is the sonomeric sūtra; one scale up, the *dhātuḥ* holds the same discipline at atomic scale; the *sūtra* captures it at rule scale.
 
-Oṃ is the single-syllable sūtra. The *varṇamālā* is the sonomeric sūtra. The *dhātuḥ* is the atomic sūtra. The grammatical *sūtra* is the rule-scale expression of the same discipline. Four visible scales. One signature. The architecture is fractal.
+Because Oṃ serves as the single-syllable sūtra, the *varṇamālā* serves as the sonomeric sūtra, and the *dhātuḥ* serves as the atomic sūtra, the grammatical *sūtra* is ultimately the rule-scale expression of that exact same discipline. By seamlessly connecting these four visible scales with exactly one structural signature, the architecture proves itself to be remarkably fractal.
 
 What else in Sanskrit holds the same discipline? The whole-language answer comes with calibration.
 
