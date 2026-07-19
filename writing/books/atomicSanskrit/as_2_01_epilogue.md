@@ -92,7 +92,7 @@ The dharmic claim is different. *Sanātan* preserves a civilizational architectu
 
 The standard is **यत् भूतहितम् अत्यन्तं तत् सत्यम् (*yat bhūta-hitam atyantaṃ tat satyam*)**[NOTE: satyam-bhutahitam-mahabharata] — that which serves the welfare of beings, fully and ultimately, is truth. *Bhūta* means living beings: not merely humans, not merely the animals humans keep close, but the full field of life toward which dharma must remain responsible. Here **सत् (*sat*)** and *lokakṣema* meet. Truth is not domination by a doctrine. Truth is alignment with the welfare of beings.
 
-The asuric formation cannot make that call. It has operated extraction, concealment, and inversion. It has claimed writing, grammar, language origins, and civilizational authority for itself. The claims fail.
+The asuric formation cannot make that call because its entire history relies on extraction, concealment, and inversion. Although it has claimed writing, grammar, language origins, and civilizational authority for itself, those claims inevitably fail under structural scrutiny.
 
 The architecture remains.
 
