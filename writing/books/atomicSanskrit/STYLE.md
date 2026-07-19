@@ -50,6 +50,8 @@ Example pattern:
 
 This is **causal expository prose**: each sentence supplies the reason for the next. Sentence length may vary, and related operations may stay together in one sentence. Do not render an outline as serial short declarations or rely on juxtaposition to conceal a missing premise.
 
+The rule in three lines: *Express causality primarily through actors and verbs. Use conjunctions when the relationship would otherwise remain unclear. Reserve short declarative sentences for conclusions, refrains, and revelations.*
+
 ## Turn Discipline
 
 Short turn sentences are useful when the reader needs a major shift signaled clearly:

@@ -78,31 +78,37 @@ Intermingle. All-verdict feels like a slogan deck; all-topic feels like a survey
 
 ## 4. Sentence Rhythm
 
-- **Layered, multi-clause sentences to build the case. Then a short hammer to close.** *Independent India's leaders did neither. / The question is when, not if. / As a country, India remained in chains, but as a nation, India survived. / What started in 1857 was the continuation of India's obsession to be free.*
+**The default register is causal-expository (revised 2026-07-18; the earlier paratactic default is retired).** The sentence states its logical relation to what precedes it; syntax — not juxtaposition — carries the inference. CLAUDE.md's Texture section is the always-on form of this rule; the bullets here are the working craft.
 
-- **Every section closes with a verdict.** No questions, no surveys, no hedges. *The mouth was here first.* (§8.3) / *Two counts. Same verdict.* (§8.4) / *The flex is the test. The training is open. The work begins at the mouth.* (§8.5)
+**The rule in three lines:**
 
-- **Short-line paragraphs as pivots.** Isolated single lines sit as hinges between accumulation paragraphs at structural pivots — concept introduction, verdict, transition between argumentative movements. *Especially the tongue. / That's the flex. That's the retroflex. / They flex.* Sparing — overused, it becomes mannerism. The reader's pause at the white space around the isolated line is part of the rhythm.
+> *Express causality primarily through actors and verbs. Use conjunctions when the relationship would otherwise remain unclear. Reserve short declarative sentences for conclusions, refrains, and revelations.*
+
+- **Causality through actors and verbs first.** A named agent with a causal verb states the inference without scaffolding: *The asymmetry exposes the motive. The praise disguises concealment. A frozen text forces a custodian.* This is the Prime Directive and the connective mode in one move — prefer it before reaching for a conjunction.
+
+- **Conjunctions when the relation would otherwise stay unclear.** Then build the layered period whose form shows the structure: *because, since, while, although, by …-ing, so that*, relative and appositive expansions. Not *"A broken word can break the meter. A misplaced accent can break the chant. The channels check one another."* but *"Because a broken word breaks the meter and a misplaced accent breaks the chant, the channels cross-check one another."*
+
+- **Fuse, don't stack.** No hammer-runs (*X. Y. Z.*), no anaphora triples as texture, no standalone one-line pivot paragraphs. Stacked verdicts become one constructed period with the polemic folded in: *"Drift before Pāṇini. Freeze after Pāṇini."* → *"By assigning drift to the period before Pāṇini and freeze to the period after him, the pyramid splits one continuous architecture into two false categories."*
+
+- **The rationed hammer.** Short declarative sentences are reserved for **conclusions, refrains, and revelations** — about one per section, placed after the explanation has earned it, plus the locked canonical hammers (the standing polemic phrase, the two-beat closers, the chapter-close set pieces). A hammer that arrives before the mechanism has been shown is fused or cut.
+
+- **Do not let the repair become the new metronome.** *"Because X, Y. While A, B. Therefore C."* is as synthetic as the drumbeat it replaced. Rotate connector types; vary clause position (fronted, trailing, mid-sentence); vary sentence length around the periods. Strongest option: let a **causal verb** carry the inference — *exposes, forces, yields, requires, produces, follows* — since a named agent with a causal verb states the logic without any connector scaffolding. Check: no two adjacent paragraphs open with the same subordinator.
+
+- **Catalogs run inside the sentence.** Enumerate concrete instances within one flowing period. The repeat-predicate drumbeat catalog (Ch8's *operates it… They flex*) survives only as a rare, explicitly earned set-piece, not as default texture.
 
 - **Conversational asides that don't soften.** Em-dash asides can land small jokes mid-paragraph without breaking momentum. Must not soften, qualify, or hedge — acknowledges the reader's intelligence and moves on. Test: removing the aside should leave the argument unchanged; what's lost is voice, not substance. *Not merely the arm — although that was never irrelevant.*
 
-- **Catalog construction — repeat-and-drumbeat.** When listing a class of cases, name concrete instances (per the family-tree-rejection rule in §7.2). Each clause closes with the same predicate verb; the final short hammer delivers the verdict. Example from Ch8 §8.1:
-
-  > *The Munda lineage of the central forest belt — Santali, Ho, Mundari, Sora, Korku, Kharia — **operates it**. Tamil, Malayalam, Telugu, Kannada, and Tulu of the south **operate it**. Marathi, Gujarati, Konkani, and Sindhi of the west **operate it**. Bengali, Odia, and Assamese of the east **operate it**. Hindi, Punjabi, and the related northern languages **operate it**. Every native language group of the subcontinent shares this same muscular capability. **They flex.***
-
-  Drumbeat of *operate(s) it* across five clauses builds the sweep; *They flex.* lands the verdict.
-
 - **Positive specification over double negation.** State what's happening, not what's not happening. *Pāṇini clearly identified the ḷ.* Not *Pāṇini did not claim ḷ did not exist.* Reserve the negative form for cases where the pre-empted opposing claim is in active conflict with what the prose is asserting.
 
-- **Negation-first compression in verdict hammers.** When a hammer pairs an assertion with a denial, put the negation first and let the comma carry the contrast. *Europeans did not invent, they translated.* Not *Europeans translated. They did not invent.* The negation lands on the first beat and the reduced positive on the second; two short sentences compress into one.
+- **Negation-first compression inside the sentence.** When pairing an assertion with a denial, fuse them into one sentence with the negation first and the comma carrying the contrast: *Europeans did not invent, they translated.* Fusion, not stacking.
 
 - **Parallel possessives across parallel enumerations.** When listing parallel actors doing parallel things, modifiers and possessives must match. *Its **own** retroflex laterals / their **own** retroflex-lateral phonemes.* Not *Its **native** retroflex laterals / their **own** retroflex-lateral phonemes.* Watch for colonial-anthropological residue in apparently neutral words (*native*, *primitive*, *indigenous*, *tribal*) and use the plainer alternative when the residue word does not earn its place.
 
 - **Don't over-qualify badness.** When marking something offensive, harmful, or problematic, the unmarked word carries. *Culturally insensitive.* Not *culturally damaging in its own register.* The qualifier signals hedging; the unmarked word names the offense honestly.
 
-- **The mini-hammer coda inside the sentence.** Em-dash plus brief technical clarification at the close of a longer example sentence — five words or fewer, matching the chapter's hammer-rhythm at sentence-internal scale. *Hindi runs the retroflex flap ड़ in everyday words like घोड़ा (ghoṛā, horse), पेड़ (peṛ, tree), लड़का (laṛkā, boy) — same retroflex hardware, briefer contact.*
+- **The mini-hammer coda inside the sentence.** Em-dash plus brief technical clarification at the close of a longer example sentence — five words or fewer. An intra-sentence device, fully compatible with the causal-expository default. *Hindi runs the retroflex flap ड़ in everyday words like घोड़ा (ghoṛā, horse), पेड़ (peṛ, tree), लड़का (laṛkā, boy) — same retroflex hardware, briefer contact.*
 
-- **Alliteration on phrases meant to lodge.** *Pernicious pyramid that periodically perishes. / Paradigm of progress poses a paradox. / Bribed, bought or beaten.*
+- **Alliteration on phrases meant to lodge.** *Pernicious pyramid that periodically perishes. / Paradigm of progress poses a paradox. / Bribed, bought or beaten.* Sparing.
 
 - Em-dashes for asides and emphasis. Italics rare — emphasis from sentence structure, not typography.
 
@@ -124,7 +130,7 @@ Sentence rhythm is the music; compression removes padding, while causal expositi
 
 - **Appositive definitions over multi-clause definitions.** *"लीपि (lipi) is writing: linguistic content fixed in visible marks."* Not *"लीपि (lipi) is the Sanskrit name for writing — the technology of recording linguistic content in marks on a physical medium…"* Colon + tight phrase replaces em-dash + sub-clause + clarifying continuation.
 
-- **Paragraph length follows the operation.** Two to four sentences often suffice, but sentence count is not the target. Keep the steps together while one mechanism is being explained; split when the subject or operation changes. A long accumulation paragraph still has its place (the *catalog construction* and *drumbeat* patterns in §4 above), but it must earn the length.
+- **Paragraph length follows the operation.** Two to four sentences often suffice, but sentence count is not the target. Keep the steps together while one mechanism is being explained; split when the subject or operation changes. A long accumulation paragraph still has its place (the in-sentence catalog of §4; the old drumbeat set-piece only when explicitly earned), but it must earn the length.
 
 - **Strip amplifiers and reassurers.** *Indeed, in fact, of course, naturally, clearly, importantly, crucially, notably, certainly, obviously, undoubtedly, very, quite, simply, just.* These signal hedging or filler regardless of intent. Cut on sight. If the claim is true, it doesn't need *clearly*; if it needs *clearly*, the sentence isn't doing its work.
 
