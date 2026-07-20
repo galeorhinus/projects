@@ -12,7 +12,7 @@ A signal visible only in the dictionary inventory may be a compilation artifact.
 
 ## 6.1 The Structural Baseline
 
-First remove what Pāṇini tells us is only grammatical marking. A *dhātuḥ* citation form may hold *anubandha* sounds that instruct later operations but do not belong to the atom being measured. Count them, and the measurement has already drifted: scaffolding has been counted as structure.
+First, one must remove what Pāṇini identifies solely as grammatical marking, as a *dhātuḥ* citation form often holds *anubandha* sounds that instruct later operations without belonging to the atom being measured. Counting these markers immediately corrupts the measurement, mistakenly treating scaffolding as core structure.
 
 Once those markers are removed, the compression becomes severe:
 
@@ -42,13 +42,13 @@ The strongest simple predictor is engineering value: distinguishability divided 
 
 ### 2. Cell-Level Allocation
 
-Equal column value does not mean equal deployment. A model that treats same-scored cells as interchangeable fails immediately. The labial nasal *m* is heavily used; the velar nasal *ṅ* is almost absent in the same kind of inventory count. Sanskrit is column-aware, but it is also cell-aware.
+Equal column value does not guarantee equal deployment, causing any model that treats same-scored cells as interchangeable to fail immediately. For instance, the labial nasal *m* sees heavy use while the velar nasal *ṅ* remains almost entirely absent in the same kind of inventory count, proving that Sanskrit operates with both column-awareness and exact cell-awareness.
 
-So the result cannot be reduced to broad preference. Individual sound-particles are distributed according to role.
+So broad preference cannot explain the result. The architecture distributes individual sound-particles according to role.
 
 ### 3. Position-Conditional Preference
 
-Position changes work. A consonant opening an atom does not behave like a consonant closing one. Initial position favors release and clarity. Final position holds settlement, bonding, and later *sandhi* behavior.
+Position fundamentally changes the physical work, forcing a consonant that opens an atom to behave differently from a consonant closing one. The initial position structurally favors release and clarity, whereas the final position governs settlement, bonding, and later *sandhi* behavior.
 
 Retroflex sounds are depleted initially and strongly loaded finally — the counts follow the work. Palatals also rise in final use. Velars and labials prefer initial work. The inventory is not flat matter poured into slots; it is role-sensitive.
 
@@ -80,7 +80,7 @@ Restrict the inventory to corpus-attested use and the pattern sharpens. The clas
 
 The most productive *dhātavaḥ* are the smallest, not the largest and not the most irregular. Path A and Path C both give the inverse relation: fewer particles, greater reach.
 
-In many languages, the most frequent forms are the most irregular: *be*, *have*, *do* in English; comparable high-frequency irregulars in Latin and Greek. Sanskrit reverses that tendency. Its high-productivity atoms do not collapse into idiosyncrasy; the smallest atoms remain regular and maximally reusable.
+Whereas many languages allow their most frequent forms to become the most irregular—like *be*, *have*, *do* in English, alongside comparable high-frequency irregulars in Latin and Greek—Sanskrit aggressively reverses that tendency. Its high-productivity atoms never collapse into idiosyncrasy, ensuring that the smallest atoms remain structurally regular and maximally reusable.
 
 ---
 
@@ -128,6 +128,4 @@ The *Source and Reference Companion* preserves the replication trail:
 
 The code bundles are already organized for public audit. Path A measures the structure of the *Dhātupāṭha*. Path C measures corpus deployment. A future Path B can measure the formal bonding space licensed by the *Aṣṭādhyāyī* itself: what the rule-system makes available, not merely what dictionaries list or corpora preserve.
 
-The printed book needs the result more than every table: the architecture survives measurement. The companion preserves the audit trail for the reader who wants to rerun it.
-
-The *Dhātupāṭha* is an atomic inventory. The numbers show the engineering.
+The printed book prioritizes the final result—that the architecture survives measurement—while the companion preserves the complete audit trail for any reader seeking to rerun the tests. Ultimately, the *Dhātupāṭha* operates as a strictly atomic inventory whose underlying numbers vividly expose its engineering.

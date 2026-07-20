@@ -16,8 +16,6 @@ Chapter 9 §9.6 introduced the *akṣara* as the audiograph. Chapter 13 §13.3 e
 
 ## 3.1 Sonomer First, Audiograph Second
 
-
-
 The **sonomer** is the measured sound-particle. It is articulated by place, shaped by effort, timed by **मात्रा (*mātrā*)**, classified inside the **वर्णमाला (*varṇamālā*)**, and made available to grammar.
 
 The sonomer is not only a spatial unit. It is also temporal. Chapter 7 mapped the vocal apparatus. Chapter 8 surveyed the sound-field. Chapter 9 then selected the field into the *varṇamālā*: five places of articulation, five manners of contact, the 5×5 *sparśa* matrix, and the timing grid. A consonant holds the half-*mātrā* interval; a short vowel holds one *mātrā*; a long vowel holds two; a pluta vowel holds three. Chapter 10 then built the *dhātuḥ* from those timed sonomers. The sonomer therefore holds two coordinates at once: where the sound is made and how long the sound is held.
@@ -150,7 +148,7 @@ The machinery's typology lists six categories: *logographic*, *syllabary*, *alph
 
 **Peter T. Daniels** coined *abjad* and *abugida* in 1990 by taking the first letters of those systems. *Abjad* is the first four letters of the Arabic order (ا ب ج د — *alif-bā'-jīm-dāl*). *Abugida* is the first four letters of the Ge'ez script (*a-bu-gi-da*). The naming convention is precisely the Indic *varṇamālā* convention. Sanskrit labels its consonant rows after their first letters: *ka-varga*, *ca-varga*, *ṭa-varga*, *ta-varga*, *pa-varga*. Letters label themselves by themselves. The whole system is *the garland of varṇas* — *varṇamālā*.
 
-Yet when the church of progress classified the Indic scripts, it did not coin *varṇography*, *akṣaragraphy*, or any Sanskrit-rooted technical term. It borrowed *abugida* — an Ethiopian Semitic name — and applied it to the Indic family. The naming convention that worked for Arabic in its own letters and Ge'ez in its own letters was withheld from Sanskrit. The Indic system was classified using somebody else's vocabulary.
+Yet when the church of progress classified the Indic scripts, it did not coin *varṇography*, *akṣaragraphy*, or any Sanskrit-rooted technical term. It borrowed *abugida* — an Ethiopian Semitic name — and applied it to the Indic family. The church withheld from Sanskrit the naming convention that worked for Arabic in its own letters and Ge'ez in its own letters and classified the Indic system using somebody else's vocabulary.
 
 The label *abugida* is not false at the surface. It is false as the final category. It captures how the script behaves on the page. It does not capture what the script encodes.
 
@@ -199,27 +197,43 @@ The comparison has to separate three design cases: sound, script, and standard. 
 
 Arabic has a powerful preserved sound tradition. Its extraction shows the Semitic sound-field clearly: pharyngeal reach, emphatic consonants, and a recitational discipline that has held the Qur'anic form with force. Its standardizing power, however, lies in codification: recitation authority, grammar, script tradition, and legal-religious custody. The sound tradition is disciplined. The script tradition is deep. The pattern is not a sonomeric grid engineered as a complete place-and-effort matrix.
 
-![Figure A.8 — Korean Extracted: Engineered Script, Existing Sound. Korean isolated from the shared articulatory field: an existing phonology served by the engineered Hangul script.](figures/audiography/korean_extracted_engineered_script.svg){#fig:app3-korean-extracted-engineered-script width=100%}
+![Figure A.8 — Korean Audiography: A Local Sonomeric Implementation. Korean engineers surveyed Korean speech and designed Hangul as its visible interface after systematic Indic sound-analysis had entered the Buddhist knowledge-field of East Asia.](figures/audiography/korean_extracted_engineered_script.svg){#fig:app3-korean-extracted-engineered-script width=100%}
 
 The four-panel sequence prevents category theft. A shared matrix lets the reader compare like with like. The extractions then show what kind of pattern each system leaves. Sanskrit leaves a grid at the sound layer. Arabic leaves a codified tradition around an inherited phonology. Korean leaves an engineered script fitted to an existing phonology. These are not the same achievement. Treating them as the same achievement is the category confusion prosecuted here.
 
-Hangul proves the church of progress can recognize audiographic engineering when recognition costs it nothing.
+## 3.9 The Sonomer Travels East
 
-King Sejong the Great of Joseon Korea engineered Hangul in 1443. Sejong documented the engineering principle himself in the *Hunminjeongeum* preface: consonant shapes depict the articulators, and vowel shapes encode features such as tongue height and rounding. The script is audiographic by Sejong's own statement of design: articulated sound rendered as glyph, mapped by mouth-geometry.
+A civilization can inherit an engineering idea without copying its symbols. The decimal place-value system would remain the same architecture if zero were written with an X rather than a circle. The glyph supplies an interface; place value supplies the generative principle. Credit belongs first to the civilization that conceived the architecture and then to every engineer who adapted it intelligently.
 
-The ***priests of progress*** celebrate this engineering openly. **Geoffrey Sampson** coined ***featural*** in *Writing Systems: A Linguistic Introduction* (1985) specifically to name what Hangul does. He called Hangul *"perhaps the most scientific writing system ever devised."* UNESCO created the King Sejong Literacy Prize in 1989. South Korea observes a national Hangul Day. The machinery added a category to house Hangul. The named inventor is celebrated. The date is recorded to the year. The engineering documentation is treated as engineering documentation. The typological vocabulary was coined to capture what Sejong did.
+Sound follows the same logic. Sanskrit had already isolated articulated speech into measured units and arranged those units by place and effort. Its scripts gave the units visible forms, but the sonomer preceded the audiograph. Another civilization could therefore survey its own sound-field, retain the principle of systematic representation, and design entirely different marks. Its language might require neither Sanskrit's *mātrās* nor its conjuncts because it presented a different engineering problem.
 
-The same priests of progress apply *abugida* — borrowed from Ge'ez — to the *varṇamālā* and its descendants. The *varṇamālā*'s engineering is anonymized. The date is dissolved into pre-history. The *Prātiśākhya* and *Śikṣā* disciplines are treated as descriptive linguistics rather than engineering specification. The isolation of sonomers is treated as mere phonetic description. The consonant-by-place organization is treated as taxonomic curiosity rather than systematic encoding of pronunciation as glyph-position.
+Buddhism carried more than texts into East Asia. Sanskrit pronunciation, mantra transmission, Siddham writing, and the analysis of consonants and vowels travelled with it. Korean Buddhist scholars had encountered this knowledge long before the fifteenth century. Siddham materials circulated in Korea, Sanskrit sounds appeared in Buddhist textual practice, and Indic phonological categories entered the wider field through which Chinese and Korean scholars studied articulated speech.
 
-Hangul proves the church of progress can recognize audiographic engineering when the politics permit. It created vocabulary, awards, and typological categories to celebrate one engineered audiographic script. It refused to create any of these for the older and much larger family — the family that engineered the category in the first place.
+King Sejong's achievement arose inside that field. The *Hunminjeongeum Haerye* records an exact survey of Korean speech: its basic consonant signs depict the articulators, additional strokes generate related sounds, and vowels derive systematically from three basic signs. Korean engineers selected the features their language required and rendered them through locally designed signs. They learned from engineering, returned to their own sound-field, and built a new interface.
 
-The difference is distance from the foundational civilizational claim. Korean Hangul, engineered in 1443, sits comfortably below the Near-Eastern-to-European corridor. Celebrating Sejong adds an Asian achievement to the record of human ingenuity without dislocating the foundational claim about who invented writing. The church of progress can be generous because generosity costs it nothing.
+The particular shapes settle neither the presence nor the absence of architectural transmission. A mathematician adopting place value need not preserve the historical Indian glyph for zero; a Korean engineer adopting systematic sound-representation need not preserve Siddham letter-forms. The surviving record establishes the presence of Sanskrit and Siddham phonological knowledge in Korea while leaving the precise route into Sejong's workshop open to further investigation. Hangul remains Korean engineering built within an Asian field already illuminated by Sanskrit's sonomeric radiance.
 
-The *varṇamālā* is different. Acknowledging it as engineered audiographic writing would place the original engineered capture of articulated sound in a civilization that dislocates the foundational claim. Acknowledging the sonomer would be worse for that claim, because the visible script would no longer be the deepest achievement. The deeper achievement would be the isolation of the units from which Sanskrit itself is built.
+Japan makes the architectural transmission still more visible. Katakana took its individual marks from abbreviated Chinese characters used by Buddhist scholars in textual annotation. Its graphic material was Chinese. The *gojūon* grid through which Japanese sounds came to be analyzed and ordered drew upon Sanskrit and Siddham phonology. Japanese monks learned to separate consonants from vowels through Siddham study and used that knowledge to arrange their own language. The marks were local; the ordering intelligence had travelled with Sanskrit's radiance.[NOTE: siddham-east-asia-sonomeric-field]
 
-The asuric pyramid cannot afford that acknowledgment. So the engineering is erased: the origin anonymized, the date dissolved, the documentation reduced to taxonomic linguistics, and the typological vocabulary withheld. The church of progress recognizes audiographic engineering when recognition costs it nothing. It erases sonomeric and audiographic engineering when recognition would cost it the foundational civilizational claim.
+| Layer | Sanskrit | Korea | Japan |
+|---|---|---|---|
+| **Architectural idea** | Sonomers ordered by articulation | Articulatory features applied to Korean | Consonant-vowel analysis and ordered sound-grid |
+| **Local interface** | Indic audiographs | Hangul | Kana |
+| **Language served** | Sanskrit | Korean | Japanese |
 
-The scale of the erasure is large. The script family the machinery classifies as *abugida* serves roughly 1.5 billion users across South Asia, Tibet, and Southeast Asia — most of the literate population east of the Indus and west of the Pacific, with the Sinosphere as the principal exception. Korean Hangul, classified under *featural*, adds another eighty million. The audiographic family is the writing-system architecture of close to a third of the world's literate population.
+The ***priests of progress*** celebrate Hangul's engineering openly. **Geoffrey Sampson** coined ***featural*** in *Writing Systems: A Linguistic Introduction* (1985) specifically to describe what Hangul does, calling it *"perhaps the most scientific writing system ever devised."* UNESCO created the King Sejong Literacy Prize in 1989, and South Korea observes a national Hangul Day. The machinery added a category to house Hangul, celebrated the named inventor, recorded the date to the year, treated the design record as engineering documentation, and coined typological vocabulary to capture the achievement.
+
+That celebration detaches the Korean implementation from the older architecture that had reached East Asia. The pyramid searches for copied letter-shapes, finds locally designed marks, and declares an isolated invention. Its inquiry stops at the interface. Applied to arithmetic, the same method would deny the transmission of place value whenever a civilization changed the shapes of its digits.
+
+The same priests of progress apply *abugida*—borrowed from Ge'ez—to the *varṇamālā* and its descendants. This classification anonymizes the *varṇamālā*'s engineering and dissolves the date into pre-history. The machinery treats the *Prātiśākhya* and *Śikṣā* disciplines as descriptive linguistics rather than engineering specification, the isolation of sonomers as mere phonetic description, and consonant-by-place organization as taxonomic curiosity rather than systematic encoding of pronunciation as glyph-position.
+
+Proper attribution reveals several achievements simultaneously. While Sanskrit supplied the prior sonomeric architecture and Buddhist carriers transmitted its radiance, Korean and Japanese engineers selected what their specific languages needed to build local implementations. The symbols themselves changed even as the underlying engineering idea traveled.
+
+Acknowledging the *varṇamālā* as engineered audiographic writing would place the original engineered capture of articulated sound in a civilization that dislocates the foundational claim. Acknowledging the sonomer reaches deeper because the visible script ceases to be the primary achievement. The deeper achievement is the isolation of the units from which Sanskrit itself is built.
+
+The asuric pyramid cannot afford that acknowledgment, forcing the machinery to anonymize the origin, dissolve the date, reduce the documentation to taxonomic linguistics, and withhold the typological vocabulary. The church of progress recognizes audiographic engineering only where recognition preserves the foundational civilizational claim, erasing sonomeric and audiographic engineering wherever recognition would overturn that claim.
+
+The scale of the erasure remains large. The script family the machinery classifies as *abugida* serves roughly 1.5 billion users across South Asia, Tibet, and Southeast Asia, encompassing most of the literate population east of the Indus and west of the Pacific, with the Sinosphere as the principal exception. Korean Hangul, classified under *featural*, adds another eighty million users to the wider audiographic architectural field. Audiographic systems serve close to a third of the world's literate population.
 
 The pyramid's classification — *abugida* for the Indic family, *abugida* again for the Pallava-derived Southeast Asian family, *featural* for Hangul — labels one engineering achievement with categories that name surface behavior rather than engineering content. The unifying category, *audiography*, was the term the church of progress declined to coin.
 
@@ -254,15 +268,15 @@ The pyramid's classification — *abugida* for the Indic family, *abugida* again
 
 The misclassification is not an innocent gap waiting for better data. It is the structural operation by which the machinery's typology refuses to acknowledge that one engineering category covers close to a third of the world's writing.
 
-## 3.9 The Foundational Claim on Writing
+## 3.10 The Foundational Claim on Writing
 
 The Brāhmī-from-Aramaic narrative persists because writing is foundational inside the Abrahamic imagination.
 
-The Hebrew Bible declares the written word as the medium of the covenant. The Torah is given in writing on Sinai. The Christian gospel of John opens with *the Word was God* — the *logos*. The Qurʾān's first revelation to Muḥammad begins with *iqraʾ* — read, recite. All three original Abrahamic religions are religions of the written word. All three place authority in a textual act.
+The Hebrew Bible declares the written word as the medium of the covenant, establishing that the Torah is given in writing on Sinai. The Christian gospel of John opens with *the Word was God*—the *logos*—while the Qurʾān's first revelation to Muḥammad begins with *iqraʾ*—read, recite. All three original Abrahamic religions operate as religions of the written word, placing authority entirely in a textual act.
 
-The ***fourth Abrahamic religion*** — the asuric formation Chapter 4 anchors — inherits the same orientation in secular form. Its foundational dogma makes the modern academy's history of civilization a history of writing. Civilization begins where writing begins. Writing systems become the index of civilizational origin. Sumerian cuneiform, Egyptian hieroglyphs, Phoenician alphabet, Greek vowel letters, Latin script — these become the foundational moments the foundational dogma identifies.
+The ***fourth Abrahamic religion***—the asuric formation Chapter 4 anchors—inherits the same orientation in secular form. Its foundational dogma makes the modern academy's history of civilization a history of writing, declaring that civilization begins where writing begins. Writing systems become the index of civilizational origin. The foundational dogma identifies Sumerian cuneiform, Egyptian hieroglyphs, the Phoenician alphabet, Greek vowel letters, and the Latin script as these foundational moments.
 
-This is not neutral. It places the engineering of writing inside the Near-Eastern-to-European corridor. Later scripts, including Brāhmī, become adaptations of templates that originated there. The progressive dogma then adds the time-axis: later-along-the-corridor becomes more advanced. The two doctrinal strata complete the enclosure.
+This dogma places the engineering of writing inside the Near-Eastern-to-European corridor, turning later scripts, including Brāhmī, into mere adaptations of templates that originated there. The progressive dogma then adds the time-axis, asserting that later-along-the-corridor becomes more advanced. The two doctrinal strata complete the enclosure, establishing a narrative that operates far from neutrality.
 
 The sonomer breaks that enclosure. It says the visible glyph is not the deepest achievement. The deepest achievement is the measured sound-particle and the ordered sound-system built from it. The script renders that system; it does not create it. The written word loses its monopoly over foundation.
 
@@ -272,7 +286,7 @@ A claim by Indian civilization to have engineered its script independently would
 
 The Brāhmī-from-Aramaic narrative is not random. It defends the foundational civilizational claim Chapter 4 establishes. It is the script-level analogue of the Sanskrit-from-PIE narrative. Both do the same asuric work in different media. The main argument dismantles the second. The prosecution now isolates the first as a parallel target.
 
-## 3.10 The Work Ahead
+## 3.11 The Work Ahead
 
 *Atomic Sanskrit* prosecutes the language-engineering case. The script-engineering case is a new research project — the same operation in a different medium. The prosecution does not finish that project. It opens it.
 

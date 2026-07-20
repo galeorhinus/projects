@@ -32,7 +32,7 @@ The eleven *pāṭhas* divide into two groups. The five *prakṛti-pāṭhas* ar
 
 ***Pada-pāṭha*** (पदपाठ) is the word-by-word recitation. The *sandhi* is unwound. Each *pada* stands apart. The form makes morphology audible and fixes the word-boundaries that the flowing *saṃhitā* conceals. This is the recitation Yāska's *Nirukta* assumes and the recitation Pāṇini's **अष्टाध्यायी (*Aṣṭādhyāyī*)** refers back to in its derivations. The *pada-pāṭha* is itself a kind of analytical commentary, fixed in recitation form.
 
-Because ***krama-pāṭha*** (क्रमपाठ) acts as the step recitation, the words move in overlapping pairs (1-2, 2-3, 3-4, 4-5). Therefore, each interior word appears twice—once as the second member of a pair and once as the first member of the next—ensuring that the sequence is firmly locked by overlap.
+Because ***krama-pāṭha*** (क्रमपाठ) acts as the step recitation, the words move in overlapping pairs (1-2, 2-3, 3-4, 4-5). Therefore, each interior word appears twice—once as the second member of a pair and once as the first member of the next—ensuring that overlap firmly locks the sequence.
 
 ***Jaṭā-pāṭha*** (जटापाठ) functions as the braid recitation (1-2, 2-1, 1-2; 2-3, 3-2, 2-3), where each pair is recited forward, backward, and forward again. Because the name *jaṭā* accurately captures this weave, the reciter is forced to execute both the words and their joins in both directions.
 

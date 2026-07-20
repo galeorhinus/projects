@@ -20,7 +20,7 @@
 
 \bigskip
 
-At the opening of Part I, the pyramid still stands whole. The first three obstructions are targeted: Sanskrit is subordinated to PIE, forced into a botanical vocabulary of plant-organs and stems, and presented as a language supposedly “codified” by Pāṇini. These are the first acts of category theft.
+At the opening of Part I, the pyramid still stands whole. The clearing targets the first three obstructions: the pyramid subordinates Sanskrit to PIE, forces it into a botanical vocabulary of plant-organs and stems, and presents it as a language supposedly “codified” by Pāṇini. These constitute the first acts of category theft.
 
 ![Figure E.5 — How the Shadow Is Cast. Three Plates: Descended, Botanical, and Codified are targeted while the full eclipse remains in place.](figures/eclipse_spine/eclipse_10_part01_shadow_cast_targets_1_2_3.svg){#fig:eclipse-part01-shadow-cast width=100%}
 
@@ -28,13 +28,13 @@ The Sun is Sanskrit: the engineered order of सनातन संस्कृ�
 
 What darkens it is the asuric pyramid: the वैकृतिक (*vaikṛtika*) fractal, a top-down order that repeats itself at every level of its hierarchy. Threatened by distributed order, it corrupts networks into hierarchies, freezes living architecture into dead doctrine, and withholds knowledge to keep others in darkness. The oldest record calls the eclipse स्वर्भानु (*Svarbhānu*) — and his name holds the very *svar*, the light, he sets out to swallow.[NOTE: svarbhanu-svar-etymology] The Sun is darkened, not destroyed.
 
-The shadow is cast by category theft: theft by misclassification, inversion by metaphor, subordination by genealogy, concealment by doctrine.
+Category theft casts the shadow: theft by misclassification, inversion by metaphor, subordination by genealogy, concealment by doctrine.
 
 What it darkens is the Sanskrit continuum — the civilization subjected to a false description of its own language. The injury is deeper than misdescription. The pyramid sustained, and sustains, a systematic effort to convince a civilization that its own understanding of reality is a mass delusion. Chapter 17 calls out one instrument of that tactic under its proper name: *gaslighting with footnotes*.
 
 The pyramid split the category. Before Pāṇini (पाणिनि), it made Sanskrit answer as **प्रकृति (*prakṛti*)**: natural growth, drift, descent, plant-organs, branches, daughters. After Pāṇini, it made Sanskrit answer as codification: grammar, authority, freezing, standardization. Both moves hide the same truth: **Sanskrit is संस्कृति (*saṃskṛti*)** — created order, calibrated architecture, disciplined recurrence.
 
-That concealment is the shadow. A swastika architecture — built for well-being, distributed order, and civilizational continuity — is first forced into a botanical tree, then into a codified standard.
+That concealment is the shadow. The pyramid first forces a swastika architecture—built for well-being, distributed order, and civilizational continuity—into a botanical tree, then into a codified standard.
 
 Sanskrit threatens the pyramid because it proves that order need not descend from an apex. A distributed, calibrated, self-correcting architecture preserves knowledge more deeply than authority can command it. If Sanskrit is seen as *saṃskṛti*, the pyramid's claim to necessity weakens. The pyramid therefore had to keep the Sun from being seen whole.
 
@@ -52,6 +52,6 @@ The reader is asked to exercise an older test: **सत्-असत्-वि�
 
 The Sun remains behind the shadow. The eclipse is caused by स्वर्भानु; the imaginary ancestor is राहु. The Atris found the hidden Sun by the fourth formulation, not by force — and the same formulation clears the shadow here, plate by plate, until the light stands whole.
 
-Chapter 2 exposes the first plates of the shadow: Sanskrit made to look *descended* and *botanical* before Pāṇini, *codified* after him, while its own fractal category — *saṃskṛti* — stays hidden. Chapter 3 asks why the tree had to be defended. Chapter 4 develops the formation behind the defense: the asuric pyramid, the hierarchy that turns knowledge into concealment.
+Chapter 2 exposes the first plates of the shadow, showing how the pyramid makes Sanskrit look *descended* and *botanical* before Pāṇini, and *codified* after him, while its own fractal category — *saṃskṛti* — stays hidden. Chapter 3 asks why the tree had to be defended. Chapter 4 develops the formation behind the defense: the asuric pyramid, the hierarchy that turns knowledge into concealment.
 
 Only when the shadow's mechanism stands visible can the Sun's own light be restored.

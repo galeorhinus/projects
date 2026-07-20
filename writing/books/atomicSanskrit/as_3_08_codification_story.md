@@ -4,7 +4,7 @@
 
 ---
 
-Sanskrit, the reader has been told, was once Vedic: older, freer, more irregular, more natural, more alive. Then speech changed. Forms shifted. Accent weakened. Infinitives narrowed. The subjunctive faded. Ordinary usage moved away from the archaic sacred language. Pāṇini entered the scene and performed the great act of codification. He observed the language, mapped it with unmatched brilliance, and froze the form later called Classical Sanskrit.
+The pyramid tells the reader that Sanskrit was once Vedic: older, freer, more irregular, more natural, more alive. Then speech changed. Forms shifted. Accent weakened. Infinitives narrowed. The subjunctive faded. Ordinary usage moved away from the archaic sacred language. Pāṇini entered the scene and performed the great act of codification. He observed the language, mapped it with unmatched brilliance, and froze the form later called Classical Sanskrit.
 
 That story is everywhere because it is useful. It lets the progressive dogma retain the natural-language premise while admiring Pāṇini. Sanskrit can remain one branch on the Indo-European tree, PIE can remain the imaginary ancestor, Vedic can remain the earlier stage, Classical can remain the later standard, and Pāṇini can be praised as the genius who imposed order late enough for the tree to survive.
 
@@ -26,13 +26,9 @@ Pāṇini did not codify Sanskrit from Vedic to Classical. He decoded its engine
 
 The pyramid's line has a recognizable sequence.
 
-First, the oldest hymns are assigned to "Vedic Sanskrit." That language is treated as the earlier natural stage: archaic, poetic, fluid, richly inflected, and still close to the Indo-European ancestor the pyramid has reconstructed.
+First, the pyramid assigns the oldest hymns to "Vedic Sanskrit," treating that language as the earlier natural stage—archaic, poetic, fluid, richly inflected, and still close to its reconstructed Indo-European ancestor. Second, it treats the later Vedic layers (Brāhmaṇas, Āraṇyakas, Upaniṣads, Sūtra literature, and technical texts) as evidence of change, placing them along a chronology of simplification supported by familiar citations regarding accent, subjunctive, infinitives, case behavior, *sandhi*, vocabulary, and syntax. Third, the machinery places Pāṇini at the rupture-point, claiming the language changed before him while he codified it afterward, casting the *Aṣṭādhyāyī* and its nearly four thousand rules as the great freeze that arrested drift to produce the standard later called Classical Sanskrit.
 
-Second, the later Vedic layers are taken as evidence of change: Brāhmaṇas, Āraṇyakas, Upaniṣads, Sūtra literature, and technical texts are placed along a chronology of simplification. The evidence cited for this claim is usually familiar: accent, subjunctive, infinitives, case behavior, *sandhi*, vocabulary, and syntax.
-
-Third, Pāṇini is placed at the rupture-point. Before him, the language was changing. After him, it was codified. The *Aṣṭādhyāyī* becomes the great freeze: nearly four thousand rules that arrested drift and produced the standard later called Classical Sanskrit.
-
-Fourth, the living speech of the people is cast as the natural continuation of change. The *Prākṛta* languages and later regional languages are made the organic descendants of spoken usage. Sanskrit becomes the elite, priestly, literary, codified form held artificially above the stream.
+Fourth, the account casts the living speech of the people as the natural continuation of change. It makes the *Prākṛta* languages and later regional languages the organic descendants of spoken usage. It turns Sanskrit into the elite, priestly, literary, codified form held artificially above the stream.
 
 The story is elegant because it tracks the assumptions of the field that tells it. Natural languages drift. Standard languages are codified. Older stages precede newer stages. Named authorities regularize what speakers have made unstable. A named genius fits the pyramid's account of knowledge better than an anonymous architecture held across thousands of years.
 
@@ -86,7 +82,7 @@ That is not measurement. That is bootstrapping.
 
 Chapter 5 introduced the diagnostic the codification story requires. There are three different frames for linguistic change, and they correspond to the categories Chapter 1 developed.
 
-1. **Natural drift** is the ***प्रकृति (*prakṛti*)*** frame. It is what ordinary speech does when no strong internal preservation architecture constrains it. Sounds shift. Endings erode. Word meanings slide. Forms regularize by analogy or break by frequency. Communities hold the forms forward without remembering the older architecture. Old English becomes Middle English. Latin becomes Romance. The form changes, the meaning changes, and the earlier system becomes unrecoverable without scholarly apparatus. This is standardization by usage.
+1. **Natural drift** constitutes the ***प्रकृति (*prakṛti*)*** frame, describing what ordinary speech does when no strong internal preservation architecture constrains it. As sounds shift, endings erode, and word meanings slide, forms either regularize by analogy or break by frequency, forcing communities to hold the forms forward without remembering the older architecture. This relentless mechanism turns Old English into Middle English and Latin into Romance, guaranteeing that as form and meaning change, the earlier system becomes unrecoverable without scholarly apparatus—a process defined entirely as standardization by usage.
 
 2. **Codified correction** is the pyramidal frame. An academy, court, priesthood, school, state, dictionary, grammar, or educational apparatus declares a standard and corrects usage against it. The authority says: this is the correct form. Speakers are corrected because they have departed from the authorized standard. The model is pyramidal. Correctness descends from above. This is standardization by codification.
 
@@ -163,7 +159,7 @@ Yāska's **निरुक्त (*Nirukta*)** extends the same point from gramm
 
 This is fatal to the codification story.
 
-Codification imagines a late authority imposing order. Decoding presupposes an already ordered object. A pre-Pāṇinian decoding lineage is evidence for the second, not the first. One does not build generations of *vyākaraṇa*, *nirukta*, *padapāṭha*, *prātiśākhya*, and *śikṣā* around a language that is merely drifting. One builds them around an architecture whose operations can be analyzed.
+Codification imagines a late authority imposing order, whereas decoding presupposes an already ordered object, making the pre-Pāṇinian decoding lineage evidence exclusively for the latter. A civilization never builds generations of *vyākaraṇa*, *nirukta*, *padapāṭha*, *prātiśākhya*, and *śikṣā* around a language that merely drifts; rather, it builds them around a stable architecture whose operations actively invite rigorous analysis.
 
 Pāṇini stands at the peak of that line. He is not its beginning.
 
@@ -390,7 +386,7 @@ The *Aṣṭādhyāyī* does not pretend every context has only one permissible 
 
 A codifier suppresses variation to produce authority. Pāṇini classifies variation to preserve architecture.
 
-The difference is decisive. If he were freezing a drifting language, optionality would be a problem to eliminate. In the *Aṣṭādhyāyī*, optionality is part of the system's specification. The grammar can say: here this form operates; here an alternative is licensed; here the metrical mode allows what speech mode does not; here the rule is restricted to *chandasi*; here *bhāṣāyām* applies.
+If he were freezing a drifting language, optionality would present a problem requiring elimination. In the *Aṣṭādhyāyī*, optionality fundamentally constitutes part of the system's explicit specification. The grammar can say: here this form operates; here an alternative is licensed; here the metrical mode allows what speech mode does not; here the rule is restricted to *chandasi*; here *bhāṣāyām* applies, establishing a structural difference that remains decisive.
 
 That is not late standardization. That is engineering tolerance.
 
@@ -481,9 +477,7 @@ Sanskrit stands before the historical record as an already engineered architectu
 
 The Vedas are the primary calibration matrix. They are not reducible to scripture. They are also the preserved corpus-form of the linguistic architecture. They hold grammar, sound, meter, derivation, and transmission in one body.
 
-The pre-Pāṇinian disciplines actively decode exactly what the Vedas preserve: *Nirukta* decodes word-meaning, *Prātiśākhya* decodes phonetic specification, *Śikṣā* trains articulation, *Chandas* measures timing, and *Padapāṭha* decomposes sequence. Because of this, the earlier *vaiyākaraṇāḥ* that Pāṇini cites are not random antecedents; they are the documentary trace of a decoding lineage already operating at scale.
-
-Pāṇini compresses the architecture into the *Aṣṭādhyāyī*. That compression gives *bhāṣā* an accessible working calibrant. The Vedas remain the primary measure; the *Aṣṭādhyāyī* becomes the manual by which later generations can keep learned speech aligned with the measure.
+The pre-Pāṇinian disciplines actively decode exactly what the Vedas preserve—with *Nirukta* decoding word-meaning, *Prātiśākhya* decoding phonetic specification, *Śikṣā* training articulation, *Chandas* measuring timing, and *Padapāṭha* decomposing sequence—proving the earlier *vaiyākaraṇāḥ* Pāṇini cites operate not as random antecedents, but as the documentary trace of a decoding lineage already functioning at scale. When Pāṇini compresses that architecture into the *Aṣṭādhyāyī*, the compression itself gives *bhāṣā* an accessible working calibrant, ensuring the Vedas remain the primary measure while the *Aṣṭādhyāyī* serves as the manual by which later generations keep learned speech aligned with that measure.
 
 The *Prākṛta* languages and regional languages flow as living speech. They are not sinful deviations from an imperial tongue. They are *prākṛtika* speech. Sanskrit stands as calibrant, not tyrant.
 

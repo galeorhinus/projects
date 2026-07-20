@@ -22,7 +22,7 @@ The Deccan College dictionary is one case because its documentation is complete 
 
 **The Linguistic Survey of India (George Grierson, 1894–1928).** Grierson's nineteenth-century botanical family-tree sorts Indian languages into mutually exclusive *"Indo-Aryan"*, *"Dravidian"*, and *"Munda"* silos on surface vocabulary drift. Chapter 9 shows the deeper structure: shared articulatory architecture, shared retroflex capacity, shared acoustic grid, calibrant-anchored drift. The Marathi **मूर्ख (*mūrkha*)** speaker and the Hindi *mūrkha* speaker hold the same Sanskrit meaning because the *dhātu* **मूर्छ् (*mūrch*)** stays alive alongside the noun (Chapter 5 §5.6); the Marathi **जाड (*jāḍ*)** worked example holds the same point through a different lexical line. The branches are surfaces. The grid is underneath.
 
-**The Archaeological Survey of India and the history departments.** The ASI and the university history departments work to nail the *Itihāsa* and the *Vedas* to BCE dates or demote them to *"mythology"*. The framework measures **कालचक्र (*kālacakra*)** — the wheel of time — with a linear ruler. It demands a discrete BCE date for the Kurukṣetra War because its grid cannot accommodate an event that does not pin to the timeline. The rotational, distributed symmetry of a *swastika* is being measured with the linear ruler of a pyramid.
+**The Archaeological Survey of India and the history departments.** The ASI and the university history departments work to nail the *Itihāsa* and the *Vedas* to BCE dates or demote them to *"mythology"*. The framework measures **कालचक्र (*kālacakra*)** — the wheel of time — with a linear ruler. It demands a discrete BCE date for the Kurukṣetra War because its grid cannot accommodate an event that does not pin to the timeline. The framework measures the rotational, distributed symmetry of a *swastika* with the linear ruler of a pyramid.
 
 In each case, the data is welcome; the methodology is the problem. BORI's variant inventory becomes the archive of *smṛti*'s distributed generation when read through the *Forever Nation* frame. The linguistic data becomes a calibrant-anchored ecology with Sanskrit as the anchor, not a branch on a phantom tree. The archaeological record becomes relative chronology with internal cross-reference, accepting orphans where evidence is indeterminate. The Kurukṣetra War need not be pinned to a BCE date to be acknowledged as historical.
 
@@ -132,7 +132,7 @@ The OED method works for English because English behaves as the method expects.
 
 Old English *hlāfweard* (loaf-keeper) becomes *Lord*. Old English *cniht* (boy, servant) becomes modern *knight* — phonetic form changed, meaning shifted entirely. Old English had four grammatical cases; modern English has none. Old English had three grammatical genders; modern English has none. Old English vocabulary was Germanic; modern English is half Latinate, with Norman French and Latin overlaying the Germanic core.
 
-This is natural-historical change. The OED tracks it precisely. Phonetic forms decay. Grammatical structure collapses. Vocabulary is replaced.
+The OED precisely tracks natural-historical change, documenting how phonetic forms decay, grammatical structure collapses, and vocabulary undergoes replacement.
 
 Apply the same method to Sanskrit. *Yantra* stays *yantra*. *Dharma* stays *dharma*. *Brahman* stays *brahman*. Eight cases stay eight. Three genders stay three. The *Dhātupāṭha* stays. The *varṇamālā* stays. The *Aṣṭādhyāyī*'s rules stay.
 
@@ -140,15 +140,15 @@ Same method. Different architectural pictures — because the underlying systems
 
 ## 2.7 What the Project Cannot Show
 
-Three layers of attested variation. Three different phenomena. The Deccan College method collapses all three into *"linguistic change"*. The engineered thesis locates each in its own architectural layer.
+Three layers of attested variation represent three different phenomena. While the Deccan College method collapses all three into *"linguistic change"*, the engineered thesis locates each in its own architectural layer.
 
 The engineered Sanskrit thesis makes specific predictions. It predicts the project will find: many variant phonetic forms for every engineered word, exactly as *bhūyāṃsaḥ apabhraṃśāḥ* described; new generative output across the centuries, exactly as the *kṛt* and *taddhita* engine produces; semantic extension with phonetic preservation, exactly as the calibrant envelope predicts.
 
 It also predicts what the project will not find: changes to Pāṇinian rules; changes to the *varṇamālā*'s organization by **स्थान (*sthāna*)** and **करण (*karaṇa*)**; changes to the *Dhātupāṭha* enumeration or the ten *gaṇāḥ*; new phonemes added to the engineered inventory; the retroflex lateral ळ disappearing from Vedic recitation.
 
-These predictions are testable. If the project documents specification-layer change, the engineered thesis is wrong. If the project documents only usage-layer change, the engineered thesis is confirmed. The data points the other way. The *Aṣṭādhyāyī*'s rules across thousands of years of continuous transmission: unchanged. The *varṇamālā* organization by *sthāna* and *karaṇa*: stable. The *Dhātupāṭha* and ten *gaṇāḥ*: stable. The phoneme inventory: stable. The difference between *bhāṣā* and *chandas* — including the retention of ळ in the *chandas* mode — is the synchronic mode distinction Pāṇini himself specifies (tagging the rules *bhāṣāyām* and *chandasi*). Not decay. Architecture.
+Separating changing usage from stable specification makes the engineered thesis directly testable. A documented change to the specification would disprove the thesis; variation confined to usage would support it. The project records thousands of years of changing usage while the *Aṣṭādhyāyī*'s rules, the *varṇamālā* organization by *sthāna* and *karaṇa*, the *Dhātupāṭha*, the ten *gaṇāḥ*, and the reusable phoneme inventory remain stable. Pāṇini marks concurrent operating contexts with *bhāṣāyām* and *chandasi*, while the Vedic phonetic disciplines preserve additional governed realizations, including the *Ṛgveda-Prātiśākhya*'s intervocalic **ड → ळ**. The evidence therefore shows different parts of one architecture performing their assigned work across time.
 
-The dictionary works at the attested-usage layer — where speakers, scribes, commentators, and regional schools operate. Slip happens there. Extension happens there. Generation happens there. The specification layer — Pāṇini's rules, the *varṇamālā*, the *Dhātupāṭha*, the *pāṭhas*, and the *Prātiśākhya* / *Śikṣā* disciplines — is not in the project's scope. The project cannot show specification change because there is none to show.
+The dictionary works at the attested-usage layer, where speakers, scribes, commentators, and regional schools operate. This layer naturally produces slip, drives extension, and fosters generation. The specification layer—Pāṇini's rules, the *varṇamālā*, the *Dhātupāṭha*, the *pāṭhas*, and the *Prātiśākhya* / *Śikṣā* disciplines—remains completely outside the project's scope. The project cannot show specification change, as no such change exists to show.
 
 One is a test. The other is a mood.
 
@@ -162,7 +162,7 @@ The same corpus, set inside Sanskrit's own framework, becomes direct evidence fo
 
 The imposed chronology can be set aside. The BCE/CE dates — *Ṛgveda* around 1400 BCE, Pāṇini around 500 BCE, Patañjali in the second century BCE — are not findings about the texts. They are chronology capture: a beginningless architecture forced into the pyramid's clock so it can be sequenced, ranked, and subordinated.
 
-Relative chronology can replace them. Patañjali's *Mahābhāṣya* cites the *Aṣṭādhyāyī*; the *Vārttikāni* comment on Pāṇini and are themselves cited by Patañjali; Yāska's *Nirukta* references earlier Vedic frameworks and is cited by later commentators. Sort the texts by the cross-references they themselves hold — *after* the *Aṣṭādhyāyī*, *before* the *Kāśikāvṛtti*, *contemporaneous with* a named commentator. Texts that cannot anchor remain unanchored. An honest orphan is better than a fabricated date.
+Relative chronology can replace them. Patañjali's *Mahābhāṣya* cites the *Aṣṭādhyāyī*, the *Vārttikāni* comment on Pāṇini and are themselves cited by Patañjali, and Yāska's *Nirukta* references earlier Vedic frameworks while later commentators cite it. Sorting the texts by the cross-references they themselves hold places them *after* the *Aṣṭādhyāyī*, *before* the *Kāśikāvṛtti*, or *contemporaneous with* a named commentator. Texts that cannot anchor simply remain unanchored, presenting an honest orphan rather than a fabricated date.
 
 **Table A.2 — The Reframe.**
 
@@ -177,7 +177,7 @@ Relative chronology can replace them. Patañjali's *Mahābhāṣya* cites the *A
 
 What does the reframe offer Sanskrit? Restatement of the engineered architecture in an idiom the modern academy can read. The dictionary becomes a calibration-matrix tool, partially built and continuously growing. The thirty-five volumes already published become primary witnesses for the engineering case.
 
-What does the reframe offer the world? A corrected understanding of an engineered linguistic system — the first such system any civilization has built. The methodologies inside the engineered Sanskrit thesis become available to the other engineered-preservation traditions: Masoretic Hebrew, Quranic Arabic, ecclesiastical Latin. A field that has studied sacred-engineered languages each on separate terms gains a comparative framework for the first time.
+What does the reframe offer the world? It supplies a corrected understanding of an engineered linguistic system, which stands as the first such system any civilization has built. The methodologies inside the engineered Sanskrit thesis immediately become available to the other engineered-preservation traditions: Masoretic Hebrew, Quranic Arabic, and ecclesiastical Latin. By providing a unified approach, a field that has studied sacred-engineered languages each on separate terms gains a comparative framework for the first time.
 
 The dictionary measures the large set — everything speakers actually produced. The grammar specifies the small set — the invariant core that does not move. Reframed, the data shows what the *church of progress* has been documenting without recognizing: drift catalogued around a specification that holds. Many corruptions per correct word, as Patañjali said. The work has been valuable all along. The framing is the only thing that has obscured it.
 
@@ -213,7 +213,7 @@ The engineering axiom (Chapter 4 §4.2) above the empirical observation (Chapter
 
 Four operations. The data is preserved entirely. The institutional history is preserved entirely. Only the imported framework changes. The *jāḍya* will lift the morning the approvals are signed.
 
-Eighty years after political independence, Deccan College continues, daily, to operate the framework it inherited from a colonial founding — a framework that works, in effect, for those who would destroy *Sanātan*. The choice of 1948 is not a historical event closed at its founding; it is re-made every morning the editorial committee opens its files.
+Eighty years after political independence, Deccan College continues, daily, to operate the framework it inherited from a colonial founding — a framework that works, in effect, for those who would destroy *Sanātan*. The choice of 1948 is not a historical event closed at its founding; the editorial committee re-makes that choice every morning it opens its files.
 
 To BORI, to the *Linguistic Survey*'s descendants, to the Archaeological Survey of India, to the history departments, to Deccan College: **bow to Sarasvatī. Let the *jāḍya* be removed.**
 

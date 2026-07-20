@@ -174,7 +174,7 @@ One chain begins from a real *dhātuḥ* recorded in the Dhātupāṭha and unfo
 
 *King* is the whole indictment in miniature. *The father of a people* — Chambers and Müller both had it so, tracing it to the Sanskrit begetter — once ran in the dictionaries beside a real, unstarred *janaka*. Later reference culture floated a starred ancestor above the entire family and moved the real Sanskrit into the cognate list. The begetter-word for the apex, the father of the people — and the machinery reconstructed an imaginary parent to stand even over that.
 
-By positing an imaginary people speaking an imaginary language built from imaginary words, the asterisk serves as the one visible confession. Printed on the reconstructed word, the language assembled from those words, and the people posited to have spoken it, that single mark sustains three distinct fictions. The only empirical reality in the story remains the Sanskrit it was reverse-engineered from.
+By positing an imaginary people speaking an imaginary language built from imaginary words, the asterisk serves as the one visible confession. Printed on the reconstructed word, the language assembled from those words, and the people posited to have spoken it, that single mark sustains three distinct fictions. The only empirical reality in the story remains the Sanskrit the machinery reverse-engineered it from.
 
 ## 18.7 *Pratibimba*
 

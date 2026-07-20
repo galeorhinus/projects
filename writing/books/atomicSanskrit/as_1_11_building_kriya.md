@@ -204,7 +204,7 @@ The empty cells hold as much information as the filled ones. Only 140 of the 470
 
 The procedure is now visible: a *dhātuḥ* enters an operation and comes out a *kriyāpada* molecule. The open question is whether it leaves a measurable trace in actual Sanskrit. If these atoms are real engineering units, the corpus should not read like a flat word-list — some atoms should bond widely, others should stay narrow specialists, and the distribution should give away an operating engine underneath.
 
-Two audits are needed.
+The argument requires two audits.
 
 | Audit type | Purpose | Source | Details |
 |---|---|---|---|

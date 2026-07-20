@@ -95,7 +95,7 @@ Gaslighting can redirect memory without erasing it. The machinery asks India to 
 <!-- AISWEEP-OLD
 Praise can therefore become a weapon. The machinery does not need to insult Pāṇini. It can praise him for the wrong act. Miscast him as codifier, and the civilization is trained to honor authority where it should be recognizing calibration. The memory remains reverent, but the object of reverence has been altered. That is gaslighting at civilizational scale.
 AISWEEP-END -->
-Praise becomes a weapon here. The machinery does not need to insult Pāṇini. It can praise him for the wrong act. Miscast him as codifier, and the civilization is trained to honor authority where it should be recognizing calibration. The memory remains reverent, but the object of reverence has been altered. That is gaslighting at civilizational scale.
+Praise becomes a weapon here. The machinery does not need to insult Pāṇini. It can praise him for the wrong act. Miscast him as codifier, and the civilization is trained to honor authority where it should be recognizing calibration. The memory remains reverent, but the machinery has altered the object of reverence. That is gaslighting at civilizational scale.
 
 When a civilization recognizes its own architecture and the authorized account calls that recognition delusion, the name is not scholarship. The name is civilizational gaslighting with footnotes.
 
@@ -161,7 +161,7 @@ Pyramidal worlds generate outward pressure — a counter-thesis stronger than th
 <!-- AISWEEP-OLD
 That reversal exposes the emotional structure of the migration story. The pyramid imagines strong outsiders entering India and civilizing it. The counter-thesis is more human and historically ordinary: people pressured by pyramidal borderlands entered a seeker civilization and were absorbed. Foreign DNA, in that frame, is not the footprint of the author. It is the trace of the absorbed.
 AISWEEP-END -->
-The pyramid imagines strong outsiders entering India and civilizing it — and the reversal exposes the emotional structure underneath that picture. The counter-thesis is more human and historically ordinary: people pressured by pyramidal borderlands entered a seeker civilization and were absorbed. Foreign DNA, in that frame, is not the footprint of the author. It is the trace of the absorbed.
+The pyramid imagines strong outsiders entering India and civilizing it — and the reversal exposes the emotional structure underneath that picture. The counter-thesis is more human and historically ordinary: people pressured by pyramidal borderlands entered a seeker civilization that absorbed them. Foreign DNA, in that frame, is not the footprint of the author. It is the trace of the absorbed.
 
 Movement out of India is equally unsurprising. A civilization that developed linguistic precision, yogic discipline, philosophical schools, medicinal systems, mathematical imagination, metallurgy, textile and dye works, shipbuilding, monumental stonework, monastic institutions, commercial networks, and grammatical science would naturally send knowledge-bearers outward. A knowledge-bearer does not need an invading army behind him. A *vaiyākaraṇaḥ* does not need a racial horde. A physician, astronomer, metallurgist, weaver, dyer, shipwright, mason, goldsmith, potter, trader, storyteller, Vedic expert, teacher, or artisan needs a road, a patron, a monastery, a court, a caravan, a workshop, or a student. Buddhist history makes that outward movement visible in a later period; the principle is not difficult.
 

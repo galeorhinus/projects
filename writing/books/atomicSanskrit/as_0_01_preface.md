@@ -32,15 +32,15 @@ The eclipse does not make Sanskrit vanish. Sanskrit has remained visible, audibl
 
 A civilization can continue reciting, teaching, parsing, and preserving the Sun, yet hesitate before its own categories because the field around them has been darkened — and that civilizational self-doubt is the deeper injury. The hesitation is not organic humility. It is the effect of an eclipse.
 
-A wiser age would not need this book because it would simply look at Sanskrit and *see* the architecture, and listen to the Vedas and *hear* the engineering—immediately recognizing that the differences between the Vedic and worldly domains are an intentional part of that engineering. However, the argument has to be made because the present age has been trained to see *neither*. This deliberate redundancy is necessary: because a field-blind age has become **मुग्ध (*mugdha*)**—bewildered before what remains present—the book must repeat its points, knowing that confusion hardened into civilizational self-doubt can only be cleared through repetition.
+A wiser age would not need this book because it would simply look at Sanskrit and *see* the architecture, and listen to the Vedas and *hear* the engineering—immediately recognizing that the differences between the Vedic and worldly domains are an intentional part of that engineering. However, the argument has to be made because the pyramid has trained the present age to see *neither*. This deliberate redundancy is necessary: because a field-blind age has become **मुग्ध (*mugdha*)**—bewildered before what remains present—the book must repeat its points, knowing that only repetition can clear confusion that has hardened into civilizational self-doubt.
 
-The clearing begins later — shadow by shadow, plate by plate, until the field is a little brighter again. These pages say only what was darkened, what was placed in front of the Sun, and what changes when Sanskrit's true radiance can be seen again.
+The clearing begins later — shadow by shadow, plate by plate, until the field is a little brighter again. These pages say only what the eclipse darkened, what the pyramid placed in front of the Sun, and what changes when the world can see Sanskrit's true radiance again.
 
 ## What Was Eclipsed
 
 The language names itself **संस्कृतम् (*saṃskṛtam*)**: well-made, wholly formed, perfectly synthesized.[NOTE: samskrtam-morphology] The **परम्परा (*paramparā*)** that received and documented it is an unbroken lineage-chain and distributed transmission architecture. That architecture distinguished Sanskrit from **प्राकृत (*prākṛta*)**, recognized drift as **अपभ्रंश (*apabhraṃśa*)**, and treated the word-meaning bond as **सिद्ध (*siddha*)**: already established.
 
-The Vedic corpus displays the grammar; the recitation lineages preserve it. The question is why the engineering character of Sanskrit has been treated for so long as anything other than obvious.
+The Vedic corpus displays the grammar; the recitation lineages preserve it. The question is why the philological machinery treats the engineering character of Sanskrit as anything other than obvious.
 
 Sanskrit is speech: recited, spoken, sung, parsed, and taught across the two learned domains, Vedic and worldly — in mantra, poetry, śāstra, dialogue, and drama. But the same speech also displays an architecture ordinary natural languages do not expose with this precision: the **वर्णमाला (*varṇamālā*)** (the ordered inventory of sonomers, measured sound-particles; Chapters 8 and 9 move from the sound-field to the selected grid), the **धातु (*dhātu*)** inventory, the physiological phonetic grid, the calibration matrix, and the multi-axis grammatical system. The architecture is observable in the Vedas. Both domains display engineering. The origin of Sanskrit is a separate question; the engineering is what is self-evident.
 
@@ -93,7 +93,7 @@ The architectural route follows Sanskrit across scale: *varṇa* as sonomer, *ak
 
 The origin of Sanskrit is not the primary domain here (though **अपौरुषेय (*apauruṣeya*)** remains the answer preserved by the lineage-chain, and Chapter 17 §17.7 offers an honest speculation for the rationalist mind that cannot accept it). The observable claim is much narrower: Sanskrit's engineering exists on the page and in the mouth. Because the Vedas preserve it and the decoding lineages unfold it, Pāṇini's unfolding is simply the finest surviving document of that continuous work.
 
-Sanskrit seen as calibrant architecture restores the field that the eclipse darkened.
+Seeing Sanskrit as calibrant architecture restores the field that the eclipse darkened.
 
 ## What Follows
 

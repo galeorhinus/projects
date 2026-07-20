@@ -21,7 +21,15 @@ When rewriting existing prose:
 - Turn noun-heavy claims into verb-driven sentences.
 - Make the causal sequence explicit: who acts, by what mechanism, and with what consequence.
 - Combine related beats when separate short sentences would force the reader to reconstruct the connection.
-- Preserve hammers, but make sure the reader has been prepared for them.
+- Preserve an established refrain when it belongs to the manuscript's architecture, but do not use its compressed cadence as a drafting template.
+
+## Books and Chapters as Textual Agents
+
+Books, chapters, sections, figures, and tables may perform actions that texts genuinely perform: they may *argue, introduce, compare, map, survey, trace, show, propose, return to,* or *summarize*. Use them when they accurately describe the reader's movement through the text and when replacing them would create a strained passive construction or assign the work to the wrong actor.
+
+The restriction applies when a textual unit displaces the actor inside the substantive claim. A book does not engineer Sanskrit, preserve the Vedas, hide a category, or convert a linguistic label into a political division; the architects, lineages, pyramid, philologists, and missionaries perform those actions. Also avoid recoverist personification in which the book *walks, reads, recovers,* or *reclaims* its way toward a hesitant conclusion.
+
+The test is functional: if the sentence describes what the text actually does for the reader, the textual subject is natural. If it describes what happened in language, history, or institutions, use the actor that performed the action.
 
 ## Sanskrit Term Typography
 
@@ -30,7 +38,7 @@ Use Devanagari as an anchor, not as wallpaper.
 1. **Source passages:** epigraphs, mantras, sūtras, and quoted śāstric passages use Devanagari + IAST + translation.
 2. **Load-bearing first use:** major Sanskrit categories use Devanagari + IAST + a short gloss on first use in a chapter when the reader needs the anchor: **धातुः (*dhātuḥ*)** — semantic atom.
 3. **Running prose:** after first use, use IAST alone: *dhātuḥ*, *akṣara*, *chandas*, *bhāṣā*. Do not repeat Devanagari every time.
-4. **Bold:** reserve bold Devanagari for installation moments, tables, figures, hammers, and terms being defined. Ordinary Devanagari does not need bold.
+4. **Bold:** reserve bold Devanagari for installation moments, tables, figures, established refrains, and terms being defined. Ordinary Devanagari does not need bold.
 5. **Familiar names:** Sanskrit, Veda/Vedas, Pāṇini, Gītā, Upaniṣad, and similar names use their normal English-facing forms unless the written form itself matters.
 6. **Figures:** diagrams may make Devanagari primary; captions can carry IAST and glosses.
 
@@ -42,41 +50,33 @@ Use this sequence often:
 2. State the problem.
 3. State the test.
 4. Show what the evidence does.
-5. Land the conclusion.
+5. Complete the explanation without adding a slogan merely to close it.
 
 Example pattern:
 
-> The first test is compression. If Sanskrit is engineered at the atomic level, the *dhātu* inventory should not sprawl randomly. It should concentrate meaning into compact, reusable forms. The data does exactly that.
+> The compression test asks whether an engineered *dhātu* inventory concentrates meaning into compact, reusable forms instead of sprawling randomly; the observed concentration supplies the evidence needed to evaluate that claim.
 
 This is **causal expository prose**: each sentence supplies the reason for the next. Sentence length may vary, and related operations may stay together in one sentence. Do not render an outline as serial short declarations or rely on juxtaposition to conceal a missing premise.
 
-The rule in three lines: *Express causality primarily through actors and verbs. Use conjunctions when the relationship would otherwise remain unclear. Reserve short declarative sentences for conclusions, refrains, and revelations.*
+The rule in three lines: *Express causality through actors, operations, and consequences. Use conjunctions where they carry a real relationship. Let sentence length follow the thought instead of manufacturing a short verdict.*
 
-Ration: use no more than one sentence-opening logical connector every two or three paragraphs; express most relationships through actors, causal verbs, and sequence; internal conjunctions remain available wherever clarity requires them.
+Use an explicit transition whenever the argument changes evidentiary level, actor, scale, domain, or line of support. The transition may take the form of a conjunction, a causal verb, a relative clause, a colon, or a sentence that identifies the new source of evidence. No numerical quota governs connectors; variety in form and position prevents them from becoming a metronome.
 
-## Turn Discipline
+## Transition Discipline
 
-Short turn sentences are useful when the reader needs a major shift signaled clearly:
+Carry a major turn inside the first substantive sentence of the new movement, where the reader can see what changed and why. Isolated hinges such as *The burden now shifts*, *That closes the question*, and *The Sun can be found* usually expose the outline without performing the transition.
 
-> The burden now shifts.
-> That closes the question.
-> The Sun can be found.
+When a paragraph moves from internal architecture to comparative evidence, from mechanism to consequence, or from one evidentiary field to another, tell the reader that the level has changed. A substantive segue such as *The surrounding sound-field reinforces that internal result* performs real argumentative work; suppressing it forces the reader to reconstruct the relationship.
 
-Use them for major turns, corrections, verdicts, and frame-shifts. Do not use them as default paragraph openers.
+If the next sentence already performs the turn, delete the hinge. When the transition requires explanation, join the previous result to the new subject through the actor, operation, or consequence that connects them.
 
-If the next sentence already performs the turn, delete the hinge.
+Prefer a connected movement:
 
-Short turns sharpen an explanation; they do not replace one. Reserve compressed parataxis for an earned hammer or refrain after the causal work is complete.
+> Once the *varṇamālā* has selected measured sonomers, a *dhāturacanā* can place them in a recoverable arrangement and build a *dhātuḥ*.
 
-Prefer:
+Over a serial outline:
 
 > *Varṇāḥ* enter as sonomers. A measured *dhāturacanā* holds them. The filled scaffold becomes a *dhātuḥ*.
-
-Over:
-
-> The order matters. This chapter argues from procedure first.
-
-The turn should sharpen the argument. It should not expose the scaffolding.
 
 ## Concept Introduction Pattern
 
@@ -216,34 +216,34 @@ Also avoid the interpretive verb pattern **reads X as Y**. Use **treats X as Y**
 
 Literal use remains fine: "read the chapter," "read the manuscript," "English-reading world." Domain terms are also fine when required: *qirā'āt* readings, textual-critical variant readings, quoted source language.
 
-## The 1–2 Hammer
+## Conclusions Without a Formula
 
-The book often lands a point through a two-sentence hammer.
+The manuscript requires no two-sentence verdict, no short closing sentence, and no repeated cadence at the end of each section. Let the final sentence complete the causal explanation at its natural length.
 
-The first sentence states the correction. The second sentence sharpens the frame, reverses the inherited wording, or names the consequence.
+When an established refrain already performs structural work elsewhere in the book, preserve it deliberately and judge it as an exception. New prose should not imitate that compression merely to sound decisive.
 
-Use this pattern when a section needs a clean verdict or when a technical distinction must become memorable.
+Prefer the relationship in one developed sentence:
 
-Examples:
+> By documenting an architecture that was already operating, Pāṇini served as its finest decoder; the codification story reverses the direction of his work.
+
+Over a manufactured two-beat close:
 
 > Pāṇini did not codify Sanskrit. He decoded it.
 
-> Domain is not chronology. Mode is not drift.
+## The Hammer Pass
 
-> Codification is standardization by authority. Calibration is standardization by architecture.
+Draft and revise the causal explanation before judging its rhetorical close. Ordinary structure, transition, and exposition passes must preserve an existing hammer in place unless it creates a factual contradiction or makes the surrounding argument incoherent. They may repair the prose that leads into it, but they must not delete the hammer merely because it is short, emphatic, or paratactic. Established refrains carry a presumption of retention.
 
-> The dogma makes Pāṇini a rupture. The architecture makes him a witness.
+After the explanation is complete, run a separate, optional **Hammer Pass**. A hammer earns its place when it delivers a genuine reversal, states a newly established consequence, returns an established refrain, or closes a major movement memorably. It should not compensate for a missing transition, repeat the preceding sentence in shorter words, or force the preceding paragraph into compressed setup.
 
-> The script is not the foundation. The sound architecture is the foundation.
+For each candidate:
 
-Rules:
+1. Read the passage without the hammer and confirm that the causal sequence remains complete.
+2. Restore the hammer and identify the additional rhetorical or structural work it performs.
+3. Delete generic confirmations such as "That is engineering" or "The distinction matters."
+4. Check nearby sections for the same cadence; repetition can turn emphasis into a verbal tic.
 
-- Keep both sentences short.
-- Do not over-explain inside the hammer.
-- Prepare the reader before the hammer lands.
-- Use sparingly enough that the device remains forceful.
-- Prefer concrete nouns and active verbs.
-- Do not let ordinary transitions imitate hammers. Reserve short punch sentences for real corrections, verdicts, or reversals.
+The governing test is simple: if removing the hammer exposes missing reasoning, repair the reasoning first. If removing it changes nothing, delete it. If the argument remains complete but becomes less memorable, keep it.
 
 ## What To Avoid
 
@@ -285,7 +285,7 @@ For the main book:
 - Preserve Sanskrit technical terms.
 - Use numbered or tabular explanation when the argument has multiple moving parts.
 - Let data sections read as tests, not surveys.
-- Close sections with verdicts, not summaries.
+- End each section when its last load-bearing explanation is complete, without adding a summary slogan.
 
 ## Short Form
 

@@ -4,9 +4,9 @@
 
 ---
 
-Now the Sun speaks for itself. The question is no longer what the pyramid said about Sanskrit, but what Sanskrit's own grammar says about the order it was built to preserve.
+Now the Sun speaks for itself. The question is no longer what the pyramid said about Sanskrit, but what Sanskrit's own grammar says about the order it preserves.
 
-The first three obstructions have been cracked: Sanskrit made to look descended, botanical, and codified. The next movement removes the botanical and codified distortions by restoring Sanskrit's own account: wholly created, anti-entropic, and calibrated.
+The clearing cracks the first three obstructions, dismantling how the pyramid made Sanskrit look descended, botanical, and codified. The next movement removes those botanical and codified distortions by restoring Sanskrit's own account: wholly created, anti-entropic, and calibrated.
 
 ![Figure E.6 — The Sun's Own Account. Three plates: Descended, Botanical, and Codified are cracked; this movement removes Botanical and Codified from Sanskrit's self-category.](figures/eclipse_spine/eclipse_20_part02_sun_account_cracked_1_2_3.svg){#fig:eclipse-part02-sun-account width=100%}
 

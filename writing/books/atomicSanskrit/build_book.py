@@ -189,10 +189,11 @@ PART_HEADER_RE   = re.compile(
 # is to wrap each script's runs in raw-LaTeX `{\<fontname> …}` so the font
 # switch is unconditional inside the wrap group.
 SCRIPT_WRAPS: list[tuple[str, re.Pattern]] = [
-    # Devanagari block + Vedic Extensions + ZWJ/ZWNJ joiners.
-    # Vedic Extensions (U+1CD0–U+1CFF) carries the jihvāmūlīya (᳚) and
-    # upadhmānīya (᳛) marks used in the Ayogavāha endnote.
-    (r"\devanagarifont",  re.compile(r"[ऀ-ॿ᳀-᳿‌‍]+")),
+    # Devanagari block + ZWJ/ZWNJ joiners.
+    (r"\devanagarifont",  re.compile(r"[ऀ-ॿ‌‍]+")),
+    # Vedic Extensions (U+1CD0–U+1CFF). Kept separate because the configured
+    # Adobe Devanagari face does not contain signs such as upadhmānīya (ᳶ).
+    (r"\vedicfont",       re.compile(r"[᳀-᳿]+")),
     # Arabic block (covers Arabic letters + diacritics)
     (r"\arabicfont",      re.compile(r"[؀-ۿ]+")),
     # Hebrew block (covers Hebrew letters, vowel points, cantillation marks)

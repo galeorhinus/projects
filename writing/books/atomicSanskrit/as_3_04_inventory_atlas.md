@@ -31,7 +31,7 @@ The five Sanskrit-named places (BIL, DEN, RET, PAL, VEL) hold their *sthāna* na
 
 **The vertical axis holds thirteen manners.** Thirteen manner rows describe how the consonant is shaped at its place: five stop rows (voiceless unaspirated, voiceless aspirated, voiced unaspirated, voiced aspirated, ejective), two affricate rows (voiceless, voiced), two fricative rows (voiceless, voiced), and one each for nasal, lateral, tap-or-trill, and approximant / glide. The two aspirated stop rows are Sanskrit's *mahāprāṇa* row pair, set apart by the strip preset described below. The ejective row appears for languages holding the Caucasian or Native American glottal-pressure system; Sanskrit does not light it.
 
-**The mahāprāṇa-strip preset isolates the base field.** Chapter 8 §8.3 defines a 23-cell Sanskrit base by holding aside the ten *mahāprāṇa* stop cells: **ख छ ठ थ फ** and **घ झ ढ ध भ**. Sensitivity check, not demotion. Sanskrit's vertical breath axis remains structural; Chapter 8 needs the base field isolated from the breath layer Sanskrit stacks on top. The preset removes manner rows 1 (voiceless aspirated) and 3 (voiced aspirated) from every language's harmonized cell set before comparison. Aspirated stops in any comparison language are removed too. The atlas then measures coverage across the rows Sanskrit's base lights, not across all manner rows.[NOTE: inventory-atlas-coverage-surveys]
+**The *mahāprāṇa*-strip preset isolates the base field.** Chapter 8 §8.3 defines a 23-cell Sanskrit base by holding aside the ten *mahāprāṇa* stop cells—**ख छ ठ थ फ** and **घ झ ढ ध भ**—running a sensitivity check rather than executing a demotion. Sanskrit's vertical breath axis remains structural, while Chapter 8 needs the base field isolated from the breath layer Sanskrit stacks on top. Before comparison, the preset removes manner rows 1 (voiceless aspirated) and 3 (voiced aspirated) from every language's harmonized cell set, systematically removing aspirated stops in any comparison language too. The atlas then measures coverage across the rows Sanskrit's base lights rather than across all manner rows.[NOTE: inventory-atlas-coverage-surveys]
 
 **The field-versus-coordinate distinction keeps the comparison honest.** Chapter 8 §8.2 introduces it; the full treatment is here.
 
@@ -39,7 +39,7 @@ A *spoken sound-field* is the set of acoustic realizations a language's speakers
 
 A *sonomeric coordinate* is a contrastive unit the language promotes into its inventory as an independent slot. Two sounds occupy two coordinates only if the language treats them as distinct word-making units.
 
-Tamil speakers produce voiced stop sounds in real speech. Tamil's contrastive inventory does not promote those voiced realizations to independent voiced-stop coordinates the way Sanskrit does. The atlas records the latter, not the former. The same caution governs aspirated stops, palatal-versus-post-alveolar distinctions, and any other case where a language's spoken field contains material its inventory does not formally credit. The atlas operates at the inventory layer because Sanskrit's engineering operates at the inventory layer.
+While Tamil speakers produce voiced stop sounds in real speech, Tamil's contrastive inventory does not promote those voiced realizations to independent voiced-stop coordinates the way Sanskrit does. The atlas strictly records the latter rather than the former. The same caution governs aspirated stops, palatal-versus-post-alveolar distinctions, and any other case where a language's spoken field contains material its inventory does not formally credit. The atlas operates at the inventory layer, mirroring how Sanskrit's engineering itself operates at the inventory layer.
 
 **The coverage criterion is union, not ranking.** For each three-language comparison set, a Sanskrit cell counts as *covered* if at least one of the three languages lights it. Chapter 8 asks whether the subcontinental field — or some other region — supplies enough material to make Sanskrit's base recoverable. Union coverage answers that question without conflating it with per-language ranking.
 
@@ -93,7 +93,7 @@ Three north-western contact-zone languages — Pashto (*"Iranian"* by the pyrami
 
 Two geographically opposite sets — deep south and north-western frontier — deliver the same count with the same unfilled list. Both regions sit inside the subcontinental retroflex contact zone; both hold the cells Sanskrit's base lights.
 
-The set is taxonomically mixed. Pashto is *"Iranian"* by the pyramid's label; Nuristani is a separate IE branch the machinery classifies neither as Indic nor as Iranian; Burushaski is a language-isolate. The three pyramid classifications collide inside one geographic outcome — and the outcome ties the southern set. The frontier inventories acquired the retroflex column from the same subcontinental contact zone the deep-south languages preserve. The geography predicts the count; the classifications do not.
+The set presents a taxonomically mixed profile. The pyramid's label classifies Pashto as *"Iranian"*, the machinery classifies Nuristani as a separate IE branch neither Indic nor Iranian, and Burushaski stands as a language-isolate. These three pyramid classifications collide inside one geographic outcome, producing a result that ties the southern set. The frontier inventories acquired the retroflex column from the same subcontinental contact zone the deep-south languages preserve. Geography alone predicts the count, leaving the classifications powerless to explain it.
 
 ## 4.6 Iranian Survey: 13 of 23 (Non-Contact Zone)
 
@@ -121,7 +121,7 @@ The Slavic & Caucasus IE Survey runs three IE-classified languages along the ste
 
 All three languages share the pyramid's "Indo-European" label that supposedly makes them Sanskrit's relatives. East Slavic and Caucasian Iranian together cover less of Sanskrit's base than the body's Western IE Survey at 14/23, and considerably less than the Central Asian Tajik + Kazakh + Kyrgyz at 12/23 — itself classified as a mix the pyramid classifies as "Iranian" and "Turkic". The IE-classified sets span 11/23 to 20/23 depending only on which IE languages sat geographically close to the subcontinental contact zone.
 
-The steppe corridor — frequently cited as the source field in the pyramid's Aryan-migration story — supplies less of Sanskrit's base material than the deep south, the central forest belt, or the north-western frontier.
+The steppe corridor — which the pyramid's Aryan-migration story frequently cites as the source field — supplies less of Sanskrit's base material than the deep south, the central forest belt, or the north-western frontier.
 
 ## 4.9 The Coverage Cascade
 
@@ -147,8 +147,8 @@ The eleven surveys — four in the body, seven in this appendix — stack into a
 
 **The pyramid's "Iranian sister branch" claim collapses on the contact axis.** Pashto and Balochi — Iranian languages inside the north-western subcontinental contact zone — hold the retroflex column and contribute heavily to the 20/23 NW Frontier ceiling. Farsi, Kurdish, and Talysh — Iranian languages outside the contact zone — deliver 13/23, the same coverage three random external languages do. The Iranian classification predicts nothing once contact is held constant.
 
-**The *"Austro-Asiatic"* family label fails the same test.** Munda inside the central forest belt delivers 18/23. The same family label across dispersed subcontinental geography (Sora + Khasi + Nicobarese) delivers 15/23. The label flattens three different sound-fields.
+**The *"Austro-Asiatic"* family label fails the exact same test.** While Munda inside the central forest belt delivers 18/23, the same family label spread across dispersed subcontinental geography (Sora + Khasi + Nicobarese) delivers 15/23. The manufactured label forcibly flattens three different sound-fields.
 
 **The body's four-step ladder hits the cascade at four step-points.** Southern Survey (20), Forest-Belt Survey (18), Western IE Survey (14), Central Asian Survey (12) — each step is a measurable falling-off from the subcontinental ceiling. The seven appendix controls confirm that each step is real, is not driven by which three languages a survey set happens to use, and persists across alternate language choices the pyramid might insist on.
 
-Sanskrit's base coordinates are subcontinental. They live in the subcontinental mouth — south, central, north-western — across languages the machinery sorts into three different family classifications, and across languages the pyramid denies any classificatory relationship to. The classifications do not move the count. The geography does. The engineering thesis is consistent with the field. The transported-cargo story is not.
+Sanskrit's base coordinates remain fundamentally subcontinental. They live in the subcontinental mouth—spanning south, central, and north-western regions—across languages the machinery sorts into three different family classifications, alongside languages the pyramid denies any classificatory relationship to. The classifications entirely fail to move the count, leaving geography to drive the outcome. The engineering thesis stands completely consistent with the field, exposing the transported-cargo story as structurally incoherent.

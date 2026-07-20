@@ -55,15 +55,15 @@ What the substrate contributes: the phonemes. What Sanskrit's engine contributes
 
 ## 5.4 The Substrate — Japanese
 
-Japanese was chosen for three reasons.
+This demonstration uses Japanese for three reasons.
 
-**First, geographic and civilizational distance.** Japan was a far destination of Wave 2 transmission — the **अष्टाध्यायी (*Aṣṭādhyāyī*)** methodology reaching Japan through Buddhist-monastic contact across the centuries that followed Pāṇini (Chapter 19 §19.2). Its Japanese phonological substrate is unrelated to Sanskrit's. The construction is therefore a genuine cross-substrate experiment.
+**First, geographic and civilizational distance.** Japan stood as a far destination of Wave 2 transmission, with the **अष्टाध्यायी (*Aṣṭādhyāyī*)** methodology reaching Japan through Buddhist-monastic contact across the centuries that followed Pāṇini (Chapter 19 §19.2). Its Japanese phonological substrate remains entirely unrelated to Sanskrit's, making the construction a genuine cross-substrate experiment.
 
 **Second, phonemic compatibility.** Japanese has five vowels (/a, i, u, e, o/) and roughly fifteen consonant phonemes (/k, g, s, z, sh, j, t, d, ch, ts, n, m, h, b, p, r, w, y/). All can be rendered in Devanagari without extension. The substrate fits the script.
 
 **Third, audience.** The argument that Sanskrit's architecture is a universal meta-system is more compelling when demonstrated on a substrate whose speakers have a developed literary tradition of their own.
 
-Japanese makes no aspirated-unaspirated distinction in stops (Sanskrit's *pa* / *pha* / *ba* / *bha* collapses to Japanese *p* / *b*). It has no retroflex stops (Sanskrit's *ṭa* / *ṭha* / *ḍa* / *ḍha* collapses to dental *ta* / *da*). No /l/ (Sanskrit *la* maps to Japanese *ra*). No /v/ (Sanskrit *va* maps to *wa*). A highly restricted syllable structure (CV with optional moraic /N/; no clusters). The substrate brings these restrictions, and the cipher absorbs the collapses without losing the engine's productivity.
+Japanese makes no aspirated-unaspirated distinction in stops, forcing Sanskrit's *pa* / *pha* / *ba* / *bha* to collapse to Japanese *p* / *b*. The language holds no retroflex stops, forcing Sanskrit's *ṭa* / *ṭha* / *ḍa* / *ḍha* to collapse to dental *ta* / *da*, while lacking /l/ (mapping Sanskrit *la* to Japanese *ra*) and lacking /v/ (mapping Sanskrit *va* to *wa*). The substrate brings these restrictions alongside a highly restricted syllable structure (CV with optional moraic /N/; no clusters), yet the cipher absorbs the collapses without losing the engine's productivity.
 
 The first demonstration uses a base cipher that preserves Sanskrit structure even when the output violates Japanese phonotactics. §5.9 adds a stricter phonotactic-adjustment layer.
 
@@ -73,7 +73,7 @@ The target. Three English sentences:
 
 > *The baker bakes a pie. The pie is hollow. The baker laughs alone.*
 
-The joke's polemical idiom is open. *Baker* is Schleicher (Chapter 1 §1.1; Chapter 18 §18.1; Appendix Part 1). *Pie* is PIE. *Hollow* exposes what PIE actually is once the bake is examined. *The baker laughs alone* is the closing observation: a fabricator's product has no audience that can verify it from the inside.
+The joke's polemical idiom operates openly. *Baker* represents Schleicher (Chapter 1 §1.1; Chapter 18 §18.1; Appendix Part 1), *Pie* stands for PIE, and *Hollow* exposes what PIE actually is once the bake is examined. The closing observation that *the baker laughs alone* demonstrates how a fabricator's product has no audience that can verify it from the inside.
 
 The Sanskrit:
 
@@ -154,7 +154,7 @@ Three things.
 
 **Second, engineering is transferable.** Arithmetic transfers from counting apples to counting electrons. Musical notation transfers from European harmony to Indian *rāga*. Sanskrit's framework transfers from Sanskrit phonemes to Japanese phonemes. *Transferability is the signature of engineering.*
 
-**Third, Schleicher's PIE fails by contrast.** His fable is a text. Sanskrit's engine is a generator. A text can be imitated. An engine can produce. Schleicher's *Avis akvāsas ka* is a single short text frozen in his notebook; the Japanese-substrate construction here could produce ten thousand more sentences tomorrow. One used the recipe. The other had it on his shelf and refused to. §5.8 explains why.
+**Third, Schleicher's PIE fails by contrast.** His fable operates as a text, whereas Sanskrit's engine operates as a generator. While a text can only be imitated, an engine can produce. Schleicher's *Avis akvāsas ka* sits as a single short text frozen in his notebook, while the Japanese-substrate construction here could produce ten thousand more sentences tomorrow. One used the recipe, while the other kept it on his shelf and refused to use it, a refusal §5.8 explains.
 
 Schleicher produced a baked object. Sanskrit supplies the recipe.
 
@@ -164,7 +164,7 @@ A note on Japanese phonotactics. The cipher above permits consonant clusters (*s
 
 Schleicher had access to the recipe.
 
-By the 1860s, the architecture of Sanskrit had been laid out in published form across European philology for over a generation. **Franz Bopp's *Vergleichende Grammatik der Sanskrit-, Send-, Armenischen-, Griechischen-, Lateinischen-, Litauischen-, Altslavischen-, Gothischen- und Deutschen*** (1833–1852) had Sanskrit's grammatical structure fully presented to the German philological community. The Pune-Calcutta-Oxford-Göttingen knowledge pipeline (Appendix Part 1 develops the institutional architecture) was active and well-fed. Schleicher had access to all of it: Pāṇini's *Aṣṭādhyāyī*, the *Dhātupāṭha*, the **प्रातिशाख्य (*Prātiśākhya*)** discipline, the **वर्णमाला (*varṇamālā*)** organized by **स्थान (*sthāna*)** and **प्रयत्न (*prayatna*)**. He could read the recipe. He could see what an actually engineered language looks like — what a working *dhātu*-*pratyaya*-*vibhakti* combinatorics, an audible phonological grid, and a multi-axis specification that generates infinite well-formed sentences from a finite atomic substrate would mean.
+By the 1860s, European philology had laid out the architecture of Sanskrit in published form for over a generation. **Franz Bopp's *Vergleichende Grammatik der Sanskrit-, Send-, Armenischen-, Griechischen-, Lateinischen-, Litauischen-, Altslavischen-, Gothischen- und Deutschen*** (1833–1852) had Sanskrit's grammatical structure fully presented to the German philological community. The Pune-Calcutta-Oxford-Göttingen knowledge pipeline (Appendix Part 1 develops the institutional architecture) was active and well-fed. Schleicher had access to all of it: Pāṇini's *Aṣṭādhyāyī*, the *Dhātupāṭha*, the **प्रातिशाख्य (*Prātiśākhya*)** discipline, the **वर्णमाला (*varṇamālā*)** organized by **स्थान (*sthāna*)** and **प्रयत्न (*prayatna*)**. He could read the recipe. He could see what an actually engineered language looks like — what a working *dhātu*-*pratyaya*-*vibhakti* combinatorics, an audible phonological grid, and a multi-axis specification that generates infinite well-formed sentences from a finite atomic substrate would mean.
 
 He had the recipe. He did not use it.
 
@@ -176,7 +176,7 @@ The baker was *jealous* of the recipe in the institutional-possessive sense — 
 
 The bake was hollow. The hollowness was structurally required: a high-quality alternative would have been embarrassed by direct comparison with the original; only a hollow alternative could be defended in the absence of comparison. The institutional machinery that produced PIE has spent the century and a half since enforcing that absence of comparison.
 
-The baker is not a hapless cook who didn't know any better. He had read the recipe — had it on his shelf, had received the derivations and the grammatical framework from Pune via the philological pipeline — and chose to bake a hollow alternative because the alternative served the asuric pyramid he was operating within. The recipe was available to both. Only one was willing to use it.
+The baker is not a hapless cook who didn't know any better. He had read the recipe, kept it on his shelf, and received the derivations and the grammatical framework from Pune via the philological pipeline, yet chose to bake a hollow alternative to serve the asuric pyramid he operated within. The recipe remained available to both, yet only one was willing to use it.
 
 The baker had the recipe.
 

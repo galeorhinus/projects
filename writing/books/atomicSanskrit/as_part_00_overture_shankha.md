@@ -26,8 +26,8 @@ The eclipse remains intact at this threshold. The conch does not break the plate
 
 ![Figure E.2 — The Śaṅkha Sounds. The full eclipse remains in place, but the conch has sounded while the field is still dark.](figures/eclipse_spine/eclipse_00_overture_shankha_full.svg){#fig:eclipse-overture-shankha width=100%}
 
-Sanskrit is the Sun. The asuric pyramid has drawn its shadow across the field. What should have been obvious went dark: a language held by seekers, caretakers, reciters, *vaiyākaraṇāḥ*, mothers, teachers, students, and lineages across the depth of time.
+Sanskrit is the Sun. The asuric pyramid has drawn its shadow across the field. What should have been obvious went dark: a language that seekers, caretakers, reciters, *vaiyākaraṇāḥ*, mothers, teachers, students, and lineages actively held across the depth of time.
 
-Before the light returns, the opposing parties must be made visible: on one side stand the seekers and caretakers (the civilization trained to listen, correct, remember, and keep looking), while on the other side stands the asuric pyramid—a finite order with an apex at its head that constantly demands the field look upward for authority.
+Before the light returns, the overture makes the opposing parties visible: on one side stand the seekers and caretakers (the civilization trained to listen, correct, remember, and keep looking), while on the other side stands the asuric pyramid—a finite order with an apex at its head that constantly demands the field look upward for authority.
 
 The Śaṅkha sounds while the field is still dark. With the caretakers and the finite order now visible, the work narrows to the shadow itself — how it was cast, and how it lifts.

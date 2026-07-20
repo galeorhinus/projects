@@ -147,9 +147,10 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 9.5 Breath as a Coordinate — *Mahāprāṇa *and* ayogavāha *as breath made structural.*
 - 9.6 Nuclei, Contacts, and the Measure — *The* akṣara *as vowel-centered assembly;* mātrā *as timed measure; the sonomer/audiograph distinction.*
 - 9.7 The Sound Volume — *The 5×7 consonant plane extruded through the 14-vowel axis.*
-- 9.8 Engineered Margin — *What Sanskrit leaves out as collision-avoidance and preservation margin.*
-- 9.9 Varṇa Is Not Letter — *The Alphabetic shadow lifted:* varṇa *is a measured sound-particle, the* varṇamālā *a sonomeric grid — not an alphabet of marks. The marks are downstream; the grid is the engineering.*
-- 9.10 The Grid Holds the Garland — *The close: addressed, role-assigned, timed sonomers become the parts Chapter 10 snaps into atoms.*
+- 9.8 What Earns a Coordinate — *The two addresses outside the independent inventory expose the distinction between surveyed material, governed outputs, and reusable sonomers.*
+- 9.9 Engineered Margin — *What Sanskrit leaves out as collision-avoidance and preservation margin.*
+- 9.10 Varṇa Is Not Letter — *The Alphabetic shadow lifted:* varṇa *is a measured sound-particle, the* varṇamālā *a sonomeric grid — not an alphabet of marks. The marks are downstream; the grid is the engineering.*
+- 9.11 The Grid Holds the Garland — *The close: addressed, role-assigned, timed sonomers become the parts Chapter 10 snaps into atoms.*
 
 ---
 
@@ -288,7 +289,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 
 **Appendix Part 3 — The Sonomer and the Audiograph: Sound Engineering, Pun Intended** *(drafted)* — *Reframes the script argument around the sonomer-first claim: Sanskrit is sonomeric before it is audiographic. Prosecutes the Brāhmī-from-Aramaic account as an interface trap; coins **audiography**; runs the place-value / Roman-numerals logic test in full (all alphabetic systems sit at the Roman-numeral level; all audiographic systems at the place-value level; the marks are the easy part, the grid is the achievement). Hangul as the control case.*
 
-- 3.1 Sonomer First, Audiograph Second · 3.2 The Interface Trap · 3.3 The "Brilliantly Adapted" Move · 3.4 What Aramaic Cannot Carry · 3.5 The Aramaic-from-Brāhmī Thesis · 3.6 Stone Preserves the Pyramid · 3.7 Audiography — The Name Withheld · 3.8 Three Design Cases: Sound, Script, Standard · 3.9 The Foundational Claim on Writing · 3.10 The Work Ahead
+- 3.1 Sonomer First, Audiograph Second · 3.2 The Interface Trap · 3.3 The "Brilliantly Adapted" Move · 3.4 What Aramaic Cannot Carry · 3.5 The Aramaic-from-Brāhmī Thesis · 3.6 Stone Preserves the Pyramid · 3.7 Audiography — The Name Withheld · 3.8 Three Design Cases: Sound, Script, Standard · 3.9 The Sonomer Travels East · 3.10 The Foundational Claim on Writing · 3.11 The Work Ahead
 
 **Appendix Part 4 — The Subcontinental Sound-Field: Inventory Atlas and Control Surveys** *(drafted)* — *Field-level supplement to Chapter 8: the full atlas methodology and seven control surveys (Munda 18/23, Mixed 18/23, dispersed 15/23, Northwest Frontier 20/23, non-contact Iranian 13/23, Caucasus 10/23, Slavic & Caucasus IE 11/23). The §4.9 cascade: geographic distance predicts coverage, family-tree classification predicts noise.*
 

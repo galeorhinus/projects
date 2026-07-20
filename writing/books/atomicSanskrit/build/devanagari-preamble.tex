@@ -25,6 +25,9 @@
 \captionsetup[figure]{labelformat=empty}
 
 \newfontfamily{\devanagarifont}[Script=Devanagari]{Adobe Devanagari}
+% Adobe Devanagari does not cover the Vedic Extensions block. Use a Sanskrit
+% face only for those signs so ordinary Devanagari typography remains intact.
+\newfontfamily{\vedicfont}[Script=Devanagari]{Tiro Devanagari Sanskrit}
 \newfontfamily{\arabicfont}[Script=Arabic]{Geeza Pro}
 \newfontfamily{\hebrewfont}[Script=Hebrew]{Arial Hebrew}
 \newfontfamily{\tamilfont}[Script=Tamil]{Tamil Sangam MN}

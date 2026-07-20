@@ -49,9 +49,9 @@ The verse gives the six characteristics in its own order. The tests proceed in e
 
 > Make it small. Remove waste. Prevent ambiguity. Give it meaning. Let it face many directions. Preserve identity through use.
 
-That sequence begins with construction because the *dhātuḥ* must first be visible as an assembled unit. Only then can the six criteria be tested at the atomic scale.
+That sequence begins with construction because the *dhātuḥ* must first be visible as an assembled unit. Only then can the analysis test the six criteria at the atomic scale.
 
-The consequence is large. If the *dhātuḥ* passes the test, Sanskrit's basic semantic unit reveals itself as a thoughtfully assembled sonomeric form rather than a botanical organ grown by drift. The *dhātuḥ* becomes an atomic instance of the same architectural discipline the *sūtra-lakṣaṇam* already recognizes in the *sūtra*.
+If the *dhātuḥ* passes the test, Sanskrit's basic semantic unit reveals itself as a thoughtfully assembled sonomeric form rather than a botanical organ grown by drift. The *dhātuḥ* immediately becomes an atomic instance of the exact same architectural discipline the *sūtra-lakṣaṇam* already recognizes in the *sūtra*, delivering a consequence that is immense.
 
 ## 10.3 From Sonomers to Semantic Atoms
 
@@ -208,7 +208,7 @@ The chart shows the distribution shape. The roster below lists each scaffold by 
 
 The *gamādi* <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> alone holds **42.7%** of the inventory; ten scaffolds together cover **91.0%**. The conclusion is not that Sanskrit has short words. The conclusion is that Sanskrit uses a small number of measured scaffolds to hold the overwhelming majority of its semantic atoms. The architecture is not merely compact. It is selective.
 
-This is the scaffold discovery. The *Dhātupāṭha* is not merely a list of semantic atoms. It is an inventory whose atoms fall into a small number of measured construction patterns. Ten scaffolds hold the overwhelming majority; forty-seven hold the whole measured inventory.
+The *Dhātupāṭha* operates not merely as a list of semantic atoms, but as a measured inventory whose atoms fall precisely into a small number of construction patterns. Ten scaffolds hold the overwhelming majority, while forty-seven hold the whole measured inventory, establishing the scaffold discovery.
 
 Sonomer count showed compactness. *Racanā* count now shows economy.
 
@@ -262,7 +262,7 @@ The *dhātuḥ* is where Sanskrit places semantic force. It is not a sonomeric o
 
 The table shows what *sāravat* means at the atomic scale: tiny forms hold immense semantic force. ⟪कृ⟫ (*kṛ*) alone generates action, actor, object, obligation, refinement, and transformation. ⟪भू⟫ (*bhū*) holds being and becoming. ⟪गम्⟫ (*gam*) holds motion into travel, arrival, the arrived teaching (*āgama*), and joining.
 
-This is where engineering-poetry enters. Sanskrit does not treat sonomers as interchangeable filler. Flow-actions cluster around liquids and continuants — *sar* (सर्), *cal* (चल्), *car* (चर्), *dru* (द्रु), *plu* (प्लु), *sru* (स्रु), *kṣar* (क्षर्). Abrasion, diminishment, and cutting cluster around harsher sound-shapes — *kṣay* (क्षय), *kṣat* (क्षत), *kṣaṇ* (क्षण्), *kṣam* (क्षम्), *klam* (क्लम्), *kṣud* (क्षुद्), *kṣap* (क्षप्).
+Sanskrit does not treat sonomers as interchangeable filler, injecting engineering-poetry directly into the roots. Flow-actions naturally cluster around liquids and continuants — *sar* (सर्), *cal* (चल्), *car* (चर्), *dru* (द्रु), *plu* (प्लु), *sru* (स्रु), *kṣar* (क्षर्). Abrasion, diminishment, and cutting cluster around harsher sound-shapes — *kṣay* (क्षय), *kṣat* (क्षत), *kṣaṇ* (क्षण्), *kṣam* (क्षम्), *klam* (क्लम्), *kṣud* (क्षुद्), *kṣap* (क्षप्).
 
 The architecture assigns meaning with acoustic intelligence. It creates compact, distinguishable forms, and liquids fit flow because they sound like flow. *Kṣa* fits abrasion because it sounds like abrasion. Form comes first; assignment gives that form semantic force.
 

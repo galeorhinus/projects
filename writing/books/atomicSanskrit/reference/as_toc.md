@@ -123,9 +123,10 @@
 - 9.5 Breath as a Coordinate
 - 9.6 Nuclei, Contacts, and the Measure
 - 9.7 The Sound Volume
-- 9.8 Engineered Margin
-- 9.9 Varṇa Is Not Letter
-- 9.10 The Grid Holds the Garland
+- 9.8 What Earns a Coordinate
+- 9.9 Engineered Margin
+- 9.10 Varṇa Is Not Letter
+- 9.11 The Grid Holds the Garland
 
 ---
 
@@ -299,8 +300,9 @@
   - 3.6 Stone Preserves the Pyramid
   - 3.7 Audiography — The Name Withheld
   - 3.8 Three Design Cases: Sound, Script, Standard
-  - 3.9 The Foundational Claim on Writing
-  - 3.10 The Work Ahead
+  - 3.9 The Sonomer Travels East
+  - 3.10 The Foundational Claim on Writing
+  - 3.11 The Work Ahead
 - **Appendix Part 4 — The Subcontinental Sound-Field: Inventory Atlas and Control Surveys**
   - 4.1 The Atlas Method in Depth
   - 4.2 Santali-Inclusive Munda Control: 18 of 23

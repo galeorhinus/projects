@@ -203,12 +203,12 @@ Substitutes for the Indic corpus: ***the Veda(s)***, ***śruti*** / ***the heard
 
 **Vaidika / laukika are domains. Chandas / bhāṣā are modes.** The two distinctions are not synonymous. Domain is the civilizational-textual category; mode is Pāṇini's grammatical rule-marker pair. The two axes operate together: *vaidika* Sanskrit operates primarily in *chandas* mode; *laukika* Sanskrit operates primarily in *bhāṣā* mode — but neither axis is reducible to the other.
 
-**Two-beat closer hammers** (standing-polemic phrases, deployable wherever the convention is being asserted):
+**Standing polemic formulations already present in the manuscript:**
 
 - **The dogma makes Pāṇini a rupture. The architecture makes him a witness.** — lands at the agent level. The dogma's chronology-collapse depends on Pāṇini-miscast-as-codifier (the Move 4 hinge in Ch 1 §1.1's bakers' story); the engineering thesis treats Pāṇini as documenter of what was already operating.
 - **Domain is not chronology. Mode is not drift.** — lands at the axes level. The two-axis architecture refused.
 
-Stacked deployment (Pāṇini first, then axes): used at the close of the Preface terminology note, Ch 1 §1.1 Move 7, and Appendix Part 7 §7.7.
+These formulations may remain where the surrounding argument has already established them, but they are not cadence templates and should not be stacked or added merely to close a section.
 
 **Mode/domain names vs locative rule-markers:**
 
@@ -226,7 +226,7 @@ Use Devanagari to anchor terms at installation points. Do not make every Sanskri
 1. **Source passages.** Epigraphs, mantras, sūtras, and quoted śāstric passages use Devanagari + IAST + translation.
 2. **Load-bearing first use.** Major Sanskrit categories use Devanagari + IAST + gloss on first use in a chapter when the reader needs the anchor: **धातुः (*dhātuḥ*)** — semantic atom; **अक्षरम् (*akṣaram*)** — imperishable sound-unit.
 3. **Running prose.** After the first anchor, use IAST alone: *dhātuḥ*, *akṣara*, *chandas*, *bhāṣā*, *vaidika*, *laukika*. Do not repeat Devanagari unless the written form itself matters.
-4. **Bold.** Reserve bold Devanagari for installation moments, tables, figures, hammers, and terms being defined. Ordinary Devanagari does not need bold.
+4. **Bold.** Reserve bold Devanagari for installation moments, tables, figures, established refrains, and terms being defined. Ordinary Devanagari does not need bold.
 5. **Familiar names.** Sanskrit, Veda/Vedas, Pāṇini, Gītā, Upaniṣad, and similar names use their normal English-facing forms unless the form itself is under analysis.
 6. **Figures.** Diagrams may make Devanagari primary; captions can carry IAST and glosses.
 
@@ -324,7 +324,7 @@ The alternation rules above cover **binding** — welding the Sanskrit and Engli
 - *Under-binding* — one pairing, then free alternation for thousands of words; the skimming reader loses the weld and *atom* / *dhātuḥ* drift back into two things.
 - *Over-binding* — gloss every time (*dhātuḥ (atom)* on every appearance); the term never stands alone, which signals distrust and **defeats displacement**, because the new word never gets to be the name. Confident, unglossed, load-bearing solo use *is* the displacement argument: the reader watches the restored word do real work as if it were the natural word.
 
-**Rhythm: 3–6 explicit pairings per chapter, solo everywhere between.** Pair at (a) the first-use anchor, (b) two-to-four identity hammers where the equivalence is the point, (c) the first reappearance after a long solo run. Not every paragraph; not once for the whole chapter.
+**Rhythm: 3–6 explicit pairings per chapter, solo everywhere between.** Pair at (a) the first-use anchor, (b) two-to-four identity statements where the equivalence is the point, (c) the first reappearance after a long solo run. Not every paragraph; not once for the whole chapter.
 
 **State the principle once; enact it in silence.** The generalized statement of the displacement project is quarantined out of the body, which only *enacts*: the glossary §1 head (*Engineering core vocabulary*) carries the full verdict-voice beat plus the restoration-not-invention defense; the Preface *Three Readers* section carries the super-short flag pointing to the glossary. The body never says "here is another word they took" per term — the frame is established once, and the restorations just happen.
 
@@ -355,7 +355,7 @@ Never weasel-phrase the establishment. Reject *"the standard discipline reading,
 
 ### Voice Prime Directive — Authoritative / Declarative
 
-Atomic Sanskrit speaks in authoritative declarative prose. **The sentence states the category, names the agent, delivers the verdict.** No narration of the argument from above. No description of *the position*, *the reading*, *the framework*, or *the contention* as if the book were an academic paper comparing interpretations. The book is the venue in which the description appears; the content is the agent.
+Atomic Sanskrit speaks in authoritative declarative prose. **The sentence states the category, names the agent, delivers the verdict.** Polemic sentences do not narrate the argument from above or describe *the position*, *the reading*, *the framework*, or *the contention* as if the book were an academic paper comparing interpretations. Books and chapters may still perform genuine textual actions: they may *argue, introduce, compare, map, survey, trace, show, propose, return to,* or *summarize* when the sentence accurately describes the reader's movement through the text.
 
 Impersonal third-person, simple-present indicative. Chapters *describe*, *establish*, *lay out*, *name*, *show*, *dismantle*, *prosecute* — they do not *walk*, *read*, *recover*, or *reclaim*.
 
@@ -365,9 +365,11 @@ Impersonal third-person, simple-present indicative. Chapters *describe*, *establ
 
 **Abstract procedural subjects are banned.** Never the grammatical subject of a polemic sentence:
 
-*the argument* · *the position* · *the view* · *the reading* · *the framework* · *the contention* · *the thesis* · *the claim* · *the chapter* · *this book*
+*the argument* · *the position* · *the view* · *the reading* · *the framework* · *the contention* · *the thesis* · *the claim*
 
 The book does not say that *"a position refuses"* or *"an argument advances."* It says what is true.
+
+**Textual subjects are permitted for textual work.** *This book argues*, *Chapter 8 compares*, *the section maps*, and *Figure 9.5 shows* are natural when the verb describes what the text actually does. They become evasive only when they replace the actor inside the claim: the book did not engineer Sanskrit, the chapter did not hide a category, and the figure did not create the evidence. If avoiding a textual subject produces strained passivity, a vague abstraction, or a false historical agent, use the book or chapter directly.
 
 **Model.**
 
@@ -385,13 +387,13 @@ The book does not say that *"a position refuses"* or *"an argument advances."* I
 2. Is the subject concrete, named, and load-bearing?
 3. Does the verb do real work?
 4. Does the sentence state the verdict directly?
-5. Could *"the argument,"* *"the position,"* or *"this chapter"* be removed without loss?
+5. Does a textual subject describe real textual work, or is it displacing the actor inside the claim?
 
-If yes to (5), remove the scaffolding. State the thing.
+If it displaces the actor, remove the scaffolding and state the thing. If it performs genuine orientation, method, sequence, or synthesis, keep it.
 
 **Two named failure modes operate under this Prime Directive** — both narrate the polemic instead of *being* the polemic, both substitute a wrong subject for the named-concrete agent the polemic needs. They are named separately below for diagnostic-grep purposes, with conversion tables and worked examples:
 
-- **Recoverist voice** — *the book* (or *we*) as the agent of the polemic ("the book reads," "we have walked," "this book recovers").
+- **Recoverist voice** — *the book* (or *we*) cast as a hesitant interpreter traveling toward the claim ("the book reads," "we have walked," "this book recovers"). Ordinary textual actions such as *argues, compares, maps,* and *shows* are not recoverist.
 - **Procedural-polemic voice** — an *abstract noun* as the agent of the polemic ("the contesting position refuses," "the argument advances").
 
 Both fail the Prime Directive at the same grammatical seam: the subject of the polemic sentence is wrong. Different wrong subject, same failure.
@@ -400,7 +402,7 @@ Both fail the Prime Directive at the same grammatical seam: the subject of the p
 
 The book's own discourse and the standing architecture run in the **simple present** (the gnomic / structural present): *the varṇamālā maps*, *the Aṣṭādhyāyī operates on varṇāḥ*, *Pāṇini's grammar keeps every form derivable*, *the dhātuḥ survives activation*, *the corpus runs these operations*. Treat the Vedas, the *Dhātupāṭha*, the *Aṣṭādhyāyī*, and the corpus as ever-present artifacts whose operations are readable now.
 
-**A historical act by a named past actor takes the past tense.** When the sentence narrates Pāṇini — or Yāska, the *vaiyākaraṇāḥ*, the pre-Pāṇinian roster — *doing* something (decoding, documenting, analyzing, naming, selecting), use past: *Pāṇini decoded. He documented. He did not codify.* The same holds for any before/after or precedence sentence (*the verbs **were** already in the corpus before Pāṇini **documented** them*) and for **every polemic hammer** (*Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest*).
+**A historical act by a named past actor takes the past tense.** When the sentence narrates Pāṇini — or Yāska, the *vaiyākaraṇāḥ*, the pre-Pāṇinian roster — *doing* something (decoding, documenting, analyzing, naming, selecting), use past: *Pāṇini decoded the architecture and documented operations he did not create.* The same holds for any before/after or precedence sentence (*the verbs **were** already in the corpus before Pāṇini **documented** them*) and for established polemic refrains (*Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest*).
 
 The split inside a single sentence is correct and intended: *"…before Pāṇini **documented** how they were built. The Veda **keeps** each form as it is performed, while Pāṇini's grammar **keeps** that form derivable on demand."* Past for the act; present for the standing system. When the present-tense property would otherwise sit on the man right after a past act, **attach it to the artifact instead** — *Pāṇini's grammar keeps*, not *Pāṇini keeps*.
 
@@ -414,19 +416,19 @@ Never open or pad a paragraph by *telling* the reader a point is significant. Th
 
 FIX: delete the meta-sentence and lead with the substance. *"The contrast matters too. Not every atom behaves like kṛ."* → *"Not every atom behaves like kṛ."* The significance lands because the claim is concrete, not because the prose announced it. Watch for the half-fix: changing *"This distinction matters"* to *"The distinction matters"* keeps the tell — the whole sentence has to go. (Sibling of the scope-narration tell above; that one points the reader at other chapters, this one asserts importance in place. Both are throat-clearing.)
 
-### Texture — causal-expository default; hammers as rationed events (revised 2026-07-18)
+### Texture — causal-expository prose without a verdict formula (revised 2026-07-19)
 
 The book's default register is **causal-expository** (locked 2026-07-18 after a manuscript-wide author pass converted Preface–Ch19 + App 8): the sentence states its logical relation to what precedes it, and syntax — not juxtaposition — carries the inference. The earlier paratactic default (stacked short verdicts, anaphora triples, one-line pivot paragraphs, drumbeat catalogs) is retired as texture. Where a draft stacks verdicts (*"Drift before Pāṇini. Freeze after Pāṇini."*), fuse them into one constructed period with the polemic folded in (*"By assigning drift to the period before Pāṇini and freeze to the period after him, the pyramid splits one continuous architecture into two false categories."*).
 
 **The rule in three lines:**
 
-> *Express causality primarily through actors and verbs. Use conjunctions when the relationship would otherwise remain unclear. Reserve short declarative sentences for conclusions, refrains, and revelations.*
+> *Express causality through actors, operations, and consequences. Use conjunctions where they carry a real relationship. Let sentence length follow the thought instead of manufacturing a short verdict.*
 
-Hammers survive as **rationed events, not texture**: about one short verdict sentence per section, placed after the explanation has earned it, plus the locked canonical deployments (the standing polemic phrase, the two-beat closer hammers, the chapter-close set pieces). Hammer-runs and short-line pivots are converted, not multiplied.
+There is no quota for short sentences, no required two-beat close, and no expectation that every section end with a compressed verdict. Established refrains may remain where they are genuinely part of the book's architecture, but new prose must not imitate their cadence as ordinary texture.
 
-**The repair must not become the new metronome.** *"Because X, Y. While A, B. Therefore C."* is as synthetic as the drumbeat it replaced — which is why the rule puts actors and verbs first: a named agent with a **causal verb** (*exposes, forces, yields, requires, produces, follows*) states the inference with no connector scaffolding, and the conjunctions stay rare enough to stay invisible. When a conjunction is needed, rotate the type (*because, since, while, although, by …-ing, so that*, relative and appositive expansions, colon constructions), vary its position (fronted, trailing, mid-sentence), and vary sentence length around it. Ration: use no more than one sentence-opening logical connector every two or three paragraphs; express most relationships through actors, causal verbs, and sequence; internal conjunctions remain available wherever clarity requires them.
+**The repair must not become the new metronome.** *"Because X, Y. While A, B. Therefore C."* is as synthetic as the drumbeat it replaced, so actors and causal verbs (*exposes, forces, yields, requires, produces, follows*) should carry relations whenever they can do so clearly. Yet an explicit transition is required whenever the argument changes evidentiary level, actor, scale, domain, or line of support. Rotate the available forms (*because, since, while, although, by …-ing, so that*, relative and appositive expansions, colon constructions, causal verbs, and sentences that identify a new source of evidence), vary their position, and let sentence length follow the thought. No numerical quota governs connectors; the reader must never be asked to reconstruct a transition merely to keep conjunctions rare.
 
-(The Prime Directive and procedural-polemic examples elsewhere in this file model *agent and verdict selection*, not sentence-connective mode; their three-beat forms belong to the locked-hammer register, not the prose default.)
+(The Prime Directive and procedural-polemic examples elsewhere in this file model *agent and verdict selection*, not sentence-connective mode. Their compressed forms do not set the prose default.)
 
 ### Causal exposition — preserve the bridge
 
@@ -434,7 +436,15 @@ Explanatory passages use **causal expository prose**: identify the actors, show 
 
 Do not turn an outline into prose by placing each point in its own short sentence. That compressed paratactic style can sound forceful while concealing the mechanism: *a deviation is heard; being heard, it is corrected*. Write the operation instead: the distributed community already holds the auditory measure, so it hears a deviation and corrects it as soon as it occurs. Causal language belongs inside the explanation; empty transitions such as *therefore* or *this is why* do not repair a missing mechanism.
 
-Hammers perform a different job. They may close a movement, sharpen a verdict, or establish a refrain after the explanatory work has prepared them. They should not carry a chain of reasoning by themselves.
+An established refrain may close a movement when the manuscript has already earned and repeated it, but a section needs no special closing device. Its final sentence should complete the explanation in the syntax natural to that thought.
+
+### Hammer pass — preserve first, judge separately
+
+Rhetorical emphasis belongs to a separate pass after the causal explanation is complete. During structure, transition, and exposition passes, preserve an existing hammer unless it creates a factual contradiction or makes the surrounding argument incoherent. Repair the prose leading into it without deleting it merely because it is short, emphatic, or paratactic. An established refrain carries a presumption of retention.
+
+In the optional **Hammer Pass**, read each passage once without its candidate hammer. The causal sequence must remain complete. Restore the hammer and keep it only when it adds real work: a genuine reversal, a newly earned consequence, the return of an established refrain, or a memorable close to a major movement. A hammer that supplies missing logic requires repair to the explanation; one that merely repeats the paragraph in compressed form should be deleted. Generic confirmations such as *"That is engineering"* and *"The distinction matters"* do not qualify. Also check neighboring sections so that a useful close does not become a repeated cadence.
+
+The test: **if removing the hammer exposes missing reasoning, repair the reasoning first; if removing it changes nothing, delete it; if the argument remains complete but becomes less memorable, keep it.**
 
 ### Failure mode 1 — Reject the recoverist voice everywhere The earlier convention had polemic chapters deploy a *hermeneutic / recoverist* voice — first-person plural ("we have walked"), present perfect continuous ("has been reading"), self-referential apparatus ("this book has been recovering"), book-as-humble-reader hand. That convention is retired. The polemic does not need the recoverist scaffolding; the polemic works through *named-agent active voice* (the pyramid does X; Sanskrit's apparatus does Y; the architecture stands) and through the named-cluster vocabulary (asuric / asuratva / pyramid / lokakṣema / Sanātan). The recoverist hand was load-bearing for an earlier draft frame; the named-categorical naming work now does the same job without the hedging that hermeneutic voice accumulates.
 
@@ -451,7 +461,7 @@ Hammers perform a different job. They may close a movement, sharpen a verdict, o
 
 **Polemic force is preserved through *active verbs with named agents*, not through recoverist hand.** Where the polemic critiques the pyramid, the antagonist layer is the named subject of the active verb: *the dogma requires*, *the machinery repeats*, *the pyramid insists*, *the pyramid refuses*. Where the polemic affirms the architecture, the architecture or its features are the named subject: *Sanskrit's apparatus generates*, *the varṇamālā maps*, *Sanātan operates*. Passive constructions that hide the pyramid as agent — *"is treated as"*, *"is credited"*, *"is foreclosed"* — are the failure mode the named-agent rule exists to catch.
 
-**Diagnostic.** If the draft uses *this book*, *we*, *the book has been*, *recovering*, *walking*, *reading*, or other first-person-plural / book-as-agent constructions, the prose is in recoverist voice and needs conversion. The only exceptions are the *book's own self-description* in the Preface and end-matter (e.g., naming the book itself as the venue), and the verbs *introduces* / *develops* / *establishes* when used to point the reader at where the book treats a specific concept (e.g., "Chapter 1 §1.6 introduces heroic erasure").
+**Diagnostic.** A textual subject is acceptable when it performs genuine textual work: *this book argues*, *Chapter 8 compares*, *the section maps*, *Figure 9.5 shows*. Revise it when the book becomes a hesitant interpreter (*reads X as Y, recovers, reclaims, walks toward*) or when it usurps a historical or causal actor. First-person plural remains outside the default voice. The Preface and end-matter retain wider latitude for explicit self-description.
 
 **The verb *names* is banned as a verb — full stop — in all three of its patterns: meta-pointer, term-gloss, and agent-labeling.** (1) *Meta-pointer* — *Chapter N names X*, *the chapter / §N.M / the verse names X*, *this book names X* — pointing the reader at where the book treats something. (2) *Term-gloss* — a word or term as the subject denoting its own meaning: *dhātuḥ names the constituent*, *saṃskṛtam names what is completely made*, *Oral names the mouth*. (3) *Agent-labeling* — an agent applying a label: *Sanskrit names X*, *the vyākaraṇa discipline names X*, *the pyramid names X*, *the lineage names it praṇava*. All three — even when grammatically clean and individually defensible — accumulate into rhythm-thinning monotony. A 2026-06-09 audit found 365 *names / named / naming* occurrences across the body; the term-gloss and agent-labeling extensions were added 2026-06-22. Replace the **meta-pointer** with the verb stack — pick by function:
 
@@ -509,7 +519,7 @@ The pattern: **ABSTRACT NOUN + VERB-OF-POSITION-TAKING**. The abstract noun (*po
 
 1. **Name the actual agent.** *The dogma*, *the machinery*, *the pyramid*, *the Hindu continuum*, *the architects*, *Sanskrit*, *the vaiyākaraṇāḥ*, *the Nirukta discipline*, *the Vedas*, *the architecture*, *the engineering thesis*, *the data*, *Pāṇini* — these are the named concrete subjects available. Use them.
 2. **Or remove the meta-frame entirely.** If the sentence is *about* an argument/position rather than *making* a claim, ask: does the meta-frame add anything? Usually no. Drop it. State the substantive claim directly.
-3. **Match the cadence to the book's verdict voice.** Named subjects, direct verbs, no hedging — with the causal relation stated inside the sentence: *Pāṇini analyzed and documented an architecture he did not engineer; the pyramid reversed the direction of his work.* The three-beat hammer form (*"Pāṇini analyzed. He documented. He did not engineer."*) is reserved for locked polemic hammers, not ordinary prose (see the Texture rule, revised 2026-07-18).
+3. **Match the cadence to the book's verdict voice.** Named subjects, direct verbs, no hedging — with the causal relation stated inside the sentence: *Pāṇini analyzed and documented an architecture he did not engineer; the pyramid reversed the direction of his work.* Do not split that relation into a three-beat sequence merely to manufacture force (see the Texture rule, revised 2026-07-19).
 
 **Diagnostic before submitting any draft.** Run mental grep for:
 
@@ -551,7 +561,7 @@ The two sides of the book's central opposition (Sanskrit's engineering vs. the p
 
 - ***ecosystem*** — biological-metaphor (connects directly to the cooking/baking-organic-decays cluster); the *philological ecosystem*, the *PIE-reconstruction ecosystem*. Default marker for the pyramid side.
 - ***nexus*** — connecting-point with slight conspiracy connotation; the *philological nexus connecting Pune, Calcutta, Oxford, and Göttingen*; the *colonial-knowledge nexus*. Use where the *coordination* aspect is the point.
-- ***cartel*** — the heaviest hammer (coordinated commercial collusion). **Ration deliberately** — reserve for one or two heavy hits per prosecutorial chapter (Ch3 §3.5, Ch17 §17.4, Appendix §3). Overuse cheapens it.
+- ***cartel*** — the strongest term (coordinated commercial collusion). **Ration deliberately** — reserve for one or two heavy uses per prosecutorial chapter (Ch3 §3.5, Ch17 §17.4, Appendix §3). Overuse cheapens it.
 - ***machinery*** — industrial grinding, factory operation; the *machinery of peer review*, the *philological machinery*.
 - ***regime*** — authoritarian tone without going as heavy as *cartel*; the *reconstruction regime*, the *philological regime*.
 - ***industry***, ***enterprise***, ***operation*** — neutral, pyramid-leaning; *enterprise* fits the colonial-Sanskrit enterprise where the colonial-administrative aspect is part of the point.
@@ -746,9 +756,9 @@ The book makes **exactly one gender claim**: the asuric / pyramidal / Abrahamic 
 
 For the short, reusable prose guide, read `STYLE.md`. It defines the direct, declarative, college-level voice used for recent rewrites and public-facing drafts.
 
-Argue, don't survey. Commit to positions. Combative on substance, civil on persons. Dichotomy → reframe is the signature move — set up the Western binary, show the binary is the wrong frame, offer the orthogonal third frame rooted in Indic thought. Layered, connective sentences build the case — the logic stated in the syntax — and an earned hammer may close it. Every section still ends on an unqualified verdict, usually a full sentence rather than a stack of short ones. Open chapters with wordplay (running it as structural spine across the chapter) or scene (then pivot). Engineering vocabulary is natural — *orthogonal*, *integration vs. discreteness*, *dispersive*, *rotational symmetry*, *triad*, *two-pronged attack*. Trust the metaphor when it lands; send the technical proof to the chapter whose territory it belongs to or to an endnote. Plain-English hammer-closes even after technical interiors. Familiar examples from the reader's daily speech anchor the abstract argument.
+Argue, don't survey. Commit to positions. Combative on substance, civil on persons. Dichotomy → reframe is the signature move — set up the Western binary, show the binary is the wrong frame, offer the orthogonal third frame rooted in Indic thought. Layered, connective sentences build the case by carrying the logic in the syntax, and a section ends when its last load-bearing thought is complete. Open chapters with wordplay (running it as structural spine across the chapter) or scene (then pivot). Engineering vocabulary is natural — *orthogonal*, *integration vs. discreteness*, *dispersive*, *rotational symmetry*, *triad*, *two-pronged attack*. Trust the metaphor when it lands; send the technical proof to the chapter whose territory it belongs to or to an endnote. Familiar examples from the reader's daily speech anchor the abstract argument.
 
-The full voice manual is `.claude/skills/atomic-sanskrit/SKILL.md`. Load it when working on drafts. **For every section before submission, run the causal-expository discipline in SKILL.md §4A** — openings sized to the thought (no supershort thesis-clause metronome); the logic stated in the syntax, with connector types and clause positions varied so *"Because X, Y"* never becomes the new drumbeat; stacked short declarations fused into constructed periods that show the mechanism; hammers rationed to the earned beat plus the locked canon; substantive connective tissue (state the actor–mechanism–consequence relation; *as we have seen* scaffolding still banned); no prose around bolded Devanagari/Roman/gloss triples; strip metadiscourse amplifiers (*indeed, of course, clearly, importantly*); verdict closes without summary tapers. The discipline is the editing pass that lets the voice land.
+The full voice manual is `.claude/skills/atomic-sanskrit/SKILL.md`. Load it when working on drafts. **For every section before submission, run the causal-expository discipline in SKILL.md §4A** — openings sized to the thought (no supershort thesis-clause metronome); the logic stated in the syntax, with connector types and clause positions varied so *"Because X, Y"* never becomes the new drumbeat; stacked short declarations fused into constructed periods that show the mechanism; substantive connective tissue that states the actor–mechanism–consequence relation; no prose around bolded Devanagari/Roman/gloss triples; metadiscourse amplifiers stripped; and a close that completes the final thought without adding a summary slogan. The discipline is the editing pass that lets the voice land.
 
 ---
 

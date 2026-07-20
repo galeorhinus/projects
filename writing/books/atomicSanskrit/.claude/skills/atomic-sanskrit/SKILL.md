@@ -5,7 +5,7 @@ description: Use this skill when drafting, editing, or revising any prose in the
 
 # Atomic Sanskrit — Voice Manual
 
-The book is *trade-nonfiction polemic*, not academic survey. The voice is Parag Tope's: analytical, argumentative, engineer's mind, Indic civilizational frame. The principles below are applications of a single commitment — **voice-driven not academic-formal; verdict-driven not survey-driven; specificity, commitment, and compression operative; hedging, abstraction, and elaboration anti-patterns.**
+The book is *trade-nonfiction polemic*, not academic survey. The voice is Parag Tope's: analytical, argumentative, engineer's mind, Indic civilizational frame. The principles below are applications of a single commitment — **voice-driven rather than academic-formal; thesis-driven rather than survey-driven; specificity, commitment, and causal exposition operative; hedging, abstraction, and unexplained compression treated as anti-patterns.**
 
 ---
 
@@ -15,7 +15,7 @@ The book is *trade-nonfiction polemic*, not academic survey. The voice is Parag 
 - **Commit to positions.** Use *the author argues that…* or a first-person plural *we* that owns the claim. No hedge-stacks (*it could perhaps be argued that maybe…*).
 - **Combative on substance, civil on persons.** Attack frameworks, institutions, and ideas — not individuals. Named opponents are rare and usually archetypal.
 - **Don't pretend neutrality.** Strategic restraint is fine; performed objectivity is not.
-- **Verdict-dismissal beats both-sides survey.** When an empirical question is in play, unsettlable, and not load-bearing for the structural argument: name the question, admit the not-knowing, dismiss it. Three sentences. *Did the speech-field Pāṇini describes as bhāṣāyām carry ḷ before he codified it? We do not know. But it doesn't matter.* Never survey both possibilities to demonstrate scholarly fairness — the survey concedes argumentative force the prose needs.
+- **Bound an unsettlable question without surveying it indefinitely.** When an empirical question cannot be settled and does not support the structural argument, explain what remains unknown and why the main conclusion does not depend on it. Let that relation determine the sentence structure instead of forcing a three-sentence template.
 
 ---
 
@@ -55,15 +55,15 @@ Two openings are in voice. Choose by what the chapter's payoff requires.
 - **Wordplay / pun / controlling metaphor** — best when the hook can carry the argumentative spine across the chapter. The argument runs in the first sentence. Example from Ch8: *There is an old joke waiting to be made about Sanskrit: before a people could be called ārya, they first had to prove they could flex.*
 - **Scene / anecdote / vivid contrast** — best when the moment carries emotional charge the argument leverages downstream. Scene unfolds, pivot lands. Recognized examples from the corpus: the Burj Khalifa in Dubai → socio-economic pyramids; the dark basement in Yeola → reframing 1857 and Tatya Tope; the German businessman at Hisarlik → Kampilya vs. Troy.
 
-Diagnostic: consider the payoff. Sometimes the scene works better at the payoff than the opener — Ch8 moves the Savarkar Ratnagiri anecdote from §8.1 to §8.4 and lets *flex* open. The pivot is often a posed question (*What can explain…?*) followed by a one-line answer (*The answer is simple: …*).
+Diagnostic: consider the payoff. Sometimes the scene works better at the payoff than the opener — Ch8 moves the Savarkar Ratnagiri anecdote from §8.1 to §8.4 and lets *flex* open. When a posed question creates the pivot, answer it with enough mechanism to carry the reader into the argument instead of following it with a one-line assertion.
 
 ### 3.2 Wordplay as Structural Spine
 
-When a chapter has a wordplay that can carry the spine, run it through every section, return at every hammer-close, land at the verdict. **Decorative wordplay that appears once is not in voice; drumbeat wordplay that returns at structural pivots is.**
+When a chapter has wordplay that can carry the spine, let it return at structural pivots where the argument naturally invokes it. **Decorative wordplay that appears once is not in voice; structural wordplay returns because the argument returns to the same operation, not because every section requires a matching close.**
 
 The Ch8 *flex / retroflex* spine: *flex* opens §8.1, *failing to flex it* runs §8.2, *the English could not flex* anchors §8.4, *the flex is the test* closes §8.5. One wordplay, five returns, the chapter's spine.
 
-Diagnostic: if the wordplay appears in only one section, it's decoration; if it appears at structural pivots, it's the spine. Wordplay that's decoration on the first draft can be promoted to spine on revision — by deciding what it would mean for the wordplay to return at each section's hammer-close, and writing those returns.
+Diagnostic: if the wordplay appears in only one section, it may be decoration; if it returns where the argument reaches the same structural operation, it can become the spine. Revision should establish those conceptual returns without imposing a repeated sentence cadence.
 
 ### 3.3 Section Titles
 
@@ -82,17 +82,21 @@ Intermingle. All-verdict feels like a slogan deck; all-topic feels like a survey
 
 **The rule in three lines:**
 
-> *Express causality primarily through actors and verbs. Use conjunctions when the relationship would otherwise remain unclear. Reserve short declarative sentences for conclusions, refrains, and revelations.*
+> *Express causality through actors, operations, and consequences. Use conjunctions where they carry a real relationship. Let sentence length follow the thought instead of manufacturing a short verdict.*
 
-- **Causality through actors and verbs first.** A named agent with a causal verb states the inference without scaffolding: *The asymmetry exposes the motive. The praise disguises concealment. A frozen text forces a custodian.* This is the Prime Directive and the connective mode in one move — prefer it before reaching for a conjunction.
+- **Causality through actors and verbs first.** A named agent with a causal verb can state the inference without scaffolding; verbs such as *exposes, disguises, forces, yields,* and *requires* let the mechanism travel inside the claim. For example, *A frozen text forces a custodian because its authority must live outside itself* carries the actor, operation, and consequence in one developed sentence.
 
 - **Conjunctions when the relation would otherwise stay unclear.** Then build the layered period whose form shows the structure: *because, since, while, although, by …-ing, so that*, relative and appositive expansions. Not *"A broken word can break the meter. A misplaced accent can break the chant. The channels check one another."* but *"Because a broken word breaks the meter and a misplaced accent breaks the chant, the channels cross-check one another."*
 
-- **Fuse, don't stack.** No hammer-runs (*X. Y. Z.*), no anaphora triples as texture, no standalone one-line pivot paragraphs. Stacked verdicts become one constructed period with the polemic folded in: *"Drift before Pāṇini. Freeze after Pāṇini."* → *"By assigning drift to the period before Pāṇini and freeze to the period after him, the pyramid splits one continuous architecture into two false categories."*
+- **Fuse, don't stack.** Avoid short-verdict runs (*X. Y. Z.*), anaphora triples as texture, and standalone one-line pivot paragraphs. Stacked verdicts become one constructed period with the polemic folded in: *"Drift before Pāṇini. Freeze after Pāṇini."* → *"By assigning drift to the period before Pāṇini and freeze to the period after him, the pyramid splits one continuous architecture into two false categories."*
 
-- **The rationed hammer.** Short declarative sentences are reserved for **conclusions, refrains, and revelations** — about one per section, placed after the explanation has earned it, plus the locked canonical hammers (the standing polemic phrase, the two-beat closers, the chapter-close set pieces). A hammer that arrives before the mechanism has been shown is fused or cut.
+- **No short-verdict quota.** A section does not require a compressed conclusion, two-beat close, or one-line revelation. Existing refrains may remain when they perform established structural work, but new prose must not imitate their cadence as a default device.
 
-- **Do not let the repair become the new metronome.** *"Because X, Y. While A, B. Therefore C."* is as synthetic as the drumbeat it replaced. Rotate connector types; vary clause position (fronted, trailing, mid-sentence); vary sentence length around the periods. Strongest option: let a **causal verb** carry the inference — *exposes, forces, yields, requires, produces, follows* — since a named agent with a causal verb states the logic without any connector scaffolding. Ration: use no more than one sentence-opening logical connector every two or three paragraphs; express most relationships through actors, causal verbs, and sequence; internal conjunctions remain available wherever clarity requires them.
+- **Preserve hammers until the Hammer Pass.** Structure, transition, and exposition passes leave an existing hammer in place unless it creates a factual contradiction or makes the surrounding argument incoherent. Repair the causal prose around it without deleting it merely because it is short, emphatic, or paratactic. Established refrains carry a presumption of retention.
+
+- **Run rhetorical emphasis as a separate, optional Hammer Pass.** First read the passage without the candidate and confirm that its causal sequence remains complete. Then restore it and ask what additional work it performs. Keep a hammer when it delivers a genuine reversal, states a newly earned consequence, returns an established refrain, or closes a major movement memorably. Delete it when it merely compresses the previous sentence or repeats a familiar cadence. If removing it exposes missing reasoning, repair the reasoning first; if removing it changes nothing, delete it; if the argument remains complete but becomes less memorable, keep it. Generic confirmations such as *"That is engineering"* and *"The distinction matters"* do not qualify.
+
+- **Do not let the repair become the new metronome.** *"Because X, Y. While A, B. Therefore C."* is as synthetic as the drumbeat it replaced. Let a **causal verb** carry the inference when it does so clearly, and rotate connector types, clause positions, and sentence lengths. Whenever the argument changes evidentiary level, actor, scale, domain, or line of support, supply an explicit transition that identifies the relationship. There is no numerical quota for sentence-opening connectors; variety prevents a pattern, while omission merely transfers the argumentative work to the reader.
 
 - **Catalogs run inside the sentence.** Enumerate concrete instances within one flowing period. The repeat-predicate drumbeat catalog (Ch8's *operates it… They flex*) survives only as a rare, explicitly earned set-piece, not as default texture.
 
@@ -100,13 +104,13 @@ Intermingle. All-verdict feels like a slogan deck; all-topic feels like a survey
 
 - **Positive specification over double negation.** State what's happening, not what's not happening. *Pāṇini clearly identified the ḷ.* Not *Pāṇini did not claim ḷ did not exist.* Reserve the negative form for cases where the pre-empted opposing claim is in active conflict with what the prose is asserting.
 
-- **Negation-first compression inside the sentence.** When pairing an assertion with a denial, fuse them into one sentence with the negation first and the comma carrying the contrast: *Europeans did not invent, they translated.* Fusion, not stacking.
+- **Integrated correction inside the sentence.** When a live misconception requires denial, place the correction inside a complete sentence whose clauses carry the relationship: *The Europeans translated an architecture they did not invent.*
 
 - **Parallel possessives across parallel enumerations.** When listing parallel actors doing parallel things, modifiers and possessives must match. *Its **own** retroflex laterals / their **own** retroflex-lateral phonemes.* Not *Its **native** retroflex laterals / their **own** retroflex-lateral phonemes.* Watch for colonial-anthropological residue in apparently neutral words (*native*, *primitive*, *indigenous*, *tribal*) and use the plainer alternative when the residue word does not earn its place.
 
 - **Don't over-qualify badness.** When marking something offensive, harmful, or problematic, the unmarked word carries. *Culturally insensitive.* Not *culturally damaging in its own register.* The qualifier signals hedging; the unmarked word names the offense honestly.
 
-- **The mini-hammer coda inside the sentence.** Em-dash plus brief technical clarification at the close of a longer example sentence — five words or fewer. An intra-sentence device, fully compatible with the causal-expository default. *Hindi runs the retroflex flap ड़ in everyday words like घोड़ा (ghoṛā, horse), पेड़ (peṛ, tree), लड़का (laṛkā, boy) — same retroflex hardware, briefer contact.*
+- **Brief technical codas inside the sentence.** An em-dash may carry a short clarification at the close of a longer example when the clarification belongs to the same thought. *Hindi runs the retroflex flap ड़ in everyday words like घोड़ा (ghoṛā, horse), पेड़ (peṛ, tree), लड़का (laṛkā, boy) — the same retroflex hardware with briefer contact.* Do not add the coda merely to create a punch line.
 
 - **Alliteration on phrases meant to lodge.** *Pernicious pyramid that periodically perishes. / Paradigm of progress poses a paradox. / Bribed, bought or beaten.* Sparing.
 
@@ -120,7 +124,7 @@ Sentence rhythm is the music; compression removes padding, while causal expositi
 
 - **Clear openings without a metronome.** A section may open on a tight declarative sentence when it establishes the governing idea. Do not force every paragraph to begin with a supershort thesis clause. When the subject, mechanism, and consequence form one thought, keep them together in a sentence long enough to carry the logic. *"Sanskrit's architecture was built to last"* can anchor a movement; a succession of equivalent anchors turns the prose into an outline.
 
-- **One-line hammer interpolations between paragraphs.** Short standalone lines punctuate an argument and give the reader a beat to absorb. Reserve them for an earned correction, verdict, refrain, or reversal after the explanation has prepared the ground. A short line whose only job is to announce importance, create a hinge, or avoid writing the causal bridge should be removed or folded into the surrounding prose.
+- **Avoid one-line interpolations between paragraphs.** A short standalone line often announces importance, exposes an outline hinge, or avoids writing the causal bridge. Fold it into the surrounding prose unless its brevity arises naturally from the completed thought and the manuscript already uses it as an established refrain.
 
 - **Substantive connective tissue.** Cut empty signposting such as "As we have seen…", "Building on the previous section…", "Having established…", and "Turning to…". Then state the actual connection inside the argument: identify the actor, the mechanism, and the consequence. Juxtaposition is sufficient only when the relationship is already obvious; it must not make the reader supply an omitted premise.
 
@@ -138,7 +142,7 @@ Sentence rhythm is the music; compression removes padding, while causal expositi
 
 - **No meta-narration about the prose itself.** Cut *"This section will examine…", "As Chapter N will develop…", "We will see that…", "The following paragraph argues…", "What follows is…"* Forward-pointer cross-references at the right moment carry the load (*"Chapter 14 lays out the matrix in full."* at the end of the relevant paragraph), not as preamble.
 
-- **Verdict register at section close.** Already in §4; the compression discipline sharpens it: an earned hammer can close a section, while an explanatory movement may end on its last load-bearing sentence. Cut summary tapers and templated verdicts alike.
+- **Natural section close.** End an explanatory movement on its last load-bearing sentence. Cut summary tapers, slogan codas, and templated verdicts alike.
 
 - **Diagnostic to run on every section before submission.**
   1. Read the first sentence of each paragraph. Does it begin the substance directly, and does its length fit the thought rather than a template?
@@ -148,7 +152,7 @@ Sentence rhythm is the music; compression removes padding, while causal expositi
   5. Does any section close on a summary or a taper? Find the last load-bearing sentence and end there instead.
   6. Are bold Devanagari/Roman/gloss triples followed by re-explanation paragraphs? Cut the re-explanation.
 
-Compression removes padding; causal exposition preserves the bridge. Both pair with the §4 sentence-rhythm patterns and the Voice Prime Directive in CLAUDE.md. Named-agent active voice still rules, and hammers still land the polemic, but ordinary explanation must show enough mechanism for the reader to follow without reconstructing an outline.
+Compression removes padding; causal exposition preserves the bridge. Both pair with the §4 sentence-rhythm patterns and the Voice Prime Directive in CLAUDE.md. Named-agent active voice still governs, while every explanation must show enough mechanism for the reader to follow without reconstructing an outline.
 
 ---
 
@@ -481,9 +485,9 @@ The fourth-Abrahamic cluster (*church of progress*, *priests of progress*, etc.)
 
 The asymmetry with Sanskrit-term handling is intentional. Sanskrit terms are load-bearing technical vocabulary the reader must learn; coined English compounds are transparent on first contact. Sanskrit-coined or Sanskrit-repurposed load-bearing terms (*Pratibimba*, *Sabhyata*, *Adhyatma*, *Kaalachakra*, *Saṃskṛtam*) follow the Devanagari + Roman + gloss convention.
 
-### 12.3 Hammer-Closes Land in Plain English
+### 12.3 Technical Arguments Return to Plain English
 
-The hammer must land in plain English even when the chapter has been technical throughout. The interior can be *dhātavaḥ* and *Trimuni Vyākaraṇam* and *vārttika*; the close has to be takeaway-grade. *Without siddha, there is nothing to defend. / PIE is in the sky. The architecture is on the ground. / Sanātan does not need the perimeter. The perimeter needs Sanātan.* The general reader who lost the technical thread can still carry the chapter out.
+Technical vocabulary should periodically return to plain English so that a general reader can follow the operation without losing the argument. The interior can use *dhātavaḥ*, *Trimuni Vyākaraṇam*, and *vārttika*, but the surrounding prose must explain what those terms do and why their operation changes the conclusion. Do not rely on a compressed closing slogan to recover a reader whom the explanation has already lost.
 
 ### 12.4 Concrete Civilizational Examples Are the Welcome-Mat
 
@@ -491,7 +495,7 @@ Don't ration them. Romani; Mitanni; Bharadvāja the grammarian-Saptaṛṣi; the
 
 ### 12.5 Sanskrit-Jargon Load Managed by Alternation
 
-After a Sanskrit-dense analytical paragraph, follow with a paragraph that does the same work in ordinary English — concrete example, structural restatement, hammer landing. The reader catches up; the technical interior is preserved. Don't avoid technical material. Punctuate it.
+After a Sanskrit-dense analytical paragraph, use a concrete example or structural restatement in ordinary English when the reader needs it. This alternation preserves the technical interior while carrying the explanation forward without a separate slogan at the end.
 
 ### 12.6 Familiar Examples Anchor Surveys
 
@@ -504,6 +508,8 @@ Include at least one example the reader uses in daily speech. *Hindi runs the re
 - **Don't hedge.** Twelve qualifiers per sentence is academic cowardice.
 - **Don't weasel-phrase the establishment.** Name concretely (§7.6).
 - **Don't write in procedural-polemic / position-paper register.** The sibling failure to recoverist register (see CLAUDE.md). Never let an abstract noun (*position*, *argument*, *view*, *reading*, *framework*, *contention*, *thesis*) be the grammatical subject of a polemic sentence. ❌ *"The contesting position refuses outright."* ✅ *"Codification is the dogma's invention. The Sanskrit word is vyākaraṇam — unfolding apart. The two name opposite operations."* The polemic must BE in the structure of the sentence — named concrete subject + direct verb + verdict — not narrated on top of it. Banned verb-patterns include *refuses outright*, *advances the position*, *holds the position*, *concedes*, *as a matter of structure / principle / argument*. Replace with named agents (*the dogma*, *the machinery*, *the pyramid*, *Sanskrit*, *Pāṇini*, *the engineering*, *the architecture*, *vyākaraṇam*) doing direct acts, or drop the meta-frame and state the claim directly.
+
+- **Books and chapters may perform textual actions.** *This book argues*, *Chapter 8 compares*, *the section maps*, and *Figure 9.5 shows* are natural when they describe what the text genuinely does for the reader. Preserve them when replacement would create strained passivity, vague abstraction, or a false historical agent. Replace the textual subject only when it displaces the actor inside the substantive claim: the book did not engineer Sanskrit, the chapter did not hide a category, and the figure did not create the evidence. Recoverist personification remains out of voice: the book does not *walk, read X as Y, recover,* or *reclaim* its way toward a conclusion.
 
 - **"Reading" carries the procedural-polemic register more broadly.** The hermeneutic noun *reading* — whether naming the pyramid's interpretive stance or the book's — is banned. Includes: *the pyramid's reading* / *the botanical reading* / *the philological reading* / *the structural reading* / *the engineering reading* / *the [adjective] reading of [X]* / *misreading*. Convert to ***account*** / ***framing*** / ***model*** / ***position*** / ***framework*** by context. The verb *reads X as Y* (in interpretive sense) → *treats X as Y* or *frames X as Y*. *Reading off meaning* (extraction) → *extracting meaning*. **Preserved**: literal reading (*the English-reading world*, *a child reading*, *anyone who has read the* Aṣṭādhyāyī), domain technical terms (*qirāʾāt* "seven readings", textual-critical *variant readings*, *conjectural readings*).
 - **Don't load up on single-discipline jargon.** Cross-discipline metaphor is the move.
@@ -585,16 +591,16 @@ Before finalizing any draft:
 2. Did I take down a Western binary and offer a **third, orthogonal frame**?
 3. Did I use the author's **coined vocabulary** — or coin a new term in the same shape?
 4. Did I **open with wordplay/pun/metaphor or a scene**, then pivot? Did the choice match the chapter's payoff requirement?
-5. If wordplay was available, did I run it as the **chapter's structural spine** — returning at every section's hammer-close?
-6. Did **every section close with an unqualified verdict**? (No questions, no surveys, no hedges.)
+5. If wordplay was available, did I run it as the **chapter's structural spine** by returning where the same operation recurs, without forcing a repeated close?
+6. Did each section end when its last load-bearing thought was complete, without a summary slogan or manufactured verdict?
 7. Did I avoid hedge-stacks?
-8. When an unsettlable empirical question came up, did I **name → admit → dismiss** in three sentences?
+8. When an unsettlable empirical question came up, did I explain its boundary and consequence without forcing a three-sentence template?
 9. When a working metaphor landed the structural argument, did I **trust the metaphor** — sending the technical proof to its own chapter or endnote?
 10. Did I treat any Sanskrit/Indic concepts as **load-bearing**, not decorative?
 11. Did I keep diction **plain** — no academic Greek/Latin adjectives, no slightly-formal synonyms when conversational works (*list* not *catalog*)?
 12. Did I **name the establishment concretely** (*Western philology*, *AIT framework*, *Müllerian reading*)? Name the figure as strawman where applicable? Name the actors not the abstraction when the polemic targets a collective?
 13. Did I use **internal-frame anchors** (*Vedic mode*, *Post-Pāṇinian Sanskrit*, *Munda lineage*) over external philological classifications?
-14. Did I apply the **sentence-level compression moves** — positive specification over double negation, parallel possessives, the unmarked badness-word, negation-first hammers, the em-dash mini-hammer coda?
+14. Did I apply the **sentence-level clarity moves** — positive specification over double negation, parallel possessives, the unmarked badness-word, and brief technical codas only where they complete the same thought?
 15. Did I include at least one **familiar example** from the reader's daily speech or life?
 16. Did I avoid finger-pointing at named figures within the Indic tradition?
 17. Did I let **contrast do the emotional work**?

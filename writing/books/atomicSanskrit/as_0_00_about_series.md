@@ -2,7 +2,7 @@
 
 Many Vedic mantras end with Shanti recited three times, each recitation corresponding to a distinct fractal — a pattern whose organizing structure recurs. Together, the three map the universe across three domains that later volumes in this series develop in detail.
 
-The series advances a central claim: the Vedic corpus contains far more order than the modern reader is taught to see. Each volume brings one or more layers of that hidden architecture into view.
+The series advances a central claim: the Vedic corpus contains far more order than the pyramid teaches the modern reader to see. Each volume brings one or more layers of that hidden architecture into view.
 
 That is why Hindus have treated the protection of the *Vedas* as a civilizational duty across thousands of years. In protecting them, they have preserved more than sacred speech: memory, measure, discipline, and balance encoded for transmission through the darkness of time.
 
@@ -16,6 +16,6 @@ Because fractality operates in both nature and human-created order, Sanskrit's o
 
 Two civilizational fractals stand against each other in the record: the swastika and the pyramid. The swastika — *su-asti*, "well-being," "may it be good" — is the *sāṃskṛtika* fractal: created order aligned with welfare. The pyramid is the *vaikṛtika* fractal: created order bent into hierarchy, apex authority, extracted labor, controlled doctrine, and withheld light.
 
-History remembers the attacks on this architecture by asuric formations across time — ancient, Abrahamic, and modern. Those attacks were designed to destroy, capture, or obscure the architecture, but they also reveal why it threatens the pyramid. The architecture itself is the target.
+History remembers how asuric formations—ancient, Abrahamic, and modern—attacked this architecture across time. Although these formations designed those attacks to destroy, capture, or obscure the architecture, they also reveal why it threatens the pyramid. The architecture itself is the target.
 
 This series discusses the full civilizational meaning of that opposition. This book begins with the linguistic case.

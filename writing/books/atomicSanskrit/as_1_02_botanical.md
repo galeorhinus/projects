@@ -20,9 +20,9 @@
 
 ## 2.1 The Category Move
 
-The first charge is category theft: Sanskrit was miscategorized by the pyramid.
+The first charge is category theft: the pyramid miscategorized Sanskrit.
 
-The theft works through **आसुरी माया (*āsurī māyā*)**. Sanskrit knows *māyā* as power, measure, formation, appearance, and skill, so the charge turns on its purpose. In asuric hands, *māyā* becomes a weapon of concealment: the false category is made to appear natural, and the true category is made to disappear before the evidence is heard.
+The theft works through **आसुरी माया (*āsurī māyā*)**. Sanskrit knows *māyā* as power, measure, formation, appearance, and skill, so the charge turns on its purpose. In asuric hands, *māyā* becomes a weapon of concealment: the pyramid makes the false category appear natural, and makes the true category disappear before the evidence is heard.
 
 The pyramid made *saṃskṛti* answer as *prakṛti*. It took an engineered architecture, placed it inside a botanical field, and trained the reader to see growth, drift, ancestry, branches, plant-organs, and late codification where Sanskrit's own categories show created order, calibration, and distributed correction.
 
@@ -58,7 +58,7 @@ The familiar acronyms AIT and AMT hide this first move by arguing over mechanism
 
 **Fourth.** With Pāṇini made the codifier, Sanskrit can be said to freeze. The *Prākṛta* languages continued changing into the modern Indian languages; *"Classical Sanskrit"* remained fixed as an artificial formal language. The dogma's softer wording puts the move directly: *Classical Sanskrit is artificially frozen and highly codified — arguably the most successful standardized formal language in human history*. The transition does the work: drift before Pāṇini, freeze after Pāṇini, Pāṇini at the hinge.
 
-**Fifth.** Because Vedic Sanskrit was classified as a natural language, it was made to require natural ancestors. The Indo-European family tree supplied one: Proto-Indo-European, the imaginary ancestor from which Sanskrit, Greek, Latin, Iranian, Germanic, Slavic, Celtic, and the rest supposedly descend.
+**Fifth.** Because the pyramid classified Vedic Sanskrit as a natural language, it made it require natural ancestors. The Indo-European family tree supplied one: Proto-Indo-European, the imaginary ancestor from which Sanskrit, Greek, Latin, Iranian, Germanic, Slavic, Celtic, and the rest supposedly descend.
 
 **Sixth.** The metaphor holding the story together is botanical. Languages are organisms. They are born, branch, mutate, decay, and produce descendants. PIE is the ancestor. Vedic Sanskrit is one branch. Classical Sanskrit is the branch the machinery says Pāṇini locked in place. The modern languages are the leaves that kept growing.
 
@@ -174,4 +174,4 @@ Patañjali had already labeled the asymmetry. The *vaiyākaraṇaḥ* defends th
 
 The botanical metaphor describes growth and decay. Sanskrit was built so that neither would define it.
 
-The first charge is now visible. The tree made *saṃskṛti* answer as *prakṛti*. PIE held the invented ancestry above it. The false codification story made documentation of an existing architecture look like repair. None of this was an accident of scholarship. It was a strategic necessity.
+The tree made *saṃskṛti* answer as *prakṛti*, holding the invented ancestry of PIE strictly above it. The false codification story then made the documentation of an existing architecture look like mere repair. None of this was an accident of scholarship; it operated as a strategic necessity.

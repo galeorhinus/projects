@@ -80,9 +80,9 @@ In the Vedic mantra, Svarbhānu pierces Sūrya with darkness, and the worlds bec
 
 The asuric pyramid repeats that operation against Sanskrit in two stages. First it attacks the living ecology: the teachers, homes, temples, schools, patronage, prestige, and public confidence through which Sanskrit remains audible. The British colonial state did this openly, and later anti-Hindu Indian governments continued the work through curriculum, funding, and cultural shame. Sanskrit survived those attacks. The second movement therefore turns to custody after survival. The word remains visible, the texts are printed, the documenter is praised, the dictionaries are compiled, and the courses are taught. Then darkness is placed over the category. The civilization sees Sanskrit but is trained not to recognize what shines.
 
-Svarbhānu obscures: the light remains, but the field goes dark. The worlds are still there, yet they become **मुग्ध (*mugdha*)**, bewildered. The same shape governs the attack on Sanskrit. The sound remains audible. The texts remain printed. Pāṇini remains praised. The dictionaries remain on the shelf. What is darkened is the category: Sanskrit as **संस्कृति (*saṃskṛti*)**, calibrated architecture.
+Svarbhānu obscures: the light remains, but the field goes dark. The worlds are still there, yet they become **मुग्ध (*mugdha*)**, bewildered. The same shape governs the attack on Sanskrit. The sound remains audible. The texts remain printed. Pāṇini remains praised. The dictionaries remain on the shelf. What the pyramid darkens is the category: Sanskrit as **संस्कृति (*saṃskṛti*)**, calibrated architecture.
 
-Sanskrit is subordinated to PIE, codification, power, chronology, and finite origin. The visible language is forced under an invisible ancestor. The living architecture is made dependent on a later documenter. Indic writing systems are categorized as abugida, a fundamentally different writing system belonging to another continent. The distributed standard is translated into authority. The beginningless is forced into the pyramid's clock.
+The pyramid subordinates Sanskrit to PIE, codification, power, chronology, and finite origin. It forces the visible language under an invisible ancestor, and makes the living architecture dependent on a later documenter. It categorizes Indic writing systems as abugida, a fundamentally different writing system belonging to another continent. It translates the distributed standard into authority, and forces the beginningless into its own clock.
 
 The result is field-loss. Sanskrit remains present, but the world becomes *akṣetravit*: unable to discern the terrain.
 
@@ -112,11 +112,11 @@ At institutional scale, the recipes become repeatable operations. The asuric pyr
 
 The attack on Sanskrit is a category attack. The pyramid leaves the word *Sanskrit* visible and decides what category the word is allowed to occupy. Once the category is stolen, every fact is read inside it.
 
-The first move is ancestry theft. PIE is placed above Sanskrit, and Sanskrit is made downstream. The engineered calibrant becomes one branch among many. The real language must answer to an imaginary ancestor; the preserved system must answer to a reconstructed source; the visible architecture must answer to a starred form no known community ever spoke. Sūrya remains visible, but the sky has been darkened.
+The first move is ancestry theft. The pyramid places PIE above Sanskrit, and makes Sanskrit downstream. The engineered calibrant becomes one branch among many. The real language must answer to an imaginary ancestor; the preserved system must answer to a reconstructed source; the visible architecture must answer to a starred form no known community ever spoke. Sūrya remains visible, but the pyramid has darkened the sky.
 
 The public move is language capture. Words such as *plant-organ*, *branch*, *daughter*, *migration*, *reconstruction*, *codification*, *"mythology"*, *cosmopolis*, *elite*, *early*, *late*, *primitive*, and *interpolation* smuggle the concealment into ordinary speech. A reader can absorb the verdict before seeing the evidence because the vocabulary has already assigned the category.
 
-These operations execute category theft. Sanskrit is confined within categories built to hide what Sanskrit is.
+These operations execute category theft. The pyramid confines Sanskrit within categories built to hide what Sanskrit is.
 
 At the summit sits the one who must own the field. He does not share authority with the distributed field. He converts the field into a base and calls his view the whole. Sanskrit threatens him because Sanskrit preserves an order with no apex at all.
 

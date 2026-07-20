@@ -102,7 +102,7 @@ Patañjali explains what *Siddha* is by contrasting it with an alternative: **�
 
 These operate as broad Indic categories. In Vedic procedure, *kārya* is an act to be done; *siddha* is what already stands. In metaphysics, *kārya* is a contingent product; *siddha* is an attained or perfected state. Whatever the domain, the contrast is stable. *Siddha* has stopped becoming. *Kārya* is still becoming.
 
-Applied to language, the question is exact. Is the bond between word and meaning *kārya* — produced by usage, remade by speakers, altered by time — or is it *siddha* — established, prior to usage, the same bond grammar must defend?
+Applied to language, the inquiry asks whether the bond between word and meaning operates as *kārya*—produced by usage, remade by speakers, altered by time—or stands as *siddha*—established, prior to usage, the identical bond grammar must defend.
 
 If the bond is *kārya*, grammar studies a moving target. Words are produced, meanings negotiated, and rules become descriptions of current practice, valid until practice changes.
 
