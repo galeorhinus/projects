@@ -17,7 +17,7 @@ The four-behavior frame must distinguish **language change** from **usage adapta
 
 - In **botanical change**, language adapts to new time, place, situation, contact, and need by changing organically. New circumstances alter the language itself: sound shifts, forms drift, meanings move, and branches form.
 - In **petrification**, the selected register is held in the past. It can remain usable in sacred, legal, scholarly, or ceremonial contexts, but its bounded form is protected against ordinary adaptation. Living speech continues elsewhere.
-- In **engineering**, the architecture itself has unlimited generative capacity. Sanskrit does not need to mutate in order to meet new circumstances. Speakers adapt **usage**: they compose, derive, extend, and apply within the calibrated architecture. This is the quintessence of the **laukika** domain: the language remains Sanskrit while usage answers the world.
+- In **engineering**, the architecture itself has unlimited generative capacity. Sanskrit does not need to mutate in order to meet new circumstances. Speakers adapt **usage**: they compose, derive, extend, and apply within the calibrated architecture. This is the quintessence of the **laukika** domain: the language remains Sanskrit while usage meets the changing world.
 - In **vivimorphosis**, an engineered Sanskrit form leaves the calibrant boundary. Once outside the architecture, it behaves botanically in the receiving language.
 
 This distinction also explains why the pyramid has to hide Sanskrit's two simultaneous domains. In the **vaidika** domain, both language and content are invariant. In the **laukika** domain, the language remains calibrated while usage, composition, subject matter, and application adapt. The pyramid's split — natural Vedic before Pāṇini, codified Classical after Pāṇini — hides the more dangerous fact: Sanskrit can preserve an unchanging calibrant and support adaptive civilizational use at the same time.
@@ -59,13 +59,12 @@ Reverse process:
 
 Use **revivification** for the return of a petrified language-form to living speech.
 
-Then classify the result as **re-prākritization**: once the revived form re-enters ordinary life, it resumes *prakṛti* behavior — usage, region, childhood acquisition, contact, time, drift, branching, and mutation.
+Once the revived form re-enters ordinary life, it resumes botanical behavior through usage, region, childhood acquisition, contact, time, drift, branching, and mutation. This consequence requires no second process-name. The earlier proposal *re-prākritization* has been retired because it duplicates the endpoint of revivification and already carries another specialized meaning in Indian linguistics.
 
 Guardrail against confusion with vivimorphosis:
 
 - **Vivimorphosis**: engineered Sanskrit form becomes organic in another language.
 - **Revivification**: petrified / codified language-form becomes living speech again.
-- **Re-prākritization**: the revived form resumes natural-language behavior after revivification.
 
 Likely examples:
 
@@ -238,7 +237,7 @@ Possible paragraph before the table:
 
 Possible paragraph after the table:
 
-> The crucial difference is the layer at which adaptation occurs. Botanical languages adapt by changing the language. Petrified registers resist adaptation by being held under authority. Sanskrit adapts differently: the calibrated language remains itself, while speakers extend usage through derivation, composition, application, and commentary. That is why **laukika** Sanskrit matters. It shows a language that can answer changing worlds without ceasing to be the calibrant.
+> The crucial difference is the layer at which adaptation occurs. Botanical languages adapt by changing the language. Petrified registers resist adaptation by being held under authority. Sanskrit adapts differently: the calibrated language remains itself, while speakers extend usage through derivation, composition, application, and commentary. **Laukika** Sanskrit therefore remains usable in changing worlds without ceasing to be the calibrant.
 
 ### Ch18
 
@@ -432,7 +431,6 @@ Do not make Sanskrit a tree. If a tree appears in the figure, it must belong onl
 - **Botanical change**: valid for natural languages.
 - **Petrification**: codified preservation by authority; organic life frozen into bounded form.
 - **Revivification**: a petrified / codified language-form returning to living speech.
-- **Re-prākritization**: the natural-language behavior that resumes after revivification; the revived form becomes botanical again.
 - **Engineering**: Sanskrit’s internal calibrant architecture.
 - **Vivimorphosis**: engineered Sanskrit form acquiring organic behavior outside the calibrant boundary.
 - **Apex language**: a high language or register placed above living languages so the lower languages can be renamed as dialects, variants, or local speech.
@@ -449,6 +447,6 @@ Do not make Sanskrit a tree. If a tree appears in the figure, it must belong onl
 5. Should Ch18 coin **migratiogenesis**, or should the book use the plainer phrase **Steppe-to-Sanskrit alchemy** and reserve the coined term for essays?
 6. Should Prakrit be described as **orbital apabhraṃśa**, **orbital naturalization**, or **calibrant-adjacent naturalization**?
 7. Should **revivification** be treated as a fifth language behavior in the table, or as a reverse-process note under petrification?
-8. Should **re-prākritization** appear in body prose, or stay as a planning/category term with “becomes botanical again” used for readers?
+8. ~~Should **re-prākritization** appear in body prose?~~ **Resolved:** retire the term; revivification already includes the return to botanical life.
 9. Should **apex language** be introduced in Ch6 / Ch12, or reserved for an appendix / later essay on language hierarchy?
 10. Should the book explicitly contrast **apex language** with **calibrant language** in the epilogue?

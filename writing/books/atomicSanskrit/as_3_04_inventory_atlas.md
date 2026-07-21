@@ -41,7 +41,7 @@ A *sonomeric coordinate* is a contrastive unit the language promotes into its in
 
 While Tamil speakers produce voiced stop sounds in real speech, Tamil's contrastive inventory does not promote those voiced realizations to independent voiced-stop coordinates the way Sanskrit does. The atlas strictly records the latter rather than the former. The same caution governs aspirated stops, palatal-versus-post-alveolar distinctions, and any other case where a language's spoken field contains material its inventory does not formally credit. The atlas operates at the inventory layer, mirroring how Sanskrit's engineering itself operates at the inventory layer.
 
-**The coverage criterion is union, not ranking.** For each three-language comparison set, a Sanskrit cell counts as *covered* if at least one of the three languages lights it. Chapter 8 asks whether the subcontinental field — or some other region — supplies enough material to make Sanskrit's base recoverable. Union coverage answers that question without conflating it with per-language ranking.
+**The coverage criterion is union, not ranking.** For each three-language comparison set, a Sanskrit cell counts as *covered* if at least one of the three languages lights it. Chapter 8 asks whether the subcontinental field — or some other region — supplies enough material to make Sanskrit's base recoverable. Union coverage tests that proposition without conflating it with per-language ranking.
 
 Three languages collectively covering 20 of 23 cells does not mean each language holds 20 of those cells; it means the union of their three inventories intersects Sanskrit's base in 20 places. A language that contributes three or four cells can still hold weight if those cells are otherwise unfilled.
 
@@ -51,7 +51,7 @@ The inventory choices are conservative and editorial. Verification flags live in
 
 The Korku chart uses this conservative policy. The standard Korku grammar appears to preserve a richer retroflex inventory than the atlas currently displays, including retroflex aspirates, a retroflex flap, and a retroflex lateral.[NOTE: korku-nagaraja-mouth-mind-evidence] The figure therefore treats Korku minimally: enough to show the retroflex place, without counting every possibly dialectal, loan-sensitive, or differently analyzed retroflex contrast.
 
-The method is narrow and reproducible. It makes Chapter 8's question answerable in numbers the reader can audit.
+The method is narrow and reproducible. It makes Chapter 8's question measurable in numbers the reader can audit.
 
 ## 4.2 Santali-Inclusive Munda Control: 18 of 23
 

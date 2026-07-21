@@ -416,6 +416,12 @@ Never open or pad a paragraph by *telling* the reader a point is significant. Th
 
 FIX: delete the meta-sentence and lead with the substance. *"The contrast matters too. Not every atom behaves like kṛ."* → *"Not every atom behaves like kṛ."* The significance lands because the claim is concrete, not because the prose announced it. Watch for the half-fix: changing *"This distinction matters"* to *"The distinction matters"* keeps the tell — the whole sentence has to go. (Sibling of the scope-narration tell above; that one points the reader at other chapters, this one asserts importance in place. Both are throat-clearing.)
 
+### *Answer* — reserve it for actual replies
+
+Do not use ***answer*** as a generic relationship between abstractions. A domain does not *answer entropy*, a matrix does not *answer chronology*, and a chapter does not *introduce the answer* when the prose can state what the domain preserves, what the matrix exposes, or what the chapter demonstrates. Replacing *answer* mechanically with *response* or *solution* preserves the tic; identify the operation instead: *preserves, applies, clarifies, resolves, rebuts, prevents, supplies, demonstrates, explains,* or another verb required by the facts.
+
+Preserve ***answer*** when it denotes a literal reply to an explicit question, a received doctrinal conclusion, or a deliberate refrain whose repetition is already part of the book: *There are two answers: zero and infinity*; *The answer is always zero*; *the honest answer is: we do not know*. Idiomatic subordination such as *answer to an authority* should normally become the more exact *submit to, conform to,* or *be subordinated to*.
+
 ### Texture — causal-expository prose without a verdict formula (revised 2026-07-19)
 
 The book's default voice is **causal-expository** (locked 2026-07-18 after a manuscript-wide author pass converted Preface–Ch19 + App 8): the sentence states its logical relation to what precedes it, and syntax — not juxtaposition — carries the inference. The earlier paratactic default (stacked short verdicts, anaphora triples, one-line pivot paragraphs, drumbeat catalogs) is retired as texture. Where a draft stacks verdicts (*"Drift before Pāṇini. Freeze after Pāṇini."*), rebuild the omitted relationship in as many sentences as the explanation needs. Do not force the repair into one overloaded period.

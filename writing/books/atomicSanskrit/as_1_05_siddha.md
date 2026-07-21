@@ -54,7 +54,7 @@ The keystone text sits one layer above the *Aṣṭādhyāyī* itself, in the op
 
 The first section of the *Mahābhāṣya* is the **पस्पशाह्निक (*Paspaśāhnika*)**, the opening discourse that establishes what kind of object *vyākaraṇam* studies. The preface itself lays the foundation for the entire discipline.
 
-If the purpose of *grammar* in the English language is to correct and police *correct* usage, what is the purpose of *vyākaraṇam* in Sanskrit? [NOTE: prayojanani-paspashahnika] The *Paspaśāhnika* asks exactly the same question: **किं प्रयोजनं व्याकरणस्य (*kim prayojanam vyākaraṇasya*)** — what is the purpose of grammar? The answer comes as five received purposes, the **पञ्च प्रयोजनानि (*pañca prayojanāni*)**:
+If the purpose of *grammar* in the English language is to correct and police *correct* usage, what is the purpose of *vyākaraṇam* in Sanskrit? [NOTE: prayojanani-paspashahnika] The *Paspaśāhnika* asks exactly the same question: **किं प्रयोजनं व्याकरणस्य (*kim prayojanam vyākaraṇasya*)** — what is the purpose of grammar? It gives five received purposes, the **पञ्च प्रयोजनानि (*pañca prayojanāni*)**:
 
 - **रक्षा (*rakṣā*)** — preservation of the *Vedas* through correct forms.
 - **ऊह (*ūha*)** — adaptation for yajña procedures.
@@ -116,7 +116,7 @@ Patañjali concludes that the bond is *siddha*.
 
 The bond does not evolve or mutate. It is a structural constant. This does not mean a word can hold only one sense. Sanskrit is comfortable with meaning-fields: गो / गौः (go / gauḥ) can point to cow, earth, speech, ray, and more. The claim is not single-sense rigidity; the claim is that the field is established, recoverable, and anchored in action.
 
-Patañjali reaches this conclusion through the Indian method of stating the opposing position, answering it, and reaching the settled conclusion. The reader may be familiar with the पूर्वपक्ष–सिद्धान्त (pūrvapakṣa–siddhānta). The technical details belong to the *Paspaśāhnika* itself. The structural fact belongs here: the *Mahābhāṣya* places the *siddha* commitment at the opening of the received commentary and lets the rest of the grammatical project follow from it.
+Patañjali reaches this conclusion through the Indian method of stating and examining the opposing position before establishing the settled conclusion. The reader may be familiar with the पूर्वपक्ष–सिद्धान्त (pūrvapakṣa–siddhānta). The technical details belong to the *Paspaśāhnika* itself. The structural fact belongs here: the *Mahābhāṣya* places the *siddha* commitment at the opening of the received commentary and lets the rest of the grammatical project follow from it.
 
 **Second Shanti.** This structure gives the reader the first working view of Sanskrit as a self-correcting calibrant. Later volumes in the Second Shanti series will explore how *saṃskṛti* extends this calibrant architecture to higher fractal scales.
 

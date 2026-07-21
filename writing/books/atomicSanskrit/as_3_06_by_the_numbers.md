@@ -2,7 +2,7 @@
 
 By the end of Chapter 10, the botanical substitute is gone and the *dhātuḥ* stands as an engineered semantic atom. Chapter 11 activates that atom. The smallest forms turn out to be the most reactive forms. The numerical audit behind those chapters asks the remaining question plainly: do the counts behave like accident, or like architecture?
 
-No single number can answer that. The pattern has to recur across levels: sound-particle, position, cluster, place, scaffold, operation, corpus use, and productivity. The *Source and Reference Companion* holds the tables, scripts, correction history, and replication notes. The record here keeps the source, the method, the strongest signals, and the principles visible in the counts.
+No single number can establish engineering. The pattern has to recur across levels: sound-particle, position, cluster, place, scaffold, operation, corpus use, and productivity. The *Source and Reference Companion* holds the tables, scripts, correction history, and replication notes. The record here keeps the source, the method, the strongest signals, and the principles visible in the counts.
 
 Two paths hold the audit. **Path A** measures the digital Pāṇinian **धातुपाठ (*Dhātupāṭha*)**: 2,168 entries across the ten **गणाः (*gaṇāḥ*)**, after **अनुबन्ध (*anubandha*)** markers are removed by the relevant *Aṣṭādhyāyī* rules. **Path C** measures actual use through the Digital Corpus of Sanskrit: corpus-attested combinatorial valency across parsed Sanskrit texts. Path A tests the inventory. Path C tests deployment.
 

@@ -1,6 +1,6 @@
 # Appendix Part 8 — The Codification Story, Refuted
 
-*Draft v1 (2026-05-24). Final appendix position. Purpose: answer the standard skeptical-reader claim that Sanskrit kept drifting until Pāṇini "codified" it. Uses existing book arguments rather than introducing a new frame: Ch 4's *siddha* / *kārya* and pre-Pāṇinian decoding lineage; Ch 5's *apabhraṃśa* / entropy frame and three-way diagnostic; Ch 10's atomic compression and *dhāturacanā* data; Ch 14's calibration matrix; Appendix Part 7's Vedic-carrier demonstration.*
+*Draft v1 (2026-05-24). Final appendix position. Purpose: rebut the standard skeptical-reader claim that Sanskrit kept drifting until Pāṇini "codified" it. Uses existing book arguments rather than introducing a new frame: Ch 4's *siddha* / *kārya* and pre-Pāṇinian decoding lineage; Ch 5's *apabhraṃśa* / entropy frame and three-way diagnostic; Ch 10's atomic compression and *dhāturacanā* data; Ch 14's calibration matrix; Appendix Part 7's Vedic-carrier demonstration.*
 
 ---
 
@@ -14,7 +14,7 @@ This sleight already has a name: **heroic erasure**. Praise the named figure. De
 
 The battle is not with Pāṇini. It is with the present machinery that asks the reader to remember Pāṇini incorrectly: not as decoder of an operating architecture, but as the codifier who brought order into being.
 
-The documentation here answers the codification story directly.
+The documentation here tests the codification story directly.
 
 The question is not whether Pāṇini was brilliant. He was. The question is whether his brilliance consisted in imposing order on a drifting language, or in decoding an engineered system already operating in the Vedic corpus, the recitation lineages, the *Prātiśākhya* disciplines, the *Nirukta* discipline, and the pre-Pāṇinian grammatical line.
 
@@ -50,9 +50,9 @@ The second claim is **Vedic-to-Classical drift**. The pyramid points to differen
 
 These are not the same claim.
 
-The first says the Vedic corpus itself shows uncontrolled historical movement. Appendix Part 7 answered that: the Vedic corpus preserves engineered mode-difference, metrical tooling, recension-specific specification, and preserved optionality. The evidence does not show unbounded drift. It shows bounded variation inside a preservation system.
+The first says the Vedic corpus itself shows uncontrolled historical movement. Appendix Part 7 showed instead that the Vedic corpus preserves engineered mode-difference, metrical tooling, recension-specific specification, and preserved optionality. The evidence does not show unbounded drift. It shows bounded variation inside a preservation system.
 
-The second says Pāṇini stands between two languages or two chronological stages. The Preface, Chapter 1, Chapter 5, and Chapter 17 answer that: **वैदिक (*vaidika*)** and **लौकिक (*laukika*)** are domains; **छन्दस् (*chandas*)** and **भाषा (*bhāṣā*)** are modes. Domain is not chronology. Mode is not drift.
+The second says Pāṇini stands between two languages or two chronological stages. The Preface, Chapter 1, Chapter 5, and Chapter 17 establish another structure: **वैदिक (*vaidika*)** and **लौकिक (*laukika*)** are domains; **छन्दस् (*chandas*)** and **भाषा (*bhāṣā*)** are modes. Domain is not chronology. Mode is not drift.
 
 The pyramid's account depends on blurring the two claims. Once the claims are separated, each has to stand on its own evidence.
 
@@ -149,7 +149,7 @@ The Vedas preserved the architecture. Pāṇini made the architecture operationa
 
 ## 8.7 The Decoding Lineage Before Pāṇini
 
-Codification has no answer for the pre-Pāṇinian decoding lineage.
+Codification cannot explain the pre-Pāṇinian decoding lineage.
 
 If Pāṇini imposed order on a drifting language, the discipline before him should look thin, fragmented, or absent. It does not. Pāṇini cites earlier *vaiyākaraṇāḥ*. Yāska cites earlier etymologists. The *Prātiśākhya* and *Śikṣā* disciplines preserve phonetic analysis by recension. The *padapāṭha* decomposes the Vedic *saṃhitā* into constituent words. The system already knew how to analyze itself.
 
@@ -203,7 +203,7 @@ The *varṇamālā* remains structurally intact. The case system remains availab
 
 The differences that do exist are bounded, named, and assigned: mode, meter, recension, option, domain, style, rule-context. That is not what natural drift looks like.
 
-A skeptic may still say: but Sanskrit did change. The answer is exact: ordinary speech always changes; Sanskrit's calibrated architecture did not collapse into that change. *Prākṛtika* speech flowed. Regional languages flourished. *Apabhraṃśa* multiplied. The calibrant remained.
+A skeptic may still say: but Sanskrit did change. The distinction is exact: ordinary speech always changes; Sanskrit's calibrated architecture did not collapse into that change. *Prākṛtika* speech flowed. Regional languages flourished. *Apabhraṃśa* multiplied. The calibrant remained.
 
 That is the civilizational design. Sanātan does not require every person to speak the calibrant language. Society speaks its living languages, its household speech, its market idioms, its songs, its regional forms. Sanskrit stands elsewhere. It is the *dhruvamān bhāṣā*, the north-star language: stable enough to orient speech, memory, knowledge, ritual, and grammar without needing to police every living mouth.
 
@@ -450,7 +450,7 @@ The engineering thesis makes both large.
 
 ## 8.16 Point-by-Point Response
 
-The skeptical objection can now be answered directly.
+The evidence can now test each skeptical objection directly.
 
 | Standard claim | Engineering response |
 |---|---|
@@ -473,7 +473,7 @@ Each inversion protects the same premise: Sanskrit must not be the engineered ca
 
 The replacement model is simpler than the pyramid's story because it does not need to hide its speculation.
 
-Sanskrit stands before the historical record as an already engineered architecture. Who specified it, when the specification occurred, and how it entered human transmission are not questions this book pretends to answer. The lineage-chain says the *ṛṣis* saw and the lineage heard. The rationalist mind may bracket the metaphysics. It still has to account for the architecture.
+Sanskrit stands before the historical record as an already engineered architecture. This book does not pretend to know who specified it, when the specification occurred, or how it entered human transmission. The lineage-chain says the *ṛṣis* saw and the lineage heard. The rationalist mind may bracket the metaphysics. It still has to account for the architecture.
 
 The Vedas are the primary calibration matrix. They are not reducible to scripture. They are also the preserved corpus-form of the linguistic architecture. They hold grammar, sound, meter, derivation, and transmission in one body.
 

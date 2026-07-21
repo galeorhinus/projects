@@ -126,21 +126,33 @@ The label *oral tradition* tells the reader nothing about the architecture. It t
 
 ## 13.5 *Calibrated*, Not *Codified*
 
-Codification does not stop drift. It only creates an authority against which drift can be judged.
+### Guarded Form and Living Speech
 
-Greek was codified. Latin was codified. Arabic was codified. Hebrew was codified. Tibetan was codified. In each case, the codified standard survived as an authoritative form, but ordinary speech kept moving. Greek moved from Classical to Koine to Byzantine to Modern forms. Latin became the Romance languages. Arabic developed a wide diglossic field between Classical / MSA and the spoken regional varieties. Hebrew preserved scriptural and learned styles, then returned as Modern Hebrew with major phonological and syntactic change. Tibetan preserved a literary standard while spoken Tibetan varieties diverged.
+An authority can preserve a selected form for centuries, but its control over that form does not stop speakers elsewhere from changing their language. Petrification therefore produces two streams: institutions hold a bounded form through text, school, clergy, or state, while children continue acquiring and changing the speech used at home and in ordinary life.
 
-Codification preserves a standard by authority, not a language by architecture.
+Latin shows the pattern clearly. Classical and ecclesiastical forms remained under textual and church custody while spoken varieties developed into the Romance languages. Quranic Arabic remained guarded through the *muṣḥaf*, recitation, memorization, and authorized readings while Moroccan, Egyptian, Levantine, Gulf, and other spoken Arabics continued changing. Classical Greek remained available through texts and schooling as Koine, Byzantine, and modern forms developed. Literary Tibetan likewise remained a learned form while spoken Tibetan varieties changed. In each case, the guarded form and the changing speech continued beside one another.[NOTE: petrified-bounded-forms]
+
+### Revivification
+
+Modern Hebrew followed a rarer path. The movement that returned Hebrew to household speech, childhood acquisition, education, administration, and ordinary public life turned a guarded language into daily speech again. The book calls that return **revivification**.
+
+The Hebrew placed into daily use drew upon Biblical, Mishnaic, medieval, and modern Hebrew, while contact with other languages shaped its growing vocabulary and usage. As children and communities began using Hebrew for every circumstance, pronunciation, syntax, vocabulary, idiom, and regional variation resumed botanical change.[NOTE: petrified-bounded-forms]
+
+These histories separate two movements that the word *codification* tends to blur. Petrification occurs when authority holds an organic form in place. Revivification returns such a form to ordinary speech, where daily usage resumes botanical change. Latin, Greek, Arabic, and Tibetan retained guarded forms beside parallel changing streams; Modern Hebrew crossed back into botanical life.
+
+### Preservation by Calibration
+
+External authority can preserve a bounded form with considerable rigor. Sanskrit solves a different preservation problem by placing the measure inside a generative language and inside the people trained to transmit it.
 
 The grammatical principle is: bond first, usage second, *śāstra* third (Chapter 5). The calibration matrix is that principle scaled to civilization. The standard already stands; the system trains bodies, ears, memory, grammar, and community to hold usage against it.
 
-A Sanskrit form begins transmission and comes out identical — same vowel length, same accent, same sequence — generation after generation, while the ordinary speech around it drifts. That constancy under transmission, holding fixed while speech moves, is **ध्रौव्यता (*dhrauvyatā*)**. Because Sanskrit holds fixed, it works as the measure everything else is checked against — the fixed-measure language, **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**, the calibrant that sound, form, memory, grammar, and usage are held against.
+A Sanskrit form passes from teacher to student with the same vowel length, accent, and sequence, generation after generation, while ordinary speech around it changes. That constancy under transmission is **ध्रौव्यता (*dhrauvyatā*)**. Sanskrit can therefore serve as the fixed measure against which sound, form, memory, grammar, and usage are checked: **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**, the calibrant language.
 
-While standard codification draws a hard line—where the codified standard becomes correct and whatever falls outside it becomes wrong—Sanskrit does not operate this way. Because it is not an imperial language imposed from an apex, the living languages of the people are not declared deviant simply because they are not Sanskrit; rather, they flow as *prākṛtika* speech. Consequently, the calibrant model draws no such line: the calibrant is held, while ordinary speech is allowed to flow.
+Sanātan assigns the calibrant and ordinary speech different work. People conduct daily life through *prākṛtika* languages, regional speech-fields, household speech, songs, and market idioms. These living languages adapt with their speakers, while Sanskrit remains available as the measure that preserves knowledge and long memory.
 
-Because Sanātan does not require every person to speak the calibrant language, society speaks its living languages, its prākṛtika forms, its regional speech-fields, its household speech, its songs, and its market idioms. Therefore, rather than being treated as sinful deviations from an authorized tongue, these idioms flourish.
+This arrangement allows natural languages to flourish without treating them as failed Sanskrit. It also allows the calibrant to remain invariant without turning it into an apex language imposed on every household. The measure holds, and ordinary speech continues to flow.
 
-Sanskrit stands elsewhere. Like ध्रुव (dhruva), the fixed star, it serves as the calibrant language: the disciplined, preserved, architected standard against which knowledge, yajña, grammar, memory, and civilizational continuity can be held. Its preservation does not rest on a declared standard alone. The Vedic corpus, the Prātiśākhya discipline, Śikṣā, Chandas, the pāṭha systems, Vyākaraṇam, the Dhātupāṭha, and the *guru-shishya* lineage-chains form a calibration architecture. The burden of that preservation falls on those who choose the path of rigor. The system carries correctness into action: it detects drift, corrects drift, and trains the human instrument that holds the form.
+Like **ध्रुव (*dhruva*)**, the fixed star, Sanskrit serves as the disciplined, preserved, architected measure against which knowledge, *yajña*, grammar, memory, and civilizational continuity can be held. The Vedic corpus, the Prātiśākhya discipline, Śikṣā, Chandas, the *pāṭha* systems, Vyākaraṇam, the Dhātupāṭha, and the *guru-shishya* lineage-chains form its calibration architecture. Those who choose the path of rigor accept the burden of preservation. Their training turns correctness into practice by detecting change, correcting it, and refining the human instrument that holds the form.
 
 *Paramparā* supplies the distributed transmission architecture that the English word "tradition" fails to describe. Its vertical dimension preserves exact form through the *guru-shishya* lineage-chain, while its horizontal dimension moves learned people among villages, towns, assemblies, yajña settings, *pāṭhaśālās*, *maṭhas*, and scholarly circuits. Society sustains that movement by providing lodging, food, patronage, *dakṣiṇā*, travel support, public debate, yajña invitations, and scholarly exchange, allowing knowledge to circulate without placing it under a central authority.
 

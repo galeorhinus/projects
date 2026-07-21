@@ -144,7 +144,7 @@ The gap is local. These are near-neighbor refinements inside already active zone
 
 The figure does two things at once. It shows that the southern sound-field already holds nearly the whole Sanskrit base. It also shows where Sanskrit's engineering begins to appear: available zones are regularized into exact coordinates.
 
-*Mahāprāṇa* stays aside first to keep the base field visible. If the ten heavy-breath stops were included at the start, the reader might treat the absence of aspirates in many southern inventories as a failure of the field. That would be the wrong conclusion. The base field is the first question. Breath is the second. The southern survey answers the first question strongly: the base is already here.
+*Mahāprāṇa* stays aside first to keep the base field visible. If the ten heavy-breath stops were included at the start, the reader might treat the absence of aspirates in many southern inventories as a failure of the field. That would be the wrong conclusion. The base field is the first question. Breath is the second. The southern survey establishes the first point strongly: the base is already here.
 
 ## 8.7 The Forest-Belt Survey: 18 of 23
 
@@ -156,7 +156,7 @@ This choice is deliberate. The machinery often treats Santali as visibly Sanskri
 
 The result is 18 of 23.
 
-Again, the panel is a field rather than a family tree. The physical question is direct: how much of Sanskrit's base mouth-map is already occupied by Korku, Mundari, and Ho? The answer is still most of it.
+Again, the panel is a field rather than a family tree. The physical question is direct: how much of Sanskrit's base mouth-map is already occupied by Korku, Mundari, and Ho? These three languages still occupy most of it.
 
 The unfilled cells are **ण**, **स**, **ष**, **श**, and **ल**. Again, the gaps follow a pattern. They concentrate in the nasal and sibilant/lateral refinements where Sanskrit makes a sharper grid decision.
 
@@ -195,7 +195,7 @@ The second control tests the Central Asian story more directly. The comparison u
 
 The result is 12 of 23.
 
-This control is geographic rather than genealogical. Tajik, Kazakh, and Kyrgyz form a corridor test rather than one linguistic family. The racial Arya thesis and its softened migration vocabulary repeatedly point the reader toward Central Asia. So the chart tests a geographic question: does that corridor look like the source-field for Sanskrit's base? The answer is weak.
+This control is geographic rather than genealogical. Tajik, Kazakh, and Kyrgyz form a corridor test rather than one linguistic family. The racial Arya thesis and its softened migration vocabulary repeatedly point the reader toward Central Asia. So the chart tests a geographic question: does that corridor look like the source-field for Sanskrit's base? The three corridor languages contain too little of that base to support the claim.
 
 The four coverage figures make the geographic contrast visible:
 

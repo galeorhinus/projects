@@ -112,7 +112,7 @@ At institutional scale, the recipes become repeatable operations. The asuric pyr
 
 The attack on Sanskrit is a category attack. The pyramid leaves the word *Sanskrit* visible and decides what category the word is allowed to occupy. Once the category is stolen, every fact is read inside it.
 
-The first move is ancestry theft. The pyramid places PIE above Sanskrit, and makes Sanskrit downstream. The engineered calibrant becomes one branch among many. The real language must answer to an imaginary ancestor; the preserved system must answer to a reconstructed source; the visible architecture must answer to a starred form no known community ever spoke. Sūrya remains visible, but the pyramid has darkened the sky.
+The first move is ancestry theft. The pyramid places PIE above Sanskrit, and makes Sanskrit downstream. The engineered calibrant becomes one branch among many. The pyramid subordinates the real language to an imaginary ancestor, the preserved system to a reconstructed source, and the visible architecture to a starred form no known community ever spoke. Sūrya remains visible, but the pyramid has darkened the sky.
 
 The public move is language capture. Words such as *plant-organ*, *branch*, *daughter*, *migration*, *reconstruction*, *codification*, *"mythology"*, *cosmopolis*, *elite*, *early*, *late*, *primitive*, and *interpolation* smuggle the concealment into ordinary speech. A reader can absorb the verdict before seeing the evidence because the vocabulary has already assigned the category.
 

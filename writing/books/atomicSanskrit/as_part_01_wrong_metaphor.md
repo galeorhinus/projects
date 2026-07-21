@@ -32,7 +32,7 @@ Category theft casts the shadow: theft by misclassification, inversion by metaph
 
 What it darkens is the Sanskrit continuum — the civilization subjected to a false description of its own language. The injury is deeper than misdescription. The pyramid sustained, and sustains, a systematic effort to convince a civilization that its own understanding of reality is a mass delusion. Chapter 17 calls out one instrument of that tactic under its proper name: *gaslighting with footnotes*.
 
-The pyramid split the category. Before Pāṇini (पाणिनि), it made Sanskrit answer as **प्रकृति (*prakṛti*)**: natural growth, drift, descent, plant-organs, branches, daughters. After Pāṇini, it made Sanskrit answer as codification: grammar, authority, freezing, standardization. Both moves hide the same truth: **Sanskrit is संस्कृति (*saṃskṛti*)** — created order, calibrated architecture, disciplined recurrence.
+The pyramid split the category. Before Pāṇini (पाणिनि), it forced Sanskrit into **प्रकृति (*prakṛti*)**: natural growth, drift, descent, plant-organs, branches, daughters. After Pāṇini, it forced Sanskrit into codification: grammar, authority, freezing, standardization. Both moves hide the same truth: **Sanskrit is संस्कृति (*saṃskṛti*)** — created order, calibrated architecture, disciplined recurrence.
 
 That concealment is the shadow. The pyramid first forces a swastika architecture—built for well-being, distributed order, and civilizational continuity—into a botanical tree, then into a codified standard.
 

@@ -18,7 +18,7 @@
 
 The selected sonomers are now in place. Construction is the next question: which sonomers combine into the first stable units that mean?
 
-Sanskrit's answer is the **धातुः (*dhātuḥ*)**.
+Sanskrit builds words from the **धातुः (*dhātuḥ*)**.
 
 With the botanical metaphors exposed as category theft, the architecture reclaims its own term: a constituent. The *dhātuḥ* is the stable semantic unit or atom that holds identity while larger forms assemble around it. The sonomers, **अक्षराणि (*akṣarāṇi*)**, and **मात्रा (*mātrā*)** are now available. The construction question is direct: how do measured sonomers become semantic atoms?
 
@@ -218,7 +218,7 @@ The count itself is striking. The *varṇamālā* holds forty-seven core *varṇ
 
 No mathematical rule requires the two counts to match. The *varṇa* total comes from the engineered phonetic grid; the scaffold total emerges from the *Dhātupāṭha* inventory. But the picture the match draws is real: **forty-seven sonomers flow through forty-seven scaffolds, and the architecture selects 2,168 stable atoms from the combinatorial space they together span.**
 
-The skeptic's question presses here: *if the system is so compact, why have a tail at all?* The answer is the architecture's own. Engineered systems are not mechanically minimized. They concentrate around modal forms and preserve range where range does work. Rare meanings can take rare shapes. Dense clusters can stage iconic force. Disyllabic envelopes can serve metrical contexts that demand a longer signature.
+The skeptic's question presses here: *if the system is so compact, why have a tail at all?* Engineered systems are not mechanically minimized. They concentrate around modal forms and preserve range where range does work. Rare meanings can take rare shapes. Dense clusters can stage iconic force. Disyllabic envelopes can serve metrical contexts that demand a longer signature.
 
 The modal scaffolds are tight. The tail is small. The range is governed. The *dhātuḥ* passes the second test. It is *astobham*: compact without padding, varied without waste.
 
@@ -426,7 +426,7 @@ The *dhātuḥ* behaves like a *sūtra* at atomic scale.
 
 First came **ॐ (*oṃ*)** as the shortest audible compression of Sanskrit's sound-anatomy. Then came the sound-field and the selected field shaped into the *varṇamālā*. The same discipline is now visible inside the *dhātuḥ*, making the fractal recurrence undeniable.
 
-The śāstra does not treat Oṃ as a casual sacred sound. The Chāndogya calls it the essence of essences. The Māṇḍūkya gives the fractal formula: **ॐ इत्येतदक्षरमिदं सर्वम् (*oṃ ity etad akṣaram idaṃ sarvam*)** — this *akṣara* Oṃ is all this — and extends the claim across what was, what is, what will be, and what stands beyond the three times. It then unfolds the single syllable as **अ-उ-म् (*a-u-m*)** and the unmeasured fourth. The Taittirīya says, "Oṃ is Brahman; Oṃ is all this." The Kaṭha condenses what all the Vedas declare into one answer: Oṃ. In this vocabulary, Oṃ is the acoustic seed of *Sanātan*: the time-transcending claim made audible in one *akṣara*.[NOTE: om-vocal-tract-macro-gesture]
+The śāstra does not treat Oṃ as a casual sacred sound. The Chāndogya calls it the essence of essences. The Māṇḍūkya gives the fractal formula: **ॐ इत्येतदक्षरमिदं सर्वम् (*oṃ ity etad akṣaram idaṃ sarvam*)** — this *akṣara* Oṃ is all this — and extends the claim across what was, what is, what will be, and what stands beyond the three times. It then unfolds the single syllable as **अ-उ-म् (*a-u-m*)** and the unmeasured fourth. The Taittirīya says, "Oṃ is Brahman; Oṃ is all this." The Kaṭha condenses what all the Vedas declare into Oṃ. In this vocabulary, Oṃ is the acoustic seed of *Sanātan*: the time-transcending claim made audible in one *akṣara*.[NOTE: om-vocal-tract-macro-gesture]
 
 Oṃ therefore passes the same test at the point of maximum compression. It is **अल्पाक्षरम् (*alpākṣaram*)** because it is one *akṣara*. It is **अस्तोभम् (*astobham*)** because nothing in it is padding. It is **असंदिग्धम् (*asaṃdigdham*)** because the lineage calls it precisely *praṇava*. It is **सारवत् (*sāravat*)** because the śāstra treats it as essence-bearing. It is **विश्वतोमुखम् (*viśvatomukham*)** because the Upaniṣads make it face the whole field of time, world, recitation, and realization. It is **अनवद्यम् (*anavadyam*)** because it remains stable across recitation, ritual, yoga, and Vedānta. Oṃ is not the *varṇamālā*. It is the single-syllable compression of the instrument and the shortest audible sign of the Sanātan claim.
 
@@ -436,6 +436,6 @@ The first scale is the specified sound inventory. The *varṇamālā* already ha
 
 Because Oṃ serves as the single-syllable sūtra, the *varṇamālā* serves as the sonomeric sūtra, and the *dhātuḥ* serves as the atomic sūtra, the grammatical *sūtra* is ultimately the rule-scale expression of that exact same discipline. By seamlessly connecting these four visible scales with exactly one structural signature, the architecture proves itself to be remarkably fractal.
 
-What else in Sanskrit holds the same discipline? The whole-language answer comes with calibration.
+What else in Sanskrit holds the same discipline? Calibration extends it across the whole language.
 
 The next chapters follow that discipline outward. As atoms become action, word, and sentence, Sanskrit preserves the sonomer. With the atom now built, the next scale asks how the *dhātuḥ* becomes a *kriyāpada* molecule.

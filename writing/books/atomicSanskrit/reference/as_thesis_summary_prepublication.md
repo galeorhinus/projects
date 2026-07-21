@@ -64,7 +64,7 @@
 
 ### Preservation
 
-14. **Sanskrit identifies drift and resists it.** Patañjali's discussion of correct words and their fallings-away shows that drift was observed, marked, and answered by design.
+14. **Sanskrit identifies drift and resists it.** Patañjali's discussion of correct words and their fallings-away shows that Sanskrit's architecture observed, marked, and resisted drift.
 
 15. **Writing alone cannot explain Sanskrit's preservation.** Stone does not scale; paper decays; archives can be seized; offices can gate access. Sanskrit required a distributed preservation architecture.
 

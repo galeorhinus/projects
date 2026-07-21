@@ -48,7 +48,7 @@ The method assumes ordinary linguistic friction: drift, sound change, analogy, s
 
 Engineering presupposes engineers. Specifications presuppose specifiers. Preservation architecture presupposes designers of the infrastructure. None of these presuppositions is available inside the comparative method, because the method explicitly excludes them as not part of how natural languages work.
 
-This is the category theft. The genealogical project looks at Sanskrit after the engineering is already visible and asks which precursor could have produced the surface. The architectural test asks how the engineering was specified, built, preserved, and decoded. The answers belong to different categories.
+This is the category theft. The genealogical project looks at Sanskrit after the engineering is already visible and asks which precursor could have produced the surface. The architectural test examines how the engineering was specified, built, preserved, and decoded. The two inquiries belong to different categories.
 
 No improved dataset fixes this. No larger cognate set fixes this. No more refined reconstruction fixes this. A better genealogy still does not become an architecture.
 
@@ -143,7 +143,7 @@ The early colonial formulation was explicit in its design: a conquering *ārya* 
 
 > The theft was never only historical. It was semantic first. Ārya was taken from discipline, learning, restraint, generosity, and achieved conduct, then remade as race, peoplehood, ancestry, and movement. Once that semantic theft was accepted, the historical theft could follow: Sanskrit became the speech-cargo of the invented people. The modern migration vocabulary softens the surface, but the two thefts remain joined.
 
-The trap asks the wrong question first and then forces every answer to live inside it. Did people move into India? Did people move out of India? Which population moved first? Which genetic signature appears where? Which steppe component enters which region? Once the debate accepts those terms, the deeper question has already been displaced. Sanskrit is no longer being asked as an architecture. It is being asked as cargo.
+The trap asks the wrong question first and then forces every explanation to remain inside it. Did people move into India? Did people move out of India? Which population moved first? Which genetic signature appears where? Which steppe component enters which region? Once the debate accepts those terms, the deeper question has already been displaced. Sanskrit is no longer being examined as an architecture. It is being treated as cargo.
 
 Bodies move. Knowledge moves. Specialists move. Traders move. Students move. Refugees move. None of that proves authorship.
 
@@ -189,7 +189,7 @@ The honest limit remains: we do not know the historical identities of the wise, 
 The motive is preservation with discrimination. Let what can flow, flow. Let what grows, grow. Let what changes, change. Preserve what is worthy of preservation for eternity: wisdom, measure, mantra, and the stories of how balance is kept even when darkness is everywhere.
 
 1. Sanskrit appears before history already engineered. The record gives the object: an architecture already functioning.
-2. The Vedic memory gives the first clue about agency: the wise formed *vāc* with the mind. That does not answer every modern question, but it refuses the weakest answer — that order of this kind arose from ordinary drift.
+2. The Vedic memory gives the first clue about agency: the wise formed *vāc* with the mind. That clue does not settle every modern question, but it rules out the weakest account — that order of this kind arose from ordinary drift.
 3. What can be examined is the architecture that survived: sound, meter, atom, rule, recitation, correction, and lineage.
 4. Entropy is real. Ordinary speech drifts; memory weakens; pronunciation loosens; usage spreads outward into **अपभ्रंश (*apabhraṃśa*)**. A language as precise as Sanskrit could not have been left to habit alone.
 5. The Vedas stand as the primary calibrant: encoded perfection, perfect when seen, perfect when heard, perfect today.

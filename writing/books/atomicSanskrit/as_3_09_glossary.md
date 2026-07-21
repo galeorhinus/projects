@@ -132,6 +132,14 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 **Book-coined English, the two kinds of natural language.** While both terms name change away from an engineered form, the field itself separates them. An **orbital** language remains calibrant-anchored, moving from the standard (*apabhraṃśa*) but staying in orbit as **Sanskritic gravity** pulls it back toward a form it can still be measured against (the Indic languages anchored to or descended from Sanskrit — Marathi, Hindi, Bengali). A **drifting** form operates outside the field, moving without bound since nothing holds a center for it to depart from (English, and the far cognates). **Radiance** constitutes the outward face of the same Sun, ensuring that as Wave 1 and Wave 2 carriers take Sanskritic light beyond the field, receiving languages hold reflections (*Pratibimba*) so that where a ray lands, a tree grows—making the botanical account true there and only there. Both orbital and drifting sit inside the *prakṛti* category, distinct from the *calibrant* (Sanskrit, the standard) and from *codified* languages (drift arrested by external authority). The pair cross-cuts the *calibrand* / *Pratibimba* classification: a far calibrand (Greek, Latin, Persian) drifts, while a Sanskrit-anchored Indic language orbits, though both hold reflections of the calibrant. *Diverging* remains available as technical backup for *orbital*. Introduced in Chapter 6 §6.3 and §6.7; the radiance side developed in Chapter 18; placed in the typology in Chapter 14 §14.5.
 
+### **vivimorphosis**
+
+**Book-coined English.** The transition in which an engineered Sanskrit form crosses the calibrant boundary and acquires organic behavior inside a natural language. The term combines Latin *vivus* (alive) with Greek *morphōsis* (shaping or formation). From Sanskrit's side, **अपभ्रंश (*apabhraṃśa*)** describes the received form's distance from the calibrated molecule; from the receiving language's side, **vivimorphosis** describes what the new language grows from that seed. Sanskrit itself remains engineered and calibrated. Chapters 12 and 18 develop the mechanism from **शब्द (*śabda*)** through **बीज (*bīja*)** to **अपशब्द (*apaśabda*)**.
+
+### **revivification**
+
+**Book-repurposed English.** The return of a petrified language-form to everyday and childhood speech, after which ordinary usage resumes botanical change. It is the reverse arrow from **Petrified Languages** to **Natural Languages** in Chapter 2's origin-and-generativity figure. Linguistic studies of Modern Hebrew commonly call the same transition **revernacularization**. Revivification differs from vivimorphosis because it returns an organic but petrified form to botanical life; vivimorphosis carries an engineered Sanskrit form into a separate natural language. Chapter 13 §13.5 develops Modern Hebrew as the comparative case.
+
 ### **fractal**
 
 **Standard English, book-repurposed.** A pattern whose design law recurs across scale. In this book, *fractal* does not mean strict mathematical infinite self-similarity. It means scale-recurring architecture: the same engineering logic appearing from mouth to language — mouth, sonomer, *akṣara*, *dhātuḥ*, *kriyāpada*, *śabda*, *vākya*, *sūtra*, recitation, and calibration-matrix scale.
@@ -192,7 +200,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **saṃskṛti** (संस्कृति)
 
-**Standard Sanskrit, book-controlled deployment.** Cultivated, refined, formed order; the balanced civilizational fractal oriented toward well-being. In the book's diagnosis, Sanskrit is the linguistic layer of *saṃskṛti*: engineered, disciplined, distributed, calibrated architecture. *Saṃskṛti* keeps balance across scale. The pyramid's botanical metaphor steals this category by making Sanskrit answer to natural drift rather than recognizing it as created order.
+**Standard Sanskrit, book-controlled deployment.** Cultivated, refined, formed order; the balanced civilizational fractal oriented toward well-being. In the book's diagnosis, Sanskrit is the linguistic layer of *saṃskṛti*: engineered, disciplined, distributed, calibrated architecture. *Saṃskṛti* keeps balance across scale. The pyramid's botanical metaphor steals this category by subordinating Sanskrit to natural drift rather than recognizing it as created order.
 
 ### **vikṛti** (विकृति)
 
@@ -362,7 +370,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **category theft**
 
-**Book-coined English.** The tactic that removes Sanskrit from its own category, *saṃskṛti*, and forces it to answer as something else: *prakṛti* before Pāṇini, codification after Pāṇini.
+**Book-coined English.** The tactic that removes Sanskrit from its own category, *saṃskṛti*, and forces it into something else: *prakṛti* before Pāṇini, codification after Pāṇini.
 
 ### **chronology capture**
 

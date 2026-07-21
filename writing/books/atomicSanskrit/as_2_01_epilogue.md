@@ -142,7 +142,7 @@ Islamic imperial formations were defeated. The Christian conversion ambition was
 
 Three shadows the argument cannot lift by itself remain on the field. The institutions keep their own custody — departments, journals, peer review, curricula, and the funding that holds them: chairs, grants, donor-shaped centers, and a state that still pays for its own colonial Indology. They will not dissolve because a case has been made. The public mind lags the proof: textbooks, encyclopedias, search results, and casual speech will keep repeating *"Sanskrit is Indo-European"* long after the architecture is visible. And the deepest shadow is inward — the trained hesitation that makes a civilization ask the pyramid's permission before trusting its own categories. None of the three falls to argument. Custody must be opened, habit retrained, and hesitation replaced by civilizational confidence. The work requires many hands. It is the Atris’ work, not one author’s.
 
-Education is one of those remaining shadows. The answer is not to build a counter-pyramid with a new authorized syllabus from the top. The answer is distributed re-learning: many teachers, families, lineages, schools, publishers, and readers restoring the calibrant until the old category theft no longer reproduces itself automatically.
+Education is one of those remaining shadows. A counter-pyramid with a new authorized syllabus from the top would reproduce the same structure. Distributed re-learning takes another path: many teachers, families, lineages, schools, publishers, and readers restore the calibrant until the old category theft no longer reproduces itself automatically.
 
 ## The Mantra
 

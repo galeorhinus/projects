@@ -15,7 +15,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - What Was Eclipsed — *The claim in brief: the language bears the word* saṃskṛtam; *the* paramparā *received and documented it; the architecture is on the page and in the mouth, treated as anything but obvious only because the field around it was darkened.*
 - The Boy's Question — *The author's childhood encounter with* sandhi *while reciting* Bhagavad Gītā *1.2 — calibration in the mouth — that set the engineering thesis in motion.*
 - The Pyramid's Clock — *Chronology capture: once the pyramid owns the clock it can call one layer early, another late, turning domain into period and mode into stage. Category before calendar.*
-- Lineage and Method — *The* paramparā *held the central position; Patañjali's* siddhe śabdārthasambandhe; *the decoding lineage; the architectural route from* varṇa *to language;* apauruṣeya *as the lineage-chain's own answer on origin.*
+- Lineage and Method — *The* paramparā *held the central position; Patañjali's* siddhe śabdārthasambandhe; *the decoding lineage; the architectural route from* varṇa *to language;* apauruṣeya *as the lineage-chain's own account of origin.*
 - What Follows — *The roadmap, eclipse-framed: how the shadow is cast, the Sun's own account, its sound-body and atoms, its anti-entropy, and the dispelling of Rāhu — until the Sun stands whole. Diagnosis ends; the Śaṅkha sounds next.*
 
 ---
@@ -86,7 +86,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 
 *Sanskrit's own grammar speaks for itself: the bond is established (*siddha*), not produced; entropy is named (*apabhraṃśa*) and resisted by design.*
 
-**Chapter 5 — *Siddha* and *Kārya*** — *Patañjali's foundational debate about the bond between word and meaning. Is the bond produced (*kārya*) or established (*siddha*)? Patañjali's answer — that the bond is* siddha *— is the metaphysical ground on which the engineering thesis stands: Sanskrit began from correctness, not toward it.*
+**Chapter 5 — *Siddha* and *Kārya*** — *Patañjali's foundational debate about the bond between word and meaning. Is the bond produced (*kārya*) or established (*siddha*)? Patañjali's conclusion — that the bond is* siddha *— is the metaphysical ground on which the engineering thesis stands: Sanskrit began from correctness, not toward it.*
 
 - 5.1 The Grammar Before the Grammar — *Patañjali's* Mahābhāṣya *and its position in the* vyākaraṇa *discipline.*
 - 5.2 The Opening Axiom — *Kātyāyana's compressed maxim that opens the debate.*
@@ -183,10 +183,10 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 **Chapter 14 — The Calibration Matrix** *(drafted)* — *The architecture chapter. Lays out the six engineered preservation layers (Vedas, Prātiśākhya, Vyākaraṇam, Dhātupāṭha, Varṇamālā, Chandas), each correcting the others, and the four preservation modes (Scripture, Mnemoniture, Flexture, Auditure). Meter functions as a cryptographic hash; control cases (Hebrew Masoretic, Quranic Arabic, ecclesiastical Latin) sharpen authority-vs-calibration. The Vedic Matrix vs Early-Literature contrast lands here: the Vedas are encoded perfection, not a corpus to be dated.*
 
 - 14.1 The Four Preservation Modes — *Three axioms + the four-coinage taxonomy with etymology, medium, sense-and-skill, content category, and Indic counterpart.*
-- 14.2 Auditure and Speech-Hearing Engineering — *Why the speech-hearing pair is the deepest mode; the audience-as-redundancy-check; the Indic answer to* who guards the guards?
+- 14.2 Auditure and Speech-Hearing Engineering — *Why the speech-hearing pair is the deepest mode; the audience-as-redundancy-check; the Indic mechanism for guarding the guards.*
 - 14.3 The Six Preservation Layers — *The calibration matrix proper: six layers at six timescales; the* Śikṣā *pedagogy across all six;* Chandas *as cryptographic hash.*
 - 14.4 Chandas Counts What Poetry Can Hold — *Metrical combinatorics:* laghu/guru mātrā *budgets force the poet to count arrangements, producing the sequence later called Fibonacci.*
-- 14.5 The Whole Language Carries the Sūtra-Discipline — *The system-scale answer to Ch 10's fractal question: the same six* sūtra-lakṣaṇam *characteristics at language scale; the Vedic/Classical mode defense.*
+- 14.5 The Whole Language Carries the Sūtra-Discipline — *The same six* sūtra-lakṣaṇam *characteristics operating at language scale; the Vedic/Classical mode defense.*
 - 14.6 Control Cases: Codification by Authority — *Masoretic, Quranic, ecclesiastical-Latin, and modern-standard control cases; codification guards bounded objects by authority, calibration places the standard inside a living architecture.*
 - 14.7 The Engineering Precedes Pāṇini — *Loop-close to heroic erasure at the matrix level: the matrix predates Pāṇini; he operates it; the founder-celebration erases it.*
 
@@ -203,7 +203,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 ## Part VI — Dispelling Rāhu
 *Not descended, not sibling.*
 
-*The eclipse-device itself — Rāhu, the imaginary ancestor placed over the Sun — comes into view, and the plates that make Sanskrit answer to it are lifted: the subcontinental mouth-and-mind evidence, the wrong question, and the dispelling of PIE.*
+*The eclipse-device itself — Rāhu, the imaginary ancestor placed over the Sun — comes into view, and the plates that subordinate Sanskrit to it are lifted: the subcontinental mouth-and-mind evidence, the wrong question, and the dispelling of PIE.*
 
 **Chapter 16 — The Subcontinental Mouth and Mind** — *Establishes that Sanskrit holds the subcontinent's mouth and mind before the portability thesis is tested: retroflex articulation, reduplication, receiver grammar, doer-demotion, and folded action. The chapter then makes the migration account walk its own claimed northwest route.*
 
@@ -214,7 +214,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 16.5 The Mind Sequences: The Folded Action — *Prior action compressed into forms such as pītvā and hatvā.*
 - 16.6 One Field, Encoded — *The five features gathered as one subcontinental field.*
 - 16.7 The Notices — *The pyramid's changing Aryan notices mocked by their retained custody tag.*
-- 16.8 The Borrowing Model Cannot Hold — *The claimed route is made to answer for the cluster Sanskrit holds structurally.*
+- 16.8 The Borrowing Model Cannot Hold — *The claimed route must explain the cluster Sanskrit holds structurally.*
 - 16.9 The Corpus Cannot Be Rewritten — *The Vedic corpus already preserves the field; style and mode are not chronology.*
 - 16.10 Engineering, Not Contact — *Contact can move forms; engineering assigns place, role, and scale.*
 - 16.11 What the Grammar Keeps — *The grammar preserves a stance that refuses to crown the ego.*
@@ -263,7 +263,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 **Epilogue — Make the World Ārya** *(drafted)* — *The recovery close. The eclipse is over: Svarbhānu's darkness did not win; the Atris found the Sun. The shadow is cleared plate by plate and Rāhu is dispelled; the dharmic frame (karma,* prāyaścitta*) replaces revenge. Names the three residual shadows that remain — institutional custody, public-knowledge lag, and civilizational self-doubt — as the work of the other Atris, then lands the Rigvedic* kṛṇvanto viśvam āryam | apaghnanto arāvṇaḥ *and the Vāk blessing. The reader now receives the cry.*
 
 - The Eclipse Is Over — *The wound-line from the Preface returns with the other half supplied: the Atris found the Sun.*
-- What Recognition Makes Possible — *What becomes visible once Sanskrit is no longer forced to answer as a daughter of PIE.*
+- What Recognition Makes Possible — *What becomes visible once Sanskrit is no longer forced into the role of PIE's daughter.*
 - The Contest of Architectures — *Sanātan *vs. the fourth Abrahamic religion; the standard that explains why* āryatva *is desirable.*
 - What the Architecture Shows — *The architecture re-presented as the body of evidence the recovery rests on.*
 - The Chronology Refusal — *Category before calendar, echoed at the close without turning chronology into deferred combat.*

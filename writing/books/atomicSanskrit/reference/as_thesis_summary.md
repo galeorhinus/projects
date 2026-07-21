@@ -89,7 +89,7 @@ The Eight Core Theses describe the movement of the argument. The Eclipse Ledger 
 
 21. **Brāhmī is the source, Aramaic the reflection.** The engineering is Indic — the 5×5 place-and-manner matrix, the vowel and breath architecture — and it radiated outward. The pyramid runs the arrow backwards; the book demonstrates which way it points. **Appendix Part 3.**
 
-22. **Writing is not preservation by itself.** Stone can last but does not scale; paper scales but decays; archives can be seized; offices can gate access. Sanskrit's answer is calibration through active auditure, with writing assigned a bounded role. **Chapter 13; Chapter 14.**
+22. **Writing is not preservation by itself.** Stone can last but does not scale; paper scales but decays; archives can be seized; offices can gate access. Sanskrit preserves through calibration and active auditure, with writing assigned a bounded role. **Chapter 13; Chapter 14.**
 
 ### Calibrant — lifts the Sibling-Language plate
 

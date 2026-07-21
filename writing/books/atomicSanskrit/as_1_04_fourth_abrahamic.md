@@ -121,7 +121,7 @@ The Wilson and Griffith translations of Rigveda 9.63.5 show the priestly functio
 
 The priestly rite now has a modern name: peer review.
 
-Peer review answers an old Roman question: ***Who guards the guards?*** — *quis custodiet ipsos custodes?* — asked in Rome two thousand years before any modern peer-review machinery existed.[NOTE: juvenal-quis-custodiet] The church's procedural answer is that the guards guard each other.
+Peer review places credentialed guards over other credentialed guards, reviving an old Roman question: ***Who guards the guards?*** — *quis custodiet ipsos custodes?* — asked in Rome two thousand years before any modern peer-review machinery existed.[NOTE: juvenal-quis-custodiet] Inside the church's procedure, the guards guard each other.
 
 The official defense of peer review is quality control. The reality is more ambiguous. Quality control examines arguments. Priestly control examines authorization. Quality control asks whether evidence is sound. Priestly control asks whether the speaker belongs. Quality control can be defeated by better evidence. Priestly control hides behind reputation, journal hierarchy, citation networks, and institutional pedigree.
 
@@ -131,7 +131,7 @@ In the *Vana Parva* of the *Mahābhārata*, Bandin holds King Janaka's court aga
 
 Because Aṣṭāvakra defeats the gate before he defeats Bandin, he fundamentally exposes the fraud: a council that judges by age, appearance, and external standing before ever hearing the argument is not a council of the learned, but a council of fools. Therefore, the lineage's verdict is clear: the hero is Aṣṭāvakra, and the villain is Bandin.[NOTE: ashtavakra-bandin-mahabharata]
 
-The debate was not peer review. It was **शास्त्रार्थ (*śāstrārtha*)**: knowledge tested in public. The audience was not a hidden committee of credentialed insiders. The audience was the court itself — learners, citizens, visitors, retinue, witnesses. The verdict was rendered by demonstration, not by anonymous gatekeeping. The structural difference remains: *śāstrārtha* democratizes knowledge because the audience is structurally present. Peer review concentrates verdict in a sub-class invisible to the audience and unanswerable to it.
+The debate was not peer review. It was **शास्त्रार्थ (*śāstrārtha*)**: knowledge tested in public. The audience was not a hidden committee of credentialed insiders. The audience was the court itself — learners, citizens, visitors, retinue, witnesses. The verdict was rendered by demonstration, not by anonymous gatekeeping. The structural difference remains: *śāstrārtha* democratizes knowledge because the audience is structurally present. Peer review concentrates verdict in a sub-class invisible to the audience and unaccountable to it.
 
 The contemporary Bandin sits on an editorial board, grant panel, appointments committee, or review desk. Although his language has changed, his underlying structure has not. By declaring that an argument falls outside scholarly consensus or fails to meet disciplinary standards, the debate is pre-emptively decided by controlling who may even enter it.
 
@@ -139,7 +139,7 @@ Bandin's gate has pre-empted the engineered Sanskrit thesis with a strict circul
 
 The verdict remains the same. The hero is the challenger denied standing. The villain is the gatekeeper who treats authorization as truth.
 
-*Sanātan* has the answer. It has preserved the answer for thousands of years. The mechanism does not know it has already been answered.
+*Sanātan* preserved a different mechanism for thousands of years: let the challenger enter, hear the argument in public, and judge by demonstration. The modern gate keeps repeating a problem the civilization had already resolved.
 
 ## 4.6 The Asuric Pyramid
 

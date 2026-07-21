@@ -234,23 +234,21 @@ The **लौकिक (*laukika*)** domain uses this generative engine to meet a
 
 ## 12.9 Boundary Crossing: अपभ्रंश (*Apabhraṃśa*) = Vivimorphosis
 
-As long as a generated form remains inside Sanskrit, the calibrant architecture continues to govern it. Sonomers become atoms, atoms become molecules, molecules become *padāni*, and *padāni* become *vākyāni* while every level remains recoverable.
+### Crossing the Calibrant Boundary
 
-The next step follows the engineered molecule into a contact language, where Sanskrit's calibration no longer governs its form.
+Inside Sanskrit, the same architecture that produces a form continues to govern it. Sonomers become atoms, atoms become molecules, molecules become *padāni*, and *padāni* become *vākyāni*. Grammar, recitation, *padapāṭha*, *Prātiśākhya*, *Śikṣā*, and the calibration matrix developed in Chapter 14 allow speakers and caretakers to hear a departure, locate it, and correct it, so the molecule remains specified even while usage expands.
 
-The *śabda* is an engineered molecule. Its bonds are held by grammar, recitation, *padapāṭha*, *Prātiśākhya*, *Śikṣā*, and the calibration matrix developed in Chapter 14. Inside that architecture, speaker-slip can be detected and corrected. The molecule remains specified.
+When a Sanskrit *śabda* enters another language, its new speakers bring it into a different sound inventory, grammar, set of habits, and field of social pressures. They reshape the incoming form so that it can function inside that linguistic ecology. Sanskrit's calibration continues to hold the original *śabda*, while the received form begins a separate organic life.
 
-A contact language holds a different architecture: its own sound system, habits, grammar, and pressures. When a Sanskrit *śabda* enters that medium, Sanskrit's internal correction no longer governs the form. The engineered molecule begins to behave organically inside another linguistic ecology.
+A Sanskrit form may reach another language through speech, teaching, recitation, travel, inscription, or text. Whatever route it takes, a receiving mind must first hold the form as **बीज (*bīja*)**, a seed: something received but not yet expressed as part of the listener's own language. When that listener or a later generation gives the seed a form that fits the receiving language's sounds and grammar, the *bīja* becomes an **अपशब्द (*apaśabda*)**, an organic form that can change and produce further forms within its new home.
 
-The same process receives a different name from each side of the boundary.
+The botanical metaphor therefore belongs to the *apaśabda*. The Sanskrit *dhātuḥ* remains an engineered constituent, and the Sanskrit *śabda* remains an engineered molecule; botanical growth begins after the molecule crosses the calibrant boundary and enters another language's life.
 
-From the Sanskrit side, the process is **अपभ्रंश (*apabhraṃśa*)**: falling away from the engineered form. From the contact-language side, the same process is **vivimorphosis**: the engineered molecule acquiring organic behavior.[NOTE: apabhramsa-vivimorphosis-boundary]
+### One Movement Seen from Two Sides
 
-The transformation begins when a Sanskrit speaker utters the engineered *śabda* and a non-Sanskrit listener receives it. The listener's cognition holds the form as a **बीज (*bīja*)**, a seed that remains latent until a later speaker places it inside the receiving language's own sound and grammar. At that point, the *bīja* sprouts into an organic form.
+The two sides of this movement require two terms. From Sanskrit's side, **अपभ्रंश (*apabhraṃśa*)** describes the falling away from the calibrated form. From the receiving language's side, **vivimorphosis** describes the same molecule acquiring organic behavior.[NOTE: apabhramsa-vivimorphosis-boundary]
 
-The botanical metaphor finally has its proper target: the *apaśabda*.
-
-What the philological dogma treats as ancestral bases across its reconstructed daughter-language families are better understood here as expressed *bījas*: forms that crossed the calibrant boundary and then took life in contact languages.
+Using both terms keeps both consequences visible. Sanskrit can still measure the received form against the *śabda* from which it fell, while the receiving language gains a seed that it can pronounce, inflect, combine, and extend according to its own architecture. As the receiving language reshapes the molecule, its engineered bonds loosen and the seed becomes available for new growth.
 
 ![Figure 12.9 — Boundary crossing: *dhātuḥ* → *śabda* → *bīja* → *apaśabda*.](figures/building_vakya/vivimorphosis.svg){#fig:building-vakya-vivimorphosis width=100%}
 
@@ -261,23 +259,26 @@ What the philological dogma treats as ancestral bases across its reconstructed d
 | **State** | Constituent, irreducible | Engineered, crystalline, anti-entropic | Latent, dormant, not-yet-expressed | Productive, growing, drift-prone |
 | **Role** | Building block of the *śabda* | Sanskrit speaker utters it | Listener internalizes it | Speaker (often generations later) expresses it in their own language |
 
-**Process across all four stages:** *apabhraṃśa* / vivimorphosis. **Movement:** *atom → molecule → seed → sprout — organic behavior begins outside the calibrant boundary.*
+The sequence is therefore **atom → molecule → seed → organic form**. Patañjali uses **अपशब्द (*apaśabda*)** in the *Mahābhāṣya* (1.1.1) for the slipped form opposed to *śabda*. The distinction is architectural: Sanskrit continues to preserve and generate the specified *śabda*, while the receiving language develops the *apaśabda* under its own pressures.
 
-**Worked example (Ch17 §17.2 develops it):** दिव् (*div*, dhātuḥ) → देवः (*devaḥ*, śabda) → *bīja* in proto-Italic listener → Latin *deus* (apaśabda).
+Chapter 18 §18.7 develops the worked cases: **⟪दिव्⟫ (*div*) → देवः (*devaḥ*) → Latin *deus***; **असुरः (*asuraḥ*) → Avestan *ahura***; and **सिन्धुः (*Sindhuḥ*) → Old Persian *Hinduš* → Greek *Indós* → Latin *Indus***. Each sequence begins with a form whose Sanskrit construction remains recoverable and continues with forms that acquire their own histories inside other languages.
 
-**Inverse:** authority can petrify an organic form into a fixed one; vivimorphosis carries an engineered form into organic life through the seed.
+### The Four Classifications in Operation
 
-The form that sprouts from the *bīja* — the expressed organic form — is what Patañjali calls **अपशब्द (*apaśabda*)** in the *Mahābhāṣya* (1.1.1): the slipped form, the named opposite of *śabda*. The *śabda* and *apaśabda* differ fundamentally in kind. The *śabda* is an engineered molecule held by specification within the calibrant architecture. The *apaśabda* is an organic form expressed from a *bīja*, taking nourishment from its new linguistic soil. While the engineered molecule resists drift, the organic form develops descendants, mutations, branches, and a line of evolution within the receiving language.
+Each of Chapter 2's four classifications responds differently when speakers need to express something new. Chapter 6 examined the entropic pressure created by those responses. The table below identifies who extends each kind of language, where the measure comes from, and what changes.
 
-The category-theft charge has already reclaimed *dhātuḥ* from the botanical substitute. The philological dogma has long labeled Sanskrit's *dhātavaḥ* with a plant-word — a category-theft that Chapter 2 dismantles, because *dhātavaḥ* are engineered constituents in an atomic architecture rather than organic origins. The botanical metaphor is a valid linguistic concept aimed at the wrong target. The true organic form is the *apaśabda*: a form that grows, branches, mutates, and dies in the soil of a natural language. Organic forms are what *apaśabdas* are, while *dhātavaḥ* remain constituents.
+| Classification | When a new circumstance appears | Where extension or correction comes from | Result |
+|---|---|---|---|
+| **Natural Language** | Speakers alter vocabulary, pronunciation, grammar, or usage through communal life. | The speaking community generates and selects the forms that survive. | The language remains adaptable by changing botanically. |
+| **Petrified Language** | The preserved form cannot absorb the new circumstance through ordinary speech. | An academy, priesthood, court, school, state, or other custodian must authorize an extension. | The bounded form remains fixed while living speech changes around it. |
+| **Conlang / Constructed Project** | A need exceeds the original plan or finite starting inventory. | A creator, founding document, later authority, or speaking community supplies additional material. | External additions extend the project, or communal change draws it into botanical behavior. |
+| **Sanskrit** | Speakers derive and compose expressions for the new circumstance through the standing architecture. | The *dhātavaḥ*, *upasargāḥ*, *pratyayāḥ*, compounds, grammar, and distributed calibration provide the extension and its measure. | *Laukika* usage expands while the language holds. |
 
-The transformation from *śabda* to *apaśabda* has two names. ***Apabhraṃśa*** is Sanskrit's name — the falling-away, the slip from the engineered form, the term Patañjali deploys for what the *vaiyākaraṇaḥ* must defend against. **Vivimorphosis** is the English coining for the same event viewed from the inverse angle: the engineered molecule acquiring organic behavior. *Apabhraṃśa* foregrounds the structural loss, while *vivimorphosis* foregrounds the organic gain. They trace the same arrow from opposite ends of the calibrant boundary.
+These rows classify linguistic states. A form can move from one classification to another through several distinct processes. An authority causes **petrification** when it removes an organic form from ordinary communal change and holds that form fixed. Speakers cause **revivification** when they return a petrified form to everyday acquisition and speech, after which ordinary usage resumes botanical change. Modern Hebrew provides the clearest comparative case, developed in Chapter 13 §13.5.
 
-During petrification, minerals turn a living tree into stone, preserving its outer form across geological time while stripping away its life. **Vivimorphosis follows the inverse direction.** The calibrant architecture rigorously preserves the engineered *śabda*; when that *śabda* crosses into a contact language, it acquires organic behavior and can develop descendants, change within the receiving language, and eventually disappear from its usage.
+A constructed project can reach botanical behavior by another route when its speakers enlarge and change the language through communal use, as Esperanto did. **Vivimorphosis** differs from all of these because Sanskrit itself does not move into another quadrant. A particular Sanskrit *śabda* crosses into a natural language, becomes a *bīja*, and takes organic form there while the calibrated Sanskrit molecule remains available in Sanskrit.
 
-The cost of organic behavior is mortality. The cost of engineered permanence is the absence of ordinary drift. Inside Sanskrit, the form remains engineered. In contact languages, what Sanskrit engineered can become productive in a new ecology.
-
-Chapter 18 §18.7 develops the worked examples: *devaḥ* becoming Latin *deus*; *asuraḥ* becoming Avestan *ahura*; *Sindhuḥ* (Chapter 9 §9.5) becoming Old Persian *Hinduš* and then Greek *Indós* and Latin *Indus*. Each is one *śabda* that crossed the calibrant boundary and vivimorphosed into an organic form with its own productive behavior in a contact language. The organic form retains the molecule's atomic signature without preserving its engineered bonds. The form becomes organically productive, but the engineering is gone.
+Vivimorphosis also explains how Sanskrit's radiance enriches other languages. Speakers can absorb a Sanskrit atom, molecule, compound, technical term, or conceptual category, then use that seed to produce forms that fit their own mouth and grammar. Greek and Latin provide the extended cases in Chapter 18, and Chapter 19 follows the later waves that carried Sanskrit's radiance into other linguistic worlds. The receiving languages remain themselves, yet the seed expands what their speakers can say.
 
 **The pressures of language explain the similarities. They cannot explain the architecture.**
 
@@ -289,10 +290,10 @@ The *dhātuḥ* now stands as an atomic construction, and the atom that entered 
 
 The governing principle is assembly without loss. The sentence is larger than the atom, yet the atom stays recoverable inside it — and so does every layer between: the sonomers because Sanskrit's operations still work at the sonomeric level, the head-bond and tail-bond because they leave grammatical and semantic signatures, the role-ending because *vibhaktiḥ* and *tiṅ-pratyayaḥ* hold relation, number, person, and role.
 
-That recoverability is what lets the sentence be interpreted, recited, corrected, and calibrated. Sanskrit generates larger forms while keeping the path back to their construction visible. The *vākya* is therefore not a loose string of words. It is an assembly whose lower layers remain available.
+That recoverability allows speakers to interpret, recite, correct, and calibrate the sentence. Sanskrit generates larger forms while keeping the path back to their construction visible. The *vākya* is therefore not a loose string of words. It is an assembly whose lower layers remain available.
 
-Across the boundary, the same architecture runs the other way. Inside Sanskrit, the calibrant architecture holds the molecule in specification; once the *śabda* crosses into a contact language, the process shows two faces — *apabhraṃśa* from the Sanskrit side, vivimorphosis from the receiving side — and the engineered molecule becomes a seed, then an organic sprout, where organic behavior begins and brings drift, mutation, and mortality.
+At the boundary, the same recoverability allows Sanskrit to remain the measure even after a received form begins an organic life elsewhere. *Apabhraṃśa* describes the distance from the calibrated molecule, while vivimorphosis describes what the receiving language can grow from its seed.
 
 The scale-chain has therefore reached the operating language — sonomers have become atoms, atoms molecules, molecules role-bearing *padāni*, *padāni* *vākyāni* — and the lower levels stay visible enough for the whole structure to be preserved.
 
-Chapter 13 asks how such an operating language can survive across time. Chapter 14 introduces the answer: the calibration matrix.
+Chapter 13 asks how such an operating language can survive across time. Chapter 14 shows how the calibration matrix preserves it.

@@ -142,6 +142,8 @@ The editorial goal is complete, readable explanation. Remove genuine repetition 
 
 - **Strip amplifiers and reassurers.** *Indeed, in fact, of course, naturally, clearly, importantly, crucially, notably, certainly, obviously, undoubtedly, very, quite, simply, just.* These signal hedging or filler regardless of intent. Cut on sight. If the claim is true, it doesn't need *clearly*; if it needs *clearly*, the sentence isn't doing its work.
 
+- **Reserve *answer* for actual replies.** Do not make a domain *answer entropy*, a matrix *answer chronology*, or a chapter *introduce the answer*. State the concrete operation: the domain preserves, the matrix exposes, the chapter demonstrates, the evidence rebuts. Do not perform a thesaurus swap to *response* or *solution*. Keep *answer* for a literal reply to an explicit question, a received doctrinal conclusion, or an established refrain such as *"The answer is always zero"* and *"we do not know."* Replace the idiom *answer to an authority* with the exact relation: *submit to, conform to,* or *be subordinated to*.
+
 - **List items state complete relationships.** Remove filler, but retain the actor, action, and consequence each item needs. A list should not become a row of labels or compressed verdicts merely because bullets already provide visual structure.
 
 - **No meta-narration about the prose itself.** Cut *"This section will examine…", "As Chapter N will develop…", "We will see that…", "The following paragraph argues…", "What follows is…"* Forward-pointer cross-references at the right moment carry the load (*"Chapter 14 lays out the matrix in full."* at the end of the relevant paragraph), not as preamble.
@@ -157,6 +159,7 @@ The editorial goal is complete, readable explanation. Remove genuine repetition 
   6. Does any explanatory passage use three or more short declarations where one varied sentence would carry the mechanism more clearly? Rebuild the causal chain.
   7. Does any section close on a summary or a taper? Find the last load-bearing sentence and end there instead.
   8. Are bold Devanagari/Roman/gloss triples followed by re-explanation paragraphs? Cut the re-explanation.
+  9. Does an abstraction *answer* a problem, objection, chronology, or question? Replace the generic relation with the operation the sentence actually describes; preserve literal replies and established refrains.
 
 Editors may remove genuine repetition, filler, and empty signposting after confirming that the passage still identifies its actors, mechanism, sequence, and consequence. This rule pairs with the §4 sentence-rhythm patterns and the Voice Prime Directive in CLAUDE.md. Named-agent active voice still governs, while every explanation must show enough mechanism for the reader to follow without reconstructing an outline.
 

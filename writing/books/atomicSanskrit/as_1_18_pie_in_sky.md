@@ -123,7 +123,7 @@ All that acrobatics to hide the real origin of these words: the Sanskrit atom **
 
 **⟪कृत्⟫ (*kṛt*)** sits in the Dhātupāṭha's *tudādi* list with its meaning declared: **छेदने (*chedane*)** — *in cutting*.[NOTE: krt-dhatupatha-chedane] Three sounds: *k*, *ṛ*, *t*. The present is *kṛntati* — *she cuts*. The *t* the reconstruction must bolt on as an "extension" is the atom's own final sound; the vowel the reconstruction must delete by "zero grade" was never there to delete — the form the pyramid writes as \*(s)kr̥t- and derives by two operations is कृत्, on its surface, as the citation form.
 
-Abandon the obsession with an imaginary language spoken by imaginary people, and Sanskrit offers an answer that requires more logic and less imagination.
+Abandon the obsession with an imaginary language spoken by imaginary people, and Sanskrit supplies an account that requires more logic and less imagination.
 
 Sanskrit provides a source for the *s* and states it as rule for a similar atom. The *suṭ*-āgama inserts an *s* before **⟪कृ⟫**, *to make*, and before ⟪कृ⟫ alone: *saṃparibhyāṃ karotau bhūṣaṇe* — after *sam-* and *pari-*, on *karoti*, in the sense of refinement. *Sam + kṛ* → **संस्कृतम् (*saṃ-s-kṛ-ta*)**, the assembled, the perfected; *pari + kṛ* → **परिष्कृतम् (*pariṣ-kṛta*)**, the polished.[NOTE: sut-agama-visarga-s] ⟪कृत्⟫, *to cut*, takes the *s* under no upasarga.[NOTE: krt-upasarga-corpus] Its similarity to ⟪कृ⟫, however, explains what a listener unfamiliar with Sanskrit's rules would do: extend the *suṭ* to ⟪कृत्⟫ as well.
 

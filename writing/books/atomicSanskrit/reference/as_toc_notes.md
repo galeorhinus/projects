@@ -317,7 +317,7 @@ This chapter presents the foundational synthesis: how sonomers (वर्णा�
 
 *[Structure revised 2026-05-27: Vedic-procedure-first orientation per §0.11. Chapter now leads with Rigvedic kriyā-forms before Pāṇinian terminology enters; the* gaṇa / vikaraṇa *notation-layer follows as Pāṇini's documentation of an operation already visible in the Vedic corpus. The periodic-table figure remains later as the procedure's statistical shadow rather than as an independent periodicity claim. The 5-section periodic-table-first draft is archived at `archive/as_1_11_building_kriya_pre_procedural.md` for historical reference.]*
 
-This chapter answers the question Ch 10 closed with: *if Sanskrit is atomic, how does the atom react?* The reaction is the *kriyā* (क्रिया): the verbal action-form. The chapter first shows the implicit Vedic operation, then introduces Pāṇini's notation for that operation, then audits the distribution.
+This chapter takes up the question Ch 10 closed with: *if Sanskrit is atomic, how does the atom react?* The reaction is the *kriyā* (क्रिया): the verbal action-form. The chapter first shows the implicit Vedic operation, then introduces Pāṇini's notation for that operation, then audits the distribution.
 
 ### Section plan — ten sections, procedure first, audit second
 
@@ -368,7 +368,7 @@ This chapter completes the atomic architecture by presenting the bonding chemist
   * Because *padāni* are self-contained, syntactic word order in Sanskrit is fluid.
   * Meaning is carried by saturation, not by sequence.
   * This fluidity is what makes the metrical preservation system of the Vedas possible — a point developed in Chapter 13.
-* Argue that this pipeline is the architectural answer to the question Sanskrit demands: *how is meaning generated?*
+* Argue that this pipeline is Sanskrit's architecture for generating meaning.
 
 ---
 
@@ -423,7 +423,7 @@ This chapter presents the most concrete empirical evidence in the book: the Vedi
 # Part VI — Killing PIE
 *Cross-examination and verdict.*
 
-This Part returns to the prosecutorial frame established in Part I, but now with the affirmative architecture in hand. The three chapters here (16, 17, 18) argue that PIE is not merely incomplete but structurally incapable of explaining Sanskrit, that the elevation of PIE into a necessary ancestor is ideological rather than evidentiary, and that what the data actually suggests is the reverse of the standard reconstruction: a Sanskritic system whose contact with the natural languages of Central and West Asia may be the source of what nineteenth-century philologists later reconstructed as PIE. The Part closes the prosecution at end of Ch 18 (three-beat close: *The accused is now convicted. The asuric pyramid is the perpetrator. The prosecution rests.*). Part VII picks up the affirmative answer (Ch 19); the Epilogue turns to construction.
+This Part returns to the prosecutorial frame established in Part I, but now with the affirmative architecture in hand. The three chapters here (16, 17, 18) argue that PIE is not merely incomplete but structurally incapable of explaining Sanskrit, that the elevation of PIE into a necessary ancestor is ideological rather than evidentiary, and that what the data actually suggests is the reverse of the standard reconstruction: a Sanskritic system whose contact with the natural languages of Central and West Asia may be the source of what nineteenth-century philologists later reconstructed as PIE. The Part closes the prosecution at end of Ch 18 (three-beat close: *The accused is now convicted. The asuric pyramid is the perpetrator. The prosecution rests.*). Part VII develops the affirmative account (Ch 19); the Epilogue turns to construction.
 
 ---
 
@@ -440,7 +440,7 @@ The chapter then turns the pyramid's own portability claim into a test. If Sansk
   * Use Vedic examples first — *agnimīḷe*, *dive-dive*, *tvasmai*, *pītvā*, *hatvā*.
   * Then show the later documented categories: *mūrdhanya*, *āmreḍita / abhyāsa*, *sampradāna*, *karmaṇi / bhāve*, *ktvā / lyap*.
 * Test the portability thesis:
-  * The claimed route must answer for the full cluster, not one borrowed sound.
+  * The claimed route must explain the full cluster, not one borrowed sound.
   * The Vedic corpus cannot be treated as a silently rewritten workshop after every contact event.
   * Mode and branch explain variation better than chronology.
 * Close by handing the argument to Chapter 17:
@@ -482,17 +482,17 @@ This chapter argues that PIE asks the wrong question of Sanskrit. The genealogic
 # Part VII — Life After PIE
 *The remedy.*
 
-*The affirmative answer. With PIE killed (Part VI), what comes next: the four-wave model of Sanskrit's calibrant operation across the world. Single chapter (Ch 19). Hand-off to the Epilogue's reader-facing close.*
+*The affirmative account. With PIE killed (Part VI), what comes next: the four-wave model of Sanskrit's calibrant operation across the world. Single chapter (Ch 19). Hand-off to the Epilogue's reader-facing close.*
 
 ---
 
 ## Chapter 19 — Life After PIE
 
-*The affirmative answer to "what does the data point at once PIE is removed?" Picks up *calibrant* and *Pratibimba* from Chapter 18 as established vocabulary. Four sections: §19.1 *Wave 1 — Pre-Pāṇinian Propagation* (structural features into natural languages of Central and West Asia, Saptaṛṣi roster, Mitanni anchor); §19.2 *Wave 2 — Methodological Metatypy* (post-Pāṇinian propagation of formal-grammar methodology — Greek / Latin / Tibetan / Arabic / Hebrew, with Chinese as the contrast case); §19.3 *The Diasporic Wave* (Romani + four arcs of modern global Indian diaspora; carries the source itself, not the *Pratibimba*; *fourth Abrahamic religion* deployment naming the secular-Indian-establishment headwind); §19.4 *Wave 3 — Forward-Pointer* (contemporary phase, conditional on the diaspora's re-learning, points forward to the Epilogue's mantra-landing). Provocations #8, #12, #13.*
+*The affirmative account of what the data shows once PIE is removed. Picks up *calibrant* and *Pratibimba* from Chapter 18 as established vocabulary. Four sections: §19.1 *Wave 1 — Pre-Pāṇinian Propagation* (structural features into natural languages of Central and West Asia, Saptaṛṣi roster, Mitanni anchor); §19.2 *Wave 2 — Methodological Metatypy* (post-Pāṇinian propagation of formal-grammar methodology — Greek / Latin / Tibetan / Arabic / Hebrew, with Chinese as the contrast case); §19.3 *The Diasporic Wave* (Romani + four arcs of modern global Indian diaspora; carries the source itself, not the *Pratibimba*; *fourth Abrahamic religion* deployment naming the secular-Indian-establishment headwind); §19.4 *Wave 3 — Forward-Pointer* (contemporary phase, conditional on the diaspora's re-learning, points forward to the Epilogue's mantra-landing). Provocations #8, #12, #13.*
 
 The final prosecutorial synthesis, and the immediate question that follows. The chapter consolidates the case made across the book: that PIE imposes botanical ancestry onto an atomic system, ignores the Indian sound-field, ignores Patañjali's *siddha* framework, ignores the retroflex centrality, forces *dhātuḥ* into a plant-category, and ultimately fails to explain the physical realities from which Sanskrit arises. It also closes the loop opened in Chapter 2: PIE persists today not because the racial and theological pillars still stand, but because the third pillar — the dogma of progress — demands that ancient Sanskrit must descend from something simpler. Once this prosecutorial close is delivered, the immediate question follows: if PIE does not explain Sanskrit, what does the data actually suggest?
 
-The chapter answers in waves. **Wave 1**: pre-Pāṇinian propagation of structural features into the natural languages of Central and West Asia, the aggregate of which was later projected backward by nineteenth-century European philologists as PIE. The transmission unit is the expert, not the population — a single Sanskrit-trained *ārya* expert in *vyākaraṇam*, functioning as a guru, influencing the linguists of another culture is sufficient. The Saptaṛṣi lineage supplies the named roster of pre-Pāṇinian Vedic experts whose lineages extend geographically: Agastya as the canonical inner figure (composer with Lopāmudrā of Rigvedic hymns 1.165–1.191; traveler south; credited with the *Agattiyam*, the first Tamil grammar); Kaśyapa to Kashmir and the northwestern frontier; Bharadvāja the explicitly-grammarian ṛṣi whom Pāṇini will later cite by name in the *Aṣṭādhyāyī*. The Mitanni evidence — the Hittite-Mitanni treaty invoking *Mitra*, *Varuṇa*, *Indra*, and *Nāsatya* as treaty-witness deities; Kikkuli's horse-training Sanskritic numerical terms; the Sanskritic throne names of Mitanni rulers; the *marya* warrior term — supplies the historical-empirical anchor for transcontinental Vedic transmission. The Behistun anchor (Old Persian preserved by ordinary linguistic friction, Sanskrit preserved by an engineered apparatus) is the secondary empirical evidence that the contact framework rather than the genealogical framework explains the divergence.
+The chapter develops that account in waves. **Wave 1**: pre-Pāṇinian propagation of structural features into the natural languages of Central and West Asia, the aggregate of which was later projected backward by nineteenth-century European philologists as PIE. The transmission unit is the expert, not the population — a single Sanskrit-trained *ārya* expert in *vyākaraṇam*, functioning as a guru, influencing the linguists of another culture is sufficient. The Saptaṛṣi lineage supplies the named roster of pre-Pāṇinian Vedic experts whose lineages extend geographically: Agastya as the canonical inner figure (composer with Lopāmudrā of Rigvedic hymns 1.165–1.191; traveler south; credited with the *Agattiyam*, the first Tamil grammar); Kaśyapa to Kashmir and the northwestern frontier; Bharadvāja the explicitly-grammarian ṛṣi whom Pāṇini will later cite by name in the *Aṣṭādhyāyī*. The Mitanni evidence — the Hittite-Mitanni treaty invoking *Mitra*, *Varuṇa*, *Indra*, and *Nāsatya* as treaty-witness deities; Kikkuli's horse-training Sanskritic numerical terms; the Sanskritic throne names of Mitanni rulers; the *marya* warrior term — supplies the historical-empirical anchor for transcontinental Vedic transmission. The Behistun anchor (Old Persian preserved by ordinary linguistic friction, Sanskrit preserved by an engineered apparatus) is the secondary empirical evidence that the contact framework rather than the genealogical framework explains the divergence.
 
 **Wave 2**: post-Pāṇinian propagation of the methodology of formal grammar itself into the grammatical traditions of other civilizations. The catalog runs chronologically — Greek (Dionysius Thrax), Latin (Donatus, Priscian, transitive via Greek), Tibetan (Thonmi Sambhoṭa, with documented transmission), Arabic (Sibawayh), Hebrew (transitive via Arabic), and Chinese as the contrast case that disciplines the hypothesis. The reversal hypothesis is positioned within established contact-linguistics frameworks (Thomason-Kaufman, Ross's metatypy) and extended where those frameworks lack vocabulary for engineered models. The chapter coins **calibrant language** for that gap.
 
