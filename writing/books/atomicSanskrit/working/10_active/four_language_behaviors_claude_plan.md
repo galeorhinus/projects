@@ -2,50 +2,63 @@
 
 *Parallel to `four_language_behaviors_codex_plan.md`. Same goal, verified against the manuscript, with two deliberate divergences from Codex flagged inline (**⚡ DIVERGE**) so the author can adjudicate. Where the plans agree I say so (**✓ AGREE**) rather than re-arguing.*
 
+> **⭑ REVISED 2026-07-20 — canonical grid changed.** The 2×2 is now **origin (organic / engineered) × generativity (high / low)** — superseding the earlier origin × entropy-response grid. Four *cells* (Botanical / Petrified / Conlang / Sanskrit) + vivimorphosis as the *arrow*. Entropy is not dropped; it is **deferred to Ch6** as a described third dimension. Conlang is the new fourth cell. Ch2 is **pass one** (draft written; figure built as `figures/botanical/language2x2.png`). Vocabulary lock and the revised typology are below; older sections (Radiance Thesis, dialect fraud, colonizer's move, endowment, petrification warning, prose seeds) are unchanged.
+
 ## Purpose
 
-Let the reader hold four distinct language behaviors apart instead of blurring them:
+Let the reader hold the language behaviors apart instead of blurring them — **four cells of one grid, plus one transition:**
 
-1. **Botanical change** — a natural language changes organically: usage, geography, prestige, contact, time, decay.
-2. **Petrification** — a natural language-form is frozen and guarded by external authority (canon, clergy, academy, court, state, document custody). It stops drifting — **fixed, but no longer organically alive as ordinary speech (frozen, not dead).**
-3. **Engineering** — Sanskrit alone: the standard lives *inside* the architecture (sound, meter, grammar, recitation, lineage, calibration). It resists entropy while staying generative.
-4. **Vivimorphosis** — an engineered Sanskrit form crosses the calibrant boundary and re-organicizes as an *apaśabda* inside a receiving language.
+1. **Botanical / Natural** (organic + high generativity) — a natural language changes organically (usage, geography, contact, drift); generative *by drifting*.
+2. **Petrified** (organic + low generativity) — a natural form frozen and guarded by external authority (canon, clergy, academy, court, state). It stops generating — **fixed, but no longer alive as ordinary speech (frozen, not dead).**
+3. **Conlang** (engineered + low generativity) — a deliberately built language with no living engine (Esperanto, ciphers, hobby grammars); a closed inventory that fades without upkeep.
+4. **Sanskrit** (engineered + high generativity) — engineered *and* generative: the standard lives *inside* the architecture (sound, meter, grammar, recitation, lineage, calibration), producing new forms *by derivation* while the language itself holds. *Wholly created · completely synthesized · engineered.*
+5. **Vivimorphosis** — *the transition, not a cell:* an engineered Sanskrit form crosses the calibrant boundary and re-organicizes as an *apaśabda* in a receiving language (the Sanskrit → botanical arrow).
 
-The manuscript already argues 1+2+3 as a single set piece. Vivimorphosis is the orphan — fully built in Ch12/Ch18, never joined to the other three. Two payoffs for fixing this:
+The manuscript already argues botanical + petrified + Sanskrit as a set piece. **Conlang** and **vivimorphosis** are the additions: the grid names the fourth cell (conlang) the two-category scheme never shows, and vivimorphosis — built in Ch12/Ch18 — joins the others as the arrow rather than a peer state. Two payoffs:
 
-- **It disarms a terminology trap.** The book uses *codification* for both category #2 (Arabic/Hebrew — legitimate) and the pyramid's false charge against Sanskrit ("codified late" — denied for chapters). Naming #2 **petrification** cleanly splits the two.
-- **It arms the PIE refutation.** Vivimorphosis is the arrow the pyramid misreads: it sees the botanical *daughters* (vivimorphosed apaśabdas), reconstructs a botanical *parent* (PIE), and never sees the engineered source. The four-way map is the setup; Ch18 is the payoff.
+- **It disarms a terminology trap.** The book uses *codification* for both the legitimate freezing of a natural language (Arabic/Hebrew/Latin) and the pyramid's false charge against Sanskrit ("codified late" — denied for chapters). Naming the frozen-natural cell **petrification** cleanly splits the two.
+- **It arms the PIE refutation.** Vivimorphosis is the arrow the pyramid misreads: it sees the botanical *daughters* (vivimorphosed apaśabdas), reconstructs a botanical *parent* (PIE), and never sees the engineered source. The grid is the setup; Ch18 is the payoff.
 
-## Sharpening the typology — three states + one transition
+## The typology — one grid, four cells, one arrow (revised 2026-07-20)
 
-Codex presents four flat peers. They are not quite peers: **1, 2, 3 are states; 4 is a transition** (engineered → botanical). Presenting that asymmetry is what makes the map do argumentative work rather than just sort.
+**The canonical map is a 2×2: origin (organic / engineered) × generativity (high / low).** It yields four *states* as cells, plus vivimorphosis as the *arrow* between two of them. (This supersedes the earlier origin × entropy-response grid; entropy is deferred to Ch6 as a described third dimension — see below.)
 
-Two complementary framings, both worth using:
+|            | **organic** | **engineered** |
+|------------|-------------|----------------|
+| **high generativity** | **Botanical / Natural** — generative by *drift*; adapts by changing | **Sanskrit** — generative by *derivation*; adapts without changing (*wholly created · completely synthesized · engineered*) |
+| **low generativity**  | **Petrified** — frozen by authority; obsolesces for the new | **Conlang** — built to a fixed plan; no living engine; fades without upkeep |
 
-**(a) The 2×2 — the logical compass.** Axes: *origin* (natural / made) × *entropy-response* (succumbs vs. **arrests / resists**). The distinction between *arrest* and *resist* is Codex's catch and it's load-bearing — see the note below.
+Read the cells:
+- **Botanical** (organic + high-gen): meets each new thing by drifting into a new form; the language changes.
+- **Petrified** (organic + low-gen): a living form arrested by authority — fixed, no longer generating, obsolescing for the new. **Frozen, not dead.**
+- **Conlang** (engineered + low-gen): deliberately built, but a closed inventory with no living engine. *The Language Factory (App Part 5) is the escape arrow — give a conlang Sanskrit's architecture and it moves up into the Sanskrit cell, which is why the Sanskrit cell is reproducible, not a one-off.*
+- **Sanskrit** (engineered + high-gen), alone: engineered and still generative — the *dhātu* architecture produces whatever a new situation needs while the language holds. **The cell the pyramid's two-category scheme is built to hide,** because a language that is engineered *and* generative escapes both pyramid controls: it cannot be surveyed as natural drift, and it answers to no authority that codifies it.
 
-|            | **succumbs to entropy** | **arrests / resists entropy** |
-|------------|-------------------------|-------------------------------|
-| **natural**| **Botanical** (drifts, branches, decays) | **Petrified** — *external arrest*: authority freezes change; fixed, no longer drifting as ordinary speech |
-| **made**   | **Vivimorphosis** (engineered form drifts once outside the system) | **Engineered** — *internal resistance*: anti-entropic by design; holds *and* stays generative (Sanskrit) |
+**Generativity, not "static."** The earlier draft used *static* for the bottom row; **low generativity** is the honest degree-word — petrified Latin still coins by authority, so it is low, not zero.
 
-The load-bearing distinction, now visible in the grid: **petrified and engineered both stop entropy — but by opposite means.** Petrified is **arrested from outside** (an authority walls off change; the form fixes but goes inert as ordinary speech). Engineered **resists from inside** (the architecture is anti-entropic, so it holds *while staying alive*). That **external-arrest vs internal-resistance** split *is* the codification-vs-calibration / pyramid-vs-swastika contrast — the core of the book — and it keeps clear of the dead-language frame: petrified is **fixed, not dead**.
+**The arrow — vivimorphosis (the transition, not a cell).** One arrow, **Sanskrit → botanical** (across the top row): an engineered form crosses into a natural language and re-organicizes. It carries two readings at once — **endowment** (the dhātu-tap: Greek/Latin/Asian vocabularies enriched) and the **PIE trap** (the pyramid finds the drifted form in the botanical cell and reconstructs a botanical parent, never seeing the engineered cell it came from). The grid supports three further arrows when wanted: **petrification** (botanical → petrified), **revivification** (petrified → botanical; Hebrew), **Language Factory** (conlang → Sanskrit; Yenpro).
 
-**(b) The arrow — the narrative + the trap.** Three boxes (botanical / petrified / engineered) with **one arrow, engineered → botanical, labelled *vivimorphosis*.** The pyramid stands at the arrow's output and infers a botanical source. This is the PIE argument in one diagram.
-
-**(c) The adaptation axis — who absorbs change? (author, 2026-07-15 — load-bearing addition).** The world changes; every language faces the same pressure. The three states answer it differently:
+**The adaptation axis IS the generativity axis (author, 2026-07-15 — now folded in, no longer a separate framing).** "Who absorbs change?" is what high/low generativity *means*:
 
 | Behavior | When the world changes… | Cost |
 |---|---|---|
-| **Botanical** | **the language changes** — it must mutate to accommodate new things, so it drifts | adaptation is paid for in drift: the past becomes unreadable |
-| **Petrified** | **nothing changes** — the frozen form cannot accommodate the new | stuck in the past: the price of fixity is obsolescence for new situations |
-| **Engineered** | **the usage changes, not the language** — the generative architecture (dhātu × pratyaya × upasarga) already holds unlimited vocabulary, so speakers derive what the new situation needs from the standing atoms; the architecture itself never moves | none: adaptation without drift |
+| **Botanical** | **the language changes** — it mutates to accommodate the new, so it drifts | adaptation paid for in drift: the past becomes unreadable |
+| **Petrified / Conlang** | **nothing changes** — the frozen/fixed form cannot accommodate the new | obsolescence for new situations |
+| **Sanskrit** | **the usage changes, not the language** — the *dhātu × pratyaya × upasarga* architecture holds unlimited vocabulary, so speakers derive what the new situation needs from the standing atoms while the architecture never moves | none: adaptation without drift |
 
-**This is the quintessence of *laukika*.** Sanskrit straddles **two simultaneous modes** (the vaidika/laukika + chandas/bhāṣā two-axis convention, CLAUDE.md): one mode that **never changes** (the *chandas*/vaidika corpus — the fixed calibrant), and a second mode where **the language still doesn't change but the usage adapts** (*laukika* — speakers derive new words from the same architecture for new situations). Unlimited generativity is what makes this possible: a botanical language must *mutate* to get a new word; Sanskrit *derives* one from the standing inventory. The language holds; the usage moves.
+**This is the quintessence of *laukika*.** Sanskrit runs **two simultaneous modes** (the vaidika/laukika + chandas/bhāṣā two-axis convention, CLAUDE.md): one that **never changes** (the *chandas*/vaidika corpus — the fixed calibrant) and one where **the language still holds but the usage adapts** (*laukika* — derivation from the same architecture). The pyramid must hide the dual-mode straddle — natural languages cannot run both — so it re-describes two simultaneous modes as two **sequential stages**, "Vedic" hardening into "Classical," converting live dual-mode capability into a chronology of decay-and-repair. *Domain is not chronology. Mode is not drift.*
 
-**What the pyramid must hide — and how the "Vedic/Classical" fraud does it.** A language that runs a never-changing mode and an adapting-usage mode **simultaneously** breaks the botanical premise outright (natural languages cannot do this; they adapt only by drifting). So the pyramid re-describes the two simultaneous modes as two **sequential stages** — "Vedic Sanskrit" (early) hardening into "Classical Sanskrit" (late) — converting the architecture's live dual-mode capability into a chronology of decay-and-repair. *Domain is not chronology. Mode is not drift.* The four-behavior map plus this axis states the mechanism behind those hammers: the split-into-two-languages story exists **because** the dual-mode straddle would otherwise be visible.
+**Entropy — deferred to Ch6 as a described third dimension.** The generativity grid *explains* entropy rather than displaying it: the top row is internally self-renewing (botanical renews by drift, Sanskrit by derivation), the bottom row is externally dependent (needs an authority or a creator to persist). Ch6 (*Apabhraṃśa* = "falling away" = botanical entropy in action) revisits the **same** grid and lays entropy over it in prose — asserted, not hypothetical ("the grid has a third dimension we haven't drawn") — landing two payoffs: (1) **the top-row split** — botanical and Sanskrit are both high-gen but opposite on entropy (drift = entropy; derivation = anti-entropy); (2) **the external-arrest vs internal-resistance recovery** — petrified and Sanskrit both resist entropy, but from outside (authority) vs inside (architecture) = codification-vs-calibration / pyramid-vs-swastika. This retires the old origin×entropy grid cleanly: its whole content = (this grid) + (the Ch6 entropy reading). **Guardrail:** keep ONE canonical grid; Ch6 lays entropy *over* it, never a second competing grid.
 
-*Deployment:* the axis belongs wherever the compass lands (Ch2 — one tight beat: "a botanical language adapts by changing; Sanskrit adapts its usage while the language holds"), with the *laukika* development in the two-axis material (Preface terminology note, Ch1 §1.1 Move 7, Ch14) and the fraud-connection in Ch12/Ch18 where the machinery lives. **✅ Epilogue echo DEPLOYED 2026-07-17** (`## Where the Nectar Rises`, codification-vs-swastika ¶: *"the usage adapts; the language holds… A codified language freezes and falls behind its own world. The calibrant stands still and keeps up."*). **Sequencing:** the Ch2/Ch12 formal introductions must ship before print — the Epilogue now echoes them. Also feeds the layers-vs-time figure: the Sanskrit base-layer never moves *and yet* tracks every era — the strands above it move *in order to* track their eras.
+*Deployment:* Ch2 gets the drawn grid + figure (pass one); Ch6 gets entropy as the third dimension; the *laukika* development runs in the two-axis material (Preface terminology note, Ch1 §1.1 Move 7, Ch14) and the fraud-connection in Ch12/Ch18. **✅ Epilogue echo DEPLOYED 2026-07-17** (`## Where the Nectar Rises`: *"the usage adapts; the language holds… A codified language freezes and falls behind its own world. The calibrant stands still and keeps up."*). **Sequencing:** Ch2/Ch6/Ch12 formal introductions must ship before print — Ch14 and the Epilogue already echo them.
+
+## Vocabulary lock (author, 2026-07-20)
+
+- **"Engineered" is the origin pole — used for both Sanskrit and conlangs** (and, technically, PIE, itself a conlang — the "con"; kept out of the reader's way to avoid confusion). Sanskrit's distinction is not *engineered* alone but **engineered *and* generative** — the full phrase stays Sanskrit-only, so the honorific force is preserved. The CLAUDE.md reservation of *engineered/manufactured* targets the **PIE fraud** ("baked," not engineered); conlangs are a neutral built category, so sharing the origin pole with them is fine.
+- **Sanskrit's honorific cluster: *wholly created · completely synthesized · engineered.*** **Never "made"** for Sanskrit. *(⚠ Reconcile before codifying: CLAUDE.md's canonical saṃskṛtam gloss is "**perfectly** synthesized or **wholly created**"; the author said "**completely** synthesized." Pick one wording and hold it, then push the "no *made* for Sanskrit" rule into CLAUDE.md + memory.)*
+- **Conlang cell:** name in prose = *constructed language*; describe it as *built to a fixed plan / a closed inventory / no living engine / fades without upkeep.* Not "made."
+- **"Botanical" lives in the figure caption and prose, not the cell label** (the figure's cell reads "Natural Languages"). *Natural languages behave botanically; the pyramid's error is treating Sanskrit as if it did too.*
+- **Axis vocabulary on the figure:** Origin (Engineered / Organic) × Generativity (High / Low), high on top.
 
 ## Current locations (verified against the manuscript)
 
@@ -140,22 +153,26 @@ The split that resolves Codex's real concern (vivimorphosis needs Ch12's *śabda
 
 | Chapter | Role | Content |
 |---|---|---|
-| **Ch2** | the **compass** | Extend "the missing third category" to the full four-cell map. Name vivimorphosis as the fourth behavior — *the reflection an engineered form casts when it leaves the system* — with a forward-pointer to Ch12. Deploy the **2×2 figure** here. |
-| **Ch6** (*Apabhraṃśa*) | the **entropy axis** | ✓ AGREE with Codex: expand §6.4 to three-plus-one. Botanical succumbs / petrified freezes / engineered resists — and one forward line: *when the engineered form leaves the boundary, it succumbs like the rest; Ch12 names that crossing vivimorphosis.* Best place to install **petrification** as the clearer name for codified correction. |
+| **Ch2** — **PASS 1 (draft written 2026-07-20)** | the **compass** | Expand the two-category passage (¶¶29–37) to the full 2×2 (origin × generativity). Introduce **petrified** and **conlang** (the fourth cell); name **vivimorphosis** lightly as the Sanskrit → botanical arrow, forward-pointer to Ch12. Deploy the built **2×2 figure** (`figures/botanical/language2x2.png`). The seven moves that follow read as *a move on the grid* — the pyramid confining Sanskrit to the organic column (drift before Pāṇini, freeze after). |
+| **Ch6** (*Apabhraṃśa*) — **PASS 2** | the **entropy third dimension** | Revisit the **same** grid and add entropy in prose (not a new figure): the top-row split (botanical drift = entropy vs Sanskrit derivation = anti-entropy) and the external-arrest vs internal-resistance recovery. *Apabhraṃśa* = "falling away" = botanical entropy on the page. Install **petrification** as the clearer name for codified correction. |
 | **Ch12 §12.9** | the **mechanism + operational table** | ✓ AGREE with Codex: keep the full *śabda→bīja→apaśabda* explanation here, and the four-behavior table (Codex's table is good — adopt it). This is where the reader earns the machinery. |
 | **Ch18 §18.7** | the **trap** | ✓ AGREE with Codex: examples carry it; add the one-line reminder by the *sthā* figure that the organic tree belongs to the *receiving* side. Add the PIE hinge explicitly: *the pyramid reads vivimorphosed daughters as a botanical parent.* |
 | **App 8 / Companion** | the **philology receipts** | ✓ AGREE with Codex: the "Western philology did real botanical research" list lives here, used fairly (below). |
 
-### The disqualifier for "Engineering = Sanskrit only"
-One sentence, wherever the engineering cell is first stated (Ch2 or Ch12): modern conlangs (Esperanto, Klingon) are the *other* made languages, but they are simplified-natural or fictional toys — not calibrated, anti-entropic, generative architectures. That keeps "category of one" (Ch18 §18.6) airtight against the obvious objection.
+### The conlang cell replaces the old "disqualifier sentence"
+The earlier plan handled the Esperanto objection with a one-line disqualifier. The 2×2 does it structurally: **conlangs are a full cell** (engineered + low-gen), a *different* cell from Sanskrit (engineered + high-gen). "Engineered" no longer means "Sanskrit-only" — it means the engineered *column*; Sanskrit's distinction is the *generativity*. So the objection ("Sanskrit is just a fancy Esperanto") is answered by grid position, not by an aside. The Language Factory (App Part 5) is the arrow that moves a conlang from its cell up into Sanskrit's — the "category of one" (Ch18 §18.6) becomes "reproducible by architecture," which is stronger.
 
-## The figure
+## The figure — BUILT (`figures/botanical/language2x2.png`)
 
-**⚡ DIVERGE (mildly) from Codex on form.** Codex proposes four horizontal bands (living tree → stone tree → hex architecture → hex molecule crossing a boundary and sprouting). That's a strong *narrative* figure. I'd make the **2×2 grid the primary** (it's the logical compass and it draws the petrified-vs-engineered "both resist, one is dead" contrast that the bands can't), and keep Codex's four-band progression as a **companion** narrative strip. They're complementary: grid = map, strip = story.
+The 2×2 grid is the primary figure, **built and finalized as a PNG** (Figure 2.1). PNG not SVG for two reasons: Illustrator's fi/fl **ligature export bug** silently drops letters from SVG `<text>` (Petri*fi*ed → "Petrifed", etc.), and the **drop shadows** don't survive the SVG→PDF pipeline. The `.ai` master (`language2x2.from-hand.ai`) + `.png` export sidestep both; the build's grayscale step makes the print version.
 
-- **Grid cells** in our established visual language: botanical = organic tree (green, drifting); petrified = the same tree in stone/grey (fossil); engineered = the warm hex-molecule engine (√sthā, from the schematics we built); vivimorphosis = a hex molecule crossing a dashed boundary and sprouting green — the exact seed→tree we already drafted.
-- **Design rule (✓ AGREE with Codex — load-bearing):** **never draw Sanskrit as a tree.** A tree may appear only for natural languages, or on the contact-language side *after* vivimorphosis. The whole figure fails if Sanskrit is a tree.
-- Reuse: the `figures/pie_in_sky/vivimorphosis_left_molecules` (engineered cell) and `vivimorphosis_tree` (botanical + vivimorphosis cells) schematics are already 3 of the 4 cells; only the "petrified = stone tree" cell is new.
+- **Axes:** Origin (Engineered / Organic) × Generativity (High / Low), high on top.
+- **Cells:** Sanskrit (top-left, eng+high) · Natural Languages (top-right, org+high) · Conlangs (bottom-left, eng+low) · Petrified (bottom-right, org+low). Each cell carries its icon + a 4-bullet descriptor set (e.g. Sanskrit: *Engineered · Generative (by derivation) · Adapts without changing · Endures*).
+- **Arrows (callouts to in-cell glyphs, not between-cell vectors):** Vivimorphosis (Sanskrit → botanical) · Revivification (petrified → botanical).
+- **"Botanical" is in the caption/prose, not the cell label** — the top-right cell reads "Natural Languages."
+- **Design rule (load-bearing):** **never draw Sanskrit as a tree.** A tree appears only for natural languages, or on the contact side *after* vivimorphosis.
+
+*(Superseded by the built figure: the earlier tree / stone-tree / hex-molecule cell spec and the four-band companion strip. The layers-vs-time diagram (Ch12) below still stands as a separate dynamic figure.)*
 
 ### The layers-vs-time diagram (Ch12) — the four behaviors in motion
 
@@ -175,6 +192,8 @@ One sentence, wherever the engineering cell is first stated (Ch2 or Ch12): moder
 **Hard rules:** date-free axis · no single left-origin (refuses PIE) · Sanskrit is the crystalline bottom band, **never a tree** · the revivification arrow never crosses into warm/hex.
 
 ## Icon set — the four behaviors (hand-off spec for Claude Design)
+
+> **Superseded 2026-07-20 by the built figure.** The Ch2 2×2 (`language2x2.png`) ships with its own in-cell icons (engineered, natural, conlang, petrified) plus the vivimorphosis / revivification arrow glyphs. The spec below is retained as the design rationale (the two-primitive HEX/PLANT grammar) and as the source for any standalone icon reuse; note the cell set is now **conlang** in the fourth slot with **vivimorphosis as an arrow glyph**, not a fourth cell-icon.
 
 Four icons, **one two-primitive grammar** so they read as a *set*, not four unrelated drawings. Primitives: **HEX** (made / engineered) and **PLANT** (natural / organic). Each icon is one primitive, the other, both, or one transformed.
 
@@ -396,17 +415,25 @@ Codex's plan carries ready-to-hand *usage paragraphs*; the useful ones are colle
 ## Where Claude and Codex differ (for the author to decide)
 
 1. **Compass placement.** Codex: four-way table in **Ch12**, keep it out of Ch2. Claude: four-cell **map in Ch2** (mechanism still in Ch12). — **✅ RESOLVED (author, 2026-07-14): Ch2 — the 2×2 and all four terms land in Ch2.**
-2. **Figure form.** Codex: four horizontal bands. Claude: **2×2 grid primary**, four-band strip as companion.
+2. ~~**Figure form.**~~ **✅ RESOLVED 2026-07-20: 2×2 grid, built as PNG** (`language2x2.png`). Codex's four-band strip dropped.
 3. **Petrification's home in the argument.** Claude adds the **Scripture-mode tie-in** (petrification = the language-fate of the written-holy-book mode), welding it to the existing Ch13–14 Scripture-vs-*śruti* spine rather than treating it as a standalone clarification.
 
 Both plans agree on: the four names, adopting **petrification**, the guardrail against "Arabic is dead," keeping the mechanism in Ch12, the Ch18 examples, the philology list in the appendix, and **never drawing Sanskrit as a tree.**
 
 ## Open decisions (superset of Codex's)
 
-1. ~~Ch2 or Ch12 for the compass?~~ **✅ DECIDED: Ch2** — the 2×2 and all four terms are introduced in Ch2; the mechanism stays in Ch12.
-2. Does Ch6 §6.4's heading adopt **petrification**, or keep "codified correction" in the head and define petrification in prose?
-3. Do Arabic / Hebrew / Latin appear in the **main body** (Ch2, Ch13) or stay reserved for appendix/epilogue to keep focus on Sanskrit? (They're already in the body at Ch2:33, Ch13:129, Ch14 — so this is really "keep or thin," not "add.")
-4. **2×2 grid, four-band strip, or both** — and build now or after the Ch12 table language locks?
-5. Adopt the **conlang disqualifier** sentence, and where?
-6. **Dialect fraud placement** — Ch2 symmetry beat + Appendix Part 8 detailed case (recommended), or elsewhere? (see "The dialect fraud" section)
-7. **Petrification warning (India now)** — ✅ **Epilogue prescription DEPLOYED 2026-07-17** (`## Where the Nectar Rises`); still pending: App 8 (live-threat development) + one-line warnings at Ch2/6/14.
+**Resolved this session (2026-07-20):**
+- ~~Canonical 2×2 axes?~~ **✅ origin × generativity** (was origin × entropy).
+- ~~Fourth cell?~~ **✅ conlang** (engineered + low-gen); vivimorphosis demoted to the **arrow**.
+- ~~Entropy?~~ **✅ deferred to Ch6** as a described third dimension over the same grid.
+- ~~Figure form (grid / four-band / both; SVG or raster)?~~ **✅ 2×2 grid, built as PNG** (`language2x2.png`); four-band strip dropped.
+- ~~Conlang disqualifier sentence?~~ **✅ replaced by the conlang cell** — handled structurally, not as an aside.
+- ~~Ch2 vs Ch12 for the compass?~~ **✅ Ch2** (mechanism stays Ch12).
+
+**Still open:**
+1. **Vocabulary:** "**completely** synthesized" (author) vs CLAUDE.md's canonical "**perfectly** synthesized" — pick one, then codify "no *made* for Sanskrit" into CLAUDE.md + memory.
+2. Does Ch6's heading adopt **petrification**, or keep "codified correction" in the head and define petrification in prose?
+3. Do Arabic / Hebrew / Latin appear in the **main body** (Ch2, Ch13) or stay reserved for appendix/epilogue? (Already in the body at Ch2:33, Ch13:129, Ch14 — so "keep or thin," not "add.")
+4. **Dialect fraud placement** — Ch2 symmetry beat + Appendix Part 8 detailed case (recommended), or elsewhere?
+5. **Petrification warning (India now)** — ✅ **Epilogue DEPLOYED 2026-07-17**; still pending: App 8 (live-threat development) + one-line warnings at Ch2/6/14.
+6. **Ch2 draft (pass one)** — written 2026-07-20, awaiting apply into `as_1_02_botanical.md`.
