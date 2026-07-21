@@ -86,6 +86,8 @@ Intermingle. All-verdict feels like a slogan deck; all-topic feels like a survey
 
 - **Causality through actors and verbs first.** A named agent with a causal verb can state the inference without scaffolding; verbs such as *exposes, disguises, forces, yields,* and *requires* let the mechanism travel inside the claim. For example, *A frozen text forces a custodian because its authority must live outside itself* carries the actor, operation, and consequence in one developed sentence.
 
+- **No abstract bridge sentences.** A paragraph or section opener must name a concrete actor, object, action, or mechanism. Placeholders such as *a wider margin*, *the distinction*, *the framework*, *the pattern*, *the mechanism*, and *the next field* make the reader reconstruct the missing relation. Apply the three-part test: **What is the concrete noun? What does it do? What boundary or consequence is relevant?** *The two open coordinates belong to a wider margin* fails; *The human mouth can produce many sounds beyond Sanskrit's sonomer grid* performs the transition. An abstract noun may remain only when it is the actual subject and the sentence immediately states its operation.
+
 - **Conjunctions when the relation would otherwise stay unclear.** Then build the layered period whose form shows the structure: *because, since, while, although, by …-ing, so that*, relative and appositive expansions. Not *"A broken word can break the meter. A misplaced accent can break the chant. The channels check one another."* but *"Because a broken word breaks the meter and a misplaced accent breaks the chant, the channels cross-check one another."*
 
 - **Fuse, don't stack.** Avoid short-verdict runs (*X. Y. Z.*), anaphora triples as texture, and standalone one-line pivot paragraphs. Stacked verdicts become one constructed period with the polemic folded in: *"Drift before Pāṇini. Freeze after Pāṇini."* → *"By assigning drift to the period before Pāṇini and freeze to the period after him, the pyramid splits one continuous architecture into two false categories."*
@@ -148,9 +150,10 @@ Sentence rhythm is the music; compression removes padding, while causal expositi
   1. Read the first sentence of each paragraph. Does it begin the substance directly, and does its length fit the thought rather than a template?
   2. Are there any *indeed / in fact / of course / clearly* tokens? Cut.
   3. Are there transition phrases at paragraph openings (*"Having seen…", "Building on…"*)? Replace them with the substantive causal relation, or cut them when the relation is already clear.
-  4. Does any explanatory passage use three or more short declarations where one varied sentence would carry the mechanism more clearly? Rebuild the causal chain.
-  5. Does any section close on a summary or a taper? Find the last load-bearing sentence and end there instead.
-  6. Are bold Devanagari/Roman/gloss triples followed by re-explanation paragraphs? Cut the re-explanation.
+  4. Does any paragraph or section begin with an abstract bridge such as *a wider margin*, *the distinction*, *the framework*, *the pattern*, or *the next field*? Name the concrete noun, its action, and the relevant boundary or consequence.
+  5. Does any explanatory passage use three or more short declarations where one varied sentence would carry the mechanism more clearly? Rebuild the causal chain.
+  6. Does any section close on a summary or a taper? Find the last load-bearing sentence and end there instead.
+  7. Are bold Devanagari/Roman/gloss triples followed by re-explanation paragraphs? Cut the re-explanation.
 
 Compression removes padding; causal exposition preserves the bridge. Both pair with the §4 sentence-rhythm patterns and the Voice Prime Directive in CLAUDE.md. Named-agent active voice still governs, while every explanation must show enough mechanism for the reader to follow without reconstructing an outline.
 

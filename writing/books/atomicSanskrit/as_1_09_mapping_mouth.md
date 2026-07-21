@@ -258,7 +258,7 @@ This is engineering by exclusion.
 
 ## 9.9 Engineered Margin
 
-The two open coordinates belong to a wider margin. Tamil uses an alveolar contact between the dental and retroflex stations. Sindhi uses implosives. Korku, Mundari, and Ho preserve checked or glottalized articulations in parts of their sound-systems, while contact has brought labiodental **[f]** into many modern Indian vocabularies. Human languages elsewhere use uvulars, pharyngeals, ejectives, clicks, and lateral fricatives.[NOTE: tamil-alveolar-trill][NOTE: sindhi-implosives-inventory][NOTE: ho-mundari-checked-consonants][NOTE: urdu-persian-arabic-loan-phonemes]
+The human mouth can produce many sounds beyond the Sanskrit sonomer grid. Tamil uses an alveolar contact between the dental and retroflex stations. Sindhi uses implosives. Korku, Mundari, and Ho preserve checked or glottalized articulations in parts of their sound-systems, while contact has brought labiodental **[f]** into many modern Indian vocabularies. Human languages elsewhere use uvulars, pharyngeals, ejectives, clicks, and lateral fricatives.[NOTE: tamil-alveolar-trill][NOTE: sindhi-implosives-inventory][NOTE: ho-mundari-checked-consonants][NOTE: urdu-persian-arabic-loan-phonemes]
 
 Each additional independent consonant would extend through the vowel axis and create another series of *akṣaras*. It would then have to remain distinguishable in recitation, available for combination, and stable enough to survive transmission. The cost of a coordinate therefore reaches far beyond one extra sound.
 

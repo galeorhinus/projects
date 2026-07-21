@@ -66,6 +66,8 @@ Use an explicit transition whenever the argument changes evidentiary level, acto
 
 Carry a major turn inside the first substantive sentence of the new movement, where the reader can see what changed and why. Isolated hinges such as *The burden now shifts*, *That closes the question*, and *The Sun can be found* usually expose the outline without performing the transition.
 
+Do not use an abstract placeholder as a bridge. Phrases such as *a wider margin*, *the distinction*, *the framework*, *the pattern*, *the mechanism*, and *the next field* make the reader recover the concrete relation that the sentence should state. Before accepting a paragraph or section opener, ask three questions: **What is the concrete noun? What does it do? What boundary or consequence is relevant?** Replace *The two open coordinates belong to a wider margin* with *The human mouth can produce many sounds beyond Sanskrit's sonomer grid.* An abstract noun may remain when it is the actual subject and the sentence immediately states its operation; it cannot stand in for an unnamed object or transition.
+
 When a paragraph moves from internal architecture to comparative evidence, from mechanism to consequence, or from one evidentiary field to another, tell the reader that the level has changed. A substantive segue such as *The surrounding sound-field reinforces that internal result* performs real argumentative work; suppressing it forces the reader to reconstruct the relationship.
 
 If the next sentence already performs the turn, delete the hinge. When the transition requires explanation, join the previous result to the new subject through the actor, operation, or consequence that connects them.
