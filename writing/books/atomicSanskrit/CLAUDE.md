@@ -422,6 +422,12 @@ Do not use ***answer*** as a generic relationship between abstractions. A domain
 
 Preserve ***answer*** when it denotes a literal reply to an explicit question, a received doctrinal conclusion, or a deliberate refrain whose repetition is already part of the book: *There are two answers: zero and infinity*; *The answer is always zero*; *the honest answer is: we do not know*. Idiomatic subordination such as *answer to an authority* should normally become the more exact *submit to, conform to,* or *be subordinated to*.
 
+### *Gloss* — reserve it for technical annotation
+
+Do not use ***gloss / glosses / glossed / glossing*** as the default prose verb for stating what a word, passage, dictionary, or commentator means. The construction hides the actual operation and becomes an academic tic: *the dictionary glosses X as Y* may mean that it **defines**, **translates**, **renders**, **interprets**, or merely **equates** the two. State that relationship directly. Prefer ***means* / *denotes*** for a word's sense, ***translates as* / *renders as*** for translation, ***defines as*** for a dictionary definition, and ***explains* / *interprets* / *analyzes*** for commentary when that is what the source does. Give the English equivalent directly when no reporting verb is needed.
+
+Do not perform a blind replacement with *renders*; choose the verb required by the evidence. Preserve ***gloss*** as a noun only when it denotes a precise linguistic object or operation — ***first-use gloss, morpheme gloss, interlinear gloss, word-by-word gloss*** — and preserve ***glossary*** and quoted source terminology.
+
 ### Texture — causal-expository prose without a verdict formula (revised 2026-07-19)
 
 The book's default voice is **causal-expository** (locked 2026-07-18 after a manuscript-wide author pass converted Preface–Ch19 + App 8): the sentence states its logical relation to what precedes it, and syntax — not juxtaposition — carries the inference. The earlier paratactic default (stacked short verdicts, anaphora triples, one-line pivot paragraphs, drumbeat catalogs) is retired as texture. Where a draft stacks verdicts (*"Drift before Pāṇini. Freeze after Pāṇini."*), rebuild the omitted relationship in as many sentences as the explanation needs. Do not force the repair into one overloaded period.

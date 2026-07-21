@@ -218,6 +218,20 @@ Also avoid the interpretive verb pattern **reads X as Y**. Use **treats X as Y**
 
 Literal use remains fine: "read the chapter," "read the manuscript," "English-reading world." Domain terms are also fine when required: *qirā'āt* readings, textual-critical variant readings, quoted source language.
 
+## Gloss Discipline
+
+Treat **gloss** as a technical noun, not as the default verb for explaining what a word or passage means. Repeated constructions such as *the dictionary glosses X as Y*, *the verse glosses the term*, and *X is glossed as Y* flatten several different operations into one academic tic.
+
+State the actual relationship instead:
+
+- use **means** or **denotes** for a word's sense;
+- use **translates as** or **renders as** for a translation;
+- use **defines as** for a dictionary or technical definition;
+- use **explains**, **interprets**, or **analyzes** for a commentary, choosing only the verb the source actually supports;
+- give the English equivalent directly when no reporting verb is needed.
+
+Do not replace every occurrence mechanically with *renders*. The replacement must identify what the source or sentence is doing. Preserve the noun where it has a precise linguistic function: **first-use gloss**, **morpheme gloss**, **interlinear gloss**, **word-by-word gloss**, and **glossary**. Quoted source terminology may also remain.
+
 ## Conclusions Without a Formula
 
 The manuscript requires no two-sentence verdict, no short closing sentence, and no repeated cadence at the end of each section. Let the final sentence complete the causal explanation at its natural length.
