@@ -5,7 +5,7 @@ description: Use this skill when drafting, editing, or revising any prose in the
 
 # Atomic Sanskrit — Voice Manual
 
-The book is *trade-nonfiction polemic*, not academic survey. The voice is Parag Tope's: analytical, argumentative, engineer's mind, Indic civilizational frame. The principles below are applications of a single commitment — **voice-driven rather than academic-formal; thesis-driven rather than survey-driven; specificity, commitment, and causal exposition operative; hedging, abstraction, and unexplained compression treated as anti-patterns.**
+The book is *trade-nonfiction polemic*, not academic survey. The voice is Parag Tope's: analytical, argumentative, engineer's mind, Indic civilizational frame. The principles below are applications of a single commitment — **voice-driven rather than academic-formal; thesis-driven rather than survey-driven; specificity, commitment, and causal exposition operative; hedging, abstraction, and compression as a prose or editorial goal treated as anti-patterns.**
 
 ---
 
@@ -78,7 +78,7 @@ Intermingle. All-verdict feels like a slogan deck; all-topic feels like a survey
 
 ## 4. Sentence Rhythm
 
-**The default register is causal-expository (revised 2026-07-18; the earlier paratactic default is retired).** The sentence states its logical relation to what precedes it; syntax — not juxtaposition — carries the inference. CLAUDE.md's Texture section is the always-on form of this rule; the bullets here are the working craft.
+**The default voice is causal-expository (revised 2026-07-18; the earlier paratactic default is retired).** The sentence states its logical relation to what precedes it; syntax — not juxtaposition — carries the inference. CLAUDE.md's Texture section is the always-on form of this rule; the bullets here are the working craft.
 
 **The rule in three lines:**
 
@@ -88,9 +88,11 @@ Intermingle. All-verdict feels like a slogan deck; all-topic feels like a survey
 
 - **No abstract bridge sentences.** A paragraph or section opener must name a concrete actor, object, action, or mechanism. Placeholders such as *a wider margin*, *the distinction*, *the framework*, *the pattern*, *the mechanism*, and *the next field* make the reader reconstruct the missing relation. Apply the three-part test: **What is the concrete noun? What does it do? What boundary or consequence is relevant?** *The two open coordinates belong to a wider margin* fails; *The human mouth can produce many sounds beyond Sanskrit's sonomer grid* performs the transition. An abstract noun may remain only when it is the actual subject and the sentence immediately states its operation.
 
+- **Plain statements before compressed figurative substitutes.** State directly what a reader knows, believes, sees, has been taught, or must infer. Spatial and material metaphors such as *the sentence the reader arrives with*, *the argument opens onto*, *the claim stands inside*, *the evidence carries us toward*, and *the question belongs to a wider margin* force the reader to decode a relationship that ordinary prose can state immediately. *This is the sentence the reader most likely arrives with* becomes *This is the account most readers have already been taught.* Keep figurative language when the image itself advances the argument, never as shorthand for an omitted cognitive or causal statement. Clarity and full articulation take precedence over literary compression.
+
 - **Conjunctions when the relation would otherwise stay unclear.** Then build the layered period whose form shows the structure: *because, since, while, although, by …-ing, so that*, relative and appositive expansions. Not *"A broken word can break the meter. A misplaced accent can break the chant. The channels check one another."* but *"Because a broken word breaks the meter and a misplaced accent breaks the chant, the channels cross-check one another."*
 
-- **Fuse, don't stack.** Avoid short-verdict runs (*X. Y. Z.*), anaphora triples as texture, and standalone one-line pivot paragraphs. Stacked verdicts become one constructed period with the polemic folded in: *"Drift before Pāṇini. Freeze after Pāṇini."* → *"By assigning drift to the period before Pāṇini and freeze to the period after him, the pyramid splits one continuous architecture into two false categories."*
+- **Connect, don't stack or overpack.** Avoid short-verdict runs (*X. Y. Z.*), anaphora triples as texture, and standalone one-line pivot paragraphs. Rebuild the omitted relationship in as many sentences as the explanation needs; do not force every stack into one overloaded period. *"Drift before Pāṇini. Freeze after Pāṇini."* can become *"The pyramid assigns natural drift to the period before Pāṇini. It then makes his grammar the external authority that supposedly froze the language, thereby splitting one continuous architecture into two false categories."*
 
 - **No short-verdict quota.** A section does not require a compressed conclusion, two-beat close, or one-line revelation. Existing refrains may remain when they perform established structural work, but new prose must not imitate their cadence as a default device.
 
@@ -100,7 +102,7 @@ Intermingle. All-verdict feels like a slogan deck; all-topic feels like a survey
 
 - **Do not let the repair become the new metronome.** *"Because X, Y. While A, B. Therefore C."* is as synthetic as the drumbeat it replaced. Let a **causal verb** carry the inference when it does so clearly, and rotate connector types, clause positions, and sentence lengths. Whenever the argument changes evidentiary level, actor, scale, domain, or line of support, supply an explicit transition that identifies the relationship. There is no numerical quota for sentence-opening connectors; variety prevents a pattern, while omission merely transfers the argumentative work to the reader.
 
-- **Catalogs run inside the sentence.** Enumerate concrete instances within one flowing period. The repeat-predicate drumbeat catalog (Ch8's *operates it… They flex*) survives only as a rare, explicitly earned set-piece, not as default texture.
+- **Catalogs remain readable explanations.** A catalog may occupy one developed sentence or several connected sentences, depending on how much relationship each item needs. Do not force a long list into one sentence merely to avoid a drumbeat, and do not isolate every item as a slogan. The reader should understand why the examples belong together and what each contributes.
 
 - **Conversational asides that don't soften.** Em-dash asides can land small jokes mid-paragraph without breaking momentum. Must not soften, qualify, or hedge — acknowledges the reader's intelligence and moves on. Test: removing the aside should leave the argument unchanged; what's lost is voice, not substance. *Not merely the arm — although that was never irrelevant.*
 
@@ -110,9 +112,9 @@ Intermingle. All-verdict feels like a slogan deck; all-topic feels like a survey
 
 - **Parallel possessives across parallel enumerations.** When listing parallel actors doing parallel things, modifiers and possessives must match. *Its **own** retroflex laterals / their **own** retroflex-lateral phonemes.* Not *Its **native** retroflex laterals / their **own** retroflex-lateral phonemes.* Watch for colonial-anthropological residue in apparently neutral words (*native*, *primitive*, *indigenous*, *tribal*) and use the plainer alternative when the residue word does not earn its place.
 
-- **Don't over-qualify badness.** When marking something offensive, harmful, or problematic, the unmarked word carries. *Culturally insensitive.* Not *culturally damaging in its own register.* The qualifier signals hedging; the unmarked word names the offense honestly.
+- **Don't over-qualify badness.** When marking something offensive, harmful, or problematic, the unmarked word carries. *Culturally insensitive.* Not *culturally damaging in its own context.* The qualifier signals hedging; the unmarked word names the offense honestly.
 
-- **Brief technical codas inside the sentence.** An em-dash may carry a short clarification at the close of a longer example when the clarification belongs to the same thought. *Hindi runs the retroflex flap ड़ in everyday words like घोड़ा (ghoṛā, horse), पेड़ (peṛ, tree), लड़का (laṛkā, boy) — the same retroflex hardware with briefer contact.* Do not add the coda merely to create a punch line.
+- **Integrate technical clarification where the reader needs it.** A clarification may sit inside the sentence, follow in a second sentence, or expand into a paragraph when the mechanism requires explanation. *Hindi runs the retroflex flap ड़ in everyday words like घोड़ा (ghoṛā, horse), पेड़ (peṛ, tree), and लड़का (laṛkā, boy), using the same retroflex hardware with briefer contact.* Choose the form that explains the operation most clearly; do not reduce the explanation to manufacture a punch line.
 
 - **Alliteration on phrases meant to lodge.** *Pernicious pyramid that periodically perishes. / Paradigm of progress poses a paradox. / Bribed, bought or beaten.* Sparing.
 
@@ -120,11 +122,11 @@ Intermingle. All-verdict feels like a slogan deck; all-topic feels like a survey
 
 ---
 
-## 4A. Compression and Causal Exposition
+## 4A. Clarity and Causal Exposition
 
-Sentence rhythm is the music; compression removes padding, while causal exposition preserves the logic. Distilled from a sweep of Codex compressions across Chs 1–13 (2026-05-20) and corrected after later drafts over-applied the short-sentence pattern. Treat these as the default editing pass on every section before submission.
+The editorial goal is complete, readable explanation. Remove genuine repetition and empty signposting, but never treat fewer words as evidence of better prose. Earlier compression passes across Chapters 1–13 repeatedly removed actors, causal links, and definitions that a general reader needed. The rules below supersede that approach and govern every section before submission.
 
-- **Clear openings without a metronome.** A section may open on a tight declarative sentence when it establishes the governing idea. Do not force every paragraph to begin with a supershort thesis clause. When the subject, mechanism, and consequence form one thought, keep them together in a sentence long enough to carry the logic. *"Sanskrit's architecture was built to last"* can anchor a movement; a succession of equivalent anchors turns the prose into an outline.
+- **Fully articulated openings without a metronome.** Open with enough information to establish the concrete subject and the operation the paragraph will explain. Do not force a supershort thesis clause, and do not lengthen a simple statement artificially. When the subject, mechanism, and consequence form one thought, give the sentence enough space to carry all three.
 
 - **Avoid one-line interpolations between paragraphs.** A short standalone line often announces importance, exposes an outline hinge, or avoids writing the causal bridge. Fold it into the surrounding prose unless its brevity arises naturally from the completed thought and the manuscript already uses it as an established refrain.
 
@@ -132,15 +134,15 @@ Sentence rhythm is the music; compression removes padding, while causal expositi
 
 - **Causal expository prose for mechanisms.** When a paragraph explains how transmission, calibration, theft, drift, or preservation works, show the sequence in full. Combine related beats into varied sentences so the reason travels with the claim. *"A deviation is heard. Being heard, it is corrected"* compresses the outline but hides the mechanism. Explain that the distributed community already holds the auditory measure and can therefore detect and correct a deviation as it occurs.
 
-- **Less prose around bolded points.** When a Devanagari term + Roman + gloss appears in bold, do not write a follow-up paragraph that re-explains it. The bold and the gloss do the work. The next sentence does the next thing.
+- **Formatting does not replace explanation.** A bold Devanagari term, Roman rendering, and gloss identify the term, but the surrounding prose must still explain how it operates and why it changes the argument. Remove a follow-up sentence only when it genuinely repeats the same information.
 
-- **Appositive definitions over multi-clause definitions.** *"लीपि (lipi) is writing: linguistic content fixed in visible marks."* Not *"लीपि (lipi) is the Sanskrit name for writing — the technology of recording linguistic content in marks on a physical medium…"* Colon + tight phrase replaces em-dash + sub-clause + clarifying continuation.
+- **Definitions expand to meet the reader's need.** A familiar term may take an appositive definition, while an unfamiliar or load-bearing term may require several clauses or a full paragraph. Define **लिपि (*lipi*)** first as writing, then explain that it fixes linguistic content in visible marks and why that visible interface differs from the sound architecture it records. Do not prefer a shorter grammatical form merely because it is shorter.
 
-- **Paragraph length follows the operation.** Two to four sentences often suffice, but sentence count is not the target. Keep the steps together while one mechanism is being explained; split when the subject or operation changes. A long accumulation paragraph still has its place (the in-sentence catalog of §4; the old drumbeat set-piece only when explicitly earned), but it must earn the length.
+- **Paragraph length follows the operation.** Keep the steps together while one mechanism is being explained, and split when the subject or operation changes. No preferred sentence count or paragraph length applies. A developed explanation may need space; a simple observation may not.
 
 - **Strip amplifiers and reassurers.** *Indeed, in fact, of course, naturally, clearly, importantly, crucially, notably, certainly, obviously, undoubtedly, very, quite, simply, just.* These signal hedging or filler regardless of intent. Cut on sight. If the claim is true, it doesn't need *clearly*; if it needs *clearly*, the sentence isn't doing its work.
 
-- **Tighter list items.** Bullets carry only the substantive content. *"such as", "including but not limited to", "for example", "things like", "among others"* are filler. *"A, B, C, D — and the rest."* if exhaustion matters; otherwise name what is named and stop.
+- **List items state complete relationships.** Remove filler, but retain the actor, action, and consequence each item needs. A list should not become a row of labels or compressed verdicts merely because bullets already provide visual structure.
 
 - **No meta-narration about the prose itself.** Cut *"This section will examine…", "As Chapter N will develop…", "We will see that…", "The following paragraph argues…", "What follows is…"* Forward-pointer cross-references at the right moment carry the load (*"Chapter 14 lays out the matrix in full."* at the end of the relevant paragraph), not as preamble.
 
@@ -151,11 +153,12 @@ Sentence rhythm is the music; compression removes padding, while causal expositi
   2. Are there any *indeed / in fact / of course / clearly* tokens? Cut.
   3. Are there transition phrases at paragraph openings (*"Having seen…", "Building on…"*)? Replace them with the substantive causal relation, or cut them when the relation is already clear.
   4. Does any paragraph or section begin with an abstract bridge such as *a wider margin*, *the distinction*, *the framework*, *the pattern*, or *the next field*? Name the concrete noun, its action, and the relevant boundary or consequence.
-  5. Does any explanatory passage use three or more short declarations where one varied sentence would carry the mechanism more clearly? Rebuild the causal chain.
-  6. Does any section close on a summary or a taper? Find the last load-bearing sentence and end there instead.
-  7. Are bold Devanagari/Roman/gloss triples followed by re-explanation paragraphs? Cut the re-explanation.
+  5. Does a spatial or material metaphor replace a plain statement of what the reader knows, believes, sees, has been taught, or must infer? Restore the ordinary cognitive or causal verb.
+  6. Does any explanatory passage use three or more short declarations where one varied sentence would carry the mechanism more clearly? Rebuild the causal chain.
+  7. Does any section close on a summary or a taper? Find the last load-bearing sentence and end there instead.
+  8. Are bold Devanagari/Roman/gloss triples followed by re-explanation paragraphs? Cut the re-explanation.
 
-Compression removes padding; causal exposition preserves the bridge. Both pair with the §4 sentence-rhythm patterns and the Voice Prime Directive in CLAUDE.md. Named-agent active voice still governs, while every explanation must show enough mechanism for the reader to follow without reconstructing an outline.
+Editors may remove genuine repetition, filler, and empty signposting after confirming that the passage still identifies its actors, mechanism, sequence, and consequence. This rule pairs with the §4 sentence-rhythm patterns and the Voice Prime Directive in CLAUDE.md. Named-agent active voice still governs, while every explanation must show enough mechanism for the reader to follow without reconstructing an outline.
 
 ---
 
@@ -203,9 +206,9 @@ When coining a *new* term, follow the same shape: short, evocative noun phrase t
 - Treat as load-bearing concepts, not decoration. They do work in the argument; they don't merely flavor it.
 - Italicize on first use; thereafter, plain text.
 
-**Canonical *saṃskṛtam* gloss:** *perfectly synthesized* or *wholly created*. The dual translation is load-bearing. Deployed identically in Preface and Ch1; may be compressed in later chapters but not broken. Endnote `samskrtam-morphology` captures the rationale.
+**Canonical *saṃskṛtam* gloss:** *perfectly synthesized* or *wholly created*. The dual translation is load-bearing. Deploy it identically in Preface and Ch1; later chapters may use either approved gloss when the full pair has already been established. Endnote `samskrtam-morphology` captures the rationale.
 
-**Engineering thesis framing:** ***Engineered*** is an empirical-descriptive judgment applied to what is on the page and in the mouth today — the *varṇamālā*, the *dhātupāṭha*, the calibration matrix, the multi-axis grammatical system. The *Vedas* are what the *dṛṣṭāḥ* (दृष्टाः) saw — *mantra-dṛṣṭāḥ*, not *mantra-kartṛs*. No separate human agent-class is hypothesized between the eternal *śabda* and the *dṛṣṭāḥ*; the *Mīmāṃsā* doctrine of *apauruṣeyatva* (अपौरुषेयत्व) is the *paramparā*'s own anchor for this position. The grammarians decoded what the *Vedas* encode. **Do not use "architects of Sanskrit" or "anonymous engineers" as a designing-agent framing** — use ***engineered*** / ***architected*** / ***the architecture*** / ***what the dṛṣṭāḥ saw*** / ***what the Vedas encode*** / ***the engineering thesis*** / ***the selection logic***. Template for cases that previously deployed "architects observed / selected X": *"agents not visible / logic visible / architecture preserves the result."* Full framework: `reference/as_calibration_hierarchy.md`.
+**Engineering thesis framing:** ***Engineered*** is an empirical-descriptive judgment applied to what is on the page and in the mouth today — the *varṇamālā*, the *dhātupāṭha*, the calibration matrix, the multi-axis grammatical system. The *Vedas* are what the *dṛṣṭāḥ* (दृष्टाः) saw — *mantra-dṛṣṭāḥ*, not *mantra-kartṛs*. No separate human agent-class is hypothesized between the eternal *śabda* and the *dṛṣṭāḥ*; the *Mīmāṃsā* doctrine of *apauruṣeyatva* (अपौरुषेयत्व) is the *paramparā*'s own anchor for this position. The documenters decoded what the *Vedas* encode. **Do not use "architects of Sanskrit" or "anonymous engineers" as a designing-agent framing** — use ***engineered*** / ***architected*** / ***the architecture*** / ***what the dṛṣṭāḥ saw*** / ***what the Vedas encode*** / ***the engineering thesis*** / ***the selection logic***. When the human agents are unknown, say in full that their identities are unavailable while the selection logic remains visible in the architecture they preserved. Full framework: `reference/as_calibration_hierarchy.md`.
 
 ---
 
@@ -258,10 +261,10 @@ The compound *Indo-Aryan* never appears unquoted in the book's own prose. The se
 
 Acceptable in scare quotes when naming the pyramid's classification system, for reader convenience in mapping. Other pyramid classification labels in the same sentence take quotes alongside it for parallel attribution: *Marathi is a language the pyramid would classify as "Indo-Aryan"; Munda is classified as "Austro-asiatic."*
 
-Substitutes for the book's own register:
+Substitutes for the book's own prose:
 
 - ***Indic*** — civilizational-linguistic frame. *Indic substrate*, *Indic lineage*, *Indic languages*, *Indic diaspora*. Default substitute.
-- ***Sanskritic*** — register-derived frame. *Sanskritic numerical terms*, *Sanskritic throne names*, *Mitanni Sanskritic layer*.
+- ***Sanskritic*** — derivational frame. *Sanskritic numerical terms*, *Sanskritic throne names*, *Mitanni Sanskritic layer*.
 - ***pre-Vedic-Sanskritic*** — for phonologically pre-Vedic forms like Mitanni *aika*.
 - ***subcontinental Prākrit-Apabhraṃśa lineage*** — long form when descent path is the subject.
 
@@ -279,7 +282,7 @@ Pairs naturally with the catalog-drumbeat rhythm in §4: each clause names concr
 
 ### 7.3 "Tribal" and "Vernacular" — Colonial-Pejorative Vocabulary Rejected for Indic Categories
 
-Two distinct words, one parent: colonial vocabulary that places Indic categories below external classifications. *Tribal* subordinates Indic communities to the colonial-anthropological hierarchy; *vernacular* subordinates Indic languages to a classical-vs-low hierarchy borrowed from European philology. Both are rejected in the book's own register; both keep their place in scare quotes when the pyramid's classification is being attributed.
+Two distinct words, one parent: colonial vocabulary that places Indic categories below external classifications. *Tribal* subordinates Indic communities to the colonial-anthropological hierarchy; *vernacular* subordinates Indic languages to a classical-vs-low hierarchy borrowed from European philology. Both are rejected in the book's own prose; both keep their place in scare quotes when the pyramid's classification is being attributed.
 
 #### *Tribal*
 
@@ -289,7 +292,7 @@ Substitutes:
 
 - **forest dwellers** — default for *tribals* / *tribal people* / *tribal community*.
 - **forest belt** or **central forest belt** — for *tribal belt*; names geography without category-naming the communities.
-- ***vanavāsī*** वनवासी — Sanskrit anchor where register supports it.
+- ***vanavāsī*** वनवासी — Sanskrit anchor where the surrounding prose supports it.
 - **named language and named community** — name directly (Korku, Mundari, Santali, Ho, Sora, Gondi; the Santals, the Mundas, the Gonds).
 
 *"Tribal"* in scare quotes acceptable when the pyramid's classification is being attributed. *Scheduled Tribes* may appear when the legal apparatus itself is named.
@@ -305,32 +308,32 @@ Substitutes:
 - **languages** — plain English, default; chapter context names which (Marathi, Hindi, etc.). Often the cleanest replacement.
 - **calibrant-anchored languages** — within the engineering framework, where the asymmetric anchoring relationship to Sanskrit is the load-bearing structural fact (introduced Ch5 §5.6).
 - **Indic languages** — default civilizational frame.
-- **Sanskritic languages** — when register-derivation is specifically the point.
+- **Sanskritic languages** — when derivation from Sanskrit is specifically the point.
 - **natural languages** — when the natural-vs-engineered contrast (Sanskrit as engineered, all others as natural) is the load-bearing point.
 - **named languages** — Marathi, Hindi, Bengali, Tamil, Korku, Mundari, Santali, etc., directly. Often the strongest.
 
 *"Vernacular"* in scare quotes acceptable when attributing to the pyramid's classification. In technical-historical contexts where *vernacular* is the canonical academic name for a specific diglossia pair (e.g., Classical Chinese vs. *baihua*), prefer *colloquial* or name the specific tradition where possible.
 
-### 7.4 *Mode*, Not *Register*, for Sanskrit-Variety Distinctions
+### 7.4 Use the Exact Category: *Mode*, *Style*, *Voice*, or *Form*
 
-Vedic Sanskrit and Pāṇini-codified Sanskrit are not "two registers" or "two stages in a linear sequence of decay." They are **two modes** of the same Sanskrit system, engineered for different design purposes:
+Vedic and *laukika* Sanskrit are **two modes** of the same Sanskrit system, engineered for different design purposes:
 
 - ***Vedic mode*** — recitational-preservational. Preserves accent, meter, recitation, sacred sound. Engineering target: self-encrypting oral preservation through the *pāṭha* hierarchy, the *Prātiśākhya* apparatus, the *Śikṣā* tradition. The *mūrdhanya* set including the retroflex lateral ळ (*ḷa*) is fully operational.
 - ***Generative-analytical mode*** — Pāṇinian *bhāṣāyām*. Preserves the rules by which sound becomes word and word becomes meaning. Engineering target: rule-based completeness.
 
-Both modes are simultaneously available, both pre-existed the formal codification of either, both are operational. Pāṇini's *Aṣṭādhyāyī* distinguishes them as *chandasi* (Vedic mode) and *bhāṣāyām* (generative-analytical mode) — parallel functional domains, not historical stages. The *"Vedic → Classical Sanskrit"* reading as evolutionary descent is a Western interpretive overlay on what is, in the source text itself, a synchronic distinction.
+Both modes are simultaneously available, both precede Pāṇini's documentation, and both remain operational. Pāṇini's *Aṣṭādhyāyī* distinguishes them as *chandasi* (Vedic mode) and *bhāṣāyām* (generative-analytical mode) — parallel functional domains, not historical stages. The *"Vedic → Classical Sanskrit"* account imposes evolutionary descent upon a categorical distinction in the source text.
 
-**Three-term system:**
+**Category system:**
 
 - ***Mode*** — Sanskrit-variety distinction inside the same engineered system. Vedic mode / generative-analytical mode. Synchronic, both operational.
 - ***Style*** — text-class engineering-target distinction governed by *shruti* / *smriti*. Engineered for fundamentally different transmission purposes.
-- ***Register*** — discourse-style in the book's own voice and across the discipline's voices. *Polemic register*, *engineering register*, *analytical register*, *cultural-academic register*, *military-administrative register*.
+- ***Voice* or *idiom*** — the book's discourse posture. *Polemic voice*, *engineering idiom*, *analytical voice*, *public-facing prose*, *military-administrative language*.
 
-*Register* in prose about Sanskrit varieties is replaced with *mode* on sweep. *Register* in prose about *shruti* / *smriti* is replaced with *style* on sweep. *Register* survives for discourse-style usages.
+**The word *register* is banned from manuscript prose, captions, endnotes, contents, and reference summaries.** Replace it with *mode*, *style*, *voice*, *idiom*, *form*, *variety*, *speech level*, or a specific language name according to the actual meaning. Preserve it only inside an exact quotation or bibliographic title.
 
 ### 7.5 Academic Greek/Latin Adjectives — Plain English Primary, Sanskrit Anchor When Useful
 
-No Greek/Latin abstract adjectives in the book's own prose: no *liturgical*, *pedagogical*, *exegetical*, *homiletic*, *hermeneutic*, *soteriological*, *eschatological*, *catechetical*. These mark function at a seminary register that puts up a wall for the general reader and signals the argument is being made inside the discipline's diction rather than against it.
+No Greek/Latin abstract adjectives in the book's own prose: no *liturgical*, *pedagogical*, *exegetical*, *homiletic*, *hermeneutic*, *soteriological*, *eschatological*, *catechetical*. These mark function in seminary diction that puts up a wall for the general reader and signals the argument is being made inside the discipline's vocabulary rather than against it.
 
 Plain English naming the activity is primary: *teaching*, *training*, *worship*, *recitation*, *commentary*, *interpretation*, *sermon-style*, *for chanting*, *for learners*.
 
@@ -350,9 +353,9 @@ After first introduction, plain-English term carries alone. *liturgical mode* �
 - *the liturgical mode preserves accent and meter* → *the recitational mode (paṭha-mode पाठ) preserves accent and meter*, or *the Vedic mode — meant for chanting — preserves accent and meter*.
 - *a phonetic-pedagogical framework* → *a phonetic-training framework (śikṣā-framework शिक्षा)*, or *a framework of trained phonetic mastery*.
 
-**General principle (extends beyond Greek/Latin adjectives).** When the prose reaches for a slightly-formal synonym where the conversational alternative works: *catalog* → *list*, *commence* → *start*, *utilize* → *use*, *demonstrate* → *show*, *constitute* → *make up*, *facilitate* → *help*. The reader hears the academy in every such reach; the cumulative effect across a chapter is the difference between voice-driven prose and academic-register prose. Diagnostic: where two words convey the same meaning and surrounding prose is conversational, the shorter and plainer one wins.
+**General principle (extends beyond Greek/Latin adjectives).** When the prose reaches for a slightly-formal synonym where the conversational alternative works: *catalog* → *list*, *commence* → *start*, *utilize* → *use*, *demonstrate* → *show*, *constitute* → *make up*, *facilitate* → *help*. The reader hears the academy in every such reach; the cumulative effect across a chapter is the difference between voice-driven prose and academic prose. Diagnostic: where two words convey the same meaning and surrounding prose is conversational, the shorter and plainer one wins.
 
-**Exception.** Where the book is naming the discipline's own register polemically — Chapter 3's *church of progress* passage, for instance, where *catechetical* is doing precise institutional-religion-naming work and the seminary echo is part of the argument — the Greek/Latin adjective can stand. Criterion: does the diction serve the argument or concede to it? In Ch3's case it serves; in running prose about Indic transmission, it concedes.
+**Exception.** Where the book is naming the discipline's own diction polemically — Chapter 3's *church of progress* passage, for instance, where *catechetical* is doing precise institutional-religion-naming work and the seminary echo is part of the argument — the Greek/Latin adjective can stand. Criterion: does the diction serve the argument or concede to it? In Ch3's case it serves; in running prose about Indic transmission, it concedes.
 
 ### 7.6 Naming the Establishment — No Weasel Phrases
 
@@ -360,7 +363,7 @@ The book argues against specific institutional and intellectual frameworks, not 
 
 *"The standard discipline reading"* is the canonical bad example. *Standard* says nothing concrete; *discipline* names no community; *reading* names no claim. Reads as scholarly humility but functions as scholarly cowardice.
 
-**Banned in the book's own register (and permutations):**
+**Banned in the book's own prose (and permutations):**
 
 - *"The standard discipline reading"* / *"the standard scholarly reading"* / *"the standard academic reading"*
 - *"The conventional academic view"* / *"the conventional view"* / *"the conventional account"*
@@ -476,7 +479,7 @@ The asymmetry is intentional. India is the *Forever Nation* — integral, contin
 
 ## 12. Accessibility for Non-Academic Readers
 
-The polemic register and engineering vocabulary are not obstacles to general readers — they are what general readers come for. The accessibility risk is cumulative jargon density and the absence of plain-English landings.
+The polemic voice and engineering vocabulary are not obstacles to general readers — they are what general readers come for. The accessibility risk is cumulative jargon density and the absence of plain-English landings.
 
 ### 12.1 Addressee vs Audience
 
@@ -510,14 +513,14 @@ Include at least one example the reader uses in daily speech. *Hindi runs the re
 
 - **Don't hedge.** Twelve qualifiers per sentence is academic cowardice.
 - **Don't weasel-phrase the establishment.** Name concretely (§7.6).
-- **Don't write in procedural-polemic / position-paper register.** The sibling failure to recoverist register (see CLAUDE.md). Never let an abstract noun (*position*, *argument*, *view*, *reading*, *framework*, *contention*, *thesis*) be the grammatical subject of a polemic sentence. ❌ *"The contesting position refuses outright."* ✅ *"Codification is the dogma's invention. The Sanskrit word is vyākaraṇam — unfolding apart. The two name opposite operations."* The polemic must BE in the structure of the sentence — named concrete subject + direct verb + verdict — not narrated on top of it. Banned verb-patterns include *refuses outright*, *advances the position*, *holds the position*, *concedes*, *as a matter of structure / principle / argument*. Replace with named agents (*the dogma*, *the machinery*, *the pyramid*, *Sanskrit*, *Pāṇini*, *the engineering*, *the architecture*, *vyākaraṇam*) doing direct acts, or drop the meta-frame and state the claim directly.
+- **Don't write in a procedural-polemic or position-paper voice.** The sibling failure is recoverist prose (see CLAUDE.md). Never let an abstract noun (*position*, *argument*, *view*, *reading*, *framework*, *contention*, *thesis*) be the grammatical subject of a polemic sentence. ❌ *"The contesting position refuses outright."* ✅ *"Codification is the dogma's invention. The Sanskrit word is vyākaraṇam — unfolding apart. The two name opposite operations."* The polemic must BE in the structure of the sentence — named concrete subject + direct verb + verdict — not narrated on top of it. Banned verb-patterns include *refuses outright*, *advances the position*, *holds the position*, *concedes*, *as a matter of structure / principle / argument*. Replace with named agents (*the dogma*, *the machinery*, *the pyramid*, *Sanskrit*, *Pāṇini*, *the engineering*, *the architecture*, *vyākaraṇam*) doing direct acts, or drop the meta-frame and state the claim directly.
 
 - **Books and chapters may perform textual actions.** *This book argues*, *Chapter 8 compares*, *the section maps*, and *Figure 9.5 shows* are natural when they describe what the text genuinely does for the reader. Preserve them when replacement would create strained passivity, vague abstraction, or a false historical agent. Replace the textual subject only when it displaces the actor inside the substantive claim: the book did not engineer Sanskrit, the chapter did not hide a category, and the figure did not create the evidence. Recoverist personification remains out of voice: the book does not *walk, read X as Y, recover,* or *reclaim* its way toward a conclusion.
 
-- **"Reading" carries the procedural-polemic register more broadly.** The hermeneutic noun *reading* — whether naming the pyramid's interpretive stance or the book's — is banned. Includes: *the pyramid's reading* / *the botanical reading* / *the philological reading* / *the structural reading* / *the engineering reading* / *the [adjective] reading of [X]* / *misreading*. Convert to ***account*** / ***framing*** / ***model*** / ***position*** / ***framework*** by context. The verb *reads X as Y* (in interpretive sense) → *treats X as Y* or *frames X as Y*. *Reading off meaning* (extraction) → *extracting meaning*. **Preserved**: literal reading (*the English-reading world*, *a child reading*, *anyone who has read the* Aṣṭādhyāyī), domain technical terms (*qirāʾāt* "seven readings", textual-critical *variant readings*, *conjectural readings*).
+- **"Reading" carries the procedural-polemic voice more broadly.** The hermeneutic noun *reading* — whether naming the pyramid's interpretive stance or the book's — is banned. Includes: *the pyramid's reading* / *the botanical reading* / *the philological reading* / *the structural reading* / *the engineering reading* / *the [adjective] reading of [X]* / *misreading*. Convert to ***account*** / ***framing*** / ***model*** / ***position*** / ***framework*** by context. The verb *reads X as Y* (in interpretive sense) → *treats X as Y* or *frames X as Y*. *Reading off meaning* (extraction) → *extracting meaning*. **Preserved**: literal reading (*the English-reading world*, *a child reading*, *anyone who has read the* Aṣṭādhyāyī), domain technical terms (*qirāʾāt* "seven readings", textual-critical *variant readings*, *conjectural readings*).
 - **Don't load up on single-discipline jargon.** Cross-discipline metaphor is the move.
 - **Don't tell the reader what to feel.** Let contrast (Kampilya vs. Troy, the disarming of India vs. Jallianwala Bagh) do the emotional work.
-- **Don't finger-point at named figures from within the Indic tradition.** *Sabhyata* says preserve the lesson, abstract the name. Antagonists from outside the tradition can be assailed; betrayers within are unnamed by design.
+- **Make every personal name carry judgment.** Anyone named in body prose must be explicitly praised or shamed for an evaluated contribution or act. Neutral attribution, provenance, chronology, examples, and citations belong in the endnotes; the body refers to the work, institution, language, event, or action. Apply the same test to figures within and outside *Sanātan*: name and praise, name and shame, or move the name to the notes.
 - **Don't accept the West's analytical frame as default.** Even when using a Western reference (e.g., the US Constitution), reframe through Indic priors.
 - **Don't write both-sides essays.** The third frame is the point.
 - **Don't apologize for being political.**
@@ -544,19 +547,19 @@ Include at least one example the reader uses in daily speech. *Hindi runs the re
 
 Short illustrative excerpts. The calibration set. If a draft doesn't sound like it could sit alongside these, it isn't yet in voice.
 
-**Op-ed register (combative, structural):**
+**Op-ed voice (combative, structural):**
 
 > One of India's key strengths through the ages has been its ability to defend its way of life against all odds, whether it was in 1857 or the centuries and millennia before that… Hindus mastered the art of a distributed resistance.
 
-**Scholarly register (claim, then concrete pivot):**
+**Scholarly voice (claim, then concrete pivot):**
 
 > History was cremated, because most of the communication between the Indian leaders of the war was destroyed. So was objectivity.
 
-**Theoretical register (metaphor as argument):**
+**Theoretical voice (metaphor as argument):**
 
 > The Swastika replaces systemic efficiencies with individual efficiencies. The Swastika brings "balance" and "well being" by restoring what the Pyramid takes away from an individual: Freedom!
 
-**Civilizational register (comparison as evidence):**
+**Civilizational voice (comparison as evidence):**
 
 > Kampilya, unlike Troy, was never lost and its excavation was never a discovery.
 
@@ -570,7 +573,7 @@ The argue-don't-decorate rule extends to visuals. A figure earns its place when 
 
 **Categories that don't:** decorative photographs; rights-clearance burdens for marginal payoff; author photographs and biographical-context images.
 
-**Sub-§ headings: don't use them.** Section granularity is five-or-so §-level sections per chapter at major argumentative pivots. No sub-§-level headings; in-prose emphasis via bold-leading phrases or contrastive lines does the work.
+**Section hierarchy.** Numbered `##` sections carry major argumentative turns. Unnumbered `###` subheadings may expose distinct mechanisms, examples, or stages inside a long numbered section; two to four is usually enough. A short numbered section can become a `###` subheading under its logical parent when it merely develops that argument. Keep the numbered section when it performs an independent turn, introduces a load-bearing term, anchors a figure or epigraph, or delivers an earned refrain or close. Use direct, content-bearing headings rather than generic navigation labels such as *The Hinge*, *Why It Matters*, *The Argument*, or *What Comes Next*. Avoid over-segmentation: a subheading should normally govern at least two substantive paragraphs. Any demotion or renumbering of a numbered section must update manuscript cross-references, endnote deployments, figure references, and TOC material in the same pass.
 
 **Workflow.** Prose first, with placeholders inline at draft time. Production happens later, in one unified pass once chapter prose is set. Drafting against a placeholder forces commitment to what the visual *does*.
 
@@ -603,12 +606,12 @@ Before finalizing any draft:
 11. Did I keep diction **plain** — no academic Greek/Latin adjectives, no slightly-formal synonyms when conversational works (*list* not *catalog*)?
 12. Did I **name the establishment concretely** (*Western philology*, *AIT framework*, *Müllerian reading*)? Name the figure as strawman where applicable? Name the actors not the abstraction when the polemic targets a collective?
 13. Did I use **internal-frame anchors** (*Vedic mode*, *Post-Pāṇinian Sanskrit*, *Munda lineage*) over external philological classifications?
-14. Did I apply the **sentence-level clarity moves** — positive specification over double negation, parallel possessives, the unmarked badness-word, and brief technical codas only where they complete the same thought?
+14. Did I apply the **sentence-level clarity moves** — positive specification over double negation, parallel possessives, the unmarked badness-word, and technical clarification placed where the reader needs it?
 15. Did I include at least one **familiar example** from the reader's daily speech or life?
-16. Did I avoid finger-pointing at named figures within the Indic tradition?
+16. Does every person named in body prose receive explicit praise or condemnation, with neutral personal attribution moved to the endnotes?
 17. Did I let **contrast do the emotional work**?
 18. Did I follow the **chronology rule** — qualitative for Indic, datable for non-Indic?
-19. Did I avoid *Indo-Aryan* unquoted? *Tribal* anywhere? *Register* for Sanskrit-variety distinctions?
+19. Did I avoid *Indo-Aryan* unquoted, *tribal* anywhere, and the banned word *register* throughout the manuscript?
 20. Could this passage sit beside the sample passages (§15) without sounding like a different writer?
 
 If most answers are *no*, the draft isn't yet in voice.

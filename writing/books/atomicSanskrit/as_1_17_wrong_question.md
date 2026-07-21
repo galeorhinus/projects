@@ -4,7 +4,7 @@
 
 That is the question Proto-Indo-European tries to answer. The question is wrong.
 
-The architecture is now on the table: the engineered sound-grid, the *dhātavaḥ*, the generative rules, the retroflex core, the calibration matrix, the living recitation system, and the formal grammatical disciplines that preserved and decoded the whole. The object in front of the reader is not a natural speech-form drifting from a prior natural speech-form. It is an engineered linguistic architecture.
+The preceding chapters have established an engineered sound-grid, the *dhātavaḥ*, generative rules, a retroflex core, a calibration matrix, a living recitation system, and the analytical disciplines that preserved and decoded the whole. Together, these features describe an engineered linguistic architecture rather than a natural speech-form drifting from an earlier natural speech-form.
 
 Part VI turns to the account that has continued to treat this object as something else. The next two chapters divide that work. Ch17 establishes the structural argument: the genealogical project asks the wrong question of Sanskrit, and any precursor model held inside that project will fail the same structural test for the same structural reason. Chapter 18 tests the specific construct — PIE — directly. Together the two chapters close the loop opened in Chapter 1: the botanical metaphor fails on a language engineered against the behavior the metaphor describes; Ch17 develops the structural reason no genealogical reconstruction can recover what the metaphor has prevented from being seen.
 
@@ -121,7 +121,7 @@ The pyramid does not know Sanskrit's origin. It has no inscription of PIE, no sp
 10. Every link in the chain is required because the first link must be preserved: Sanskrit cannot be the engineered calibrant at the center. It must be one member of the manufactured family of co-descended languages.
 11. The chain held because no one had falsified its links. The architectural test of §17.1, applied across the preceding chapters, contests every link. The links are no longer unfalsified.
 
-The result is a complete speculative chain: imaginary PIE, external homeland, racial Arya thesis, substrate-borrowed retroflexes, evolving *"Vedic Sanskrit,"* Pāṇinian codification, *"Classical Sanskrit"* as later standardization.
+The pyramid links each speculation to the next: imaginary PIE requires an external homeland and a racial Arya thesis; the incoming language then borrows retroflexes from a substrate, evolves as *"Vedic Sanskrit,"* and finally becomes standardized as *"Classical Sanskrit"* through Pāṇinian codification.
 
 The chain is the recipe. PIE is the bake.
 
@@ -174,7 +174,7 @@ This argument does not require denying movement; denying movement would merely a
 
 The trap asks the reader to choose between inward migration and outward migration. Sanskrit asks a better question: what was built, how was it preserved, and what kind of civilization could hold it?
 
-The answer is not to deny movement. The answer is to restore authorship.
+Restoring authorship leaves ample room for human movement without allowing movement to stand as proof that Sanskrit was created elsewhere.
 
 ## 17.7 An Honest Speculation for the Rationalist Mind
 
@@ -238,6 +238,6 @@ While the civilization keeps the memory active, the machinery changes its object
 
 The asuric pyramid holds only as long as that move holds.
 
-The architecture collapses that move. Calibration cannot be reduced to drift before Pāṇini or codification after him.
+Sanskrit's calibration architecture rules out that forced choice because it cannot be reduced to drift before Pāṇini or codification after him.
 
 Chapter 18 tests PIE itself.

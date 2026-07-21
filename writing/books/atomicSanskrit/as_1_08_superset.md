@@ -36,7 +36,7 @@ That field is visible before Sanskrit is formally revealed as a grid. Southern l
 
 The physical question comes first: which mouth-positions and sound-actions are available across the subcontinent? The genealogical question follows.
 
-The answer is the field. The grid comes after the field.
+The comparison must begin with the regional sound-field, because Sanskrit's grid can be tested only after the available sounds are visible.
 
 The epigraph gives the chapter its caution. Human beings speak only the fourth quarter of Speech; the rest remains hidden to ordinary utterance. This chapter does not claim to unveil the hidden three. It begins with the spoken field itself: the bodily sound-material available across the subcontinent before Sanskrit selects and orders it. Even at that visible level, the subcontinental sound-field is larger than any one language.
 
@@ -54,7 +54,7 @@ Modern linguistics describes this as the difference between a **phoneme** and an
 
 So the survey compares **slots**, not every sound a speaker can physically produce. A slot is a contrastive coordinate the language keeps available for making distinctions. Sanskrit's engineering move is to turn selected sounds into stable sonomeric coordinates: placed, labeled, timed, and available for grammar.
 
-That distinction prevents two confusions. It prevents script confusion: a script may lack a separate sign for a sound the speaker can physically produce. It also prevents phonetic confusion: a language may allow a sound as a contextual realization without counting it as a structural unit.
+Keeping physical capability separate from a language's selected inventory prevents two confusions. A script may lack a separate sign for a sound that its speakers can physically produce, and a language may permit a sound as a contextual realization without treating it as an independent structural unit.
 
 Every spoken language has contextual sound. That alone does not prove engineering. The engineering signature is what Sanskrit does next: it selects the slots, orders them by the mouth, labels the places and efforts, times them, and makes the chosen set available for grammar.
 
@@ -104,7 +104,7 @@ For the sound-field survey, “Dravidian” refers only to the pyramid’s lingu
 
 The first survey deliberately begins with languages the machinery classifies outside the Sanskritic and north-Indian bucket. That choice removes an easy deflection. If the test began with Hindi, Marathi, Bengali, Gujarati, Punjabi, or other languages the pyramid calls "Indo-Aryan," the response would be immediate: of course they look like Sanskrit; they come from Sanskrit. So the test begins elsewhere.
 
-The point is methodological. Use the pyramid's own categories first. Then test whether the sound-field obeys those categories. The sound-field exceeds the buckets.
+The comparison first applies the pyramid's own language-family categories and then tests whether the sound-field follows their boundaries. It does not: the sounds recur across the classificatory buckets.
 
 The same caution applies to labels such as *"Munda"* (used here only as the pyramid's family label, not the Munda people-name) and *"Austro-Asiatic"*. They are useful for identifying which modern classificatory bucket is being tested. The working category is simpler and more physical: subcontinental sound-field.
 
@@ -185,7 +185,7 @@ The result is 14 of 23.
 
 Fourteen is still a real overlap. All humans share the same broad vocal apparatus, so stops, nasals, labials, dentals, velars, and approximants recur across the world. External languages obviously share some coordinates with Sanskrit.
 
-The question is whether they occupy the same field with the same density. The density differs.
+The external controls occupy parts of the same human sound-field, but they cover Sanskrit's selected coordinates far less densely.
 
 This control is useful because the reader already knows these languages by cultural weight. English dominates the modern global classroom. French holds a long prestige history in Europe. Greek is one of the major pillars in the Indo-European story. If the pyramid's family story predicted the sound-field strongly, this set should look closer to Sanskrit than the southern and forest-belt sets do. Instead, it sits farther away.
 
@@ -197,7 +197,7 @@ The result is 12 of 23.
 
 This control is geographic rather than genealogical. Tajik, Kazakh, and Kyrgyz form a corridor test rather than one linguistic family. The racial Arya thesis and its softened migration vocabulary repeatedly point the reader toward Central Asia. So the chart tests a geographic question: does that corridor look like the source-field for Sanskrit's base? The answer is weak.
 
-The contrast is visible without technical machinery:
+The four coverage figures make the geographic contrast visible:
 
 - Southern set: 20 of 23.
 - Forest-belt set: 18 of 23.
@@ -210,7 +210,7 @@ In this way, the sound-field behaves precisely like anchored geography rather th
 
 ## 8.9 The Gaps Are Neighbors
 
-The gaps show where the engineering becomes visible.
+The coordinates left unmatched by each comparison set reveal how Sanskrit selected precise sonomers from broader regional sound-zones.
 
 While a natural sound-field inherently gives broad zones, a strictly calibrated language deliberately chooses exact coordinates. Therefore, Sanskrit's most visible engineering act is the methodical conversion of these loose zones into perfectly exact sonomeric slots.
 
@@ -258,7 +258,7 @@ Sanskrit turns that gesture into a sonomeric contrast.
 
 The same breath-axis continues beyond the stop matrix into **विसर्ग (*visarga*)**. A *mahāprāṇa* stop releases controlled breath after contact; *visarga* releases controlled breath after a vowel. Its basis is the same engineering principle: Sanskrit makes breath structural. *Sandhi* rules hold that transition: what happens when released breath meets the next sonomer, not spelling conventions.[NOTE: visarga-anusvara-articulation]
 
-The move belongs to a larger discipline of **प्राण (*prāṇa*)**. A civilization that treats breath as a real category of embodied practice also builds a language in which breath becomes structurally visible. Yoga, recitation, mantra, and grammar all meet here. Breath becomes an operating dimension.
+Sanskrit's treatment of breath belongs to the larger discipline of **प्राण (*prāṇa*)**. Because the civilization trains breath through yoga, recitation, and mantra, its grammar can also make breath structurally visible as an operating dimension of sound.
 
 This also explains why *mahāprāṇa* is structural. It is one of Sanskrit's most elegant engineering moves: more distinction without horizontal crowding. The system keeps the mouth-places clean and lets breath do additional work.
 
@@ -283,4 +283,4 @@ The cascade in one line:
 | English + French + Greek | 14 / 23 | Familiar Western European languages sit farther away. |
 | Tajik + Kazakh + Kyrgyz | 12 / 23 | The Central Asian corridor does not look like the source-field. |
 
-The field is here. Sanskrit's next act is the **वर्णमाला (*varṇamālā*)**, the selected sonomeric grid. The Vedic image for that act is Speech refined through a sieve and gathered into usable form.
+These comparisons locate the sound-field in the subcontinent. Sanskrit then selects and orders sounds from that field as the **वर्णमाला (*varṇamālā*)**, a process the Vedic image describes as Speech refined through a sieve and gathered into usable form.

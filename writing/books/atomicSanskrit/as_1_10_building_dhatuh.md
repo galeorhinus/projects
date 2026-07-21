@@ -67,7 +67,7 @@ The *Dhātupāṭha* (धातुपाठ) is the inventory of semantic atoms.
 
 Comparative perspective sharpens the category: Semitic languages hold consonantal semantic bases, and Tamil grammar recognizes verbal bases.[NOTE: dhatu-cross-linguistic-analogues] What distinguishes the Sanskrit *dhātuḥ* is the full architecture around it: sonomeric inventory, timing, scaffold, bonding, and rule-system.
 
-The architecture is three-layered:
+The atom has three architectural layers:
 
 - **वर्णाः (*varṇāḥ*)** — sonomers.
 - **धातवः (*dhātavaḥ*)** — stable semantic atoms built from those sonomers.
@@ -103,7 +103,7 @@ This exhibits classic electron behavior: while electrons do not hold the atom's 
 
 The Sanskrit system then calls the stable result **अक्षरम् (*akṣaram*)** — the imperishable. A *svaraḥ* can stand alone, or one or more *vyañjanāni* can bond around it into a stable sound-unit, and the script captures that unit as an audiograph. The *akṣaram* is the stable sound-bond made visible.
 
-The sequence is exact:
+Each step in the following sequence preserves the measured structure of the atom:
 
 > *svaraḥ* as nucleus.  
 > *vyañjanam* as electron.  
@@ -230,7 +230,7 @@ That is the work of **असंदिग्धम् (*asaṃdigdham*)**: unambi
 
 The cleanest test compares scaffolds inside the same timing budget. If duration alone explained the inventory, then two shapes with the same *mātrā* value should behave roughly alike. They do not.[NOTE: scaffold-distinguishability-by-matra]
 
-The question is simple: when Sanskrit has the same amount of pronunciation time available, does it prefer a bare vowel or a more defined scaffold? The answer is clear. The system spends its time on acoustic edges.
+When Sanskrit has the same amount of pronunciation time available, it favors a more defined scaffold over a bare vowel and spends that time creating acoustic edges.
 
 | *Mātrā* budget | Inventory entries | Dominant scaffold | Share inside the bucket | Distinguishability signal |
 |---:|---:|---|---:|---|
@@ -312,7 +312,7 @@ The compact *krādi* <img src="figures/_shared/icons/scaffold_cv1_gray.svg" styl
 
 The same scaffolds that compress the inventory also hold Sanskrit in use. The *racanā* is not a naming convenience. It is part of the architecture.
 
-The claim remains bounded: the measured scaffold survives the move from inventory to Sanskrit in use. Once the scaffolded atom exists, how does Sanskrit activate it into a *kriyāpada* without losing sonomeric precision?
+The measured scaffold persists when the analysis moves from the *Dhātupāṭha* inventory into Sanskrit in use. Chapter 11 can therefore ask how Sanskrit activates a scaffolded atom as a *kriyāpada* without losing sonomeric precision.
 
 The *dhātuḥ* passes the fifth test. It is *viśvatomukham*: one compact atom can face many directions without losing the center from which those directions unfold.
 

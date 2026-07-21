@@ -6,9 +6,9 @@ Use direct, declarative, college-level English.
 
 Preserve the book's core terminology — *dhātuḥ*, sonomer, *racanā*, scaffold, *mātrā*, *prayoga*, calibration, architecture — but explain each conceptual move in sequence.
 
-Avoid academic hedging, inflated abstraction, insider shorthand, and recoverist phrasing. Explain dense claims through concrete actors, operations, and consequences. Prefer clarity over compression when the reader needs the bridge.
+Avoid academic hedging, inflated abstraction, insider shorthand, and recoverist phrasing. Explain dense claims through concrete actors, operations, and consequences. Clarity and full articulation always take precedence over compression.
 
-The voice should remain confident, prosecutorial, and architectural: state what is being tested, why the test matters, what the evidence shows, and what conclusion follows.
+The voice should remain confident, prosecutorial, and architectural: state what is being tested, why the test is necessary, what the evidence shows, and what conclusion follows.
 
 ## Rewrite Discipline
 
@@ -27,7 +27,7 @@ When rewriting existing prose:
 
 Books, chapters, sections, figures, and tables may perform actions that texts genuinely perform: they may *argue, introduce, compare, map, survey, trace, show, propose, return to,* or *summarize*. Use them when they accurately describe the reader's movement through the text and when replacing them would create a strained passive construction or assign the work to the wrong actor.
 
-The restriction applies when a textual unit displaces the actor inside the substantive claim. A book does not engineer Sanskrit, preserve the Vedas, hide a category, or convert a linguistic label into a political division; the architects, lineages, pyramid, philologists, and missionaries perform those actions. Also avoid recoverist personification in which the book *walks, reads, recovers,* or *reclaims* its way toward a hesitant conclusion.
+The restriction applies when a textual unit displaces the actor inside the substantive claim. A book does not engineer Sanskrit, preserve the Vedas, hide a category, or convert a linguistic label into a political division; the Vedic architecture, lineages, pyramid, philologists, and missionaries perform those actions. Also avoid recoverist personification in which the book *walks, reads, recovers,* or *reclaims* its way toward a hesitant conclusion.
 
 The test is functional: if the sentence describes what the text actually does for the reader, the textual subject is natural. If it describes what happened in language, history, or institutions, use the actor that performed the action.
 
@@ -151,7 +151,7 @@ Keep the noun and adjective forms distinct:
 - nouns / category names: *prakṛti*, *saṃskṛti*, *vikṛti*.
 - adjectives: *prākṛtika*, *sāṃskṛtika*, *vaikṛtika*.
 - *prākṛta* may describe what is naturally formed or identify a historical
-  *Prākṛta* language or register.
+  *Prākṛta* language or linguistic form.
 - *saṃskṛta* names the wholly created form and the language; *Sanskritic* is
   the English adjective for something pertaining to Sanskrit. Neither replaces
   *sāṃskṛtika* when the intended adjective is derived from *saṃskṛti*.
@@ -260,13 +260,7 @@ Avoid:
 - compressed insider shorthand that requires the reader to infer the bridge
 - recoverist language that makes the book sound like it is apologizing for making a claim
 
-Prefer:
-
-- "The point is..."
-- "The test is..."
-- "The evidence shows..."
-- "The distinction matters because..."
-- "The conclusion follows..."
+Prefer sentences that identify the concrete actor or object, the operation being tested, and the consequence. Do not replace one metadiscursive formula with another formula such as *The point is*, *The test is*, *The distinction matters because*, or *The conclusion follows*.
 
 ## Public-Facing Voice
 

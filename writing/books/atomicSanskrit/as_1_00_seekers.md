@@ -92,7 +92,7 @@ The same rule governs the contested words ahead. *Asura*, *ārya*, *saṃskṛta
 
 ## 0.4 *Saṃskṛtam* and *Prākṛtāni*
 
-The language's own name — *saṃskṛtam* संस्कृतम्, *perfectly synthesized* or *wholly created* — stands across from *prākṛta* प्राकृत, the natural and the changing. That distinction opens the engineering argument.
+The first evidence of the engineering thesis is the language's own name: *saṃskṛtam* संस्कृतम्, *perfectly synthesized* or *wholly created*, distinct from *prākṛta* प्राकृत, the natural and the changing.
 
 *Prākṛta* is what ordinary process produces: local idiom, songs, sayings, and everyday forms, all of it shifting as the conditions of life shift. *Saṃskṛta* is what conscious formation makes and preservation holds. The civilization that built Sanskrit runs both and gives each its dignity through purpose. Everyday speech may change, because living speech must meet living circumstance. A *Vedic mantra* must stay exact, because its purpose is exact transmission. The *prākṛta* flows; the *saṃskṛta* holds.
 
@@ -100,7 +100,7 @@ The language's own name — *saṃskṛtam* संस्कृतम्, *perfec
 
 These are three fields, each with its own duty. The *vaidika* preserves invariant language and content. The *laukika* preserves the language while extending its use and tending its corpus. The *prākṛtika* lets language and content change with daily life. Together they are a civilization keeping three promises at once.
 
-Exact Vedic preservation requires the *vaidika* domain to retain every articulation demanded by a mantra, including sounds produced only under a stated condition. The *laukika* domain, whose name means *worldly*, must provide vocabulary for a changing field of activity while keeping the language invariant. Sanskrit meets that second demand through a highly generative architecture capable of producing millions of words, and continuing generation requires a reusable sonomer inventory whose members combine consistently throughout the system. Chapter 9 will show how one sound architecture can satisfy both requirementss.
+Exact Vedic preservation requires the *vaidika* domain to retain every articulation demanded by a mantra, including sounds produced only under a stated condition. The *laukika* domain, whose name means *worldly*, must provide vocabulary for a changing field of activity while keeping the language invariant. Sanskrit meets that second demand through a highly generative architecture capable of producing millions of words, and continuing generation requires a reusable sonomer inventory whose members combine consistently throughout the system. Chapter 9 will show how one sound architecture can satisfy both requirements.
 
 ![Figure 0.1 — The three fields. *Saṃskṛta*, the wholly created language, runs in two domains. The *vaidika* holds language and content invariant. The *laukika* holds the language invariant while generative usage adapts and its curated corpus remains selected, accretive, and lossy. Beside them, *prākṛtika* flows as the changing natural speech of daily life. All three run the full span from *anādi* to *ananta*.](figures/seekers/sanatana_triad.svg){#fig:sanatana-triad width=100%}
 
@@ -122,7 +122,7 @@ The continuum measures all of this in its own time — *Sanātana* time. Tretā 
 
 ## 0.6 A Language of Infinity
 
-The opening puzzle gave two answers: zero and infinity. The civilization that engineered Sanskrit made both operational — first in counting, then in language.
+The opening puzzle has two answers: zero and infinity. The civilization that engineered Sanskrit made both operational — first in counting, then in language.
 
 Ten symbols — *0* through *9* — span all of arithmetic. Position determines the value: the *2* in *246* is *two hundred*, the *2* in *26* is *twenty*, the *2* in *2* is *two*. The idea that makes it work is *śūnya* शून्य, the mark for absence at a position. Without zero, place value collapses; with zero, ten symbols reach every number there is. The world still counts this way — the Hindu-Arabic numerals of the reference works, which the Arabic mathematical discipline received and refined from the Indic one and took west across the medieval period.[NOTE: place-value-arabic-transmission] The Indic origin is documented and uncontested, even where the academy domesticates the engineering as a discovery rather than recognizing it as engineering.
 
@@ -160,7 +160,7 @@ If Sanskrit is the calibrant, then returning to Sanskrit is civilizational work,
 
 Sanskrit's engineering, architecture, and civilizational transmission can be followed without prior Sanskrit study. Readers who have studied the language will recognize many of the features ahead, now placed in a category very different from the one the academy handed them — and familiar material reveals more once the category around it changes.
 
-The claim is architectural: Sanskrit is the calibrant, and its architecture is fractal. Here, *fractal* means the same organizing law recurring across scale. The proof proceeds from the ground up — mouth, sound-field, sonomeric grid, semantic atom, verbal molecule, sentence assembly, *sūtra*, and calibration matrix — because each level keeps the lower level visible and allows the recurrence to be tested.
+Sanskrit operates as a calibrant through a fractal architecture, in which the same organizing law recurs across scale. The chapters test that recurrence from the ground up — mouth, sound-field, sonomeric grid, semantic atom, verbal molecule, sentence assembly, *sūtra*, and calibration matrix — because each level keeps the lower level visible.
 
 The seekers and caretakers now stand against another fractal: the asuric pyramid. It is a finite order that repeats command, conquest, and enclosure at every scale. Sitting at the top of that pyramid is the apex. He is threatened by Sanskrit because Sanskrit preserves a distributed order beyond his reach. The battle that follows clears the shadow he casts across the field.
 

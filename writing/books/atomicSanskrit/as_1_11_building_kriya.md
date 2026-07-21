@@ -112,7 +112,7 @@ The formula compresses the procedure without standing in for it.
 
 A **गणः (*gaṇaḥ*)** is an operational class — it tells the grammar how a *dhātuḥ* behaves once grammar puts it to work. The **विकरणम् (*vikaraṇam*)** is the operation itself, the class-signature that activates the *dhātuḥ* inside its *gaṇaḥ*.[NOTE: vikarana-as-column-signature] And the **अङ्गम् (*aṅgam*)** is what stands between the two and the ending: the atom after the operation has prepared it, one step short of the finished molecule.
 
-The sequence is straightforward:
+Pāṇini's procedure follows these steps:
 
 1. Start with the *dhātuḥ*.
 2. Identify its *gaṇaḥ*.
@@ -289,7 +289,7 @@ The figure is one possible table, not the table. The analysis tested multiple ax
 
 They operate as orthogonal dimensions of one architecture.
 
-The structure shows because the operation requires it. ⟪कृ⟫, ⟪हृ⟫, and ⟪वृत्⟫ hold ऋ. ⟪धा⟫, ⟪दा⟫, ⟪स्था⟫, ⟪ज्ञा⟫, and ⟪या⟫ hold आ. ⟪गम्⟫, ⟪क्रम्⟫, ⟪हन्⟫, and ⟪पद्⟫ hold अ. The C4 voiced-aspirate column is enriched in *juhotyādi*: 33.3% in the inventory and 42.9% in the subset visible in the corpus.[NOTE: cross-gana-column-distribution]
+The distribution reflects the sounds each operation acts upon. ⟪कृ⟫, ⟪हृ⟫, and ⟪वृत्⟫ hold ऋ; ⟪धा⟫, ⟪दा⟫, ⟪स्था⟫, ⟪ज्ञा⟫, and ⟪या⟫ hold आ; and ⟪गम्⟫, ⟪क्रम्⟫, ⟪हन्⟫, and ⟪पद्⟫ hold अ. The C4 voiced-aspirate column is enriched in *juhotyādi*: 33.3% in the inventory and 42.9% in the subset visible in the corpus.[NOTE: cross-gana-column-distribution]
 
 That number is a procedural fit, not just a distribution fact. *Juhotyādi* is the reduplicating class, and reduplication doubles the initial signal, so the doubled consonant has to stay recognizable across the syllable boundary; C4 — voiced, aspirated, breathy — is the acoustically robust column, and the architecture parks its most distinctive consonants exactly where the operation needs the most distinction. The sounds are distributed strictly by function.
 

@@ -52,9 +52,9 @@ These figures are valuable, but the prose can survive longer without them.
 | Status | Figure | Source | Purpose | Production Note |
 |---|---|---|---|---|
 | `[x]` | Figure 5.1 — Long Memory of Sanskrit Grammar | `as_1_04_siddha.md` | Make pre-Pāṇinian decoding lineage and Trimuni stack visible. | Rendered as `figures/siddha_grammar/lineage_stack.svg`. |
-| `[x]` | Figure 6.1 — *Gauḥ* and Four *Apabhraṃśas* | `as_1_05_apabhramsa.md` | Show one calibrated form with many fallings-away. | Rendered as `figures/apabhramsa/gauh_four_apabhramsas.svg`. |
-| `[x]` | Figure 6.2 — Drift, Codification, Calibration | `as_1_05_apabhramsa.md` | Visualize the three-category standardization model. | Rendered as `figures/apabhramsa/drift_codification_calibration.svg`. |
-| `[ ]` | Figure 6.3 — Calibrant Envelope | `as_1_05_apabhramsa.md` | Show Sanskrit as calibrant, calibrant-anchored regional languages, and uncalibrated drift. | Three-tier horizontal axis. |
+| `[x]` | Figure 6.1 — *Gauḥ* and Four *Apabhraṃśas* | `as_1_06_apabhramsa.md` | Show one calibrated form with many fallings-away. | Rendered as `figures/apabhramsa/gauh_four_apabhramsas.svg`. |
+| `[-]` | Former Figure 6.2 — Drift, Codification, Calibration | `as_1_06_apabhramsa.md` | Earlier three-column standardization model. | Removed from the body after Chapter 2 established the canonical four-behavior grid; source retained under `figures/apabhramsa/`. |
+| `[ ]` | Figure 6.3 — Calibrant Envelope | `as_1_06_apabhramsa.md` | Show Sanskrit as calibrant, Marathi and Hindi in orbit, and forms beyond the active field. | Three-tier horizontal axis; body placeholder removed until the figure is built. |
 | `[ ]` | PARKED — *Dhātuḥ* Across Indic Sciences | `as_1_06_dhatuh.md` | Show one technical term carrying one architectural function across domains. | Standalone *dhātuḥ* chapter is dissolved; renumber or relocate during the Ch 10 fold. |
 | `[ ]` | PARKED — Saptadhātu Cascade | `as_1_06_dhatuh.md` | Show constitutive body-layer cascade. | Standalone *dhātuḥ* chapter is dissolved; renumber or relocate during the Ch 10 fold. |
 | `[x]` | Figure 7.1 — Vocal Apparatus | `as_1_07_adivadya.md` | Ground the mouth as instrument and show the articulating regions. | Rendered as `figures/adivadya/vocal_tract_anatomy.svg`; replaces the separate modern speech-science mouth map. |

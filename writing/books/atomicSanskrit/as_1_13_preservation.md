@@ -42,13 +42,13 @@ The civilization that engineered Sanskrit organized its world through a function
 
 **संस्कृत (*saṃskṛta*)** is the wholy-synthesized/engineered: it is what has been worked, refined, and deliberately held against drift. *Saṃskṛta* serves as the name of the language itself because the language structurally belongs to this category. Consequently, the *Vedas*, the phonetic specification, the formal grammar, the *dhātu* inventory, and the metrical system are not left to ordinary flow; rather, they are held.
 
-The distinction maps directly to **सनातन (*sanātan*)** — the perpetual, the ground that does not move. *Saṃskṛta* forms are built to be *sanātan*. *Prākṛta* forms are allowed to change. This is not a hierarchy. It is engineering classification.
+**सनातन (*sanātan*)** denotes the perpetual ground that does not move. *Saṃskṛta* forms are built to remain on that ground, while *Prākṛta* forms serve purposes that allow them to change. The classification assigns each form a function rather than a rank.
 
 The Sanskrit grammatical literature calls the two modes directly: **प्राकृतिक (*prākṛtika*)** for the flowing category, **सांस्कृतिक (*sāṃskṛtika*)** for the held-against-drift category. The categories are functional, not hierarchical.
 
 A local story is *prākṛtika* by purpose, meeting the listener where the listener lives, where change acts as renewal. A Vedic phonetic form is *sāṃskṛtika* by purpose, demanding identical transmission across generations, where change is degradation.
 
-The question is therefore not how a civilization preserves everything, but something narrower:
+The *sāṃskṛtika* bucket therefore requires a technology capable of preserving it without drift:
 
 > What technology preserves the *sāṃskṛtika* bucket without drift?
 
@@ -84,7 +84,7 @@ What survives from writing cultures is overwhelmingly pyramid media — royal ed
 
 A non-pyramidal or distributed use of writing would leave a thinner record. If Brāhmī or a precursor was used for notes, accounts, teaching aids, correspondence, working drafts, or mnemonic prompts, the medium would have been perishable. Palm leaf, birch bark, cloth, wood, and temporary writing surfaces do not survive Indian climate and history the way stone survives. The absence of such material is not evidence of absence. It is the predictable silence of perishable media.
 
-The category theft is therefore doubled. The pyramid's account dates the surviving interface and treats that date as the date of the script. Then it dates the script and treats that date as the date of the sound-system. Neither move follows. Glyph chronology is not *varṇamālā* chronology. Stone dates what stone preserved. It does not date the engineering the stone renders. Appendix Part 3 §3.6 develops the survival-archive argument in full, with named exemplars across the Indic and Mediterranean record. The pyramid's label *abugida* describes a surface mechanism; it does not capture the audiographic engineering the script holds.
+The pyramid commits category theft twice. It first dates a surviving written interface and treats that date as the origin of the script; it then dates the script and treats that second date as the origin of the sound-system. Stone can date the marks it preserved, but it cannot date the *varṇamālā* engineering those marks render. Appendix Part 3 §3.6 develops the survival-archive argument in full through examples from the Indic and Mediterranean record. The pyramid's label *abugida* describes a surface mechanism while leaving the audiographic engineering unrecognized.
 
 The ***foundational dogma***'s softer version is more revealing: Brāhmī was adapted brilliantly from a Western source by an unnamed Indic genius. The praise sounds generous. It performs erasure. The brilliance is assigned to the adapter of an interface; the engineering of the sound-system disappears. Appendix Part 3, *The Sonomer and the Audiograph*, develops the argument in full and coins ***audiography*** for the engineered visual capture of articulated sound the script implements. Calling Brāhmī an *abugida* — or filing it under any other surface category of script — is like calling the decimal place-value system "numeral notation." It catalogs the visible symbols and misses the architecture that lets a handful of them generate everything. The glyphs are secondary; the *varṇamālā* is the grid that *audiography* renders into script.
 
@@ -96,7 +96,7 @@ The rebuttal follows the same sequence: Sanskrit's sound-system was engineered, 
 
 Brāhmī is not a consonantal-alphabetic script of the Aramaic family with a brilliantly-organized Indic surface bolted on top. Brāhmī is the *varṇamālā* made visible. Each consonant glyph maps to a specific *sthāna* and *prayatna* in the engineered phonology Chapter 9 lays out; each vowel glyph holds the temporal specification of its *swara*; the script's own pedagogical ordering reflects the *varga* matrix the *Prātiśākhya* discipline transmits. Devanagari encodes the same *varṇamālā* with different surface glyphs — the structural identity of the two scripts as *varṇamālā* renderings is what makes Devanagari fully readable to anyone who knows the *varṇamālā*. There is no adaptation of an Aramaic template that produces the *varga* matrix, the *sthāna* / *prayatna* organization, or the vowel-diacritic system mapping to the *swara* inventory; those features are not in the Aramaic source and could not be derived from it by any adaptation, brilliant or otherwise. They are in the *varṇamālā*. A few glyph-shapes may show contact influence; the *encoding system* is purely the *varṇamālā*'s.
 
-The architecture's hard work is the *varṇamālā* itself — mapping the mouth, identifying the *sthāna* and *prayatna*, building the multi-axis matrix the *Prātiśākhya* discipline documents. Once that engineering exists, creating visible glyphs for each *varṇa* is a derivative move. The script is the architecture's interface, not its content. The ***church of progress***'s chronology obsession dates the interface and treats the dating as if it dates the architecture. The architecture predates any visible interface and operates independently of whether glyphs have been engraved on stone.
+The engineering lies in the *varṇamālā*: it maps the mouth, identifies the *sthāna* and *prayatna*, and builds the multi-axis matrix that the *Prātiśākhya* discipline documents. Once that sound architecture exists, visible glyphs can provide an interface for each *varṇa*. The ***church of progress*** dates that interface and then treats the date as the origin of the architecture, even though the sound-system operates independently of marks engraved on stone.
 
 ## 13.4 *Aural*, Not *Oral*
 
@@ -142,7 +142,7 @@ Because Sanātan does not require every person to speak the calibrant language, 
 
 Sanskrit stands elsewhere. Like ध्रुव (dhruva), the fixed star, it serves as the calibrant language: the disciplined, preserved, architected standard against which knowledge, yajña, grammar, memory, and civilizational continuity can be held. Its preservation does not rest on a declared standard alone. The Vedic corpus, the Prātiśākhya discipline, Śikṣā, Chandas, the pāṭha systems, Vyākaraṇam, the Dhātupāṭha, and the *guru-shishya* lineage-chains form a calibration architecture. The burden of that preservation falls on those who choose the path of rigor. The system carries correctness into action: it detects drift, corrects drift, and trains the human instrument that holds the form.
 
-That architecture rests on *paramparā*, but *paramparā* is not merely "tradition." It is distributed transmission architecture. It has vertical custody and horizontal circulation. The *guru-shishya* lineage-chain holds exact form across generations; the wider transmission-network moves learned people across villages, towns, assemblies, yajña settings, *pāṭhaśālās*, *maṭhas*, and scholarly circuits. Society respects Brahmins, reciters, teachers, and scholars and funds the network: lodging, food, patronage, *dakṣiṇā*, travel support, public debate, yajña invitations, and scholarly exchange. Knowledge becomes mobile without becoming centralized.
+*Paramparā* supplies the distributed transmission architecture that the English word "tradition" fails to describe. Its vertical dimension preserves exact form through the *guru-shishya* lineage-chain, while its horizontal dimension moves learned people among villages, towns, assemblies, yajña settings, *pāṭhaśālās*, *maṭhas*, and scholarly circuits. Society sustains that movement by providing lodging, food, patronage, *dakṣiṇā*, travel support, public debate, yajña invitations, and scholarly exchange, allowing knowledge to circulate without placing it under a central authority.
 
 ## 13.6 Two Minds, Two Layers
 
@@ -160,7 +160,7 @@ The same distinction operates in ordinary teaching today: when a student writes,
 
 The same operation runs in Sanskrit. Suppose a student sees the *dhātuḥ* **⟪धा⟫ (*dhā*)** and, by false analogy with **भवति (*bhavati*)**, writes **धाति (*dhāti*)**. The form is wrong. A *vyākaraṇa*-trained reader corrects by rule: **⟪धा⟫ (*dhā*)** belongs to the third **गणः (*gaṇaḥ*)**, the **जुहोत्यादि (*juhotyādi*)** class. Pāṇini specifies the operation in *Aṣṭādhyāyī* 2.4.75: **जुहोत्यादिभ्यः श्लुः (*juhotyādibhyaḥ śluḥ*)**.[NOTE: juhotyadibhyah-shluh-dadhati] The rule suppresses the regular *vikaraṇa*, reduplicates the *dhātuḥ*, and attaches the personal ending: ⟪धा⟫ → *da-dhā* → **दधाति (*dadhāti*)**. The wrong form **धाति (*dhāti*)** drops out.
 
-A *śravaṇa*-trained reader can correct by mantra. The wrong form registers as deviant against the internalized record, and the corrector quotes the Vedic line:
+A *śravaṇa*-trained reader can correct by mantra. The wrong form is heard as deviant against the internalized record, and the corrector quotes the Vedic line:
 
 > वाजी । न । प्रीतः । वयः । दधाति ।
 >

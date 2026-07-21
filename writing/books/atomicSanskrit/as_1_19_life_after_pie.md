@@ -8,7 +8,7 @@ Wave 1 radiated Sanskritic structure outward before Pāṇini, through Vedic-tra
 
 Unlike the migratory stories imagined by the pyramid, these are radiance stories. The trees of Chapter 18 grow where Sanskrit’s light landed.
 
-Life after PIE begins with architecture standing on its own ground.
+Life after PIE begins by explaining Sanskrit through its own architecture rather than through an invented ancestor.
 
 ## 19.1 Wave 1 — Radiance Before Pāṇini
 
@@ -83,7 +83,7 @@ The **modern global Indian diaspora** extends the same mechanism across the past
 3. The **civilizational-visibility diaspora** — temples, classical-music practitioners, yoga teachers, food-practice carriers — has made Indic forms legible to host populations through lived demonstration rather than scholarly argument.
 4. The **IT and engineering diaspora** of the past three decades has brought Indic technical capacity into the infrastructures of the West in numbers and at levels with no historical precedent.
 
-Across all four arcs, the substrate has continued to arrive.
+Across all four arcs, diasporic communities have carried Indic practices, institutions, and vocabulary into their new homes.
 
 The diaspora persisted under headwinds from both sides. Inside the subcontinent, the post-colonial secular machinery that succeeded the British colonial machinery has continued the architecture-of-containment work in different vocabulary — the local-color continuation of the ***fourth Abrahamic religion*** (Chapter 4): the same *progressive dogma* operating in Indian-academic language, marginalizing dharmic-civilizational discourse through the same institutional ecosystem the *church of progress* maintains in metropolitan venues. The recoding of dharmic continuity as *communalism*, the structural marginalization of *guru-shishya* lineage-chains in state education, the confinement of Sanskrit and the *Vedas* — these are the regional-franchise operations of the metropolitan original. Outside the subcontinent, the diasporic communities have faced the metropolitan original directly. The substrate has continued to arrive across both sets of pressures.
 
@@ -112,7 +112,7 @@ Wave 3 holds four recognitions into global discourse:
 
 That precondition now becomes Wave 3's first discipline: Indians in the subcontinent, the modern global Indian diaspora, and the Romani branch that held Indic substrate longest outside the subcontinent must reconstitute *āryatva* before attempting to extend it.
 
-The invitation begins when the carriers reenter the discipline themselves.
+Wave 3 therefore requires its carriers to reenter Sanskrit's discipline before they attempt to transmit its radiance.
 
 [FIGURE 19.3: The Calibrant Waves and the Diasporic Wave — Wave 1 as pre-Pāṇinian corpus-form transmission (Saptaṛṣi roster + Mitanni anchor); Wave 2 as post-Pāṇinian methodological transmission (Greek / Latin / Tibetan / Arabic / Hebrew / Chinese-as-contrast); Wave 3 as contemporary restatement (the engineered Sanskrit thesis); Diasporic Wave as demographic carrier of lived Indic substrate (Romani + four arcs of modern diaspora); Wave 3 conditional on diasporic relearning.]
 

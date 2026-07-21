@@ -79,7 +79,7 @@ The question doesn't expect an answer; it lands the verdict.
 ### 7. Paraphrasing the opponent's argument in damning terms
 > *"Sen's conclusions can be succinctly paraphrased to mean, 'because, none of us historians have a clue about the meaning behind these chapati incidents, we are going to ignore this evidence completely'."*
 
-The opponent's argument is re-stated in its naked form, exposing what academic register concealed.
+The opponent's argument is re-stated in its naked form, exposing what academic diction concealed.
 
 ### 8. Engineer-mind taxonomies as polemic apparatus
 Two-axis matrices and architectural-layer distinctions doing polemic work:
@@ -96,7 +96,7 @@ The political-freedom-vs-intellectual-freedom distinction is the appendix's cent
 ### 10. Bracketing British historians out
 > *"We express no opinion about British historians in this context – since they fall into a completely different system, one where the fundamental approach to India is inverted. However, Indian historians – especially when it comes to representation of the events of 1857 are a misaligned lot."*
 
-The polemic deliberately focuses on the inside-the-tradition continuers (named structurally as *notional nationalists*, not personally) rather than the colonial-era antagonists. The structural critique is harder and more important. Per CLAUDE.md's rule that Indic-tradition figures are not finger-pointed, individuals like Sen and Majumdar are named because they are the documented authors and institutional positions, but the polemic targets their framework choices, not them personally.
+The polemic deliberately focuses on the inside-the-tradition continuers, described structurally as *notional nationalists*, as well as the colonial-era antagonists. The structural critique is harder and more important. Under the manuscript's personal-name rule, Sen and Majumdar should remain in body prose only where the passage explicitly evaluates and condemns their documented choices; neutral attribution belongs in the endnotes.
 
 ### 11. The naïveté reframe
 > *"It would have been naïve to assume that the victors of the War would even attempt to present an unbiased history of the subject."*
@@ -123,7 +123,7 @@ One-word/phrase exclamations as hammer beats within paragraph-length argument.
 - 2x2 matrices as analytical apparatus
 - *"filter through the haze of colonial misrepresentation"*
 
-The same engineering register *Atomic Sanskrit* deploys systematically.
+The same engineering idiom *Atomic Sanskrit* deploys systematically.
 
 ### 15. First person plural authorial voice
 *"We are uncertain why Majumdar chose to write..."* / *"We have attempted to bring order..."* / *"We consider that history is presented on two distinct dimensions..."* — scholarly "we" used as the authorial position throughout.
@@ -131,7 +131,7 @@ The same engineering register *Atomic Sanskrit* deploys systematically.
 ### 16. The "honest introspection vs. self-flagellation" distinction
 > *"They attempt to filter through the haze of colonial misrepresentation of history, however, are unable to extricate honest introspection from self-flagellation."*
 
-Names the failure mode of well-intentioned post-1947 historians who accept the colonial framing's emotional register without escaping its structural assumptions.
+Names the failure mode of well-intentioned post-1947 historians who accept the colonial framing's emotional posture without escaping its structural assumptions.
 
 ---
 
@@ -163,7 +163,7 @@ Names the failure mode of well-intentioned post-1947 historians who accept the c
 - **Polysyllabic alliterative phrases** for cluster term coinages.
 - **Dictionary entries with pronunciation guides** as primary evidence.
 - **Rhetorical questions** instead of direct verdicts at hammer-close positions.
-- **Numbered footnotes** in academic-citation register (the appendix maintains scholarly apparatus while delivering polemic — the polemic does not require abandoning academic machinery).
+- **Numbered footnotes** in academic citation style (the appendix maintains scholarly apparatus while delivering polemic — the polemic does not require abandoning academic machinery).
 - **2x2 matrices** rendered as figures, named "Figure 65: Argumentative Fallacies" and "Figure 66: Argumentative Fallacies" (note the duplication — the second matrix should probably have been retitled "Faces of Freedom").
 
 ---
@@ -179,4 +179,4 @@ When drafting polemic chapters in *Atomic Sanskrit*, the ORL appendix is the pre
 5. **Rhetorical questions, dictionary deployment, reductio scenarios, alliterative section titles, em-dash snark.** All voice tics available for deployment in polemic chapters when structurally appropriate.
 6. **The political-freedom-vs-intellectual-freedom thesis-line.** *"India had secured political freedom, but the intellectuals remained in chains"* — the single line that captures the structural indictment Atomic Sanskrit extends to philology, language preservation, and engineered Sanskrit thesis recognition.
 
-The *Atomic Sanskrit* polemic register is the direct descendant of the ORL appendix register. The book project's polemic voice should be calibrated against this precedent.
+The *Atomic Sanskrit* polemic voice descends directly from the ORL appendix voice. The book project's polemic voice should be calibrated against this precedent.

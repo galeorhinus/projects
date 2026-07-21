@@ -90,7 +90,7 @@ Bṛhaspati's **वाचमक्रत (*vācam akrata*)** (chapter 9) sits on
 >
 > **Institutional correction vs calibration.** A codified system corrects by appeal to institution, decree, grammar book, academy, or state. Sanskrit corrects by internal fit: sound, form, meaning, meter, recitation, derivation, and usage all converge on the valid form. Calibration places the standard inside the architecture and lets the architecture correct usage.
 
-The distinction holds at the level of teaching (Chapter 13 §13.5). One mind reaches correctness through preserved use; another reaches it through explicit rule. Both correct by architecture, not by institutional decree.
+Chapter 13 §13.5 shows how the two forms of correction become two forms of teaching. One student reaches correctness through preserved use, while another follows an explicit rule; both learn from the architecture rather than from an institutional decree.
 
 Modern linguistics begins entirely elsewhere, treating the relationship between word and meaning as conventional, contingent, and historically mutable. Because speech communities make the bond and later speech communities remake it, historical linguistics merely studies that remaking. In contrast, Patañjali begins from a total refusal of that premise: the bond does not drift, has not drifted, and will not drift, simply because the bond is already *siddha*.
 
@@ -128,7 +128,7 @@ Patañjali's *Mahābhāṣya*, standing over Pāṇini's *Aṣṭādhyāyī*, ca
 
 ## 5.5 Sanskrit Begins from Permanence
 
-Two claims anchor the argument.
+Patañjali's argument rests on two claims.
 
 First: by holding the bond between a word and its meaning to be fixed, Patañjali automatically rejects the premise of change and drift. Modern historical linguistics assumes languages mutate, drift, and renew, and the linguist tracks the trajectory. Patañjali's framework refuses that assumption at the metaphysical level: grammar exists to defend the bond.
 

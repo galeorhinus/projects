@@ -39,7 +39,7 @@ The word is poetic and precise. A garland differs from a heap. Each bead is chos
 
 The word garland is important because it preserves Sanskrit's own way of seeing this sound-inventory. These are measured sound-particles before they become "letters": **sonomers**. A sonomer is what Sanskrit calls a *varṇa*: a selected, measured, repeatable unit of sound.
 
-That distinction becomes critical later. Sanskrit's internal disciplines ask whether a measured sound-particle has **वर्णशक्ति (*varṇa-śakti*)** — semantic potency inside a calibrated field. This chapter does not settle that debate; it establishes the condition for it: stable, teachable, body-mapped sound-units. Without the grid, *varṇa-śakti* feels like sound-mysticism. With the grid, it becomes a serious Sanskritic question.
+Once Sanskrit has selected stable, teachable, body-mapped sound-units, its internal disciplines can ask whether each measured particle has **वर्णशक्ति (*varṇa-śakti*)** — semantic potency inside a calibrated field. The grid gives that question a physical and teachable basis instead of leaving *varṇa-śakti* as an unexplained claim about sound.
 
 > **Sonomers: The Pre-Pāṇinian Sound-Units**
 >
@@ -150,7 +150,7 @@ The same is visible in everyday English compounds. Speakers can feel a burst of 
 
 Mahāprāṇa is a structural feature, and it displays the design requirement the whole grid serves: distinguishability. The new contrasts arrive on an independent axis — breath — instead of crowding the place axis. The system keeps five clean stations. The result is more range with less horizontal clutter.
 
-The move also fits Sanskrit's wider culture of breath. *Prāṇa* is trained in recitation, measured in sound, and disciplined in practice. Sanskrit turns breath into grammar without reducing breath to mechanics.[NOTE: mishra-breath-pedagogy]
+Sanskrit's treatment of *visarga* also expresses its wider discipline of breath. Recitation trains *prāṇa*, sound gives it measure, and grammatical rules specify how its release changes at a boundary.[NOTE: mishra-breath-pedagogy]
 
 The breath-axis continues beyond the stop matrix into boundary sounds. The most familiar are **अनुस्वार (*anusvāra*)** and **विसर्ग (*visarga*)**. The *anusvāra* indicates nasal resonance that points toward the following sound. In careful analysis, it is a shorthand for nasal behavior governed by the next contact. The *visarga* is a release of breath after a vowel, often shaped by what follows.[NOTE: sandhi-anusvara-assimilation]
 
@@ -166,7 +166,7 @@ The selected sonomer becomes stable when it is held as an **अक्षरम�
 
 Because the word *akṣara* actively means the imperishable and the non-decaying, it holds a significantly large claim. Within the language system, this means it serves as the stable sound-unit that can be rigorously recited, written, counted, and recombined.[NOTE: aksara-imperishable-name]
 
-The distinction between **sonomer** and **audiograph** is relevant here. The sonomer is the measured sound-particle; the audiograph is the visible capture of that sound-particle in script. Sanskrit is sonomeric before it is audiographic, built from measured sound-particles before any script makes those particles visible.
+A **sonomer** is the measured sound-particle, whereas an **audiograph** is the visible mark that records it. Sanskrit therefore remains sonomeric before it becomes audiographic: the sound architecture exists before a script gives its particles visible form.
 
 An *akṣara* is vowel-centered. One vowel nucleus holds the unit. Consonants can open around it, close around it, or cluster at its edges, but the vowel supplies the acoustic center. Thus **पच् (*pac*)** is one *akṣara*, while **पचति (*pacati*)** has three.
 
@@ -272,7 +272,7 @@ Although the natural modern reflex is to call these "letters," that reflex mista
 
 A *varṇa* is a measured unit of sound — a *sthāna*, a *prayatna*, a voice setting, a nasal setting, a duration in *mātrā*. None of that is a property of a written shape. A letter is a sign read with the eye; a *varṇa* is an articulation made with the body. The *varṇamālā* is a sonomeric grid — sound-particles ordered by where and how the mouth makes them — not an alphabet of glyphs ordered by custom.
 
-The sequence itself proves this distinction: while an alphabet's order is arbitrary (where *a, b, c* says little about the sounds), the *varṇamālā*'s order maps the mouth itself—moving systematically from throat to lip, stop to nasal, short to long. Because the grid represents the underlying engineering, the written glyphs are merely a later convenience.
+Alphabetical order such as *a, b, c* says little about the sounds it lists, whereas the *varṇamālā* maps the mouth systematically from throat to lip, stop to nasal, and short duration to long. The written glyphs provide a later interface for an order already present in the sound architecture.
 
 Consequently, once the *varṇamālā* fully exists, the script merely becomes implementation. Because the true engineering lies entirely in the ordered sound-grid—where place, effort, voice, breath, nasality, and duration are held in stable relation—representing those precise sounds with written symbols is just a trivial, procedural implementation of a scalable, fractal idea. Ultimately, writing simply gives that structural grid a visible interface, exactly much as decimal notation gives place-value numbers a visible form.
 

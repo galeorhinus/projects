@@ -110,7 +110,7 @@ An *upasargaḥ* redirects the field in which the atom acts. With *kṛ*, the op
 
 **सम् (*sam-*)** faces together, integrated, completed, refined. When *sam-* binds to the *kṛ* field, it yields the family of integrated and refined forms: **संस्कृति (*saṃskṛti*)**, **संस्कार (*saṃskāra*)**, and **संस्कृत (*saṃskṛta*)**. In prose, **sam + kṛ** is useful shorthand for the semantic operation. In the actual sonomeric form, the visible **स्** in **संस्कृति** and **संस्कार** must be accounted for by the rules that build the surface molecule.[NOTE: kr-bonding-examples]
 
-The point is the direction of the bond. Each *upasargaḥ* turns ⟪कृ⟫ toward a different field — *pra-* toward prior formation, *vi-* toward alteration, *sam-* toward integrated refinement — without ever touching the atom at the center.
+Each *upasargaḥ* changes the direction in which ⟪कृ⟫ operates without changing the atom at the center: *pra-* directs it toward prior formation, *vi-* toward alteration, and *sam-* toward integrated refinement.
 
 The atom remains visible through the redirection, which is what makes the molecule interpretable. The head-bond changes the field while preserving the atom.
 
@@ -216,23 +216,33 @@ The line is short, and every layer remains visible. **करिष्यति (
 
 By the time the *vākya* is formed, every level beneath it is still recoverable, each for a concrete reason: the sonomers because sound-change runs by rule, the *dhātuḥ* because the molecule keeps its atomic identity through affixation, the *upasargaḥ* and *pratyayaḥ* because each bond leaves a grammatical and semantic signature, and the *padam* because *vibhaktiḥ* and *tiṅ-pratyayaḥ* hold relation, number, person, and role.
 
-The sentence is the larger assembly, yet the smaller engineering remains visible inside it.
-
-This provides the definitive answer at the assembly scale: just as the *dhātuḥ* consistently displayed strict atomic recoverability, the *vākya* clearly displays full assembly-scale recoverability. Because Sanskrit aggressively builds upward without ever losing the architectural levels underneath, Formed Speech rigorously keeps her lower levels fully visible, ensuring that sonomers, atoms, molecules, bonds, and roles all remain perfectly traceable inside the final assembly.
+The sentence is the larger assembly, yet the smaller engineering remains visible inside it. Sanskrit can therefore build upward without losing the levels below: sonomers, atoms, molecules, bonds, and roles remain traceable inside the final utterance.
 
 ![Figure 12.8 — Full sonomeric sentence experiment: यस्तन्न वेद किमृचा करिष्यति.](figures/building_vakya/sentence_full_hex.svg){#fig:building-vakya-sentence-full-hex width=100%}
 
+### Usage Expands While the Language Holds
+
+The assembled sentence brings Sanskrit's generative architecture into view as one continuous procedure. A finite inventory supplies the material at each scale, and governed operations prepare that material for the next scale. The **वर्णमाला (*varṇamālā*)** supplies sonomers that combine into the semantic atoms held in the **धातुपाठ (*Dhātupāṭha*)**. The *gaṇa* operations activate those atoms; *upasargāḥ* redirect their fields; and *pratyayāḥ* complete them as actions, agents, deeds, states, and other usable molecules. Once role-endings have prepared those molecules for relation, they can enter a sentence without surrendering the construction that produced them.
+
+Once Sanskrit has produced usable forms, **समास (*samāsa*)** allows them to enter a further level of composition. Two completed forms can join as one compound, and the completed compound can become part of a larger compound in turn. When India's lunar mission required a name, **चन्द्र (*candra*, moon)** and **यान (*yāna*, vehicle)** joined as **चन्द्रयान (*Candrayāna*)**, a vehicle for the Moon. The new circumstance required new usage, while the atoms, bonds, and compositional procedure remained available without alteration.
+
+Every additional scale multiplies the possible expressions. The conservative count introduced in Chapter 0 §0.6 exceeds twenty million first-pass forms before *samāsa*, technical coinage, and poetic extension enter the calculation.[NOTE: sanskrit-generative-wordspace] That count indicates the reach of the architecture, while the preceding chapters explain how the architecture produces it: compact atoms repeatedly enter lawful operations, and completed forms remain available for further assembly.
+
+The architecture produces this large field by governing how its parts combine. A pronounceable sequence does not become Sanskrit merely because its parts can be imagined, and the empty cells in the *racanā–gaṇa* and bonding matrices record combinations that the architecture does not use. A valid formation must follow the operations that connect its parts, preserve the required sound changes, and enter speech with recoverable grammatical and semantic bonds. The same internal constraints that generate a form also allow speakers and caretakers to examine and correct it.
+
+The **लौकिक (*laukika*)** domain uses this generative engine to meet a changing world. Speakers can create an expression for a new object, institution, practice, or idea by applying the standing architecture, while later speakers can trace the result back through its construction. Usage expands through derivation and composition; the language continues to hold.
+
 ## 12.9 Boundary Crossing: अपभ्रंश (*Apabhraṃśa*) = Vivimorphosis
 
-The Sanskrit side of the story is now built — sonomers into atoms, atoms into molecules, molecules into *padāni*, *padāni* into *vākyāni* — and inside Sanskrit every level stays recoverable because the calibrant architecture is still operating.
+As long as a generated form remains inside Sanskrit, the calibrant architecture continues to govern it. Sonomers become atoms, atoms become molecules, molecules become *padāni*, and *padāni* become *vākyāni* while every level remains recoverable.
 
-Now the molecule crosses the calibrant boundary.
+The next step follows the engineered molecule into a contact language, where Sanskrit's calibration no longer governs its form.
 
 The *śabda* is an engineered molecule. Its bonds are held by grammar, recitation, *padapāṭha*, *Prātiśākhya*, *Śikṣā*, and the calibration matrix developed in Chapter 14. Inside that architecture, speaker-slip can be detected and corrected. The molecule remains specified.
 
 A contact language holds a different architecture: its own sound system, habits, grammar, and pressures. When a Sanskrit *śabda* enters that medium, Sanskrit's internal correction no longer governs the form. The engineered molecule begins to behave organically inside another linguistic ecology.
 
-That process needs two names because it has two faces.
+The same process receives a different name from each side of the boundary.
 
 From the Sanskrit side, the process is **अपभ्रंश (*apabhraṃśa*)**: falling away from the engineered form. From the contact-language side, the same process is **vivimorphosis**: the engineered molecule acquiring organic behavior.[NOTE: apabhramsa-vivimorphosis-boundary]
 
@@ -255,7 +265,7 @@ What the philological dogma treats as ancestral bases across its reconstructed d
 
 **Worked example (Ch17 §17.2 develops it):** दिव् (*div*, dhātuḥ) → देवः (*devaḥ*, śabda) → *bīja* in proto-Italic listener → Latin *deus* (apaśabda).
 
-**Inverse:** petrification turns organic → mineral; vivimorphosis turns engineered → organic, via the seed.
+**Inverse:** authority can petrify an organic form into a fixed one; vivimorphosis carries an engineered form into organic life through the seed.
 
 The form that sprouts from the *bīja* — the expressed organic form — is what Patañjali calls **अपशब्द (*apaśabda*)** in the *Mahābhāṣya* (1.1.1): the slipped form, the named opposite of *śabda*. The *śabda* and *apaśabda* differ fundamentally in kind. The *śabda* is an engineered molecule held by specification within the calibrant architecture. The *apaśabda* is an organic form expressed from a *bīja*, taking nourishment from its new linguistic soil. While the engineered molecule resists drift, the organic form develops descendants, mutations, branches, and a line of evolution within the receiving language.
 
@@ -263,7 +273,7 @@ The category-theft charge has already reclaimed *dhātuḥ* from the botanical s
 
 The transformation from *śabda* to *apaśabda* has two names. ***Apabhraṃśa*** is Sanskrit's name — the falling-away, the slip from the engineered form, the term Patañjali deploys for what the *vaiyākaraṇaḥ* must defend against. **Vivimorphosis** is the English coining for the same event viewed from the inverse angle: the engineered molecule acquiring organic behavior. *Apabhraṃśa* foregrounds the structural loss, while *vivimorphosis* foregrounds the organic gain. They trace the same arrow from opposite ends of the calibrant boundary.
 
-While petrification turns a living tree into stone—preserving the outer form across geological time while entirely stripping away the life—**vivimorphosis acts as the precise inverse.** Because the engineered *śabda* is rigorously preserved only for as long as the calibrant architecture deliberately holds it, the moment it crosses into a contact language, it immediately acquires organic behavior, rapidly developing its own descendants, mutating uncontrollably, and eventually dying within that receiving language.
+During petrification, minerals turn a living tree into stone, preserving its outer form across geological time while stripping away its life. **Vivimorphosis follows the inverse direction.** The calibrant architecture rigorously preserves the engineered *śabda*; when that *śabda* crosses into a contact language, it acquires organic behavior and can develop descendants, change within the receiving language, and eventually disappear from its usage.
 
 The cost of organic behavior is mortality. The cost of engineered permanence is the absence of ordinary drift. Inside Sanskrit, the form remains engineered. In contact languages, what Sanskrit engineered can become productive in a new ecology.
 

@@ -94,16 +94,16 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 5.4 The Bond Holds — *Patañjali's resolution: the bond is established, permanent, not produced.*
 - 5.5 Sanskrit Begins from Permanence — *What the resolution implies: a language that began from correctness rather than arriving at it by evolution.*
 
-**Chapter 6 — *Apabhraṃśa* and Entropy** — *The vaiyākaraṇāḥ named the entropy the European framework mistook for the language's defining behavior.* Apabhraṃśa *— the falling-away — is the entropy resisted by design; Patañjali's correct-to-corrupt ratio is the documentary anchor. Introduces **calibrant**: the engineered anchoring that holds words against drift, and the three-tier spectrum (Sanskrit / calibrant-anchored languages / English).*
+**Chapter 6 — *Apabhraṃśa* and Entropy** — *The vaiyākaraṇāḥ documented the entropy that European philology later treated as the language's defining behavior.* ***Apabhraṃśa*** *— the falling-away — is the entropy resisted by design; Patañjali's correct-to-corrupt ratio is the documentary anchor. The four classifications from Chapter 2 return under entropic pressure, after which **calibrant** describes the anchoring that holds words against drift across three distances: Sanskrit, orbital languages, and forms beyond the active field.*
 
-- 6.1 Entropy Has a Name — *Apabhraṃśa *and its position in Patañjali's framework as a permanent, recognized threat.*
+- 6.1 Entropy Has a Name — *Sanskrit calls linguistic falling-away **apabhraṃśa**; the vaiyākaraṇāḥ analyze it as a permanent pressure on established form.*
 - 6.2 Few Words, Many Corruptions — *Patañjali's count of correct-to-corrupt forms; the vaiyākaraṇāḥ were quantitative about drift.*
 - 6.3 *Gauḥ* and Its Fallings-Away — *Patañjali's illustrative case grounding the abstract observation in one concrete word.*
-- 6.4 Drift, Codification, Calibration — *The three frames for change: natural drift by use; codified standards by authority; Sanskrit by architecture.*
-- 6.5 Engineered Against Entropy — *Sanskrit's architecture explicitly designed to resist* apabhraṃśa; *the layered apparatus named structurally.*
-- 6.6 Variation Is Not Drift — *Prosecutes the dogma's evidentiary claims for internal Vedic drift; variation is engineered design choice within one architecture.*
-- 6.7 The Calibrant Envelope — *The term **calibrant** for the engineered anchoring internal to Sanskrit; three tiers, with English's unanchored drift as the limit case. Ch 13 develops the internal apparatus as the **calibration matrix**; Ch 17 the external scope as **calibrant contact**.*
-- 6.8 The Fall Is Not Only Linguistic — *The engineered* śabda *becoming an organic* apaśabda *in the receiving language —* vivimorphosis; *relocates the botanical metaphor to* apaśabda, *away from* dhātu.
+- 6.4 The Four Classifications Under Entropy — *Natural languages absorb variation; authorities keep variation out of the forms they have petrified; constructed projects return to their plan or enter botanical change; Sanskrit detects and corrects departure through its distributed architecture.*
+- 6.5 Engineered Against Entropy — *Grammar, meter, heard transmission, recensional discipline, and combinatorial recitation detect different kinds of departure before another generation inherits them.*
+- 6.6 Variation Is Not Drift — *Sanskrit assigns documented differences to function, mode, recension, option, meter, or transmission stream; chronology cannot substitute for a demonstrated mechanism of change.*
+- 6.7 Orbit and Drift — *The term **calibrant** for the engineered anchoring internal to Sanskrit; three distances place Sanskrit at the center, Marathi and Hindi within its orbit, and English beyond the active field. Chapter 14 develops the internal **calibration matrix**; Chapter 18 follows radiance into contact languages.*
+- 6.8 The Fall Is Not Only Linguistic — *The same entropic pressure can pull any engineered order away from its design, while asuric action accelerates and weaponizes the resulting disorder; later volumes extend the fractal beyond language.*
 
 ---
 
@@ -186,7 +186,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 14.2 Auditure and Speech-Hearing Engineering — *Why the speech-hearing pair is the deepest mode; the audience-as-redundancy-check; the Indic answer to* who guards the guards?
 - 14.3 The Six Preservation Layers — *The calibration matrix proper: six layers at six timescales; the* Śikṣā *pedagogy across all six;* Chandas *as cryptographic hash.*
 - 14.4 Chandas Counts What Poetry Can Hold — *Metrical combinatorics:* laghu/guru mātrā *budgets force the poet to count arrangements, producing the sequence later called Fibonacci.*
-- 14.5 The Whole Language Carries the Sūtra-Discipline — *The system-scale answer to Ch 10's fractal question: the same six* sūtra-lakṣaṇam *characteristics at language scale; the Vedic/Classical register defense.*
+- 14.5 The Whole Language Carries the Sūtra-Discipline — *The system-scale answer to Ch 10's fractal question: the same six* sūtra-lakṣaṇam *characteristics at language scale; the Vedic/Classical mode defense.*
 - 14.6 Control Cases: Codification by Authority — *Masoretic, Quranic, ecclesiastical-Latin, and modern-standard control cases; codification guards bounded objects by authority, calibration places the standard inside a living architecture.*
 - 14.7 The Engineering Precedes Pāṇini — *Loop-close to heroic erasure at the matrix level: the matrix predates Pāṇini; he operates it; the founder-celebration erases it.*
 
@@ -279,7 +279,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 
 ## Appendices
 
-**Appendix Part 1 — Baking the Mother Tongue** *(drafted)* — *The PIE-fabrication appendix. Names the colonial Sanskrit-knowledge enterprise as the data pipeline; Deccan College Pune as the named exemplar; the German neogrammarian project as the bakery in which Sanskrit's* dhātavaḥ *were converted to PIE* apaśabdas. *The cooking/baking cluster names the fraud-register;* manufactured *is reserved for Sanskrit's engineering.*
+**Appendix Part 1 — Baking the Mother Tongue** *(drafted)* — *The PIE-fabrication appendix. Names the colonial Sanskrit-knowledge enterprise as the data pipeline; Deccan College Pune as the named exemplar; the German neogrammarian project as the bakery in which Sanskrit's* dhātavaḥ *were converted to PIE* apaśabdas. *The cooking/baking cluster supplies the fraud vocabulary;* manufactured *is reserved for Sanskrit's engineering.*
 
 - 1.1 The Conversion-Extraction Nexus · 1.2 The Pipeline · 1.3 The Pundits and the Priests · 1.4 The German Bake · 1.5 Recipe After Recipe — The Dhātu Cluster Evidence · 1.6 The Verdict — Continuity Across Independence
 

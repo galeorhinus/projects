@@ -108,7 +108,7 @@ A complete act becomes one frozen form, leaning into the act that follows, and t
 
 ## 16.6 One Field, Encoded
 
-The cluster has five visible faces.
+The subcontinental mouth and mind appear in Sanskrit through five linked features.
 
 The tongue curls in *agnimīḷe*. Repetition becomes grammatical in *dadarśa*, *dadāti*, and *bibharti*. The self receives in *mahyam* and *tvasmai*. The doer recedes in *karmaṇi* and *bhāve*. The act folds into the next act in *pītvā* and *hatvā*. Five faces — in sound, in morphology, in syntax — open into one field.
 
@@ -134,9 +134,7 @@ Forced to be careful, the latest notice shifts the story to steppe ancestry, mob
 
 While the pyramid keeps changing the story, it never loosens the custody tag. By dropping the last embarrassment—Noah, the skull, the invasion—each subsequent correction guards the single claim it will not surrender: that Sanskrit came from outside. Ultimately, two centuries of continuously walking the narrative back have made the retreat itself the defining feature of the argument.
 
-A much simpler explanation needs none of it. 
-
-Sanskrit was built in the Indian subcontinent, not brought into it. The mouth is the field's mouth; the mind is the field's mind. The Veda preserves both from its very first word.
+The evidence supports a direct explanation: Sanskrit was built in the Indian subcontinent. Its sounds come from the subcontinental mouth, its grammatical relations express the subcontinental mind, and the Veda preserves both from its very first word.
 
 ## 16.8 The Borrowing Model Cannot Hold
 

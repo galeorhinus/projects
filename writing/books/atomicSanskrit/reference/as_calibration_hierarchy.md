@@ -15,7 +15,7 @@ The two speculations sit in paired-polemic structure:
 | **Homeland** | External to India; framework requires it | Not claimed. The continuum refuses to play the homeland game. |
 | **Mechanism into India** | Racial Arya thesis: invasion first, migration later | Not required. The Vedas are already where the continuum is. |
 | **Vedic / Classical Sanskrit relationship** | Evolutionary stages; Vedic drifted into Classical | Two synchronic-parallel modes (*chandasi* / *bhāṣāyām*) of one architecture; *bhāṣā* calibrated against the Vedas |
-| **Pāṇini's role** | Codifier — credited with bringing order to drift | Decoder — produced the working calibrant (*Aṣṭādhyāyī*) for the *bhāṣā* register |
+| **Pāṇini's role** | Codifier — credited with bringing order to drift | Decoder — produced the working calibrant (*Aṣṭādhyāyī*) for the *bhāṣā* mode |
 | **Sanskrit-continuum categories** | *Belief* | *Evidence* |
 
 The inversion the book names: *the pyramid tells the Hindu continuum that its own categories are faith while the pyramid's imaginary ancestor is science.*
@@ -35,8 +35,8 @@ The framework is addressed specifically to the **"rationalist" Hindus** — thos
 | Layer | Origin | Role |
 |---|---|---|
 | **The Vedas** | *Dṛṣṭāḥ* **saw**. Upstream of the seers = *we do not know*. | The **primary calibrant**. *Apauruṣeya*. Encoded perfection. Perfect when seen, perfect today. |
-| ***Chandasi* / *bhāṣāyām*** modes | Two synchronic-parallel modes of one engineered architecture | *Bhāṣā* is **calibrated against** the Vedas, not derived from them. Mode-differences are *features* of the engineering, marked by Pāṇini's own register rules. Both modes present from the start. |
-| ***Aṣṭādhyāyī*** + the pre-Pāṇinian *vaiyākaraṇa* roster | Decoded the architecture implicit in the calibrant | The Aṣṭādhyāyī is the **working calibrant** for *bhāṣā* — the user's manual for the everyday speech register. The Vedas remain the **primary calibrant**. |
+| ***Chandasi* / *bhāṣāyām*** modes | Two synchronic-parallel modes of one engineered architecture | *Bhāṣā* is **calibrated against** the Vedas, not derived from them. Mode-differences are *features* of the engineering, marked by Pāṇini's own mode rules. Both modes present from the start. |
+| ***Aṣṭādhyāyī*** + the pre-Pāṇinian *vaiyākaraṇa* roster | Decoded the architecture implicit in the calibrant | The Aṣṭādhyāyī is the **working calibrant** for *bhāṣā* — the user's manual for everyday Sanskrit. The Vedas remain the **primary calibrant**. |
 
 ---
 
@@ -107,7 +107,7 @@ The deployed version lives at `as_1_01_botanical.md` §1.1 (the *Two speculation
 
 *Codex review of the 11 bullets, applying two corrections: (a) vocabulary —* bhāṣā *not* bhāṣyam*; (b) claim boundary — "calibrated against" not "derived from," to avoid reintroducing an evolutionary sequence the pyramid uses (just with the direction reversed).*
 
-**Vocabulary correction:** *bhāṣā* = spoken / generative Sanskrit register (the "language" side). *Bhāṣyam* = commentary (e.g., the *Mahābhāṣya*, Śabara's *Bhāṣya*). The contrast is **chandasi** (Vedic / metrical / recitational mode) ↔ **bhāṣāyām** (generative / analytical / spoken-literary mode) — Pāṇini's own register markers, both locatives.
+**Vocabulary correction:** *bhāṣā* = spoken / generative Sanskrit mode (the "language" side). *Bhāṣyam* = commentary (e.g., the *Mahābhāṣya*, Śabara's *Bhāṣya*). The contrast is **chandasi** (Vedic / metrical / recitational mode) ↔ **bhāṣāyām** (generative / analytical / spoken-literary mode) — Pāṇini marks both with locatives.
 
 **Claim-boundary correction:** "*Bhāṣā* was derived from the Vedas" reads as the pyramid's evolutionary sequence with the direction reversed. Better: "*Bhāṣā* was **calibrated against** the Vedas," or "*Bhāṣā* **unfolds the same architecture** the Vedas encode." This preserves the calibration claim without creating a Vedic → Classical developmental model.
 
@@ -118,7 +118,7 @@ The deployed version lives at `as_1_01_botanical.md` §1.1 (the *Two speculation
 3. The Vedas are therefore the first and highest calibrant available to the continuum.
 4. The later grammatical disciplines decoded the architecture implicit in that calibrant.
 5. Many *vaiyākaraṇāḥ* did this work before Pāṇini.
-6. Pāṇini produced the most compressed, complete, operational user's manual for the *bhāṣā* register.
+6. Pāṇini produced the most compressed, complete, operational user's manual for the *bhāṣā* mode.
 7. The *Aṣṭādhyāyī* became the easier day-to-day calibrant for *bhāṣā*, while the Vedas remained the primary calibrant.
 8. Differences between *chandasi* and *bhāṣāyām* are mode-differences inside one engineered architecture, not proof of drift.
 
@@ -126,9 +126,9 @@ The deployed version lives at `as_1_01_botanical.md` §1.1 (the *Two speculation
 
 ## Layer 3 — Codex's compressed book-language prose
 
-*Deployable as-is into the book's verdict-register. Named-agent active voice; short clauses; each clause states a fact. Voice-matched to Atomic Sanskrit's polemic register.*
+*Deployable as-is in the book's verdict voice. Named-agent active voice; short clauses; each clause states a fact. The diction matches Atomic Sanskrit's diagnostic prose.*
 
-> The Hindu continuum knows one thing at the origin: the *ṛṣis* saw. They were *mantra-draṣṭāraḥ*, seers of the mantras. Everyone after them heard. That is why the corpus is *śruti*. The rationalist demand for a historical mechanism meets an honest answer: we do not know. What we do know is the architecture on the page and in the mouth. The Vedas carry it as encoded perfection. The grammatical disciplines decoded it. Pāṇini gave the *bhāṣā* register its most exact user's manual. The *Aṣṭādhyāyī* became the working calibrant; the Vedas remained the primary calibrant.
+> The Hindu continuum knows one thing at the origin: the *ṛṣis* saw. They were *mantra-draṣṭāraḥ*, seers of the mantras. Everyone after them heard. That is why the corpus is *śruti*. The rationalist demand for a historical mechanism meets an honest answer: we do not know. What we do know is the architecture on the page and in the mouth. The Vedas carry it as encoded perfection. The grammatical disciplines decoded it. Pāṇini gave the *bhāṣā* mode its most exact user's manual. The *Aṣṭādhyāyī* became the working calibrant; the Vedas remained the primary calibrant.
 
 ---
 
@@ -147,7 +147,7 @@ The deployed version lives at `as_1_01_botanical.md` §1.1 (the *Two speculation
 - [x] **`reference/as_calibration_hierarchy.md`** — this file (reference source, 2026-05-19).
 - [x] **`as_1_01_botanical.md` §1.1** — *Two speculations — the seed* short paragraph (2026-05-19). Announces the framework and forward-points to Ch 17 §17.5 for the full comparison. Per Codex's placement advice: early in the book the comparison reads as assertion-vs-assertion; the full deployment waits until the architecture is on the table.
 - [x] **`as_1_17_wrong_question.md` §17.5** — *How the Story Got Built* full section (2026-05-19) added as the prosecutorial summation. Closes the chapter that establishes the architectural test and names the gaslighting move; lands the comparison as judgment after the evidence has been presented in Chapters 1–16.
-- [x] **`as_0_01_preface.md`** — *Nāsadīya Sūkta* epistemic-stance passage (2026-05-19) added as the closing positioning move of the Preface body. Two paragraphs in first-person register: anchors the *we do not know* honesty in *Ṛgveda* 10.129, forward-points to Ch 17 §17.7 for the rationalist-mind speculation, restates the book's refrain as the positive claim. Companion to but distinct from the Ch 17 §17.5 prosecutorial deployment — Preface deployment plants the epistemic stance in first-person; Ch 17 §17.5 deploys it prosecutorially in third-person verdict register.
+- [x] **`as_0_01_preface.md`** — *Nāsadīya Sūkta* epistemic-stance passage (2026-05-19) added as the closing positioning move of the Preface body. Two first-person paragraphs anchor the *we do not know* honesty in *Ṛgveda* 10.129, point forward to Ch 17 §17.7 for the rationalist-mind speculation, and restate the book's refrain as the positive claim. The Preface establishes this epistemic stance in the first person; Ch 17 §17.5 returns to it in a third-person verdict voice.
 - [x] **`as_endnotes.md` `calibration-hierarchy`** — endnote stub added; deployment reference relocated to Ch 17 §17.5 (the full-deployment site).
 - [x] **`as_endnotes.md` `nasadiya-sukta`** — endnote stub added for the Preface deployment; carries the Sanskrit + IAST + translation of *Ṛgveda* 10.129.7 and the source citations.
 - [ ] **`CLAUDE.md`** — standing-framework note + four-term-stack cross-link.
@@ -160,6 +160,6 @@ The deployed version lives at `as_1_01_botanical.md` §1.1 (the *Two speculation
 ## Related framework documents
 
 - The four-term polemic stack (**Engineered / Encoded / Decoded / Codified**) — `CLAUDE.md` "Engineered / Encoded / Decoded" section, and deployed in `as_1_01_botanical.md` §1.1.
-- The Vedic-mode / generative-analytical-mode distinction — `CLAUDE.md` "Mode, not register" section, with empirical anchor in Claim 3.
-- The *apauruṣeyatva* doctrine (*Mīmāṃsā Sūtra* 1.1.5) — endnote `apauruseya-mimamsa-sutra-1-1-5` in `as_endnotes.md`. The calibration hierarchy is the operational face of *apauruṣeyatva* in the book's polemic register.
+- The Vedic-mode / generative-analytical-mode distinction — `CLAUDE.md` "Mode, Not Chronology" section, with empirical anchor in Claim 3.
+- The *apauruṣeyatva* doctrine (*Mīmāṃsā Sūtra* 1.1.5) — endnote `apauruseya-mimamsa-sutra-1-1-5` in `as_endnotes.md`. The calibration hierarchy is the operational face of *apauruṣeyatva* in the book's diagnostic vocabulary.
 - The three-deployments account (Wave 1 / Wave 2 / Wave 3) — endnote `three-deployments-framework` in `as_endnotes.md`. The calibration hierarchy and the three-deployments account are siblings; the calibration hierarchy names the *geometry* (Vedas → calibrants → users), the three-deployments account names the *temporal transmission arc* (corpus form → documented form → restated form).

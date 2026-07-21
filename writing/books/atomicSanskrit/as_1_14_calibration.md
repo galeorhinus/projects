@@ -140,7 +140,7 @@ These are the control cases. They prove that the machinery already knows how to 
 
 The Masoretic apparatus has layered textual and vocalic control. Quranic preservation has layered recitational and chain-of-transmission control. The Latin canon has institutional copying and correction. Sanskrit has a six-layer calibration matrix plus combinatorial recitation forms — the ***jaṭā*** and ***ghana pāṭhas*** (Chapter 15) — that re-encode the Vedic corpus in multiple transformations precisely so that any drift in one form is detectable by mismatch with the others. On technical depth, Sanskrit matches or exceeds the benchmark cases. On continuity, Sanskrit runs across thousands of years. On redundancy, Sanskrit is more layered than any of the three.
 
-The distinction here is not about preservation versus non-preservation, since all three traditions aim to preserve; rather, the distinction lies in the mechanism. While codified systems preserve through authority guarding a bounded text, Sanskrit preserves through continuous calibration across a living architecture—meaning it can hold not just a text, but a sound-system, a grammar, an atom-inventory, and a generative engine simultaneously.
+Each of the three systems seeks preservation, but each locates corrective authority differently. Codified systems place that authority around a bounded text, whereas Sanskrit continuously calibrates a living architecture that includes the sound-system, grammar, atom-inventory, and generative engine together.
 
 The asymmetry is what exposes the pyramid's insecurity or perhaps jealousy.
 

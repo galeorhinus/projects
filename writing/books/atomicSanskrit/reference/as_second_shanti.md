@@ -60,7 +60,7 @@ The parallel between Vol 1 and the forthcoming volumes is the *engineering-prese
 |---|---|---|---|
 | **What it preserves** | *Sanātan* — the civilizational frame | *Dharma* — polity / order without hierarchy | TBD — abundance / non-scarcity economics |
 | **Engineering** | *Varṇamālā*, *dhātavaḥ*, *vyākaraṇam*, Vedic *pāṭhas* | Restraints, *chaturvarna*, fractal markets, *karma* over Justice | *Vasudha*-abundance, demand-restraint, fractal markets, decentralized distribution |
-| **Cosmic register** | Linguistic vivimorphosis (*asura → ahura* phonetics) | Suric / asuric polity (centralization vs distribution) | Asuras-as-scarcity / devas-as-abundance |
+| **Cosmic layer** | Linguistic vivimorphosis (*asura → ahura* phonetics) | Suric / asuric polity (centralization vs distribution) | Asuras-as-scarcity / devas-as-abundance |
 | **Polemic target** | Western philological dogma and PIE | The Abrahamic pyramid as political-administrative formation | *Durartha-śāstra* — economics as scarcity-management |
 | **Anti-entropy** | Calibration matrix; engineered preservation of phonetic form | Fractal architecture; engineered preservation of distributed authority | Restraint-based; engineered preservation against extraction |
 
@@ -75,7 +75,7 @@ The parallel between Vol 1 and the forthcoming volumes is the *engineering-prese
 - Specific historical instances flagged so far: Greeks (Hellenistic pressure on Indic systems), *nāstikas* (internal threats), Abrahamics (Islamic and Christian pressure), modern progressives (Marxist takeovers, NGO-ization, ideological capture of academia).
 - Operates today as it has always operated.
 - The framework requires careful development to avoid the obvious "demonization of opponents" charge. Must be defended rigorously. The defense will likely run through: this is descriptive not pejorative; the categorization tracks observable behavior (consolidation of power, suppression of plurality, replacement of distributed traditions with centralized institutions); the framework is internal to the Indic tradition and predates any modern political alignment.
-- *Atomic Sanskrit* Ch 3 §3.6 names *asuratva* as the operating-mode noun and establishes the framework in Indic-categorical register; forthcoming volumes develop the political / economic / cosmic implications.
+- *Atomic Sanskrit* Ch 3 §3.6 names *asuratva* as the operating-mode noun and establishes the framework through Indic categories; forthcoming volumes develop the political / economic / cosmic implications.
 
 ### 3.2 The three लोकाः (lokāḥ)
 
@@ -95,9 +95,9 @@ The parallel between Vol 1 and the forthcoming volumes is the *engineering-prese
 - Cyclical time vs linear progress.
 - Already deployed in *Atomic Sanskrit* (Chapter 2's Progress Crisis, the chronology refusal in Preface and Epilogue), as polemic context against the linear-progress dogma.
 - Forthcoming volumes will likely take this much further: the dharmic recovery the next books propose is itself a cyclical move, a recovery rather than an invention, consistent with *kālacakra*'s framing.
-- **The kali-yuga salvage frame.** The depth of the contemporary erosion is measurable by what has been hijacked. When the foundational fractal — the swastika itself — must be salvaged before its architectural extensions can be rebuilt, the *kālacakra* framing names this as a darkest-period operation. The series is a darkest-period reclamation project: linguistic (Vol 1), polity, economy, civilizational substrate. The kali-yuga framing also explains the polemic register's necessity — a darkest-period operation cannot operate in the surveyed-equanimity register of normal scholarship; reclamation demands the verdict.
+- **The kali-yuga salvage frame.** The depth of the contemporary erosion is measurable by what has been hijacked. When the foundational fractal — the swastika itself — must be salvaged before its architectural extensions can be rebuilt, the *kālacakra* framing names this as a darkest-period operation. The series is a darkest-period reclamation project: linguistic (Vol 1), polity, economy, civilizational substrate. The kali-yuga framing also explains the polemic voice's necessity — a darkest-period operation cannot proceed in the surveyed equanimity of normal scholarship; reclamation demands the verdict.
 
-### 3.5 Asuras-as-noise / devas-as-light cosmic register
+### 3.5 Asuras-as-noise / devas-as-light cosmic layer
 
 - The sound axis of *asuratva* vs the light axis of *daivatva*. Humans find quietude by moving from darkness to light.
 - Vol 1's Ch 18 §18.8 establishes the linguistic vivimorphosis (*asura → ahura* phonetics); forthcoming volumes develop the polity-architectural and economic-architectural meanings.
@@ -123,7 +123,7 @@ The parallel between Vol 1 and the forthcoming volumes is the *engineering-prese
 
 Humans are unique in the capacity to discriminate not merely between accurate and inaccurate statements but between **intentional truth-telling and intentional deception** — between agents committed to *sat* and agents committed to *asat*. The compound names this faculty as load-bearing for civilizational architecture: where *sat-asat-viveka-buddhi* is operative across the polity, the swastika rotates; where it is suppressed (by the priest-class, the credentialing system, the institutional-consensus apparatus), the pyramid extends.
 
-The framework operates at the **individual level** — the reader's own faculty — not at the institutional level. The institutional indictment (the philological machinery as a system that has chosen *asat*) operates in the courtroom register *Atomic Sanskrit*'s Prologue establishes; *sat-asat-viveka-buddhi* is the dharmic frame within which the reader returns the verdict.
+The framework operates at the **individual level** — the reader's own faculty — not at the institutional level. The institutional indictment (the philological machinery as a system that has chosen *asat*) operates through the courtroom framing *Atomic Sanskrit*'s Prologue establishes; *sat-asat-viveka-buddhi* is the dharmic frame within which the reader returns the verdict.
 
 ### 3.8 Attribute vs Identity
 
@@ -134,9 +134,9 @@ The framework operates at the **individual level** — the reader's own faculty 
 
 The linguistic calibration-vs-codification distinction developed in *Atomic Sanskrit* Ch 13 §13.5 has a direct civilizational parallel at the social-architectural level. The same distinction operates.
 
-*Sanātan* did not require every person to speak the calibrant language. That is the critical distinction. Society spoke its living languages, its *prākṛtika* forms, its regional registers, its household speech, its songs, its market idioms. These were not treated as sinful deviations from an authorized tongue. They were allowed to flourish.
+*Sanātan* did not require every person to speak the calibrant language. That is the critical distinction. Society spoke its living languages, its *prākṛtika* forms, its regional varieties, its household speech, its songs, its market idioms. These were not treated as sinful deviations from an authorized tongue. They were allowed to flourish.
 
-Sanskrit stood elsewhere. It was the calibrant language: the disciplined, preserved, architected register against which knowledge, ritual, grammar, memory, and civilizational continuity could be held. The burden of that preservation fell on those who chose the path of rigor. Historically, the brahmin's dignity came from that burden: learning, restraint, recitation, discipline, and service to the calibrant. The rest of society was not made wrong for speaking comfortably. The few who chose rigor carried the responsibility for keeping the measure available.
+Sanskrit stood elsewhere. It was the calibrant language: disciplined, preserved, and architected so that knowledge, sacred action, grammar, memory, and civilizational continuity could be held against it. The burden of that preservation fell on those who chose the path of rigor. Historically, the brahmin's dignity came from that burden: learning, restraint, recitation, discipline, and service to the calibrant. The rest of society was not made wrong for speaking comfortably. The few who chose rigor carried the responsibility for keeping the measure available.
 
 That was the swastika as polity: not a pyramid of command, but a rotating architecture of differentiated responsibilities around a shared civilizational center. Each arm carried a function. No arm owned the whole. The brahmin did not rule because he knew Sanskrit; he served because he bore the discipline of calibration.
 
@@ -177,7 +177,7 @@ The *chaturvarna* re-read (§5.6) is the same operation across four arms. Each *
 - **The transition.** Disaggregating cities and refractalizing villages-and-towns first. Creating boundaries at town-formation. Disaggregating everything systematically.
 - **Anti-fragility.** A pyramid by definition needs a wide base; destabilizing the base shrinks the pyramid. A fractal does not depend on a base.
 
-### 4.4 Key conceptual moves (polity register)
+### 4.4 Key conceptual moves (polity frame)
 
 - **Shanti as quietude / balance, not peace.** The human body is always at war with pathogens; the balance is *Shanti*. Absence of war is not *Shanti*; presence of balance is.
 - **Karma vs Justice.** Karma is the individual ledger (no institution required; the atom maintains the record). Justice is an institutional outsourcing of self-responsibility. The fractal-democracy answer to "who guards the guards" is *karma*; the pyramidal answer is justice-as-institution.
@@ -209,7 +209,7 @@ The political volume closes loops *Atomic Sanskrit* opens but does not develop:
 - The pyramid-vs-swastika contrast (Ch 3 §3.6) gets built out into the fractal-democracy positive program.
 - The *prakṛti / saṃskṛti* binary (Ch 5) gets extended to the three-shape framework (*prakṛti / vikṛti / saṃskṛti*) with the geometric mapping.
 - The *Sanātan* architecture (Ch 3 §3.6 close; Ch 5 §5.6) gets its political-organizational specification.
-- The *asura* etymology and *Pratibimba* (Ch 18 §18.8) gets its cosmic-register development (asuras-as-noise / devas-as-light) and the suric/asuric political-architectural implications.
+- The *asura* etymology and *Pratibimba* (Ch 18 §18.8) gets its cosmic development (asuras-as-noise / devas-as-light) and the suric/asuric political-architectural implications.
 
 ---
 
@@ -239,7 +239,7 @@ The political volume closes loops *Atomic Sanskrit* opens but does not develop:
 - Romani decentralized distribution networks for manufactured goods.
 - Fractal economies (temple economies, decentralized distribution).
 
-### 5.5 Demand-restraint vs supply-constraint (economic register)
+### 5.5 Demand-restraint vs supply-constraint (economic frame)
 
 - The Indic model reduces demand (the seeker's restraint); the Abrahamic model constrains supply (the pyramid's police function). Two-by-two: demand vs supply, restrain vs constrain.
 
@@ -325,7 +325,7 @@ To avoid duplication, forthcoming volumes treat these as Vol 1 ground:
 - **Heroic erasure** — Ch 1 §1.6 (the pyramid's founder-myth move), with script-level deployment in Ch 13 §13.3.
 - **The *Sanātan* / *prakṛti* / *saṃskṛti* base terminology** — Ch 5 (forthcoming volumes add *vikṛti* as the middle).
 - **The cooking/baking-vs-manufacture convention** — `CLAUDE.md` (inherited).
-- **Vivimorphosis as the engineered-to-organic transformation** — Ch 12 §12.5 (forthcoming volumes may reference for cosmic-register applications).
+- **Vivimorphosis as the engineered-to-organic transformation** — Ch 12 §12.5 (forthcoming volumes may reference for cosmic applications).
 - **Outward-absorption mechanism** — Ch 3 §3.4 (the church-of-progress's elevation-of-tradition-internal-scholars move).
 - **The three-tier chronology vocabulary** — `CLAUDE.md` (thousands of years / dozens of generations / many generations).
 
@@ -348,6 +348,8 @@ This section grows as material surfaces during *Atomic Sanskrit* work that prope
 - **The *Vedas* as the empirical demonstration of distributed order without an apex.** Three connected observations the user flagged during the Ch 5 §5.5 / Appendix Part 7 work on *chandas + śruti* as the anti-entropy form: (i) **The Vedas are a working example of a democratic system in which continuing order is maintained without authority** — the architecture is self-policing through *chandas* (meter as cryptographic hash) + *śruti* (audience-as-verifier across thousands of years, through *guru-shishya paramparā*), with no apex office controlling the corpus. *Apauruṣeya* is the operating premise; there is no Pope of *śruti*. *(ii)* **The Vedas threaten pyramidal order at such a core level that every asuric mind everywhere in the world is threatened by them.** Every asuric / pyramidal formation requires traceable human authorization at the apex; *apauruṣeya* texts have no apex to authorize, no source to capture, no priestly monopoly to maintain. The pyramid cannot file what *apauruṣeya* presents to it; the architecture is structurally inoperable against pyramidal capture. *(iii)* **India has fought this battle internally as well.** The dharmic tradition's *swastika* organization has had to defend itself not only against external asuric formations but against internal centralizing tendencies — sect-based apex-claims, institutional pyramid-building inside the *paramparā*, political organizations that try to convert the rotational architecture into a pyramidal corporation. The battle is structural and ongoing. *Cross-references in Atomic Sanskrit:* Ch 3 §3.6; Ch 5 §5.5; Ch 10 §10.8; Appendix Part 7 §7.6.
 
 - **The distributed-vs-centralized resilience argument.** Distributed/engineered systems are categorically more resilient than centralized/institutional systems against asuric capture. The Vedic apparatus is one demonstration; the framework needs to be generalized across polity, economy, and civilizational substrate.
+
+- **Codified history vs calibrant history — the long-memory extension of the language argument.** *Atomic Sanskrit* shows how an apex can survey natural linguistic drift and then bias its direction through centralized education, official vocabulary, translation custody, prestige, reward, and shame. As words and meanings change, later generations become increasingly dependent on whoever translates and explains the older record. The political / civilizational volumes should extend this mechanism into history. **Codified history** places a selected chronology, vocabulary, archive, and authorized interpretation under an apex; school, state, academy, publisher, and media then repeat that account until it becomes the population's inherited past. **Calibrant history** keeps historical memory answerable to stable civilizational categories, preserved evidence, multiple independent lineages, and distributed retelling. It does not freeze one official narrative: *vaidika* transmission preserves the invariant measure, while *laukika* and *itihāsa-purāṇa* transmission may accrete, select, reinterpret, and lose material without surrendering the calibrating categories by which concealment, containment, capture, and restoration remain recognizable. This is the historical parallel to *nāstika* / *prākṛtika* compatibility without immunity: harmonious cultures can preserve rich local memory and still remain vulnerable when they lack a long, independently calibrated memory of repeated asuric methods. **Guardrail:** the contrast is not fixed history versus changing history; it is apex-owned historical authority versus distributed memory that remains corrigible against independent calibrants. *Atomic Sanskrit* seeds the linguistic mechanism in Chapters 1–2, 6, 13–14 and the `compatibility-is-not-immunity` endnote; a later volume develops the full civilizational case.
 
 - **The representative-democracy critique.** Representative democracy is itself a centralized, capturable system structurally vulnerable to asuric capture; a fractal-distributed framework would be more resilient. The political volume's core constructive argument.
 
@@ -374,7 +376,7 @@ Places where *Atomic Sanskrit* touches forthcoming-volume territory without deve
 - **Chapter 3 §3.6** — *asuratva*, the pyramid-vs-swastika contest, the Vedas-as-weapon-against-every-pyramid sharpening.
 - **Chapter 5 §5.5–§5.6** — *apabhraṃśa* → *chandas + śruti* engineering; the *sanātan* / *prakṛti* / *saṃskṛti* base terminology.
 - **Chapter 13–16** — engineered preservation; the calibration matrix; the *Auditure* / *Mnemoniture* / *Flexture* four-coinage taxonomy; the eleven *pāṭhas*.
-- **Chapter 18 §18.8** — the *asura → ahura* linguistic vivimorphosis; the cosmic-register backdrop for the polity-architectural argument.
+- **Chapter 18 §18.8** — the *asura → ahura* linguistic vivimorphosis; the cosmic backdrop for the polity-architectural argument.
 - **Epilogue** — the civilizational close and the signal of the larger inquiry; the most direct hand-off point.
 - **Appendix Part 7 (The Vedic Carrier)** — the demonstration that the Vedas implicitly carry the architecture; the empirical proof-of-concept the political volume operates from.
 
@@ -390,15 +392,15 @@ Forthcoming volumes inherit the conventions from `CLAUDE.md`:
 - **"Tribal"** rejected for Indian contexts.
 - ***"Enlightenment"*** scare-quoted always.
 - ***Vernacular*** rejected for Indic languages.
-- ***Mode*** not ***register*** for Sanskrit-variety distinctions.
+- Use ***mode*** for Sanskrit-variety distinctions.
 - **Plain English primary**; Sanskrit anchor on first use; Devanagari on first use within each chapter.
 - **Establishment-naming concrete** (*Western philological dogma*, *the Abrahamic substrate*); never weasel-phrased.
-- **Indic-tradition figures not finger-pointed.**
-- **Cooking/baking metaphor** for the fraud register; *manufactured* / *engineered* / *architecture* for the engineered side.
-- **Vocabulary-register split** (pyramid side: *ecosystem*, *machinery*, *cartel*, *regime*, *nexus*; Indic side: *architecture*, *framework*, *infrastructure*, *constellation*, *engine*, *grid*, *fabric*).
+- **Personal names carry judgment** — anyone named in body prose is explicitly praised or shamed; neutral attribution belongs in the endnotes.
+- **Cooking/baking metaphor** for the fraud vocabulary; *manufactured* / *engineered* / *architecture* for the engineered side.
+- **Vocabulary split** (pyramid side: *ecosystem*, *machinery*, *cartel*, *regime*, *nexus*; Indic side: *architecture*, *framework*, *infrastructure*, *constellation*, *engine*, *grid*, *fabric*).
 - ***Heroic erasure*** as a standing concept.
 - The cluster vocabulary (*progressive dogma*, *church of progress*, *missionaries / jihadis / priests of progress*, *fourth Abrahamic religion*) carries forward as standing structural categories.
-- **Sanskrit grammar terms** named in both registers (*vibhakti* / *lakāra* / *vacana* pairings with English equivalents).
+- **Sanskrit grammar terms** named in both vocabularies (*vibhakti* / *lakāra* / *vacana* pairings with English equivalents).
 - **Authoritative voice** (no recoverist hand; named-agent active verbs).
 
 Forthcoming volumes may coin additional standing vocabulary:
@@ -409,7 +411,7 @@ Forthcoming volumes may coin additional standing vocabulary:
 - *Sat-asat-viveka-buddhi* (the discriminative-intelligence faculty)
 - *Aham / atma* polarity
 - *Paroksha / aparoksha* polarity
-- *Suratva / asuratva* (the light/noise axis as polity-architectural register)
+- *Suratva / asuratva* (the light/noise axis as a polity-architectural frame)
 - *Plenomics* (the economic-volume's positive program; counter-naming to scarcity-economics)
 
 The book-coined English terms ***Mnemoniture***, ***Flexture***, ***Auditure*** (Vol 1 Ch 13 / 15) become standing English terms forthcoming volumes can deploy.
