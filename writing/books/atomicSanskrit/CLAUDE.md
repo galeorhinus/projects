@@ -454,6 +454,12 @@ Do not turn an outline into prose by placing each point in its own short sentenc
 
 An established refrain may close a movement when the manuscript has already earned and repeated it, but a section needs no special closing device. Its final sentence should complete the explanation in the syntax natural to that thought.
 
+### Plain-language precision — explain the qualification
+
+Write for an intelligent reader who has no training in linguistics, law, or academic debate. Prefer ordinary nouns and concrete verbs whenever they can state the fact accurately. When a simple sentence would overclaim, add another plain sentence that explains exactly what is known, inferred, or uncertain. Do not solve the problem by compressing the qualification into legal or academic phrases such as ***contested influence, documented transmission, the evidence supports, requires us to compare, preserves a line of transmission,* or *the claim remains defensible***. These phrases classify the argument instead of showing the reader what happened.
+
+Thus *"The following cases move from contested influence toward documented transmission"* becomes: *"Words and sound-grids can travel without leaving a written record of every step. Grammatical knowledge is often easier to follow because scholars reuse terms, categories, and methods. The following examples show how that knowledge traveled from one language to another."* The governing test is conversational: **would the author naturally say the sentence to a thoughtful reader sitting across the table?** If not, replace institutional vocabulary with the people, actions, objects, and uncertainty actually involved.
+
 ### Hammer pass — preserve first, judge separately
 
 Rhetorical emphasis belongs to a separate pass after the causal explanation is complete. During structure, transition, and exposition passes, preserve an existing hammer unless it creates a factual contradiction or makes the surrounding argument incoherent. Repair the prose leading into it without deleting it merely because it is short, emphatic, or paratactic. An established refrain carries a presumption of retention.

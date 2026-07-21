@@ -23,6 +23,22 @@ When rewriting existing prose:
 - Combine related beats when separate short sentences would force the reader to reconstruct the connection.
 - Preserve an established refrain when it belongs to the manuscript's architecture, but do not use its compressed cadence as a drafting template.
 
+## Plain-Language Precision
+
+Write as though explaining the argument to an intelligent reader who has no training in linguistics, law, or academic debate. Use ordinary nouns and concrete verbs whenever they can state the fact accurately.
+
+When accuracy requires a qualification, spend another plain sentence explaining it. Do not compress the qualification into legal or academic phrases such as *contested influence*, *documented transmission*, *the evidence supports*, *requires us to compare*, *preserves a line of transmission*, or *the claim remains defensible*. Those phrases classify the argument instead of explaining what happened.
+
+Prefer:
+
+> Words and sound-grids can travel without leaving a written record of every step. Grammatical knowledge is often easier to follow because scholars reuse terms, categories, and methods. The following examples show how that knowledge traveled from one language to another.
+
+Over:
+
+> The following cases move from contested influence toward documented transmission.
+
+The test is conversational: **Would the author naturally say this sentence to a thoughtful reader sitting across the table?** If not, replace the institutional vocabulary with the people, actions, objects, and uncertainty actually involved.
+
 ## Books and Chapters as Textual Agents
 
 Books, chapters, sections, figures, and tables may perform actions that texts genuinely perform: they may *argue, introduce, compare, map, survey, trace, show, propose, return to,* or *summarize*. Use them when they accurately describe the reader's movement through the text and when replacing them would create a strained passive construction or assign the work to the wrong actor.
