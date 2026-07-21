@@ -138,9 +138,25 @@ It recognizes the Masoretic Hebrew apparatus: the schools of Jewish scribes at T
 
 These are the control cases. They prove that the machinery already knows how to recognize engineered preservation when the system fits categories it can manage: fixed text, named custodians, dated interventions, visible machinery, and authority-controlled transmission.
 
+### Why Petrification Appeals to the Pyramid
+
+Chapter 2 calls the resulting condition **petrification** when an institution holds a bounded linguistic form apart from ordinary change and makes its accepted form and interpretation depend upon custodians. The term applies to the guarded form, rather than to every language spoken around it. A fixed corpus can remain beside living speech for centuries while the two undergo very different histories.[NOTE: petrified-bounded-forms]
+
+Arabic makes the arrangement easy to see. The Quranic form remains bounded through the *muṣḥaf*, memorization, authorized readings, and recitational disciplines. Modern Standard Arabic extends that inheritance through academies, schools, publishing, broadcasting, and government, while Moroccan, Egyptian, Levantine, Gulf, and other spoken Arabics continue changing through daily use. The familiar labels *High* and *Low* describe their places in an institutional hierarchy; they do not measure the linguistic worth of the people speaking them.[NOTE: petrified-bounded-forms]
+
+Petrification appeals to the pyramid because each preservation function acquires an institutional owner. An authorized edition defines the bounded object, an office governs interpretation, credentials determine who may speak with authority, and centralized education teaches everyone else which form deserves prestige. The form may be preserved with great rigor, while the power to define correctness and authorize interpretation stands above it.
+
 The Masoretic apparatus has layered textual and vocalic control. Quranic preservation has layered recitational and chain-of-transmission control. The Latin canon has institutional copying and correction. Sanskrit has a six-layer calibration matrix plus combinatorial recitation forms — the ***jaṭā*** and ***ghana pāṭhas*** (Chapter 15) — that re-encode the Vedic corpus in multiple transformations precisely so that any drift in one form is detectable by mismatch with the others. On technical depth, Sanskrit matches or exceeds the benchmark cases. On continuity, Sanskrit runs across thousands of years. On redundancy, Sanskrit is more layered than any of the three.
 
-Each of the three systems seeks preservation, but each locates corrective authority differently. Codified systems place that authority around a bounded text, whereas Sanskrit continuously calibrates a living architecture that includes the sound-system, grammar, atom-inventory, and generative engine together.
+The systems all seek preservation, but corrective authority occupies a different place in each. Authority-bound systems place it around a bounded text, whereas Sanskrit continuously calibrates a living architecture that includes the sound-system, grammar, atom-inventory, and generative engine together.
+
+### How the Pyramid Steers Living Speech
+
+The same institutions can steer a botanical language without freezing it. A survey first shows the pyramid which forms people use and which meanings circulate among them. Schools, examinations, government offices, publishers, broadcasters, translators, and employers then attach material reward and public prestige to selected forms. A favored vocabulary enters textbooks, official records, and paid work, while another vocabulary is pushed toward the home and marked as provincial, obsolete, vulgar, or incorrect. Speakers continue shaping their language through ordinary use, but institutional power has changed the pressures surrounding their choices.[NOTE: botanical-drift-prestige-memory]
+
+Those pressures accumulate across generations. When older words, idioms, and grammatical forms recede from ordinary speech, later readers depend more heavily upon translators, teachers, and institutions to explain the inherited record. An institution that controls both the prestigious language and the authorized account of the past can soften an older warning, replace its category, or remove it from instruction. Natural speech remains indispensable for communication, adaptation, and renewal; the vulnerability appears when a civilization asks changing speech to bear its entire long-term memory without an independent calibrant beside it.
+
+The pyramid therefore benefits from both arrangements. Petrification gives it custody over a bounded form, while institutional pressure lets it influence the direction of botanical change. Sanskrit keeps the fixed measure inside a distributed and generative architecture, beyond either form of institutional custody.
 
 The asymmetry is what exposes the pyramid's insecurity or perhaps jealousy.
 

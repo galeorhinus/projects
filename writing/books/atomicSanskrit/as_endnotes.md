@@ -4516,6 +4516,23 @@ Source: Michiel de Vaan, *Etymological Dictionary of Latin and the Other Italic 
 
 ---
 
+### `dhatu-endowment-families`
+
+**Short:** The six rows use the Western etymological apparatus's own correspondence sets. Its starred reconstructions and its Greek, Latin, and Germanic branches are reported here as data; the Radiance Thesis reverses the direction assigned to them. The Sanskrit forms are recorded atoms, while the proposed PIE forms are inferred from the correspondences. The directional interpretation belongs to the book's argument rather than to the cited Western reference.
+
+The [American Heritage Dictionary's Indo-European Roots Appendix](https://www.ahdictionary.com/word/indoeurop.html) provides a compact audit of all six families. Its headline notation is **\*stā-, \*genə-, \*weid-, \*dhē-, \*bher-,** and **\*mē-**; the same entries give the modern laryngeal forms used in the chapter where applicable: **\*steh₂-, \*ǵenh₁-, \*dʰeh₁-,** and **\*meh₁-**. The appendix groups the receiving-language routes as follows:
+
+- **\*stā- / \*steh₂-:** Latin *stāre* supplies *circumstance, constant, instant,* and *substance*; Latin *status* and *statuere* supply *state, status, statue,* and *statute*; Greek *stasis, statos,* and *systēma* supply *stasis, static,* and *system*. The same entry prints Sanskrit *ātiṣṭhati* from *ā-* + ⟪स्था⟫.
+- **\*genə- / \*ǵenh₁-:** Latin *genus, genius, gignere,* and *nāscī* supply the *general / generate / genius / nation / nature / native* branches; Greek *genos* and *genesis* supply *gene* and *genesis*; Germanic *kunjam* supplies *kin* and *king*. The entry also prints Sanskrit *janaḥ* and *jāta*.
+- **\*weid-:** Latin *vidēre* supplies *vision, evident, provide,* and *review*; Greek *ideā* supplies *idea*; Germanic forms supply *wit* and *wisdom*. The entry prints Sanskrit *vedaḥ* under the same family.
+- **\*dhē- / \*dʰeh₁-:** Latin *facere* supplies *fact, factory, effect,* and *office*; Greek *tithenai, thesis,* and *thema* supply *thesis, hypothesis,* and *theme*. The entry prints Sanskrit *dadhāti, saṃhitā,* and *sandhi* under this family.
+- **\*bher- / \*bʰer-:** Latin *ferre* supplies *transfer, refer, confer,* and *fertile*; Greek *pherein* and *phoros* supply *metaphor, phosphorus,* and *euphoria*. The entry prints Sanskrit *bharati* under the same family.
+- **\*mē- / \*meh₁-:** Latin *mētīrī* securely supplies *measure, dimension,* and *immense*. The appendix also groups Greek *metron* with *metre, geometry,* and *symmetry*, while explicitly marking the assignment of *metron* to this family as possible rather than certain. The body keeps that branch because it is part of the Western grouping being examined; the Latin branch carries the row without it. The same entry prints Sanskrit *mimīte*.
+
+The Dhātupāṭha meanings used for the source column are the ones developed elsewhere in the manuscript: ⟪स्था⟫, stand; ⟪जन्⟫, beget / be born; ⟪विद्⟫, know; ⟪धा⟫, place / hold; ⟪भृ⟫, bear / carry; and ⟪मा⟫, measure. This note verifies the membership of the six comparison sets. It does not treat resemblance alone as proof of direction; Chapter 18 supplies the architectural and contact argument for the reversal.
+
+---
+
 ### `asura-standard-etymology-contested`
 
 **Short:** Ch 18 §18.8 uses the Western philological dogma's account of *asura-* as an example of PIE overreach: Mayrhofer treats Sanskrit *asura-* through Indo-Iranian **\*asura-** and toward a contested PIE reconstruction — while the machinery's own dictionary already recorded both Sanskrit derivations side by side: Monier-Williams s.v. *asura* gives the *asu* (life-force, via √as) derivation and the privative *a-* + *sura* re-analysis in the same entry.
@@ -4576,7 +4593,7 @@ Sources: Einar Haugen, ["Dialect, Language, Nation," *American Anthropologist* 6
 
 **Short:** Political and institutional power cannot dictate every change in a natural language, but it can alter the pressures under which speakers select forms. Schooling, office, publication, broadcasting, translation, examination, and employment can attach prestige and material reward to one form of speech while marking another as provincial, vulgar, obsolete, or incorrect. When linguistic change later places older records behind translators and specialists, the institutions that control those mediators acquire leverage over inherited memory.
 
-**Deployments:** Chapter 2 §2.1 (the mechanism connecting surveyable drift to institutional influence and long-term defensive memory); compact callbacks planned for Chapters 1, 6, 13, and 14; conceptual extension in endnote `compatibility-is-not-immunity` and the *Second Shanti* series note on codified history versus calibrant history.
+**Deployments:** Chapter 2 §2.1 (the mechanism connecting surveyable drift to institutional influence and long-term defensive memory); compact callbacks in Chapters 1, 6, 13, and 14 §14.6; conceptual extension in endnote `compatibility-is-not-immunity` and the *Second Shanti* series note on codified history versus calibrant history.
 
 The claim is about **selection pressure rather than total command**. Speakers continue to create linguistic change through ordinary use, contact, childhood acquisition, analogy, and local preference. Institutions intervene by changing which forms receive classroom time, official recognition, employment value, publication access, and public prestige. Language-planning scholarship describes comparable operations through selection of a norm, codification, elaboration of function, and social acceptance. The book places those familiar operations inside its apex analysis: the survey maps the field, and institutional control changes the rewards attached to movement within that field.
 

@@ -201,9 +201,11 @@ The *mother* family becomes clear:
 >
 > *atom → molecule → seed → sprout — life begins*
 
-The chain just walked is *Pratibimba* operating through **vivimorphosis** — the engineered *śabda* of Sanskrit transforming into the organic *apaśabda* of a contact language across thousands of years of *apabhraṃśa*. Chapter 12 §12.5 gives the three-stage mechanism: **शब्द (*śabda*)** as the inorganic molecule on the calibrant's side; **बीज (*bīja*)** as the seed-state the molecule occupies in the head of a non-Sanskrit listener who has received it; **अपशब्द (*apaśabda*)** as the organic form that sprouts when the *bīja* is finally expressed in the receiving language. What Indo-European philology treats as reconstructed ancestry is precisely these expressed *bījas*.
+The chain just traced is *Pratibimba* operating through **vivimorphosis** — an engineered Sanskrit *śabda* becoming an organic *apaśabda* in a contact language across thousands of years of *apabhraṃśa*. Chapter 12 §12.9 develops the three-stage mechanism. The **शब्द (*śabda*)** remains an inorganic molecule on the calibrant's side. A non-Sanskrit listener receives that molecule as **बीज (*bīja*)**, a seed held in the mind. When the listener expresses it through the sounds and habits of the receiving language, the seed becomes **अपशब्द (*apaśabda*)**, an organic form that can change and generate within its new linguistic field. Indo-European philology begins with these resulting *apaśabdas* and treats them as descendants of a reconstructed ancestor.
 
-![Figure 18.6 — The Vivimorphosis of ⟪स्था⟫ (*sthā*). From engineered Sanskrit molecules to an organic language tree.](figures/pie_in_sky/stha_vivimorphosis.svg){#fig:ch18-stha-vivimorphosis width=100%}
+![Figure 18.6 — The Vivimorphosis of ⟪स्था⟫ (*sthā*). From engineered Sanskrit molecules to an organic tree in the receiving languages.](figures/pie_in_sky/stha_vivimorphosis.svg){#fig:ch18-stha-vivimorphosis width=100%}
+
+Figure 18.6 keeps the category boundary visible. The hexagons on the left are engineered Sanskrit molecules built from ⟪स्था⟫ (*sthā*). The tree begins only after those molecules enter receiving languages and take organic life there. Its trunk and branches belong to the receiving side; they do not depict Sanskrit's architecture.
 
 The same pattern appears in *devaḥ*:
 
@@ -214,9 +216,24 @@ The same pattern appears in *devaḥ*:
 >
 > *atom → molecule → seed → sprout — life begins*
 
-The pyramid's etymology projects Latin *deus* backward to PIE **\*deiwós** and **\*dyew-**.[NOTE: deva-pie-etymology] The Sanskrit chain is not projected. It is visible through the *dhātu*, the *śabda*, and the derivational architecture. The Latin form is the *apaśabda* — the organic form that sprouts in the receiving language after the Sanskrit molecule enters as *bīja*, the visarga reduced to a plain *-us*, the dhātu-derivation no longer visible to a Latin speaker.
+The pyramid's etymology projects Latin *deus* backward to PIE **\*deiwós** and **\*dyew-**.[NOTE: deva-pie-etymology] The Sanskrit chain is visible through the *dhātu*, the *śabda*, and the derivational architecture. The Latin form is the *apaśabda* — the organic form that sprouts in the receiving language after the Sanskrit molecule enters as *bīja*, the visarga reduced to a plain *-us*, the dhātu-derivation no longer visible to a Latin speaker.
 
-Philology under the descent assumption treats the reflections as evidence of a vanished ancestor. The calibrant account identifies them as reflections of the calibrant. The data is the same. The interpretation is incompatible.
+The ⟪स्था⟫ and ⟪दिव्⟫ families are part of a much larger endowment. Western etymological references repeatedly place a starred reconstruction above a compact Sanskrit atom and a large family of words in the receiving languages. Put the recorded atom back into that source position, and six familiar families come into view:[NOTE: dhatu-endowment-families]
+
+| Sanskrit atom | Pyramid's reconstructed source | Families grown in receiving languages |
+|---|---|---|
+| **⟪स्था⟫ (*sthā*)** — stand, remain | **\*steh₂-** | Latin *stāre* → *status, state, station, stable, circumstance, constant, substance*; Greek *stasis / systēma* → *stasis, static, system* |
+| **⟪जन्⟫ (*jan*)** — beget, be born | **\*ǵenh₁-** | Latin *genus / gignere / nāscī* → *genus, generate, general, genius, gentle, nation, nature, native*; Greek *genos / genesis* → *gene, genesis*; Germanic → *kin, kind, king* |
+| **⟪विद्⟫ (*vid*)** — know | **\*weyd-** | Latin *vidēre* → *vision, evident, provide, review*; Greek *ideā* → *idea*; Germanic → *wit, wisdom* |
+| **⟪धा⟫ (*dhā*)** — place, hold | **\*dʰeh₁-** | Latin *facere* → *fact, factory, effect, office*; Greek *tithenai / thema* → *thesis, theme, hypothesis* |
+| **⟪भृ⟫ (*bhṛ*)** — bear, carry | **\*bʰer-** | Latin *ferre* → *transfer, refer, confer, fertile*; Greek *pherein* → *metaphor, phosphorus, euphoria* |
+| **⟪मा⟫ (*mā*)** — measure | **\*meh₁-** | Latin *mētīrī* → *measure, dimension, immense*; Greek *metron* → *metre, geometry, symmetry* |
+
+Greek, Latin, and Germanic received these seeds and made them productive in their own languages. Each family continued to grow through the sounds, affixes, and habits of its new field, while the semantic reach of the Sanskrit atom remained recognizable across the canopy. Vivimorphosis therefore explains both sides of the contact: Sanskrit's radiance endows the receiving language, and the receiving language turns that endowment into organic growth.
+
+The PIE account reverses the direction shown in Figure 18.6. It begins with organic forms in the receiving languages, groups their correspondences, and reconstructs a botanical parent behind them. The pyramid then reads those vivimorphosed descendants as evidence for that parent and makes Sanskrit descend from the reconstruction. Through that reversal, the engineered source becomes one daughter branch beneath an imaginary ancestor assembled from reflected forms.
+
+Both accounts examine the same correspondences. The descent account interprets them as inheritances from an unrecorded parent, while the calibrant account traces them outward from a recorded Sanskrit atom and the molecules it generates. Those directions also produce an evidentiary difference. The calibrant account begins with an operating architecture that remains available for examination; the descent account begins with a reconstructed form inferred from the correspondences it is then used to explain.
 
 ## 18.8 PIE Is a Lie — *Asura*
 

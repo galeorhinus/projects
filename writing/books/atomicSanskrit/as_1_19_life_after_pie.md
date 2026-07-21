@@ -6,7 +6,7 @@ Sanskrit’s radiance moved outward in waves. Wherever that radiance reached, sp
 
 Wave 1 radiated Sanskritic structure outward before Pāṇini, through Vedic-trained experts. Wave 2 radiated the science of grammar outward after Pāṇini, through methodological imitation. The Diasporic Wave bore Indic substrate outward through communities rather than experts. Wave 3 is contemporary: the Sun seen again, the architecture restated, and the radiance taken up by those who have relearned enough to bear it truthfully.
 
-Unlike the migratory stories imagined by the pyramid, these are radiance stories. The trees of Chapter 18 grow where Sanskrit’s light landed.
+Where the pyramid imagines populations carrying a mutating ancestor, the Radiance Thesis follows experts and communities carrying Sanskritic structure, method, and vocabulary. Chapter 18 ended with six receiving-language canopies grown from compact Sanskrit atoms. This chapter follows the carriers whose work allowed such trees to grow where Sanskrit’s light landed.
 
 Life after PIE begins by explaining Sanskrit through its own architecture rather than through an invented ancestor.
 
