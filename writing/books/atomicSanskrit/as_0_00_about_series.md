@@ -1,6 +1,6 @@
 # About the *Second Shanti* Series
 
-Many Vedic recitations conclude with **शान्तिः (*śāntiḥ*)** uttered three times, directing peace toward three distinct fields of life. The ***Second Shanti*** series takes organized human life as its field and asks how one ordering architecture recurs through language, polity, economy, responsibility, and the other systems by which people live together.
+Many Vedic recitations conclude with **शान्तिः (*śāntiḥ*)** uttered three times, directing peace or quietude toward three distinct domains or worlds. The ***Second Shanti*** series takes organized human life as its field and asks how one ordering architecture recurs through language, polity, economy, responsibility, and the other systems by which people live together.
 
 The Vedic corpus preserves sacred Speech together with architectures of memory, measure, discipline, and balance. Hindus have treated its protection as a civilizational duty across thousands of years because exact transmission kept all of these available across time. The pyramid teaches the modern reader to see old texts and inherited practices where the Hindu continuum preserved working systems; each volume makes another layer of those systems visible.
 
