@@ -96,21 +96,22 @@ The methodological best was the bake.
 
 The recipe leaves residue. The residue sits in the ecosystem's own reference pages.
 
-The *Dhātupāṭha* provides Sanskrit with unified semantic atoms. PIE reconstruction splinters those atoms into multiple imaginary ancestors, pushing one *dhātu* into the machinery to extract two or three PIE ancestor-forms. This splintering remains the defining signature of the method rather than a rare exception.
+Sanskrit provides unified semantic atoms and also documents the relationships between them. PIE reconstruction handles that architecture in two ways. It can split one Sanskrit atom into several imaginary ancestors, or it can place starred ancestors above a receiving language that has joined two Sanskrit atoms inside one paradigm. Both operations push the recorded Sanskrit architecture beneath a reconstructed chronology.
 
-### Case 1 — ⟪दृश्⟫ (*dṛś*) dhātu, to see
+### Case 1 — ⟪अस्⟫ (*as*) and ⟪भू⟫ (*bhū*), being and becoming
 
-The *dhātu* generates the unified family *darśanam* / *dṛṣṭi* / *dṛśyam* / *paśyati* — viewing, sight, the visible, the finite present-tense form. One semantic field: seeing. The pyramid's account splits the family across separate PIE attributions:
+Sanskrit preserves **⟪अस्⟫ (*as*)** and **⟪भू⟫ (*bhū*)** as two atoms. Ṛgveda 10.129 uses **आसीत् (*āsīt*, "was")** and **आ बभूव (*ā babhūva*, "came into being")** within the same sūkta. Pāṇini later documents their grammatical relationship through **अस्तेर्भूः (2.4.52)**, under which **⟪भू⟫** replaces **⟪अस्⟫** in the specified *ārdhadhātuka* formations.[NOTE: as-bhu-being-paradigm]
 
-| English cognate | Proximate source | PIE attribution |
+Latin joins the reflections of both atoms inside one verb:
+
+| Latin paradigm | Sanskrit field | PIE attribution |
 |---|---|---|
-| **dragon** | Greek *derkesthai* "to see" | \***derḱ-** "to see" — Sanskrit *dṛś* cited as type specimen |
-| **spy**, **spectacle**, **inspect**, **species** | Latin *specere* "to look at" | \***spek-** "to observe" — Sanskrit *paśyati* explicitly attributed |
-| **theory** | Greek *theōros* "spectator" | \***wer- (3)** "to perceive" *(Watkins, "perhaps")* — no Sanskrit cognation listed |
+| ***sum, es, est, esse, eram, erō*** | **⟪अस्⟫ (*as*)** | \***h₁es-** |
+| ***fuī, fueram, fuerō, futūrus*** | **⟪भू⟫ (*bhū*)** | \***bʰuH-** |
 
-The machinery's own confession, printed on the Wiktionary entry for पश्यति, attributes *paśyati* to Proto-Indo-European \*speḱ- and the rest of the paradigm to Proto-Indo-European \*derḱ-. One sentence admits the splinter: what Sanskrit treats as one *dhātu* with one paradigm, the pyramid's account attributes to two separate reconstructed PIE ancestor-forms. *Suppletive* exposes the machinery's inability to unify the Sanskrit paradigm under a single reconstructed ancestor-form. Suppletion is not a feature of Sanskrit; it is the regime's signature on its own failure to unify what the Pāṇinian framework unifies by standard present-tense derivation. The Sanskrit semantic origin of *seeing as theory* simply does not appear in the ecosystem's account of *theory* at all.
+Latin grammar calls ***sum, esse, fuī, futūrus*** one irregular verb and requires the learner to memorize the change from ***s- / es-*** to ***fu-***. Sanskrit keeps the two atoms visible and documents their connection. The reconstructed account takes those atoms, places starred copies above Sanskrit, Greek, and Latin, and calls the visible relationship inheritance.
 
-*Suppletion* is the bakers admitting the recipe slipped.
+*Latin memorizes the switch. Sanskrit explains it.*
 
 ### Case 2 — ⟪भा⟫ (*bhā*) dhātu, to shine; to appear; to speak
 
@@ -167,7 +168,7 @@ The *ped-* / *pol-* split. The Sanskrit *dhātu* holds both senses under one sem
 
 ### The pattern
 
-Five cases. Each case shows one Pāṇinian *dhātu* splintered across two or three reconstructed PIE ancestor-forms by Western philological machinery. The cases above were sampled, not curated for damage. The operation is what the *Dhātupāṭha* looks like after the bake: each *dhātu*'s unified semantic field broken across multiple imaginary ancestors, the unification Sanskrit's morphology generates suppressed by the comparative method's reconstructive instincts. The headline confession — *suppletion* in the *dṛś* case — captures what the machinery is doing in every case.
+Five cases. The first shows a receiving language joining two Sanskrit atoms and then treating their reflections as an inherited irregularity. The other four show one Sanskrit atom splintered across two or three reconstructed PIE ancestor-forms. The cases were sampled rather than chosen for damage. Together they show what happens when the comparative method places reconstruction above the *Dhātupāṭha*: Sanskrit's documented architecture disappears, while starred forms inherit its position.
 
 Sanskrit's *dhātavaḥ* are atoms. The bake produces the apparent illusion that the atoms are themselves compounds of older, imagined atoms. The illusion is the recipe. The recipe runs across thousands of *dhātavaḥ*.
 
@@ -185,7 +186,7 @@ The architecture of containment Chapter 3 §3.5 develops operates here at the mo
 
 *Sanskrit's deepest institutional home in the western subcontinent has held the **asuric pyramid**'s operation on Sanskrit for two centuries, with no political transition interrupting the work.*
 
-The *dhātu* cluster evidence of §1.5 forms the operation's empirical residue. Recipe after recipe sits on the ecosystem's own reference pages, leaving the slip in plain print: the *suppletive* confession on पश्यति, the numbered \**bha-* (1) and \**bha-* (2), the baby-talk apology for \**méh₂tēr-*, the disagreement across references on ⟪गम्⟫ (*gam*), and the *ped-* / *pol-* split where the Sanskrit *dhātu* unifies. The *dhātavaḥ* represent the engineering on the ground, while the recipes constitute the bake on the page.
+The *dhātu* cluster evidence of §1.5 forms the operation's empirical residue. Recipe after recipe sits on the ecosystem's own reference pages: Latin's ***sum, esse, fuī, futūrus*** joins the **⟪अस्⟫ / ⟪भू⟫** fields; the numbered \**bha-* (1) and \**bha-* (2) divide **⟪भा⟫**; the baby-talk apology separates *mātṛ* from **⟪मा⟫**; the references disagree over the descendants of **⟪गम्⟫**; and the *ped-* / *pol-* split divides what **⟪पद्⟫** unifies. The *dhātavaḥ* represent the engineering on the ground, while the recipes constitute the bake on the page.
 
 Four lines close the appendix in parallel with Chapter 18:
 

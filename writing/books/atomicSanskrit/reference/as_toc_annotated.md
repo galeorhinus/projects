@@ -240,7 +240,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 18.6 Kin, Kind, King: the Dictionary Shift — *The* jan / \*ǵenh₁ *case: the star moves into the source slot and Sanskrit is demoted into the cognate list.*
 - 18.7 *Pratibimba* — *Vivimorphosis chains as arrow blockquotes; the calibrant /* Pratibimba *triad.*
 - 18.8 PIE Is a Lie — *Asura* — Asuraḥ *worked example with the* PIE is a Lie *escalation.*
-- 18.9 One *Dhātu*, Three PIEs — *The cluster argument: the* dṛś *dhātu generates a family the machinery splits across three reconstructed PIE ancestor-forms.*
+- 18.9 Being and Becoming — Sanskrit preserves ⟪अस्⟫ and ⟪भू⟫ as two atoms and documents their relationship; Latin joins their reflections inside *sum, esse, fuī, futūrus*.
 
 ---
 

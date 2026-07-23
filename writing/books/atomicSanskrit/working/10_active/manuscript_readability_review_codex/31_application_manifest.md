@@ -104,7 +104,7 @@ This manifest records the decisions already implemented from review files 01–2
 | C18-004 | APPLIED | [Chapter 18 §18.4](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_18_pie_in_sky.md:93) |
 | C18-005 | APPLIED | [Chapter 18 §18.7](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_18_pie_in_sky.md:177) |
 | C18-006 | APPLIED | [Chapter 18 §18.8](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_18_pie_in_sky.md:230) |
-| C18-007 | APPLIED | [Chapter 18 §18.9](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_18_pie_in_sky.md:296) |
+| C18-007 | SUPERSEDED | [LAF-R-078](../../40_reference/source_material/manuscript_readability_audit_lost_and_found.md#laf-r-078--the-retired-दृश्-theory-case) |
 | C18-008 | APPLIED | [Chapter 18 close](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_18_pie_in_sky.md:312) |
 | C19-001 | APPLIED | [Chapter 19 §19.1](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_19_life_after_pie.md:13) |
 | C19-002 | APPLIED | [Chapter 19 §19.1](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_19_life_after_pie.md:15) |
@@ -160,7 +160,7 @@ All 111 applied revisions have been reconciled against the manuscript. The [Lost
 | C15-007 | [LAF-R-027](../../40_reference/source_material/manuscript_readability_audit_lost_and_found.md#laf-r-027--the-full-empirical-verification-claim) | C16-002 | [LAF-R-028](../../40_reference/source_material/manuscript_readability_audit_lost_and_found.md#laf-r-028--the-mouth-field-is-older-than-the-taxonomy) |
 | C16-003 | [LAF-R-029](../../40_reference/source_material/manuscript_readability_audit_lost_and_found.md#laf-r-029--one-sonomer-across-four-levels) | C16-007 | [LAF-R-030](../../40_reference/source_material/manuscript_readability_audit_lost_and_found.md#laf-r-030--the-continuous-return-to-the-workshop) |
 | C16-008 | [LAF-R-031](../../40_reference/source_material/manuscript_readability_audit_lost_and_found.md#laf-r-031--the-second-five-feature-recap) | C19-003 | [LAF-R-032](../../40_reference/source_material/manuscript_readability_audit_lost_and_found.md#laf-r-032--the-pre-vedic-mitanni-claim) |
-| C18-007 | [LAF-R-076](../../40_reference/source_material/manuscript_readability_audit_lost_and_found.md#laf-r-076--the-earlier-dṛś-paśyati-and-theory-indictment) | EPI-009 | [LAF-R-077](../../40_reference/source_material/manuscript_readability_audit_lost_and_found.md#laf-r-077--the-earlier-five-step-nectar-protocol) |
+| C18-007 | [LAF-R-076](../../40_reference/source_material/manuscript_readability_audit_lost_and_found.md#laf-r-076--the-earlier-dṛś-paśyati-and-theory-indictment), [LAF-R-078](../../40_reference/source_material/manuscript_readability_audit_lost_and_found.md#laf-r-078--the-retired-दृश्-theory-case) | EPI-009 | [LAF-R-077](../../40_reference/source_material/manuscript_readability_audit_lost_and_found.md#laf-r-077--the-earlier-five-step-nectar-protocol) |
 
 ## Contradiction-Audit Repairs
 

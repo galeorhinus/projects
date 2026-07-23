@@ -3692,7 +3692,7 @@ The replacement softens two original hammers: "the splinter is in plain print" a
 
 ### Replacement or Result
 
-The Epilogue now assigns the method explicitly to Indian universities, joins Sanskrit, Greek, Latin, Persian, and computational analysis in one program, adds the fivefold *vyutpatti* operations to the protocol, and points back to the worked ⟪दृश्⟫–*theory* example in Chapter 18.
+The Epilogue now assigns the method explicitly to Indian universities, joins Sanskrit, Greek, Latin, Persian, and computational analysis in one program, adds the fivefold *vyutpatti* operations to the protocol, and points back to the worked **⟪अस्⟫ / ⟪भू⟫** example in Chapter 18.
 
 ### Reason Proposed
 
@@ -3716,4 +3716,42 @@ The replacement preserves the original reversal by making Indian scholars the ac
 
 ```text
 
+```
+
+---
+
+## LAF-R-078 — The retired ⟪दृश्⟫–*theory* case
+
+**Source:** Chapter 18 §18.9; Appendix Part 1 §1.5; Epilogue, "Where the Nectar Rises"; supporting endnotes
+**Checkpoint:** `a922e903`
+**Change type:** REPLACE + RELOCATE
+**Status:** DEVELOP LATER
+**Applied:** YES
+**Destination:** [Dedicated Lost and Found record](drsh_theory_case_lost_and_found.md)
+
+### Material Removed
+
+The worked **⟪दृश्⟫ / पश्यति / theory** case, its appendix summary, its epilogue pointer, and its two supporting endnotes were removed from active deployment. The dedicated record preserves the complete Chapter 18 section and appendix case; checkpoint `a922e903` preserves the exact final state of the former endnotes.
+
+### Replacement or Result
+
+Chapter 18 §18.9 now uses **⟪अस्⟫ / ⟪भू⟫** and Latin ***sum, esse, fuī, futūrus***. The replacement begins with the two Sanskrit atoms, shows both already operating in Ṛgveda 10.129, presents Pāṇini's later documentation in **अस्तेर्भूः (2.4.52)**, and then applies the fivefold *vyutpatti* method to the recorded Greek and Latin forms.
+
+### Reason Proposed
+
+The *dṛś–theory* derivation depended on a sound path that had not yet been tested across a larger set of families, while the Sanskrit-side reason for the **दृश् / पश्य** relationship remains open. The **⟪अस्⟫ / ⟪भू⟫** case supplies a visible Sanskrit rule and a familiar Latin paradigm.
+
+### Author Decision
+
+- [ ] RESTORE IN PLACE
+- [ ] RELOCATE
+- [ ] INCORPORATE PART
+- [x] DEVELOP LATER
+- [ ] KEEP CUT
+- [ ] REVISE AGAIN
+
+### Author Comments
+
+```text
+The dṛś case may return after the Sanskrit-side architecture and the proposed Greek sound path have been investigated separately.
 ```

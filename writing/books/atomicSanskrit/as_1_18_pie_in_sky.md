@@ -270,38 +270,45 @@ The *apaśabda* *ahura* anchors the central theological vocabulary of the Zoroas
 
 **Process across all three vivimorphosis stages:** *apabhraṃśa* / vivimorphosis. **What IE philology treats as reconstructed ancestry:** the bottom row — the *apaśabdas*. **The seed (*bīja*) is the missing middle.** The adversary-word — *a-sura*, the un-shining, the privative of ⟪सुर्⟫'s shining one — sits on the same Sanskrit form and takes no part in this chain; Chapter 3 §3.6 holds the two words apart.
 
-## 18.9 One *Dhātu*, Three PIEs
+## 18.9 Being and Becoming
 
-The recipe slips most visibly when one Sanskrit *dhātu* generates a family that the pyramid's account splits across multiple PIE ancestor-forms.
+A Latin student learns ***sum, esse, fuī, futūrus*** as the principal parts of a single verb: "to be." The sequence begins with ***s- / es-*** and then switches to ***fu-***. Latin grammar calls the verb irregular and asks the student to memorize the change. Sanskrit preserves the architecture behind it.
 
-Take **⟪दृश्⟫ (*dṛś*)** — to see, to perceive, to behold. Pāṇini's *Dhātupāṭha* enumerates it as one *dhātu*, and the engineering account documented in Chapter 12 generates from it a unified family of derivatives:
+### Sanskrit Preserves Two Atoms
 
-- **दर्शनम् (*darśanam*)** — viewing, vision, philosophical perspective (*kṛt* suffix *-ana* on the *guṇa*-grade *darś-*)
-- **दृष्टि (*dṛṣṭi*)** — sight, view (*kṛt* suffix *-ti*)
-- **दृश्यम् (*dṛśyam*)** — the visible, the seen (the *kṛtya* gerundive in *-ya*)
-- **पश्यति (*paśyati*)** — sees (the finite present-tense form, *laṭ-lakāra*)
+The *Dhātupāṭha* gives being and becoming two semantic atoms:
 
-Yielding four derivatives and one unified semantic field of seeing from a single *dhātu*, the Sanskrit side holds the entire family in one visible construction.
+- **⟪अस्⟫ (*as*) — असँ भुवि (*asaṃ bhuvi*)**: to be, to exist. Its forms include **अस्ति (*asti*, "is")**, **आसीत् (*āsīt*, "was")**, **अस्तु (*astu*, "let it be")**, and **स्यात् (*syāt*, "may it be")**.
+- **⟪भू⟫ (*bhū*) — भू सत्तायाम् (*bhū sattāyām*)**: to be, to become, to come into being. Its forms include **भवति (*bhavati*, "becomes / is")**, **बभूव (*babhūva*, "became / came into being")**, **भूतः (*bhūtaḥ*, "become / having been")**, and **भविष्यति (*bhaviṣyati*, "will be")**.
 
-Now follow the cognates outward into the receiving languages — the English words the Western philological account itself acknowledges as cognates of this Sanskrit *dhātu*'s derivative family — and watch the machinery dismantle the unity:
+Their meanings touch, but Sanskrit does not collapse them. **⟪अस्⟫** supplies forms of standing existence, while **⟪भू⟫** gives grammatical form to becoming, arising, and prospective being. Ṛgveda 10.129 uses both within the same sūkta. Its first mantra says that neither non-being nor being **आसीत् (*āsīt*, "was")** then; its sixth asks **यत् आ बभूव (*yat ā babhūva*)**, what "came into being." The distinction was operating in the Veda long before Pāṇini documented it.[NOTE: as-bhu-being-paradigm]
 
-[FIGURE 18.8: One Sanskrit *dhātu*, multiple PIE ancestor-forms — *dṛś* as unified Sanskrit family versus the pyramid's split into **\*derḱ-**, **\*spek-**, and dropped or displaced visual cognates.]
+Pāṇini later states the relationship in three syllables:
 
-| English cognate | Proximate source | PIE attribution *(pyramid's account)* |
+> अस्तेर्भूः ॥ २.४.५२ ॥
+>
+> ***Padaccheda:*** अस्तेः । भूः ॥
+>
+> ***Translation:*** In the specified *ārdhadhātuka* formations, **⟪भू⟫** replaces **⟪अस्⟫**.
+
+The commentaries illustrate the rule with **भविता (*bhavitā*)**, **भवितुम् (*bhavitum*)**, **भवितव्यम् (*bhavitavyam*)**, **बभूव (*babhūva*)**, and **भविष्यति (*bhaviṣyati*)**. Sanskrit therefore preserves two atoms, uses each where its architecture requires it, and explicitly documents the connection between them.
+
+### Latin Joins Them
+
+Latin brings the two Sanskrit fields into one verb:
+
+| Latin forms | Place in the Latin verb | Sanskrit atom visible in the forms |
 |---|---|---|
-| **dragon** | Greek *derkesthai* "to see" | **\*derḱ-** "to see" — Sanskrit *dṛś* cited as type specimen |
-| **spy**, **spectacle**, **inspect**, **species** | Latin *specere* "to look at" | **\*spek-** "to observe" — Sanskrit *paśyati* explicitly attributed |
-| **theory** | Latin *theoria*; Greek *theōria* "viewing, contemplation," from *theōros* "spectator" | **\*wer-(3)** "to perceive" *(Watkins, "perhaps")* — no Sanskrit cognation listed |
+| ***sum, es, est, esse, eram, erō*** | present, infinitive, imperfect, and future systems | **⟪अस्⟫ (*as*)** |
+| ***fuī, fueram, fuerō, futūrus*** | perfect system and future participle | **⟪भू⟫ (*bhū*)** |
 
-**One Sanskrit *dhātu*. The Western philological machinery splits the family.** The split appears in plain print on the same reference page. The entry for **पश्यति (*paśyati*)** assigns that form to PIE **\*speḱ-**, while assigning the remaining forms in the paradigm to PIE **\*derḱ-**:
+The Latin dictionary entry prints the switch directly: ***sum, esse, fuī, futūrus***. A Latin grammar also places Sanskrit ***asmi / asti*** beside Latin ***sum / est*** and identifies Latin ***fu- / fut-*** with the same family as Greek ***ἔφυ (*ephu*)*** and English ***be***. Greek keeps the two families more visibly apart: **ἐστί (*esti*, "is")** belongs with **⟪अस्⟫**, while **φύω (*phuō*, "bring forth / grow")**, **ἔφυ (*ephu*, "grew / became")**, and **φύσις (*physis*, "origin / nature")** belong with **⟪भू⟫**.[NOTE: as-bhu-being-paradigm]
 
-> The entry claims that पश्यति (*paśyati*) derives from Proto-Indo-European \*speḱ-, while the rest of the paradigm derives from Proto-Indo-European \*derḱ-.[NOTE: wiktionary-pasyati-suppletion]
+[FIGURE 18.8: Sanskrit preserves **⟪अस्⟫** and **⟪भू⟫** as two atoms and documents their relationship; Latin joins their reflections inside ***sum, esse, fuī, futūrus***.]
 
-Comparative philology calls this arrangement *suppletion*: forms within one verb paradigm are said to descend from different ancestral verbs. Pāṇini documents a different architecture. Sanskrit retains ⟪दृश्⟫ as the semantic atom and prescribes **पश्य (*paśya*)** as its replacement in the relevant present-tense environment. The surface form changes through a stated Sanskrit operation, while the meaning and the paradigm remain together. The comparative account divides that unity between two imaginary ancestors.
+### Apply the Fivefold Method
 
-*In this paradigm, suppletion is the reconstruction regime's name for the ancestral split it creates.*
-
-The third row, *theory*, can be examined through Sanskrit's own method of **व्युत्पत्ति (*vyutpatti*)**. The traditional fivefold method makes each operation explicit. **वर्णागम (*varṇāgama*)** adds a sound; **वर्णविपर्यय (*varṇaviparyaya*)** changes its position; **वर्णविकार (*varṇavikāra*)** changes its form; and **वर्णनाश (*varṇanāśa*)** removes it. The fifth operation traces the resulting meaning back to the *dhātu*, allowing semantic extension without severing the relation.[NOTE: vyutpatti-drsh-theory]
+Sanskrit's method of **व्युत्पत्ति (*vyutpatti*)** lets the comparison proceed through recorded forms. **वर्णागम (*varṇāgama*)** adds a sound; **वर्णविपर्यय (*varṇaviparyaya*)** changes its position; **वर्णविकार (*varṇavikāra*)** changes its form; and **वर्णनाश (*varṇanāśa*)** removes it. The fifth operation traces the resulting meaning back to the *dhātu*, allowing semantic extension without severing the relation.[NOTE: vyutpatti-fivefold-method]
 
 The method is stated in two lines:
 
@@ -314,22 +321,18 @@ The method is stated in two lines:
 >
 > ***Translation:*** Addition and transposition of sounds are two operations; modification and loss are the other two. The fifth connects the resulting form to an extended meaning of the *dhātu*. This is called fivefold *nirukta*.
 
-Begin with the Sanskrit field:
+Place the recorded forms beside one another:
 
-> **⟪दृश्⟫ (*dṛś*)** — to see, behold, perceive\
-> **दर्शनम् (*darśanam*)** — seeing, vision, philosophical perspective\
-> Greek **θεωρός (*theōros*)** — spectator\
-> Greek **θεωρία (*theōria*)** — viewing, contemplation\
-> Latin ***theoria*** — contemplation, theory\
-> English ***theory***
+| Sanskrit | Greek | Latin | Visible operations |
+|---|---|---|---|
+| **⟪अस्⟫ (*as*)**, **अस्ति (*asti*)** | **ἐστί (*esti*)** | ***est, esse*** | ***a*** changes to ***e***; Latin drops the final ***i*** of the finite form or adds its own infinitive ending |
+| **⟪भू⟫ (*bhū*)** | **φύω (*phuō*)**, **ἔφυ (*ephu*)** | ***fuī, futūrus*** | the voiced aspirated labial ***bh*** changes to Greek ***ph*** or Latin ***f***; ***ū*** shortens; each receiving language adds its own endings |
 
-Now compare Sanskrit ***darś-*** with Greek ***theōr-***. The opening **द (*d*)** changes to Greek **θ (*th*, /tʰ/)**. Sanskrit's own sound-grid makes the operation easy to inspect: **द → त → थ (*d → t → th*)** removes voicing and then adds aspiration while the sound remains in the dental position. The Greek form retains ***r***, supplies vowels around it, drops ***ś*** from the stem, and adds its own **-os** and **-ia** endings. This case therefore uses *varṇavikāra*, *varṇāgama*, and *varṇanāśa*. Its semantic field remains uninterrupted: seeing becomes spectator, viewing, contemplation, and finally *theory*.
+The fivefold method states each sound change while keeping the semantic relation visible: the ***as / es*** family remains associated with being, and the ***bhū / phu / fu*** family with becoming or coming into being. Latin combines both families inside one verb, so the learner must memorize the point at which its paradigm switches from one to the other.
 
-Under this *vyutpatti*, the Greek family preserves a vivimorphed form of the Sanskrit ⟪दृश्⟫–*darśana* field. The receiving language reshaped the sounds and supplied its own morphology while retaining the idea. The pyramid's account instead places a tentative **\*wer-(3)** "to perceive" above the Greek family and leaves the recorded Sanskrit atom out. The fivefold method places every proposed change in view, so the same exercise can be repeated across Greek and Latin rather than entrusting each word-family to another star.
+The pyramid inserts **\*h₁es-** and **\*bʰuH-** above the recorded languages and describes the Latin switch as inherited suppletion. That move supplies imaginary chronology while leaving the switch unexplained. Sanskrit already preserves the two sound-bearing atoms, their semantic relation, their Vedic use, and the rule that connects them. The starred forms are the Sanskrit atoms repackaged as ancestors.
 
-The reconstructed ancestor-forms — \**derḱ-*, \**spek-*, and the dropped-altogether case under \**wer-(3)* — are *apaśabdas*. The bakers took the Sanskrit *dhātu*, scanned the daughter languages for surface forms whose semantic field overlapped with it, sorted them by phonetic shape, and invented one reconstructed form per phonetic cluster to serve as the ancestor. The Sanskrit *dhātu* — the engineered atom underneath the whole family — was treated as data to be reverse-engineered backward; the imaginary ancestors were the bake. Each starred form is the *progressive dogma*'s own corruption of the Sanskrit *dhātu*'s derivative family, retold as that family's source. PIE is *apaśabda* baked into ancestor.
-
-The recipe is not subtle. The recipe runs across many *dhātus* the Western philological machinery has handled the same way. **Appendix Part 1 — *Baking the Mother Tongue*** lays out the recipe in detail: the institutional cartel that ran the bake across the nineteenth century, the colonial Sanskrit-knowledge pipeline that fed it, and *dhātu* after *dhātu* where the slip is in plain print on the ecosystem's own reference pages. The single case here is the headline. The appendix shows the operation.
+**Appendix Part 1 — *Baking the Mother Tongue*** shows the same recipe across further *dhātus*: the institutional cartel that ran the bake across the nineteenth century, the colonial Sanskrit-knowledge pipeline that fed it, and the reference pages where one Sanskrit semantic field becomes two or three imaginary ancestors. The worked case here supplies the method, and the appendix shows how often the operation recurs.
 
 The triad locks into place: the calibrant operates as the engineered original, calibrant contact serves as the process, and the *Pratibimba* remains what the calibrated language holds afterward. Where philology under the descent assumption treated the systematic correspondences as evidence of a vanished common ancestor, the calibrant account identifies the same correspondences as evidence of a shared *Pratibimba*—reflections of a single calibrant footprint, refracted through the internal histories of each contacted language. While the correspondences have not changed, the explanation has. By assembling an imaginary ancestor out of the average of the *Pratibimbas*, philology misrepresents a summary statistic as a source, whereas the Vedic account points the other way: formed Speech first, reflections afterward.
 
