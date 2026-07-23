@@ -6,7 +6,7 @@ The manuscript remains unchanged until a decision is selected here.
 
 **Source:** [The Eclipse Is Over](/Users/paragtope/projects/writing/books/atomicSanskrit/as_2_01_epilogue.md:19)  
 **Action:** REPLACE  
-**Status:** OPEN  
+**Status:** APPLIED — 2026-07-23  
 ### Original
 
 > The same wound-line that opened the Preface returns here with the other half supplied. Svarbhānu's darkness did not win: the Atris found the Sun.
@@ -52,7 +52,7 @@ Keep the original wound-line and reconcile it with the residual plates:
 
 **Source:** [The Eclipse Is Over, āryatva](/Users/paragtope/projects/writing/books/atomicSanskrit/as_2_01_epilogue.md:29)  
 **Action:** STRUCTURE  
-**Status:** OPEN  
+**Status:** APPLIED — 2026-07-23  
 ### Original
 
 > Recovery is not revenge, because the dharmic account is karmic: action bears consequence, and restoration remains possible when action changes. The proper word is **प्रायश्चित्त (*prāyaścitta*)**: self-initiated atonement, internal accountability, correction by action.
@@ -98,7 +98,7 @@ Move the three following paragraphs on the pyramid's appropriation of *āryatva*
 
 **Source:** [Where the Nectar Rises, opening](/Users/paragtope/projects/writing/books/atomicSanskrit/as_2_01_epilogue.md:41)  
 **Action:** REPLACE  
-**Status:** OPEN  
+**Status:** APPLIED — 2026-07-23  
 ### Original
 
 > In the **समुद्रमन्थन (*samudra-manthana*)** story, devas and asuras gripped the serpent-rope around the mountain and churned the ocean for **अमृत (*amṛta*)**, the nectar of immortality.[NOTE: samudra-manthana-source-anchor] The asuras pulled expecting to drink first. What surfaced first was **हलाहल (*halāhala*)** — poison enough to end the worlds. Only after the poison was swallowed did the ocean yield the nectar — and **मोहिनी (*Mohinī*)** gave it to the **देवाः (*devāḥ*)**, the radiant ones of ⟪दिव्⟫. The story has many learnings, among them what the churning costs, who bears the poison, and why Mohinī discriminated.
@@ -136,7 +136,7 @@ Add the missing story details while preserving the original analogy and its stro
 
 **Source:** [Where the Nectar Rises, Svarbhānu](/Users/paragtope/projects/writing/books/atomicSanskrit/as_2_01_epilogue.md:45)  
 **Action:** REPLACE  
-**Status:** OPEN  
+**Status:** APPLIED — 2026-07-23  
 ### Original
 
 > In the story, Svarbhānu slipped into the ranks of the *devas* at the distribution and drank. The stolen sip cost him his body: the severed head persists, undying, as Rāhu—the eclipse-device at the spine of this book.[NOTE: rahu-manthana-svarbhanu-layering] The pyramid repeated the theft exactly. It drank one stolen sip of Sanskrit's nectar—the calibrant's own data, the correspondences only Sanskrit made legible—and from that sip it made PIE: a head without a body, an ancestor made immortal precisely because it was never alive enough to die. *Amṛta* leaked across the line does not enlighten the *asura*; it becomes an eclipse, shadowing Sanskrit's radiance. With PIE destroyed, the eclipse is now broken, and the ocean's yield can return to the devāḥ. To give the amṛta back to the radiant ones is to let Sanskrit's calibrant and fractal architecture finally emerge from the shadow.
@@ -174,7 +174,7 @@ Revise only the claim that the pyramid repeated the story "exactly." An analogy 
 
 **Source:** [Where the Nectar Rises, Mohinī](/Users/paragtope/projects/writing/books/atomicSanskrit/as_2_01_epilogue.md:47)  
 **Action:** REPLACE  
-**Status:** OPEN  
+**Status:** APPLIED — 2026-07-23  
 ### Original
 
 > Mohinī's discrimination is founded in engineering, not favoritism. The *devāḥ* are not persons collecting a reward; they are the operating principles of light and order — flow, circulation, radiance. The asuras of the churning are the containers — the holders and withholders of Chapter 3 §3.6. And amṛta is the anti-entropy agent itself: *a-mṛta*, the un-dying — the same privative *a-* that un-shines the *a-sura*.[NOTE: amrta-anti-entropy-principles] Pour the un-dying into the principles of flow, and the system becomes self-renewing: the light circulates without loss, and what the shining ones govern stays **सनातन (*sanātana*)** — eternal because its order cannot decay. Pour the un-dying into a container, and the container becomes a prison no age can unlock — which is why the severing of Svarbhānu is instant: one immortal container would have ended the living cosmos. An undying flow is a world that renews; an undying container, a permanent eclipse. Codification pours the same permanence into a bounded container at human scale.
@@ -214,7 +214,7 @@ Frame this as the book's interpretation, then retain the sentences that give the
 
 **Source:** [Where the Nectar Rises, research invitation](/Users/paragtope/projects/writing/books/atomicSanskrit/as_2_01_epilogue.md:57)  
 **Action:** REPLACE  
-**Status:** OPEN  
+**Status:** APPLIED — 2026-07-23  
 ### Original
 
 > Like Svarbhānu, the pyramid reached for what belonged to the radiant. Its apex bent two centuries of accumulated labor toward one intent: to bury Sanskrit beneath PIE. Scholars below it collected the cognates, tabulated the sound-shifts, compiled the dictionaries, indexed the inscriptions, and compared the families. The accumulation became the largest searchable field of Sanskrit’s reflections ever assembled.
@@ -265,7 +265,7 @@ Include the checklist as a to-do
 
 **Source:** [The Chronology Refusal](/Users/paragtope/projects/writing/books/atomicSanskrit/as_2_01_epilogue.md:97)  
 **Action:** STRUCTURE  
-**Status:** OPEN  
+**Status:** APPLIED — 2026-07-23  
 ### Original
 
 > ## The Chronology Refusal
@@ -311,7 +311,7 @@ Keep the separate heading and the original opening and closing hammers:
 
 **Source:** [The Mantra, Wave 3 and the Atris](/Users/paragtope/projects/writing/books/atomicSanskrit/as_2_01_epilogue.md:149)  
 **Action:** REPLACE  
-**Status:** OPEN  
+**Status:** APPLIED — 2026-07-23  
 ### Original
 
 > For that invitation to become real, Wave 3 must first be transmitted by those closest to the calibrant. The reader is addressed as a Wave 3 *ṛṣi* or *ṛṣikā* in potential, after the re-learning — an Atri in potential, for an Atri is exactly that: the Wave 3 carrier whose particular work is clearing what remains of the eclipse. Indians in the subcontinent, the global Indian diaspora, and the Romani branch that held Indic substrate longest outside the subcontinent are the first human substrate through which Wave 3 must propagate. *Atomic Sanskrit* is a Wave 3 instrument, not the work itself. It makes the radiant matrix visible again. Visibility is the precondition.

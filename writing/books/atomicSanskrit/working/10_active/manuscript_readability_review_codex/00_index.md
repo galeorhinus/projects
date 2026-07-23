@@ -6,11 +6,11 @@ The manuscript contains no Codex review comments. The completed audit under `wor
 
 ## Application Status
 
-The decisions selected in review files 01–22 were processed on 2026-07-23. Seventy-three revisions were applied, two original passages were explicitly retained, and one Part I proposal was superseded without being applied. The accepted second-pass refinements in file 30 were incorporated at the same time.
+The selected decisions in review files 01–27 were processed on 2026-07-23. One hundred nine revisions were applied; two original passages were explicitly retained, and one Part I proposal was superseded without being applied. The accepted second-pass refinements in file 30 and the contradiction-audit repairs were incorporated during the same application cycle.
 
 The complete decision-to-manuscript map is in [31_application_manifest.md](./31_application_manifest.md).
 
-All substantive material removed by an audit revision must also appear in the central [Manuscript Readability Audit — Lost and Found](../../40_reference/source_material/manuscript_readability_audit_lost_and_found.md). The ledger is an application gate, not an optional cleanup record.
+All substantive material removed by an audit revision must also appear in the central [Manuscript Readability Audit — Lost and Found](../../40_reference/source_material/manuscript_readability_audit_lost_and_found.md). The 109 applied revisions have been reconciled there, with 71 applied recovery records. The ledger remains an application gate for every later batch.
 
 ## Decision Workflow
 
@@ -32,34 +32,34 @@ When reviewed blocks are processed, Codex applies only accepted or author-revise
 
 | Review file | Unit | Status |
 |---|---|---|
-| `01_about_series.md` | About the Series | READY |
-| `02_preface.md` | Preface | READY |
-| `03_overture.md` | Overture | READY |
-| `04_ch00.md` | Chapter 0 | READY |
-| `05_ch01.md` | Chapter 1 | READY |
-| `06_part01.md` | Part I opener | READY |
-| `07_ch02.md` | Chapter 2 | READY |
-| `08_ch03.md` | Chapter 3 | READY |
-| `09_ch04.md` | Chapter 4 | READY |
-| `10_ch05.md` | Chapter 5 | READY |
-| `11_ch06.md` | Chapter 6 | READY |
-| `12_ch07.md` | Chapter 7 | READY |
-| `13_ch08.md` | Chapter 8 | READY |
-| `14_ch09.md` | Chapter 9 | READY |
-| `15_ch10.md` | Chapter 10 | READY |
-| `16_ch11.md` | Chapter 11 | READY |
-| `17_ch12.md` | Chapter 12 | READY |
-| `18_ch13.md` | Chapter 13 | READY |
-| `19_ch14.md` | Chapter 14 | READY |
-| `20_ch15.md` | Chapter 15 | READY |
-| `21_ch16.md` | Chapter 16 | READY |
-| `22_ch17.md` | Chapter 17 | READY |
-| `23_ch18.md` | Chapter 18 | READY |
-| `24_ch19.md` | Chapter 19 | READY |
-| `25_epilogue.md` | Epilogue | READY |
-| `26_parts_front_back.md` | Remaining Part openers, Acknowledgments, Note on Notes | READY |
-| `27_appendices.md` | Appendices 1-9 | READY |
-| `28_endnotes_figures_global.md` | Endnotes, captions, and global decisions | READY |
+| `01_about_series.md` | About the Series | APPLIED |
+| `02_preface.md` | Preface | APPLIED |
+| `03_overture.md` | Overture | APPLIED |
+| `04_ch00.md` | Chapter 0 | APPLIED |
+| `05_ch01.md` | Chapter 1 | APPLIED |
+| `06_part01.md` | Part I opener | CLOSED / SUPERSEDED |
+| `07_ch02.md` | Chapter 2 | APPLIED |
+| `08_ch03.md` | Chapter 3 | APPLIED |
+| `09_ch04.md` | Chapter 4 | APPLIED |
+| `10_ch05.md` | Chapter 5 | APPLIED |
+| `11_ch06.md` | Chapter 6 | APPLIED |
+| `12_ch07.md` | Chapter 7 | APPLIED |
+| `13_ch08.md` | Chapter 8 | APPLIED |
+| `14_ch09.md` | Chapter 9 | APPLIED |
+| `15_ch10.md` | Chapter 10 | APPLIED |
+| `16_ch11.md` | Chapter 11 | APPLIED |
+| `17_ch12.md` | Chapter 12 | APPLIED |
+| `18_ch13.md` | Chapter 13 | APPLIED |
+| `19_ch14.md` | Chapter 14 | APPLIED |
+| `20_ch15.md` | Chapter 15 | APPLIED |
+| `21_ch16.md` | Chapter 16 | APPLIED |
+| `22_ch17.md` | Chapter 17 | APPLIED |
+| `23_ch18.md` | Chapter 18 | PARTIAL — C18-007 AWAITS DECISION |
+| `24_ch19.md` | Chapter 19 | APPLIED |
+| `25_epilogue.md` | Epilogue | APPLIED |
+| `26_parts_front_back.md` | Remaining Part openers, Acknowledgments, Note on Notes | APPLIED |
+| `27_appendices.md` | Appendices 1-9 | PARTIAL — APP-003 AND APP-009 AWAIT DECISION |
+| `28_endnotes_figures_global.md` | Endnotes, captions, and global decisions | REVIEWED / NOT APPLIED |
 | `29_work_hold_lexical_sweep.md` | Contextual sweep for `question`, `answer`, `work`, and `hold` | PLANNED |
 
 ## Block Format

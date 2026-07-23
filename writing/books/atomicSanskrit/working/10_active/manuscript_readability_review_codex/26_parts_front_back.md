@@ -6,7 +6,7 @@ The manuscript remains unchanged until a decision is selected here.
 
 **Source:** [Overture close](/Users/paragtope/projects/writing/books/atomicSanskrit/as_part_00_overture_shankha.md:29)  
 **Action:** REPLACE  
-**Status:** OPEN  
+**Status:** APPLIED — 2026-07-23  
 ### Original
 
 > Sanskrit is the Sun. The asuric pyramid has drawn its shadow across the field. What should have been obvious went dark: a language that seekers, caretakers, reciters, *vaiyākaraṇāḥ*, mothers, teachers, students, and lineages actively held across the depth of time.
@@ -46,7 +46,7 @@ Keep the original opening and clarify *caretakers* without replacing the eclipse
 
 **Source:** [Part I opener](/Users/paragtope/projects/writing/books/atomicSanskrit/as_part_01_wrong_metaphor.md:23)  
 **Action:** STRUCTURE  
-**Status:** OPEN  
+**Status:** APPLIED — 2026-07-23  
 ### Original
 
 > At the opening of Part I, the pyramid still stands whole. The clearing targets the first three obstructions: the pyramid subordinates Sanskrit to PIE, forces it into a botanical vocabulary of plant-organs and stems, and presents it as a language supposedly “codified” by Pāṇini. These constitute the first acts of category theft.
@@ -126,7 +126,7 @@ This replacement preserves the original hammers and leaves only the repeated act
 
 **Source:** [Part III](/Users/paragtope/projects/writing/books/atomicSanskrit/as_part_03_sound_field.md:11)  
 **Action:** REPLACE  
-**Status:** OPEN  
+**Status:** APPLIED — 2026-07-23  
 ### Original
 
 > ![Figure E.7 — The Sun's Sound-Body. Two plates:Botanical and Codified are removed; and plate Alphabetic is targeted as the sound-body becomes visible.](figures/eclipse_spine/eclipse_30_part03_sound_body_removed_2_3_target_4.svg){#fig:eclipse-part03-sound-body width=100%}
@@ -160,7 +160,7 @@ This replacement preserves the original hammers and leaves only the repeated act
 
 **Source:** [Part VI close](/Users/paragtope/projects/writing/books/atomicSanskrit/as_part_06_killing_pie.md:11)  
 **Action:** REPLACE  
-**Status:** OPEN  
+**Status:** APPLIED — 2026-07-23  
 ### Original
 
 > ![Figure E.10 — Dispelling Rāhu. Five plates; Two plates: Descended and Sibling Language are targeted as Rāhu comes into view.](figures/eclipse_spine/eclipse_60_part06_dispelling_rahu_removed_2_3_4_5_7_targets_1_6.svg){#fig:eclipse-part06-dispelling-rahu width=100%}
@@ -198,7 +198,7 @@ This replacement preserves the original hammers and leaves only the repeated act
 
 **Source:** [Part VII](/Users/paragtope/projects/writing/books/atomicSanskrit/as_part_07_life_after_pie.md:7)  
 **Action:** REPLACE  
-**Status:** OPEN  
+**Status:** APPLIED — 2026-07-23  
 ### Original
 
 > With Rāhu dispelled, the Sun stands clear, and explanation begins.
@@ -242,7 +242,7 @@ Chapter 19 follows trained carriers, diasporic communities, borrowed words, and 
 
 **Source:** [Acknowledgments](/Users/paragtope/projects/writing/books/atomicSanskrit/as_0_02_acknowledgements.md:1)  
 **Action:** REPLACE  
-**Status:** OPEN  
+**Status:** APPLIED — 2026-07-23  
 ### Original
 
 > # Acknowledgments
@@ -292,7 +292,7 @@ Leave a private production TODO outside the compiled manuscript until the author
 
 **Source:** [A Note on the Notes](/Users/paragtope/projects/writing/books/atomicSanskrit/as_0_04_note_on_notes.md:3)  
 **Action:** REPLACE  
-**Status:** OPEN  
+**Status:** APPLIED — 2026-07-23  
 ### Original
 
 > This book contains condensed endnotes in print: source anchors, brief clarifications, the references needed to verify the argument as the reader encounters it.

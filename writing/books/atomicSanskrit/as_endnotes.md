@@ -645,6 +645,42 @@ The mistrust applies to the philological dating of Indic texts and figures — l
 
 ---
 
+### `ramayana-homer-chronology-capture`
+
+**Short:** Nineteenth-century Indology used its chronology to place Homer before Vālmīki and then proposed that Sītā's abduction and the war at Laṅkā were modeled on Helen's abduction and the siege of Troy. Later Indo-European comparison replaced direct copying with reconstructed common inheritance, but it continued to place an external source above both epics.
+
+**Deployment:** Chapter 3 §3.4, after the progress pillar exposes the civilizational function of imposed chronology.
+
+The direct-borrowing claim is explicit rather than inferred. In **Albrecht Weber's** *"On the Rāmāyaṇa,"* published in English in *The Indian Antiquary* 1 (1872), Weber wrote that the abduction of Helen and the siege of Troy had served as the model for the corresponding incidents in Vālmīki's poem. He did not claim that Vālmīki had read Homer. He proposed that knowledge of the Homeric story reached India through contact following Alexander's expedition. The paper therefore required a *Rāmāyaṇa* late enough to receive Greek material. **Kashinath Trimbak Telang** answered Weber directly in *Was the Râmâyaṇa Copied from Homer? A Reply to Professor Weber* (Bombay, 1873). Telang deserves credit for recognizing and challenging the direction imposed upon the comparison while the theory was still being advanced.
+
+The chronological frame survived the dispute. Western philology commonly places Homeric epic in the eighth or seventh century BCE, Pāṇini in approximately the fifth or fourth century BCE, and the Sanskrit epics across a broad period beginning around 400 BCE. The individual estimates vary, but their ordering performs the same cultural operation: Homer appears first; Pāṇini and the text classified as *"Classical Sanskrit"* appear later. Modern scholarship often acknowledges much older oral and narrative depth within the Indian epics, yet continues to place the recoverable Sanskrit composition inside that imposed sequence.
+
+The later explanation is softer than Weber's copying charge. M. L. West's *Indo-European Poetry and Myth* (Oxford University Press, 2007), for example, treats Indic and Greek parallels through reconstructed Indo-European poetic inheritance. In discussing abduction and recovery narratives, West cites the proposal that Greek and Indic episodes preserve an inherited Indo-European narrative pattern, while adding qualifications of his own. This framework no longer needs Vālmīki to copy Homer directly. It places both downstream of a reconstructed people and their reconstructed narrative inheritance.
+
+The sources establish three facts: the imposed order of dates, Weber's explicit Homer-to-Vālmīki borrowing claim, and the later common-inheritance framework. The claim that this sequence protects Greek cultural priority is this book's diagnosis of what the arrangement accomplishes; it is not presented as a confession found in those sources.
+
+Sources: Albrecht Weber, [*"On the Rāmāyaṇa"*](https://www.wisdomlib.org/history/book/indian-antiquary-journal/d/doc1897639.html), *The Indian Antiquary* 1 (1872), especially the discussion of Helen, Troy, Sītā, and Laṅkā; Kashinath Trimbak Telang, [*Was the Râmâyaṇa Copied from Homer? A Reply to Professor Weber*](https://openlibrary.org/books/OL5971044M/Was_the_Ra%CC%82ma%CC%82yan%CC%A3a_copied_from_Homer) (Bombay: Union Press, 1873); M. L. West, [*Indo-European Poetry and Myth*](https://academic.oup.com/book/10022) (Oxford University Press, 2007), especially pp. 12–14 and 437–38.
+
+---
+
+### `indo-european-narrative-inheritance`
+
+**Short:** Comparative Indo-European mythology constructs hypothetical ancestral versions of real Vedic figures and narratives: **द्यौष्पिता (*Dyauṣ Pitā*)** becomes reconstructed Father Sky; **अश्विनौ (*Aśvinau*)** become reconstructed Divine Twins or Twin Horsemen; and Indra **वृत्रहन् (*Vṛtrahan*)** becomes one instance of a reconstructed Serpent-Slayer story. The Vedic figures are preserved in the Veda; the supposed common ancestral people and their stories are modern reconstructions.
+
+**Deployment:** Chapter 18 §18.2, where imaginary people, language, and words expand into imaginary ancestral stories.
+
+The three Sanskrit anchors are real features of the Vedic corpus. **द्यौष्पिता (*Dyauṣ Pitā*)**, Father Sky, joins the sky deity with the father relation. **अश्विनौ (*Aśvinau*)**, the two Aśvins, are the Vedic horsemen and rescuing twins. **वृत्रहन् (*Vṛtrahan*)** is one of Indra's standing epithets: the one who struck down Vṛtra and released the obstructed waters. Their presence in the Veda does not depend on a reconstruction.
+
+Comparative Indo-European mythology reverses that evidentiary order. It compares Dyauṣ with Zeus and Jupiter and reconstructs **\*Dyēus ph₂tēr** as an ancestral Father Sky. It compares the Aśvins with the Greek Dioscuri and other paired rescuers and reconstructs ancestral Divine Twins, often represented as horsemen and sons of Father Sky. It compares Indra's defeat of Vṛtra with Greek, Iranian, Germanic, and other serpent-slaying accounts and reconstructs a common Hero-Slays-Serpent formula or story-pattern.
+
+M. L. West's *Indo-European Poetry and Myth* presents all three operations in one modern synthesis: Father Sky and the children of reconstructed *Dyeus* in Chapter 4; the Vedic Aśvins, Greek Dioscuri, and proposed ancestral Divine Twins at pp. 200–205; and Indra's defeat of Vṛtra within a reconstructed Indo-European serpent-slaying complex at pp. 260–73. Calvert Watkins develops the last reconstruction across *How to Kill a Dragon: Aspects of Indo-European Poetics* (Oxford University Press, 1995), including the proposed Hero-Slays-Serpent formula.
+
+The distinction in Chapter 18 is therefore exact. The Veda preserves Dyauṣ Pitā, the Aśvins, Indra, Vṛtra, and the relevant mantras. Greek and other corpora preserve their own figures and narratives. No surviving record preserves a common ancestral corpus in which reconstructed Indo-European people told reconstructed versions of all three. Comparative mythology produces those ancestral versions by inference and then places the recorded Vedic material inside the resulting inheritance. Chapter 18 treats that procedure as the story-level extension of PIE: imaginary people speaking an imaginary language are supplied with imaginary ancestral stories.
+
+Sources: M. L. West, [*Indo-European Poetry and Myth*](https://academic.oup.com/book/10022) (Oxford University Press, 2007), especially Chapters 4 and 6 and pp. 200–205, 260–73; Calvert Watkins, [*How to Kill a Dragon: Aspects of Indo-European Poetics*](https://academic.oup.com/book/47065) (Oxford University Press, 1995), especially the Hero-Slays-Serpent formula and the Serpent-Slayer chapters.
+
+---
+
 ### `satyam-bhutahitam-mahabharata`
 
 **Short:** The standard *yat bhūta-hitam atyantaṃ tat satyam* is a sandhi-dissolved citation of the Mahābhārata's Vana Parva formulation: *yad bhūta-hitam atyantaṃ tat satyam iti dhāraṇā* — "that which is ultimately beneficial to beings is held to be truth." Commonly cited as *Mahābhārata* 3.200.4, with numbering variation across editions.
@@ -707,7 +743,7 @@ For *asura* the two derivations Yāska records do not share a semantic center: *
 
 **The corpus itself attaches the darkness.** Śatapatha Brāhmaṇa 11.1.6.7–8 sorts the creation by breath and by light: "By (the breath of) his mouth he created the gods… Having created them, there was, as it were, **daylight** for him. And by the downward breathing he created the Asuras… Having created them there was, as it were, **darkness** for him" — Eggeling's translation, *Sacred Books of the East* vol. 44 (Oxford, 1900): **Max Müller's own series**. Upward breath → *devāḥ* → daylight; downward breath → asuras → darkness. Orientation and light, not chronology — stated from inside the corpus, and printed in the machinery's standard translation while the discipline ran the reversal-schism story. The Taittirīya Brāhmaṇa holds the parallel (mouth → devas, loins → asuras, TB 2.2.9.5–8; the *su-/asu-* word-play at TB 2.3.8.2, 4). The Sanskrit-dictionary rendering circulating under Monier-Williams's banner repeats the derivation — "Prajāpati created Asuras with the breath (Asu); particularly from the **lower breath**." [VERIFY: exact wording of MW 1899 s.v. *asura* (and/or Macdonell) against the print scan before attributing the "lower breath" phrasing to a named dictionary; the ŚB primary is verified verbatim regardless (sacred-texts, SBE 44).]
 
-**A distinction kept, to forestall the philologist's counter.** The book's *a-sura* = "not-light" is built on the dhātu सुर् (*dīpti*). It does not rest on — and must not be conflated with — सूर (*sūra*, long *ū*, "the sun"), स्वर् (*svar*, the light-realm), which are cognate light-words, nor with सुरा (*surā*, "liquor," from √*su*, "to distil"), which is unrelated.
+**A distinction kept, to forestall the philologist's counter.** The book's *a-sura* = "not-light" is built on the dhātu सुर् (*dīpti*). It does not rest on — and must not be conflated with — सूर (*sūra*, long *ū*, "the sun"), स्वर् (*svar*, the light-realm), which are cognate light-words, nor with सुरा (*surā*, "liquor," from ⟪सु⟫ *su*, "to distil"), which is unrelated.
 
 **Etymology-independent backstop.** The containment charge does not hang on this segmentation: whether the praised asura is *asu-ra* (holder of the life-breath) or the antagonist is *a-sura* (not-light), the deed the book tracks — holding-and-releasing versus withholding — is identical (§3.7).
 
@@ -767,7 +803,7 @@ Entry data: base-index 03.0025 — जनँ, gaṇa 3, जनने, "to create
 
 ### `chambers-1872-king-kin`
 
-**Short:** James Donald, ed., *Chambers's Etymological Dictionary of the English Language* (Edinburgh: W. & R. Chambers, 1872), p. 281, ends the etymology of *king* at a real, unstarred Sanskrit word: **KING** — *"lit. the father of a people… [A.S. cyning—cyn, offspring; Sans. ganaka, father—root gan, to beget.]"*; and **KIN** — *"[A.S. cyn. Ice. kyn, family, race; A.S. cennan, to beget; akin to jan, to beget, root of Genus.]"* Nineteenth-century works write Sanskrit √jan (जन्) as *gan / jan* interchangeably — the palatal *g*; both forms name the same *dhātu*.
+**Short:** James Donald, ed., *Chambers's Etymological Dictionary of the English Language* (Edinburgh: W. & R. Chambers, 1872), p. 281, ends the etymology of *king* at a real, unstarred Sanskrit word: **KING** — *"lit. the father of a people… [A.S. cyning—cyn, offspring; Sans. ganaka, father—root gan, to beget.]"*; and **KIN** — *"[A.S. cyn. Ice. kyn, family, race; A.S. cennan, to beget; akin to jan, to beget, root of Genus.]"* Nineteenth-century works write the Sanskrit atom ⟪जन्⟫ (*jan*) as *gan / jan* interchangeably — the palatal *g*; both forms refer to the same *dhātu*.
 
 **Deployments:** Chapter 18 §18.6 (the dictionary-shift section — the "honest shelf," real unstarred Sanskrit in the chain) and the chapter opening.
 
@@ -777,15 +813,15 @@ Verbatim from the 1872 first edition (compiled by James Donald; preface dated Au
 
 ### `skeat-aryan-roots-and-edition-drift`
 
-**Short:** Walter W. Skeat, *An Etymological Dictionary of the English Language*, 1st ed. (Oxford: Clarendon, 1882), lists the beget-root as **√GAN** — *"√GA, to beget, produce… GAN… Skt. jan, to beget"* — printed unstarred, with the roots *"arranged according to the alphabetical order of the Sanskrit alphabet."* Across Skeat's own later editions the same dictionary moves toward starred reconstruction and Brugmann's apparatus: the appendix retitles *"List of Aryan Roots"* → *"List of Indogermanic Roots,"* GENUS shifts from *"√GAN, to beget; cf. Skt. jan"* / *"(stem gener-)"* to *"(stem gener-, for \*genes-)"* (citing Brugmann), √GAN → √KN, √SKAR → √SKER, and the authorities move from Fick / Curtius / Vaniček to Brugmann / Uhlenbeck / Kluge. This is dictionary-history evidence — the reference culture moving edition to edition — **not** a charge that Skeat personally turned fraudulent.
+**Short:** Walter W. Skeat, *An Etymological Dictionary of the English Language*, 1st ed. (Oxford: Clarendon, 1882), lists the beget-form as **GAN** — *"GA, to beget, produce… GAN… Skt. jan, to beget"* — printed unstarred, with the roots *"arranged according to the alphabetical order of the Sanskrit alphabet."* Across Skeat's own later editions the same dictionary moves toward starred reconstruction and Brugmann's apparatus: the appendix retitles *"List of Aryan Roots"* → *"List of Indogermanic Roots,"* GENUS shifts from *"GAN, to beget; cf. Skt. jan"* / *"(stem gener-)"* to *"(stem gener-, for \*genes-)"* (citing Brugmann), GAN → KN, SKAR → SKER, and the authorities move from Fick / Curtius / Vaniček to Brugmann / Uhlenbeck / Kluge. This is dictionary-history evidence — the reference culture moving edition to edition — **not** a charge that Skeat personally turned fraudulent.
 
 **Deployments:** Chapter 18 §18.4 (the bakery-scaled beat — the movement of the starred reconstruction into source-position) and §18.6 (the asterisk moving from beside the real forms to above them). The "Watch the Asterisk Move" figure draws on the GENUS then/now.
 
-**The 1882 first edition** (Internet Archive `in.ernet.dli.2015.83588`; title page "REV. WALTER W. SKEAT, M.A.", "M DCCC LXXXII"): the appendix "List of Aryan Roots" opens *"The following is a brief list of the principal Aryan roots occurring in English"* and states *"The roots are arranged according to the alphabetical order of the Sanskrit alphabet, by help of which we obtain an Aryan alphabet."* Its key: *"Forms in thick type, as AK, are Aryan; forms in parenthesis, as (AH), are Teutonic"* — the root-forms are printed as bare thick-type capitals preceded by √, with no leading asterisk. Root 87: *"√GA, to beget, produce… GAN (= √KAN, to produce)… Skt. jan, to beget; Gk. γέν-ος, race… Lat. gi-gn-ere, to beget."* GENUS: *"GENUS, breed, race, kin. (L.)… — √GAN, to beget; cf. Skt. jan, to beget… Doublet, kin, q.v."*
+**The 1882 first edition** (Internet Archive `in.ernet.dli.2015.83588`; title page "REV. WALTER W. SKEAT, M.A.", "M DCCC LXXXII"): the appendix "List of Aryan Roots" opens *"The following is a brief list of the principal Aryan roots occurring in English"* and states *"The roots are arranged according to the alphabetical order of the Sanskrit alphabet, by help of which we obtain an Aryan alphabet."* Its key: *"Forms in thick type, as AK, are Aryan; forms in parenthesis, as (AH), are Teutonic"* — the source prints the forms as bare thick-type capitals preceded by a radical sign, with no leading asterisk. Root 87 gives *"GA, to beget, produce… GAN (= KAN, to produce)… Skt. jan, to beget; Gk. γέν-ος, race… Lat. gi-gn-ere, to beget."* GENUS gives *"GENUS, breed, race, kin. (L.)… — GAN, to beget; cf. Skt. jan, to beget… Doublet, kin, q.v."*
 
 Note on scope: Skeat's "Aryan" root-forms are themselves reconstructions (drawn from Fick), distinguished by him from the Sanskrit forms; the book does **not** claim Skeat treated Sanskrit as the parent. The load-bearing facts are (a) the 1882 roots are **unstarred** and Sanskrit-alphabet-ordered, with real Skt. *jan* cited inside the chain, and (b) the **movement across editions** toward starred reconstruction.
 
-**The edition-drift** (comparing the 1882 first ed. and the 1888 second ed. — both "List of Aryan Roots," unstarred — against the later "New & Revised" [4th] edition, Internet Archive `in.ernet.dli.2015.15880`; 1910 printing `etymologicaldict00skea`): appendix retitled *"List of Aryan Roots"* → *"List of Indogermanic Roots"*; the plan's roots "traced back to their original **Aryan** roots" → "original **Indogermanic** roots"; GENUS root √GAN → √KN, Latin stem *"(stem gener-)"* → *"(stem gener-, for \*genes-)"* citing Brugmann i. §604; CURT root √SKAR → √SKER; authorities Fick / Curtius / Vaniček → Brugmann / Uhlenbeck / Prellwitz / Kluge; body proto-forms move from real forms to starred reconstructions (e.g. Teutonic type *"\*audan-"*). Note also: the same 1882 dictionary derives CURT from the s-mobile root √SKAR (*"— √SKAR, to shear, cut; whence also E. shear… See Shear"*), not from Sanskrit *kṛt* — the cut-family was already routed onto the s-mobile in 1882 (see `s-mobile-root-extension-confessions`, `krt-dhatupatha-chedane`). Full-text scans held locally (`skeat_83588.txt`, `skeat_1888.txt`). [VERIFY: re-check the GENUS and CURT body entries and the revised-edition wording against clean page-images at print-prep; edition identity confirmed from title pages.]
+**The edition-drift** (comparing the 1882 first ed. and the 1888 second ed. — both "List of Aryan Roots," unstarred — against the later "New & Revised" [4th] edition, Internet Archive `in.ernet.dli.2015.15880`; 1910 printing `etymologicaldict00skea`): appendix retitled *"List of Aryan Roots"* → *"List of Indogermanic Roots"*; the plan's roots "traced back to their original **Aryan** roots" → "original **Indogermanic** roots"; GENUS changes from GAN to KN, Latin stem *"(stem gener-)"* → *"(stem gener-, for \*genes-)"* citing Brugmann i. §604; CURT changes from SKAR to SKER; authorities Fick / Curtius / Vaniček → Brugmann / Uhlenbeck / Prellwitz / Kluge; body proto-forms move from real forms to starred reconstructions (e.g. Teutonic type *"\*audan-"*). Note also: the same 1882 dictionary derives CURT from the s-mobile form SKAR (*"SKAR, to shear, cut; whence also E. shear… See Shear"*), not from Sanskrit *kṛt* — the cut-family was already routed onto the s-mobile in 1882 (see `s-mobile-root-extension-confessions`, `krt-dhatupatha-chedane`). Full-text scans held locally (`skeat_83588.txt`, `skeat_1888.txt`). [VERIFY: re-check the GENUS and CURT body entries and the revised-edition wording against clean page-images at print-prep; edition identity confirmed from title pages.]
 
 ---
 
@@ -835,7 +871,7 @@ Here *asura* is a vocative epithet of **Indra** — the sovereign to whom "the g
 
 **Translation (Wilson, rendering Sāyaṇa):** "O Varuṇa, we soften your wrath with obeisances (*namobhiḥ*), with sacrifices (*yajñebhiḥ*), with oblations (*havirbhiḥ*). Ruling over us, O wise *asura* (*asura pracetaḥ*), O king (*rājan*), loosen from us the sins we have committed."
 
-Here *asura* is a vocative epithet of **Varuṇa** — the sovereign addressed as the one with authority to *release* (*śiśrathaḥ*, √śrath) the bonds of sin: sovereignty as the power to bind and to loose. Source: the Wilson/Sāyaṇa translation as hosted at [wisdomlib](https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc829155.html).
+Here *asura* is a vocative epithet of **Varuṇa** — the sovereign addressed as the one with authority to *release* (*śiśrathaḥ*, ⟪श्रथ्⟫ *śrath*) the bonds of sin: sovereignty as the power to bind and to loose. Source: the Wilson/Sāyaṇa translation as hosted at [wisdomlib](https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc829155.html).
 
 ---
 
@@ -2666,7 +2702,7 @@ Four foundational works held the European-philological encounter with Sanskrit g
 
 - **Friedrich Schlegel, *Über die Sprache und Weisheit der Indier*** (Heidelberg: Mohr und Zimmer, 1808) — the German introduction of Sanskrit grammatical analysis into European philology; the work that brought Sanskrit's structural categories into the German Romantic-philological imagination and named the *Indogermanisch* category that the subsequent comparative project operated within.
 
-- **Franz Bopp, *Über das Conjugationssystem der Sanskritsprache in Vergleichung mit jenem der griechischen, lateinischen, persischen und germanischen Sprache*** (Frankfurt am Main, 1816) — the work that established the systematic-comparative method, with Sanskrit verbal morphology positioned as the structural anchor against which the other Indo-European systems were compared. See endnote `bopp-1816-conjugationssystem` for the full prosecutorial treatment in Appendix Part 1 §1.3.
+- **Franz Bopp, *Über das Conjugationssystem der Sanskritsprache in Vergleichung mit jenem der griechischen, lateinischen, persischen und germanischen Sprache*** (Frankfurt am Main, 1816) — the work that established the systematic-comparative method, with Sanskrit verbal morphology positioned as the structural anchor against which the other Indo-European systems were compared. See endnote `bopp-1816-conjugationssystem` for the full treatment in Appendix Part 1 §1.4.
 
 - **Otto von Böhtlingk, *Pâṇini's acht Bücher grammatischer Regeln*** (Bonn: König, 1839–1840) — the first critical edition of the *Aṣṭādhyāyī* in Europe, putting Pāṇini's grammatical methodology in front of European linguistics in its original *sūtra*-by-*sūtra* form. Böhtlingk subsequently produced the *Sanskrit-Wörterbuch* (1855–1875, seven volumes, with Rudolph Roth at Göttingen) — the standard Sanskrit-German lexicographical reference for the rest of the nineteenth century.
 
@@ -4056,11 +4092,27 @@ Standard references: Geoffrey Khan, ed., *Encyclopedia of Hebrew Language and Li
 
 ---
 
+### `romani-diaspora-evidence`
+
+**Short:** Romani languages retain substantial Indo-Aryan grammar and core vocabulary after a long westward migration and sustained contact with Iranian, Armenian, Greek, Slavic, Romance, and Germanic languages. Familiar words remain audible to some Hindi and Punjabi speakers, but the languages are not mutually intelligible without study. Romani communities have also shaped several European musical and performance cultures, with the route and depth of that influence varying by region.
+
+**Deployments:** Chapter 19 §19.3 — the evidence anchor for Romani linguistic continuity, long separation from the subcontinent, persecution in Europe, and regionally distinct influence on European performance cultures.
+
+Romani belongs to the Indo-Aryan language group. Its inherited vocabulary and grammatical structure connect it most closely with languages of the northwestern subcontinent, while its later layers record movement through Iranian-, Armenian-, and Greek-speaking regions and then through the Balkans and the rest of Europe. These contact layers explain why present-day Romani can contain words recognizable to Hindi or Punjabi speakers without being mutually intelligible with either language. The chapter therefore claims continuity of Indic linguistic inheritance, not unchanged preservation of a modern subcontinental language.
+
+Romani communities endured enslavement, expulsion, forced settlement, cultural suppression, and genocide across different European states and periods. Those histories did not erase the linguistic inheritance, although migration and local contact produced multiple Romani varieties.
+
+The musical claim is deliberately regional rather than universal. Romani musicians and communities became important participants in several European performance worlds, including Andalusian flamenco, Hungarian and Balkan professional music, Russian Romani song, and Manouche jazz. Each history involves exchange with surrounding communities; none should be reduced to a claim that one population created an entire regional form alone.
+
+References: Yaron Matras, *Romani: A Linguistic Introduction* (Cambridge University Press, 2002), for classification, grammatical structure, migration layers, and contact history; Ian Hancock, *We Are the Romani People* (University of Hertfordshire Press, 2002), for Romani history and identity; Donald Kenrick and Grattan Puxon, *Gypsies Under the Swastika* (University of Hertfordshire Press, revised edition 2009), for the twentieth-century genocide; Carol Silverman, *Romani Routes: Cultural Politics and Balkan Music in Diaspora* (Oxford University Press, 2012), for music, performance, and diaspora; Michael Dregni, *Django: The Life and Music of a Gypsy Legend* (Oxford University Press, 2004), for Manouche jazz.
+
+---
+
 ### `jones-1786-anniversary-address`
 
 **Short:** Forward-pointer to the main `jones-1786-third-anniversary-discourse` endnote — Sir William Jones, "The Third Anniversary Discourse, on the Hindus," delivered February 2, 1786 at the Asiatic Society of Bengal, Calcutta (*Asiatic Researches* 1, 1788: 415–431); deployed in Appendix Part 1 as the structural moment *before the inversion* — European philology still acknowledging Sanskrit's depth as source-language of the family being constructed, before the mid-19th-century Schleicher inversion displaced Sanskrit from source position into daughter-language position in the reconstructed PIE-anchored framework. The bake had not yet been baked.
 
-**Deployments:** Appendix Part 1 §1.1 ¶ — the citation anchor for Sir William Jones's 1786 anniversary address at the Asiatic Society of Bengal, framing the founding direction of the European philological project before the inversion that produced PIE.
+**Deployments:** Appendix Part 1 §1.2 — the citation anchor for Sir William Jones's 1786 anniversary address at the Asiatic Society of Bengal, framing the founding direction of the European philological project before the inversion that produced PIE.
 
 Sir William Jones, "The Third Anniversary Discourse, on the Hindus," delivered February 2, 1786, at the Asiatic Society of Bengal, Calcutta. Published in *Asiatic Researches* Volume 1 (Calcutta, 1788), pages 415–431.
 
@@ -4078,7 +4130,7 @@ Standard references: see endnote `jones-1786-third-anniversary-discourse` for th
 
 **Short:** The ***Boden Chair of Sanskrit*** at the University of Oxford (endowed 1832 from the will of Lieutenant Colonel Joseph Boden, 1751–1811, Bombay Native Infantry) holds a charter directing the chair to enable *"the conversion of Indians to Christianity"* through the agency of the Sanskrit-literate; Boden's will preserved the explicit framing. Chairholders: ***Horace Hayman Wilson*** (1832–1860, *Sanskrit-English Dictionary* 1819); ***Sir Monier Monier-Williams*** (1860–1899, elected in the famous 1860 contested election against Max Müller — the chair's evangelical charter decisive in Williams's favor; the *Monier-Williams Sanskrit-English Dictionary* 1872 / 1899 remains standard today). The lexicographical machinery of Sanskrit-English scholarship was produced in a chair endowed for the conversion of Indians to Christianity.
 
-**Deployments:** Appendix Part 1 §1.1 ¶ — the citation anchor for the Boden Chair of Sanskrit at the University of Oxford and its evangelical-conversion charter.
+**Deployments:** Appendix Part 1 §1.2 — the citation anchor for the Boden Chair of Sanskrit at the University of Oxford and its evangelical-conversion charter.
 
 The ***Boden Chair of Sanskrit*** at the University of Oxford was endowed in 1832 with funds left in the will of ***Lieutenant Colonel Joseph Boden*** (1751–1811), an officer of the Bombay Native Infantry. Boden's will specifically directed that the chair be used to enable *the conversion of Indians to Christianity* through the agency of the Sanskrit-literate. The full intent, as set out in Boden's will (preserved in the documentary record):
 
@@ -4104,7 +4156,7 @@ Standard references: the documentary record of Joseph Boden's will (preserved in
 
 **Short:** Deccan College Pune's institutional arc: founded 1821 as Sanskrit *Pāṭhaśālā* / *Hindoo College* under ***Mountstuart Elphinstone*** (Governor of Bombay Presidency 1819–1827), redirecting the ***Dakṣiṇā*** (दक्षिणा) charitable endowment that Peshwa Bajirao II had used to subsidize Sanskrit pundits in Pune; renamed *Poona College* (1851), *Deccan College* (1864), reconstituted post-Independence (1948) as the *Deccan College Post-Graduate and Research Institute* — institutional home of the *Encyclopaedic Dictionary of Sanskrit on Historical Principles* (1948–present). The moment of institutional capture: Maratha-state patronage framework for lineage-internal Sanskrit teaching converted into a hybrid colonial-educational institution.
 
-**Deployments:** Appendix Part 1 §1.1 ¶ — the citation anchor for the founding arc of Deccan College, Pune.
+**Deployments:** Appendix Part 1 §1.2 — the citation anchor for the founding arc of Deccan College, Pune.
 
 ***Deccan College*** at Pune is the institution behind Appendix Part 2 (*The Encyclopaedic Confirmation*), which engages the Encyclopaedic Dictionary of Sanskrit on Historical Principles produced at Deccan College since 1948. The founding arc:
 
@@ -4130,7 +4182,7 @@ Standard references: K. C. Varadachari, *History of Sanskrit Education in Bombay
 
 **Short:** ***Sir Rādhākānta Deb*** (1784–1867), Calcutta-Bengali scholar of the Asiatic Society of Bengal milieu, compiled the ***Śabdakalpadruma*** (शब्दकल्पद्रुम — *The Wishing-Tree of Words*) — comprehensive Sanskrit lexicographical work in eight volumes, completed 1858, the deepest Sanskrit-internal lexicographical work of the 19th century, produced entirely from within the lineage-chain with entries in Sanskrit organized according to the *vyākaraṇa* discipline's analytical categories. Deb was knighted by the British colonial state; his generation continued to engage the European philological project before the inversion that produced PIE was visible — the fraud had not yet been baked.
 
-**Deployments:** Appendix Part 1 §1.2 ¶ — the citation anchor for Rādhākānta Deb's *Śabdakalpadruma*.
+**Deployments:** Appendix Part 1 §1.3 — the citation anchor for Rādhākānta Deb's *Śabdakalpadruma*.
 
 ***Sir Rādhākānta Deb*** (1784–1867), Calcutta-Bengali scholar and intellectual of the Asiatic Society of Bengal milieu, compiled the ***Śabdakalpadruma (शब्दकल्पद्रुम — The Wishing-Tree of Words)*** — a comprehensive Sanskrit lexicographical work in eight volumes, completed in 1858. The *Śabdakalpadruma* is the deepest Sanskrit-internal lexicographical work of the nineteenth century, produced entirely from within the lineage-chain. The work:
 
@@ -4151,7 +4203,7 @@ Standard references: Rādhākānta Deb, *Śabdakalpadruma* (Calcutta, eight volu
 
 **Short:** ***Tārānātha Tarkavācaspati*** (1812–1885), Calcutta-Bengali scholar of the second generation engaging the European-philological project, compiled the ***Vācaspatyam*** (वाचस्पत्यम् — *That Which Belongs to the Lord of Speech*) — six-volume Sanskrit lexicographical work completed 1873, organized according to *vyākaraṇa* and *nyāya* (न्याय) discipline categories, with extensive citations from the *Vedic*, *Mahābhārata*, *Purāṇa*, *Kāvya*, *Śāstra*, *Darśana*, and *Smṛti* literature. Tarkavācaspati was associated with the Calcutta Sanskrit College; alongside Deb's *Śabdakalpadruma*, the work constitutes the deep Sanskrit-internal scholarly resource the European-philological project drew on for the PIE-reconstruction project.
 
-**Deployments:** Appendix Part 1 §1.2 ¶ — the citation anchor for Tārānātha Tarkavācaspati's *Vācaspatyam*.
+**Deployments:** Appendix Part 1 §1.3 — the citation anchor for Tārānātha Tarkavācaspati's *Vācaspatyam*.
 
 ***Tārānātha Tarkavācaspati*** (1812–1885), Calcutta-Bengali scholar of the second generation of Indian Sanskritists engaging the European-philological project, compiled the ***Vācaspatyam (वाचस्पत्यम् — That Which Belongs to the Lord of Speech)*** — a comprehensive Sanskrit lexicographical work in six volumes, completed in 1873. The work is the second major nineteenth-century Sanskrit-internal lexicographical compilation, alongside Deb's *Śabdakalpadruma*. The *Vācaspatyam*:
 
@@ -4202,7 +4254,7 @@ Standard references: C. Hayavadana Rao, *The Indian Biographical Dictionary* (19
 
 **Short:** ***Franz Bopp*** (1791–1867; trained at Paris under Antoine-Léonard de Chézy and at London under Henry Thomas Colebrooke), ***Über das Conjugationssystem der Sanskritsprache in Vergleichung mit jenem der griechischen, lateinischen, persischen und germanischen Sprache*** (Frankfurt am Main: Andreaeische Buchhandlung, 1816) — *where the operation begins*. The work treats Sanskrit verbal morphology as the structural anchor against which Greek, Latin, Persian, and Germanic verbal systems are compared, positioning Sanskrit *at the top* of the comparative machinery as the form closest to (sometimes treated as) the common ancestor. The methodology — comparing daughter-language forms against a privileged anchor — was developed with Sanskrit as the anchor; the post-1861 Schleicher inversion preserved the methodology but moved the anchor from Sanskrit to PIE.
 
-**Deployments:** Appendix Part 1 §1.5 ¶ — the citation anchor for Franz Bopp's 1816 *Conjugationssystem*.
+**Deployments:** Appendix Part 1 §1.4 — the citation anchor for Franz Bopp's 1816 *Conjugationssystem*.
 
 ***Franz Bopp*** (1791–1867), German philologist trained at Paris under Antoine-Léonard de Chézy (one of the earliest European Sanskrit scholars) and at London under Henry Thomas Colebrooke (the most distinguished British-Sanskritist of the early nineteenth century, then at the East India Company College in Calcutta). Bopp published ***Über das Conjugationssystem der Sanskritsprache in Vergleichung mit jenem der griechischen, lateinischen, persischen und germanischen Sprache*** in 1816 (Frankfurt am Main: Andreaeische Buchhandlung).
 
@@ -4222,7 +4274,7 @@ Standard references: Franz Bopp, *Über das Conjugationssystem der Sanskritsprac
 
 **Short:** ***August Schleicher*** (1821–1868), ***Compendium der vergleichenden Grammatik der indogermanischen Sprachen*** (Hermann Böhlau, Weimar, 1861; 2nd ed. 1866) — *the inversion moment*. The work introduces the ***Stammbaumtheorie*** (family-tree theory) explicitly: a single common ancestor *distinct from any real recorded language* (the *Ursprache*) branching into daughter Indo-European languages; Sanskrit, previously the anchor, is demoted to *one daughter language among siblings*. The asterisk-before-reconstructed-form convention — Schleicher's notational invention — gives the machinery a typographic sign for *forms posited rather than recorded*. Schleicher's 1863 pamphlet *Die Darwinsche Theorie und die Sprachwissenschaft* made the biological-organic framing explicit. *The bake* operating at its central moment.
 
-**Deployments:** Appendix Part 1 §1.5 ¶ — the citation anchor for August Schleicher's 1861 *Compendium*.
+**Deployments:** Appendix Part 1 §1.4 — the citation anchor for August Schleicher's 1861 *Compendium*.
 
 ***August Schleicher*** (1821–1868), German philologist at Jena, published the ***Compendium der vergleichenden Grammatik der indogermanischen Sprachen*** (Weimar: Hermann Böhlau, 1861, with a second edition 1866). The work introduces the ***Stammbaumtheorie*** (*family-tree theory*) explicitly: a single common ancestor, *distinct from any real recorded language*, branching into the daughter Indo-European languages.
 
@@ -4242,7 +4294,7 @@ Standard references: August Schleicher, *Compendium der vergleichenden Grammatik
 
 **Short:** ***Karl Brugmann*** (1849–1919), of the Leipzig ***Junggrammatiker*** (Neogrammarian) school, ***Grundriss der vergleichenden Grammatik der indogermanischen Sprachen*** (Karl J. Trübner, Strasbourg, 1886–1893; revised 1897–1916, with Berthold Delbrück's syntactic volumes) — *the cementing moment*. The work systematized the comparative method around the ***Ausnahmslosigkeit der Lautgesetze*** doctrine (sound laws operate without exception, licensing reverse-engineering) and consolidated a comprehensive reconstructed PIE — phonology, morphology, lexicon — on the basis of comparative-method work. The reconstructed ecosystem operated as a self-validating system in which methodology and output were mutually reinforcing. *The bake's industrial-scale production line*.
 
-**Deployments:** Appendix Part 1 §1.5 ¶ — the citation anchor for Karl Brugmann's *Grundriss* and the Neogrammarian school's consolidation.
+**Deployments:** Appendix Part 1 §1.4 — the citation anchor for Karl Brugmann's *Grundriss* and the Neogrammarian school's consolidation.
 
 ***Karl Brugmann*** (1849–1919), German philologist of the ***Leipzig school*** — the ***Junggrammatiker (Neogrammarians)*** — drove the comparative-method operation through to its mature form. The Leipzig group through the 1870s and 1880s systematized the comparative method around the ***Ausnahmslosigkeit der Lautgesetze*** doctrine — *sound laws operate without exception*, the central methodological claim that licensed reverse-engineering. The doctrine, in operational terms: when a sound-change-rule is posited (e.g., PIE *\*p* → Germanic *f*), the rule is presumed to operate without exception across the relevant phonological environment. Any apparent exception is explained as a *secondary development* — a subsequent sound change, a borrowing, a morphological-analogical pressure, an environmental conditioning — rather than as evidence against the rule.
 
@@ -4568,7 +4620,7 @@ The Dhātupāṭha meanings used for the source column are the ones developed el
 
 ### `asura-standard-etymology-contested`
 
-**Short:** Ch 18 §18.8 uses the Western philological dogma's account of *asura-* as an example of PIE overreach: Mayrhofer treats Sanskrit *asura-* through Indo-Iranian **\*asura-** and toward a contested PIE reconstruction — while the machinery's own dictionary already recorded both Sanskrit derivations side by side: Monier-Williams s.v. *asura* gives the *asu* (life-force, via √as) derivation and the privative *a-* + *sura* re-analysis in the same entry.
+**Short:** Ch 18 §18.8 uses the Western philological dogma's account of *asura-* as an example of PIE overreach: Mayrhofer treats Sanskrit *asura-* through Indo-Iranian **\*asura-** and toward a contested PIE reconstruction — while the machinery's own dictionary already recorded both Sanskrit derivations side by side: Monier-Williams s.v. *asura* gives the *asu* (life-force, via ⟪अस्⟫ *as*) derivation and the privative *a-* + *sura* re-analysis in the same entry.
 
 **Deployments:** Ch18 §18.8 (the *asura* / PIE-is-a-lie case — the contested-reconstruction charge at the section opening, and the "pyramid was clearly aware of both words" documented-awareness charge at the two-words paragraph).
 
@@ -4579,7 +4631,7 @@ Settling the scholarly dispute over the ultimate etymology of *asura* is not the
 
 On the specific divergence §18.8 turns on: the Western philological apparatus (Mayrhofer's *Etymologisches Wörterbuch des Altindoarischen*) takes the sovereign sense "lord, mighty one" as the primary value of *asura-* and the privative *a-suraḥ* ("not-light") as a secondary reanalysis. That priority rests on an assumed internal chronology of the maṇḍalas — sovereign-sense "early," adversarial-sense "late" — which the book rejects on principle: the maṇḍalas are functionally differentiated, not chronological strata (the category-before-calendar frame; the chronology-capture argument of Chapter 1). The maṇḍala-to-maṇḍala variation is functional, not temporal. *Asura* holds the sovereign-epithet function in the hymns of cosmic ordering — Varuṇa the *asuro viśvavedāḥ*, "the all-knowing Asura" who props the heaven and measures the earth (RV 8.42.1); Agni identified with Rudra, *asuro maho divaḥ*, "the Asura of the great heaven" (RV 2.1.6) — and the adversarial function where opposition is the theme. The privative is the engineered form; the sovereign sense is the function the word serves where sovereignty is the theme, on the structural grounds developed across Chapters 3, 13, and 17. (The standalone *sura* "light/deva" does not occur in the Ṛgvedic corpus; it is an artifact of parsing *asura* as *a-sura*.)
 
-**The documented-awareness charge.** The "clearly aware of both words" sentence in §18.8 rests on the machinery's own reference works. Monier-Williams, *A Sanskrit-English Dictionary* (Oxford: Clarendon Press, 1899), s.v. *asura*: the entry derives the word from *asu* ("spirit, life-force"; via √as, "to be") — the breath-bearer derivation — **and** records the re-analysis as *a-* + *sura* (the privative), in the same entry; s.v. *sura*, MW makes the privative analysis explicit — *sura* "probably from *asura*, as if from *a-sura*, and as *sita* from *a-sita*" — a light/dark pair as the chosen analogy. The same dictionary holds the dhātu सुर् "to shine" from the *Dhātupāṭha* (see `sura-dhatu-dipti`). And the discipline's own press printed Yāska's four parses: Lakshman Sarup, *The Nighaṇṭu and the Nirukta* (Oxford University Press, 1920–27). Both words, both derivations, the shining dhātu, and Yāska's open menu — all in the machinery's own publications before and while the reversal-story was taught. The conflation was not made in ignorance of the second word; it was made with both words on the page.
+**The documented-awareness charge.** The "clearly aware of both words" sentence in §18.8 rests on the machinery's own reference works. Monier-Williams, *A Sanskrit-English Dictionary* (Oxford: Clarendon Press, 1899), s.v. *asura*: the entry derives the word from *asu* ("spirit, life-force"; via ⟪अस्⟫ *as*, "to be") — the breath-bearer derivation — **and** records the re-analysis as *a-* + *sura* (the privative), in the same entry; s.v. *sura*, MW makes the privative analysis explicit — *sura* "probably from *asura*, as if from *a-sura*, and as *sita* from *a-sita*" — a light/dark pair as the chosen analogy. The same dictionary holds the dhātu सुर् "to shine" from the *Dhātupāṭha* (see `sura-dhatu-dipti`). And the discipline's own press printed Yāska's four parses: Lakshman Sarup, *The Nighaṇṭu and the Nirukta* (Oxford University Press, 1920–27). Both words, both derivations, the shining dhātu, and Yāska's open menu — all in the machinery's own publications before and while the reversal-story was taught. The conflation was not made in ignorance of the second word; it was made with both words on the page.
 
 Source: Manfred Mayrhofer, *Etymologisches Wörterbuch des Altindoarischen* (Heidelberg: Carl Winter, 1992–2001), entry for *asura-*; Monier-Williams (1899), s.vv. *asura*, *sura*, and the root सुर्; Sarup (1920–27). [VERIFY: exact PIE reconstruction and wording against the Mayrhofer edition used for final citation; exact page/column for the MW *asura* and *sura* entries at print-prep.]
 
@@ -4868,9 +4920,9 @@ The calibration hierarchy is the working structure for Sanskrit's origin-and-cal
 
 ### `vedic-classical-circular-dating`
 
-**Short:** Appendix Part 8 names the circular method behind the drift story: linguistic features are used to arrange Sanskrit texts into an assumed archaic-to-later sequence, and the resulting sequence is then cited as proof that Sanskrit drifted from Vedic to Classical.
+**Short:** Appendix Part 8 exposes the circular method behind the drift story: linguistic features are used to arrange Sanskrit texts into an assumed archaic-to-later sequence, and the resulting sequence is then cited as proof that Sanskrit drifted from Vedic to Classical.
 
-**Deployments:** Appendix Part 8 §8.3, *The Circular Method*.
+**Deployments:** Appendix Part 8 §8.2, *Circular Chronology*.
 
 The note does not claim that every relative ordering of Sanskrit texts is false. It identifies the methodological risk in the pyramid's drift narrative. If a feature is first classified as "archaic" because the framework assumes it belongs to an earlier stage, and the text containing that feature is then dated earlier on that basis, the same feature cannot be used again as independent proof of an earlier language stage. The conclusion has been folded into the method. Appendix Part 8 therefore asks for a cleaner audit: separate *chandas* / *bhāṣā* mode-difference, metrical tooling, recensional specification, optionality, and genuine replacement before calling the observed difference "drift." The target is not chronology as such. The target is chronology manufactured by the same machinery whose category collapse the book has already prosecuted.
 
@@ -4880,7 +4932,7 @@ The note does not claim that every relative ordering of Sanskrit texts is false.
 
 **Short:** The codification story requires an empirical audit it has not supplied: pre-Pāṇinian and para-Pāṇinian Sanskrit witnesses should be tested against Pāṇini's documented architecture after separating mode, meter, recension, optionality, domain, and actual drift.
 
-**Deployments:** Appendix Part 8 §8.10, *The Calibration Audit*.
+**Deployments:** Appendix Part 8 §8.6, *A Calibration Audit*.
 
 The "calibration audit" is the test the standard codification story would need to pass. The dogma's claim is not merely that Sanskrit usage varied; variation is already granted. The claim is that Sanskrit changed enough before Pāṇini that his grammar must be treated as codification — a late authority imposing stable form on a drifting language. That claim is measurable in principle. One would take the Vedic Saṃhitās, Brāhmaṇas, Āraṇyakas, Upaniṣads, *Prātiśākhya* and *Śikṣā* materials, Yāska's *Nirukta*, Sūtra literature, and the pre-Pāṇinian grammatical traces; classify features by *vaidika* / *laukika* domain and *chandas* / *bhāṣā* mode; separate metrical alternation from uncontrolled change; separate recension-specific specification from drift; and then measure what genuinely fails against the architecture Pāṇini documents. The book's initial audit points the other way: the Vedas already operate the grammar, the *Dhātupāṭha* shows compressed atomic structure, Patañjali begins from an established word-meaning bond, and variation repeatedly falls into bounded categories rather than unbounded decay.
 
@@ -4890,7 +4942,7 @@ The "calibration audit" is the test the standard codification story would need t
 
 **Short:** Mitanni Indic vocabulary functions here only as an external stability anchor: the recorded forms look like technical transmission from an already functioning Indic system, not like a language waiting to be stabilized by later Pāṇinian codification.
 
-**Deployments:** Appendix Part 8 §8.13, *Mitanni and the External Anchor*.
+**Deployments:** Appendix Part 8 §8.7, *Optionality and the Mitanni Evidence*.
 
 The Mitanni material should not be made to hold more than it can bear. It is not the whole case for Sanskrit's antiquity, and it is not needed as the sole refutation of the codification story. Its value in Appendix Part 8 is narrower: Indic technical vocabulary appears outside the subcontinent in a setting the pyramid's chronology cannot comfortably place after Pāṇini's supposed codification. That makes it an external anchor for prior stability. A drifting language not yet stabilized does not easily export precise technical vocabulary as a recognizable system. The Mitanni evidence belongs with the Vedic corpus, the *pāṭha* systems, the *Prātiśākhya* disciplines, the pre-Pāṇinian decoders, the *Nirukta*, the *Dhātupāṭha*, and the statistical architecture developed in Chapters 10–11 and Appendix Part 6. Final publication pass should cite the relevant Mitanni treaty / horse-training material and the selected scholarly edition used elsewhere in the book.
 
@@ -5417,6 +5469,20 @@ The phrase appears in *Manusmṛti* 8.15 as part of the larger warning that dhar
 **Deployments:** Epilogue, *Where the Nectar Rises* ¶1.
 
 The samudra-manthana appears across the itihāsa-Purāṇic corpus: the Mahābhārata's Ādi Parva (Āstīka section), the Viṣṇu Purāṇa, and the Bhāgavata Purāṇa (Skandha VIII) carry the fullest tellings — devas and asuras churning with Mandara as rod and Vāsuki as rope, Kūrma bearing the mountain, halāhala surfacing before amṛta, and the distribution at which Svarbhānu takes the stolen sip. [VERIFY before print: fix the edition and verse range for the telling actually cited; settle the *halāhala / hālāhala* spelling against that source; the Epilogue's prose keeps the account's structural sequence and asserts nothing any major telling contradicts.]
+
+---
+
+### `wheeler-mohenjo-daro-overreach`
+
+**Short:** Wheeler turned a small and stratigraphically scattered group of skeletons at Mohenjo-daro into an Aryan-invasion massacre. Later archaeological work dismantled the massacre claim. Appendix Part 7 uses the episode as a warning against making a civilizational chronology carry more than the evidence can support.
+
+**Deployment:** Appendix Part 7 §7.4.
+
+In 1947, the British archaeologist Mortimer Wheeler, then Director General of the Archaeological Survey of India, interpreted approximately thirty-seven skeletons found across several areas of Mohenjo-daro through an invasion narrative; the often-cited group in the HR area contained about six skeletons in unusual positions. In “Harappa 1946: The Defences and Cemetery R-37,” published in *Ancient India* in 1947, he wrote, “On circumstantial evidence, Indra stands accused.” His 1953 book *The Indus Civilization* restated the scenario in which invading “Aryans” killed the local population.
+
+George F. Dales challenged that account in “The Mythical Massacre at Mohenjo-daro,” published in *Expedition* in 1964. The bodies came from different stratigraphic levels rather than one massacre horizon. Later discussions by Jonathan Mark Kenoyer, Gregory Possehl, and Kenneth Kennedy further separated the remains from the single invasion event Wheeler had imposed on them and described evidence of disease and malnutrition among some remains.
+
+The appendix uses the case for its inferential structure. A small and heterogeneous body of evidence was made to support a civilizational replacement narrative. The comparison does not make archaeology and Vedic grammar identical fields; it identifies the same act of enlargement when limited variation is forced to prove a predetermined chronology.
 
 ---
 

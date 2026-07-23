@@ -1,30 +1,33 @@
 # Appendix Part 6 — The Architecture by the Numbers
 
-By the end of Chapter 10, the botanical substitute is gone and the *dhātuḥ* stands as an engineered semantic atom. Chapter 11 activates that atom. The smallest forms turn out to be the most reactive forms. The numerical audit behind those chapters asks the remaining question plainly: do the counts behave like accident, or like architecture?
+By the end of Chapter 10, the botanical substitute is gone and the *dhātuḥ* stands as an engineered semantic atom. Chapter 11 shows that atom in use. The numerical audit behind those chapters compares the size and sound structure of the atoms with the range of forms they generate.
 
-No single number can establish engineering. The pattern has to recur across levels: sound-particle, position, cluster, place, scaffold, operation, corpus use, and productivity. The *Source and Reference Companion* holds the tables, scripts, correction history, and replication notes. The record here keeps the source, the method, the strongest signals, and the principles visible in the counts.
+No single number can establish engineering. The pattern has to recur across levels: sound-particle, position, cluster, place, scaffold, operation, corpus use, and productivity. The *Source and Reference Companion* preserves the tables, scripts, correction history, and replication notes. The account here presents the source, the method, the strongest signals, and the principles visible in the counts.
 
-Two paths hold the audit. **Path A** measures the digital Pāṇinian **धातुपाठ (*Dhātupāṭha*)**: 2,168 entries across the ten **गणाः (*gaṇāḥ*)**, after **अनुबन्ध (*anubandha*)** markers are removed by the relevant *Aṣṭādhyāyī* rules. **Path C** measures actual use through the Digital Corpus of Sanskrit: corpus-attested combinatorial valency across parsed Sanskrit texts. Path A tests the inventory. Path C tests deployment.
+The audit uses three related datasets, and their totals count different things. The structural baseline contains 2,168 listed entries from a digital Pāṇinian **धातुपाठ (*Dhātupāṭha*)** across the ten **गणाः (*gaṇāḥ*)**. The citation markers called **अनुबन्धाः (*anubandhāḥ*)** are removed before the sounds of each listed atom are counted.
 
-A signal visible only in the dictionary inventory may be a compilation artifact. A signal visible only in corpus use may be a genre or survival artifact. A signal that survives both paths holds more weight, and the two-path design exists to catch the false confidence either path alone would breed.
+**Path A** then compares particle count with estimated derivative counts for a selected sample of 138 atoms, using the Monier-Williams and Apte dictionaries. **Path C** examines the Digital Corpus of Sanskrit. Its parser produced 3,839 normalized verb lemmas, including derived lemmas such as causatives that are not separate entries in the *Dhātupāṭha*. For each lemma, Path C counts the distinct combinations of preverb and grammatical form-class recorded in the corpus. The 2,168 listed entries, the 138-atom sample, and the 3,839 corpus lemmas are therefore three different units.
+
+Each source brings its own limitation. A dictionary sample reflects the choices made by its compilers, while a surviving corpus reflects its genres and preservation history. When the same relation appears in both, the result deserves more weight than either source could provide alone.
 
 ---
 
 ## 6.1 The Structural Baseline
 
-First, one must remove what Pāṇini identifies solely as grammatical marking, as a *dhātuḥ* citation form often holds *anubandha* sounds that instruct later operations without belonging to the atom being measured. Counting these markers immediately corrupts the measurement, mistakenly treating scaffolding as core structure.
+The listed form of a *dhātuḥ* can include *anubandha* sounds that direct later grammatical operations without belonging to the atom itself. Pāṇini identifies these markers explicitly. The audit therefore removes them before counting particles; otherwise it would count descriptive scaffolding as part of the atom.
 
 Once those markers are removed, the compression becomes severe:
 
 | Particles | Count | % | Common patterns | Examples |
 |---|---:|---:|---|---|
+| 1 | 9 | 0.4% | V, C | *ṛ* ऋ, *i* इ, *ī* ई, *u* उ |
 | 2 | 251 | 11.6% | CV, VC | *kṛ* कृ, *bhū* भू, *dā* दा, *ji* जि |
 | 3 | 1,262 | 58.2% | CVC, CCV, VCV | *gam* गम्, *pat* पत्, *vac* वच् |
 | 4 | 556 | 25.6% | CCVC, CVCC, CVCV | *svap* स्वप्, *jval* ज्वल्, *bandh* बन्ध् |
 | 5 | 79 | 3.6% | CCVCC, CVCVC, CCVCV | *spand* स्पन्द्, *skand* स्कन्द् |
 | 6+ | 11 | 0.5% | rare extended forms | — |
 
-The *akṣara* count sharpens the same result: **98.2%** of the measured *dhātavaḥ* are single-*akṣara* atoms. Semantic force is concentrated into small, stable forms.
+These rows now account for all 2,168 listed entries. When the same entries are counted by *akṣara*, **98.2%** contain a single *akṣara*. Semantic force is concentrated into small, stable forms.
 
 Earlier measurements that did not apply the stripping rules properly made the system look less compressed, and the gap is not cosmetic. Remove the citation markers, and the modal three-particle form rises to 58.2%; single-*akṣara* dominance rises to 98.2%. Pāṇini's machinery is part of the measuring discipline, not an external clean-up tool.
 
@@ -42,45 +45,45 @@ The strongest simple predictor is engineering value: distinguishability divided 
 
 ### 2. Cell-Level Allocation
 
-Equal column value does not guarantee equal deployment, causing any model that treats same-scored cells as interchangeable to fail immediately. For instance, the labial nasal *m* sees heavy use while the velar nasal *ṅ* remains almost entirely absent in the same kind of inventory count, proving that Sanskrit operates with both column-awareness and exact cell-awareness.
+Equal column value does not produce equal deployment. The labial nasal *m*, for example, appears often, while the velar nasal *ṅ* is almost absent from the same inventory count. A column-level preference cannot explain that difference; the exact cell also affects how a sound is used.
 
 So broad preference cannot explain the result. The architecture distributes individual sound-particles according to role.
 
 ### 3. Position-Conditional Preference
 
-Position fundamentally changes the physical work, forcing a consonant that opens an atom to behave differently from a consonant closing one. The initial position structurally favors release and clarity, whereas the final position governs settlement, bonding, and later *sandhi* behavior.
+Position changes the physical action of a consonant. At the opening of an atom, the sound begins the release into the vowel. At the end, it closes the atom and enters later *sandhi* operations. The counts reflect that difference.
 
-Retroflex sounds are depleted initially and strongly loaded finally — the counts follow the work. Palatals also rise in final use. Velars and labials prefer initial work. The inventory is not flat matter poured into slots; it is role-sensitive.
+Retroflex sounds are depleted initially and strongly loaded finally, while palatals also appear more often at the end. Velars and labials show the opposite preference and appear more often at the beginning. The inventory therefore assigns different functions to the same sound according to its position.
 
 ### 4. Cluster-Joiner Specialization
 
-Clusters do not ask every consonant to do the same work. A small specialist class holds most of the joining. Its major members are the **अन्तःस्थाः (*antaḥsthāḥ*)** — *ya, ra, la, va* — with *ra* at the extreme. The grammatical tradition had already placed them between.
+Consonant clusters do not use every sound in the same way. A small specialist class performs most of the joining. Its major members are the **अन्तःस्थाः (*antaḥsthāḥ*)** — *ya, ra, la, va* — with *ra* at the extreme. The grammatical tradition had already placed them between.
 
-The category is operational, not decorative. These sounds join consonant to consonant while other sounds do more boundary work.
+The category describes a function rather than an ornament. These sounds join one consonant to another, while other sounds appear more often at the boundaries.
 
 ### 5. *Mūrdhanya* Dual-Role Engineering
 
-The **मूर्धन्य (*mūrdhanya*)** site holds unusual load. It is strongly final, strongly active in cluster-joining, and tied to the *ṛ* / *ra* bridge. A place treated as marked or marginal by the usual story becomes central under measurement.
+The **मूर्धन्य (*mūrdhanya*)** site carries unusual load. It is strongly final, strongly active in cluster-joining, and tied to the *ṛ* / *ra* bridge. A place treated as marked or marginal by the usual story becomes central under measurement.
 
 The pyramid's retroflex story fails at this point. Late, local, marginal, borrowed: each label misses the same architectural role. Retroflex is a loaded design site inside Sanskrit.
 
-### 6. Cross-Position OCP
+### 6. Cross-Position Obligatory Contour Principle
 
 Single-*akṣara* atoms avoid the same place of articulation on both sides of the vowel. Same-place flanking falls far below chance. *Kak*-style sameness is suppressed; cross-place contrast is preferred.
 
-Among the empirical signals tracked here, this is the strongest. The atom is small, but not merely small. Its interior is distributed for acoustic distinction.
+Linguistics calls this kind of avoidance the **Obligatory Contour Principle (OCP)**. Among the empirical signals tracked here, it is the strongest. The atom is small, and its interior also favors acoustic distinction.
 
 ### 7. *Gaṇa*-Specific Functional Matching
 
-The ten *gaṇāḥ* are more than bins. Their sound profiles match the work they do. The *juhotyādi* class, the reduplicating class, enriches voiced aspirates. Reduplication needs acoustic robustness because the initial consonant is repeated across the stem. C4 supplies that robustness.
+The ten *gaṇāḥ* have different sound profiles. The *juhotyādi* class, which uses reduplication, contains an unusually high share of voiced aspirates. The inventory share is 33.3 percent, and the share rises to 42.9 percent when the count is limited to entries visible in Path C.
 
-Restrict the inventory to corpus-attested use and the pattern sharpens. The class that needs the most distinctive sound signature deploys the most distinctive column more heavily.
+Those numbers are the measured result. The book's architectural explanation follows from the operation: reduplication repeats material across a stem, and C4 gives the repeated material a strong acoustic signature.
 
 ### 8. Productivity From Minimum
 
-The most productive *dhātavaḥ* are the smallest, not the largest and not the most irregular. Path A and Path C both give the inverse relation: fewer particles, greater reach.
+Both Path A and Path C show the same inverse relation: as particle count rises, measured productivity tends to fall. The smaller atoms occupy the higher-productivity end of both datasets.
 
-Whereas many languages allow their most frequent forms to become the most irregular—like *be*, *have*, *do* in English, alongside comparable high-frequency irregulars in Latin and Greek—Sanskrit aggressively reverses that tendency. Its high-productivity atoms never collapse into idiosyncrasy, ensuring that the smallest atoms remain structurally regular and maximally reusable.
+English places irregular forms such as *be*, *have*, and *do* among its most frequent verbs; Latin and Greek offer comparable examples. The current audit measures a different Sanskrit relation: highly productive atoms are concentrated among the smaller forms. A complete comparison of paradigm irregularity would require a separate audit, but the measured concentration already shows that Sanskrit keeps many of its busiest atoms compact and reusable.
 
 ---
 
@@ -90,28 +93,31 @@ If Sanskrit's atoms are engineered for reach, the smallest forms should produce 
 
 | Particles | n | Mean productivity | Median | Max |
 |---:|---:|---:|---:|---:|
+| 1 | 1 | 30.0 | 30.0 | 30 |
 | 2 | 26 | **30.1** | 30.0 | 75 |
 | 3 | 72 | 20.5 | 18.0 | 55 |
 | 4 | 31 | 13.5 | 12.0 | 30 |
 | 5 | 8 | 11.4 | 12.0 | 18 |
 
-Two-particle atoms sit at the top. Five-particle atoms sit at the bottom. Language is not a toy dataset, so the pattern is not perfect, but the direction is clear. Path A gives Spearman ρ = **−0.485** between productivity and particle count. Path C, using actual corpus-attested valency across 3,839 dhātavaḥ, gives ρ = **−0.4334**. Two independent instruments point the same way.
+The table contains all 138 atoms in the selected Path A sample. The mean falls from 30.1 derivatives among two-particle atoms to 11.4 among five-particle atoms. Spearman's rank correlation summarizes that direction: a negative value means that larger particle counts tend to accompany lower productivity. Path A gives ρ = **−0.485**.
+
+Path C uses a different measure and a much larger set. It counts the distinct preverb-and-form-class combinations recorded for each of 3,839 normalized DCS verb lemmas. Its correlation between particle count and combinatorial valency is also negative, at ρ = **−0.4334**. The dictionary sample and the corpus analysis therefore point in the same direction.
 
 The top productive atoms are familiar because Sanskrit uses them everywhere: *kṛ* कृ, *bhū* भू, *dā* दा, *dhā* धा, *hṛ* हृ, *gam* गम्, *sthā* स्था, *jñā* ज्ञा. The smallest atoms generate the largest fields.
 
-Here the botanical metaphor breaks. A plant metaphor expects growth, branching, mutation, and drift. The numerical pattern shows compact atoms designed for controlled expansion.
+Here the botanical metaphor breaks. Growth, branching, mutation, and drift do not explain why smaller atoms repeatedly generate larger fields across two different measures. The book interprets that recurring relation as intentional compression for controlled expansion.
 
 ---
 
-## 6.4 Why The Numbers Matter
+## 6.4 What the Numbers Show
 
-What the counts make visible is a category.
+The same organization appears across several independent measurements, and together the counts make the category visible.
 
-If the *dhātuḥ* were a botanical organ, the measurements would have no reason to converge. Particle count, place distribution, cluster behavior, retroflex loading, *gaṇa* behavior, and corpus valency could drift in separate directions. Instead, the same signature recurs: compression without collapse, range without randomness, productivity without irregularity, correction without apex command.
+The measurements come from different parts of the architecture: particle count, place distribution, cluster behavior, retroflex loading, *gaṇa* profiles, dictionary productivity, and corpus valency. They repeatedly show compression, patterned range, and greater reach among smaller atoms.
 
-Nor is the architecture rigid. The long tail exists. Rare scaffolds exist. Specialized shapes exist. But the tail is governed. It preserves **वैचित्र्य (*vaicitrya*)** — patterned range — without dissolving the modal forms. A strong architecture needs range where range does work.
+The inventory also contains a long tail of rare scaffolds and specialized shapes. That range is **वैचित्र्य (*vaicitrya*)**: structured variety around strong modal forms. The book's engineering claim rests on both features together, because a generative architecture needs compact defaults as well as specialized forms.
 
-The atom built in Chapter 10 and activated in Chapter 11 behaves, under measurement, like a designed unit.
+The distributions do not establish intention by themselves. They reveal the recurring organization that the book explains as design.
 
 ---
 
@@ -120,12 +126,12 @@ The atom built in Chapter 10 and activated in Chapter 11 behaves, under measurem
 The *Source and Reference Companion* preserves the replication trail:
 
 - the complete Path A tables from `analysis/dhatupatha/`;
-- the complete Path C corpus-attested audit from `analysis/ganah/`;
+- the complete Path C corpus-visible audit from `analysis/ganah/`;
 - the stripping-rule correction history;
 - the prediction/data/verdict cycles;
 - the *juhotyādi* C4 correction from 31.8% to 33.3%, and the Path C sharpening to 42.9%;
 - the complete script-to-output map for reproducing each table.
 
-The code bundles are already organized for public audit. Path A measures the structure of the *Dhātupāṭha*. Path C measures corpus deployment. A future Path B can measure the formal bonding space licensed by the *Aṣṭādhyāyī* itself: what the rule-system makes available, not merely what dictionaries list or corpora preserve.
+The code bundles are already organized for public audit. The structural baseline measures the listed *Dhātupāṭha*. Path A estimates productivity in a selected dictionary sample. Path C measures combinations recorded in the corpus. A future Path B can measure the formal bonding space documented by the *Aṣṭādhyāyī* itself: what its rules make available, beyond what dictionaries list or surviving corpora preserve.
 
-The printed book prioritizes the final result—that the architecture survives measurement—while the companion preserves the complete audit trail for any reader seeking to rerun the tests. Ultimately, the *Dhātupāṭha* operates as a strictly atomic inventory whose underlying numbers vividly expose its engineering.
+The printed book presents the result, while the companion preserves the audit trail for readers who want to rerun the tests. Across these measurements, the *Dhātupāṭha* behaves as an atomic inventory organized for compression, distinction, and generative reach. The book identifies that recurring organization as engineering.

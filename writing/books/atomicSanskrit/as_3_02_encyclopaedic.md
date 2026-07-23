@@ -1,8 +1,6 @@
 # Appendix Part 2 — The Encyclopaedic Confirmation
 
-*Draft v2 (2026-05-20). Four-tier merge of Codex compression (2,084 words) against the reference draft (5,700 prose words). **Appendix voice**: T1 + T2 + T4 restored verbatim; T3 compressed to Codex-style tightness. T4 = reference preservation. Sibling appendix to Part 1: Part 1 prosecutes the pre-independence operation (the colonial Sanskrit-knowledge pipeline that fed the German bake); Part 2 prosecutes the post-independence continuation (the *Encyclopaedic Dictionary of Sanskrit on Historical Principles*, Deccan College Pune, 1948–present).*
-
----
+Sanskrit's preservation architecture separates three phenomena that a historical dictionary can easily collapse into one story of linguistic change: *apabhraṃśa* around the calibrated form, new words generated for new uses, and extensions of meaning within stable words. This appendix first establishes that distinction and then tests the *Encyclopaedic Dictionary of Sanskrit on Historical Principles* as a detailed institutional case. The project has assembled an immense and valuable record. The issue is how its stated method classifies what it finds.
 
 The pre-independence operation relied on the asuric English pyramid's three-apex nexus — **the church, the businessmen, and the politicians** — coordinated to convert Hindus, extract from the subcontinent, and remove Sanskrit as the civilizational anchor. Political sovereignty changed in 1947. The nexus did not.
 
@@ -18,7 +16,7 @@ The asuric Christian pyramid failed to destroy the civilization's architecture, 
 
 The Deccan College dictionary is one case because its documentation is complete and its title confesses the method. The pattern is larger. Linear progressivism — the secularized descendant of the *fourth Abrahamic religion*'s chronological-evolutionary timeline — has remained the default operating system across institutional Indology since 1947. Three other instances make the pattern visible.
 
-**The Bhandarkar Oriental Research Institute (1919; final *Mahābhārata* volume 1966).** BORI's Critical Editions of the *Mahābhārata* and *Rāmāyaṇa* applied Western biblical textual criticism — a tool built to reverse-engineer a fragile Ur-text from corrupt manuscript copies — to **स्मृति (*smṛti*)**, a distributed generative network built to preserve a core while allowing regional, ritual, and civilizational expansion. What the method calls *interpolation* is often the system operating. BORI applied a decaying-manuscript diagnostic to an open-source engine and diagnosed the engine's generative output as disease.
+**The Bhandarkar Oriental Research Institute (1919; final *Mahābhārata* volume 1966).** BORI's Critical Editions of the *Mahābhārata* and *Rāmāyaṇa* applied Western biblical textual criticism — a tool built to reverse-engineer a fragile Ur-text from corrupt manuscript copies — to **स्मृति (*smṛti*)**, a distributed generative network built to preserve a core while allowing regional, performative, and civilizational expansion. What the method calls *interpolation* is often the system operating. BORI applied a decaying-manuscript diagnostic to an open-source engine and diagnosed the engine's generative output as disease.
 
 **The Linguistic Survey of India (George Grierson, 1894–1928).** Grierson's nineteenth-century botanical family-tree sorts Indian languages into mutually exclusive *"Indo-Aryan"*, *"Dravidian"*, and *"Munda"* silos on surface vocabulary drift. Chapter 9 shows the deeper structure: shared articulatory architecture, shared retroflex capacity, shared acoustic grid, calibrant-anchored drift. The Marathi **मूर्ख (*mūrkha*)** speaker and the Hindi *mūrkha* speaker hold the same Sanskrit meaning because the *dhātu* **मूर्छ् (*mūrch*)** stays alive alongside the noun (Chapter 5 §5.6); the Marathi **जाड (*jāḍ*)** worked example holds the same point through a different lexical line. The branches are surfaces. The grid is underneath.
 
@@ -26,9 +24,9 @@ The Deccan College dictionary is one case because its documentation is complete 
 
 In each case, the data is welcome; the methodology is the problem. BORI's variant inventory becomes the archive of *smṛti*'s distributed generation when read through the *Forever Nation* frame. The linguistic data becomes a calibrant-anchored ecology with Sanskrit as the anchor, not a branch on a phantom tree. The archaeological record becomes relative chronology with internal cross-reference, accepting orphans where evidence is indeterminate. The Kurukṣetra War need not be pinned to a BCE date to be acknowledged as historical.
 
-The Deccan College dictionary is the detailed case for prosecution because the documentation is most complete and the institutional choice is most explicit. The other cases follow the same pattern. The pattern is the indictment.
+The Deccan College dictionary is the detailed case because its documentation is extensive and its institutional choice is explicit. The other cases follow the same pattern. The pattern is the indictment.
 
-The post-Cardona, post-Houben, post-Pollock idiom concedes Pāṇinian structural sophistication through *"codified"* (Chapter 1 §1.1). It no longer denies that Sanskrit's grammar is formally elegant. What it still refuses is the engineered-preservation framing — the *Prātiśākhya* / *Śikṣā* / *pāṭha* infrastructure treated as historical accumulation rather than engineered specification. The Deccan College dictionary is the contemporary form of that denial inside the postcolonial Indian institutional idiom. The prosecution targets that contemporary form.
+The post-Cardona, post-Houben, post-Pollock idiom concedes Pāṇinian structural sophistication through *"codified"* (Chapter 1 §1.1). It no longer denies that Sanskrit's grammar is formally elegant. What it still refuses is the engineered-preservation framing — the *Prātiśākhya* / *Śikṣā* / *pāṭha* infrastructure treated as historical accumulation rather than engineered specification. The Deccan College dictionary is the contemporary form of that denial inside the postcolonial Indian institutional idiom. This appendix examines that contemporary form.
 
 ## 2.2 A Choice, Not an Inheritance
 
@@ -40,27 +38,27 @@ The colonial philological machinery that had funded the institutional Indology o
 
 Deccan College held the institutional lineage. Founded in 1821 as a Sanskrit *Pāṭhaśālā* under Mountstuart Elphinstone, with funds redirected from the *Dakṣiṇā* endowment of the Peshwa Bajirao II; renamed Poona College in 1851, Deccan College in 1864, and reconstituted as the Deccan College Post-Graduate and Research Institute after independence. The institution that bore Pune's Sanskrit lineage-chain had a choice in 1948.
 
-Deccan College and Katre could have built the dictionary on the rigorous Indic disciplines the civilization itself had supplied — Pāṇini's grammar, Yāska's **निरुक्त (*Nirukta*)** (the *Vedāṅga* of etymology), the **निघण्टु (*Nighaṇṭu*)** discipline of Vedic lexicography, the synchronic-functional methodology Pāṇini himself uses to distinguish **भाषायाम् (*bhāṣāyām*)** from **छन्दसि (*chandasi*)**. They could have applied the engineered-preservation framing the church of progress already grants to Hebrew under the Masoretic apparatus.
+The project had access to the rigorous Indic disciplines the civilization itself had supplied — Pāṇini's grammar, Yāska's **निरुक्त (*Nirukta*)** (the *Vedāṅga* of etymology), the **निघण्टु (*Nighaṇṭu*)** discipline of Vedic lexicography, and the functional distinctions **भाषायाम् (*bhāṣāyām*)** and **छन्दसि (*chandasi*)** that Pāṇini documents. Its published method does not test the corpus through those categories or through the engineered-preservation frame that the church of progress already grants to Hebrew under the Masoretic apparatus.
 
 They did the opposite. They chose the *Oxford English Dictionary*'s (OED) *historical principles* method, set up by James Murray in the 1880s for natural-historical European languages, and transplanted it onto Sanskrit. They retained the comparative-philological frame Müller and William Dwight Whitney had imposed, keeping Katre's chair as *Professor of Indo-European Philology* at the moment the colonial pressure that had produced the chair ended. They treated Sanskrit as a natural-historical language no different in kind from English.
 
 **Table A.1 — The Choice of 1948.**
 
-| What Deccan College could have chosen | What Deccan College actually chose |
+| Analytical disciplines available to the project | Method the project states it adopted |
 |---|---|
-| The rigorous Indic analytical disciplines — Pāṇini's grammar, Yāska's *Nirukta*, the *Nighaṇṭu* lexicography, the *bhāṣāyām* / *chandasi* synchronic methodology. | Rubber-stamped the *Oxford English Dictionary*'s *historical principles* methodology, set up by James Murray in the 1880s for natural-historical European languages. |
+| The rigorous Indic analytical disciplines — Pāṇini's grammar, Yāska's *Nirukta*, the *Nighaṇṭu* lexicography, and the *bhāṣāyām* / *chandasi* functional distinction. | Adopted the *Oxford English Dictionary*'s *historical principles* methodology, set up by James Murray in the 1880s for natural-historical European languages. |
 | Reject the comparative-philological frame Max Müller and William Dwight Whitney had imposed. | Retained the frame; kept Katre's chair as *Professor of Indo-European Philology*. |
 | Apply the engineered-preservation framing the church of progress already grants to Hebrew under the Masoretic apparatus. | Refused Sanskrit the engineered-preservation framing; treated Sanskrit as a natural-historical language no different in kind from English. |
 
 The title — *Encyclopaedic Dictionary of Sanskrit on Historical Principles* — is the colonial-philological framework's calling card, adopted in 1948 by an Indian institution that no longer had to. *They colluded with the church of progress.*
 
-The structural fact is the prosecutorial target: the choice to continue inside the colonial-philological framework was made in 1948 and renewed every year since. The motivations of individual scholars stay outside the case. The Deccan College project is not a colonial relic continuing because no one stopped it. It is a deliberate institutional choice.
+The structural fact is the target: the choice to continue inside the colonial-philological framework was made in 1948 and renewed every year since. The motivations of individual scholars remain outside this account. The Deccan College project is not a colonial relic continuing because no one stopped it. It is a deliberate institutional choice.
 
 ## 2.3 The Project and Its Method
 
 **Volume 1 appeared in 1976 under Dr A.M. Ghatage** as first general editor. Thirty-five volumes, 6,056 pages, 1,500 corpus texts, ten million Scriptorium slips assembled between 1948 and 1973: the project describes its span — in its own imposed dating — from the *Vedas* around 1400 BCE to *Hāsyarṇava* in 1850 CE.
 
-The method follows the *historical principles* established for the *Oxford English Dictionary* under James Murray in the 1880s: collect attestations, date the texts, arrange meanings chronologically, and treat older attestations as earlier stages from which later usage developed.
+The method follows the *historical principles* established for the *Oxford English Dictionary* under James Murray in the 1880s: collect recorded uses, date the texts, arrange meanings chronologically, and treat uses assigned earlier dates as stages from which later usage developed.
 
 This was built for natural-historical languages. English's *hlāfweard* gradually became *Lord*; the method tracks that. Applied to Sanskrit, the method imports its conclusion. *On Historical Principles* assumes that the difference between Vedic Sanskrit and Pāṇinian Sanskrit is the same kind of difference as *hlāfweard* and *Lord*, only longer.
 
@@ -78,7 +76,7 @@ The Deccan College pages describe the dictionary as *"the only tool for tracing 
 
 Endorsement comes from **A.L. Basham** — author of *The Wonder That Was India* (1954) and longtime Professor of the History of South Asia at the School of Oriental and African Studies, London. The project quotes him approvingly, citing his prediction that the dictionary *"will be the greatest work of Sanskrit Lexicography the world has ever seen."* The project is admired by the *church of progress* that imposed the methodology in the first place.
 
-*Historical principles* needs dates — and that requirement breaks a second way. For English, Old / Middle / Modern English dates exist in the natural-historical record. For Sanskrit, no internal chronology exists. The *Vedas*, the *Aṣṭādhyāyī*, the *Mahābhāṣya*, and the *Vedāṅga* infrastructure are not dated by their own authors or by the **परम्परा (*paramparā*)** — the lineage-chain and transmission architecture — that transmits them. *Kālacakra* is integral and cyclical; chronological dating is not how the civilization organizes itself.
+*Historical principles* needs dates, and that requirement breaks a second way. The Hindu continuum preserves internal chronology for remembered events, lineages, reigns, and civilizational time. The specific dates assigned by Western philology to the *Vedas*, the *Aṣṭādhyāyī*, the *Mahābhāṣya*, and the *Vedāṅga* infrastructure do not come from those texts or from the **परम्परा (*paramparā*)** that transmits them. The dictionary therefore imports the dates on which its developmental sequence depends.
 
 So the *progressive dogma* supplies dates from outside. The corpus is described as covering — in the project's own dating — *Ṛgveda* around 1400 BCE; Pāṇini around 500 BCE; Patañjali in the second century BCE. These are framework dates, not text-given dates. The dictionary embeds them in every slip. Each entry records the *"date of the text"* alongside the vocable. The dates appear to a reader as facts. They are chronology capture: the framework's own numbers, presented as findings. Using framework-assigned dates as evidence for the framework is circular.
 
@@ -104,11 +102,11 @@ Two qualifiers. First, this is not a claim that no scholar has applied the engin
 
 ## 2.5 Three Layers of Variation
 
-The data the project collects is detailed and welcome. The lexicographers list variant phonetic forms, semantic extensions, regional spellings, scribal corrections, manuscript differences, and new technical vocabulary from many disciplines — Buddhist philosophy, **नव्य-न्याय (*Navya-Nyāya*)** logic, **ज्योतिष (*Jyotiṣa*)** mathematical astronomy, **रसशास्त्र (*Rasaśāstra*)** alchemical taxonomy, *Vedānta*, *Mīmāṃsā*, commentary, law, poetry, ritual, science. The corpus is vast. What the method adds is the interpretation: each variant a *stage*; each shift *evolution*; the picture a *Sanskrit changing over time*.
+The data the project collects is detailed and welcome. The lexicographers list variant phonetic forms, semantic extensions, regional spellings, scribal corrections, manuscript differences, and new technical vocabulary from many disciplines — Buddhist philosophy, **नव्य-न्याय (*Navya-Nyāya*)** logic, **ज्योतिष (*Jyotiṣa*)** mathematical astronomy, **रसशास्त्र (*Rasaśāstra*)** alchemical taxonomy, *Vedānta*, *Mīmāṃsā*, commentary, law, poetry, yajña disciplines, and science. The corpus is vast. What the method adds is the interpretation: each variant a *stage*; each shift *evolution*; the picture a *Sanskrit changing over time*.
 
 The engineered Sanskrit thesis absorbs all of it. Sanskrit's own architecture separates the variants into three layers. The colonial-philological method, working in the family-tree frame, collapses all three into *linguistic change*. The engineered thesis labels them.
 
-**Category one: *apabhraṃśa*.** Every variant phonetic form — regional spelling, scribal slip, attested mispronunciation — is a documented case of the phenomenon Patañjali labeled, counted, and exemplified in the **पस्पशाह्निक (*Paspaśāhnika*)**, the opening section of his *Mahābhāṣya*:
+**Category one: *apabhraṃśa*.** Every variant phonetic form — regional spelling, scribal slip, recorded mispronunciation — is a documented case of the phenomenon Patañjali labeled, counted, and exemplified in the **पस्पशाह्निक (*Paspaśāhnika*)**, the opening section of his *Mahābhāṣya*:
 
 > **भूयांसोऽपभ्रंशाः, अल्पीयांसः शब्दाः ।**
 >
@@ -118,7 +116,7 @@ The engineered Sanskrit thesis absorbs all of it. Sanskrit's own architecture se
 
 The listed **गौः (*gauḥ*)** example gave four variants of one engineered word — ***gāvī, goṇī, gotā, gopotalikā***. Deccan College will list many variants for every engineered word in the *Dhātupāṭha* and across Pāṇini's generative engine. Direct proof of what Patañjali had already counted. The project documents the slip. The engineered thesis predicted the slip and identified the architecture that holds against it.
 
-The irony cuts deeper. The Deccan College pages describe their work in their own language — documenting the *"linguistic changes"* in Sanskrit across the centuries. Eight decades of research, thirty-five volumes, ten million slips — to document exactly what Patañjali named, quantified, and exemplified with *gauḥ* thousands of years before the project began. Katre could have read the *Paspaśāhnika*. He did not. The motive is not the prosecutorial target. The fact that the choice was made and renewed across eight decades is.
+The irony cuts deeper. The Deccan College pages describe their activity in their own language — documenting the *"linguistic changes"* in Sanskrit across the centuries. Eight decades of research, thirty-five volumes, and ten million slips document material that Patañjali had already classified and exemplified with *gauḥ* thousands of years before the project began. The project's published method does not use that Patañjalian category to organize the variation it records. The institutional choice, renewed across eight decades, is the point.
 
 **Category two: generative output.** Every new technical vocabulary the project documents — Buddhist **क्षण (*kṣaṇa*, the moment as time-quantum)**, *Navya-Nyāya*'s **अवच्छेदक (*avacchedaka*, delimiter)**, *Jyotiṣa*'s **ज्या (*jyā*, chord)** and **त्रिज्या (*trijyā*, sine)**, *Rasaśāstra*'s **भस्म (*bhasma*, calcined oxide)**, **वेदान्त (*Vedānta*)**'s **उपाधि (*upādhi*, conditioning attribute)** — is the engineered system being deployed for new intellectual ground. The grammatical engine does not change. Pāṇini's rules for compound formation (*samāsa*), for derivation by **कृत् (*kṛt*)** and **तद्धित (*taddhita*)** affixation, and the productive *dhātu*-*gaṇa* engine do not change. A computer does not decay when new software runs on it. The project documents the new words. The grammar documents the engine. Different things.
 
@@ -132,15 +130,15 @@ The OED method works for English because English behaves as the method expects.
 
 Old English *hlāfweard* (loaf-keeper) becomes *Lord*. Old English *cniht* (boy, servant) becomes modern *knight* — phonetic form changed, meaning shifted entirely. Old English had four grammatical cases; modern English has none. Old English had three grammatical genders; modern English has none. Old English vocabulary was Germanic; modern English is half Latinate, with Norman French and Latin overlaying the Germanic core.
 
-The OED precisely tracks natural-historical change, documenting how phonetic forms decay, grammatical structure collapses, and vocabulary undergoes replacement.
+The OED tracks natural-historical change: sounds erode or disappear, case and gender systems are reduced, meanings shift, and new layers of vocabulary replace or cover older ones.
 
 Apply the same method to Sanskrit. *Yantra* stays *yantra*. *Dharma* stays *dharma*. *Brahman* stays *brahman*. Eight cases stay eight. Three genders stay three. The *Dhātupāṭha* stays. The *varṇamālā* stays. The *Aṣṭādhyāyī*'s rules stay.
 
-Same method. Different architectural pictures — because the underlying systems are architecturally different. English has no calibrant. Sanskrit has the calibrant the preceding chapters document. The Deccan College project, working with the same *historical principles* method, has decades of data on what Sanskrit has held against. The method documented English's collapse. Applied to Sanskrit, it documents Sanskrit's resistance.
+The same method produces different architectural pictures because the underlying systems are different. English has no calibrant. Sanskrit has the calibrant the preceding chapters document. The Deccan College project has spent decades collecting the variation against which Sanskrit's calibration remains visible. The method documents English change; applied to Sanskrit, it also documents Sanskrit's resistance to such change.
 
 ## 2.7 What the Project Cannot Show
 
-Three layers of attested variation represent three different phenomena. While the Deccan College method collapses all three into *"linguistic change"*, the engineered thesis locates each in its own architectural layer.
+Three layers of recorded variation represent three different phenomena. While the Deccan College method collapses all three into *"linguistic change"*, the engineered thesis locates each in its own architectural layer.
 
 The engineered Sanskrit thesis makes specific predictions. It predicts the project will find: many variant phonetic forms for every engineered word, exactly as *bhūyāṃsaḥ apabhraṃśāḥ* described; new generative output across the centuries, exactly as the *kṛt* and *taddhita* engine produces; semantic extension with phonetic preservation, exactly as the calibrant envelope predicts.
 
@@ -148,7 +146,7 @@ It also predicts what the project will not find: changes to Pāṇinian rules; c
 
 Separating changing usage from stable specification makes the engineered thesis directly testable. A documented change to the specification would disprove the thesis; variation confined to usage would support it. The project records thousands of years of changing usage while the *Aṣṭādhyāyī*'s rules, the *varṇamālā* organization by *sthāna* and *karaṇa*, the *Dhātupāṭha*, the ten *gaṇāḥ*, and the reusable phoneme inventory remain stable. Pāṇini marks concurrent operating contexts with *bhāṣāyām* and *chandasi*, while the Vedic phonetic disciplines preserve additional governed realizations, including the *Ṛgveda-Prātiśākhya*'s intervocalic **ड → ळ**. The evidence therefore shows different parts of one architecture performing their assigned work across time.
 
-The dictionary works at the attested-usage layer, where speakers, scribes, commentators, and regional schools operate. This layer naturally produces slip, drives extension, and fosters generation. The specification layer—Pāṇini's rules, the *varṇamālā*, the *Dhātupāṭha*, the *pāṭhas*, and the *Prātiśākhya* / *Śikṣā* disciplines—remains completely outside the project's scope. The project cannot show specification change, as no such change exists to show.
+The dictionary examines the recorded-usage layer, where speakers, scribes, commentators, and regional schools operate. This layer naturally produces slip, drives extension, and fosters generation. The specification layer — Pāṇini's rules, the *varṇamālā*, the *Dhātupāṭha*, the *pāṭhas*, and the *Prātiśākhya* / *Śikṣā* disciplines — remains outside the project's scope. Its method therefore cannot establish that the specification itself changed.
 
 One is a test. The other is a mood.
 
@@ -169,7 +167,7 @@ Relative chronology can replace them. Patañjali's *Mahābhāṣya* cites the *A
 | What Deccan College does today | What the reframe proposes |
 |---|---|
 | Operates on the *kārya* axiom — the bond between word and meaning is produced, contingent, renegotiated across time. | Operates on the *siddha* axiom Patañjali establishes (*siddhe śabdārthasambandhe*; Chapter 4 §4.2) — the bond is established. |
-| Applies the *OED*'s *historical principles* to Sanskrit, treating it as a natural-historical language whose forms changed over time. | Applies the Patañjalian specification methodology — Sanskrit as an engineered system whose specification holds while attested usage drifts. |
+| Applies the *OED*'s *historical principles* to Sanskrit, treating it as a natural-historical language whose forms changed over time. | Applies the Patañjalian specification methodology — Sanskrit as an engineered system whose specification remains stable while recorded usage drifts. |
 | Imposes BCE/CE chronology the texts themselves do not hold — chronology capture. | Uses relative chronology from the cross-references the texts themselves hold. Accepts orphans where evidence is indeterminate. |
 | Catalogues variants as evidence of *"linguistic development"* — stages of evolution in a natural-historical language. | Catalogues the same variants as documented *apabhraṃśa* — Patañjali's *gauḥ* example, scaled across the corpus. |
 | Catalogues new technical vocabulary as *"semantic development of Sanskrit."* | Catalogues the same vocabulary as the generative output of the *kṛt* / *taddhita* / *samāsa* framework — the engine running, the specification unchanged. |
@@ -191,7 +189,7 @@ The institutional posture is itself **जड (*jaḍa*)** — the Sanskrit term 
 
 The remedy is in the lineage-chain's own opening invocation. The **सरस्वती वन्दना (*Sarasvatī Vandanā*)** — the prayer Sanskrit students have recited before beginning study for thousands of years — closes on the epithet **निःशेषजाड्यापहा (*niḥśeṣa-jāḍyāpahā*)**, *the remover of all jāḍya*. The institutions catalog the language whose opening prayer holds their cure.
 
-The remedy is concrete. To Deccan College: four operations. None requires new research. None requires the retraction of a single attested form.
+The remedy is concrete. To Deccan College: four operations. None requires new research. None requires the retraction of a single recorded form.
 
 **Rename the project.** *Encyclopaedic Dictionary of Sanskrit on Historical Principles* → *Encyclopaedic Dictionary of Sanskrit*. Drop the four imported words.
 
@@ -209,7 +207,7 @@ The engineering axiom (Chapter 4 §4.2) above the empirical observation (Chapter
 
 **Add a methodological note to Volume 1.** The project inherited an imported framework in 1948. What the dictionary documents is the *apabhraṃśa* stratum — the slip of speakers across thousands of years against an engineered specification. The framing changes. No data is retracted.
 
-**Publish the corpus as structured data.** The 6,056 pages restructured along the architectural axes Chapter 17 §17.2 identifies — engineered form, attested variants, *gaṇa* / *dhātu* lineage, attestation record. The same entries, queryable along the right questions. Data restructuring, not fieldwork.
+**Publish the corpus as structured data.** The 6,056 pages can be restructured along the architectural axes Chapter 17 §17.2 identifies — engineered form, recorded variants, *gaṇa* / *dhātu* lineage, and the record of each use. The entries remain the same, but readers can search them through categories that the present historical arrangement excludes. This requires data restructuring, not new fieldwork.
 
 Four operations. The data is preserved entirely. The institutional history is preserved entirely. Only the imported framework changes. The *jāḍya* will lift the morning the approvals are signed.
 

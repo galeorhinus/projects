@@ -6,7 +6,7 @@ The manuscript remains unchanged until a decision is selected here. These are st
 
 **Source:** [Appendix 1 opening](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_01_baking.md:1)  
 **Action:** STRUCTURE  
-**Status:** OPEN  
+**Status:** APPLIED — 2026-07-23  
 ### Original
 
 > # Appendix Part 1 — Baking the Mother Tongue
@@ -56,7 +56,7 @@ Suggested opening:
 
 **Source:** [Appendix 2 opening](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_02_encyclopaedic.md:1)  
 **Action:** STRUCTURE  
-**Status:** OPEN  
+**Status:** APPLIED — 2026-07-23  
 ### Original
 
 > # Appendix Part 2 — The Encyclopaedic Confirmation
@@ -105,7 +105,7 @@ Replace claims that a named scholar “could have” seen something with the doc
 
 **Source:** [Appendix 3 opening](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_03_audiography.md:3)  
 **Action:** STRUCTURE  
-**Status:** OPEN  
+**Status:** OPEN — AUTHOR CLARIFICATION REQUIRED  
 ### Original
 
 > The sequence tracked here is one the foundational dogma never identified.
@@ -164,7 +164,7 @@ I'm confused as to what stays and what goes
 
 **Source:** [Appendix 4 opening](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_04_inventory_atlas.md:3)  
 **Action:** REPLACE  
-**Status:** OPEN  
+**Status:** APPLIED — 2026-07-23  
 ### Original
 
 > Chapter 8 surveys the subcontinental sound-field through four figures: the deep-south Southern Survey, the Santali-free Forest-Belt Survey, the Western IE control, and the Central Asian control. The polemic ladder descends cleanly through four step-points (20, 18, 14, 12 of 23 Sanskrit base coordinates).
@@ -200,7 +200,7 @@ Throughout the appendix, replace `admits a sound` with `uses the sound as an ind
 
 **Source:** [Appendix 5 opening](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_05_language_factory.md:1)  
 **Action:** REPLACE  
-**Status:** OPEN  
+**Status:** APPLIED — 2026-07-23  
 ### Original
 
 > # Appendix Part 5 — The Language Factory
@@ -244,7 +244,7 @@ Correct the visible count mismatches, the worked-example primitive and morpheme 
 
 **Source:** [Appendix 6, two paths and productivity](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_06_by_the_numbers.md:7)  
 **Action:** VERIFY + REVISE  
-**Status:** OPEN  
+**Status:** APPLIED — 2026-07-23  
 ### Original
 
 > Two paths hold the audit. **Path A** measures the digital Pāṇinian **धातुपाठ (*Dhātupāṭha*)**: 2,168 entries across the ten **गणाः (*gaṇāḥ*)**, after **अनुबन्ध (*anubandha*)** markers are removed by the relevant *Aṣṭādhyāyī* rules. **Path C** measures actual use through the Digital Corpus of Sanskrit: corpus-attested combinatorial valency across parsed Sanskrit texts. Path A tests the inventory. Path C tests deployment.
@@ -282,7 +282,7 @@ Spell out Obligatory Contour Principle before `OCP`. Explain each correlation in
 
 **Source:** [Appendix 7 opening](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_07_vedic_carrier.md:1)  
 **Action:** STRUCTURE  
-**Status:** OPEN  
+**Status:** APPLIED — 2026-07-23  
 ### Original
 
 > # Appendix Part 7 — The Vedic Carrier
@@ -326,7 +326,7 @@ No silent cuts
 
 **Source:** [Appendix 8 opening and headings](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_08_codification_story.md:1)  
 **Action:** STRUCTURE  
-**Status:** OPEN  
+**Status:** APPLIED — 2026-07-23  
 ### Original
 
 > # Appendix Part 8 — The Codification Story, Refuted
@@ -408,7 +408,7 @@ Merge current §§8.1–8.2, 8.5–8.8, 8.9–8.10, 8.11–8.12, and 8.15–8.18
 
 **Source:** [Appendix 9 opening](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_09_glossary.md:1)  
 **Action:** STRUCTURE  
-**Status:** OPEN  
+**Status:** REVISED FOR AUTHOR DECISION — 2026-07-23  
 ### Original
 
 > # Appendix Part 9 — Glossary
@@ -591,6 +591,97 @@ Reduce the glossary by roughly 30–40 percent and give every entry the same sha
 Replace `standard` status labels with `inherited`, `current`, `coined`, or `repurposed`. Correct mixed-script `रचनाḥ`, define *pratyaya* as an affix rather than always a suffix, reconcile the *upasarga* and *Dhātupāṭha* counts, and remove unused terms such as `sonomeron` or `calibrand` unless the body retains them. Divide the long orbital/radiance essay into separate entries. Describe the *Aṣṭādhyāyī* as major surviving documentation rather than origin. Replace positive `custody` for *paramparā* with transmission, care, or responsibility. Remove all `CLAUDE.md` and author-facing rules from the published glossary.
 
 Replace the production-oriented conventions section with a short reader-facing `How to Use This Glossary` paragraph.
+
+### Revised, Item-by-Item Inventory
+
+This revision would not remove a term merely because it appears infrequently. A glossary entry earns its place when the term is coined by the book, carries a controlled meaning that ordinary dictionaries will not supply, or is necessary for following a load-bearing Sanskrit distinction. The inventory below separates removal from consolidation so the effect can be reviewed before the glossary changes.
+
+#### Remove as standalone entries
+
+| Entry | Disposition | Reason |
+|---|---|---|
+| **sonomeron** | Remove | The term appears only in the glossary. The body uses **akṣara**, which is both clearer and primary. Removing the optional synonym prevents readers from learning vocabulary they will never meet again. |
+| **calibrand** | Remove | The term appears only in the glossary. The body now explains receiving languages through *Pratibimba*, vivimorphosis, Sanskritic gravity, and radiance. |
+| **academy** | Remove as an entry | The ordinary English word requires no glossary definition. Its institutional role can remain inside **church of progress** and **philological machinery**. |
+| **rākṣasa-retainers** | Remove | The term does not appear in the manuscript outside this glossary and duplicates **certified intellectuals** and the lower layers of the pyramid. |
+
+These are the only four terms proposed for outright removal.
+
+#### Merge without losing the term
+
+| Current entries | New entry | What remains |
+|---|---|---|
+| **varṇa**, **sonomer**, **sonomeric**, **atomic particle** | **varṇa / sonomer / sonomeric** | Devanagari, definition, the distinction from *phoneme*, and the chemistry analogy. `Atomic particle` remains as a phrase within the entry rather than receiving a separate heading. |
+| **dhātuḥ**, **atom / semantic atom** | **dhātuḥ / semantic atom** | The cross-domain constituent sense, ⟪ ⟫ notation, and the book's atomic use. Repeated chapter-by-chapter deployment prose goes. |
+| **racanā**, **dhāturacanā**, **atomic scaffold** | **dhāturacanā / atomic scaffold** | *Racanā* remains in the compound explanation; the 47-scaffold analytical sense remains; duplicate English-pair prose goes. |
+| **akṣara**, **audiograph** | **akṣara / audiograph** | The distinction among sound-unit, visible rendering, and *lipi* remains. The unused *sonomeron* synonym goes. |
+| **fractal**, **Fractal Corollary** | **fractal / Fractal Corollary** | The book's controlled, scale-recurring sense and the corollary remain in one entry. |
+| **prakṛti**, **saṃskṛti**, **vikṛti** | **prakṛti / saṃskṛti / vikṛti** | The noun/adjective discipline and the three civilizational categories remain together, where readers can compare them directly. |
+| **dogma**, **Western philological dogma**, **progressive dogma**, **foundational dogma**, **linear-progress teleology** | **dogma and its two axes** | The distinction between progressive and foundational dogma remains. `Western philological dogma` and `linear-progress teleology` remain as defined phrases inside the entry. |
+| **church of progress**, **certified intellectuals**, **priests of progress**, **missionaries of progress**, **jihadis of progress** | **church of progress and its roles** | Every role-name remains, with one sentence distinguishing interpretation, export, enforcement, and credentialed repetition. Five parallel mini-essays become one comparative entry. |
+| **asuric pyramid**, **asuric machinery** | **asuric pyramid / asuric machinery** | The structural definition and the distinction between architecture and operation remain in one entry. |
+
+#### Retain as standalone entries
+
+The following entries remain because the manuscript uses them as technical terms, controlled categories, or book-specific nomenclature:
+
+- **śabda**
+- **upasarga**
+- **pratyaya**
+- **calibrant / calibration matrix**
+- **orbital / drifting**, with the current essay shortened and **Sanskritic gravity** and **radiance** defined plainly
+- **vivimorphosis**
+- **revivification**
+- **vyākaraṇam**
+- **vaiyākaraṇāḥ**
+- **Aṣṭādhyāyī**
+- **paramparā**
+- **śruti / smṛti**
+- **chandas / bhāṣā**
+- **vaidika / laukika**
+- **curated transmission / percipient selection**
+- **Sanātan**
+- **sat-asat-viveka**
+- **devabhāṣā**
+- **jijñāsā**
+- **apauruṣeyatva**
+- **dṛṣṭāḥ**
+- **siddha / kārya**
+- **apabhraṃśa**
+- **Dhātupāṭha**
+- **gaṇa**
+- **mātrā**
+- **sūtra-lakṣaṇam**
+- **sthāna / prayatna / sparśa**
+- **pyramid's account**
+- **fourth Abrahamic religion**
+- **philological machinery**
+- **reference ecosystem**
+- **bakers / bake / recipe**
+- **asuratva**
+- **āryatva**
+- **Racial Arya Thesis (RAT)**
+- **lokakṣema**
+- **heroic erasure**
+- **category theft**
+- **chronology capture**
+- **codification recoding**
+- **memory recoded as mythology**
+- **Pratibimba**
+- **engineered / encoded / decoded / codified**
+
+#### Prose removed from retained entries
+
+The following material would be cut or shortened even when the entry itself remains:
+
+1. Chapter-by-chapter deployment lists that repeat the table of contents. Keep one useful chapter pointer where the definition depends on a fuller argument.
+2. Arguments already made in body prose. The glossary defines terms; it does not retry the case for the thesis.
+3. Repeated statements of the Sanskrit/English pair after the pair appears in the heading.
+4. Claims about dictionary absence unless that absence explains why the book coined the term.
+5. Author-facing instructions, `CLAUDE.md` references, bolding rules, and drafting conventions.
+6. Long lists of institutions or examples when two examples establish the category.
+
+Every sentence removed during implementation would first be copied to Lost and Found. The glossary itself would remain unchanged until this revised inventory is accepted.
 
 ### Decision
 

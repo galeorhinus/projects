@@ -47,21 +47,19 @@ When a dictionary writes "from PIE \*ǵenh₁" at the deepest point in an etymol
 
 **This is gaslighting with footnotes compressed into one character.**
 
-PIE cannot be the etymon of any word, and the logic breaks again on that fact. A reconstructed form is not an etymon. The endpoint of going backward in time is the *earliest* real form, not a reconstruction the procedure has projected behind that form. A reconstruction may summarize features shared by real forms; it cannot be the source from which those forms descend unless the reconstruction corresponds to a real spoken form. *Janaka* exists. *Genus* exists. *Génos* exists. **\*ǵenh₁** does not.
+Comparative reconstruction may infer an earlier form that appears in no surviving record. That model does not become an etymon merely because a dictionary places it at the head of a chain. The endpoint of going backward in time is the earliest real form the evidence can establish, while the reconstruction remains a modern hypothesis projected behind that evidence. *Janaka* exists. *Genus* exists. *Génos* exists. **\*ǵenh₁** is a proposal about their history. The pyramid must demonstrate that a corresponding source form existed and that the recorded words descended from it; typography cannot confer ancestry.
 
 The procedural reconstruction is exposed for what it is — an average of the reflections, misrepresented as a source. The bookkeeping claim collapses.
 
-PIE is not merely a speculative reconstruction. It is the asuric pyramid's most successful linguistic artifact: an imaginary ancestor manufactured by the Western philological machinery, sanctified by the church of progress, and installed above Sanskrit so the engineered source could be demoted into one cognate among many. The pyramid needed it so the machinery baked it and the church of progress cemented it.
+PIE is not merely a speculative reconstruction. It is the asuric pyramid's most successful linguistic artifact: an imaginary ancestor manufactured by the Western philological machinery, sanctified by the church of progress, and installed above Sanskrit so the engineered source could be demoted into one cognate among many. The pyramid needed it for multiple reasons, so the machinery baked it and the church of progress cemented it.
 
-**The triad of invention.** RAT supplies the imaginary people: *Aryans* as race, ancestry, or migrating population. PIE supplies the imaginary language: an imaginary ancestor placed above Sanskrit. And the starred reconstructions supply the imaginary words — forms no mouth ever made. The phrase *"Indo-Aryan languages"* then binds the inventions into ordinary academic speech, as though the stolen racial category were neutral linguistic classification. Sanskrit is real. *Ārya* is real. The Vedic archive is real. The imaginary people, the imaginary language, and the imaginary words are the devices by which the real civilization is made external to itself.
+The pyramid extended its fertile imagination from people, language, and words into stories. When it could no longer defend the lie that Vālmīki had copied Homer, it invented a pseudo-compromise. Its imaginary people, already speaking an imaginary language filled with imaginary words, were now equipped with imaginary stories. The pyramid placed imaginary ancestral figures above three real Vedic figures: **द्यौष्पिता (*Dyauṣ Pitā*)** became **the Sky Father**; **अश्विनौ (*Aśvinau*)** became **the Twin Horsemen**; and Indra **वृत्रहन् (*Vṛtrahan*)**, the slayer of Vṛtra, became **the Serpent-Slayer**. Homer and Vālmīki could then be declared inheritors of the same imagined narrative tradition, allowing the pyramid to abandon direct Greek originality without acknowledging that Homer had borrowed from the *Rāmāyaṇa*.[NOTE: indo-european-narrative-inheritance]
+
+**The four inventions.** RAT supplies the imaginary people: *Aryans* as race, ancestry, or migrating population. PIE supplies the imaginary language placed before Sanskrit. Starred reconstructions supply the imaginary words — forms no known mouth ever made. Comparative mythology supplies the imaginary ancestral stories from which recorded epics are made to descend. The phrase *"Indo-Aryan languages"* binds the first three inventions into ordinary academic speech; *"Indo-European narrative inheritance"* performs the same operation for the fourth. Sanskrit is real. *Ārya* is real. The Vedic archive is real. The *Rāmāyaṇa* is real. The imaginary people, language, words, and ancestral stories allow the pyramid to make the real civilization external to itself.
 
 ## 18.3 What PIE Cannot Explain
 
-Chapter 17 separated movement from authorship. Here that distinction meets the imaginary ancestor itself.
-
-PIE cannot account for the Indian sound-field. Sanskrit's retroflex core is subcontinental, muscular, and architectural. PIE has no *mūrdhanya* row and no explanation for why Sanskrit places that row at the center of its phonetic system.
-
-PIE cannot account for the *varṇamālā*. A reconstructed precursor can offer an inventory. It cannot explain an engineered articulatory grid.
+Chapter 17 has already tested PIE against the subcontinental sound-field and the *varṇamālā*. The same failure becomes sharper when the comparison reaches Sanskrit's semantic atoms, its scaffold architecture, and the *siddha* bond between word and meaning.
 
 PIE cannot account for the *dhātavaḥ*. The genealogical project knows reconstructed bases as historical remnants. Sanskrit's *dhātavaḥ* are semantic atoms in an active architecture. The botanical mistranslation exposed in Chapter 2 is an act of intellectual organization. PIE depends on it. Recovering *dhātuḥ* as a structural constituent — the category move completed across Chapters 2 and 10 — dissolves the foundation PIE rests on. A *dhātuḥ* is not a fossilized seed buried in the linguistic past. It is a constituent atom of an engineered system, perpetually active, available for synthesis at any moment. The genealogical project has nothing to do with such a constituent. It has only ever known how to perform autopsies.
 
@@ -75,7 +73,7 @@ PIE depends on the split. The pyramid's story requires Sanskrit before Pāṇini
 
 PIE protects this boundary too. If Sanskrit is only a natural language before Pāṇini and a "codified" language after Pāṇini, then PIE remains plausible and authority remains necessary. But if Sanskrit is recognized as a calibrant, the direction reverses. Sanskrit becomes the measure, not the measured. Pāṇini becomes the decoder of an already-operative architecture, not the authority who imposed order. The pyramid cannot allow that recognition to spread even among its own readers. Once the calibrant is visible, the imaginary ancestor begins to look unnecessary.
 
-PIE becomes durable through education. Once the imagined ancestor is installed as curriculum, Sanskrit is encountered as a descendant before it is encountered as architecture. The classroom does not merely teach a theory; it assigns Sanskrit its place before Sanskrit can speak for itself.
+PIE becomes durable through education. Students usually meet Sanskrit first through a family tree: PIE at the top, Indo-Iranian below it, and Sanskrit placed among the descendants. By the time they encounter the *varṇamālā*, the *dhātavaḥ*, Pāṇini, or the Vedic recitation system, the curriculum has already dictated the category into which those features must fit. The classroom does not merely teach a theory; it assigns Sanskrit its place before Sanskrit can speak for itself.
 
 PIE cannot account for the calibration matrix. A precursor language does not contain *pāṭha* recitations, *Prātiśākhya* specifications, *Śikṣā* training, or engineered anti-entropy.
 
@@ -119,7 +117,7 @@ Four words hang in every English-speaking wardrobe: *shirt*, *skirt*, *short* �
 
 ![Figure 18.2 — \*(s)ker- — the Phantom of Cutting. The tree simplified to its own topology — their branches, their notation, nothing added: dashed = never spoken. No Sanskrit in the tree.](figures/pie_in_sky/sker_pie_tree.svg){#fig:ch18-sker-phantom width=100%}
 
-The notation at the base of that tree makes three confessions, printed in plain sight. The asterisk is the first: the form was never spoken, never heard, never written by anyone — it is a procedural average, the bake this chapter opened with. The parentheses around the *s* are the second. Some daughters hold the *s* (*shirt*, *score*, *shear*); others lack it (*curt*, *cortex*, and Latin's whole wing); and the reconstruction cannot say why. The discipline's term for this is the *s-mobile* — a consonant with no source, no rule, no conditioning environment, and no meaning, "mobile" because it comes and goes as the data demands.[NOTE: s-mobile-root-extension-confessions] The *t* is the third confession. *Curtus* and \*skurtaz have it; \*skeraną and *carō* do not; so the handbooks posit a "root extension" — \*(s)ker-t- beside \*(s)ker-, with sibling extensions in *-d-* and *-p-* for other awkward cousins — and concede, in their own pages, that the extensions hold no identifiable meaning and follow no rule. A phantom base, a floating consonant, a meaningless appendix. That is what the whole tree stands on.
+The notation at the base of that tree makes three confessions, printed in plain sight. The asterisk is the first: **\*(s)ker-** is reconstructed; no text, inscription, or known speaker preserves it. The parentheses are the second: the reconstruction needs *s* for some words and removes it for others. Comparative philology calls this alternation *s-mobile*, but the label supplies no stable rule that predicts its appearance across this family.[NOTE: s-mobile-root-extension-confessions] The *t* is the third confession. Some recorded forms contain it and others do not, so the handbooks posit **\*(s)ker-t-** beside **\*(s)ker-** and call the added consonant a "root extension." Yet the extension has no stable meaning that explains where it appears. A phantom base, a floating consonant, and a meaningless appendix: that is what the whole tree stands on.
 
 All that acrobatics to hide the real origin of these words: the Sanskrit atom **⟪कृत्⟫ (*kṛt*)**.
 
@@ -149,13 +147,13 @@ Open an English dictionary from before the bakers took the reference shelf, and 
 
 > **King** … *lit. the father of a people* … [A.S. *cyning* — *cyn*, offspring; **Sans. *ganaka*, father — root *gan*, to beget**.][NOTE: chambers-1872-king-kin]
 
-No asterisk. No reconstructed ancestor floating above the entry. The chain runs back to a real Sanskrit word — *ganaka*, the begetter, the father — and stops, because that is where the real words stop. The *kin* entry does the same: *"akin to jan, to beget, root of Genus."* The nineteenth century wrote the *dhātuḥ* **⟪जन्⟫ (*jan*)** as *gan* or *jan* indifferently — the palatal softened, the root the same.
+No asterisk. No reconstructed ancestor floating above the entry. The chain runs back to a real Sanskrit word — *ganaka*, the begetter, the father — and stops, because that is where the real words stop. The *kin* entry does the same: *"akin to jan, to beget, root of Genus."* The nineteenth century wrote the *dhātuḥ* **⟪जन्⟫ (*jan*)** as *gan* or *jan* indifferently — the palatal softened, the atom the same.
 
-Skeat's *Etymological Dictionary* (1882) prints *genus* the same way: *"— √GAN, to beget; cf. Skt. jan, to beget… Doublet, kin."* Skeat's roots are his own reconstructions, drawn from Fick — yet he prints them **unstarred**, as bare capitals, and orders the whole list *"according to the alphabetical order of the Sanskrit alphabet."*[NOTE: skeat-aryan-roots-and-edition-drift] Real Sanskrit sits inside every chain; the reconstruction claims no throne above the data.
+Skeat's *Etymological Dictionary* (1882) prints *genus* the same way: *"GAN, to beget; cf. Skt. jan, to beget… Doublet, kin."* Skeat's forms are his own reconstructions, drawn from Fick — yet he prints them **unstarred**, as bare capitals, and orders the whole list *"according to the alphabetical order of the Sanskrit alphabet."*[NOTE: skeat-aryan-roots-and-edition-drift] Real Sanskrit sits inside every chain; the reconstruction claims no throne above the data.
 
 Even Max Müller, who did more than anyone to build the racial frame this book prosecutes, ran his chains to real Sanskrit. In the *Lectures on the Science of Language* (1863) he sets *kin*, *genus*, and *king* beside *janas* and *janaka*: *"king… meant originally, like Sk. janaka, father."*[NOTE: muller-1863-janaka-king] Müller was a comparativist — to him Sanskrit was the best-preserved witness, not the parent, and he posited a common source above it. But the deepest real word he could point to was Sanskrit, and he wrote it plain, no star above it.
 
-Then the asterisk moved. Not into existence — Schleicher had the mark in 1868 — but into the source slot, above the real forms, where a reader is trained to read it as the ancestor. Skeat's own dictionary records the move, edition to edition. The appendix headed *"List of Aryan Roots"* in 1882 becomes the *"List of Indogermanic Roots."* The *genus* entry that read *"(stem gener-)"* grows a starred form — *"(stem gener-, for \*genes-),"* now citing Brugmann. √GAN becomes √KN; √SKAR becomes √SKER; Fick and Curtius give way to Brugmann and Kluge. One reference work, its own successive editions, and the star climbs into place. Not one man's honesty failing — the reference culture moving, the bakers re-baking the shelf.[NOTE: pre-pie-dictionary-shift]
+Then the asterisk moved. Not into existence — Schleicher had the mark in 1868 — but into the source slot, above the real forms, where a reader is trained to read it as the ancestor. Skeat's own dictionary records the move, edition to edition. The appendix headed *"List of Aryan Roots"* in 1882 becomes the *"List of Indogermanic Roots."* The *genus* entry that read *"(stem gener-)"* grows a starred form — *"(stem gener-, for \*genes-),"* now citing Brugmann. GAN becomes KN; SKAR becomes SKER; Fick and Curtius give way to Brugmann and Kluge. One reference work, its own successive editions, and the star climbs into place. Not one man's honesty failing — the reference culture moving, the bakers re-baking the shelf.[NOTE: pre-pie-dictionary-shift]
 
 Today the move is complete. Look up *king* now — Etymonline, the Oxford entries, the aggregators a reader actually consults — and the chain ends at **\*ǵenh₁-**, "to beget." *Janaka* survives as a cognate, one sibling in a list, several lines below the form nobody ever spoke.
 
@@ -182,17 +180,11 @@ By positing an imaginary people speaking an imaginary language built from imagin
 
 *Pratibimba* serves as the optical word, with radiance acting as the transmission image. Rather than requiring a migrating race, Sanskritic forms required carriers, contact, and a receiving field. As the light traveled and the receiving languages held reflections, the philologists mistook the pattern of reflected light for a vanished parent body. Thus, radiance explains resemblance without ancestry, leaving the reflection on its own past the field's edge: the *apaśabda* emerges as drift outside active Sanskritic gravity.
 
-Contact linguistics already knows that structural and lexical features can move across languages under intense contact. Thomason and Kaufman's account (1988, *Language Contact, Creolization, and Genetic Linguistics*) holds two central claims here.[NOTE: thomason-kaufman-1988] First, any feature — structural or lexical — can in principle transfer between languages in contact; the older assumption that grammar is borrowing-proof has been definitively rejected. Second, the intensity and duration of contact predicts the depth of structural transfer. The Sanskrit case presents exactly the conditions Thomason and Kaufman identified as producing extreme contact effects: prolonged, multi-generational engagement of Sanskrit-bearing specialists with the natural languages of Central and West Asia. The Mitanni evidence is direct documentation of exactly this kind of multi-generational specialist contact.
+Language contact can change more than vocabulary. Sustained contact can also transmit patterns of pronunciation, sentence construction, and grammatical analysis.[NOTE: thomason-kaufman-1988] Those categories usually describe contact among naturally changing languages. They do not describe trained carriers teaching an engineered sound-grid, a generative vocabulary, and an analytical method while the receiving community continues to speak its own language.
 
-The closest specific account is *metatypy* — coined in 1996 — describing the most extreme outcome of contact-induced structural change: a language's morphosyntax is wholesale restructured to match a model language while the recipient retains its inherited vocabulary. The central observation is that metatypy is typically asymmetric. One language is the **model**; the other is the **replica**. The replica restructures itself toward the model; the model is structurally untouched. A classic case is Takia, an Oceanic language in Papua New Guinea, restructured by contact with Waskia.[NOTE: ross-metatypy-takia]
+This book calls that process **calibrant contact**. The receiving language does not become Sanskrit. It produces a **प्रतिबिम्ब (*pratibimba*)**: a reflection reshaped by its own mouth, inherited words, and habits of speech.
 
-The Sanskrit case falls outside ordinary metatypy. The major contact-linguistics categories—substrate, superstrate, adstrate, the Thomason-Kaufman scale, even metatypy—rely on the assumption that contact happens between natural languages of comparable type. Consequently, Sanskrit fits none of the standard slots: it operates neither as a lower-prestige substrate (Sanskrit's prestige was high), nor as a militarily imposed superstrate, nor as a geographically adjacent adstrate (its bearers traveled). It functions instead as an engineered calibrant rather than a typical Ross-style model language.
-
-What the existing categories have no vocabulary for is a deliberately engineered, anti-entropic linguistic system in a model role. Contact linguistics has never had to deal with an engineered language because, with the singular exception of Sanskrit, no other known civilization has built one. The silence on the Sanskrit case is evidence that Sanskrit is a category of one — not an oversight.
-
-**Calibrant**, introduced in Chapter 5, designates the engineered anchoring that operates internally to Sanskrit. The same term captures what contact linguistics has no vocabulary for: a deliberately engineered, anti-entropic linguistic system in a model role, structurally distinct from any natural-language model. The internal architecture is the **calibration matrix** developed in Chapter 14. The corresponding term for the external process is **calibrant contact**: restructuring of contacted languages toward an engineered model, asymmetric in the sense Ross's metatypy is asymmetric, but with the engineered-source distinction Ross's account does not acknowledge.
-
-What does the contacted language hold afterward? A reflection. Sanskrit has the word: **प्रतिबिम्ब (*Pratibimba*)** — a reflection, an image, a projection of an original cast on a different surface.
+Constructed languages exist, and natural languages influence one another constantly. Sanskrit remains a category of one because it combines engineered origin, generative architecture, distributed calibration, Vedic measure, and civilizational continuity.
 
 The *mother* family becomes clear:
 
@@ -243,7 +235,7 @@ The *asura* case exposes the break.
 
 The Western philological dogma pushes Sanskrit *asura-* through Indo-Iranian **\*asura-** toward a *contested* PIE **\*h₂nsu-** meaning "life force" or "lord."[NOTE: asura-standard-etymology-contested]
 
-*Contested* is the confession.
+The word *contested* appears beside a reconstruction that the pyramid nevertheless installs as Sanskrit's ancestor. Uncertainty is not fraud. The fraud begins when the pyramid places a disputed reconstruction above Sanskrit's recorded internal analyses and teaches it as the word's deeper source.
 
 **PIE is a lie.**
 
@@ -319,28 +311,18 @@ The triad locks into place: the calibrant operates as the engineered original, c
 
 Sanskrit as calibrant. The natural languages of Central and West Asia as calibrated. Their *Pratibimba* projected backward by nineteenth-century European philologists as PIE.
 
-The inversion is now entirely visible: the living language was declared dead, while the imaginary ancestor was granted life. Although Sanskrit was preserved, recited, taught, spoken, and still generative, the philological machinery treated it as a dead classical subject. Conversely, although PIE was preserved nowhere, recited nowhere, and performed by no known human community, the machinery installed it as ancestral life—literally animating a ghost while burying a living architecture.
+The inversion is now entirely visible: the living language was declared dead, while the imaginary ancestor was granted life. Sanskrit was preserved, recited, taught, spoken, and remained generative. PIE was preserved nowhere, recited nowhere, and spoken by no known human community. Yet the machinery buried the living architecture and animated the ghost.
 
 The Rāhu image from the Preface now becomes literal: a head without a body, granted position without life.
 
-With that realization, the false split completely collapses. Because Sanskrit before Pāṇini was not *prakṛti* waiting for an ancestor, and Sanskrit after Pāṇini was not mere codification waiting for an authority, the same calibrated architecture clearly runs through the Veda, through Pāṇini, and beyond Pāṇini. Once this continuity is recognized, PIE loses its assigned work: it can no longer explain Sanskrit, because Sanskrit itself is the calibrant that the entire explanation was built to hide.
+The false split around Pāṇini collapses with it. Sanskrit before Pāṇini was not *prakṛti* waiting for an ancestor, and Sanskrit after Pāṇini was not codification waiting for an authority. The same calibrated architecture runs through the Veda, through Pāṇini, and beyond him.
 
-That judgment must now reverse. Sanskrit lives. PIE must die as doctrine because PIE never lived as language.
-
-The engineered-model category contact linguistics lacks is the category Sanskrit provides.
-
-PIE is in the sky. The architecture is on the ground.
+PIE is in the sky. PIE is imaginary. The architecture is on the ground.
 
 ***PIE is a lie.***
 
-***The imaginary ancestor loses its assigned life.***
-
-***The asuric pyramid is the machinery that installed it.***
-
-The arithmetic of this section is the recipe of §18.5 running unchanged: one attested atom, three phantom ancestors — the device-count rising to cover what the averaging cannot.
-
-***PIE must die as doctrine.***
+***PIE must die.***
 
 ***The handoff begins.***
 
-Once the imaginary ancestor is removed, the question changes. Life after PIE can now become visible.
+Once the imaginary ancestor is removed, life after PIE can become visible.

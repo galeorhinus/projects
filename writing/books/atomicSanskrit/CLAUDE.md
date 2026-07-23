@@ -446,6 +446,12 @@ The book does not use ***attested / unattested / attestation*** in its own expla
 
 Choose the replacement by evidence and do not substitute *documented* mechanically. For corpus analysis, use ***recorded in the corpus***, ***corpus-recorded use***, or ***forms found in the corpus***. For historical evidence, identify the inscription, manuscript, recitation, dictionary, or other source that preserves the form. Preserve the banned family only inside an exact quotation, a bibliographic title, or the pyramid's own bureaucratic and philological language when that idiom is being exposed.
 
+### *Upstream / downstream* — state the actual relationship
+
+The book does not use ***upstream*** or ***downstream*** as shorthand for chronology, derivation, causation, intellectual priority, or cultural influence. The spatial metaphor forces the reader to determine which relationship the sentence means and often conceals more than one claim inside a single word. State the relationship directly: ***before / after*** for chronology; ***source / derivative*** for derivation; ***cause / consequence*** for causation; ***original / adaptation*** for a claim about priority; and ***transmitted from / received by / influenced by*** for cultural movement.
+
+Do not replace every occurrence with one preferred pair. Rewrite the sentence around the people, texts, languages, or operations involved. Preserve the words only in exact quotations, literal descriptions of flowing water, or genuinely technical descriptions of a physical or computational flow.
+
 ### Texture — causal-expository prose without a verdict formula (revised 2026-07-19)
 
 The book's default voice is **causal-expository** (locked 2026-07-18 after a manuscript-wide author pass converted Preface–Ch19 + App 8): the sentence states its logical relation to what precedes it, and syntax — not juxtaposition — carries the inference. The earlier paratactic default (stacked short verdicts, anaphora triples, one-line pivot paragraphs, drumbeat catalogs) is retired as texture. Where a draft stacks verdicts (*"Drift before Pāṇini. Freeze after Pāṇini."*), rebuild the omitted relationship in as many sentences as the explanation needs. Do not force the repair into one overloaded period.

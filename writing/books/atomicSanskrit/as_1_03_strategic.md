@@ -84,6 +84,12 @@ The two frameworks are incompatible accounts of civilizational time, not minor v
 
 A precision-engineered Sanskrit, stabilized against entropy and preserved across the long span of the civilization that built it, sits at the wrong end of the progress story. It implies that a peak epoch of clarity already occurred, in an age whose architectural sophistication the present has not surpassed. The linear framework cannot admit that counterexample without endangering its own structure.
 
+The pyramid's insecurity was deeper than language; it was civilizational. Nineteenth-century Europe was recasting itself as the heir to the *"Greek miracle,"* and preserving that origin-story required Homer to remain original. By dating Pāṇini to roughly 500 BCE, filing the *Rāmāyaṇa* under *"Classical Sanskrit,"* and placing the Vālmīki *Rāmāyaṇa* around 400 BCE, the machinery placed India's grammar and its epic after Homer.
+
+Elements such as Rāma lifting the great bow, Sītā's abduction, a war across the sea to recover her, and warriors identified from the walls of a besieged city made their way into the Homeric epics. We do not know whether Homer had read the *Rāmāyaṇa* or received Rāma's stories through other tellers, but those stories had already been legendary for thousands of years before him.
+
+The pyramid's chronology reversed that borrowing. It presented these *Rāmāyaṇa* patterns as Homeric originals and recast Vālmīki as the borrower.[NOTE: ramayana-homer-chronology-capture]
+
 This is the surviving pillar, but it has not abandoned the racial pillar in India. It has repackaged it. Noachian chronology can fade; explicit race science can be denounced; the linear-progress teleology remains, and for Sanskrit it still requires an external author. A scholar can reject old race science in public while preserving the racial Arya thesis through migration and DNA vocabulary. The teleology is what gives *progressive* its force; the racial frame is what keeps Sanskrit portable.
 
 The institutional class also calls itself *liberal*, and the word turns against the structure it serves. Latin *liber-* meant free, but also generous, open-handed, unstinting. *Illiberal* preserves the negation: closed-handed, ungenerous, withholding. Sanskrit captures the same structure with older precision. The dhātu **रा (*rā-*)** means to give; the privative *a-* yields *arāvan* (अरावन्), the non-giver, the one who holds rather than releases, centralizes rather than distributes.[NOTE: liber-arāvan-etymology] Two etymologies, two languages, one diagnosis.
