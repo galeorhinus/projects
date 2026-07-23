@@ -43,9 +43,9 @@ Once Sanskrit has selected stable, teachable, body-mapped sound-units, its inter
 
 > **Sonomers: The Pre-Pāṇinian Sound-Units**
 >
-> In terms of chronology the *varṇāḥ* are pre-Pāṇinian. The Vedic phonetic discipline already treats Speech as made of distinguishable sound-units, measured by *svara*, *mātrā*, force, continuity, and recitational joining. The ordered sound-inventory later called the *varṇamālā* stands inside that older discipline.
+> Vedic phonetic disciplines already treat Speech as distinguishable sound-units measured through *svara*, *mātrā*, force, continuity, and recitational joining. The ordered inventory later called the *varṇamālā* operates within that field.
 >
-> Pāṇini **did not** create these *varṇāḥ*. His Māheśvara-sūtras rearranged an already operating inventory into a compact grammatical index. The sonomeric architecture existed before Pāṇini's Māheśvara-sūtras.[NOTE: pre-panini-pratisakhya-classification]
+> The Hindu continuum remembers the Māheśvara-sūtras as the sounds of Śiva's drum, received by Pāṇini. Those sūtras arrange an already operating inventory into a compact grammatical index. Pāṇini did not create the *varṇāḥ*; his analysis depends on the sonomeric architecture that the sūtras index.[NOTE: pre-panini-pratisakhya-classification]
 
 The figures in this book use grids and hexagons. That is a translation for readers trained by engineering drawings, chemistry diagrams, and coordinate systems. A wiser age would hear *varṇamālā* and understand that the "beads" are selected sounds. Because the architecture has been hidden for too long, a second visual language becomes necessary: grids for coordinates, hexagons for stable units, and matrices for repeated structure.
 
@@ -201,11 +201,15 @@ The figure makes the multiplication visible without making the argument mathemat
 
 ## 9.8 What Earns a Coordinate
 
+### The Two Open Positions
+
 Figure 9.5 contains two open coordinates in the *varṇamālā* grid. Both positions correspond to sounds that a human mouth can make. Why does Sanskrit leave them open?
 
 The first coordinate lies at the back of the mouth in the *antaḥstha* row. Modern phonetics writes the sound as **[ɰ]**, the voiced velar approximant. To approach it, begin with the voiced friction of **ग़ [ɣ]**, loosen the contact until the friction disappears, and keep the voice running. The resulting sound comes from the throat region, without the lip movement of English *w*. Sanskrit does not promote this consonant to a sonomer.
 
 The second lies at the lips in the *ūṣman* row. Start with the **[f]** that begins the English words *phone*, *front*, and *fast*, made by bringing the lower lip toward the upper teeth. Then remove the teeth from that operation and continue the friction between the two lips: the result approaches **[ɸ]**, the voiceless bilabial fricative. Sanskrit does not promote this consonant to a sonomer either.
+
+### Four Tests for a Sonomer
 
 For a sound to be promoted to a sonomer and assigned a coordinate in the *varṇamālā*, it must satisfy these four requirements:
 
@@ -215,6 +219,8 @@ For a sound to be promoted to a sonomer and assigned a coordinate in the *varṇ
 4. It must complete a recurring operation within Sanskrit's architecture.
 
 Both candidates are pronounceable, and the mouth can combine each with all fourteen *svaras*. Architecture decides whether those combinations form a stable series of *akṣaras*, whether the sounds distinguish forms independently, and whether they complete a recurring operation within Sanskrit.
+
+### Why [ɰ] Stays Outside
 
 Begin with **[ɰ]**. The four occupied coordinates in the *antaḥstha* row arise from four visible relationships:
 
@@ -242,11 +248,15 @@ Sanskrit has no **[ɯ]** vowel from which that movement could begin. Its *kaṇ�
 
 The Pāṇinian explanatory lineage makes the coordination explicit. For grammatical operations, short **अ** is treated as *vivṛta* so that it can combine with **आ** as a corresponding vowel; the final rule of the *Aṣṭādhyāyī*, **अ अ**, restores the *saṃvṛta* short vowel in finished pronunciation.[NOTE: sound-volume-two-open-coordinates] The treatment is already active in Vedic Sanskrit; Pāṇini documents it. The result is tightly controlled: Sanskrit uses the open **आ** for the two-*mātrā* outcome, while the theoretical **[ɯ] → [ɰ]** relationship never arises. The sound **[ɰ]** is pronounceable, but it neither completes Sanskrit's vowel operation nor establishes an independent contrast that would justify another reusable coordinate.
 
+### Why [ɸ] Stays at the Boundary
+
 The labial opening reaches the same decision by another route. **फ [pʰ]** and **[ɸ]** can sound close because both release breath at the lips, although the mouth produces them differently. **फ** closes the lips for **प [p]** and releases *mahāprāṇa* when they open; **[ɸ]** keeps the lips slightly apart and sustains friction between them. The complete stop series requires **फ**, which can combine productively with the vowels and build atoms and words.
 
 The Vedic transmission also preserves the [ɸ]-like articulation. At the opening of Ṛgveda 1.1.2, **अग्निः पूर्वेभिर् (*agniḥ pūrvebhir*)**, the breath of the *visarga* moves into the following **प** and may be shaped at the lips into the sound written **ᳶ**: **अग्निᳶ पूर्वेभिर्**. The Vedic phonetic disciplines call this ***उपध्मानीय (*upadhmānīya*)***, and Pāṇini later documented its occurrence in *Aṣṭādhyāyī* 8.3.37. Sanskrit therefore preserves [ɸ]-like articulation when a stated junction produces it, while the reusable grid snaps the labial breath-field to **फ** rather than establishing another nearly adjacent consonant.
 
 The checked inventories of Korku, Mundari, Ho, Tamil, Telugu, and Kannada strengthen both findings. These languages contain neither **[ɰ]** nor **[ɸ]** as an independent consonant, even though their speakers can learn such sounds. Chapter 8 surveyed this central and southern sound-field in greater detail. The comparison cannot tell us who selected the Sanskrit inventory or when, but it shows that the two open coordinates do not correspond to recurring independent sounds across the field from which Sanskrit's architecture draws.
+
+### The Vaidika and Laukika Division of Work
 
 Ṛgvedic **ळ [ɭ]** supplies the control. Sanskrit unquestionably uses the sound: the first mantra begins **अग्निमीळे (*agnim īḷe*)**. The *Ṛgveda-Prātiśākhya* explains that intervocalic **ड** becomes **ळ**, and that the corresponding **ढ** becomes **ळ्ह**. Vedic transmission preserves the resulting sound exactly, while the *varṇamālā* grid neither promotes it to a sonomer nor assigns it an independent coordinate.[NOTE: agnimile-rigveda-opening] Other Indian languages can assign **ळ** an independent and productive role; the anatomy is available, but the architecture determines whether the sound participates as a sonomer.
 
@@ -268,17 +278,13 @@ The *varṇamālā* is a selected inventory with a protected margin. Its restrai
 
 ## 9.10 Varṇa Is Not Letter
 
-Although the natural modern reflex is to call these "letters," that reflex mistakenly imports the concept of an alphabet—a finished list of glyphs meant specifically for writing down a language that already exists. By stark contrast, the *varṇamālā* runs entirely the other way: because the engineered sound-particles must always come first, a glyph for them can only ever come later, if at all.
+Readers often call the members of the *varṇamālā* letters because they are first introduced on a page. A written letter, however, is a visible mark or glyph. A *varṇa* is an action of the body with a defined *sthāna*, *prayatna*, voice, breath, nasal setting, and duration in *mātrā*. The measured sound exists before any script represents it with a glyph.
 
-A *varṇa* is a measured unit of sound — a *sthāna*, a *prayatna*, a voice setting, a nasal setting, a duration in *mātrā*. None of that is a property of a written shape. A letter is a sign read with the eye; a *varṇa* is an articulation made with the body. The *varṇamālā* is a sonomeric grid — sound-particles ordered by where and how the mouth makes them — not an alphabet of glyphs ordered by custom.
+The *varṇamālā* orders those sounds by the way the mouth produces them. It moves from throat to lip, distinguishes full contact from open tone and turbulent breath, and records short and long duration. Alphabetical order such as *a, b, c* does not display a comparable physical map.
 
-Alphabetical order such as *a, b, c* says little about the sounds it lists, whereas the *varṇamālā* maps the mouth systematically from throat to lip, stop to nasal, and short duration to long. The written glyphs provide a later interface for an order already present in the sound architecture.
+The sound-grid therefore comes first. The sound is the cause. A script gives that grid a visible interface, just as written digits give the place-value system a visible form. The mark can change without changing the architecture it represents. The infinity glyph `∞` likewise makes the unbounded easier to write; the symbol did not invent the idea of infinity.
 
-Consequently, once the *varṇamālā* fully exists, the script merely becomes implementation. Because the true engineering lies entirely in the ordered sound-grid—where place, effort, voice, breath, nasality, and duration are held in stable relation—representing those precise sounds with written symbols is just a trivial, procedural implementation of a scalable, fractal idea. Ultimately, writing simply gives that structural grid a visible interface, exactly much as decimal notation gives place-value numbers a visible form.
-
-The infinity glyph `∞` makes the unbounded easier to write; it does not make the unbounded thinkable. The visible mark is secondary; the architecture comes first.
-
-When the pyramid files this architecture under its interface and calls it an alphabet, it flattens the *varṇa* to "letter," the *akṣara* to "syllable-sign," and the sonomeric grid to an ABC, causing the engineering beneath the glyphs to go completely unseen. By restoring the precise Sanskrit terms, the engineering immediately returns to focus, revealing that the glyphs are secondary while the sound-architecture is the true language.
+When the pyramid files the architecture under its interface and calls it an alphabet, *varṇa* becomes “letter,” *akṣara* becomes “syllable-sign,” and the sonomeric grid becomes an ABC. The written marks remain visible while the physical order beneath disappears from view. The interface eclipses the architecture.
 
 ## 9.11 The Grid Holds the Garland
 

@@ -66,7 +66,7 @@ def main():
         )
 
     # Peak annotation — vertical arrow above the 2-mātrā bar.
-    # Label matches the chapter's primary phrasing ("2-mātrā envelope", §10.5).
+    # Label matches the chapter's primary phrasing ("2-mātrā envelope", §10.4).
     ax.annotate(
         "2-mātrā envelope",
         xy=(2, 998),

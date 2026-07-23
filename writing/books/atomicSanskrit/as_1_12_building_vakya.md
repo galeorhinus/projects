@@ -24,15 +24,11 @@
 
 When a *dhātuḥ* engages an operation, it becomes a **क्रियापदम् (*kriyāpadam*)** — a verbal molecule. The language now has to build the rest around it: names, role-bearing words, and the sentences that let the action enter speech.
 
-One test of engineering is: can Sanskrit build larger forms without blurring the lower levels — the sonomer still visible inside the atom, the atom inside the molecule, the molecule inside the **पदम् (*padam*)**, and the *padam* inside the **वाक्यम् (*vākyam*)**?
+One test of engineering is whether a completed Sanskrit sentence can be traced back through its layers. A reader should be able to move from **वाक्यम् (*vākyam*)** to **पदम् (*padam*)**, the molecule; from the molecule to its bonds and semantic atom; and from the atom to its sonomers. The chapter calls this **recoverable assembly**.
 
-That is **assembly without blur**.
+The epigraph places the **ऋचः (*ṛcaḥ*)** in the imperishable **अक्षर (*akṣara*)**, the highest heaven in which the devas are seated, and asks what someone who does not know that ground can do with the verse.[NOTE: rigveda-1-164-39-akshara-assembly] This chapter uses modern terms such as atom, molecule, and recoverable assembly to explain the hierarchy, but the hierarchy itself is already operating in the mantra. The completed *ṛc* rests upon stable units, and the following paragraphs trace its construction through those units.
 
-The epigraph confirms the architecture in a Vedic form: the *ṛks* reside in the **अक्षर (*akṣara*)** — the imperishable syllable, the highest heaven — where the devas are seated. What will one who does not know that do with the *ṛc*? Those who know it gather here.[NOTE: rigveda-1-164-39-akshara-assembly]
-
-The verse does more than a grammar manual could do. It places the reader inside the relation under study: a completed utterance depends on the recoverable structure beneath it. The *ṛc* is the assembled utterance. The one who does not know what holds it cannot use it properly.
-
-And what holds it — the *akṣara* — the Veda calls **परमे व्योमन् (*parame vyoman*)**, the highest heaven: the supreme ground is the **lower fractal** scale, found by going down, not up.
+The verse directs attention beneath the visible utterance to what sustains it. In the scale model used here, the supporting layer lies below the completed sentence even though the verse calls its imperishable ground the highest heaven, **परमे व्योमन् (*parame vyoman*)**.
 
 The verse itself is a worked example of sentence assembly. Inside four lines it sets a locative field — **अक्षरे परमे व्योमन् (*akṣare parame vyoman*)** — closes it with a relative — **यस्मिन् (*yasmin*)** — weighs knowledge against its absence — **वेद (*veda*)**, **न (*na*)** — turns on an instrumental — **ऋचा (*ṛcā*)** — and reaches into future action with **करिष्यति (*kariṣyati*)**, built from the same ⟪कृ⟫ (*kṛ*) atom.
 
@@ -48,9 +44,9 @@ From there the chain runs outward: the verbal molecule becomes a source of names
 
 The *dhātuḥ* is a semantic atom. To enter speech, it must bond into a sentence-ready form.
 
-Sanskrit bonds the atom in two main directions. A head-bond attaches before the atom. A tail-bond attaches after it. Sanskrit's grammatical names are **उपसर्गः (*upasargaḥ*)** and **प्रत्ययः (*pratyayaḥ*)**.
+Sanskrit bonds an atom in two main directions. A head-bond, **उपसर्गः (*upasargaḥ*)**, attaches before it and redirects its field of action. A tail-bond, **प्रत्ययः (*pratyayaḥ*)**, attaches after it and gives the resulting form a defined job: action, agent, deed, obligation, state, or another grammatical and semantic category.
 
-An *upasargaḥ* redirects the atom's field of action. A *pratyayaḥ* stabilizes the molecule into a usable class — settling whether the same atom closes as the action itself, as the one who acts, as the deed done, or as the state left behind. A final role-ending then readies the form for the sentence: a **विभक्तिः (*vibhaktiḥ*)** sets a name's role, number, and relation, and a **तिङ्-प्रत्ययः (*tiṅ-pratyayaḥ*)** sets a verb's person, number, and relation.
+The completed form can then take the ending required for sentence use. A **विभक्तिः (*vibhaktiḥ*)** marks a name's role, number, and relation, while a **तिङ्-प्रत्ययः (*tiṅ-pratyayaḥ*)** marks a verb's person and number. “Stabilize” here means that the bonded form has acquired a recoverable role; it does not describe physical preservation.
 
 The governing issue is recoverability. The bond remains visible enough for the form to be analyzed, taught, corrected, recited, and recalibrated.
 
@@ -226,7 +222,7 @@ The assembled sentence brings Sanskrit's generative architecture into view as on
 
 Once Sanskrit has produced usable forms, **समास (*samāsa*)** allows them to enter a further level of composition. Two completed forms can join as one compound, and the completed compound can become part of a larger compound in turn. When India's lunar mission required a name, **चन्द्र (*candra*, moon)** and **यान (*yāna*, vehicle)** joined as **चन्द्रयान (*Candrayāna*)**, a vehicle for the Moon. The new circumstance required new usage, while the atoms, bonds, and compositional procedure remained available without alteration.
 
-Every additional scale multiplies the possible expressions. The conservative count introduced in Chapter 0 §0.6 exceeds twenty million first-pass forms before *samāsa*, technical coinage, and poetic extension enter the calculation.[NOTE: sanskrit-generative-wordspace] That count indicates the reach of the architecture, while the preceding chapters explain how the architecture produces it: compact atoms repeatedly enter lawful operations, and completed forms remain available for further assembly.
+Every additional scale enlarges the possible field of expression. Under the stated assumptions in Chapter 0 §0.6, this book's conservative model produces more than twenty million first-pass possible forms. And that does not include the calculations for *samāsa*, technical coinage, and poetic extension.[NOTE: sanskrit-generative-wordspace] The number is a model of generative space rather than a count of dictionary entries. The preceding chapters show how that space arises: compact atoms enter governed operations, and completed forms remain available for further assembly.
 
 The architecture produces this large field by governing how its parts combine. A pronounceable sequence does not become Sanskrit merely because its parts can be imagined, and the empty cells in the *racanā–gaṇa* and bonding matrices record combinations that the architecture does not use. A valid formation must follow the operations that connect its parts, preserve the required sound changes, and enter speech with recoverable grammatical and semantic bonds. The same internal constraints that generate a form also allow speakers and caretakers to examine and correct it.
 
@@ -284,7 +280,7 @@ Vivimorphosis also explains how Sanskrit's radiance enriches other languages. Sp
 
 ---
 
-## 12.10 Close — Assembly Without Loss
+## 12.10 Assembly Remains Recoverable
 
 The *dhātuḥ* now stands as an atomic construction, and the atom that entered operation has become action. The next scale follows: the atom becomes *śabda*, the molecule becomes *padam*, and the *padam* integrates into the *vākya*.
 

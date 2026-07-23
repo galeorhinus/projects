@@ -28,7 +28,7 @@ Chapter 0 used follower in the Sanātan sense: a seeker who has *chosen a path*.
 
 And the one is a Him — a blank each age fills with a new name. Hiraṇyakaśipu, who would suffer no worship but his own. Rāvaṇa, whose will was the law of three worlds. Vṛtra, who seized the waters and called the withholding order. The names change; the Him does not. A later age enthrones Him beyond the sky, capitalizes His name, puts His order past question, brooking no other before Him. New face. No Image. Same apex.[NOTE: devi-mahatmya-goddess-undoes-male-apex]
 
-The finite order turns plurality into command.  A pyramid.
+The finite order claims that every field needs a highest point from which authority descends. Its natural shape is a pyramid.
 
 Its frame is not one of the removable plates. The frame is the asuric pyramid itself: the intact geometry of apex, enclosure, and control. The numbered plates are the obstructions this book exposes, cracks, and removes from the view of Sanskrit. The pyramid returns at the head of each part, one more plate gone each time, until the Sun stands clear.
 
@@ -48,7 +48,7 @@ The finite is all they have seen. The finite is all they can model. The finite t
 
 Genesis gives the same operation in scriptural key: one birth, one life, one death, one Heaven, one Hell. A single beginning, a single command, a single authorized account of origin, and a single final judgment at the end of the line. The pyramid needs that first point. Once the beginning is owned, the sequence can be owned. Once the sequence is owned, the field can be judged from outside itself. In philology, PIE performs the same work. In chronology, the date performs the same work. Control the first point, and the rest can be made to follow.
 
-Because the forceful, top-down imposition of finite ignorance by authorities is the true damage, the confusion of ordinary people is merely a symptom. While ordinary confusion can be corrected, imposed ignorance hardens into rule: the apex takes reductive ideas, dresses them in grand terminology, and cements them as unquestionable dogma—ensuring that the result is not knowledge, but obedience.
+The argument concerns the structure and its apex, not every person who lives inside it. Most people enter schools, professions, categories, and incentive systems they did not design. Their confusion can be corrected when they encounter another way of organizing knowledge. The deeper damage begins when the apex takes a reductive idea, dresses it in grand terminology, cements it as unquestionable dogma, and enforces it through curriculum, credentials, and official doctrine. The system then rewards obedience as knowledge.
 
 At the top of that geometry sits the apex-claimant. The boundless defeats his ownership. Distributed order lies beyond his command. Sanskrit threatens him because Sanskrit preserves order without needing him. The one exposed by light becomes an enemy of light. That is the Svarbhānu pattern: exposure does not humble the apex; it hardens him into retaliation.
 
@@ -68,7 +68,9 @@ Sanskrit resists that shape because its order descends through the distributed f
 
 While the pyramid can survey and rule natural drift, capture codification through authority, lord over one, and sanctify the other, calibration gives it no equivalent handle because the standard lives inside the system itself. Therefore, unable to control it, the pyramid must hide the category entirely.
 
-**Diagnostic distinction.** Not everything outside formal Vedic calibration is asuric. A *nastika* discipline may refuse the Veda as calibrant and still live harmoniously beside it, beside other harmonious formations, and within the balance of the world. A *prākṛtika* culture may live through forest, clan, custom, ecology, craft, and local memory without being threatened by the Vedic measure. The asuric formation is different: it is threatened by the calibrant and by the balance the calibrant protects; it therefore works to destroy, displace, shame, capture, or distort it. Although, *nastika* and *prākṛtika* systems can coexist alongside *saṃskṛti*, compatibility does not mean immunity: a formation can live harmoniously beside the calibrant and within the world's balance, and still later be captured, co-opted, or controlled by the pyramid.[NOTE: compatibility-is-not-immunity]
+**Diagnostic distinction.** Not everything outside formal Vedic calibration is asuric. An *āstika* formation accepts the Veda as a measure. A *nastika* discipline may refuse that measure and still live harmoniously beside it, beside other harmonious formations, and within the balance of the world. A *prākṛtika* culture may organize life through forest, clan, custom, ecology, craft, and local memory without feeling threatened by the Vedic calibrant. The asuric formation acts differently: because the calibrant and the balance it protects restrict apex power, the asuric formation tries to destroy, displace, shame, capture, or distort it.
+
+Harmony does not provide immunity. A *nastika* or *prākṛtika* formation may live peacefully beside *saṃskṛti* yet lack the institutions and long defensive memory needed to recognize a recurring asuric attack. The pyramid can then capture, co-opt, or control a formation that did not originally oppose the calibrant.[NOTE: compatibility-is-not-immunity]
 
 Preservation has to discriminate. Living forms can flow, grow, and change while the calibrant holds the measure by which balance is restored when darkness spreads. The pyramid targets that measure because capture becomes harder when correction remains distributed.
 
@@ -78,7 +80,7 @@ The same insecurity drives the asuric obsession with chronology capture. The pyr
 
 In the Vedic mantra, Svarbhānu pierces Sūrya with darkness, and the worlds become *mugdha*, bewildered, like one who does not know the field.
 
-The asuric pyramid repeats that operation against Sanskrit in two stages. First it attacks the living ecology: the teachers, homes, temples, schools, patronage, prestige, and public confidence through which Sanskrit remains audible. The British colonial state did this openly, and later anti-Hindu Indian governments continued the work through curriculum, funding, and cultural shame. Sanskrit survived those attacks. The second movement therefore turns to custody after survival. The word remains visible, the texts are printed, the documenter is praised, the dictionaries are compiled, and the courses are taught. Then darkness is placed over the category. The civilization sees Sanskrit but is trained not to recognize what shines.
+The asuric pyramid repeats Svarbhānu's operation against Sanskrit in two stages. It first attacks the living ecology that keeps the language audible: teachers, homes, temples, schools, patronage, prestige, and public confidence. The British colonial state pursued this attack openly, and later anti-Hindu Indian governments continued it through curriculum, funding, and cultural shame. When those assaults failed to erase Sanskrit, the pyramid turned toward custody. It kept the word visible, printed the texts, praised the documenter, compiled dictionaries, and taught courses while placing darkness over the language's category. The civilization could still see Sanskrit, but its schools trained people to see only texts, dictionaries, and courses while missing the architecture that made the language radiant.
 
 Svarbhānu obscures: the light remains, but the field goes dark. The worlds are still there, yet they become **मुग्ध (*mugdha*)**, bewildered. The same shape governs the attack on Sanskrit. The sound remains audible. The texts remain printed. Pāṇini remains praised. The dictionaries remain on the shelf. What the pyramid darkens is the category: Sanskrit as **संस्कृति (*saṃskṛti*)**, calibrated architecture.
 
@@ -88,7 +90,7 @@ The result is field-loss. Sanskrit remains present, but the world becomes *akṣ
 
 ## 1.4 The Operations
 
-The transmission architecture placed these recognitions inside stories, allowing them to survive for thousands of years and travel between generations. Each story works as both memory and diagnostic recipe, while the varied casts teach successive generations to recognize the same asuric operation beneath a new costume.
+The transmission architecture placed these recognitions inside stories, allowing them to survive for thousands of years and travel between generations. Each story preserves a way to recognize an asuric action when it appears under a new costume. The list below follows that recurring shape across several scales, from the withholding of light and water to the capture of schools, archives, and language.
 
 Svarbhānu can teach a child that darkness covered the Sun, an elder that darkness can become a weapon against light, and a civilization that the first symptom of successful asuric attack is field-loss: **अक्षेत्रवित् (*akṣetravit*)**, not knowing the field.
 
@@ -116,8 +118,6 @@ The first move is ancestry theft. The pyramid places PIE above Sanskrit, and mak
 
 The public move is language capture. Words such as *plant-organ*, *branch*, *daughter*, *migration*, *reconstruction*, *codification*, *"mythology"*, *cosmopolis*, *elite*, *early*, *late*, *primitive*, and *interpolation* smuggle the concealment into ordinary speech. A reader can absorb the verdict before seeing the evidence because the vocabulary has already assigned the category.
 
-These operations execute category theft. The pyramid confines Sanskrit within categories built to hide what Sanskrit is.
+Together, these operations carry out category theft by confining Sanskrit within categories built to hide what it is. At the summit sits the one who must own the field. He turns the field into a base beneath him and presents his view from the apex as the whole. Sanskrit threatens him because it preserves an order that distributes correction without placing anyone at the top.
 
-At the summit sits the one who must own the field. He does not share authority with the distributed field. He converts the field into a base and calls his view the whole. Sanskrit threatens him because Sanskrit preserves an order with no apex at all.
-
-The parties now stand against each other: the civilization of caretakers against the finite order. The next battle is the shadow itself.
+The caretakers and the finite order now stand against each other. Part I turns to the shadow between them.

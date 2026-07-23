@@ -18,7 +18,7 @@
 
 # Chapter 8 — The Subcontinental Sound-Field
 
-The human voice mobilizes lungs, vocal cords, a tongue, lips, teeth, the palate, the nasal cavity, and breath. By possessing the physical capacity to strike, release, hum, sustain, aspirate, nasalize, and hold pitch, the mouth presents a sonic field far richer than any single language requires.
+The human mouth can make far more sounds than any one language uses. Lungs, vocal cords, tongue, lips, teeth, palate, nose, and controlled breath can strike, release, hum, sustain, aspirate, nasalize, and hold pitch. Each language selects only part of that range.
 
 The same question now moves to the subcontinental field: what does this region do with that instrument before Sanskrit's grid is placed on the table? The test is simple: what sound-material is already here?
 
@@ -204,9 +204,7 @@ The four coverage figures make the geographic contrast visible:
 - Western European control: 14 of 23.
 - Central Asian control: 12 of 23.
 
-Ultimately, the pattern firmly follows geography over the pyramid's family labels. Because the subcontinental sets comprehensively cover more of Sanskrit's base while the external controls cover significantly less, the Central Asian control, in particular, looks exceptionally weak as a plausible source-field for Sanskrit's sophisticated sound architecture.
-
-In this way, the sound-field behaves precisely like anchored geography rather than transported cargo. Because the closer the set is to the subcontinental field, the more of the Sanskrit base it naturally covers—and conversely, the farther the set moves from that field, the more the coverage precipitously falls—the underlying numbers make the visual pattern incredibly hard to ignore.
+The scores follow geography more closely than the pyramid's family labels. The two subcontinental sets cover 20 and 18 coordinates, while the Western European and Central Asian controls cover 14 and 12. This comparison does not reconstruct an ancient population, but it gives the transported-cargo thesis a physical problem: the proposed corridor resembles Sanskrit's selected base less than the southern and forest-belt fields do.
 
 ## 8.9 The Gaps Are Neighbors
 

@@ -130,13 +130,13 @@ The empirical claims in **Chapter 10** of *Atomic Sanskrit* are the load-bearing
 
 | Book location | Reproduced by |
 |---|---|
-| Ch 10 §10.7 (sonomer-count and *mātrā* compression) | `analyze_dhatupatha.py`, `analyze_shells.py` |
-| Ch 10 §10.8 (top-ten *racanā* scaffold distribution) | `analyze_shells.py` |
+| Ch 10 §10.6 (sonomer-count and *mātrā* compression) | `analyze_dhatupatha.py`, `analyze_shells.py` |
+| Ch 10 §10.7 (top-ten *racanā* scaffold distribution) | `analyze_shells.py` |
 | Appendix Part 6 §6.3 (productivity inside compression) | `analyze_productivity.py` |
-| Ch 10 §10.9 (distinguishability inside equal timing budgets) | `analyze_scaffold_distinguishability.py` |
-| Ch 10 §10.10 (engineering enables poetry — *varṇa-vāda* synthesis) | (synthesis section; data from all scripts) |
-| Ch 10 §10.13 (engineering was common knowledge) | (synthesis section; data from all scripts) |
-| Ch 10 §10.14 (position-role bridge) | `analyze_distinguishability.py`, `analyze_position_roles.py` |
+| Ch 10 §10.8 (distinguishability inside equal timing budgets) | `analyze_scaffold_distinguishability.py` |
+| Ch 10 §10.9 (engineering enables poetry — *varṇa-vāda* synthesis) | (synthesis section; data from all scripts) |
+| Ch 10 §10.12 (engineering was common knowledge) | (synthesis section; data from all scripts) |
+| Ch 10 §10.13 (position-role bridge) | `analyze_distinguishability.py`, `analyze_position_roles.py` |
 | Appendix Part 6 (book-facing audit) and Source and Reference Companion (full empirical work) | All scripts |
 
 The findings the scripts produce should match those cited in the book, modulo any minor numerical drift if the upstream source CSV is updated.

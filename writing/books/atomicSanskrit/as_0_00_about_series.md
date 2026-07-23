@@ -1,6 +1,6 @@
 # About the *Second Shanti* Series
 
-Many Vedic recitations conclude with **शान्तिः (*śāntiḥ*)** uttered three times, directing peace or quietude toward three distinct domains or worlds. The ***Second Shanti*** series takes organized human life as its field and asks how one ordering architecture recurs through language, polity, economy, responsibility, and the other systems by which people live together.
+Many Vedic recitations conclude with **शान्तिः (*śāntiḥ*)** recited three times, directing peace or quietude toward three distinct domains or worlds. The ***Second Shanti*** series turns to organized human life and follows one ordering architecture through language, polity, economy, responsibility, and the other systems by which people live together.
 
 The Vedic corpus preserves sacred Speech together with architectures of memory, measure, discipline, and balance. Hindus have treated its protection as a civilizational duty across thousands of years because exact transmission kept all of these available across time. The pyramid teaches the modern reader to see old texts and inherited practices where the Hindu continuum preserved working systems; each volume makes another layer of those systems visible.
 
@@ -22,7 +22,7 @@ The Vedic corpus preserves sacred Speech together with architectures of memory, 
 > **Calibrant:** what it offers them.\
 > **Fractal:** how it becomes civilization.
 
-Sanskrit is ***saṃskṛti*** in linguistic form. Its radiant, calibrant, and fractal architecture forms the linguistic foundation of *Sanātan* by preserving a measure, distributing correction, inspiring alignment, and remaining directed toward welfare across generations.
+Sanskrit is ***saṃskṛti*** in linguistic form. It is radiant because it shares forms with other languages without requiring them to become Sanskrit. It is a calibrant because it supplies a measure without placing a central office in command. It is fractal because the same distributed order can recur and scale beyond language. Together, these three qualities form the linguistic foundation of *Sanātan*.
 
 Forthcoming volumes take that recurrence from language into civilizational form. *Atomic Sanskrit* describes the linguistic architecture while it remains fully operational; later volumes work from the civilizational structures, memories, and surviving fragments that the Hindu continuum still holds. They develop a political architecture, an economic architecture, and other possible expressions of the same Vedic depth.
 
@@ -32,6 +32,6 @@ Sanskrit supplies three categories for following the recurrence across those fie
 
 The swastika and the pyramid give the two created fractals visible form. The swastika — *su-asti*, "well-being," "may it be good" — is the *sāṃskṛtika* fractal: created order aligned with welfare and distributed across the field. The pyramid is the *vaikṛtika* fractal: created order bent into hierarchy, apex authority, extracted labor, controlled doctrine, and withheld light.
 
-Ancient, Abrahamic, and modern asuric formations have repeatedly attacked the calibrant in order to destroy, capture, or obscure it. Those attacks reveal why it threatens the pyramid: a radiant and distributed measure leaves no apex in command of the field.
+Ancient, Abrahamic, and modern asuric formations attacked this architecture in different ways. Some destroyed institutions and lineages. Others obscured its categories, redirected patronage, or taught Hindus to distrust what their own civilization had preserved. Their actions reveal why the architecture threatens the pyramid: a radiant and distributed measure leaves no apex in command of the field.
 
 *Atomic Sanskrit* establishes the linguistic case, and later volumes follow the same architecture into the civilizational field.

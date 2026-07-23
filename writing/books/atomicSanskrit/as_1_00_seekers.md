@@ -52,7 +52,7 @@ That same cognitive leap shaped the place-value number system and Sanskrit's gen
 
 ## 0.2 A Culture of Seekers
 
-The civilization that begins from *pūrṇam* treats inquiry as the way order is approached. The seeker enters the field carefully enough to ask what holds.
+A civilization that begins from *pūrṇam* approaches order through disciplined inquiry. A seeker examines what sustains the field, tests each conclusion against experience and inherited knowledge, and accepts the discipline required by that search.
 
 The Sanskrit word is *jijñāsā* (जिज्ञासा): the desire to know. The civilization's classical disciplines are organized around it. The *Mīmāṃsā* discipline opens with *athāto dharmajijñāsā* — *now, therefore, the inquiry into dharma*. The *Brahmasūtra* discipline opens with *athāto brahmajijñāsā* — *now, therefore, the inquiry into Brahman*. The disciplines begin as inquiries: operations to be performed, questions to be placed into disciplined order.
 
@@ -72,7 +72,7 @@ Sanskrit's engineering begins with a civilization already capable of the act.
 
 ## 0.3 The Reader's Sanskrit
 
-The reader already knows more Sanskrit than the reader knows.
+Most readers already know some Sanskrit, even if they have never studied the language.
 
 The English word *guru* is Sanskrit *guru* गुरु, meaning *weighty* — a teacher whose authority comes from the weight of what they hold. *Karma* is *karma* कर्म, *action* and what action produces. *Avatar* is *avatāra* अवतार, *that which has descended* — a form taken by a higher power for a particular purpose. *Mantra* is *mantra* मन्त्र, the engineered acoustic instrument of contemplation. *Yoga* is *yoga* योग — from the semantic atom ⟪युज्⟫ (*yuj*), *to join* — the discipline of joining the practitioner to that which is being practiced. *Pundit* is *paṇḍita* पण्डित, a learned man. *Jungle* is *jaṅgala* जङ्गल. *Nirvana* is *nirvāṇa* निर्वाण. *Aryan* is the corrupted reflection of *ārya* आर्य, which Sanskrit defines not as a race but as a phonetic-pedagogical achievement.[NOTE: english-sanskrit-loanwords]
 
@@ -140,17 +140,17 @@ Two systems, one pattern: ten digits span arithmetic, the *dhātupāṭha* spans
 
 ## 0.7 The Civilization That Holds It
 
-Sanskrit is held by an engineered transmission architecture.
+Sanskrit survived because generations of people performed a repeatable set of actions: they listened, recited, corrected, memorized, taught, and checked one lineage against another. Together, those actions form an engineered transmission architecture.
 
-One visible form of that architecture is the transmission chain. *Guru* transmits to *shishya*; the *shishya* becomes the *guru* of the next *shishya*; the chain extends across thousands of years. The transmission is direct, personal, embodied. The student hears, repeats, is corrected, repeats again, and takes the corrected form forward. The architecture is larger than this one relation, but the relation shows the principle clearly: Sanskrit is held by trained continuity that includes memory and disciplines it.
+The *guru-shishya* chain provides one visible example. A *guru* transmits to a *shishya*; the *shishya* becomes the *guru* of the next student; and the chain extends across thousands of years. The student hears, repeats, receives correction, repeats again, and takes the corrected form forward. The complete architecture extends beyond this relationship, but the relationship shows how trained continuity disciplines memory.
 
 The hearing-repetition-correction cycle is the smallest visible unit of caretaking: correction without contempt, repetition without fatigue, memory with accountability. A mother correcting a child's Gītā recitation belongs to the same civilizational pattern as a Vedic teacher correcting a student's accent. Scale differs. The duty does not.
 
-The transmission has been continuously operating across the Sanskrit continuum. The Nambūdiri Brahmins of Kerala recite the *Ṛgveda* today; their *gurus* recited it; their *gurus' gurus* recited it. The same applies to the Maharashtra recitation lineages, the Tamil Nadu lineages, the Banaras lineages, the Karnataka lineages, the Kashmir Pandit lineages, the Gujarat and Rajasthan lineages. The network is geographically distributed, lineage-independent, and continuously verifiable.
+The transmission has operated continuously across the Sanskrit continuum. Nambūdiri Brahmins in Kerala recite the *Ṛgveda* today after learning it from teachers who received it through the same lineage. Recitation lineages in Maharashtra, Tamil Nadu, Banaras, Karnataka, Kashmir, Gujarat, and Rajasthan preserve comparable forms through their own teachers. Because these lineages remained geographically separated, they provide several independent points of comparison. No single lineage owns the measure; reciters can compare the preserved form across lineages and identify both shared features and *śākhā*-specific variation.
 
 Performance, correction, and continuity preserve Sanskrit beyond the library. The detailed mapping appears in Chapter 15 as the *aural architecture* — the operational specification of the calibration matrix that holds Sanskrit's phonetic constants in place across the depth of time.
 
-The recitations are happening right now, in *gurukulas* गुरुकुल, temples, homes, schools, and communities across the subcontinent and the global diaspora. The transmission is operating now, audibly. The recordings exist. The lineages exist. The transmission exists.
+The recitations continue audibly today in **गुरुकुलानि (*gurukulāni*)**, temples, homes, schools, and communities across the subcontinent and the global diaspora. Teachers and students still perform the transmission that the preceding paragraphs describe. Recordings allow people outside those lineages to hear that living practice for themselves, but the recordings document a practice that remains active without them.
 
 The Hindu civilization holds the language. Hindus inherit Sanskrit as caretakers. The old rule says: *dharmo rakṣati rakṣitaḥ* — dharma protects when protected.[NOTE: dharmo-rakshati-rakshitah] Sanskrit asks the same kind of protection. It has survived because teachers, students, mothers, reciters, *vaiyākaraṇāḥ*, poets, priests, scholars, and ordinary households protected it.
 

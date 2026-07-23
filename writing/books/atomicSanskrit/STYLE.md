@@ -29,6 +29,12 @@ Write as though explaining the argument to an intelligent reader who has no trai
 
 When accuracy requires a qualification, spend another plain sentence explaining it. Do not compress the qualification into legal or academic phrases such as *contested influence*, *documented transmission*, *the evidence supports*, *requires us to compare*, *preserves a line of transmission*, or *the claim remains defensible*. Those phrases classify the argument instead of explaining what happened.
 
+### Reserve *question* for an actual inquiry
+
+Do not use *question* as a general container for a topic, distinction, or transition. State the activity directly: genealogy *traces ancestry*; architecture *explains construction*; a chapter *tests authorship*; evidence *leaves chronology unresolved*. Avoid habitual constructions such as *the question of*, *raises the question*, *returns to the question*, and *begins with a different question* when the sentence can identify what is being traced, tested, or explained.
+
+Retain *question* when the prose states an explicit inquiry, quotes one, or returns to an established refrain whose wording is load-bearing. A literal question should make clear who is asking, what is being asked, and why the reply changes the argument.
+
 Prefer:
 
 > Words and sound-grids can travel without leaving a written record of every step. Grammatical knowledge is often easier to follow because scholars reuse terms, categories, and methods. The following examples show how that knowledge traveled from one language to another.

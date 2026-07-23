@@ -16,13 +16,11 @@
 
 \bigskip
 
-The selected sonomers are now in place. Construction is the next question: which sonomers combine into the first stable units that mean?
+The previous chapters selected and measured Sanskrit's sound-particles. This chapter shows how those particles form a stable unit of meaning. Sanskrit calls that unit the **धातुः (*dhātuḥ*)**.
 
-Sanskrit builds words from the **धातुः (*dhātuḥ*)**.
+The botanical metaphor translates *dhātuḥ* as root. Sanskrit's architecture treats it as a constituent: a semantic atom that keeps its identity while larger forms assemble around it. With sonomers, **अक्षराणि (*akṣarāṇi*)**, and **मात्रा (*mātrā*)** already in view, the chapter can trace the construction of a semantic atom from measured sound.
 
-With the botanical metaphors exposed as category theft, the architecture reclaims its own term: a constituent. The *dhātuḥ* is the stable semantic unit or atom that holds identity while larger forms assemble around it. The sonomers, **अक्षराणि (*akṣarāṇi*)**, and **मात्रा (*mātrā*)** are now available. The construction question is direct: how do measured sonomers become semantic atoms?
-
-## 10.1 *Sūtra-Lakṣaṇam* — The Design Specification
+## 10.1 The Design Test — From Sūtra to Dhātuḥ
 
 Sanskrit already holds a design specification for compact engineered form. The epigraph gives the classical **सूत्रलक्षणम् (*sūtra-lakṣaṇam*)** — the defining characteristics by which a true *sūtra* is known. A *sūtra* should be:
 
@@ -33,17 +31,7 @@ Sanskrit already holds a design specification for compact engineered form. The e
 5. **अस्तोभम् (*astobham*)** — without padding: economy.
 6. **अनवद्यम् (*anavadyam*)** — faultless: stable form.
 
-Together, these six characteristics produce **सूत्रलाघवम् (*sūtra-lāghavam*)**: engineered brevity. The form is short, but the structure it holds is large. The *sūtra* is compact, clear, meaningful, wide-facing, economical, and stable.
-
-Because a *sūtra* is universally known to be engineered, a highly disciplined mind deliberately compressed it, removed all excess, strictly protected its clarity, packed immense meaning into it, made it highly usable across contexts, and ultimately left it stable enough for the lineage to securely hold.
-
-The same question now descends one scale lower. If the *dhātuḥ* displays the same defining characteristics as the *sūtra*, Sanskrit's architecture is not merely engineered at one level. The same design recurs across scale.
-
-That recurrence defines **fractal** in the architectural sense: the same organizing principle appearing at different scales. What governs the *sūtra* should also be visible inside the *dhātuḥ*.
-
-## 10.2 From Sūtra to Dhātuḥ — The Fractal Question
-
-The design now moves one scale downward. A *sūtra* is a crafted sentence; the *dhātuḥ* sits below it — smaller than a word, and unusable in a sentence. Its category is already defined: the constituent that holds meaning while larger forms assemble around it, the semantic atom. The question is whether the same characteristics of engineered compactness reappear inside it.
+A *sūtra* is deliberately composed. Its maker removes excess, protects clarity, and gives a short form enough structure to work in many settings. Those visible actions supply a design test for the smaller *dhātuḥ*. If the same six qualities recur in the semantic atom, the organizing principle has repeated across scale.
 
 The verse gives the six characteristics in its own order. The tests proceed in engineering order:
 
@@ -51,9 +39,7 @@ The verse gives the six characteristics in its own order. The tests proceed in e
 
 That sequence begins with construction because the *dhātuḥ* must first be visible as an assembled unit. Only then can the analysis test the six criteria at the atomic scale.
 
-If the *dhātuḥ* passes the test, Sanskrit's basic semantic unit reveals itself as a thoughtfully assembled sonomeric form rather than a botanical organ grown by drift. The *dhātuḥ* immediately becomes an atomic instance of the exact same architectural discipline the *sūtra-lakṣaṇam* already recognizes in the *sūtra*, delivering a consequence that is immense.
-
-## 10.3 From Sonomers to Semantic Atoms
+## 10.2 From Sonomers to Semantic Atoms
 
 With selected sonomers as the starting point, the next question is how *varṇāḥ* become the atomic units of Sanskrit's word-engine.
 
@@ -61,7 +47,9 @@ The *varṇamālā* (वर्णमाला) is the sonomeric inventory. A sma
 
 In Chapter 2, the category-theft charge prosecuted the botanical metaphor and reclaimed *dhātuḥ* from the philological mistranslation that forces it into a plant-category. The positive replacement is direct. Sanskrit does not build vocabulary from botanical organs. It has atoms — and the atom is the *dhātuḥ*.
 
-The metaphor is physical, not biological. Across Indic sciences, *dhātuḥ* denotes the constituent that holds: in *Loha-śāstra* (लोहशास्त्र), the metal that survives extraction; in *Rasaśāstra* (रसशास्त्र) and *Rasāyana-śāstra* (रसायनशास्त्र), the reactive constituent in synthesis; in *Āyurveda* (आयुर्वेद), the structural tissue from which the body is built.[NOTE: rasashastra-chemistry-anticipation][NOTE: saptadhatu-standard] Furnace, laboratory, body, sentence: the same architectural word. The grammatical *dhātuḥ* belongs in that family. *Dhātuḥ* survives the botanical demotion; the discipline that accepts the demotion loses access to what the term denotes.
+The analogy is physical rather than botanical, and Indic disciplines use *dhātuḥ* for a constituent that continues to hold through a larger process. In *Loha-śāstra* (लोहशास्त्र), it can indicate metal obtained through extraction. *Rasaśāstra* (रसशास्त्र) and *Rasāyana-śāstra* (रसायनशास्त्र) use it for constituents that enter combinations. In *Āyurveda* (आयुर्वेद), the *dhātavaḥ* are structural tissues of the body.[NOTE: rasashastra-chemistry-anticipation][NOTE: saptadhatu-standard] The grammatical *dhātuḥ* belongs to this family as the constituent that remains recoverable inside larger linguistic forms.
+
+Particles, atoms, bonds, and molecules will help the chapter describe levels of assembly and combining range. The analogy does not claim that sound is matter or that Sanskrit obeys chemical laws.
 
 The *Dhātupāṭha* (धातुपाठ) is the inventory of semantic atoms. The working inventory here is **2,168 *dhātavaḥ*** from that source.[NOTE: dhatupatha-count-and-ganas] The examples can now be completely plain: **⟪कृ⟫ (*kṛ*)**, to do or make; **⟪गम्⟫ (*gam*)**, to go; **⟪भू⟫ (*bhū*)**, to be or become; **⟪दृश्⟫ (*dṛś*)**, to see; **⟪ज्ञा⟫ (*jñā*)**, to know. Crucially, these are explicitly not words; rather, they are the foundational semantic atoms from which all words are later assembled.
 
@@ -87,7 +75,7 @@ Chemistry operates on matter, and Sanskrit operates on measured sound. The mater
 
 Before the inventory is measured, the construction itself has to be clear. Sanskrit assigns *svarāḥ* and *vyañjanāni* different work inside the atom; the difference is measured in *mātrā*.
 
-## 10.4 *Svarāḥ*, *Vyañjanāni*, and the *Mātrā* Envelope
+## 10.3 *Svarāḥ*, *Vyañjanāni*, and the *Mātrā* Envelope
 
 The *varṇamālā* gives Sanskrit two kinds of sonomers. They do different work inside the atom.
 
@@ -124,7 +112,7 @@ The figure begins with ⟪ऋ⟫ (*ṛ*), the minimum atom: a bare short vowel f
 
 A *dhātuḥ* is built from timed sonomers. The shape of the atom is its *mātrā* envelope. That envelope is the timing boundary inside which construction must happen.
 
-## 10.5 धातुरचना — *Dhāturacanā* — The Atomic Scaffold
+## 10.4 धातुरचना — *Dhāturacanā* — The Atomic Scaffold
 
 When the *dhātavaḥ* are laid out sonomer by sonomer, a pattern reveals itself. Many different atoms share the same measured shape. The specific sonomers change; the underlying slot-pattern remains.
 
@@ -146,7 +134,7 @@ Bṛhaspati's **वाचमक्रत (*vācam akrata*)** named formed Speech
 
 Now the tests can begin.
 
-## 10.6 The Six Atomic Tests
+## 10.5 The Six Atomic Tests
 
 The construction is now clear: sonomers enter timed scaffolds, the filled scaffold becomes a semantic atom, and the atom later bonds into *śabda*. This is the construction tested against the *sūtra* specification.
 
@@ -161,7 +149,7 @@ The verse gave the six defining characteristics in its own order. The engineerin
 
 If the *dhātuḥ* satisfies these criteria, the comparison to the *sūtra* is not decorative. The same design signature has reappeared one scale lower.
 
-## 10.7 अल्पाक्षरम् (*Alpākṣaram*) — Make It Small
+## 10.6 अल्पाक्षरम् (*Alpākṣaram*) — Make It Small
 
 The first test is size. If the semantic atom is engineered for compactness, the inventory should peak near the smallest forms that can still hold distinct meaning, with a sharp cliff beyond.
 
@@ -179,7 +167,7 @@ Then the cliff appears. Every value from 4 *mātrās* onward together accounts f
 
 Sonomer count and *mātrā* count agree: the inventory concentrates identity into compact atoms. The *dhātuḥ* passes the first test. It is *alpākṣaram* at the atomic scale.
 
-## 10.8 अस्तोभम् (*Astobham*) — Remove Waste
+## 10.7 अस्तोभम् (*Astobham*) — Remove Waste
 
 Smallness alone is not enough. A system can be short and still wasteful if its shapes are arbitrary, bloated, or ungoverned. **अस्तोभम् (*astobham*)** means without padding — no filler, no unnecessary bulk, no sonomer added merely to fill space.
 
@@ -222,7 +210,7 @@ The skeptic's question presses here: *if the system is so compact, why have a ta
 
 The modal scaffolds are tight. The tail is small. The range is governed. The *dhātuḥ* passes the second test. It is *astobham*: compact without padding, varied without waste.
 
-## 10.9 असंदिग्धम् (*Asaṃdigdham*) — Prevent Ambiguity
+## 10.8 असंदिग्धम् (*Asaṃdigdham*) — Prevent Ambiguity
 
 Compression and economy create the next danger. If the atoms become too small, they can begin to blur. A language cannot hold meaning if its smallest forms collapse into one another.
 
@@ -246,7 +234,7 @@ The 2½-*mātrā* row repeats the verdict. *Spadādi* <img src="figures/_shared/
 
 Compactness creates the envelope. Economy removes waste. Distinguishability chooses the scaffold inside the envelope. The *dhātuḥ* passes the third test. It is *asaṃdigdham*: small without becoming blurry.
 
-## 10.10 सारवत् (*Sāravat*) — Give It Meaning
+## 10.9 सारवत् (*Sāravat*) — Give It Meaning
 
 A compact and distinguishable form is still not enough. It has to hold essence. That is **सारवत् (*sāravat*)**: substance-bearing, essence-bearing, not empty shape.
 
@@ -272,7 +260,7 @@ The Vedic context grounds the claim because the *Vedas* are poems. Sound-meaning
 
 Engineering is not the enemy of poetry. Engineering is what lets the poetry strike home. The *dhātuḥ* passes the fourth test. It is *sāravat*: compact form with semantic force.
 
-## 10.11 विश्वतोमुखम् (*Viśvatomukham*) — Let It Face Many Directions
+## 10.10 विश्वतोमुखम् (*Viśvatomukham*) — Let It Face Many Directions
 
 A *sūtra* must be **विश्वतोमुखम् (*viśvatomukham*)** — facing in every direction. It must apply beyond one narrow case. The atomic equivalent is not universal application in the grammatical sense. It is generative reach: one tiny atom must face many grammatical and semantic directions.
 
@@ -316,7 +304,7 @@ The measured scaffold persists when the analysis moves from the *Dhātupāṭha*
 
 The *dhātuḥ* passes the fifth test. It is *viśvatomukham*: one compact atom can face many directions without losing the center from which those directions unfold.
 
-## 10.12 अनवद्यम् (*Anavadyam*) — Preserve Identity Through Use
+## 10.11 अनवद्यम् (*Anavadyam*) — Preserve Identity Through Use
 
 The final test is stability. **अनवद्यम् (*anavadyam*)** means faultless, without defect. At the atomic scale, the defect to test for is loss of identity. If the atom disappears when it bonds, then it was never an atom. If the atom survives bonding and transformation, the architecture has preserved its unit.
 
@@ -330,7 +318,7 @@ The six tests now stand together. The *dhātuḥ* — the atom — is compact, e
 
 The burden now shifts. Anyone who wants to call this ordinary natural-language behavior must produce another natural-language inventory of semantic atoms with this level of compact scaffold coverage, timing discipline, governed long-tail range, and grammatical behavior after bonding. Until then, the *dhāturacanā* result remains evidence for engineering, not ordinary rank-frequency concentration.
 
-## 10.13 Engineering Was Common Knowledge
+## 10.12 Engineering Was Common Knowledge
 
 The engineering thesis is not a modern invention. The Sanskrit-literate continuum operated as if Sanskrit could be analyzed at every level: sound, meter, grammar, word-formation, and preservation. That operating premise appears in the disciplines themselves.
 
@@ -362,7 +350,7 @@ Because the Sanskrit-literate world never debated whether Sanskrit was engineere
 
 The Sanskrit lineage is right. The progressive dogma is the anomaly.
 
-## 10.14 Sonomers Already Have Roles
+## 10.13 Sonomers Already Have Roles
 
 The *Dhātupāṭha* reveals one more signal before the chapter closes: the sonomers themselves have roles.
 
@@ -382,7 +370,7 @@ Third, the *ṛ* (ऋ) / *ra* (र) bridge exposes the engineering at the vowel-
 
 Activation sonomers arrive, the *dhātuḥ* changes in governed ways, and the finished *kriyāpada* molecule remains traceable back to the atom. The atom is assembled from sonomers whose behavior is already patterned, rather than from inert letters.
 
-## 10.15 The Atomic Corollary
+## 10.14 The Atomic Corollary
 
 The central architectural claim is the ***Atomic Corollary***:
 
@@ -408,7 +396,7 @@ Because the *dhātuḥ* serves as the fundamental unit of stable identity—exac
 
 Sanskrit is not a plant. It is an atomic system.
 
-## 10.16 The Fractal Signature
+## 10.15 The Fractal Signature
 
 *Sūtra-lakṣaṇam* set the specification. The six atomic tests return the verdict.
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-The Dhātu Foundry — Ch 10 §10.7 figure (Claude version).
+The Dhātu Foundry — Ch 10 §10.6 figure (Claude version).
 
 Visualizes Sanskrit's varṇa → racanā → dhātu architecture as a foundry:
 - Varṇamālā box (top-left) feeds varṇas through an outlet

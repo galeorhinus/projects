@@ -4,7 +4,7 @@
 
 Every finished Sanskrit verb is an atom that has been put to work. The **धातुः (*dhātuḥ*)** sits in the **धातुपाठ (*Dhātupāṭha*)** — 2,168 of them, each a measured cluster of **वर्णाः (*varṇāḥ*)**, sonomers, inside a **मात्रा (*mātrā*)** envelope — but it is not yet a word and cannot be spoken as one. To act, it has to be built up: bonded, activated, closed with an ending. What comes out is the **क्रिया (*kriyā*)**, or **क्रियापदम् (*kriyāpadam*)**, the verbal word; under the Atomic Corollary, a *kriyāpada* molecule.
 
-The concern is that the engineering dissolves in the assembly — that once the atom is wrapped inside a finished verb, the sonomers blur into an ordinary word. The sonomers survive, however, and the assembly procedure explains why. The *varṇamālā* hands over the measured particles, the *dhātuḥ* binds them, and the *kriyāpada* activates that atom without smearing the layer beneath. The atom stays legible the whole way up.
+The chapter now tests whether the atom remains recoverable after it has been assembled as a *kriyāpada*. A finished verb may alter the visible form of its *dhātuḥ*, as **⟪भू⟫ (*bhū*)** becomes **भवति (*bhavati*)**, so resemblance alone is not enough. The derivational procedure must provide a return path through the ending, operational marker, and prepared base to the semantic atom and its sonomers.
 
 Five Rigvedic lines show it happening, each already holding a finished verb, the underlying *dhātavaḥ* running from one *mātrā* to three. None of it waited for Pāṇini. The verbs were already in the corpus, working — thousands of them — long before the rules were ever written down.[NOTE: vedic-kriyapadas-before-panini]
 
@@ -147,7 +147,7 @@ The five Vedic examples can now be read in Pāṇini's notation layer.
 
 ![Pāṇinian notation layer: ⟪राज्⟫ (*rāj*) becomes राजति (*rājati*).](figures/building_kriya/panini_rajati.svg){#fig:building-kriya-panini-rajati width=100%}
 
-The figures reuse the hexagonal vocabulary of §11.2, with one addition: the top row now holds Pāṇini's notation layer, where शप् (*śap*) and तिप् (*tip*) appear as technical source forms and the dashed cells are अनुबन्धाः (*anubandhāḥ*), the metadata tags that drop out once the surviving sonomers enter the atom. The action is exactly what it was in the Vedic examples; only the labels are new. What was implicit there now holds Pāṇini's vocabulary — *gaṇaḥ*, *vikaraṇam*, *aṅgam*, *tiṅ-pratyayaḥ*, *anubandhaḥ*.
+The figures reuse the hexagons from §11.2 and add Pāṇini's notation above them. **शप् (*śap*)** and **तिप् (*tip*)** appear in their technical source forms, while dashed cells mark **अनुबन्धाः (*anubandhāḥ*)**, the instructional tags that disappear before the finished form is spoken. The Vedic examples already display the completed operations. Pāṇini gives analysts names and rules for reconstructing the steps: *gaṇaḥ*, *vikaraṇam*, *aṅgam*, *tiṅ-pratyayaḥ*, and *anubandhaḥ*.
 
 That is the distinction worth holding onto: the operation existed before the notation did. Pāṇini gave the pre-existing process handles, labeling bonds that already made Sanskrit molecular.
 
@@ -190,7 +190,7 @@ After *anubandha* stripping, the 2,168-entry *Dhātupāṭha* inhabits 47 observ
 
 ![The top ten *racanāḥ* across Pāṇini's ten *gaṇāḥ*.](figures/ganah/racana_gana_matrix.svg){#fig:ganah-racana-gana-matrix width=100%}
 
-The central corridor becomes visible immediately: because the **गमादि (*gamādi*)** <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> scaffold actively appears in all ten *gaṇāḥ* and alone holds 926 atoms, it is unequivocally the dominant construction corridor. Similarly, the *bhvādi* class serves as the largest operational landing zone, holding 1,134 atoms overall and featuring 452 *gamādi* atoms alone.
+Each row records how an atom is built, and each column records the *gaṇa* operation associated with it. A filled cell means that the *Dhātupāṭha* contains listed atoms with that scaffold in that class. The **गमादि (*gamādi*)** <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> scaffold appears in all ten *gaṇāḥ* and contains 926 atoms, making it the dominant construction corridor in this dataset. The *bhvādi* column is the largest operating class, with 1,134 atoms overall and 452 *gamādi* atoms.
 
 The other concentrations are patterned too: *curādi* is the systematic runner-up for many closed scaffolds, *kryādi* draws the long-vowel open shapes, and even the smallest *gaṇāḥ* run to type, each gathering in the shapes its operation suits.
 
@@ -229,7 +229,7 @@ The first result is that the corpus is not flat. A small set of atoms holds very
 
 These are measured bonding counts, not prestige rankings.
 
-The second result is that the two independent instruments agree. On the matched dictionary subset, the dictionary audit and the *prayoga* audit have a correlation value of **+0.66**. That means the two audits move together strongly: atoms that generate widely in the dictionaries also tend to bond widely in actual Sanskrit use. While distinct in their methods, both audits see the same signal: the same compact atoms keep generating, bonding, and appearing.
+The two audits also agree to a substantial degree. On the matched dictionary subset, their correlation is **+0.66**. In ordinary terms, atoms with more dictionary derivatives usually also appear in more kinds of bonding pattern in the parsed corpus, although the match is not exact. Two different methods therefore identify much of the same high-reactivity group.
 
 The third result is the tier structure. The corpus-visible *dhātuḥ* labels arrange into three empirical groups. The chart makes the skew visible: a small polyvalent tier holds most actual use, while the long tail remains preserved as specialist material.
 
@@ -291,7 +291,7 @@ They operate as orthogonal dimensions of one architecture.
 
 The distribution reflects the sounds each operation acts upon. ⟪कृ⟫, ⟪हृ⟫, and ⟪वृत्⟫ hold ऋ; ⟪धा⟫, ⟪दा⟫, ⟪स्था⟫, ⟪ज्ञा⟫, and ⟪या⟫ hold आ; and ⟪गम्⟫, ⟪क्रम्⟫, ⟪हन्⟫, and ⟪पद्⟫ hold अ. The C4 voiced-aspirate column is enriched in *juhotyādi*: 33.3% in the inventory and 42.9% in the subset visible in the corpus.[NOTE: cross-gana-column-distribution]
 
-That number is a procedural fit, not just a distribution fact. *Juhotyādi* is the reduplicating class, and reduplication doubles the initial signal, so the doubled consonant has to stay recognizable across the syllable boundary; C4 — voiced, aspirated, breathy — is the acoustically robust column, and the architecture parks its most distinctive consonants exactly where the operation needs the most distinction. The sounds are distributed strictly by function.
+The concentration fits the mechanics of reduplication. *Juhotyādi* repeats an initial signal across a syllable boundary, and the voiced, aspirated C4 consonants may remain especially easy to distinguish in that environment. The measured distribution supports this functional explanation. The count reveals the pattern; it cannot by itself establish why the atoms occupy those positions.
 
 So position holds behavior, and the figure is the statistical shadow the procedure casts — never the center of the argument, only its trace.
 

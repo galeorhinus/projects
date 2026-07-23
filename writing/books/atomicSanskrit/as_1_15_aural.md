@@ -12,17 +12,17 @@ The *saṃhitā-pāṭha* is recited in temples and homes across the subcontinen
 
 ## 15.1 The *Śikṣā* Discipline
 
-शिक्षा (*Śikṣā*) is the **वेदाङ्ग (*Vedāṅga*)** that trains recitation. The six *Vedāṅgas* surround the Vedic corpus as support disciplines: *Śikṣā* for sound-production, **छन्दस् (*Chandas*)** for meter, **व्याकरणम् (*Vyākaraṇam*)** for grammar, **निरुक्त (*Nirukta*)** for etymological explanation, **कल्प (*Kalpa*)** for ritual procedure, and **ज्योतिष (*Jyotiṣa*)** for calendrical calibration. *Śikṣā* is the limb that operationalizes Auditure.
+शिक्षा (*Śikṣā*) is the **वेदाङ्ग (*Vedāṅga*)** that trains recitation. The six *Vedāṅgas* support different parts of Vedic preservation and use. *Śikṣā* trains the production of sound. **छन्दस् (*Chandas*)** establishes meter. **व्याकरणम् (*Vyākaraṇam*)** explains linguistic form. **निरुक्त (*Nirukta*)** explains difficult words and their derivations. **कल्प (*Kalpa*)** sets out yajña procedures, and **ज्योतिष (*Jyotiṣa*)** supplies calendrical calculation. Within this group, *Śikṣā* prepares the human body to reproduce what Auditure must preserve.
 
 The **प्रातिशाख्य (*Prātiśākhya*)** discipline specifies the phonetic constants of a recension: sounds, accents, junctions, pauses, and recitational rules. *Śikṣā* trains the human instrument to produce those constants reliably. It tells the student what to do with the tongue, breath, palate, duration, pitch, and sequence. It tells the teacher what to check.
 
 The listed *Śikṣā* texts are compact because they are training manuals, not survey essays. The *Pāṇinīya-Śikṣā*, *Yājñavalkya-Śikṣā*, *Vāsiṣṭhī-Śikṣā*, *Āpiśali-Śikṣā*, and *Bhāradvāja-Śikṣā* belong to that world of disciplined production.[NOTE: shiksha-texts-standard-list] They read like operating instructions for a precision instrument. Points of articulation are enumerated. Vowel durations are quantified in **मात्रा (*mātrā*)** counts; consonants are treated as half-*mātrā* timing events — ***व्यञ्जनं चार्धमात्रिकम्***.[NOTE: vyanjana-duration-shiksha] Modes of contact between articulators are specified. Consequences of slippage at each point are tabulated. The procedural character of the texts is the signature of the architecture working through them.
 
-Recitation is a public audit. A *śiṣya* recites before a *guru*, before peers, before senior reciters, and before a community that serves as a distributed standard. Any deviation from the established form is immediately heard, and therefore immediately corrected. The *guru* corrects the student by applying the exact auditory measure he inherited from his own *guru*. Through this constant calibration, the student is welded to the transmission chain by being corrected into it.
+Recitation is a public audit. A *śiṣya* recites before a *guru*, peers, senior reciters, and a community that together serve as a distributed standard. A departure from the established form can therefore be heard and corrected as it occurs. The *guru* applies the auditory measure learned from his own *guru*, and the student joins the lineage by learning to produce and recognize that same measure.
 
-Because the Veda is recitation first and writing second, the recitation remains its primary body while writing serves merely as a later reflection. The standard enumeration of the *Vedāṅgas* correctly preserves this priority by placing *Śikṣā* first, demonstrating that sound-production precedes the grammar that analyzes the form, the etymology that explains it, the ritual that employs it, and the calendrical discipline that times its use.[NOTE: shiksha-first-vedanga-priority]
+The Veda lives first in recitation, while writing provides a visible reflection of the recited form. The usual enumeration places *Śikṣā* first among the *Vedāṅgas*. That position is consistent with the practical order of preservation: the body must produce the sound accurately before another discipline can analyze its grammar, explain a difficult word, apply it in yajña, or determine its calendrical setting.[NOTE: shiksha-first-vedanga-priority]
 
-Auditure is the foundation and *Śikṣā* trains the instrument, the body that holds it.
+Auditure begins in trained hearing, and *Śikṣā* trains the body to produce what the ear will test.
 
 ## 15.2 The Eleven *Pāṭhas*
 
@@ -48,13 +48,9 @@ The *pāṭhas* are an error-detecting code in continuous human operation.
 
 ## 15.3 Combinatorial Re-encoding
 
-The engineering principles are recognizable from modern information theory, which uses redundancy, parity, checksums, and error-correcting codes to detect and localize corruption. The *pāṭhas* do exactly this work through sound, memory, sequence, and trained bodies.
+Modern information theory provides useful language for describing this arrangement. Error-detecting systems add planned redundancy so that a changed item disturbs several relationships rather than one. The *pāṭhas* apply a comparable principle through recitation, memory, sequence, and trained listeners; the analogy describes their checking function without claiming formal identity with a digital code.
 
-The *krama-pāṭha* checks word order. If word *n* appears in pair *(n-1, n)* and then in pair *(n, n+1)*, a swap has consequences on both sides. The adjacent pairs stop validating the sequence.
-
-The *jaṭā-pāṭha* checks order and *sandhi*. Forward-backward-forward recitation forces the join to be executed in more than one direction. *Sandhi* rules are not symmetric — what happens when *aḥ* meets *a* is not the inverse of what happens when *a* meets *aḥ*. A join that passes unnoticed in ordinary forward flow can fail when the pair reverses. The braid exposes the weak point.
-
-The *ghana-pāṭha* checks three-word windows by expanding, reversing, restoring, and advancing each cell. Consequently, a *Ghanapāṭhī* who reaches the end of a verse has executed adjacent joins repeatedly across multiple orderings under auditory supervision, proving that the density itself is the point.
+In *krama-pāṭha*, an interior word appears in the pair before it and the pair after it. A swap therefore disturbs both neighboring relationships. *Jaṭā-pāṭha* adds reversal, requiring the reciter to produce the words and their joins in both directions. *Ghana-pāṭha* extends this checking across moving three-word windows. By the end of a passage, adjacent words and joins have been heard repeatedly in several specified orders under auditory supervision.
 
 The *vikṛti* recitations add further constraint. Each modified form gives the sequence a different shape. Together they form a redundancy field around the Vedic corpus. It is hard to construct a corruption that passes all eleven.
 
@@ -66,13 +62,11 @@ The *progressive dogma* treats the *pāṭhas* — when it engages them at all �
 
 ## 15.4 Empirical Verification
 
-Vedic recitation survives in multiple geographically separated lineages: the Nambūdiri Brahmins of Kerala; Maharashtra Brahmin lineages; Tamil Nadu and Karnataka lineages; the Banaras and Allahabad lineages of the northern plains; Gujarat and Rajasthan lineages of the western coast; the Kashmir Pandit lineages preserved through displacement.[NOTE: nambudiri-vedic-recitation-isolation] These communities were not coordinated by one centralized institution. They preserved through parallel *guru-shishya* lineage-chains, with *śākhā* specification governing the differences that do appear.
+Vedic recitation continues in geographically separated lineages across Kerala, Maharashtra, Tamil Nadu, Karnataka, the northern plains, Gujarat, Rajasthan, and Kashmir.[NOTE: nambudiri-vedic-recitation-isolation] No central institution coordinated all of them. Each lineage preserved a specified *śākhā* through its own teacher-student chain.
 
-Because the recitations can be directly compared, and recordings exist—including fieldwork on Nambūdiri recitation in the 1970s that placed the lineages into audio and film archives, alongside later recordings that extend the corpus—it becomes clear that where lineages differ, the differences are labeled, located, and strictly governed by *śākhā* specification rather than random drift.[NOTE: staal-agni-nambudiri-recording]
+Recordings make these living systems directly comparable. Fieldwork on Nambūdiri recitation in the 1970s placed one body of practice in audio and film archives, and later recordings extend the available material.[NOTE: staal-agni-nambudiri-recording] Each *śākhā* preserves its specified recitational form through its own exacting checks. When recordings from separated lineages are compared, the shared phonetic and structural constants recur, while *śākhā*-specific differences remain governed and identifiable instead of dissolving into unrestricted drift.[NOTE: cross-shakha-verification-fieldwork]
 
-Because the phonetic constants match exactly at the level the architecture predicts (*varṇa* inventory, accent where preserved, *sandhi* execution, metrical structure, and recitational discipline), the geographically separated lineages act as independent checks whose recitations fundamentally agree.[NOTE: cross-shakha-verification-fieldwork]
-
-The reader can test the claim directly: because recordings of *saṃhitā*, *krama*, *jaṭā*, and *ghana* recitation are widely available, the architecture can be heard in real time, proving that the system is not merely a claim about the past but is actively operating now.
+Recordings of *saṃhitā*, *krama*, *jaṭā*, and *ghana* allow a reader to hear the systems still operating. Together with the historical evidence assembled in the notes and the preservation architecture described in this chapter, they make the continuity claim audible in the present.
 
 ## 15.5 The Living Architecture
 

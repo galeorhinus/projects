@@ -75,7 +75,7 @@ That childhood question now opens the architectural claim. Sanskrit's free word 
 
 **The beginningless and the endless deny the apex what it needs most: a first point it can own.**
 
-A civilization oriented to the unbounded does not make chronology the judge of truth. A date may help sequence events; it cannot decide the category of Sanskrit. The same *mantra* recited across ages is the same *mantra*. It does not gain authority by being older or lose authority by being recited again.
+A civilization oriented to the unbounded does not make chronology the judge of truth. Dates can arrange events, and comparison can reveal real relationships among languages. Neither tool can decide in advance what kind of language Sanskrit is. A botanical model may describe a naturally changing language well and still distort an engineered calibrant. The same *mantra* recited across ages remains the same *mantra*; age does not grant its authority, and repetition does not diminish it.
 
 The pyramid needs the unbounded forced into a finite clock. Once it owns the clock, it can call one layer early, another late, one primitive, another developed, one original, another borrowed. It can turn domain into period, mode into stage, architecture into evolution, and calibration into late correction. For Indic depth, the practice is *thousands of years*, with no counter-chronology manufactured merely to occupy the same battlefield.[NOTE: chronology-asymmetry-rationale]
 
@@ -85,17 +85,15 @@ When Sanskrit's light shines again as calibrated architecture, the hunger for th
 
 ## Lineage and Method
 
-The *paramparā* held the central position from the start. **व्याकरणम् (*vyākaraṇam*)** — analysis, separation, unfolding apart — describes an operation performed on an already-formed object. Patañjali opens the *Mahābhāṣya* with **सिद्धे शब्दार्थसम्बन्धे (*siddhe śabdārthasambandhe*)**: the bond between word and meaning is established.[NOTE: parampara-vyakaranam-bhartrhari-position-1] Every *vaiyākaraṇaḥ* in the chain decodes; none claims to invent.
+Sanskrit reached the present through ***paramparā***: lineages that heard, analyzed, taught, and corrected it. Within those lineages, **व्याकरणम् (*vyākaraṇam*)** means analysis, separation, or unfolding: an operation performed on something that already exists. Patañjali opens the *Mahābhāṣya* with **सिद्धे शब्दार्थसम्बन्धे (*siddhe śabdārthasambandhe*)**: the bond between word and meaning is established.[NOTE: parampara-vyakaranam-bhartrhari-position-1] Each *vaiyākaraṇaḥ* in the chain decodes and explains that established architecture.
 
 Modern Indian advocates have maintained this position under active institutional pressure: Maharṣi Dayānanda Saraswatī, Sri Aurobindo, T. V. Kapali Sastry, Sampadananda Mishra, Pandit Madhusudan Ojha, Subhash Kak, Kapil Kapoor, Rajiv Malhotra, and others working in Sanskrit, English, and Indian languages I do not read.[NOTE: modern-sanskrit-lineage-roles]
 
-The architectural route follows Sanskrit across scale: *varṇa* as sonomer, *akṣara* as audiograph, *dhātuḥ* as atom, *śabda* as molecule, *upasarga* and *pratyaya* as bonding chemistry, and sentence as assembly. The *Vedas* are the corpus the architecture preserves; Pāṇini's *Aṣṭādhyāyī* is the finest surviving *sūtra*-level documentation of that architecture; the Vedic recitation systems are preservation machinery rather than cultural ornament.[NOTE: patanjali-siddhe-shabdarthasambandhe][NOTE: eleven-pathas]
+The chapters follow Sanskrit across scale: *varṇa* as sonomer, *akṣara* as audiograph, *dhātuḥ* as atom, *śabda* as molecule, *upasarga* and *pratyaya* as bonding chemistry, and sentence as assembly. The Vedas encode this architecture and preserve it in operation. Pāṇini's *Aṣṭādhyāyī* provides its finest surviving *sūtra*-level documentation, while the Vedic recitation systems keep the encoded form audible through mutually checking procedures.[NOTE: patanjali-siddhe-shabdarthasambandhe][NOTE: eleven-pathas]
 
 The origin of Sanskrit is not the primary domain here (though **अपौरुषेय (*apauruṣeya*)** remains the answer preserved by the lineage-chain, and Chapter 17 §17.7 offers an honest speculation for the rationalist mind that cannot accept it). The observable claim is much narrower: Sanskrit's engineering exists on the page and in the mouth. Because the Vedas preserve it and the decoding lineages unfold it, Pāṇini's unfolding is simply the finest surviving document of that continuous work.
 
 Seeing Sanskrit as calibrant architecture restores the field that the eclipse darkened.
-
-## What Follows
 
 Overture: The Śaṅkha introduces the two parties. Chapter 0 presents the seekers and caretakers of Sanskrit; Chapter 1 presents the oppressors and the finite apex-form. Then the clearing begins, shadow by shadow: how the shadow is cast, the Sun's own account, its sound-body and its atoms, its anti-entropy, and the dispelling of Rāhu — until the Sun stands whole.
 

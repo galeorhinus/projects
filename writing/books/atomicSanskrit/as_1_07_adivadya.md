@@ -34,7 +34,7 @@ The human mouth is the world's first musical instrument.
 
 Every language uses the same physical apparatus. The lungs supply air. The vocal cords turn air into tone. The throat, mouth, and nose shape that tone into speech. English, Arabic, Mandarin, Hawaiian, Xhosa, Vietnamese, and Sanskrit all begin from the same instrument. The selections differ. The instrument is one.
 
-The Indian classical disciplines say this explicitly. The voice is the original instrument; constructed instruments are partial descendants. A tabla extends the consonant-event: hand striking drumhead, like tongue striking palate. A bansuri extends the vowel: breath through a shaped resonant tube. A sarangi extends the vocal cords and the sympathetic resonance of the nasal cavity. Each instrument approximates one capacity of the voice. The speaker has them all.[NOTE: adi-vadya-voice-as-original-instrument]
+The Indian classical disciplines describe the voice as the original instrument. The following analogies help explain how that instrument produces different kinds of sound. A tabla resembles the consonant-event: a hand strikes the drumhead as the tongue strikes an articulating surface. A bansuri makes the vowel easier to picture as breath moving through a shaped resonant tube. A sarangi recalls the vibrating source and sympathetic resonance of the voice. The voice unites striking, breath, vibration, and resonance within one human instrument.[NOTE: adi-vadya-voice-as-original-instrument]
 
 A claim about Sanskrit's sound architecture must begin with the physical instrument that produces sound; only then can the chapter examine the Sanskrit vocabulary that maps that instrument.
 
@@ -42,7 +42,7 @@ A claim about Sanskrit's sound architecture must begin with the physical instrum
 
 The vocal tract is a variable wind instrument built into the body. The lungs are the bellows. The larynx houses the vocal cords. The pharynx, oral cavity, and nasal cavity form the resonating chambers. The soft palate opens or closes the nasal resonator. The tongue, lips, and jaw reshape the oral cavity continuously.
 
-The tongue is the most complex moving part: tip, blade, body, and base. Above it sit the upper teeth, the alveolar ridge, the hard palate, the soft palate, and the uvula. At the front are the lips. At the back is the throat. The distance from lips to glottis averages roughly seventeen centimeters in adult males, ~14–15 cm in adult females, and shorter still in children, with the adult range running from about 13 cm to about 20 cm. The architecture is the same.[NOTE: vocal-tract-cm-modeling]
+The tongue is the most complex moving part: tip, blade, body, and base. Above it sit the upper teeth, the alveolar ridge, the hard palate, the soft palate, and the uvula. The lips stand at the front and the throat at the back. Vocal tracts vary with age and body, but the same parts and operations recur.[NOTE: vocal-tract-cm-modeling]
 
 ![Figure 7.1 — The Vocal Apparatus. The anatomy of the original instrument: lungs, larynx, vocal cords, oral cavity, tongue, lips, nasal passage, and the articulating regions that make speech possible.](figures/adivadya/vocal_tract_anatomy.svg){#fig:adivadya-vocal-tract-anatomy width=100%}
 
@@ -66,9 +66,7 @@ Most consonants are controlled bursts — which is why the tabla analogy works. 
 
 ## 7.4 Vowels Are Sustained Tones
 
-A vowel is what air does when the vocal tract remains open.
-
-While the vocal cords vibrate and air passes through a shaped cavity, the sound sustains as long as the speaker holds that shape. Because there is no closure, no burst, and no release, a vowel is fundamentally a standing resonance.
+A vowel begins when the vocal cords supply a tone and the vocal tract stays open enough for that tone to continue. The tongue, lips, jaw, and nasal passage shape the resonance, and the sound lasts for as long as the speaker holds that configuration. Unlike a stop consonant, the vowel does not depend on a complete closure and release.
 
 Three parameters do most of the work: tongue height, tongue advancement, and lip rounding. High front unrounded gives the *ee* of *see*. High back rounded gives the *oo* of *moon*. Low open position gives the *ah* of *father*. Nasalization couples the nasal cavity. Length controls duration; Sanskrit makes that duration countable through **मात्रा (*mātrā*)**, the measure of how long a sound occupies speech-time.[NOTE: hrasva-dirgha-pluta-matra] Tone adds pitch contour.
 

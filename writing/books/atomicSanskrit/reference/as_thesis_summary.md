@@ -65,7 +65,7 @@ The Eight Core Theses describe the movement of the argument. The Eclipse Ledger 
 
 11. **Vedic and Classical Sanskrit are not two languages — the split is imaginary.** **वैदिक (*vaidika*)** and **लौकिक (*laukika*)** are domains; **छन्दसि (*chandasi*)** and **भाषायाम् (*bhāṣāyām*)** are modes. Domain is not chronology. Mode is not drift. Pāṇini witnesses both. **Preface; Chapter 2 §2.6; Chapter 6 §6.6; Chapter 14 §14.7.**
 
-12. **The engineering recognition is older than Pāṇini.** Yāska, Śākalya, the *Prātiśākhyas*, the *Śikṣā* disciplines, and the pre-Pāṇinian *vaiyākaraṇāḥ* already presuppose discrete, stable, analyzable units. Pāṇini stands inside a decoding lineage. **Chapter 5; Chapter 10 §10.13.**
+12. **The engineering recognition is older than Pāṇini.** Yāska, Śākalya, the *Prātiśākhyas*, the *Śikṣā* disciplines, and the pre-Pāṇinian *vaiyākaraṇāḥ* already presuppose discrete, stable, analyzable units. Pāṇini stands inside a decoding lineage. **Chapter 5; Chapter 10 §10.12.**
 
 13. **Calibration is not codification.** Codification holds a bounded object by authority; calibration places the measure inside the architecture. The pyramid can own codification. It cannot own a distributed calibrant. **Chapter 6 §6.4; Chapter 13; Chapter 14 §14.6.**
 

@@ -104,6 +104,12 @@ Operating rules that still apply:
 
 These apply to every draft, every edit, every session. The full versions live in the skill; what follows is the always-on safety net.
 
+### No silent cuts — Lost and Found first
+
+No substantive manuscript material is deleted silently. Before removing or materially narrowing a sentence, clause, claim, qualification, example, quotation, citation, heading, figure, caption, table item, memory, or argumentative beat, copy the exact material into the applicable recovery ledger with its source location and proposed disposition. Log first, then cut. A move must record its destination.
+
+Pure copyediting that preserves the complete meaning may be marked **REPHRASE — NO SUBSTANTIVE CUT**. When the distinction is uncertain, preserve the material in Lost and Found. Git history and scattered review originals do not replace the central recovery ledger. For the active readability audit, use `working/40_reference/source_material/manuscript_readability_audit_lost_and_found.md`.
+
 ### Chronology — category before calendar for Indic, dates fine for non-Indic
 
 Never use chronological dating for anything Indian: no centuries, no "two thousand years ago," no "by the time of [Pāṇini / the Vedas]." Internal-frame ordering is fine: *before Pāṇini*, *after Patañjali*, *the Prātiśākhya discipline that preceded him*.
@@ -422,11 +428,23 @@ Do not use ***answer*** as a generic relationship between abstractions. A domain
 
 Preserve ***answer*** when it denotes a literal reply to an explicit question, a received doctrinal conclusion, or a deliberate refrain whose repetition is already part of the book: *There are two answers: zero and infinity*; *The answer is always zero*; *the honest answer is: we do not know*. Idiomatic subordination such as *answer to an authority* should normally become the more exact *submit to, conform to,* or *be subordinated to*.
 
+### *Question* — reserve it for actual inquiries
+
+Do not use ***question*** as an abstract container for a subject, distinction, or transition. Genealogy does not *begin with the question of ancestry* when it can simply *trace ancestry*. A chapter does not *return to the question of authorship* when it can *test who built the architecture*. Avoid habitual constructions such as *the question of, raises the question, returns to the question,* and *begins with a different question* when a concrete verb can state what the passage examines.
+
+Preserve ***question*** when a person or text asks an explicit inquiry, when the prose quotes that inquiry, or when the wording belongs to an established refrain that is itself an explicit inquiry, such as *The question PIE attempts to answer is the wrong question*. Do not exempt a refrain that turns an object into an abstract question: *every starred form becomes a question placed before Sanskrit* must instead state the concrete operation, such as setting the form beside Sanskrit and testing it. A literal question should identify what is being asked and why its reply changes the argument.
+
 ### *Gloss* — reserve it for technical annotation
 
 Do not use ***gloss / glosses / glossed / glossing*** as the default prose verb for stating what a word, passage, dictionary, or commentator means. The construction hides the actual operation and becomes an academic tic: *the dictionary glosses X as Y* may mean that it **defines**, **translates**, **renders**, **interprets**, or merely **equates** the two. State that relationship directly. Prefer ***means* / *denotes*** for a word's sense, ***translates as* / *renders as*** for translation, ***defines as*** for a dictionary definition, and ***explains* / *interprets* / *analyzes*** for commentary when that is what the source does. Give the English equivalent directly when no reporting verb is needed.
 
 Do not perform a blind replacement with *renders*; choose the verb required by the evidence. Preserve ***gloss*** as a noun only when it denotes a precise linguistic object or operation — ***first-use gloss, morpheme gloss, interlinear gloss, word-by-word gloss*** — and preserve ***glossary*** and quoted source terminology.
+
+### *Attested* — reserved for the pyramid's bureaucratic idiom
+
+The book does not use ***attested / unattested / attestation*** in its own explanatory prose. In ordinary English, *attested* evokes a form certified by an authorized office; in academic prose, it often hides the concrete fact the reader needs. State that fact directly. A form may be ***recorded in a manuscript***, ***preserved in recitation***, ***documented in an inscription***, ***listed in the Dhātupāṭha***, ***found in a corpus***, or ***absent from every surviving record***. A PIE form is ***reconstructed***, ***inferred***, or ***a proposed form for which no record survives***.
+
+Choose the replacement by evidence and do not substitute *documented* mechanically. For corpus analysis, use ***recorded in the corpus***, ***corpus-recorded use***, or ***forms found in the corpus***. For historical evidence, identify the inscription, manuscript, recitation, dictionary, or other source that preserves the form. Preserve the banned family only inside an exact quotation, a bibliographic title, or the pyramid's own bureaucratic and philological language when that idiom is being exposed.
 
 ### Texture — causal-expository prose without a verdict formula (revised 2026-07-19)
 

@@ -39,11 +39,13 @@ PIE is the conlang the conlangers' craft disowns.
 
 Hear the first syllable again. The honest conlanger's *con-* is *constructed* — printed on the label, admitted up front. Schleicher's is the other *con*: the confidence man's, the face worn over the work. Same three letters, opposite honesty. One builds a language and says so; the other builds one and swears he found it.
 
-## 18.2 The Bookkeeping Defense
+## 18.2 The Asterisk Defense
 
 The pyramid's defense retreats to bookkeeping. It says: yes, the forms are hypothetical; yes, nobody claims to have a recording of PIE; yes, the asterisk denotes reconstruction. The starred forms are only labels for systematic correspondences.
 
-When a dictionary writes "from PIE \*ǵenh₁" at the deepest point in an etymological chain, it is not merely filing a correspondence. It is assigning ancestry. Placement does that work. The asterisk is a procedural disclaimer. The chain position is an ontological commitment. The casual reader does not read "summary label for a correspondence set." The reader reads "source." The bookkeeping label has been doing ancestor work continuously, every time the label has been deployed.
+When a dictionary writes "from PIE \*ǵenh₁" at the deepest point in an etymological chain, its placement assigns ancestry. The asterisk performs the work of a footnote in advance: the main line says "from PIE" and teaches the reader to see a source, while the star quietly records that the supposed ancestor is reconstructed. Most readers absorb the ancestry. When that ancestry is challenged, the pyramid retreats into the notation and insists that no literal source was ever claimed. The claim shapes belief, while the disclaimer denies responsibility for the belief it shaped.
+
+**This is gaslighting with footnotes compressed into one character.**
 
 PIE cannot be the etymon of any word, and the logic breaks again on that fact. A reconstructed form is not an etymon. The endpoint of going backward in time is the *earliest* real form, not a reconstruction the procedure has projected behind that form. A reconstruction may summarize features shared by real forms; it cannot be the source from which those forms descend unless the reconstruction corresponds to a real spoken form. *Janaka* exists. *Genus* exists. *Génos* exists. **\*ǵenh₁** does not.
 

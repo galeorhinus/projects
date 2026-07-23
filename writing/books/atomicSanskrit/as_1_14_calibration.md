@@ -20,14 +20,14 @@ The third principle appears everywhere in *Sanātan*. It is structurally central
 
 ## 14.1 The Four Preservation Modes
 
-The Indic preservation system has four modes. English has a ready word for one of them: Scripture. It does not have ready words for the other three, so the following sections introduce them.
+The Indic preservation ecology assigns different material to four different methods: writing, memory and retelling, trained bodily performance, and exact speech-hearing transmission. English has ordinary words for the first two but no concise names for the last two as preservation systems. This book therefore proposes three English terms: *Mnemoniture*, *Flexture*, and *Auditure*.
 
 | Mode | Mechanism | Human pair | Preserves | Indic counterpart |
 |---|---|---|---|---|
 | ***Writing*** | writing on a physical medium | sight + hand | documents, records, commentary, administrative content | **लिपि (*lipi*)** |
-| ***Mnemoniture*** | memory and retelling | hearing + recall | stories, civilizational frameworks, ethical narratives | **स्मृति (*smṛti*)** |
-| ***Flexture*** | trained gesture and posture | sight + motor coordination | embodied narrative, ritual gesture, performance knowledge | **मुद्रा (*mudrā*)**, **हस्त (*hasta*)**, **नाट्यशास्त्र (*nāṭyaśāstra*)** |
-| ***Auditure*** | exact speech-hearing transmission | hearing + vocal articulation | phonetic form itself | **श्रुति (*śruti*)** |
+| ***Mnemoniture*** *(book coinage)* | memory and retelling | hearing + recall | stories, civilizational frameworks, ethical narratives | **स्मृति (*smṛti*)** |
+| ***Flexture*** *(book coinage)* | trained gesture and posture | sight + motor coordination | embodied narrative, ceremonial and performative gesture, performance knowledge | **मुद्रा (*mudrā*)**, **हस्त (*hasta*)**, **नाट्यशास्त्र (*nāṭyaśāstra*)** |
+| ***Auditure*** *(book coinage)* | exact speech-hearing transmission | hearing + vocal articulation | phonetic form itself | **श्रुति (*śruti*)** |
 
 The table separates the four preservation modes. The first row shows why writing cannot be allowed to become sovereign. Sanskritic preservation treats writing as *lipi*: useful support, not the source of calibration. The pyramid treats writing as custody: a stored object that can be owned, authorized, gated, and seized.
 
@@ -128,13 +128,17 @@ Western philology converts these operating differences into organic mutation acr
 
 Other civilizations know mode-splits and codified standards — Classical and Vulgar Latin, Quranic/Classical and modern Arabic, Classical Chinese and modern Sinitic speech. Those comparisons show that one language-field can operate in more than one mode. They do not make Sanskrit one more codified language. Sanskrit's two-mode architecture is uniquely engineered for non-decay. The *"Vedic-to-Classical transition"* that looks like drift to the ***progressive dogma*** is the engineered system functioning exactly as designed.
 
-The two-mode architecture has a name. ***वैचित्र्य (*vaicitrya*)*** — engineered range — at the *racanā* level means the system preserves reach into specialized scaffolds where the modal forms cannot hold (Chapter 10 §10.8). The same signature operates here, one level up. Multiple infinitive endings and pronoun alternates give *chandas* different syllable counts for metrical placement. *Pluta* governs extended duration; accent governs pitch; the *leṭ-lakāra* and injunctive govern verbal range; contextual **ळ** and *upadhmānīya* preserve exact articulation at stated environments. Each feature performs its own work inside the Vedic specification. *Vaicitrya* at the *racanā* level and at the morphological level displays one engineering signature across the architecture's vertical span (Appendix Part 7).
+The two-mode architecture has a name. ***वैचित्र्य (*vaicitrya*)*** — engineered range — at the *racanā* level means the system preserves reach into specialized scaffolds where the modal forms cannot hold (Chapter 10 §10.7). The same signature operates here, one level up. Multiple infinitive endings and pronoun alternates give *chandas* different syllable counts for metrical placement. *Pluta* governs extended duration; accent governs pitch; the *leṭ-lakāra* and injunctive govern verbal range; contextual **ळ** and *upadhmānīya* preserve exact articulation at stated environments. Each feature performs its own work inside the Vedic specification. *Vaicitrya* at the *racanā* level and at the morphological level displays one engineering signature across the architecture's vertical span (Appendix Part 7).
 
 ## 14.6 Control Cases: Codification by Authority
 
-The Western philological machinery already recognizes engineered preservation when it sees it in other traditions.
+Western philology already recognizes deliberate preservation machinery in other traditions.
 
-It recognizes the Masoretic Hebrew apparatus: the schools of Jewish scribes at Tiberias and Babylonia from roughly the sixth through the tenth century CE assembled a consonantal text, vowel pointing (*niqqud*), cantillation marks (*ṭe'amim*), and marginal machinery (*Masora*), with the Aleppo Codex (early tenth century) and the Leningrad Codex (1008 CE) as the standard manuscript anchors.[NOTE: masoretic-engineered-preservation] It recognizes the Quranic Arabic apparatus: the Uthmanic *muṣḥaf* codified under the third Caliph in the mid-seventh century, around which *tajwīd* (recitation rules), *qirā'āt* (the canonical readings codified by Ibn Mujāhid in the tenth century and later extended to ten), *isnād* (chain-of-transmission), and *ḥifẓ* (memorization) operate as a layered architecture.[NOTE: quranic-engineered-preservation] It recognizes ecclesiastical Latin preservation: Jerome's Vulgate (late fourth / early fifth century CE), the monastic scriptorium copying tradition with correction against exemplars, stemmatic reconstruction, and later ecclesiastical authorization through the Council of Trent (1545–1563) and the Sixto-Clementine printed edition (1592).[NOTE: latin-vulgate-engineered-preservation]
+Masoretic Hebrew combines a consonantal text with vowel points, cantillation marks, and marginal annotations developed and transmitted by scribal schools. Manuscripts such as the Aleppo and Leningrad codices provide visible historical anchors.[NOTE: masoretic-engineered-preservation]
+
+Quranic Arabic combines the *muṣḥaf* with rules of recitation, authorized readings, chains of transmission, and memorization. Named institutions and datable interventions make its custody structure easy for the academy to describe.[NOTE: quranic-engineered-preservation]
+
+Ecclesiastical Latin combines copying against exemplars, correction within scriptoria, reconstruction from manuscript families, and later church authorization of editions.[NOTE: latin-vulgate-engineered-preservation]
 
 These are the control cases. They prove that the machinery already knows how to recognize engineered preservation when the system fits categories it can manage: fixed text, named custodians, dated interventions, visible machinery, and authority-controlled transmission.
 

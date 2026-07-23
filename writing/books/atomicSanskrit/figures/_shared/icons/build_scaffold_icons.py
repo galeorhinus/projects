@@ -3,7 +3,7 @@
 These icons are filled solid hexagons (no outlines, no text labels), so
 the SHAPE of the scaffold reads at small inline sizes — the reader
 recognizes the racanā by silhouette. They pair with the outlined
-hexagon figures used in §§10.4–10.5 for full pedagogical illustrations.
+hexagon figures used in §§10.3–10.5 for full pedagogical illustrations.
 
 Use cases:
   * Inline in prose: ![](figures/_shared/icons/scaffold_cv1c_black.svg){height=1em}
@@ -29,7 +29,7 @@ import math
 from pathlib import Path
 
 
-# (slug, [particle classes], name) for the 10 racanā templates of Ch 10 §10.6
+# (slug, [particle classes], name) for the 10 racanā templates of Ch 10 §10.5
 SCAFFOLDS = [
     ("cv1c",    ["C", "V1", "C"],         "gamādi"),
     ("ccv1c",   ["C", "C", "V1", "C"],    "spadādi"),
@@ -42,7 +42,7 @@ SCAFFOLDS = [
     ("ccv2",    ["C", "C", "V2"],         "sthādi"),
     ("ccv1cc",  ["C", "C", "V1", "C", "C"], "spardhādi"),
     # Retained from earlier top-10 (now in the long tail but still referenced
-    # elsewhere — e.g., §10.4 mātrā-envelope examples and historical figures).
+    # elsewhere — e.g., §10.3 mātrā-envelope examples and historical figures).
     ("cv2cv1",  ["C", "V2", "C", "V1"],   "bādhrādi"),
     ("cv1cv2",  ["C", "V1", "C", "V2"],   "cityādi"),
 ]

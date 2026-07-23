@@ -35,7 +35,7 @@ OUT_CSV = BUNDLE / "data" / "derived" / "racana_reactivity.csv"
 OUT_MD = BUNDLE / "data" / "derived" / "racana_reactivity.md"
 
 
-# Top-10 racanā class names (from Ch 10 §10.6)
+# Top-10 racanā class names (from Ch 10 §10.5)
 RACANA_NAMES = {
     "CV1C":   "gamādi (गमादि)",
     "CCV1C":  "smarādi (स्मरादि)",
@@ -162,7 +162,7 @@ def main():
 
         # Top-10 racanāḥ — reactivity table
         fh.write("## Top-10 *racanāḥ* — reactivity profile\n\n")
-        fh.write("Rows in the §10.6 Ch 10 order (descending corpus count). "
+        fh.write("Rows in the §10.5 Ch 10 order (descending corpus count). "
                  "Columns show how each scaffold distributes across reactivity tiers.\n\n")
         fh.write("| Racanā | Class | N | Attested | Mean val (att.) | Polyvalent | Bivalent | Mono | Max val | Top attested |\n")
         fh.write("|---|---|---:|---:|---:|---:|---:|---:|---:|---|\n")
@@ -205,7 +205,7 @@ def main():
             next((x["total_corpus_tokens"] for x in rows_for_csv if x["racana"] == t), 0)
             for t in TOP_TEN
         )
-        fh.write(f"- Top-10 *racanāḥ* (Ch 10 §10.6 spine): "
+        fh.write(f"- Top-10 *racanāḥ* (Ch 10 §10.5 spine): "
                  f"**{top10_tokens:,} corpus tokens** "
                  f"= **{100 * top10_tokens / total_tokens:.1f}%** of all attestations.\n")
         # CV1C alone

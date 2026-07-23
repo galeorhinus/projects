@@ -8,7 +8,7 @@
 
 ## Top-10 *racanāḥ* — reactivity profile
 
-Rows in the §10.6 Ch 10 order (descending corpus count). Columns show how each scaffold distributes across reactivity tiers.
+Rows in the §10.5 Ch 10 order (descending corpus count). Columns show how each scaffold distributes across reactivity tiers.
 
 | Racanā | Class | N | Attested | Mean val (att.) | Polyvalent | Bivalent | Mono | Max val | Top attested |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---|
@@ -45,7 +45,7 @@ Highlights the scaffolds whose attested members are *reactive*, not just *numero
 
 ## Corpus-token coverage by *racanā*
 
-- Top-10 *racanāḥ* (Ch 10 §10.6 spine): **621,733 corpus tokens** = **93.3%** of all attestations.
+- Top-10 *racanāḥ* (Ch 10 §10.5 spine): **621,733 corpus tokens** = **93.3%** of all attestations.
 - **CV1C (*gamādi*) alone**: 260,142 tokens = **39.0%** of all attestations.
 - **Top-3 compact *racanāḥ* (CV1C + CV1 + CV2)**: 465,383 tokens = **69.8%** of all attestations.
 

@@ -6,7 +6,7 @@ measures the chapter reports (inventory, dhātavaḥ in use, measured bonds,
 counted uses). The figure's only job is to make the headline claim
 visually obvious: the top ten *racanā* scaffolds carry the inventory,
 and the same concentration survives prayoga. The per-scaffold roster
-already lives in the §10.7 table; the figure does not re-list it.
+already lives in the §10.6 table; the figure does not re-list it.
 
 Script writes SVG directly instead of using matplotlib so the project
 builds cleanly even when the local NumPy/matplotlib install is out of

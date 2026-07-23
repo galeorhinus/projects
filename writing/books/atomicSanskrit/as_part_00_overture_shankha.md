@@ -20,14 +20,14 @@
 
 \bigskip
 
-The Śaṅkha sounds inside a war already underway. Its note is a summons: caretaking has become action.
+The Śaṅkha sounds inside a war already underway. Its note summons the people who preserved Sanskrit to act in its defense.
 
-The eclipse remains intact at this threshold. The conch does not break the plates; it sounds across the dark field and calls the caretakers into motion.
+At this threshold the eclipse remains intact. The conch announces that the caretakers are beginning to clear the shadow; the first plate will fall only after the argument begins.
 
 ![Figure E.2 — The Śaṅkha Sounds. The full eclipse remains in place, but the conch has sounded while the field is still dark.](figures/eclipse_spine/eclipse_00_overture_shankha_full.svg){#fig:eclipse-overture-shankha width=100%}
 
 Sanskrit is the Sun. The asuric pyramid has drawn its shadow across the field. What should have been obvious went dark: a language that seekers, caretakers, reciters, *vaiyākaraṇāḥ*, mothers, teachers, students, and lineages actively held across the depth of time.
 
-Before the light returns, the overture makes the opposing parties visible: on one side stand the seekers and caretakers (the civilization trained to listen, correct, remember, and keep looking), while on the other side stands the asuric pyramid—a finite order with an apex at its head that constantly demands the field look upward for authority.
+Before the light returns, the opposing parties come into view. On one side stand the seekers and caretakers, people trained to listen, correct, remember, and keep looking. On the other stands the asuric pyramid, a finite order whose apex demands that the whole field look upward for authority.
 
 The Śaṅkha sounds while the field is still dark. With the caretakers and the finite order now visible, the work narrows to the shadow itself — how it was cast, and how it lifts.

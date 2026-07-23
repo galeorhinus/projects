@@ -20,7 +20,7 @@
 
 Sanskrit's architecture was built to last. Its visible components now include the **वर्णमाला (*varṇamālā*)** as the engineered phonetic grid, the **धातवः (*dhātavaḥ*)** as an inventory of reactive atoms, the **गणाः (*gaṇāḥ*)** as Pāṇini's operating classes, the **उपसर्गाः (*upasargāḥ*)** and **प्रत्ययाः (*pratyayāḥ*)** as the bonding procedure, and the **अष्टाध्यायी (*Aṣṭādhyāyī*)** as the formal specification. The system is integrated and complete.
 
-Because a specification that drifts is no longer a specification, it follows logically that a calibrant calibrated by what it calibrates is no longer a calibrant.
+Sanskrit can serve as a measure only while that measure remains stable. If the sounds, relations, and forms used for correction changed whenever ordinary speech changed, they could no longer show where the change occurred.
 
 Sanskrit's own vocabulary has a name for the danger: **अपभ्रंशः (*apabhraṃśa*)** — falling away, slippage, the unmaking of an engineered form into fallen-away variants. Patañjali lists the case (Chapter 6 §6.2): **गौः (*gauḥ*)** (the engineered Sanskrit word for *cow*) against the four *apabhraṃśas* the **महाभाष्य (*Mahābhāṣya*)** documents — **गावी (*gāvī*)**, **गोणी (*goṇī*)**, **गोता (*gotā*)**, **गोपोतलिका (*gopotalikā*)**. The source is one. The fallings-away are many. *Apabhraṃśa* is the default trajectory of any linguistic form left to uncalibrated speech.
 
@@ -106,9 +106,9 @@ Every culture holds stories, songs, genealogies, rituals, epics, family memories
 
 What is uniquely Indic is not oral tradition. It is **aural engineering**.
 
-*Oral* is the mouth. *Aural* is the ear. Oral tradition preserves content approximately: the story remains, the wording shifts; the song remains, the regional form varies; the meaning survives, the surface changes. Aural engineering preserves phonetic form exactly: vowel length, accent, breath gesture, place of articulation, sequence, rhythm, and error-correction.
+The term *oral tradition* covers many kinds of transmission, including some that preserve wording with high precision. It does not by itself tell the reader what degree of exactness a system requires. The Vedic system makes trained hearing part of the specification, so this book calls it **aural engineering**.
 
-The mouth produces. The ear preserves. The engineering is in what the ear catches that the mouth cannot be trusted to remember alone.
+*Oral* points to production by the mouth; *aural* points to reception by the ear. Vedic training asks the mouth to reproduce vowel length, accent, breath gesture, articulation, sequence, and rhythm while trained listeners compare the recitation with the form they already hold. The mouth produces the line, and the ear supplies an independent check.
 
 The ***progressive dogma*** collapses both into "oral tradition" because both happen without writing. The collapse serves the linear-progress teleology (Chapter 2 §2.4): writing is taken to be advanced, oral transmission to be primitive residue. The dogma's framing has the engineering backwards.
 

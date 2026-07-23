@@ -182,7 +182,7 @@ The class composition is the *vyākaraṇa* discipline's own classification read
 
 **What the numbers show.** The *varṇamālā* gives 33 consonants. The architecture does not deploy them as interchangeable bonding sites. A small specialist class — the *antaḥsthāḥ* plus the *mūrdhanya* sibilant — does almost all consonant-to-consonant bonding work. This is the *carbon-of-clusters* role: a small set of atoms that bond promiscuously, holding larger consonant structures together while the other consonants do atom-boundary work.
 
-The *vyākaraṇa* discipline's name for the class — *antaḥsthāḥ*, *those that stand between* — was already the right name. The data confirms the class is operationally real. Ch 10 §10.14 states the chapter-prose version of the same finding; this section is the reproducibility backbone.
+The *vyākaraṇa* discipline's name for the class — *antaḥsthāḥ*, *those that stand between* — was already the right name. The data confirms the class is operationally real. Ch 10 §10.13 states the chapter-prose version of the same finding; this section is the reproducibility backbone.
 
 ## 6.5 The *Mūrdhanya* Dual-Role Place
 
@@ -215,7 +215,7 @@ The compounding signal. *Mūrdhanya* shows up three times in the appendix as the
 2. **Uniquely dual-role** (this section): 32.6% inner activity vs 10.6–15.4% elsewhere. Retroflex also does cluster-joining work.
 3. **Cross-inventory coupling** (§6.6): *ṛ* as nuclear vowel at the *mūrdhanya* site and *ra* as the universal cluster-joiner at the same site — the *svara* and *vyañjana* inventories bridged at one articulatory location.
 
-Three independent measurements pointing at the same conclusion: the *mūrdhanya* class does more architectural work than any other place. None of these is in the pyramid's account of retroflex as a marked, marginal, areal feature. Ch 10 §10.14 states the chapter-prose version; Ch 16 §16.1 develops the retroflex-as-architecturally-central polemic on this foundation.
+Three independent measurements pointing at the same conclusion: the *mūrdhanya* class does more architectural work than any other place. None of these is in the pyramid's account of retroflex as a marked, marginal, areal feature. Ch 10 §10.13 states the chapter-prose version; Ch 16 §16.1 develops the retroflex-as-architecturally-central polemic on this foundation.
 
 ## 6.6 The *Ṛ* Signal and the *Ṛ* / *Ra* Bridge
 
@@ -261,7 +261,7 @@ The *mūrdhanya* site therefore holds:
 
 Three coupled loadings at one articulatory location. The architecture is not distributing structural weight evenly across places. The tongue-curl site holds disproportionate load by design.
 
-Ch 10 §10.14 develops the bridge as a fractal-behavior claim at the *varṇamālā* level. Ch 16 §16.1 takes the retroflex-as-architecturally-central polemic forward.
+Ch 10 §10.13 develops the bridge as a fractal-behavior claim at the *varṇamālā* level. Ch 16 §16.1 takes the retroflex-as-architecturally-central polemic forward.
 
 ---
 
@@ -269,7 +269,7 @@ Ch 10 §10.14 develops the bridge as a fractal-behavior claim at the *varṇamā
 
 ## 6.7 Compression — Particle and *Akṣara* Counts
 
-Ch 10 §10.7 states the reference statement of the compression finding. This section preserves the falsification narrative that produced the current numbers.
+Ch 10 §10.6 states the reference statement of the compression finding. This section preserves the falsification narrative that produced the current numbers.
 
 **Data** (across all 2,168 *dhātavaḥ*, post-Pāṇinian *anubandha*-stripping per *Aṣṭādhyāyī* 1.3.2 / 1.3.3 / 1.3.5):
 
@@ -367,7 +367,7 @@ The same matrix holds the OCP avoidance finding (§6.9's scalar) and the *mūrdh
 
 ## 6.10 *Vaicitrya* — Engineered Range in the Tail
 
-**Prediction.** An engineered architecture should be concentrated but not closed. The modal scaffolds dominate the inventory; specialized scaffolds exist at low frequency for cases the modal forms cannot stage. Sanskrit aesthetics has the word for the principle: **वैचित्र्य (*vaicitrya*)** — patterned variety, the force by which sameness does not become monotony. Chapter 10 §10.8 places this under *astobham*: the modal scaffolds remove waste, while the governed tail preserves *vaicitrya* where range does work.
+**Prediction.** An engineered architecture should be concentrated but not closed. The modal scaffolds dominate the inventory; specialized scaffolds exist at low frequency for cases the modal forms cannot stage. Sanskrit aesthetics has the word for the principle: **वैचित्र्य (*vaicitrya*)** — patterned variety, the force by which sameness does not become monotony. Chapter 10 §10.7 places this under *astobham*: the modal scaffolds remove waste, while the governed tail preserves *vaicitrya* where range does work.
 
 **Data** (the 37 *racanā* scaffolds outside the top 10):
 
@@ -392,7 +392,7 @@ The same matrix holds the OCP avoidance finding (§6.9's scalar) and the *mūrdh
 
 - ***Racanā* level** — this section. 37 long-tail scaffolds preserve reach for scope the top-10 cannot stage.
 - **Morphological level** — Chapter 14 §14.3. The *chandas* mode preserves multiple infinitive endings (*-tum*, *-tavai*, *-dhyai*, *-tave*, *-tos*, *-sani*) for metrical scope; the *bhāṣā* mode keeps *-tum* standard for non-metrical scope. Appendix Part 7 traces the full morphological inventory.
-- **Aesthetic level** — Chapter 10 §10.10. The architecture's range across non-modal scaffolds is what makes engineering-poetry's form-meaning assignment have somewhere to settle.
+- **Aesthetic level** — Chapter 10 §10.9. The architecture's range across non-modal scaffolds is what makes engineering-poetry's form-meaning assignment have somewhere to settle.
 
 One engineering signature, three levels, one principle: range preserved where range does work.
 
@@ -621,10 +621,10 @@ Scripts:
 | `analyze_position_roles.py` | §6.4, §6.5 four-role position-role aggregation across cluster patterns |
 | `analyze_extensions.py` | §6.8, §6.6 clusters, *akṣara* breakdown, vowel × consonant |
 | `analyze_distinguishability.py` | §6.9 feature-distance scoring, OCP / onset-coda analysis, cross-*gaṇa* |
-| `analyze_matra_distribution.py` | *mātrā* envelope distributions (feeds Ch 10 §10.7) |
+| `analyze_matra_distribution.py` | *mātrā* envelope distributions (feeds Ch 10 §10.6) |
 | `analyze_matra_by_particle_count.py` | *mātrā* × particle stratification |
 | `analyze_racana_by_gana.py` | §6.10 scaffold × *gaṇa* matrix |
-| `analyze_scaffold_distinguishability.py` | scaffold-distinguishability by *mātrā* (feeds Ch 10 §10.9) |
+| `analyze_scaffold_distinguishability.py` | scaffold-distinguishability by *mātrā* (feeds Ch 10 §10.8) |
 | `cluster_by_reactivity.py` | consonant clustering by reactivity-profile similarity (feeds §6.4) |
 | `analyze_shells.py` | shell-structure analysis of consonant deployment |
 | `analyze_productivity.py` | §6.13 productivity vs structural complexity (Path A Spearman ρ = −0.485) |
@@ -654,7 +654,7 @@ Scripts (run in execution order):
 | `cross_gana_columns.py` | §6.11 *juhotyādi* C4-enrichment under Path C restriction (33.3% → 42.9%) |
 | `per_corpus_productivity.py` | per-sub-corpus productivity tables |
 | `join_dhatu_scaffold_path_c.py` | joins Path C valency back onto *Dhātupāṭha* scaffold inventory |
-| `analyze_racana_reactivity.py` + `summarize_scaffold_reactivity.py` | scaffold-level reactivity summary (feeds Ch 10 §10.11 four-bar deployment figure) |
+| `analyze_racana_reactivity.py` + `summarize_scaffold_reactivity.py` | scaffold-level reactivity summary (feeds Ch 10 §10.10 four-bar deployment figure) |
 | `build_attestation.py` (re-run with `[corpus]` filter) | per-sub-corpus attestation index |
 
 End-to-end runtime: under 5 minutes on a 2024 M-series laptop.
@@ -690,13 +690,13 @@ The architecture is visible. The numbers are reproducible.
 
 **Number reconciliations:**
 
-- **Particle-count distribution** — preserved at 11.6% / 58.2% / 25.6% / 3.6% / 0.5% (matches Ch 10 §10.7 reference statement); §6.7 now slimmed and frames its unique contribution as the falsification narrative (48.5% → 58.2% under corrected anubandha-stripping).
+- **Particle-count distribution** — preserved at 11.6% / 58.2% / 25.6% / 3.6% / 0.5% (matches Ch 10 §10.6 reference statement); §6.7 now slimmed and frames its unique contribution as the falsification narrative (48.5% → 58.2% under corrected anubandha-stripping).
 - ***Juhotyādi* C4 share** — 31.8% (pre-correction) → 33.3% (post-correction inventory) → 42.9% (Path C corpus-restricted). All three numbers and the methodological narrative now appear in §6.11.
-- **Scaffold count** — 69 (pre-cleanup) → 47 (post-cleanup, matching Ch 10 §10.8). Long-tail count: 59 → 37. §6.10 re-stratified: near tail 5 scaffolds at 5.90%, mid tail 10 at 1.75%, deep tail 22 at 1.34% (totaling 9.00% — matches Ch 10 §10.8 *vaicitrya* statement).
+- **Scaffold count** — 69 (pre-cleanup) → 47 (post-cleanup, matching Ch 10 §10.7). Long-tail count: 59 → 37. §6.10 re-stratified: near tail 5 scaffolds at 5.90%, mid tail 10 at 1.75%, deep tail 22 at 1.34% (totaling 9.00% — matches Ch 10 §10.7 *vaicitrya* statement).
 
 **Cross-references:**
 
-Backward — Chapter 10 §10.7 (particle and *akṣara* compression); §10.8 (scaffold concentration and *vaicitrya*); §10.9 (scaffold distinguishability); §10.11 (scaffold deployment in *prayoga*); §10.14 (cluster-joiner specialist class, *mūrdhanya* dual-role, *ṛ*/*ra* bridge as chapter prose). Chapter 11 §§11.6–11.9 (the *prayoga* polemic; reactivity tiers; cross-corpus invariance). Chapter 16 §16.1 (retroflex-as-architecturally-central polemic built on App 5 §§6.3, 5.5, 5.6).
+Backward — Chapter 10 §10.6 (particle and *akṣara* compression); §10.7 (scaffold concentration and *vaicitrya*); §10.8 (scaffold distinguishability); §10.10 (scaffold deployment in *prayoga*); §10.13 (cluster-joiner specialist class, *mūrdhanya* dual-role, *ṛ*/*ra* bridge as chapter prose). Chapter 11 §§11.6–11.9 (the *prayoga* polemic; reactivity tiers; cross-corpus invariance). Chapter 16 §16.1 (retroflex-as-architecturally-central polemic built on App 5 §§6.3, 5.5, 5.6).
 
 Forward — Path B *śāstra* audit deferred to future research; Path C extension to additional sub-corpora (the broader DCS files beyond the four sampled) deferred.
 

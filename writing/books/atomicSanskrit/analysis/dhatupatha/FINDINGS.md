@@ -316,9 +316,9 @@ The *varṇamālā* documents place × manner. Position-preference (initial vs f
 - **Ch 7-8**: *varṇamālā* engineering (place × manner × voicing × aspiration); the canonical 2D classification.
 - **Ch 16**: retroflex / *mūrdhanya* engineering — Pattern 4 (place trajectory) and Pattern 11 (मूर्धन्य as dual-role place) provide empirical evidence.
 - **Ch 10 §§10.2-10.5**: *varṇa → dhātu → śabda* pipeline, *svara/vyañjana* roles, *mātrā* envelope, and *dhāturacanā* scaffold procedure.
-- **Ch 10 §10.7**: sonomer-count and *mātrā* compression check.
-- **Ch 10 §§10.8-10.13**: scaffold concentration, *prayoga* deployment, and the four engineering verdicts (compression, distinguishability, engineering-poetry, *vaicitrya*). The position-role figure provides empirical support for distinguishability principle (engineering at the position-axis level).
-- **Ch 10 §10.14**: Engineering Was Common Knowledge. The cross-cutting corpus signals here are additional evidence — the engineering operates at more axes than Pāṇini documented separately.
+- **Ch 10 §10.6**: sonomer-count and *mātrā* compression check.
+- **Ch 10 §§10.7-10.13**: scaffold concentration, *prayoga* deployment, and the four engineering verdicts (compression, distinguishability, engineering-poetry, *vaicitrya*). The position-role figure provides empirical support for distinguishability principle (engineering at the position-axis level).
+- **Ch 10 §10.13**: Engineering Was Common Knowledge. The cross-cutting corpus signals here are additional evidence — the engineering operates at more axes than Pāṇini documented separately.
 - **Ch 11**: empirical-pipeline workstream uses these findings to inform column-axis decision; Path C corpus analysis (BhG + Veda) is the next validation step.
 
 ---
