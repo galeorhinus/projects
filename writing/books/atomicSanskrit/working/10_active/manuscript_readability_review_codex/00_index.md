@@ -6,11 +6,11 @@ The manuscript contains no Codex review comments. The completed audit under `wor
 
 ## Application Status
 
-The selected decisions in review files 01–27 were processed on 2026-07-23. One hundred nine revisions were applied; two original passages were explicitly retained, and one Part I proposal was superseded without being applied. The accepted second-pass refinements in file 30 and the contradiction-audit repairs were incorporated during the same application cycle.
+The selected decisions in review files 01–27 were processed on 2026-07-23. One hundred eleven revisions were applied; two original passages were explicitly retained, and one Part I proposal was superseded without being applied. The accepted second-pass refinements in file 30 and the contradiction-audit repairs were incorporated during the same application cycle.
 
 The complete decision-to-manuscript map is in [31_application_manifest.md](./31_application_manifest.md).
 
-All substantive material removed by an audit revision must also appear in the central [Manuscript Readability Audit — Lost and Found](../../40_reference/source_material/manuscript_readability_audit_lost_and_found.md). The 109 applied revisions have been reconciled there, with 71 applied recovery records. The ledger remains an application gate for every later batch.
+All substantive material removed by an audit revision must also appear in the central [Manuscript Readability Audit — Lost and Found](../../40_reference/source_material/manuscript_readability_audit_lost_and_found.md). The 111 applied revisions have been reconciled there, with 73 applied recovery records. The ledger remains an application gate for every later batch.
 
 ## Decision Workflow
 
@@ -54,7 +54,7 @@ When reviewed blocks are processed, Codex applies only accepted or author-revise
 | `20_ch15.md` | Chapter 15 | APPLIED |
 | `21_ch16.md` | Chapter 16 | APPLIED |
 | `22_ch17.md` | Chapter 17 | APPLIED |
-| `23_ch18.md` | Chapter 18 | PARTIAL — C18-007 AWAITS DECISION |
+| `23_ch18.md` | Chapter 18 | APPLIED |
 | `24_ch19.md` | Chapter 19 | APPLIED |
 | `25_epilogue.md` | Epilogue | APPLIED |
 | `26_parts_front_back.md` | Remaining Part openers, Acknowledgments, Note on Notes | APPLIED |

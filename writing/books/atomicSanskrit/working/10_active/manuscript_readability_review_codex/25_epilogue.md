@@ -48,6 +48,58 @@ Keep the original wound-line and reconcile it with the residual plates:
 ### Comments
 
 
+## EPI-009 - Make vyutpatti the university research protocol
+
+**Source:** [Where the Nectar Rises, method and university handoff](/Users/paragtope/projects/writing/books/atomicSanskrit/as_2_01_epilogue.md:65)
+**Action:** EXPAND + REPLACE
+**Cut impact:** REPHRASE + EXPANSION — REPLACED WORDING LOGGED
+**Lost and Found:** [LAF-R-077](../../40_reference/source_material/manuscript_readability_audit_lost_and_found.md#laf-r-077--the-earlier-five-step-nectar-protocol)
+**Status:** APPLIED — 2026-07-23
+### Original
+
+> The method can be repeated:
+>
+> 1. Place one starred reconstruction beside the recorded word-family it was designed to explain.
+> 2. Search the *Dhātupāṭha* for Sanskrit atoms that fit both sound and meaning.
+> 3. Derive the Sanskrit molecules under stated Sanskrit rules.
+> 4. Compare them with the recorded forms and identify plausible routes of contact.
+> 5. Publish weak cases, counterexamples, and uncertainty along with the strong results.
+>
+> The sound correspondences, cognate tables, etymological dictionaries, inscriptional corpora, and university departments need not be discarded; they need to be turned around. The work ahead maps two fields: the orbital field bound by Sanskritic gravity, and the radiance-field where Sanskritic reflections traveled outward and then drifted.
+
+### Proposed
+
+> Indian universities can turn that exercise into a coordinated research program. Sanskrit departments can begin with the *Dhātupāṭha* and the traditional fivefold method of *vyutpatti*. Scholars of Greek, Latin, Persian, and other receiving languages can place their recorded word-families beside the Sanskrit atoms, while computational linguistics departments test whether the same transformations recur across hundreds and then thousands of words. Chapter 18 demonstrates the method with ⟪दृश्⟫ and *theory*. Repeating it word-family by word-family can show how Greek and Latin received Sanskrit's radiance and reshaped it through vivimorphosis.
+>
+> The method can be repeated:
+>
+> 1. Place a recorded Greek, Latin, Persian, or other word-family beside the starred reconstruction currently assigned to it.
+> 2. Search the *Dhātupāṭha* for Sanskrit atoms that fit both sound and meaning.
+> 3. Derive the Sanskrit molecules under stated Sanskrit rules.
+> 4. Apply the fivefold *vyutpatti* method to the receiving-language forms, identifying each sound added, moved, changed, or lost and tracing the semantic relation to the Sanskrit *dhātu*.
+> 5. Compare the result across several languages, looking for recurring transformations and routes through which Sanskrit's radiance could have traveled.
+> 6. Publish the strong cases together with the weak cases, counterexamples, and unresolved words.
+>
+> The sound correspondences, cognate tables, etymological dictionaries, inscriptional corpora, and university departments already supply the material. Indian scholars can turn that machinery around and map two fields: the orbital field bound by Sanskritic gravity, and the radiance-field where Sanskritic reflections traveled outward and then drifted.
+
+### Decision
+
+- [x] ACCEPT PROPOSED
+- [ ] KEEP ORIGINAL
+- [ ] USE AUTHOR REVISION
+- [ ] REVISE AGAIN
+- [ ] DEFER
+
+### Author Revision
+
+```text
+
+```
+
+### Comments
+
+The author directed that Indian universities repeat the Chapter 18 *vyutpatti* exercise to show how Greek and Latin words came from Sanskrit.
+
 ## EPI-002 - Move the full āryatva discussion to the invitation
 
 **Source:** [The Eclipse Is Over, āryatva](/Users/paragtope/projects/writing/books/atomicSanskrit/as_2_01_epilogue.md:29)  

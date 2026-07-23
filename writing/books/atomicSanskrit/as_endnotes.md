@@ -3859,19 +3859,49 @@ Standard references: Malcolm Ross, "Contact-Induced Change and the Comparative M
 
 **Deployments:** Chapter 18 §18.9 — the citation anchor for the Wiktionary etymological entry on Sanskrit *paśyati* and the philological ecosystem's account of suppletion across the Indo-European verbal paradigm for *to see*.
 
-The Wiktionary entry on the Sanskrit verb ***पश्यति (paśyati)*** ("he sees", third-person singular present active of the *paś* dhātu) holds the following etymological account (as of the version cited):
+The Wiktionary entry on the Sanskrit verb ***पश्यति (paśyati)*** ("he sees", the third-person singular present form generated from ⟪दृश्⟫ through the prescribed *paśya* replacement) holds the following etymological account in the version cited:
 
 > The entry claims that पश्यति (*paśyati*) derives from Proto-Indo-European \*speḱ-, while the rest of the morphological paradigm derives from Proto-Indo-European \*derḱ-*.
 
 The structural fact the chapter establishes: the entry posits *two* Proto-Indo-European starred ancestor-forms (*\*speḱ-* and *\*derḱ-*) as the underlying source of the Sanskrit verb's morphological paradigm. The Sanskrit paradigm itself operates a *suppletive* relationship — *paśyati* (present-tense forms) and *adrākṣīt* (aorist forms) belong to different surface forms. The PIE reconstruction attributes the suppletion to *inheritance* from two distinct PIE ancestor-forms that have been combined into a single Sanskrit paradigm.
 
-The chapter's polemic account: the suppletion explanation is the PIE reconstruction project's standard move for any Sanskrit verbal paradigm that does not match a single reconstructable ancestor-form. *Posit two PIE ancestor-forms, derive the paradigm's parts from each, treat the suppletion as inheritance from the proto-language*. The move preserves the account's theoretical commitments (every Sanskrit form must derive from some PIE form; the reconstruction must produce the daughter paradigms) at the cost of multiplying entities — two ancestor-forms, with their reconstructed paradigms, their reconstructed semantic relations, their reconstructed cross-daughter-language correspondences, all to handle the unity the Sanskrit side keeps visible.
+The chapter's diagnostic account: the suppletion explanation is the PIE reconstruction project's standard move for any Sanskrit verbal paradigm that does not match a single reconstructable ancestor-form. *Posit two PIE ancestor-forms, derive the paradigm's parts from each, treat the suppletion as inheritance from the proto-language*. The move preserves the account's theoretical commitments (every Sanskrit form must derive from some PIE form; the reconstruction must produce the daughter paradigms) at the cost of multiplying entities — two ancestor-forms, with their reconstructed paradigms, their reconstructed semantic relations, their reconstructed cross-daughter-language correspondences, all to handle the unity the Sanskrit side keeps visible.
 
-The alternative account active in §18.9 is narrower and cleaner: Pāṇinian architecture holds the *dṛś* family as a generated Sanskrit family, and *paśyati* is generated through standard present-tense derivation. The daughter-language cognates display partial inheritance through contact-transfer from the operational Sanskrit field, not from a starred two-PIE-ancestor account. The reconstruction project's two-PIE-ancestor postulation is residue of the same operation applied in reverse — the project working backward from the Sanskrit material and projecting the PIE ancestor-forms the daughter languages would need to have inherited.
+The alternative account active in §18.9 keeps the architecture visible: Pāṇini's documentation retains *dṛś* as the semantic atom and explicitly prescribes *paśya* as its replacement in the relevant present-tense environment. The operation therefore remains inside one Sanskrit paradigm instead of requiring two ancestral verbs. The receiving-language cognates display partial inheritance through contact-transfer from the operational Sanskrit field, not from a starred two-PIE-ancestor account. The reconstruction project's two-PIE-ancestor postulation is residue of the same operation applied in reverse — the project working backward from the Sanskrit material and projecting the PIE ancestor-forms the receiving languages would need to have inherited.
 
 The Wiktionary entry is one of many instances where the chapter's analysis can be tested against routine etymological reference. The broader engagement with the routine reference ecosystem (etymonline, Wiktionary, the dictionary etymological notes) develops across Chapter 18 §§18.4–18.8 and across the cementing-of-PIE analysis at endnote `pie-cementing-recent-decades`.
 
 Standard references: the Wiktionary entry on पश्यति (paśyati) at en.wiktionary.org; the broader PIE-reconstruction literature for *\*speḱ-* and *\*derḱ-*; Manfred Mayrhofer, *Etymologisches Wörterbuch des Altindoarischen* (Carl Winter, 1986–2001), s.v. *paś-*, *dṛś-*; Helmut Rix, *Lexikon der indogermanischen Verben* (Reichert Verlag, second edition 2001), entries on the relevant PIE verbal forms.
+
+---
+
+### `vyutpatti-drsh-theory`
+
+**Short:** The traditional fivefold method of *nirukta* and *vyutpatti* permits four stated sound operations — addition, transposition, modification, and loss — together with a semantic extension grounded in the *dhātu*. Chapter 18 applies that method to Sanskrit ⟪दृश्⟫ / *darś-* and Greek *theōros* / *theōria*: **द (*d*) → θ (*th*, /tʰ/)** changes voicing and aspiration within the dental position; Greek retains *r*, supplies its own vowels and endings, and drops *ś* from the stem, while the semantic field continues from seeing through viewing and contemplation to *theory*.
+
+**Deployments:** Chapter 18 §18.9 — the method and worked ⟪दृश्⟫–*theory* derivation; Epilogue, "Where the Nectar Rises" — the proposed research protocol for applying the method across Greek, Latin, Persian, and other receiving languages.
+
+The fivefold method is preserved in the *Kāśikāvṛtti* under *Aṣṭādhyāyī* 6.3.109:
+
+> वर्णागमो वर्णविपर्ययश्च द्वौ चापरौ वर्णविकारनाशौ ।\
+> धातोस्तदर्थातिशयेन योगस्तदुच्यते पञ्चविधं निरुक्तम् ॥
+>
+> *varṇāgamo varṇaviparyayaś ca dvau cāparau varṇavikāranāśau |*\
+> *dhātos tadarthātiśayena yogas tad ucyate pañcavidhaṃ niruktam ||*
+
+***Padaccheda:*** वर्ण-आगमः । वर्ण-विपर्ययः । च । द्वौ । च । अपरौ । वर्ण-विकार-नाशौ । धातोः । तत्-अर्थ-अतिशयेन । योगः । तत् । उच्यते । पञ्च-विधम् । निरुक्तम् ॥
+
+***Translation:*** Addition and transposition of sounds are two operations; modification and loss are the other two. The fifth connects the resulting form to an extended meaning of the *dhātu*. This is called fivefold *nirukta*.
+
+The five operations are: the addition of a sound (*varṇāgama*), the transposition of sounds (*varṇaviparyaya*), the modification of a sound (*varṇavikāra*), the loss of a sound (*varṇanāśa*), and an extended but intelligible semantic relation to the *dhātu*. The verse circulates widely as a statement of the traditional *nirukta* method; the securely located textual source used here is the *Kāśikāvṛtti* on 6.3.109 rather than a direct attribution to Yāska.
+
+Chapter 18 applies three of the four sound operations to the comparison between Sanskrit ***darś-*** and Greek ***theōr-***. The initial Sanskrit **द (*d*)** and Greek **θ (*th*)** occupy corresponding dental positions. In Classical Greek, **δ** was the voiced dental stop /d/, **τ** the voiceless dental stop /t/, and **θ** the voiceless aspirated dental stop /tʰ/. The sequence **द → त → थ (*d → t → th*)** therefore states the proposed *varṇavikāra*: remove voicing, then add aspiration, while retaining the dental place of articulation. The Greek form retains *r*, adds vowels around it, drops *ś* from the stem, and receives Greek morphology through *-os* and *-ia*. These are stated as *varṇāgama* and *varṇanāśa*, not concealed inside an imaginary intermediate form.
+
+The recorded Greek semantic chain is *theōros* "spectator" → *theōria* "viewing, contemplation" → Latin *theoria* → English *theory*. The standard modern account analyzes *theōros* through Greek *thea* "a view" and *horan* "to see," then tentatively sends *horan* to Watkins's starred *\*wer-(3)* "to perceive." Chapter 18 proposes the Sanskrit ⟪दृश्⟫–*darśana* field as the more direct source: sight, viewing, vision, and philosophical perspective already remain together in the recorded Sanskrit family. Under the book's Radiance Thesis, Greek reshaped that field through vivimorphosis.
+
+This worked case also defines the research burden. A proposed *vyutpatti* must identify every sound addition, transposition, modification, and loss that it uses; preserve a coherent semantic relation to the Sanskrit atom; recur across other word-families rather than rely on a single resemblance; and fit a plausible route of Sanskritic radiance. The Epilogue asks Indian universities to repeat that test across the Greek and Latin lexicons and to publish the weak cases and counterexamples with the strong ones.
+
+Sources: *Kāśikāvṛtti* on *Aṣṭādhyāyī* 6.3.109, [पृषोदरादीनि यथोपदिष्टम्](https://ashtadhyayi.github.io/suutra/6.3/6.3.109/?transliteration_target=iast); Evert van Emde Boas, Albert Rijksbaron, Luuk Huitink, and Mathieu de Bakker, *Cambridge Grammar of Classical Greek* (Cambridge University Press, 2019), §§1.23–1.24 on the Classical Greek stop series; Douglas Harper, ["theory"](https://www.etymonline.com/word/theory), *Online Etymology Dictionary*, for the standard *theōria* → *theōros* → *thea* + *horan* account and Watkins's tentative *\*wer-(3)* attribution.
 
 ---
 

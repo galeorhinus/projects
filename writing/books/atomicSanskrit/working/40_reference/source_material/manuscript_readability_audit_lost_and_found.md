@@ -3618,30 +3618,89 @@ The revised appendix restores the main Same-Timeline Test, representative Vedic 
 
 ---
 
-## LAF-R-036 — Template
+## LAF-R-076 — The earlier dṛś, paśyati, and theory indictment
 
-**Source:** `[manuscript file and line]`  
-**Audit block:** `[block ID and link]`  
-**Change type:** CUT / CONDENSE / MOVE  
+**Source:** [Chapter 18 §18.9](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_18_pie_in_sky.md:296)
+**Audit block:** [C18-007](../../10_active/manuscript_readability_review_codex/23_ch18.md#c18-007---bound-the-dṛś-paśyati-and-theory-case)
+**Change type:** REPHRASE + EXPANSION
 **Status:** UNDECIDED  
-**Applied:** NO  
+**Applied:** YES
 **Destination if moved:** —
 
 ### Material Removed
 
-> Copy the exact removed manuscript text here. Preserve formatting, note anchors, headings, and figure references.
+> **One Sanskrit *dhātu*. The Western philological machinery splits the family.** And the splinter is in plain print on the same reference page. The Wiktionary entry for पश्यति, retrieved verbatim:
+>
+> > The entry claims that पश्यति (*paśyati*) derives from Proto-Indo-European \*speḱ-, while the rest of the paradigm derives from Proto-Indo-European \*derḱ-.[NOTE: wiktionary-pasyati-suppletion]
+>
+> In one sentence, the pyramid admits the splinter: what Sanskrit treats as one *dhātu* with one paradigm, the pyramid's account attributes to *two* reconstructed PIE ancestor-forms. The connector word is *suppletive* — the technical name for the account's confession. When the inflected forms of what looks like one verb refuse to be traced back to one ancestor, the reconstruction regime invokes *suppletion*: the doctrine that different verb-forms come from different ancestral forms and have, by historical accident, fused into one paradigm. The Pāṇinian architecture does not need *suppletion* anywhere; it generates पश्यति from दृश् through standard present-tense derivation, and a Sanskrit schoolchild can show the steps. The PIE machinery invokes *suppletion* here because it cannot explain how the दृश्-class forms and the पश्यति-class forms can both belong to one verb.
+>
+> *Suppletion is not a feature of the language. It is the regime's signature on its own failure.*
+>
+> The third row of the table — *theory* — sharpens the same point in a different idiom. The English word inherits the visual semantics of ⟪दृश्⟫ through the Greek chain *theōros* (spectator, seer); the machinery, however, lists no Sanskrit cognation for *theory* in its standard reference account, routing the cognate cluster instead to a tentative **\*wer-(3)** "to perceive" (Watkins's "perhaps") with no Sanskrit derivative attached. Where row 1 and row 2 split the *dhātu*, row 3 drops the *dhātu* altogether — the Sanskrit semantic origin of *seeing as theory* simply does not appear in the ecosystem's account of where *theory* comes from.
 
 ### Replacement or Result
 
-> Copy the replacement text, identify the new location, or describe the resulting structure.
+Chapter 18 retains the split-family indictment, corrects the account of **पश्यति (*paśyati*)** by identifying Pāṇini's stated replacement operation, and expands the *theory* row into a worked fivefold *vyutpatti*. The new analysis states the proposed **द → त → थ (*d → t → th*)** change, vowel and ending additions, loss of *ś*, and continuity of the semantic field.
 
 ### Reason Proposed
 
-State why the audit proposed removing, condensing, or moving the material.
+The earlier passage treated the *theory* connection as a semantic assertion without showing the derivational method. It also claimed too broadly that the Pāṇinian architecture required no operation resembling suppletion, even though Pāṇini explicitly prescribes the replacement of *dṛś* by *paśya* in the relevant environment.
 
 ### What May Have Been Lost
 
-Identify claims, examples, qualifications, voice, rhythm, civilizational framing, or cross-chapter support that may no longer survive.
+The replacement softens two original hammers: "the splinter is in plain print" and "the regime's signature on its own failure." Both remain available here if the author later decides that the corrected explanation can support either line.
+
+### Author Decision
+
+- [ ] RESTORE IN PLACE
+- [ ] RELOCATE
+- [ ] INCORPORATE PART
+- [ ] DEVELOP LATER
+- [ ] KEEP CUT
+- [ ] REVISE AGAIN
+- [x] UNDECIDED
+
+### Author Comments
+
+```text
+
+```
+
+---
+
+## LAF-R-077 — The earlier five-step nectar protocol
+
+**Source:** [Epilogue, "Where the Nectar Rises"](/Users/paragtope/projects/writing/books/atomicSanskrit/as_2_01_epilogue.md:67)
+**Audit block:** [EPI-009](../../10_active/manuscript_readability_review_codex/25_epilogue.md#epi-009---make-vyutpatti-the-university-research-protocol)
+**Change type:** REPHRASE + EXPANSION
+**Status:** UNDECIDED
+**Applied:** YES
+**Destination if moved:** —
+
+### Material Removed
+
+> The method can be repeated:
+>
+> 1. Place one starred reconstruction beside the recorded word-family it was designed to explain.
+> 2. Search the *Dhātupāṭha* for Sanskrit atoms that fit both sound and meaning.
+> 3. Derive the Sanskrit molecules under stated Sanskrit rules.
+> 4. Compare them with the recorded forms and identify plausible routes of contact.
+> 5. Publish weak cases, counterexamples, and uncertainty along with the strong results.
+>
+> The sound correspondences, cognate tables, etymological dictionaries, inscriptional corpora, and university departments need not be discarded; they need to be turned around. The work ahead maps two fields: the orbital field bound by Sanskritic gravity, and the radiance-field where Sanskritic reflections traveled outward and then drifted.
+
+### Replacement or Result
+
+The Epilogue now assigns the method explicitly to Indian universities, joins Sanskrit, Greek, Latin, Persian, and computational analysis in one program, adds the fivefold *vyutpatti* operations to the protocol, and points back to the worked ⟪दृश्⟫–*theory* example in Chapter 18.
+
+### Reason Proposed
+
+The earlier checklist did not explain how scholars should compare the forms, and it did not identify the departments capable of carrying out the program. The expanded protocol turns the invitation into a method that can be repeated and evaluated.
+
+### What May Have Been Lost
+
+The replacement preserves the original reversal by making Indian scholars the actors who turn the machinery around.
 
 ### Author Decision
 

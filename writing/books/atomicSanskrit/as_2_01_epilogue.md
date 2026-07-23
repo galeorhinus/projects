@@ -64,15 +64,18 @@ That is the nectar.
 
 Now is the time for those on the side of Sanskrit's radiance to act, and the work is brief to state. Their dictionaries list their thousands of starred entries; the *Dhātupāṭha* holds 2,168 *dhātavaḥ* — recited, accented, semantically specified across thousands of years, against forms that are starred, unpronounced, and revised every generation. Take a starred form and set it beside the dhātu inventory. Ask whether a Sanskrit atom or molecule explains the word-family more directly than the reconstruction does; whether the semantic field stayed whole, narrowed, or split; whether the receiving language shows vivimorphosis rather than ancestry; whether one atom explains several branches better than a hypothetical ancestor explains any of them. Keep the honest cases and discard the weak ones. Chapter 18 played the opening rows — ⟪स्था⟫, ⟪दिव्⟫, ⟪जन्⟫, ⟪कृत्⟫, मातृ (*mātṛ*). The rest of the ocean stands there, indexed, waiting. PIE no longer gets default parenthood. Every starred form must now be set beside Sanskrit and tested, rather than installed above Sanskrit as an ancestor.
 
+Indian universities can turn that exercise into a coordinated research program. Sanskrit departments can begin with the *Dhātupāṭha* and the traditional fivefold method of *vyutpatti*. Scholars of Greek, Latin, Persian, and other receiving languages can place their recorded word-families beside the Sanskrit atoms, while computational linguistics departments test whether the same transformations recur across hundreds and then thousands of words. Chapter 18 demonstrates the method with ⟪दृश्⟫ and *theory*. Repeating it word-family by word-family can show how Greek and Latin received Sanskrit's radiance and reshaped it through vivimorphosis.
+
 The method can be repeated:
 
-1. Place one starred reconstruction beside the recorded word-family it was designed to explain.
+1. Place a recorded Greek, Latin, Persian, or other word-family beside the starred reconstruction currently assigned to it.
 2. Search the *Dhātupāṭha* for Sanskrit atoms that fit both sound and meaning.
 3. Derive the Sanskrit molecules under stated Sanskrit rules.
-4. Compare them with the recorded forms and identify plausible routes of contact.
-5. Publish weak cases, counterexamples, and uncertainty along with the strong results.
+4. Apply the fivefold *vyutpatti* method to the receiving-language forms, identifying each sound added, moved, changed, or lost and tracing the semantic relation to the Sanskrit *dhātu*.
+5. Compare the result across several languages, looking for recurring transformations and routes through which Sanskrit's radiance could have traveled.
+6. Publish the strong cases together with the weak cases, counterexamples, and unresolved words.
 
-The sound correspondences, cognate tables, etymological dictionaries, inscriptional corpora, and university departments need not be discarded; they need to be turned around. The work ahead maps two fields: the orbital field bound by Sanskritic gravity, and the radiance-field where Sanskritic reflections traveled outward and then drifted.
+The sound correspondences, cognate tables, etymological dictionaries, inscriptional corpora, and university departments already supply the material. Indian scholars can turn that machinery around and map two fields: the orbital field bound by Sanskritic gravity, and the radiance-field where Sanskritic reflections traveled outward and then drifted.
 
 The *Dhātupāṭha* stands as a scientific object — an inventory of semantic atoms in ten *gaṇāḥ*, modelable and testable against the regular *apaśabda* generation in the Indic *prākṛtika* languages and in the Indo-European contact-family; the *Aṣṭādhyāyī*, as engineering documentation — formal compression and generative reach the computational community has been quietly using while the philological community arrived late; the recitation lineages, as living evidence — the eleven *pāṭhas* running as an error-detecting code in parallel across Kerala, Maharashtra, Tamil Nadu, Kashmir, and the northern plains, producing phonetic constants across thousands of years.
 
