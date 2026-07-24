@@ -96,24 +96,53 @@ The methodological best was the bake.
 
 The recipe leaves residue. The residue sits in the ecosystem's own reference pages.
 
-Sanskrit provides unified semantic atoms and also documents the relationships between them. PIE reconstruction handles that architecture in two ways. It can split one Sanskrit atom into several imaginary ancestors, or it can place starred ancestors above a receiving language that has joined two Sanskrit atoms inside one paradigm. Both operations push the recorded Sanskrit architecture beneath a reconstructed chronology.
+Sanskrit provides unified semantic atoms and also documents the relationships among their sound-forms. PIE reconstruction takes the recorded words in several languages, reconstructs a starred form from their correspondences, and places that form above the Sanskrit atom. The first three cases apply the Sanskrit method demonstrated in Chapter 18. The remaining cases show the reconstruction splitting semantic fields that Sanskrit keeps together.
 
-### Case 1 — ⟪अस्⟫ (*as*) and ⟪भू⟫ (*bhū*), being and becoming
+Chapter 18 turns that comparison into a student exercise. Begin with the PIE image, list the recorded forms one language at a time, and render their approximate sounds in Devanagari. The consonants can then be placed by **स्थान (*sthāna*, articulatory position)** and **प्रयत्न (*prayatna*, articulatory effort)**, while the vowels and meanings receive separate analyses. Pāṇini belongs in a case when he documents the corresponding Sanskrit operation. Hemacandra belongs when his Prakrit or Apabhraṃśa evidence clarifies a natural transformation. Their documentation should appear only where it applies.
 
-Sanskrit preserves **⟪अस्⟫ (*as*)** and **⟪भू⟫ (*bhū*)** as two atoms. Ṛgveda 10.129 uses **आसीत् (*āsīt*, "was")** and **आ बभूव (*ā babhūva*, "came into being")** within the same sūkta. Pāṇini later documents their grammatical relationship through **अस्तेर्भूः (2.4.52)**, under which **⟪भू⟫** replaces **⟪अस्⟫** in the specified *ārdhadhātuka* formations.[NOTE: as-bhu-being-paradigm]
+### Case 1 — ⟪युज्⟫ (*yuj*), to join or yoke
 
-Latin joins the reflections of both atoms inside one verb:
+| Language or account | Original form | Approximate Devanagari rendering | Meaning |
+|---|---|---|---|
+| PIE image | **\*yeug- / \*yug-** | **\*येउग् / \*युग्** | join, yoke |
+| Greek | **ζυγόν (*zygon*)** | **ज़ुगोन** | yoke |
+| Latin | ***iugum*** | **युगुम्** | yoke |
+| Gothic / English | ***juk / yoke*** | **युक् / योक्** | yoke |
+| Sanskrit | **युज्, युग, युक्त, योग** | original Devanagari | join, yoke, joined, union |
 
-| Latin paradigm | Sanskrit field | PIE attribution |
-|---|---|---|
-| ***sum, es, est, esse, eram, erō*** | **⟪अस्⟫ (*as*)** | \***h₁es-** |
-| ***fuī, fueram, fuerō, futūrus*** | **⟪भू⟫ (*bhū*)** | \***bʰuH-** |
+The Veda displays **युञ्जन्ति (*yuñjanti*, "they yoke")** in Ṛgveda 1.6.1, **युगा (*yugā*, "the yokes")** in 10.101.3, and **युक्त (*yukta*, "yoked")** in 10.102.9. Pāṇini later documents the coordinate relations through **चोः कुः (*coḥ kuḥ*, 8.2.30)** and **खरि च (*khari ca*, 8.4.55)**. Under their specified Sanskrit conditions, **तालव्य ज (*tālavya j*, palatal and voiced)** moves to **कण्ठ्य ग (*kaṇṭhya g*, velar and voiced)**, and that voiced velar can move to **कण्ठ्य क**, its voiceless neighbor.[NOTE: yuj-bhr-radiance-method]
 
-Latin grammar calls ***sum, esse, fuī, futūrus*** one irregular verb and requires the learner to memorize the change from ***s- / es-*** to ***fu-***. Sanskrit keeps the two atoms visible and documents their connection. The reconstructed account takes those atoms, places starred copies above Sanskrit, Greek, and Latin, and calls the visible relationship inheritance.
+The vowels can be read separately. Sanskrit **युज्, युग,** and **युक्त** use **उ**, while **योग** displays the governed *guṇa* relation **उ → ओ**. Latin and Gothic preserve **u**; English *yoke* uses **o**; and the Greek vowels require their own historical analysis. The meaning remains joining or yoking throughout the comparison. Sanskrit therefore supplies the recorded atom, the generated family, the anatomical sound-map, and the semantic architecture that the starred PIE image claims to precede.
 
-*Latin memorizes the switch. Sanskrit explains it.*
+### Case 2 — ⟪भृ⟫ (*bhṛ*), to bear, carry, or sustain
 
-### Case 2 — ⟪भा⟫ (*bhā*) dhātu, to shine; to appear; to speak
+| Language or account | Original form | Approximate Devanagari rendering | Meaning |
+|---|---|---|---|
+| PIE image | **\*bher-** | **\*भेर्** | bear, carry |
+| Greek | **φέρειν (*pherein*)** | **फेरेइन** | bear, carry |
+| Latin | ***ferre*** | **फेरे** | bear, carry |
+| Old English / English | ***beran / bear*** | **बेरन् / बेर** | bear, carry |
+| Sanskrit | **भृ, बिभर्ति, भरति** | original Devanagari | bear, carry, sustain |
+
+Ṛgveda 7.87.4 uses **बिभर्ति (*bibharti*)**. The Vedic form places unaspirated **ब (*b*)** beside aspirated **भ (*bh*)**, showing that Sanskrit controls aspiration as an independent feature inside the design. Pāṇini later documents the repeated element as **अभ्यास (*abhyāsa*)**. Hemacandra records aspirated stops changing in Prakrit under stated conditions.[NOTE: yuj-bhr-radiance-method]
+
+The receiving forms remain in the labial region while voicing, aspiration, and closure change: Sanskrit **भ**, Greek **ph**, Latin **f**, and Germanic **b**. Hemacandra's evidence explains the Prakrit transformations he records; it does not directly derive the Greek or Latin forms. The student exercise must map the Sanskrit **ऋ / इ / अ** and the foreign **e** vowels separately before reaching a conclusion about the full family.
+
+### Case 3 — ⟪जन्⟫ (*jan*), to generate or be born
+
+The *Dhātupāṭha* records both generation and coming into birth under ⟪जन्⟫. Ṛgveda 6.7 uses **जनयन्त (*janayanta*)** and **जायते (*jāyate*)** within one sūkta. Sanskrit then builds *jana, janaka, janana, jananī, janma, jāta,* and *jāti* around the same semantic atom.[NOTE: jan-dhatupatha-double-entry]
+
+| Language or account | Original form | Approximate Devanagari rendering | Meaning |
+|---|---|---|---|
+| PIE image | **\*ǵenh₁-** | **a starred sound-image without a settled Devanagari rendering** | generate, give birth |
+| Greek | ***genos*** | **गेनोस्** | race, kind |
+| Latin | ***genus*** | **गेनुस्** | birth, kind, class |
+| Germanic / English | ***kin, kind, king*** | **किन्, काइन्ड्, किङ्** | family, kind, ruler of a people |
+| Sanskrit | **जन, जनक, जन्मन्, जाति** | original Devanagari | person, parent, birth, kind |
+
+Chapter 18 traces the dictionary history through which the real Sanskrit atom moved beneath the star. The ⟪युज्⟫ case supplies the relevant sound path: **ज → ग → क**. The ⟪जन्⟫ family then displays the scale of the consequence, because one Sanskrit atom remains recognizable beneath a large Greek, Latin, and Germanic canopy.
+
+### Case 4 — ⟪भा⟫ (*bhā*) dhātu, to shine; to appear; to speak
 
 The Pāṇinian framework enumerates ⟪भा⟫ (*bhā*) as a *dhātu* of the *adādi* class. Semantic range: shining, brightness, appearance, manifestation, speaking — a range the lineage's commentators take as semantically unified around *making evident, manifesting, bringing into the light*. The *dhātu* generates **bhāṣā** (speech, language), **bhāṣaṇam** (speaking), **bhāsa** (light), **bhāsvara** (luminous), **bhānu** (sun, light), **bhāva** (state, being, manifestation). One *dhātu*, one semantic axis (manifestation / making-evident), multiple morphological derivatives.
 
@@ -126,7 +155,7 @@ The pyramid's account splits the *dhātu* into **two** numbered PIE ancestor-for
 
 The standard etymological references (etymonline; Watkins's *American Heritage Dictionary* appendix) list these as two distinct PIE ancestor-forms that happen to be homophonous in the reconstructed proto-language. *bha-* (1) and *bha-* (2). Two ancestors, one Sanskrit *dhātu*, distinguished by the machinery's reconstruction tradition because the machinery cannot bring itself to admit that one Sanskrit *dhātu* spans the semantic field from *bhāsa* to *bhāṣā*. The numbering is the slip. The slip is in plain print, with a parenthetical number, in the ecosystem's own reference works.
 
-### Case 3 — ⟪मा⟫ (*mā*) dhātu, to measure
+### Case 5 — ⟪मा⟫ (*mā*) dhātu, to measure
 
 The *dhātu* generates **mātṛ** (mother — the one who measures out, the one who shapes; the maternal sense preserved through engineering, not through nursery-word phonology), **mātrā** (measure, unit, quantity), **māna** (measurement), **māsa** (month — the measured period), **māyā** (the measured-out, the apparent; the metaphysical sense Sanskrit develops). One *dhātu*, one semantic axis (measuring / shaping / bounding), multiple derivatives.
 
@@ -139,7 +168,7 @@ The pyramid's account splits into **two** PIE ancestor-forms, with the *mother* 
 
 The *mother* attribution is held separately from the *measure* attribution — two reconstructed ancestor-forms, no cross-referencing in the machinery's lookup pages. Watkins's note on the *mother* entry — that the form is "ultimately" baby-talk *mā-* plus a suffix — is the regime's apologetic sleight: when the deflection has to reach for nursery-word universals to defend the separation, the separation itself is being held against the data. The Sanskrit framework has no need of the baby-talk routing; *mātṛ* is *mā-* (to measure) + *-tṛ* (the agent suffix) — *the one who measures out*, the engineering account that runs across all the *dhātu*'s derivatives.
 
-### Case 4 — ⟪गम्⟫ (*gam*) dhātu, to go
+### Case 6 — ⟪गम्⟫ (*gam*) dhātu, to go
 
 The *dhātu* generates **gamana** (going, motion), **gati** (gait, motion, state), **agra-gāmin** (forerunner), and across the variant form जि-गा (*jigā*) the present-tense **jagati** (he/she/it goes) and the noun **jagat** (the world, the moving one — what goes, what is in motion). Semantic axis: motion.
 
@@ -153,7 +182,7 @@ The machinery distinguishes — variably across the etymological reference works
 
 The variation across the etymological reference works is the tell: etymonline routes *come* and *basis* under one combined entry, but Wiktionary's more recent reconstructions split them into \**gʷem-* and \**gʷeh₂-*; *go* is sometimes routed to a third ancestor-form, \**ǵheh₁-* (Pokorny 1959). When the reconstruction's own practitioners cannot agree on whether one Sanskrit *dhātu*'s cognate cluster goes back to two or three reconstructed ancestor-forms, those ancestor-forms are not the ancestors; they are the machinery's posited fillers for a unity it cannot reconstruct.
 
-### Case 5 — ⟪पद्⟫ (*pad*) dhātu, to step; to fall
+### Case 7 — ⟪पद्⟫ (*pad*) dhātu, to step; to fall
 
 The *dhātu* generates **pādaḥ** (foot, step, quarter), **padam** (step, footprint, place, word), **pādamūla** (the base of the foot), **prāpti** (attainment, reaching by stepping), and the verb **pad** itself in the senses *to step*, *to set foot*, *to fall into a state*. Semantic axis: foot-motion / placement / landing — the same field continued: *where the foot lands*.
 
@@ -168,7 +197,7 @@ The *ped-* / *pol-* split. The Sanskrit *dhātu* holds both senses under one sem
 
 ### The pattern
 
-Five cases. The first shows a receiving language joining two Sanskrit atoms and then treating their reflections as an inherited irregularity. The other four show one Sanskrit atom splintered across two or three reconstructed PIE ancestor-forms. The cases were sampled rather than chosen for damage. Together they show what happens when the comparative method places reconstruction above the *Dhātupāṭha*: Sanskrit's documented architecture disappears, while starred forms inherit its position.
+Seven cases. The first three show how a recorded Sanskrit atom, Vedic sound-forms, and visible sonomer movements can be placed beside the receiving-language family. The remaining four show one Sanskrit semantic field splintered across two or three reconstructed PIE ancestor-forms. Together they show what happens when the comparative method places reconstruction above the *Dhātupāṭha*: Sanskrit's documented architecture disappears, while starred forms inherit its position.
 
 Sanskrit's *dhātavaḥ* are atoms. The bake produces the apparent illusion that the atoms are themselves compounds of older, imagined atoms. The illusion is the recipe. The recipe runs across thousands of *dhātavaḥ*.
 
@@ -186,7 +215,7 @@ The architecture of containment Chapter 3 §3.5 develops operates here at the mo
 
 *Sanskrit's deepest institutional home in the western subcontinent has held the **asuric pyramid**'s operation on Sanskrit for two centuries, with no political transition interrupting the work.*
 
-The *dhātu* cluster evidence of §1.5 forms the operation's empirical residue. Recipe after recipe sits on the ecosystem's own reference pages: Latin's ***sum, esse, fuī, futūrus*** joins the **⟪अस्⟫ / ⟪भू⟫** fields; the numbered \**bha-* (1) and \**bha-* (2) divide **⟪भा⟫**; the baby-talk apology separates *mātṛ* from **⟪मा⟫**; the references disagree over the descendants of **⟪गम्⟫**; and the *ped-* / *pol-* split divides what **⟪पद्⟫** unifies. The *dhātavaḥ* represent the engineering on the ground, while the recipes constitute the bake on the page.
+The *dhātu* cluster evidence of §1.5 forms the operation's empirical residue. Recipe after recipe sits on the ecosystem's own reference pages: the yoke family reconstructs an ancestor above Vedic **yuj / yug / yuk**; the *bher-* family places a star above the Vedic **bibharti** and its labial architecture; \**ǵenh₁-* displaces **⟪जन्⟫**; the numbered \**bha-* (1) and \**bha-* (2) divide **⟪भा⟫**; the baby-talk apology separates *mātṛ* from **⟪मा⟫**; the references disagree over the descendants of **⟪गम्⟫**; and the *ped-* / *pol-* split divides what **⟪पद्⟫** unifies. The *dhātavaḥ* represent the engineering on the ground, while the recipes constitute the bake on the page.
 
 Four lines close the appendix in parallel with Chapter 18:
 

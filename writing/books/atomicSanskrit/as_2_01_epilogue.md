@@ -62,28 +62,37 @@ Like Svarbhānu, the pyramid reached for what belonged to the radiant. Its apex 
 
 That is the nectar.
 
-Now is the time for those on the side of Sanskrit's radiance to act, and the work is brief to state. Their dictionaries list their thousands of starred entries; the *Dhātupāṭha* holds 2,168 *dhātavaḥ* — recited, accented, semantically specified across thousands of years, against forms that are starred, unpronounced, and revised every generation. Take a starred form and set it beside the dhātu inventory. Ask whether a Sanskrit atom or molecule explains the word-family more directly than the reconstruction does; whether the semantic field stayed whole, narrowed, or split; whether the receiving language shows vivimorphosis rather than ancestry; whether one atom explains several branches better than a hypothetical ancestor explains any of them. Keep the honest cases and discard the weak ones. Chapter 18 played the opening rows — ⟪स्था⟫, ⟪दिव्⟫, ⟪जन्⟫, ⟪कृत्⟫, ⟪अस्⟫, ⟪भू⟫, मातृ (*mātṛ*). The rest of the ocean stands there, indexed, waiting. PIE no longer gets default parenthood. Every starred form must now be set beside Sanskrit and tested, rather than installed above Sanskrit as an ancestor.
+Now is the time for those on the side of Sanskrit's radiance to act. The materials are already available. Western etymological dictionaries list thousands of starred entries. The *Dhātupāṭha* preserves 2,168 *dhātavaḥ*, each recited, accented, and semantically specified across thousands of years. One inventory contains hypothetical forms that no community is known to have spoken; the other contains Sanskrit's recorded semantic atoms.
 
-Indian universities can turn that exercise into a coordinated research program. Sanskrit departments can begin with the *Dhātupāṭha* and the traditional fivefold method of *vyutpatti*. Scholars of Greek, Latin, Persian, and other receiving languages can place their recorded word-families beside the Sanskrit atoms, while computational linguistics departments test whether the same transformations recur across hundreds and then thousands of words. Chapter 18 demonstrates the method with **⟪अस्⟫**, **⟪भू⟫**, and the Latin verb ***sum, esse, fuī, futūrus***. Repeating it word-family by word-family can show how Greek and Latin received Sanskrit's radiance and reshaped it through vivimorphosis.
+Place the two inventories beside one another. For each family, determine whether a Sanskrit atom and its generated molecules explain the recorded words more directly than the starred reconstruction. Follow the semantic field to see whether it remained whole, narrowed, or split, and map every sound that was added, moved, changed, or lost. Keep the honest cases, publish the weak ones, and let the full pattern establish the reach of Sanskrit's radiance.
+
+Chapter 18 demonstrates the method with the pyramid's **\*yeug- / \*yug-** image. It renders the Greek, Latin, Gothic, and English forms approximately in Devanagari and then places them against Vedic **युज् / युग् / युक् (*yuj / yug / yuk*)**. The comparison maps consonants, vowels, and meaning separately before checking a second physical route through **⟪भृ⟫** and returning to the larger **⟪जन्⟫ → *gen / kin / king*** family. It places those examples beside the families built from **⟪स्था⟫**, **⟪दिव्⟫**, **⟪कृत्⟫**, and **⟪मा⟫**. The rest of the ocean stands there, indexed, waiting. PIE no longer gets default parenthood. Every starred form must be set beside Sanskrit and tested before the pyramid installs it above Sanskrit as an ancestor.
+
+Indian universities can organize that exercise as the **Sanskrit Radiance Mapping Project**, *A Dhātupāṭha and Vyutpatti Analysis of Reconstructed PIE Families*. Sanskrit departments can begin with the *Dhātupāṭha* and the lineage-preserved fivefold method of *vyutpatti*. Scholars of Greek, Latin, Persian, and other receiving languages can supply their recorded word-families, while computational linguistics departments test whether the same transformations recur across hundreds and then thousands of words.
+
+Repeating the exercise word-family by word-family can show where Sanskrit's radiance entered Greek, Latin, and other receiving languages and how those languages reshaped it through vivimorphosis.
 
 The method can be repeated:
 
-1. Place a recorded Greek, Latin, Persian, or other word-family beside the starred reconstruction currently assigned to it.
-2. Search the *Dhātupāṭha* for Sanskrit atoms that fit both sound and meaning.
-3. Derive the Sanskrit molecules under stated Sanskrit rules.
-4. Apply the fivefold *vyutpatti* method to the receiving-language forms, identifying each sound added, moved, changed, or lost and tracing the semantic relation to the Sanskrit *dhātu*.
-5. Compare the result across several languages, looking for recurring transformations and routes through which Sanskrit's radiance could have traveled.
-6. Publish the strong cases together with the weak cases, counterexamples, and unresolved words.
+1. Begin with the starred PIE image and the meaning assigned to it.
+2. Gather the recorded Greek, Latin, Persian, Germanic, or other forms one language at a time, preserving their original scripts where available.
+3. Render the approximate pronunciation of each form in Devanagari so that its sounds can be placed against the *varṇamālā*.
+4. Search the *Dhātupāṭha* for a Sanskrit atom that fits both sound and meaning, and locate its Vedic forms before turning to later documentation.
+5. Map the consonants by **स्थान (*sthāna*)**, voicing, aspiration, closure, and effort. Map the vowels separately.
+6. Bring in Pāṇini where he documents the corresponding Sanskrit operation. Bring in Hemacandra where his Prakrit or Apabhraṃśa evidence clarifies a natural transformation.
+7. Apply the fivefold *vyutpatti* method to identify each sound added, moved, changed, or lost and to trace each semantic extension back to the Sanskrit atom.
+8. Compare the result across several families and identify a plausible route through which Sanskrit's radiance could have traveled.
+9. Publish the strong cases together with the weak cases, counterexamples, and unresolved sounds or meanings.
 
 The sound correspondences, cognate tables, etymological dictionaries, inscriptional corpora, and university departments already supply the material. Indian scholars can turn that machinery around and map two fields: the orbital field bound by Sanskritic gravity, and the radiance-field where Sanskritic reflections traveled outward and then drifted.
 
 The *Dhātupāṭha* stands as a scientific object — an inventory of semantic atoms in ten *gaṇāḥ*, modelable and testable against the regular *apaśabda* generation in the Indic *prākṛtika* languages and in the Indo-European contact-family; the *Aṣṭādhyāyī*, as engineering documentation — formal compression and generative reach the computational community has been quietly using while the philological community arrived late; the recitation lineages, as living evidence — the eleven *pāṭhas* running as an error-detecting code in parallel across Kerala, Maharashtra, Tamil Nadu, Kashmir, and the northern plains, producing phonetic constants across thousands of years.
 
-The Brāhmī thesis becomes testable by engineering content rather than corridor-of-origin chronology — stone preserves the pyramid; it does not preserve the notebook — and the harder question stands ready: whether Brāhmī or its precursor rode Wave 1 outward, leaving the corridor scripts a diminished reflection of an Indic audiographic logic (Appendix Part 3 §§3.5–3.6). And the language factory proves productivity directly: Sanskrit's architecture, run on a Japanese-substrate phoneme inventory, generates a working constructed language. The architecture is not merely descriptive; it is productive.
+The Brāhmī thesis becomes testable by engineering content rather than corridor-of-origin chronology — stone preserves the pyramid; it does not preserve the notebook — and a harder investigation can begin: whether Brāhmī or its precursor rode Wave 1 outward, leaving the corridor scripts a diminished reflection of an Indic audiographic logic (Appendix Part 3 §§3.5–3.6). And the language factory proves productivity directly: Sanskrit's architecture, run on a Japanese-substrate phoneme inventory, generates a working constructed language. The architecture is not merely descriptive; it is productive.
 
 The schools can end the dead-language inversion too: post-independence pedagogy taught Sanskrit as Europe taught Latin — a relic parsed for examination — while the imaginary ancestor was given explanatory life. Sanskrit is alive as calibrant, recitation, grammar, and generative capacity. PIE was never alive.
 
-Not every question has been answered, and the ocean has not been fully turned. But the churn stands, the rope is in reach, and the nectar comes up on the side of Sanskrit.
+Much of the ocean remains to be turned. The churn stands, the rope is in reach, and the nectar comes up on the side of Sanskrit.
 
 The nectar rises when the churn turns toward the Sun. Which side receives it depends on the architecture doing the churning.
 

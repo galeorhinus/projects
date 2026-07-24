@@ -240,7 +240,7 @@
 - 18.6 Kin, Kind, King: the Dictionary Shift
 - 18.7 *Pratibimba*
 - 18.8 PIE Is a Lie — *Asura*
-- 18.9 Being and Becoming
+- 18.9 Mapping Sanskrit's Radiance
 
 ---
 

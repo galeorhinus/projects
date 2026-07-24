@@ -270,71 +270,128 @@ The *apaśabda* *ahura* anchors the central theological vocabulary of the Zoroas
 
 **Process across all three vivimorphosis stages:** *apabhraṃśa* / vivimorphosis. **What IE philology treats as reconstructed ancestry:** the bottom row — the *apaśabdas*. **The seed (*bīja*) is the missing middle.** The adversary-word — *a-sura*, the un-shining, the privative of ⟪सुर्⟫'s shining one — sits on the same Sanskrit form and takes no part in this chain; Chapter 3 §3.6 holds the two words apart.
 
-## 18.9 Being and Becoming
+## 18.9 Mapping Sanskrit's Radiance
 
-A Latin student learns ***sum, esse, fuī, futūrus*** as the principal parts of a single verb: "to be." The sequence begins with ***s- / es-*** and then switches to ***fu-***. Latin grammar calls the verb irregular and asks the student to memorize the change. Sanskrit preserves the architecture behind it.
+Vivimorphosis occurs when Sanskrit's radiance reaches another speech-field. A Sanskrit atom enters a naturally changing language, and that language grows its own words from what it received. The atom remains invariant in Sanskrit while its reflection changes elsewhere.
 
-### Sanskrit Preserves Two Atoms
+Comparative philology reverses that movement. It gathers the changed forms, constructs a starred PIE image from them, and places that image above Sanskrit as an ancestor. The **Sanskrit Radiance Mapping Project** reverses the projection. It begins with the pyramid's starred image, examines every recorded form one language at a time, and then places the results beside the recorded Sanskrit atom.
 
-The *Dhātupāṭha* gives being and becoming two semantic atoms:
+### Begin with the Starred Yoke
 
-- **⟪अस्⟫ (*as*) — असँ भुवि (*asaṃ bhuvi*)**: to be, to exist. Its forms include **अस्ति (*asti*, "is")**, **आसीत् (*āsīt*, "was")**, **अस्तु (*astu*, "let it be")**, and **स्यात् (*syāt*, "may it be")**.
-- **⟪भू⟫ (*bhū*) — भू सत्तायाम् (*bhū sattāyām*)**: to be, to become, to come into being. Its forms include **भवति (*bhavati*, "becomes / is")**, **बभूव (*babhūva*, "became / came into being")**, **भूतः (*bhūtaḥ*, "become / having been")**, and **भविष्यति (*bhaviṣyati*, "will be")**.
+Comparative philology reconstructs **\*yeug- / \*yug-**, assigns it the meaning "join" or "yoke," and treats it as the source of the following family. The Devanagari column renders the approximate sound of each form so that an Indic reader can place it against the *varṇamālā*. The original forms remain in the preceding column, while the Devanagari forms serve only as sound-maps.[NOTE: yuj-bhr-radiance-method]
 
-Their meanings touch, but Sanskrit does not collapse them. **⟪अस्⟫** supplies forms of standing existence, while **⟪भू⟫** gives grammatical form to becoming, arising, and prospective being. Ṛgveda 10.129 uses both within the same sūkta. Its first mantra says that neither non-being nor being **आसीत् (*āsīt*, "was")** then; its sixth asks **यत् आ बभूव (*yat ā babhūva*)**, what "came into being." The distinction was operating in the Veda long before Pāṇini documented it.[NOTE: as-bhu-being-paradigm]
+| Language or account | Original form | Approximate Devanagari rendering | Basic meaning |
+|---|---|---|---|
+| PIE image | **\*yeug- / \*yug-** | **\*येउग् / \*युग्** | join, yoke |
+| Greek | **ζυγόν (*zygon*)** | **ज़ुगोन** | yoke |
+| Latin | ***iugum*** | **युगुम्** | yoke |
+| Gothic | **𐌾𐌿𐌺 (*juk*)** | **युक्** | yoke |
+| English | ***yoke*** | **योक्** | yoke |
+| Sanskrit | **युज्, युग, युक्त, योग (*yuj, yuga, yukta, yoga*)** | original Devanagari | join, yoke, joined, union |
 
-Pāṇini later states the relationship in three syllables:
+The *varṇamālā* gives us the terms for comparing these sounds. Latin, Gothic, and English begin near **तालव्य अन्तःस्थ य (*tālavya antaḥstha ya*, the palatal glide)**, although Latin writes that sound with **i**. Greek begins with **ζ**, whose pronunciation changed across Greek periods and cannot be placed at one Sanskrit coordinate without qualification. At the other end of the word, Greek and Latin close at **कण्ठ्य घोष अल्पप्राण ग (*kaṇṭhya ghoṣa alpaprāṇa ga*, velar, voiced, unaspirated)**. Gothic and English close at the adjoining **कण्ठ्य अघोष अल्पप्राण क (*kaṇṭhya aghoṣa alpaprāṇa ka*, velar, unvoiced, unaspirated)**.
 
-> अस्तेर्भूः ॥ २.४.५२ ॥
->
-> ***Padaccheda:*** अस्तेः । भूः ॥
->
-> ***Translation:*** In the specified *ārdhadhātuka* formations, **⟪भू⟫** replaces **⟪अस्⟫**.
+The vowels can be located in the same way. Latin and Gothic use a sound close to **ओष्ठ्य उ (*oṣṭhya u*, labial *u*)**, while English *yoke* begins near **कण्ठोष्ठ्य ओ (*kaṇṭhoṣṭhya o*, produced with the throat and lips)**. Greek **υ** combines a tongue position near **तालव्य इ (*tālavya i*)** with rounded lips associated with **ओष्ठ्य उ**. Sanskrit has no vowel at that exact coordinate, which is why **उ** in the Devanagari rendering remains an approximation rather than an equation.
 
-The commentaries illustrate the rule with **भविता (*bhavitā*)**, **भवितुम् (*bhavitum*)**, **भवितव्यम् (*bhavitavyam*)**, **बभूव (*babhūva*)**, and **भविष्यति (*bhaviṣyati*)**. Sanskrit therefore preserves two atoms, uses each where its architecture requires it, and explicitly documents the connection between them.
+The Sanskrit row contains more than another recorded outcome. The *Dhātupāṭha* lists **⟪युज्⟫ (*yuj*)**, the atom for joining or yoking, and the Vedic domain already displays the three closing consonants:
 
-### Latin Joins Them
+> **युञ्जन्ति (*yuñjanti*)** — "they yoke" — Ṛgveda 1.6.1\
+> **युगा (*yugā*)** — "the yokes" — Ṛgveda 10.101.3\
+> **युक्त (*yukta*)** — "yoked, joined" — Ṛgveda 10.102.9
 
-Latin brings the two Sanskrit fields into one verb:
+The pyramid's starred image combines sounds found across the recorded languages and installs that combination as their ancestor. Sanskrit preserves those relationships inside one recorded and generative family.
 
-| Latin forms | Place in the Latin verb | Sanskrit atom visible in the forms |
+### Map the Consonants
+
+Sanskrit's engineering begins with the anatomy of speech. The *varṇamālā* places each sonomer at a coordinate determined by **स्थान (*sthāna*, place of articulation)** and **प्रयत्न (*prayatna*, articulatory effort)**. When pronunciation requires a sound to move, Sanskrit snaps it to a defined coordinate rather than leaving the outcome to drift.
+
+| Sanskrit form | Sonomer | Indic description |
 |---|---|---|
-| ***sum, es, est, esse, eram, erō*** | present, infinitive, imperfect, and future systems | **⟪अस्⟫ (*as*)** |
-| ***fuī, fueram, fuerō, futūrus*** | perfect system and future participle | **⟪भू⟫ (*bhū*)** |
+| **युज् (*yuj*)** | **ज (*j*)** | **तालव्य (*tālavya*, palatal), घोष (*ghoṣa*, voiced), अल्पप्राण (*alpaprāṇa*, unaspirated)** |
+| **युग (*yuga*)** | **ग (*g*)** | **कण्ठ्य (*kaṇṭhya*, velar), घोष, अल्पप्राण** |
+| **युक्त (*yukta*)** | **क (*k*)** | **कण्ठ्य, अघोष (*aghoṣa*, voiceless), अल्पप्राण** |
 
-The Latin dictionary entry prints the switch directly: ***sum, esse, fuī, futūrus***. A Latin grammar also places Sanskrit ***asmi / asti*** beside Latin ***sum / est*** and identifies Latin ***fu- / fut-*** with the same family as Greek ***ἔφυ (*ephu*)*** and English ***be***. Greek keeps the two families more visibly apart: **ἐστί (*esti*, "is")** belongs with **⟪अस्⟫**, while **φύω (*phuō*, "bring forth / grow")**, **ἔφυ (*ephu*, "grew / became")**, and **φύσις (*physis*, "origin / nature")** belong with **⟪भू⟫**.[NOTE: as-bhu-being-paradigm]
+The movement from **ज** to **ग** changes the place of articulation from **तालव्य** to **कण्ठ्य** while preserving voicing and aspiration. The movement from **ग** to **क** remains **कण्ठ्य** and unaspirated while changing from **घोष** to **अघोष**. Pāṇini later documents these coordinate movements under their Sanskrit conditions through **चोः कुः (*coḥ kuḥ*, 8.2.30)** and **खरि च (*khari ca*, 8.4.55)**. A grammatical derivation can therefore show **सुयुज् → सुयुग् → सुयुक् (*suyuj → suyug → suyuk*)** without leaving Sanskrit's articulated grid.[NOTE: yuj-bhr-radiance-method]
 
-[FIGURE 18.8: Sanskrit preserves **⟪अस्⟫** and **⟪भू⟫** as two atoms and documents their relationship; Latin joins their reflections inside ***sum, esse, fuī, futūrus***.]
+Naturally changing languages use the same human mouth even though no engineered calibrant governs where a changing sound must settle. Repeated pronunciation can move a sound toward another coordinate without a grammatical rule announcing the operation. Greek and Latin settle the closing consonant at voiced **कण्ठ्य ग**; Gothic and English settle it at voiceless **कण्ठ्य क**. The *varṇamālā* shows the physical relationship among those outcomes.
 
-### Apply the Fivefold Method
+### Map the Vowels
 
-Sanskrit's method of **व्युत्पत्ति (*vyutpatti*)** lets the comparison proceed through recorded forms. **वर्णागम (*varṇāgama*)** adds a sound; **वर्णविपर्यय (*varṇaviparyaya*)** changes its position; **वर्णविकार (*varṇavikāra*)** changes its form; and **वर्णनाश (*varṇanāśa*)** removes it. The fifth operation traces the resulting meaning back to the *dhātu*, allowing semantic extension without severing the relation.[NOTE: vyutpatti-fivefold-method]
+The vowels require a separate comparison because the movement of a vowel cannot be inferred from the consonant beside it.
 
-The method is stated in two lines:
+| Family members | Vowel |
+|---|---|
+| Sanskrit **युज्, युग, युक्त**; Latin **युगुम्**; Gothic **युक्** | **उ (*u*)** |
+| Sanskrit **योग**; English **योक्** | **ओ (*o*)** |
+| Greek **ज़ुगोन** | Greek **y**, requiring its own historical analysis |
+
+Sanskrit governs the relation between **उ (*u*)** and its *guṇa* form **ओ (*o*)** within the generated **⟪युज्⟫** family. The lineage derives **योग (*yoga*)** from **⟪युज्⟫** by applying that vowel relation together with the corresponding change from **ज** to **ग**. Pāṇini later documents those operations; the family already appears in the Vedic domain.[NOTE: yuj-bhr-radiance-method]
+
+Greek **y** requires its own historical analysis before it can be placed against an Indic vowel. The *varṇamālā* organizes the comparison while also showing where further explanation remains necessary.
+
+### Trace the Meaning
+
+The semantic comparison is unusually clear. Every language remains within joining and yoking. Sanskrit also generates *yoga*, "joining or union," and *yuga*, a yoke or joined span that can extend to an age. The foreign forms preserve narrower branches of a semantic field that remains visibly generative in Sanskrit.
+
+The fivefold method of **व्युत्पत्ति (*vyutpatti*)** preserved by the lineage gives this analysis a repeatable form. **वर्णागम (*varṇāgama*)** records the addition of a sound; **वर्णविपर्यय (*varṇaviparyaya*)** records a change in position; **वर्णविकार (*varṇavikāra*)** records a change in form; and **वर्णनाश (*varṇanāśa*)** records a loss. The fifth operation connects an extended meaning to the meaning of the atom. A family need not use all five operations. In the yoke family, **वर्णविकार** describes the principal sound movements, while the fifth operation explains extensions such as *yoga* and *yuga*.[NOTE: vyutpatti-fivefold-method]
+
+The lineage preserves the method in this formula:
 
 > वर्णागमो वर्णविपर्ययश्च द्वौ चापरौ वर्णविकारनाशौ ।\
 > धातोस्तदर्थातिशयेन योगस्तदुच्यते पञ्चविधं निरुक्तम् ॥
 >
-> ***Padaccheda:*** वर्ण-आगमः । वर्ण-विपर्ययः । च । द्वौ । च । अपरौ । वर्ण-विकार-नाशौ । धातोः । तत्-अर्थ-अतिशयेन । योगः । तत् । उच्यते । पञ्च-विधम् । निरुक्तम् ॥
->
-> ***Word by word:*** **वर्ण-आगमः (*varṇa-āgamaḥ*)** — addition of a sound; **वर्ण-विपर्ययः (*varṇa-viparyayaḥ*)** — transposition of a sound; **च (*ca*, twice)** — and; **द्वौ (*dvau*)** — two; **अपरौ (*aparau*)** — two others; **वर्ण-विकार-नाशौ (*varṇa-vikāra-nāśau*)** — sound-modification and sound-loss; **धातोः (*dhātoḥ*)** — of the *dhātu*; **तत्-अर्थ-अतिशयेन (*tat-artha-atiśayena*)** — through an extension of its meaning; **योगः (*yogaḥ*)** — connection; **तत् उच्यते (*tat ucyate*)** — that is called; **पञ्च-विधम् निरुक्तम् (*pañca-vidham niruktam*)** — fivefold *nirukta*.
->
-> ***Translation:*** Addition and transposition of sounds are two operations; modification and loss are the other two. The fifth connects the resulting form to an extended meaning of the *dhātu*. This is called fivefold *nirukta*.
+> Addition and transposition of sounds are two operations; modification and loss are the other two. The fifth connects the resulting form to an extended meaning of the *dhātu*. This is called fivefold *nirukta*.
 
-Place the recorded forms beside one another:
+### Repeat the Mapping
 
-| Sanskrit | Greek | Latin | Visible operations |
+Students can now apply the same method to another starred PIE image. Each analysis begins with the pyramid's reconstruction, gathers the recorded forms one language at a time, renders their approximate sounds in Devanagari, and maps their consonants and vowels against the Sanskrit sound-grid. Pāṇini enters where he documents a controlled Sanskrit operation. Hemacandra enters where his analysis of Prakrit or Apabhraṃśa clarifies a recurring natural transformation. Other Indic disciplines enter when they provide the relevant evidence.
+
+| Stage | Record |
+|---|---|
+| PIE image | The starred reconstruction and its assigned meaning |
+| Sanskrit atom | The corresponding *Dhātupāṭha* entry |
+| Vedic evidence | Recorded forms from the Vedic domain |
+| Receiving languages | Original forms, meanings, and sources |
+| Devanagari rendering | An approximate pronunciation for each form |
+| Consonant map | **Sthāna**, voicing, aspiration, closure, and effort |
+| Vowel map | Each vowel outcome considered separately |
+| Indic documentation | Pāṇini, Hemacandra, a *Prātiśākhya*, or another relevant source |
+| Fivefold analysis | Addition, transposition, modification, loss, and semantic extension |
+| Radiance route | The path through which Sanskrit's radiance could have reached the receiving language |
+| Result | A strong, partial, weak, or unresolved mapping |
+
+The grid shows which movements the mouth can make. A convincing map must also connect a recorded Sanskrit atom with its generated family, preserve the semantic relation, find the same transformations across other families, and identify a plausible path of transmission.
+
+### Test a Second Physical Route
+
+The pyramid places **\*bher-** above another recorded family:
+
+| Language or account | Original form | Approximate Devanagari rendering | Basic meaning |
 |---|---|---|---|
-| **⟪अस्⟫ (*as*)**, **अस्ति (*asti*)** | **ἐστί (*esti*)** | ***est, esse*** | ***a*** changes to ***e***; Latin drops the final ***i*** of the finite form or adds its own infinitive ending |
-| **⟪भू⟫ (*bhū*)** | **φύω (*phuō*)**, **ἔφυ (*ephu*)** | ***fuī, futūrus*** | the voiced aspirated labial ***bh*** changes to Greek ***ph*** or Latin ***f***; ***ū*** shortens; each receiving language adds its own endings |
+| PIE image | **\*bher-** | **\*भेर्** | bear, carry |
+| Greek | **φέρειν (*pherein*)** | **फेरेइन** | bear, carry |
+| Latin | ***ferre*** | **फेरे** | bear, carry |
+| Old English / English | ***beran / bear*** | **बेरन् / बेर** | bear, carry |
+| Sanskrit | **भृ, बिभर्ति, भरति (*bhṛ, bibharti, bharati*)** | original Devanagari | bear, carry, sustain |
 
-The fivefold method states each sound change while keeping the semantic relation visible: the ***as / es*** family remains associated with being, and the ***bhū / phu / fu*** family with becoming or coming into being. Latin combines both families inside one verb, so the learner must memorize the point at which its paradigm switches from one to the other.
+Ṛgveda 7.87.4 uses **बिभर्ति (*bibharti*)** from **⟪भृ⟫ (*bhṛ*)**. The Vedic word places unaspirated **ब (*b*)** beside aspirated **भ (*bh*)**, showing that Sanskrit controls aspiration independently inside one generated form. Pāṇini later documents the repeated element as **अभ्यास (*abhyāsa*)**; he does not introduce it.[NOTE: yuj-bhr-radiance-method]
 
-The pyramid inserts **\*h₁es-** and **\*bʰuH-** above the recorded languages and describes the Latin switch as inherited suppletion. That move supplies imaginary chronology while leaving the switch unexplained. Sanskrit already preserves the two sound-bearing atoms, their semantic relation, their Vedic use, and the rule that connects them. The starred forms are the Sanskrit atoms repackaged as ancestors.
+The principal consonants remain in the labial region while voicing, aspiration, and closure change. Sanskrit **भ** is **ओष्ठ्य (*oṣṭhya*, labial)**, voiced, and aspirated. Greek **ph** is an aspirated labial; Latin **f** is a voiceless labiodental fricative; and Old English **b** is voiced and unaspirated. Hemacandra records comparable instability of aspirated stops in naturally changing Indic languages, including *mukha → muha*, *megha → meha*, and *svabhāva → sahāva*. His rule explains the Prakrit forms he documents. The Radiance project can test whether the same physical tendencies recur across the Greek, Latin, and Germanic families.[NOTE: yuj-bhr-radiance-method]
 
-**Appendix Part 1 — *Baking the Mother Tongue*** shows the same recipe across further *dhātus*: the institutional cartel that ran the bake across the nineteenth century, the colonial Sanskrit-knowledge pipeline that fed it, and the reference pages where one Sanskrit semantic field becomes two or three imaginary ancestors. The worked case here supplies the method, and the appendix shows how often the operation recurs.
+The Sanskrit family distributes **ऋ, इ,** and **अ (*ṛ, i,* and *a*)**, while the Greek, Latin, and Old English forms use **e** and modern English uses the vowel written **ea**. A complete account must map those vowels individually. This shorter case maps the consonants and leaves the vowel route explicitly unresolved.
 
-The triad locks into place: the calibrant operates as the engineered original, calibrant contact serves as the process, and the *Pratibimba* remains what the calibrated language holds afterward. Where philology under the descent assumption treated the systematic correspondences as evidence of a vanished common ancestor, the calibrant account identifies the same correspondences as evidence of a shared *Pratibimba*—reflections of a single calibrant footprint, refracted through the internal histories of each contacted language. While the correspondences have not changed, the explanation has. By assembling an imaginary ancestor out of the average of the *Pratibimbas*, philology misrepresents a summary statistic as a source, whereas the Vedic account points the other way: formed Speech first, reflections afterward.
+### Return to Birth
+
+Section 18.6 traced **⟪जन्⟫ (*jan*)** through Greek and Latin ***gen-*** and Germanic ***kin, kind,* and *king***. The yoke family has now demonstrated the relevant sonomer path through **ज → ग → क (*j → g → k*)**. The birth family reveals its scale. Sanskrit generates *janana, janma, jana, janaka,* and *jāti* from one atom, preserving generation, birth, person, people, parenthood, and kind inside one semantic architecture. The receiving languages grow their own botanical families from that field.
+
+That program now has a name:
+
+> **The Sanskrit Radiance Mapping Project**\
+> *A Dhātupāṭha and Vyutpatti Analysis of Reconstructed PIE Families*
+
+Indian universities can place the reconstructed inventory beside the *Dhātupāṭha* and repeat the mapping across Greek, Latin, Persian, Germanic, and other receiving languages. **⟪युज्⟫** teaches the complete method, **⟪भृ⟫** tests a second physical route, and **⟪जन्⟫** shows how large one mapped family can become. Appendix Part 1 extends the comparison across further atoms.
+
+The mapping restores a three-stage sequence. Sanskrit operates as the engineered calibrant; contact carries its radiance into another speech-field; and the receiving language develops a *Pratibimba* through its own natural history. Comparative philology observes correspondences among those reflections and, because it assumes descent, averages them into a vanished common ancestor. The calibrant account explains the same correspondences as reflections of one Sanskritic radiance-field. The evidence remains the same, but the movement runs in the other direction: formed Speech first, reflections afterward.
 
 Sanskrit as calibrant. The natural languages of Central and West Asia as calibrated. Their *Pratibimba* projected backward by nineteenth-century European philologists as PIE.
 

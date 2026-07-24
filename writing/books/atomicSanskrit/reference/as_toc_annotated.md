@@ -230,7 +230,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 17.7 An Honest Speculation for the Rationalist Mind — *The calibrated alternative for the mind that cannot accept* apauruṣeya.
 - 17.8 Pāṇini Praised, Architecture Erased — *The heroic-erasure close: Pāṇini's greatness granted, then reclassified as decoding.*
 
-**Chapter 18 — PIE in the Sky** — *The case against PIE. The bookkeeping defense is rejected; the asterisk is denied ancestor-status; the recipe is shown through* kṛt, jan, asura, *and* dṛś. *PIE is in the sky. The architecture is on the ground.*
+**Chapter 18 — PIE in the Sky** — *The case against PIE. The bookkeeping defense is rejected; the asterisk is denied ancestor-status; the recipe is shown through* kṛt, jan, asura, yuj, *and* bhṛ. *PIE is in the sky. The architecture is on the ground.*
 
 - 18.1 Schleicher's Bake — *Opening anecdote; the asterisk convention; the conlang comparison (Quenya, Klingon).*
 - 18.2 The Bookkeeping Defense — *Why methodological openness cannot save the construct.*
@@ -240,7 +240,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 18.6 Kin, Kind, King: the Dictionary Shift — *The* jan / \*ǵenh₁ *case: the star moves into the source slot and Sanskrit is demoted into the cognate list.*
 - 18.7 *Pratibimba* — *Vivimorphosis chains as arrow blockquotes; the calibrant /* Pratibimba *triad.*
 - 18.8 PIE Is a Lie — *Asura* — Asuraḥ *worked example with the* PIE is a Lie *escalation.*
-- 18.9 Being and Becoming — Sanskrit preserves ⟪अस्⟫ and ⟪भू⟫ as two atoms and documents their relationship; Latin joins their reflections inside *sum, esse, fuī, futūrus*.
+- 18.9 Mapping Sanskrit's Radiance — *The starred PIE yoke image is compared language by language with the recorded Sanskrit family; Devanagari sound-renderings, the* varṇamālā, *Pāṇini, Hemacandra, and fivefold* vyutpatti *become a repeatable student method before the chapter tests* bhṛ *and returns to* jan.
 
 ---
 
