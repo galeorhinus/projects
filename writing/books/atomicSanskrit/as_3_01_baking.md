@@ -98,7 +98,7 @@ The recipe leaves residue. The residue sits in the ecosystem's own reference pag
 
 Sanskrit provides unified semantic atoms and also documents the relationships among their sound-forms. PIE reconstruction takes the recorded words in several languages, reconstructs a starred form from their correspondences, and places that form above the Sanskrit atom. The first three cases apply the Sanskrit method demonstrated in Chapter 18. The remaining cases show the reconstruction splitting semantic fields that Sanskrit keeps together.
 
-Chapter 18 turns that comparison into a student exercise. Begin with the PIE image, list the recorded forms one language at a time, and render their approximate sounds in Devanagari. The consonants can then be placed by **स्थान (*sthāna*, articulatory position)** and **प्रयत्न (*prayatna*, articulatory effort)**, while the vowels and meanings receive separate analyses. Pāṇini belongs in a case when he documents the corresponding Sanskrit operation. Hemacandra belongs when his Prakrit or Apabhraṃśa evidence clarifies a natural transformation. Their documentation should appear only where it applies.
+Chapter 18 turns that comparison into a student exercise. Begin with the PIE image, list the recorded forms one language at a time, and render their approximate sounds in Devanagari. The consonants can then be placed by **स्थान (*sthāna*, articulatory position)** and **प्रयत्न (*prayatna*, articulatory effort)**, while the vowels and meanings receive separate analyses. Pāṇini belongs in a case when he documents the corresponding Sanskrit operation. Hemacandra belongs when his Prakrit or Apabhraṃśa evidence clarifies a natural transformation. Their documentation should appear only where it applies. The fivefold *vyutpatti* method comes from Sanskrit word-analysis; the Radiance project extends its categories to receiving languages and establishes direction through repeated families and routes of contact.
 
 ### Case 1 — ⟪युज्⟫ (*yuj*), to join or yoke
 
@@ -124,9 +124,9 @@ The vowels can be read separately. Sanskrit **युज्, युग,** and **�
 | Old English / English | ***beran / bear*** | **बेरन् / बेर** | bear, carry |
 | Sanskrit | **भृ, बिभर्ति, भरति** | original Devanagari | bear, carry, sustain |
 
-Ṛgveda 7.87.4 uses **बिभर्ति (*bibharti*)**. The Vedic form places unaspirated **ब (*b*)** beside aspirated **भ (*bh*)**, showing that Sanskrit controls aspiration as an independent feature inside the design. Pāṇini later documents the repeated element as **अभ्यास (*abhyāsa*)**. Hemacandra records aspirated stops changing in Prakrit under stated conditions.[NOTE: yuj-bhr-radiance-method]
+Ṛgveda 7.87.4 uses **बिभर्ति (*bibharti*)**. The Vedic form places unaspirated **ब (*b*)** beside aspirated **भ (*bh*)**, showing that Sanskrit controls aspiration as an independent feature inside the design. Pāṇini later documents the repeated element as **अभ्यास (*abhyāsa*)**. Hemacandra records another outcome in Prakrit: aspirated stops can move toward **h** under stated conditions.[NOTE: yuj-bhr-radiance-method]
 
-The receiving forms remain in the labial region while voicing, aspiration, and closure change: Sanskrit **भ**, Greek **ph**, Latin **f**, and Germanic **b**. Hemacandra's evidence explains the Prakrit transformations he records; it does not directly derive the Greek or Latin forms. The student exercise must map the Sanskrit **ऋ / इ / अ** and the foreign **e** vowels separately before reaching a conclusion about the full family.
+The receiving forms remain in the labial region while voicing, aspiration, and closure change: Sanskrit **भ**, Greek **ph**, Latin **f**, and Germanic **b**. Hemacandra's **bh → h** evidence explains the Prakrit transformations he records; it does not derive the Greek **ph**, Latin **f**, or Germanic **b**. The student exercise must map each receiving-language movement independently. It must also map the Sanskrit **ऋ / इ / अ** and the foreign **e** vowels separately before reaching a conclusion about the full family.
 
 ### Case 3 — ⟪जन्⟫ (*jan*), to generate or be born
 

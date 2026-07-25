@@ -118,4 +118,7 @@ Claude's deep-research pass (104 agents, 25 claims adversarially verified) is fo
 
 **Source-grade backing Claude supplies for the deployed text:** 8.2.30 चोः कुः and 8.4.55 खरि च verified verbatim (GRETIL Aṣṭādhyāyī / Kāśikā), with worked examples भज्→भक्त (velar row) and लभ्→लप्स्यति (labial); *bʰer-*, *ǵenh₁-*, *steh₂-* confirmed (Wiktionary — spot-check vs Pokorny/LIV/de Vaan/Beekes before print). **Cite the worked examples, not the abstract "devoicing-and-deaspiration" gloss of 8.4.55** (that abstract formulation verified only 1-2). Full ledger in the Claude report.
 
-**One check still owed:** confirm the deployed §18.9 and App1 §1.5 text does not (a) assert a Hemacandra parallel for the yuj/bhṛ/jan sound-paths, or (b) let layer D read as an established conclusion. Claude to spot-check the live chapter text against these two guardrails.
+**Live-text check completed 2026-07-24.** Chapter 18 §18.9, Appendix Part 1, and endnote `yuj-bhr-radiance-method` now make both boundaries explicit:
+
+1. Hemacandra's Prakrit evidence records aspirated stops moving toward **h**. It is presented as a different natural outcome and does not serve as a rule for Greek **ph**, Latin **f**, or Germanic **b**.
+2. The lineage's fivefold *vyutpatti* method belongs to Sanskrit word-analysis. The Sanskrit Radiance Mapping Project openly extends its categories to receiving languages and requires repeated families and plausible contact routes to establish historical direction.
