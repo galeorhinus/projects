@@ -90,6 +90,15 @@ Intermingle. All-verdict feels like a slogan deck; all-topic feels like a survey
 
 - **Plain statements before compressed figurative substitutes.** State directly what a reader knows, believes, sees, has been taught, or must infer. Spatial and material metaphors such as *the sentence the reader arrives with*, *the argument opens onto*, *the claim stands inside*, *the evidence carries us toward*, and *the question belongs to a wider margin* force the reader to decode a relationship that ordinary prose can state immediately. *This is the sentence the reader most likely arrives with* becomes *This is the account most readers have already been taught.* Keep figurative language when the image itself advances the argument, never as shorthand for an omitted cognitive or causal statement. Clarity and full articulation take precedence over literary compression.
 
+- ***Arrive / arrives / arrived* requires literal movement.** Do not make a
+  passage, category, rule, claim, matrix, or item of evidence *arrive* as
+  shorthand for being taught, transmitted, introduced, applied, or inferred.
+  State the actor and operation: exact transmission preserves a passage's
+  sequence; a curriculum teaches categories before presenting evidence. Keep
+  *arrive* for literal movement, for a personal scene in which a phrase genuinely
+  comes to mind, and when reporting the pyramid's claim that Sanskrit supposedly
+  arrived from outside India.
+
 - **Conjunctions when the relation would otherwise stay unclear.** Then build the layered period whose form shows the structure: *because, since, while, although, by …-ing, so that*, relative and appositive expansions. Not *"A broken word can break the meter. A misplaced accent can break the chant. The channels check one another."* but *"Because a broken word breaks the meter and a misplaced accent breaks the chant, the channels cross-check one another."*
 
 - **Connect, don't stack or overpack.** Avoid short-verdict runs (*X. Y. Z.*), anaphora triples as texture, and standalone one-line pivot paragraphs. Rebuild the omitted relationship in as many sentences as the explanation needs; do not force every stack into one overloaded period. *"Drift before Pāṇini. Freeze after Pāṇini."* can become *"The pyramid assigns natural drift to the period before Pāṇini. It then makes his grammar the external authority that supposedly froze the language, thereby splitting one continuous architecture into two false categories."*

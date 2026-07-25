@@ -3,7 +3,7 @@
 ## A Dhātupāṭha and Vyutpatti Analysis of Reconstructed PIE Families
 
 **Status:** Active proposal  
-**Book deployment:** Chapter 18 §18.7 introduces the method; Appendix Part 1 §1.5 provides the reusable research record and worked cases; the Epilogue calls for institutional participation.
+**Book deployment:** Chapter 18 §18.7 introduces the method; Appendix Part 1 §1.5 provides the reusable research record and worked cases; the Epilogue calls for institutional participation. The parallel [upasarga mapping plan](as_sanskrit_radiance_upasarga_mapping_plan.md) extends the same method from Sanskrit atoms to the directional operators that accompany them.
 
 ## 1. Purpose
 
@@ -243,7 +243,9 @@ After the first hundred records stabilize the protocol, the project can extend t
 3. distinguish direct Sanskritic contact from transmission through intermediate languages;
 4. map Buddhist, mercantile, and other known radiance routes;
 5. compare the age and distribution of dictionaries that moved the asterisk above Sanskrit; and
-6. publish interactive sonomer maps that allow readers to inspect each transformation.
+6. publish interactive sonomer maps that allow readers to inspect each transformation;
+7. map Sanskrit upasargas against Greek, Latin, and other particles, prepositions, and preverbs; and
+8. test whether Sanskrit's radiance transmitted a productive operating system along with individual atoms and molecules.
 
 The reconstructed PIE corpus would then serve a new purpose: an indexed inventory of possible Sanskrit radiance.
 

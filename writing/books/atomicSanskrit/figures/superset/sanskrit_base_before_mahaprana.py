@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Figure 8.2 — Sanskrit's 23-cell Base · Mahāprāṇa Rows Held Aside.
+"""Figure 8.1 — Sanskrit's 23-cell Base · Mahāprāṇa Rows Set Aside.
 
 Single-language matrix showing Sanskrit's full consonantal inventory
-with the ten mahāprāṇa stop cells rendered as held-aside (faded tint
+with the ten mahāprāṇa stop cells rendered as set aside (faded tint
 + gray Devanāgarī letter + dashed outline).  Makes Chapter 8's
 comparison target visible before the seven surveys (§§8.6–8.8) begin.
 
@@ -156,7 +156,7 @@ def render() -> str:
     )
 
     # ---- Title + subtitle ----
-    title_text = f"Sanskrit's {n_base}-cell Base · Mahāprāṇa Rows Held Aside"
+    title_text = f"Sanskrit's {n_base}-cell Base · Mahāprāṇa Rows Set Aside"
     title_y = top_margin_s + title_h_s / 2 + 0.04 * outer_scale
     body.append(
         f'  <text x="{canvas_w/2:.4f}" y="{title_y:.4f}" '
@@ -172,7 +172,7 @@ def render() -> str:
         f'text-anchor="middle" dominant-baseline="middle" '
         f'font-size="{subtitle_font:.4f}" font-style="italic" '
         f'fill="{palette["data"]}" font-family="{font}">'
-        f'Heavy-breath stops held aside (faded) for the chapter’s comparison — '
+        f'Heavy-breath stops set aside (faded) for the chapter’s comparison — '
         f'<tspan font-style="normal" font-family="{DEVANAGARI_FONT}">'
         f'ख · छ · ठ · थ · फ and घ · झ · ढ · ध · भ</tspan></text>\n'
     )
@@ -188,7 +188,7 @@ def render() -> str:
 
     # Build the two chip+text entries
     entry_active_text = f"Base cells · {n_base}"
-    entry_held_text   = f"Held aside · {n_held}"
+    entry_held_text   = f"Set aside · {n_held}"
     header_font = SUBTITLE_FONT_SIZE * outer_scale
     width_active = chip_w + chip_gap + len(entry_active_text) * header_font * 0.55
     width_held   = chip_w + chip_gap + len(entry_held_text) * header_font * 0.55
@@ -366,7 +366,7 @@ def render() -> str:
         f'  <text x="{canvas_w/2:.4f}" y="{cap_y:.4f}" '
         f'text-anchor="middle" font-size="{caption_font:.4f}" font-style="italic" '
         f'fill="{palette["data"]}" font-family="{font}">'
-        f'Filled tile = lit cell · faded tile + dashed outline = held aside '
+        f'Filled tile = lit cell · faded tile + dashed outline = set aside '
         f'for §§8.6–8.8.</text>\n'
     )
 

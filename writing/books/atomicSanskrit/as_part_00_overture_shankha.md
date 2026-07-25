@@ -20,7 +20,7 @@
 
 \bigskip
 
-The Śaṅkha sounds inside a war already underway. Its note summons the people who preserved Sanskrit to act in its defense.
+The war is already underway when the Śaṅkha sounds. The call summons Sanskrit's caretakers to defend what they have preserved.
 
 At this threshold the eclipse remains intact. The conch announces that the caretakers are beginning to clear the shadow; the first plate will fall only after the argument begins.
 

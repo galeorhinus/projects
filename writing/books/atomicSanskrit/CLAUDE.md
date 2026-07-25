@@ -474,6 +474,15 @@ Explanatory passages use **causal expository prose**: identify the actors, show 
 
 **Prefer plain statements to compressed figurative substitutes.** When ordinary language can state what a reader knows, believes, sees, has been taught, or is being asked to infer, use that ordinary language. Do not replace it with a spatial or material metaphor that makes the reader decode the relationship: *the sentence the reader arrives with*, *the argument opens onto*, *the claim stands inside*, *the evidence carries us toward*, or *the question belongs to a wider margin*. Thus *This is the sentence the reader most likely arrives with* becomes *This is the account most readers have already been taught.* Figurative language remains welcome when the image itself advances the book's argument; it must not serve as shorthand for an omitted cognitive or causal statement. **Clarity and full articulation take precedence over literary compression.**
 
+***Arrive / arrives / arrived*** is banned when an abstract object is made to
+move as shorthand for a concrete act of teaching, transmission, introduction,
+application, or inference. A passage does not *arrive with its sequence fixed*;
+exact transmission preserves its sequence. Categories do not *arrive before the
+evidence*; a curriculum teaches the categories before presenting the evidence.
+Keep the verb for literal movement by people or objects, for a personal scene
+in which a phrase genuinely comes to mind, and when reporting the pyramid's
+claim that Sanskrit supposedly *arrived* from outside India.
+
 Do not turn an outline into prose by placing each point in its own short sentence. That compressed paratactic style can sound forceful while concealing the mechanism: *a deviation is heard; being heard, it is corrected*. Write the operation instead: the distributed community already holds the auditory measure, so it hears a deviation and corrects it as soon as it occurs. Causal language belongs inside the explanation; empty transitions such as *therefore* or *this is why* do not repair a missing mechanism.
 
 An established refrain may close a movement when the manuscript has already earned and repeated it, but a section needs no special closing device. Its final sentence should complete the explanation in the syntax natural to that thought.
