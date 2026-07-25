@@ -8,7 +8,7 @@
 
 1. **Sanskrit was engineered.** Its structure is ordered, stable, and endlessly productive — the signature of engineering, not of drift.
 
-2. **The Vedas preserve that engineering.** They are the primary acoustic corpus that holds the language's architecture.
+2. **The Vedas preserve that engineering.** They are the primary acoustic corpus that preserves the language's architecture.
 
 3. **Pāṇini did not codify Sanskrit.** He decoded and documented an already-operating system. His achievement is real; the category assigned to it is wrong.
 
@@ -58,7 +58,7 @@
 
 11. **Sanskrit builds words from smaller stable units without losing structure.** Sounds form constituents; constituents form words; words form sentences. The lower levels remain traceable inside the higher ones.
 
-12. **The *Dhātupāṭha* is an operating inventory.** It holds semantic units that enter classes, accept additions, and generate usable language.
+12. **The *Dhātupāṭha* is an operating inventory.** It lists semantic units that enter classes, accept additions, and generate usable language.
 
 13. **"Root," "stem," "letter," and "word" smuggle the wrong categories into Sanskrit's word-building.** The book uses new terminology in their place.
 
@@ -94,7 +94,7 @@
 
 26. **Sanskrit is a preserved and still-generative architecture.** Its category has been obscured.
 
-27. **India's civilizational responsibility remains central.** Sanskrit was preserved by a civilization, where neither codification nor authority could. How it holds without either is what the book demonstrates.
+27. **India's civilizational responsibility remains central.** Sanskrit was preserved by a civilization, where neither codification nor authority could. How it persists without either is what the book demonstrates.
 
 28. **The work now is recognition and transmission.** Once the category is corrected, the next task is to learn, teach, and preserve Sanskrit on its own terms.
 

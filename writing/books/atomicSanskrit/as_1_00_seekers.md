@@ -1,6 +1,6 @@
 # Chapter 0 — Zero, Seekers, and the Infinite
 
-*Draft v4. Setup chapter before Part I exposes how the shadow is cast. Eight sections; opens with the pūrṇam invocation, moves through seekers, the reader's existing Sanskrit, the saṃskṛta/prākṛta distinction, finite-input/unbounded-output systems, and the civilization that holds the language. Current pass: tone and cross-reference cleanup. Voice: authoritative, not yet prosecutorial. Hands off to Chapter 1's finite-oppressor frame.*
+*Draft v4. Setup chapter before Part I exposes how the shadow is cast. Eight sections; opens with the pūrṇam invocation, moves through seekers, the reader's existing Sanskrit, the saṃskṛta/prākṛta distinction, finite-input/unbounded-output systems, and the civilization that preserves the language. Current pass: tone and cross-reference cleanup. Voice: authoritative, not yet prosecutorial. Hands off to Chapter 1's finite-oppressor frame.*
 
 ---
 
@@ -20,7 +20,7 @@
 
 \bigskip
 
-The image places Sanskrit as the Sun: a radiant *svastika* holding *saṃskṛtam* संस्कृतम्, with *akṣaraḥ* अक्षरः, *varṇaḥ* वर्णः, *chandaḥ* छन्दः, and *dhātuḥ* धातुः held inside its form. The ledger beside it lists the seven qualities the eclipse will later obscure.
+The image places Sanskrit as the Sun: a radiant *svastika* bearing *saṃskṛtam* संस्कृतम्, with *akṣaraḥ* अक्षरः, *varṇaḥ* वर्णः, *chandaḥ* छन्दः, and *dhātuḥ* धातुः set within its form. The ledger beside it lists the seven qualities the eclipse will later obscure.
 
 ![Figure E.3 — Sanskrit-Sun. The positive ledger appears before the pyramid: wholly created, anti-entropic, self-correcting, sonomeric, audiographic, calibrant, and Vedic Matrix.](figures/eclipse_spine/eclipse_01_ch0_sanskrit_sun.svg){#fig:eclipse-ch0-sanskrit-sun width=100%}
 
@@ -56,7 +56,7 @@ A civilization that begins from *pūrṇam* approaches order through disciplined
 
 The Sanskrit word is *jijñāsā* (जिज्ञासा): the desire to know. The civilization's classical disciplines are organized around it. The *Mīmāṃsā* discipline opens with *athāto dharmajijñāsā* — *now, therefore, the inquiry into dharma*. The *Brahmasūtra* discipline opens with *athāto brahmajijñāsā* — *now, therefore, the inquiry into Brahman*. The disciplines begin as inquiries: operations to be performed, questions to be placed into disciplined order.
 
-The same disposition appears across domains. It built the place-value number system and the symbol *śūnya* शून्य for zero. It documented Ayurveda as a science of the body. It organized *Nyāya* into a formal discipline of inference. It established *Sāṃkhya* as an analysis of what exists. It held the recitation of the *Vedas* as a continuously-running operation across thousands of years.
+The same disposition appears across domains. It built the place-value number system and the symbol *śūnya* शून्य for zero. It documented Ayurveda as a science of the body. It organized *Nyāya* into a formal discipline of inference. It established *Sāṃkhya* as an analysis of what exists. It maintained the continuous recitation of the *Vedas* across thousands of years.
 
 These achievements share one source: a culture of *ṛṣis* ऋषि and *ṛṣikās* ऋषिका, *jijñāsus* जिज्ञासु and *muniśvaras* मुनीश्वर — seekers, inquirers, disciplined men and women whose work the civilization remembered without always remembering their names.
 
@@ -74,7 +74,7 @@ Sanskrit's engineering begins with a civilization already capable of the act.
 
 Most readers already know some Sanskrit, even if they have never studied the language.
 
-The English word *guru* is Sanskrit *guru* गुरु, meaning *weighty* — a teacher whose authority comes from the weight of what they hold. *Karma* is *karma* कर्म, *action* and what action produces. *Avatar* is *avatāra* अवतार, *that which has descended* — a form taken by a higher power for a particular purpose. *Mantra* is *mantra* मन्त्र, the engineered acoustic instrument of contemplation. *Yoga* is *yoga* योग — from the semantic atom ⟪युज्⟫ (*yuj*), *to join* — the discipline of joining the practitioner to that which is being practiced. *Pundit* is *paṇḍita* पण्डित, a learned man. *Jungle* is *jaṅgala* जङ्गल. *Nirvana* is *nirvāṇa* निर्वाण. *Aryan* is the corrupted reflection of *ārya* आर्य, which Sanskrit defines not as a race but as a phonetic-pedagogical achievement.[NOTE: english-sanskrit-loanwords]
+The English word *guru* is Sanskrit *guru* गुरु, meaning *weighty* — a teacher whose authority comes from the weight of their knowledge. *Karma* is *karma* कर्म, *action* and what action produces. *Avatar* is *avatāra* अवतार, *that which has descended* — a form taken by a higher power for a particular purpose. *Mantra* is *mantra* मन्त्र, the engineered acoustic instrument of contemplation. *Yoga* is *yoga* योग — from the semantic atom ⟪युज्⟫ (*yuj*), *to join* — the discipline of joining the practitioner to that which is being practiced. *Pundit* is *paṇḍita* पण्डित, a learned man. *Jungle* is *jaṅgala* जङ्गल. *Nirvana* is *nirvāṇa* निर्वाण. *Aryan* is the corrupted reflection of *ārya* आर्य, which Sanskrit defines not as a race but as a phonetic-pedagogical achievement.[NOTE: english-sanskrit-loanwords]
 
 The reader who has attended an Indian wedding has heard *mantras* in their Sanskrit form. The reader who has been to a yoga class has heard Sanskrit names of postures, *āsanas* आसन, that are precise compounds the language generates from its atomic inventory: *vṛkṣāsana* (tree-pose), *bhujaṅgāsana* (cobra-pose), *adho mukha śvānāsana* (downward-facing-dog-pose). The reader who has glanced at the names of Indian space missions has seen *Chandrayaan* चन्द्रयान — moon-vehicle, *Mangalyaan* मङ्गलयान — Mars-vehicle, and *Gaganyaan* गगनयान — sky-vehicle — all Sanskrit compounds engineered for the modern naming requirement. The reader who has watched the news has heard *Bhārat* भारत — the Sanskrit name India uses for itself.
 
@@ -82,9 +82,9 @@ Sanskrit continues to work. It still labels, blesses, measures, and composes. It
 
 Sanskrit's other name is ***devabhāṣā*** (देवभाषा) — the language of the *devas*, the radiant ones. The phrase captures what the language does. It radiates light outward.
 
-Sanskrit also trains the ear to hear a name as an attribute, one that can hold relation, action, quality, lineage, or function. Yāska's formula **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)** later gives the principle its technical form: names arise from actions.[NOTE: sanskrit-names-as-attributes] Sanskrit labels the world and discloses its structure in the same stroke.
+Sanskrit also trains the ear to hear a name as an attribute that can express relation, action, quality, lineage, or function. Yāska's formula **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)** later gives the principle its technical form: names arise from actions.[NOTE: sanskrit-names-as-attributes] Sanskrit labels the world and discloses its structure in the same stroke.
 
-Yāska turned the same discipline on *deva* itself and derived the word from action: from *dā*, to give; from *dīp*, to kindle; from *dyut*, to shine.[NOTE: yaska-deva-derivation] The radiant ones of *devabhāṣā* are the giving, the kindling, the shining — the deed held in the word, not a label pinned on it.
+Yāska turned the same discipline on *deva* itself and derived the word from action: from *dā*, to give; from *dīp*, to kindle; from *dyut*, to shine.[NOTE: yaska-deva-derivation] The radiant ones of *devabhāṣā* are the giving, the kindling, the shining — the deed embedded in the word, not a label pinned on it.
 
 The same rule governs the contested words ahead. *Asura*, *ārya*, *saṃskṛta* — each arrives as a fixed label, and each yields something different once its action and function are weighed. The English word is not the authority. What the word does is.
 
@@ -94,9 +94,9 @@ The same rule governs the contested words ahead. *Asura*, *ārya*, *saṃskṛta
 
 The first evidence of the engineering thesis is the language's own name: *saṃskṛtam* संस्कृतम्, *perfectly synthesized* or *wholly created*, distinct from *prākṛta* प्राकृत, the natural and the changing.
 
-*Prākṛta* is what ordinary process produces: local idiom, songs, sayings, and everyday forms, all of it shifting as the conditions of life shift. *Saṃskṛta* is what conscious formation makes and preservation holds. The civilization that built Sanskrit runs both and gives each its dignity through purpose. Everyday speech may change, because living speech must meet living circumstance. A *Vedic mantra* must stay exact, because its purpose is exact transmission. The *prākṛta* flows; the *saṃskṛta* holds.
+*Prākṛta* is what ordinary process produces: local idiom, songs, sayings, and everyday forms, all of it shifting as the conditions of life shift. *Saṃskṛta* is what conscious formation creates and disciplined preservation keeps exact. The civilization that built Sanskrit runs both and gives each its dignity through purpose. Everyday speech may change, because living speech must meet living circumstance. A *Vedic mantra* must stay exact, because its purpose is exact transmission. The *prākṛta* flows; the *saṃskṛta* remains invariant.
 
-*Saṃskṛta* itself runs in two domains. Its architecture and calibrated language remain invariant in both. The **vaidika** वैदिक domain keeps language and content invariant: the Veda remains exact. The **laukika** लौकिक domain applies the same invariant language to a changing world. Sanskrit's generative architecture can produce millions of possible words from its standing atoms and bonds, giving each age vocabulary for new objects, practices, institutions, and ideas. Usage adapts and expands while the language holds. Its corpus is a **curated transmission** — selected, accretive, and lossy, tended by **percipient selection**, the discerning community keeping what serves and letting the rest go. Beside both flows the **prākṛtika** प्राकृतिक, where language and content alike change: the natural speech of daily life.
+*Saṃskṛta* itself runs in two domains. Its architecture and calibrated language remain invariant in both. The **vaidika** वैदिक domain keeps language and content invariant: the Veda remains exact. The **laukika** लौकिक domain applies the same invariant language to a changing world. Sanskrit's generative architecture can produce millions of possible words from its standing atoms and bonds, giving each age vocabulary for new objects, practices, institutions, and ideas. Usage adapts and expands while the language remains invariant. Its corpus is a **curated transmission** — selected, accretive, and lossy, tended by **percipient selection**, the discerning community keeping what serves and letting the rest go. Beside both flows the **prākṛtika** प्राकृतिक, where language and content alike change: the natural speech of daily life.
 
 These are three fields, each with its own duty. The *vaidika* preserves invariant language and content. The *laukika* preserves the language while extending its use and tending its corpus. The *prākṛtika* lets language and content change with daily life. Together they are a civilization keeping three promises at once.
 
@@ -104,17 +104,17 @@ Why does Sanskrit need two domains? If its architecture is complete and generati
 
 Exact Vedic preservation requires the *vaidika* domain to retain every articulation demanded by a mantra, including sounds produced only under a stated condition. The *laukika* domain, whose name means *worldly*, must provide vocabulary for a changing field of activity while keeping the language invariant. Sanskrit meets that second demand through a highly generative architecture capable of producing millions of words, and continuing generation requires a reusable sonomer inventory whose members combine consistently throughout the system. Chapter 9 will show how one sound architecture can satisfy both requirements.
 
-![Figure 0.1 — The three fields. *Saṃskṛta*, the wholly created language, runs in two domains. The *vaidika* holds language and content invariant. The *laukika* holds the language invariant while generative usage adapts and its curated corpus remains selected, accretive, and lossy. Beside them, *prākṛtika* flows as the changing natural speech of daily life. All three run the full span from *anādi* to *ananta*.](figures/seekers/sanatana_triad.svg){#fig:sanatana-triad width=100%}
+![Figure 0.1 — The three fields. *Saṃskṛta*, the wholly created language, runs in two domains. The *vaidika* keeps language and content invariant. In the *laukika*, the language remains invariant while generative usage adapts and its curated corpus remains selected, accretive, and lossy. Beside them, *prākṛtika* flows as the changing natural speech of daily life. All three run the full span from *anādi* to *ananta*.](figures/seekers/sanatana_triad.svg){#fig:sanatana-triad width=100%}
 
 ---
 
 ## 0.5 Sanātana Time
 
-The Veda is one. The continuum holds it as a single body of sound, without beginning and without end — *anādi* अनादि behind, *ananta* अनन्त ahead.
+The Veda is one. The continuum preserves it as a single body of sound, without beginning and without end — *anādi* अनादि behind, *ananta* अनन्त ahead.
 
-At the turn from the Dvāpara age to the Kali age — the age of the Mahābhārata — Vyāsa divided the one Veda into four: *Ṛgveda*, *Yajurveda*, *Sāmaveda*, *Atharvaveda*, each with its *saṃhitā* and associated vistāra — Brāhmaṇa, Āraṇyaka, Upaniṣad. The division added nothing and took nothing away. It arranged the one body for an age of shorter memory: preservation, not authorship.[NOTE: veda-vyasa-division] This is the vaidika domain, held in *chandas* (छन्दस्), the metrical mode.
+At the turn from the Dvāpara age to the Kali age — the age of the Mahābhārata — Vyāsa divided the one Veda into four: *Ṛgveda*, *Yajurveda*, *Sāmaveda*, *Atharvaveda*, each with its *saṃhitā* and associated vistāra — Brāhmaṇa, Āraṇyaka, Upaniṣad. The division added nothing and took nothing away. It arranged the one body for an age of shorter memory: preservation, not authorship.[NOTE: veda-vyasa-division] This is the vaidika domain, preserved in *chandas* (छन्दस्), the metrical mode.
 
-At the same turn, the *itihāsa-purāṇa* — the fifth Veda — passed to the laukika keepers: the laukika domain, held in *bhāṣā* (भाषा), the mode of speech. Its corpus grows, its vocabulary meets each changing age through derivation, and the language holds.
+At the same turn, the *itihāsa-purāṇa* — the fifth Veda — passed to the laukika keepers: the laukika domain, expressed in *bhāṣā* (भाषा), the mode of speech. Its corpus grows, its vocabulary meets each changing age through derivation, and the language remains invariant.
 
 The continuum measures all of this in its own time — *Sanātana* time. Tretā turned before Dvāpara, Satya before that; and through every age the Veda has kept watch over the laukika world, unchanged — the invariant calibrant against which the turning world is measured.
 
@@ -130,7 +130,7 @@ Ten symbols — *0* through *9* — span all of arithmetic. Position determines 
 
 A finite inventory, a rule for combining it, one enabling idea — and the output has no ceiling.
 
-**Sanskrit does to language what zero does to counting.** A dictionary language stores its vocabulary as inventory: English accumulates words and lists them, on the order of 170,000 in current use. Sanskrit runs the other way: the *dhātupāṭha* धातुपाठ holds the semantic atoms — 2,168 *dhātavaḥ*; *upasargāḥ* उपसर्गाः and *pratyayāḥ* प्रत्ययाः attach to them; the verb-grids inflect them; *samāsa* समास composes them — and a compound can itself become a member of the next. The system generates words rather than storing them. A conservative count of the first-pass grammatical space already runs past **twenty million words before a single compound is formed**, and compounding adds no ceiling.[NOTE: sanskrit-generative-wordspace] Sanskrit is a word-engine.
+**Sanskrit does to language what zero does to counting.** A dictionary language stores its vocabulary as inventory: English accumulates words and lists them, on the order of 170,000 in current use. Sanskrit runs the other way: the *dhātupāṭha* धातुपाठ lists the semantic atoms — 2,168 *dhātavaḥ*; *upasargāḥ* उपसर्गाः and *pratyayāḥ* प्रत्ययाः attach to them; the verb-grids inflect them; *samāsa* समास composes them — and a compound can itself become a member of the next. The system generates words rather than storing them. A conservative count of the first-pass grammatical space already runs past **twenty million words before a single compound is formed**, and compounding adds no ceiling.[NOTE: sanskrit-generative-wordspace] Sanskrit is a word-engine.
 
 When India's space agency needed a name for its first lunar mission, the engine produced one: *Chandra* (moon) + *yāna* (vehicle) = *Chandrayāna* चन्द्रयान, moon-vehicle. The same engine turns whenever Sanskrit forms a technical term, a name, a mantra, or a verse. The dictionary catalogs the engine's output; it does not bound it.
 
@@ -138,7 +138,7 @@ Two systems, one pattern: ten digits span arithmetic, the *dhātupāṭha* spans
 
 ---
 
-## 0.7 The Civilization That Holds It
+## 0.7 The Civilization That Preserves It
 
 Sanskrit survived because generations of people performed a repeatable set of actions: they listened, recited, corrected, memorized, taught, and checked one lineage against another. Together, those actions form an engineered transmission architecture.
 
@@ -148,11 +148,11 @@ The hearing-repetition-correction cycle is the smallest visible unit of caretaki
 
 The transmission has operated continuously across the Sanskrit continuum. Nambūdiri Brahmins in Kerala recite the *Ṛgveda* today after learning it from teachers who received it through the same lineage. Recitation lineages in Maharashtra, Tamil Nadu, Banaras, Karnataka, Kashmir, Gujarat, and Rajasthan preserve comparable forms through their own teachers. Because these lineages remained geographically separated, they provide several independent points of comparison. No single lineage owns the measure; reciters can compare the preserved form across lineages and identify both shared features and *śākhā*-specific variation.
 
-Performance, correction, and continuity preserve Sanskrit beyond the library. The detailed mapping appears in Chapter 15 as the *aural architecture* — the operational specification of the calibration matrix that holds Sanskrit's phonetic constants in place across the depth of time.
+Performance, correction, and continuity preserve Sanskrit beyond the library. The detailed mapping appears in Chapter 15 as the *aural architecture* — the operational specification of the calibration matrix that keeps Sanskrit's phonetic constants stable across the depth of time.
 
 The recitations continue audibly today in **गुरुकुलानि (*gurukulāni*)**, temples, homes, schools, and communities across the subcontinent and the global diaspora. Teachers and students still perform the transmission that the preceding paragraphs describe. Recordings allow people outside those lineages to hear that living practice for themselves, but the recordings document a practice that remains active without them.
 
-The Hindu civilization holds the language. Hindus inherit Sanskrit as caretakers. The old rule says: *dharmo rakṣati rakṣitaḥ* — dharma protects when protected.[NOTE: dharmo-rakshati-rakshitah] Sanskrit asks the same kind of protection. It has survived because teachers, students, mothers, reciters, *vaiyākaraṇāḥ*, poets, priests, scholars, and ordinary households protected it.
+The Hindu civilization preserves the language. Hindus inherit Sanskrit as caretakers. The old rule says: *dharmo rakṣati rakṣitaḥ* — dharma protects when protected.[NOTE: dharmo-rakshati-rakshitah] Sanskrit asks the same kind of protection. It has survived because teachers, students, mothers, reciters, *vaiyākaraṇāḥ*, poets, priests, scholars, and ordinary households protected it.
 
 If Sanskrit is the calibrant, then returning to Sanskrit is civilizational work, and protection now turns active. The reader who learns to hear it, speak it, teach it, defend its categories, or refuse the pyramid's substitutions has entered the same chain of caretaking. The work begins as listening. It becomes protection.
 

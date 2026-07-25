@@ -67,7 +67,7 @@ The Eight Core Theses describe the movement of the argument. The Eclipse Ledger 
 
 12. **The engineering recognition is older than Pāṇini.** Yāska, Śākalya, the *Prātiśākhyas*, the *Śikṣā* disciplines, and the pre-Pāṇinian *vaiyākaraṇāḥ* already presuppose discrete, stable, analyzable units. Pāṇini stands inside a decoding lineage. **Chapter 5; Chapter 10 §10.12.**
 
-13. **Calibration is not codification.** Codification holds a bounded object by authority; calibration places the measure inside the architecture. The pyramid can own codification. It cannot own a distributed calibrant. **Chapter 6 §6.4; Chapter 13; Chapter 14 §14.6.**
+13. **Calibration is not codification.** Codification fixes a bounded object through authority; calibration places the measure inside the architecture. The pyramid can own codification. It cannot own a distributed calibrant. **Chapter 6 §6.4; Chapter 13; Chapter 14 §14.6.**
 
 14. **The word-meaning bond is treated as established, not manufactured.** Patañjali's *siddhe śabdārthasambandhe* places grammar after an already-standing bond. Bhartṛhari gives that premise a larger philosophical horizon: *śabda* is not a late convention pasted onto things after the fact. **Chapter 5; endnotes.**
 
@@ -95,7 +95,7 @@ The Eight Core Theses describe the movement of the argument. The Eclipse Ledger 
 
 23. **Sanskrit is not one sibling inside an Indo-European family tree.** It is the calibrant by which much of that family was partially deciphered. Similarity does not require ancestry; radiance explains resemblance without descent. **Chapter 18; Chapter 19.**
 
-24. **Orbit and radiance distinguish two kinds of Sanskritic presence.** Indic languages remain within Sanskrit's gravity even as they vary; farther languages may hold words touched by Sanskrit's radiance and then drift beyond the active orbit. **Chapter 6; Chapter 18.**
+24. **Orbit and radiance distinguish two kinds of Sanskritic presence.** Indic languages remain within Sanskrit's gravity even as they vary; farther languages may preserve words touched by Sanskrit's radiance and then drift beyond the active orbit. **Chapter 6; Chapter 18.**
 
 25. ***Mātṛ* is the source of *mother*, not its sibling.** The relationship is *pratibimba*: Sanskritic form radiates outward, enters a receiving language as *bīja*, and later sprouts as an organic *apaśabda*. **Preface; Chapter 18.**
 

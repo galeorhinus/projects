@@ -1,22 +1,22 @@
 # Chapter 14 — The Calibration Matrix
 
-Sanskrit is the **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)** — the fixed-measure language, the calibrant whose radiance and consistency hold language and civilizational ethos across thousands of years. This chapter describes the calibration matrix, the architecture that makes that holding possible.
+Sanskrit is the **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)** — the fixed-measure language, the calibrant whose radiance and consistency preserve language and civilizational ethos across thousands of years. This chapter describes the calibration matrix, the architecture that makes that preservation possible.
 
 The matrix is **दिव्य (*divya*)** in the precise sense: radiant, brilliant, bearing the order of the *devas*. A system that preserves sound, meter, grammar, memory, and lineage without apex command is radiant because its order gives light without needing a pyramid to issue it.
 
 This is the radiant matrix.
 
-The Vedic form of the same claim is (Chapter 9): भद्रा एषाम् लक्ष्मीः निहिता अधि वाचि (*bhadrā eṣām lakṣmīḥ nihitā adhi vāci*) — auspicious radiance is placed in Speech. The sieve and the garland showed how the sound-field becomes ordered Speech. Sound, meter, grammar, memory, and lineage then act together as the calibration matrix that holds its radiance.
+The Vedic form of the same claim is (Chapter 9): भद्रा एषाम् लक्ष्मीः निहिता अधि वाचि (*bhadrā eṣām lakṣmīḥ nihitā adhi vāci*) — auspicious radiance is placed in Speech. The sieve and the garland showed how the sound-field becomes ordered Speech. Sound, meter, grammar, memory, and lineage then act together as the calibration matrix that preserves its radiance.
 
-**Central claim.** This is what the pyramid cannot conquer or co-opt: a calibrant that lives within society and rejects the need for apex authority. The pyramid can survey natural drift, codify it, create apex languages (prestige languages placed above living speech), centralize education, and capture transmission through credential, curriculum, and school. It can lord over drift and sanctify codification because both provide an apex-handle. Calibration gives it none. Sound, meter, grammar, memory, lineage, distributed transmission, and architecture hold the measure together; no single gate owns it. So the pyramid hides the category.
+**Central claim.** This is what the pyramid cannot conquer or co-opt: a calibrant that lives within society and rejects the need for apex authority. The pyramid can survey natural drift, codify it, create apex languages (prestige languages placed above living speech), centralize education, and capture transmission through credential, curriculum, and school. It can lord over drift and sanctify codification because both provide an apex-handle. Calibration gives it none. Sound, meter, grammar, memory, lineage, distributed transmission, and architecture preserve the measure together; no single gate owns it. So the pyramid hides the category.
 
-Under the pyramid's clock, the *Vedas* shrink to early literature: old texts, "scripture," "ritual" material, and chronological evidence, valued mainly for dating *"Vedic Sanskrit."* The matrix exposes that reduction because the *Vedas* are encoded perfection, held across thousands of years by sound, meter, recitation, lineage, and calibration. What the clock files as early is the most precisely preserved.
+Under the pyramid's clock, the *Vedas* shrink to early literature: old texts, "scripture," "ritual" material, and chronological evidence, valued mainly for dating *"Vedic Sanskrit."* The matrix exposes that reduction because the *Vedas* are encoded perfection, preserved across thousands of years by sound, meter, recitation, lineage, and calibration. What the clock files as early is the most precisely preserved.
 
 The calibration matrix rests on three principles. First: the next generation is the archive. Content survives only when one generation receives it and transmits it to the next. Second: preservation must fit the human instrument. Human beings remember, recite, gesture, hear, discriminate, and correct. Third: the deepest systems use complementary pairs. The practitioner performs while the audience detects drift. The audience are more than passive listeners; they are active participants in an error-correction system.
 
-The motive is visible in the design. Ordinary life can keep moving: stories can be retold, customs can localize, crafts can adapt, speech can flow into regional forms. The matrix holds the measure. It preserves what must remain recoverable when memory weakens, darkness spreads, or authority tries to seize the gate.
+The motive is visible in the design. Ordinary life can keep moving: stories can be retold, customs can localize, crafts can adapt, speech can flow into regional forms. The matrix preserves the measure. It preserves what must remain recoverable when memory weakens, darkness spreads, or authority tries to seize the gate.
 
-The third principle appears everywhere in *Sanātan*. It is structurally central to the **शास्त्रार्थ (*śāstrārtha*)** setting (Chapter 3 §3.5): truth is tested in front of listeners, not certified behind a closed institutional door. The same complementary structure operates in preservation, where the performer holds the content while the listener guards it. Their shared participation distributes the chain across the civilization.
+The third principle appears everywhere in *Sanātan*. It is structurally central to the **शास्त्रार्थ (*śāstrārtha*)** setting (Chapter 3 §3.5): truth is tested in front of listeners, not certified behind a closed institutional door. The same complementary structure operates in preservation, where the performer preserves the content while the listener guards it. Their shared participation distributes the chain across the civilization.
 
 ## 14.1 The Four Preservation Modes
 
@@ -41,11 +41,11 @@ The table separates the four preservation modes. The first row shows why writing
 
 The four modes expose the civilizational contrast. In the Sanskritic ecology, writing remains one support among several: useful for records, teaching, commentary, administration, correspondence, and ordinary communication, but not sovereign over the calibrant.
 
-***Scripture*** is what happens when writing is elevated from support into sovereign preservation. A visible glyph holds the content, and the institution that controls the copy controls the transmission. The medium can be stone, palm leaf, paper, print, or digital storage; the custody logic is the same. The edition can be authorized, restricted, and seized.
+***Scripture*** is what happens when writing is elevated from support into sovereign preservation. A visible glyph records the content, and the institution that controls the copy controls the transmission. The medium can be stone, palm leaf, paper, print, or digital storage; the custody logic is the same. The edition can be authorized, restricted, and seized.
 
 The Abrahamic tradition elevates Scripture because the pyramid needs a controlled text. Whoever controls the written corpus controls the doctrine; whoever controls the doctrine controls the people. The same custody logic also explains progressive chronology capture, including the refusal to permit the more logical explanation that Aramaic evolved from Brāhmī (Appendix Part 3 §3.8).
 
-*Sanātan* built a distributed preservation ecology — writing for what writing can hold, memory for what story must hold, gesture for what the body must hold, and hearing for what only exact sound can hold. The preservation engineering mirrors the polity engineering developed earlier (Chapter 3 §3.7): single-medium maps to single-apex pyramid; four-mode distributed maps to non-pyramidal *Sanātan*.
+*Sanātan* built a distributed preservation ecology — writing for stable visible form, memory for story, gesture for embodied action, and hearing for exact sound. The preservation engineering mirrors the polity engineering developed earlier (Chapter 3 §3.7): single-medium maps to single-apex pyramid; four-mode distributed maps to non-pyramidal *Sanātan*.
 
 Single medium, single apex. Four modes, distributed civilization.
 
@@ -59,7 +59,7 @@ Auditure is the deepest of the four modes because the Vedas demand exact phoneti
 
 The ear is the right instrument for that task. It detects temporal variation with a precision the eye does not match. The eye cannot distinguish consecutive frames at rates higher than approximately twenty-five per second — the basis on which modern video compression operates. The ear distinguishes features from approximately twenty cycles per second up to roughly twenty thousand. It hears pitch, rhythm, stress, resonance, interval, and rupture inside a stream of sound. Vedic recitation is not merely a word-sequence; it is a multi-channel phonetic object — which is exactly what the ear is built to track.
 
-The second engineering fact scales because hearing is easier to distribute than perfect reproduction. A reciter needs years of discipline to reproduce the full sequence, while repeated exposure allows a listening community to detect a broken pattern much earlier. The practitioner therefore holds the skill while the audience holds the check.
+The second engineering fact scales because hearing is easier to distribute than perfect reproduction. A reciter needs years of discipline to reproduce the full sequence, while repeated exposure allows a listening community to detect a broken pattern much earlier. The practitioner therefore develops the skill while the audience provides the check.
 
 Auditure distributes the first layer of guarding among the audience and thereby resolves the old institutional problem: who guards the guards? In a pyramid, the guards sit above the audience, which has no standing. In Auditure, the audience guards by listening. No institutional credential is required for the first layer of detection because the architecture distributes recognition before it distributes mastery.
 
@@ -87,15 +87,15 @@ Auditure preserves the Vedic corpus as sound. The full calibration matrix contai
 
 शिक्षा (*Śikṣā*) is not a seventh layer. It is the pedagogy that trains the practitioner across all six. It teaches articulation, tone, duration, accent, breath, and sequence. It makes the matrix transmissible.
 
-The result is not one preservation device but a multi-axis calibration system: the Vedas hold the corpus, the *Prātiśākhya* the phonetic specification, *Vyākaraṇam* the generative rule, the *Dhātupāṭha* the semantic-atomic inventory, the *Varṇamālā* the sound grid, and *Chandas* the metrical integrity — with *Śikṣā* training the human instrument that has to hold all six.
+The result is not one preservation device but a multi-axis calibration system: the Vedas preserve the corpus, the *Prātiśākhya* specifies its phonetics, *Vyākaraṇam* documents the generative rules, the *Dhātupāṭha* lists the semantic atoms, the *Varṇamālā* maps the sound grid, and *Chandas* preserves metrical integrity — with *Śikṣā* training the human instrument to master all six.
 
 The six layers operate at six different timescales of correction. Layer 1 corrects within a single performance — the audience hears, the practitioner adjusts. Layer 2 corrects within a single teaching career — the teacher trains the student against the *Prātiśākhya* specification. Layer 3 corrects across many teacher-generations — the *Vyākaraṇam* specification is consulted across the entire teacher-student lineage. Layers 4–5 correct across the architectural span — the *Dhātupāṭha* and *Varṇamālā* specifications operate as the deepest constituent-inventory anchors, consulted when any layer above them has recorded drift. Layer 6 corrects at the integrated-fingerprint level. The matrix is hierarchically nested and temporally graded.
 
-## 14.4 Chandas Counts What Poetry Can Hold
+## 14.4 Chandas Counts the Possibilities of Poetry
 
 *Chandas* treats meter as measured possibility. A poem is not only a sequence of meanings. It is a timed structure that has to be filled without breaking sound, duration, pause, accent, or memory.
 
-A composer working inside a measured line has to know what the line can hold — the necessity is poetic before it is mathematical. A **लघु (*laghu*)** syllable occupies one *mātrā*. A **गुरु (*guru*)** syllable occupies two. The poet fills a timed architecture with syllables of different weights. Once the line is timed, the counting question appears on its own: how many valid patterns can fill this measure exactly?
+A composer working inside a measured line has to know what the line can contain — the necessity is poetic before it is mathematical. A **लघु (*laghu*)** syllable occupies one *mātrā*. A **गुरु (*guru*)** syllable occupies two. The poet fills a timed architecture with syllables of different weights. Once the line is timed, the counting question appears on its own: how many valid patterns can fill this measure exactly?
 
 ![Figure 14.3 — Chandas as mātrā tiling. The fillings of three, four, and five *mātrās*; each measure is built from the two shorter ones, so the counts add.](figures/calibration/matra_tiles_combined.svg){#fig:ch14-chandas-matra-tiling width=100%}
 
@@ -103,24 +103,24 @@ Figure 14.3 lays the count out. Three *mātrās* fill three ways, four *mātrās
 
 The counts add accordingly: one plus two is three, two plus three is five, three plus five is eight. Continue and the run is 1, 2, 3, 5, 8, 13 — the sequence the modern world calls Fibonacci.[NOTE: chandas-laghu-guru-virahanka-sequence] The figure makes it a structure to read off the page rather than a formula to take on trust: each measure's fillings are visibly built from the two before it. Sanskrit prosody reaches the sequence through sound, duration, and poetic necessity.
 
-*Chandas* treats meter as discovered architecture, meaning the discipline reveals valid forms, charts their patterns, and trains poets to hold them. Just as grammar is decoded and the mouth is mapped, meter is measured and discovered—proving that in every case, Sanskrit's disciplines begin from an underlying architecture rather than a top-down authority.
+*Chandas* treats meter as discovered architecture, meaning the discipline reveals valid forms, charts their patterns, and trains poets to master them. Just as grammar is decoded and the mouth is mapped, meter is measured and discovered—proving that in every case, Sanskrit's disciplines begin from an underlying architecture rather than a top-down authority.
 
 *Chandas* belongs inside the calibration matrix because meter does more than beautify a verse. It defines what a valid timed form can be, gives the poet a design space, gives the reciter a checksum, and gives the listener a way to hear drift. Poetry, mathematics, and preservation meet in the same measured line.
 
-## 14.5 The Whole Language Holds the Sūtra-Discipline
+## 14.5 The Whole Language Follows the Sūtra-Discipline
 
-A language holds its standard in one of three ways, and the way decides whether the standard can drift. In a natural language, usage holds it: the standard is whatever the community of speakers happens to do — the ***प्रकृति (*prakṛti*)*** category. In a codified language, authority holds it: a court, academy, or committee selects a standard and enforces it. In Sanskrit, calibration holds it: the architecture corrects itself against a fixed measure — the ***संस्कृति (*saṃskṛti*)*** category. The natural category then splits again, not by mechanism but by anchor. A language with a calibrant to check against stays in orbit — it moves, but Sanskrit's gravity holds it within bounds. A language with none drifts — it moves without limit (Chapter 6 §6.7).
+A language preserves its standard in one of three ways, and the way decides whether the standard can drift. In a natural language, usage determines it: the standard is whatever the community of speakers happens to do — the ***प्रकृति (*prakṛti*)*** category. In a codified language, authority imposes it: a court, academy, or committee selects a standard and enforces it. In Sanskrit, calibration maintains it: the architecture corrects itself against a fixed measure — the ***संस्कृति (*saṃskṛti*)*** category. The natural category then splits again, not by mechanism but by anchor. A language with a calibrant to check against stays in orbit — it moves, but Sanskrit's gravity keeps it within bounds. A language with none drifts — it moves without limit (Chapter 6 §6.7).
 
-The same discipline operates at the atomic scale (Chapter 10), and the language itself displays it at system scale. These are relative characteristics. A *sūtra* is compact when measured against a longer exposition; unambiguous when measured against a statement that can be misunderstood; essence-bearing when measured against speech that holds less recoverable meaning. At the system scale, the comparison is between Sanskrit as a calibrated language and ordinary uncalibrated speech preserved by habit, local drift, historical residue, and external standardization. Against that comparator, Sanskrit displays the same six characteristics the *sūtra-lakṣaṇam* specifies at the rule scale and seen earlier at the atomic scale.[NOTE: whole-language-sutra-discipline-comparator]
+The same discipline operates at the atomic scale (Chapter 10), and the language itself displays it at system scale. These are relative characteristics. A *sūtra* is compact when measured against a longer exposition; unambiguous when measured against a statement that can be misunderstood; essence-bearing when measured against speech that conveys less recoverable meaning. At the system scale, the comparison is between Sanskrit as a calibrated language and ordinary uncalibrated speech preserved by habit, local drift, historical residue, and external standardization. Against that comparator, Sanskrit displays the same six characteristics the *sūtra-lakṣaṇam* specifies at the rule scale and seen earlier at the atomic scale.[NOTE: whole-language-sutra-discipline-comparator]
 
 1. It is compact: where ordinary languages accumulate vocabulary and exception by historical layering, Sanskrit uses a finite sonomer inventory, a finite semantic-atom inventory, and compressed rules to generate vast expression.
-2. It has no wasted layer: where ordinary language holds residues whose function may no longer be recoverable, every part of the calibration matrix has a task.
+2. It has no wasted layer: where ordinary language retains residues whose function may no longer be recoverable, every part of the calibration matrix has a task.
 3. It is unambiguous: where ordinary speech depends on habit and context to resolve form, Sanskrit specifies sound, timing, accent, meter, and grammar.
-4. It is essence-bearing: where ordinary exposition often expands an idea to make it recoverable, Sanskrit can hold distilled knowledge as stable form — mantra, definition, procedure, argument, and philosophical insight.
+4. It is essence-bearing: where ordinary exposition often expands an idea to make it recoverable, Sanskrit can preserve distilled knowledge in stable forms — mantra, definition, procedure, argument, and philosophical insight.
 5. It is many-facing: where specialized language-forms often split apart, the same Sanskrit architecture serves mantra, poetry, śāstra, dialogue, ritual, and philosophy.
 6. It is stable through use: where ordinary language changes because people use it, Sanskrit uses performance, hearing, grammar, meter, and lineage to detect drift and restore form.
 
-The whole language holds the sūtra-discipline.
+The whole language follows the sūtra-discipline.
 
 Exact Vedic preservation and continuing *laukika* generation draw differently on one sound architecture. The *chandas* mode serves the primary calibrant by preserving the *udātta-anudātta-svarita* accent system, *pluta* duration, contextual *upadhmānīya*, and the **ड → ळ** realization specified by the *Ṛgveda-Prātiśākhya*. The *bhāṣā* mode applies the generative manual through a reusable *laukika* grid, which remains capable of producing new words without assigning every governed Vedic realization an independent coordinate. Chapter 9 showed how the same architecture performs both tasks.
 
@@ -128,7 +128,7 @@ Western philology converts these operating differences into organic mutation acr
 
 Other civilizations know mode-splits and codified standards — Classical and Vulgar Latin, Quranic/Classical and modern Arabic, Classical Chinese and modern Sinitic speech. Those comparisons show that one language-field can operate in more than one mode. They do not make Sanskrit one more codified language. Sanskrit's two-mode architecture is uniquely engineered for non-decay. The *"Vedic-to-Classical transition"* that looks like drift to the ***progressive dogma*** is the engineered system functioning exactly as designed.
 
-The two-mode architecture has a name. ***वैचित्र्य (*vaicitrya*)*** — engineered range — at the *racanā* level means the system preserves reach into specialized scaffolds where the modal forms cannot hold (Chapter 10 §10.7). The same signature operates here, one level up. Multiple infinitive endings and pronoun alternates give *chandas* different syllable counts for metrical placement. *Pluta* governs extended duration; accent governs pitch; the *leṭ-lakāra* and injunctive govern verbal range; contextual **ळ** and *upadhmānīya* preserve exact articulation at stated environments. Each feature performs its own work inside the Vedic specification. *Vaicitrya* at the *racanā* level and at the morphological level displays one engineering signature across the architecture's vertical span (Appendix Part 7).
+The two-mode architecture has a name. ***वैचित्र्य (*vaicitrya*)*** — engineered range — at the *racanā* level means the system preserves reach into specialized scaffolds where the modal forms do not suffice (Chapter 10 §10.7). The same signature operates here, one level up. Multiple infinitive endings and pronoun alternates give *chandas* different syllable counts for metrical placement. *Pluta* governs extended duration; accent governs pitch; the *leṭ-lakāra* and injunctive govern verbal range; contextual **ळ** and *upadhmānīya* preserve exact articulation at stated environments. Each feature performs its own work inside the Vedic specification. *Vaicitrya* at the *racanā* level and at the morphological level displays one engineering signature across the architecture's vertical span (Appendix Part 7).
 
 ## 14.6 Control Cases: Codification by Authority
 
@@ -144,7 +144,7 @@ These are the control cases. They prove that the machinery already knows how to 
 
 ### Why Petrification Appeals to the Pyramid
 
-Chapter 2 calls the resulting condition **petrification** when an institution holds a bounded linguistic form apart from ordinary change and makes its accepted form and interpretation depend upon custodians. The term applies to the guarded form, rather than to every language spoken around it. A fixed corpus can remain beside living speech for centuries while the two undergo very different histories.[NOTE: petrified-bounded-forms]
+Chapter 2 calls the resulting condition **petrification** when an institution fixes a bounded linguistic form apart from ordinary change and makes its accepted form and interpretation depend upon custodians. The term applies to the guarded form, rather than to every language spoken around it. A fixed corpus can remain beside living speech for centuries while the two undergo very different histories.[NOTE: petrified-bounded-forms]
 
 Arabic makes the arrangement easy to see. The Quranic form remains bounded through the *muṣḥaf*, memorization, authorized readings, and recitational disciplines. Modern Standard Arabic extends that inheritance through academies, schools, publishing, broadcasting, and government, while Moroccan, Egyptian, Levantine, Gulf, and other spoken Arabics continue changing through daily use. The familiar labels *High* and *Low* describe their places in an institutional hierarchy; they do not measure the linguistic worth of the people speaking them.[NOTE: petrified-bounded-forms]
 
@@ -182,7 +182,7 @@ No single named author assembled the calibration matrix. The Vedic corpus is अ
 
 Pāṇini documented a matrix that was already in operation. He did not originate it.
 
-**Pāṇini's praise is selective and therefore dangerously seductive.** The machinery can safely admire the named documenter if admiration makes him look like origin. But Pāṇini is a threat to the pyramid when read correctly. He is not evidence that authority created Sanskrit's order. He is evidence that order already existed deeply enough to be decoded, compressed, and held as rule. The pyramid praises him only by turning him into what he was not.
+**Pāṇini's praise is selective and therefore dangerously seductive.** The machinery can safely admire the named documenter if admiration makes him look like origin. But Pāṇini is a threat to the pyramid when read correctly. He is not evidence that authority created Sanskrit's order. He is evidence that order already existed deeply enough to be decoded, compressed, and preserved as rule. The pyramid praises him only by turning him into what he was not.
 
 The Western philological account calls him a codifier because that word lets the asuric machinery relocate the engineering into a later named figure and erase the anonymous architecture underneath him. The dogma's ***"centuries of analysis"*** hypothesis projects the same fabrication onto the phonological framework: gradual assembly by anonymous *Prātiśākhya* and *Śikṣā* authors, built up from observations across many generations. The hypothesis fails the same test. The texts do not show gradual assembly. They do not preserve failed prototypes, provisional sound grids, experimental recitation systems, or incremental discovery notes. They present the matrix as an operating reality.
 
@@ -190,7 +190,7 @@ This constitutes *heroic erasure* at the matrix level: praising the named docume
 
 The Pāṇini-as-rupture move is heroic erasure in its sharpest form: praise the so-called codifier, then weaponize the praise to convert *vaidika* and *laukika* from domains into chronology. Pāṇini cannot move Sanskrit out of one domain and into another. Domains are not periods. Pāṇini documents both. That is not analysis. It is a grammatical sleight of hand with civilizational consequences (Chapter 2 §2.1).
 
-The standing sequence holds at matrix scale: engineered architecture, Vedic encoding, many decoding disciplines, and Pāṇini's compressed rule-system as the finest surviving documentation of that architecture.
+The standing sequence remains visible at matrix scale: engineered architecture, Vedic encoding, many decoding disciplines, and Pāṇini's compressed rule-system as the finest surviving documentation of that architecture.
 
 Within this framework, the calibration matrix serves as the engineered architecture, the Vedas operate as the encoding, and the *Prātiśākhya*, *Śikṣā*, *Chandas*, and *Vyākaraṇam* function as the decoding disciplines. Because Pāṇini's decoding is the most compressed and generative, it remains the finest expression of the system, though it is not the origin of the architecture itself.
 
@@ -198,7 +198,7 @@ The teaching-level form of the same claim (Chapter 13 §13.5): the Veda preserve
 
 Because heroic erasure works by treating the second redundancy layer as the first, it praises Pāṇini as a codifier in order to erase the Vedic calibrant that was correcting the language before his rules documented its procedure. Consequently, while the named document survives in the foreground, the older operating matrix is pushed behind it, resulting in a redirection of memory rather than its preservation.
 
-The matrix in operation relies on the eleven *pāṭhas*, the aural architecture, the combinatorial recitation forms, and the working machinery by which the Vedic sound-body has been held without observable drift across thousands of years (Chapter 15).
+The matrix in operation relies on the eleven *pāṭhas*, the aural architecture, the combinatorial recitation forms, and the working machinery by which the Vedic sound-body has been preserved without observable drift across thousands of years (Chapter 15).
 
 The radiant matrix kept the architecture present. Manuscripts burn, institutions fall, libraries close, and centralized authority recedes. A linguistic architecture engineered into speech, transmitted through the *guru-shishya* lineage-chain, and verified by the listening audience has no single institution to bring down.
 

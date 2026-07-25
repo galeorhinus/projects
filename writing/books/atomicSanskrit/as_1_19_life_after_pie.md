@@ -14,7 +14,7 @@ Life after PIE begins by explaining Sanskrit through its own architecture rather
 
 The first question after PIE is: what did Sanskrit do once it existed?
 
-PIE is built on the premise of population descent: a people migrates, holds a language, and the language mutates into descendants. The Calibrant Radiance Thesis replaces that premise with expert transmission. A Sanskrit-trained *ārya*, expert in *vyākaraṇam*, enters another linguistic world that wants to participate in the radiance; pedagogical mastery gives the carrier credibility, and a receiving lineage provides continuity. A *guru* and a lineage hungry for what the *guru* possesses are sufficient.
+PIE is built on the premise of population descent: a people migrates with a language, and the language mutates into descendants. The Calibrant Radiance Thesis replaces that premise with expert transmission. A Sanskrit-trained *ārya*, expert in *vyākaraṇam*, enters another linguistic world that wants to participate in the radiance; pedagogical mastery gives the carrier credibility, and a receiving lineage provides continuity. A *guru* and a lineage hungry for what the *guru* possesses are sufficient.
 
 ### Lineages Remember the Carriers
 
@@ -34,7 +34,7 @@ The Mitanni Sanskritic layer is widely accepted in the philological literature a
 
 The Behistun inscription of Old Persian, transliterated into Devanagari, can be read today by a fluent student of Sanskrit.[NOTE: behistun-inscription] The grammar, the dhātu structures, much of the vocabulary — all of it sits within recognizable distance of the language a modern Indian student is trained in. A fluent modern speaker of Persian, presented with the same text, does not have the same experience. The two languages were close kin in their recorded forms. They have ended up in radically different relationships to their own past.
 
-The asymmetry has a plain cause: Sanskrit was placed inside an engineered preservation architecture Old Persian never had — the calibration matrix of the *Vedas*, the recension-specific *Prātiśākhya*s, the unifying grammar of Pāṇini, the recitation system of the *pāṭhas*. Old Persian was left to ordinary linguistic friction. Sanskrit underwent no such transition. The corpus held. The architecture survived.
+The asymmetry has a plain cause: Sanskrit was placed inside an engineered preservation architecture Old Persian never had — the calibration matrix of the *Vedas*, the recension-specific *Prātiśākhya*s, the unifying grammar of Pāṇini, the recitation system of the *pāṭhas*. Old Persian was left to ordinary linguistic friction. Sanskrit underwent no such transition. The corpus remained invariant. The architecture survived.
 
 The Wave 1 hypothesis is calibrated. Old Persian shows the natural trajectory of an Indo-Iranian-range language outside Sanskrit’s preservation architecture; Sanskrit’s distinct trajectory shows the architecture’s effect. The Iranian branch is a reference case, not a counterfactual. Wave 1 contact between pre-Pāṇinian Vedic-trained experts and the natural languages of Central and West Asia would have produced deep structural effects on those languages. The aggregate of those effects, projected backward by nineteenth-century European philologists who assumed genealogical descent rather than contact-induced restructuring, is what was reconstructed as PIE.
 
@@ -108,7 +108,7 @@ The receiving languages made these words their own and continued to grow. The sa
 
 The calibrant waves do not exhaust the ways Indic civilization moved through the world. Another wave has operated by a different mechanism: not expert transmission of architecture, but community transmission of lived substrate.
 
-This is the **Diasporic Wave**: demographic, cultural, embodied. It is a separate category from the three calibrant waves. It holds language, music, food, ceremonial practice, kinship, memory, and civilizational habit into host societies that did not invite the carriers and often persecuted them.
+This is the **Diasporic Wave**: demographic, cultural, embodied. It is a separate category from the three calibrant waves. It transmits language, music, food, ceremonial practice, kinship, memory, and civilizational habit into host societies that did not invite the carriers and often persecuted them.
 
 The **Romani** are the first documented carriers of the wave outside the subcontinent. Their languages preserve substantial Indic vocabulary and grammar after dozens of generations of separation and sustained contact with Persian, Greek, Slavic, Romance, and Germanic languages. Hindi and Punjabi speakers can still hear familiar words, although Romani is no longer mutually intelligible with either language without study.
 
@@ -135,7 +135,7 @@ Wave 3 therefore begins with deliberate relearning among Indians in the subconti
 
 You cannot extend what you do not have.
 
-The closing Rigvedic call — **कृण्वन्तो विश्वमार्यम् (*kṛṇvanto viśvam āryam*)**, *making the world ārya* — is conditional on the speaker being *ārya*. The Epilogue holds the full exhortation.
+The closing Rigvedic call — **कृण्वन्तो विश्वमार्यम् (*kṛṇvanto viśvam āryam*)**, *making the world ārya* — is conditional on the speaker being *ārya*. The Epilogue gives the full exhortation.
 
 ## 19.4 Wave 3 — Carrying the Sun Again
 
@@ -160,7 +160,7 @@ Serving strictly as an imaginary ancestor, PIE obscured the actual evidence. Rem
 
 The Vedic sequence moves from eclipse to clearing before it reaches celebration. Svarbhānu's darkness has to be broken. The āsurī māyā has to be dissolved. Atri finds the hidden Sun through *turīya brahman*, the fourth formulation of disciplined speech.[NOTE: rigveda-5-40-atri-clearing] Only then can the later mantra say that the Atris found what no others could. Life after PIE belongs to that middle work: remove the eclipse-device, clear the field, and re-enter the discipline by which sight becomes possible again.
 
-The preservation worked. The light remained available for recovery because the architecture held through the darkness.
+The preservation worked. The light remained available for recovery because the architecture endured through the darkness.
 
 The required remedy involves a change of sight. While PIE trained the reader to look for a single ancestor at one point on a timeline, Sanskrit demands to be seen fractally: sonomer, *akṣara*, *dhātuḥ*, *kriyāpada*, *śabda*, *vākya*, recitation, and calibration matrix. With the same engineering signature recurring across scale, a one-scale reconstruction forced Sanskrit into a derivative role. Returning Sanskrit to its proper category as calibrant therefore requires recognizing this scale-recurring architecture.
 

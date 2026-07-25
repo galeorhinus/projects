@@ -24,9 +24,9 @@ Then the lips close and the soft palate drops, shutting the oral passage and ope
 
 One breath. Three sonic spaces: throat-open, mouth-shaped, nose-coupled. Lungs, vocal cords, tongue, lips, soft palate, oral cavity, and nasal cavity all participate. **Oṃ is a compact acoustic sweep through the anatomy of sound.**
 
-Concision by design leaves recognizable signs: small form, no waste, clear transitions, concentrated meaning, many-facing use, and stable identity across time. Oṃ holds all six in a single breath. **Oṃ is architecture in seed form.**
+Concision by design leaves recognizable signs: small form, no waste, clear transitions, concentrated meaning, many-facing use, and stable identity across time. Oṃ contains all six in a single breath. **Oṃ is architecture in seed form.**
 
-The śāstra makes the same compression explicit. The *Māṇḍūkya Upaniṣad* identifies this *akṣara* with "all this": past, present, future, and what stands beyond the three times.[NOTE: om-vocal-tract-macro-gesture] *Sanātan* captures what holds across time, not simple antiquity. Oṃ is the acoustic seed of *Sanātan*: one syllable, one breath, the whole instrument, and the whole time-field.
+The śāstra makes the same compression explicit. The *Māṇḍūkya Upaniṣad* identifies this *akṣara* with "all this": past, present, future, and what stands beyond the three times.[NOTE: om-vocal-tract-macro-gesture] *Sanātan* captures what persists across time, not simple antiquity. Oṃ is the acoustic seed of *Sanātan*: one syllable, one breath, the whole instrument, and the whole time-field.
 
 ## 7.1 आदिवाद्य (*Ādivādya*): The World's First Instrument
 
@@ -66,7 +66,7 @@ Most consonants are controlled bursts — which is why the tabla analogy works. 
 
 ## 7.4 Vowels Are Sustained Tones
 
-A vowel begins when the vocal cords supply a tone and the vocal tract stays open enough for that tone to continue. The tongue, lips, jaw, and nasal passage shape the resonance, and the sound lasts for as long as the speaker holds that configuration. Unlike a stop consonant, the vowel does not depend on a complete closure and release.
+A vowel begins when the vocal cords supply a tone and the vocal tract stays open enough for that tone to continue. The tongue, lips, jaw, and nasal passage shape the resonance, and the sound lasts for as long as the speaker maintains that configuration. Unlike a stop consonant, the vowel does not depend on a complete closure and release.
 
 Three parameters do most of the work: tongue height, tongue advancement, and lip rounding. High front unrounded gives the *ee* of *see*. High back rounded gives the *oo* of *moon*. Low open position gives the *ah* of *father*. Nasalization couples the nasal cavity. Length controls duration; Sanskrit makes that duration countable through **मात्रा (*mātrā*)**, the measure of how long a sound occupies speech-time.[NOTE: hrasva-dirgha-pluta-matra] Tone adds pitch contour.
 
@@ -134,11 +134,11 @@ The categories are physiology in Sanskrit vocabulary.
 
 ## 7.8 *Sthāna*, *Prayatna*, and *Mātrā*
 
-The Sanskrit sound-system rests on three governing questions: **स्थान (*sthāna*)**, where the sound is made; **प्रयत्न (*prayatna*)**, how the body makes it; and **मात्रा (*mātrā*)**, how long the sound holds.
+The Sanskrit sound-system rests on three governing questions: **स्थान (*sthāna*)**, where the sound is made; **प्रयत्न (*prayatna*)**, how the body makes it; and **मात्रा (*mātrā*)**, how long the sound lasts.
 
 *Sthāna* is geometry. It sets where the airflow is shaped. Moving the contact point from throat to palate to teeth changes the resonating cavity and therefore the acoustic signature.
 
-In modern phonetics, *sthāna* corresponds closely to place of articulation. *Prayatna* corresponds broadly to manner and effort, but it holds more than the English word *manner*: contact-type, voicing, aspiration, breath-pressure, and nasal coupling all belong to what the body does at the chosen place.
+In modern phonetics, *sthāna* corresponds closely to place of articulation. *Prayatna* corresponds broadly to manner and effort, but it encompasses more than the English word *manner*: contact-type, voicing, aspiration, breath-pressure, and nasal coupling all belong to what the body does at the chosen place.
 
 *Prayatna* is the effort applied to the mouth's geometry. It splits into internal and external effort. **आभ्यन्तर प्रयत्न (*ābhyantara prayatna*)** is the internal effort: the specific degree of contact or constriction at the physical place. **बाह्य प्रयत्न (*bāhya prayatna*)** is the external effort — it manages the final output: voicing (***अनुप्रदान (*anupradāna*)***, which toggles between *śvāsa* breath and *nāda* resonance), aspiration, breath pressure, and nasal coupling.[NOTE: abhyantara-bahya-prayatna][NOTE: svasa-nada-vivrta-samvrta-phonation]
 

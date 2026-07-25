@@ -169,6 +169,7 @@ LAYOUTS = {
 # Regexes for cleaning chapter files before assembly
 DRAFT_NOTES_RE   = re.compile(r"\n(?:---\s*\n+)?##+\s+Draft notes(?:\s*\([^)]*\))?.*\Z", re.DOTALL)
 DRAFT_HEADER_RE  = re.compile(r"^\*Draft v.*?\*\n+", re.DOTALL | re.MULTILINE)
+CHAPTER_HEADER_RE = re.compile(r"^#\s+[^\n]+\n*", re.MULTILINE)
 # Part-opener files carry a `# Part X — Title` h1 + italic subtitle + `---`
 # rule so Caddy / static-HTML renderers can serve them as standalone pages.
 # The Overture / Finale bookends follow the same file convention even though
@@ -212,6 +213,8 @@ SCRIPT_WRAPS: list[tuple[str, re.Pattern]] = [
     (r"\cjkfont",         re.compile(r"[一-鿿]+")),
     # Old Persian cuneiform (Mitanni / Indo-Iranian references)
     (r"\oldpersianfont",  re.compile(r"[\U000103A0-\U000103DF]+")),
+    # Gothic (used for the Gothic reflex of Sanskrit ⟪युज्⟫ in Chapter 18)
+    (r"\gothicfont",      re.compile(r"[\U00010330-\U0001034F]+")),
     # Avestan (Indo-Iranian comparisons)
     (r"\avestanfont",     re.compile(r"[\U00010B00-\U00010B3F]+")),
     # Stragglers — specific characters Charter Roman lacks. Kept narrow so
@@ -315,29 +318,26 @@ def prefer_png_images_for_pdf(md_text: str) -> str:
     """Use grayscale/raster siblings for PDF builds when available.
 
     Manuscript sources stay canonical with SVG links. The assembled Markdown
-    handed to Pandoc uses `figure.gray.png` when it exists and is current,
-    then `figure.png` when it exists beside `figure.svg` and is current,
-    preserving the caption and any trailing Pandoc image attributes. A PNG is
-    "current" only when it is at least as new as the source image it replaces;
-    this prevents stale PNG fallbacks from hiding a freshly promoted SVG.
+    handed to Pandoc uses `figure.gray.png` when it exists, then `figure.png`
+    when it exists beside `figure.svg`, preserving the caption and any trailing
+    Pandoc image attributes. File modification times are deliberately ignored:
+    Git operations can make a paired SVG appear newer than its PNG even when
+    both belong to the same committed figure revision.
     """
-    def current(candidate: Path, source: Path) -> bool:
-        return candidate.exists() and candidate.stat().st_mtime >= source.stat().st_mtime
-
     def replace(match: re.Match) -> str:
         prefix, image_path, suffix = match.groups()
         source_path = BOOK_DIR / image_path
         if source_path.name.endswith(".gray.png"):
             return match.group(0)
         gray_path = gray_png_path(source_path)
-        if current(gray_path, source_path):
+        if gray_path.exists():
             return f"{prefix}{gray_path.relative_to(BOOK_DIR).as_posix()}{suffix}"
         if source_path.suffix.lower() == ".svg":
             png_path = source_path.with_suffix(".png")
             gray_png = gray_png_path(png_path)
-            if current(gray_png, source_path):
+            if gray_png.exists():
                 return f"{prefix}{gray_png.relative_to(BOOK_DIR).as_posix()}{suffix}"
-            if current(png_path, source_path):
+            if png_path.exists():
                 return f"{prefix}{png_path.relative_to(BOOK_DIR).as_posix()}{suffix}"
         return match.group(0)
 
@@ -718,14 +718,12 @@ def clean_chapter(text: str, canonical_title: str) -> str:
     text = DRAFT_NOTES_RE.sub("", text)
     text = text.strip()
 
-    # Replace the chapter's own # heading with the assembly's canonical title
-    lines = text.split("\n", 1)
-    if lines and lines[0].startswith("# "):
-        rest = lines[1] if len(lines) > 1 else ""
-        rest = DRAFT_HEADER_RE.sub("", rest.lstrip())
-        text = f"# {canonical_title}\n\n{rest}"
-    else:
-        text = f"# {canonical_title}\n\n{text}"
+    # A few chapter sources place the epigraph before their own H1. Remove the
+    # source H1 wherever it occurs, then place the canonical title once at the
+    # beginning so Pandoc emits exactly one LaTeX chapter command.
+    text = CHAPTER_HEADER_RE.sub("", text, count=1).strip()
+    text = DRAFT_HEADER_RE.sub("", text.lstrip()).strip()
+    text = f"# {canonical_title}\n\n{text}"
 
     return text.strip() + "\n"
 

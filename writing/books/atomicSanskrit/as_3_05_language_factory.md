@@ -45,7 +45,7 @@ The procedure has six steps.
 5. **Apply the cipher to all dhātus, nominals, and morphemes** consistently. Surface forms transform; abstract structure (dhātu + suffix + ending; case inflection; conjugation; *sandhi*) is preserved.
 6. **Render the output in Devanagari** — the same script that renders the original Sanskrit. A reader who knows Sanskrit can recover the *dhātus* and morphemes by inspection.
 
-The grammar passes through unchanged. Agent nouns remain agent nouns. Present-tense verbs remain present-tense verbs. Case endings still hold case. *Sandhi* still governs junctions. The phonemes change; the architecture does not.
+The grammar passes through unchanged. Agent nouns remain agent nouns. Present-tense verbs remain present-tense verbs. Case endings still encode case. *Sandhi* still governs junctions. The phonemes change; the architecture does not.
 
 What the substrate contributes: the phonemes. What Sanskrit's engine contributes: everything else.
 

@@ -16,7 +16,7 @@
 
 # Chapter 13 — Why Preservation Needs Engineering
 
-## 13.1 What Sanskrit Has to Hold
+## 13.1 What Sanskrit Has to Preserve
 
 Sanskrit's architecture was built to last. Its visible components now include the **वर्णमाला (*varṇamālā*)** as the engineered phonetic grid, the **धातवः (*dhātavaḥ*)** as an inventory of reactive atoms, the **गणाः (*gaṇāḥ*)** as Pāṇini's operating classes, the **उपसर्गाः (*upasargāḥ*)** and **प्रत्ययाः (*pratyayāḥ*)** as the bonding procedure, and the **अष्टाध्यायी (*Aṣṭādhyāyī*)** as the formal specification. The system is integrated and complete.
 
@@ -26,13 +26,13 @@ Sanskrit's own vocabulary has a name for the danger: **अपभ्रंशः 
 
 Left alone, language drifts, or *falls away.*
 
-What Sanskrit has to hold is concrete: sound, meaning, grammar, meter, recitation, and usage, all of it under the ordinary pressure of human speech. The Vedas make the problem visible at full scale. They hold cosmological inquiry, metaphysical vision, ethical order, mathematical proportion, astronomical observation, healing knowledge, and the rules of precise, performative action. Embedded within that breadth is the linguistic architecture this volume isolates: the sound-body, the metrical body, the grammatical body, and the recitational body.
+What Sanskrit has to preserve is concrete: sound, meaning, grammar, meter, recitation, and usage, all of it under the ordinary pressure of human speech. The Vedas make the problem visible at full scale. They encode cosmological inquiry, metaphysical vision, ethical order, mathematical proportion, astronomical observation, healing knowledge, and the rules of precise, performative action. Embedded within that breadth is the linguistic architecture this volume isolates: the sound-body, the metrical body, the grammatical body, and the recitational body.
 
 The Vedas function as sacred corpus and primary calibration matrix at once. If that matrix drifts, the calibrant drifts with it.
 
 Because Speech, as the epigraph describes, may be visible and audible yet not truly seen or heard, the Veda requires much more than passive storage. It requires a dynamic preservation system capable of producing the precisely trained listener to whom Speech can reveal herself.
 
-What belongs to ordinary flow, and what must be held? Sanskrit has the distinction ready-made: *prākṛta*, *saṃskṛta*, and *sanātan*.
+What belongs to ordinary flow, and what must be preserved? Sanskrit has the distinction ready-made: *prākṛta*, *saṃskṛta*, and *sanātan*.
 
 ## 13.2 *Prākṛta*, *Saṃskṛta*, *Sanātan*
 
@@ -40,11 +40,11 @@ The civilization that engineered Sanskrit organized its world through a function
 
 **प्राकृत (*prākṛta*)** represents the natural and the changing. Because it is whatever arises through ordinary social processes—everyday speech, stories, customs, local usages, technologies, and memories that adapt as they pass through tellers and listeners—*Prākṛta* is allowed to flow.
 
-**संस्कृत (*saṃskṛta*)** is the wholy-synthesized/engineered: it is what has been worked, refined, and deliberately held against drift. *Saṃskṛta* serves as the name of the language itself because the language structurally belongs to this category. Consequently, the *Vedas*, the phonetic specification, the formal grammar, the *dhātu* inventory, and the metrical system are not left to ordinary flow; rather, they are held.
+**संस्कृत (*saṃskṛta*)** is the wholy-synthesized/engineered: it is what has been worked, refined, and deliberately protected against drift. *Saṃskṛta* serves as the name of the language itself because the language structurally belongs to this category. Consequently, the *Vedas*, the phonetic specification, the formal grammar, the *dhātu* inventory, and the metrical system are not left to ordinary flow; rather, they are preserved.
 
 **सनातन (*sanātan*)** denotes the perpetual ground that does not move. *Saṃskṛta* forms are built to remain on that ground, while *Prākṛta* forms serve purposes that allow them to change. The classification assigns each form a function rather than a rank.
 
-The Sanskrit grammatical literature calls the two modes directly: **प्राकृतिक (*prākṛtika*)** for the flowing category, **सांस्कृतिक (*sāṃskṛtika*)** for the held-against-drift category. The categories are functional, not hierarchical.
+The Sanskrit grammatical literature calls the two modes directly: **प्राकृतिक (*prākṛtika*)** for the flowing category, **सांस्कृतिक (*sāṃskṛtika*)** for the protected-against-drift category. The categories are functional, not hierarchical.
 
 A local story is *prākṛtika* by purpose, meeting the listener where the listener lives, where change acts as renewal. A Vedic phonetic form is *sāṃskṛtika* by purpose, demanding identical transmission across generations, where change is degradation.
 
@@ -70,7 +70,7 @@ The Indic engineering refused that dependency for the content that could not be 
 
 *Lipi* remained appropriate for the *prākṛtika* bucket: administration, commentary, education, plays, contemporary stories, regional literature, practical communication. But for the *sāṃskṛtika* bucket — the *Vedas*, the phonetic specification, the recitational system, the architecture's calibrants — writing was insufficient.
 
-The Abrahamic-substrate civilizations made the opposite engineering choice. Their revelatory cores are anchored in the *written word*: the Hebrew Bible, the Christian New Testament, the Qur'an. The capitalization of *Scripture* in English — the elevated capital-S of the religious text, distinct from the lower-case *scripture* of merely-written matter — signals the structural elevation the Abrahamic-substrate framework gives to the perishable-medium technology. The medium has been made theological. The institutional carrier (the church, the synagogue, the mosque; later the academy as the *church of progress*) controls the production, distribution, and interpretation of the medium. The medium's destructibility becomes the institution's lever. Who can copy the manuscript can copy it differently; who can burn the manuscript can erase what it held.
+The Abrahamic-substrate civilizations made the opposite engineering choice. Their revelatory cores are anchored in the *written word*: the Hebrew Bible, the Christian New Testament, the Qur'an. The capitalization of *Scripture* in English — the elevated capital-S of the religious text, distinct from the lower-case *scripture* of merely-written matter — signals the structural elevation the Abrahamic-substrate framework gives to the perishable-medium technology. The medium has been made theological. The institutional carrier (the church, the synagogue, the mosque; later the academy as the *church of progress*) controls the production, distribution, and interpretation of the medium. The medium's destructibility becomes the institution's lever. Who can copy the manuscript can copy it differently; who can burn the manuscript can erase what it contained.
 
 The Indic engineering refused the lever. The architecture did not place its *sāṃskṛtika* content on a destructible medium that an institutional intermediary could control.
 
@@ -88,13 +88,13 @@ The pyramid commits category theft twice. It first dates a surviving written int
 
 The ***foundational dogma***'s softer version is more revealing: Brāhmī was adapted brilliantly from a Western source by an unnamed Indic genius. The praise sounds generous. It performs erasure. The brilliance is assigned to the adapter of an interface; the engineering of the sound-system disappears. Appendix Part 3, *The Sonomer and the Audiograph*, develops the argument in full and coins ***audiography*** for the engineered visual capture of articulated sound the script implements. Calling Brāhmī an *abugida* — or filing it under any other surface category of script — is like calling the decimal place-value system "numeral notation." It catalogs the visible symbols and misses the architecture that lets a handful of them generate everything. The glyphs are secondary; the *varṇamālā* is the grid that *audiography* renders into script.
 
-The same interface theft could treat the infinity glyph as the origin of infinity. The glyph made infinity easier to write; it did not make infinity thinkable. *Pūrṇam*, *anādi*, and *ananta* already hold the civilizational grammar of the unbounded.
+The same interface theft could treat the infinity glyph as the origin of infinity. The glyph made infinity easier to write; it did not make infinity thinkable. *Pūrṇam*, *anādi*, and *ananta* already express the civilizational grammar of the unbounded.
 
 This is the **heroic erasure** move (Chapter 1 §1.6) applied at the script level. The pattern generalizes. *Heroic erasure* is the asuric machinery's standing move against the **engineering thesis**. Every move has the same shape. A named Indic figure or lineage is celebrated for some surface or secondary contribution — so-called *codification*, documentation, transmission, adaptation — and the celebration is structured *not* to acknowledge that the architecture the figure was operating within is itself engineered. The machinery elevates Pāṇini as the *brilliant documenter* and erases the *varṇamālā* and *dhātupāṭha* he was operating within. It praises the **प्रातिशाख्य (*Prātiśākhya*)** authors as careful phoneticians and erases the engineered phonology they were documenting. It praises the **शिक्षा (*Śikṣā*)** discipline as devoted teachers and erases the engineered specification they were transmitting. Here, it elevates the *brilliant adapter* of Aramaic and erases the *varṇamālā* the script renders. Naming a brilliant Indian *operator* is how the pyramid denies Indian engineering. The *"brilliant adapter"* of Aramaic is the *"clever improver"* of Roman numerals — a figure no historian of mathematics has ever needed. Appendix Part 3 §3.5 reverses the burden in full.
 
-The rebuttal follows the same sequence: Sanskrit's sound-system was engineered, the Vedas held the engineering, and the later disciplines decoded what the architecture already held.
+The rebuttal follows the same sequence: Sanskrit's sound-system was engineered, the Vedas preserved the engineering, and the later disciplines decoded what the architecture had already encoded.
 
-Brāhmī is not a consonantal-alphabetic script of the Aramaic family with a brilliantly-organized Indic surface bolted on top. Brāhmī is the *varṇamālā* made visible. Each consonant glyph maps to a specific *sthāna* and *prayatna* in the engineered phonology Chapter 9 lays out; each vowel glyph holds the temporal specification of its *swara*; the script's own pedagogical ordering reflects the *varga* matrix the *Prātiśākhya* discipline transmits. Devanagari encodes the same *varṇamālā* with different surface glyphs — the structural identity of the two scripts as *varṇamālā* renderings is what makes Devanagari fully readable to anyone who knows the *varṇamālā*. There is no adaptation of an Aramaic template that produces the *varga* matrix, the *sthāna* / *prayatna* organization, or the vowel-diacritic system mapping to the *swara* inventory; those features are not in the Aramaic source and could not be derived from it by any adaptation, brilliant or otherwise. They are in the *varṇamālā*. A few glyph-shapes may show contact influence; the *encoding system* is purely the *varṇamālā*'s.
+Brāhmī is not a consonantal-alphabetic script of the Aramaic family with a brilliantly-organized Indic surface bolted on top. Brāhmī is the *varṇamālā* made visible. Each consonant glyph maps to a specific *sthāna* and *prayatna* in the engineered phonology Chapter 9 lays out; each vowel glyph encodes the temporal specification of its *swara*; the script's own pedagogical ordering reflects the *varga* matrix the *Prātiśākhya* discipline transmits. Devanagari encodes the same *varṇamālā* with different surface glyphs — the structural identity of the two scripts as *varṇamālā* renderings is what makes Devanagari fully readable to anyone who knows the *varṇamālā*. There is no adaptation of an Aramaic template that produces the *varga* matrix, the *sthāna* / *prayatna* organization, or the vowel-diacritic system mapping to the *swara* inventory; those features are not in the Aramaic source and could not be derived from it by any adaptation, brilliant or otherwise. They are in the *varṇamālā*. A few glyph-shapes may show contact influence; the *encoding system* is purely the *varṇamālā*'s.
 
 The engineering lies in the *varṇamālā*: it maps the mouth, identifies the *sthāna* and *prayatna*, and builds the multi-axis matrix that the *Prātiśākhya* discipline documents. Once that sound architecture exists, visible glyphs can provide an interface for each *varṇa*. The ***church of progress*** dates that interface and then treats the date as the origin of the architecture, even though the sound-system operates independently of marks engraved on stone.
 
@@ -102,13 +102,13 @@ The engineering lies in the *varṇamālā*: it maps the mouth, identifies the *
 
 India has an oral tradition. So does every civilization.
 
-Every culture holds stories, songs, genealogies, rituals, epics, family memories, and moral instruction through the mouth. African griots, Irish bards, Homeric performers, Norse saga transmitters, Hebrew oral teaching, Arabic poetry, Indigenous American story lineages, Aboriginal Australian narrative memory — oral transmission is universal. There is nothing uniquely Indic about having it; nor is there anything distinctively advanced about having a written one.
+Every culture preserves stories, songs, genealogies, rituals, epics, family memories, and moral instruction through the mouth. African griots, Irish bards, Homeric performers, Norse saga transmitters, Hebrew oral teaching, Arabic poetry, Indigenous American story lineages, Aboriginal Australian narrative memory — oral transmission is universal. There is nothing uniquely Indic about having it; nor is there anything distinctively advanced about having a written one.
 
 What is uniquely Indic is not oral tradition. It is **aural engineering**.
 
 The term *oral tradition* covers many kinds of transmission, including some that preserve wording with high precision. It does not by itself tell the reader what degree of exactness a system requires. The Vedic system makes trained hearing part of the specification, so this book calls it **aural engineering**.
 
-*Oral* points to production by the mouth; *aural* points to reception by the ear. Vedic training asks the mouth to reproduce vowel length, accent, breath gesture, articulation, sequence, and rhythm while trained listeners compare the recitation with the form they already hold. The mouth produces the line, and the ear supplies an independent check.
+*Oral* points to production by the mouth; *aural* points to reception by the ear. Vedic training asks the mouth to reproduce vowel length, accent, breath gesture, articulation, sequence, and rhythm while trained listeners compare the recitation with the form they already know. The mouth produces the line, and the ear supplies an independent check.
 
 The ***progressive dogma*** collapses both into "oral tradition" because both happen without writing. The collapse serves the linear-progress teleology (Chapter 2 §2.4): writing is taken to be advanced, oral transmission to be primitive residue. The dogma's framing has the engineering backwards.
 
@@ -128,7 +128,7 @@ The label *oral tradition* tells the reader nothing about the architecture. It t
 
 ### Guarded Form and Living Speech
 
-An authority can preserve a selected form for centuries, but its control over that form does not stop speakers elsewhere from changing their language. Petrification therefore produces two streams: institutions hold a bounded form through text, school, clergy, or state, while children continue acquiring and changing the speech used at home and in ordinary life.
+An authority can preserve a selected form for centuries, but its control over that form does not stop speakers elsewhere from changing their language. Petrification therefore produces two streams: institutions preserve a bounded form through text, school, clergy, or state, while children continue acquiring and changing the speech used at home and in ordinary life.
 
 Latin shows the pattern clearly. Classical and ecclesiastical forms remained under textual and church custody while spoken varieties developed into the Romance languages. Quranic Arabic remained guarded through the *muṣḥaf*, recitation, memorization, and authorized readings while Moroccan, Egyptian, Levantine, Gulf, and other spoken Arabics continued changing. Classical Greek remained available through texts and schooling as Koine, Byzantine, and modern forms developed. Literary Tibetan likewise remained a learned form while spoken Tibetan varieties changed. In each case, the guarded form and the changing speech continued beside one another.[NOTE: petrified-bounded-forms]
 
@@ -138,21 +138,21 @@ Modern Hebrew followed a rarer path. The movement that returned Hebrew to househ
 
 The Hebrew placed into daily use drew upon Biblical, Mishnaic, medieval, and modern Hebrew, while contact with other languages shaped its growing vocabulary and usage. As children and communities began using Hebrew for every circumstance, pronunciation, syntax, vocabulary, idiom, and regional variation resumed botanical change.[NOTE: petrified-bounded-forms]
 
-These histories separate two movements that the word *codification* tends to blur. Petrification occurs when authority holds an organic form in place. Revivification returns such a form to ordinary speech, where daily usage resumes botanical change. Latin, Greek, Arabic, and Tibetan retained guarded forms beside parallel changing streams; Modern Hebrew crossed back into botanical life.
+These histories separate two movements that the word *codification* tends to blur. Petrification occurs when authority fixes an organic form in place. Revivification returns such a form to ordinary speech, where daily usage resumes botanical change. Latin, Greek, Arabic, and Tibetan retained guarded forms beside parallel changing streams; Modern Hebrew crossed back into botanical life.
 
 ### Preservation by Calibration
 
 External authority can preserve a bounded form with considerable rigor. Sanskrit solves a different preservation problem by placing the measure inside a generative language and inside the people trained to transmit it.
 
-The grammatical principle is: bond first, usage second, *śāstra* third (Chapter 5). The calibration matrix is that principle scaled to civilization. The standard already stands; the system trains bodies, ears, memory, grammar, and community to hold usage against it.
+The grammatical principle is: bond first, usage second, *śāstra* third (Chapter 5). The calibration matrix is that principle scaled to civilization. The standard already stands; the system trains bodies, ears, memory, grammar, and community to keep usage aligned with it.
 
 A Sanskrit form passes from teacher to student with the same vowel length, accent, and sequence, generation after generation, while ordinary speech around it changes. That constancy under transmission is **ध्रौव्यता (*dhrauvyatā*)**. Sanskrit can therefore serve as the fixed measure against which sound, form, memory, grammar, and usage are checked: **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**, the calibrant language.
 
 Sanātan assigns the calibrant and ordinary speech different work. People conduct daily life through *prākṛtika* languages, regional speech-fields, household speech, songs, and market idioms. These living languages adapt with their speakers, while Sanskrit remains available as the measure that preserves knowledge and long memory.
 
-This arrangement allows natural languages to flourish without treating them as failed Sanskrit. It also allows the calibrant to remain invariant without turning it into an apex language imposed on every household. The measure holds, and ordinary speech continues to flow.
+This arrangement allows natural languages to flourish without treating them as failed Sanskrit. It also allows the calibrant to remain invariant without turning it into an apex language imposed on every household. The measure remains stable, and ordinary speech continues to flow.
 
-Like **ध्रुव (*dhruva*)**, the fixed star, Sanskrit serves as the disciplined, preserved, architected measure against which knowledge, *yajña*, grammar, memory, and civilizational continuity can be held. The Vedic corpus, the Prātiśākhya discipline, Śikṣā, Chandas, the *pāṭha* systems, Vyākaraṇam, the Dhātupāṭha, and the *guru-shishya* lineage-chains form its calibration architecture. Those who choose the path of rigor accept the burden of preservation. Their training turns correctness into practice by detecting change, correcting it, and refining the human instrument that holds the form.
+Like **ध्रुव (*dhruva*)**, the fixed star, Sanskrit serves as the disciplined, preserved, architected measure against which knowledge, *yajña*, grammar, memory, and civilizational continuity can be evaluated. The Vedic corpus, the Prātiśākhya discipline, Śikṣā, Chandas, the *pāṭha* systems, Vyākaraṇam, the Dhātupāṭha, and the *guru-shishya* lineage-chains form its calibration architecture. Those who choose the path of rigor accept the burden of preservation. Their training turns correctness into practice by detecting change, correcting it, and refining the human instrument that preserves the form.
 
 *Paramparā* supplies the distributed transmission architecture that the English word "tradition" fails to describe. Its vertical dimension preserves exact form through the *guru-shishya* lineage-chain, while its horizontal dimension moves learned people among villages, towns, assemblies, yajña settings, *pāṭhaśālās*, *maṭhas*, and scholarly circuits. Society sustains that movement by providing lodging, food, patronage, *dakṣiṇā*, travel support, public debate, yajña invitations, and scholarly exchange, allowing knowledge to circulate without placing it under a central authority.
 
@@ -164,7 +164,7 @@ Sanskrit has its own names for both paths. **श्रवण (*śravaṇa*)** �
 
 These two learning-paths also sort out Pāṇini's role: while it remains unknown whether a Pāṇini-style work existed when Sanskrit's architecture was first laid down, the *Aṣṭādhyāyī* itself cites pre-Pāṇinian *vaiyākaraṇāḥ*—Śākalya, Gārgya, Āpiśali, Kāśyapa, Sphoṭāyana, and others—whose works did not survive transmission. Although there may or may not have been earlier sūtra-level documentation that was lost, no such claim is necessary.
 
-What survived on the rule-extraction side is one matter. What survived on the saturation side is observable. The Vedic corpus survived, together with its recitation lineages, and the Vedas function as a calibrant matrix: a preserved body of language that holds form against drift across thousands of years. Where a form is in doubt, the Veda settles it. Where pronunciation is in doubt, the *Prātiśākhya* settles it. Where transmission risks decay, the eleven *pāṭhas* of recitation restore it.
+What survived on the rule-extraction side is one matter. What survived on the saturation side is observable. The Vedic corpus survived, together with its recitation lineages, and the Vedas function as a calibrant matrix: a preserved body of language that protects form against drift across thousands of years. Where a form is in doubt, the Veda settles it. Where pronunciation is in doubt, the *Prātiśākhya* settles it. Where transmission risks decay, the eleven *pāṭhas* of recitation restore it.
 
 Pāṇini's *Aṣṭādhyāyī* added a second redundancy layer on top of that calibrant matrix. The sūtra-level rule-system made the language's structure explicit, compact, portable, recoverable, and teachable. This second layer is especially powerful for rule-trained minds — the *vyākaraṇa*-type readers for whom the rule clicks before the pattern settles. Where the Veda preserves the form as performed, the *Aṣṭādhyāyī* preserves the form as derivable. Pāṇini did not replace the Veda. He added a path suited to another kind of mind.
 
@@ -184,9 +184,9 @@ A *śravaṇa*-trained reader can correct by mantra. The wrong form is heard as 
 
 The student hears **दधाति (*dadhāti*)** inside the line, and the wrong form drops away. The mantra cites itself. No rule is needed.
 
-Both readers arrive at the same form. They do not depend on each other. The Veda would correct the error if the *Aṣṭādhyāyī* had never been compiled. The *Aṣṭādhyāyī* corrects the error even where the relevant Vedic line is not at hand. Two independent layers of redundancy hold the same form in place, and two independent layers accommodate two kinds of mind.
+Both readers arrive at the same form. They do not depend on each other. The Veda would correct the error if the *Aṣṭādhyāyī* had never been compiled. The *Aṣṭādhyāyī* corrects the error even where the relevant Vedic line is not at hand. Two independent layers of redundancy preserve the same form, and two independent layers accommodate two kinds of mind.
 
-Because if the corpus is lost, the sūtra survives, and if the sūtra is lost, the corpus survives, only the loss of both degrades the language. Therefore, Sanskrit holds both paths simultaneously.
+Because if the corpus is lost, the sūtra survives, and if the sūtra is lost, the corpus survives, only the loss of both degrades the language. Therefore, Sanskrit preserves both paths simultaneously.
 
 This is **संस्कृति (*saṃskṛti*)** as preservation system: distributed self-correction without apex command. A pyramid can announce a standard and punish deviation. It cannot, by authority alone, make every participant an instrument of detection. Sanskrit's preservation architecture does that. The threat is not only that the language survived. The threat is that it survived without needing the pyramid.
 

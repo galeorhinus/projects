@@ -22,7 +22,7 @@
 
 The usual count gives three Abrahamic religions. The modern world has four, and the fourth succeeds because it does not call itself one.
 
-Judaism drew the line; Christianity reformed it in Roman antiquity, and Islam reformed it again in late antiquity. Each preserved the structural template of the form before it — a chosen community, an authorized doctrine, a boundary between insider and outsider, a missionary or expansionary obligation, and a history moving toward a promised end. The doctrinal contents differ. The template holds.
+Judaism drew the line; Christianity reformed it in Roman antiquity, and Islam reformed it again in late antiquity. Each preserved the structural template of the form before it — a chosen community, an authorized doctrine, a boundary between insider and outsider, a missionary or expansionary obligation, and a history moving toward a promised end. The doctrinal contents differ. The template persists.
 
 Progressivism inherited the template wholesale: it discarded the religious vocabulary and kept the religious machinery.
 
@@ -68,7 +68,7 @@ At the doctrinal level, two coordinated dogmas operate.
 
 The first is the **progressive dogma**. It defends the time-axis: recent means advanced; ancient means primitive or preliminary. Every surface disagreement inside the church of progress runs against this background. The progressive left says humanity advances through emancipation. The developmentalist right says humanity advances through markets and innovation. The institutional center says humanity advances through managed combinations of both. The disagreement is operational. The upward trajectory is shared.
 
-The engineered Sanskrit thesis is unacceptable inside this frame. It claims that an ancient civilization possessed an architectural sophistication the present has not surpassed: a precision-engineered language, a calibration matrix encoded in the *Vedas*, and a preservation architecture that has held across thousands of years without observable drift. If that is true, the arrow of progress has at least one civilizational fact wrong. If it has one wrong, the rest of the sequence becomes available for re-examination.
+The engineered Sanskrit thesis is unacceptable inside this frame. It claims that an ancient civilization possessed an architectural sophistication the present has not surpassed: a precision-engineered language, a calibration matrix encoded in the *Vedas*, and a preservation architecture that has endured across thousands of years without observable drift. If that is true, the arrow of progress has at least one civilizational fact wrong. If it has one wrong, the rest of the sequence becomes available for re-examination.
 
 The second is the **foundational dogma**. It defends the origin-axis: engineered writing, grammar, abstraction, and civilizational form must originate in the named Western corridor — Sumerian cuneiform, Egyptian hieroglyphs, Phoenician alphabet, Greek extension, Latin inheritance — while everything outside that corridor either descends from it or arrives too late to count.
 
@@ -76,7 +76,7 @@ The two dogmas cooperate. A deep ancient achievement threatens the progressive d
 
 Erasure of the engineering does the work. If Sanskrit is natural, the progress story survives. If Brāhmī is adapted from Aramaic, the corridor survives. If the pyramid can recast Pāṇini (पाणिनि) as codifier rather than decoder, the late figure absorbs the architecture. One vocabulary protects two doctrines.
 
-Behind the linear-progress pillar stands the doctrinal formation that holds it. The main chapters prosecute the language-level case; Appendix Part 3 takes the script-level case. Both dogmas are surfaces of the same asuric pyramid.
+Behind the linear-progress pillar stands the doctrinal formation that sustains it. The main chapters prosecute the language-level case; Appendix Part 3 takes the script-level case. Both dogmas are surfaces of the same asuric pyramid.
 
 ## 4.3 The Church of Progress
 
@@ -127,7 +127,7 @@ The official defense of peer review is quality control. The reality is more ambi
 
 The Hindu continuum condemns this kind of gatekeeping through **बन्दिन् (*Bandin*)**.
 
-In the *Vana Parva* of the *Mahābhārata*, Bandin holds King Janaka's court against challengers. He has defeated learned men before him. The young **अष्टावक्र (*Aṣṭāvakra*)**, twisted in body and young in years, comes to challenge him. Bandin's first move is procedural. The gate asks: Who are you? What standing do you have? Who recognized you as worthy to enter?
+In the *Vana Parva* of the *Mahābhārata*, Bandin presides over King Janaka's court against challengers. He has defeated learned men before him. The young **अष्टावक्र (*Aṣṭāvakra*)**, twisted in body and young in years, comes to challenge him. Bandin's first move is procedural. The gate asks: Who are you? What standing do you have? Who recognized you as worthy to enter?
 
 Because Aṣṭāvakra defeats the gate before he defeats Bandin, he fundamentally exposes the fraud: a council that judges by age, appearance, and external standing before ever hearing the argument is not a council of the learned, but a council of fools. Therefore, the lineage's verdict is clear: the hero is Aṣṭāvakra, and the villain is Bandin.[NOTE: ashtavakra-bandin-mahabharata]
 
@@ -145,7 +145,7 @@ The verdict remains the same. The hero is the challenger denied standing. The vi
 
 The Hindu continuum supplies older words for the same pattern. They distinguish the darkness, the actor, and the repeated habit of action. **तमस् (*tamas*)** is inertia and darkness: the quality of an operation that cannot accommodate light. **असुराः (*asurāḥ*)** are the actors who consolidate power through hierarchy, deception, and withheld light. ***Asuratva*** (असुरत्व) is the recurring mode in which they act.
 
-**स्वर् (*svar*)** gathers sun, heaven, light, the bright firmament, and the *dhātu* ⟪सुर्⟫ (*sur*) means *to shine* — the morphology gives the diagnosis. **सुरः (*suraḥ*)** is the shining one. **असुरः (*asuraḥ*)** is the privative formation: not-light. An asuric formation operates by withholding light — the obscuration Chapter 1 §1.3 traces to **स्वर्भानु (*Svarbhānu*)**, whose name holds the very *svar* he eclipses: Sūrya darkened, not destroyed. Chapter 3 §3.6 develops the full analysis of the *asura* word; Chapter 18 develops the contact-history consequences; the polity-architectural implications belong to a forthcoming volume in the *Second Shanti* series.
+**स्वर् (*svar*)** gathers sun, heaven, light, the bright firmament, and the *dhātu* ⟪सुर्⟫ (*sur*) means *to shine* — the morphology gives the diagnosis. **सुरः (*suraḥ*)** is the shining one. **असुरः (*asuraḥ*)** is the privative formation: not-light. An asuric formation operates by withholding light — the obscuration Chapter 1 §1.3 traces to **स्वर्भानु (*Svarbhānu*)**, whose name contains the very *svar* he eclipses: Sūrya darkened, not destroyed. Chapter 3 §3.6 develops the full analysis of the *asura* word; Chapter 18 develops the contact-history consequences; the polity-architectural implications belong to a forthcoming volume in the *Second Shanti* series.
 
 *Asuratva* has a characteristic geometry: the pyramid. Authority concentrates at the apex, labor spreads across the tiers, and the base loses its voice. The apex is jealous of an order he did not build and cannot place under his command. A distributed architecture threatens the entire arrangement because it demonstrates another form of order with no summit for him to occupy.
 
@@ -155,7 +155,7 @@ Each containment pillar repeats that geometry. The racial pillar places Europe a
 
 In the ternary introduced in the front matter, this is exactly **विकृति (*vikṛti*)**—recurrence deliberately distorted into control. Rather than being hierarchy just once, the pyramid is hierarchy constantly reproducing itself as doctrine, institution, funding, credential, and inherited obedience.
 
-The three pyramids converge on a single target. The racial pillar attacks *Sanātan* through the engineered language that preserves it. The theological pillar attacks through the chronology that contains it. The progress pillar attacks through the linear-time framework that cannot accommodate the cyclical-time civilizational memory the Indic continuum holds. Three vectors; same target.
+The three pyramids converge on a single target. The racial pillar attacks *Sanātan* through the engineered language that preserves it. The theological pillar attacks through the chronology that contains it. The progress pillar attacks through the linear-time framework that cannot accommodate the cyclical-time civilizational memory the Indic continuum preserves. Three vectors; same target.
 
 *Sanātan* is not silent about *asuratva*. The *Itihāsa* and *Purāṇa* corpus preserves hundreds of cases of asuric formations becoming powerful and being defeated by characters aligned with the dharmic order. **Hiraṇyakaśipu** gives the *daitya* form of apex command: power consolidated through a boon engineered to be irrevocable; the boon's structural blind-spot becomes the defeat. **Mahiṣāsura** gives the disguise-and-shape-shift form: control accumulated through forms that Durgā's discriminating intelligence can pierce. **Rāvaṇa** embodies the institutionalized rākṣasa pyramid: absolute command at the apex, ministerial layers enforcing the hierarchy, and a population bound to the ruler’s grand project. His defeat comes through a suric coalition — an alliance that mobilizes the very populations the apex arrogantly assumed were too insignificant to coordinate against him. **Vṛtra** gives the obstruction form: waters withheld from circulation until Indra restores the flow. Each story is a recipe. Sanskrit's corpus preserves the recipes; the civilization has transmitted them across thousands of years through recitation, temple, festival, theatre, household narration, regional performance, commentary, and teacher-student lineages.
 
@@ -177,13 +177,13 @@ A system that displays दिव्यता (*divyatā*) and preserves लो�
 
 **सनातन (*Sanātan*)** is the name the civilization gives to the engineered Sanskrit architecture, recognizing it as integral, perpetual, and the very ground on which civilization continues. Because the *Vedas* preserve the system as a calibration matrix against entropy, the *pāṭha* discipline encodes the calibration with engineered redundancy, and *Vyākaraṇam* makes the internal laws explicit, this architecture has always existed—and its continuous operation is the empirical fact at the center of this book.
 
+![Figure 4.2 — Pyramid and Swastika: Two Architectures of Authority. The pyramid authorizes from above; the swastika architecture transmits, tests, and corrects through society itself.](figures/fourth_abrahamic/pyramid_and_swastika.svg){#fig:ch4-pyramid-swastika width=100%}
+
 The fourth Abrahamic religion is the institutional formation that has tried to absorb, contain, or overwrite that architecture. Earlier formations did it through military and administrative power. The fourth does it through academic, cultural, legal, and developmental power. The vocabulary has secularized. The structural project has not.
 
 The dharmic continuum has its own primary-source diagnosis of the foreign binary the Abrahamic substrate imposed on India. In the *Assalāyana Sutta*, the Buddha observes that the *ārya/dāsa* binary is visible among foreign-bordering nations such as Yona and Kamboja, not as an Indic universal — the dharmic continuum itself documenting the binary as foreign to the dharmic frame.[NOTE: assalayana-sutta-fwd] Chapter 3 §3.2 sets out the citation in full; the Epilogue returns to *āryatva* as invitation rather than race.
 
-These two architectures contest asymmetrically: while the fourth Abrahamic religion tries to force an integrated civilization into an imported binary structure, the architecture of *Sanātan* holds beneath the surface, its robust design carrying it intact through every change in political-administrative regime.
-
-![Figure 4.2 — Pyramid and Swastika: Two Architectures of Authority. The pyramid authorizes from above; the swastika architecture transmits, tests, and corrects through society itself.](figures/fourth_abrahamic/pyramid_and_swastika.svg){#fig:ch4-pyramid-swastika width=100%}
+These two architectures contest asymmetrically: while the fourth Abrahamic religion tries to force an integrated civilization into an imported binary structure, the architecture of *Sanātan* endures beneath the surface, its robust design carrying it intact through every change in political-administrative regime.
 
 Each stage exposes a different layer of the same pyramid:
 

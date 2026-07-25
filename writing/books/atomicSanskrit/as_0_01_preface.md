@@ -71,7 +71,7 @@ That childhood question now opens the architectural claim. Sanskrit's free word 
 
 ## The Pyramid's Clock
 
-**सनातन (*Sanātan*)** does not begin with a first day and does not terminate in a final end. Its time-sense is **कालचक्र (*kālacakra*)**, the wheel of time, held inside **अनादि (*anādi*)**, the beginningless, and **अनन्त (*ananta*)**, the endless. Onto this infinite field, the pyramid forces its finite clock—one more plate in the eclipse.
+**सनातन (*Sanātan*)** does not begin with a first day and does not terminate in a final end. Its time-sense is **कालचक्र (*kālacakra*)**, the wheel of time, moving within **अनादि (*anādi*)**, the beginningless, and **अनन्त (*ananta*)**, the endless. Onto this infinite field, the pyramid forces its finite clock—one more plate in the eclipse.
 
 **The beginningless and the endless deny the apex what it needs most: a first point it can own.**
 

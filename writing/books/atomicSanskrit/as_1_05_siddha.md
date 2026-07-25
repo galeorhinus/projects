@@ -76,9 +76,9 @@ Then Patañjali places the decisive Vārttika at the opening:
 >
 > *Given that the bond between word and meaning is established, and given that worldly word-usage is prompted by meaning, śāstra regulates correct usage.*[NOTE: siddhe-shabdarthasambandhe-mbh]
 
-The epigraph uses the opening clause: **सिद्धे शब्दार्थसम्बन्धे (*siddhe śabdārthasambandhe*)**. Six syllables that hold the weight of the discipline.
+The epigraph uses the opening clause: **सिद्धे शब्दार्थसम्बन्धे (*siddhe śabdārthasambandhe*)**. Six syllables that contain the weight of the discipline.
 
-Because *Siddhe* is the locative of *siddha* (meaning "in the established", or "where the established holds") and **शब्दार्थसम्बन्ध (*śabdārthasambandha*)** is the bond between word and meaning, this construction formally announces the premise from which the entire commentary proceeds. While the pyramid’s linguistic account treats this bond as mere convention—produced by usage, maintained by a speech community, and arbitrarily altered by time—Patañjali begins from the absolute opposite position: the bond is already established.
+Because *Siddhe* is the locative of *siddha* (meaning "in the established", or "where the established condition prevails") and **शब्दार्थसम्बन्ध (*śabdārthasambandha*)** is the bond between word and meaning, this construction formally announces the premise from which the entire commentary proceeds. While the pyramid’s linguistic account treats this bond as mere convention—produced by usage, maintained by a speech community, and arbitrarily altered by time—Patañjali begins from the absolute opposite position: the bond is already established.
 
 The full sentence then moves in exact order. First comes the established bond. Then comes **लोकतोऽर्थप्रयुक्ते शब्दप्रयोगे (*lokato 'rthaprayukte śabdaprayoge*)** — word-usage in the world, prompted by meaning. Only after those two premises comes **शास्त्रेण धर्मनियमः (*śāstreṇa dharmaniyamaḥ*)** — regulation by *śāstra* of correct usage. Patañjali gives the order: bond first, usage second, *śāstra* third. *Śāstra* regulates usage. It does not manufacture the bond.
 
@@ -110,11 +110,11 @@ If the bond is *siddha*, grammar studies a structural object. Words and meanings
 
 These two models are not simply two theories of the same object; rather, they define fundamentally different objects. While modern historical linguistics studies *kārya* (language as ongoing production), Patañjalian grammar studies *siddha* (language as established structure). Therefore, to apply *kārya* methods to a *siddha* system is to inevitably study the wrong object using the wrong tools.
 
-## 5.4 The Bond Holds
+## 5.4 The Bond Remains Established
 
 Patañjali concludes that the bond is *siddha*.
 
-The bond does not evolve or mutate. It is a structural constant. This does not mean a word can hold only one sense. Sanskrit is comfortable with meaning-fields: गो / गौः (go / gauḥ) can point to cow, earth, speech, ray, and more. The claim is not single-sense rigidity; the claim is that the field is established, recoverable, and anchored in action.
+The bond does not evolve or mutate. It is a structural constant. This does not mean a word can express only one sense. Sanskrit is comfortable with meaning-fields: गो / गौः (go / gauḥ) can point to cow, earth, speech, ray, and more. The claim is not single-sense rigidity; the claim is that the field is established, recoverable, and anchored in action.
 
 Patañjali reaches this conclusion through the Indian method of stating and examining the opposing position before establishing the settled conclusion. The reader may be familiar with the पूर्वपक्ष–सिद्धान्त (pūrvapakṣa–siddhānta). The technical details belong to the *Paspaśāhnika* itself. The structural fact belongs here: the *Mahābhāṣya* places the *siddha* commitment at the opening of the received commentary and lets the rest of the grammatical project follow from it.
 
@@ -130,9 +130,9 @@ Patañjali's *Mahābhāṣya*, standing over Pāṇini's *Aṣṭādhyāyī*, ca
 
 Patañjali's argument rests on two claims.
 
-First: by holding the bond between a word and its meaning to be fixed, Patañjali automatically rejects the premise of change and drift. Modern historical linguistics assumes languages mutate, drift, and renew, and the linguist tracks the trajectory. Patañjali's framework refuses that assumption at the metaphysical level: grammar exists to defend the bond.
+First: by treating the bond between a word and its meaning as fixed, Patañjali automatically rejects the premise of change and drift. Modern historical linguistics assumes languages mutate, drift, and renew, and the linguist tracks the trajectory. Patañjali's framework refuses that assumption at the metaphysical level: grammar exists to defend the bond.
 
-The second: Sanskrit begins from permanence, a premise that accommodates error without treating variation as the bond's behavior. Patañjali fully recognized variation, misuse, and corruption, but held that the bond remains established while speakers slip from it. The *vaiyākaraṇaḥ* keeps that bond visible against the linguistic slips.
+The second: Sanskrit begins from permanence, a premise that accommodates error without treating variation as the bond's behavior. Patañjali fully recognized variation, misuse, and corruption, but maintained that the bond remains established while speakers slip from it. The *vaiyākaraṇaḥ* keeps that bond visible against the linguistic slips.
 
 The engineered Sanskrit thesis is therefore not alien to the Sanskrit lineage. Engineering language restates Sanskrit's own grammatical self-description. *Engineered first* states the architecture's priority. *Siddha* captures the architecture's metaphysical property. There is no codification event because there is no transition from drift to fixity. The bond was *siddha* before Pāṇini sat down to document it; it remained *siddha* after he finished. Pāṇini documented a *siddha* system. Patañjali says so at the opening of the *Mahābhāṣya*.
 

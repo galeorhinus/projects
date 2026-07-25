@@ -89,9 +89,9 @@ Different from दृश्/पश्, and the stronger example if a functional 
 
 ## 5. Book implications & deployment
 
-- **Strengthens Ch18 §18.9.** The clean framing: *Sanskrit files दृश्→पश्य in the same rule as स्था→तिष्ठ — one enumerated class of present-stem substitutions, and the calibrant attests the distribution directly. The machinery mistakes one documented substitution for descent from two ancestors, while leaving the identical-looking स्था→तिष्ठ alone — because that one offers no second root to reconstruct.* That last clause is the tell.
-- **The reframe is *calibration vs reconstruction*** — both work on drift; reconstruction invents an unattested ancestor, calibration checks against an attested reference. Candidate for a compact deployment (Ch1 chronology / Ch17–18), and a natural *Second Shanti* theme at civilizational scale.
-- **A testable research program.** Where the Vedic attestation of a form is *thin*, branch 2 predicts Pāṇini's treatment should read as *construction* rather than *documentation*. Runnable against this same corpus: find sparse-attestation *dhātus* and inspect whether the rule is data-derived or design-imposed.
+- **Preserved outside the Chapter 18 body.** The clean framing remains available for a later Companion case: *Sanskrit places दृश्→पश्य in the same rule as स्था→तिष्ठ — one enumerated class of present-stem substitutions, and the calibrant records the distribution directly. The machinery treats one documented substitution as descent from two ancestors while leaving the similar स्था→तिष्ठ relation alone, because that one offers no second atom to reconstruct.*
+- **The reframe is *calibration vs reconstruction*.** Both examine changed forms; reconstruction invents an unrecorded ancestor, while calibration checks a form against a recorded measure. This may support Chapter 1, Chapters 17–18, or a later *Second Shanti* treatment at civilizational scale.
+- **A testable research program.** Where the Vedic record of a form is thin, branch 2 predicts that Pāṇini's treatment may reveal construction rather than documentation. The same corpus can identify sparsely recorded *dhātavaḥ* and test whether each rule was derived from existing use or completed by design.
 - **Keep the manuscript light.** One line + endnote at most for the suppletion (the discussion is not the deliverable). Use **अस्/भू** if a *functional* suppletion example is wanted; keep the दृश्/पश् "why" open. The collision hypothesis is retracted — do not deploy it.
 
 ## 6. Verification flags

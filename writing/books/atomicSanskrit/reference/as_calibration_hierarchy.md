@@ -67,7 +67,7 @@ Codex review (2026-05-19) drafted a 12-point compression of the pyramid's specul
 - Point 9 (in deployed version): the *heroic erasure* standing term (Chapter 1 §1.6, Chapter 13 §13.3) is named by reference.
 - Points 8, 9, 10, 11: the pyramid's namings scare-quoted (*"late conservatism," "codification," "evolving Vedic Sanskrit," "Pāṇinian codification," "Classical Sanskrit as late standardization"*) to make the attribution visible.
 - New Point 10 / Point 11 (deployed version): *bake/recipe* cooking-vocabulary deployed at the chain-summary point (*"The chain is the recipe; PIE is the bake"*).
-- New Point 12 (deployed version, replacing Codex's Point 11/12): the *data-now-contests-the-chain* move — Path A's productivity-particle signature, Path C's cross-corpus invariance, the column-axis concentration, the *juhotyādi* C4-enrichment — added as the closing structural move; the chain held because no link had been falsified; the links are no longer unfalsified.
+- New Point 12 (deployed version, replacing Codex's Point 11/12): the *data-now-contests-the-chain* move — Path A's productivity-particle signature, Path C's cross-corpus invariance, the column-axis concentration, the *juhotyādi* C4-enrichment — added as the closing structural move; the chain survived because no link had been falsified; the links are no longer unfalsified.
 - Closing paragraph: *useful comparative apparatus* concession dropped (per the book's Ch 17–18 polemic position); the *church of progress / priests / jihadis / missionaries / asuric mode* vocabulary deployed in place of the generic *"institutional robes."*
 
 The deployed version lives at `as_1_01_botanical.md` §1.1 (the *Two speculations* subsection, *The pyramid's speculation* sub-subsection).

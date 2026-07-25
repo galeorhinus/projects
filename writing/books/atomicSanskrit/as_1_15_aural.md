@@ -6,7 +6,7 @@ The Veda is heard as recitation: breath, pitch, duration, accent, sequence, and 
 
 This preservation is audible in the *pāṭhas* — living recitation systems maintained in identifiable lineages, taught in *gurukulas*, examined by teachers, performed before communities, and available to the ear.
 
-The *saṃhitā-pāṭha* is recited in temples and homes across the subcontinent and the diaspora. The *krama-pāṭha* is taught by lineages that still test it formally. The *ghana-pāṭha* is mastered by senior reciters who hold a title recognized across Vedic communities. These are the operational layer of the preservation system mapped earlier (Chapter 14).
+The *saṃhitā-pāṭha* is recited in temples and homes across the subcontinent and the diaspora. The *krama-pāṭha* is taught by lineages that still test it formally. The *ghana-pāṭha* is mastered by senior reciters who bear a title recognized across Vedic communities. These are the operational layer of the preservation system mapped earlier (Chapter 14).
 
 *Auditure* is what is heard; *Mnemoniture* is what is remembered in story, wisdom, setting, and civilizational memory. The *Śikṣā* discipline trains the speech instrument, and the eleven *pāṭhas* re-encode the corpus. Continuous recitation across geographically separated lineages, with periodic contact among them, supplies the empirical cross-check. Sanskrit's preservation architecture leaves an observable engineering signature. The eleven *pāṭhas* are that signature.
 
@@ -28,7 +28,7 @@ Auditure begins in trained hearing, and *Śikṣā* trains the body to produce w
 
 The eleven *pāṭhas* divide into two groups. The five *prakṛti-pāṭhas* are primary recitations. The six *vikṛti-pāṭhas* are modified recitations that apply deeper permutations. Together they form one of the densest preservation codes any civilization has produced.[NOTE: eleven-pathas-full-list]
 
-***Saṃhitā-pāṭha*** (संहितापाठ) is the continuous recitation. Words are joined by *sandhi*. This is the flowing Vedic form, the verse as heard in its connected body. Every join holds information: vowel length, voicing, nasal placement, consonantal transition, accent, and breath.
+***Saṃhitā-pāṭha*** (संहितापाठ) is the continuous recitation. Words are joined by *sandhi*. This is the flowing Vedic form, the verse as heard in its connected body. Every join encodes information: vowel length, voicing, nasal placement, consonantal transition, accent, and breath.
 
 ***Pada-pāṭha*** (पदपाठ) is the word-by-word recitation. The *sandhi* is unwound. Each *pada* stands apart. The form makes morphology audible and fixes the word-boundaries that the flowing *saṃhitā* conceals. This is the recitation Yāska's *Nirukta* assumes and the recitation Pāṇini's **अष्टाध्यायी (*Aṣṭādhyāyī*)** refers back to in its derivations. The *pada-pāṭha* is itself a kind of analytical commentary, fixed in recitation form.
 

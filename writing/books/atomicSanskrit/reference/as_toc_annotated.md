@@ -15,7 +15,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - What Was Eclipsed — *The claim in brief: the language bears the word* saṃskṛtam; *the* paramparā *received and documented it; the architecture is on the page and in the mouth, treated as anything but obvious only because the field around it was darkened.*
 - The Boy's Question — *The author's childhood encounter with* sandhi *while reciting* Bhagavad Gītā *1.2 — calibration in the mouth — that set the engineering thesis in motion.*
 - The Pyramid's Clock — *Chronology capture: once the pyramid owns the clock it can call one layer early, another late, turning domain into period and mode into stage. Category before calendar.*
-- Lineage and Method — *The* paramparā *held the central position; Patañjali's* siddhe śabdārthasambandhe; *the decoding lineage; the architectural route from* varṇa *to language;* apauruṣeya *as the lineage-chain's own account of origin.*
+- Lineage and Method — *The* paramparā *occupied the central position; Patañjali's* siddhe śabdārthasambandhe; *the decoding lineage; the architectural route from* varṇa *to language;* apauruṣeya *as the lineage-chain's own account of origin.*
 - What Follows — *The roadmap, eclipse-framed: how the shadow is cast, the Sun's own account, its sound-body and atoms, its anti-entropy, and the dispelling of Rāhu — until the Sun stands whole. Diagnosis ends; the Śaṅkha sounds next.*
 
 ---
@@ -35,7 +35,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 0.4 *Saṃskṛtam* and *Prākṛtāni* — *The language's self-naming —* perfectly synthesized *or* wholly created *— and its contrast term* prākṛtāni; *the categorical distinction the preservation engineering builds on.*
 - 0.5 A Language of Infinity — Words Without Limit — *The* dhātu *+* upasarga *+* pratyaya *combinatorics: finite atomic inventory, practically limitless word-space.*
 - 0.6 A Language of Infinity — Counting Without Limit — *The place-value system and* śūnya; *ten digits span all arithmetic; the same finite-input / infinite-output principle Sanskrit applies to words.*
-- 0.7 The Civilization That Holds It — *The* guru-shishya paramparā *as the transmission medium; geographically-distributed recitation lineages operating today; the calibration system is audible.*
+- 0.7 The Civilization That Preserves It — *The* guru-shishya paramparā *as the transmission medium; geographically-distributed recitation lineages operating today; the calibration system is audible.*
 - 0.8 The Fractal Test — *The orientation hand and the fractal claim: the same organizing law recurs from mouth to language; the other fractal — the asuric pyramid — is named, and the battle that follows clears the shadow it casts.*
 
 **Chapter 1 — One, ___, and the Finite** *(drafted)* — *The antagonist chapter (promoted from the former AP0). The number is **one**: the asuric apex-one. The apex is a Him — a blank each age fills (Hiraṇyakaśipu, Rāvaṇa, Vṛtra). Names finitism, the fractal of deformation (*vikṛti*), chronology capture, and Svarbhānu's operation (obscuration of the category). Keeps the Atri payoff out of the body; the Epilogue owns the recovery.*
@@ -91,10 +91,10 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 5.1 The Grammar Before the Grammar — *Patañjali's* Mahābhāṣya *and its position in the* vyākaraṇa *discipline.*
 - 5.2 The Opening Axiom — *Kātyāyana's compressed maxim that opens the debate.*
 - 5.3 The Choice: *Siddha* or *Kārya* — *The two opposing positions on the word-meaning bond.*
-- 5.4 The Bond Holds — *Patañjali's resolution: the bond is established, permanent, not produced.*
+- 5.4 The Bond Remains Established — *Patañjali's resolution: the bond is established, permanent, not produced.*
 - 5.5 Sanskrit Begins from Permanence — *What the resolution implies: a language that began from correctness rather than arriving at it by evolution.*
 
-**Chapter 6 — *Apabhraṃśa* and Entropy** — *The vaiyākaraṇāḥ documented the entropy that European philology later treated as the language's defining behavior.* ***Apabhraṃśa*** *— the falling-away — is the entropy resisted by design; Patañjali's correct-to-corrupt ratio is the documentary anchor. The four classifications from Chapter 2 return under entropic pressure, after which **calibrant** describes the anchoring that holds words against drift across three distances: Sanskrit, orbital languages, and forms beyond the active field.*
+**Chapter 6 — *Apabhraṃśa* and Entropy** — *The vaiyākaraṇāḥ documented the entropy that European philology later treated as the language's defining behavior.* ***Apabhraṃśa*** *— the falling-away — is the entropy resisted by design; Patañjali's correct-to-corrupt ratio is the documentary anchor. The four classifications from Chapter 2 return under entropic pressure, after which **calibrant** describes the anchoring that protects words from drift across three distances: Sanskrit, orbital languages, and forms beyond the active field.*
 
 - 6.1 Entropy Has a Name — *Sanskrit calls linguistic falling-away **apabhraṃśa**; the vaiyākaraṇāḥ analyze it as a permanent pressure on established form.*
 - 6.2 Few Words, Many Corruptions — *Patañjali's count of correct-to-corrupt forms; the vaiyākaraṇāḥ were quantitative about drift.*
@@ -125,11 +125,11 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 
 **Chapter 8 — The Subcontinental Sound-Field** — *The survey chapter. Distinguishes a physically produced sound from a language-level coordinate, explains the inventory-atlas method, and uses southern and forest-belt surveys to show the subcontinental field lighting most Sanskrit base coordinates, with the gaps as near-neighbor snap-to-grid moves.*
 
-- 8.1 The Sounds Already Here — *The subcontinent already holds the mouth-zones, retroflex band, contact sounds, nasals, sibilants, and breath possibilities Sanskrit curates.*
+- 8.1 The Sounds Already Here — *The subcontinent already uses the mouth-zones, retroflex band, contact sounds, nasals, sibilants, and breath possibilities Sanskrit curates.*
 - 8.2 A Sound Is Not Always a Slot — *The field-versus-coordinate distinction.*
 - 8.3 How We Map the Sounds — *The inventory-atlas method: harmonized coordinates,* mahāprāṇa-*strip preset, union-coverage survey.*
 - 8.4 A Note on *Draviḍa* and Dravidian — *Uses current labels without accepting the racial Arya / Dravidian civilizational divide.*
-- 8.5 The Sound-Field Holds — *The field is stable enough for an engineered selection to be plausible.*
+- 8.5 The Sound-Field Persists — *The field is stable enough for an engineered selection to be plausible.*
 - 8.6 The Southern Survey: 20 of 23 — *Tamil, Toda, and Kurukh light twenty of the twenty-three Sanskrit base coordinates.*
 - 8.7 The Forest-Belt Survey: 18 of 23 — *Korku, Mundari, and Ho light eighteen of the twenty-three.*
 - 8.8 External Controls — *Western IE and Central Asian controls show much lower coverage.*
@@ -150,7 +150,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 9.8 What Earns a Coordinate — *The two addresses outside the independent inventory expose the distinction between surveyed material, governed outputs, and reusable sonomers.*
 - 9.9 Engineered Margin — *What Sanskrit leaves out as collision-avoidance and preservation margin.*
 - 9.10 Varṇa Is Not Letter — *The Alphabetic shadow lifted:* varṇa *is a measured sound-particle, the* varṇamālā *a sonomeric grid — not an alphabet of marks. The marks are downstream; the grid is the engineering.*
-- 9.11 The Grid Holds the Garland — *The close: addressed, role-assigned, timed sonomers become the parts Chapter 10 snaps into atoms.*
+- 9.11 The Grid Orders the Garland — *The close: addressed, role-assigned, timed sonomers become the parts Chapter 10 snaps into atoms.*
 
 ---
 
@@ -170,12 +170,12 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 ## Part V — The Sun Does Not Decay
 *Calibration from within.*
 
-*The engineered preservation system that has held Sanskrit acoustically stable across thousands of years: the problem, the calibration matrix, and the aural architecture in operation.*
+*The engineered preservation system that has kept Sanskrit acoustically stable across thousands of years: the problem, the calibration matrix, and the aural architecture in operation.*
 
 **Chapter 13 — Why Preservation Needs Engineering** *(drafted)* — *Sets up anti-entropy as the central engineering problem.* Apabhraṃśa *is the default trajectory; the architecture had to design against it. Writing (*lipi*) is disqualified for the* sāṃskṛtika *bucket on perishable-medium grounds; the Abrahamic Scripture choice is contrasted as the institutional-control lever the Indic engineering refused. Includes the Brāhmī-from-Aramaic refutation (abugida names the surface; audiography names the engineering) and corrects* oral tradition *into* aural.
 
-- 13.1 What Sanskrit Has to Hold — *Apabhraṃśa *as the default the engineering had to design against; the three-chapter handoff.*
-- 13.2 *Prākṛta*, *Saṃskṛta*, *Sanātan* — *The two-bucket organization: flowing-allowed vs. held-against-drift; the engineering precondition.*
+- 13.1 What Sanskrit Has to Preserve — *Apabhraṃśa *as the default the engineering had to design against; the three-chapter handoff.*
+- 13.2 *Prākṛta*, *Saṃskṛta*, *Sanātan* — *The two-bucket organization: flowing-allowed vs. protected-from-drift; the engineering precondition.*
 - 13.3 Why Writing Was Insufficient — *Lipi *as perishable medium; the* Scripture *contrast; the script-chronology obsession (Brāhmī-from-Aramaic). Brāhmī is the* varṇamālā *made visible; the numerals/place-value analogy lands the reduction. Letter-shapes are the digits; the grid is the place-value.*
 - 13.4 *Aural*, Not *Oral* — *Concession-and-pivot: every culture has an oral tradition; the distinctively Indic thing is the* aural *engineering — exact phonetic preservation. Forward-points to* Auditure.
 - 13.5 *Calibrated*, Not *Codified* — *Codification preserves by authority; Sanskrit calibrates by architecture; the fixed-measure frame (*dhruva-māna-bhāṣā*).*
@@ -185,7 +185,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 14.1 The Four Preservation Modes — *Three axioms + the four-coinage taxonomy with etymology, medium, sense-and-skill, content category, and Indic counterpart.*
 - 14.2 Auditure and Speech-Hearing Engineering — *Why the speech-hearing pair is the deepest mode; the audience-as-redundancy-check; the Indic mechanism for guarding the guards.*
 - 14.3 The Six Preservation Layers — *The calibration matrix proper: six layers at six timescales; the* Śikṣā *pedagogy across all six;* Chandas *as cryptographic hash.*
-- 14.4 Chandas Counts What Poetry Can Hold — *Metrical combinatorics:* laghu/guru mātrā *budgets force the poet to count arrangements, producing the sequence later called Fibonacci.*
+- 14.4 Chandas Counts the Possibilities of Poetry — *Metrical combinatorics:* laghu/guru mātrā *budgets force the poet to count arrangements, producing the sequence later called Fibonacci.*
 - 14.5 The Whole Language Carries the Sūtra-Discipline — *The same six* sūtra-lakṣaṇam *characteristics operating at language scale; the Vedic/Classical mode defense.*
 - 14.6 Control Cases: Codification by Authority — *Masoretic, Quranic, ecclesiastical-Latin, and modern-standard control cases; codification guards bounded objects by authority, calibration places the standard inside a living architecture.*
 - 14.7 The Engineering Precedes Pāṇini — *Loop-close to heroic erasure at the matrix level: the matrix predates Pāṇini; he operates it; the founder-celebration erases it.*
@@ -205,7 +205,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 
 *The eclipse-device itself — Rāhu, the imaginary ancestor placed over the Sun — comes into view, and the plates that subordinate Sanskrit to it are lifted: the subcontinental mouth-and-mind evidence, the wrong question, and the dispelling of PIE.*
 
-**Chapter 16 — The Subcontinental Mouth and Mind** — *Establishes that Sanskrit holds the subcontinent's mouth and mind before the portability thesis is tested: retroflex articulation, reduplication, receiver grammar, doer-demotion, and folded action. The chapter then makes the migration account walk its own claimed northwest route.*
+**Chapter 16 — The Subcontinental Mouth and Mind** — *Establishes that Sanskrit encodes the subcontinent's mouth and mind before the portability thesis is tested: retroflex articulation, reduplication, receiver grammar, doer-demotion, and folded action. The chapter then makes the migration account walk its own claimed northwest route.*
 
 - 16.1 The Mouth: *Mūrdhanya* — *The curled tongue, the Veda's first word, and the subcontinental sound-field.*
 - 16.2 The Mouth Doubles: Reduplication — *Repetition as field habit, then as Sanskrit architecture.*
@@ -214,7 +214,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 16.5 The Mind Sequences: The Folded Action — *Prior action compressed into forms such as pītvā and hatvā.*
 - 16.6 One Field, Encoded — *The five features gathered as one subcontinental field.*
 - 16.7 The Notices — *The pyramid's changing Aryan notices mocked by their retained custody tag.*
-- 16.8 The Borrowing Model Cannot Hold — *The claimed route must explain the cluster Sanskrit holds structurally.*
+- 16.8 The Borrowing Model Fails — *The claimed route must explain the cluster Sanskrit encodes structurally.*
 - 16.9 The Corpus Cannot Be Rewritten — *The Vedic corpus already preserves the field; style and mode are not chronology.*
 - 16.10 Engineering, Not Contact — *Contact can move forms; engineering assigns place, role, and scale.*
 - 16.11 What the Grammar Keeps — *The grammar preserves a stance that refuses to crown the ego.*
@@ -230,7 +230,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 17.7 An Honest Speculation for the Rationalist Mind — *The calibrated alternative for the mind that cannot accept* apauruṣeya.
 - 17.8 Pāṇini Praised, Architecture Erased — *The heroic-erasure close: Pāṇini's greatness granted, then reclassified as decoding.*
 
-**Chapter 18 — PIE in the Sky** — *The case against PIE. The bookkeeping defense is rejected; the asterisk is denied ancestor-status; the recipe is shown through* kṛt, jan, asura, yuj, *and* bhṛ. *PIE is in the sky. The architecture is on the ground.*
+**Chapter 18 — PIE in the Sky** — *The case against PIE. The bookkeeping defense is rejected; the asterisk is denied ancestor-status; the recipe is shown through* kṛt, jan, asura, *and* yuj. *PIE is in the sky. The architecture is on the ground.*
 
 - 18.1 Schleicher's Bake — *Opening anecdote; the asterisk convention; the conlang comparison (Quenya, Klingon).*
 - 18.2 The Bookkeeping Defense — *Why methodological openness cannot save the construct.*
@@ -238,9 +238,8 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 18.4 The Cementing — *Third-pillar diagnosis; recent-decades cementing in routine reference.*
 - 18.5 The Recipe, Step by Step — *The* kṛt / \*(s)ker- *case: mobile* s, *meaningless extension, zero-grade device, and the Sanskrit atom at the center.*
 - 18.6 Kin, Kind, King: the Dictionary Shift — *The* jan / \*ǵenh₁ *case: the star moves into the source slot and Sanskrit is demoted into the cognate list.*
-- 18.7 *Pratibimba* — *Vivimorphosis chains as arrow blockquotes; the calibrant /* Pratibimba *triad.*
-- 18.8 PIE Is a Lie — *Asura* — Asuraḥ *worked example with the* PIE is a Lie *escalation.*
-- 18.9 Mapping Sanskrit's Radiance — *The starred PIE yoke image is compared language by language with the recorded Sanskrit family; Devanagari sound-renderings, the* varṇamālā, *Pāṇini, Hemacandra, and fivefold* vyutpatti *become a repeatable student method before the chapter tests* bhṛ *and returns to* jan.
+- 18.7 *Pratibimba* — *Vivimorphosis chains, the calibrant /* Pratibimba *triad, and a compact* yuj / yoke *demonstration introduce the Sanskrit Radiance Mapping Project; Appendix Part 1 develops the reusable method and further cases.*
+- 18.8 PIE Is a Lie — *Asura* — Asuraḥ *worked example, the* PIE is a Lie *escalation, and the chapter's final handoff toward life after PIE.*
 
 ---
 

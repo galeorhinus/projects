@@ -6,7 +6,7 @@ That is the question Proto-Indo-European tries to answer. The question is wrong.
 
 The preceding chapters have established an engineered sound-grid, the *dhātavaḥ*, generative rules, a retroflex core, a calibration matrix, a living recitation system, and the analytical disciplines that preserved and decoded the whole. Together, these features describe an engineered linguistic architecture rather than a natural speech-form drifting from an earlier natural speech-form.
 
-Part VI turns to the account that has continued to treat this object as something else. The next two chapters divide that work. Ch17 establishes the structural argument: the genealogical project asks the wrong question of Sanskrit, and any precursor model held inside that project will fail the same structural test for the same structural reason. Chapter 18 tests the specific construct — PIE — directly. Together the two chapters close the loop opened in Chapter 1: the botanical metaphor fails on a language engineered against the behavior the metaphor describes; Ch17 develops the structural reason no genealogical reconstruction can recover what the metaphor has prevented from being seen.
+Part VI turns to the account that has continued to treat this object as something else. The next two chapters divide that work. Ch17 establishes the structural argument: the genealogical project asks the wrong question of Sanskrit, and any precursor model framed inside that project will fail the same structural test for the same structural reason. Chapter 18 tests the specific construct — PIE — directly. Together the two chapters close the loop opened in Chapter 1: the botanical metaphor fails on a language engineered against the behavior the metaphor describes; Ch17 develops the structural reason no genealogical reconstruction can recover what the metaphor has prevented from being seen.
 
 A genealogical question asks for ancestry. An architectural question asks for construction. The two are not variants of each other. Bṛhaspati's *vācam akrata* already points to the second question: Speech formed by the wise with the mind, not a natural object waiting for a family tree.
 
@@ -79,7 +79,7 @@ The genealogical project does not fail because it needs a small correction. It f
 
 The progressive dogma has treated the genealogical model as the default and the engineered Sanskrit thesis as the claim needing proof. That default is unearned.
 
-One assumption holds the default up: Sanskrit is the same kind of object as other natural languages in a descent tree. Once that assumption fails, the default fails with it. The preceding evidence shows why it fails. Sanskrit is not merely inherited speech. It is engineered speech, preserved speech, decoded speech, and rule-governed speech.
+One assumption supports the default: Sanskrit is the same kind of object as other natural languages in a descent tree. Once that assumption fails, the default fails with it. The preceding evidence shows why it fails. Sanskrit is not merely inherited speech. It is engineered speech, preserved speech, decoded speech, and rule-governed speech.
 
 Until the precursor model can account for Sanskrit's sound-to-*dhātu* architecture, preservation system, retroflex core, and formal grammar, it remains an external genealogy, not an internal explanation and the default changes.
 
@@ -151,7 +151,7 @@ India was never a sealed chamber. People entered India, left India, traded with 
 
 Foreign genetic material in India therefore proves movement, contact, or ancestry. It does not prove that Sanskrit was imported. It does not prove that the *varṇamālā* was designed on the steppe. It does not prove that the Vedic recitation systems arrived with a moving population. It does not prove that Pāṇini decoded an external inheritance. The pyramid's account wants one conclusion from many possible facts: movement means authorship. That conclusion has to be argued. It cannot be smuggled in through DNA vocabulary.[NOTE: migration-trap-movement-not-authorship]
 
-Appendix Part 3 §3.5 has already run this move in another domain: it grants every glyph-shape resemblance between Brāhmī and Aramaic and shows that resemblance still cannot hold the sonomeric grid the script renders. *Resemblance is not genealogy; contact is not authorship; shape is not structure.* DNA is that same evidence at another scale — it can show the bodies moved; it cannot show who built the architecture. **Shape is not structure. Movement is not authorship.** One trap, two domains, one signature move.
+Appendix Part 3 §3.5 has already run this move in another domain: it grants every glyph-shape resemblance between Brāhmī and Aramaic and shows that resemblance still cannot encode the sonomeric grid the script renders. *Resemblance is not genealogy; contact is not authorship; shape is not structure.* DNA is that same evidence at another scale — it can show the bodies moved; it cannot show who built the architecture. **Shape is not structure. Movement is not authorship.** One trap, two domains, one signature move.
 
 
 <!-- AISWEEP-OLD
@@ -175,7 +175,7 @@ Sanskrit need not spread because a race migrated; the calibrant thesis treats su
 This argument does not require denying movement; denying movement would merely accept the trap. The deeper point requires separating motion from creation. While the Racial Arya Thesis needs movement to supply an external author, the engineered Sanskrit thesis never fears movement, rooting its argument for authorship in construction: sound-grid, atom, molecule, sentence, recitation, grammar, and calibration.
 
 
-The trap asks the reader to choose between inward migration and outward migration. Sanskrit asks a better question: what was built, how was it preserved, and what kind of civilization could hold it?
+The trap asks the reader to choose between inward migration and outward migration. Sanskrit asks a better question: what was built, how was it preserved, and what kind of civilization could preserve it?
 
 Restoring authorship leaves ample room for human movement without allowing movement to stand as proof that Sanskrit was created elsewhere.
 
@@ -197,11 +197,11 @@ The motive is preservation with discrimination. Let what can flow, flow. Let wha
 3. What can be examined is the architecture that survived: sound, meter, atom, rule, recitation, correction, and lineage.
 4. Entropy is real. Ordinary speech drifts; memory weakens; pronunciation loosens; usage spreads outward into **अपभ्रंश (*apabhraṃśa*)**. A language as precise as Sanskrit could not have been left to habit alone.
 5. The Vedas stand as the primary calibrant: encoded perfection, perfect when seen, perfect when heard, perfect today.
-6. This argument treats one layer of what the Vedas preserve: the engineered linguistic system Sanskrit instantiates. The corpus holds other architectures also — ritual, cosmology, metaphysics, measure, healing, transmission, and more — but the linguistic layer is measurable, testable, and sufficient to overturn the pyramid's account.
+6. This argument treats one layer of what the Vedas preserve: the engineered linguistic system Sanskrit instantiates. The corpus preserves other architectures also — ritual, cosmology, metaphysics, measure, healing, transmission, and more — but the linguistic layer is measurable, testable, and sufficient to overturn the pyramid's account.
 7. The four Vedas need not be treated as four rungs on a historical ladder. Difference of function is not proof of difference in date.
 8. A more honest speculation is that the four Vedas were four functions of one preservation architecture. Across generations, mantras may have been seen, heard, arranged, and stabilized within those functional corpora.
-9. For a long time, implicit calibration worked. Those responsible for hearing and preserving the Vedic corpus held the primary calibrant. Those responsible for Sanskrit returned to it when *bhāṣā* needed correction.
-10. Many **वैयाकरणाः (*vaiyākaraṇāḥ*)** decoded what the Vedas held: Yāska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, the **प्रातिशाख्य (*Prātiśākhya*)** and **शिक्षा (*Śikṣā*)** disciplines, and the wider pre-Pāṇinian grammatical line. Pāṇini did not create the architecture. He documented and compressed it into a working calibrant for *bhāṣā*.
+9. For a long time, implicit calibration worked. Those responsible for hearing and preserving the Vedic corpus preserved the primary calibrant. Those responsible for Sanskrit returned to it when *bhāṣā* needed correction.
+10. Many **वैयाकरणाः (*vaiyākaraṇāḥ*)** decoded what the Vedas encoded: Yāska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, the **प्रातिशाख्य (*Prātiśākhya*)** and **शिक्षा (*Śikṣā*)** disciplines, and the wider pre-Pāṇinian grammatical line. Pāṇini did not create the architecture. He documented and compressed it into a working calibrant for *bhāṣā*.
 
 11. As the age darkened further, the Vedas remained protected and Sanskrit remained protected, but the recognition of engineering was obscured. The asuric machinery could not destroy the architecture, so it misnamed it: drift became development, decoding became codification, calibration became standardization, and Sanskrit became one branch on a tree grown from an imaginary ancestor.
 
@@ -221,12 +221,12 @@ The two speculations are mirror inversions.
 | *Apabhraṃśa* | Stage in a descent tree | Entropic tendency the calibrant corrects |
 | *Aṣṭādhyāyī* | Standardization | Working calibrant for *bhāṣā* |
 | Vedas | Oldest documented stage | Primary calibrant, encoded architecture |
-| Arrow | develop, codify, decay | engineer, encode, decode, hold |
+| Arrow | develop, codify, decay | engineer, encode, decode, preserve |
 
 
 At every point in the Sanskrit continuum, two facts operate together: the Vedas remain preserved, and *bhāṣā* remains exposed to *apabhraṃśa*. Ordinary speech drifts. The recitational lineages do not.
 
-Before Pāṇini, the Vedic corpus served as the primary calibrant for correcting *bhāṣā* back toward the architecture the Vedas held. §17.5 established the operating condition: the calibration worked, but the grammar was implicit — lodged in the corpus and in the disciplines guarding it. Pāṇini changed the operating condition. He did not create the architecture and he did not replace the Vedas as the ultimate measure. He compressed the architecture into the *Aṣṭādhyāyī*, making it usable as a working calibrant for *bhāṣā*.
+Before Pāṇini, the Vedic corpus served as the primary calibrant for correcting *bhāṣā* back toward the architecture the Vedas encoded. §17.5 established the operating condition: the calibration worked, but the grammar was implicit — lodged in the corpus and in the disciplines guarding it. Pāṇini changed the operating condition. He did not create the architecture and he did not replace the Vedas as the ultimate measure. He compressed the architecture into the *Aṣṭādhyāyī*, making it usable as a working calibrant for *bhāṣā*.
 
 The pedagogical consequence belongs in Chapter 13 §13.5. Before Pāṇini, correction could operate through preserved Vedic use. After Pāṇini, the same correction also became available through explicit rule.
 
@@ -243,7 +243,7 @@ The machinery does not deny reverence. It redirects reverence.
 
 While the civilization keeps the memory active, the machinery changes its object, training the reader to bow before codification where the evidence points to calibration. By changing what the hero means rather than insulting him, heroic erasure works more effectively than direct denial.
 
-The asuric pyramid holds only as long as that move holds.
+The asuric pyramid persists only as long as that move remains effective.
 
 Sanskrit's calibration architecture rules out that forced choice because it cannot be reduced to drift before Pāṇini or codification after him.
 

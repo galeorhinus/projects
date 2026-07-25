@@ -1,6 +1,6 @@
 # Sanskrit Radiance — Dhātu-to-PIE Candidate Synthesis
 
-**Status:** Approved ranking deployed; **Claude integrated 2026-07-24** (top-three unchanged — no factual failure found; Claude's verified sūtras corroborate the yuj engine)
+**Status:** Approved ranking deployed across Chapter 18 §18.7, Appendix Part 1 §1.5, and the Sanskrit Radiance Mapping Project proposal; **Claude integrated 2026-07-24** (top-three unchanged — no factual failure found; Claude's verified sūtras corroborate the yuj engine)
 **Inputs:** Codex complete; Gemini complete; **Claude complete** (`as_sanskrit_radiance_dhatu_pie_candidates_claude.md`, deep-research pass wf_2bb6257f)
 **Evidence base:** `as_sanskrit_radiance_three_finalists_source_dossier.md`
 
@@ -43,42 +43,26 @@ The author approved this ranking on 23 July 2026.
 
 ## Chapter 18 Deployment
 
-Chapter 18 §18.9, “Mapping Sanskrit's Radiance,” now teaches the method through the three finalists.
+Chapter 18 §18.7 now introduces the method through one compact **⟪युज्⟫ / yoke** demonstration.
 
-### New section sequence
+1. It begins with PIE **\*yeug- / \*yug-**.
+2. It places Greek *zygon*, Latin *iugum*, Gothic *juk*, and English *yoke* beside the Sanskrit family.
+3. It renders the receiving forms approximately in Devanagari.
+4. It introduces Vedic **युञ्जन्ति**, **युगा**, and **युक्त** before mentioning Pāṇini's later documentation.
+5. It summarizes the **ज → ग → क** sonomer path and the **उ → ओ** relation.
+6. It names the **Sanskrit Radiance Mapping Project** and points to Appendix Part 1 for the complete method.
 
-1. **The starred yoke image**
-   - Begin with PIE **\*yeug- / \*yug-**.
-   - Examine Greek *zygon*, Latin *iugum*, Gothic *juk*, and English *yoke* one language at a time.
-   - Render each form approximately in Devanagari.
-2. **The recorded Sanskrit family**
-   - Introduce Vedic **युञ्जन्ति**, **युगा**, and **युक्त**.
-   - Map consonants, vowels, and meaning separately.
-   - Explain **ज → ग → क** on the sonomer grid and **उ → ओ** within the generated family.
-   - Bring in Pāṇini only for the Sanskrit operations he documents.
-3. **The repeatable exercise**
-   - Generalize the worked example through the fivefold *vyutpatti* method.
-   - Give students a table for the PIE image, original forms, Devanagari renderings, consonants, vowels, meaning, Indic documentation, radiance route, and result.
-4. **A second physical route**
-   - Introduce Vedic **बिभर्ति**.
-   - Show **भ / ब / φ-ph / f** while the labial place remains stable.
-   - Keep the Pāṇinian and Hemacandrian comparisons within their actual environments.
-5. **Return to birth**
-   - Point back to §18.6 rather than repeating it.
-   - Explain that the method just demonstrated supplies the sound bridge beneath *jan / gen / kin*.
-   - Preserve the *king* hammer and existing figures.
-5. **Institutional handoff**
-   - Name the **Sanskrit Radiance Mapping Project**.
-   - Direct Indian universities to test reconstructed PIE families against the *Dhātupāṭha*, the fivefold *vyutpatti* method, and recorded receiving-language forms.
+The chapter no longer carries the full research protocol, the **⟪भृ⟫** comparison, or the institutional plan. This keeps its conclusion moving while preserving one visible demonstration.
 
 ## Companion Deployment
 
 Appendix Part 1 now:
 
-1. Includes full cases for **⟪युज्⟫**, **⟪भृ⟫**, and **⟪जन्⟫**.
-2. Preserves **⟪अस्⟫ / ⟪भू⟫** in Lost and Found for possible later use as an advanced paradigm case.
-3. Separates Sanskrit operations from proposed receiving-language transformations.
-4. Coordinates its sources through endnotes `vyutpatti-fivefold-method`, `yuj-bhr-radiance-method`, and `jan-dhatupatha-double-entry`.
+1. Provides the reusable research record and the fivefold *vyutpatti* formula.
+2. Includes full cases for **⟪युज्⟫**, **⟪भृ⟫**, and **⟪जन्⟫**.
+3. Preserves **⟪अस्⟫ / ⟪भू⟫** in Lost and Found for possible later use as an advanced paradigm case.
+4. Separates Sanskrit operations from proposed receiving-language transformations.
+5. Coordinates its sources through endnotes `vyutpatti-fivefold-method`, `yuj-bhr-radiance-method`, and `jan-dhatupatha-double-entry`.
 
 The wider candidate table remains in the working reports until each row has exact Vedic, *Dhātupāṭha*, Indic natural-language, and comparative sources. It should enter the Source and Reference Companion only after that verification.
 
@@ -86,7 +70,7 @@ The wider candidate table remains in the working reports until each row has exac
 
 The university protocol should point to the new Chapter 18 demonstration:
 
-> Chapter 18 demonstrates the method first with ⟪युज्⟫, then tests a second physical route with ⟪भृ⟫, before returning to the larger ⟪जन्⟫ family. Indian universities can now repeat the exercise across the reconstructed PIE inventory.
+> Chapter 18 §18.7 introduces the method with ⟪युज्⟫. Appendix Part 1 tests a second physical route with ⟪भृ⟫ and returns to the larger ⟪जन्⟫ family. Indian universities can now repeat the exercise across the reconstructed PIE inventory.
 
 The program receives a name:
 
@@ -112,13 +96,13 @@ Claude's deep-research pass (104 agents, 25 claims adversarially verified) is fo
 1. **Ranking added** to the comparison table (Claude column). Claude reached bhṛ, jan, sthā + the method; it did not independently evaluate yuj, sad, div, dhā, mā (outside or beyond its scoped pass).
 2. **No candidate promoted over the top-three, and no finalist shows a factual failure.** On the contrary, Claude's verified sūtras *corroborate the yuj engine*: युज्→युक्त runs on **8.2.30 चोः कुः** (j→g) + **8.4.55 खरि च** (g→k), the identical path Claude confirmed via भज्→भक्त. bhṛ and jan are both independently verified. **Top-three order stands.**
 3. **Two load-bearing findings Claude adds — apply to the deployed body/appendix text:**
-   - **The Hemacandra / Prakrit leg is NOT FOUND for these operations, and the documented Prakrit direction is the *opposite*** (intervocalic lenition/voicing; bh→**h** debuccalization). This is stronger than "keep the comparison within its actual environment" (correction #5 / §18.9 step 4): for j→g→k and bh→ph there is **no** Hemacandra parallel to cite at all. Recommend the body present these as *engineered Pāṇinian* operations only, and **not** offer a Hemacandra/Prakrit parallel for the fortition/devoicing cases. (A Prakrit parallel is legitimate only for genuine lenition cases, if any finalist uses one.)
+   - **The Hemacandra / Prakrit leg is NOT FOUND for these operations, and the documented Prakrit direction is the *opposite*** (intervocalic lenition/voicing; bh→**h** debuccalization). For j→g→k and bh→ph there is **no** Hemacandra parallel to cite. The deployed text therefore presents the Sanskrit movements through Pāṇinian documentation and uses Hemacandra's bh→h material only as a different natural outcome in Prakrit.
    - **nirvacana is validated as *semantic* derivation, not historical/genetic reconstruction** (Kahrs, explicit). This backs correction #6. The proposed Sanskrit-source *direction* (layer D) must stay a hypothesis everywhere it appears; the *Dhātupāṭha* + vyutpatti method licenses semantic derivation *within* Sanskrit, not a genetic Sanskrit→PIE claim.
 4. **Rejects recorded** (not silently dropped): **गम्** (labiovelar *gʷ scatter) and **कृ** (thin non-Indic cognate reach — flagged despite the root's centrality to the book; ⚠ verify before relying on it).
 
 **Source-grade backing Claude supplies for the deployed text:** 8.2.30 चोः कुः and 8.4.55 खरि च verified verbatim (GRETIL Aṣṭādhyāyī / Kāśikā), with worked examples भज्→भक्त (velar row) and लभ्→लप्स्यति (labial); *bʰer-*, *ǵenh₁-*, *steh₂-* confirmed (Wiktionary — spot-check vs Pokorny/LIV/de Vaan/Beekes before print). **Cite the worked examples, not the abstract "devoicing-and-deaspiration" gloss of 8.4.55** (that abstract formulation verified only 1-2). Full ledger in the Claude report.
 
-**Live-text check completed 2026-07-24.** Chapter 18 §18.9, Appendix Part 1, and endnote `yuj-bhr-radiance-method` now make both boundaries explicit:
+**Live-text check completed 2026-07-24 and updated after the §18.9 relocation.** Chapter 18 §18.7, Appendix Part 1, the project proposal, and endnote `yuj-bhr-radiance-method` now make both boundaries explicit:
 
 1. Hemacandra's Prakrit evidence records aspirated stops moving toward **h**. It is presented as a different natural outcome and does not serve as a rule for Greek **ph**, Latin **f**, or Germanic **b**.
 2. The lineage's fivefold *vyutpatti* method belongs to Sanskrit word-analysis. The Sanskrit Radiance Mapping Project openly extends its categories to receiving languages and requires repeated families and plausible contact routes to establish historical direction.

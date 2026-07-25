@@ -72,7 +72,7 @@ While the pyramid can survey and rule natural drift, capture codification throug
 
 Harmony does not provide immunity. A *nastika* or *prākṛtika* formation may live peacefully beside *saṃskṛti* yet lack the institutions and long defensive memory needed to recognize a recurring asuric attack. The pyramid can then capture, co-opt, or control a formation that did not originally oppose the calibrant.[NOTE: compatibility-is-not-immunity]
 
-Preservation has to discriminate. Living forms can flow, grow, and change while the calibrant holds the measure by which balance is restored when darkness spreads. The pyramid targets that measure because capture becomes harder when correction remains distributed.
+Preservation has to discriminate. Living forms can flow, grow, and change while the calibrant preserves the measure by which balance is restored when darkness spreads. The pyramid targets that measure because capture becomes harder when correction remains distributed.
 
 The same insecurity drives the asuric obsession with chronology capture. The pyramid is threatened by **अनादि (*anādi*)**, that which has no beginning, and **अनन्त (*ananta*)**, that which has no end. Chronology becomes dangerous when it stops tracking sequence and starts assigning category. Once the pyramid owns the clock, it can call one layer early, another late, one primitive, another developed, one original, another borrowed. It can turn domain into period, mode into stage, architecture into evolution, and calibration into late correction. In the pyramid's story, the *Veda* must therefore be dated, stratified, and sequenced: the calibrant has to be forced into a clock before it can be made to descend.
 

@@ -22,7 +22,7 @@ The glossary is organized in three groups:
 
 ## 1. Engineering core vocabulary
 
-> **How to read the pairs below.** Each entry binds a Sanskrit term to its English equivalent. The Sanskrit is primary in lineage, recitation, and grammar; the English holds the engineering and chemistry idiom. Neither is decoration. They denote one object from two directions — *dhātuḥ* and *atom* are not a word and its translation, but one constituent seen from the lineage-chain's side and from the engineer's.
+> **How to read the pairs below.** Each entry binds a Sanskrit term to its English equivalent. The Sanskrit is primary in lineage, recitation, and grammar; the English supplies the engineering and chemistry idiom. Neither is decoration. They denote one object from two directions — *dhātuḥ* and *atom* are not a word and its translation, but one constituent seen from the lineage-chain's side and from the engineer's.
 
 ### **varṇa** (वर्ण) / **varṇāḥ** (वर्णाः)
 
@@ -46,7 +46,7 @@ The glossary is organized in three groups:
 
 ### **sonomeron**
 
-**Book-coined English, optional engineering rendering.** A stable sonomeric cell: one vowel-centered acoustic unit that can hold one or more sonomers without blurring their identities. Sanskrit's own word is stronger and primary: **अक्षरम् (*akṣaram*)**, the imperishable unit. *Sonomeron* is used only when the engineering analogy needs a compact English label for the *akṣara* as an assembly of sonomers.
+**Book-coined English, optional engineering rendering.** A stable sonomeric cell: one vowel-centered acoustic unit that can contain one or more sonomers without blurring their identities. Sanskrit's own word is stronger and primary: **अक्षरम् (*akṣaram*)**, the imperishable unit. *Sonomeron* is used only when the engineering analogy needs a compact English label for the *akṣara* as an assembly of sonomers.
 
 **Sanskrit pair**: *akṣara*.
 
@@ -94,13 +94,13 @@ The glossary is organized in three groups:
 
 ### **atom** / **atoms** / **semantic atom**
 
-**Book-coined English (repurposed from chemistry).** The book's English name for *dhātuḥ*. Reframes Sanskrit's foundational semantic constituent through the atomic analogue: atoms hold identity through bonding, generate molecular lexical forms combinatorially, and arrange in patterned distributions rather than random scatter.
+**Book-coined English (repurposed from chemistry).** The book's English name for *dhātuḥ*. Reframes Sanskrit's foundational semantic constituent through the atomic analogue: atoms preserve identity through bonding, generate molecular lexical forms combinatorially, and arrange in patterned distributions rather than random scatter.
 
 The book's title — ***Atomic Sanskrit*** — captures this thesis. The full stack is: *varṇa* / sonomer / particle → *dhātuḥ* / atom → *śabda* / molecule, with *upasarga* + *pratyaya* as the bonding procedure and *racanā* as the structural scaffold.
 
 **Sanskrit pair**: *dhātuḥ* / *dhātavaḥ*.
 
-**Use in book**: Chapter 2 rejects the philological botanical mistranslation; Chapter 10 establishes *dhātuḥ* as semantic atom, builds the inventory, and tests the *dhātuḥ* against the six *sūtra-lakṣaṇāni* at atomic scale; Chapter 11 shows how the atom becomes *kriyā* through operational bonding; Chapter 12 develops the next assembly level; Chapter 13 establishes the calibration architecture that holds the atomic inventory stable across time.
+**Use in book**: Chapter 2 rejects the philological botanical mistranslation; Chapter 10 establishes *dhātuḥ* as semantic atom, builds the inventory, and tests the *dhātuḥ* against the six *sūtra-lakṣaṇāni* at atomic scale; Chapter 11 shows how the atom becomes *kriyā* through operational bonding; Chapter 12 develops the next assembly level; Chapter 13 establishes the calibration architecture that keeps the atomic inventory stable across time.
 
 ### **atomic scaffold**
 
@@ -122,15 +122,15 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **calibrant** / **calibration matrix**
 
-**Book-coined English, repurposed engineering vocabulary.** Calibrant: a reference standard whose stability allows other measurements to be made against it. Sanskrit functions as the linguistic calibrant for the subcontinental sound-field and the Indic civilizational continuum. The *calibration matrix* denotes the architecture that holds the calibration in place across generations (Chapters 13–15).
+**Book-coined English, repurposed engineering vocabulary.** Calibrant: a reference standard whose stability allows other measurements to be made against it. Sanskrit functions as the linguistic calibrant for the subcontinental sound-field and the Indic civilizational continuum. The *calibration matrix* denotes the architecture that preserves the calibration across generations (Chapters 13–15).
 
 ### **calibrand**
 
-**Book-coined English, sibling to *calibrant*.** *That which is calibrated* — formed like *operand*, *multiplicand*, *analysand*: the thing acted upon. Where *calibrant* designates Sanskrit as the engineered standard, **calibrand** designates a language restructured toward it through **calibrant contact** (Chapter 18 §18.7). The calibrand languages are the set the philological machinery — treating their shared reflections as common descent — classifies as the *"Indo-European"* and *"Indo-Iranian"* families; each calibrand instead holds a *Pratibimba* (reflection) of the calibrant, not a fragment of a vanished ancestor. The term replaces a geography-plus-family-tree label with one that encodes the relation: a reflection of a standard, not descended from a parent.
+**Book-coined English, sibling to *calibrant*.** *That which is calibrated* — formed like *operand*, *multiplicand*, *analysand*: the thing acted upon. Where *calibrant* designates Sanskrit as the engineered standard, **calibrand** designates a language restructured toward it through **calibrant contact** (Chapter 18 §18.7). The calibrand languages are the set the philological machinery — treating their shared reflections as common descent — classifies as the *"Indo-European"* and *"Indo-Iranian"* families; each calibrand instead preserves a *Pratibimba* (reflection) of the calibrant, not a fragment of a vanished ancestor. The term replaces a geography-plus-family-tree label with one that encodes the relation: a reflection of a standard, not descended from a parent.
 
 ### **orbital** / **drifting** (with **Sanskritic gravity** and **radiance**)
 
-**Book-coined English, the two kinds of natural language.** While both terms name change away from an engineered form, the field itself separates them. An **orbital** language remains calibrant-anchored, moving from the standard (*apabhraṃśa*) but staying in orbit as **Sanskritic gravity** pulls it back toward a form it can still be measured against (the Indic languages anchored to or descended from Sanskrit — Marathi, Hindi, Bengali). A **drifting** form operates outside the field, moving without bound since nothing holds a center for it to depart from (English, and the far cognates). **Radiance** constitutes the outward face of the same Sun, ensuring that as Wave 1 and Wave 2 carriers take Sanskritic light beyond the field, receiving languages hold reflections (*Pratibimba*) so that where a ray lands, a tree grows—making the botanical account true there and only there. Both orbital and drifting sit inside the *prakṛti* category, distinct from the *calibrant* (Sanskrit, the standard) and from *codified* languages (drift arrested by external authority). The pair cross-cuts the *calibrand* / *Pratibimba* classification: a far calibrand (Greek, Latin, Persian) drifts, while a Sanskrit-anchored Indic language orbits, though both hold reflections of the calibrant. *Diverging* remains available as technical backup for *orbital*. Introduced in Chapter 6 §6.3 and §6.7; the radiance side developed in Chapter 18; placed in the typology in Chapter 14 §14.5.
+**Book-coined English, the two kinds of natural language.** While both terms name change away from an engineered form, the field itself separates them. An **orbital** language remains calibrant-anchored, moving from the standard (*apabhraṃśa*) but staying in orbit as **Sanskritic gravity** pulls it back toward a form it can still be measured against (the Indic languages anchored to or descended from Sanskrit — Marathi, Hindi, Bengali). A **drifting** form operates outside the field, moving without bound since no center anchors its movement (English, and the far cognates). **Radiance** constitutes the outward face of the same Sun, ensuring that as Wave 1 and Wave 2 carriers take Sanskritic light beyond the field, receiving languages preserve reflections (*Pratibimba*) so that where a ray lands, a tree grows—making the botanical account true there and only there. Both orbital and drifting sit inside the *prakṛti* category, distinct from the *calibrant* (Sanskrit, the standard) and from *codified* languages (drift arrested by external authority). The pair cross-cuts the *calibrand* / *Pratibimba* classification: a far calibrand (Greek, Latin, Persian) drifts, while a Sanskrit-anchored Indic language orbits, though both preserve reflections of the calibrant. *Diverging* remains available as technical backup for *orbital*. Introduced in Chapter 6 §6.3 and §6.7; the radiance side developed in Chapter 18; placed in the typology in Chapter 14 §14.5.
 
 ### **vivimorphosis**
 
@@ -228,7 +228,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **siddha** (सिद्ध) / **kārya** (कार्य)
 
-**Standard (Patañjali's distinction), book-elevated.** *Siddha* — established, accomplished, the engineered form that stands. *Kārya* — that which is being produced or made; the ongoing variants. Patañjali's *Mahābhāṣya* uses the pair to distinguish the engineered word (*siddha*) from the variants ordinary usage produces. The book restores this distinction as the structural opposite of the dogma's *drift* framing: the *siddha* is what holds; *kārya* denotes the variation the architecture tolerates without ever becoming the architecture's substance. The architecture is *siddha*; everything else is *kārya*. Chapter 1 §1.7 deploys; Chapter 4 develops in full.
+**Standard (Patañjali's distinction), book-elevated.** *Siddha* — established, accomplished, the engineered form that stands. *Kārya* — that which is being produced or made; the ongoing variants. Patañjali's *Mahābhāṣya* uses the pair to distinguish the engineered word (*siddha*) from the variants ordinary usage produces. The book restores this distinction as the structural opposite of the dogma's *drift* framing: the *siddha* is what remains established; *kārya* denotes the variation the architecture tolerates without ever becoming the architecture's substance. The architecture is *siddha*; everything else is *kārya*. Chapter 1 §1.7 deploys; Chapter 4 develops in full.
 
 ### **apabhraṃśa** (अपभ्रंश) / **apabhraṃśāḥ** (अपभ्रंशाः)
 
@@ -246,7 +246,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 **Standard.** "The imperishable"; the syllabic sound-bond — a *svaraḥ* with any consonantal contacts that surround it. The stable acoustic unit; the audiograph's referent.
 
-**Engineering rendering**: *sonomeron* — a sonomeric cell. The book keeps *akṣara* primary because the Sanskrit term holds both the technical and civilizational force.
+**Engineering rendering**: *sonomeron* — a sonomeric cell. The book keeps *akṣara* primary because the Sanskrit term combines the technical and civilizational force.
 
 ### **mātrā** (मात्रा)
 

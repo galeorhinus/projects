@@ -26,7 +26,7 @@
 - 0.4 *Saṃskṛtam* and *Prākṛtāni*
 - 0.5 A Language of Infinity — Words Without Limit
 - 0.6 A Language of Infinity — Counting Without Limit
-- 0.7 The Civilization That Holds It
+- 0.7 The Civilization That Preserves It
 - 0.8 The Fractal Test
 
 **Chapter 1 — One, ___, and the Finite**
@@ -73,7 +73,7 @@
 - 5.1 The Grammar Before the Grammar
 - 5.2 The Opening Axiom
 - 5.3 The Choice: *Siddha* or *Kārya*
-- 5.4 The Bond Holds
+- 5.4 The Bond Remains Established
 - 5.5 Sanskrit Begins from Permanence
 
 **Chapter 6 — *Apabhraṃśa* and Entropy**
@@ -106,7 +106,7 @@
 - 8.2 A Sound Is Not Always a Slot
 - 8.3 How We Map the Sounds
 - 8.4 A Note on *Draviḍa* and Dravidian
-- 8.5 The Sound-Field Holds
+- 8.5 The Sound-Field Persists
 - 8.6 The Southern Survey: 20 of 23
 - 8.7 The Forest-Belt Survey: 18 of 23
 - 8.8 External Controls
@@ -126,7 +126,7 @@
 - 9.8 What Earns a Coordinate
 - 9.9 Engineered Margin
 - 9.10 Varṇa Is Not Letter
-- 9.11 The Grid Holds the Garland
+- 9.11 The Grid Orders the Garland
 
 ---
 
@@ -181,7 +181,7 @@
 *Calibration from within.*
 
 **Chapter 13 — Why Preservation Needs Engineering**
-- 13.1 What Sanskrit Has to Hold
+- 13.1 What Sanskrit Has to Preserve
 - 13.2 *Prākṛta*, *Saṃskṛta*, *Sanātan*
 - 13.3 Why Writing Was Insufficient
 - 13.4 *Aural*, Not *Oral*
@@ -191,7 +191,7 @@
 - 14.1 The Four Preservation Modes
 - 14.2 Auditure and Speech-Hearing Engineering
 - 14.3 The Six Preservation Layers
-- 14.4 Chandas Counts What Poetry Can Hold
+- 14.4 Chandas Counts the Possibilities of Poetry
 - 14.5 The Whole Language Carries the Sūtra-Discipline
 - 14.6 Control Cases: Codification by Authority
 - 14.7 The Engineering Precedes Pāṇini
@@ -216,7 +216,7 @@
 - 16.5 The Mind Sequences: The Folded Action
 - 16.6 One Field, Encoded
 - 16.7 The Notices
-- 16.8 The Borrowing Model Cannot Hold
+- 16.8 The Borrowing Model Fails
 - 16.9 The Corpus Cannot Be Rewritten
 - 16.10 Engineering, Not Contact
 - 16.11 What the Grammar Keeps
@@ -240,7 +240,6 @@
 - 18.6 Kin, Kind, King: the Dictionary Shift
 - 18.7 *Pratibimba*
 - 18.8 PIE Is a Lie — *Asura*
-- 18.9 Mapping Sanskrit's Radiance
 
 ---
 
