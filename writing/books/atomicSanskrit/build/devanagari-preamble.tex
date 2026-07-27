@@ -24,6 +24,13 @@
 % numbered and intentionally unnumbered captions both render as written.
 \captionsetup[figure]{labelformat=empty}
 
+% Keep ordinary figures beside the surrounding prose whenever space permits.
+% Reserve float-only pages for figures that occupy most of the text area.
+\renewcommand{\topfraction}{0.9}
+\renewcommand{\bottomfraction}{0.8}
+\renewcommand{\textfraction}{0.1}
+\renewcommand{\floatpagefraction}{0.85}
+
 \newfontfamily{\devanagarifont}[Script=Devanagari]{Adobe Devanagari}
 % Adobe Devanagari does not cover the Vedic Extensions block. Use a Sanskrit
 % face only for those signs so ordinary Devanagari typography remains intact.
@@ -37,6 +44,7 @@
 \newfontfamily{\jpfont}{Hiragino Sans}
 \newfontfamily{\cjkfont}{PingFang SC}
 \newfontfamily{\oldpersianfont}{Noto Sans Old Persian}
+\newfontfamily{\gothicfont}{Noto Sans Gothic}
 \newfontfamily{\avestanfont}{Noto Sans Avestan}
 % Symbol / Latin-Extended fallback for arrows, subscripts, modifier letters,
 % IAST diacritics Charter lacks (ē, ʷ, ʾ, ḱ, ẓ, →, ←, ₁, ₂, μ, τ, ρ, etc.).
@@ -125,5 +133,6 @@
   \setbox0=\hbox{\malayalamfont അ}%
   \setbox0=\hbox{\jpfont ア}%
   \setbox0=\hbox{\cjkfont 中}%
+  \setbox0=\hbox{\gothicfont 𐌾}%
   \setbox0=\hbox{\symbolfont →}%
 }

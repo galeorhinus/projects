@@ -1823,7 +1823,7 @@ Standard references: *Caraka Saṃhitā* (Chaukhamba Sanskrit Series, with the *
 
 ### `dhatu-cross-linguistic-analogues`
 
-**Short:** The closest external analogues to the Sanskrit ***dhātuḥ*** (धातुः) are Semitic consonantal bases and Tamil verbal bases, but neither is the same category: Semitic bases are primarily consonantal abstractions that receive vocalic and morphological patterning; Tamil verbal bases are stems inside an agglutinative morphology; the Sanskrit *dhātuḥ* is a pronounceable semantic atom inside a generative architecture.
+**Short:** The closest external analogues to the Sanskrit ***dhātuḥ*** (धातुः) are Semitic consonantal bases and Tamil verbal bases, but neither is the same category: Semitic bases are primarily consonantal abstractions that receive vocalic and morphological patterning; Tamil verbal bases are productive constituents inside an agglutinative morphology; the Sanskrit *dhātuḥ* is a pronounceable semantic atom inside a generative architecture.
 
 **Deployments:** Chapter 10 §10.2 ¶ — category clarification after the grammatical-*dhātuḥ* definition and before the measurement begins.
 
@@ -1831,7 +1831,7 @@ The comparison is useful because it prevents two confusions at once. The first c
 
 The closest visible external analogue is the Semitic consonantal-base system. Arabic and Hebrew use consonantal bases — commonly triliteral — as semantic generators. Arabic **k-t-b**, for example, generates a field of writing: *kataba* (he wrote), *kitāb* (book), *kātib* (writer), *maktab* (office). Hebrew shows the same structural family in its own phonological system. The base is not normally a pronounceable word by itself. It is a consonantal abstraction that becomes lexical through vocalic patterns, prefixes, suffixes, and grammatical templates.
 
-Tamil supplies a different comparison. Tamil grammar recognizes verbal bases, often described as **வேர்ச்சொல் (*vērccol*)** or **வினையடி (*vinaiyaṭi*)**, from which finite verbs, participles, verbal nouns, and related formations are built. A base such as **செல் (*cel*, to go)** generates a family of forms through tense, person, number, gender, and participial morphology. Tamil is generative, but its generativity is agglutinative rather than *dhātu*-atomic. It can extend stems productively, but it does not organize the lexicon around a curated inventory of sound-bearing semantic atoms in the way Sanskrit does. The Tamil base is closer to a verbal stem operating inside an agglutinative system than to the Sanskrit *dhātuḥ* as the atomic semantic inventory of a formal derivational engine.
+Tamil supplies a different comparison. Tamil grammar recognizes verbal bases, often described as **வேர்ச்சொல் (*vērccol*)** or **வினையடி (*vinaiyaṭi*)**, from which finite verbs, participles, verbal nouns, and related formations are built. A base such as **செல் (*cel*, to go)** generates a family of forms through tense, person, number, gender, and participial morphology. Tamil is generative, but its generativity is agglutinative rather than *dhātu*-atomic. It can extend these bases productively, but it does not organize the lexicon around a curated inventory of sound-bearing semantic atoms in the way Sanskrit does. The Tamil base is a productive constituent inside an agglutinative system rather than the atomic semantic inventory of a formal derivational engine.
 
 The Sanskrit case differs at the point the chapter needs: the *dhātuḥ* is sound-bearing. ***⟪कृ⟫ (*kṛ*)***, ***⟪गम्⟫ (*gam*)***, ***⟪भू⟫ (*bhū*)***, ***⟪दृश्⟫ (*dṛś*)***, ***⟪ज्ञा⟫ (*jñā*)*** are not full words, but they are pronounceable semantic atoms. They have phonetic bodies. They combine with *upasargāḥ* (उपसर्गाः), *pratyayāḥ* (प्रत्ययाः), *vikaraṇāḥ* (विकरणाः), and the broader rule-system of *Vyākaraṇam* to generate verbal and nominal worlds. That is the precise category the botanical substitute fails to name.
 
@@ -3865,7 +3865,7 @@ The *Dhātupāṭha* records **असँ भुवि (*asaṃ bhuvi*)** and **�
 
 *Aṣṭādhyāyī* 2.4.52 states **अस्तेर्भूः (*aster bhūḥ*)**. The *Kāśikāvṛtti* explains that **⟪भू⟫** replaces **⟪अस्⟫** when an *ārdhadhātuka* affix follows and gives *bhavitā*, *bhavitum*, and *bhavitavyam* as examples. The *Laghusiddhāntakaumudī* adds *babhūva* and *bhaviṣyati*, while contrasting forms such as *astu* that remain with **⟪अस्⟫**.
 
-Latin grammar presents ***sum, esse, fuī, futūrus*** as one irregular verb. Its present system uses ***s- / es-*** forms, while its perfect system and future participle use ***fu- / fut-***. *Allen and Greenough's New Latin Grammar* states the comparison plainly: the present field corresponds to Sanskrit *asmi / asti*, and the perfect and supine stems *fu- / fut-* are kindred with Greek *ephu* and English *be*. The Greek record also preserves **ἐστί (*esti*)** in the **⟪अस्⟫** field and **φύω (*phuō*)**, **ἔφυ (*ephu*)**, and **φύσις (*physis*)** in the **⟪भू⟫** field.
+Latin grammar presents ***sum, esse, fuī, futūrus*** as one irregular verb. Its present system uses ***s- / es-*** forms, while its perfect system and future participle use ***fu- / fut-***. *Allen and Greenough's New Latin Grammar* states the comparison plainly: the present field corresponds to Sanskrit *asmi / asti*, and the perfect and supine forms *fu- / fut-* are kindred with Greek *ephu* and English *be*. The Greek record also preserves **ἐστί (*esti*)** in the **⟪अस्⟫** field and **φύω (*phuō*)**, **ἔφυ (*ephu*)**, and **φύσις (*physis*)** in the **⟪भू⟫** field.
 
 The pyramid's reconstruction places *\*h₁es-* above the first family and *\*bʰuH-* above the second. The retained analysis reverses that direction: Sanskrit preserves the sound-bearing atoms, their Vedic use, and their grammatical relation, while Greek and Latin preserve their vivimorphed reflections.
 
@@ -4394,7 +4394,7 @@ The classification is reproducible: re-running `python3 scripts/analyze_dhatupat
 
 **Edge cases and limitations.** Seven entries (~0.3%) classify as bare-vowel V-pattern structures after stripping — these are special-case Pāṇinian-citation forms (e.g., the bare-vowel dhātavaḥ *i* = इ "to go", *ṛ* = ऋ "to go", *f* in the SLP1 encoding) and are correctly retained as 1-akṣara dhātus. A more granular Pāṇinian analysis would also handle the *cuṭū* (*Aṣṭādhyāyī* 1.3.7) and *laśakvataddhite* (1.3.8) rules for initial-consonant anubandhas in *pratyaya*s, but these rules do not affect dhātu citation specifically and are out of scope for the structural analysis here.
 
-**Cross-validation.** The Sanskrit Heritage Platform's `parts.csv` (at https://github.com/sanskrit/data/blob/master/sanskrit-heritage-site/parts.csv) provides ~11,570 verb stems with their underlying dhātu forms (the source column named `root` gives the anubandha-stripped form per the Sanskrit Heritage convention). Spot-checking the structural-analysis output against this independent lexicon confirms that the *Aṣṭādhyāyī* 1.3.2 + 1.3.3 + 1.3.5 rules implemented here recover the standard underlying dhātavaḥ for the vast majority of *Dhātupāṭha* entries — including standard cases like ⟪कृ⟫ (ḍukṛñ → ⟪कृ⟫), ⟪ब्रू⟫ (brūñ → ⟪ब्रू⟫), and ⟪श्रि⟫ (śriñ → ⟪श्रि⟫).
+**Cross-validation.** The Sanskrit Heritage Platform's `parts.csv` (at https://github.com/sanskrit/data/blob/master/sanskrit-heritage-site/parts.csv) provides ~11,570 verbal entries linked to their underlying dhātu forms (the source column named `root` gives the anubandha-stripped form per the Sanskrit Heritage convention). Spot-checking the structural-analysis output against this independent lexicon confirms that the *Aṣṭādhyāyī* 1.3.2 + 1.3.3 + 1.3.5 rules implemented here recover the standard underlying dhātavaḥ for the vast majority of *Dhātupāṭha* entries — including standard cases like ⟪कृ⟫ (ḍukṛñ → ⟪कृ⟫), ⟪ब्रू⟫ (brūñ → ⟪ब्रू⟫), and ⟪श्रि⟫ (śriñ → ⟪श्रि⟫).
 
 **The empirical result is:** the *Dhātupāṭha* inventory concentrates around compact sonomer-count and *mātrā* bands. Three-sonomer atoms are the peak (**58.2%**); four-sonomer atoms are still heavy (**25.7%**); five-sonomer atoms drop to **3.6%**; six-and-above is the cliff at **0.5%**. The 2-*mātrā* envelope contains **46.0%** of the inventory, and through 3 *mātrās* the coverage reaches **94%**. The compression-principle distribution is the empirical signature of an engineered atomic inventory.
 
@@ -4532,11 +4532,11 @@ The 2026-05-25 cleanup corrected the older matrix that still used pre-cleanup sc
 
 ### `vyakarana-etymology`
 
-**Short:** ***Vyākaraṇam*** (व्याकरणम्) = *vi-* (वि-, *apart*) + *ā-* (आ-, *toward*) + ⟪कृ⟫ (*kṛ*, *to do, to make*) — formed via the verbal stem *vi-ā-kṛ* through the abstract-noun derivation, with literal sense *the act of taking-apart*, *unfolding-apart*, *separating into constituents* — i.e., **analysis**, *de-composition*, not composition. Foundational for the book's polemic against the dogma's *codification* vocabulary: Sanskrit's own name for what Pāṇini did is the opposite operation — the *taking-apart* of a system already present. Sources: Monier-Williams 1899, Apte 1890, Yaska's *Nirukta*, the *Mahābhāṣya*.
+**Short:** ***Vyākaraṇam*** (व्याकरणम्) = *vi-* (वि-, *apart*) + *ā-* (आ-, *toward*) + ⟪कृ⟫ (*kṛ*, *to do, to make*) — formed from the verbal combination *vi-ā-kṛ* through the abstract-noun derivation, with literal sense *the act of taking-apart*, *unfolding-apart*, *separating into constituents* — i.e., **analysis**, *de-composition*, not composition. Foundational for the book's polemic against the dogma's *codification* vocabulary: Sanskrit's own name for what Pāṇini did is the opposite operation — the *taking-apart* of a system already present. Sources: Monier-Williams 1899, Apte 1890, Yaska's *Nirukta*, the *Mahābhāṣya*.
 
 **Deployments:** Chapter 2 §2.6 (the Bakers' Story, book refrain, and heroic erasure); Chapter 5 §5.1 (the *vyākaraṇam* / *vaiyākaraṇa* paragraph); Ch10 (the *Dhātupāṭha* as documentation of an inherited inventory); Ch13 §13.3; Ch14 §14.7; Thesis #2.
 
-The Sanskrit word ***व्याकरणम् (*vyākaraṇam*)*** decomposes morphologically as **वि (*vi-*, "apart, asunder")** + **आ (*ā-*, "toward, fully")** + **कृ (*kṛ*, "to do, to make")**, formed via the verbal stem *vi-ā-kṛ* through the abstract-noun derivation that produces *vyākaraṇa* from the corresponding finite-verb forms. The literal sense is *the act of taking-apart*, *unfolding-apart*, *separating into constituents* — i.e., **analysis**. The operation the term denotes is *de-composition*, not composition: the analytical procedure by which a given system (the language) is decomposed into its parts, not the constructive procedure by which a system is built.
+The Sanskrit word ***व्याकरणम् (*vyākaraṇam*)*** decomposes morphologically as **वि (*vi-*, "apart, asunder")** + **आ (*ā-*, "toward, fully")** + **कृ (*kṛ*, "to do, to make")**, formed from the verbal combination *vi-ā-kṛ* through the abstract-noun derivation that produces *vyākaraṇa* from the corresponding finite-verb forms. The literal sense is *the act of taking-apart*, *unfolding-apart*, *separating into constituents* — i.e., **analysis**. The operation the term denotes is *de-composition*, not composition: the analytical procedure by which a given system (the language) is decomposed into its parts, not the constructive procedure by which a system is built.
 
 This etymology is foundational for the book's polemic against the dogma's *codification* vocabulary. *Codification* implies *construction* — the production of structure where none was. Sanskrit's own name for what Pāṇini did is the opposite operation: the *taking-apart* of a system already present. The morphological decomposition is consistent across the Sanskrit nirukta discipline (Yaska's *Nirukta* and the *Mahābhāṣya*'s paratextual remarks), in classical lexicons (Monier-Williams 1899: *vyākaraṇa*, "separation, distinction, analysis"; Apte 1890: *vyākaraṇa*, "explanation, analysis, grammar"), and in modern Sanskrit grammatical scholarship (Cardona 1976, *Pāṇini: A Survey of Research*; Kiparsky 1979).
 
@@ -4744,7 +4744,7 @@ Sources: Charles A. Ferguson, ["Diglossia," *Word* 15, no. 2 (1959), 325–340](
 
 **Short:** **Petrified Languages** is the figure's classification for organic languages or formal forms whose adaptive generativity has been restricted by external authority. The classification applies to the guarded form rather than every language spoken by the surrounding communities. Latin, Greek, Arabic, and Tibetan preserve such forms beside changing speech streams; Modern Hebrew demonstrates revivification because speakers returned Hebrew to daily and childhood use, after which botanical change resumed.
 
-**Deployments:** Chapter 2 §2.1 (first concrete examples of the Petrified Languages classification); Chapter 13 §13.5 (comparative trajectories and Modern Hebrew revivification); Chapter 14 §14.6 (the preservation apparatus and visible-custodian comparison); Appendix Part 8 (full codification comparison).
+**Deployments:** Chapter 2 §2.1 (first concrete examples of the Petrified Languages classification); Chapter 13 §13.5 (comparative trajectories and Modern Hebrew revivification); Chapter 14 §14.6 (the preservation apparatus and visible-custodian comparison); Appendix Part 9 (full codification comparison).
 
 **High and Low Arabic.** The written *muṣḥaf*, *tajwīd*, the listed *qirāʾāt*, memorization, and documented transmission preserve the Quranic form. Spoken Arabics continued changing across regions beside it. Modern Standard Arabic draws upon the Classical inheritance but is not identical to the bounded Quranic object. Its productive resources remain available to speakers, translators, journalists, and specialists, who can create new expressions without institutional permission. Ministries, language academies, schools, publishers, broadcasters, and government offices influence which expressions acquire formal recognition and circulate through education or administration. The Arabization Coordination Bureau and ALECSO's terminology projects make this institutional mediation visible: specialist networks coin, coordinate, revise, and circulate Arabic scientific and technical terms. These institutions gate recognition, circulation, and prestige rather than generativity itself.
 
@@ -4972,11 +4972,11 @@ The calibration hierarchy is the working structure for Sanskrit's origin-and-cal
 
 ### `vedic-classical-circular-dating`
 
-**Short:** Appendix Part 8 exposes the circular method behind the drift story: linguistic features are used to arrange Sanskrit texts into an assumed archaic-to-later sequence, and the resulting sequence is then cited as proof that Sanskrit drifted from Vedic to Classical.
+**Short:** Appendix Part 9 exposes the circular method behind the drift story: linguistic features are used to arrange Sanskrit texts into an assumed archaic-to-later sequence, and the resulting sequence is then cited as proof that Sanskrit drifted from Vedic to Classical.
 
-**Deployments:** Appendix Part 8 §8.2, *Circular Chronology*.
+**Deployments:** Appendix Part 9 §9.2, *Circular Chronology*.
 
-The note does not claim that every relative ordering of Sanskrit texts is false. It identifies the methodological risk in the pyramid's drift narrative. If a feature is first classified as "archaic" because the framework assumes it belongs to an earlier stage, and the text containing that feature is then dated earlier on that basis, the same feature cannot be used again as independent proof of an earlier language stage. The conclusion has been folded into the method. Appendix Part 8 therefore asks for a cleaner audit: separate *chandas* / *bhāṣā* mode-difference, metrical tooling, recensional specification, optionality, and genuine replacement before calling the observed difference "drift." The target is not chronology as such. The target is chronology manufactured by the same machinery whose category collapse the book has already prosecuted.
+The note does not claim that every relative ordering of Sanskrit texts is false. It identifies the methodological risk in the pyramid's drift narrative. If a feature is first classified as "archaic" because the framework assumes it belongs to an earlier stage, and the text containing that feature is then dated earlier on that basis, the same feature cannot be used again as independent proof of an earlier language stage. The conclusion has been folded into the method. Appendix Part 9 therefore asks for a cleaner audit: separate *chandas* / *bhāṣā* mode-difference, metrical tooling, recensional specification, optionality, and genuine replacement before calling the observed difference "drift." The target is not chronology as such. The target is chronology manufactured by the same machinery whose category collapse the book has already prosecuted.
 
 ---
 
@@ -4984,7 +4984,7 @@ The note does not claim that every relative ordering of Sanskrit texts is false.
 
 **Short:** The codification story requires an empirical audit it has not supplied: pre-Pāṇinian and para-Pāṇinian Sanskrit witnesses should be tested against Pāṇini's documented architecture after separating mode, meter, recension, optionality, domain, and actual drift.
 
-**Deployments:** Appendix Part 8 §8.6, *A Calibration Audit*.
+**Deployments:** Appendix Part 9 §9.6, *A Calibration Audit*.
 
 The "calibration audit" is the test the standard codification story would need to pass. The dogma's claim is not merely that Sanskrit usage varied; variation is already granted. The claim is that Sanskrit changed enough before Pāṇini that his grammar must be treated as codification — a late authority imposing stable form on a drifting language. That claim is measurable in principle. One would take the Vedic Saṃhitās, Brāhmaṇas, Āraṇyakas, Upaniṣads, *Prātiśākhya* and *Śikṣā* materials, Yāska's *Nirukta*, Sūtra literature, and the pre-Pāṇinian grammatical traces; classify features by *vaidika* / *laukika* domain and *chandas* / *bhāṣā* mode; separate metrical alternation from uncontrolled change; separate recension-specific specification from drift; and then measure what genuinely fails against the architecture Pāṇini documents. The book's initial audit points the other way: the Vedas already operate the grammar, the *Dhātupāṭha* shows compressed atomic structure, Patañjali begins from an established word-meaning bond, and variation repeatedly falls into bounded categories rather than unbounded decay.
 
@@ -4994,9 +4994,9 @@ The "calibration audit" is the test the standard codification story would need t
 
 **Short:** Mitanni Indic vocabulary functions here only as an external stability anchor: the recorded forms look like technical transmission from an already functioning Indic system, not like a language waiting to be stabilized by later Pāṇinian codification.
 
-**Deployments:** Appendix Part 8 §8.7, *Optionality and the Mitanni Evidence*.
+**Deployments:** Appendix Part 9 §9.7, *Optionality and the Mitanni Evidence*.
 
-The Mitanni material should not be made to support more than it can bear. It is not the whole case for Sanskrit's antiquity, and it is not needed as the sole refutation of the codification story. Its value in Appendix Part 8 is narrower: Indic technical vocabulary appears outside the subcontinent in a setting the pyramid's chronology cannot comfortably place after Pāṇini's supposed codification. That makes it an external anchor for prior stability. A drifting language not yet stabilized does not easily export precise technical vocabulary as a recognizable system. The Mitanni evidence belongs with the Vedic corpus, the *pāṭha* systems, the *Prātiśākhya* disciplines, the pre-Pāṇinian decoders, the *Nirukta*, the *Dhātupāṭha*, and the statistical architecture developed in Chapters 10–11 and Appendix Part 6. Final publication pass should cite the relevant Mitanni treaty / horse-training material and the selected scholarly edition used elsewhere in the book.
+The Mitanni material should not be made to support more than it can bear. It is not the whole case for Sanskrit's antiquity, and it is not needed as the sole refutation of the codification story. Its value in Appendix Part 9 is narrower: Indic technical vocabulary appears outside the subcontinent in a setting the pyramid's chronology cannot comfortably place after Pāṇini's supposed codification. That makes it an external anchor for prior stability. A drifting language not yet stabilized does not easily export precise technical vocabulary as a recognizable system. The Mitanni evidence belongs with the Vedic corpus, the *pāṭha* systems, the *Prātiśākhya* disciplines, the pre-Pāṇinian decoders, the *Nirukta*, the *Dhātupāṭha*, and the statistical architecture developed in Chapters 10–11 and Appendix Part 6. Final publication pass should cite the relevant Mitanni treaty / horse-training material and the selected scholarly edition used elsewhere in the book.
 
 ---
 
@@ -5575,5 +5575,125 @@ The pattern is structural, not incidental: the East India Company and Crown admi
 **Deployments:** Epilogue, *The Inward Correction*.
 
 After Goa joined India, advocates of merger with Maharashtra argued that Konkani was a dialect of Marathi; that classification became part of the political case for merger. Goa rejected merger in the 1967 Opinion Poll. The Goa, Daman and Diu Official Language Act of 1987 established Konkani as Goa's official language while permitting Marathi for specified official purposes. The example concerns the political pressure created when a stronger neighboring standard claims authority over a living speech-field; it does not deny the close relationship between Konkani and Marathi. Sources: J. P. Coelho, "Official language, state and civil society: Issues concerning the implementation of the 'Official Language Act' in Goa," *Social Science Gazetteer* 9, nos. 1–2 (2014/2016), 37–58; *The Goa, Daman and Diu Official Language Act, 1987* (Act No. 5 of 1987), India Code.
+
+---
+
+### `rgveda-floating-upasarga-meter`
+
+**Short:** Ṛgveda 1.16.1 separates **आ (*ā*)** from **वहन्तु (*vahantu*)** by placing **त्वा (*tvā*)** between them. The received sequence fixes the relation, while the separation gives the mantra another arrangement within Gāyatrī.
+
+**Deployment:** Appendix Part 8 §8.3.
+
+The first *pāda* reads **आ त्वा वहन्तु हरयः (*ā tvā vahantu harayaḥ*)**. In a newly composed laukika expression the operator would ordinarily bond directly with the atom as **आवहन्तु (*āvahantu*)**. The Vedic passage preserves the separated arrangement without losing the relation because the mantra's words and sequence remain invariant. Pāṇini later documents the mobility of Vedic *upasargas* in Aṣṭādhyāyī 1.4.80–82. Sources: Ṛgveda 1.16.1, Śākala Saṃhitā and *padapāṭha*; Aṣṭādhyāyī 1.4.80–82 with Kāśikā.
+
+---
+
+### `aitareya-brahmana-separated-upasargas`
+
+**Short:** Aitareya Brāhmaṇa 5.11.2 separates **आ ... दत्ते (*ā ... datte*)** and **निर् ... नुदते (*nir ... nudate*)** in prose, showing that Vedic operator mobility does not depend upon meter.
+
+**Deployment:** Appendix Part 8 §8.3.
+
+The passage reads **आ द्विषतो वसु दत्ते, निर् एनम् एभ्यः सर्वेभ्यो लोकेभ्यो नुदते, य एवं वेद (*ā dviṣato vasu datte, nir enam ebhyaḥ sarvebhyo lokebhyo nudate, ya evaṃ veda*)**. The invariant prose sequence permanently connects **आ** with **दत्ते** and **निर्** with **नुदते**, although several words intervene. Meter cannot explain the separation. The example therefore supports recoverable relations inside a read-only passage and the tighter local bonding used for unrestricted laukika composition. Source: Aitareya Brāhmaṇa 5.11.2; compare Aṣṭādhyāyī 1.4.80–82.
+
+---
+
+### `vedic-functional-range-linguistic-calibrant`
+
+**Short:** The four Vedas and their prose extensions place Sanskrit under different linguistic, acoustic, and compositional demands. Their combined range allows the Vedic corpus to preserve a much broader sample of Sanskrit's architecture than one uniform style could preserve.
+
+**Deployment:** Appendix Part 8 §§8.4 and 8.6.
+
+Ṛgveda 10.71.11 describes differentiated work within the Vedic field: one cultivates the ***ऋचः (*ṛcaḥ*)***, another sings the ***सामन् (*sāman*)***, the ***ब्रह्मा (*brahmā*)*** speaks the knowledge proper to his responsibility, and another measures the ***यज्ञ (*yajña*)***. The verse establishes functional differentiation. The further claim — that expression distributed across these functions also widened the linguistic calibrant — is this book's architectural inference. The observable result supports it: Ṛgvedic address, Sāmavedic song, Yajurvedic formula and prose, Atharvavedic protection and application, Brāhmaṇa exposition, Āraṇyaka reflection, and Upaniṣadic dialogue preserve different combinations of sound, pitch, meter, sentence construction, verbal forms, nominal forms, compounds, and modes of explanation. The Vedāṅga disciplines then analyze and teach the architecture preserved in use. Sources: Ṛgveda 10.71.11; Government of India, Vedic Heritage Portal, "Introduction," classification of the four Vedas and six Vedāṅgas.
+
+---
+
+### `vedic-akaranta-instrumental-plural-range`
+
+**Short:** The Ṛgveda preserves both **-ebhiḥ** and **-aiḥ** among its ***विभक्तिरूपाणि (*vibhakti-rūpāṇi*, declensional forms)***. Both serve as the *tṛtīyā bahuvacanam*, or instrumental plural, of *akārānta* words. Ṛgveda 10.125.1 places the two options in the same mantra.
+
+**Deployment:** Appendix Part 8 §8.3.
+
+Ṛgveda 10.125.1 uses **रुद्रेभिः (*rudrebhiḥ*)** and **वसुभिः (*vasubhiḥ*)**, then **आदित्यैः (*ādityaiḥ*)** and **विश्वदेवैः (*viśvadevaiḥ*)**. The first pair uses the extended **-ebhiḥ** ending; the second uses **-aiḥ**. The forms express the same case and number. **रुद्रेभिः** has one more syllable than **रुद्रैः**, which allows the Vedic option to alter the metrical footprint without changing the grammatical relation. The current Ṛgvedic corpus count retained in the appendix source data finds broad **-ebhiḥ : -aiḥ** totals of 585:690; the variation is common rather than isolated. Sources: Ṛgveda 10.125.1; Aṣṭādhyāyī 7.1.9; appendix prevalence ledger PL-12.
+
+---
+
+### `vedic-vocative-sentence-accent`
+
+**Short:** Vedic ***स्वर (*svara*, accent)*** responds to sentence position. **अग्ने (*agne*)** receives its ***सम्बोधन (*sambodhana*, vocative)*** accent when it begins a sentence or *pāda* and loses that independent accent when other words precede it.
+
+**Deployment:** Appendix Part 8 §8.3.
+
+Ṛgveda 3.25.1 begins **अग्ने॑ दिवः सूनुरसि (*ágne divaḥ sūnur asi*)**, with the accent on the sentence-initial vocative. Ṛgveda 1.1.7 instead begins **उप त्वाग्ने (*upa tvāgne*)**; the non-initial **अग्ने** is unaccented. The comparison keeps the same word and grammatical role while changing its sentence position, allowing the reader to see that sentence-level pitch belongs to the preserved architecture. Whitney, *Sanskrit Grammar*, §314c, states the rule and uses the same contrast; Macdonell, *Vedic Grammar*, treats vocative accent under sentence accent. Primary passages: Ṛgveda 3.25.1 and 1.1.7.
+
+---
+
+### `vedic-personal-ending-imasi`
+
+**Short:** Ṛgveda 1.1.7 uses the first-person plural ***तिङ्-प्रत्यय (*tiṅ-pratyaya*, personal ending)*** **-मसि (*-masi*)** in **इमसि (*imasi*)**, where laukika Sanskrit uses **-मस् (*-mas*)**. The additional syllable completes the eight-syllable Gāyatrī *pāda*.
+
+**Deployment:** Appendix Part 8 §8.3.
+
+The final *pāda* is **नमो भरन्त एमसि (*namo bharanta emasi*)**. The *padapāṭha* resolves **एमसि** as **आ + इमसि (*ā + imasi*)**. Its eight syllables are **na-mo bha-ran-ta e-ma-si**. Replacing **इमसि** with laukika **इमः (*imaḥ*)**, and therefore **एमसि** with **एमः (*emaḥ*)**, removes one syllable. Pāṇini documents the Vedic ending in Aṣṭādhyāyī 7.1.46, **इदन्तो मसि (*idanto masi*)**; the Kāśikā and Siddhānta Kaumudī cite **नमो भरन्त एमसि** as an example. Sources: Ṛgveda 1.1.7, Saṃhitā and *padapāṭha*; Aṣṭādhyāyī 7.1.46.
+
+---
+
+### `vedic-let-tarisat`
+
+**Short:** Ṛgveda 10.186.1 uses **तारिषत् (*tāriṣat*)** for the desired prolonging of life. Pāṇini later documents this form under ***लेट् (*leṭ*)***; English grammars call it the Vedic subjunctive.
+
+**Deployment:** Appendix Part 8 §8.3.
+
+The passage closes **प्र ण आयूंषि तारिषत् (*pra ṇa āyūṃṣi tāriṣat*)**, "may it prolong our lives." Aṣṭādhyāyī 3.4.7, **लिङर्थे लेट् (*liṅarthe leṭ*)**, assigns *leṭ* in Vedic scope where *liṅ* meanings apply; the Kāśikā and Mahābhāṣya use **तारिषत्** among their examples. The wider architectural comparison remains a test rather than a completed proof: laukika Sanskrit distributes related meanings among *loṭ, liṅ, āśīrliṅ,* and *lṛṭ*, and some first-person *leṭ* forms overlap visibly with *loṭ*. The fixed mantra preserves its form and interpretation together; the read-write domain would have to recover the distinction across every newly composed expression. Sources: Ṛgveda 10.186.1; Aṣṭādhyāyī 3.4.7 and 3.4.94–100 with Kāśikā and Mahābhāṣya.
+
+---
+
+### `vedic-injunctive-vocam`
+
+**Short:** In Ṛgveda 1.32.1, **प्र वोचम् (*pra vocam*)** performs the declaration "I now proclaim." The form belongs to ***लुङ् (*luṅ*, aorist)*** but appears without the ***अट्-आगम (*aṭ-āgama*, augment)***. English grammars call such a Vedic form an injunctive.
+
+**Deployment:** Appendix Part 8 §8.3.
+
+The passage begins **इन्द्रस्य नु वीर्याणि प्र वोचम् (*indrasya nu vīryāṇi pra vocam*)**. The particle **नु (*nu*)**, the accented operator **प्र (*prá*)**, and the unaccented **वोचम् (*vocam*)** together present the declaration as it is being made. Laukika **अवोचम् (*avocam*)** carries the augment and ordinarily reports a past act: "I said" or "I proclaimed." The unaugmented form also removes one syllable from the Triṣṭubh *pāda*. Paul Kiparsky analyzes this exact example as a performative, "I (hereby) proclaim Indra's heroic deeds," and argues that the injunctive receives temporal or modal interpretation from its immediate setting. Sources: Ṛgveda 1.32.1; Paul Kiparsky, "The Vedic Injunctive: Historical and Synchronic Implications," in Rajendra Singh, ed. (De Gruyter Mouton, 2005), 219–235.
+
+---
+
+### `vedic-gerund-pitvi`
+
+**Short:** Ṛgveda 3.40.7 uses **पीत्वी (*pītvī*)**, "having drunk," where laukika Sanskrit uses **पीत्वा (*pītvā*)**. Both are forms of the ***क्त्वा-प्रत्यय (*ktvā-pratyaya*)***, commonly called a gerund or conjunctive participle in English.
+
+**Deployment:** Appendix Part 8 §8.3.
+
+The final *pāda* reads **पीत्वी सोमस्य वावृधे (*pītvī somasya vāvṛdhe*)**, "having drunk Soma, he grew in strength." Pāṇini later documents Vedic forms of this type in Aṣṭādhyāyī 7.1.49, **स्नात्व्यादयश्च (*snātvyādayaś ca*)**; the Kāśikā cites this passage and contrasts **पीत्वी** with expected **पीत्वा**. Both forms have two syllables, so this example establishes the additional Vedic *ktvā* form but does not by itself establish a metrical purpose. The Designed Variation code therefore remains open. Sources: Ṛgveda 3.40.7; Aṣṭādhyāyī 7.1.49 with Kāśikā.
+
+---
+
+### `vedic-infinitives-rv-1-24-8`
+
+**Short:** Ṛgveda 1.24.8 places two Vedic ***तुमर्थक रूपाणि (*tumarthaka rūpāṇi*, infinitive forms)*** in one mantra: **अन्वेतवै (*anvetavai*)**, "to follow," and **प्रतिधातवे (*pratidhātave*)**, "to set down."
+
+**Deployment:** Appendix Part 8 §8.3.
+
+The Saṃhitā text shows **अन्वेतवा उ (*anvetavā u*)**, while the *padapāṭha* resolves the form as **अनु-एतवै (*anu-etavai*)**. The next *pāda* uses **प्रतिधातवे (*pratidhātave*)**. Laukika Sanskrit would ordinarily express the same purposes through **अन्वेतुम् (*anvetum*)** and **प्रतिधातुम् (*pratidhātum*)**. Replacing the Vedic forms with the shorter **-तुम्** formations would shorten their respective Triṣṭubh *pādas*. Pāṇini later lists **-तवै, -तवे**, and several other Vedic infinitive endings in Aṣṭādhyāyī 3.4.9. Sources: Ṛgveda 1.24.8, Saṃhitā and *padapāṭha*; Aṣṭādhyāyī 3.4.9 with Kāśikā.
+
+---
+
+### `vedic-participle-cikitvah`
+
+**Short:** Ṛgveda 3.25.1 addresses Agni as **चिकित्वः (*cikitvaḥ*)**, "O knowing one." It is a ***क्वसु-कृदन्त (*kvasu-kṛdanta*, perfect participle)*** used in ***सम्बोधन (*sambodhana*, vocative)***, where the corresponding laukika form is **चिकित्वन् (*cikitvan*)**.
+
+**Deployment:** Appendix Part 8 §8.3 and declensional figure SG-23.
+
+The closing words are **इह यजा चिकित्वः (*iha yajā cikitvaḥ*)**. The exact passage and the direct-address function are secure. A corpus check retained in the appendix prevalence ledger finds **चिकित्वः** in all eleven checked Ṛgvedic occurrences of this lexeme and no **चिकित्वन्** counterpart there. That establishes the Vedic distribution for the checked word, but it does not establish why this passage selects **-वः** rather than **-वन्**. The appendix therefore records the form while leaving its Designed Variation code open. Sources: Ṛgveda 3.25.1; appendix prevalence ledger SG-23; Whitney's discussion of perfect participles.
+
+---
+
+### `vaidika-laukika-household-responsibility-cases`
+
+**Short:** The *vaidika–laukika* boundary governs what may be revised; it does not require two separate populations, and one person or household can participate in both domains.
+
+**Deployment:** Appendix Part 8 §8.7.
+
+The architectural claim is narrower than a universal account of household organization. A person trained to preserve a Vedic passage can also study *vyākaraṇam*, explain a mantra, read *śāstra*, teach *itihāsa-purāṇa*, or compose laukika Sanskrit without changing the Vedic passage. The exact distribution of these responsibilities varied across regions, households, *śākhās*, and *sampradāyas*. Before print, this note still requires at least two well-documented household or lineage studies showing how Vedic recitation, laukika learning, and other civilizational responsibilities coexisted in practice.
 
 ---

@@ -243,7 +243,7 @@ The comparison with English and Chinese should use concrete changes and avoid sa
 
 ## Appendix 8 - The Codification Story
 
-File: `as_3_08_codification_story.md`
+File: `as_3_09_codification_story.md`
 
 This is the longest appendix and the largest structural problem. At roughly 7,500 words, it repeats major portions of Chapters 5 and 13-17 as well as Appendix 7. A reduction of roughly 30-45 percent would make its evidentiary argument easier to follow.
 
@@ -279,7 +279,7 @@ Specific proposals:
 
 ## Appendix 9 - Diagnostic Vocabulary
 
-File: `as_3_09_glossary.md`
+File: `as_3_10_glossary.md`
 
 The glossary should help readers recover a term quickly. It currently combines definitions, essays, chapter arguments, editorial instructions, and internal cross-references. Reduce it by roughly 30-40 percent and give every entry the same basic form:
 

@@ -110,6 +110,8 @@ The term *oral tradition* covers many kinds of transmission, including some that
 
 *Oral* points to production by the mouth; *aural* points to reception by the ear. Vedic training asks the mouth to reproduce vowel length, accent, breath gesture, articulation, sequence, and rhythm while trained listeners compare the recitation with the form they already know. The mouth produces the line, and the ear supplies an independent check.
 
+Rhythm gives memory a path through the line. As the learner repeats a measured passage, its recurring pattern helps the mouth anticipate what comes next and helps the ear recognize what belongs there. Meter therefore assists the first act of memorization before it becomes a method for detecting later deviation.
+
 The ***progressive dogma*** collapses both into "oral tradition" because both happen without writing. The collapse serves the linear-progress teleology (Chapter 2 §2.4): writing is taken to be advanced, oral transmission to be primitive residue. The dogma's framing has the engineering backwards.
 
 Centralized education benefits from that collapse. “Oral tradition” is easy to place below writing inside a schoolbook ladder of progress. “Aural engineering” is harder to subordinate, because it asks the reader to see trained hearing, recitation, lineage, and correction as a preservation technology.

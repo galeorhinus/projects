@@ -9,7 +9,7 @@ Created:
 
 1. `working/40_reference/source_material/vaidika_laukika_terminology_decisions.md`
 2. `working/40_reference/source_material/vaidika_laukika_evidence_inventory.md`
-3. `working/10_active/as_appendix_part08_one_architecture_two_domains_draft.md`
+3. `as_3_08_one_architecture_two_domains.md`
 
 Pass 1 remains in:
 

@@ -63,6 +63,8 @@ The second engineering fact scales because hearing is easier to distribute than 
 
 Auditure distributes the first layer of guarding among the audience and thereby resolves the old institutional problem: who guards the guards? In a pyramid, the guards sit above the audience, which has no standing. In Auditure, the audience guards by listening. No institutional credential is required for the first layer of detection because the architecture distributes recognition before it distributes mastery.
 
+Meter assists memory before it audits memory. Repeated recitation settles a line into a known pattern of syllables and durations. Once the reciter and listeners know that pattern, an omitted syllable, an altered vowel length, or a misplaced pause disturbs the expected form and becomes audible.
+
 Because the Vedic form requires absolute precision, it builds in multiple layers of redundancy: meter catches syllabic drift, accent checks pitch drift (through उदात्त (*udātta*), अनुदात्त (*anudātta*), and स्वरित (*svarita*)), and breath gestures correct phonetic drift (via the **अयोगवाह (*ayogavāha*)** sounds **अनुस्वार (*anusvāra*)** and **विसर्ग (*visarga*)** (Chapter 9 §9.5)). Because a broken word breaks the meter, a misplaced accent breaks the chant, and a wrong breath breaks the line, these channels constantly cross-check one another.
 
 This is not "oral tradition" in the loose anthropological sense. It is engineered Auditure. Speech is the medium. Hearing is the verification layer. The audience is the checksum. The *guru-shishya* lineage-chain is the human carrier; the wider transmission-network is the social carrier. No institutional intermediary is required; no perishable medium stands between practitioner and audience. The full machinery (Chapter 15) relies on the eleven *pāṭha* recitation forms that re-encode the Vedic corpus so that drift has almost nowhere to hide.
@@ -94,6 +96,8 @@ The six layers operate at six different timescales of correction. Layer 1 correc
 ## 14.4 Chandas Counts the Possibilities of Poetry
 
 *Chandas* treats meter as measured possibility. A poem is not only a sequence of meanings. It is a timed structure that has to be filled without breaking sound, duration, pause, accent, or memory.
+
+The *mātrā* makes this aid to memory measurable. A learner remembers the words together with a pattern of one-*mātrā* and two-*mātrā* syllables. That timed pattern narrows what can follow, guides recall, and exposes a syllable that no longer fits.
 
 A composer working inside a measured line has to know what the line can contain — the necessity is poetic before it is mathematical. A **लघु (*laghu*)** syllable occupies one *mātrā*. A **गुरु (*guru*)** syllable occupies two. The poet fills a timed architecture with syllables of different weights. Once the line is timed, the counting question appears on its own: how many valid patterns can fill this measure exactly?
 

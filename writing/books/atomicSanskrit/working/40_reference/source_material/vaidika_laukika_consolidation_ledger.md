@@ -29,8 +29,8 @@ Lost and Found.
 | Chapter 14 §14.5 | Give the main-body explanation of calibration across the two domains. |
 | Chapter 16 §16.9 | Use ळ and branch-specific preservation as evidence from the subcontinental mouth. |
 | Appendix Part 7 | Demonstrate the architecture in Vedic passages and classify commonly cited differences by function. |
-| New Appendix Part 8 | Give the complete explanation of one Sanskrit architecture operating across two permission domains. |
-| Current Appendix Part 8, later Part 9 | Refute the chronology and codification account. |
+| Appendix Part 8 | Give the complete explanation of one Sanskrit architecture operating across two permission domains. |
+| Appendix Part 9 | Refute the chronology and codification account. |
 | Upasarga appendix / mapping project | Explain operator behavior, separated and attached upasargas, order flexibility, and radiance into receiving languages. |
 | Glossary | Define the terms after the argument has established them. |
 | Endnotes and Source and Reference Companion | Preserve technical verification, source detail, full paradigms, and unresolved cases. |
@@ -383,16 +383,16 @@ The *Vedas* encode the architecture. The *vaiyākaraṇāḥ* decode what the *V
 
 ---
 
-## VL-011 — Current Appendix Part 8 §8.4: Full Domain Explanation
+## VL-011 — Former Appendix Part 8 §8.4: Full Domain Explanation
 
-**Source:** `as_3_08_codification_story.md`, §8.4, current lines 52–88  
+**Source:** `as_3_09_codification_story.md`, now §9.4
 **Function now:** Supplies the most complete current explanation of domains,
 modes, pre-Pāṇinian evidence, *apabhraṃśa*, accent, *pluta*, *leṭ*, and
 functional classification.  
-**Primary owner after consolidation:** Split between new Appendix Part 8 and the
+**Primary owner after consolidation:** Split between Appendix Part 8 and the
 renumbered codification appendix.  
 **Proposed action:** Move the complete architectural explanation and examples
-to new Appendix Part 8. Leave a shorter rebuttal in the codification appendix
+to Appendix Part 8. Leave a shorter rebuttal in the codification appendix
 that states the pyramid’s chronology claim and points back to the full
 architecture. Do not execute this move until the new appendix has been drafted
 and approved.  
@@ -473,7 +473,7 @@ The distinction requires one further clarification. A vaidika upasarga may be po
 
 ## VL-013 — Glossary Terms
 
-**Source:** `as_3_09_glossary.md`, current entries for *chandas/bhāṣā*,
+**Source:** `as_3_10_glossary.md`, current entries for *chandas/bhāṣā*,
 *vaidika/laukika*, and curated transmission  
 **Function now:** Supplies compact definitions after the body has established
 the concepts.  
@@ -520,9 +520,9 @@ remain connected when prose moves:
 | `chandasi-bhashayam-mode-markers` | Chapter 2, move seven | Verify the exact Pāṇinian markers and avoid treating the two modes as exact synonyms for the two domains. |
 | `chandasi-bhasayam-astadhyayi` | Chapter 16 §16.9 | Preserve the correction that the **ड → ळ** account belongs to the *Ṛgveda-Prātiśākhya*, not to a Pāṇinian rule for that operation. |
 | `agnimile-rigveda-opening` | Chapters 9 and 16 | Preserve the Śākala **ईळे (*īḷe*)** evidence and exact source. |
-| `siddhe-shabdarthasambandhe-mbh` | Current Appendix Part 8 | Keep the complete Patañjali passage and verify the translation used in the new appendix. |
-| `panini-cites-pre-paninian-vaiyakaranas` | Current Appendix Part 8 | Keep named analysts in the endnote unless the body explicitly praises or condemns them. |
-| `calibration-audit-gap` | Current Appendix Part 8 §8.6 | Preserve as a future research task; do not imply that the corpus-wide comparison is already complete. |
+| `siddhe-shabdarthasambandhe-mbh` | Appendix Part 9 | Keep the complete Patañjali passage and verify the translation used in the codification appendix. |
+| `panini-cites-pre-paninian-vaiyakaranas` | Appendix Part 9 | Keep named analysts in the endnote unless the body explicitly praises or condemns them. |
+| `calibration-audit-gap` | Appendix Part 9 §9.6 | Preserve as a future research task; do not imply that the corpus-wide comparison is already complete. |
 | `veda-vyasa-division` | Chapter 0 §0.5 | Keep the division-as-preservation claim tied to the Hindu continuum’s own chronology. |
 | `snap-to-grid-pragrihya-exception` and `sound-volume-two-open-coordinates` | Chapter 9 §9.8 | Keep the detailed sound argument in Chapter 9/endnotes rather than reproducing it in the domain appendix. |
 
@@ -530,10 +530,10 @@ remain connected when prose moves:
 
 | Repeated material | Current locations | Proposed single full owner |
 |---|---|---|
-| Definition of vaidika/laukika and chandas/bhāṣā | Preface, Chapters 0, 2, 14, 16, Appendices 7 and 8, Glossary | New Appendix Part 8 owns the full explanation. Other locations retain locally necessary definitions. |
+| Definition of vaidika/laukika and chandas/bhāṣā | Preface, Chapters 0, 2, 14, 16, Appendices 7 and 8, Glossary | Appendix Part 8 owns the full explanation. Other locations retain locally necessary definitions. |
 | “Domain is not chronology. Mode is not drift.” | Chapters 2, Appendix Part 7, related appendix prose | Retain as a deliberate refrain where it closes a complete argument; avoid inserting it mechanically everywhere. |
-| ळ as governed Vedic sound outside the reusable grid | Chapters 9, 14, 16, Appendix Part 7, current Appendix Part 8 | Chapter 9 owns the sound-grid explanation; Chapter 16 owns the subcontinental-mouth use; Appendix Part 8 uses it once as a coordinate example. |
-| *Leṭ* as bounded Vedic verbal resource | Chapter 14, Appendix Part 7, current Appendix Part 8 | New Appendix Part 8 owns the full benefit-to-confusion test; Chapter 14 keeps one readable example; Appendix Part 7 keeps the evidence row. |
+| ळ as governed Vedic sound outside the reusable grid | Chapters 9, 14, 16, Appendix Part 7, Appendix Part 8 | Chapter 9 owns the sound-grid explanation; Chapter 16 owns the subcontinental-mouth use; Appendix Part 8 uses it once as a coordinate example. |
+| *Leṭ* as bounded Vedic verbal resource | Chapter 14, Appendix Part 7, Appendix Part 8 | Appendix Part 8 owns the full benefit-to-confusion test; Chapter 14 keeps one readable example; Appendix Part 7 keeps the evidence row. |
 | Exact preservation versus generative use | Chapters 0, 2, 9, 14, Appendices 7 and 8, upasarga plan | New Appendix Part 8 owns the complete read-only / write-enabled mechanism. |
 | Pāṇini as witness rather than rupture | Chapters 2, 14, Appendices 7 and 8 | Codification appendix owns the full rebuttal; other locations retain the refrain only where earned. |
 | Curated laukika content and asuric destruction | Chapters 0 and 3, Glossary | Chapter 0 introduces curation; Chapter 3 explains the two causes of loss; Glossary defines the terms. |

@@ -57,10 +57,10 @@
 | `as_3_07_vedic_carrier.md:156` | `one canonical infinitive` | Replace with `one standard infinitive`. |
 | `as_3_07_vedic_carrier.md:174` | `form-drift's canonical signature` | Replace with `form-drift's reference signature` or `form-drift's clearest signature`. |
 | `as_3_07_vedic_carrier.md:182` | `meaning-drift's canonical signature` | Replace with `meaning-drift's reference signature` or `meaning-drift's clearest signature`. |
-| `as_3_09_glossary.md:85` | `the canonical list` | Replace with `the standard list` or `the received list`. |
-| `as_3_09_glossary.md:159` | `The canonical vyākaraṇa text` | Replace with `The standard vyākaraṇa text` or `The received vyākaraṇa text`. |
-| `as_3_09_glossary.md:177` | `Canonical in Patañjali's Mahābhāṣya` | Replace with `Documented in Patañjali's Mahābhāṣya`. |
-| `as_3_09_glossary.md:229` | `The canonical enumeration of dhātavaḥ` | Replace with `The standard enumeration of dhātavaḥ` or `The operational enumeration of dhātavaḥ`. |
+| `as_3_10_glossary.md:85` | `the canonical list` | Replace with `the standard list` or `the received list`. |
+| `as_3_10_glossary.md:159` | `The canonical vyākaraṇa text` | Replace with `The standard vyākaraṇa text` or `The received vyākaraṇa text`. |
+| `as_3_10_glossary.md:177` | `Canonical in Patañjali's Mahābhāṣya` | Replace with `Documented in Patañjali's Mahābhāṣya`. |
+| `as_3_10_glossary.md:229` | `The canonical enumeration of dhātavaḥ` | Replace with `The standard enumeration of dhātavaḥ` or `The operational enumeration of dhātavaḥ`. |
 
 ## Reference Files
 

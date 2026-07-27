@@ -350,26 +350,26 @@
   - 7.5 Meter, Not Loss
   - 7.6 What Natural Drift Looks Like
   - 7.7 The Matrix Succeeds
-- **Appendix Part 8 — The Codification Story, Refuted**
-  - 8.1 The Story the Reader Has Been Taught
-  - 8.2 The Two Drift Claims
-  - 8.3 The Circular Method
-  - 8.4 Drift, Codification, Calibration
-  - 8.5 Vedic-Internal Variation Is Functional Division
-  - 8.6 Vedic and Classical Is the Wrong Pair
-  - 8.7 The Decoding Lineage Before Pāṇini
-  - 8.8 Patañjali Gives the Order
-  - 8.9 What Real Drift Looks Like
-  - 8.10 The Same-Timeline Test
-  - 8.11 The Calibration Audit
-  - 8.12 What the Audit Would Measure
-  - 8.13 Pāṇini's Optionality Is Not Drift
-  - 8.14 Mitanni and the External Anchor
-  - 8.15 Why the Story Persists
-  - 8.16 Point-by-Point Response
-  - 8.17 The Replacement Model
-  - 8.18 Verdict
-- **Appendix Part 9 — Glossary**
+- **Appendix Part 8 — One Architecture, Two Domains**
+  - 8.1 One Language, Two Engineering Tasks
+  - 8.2 Shared Architecture, Designed Differences
+  - 8.3 Vedic Variations in Operation
+  - 8.4 *Samāsa* (Compounding), Composition, and Style
+  - 8.5 How Laukika Keeps Sanskrit Useful
+  - 8.6 How the Veda Calibrates Laukika Sanskrit
+  - 8.7 One Society, Deliberately Separated Responsibilities
+  - 8.8 Two Permissions, One Civilizational Architecture
+- **Appendix Part 9 — The Codification Story, Refuted**
+  - 9.1 The Inherited Story and Its Two Drift Claims
+  - 9.2 Circular Chronology
+  - 9.3 Three Models
+  - 9.4 Domains, Modes, and Evidence Before Pāṇini
+  - 9.5 What Actual Language Change Looks Like
+  - 9.6 A Calibration Audit
+  - 9.7 Optionality and the Mitanni Evidence
+  - 9.8 Why the Codification Story Persists
+  - 9.9 Comparison and Conclusion
+- **Appendix Part 10 — Glossary**
 
 ---
 

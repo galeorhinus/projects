@@ -866,7 +866,7 @@ numbers already show this; the appendix needs to name it.
 
 **Tier — None.** No change.
 
-### Appendix Part 8 — Glossary (as_3_08)
+### Appendix Part 10 — Glossary (as_3_10)
 
 **Tier — Must.** Add three new entries:
 

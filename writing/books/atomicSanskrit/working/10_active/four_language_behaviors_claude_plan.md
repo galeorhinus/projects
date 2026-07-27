@@ -88,7 +88,7 @@ Read the cells:
 - **[Ch13:129](../../as_1_13_preservation.md#L129)** — the sharpest single statement: "Greek was codified. Latin was codified. Arabic was codified. Hebrew was codified. Tibetan was codified… ordinary speech kept moving." (diglossia).
 - **[Ch14:125](../../as_1_14_calibration.md#L125)** — Classical/Vulgar Latin, Quranic/modern Arabic, Classical Chinese/modern Sinitic; explicitly *not* the same as Sanskrit's engineering.
 - **[Ch14:133](../../as_1_14_calibration.md#L133)** & **[App2 `as_3_02_encyclopaedic.md`:93–99](../../as_3_02_encyclopaedic.md#L93)** — the Masoretic and Quranic apparatus as *engineered preservation of a fixed text* (the key nuance below).
-- **[Epilogue:61](../../as_2_01_epilogue.md#L61)**; whole **Appendix Part 8** `as_3_08_codification_story.md` (49 "codif" hits — the deep treatment).
+- **[Epilogue:61](../../as_2_01_epilogue.md#L61)**; whole **Appendix Part 9** `as_3_09_codification_story.md` (49 "codif" hits — the deep treatment).
 
 ### 3. Engineering
 - **[Ch2:69](../../as_1_02_botanical.md#L69)** — Sanskrit occupies the engineered, internally generative cell: new forms arise through architecture while distributed calibration holds the language.
@@ -404,7 +404,7 @@ Both impose a classification **from an apex** — a petrified prestige-form (Cla
 
 **Placement — recommendation:**
 - **Ch2** — the *symmetry* beat, compact: family tree fragments, dialect-label homogenizes, one fraud in two directions. Strengthens Ch2's "foundational category theft" by showing it is one of a matched pair. One example each; no data dump.
-- **Appendix Part 8 (codification story)** — the *detailed* comparative case (Arabic ≈ Romance, mutual-intelligibility, Weinreich, Mair/topolect, Spanish *dialecto*), framed as **the political consequence of petrification** — where it ties to the frozen prestige-form and keeps the main line about Sanskrit.
+- **Appendix Part 9 (codification story)** — the *detailed* comparative case (Arabic ≈ Romance, mutual-intelligibility, Weinreich, Mair/topolect, Spanish *dialecto*), framed as **the political consequence of petrification** — where it ties to the frozen prestige-form and keeps the main line about Sanskrit.
 - **Ch16 callback (optional)** — when the book rejects the Indic taxonomies: *the world homogenizes (Arabic "dialects") or fragments (the Indic "families"); the subcontinental field is neither.*
 - **Naming:** treat *"dialect"* like *"Indo-Aryan"* / *"vernacular"* — the pyramid's word, scare-quoted when cited; name languages by geography + directly.
 
@@ -513,7 +513,7 @@ Petrification is not only history (Arabic, Latin, Hebrew) or someone else's colo
 **Precision guardrail:** the disease is **prescriptive freezing** — usage-policing, right/wrong decrees, loan-purges — not teaching or literacy as such. Sanskrit *calibrates* (one shared anchor); the languages *live* (natural variation, drift, combination). The warning is against the *apex*, not against teaching a language well.
 
 **Deployment (a recurring warning wherever petrification appears):**
-- **Appendix Part 8 (codification story)** — turn the historical petrification cases toward the **live threat to India now**: the same freeze, self-inflicted.
+- **Appendix Part 9 (codification story)** — turn the historical petrification cases toward the **live threat to India now**: the same freeze, self-inflicted.
 - **Epilogue** — ✅ **DEPLOYED 2026-07-17**, relocated same day per Codex review into `## The Inward Correction` (it duplicated that section's state-standards argument; one copy, at the crescendo's proper place): the homeward-warning paragraph (state academies freezing Marathi/Hindi/Bengali = the pyramid's apex-move self-inflicted; one calibrant, dozens of living languages; *the freeze would destroy the evidence no invader ever could*), plus **"Codification is petrification"** in the Mohinī-engineering paragraph.
 - **Ch2 / Ch6 / Ch14** — where petrification/codification is defined, a one-line forward-pointer: *this is not only history; India risks it now.*
 

@@ -77,7 +77,7 @@ Linguistics calls this kind of avoidance the **Obligatory Contour Principle (OCP
 
 The ten *gaṇāḥ* have different sound profiles. The *juhotyādi* class, which uses reduplication, contains an unusually high share of voiced aspirates. The inventory share is 33.3 percent, and the share rises to 42.9 percent when the count is limited to entries visible in Path C.
 
-Those numbers are the measured result. The book's architectural explanation follows from the operation: reduplication repeats material across a stem, and C4 gives the repeated material a strong acoustic signature.
+Those numbers are the measured result. The book's architectural explanation follows from the operation: reduplication repeats material inside a verbal form, and C4 gives the repeated material a strong acoustic signature.
 
 ### 8. Productivity From Minimum
 

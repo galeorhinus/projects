@@ -1,4 +1,4 @@
-# Appendix Part 8 — The Codification Story, Refuted
+# Appendix Part 9 — The Codification Story, Refuted
 
 The pyramid teaches a familiar sequence. Sanskrit begins as an older and less regular language called Vedic Sanskrit. Its forms change, its accent weakens, its infinitives narrow, and its subjunctive disappears. Pāṇini then enters the story, describes the language with unmatched brilliance, and supposedly “codifies” the form later called Classical Sanskrit.
 
@@ -6,7 +6,7 @@ This account allows the pyramid to praise Pāṇini while denying the architectu
 
 Pāṇini deserves praise for a greater achievement. He decoded and compressed an architecture already operating in the Vedic corpus, recitation lineages, *Prātiśākhya* disciplines, *Nirukta*, and the earlier grammatical line. The evidence in this appendix distinguishes that achievement from codification.
 
-## 8.1 The Inherited Story and Its Two Drift Claims
+## 9.1 The Inherited Story and Its Two Drift Claims
 
 The inherited story places the Vedic corpus, Pāṇini, and laukika Sanskrit on one timeline. It describes the Vedic language as archaic, poetic, and still close to its imaginary Indo-European ancestor. Differences among Vedic texts become evidence of change, and differences between Vedic usage and Pāṇinian *bhāṣā* become evidence of further evolution. Pāṇini then appears at the rupture point, where his nearly four thousand rules arrest the drift and produce the later standard.
 
@@ -20,9 +20,9 @@ The second is **Vedic-to-laukika drift**. The pyramid points to features such as
 
 These claims require separate evidence. Vedic-internal variation may arise from meter, recitation, recension, function, or style. Differences between vaidika and laukika usage may arise because the two domains ask Sanskrit to perform different tasks. Variation becomes evidence of drift only after the mechanism and direction of change have been established.
 
-Appendix Part 7 examines the forms in their actual settings. It finds bounded variation inside a preservation architecture: contextual sound realizations, metrical alternatives, recitational parameters, and domain-specific resources. The codification story instead begins with a timeline and makes every difference conform to it.
+Appendix Part 7 examines Vedic forms in their actual settings. Appendix Part 8 then compares the *vaidika* and *laukika* domains across sounds, endings, verbal forms, *upasarga* placement, composition, and transmission. Together they reveal bounded variation inside a preservation architecture. The codification story instead begins with a timeline and makes every difference conform to it.
 
-## 8.2 Circular Chronology
+## 9.2 Circular Chronology
 
 The pyramid partly dates Sanskrit texts through the linguistic features it has already classified as archaic or late. A text with more “archaic” features is assigned an earlier place; one with fewer such features is placed later. The resulting sequence is then offered as proof that Sanskrit changed from the archaic form into the later form.[NOTE: vedic-classical-circular-dating]
 
@@ -32,7 +32,7 @@ Pāṇini's own terminology exposes the problem. He does not describe one group 
 
 The Hindu continuum preserves its own chronology where chronology is part of the record. The objection here concerns dates and sequences imported through a linguistic model that assumes the evolution it claims to discover.
 
-## 8.3 Three Models
+## 9.3 Three Models
 
 The evidence becomes clearer when three different language processes are kept apart.
 
@@ -49,7 +49,7 @@ The pyramid assigns Sanskrit before Pāṇini to natural drift and Sanskrit afte
 
 Masoretic Hebrew, Quranic Arabic, ecclesiastical Latin, and modern official languages show what codification can preserve. An authorized corpus, school, or institution selects a form and maintains it. Sanskrit's architecture distributes the measure across sound, meter, recitation, derivation, analysis, memory, and lineage. Pāṇini strengthens that architecture by documenting its operations; he does not make those operations exist.
 
-## 8.4 Domains, Modes, and Evidence Before Pāṇini
+## 9.4 Domains, Modes, and Evidence Before Pāṇini
 
 The phrase “Vedic Sanskrit and Classical Sanskrit” collapses two axes into one timeline. Sanskrit's own categories are more precise.
 
@@ -59,7 +59,7 @@ The phrase “Vedic Sanskrit and Classical Sanskrit” collapses two axes into o
 
 Domains are not periods, and modes are not stages. Pāṇini did not move Sanskrit from *vaidika* to *laukika* or from *chandas* to *bhāṣā*. He documented operations found in both.
 
-The Vedic corpus supplies the first body of evidence. Appendix Part 7 follows three passages through their *sandhi*, case endings, verbal forms, derivation, and meter. The language requires no imagined codifier to make those forms operational. A reader trained only in introductory laukika Sanskrit will still need instruction in Vedic accent, forms, and rule contexts, but the underlying case, number, verbal, derivational, and sound architecture remains available for analysis.
+The Vedic corpus supplies the first body of evidence. Appendix Part 7 follows three passages through their *sandhi*, case endings, verbal forms, derivation, and meter. Appendix Part 8 widens that comparison and explains why one Sanskrit architecture gives its two domains different permissions. The language requires no imagined codifier to make those forms operational. A reader trained only in introductory laukika Sanskrit will still need instruction in Vedic accent, forms, and rule contexts, but the underlying case, number, verbal, derivational, and sound architecture remains available for analysis.
 
 The analytical disciplines before Pāṇini supply a second body of evidence. Śākalya decomposed the Rigvedic *saṃhitā* through the *padapāṭha*. Pāṇini cites earlier *vaiyākaraṇāḥ*, and Yāska cites earlier analysts of word and meaning.[NOTE: panini-cites-pre-paninian-vaiyakaranas] The *Prātiśākhya* and *Śikṣā* disciplines analyze phonetic realization and articulation by transmission line. These are not fragments of a civilization waiting for grammar to arrive. They show a language already being decoded from several directions.
 
@@ -87,7 +87,7 @@ This is why visible difference cannot carry the chronology alone. The pyramid se
 
 Pāṇini stands at the peak of a decoding lineage, not at the beginning of Sanskrit's order.
 
-## 8.5 What Actual Language Change Looks Like
+## 9.5 What Actual Language Change Looks Like
 
 Natural language change leaves recognizable consequences. Sounds shift, endings erode, vocabulary changes, and earlier forms become inaccessible to ordinary speakers. Old English illustrates the process clearly. ***Hlāfweard*** becomes ***Lord***; case endings collapse; grammatical gender disappears; vowels shift; and word order assumes functions that inflection once performed. A modern English speaker needs dictionaries, instruction, and reconstruction to read *Beowulf*.
 
@@ -169,7 +169,7 @@ Actual drift appears around Sanskrit as *prākṛtika* speech changes and region
 
 The codification story therefore has to demonstrate more than visible difference. It must show that Sanskrit's core architecture moved substantially before Pāṇini and that his authority arrested the movement. Its evidence would need to resemble the cascading phonological, inflectional, lexical, and syntactic change visible across English. A list of Vedic features establishes neither claim.
 
-## 8.6 A Calibration Audit
+## 9.6 A Calibration Audit
 
 The codification claim can be tested. An audit would compare Vedic Saṃhitā passages by *śākhā*, Brāhmaṇa prose, Āraṇyaka and Upaniṣadic prose, *Prātiśākhya* and *Śikṣā* material, Yāska's *Nirukta*, Sūtra prose, and later *bhāṣā* texts against the architecture Pāṇini documents.[NOTE: calibration-audit-gap]
 
@@ -196,7 +196,7 @@ The preliminary result supports a measured statement:
 
 A larger audit can test that statement passage by passage. The codification story has rarely subjected its own rupture claim to an equivalent test.
 
-## 8.7 Optionality and the Mitanni Evidence
+## 9.7 Optionality and the Mitanni Evidence
 
 Pāṇini documents alternatives through operators such as **वा (*vā*)** and **विभाषा (*vibhāṣā*)**, and he marks rules for contexts such as *chandasi*. This optionality does not resemble a codifier eliminating disorder. It resembles an analyst specifying where more than one form is valid.
 
@@ -206,7 +206,7 @@ The Mitanni evidence supplies an external anchor. Indic technical vocabulary app
 
 Technical transmission requires enough stability for terms to remain usable outside their source setting. Mitanni therefore joins the Vedic corpus, recitation disciplines, pre-Pāṇinian analysts, and atomic inventory as evidence that stability did not begin with Pāṇini. His achievement was to give an already operating architecture its most compressed surviving document.
 
-## 8.8 Why the Codification Story Persists
+## 9.8 Why the Codification Story Persists
 
 The story survives because it serves several institutions at once.
 
@@ -224,7 +224,7 @@ That correction changes the object of praise. The codification story places the 
 
 The distinction also changes how the present academy approaches Sanskrit. A late codified standard fits familiar departments, dictionaries, editions, and historical stages. A distributed calibrant asks the academy to study recitation, meter, memory, derivation, analysis, and lineage as one preservation system. That inquiry does not require reverence in place of evidence. It requires the evidence already present to be classified according to the operations it performs before imported chronology is allowed to decide what those operations mean.
 
-## 8.9 Comparison and Conclusion
+## 9.9 Comparison and Conclusion
 
 The principal claims can now be compared directly.
 

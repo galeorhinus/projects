@@ -429,7 +429,7 @@ One engineering signature, three levels, one principle: range preserved where ra
 
 **The Path C sharpening.** Under corpus-restriction to *juhotyādi* *dhātavaḥ* actually attested in the Digital Corpus of Sanskrit (the Path C audit, §6.12 below), the C4 share rises from 33.3% inventory to **42.9% corpus-restricted** — a +9.5pp sharpening. The *Dhātupāṭha* over-allocates voiced aspirates to *juhotyādi*; the corpus over-deploys them further.
 
-**Why the *juhotyādi* C4 enrichment makes engineering sense.** Reduplication is a redundancy mechanism — the *dhātuḥ*'s initial consonant doubles to form the present-tense stem. For the doubled consonant to remain identifiable across the syllable boundary, the consonant must be acoustically robust. C4 — voiced, aspirated, breathy — is the column with the most distinctive acoustic signature; the same property that made C4 less-suppressed than C2 in §6.2. The architecture deploys the most-distinguishable column where distinguishability matters most. **Functional matching.**
+**Why the *juhotyādi* C4 enrichment makes engineering sense.** Reduplication is a redundancy mechanism — the *dhātuḥ*'s initial consonant doubles to form the present-tense form. For the doubled consonant to remain identifiable across the syllable boundary, the consonant must be acoustically robust. C4 — voiced, aspirated, breathy — is the column with the most distinctive acoustic signature; the same property that made C4 less-suppressed than C2 in §6.2. The architecture deploys the most-distinguishable column where distinguishability matters most. **Functional matching.**
 
 ## 6.12 *Prayoga* Reactivity — The Path C Audit
 

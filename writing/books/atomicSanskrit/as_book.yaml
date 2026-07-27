@@ -201,11 +201,14 @@ assembly:
     file: as_3_07_vedic_carrier.md
     title: "Appendix Part 7 — The Vedic Carrier"
   - kind: end
-    file: as_3_08_codification_story.md
-    title: "Appendix Part 8 — The Codification Story, Refuted"
+    file: as_3_08_one_architecture_two_domains.md
+    title: "Appendix Part 8 — One Architecture, Two Domains"
   - kind: end
-    file: as_3_09_glossary.md
-    title: "Appendix Part 9 — Glossary"
+    file: as_3_09_codification_story.md
+    title: "Appendix Part 9 — The Codification Story, Refuted"
+  - kind: end
+    file: as_3_10_glossary.md
+    title: "Appendix Part 10 — Glossary"
   - kind: end
     file: as_0_04_note_on_notes.md
     title: A Note on the Notes

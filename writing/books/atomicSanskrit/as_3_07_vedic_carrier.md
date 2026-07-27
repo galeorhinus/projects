@@ -98,9 +98,9 @@ The same verses show the *Dhātupāṭha*'s real status. It is not a list of sem
 | ***sat*** → ⟪अस्⟫ ***as*** | *adādi* (2nd) | *kṛdanta* present-participle — *that which exists*. Same *dhātu* as the previous row, in two distinct formations within one verse. |
 | ***savituḥ*** → ⟪सू⟫ ***sū*** (*to impel*) | *adādi* (2nd) | *sū* + *tṛ*-*pratyaya* → *savitṛ* (*the impeller*, agentive *kṛdanta*); *ṣaṣṭhī vibhakti*. |
 | ***vareṇyam*** → ⟪वृ⟫ ***vṛ*** (*to choose*) | *svādi* (5th) | *vṛ* + *enya*-*kṛt-pratyaya* → *vareṇya* (gerundive *kṛdanta*); *dvitīyā vibhakti*, *napuṃsaka-liṅga*. |
-| ***bhargo*** → ⟪भ्राज्⟫ ***bhrāj*** (*to shine*) | *bhvādi* (1st) | *bhrāj* → *bharga* + *as*-*pratyaya* → *bhargas* (s-stem *kṛdanta*); *-as* → *-o* by *sandhi*. |
+| ***bhargo*** → ⟪भ्राज्⟫ ***bhrāj*** (*to shine*) | *bhvādi* (1st) | *bhrāj* → *bharga* + *as*-*pratyaya* → *bhargas* (a *kṛdanta* ending in **स्**); *-as* → *-o* by *sandhi*. |
 | ***devasya*** → ⟪दिव्⟫ ***div*** | *divādi* (4th) | Same *dhātu* as the RV 1.1.1 *devam* row; *ṣaṣṭhī vibhakti* this time. |
-| ***dhīmahi*** → ⟪धी⟫ ***dhī*** / ⟪ध्यै⟫ ***dhyai*** (*to contemplate*) | *bhvādi* (*Dhātupāṭha* lists *dhyai*; *dhī*-stem is a Vedic alternant) | *liṅ-lakāra* 1pl *ātmanepada* — *"may we contemplate."* |
+| ***dhīmahi*** → ⟪धी⟫ ***dhī*** / ⟪ध्यै⟫ ***dhyai*** (*to contemplate*) | *bhvādi* (*Dhātupāṭha* lists *dhyai*; *dhī* is a Vedic alternant) | *liṅ-lakāra* 1pl *ātmanepada* — *"may we contemplate."* |
 | ***pracodayāt*** → ⟪चुद्⟫ ***cud*** (*to impel*) + *pra-*-*upasarga* | *tudādi* (6th) | Causative *coday-* of *cud*; *liṅ-lakāra* 3sg *parasmaipada* — *"may impel."* The full *dhātu* + *upasarga* + causative-*pratyaya* + *liṅ*-ending stack on a single word. |
 
 **Twelve forms. Ten distinct derivational mappings, with the *dhīmahi* row retaining a *dhī/dhyai* alternative. Six of Pāṇini's ten *gaṇāḥ* are represented across three short Vedic passages.** The table maps Vedic forms to entries and classes later recorded in the *Dhātupāṭha*, and it shows several of the derivational and verbal operations documented by the *Aṣṭādhyāyī*.

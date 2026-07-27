@@ -77,7 +77,7 @@ The 56 passages cluster into nine emergent groups. They overlap (most passages c
 - **`as_2_01_epilogue.md:27`** — Epilogue:
   > They made *ārya* about race, power, authority, ego, and the desire to lord over others.
 
-- **`as_3_08_codification_story.md:73`** — Appendix §6.6:
+- **`as_3_09_codification_story.md:73`** — Appendix §6.6:
   > The engineering thesis threatens more than PIE. It threatens the idea that order must descend from authority. A language whose architecture displays दिव्यता (*divyatā*) — radiance, brilliance, the mark of the devas — and preserves लोकक्षेम (*lokakṣema*) without apex command is intolerable to the asuric mind. It proves that knowledge can be held by architecture, discipline, lineage, and self-correction rather than by pyramid, decree, monopoly, and institutional control. That is the danger.
 
 - **`as_0_03_prologue.md:31`** — Prologue:
@@ -128,7 +128,7 @@ The 56 passages cluster into nine emergent groups. They overlap (most passages c
 
 **Canonical phrasing:** "The operating mode is *asuratva*: the quality of being asuric" (Ch 3 §3.6).
 
-**Definitional passage:** `as_1_03_fourth_abrahamic.md:146` paired with `as_3_09_glossary.md:243`.
+**Definitional passage:** `as_1_03_fourth_abrahamic.md:146` paired with `as_3_10_glossary.md:243`.
 
 **Citations:**
 
@@ -141,7 +141,7 @@ The 56 passages cluster into nine emergent groups. They overlap (most passages c
 - **`as_1_03_fourth_abrahamic.md:154`** — Ch 3 §3.6 (*vikṛti* connection):
   > In the ternary introduced in the front matter, this is **विकृति (*vikṛti*)**: recurrence distorted into control. The pyramid is not hierarchy once. It is hierarchy reproducing itself as doctrine, institution, funding, credential, and inherited obedience.
 
-- **`as_3_09_glossary.md:243`** — Glossary (definitional, operating-mode):
+- **`as_3_10_glossary.md:243`** — Glossary (definitional, operating-mode):
   > **Standard Sanskrit + book deployment.** The quality of being an *asura*; the operating mode of an actor or institution that consolidates power through hierarchy, deceives to maintain authority, and operates by withholding light. Used as the categorical diagnostic. Chapter 3 §3.6 establishes.
 
 - **`as_1_03_fourth_abrahamic.md:160`** — Ch 3 §3.6 (Schleicher as named operator):
@@ -231,7 +231,7 @@ The 56 passages cluster into nine emergent groups. They overlap (most passages c
 - **`as_1_01_botanical.md:83`** — Ch 1 §1.2, botanical metaphor as containment device:
   > The tree is the conversion device. It takes a system that presents itself as created, measured, preserved, and calibrated, and makes it look like nature: growth, inheritance, mutation, decay. The conversion protects the pyramid from the more dangerous interpretation: Sanskrit as the swastika's geometry — distributed order without apex command. The threat is structural, not symbolic.
 
-- **`as_3_08_codification_story.md:72`** — Appendix §6.6:
+- **`as_3_09_codification_story.md:72`** — Appendix §6.6:
   > At the deeper civilizational level, it protects the asuric pyramid.
 
 - **`as_1_17_wrong_question.md:131`** — Ch 17 §17.6:
@@ -263,7 +263,7 @@ The 56 passages cluster into nine emergent groups. They overlap (most passages c
 - **`as_0_03_prologue.md:11`** — Prologue epigraph (untruth as originating substance):
   > By truth were created the radiant ones; by untruth, their opposites — the asuras. The radiant ones became truth; the asuras, untruth.
 
-- Deception is also named explicitly in the Ch 3 §3.6 agent-class definition (`as_1_03_fourth_abrahamic.md:146`) and in the Glossary entry (`as_3_09_glossary.md:243`) — see Cluster D for full text.
+- Deception is also named explicitly in the Ch 3 §3.6 agent-class definition (`as_1_03_fourth_abrahamic.md:146`) and in the Glossary entry (`as_3_10_glossary.md:243`) — see Cluster D for full text.
 
 ### Cluster I — Mythological precedents (the *Itihāsa-Purāṇa* recipe-set)
 
@@ -428,9 +428,9 @@ Motivations enumerated as nexus: **conversion → extraction → subordination �
 | `as_3_05_language_factory.md:66` | A | C |
 | `as_3_05_language_factory.md:175` | D | A, B |
 | `as_3_05_language_factory.md:177` | A | C |
-| `as_3_08_codification_story.md:72` | G | — |
-| `as_3_08_codification_story.md:73` | B | G |
-| `as_3_09_glossary.md:243` | D | H |
+| `as_3_09_codification_story.md:72` | G | — |
+| `as_3_09_codification_story.md:73` | B | G |
+| `as_3_10_glossary.md:243` | D | H |
 | `as_endnotes.md:552` | D | I |
 
 ---
@@ -449,8 +449,8 @@ Motivations enumerated as nexus: **conversion → extraction → subordination �
 - `as_3_01_baking.md`
 - `as_3_03_audiography.md`
 - `as_3_05_language_factory.md`
-- `as_3_08_codification_story.md`
-- `as_3_09_glossary.md`
+- `as_3_09_codification_story.md`
+- `as_3_10_glossary.md`
 - `as_endnotes.md`
 
 Fifteen files carry the asura-motivation vocabulary. Ch 3 §3.6 (`as_1_03_fourth_abrahamic.md`) is the densest single anchor; the Prologue (`as_0_03_prologue.md`) is the most polemic-load-bearing; the Epilogue (`as_2_01_epilogue.md`) is the most lyrically complete.

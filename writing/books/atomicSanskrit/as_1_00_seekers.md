@@ -104,21 +104,55 @@ Why does Sanskrit need two domains? If its architecture is complete and generati
 
 Exact Vedic preservation requires the *vaidika* domain to retain every articulation demanded by a mantra, including sounds produced only under a stated condition. The *laukika* domain, whose name means *worldly*, must provide vocabulary for a changing field of activity while keeping the language invariant. Sanskrit meets that second demand through a highly generative architecture capable of producing millions of words, and continuing generation requires a reusable sonomer inventory whose members combine consistently throughout the system. Chapter 9 will show how one sound architecture can satisfy both requirements.
 
-![Figure 0.1 — The three fields. *Saṃskṛta*, the wholly created language, runs in two domains. The *vaidika* keeps language and content invariant. In the *laukika*, the language remains invariant while generative usage adapts and its curated corpus remains selected, accretive, and lossy. Beside them, *prākṛtika* flows as the changing natural speech of daily life. All three run the full span from *anādi* to *ananta*.](figures/seekers/sanatana_triad.svg){#fig:sanatana-triad width=100%}
+![Figure 0.1 — The three fields. *Saṃskṛta*, the wholly created language, runs in two domains. The *vaidika* keeps language and content invariant. In the *laukika*, the language remains invariant while generative usage adapts and its curated corpus remains selected, accretive, and lossy. Beside them, *prākṛtika* flows as the changing natural speech of daily life. The figure compares how the three fields preserve or change language and content; it does not give them a common beginning.](figures/seekers/sanatana_triad.svg){#fig:sanatana-triad width=100%}
 
 ---
 
-## 0.5 Sanātana Time
+## 0.5 Are the Vedas Archaic?
 
-The Veda is one. The continuum preserves it as a single body of sound, without beginning and without end — *anādi* अनादि behind, *ananta* अनन्त ahead.
+Are the Vedas archaic?
+
+It depends on what *archaic* is being made to mean.
+
+If *archaic* simply means ancient, then the description says very little. If it means outdated, superseded, or characteristic of an earlier evolutionary stage, the word has already committed category theft. The pyramid uses *archaic* to place Vedic Sanskrit inside its botanical chronology: an older form changed over time and eventually became the supposedly more modern language called *Classical Sanskrit*.
+
+A better question is: are the Vedas old?
+
+In their human reception and transmission, undoubtedly. *Sanātana* time is ***अनादि (anādi)***, but the Vedas are not. They have a beginning within that field. The *mantradṛṣṭāraḥ* and *mantradṛṣṭryaḥ* saw the mantras, but we do not know when each mantra was seen. Calling the Vedas old can therefore describe the depth of their human transmission; it cannot establish an evolutionary beginning for Sanskrit.
+
+The ***लौकिक (laukika)*** domain is also old. Both *vaidika* and *laukika* belong to the same engineering. The two domains may have existed together from the beginning because they serve two different purposes.
+
+Their contents, however, have aged differently.
+
+The *vaidika* domain preserves received content exactly. Once a mantra was seen and entered its transmission lineage, its words, sounds, pitch, meter, and arrangement became read-only. Appendix Part 8, “One Architecture, Two Domains,” examines the read-only and read-write permissions in detail. The architecture protects the mantra from alteration.
+
+The *laukika* domain remains open to composition. People use it to tell stories, write poetry, analyze mathematics, record astronomy, debate philosophy, and describe circumstances that no earlier composition could have anticipated. By definition, its corpus contains material composed across different periods.
+
+Some laukika material is certainly newer. Some may be extremely old. A story could have circulated before a particular mantra was seen, just as an author can write an epilogue before writing a preface. We do not possess the chronology required to place every laukika composition after every Vedic mantra. The naming of the two domains describes purpose and usage, not sequence.
+
+Their different exposure to entropy follows from those purposes. The Vedic domain is guarded by exact transmission because the Vedas are the calibrant. Every recitation is measured against the received form.
+
+The laukika domain faces greater entropic pressure because it remains generative. New speakers, new compositions, new circumstances, and ordinary usage create opportunities for pronunciation, forms, and meanings to vary. The ***वैयाकरणाः (vaiyākaraṇāḥ)*** documented both domains, but their calibrating activity belonged to the laukika domain. They did not calibrate the Vedas. The Vedas supplied the calibration.
+
+Pāṇini inherited this arrangement. His *chandasi* documentation explains forms preserved in the Vedas, allowing students to read and understand them. His *bhāṣāyām* documentation explains the productive language through which people could read existing laukika works and compose new ones.
+
+Nothing in the *Aṣṭādhyāyī* shows Pāṇini rewriting a Vedic passage, correcting a mantra, or converting a natural language into Sanskrit. He documented an architecture already operating in both domains. His decoding is the finest surviving account of that architecture.
+
+Could some grammatical variation have entered laukika usage during the thousands of years before Pāṇini inherited and documented it?
+
+That is likely. An open domain will face entropy in a way that read-only transmission does not. But this does not produce the pyramid's story of a drifting language finally *"codified"* by Pāṇini. Generations of *vaiyākaraṇāḥ* had already been analyzing usage and calibrating the laukika domain against Sanskrit's architecture. Pāṇini represents the surviving peak of that work, not its beginning.
+
+The Vedas remained unchanged. Laukika usage may have varied under entropic pressure, while continuous calibration kept the language within Sanskrit's architecture.
+
+The Vedas did not survive because Pāṇini stabilized them. Pāṇini could document Sanskrit because the Vedas had already preserved its measure.
 
 At the turn from the Dvāpara age to the Kali age — the age of the Mahābhārata — Vyāsa divided the one Veda into four: *Ṛgveda*, *Yajurveda*, *Sāmaveda*, *Atharvaveda*, each with its *saṃhitā* and associated vistāra — Brāhmaṇa, Āraṇyaka, Upaniṣad. The division added nothing and took nothing away. It arranged the one body for an age of shorter memory: preservation, not authorship.[NOTE: veda-vyasa-division] This is the vaidika domain, preserved in *chandas* (छन्दस्), the metrical mode.
 
 At the same turn, the *itihāsa-purāṇa* — the fifth Veda — passed to the laukika keepers: the laukika domain, expressed in *bhāṣā* (भाषा), the mode of speech. Its corpus grows, its vocabulary meets each changing age through derivation, and the language remains invariant.
 
-The continuum measures all of this in its own time — *Sanātana* time. Tretā turned before Dvāpara, Satya before that; and through every age the Veda has kept watch over the laukika world, unchanged — the invariant calibrant against which the turning world is measured.
+The continuum measures all of this in its own time — *Sanātana* time. Tretā turned before Dvāpara, Satya before that, and the yuga cycle had already repeated through earlier manvantaras. We do not know whether the Vedas came into being during Dvāpara, Tretā, Satya, or an earlier manvantara. But from its beginning, the Veda has kept watch over the laukika world, unchanged — the invariant calibrant against which the turning world is measured.
 
-![Figure 0.2 — Sanātana Time. The one Veda (invariant, *chandas* mode) divides into four at the Mahābhārata — each *saṃhitā* with its *vistāra* — while the *itihāsa-purāṇa* crosses into the laukika domain (*bhāṣā* mode), where civilizational clarity rises and falls across the yugas. All measured in the continuum's own time, *anādi* to *ananta*.](figures/seekers/seekers_vaidika_laukika.svg){#fig:sanatana-time width=100%}
+![Figure 0.2 — Sanātana Time. Sanātana time extends from *anādi* to *ananta*. The Veda begins at an unknown point within that field. The one Veda (invariant, *chandas* mode) divides into four at the Mahābhārata — each *saṃhitā* with its *vistāra* — while the *itihāsa-purāṇa* crosses into the laukika domain (*bhāṣā* mode), where civilizational clarity rises and falls across the yugas.](figures/seekers/seekers_vaidika_laukika.svg){#fig:sanatana-time width=100%}
 
 ---
 

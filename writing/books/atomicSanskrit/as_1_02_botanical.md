@@ -78,7 +78,7 @@ Figure 2.2 places examples inside the four categories and shows two ways a langu
 
 ![Figure 2.2 — Languages and Movements. The examples occupy the four categories. Vivification begins when an engineered language enters ordinary communal use and starts changing botanically. Revivification returns a petrified language to daily speech, where botanical change resumes.](figures/botanical/language2x2-list.png){#fig:ch2-language-2x2-list width=100%}
 
-**Vivification** occurs when an engineered language enters ordinary communal use and begins changing with its speakers. Esperanto illustrates that movement. **Revivification** occurs when speakers return a petrified language to daily and childhood use. Modern Hebrew provides the clearest example; Chapter 13 §13.5 follows that process, while Appendix Part 8 supplies the comparative evidence.
+**Vivification** occurs when an engineered language enters ordinary communal use and begins changing with its speakers. Esperanto illustrates that movement. **Revivification** occurs when speakers return a petrified language to daily and childhood use. Modern Hebrew provides the clearest example; Chapter 13 §13.5 follows that process, while Appendix Part 9 supplies the comparative evidence.
 
 **Vivimorphosis** describes a different movement. Sanskrit itself remains inside its generative architecture while one of its engineered forms enters a natural language and acquires botanical life there. Chapter 12 §12.9 follows that movement from **शब्द (*śabda*)** through **बीज (*bīja*)** to **अपशब्द (*apaśabda*)**.
 

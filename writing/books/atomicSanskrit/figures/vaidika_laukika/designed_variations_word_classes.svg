@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- lineage: py
+     canonical-source: designed_variations_word_classes.from-py.svg
+     updated: 2026-07-26 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="4.75in" height="4.750in" viewBox="0 0 1200 1200">
+<rect width="1200" height="1200" fill="#f7f4ed"/>
+<text x="28.0" y="54.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="42" font-weight="600" font-style="normal" fill="#29251f" text-anchor="start">Designed Variations: Word Classes</text>
+<text x="28.0" y="91.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="27" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">CL-01 through CL-10</text>
+<line x1="28" y1="108" x2="1172" y2="108" stroke="#9d7c36" stroke-width="3"/>
+<text x="28.0" y="161.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">ID</text>
+<text x="122.0" y="161.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">Ending / class</text>
+<text x="462.0" y="161.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">Relation</text>
+<text x="704.0" y="161.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">Qualification</text>
+<text x="946.0" y="161.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">DV</text>
+<text x="1102.0" y="161.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">Evidence</text>
+<text x="122.0" y="196.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">Vaidika → laukika</text>
+<text x="800.0" y="196.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">Prevalence</text>
+<line x1="28" y1="208" x2="1172" y2="208" stroke="#cfc6b5" stroke-width="1"/>
+<text x="28.0" y="240.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">CL-01</text>
+<text x="122.0" y="240.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">poly. ईकारान्त / ऊकारान्…</text>
+<text x="462.0" y="240.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">Major class redistrib…</text>
+<text x="122.0" y="279.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: रथी, नदी, तनू (ra…  →  L: Most are reassign…</text>
+<text x="946.0" y="240.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="start">—</text>
+<circle cx="808" cy="271" r="7" fill="#9d7c36" stroke="#9d7c36" stroke-width="2"/>
+<text x="824.0" y="279.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">80 lex · B</text>
+<text x="1102.0" y="240.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
+<rect x="28" y="298" width="1144" height="90" fill="#f0ece3"/>
+<line x1="28" y1="298" x2="1172" y2="298" stroke="#cfc6b5" stroke-width="1"/>
+<text x="28.0" y="330.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">CL-02</text>
+<text x="122.0" y="330.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">Vedic long-vowel words r…</text>
+<text x="704.0" y="330.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">RARE · 3 secure…</text>
+<text x="462.0" y="330.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">Class redistribution</text>
+<text x="122.0" y="369.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: Several Vedic wor…  →  L: Laukika regulariz…</text>
+<text x="946.0" y="330.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="start">—</text>
+<circle cx="808" cy="361" r="7" fill="#9d7c36" stroke="#9d7c36" stroke-width="2"/>
+<text x="824.0" y="369.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">3 forms · B</text>
+<text x="1102.0" y="330.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
+<line x1="28" y1="388" x2="1172" y2="388" stroke="#cfc6b5" stroke-width="1"/>
+<text x="28.0" y="420.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">CL-03</text>
+<text x="122.0" y="420.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">अस्-अन्त words</text>
+<text x="704.0" y="420.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">RECURRING · 4 so…</text>
+<text x="462.0" y="420.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">Reanalysis across cla…</text>
+<text x="122.0" y="459.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -asam / -asas · -…  →  L: अस्-अन्त · आकारान…</text>
+<text x="946.0" y="420.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="start">—</text>
+<circle cx="808" cy="451" r="7" fill="#9d7c36" stroke="#9d7c36" stroke-width="2"/>
+<text x="824.0" y="459.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">4 forms · B</text>
+<text x="1102.0" y="420.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
+<rect x="28" y="478" width="1144" height="90" fill="#f0ece3"/>
+<line x1="28" y1="478" x2="1172" y2="478" stroke="#cfc6b5" stroke-width="1"/>
+<text x="28.0" y="510.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">CL-04</text>
+<text x="122.0" y="510.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">इस् / उस्-अन्त words</text>
+<text x="704.0" y="510.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">ISOLATED</text>
+<text x="462.0" y="510.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">Reanalysis across cla…</text>
+<text x="122.0" y="549.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -is / -i / -iṣa ·…  →  L: Laukika settles i…</text>
+<text x="946.0" y="510.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="start">—</text>
+<circle cx="808" cy="541" r="7" fill="#9d7c36" stroke="#9d7c36" stroke-width="2"/>
+<text x="824.0" y="549.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">1 tok · B</text>
+<text x="1102.0" y="510.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
+<line x1="28" y1="568" x2="1172" y2="568" stroke="#cfc6b5" stroke-width="1"/>
+<text x="28.0" y="600.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">CL-05</text>
+<text x="122.0" y="600.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">अहन् (ahan) “day”</text>
+<text x="462.0" y="600.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">Lexical paradigm</text>
+<text x="122.0" y="639.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: अहन्, अहर्, अहस्…  →  L: Laukika restricts…</text>
+<text x="946.0" y="600.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="start">—</text>
+<circle cx="808" cy="631" r="7" fill="none" stroke="#9d7c36" stroke-width="2"/>
+<text x="824.0" y="639.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">1 paradigm · A</text>
+<text x="1102.0" y="600.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
+<rect x="28" y="658" width="1144" height="90" fill="#f0ece3"/>
+<line x1="28" y1="658" x2="1172" y2="658" stroke="#cfc6b5" stroke-width="1"/>
+<text x="28.0" y="690.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">CL-06</text>
+<text x="122.0" y="690.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">ऊधन् (ūdhan) “udder”</text>
+<text x="462.0" y="690.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">Lexical paradigm</text>
+<text x="122.0" y="729.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: ऊधन्, ऊधर्, ऊधस्…  →  L: अस्-अन्त</text>
+<text x="946.0" y="690.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="start">—</text>
+<circle cx="808" cy="721" r="7" fill="none" stroke="#9d7c36" stroke-width="2"/>
+<text x="824.0" y="729.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">1 paradigm · A</text>
+<text x="1102.0" y="690.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
+<line x1="28" y1="748" x2="1172" y2="748" stroke="#cfc6b5" stroke-width="1"/>
+<text x="28.0" y="780.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">CL-07</text>
+<text x="122.0" y="780.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">अक्षन्, अस्थन्, दधन्, सक…</text>
+<text x="462.0" y="780.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">Small lexical class</text>
+<text x="122.0" y="819.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: अन्-अन्त  →  L: इकारान्त · अक्षि…</text>
+<text x="946.0" y="780.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="start">—</text>
+<circle cx="808" cy="811" r="7" fill="#9d7c36" stroke="#9d7c36" stroke-width="2"/>
+<text x="824.0" y="819.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">4 lex · B</text>
+<text x="1102.0" y="780.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
+<rect x="28" y="838" width="1144" height="90" fill="#f0ece3"/>
+<line x1="28" y1="838" x2="1172" y2="838" stroke="#cfc6b5" stroke-width="1"/>
+<text x="28.0" y="870.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">CL-08</text>
+<text x="122.0" y="870.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">पन्थन् (panthan) “path”</text>
+<text x="462.0" y="870.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">Lexical paradigm</text>
+<text x="122.0" y="909.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: पन्था, पथि, पथ् (…  →  L: Laukika regulariz…</text>
+<text x="946.0" y="870.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="start">—</text>
+<circle cx="808" cy="901" r="7" fill="none" stroke="#9d7c36" stroke-width="2"/>
+<text x="824.0" y="909.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">1 paradigm · A</text>
+<text x="1102.0" y="870.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
+<line x1="28" y1="928" x2="1172" y2="928" stroke="#cfc6b5" stroke-width="1"/>
+<text x="28.0" y="960.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">CL-09</text>
+<text x="122.0" y="960.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">perfect participles</text>
+<text x="462.0" y="960.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">Participial declension</text>
+<text x="122.0" y="999.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -vat  →  L: -vat</text>
+<text x="946.0" y="960.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="start">—</text>
+<circle cx="808" cy="991" r="7" fill="#9d7c36" stroke="#9d7c36" stroke-width="2"/>
+<text x="824.0" y="999.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">3 tok · B</text>
+<text x="1102.0" y="960.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
+<rect x="28" y="1018" width="1144" height="90" fill="#f0ece3"/>
+<line x1="28" y1="1018" x2="1172" y2="1018" stroke="#cfc6b5" stroke-width="1"/>
+<text x="28.0" y="1050.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">CL-10</text>
+<text x="122.0" y="1050.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">active participles endin…</text>
+<text x="704.0" y="1050.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">DOMINANT dual…</text>
+<text x="462.0" y="1050.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">Mixed: frequent dual…</text>
+<text x="122.0" y="1089.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -ā · -au · -ānti…  →  L: -au · -anti</text>
+<text x="946.0" y="1050.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="start">—</text>
+<rect x="800" y="1077" width="54" height="9" rx="4.5" fill="#e8dfcc"/>
+<rect x="800" y="1077" width="46.3" height="9" rx="4.5" fill="#9d7c36"/>
+<text x="864.0" y="1089.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">85.7% 6/7 tok · B</text>
+<text x="1064.0" y="1089.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">+1</text>
+<text x="1102.0" y="1050.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
+<line x1="28" y1="1108" x2="1172" y2="1108" stroke="#cfc6b5" stroke-width="1"/>
+<text x="28.0" y="1145.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="24" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">Measures:</text>
+<rect x="139" y="1133" width="45" height="8" rx="4" fill="#9d7c36"/>
+<text x="192.0" y="1145.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">% bar</text>
+<circle cx="287" cy="1137" r="7" fill="#9d7c36" stroke="#9d7c36"/>
+<text x="302.0" y="1145.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">count</text>
+<rect x="380" y="1131" width="43" height="11" rx="4" fill="none" stroke="#9d7c36" stroke-width="2"/>
+<text x="431.0" y="1145.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">bound / ≈</text>
+<rect x="558" y="1129" width="22" height="15" fill="none" stroke="#8b8377" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="590.0" y="1145.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">open</text>
+<text x="1172.0" y="1145.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="end">A–D = evidence grade · P = passage · FN = function</text>
+<text x="28.0" y="1180.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">Percentages, counts, bounds, and open cells measure different kinds of evidence.</text>
+</svg>

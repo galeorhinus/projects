@@ -19,6 +19,9 @@ When rewriting existing prose:
 - Explain the term on first use when the reader needs it.
 - Replace academic abstractions with concrete operations.
 - Turn noun-heavy claims into verb-driven sentences.
+- Keep the concrete subject in front when assigning it a purpose, capacity, responsibility, or quality. Prefer the natural subject-first construction — *Sanskrit has a twofold purpose* — over the more formal classificatory inversion — *Sanskrit's purpose is twofold*. This is a preference for conversational exposition, not a blanket ban on possessives.
+- Do not remove an explicit number or repeated noun merely because a copyeditor might consider it redundant. Keep the repetition when it makes a correspondence visible: *The two domains serve two different purposes* clearly pairs each domain with its purpose; *The two domains serve different purposes* compresses that relationship.
+- Prefer direct identification when introducing an example, source, or category. Write *The first example is the opening mantra of the Ṛgveda* rather than making the source perform an empty introductory action: *The opening mantra supplies the first example*. A source may *state, explain, describe,* or *show* something when that verb identifies what the source actually does. Avoid *supplies, provides, offers, presents,* or *introduces* when the sentence merely means *is* or *contains*.
 - Make the causal sequence explicit: who acts, by what mechanism, and with what consequence.
 - Combine related beats when separate short sentences would force the reader to reconstruct the connection.
 - Preserve an established refrain when it belongs to the manuscript's architecture, but do not use its compressed cadence as a drafting template.

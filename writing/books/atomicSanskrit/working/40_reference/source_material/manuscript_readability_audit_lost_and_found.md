@@ -3559,7 +3559,7 @@ The older prose states Vedic priority and metrical purpose more categorically.
 
 ## LAF-R-075 — Appendix 8 pre-restructure text
 
-**Source:** [Appendix Part 8](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_08_codification_story.md:1)  
+**Source:** [Appendix Part 9](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_09_codification_story.md:1)  
 **Audit block:** [APP-008](../../10_active/manuscript_readability_review_codex/27_appendices.md#app-008---reduce-and-reorganize-appendix-8)  
 **Change type:** CONDENSE + REORGANIZE  
 **Status:** UNDECIDED  

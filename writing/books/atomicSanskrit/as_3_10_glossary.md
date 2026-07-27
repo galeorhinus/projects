@@ -1,4 +1,4 @@
-# Appendix Part 9 — Glossary
+# Appendix Part 10 — Glossary
 
 > A reference for the book's technical vocabulary. Each entry flags whether the term is **standard** Sanskrit usage, the book's **coinage** (an English or compound-Sanskrit term newly coined for a specific technical sense), or **repurposed** (a standard word deployed with a specific technical meaning the book makes operative). Pāṇinian / *Nirukta* / Monier-Williams citations are given where applicable.
 
@@ -164,7 +164,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **Aṣṭādhyāyī** (अष्टाध्यायी)
 
-**Standard, book-controlled deployment.** Pāṇini's foundational grammar — the *Eight-Chapter* treatise. The standard *vyākaraṇa* text. The dogma treats it as the codification of a previously-drifting language; the counter-category is the finest *decoding* of an architecture already engineered into the *Vedas*. Cited across Chapters 4, 6, 8, 10, and Appendix Part 8; the codified → decoded correction is central to the book's refrain (*Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest*).
+**Standard, book-controlled deployment.** Pāṇini's foundational grammar — the *Eight-Chapter* treatise. The standard *vyākaraṇa* text. The dogma treats it as the codification of a previously-drifting language; the counter-category is the finest *decoding* of an architecture already engineered into the *Vedas*. Cited across Chapters 4, 6, 8, 10, and Appendix Part 9; the codified → decoded correction is central to the book's refrain (*Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest*).
 
 ### **paramparā** (परम्परा)
 

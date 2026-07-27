@@ -134,7 +134,7 @@ This manifest records the decisions already implemented from review files 01–2
 | APP-005 | APPLIED | [Appendix Part 5](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_05_language_factory.md:1) |
 | APP-006 | APPLIED | [Appendix Part 6](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_06_by_the_numbers.md:1) |
 | APP-007 | APPLIED | [Appendix Part 7](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_07_vedic_carrier.md:1) |
-| APP-008 | APPLIED | [Appendix Part 8](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_08_codification_story.md:1) |
+| APP-008 | APPLIED | [Appendix Part 9](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_09_codification_story.md:1) |
 
 The following blocks remain outside the application count: APP-003 requires clarification about what should remain; APP-009 now contains an exact retain/merge/remove inventory awaiting approval.
 

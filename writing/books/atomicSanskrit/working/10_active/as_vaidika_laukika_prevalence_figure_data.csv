@@ -1,0 +1,108 @@
+row_id,subclaim,numerator,denominator,percentage,relation,unit,label,grade,plot_status,note
+SG-01,short instrumental -ā,1,9,11.1,exact_ratio,tokens,RECURRING,B,plot,Whitney RV ratio; -ena family is 8/9
+SG-02,-ayā contracted to -ā,1,2,50.0,approximate,tokens,COMMON,B,plot,Use ≈ symbol
+SG-03,ikārānta -yā lexical breadth,5,30,16.7,exact_reported_types,lexemes,RECURRING,B,plot,Five -yā lexemes against twenty-five -inā lexemes
+SG-03,ukārānta -vā lexical breadth,4,34,11.8,exact_reported_types,lexemes,RECURRING,B,plot,Four -vā lexemes against thirty -unā lexemes
+SG-04,feminine contraction to -ī,2,3,66.7,exact_ratio,tokens,COMMON,B,plot,Occasional -i and rare -inā need separate markers
+SG-05,adverbial -uyā breadth,6,,,approximate_absolute,lexemes,RARE,B,dot,No denominator
+SG-06,short ukārānta dative -ve,3,63,4.8,upper_bound,lexemes,RARE,B,plot,Denominator is greater than 63; percentage is less than 4.8
+SG-07,inserted-n neuter dative tokens,1,18,5.6,exact_annotated,tokens,RECURRING,A,plot,One madhune among eighteen reviewed neuter ikārānta/ukārānta dative-singular tokens; five lexemes represented
+SG-08,prevailing ukārānta genitive-ablative type,70,76,92.1,lower_bound,lexemes,DOMINANT,B,plot,Numerator is greater than 70; field is not neuter-only
+SG-09,masculine -unaḥ,2,,,exact_absolute,tokens,ISOLATED,B,dot,Keep apart from common -yaḥ and -vaḥ
+SG-10,ikārānta locative -ā,1,3,33.3,derived_ratio,tokens,COMMON,B,plot,Source says -ā occurs half as often as -au
+SG-10,agnā lexical check,8,30,26.7,exact_checked,tokens,COMMON,A,plot,Supporting lexeme rather than class rate
+SG-11,locatives in -ī,6,,,approximate_absolute,forms,RARE,B,dot,About six reported
+SG-12,sānavi against sānau,9,28,32.1,exact_checked,tokens,COMMON,A,plot,Checked lexeme only; -ayi excluded as doubtful
+SG-13,neuter locative -ini,0,,,defined_absence,forms,ABSENT,B,zero,Do not apply zero to rare -uni
+SG-14,long-vowel class comparison,,,,unknown,,UNKNOWN,U,unknown,
+SG-15,derivative ākārānta contraction,1,2,50.0,approximate,tokens,COMMON,B,plot,Shares SG-02 field
+SG-16,śamī/śami against śamyā,8,10,80.0,exact_annotated,tokens,DOMINANT,A,plot,Checked lexeme: śamī 3; śami 5; uncontracted śamyā 2
+SG-17,gaurī locative singular,1,,,exact_annotated,tokens,ISOLATED,A,dot,One checked locative-singular token
+SG-18,ṛkārānta locative -ī,,,,source_corpus_conflict,,UNKNOWN,D,unknown,Whitney prints kartarī; VedaWeb annotates the sole token as kartari at RV 1.139.7f
+SG-19,mūrdhan against mūrdhani,6,12,50.0,exact_checked,tokens,COMMON,A,plot,Checked lexeme; source says class-wide short form is more frequent
+SG-20,mahinā against mahimnā,38,41,92.7,exact_checked,tokens,DOMINANT,A,plot,Checked lexeme only
+SG-20,abbreviated instrumental lexical class,6,,,exact_absolute,lexemes,RARE,B,dot,Two additional analyses are doubtful
+SG-21,retained-a instances against metrically restored-a instances,1,2,50.0,approximate,two_source_groups,COMMON,B,plot,Source says about as numerous
+SG-22,mant-vant RV vocative -as,100,100,100.0,lower_bound,tokens,DOMINANT,B,plot,More than 100 -as and zero unquestionable -an
+SG-23,cikitvaḥ against cikitvan,11,11,100.0,exact_checked,tokens,DOMINANT,A,plot,Checked lexeme
+SG-24,ojīyaḥ,2,,,exact_checked,tokens,ISOLATED,A,dot,No examples outside RV reported
+SG-25,secure van-ending extensions,5,,,approximate_absolute,lexemes,RARE,B,dot,One additional member doubtful
+SG-25,doubtful van-ending extension,1,,,doubtful_absolute,lexeme,DOUBTFUL,B,no_plot,
+SG-26,instrumental tvā against tvayā,5,50,10.0,exact_annotated,tokens,RECURRING,A,plot,Five instrumental tvā and forty-five instrumental tvayā; 590 other tvā homographs excluded
+SG-27,asme pronoun form,212,,,exact_annotated,tokens,N/A,A,dot,Relation is untagged in many tokens; do not compare directly with asmabhyam
+SG-27,yuṣme pronoun form,6,,,exact_annotated,tokens,N/A,A,dot,All six are plural pronoun tokens; do not compare directly with yuṣmabhyam
+SG-28,enā demonstrative instrumental,38,,,exact_annotated,tokens,RECURRING,A,dot,All thirty-eight are annotated instrumental singular
+SG-28,ayā demonstrative instrumental,25,,,exact_annotated,tokens,RECURRING,A,dot,One verbal homograph excluded
+SG-29,tyā demonstrative instrumental,1,,,exact_annotated,tokens,ISOLATED,A,dot,Twenty homographs in other relations excluded; no tyayā token found
+DU-01,masculine dual -ā,7,8,87.5,exact_ratio,tokens,DOMINANT,B,plot,Use source class ratio
+DU-02,ṛkārānta comparison -āu,10,,,exact_comparator_count,tokens,DOMINANT,B,dot,Total dual field not supplied
+DU-03,participial dual -ā,6,7,85.7,derived_ratio,tokens,DOMINANT,B,plot,-āu is one-sixth as common as -ā
+DU-04,later derivative īkārānta -yau,0,,,defined_absence,forms,ABSENT,B,zero,Vedic -ī supplies the dual; token denominator unavailable
+DU-05,RV short śucī,1,,,exact_annotated,tokens,ISOLATED,A,dot,Neuter nominative dual at RV 10.85.12a
+DU-05,RV later-form hariṇī candidate,1,,,exact_annotated,tokens,ISOLATED,A,dot,Neuter accusative dual at RV 9.70.7b; Whitney marks the RV later-form analysis as uncertain
+DU-05,AV -inī,2,,,exact_absolute,tokens,ISOLATED,B,dot,Separate corpus
+DU-06,RV ukārānta -uī,1,,,exact_absolute,tokens,ISOLATED,B,dot,
+DU-07,fuller -anī/-aṇī tokens,12,,,exact_annotated,tokens,DOMINANT,A,dot,Twelve reviewed neuter dual tokens; a complete class denominator remains open
+DU-08,simple -os,1,2,,doubtful_range,tokens,DOUBTFUL,B,no_plot,One or two doubtful
+DU-09,yuvam nominative dual,136,,,exact_raw,tokens,N/A,A,dot,Distinct relation; not a variant denominator
+DU-09,yuvām accusative dual,22,,,exact_raw,tokens,N/A,A,dot,Distinct relation; not a variant denominator
+DU-09,yuvat ablative dual,3,,,exact_raw,tokens,N/A,A,dot,Distinct relation; not a variant denominator
+DU-09,yuvoḥ genitive-locative dual,31,,,exact_raw,tokens,N/A,A,dot,Distinct relation; not a variant denominator
+DU-10,yuvabhyām against yuvābhyām,1,8,12.5,exact_checked,tokens,RECURRING,A,plot,
+DU-11,enoḥ against enayoḥ,4,4,100.0,exact_checked,tokens,DOMINANT,A,plot,Small denominator
+DU-12,relative yos,1,,,exact_source_count,tokens,ISOLATED,B,dot,Raw yoḥ count rejected because of homographs
+PL-01,masculine nominative plural -āsas,1,3,33.3,exact_ratio,tokens,COMMON,B,plot,Class-wide source ratio
+PL-01,devāsaḥ against devāḥ,123,445,27.6,exact_checked,tokens,COMMON,A,plot,Supporting lexeme
+PL-02,feminine -āsas,20,,,approximate_absolute,tokens,RARE,B,dot,
+PL-03,later -yas in RV,1,2,,doubtful_range,tokens,DOUBTFUL,B,no_plot,Vedic -īs supplies the category; comparison examples doubtful
+PL-04,devīḥ as nominative plural,37,,,exact_annotated,tokens,COMMON,A,dot,Checked lexical demonstration of the shared -īḥ form
+PL-04,devīḥ as accusative plural,5,,,exact_annotated,tokens,RECURRING,A,dot,Checked lexical demonstration of the shared -īḥ form
+PL-05,unstrengthened masculine form,4,,,exact_absolute,tokens,RARE,B,dot,One lexeme
+PL-05,unstrengthened feminine forms,2,,,exact_absolute,examples,ISOLATED,B,dot,
+PL-06,accusative -ias and -uas,,,,source_annotation_conflict,,UNKNOWN,D,unknown,Whitney calls the forms sparse; VedaWeb assigns the source-listed visible matches to other relations
+PL-07,neuter plural -ā,3,5,60.0,exact_ratio,tokens,COMMON,B,plot,
+PL-08,short ikārānta neuter plural,50,64,78.1,approximate_counts,tokens,DOMINANT,B,plot,About 50 short forms and about 14 -īni
+PL-09,short ukārānta neuter plural,,,33.3,lower_bound,tokens,COMMON,B,plot,Short form is more than half as frequent as -ūni
+PL-09,short ukārānta lexical breadth,12,,,exact_reported_types,lexemes,COMMON,B,dot,
+PL-10,short -a among two short forms,2,3,66.7,exact_ratio,tokens,UNKNOWN,B,plot,Does not include -āni denominator
+PL-11,RV neuter plural -ānti,2,,,exact_absolute,passages,ISOLATED,B,dot,Padapāṭha does not expose length as searchable token
+PL-12,broad RV suffix -ebhiḥ against -aiḥ,585,1275,45.9,exact_raw_suffix,tokens,COMMON,A,plot,Source independently describes near-even frequency
+PL-12,devebhiḥ against devaiḥ,49,87,56.3,exact_checked,tokens,COMMON,A,plot,Lexical support
+PL-12,rudrebhiḥ against rudraiḥ,12,16,75.0,exact_checked,tokens,DOMINANT,A,plot,Lexical support
+PL-13,yebhiḥ against yaiḥ,28,28,100.0,exact_checked,tokens,DOMINANT,A,plot,Same tokens as PL-21
+PL-14,resolved -ebhiaḥ,,,,unknown,,UNKNOWN,D,unknown,Not infrequent; audible count required
+PL-15,simple genitive plural -ām,6,,,approximate_absolute,tokens,RARE,B,dot,
+PL-15,resolved -ānām,,,50.0,upper_bound,tokens,UNKNOWN,B,plot,Less than half
+PL-16,asme raw spelling,210,,,raw_absolute,tokens,UNKNOWN,C,raw_only,Separate from -bhya
+PL-16,yuṣme raw spelling,6,,,raw_absolute,tokens,UNKNOWN,C,raw_only,Separate from -bhya
+PL-16,loss of final nasal in -bhya,,,,unknown,,UNKNOWN,D,unknown,
+PL-17,asmāka and yuṣmāka against full forms,3,120,2.5,exact_checked,tokens,RARE,A,plot,Components are 1:106 and 2:11
+PL-18,VS feminine yuṣmāḥ,2,,,exact_absolute,tokens,ISOLATED,B,dot,Not an RV absence claim
+PL-19,imā against imāni,63,71,88.7,exact_annotated,tokens,DOMINANT,A,plot,One masculine-dual imā homograph excluded
+PL-20,yā against yāni,50,76,65.8,exact_annotated,tokens,COMMON,A,plot,One hundred nine feminine-singular and masculine-dual yā homographs excluded
+PL-21,yebhiḥ against yaiḥ,28,28,100.0,exact_checked,tokens,DOMINANT,A,duplicate,Duplicate of PL-13 for aggregation
+CL-01,polysyllabic long-vowel group,80,,,lower_bound,lexemes,RECURRING,B,dot,More than 80
+CL-02,secure RV transfer examples,3,,,exact_source_examples,forms,RARE,B,dot,Whitney lists dūtiām; śvaśruām; dravitnuā; plus two or three doubtful cases
+CL-03,as-ending contraction examples,4,,,exact_source_examples,forms,RECURRING,B,dot,Whitney illustrates āśām; vedhām; surādhās; anāgās but supplies no complete denominator
+CL-04,janūs transition,1,,,exact_source_count,tokens,ISOLATED,B,dot,Whitney reports the RV form once
+CL-05,ahan-ahar-ahas,1,,,exact_absolute,paradigm,N/A,A,paradigm,
+CL-06,ūdhan-ūdhar-ūdhas,1,,,exact_absolute,paradigm,N/A,A,paradigm,
+CL-07,akṣan-asthan-dadhan-sakthan,4,,,exact_absolute,lexemes,RARE,B,dot,
+CL-08,panthā-pathi-path,1,,,exact_absolute,paradigm,N/A,A,paradigm,
+CL-09,middle -vat RV forms,3,,,exact_absolute,tokens,RARE,B,dot,Zero in AV
+CL-10,participial dual -ā,6,7,85.7,derived_ratio,tokens,DOMINANT,B,plot,
+CL-10,RV neuter plural -ānti,2,,,exact_absolute,passages,ISOLATED,B,dot,
+NU-01,dvā against dvau,17,21,81.0,exact_checked,tokens,DOMINANT,A,plot,
+NU-02,trī against trīṇi,22,54,40.7,exact_annotated,tokens,COMMON,A,plot,All fifty-four tokens are annotated nominative/accusative neuter plural
+NU-03,trīṇām,1,,,exact_checked,tokens,ISOLATED,A,dot,
+NU-04,aṣṭa numeral,1,6,16.7,exact_annotated,tokens,RECURRING,A,plot,Four verbal homographs excluded
+NU-04,aṣṭā numeral,2,6,33.3,exact_annotated,tokens,COMMON,A,plot,
+NU-04,aṣṭau numeral,3,6,50.0,exact_annotated,tokens,COMMON,A,plot,Most frequent of the three in the six-token annotated field
+NU-05,pañca raw spelling,40,,,raw_absolute,tokens,UNKNOWN,C,raw_only,Syntactic subset not counted
+NU-06,sahasram raw spelling,53,,,raw_absolute,tokens,UNKNOWN,C,raw_only,Syntactic subset not counted
+NU-06,śatam raw spelling,83,,,raw_absolute,tokens,UNKNOWN,C,raw_only,Syntactic subset not counted
+NU-07,cardinal accent pattern,,,,not_applicable,,N/A,U,no_plot,
+AC-01,vocative accent expressions,,,,not_applicable,,N/A,U,no_plot,
+AC-02,declensional accent movement,,,,not_applicable,,N/A,U,no_plot,
+AC-03,resolved -ānām,,,50.0,upper_bound,tokens,UNKNOWN,B,plot,Less than half
+AC-04,checked pragṛhya examples,3,,,exact_absolute,worked_examples,UNKNOWN,A,dot,Demonstrates operation but does not measure field

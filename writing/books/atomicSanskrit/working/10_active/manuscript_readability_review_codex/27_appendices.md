@@ -324,7 +324,7 @@ No silent cuts
 
 ## APP-008 - Reduce and reorganize Appendix 8
 
-**Source:** [Appendix 8 opening and headings](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_08_codification_story.md:1)  
+**Source:** [Appendix 8 opening and headings](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_09_codification_story.md:1)  
 **Action:** STRUCTURE  
 **Status:** APPLIED — 2026-07-23  
 ### Original
@@ -406,7 +406,7 @@ Merge current §§8.1–8.2, 8.5–8.8, 8.9–8.10, 8.11–8.12, and 8.15–8.18
 
 ## APP-009 - Turn Appendix 9 into a working glossary
 
-**Source:** [Appendix 9 opening](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_09_glossary.md:1)  
+**Source:** [Appendix 9 opening](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_10_glossary.md:1)  
 **Action:** STRUCTURE  
 **Status:** REVISED FOR AUTHOR DECISION — 2026-07-23  
 ### Original

@@ -306,11 +306,15 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 
 - 7.1 Corpus Before Manual · 7.2 Three Verses — The Implicit Grammar in Operation · 7.3 The *Dhātu* Inventory in the Corpus · 7.4 The Overreach Called Evolution · 7.5 Meter, Not Loss · 7.6 What Natural Drift Looks Like · 7.7 The Matrix Succeeds
 
-**Appendix Part 8 — The Codification Story, Refuted** *(drafted)* — *Direct response to the claim that Sanskrit drifted until Pāṇini codified it. Separates Vedic-internal variation from Vedic-to-*bhāṣā* difference; exposes the circular method; restores the pre-Pāṇinian decoding lineage; uses Patañjali's* siddhe śabdārthasambandhe *and* apabhraṃśa *as anchors; closes that Pāṇini decoded the language that had learned how not to melt.*
+**Appendix Part 8 — One Architecture, Two Domains** *(drafted)* — *Explains why Sanskrit uses one architecture in two coordinated domains. The vaidika corpus is read-only: exact transmission preserves the calibrant. Laukika Sanskrit is read-write: speakers generate new words and compositions for a changing world. Worked examples compare sounds, accent, upasarga placement, vibhakti forms, verbal forms, compounds, and style before showing how the two domains complement each other against entropy and asuric capture.*
 
-- 8.1–8.18 (eighteen sections), closing on the Verdict.
+- 8.1 One Language, Two Engineering Tasks · 8.2 Shared Architecture, Designed Differences · 8.3 Vedic Variations in Operation · 8.4 *Samāsa*, Composition, and Style · 8.5 How Laukika Keeps Sanskrit Useful · 8.6 How the Veda Calibrates Laukika Sanskrit · 8.7 One Society, Deliberately Separated Responsibilities · 8.8 Two Permissions, One Civilizational Architecture
 
-**Appendix Part 9 — Glossary** *(drafted)* — *Reference for the book's technical vocabulary in three groups: (1) **engineering core vocabulary** (the chemistry stack, with coined compounds flagged); (2) **technical Sanskrit vocabulary**; (3) **diagnostic vocabulary** (the cluster terms). Each entry marks the term as standard, coined, or repurposed.*
+**Appendix Part 9 — The Codification Story, Refuted** *(drafted)* — *Direct response to the claim that Sanskrit drifted until Pāṇini codified it. Separates Vedic-internal variation from Vedic-to-*bhāṣā* difference; exposes the circular method; restores the pre-Pāṇinian decoding lineage; uses Patañjali's* siddhe śabdārthasambandhe *and* apabhraṃśa *as anchors; closes that Pāṇini decoded the language that had learned how not to melt.*
+
+- 9.1 The Inherited Story and Its Two Drift Claims · 9.2 Circular Chronology · 9.3 Three Models · 9.4 Domains, Modes, and Evidence Before Pāṇini · 9.5 What Actual Language Change Looks Like · 9.6 A Calibration Audit · 9.7 Optionality and the Mitanni Evidence · 9.8 Why the Codification Story Persists · 9.9 Comparison and Conclusion
+
+**Appendix Part 10 — Glossary** *(drafted)* — *Reference for the book's technical vocabulary in three groups: (1) **engineering core vocabulary** (the chemistry stack, with coined compounds flagged); (2) **technical Sanskrit vocabulary**; (3) **diagnostic vocabulary** (the cluster terms). Each entry marks the term as standard, coined, or repurposed.*
 
 ---
 

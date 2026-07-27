@@ -44,12 +44,12 @@ Keep Ch2 as the place where the book states that botany is not inherently false.
 Primary locations:
 
 - `as_1_06_apabhramsa.md` §6.4, “Drift, Codification, Calibration”
-- `as_3_08_codification_story.md` §8.4, “Drift, Codification, Calibration”
+- `as_3_09_codification_story.md` §9.4, “Domains, Modes, and Evidence Before Pāṇini”
 - `as_2_01_epilogue.md`, “Perhaps āryatva can reach even the church of progress”
 
 Current role:
 
-Ch6 and Appendix Part 8 contrast codified correction with engineered self-correction. The epilogue already identifies Hebrew, Quranic Arabic, ecclesiastical Latin, Greek, Tibetan, and other learned languages as languages the pyramid places under codification.
+Ch6 and Appendix Part 9 contrast codified correction with engineered self-correction. The epilogue already identifies Hebrew, Quranic Arabic, ecclesiastical Latin, Greek, Tibetan, and other learned languages as languages the pyramid places under codification.
 
 Clarification needed:
 
