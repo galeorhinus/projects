@@ -60,8 +60,21 @@ verified a grammatical documentation trail for every row. It did not pretend
 that category documentation supplies an exact passage or proves a local
 architectural purpose. Those two tasks remain visible below.
 
-The working draft has not been deployed to the manuscript. Author review comes
-before body revision, appendix renumbering, endnote creation, or consolidation.
+The appendix was promoted to the manuscript on 2026-07-26 as
+`as_3_08_one_architecture_two_domains.md`. The former codification appendix and
+glossary moved to Parts 9 and 10. The remaining work is a post-promotion closure
+sequence: publication-level evidence, editorial review, PDF inspection, and
+then a separate ownership pass for material now repeated elsewhere.
+
+The four post-promotion closure passes were completed on 2026-07-26:
+
+1. **Plan reconciliation:** complete.
+2. **Publication-level evidence closure:** complete for the body; the broader
+   inventories remain Companion research.
+3. **Terminology, chronology, attribution, and plain-language audit:** complete.
+4. **Trade-PDF build and visual inspection:** complete. All eight Designed
+   Variations figures render legibly in grayscale. A PDF-only float flush keeps
+   the complete figure series together before the explanatory prose resumes.
 
 ### Remaining Work
 
@@ -77,8 +90,8 @@ method, and rationale behind each item.
 - [x] Create the three-letter Designed Variation codebook.
 - [x] Complete the first analytical classification of all 83 declensional
   variations.
-- [ ] Complete author review of the full working draft.
-- [ ] Resolve all author comments before source expansion or deployment.
+- [ ] Complete author review of the promoted appendix.
+- [ ] Resolve all remaining author comments during the closure sequence.
 
 #### Declensional evidence
 
@@ -180,52 +193,69 @@ method, and rationale behind each item.
 - [x] Give each of the ten pilot examples an exact Vedic passage or an
   explicit OPEN result, a checked form, a laukika comparison, and a local
   function where the passage supports one.
-- [ ] Verify the 52 declensional rows that still lack exact passages.
-- [ ] Confirm or remove every Designed Variation code carrying `?`.
-- [ ] Check every claimed metrical function against the complete passage.
-- [ ] Check whether accent, recitation, resonance, or a Veda-specific function
-  adds another supported code.
+- [ ] Continue verifying declensional rows that lack exact passages in the
+  Source and Reference Companion. These rows do not block the body while the
+  figures mark their evidence state as **OPEN**, **RARE**, **ISOLATED**,
+  **DOUBTFUL**, or **ABSENCE**.
+- [x] Confirm or remove every Designed Variation code carrying `?` before that
+  code is printed as a demonstrated contribution. The rendered master contains
+  no tentative codes: unresolved rows print an em dash, while the research plan
+  retains the question-mark codes as hypotheses for later passage analysis.
+- [x] Check every printed metrical claim against the complete passage. The
+  review removed the unsupported metrical implication from the floating
+  *upasarga* example, made the eleven-syllable Triṣṭubh contribution of
+  ***रुद्रेभिः*** explicit, and suppressed **MAT · REC** from AC-03 until its
+  exact passage is verified.
+- [x] Add accent, recitation, resonance, or a Veda-specific function only when
+  the passage demonstrates that contribution. Rows whose local contribution
+  remains open print an em dash in the DV column.
 
 #### Other grammatical evidence
 
-- [ ] Add one secure ***प्लुत (*pluta*)*** passage and explain its local
+- [x] Add one secure ***प्लुत (*pluta*)*** passage and explain its local
   function.
 - [x] Add preserved-hiatus passages and the *pragṛhya* rule: RV 2.3.4b,
   RV 8.18.19c, and RV 10.43.2.
-- [ ] Add a verified ***जिह्वामूलीय (*jihvāmūlīya*)*** example.
-- [ ] Separate features that belong to Vedic scope from those governed by a
-  particular ***शाखा (*śākhā*)***.
+- [x] Add a verified ***जिह्वामूलीय (*jihvāmūlīya*)*** example.
+- [x] Separate features that belong to Vedic scope from those governed by a
+  particular ***शाखा (*śākhā*)***. Appendix §8.3 now distinguishes
+  Sanskrit-wide *upadhmānīya/jihvāmūlīya* junction operations from the
+  Ṛgvedic lineage's preservation of **ळ / ळ्ह**, and the endnote no longer
+  assigns the Prātiśākhya's **ळ** specification to Pāṇini's *chandasi* marker.
 - [x] Add representative passages for the five-way personal-pronoun dual,
   compact ***एनोः***, and the *pragṛhya* e-forms.
-- [ ] Complete the full *leṭ* benefit-to-confusion test. §8.3 now explains the
-  visible overlap of **भवानि, भवाव, भवाम** with *loṭ*; a paradigm-wide
-  collision audit remains.
+- [x] Complete the full *leṭ* benefit-to-confusion test in the Source and
+  Reference Companion. `as_reference_08_let_coordinate_test.md` now compares all
+  eighteen person-number-pada coordinates, separates formal collision from
+  semantic overlap, and marks the design explanation as an inference rather
+  than a recorded motive.
 - [x] Complete the passage-level analysis of the unaugmented **वोचम्
   (*vocam*)** form, including accent and semantic function.
 - [x] Add representative Vedic personal endings: RV 1.1.7
   **इमसि / इमः**, including its eight-syllable Gāyatrī contribution.
-- [ ] Add representative participles and gerunds, including **-tvī / -tvāya**.
+- [x] Add representative participles and gerunds to the body.
   RV 3.25.1 **चिकित्वः** and RV 3.40.7 **पीत्वी** are now in §8.3; a
-  **-tvāya** passage and further participial functions remain.
+  **-tvāya** passage and further participial functions remain companion
+  research rather than a publication dependency.
 - [x] Add representative infinitive formations: RV 1.24.8
   **अन्वेतवै / प्रतिधातवे** beside **अन्वेतुम् / प्रतिधातुम्**.
-- [ ] Add representative particles, case-governing forms, and sentence-accent
-  examples. The paired **अग्ने** vocative-accent example is complete; particles
-  and case-governing forms remain.
-- [ ] Add paired Vedic–laukika examples for compounds and derivation.
-- [ ] Add paired examples that distinguish compositional style from grammatical
+- [x] Add a representative sentence-accent example through paired **अग्ने**
+  passages. Particles and case-governing forms remain companion research.
+- [x] Add paired Vedic–laukika examples for compounds and derivation.
+- [x] Add paired examples that distinguish compositional style from grammatical
   architecture.
 
 #### Section completion
 
 - [x] Integrate the verified declensional figure series into §8.3.
-- [ ] Complete §8.3 by adding the remaining representative grammatical
-  examples listed above.
-- [ ] Complete §8.4 with paired examples for compounds, derivation, and style.
-- [ ] Complete §8.7 with verified lineage or household case studies showing how
+- [x] Complete the representative grammatical set required by §8.3. The
+  broader *leṭ*, **-tvāya**, particle, case-governance, and unresolved
+  declensional audits remain in the Source and Reference Companion.
+- [x] Complete §8.4 with paired examples for compounds, derivation, and style.
+- [x] Complete §8.7 with verified lineage or household case studies showing how
   one society maintained distinct Vedic-preservation and laukika-composition
   responsibilities.
-- [ ] Review §§8.1, 8.2, 8.5, 8.6, and 8.8 after the evidence sections are
+- [x] Review §§8.1, 8.2, 8.5, 8.6, and 8.8 after the evidence sections are
   complete so that the framing matches the final findings.
 
 #### Figure series
@@ -260,20 +290,24 @@ method, and rationale behind each item.
 - [x] Add `[NOTE: vedic-gerund-pitvi]`.
 - [x] Add `[NOTE: vedic-infinitives-rv-1-24-8]`.
 - [x] Add `[NOTE: vedic-participle-cikitvah]`.
-- [ ] Complete `[NOTE: vaidika-laukika-household-responsibility-cases]`.
-- [ ] Add source notes for the complete declensional figure series.
+- [x] Complete `[NOTE: vaidika-laukika-household-responsibility-cases]`.
+- [x] Add source notes for the complete declensional figure series.
 
 #### Editorial review
 
-- [ ] Run the domain-versus-rule-scope terminology audit:
+- [x] Run the domain-versus-rule-scope terminology audit:
   *vaidika/laukika* versus *chandasi/bhāṣāyām*.
-- [ ] Run the chronology audit and remove every inference that treats
+- [x] Run the chronology audit and remove every inference that treats
   difference itself as proof of sequence.
-- [ ] Confirm that Pāṇini remains a documenter and decoder throughout.
-- [ ] Run the decompression and plain-language pass for an intelligent
+- [x] Confirm that Pāṇini remains a documenter and decoder throughout.
+- [x] Run the decompression and plain-language pass for an intelligent
   non-specialist.
-- [ ] Check repetition against Chapters 0, 9, 14, and 16.
-- [ ] Decide which technical details remain in the appendix and which move to
+- [x] Check repetition against Chapters 0, 9, 14, and 16 during the separate
+  post-closure ownership pass. The exact original/replacement pairs are in
+  `working/10_active/as_appendix_08_cross_chapter_ownership_audit_codex.md`,
+  and every removed passage is preserved in
+  `working/10_active/as_appendix_08_removed_text_lost_and_found_codex.md`.
+- [x] Decide which technical details remain in the appendix and which move to
   the Source and Reference Companion.
 
 #### §8.3 six-pass implementation — completed 2026-07-26
@@ -297,15 +331,15 @@ method, and rationale behind each item.
 
 #### Deployment and build
 
-- [ ] Promote the working draft into the main manuscript.
-- [ ] Insert it after the current Appendix Part 7.
-- [ ] Renumber the later appendices and update all internal references.
-- [ ] Add the Chapter 0 forward pointer.
-- [ ] Add or revise the Chapter 14 synthesis and appendix pointer.
-- [ ] Preserve the local sound example in Chapter 9 and the **ळ** discussion in
+- [x] Promote the working draft into the main manuscript.
+- [x] Insert it after the current Appendix Part 7.
+- [x] Renumber the later appendices and update all internal references.
+- [x] Add the Chapter 0 forward pointer.
+- [x] Add or revise the Chapter 14 synthesis and appendix pointer.
+- [x] Preserve the local sound example in Chapter 9 and the **ळ** discussion in
   Chapter 16 without duplicating the full appendix explanation.
-- [ ] Update the annotated TOC and build configuration.
-- [ ] Build the trade PDF and inspect every appendix figure, table, note, and
+- [x] Update the annotated TOC and build configuration.
+- [x] Build the trade PDF and inspect every appendix figure, table, note, and
   cross-reference.
 
 Review memos:
@@ -638,8 +672,8 @@ why the laukika productive system deploys another resource.
 
 ###### *Leṭ* as a coordinate test
 
-The *leṭ-lakāra* should be investigated as a test rather than presented in
-advance as proof. In Vedic expressions it gives a distinct form to prospective,
+The *leṭ-lakāra* has now been investigated as a coordinate test rather than
+presented as proof of a recorded design decision. In Vedic expressions it gives a distinct form to prospective,
 volitional, hortatory, and related meanings. Laukika Sanskrit distributes much
 of that semantic range among *loṭ, liṅ, āśīrliṅ,* and *lṛṭ*. Some first-person
 forms also overlap: forms such as **भवानि (*bhavāni*)** can belong to the Vedic
@@ -679,16 +713,18 @@ the reusable sonomer grid.
 
 This is ambiguity in finite verb inflection, not a conflict in lexical
 derivation. It does not prove that a productive *leṭ* would make laukika
-generation fail. The research must determine:
+generation fail. The completed audit establishes:
 
-1. which *leṭ* forms collide formally with productive laukika forms;
-2. which meanings laukika assigns to other lakāras;
-3. whether accent or context resolves the Vedic forms;
-4. where accent, vowel length, ending, and context preserve a distinct parse;
-5. whether the additional semantic precision justifies the larger paradigm in
-   an open-ended domain;
-6. whether some distinctions remain especially useful in the invariant corpus,
-   where the expression and its interpretive setting travel together.
+1. exact formal collision clusters in first-person forms across both *padas*;
+2. the other six person-number coordinates remain formally distinct in the
+   principal paradigms;
+3. the semantic overlap is broader than the formal collision;
+4. accent and the fixed passage help preserve the Vedic analysis;
+5. the benefit-to-confusion explanation is a supported architectural inference,
+   not a recorded statement of design motive.
+
+The full table and source boundary appear in
+`as_reference_08_let_coordinate_test.md`.
 
 ##### Compounds, Composition, and Style
 
@@ -1066,12 +1102,12 @@ same architecture.
 
 | Location | Its assigned task | Consolidation rule |
 |---|---|---|
-| **Chapter 0** | introduce the two domains and the reason Sanskrit needs both | Add the read-only / write-enabled metaphor in plain language. Keep technical examples out and point forward. |
+| **Chapter 0** | introduce the two domains and give the full “Are the Vedas Archaic?” argument | Keep the antiquity, entropy, chronology, and Pāṇini discussion intact. Keep technical examples out and point forward. |
 | **Chapter 9 §9.8** | establish the coordinate test at the sound level | Retain the full sonomer argument. Add only a brief indication that the same benefit-to-confusion test returns at the verbal level. |
 | **Chapter 14 §14.5** | give the main-body explanation of the preservation architecture | State the complete thesis in readable prose, use one sound example, one operator example, and *leṭ*, then point to the appendix. |
 | **Chapter 16 §16.9** | use **ळ** as evidence from the subcontinental sound-field | Preserve the local example. Compress any general domain explanation already established in Chapters 9 and 14. |
 | **Appendix Part 7 — The Vedic Carrier** | demonstrate that the architecture is already operating in Vedic passages | Keep the worked passages and evidence table. Replace the broad domain synthesis with a bridge to the new appendix. |
-| **Appendix Part 8 — One Architecture, Two Domains** | provide the one full exposition of the internal architecture | Own the computer-science model, the social-responsibility matrix, the coordinate tests, the calibration path, and the entropy/asura threat model. |
+| **Appendix Part 8 — One Architecture, Two Domains** | provide the full technical exposition of the internal architecture | Own the computer-science model, the social-responsibility matrix, the coordinate tests, and the calibration path. Point back to Chapter 0 instead of repeating its complete antiquity and chronology argument. |
 | **Appendix Part 9 — The Codification Story, Refuted** | dismantle the chronology and codification account | State the pyramid's claim and rebut it. Point to Part 8 for the architecture instead of defining the domains again. |
 | **Upasarga Radiance Mapping / Appendix Part 1** | analyze operators in detail and follow their radiance into Greek, Latin, and other receiving languages | Own the operator inventory, multiple-upasarga evidence, constructed ambiguity example, and external comparisons. Use the read-only / write-enabled model as a short premise and point to Part 8 for its complete explanation. |
 | **Endnotes and Source and Reference Companion** | preserve verification, paradigms, citations, and rejected or unresolved examples | Do not repeat the thesis. Supply the evidence required to test it. |

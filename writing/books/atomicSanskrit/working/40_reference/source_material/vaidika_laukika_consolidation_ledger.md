@@ -581,3 +581,23 @@ The existing material already supports a clean division:
 
 No manuscript passage has yet been approved for shortening, movement, merger, or
 removal.
+
+## Deployment Update — 2026-07-26
+
+The post-promotion ownership pass is complete. The exact deployed
+original/replacement pairs are recorded in:
+
+`working/10_active/as_appendix_08_cross_chapter_ownership_audit_codex.md`
+
+Every removed or replaced passage is preserved verbatim in:
+
+`working/10_active/as_appendix_08_removed_text_lost_and_found_codex.md`
+
+The pass initially shortened repeated exposition in Chapter 0 §0.5. That
+decision was reversed: Chapter 0 now retains the complete “Are the Vedas
+Archaic?” argument, and Appendix Part 8 §8.1 carries the shorter chronology
+bridge. The pass also shortened Chapter 14 §14.5 and Appendix Part 7 §7.5. It
+retained the full coordinate evidence in Chapter 9 §9.8 and the full portability
+evidence in Chapter 16 §16.9. It also removed the contradictory phrase “not
+composed in time” from Chapters 2 and 16 while preserving the original wording
+in Lost and Found.

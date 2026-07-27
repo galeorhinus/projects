@@ -264,6 +264,8 @@ By preserving Ṛgvedic **ळ** and *upadhmānīya* under the conditions that pr
 
 The pyramid recasts this division of work as linguistic drift from *"Vedic"* to *"Classical."* The sound architecture shows *vaidika* and *laukika* operating concurrently as two engineering domains.
 
+Appendix Part 8 follows the same division through case forms, verbal forms, *upasarga* placement, pitch, meter, and composition.
+
 This is engineering by exclusion.
 
 ## 9.9 Engineered Margin

@@ -28,8 +28,8 @@ Status terms:
 | VL-E05 | Additional prose operators | Jaiminīya-Brāhmaṇa 1.149.7 **आ … विशति**; Aitareya-Brāhmaṇa 2.24.13 **उप … गच्छति**; Jaiminīya-Brāhmaṇa 1.122.11 **अव … रुन्धे** | These would broaden the prose sample if exact passages and numbering survive direct checking. | Open | Evidence table or companion only after verification |
 | VL-E06 | Pāṇinian scope labels | Pāṇini 3.2.105 ***chandasi liṭ*** and 3.2.108 ***bhāṣāyāṃ sadavasruvaḥ*** | *Chandasi* and *bhāṣāyām* occur as operational scope labels within one analytical text. | Verified | §8.1 or §8.9 |
 | VL-E07 | Leṭ scope | Pāṇini 3.4.6 ***chandasi luṅlaṅliṭaḥ***; 3.4.7 ***liṅarthe leṭ***; 3.4.8 ***upasaṃvādāśaṅkayoś ca*** | Pāṇini assigns *leṭ* under *chandasi* and relates it to meanings otherwise served by *liṅ*, with additional stated uses. | Verified | §8.9 |
-| VL-E08 | Leṭ endings | Pāṇini 3.4.94-100 documents *leṭ* endings and their operations. | *Leṭ* is an analyzed Vedic verbal resource rather than a loose residue. | Verified | Technical note |
-| VL-E09 | Leṭ / loṭ formal overlap | Vedic *leṭ* and laukika first-person *loṭ* can both yield **भवानि, भवाव, भवाम** from the atom **⟪भू⟫ (*bhū*)**. | The proposed productive-ambiguity test has a real formal basis. The argument still needs passage-level testing of accent, meaning, and recoverability before claiming that ambiguity caused the laukika distribution. | Partial | Present as a research test, not a conclusion |
+| VL-E08 | Leṭ endings | Pāṇini 3.4.94-98 documents the dedicated *leṭ* ending operations. Rules 3.4.99-100 begin the following *ṅit* operation. | *Leṭ* is an analyzed Vedic verbal resource rather than a loose residue. | Verified | Technical note |
+| VL-E09 | Leṭ / loṭ formal overlap | Vedic *leṭ* and laukika first-person *loṭ* share forms across both *padas*, including **भवानि, भवाव, भवाम** in *parasmaipada*. | Exact collision clusters in the first person; semantic overlap is broader. The benefit-to-confusion explanation is supported as an architectural inference, not proved as a recorded design motive. | Verified form comparison; interpretive inference | Appendix §8.3 and Reference Appendix 8 |
 | VL-E10 | Ṛgvedic lateral | Ṛgveda 1.1.1 preserves **ईळे** in the Śākala recitational form; Ṛgveda-Prātiśākhya 1.11-12 documents intervocalic **ड → ळ** and corresponding **ढ → ळ्ह**. | A required Vedic realization can remain exact without becoming an independent productive sonomer. | Strong | §8.7; cite Chapter 9/App 7 for full evidence |
 | VL-E11 | Contextual labial breath | Ṛgveda 1.1.2 **अग्निः पूर्वेभिर्**, rendered in the relevant recitational environment as **अग्निᳶ पूर्वेभिर्**; Pāṇini 8.3.37 and the Taittirīya-Prātiśākhya document *upadhmānīya*. | Sanskrit knows the [ɸ]-like articulation and gives it a governed boundary function instead of an independent sonomer coordinate. | Strong | §8.7; brief example only |
 | VL-E12 | Extended sound inventory | Taittirīya-Prātiśākhya 1.18 and 14.15 distinguish *visarjanīya, jihvāmūlīya,* and *upadhmānīya*. | The phonetic disciplines distinguish contextual sounds beyond the ordinary independent consonant grid. | Verified | Technical note |
@@ -73,7 +73,7 @@ The Sanskrit Library text of the *Aṣṭādhyāyī* confirms:
 - 3.4.6 ***chandasi luṅlaṅliṭaḥ***
 - 3.4.7 ***liṅarthe leṭ***
 - 3.4.8 ***upasaṃvādāśaṅkayoś ca***
-- 3.4.94-100, the relevant *leṭ* ending operations
+- 3.4.94-98, the dedicated *leṭ* ending operations
 
 Source: [Sanskrit Library, Pāṇini grammatical data](https://sanskritlibrary.org/grammatical/data/panini.html)
 
@@ -93,17 +93,18 @@ endnote.
 
 ### Productive leṭ
 
-The formal overlap between first-person *leṭ* and *loṭ* is real. The stronger
-claim remains open: Sanskrit's engineers may have kept *leṭ* from unrestricted
-laukika generation because its added semantic benefit did not justify the
-larger ambiguity surface. Before this enters body prose as a conclusion, the
-research must compare:
+The complete coordinate test now appears in
+`as_reference_08_let_coordinate_test.md`. Exact formal collisions cluster in
+the first person across both *padas*. The other six person-number coordinates
+remain formally distinct in the principal paradigms, although *leṭ* preserves
+additional variants. Semantic overlap is broader because Pāṇini's
+**लिङर्थे लेट् (*liṅarthe leṭ*)** assigns *leṭ* where *liṅ* meanings apply, and
+the productive domain also uses *loṭ, āśīrliṅ,* and *lṛṭ* across adjoining
+territory.
 
-1. complete *leṭ* and *loṭ* paradigms;
-2. Vedic accents;
-3. actual Vedic passages;
-4. laukika means of expressing the same semantic range;
-5. forms whose analyses remain distinct despite surface similarity.
+The architectural explanation remains an inference. The form table, accent,
+passage, and productive alternatives support the benefit-to-confusion test,
+but no surviving source records that design motive.
 
 ### Social division of responsibility
 
@@ -129,12 +130,13 @@ forms are examined. Each example must establish its local operation.
    Sanskrit.
 6. One pair showing the same case relation across distinct styles.
 7. Two historical household or lineage studies for §8.6.
-8. A complete *leṭ/loṭ* collision table with accent and meaning.
+8. ~~A complete *leṭ/loṭ* collision table with accent and meaning.~~ Completed
+   in `as_reference_08_let_coordinate_test.md`.
 
 ## Pass 3 Result
 
-The sound and operator examples are ready for a working appendix. The broad
-shared-architecture claim is secure enough for explanatory prose. *Leṭ* can
-appear only as an explicitly unresolved coordinate test, while the social
-responsibility matrix must remain a research program rather than a historical
-generalization.
+The sound and operator examples are ready for the appendix. The broad
+shared-architecture claim is secure enough for explanatory prose. The *leṭ*
+coordinate test now has a complete form comparison and can be presented as a
+supported architectural inference. The social responsibility matrix must
+remain a research program rather than a historical generalization.

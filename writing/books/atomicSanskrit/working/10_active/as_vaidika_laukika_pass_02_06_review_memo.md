@@ -46,7 +46,7 @@ Ready for working prose:
 - Pāṇini 1.4.59 and 1.4.80-82 on *upasarga* function and Vedic placement;
 - separated *upasargas* in Aitareya-Brāhmaṇa prose;
 - Pāṇini's use of *chandasi* and *bhāṣāyām* scope markers;
-- Pāṇini 3.4.6-8 and 3.4.94-100 on *leṭ*;
+- Pāṇini 3.4.6-8 and 3.4.94-98 on *leṭ*;
 - Ṛgvedic **ळ** and the Ṛgveda-Prātiśākhya operation;
 - *upadhmānīya* as a governed contextual articulation;
 - Vedic pitch accent;

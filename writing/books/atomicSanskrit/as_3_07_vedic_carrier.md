@@ -151,9 +151,7 @@ The eight features do different work. Multiple infinitives and pronoun alternate
 
 The dogma calls this loss. The architecture calls it role.
 
-*Vaidika* and *laukika* Sanskrit are one Sanskrit operating across two domains, through two modes: *chandas* for the metrical corpus and *bhāṣā* for productive speech and learning. Pāṇini documents both modes, while the Vedic phonetic disciplines specify the additional conditions required by exact recitation.
-
-Natural drift changes the language through repeated use. Laukika Sanskrit presents another arrangement: speakers compose new content, communities select what they preserve, and some works are lost, while the calibrated language remains available. Chapter 0 calls this **curated transmission**.
+Appendix Part 8 explains why one Sanskrit architecture preserves these governed Vedic roles while keeping laukika Sanskrit productive. The next section stays with the evidence and compares this bounded variation with the cascading changes of natural drift.
 
 ## 7.6 What Natural Drift Looks Like
 

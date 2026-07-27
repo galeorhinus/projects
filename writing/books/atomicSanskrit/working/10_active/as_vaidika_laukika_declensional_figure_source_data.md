@@ -143,7 +143,7 @@ codes, but the publication figure must not print them yet.
 |---|---|---|---|---|
 | AC-01 | FORM · OPEN | N/A | — | Add a paired vocative-accent passage before assigning a code. |
 | AC-02 | FORM · OPEN | N/A | — | Select two accent-movement classes before assigning a code. |
-| AC-03 | FORM · FUNCTION · PASSAGE OPEN | — | MAT · REC | Present as audible resolution, not as another written ending. |
+| AC-03 | FORM · FUNCTION · PASSAGE OPEN | — | — | Present as audible resolution, not as another written ending; print no DV code until an exact scanned passage is verified. |
 | AC-04 | FORM · PASSAGE · FUNCTION | — | REC · REL | Use ***वेदी अस्याम्, युष्मे इत्,*** and ***त्वे इत्***. |
 
 ## Evidence Progress

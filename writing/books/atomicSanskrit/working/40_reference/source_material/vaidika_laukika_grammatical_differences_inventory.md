@@ -124,7 +124,7 @@ contributes.
 
 Ready or partially ready:
 
-- Pāṇini 3.4.6-8 and 3.4.94-100 document *leṭ* under Vedic scope;
+- Pāṇini 3.4.6-8 and 3.4.94-98 document *leṭ* under Vedic scope;
 - the visible **भवानि, भवाव, भवाम** overlap with laukika *loṭ* supports
   a benefit-to-confusion test without yet proving the reason for the
   distribution;
