@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- lineage: py
      canonical-source: designed_variations_bahuvacanam_01.from-py.svg
-     updated: 2026-07-26 -->
+     updated: 2026-07-27 -->
 <svg xmlns="http://www.w3.org/2000/svg" width="4.75in" height="5.106in" viewBox="0 0 1200 1290">
 <rect width="1200" height="1290" fill="#f7f4ed"/>
 <text x="28.0" y="54.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="42" font-weight="600" font-style="normal" fill="#29251f" text-anchor="start">Designed Variations: Bahuvacanam</text>
@@ -12,127 +12,128 @@
 <text x="462.0" y="161.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">Relation</text>
 <text x="704.0" y="161.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">Qualification</text>
 <text x="946.0" y="161.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">DV</text>
-<text x="1102.0" y="161.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">Evidence</text>
-<text x="122.0" y="196.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">Vaidika → laukika</text>
+<text x="1180.0" y="161.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">Evidence</text>
+<text x="122.0" y="196.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">Vaidika range · laukika productive form</text>
 <text x="800.0" y="196.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">Prevalence</text>
 <line x1="28" y1="208" x2="1172" y2="208" stroke="#cfc6b5" stroke-width="1"/>
 <text x="28.0" y="240.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">PL-01</text>
 <text x="122.0" y="240.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">अकारान्त</text>
 <text x="462.0" y="240.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">प्रथमा</text>
-<text x="122.0" y="279.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -āsas · -ās · देव…  →  L: -āḥ</text>
+<text x="122.0" y="279.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -āsas · -ās · देव…  ·  L: -āḥ</text>
 <text x="946.0" y="240.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">MAT·ARR</text>
 <rect x="800" y="267" width="54" height="9" rx="4.5" fill="#e8dfcc"/>
 <rect x="800" y="267" width="18.0" height="9" rx="4.5" fill="#9d7c36"/>
 <text x="864.0" y="279.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">33.3% 1/3 tok · B</text>
 <text x="1064.0" y="279.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">+1</text>
-<text x="1102.0" y="240.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">P + FN</text>
+<text x="1180.0" y="240.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">P + FN</text>
 <rect x="28" y="298" width="1144" height="90" fill="#f0ece3"/>
 <line x1="28" y1="298" x2="1172" y2="298" stroke="#cfc6b5" stroke-width="1"/>
 <text x="28.0" y="330.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">PL-02</text>
 <text x="122.0" y="330.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">आकारान्त</text>
 <text x="704.0" y="330.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">RARE</text>
 <text x="462.0" y="330.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">प्रथमा</text>
-<text x="122.0" y="369.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -āsas · -ās  →  L: -āḥ</text>
+<text x="122.0" y="369.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -āsas · -ās  ·  L: -āḥ</text>
 <text x="946.0" y="330.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">MAT·ARR</text>
 <circle cx="808" cy="361" r="7" fill="#9d7c36" stroke="#9d7c36" stroke-width="2"/>
 <text x="824.0" y="369.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">≈20 tok · B</text>
-<text x="1102.0" y="330.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">P + FN</text>
+<text x="1180.0" y="330.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">P + FN</text>
 <line x1="28" y1="388" x2="1172" y2="388" stroke="#cfc6b5" stroke-width="1"/>
 <text x="28.0" y="420.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">PL-03</text>
 <text x="122.0" y="420.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">derivative ईकारान्त</text>
+<text x="704.0" y="420.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">ABSENCE in check…</text>
 <text x="462.0" y="420.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">प्रथमा</text>
-<text x="122.0" y="459.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -īs · देवीः (devī…  →  L: -yas · देव्यः (de…</text>
+<text x="122.0" y="459.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -īs · देवीः (devī…  ·  L: -yas · देव्यः (de…</text>
 <text x="946.0" y="420.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="start">—</text>
 <rect x="800" y="444" width="22" height="15" fill="none" stroke="#8b8377" stroke-width="2" stroke-dasharray="4 3"/>
 <text x="830.0" y="459.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">1 tok · B</text>
-<text x="1102.0" y="420.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">P · OPEN</text>
+<text x="1180.0" y="420.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">P · OPEN</text>
 <rect x="28" y="478" width="1144" height="90" fill="#f0ece3"/>
 <line x1="28" y1="478" x2="1172" y2="478" stroke="#cfc6b5" stroke-width="1"/>
 <text x="28.0" y="510.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">PL-04</text>
 <text x="122.0" y="510.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">derivative ईकारान्त</text>
 <text x="704.0" y="510.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">N/A · absolute c…</text>
 <text x="462.0" y="510.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">द्वितीया</text>
-<text x="122.0" y="549.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -īs · -yas  →  L: -yaḥ · -īḥ</text>
+<text x="122.0" y="549.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -īs · -yas  ·  L: -yaḥ · -īḥ</text>
 <text x="946.0" y="510.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="start">—</text>
 <circle cx="808" cy="541" r="7" fill="#9d7c36" stroke="#9d7c36" stroke-width="2"/>
 <text x="824.0" y="549.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">37 tok · A</text>
 <text x="1064.0" y="549.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">+1</text>
-<text x="1102.0" y="510.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
+<text x="1180.0" y="510.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
 <line x1="28" y1="568" x2="1172" y2="568" stroke="#cfc6b5" stroke-width="1"/>
 <text x="28.0" y="600.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">PL-05</text>
 <text x="122.0" y="600.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">इकारान्त / उकारान्त</text>
 <text x="704.0" y="600.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">RARE</text>
 <text x="462.0" y="600.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">प्रथमा</text>
-<text x="122.0" y="639.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -ias / -uas · इका…  →  L: -ayaḥ / -avaḥ</text>
+<text x="122.0" y="639.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -ias / -uas · इका…  ·  L: -ayaḥ / -avaḥ</text>
 <text x="946.0" y="600.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="start">—</text>
 <circle cx="808" cy="631" r="7" fill="#9d7c36" stroke="#9d7c36" stroke-width="2"/>
 <text x="824.0" y="639.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">4 tok · B</text>
 <text x="1064.0" y="639.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">+1</text>
-<text x="1102.0" y="600.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
+<text x="1180.0" y="600.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
 <rect x="28" y="658" width="1144" height="90" fill="#f0ece3"/>
 <line x1="28" y1="658" x2="1172" y2="658" stroke="#cfc6b5" stroke-width="1"/>
 <text x="28.0" y="690.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">PL-06</text>
 <text x="122.0" y="690.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">इकारान्त / उकारान्त</text>
 <text x="704.0" y="690.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">UNKNOWN</text>
 <text x="462.0" y="690.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">द्वितीया</text>
-<text x="122.0" y="729.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -ias / -uas  →  L: -īn / -ūn · -īḥ…</text>
+<text x="122.0" y="729.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -ias / -uas  ·  L: -īn / -ūn · -īḥ…</text>
 <text x="946.0" y="690.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="start">—</text>
 <rect x="800" y="714" width="22" height="15" fill="none" stroke="#8b8377" stroke-width="2" stroke-dasharray="4 3"/>
 <text x="830.0" y="729.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#8b8377" text-anchor="start">open · D</text>
-<text x="1102.0" y="690.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
+<text x="1180.0" y="690.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
 <line x1="28" y1="748" x2="1172" y2="748" stroke="#cfc6b5" stroke-width="1"/>
 <text x="28.0" y="780.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">PL-07</text>
 <text x="122.0" y="780.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">अकारान्त</text>
 <text x="462.0" y="780.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">प्रथमा–द्वितीया–संबोधन</text>
-<text x="122.0" y="819.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -ā · -āni · विश्व…  →  L: -āni</text>
+<text x="122.0" y="819.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -ā · -āni · विश्व…  ·  L: -āni</text>
 <text x="946.0" y="780.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">MAT·ARR</text>
 <rect x="800" y="807" width="54" height="9" rx="4.5" fill="#e8dfcc"/>
 <rect x="800" y="807" width="32.4" height="9" rx="4.5" fill="#9d7c36"/>
 <text x="864.0" y="819.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">60.0% 3/5 tok · B</text>
-<text x="1102.0" y="780.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">P + FN</text>
+<text x="1180.0" y="780.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">P + FN</text>
 <rect x="28" y="838" width="1144" height="90" fill="#f0ece3"/>
 <line x1="28" y1="838" x2="1172" y2="838" stroke="#cfc6b5" stroke-width="1"/>
 <text x="28.0" y="870.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">PL-08</text>
 <text x="122.0" y="870.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">इकारान्त</text>
 <text x="462.0" y="870.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">प्रथमा–द्वितीया–संबोधन</text>
-<text x="122.0" y="909.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -ī / -i · -īni  →  L: -īni</text>
+<text x="122.0" y="909.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -ī / -i · -īni  ·  L: -īni</text>
 <text x="946.0" y="870.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="start">—</text>
 <rect x="800" y="897" width="54" height="9" rx="4.5" fill="#e8dfcc"/>
 <rect x="800" y="897" width="42.2" height="9" rx="4.5" fill="none" stroke="#9d7c36" stroke-width="2"/>
 <text x="864.0" y="909.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">≈78.1% 50/64 tok · B</text>
-<text x="1102.0" y="870.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
+<text x="1180.0" y="870.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
 <line x1="28" y1="928" x2="1172" y2="928" stroke="#cfc6b5" stroke-width="1"/>
 <text x="28.0" y="960.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">PL-09</text>
 <text x="122.0" y="960.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">उकारान्त</text>
 <text x="462.0" y="960.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">प्रथमा–द्वितीया–संबोधन</text>
-<text x="122.0" y="999.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -ū / -u · -ūni  →  L: -ūni</text>
+<text x="122.0" y="999.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -ū / -u · -ūni  ·  L: -ūni</text>
 <text x="946.0" y="960.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="start">—</text>
 <rect x="800" y="987" width="54" height="9" rx="4.5" fill="#e8dfcc"/>
 <rect x="800" y="987" width="18.0" height="9" rx="4.5" fill="none" stroke="#9d7c36" stroke-width="2"/>
 <text x="864.0" y="999.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">&gt;33.3% tok · B</text>
 <text x="1064.0" y="999.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">+1</text>
-<text x="1102.0" y="960.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
+<text x="1180.0" y="960.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
 <rect x="28" y="1018" width="1144" height="90" fill="#f0ece3"/>
 <line x1="28" y1="1018" x2="1172" y2="1018" stroke="#cfc6b5" stroke-width="1"/>
 <text x="28.0" y="1050.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">PL-10</text>
 <text x="122.0" y="1050.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">अन् / मन् / वन्-अन्त</text>
 <text x="462.0" y="1050.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">प्रथमा–द्वितीया–संबोधन</text>
-<text x="122.0" y="1089.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -ā / -a · -āni ·…  →  L: -āni</text>
+<text x="122.0" y="1089.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -ā / -a · -āni ·…  ·  L: -āni</text>
 <text x="946.0" y="1050.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="start">—</text>
 <rect x="800" y="1077" width="54" height="9" rx="4.5" fill="#e8dfcc"/>
 <rect x="800" y="1077" width="36.0" height="9" rx="4.5" fill="#9d7c36"/>
 <text x="864.0" y="1089.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">66.7% 2/3 tok · B</text>
-<text x="1102.0" y="1050.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
+<text x="1180.0" y="1050.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
 <line x1="28" y1="1108" x2="1172" y2="1108" stroke="#cfc6b5" stroke-width="1"/>
 <text x="28.0" y="1140.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">PL-11</text>
 <text x="122.0" y="1140.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">अन्त् / मत् / वत्-अन्त</text>
 <text x="704.0" y="1140.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">ISOLATED in RV</text>
 <text x="462.0" y="1140.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">प्रथमा–द्वितीया–संबोधन</text>
-<text x="122.0" y="1179.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -ānti · -anti  →  L: -anti</text>
+<text x="122.0" y="1179.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -ānti · -anti  ·  L: -anti</text>
 <text x="946.0" y="1140.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="start">—</text>
 <circle cx="808" cy="1171" r="7" fill="#9d7c36" stroke="#9d7c36" stroke-width="2"/>
 <text x="824.0" y="1179.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">2 pass · B</text>
-<text x="1102.0" y="1140.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
+<text x="1180.0" y="1140.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
 <line x1="28" y1="1198" x2="1172" y2="1198" stroke="#cfc6b5" stroke-width="1"/>
 <text x="28.0" y="1235.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="24" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">Measures:</text>
 <rect x="139" y="1223" width="45" height="8" rx="4" fill="#9d7c36"/>

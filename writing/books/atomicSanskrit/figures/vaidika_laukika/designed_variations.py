@@ -382,7 +382,7 @@ def render_page(
         "relation": 462,
         "qualification": 704,
         "dv": 946,
-        "evidence": 1102,
+        "evidence": 1180,
         "forms": 122,
         "prevalence": 800,
     }
@@ -401,7 +401,7 @@ def render_page(
         text(
             columns["forms"],
             header_y + 35,
-            "Vaidika → laukika",
+            "Vaidika range · laukika productive form",
             size=23,
             color=MUTED,
             italic=True,
@@ -462,7 +462,7 @@ def render_page(
             text(
                 columns["forms"],
                 baseline + 39,
-                f"V: {vaidika}  →  L: {laukika}",
+                f"V: {vaidika}  ·  L: {laukika}",
                 size=27,
                 deva=True,
             )
@@ -477,7 +477,7 @@ def render_page(
                 columns["dv"],
                 baseline,
                 "—" if not dv or dv == "—" else shorten(dv, 12),
-                size=26,
+                size=20 if len(dv) > 7 else 26,
                 color=GOLD if dv and dv != "—" else OPEN,
                 weight=600,
             )

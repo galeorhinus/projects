@@ -12,6 +12,14 @@ as **COMMON** may help a reader scan a figure, but it must never replace the
 numerator, denominator, percentage, textual range, or kind of unit that produced
 it.
 
+The Claude research file also reports counts from the Digital Corpus of
+Sanskrit. Those counts provide a useful independent check, but they are not
+merged into the figure values. The DCS counts cover a differently segmented and
+morphologically tagged Saṃhitā corpus, whereas the independently reproduced
+counts below use the ten-maṇḍala Ṛgveda *padapāṭha* and the stated VedaWeb
+filters. Combining those totals would conceal differences in corpus boundary,
+tokenization, and grammatical adjudication.
+
 ## Measurement Rules
 
 ### What the numbers count

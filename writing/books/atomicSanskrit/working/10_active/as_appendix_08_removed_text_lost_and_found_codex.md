@@ -106,3 +106,100 @@ This comparison does not assign a date to the Veda or claim that all mantras wer
 Pāṇini's analysis recognizes that Sanskrit operates in different settings without turning those settings into a timeline. When the *Aṣṭādhyāyī* marks an operation ***छन्दसि (*chandasi*)*** or ***भाषायाम् (*bhāṣāyām*)***, the marker tells the student where that operation applies. In the computer analogy, the *chandasi* rules help the student read and understand the read-only Vedic corpus. The *bhāṣāyām* rules serve the read-write domain: they help the student understand laukika compositions and create new ones.
 
 The Vedas never meandered, and no later analyst, including Pāṇini, had to fix them in place. Their transmitted form was already being preserved exactly. Pāṇini analyzed and documented the operations within that form; he did not impose stability upon it. *Vaidika* and *laukika* describe the two broad civilizational domains, while *chandasi* and *bhāṣāyām* mark the scope of particular operations inside Pāṇini's analysis. Neither pair describes an old Sanskrit that later changed into a new one.
+
+## LF-VL-008 — Appendix Part 8 §8.5
+
+**Source:** `as_3_08_one_architecture_two_domains.md`
+
+**Action:** Replaced by an expanded analysis that separates formal collision
+with *loṭ* from functional overlap with other *lakāras*, then compares bounded
+Vedic use with unrestricted laukika composition.
+
+### Original text
+
+Ṛgveda 10.186.1 uses a verbal form assigned to ***लेट् (*leṭ*)***:
+
+> वात आ वातु भेषजं शम्भु मयोभु नो हृदे ।
+> प्र ण आयूंषि तारिषत् ॥
+>
+> *vāta ā vātu bheṣajaṃ śambhu mayobhu no hṛde |*
+> *pra ṇa āyūṃṣi tāriṣat ||*
+>
+> May the wind blow healing toward us, bringing well-being and delight to our hearts; may it prolong our lives.
+
+A *laukika* student can understand what the mantra seeks. **The vaidika difference is the form तारिषत् (*tāriṣat*)**, which Pāṇini documented under ***लेट् (*leṭ*)*** and English grammars call a Vedic subjunctive. The form presents the prolonging of life as desired or prospective. *Laukika* Sanskrit expresses this range through *loṭ, liṅ, āśīrliṅ,* and *lṛṭ* rather than maintaining a complete productive *leṭ* system.[NOTE: vedic-let-tarisat]
+
+The read-only passage preserves **तारिषत्** together with its meaning, accent, and position. Because the mantra never changes, every reciter encounters the form inside the same words and with the same meaning. The read-write domain has to support sentences that no earlier speaker has composed. A complete *leṭ* system would add another verbal paradigm whose meanings overlap with several productive *laukika lakāras*. The semantic overlap is broad, while the exact formal collision is concentrated in the first person. Forms such as **भवानि, भवाव, भवाम (*bhavāni, bhavāva, bhavāma*)** can be read as *leṭ* in Vedic scope and as *loṭ* in *laukika* scope. The corresponding *ātmanepada* first-person forms show the same overlap. Extending the entire Vedic paradigm to unrestricted composition would therefore add duplicate forms as well as overlapping meanings.
+
+This passage demonstrates the semantic contribution of **तारिषत्**. The wider comparison explains why the same distinction remains useful in a fixed mantra without requiring another complete paradigm in the read-write domain. The Source and Reference Companion presents the full coordinate test.
+
+## LF-VL-009 — Appendix Part 8 §8.5
+
+**Source:** `as_3_08_one_architecture_two_domains.md`
+
+**Action:** Replaced after author review. The revision opens with
+**ब्रवाणि (*bravāṇi*)** in Ṛgveda 6.16.16 so that an actual Vedic passage
+demonstrates the *leṭ-loṭ* collision. **तारिषत् (*tāriṣat*)** remains as the
+contrasting example of the additional range supplied by *leṭ*.
+
+### Original text
+
+Ṛgveda 10.186.1 uses a verbal form assigned to ***लेट् (*leṭ*)***:
+
+> वात आ वातु भेषजं शम्भु मयोभु नो हृदे ।
+> प्र ण आयूंषि तारिषत् ॥
+>
+> *vāta ā vātu bheṣajaṃ śambhu mayobhu no hṛde |*
+> *pra ṇa āyūṃṣi tāriṣat ||*
+>
+> May the wind blow healing toward us, bringing well-being and delight to our hearts; may it prolong our lives.
+
+A *laukika* student can understand what the mantra seeks, but **तारिषत् (*tāriṣat*)** belongs to the *vaidika* domain. The form presents the prolonging of life as desired or prospective. English grammars call this use the Vedic subjunctive. Pāṇini later documented it under ***लेट् (*leṭ*)***.[NOTE: vedic-let-tarisat]
+
+The form gives the mantra a distinction worth preserving. *Leṭ* can present an action as desired, intended, urged, or still approaching realization. It therefore gives a Vedic expression another way to convey prospect and resolve. Its additional forms can also support the sound and arrangement of a passage when a particular mantra demonstrates that contribution.
+
+The same paradigm would create a different result if Sanskrit made it freely productive in the *laukika* domain. The first problem is formal collision. Remove Vedic pitch accent from the comparison, and several first-person forms of *leṭ* become identical to forms of ***लोट् (*loṭ*)***. In the ***परस्मैपदम् (*parasmaipadam*)***, **भवानि, भवाव, भवाम (*bhavāni, bhavāva, bhavāma*)** can belong to either paradigm. The corresponding first-person forms in the ***आत्मनेपदम् (*ātmanepadam*)*** collide in the same way. These are identical forms, not merely similar meanings.
+
+The second problem is functional overlap. *Laukika* Sanskrit already uses *loṭ* for commands, invitations, urging, and resolve. It uses ***लिङ् (*liṅ*)*** for such meanings as possibility and prescription, ***आशीर्लिङ् (*āśīrliṅ*)*** for wishes and blessings, and ***लृट् (*lṛṭ*)*** for prospective or future action. These *lakāras* do not reproduce every shade available through *leṭ*, but together they cover much of the same practical range. A productive *leṭ* would therefore add both useful distinctions and repeated overlap.
+
+The *vaidika* domain can preserve that additional range because each passage remains bounded. **तारिषत्** always occurs with the same words, in the same sequence, inside the same syntax, and with the same inherited meaning. Vedic pitch accent can provide another cue in passages where the finite verb bears an accent, but accent does not resolve every possible *leṭ-loṭ* collision. A finite verb can remain unaccented under Vedic sentence conditions. The complete preserved passage supplies the distinction when accent alone does not.
+
+The *laukika* domain faces another task. It must support prose and poetry that no earlier speaker has composed. If every speaker could use the complete *leṭ* paradigm in new sentences, the same formal collisions and functional overlaps would recur in new settings. Context could often resolve them, but every new composition would have to provide that context again. The additional benefit would be modest because the productive *laukika lakāras* already express most of the required meanings.
+
+For unrestricted *laukika* composition, those extra shades of meaning do not repay the recurring collisions and overlap. The engineering keeps *leṭ* where its additional range remains valuable and bounded. The read-only *vaidika* domain preserves its forms, while the read-write *laukika* domain uses a tighter productive set whose distinctions remain easier to recover in new compositions.
+
+Pāṇini did not create this arrangement. He documented the *leṭ* forms and their operations after the Vedas had already preserved them. The collision test comes from comparing the paradigms that his analysis records; it is an architectural inference rather than a rationale stated in the *Aṣṭādhyāyī*. The Source and Reference Companion compares all eighteen person-number-*pada* coordinates and identifies every unaccented *leṭ-loṭ* collision.
+
+## LF-VL-010 — Appendix Part 8 §8.8
+
+**Source:** `as_3_08_one_architecture_two_domains.md`
+
+**Action:** Replaced during the six-pass closure audit. The original repeated
+the corpus-selection and loss discussion that §8.9 develops directly. The new
+paragraph keeps §8.8 focused on stylistic variation within an invariant
+architecture.
+
+### Original text
+
+Communities then decide which compositions to copy, teach, perform, quote, and remember. Some works fall from use because later generations release or forget them, while others disappear through deliberate destruction. These losses change the surviving laukika corpus without preventing later speakers from composing through the same Sanskrit architecture.
+
+## LF-VL-011 — Appendix Part 8 §8.4
+
+**Source:** `as_3_08_one_architecture_two_domains.md`
+
+**Action:** Replaced by the adjacent Ṛgveda 3.32.2d-3d pair, which shows
+***रुद्रैः / रुद्रेभिः (*rudraiḥ / rudrebhiḥ*)*** completing two
+eleven-syllable lines and makes coexistence inside the Vedic corpus explicit.
+The RV 10.125.1 evidence remains in the endnote.
+
+### Original text
+
+For example, Ṛgveda 10.125.1 uses ***रुद्रेभिः (*rudrebhiḥ*)***, whereas the corresponding *laukika* form is ***रुद्रैः (*rudraiḥ*)***.[NOTE: vedic-akaranta-instrumental-plural-range]
+
+> अहं रुद्रेभिर्वसुभिश्चराम्यहमादित्यैरुत विश्वदेवैः ।
+> अहम् । रुद्रेभिः । वसुभिः । चरामि । अहम् । आदित्यैः । उत । विश्वदेवैः ।
+> *ahaṃ rudrebhir vasubhiś carāmy aham ādityair uta viśvadevaiḥ |*
+>
+> I move with the Rudras and the Vasus; I move with the Ādityas and all the Devas.
+
+**रुद्रेभिः (*rudrebhiḥ*)** has three syllables, while **रुद्रैः (*rudraiḥ*)** has two. The complete *pāda* has the eleven syllables of Triṣṭubh; replacing **रुद्रेभिः** with **रुद्रैः** would leave ten. The extended Vedic ending therefore adds the required syllable without changing the *vibhakti*, number, or grammatical relation.

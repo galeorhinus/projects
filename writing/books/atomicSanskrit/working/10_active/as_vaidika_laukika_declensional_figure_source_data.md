@@ -37,8 +37,8 @@ codes, but the publication figure must not print them yet.
 
 | ID | Evidence | Qualification | Confirmed DV | Figure instruction |
 |---|---|---|---|---|
-| SG-01 | FORM · PASSAGE · FUNCTION | — | MAT · ARR | Use ***महित्वा (*mahitvā*)*** at RV 2.15.6a; keep ***यज्ञा*** as an unlocated grammar example. |
-| SG-02 | FORM · PASSAGE · FUNCTION | — | MAT · ARR | Use ***मनीषा (*manīṣā*)*** at RV 10.129.4d. |
+| SG-01 | FORM · PASSAGE · FUNCTION | — | MAT · ARR · RES | Use the repeated ***यज्ञा यज्ञा (*yajñā yajñā*)*** at RV 6.48.1a beside ***गिरा गिरा (*girā girā*)***. Treat metrically lengthened **-enā** as a realization of **-ena**, not as a third declensional ending. |
+| SG-02 | FORM · PASSAGE · FUNCTION | — | MAT · RES | Use ***हृदा मनसा मनीषा (*hṛdā manasā manīṣā*)*** at RV 1.61.2c; the three instrumental forms establish both syllable economy and resonance. |
 | SG-03 | FORM · PASSAGE · OPEN | — | — | Use ***पश्वा (*paśvā*)*** only as passage verification; do not claim meter until its resolved form is scanned. |
 | SG-04 | FORM · OPEN | RARE | — | Attach RARE only to occasional **-i** and **-inā**, not to the common contraction. |
 | SG-05 | FORM · OPEN | RARE | — | Identify the small adverbial **-uyā** class. |
@@ -71,15 +71,15 @@ codes, but the publication figure must not print them yet.
 
 | ID | Evidence | Qualification | Confirmed DV | Figure instruction |
 |---|---|---|---|---|
-| DU-01 | FORM · PASSAGE · OPEN | — | — | Use ***अश्विना (*aśvinā*)*** at RV 1.34.1b; function remains open. |
+| DU-01 | FORM · PASSAGE · OPEN | — | — | Use ***देवा (*devā*)*** at RV 10.63.2b. ***देवा / देवौ*** have equal syllable count and weight, so the function remains open. |
 | DU-02 | FORM · OPEN | — | — | Retain without a DV code. |
 | DU-03 | FORM · OPEN | — | — | Retain as a class summary; selected classes still need passages. |
-| DU-04 | FORM · PASSAGE · OPEN | — | — | Use ***देवी (*devī*)*** at RV 10.70.6a; do not repeat the rejected metrical claim. |
+| DU-04 | FORM · PASSAGE · OPEN | ABSENCE in checked Saṃhitā corpus for the comparison form | — | Use ***देवी (*devī*)*** at RV 1.106.3. ***देव्यौ (*devyau*)*** was not found in the checked Saṃhitā corpus; do not infer a local function from the comparison alone. |
 | DU-05 | FORM · OPEN | ISOLATED · uncertain in part | — | Show one short token and one later-form candidate; keep *mahi* open. |
 | DU-06 | FORM · OPEN | ISOLATED | — | Display only after locating the single example. |
 | DU-07 | FORM · OPEN | DOMINANT provisionally · 12 tokens | — | Preserve the fuller-form count without inventing a class denominator. |
 | DU-08 | FORM | DOUBTFUL | — | Retain with the doubtful marker and an open prevalence cell; do not present the form as verified. |
-| DU-09 | FORM · PASSAGE · FUNCTION | — | SEM · REL | Use the five exact second-person dual passages in the concordance. |
+| DU-09 | FORM · PASSAGE · FUNCTION | — | SEM · REL | Use the five exact second-person dual passages in the concordance. State that the full first-person series is narrower and appears especially in Yajus prose, while the Ṛgveda more often uses ***नौ (*nau*)***. |
 | DU-10 | FORM · PASSAGE · OPEN | — | — | Display both ***युवभ्याम् / युवाभ्याम्***; no DV code yet. |
 | DU-11 | FORM · PASSAGE · FUNCTION | — | SEM · REL | Use ***एनोः (*enoḥ*)*** at RV 7.103.4a. |
 | DU-12 | FORM · OPEN | ISOLATED | — | Locate the single passage before display. |
@@ -88,18 +88,18 @@ codes, but the publication figure must not print them yet.
 
 | ID | Evidence | Qualification | Confirmed DV | Figure instruction |
 |---|---|---|---|---|
-| PL-01 | FORM · PASSAGE · FUNCTION | — | MAT · ARR | Use ***देवासः (*devāsaḥ*)*** at RV 1.3.7b. |
+| PL-01 | FORM · PASSAGE · FUNCTION | — | MAT · ARR | Use ***देवासः (*devāsaḥ*)*** at RV 10.63.4b, in the same hymn cluster that supplies DU-01 and PL-07. |
 | PL-02 | FORM · PASSAGE · FUNCTION | RARE | MAT · ARR | Use ***वशासः (*vaśāsaḥ*)*** at RV 6.63.9d. |
-| PL-03 | FORM · PASSAGE · OPEN | — | — | Use ***देवीः (*devīḥ*)*** at RV 9.5.8d; function remains open. |
+| PL-03 | FORM · PASSAGE · OPEN | ABSENCE in checked Saṃhitā corpus for the comparison form | — | Use ***देवीः (*devīḥ*)*** at RV 7.49.1. ***देव्यः (*devyaḥ*)*** was not found in the checked Saṃhitā corpus; function remains open. |
 | PL-04 | FORM · OPEN | N/A · absolute counts | — | Use *devīḥ* as 37 nominative and 5 accusative tokens. |
 | PL-05 | FORM · OPEN | RARE | — | Split unstrengthened **-ias / -uas** from feminine **-īs**. |
 | PL-06 | FORM · OPEN | UNKNOWN | — | Flag the source-annotation disagreement for the listed accusative forms. |
-| PL-07 | FORM · PASSAGE · FUNCTION | — | MAT · ARR | Use ***विश्वा (*viśvā*)*** at RV 8.70.6b. |
+| PL-07 | FORM · PASSAGE · FUNCTION | — | MAT · ARR | Use ***विश्वा (*viśvā*)*** at RV 10.63.2a, where the same verse also uses several fuller **-āni** forms. |
 | PL-08 | FORM · OPEN | — | — | Retain without a DV code. |
 | PL-09 | FORM · OPEN | — | — | Retain without a DV code. |
 | PL-10 | FORM · OPEN | — | — | Retain without a DV code. |
 | PL-11 | FORM · OPEN | ISOLATED in RV | — | Display the source-reported **2 RV passages** and state that the exact passages remain open. |
-| PL-12 | FORM · PASSAGE · FUNCTION | — | MAT · ARR | Use ***देवेभिः (*devebhiḥ*)*** at RV 1.1.5c and the RV 10.125.1 comparison. |
+| PL-12 | FORM · PASSAGE · FUNCTION | — | MAT · ARR | Use the adjacent RV 3.32 pādas: ***रुद्रैः (*rudraiḥ*)*** at 3.32.2d and ***रुद्रेभिः (*rudrebhiḥ*)*** at 3.32.3d. Each form completes its own eleven-syllable line. |
 | PL-13 | FORM · PASSAGE · FUNCTION | — | MAT · ARR · REL | Use ***येभिः (*yebhiḥ*)*** at RV 7.1.7b. |
 | PL-14 | FORM · OPEN | N/A | — | Identify this as recitational resolution, not a second written ending. |
 | PL-15 | FORM · OPEN | RARE in part | — | Split rare simple **-ām** from recitational resolution of **-ānām**. |

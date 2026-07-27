@@ -224,6 +224,96 @@ In both constructions the collective numeral remains uninflected while the
 associated noun carries the instrumental relation. **SEM** and **REL** are
 demonstrated.
 
+## 13. SG-01 — Repeated Instrumental ***यज्ञा (*yajñā*)***
+
+**Category:** *akārānta*, ***तृतीया एकवचनम्***
+**Comparison:** ***यज्ञेन / यज्ञा (*yajñena / yajñā*)***
+**Passage:** [RV 6.48.1a-b](https://lrc.la.utexas.edu/books/rigveda/RV06#6.048.01)
+
+> *yajñā-yajñā vo agnaye*
+> *girā-girā ca dakṣase*
+
+Relevant *padapāṭha*: *yajñā-yajñā | vaḥ | agnaye | girā-girā | ca |
+dakṣase*
+
+Working sense: “Sacrifice by sacrifice for your Agni; song by song for the
+capable one.”
+
+Each pāda has eight syllables. ***यज्ञा (*yajñā*)*** has two syllables,
+whereas ***यज्ञेन (*yajñena*)*** has three. Replacing both occurrences
+would add two syllables and break the line. The repeated short instrumental
+also answers the sound pattern of ***गिरा गिरा (*girā girā*)***. **MAT,
+ARR,** and **RES** are demonstrated.
+
+The metrically lengthened pronunciation **-enā** belongs to the **-ena**
+family. It should not be counted as an independently selected third
+declensional ending unless an exact grammatical use establishes that
+distinction.
+
+## 14. SG-02 — Instrumental Sequence ***हृदा मनसा मनीषा***
+
+**Category:** *ākārānta* feminine, ***तृतीया एकवचनम्***
+**Comparison:** ***मनीषया / मनीषा (*manīṣayā / manīṣā*)***
+**Passage:** [RV 1.61.2c](https://lrc.la.utexas.edu/books/rigveda/RV01#1.061.02)
+
+> *indrāya hṛdā manasā manīṣā*
+
+Relevant *padapāṭha*: *indrāya | hṛdā | manasā | manīṣā*
+
+Working sense: “For Indra, with heart, with mind, and with inspired
+thought.”
+
+The passage places three instrumental forms together:
+***हृदा (*hṛdā*), मनसा (*manasā*),*** and ***मनीषा (*manīṣā*)***.
+The contracted ***मनीषा*** has three syllables; ***मनीषया
+(*manīṣayā*)*** has four. The shorter form preserves the line while the
+three **-ā** endings give the sequence a repeated audible close. **MAT** and
+**RES** are demonstrated.
+
+## 15. PL-12 — Adjacent ***रुद्रैः / रुद्रेभिः*** Selection
+
+**Category:** *akārānta*, ***तृतीया बहुवचनम्***
+**Comparison:** ***रुद्रैः / रुद्रेभिः (*rudraiḥ / rudrebhiḥ*)***
+**Passages:** [RV 3.32.2d-3d](https://lrc.la.utexas.edu/books/rigveda/RV03#3.032.02)
+
+> *sajoṣā rudrais tṛpad ā vṛṣasva*
+> *pibā rudrebhiḥ sagaṇaḥ suśipra*
+
+Relevant *padapāṭha*: *sa-joṣāḥ | rudraiḥ | tṛpat | ā | vṛṣasva*;
+*piba | rudrebhiḥ | sa-gaṇaḥ | su-śipra*
+
+Working sense: “In harmony with the Rudras, drink your fill and grow
+strong. Drink with the Rudras and your company, O fair-cheeked one.”
+
+The two adjacent verses use both instrumental-plural endings. Each quoted
+pāda has eleven syllables. Substituting ***रुद्रेभिः*** for
+***रुद्रैः*** in the first would produce twelve; substituting
+***रुद्रैः*** for ***रुद्रेभिः*** in the second would produce ten.
+The paired passages therefore show selection within the Vedic corpus itself:
+each ending supplies the quantity required by its own line. **MAT** and
+**ARR** are demonstrated.
+
+This pair also establishes an important interpretive boundary. The
+comparison with the laukika productive form describes deployment in new
+composition. It does not imply that ***रुद्रैः*** arose after
+***रुद्रेभिः***; the Veda preserves both.
+
+## 16. RV 10.63 — Three Variations in One Hymn Cluster
+
+[RV 10.63.2-4](https://lrc.la.utexas.edu/books/rigveda/RV10#10.063.02)
+brings three high-value forms into a compact span:
+
+| ID | Form | Local evidence | Demonstrated contribution |
+|---|---|---|---|
+| PL-07 | ***विश्वा (*viśvā*)*** at 10.63.2a | Two syllables; ***विश्वानि (*viśvāni*)*** would add one. The verse itself contains several fuller **-āni** forms. | **MAT · ARR** |
+| DU-01 | ***देवा (*devā*)*** at 10.63.2b | ***देवा / देवौ*** have the same syllable count and weight. | **OPEN** |
+| PL-01 | ***देवासः (*devāsaḥ*)*** at 10.63.4b | Three syllables; ***देवाः (*devāḥ*)*** would remove one from the twelve-syllable line. | **MAT · ARR** |
+
+The cluster is valuable because it shows that different forms coexist in one
+small Vedic field. It also prevents a metrical explanation from being forced
+onto DU-01, where the comparison changes vowel quality without changing
+quantity.
+
 ## Verified Forms Whose Designed Contribution Remains Open
 
 These rows now have exact passages but should not receive a DV code yet:

@@ -2917,7 +2917,7 @@ The fourth row — *ghoṣa-mahāprāṇa* — is typologically rare outside Ind
 
 ### `vedic-svara-system`
 
-**Short:** The Vedic recitation lineages operate a three-fold accent system specifying syllable pitch: ***udātta*** (उदात्त, *raised* — high pitch), ***anudātta*** (अनुदात्त, *not-raised* — low pitch), and ***svarita*** (स्वरित, *sounded* — the mid-falling-pitch accent that follows an *udātta* syllable); governed across *Aṣṭādhyāyī Adhyāya* 8 and complemented by Śāntanava's *Phiṭ-sūtras* (फिट्सूत्र); the *chandas* mode operates the full three-fold system, the *bhāṣā* mode preserves it in attenuated form. The Indian classical music *swara* system (*sa, ri, ga, ma, pa, dha, ni*) operates the same pitch-categorization framework at fuller temporal range.
+**Short:** The Vedic recitation lineages preserve a mathematically rigorous and deterministic pitch system: ***udātta*** (उदात्त, *raised*), ***anudātta*** (अनुदात्त, *not raised*), and ***svarita*** (स्वरित, *sounded*). Given the complete word formation, syntax, sentence position, and applicable Vedic rules, the required pitch pattern follows systematically. This pitch is part of grammatical interpretation. Rules connect it to atoms, affixes, complete words, compounds, verbal forms, sentence position, and syntax. The *vaidika* domain therefore preserves an audible interpretive layer that ordinary *laukika* composition does not use.
 
 **Deployments:** Chapter 9 §9.6 — the citation anchor for the Vedic *svara* (accent / pitch) system and its relationship to the broader Sanskrit phonological architecture.
 
@@ -2929,13 +2929,13 @@ The Vedic recitation lineages operate on a three-fold accent system that specifi
 
 3. ***स्वरित (svarita)*** — *sounded*. The mid-falling-pitch accent that follows an *udātta* syllable. The *svarita* is acoustically distinctive — it begins at the *udātta* high-pitch level and falls during the syllable to the *anudātta* low-pitch level, producing a characteristic downward pitch contour. Shown with a vertical line above the syllable in the standard Vedic manuscript notation, often differentiated from the *udātta* notation by the line's position relative to the syllable's vowel.
 
-The three-fold accent system is governed by Pāṇini's *Aṣṭādhyāyī* across multiple *sūtras* in *Adhyāya* 8 (the accent-specifying rules), with the *Phiṭ-sūtras* of Śāntanava operating as a complementary treatise on Vedic-text accent. The *Prātiśākhya* texts of each *Veda* specify the accent-recitation rules in detail for their respective recensions.
+The system existed in the Vedas before Pāṇini documented its operations. His *Aṣṭādhyāyī* records accent rules at several levels. Rules 3.1.3–4 establish default accent for affixes and make the *sup* endings and *p-it* affixes *anudātta*. Rules beginning at 6.1.158 govern accent within formed words. At the sentence level, 8.1.28 documents the ordinary ***निघात (*nighāta*)*** of a finite verb after a non-verbal word, while 8.1.30 and the rules that follow preserve verbal accent under specified conditions involving particles, sentence position, and syntax. A finite verb at the beginning of a sentence or metrical *pāda* retains its accent; subordinate and otherwise governed settings preserve accent under their own rules. The *Phiṭ-sūtras* of Śāntanava complement this analysis, while the *Prātiśākhya* disciplines specify the accent and recitational operations of their respective Vedic lineages.
 
-Structural significance: the *udātta* / *anudātta* / *svarita* system is the *pitch* dimension of the Sanskrit phonological framework. The *chandas* mode operates on the full three-fold system; the *bhāṣā* mode (the productive mode Pāṇini's *Aṣṭādhyāyī* primarily describes, tagged *bhāṣāyām*) preserves the accent system in attenuated form, with the *udātta-anudātta-svarita* distinction collapsed across non-Vedic modes. The Indian classical music continuum's pitch system (the *swara* — *sa, ri, ga, ma, pa, dha, ni*) operates the same pitch-categorization framework at fuller temporal range, with each note held for bars rather than the moment-of-the-syllable duration speech uses.
+The structural significance extends beyond correct chanting. Vedic pitch contributes to meaning and grammatical interpretation. It can distinguish the function of compounds, vocatives, particles, and finite verbs; it can also reveal how a verb participates in a main or subordinate clause. Because a main-clause finite verb may undergo *nighāta*, pitch does not give every *lakāra* a unique audible label. The system instead adds one more governed channel through which the listener interprets the complete passage.
 
-Deployment: the *swara* concept is structurally continuous across speech (the Vedic three-fold accent), music (the seven-note scale), and the broader sound-engineering of the *varṇamālā*. Two instruments, one architecture. The same *swara* that Indian classical music sustains for bars and the *chandas* mode notates for pitch contour, speech cuts to precise *mātrā* durations.
+This distinction becomes architecturally important when the two domains are compared. The Vedas are read-only. Their pitch, words, syntax, sequence, and inherited interpretation remain together, allowing the *vaidika* domain to preserve additional grammatical breadth without allowing its variations to spread unpredictably. The *laukika* domain supports new composition and operates without this preserved pitch layer. Its productive grammar therefore benefits from tighter paradigms whose distinctions remain recoverable in sentences that have never been composed before.
 
-Standard references: Pāṇini's *Aṣṭādhyāyī*, *Adhyāya* 8 (the accent-rules) and 6.1.158 and following (vowel-accent placement); the *Prātiśākhya* literature on Vedic accent; the *Phiṭ-sūtras* of Śāntanava; W. S. Allen, *Phonetics in Ancient India* (Oxford University Press, 1953), Chapter 6 (on duration and accent); Madhav M. Deshpande, "Vedic Aryans, Non-Vedic Aryans, and Non-Aryans" (in *The Indo-Aryan Controversy*, ed. Edwin Bryant and Laurie Patton, Routledge, 2005); Frits Staal, *Mantras between Fire and Water* (Royal Netherlands Academy of Arts and Sciences, 1992) on the Vedic recitation lineages.
+Standard references: Pāṇini's *Aṣṭādhyāyī* 3.1.3–4, 6.1.158 and following, and 8.1.28–72; the *Prātiśākhya* literature on Vedic accent; the *Phiṭ-sūtras* of Śāntanava; W. S. Allen, *Phonetics in Ancient India* (Oxford University Press, 1953), Chapter 6 (on duration and accent); A. A. Macdonell, *A Vedic Grammar for Students*, §§19–22 and the sections on verbal accent; William Dwight Whitney, *Sanskrit Grammar*, §§80–97 and 591–598; Frits Staal, *Mantras between Fire and Water* (Royal Netherlands Academy of Arts and Sciences, 1992) on the Vedic recitation lineages.
 
 ---
 
@@ -5582,7 +5582,7 @@ After Goa joined India, advocates of merger with Maharashtra argued that Konkani
 
 **Short:** Ṛgveda 1.16.1 separates **आ (*ā*)** from **वहन्तु (*vahantu*)** by placing **त्वा (*tvā*)** between them. The received sequence fixes the relation, while the separation gives the mantra another arrangement within Gāyatrī.
 
-**Deployment:** Appendix Part 8 §8.3.
+**Deployment:** Appendix Part 8 §8.4.
 
 The first *pāda* reads **आ त्वा वहन्तु हरयः (*ā tvā vahantu harayaḥ*)**. In a newly composed laukika expression the operator would ordinarily bond directly with the atom as **आवहन्तु (*āvahantu*)**. The Vedic passage preserves the separated arrangement without losing the relation because the mantra's words and sequence remain invariant. Pāṇini later documented the mobility of Vedic *upasargas* in Aṣṭādhyāyī 1.4.80–82. Sources: Ṛgveda 1.16.1, Śākala Saṃhitā and *padapāṭha*; Aṣṭādhyāyī 1.4.80–82 with Kāśikā.
 
@@ -5592,7 +5592,7 @@ The first *pāda* reads **आ त्वा वहन्तु हरयः (*ā 
 
 **Short:** Aitareya Brāhmaṇa 5.11.2 separates **आ ... दत्ते (*ā ... datte*)** and **निर् ... नुदते (*nir ... nudate*)** in prose, showing that Vedic operator mobility does not depend upon meter.
 
-**Deployment:** Appendix Part 8 §8.3.
+**Deployment:** Appendix Part 8 §8.4.
 
 The passage reads **आ द्विषतो वसु दत्ते, निर् एनम् एभ्यः सर्वेभ्यो लोकेभ्यो नुदते, य एवं वेद (*ā dviṣato vasu datte, nir enam ebhyaḥ sarvebhyo lokebhyo nudate, ya evaṃ veda*)**. The invariant prose sequence permanently connects **आ** with **दत्ते** and **निर्** with **नुदते**, although several words intervene. Meter cannot explain the separation. The example therefore supports recoverable relations inside a read-only passage and the tighter local bonding used for unrestricted laukika composition. Source: Aitareya Brāhmaṇa 5.11.2; compare Aṣṭādhyāyī 1.4.80–82.
 
@@ -5602,7 +5602,7 @@ The passage reads **आ द्विषतो वसु दत्ते, नि�
 
 **Short:** The four Vedas and their prose extensions place Sanskrit under different linguistic, acoustic, and compositional demands. Their combined range allows the Vedic corpus to preserve a much broader sample of Sanskrit's architecture than one uniform style could preserve.
 
-**Deployment:** Appendix Part 8 §§8.4 and 8.6.
+**Deployment:** Appendix Part 8 §§8.8 and 8.10.
 
 Ṛgveda 10.71.11 describes differentiated work within the Vedic field: one cultivates the ***ऋचः (*ṛcaḥ*)***, another sings the ***सामन् (*sāman*)***, the ***ब्रह्मा (*brahmā*)*** speaks the knowledge proper to his responsibility, and another measures the ***यज्ञ (*yajña*)***. The verse establishes functional differentiation. The further claim — that expression distributed across these functions also widened the linguistic calibrant — is this book's architectural inference. The observable result supports it: Ṛgvedic address, Sāmavedic song, Yajurvedic formula and prose, Atharvavedic protection and application, Brāhmaṇa exposition, Āraṇyaka reflection, and Upaniṣadic dialogue preserve different combinations of sound, pitch, meter, sentence construction, verbal forms, nominal forms, compounds, and modes of explanation. The Vedāṅga disciplines then analyze and teach the architecture preserved in use. Sources: Ṛgveda 10.71.11; Government of India, Vedic Heritage Portal, "Introduction," classification of the four Vedas and six Vedāṅgas.
 
@@ -5610,11 +5610,13 @@ The passage reads **आ द्विषतो वसु दत्ते, नि�
 
 ### `vedic-akaranta-instrumental-plural-range`
 
-**Short:** The Ṛgveda preserves both **-ebhiḥ** and **-aiḥ** among its ***विभक्तिरूपाणि (*vibhakti-rūpāṇi*, declensional forms)***. Both serve as the *tṛtīyā bahuvacanam*, or instrumental plural, of *akārānta* words. Ṛgveda 10.125.1 places the two options in the same mantra.
+**Short:** The Ṛgveda preserves both **-ebhiḥ** and **-aiḥ** among its ***विभक्तिरूपाणि (*vibhakti-rūpāṇi*, declensional forms)***. Both serve as the *tṛtīyā bahuvacanam*, or instrumental plural, of *akārānta* words. Adjacent verses in Ṛgveda 3.32 show each ending completing an eleven-syllable line.
 
-**Deployment:** Appendix Part 8 §8.3.
+**Deployment:** Appendix Part 8 §8.4.
 
-Ṛgveda 10.125.1 uses **रुद्रेभिः (*rudrebhiḥ*)** and **वसुभिः (*vasubhiḥ*)**, then **आदित्यैः (*ādityaiḥ*)** and **विश्वदेवैः (*viśvadevaiḥ*)**. The first pair uses the extended **-ebhiḥ** ending; the second uses **-aiḥ**. The forms express the same case and number. The complete *pāda*, **अहं रुद्रेभिर्वसुभिश्चरामि (*ahaṃ rudrebhir vasubhiś carāmi*)**, has the eleven syllables of Triṣṭubh. Replacing **रुद्रेभिः** with **रुद्रैः** would leave ten, so the longer ending supplies the required syllable without changing the grammatical relation. The current Ṛgvedic corpus count retained in the appendix source data finds broad **-ebhiḥ : -aiḥ** totals of 585:690; the variation is common rather than isolated. Sources: Ṛgveda 10.125.1; Aṣṭādhyāyī 7.1.9; University of Texas, *Ṛgveda: Metrically Restored Text*, 10.125.1a; appendix prevalence ledger PL-12.
+Ṛgveda 3.32.2d reads **सजोषा रुद्रैस्तृपदा वृषस्व (*sajoṣā rudrais tṛpad ā vṛṣasva*)**. The adjacent verse, 3.32.3d, reads **पिबा रुद्रेभिः सगणः सुशिप्र (*pibā rudrebhiḥ sagaṇaḥ suśipra*)**. The first uses **रुद्रैः (*rudraiḥ*)** and the second **रुद्रेभिः (*rudrebhiḥ*)**. Both pādas have eleven syllables. Exchanging the endings would give the first twelve syllables and the second ten, so each ending supplies the quantity required by its own line without changing the grammatical relation.
+
+Ṛgveda 10.125.1 supplies a second comparison inside one mantra: **रुद्रेभिः (*rudrebhiḥ*)** and **वसुभिः (*vasubhiḥ*)** appear beside **आदित्यैः (*ādityaiḥ*)** and **विश्वदेवैः (*viśvadevaiḥ*)**. The current Ṛgvedic corpus count retained in the appendix source data finds broad **-ebhiḥ : -aiḥ** totals of 585:690; the variation is common rather than isolated. Sources: Ṛgveda 3.32.2d-3d and 10.125.1; Aṣṭādhyāyī 7.1.9; University of Texas, *Ṛgveda: Metrically Restored Text*, 3.32 and 10.125.1a; appendix prevalence ledger PL-12.
 
 ---
 
@@ -5652,7 +5654,7 @@ The final *pāda* is **नमो भरन्त एमसि (*namo bharanta em
 
 **Short:** The Designed Variations figures separate the existence of a Vedic form from three further findings: an exact passage, a demonstrated local contribution, and a measured prevalence. An open contribution or prevalence cell remains open rather than being printed as zero.
 
-**Deployment:** Appendix Part 8 §8.3.
+**Deployment:** Appendix Part 8 §8.4.
 
 The grammatical inventory was assembled from William Dwight Whitney, *Sanskrit Grammar*, Chapters II–VII, especially §§113, 138, 314–320, 327–329, 336–338, 349–365, 371, 414–415, 425, 430–433, 448, 454, 462, 465, 482–486, 492, 499–501, and 509. Exact-form searches used the GRETIL Ṛgveda *padapāṭha*. Passage and meter checks used the University of Texas Linguistics Research Center's metrically restored Ṛgveda. Pāṇini's *Aṣṭādhyāyī* is cited where it documents a form already preserved in the Veda. The figure labels distinguish **FORM**, **PASSAGE**, **FUNCTION**, and **OPEN**, while **RARE**, **ISOLATED**, **DOUBTFUL**, and **ABSENCE** qualify the evidence without converting uncertainty into a demonstrated result.
 
@@ -5668,13 +5670,13 @@ The two extended vowels occur while the mantra weighs alternatives. Pāṇini la
 
 ---
 
-### `vedic-let-tarisat`
+### `vedic-let-bravani-tarisat`
 
-**Short:** Ṛgveda 10.186.1 uses **तारिषत् (*tāriṣat*)** for the desired prolonging of life. Pāṇini later documented this form under ***लेट् (*leṭ*)***; English grammars call it the Vedic subjunctive.
+**Short:** Ṛgveda 6.16.16 uses **ब्रवाणि (*bravāṇi*)** as ***लेट् (*leṭ*)***, although the same visible form is the first-person singular ***लोट् (*loṭ*)*** of ⟪ब्रू⟫ in *laukika* Sanskrit. Ṛgveda 10.186.1 supplies the contrasting non-colliding *leṭ* form **तारिषत् (*tāriṣat*)**.
 
-**Deployment:** Appendix Part 8 §8.3.
+**Deployment:** Appendix Part 8 §8.5.
 
-The passage closes **प्र ण आयूंषि तारिषत् (*pra ṇa āyūṃṣi tāriṣat*)**, "may it prolong our lives." Aṣṭādhyāyī 3.4.7, **लिङर्थे लेट् (*liṅarthe leṭ*)**, assigns *leṭ* in Vedic scope where *liṅ* meanings apply; the Kāśikā and Mahābhāṣya use **तारिषत्** among their examples. The full coordinate test confirms that exact *leṭ/loṭ* collisions cluster in first-person forms across both *padas*, while the semantic overlap extends across *loṭ, liṅ, āśīrliṅ,* and *lṛṭ*. The fixed mantra preserves its form and interpretation together; the read-write domain would have to recover the distinction across every newly composed expression. This supports an architectural inference rather than proving a recorded design motive. Sources: Ṛgveda 10.186.1; Aṣṭādhyāyī 3.4.7 and 3.4.94–98 with Kāśikā and Mahābhāṣya; Source and Reference Companion, Appendix 8.
+Ṛgveda 6.16.16 reads **एह्यू षु ब्रवाणि तेऽग्ने (*ehy ū ṣu bravāṇi te 'gne*)**, "Come now; may I speak to you, Agni." Vedic grammatical analysis identifies **ब्रवाणि** here as a first-person singular subjunctive, the category Pāṇini later documents as *leṭ*. The identical visible form is generated as first-person singular *laukika loṭ*: "let me speak." Aṣṭādhyāyī 3.4.92 and 7.3.93, with the Kāśikā, provide the *loṭ* derivation; 3.4.7 and 3.4.94–98 document *leṭ* and its endings. Ṛgveda 10.186.1 closes **प्र ण आयूंषि तारिषत् (*pra ṇa āyūṃṣi tāriṣat*)**, "may it prolong our lives," showing the additional prospective or desired force without the same visible collision. The complete coordinate test confirms that exact *leṭ-loṭ* collisions cluster in first-person forms across both *padas*, while functional overlap extends across *loṭ, liṅ, āśīrliṅ,* and *lṛṭ*. Sources: Ṛgveda 6.16.16 and 10.186.1; Aṣṭādhyāyī 3.4.7, 3.4.92, 3.4.94–98, and 7.3.93 with Kāśikā and Mahābhāṣya; Source and Reference Companion, Appendix 8.
 
 ---
 
@@ -5682,7 +5684,7 @@ The passage closes **प्र ण आयूंषि तारिषत् (*pr
 
 **Short:** In Ṛgveda 1.32.1, **प्र वोचम् (*pra vocam*)** performs the declaration "I now proclaim." The form belongs to ***लुङ् (*luṅ*, aorist)*** but appears without the ***अट्-आगम (*aṭ-āgama*, augment)***. English grammars call such a Vedic form an injunctive.
 
-**Deployment:** Appendix Part 8 §8.3.
+**Deployment:** Appendix Part 8 §8.6.
 
 The passage begins **इन्द्रस्य नु वीर्याणि प्र वोचम् (*indrasya nu vīryāṇi pra vocam*)**. The particle **नु (*nu*)**, the accented operator **प्र (*prá*)**, and the unaccented **वोचम् (*vocam*)** together present the declaration as it is being made. Laukika **अवोचम् (*avocam*)** carries the augment and ordinarily reports a past act: "I said" or "I proclaimed." The unaugmented form also removes one syllable from the Triṣṭubh *pāda*. Paul Kiparsky analyzes this exact example as a performative, "I (hereby) proclaim Indra's heroic deeds," and argues that the injunctive receives temporal or modal interpretation from its immediate setting. Sources: Ṛgveda 1.32.1; Paul Kiparsky, "The Vedic Injunctive: Historical and Synchronic Implications," in Rajendra Singh, ed. (De Gruyter Mouton, 2005), 219–235.
 
@@ -5692,7 +5694,7 @@ The passage begins **इन्द्रस्य नु वीर्याणि
 
 **Short:** Ṛgveda 3.40.7 uses **पीत्वी (*pītvī*)**, "having drunk," where laukika Sanskrit uses **पीत्वा (*pītvā*)**. Both are forms of the ***क्त्वा-प्रत्यय (*ktvā-pratyaya*)***, commonly called a gerund or conjunctive participle in English.
 
-**Deployment:** Appendix Part 8 §8.3.
+**Deployment:** Appendix Part 8 §8.6.
 
 The final *pāda* reads **पीत्वी सोमस्य वावृधे (*pītvī somasya vāvṛdhe*)**, "having drunk Soma, he grew in strength." Pāṇini later documented Vedic forms of this type in Aṣṭādhyāyī 7.1.49, **स्नात्व्यादयश्च (*snātvyādayaś ca*)**; the Kāśikā cites this passage and contrasts **पीत्वी** with expected **पीत्वा**. Both forms have two syllables, so this example establishes the additional Vedic *ktvā* form but does not by itself establish a metrical purpose. The Designed Variation code therefore remains open. Sources: Ṛgveda 3.40.7; Aṣṭādhyāyī 7.1.49 with Kāśikā.
 
@@ -5702,7 +5704,7 @@ The final *pāda* reads **पीत्वी सोमस्य वावृध�
 
 **Short:** Ṛgveda 1.24.8 places two Vedic ***तुमर्थक रूपाणि (*tumarthaka rūpāṇi*, infinitive forms)*** in one mantra: **अन्वेतवै (*anvetavai*)**, "to follow," and **प्रतिधातवे (*pratidhātave*)**, "to set down."
 
-**Deployment:** Appendix Part 8 §8.3.
+**Deployment:** Appendix Part 8 §8.6.
 
 The Saṃhitā text shows **अन्वेतवा उ (*anvetavā u*)**, while the *padapāṭha* resolves the form as **अनु-एतवै (*anu-etavai*)**. The next *pāda* uses **प्रतिधातवे (*pratidhātave*)**. Laukika Sanskrit would ordinarily express the same purposes through **अन्वेतुम् (*anvetum*)** and **प्रतिधातुम् (*pratidhātum*)**. Replacing the Vedic forms with the shorter **-तुम्** formations would shorten their respective Triṣṭubh *pādas*. Pāṇini later listed **-तवै, -तवे**, and several other Vedic infinitive endings in Aṣṭādhyāyī 3.4.9. Sources: Ṛgveda 1.24.8, Saṃhitā and *padapāṭha*; Aṣṭādhyāyī 3.4.9 with Kāśikā.
 
@@ -5712,7 +5714,7 @@ The Saṃhitā text shows **अन्वेतवा उ (*anvetavā u*)**, whil
 
 **Short:** Ṛgveda 3.25.1 addresses Agni as **चिकित्वः (*cikitvaḥ*)**, "O knowing one." It is a ***क्वसु-कृदन्त (*kvasu-kṛdanta*, perfect participle)*** used in ***सम्बोधन (*sambodhana*, vocative)***, where the corresponding laukika form is **चिकित्वन् (*cikitvan*)**.
 
-**Deployment:** Appendix Part 8 §8.3 and declensional figure SG-23.
+**Deployment:** Appendix Part 8 §8.6 and declensional figure SG-23.
 
 The closing words are **इह यजा चिकित्वः (*iha yajā cikitvaḥ*)**. The exact passage and the direct-address function are secure. A corpus check retained in the appendix prevalence ledger finds **चिकित्वः** in all eleven checked Ṛgvedic occurrences of this lexeme and no **चिकित्वन्** counterpart there. That establishes the Vedic distribution for the checked word, but it does not establish why this passage selects **-वः** rather than **-वन्**. The appendix therefore records the form while leaving its Designed Variation code open. Sources: Ṛgveda 3.25.1; appendix prevalence ledger SG-23; Whitney's discussion of perfect participles.
 
@@ -5722,7 +5724,7 @@ The closing words are **इह यजा चिकित्वः (*iha yajā ci
 
 **Short:** The *vaidika–laukika* boundary governs what may be revised; it does not require two separate populations, and one person or household can participate in both domains.
 
-**Deployment:** Appendix Part 8 §8.7.
+**Deployment:** Appendix Part 8 §8.11.
 
 The architectural claim is narrower than a universal account of household organization. A person trained to preserve a Vedic passage can also study *vyākaraṇam*, explain a mantra, read *śāstra*, teach *itihāsa-purāṇa*, or compose laukika Sanskrit without changing the Vedic passage. The exact distribution of these responsibilities varied across regions, households, *śākhās*, and *sampradāyas*.
 

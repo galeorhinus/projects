@@ -7,13 +7,22 @@ Copy the text below the line to send.
 -->
 
 ---
-Here's the current state of the book.
+Here's what this book is all about.
 
-**Start from Second Shanti,** which you know as well as anyone. A civilization is held together by *architecture* — the invisible order beneath its language, memory, economy, and way of holding power — and that order takes one of two shapes. The **swastika**: distributed, self-balancing, turned toward the good of everyone, no one at the top. The **pyramid**: an apex, a few in control, everything extracted upward. The deepest claim is that these shapes are *fractal* — the same pattern repeats at every scale.
+I call it the first book in the second shanti series.  You already know what second shanti is all about:
+Any civilization is typically held together by an *architecture* — the invisible order beneath its language, memory, economy, and way of holding power — and that order takes one of two shapes.
+ - The **swastika**: distributed, self-balancing, turned toward the good of everyone, no one at the top.
+ - The **pyramid**: an apex, a few in control, everything extracted upward.
 
-That is a claim about everything, and a claim that large needs one place where it can be *proven*, not just argued. The cleanest place is the smallest: **language** — where you can count the pieces and point to the exact rule. And the language where the architecture shows most precisely is **Sanskrit**. So Sanskrit became the whole first volume: the ground floor the rest of Second Shanti stands on.
+ The basic claim is that both these shapes are *fractal* — the same pattern repeats at every scale.
 
-**The easiest way to tell you what the book claims is to read you its title and subtitle** — because the whole argument is folded into them:
+Because this is such a broad claim, it needs one place where it can be *proven*, not just argued. The cleanest place is the smallest.  It turns out one of the Indian words for civilization is **Sanskriti** - she who is wholly created - basically the same as Sanskrit - that which is wholly created.
+
+So proving that the **language** was totally engineered - it becomes easier to show that the civilization was fully engineered.
+
+So Sanskrit became the whole first volume: the ground floor the rest of Second Shanti stands on.
+
+The easiest way to tell you what the book claims is to read you its title and subtitle — because the whole argument is folded into them:
 
 > **Atomic Sanskrit**
 > *The Radiant, Calibrant, and Fractal Architecture of Sanātan*

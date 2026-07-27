@@ -179,7 +179,9 @@ The *varṇamālā* is spatial and temporal. The spatial grid tells the body whe
 | Long vowel | **दीर्घ स्वर (*dīrgha svara*)** | 2 *mātrās* | extended nucleus |
 | Prolated vowel | **प्लुत स्वर (*pluta svara*)** | 3 *mātrās* | prolonged recitational form |
 
-The timing discipline is old and central.[NOTE: hrasva-dirgha-pluta-matra] Vedic recitation also preserves accent: **उदात्त (*udātta*)**, **अनुदात्त (*anudātta*)**, and **स्वरित (*svarita*)**.[NOTE: vedic-svara-system] Accent and duration do different work. Duration measures the sound-particle itself. Accent shapes recitation.
+Sanskrit measures the duration of every sound through the *mātrā*, and Vedic recitation preserves that timing exactly.[NOTE: hrasva-dirgha-pluta-matra]
+
+The Vedas also preserve an ingeniously mathematical, highly rigorous, and deterministic pitch system: **उदात्त (*udātta*)**, **अनुदात्त (*anudātta*)**, and **स्वरित (*svarita*)**.[NOTE: vedic-svara-system] Given the complete word formation, syntax, sentence position, and applicable Vedic rules, the required pitch pattern follows systematically. Duration measures how long a sound-particle lasts. Pitch adds an audible interpretive layer. Its placement follows grammatical rules involving words, affixes, verbal forms, sentence position, and syntax, so a listener can hear distinctions that disappear when the same passage is recited or printed without its *svara*.
 
 The visible script belongs to *lipi*. The deeper structure belongs to sound. Appendix Part 3 develops the script argument in full: Indic writing is audiographic because it makes the sonomer visible. Sanskrit first selects the sonomer; then the script can show it.
 

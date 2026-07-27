@@ -76,6 +76,25 @@ The four post-promotion closure passes were completed on 2026-07-26:
    Variations figures render legibly in grayscale. A PDF-only float flush keeps
    the complete figure series together before the explanatory prose resumes.
 
+Six final appendix passes followed on 2026-07-27:
+
+1. **Verbal-form review:** complete. §8.6 now explains the verified contribution
+   of each example in ordinary prose and leaves genuinely unknown purposes
+   blank.
+2. **Summary-table alignment:** complete. §8.7 distinguishes syllable pitch
+   from grammatical pitch and matches the evidence developed in §§8.3–8.6.
+3. **Later-section coherence:** complete. §§8.8–8.12 now separate stylistic
+   variation, corpus selection, generative use, calibration, social
+   responsibility, and the final two-domain synthesis.
+4. **Cross-reference alignment:** complete. The Source and Reference Companion,
+   endnote deployment labels, body pointers, and figure captions use the final
+   §8.1–§8.12 structure.
+5. **Duplication and prose audit:** complete. Replaced material was preserved in
+   `working/10_active/as_appendix_08_removed_text_lost_and_found_codex.md`.
+6. **Plan and PDF validation:** complete. The short trade PDF was rebuilt,
+   prose pages were rendered for inspection, and the §8.11–§8.12 headings were
+   shortened so their running headers no longer collide with page numbers.
+
 ### Remaining Work
 
 This checklist is the single tracking ledger for completing and deploying the
@@ -85,22 +104,22 @@ method, and rationale behind each item.
 #### Structure and author review
 
 - [x] Establish the fixed-corpus and open-generation architecture.
-- [x] Organize the working draft as §§8.1–8.8.
+- [x] Organize the promoted appendix as §§8.1–8.12.
 - [x] Add the ten Designed Variation categories.
 - [x] Create the three-letter Designed Variation codebook.
 - [x] Complete the first analytical classification of all 83 declensional
   variations.
 - [ ] Complete author review of the promoted appendix.
-- [ ] Resolve all remaining author comments during the closure sequence.
+- [x] Resolve all author comments present during the closure sequence.
 
 #### Declensional evidence
 
 - [x] Create independent research prompts for Claude and Gemini:
   - `working/10_active/as_ten_designed_declensional_variations_claude_prompt.md`
   - `working/10_active/as_ten_designed_declensional_variations_gemini_prompt.md`
-- [ ] Collect Claude's completed research as
+- [x] Collect Claude's completed research as
   `working/10_active/as_ten_designed_declensional_variations_claude_research.md`
-  if it becomes available. This is no longer a blocker.
+  and audit its strongest passage-level findings.
 - [x] Collect Gemini's completed research as
   `working/10_active/as_ten_designed_declensional_variations_gemini_research.md`.
 - [x] Complete an independent Codex source audit:
@@ -152,8 +171,19 @@ method, and rationale behind each item.
 - [x] Revalidate the repaired figure dataset: **107** numerical subrows cover
   all **83** inventory rows; **39** rows are graphable, **37** support
   absolute-only measures, and **7** remain unmeasured.
-- [ ] Reconcile Claude's results later if they become available; treat that
-  comparison as an additional audit rather than a dependency.
+- [x] Reconcile Claude's results as an additional audit rather than a
+  dependency:
+  - [x] adopt the stronger RV 6.48.1, RV 1.61.2, RV 3.32.2-3, and RV
+    10.63.2-4 passage clusters;
+  - [x] make explicit that the comparison labels describe deployment rather
+    than chronology;
+  - [x] preserve the existing Ṛgvedic prevalence corpus boundary instead of
+    merging non-equivalent DCS totals;
+  - [x] retain the narrow definitions of **SON** and **AUD** where Claude's
+    proposed expansion exceeded the evidence;
+  - [x] keep SG-10 and DU-01 functionally open because their compared forms
+    have equal syllable count and weight;
+  - [x] qualify the narrower first-person evidence for DU-09.
 - [x] Verify the first ten representative examples as a research pilot. These
   ten establish the verification method; they do not limit what appears in the
   completed figure series. “Verified” here means that the audit reached a
@@ -283,7 +313,7 @@ method, and rationale behind each item.
 - [x] Complete `[NOTE: rgveda-floating-upasarga-meter]`.
 - [x] Complete `[NOTE: aitareya-brahmana-separated-upasargas]`.
 - [x] Complete `[NOTE: vedic-akaranta-instrumental-plural-range]`.
-- [x] Complete `[NOTE: vedic-let-tarisat]`.
+- [x] Complete `[NOTE: vedic-let-bravani-tarisat]`.
 - [x] Complete `[NOTE: vedic-injunctive-vocam]`.
 - [x] Add `[NOTE: vedic-vocative-sentence-accent]`.
 - [x] Add `[NOTE: vedic-personal-ending-imasi]`.
@@ -1226,12 +1256,212 @@ generate new expression, resist natural entropy, and survive deliberate attack.
 
 ## 14. Working Conclusion
 
-The idea is too large for a single section and too central to remain scattered.
-A dedicated appendix is justified. The body needs one clear synthesis in Chapter
-14, while Chapter 0 continues to introduce the distinction gently.
+The idea is too large for a single section and too central to remain confined to
+an appendix. Chapter 0 should continue to introduce the distinction gently, but
+the ordinary reader needs the complete conceptual architecture in the main
+body. The detailed grammatical evidence can remain in a dedicated appendix.
 
 The proposed architecture also produces a stronger formulation than "Vedic has
 more forms and Classical has fewer." Sanskrit preserves a fixed corpus with all
 the realizations that corpus requires, and it preserves an open generative domain
 through a reusable productive kernel. The two domains solve different entropy
 problems together.
+
+## 15. Body–Appendix Split
+
+### Decision
+
+Split the promoted appendix into a body chapter and a technical appendix.
+
+The new body chapter should become:
+
+> **Chapter 16 — One Architecture, Two Domains**
+
+Place it after Chapter 15, *Aural Architecture*, as the conclusion of the
+anti-entropy part. The current Part VI opener will then follow the new chapter.
+Current Chapters 16–19 will become Chapters 17–20.
+
+This placement gives the argument a clear sequence:
+
+1. Chapter 13 explains preservation.
+2. Chapter 14 explains calibration.
+3. Chapter 15 explains the aural architecture that keeps the Vedic corpus exact.
+4. Chapter 16 explains why Sanskrit joins that read-only corpus to a generative
+   *laukika* domain.
+
+### Material for the Body Chapter
+
+Copy and adapt the conceptual argument now carried by:
+
+- §8.1, **One Language, Two Engineering Tasks**;
+- §8.2, including the ten designed contributions organized under four
+  architectural functions;
+- §8.8, **Samāsa, Composition, and Style**;
+- §8.9, **How Laukika Keeps Sanskrit Useful**;
+- §8.10, **How the Veda Calibrates Laukika Sanskrit**;
+- §8.11, **One Society, Two Responsibilities**; and
+- §8.12, **Two Permissions, One Architecture**.
+
+The new chapter should contain roughly 4,000–4,500 words. It should explain the
+architecture in ordinary prose, provide a few representative examples, and
+direct readers to Appendix Part 8 for the complete grammatical evidence.
+
+Proposed chapter structure:
+
+1. **Two Engineering Tasks**
+2. **Ten Contributions, Four Architectural Functions**
+3. **Audible Architecture**
+   - pitch architecture;
+   - syllable count and weight;
+   - melodic and recitational function;
+   - sonomeric selection and distinguishability; and
+   - sound pattern and resonance.
+4. **Grammatical and Compositional Range**
+   - recoverable grammatical relations;
+   - compact semantic distinctions; and
+   - poetic and compositional arrangement.
+5. **Specialized Vedic Deployment**
+   - the different functions served by the four Vedas and Vedic prose.
+6. **Preservation Through Overlapping Checks**
+   - error detection as the combined result of the preceding contributions.
+7. **How Laukika Keeps Sanskrit Useful**
+8. **How the Veda Calibrates Laukika Sanskrit**
+9. **One Society, Two Responsibilities**
+10. **Two Permissions, One Architecture**
+
+The four groupings above are **architectural functions**, not another competing
+set of technical categories. The ten items describe what a designed variation
+can contribute. The evidence sections examine the sounds, forms, placements,
+and verbal operations through which those contributions become visible.
+
+The body should not use the three-letter Designed Variation codes. It should
+refer to pitch architecture, syllable count, recoverable relations, and the
+other contributions in ordinary language. Appendix Part 8 should introduce the
+codes in a table that summarizes the body categories before using them in
+figures and technical analysis.
+
+The body subsections should vary in length according to the strength and reach
+of their evidence. Pitch, meter, grammatical relations, and error detection
+will require more explanation than sonomeric selection or corpus-specific
+deployment. Do not make the subsections artificially uniform.
+
+Each representative passage should have one primary location in the body:
+
+- **ईळे (*īḷe*)** for sonomeric selection;
+- **एमसि (*emasi*)** or **रुद्रेभिः (*rudrebhiḥ*)** for syllable count and
+  weight;
+- separated **आ ... वहन्तु (*ā ... vahantu*)** for recoverable relations;
+- **ब्रवाणि (*bravāṇi*)** for *leṭ*, semantic distinction, and collision; and
+- a verified Sāmavedic example for specialized Vedic deployment.
+
+Other sections may refer back to an example without printing and explaining
+the complete passage again. The preservation section should gather the earlier
+examples and show how several independent checks respond to a change.
+
+### Material for Appendix Part 8
+
+Retain the technical evidence under the proposed title:
+
+> **Appendix Part 8 — Designed Variations Across the Two Domains**
+
+The appendix should contain:
+
+- the ten designed contributions, the four architectural functions, and the
+  appendix-only codebook;
+- sounds, accent, duration, and exact recitation;
+- floating *upasargas* and extended *vibhakti* forms;
+- the complete 83-category Designed Variations figure series;
+- the *leṭ–loṭ* collision analysis;
+- other Vedic verbal forms; and
+- the complete technical comparison table.
+
+The technical appendix should remain approximately 5,000–5,500 words. It should
+begin with the analytical method and proceed directly into the evidence rather
+than repeating the civilizational argument developed in the body chapter.
+
+Continue organizing the technical appendix by evidence family rather than
+creating ten separate technical sections. A single form may contribute to
+meter, arrangement, recoverable relations, and error detection at the same
+time. The codebook should allow the figures to record those multiple
+contributions without repeating the passage in four sections.
+
+### Draft-first Workflow
+
+Build and approve the body chapter before moving or deleting anything in the
+promoted appendix.
+
+Create:
+
+- `working/10_active/as_ch16_one_architecture_two_domains_body_draft_codex.md`
+  for the non-building body draft; and
+- `working/10_active/as_ch16_appendix_split_ownership_codex.md` for paragraph,
+  example, figure, and subsection ownership.
+
+The ownership ledger should assign every passage to one of five states:
+
+1. **Body-owned:** conceptual explanation that belongs in Chapter 16.
+2. **Appendix-owned:** technical analysis, counts, paradigms, and figures.
+3. **Intentional overlap:** representative evidence required in the body and
+   complete documentation required in the appendix.
+4. **Remove after approval:** duplication that serves no remaining purpose.
+5. **Unresolved:** evidence or placement that still requires review.
+
+Complete the body draft in six passes:
+
+1. **Structure and ownership:** create the chapter skeleton and record the
+   source and intended owner of every copied passage.
+2. **Conceptual opening:** adapt §§8.1–8.2, introduce the ten contributions
+   under four architectural functions, and use no acronyms.
+3. **Representative evidence:** build the four architectural-function sections
+   around concrete passages, giving every example one primary location.
+4. **Civilizational synthesis:** adapt current §§8.9–8.12 and distribute the
+   relevant parts of current §8.8 between grammatical range and specialized
+   Vedic deployment.
+5. **Writing and coherence:** use plain explanatory prose, active subjects,
+   concrete actions, adequate explanation, varied paragraph length, and no
+   unnecessary repetition, abstraction, compression, legal phrasing, or
+   promotional language.
+6. **Evidence and duplication audit:** compare the complete draft against the
+   appendix, verify every claim and pointer, and classify every repeated or
+   displaced passage in the ownership ledger.
+
+Stop for author review after these six passes. Do not add the draft to
+`as_book.yaml`, renumber the existing chapters, or remove material from the
+appendix before that review is complete.
+
+### Controlled Renumbering and Migration
+
+Do not perform a blind numerical replacement. Execute the split as a controlled
+migration:
+
+- [ ] Complete and approve the non-building Chapter 16 draft.
+- [ ] Freeze the exact paragraph, example, figure, and subsection ownership
+  map.
+- [ ] Promote the approved draft to
+  `as_1_16_one_architecture_two_domains.md` without deleting material from
+  Appendix Part 8.
+- [ ] Use `git mv` to renumber the current Chapters 16–19 as Chapters 17–20.
+- [ ] Place the new chapter before the current Part VI opener.
+- [ ] Rename every affected numbered section.
+- [ ] Update the build order and chapter metadata.
+- [ ] Update contextual references to Chapters 16–20 and their numbered
+  sections; distinguish references to the new Chapter 16 from references to the
+  former Chapter 16.
+- [ ] Update endnote deployments, figure identifiers and captions, Part
+  openers, the TOC, annotated TOC, thesis summaries, claims documents, active
+  plans, and public-facing descriptions.
+- [ ] Retitle and renumber Appendix Part 8 internally after the body material
+  moves.
+- [ ] Remove duplicated prose only after every passage has an established
+  owner.
+- [ ] Preserve every removed or condensed passage in the Appendix Part 8 Lost
+  and Found document.
+- [ ] Search for stale `Chapter 16`, `§16`, `Chapter 17`, `§17`, `Chapter 18`,
+  `§18`, `Chapter 19`, `§19`, figure-number, and appendix references.
+- [ ] Rebuild the short and full trade PDFs and inspect the TOC, chapter
+  openings, running headers, figure numbering, and cross-references.
+
+The renumbering cost is substantial, but the conceptual hierarchy becomes much
+stronger. Readers receive the complete two-domain thesis in the body, while the
+appendix becomes a focused evidence bank rather than a second conceptual
+chapter.

@@ -1,10 +1,22 @@
 # Reference Appendix 8 — The ***लेट् (*leṭ*)*** Coordinate Test
 
-Appendix Part 8 uses ***तारिषत् (*tāriṣat*)*** from Ṛgveda 10.186.1 to examine a larger feature of the two-domain architecture. The received mantra preserves a useful ***लेट् (*leṭ*)*** form. The *laukika* domain expresses much of the same range through ***लोट् (*loṭ*)***, ***लिङ् (*liṅ*)***, ***आशीर्लिङ् (*āśīrliṅ*)***, and ***लृट् (*lṛṭ*)***. This appendix tests what would happen if *leṭ* also operated as a complete productive paradigm in unrestricted *laukika* composition.
+Appendix Part 8 begins with **ब्रवाणि (*bravāṇi*)** from Ṛgveda 6.16.16. The mantra uses it as ***लेट् (*leṭ*)***, although the same visible form belongs to ***लोट् (*loṭ*)*** in productive *laukika* Sanskrit. The appendix then places it beside **तारिषत् (*tāriṣat*)** from Ṛgveda 10.186.1, where *leṭ* adds a desired or prospective force without producing the same visible collision.
+
+Together, the two passages show the benefit and the cost of the additional Vedic *lakāra*. The *laukika* domain expresses much of the same range through *loṭ*, ***लिङ् (*liṅ*)***, ***आशीर्लिङ् (*āśīrliṅ*)***, and ***लृट् (*lṛṭ*)***. This appendix compares all eighteen person-number-*pada* coordinates to see what would happen if *leṭ* also operated as a complete productive paradigm in unrestricted *laukika* composition.
 
 The result has two parts. Exact formal collisions cluster in the first person, where *laukika loṭ* and Vedic *leṭ* use the same forms. Semantic overlap is much wider because Pāṇini explicitly assigns *leṭ* to meanings also served by *liṅ*. The evidence supports the coordinate test as an architectural inference. It does not prove why Sanskrit's engineers selected this division between the two domains.
 
-## What the Vedic Passage Preserves
+## What the Vedic Passages Preserve
+
+Ṛgveda 6.16.16 uses:
+
+> एह्यू षु ब्रवाणि तेऽग्न इत्थेतरा गिरः ।
+>
+> *ehy ū ṣu bravāṇi te 'gna itthetarā giraḥ |*
+>
+> Come now, Agni. May I address other praises to you in this way.
+
+A student trained in *laukika* Sanskrit would identify **ब्रवाणि** as first-person singular *loṭ*: “let me speak.” In this mantra it is *leṭ*: “may I speak” or “I shall speak.” The visible form is identical, so the passage provides the clearest example of the *leṭ–loṭ* collision.
 
 Ṛgveda 10.186.1 closes:
 
@@ -14,7 +26,7 @@ The result has two parts. Exact formal collisions cluster in the first person, w
 >
 > May it prolong our lives.
 
-The passage preserves **तारिषत् (*tāriṣat*)** together with its accent, position, surrounding words, and desired or prospective meaning. The form does not have to be generated afresh or distinguished from every possible sentence. Each reciter receives it inside the same read-only passage.
+The passage preserves **तारिषत् (*tāriṣat*)** together with its accent, position, surrounding words, and desired or prospective meaning. Vedic *svara* contributes an audible grammatical signal, while the fixed words, syntax, and sequence complete the interpretation. The form does not have to be generated afresh or distinguished from every possible sentence. Each reciter receives it inside the same read-only passage.
 
 ## What Pāṇini Documents
 
@@ -35,7 +47,7 @@ The dedicated *leṭ* sequence ends at 3.4.98. Rules 3.4.99–100 begin the foll
 
 ## The Formal Collision
 
-The tables compare the principal *leṭ* endings with productive *laukika loṭ*. Vedic *leṭ* permits additional variants, especially through the optional operations above. The entries below show where the written forms can become identical; accent and a fixed Vedic passage may still preserve a different analysis.
+The tables compare the principal *leṭ* endings with productive *laukika loṭ*. Vedic *leṭ* permits additional variants, especially through the optional operations above. The entries below show where the written forms can become identical. Vedic pitch does not label every *lakāra* uniquely, but it adds grammatical information that helps the invariant passage bound these collisions.
 
 ### परस्मैपदम् (*parasmaipadam*)
 
@@ -89,11 +101,11 @@ The evidence supports four findings:
 1. **The Vedic form contributes meaning.** **तारिषत्** expresses desired or prospective prolonging inside its mantra.
 2. **The formal collision is real but concentrated.** It appears most clearly in first-person *leṭ* and *loṭ* forms across both *padas*.
 3. **The semantic overlap is broad.** Pāṇini directly relates *leṭ* to *liṅ* meanings, while *laukika* Sanskrit also uses *loṭ, āśīrliṅ,* and *lṛṭ* across adjacent territory.
-4. **The fixed passage reduces ambiguity.** The words, accent, sequence, and meaning remain together. Unrestricted composition would require each new listener or reader to recover the intended analysis.
+4. **Pitch and the fixed passage bound the ambiguity.** The Vedic pitch system contributes an audible layer of grammatical interpretation. The words, syntax, sequence, and inherited meaning remain fixed with it. Unrestricted *laukika* composition would have to recover the intended analysis in newly created sentences without that pitch layer.
 
-The pattern makes *leṭ* a strong example of domain-specific engineering. The read-only domain preserves a useful distinction in the exact passages that use it. The read-write domain avoids carrying a complete additional paradigm whose unique benefit is limited, whose meanings overlap with existing resources, and whose first-person forms can be identical to productive *loṭ*.
+The pattern makes *leṭ* a strong example of domain-specific engineering. The read-only domain can sustain greater grammatical breadth because pitch and the invariant passage keep that breadth bounded. The read-write domain operates without the Vedic pitch layer and avoids carrying a complete additional paradigm whose unique benefit is limited, whose meanings overlap with existing resources, and whose first-person forms can be identical to productive *loṭ*.
 
-The architectural explanation remains an inference rather than a recorded design decision. No surviving source states that Sanskrit's engineers excluded productive *leṭ* for this reason. The pattern nevertheless passes the same benefit-to-confusion test used for a proposed sonomer coordinate: a possible reusable element must contribute enough distinctive value to justify the ambiguity and complexity it adds.
+The surviving sources do not record the engineers' reason for keeping *leṭ* within Vedic scope. The architecture nevertheless permits a direct comparison of benefit and confusion. A reusable element must contribute enough distinctive value to justify the ambiguity and complexity it adds. *Leṭ* provides useful grammatical range inside invariant Vedic passages; across unrestricted *laukika* composition, it would repeatedly collide with forms and meanings already carried by the productive system.
 
 ## Sources
 

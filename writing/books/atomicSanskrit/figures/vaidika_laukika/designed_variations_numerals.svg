@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- lineage: py
      canonical-source: designed_variations_numerals.from-py.svg
-     updated: 2026-07-26 -->
+     updated: 2026-07-27 -->
 <svg xmlns="http://www.w3.org/2000/svg" width="4.75in" height="3.681in" viewBox="0 0 1200 930">
 <rect width="1200" height="930" fill="#f7f4ed"/>
 <text x="28.0" y="54.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="42" font-weight="600" font-style="normal" fill="#29251f" text-anchor="start">Designed Variations: Numerals</text>
@@ -12,86 +12,86 @@
 <text x="462.0" y="161.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">Relation</text>
 <text x="704.0" y="161.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">Qualification</text>
 <text x="946.0" y="161.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">DV</text>
-<text x="1102.0" y="161.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">Evidence</text>
-<text x="122.0" y="196.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">Vaidika → laukika</text>
+<text x="1180.0" y="161.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">Evidence</text>
+<text x="122.0" y="196.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">Vaidika range · laukika productive form</text>
 <text x="800.0" y="196.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">Prevalence</text>
 <line x1="28" y1="208" x2="1172" y2="208" stroke="#cfc6b5" stroke-width="1"/>
 <text x="28.0" y="240.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">NU-01</text>
 <text x="122.0" y="240.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">द्व (dva)</text>
 <text x="462.0" y="240.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">System-wide dual patt…</text>
-<text x="122.0" y="279.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: द्वा (dvā)  →  L: द्वौ (dvau)</text>
+<text x="122.0" y="279.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: द्वा (dvā)  ·  L: द्वौ (dvau)</text>
 <text x="946.0" y="240.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="start">—</text>
 <rect x="800" y="267" width="54" height="9" rx="4.5" fill="#e8dfcc"/>
 <rect x="800" y="267" width="43.7" height="9" rx="4.5" fill="#9d7c36"/>
 <text x="864.0" y="279.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">81.0% 17/21 tok · A</text>
-<text x="1102.0" y="240.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
+<text x="1180.0" y="240.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
 <rect x="28" y="298" width="1144" height="90" fill="#f0ece3"/>
 <line x1="28" y1="298" x2="1172" y2="298" stroke="#cfc6b5" stroke-width="1"/>
 <text x="28.0" y="330.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">NU-02</text>
 <text x="122.0" y="330.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">त्रि (tri) neuter</text>
 <text x="704.0" y="330.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">COMMON</text>
 <text x="462.0" y="330.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">Numeral-specific</text>
-<text x="122.0" y="369.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: त्री (trī) · त्री…  →  L: त्रीणि (trīṇi)</text>
+<text x="122.0" y="369.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: त्री (trī) · त्री…  ·  L: त्रीणि (trīṇi)</text>
 <text x="946.0" y="330.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="start">—</text>
 <rect x="800" y="357" width="54" height="9" rx="4.5" fill="#e8dfcc"/>
 <rect x="800" y="357" width="22.0" height="9" rx="4.5" fill="#9d7c36"/>
 <text x="864.0" y="369.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">40.7% 22/54 tok · A</text>
-<text x="1102.0" y="330.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
+<text x="1180.0" y="330.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
 <line x1="28" y1="388" x2="1172" y2="388" stroke="#cfc6b5" stroke-width="1"/>
 <text x="28.0" y="420.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">NU-03</text>
 <text x="122.0" y="420.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">त्रि genitive</text>
 <text x="704.0" y="420.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">ISOLATED</text>
 <text x="462.0" y="420.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">Rare numeral form</text>
-<text x="122.0" y="459.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: त्रीणाम् (trīṇām)  →  L: त्रयाणाम् (trayāṇ…</text>
+<text x="122.0" y="459.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: त्रीणाम् (trīṇām)  ·  L: त्रयाणाम् (trayāṇ…</text>
 <text x="946.0" y="420.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="start">—</text>
 <circle cx="808" cy="451" r="7" fill="#9d7c36" stroke="#9d7c36" stroke-width="2"/>
 <text x="824.0" y="459.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">1 tok · A</text>
-<text x="1102.0" y="420.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
+<text x="1180.0" y="420.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
 <rect x="28" y="478" width="1144" height="90" fill="#f0ece3"/>
 <line x1="28" y1="478" x2="1172" y2="478" stroke="#cfc6b5" stroke-width="1"/>
 <text x="28.0" y="510.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">NU-04</text>
 <text x="122.0" y="510.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">अष्ट (aṣṭa) nominative-a…</text>
 <text x="704.0" y="510.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">1:2:3 across six…</text>
 <text x="462.0" y="510.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">Numeral-specific range</text>
-<text x="122.0" y="549.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: अष्ट, अष्टा, अष्ट…  →  L: अष्ट (aṣṭa) · अष्…</text>
+<text x="122.0" y="549.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: अष्ट, अष्टा, अष्ट…  ·  L: अष्ट (aṣṭa) · अष्…</text>
 <text x="946.0" y="510.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="start">—</text>
 <rect x="800" y="537" width="54" height="9" rx="4.5" fill="#e8dfcc"/>
 <rect x="800" y="537" width="9.0" height="9" rx="4.5" fill="#9d7c36"/>
 <text x="864.0" y="549.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">16.7% 1/6 tok · A</text>
 <text x="1064.0" y="549.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">+2</text>
-<text x="1102.0" y="510.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
+<text x="1180.0" y="510.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">OPEN</text>
 <line x1="28" y1="568" x2="1172" y2="568" stroke="#cfc6b5" stroke-width="1"/>
 <text x="28.0" y="600.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">NU-05</text>
 <text x="122.0" y="600.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">numerals five and above</text>
 <text x="704.0" y="600.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">N/A · checked ex…</text>
 <text x="462.0" y="600.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">Case-agreement differ…</text>
-<text x="122.0" y="639.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: Vedic can leave t…  →  L: Laukika normally…</text>
+<text x="122.0" y="639.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: Vedic can leave t…  ·  L: Laukika normally…</text>
 <text x="946.0" y="600.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">SEM·REL</text>
 <circle cx="808" cy="631" r="7" fill="none" stroke="#9d7c36" stroke-width="2"/>
 <text x="824.0" y="639.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">40 tok · C</text>
-<text x="1102.0" y="600.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">P + FN · OP…</text>
+<text x="1180.0" y="600.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">P + FN · OP…</text>
 <rect x="28" y="658" width="1144" height="90" fill="#f0ece3"/>
 <line x1="28" y1="658" x2="1172" y2="658" stroke="#cfc6b5" stroke-width="1"/>
 <text x="28.0" y="690.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">NU-06</text>
 <text x="122.0" y="690.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">hundred and thousand</text>
 <text x="704.0" y="690.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">N/A · two checke…</text>
 <text x="462.0" y="690.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">Case-agreement differ…</text>
-<text x="122.0" y="729.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: Vedic can use the…  →  L: Laukika more regu…</text>
+<text x="122.0" y="729.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: Vedic can use the…  ·  L: Laukika more regu…</text>
 <text x="946.0" y="690.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">SEM·REL</text>
 <circle cx="808" cy="721" r="7" fill="none" stroke="#9d7c36" stroke-width="2"/>
 <text x="824.0" y="729.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">53 tok · C</text>
 <text x="1064.0" y="729.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">+1</text>
-<text x="1102.0" y="690.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">P + FN</text>
+<text x="1180.0" y="690.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">P + FN</text>
 <line x1="28" y1="748" x2="1172" y2="748" stroke="#cfc6b5" stroke-width="1"/>
 <text x="28.0" y="780.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">NU-07</text>
 <text x="122.0" y="780.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">cardinal accent with obl…</text>
 <text x="704.0" y="780.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">N/A</text>
 <text x="462.0" y="780.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">Accent, not form</text>
-<text x="122.0" y="819.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -bhiḥ, -bhyaḥ, -s…  →  L: different accentu…</text>
+<text x="122.0" y="819.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -bhiḥ, -bhyaḥ, -s…  ·  L: different accentu…</text>
 <text x="946.0" y="780.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">SVR·REL</text>
 <rect x="800" y="804" width="22" height="15" fill="none" stroke="#8b8377" stroke-width="2" stroke-dasharray="4 3"/>
 <text x="830.0" y="819.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#8b8377" text-anchor="start">open · U</text>
-<text x="1102.0" y="780.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">P + FN · OP…</text>
+<text x="1180.0" y="780.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="middle">P + FN · OP…</text>
 <line x1="28" y1="838" x2="1172" y2="838" stroke="#cfc6b5" stroke-width="1"/>
 <text x="28.0" y="875.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="24" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">Measures:</text>
 <rect x="139" y="863" width="45" height="8" rx="4" fill="#9d7c36"/>

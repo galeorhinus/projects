@@ -77,7 +77,7 @@ The established bond between word and meaning comes first. Worldly usage follows
 
 The frequently cited Vedic features can be examined through the same distinction. A shorter instrumental plural and a longer one can coexist because meter can require different syllable counts: ***devaiḥ*** may fit one position, while ***devebhiḥ*** may fit another. Their coexistence does not by itself establish an older form changing into a newer one. It shows that the metrical domain has more than one form available for a defined task.
 
-Vedic accent supplies another example. The recitation lineages continue to preserve its pitch distinctions because exact Vedic transmission requires them. Laukika speech and composition do not deploy accent in the same manner. Calling the accent “lost” collapses the two domains and ignores the one in which the feature remains fully alive.
+Vedic accent supplies another example. The recitation lineages continue to preserve its rule-governed pitch distinctions because *svara* forms part of the grammatical interpretation of a Vedic passage as well as its exact sound. Laukika speech and composition operate without that interpretive layer and use a tighter productive grammar suited to new expression. Calling the accent “lost” collapses the two domains and ignores the one in which the feature remains fully alive.
 
 The same reasoning applies to ***pluta*** vowels and the ***leṭ-lakāra***. A *pluta* vowel belongs to specified recitational circumstances. The *leṭ-lakāra* belongs to the Vedic field that Pāṇini marks with ***chandasi***. Their restricted use does not show debris from a language on its way to extinction. It shows that Sanskrit assigns resources to the domains and modes that require them.
 
@@ -234,7 +234,7 @@ The principal claims can now be compared directly.
 | Pāṇini codified Sanskrit because drift had become dangerous. | Patañjali places the established word-meaning bond before usage and *śāstra*. Pāṇini documents operations within that established order. |
 | Vedic and Classical Sanskrit are chronological stages. | *Vaidika* and *laukika* are domains; *chandas* and *bhāṣā* are modes. Pāṇini's rule contexts do not establish the imported timeline. |
 | The subjunctive disappeared. | Pāṇini documents *leṭ* under *chandasi*. Its bounded Vedic deployment is a mode difference before it is evidence of chronological loss. |
-| Vedic accent disappeared. | Vedic transmission continues to preserve accent in recitation. Laukika *bhāṣā* does not use the same specification. |
+| Vedic accent disappeared. | Vedic transmission continues to preserve accent as sound and grammatical interpretation. Laukika *bhāṣā* does not use the same pitch layer. |
 | Vedic infinitive variety proves an earlier, looser language. | The Vedic forms provide different derivational and metrical possibilities. Their distribution must be examined in context before chronology is inferred. |
 | Pāṇini's alternatives reveal unsettled usage. | Operators such as *vā* and *vibhāṣā* state the conditions under which alternatives are licensed. Bounded optionality is part of the specification. |
 | The *Prākṛta* languages prove the calibrant was mutating naturally. | Living languages change and flourish around Sanskrit. Their development does not establish that Sanskrit's calibrated architecture collapsed into the same process. |
