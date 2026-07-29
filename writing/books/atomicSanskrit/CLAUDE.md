@@ -308,15 +308,15 @@ The book's central technical vocabulary has parallel Sanskrit and English forms.
 
 The Sanskrit individual terms (*varṇa*, *dhātuḥ*, *racanā*, *śabda*, *upasarga*, *pratyaya*) are all traditional grammatical vocabulary. No flagging needed on use. The **Sanskrit compound *dhāturacanā* in its specific technical sense** (the abstract template a *dhātuḥ* fills) is the book's coinage — the compound is morphologically valid Sanskrit but the technical sense is new. The **English chemistry vocabulary** — *atomic scaffold*, *atomic particle*, *atom*, *molecule*, *bond* in the *dhātuḥ*-context — is the book's distinctive analytical framing, not a standard linguistic vocabulary.
 
-**On first use of a coined compound, anchor in the etymology rather than meta-narrate.** Example: *"the **dhāturacanā** — dhātu (atom) + racanā (arrangement), atomic scaffold"*. The reader sees the coinage assembled from recognizable parts; the voice stays declarative; no *"what this book calls"* construction is used. A glossary appendix (`as_3_10_glossary.md`) carries the durable disambiguation between standard and coined terms; per-term endnotes carry the rationale where the etymology alone isn't enough.
+**On first use of a coined compound, anchor in the etymology rather than meta-narrate.** Example: *"the **dhāturacanā** — dhātu (atom) + racanā (arrangement), atomic scaffold"*. The reader sees the coinage assembled from recognizable parts; the voice stays declarative — an etymology-anchored coinage is *assembled* from its parts, not announced. (This differs from the book's *original analytical frameworks*, which the book does name and claim openly — see *Announcing a coinage* below.) A glossary appendix (`as_3_10_glossary.md`) carries the durable disambiguation between standard and coined terms; per-term endnotes carry the rationale where the etymology alone isn't enough.
 
-**Banned phrases** (procedural-polemic voice violations):
-- *"what this book calls…"*
-- *"what we name…"*
-- *"the term I use is…"*
-- *"what I call…"*
+**Announcing a coinage — own the original frameworks; never claim the restored words.**
 
-The book commits to a term. It does not announce that it is doing so.
+This book does original analytical work the pyramid will not do, and it owns that work out loud. For the book's **original coinages** — its analytical frameworks and named concepts (*PASS — the Principle of Architectural Selection and Scope*; *heroic erasure*; *architecture of containment*; the *calibrant* frame; *fourth Abrahamic religion*; the chemistry idiom) — announcing authorship is confident, not hedged: *"the book calls this method the Principle of Architectural Selection and Scope, or PASS"* is correct and welcome. These are proprietary contributions; name them, claim them, carry them through the piece.
+
+The announcement ban survives in **one place only: restored and traditional terms.** Never present a restored word as the book's invention. *Dhātuḥ*, *akṣara*, *varṇa*, and the traditional grammatical vocabulary are **Sanskrit's**, written back by the book, not coined by it (see *Displacement coinage* below). *"What this book calls dhātuḥ"* is both false and self-defeating — it concedes the pyramid's premise that the precise word had to be supplied from outside. For a restored word, anchor in the etymology and enact the restoration in silence; for an etymology-built coinage like *dhāturacanā*, assemble it from its parts rather than announce it.
+
+**The test:** *does the book own the term, or is it giving a stolen word back?* Own the original frameworks by name; return the restored words without a byline.
 
 ### Displacement coinage — restore the precise word, then use it as standard
 
