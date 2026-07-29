@@ -38,7 +38,7 @@ figures/
 Chapter folders currently in the tree: `about_series`, `adivadya` (Ch 7),
 `apabhramsa` (Ch 5), `audiography` (App Part 3), `building_dhatuh` (Ch 10),
 `building_kriya` (Ch 11), `building_vakya` (Ch 12), `fourth_abrahamic`
-(Ch 3), `ganah` (Ch 11), `mapping_mouth` (Ch 8), `pie_in_sky` (Ch 18),
+(Ch 3), `ganah` (Ch 11), `mapping_mouth` (Ch 8), `pie_in_sky` (Ch 19),
 `preface_modes` (Preface), `siddha_grammar` (Ch 4), `strategic` (Ch 2).
 
 There is **no `figures/build/`** directory.  Outputs live in the chapter

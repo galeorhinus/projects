@@ -207,7 +207,7 @@ col tot          99     133       304      242      142  |  920
 
 1. **OCP (Obligatory Contour Principle)** — diagonal cells (same-varga C₁ + C₂) are systematically suppressed. कण्ठ्य × कण्ठ्य = 7, चवर्ग × चवर्ग = 2, ओष्ठ्य × ओष्ठ्य = 10. Off-diagonal cells 5–15× higher.
 
-2. **मूर्धन्य as C₂ asymmetry** — मूर्धन्य appears 304 times as C₂ vs 123 times as C₁. Retroflex is engineered into the *final* consonant position. Ties to Ch 16's *mūrdhanya* engineering claim.
+2. **मूर्धन्य as C₂ asymmetry** — मूर्धन्य appears 304 times as C₂ vs 123 times as C₁. Retroflex is engineered into the *final* consonant position. Ties to Ch 17's *mūrdhanya* engineering claim.
 
 **Dominant trajectory cells:**
 - ओष्ठ्य × दन्त्य: 99 (lip-release, dental-settle)
@@ -314,7 +314,7 @@ The *varṇamālā* documents place × manner. Position-preference (initial vs f
 ## 10. References to chapter prose
 
 - **Ch 7-8**: *varṇamālā* engineering (place × manner × voicing × aspiration); the canonical 2D classification.
-- **Ch 16**: retroflex / *mūrdhanya* engineering — Pattern 4 (place trajectory) and Pattern 11 (मूर्धन्य as dual-role place) provide empirical evidence.
+- **Ch 17**: retroflex / *mūrdhanya* engineering — Pattern 4 (place trajectory) and Pattern 11 (मूर्धन्य as dual-role place) provide empirical evidence.
 - **Ch 10 §§10.2-10.5**: *varṇa → dhātu → śabda* pipeline, *svara/vyañjana* roles, *mātrā* envelope, and *dhāturacanā* scaffold procedure.
 - **Ch 10 §10.6**: sonomer-count and *mātrā* compression check.
 - **Ch 10 §§10.7-10.13**: scaffold concentration, *prayoga* deployment, and the four engineering verdicts (compression, distinguishability, engineering-poetry, *vaicitrya*). The position-role figure provides empirical support for distinguishability principle (engineering at the position-axis level).

@@ -124,7 +124,7 @@ The ***लौकिक (laukika)*** domain is also old. Both *vaidika* and *lauk
 
 Their contents, however, have aged differently.
 
-The *vaidika* domain preserves received content exactly. Once a mantra was seen and entered its transmission lineage, its words, sounds, pitch, meter, and arrangement became read-only. Appendix Part 8, “One Architecture, Two Domains,” examines the read-only and read-write permissions in detail. The architecture protects the mantra from alteration.
+The *vaidika* domain preserves received content exactly. Once a mantra was seen and entered its transmission lineage, its words, sounds, pitch, meter, and arrangement became read-only. Chapter 16 examines the read-only and read-write permissions in detail, while Appendix Part 8 documents the grammatical evidence. The architecture protects the mantra from alteration.
 
 The *laukika* domain remains open to composition. People use it to tell stories, write poetry, analyze mathematics, record astronomy, debate philosophy, and describe circumstances that no earlier composition could have anticipated. By definition, its corpus contains material composed across different periods.
 

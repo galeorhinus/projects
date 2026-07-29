@@ -102,7 +102,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 6.4 The Four Classifications Under Entropy — *Natural languages absorb variation; authorities keep variation out of the forms they have petrified; constructed projects return to their plan or enter botanical change; Sanskrit detects and corrects departure through its distributed architecture.*
 - 6.5 Engineered Against Entropy — *Grammar, meter, heard transmission, recensional discipline, and combinatorial recitation detect different kinds of departure before another generation inherits them.*
 - 6.6 Variation Is Not Drift — *Sanskrit assigns documented differences to function, mode, recension, option, meter, or transmission stream; chronology cannot substitute for a demonstrated mechanism of change.*
-- 6.7 Orbit and Drift — *The term **calibrant** for the engineered anchoring internal to Sanskrit; three distances place Sanskrit at the center, Marathi and Hindi within its orbit, and English beyond the active field. Chapter 14 develops the internal **calibration matrix**; Chapter 18 follows radiance into contact languages.*
+- 6.7 Orbit and Drift — *The term **calibrant** for the engineered anchoring internal to Sanskrit; three distances place Sanskrit at the center, Marathi and Hindi within its orbit, and English beyond the active field. Chapter 14 develops the internal **calibration matrix**; Chapter 19 follows radiance into contact languages.*
 - 6.8 The Fall Is Not Only Linguistic — *The same entropic pressure can pull any engineered order away from its design, while asuric action accelerates and weaponizes the resulting disorder; later volumes extend the fractal beyond language.*
 
 ---
@@ -134,7 +134,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 8.7 The Forest-Belt Survey: 18 of 23 — *Korku, Mundari, and Ho light eighteen of the twenty-three.*
 - 8.8 External Controls — *Western IE and Central Asian controls show much lower coverage.*
 - 8.9 The Gaps Are Neighbors — *The missing cells are nearby mouth-neighbors, not structural absences.*
-- 8.10 The Retroflex Band — *The retroflex row as a subcontinental signature; points forward to Chapter 16.*
+- 8.10 The Retroflex Band — *The retroflex row as a subcontinental signature; points forward to Chapter 17.*
 - 8.11 Breath in the Field — *Mahāprāṇa *and* visarga *prepared as breath made structural.*
 - 8.12 What the Field Shows — *The field supplies material; Chapter 9 shows the sieve and the grid.*
 
@@ -198,6 +198,19 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 15.4 Empirical Verification — *Cross-lineage preservation; Frits Staal's fieldwork; UNESCO 2003; testable by anyone with recordings.*
 - 15.5 The Living Architecture — *Three implications: preservation is observable, the engineering is real, the architecture is running now.*
 
+**Chapter 16 — One Architecture, Two Domains** — *Explains why Sanskrit operates through two complementary permissions. The Vedic domain preserves received passages exactly as a read-only calibrant; the laukika domain keeps the same architecture available for new composition. Representative examples show how bounded Vedic passages can preserve additional sounds, endings, placements, pitch, and verbal forms without burdening unrestricted composition with the same collisions.*
+
+- 16.1 Two Engineering Tasks — *Sanskrit must resist entropy and asuric assault while remaining useful in every age.*
+- 16.2 Ten Contributions, Four Architectural Functions — *The designed differences grouped by audible architecture, grammatical range, specialized deployment, and overlapping checks.*
+- 16.3 Audible Architecture — *Pitch, meter, selected sounds, resonance, and memory.*
+- 16.4 Grammatical and Compositional Range — *Floating upasargas, recoverable relations, and the bounded collision of* leṭ.
+- 16.5 Specialized Vedic Deployment — *The four Vedas and their associated expansions place Sanskrit under different functional demands.*
+- 16.6 Preservation Through Overlapping Checks — *Sound, pitch, meter, grammar, sequence, and lineage detect different kinds of change.*
+- 16.7 How Laukika Keeps Sanskrit Useful — *Stable architecture generates new poetry, science, manufacturing, trade, and ordinary expression.*
+- 16.8 How the Veda Calibrates Laukika Sanskrit — *The Vedas preserve the architecture in operation; the analytical disciplines make it teachable.*
+- 16.9 One Society, Two Responsibilities — *The same people and lineages can preserve read-only Vedic material and create within laukika Sanskrit.*
+- 16.10 Two Permissions, One Architecture — *The two-domain design answers both entropy and deliberate destruction.*
+
 ---
 
 ## Part VI — Dispelling Rāhu
@@ -205,41 +218,40 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 
 *The eclipse-device itself — Rāhu, the imaginary ancestor placed over the Sun — comes into view, and the plates that subordinate Sanskrit to it are lifted: the subcontinental mouth-and-mind evidence, the wrong question, and the dispelling of PIE.*
 
-**Chapter 16 — The Subcontinental Mouth and Mind** — *Establishes that Sanskrit encodes the subcontinent's mouth and mind before the portability thesis is tested: retroflex articulation, reduplication, receiver grammar, doer-demotion, and folded action. The chapter then makes the migration account walk its own claimed northwest route.*
+**Chapter 17 — The Subcontinental Mouth and Mind** — *Establishes that Sanskrit encodes the subcontinent's mouth and mind before the portability thesis is tested: retroflex articulation, reduplication, receiver grammar, doer-demotion, and folded action. The chapter then makes the migration account walk its own claimed northwest route.*
 
-- 16.1 The Mouth: *Mūrdhanya* — *The curled tongue, the Veda's first word, and the subcontinental sound-field.*
-- 16.2 The Mouth Doubles: Reduplication — *Repetition as field habit, then as Sanskrit architecture.*
-- 16.3 The Mind Receives: *Sampradāna* — *The self as receiver rather than sovereign agent.*
-- 16.4 The Mind De-centers: *Karmaṇi* and *Bhāve* — *The doer steps back; the action or affected thing can stand forward.*
-- 16.5 The Mind Sequences: The Folded Action — *Prior action compressed into forms such as pītvā and hatvā.*
-- 16.6 One Field, Encoded — *The five features gathered as one subcontinental field.*
-- 16.7 The Notices — *The pyramid's changing Aryan notices mocked by their retained custody tag.*
-- 16.8 The Borrowing Model Fails — *The claimed route must explain the cluster Sanskrit encodes structurally.*
-- 16.9 The Corpus Cannot Be Rewritten — *The Vedic corpus already preserves the field; style and mode are not chronology.*
-- 16.10 Engineering, Not Contact — *Contact can move forms; engineering assigns place, role, and scale.*
-- 16.11 What the Grammar Keeps — *The grammar preserves a stance that refuses to crown the ego.*
+- 17.1 The Mouth: *Mūrdhanya* — *The curled tongue, the Veda's first word, and the subcontinental sound-field.*
+- 17.2 The Mouth Doubles: Reduplication — *Repetition as field habit, then as Sanskrit architecture.*
+- 17.3 The Mind Receives: *Sampradāna* — *The self as receiver rather than sovereign agent.*
+- 17.4 The Mind De-centers: *Karmaṇi* and *Bhāve* — *The doer steps back; the action or affected thing can stand forward.*
+- 17.5 The Mind Sequences: The Folded Action — *Prior action compressed into forms such as pītvā and hatvā.*
+- 17.6 One Field, Encoded — *The five features gathered as one subcontinental field.*
+- 17.7 The Notices — *The pyramid's changing Aryan notices mocked by their retained custody tag.*
+- 17.8 The Borrowing Model Fails — *The claimed route must explain the cluster Sanskrit encodes structurally.*
+- 17.9 The Corpus Cannot Be Rewritten — *The Vedic corpus already preserves the field; style and mode are not chronology.*
+- 17.10 What Sanskrit Builds from the Field — *The grammar transforms the subcontinental mouth-and-mind field into a precise architecture.*
 
-**Chapter 17 — The Wrong Question** — *Argues at the level of categories of explanation. The genealogical project asks the wrong question. The architectural test names what any valid model of Sanskrit must explain; the precursor model fails for the same structural reason.*
+**Chapter 18 — The Wrong Question** — *Argues at the level of categories of explanation. The genealogical project asks the wrong question. The architectural test names what any valid model of Sanskrit must explain; the precursor model fails for the same structural reason.*
 
-- 17.1 The Architectural Test — *Six core features any valid model of Sanskrit must explain.*
-- 17.2 What Genealogy Cannot Provide — *The categorical failure of genealogical explanation for engineered systems.*
-- 17.3 The Test Applied — *The PIE-precursor model fails on each architectural feature in turn.*
-- 17.4 Gaslighting with Footnotes — *The apparatus that turns a civilization's own memory-work against itself.*
-- 17.5 How the Story Got Built — *The pyramid's speculation chain and the dharmic alternative, contrasted.*
-- 17.6 The Migration Trap — *The racial Arya thesis survives by trapping the debate inside* movement *— movement is not authorship; the script-domain twin of Appendix Part 3 §3.5.*
-- 17.7 An Honest Speculation for the Rationalist Mind — *The calibrated alternative for the mind that cannot accept* apauruṣeya.
-- 17.8 Pāṇini Praised, Architecture Erased — *The heroic-erasure close: Pāṇini's greatness granted, then reclassified as decoding.*
+- 18.1 The Architectural Test — *Six core features any valid model of Sanskrit must explain.*
+- 18.2 What Genealogy Cannot Provide — *The categorical failure of genealogical explanation for engineered systems.*
+- 18.3 The Test Applied — *The PIE-precursor model fails on each architectural feature in turn.*
+- 18.4 Gaslighting with Footnotes — *The apparatus that turns a civilization's own memory-work against itself.*
+- 18.5 How the Story Got Built — *The pyramid's speculation chain and the dharmic alternative, contrasted.*
+- 18.6 The Migration Trap — *The racial Arya thesis survives by trapping the debate inside* movement *— movement is not authorship; the script-domain twin of Appendix Part 3 §3.5.*
+- 18.7 An Honest Speculation for the Rationalist Mind — *The calibrated alternative for the mind that cannot accept* apauruṣeya.
+- 18.8 Pāṇini Praised, Architecture Erased — *The heroic-erasure close: Pāṇini's greatness granted, then reclassified as decoding.*
 
-**Chapter 18 — PIE in the Sky** — *The case against PIE. The bookkeeping defense is rejected; the asterisk is denied ancestor-status; the recipe is shown through* kṛt, jan, asura, *and* yuj. *PIE is in the sky. The architecture is on the ground.*
+**Chapter 19 — PIE in the Sky** — *The case against PIE. The bookkeeping defense is rejected; the asterisk is denied ancestor-status; the recipe is shown through* kṛt, jan, asura, *and* yuj. *PIE is in the sky. The architecture is on the ground.*
 
-- 18.1 Schleicher's Bake — *Opening anecdote; the asterisk convention; the conlang comparison (Quenya, Klingon).*
-- 18.2 The Bookkeeping Defense — *Why methodological openness cannot save the construct.*
-- 18.3 What PIE Cannot Explain — *Engineered-architecture features the PIE framework cannot accommodate.*
-- 18.4 The Cementing — *Third-pillar diagnosis; recent-decades cementing in routine reference.*
-- 18.5 The Recipe, Step by Step — *The* kṛt / \*(s)ker- *case: mobile* s, *meaningless extension, zero-grade device, and the Sanskrit atom at the center.*
-- 18.6 Kin, Kind, King: the Dictionary Shift — *The* jan / \*ǵenh₁ *case: the star moves into the source slot and Sanskrit is demoted into the cognate list.*
-- 18.7 *Pratibimba* — *Vivimorphosis chains, the calibrant /* Pratibimba *triad, and a compact* yuj / yoke *demonstration introduce the Sanskrit Radiance Mapping Project; Appendix Part 1 develops the reusable method and further cases.*
-- 18.8 PIE Is a Lie — *Asura* — Asuraḥ *worked example, the* PIE is a Lie *escalation, and the chapter's final handoff toward life after PIE.*
+- 19.1 Schleicher's Bake — *Opening anecdote; the asterisk convention; the conlang comparison (Quenya, Klingon).*
+- 19.2 The Asterisk Defense — *Why methodological openness cannot save the construct.*
+- 19.3 What PIE Cannot Explain — *Engineered-architecture features the PIE framework cannot accommodate.*
+- 19.4 The Cementing — *Third-pillar diagnosis; recent-decades cementing in routine reference.*
+- 19.5 The Recipe, Step by Step — *The* kṛt / \*(s)ker- *case: mobile* s, *meaningless extension, zero-grade device, and the Sanskrit atom at the center.*
+- 19.6 Kin, Kind, King: the Dictionary Shift — *The* jan / \*ǵenh₁ *case: the star moves into the source slot and Sanskrit is demoted into the cognate list.*
+- 19.7 *Pratibimba* — *Vivimorphosis chains, the calibrant /* Pratibimba *triad, and a compact* yuj / yoke *demonstration introduce the Sanskrit Radiance Mapping Project; Appendix Part 1 develops the reusable method and further cases.*
+- 19.8 PIE Is a Lie — *Asura* — Asuraḥ *worked example, the* PIE is a Lie *escalation, and the chapter's final handoff toward life after PIE.*
 
 ---
 
@@ -248,12 +260,12 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 
 *With Rāhu dispelled, the Sun stands clear and explanation begins: the waves of Sanskrit's calibrant operation across the world, leading to the contemporary phase conditional on the diaspora's re-learning of* āryatva.
 
-**Chapter 19 — Life After PIE** — *Four waves: Wave 1 (pre-Pāṇinian propagation; the Saptaṛṣi roster; the Mitanni anchor); Wave 2 (post-Pāṇinian propagation of formal grammar — Pāṇini restored as decoder, with world grammatical disciplines downstream); the Diasporic Wave (Romani and the modern global diaspora); Wave 3 (the contemporary phase, conditional on the diaspora's re-learning of* āryatva*).*
+**Chapter 20 — Life After PIE** — *Four waves: Wave 1 (pre-Pāṇinian propagation; the Saptaṛṣi roster; the Mitanni anchor); Wave 2 (post-Pāṇinian propagation of formal grammar — Pāṇini restored as decoder, with world grammatical disciplines downstream); the Diasporic Wave (Romani and the modern global diaspora); Wave 3 (the contemporary phase, conditional on the diaspora's re-learning of* āryatva*).*
 
-- 19.1 Wave 1 — Pre-Pāṇinian Propagation — *The Saptaṛṣi roster, the Mitanni anchor, the deep-time outward propagation before formal documentation.*
-- 19.2 Wave 2 — Methodological *Metatypy* — *Pāṇini's greatness restored to the right category: portable decoding of grammar-method; every world grammatical tradition methodologically downstream.*
-- 19.3 The Diasporic Wave — *The Romani branch as the longest-running carrier; the modern Indian global diaspora.*
-- 19.4 Wave 3 — The Contemporary Relearning — *The contemporary phase, conditional on re-learning* āryatva. Atomic Sanskrit *as a Wave 3 instrument; the reader as Wave 3* ṛṣi */* ṛṣikā *in potentia.*
+- 20.1 Wave 1 — Radiance Before Pāṇini — *The Saptaṛṣi roster, the Mitanni anchor, and outward radiance before formal documentation.*
+- 20.2 Wave 2 — Radiance as Method — *Pāṇini's greatness restored to the right category: portable decoding of grammar-method and its reception beyond India.*
+- 20.3 The Diasporic Embers — *The Romani branch as the longest-running carrier and the modern Indian global diaspora.*
+- 20.4 Wave 3 — Carrying the Sun Again — *The contemporary phase, conditional on re-learning* āryatva. Atomic Sanskrit *as a Wave 3 instrument; the reader as Wave 3* ṛṣi */* ṛṣikā *in potentia.*
 
 ---
 
@@ -306,9 +318,9 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 
 - 7.1 Corpus Before Manual · 7.2 Three Verses — The Implicit Grammar in Operation · 7.3 The *Dhātu* Inventory in the Corpus · 7.4 The Overreach Called Evolution · 7.5 Meter, Not Loss · 7.6 What Natural Drift Looks Like · 7.7 The Matrix Succeeds
 
-**Appendix Part 8 — One Architecture, Two Domains** *(drafted)* — *Explains why Sanskrit uses one architecture in two coordinated domains. The vaidika corpus is read-only: exact transmission preserves the calibrant. Laukika Sanskrit is read-write: speakers generate new words and compositions for a changing world. Worked examples compare sounds, accent, upasarga placement, vibhakti forms, verbal forms, compounds, and style before showing how the two domains complement each other against entropy and asuric capture.*
+**Appendix Part 8 — Designed Variations Across the Two Domains** *(drafted)* — *Documents the technical evidence behind Chapter 16. Exact passages show how Vedic scope preserves additional sounds, pitch, duration, placements, vibhakti forms, verbal forms, derivations, and styles. The complete figure series records 83 declensional categories, prevalence measures, evidence grades, and unresolved purposes; the leṭ analysis separates useful grammatical range from recurring collision.*
 
-- 8.1 One Language, Two Engineering Tasks · 8.2 Shared Architecture, Designed Differences · 8.3 Vedic Variations in Operation · 8.4 *Samāsa*, Composition, and Style · 8.5 How Laukika Keeps Sanskrit Useful · 8.6 How the Veda Calibrates Laukika Sanskrit · 8.7 One Society, Deliberately Separated Responsibilities · 8.8 Two Permissions, One Civilizational Architecture
+- 8.1 How to Read the Evidence · 8.2 Ten Designed Contributions · 8.3 Sounds, Accent, and Exact Recitation · 8.4 Positional Freedom and Extended Forms · 8.5 *Leṭ*: What It Adds and Where It Collides · 8.6 Other Vedic Verbal Forms · 8.7 The Differences at a Glance · 8.8 Derivation, Composition, and Style · 8.9 Documented Stewardship Across Both Domains
 
 **Appendix Part 9 — The Codification Story, Refuted** *(drafted)* — *Direct response to the claim that Sanskrit drifted until Pāṇini codified it. Separates Vedic-internal variation from Vedic-to-*bhāṣā* difference; exposes the circular method; restores the pre-Pāṇinian decoding lineage; uses Patañjali's* siddhe śabdārthasambandhe *and* apabhraṃśa *as anchors; closes that Pāṇini decoded the language that had learned how not to melt.*
 

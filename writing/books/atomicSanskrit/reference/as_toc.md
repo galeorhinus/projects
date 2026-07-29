@@ -203,54 +203,65 @@
 - 15.4 Empirical Verification
 - 15.5 The Living Architecture
 
+**Chapter 16 — One Architecture, Two Domains**
+- 16.1 Two Engineering Tasks
+- 16.2 Ten Contributions, Four Architectural Functions
+- 16.3 Audible Architecture
+- 16.4 Grammatical and Compositional Range
+- 16.5 Specialized Vedic Deployment
+- 16.6 Preservation Through Overlapping Checks
+- 16.7 How Laukika Keeps Sanskrit Useful
+- 16.8 How the Veda Calibrates Laukika Sanskrit
+- 16.9 One Society, Two Responsibilities
+- 16.10 Two Permissions, One Architecture
+
 ---
 
 ## Part VI — Dispelling Rāhu
 *Not descended, not sibling.*
 
-**Chapter 16 — The Subcontinental Mouth and Mind**
-- 16.1 The Mouth: *Mūrdhanya*
-- 16.2 The Mouth Doubles: Reduplication
-- 16.3 The Mind Receives: *Sampradāna*
-- 16.4 The Mind De-centers: *Karmaṇi* and *Bhāve*
-- 16.5 The Mind Sequences: The Folded Action
-- 16.6 One Field, Encoded
-- 16.7 The Notices
-- 16.8 The Borrowing Model Fails
-- 16.9 The Corpus Cannot Be Rewritten
-- 16.10 Engineering, Not Contact
-- 16.11 What the Grammar Keeps
+**Chapter 17 — The Subcontinental Mouth and Mind**
+- 17.1 The Mouth: *Mūrdhanya*
+- 17.2 The Mouth Doubles: Reduplication
+- 17.3 The Mind Receives: *Sampradāna*
+- 17.4 The Mind De-centers: *Karmaṇi* and *Bhāve*
+- 17.5 The Mind Sequences: The Folded Action
+- 17.6 One Field, Encoded
+- 17.7 The Notices
+- 17.8 The Borrowing Model Fails
+- 17.9 The Corpus Cannot Be Rewritten
+- 17.10 What Sanskrit Builds from the Field
 
-**Chapter 17 — The Wrong Question**
-- 17.1 The Architectural Test
-- 17.2 What Genealogy Cannot Provide
-- 17.3 The Test Applied
-- 17.4 Gaslighting with Footnotes
-- 17.5 How the Story Got Built
-- 17.6 The Migration Trap
-- 17.7 An Honest Speculation for the Rationalist Mind
-- 17.8 Pāṇini Praised, Architecture Erased
+**Chapter 18 — The Wrong Question**
+- 18.1 The Architectural Test
+- 18.2 What Genealogy Cannot Provide
+- 18.3 The Test Applied
+- 18.4 Gaslighting with Footnotes
+- 18.5 How the Story Got Built
+- 18.6 The Migration Trap
+- 18.7 An Honest Speculation for the Rationalist Mind
+- 18.8 Pāṇini Praised, Architecture Erased
 
-**Chapter 18 — PIE in the Sky**
-- 18.1 Schleicher's Bake
-- 18.2 The Bookkeeping Defense
-- 18.3 What PIE Cannot Explain
-- 18.4 The Cementing
-- 18.5 The Recipe, Step by Step
-- 18.6 Kin, Kind, King: the Dictionary Shift
-- 18.7 *Pratibimba*
-- 18.8 PIE Is a Lie — *Asura*
+**Chapter 19 — PIE in the Sky**
+- 19.1 Schleicher's Bake
+- 19.2 The Asterisk Defense
+- 19.3 What PIE Cannot Explain
+- 19.4 The Cementing
+- 19.5 The Recipe, Step by Step
+- 19.6 Kin, Kind, King: the Dictionary Shift
+- 19.7 *Pratibimba*
+- 19.8 PIE Is a Lie — *Asura*
 
 ---
 
 ## Part VII — Life After PIE
 *Light after the eclipse.*
 
-**Chapter 19 — Life After PIE**
-- 19.1 Wave 1 — Pre-Pāṇinian Propagation
-- 19.2 Wave 2 — Methodological *Metatypy*
-- 19.3 The Diasporic Wave
-- 19.4 Wave 3 — The Contemporary Relearning
+**Chapter 20 — Life After PIE**
+- 20.1 Wave 1 — Radiance Before Pāṇini
+- 20.2 Wave 2 — Radiance as Method
+- 20.3 The Diasporic Embers
+- 20.4 Wave 3 — Carrying the Sun Again
 
 ---
 
@@ -350,15 +361,16 @@
   - 7.5 Meter, Not Loss
   - 7.6 What Natural Drift Looks Like
   - 7.7 The Matrix Succeeds
-- **Appendix Part 8 — One Architecture, Two Domains**
-  - 8.1 One Language, Two Engineering Tasks
-  - 8.2 Shared Architecture, Designed Differences
-  - 8.3 Vedic Variations in Operation
-  - 8.4 *Samāsa* (Compounding), Composition, and Style
-  - 8.5 How Laukika Keeps Sanskrit Useful
-  - 8.6 How the Veda Calibrates Laukika Sanskrit
-  - 8.7 One Society, Deliberately Separated Responsibilities
-  - 8.8 Two Permissions, One Civilizational Architecture
+- **Appendix Part 8 — Designed Variations Across the Two Domains**
+  - 8.1 How to Read the Evidence
+  - 8.2 Ten Designed Contributions
+  - 8.3 Sounds, Accent, and Exact Recitation
+  - 8.4 Positional Freedom and Extended Forms
+  - 8.5 *Leṭ*: What It Adds and Where It Collides
+  - 8.6 Other Vedic Verbal Forms
+  - 8.7 The Differences at a Glance
+  - 8.8 Derivation, Composition, and Style
+  - 8.9 Documented Stewardship Across Both Domains
 - **Appendix Part 9 — The Codification Story, Refuted**
   - 9.1 The Inherited Story and Its Two Drift Claims
   - 9.2 Circular Chronology

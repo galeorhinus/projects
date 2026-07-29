@@ -134,7 +134,7 @@ The *laukika* domain uses the same architecture for new composition. Its sonomer
 
 The same division appears among verbal forms. The Vedic corpus preserves the *leṭ-lakāra*, the injunctive, and other resources required by its passages. The Vedic pitch system adds grammatical information that helps bound the larger range, while the fixed words, syntax, sequence, and inherited interpretation complete the boundary. Laukika speakers compose without that preserved pitch layer, so they use a tighter productive set whose forms must remain recoverable in sentences that have never existed before. Chapter 10 called this ***वैचित्र्य (*vaicitrya*)***, engineered range: Sanskrit preserves additional range where that range performs a defined task.
 
-Western philology converts these designed differences into organic mutation across time. Pāṇini's **अष्टाध्यायी (*Aṣṭādhyāyī*)** documents *chandasi* rules for the *chandas* mode and *bhāṣāyām* rules for the *bhāṣā* mode within one architecture. The *laukika* library can grow, be selected, and suffer loss while the language remains calibrated. The Vedic corpus remains fixed. Appendix Part 8, “One Architecture, Two Domains,” presents the complete comparison across sounds, endings, verbal forms, *upasarga* placement, pitch, meter, composition, and transmission.
+Western philology converts these designed differences into organic mutation across time. Pāṇini's **अष्टाध्यायी (*Aṣṭādhyāyī*)** documents *chandasi* rules for the *chandas* mode and *bhāṣāyām* rules for the *bhāṣā* mode within one architecture. The *laukika* library can grow, be selected, and suffer loss while the language remains calibrated. The Vedic corpus remains fixed. Chapter 16 explains the two-domain architecture, and Appendix Part 8 presents the complete technical comparison across sounds, endings, verbal forms, *upasarga* placement, pitch, meter, composition, and transmission.
 
 ## 14.6 Control Cases: Codification by Authority
 
@@ -180,7 +180,7 @@ Because there is a further structural distinction, the difference goes beyond te
 
 Because a line of transmission can preserve a text while a matrix is required to preserve a system, the word "matrix" earns its place here. Since the Vedas serve as the primary calibrant while *vyākaraṇam*, *dhātavaḥ*, *gaṇāḥ*, *upasargāḥ*, *pratyayāḥ*, *varṇāḥ*, and *chandas* function as the operating architecture, the corpus remains fixed while the engine remains alive.
 
-The three benchmark traditions are not Sanskrit's independent peers. They are Sanskrit's ***प्रतिबिम्ब (Pratibimba)*** in the preservation domain, refracted through the calibrant-contact transmission identified as Wave 2 propagation. The parallel begins here; the propagation mechanics are established later (Chapter 19 §19.2).
+The three benchmark traditions are not Sanskrit's independent peers. They are Sanskrit's ***प्रतिबिम्ब (Pratibimba)*** in the preservation domain, refracted through the calibrant-contact transmission identified as Wave 2 propagation. The parallel begins here; the propagation mechanics are established later (Chapter 20 §20.2).
 
 ## 14.7 The Engineering Precedes Pāṇini
 

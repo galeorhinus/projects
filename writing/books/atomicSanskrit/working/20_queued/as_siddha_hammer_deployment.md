@@ -26,7 +26,7 @@ The argument has three doctrinal-spine deployments. All other sites echo.
 
 - **Ch 4 §4.2 — HOME BASE.** Owns the proof. Already carries the full *vārttika* + literal translation; needs the polemic hammer paragraph that distills the bond / usage / *śāstra* order into the prose register.
 - **Ch 13 §13.5 — PRINCIPLE.** Turns the argument into the codification-vs-calibration distinction. *Niyama* vs *nirmāṇa* is the section's structural spine.
-- **Ch 18 verdict — WEAPONIZED.** Deploys the argument as the structural refutation of PIE. Pairs with the proposed Bhartṛhari epigraph (*anādi-nidhanaṃ brahma śabda-tattvam*) — same refusal at the ontological level.
+- **Ch 19 verdict — WEAPONIZED.** Deploys the argument as the structural refutation of PIE. Pairs with the proposed Bhartṛhari epigraph (*anādi-nidhanaṃ brahma śabda-tattvam*) — same refusal at the ontological level.
 
 Tier-2 sites carry strong echoes that extend the argument across the architecture. Tier-3 sites land briefly where the polemic register can carry them.
 
@@ -52,7 +52,7 @@ This chapter owns the proof. All other deployments cross-reference Ch 4 §4.2.
 
 > Chapter 4 supplied the grammatical principle: bond first, usage second, *śāstra* third. The calibration matrix is that principle scaled to civilization. The standard already stands; the system trains bodies, ears, memory, grammar, and community to hold usage against it.
 
-### [x] Ch 18 verdict section — PIE prosecution (weaponized) ✓ DEPLOYED
+### [x] Ch 19 verdict section — PIE prosecution (weaponized) ✓ DEPLOYED
 
 **Status.** Deployed (commit `04c719d`). The existing "PIE cannot account for *siddha*" paragraph already cited Patañjali's *siddha* claim; the new addition pairs descent + codification as the dual error PIE depends on, with a one-line italicized hammer.
 
@@ -62,7 +62,7 @@ This chapter owns the proof. All other deployments cross-reference Ch 4 §4.2.
 >
 > *An engineered calibrant does not need a natural ancestor, and a decoded system does not need a codifier.*
 
-(Optional Bhartṛhari pairing remains available — *anādi-nidhanaṃ brahma śabda-tattvam* would land the same refusal at the ontological level if Ch 18 epigraph deploys.)
+(Optional Bhartṛhari pairing remains available — *anādi-nidhanaṃ brahma śabda-tattvam* would land the same refusal at the ontological level if Ch 19 epigraph deploys.)
 
 ---
 
@@ -116,9 +116,9 @@ This chapter owns the proof. All other deployments cross-reference Ch 4 §4.2.
 
 > A list of "roots" can be memorized. A table of atoms can be tested. That is the difference. The test is reactivity.
 
-### [ ] Ch 17 §17.6 — origin question reframed
+### [ ] Ch 18 §18.6 — origin question reframed
 
-**Why it lands here.** Sibling to Ch 18 — Ch 17 names the wrong question; Ch 18 weaponizes Patañjali against the reconstruction. The PIE project asks "where did the bond come from?" — Patañjali's opening declares the question category-error.
+**Why it lands here.** Sibling to Ch 19 — Ch 18 names the wrong question; Ch 19 weaponizes Patañjali against the reconstruction. The PIE project asks "where did the bond come from?" — Patañjali's opening declares the question category-error.
 
 **Suggested deployment.**
 
@@ -216,7 +216,7 @@ This chapter owns the proof. All other deployments cross-reference Ch 4 §4.2.
 
 > Sanskrit teaches the opposite lesson. The calibrant must be held with rigor; the living languages must be allowed to flow. *Prākṛtika* speech is not sin. It is not failure. It is life. **The mistake is to confuse the calibrant's discipline with the state's authority.** Sanskrit survived because it was held as calibrant, not imposed as an imperial vernacular.
 
-**Still to add** (optional — the explicit warrant for symmetry with Ch 4 / Ch 13 / Ch 18):
+**Still to add** (optional — the explicit warrant for symmetry with Ch 4 / Ch 13 / Ch 19):
 
 > The next generation does not need to manufacture Sanskrit's greatness. The bond was already there. The work is to see it, learn it, and carry it correctly. ***Siddhe śabdārthasambandhe***. *Śāstra* regulates. It does not manufacture.
 
@@ -234,7 +234,7 @@ Proposed insertion under the existing *"Two axes, not one chronology"* / *"The o
 >
 > **Canonical Sanskrit warrant** (pair with hammer on first deployment per chapter): ***siddhe śabdārthasambandhe… śāstreṇa dharmaniyamaḥ*** — Patañjali, *Mahābhāṣya*, *Paspaśāhnika*.
 >
-> **Doctrinal spine:** Ch 4 §4.2 (HOME BASE — owns the proof) → Ch 13 §13.5 (PRINCIPLE — codification-vs-calibration) → Ch 18 verdict section (WEAPONIZED against PIE). All other deployments cross-reference Ch 4 §4.2.
+> **Doctrinal spine:** Ch 4 §4.2 (HOME BASE — owns the proof) → Ch 13 §13.5 (PRINCIPLE — codification-vs-calibration) → Ch 19 verdict section (WEAPONIZED against PIE). All other deployments cross-reference Ch 4 §4.2.
 
 ### [ ] Add endnote stub to `as_endnotes.md`
 
@@ -246,7 +246,7 @@ Stub key: `patanjali-siddhe-niyama-not-nirmana` (or similar). Long form to carry
 
 - **Hammer form selection.** Three forms above (four-beat / compressed / Sanskrit-paired). Decide on canonical first-use form vs. variation across chapters. Recommend: four-beat at first deployment per chapter; compressed for subsequent in-chapter deployments; Sanskrit-paired for technical-register chapters (Ch 4, Ch 13, App 6).
 - **Cross-deployment endnote.** Should the endnote consolidate the cross-site references (one stub keyed across all deployment sites) or use per-site endnotes pointing back to the consolidated discussion in Ch 4 §4.2?
-- **Bhartṛhari pairing.** Ch 18's deployment pairs Patañjali with Bhartṛhari's *anādi-nidhanaṃ brahma śabda-tattvam* (the proposed Ch 18 epigraph). Confirm Bhartṛhari epigraph deployment before finalizing Ch 18 Patañjali insertion.
+- **Bhartṛhari pairing.** Ch 19's deployment pairs Patañjali with Bhartṛhari's *anādi-nidhanaṃ brahma śabda-tattvam* (the proposed Ch 19 epigraph). Confirm Bhartṛhari epigraph deployment before finalizing Ch 19 Patañjali insertion.
 - ~~**Ch 4 status check.**~~ ✓ Resolved: §4.2 ¶69 deploys the hammer directly; §4.2 ¶71–75 deploys the three contrast frames; §4.5 ¶119 extends with the codification-event refusal.
 
 ## Cross-reference hammers available in Ch 4

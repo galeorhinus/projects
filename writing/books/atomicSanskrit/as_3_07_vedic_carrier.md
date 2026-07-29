@@ -12,7 +12,7 @@ Chapter 1 §1.1's fuller statement opens with three blockquoted lines. The middl
 
 > ***The engineering's upstream origin is not visible in the historical record;*** ***अपौरुषेयत्व (*apauruṣeyatva*)*** ***is the lineage-chain's own anchor for the position. The*** ***Vedas*** ***preserve the engineering across thousands of years as the corpus form, implicit in every recitation rule and every metrical specification.***
 
-Chapter 19 §19.4 calls this ***corpus form***. The Vedic passages preserve the forms themselves: the *sandhi* junctions, case endings, verbal operations, accents, and metrical arrangements. The surviving Pāṇinian documentation later explains many of the operations already visible there.
+Chapter 20 §20.4 calls this ***corpus form***. The Vedic passages preserve the forms themselves: the *sandhi* junctions, case endings, verbal operations, accents, and metrical arrangements. The surviving Pāṇinian documentation later explains many of the operations already visible there.
 
 Each recited verse gives the analyst concrete evidence. A *sandhi* junction joins particular sounds; a case ending assigns a grammatical role; meter constrains syllable count; and Vedic accent makes part of the grammatical interpretation audible through pitch. These are operating features of the transmitted form.
 
@@ -138,7 +138,7 @@ The two forms differ by one syllable, so they give a composer different metrical
 
 | Observed Vedic feature | Formal setting | Architectural interpretation |
 |------|--------|----------------------|
-| Retroflex lateral **ळ (*ḷ*)** in *agnimīḷe* (अग्निमीळे) | The *Ṛgveda-Prātiśākhya* specifies **ड → ळ** between vowels. | Vedic transmission preserves a governed realization without requiring an independent **ळ** coordinate in the reusable *laukika* grid (Ch 9 §9.8; Ch 16 §16.9). |
+| Retroflex lateral **ळ (*ḷ*)** in *agnimīḷe* (अग्निमीळे) | The *Ṛgveda-Prātiśākhya* specifies **ड → ळ** between vowels. | Vedic transmission preserves a governed realization without requiring an independent **ळ** coordinate in the reusable *laukika* grid (Ch 9 §9.8; Ch 17 §17.9). |
 | **उदात्त-अनुदात्त-स्वरित (*udātta-anudātta-svarita*)** pitch accent | Preserved in Vedic recitation; ordinary *bhāṣā* is not marked by the same three-way pitch specification. | Pitch contributes to grammatical interpretation and helps bound the Vedic domain's additional forms. |
 | ***Plutaḥ*** (प्लुतः), the extended vowel | Used where Vedic recitation or stated speech conditions require extended duration. | Duration remains available as a governed parameter rather than becoming an ordinary vowel coordinate. |
 | Vedic subjunctive, ***leṭ-lakāra*** (लेट्) | Pāṇini documents *leṭ* under *chandasi*; productive *bhāṣā* does not use it as an ordinary paradigm. | A mode-specific verbal resource does not by itself establish an earlier language. |

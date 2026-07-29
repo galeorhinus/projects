@@ -390,7 +390,7 @@ The convergence of names at two adjacent levels is itself the signal. The Sanskr
 
 The corollary's consequences run forward. The next levels are *kriyā*, bonding chemistry, *śabdāḥ*, *vākyāni*, and the preservation problem the architecture must solve once the system is in use.
 
-The corollary's consequences run backward as well. The diagnoses of the philological dogma — Chapter 2 on the botanical fallacy, Chapter 17 on the wrong question, and Chapter 18 on PIE in the sky — are now anchored by the Atomic Corollary's positive content. The pyramid's account fails fundamentally because the architecture is atomic, and atomic architectures do not behave the way the dogma's botanical model assumes.
+The corollary's consequences run backward as well. The diagnoses of the philological dogma — Chapter 2 on the botanical fallacy, Chapter 18 on the wrong question, and Chapter 19 on PIE in the sky — are now anchored by the Atomic Corollary's positive content. The pyramid's account fails fundamentally because the architecture is atomic, and atomic architectures do not behave the way the dogma's botanical model assumes.
 
 Because the *dhātuḥ* serves as the fundamental unit of stable identity—exactly as the Sanskrit continuum explicitly called it—its proper name must absolutely be restored.
 

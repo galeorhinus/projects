@@ -1,6 +1,6 @@
 # Reference Appendix 8 — The ***लेट् (*leṭ*)*** Coordinate Test
 
-Appendix Part 8 begins with **ब्रवाणि (*bravāṇi*)** from Ṛgveda 6.16.16. The mantra uses it as ***लेट् (*leṭ*)***, although the same visible form belongs to ***लोट् (*loṭ*)*** in productive *laukika* Sanskrit. The appendix then places it beside **तारिषत् (*tāriṣat*)** from Ṛgveda 10.186.1, where *leṭ* adds a desired or prospective force without producing the same visible collision.
+Appendix Part 8 §8.5 begins its *leṭ* analysis with **ब्रवाणि (*bravāṇi*)** from Ṛgveda 6.16.16. The mantra uses it as ***लेट् (*leṭ*)***, although the same visible form belongs to ***लोट् (*loṭ*)*** in productive *laukika* Sanskrit. The appendix then places it beside **तारिषत् (*tāriṣat*)** from Ṛgveda 10.186.1, where *leṭ* adds a desired or prospective force without producing the same visible collision.
 
 Together, the two passages show the benefit and the cost of the additional Vedic *lakāra*. The *laukika* domain expresses much of the same range through *loṭ*, ***लिङ् (*liṅ*)***, ***आशीर्लिङ् (*āśīrliṅ*)***, and ***लृट् (*lṛṭ*)***. This appendix compares all eighteen person-number-*pada* coordinates to see what would happen if *leṭ* also operated as a complete productive paradigm in unrestricted *laukika* composition.
 

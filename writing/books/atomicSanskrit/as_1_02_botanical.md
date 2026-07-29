@@ -138,11 +138,11 @@ By assigning linguistic drift to the period before Pāṇini, standardization to
 
 The seven claims fail move by move:
 
-- **Move one is the portability fraud.** It recasts Vedic Sanskrit's engineered architecture as the naturally spoken tongue of migrating pastoralists. The *"Aryans"* of the racial Arya thesis are the assemblage Chapter 3 identifies, Chapter 16 tests at the level of mouth and mind, and Chapter 17 separates from authorship: movement is not creation.
+- **Move one is the portability fraud.** It recasts Vedic Sanskrit's engineered architecture as the naturally spoken tongue of migrating pastoralists. The *"Aryans"* of the racial Arya thesis are the assemblage Chapter 3 identifies, Chapter 17 tests at the level of mouth and mind, and Chapter 18 separates from authorship: movement is not creation.
 - **Move two imposes drift.** Sanskrit's architecture was engineered against such drift, and the calibration matrix developed in Chapter 14 explains how the measure remained available across the span the pyramid converts into linguistic evolution.
 - **Move three reverses decoding into standardization.** Pāṇini documented an already-operating architecture; he did not select a drifting natural variety and impose order upon it. Chapter 5 places his achievement inside the longer analytical lineage and explains why his decoding remains its finest surviving work.
 - **Move four turns the invented standardization event into petrification.** The language remained invariant before and after Pāṇini's documentation because its resistance to drift belongs to the architecture rather than to a decree in the *Aṣṭādhyāyī*. Patañjali preserves the correct order that the codification story reverses: bond first, usage second, *śāstra* third. Pāṇini's *śāstra* can regulate usage because the bond already stands.
-- **Move five supplies the imaginary ancestor required by the stolen category.** Once Sanskrit has been declared a natural language, the family tree demands an ancestral language from which it can descend. Chapter 18 tests that reconstruction and the direction of inheritance it assumes.
+- **Move five supplies the imaginary ancestor required by the stolen category.** Once Sanskrit has been declared a natural language, the family tree demands an ancestral language from which it can descend. Chapter 19 tests that reconstruction and the direction of inheritance it assumes.
 - **Move six transfers a useful botanical metaphor onto a different kind of architecture.** Growth, branching, and decay describe natural languages. Applying the same operations to Sanskrit turns its resistance to drift into an evolutionary anomaly and then uses that manufactured anomaly to justify late codification.
 - **Move seven converts domain and mode into chronology.**[NOTE: chandasi-bhashayam-mode-markers] The dogma's *"Vedic Sanskrit / Classical Sanskrit"* pair makes *Classical*, a Greco-Latin classroom label borrowed from European philology, perform temporal work. Pāṇini's own text organizes the distinction on two categorical axes instead.
 
@@ -194,7 +194,7 @@ If *saṃskṛtam* is what is wholly formed, *prakṛti* is what keeps making it
 
 The pyramid's story requires ancient Sanskrit to change. Its account of Vedic drift, substrate absorption, the retroflex row, the syllabic *ṛ* (ऋ), and the supposed transition from Vedic to Classical cannot work without change. The Vedic-preservation continuum makes the opposite commitment. The *Vedas* are ***apauruṣeya*** (अपौरुषेय) — without human authorship[NOTE: apauruseya-mimamsa-sutra-1-1-5] — and ***śruti*** (श्रुति), heard rather than made. We do not know when the mantras were first seen. From that unknown beginning, the eleven *pāṭhas* (पाठाः), the *Prātiśākhya* (प्रातिशाख्य) discipline, and the *guru-shishya* lineage-chain (गुरुशिष्यपरम्परा, *guru-shishya paramparā*) have formed an error-correcting transmission channel engineered to prevent alteration.
 
-The dogma requires drift, while Sanātan's transmission continuum was built to prevent it. Chapter 16 develops the contradiction where it bites sharpest: the retroflex consonant series.
+The dogma requires drift, while Sanātan's transmission continuum was built to prevent it. Chapter 17 develops the contradiction where it bites sharpest: the retroflex consonant series.
 
 ## 2.5 *Dhātuḥ* Is an Atom
 

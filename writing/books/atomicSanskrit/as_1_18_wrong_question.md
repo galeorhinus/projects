@@ -1,4 +1,4 @@
-# Chapter 17 — The Wrong Question
+# Chapter 18 — The Wrong Question
 
 *What came before Sanskrit?*
 
@@ -6,7 +6,7 @@ That is the question Proto-Indo-European tries to answer. The question is wrong.
 
 The preceding chapters have established an engineered sound-grid, the *dhātavaḥ*, generative rules, a retroflex core, a calibration matrix, a living recitation system, and the analytical disciplines that preserved and decoded the whole. Together, these features describe an engineered linguistic architecture rather than a natural speech-form drifting from an earlier natural speech-form.
 
-Part VI turns to the account that has continued to treat this object as something else. The next two chapters divide that work. Ch17 establishes the structural argument: the genealogical project asks the wrong question of Sanskrit, and any precursor model framed inside that project will fail the same structural test for the same structural reason. Chapter 18 tests the specific construct — PIE — directly. Together the two chapters close the loop opened in Chapter 1: the botanical metaphor fails on a language engineered against the behavior the metaphor describes; Ch17 develops the structural reason no genealogical reconstruction can recover what the metaphor has prevented from being seen.
+Part VI turns to the account that has continued to treat this object as something else. The next two chapters divide that work. Ch18 establishes the structural argument: the genealogical project asks the wrong question of Sanskrit, and any precursor model framed inside that project will fail the same structural test for the same structural reason. Chapter 19 tests the specific construct — PIE — directly. Together the two chapters close the loop opened in Chapter 1: the botanical metaphor fails on a language engineered against the behavior the metaphor describes; Ch18 develops the structural reason no genealogical reconstruction can recover what the metaphor has prevented from being seen.
 
 A genealogical question asks for ancestry. An architectural question asks for construction. The two are not variants of each other. Bṛhaspati's *vācam akrata* already points to the second question: Speech formed by the wise with the mind, not a natural object waiting for a family tree.
 
@@ -19,7 +19,7 @@ The question PIE attempts to answer is the wrong question.
 
 **The shared features show Sanskrit as speech. The unshared features reveal it as engineered.**
 
-## 17.1 The Architectural Test
+## 18.1 The Architectural Test
 
 Any valid model of Sanskrit must explain six structural features. These are not optional decorations. They are what Sanskrit has always been.
 
@@ -29,7 +29,7 @@ Second: the ***dhātu*** architecture (Chapters 2 and 10). Sanskrit does not mer
 
 Third: the sound-to-meaning rule system (Chapters 11 and 12): *saṃdhi*, *gaṇa* organization, affixation, metrical constraint, and the generative architecture the *Aṣṭādhyāyī* compresses.
 
-Fourth: the ***mūrdhanya*** core (Chapter 16). The retroflex row is not peripheral. It sits inside the architecture: vowel-core, bonder, closure class, acoustic signature.
+Fourth: the ***mūrdhanya*** core (Chapter 17). The retroflex row is not peripheral. It sits inside the architecture: vowel-core, bonder, closure class, acoustic signature.
 
 Fifth: the preservation architecture (Chapters 13, 14, and 15): *padapāṭha*, *kramapāṭha*, *jaṭāpāṭha*, *ghanapāṭha*, *Prātiśākhya*, *Śikṣā*, *chandas*, and the living *guru-shishya* lineage-chain.
 
@@ -40,7 +40,7 @@ Sixth: the formal grammatical order (Chapter 5): *siddha* / *kārya*, *vyākara�
 
 Any model of Sanskrit has to explain all six. A model that explains none of these features explains some other language; it does not explain Sanskrit.
 
-## 17.2 What Genealogy Cannot Provide
+## 18.2 What Genealogy Cannot Provide
 
 The comparative method is powerful when used on the right object. It can reconstruct sound correspondences. It can group languages by inherited features. It can infer reconstructed forms from recorded descendants. It can explain how Latin yields Romance forms, how Germanic sound shifts operate, how Iranian and Sanskritic forms correspond.
 
@@ -55,7 +55,7 @@ This is the category theft. The genealogical project looks at Sanskrit after the
 No improved dataset fixes this. No larger cognate set fixes this. No more refined reconstruction fixes this. A better genealogy still does not become an architecture.
 
 
-## 17.3 The Test Applied
+## 18.3 The Test Applied
 
 Walk the six requirements through the genealogical project.
 
@@ -75,7 +75,7 @@ Six requirements. Zero satisfied.
 
 The genealogical project does not fail because it needs a small correction. It fails because Sanskrit is not the kind of object the project is built to explain.
 
-## 17.4 Gaslighting with Footnotes
+## 18.4 Gaslighting with Footnotes
 
 The progressive dogma has treated the genealogical model as the default and the engineered Sanskrit thesis as the claim needing proof. That default is unearned.
 
@@ -95,7 +95,7 @@ When a civilization recognizes its own architecture and the authorized account c
 
 PIE compresses that entire operation into the asterisk placed before each imaginary word.
 
-## 17.5 How the Story Got Built
+## 18.5 How the Story Got Built
 
 The origin question still admits two speculations. Both begin from the same epistemic position: nobody knows what is upstream of Sanskrit. One speculation admits this. The other hides it.[NOTE: calibration-hierarchy]
 
@@ -130,7 +130,7 @@ The same machinery that calls Hindu civilizational memory "mythology" asks the w
 That is the inversion. The speculation is not absent. It is wearing the robes of the ***priests of progress***, defended by its ***jihadis of progress***, exported by its ***missionaries of progress*** — the ***church of progress*** operating in *asuric* mode (Chapter 3 §3.7).
 
 
-## 17.6 The Migration Trap
+## 18.6 The Migration Trap
 
 
 The racial Arya thesis survives by changing its instruments. Invasion becomes migration. Race becomes population. Skull measurement becomes DNA. The old vocabulary becomes embarrassing, so the pyramid updates the vocabulary and keeps the custody claim: Sanskrit must still arrive from outside India.
@@ -179,7 +179,7 @@ The trap asks the reader to choose between inward migration and outward migratio
 
 Restoring authorship leaves ample room for human movement without allowing movement to stand as proof that Sanskrit was created elsewhere.
 
-## 17.7 An Honest Speculation for the Rationalist Mind
+## 18.7 An Honest Speculation for the Rationalist Mind
 
 This speculation stands on ground the dharmic continuum supplies, and it begins by refusing to collapse two claims that have to remain distinct.
 
@@ -209,7 +209,7 @@ The rationalist demand for a historical mechanism meets an honest answer: ***we 
 
 > ***The wise formed *vāc*. The seers saw. The lineage heard. The vaiyākaraṇāḥ decoded. Pāṇini documented and compressed. The Vedas remain the measure.***
 
-## 17.8 Pāṇini Praised, Architecture Erased
+## 18.8 Pāṇini Praised, Architecture Erased
 
 The two speculations are mirror inversions.
 
@@ -226,7 +226,7 @@ The two speculations are mirror inversions.
 
 At every point in the Sanskrit continuum, two facts operate together: the Vedas remain preserved, and *bhāṣā* remains exposed to *apabhraṃśa*. Ordinary speech drifts. The recitational lineages do not.
 
-Before Pāṇini, the Vedic corpus served as the primary calibrant for correcting *bhāṣā* back toward the architecture the Vedas encoded. §17.5 established the operating condition: the calibration worked, but the grammar was implicit — lodged in the corpus and in the disciplines guarding it. Pāṇini changed the operating condition. He did not create the architecture and he did not replace the Vedas as the ultimate measure. He compressed the architecture into the *Aṣṭādhyāyī*, making it usable as a working calibrant for *bhāṣā*.
+Before Pāṇini, the Vedic corpus served as the primary calibrant for correcting *bhāṣā* back toward the architecture the Vedas encoded. §18.5 established the operating condition: the calibration worked, but the grammar was implicit — lodged in the corpus and in the disciplines guarding it. Pāṇini changed the operating condition. He did not create the architecture and he did not replace the Vedas as the ultimate measure. He compressed the architecture into the *Aṣṭādhyāyī*, making it usable as a working calibrant for *bhāṣā*.
 
 The pedagogical consequence belongs in Chapter 13 §13.5. Before Pāṇini, correction could operate through preserved Vedic use. After Pāṇini, the same correction also became available through explicit rule.
 
@@ -247,4 +247,4 @@ The asuric pyramid persists only as long as that move remains effective.
 
 Sanskrit's calibration architecture rules out that forced choice because it cannot be reduced to drift before Pāṇini or codification after him.
 
-Chapter 18 tests PIE itself.
+Chapter 19 tests PIE itself.

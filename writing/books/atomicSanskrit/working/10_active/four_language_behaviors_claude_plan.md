@@ -22,10 +22,10 @@ Let the reader hold the language behaviors apart instead of blurring them — **
 4. **Sanskrit** (engineered + high generativity) — engineered *and* generative: the standard lives *inside* the architecture (sound, meter, grammar, recitation, lineage, calibration), producing new forms *by derivation* while the language itself holds. *Wholly created · completely synthesized · engineered.*
 5. **Vivimorphosis** — *the transition, not a cell:* an engineered Sanskrit form crosses the calibrant boundary and re-organicizes as an *apaśabda* in a receiving language (the Sanskrit → botanical arrow).
 
-The manuscript already argues botanical + petrified + Sanskrit as a set piece. **Constructed project** and **vivimorphosis** are the additions: the grid supplements the conventional distinctions of origin and standardization with adaptive generativity, and vivimorphosis — built in Ch12/Ch18 — joins the cells as the principal arrow rather than a peer state. Two payoffs:
+The manuscript already argues botanical + petrified + Sanskrit as a set piece. **Constructed project** and **vivimorphosis** are the additions: the grid supplements the conventional distinctions of origin and standardization with adaptive generativity, and vivimorphosis — built in Ch12/Ch19 — joins the cells as the principal arrow rather than a peer state. Two payoffs:
 
 - **It disarms a terminology trap.** Conventional standardization legitimately includes codification of a selected norm, while the pyramid turns *codification* into a false origin story for Sanskrit. Naming the bounded fixed-register behavior **petrification** keeps standardization distinct from the stronger arrest represented by Quranic Arabic, Biblical Hebrew, and ecclesiastical Latin.
-- **It arms the PIE refutation.** Vivimorphosis is the arrow the pyramid misreads: it sees the botanical *daughters* (vivimorphosed apaśabdas), reconstructs a botanical *parent* (PIE), and never sees the engineered source. The grid is the setup; Ch18 is the payoff.
+- **It arms the PIE refutation.** Vivimorphosis is the arrow the pyramid misreads: it sees the botanical *daughters* (vivimorphosed apaśabdas), reconstructs a botanical *parent* (PIE), and never sees the engineered source. The grid is the setup; Ch19 is the payoff.
 
 The grid establishes what Sanskrit does as a language. It does not carry the full explanation of why Sanskrit was created. That civilizational claim requires the book's larger architecture: Sanskrit preserves a distributed measure through which sound, memory, correction, discipline, and lineage remain calibrated without apex custody. Ch0 introduces that purpose before Ch2 classifies the language; Chapters 5, 13, and 14 then show how the purpose becomes operational.
 
@@ -64,7 +64,7 @@ Read the cells:
 
 **Entropy — deferred to Ch6 as a described third dimension.** The generativity grid *explains* entropy rather than displaying it: the top row is internally self-renewing (botanical renews by drift, Sanskrit by derivation), while the bottom row depends on authority, creator, or document. Ch6 (*Apabhraṃśa* = "falling away" = botanical entropy in action) revisits the **same** grid and lays entropy over it in prose — asserted, not hypothetical ("the grid has a third dimension we haven't drawn") — landing three payoffs: (1) **the top-row split** — botanical and Sanskrit are both high-gen but opposite on entropy (drift = entropy; derivation = anti-entropy); (2) **the external-arrest vs internal-resistance recovery** — petrified and Sanskrit both resist entropy, but from outside (authority) vs inside (architecture) = codification-vs-calibration / pyramid-vs-swastika; (3) **the Esperanto threshold** — once a constructed project accommodates the new by allowing its language to change, it has entered botanical behavior. This retires the old origin×entropy grid cleanly: its whole content = (this grid) + (the Ch6 entropy reading). **Guardrail:** keep ONE canonical grid; Ch6 lays entropy *over* it, never a second competing grid.
 
-*Deployment:* Ch2 gets the drawn grid + figure (pass one); Ch6 gets entropy as the third dimension; the *laukika* development runs in the two-axis material (Preface terminology note, Ch1 §1.1 Move 7, Ch14) and the fraud-connection in Ch12/Ch18. **✅ Epilogue echo DEPLOYED 2026-07-17** (`## Where the Nectar Rises`: *"the usage adapts; the language holds… A codified language freezes and falls behind its own world. The calibrant stands still and keeps up."*). **Sequencing:** Ch2/Ch6/Ch12 formal introductions must ship before print — Ch14 and the Epilogue already echo them.
+*Deployment:* Ch2 gets the drawn grid + figure (pass one); Ch6 gets entropy as the third dimension; the *laukika* development runs in the two-axis material (Preface terminology note, Ch1 §1.1 Move 7, Ch14) and the fraud-connection in Ch12/Ch19. **✅ Epilogue echo DEPLOYED 2026-07-17** (`## Where the Nectar Rises`: *"the usage adapts; the language holds… A codified language freezes and falls behind its own world. The calibrant stands still and keeps up."*). **Sequencing:** Ch2/Ch6/Ch12 formal introductions must ship before print — Ch14 and the Epilogue already echo them.
 
 ## Vocabulary lock (author, 2026-07-20)
 
@@ -81,7 +81,7 @@ Read the cells:
 - **[Ch2 `as_1_02_botanical.md`:31](../../as_1_02_botanical.md#L31)** — standardized natural languages remain botanical while their speakers continue changing them.
 - **[Ch2:57](../../as_1_02_botanical.md#L57)** — botanical behavior defined as adaptive generativity through communal use, contact, and inheritance.
 - **[Ch2:79](../../as_1_02_botanical.md#L79)** — the bakers (Bopp 1810s, Schleicher 1860s, Müller 1850s–80s, Brugmann 1886).
-- Part I opener *The Wrong Metaphor*; **[Ch10](../../as_1_10_building_dhatuh.md)** (dhātu-not-root); **[Ch18](../../as_1_18_pie_in_sky.md)** (Schleicher's baking; contact linguistics).
+- Part I opener *The Wrong Metaphor*; **[Ch10](../../as_1_10_building_dhatuh.md)** (dhātu-not-root); **[Ch19](../../as_1_19_pie_in_sky.md)** (Schleicher's baking; contact linguistics).
 
 ### 2. Petrification
 - **[Ch2:59–61](../../as_1_02_botanical.md#L59)** — petrification defined as a bounded register held by external authority while surrounding speech continues changing; Quranic Arabic, Biblical Hebrew, and ecclesiastical Latin supply the initial examples.
@@ -104,7 +104,7 @@ Body discipline: Esperanto receives **one compact historical paragraph in Ch2** 
 
 ### 5. Vivimorphosis
 - **[Ch12 §12.9 `as_1_12_building_vakya.md`](../../as_1_12_building_vakya.md)** — the definition: *śabda* → *bīja* → *apaśabda* across the calibrant boundary (7 hits).
-- **[Ch18 §18.7 `as_1_18_pie_in_sky.md`](../../as_1_18_pie_in_sky.md)** — worked cases: *mātṛ→mother*, *devaḥ→deus*, *asuraḥ→ahura* (6 hits).
+- **[Ch19 §19.7 `as_1_19_pie_in_sky.md`](../../as_1_19_pie_in_sky.md)** — worked cases: *mātṛ→mother*, *devaḥ→deus*, *asuraḥ→ahura* (6 hits).
 - **[Ch2:73](../../as_1_02_botanical.md#L73)** — named lightly as the Sanskrit-to-botanical transition, with the mechanism deferred to Chapter 12 §12.9.
 
 ## Terminology decisions
@@ -140,7 +140,7 @@ The book's positive mechanism for how Sanskritic material reached distant langua
 1. **Radiance Thesis** — the *conceptual base*. Bare form used only when referring to the concept in the abstract.
 2. **In prose, always modify it, by emphasis:**
    - **Sanskritic Radiance Thesis** — civilizational / *ārya* / anti-migration frame (the RAT confrontation).
-   - **Calibrant Radiance Thesis** — linguistic / engineering / contact frame (the Ch18 mechanism).
+   - **Calibrant Radiance Thesis** — linguistic / engineering / contact frame (the Ch19 mechanism).
    The two are interchangeable in reference (Sanskrit *is* the calibrant); pick by local emphasis, exactly as the book alternates *dhātuḥ ↔ atom*, *varṇa ↔ particle*.
 3. **Sanskritic Calibrant Radiance Thesis** — the *full formal name*. Use only when formally defining the thesis in full.
 
@@ -168,7 +168,7 @@ The book's positive mechanism for how Sanskritic material reached distant langua
 
 1. Ch2 is *the category chapter*. It first states the defensible distinctions among natural and constructed origin, standardization, and bounded fixed registers; the four-cell compass then adds adaptive generativity and shows the category into which Sanskrit fits.
 2. Ch2 already forward-references PIE *and* already runs a vivimorphosis instance (*mātṛ*, [Ch2:139](../../as_1_02_botanical.md#L139)) without the *śabda*-molecule machinery. So naming the fourth *cell* costs nothing the chapter isn't already paying.
-3. The compass is most valuable *before* the reader meets the cases, not after. A reader who leaves Ch2 holding all four never confuses the Ch18 tree with the botanical theft Ch2 rejects.
+3. The compass is most valuable *before* the reader meets the cases, not after. A reader who leaves Ch2 holding all four never confuses the Ch19 tree with the botanical theft Ch2 rejects.
 
 The split that resolves Codex's real concern (vivimorphosis needs Ch12's *śabda*): **Ch2 names the cell; Ch12 builds the engine.**
 
@@ -178,7 +178,7 @@ The split that resolves Codex's real concern (vivimorphosis needs Ch12's *śabda
 | **Ch6** (*Apabhraṃśa*) — **COMPLETE 2026-07-21** | the **entropy third dimension** | §6.4 now returns to the same grid and explains all four behaviors under entropic pressure without adding a competing figure. The prose distinguishes botanical absorption, external petrification, constructed-project dependence and botanicalization, and Sanskrit's internally generative calibration; Esperanto returns once as the constructed-to-botanical transition. The obsolete three-column Figure 6.2 has left the body while its source remains tracked. Four editorial passes completed: structure, causal exposition, chapter coherence, and terminology/reference verification. |
 | **Ch12 §12.9** — **PROSE COMPLETE 2026-07-21** | the **mechanism + operational table** | The revised section develops *śabda → bīja → apaśabda*, then applies the four Chapter 2 classifications to a new circumstance by showing who extends each language, where the measure comes from, and what changes. It distinguishes petrification, revivification, constructed-project movement into botanical behavior, and vivimorphosis without turning transitions into additional classifications. It also develops vivimorphosis as endowment. Four editorial passes completed: structural reconciliation with Chapters 2/6, operational table and transition mechanics, causal exposition and chapter coherence, and terminology/reference verification. The layers-vs-time figure remains pending. |
 | **Ch13 §13.5** — **COMPLETE 2026-07-21** | the **revivification comparison** | The section distinguishes the parallel-stream histories of Latin, Greek, Arabic, and Tibetan from Modern Hebrew's return to household speech, childhood acquisition, and daily public use. It defines revivification, explains that botanical change resumes afterward, then returns to Sanskrit and preservation by calibration. Three passes completed: factual boundary and sources, causal-expository rewrite, and terminology/citation/cross-reference verification. |
-| **Ch18 §18.7 — COMPLETE 2026-07-21** | the **trap** | Figure 18.6 now states that the hexagonal Sanskrit molecules remain on the engineered side and that the organic tree belongs to the receiving languages. The following *devaḥ → deus* discussion makes the PIE reversal explicit: the pyramid reads vivimorphosed descendants as evidence for a botanical parent and then makes Sanskrit descend from its own reflected forms. |
+| **Ch19 §19.7 — COMPLETE 2026-07-21** | the **trap** | Figure 19.6 now states that the hexagonal Sanskrit molecules remain on the engineered side and that the organic tree belongs to the receiving languages. The following *devaḥ → deus* discussion makes the PIE reversal explicit: the pyramid reads vivimorphosed descendants as evidence for a botanical parent and then makes Sanskrit descend from its own reflected forms. |
 | **App 8 / Companion** | the **philology receipts** | ✓ AGREE with Codex: the "Western philology did real botanical research" list lives here, used fairly (below). |
 
 ### Next-pass terminology and example bridge
@@ -375,7 +375,7 @@ Fuller than Codex's — the point is to grant the whole program its due before t
 - **Family-tree** (Schleicher 1863) + **wave model** (Schmidt 1872) · **dialect geography**
 - **Semantic change** (Bréal 1897) · **grammaticalization** (Meillet 1912) · **analogy / leveling** · **lexical diffusion** (Wang 1969)
 - **Glottochronology / lexicostatistics** (Swadesh, 1950s) · **modern computational phylogenetics** · **language-death studies** · **internal reconstruction**
-- **PIE reconstruction + laryngeal theory** (the capstone) · **substrate / superstrate / adstrate, creolization** (Thomason & Kaufman 1988 — already cited in Ch18)
+- **PIE reconstruction + laryngeal theory** (the capstone) · **substrate / superstrate / adstrate, creolization** (Thomason & Kaufman 1988 — already cited in Ch19)
 
 The fair frame (✓ AGREE with Codex): *the descriptive work on natural change is sound. The fraud is the category extension — a method built to describe botanical change, treated as universal, then forced onto an engineered calibrant.*
 
@@ -405,7 +405,7 @@ Both impose a classification **from an apex** — a petrified prestige-form (Cla
 **Placement — recommendation:**
 - **Ch2** — the *symmetry* beat, compact: family tree fragments, dialect-label homogenizes, one fraud in two directions. Strengthens Ch2's "foundational category theft" by showing it is one of a matched pair. One example each; no data dump.
 - **Appendix Part 9 (codification story)** — the *detailed* comparative case (Arabic ≈ Romance, mutual-intelligibility, Weinreich, Mair/topolect, Spanish *dialecto*), framed as **the political consequence of petrification** — where it ties to the frozen prestige-form and keeps the main line about Sanskrit.
-- **Ch16 callback (optional)** — when the book rejects the Indic taxonomies: *the world homogenizes (Arabic "dialects") or fragments (the Indic "families"); the subcontinental field is neither.*
+- **Ch17 callback (optional)** — when the book rejects the Indic taxonomies: *the world homogenizes (Arabic "dialects") or fragments (the Indic "families"); the subcontinental field is neither.*
 - **Naming:** treat *"dialect"* like *"Indo-Aryan"* / *"vernacular"* — the pyramid's word, scare-quoted when cited; name languages by geography + directly.
 
 ### Apex language — the pyramid's centralizing move (pulled from Codex, tied to the apex-asura)
@@ -440,7 +440,7 @@ The "dialect" label is the *nomenclature* half of a colonization; the other half
 
 > **⚠ VERIFY before body deployment (Codex's flag — this claim is load-bearing).** Solid and safe: Marathi ← **Maharashtri Prakrit** ← Sanskritic. *Needs sourcing:* **what** the forest-belt languages contributed and **how much** (substrate features — retroflexion, vocabulary — vs. the Prakrit base). Deploy the **airtight version** — *the forest-belt languages live, and they combined* — not a precise proportion. Source the Korku/Ho/Mundari substrate claim (and log it in `working/10_active/as_verification_todo.md`) before it enters the body.
 >
-> **Lead to pursue (author):** Marathi's **reduplication — specifically expressive / echo-word formations** — runs notably heavier than other so-called "Indo-Aryan" languages (Hindi, Punjabi). This is the *strong* kind of evidence: a **structural** substrate signature (Munda / forest-belt), not surface loanwords — so it shows the forest-belt languages *combined into Marathi's grammar*, not just its lexicon. Ties to Ch16, which already lists reduplication as a subcontinental mouth-and-mind feature. **Caveats to handle before deploy:** reduplication is a pan-South-Asian areal feature, and Sanskrit has its own *inherited* grammatical reduplication (perfect, intensive) — so isolate the **expressive/echo** type, and back "heavier than other IA" with **comparative counts**. Flagged, not yet done.
+> **Lead to pursue (author):** Marathi's **reduplication — specifically expressive / echo-word formations** — runs notably heavier than other so-called "Indo-Aryan" languages (Hindi, Punjabi). This is the *strong* kind of evidence: a **structural** substrate signature (Munda / forest-belt), not surface loanwords — so it shows the forest-belt languages *combined into Marathi's grammar*, not just its lexicon. Ties to Ch17, which already lists reduplication as a subcontinental mouth-and-mind feature. **Caveats to handle before deploy:** reduplication is a pan-South-Asian areal feature, and Sanskrit has its own *inherited* grammatical reduplication (perfect, intensive) — so isolate the **expressive/echo** type, and back "heavier than other IA" with **comparative counts**. Flagged, not yet done.
 
 > **Avoid Tamil entirely.** The Dravidian/Tamil-nationalist movement actively denies any Sanskrit debt (the Pure-Tamil purge of Sanskrit loans), so it invites a hostile fight and drags in the "Dravidian" family the book rejects. Korku/Ho/Mundari + Marathi shows the combination cleanly and uses the book's own demonstration languages.
 
@@ -458,7 +458,7 @@ The "dialect" label is the *nomenclature* half of a colonization; the other half
 RAT says Sanskrit arrived by invasion/imposition — the colonizer's move. But invasion *erases*, and nothing was erased: the forest-belt languages survive *and* fed a new combined language. That living combination is the **empirical signature of the Radiance Thesis and the disproof of the Racial Arya Thesis.** Erasure = colonization = pyramid; combination-and-survival = radiance = swastika.
 
 **Placement:**
-- **The payoff (erasure-vs-combination → RRT, not RAT)** → **main line, Ch17–19** (RAT/Radiance): the languages that would be dead if RAT were true are alive — and one of them, via Marathi, is *combined with* the Sanskritic current, not erased by it.
+- **The payoff (erasure-vs-combination → RRT, not RAT)** → **main line, Ch18–19** (RAT/Radiance): the languages that would be dead if RAT were true are alive — and one of them, via Marathi, is *combined with* the Sanskritic current, not erased by it.
 - **The colonization cases** (Amazigh/Coptic/Aramaic + the table) → **Appendix Part 8**, tied into **Ch3** (the Abrahamic colonizations of India).
 - **Lead example: Marathi** = Sanskrit (via Prakrit/Maharashtri) + Korku + Ho + Mundari; forest-belt languages still living. **No Tamil.**
 - **⚠ Scope discipline (Codex's flag).** The Arabic/Coptic/Amazigh/Aramaic comparison balloons into a *second book* fast. Keep the **main line to the single compressed payoff** (*Korku-would-be-Coptic*, ~one line); confine the full comparative apparatus **and its sourcing** to **App 8**. This material is *evidence for the Radiance Thesis*, not a comparative-linguistics treatise — resist the sprawl, and every case (Coptic dead, Amazigh marginalized, Aramaic near-extinct, Persian survived) carries a citation before it deploys.
@@ -482,9 +482,9 @@ The move: in the etymological dictionaries, where a starred PIE root sits above 
 | ⟪भृ⟫ *bhṛ* | \**bʰer-* | *transfer, refer, confer, fertile; metaphor, phosphorus, euphoria…* |
 | ⟪मा⟫ *mā* | \**meh₁-* | *measure, dimension, immense; metre, geometry, symmetry…* |
 
-A huge fraction of English abstract vocabulary sits in these dhātu-fed families. And the *derivational fecundity itself* — one atom yielding dozens of formations — is the dhātu × pratyaya engine's signature, palely persisting in the receiving languages. **Greek, Latin, and Germanic kept their botanical flow and grew richer.** (Ch18 already runs *sthā*/*div*; this generalizes it into the endowment table.)
+A huge fraction of English abstract vocabulary sits in these dhātu-fed families. And the *derivational fecundity itself* — one atom yielding dozens of formations — is the dhātu × pratyaya engine's signature, palely persisting in the receiving languages. **Greek, Latin, and Germanic kept their botanical flow and grew richer.** (Ch19 already runs *sthā*/*div*; this generalizes it into the endowment table.)
 
-**Deployment result:** Chapter 18 §18.7 now places the six-row table after the *sthā* and *deva* demonstrations, identifies the Latin, Greek, and Germanic routes separately, and gives the receiving languages full credit for growing productive families from the received seeds. The accompanying endnote audits every row against the Western etymological apparatus and records the uncertainty around the Greek *metron* branch without weakening the secure Latin *mētīrī* branch. Chapter 19's opening now receives this result as six canopies and turns immediately toward the carriers of Sanskrit's radiance.
+**Deployment result:** Chapter 19 §19.7 now places the six-row table after the *sthā* and *deva* demonstrations, identifies the Latin, Greek, and Germanic routes separately, and gives the receiving languages full credit for growing productive families from the received seeds. The accompanying endnote audits every row against the Western etymological apparatus and records the uncertainty around the Greek *metron* branch without weakening the secure Latin *mētīrī* branch. Chapter 20's opening now receives this result as six canopies and turns immediately toward the carriers of Sanskrit's radiance.
 
 ### Case 2 — Buddhist and Sanskritic carriers extend the radiance across Asia — DEPLOYED 2026-07-21
 
@@ -498,7 +498,7 @@ The East Asian sweep makes the carrier mechanism unusually visible because trans
 
 **The three-way close this enables:** Arabic conquest reached Persia — Persian survived *but Coptic and Amazigh did not*. Sanskritic vocabulary and method reached China, Japan, Tibet, Java, and Siam through identifiable carrier networks, and the receiving languages remained alive, enriched, and themselves. Radiance endows; conquest erases; and the endowment even runs *through* the classical languages of Europe into English, which is why the reader's own abstract vocabulary is full of dhātu-fed families.
 
-**Deployment result:** Chapter 19 §19.2 now follows lexical vivimorphosis (*dhyāna → chán → zen* and three related paths), Japanese *gojūon*, Chinese rime-table phonology, Tibetan grammar and translation terminology, and the wider Southeast Asian map. The endnote verifies the method claims and the *Siṃhapura*, *Ayodhyā*, and *nagara* toponyms while preserving the Pāli and intermediary-language qualification. Chinese has been revised from a blank contrast case to selective reception. Compressed echoes remain available for **App 8** and the Epilogue's radiance material. **Figure hook:** in the layers-vs-time diagram, a strand that takes a radiance pulse should visibly **branch and thicken afterward** — endowment drawn, not asserted.
+**Deployment result:** Chapter 20 §20.2 now follows lexical vivimorphosis (*dhyāna → chán → zen* and three related paths), Japanese *gojūon*, Chinese rime-table phonology, Tibetan grammar and translation terminology, and the wider Southeast Asian map. The endnote verifies the method claims and the *Siṃhapura*, *Ayodhyā*, and *nagara* toponyms while preserving the Pāli and intermediary-language qualification. Chinese has been revised from a blank contrast case to selective reception. Compressed echoes remain available for **App 8** and the Epilogue's radiance material. **Figure hook:** in the layers-vs-time diagram, a strand that takes a radiance pulse should visibly **branch and thicken afterward** — endowment drawn, not asserted.
 
 ## The petrification warning — India now (the prescription)
 
@@ -547,7 +547,7 @@ Codex's plan carries ready-to-hand *usage paragraphs*; the useful ones are colle
 
 *Clean; strong verdict close.*
 
-**Ch18 — the figure-adjacent reminder (keeps the tree on the receiving side):**
+**Ch19 — the figure-adjacent reminder (keeps the tree on the receiving side):**
 > The organic tree belongs on the receiving side. Sanskrit supplies engineered molecules; contact languages grow the botanical forms.
 
 *Clean.*
@@ -568,7 +568,7 @@ Codex's plan carries ready-to-hand *usage paragraphs*; the useful ones are colle
 3. **Petrification's home in the argument.** Claude adds the **Scripture-mode tie-in** (petrification = the language-fate of the written-holy-book mode), welding it to the existing Ch13–14 Scripture-vs-*śruti* spine rather than treating it as a standalone clarification.
 4. **Esperanto.** The earlier Claude draft treated Esperanto as the permanent exemplar of engineered + low generativity. The reconciled plan treats the cell as a constructed-project starting condition and Esperanto as a rapid movement toward botanical behavior.
 
-The useful material from the older Codex plan is now retained here: **where adaptation happens**; the distinction between vivimorphosis and revivification; the bounded-register guardrail for Arabic, Hebrew, and Latin; the **apex-language** analysis; Prakrit as calibrant-adjacent/orbital rather than the flagship vivimorphosis case; Old Persian, Greek, Latin, and Buddhist Asia as radiance/endowment cases; the Ch12 mechanism; the Ch18 PIE reversal; the appendix philology receipts; and the rule to **never draw Sanskrit as a tree**. The older Codex plan can now be treated as historical working material rather than a competing deployment plan.
+The useful material from the older Codex plan is now retained here: **where adaptation happens**; the distinction between vivimorphosis and revivification; the bounded-register guardrail for Arabic, Hebrew, and Latin; the **apex-language** analysis; Prakrit as calibrant-adjacent/orbital rather than the flagship vivimorphosis case; Old Persian, Greek, Latin, and Buddhist Asia as radiance/endowment cases; the Ch12 mechanism; the Ch19 PIE reversal; the appendix philology receipts; and the rule to **never draw Sanskrit as a tree**. The older Codex plan can now be treated as historical working material rather than a competing deployment plan.
 
 ## Open decisions (superset of Codex's)
 

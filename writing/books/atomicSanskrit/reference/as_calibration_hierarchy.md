@@ -63,12 +63,12 @@ Codex review (2026-05-19) drafted a 12-point compression of the pyramid's specul
 - Point 2: *Indo-European* scare-quoted as the pyramid's family-taxonomy (per CLAUDE.md banned-unquoted rule); Bopp / Schleicher named as the founding figures.
 - Point 5: *read* replaced with *inferred* (per CLAUDE.md banned-verb rule); *daughter language / siblings* recast to avoid the botanical metaphor in the book's own voice.
 - Point 6: *racial Arya thesis* introduced as the shared premise beneath the pyramid's invasion and migration mechanisms.
-- Point 7: *mūrdhanya* + *āryatva* anchored to Chapter 16; the *disproof* lands as one sentence (migrants unable to produce retroflexes could not have engineered a language requiring them).
+- Point 7: *mūrdhanya* + *āryatva* anchored to Chapter 17; the *disproof* lands as one sentence (migrants unable to produce retroflexes could not have engineered a language requiring them).
 - Point 9 (in deployed version): the *heroic erasure* standing term (Chapter 1 §1.6, Chapter 13 §13.3) is named by reference.
 - Points 8, 9, 10, 11: the pyramid's namings scare-quoted (*"late conservatism," "codification," "evolving Vedic Sanskrit," "Pāṇinian codification," "Classical Sanskrit as late standardization"*) to make the attribution visible.
 - New Point 10 / Point 11 (deployed version): *bake/recipe* cooking-vocabulary deployed at the chain-summary point (*"The chain is the recipe; PIE is the bake"*).
 - New Point 12 (deployed version, replacing Codex's Point 11/12): the *data-now-contests-the-chain* move — Path A's productivity-particle signature, Path C's cross-corpus invariance, the column-axis concentration, the *juhotyādi* C4-enrichment — added as the closing structural move; the chain survived because no link had been falsified; the links are no longer unfalsified.
-- Closing paragraph: *useful comparative apparatus* concession dropped (per the book's Ch 17–18 polemic position); the *church of progress / priests / jihadis / missionaries / asuric mode* vocabulary deployed in place of the generic *"institutional robes."*
+- Closing paragraph: *useful comparative apparatus* concession dropped (per the book's Ch 18–18 polemic position); the *church of progress / priests / jihadis / missionaries / asuric mode* vocabulary deployed in place of the generic *"institutional robes."*
 
 The deployed version lives at `as_1_01_botanical.md` §1.1 (the *Two speculations* subsection, *The pyramid's speculation* sub-subsection).
 
@@ -145,10 +145,10 @@ The deployed version lives at `as_1_01_botanical.md` §1.1 (the *Two speculation
 *Records where the framework has been deployed in the manuscript. Update when prose or claim lands a calibration-hierarchy reference.*
 
 - [x] **`reference/as_calibration_hierarchy.md`** — this file (reference source, 2026-05-19).
-- [x] **`as_1_01_botanical.md` §1.1** — *Two speculations — the seed* short paragraph (2026-05-19). Announces the framework and forward-points to Ch 17 §17.5 for the full comparison. Per Codex's placement advice: early in the book the comparison reads as assertion-vs-assertion; the full deployment waits until the architecture is on the table.
-- [x] **`as_1_17_wrong_question.md` §17.5** — *How the Story Got Built* full section (2026-05-19) added as the prosecutorial summation. Closes the chapter that establishes the architectural test and names the gaslighting move; lands the comparison as judgment after the evidence has been presented in Chapters 1–16.
-- [x] **`as_0_01_preface.md`** — *Nāsadīya Sūkta* epistemic-stance passage (2026-05-19) added as the closing positioning move of the Preface body. Two first-person paragraphs anchor the *we do not know* honesty in *Ṛgveda* 10.129, point forward to Ch 17 §17.7 for the rationalist-mind speculation, and restate the book's refrain as the positive claim. The Preface establishes this epistemic stance in the first person; Ch 17 §17.5 returns to it in a third-person verdict voice.
-- [x] **`as_endnotes.md` `calibration-hierarchy`** — endnote stub added; deployment reference relocated to Ch 17 §17.5 (the full-deployment site).
+- [x] **`as_1_01_botanical.md` §1.1** — *Two speculations — the seed* short paragraph (2026-05-19). Announces the framework and forward-points to Ch 18 §18.5 for the full comparison. Per Codex's placement advice: early in the book the comparison reads as assertion-vs-assertion; the full deployment waits until the architecture is on the table.
+- [x] **`as_1_18_wrong_question.md` §18.5** — *How the Story Got Built* full section (2026-05-19) added as the prosecutorial summation. Closes the chapter that establishes the architectural test and names the gaslighting move; lands the comparison as judgment after the evidence has been presented in Chapters 1–17.
+- [x] **`as_0_01_preface.md`** — *Nāsadīya Sūkta* epistemic-stance passage (2026-05-19) added as the closing positioning move of the Preface body. Two first-person paragraphs anchor the *we do not know* honesty in *Ṛgveda* 10.129, point forward to Ch 18 §18.7 for the rationalist-mind speculation, and restate the book's refrain as the positive claim. The Preface establishes this epistemic stance in the first person; Ch 18 §18.5 returns to it in a third-person verdict voice.
+- [x] **`as_endnotes.md` `calibration-hierarchy`** — endnote stub added; deployment reference relocated to Ch 18 §18.5 (the full-deployment site).
 - [x] **`as_endnotes.md` `nasadiya-sukta`** — endnote stub added for the Preface deployment; carries the Sanskrit + IAST + translation of *Ṛgveda* 10.129.7 and the source citations.
 - [ ] **`CLAUDE.md`** — standing-framework note + four-term-stack cross-link.
 - [ ] **`reference/as_toc_annotated.md` Claim 2** — refine to absorb the *Aṣṭādhyāyī*-as-working-calibrant framing.

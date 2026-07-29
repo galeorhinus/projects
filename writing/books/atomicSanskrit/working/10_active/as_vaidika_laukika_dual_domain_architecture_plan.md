@@ -520,7 +520,7 @@ The appendix should establish six claims in sequence.
 
 ### Working title
 
-**Appendix Part 8 — One Architecture, Two Domains**
+**Appendix Part 8 — Designed Variations Across the Two Domains**
 
 Possible subtitle:
 
@@ -1097,7 +1097,7 @@ Insert the new appendix after **Appendix Part 7 — The Vedic Carrier**:
 
 1. **Appendix Part 7 — The Vedic Carrier** establishes that the architecture is
    already operating in the Vedic corpus.
-2. **Appendix Part 8 — One Architecture, Two Domains** explains why the two
+2. **Appendix Part 8 — Designed Variations Across the Two Domains** documents how the two
    domains deploy parts of that architecture differently.
 3. **Appendix Part 9 — The Codification Story, Refuted** uses that architecture
    to dismantle the imposed chronology.
@@ -1137,7 +1137,7 @@ same architecture.
 | **Chapter 14 §14.5** | give the main-body explanation of the preservation architecture | State the complete thesis in readable prose, use one sound example, one operator example, and *leṭ*, then point to the appendix. |
 | **Chapter 16 §16.9** | use **ळ** as evidence from the subcontinental sound-field | Preserve the local example. Compress any general domain explanation already established in Chapters 9 and 14. |
 | **Appendix Part 7 — The Vedic Carrier** | demonstrate that the architecture is already operating in Vedic passages | Keep the worked passages and evidence table. Replace the broad domain synthesis with a bridge to the new appendix. |
-| **Appendix Part 8 — One Architecture, Two Domains** | provide the full technical exposition of the internal architecture | Own the computer-science model, the social-responsibility matrix, the coordinate tests, and the calibration path. Point back to Chapter 0 instead of repeating its complete antiquity and chronology argument. |
+| **Appendix Part 8 — Designed Variations Across the Two Domains** | provide the full technical evidence for the internal architecture | Own the exact passages, inventories, counts, figures, collision tests, and source qualifications. Point to Chapter 16 for the conceptual and civilizational argument. |
 | **Appendix Part 9 — The Codification Story, Refuted** | dismantle the chronology and codification account | State the pyramid's claim and rebut it. Point to Part 8 for the architecture instead of defining the domains again. |
 | **Upasarga Radiance Mapping / Appendix Part 1** | analyze operators in detail and follow their radiance into Greek, Latin, and other receiving languages | Own the operator inventory, multiple-upasarga evidence, constructed ambiguity example, and external comparisons. Use the read-only / write-enabled model as a short premise and point to Part 8 for its complete explanation. |
 | **Endnotes and Source and Reference Companion** | preserve verification, paradigms, citations, and rejected or unresolved examples | Do not repeat the thesis. Supply the evidence required to test it. |
@@ -1390,10 +1390,10 @@ contributions without repeating the passage in four sections.
 Build and approve the body chapter before moving or deleting anything in the
 promoted appendix.
 
-Create:
+The drafting phase created:
 
-- `working/10_active/as_ch16_one_architecture_two_domains_body_draft_codex.md`
-  for the non-building body draft; and
+- `as_1_16_one_architecture_two_domains.md`, now the promoted body chapter;
+  and
 - `working/10_active/as_ch16_appendix_split_ownership_codex.md` for paragraph,
   example, figure, and subsection ownership.
 
@@ -1425,45 +1425,47 @@ Complete the body draft in six passes:
    appendix, verify every claim and pointer, and classify every repeated or
    displaced passage in the ownership ledger.
 
-Stop for author review after these six passes. Do not add the draft to
-`as_book.yaml`, renumber the existing chapters, or remove material from the
-appendix before that review is complete.
+The author review followed these six passes. The approved chapter then entered
+`as_book.yaml`, and the existing chapters were renumbered without removing
+material from the appendix.
 
 **Drafting status:** All six passes are complete in
-`working/10_active/as_ch16_one_architecture_two_domains_body_draft_codex.md`.
+`as_1_16_one_architecture_two_domains.md`.
 The ownership and evidence audit is recorded in
-`working/10_active/as_ch16_appendix_split_ownership_codex.md`. The draft now
-awaits author review; no live manuscript migration has begun.
+`working/10_active/as_ch16_appendix_split_ownership_codex.md`. The body chapter
+has been approved and promoted.
 
 ### Controlled Renumbering and Migration
 
 Do not perform a blind numerical replacement. Execute the split as a controlled
 migration:
 
-- [ ] Complete and approve the non-building Chapter 16 draft.
-- [ ] Freeze the exact paragraph, example, figure, and subsection ownership
+- [x] Complete and approve the non-building Chapter 16 draft.
+- [x] Freeze the exact paragraph, example, figure, and subsection ownership
   map.
-- [ ] Promote the approved draft to
+- [x] Promote the approved draft to
   `as_1_16_one_architecture_two_domains.md` without deleting material from
   Appendix Part 8.
-- [ ] Use `git mv` to renumber the current Chapters 16–19 as Chapters 17–20.
-- [ ] Place the new chapter before the current Part VI opener.
-- [ ] Rename every affected numbered section.
-- [ ] Update the build order and chapter metadata.
-- [ ] Update contextual references to Chapters 16–20 and their numbered
+- [x] Use `git mv` to renumber the current Chapters 16–19 as Chapters 17–20.
+- [x] Place the new chapter before the current Part VI opener.
+- [x] Rename every affected numbered section.
+- [x] Update the build order and chapter metadata.
+- [x] Update contextual references to Chapters 16–20 and their numbered
   sections; distinguish references to the new Chapter 16 from references to the
   former Chapter 16.
-- [ ] Update endnote deployments, figure identifiers and captions, Part
+- [x] Update endnote deployments, figure identifiers and captions, Part
   openers, the TOC, annotated TOC, thesis summaries, claims documents, active
   plans, and public-facing descriptions.
-- [ ] Retitle and renumber Appendix Part 8 internally after the body material
+- [x] Retitle and renumber Appendix Part 8 internally after the body material
   moves.
-- [ ] Remove duplicated prose only after every passage has an established
+- [x] Remove duplicated prose only after every passage has an established
   owner.
-- [ ] Preserve every removed or condensed passage in the Appendix Part 8 Lost
+- [x] Preserve every removed or condensed passage in the Appendix Part 8 Lost
   and Found document.
-- [ ] Search for stale `Chapter 16`, `§16`, `Chapter 17`, `§17`, `Chapter 18`,
+- [x] Search for stale `Chapter 16`, `§16`, `Chapter 17`, `§17`, `Chapter 18`,
   `§18`, `Chapter 19`, `§19`, figure-number, and appendix references.
+- [x] Assemble both full- and short-endnote manuscripts and verify that
+  Chapters 0–20 appear once, in order, with no missing assembly files.
 - [ ] Rebuild the short and full trade PDFs and inspect the TOC, chapter
   openings, running headers, figure numbering, and cross-references.
 

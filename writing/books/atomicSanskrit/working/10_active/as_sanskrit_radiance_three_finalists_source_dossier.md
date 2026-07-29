@@ -130,7 +130,7 @@ The case does not establish transmission direction alone. The institutional proj
 > *uvāca me varuṇo medhirāya triḥ sapta nāmāghnyā bibharti |*  
 > *vidvān padasya guhyā na vocad yugāya vipra uparāya śikṣan ||*
 
-The form **बिभर्ति (*bibharti*)** is especially useful because one Vedic word contains both **ब (*b*)** and **भ (*bh*)**. Sanskrit takes the initial of the atom into the reduced repeated syllable **बि (*bi*)**, while the full **भ (*bh*)** remains in the following syllable. Pāṇini later documents this repeated element as **अभ्यास (*abhyāsa*)** and specifies its formation. Chapter 16 already establishes the Vedic-first account of this operation.
+The form **बिभर्ति (*bibharti*)** is especially useful because one Vedic word contains both **ब (*b*)** and **भ (*bh*)**. Sanskrit takes the initial of the atom into the reduced repeated syllable **बि (*bi*)**, while the full **भ (*bh*)** remains in the following syllable. Pāṇini later documents this repeated element as **अभ्यास (*abhyāsa*)** and specifies its formation. Chapter 17 already establishes the Vedic-first account of this operation.
 
 **Text:** [Ṛgveda 7.87.4 with saṃhitā and padapāṭha](https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc835306.html). Final production should cite the selected printed Ṛgveda edition.
 
@@ -268,7 +268,7 @@ The conventional account places reconstructed **\*ǵenh₁-**, "beget / produce,
 
 ### Existing manuscript value
 
-Chapter 18 already contains:
+Chapter 19 already contains:
 
 - the dictionary-history shift from Sanskrit *janaka* to reconstructed **\*ǵenh₁-**
 - the *king* opening and payoff

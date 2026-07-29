@@ -1,6 +1,6 @@
 # Turīya — Metaphor Leverage Plan (options)
 
-*Working doc. How **तुरीय (*turīya*)** — "the fourth" — can be leveraged in *Atomic Sanskrit*'s metaphor system. Proposal stage. Nothing is deployed in the book yet except one author seed at Ch 19 §19.4 (~line 119): "Atri finds the hidden Sun through **turīya brahman**, the fourth formulation of disciplined speech." Drafted 2026-06-15.*
+*Working doc. How **तुरीय (*turīya*)** — "the fourth" — can be leveraged in *Atomic Sanskrit*'s metaphor system. Proposal stage. Nothing is deployed in the book yet except one author seed at Ch 20 §20.4 (~line 119): "Atri finds the hidden Sun through **turīya brahman**, the fourth formulation of disciplined speech." Drafted 2026-06-15.*
 
 ---
 
@@ -38,12 +38,12 @@ Turīya is **not** an external Vedāntic graft. It sits *inside the book's own e
 
 ### Option A — Wave 3 **is** Turīya (the recognition) — *PRIMARY*
 
-§19.4 already frames Wave 3 as *relearning* and closes on "Recognition can now become invitation." Turīya names exactly that: the first three movements act; the fourth *sees*.
+§20.4 already frames Wave 3 as *relearning* and closes on "Recognition can now become invitation." Turīya names exactly that: the first three movements act; the fourth *sees*.
 
-**Proposed prose (early in §19.4, after "three deployments"):**
+**Proposed prose (early in §20.4, after "three deployments"):**
 > The first three moved outward — corpus, method, restatement carried the architecture into other mouths and other ages. The fourth moves the other way. It is not a fourth deployment; it is the **तुरीय (*turīya*)** of the other three — not a state beside waking, dream, and sleep, but the awareness that holds all three. Wave 3 is turīya: not a new thing Sanskrit *does*, but Sanskrit's bearers waking to what Sanskrit *is*. The first three waves act. The fourth sees. The restatement is only its instrument; the recognition is the work.
 
-- *Light variant:* one sentence naming Wave 3 as turīya at the §19.4 open + the existing line-119 seed.
+- *Light variant:* one sentence naming Wave 3 as turīya at the §20.4 open + the existing line-119 seed.
 - *Heavy variant:* the full passage above + an Epilogue echo (the Atris find the Sun = recognition, not rediscovery; the reader-as-Wave-3-ṛṣi = the witness waking).
 
 ### Option B — the four movements as **Oṃ unfolding** (A‑U‑M‑Turīya) — *LIGHT, once only*
@@ -57,13 +57,13 @@ Tie the waves to the Oṃ the book already venerates (Ch 7):
 | Diasporic Wave — substrate carried unawares | **M / Suṣupti** (deep sleep, dormant) | exact |
 | Wave 3 — recognition | **Turīya** (the witness / silence after A‑U‑M) | exact |
 
-- **Caveat:** deploy **once, lightly** (a single reveal in §19.4, or a figure caption / sidebar). Three joints are exact; Wave 2 ↔ dream is a stretch. Used once = elegant; repeated = gimmick.
+- **Caveat:** deploy **once, lightly** (a single reveal in §20.4, or a figure caption / sidebar). Three joints are exact; Wave 2 ↔ dream is a stretch. Used once = elegant; repeated = gimmick.
 
 ### Option C — Turīya as the **source**: the fourth formulation (descent vs. PIE) — *PRIMARY*
 
 The most on-thesis lever, because the book is about Sanskrit's **origin**. PIE asks for a *horizontal* ancestor on a timeline. The four-Vāk / fourth-formulation frame answers **vertically**: the architecture descends from the fourth / transcendent formulation of speech, three quarters hidden, one spoken.
 
-**Proposed prose (Ch 18 close or §19.4):**
+**Proposed prose (Ch 19 close or §20.4):**
 > PIE looked sideways for a parent. The Vedic account looks *down* a different axis: speech in four quarters, three hidden, the engineered architecture descending from the fourth. The ancestor philology could not find was never beside Sanskrit on a line. It was above it — in the formulation men do not ordinarily speak.
 
 - Reframes "where Sanskrit comes from" from **genealogy** to **descent from the fourth**.
@@ -80,7 +80,7 @@ So the Wave-3 payoff is not cold:
 
 The keystone verse stages **two** responses to Svarbhānu's eclipse-māyā: **Indra strikes** it down by force (*ava ahan*, "struck down"); **Atri finds** the hidden Sun *turīyeṇa brahmaṇā* — by the fourth precise formulation. That is the book's method in a single verse: the eclipsed category is not restored by force or counter-polemic but by **precise architectural formulation** — *vyākaraṇam*, the calibrant, the engineered grid. Atri = the caretaker-lineage (the Atris of the eclipse frame); the fourth formulation = the architecture this book restates.
 
-**Proposed prose (Epilogue, or §19.4, or Ch 2's asurī-māyā close):**
+**Proposed prose (Epilogue, or §20.4, or Ch 2's asurī-māyā close):**
 > Indra struck the illusion; Atri found the Sun. Two ways to meet an eclipse — force, and formulation. The Sun behind the asurī māyā is not punched back into the sky. It is found, by the fourth formulation — the precise, disciplined speech the darkness could hide but never unmake.
 
 - Ties the book's **method** (recovery by formulation, not force) to its keystone verse — and to the courtroom frame (fight on the pyramid's ground with exact formulation, not violence).
@@ -90,7 +90,7 @@ The keystone verse stages **two** responses to Svarbhānu's eclipse-māyā: **In
 
 ## Deployment packages
 
-- **Minimal:** sharpen the existing §19.4 seed (Option A *light*) + the *brahman = formulation* footnote. Lowest risk; turīya stays a single grace note.
+- **Minimal:** sharpen the existing §20.4 seed (Option A *light*) + the *brahman = formulation* footnote. Lowest risk; turīya stays a single grace note.
 - **Recommended:** **A + C** (the two load-bearing) + the **D** seed; **B** as a single reveal. Recognition + origin, lightly foreshadowed.
 - **Maximal:** A + B + C + D fully developed across Ch 0, 1, 7, 18, 19, Epilogue. ⚠️ Risk of over-gridding — the structure starts to feel imposed.
 
@@ -119,12 +119,12 @@ To see that A / C / E are **one arc, not three inserts** — a single motif (*th
 
 **The combination in one line:** one motif (*the fourth formulation*), three jobs — *how* the recovery works (method), *where* the architecture comes from (origin), and *what* the recovery actually is (recognition). Drop any one and the arc loses a beat.
 
-**Placement when deployed (not as a block):** **E** → Ch 2 *asurī-māyā* close or the Epilogue; **C** → Ch 18 (PIE removal); **A** → §19.4 / the Epilogue handoff.
+**Placement when deployed (not as a block):** **E** → Ch 2 *asurī-māyā* close or the Epilogue; **C** → Ch 19 (PIE removal); **A** → §20.4 / the Epilogue handoff.
 
 ## Cross-references
 
-- Ch 19 §19.4 (Wave 3; current seed at ~line 119); the Epilogue (the Atris find the Sun = recognition).
+- Ch 20 §20.4 (Wave 3; current seed at ~line 119); the Epilogue (the Atris find the Sun = recognition).
 - Ch 7 (Oṃ / A‑U‑M) — home of Option B.
-- Ch 18 (PIE removed) — home of Option C's descent reframe.
+- Ch 19 (PIE removed) — home of Option C's descent reframe.
 - Ch 0 §§ (Seekers / Infinite / *pūrṇam*) and Ch 1 (the apex) — Option D seeds.
 - Eclipse frame (Preface; Svarbhānu / Sūrya / the Atris) — the witness-never-eclipsed tie.

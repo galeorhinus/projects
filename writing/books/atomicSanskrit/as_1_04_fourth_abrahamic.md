@@ -95,7 +95,7 @@ Grants, fellowships, endowed centers, foundation programs, university presses, h
 
 The academy is the central church, but the church has arms. International bureaucracies propagate doctrine in policy language. NGOs and foundations propagate it in development language. Legacy media propagate it in cultural language. Courts and treaty regimes propagate it in legal language. Each arm uses credentialed personnel, approved vocabulary, institutional housing, and boundary policing. The vocabulary differs. The church remains one.
 
-The church's catechism work is visible in the cementing of Proto-Indo-European into the routine reference machinery. Across recent decades — the very window during which India's dharmic-civilizational re-emergence has begun to threaten the pyramid's settled assumptions — the standard etymological references and Indo-European dictionaries have multiplied and hardened.[NOTE: pie-cementing-recent-decades] The dogma is being reinforced at exactly the moment an alternative is beginning to assemble itself, as Chapter 18 traces in detail.
+The church's catechism work is visible in the cementing of Proto-Indo-European into the routine reference machinery. Across recent decades — the very window during which India's dharmic-civilizational re-emergence has begun to threaten the pyramid's settled assumptions — the standard etymological references and Indo-European dictionaries have multiplied and hardened.[NOTE: pie-cementing-recent-decades] The dogma is being reinforced at exactly the moment an alternative is beginning to assemble itself, as Chapter 19 traces in detail.
 
 ## 4.4 The Three Classes
 
@@ -105,7 +105,7 @@ The **missionaries of progress** export the framework. They arrive as developmen
 
 In the Sanskrit question, the same class now appears through popular synthesis. Ancient DNA, archaeology, and linguistic reconstruction are braided into a general-reader migration story in which PIE becomes a reconstructed people-and-language package, the steppe becomes the source-zone, and Sanskrit becomes one branch among many. The racial Arya thesis survives in softened vocabulary. The form is no longer crude invasion. It is public pedagogy, advanced by the missionaries of progress.[NOTE: popular-pie-missionaries]
 
-That pedagogy turns population movement into civilizational authorship; Chapter 17 returns to the trap in full.
+That pedagogy turns population movement into civilizational authorship; Chapter 18 returns to the trap in full.
 
 The **jihadis of progress** defend the framework. They attack heterodox work through labels that end argument before argument begins: anti-science, regressive, extremist, pseudo-scholarship, communal, majoritarian. The point is not refutation. The point is contamination. Once the label attaches, the work need not be read. In the Indian context, *communalism* performs the work *heresy* performed in earlier Christian usage: it brands the challenger as morally outside the field of permissible speech.
 
@@ -145,7 +145,7 @@ The verdict remains the same. The hero is the challenger denied standing. The vi
 
 The Hindu continuum supplies older words for the same pattern. They distinguish the darkness, the actor, and the repeated habit of action. **तमस् (*tamas*)** is inertia and darkness: the quality of an operation that cannot accommodate light. **असुराः (*asurāḥ*)** are the actors who consolidate power through hierarchy, deception, and withheld light. ***Asuratva*** (असुरत्व) is the recurring mode in which they act.
 
-**स्वर् (*svar*)** gathers sun, heaven, light, the bright firmament, and the *dhātu* ⟪सुर्⟫ (*sur*) means *to shine* — the morphology gives the diagnosis. **सुरः (*suraḥ*)** is the shining one. **असुरः (*asuraḥ*)** is the privative formation: not-light. An asuric formation operates by withholding light — the obscuration Chapter 1 §1.3 traces to **स्वर्भानु (*Svarbhānu*)**, whose name contains the very *svar* he eclipses: Sūrya darkened, not destroyed. Chapter 3 §3.6 develops the full analysis of the *asura* word; Chapter 18 develops the contact-history consequences; the polity-architectural implications belong to a forthcoming volume in the *Second Shanti* series.
+**स्वर् (*svar*)** gathers sun, heaven, light, the bright firmament, and the *dhātu* ⟪सुर्⟫ (*sur*) means *to shine* — the morphology gives the diagnosis. **सुरः (*suraḥ*)** is the shining one. **असुरः (*asuraḥ*)** is the privative formation: not-light. An asuric formation operates by withholding light — the obscuration Chapter 1 §1.3 traces to **स्वर्भानु (*Svarbhānu*)**, whose name contains the very *svar* he eclipses: Sūrya darkened, not destroyed. Chapter 3 §3.6 develops the full analysis of the *asura* word; Chapter 19 develops the contact-history consequences; the polity-architectural implications belong to a forthcoming volume in the *Second Shanti* series.
 
 *Asuratva* has a characteristic geometry: the pyramid. Authority concentrates at the apex, labor spreads across the tiers, and the base loses its voice. The apex is jealous of an order he did not build and cannot place under his command. A distributed architecture threatens the entire arrangement because it demonstrates another form of order with no summit for him to occupy.
 

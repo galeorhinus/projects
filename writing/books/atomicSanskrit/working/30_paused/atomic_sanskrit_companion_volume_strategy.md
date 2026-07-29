@@ -183,8 +183,8 @@ Likely source material:
 - Appendix Part 0
 - Appendix Part 1 if colonial machinery is developed there
 - Appendix Part 3 polemic sections
-- Chapter 17: wrong question / gaslighting with footnotes
-- Chapter 18: PIE in the sky
+- Chapter 18: wrong question / gaslighting with footnotes
+- Chapter 19: PIE in the sky
 - Epilogue: contest of architectures and sat / bhūta-hitam close
 
 ### Differentiation from the Founding Book

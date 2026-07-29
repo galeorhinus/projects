@@ -758,12 +758,12 @@ Optional.
 
 ## Part VI — The Cross-Examination
 
-### Ch 16 — Retroflex (as_1_16)
+### Ch 17 — Retroflex (as_1_17)
 
-**Tier — Strong.** Ch 16's central observation — that *ṛ* and *ra*
+**Tier — Strong.** Ch 17's central observation — that *ṛ* and *ra*
 operate at the same articulatory site at two scales (vowel and
 consonant) — is *itself* fractal behavior at the *varṇamālā* level.
-Add a one-paragraph note at §16.2 close making this explicit.
+Add a one-paragraph note at §17.2 close making this explicit.
 
 Suggested wording:
 
@@ -774,15 +774,15 @@ Suggested wording:
 > book's larger fractal claim, now operating inside a single* varga
 > *row.*
 
-### Ch 17 — Wrong Question (as_1_17)
+### Ch 18 — Wrong Question (as_1_18)
 
-**Tier — Nice.** Ch 17 critiques the philological frame. A line about
+**Tier — Nice.** Ch 18 critiques the philological frame. A line about
 how the orthodoxy never asked the fractal question would fit, but is
 not load-bearing.
 
-### Ch 18 — PIE in the Sky (as_1_18)
+### Ch 19 — PIE in the Sky (as_1_19)
 
-**Tier — Strong.** Ch 18 prosecutes PIE. The fractal frame supplies a
+**Tier — Strong.** Ch 19 prosecutes PIE. The fractal frame supplies a
 new charge: PIE-reconstruction cannot reproduce the fractal structure
 of Sanskrit because it operates at one scale (lexical comparison) and
 cannot see the engineering law that recurs across six. Add a paragraph
@@ -800,9 +800,9 @@ in the closing prosecution:
 
 ## Part VII — The Remedy
 
-### Ch 19 — Life After PIE (as_1_19)
+### Ch 20 — Life After PIE (as_1_20)
 
-**Tier — Strong.** Ch 19 names what comes after the prosecution. The
+**Tier — Strong.** Ch 20 names what comes after the prosecution. The
 fractal frame supplies the positive content: *the way out of the
 philological framework is to learn to see Sanskrit fractally — to ask
 what engineering law operates at every scale, not what reconstruction
@@ -956,7 +956,7 @@ Completed or parked:
    frame, with civilizational expansion deferred to later *Second
    Shanti* volumes.
 4. **Architecture echoes** — Ch 8 and Ch 14 carry the important
-   lower-scale and language-scale echoes; Ch 2, Ch 4, Ch 7, and Ch 17
+   lower-scale and language-scale echoes; Ch 2, Ch 4, Ch 7, and Ch 18
    carry small local echoes without changing register.
 5. **Ch 12** — full prose deferred. Notes now require scale-continuity
    rather than repeated use of the word *fractal*: sentence assembly
@@ -966,8 +966,8 @@ Remaining:
 
 1. **Ch 12 full prose pass** — deferred until the chapter itself is
    drafted.
-2. **Optional preservation/prosecution echoes** — Ch 13, Ch 16, Ch 18,
-   and Ch 19 can be revisited only if the local prose needs the
+2. **Optional preservation/prosecution echoes** — Ch 13, Ch 17, Ch 19,
+   and Ch 20 can be revisited only if the local prose needs the
    connection.
 3. **Public-facing article** — possible later piece:
    *From Mouth to Language: Sanskrit's Repeating Architecture*.

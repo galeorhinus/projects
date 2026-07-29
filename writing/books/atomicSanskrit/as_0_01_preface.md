@@ -91,7 +91,7 @@ Modern Indian advocates have maintained this position under active institutional
 
 The chapters follow Sanskrit across scale: *varṇa* as sonomer, *akṣara* as audiograph, *dhātuḥ* as atom, *śabda* as molecule, *upasarga* and *pratyaya* as bonding chemistry, and sentence as assembly. The Vedas encode this architecture and preserve it in operation. Pāṇini's *Aṣṭādhyāyī* provides its finest surviving *sūtra*-level documentation, while the Vedic recitation systems keep the encoded form audible through mutually checking procedures.[NOTE: patanjali-siddhe-shabdarthasambandhe][NOTE: eleven-pathas]
 
-The origin of Sanskrit is not the primary domain here (though **अपौरुषेय (*apauruṣeya*)** remains the answer preserved by the lineage-chain, and Chapter 17 §17.7 offers an honest speculation for the rationalist mind that cannot accept it). The observable claim is much narrower: Sanskrit's engineering exists on the page and in the mouth. Because the Vedas preserve it and the decoding lineages unfold it, Pāṇini's unfolding is simply the finest surviving document of that continuous work.
+The origin of Sanskrit is not the primary domain here (though **अपौरुषेय (*apauruṣeya*)** remains the answer preserved by the lineage-chain, and Chapter 18 §18.7 offers an honest speculation for the rationalist mind that cannot accept it). The observable claim is much narrower: Sanskrit's engineering exists on the page and in the mouth. Because the Vedas preserve it and the decoding lineages unfold it, Pāṇini's unfolding is simply the finest surviving document of that continuous work.
 
 Seeing Sanskrit as calibrant architecture restores the field that the eclipse darkened.
 

@@ -159,10 +159,10 @@ The slug is the third segment of the manuscript filename (`as_<zone>_<seq>_<slug
 | `preservation` | `as_1_13_preservation.md` | Chapter 13 — *Why Preservation Needs Engineering* |
 | `calibration` | `as_1_14_calibration.md` | Chapter 14 — *The Calibration Matrix* |
 | `aural` | `as_1_15_aural.md` | Chapter 15 — *Aural Architecture* |
-| `retroflex` | `as_1_16_retroflex.md` | Chapter 16 — retroflex / *āryatva* |
-| `wrong_question` | `as_1_17_wrong_question.md` | Chapter 17 — *PIE in the Sky* |
-| `pie_in_sky` | `as_1_18_pie_in_sky.md` | Chapter 18 — *PIE in the Sky* (prosecution close) |
-| `life_after_pie` | `as_1_19_life_after_pie.md` | Chapter 19 — *Life After PIE* |
+| `retroflex` | `as_1_17_retroflex.md` | Chapter 17 — retroflex / *āryatva* |
+| `wrong_question` | `as_1_18_wrong_question.md` | Chapter 18 — *The Wrong Question* |
+| `pie_in_sky` | `as_1_19_pie_in_sky.md` | Chapter 19 — *PIE in the Sky* (prosecution close) |
+| `life_after_pie` | `as_1_20_life_after_pie.md` | Chapter 20 — *Life After PIE* |
 
 **End matter** (zone 2):
 

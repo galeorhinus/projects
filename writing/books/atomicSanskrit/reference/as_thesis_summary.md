@@ -45,9 +45,9 @@ The Eight Core Theses describe the movement of the argument. The Eclipse Ledger 
 
 3. **The family-tree metaphor is the foundational category theft of historical linguistics.** The discipline arranges the world's languages like a family tree — a parent branching into daughters that drift and mutate across generations. That picture fits a natural language; it fails on one engineered against that behavior. **Chapter 2.**
 
-4. **PIE is an imaginary language placed above a real one.** It is unattested in any speech community, inscription, recitation lineage, or text. The asterisk is the visible confession: a reconstructed form installed in the source slot. **Chapter 18.**
+4. **PIE is an imaginary language placed above a real one.** It is unattested in any speech community, inscription, recitation lineage, or text. The asterisk is the visible confession: a reconstructed form installed in the source slot. **Chapter 19.**
 
-5. **RAT supplies imaginary people, PIE supplies an imaginary language, and starred reconstructions supply imaginary words.** The phrase *Indo-Aryan languages* then binds the inventions into ordinary academic speech. Sanskrit is real; *ārya* is real; the Vedic corpus is real. The racial Arya thesis, the imaginary ancestor, and the source-slot asterisk are the devices by which the real civilization is made external to itself. **Chapters 17 and 18.**
+5. **RAT supplies imaginary people, PIE supplies an imaginary language, and starred reconstructions supply imaginary words.** The phrase *Indo-Aryan languages* then binds the inventions into ordinary academic speech. Sanskrit is real; *ārya* is real; the Vedic corpus is real. The racial Arya thesis, the imaginary ancestor, and the source-slot asterisk are the devices by which the real civilization is made external to itself. **Chapters 18 and 18.**
 
 ### Anti-entropic — lifts the Botanical plate
 
@@ -75,7 +75,7 @@ The Eight Core Theses describe the movement of the argument. The Eclipse Ledger 
 
 15. ***Varṇa* is a sonomer, not a letter.** Sanskrit's sound-units are measured particles in a body-mapped grid: place, effort, breath, voice, nasality, and duration. The written mark is downstream. **Chapter 9.**
 
-16. **The subcontinental mouth-and-mind field explains Sanskrit's material.** Retroflexion, reduplication, *sampradāna* psychology, *karmaṇi/bhāve* de-centering, and folded action are not steppe imports. They belong to the subcontinental field Sanskrit engineers into precision. **Chapter 16.**
+16. **The subcontinental mouth-and-mind field explains Sanskrit's material.** Retroflexion, reduplication, *sampradāna* psychology, *karmaṇi/bhāve* de-centering, and folded action are not steppe imports. They belong to the subcontinental field Sanskrit engineers into precision. **Chapter 17.**
 
 17. **The *Dhātupāṭha* is Sanskrit's table of reactive atoms.** The inventory is an operating table of semantic atoms that enter *gaṇāḥ*, accept bonds, and build verbal molecules. **Chapter 10; Chapter 11; Source and Reference Companion.**
 
@@ -93,13 +93,13 @@ The Eight Core Theses describe the movement of the argument. The Eclipse Ledger 
 
 ### Calibrant — lifts the Sibling-Language plate
 
-23. **Sanskrit is not one sibling inside an Indo-European family tree.** It is the calibrant by which much of that family was partially deciphered. Similarity does not require ancestry; radiance explains resemblance without descent. **Chapter 18; Chapter 19.**
+23. **Sanskrit is not one sibling inside an Indo-European family tree.** It is the calibrant by which much of that family was partially deciphered. Similarity does not require ancestry; radiance explains resemblance without descent. **Chapter 19; Chapter 20.**
 
-24. **Orbit and radiance distinguish two kinds of Sanskritic presence.** Indic languages remain within Sanskrit's gravity even as they vary; farther languages may preserve words touched by Sanskrit's radiance and then drift beyond the active orbit. **Chapter 6; Chapter 18.**
+24. **Orbit and radiance distinguish two kinds of Sanskritic presence.** Indic languages remain within Sanskrit's gravity even as they vary; farther languages may preserve words touched by Sanskrit's radiance and then drift beyond the active orbit. **Chapter 6; Chapter 19.**
 
-25. ***Mātṛ* is the source of *mother*, not its sibling.** The relationship is *pratibimba*: Sanskritic form radiates outward, enters a receiving language as *bīja*, and later sprouts as an organic *apaśabda*. **Preface; Chapter 18.**
+25. ***Mātṛ* is the source of *mother*, not its sibling.** The relationship is *pratibimba*: Sanskritic form radiates outward, enters a receiving language as *bīja*, and later sprouts as an organic *apaśabda*. **Preface; Chapter 19.**
 
-26. **Calibrant contact is the contact category current linguistics lacks.** Sanskrit-bearing specialists can restructure the receiving field without conquest or mass migration. Wave 1 spreads Sanskritic radiance; Wave 2 spreads Pāṇinian method. **Chapter 18 §18.7; Chapter 19.**
+26. **Calibrant contact is the contact category current linguistics lacks.** Sanskrit-bearing specialists can restructure the receiving field without conquest or mass migration. Wave 1 spreads Sanskritic radiance; Wave 2 spreads Pāṇinian method. **Chapter 19 §19.7; Chapter 20.**
 
 27. **Sanskrit's grammatical apparatus is a language factory.** The apparatus can generate more than words; Appendix Part 5 demonstrates a working Sanskritic grammar over a Japanese-facing phoneme set. **Appendix Part 5.**
 
@@ -113,6 +113,6 @@ The Eight Core Theses describe the movement of the argument. The Eclipse Ledger 
 
 31. **The asuric pyramid is threatened by distributed calibration.** Natural drift can be surveyed; codification can be captured; calibration cannot be owned because the measure lives inside the system. That is why the pyramid darkens the category. **Chapter 1; Chapter 3; Chapter 4.**
 
-32. **The Racial Arya Thesis must be renamed and kept visible as RAT.** AIT and AMT soften the structure. RAT states what the theory was built to do: make Sanskrit external to the civilization that created, preserved, and transmitted it. **Chapter 17; Chapter 18.**
+32. **The Racial Arya Thesis must be renamed and kept visible as RAT.** AIT and AMT soften the structure. RAT states what the theory was built to do: make Sanskrit external to the civilization that created, preserved, and transmitted it. **Chapter 18; Chapter 19.**
 
-33. **The recovery belongs to the Atris.** The mantra says the Atris found the Sun when others could not. This book belongs to that work: not as the work completed, but as one attempt to make the Sun visible again. **Chapter 19; Epilogue.**
+33. **The recovery belongs to the Atris.** The mantra says the Atris found the Sun when others could not. This book belongs to that work: not as the work completed, but as one attempt to make the Sun visible again. **Chapter 20; Epilogue.**

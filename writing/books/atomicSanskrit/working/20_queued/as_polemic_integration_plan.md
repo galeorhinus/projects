@@ -126,7 +126,7 @@ Canonical deployments:
 - **Ch 5 §5.4** — compact diagnostic: natural drift can be governed;
   codification can be owned; calibration makes the apex unnecessary.
 - **Ch 14 §14.7** — evidentiary version through the calibration matrix.
-- **Ch 18 verdict** — PIE protects the pyramid from Sanskrit-as-calibrant.
+- **Ch 19 verdict** — PIE protects the pyramid from Sanskrit-as-calibrant.
 - **Epilogue** — restore the standard by re-entering calibration.
 
 ### Codification control cases
@@ -172,12 +172,12 @@ Deployment rule:
   the manipulation of Pāṇini is the target.*
 - **Ch 14 §14.7** — heroic erasure at the matrix level: second
   redundancy layer treated as first.
-- **Ch 17 §17.4** — gaslighting with footnotes: the present apparatus
+- **Ch 18 §18.4** — gaslighting with footnotes: the present apparatus
   uses the civilization's memory-work against the civilization.
 - **Appendix Part 7** — long-form answer to the codification story:
   praise of Pāṇini becomes the mechanism by which the prior architecture
   is hidden.
-- **Ch 19 §19.2** — life after PIE reclassifies Pāṇini's heroism:
+- **Ch 20 §20.2** — life after PIE reclassifies Pāṇini's heroism:
   not codifier, founder, or rupture-point, but decoder, compressor, and
   transmitter. Pāṇini remains great; the category of his greatness is
   corrected.
@@ -290,7 +290,7 @@ Deployment rule:
 
 ### Part VI — Killing PIE (*Cross-examination and verdict*)
 
-- **Ch 17 / Ch 18** — Sharpen the cross-examination with the choice-
+- **Ch 18 / Ch 19** — Sharpen the cross-examination with the choice-
   language only where it lands on individuals. Müller, Schleicher, and
   other named figures made choices inside evidence, ambition, theology,
   race-thinking, and institutional reward. The chapter does not need to
@@ -304,7 +304,7 @@ Deployment rule:
 
 ### Part VII — Life After PIE (*The remedy*)
 
-- **Ch 19** — The remedy is the saṃskṛti choice at the language layer.
+- **Ch 20** — The remedy is the saṃskṛti choice at the language layer.
   The reader who has exercised *vivek-buddhi* throughout the trial is
   now offered the remedy: read Sanskrit as *saṃskṛti*, not as *prakṛti*,
   and reject the pyramid's *vikṛti* framework. Forward-point to *Second Shanti*
@@ -346,7 +346,7 @@ standard; the next *saṃskṛti* generation extends the engineering. The
   in their existing voices. Small echoes are allowed where the prose
   naturally wants them; they should not turn evidence chapters into
   polemic chapters. The main polemic layer lands in the framing
-  chapters (Prologue, Ch 1, Ch 3, Ch 13, Ch 17/18, Ch 19, Epilogue)
+  chapters (Prologue, Ch 1, Ch 3, Ch 13, Ch 18/18, Ch 20, Epilogue)
   and the Note on Form.
 - **No vocabulary saturation.** *Vaikṛtika*, *vikṛti*, *asat-aligned*
   are deep-frame terms deployed at frame moments. The body keeps the
@@ -361,20 +361,20 @@ longer be read as a fresh seven-step execution queue.
 
 Completed or parked:
 
-1. **Prologue / Ch 1 / Ch 3 / Ch 18 / Epilogue** — two-move theft
+1. **Prologue / Ch 1 / Ch 3 / Ch 19 / Epilogue** — two-move theft
    deployed: Sanskrit is relabeled as *prakṛti* before Pāṇini and as
    codification after Pāṇini.
 2. **Calibration-threat frame** — deployed in Ch 3, Ch 5, Ch 14, and
    the Epilogue: natural drift can be governed; codification can be
    owned; calibration makes the apex unnecessary.
 3. **Heroic erasure as present-tense gaslighting** — deployed in Ch 1,
-   Ch 14, Ch 17, and Appendix Part 7; Ch 19 notes preserve Pāṇini's
+   Ch 14, Ch 18, and Appendix Part 7; Ch 20 notes preserve Pāṇini's
    reclassification as decoder, compressor, and transmitter.
 4. **Codification control cases** — deployed in Ch 14, Appendix Part 7,
    and the Epilogue: Hebrew, Arabic, Latin, and modern standardized
    languages preserve bounded objects by authority; Sanskrit calibrates
    a living architecture from inside.
-5. **Tiny echoes** — Ch 2, Ch 4, Ch 7, and Ch 17 now carry small local
+5. **Tiny echoes** — Ch 2, Ch 4, Ch 7, and Ch 18 now carry small local
    echoes without changing their chapter registers.
 6. **Note on the Notes** — now states the division of labor: the main
    book carries the prosecution; the notes carry verification.

@@ -204,7 +204,7 @@ Load-bearing concepts. Use without scare quotes — treat as established. Define
   - *Progressive dogma* / *linear-progress dogma* (doctrinal) and *church of progress* (institutional) are the **canonical names for those two structural levels**. Deploy wherever the doctrinal or institutional level IS the actual referent. Generic uses of *orthodoxy* should disappear unless quoting or discussing another writer's category. Use *dogma* for protected belief-content, *doctrine* for structured teaching, *machinery* for institutional repetition, and *pyramid's account* / *pyramid's version* / *manufactured account* for the reader-facing story.
   - *Priests / missionaries / jihadis of progress* are reserved for **specific function-class action** being named (sanctifying / extending / defending). Don't deploy for generic establishment-naming.
   - *Fourth Abrahamic religion* itself sparingly — 3 deployments across the book.
-  - Per-chapter pattern: 0 in chapters not engaging the establishment generically; 1–2 in chapters that do; 3+ in heavily prosecutorial chapters (Ch2, Ch3, Ch17, the Appendix). Total across the book likely 20–35.
+  - Per-chapter pattern: 0 in chapters not engaging the establishment generically; 1–2 in chapters that do; 3+ in heavily prosecutorial chapters (Ch2, Ch3, Ch18, Ch19, the Appendix). Total across the book likely 20–35.
   - Specific establishment-naming (*Western philology*, *AIT framework*, *Müllerian Indology*, named figures) stays as is — those name specific things, not the structural class.
 
 When coining a *new* term, follow the same shape: short, evocative noun phrase that names a previously unnamed pattern. Then carry it through the piece.

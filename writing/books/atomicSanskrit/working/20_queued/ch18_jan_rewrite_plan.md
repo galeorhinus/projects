@@ -1,4 +1,4 @@
-# Chapter 18 Rewrite Spec — *king / jan*, and "The Asterisk Was Added"
+# Chapter 19 Rewrite Spec — *king / jan*, and "The Asterisk Was Added"
 
 Status: **FINAL SPEC — verified, greenlit, ready to build. Nothing deployed yet.**
 Created 2026-07-06; supersedes the pre-verification draft plan (folded in below). Companion to `working/80_completed/plans/orbit_radiance_deployment_plan.md` (orbit/radiance thread, already deployed).
@@ -11,7 +11,7 @@ Greenlit 2026-07-06: **king** opener · the **asterisk-added** thesis · **retir
 
 **The asterisk did not merely mark uncertainty. Over time it moved into source-position.** Older dictionaries could still show real, unstarred Sanskrit inside the chain; later reference culture floated starred forms above the real languages and trained readers to treat the reconstruction as ancestor.
 
-**Precise scoping (so §18.1 and this thesis do not contradict):** Schleicher already used the asterisk in 1868 — as a *notational* mark of reconstruction. The chapter does **not** claim the asterisk was invented later; it documents the asterisk's *migration into the source slot* of ordinary etymology — from a mark sitting *beside* real forms to a mark placed *above* them as the ancestor. Nineteenth-century reference works could still print real, unstarred Sanskrit inside the chain (Skeat's √GAN "cf. Skt. jan"; Chambers's "Sans. ganaka, father"); later reference culture replaced the real form's source-position with a starred reconstruction, renamed "Aryan" → "Indogermanic," and adopted Brugmann's apparatus in place of Fick and Curtius.
+**Precise scoping (so §19.1 and this thesis do not contradict):** Schleicher already used the asterisk in 1868 — as a *notational* mark of reconstruction. The chapter does **not** claim the asterisk was invented later; it documents the asterisk's *migration into the source slot* of ordinary etymology — from a mark sitting *beside* real forms to a mark placed *above* them as the ancestor. Nineteenth-century reference works could still print real, unstarred Sanskrit inside the chain (Skeat's √GAN "cf. Skt. jan"; Chambers's "Sans. ganaka, father"); later reference culture replaced the real form's source-position with a starred reconstruction, renamed "Aryan" → "Indogermanic," and adopted Brugmann's apparatus in place of Fick and Curtius.
 
 This *narrows* the old overclaim ("the dictionaries said Sanskrit was the source") into something fully documented and unkillable by a hostile reviewer. Vocabulary: use **real / preserved / unstarred / cited / documented** — **not** *attested* (book-avoided).
 
@@ -19,7 +19,7 @@ This *narrows* the old overclaim ("the dictionaries said Sanskrit was the source
 
 ## 2. Narrative spine — the bakery scaled
 
-- **One baker, one pie.** Schleicher bakes the first reconstructed language (1868 fable). §18.1.
+- **One baker, one pie.** Schleicher bakes the first reconstructed language (1868 fable). §19.1.
 - **The honest shelf.** The dictionaries still run real, un-starred forms: Fick, Curtius, Skeat (1882), Chambers (1872) — real Sanskrit sits in the chain, no asterisk. Even Müller, who invented the racial frame, points to real *Sk. janas / janaka*, not a starred non-word.
 - **The bakers multiply.** Brugmann's generation moves the starred reconstruction into source-position. **Successive editions of the same dictionary** show the movement: *"Aryan Roots"* → *"Indogermanic Roots,"* √GAN → √KN, *(stem gener-)* → *(for \*genes-)*, √SKAR → √SKER, Fick/Curtius → Brugmann. (Frame as **dictionary-history / reference-culture evidence** — the reference works move; **not** a charge that Skeat personally turned fraudulent.)
 - **Industrial baking.** Pokorny's dictionary (1959, the pie cookbook); Watkins (the American Heritage IE appendix — a pie in every American desk); Harper's Etymonline + the OED revisions (the free/default reference). More bakers, more pies.
@@ -33,11 +33,11 @@ Chapter title **"PIE in the Sky" stays** — the pie/PIE pun is now *more* apt. 
 
 | | **king / kin / genus** (the *jan* family) | **kṛt** |
 |---|---|---|
-| Job | the **documentary** proof — the record shows the asterisk arriving (opening + §18.6) | the **mechanism** proof — every PIE device is a mis-attributed Sanskrit rule (§18.5) |
+| Job | the **documentary** proof — the record shows the asterisk arriving (opening + §19.6) | the **mechanism** proof — every PIE device is a mis-attributed Sanskrit rule (§19.5) |
 | Anchored by | Chambers 1872, Skeat 1882 + its edition-drift, Müller 1863 — all verified | Pāṇinian grounds: *suṭ*, *kṛntati*, Dhātupāṭha *chedane* (already drafted, deployed) |
 | Book-spine tie | **king = "the father of a people"** → the masculine-apex / *the Father* thread; *jan* → *kind / race / nation / gene* = the racial-thesis vocabulary | the *s*-mobile = the misheard *suṭ* of *saṃskṛta* |
 
-They complement; they do not overlap. §18.5's *jan* rerun stays a single paragraph + the genh/jan figure pair; §18.6 does the documentary heavy-lifting.
+They complement; they do not overlap. §19.5's *jan* rerun stays a single paragraph + the genh/jan figure pair; §19.6 does the documentary heavy-lifting.
 
 **king is the crispest spine word** because it is dual-documented (Chambers *ganaka* + Müller *janaka*), carries the apex/Father theme, and has a clean then→now shift.
 
@@ -54,10 +54,10 @@ Upgrade the chapter's existing **pair** (RAT = imaginary people; PIE = imaginary
 Keep the counter-asymmetry clean: the real story has a real **custodial civilization** (the lineage-chain) preserving a real language of real words — **not a real race**. The triad demolishes RAT's "people" without positing a designing people (stays inside *apauruṣeyatva*). "Imaginary words" = the **starred reconstructions**, never the real daughter words (*kin, king, curt* are real) — always tie it to the asterisk so the distinction is unmistakable.
 
 **Deployment (ration — 3 sites, not 4):**
-1. **§18.2 — canonical statement (primary).** Extend the paired-invention blockquote: *…and the starred etyma supply the imaginary words — forms no mouth ever made.*
-2. **§18.6 — verdict close (primary).** *An imaginary people, speaking an imaginary language, built from imaginary words — and the only real thing in the story is the Sanskrit it was reverse-engineered from.*
-3. **§18.5 — cheap callback.** Existing *"the same imaginary race, the same imaginary language"* → add *"…the same imaginary words."*
-4. **§18.8/18.9 — HOLD in reserve.** Only if the close wants it; skip to avoid over-deploying.
+1. **§19.2 — canonical statement (primary).** Extend the paired-invention blockquote: *…and the starred etyma supply the imaginary words — forms no mouth ever made.*
+2. **§19.6 — verdict close (primary).** *An imaginary people, speaking an imaginary language, built from imaginary words — and the only real thing in the story is the Sanskrit it was reverse-engineered from.*
+3. **§19.5 — cheap callback.** Existing *"the same imaginary race, the same imaginary language"* → add *"…the same imaginary words."*
+4. **§19.8/18.9 — HOLD in reserve.** Only if the close wants it; skip to avoid over-deploying.
 
 ---
 
@@ -102,19 +102,19 @@ All confirmed against OCR of the verified 1st-edition scan; for the physical edi
 Keep the existing structure (real-word-at-the-bottom → a few years later a starred form floats above it → "pie in the sky" → the mechanical-engineer's laugh). **Swap the exemplar word from *mother* to *king*** (or *genus*). The asterisk contrast is already the opening's spine and is verified-correct; only the word changes. Preserve *pie in the sky* (rides on the sky-suspended asterisk, word-independent). Keep the existing *"Behind every PIE form sits a \*baker"* seed (line 26) — it launches the bakery arc.
 
 ### 18.1 Schleicher's Bake — *one baker, one pie*
-Light touch: frame Schleicher explicitly as the first baker, one fable, one pie, so §18.4 can scale him. Content otherwise intact.
+Light touch: frame Schleicher explicitly as the first baker, one fable, one pie, so §19.4 can scale him. Content otherwise intact.
 
 ### 18.2 Bookkeeping Defense / 18.3 What PIE Cannot Explain — **unchanged**
-(§18.2's RAT/PIE "paired invention" blockquote already sets up the racial-thesis-vs-ancestor-erasure split that §18.4/§18.6 pay off.)
+(§19.2's RAT/PIE "paired invention" blockquote already sets up the racial-thesis-vs-ancestor-erasure split that §19.4/§19.6 pay off.)
 
 ### 18.4 The Cementing — *more bakers, more pies* (now DOCUMENTED)
-Keep the trajectory figure (Fig 18.1) and the 1905/mid-century dating. **Add the bakery-scaled beat built on the verified edition-drift**, framed as **dictionary-history evidence**: the honest shelf (Fick, Curtius, Skeat-1882, Chambers — real un-starred forms, Sanskrit inside the chain) → **Brugmann's apparatus** moves the starred reconstruction into source-position → **successive editions of the same dictionary** show the movement (Aryan→Indogermanic, √GAN→√KN, *(gener-)*→*(for \*genes-)*, Fick→Brugmann) → Pokorny (1959), Watkins (AHD appendix), Harper/Etymonline + OED (the default reference). The clean line: **the same dictionary record shows the movement from real roots and Sanskrit ordering toward starred reconstructions and Brugmann's apparatus** — the reference culture moved, not one man's honesty. This hinge makes §18.6 land as *industrial bake*, not a one-off.
+Keep the trajectory figure (Fig 18.1) and the 1905/mid-century dating. **Add the bakery-scaled beat built on the verified edition-drift**, framed as **dictionary-history evidence**: the honest shelf (Fick, Curtius, Skeat-1882, Chambers — real un-starred forms, Sanskrit inside the chain) → **Brugmann's apparatus** moves the starred reconstruction into source-position → **successive editions of the same dictionary** show the movement (Aryan→Indogermanic, √GAN→√KN, *(gener-)*→*(for \*genes-)*, Fick→Brugmann) → Pokorny (1959), Watkins (AHD appendix), Harper/Etymonline + OED (the default reference). The clean line: **the same dictionary record shows the movement from real roots and Sanskrit ordering toward starred reconstructions and Brugmann's apparatus** — the reference culture moved, not one man's honesty. This hinge makes §19.6 land as *industrial bake*, not a one-off.
 
 ### 18.5 The Recipe, Step by Step — kṛt stays; small honest note
 - **kṛt/sker: unchanged** (the mechanism centerpiece, on Pāṇinian grounds).
 - **DROP** any "Skeat corroborates kṛt" line — Skeat routes *curt* through √SKAR.
 - **Optional honest bonus** (recommended, one clause): *even Skeat* filed *curt* under the s-mobile √SKAR — the very capture the book diagnoses (the cut-family pulled onto the s-mobile instead of the plain cut-root) was already operating in 1882.
-- **jan rerun (¶144) + genh/jan figures:** stay here as "the recipe reruns." Add one forward-nod to §18.6 (the dictionaries printed *genus/king* on real *jan* before the star). The `jan-dhatupatha-double-entry` endnote already anchors √jan in the Dhātupāṭha.
+- **jan rerun (¶144) + genh/jan figures:** stay here as "the recipe reruns." Add one forward-nod to §19.6 (the dictionaries printed *genus/king* on real *jan* before the star). The `jan-dhatupatha-double-entry` endnote already anchors √jan in the Dhātupāṭha.
 
 ### 18.6 → REBUILT as the documentary section — **retitle "Kin, Kind, King: the Dictionary Shift"**
 Reuse the current then/now blockquote structure; swap the exhibits to the verified source record (§4).
@@ -140,7 +140,7 @@ Reuse the current then/now blockquote structure; swap the exhibits to the verifi
 
 **Changed / retired:**
 - `pre-pie-dictionary-shift` (exists, *mother*-centric) → **re-point to the verified *king/genus* asterisk-added shift** (mother retired).
-- `jan-dhatupatha-double-entry` (exists) — keep; anchors √jan for §18.5 + §18.6.
+- `jan-dhatupatha-double-entry` (exists) — keep; anchors √jan for §19.5 + §19.6.
 - `early-19c-comparative-philology-bopp-pott` — **retire/park** (superseded by the specific verified citations).
 - `jakobson-1959-nursery-words` — **park unused** (nursery-word deflection no longer arises once *mother* is retired).
 
@@ -148,8 +148,8 @@ Reuse the current then/now blockquote structure; swap the exhibits to the verifi
 
 ## 7. Figures
 
-- genh phantom-tree (Fig 18.4) + jan orbit-Sun (Fig 18.5) already exist, stay in §18.5. §18.6's then/now carried by **blockquotes**.
-- **CONFIRMED figure — "Watch the Asterisk Move" (do it):** the same dictionary's GENUS entry, 1882 beside the revised edition — *(stem gener-)* → *(for \*genes-)*, √GAN → √KN, *"Aryan"* → *"Indogermanic."* The shift shown **inside the machinery itself**, in the punctuation — more damaging than another tree figure because it is the reference culture indicting itself, not our diagram. Frame as dictionary-history (edition to edition), not a personal charge. Slots into §18.4 or §18.6. Produce at figure-pass (script → CD), not blocking prose.
+- genh phantom-tree (Fig 18.4) + jan orbit-Sun (Fig 18.5) already exist, stay in §19.5. §19.6's then/now carried by **blockquotes**.
+- **CONFIRMED figure — "Watch the Asterisk Move" (do it):** the same dictionary's GENUS entry, 1882 beside the revised edition — *(stem gener-)* → *(for \*genes-)*, √GAN → √KN, *"Aryan"* → *"Indogermanic."* The shift shown **inside the machinery itself**, in the punctuation — more damaging than another tree figure because it is the reference culture indicting itself, not our diagram. Frame as dictionary-history (edition to edition), not a personal charge. Slots into §19.4 or §19.6. Produce at figure-pass (script → CD), not blocking prose.
 
 ---
 
@@ -165,19 +165,19 @@ Reuse the current then/now blockquote structure; swap the exhibits to the verifi
 ---
 
 ## 9. Build order
-1. **Endnotes** (4 new + re-point `pre-pie-dictionary-shift`) — so §18.4/18.5/18.6 have live anchors.
-2. **§18.6** rebuild (the big one) — king/kin/genus, asterisk-added thesis, then/now, verdict.
-3. **§18.4** bakery-scaled beat (Skeat drift + named bakers Brugmann/Pokorny/Watkins/Harper).
-4. **§18.5** — drop the kṛt-Skeat idea; add the optional honest √SKAR note; jan-rerun forward-nod.
+1. **Endnotes** (4 new + re-point `pre-pie-dictionary-shift`) — so §19.4/18.5/18.6 have live anchors.
+2. **§19.6** rebuild (the big one) — king/kin/genus, asterisk-added thesis, then/now, verdict.
+3. **§19.4** bakery-scaled beat (Skeat drift + named bakers Brugmann/Pokorny/Watkins/Harper).
+4. **§19.5** — drop the kṛt-Skeat idea; add the optional honest √SKAR note; jan-rerun forward-nod.
 5. **Opening** rewrite (mother→king; keep asterisk / pie-in-sky structure).
-6. **§18.1** one-baker framing (light).
-7. Retire *mother*/*yoke* remnants; §18.6 title change; park the two endnotes.
+6. **§19.1** one-baker framing (light).
+7. Retire *mother*/*yoke* remnants; §19.6 title change; park the two endnotes.
 8. Voice/convention pass; before/after report; commit; push.
 
 ---
 
 ## 10. Open items (near-zero)
-- Confirm the **optional √SKAR honest note** in §18.5 (recommend: include, one clause).
+- Confirm the **optional √SKAR honest note** in §19.5 (recommend: include, one clause).
 - The **"Watch the Asterisk Move" figure** is confirmed (§7); produce at figure-pass.
 - Everything else is greenlit.
 

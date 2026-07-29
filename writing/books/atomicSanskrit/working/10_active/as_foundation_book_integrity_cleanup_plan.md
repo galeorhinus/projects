@@ -12,7 +12,7 @@ It is heavy, but it has a clear load-bearing spine:
 2. **Chapters 4-6**: entropy, *siddha/kārya*, and the search for the smallest stable constituent.
 3. **Chapters 7-12**: construction sequence: instrument -> field -> grid -> atom -> molecule -> sentence.
 4. **Chapters 13-15**: preservation, calibration, and aural continuity.
-5. **Chapters 17-18 / Appendix Part 0**: prosecution of the false account and the asuric machinery.
+5. **Chapters 18-18 / Appendix Part 0**: prosecution of the false account and the asuric machinery.
 6. **Epilogue**: restore the standard and call the next readers.
 
 The current risk is not structural collapse. The risk is overcharge: too many strong terms, repeated accusations, front-loaded conclusions, and figures that may not always be introduced as evidence.
@@ -126,7 +126,7 @@ Every pass below should test one or more of these questions:
 
 ## Pass 3 — Polemic Job-Assignment Pass
 
-**Purpose:** Prevent Ch1-3, Ch17-18, and AP0 from repeating the same accusation.
+**Purpose:** Prevent Ch1-3, Ch18-18, and AP0 from repeating the same accusation.
 
 **Work:**
 
@@ -138,8 +138,8 @@ Assign each prosecutorial section one distinct job:
 | Chapter 1 | Show the category theft: *saṃskṛti* split into *prakṛti* before Pāṇini and codification after Pāṇini. |
 | Chapter 2 | Show the containment architecture: pillars, chronology, progress, RAT. |
 | Chapter 3 | Show the religious-pyramidal form: fourth Abrahamic religion, church of progress, function-classes, Bandin's gate, pyramid vs swastika. |
-| Chapter 17 | Show the wrong question and the gaslighting machinery. |
-| Chapter 18 | Prosecute PIE and the manufactured ancestor. |
+| Chapter 18 | Show the wrong question and the gaslighting machinery. |
+| Chapter 19 | Prosecute PIE and the manufactured ancestor. |
 | Appendix Part 0 | Give the full asuric anatomy and diagnostic vocabulary. |
 | Epilogue | Restore the category and invite the next readers. |
 
@@ -147,8 +147,8 @@ Assign each prosecutorial section one distinct job:
 
 - If a paragraph in Ch1 sounds like AP0, either compress it or point forward.
 - If Ch3 repeats Ch2's pillar logic, make Ch3 translate the pillars into institutional religion.
-- If Ch17 repeats Ch1's category-theft language, make Ch17 focus on gaslighting and memory manipulation.
-- If Ch18 repeats Ch1's PIE critique, make Ch18 focus on evidence, trajectory, and verdict.
+- If Ch18 repeats Ch1's category-theft language, make Ch18 focus on gaslighting and memory manipulation.
+- If Ch19 repeats Ch1's PIE critique, make Ch19 focus on evidence, trajectory, and verdict.
 - If AP0 repeats all body chapters, make AP0 explicitly function as the diagnostic appendix.
 
 **Success condition:**
@@ -229,7 +229,7 @@ Assign each prosecutorial section one distinct job:
 **Special checks:**
 
 - Figures in Chapters 7-12 should teach the construction sequence.
-- Figures in Chapters 17-18 should support prosecution, not decorate rhetoric.
+- Figures in Chapters 18-18 should support prosecution, not decorate rhetoric.
 - Figures in AP0 should be used only if they clarify the diagnostic vocabulary.
 
 **Success condition:**

@@ -4,7 +4,7 @@
 
 **Status:** Active research plan  
 **Parent project:** [Sanskrit Radiance Mapping Project](as_sanskrit_radiance_mapping_project_proposal.md)  
-**Provisional book deployment:** A compact worked case in Chapter 18 §18.7; the full inventory and source record in Appendix Part 1; a later public research dataset under the Sanskrit Radiance Mapping Project.
+**Provisional book deployment:** A compact worked case in Chapter 19 §19.7; the full inventory and source record in Appendix Part 1; a later public research dataset under the Sanskrit Radiance Mapping Project.
 
 ## 1. Purpose
 
@@ -374,7 +374,7 @@ For every row record:
 
 ## 8. Book Deployment
 
-### Chapter 18 §18.7
+### Chapter 19 §19.7
 
 Add a compact subsection after the **⟪युज्⟫ / yoke** demonstration. Its purpose is to show that Sanskrit's radiance may transmit operators along with atoms:
 
@@ -391,7 +391,7 @@ Add a compact subsection after the **⟪युज्⟫ / yoke** demonstration. 
 11. State the alternative being tested: the architecture traveled, the domain protocol did not, and the receiving languages made its components botanical.
 12. Point to Appendix Part 1 for the full method and inventory.
 
-The subsection should remain compact. Chapter 18 needs one worked case and a visible method, not all twenty rows.
+The subsection should remain compact. Chapter 19 needs one worked case and a visible method, not all twenty rows.
 
 ### Appendix Part 1
 
@@ -457,7 +457,7 @@ The Brāhmī/Aramaic parallel should appear as a small inset or a cross-referenc
 15. Verify the Hindi externalization examples and distinguish postpositions from separated Sanskrit *pratyayas*.
 16. Build a small Latin record of opaque fusion, beginning with ***expōnō*** and rejecting any etymology that does not survive source review.
 17. Populate all remaining Sanskrit rows, including blanks and rejected candidates.
-18. Draft the compact Chapter 18 subsection only after the first three particle families, one whole-molecule family, the vaidika prose examples, and the Greek domain-flattening record survive source review.
+18. Draft the compact Chapter 19 subsection only after the first three particle families, one whole-molecule family, the vaidika prose examples, and the Greek domain-flattening record survive source review.
 19. Expand Appendix Part 1 after the full inventory has been audited.
 
 ## 11. Initial Sources

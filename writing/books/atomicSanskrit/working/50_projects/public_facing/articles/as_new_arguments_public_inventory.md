@@ -100,4 +100,4 @@ The book argues that Sanskrit must be read as engineering: an acoustic, grammati
 
 ## Chapter Reference Paragraph
 
-Items 1-11 are developed in the Preface, Chapter 0, Chapter 1, Chapter 4, Chapter 5, and Appendix Part 7. Items 12-13 and 28 are developed in Chapters 13-15. Items 14-27 are developed across Chapters 6-12 and Appendix Part 5. Items 29-32 are developed in Chapters 16-18 and Appendix Part 1. Items 33-36 are developed in Chapters 2-3, Chapter 19, the Epilogue, and Appendix Parts 2-4.
+Items 1-11 are developed in the Preface, Chapter 0, Chapter 1, Chapter 4, Chapter 5, and Appendix Part 7. Items 12-13 and 28 are developed in Chapters 13-15. Items 14-27 are developed across Chapters 6-12 and Appendix Part 5. Items 29-32 are developed in Chapters 17-18 and Appendix Part 1. Items 33-36 are developed in Chapters 2-3, Chapter 20, the Epilogue, and Appendix Parts 2-4.

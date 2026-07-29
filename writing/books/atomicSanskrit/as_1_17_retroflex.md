@@ -1,4 +1,4 @@
-# Chapter 16 — The Subcontinental Mouth and Mind
+# Chapter 17 — The Subcontinental Mouth and Mind
 
 ::: epigraph
 
@@ -24,15 +24,15 @@ The name *Ṛgveda* itself provides a second signal. Its first sound, ऋ (*ṛ*
 
 ## PART A — The Field Before the Argument
 
-## 16.1 The Mouth: *Mūrdhanya*
+## 17.1 The Mouth: *Mūrdhanya*
 
-To produce Sanskrit retroflex consonants such as ट (*ṭa*), ड (*ḍa*), and ण (*ṇa*), curl the tip of the tongue backward and bring it against the roof of the mouth. The movement gives the sound-class its modern descriptive name: the tongue bends back, or retroflexes. The superior longitudinal muscle helps produce that curl; the anatomical detail appears in the note and in Figure 16.1.
+To produce Sanskrit retroflex consonants such as ट (*ṭa*), ड (*ḍa*), and ण (*ṇa*), curl the tip of the tongue backward and bring it against the roof of the mouth. The movement gives the sound-class its modern descriptive name: the tongue bends back, or retroflexes. The superior longitudinal muscle helps produce that curl; the anatomical detail appears in the note and in Figure 17.1.
 
 Languages across the subcontinent use this tongue position. Tamil, Kannada, Malayalam, and Telugu have retroflex sounds. Mundari, Ho, and Korku have them. So do Marathi, Gujarati, Konkani, Sindhi, Bengali, Odia, Assamese, Hindi, Punjabi, and related northern languages. Modern classification assigns these languages to several families, yet the same articulatory habit crosses those family boundaries.
 
 The figure below marks the anatomy: the curled tongue, the *mūrdhanya* site, and the physical act behind the sound.
 
-![Figure 16.1 — The *mūrdhanya* flex.](figures/adivadya/murdhanya_vocal_apparatus.svg){#fig:ch16-murdhanya-flex width=100%}
+![Figure 17.1 — The *mūrdhanya* flex.](figures/adivadya/murdhanya_vocal_apparatus.svg){#fig:ch17-murdhanya-flex width=100%}
 
 The *Pāṇinīya Śikṣā* epigraph points to the location in the mouth: मूर्धा (*mūrdhā*) — the head / roof of the mouth — is the articulatory site for ऋ (*ṛ*), the टु (*ṭu*) class, र (*ra*), and ष (*ṣa*).[NOTE: rturasanam-murdha-shiksha] Its own sound-body performs the rule. In ऋटुरषाणां (*ṛṭuraṣāṇāṃ*), the first vowel is ऋ (*ṛ*); the consonantal spine is ट-र-ष-ण (*ṭ-r-ṣ-ṇ*) — retroflex, semi-retroflex, retroflex, retroflex. The mouth must enter the site to state the site.
 
@@ -44,7 +44,7 @@ The *Dhātupāṭha* makes the recurrence measurable. In the dataset described i
 
 Korku keeps the central forest belt visible inside the same mouth-field. It uses native retroflex contrasts such as *gaTa* "mire" / *gaTha* "broken grain" (Devanagari aid: गट / गठ), words such as *Donga* "boat" and *DanDa* "stick" (Devanagari aid: डोङ्ग, डण्ड), and laterals in *kaLLa* "become stiff," *naLLa* "bamboo tube," and *seLLa* "meet" (Devanagari aid: कळ्ळ, नळ्ळ, सेळ्ळ).[NOTE: korku-nagaraja-mouth-mind-evidence]
 
-## 16.2 The Mouth Doubles: Reduplication
+## 17.2 The Mouth Doubles: Reduplication
 
 Across the subcontinent, repetition of sounds or words conveys meaning. Tamil can intensify sensation through forms such as பளபள (*paḷa-paḷa*; Devanagari aid: पळ-पळ) and can make echo pairings such as புலி-கிலி (*puli-kili*; Devanagari aid: पुलि-किलि). Telugu uses echo and expressive forms such as పుస్తకం-గిస్తకం (*pustakam-gistakam*; Devanagari aid: पुस्तकम्-गिस्तकम्) and గమగమ (*gama-gama*; Devanagari aid: गम-गम). Mundari belongs in the same central forest-belt pattern: its mimetic reduplication runs across sound, movement, texture, taste, temperature, feeling, and sensation.[NOTE: phillips-harrison-mundari-mimetic-reduplication] Korku gives exact forms in another geography — repeated forms such as *DoDo-DoDo* "seeing-seeing" (Devanagari aid: डोडो-डोडो) and partial forms such as *bo-boco* "to fall" (Devanagari aid: बो-बोचो).[NOTE: korku-nagaraja-mouth-mind-evidence] The examples differ by language, but the bodily habit is shared. A sound can be repeated to thicken perception, extend action, distribute reference, or make movement audible.
 
@@ -60,7 +60,7 @@ For example, at the consonant and syllable scale, the Veda takes the *d* consona
 
 Sanskrit integrates the subcontinent's core concept — repetition as meaning — and distributes it across the language, from word to syllable. What the subcontinental field does as a habit, the architecture does as a system.
 
-## 16.3 The Mind Receives: *Sampradāna*
+## 17.3 The Mind Receives: *Sampradāna*
 
 Hindu thought treats the ego — अहंकार (*ahaṃkāra*), the "I-making" faculty — as something to be understood and held in check, never the master of the self.[NOTE: ahamkara-ego-management] A civilization that insists on understanding the ego builds a language to manage it: a grammar that refuses to seat the "I" at the center of every act. The self becomes a receiver — the place a state arrives — not the sovereign that seizes it. This is the grammar of *experience*.
 
@@ -76,7 +76,7 @@ RV 10.71.4 gives the section its keystone. Vāk is the agent. She reveals hersel
 
 The receiver-self is not one language's idiom. Korku, Mundari, Tamil, Telugu, and Sanskrit all seat the self as a receiver rather than a sovereign. This is what the subcontinent learned and kept: to understand the ego, and to preserve a language built to manage it.
 
-## 16.4 The Mind De-centers: *Karmaṇi* and *Bhāve*
+## 17.4 The Mind De-centers: *Karmaṇi* and *Bhāve*
 
 The doer can leave the center of a sentence. The agent — the **कर्तृ (*kartṛ*)** — recedes, and the clause settles on the thing acted on, or on the action itself. The English label "passive voice" misses the operation: this is not turning a sentence around, it is demoting the doer — making it oblique, optional, or gone.
 
@@ -88,7 +88,7 @@ English can demote the doer too — "the book was read," the agent trailing in a
 
 Placed beside *sampradāna*, the concept becomes clearer: one makes the person the receiver of experience; *karmaṇi* and *bhāve* make the doer incidental. The subcontinental mind does not only ask "who did it?" It can ask what was affected, what occurred, how the action entered the field — and it built a grammar that need not seat the ego at the center of the sentence.
 
-## 16.5 The Mind Sequences: The Folded Action
+## 17.5 The Mind Sequences: The Folded Action
 
 Human action often arrives as sequence: eating, rising, going; seeing, deciding, speaking. A person can rise, wash, and step out the door — one continuous motion preserved by one doer, not a list of separate events. The subcontinent's languages fold that flow into grammar: the act just finished is pressed into a specific form and tucked beneath the act that follows, so a chain of doing stays a single sentence with one thread running through it.
 
@@ -104,7 +104,7 @@ One doer usually threads the whole chain — eat, then come, the same person thr
 
 A complete act becomes one frozen form, leaning into the act that follows, and the sentence flows the way the doing flowed. This is a mind that takes action as a single connected motion — and a grammar built to speak it that way.
 
-## 16.6 One Field, Encoded
+## 17.6 One Field, Encoded
 
 The subcontinental mouth and mind appear in Sanskrit through five linked features.
 
@@ -116,7 +116,7 @@ Sanskrit is built from the subcontinental field: the mouth gives the sound, the 
 
 ## PART B — The Portability Thesis Collapses
 
-## 16.7 The Notices
+## 17.7 The Notices
 
 Read the notices the pyramid has issued over two centuries.
 
@@ -134,7 +134,7 @@ The packaging has changed repeatedly: Noah disappeared, skull measurements becam
 
 The evidence supports a direct explanation: Sanskrit was built in the Indian subcontinent. Its sounds come from the subcontinental mouth, its grammatical relations express the subcontinental mind, and the Veda preserves both from its very first word.
 
-## 16.8 The Borrowing Model Fails
+## 17.8 The Borrowing Model Fails
 
 If the pyramid says Sanskrit arrived through the northwest, the claimed route becomes the test — Indo-Iranian corridors, Avestan / Old Iranian, and the wider non-Indic Indo-European field. That carrier field must show the same cluster Sanskrit encodes structurally: the curled tongue, the doubled mouth, the receiver grammar, the demoted doer, and the folded action.
 
@@ -142,17 +142,17 @@ The subcontinent supplies the cluster densely rather than through one witness al
 
 The borrowing story performs the same maneuver each time. First it removes Sanskrit from the field. Then it returns the field's features as later acquisitions: retroflexion as substrate borrowing, the gerund or absolutive as areal feature, receiver grammar as local contact, doer-demotion as passive-like areal habit.[NOTE: borrowing-model-substrate-areal-claims] Each feature is allowed to be Indian only after Sanskrit has been made non-Indian in origin.
 
-The receiver grammar detailed in §16.3—where the self functions as the *sampradāna* (the locus where an experience arrives) rather than an active doer—provides the sharpest test against this maneuver. Tamil, Telugu, Korku, and Mundari let hunger, knowing, perception, and inward states arrive to a person, while the Veda performs exactly the same work through forms such as *asmai*, *naḥ*, *mahyam*, and *tvasmai*. The imagined carrier route must therefore explain how an external language arrived already able to encode that specific mind, or how the massive Vedic corpus was later systematically reworked to encode it.
+The receiver grammar detailed in §17.3—where the self functions as the *sampradāna* (the locus where an experience arrives) rather than an active doer—provides the sharpest test against this maneuver. Tamil, Telugu, Korku, and Mundari let hunger, knowing, perception, and inward states arrive to a person, while the Veda performs exactly the same work through forms such as *asmai*, *naḥ*, *mahyam*, and *tvasmai*. The imagined carrier route must therefore explain how an external language arrived already able to encode that specific mind, or how the massive Vedic corpus was later systematically reworked to encode it.
 
 The custody trick stands exposed. The pyramid grants the subcontinent its fragments while denying the field its architecture.
 
 Now set the two fields side by side. The claimed source — Avestan and Old Iranian — does not run the cluster: the retroflex series is absent, and the syntax must be weighed with care before more is claimed.[NOTE: avestan-retroflex-absence] What the carrier was supposed to bring lives densely in the subcontinent instead. Sanskrit encodes structurally what the field exhibits densely.
 
-## 16.9 The Corpus Cannot Be Rewritten
+## 17.9 The Corpus Cannot Be Rewritten
 
 Contact can move sounds and grammatical habits through a speech community, but either timing available to the portability thesis defeats its account of Sanskrit as transported cargo. If the five features entered before the Vedic forms were organized for exact recurrence, then Sanskrit acquired its defining sound and grammatical architecture inside the subcontinental field. The curled tongue, the doubled syllable, the receiver construction, the demoted doer, and the folded action were built into Sanskrit among the languages that share them; they did not arrive as the finished architecture of an external language.
 
-The later-contact alternative fares worse. The *Ṛgveda*, which the pyramid treats as its *earliest* major Sanskrit witness, begins with *agnimīḷe* and already contains the other features documented in this chapter. Placing contact after those forms entered exact recurrence would require a preserved corpus to be systematically rewritten without disturbing the recurrence that Chapter 15 describes. The citations in §§16.1–16.5 show the Vedic forms that close this second route.
+The later-contact alternative fares worse. The *Ṛgveda*, which the pyramid treats as its *earliest* major Sanskrit witness, begins with *agnimīḷe* and already contains the other features documented in this chapter. Placing contact after those forms entered exact recurrence would require a preserved corpus to be systematically rewritten without disturbing the recurrence that Chapter 15 describes. The citations in §§17.1–17.5 show the Vedic forms that close this second route.
 
 The preservation architecture works toward exact recurrence. The *Vedas* are **अपौरुषेय (*apauruṣeya*)** — without human authorship.[NOTE: apauruseya-mimamsa-sutra-1-1-5] They are **श्रुति (*śruti*)** — heard. We do not know when the mantras were first seen. From that unknown beginning, the eleven **पाठाः (*pāṭhāḥ*)**, the **प्रातिशाख्य (*Prātiśākhya*)** discipline, and the **गुरुशिष्यपरम्परा (*guru-shishya paramparā*)** — the teacher-student lineage-chain — have kept recurrence exact.
 
@@ -162,7 +162,7 @@ The different duties of छन्दस् (*chandas*) and भाषा (*bhā�
 
 The branch evidence sharpens the category further. A शाखा (*śākhā*) is a specified transmission line with its own branch-shape. The **माध्यन्दिन (*Mādhyandina*)** and **काण्व (*Kāṇva*)** recensions of the **शतपथब्राह्मण (*Śatapatha Brāhmaṇa*)** preserve related material through different branch-shapes, divisions, and arrangements. The correct axis is mode and branch rather than a single temporal slope from "Vedic" to "Classical."[NOTE: madhyandina-kanva-branch-shapes]
 
-## 16.10 What Sanskrit Builds from the Field
+## 17.10 What Sanskrit Builds from the Field
 
 Contact can move forms; engineering assigns place, role, and scale.
 

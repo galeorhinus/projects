@@ -1,8 +1,18 @@
 # Appendix Part 8 Cross-Chapter Ownership Audit
 
-This ledger records the ownership pass completed after Appendix Part 8 became
-the full exposition of Sanskrit's two-domain architecture. Nothing was removed
-from the manuscript without being recorded here and preserved verbatim in:
+This ledger records the ownership passes completed before and after Chapter 16
+became the full exposition of Sanskrit's two-domain architecture. The earlier
+entries remain below as a history of the first consolidation. The final split
+was completed on 2026-07-29:
+
+- Chapter 16 owns the conceptual and civilizational argument.
+- Appendix Part 8, *Designed Variations Across the Two Domains*, owns the
+  technical evidence.
+- LF-VL-012 through LF-VL-018 preserve every block removed during the final
+  consolidation.
+
+Nothing was removed from the manuscript without being recorded here and
+preserved verbatim in:
 
 `working/10_active/as_appendix_08_removed_text_lost_and_found_codex.md`
 
@@ -14,9 +24,10 @@ from the manuscript without being recorded here and preserved verbatim in:
 | Chapter 2 | State the pyramid's botanical account and the preservation system that contradicts it. |
 | Chapter 9 | Establish the sonomer coordinate test and engineering by exclusion. |
 | Chapter 14 | Explain the two domains as parts of the calibration matrix. |
-| Chapter 16 | Apply the sound evidence to the portability thesis. |
+| Chapter 16 | Explain the complete two-domain architecture and its civilizational purpose. |
+| Chapter 17 | Apply the sound evidence to the portability thesis. |
 | Appendix Part 7 | Establish Vedic variation through passages and evidence. |
-| Appendix Part 8 | Give the complete explanation of the two-domain architecture. |
+| Appendix Part 8 | Supply the exact passages, technical comparisons, inventories, counts, figures, and source qualifications behind Chapter 16. |
 | Appendix Part 9 | Refute the codification and chronology story. |
 
 ## Deployed Changes
@@ -44,7 +55,7 @@ replaced by the three paragraphs below.
 > usage. Pāṇini inherited this arrangement. His *chandasi* documentation helps
 > students read Vedic forms, while his *bhāṣāyām* documentation explains the
 > productive language used to read existing laukika works and compose new
-> ones. Appendix Part 8, “One Architecture, Two Domains,” examines the
+> ones. Appendix Part 8, “Designed Variations Across the Two Domains,” examines the
 > grammatical evidence for this division.
 >
 > The Vedas did not survive because Pāṇini stabilized them. Pāṇini could
@@ -139,7 +150,7 @@ vertical span.”
 > rules for the *chandas* mode and *bhāṣāyām* rules for the *bhāṣā* mode within
 > one architecture. The *laukika* library can grow, be selected, and suffer loss
 > while the language remains calibrated. The Vedic corpus remains fixed.
-> Appendix Part 8, “One Architecture, Two Domains,” presents the complete
+> Appendix Part 8, “Designed Variations Across the Two Domains,” presents the complete
 > comparison across sounds, endings, verbal forms, *upasarga* placement, pitch,
 > meter, composition, and transmission.
 

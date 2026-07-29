@@ -207,7 +207,7 @@ The engineering axiom (Chapter 4 §4.2) above the empirical observation (Chapter
 
 **Add a methodological note to Volume 1.** The project inherited an imported framework in 1948. What the dictionary documents is the *apabhraṃśa* stratum — the slip of speakers across thousands of years against an engineered specification. The framing changes. No data is retracted.
 
-**Publish the corpus as structured data.** The 6,056 pages can be restructured along the architectural axes Chapter 17 §17.2 identifies — engineered form, recorded variants, *gaṇa* / *dhātu* lineage, and the record of each use. The entries remain the same, but readers can search them through categories that the present historical arrangement excludes. This requires data restructuring, not new fieldwork.
+**Publish the corpus as structured data.** The 6,056 pages can be restructured along the architectural axes Chapter 18 §18.2 identifies — engineered form, recorded variants, *gaṇa* / *dhātu* lineage, and the record of each use. The entries remain the same, but readers can search them through categories that the present historical arrangement excludes. This requires data restructuring, not new fieldwork.
 
 Four operations. The data is preserved entirely. The institutional history is preserved entirely. Only the imported framework changes. The *jāḍya* will lift the morning the approvals are signed.
 

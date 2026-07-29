@@ -1,4 +1,4 @@
-# Chapter 18 — PIE in the Sky
+# Chapter 19 — PIE in the Sky
 
 The answer was waiting in the joke.
 
@@ -25,7 +25,7 @@ The laugh was correct. PIE is suspended above the data by assumption. It descend
 
 Behind every PIE form sits a **\*baker**.
 
-## 18.1 Schleicher's Bake
+## 19.1 Schleicher's Bake
 
 The first baker was August Schleicher. He made the bakery visible: in 1868 he published a fable in his reconstructed Proto-Indo-European — *Avis akvāsas ka*, "The Sheep and the Horses" — the first complete piece of literature written in a language no human community had ever spoken. Every word bore an asterisk: \**ávis*, \**akvā́sas*, \**kr̥nuto*, \**wl̥qis*, \**ágrom* — each form reconstructed, none recorded in any speaker's language, each baked from cognates collected backward across the daughter Indo-European languages.[NOTE: schleicher-1868-fable] The asterisk before each form had been Schleicher's notational invention in his earlier *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (1861); the 1868 fable made the convention fully operational, a working showcase of a reconstructed language at literary length.
 
@@ -39,7 +39,7 @@ PIE is the conlang the conlangers' craft disowns.
 
 Hear the first syllable again. The honest conlanger's *con-* is *constructed* — printed on the label, admitted up front. Schleicher's is the other *con*: the confidence man's, the face worn over the work. Same three letters, opposite honesty. One builds a language and says so; the other builds one and swears he found it.
 
-## 18.2 The Asterisk Defense
+## 19.2 The Asterisk Defense
 
 The pyramid's defense retreats to bookkeeping. It says: yes, the forms are hypothetical; yes, nobody claims to have a recording of PIE; yes, the asterisk denotes reconstruction. The starred forms are only labels for systematic correspondences.
 
@@ -57,9 +57,9 @@ The pyramid extended its fertile imagination from people, language, and words in
 
 **The four inventions.** RAT supplies the imaginary people: *Aryans* as race, ancestry, or migrating population. PIE supplies the imaginary language placed before Sanskrit. Starred reconstructions supply the imaginary words — forms no known mouth ever made. Comparative mythology supplies the imaginary ancestral stories from which recorded epics are made to descend. The phrase *"Indo-Aryan languages"* binds the first three inventions into ordinary academic speech; *"Indo-European narrative inheritance"* performs the same operation for the fourth. Sanskrit is real. *Ārya* is real. The Vedic archive is real. The *Rāmāyaṇa* is real. The imaginary people, language, words, and ancestral stories allow the pyramid to make the real civilization external to itself.
 
-## 18.3 What PIE Cannot Explain
+## 19.3 What PIE Cannot Explain
 
-Chapter 17 has already tested PIE against the subcontinental sound-field and the *varṇamālā*. The same failure becomes sharper when the comparison reaches Sanskrit's semantic atoms, its scaffold architecture, and the *siddha* bond between word and meaning.
+Chapter 18 has already tested PIE against the subcontinental sound-field and the *varṇamālā*. The same failure becomes sharper when the comparison reaches Sanskrit's semantic atoms, its scaffold architecture, and the *siddha* bond between word and meaning.
 
 PIE cannot account for the *dhātavaḥ*. The genealogical project knows reconstructed bases as historical remnants. Sanskrit's *dhātavaḥ* are semantic atoms in an active architecture. The botanical mistranslation exposed in Chapter 2 is an act of intellectual organization. PIE depends on it. Recovering *dhātuḥ* as a structural constituent — the category move completed across Chapters 2 and 10 — dissolves the foundation PIE rests on. A *dhātuḥ* is not a fossilized seed buried in the linguistic past. It is a constituent atom of an engineered system, perpetually active, available for synthesis at any moment. The genealogical project has nothing to do with such a constituent. It has only ever known how to perform autopsies.
 
@@ -84,7 +84,7 @@ At the structural level, the conflict is simple. PIE is flat: one projected ance
 AISWEEP-END -->
 PIE is flat: one projected ancestor used to explain many descendants. Sanskrit is fractal: the same engineering signature recurs across sonomer, *akṣara*, *dhātuḥ*, *śabda*, *vākya*, *sūtra*, and calibration matrix. A flat ancestor cannot explain a fractal architecture. It can only demote that architecture into a descendant and protect the pyramid from Sanskrit-as-calibrant.
 
-## 18.4 The Cementing
+## 19.4 The Cementing
 
 PIE persists because the third pillar persists. The racial pillar has been damaged. The old theological chronology has receded. The linear-progress pillar remains. That doctrine requires ancient sophistication to descend from primitive antecedents — that whatever is sophisticated must derive from something simpler. Sanskrit as engineered source violates the doctrine. The central formation is developed in Chapter 3: the *progressive dogma* preserves PIE because to relinquish PIE is to begin relinquishing the doctrine; the *church of progress* cements PIE in the routine reference ecosystem the next generation reads.
 
@@ -98,7 +98,7 @@ The chart uses a simple coverage test. Each reconstructed PIE consonant is place
 
 In the legend, **Sanskrit ⊇ PIE** means: what fraction of PIE's reconstructed consonants are already covered by Sanskrit's consonant inventory? **Tamil ⊇ PIE** is the control: the same test, run against Tamil, so Sanskrit is not being measured in isolation. The decimal labels are fractions. Schleicher's **0.81** means that 81 percent of his reconstructed PIE consonants matched Sanskrit's place-and-manner inventory. That is exactly what one would expect from the first bake. Schleicher's PIE leaned heavily on Sanskrit.
 
-![Figure 18.1 — PIE Keeps Returning to Sanskrit. The chart measures how much of each reconstructed PIE consonant inventory is covered by Sanskrit, with Tamil as a control. The curve moves away from Sanskrit and then reloads Sanskrit-like material; the historical lanes show context, not causation.](figures/pie_in_sky/sanskrit_containment_trajectory.svg){#fig:ch18-pie-trajectory width=100%}
+![Figure 19.1 — PIE Keeps Returning to Sanskrit. The chart measures how much of each reconstructed PIE consonant inventory is covered by Sanskrit, with Tamil as a control. The curve moves away from Sanskrit and then reloads Sanskrit-like material; the historical lanes show context, not causation.](figures/pie_in_sky/sanskrit_containment_trajectory.svg){#fig:ch19-pie-trajectory width=100%}
 
 The event lanes below the chart show what the timing reveals. The first lane is internal to PIE: Schleicher in 1862, Brugmann in 1897, the standard / laryngeal reconstruction by 1927, the glottalic turn in 1973, and the modern reload in 2020. The second lane tracks the Western and European environment around the reconstruction: Darwin's tree metaphor in 1859, the retreat of explicit race science after the war, the continued survival of the racial Arya thesis, the hardening of PIE in dictionaries in the 1990s, and the recent public relaunch of PIE through popular books. The third lane tracks the Indic and Sanskrit environment: India's independence in 1947, the founding of Saṃskṛta Bhāratī in 1981, economic opening in 1991, and Hindu civilizational assertion after 2014.
 
@@ -111,11 +111,11 @@ Brugmann's reconstruction falls to **0.73**. The standard / laryngeal reconstruc
 
 The reconstruction bakers were only the first shift; a second took the reference shelf. Julius Pokorny's *Indogermanisches etymologisches Wörterbuch* (1959) gathered the starred roots into a cookbook. Calvert Watkins built them into the *American Heritage Dictionary*'s appendix — a pie in every American desk. The free online references a reader now consults, Etymonline and the aggregators, made the starred form the default terminus. More bakers, more pies. The reconstructions did not merely multiply in the journals; they climbed into the dictionaries, edition by edition, until the entry a child reads today ends at a star. The next section follows that climb into one dictionary's own pages.
 
-## 18.5 The Recipe, Step by Step
+## 19.5 The Recipe, Step by Step
 
 Four words hang in every English-speaking wardrobe: *shirt*, *skirt*, *short* — and, for the abrupt, *curt*. The dictionary files all four in one family, and the family tree printed for them has become a small internet celebrity: a massive spreading tree, fifty-plus English words in its branches — *shear, share, score, shred, sharp, cortex, carnal, carnival* — and at its root, marked PIE, the claimed ancestor of them all: **\*(s)ker-**, "to cut." The tree is handsome, confident, and widely shared. No Sanskrit appears anywhere on it.
 
-![Figure 18.2 — \*(s)ker- — the Phantom of Cutting. The tree simplified to its own topology — their branches, their notation, nothing added: dashed = never spoken. No Sanskrit in the tree.](figures/pie_in_sky/sker_pie_tree.svg){#fig:ch18-sker-phantom width=100%}
+![Figure 19.2 — \*(s)ker- — the Phantom of Cutting. The tree simplified to its own topology — their branches, their notation, nothing added: dashed = never spoken. No Sanskrit in the tree.](figures/pie_in_sky/sker_pie_tree.svg){#fig:ch19-sker-phantom width=100%}
 
 The notation at the base of that tree makes three confessions, printed in plain sight. The asterisk is the first: **\*(s)ker-** is reconstructed; no text, inscription, or known speaker preserves it. The parentheses are the second: the reconstruction needs *s* for some words and removes it for others. Comparative philology calls this alternation *s-mobile*, but the label supplies no stable rule that predicts its appearance across this family.[NOTE: s-mobile-root-extension-confessions] The *t* is the third confession. Some recorded forms contain it and others do not, so the handbooks posit **\*(s)ker-t-** beside **\*(s)ker-** and call the added consonant a "root extension." Yet the extension has no stable meaning that explains where it appears. A phantom base, a floating consonant, and a meaningless appendix: that is what the whole tree stands on.
 
@@ -137,11 +137,11 @@ Now the tally. To reach *shirt*, *skirt*, *short*, and *curt*, the pyramid stack
 
 And the case generalizes, because the case is a recipe. Delete the source language from the page. Average the reflections that remain. Star the average and install it as the ancestor. Convert every residue the average cannot digest into a device — a mobile consonant, a meaningless extension, an unpronounceable laryngeal. File the source language as one more daughter of its own reflections. Run the recipe entry by entry, and the etymological dictionary assembles itself — tree after handsome tree, each standing on a phantom, the Sun nowhere on the page.
 
-![Figure 18.3 — ⟪कृत्⟫ · Orbit and Radiance — the Cut-Atom. The words orbit; the radiance seeds far soil; the tree is never the source.](figures/pie_in_sky/krt_orbit_radiance.svg){#fig:ch18-krt-orbit width=100%}
+![Figure 19.3 — ⟪कृत्⟫ · Orbit and Radiance — the Cut-Atom. The words orbit; the radiance seeds far soil; the tree is never the source.](figures/pie_in_sky/krt_orbit_radiance.svg){#fig:ch19-krt-orbit width=100%}
 
 Sanskrit needs no devices, because the atom sits at the center, listed and self-explanatory. The derivations orbit it by stated rule. The living languages preserve the cutting-words in daily speech — a Kannada tailor's *kattari* is *kartarī*, the scissors, still cutting. Beyond the field, the rays land where the carriers took them, and trees grow at the landing points — *curt* and *cortex* on the Latin surface, *shirt* and *skirt* and *short* where the boundary-*s* rode along, *shear* and *share* where it did not. In Sanskrit the *s* has a source, a position, and a meaning. In PIE it has parentheses.
 
-## 18.6 Kin, Kind, King: the Dictionary Shift
+## 19.6 Kin, Kind, King: the Dictionary Shift
 
 Open an English dictionary from before the bakers took the reference shelf, and the chain for *king* ends at a real word. James Donald's *Chambers's Etymological Dictionary* (1872) renders it plainly:
 
@@ -159,7 +159,7 @@ Today the move is complete. Look up *king* now — Etymonline, the Oxford entrie
 
 The recipe reruns wherever it is pointed — the same imaginary race, the same imaginary language, the same imaginary words. The birth-family is another such tree: \*ǵenh₁ "to give birth" spread over *nation*, *nature*, *gene*, *kind*, and *king*, with no Sanskrit in it — while **⟪जन्⟫ (*jan*)** sits in the Dhātupāṭha encoding both of the phantom's meanings, its words alive from *janma* to Bengali *jônmo*.[NOTE: jan-dhatupatha-double-entry]
 
-![Figure 18.4 — \*ǵenh₁ — the Phantom of Birth. Another popular tree, trimmed the same way — their branches, their notation, nothing added: dashed = never spoken. No Sanskrit in the tree.](figures/pie_in_sky/genh_pie_tree.svg){#fig:ch18-genh-phantom width=100%}
+![Figure 19.4 — \*ǵenh₁ — the Phantom of Birth. Another popular tree, trimmed the same way — their branches, their notation, nothing added: dashed = never spoken. No Sanskrit in the tree.](figures/pie_in_sky/genh_pie_tree.svg){#fig:ch19-genh-phantom width=100%}
 
 The Sanskrit side never needed the star, because the architecture is self-evident:
 
@@ -168,7 +168,7 @@ The Sanskrit side never needed the star, because the architecture is self-eviden
 > *bīja* in the receiving listener's mind →
 > **Latin *genus* / Greek *génos* / Old English *cyning* / English *king* (*apaśabdas*)**[NOTE: jan-dhatupatha-double-entry]
 
-![Figure 18.5 — ⟪जन्⟫ · Orbit and Radiance — the Birth-Atom. The words orbit; the radiance seeds far soil; trees grow where the light lands.](figures/pie_in_sky/jan_orbit_radiance.svg){#fig:ch18-jan-orbit width=100%}
+![Figure 19.5 — ⟪जन्⟫ · Orbit and Radiance — the Birth-Atom. The words orbit; the radiance seeds far soil; trees grow where the light lands.](figures/pie_in_sky/jan_orbit_radiance.svg){#fig:ch19-jan-orbit width=100%}
 
 One chain begins from a real *dhātuḥ* recorded in the Dhātupāṭha and unfolds by rule. The other begins from a form recorded nowhere.
 
@@ -176,7 +176,7 @@ One chain begins from a real *dhātuḥ* recorded in the Dhātupāṭha and unfo
 
 By positing an imaginary people speaking an imaginary language built from imaginary words, the asterisk serves as the one visible confession. Printed on the reconstructed word, the language assembled from those words, and the people posited to have spoken it, that single mark sustains three distinct fictions. The only empirical reality in the story remains the Sanskrit the machinery reverse-engineered it from.
 
-## 18.7 *Pratibimba*
+## 19.7 *Pratibimba*
 
 *Pratibimba* serves as the optical word, with radiance acting as the transmission image. Rather than requiring a migrating race, Sanskritic forms required carriers, contact, and a receiving field. As the light traveled and the receiving languages formed reflections, the philologists mistook the pattern of reflected light for a vanished parent body. Thus, radiance explains resemblance without ancestry, leaving the reflection on its own past the field's edge: the *apaśabda* emerges as drift outside active Sanskritic gravity.
 
@@ -197,9 +197,9 @@ The *mother* family becomes clear:
 
 The chain just traced is *Pratibimba* operating through **vivimorphosis** — an engineered Sanskrit *śabda* becoming an organic *apaśabda* in a contact language across thousands of years of *apabhraṃśa*. Chapter 12 §12.9 develops the three-stage mechanism. The **शब्द (*śabda*)** remains an inorganic molecule on the calibrant's side. A non-Sanskrit listener receives that molecule as **बीज (*bīja*)**, a seed retained in the mind. When the listener expresses it through the sounds and habits of the receiving language, the seed becomes **अपशब्द (*apaśabda*)**, an organic form that can change and generate within its new linguistic field. Indo-European philology begins with these resulting *apaśabdas* and treats them as descendants of a reconstructed ancestor.
 
-![Figure 18.6 — The Vivimorphosis of ⟪स्था⟫ (*sthā*). From engineered Sanskrit molecules to an organic tree in the receiving languages.](figures/pie_in_sky/stha_vivimorphosis.svg){#fig:ch18-stha-vivimorphosis width=100%}
+![Figure 19.6 — The Vivimorphosis of ⟪स्था⟫ (*sthā*). From engineered Sanskrit molecules to an organic tree in the receiving languages.](figures/pie_in_sky/stha_vivimorphosis.svg){#fig:ch19-stha-vivimorphosis width=100%}
 
-Figure 18.6 keeps the category boundary visible. The hexagons on the left are engineered Sanskrit molecules built from ⟪स्था⟫ (*sthā*). The tree begins only after those molecules enter receiving languages and take organic life there. Its trunk and branches belong to the receiving side; they do not depict Sanskrit's architecture.
+Figure 19.6 keeps the category boundary visible. The hexagons on the left are engineered Sanskrit molecules built from ⟪स्था⟫ (*sthā*). The tree begins only after those molecules enter receiving languages and take organic life there. Its trunk and branches belong to the receiving side; they do not depict Sanskrit's architecture.
 
 The same pattern appears in *devaḥ*:
 
@@ -225,13 +225,13 @@ The ⟪स्था⟫ and ⟪दिव्⟫ families are part of a much larger
 
 Greek, Latin, and Germanic received these seeds and made them productive in their own languages. Each family continued to grow through the sounds, affixes, and habits of its new field, while the semantic reach of the Sanskrit atom remained recognizable across the canopy. Vivimorphosis therefore explains both sides of the contact: Sanskrit's radiance endows the receiving language, and the receiving language turns that endowment into organic growth.
 
-The PIE account reverses the direction shown in Figure 18.6. It begins with organic forms in the receiving languages, groups their correspondences, and reconstructs a botanical parent behind them. The pyramid then reads those vivimorphosed descendants as evidence for that parent and makes Sanskrit descend from the reconstruction. Through that reversal, the engineered source becomes one daughter branch beneath an imaginary ancestor assembled from reflected forms.
+The PIE account reverses the direction shown in Figure 19.6. It begins with organic forms in the receiving languages, groups their correspondences, and reconstructs a botanical parent behind them. The pyramid then reads those vivimorphosed descendants as evidence for that parent and makes Sanskrit descend from the reconstruction. Through that reversal, the engineered source becomes one daughter branch beneath an imaginary ancestor assembled from reflected forms.
 
 Both accounts examine the same correspondences. The descent account interprets them as inheritances from an unrecorded parent, while the calibrant account traces them outward from a recorded Sanskrit atom and the molecules it generates. Those directions also produce an evidentiary difference. The calibrant account begins with an operating architecture that remains available for examination; the descent account begins with a reconstructed form inferred from the correspondences it is then used to explain.
 
 ### A Repeatable Radiance Map
 
-Figure 18.6 showed how vivimorphosis carried molecules built from ⟪स्था⟫ into receiving languages, where they became botanical. The same analysis can be repeated for other Sanskrit atoms. The **Sanskrit Radiance Mapping Project** begins with a starred PIE image, places every recorded form beside the Sanskrit family, and then compares their sounds and meanings through Indic methods.
+Figure 19.6 showed how vivimorphosis carried molecules built from ⟪स्था⟫ into receiving languages, where they became botanical. The same analysis can be repeated for other Sanskrit atoms. The **Sanskrit Radiance Mapping Project** begins with a starred PIE image, places every recorded form beside the Sanskrit family, and then compares their sounds and meanings through Indic methods.
 
 The yoke family provides a compact demonstration:
 
@@ -248,7 +248,7 @@ The Sanskrit row contains the recorded atom **⟪युज्⟫ (*yuj*)** and a
 
 The complete procedure first renders each receiving form approximately in Devanagari. It then maps consonants by **स्थान (*sthāna*)** and **प्रयत्न (*prayatna*)** before examining vowels and meanings separately. Pāṇini, Hemacandra, a *Prātiśākhya*, or another Indic source enters the analysis where its documentation applies. A single family demonstrates the procedure. Repeated families and plausible routes of contact establish the direction in which Sanskrit's radiance traveled. Appendix Part 1 provides the reusable research record and applies it to ⟪युज्⟫, ⟪भृ⟫, ⟪जन्⟫, and further atoms.
 
-## 18.8 PIE Is a Lie — *Asura*
+## 19.8 PIE Is a Lie — *Asura*
 
 The *asura* case exposes the break.
 
@@ -276,7 +276,7 @@ The vivimorphosis at the contact-language boundary preserves the breath-bearer, 
 
 The *apaśabda* *ahura* anchors the central theological vocabulary of the Zoroastrian tradition. The semantic transformation that accompanies the phonetic one — what *asura* means in the Sanskrit source and what *ahura* comes to mean in the Avestan recipient, and how the suric / asuric distinction develops into the cosmic backdrop for the political-architectural argument — is taken up in a forthcoming volume in the ***Second Shanti*** series. What this section isolates is the phonetic vivimorphosis: the same engineered form, transmitted into a contact language as the *Pratibimba* the Iranian religious imagination has preserved throughout its tradition.
 
-[FIGURE 18.7: The pyramid's PIE reconstructions and the vivimorphosis chains shown side by side for *deva* and *asura*. The pyramid's etymology, Sanskrit *dhātu* / *śabda*, receiving-language *bīja*, and contact-language *apaśabda* across the rows.]
+[FIGURE 19.7: The pyramid's PIE reconstructions and the vivimorphosis chains shown side by side for *deva* and *asura*. The pyramid's etymology, Sanskrit *dhātu* / *śabda*, receiving-language *bīja*, and contact-language *apaśabda* across the rows.]
 
 | Stage | *deva* chain | *asura* chain |
 |---|---|---|

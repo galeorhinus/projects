@@ -208,7 +208,7 @@ Chapter 2 should not carry the entire civilizational argument. It should make th
 - **Chapter 12:** develop vivimorphosis at the molecule boundary.
 - **Chapter 13:** develop Hebrew revivification and explain its return to botanical change.
 - **Chapter 14:** develop calibration as the execution architecture and petrification as authority holding a selected form fixed.
-- **Chapter 18:** use vivimorphosis to reverse the PIE tree.
+- **Chapter 19:** use vivimorphosis to reverse the PIE tree.
 - **Epilogue:** return to the purpose of preserving the measure and the responsibility of present caretakers.
 
 ## 7. Proposed Assets

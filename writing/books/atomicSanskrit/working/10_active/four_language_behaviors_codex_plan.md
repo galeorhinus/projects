@@ -153,7 +153,7 @@ No new chapter burden needed. The synthesis should point backward to Ch5 and Ch6
 Primary locations:
 
 - `as_1_12_building_vakya.md` §12.9, “Boundary Crossing: अपभ्रंश (*Apabhraṃśa*) = Vivimorphosis”
-- `as_1_18_pie_in_sky.md` §18.7 and following examples
+- `as_1_19_pie_in_sky.md` §19.7 and following examples
 
 Current role:
 
@@ -165,7 +165,7 @@ Vivimorphosis is not only a story of loosening. A botanical language can **tap i
 
 Examples and guardrails:
 
-- **Old Persian / Avestan** can be treated as strong vivimorphosis candidates. They occupy a distinct Iranian language ecology and preserve cases where Sanskritic forms or categories appear as organicized contact-language forms: *asura → ahura*, *Sindhu → Hinduš*, and similar cases developed in Ch18.
+- **Old Persian / Avestan** can be treated as strong vivimorphosis candidates. They occupy a distinct Iranian language ecology and preserve cases where Sanskritic forms or categories appear as organicized contact-language forms: *asura → ahura*, *Sindhu → Hinduš*, and similar cases developed in Ch19.
 - **Greek and Latin** should be treated as major vivimorphosis fields. They preserve a large number of organicized forms whose Sanskrit atomic / molecular structure remains recoverable, while the Sanskrit engineering is no longer operational inside Greek or Latin. The book should make the replacement explicit: remove the imaginary PIE ancestor from the explanatory slot and test whether Sanskrit *dhātavaḥ* and molecules account for the richness that Greek and Latin received. Their likely path in this terminology is: Sanskritic radiance → vivimorphosis → Greek / Latin botanical life → classical petrification.
 - **Asian Buddhist transmission languages** should become the second major benefit-case, after Greek and Latin. Buddhism carried Sanskritic and Sanskrit-adjacent vocabulary, compounds, names, mantras, doctrinal categories, and translation-calque patterns into Pāli, Gāndhārī, Buddhist Hybrid Sanskrit, Tibetan, Chinese, Korean, Japanese, Vietnamese, Mongolian, Thai, Khmer, Burmese, and related literary worlds. These languages did not become Sanskrit. They drew from Sanskrit's generative reservoir, absorbed the *bījas*, and continued flowing in their own grammars. This is vivimorphosis as civilizational enrichment rather than ancestry.
 - **Prakrit / Prākritika languages** should not be the flagship vivimorphosis examples. They remain inside Sanskrit’s gravity field. They are better described as **orbital apabhraṃśa**, **orbital naturalization**, or **calibrant-adjacent naturalization**: natural speech moving away from Sanskrit while remaining close enough to be measured against it.
@@ -173,9 +173,9 @@ Examples and guardrails:
 
 Deployment note:
 
-Keep the full explanation in Ch12. Ch18 should continue to show worked cases: *mātṛ → mother*, *devaḥ → deus*, *asuraḥ → ahura*, *sthā* vivimorphosis, and related examples.
+Keep the full explanation in Ch12. Ch19 should continue to show worked cases: *mātṛ → mother*, *devaḥ → deus*, *asuraḥ → ahura*, *sthā* vivimorphosis, and related examples.
 
-Add a companion deployment either in Ch18 or the Source and Reference Companion:
+Add a companion deployment either in Ch19 or the Source and Reference Companion:
 
 > Vivimorphosis is also how Sanskrit enriches botanical languages. Greek and Latin should be reread with Sanskrit *dhātavaḥ* in the source position where the pyramid now places PIE. Asian Buddhist transmission gives the same pattern in a historically visible register: Sanskritic categories, names, compounds, and mantric forms enter living languages, become local *bījas*, and then grow in Chinese, Tibetan, Japanese, Southeast Asian, and other language ecologies without making those languages Sanskrit.
 
@@ -239,7 +239,7 @@ Possible paragraph after the table:
 
 > The crucial difference is the layer at which adaptation occurs. Botanical languages adapt by changing the language. Petrified registers resist adaptation by being held under authority. Sanskrit adapts differently: the calibrated language remains itself, while speakers extend usage through derivation, composition, application, and commentary. **Laukika** Sanskrit therefore remains usable in changing worlds without ceasing to be the calibrant.
 
-### Ch18
+### Ch19
 
 Use the four-way distinction implicitly through examples.
 
@@ -247,17 +247,17 @@ Add a brief reminder near the *sthā* vivimorphosis figure:
 
 > The organic tree belongs on the receiving side. Sanskrit supplies engineered molecules; contact languages grow the botanical forms.
 
-This keeps the reader from confusing the visual tree in Ch18 with the botanical theft rejected in Ch2.
+This keeps the reader from confusing the visual tree in Ch19 with the botanical theft rejected in Ch2.
 
 Add a second reminder after the Greek / Latin / *sthā* example cluster:
 
 > Vivimorphosis is not impoverishment. It is one way botanical languages receive Sanskritic radiance. Greek and Latin gained richness from Sanskritic atoms and molecules while continuing their own natural flow. The pyramid turned that enrichment backward into ancestry and called the imagined source PIE.
 
-Possible later paragraph, if the Asian Buddhist case is brought into Ch18 or an appendix:
+Possible later paragraph, if the Asian Buddhist case is brought into Ch19 or an appendix:
 
 > The Buddhist transmission map shows vivimorphosis in daylight. Sanskritic and Sanskrit-adjacent forms travel with teachers, texts, mantras, names, compounds, and categories. Chinese, Tibetan, Japanese, Korean, Vietnamese, Mongolian, Thai, Khmer, Burmese, and other languages receive them, translate them, calque them, pronounce them locally, and grow new literary and philosophical vocabularies around them. None becomes Sanskrit. Each remains botanical. Yet each has tapped, visibly, into Sanskrit's generative reservoir.
 
-Possible Ch18 terminology addition:
+Possible Ch19 terminology addition:
 
 > The pyramid’s story requires **migratiogenesis**: the belief that a moving pastoral dialect, by passing through geography, contact, and time, somehow generated Sanskrit’s sonomeric, grammatical, metrical, and recitational architecture.
 
@@ -350,7 +350,7 @@ Candidate terms:
 | **radiant transmission** | Best plain phrase | Clear, book-compatible, avoids over-coining. Names the process without hiding the carriers. |
 | **ṛṣi-radiance** | Poetic / compact | Strongly tied to the book's Sun frame. Better as rhetoric than technical term. |
 | **Sanskritic radiance** | Broad process name | Fits the Sun metaphor; explains outward influence without implying descent. |
-| **calibrant radiance** | Technical | Links the process to Sanskrit as calibrant. Good in Ch18 / epilogue. |
+| **calibrant radiance** | Technical | Links the process to Sanskrit as calibrant. Good in Ch19 / epilogue. |
 | **radiant calibration** | Technical-poetic | Suggests the receiving language is touched and partially ordered by the calibrant. |
 | **radiance-contact** | Category-like | Parallel to "calibrant contact"; slightly awkward but precise. |
 | **ṛṣi-carried radiance** | Best full phrase | Names both carrier and process; useful at first introduction. |
@@ -374,7 +374,7 @@ Shorter version:
 
 > Migration does not create Sanskrit. Ṛṣi-carried radiance explains the opposite motion: Sanskritic architecture moving outward, becoming *bīja* in other languages, and sprouting through vivimorphosis.
 
-Potential Ch18 deployment:
+Potential Ch19 deployment:
 
 Use this contrast near the section that rejects the migration-generated Sanskrit story:
 
@@ -444,7 +444,7 @@ Do not make Sanskrit a tree. If a tree appears in the figure, it must belong onl
 2. Should the full four-way table land in Ch12 §12.9 or in Appendix Part 8?
 3. Should Hebrew / Arabic / Latin appear in the main body, or be reserved for appendix / epilogue to avoid distracting from Sanskrit?
 4. Should the figure be created now, or wait until the Ch12 table language stabilizes?
-5. Should Ch18 coin **migratiogenesis**, or should the book use the plainer phrase **Steppe-to-Sanskrit alchemy** and reserve the coined term for essays?
+5. Should Ch19 coin **migratiogenesis**, or should the book use the plainer phrase **Steppe-to-Sanskrit alchemy** and reserve the coined term for essays?
 6. Should Prakrit be described as **orbital apabhraṃśa**, **orbital naturalization**, or **calibrant-adjacent naturalization**?
 7. Should **revivification** be treated as a fifth language behavior in the table, or as a reverse-process note under petrification?
 8. ~~Should **re-prākritization** appear in body prose?~~ **Resolved:** retire the term; revivification already includes the return to botanical life.

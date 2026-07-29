@@ -203,3 +203,227 @@ For example, Ṛgveda 10.125.1 uses ***रुद्रेभिः (*rudrebhiḥ
 > I move with the Rudras and the Vasus; I move with the Ādityas and all the Devas.
 
 **रुद्रेभिः (*rudrebhiḥ*)** has three syllables, while **रुद्रैः (*rudraiḥ*)** has two. The complete *pāda* has the eleven syllables of Triṣṭubh; replacing **रुद्रेभिः** with **रुद्रैः** would leave ten. The extended Vedic ending therefore adds the required syllable without changing the *vibhakti*, number, or grammatical relation.
+
+
+## LF-VL-012 — Former Appendix Part 8 §8.1
+
+**Source:** `as_3_08_one_architecture_two_domains.md`
+
+**Action:** Replaced by the technical evidence orientation after Chapter 16 assumed ownership of the conceptual opening.
+
+### Original text
+
+## 8.1 One Language, Two Engineering Tasks
+
+Sanskrit has a twofold purpose. The language must remain unchanged, while simultaneously continuing to serve a changing world. Chapter 0 §§0.4 and 0.7 introduced these two responsibilities and the civilizational motivation behind them. Millions of people across thousands of years learned, recited, corrected, taught, and defended Sanskrit because they regarded that purpose as worthy of preservation. Chapter 2 §2.1 then showed why an engineered language needs more than a set of rules if its architecture is to remain unchanged across such a span.
+
+### What Sanskrit Had to Defeat
+
+Sanskrit's purpose faces two enemies:
+
+1. entropy
+2. asuras
+
+**Entropy** has no deliberate plan. A speaker pronounces a sound differently, another speaker shortens an ending, and a community begins using an old word with a new meaning. Children inherit what they hear and sometimes change the pronunciation, usage and language style. After several generations, the altered form can displace the earlier one even though no person intended that result. Sections 6.1–6.5 of Chapter 6 examine this natural pressure through *apabhraṃśa* and explain how Sanskrit detects and corrects such departures.
+
+**Asuric action** is deliberate. The asuric pyramid is threatened by Sanskrit because a distributed calibrant denies the apex the authority he seeks. Sanskrit distributes its calibrating architecture across sound, grammar, recitation, memory, and lineage, leaving no single office in control of the whole. Chapter 1 §§1.2–1.3 and Chapter 3 §3.5 explain why that architecture threatens the pyramid.
+
+The pyramid can attack the language directly. It can destroy teachers, schools, temples, libraries, and the patronage that allows caretakers to continue their responsibilities. It can interrupt transmission by removing Sanskrit from education and public life. When direct destruction fails, the pyramid can replace Sanskrit's categories and persuade the civilization to distrust the language it preserved.
+
+Institutional authority makes that last method especially powerful. A school can teach children that everything their caretakers know about Sanskrit is wrong. A university can present the pyramid's categories as the only educated account. Dictionaries, translations, examinations, and public offices can repeat the same account until a civilization begins to doubt its own memory. The book describes that operation as civilizational gaslighting.
+
+Sanskrit had to resist both enemies while remaining invariant. It also had to remain useful in every age. Continued usefulness gives people a reason to learn the language, apply it, and protect it. A language confined to inherited expressions would eventually leave its caretakers unable to describe the world in which they lived. Sanskrit therefore had to preserve its architecture without restricting its speakers to the vocabulary and compositions of an earlier age.
+
+### The Two-Domain Response
+
+Sanskrit's solution is a two-layer design whose brilliance exceeds even that of the language engine within it. Each layer becomes a domain with a distinct responsibility. One domain protects the invariant architecture. The other allows each generation to create new words, stories, sciences, poetry, and arguments through that architecture.
+
+The ***वैदिक (*vaidika*)*** domain preserves the mantras exactly as they were seen. Its lineages also transmit the Brāhmaṇas, Āraṇyakas, and Upaniṣads associated with the Vedas, while the analytical śāstras teach caretakers how to recite, examine, and understand the preserved corpus.
+
+The preservation of a mantra is word for word and sound for sound. A lineage preserves the length of every vowel, the pitch of every accent, the sounds produced at each junction, and the sequence in which the words were received. Sanskrit ordinarily permits speakers to rearrange words because ***विभक्तिरूपाणि (*vibhakti-rūpāṇi*, case forms)*** and grammatical relations keep their roles clear. A reciter cannot use that freedom to rearrange a Vedic passage. The sequence belongs to the mantra and remains invariant with it.
+
+The ***लौकिक (*laukika*)*** domain meets the other responsibility. Its speakers can generate a new word when they encounter a new object or idea. A poet can compose romantic poetry whose images and emotions no Vedic mantra needed to express. A mathematician can record and preserve formulae, define a new operation, and explain a proof. An astronomer can record observations, calculate planetary movements, and describe relationships among celestial bodies. A manufacturer can describe materials, tools, processes, measurements, and finished goods. A trader can name commodities, record quantities and prices, negotiate contracts, and track goods across markets. Physicians, philosophers, dramatists, storytellers, and teachers can extend Sanskrit usage in the same way.
+
+Each changing age can therefore create the expressions it needs. The subject may be new, the composition may be new, and the combination of words may be new. The sounds, atoms, affixes, grammatical relations, and generative operations remain Sanskrit.
+
+The two domains complement each other by design. The Veda preserves Sanskrit's architecture in active use, while laukika speakers apply that architecture throughout a changing world. Neither domain could fulfill Sanskrit's complete purpose by itself.
+
+Although the book's focus is language, the Vedas preserve far more than Sanskrit's language engine. This book concentrates on that one layer. The mantras contain Sanskrit's sounds, atoms, operations, relations, and generative grammar in active use. Sections 14.3–14.5 describe how the Vedas function as the primary calibration matrix for Sanskrit and how the surrounding disciplines make that calibration available to later generations. Because the mantras remain exact, later analysts can study them and explain an architecture that was already operating within them.
+
+Later volumes of the *Second Shanti* series will examine other architectures preserved in the Vedas. Their presence helps explain why the protection of the Vedas became one of the paramount responsibilities of Hindu civilization. This volume follows the language engine; the later volumes will follow other layers of the same civilizational design.
+
+### Read-only and Read-write
+
+The two permissions resemble read-only and read-write storage on a familiar computer. Computer designers can protect part of a system's storage from ordinary modification. A user can open, study, and run a read-only file, but cannot overwrite it. The same computer also provides read-write storage in which the user can create a document, revise it, and save a new version. Both kinds of storage belong to one computer and use the same processor. The difference lies in what the user is permitted to change.
+
+Sanskrit makes a comparable distinction between its two domains. The *vaidika* corpus is read-only. People recite it, study it, analyze it, and use it as a calibrant, while its transmitted passages remain unchanged. The *laukika* domain is write-enabled. Speakers use the same Sanskrit architecture to create new words, poems, arguments, sciences, stories, and explanations.
+
+Both domains use the same sonomers, atoms, affixes, case relations, ***समासाः (*samāsāḥ*, compounds),*** and sentence operations. People use that shared architecture under different permissions. A Vedic caretaker preserves each mantra in its received form. A laukika speaker can apply the architecture to expressions that no earlier speaker needed to create.
+
+Read-only does not mean silent, inert, or unused. Students learn the mantras, teachers explain them, and reciters compare each performance with the received form. The analytical disciplines examine the sounds and grammatical operations within every passage. These activities keep the Veda active without giving a later composer permission to revise a mantra or insert a new composition into it. Because the Veda remains unchanged, Sanskrit can continue to use it as the calibrant.
+
+Read-only describes permission, not age. Chapter 0 §0.5 explains why the antiquity of the Vedas cannot be converted into a timeline from *"Vedic"* to *"Classical."* The engineering consequence is simpler: once a mantra entered exact transmission, caretakers could recite, study, analyze, and explain it, but they could not rewrite it.
+
+Pāṇini's *chandasi* and *bhāṣāyām* markers document where an operation applies within this shared architecture. They do not turn the two domains into consecutive stages.
+
+
+## LF-VL-013 — Former Appendix Part 8 §8.8, compounding
+
+**Source:** `as_3_08_one_architecture_two_domains.md`
+
+**Action:** Removed from the appendix because Chapter 16 §16.7 now owns the complete पुरोहित / चन्द्रयान compounding explanation.
+
+### Original text
+
+### समास (*Samāsa*, Compounding)
+
+The same permissions govern compounds. The *vaidika* domain preserves the compounds selected for each received passage. The *laukika* domain keeps compounding productive, allowing writers to create new compounds and place one compound inside another.
+
+The Vedic compound example is **पुरोहित (*purohita*)**, the person *placed in front*, in the opening mantra. The passage preserves that compound as part of its received expression. When a modern lunar mission needed a name, the same compositional architecture joined **चन्द्र (*candra*, Moon)** and **यान (*yāna*, vehicle)** to produce **चन्द्रयान (*Candrayāna*)**. The Vedic caretaker does not replace **पुरोहित** with a newly preferred expression, while the *laukika* speaker remains free to create **चन्द्रयान** for a circumstance that no earlier composition needed to describe.
+
+Both domains use the same compounding operation, but their permissions differ. The *vaidika* domain preserves the compound already present in a read-only passage. The *laukika* domain allows speakers to generate new compounds, including compounds built from other compounds.
+
+
+## LF-VL-014 — Former Appendix Part 8 §8.8, open laukika style
+
+**Source:** `as_3_08_one_architecture_two_domains.md`
+
+**Action:** Removed because Chapter 16 now owns the conceptual account of open laukika composition.
+
+### Original text
+
+### Open Style in the Laukika Domain
+
+Open composition gives laukika Sanskrit its unusual reach because the language can remain invariant while poets, analysts, storytellers, physicians, mathematicians, and teachers develop new styles. Each field can favor different sentence lengths, compounds, technical terms, meters, and forms of explanation without creating a different Sanskrit grammar.
+
+These stylistic choices can spread, fade, or return as later authors make different choices. They can help identify a period or a literary field, but they do not convert one style into an earlier language and another into its evolutionary descendant. The generative architecture remains available beneath them all.
+
+
+## LF-VL-015 — Former Appendix Part 8 §§8.9–8.10
+
+**Source:** `as_3_08_one_architecture_two_domains.md`
+
+**Action:** Removed because Chapter 16 §§16.7–16.8 now own laukika generativity and the Veda as Sanskrit's calibrant.
+
+### Original text
+
+## 8.9 How Laukika Keeps Sanskrit Useful
+
+The *laukika* domain keeps Sanskrit useful in circumstances that no fixed collection of earlier compositions could list beforehand. Its speakers must discuss new objects, institutions, sciences, arguments, and events. They meet each need by generating another expression through Sanskrit's existing architecture, so the vocabulary can expand without requiring the language itself to change.
+
+Sanskrit generates this open vocabulary from a finite set of reusable parts and operations. Sonomers combine into larger sound-forms, while atoms combine with affixes and *upasargas*. Nominal endings show how words relate to one another, and verbal forms identify action, person, number, and mode. A speaker can also join several concepts into a new molecule through compounding. By applying these operations repeatedly, speakers produce words and sentences that no earlier composition needed to contain.
+
+These reusable operations form Sanskrit's productive kernel. When speakers encounter something new, they do not have to wait for an academy, ruler, or dictionary committee to amend the language. They can derive or compose a new expression from the architecture already available to them. The new expression must still use Sanskrit's sounds, atoms, bonds, and grammatical relations. What changes is the combination and its use, not the language engine.
+
+The surviving laukika corpus changes because people can continually add new compositions to it. Communities copy, teach, perform, quote, and explain the material they value.
+
+They may release or forget other works, and conquest or deliberate destruction may remove still others. The corpus therefore grows through selection and new composition while also suffering loss. The Sanskrit architecture remains calibrated even though the surviving content changes. The language is invariant; the content forms a tended field.
+
+***लौकिक (*laukika*)*** means *worldly*. Laukika Sanskrit serves a changing world through its generative architecture without becoming botanical. A natural language responds to new circumstances as generations of speakers alter its sounds, forms, and vocabulary. Sanskrit responds differently: its architecture remains stable while speakers generate the new expressions they need.
+
+The usage adapts; the language does not.
+
+A constructed language may begin with a compact grammar and a planned vocabulary. Later speakers will still revise both unless they inherit a compelling reason to preserve the original architecture. Sanskrit joins generative architecture to ***संस्कृति (*saṃskṛti*)***. People preserve the language because it serves a larger civilizational purpose, and the unchanged Veda remains the reference for that responsibility.
+
+By keeping Sanskrit useful as the world changes, the *laukika* domain fulfills the second responsibility introduced in §8.1. Continual speech and composition also expose pronunciation, words, and meanings to entropic pressure. The *vaidika* domain preserves Sanskrit's architecture outside that flow of new composition.
+
+## 8.10 How the Veda Calibrates Laukika Sanskrit
+
+The *vaidika* domain fulfills the first responsibility by preserving Sanskrit's architecture in use. The Vedas do not need to list every word that a future laukika speaker might require. They preserve Sanskrit's sounds, atoms, affixes, grammatical relations, and transformations in operation. Analysts can examine those operations, explain them, and teach later speakers how to apply them when they create new expressions.
+
+For the Vedas to serve as Sanskrit's calibrant, they must preserve enough of the language's range for later generations to recover and apply its architecture. The corpus therefore contains more than a large vocabulary. Across its four functional streams and their prose extensions, it preserves ***वर्णाः (*varṇāḥ*, sonomers), सन्धि (*sandhi*, sound junctions), विभक्तिरूपाणि (*vibhakti-rūpāṇi*, declensional forms), वचन (*vacana*, number), पुरुष (*puruṣa*, person), तिङ्-प्रत्ययाः (*tiṅ-pratyayāḥ*, personal endings), लकाराः (*lakārāḥ*, tense and mood categories), कृदन्ताः (*kṛdantāḥ*, participial forms), तुमर्थक रूपाणि (*tumarthaka rūpāṇi*, infinitive forms), उपसर्गाः (*upasargāḥ*, preverbs), समासाः (*samāsāḥ*, compounds),*** and many kinds of sentence construction.
+
+These operations remain embedded in mantras, melodies, formulas, expositions, and dialogues rather than arranged as a textbook list. The Vedas therefore function as an implicit operating manual for Sanskrit. The Vedāṅga disciplines and generations of ***वैयाकरणाः (*vaiyākaraṇāḥ*)*** make explicit what the corpus preserves in use.
+
+The calibration occurs through people and disciplines. Because reciters preserve the Vedic expressions exactly, analysts can decode the operations within them without having to guess what an earlier form contained.
+
+***शिक्षा (*śikṣā*)*** describes sound and instruction, while the ***प्रातिशाख्य (*Prātiśākhya*)*** texts document the phonetic requirements of particular Vedic corpora. ***छन्दस् (*chandas*)*** examines metrical composition. ***निरुक्त (*nirukta*)*** unfolds words through their actions and formations, and ***व्याकरणम् (*vyākaraṇam*)*** analyzes the language operations that make the expressions intelligible.
+
+Recitation, grammar, memory, analysis, and many lineages keep knowledge of the architecture widely distributed. No single authority can redefine Sanskrit merely by controlling one office, dictionary, school, or edition.
+
+Teachers can explain those operations, and students can apply them in laukika Sanskrit. A newly formed word or sentence can be checked against the same architecture without being inserted into the Veda. Scholars, teachers, and students may deepen the explanation of a passage, but no analytical office receives authority to revise the passage itself.
+
+The two domains protect Sanskrit in different ways. If each generation could rewrite the Veda, it could alter the reference and then declare its own changes correct. If speakers could use only expressions already present in the Veda, Sanskrit would become unable to describe a changing world. The *vaidika* domain keeps the reference beyond revision, while the *laukika* domain leaves composition open.
+
+Pāṇini documented an order that already operated in the Veda and in the language. His analysis makes its operations explicit. A codifier would impose a selected form on a language whose usage had been drifting. Pāṇini did something fundamentally different: he decoded an architecture that the Vedas already preserved and that Sanskrit speakers already used.
+
+Sanskrit was engineered, encoded in the Vedas, and decoded by many; Pāṇini's decoding is the finest.
+
+A later composition can still deepen understanding. A commentary may explain a difficult operation, a teaching text may demonstrate a derivation, and a new analysis may reveal a pattern that earlier explanations had left implicit. None of these additions changes the Vedic expression against which Sanskrit remains calibrated. Explanation can expand without giving a commentator authority to change the reference.
+
+
+## LF-VL-016 — Former Appendix Part 8 §8.11, conceptual opening
+
+**Source:** `as_3_08_one_architecture_two_domains.md`
+
+**Action:** Replaced by a short bridge because Chapter 16 §16.9 now owns the responsibility-not-population argument. The documented Sāyaṇa/Mādhava and Kerala cases remain in the appendix.
+
+### Original text
+
+## 8.11 One Society, Two Responsibilities
+
+The same society carries both responsibilities. A person may learn a Vedic recitational form and also speak, teach, analyze, or compose laukika Sanskrit. A household may preserve a śākhā while remembering stories associated with its ***कुलदेवता (*kuladevatā*)***. A teacher may explain a mantra, teach vyākaraṇam, and write a new commentary. The boundary applies to what may be revised, not to who may learn.
+
+The two domains therefore divide responsibilities, not people. A lineage that accepts responsibility for Vedic preservation must transmit its assigned material exactly. The same people may also use laukika Sanskrit for philosophy, medicine, mathematics, poetry, administration, drama, story, and public teaching. Knowledge and explanation can pass among these activities, but a new poem or commentary cannot become a new Vedic mantra.
+
+The exact arrangement varied across regions, households, śākhās, and ***सम्प्रदाय (*sampradāya*)*** affiliations. One household could combine Vedic recitation, observances from a ***गृह्यसूत्र (*Gṛhyasūtra*)***, memory associated with a ***कुलदेवता (*kuladevatā*)***, the teaching of ***इतिहास-पुराण (*itihāsa-purāṇa*)***, and analysis through *śikṣā, nirukta,* or *vyākaraṇam*. Another lineage could distribute those responsibilities differently.
+
+In either arrangement, knowledge could pass between the two domains without dissolving their boundary. Later teaching could explain a Vedic passage only while preserving the passage itself.
+
+
+## LF-VL-017 — Former Appendix Part 8 §8.12
+
+**Source:** `as_3_08_one_architecture_two_domains.md`
+
+**Action:** Removed because Chapter 16 §16.10 now owns the civilizational synthesis and close.
+
+### Original text
+
+## 8.12 Two Permissions, One Architecture
+
+The two domains complement each other against both enemies.
+
+Entropy acts whenever pronunciation, words, meanings, or memory slip during use and transmission. Asuric formations add deliberate pressure when they destroy teaching institutions, shame caretakers, monopolize interpretation, replace Sanskrit's categories, or remove the language from public use.
+
+The *vaidika* domain protects exact memory because reciters cannot revise the reference and no single lineage owns its transmission. The *laukika* domain keeps Sanskrit present in changing circumstances by allowing speakers to generate new expression through the same architecture. A fixed corpus by itself would preserve inherited knowledge but leave society without a language for applying that knowledge to new circumstances. An entirely revisable corpus would allow those with power to rewrite the inherited standard.
+
+The two domains meet both engineering needs. Vaidika caretakers keep the reference unchanged, so laukika speakers retain a stable basis for examining new expressions. Laukika speakers keep Sanskrit useful by applying it to the sciences, arts, arguments, institutions, and ordinary needs of a changing civilization. Distributed teaching and analysis keep both responsibilities among many lineages instead of placing them under one apex.
+
+The two domains can therefore differ without becoming successive periods. The read-only Vedic corpus and the write-enabled laukika domain operate together. One preserves each inherited expression with its sound, sequence, pitch, grammar, and teaching. The other lets speakers reuse the same language architecture in combinations that no earlier corpus could list individually.
+
+Sanskrit remains exact where the duty is exact preservation, and it remains generative wherever the world requires a new expression.
+
+
+## LF-VL-018 — Former Appendix Part 8 §8.2, shared-architecture examples
+
+**Source:** `as_3_08_one_architecture_two_domains.md`
+
+**Action:** Removed because Chapter 16 §16.1 now establishes the shared architecture with these representative passages. Appendix Part 8 now begins its second section with the technical classification.
+
+### Original text
+
+## 8.2 Shared Architecture, Designed Differences
+
+### What Both Domains Share
+
+Many Ṛgvedic passages are fully understandable to a student who has learned only *laukika* grammar. Consider these two examples:
+
+> एकं सद्विप्रा बहुधा वदन्ति ।
+>
+> *ekaṃ sad viprā bahudhā vadanti |*
+>
+> One *sat*; the wise describe it in many ways.
+
+Ṛgveda 10.90.2 offers another passage that a *laukika* student can understand:
+
+> पुरुष एवेदं सर्वं यद्भूतं यच्च भव्यम् ।
+> उतामृतत्वस्येशानो यदन्नेनातिरोहति ॥
+>
+> *puruṣa evedaṃ sarvaṃ yad bhūtaṃ yac ca bhavyam |*
+> *utāmṛtatvasyeśāno yad annenātirohati ||*
+>
+> Puruṣa is all this — what has been and what is yet to be. He is the lord of immortality and also of what grows through food.
+
+A student trained only in *laukika* grammar can read and understand both mantras. Their presence in the Ṛgveda does not require the student to treat their grammar as an earlier language or learn a second grammatical system.
+
+Because the two domains serve two distinct purposes, the differences between their designs are part of Sanskrit's engineering. A student who knows *laukika* Sanskrit can read many Vedic passages after learning a limited set of additional forms and operations. Exact recitation requires more training because the *vaidika* domain also preserves pitch, duration, contextual sounds, meter, and every word in its received position.

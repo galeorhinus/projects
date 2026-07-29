@@ -10,17 +10,17 @@ The Racial Arya Thesis survives by trapping the debate inside migration vocabula
 
 ## Placement Decision
 
-### Primary home: Chapter 17
+### Primary home: Chapter 18
 
-Add a new section to Chapter 17:
+Add a new section to Chapter 18:
 
 ```md
 ## 17.6 The Migration Trap
 ```
 
-Insert it after the pyramid's speculative chain in current §17.5 and before the honest speculation section. This is the right location because Chapter 17 already distinguishes the wrong genealogical question from the right architectural question.
+Insert it after the pyramid's speculative chain in current §18.5 and before the honest speculation section. This is the right location because Chapter 18 already distinguishes the wrong genealogical question from the right architectural question.
 
-Current Chapter 17 sequence:
+Current Chapter 18 sequence:
 
 1. Architectural test
 2. What genealogy cannot provide
@@ -30,7 +30,7 @@ Current Chapter 17 sequence:
 6. Honest speculation
 7. Pāṇini praised, architecture erased
 
-Revised Chapter 17 sequence:
+Revised Chapter 18 sequence:
 
 1. Architectural test
 2. What genealogy cannot provide
@@ -41,7 +41,7 @@ Revised Chapter 17 sequence:
 7. Honest speculation
 8. Pāṇini praised, architecture erased
 
-The new §17.6 becomes the place other chapters point to when they need to say: DNA, migration, population movement, or outward contact do not prove Sanskrit's external authorship.
+The new §18.6 becomes the place other chapters point to when they need to say: DNA, migration, population movement, or outward contact do not prove Sanskrit's external authorship.
 
 ## Section Thesis
 
@@ -91,7 +91,7 @@ Revise:
 
 ## What To Cut Or Move To Notes
 
-Cut from the main §17.6 draft:
+Cut from the main §18.6 draft:
 
 - Any long excursus on specific incoming populations unless it directly supports "movement is not authorship."
 - Any claim that foreign DNA mathematically proves refugee movement. The stronger line is different: foreign DNA proves movement, and movement admits more than the pyramid's conquest/migration reading. Refugee movement, seeker movement, student movement, trader movement, captive-release movement, and absorption into a higher civilizational field are serious counter-readings. The section should press that ambiguity hard instead of conceding the pyramid's preferred emotional frame.
@@ -114,7 +114,7 @@ Use it for a longer methodological clarification:
 
 ## Target Length
 
-Target for new Ch17 §17.6:
+Target for new Ch18 §18.6:
 
 - Minimum: 650 words
 - Ideal: 850-1,000 words
@@ -122,7 +122,7 @@ Target for new Ch17 §17.6:
 
 The current migration-trap draft is roughly 1,700-1,900 words and should be compressed by about 40-50%.
 
-## Proposed §17.6 Structure
+## Proposed §18.6 Structure
 
 ### Paragraph 1: Name the trap
 
@@ -166,50 +166,50 @@ Current Ch2 already has the right corrected direction:
 - Invasion changed into migration.
 - Race language changed into DNA / population language.
 - Sanskrit still has to arrive from outside.
-- Chapter 17 will return to the trap.
+- Chapter 18 will return to the trap.
 
 Recommended small adjustment after §2.2:
 
 ```md
-Chapter 17 names the trap directly: the issue is not movement, but authorship.
+Chapter 18 names the trap directly: the issue is not movement, but authorship.
 ```
 
-Avoid duplicating the full Ch17 argument in Ch2.
-
-## Chapter 17 Changes
-
-Add the new §17.6 and renumber the following sections:
-
-- Current §17.6 "An Honest Speculation for the Rationalist Mind" becomes §17.7.
-- Current §17.7 "Pāṇini Praised, Architecture Erased" becomes §17.8.
-
-Cross-reference cleanup required after renumbering:
-
-- Search for `Chapter 17 §17.6`, `Ch 17 §17.6`, `§17.6`.
-- Search for `Chapter 17 §17.7`, `Ch 17 §17.7`, `§17.7`.
-- Update any references to the old Pāṇini-erasure section from §17.7 to §17.8.
+Avoid duplicating the full Ch18 argument in Ch2.
 
 ## Chapter 18 Changes
 
-Chapter 18 should not restate the migration-trap argument at length. It should point back to Chapter 17 and then prosecute PIE.
+Add the new §18.6 and renumber the following sections:
+
+- Current §18.6 "An Honest Speculation for the Rationalist Mind" becomes §18.7.
+- Current §18.7 "Pāṇini Praised, Architecture Erased" becomes §18.8.
+
+Cross-reference cleanup required after renumbering:
+
+- Search for `Chapter 18 §18.6`, `Ch 18 §18.6`, `§18.6`.
+- Search for `Chapter 18 §18.7`, `Ch 18 §18.7`, `§18.7`.
+- Update any references to the old Pāṇini-erasure section from §18.7 to §18.8.
+
+## Chapter 19 Changes
+
+Chapter 19 should not restate the migration-trap argument at length. It should point back to Chapter 18 and then prosecute PIE.
 
 Recommended direction:
 
 - In the opening or early PIE setup, add one sentence:
 
 ```md
-Chapter 17 separated movement from authorship; this chapter applies the same distinction to PIE itself.
+Chapter 18 separated movement from authorship; this chapter applies the same distinction to PIE itself.
 ```
 
-- Where Ch18 discusses reconstructed ancestry, avoid repeating the full DNA / migration critique.
-- Keep Ch18 focused on PIE as a bake: imaginary ancestor, procedural reconstruction, Sanskrit containment trajectory, and the cognate-direction inversion.
+- Where Ch19 discusses reconstructed ancestry, avoid repeating the full DNA / migration critique.
+- Keep Ch19 focused on PIE as a bake: imaginary ancestor, procedural reconstruction, Sanskrit containment trajectory, and the cognate-direction inversion.
 
 ## Chapter 3 Changes
 
 Chapter 3 already has the missionary-of-progress frame. It can carry one concise cross-reference:
 
 ```md
-Chapter 17 names the migration trap: the missionaries of progress turn population movement into civilizational authorship.
+Chapter 18 names the migration trap: the missionaries of progress turn population movement into civilizational authorship.
 ```
 
 Use only if the popular-PIE paragraph risks feeling unanchored.
@@ -224,7 +224,7 @@ Chapter 1 should not explain the migration trap. It should keep the category-the
 At most, add one parenthetical pointer:
 
 ```md
-The migration version of this theft is developed in Chapter 17.
+The migration version of this theft is developed in Chapter 18.
 ```
 
 This may not be necessary.
@@ -267,7 +267,7 @@ If added later, use a simple two-column schematic:
 Potential title:
 
 ```md
-Figure 17.x — Movement Is Not Authorship
+Figure 18.x — Movement Is Not Authorship
 ```
 
 Recommendation: write the section first. Add the figure only if the prose still needs visual compression.
@@ -294,7 +294,7 @@ Avoid:
 
 ## Clean-Up Search Plan
 
-After adding §17.6:
+After adding §18.6:
 
 ```bash
 rg -n "Aryan invasion|Aryan migration|Racial Arya|RAT|migration|DNA|steppe|outside India|external author|movement|authorship" atomicSanskrit/as_1_*.md atomicSanskrit/as_2_*.md atomicSanskrit/as_3_*.md
@@ -303,35 +303,35 @@ rg -n "Aryan invasion|Aryan migration|Racial Arya|RAT|migration|DNA|steppe|outsi
 Then classify each hit:
 
 1. Keep as local setup.
-2. Compress and point to Ch17 §17.6.
+2. Compress and point to Ch18 §18.6.
 3. Move to endnote.
 4. Remove as repetition.
 
 ## Implementation Passes
 
-### Pass 1: Create Ch17 anchor
+### Pass 1: Create Ch18 anchor
 
-- Insert §17.6.
+- Insert §18.6.
 - Compress the current migration-trap draft into polished prose.
-- Renumber later Ch17 sections.
+- Renumber later Ch18 sections.
 - Add one endnote stub if needed.
 
 ### Pass 2: Cross-reference cleanup
 
-- Update references to Ch17 section numbers.
-- Add pointers from Ch2 and Ch18.
+- Update references to Ch18 section numbers.
+- Add pointers from Ch2 and Ch19.
 - Ensure Chapter 2 remains strategic, not repetitive.
 
 ### Pass 3: Repetition sweep
 
 - Search migration/RAT/DNA/steppe language across the manuscript.
-- Replace repeated explanations with pointers to Ch17 §17.6.
+- Replace repeated explanations with pointers to Ch18 §18.6.
 - Preserve only local arguments that are doing unique work.
 
 ### Pass 4: Figure alignment
 
 - Finalize Figure 2.1 so visual logic matches "receded / retooled / intact."
-- Decide whether Ch17 needs a new "Movement Is Not Authorship" figure.
+- Decide whether Ch18 needs a new "Movement Is Not Authorship" figure.
 
 ### Pass 5: Endnote support
 
@@ -340,9 +340,9 @@ Then classify each hit:
 
 ## Success Criteria
 
-- The migration argument has one clear home: Ch17 §17.6.
+- The migration argument has one clear home: Ch18 §18.6.
 - Ch2 names RAT as a pillar and points forward instead of repeating the full argument.
-- Ch18 uses the distinction but remains focused on PIE.
+- Ch19 uses the distinction but remains focused on PIE.
 - The manuscript no longer sounds as if the book is arguing "no migration happened."
 - The book's actual claim is visible:
 

@@ -97,7 +97,7 @@ Desired reader state at Part end: the reader should know why the botanical metap
 
 ### Chapter 1 -> Chapter 2
 
-Current close has several strong lines but also multiple destinations: Chapter 5, Chapter 17, and the category restoration.
+Current close has several strong lines but also multiple destinations: Chapter 5, Chapter 18, and the category restoration.
 
 Status: revise.
 
@@ -161,7 +161,7 @@ Needed hinge:
 
 ### Chapter 5 -> Chapter 6
 
-Current close points to Chapter 14 and Chapter 18:
+Current close points to Chapter 14 and Chapter 19:
 
 > Apabhramsa is what the calibrant filters from inside. The euphemism treadmill is what happens to a language without a calibrant.
 
@@ -329,7 +329,7 @@ Needed hinge:
 
 > Chapter 15 follows the matrix into its most important medium: sound preserved by disciplined hearing.
 
-### Chapter 15 -> Part VI / Chapter 16
+### Chapter 15 -> Part VI / Chapter 17
 
 Current close:
 
@@ -353,37 +353,37 @@ Needed opener: explain that the book now turns from construction and preservatio
 
 Part logic:
 
-- Chapter 16 uses the retroflex as a worked empirical test.
-- Chapter 17 shows the genealogical question itself is wrong.
-- Chapter 18 closes the case against PIE.
+- Chapter 17 uses the retroflex as a worked empirical test.
+- Chapter 18 shows the genealogical question itself is wrong.
+- Chapter 19 closes the case against PIE.
 
 Desired reader state at Part end: PIE should no longer look like a necessary ancestor; it should look like a baked containment device.
-
-### Chapter 16 -> Chapter 17
-
-Current close:
-
-> Chapter 17 takes the structural argument categorical: the genealogical project has been asking the wrong question of Sanskrit, and any precursor model framed inside the project will fail the same test for the same structural reason. Chapter 18 closes the prosecution on the specific construct PIE.
-
-Status: works, though long.
-
-Needed hinge if tightened:
-
-> The retroflex is one test. Chapter 17 asks why the entire genealogical question fails.
 
 ### Chapter 17 -> Chapter 18
 
 Current close:
 
-> Chapter 18 closes the prosecution on PIE. Chapter 19 begins the answer after PIE.
+> Chapter 18 takes the structural argument categorical: the genealogical project has been asking the wrong question of Sanskrit, and any precursor model framed inside the project will fail the same test for the same structural reason. Chapter 19 closes the prosecution on the specific construct PIE.
 
-Status: works, but Chapter 19 mention can wait.
+Status: works, though long.
+
+Needed hinge if tightened:
+
+> The retroflex is one test. Chapter 18 asks why the entire genealogical question fails.
+
+### Chapter 18 -> Chapter 19
+
+Current close:
+
+> Chapter 19 closes the prosecution on PIE. Chapter 20 begins the answer after PIE.
+
+Status: works, but Chapter 20 mention can wait.
 
 Needed hinge:
 
-> Chapter 18 closes the prosecution on PIE itself.
+> Chapter 19 closes the prosecution on PIE itself.
 
-### Chapter 18 -> Part VII / Chapter 19
+### Chapter 19 -> Part VII / Chapter 20
 
 Current close:
 
@@ -401,7 +401,7 @@ Status: rhetorically strong, but needs Part VII remedy handoff.
 
 Needed hinge:
 
-> Once the imaginary ancestor is removed, the question changes. Chapter 19 asks what life after PIE makes visible.
+> Once the imaginary ancestor is removed, the question changes. Chapter 20 asks what life after PIE makes visible.
 
 ## Part VII - Life After PIE
 
@@ -413,12 +413,12 @@ Needed opener: explain that the courtroom verdict is over. The final Part is not
 
 Part logic:
 
-- Chapter 19 names the calibrant waves and the post-PIE model.
+- Chapter 20 names the calibrant waves and the post-PIE model.
 - Epilogue exits the courtroom and restores the Indic invitation.
 
 Desired reader state at Part end: Sanskrit is no longer downstream. It is the calibrant. The reader is ready for the Epilogue's call to aryatva.
 
-### Chapter 19 -> Epilogue
+### Chapter 20 -> Epilogue
 
 Current close:
 
@@ -457,8 +457,8 @@ High priority chapter-close edits:
 1. Chapter 3 -> Part II / Chapter 4: add inward-turn hinge.
 2. Chapter 5 -> Chapter 6: add "fall / what holds" hinge.
 3. Chapter 6 -> Part III / Chapter 7: add explicit Atomic Sanskrit title payoff.
-4. Chapter 15 -> Part VI / Chapter 16: bridge from preservation proof to cross-examination.
-5. Chapter 18 -> Part VII / Chapter 19: bridge from verdict to remedy.
+4. Chapter 15 -> Part VI / Chapter 17: bridge from preservation proof to cross-examination.
+5. Chapter 19 -> Part VII / Chapter 20: bridge from verdict to remedy.
 
 Medium priority chapter-close edits:
 
@@ -466,7 +466,7 @@ Medium priority chapter-close edits:
 2. Chapter 2 -> Chapter 3: name the institution that guards the perimeter.
 3. Chapter 13 -> Chapter 14: add calibration-matrix handoff.
 4. Chapter 14 -> Chapter 15: add aural-operation handoff.
-5. Chapter 19 -> Epilogue: add verdict-to-invitation handoff.
+5. Chapter 20 -> Epilogue: add verdict-to-invitation handoff.
 
 Part opener priorities:
 

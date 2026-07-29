@@ -72,13 +72,13 @@ These can be produced after the core architecture visuals are stable.
 
 | Status | Figure | Source | Purpose | Production Note |
 |---|---|---|---|---|
-| `[ ]` | Figure 17.1 — The Architectural Test | `as_1_17_wrong_question.md` | Summarize what a valid model must explain. | Six-row table figure. |
-| `[x]` | Figure 18.1 — PIE Keeps Returning to Sanskrit | `as_1_18_pie_in_sky.md` | Show the reconstructed ancestor moving away from Sanskrit and then reloading Sanskrit-like material. | Rendered as `figures/pie_in_sky/sanskrit_containment_trajectory.svg`. |
-| `[ ]` | Figure 18.2 — PIE vs Vivimorphosis Chains | `as_1_18_pie_in_sky.md` | Contrast standard PIE reconstructions with book's vivimorphosis chains. | Side-by-side chain diagram. |
-| `[ ]` | Figure 18.3 — One Sanskrit *Dhātuḥ*, Multiple PIE Roots | `as_1_18_pie_in_sky.md` | Show *dṛś* unity vs PIE splitting. | Split-table or branching diagram. |
-| `[ ]` | Figure 19.1 — Mitanni Sanskritic Layer | `as_1_19_life_after_pie.md` | Make treaty / horse-training / throne-name evidence scannable. | Evidence table figure. |
-| `[ ]` | Figure 19.2 — Wave 2 Methodological Metatypy | `as_1_19_life_after_pie.md` | Summarize transmission cases. | Table figure. |
-| `[ ]` | Figure 19.3 — Calibrant Waves and Diasporic Wave | `as_1_19_life_after_pie.md` | Show Wave 1 / Wave 2 / Wave 3 / Diasporic Wave. | Timeline/layer diagram. |
+| `[ ]` | Figure 18.1 — The Architectural Test | `as_1_18_wrong_question.md` | Summarize what a valid model must explain. | Six-row table figure. |
+| `[x]` | Figure 19.1 — PIE Keeps Returning to Sanskrit | `as_1_19_pie_in_sky.md` | Show the reconstructed ancestor moving away from Sanskrit and then reloading Sanskrit-like material. | Rendered as `figures/pie_in_sky/sanskrit_containment_trajectory.svg`. |
+| `[ ]` | Figure 19.2 — PIE vs Vivimorphosis Chains | `as_1_19_pie_in_sky.md` | Contrast standard PIE reconstructions with book's vivimorphosis chains. | Side-by-side chain diagram. |
+| `[ ]` | Figure 19.3 — One Sanskrit *Dhātuḥ*, Multiple PIE Roots | `as_1_19_pie_in_sky.md` | Show *dṛś* unity vs PIE splitting. | Split-table or branching diagram. |
+| `[ ]` | Figure 20.1 — Mitanni Sanskritic Layer | `as_1_20_life_after_pie.md` | Make treaty / horse-training / throne-name evidence scannable. | Evidence table figure. |
+| `[ ]` | Figure 20.2 — Wave 2 Methodological Metatypy | `as_1_20_life_after_pie.md` | Summarize transmission cases. | Table figure. |
+| `[ ]` | Figure 20.3 — Calibrant Waves and Diasporic Wave | `as_1_20_life_after_pie.md` | Show Wave 1 / Wave 2 / Wave 3 / Diasporic Wave. | Timeline/layer diagram. |
 | `[ ]` | Figure A.4 — Photography and Audiography | `as_3_03_audiography.md` | Parallel engineered capture of light and sound. | Two-column analogy diagram. |
 | `[x]` | Figure A.5 — Sound, Script, Standard | `as_3_03_audiography.md` | Place Sanskrit, Arabic, and Korean on one place-and-manner matrix. | Rendered as `figures/audiography/sound_script_standard_matrix.svg`; Sanskrit hexagons, Arabic circles, Korean squares. |
 | `[x]` | Figure A.6 — Sanskrit Extracted: The Sonomer Grid | `as_3_03_audiography.md` | Show Sanskrit as engineered sound-grid. | Rendered as `figures/audiography/sanskrit_extracted_sonomer_grid.svg`; reused from Figure 9.3. |

@@ -96,7 +96,7 @@ The methodological best was the bake.
 
 The recipe leaves residue. The residue sits in the ecosystem's own reference pages.
 
-Sanskrit provides unified semantic atoms and documents the relationships among their sound-forms. PIE reconstruction begins with recorded words in several languages, reconstructs a starred form from their correspondences, and places that form above the Sanskrit atom. Chapter 18 §18.7 introduces a different direction through the yoke family: begin with the Sanskrit atom and its generated molecules, then trace the forms that appear in receiving languages. The first three cases below develop that method. The remaining cases show the reconstruction splitting semantic fields that Sanskrit keeps together.
+Sanskrit provides unified semantic atoms and documents the relationships among their sound-forms. PIE reconstruction begins with recorded words in several languages, reconstructs a starred form from their correspondences, and places that form above the Sanskrit atom. Chapter 19 §19.7 introduces a different direction through the yoke family: begin with the Sanskrit atom and its generated molecules, then trace the forms that appear in receiving languages. The first three cases below develop that method. The remaining cases show the reconstruction splitting semantic fields that Sanskrit keeps together.
 
 ### The Reusable Research Record
 
@@ -166,7 +166,7 @@ The *Dhātupāṭha* records both generation and coming into birth under ⟪ज�
 | Germanic / English | ***kin, kind, king*** | **किन्, काइन्ड्, किङ्** | family, kind, ruler of a people |
 | Sanskrit | **जन, जनक, जन्मन्, जाति** | original Devanagari | person, parent, birth, kind |
 
-Chapter 18 traces the dictionary history through which the real Sanskrit atom moved beneath the star. The ⟪युज्⟫ case supplies the relevant sound path: **ज → ग → क**. The ⟪जन्⟫ family then displays the scale of the consequence, because one Sanskrit atom remains recognizable beneath a large Greek, Latin, and Germanic canopy.
+Chapter 19 traces the dictionary history through which the real Sanskrit atom moved beneath the star. The ⟪युज्⟫ case supplies the relevant sound path: **ज → ग → क**. The ⟪जन्⟫ family then displays the scale of the consequence, because one Sanskrit atom remains recognizable beneath a large Greek, Latin, and Germanic canopy.
 
 ### Case 4 — ⟪भा⟫ (*bhā*) dhātu, to shine; to appear; to speak
 
@@ -243,7 +243,7 @@ The architecture of containment Chapter 3 §3.5 develops operates here at the mo
 
 The *dhātu* cluster evidence of §1.5 forms the operation's empirical residue. Recipe after recipe sits on the ecosystem's own reference pages: the yoke family reconstructs an ancestor above Vedic **yuj / yug / yuk**; the *bher-* family places a star above the Vedic **bibharti** and its labial architecture; \**ǵenh₁-* displaces **⟪जन्⟫**; the numbered \**bha-* (1) and \**bha-* (2) divide **⟪भा⟫**; the baby-talk apology separates *mātṛ* from **⟪मा⟫**; the references disagree over the descendants of **⟪गम्⟫**; and the *ped-* / *pol-* split divides what **⟪पद्⟫** unifies. The *dhātavaḥ* represent the engineering on the ground, while the recipes constitute the bake on the page.
 
-Four lines close the appendix in parallel with Chapter 18:
+Four lines close the appendix in parallel with Chapter 19:
 
 The *dhātavaḥ* are engineered. The recipes are baked.
 

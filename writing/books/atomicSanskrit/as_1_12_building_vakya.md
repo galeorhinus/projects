@@ -257,7 +257,7 @@ Using both terms keeps both consequences visible. Sanskrit can still measure the
 
 The sequence is therefore **atom → molecule → seed → organic form**. Patañjali uses **अपशब्द (*apaśabda*)** in the *Mahābhāṣya* (1.1.1) for the slipped form opposed to *śabda*. The distinction is architectural: Sanskrit continues to preserve and generate the specified *śabda*, while the receiving language develops the *apaśabda* under its own pressures.
 
-Chapter 18 §18.7 develops the worked cases: **⟪दिव्⟫ (*div*) → देवः (*devaḥ*) → Latin *deus***; **असुरः (*asuraḥ*) → Avestan *ahura***; and **सिन्धुः (*Sindhuḥ*) → Old Persian *Hinduš* → Greek *Indós* → Latin *Indus***. Each sequence begins with a form whose Sanskrit construction remains recoverable and continues with forms that acquire their own histories inside other languages.
+Chapter 19 §19.7 develops the worked cases: **⟪दिव्⟫ (*div*) → देवः (*devaḥ*) → Latin *deus***; **असुरः (*asuraḥ*) → Avestan *ahura***; and **सिन्धुः (*Sindhuḥ*) → Old Persian *Hinduš* → Greek *Indós* → Latin *Indus***. Each sequence begins with a form whose Sanskrit construction remains recoverable and continues with forms that acquire their own histories inside other languages.
 
 ### The Four Classifications in Operation
 
@@ -274,7 +274,7 @@ These rows classify linguistic states. A form can move from one classification t
 
 A constructed project can reach botanical behavior by another route when its speakers enlarge and change the language through communal use, as Esperanto did. **Vivimorphosis** differs from all of these because Sanskrit itself does not move into another quadrant. A particular Sanskrit *śabda* crosses into a natural language, becomes a *bīja*, and takes organic form there while the calibrated Sanskrit molecule remains available in Sanskrit.
 
-Vivimorphosis also explains how Sanskrit's radiance enriches other languages. Speakers can absorb a Sanskrit atom, molecule, compound, technical term, or conceptual category, then use that seed to produce forms that fit their own mouth and grammar. Greek and Latin provide the extended cases in Chapter 18, and Chapter 19 follows the later waves that carried Sanskrit's radiance into other linguistic worlds. The receiving languages remain themselves, yet the seed expands what their speakers can say.
+Vivimorphosis also explains how Sanskrit's radiance enriches other languages. Speakers can absorb a Sanskrit atom, molecule, compound, technical term, or conceptual category, then use that seed to produce forms that fit their own mouth and grammar. Greek and Latin provide the extended cases in Chapter 19, and Chapter 20 follows the later waves that carried Sanskrit's radiance into other linguistic worlds. The receiving languages remain themselves, yet the seed expands what their speakers can say.
 
 **The pressures of language explain the similarities. They cannot explain the architecture.**
 

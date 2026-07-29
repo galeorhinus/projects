@@ -1,4 +1,4 @@
-# Chapter 19 — Life After PIE
+# Chapter 20 — Life After PIE
 
 With the imaginary ancestor removed, the field brightens.
 
@@ -6,11 +6,11 @@ Sanskrit’s radiance moved outward in waves. Wherever that radiance reached, sp
 
 Wave 1 radiated Sanskritic structure outward before Pāṇini, through Vedic-trained experts. Wave 2 radiated the science of grammar outward after Pāṇini, through methodological imitation. The Diasporic Wave bore Indic substrate outward through communities rather than experts. Wave 3 is contemporary: the Sun seen again, the architecture restated, and the radiance taken up by those who have relearned enough to bear it truthfully.
 
-Where the pyramid imagines populations carrying a mutating ancestor, the Radiance Thesis follows experts and communities carrying Sanskritic structure, method, and vocabulary. Chapter 18 ended with six receiving-language canopies grown from compact Sanskrit atoms. This chapter follows the carriers whose work allowed such trees to grow where Sanskrit’s light landed.
+Where the pyramid imagines populations carrying a mutating ancestor, the Radiance Thesis follows experts and communities carrying Sanskritic structure, method, and vocabulary. Chapter 19 ended with six receiving-language canopies grown from compact Sanskrit atoms. This chapter follows the carriers whose work allowed such trees to grow where Sanskrit’s light landed.
 
 Life after PIE begins by explaining Sanskrit through its own architecture rather than through an invented ancestor.
 
-## 19.1 Wave 1 — Radiance Before Pāṇini
+## 20.1 Wave 1 — Radiance Before Pāṇini
 
 The first question after PIE is: what did Sanskrit do once it existed?
 
@@ -28,7 +28,7 @@ Other lineage memories point in different directions. The continuum associates *
 
 The hardest empirical anchor sits in a Hittite-Mitanni treaty — the pact between Suppiluliuma I and Shattiwaza, preserved in the Bogazköy archive. It invokes *Mitra*, *Varuṇa*, *Indra*, and *Nāsatya* (the Aśvins) as treaty-witness deities — four Vedic devas cited explicitly in a non-Indic diplomatic document, in Sanskritic form. The Kikkuli horse-training treatise, a 184-day, 1080-line manual on four cuneiform tablets, uses Sanskritic numerical terms: *aika* (a receiving-language rendering of Sanskrit **एक (*eka*)**, one), *tera* (*tri*, three), *panza* (*pañca*, five), *satta* (*sapta*, seven), *na* (*nava*, nine), and *vartana* (turn). Sanskrit's own analytical continuum derives *eka* from the atom ⟪इ⟫ — **इण् गतौ (*iṇ gatau*)** — with the Uṇādi affix **कन् (*kan*)**. The final *n* is an instructional marker and disappears, leaving *ka*, while *guṇa* changes **इ (*i*)** to **ए (*e*)**. The result is *eka*. The tablet therefore dates the receiving record, not the Sanskrit formation. Its *aika* shows how another language rendered a Sanskrit molecule after Sanskrit's radiance reached northern Mesopotamia. Mitanni rulers bore Sanskritic throne names: Tushratta = *Tveṣaratha*; Shattiwaza = *Sātivāja*; Indaruda = *Indrota*; Artashumara = *Artasmara*. Mitanni warriors were called *marya* — the Sanskrit term for "(young) warrior."[NOTE: mitanni-sanskritic-evidence]
 
-[FIGURE 19.1: The Mitanni Sanskritic Layer — treaty deities (Mitra / Varuṇa / Indra / Nāsatya), Kikkuli numerical terms (*aika* / *tera* / *panza* / *satta* / *na* / *vartana*), Mitanni throne names (Tushratta / Shattiwaza / Indaruda / Artashumara), and the *marya* warrior term, with the Sanskrit form and its receiving-language rendering alongside each.]
+[FIGURE 20.1: The Mitanni Sanskritic Layer — treaty deities (Mitra / Varuṇa / Indra / Nāsatya), Kikkuli numerical terms (*aika* / *tera* / *panza* / *satta* / *na* / *vartana*), Mitanni throne names (Tushratta / Shattiwaza / Indaruda / Artashumara), and the *marya* warrior term, with the Sanskrit form and its receiving-language rendering alongside each.]
 
 The Mitanni Sanskritic layer is widely accepted in the philological literature as evidence of Sanskritic linguistic transmission to northern Mesopotamia. For the Wave 1 account, the evidence provides structural confirmation: pre-Pāṇinian Vedic infrastructure reached non-Indic linguistic-cultural areas through Vedic-trained experts who served the Mitanni court. The Saptaṛṣi lineage supplies the structural roster; the Mitanni record supplies the empirical floor. Mitanni becomes a radiance-mark: Sanskritic light visible in treaty, horse-training, names, numbers, and warrior vocabulary.
 
@@ -40,7 +40,7 @@ The Wave 1 hypothesis is calibrated. Old Persian shows the natural trajectory of
 
 What PIE reconstructed was not Sanskrit's ancestor. It was Sanskrit's *Pratibimba*.
 
-## 19.2 Wave 2 — Radiance as Method
+## 20.2 Wave 2 — Radiance as Method
 
 Wave 1 transmitted Sanskritic structure through trained experts. Once Pāṇini had made the analytical architecture portable, Wave 2 could transmit the method itself.
 
@@ -92,7 +92,7 @@ Later Tibetan and Indian translation teams compiled the **महाव्यु�
 
 **Arabic** — proposed transmission through the Basran intellectual field, 8th c. CE. Sibawayh's *Al-Kitāb* became foundational to Arabic grammatical science.[NOTE: sibawayh-al-kitab] Sibawayh worked in the early Abbasid Basran milieu while translation programs carried Indic mathematical, medical, and philosophical knowledge into Arabic. *Al-Kitāb* also shares several analytical features with Pāṇinian methodology: formal abbreviation, substitution-based analysis, and coordinated treatment of sound and form. The convergence of contact, timing, and method makes transmission a strong proposal, even though no surviving document records a direct lesson.
 
-[FIGURE 19.2: The Wave 2 Catalog of Methodological Metatypy — six rows (Greek / Latin / Tibetan / Arabic / Hebrew / Chinese-selective-reception); four columns (case type: direct / transitive / selective; approximate date; receiving-lineage text(s); transmission character).]
+[FIGURE 20.2: The Wave 2 Catalog of Methodological Metatypy — six rows (Greek / Latin / Tibetan / Arabic / Hebrew / Chinese-selective-reception); four columns (case type: direct / transitive / selective; approximate date; receiving-lineage text(s); transmission character).]
 
 The routes differ in evidentiary strength, yet their direction is coherent. Tibetan preserves a teaching journey. Chinese and Japanese preserve Sanskritic sound-analysis adapted to local needs. Latin and Hebrew preserve known intermediaries. Greek and Arabic preserve contact environments and analytical resemblance strong enough to support a transmission proposal.
 
@@ -104,7 +104,7 @@ The East Asian Buddhist pathways form one part of a wider Sanskritic map. Across
 
 The receiving languages made these words their own and continued to grow. The same process placed Sanskritic vocabulary throughout Malay, Indonesian, Thai, Khmer, and Burmese in political thought, learning, cosmology, literature, and daily speech. Several routes produced that map, so this chapter uses *Sanskritic* for the wider field and reserves direct Sanskrit descent for cases that support it. Teachers and communities shared words and methods; the recipients converted that radiance into local growth and remained themselves.
 
-## 19.3 The Diasporic Embers
+## 20.3 The Diasporic Embers
 
 The calibrant waves do not exhaust the ways Indic civilization moved through the world. Another wave has operated by a different mechanism: not expert transmission of architecture, but community transmission of lived substrate.
 
@@ -137,7 +137,7 @@ You cannot extend what you do not have.
 
 The closing Rigvedic call — **कृण्वन्तो विश्वमार्यम् (*kṛṇvanto viśvam āryam*)**, *making the world ārya* — is conditional on the speaker being *ārya*. The Epilogue gives the full exhortation.
 
-## 19.4 Wave 3 — Carrying the Sun Again
+## 20.4 Wave 3 — Carrying the Sun Again
 
 The calibrant architecture has three deployments.[NOTE: three-deployments-framework]
 
@@ -154,7 +154,7 @@ Wave 3 takes four recognitions into global discourse:
 
 The epilogue turns that responsibility into an invitation.
 
-[FIGURE 19.3: The Calibrant Waves and the Diasporic Wave — Wave 1 as pre-Pāṇinian corpus-form transmission (Saptaṛṣi roster + Mitanni anchor); Wave 2 as post-Pāṇinian methodological transmission (Greek / Latin / Tibetan / Arabic / Hebrew / Chinese-selective-reception, alongside Buddhist lexical and phonological transmission across Asia); Wave 3 as contemporary restatement (the engineered Sanskrit thesis); Diasporic Wave as demographic carrier of lived Indic substrate (Romani + four arcs of modern diaspora); Wave 3 conditional on diasporic relearning.]
+[FIGURE 20.3: The Calibrant Waves and the Diasporic Wave — Wave 1 as pre-Pāṇinian corpus-form transmission (Saptaṛṣi roster + Mitanni anchor); Wave 2 as post-Pāṇinian methodological transmission (Greek / Latin / Tibetan / Arabic / Hebrew / Chinese-selective-reception, alongside Buddhist lexical and phonological transmission across Asia); Wave 3 as contemporary restatement (the engineered Sanskrit thesis); Diasporic Wave as demographic carrier of lived Indic substrate (Romani + four arcs of modern diaspora); Wave 3 conditional on diasporic relearning.]
 
 Serving strictly as an imaginary ancestor, PIE obscured the actual evidence. Removing this construct reveals not a descendant waiting for a parent, but the architecture itself, deployed across three distinct stages: first as the Vedic corpus, second as Pāṇini's portable decoding, and third as a contemporary restatement.
 

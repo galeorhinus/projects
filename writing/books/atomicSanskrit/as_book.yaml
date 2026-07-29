@@ -150,28 +150,31 @@ assembly:
   - kind: chapter
     file: as_1_15_aural.md
     title: "Chapter 15 — Aural Architecture"
+  - kind: chapter
+    file: as_1_16_one_architecture_two_domains.md
+    title: "Chapter 16 — One Architecture, Two Domains"
 
   - kind: part
     file: as_part_06_killing_pie.md
     title: "Part VI — Dispelling Rāhu"
     subtitle: Not descended, not sibling.
   - kind: chapter
-    file: as_1_16_retroflex.md
-    title: "Chapter 16 — The Subcontinental Mouth and Mind"
+    file: as_1_17_retroflex.md
+    title: "Chapter 17 — The Subcontinental Mouth and Mind"
   - kind: chapter
-    file: as_1_17_wrong_question.md
-    title: "Chapter 17 — The Wrong Question"
+    file: as_1_18_wrong_question.md
+    title: "Chapter 18 — The Wrong Question"
   - kind: chapter
-    file: as_1_18_pie_in_sky.md
-    title: "Chapter 18 — PIE in the Sky"
+    file: as_1_19_pie_in_sky.md
+    title: "Chapter 19 — PIE in the Sky"
 
   - kind: part
     file: as_part_07_life_after_pie.md
     title: "Part VII — Life After PIE"
     subtitle: Light after the eclipse.
   - kind: chapter
-    file: as_1_19_life_after_pie.md
-    title: "Chapter 19 — Life After PIE"
+    file: as_1_20_life_after_pie.md
+    title: "Chapter 20 — Life After PIE"
 
   - kind: end
     file: as_2_01_epilogue.md
@@ -202,7 +205,7 @@ assembly:
     title: "Appendix Part 7 — The Vedic Carrier"
   - kind: end
     file: as_3_08_one_architecture_two_domains.md
-    title: "Appendix Part 8 — One Architecture, Two Domains"
+    title: "Appendix Part 8 — Designed Variations Across the Two Domains"
   - kind: end
     file: as_3_09_codification_story.md
     title: "Appendix Part 9 — The Codification Story, Refuted"

@@ -28,7 +28,7 @@ The body of the book keeps **calibrant contact** — transparent, and deliberate
 
 > *You gave us* metatypy. *Allow us to return the favour:* **calibrotypy** — *the metatypy that happens when the model language was engineered to be the measure. Same suffix. The slot you left blank.*
 
-Deploy it as the recurring wink, sparingly; let **calibrant contact**, **Pratibimba**, and **vivimorphosis** carry the substance. The humour is the Trojan horse — the reader laughs, then keeps the inversion. (Article/essay only; the book's body stays on *calibrant contact* so the Ch 18 "category of one" argument isn't softened into a mere metatypy-variant.)
+Deploy it as the recurring wink, sparingly; let **calibrant contact**, **Pratibimba**, and **vivimorphosis** carry the substance. The humour is the Trojan horse — the reader laughs, then keeps the inversion. (Article/essay only; the book's body stays on *calibrant contact* so the Ch 19 "category of one" argument isn't softened into a mere metatypy-variant.)
 
 ---
 
@@ -75,14 +75,14 @@ The longform earns the vocabulary the newspaper version compresses, and adds the
 ## Vocabulary to deploy (book-canonical)
 
 - **calibrant** (the engineered source = Sanskrit) · **calibrant contact** (the process; the *metatypy* alternative) · **Pratibimba** (प्रतिबिम्ब, the reflection each calibrand carries) · **vivimorphosis** (*śabda → bīja → apaśabda*) · **calibrand** (the calibrated language; the set replacing *"Indo-European"* / *"Indo-Iranian"*) · **Wave 1 / Wave 2** ṛṣis · **devabhāṣā** (the radiative source; "carried light outward").
-- **calibrotypy** *(article/essay only — not used in the book's body)* — metatypy's engineered-model sibling; the witty public face of **calibrant contact**, deployed to slap the discipline with its own *-typy* morphology, with humour. The body stays on *calibrant contact* so Ch 18's "category of one" stands.
+- **calibrotypy** *(article/essay only — not used in the book's body)* — metatypy's engineered-model sibling; the witty public face of **calibrant contact**, deployed to slap the discipline with its own *-typy* morphology, with humour. The body stays on *calibrant contact* so Ch 19's "category of one" stands.
 - Convention guards: scare-quote *"Indo-European"* / *"Indo-Iranian"* as the pyramid's family labels; *Indo-Iranian* unquoted only for the geographic contact zone. Never "Indo-Aryan" unquoted. Keep *ṛṣi / ṛṣikā* where the seers appear as a collective.
 
 ## Book sources
 
-- Ch 18 §18.6 (calibrant / calibrant contact / Pratibimba triad; *mother* & *deva* chains), §18.7 (*asura → ahura*), §18.8 (the triad lock; "average of the Pratibimbas").
+- Ch 19 §19.6 (calibrant / calibrant contact / Pratibimba triad; *mother* & *deva* chains), §19.7 (*asura → ahura*), §19.8 (the triad lock; "average of the Pratibimbas").
 - Ch 12 §12.5 (vivimorphosis three-stage mechanism).
-- Ch 19 §19.1 (Wave 1 — Saptaṛṣi, Mitanni), §19.2 (Wave 2 — methodological metatypy, six-case catalog).
+- Ch 20 §20.1 (Wave 1 — Saptaṛṣi, Mitanni), §20.2 (Wave 2 — methodological metatypy, six-case catalog).
 - Ch 5 §5.6 / Ch 6 (calibrant; the third category).
 - Glossary: *calibrant*, **calibrand** (new), *Pratibimba*, *devabhāṣā*.
 

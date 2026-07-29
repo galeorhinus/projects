@@ -42,14 +42,15 @@ The book runs on an eclipse. Sanskrit is the Sun (Sūrya); the Western philologi
 - **Chapter 13 — Why Preservation Needs Engineering.** Anti-entropy as the engineering problem; *aural*, not *oral*.
 - **Chapter 14 — The Calibration Matrix.** Six engineered preservation layers; the Vedas as encoded perfection, not datable literature.
 - **Chapter 15 — Aural Architecture.** The recitation lineages: the engineering running today, without observable drift.
+- **Chapter 16 — One Architecture, Two Domains.** The read-only *vaidika* domain and read-write *laukika* domain meet preservation and continuing use through one Sanskrit architecture.
 
 ### Part VI — Dispelling Rāhu (*not descended, not sibling*)
-- **Chapter 16 — The Subcontinental Mouth and Mind.** The curled tongue, doubled sound, receiver grammar, doer-demotion, and folded action as one subcontinental field.
-- **Chapter 17 — The Wrong Question.** Genealogy asks the wrong question; movement is not authorship.
-- **Chapter 18 — PIE in the Sky.** PIE is the average of the reflections, mistaken for a source.
+- **Chapter 17 — The Subcontinental Mouth and Mind.** The curled tongue, doubled sound, receiver grammar, doer-demotion, and folded action as one subcontinental field.
+- **Chapter 18 — The Wrong Question.** Genealogy asks the wrong question; movement is not authorship.
+- **Chapter 19 — PIE in the Sky.** PIE is the average of the reflections, mistaken for a source.
 
 ### Part VII — Life After PIE (*light after the eclipse*)
-- **Chapter 19 — Life After PIE.** The waves of Sanskrit's calibrant operation across the world; Wave 3 and the reader.
+- **Chapter 20 — Life After PIE.** The waves of Sanskrit's calibrant operation across the world; Wave 3 and the reader.
 
 ### Epilogue — Make the World Ārya
 The eclipse is over: Svarbhānu's darkness did not win; the Atris found the Sun. Not punishment but karma; the residual shadows — institutional custody, public-knowledge lag, civilizational self-doubt — named as the work of the next generation of caretakers; the reader carries the cry.

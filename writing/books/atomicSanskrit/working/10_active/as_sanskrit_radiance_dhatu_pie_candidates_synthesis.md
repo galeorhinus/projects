@@ -1,6 +1,6 @@
 # Sanskrit Radiance — Dhātu-to-PIE Candidate Synthesis
 
-**Status:** Approved ranking deployed across Chapter 18 §18.7, Appendix Part 1 §1.5, and the Sanskrit Radiance Mapping Project proposal; **Claude integrated 2026-07-24** (top-three unchanged — no factual failure found; Claude's verified sūtras corroborate the yuj engine)
+**Status:** Approved ranking deployed across Chapter 19 §19.7, Appendix Part 1 §1.5, and the Sanskrit Radiance Mapping Project proposal; **Claude integrated 2026-07-24** (top-three unchanged — no factual failure found; Claude's verified sūtras corroborate the yuj engine)
 **Inputs:** Codex complete; Gemini complete; **Claude complete** (`as_sanskrit_radiance_dhatu_pie_candidates_claude.md`, deep-research pass wf_2bb6257f)
 **Evidence base:** `as_sanskrit_radiance_three_finalists_source_dossier.md`
 
@@ -41,9 +41,9 @@ The author approved this ranking on 23 July 2026.
 5. **Grassmann's law is not the frame for Pāṇini 8.4.53.** The Sanskrit rule should be stated through its own operation and examples.
 6. **No case requires “zero theoretical leaps.”** Every proposed cross-language direction remains a hypothesis until repeated families and transmission evidence establish the pattern.
 
-## Chapter 18 Deployment
+## Chapter 19 Deployment
 
-Chapter 18 §18.7 now introduces the method through one compact **⟪युज्⟫ / yoke** demonstration.
+Chapter 19 §19.7 now introduces the method through one compact **⟪युज्⟫ / yoke** demonstration.
 
 1. It begins with PIE **\*yeug- / \*yug-**.
 2. It places Greek *zygon*, Latin *iugum*, Gothic *juk*, and English *yoke* beside the Sanskrit family.
@@ -68,9 +68,9 @@ The wider candidate table remains in the working reports until each row has exac
 
 ## Epilogue Deployment
 
-The university protocol should point to the new Chapter 18 demonstration:
+The university protocol should point to the new Chapter 19 demonstration:
 
-> Chapter 18 §18.7 introduces the method with ⟪युज्⟫. Appendix Part 1 tests a second physical route with ⟪भृ⟫ and returns to the larger ⟪जन्⟫ family. Indian universities can now repeat the exercise across the reconstructed PIE inventory.
+> Chapter 19 §19.7 introduces the method with ⟪युज्⟫. Appendix Part 1 tests a second physical route with ⟪भृ⟫ and returns to the larger ⟪जन्⟫ family. Indian universities can now repeat the exercise across the reconstructed PIE inventory.
 
 The program receives a name:
 
@@ -81,7 +81,7 @@ The program receives a name:
 
 The retired **⟪अस्⟫ / ⟪भू⟫** body case has been preserved in `working/40_reference/source_material/as_bhu_being_becoming_case_lost_and_found.md`, including:
 
-- the full former Chapter 18 §18.9 text,
+- the full former Chapter 19 §19.9 text,
 - the former Appendix Part 1 §1.5 Case 1,
 - the former epilogue pointer,
 - the endnote `as-bhu-being-paradigm`, and
@@ -102,7 +102,7 @@ Claude's deep-research pass (104 agents, 25 claims adversarially verified) is fo
 
 **Source-grade backing Claude supplies for the deployed text:** 8.2.30 चोः कुः and 8.4.55 खरि च verified verbatim (GRETIL Aṣṭādhyāyī / Kāśikā), with worked examples भज्→भक्त (velar row) and लभ्→लप्स्यति (labial); *bʰer-*, *ǵenh₁-*, *steh₂-* confirmed (Wiktionary — spot-check vs Pokorny/LIV/de Vaan/Beekes before print). **Cite the worked examples, not the abstract "devoicing-and-deaspiration" gloss of 8.4.55** (that abstract formulation verified only 1-2). Full ledger in the Claude report.
 
-**Live-text check completed 2026-07-24 and updated after the §18.9 relocation.** Chapter 18 §18.7, Appendix Part 1, the project proposal, and endnote `yuj-bhr-radiance-method` now make both boundaries explicit:
+**Live-text check completed 2026-07-24 and updated after the §19.9 relocation.** Chapter 19 §19.7, Appendix Part 1, the project proposal, and endnote `yuj-bhr-radiance-method` now make both boundaries explicit:
 
 1. Hemacandra's Prakrit evidence records aspirated stops moving toward **h**. It is presented as a different natural outcome and does not serve as a rule for Greek **ph**, Latin **f**, or Germanic **b**.
 2. The lineage's fivefold *vyutpatti* method belongs to Sanskrit word-analysis. The Sanskrit Radiance Mapping Project openly extends its categories to receiving languages and requires repeated families and plausible contact routes to establish historical direction.

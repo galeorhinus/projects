@@ -297,7 +297,7 @@ The relevant question is not whether Sanskrit is broadly spoken in the market. T
 
 The issue is not whether scholars may compare languages. Of course they may. The issue is what happens after comparison. In the standard story, comparison produces a hypothetical ancestor, the hypothetical ancestor becomes historically prior, and Sanskrit is made to descend from a language no one has ever seen. That is not evidence becoming history. That is reconstruction becoming authority.
 
-**Atomic Sanskrit tie-in:** Chapters 17 and 18 prosecute the PIE story after the architecture has already been built before the reader.
+**Atomic Sanskrit tie-in:** Chapters 18 and 18 prosecute the PIE story after the architecture has already been built before the reader.
 
 **Closing hammer:** PIE is not the evidence. Sanskrit is the evidence.
 
@@ -351,7 +351,7 @@ Pāṇini does not say: the language used to be Vedic and has now become Classic
 
 Race cannot be made. If *ārya* were race, the Rigvedic call would be incoherent. But discipline can be cultivated. Speech can be trained. Conduct can be refined. A person can become *ārya* by work. That is the aspiration the modern world was trained to misread.
 
-**Atomic Sanskrit tie-in:** Draw from Chapter 16 and the Epilogue.
+**Atomic Sanskrit tie-in:** Draw from Chapter 17 and the Epilogue.
 
 **Closing hammer:** Do not claim *āryatva*. Become worthy of it.
 

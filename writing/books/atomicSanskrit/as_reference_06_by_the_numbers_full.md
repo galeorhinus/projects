@@ -215,7 +215,7 @@ The compounding signal. *Mūrdhanya* shows up three times in the appendix as the
 2. **Uniquely dual-role** (this section): 32.6% inner activity vs 10.6–15.4% elsewhere. Retroflex also does cluster-joining work.
 3. **Cross-inventory coupling** (§6.6): *ṛ* as nuclear vowel at the *mūrdhanya* site and *ra* as the universal cluster-joiner at the same site — the *svara* and *vyañjana* inventories bridged at one articulatory location.
 
-Three independent measurements pointing at the same conclusion: the *mūrdhanya* class does more architectural work than any other place. None of these is in the pyramid's account of retroflex as a marked, marginal, areal feature. Ch 10 §10.13 states the chapter-prose version; Ch 16 §16.1 develops the retroflex-as-architecturally-central polemic on this foundation.
+Three independent measurements pointing at the same conclusion: the *mūrdhanya* class does more architectural work than any other place. None of these is in the pyramid's account of retroflex as a marked, marginal, areal feature. Ch 10 §10.13 states the chapter-prose version; Ch 17 §17.1 develops the retroflex-as-architecturally-central polemic on this foundation.
 
 ## 6.6 The *Ṛ* Signal and the *Ṛ* / *Ra* Bridge
 
@@ -261,7 +261,7 @@ The *mūrdhanya* site therefore combines:
 
 Three coupled loadings at one articulatory location. The architecture is not distributing structural weight evenly across places. The tongue-curl site bears disproportionate load by design.
 
-Ch 10 §10.13 develops the bridge as a fractal-behavior claim at the *varṇamālā* level. Ch 16 §16.1 takes the retroflex-as-architecturally-central polemic forward.
+Ch 10 §10.13 develops the bridge as a fractal-behavior claim at the *varṇamālā* level. Ch 17 §17.1 takes the retroflex-as-architecturally-central polemic forward.
 
 ---
 
@@ -696,7 +696,7 @@ The architecture is visible. The numbers are reproducible.
 
 **Cross-references:**
 
-Backward — Chapter 10 §10.6 (particle and *akṣara* compression); §10.7 (scaffold concentration and *vaicitrya*); §10.8 (scaffold distinguishability); §10.10 (scaffold deployment in *prayoga*); §10.13 (cluster-joiner specialist class, *mūrdhanya* dual-role, *ṛ*/*ra* bridge as chapter prose). Chapter 11 §§11.6–11.9 (the *prayoga* polemic; reactivity tiers; cross-corpus invariance). Chapter 16 §16.1 (retroflex-as-architecturally-central polemic built on App 5 §§6.3, 5.5, 5.6).
+Backward — Chapter 10 §10.6 (particle and *akṣara* compression); §10.7 (scaffold concentration and *vaicitrya*); §10.8 (scaffold distinguishability); §10.10 (scaffold deployment in *prayoga*); §10.13 (cluster-joiner specialist class, *mūrdhanya* dual-role, *ṛ*/*ra* bridge as chapter prose). Chapter 11 §§11.6–11.9 (the *prayoga* polemic; reactivity tiers; cross-corpus invariance). Chapter 17 §17.1 (retroflex-as-architecturally-central polemic built on App 5 §§6.3, 5.5, 5.6).
 
 Forward — Path B *śāstra* audit deferred to future research; Path C extension to additional sub-corpora (the broader DCS files beyond the four sampled) deferred.
 

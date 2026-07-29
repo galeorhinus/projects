@@ -353,7 +353,7 @@ When AP0 is drafted:
   - `popularizing-missionaries-of-progress-pie`
 - Add a Ch0 close pointer only if it reads naturally.
 - Cross-reference Ch3 §3.6 where the pyramid is first defined.
-- Cross-reference Ch17 heroic erasure and Ch18 PIE where useful.
+- Cross-reference Ch18 heroic erasure and Ch19 PIE where useful.
 - Update `as_epigraph_plan.md` with the AP0 opening and closing verses.
 
 ---

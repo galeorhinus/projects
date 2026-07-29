@@ -1,9 +1,10 @@
 # Chapter 16 / Appendix Part 8 Ownership Ledger
 
-**Status:** working ownership map
-**Live manuscript:** unchanged
-**Body draft:** `working/10_active/as_ch16_one_architecture_two_domains_body_draft_codex.md`
-**Technical source:** `as_3_08_one_architecture_two_domains.md`
+**Status:** implemented; final appendix consolidation completed 2026-07-29
+**Live manuscript:** `as_1_16_one_architecture_two_domains.md`
+**Body chapter:** `as_1_16_one_architecture_two_domains.md`
+**Technical appendix:** `as_3_08_one_architecture_two_domains.md`,
+*Designed Variations Across the Two Domains*
 
 ## Ownership States
 
@@ -80,13 +81,12 @@ the live appendix changes.
 
 ## Six-Pass Audit Result
 
-**Draft status:** complete through the six planned drafting passes; awaiting
-author review.
+**Draft status:** approved and promoted after the six planned drafting passes.
 
 **Body length:** approximately 4,600 words.
 
-**Live manuscript status:** unchanged. The draft has not entered
-`as_book.yaml`, no chapter has been renumbered, and no appendix prose has been
+**Live manuscript status:** Chapter 16 has entered `as_book.yaml`, and the
+former Chapters 16–19 have moved to Chapters 17–20. No appendix prose has been
 removed.
 
 ### Evidence Audit
@@ -114,8 +114,7 @@ The split creates no silent deletion. Appendix condensation begins only after
 the body draft is approved, and every removed sentence must first enter the
 Lost and Found file named above.
 
-### Remaining Review Item
+### Remaining Evidence Item
 
-The author must review the body chapter's scale, sequence, and argumentative
-emphasis before promotion. The exact Sāmavedic *stobha* example remains the
-only unresolved evidence item recorded in this ledger.
+The exact Sāmavedic *stobha* example remains the only unresolved evidence item
+recorded in this ledger.

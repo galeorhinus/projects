@@ -1,7 +1,7 @@
 # Sanskrit Radiance: Dhātu-to-PIE Candidate Study — Codex
 
 **Status:** Working research report  
-**Purpose:** Select a small number of clear examples through which Chapter 18 can demonstrate an Indic method for analyzing the Sanskrit material now placed beneath reconstructed PIE forms.  
+**Purpose:** Select a small number of clear examples through which Chapter 19 can demonstrate an Indic method for analyzing the Sanskrit material now placed beneath reconstructed PIE forms.
 **Companion reports:** Claude and Gemini will examine the same problem independently.
 
 ## Recommended File Set
@@ -17,11 +17,11 @@ The strongest opening example is **⟪युज्⟫ (*yuj*, to join or yoke)**
 
 The best second example is **⟪भृ⟫ (*bhṛ*, to bear or carry)**. Sanskrit *bharati*, Greek *pherein*, Latin *ferre*, and English *bear* remain within one semantic field while the initial labial changes its effort: **भ (*bh*)**, Greek **φ (*ph*)**, Latin **f**, and Germanic **b**. This case complements ⟪युज्⟫ because it tests aspiration, voicing, and frication without changing the place of articulation.
 
-The best third example is **⟪जन्⟫ (*jan*, to generate or bring forth)**. The family extends through Greek and Latin *gen-* and Germanic *kin, kind,* and *king*. It already supports Chapter 18's argument that the pyramid placed an imaginary **\*ǵenh₁-** above a recorded Sanskrit atom. It is more expansive than ⟪युज्⟫ and therefore works better after the method has been shown with the simpler yoke family.
+The best third example is **⟪जन्⟫ (*jan*, to generate or bring forth)**. The family extends through Greek and Latin *gen-* and Germanic *kin, kind,* and *king*. It already supports Chapter 19's argument that the pyramid placed an imaginary **\*ǵenh₁-** above a recorded Sanskrit atom. It is more expansive than ⟪युज्⟫ and therefore works better after the method has been shown with the simpler yoke family.
 
 **Recommended deployment:**
 
-1. Use **⟪युज्⟫** as the first worked example in Chapter 18.
+1. Use **⟪युज्⟫** as the first worked example in Chapter 19.
 2. Use **⟪भृ⟫** as the second worked example, proving that the method is not limited to **ज → ग → क**.
 3. Retain **⟪जन्⟫** as the larger lexical and civilizational payoff.
 4. Move the fuller ranked set into the Source and Reference Companion.
@@ -98,7 +98,7 @@ The report uses the [Aṣṭādhyāyī.com Dhātupāṭha](https://ashtadhyayi.c
 |---:|---|---|---|---|---|
 | 1 | **⟪युज्⟫ (*yuj*)** | join, yoke, unite | Greek *zygon/zeug-*, Latin *iugum/iungere*, Gothic *juk*, English *yoke* | Sanskrit itself displays **j → g → k** under explicit Pāṇinian operations; semantic continuity is unusually clean | Greek initial *z* and the medial/final **g** must be explained separately |
 | 2 | **⟪भृ⟫ (*bhṛ*)** | bear, bring, carry | Greek *pherō/pherein*, Latin *ferō/ferre*, Germanic *beran*, English *bear/birth/burden* | One place of articulation with four changes in effort: **bh/ph/f/b**; broad, familiar vocabulary | Exact foreign outcomes do not all follow one Hemacandrian rule |
-| 3 | **⟪जन्⟫ (*jan*)** | generate, produce, be born | Greek/Latin *gen-*, Latin *genus/gignō*, Germanic *kin/kind/king* | Recorded Sanskrit atom, large productive family, existing Chapter 18 argument, strong civilizational payoff | Ablaut, suffixes, and the Germanic branch make the full derivation longer |
+| 3 | **⟪जन्⟫ (*jan*)** | generate, produce, be born | Greek/Latin *gen-*, Latin *genus/gignō*, Germanic *kin/kind/king* | Recorded Sanskrit atom, large productive family, existing Chapter 19 argument, strong civilizational payoff | Ablaut, suffixes, and the Germanic branch make the full derivation longer |
 
 ### Tier B — Strong companion cases
 
@@ -236,7 +236,7 @@ Greek *agō* and Latin *agere* preserve the drive/lead field of Sanskrit *ajati*
 
 ### ⟪अस्⟫ / ⟪भू⟫ and Latin *sum, esse, fuī, futūrus*
 
-This example remains valuable, but it introduces suppletion before the reader has learned the basic method. It also requires two Sanskrit atoms and several Latin stems. The project should retain it as an advanced case, while Chapter 18 begins with one atom and a visible sonomer path.
+This example remains valuable, but it introduces suppletion before the reader has learned the basic method. It also requires two Sanskrit atoms and several Latin stems. The project should retain it as an advanced case, while Chapter 19 begins with one atom and a visible sonomer path.
 
 ### ⟪दृश्⟫ and *theory*
 
@@ -250,7 +250,7 @@ This is one of the book's most important semantic claims. It should not carry th
 
 Chapter 10 already develops this family at length. It can become a later stress test after the project establishes its protocol with easier cases.
 
-## Proposed Chapter 18 Sequence
+## Proposed Chapter 19 Sequence
 
 1. Introduce the traditional fivefold *vyutpatti* method already present in the chapter:
    - **वर्णागम (*varṇāgama*)** — a sound is added.
@@ -351,4 +351,3 @@ The present report nominates **⟪युज्⟫**, **⟪भृ⟫**, and **⟪
 - [IE family for *sthā/stand/state*](https://lrc.la.utexas.edu/lex/master/1873)
 - [IE family for *bhū/physis*](https://lrc.la.utexas.edu/lex/master/0249)
 - [IE family for *kṛt/cut*](https://lrc.la.utexas.edu/lex/master/1742)
-

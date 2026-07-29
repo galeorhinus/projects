@@ -53,7 +53,7 @@ What the substrate contributes: the phonemes. What Sanskrit's engine contributes
 
 This demonstration uses Japanese for three reasons.
 
-**First, geographic and civilizational distance.** Japan stood as a far destination of Wave 2 transmission, with the **अष्टाध्यायी (*Aṣṭādhyāyī*)** methodology reaching Japan through Buddhist-monastic contact across the centuries that followed Pāṇini (Chapter 19 §19.2). Its Japanese phonological substrate remains entirely unrelated to Sanskrit's, making the construction a genuine cross-substrate experiment.
+**First, geographic and civilizational distance.** Japan stood as a far destination of Wave 2 transmission, with the **अष्टाध्यायी (*Aṣṭādhyāyī*)** methodology reaching Japan through Buddhist-monastic contact across the centuries that followed Pāṇini (Chapter 20 §20.2). Its Japanese phonological substrate remains entirely unrelated to Sanskrit's, making the construction a genuine cross-substrate experiment.
 
 **Second, phonemic compatibility.** The experiment uses the five Japanese vowels (/a, i, u, e, o/) and a simplified working set of consonants (/k, g, s, z, sh, j, t, d, ch, ts, n, m, h, b, p, r, w, y/). Devanagari can render this set without extension. The substrate therefore fits the script closely enough for the construction.
 
@@ -69,7 +69,7 @@ The target. Three English sentences:
 
 > *The baker bakes a pie. The pie is hollow. The baker laughs alone.*
 
-The joke's satirical idiom operates openly. *Baker* represents Schleicher (Chapter 1 §1.1; Chapter 18 §18.1; Appendix Part 1), *Pie* stands for PIE, and *Hollow* exposes what PIE actually is once the bake is examined. The closing observation that *the baker laughs alone* demonstrates how a fabricator's product has no audience that can verify it from the inside.
+The joke's satirical idiom operates openly. *Baker* represents Schleicher (Chapter 1 §1.1; Chapter 19 §19.1; Appendix Part 1), *Pie* stands for PIE, and *Hollow* exposes what PIE actually is once the bake is examined. The closing observation that *the baker laughs alone* demonstrates how a fabricator's product has no audience that can verify it from the inside.
 
 The Sanskrit:
 
