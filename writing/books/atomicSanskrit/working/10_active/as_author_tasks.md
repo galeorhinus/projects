@@ -8,6 +8,12 @@ Quick task list for tactical items tracked separately from the project-level `as
 
 ## Open
 
+### [ ] Revise Figure 0.2 to distinguish the two meanings of *anta*
+
+Add **Vedānta** as a fifth visual stream below the four Vedas. Give it exactly the same horizontal beginning and continuation as the four Vedic streams: left-to-right remains the time axis, while top-to-bottom shows structural arrangement and places Vedānta at the culmination.
+
+Label it as the **shared culmination / goal of Vedic knowledge**, never as a fifth Veda. Preserve *itihāsa-purāṇa* as the fifth Veda in the *laukika* field. The caption must state that the pyramid rotates a structural *anta* onto the temporal axis and turns culmination into alleged chronological lateness. Do not indent, stagger, fade in, or otherwise give the Vedānta stream a later beginning.
+
 ### [ ] Sanskrit word for *calibrant*
 
 The book deploys ***calibrant*** as the English term for Sanskrit's role across the architecture (*the calibrant*, *calibrant-anchored languages* — Ch 5 §5.6, Ch 13 §13.5, Ch 14 forward). The term is precise but unanchored to Sanskrit's own vocabulary. Decide on the canonical Sanskrit anchor, deploy at first-use, and add to CLAUDE.md's calibration vocabulary cluster.

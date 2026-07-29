@@ -144,9 +144,25 @@ That is likely. An open domain will face entropy in a way that read-only transmi
 
 The Vedas remained unchanged. Laukika usage may have varied under entropic pressure, while continuous calibration kept the language within Sanskrit's architecture.
 
-The Vedas did not survive because Pāṇini stabilized them. Pāṇini could document Sanskrit because the Vedas had already preserved its measure.
+The Vedas did not survive because Pāṇini stabilized them. Pāṇini could document Sanskrit because its architecture was already encoded and preserved within them.
 
-At the turn from the Dvāpara age to the Kali age — the age of the Mahābhārata — Vyāsa divided the one Veda into four: *Ṛgveda*, *Yajurveda*, *Sāmaveda*, *Atharvaveda*, each with its *saṃhitā* and associated vistāra — Brāhmaṇa, Āraṇyaka, Upaniṣad. The division added nothing and took nothing away. It arranged the one body for an age of shorter memory: preservation, not authorship.[NOTE: veda-vyasa-division] This is the vaidika domain, preserved in *chandas* (छन्दस्), the metrical mode.
+### When *Anta* Becomes a Date
+
+The pyramid applies the same chronological operation inside the Vedic corpus.
+
+Ask an English-speaking Hindu what ***वेदान्त (*vedānta*)*** means, and many will give two answers at once. They will say that the Upaniṣads form the structural end or culmination of the Vedas. They will also say that the Upaniṣads were composed during a later *Vedāntic period*. The merger of those two answers is the problem.
+
+The word ***अन्त (*anta*)*** can describe a position within an arrangement. It can also describe a culmination, purpose, or goal. Neither meaning establishes when the material was composed. A structural end and a chronological end belong to different categories, and chronology requires evidence of its own.
+
+The pyramid merges them. Because the Upaniṣads are called *Vedānta*, their place at the culmination of Vedic knowledge becomes evidence that they were composed last. The resulting chronology then arranges Saṃhitā, Brāhmaṇa, Āraṇyaka, and Upaniṣad as successive historical stages. Their different functions and styles are made to tell a story in which Vedic thought moved from mantra, through *yajña*, and finally into philosophy.
+
+The Hindu continuum does not describe a *Vedāntic period*. Its chronology describes yugas, manvantaras, dynasties, reigns, and lineages. *Vedānta* instead identifies the culmination and purpose of Vedic knowledge. It also identifies the interpretive field carried through the Upaniṣads, the Bhagavad Gītā, the Brahmasūtras, and the several Vedānta darśanas. These are textual, philosophical, and pedagogical relationships. None of them turns *Vedānta* into the name of an age.
+
+Chronology capture has now entered institutions that should have protected this distinction. The Government of India's Vedic Heritage Portal defines *Vedānta* as the conclusion and goal of the Vedas, then immediately declares that the Upaniṣads came chronologically at the end of a *Vedic period*. The Vedanta Society's public explanation also preserves the internal meaning of *anta* as end or goal, while introductory scholarship hosted on its site restores the conventional dates and historical sequence. The structural meaning remains visible, but it is made to carry a chronology that it cannot establish.[NOTE: vedanta-anta-chronology-capture]
+
+This is category theft through chronology capture. A structural end becomes a chronological end. Culmination becomes lateness. Purpose becomes period.
+
+At the turn from the Dvāpara age to the Kali age — the age of the Mahābhārata — Vyāsa divided the one Veda into four: *Ṛgveda*, *Yajurveda*, *Sāmaveda*, and *Atharvaveda*, each with its *saṃhitā* and associated *vistāra* — Brāhmaṇa, Āraṇyaka, and Upaniṣad. Every Veda has Upaniṣadic material associated with it; together, these shared culminations form the field called ***वेदान्त (*Vedānta*)***. The division added nothing and took nothing away. It arranged the one body for an age of shorter memory: preservation, not authorship.[NOTE: veda-vyasa-division] This is the *vaidika* domain, preserved in ***छन्दस् (*chandas*)***, the metrical mode.
 
 At the same turn, the *itihāsa-purāṇa* — the fifth Veda — passed to the laukika keepers: the laukika domain, expressed in *bhāṣā* (भाषा), the mode of speech. Its corpus grows, its vocabulary meets each changing age through derivation, and the language remains invariant.
 

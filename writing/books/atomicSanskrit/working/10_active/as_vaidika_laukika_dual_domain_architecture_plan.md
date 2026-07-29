@@ -1429,6 +1429,12 @@ Stop for author review after these six passes. Do not add the draft to
 `as_book.yaml`, renumber the existing chapters, or remove material from the
 appendix before that review is complete.
 
+**Drafting status:** All six passes are complete in
+`working/10_active/as_ch16_one_architecture_two_domains_body_draft_codex.md`.
+The ownership and evidence audit is recorded in
+`working/10_active/as_ch16_appendix_split_ownership_codex.md`. The draft now
+awaits author review; no live manuscript migration has begun.
+
 ### Controlled Renumbering and Migration
 
 Do not perform a blind numerical replacement. Execute the split as a controlled

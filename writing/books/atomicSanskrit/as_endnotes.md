@@ -645,6 +645,28 @@ The mistrust applies to the philological dating of Indic texts and figures — l
 
 ---
 
+### `vedanta-anta-chronology-capture`
+
+**Short:** ***Vedānta*** identifies the culmination, conclusion, or goal of Vedic knowledge; that structural relationship does not establish a date of composition. Modern accounts merge structural *anta* with chronological lateness and then describe the Upaniṣads as the product of a later *Vedāntic period*. The merger appears even in Hindu-facing institutions: the Government of India's Vedic Heritage Portal states both meanings in the same account, while the Vedanta Society preserves the structural definition on its public page but hosts introductory scholarship organized through conventional dates and historical stages.
+
+**Deployment:** Chapter 0 §0.5, “When *Anta* Becomes a Date”; planned callback in Appendix Part 8 §8.8, “Style and Chronology.”
+
+Three meanings must remain separate:
+
+1. **Structural position.** The Upaniṣads occur within the Vedic corpus and are traditionally associated with its concluding or culminating instruction.
+2. **Purpose or goal.** *Anta* can identify the culmination or highest purpose of Vedic knowledge. The Bhagavad Gītā 15.15 uses ***वेदान्तकृत् (*vedāntakṛt*)*** within a statement about what the Vedas disclose and who knows them; it does not name an historical period.
+3. **Chronological claim.** The proposition that the Upaniṣads were composed after the Saṃhitās, Brāhmaṇas, and Āraṇyakas requires independent evidence. It does not follow from either structural position or philosophical culmination.
+
+The institutional examples show how easily these meanings are merged. The Government of India's Vedic Heritage Portal first says that *Vedānta* means the end, conclusion, and goal of the Vedas. In the next sentence it says that the Upaniṣads came chronologically at the end of a *Vedic period*. The same page later describes them as the final phase of Vedic revelation and presents a development from earlier Vedic material toward Upaniṣadic philosophy. The structural definition and the chronological claim are placed together without demonstrating that one establishes the other.
+
+The Vedanta Society of Southern California's public explainer gives the internal definition clearly: *Vedānta* combines *Veda* with *anta*, “the end of” or “the goal of,” and concerns Self-knowledge and knowledge of God. That page does not call Vedānta a period. A research-handbook introduction hosted on the Society's site, however, dates the Bhagavad Gītā to approximately 200 BCE–100 CE, the Brahmasūtra to approximately 300 BCE–400 CE, Gauḍapāda to approximately 500 CE, and Śaṅkara to approximately 700–800 CE, then narrates the emergence of successive Vedāntic schools. The distinction matters: the hosted scholarly chronology should not be misrepresented as a doctrinal declaration by the Society. Its presence nevertheless demonstrates how conventional chronology can inhabit an institution whose own public definition preserves *anta* as structural culmination and goal.
+
+The book's argument does not claim that textual arrangement supplies no historical information. It claims that arrangement, purpose, style, and chronology are different kinds of information. A date must be established through evidence connected to time rather than inferred from the word *anta* or from a composition's philosophical and literary style.
+
+Sources: Government of India, Vedic Heritage Portal, [“Upanishads”](https://vedicheritage.gov.in/upanishads/), especially its definition of *Vedānta* as conclusion and goal followed by the claim of chronological lateness; Vedanta Society of Southern California, [“What Is Vedanta?”](https://vedanta.org/what-is-vedanta/); Ayon Maharaj, [“Introduction: The Past, Present, and Future of Scholarship on Vedānta”](https://vedanta.org/wp-content/uploads/2023/08/Vedanta-intro.pdf), in *The Bloomsbury Research Handbook of Vedānta*; Bhagavad Gītā 15.15, [Gītā Supersite, IIT Kanpur](https://www.gitasupersite.iitk.ac.in/srimad?choose=1&etadi=1&etgb=1&etpurohit=1&etsiva=1&etssa=1&field_chapter_value=15&field_nsutra_value=15&language=dv&show_mool=1).
+
+---
+
 ### `ramayana-homer-chronology-capture`
 
 **Short:** Nineteenth-century Indology used its chronology to place Homer before Vālmīki and then proposed that Sītā's abduction and the war at Laṅkā were modeled on Helen's abduction and the siege of Troy. Later Indo-European comparison replaced direct copying with reconstructed common inheritance, but it continued to place an external source above both epics.
