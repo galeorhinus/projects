@@ -8,8 +8,10 @@ was completed on 2026-07-29:
 - Chapter 16 owns the conceptual and civilizational argument.
 - Appendix Part 8, *Designed Variations Across the Two Domains*, owns the
   technical evidence.
-- LF-VL-012 through LF-VL-018 preserve every block removed during the final
+- LF-VL-012 through LF-VL-018 preserve every block removed during the first
   consolidation.
+- LF-VL-019 through LF-VL-027 preserve every block removed when the appendix
+  was deduplicated against the approved Chapter 16.
 
 Nothing was removed from the manuscript without being recorded here and
 preserved verbatim in:
@@ -282,6 +284,23 @@ use direct explanatory prose and retain every evidentiary qualification.
 
 **Lost and found:** Not required. No example, claim, qualification, or
 supporting sentence was removed.
+
+### VL-A8-004 — Final Deduplication Against Chapter 16
+
+**Action:** Removed repeated conceptual explanation while leaving Chapter 16
+untouched.
+
+Appendix Part 8 now keeps the evidence method, exact passages, technical
+comparisons, complete declensional figures, prevalence measures, collision
+record, and documented stewardship cases. Repeated explanations of the ten
+designed contributions, representative examples already fully explained in
+Chapter 16, and the duplicate style-and-chronology section left the live
+appendix only after their verbatim text entered Lost and Found.
+
+**Lost and found:** LF-VL-019 through LF-VL-027.
+
+**Final structure:** Eight sections, recorded in
+`as_appendix_08_reorganization_map_codex.md`.
 
 ### VL-A8-003 — Appendix Part 8, final AI-tic pass
 

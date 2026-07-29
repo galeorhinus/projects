@@ -12,14 +12,13 @@ Domains*
 | Section | Technical responsibility |
 |---|---|
 | §8.1 | Explain how the appendix compares a laukika baseline with an additional Vedic resource. |
-| §8.2 | Define the ten designed contributions used by the figures and analyses. |
+| §8.2 | Define the ten contribution codes and the passage, function, prevalence, and evidence-grade method. |
 | §8.3 | Document sounds, sonomeric selection, pitch, duration, meter, and exact recitation. |
 | §8.4 | Document separated *upasargas*, extended *vibhakti* forms, the 83-category figure series, evidence grades, and prevalence measures. |
-| §8.5 | Compare the additional range of *leṭ* with its formal collisions and functional overlap. |
+| §8.5 | Record the formal *leṭ–loṭ* collisions, their functional overlap, and the limits of pitch as a distinguishing layer. |
 | §8.6 | Document unaugmented *luṅ*, Vedic *ktvā*, *tumarthaka*, and *kvasu-kṛdanta* forms. |
 | §8.7 | Present the complete technical comparison table. |
-| §8.8 | Preserve the derivational example and the detailed style-and-chronology analysis. |
-| §8.9 | Preserve the documented Sāyaṇa/Mādhava and Kerala stewardship cases. |
+| §8.8 | Preserve the documented Sāyaṇa/Mādhava and Kerala stewardship cases. |
 
 ## Ownership Result
 
@@ -38,8 +37,9 @@ appendix. The frozen ownership ledger records those intentional overlaps in
 
 ## Removal Record
 
-Every block removed during consolidation appears verbatim as LF-VL-012 through
-LF-VL-018 in
+Every block removed during the first consolidation appears verbatim as
+LF-VL-012 through LF-VL-018. The final deduplication against the approved
+Chapter 16 is preserved as LF-VL-019 through LF-VL-027 in
 `as_appendix_08_removed_text_lost_and_found_codex.md`.
 
 ## Validation

@@ -363,14 +363,13 @@
   - 7.7 The Matrix Succeeds
 - **Appendix Part 8 — Designed Variations Across the Two Domains**
   - 8.1 How to Read the Evidence
-  - 8.2 Ten Designed Contributions
+  - 8.2 Evidence and Coding Method
   - 8.3 Sounds, Accent, and Exact Recitation
   - 8.4 Positional Freedom and Extended Forms
-  - 8.5 *Leṭ*: What It Adds and Where It Collides
+  - 8.5 The *Leṭ–Loṭ* Collision Record
   - 8.6 Other Vedic Verbal Forms
   - 8.7 The Differences at a Glance
-  - 8.8 Derivation, Composition, and Style
-  - 8.9 Documented Stewardship Across Both Domains
+  - 8.8 Documented Stewardship Across Both Domains
 - **Appendix Part 9 — The Codification Story, Refuted**
   - 9.1 The Inherited Story and Its Two Drift Claims
   - 9.2 Circular Chronology

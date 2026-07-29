@@ -1,6 +1,6 @@
 # Chapter 16 / Appendix Part 8 Ownership Ledger
 
-**Status:** implemented; final appendix consolidation completed 2026-07-29
+**Status:** implemented; final appendix deduplication completed 2026-07-29
 **Live manuscript:** `as_1_16_one_architecture_two_domains.md`
 **Body chapter:** `as_1_16_one_architecture_two_domains.md`
 **Technical appendix:** `as_3_08_one_architecture_two_domains.md`,
@@ -118,3 +118,11 @@ Lost and Found file named above.
 
 The exact Sāmavedic *stobha* example remains the only unresolved evidence item
 recorded in this ledger.
+
+### Final Appendix Result
+
+Chapter 16 remained unchanged during the final deduplication. Appendix Part 8
+now contains eight sections and serves as the technical evidence bank. The
+repeated conceptual exposition and the duplicate style-and-chronology section
+were preserved verbatim as LF-VL-019 through LF-VL-027 before leaving the live
+appendix.

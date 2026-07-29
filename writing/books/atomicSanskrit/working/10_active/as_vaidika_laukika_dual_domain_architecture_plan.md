@@ -1462,6 +1462,9 @@ migration:
   owner.
 - [x] Preserve every removed or condensed passage in the Appendix Part 8 Lost
   and Found document.
+- [x] Deduplicate the technical appendix against the approved Chapter 16
+  without changing Chapter 16; preserve the final removals as LF-VL-019 through
+  LF-VL-027.
 - [x] Search for stale `Chapter 16`, `§16`, `Chapter 17`, `§17`, `Chapter 18`,
   `§18`, `Chapter 19`, `§19`, figure-number, and appendix references.
 - [x] Assemble both full- and short-endnote manuscripts and verify that

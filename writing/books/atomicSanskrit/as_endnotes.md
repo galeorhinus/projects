@@ -649,7 +649,7 @@ The mistrust applies to the philological dating of Indic texts and figures — l
 
 **Short:** ***Vedānta*** identifies the culmination, conclusion, or goal of Vedic knowledge; that structural relationship does not establish a date of composition. Modern accounts merge structural *anta* with chronological lateness and then describe the Upaniṣads as the product of a later *Vedāntic period*. The merger appears even in Hindu-facing institutions: the Government of India's Vedic Heritage Portal states both meanings in the same account, while the Vedanta Society preserves the structural definition on its public page but hosts introductory scholarship organized through conventional dates and historical stages.
 
-**Deployment:** Chapter 0 §0.5, “When *Anta* Becomes a Date”; planned callback in Appendix Part 8 §8.8, “Style and Chronology.”
+**Deployment:** Chapter 0 §0.5, “When *Anta* Becomes a Date.”
 
 Three meanings must remain separate:
 
@@ -5624,7 +5624,7 @@ The passage reads **आ द्विषतो वसु दत्ते, नि�
 
 **Short:** The four Vedas and their prose extensions place Sanskrit under different linguistic, acoustic, and compositional demands. Their combined range allows the Vedic corpus to preserve a much broader sample of Sanskrit's architecture than one uniform style could preserve.
 
-**Deployment:** Chapter 16 §16.5 and Appendix Part 8 §8.8.
+**Deployment:** Chapter 16 §16.5.
 
 Ṛgveda 10.71.11 describes differentiated work within the Vedic field: one cultivates the ***ऋचः (*ṛcaḥ*)***, another sings the ***सामन् (*sāman*)***, the ***ब्रह्मा (*brahmā*)*** speaks the knowledge proper to his responsibility, and another measures the ***यज्ञ (*yajña*)***. The verse establishes functional differentiation. The further claim — that expression distributed across these functions also widened the linguistic calibrant — is this book's architectural inference. The observable result supports it: Ṛgvedic address, Sāmavedic song, Yajurvedic formula and prose, Atharvavedic protection and application, Brāhmaṇa exposition, Āraṇyaka reflection, and Upaniṣadic dialogue preserve different combinations of sound, pitch, meter, sentence construction, verbal forms, nominal forms, compounds, and modes of explanation. The Vedāṅga disciplines then analyze and teach the architecture preserved in use. Sources: Ṛgveda 10.71.11; Government of India, Vedic Heritage Portal, "Introduction," classification of the four Vedas and six Vedāṅgas.
 
@@ -5746,7 +5746,7 @@ The closing words are **इह यजा चिकित्वः (*iha yajā ci
 
 **Short:** The *vaidika–laukika* boundary governs what may be revised; it does not require two separate populations, and one person or household can participate in both domains.
 
-**Deployment:** Chapter 16 §16.9 and Appendix Part 8 §8.9.
+**Deployment:** Chapter 16 §16.9 and Appendix Part 8 §8.8.
 
 The architectural claim is narrower than a universal account of household organization. A person trained to preserve a Vedic passage can also study *vyākaraṇam*, explain a mantra, read *śāstra*, teach *itihāsa-purāṇa*, or compose laukika Sanskrit without changing the Vedic passage. The exact distribution of these responsibilities varied across regions, households, *śākhās*, and *sampradāyas*.
 
