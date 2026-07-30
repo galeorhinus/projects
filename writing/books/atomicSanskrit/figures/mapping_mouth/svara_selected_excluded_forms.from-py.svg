@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#f7f4ed"/>
+<text x="54.0" y="67.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="47" font-weight="600" font-style="normal" fill="#29251f" text-anchor="start">Selected and Excluded Vowel Forms</text>
+<text x="54.0" y="109.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">How Sanskrit pairs vowel quality with one- and two-mātrā duration</text>
+<line x1="54" y1="134" x2="1146" y2="134" stroke="#cfc6b5" stroke-width="2"/>
+<rect x="54" y="190" width="454" height="62" fill="#29251f" stroke="#f7f4ed" stroke-width="2"/>
+<text x="76.0" y="230.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="600" font-style="normal" fill="#f7f4ed" text-anchor="start">Vowel quality or family</text>
+<rect x="508" y="190" width="346" height="62" fill="#29251f" stroke="#f7f4ed" stroke-width="2"/>
+<text x="681.0" y="230.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="600" font-style="normal" fill="#f7f4ed" text-anchor="middle">1 mātrā</text>
+<rect x="854" y="190" width="346" height="62" fill="#29251f" stroke="#f7f4ed" stroke-width="2"/>
+<text x="1027.0" y="230.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="600" font-style="normal" fill="#f7f4ed" text-anchor="middle">2 mātrās</text>
+<rect x="54" y="252" width="454" height="82" fill="#f7f4ed" stroke="#cfc6b5" stroke-width="1"/>
+<text x="76.0" y="290.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="25" font-weight="600" font-style="normal" fill="#29251f" text-anchor="start">संवृत अवर्ण</text>
+<text x="274.0" y="290.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="21" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">saṃvṛta avarṇa</text>
+<rect x="508" y="252" width="346" height="82" fill="#e8dfcc" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 545.0,293.0 L 553.0,302.0 L 570.0,281.0" fill="none" stroke="#9d7c36" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="697.0" y="290.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="34" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">अ</text>
+<text x="697.0" y="317.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="16" font-weight="400" font-style="italic" fill="#9d7c36" text-anchor="middle">Selected</text>
+<rect x="854" y="252" width="346" height="82" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 892,283.0 L 912,303.0 M 912,283.0 L 892,303.0" fill="none" stroke="#8b4b3d" stroke-width="3" stroke-linecap="round"/>
+<text x="1043.0" y="290.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="21" font-weight="500" font-style="normal" fill="#29251f" text-anchor="middle">long contracted a</text>
+<text x="1043.0" y="317.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="16" font-weight="400" font-style="italic" fill="#8b4b3d" text-anchor="middle">Excluded</text>
+<rect x="54" y="334" width="454" height="82" fill="#f0ece3" stroke="#cfc6b5" stroke-width="1"/>
+<text x="76.0" y="372.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="25" font-weight="600" font-style="normal" fill="#29251f" text-anchor="start">विवृत अवर्ण</text>
+<text x="274.0" y="372.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="21" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">vivṛta avarṇa</text>
+<rect x="508" y="334" width="346" height="82" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 546,365.0 L 566,385.0 M 566,365.0 L 546,385.0" fill="none" stroke="#8b4b3d" stroke-width="3" stroke-linecap="round"/>
+<text x="697.0" y="372.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="21" font-weight="500" font-style="normal" fill="#29251f" text-anchor="middle">short open a</text>
+<text x="697.0" y="399.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="16" font-weight="400" font-style="italic" fill="#8b4b3d" text-anchor="middle">Excluded</text>
+<rect x="854" y="334" width="346" height="82" fill="#e8dfcc" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 891.0,375.0 L 899.0,384.0 L 916.0,363.0" fill="none" stroke="#9d7c36" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1043.0" y="372.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="34" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">आ</text>
+<text x="1043.0" y="399.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="16" font-weight="400" font-style="italic" fill="#9d7c36" text-anchor="middle">Selected</text>
+<rect x="54" y="416" width="454" height="82" fill="#f7f4ed" stroke="#cfc6b5" stroke-width="1"/>
+<text x="76.0" y="454.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="25" font-weight="600" font-style="normal" fill="#29251f" text-anchor="start">एकार</text>
+<text x="274.0" y="454.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="21" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">ekāra</text>
+<rect x="508" y="416" width="346" height="82" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 546,447.0 L 566,467.0 M 566,447.0 L 546,467.0" fill="none" stroke="#8b4b3d" stroke-width="3" stroke-linecap="round"/>
+<text x="697.0" y="454.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="21" font-weight="500" font-style="normal" fill="#29251f" text-anchor="middle">one-mātrā e</text>
+<text x="697.0" y="481.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="16" font-weight="400" font-style="italic" fill="#8b4b3d" text-anchor="middle">Excluded</text>
+<rect x="854" y="416" width="346" height="82" fill="#e8dfcc" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 891.0,457.0 L 899.0,466.0 L 916.0,445.0" fill="none" stroke="#9d7c36" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1043.0" y="454.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="34" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">ए</text>
+<text x="1043.0" y="481.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="16" font-weight="400" font-style="italic" fill="#9d7c36" text-anchor="middle">Selected</text>
+<rect x="54" y="498" width="454" height="82" fill="#f0ece3" stroke="#cfc6b5" stroke-width="1"/>
+<text x="76.0" y="536.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="25" font-weight="600" font-style="normal" fill="#29251f" text-anchor="start">ओकार</text>
+<text x="274.0" y="536.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="21" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">okāra</text>
+<rect x="508" y="498" width="346" height="82" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 546,529.0 L 566,549.0 M 566,529.0 L 546,549.0" fill="none" stroke="#8b4b3d" stroke-width="3" stroke-linecap="round"/>
+<text x="697.0" y="536.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="21" font-weight="500" font-style="normal" fill="#29251f" text-anchor="middle">one-mātrā o</text>
+<text x="697.0" y="563.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="16" font-weight="400" font-style="italic" fill="#8b4b3d" text-anchor="middle">Excluded</text>
+<rect x="854" y="498" width="346" height="82" fill="#e8dfcc" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 891.0,539.0 L 899.0,548.0 L 916.0,527.0" fill="none" stroke="#9d7c36" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1043.0" y="536.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="34" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">ओ</text>
+<text x="1043.0" y="563.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="16" font-weight="400" font-style="italic" fill="#9d7c36" text-anchor="middle">Selected</text>
+<rect x="54" y="608" width="1092" height="76" rx="4" fill="#e8dfcc" stroke="#cfc6b5" stroke-width="1"/>
+<text x="76.0" y="639.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="20" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">Lineage-Bounded:</text>
+<text x="232.0" y="639.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="20" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">half-ए and half-ओ are preserved in named Sāmavedic lineages.</text>
+<text x="76.0" y="666.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="19" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">They do not become generally reusable one-mātrā forms.</text>
+</svg>

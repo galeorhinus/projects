@@ -53,7 +53,7 @@ The current draft explains:
 
 - Vedic pitch accent;
 - Ṛgvedic **ळ** and its lineage-preserved realization;
-- *upadhmānīya* as a governed contextual articulation;
+- *upadhmānīya* as a condition-generated articulation;
 - **-ebhiḥ / -aiḥ** instrumental-plural forms within one mantra;
 - separated *upasargas* in Aitareya-Brāhmaṇa prose;
 - Pāṇini's documented scope for *leṭ* and the visible overlap that makes it a

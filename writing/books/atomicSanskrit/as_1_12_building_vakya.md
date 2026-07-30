@@ -152,7 +152,7 @@ By reading the table procedurally—where moving down the rows changes the head-
 
 This is molecular construction.
 
-The matrix also protects the argument from overstatement. Sanskrit's generativity is governed. Productive axes permit a large field of construction because the bonds are lawful; they do not make every possible-looking form equally real.
+The matrix also protects the argument from overstatement. Sanskrit's generativity is structured. Productive axes permit a large field of construction because the bonds are lawful; they do not make every possible-looking form equally real.
 
 The *racanā* × *gaṇa* matrix made the same point at the previous scale — some cells heavy, some light, some empty — and the molecular matrix repeats it: each filled cell records a procedure.
 
@@ -218,11 +218,11 @@ The sentence is the larger assembly, yet the smaller engineering remains visible
 
 ### Usage Expands While the Language Remains Invariant
 
-The assembled sentence brings Sanskrit's generative architecture into view as one continuous procedure. A finite inventory supplies the material at each scale, and governed operations prepare that material for the next scale. The **वर्णमाला (*varṇamālā*)** supplies sonomers that combine into the semantic atoms listed in the **धातुपाठ (*Dhātupāṭha*)**. The *gaṇa* operations activate those atoms; *upasargāḥ* redirect their fields; and *pratyayāḥ* complete them as actions, agents, deeds, states, and other usable molecules. Once role-endings have prepared those molecules for relation, they can enter a sentence without surrendering the construction that produced them.
+The assembled sentence brings Sanskrit's generative architecture into view as one continuous procedure. A finite inventory supplies the material at each scale, and specified operations prepare that material for the next scale. The **वर्णमाला (*varṇamālā*)** supplies sonomers that combine into the semantic atoms listed in the **धातुपाठ (*Dhātupāṭha*)**. The *gaṇa* operations activate those atoms; *upasargāḥ* redirect their fields; and *pratyayāḥ* complete them as actions, agents, deeds, states, and other usable molecules. Once role-endings have prepared those molecules for relation, they can enter a sentence without surrendering the construction that produced them.
 
 Once Sanskrit has produced usable forms, **समास (*samāsa*)** allows them to enter a further level of composition. Two completed forms can join as one compound, and the completed compound can become part of a larger compound in turn. When India's lunar mission required a name, **चन्द्र (*candra*, moon)** and **यान (*yāna*, vehicle)** joined as **चन्द्रयान (*Candrayāna*)**, a vehicle for the Moon. The new circumstance required new usage, while the atoms, bonds, and compositional procedure remained available without alteration.
 
-Every additional scale enlarges the possible field of expression. Under the stated assumptions in Chapter 0 §0.6, this book's conservative model produces more than twenty million first-pass possible forms. And that does not include the calculations for *samāsa*, technical coinage, and poetic extension.[NOTE: sanskrit-generative-wordspace] The number is a model of generative space rather than a count of dictionary entries. The preceding chapters show how that space arises: compact atoms enter governed operations, and completed forms remain available for further assembly.
+Every additional scale enlarges the possible field of expression. Under the stated assumptions in Chapter 0 §0.6, this book's conservative model produces more than twenty million first-pass possible forms. And that does not include the calculations for *samāsa*, technical coinage, and poetic extension.[NOTE: sanskrit-generative-wordspace] The number is a model of generative space rather than a count of dictionary entries. The preceding chapters show how that space arises: compact atoms enter specified operations, and completed forms remain available for further assembly.
 
 The architecture produces this large field by governing how its parts combine. A pronounceable sequence does not become Sanskrit merely because its parts can be imagined, and the empty cells in the *racanā–gaṇa* and bonding matrices record combinations that the architecture does not use. A valid formation must follow the operations that connect its parts, preserve the required sound changes, and enter speech with recoverable grammatical and semantic bonds. The same internal constraints that generate a form also allow speakers and caretakers to examine and correct it.
 

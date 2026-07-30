@@ -62,7 +62,7 @@
 | **ब्रवाणि (*bravāṇi*)** | §16.4, additional meaning within a bounded passage | Complete *leṭ–loṭ* collision analysis | Intentional overlap |
 | **तारिषत् (*tāriṣat*)** | §16.4, additional meaning within a bounded passage | Full semantic and formal comparison | Intentional overlap |
 | Ṛgveda 10.71.11 functional differentiation | §16.5 | Source analysis in endnote | Intentional overlap |
-| Sāmavedic *stobha* | §16.5 | Exact governed example still required | Unresolved |
+| Sāmavedic *stobha* | §16.5 | Exact restricted example still required | Unresolved |
 
 ## Figures
 
@@ -94,11 +94,11 @@ removed.
 - Every mantra or technical example used in the body draft was checked against
   the current Appendix Part 8 source.
 - Existing endnotes now accompany the body examples for *svara*, **एमसि**,
-  **रुद्रैः / रुद्रेभिः**, **ईळे**, the governed junction sounds,
+  **रुद्रैः / रुद्रेभिः**, **ईळे**, the condition-generated junction sounds,
   **आ ... वहन्तु**, the Aitareya Brāhmaṇa control, **ब्रवाणि / तारिषत्**,
   Vedic functional range, and the shared social-responsibility cases.
 - The body identifies Sāmavedic *stobha* only as a category. It does not print
-  or analyze a particular *stobha* until an exact governed example has been
+  or analyze a particular *stobha* until an exact restricted example has been
   selected and verified.
 - Full paradigms, prevalence counts, declensional figures, the complete
   *leṭ–loṭ* collision table, and source qualifications remain appendix-owned.

@@ -25,7 +25,7 @@ Any valid model of Sanskrit must explain six structural features. These are not 
 
 First: the ***varṇamālā*** as engineered phonetic grid (Chapter 7). A list of sounds is not enough. The model must explain the ordered articulatory architecture.
 
-Second: the ***dhātu*** architecture (Chapters 2 and 10). Sanskrit does not merely have a loose inventory of verbal bases. It has semantic atoms that preserve identity through bonding and generate vocabulary through rule-governed combination.
+Second: the ***dhātu*** architecture (Chapters 2 and 10). Sanskrit does not merely have a loose inventory of verbal bases. It has semantic atoms that preserve identity through bonding and generate vocabulary through rule-defined combination.
 
 Third: the sound-to-meaning rule system (Chapters 11 and 12): *saṃdhi*, *gaṇa* organization, affixation, metrical constraint, and the generative architecture the *Aṣṭādhyāyī* compresses.
 
@@ -79,7 +79,7 @@ The genealogical project does not fail because it needs a small correction. It f
 
 The progressive dogma has treated the genealogical model as the default and the engineered Sanskrit thesis as the claim needing proof. That default is unearned.
 
-One assumption supports the default: Sanskrit is the same kind of object as other natural languages in a descent tree. Once that assumption fails, the default fails with it. The preceding evidence shows why it fails. Sanskrit is not merely inherited speech. It is engineered speech, preserved speech, decoded speech, and rule-governed speech.
+One assumption supports the default: Sanskrit is the same kind of object as other natural languages in a descent tree. Once that assumption fails, the default fails with it. The preceding evidence shows why it fails. Sanskrit is not merely inherited speech. It is engineered speech, preserved speech, decoded speech, and rule-defined speech.
 
 Until the precursor model can account for Sanskrit's sound-to-*dhātu* architecture, preservation system, retroflex core, and formal grammar, it remains an external genealogy, not an internal explanation and the default changes.
 

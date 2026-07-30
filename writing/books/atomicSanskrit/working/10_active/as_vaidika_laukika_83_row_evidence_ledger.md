@@ -191,7 +191,7 @@ No duplicate ID, missing ID, or numbering gap was found.
 | NU-04 | Whitney §483 gives *aṣṭa, aṣṭā,* and *aṣṭau*, with *aṣṭau* most usual in the RV. | Exact comparison passages and local contributions remain open. | G/O |
 | NU-05 | Whitney §486c gives *pañca kṛṣṭiṣu* and *sapta ṛṣīṇām*. | RV 2.2.10c verifies *pañca kṛṣṭiṣu*: the numeral remains uninflected while the locative relation appears on *kṛṣṭiṣu*. **SEM** and **REL** are supported. The second example remains open. | G/P/F/O |
 | NU-06 | Whitney §486c gives *sahasram ṛṣibhiḥ* and *śatam pūrbhiḥ*. | RV 8.3.4a verifies *sahasram ṛṣibhiḥ*; RV 6.48.8c verifies *śatam pūrbhiḥ*. In each, the collective numeral remains uninflected while the associated noun carries the instrumental relation. **SEM** and **REL** are supported. | G/P/F |
-| NU-07 | Whitney §483a documents governed pitch before **-bhiḥ, -bhyaḥ, -su, -nām**. | Accent behavior is verified at the paradigm level; an exact passage should show it audibly. | G/F/O |
+| NU-07 | Whitney §483a documents specified pitch before **-bhiḥ, -bhyaḥ, -su, -nām**. | Accent behavior is verified at the paradigm level; an exact passage should show it audibly. | G/F/O |
 
 ### Accent and Recitation
 

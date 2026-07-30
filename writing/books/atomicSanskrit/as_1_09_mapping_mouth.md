@@ -74,7 +74,7 @@ Sanskrit's old terminology still feels modern because it captures the operating 
 
 The field first appears in zones. Tamil, Toda, and Kurukh together light 20 of the 23 Sanskrit base coordinates. Korku, Mundari, and Ho light 18 of 23.[NOTE: inventory-atlas-coverage-surveys] The remaining gaps are mostly near-neighbors: laterals, sibilants, and precise placements inside active mouth-zones.
 
-The next step is the snap to grid. The mouth remains continuous; the inventory becomes discrete. Sanskrit chooses exact stations and makes them teachable, repeatable, and stable.
+The next step is the snap to grid. The mouth remains continuous; the inventory becomes discrete. Sanskrit chooses exact stations and makes them teachable, repeatable, and stable. This addressed grid is Sanskrit's ***व्यञ्जन (*vyañjana*) coordinate system***: each consonant receives its position through place and manner.
 
 ![Figure 9.3 — Sanskrit Extracted: The Sonomer Grid. The selected Sanskrit inventory viewed as an address space across place and manner. Appendix Part 3 §3.8 gives the comparative matrix from which this Sanskrit-only view is extracted.](figures/audiography/sanskrit_extracted_sonomer_grid.svg){#fig:ch9-sanskrit-extracted-sonomer-grid width=100%}
 
@@ -152,7 +152,7 @@ Mahāprāṇa is a structural feature, and it displays the design requirement th
 
 Sanskrit's treatment of *visarga* also expresses its wider discipline of breath. Recitation trains *prāṇa*, sound gives it measure, and grammatical rules specify how its release changes at a boundary.[NOTE: mishra-breath-pedagogy]
 
-The breath-axis continues beyond the stop matrix into boundary sounds. The most familiar are **अनुस्वार (*anusvāra*)** and **विसर्ग (*visarga*)**. The *anusvāra* indicates nasal resonance that points toward the following sound. In careful analysis, it is a shorthand for nasal behavior governed by the next contact. The *visarga* is a release of breath after a vowel, often shaped by what follows.[NOTE: sandhi-anusvara-assimilation]
+The breath-axis continues beyond the stop matrix into boundary sounds. The most familiar are **अनुस्वार (*anusvāra*)** and **विसर्ग (*visarga*)**. The *anusvāra* indicates nasal resonance that points toward the following sound. In careful analysis, it is a shorthand for nasal behavior specified by the next contact. The *visarga* is a release of breath after a vowel, often shaped by what follows.[NOTE: sandhi-anusvara-assimilation]
 
 These sounds sit at the edge of ordinary combination. The old category name **अयोगवाह (*ayogavāha*)** captures the idea: that which bears without joining in the ordinary way.
 
@@ -160,7 +160,7 @@ A word such as **सिन्धुः (*sindhuḥ*)** ends with a breath-releas
 
 The boundary sounds show the same discipline as the matrix. Sanskrit labels them, trains them, and gives them rules.
 
-## 9.6 Nuclei, Contacts, and the Measure
+## 9.6 Nuclei, Contacts, and Timing
 
 The selected sonomer becomes stable when it is formed as an **अक्षरम् (*akṣaram*)**.
 
@@ -172,7 +172,7 @@ An *akṣara* is vowel-centered. One vowel nucleus centers the unit. Consonants 
 
 The *varṇamālā* is spatial and temporal. The spatial grid tells the body where and how to make contact. The timing grid tells the reciter how long the sound lasts. The unit is the **मात्रा (*mātrā*)**, the measure.
 
-| Sonomer type | Sanskrit term | Duration | Work |
+| Sonomer type | Sanskrit term | Duration | Role |
 |---|---|---:|---|
 | Consonant | **व्यञ्जनम् (*vyañjanam*)** | 1/2 *mātrā* | contact, edge, bond |
 | Short vowel | **ह्रस्व स्वर (*hrasva svara*)** | 1 *mātrā* | ordinary nucleus |
@@ -183,44 +183,96 @@ Sanskrit measures the duration of every sound through the *mātrā*, and Vedic r
 
 The Vedas also preserve an ingeniously mathematical, highly rigorous, and deterministic pitch system: **उदात्त (*udātta*)**, **अनुदात्त (*anudātta*)**, and **स्वरित (*svarita*)**.[NOTE: vedic-svara-system] Given the complete word formation, syntax, sentence position, and applicable Vedic rules, the required pitch pattern follows systematically. Duration measures how long a sound-particle lasts. Pitch adds an audible interpretive layer. Its placement follows grammatical rules involving words, affixes, verbal forms, sentence position, and syntax, so a listener can hear distinctions that disappear when the same passage is recited or printed without its *svara*.
 
-The visible script belongs to *lipi*. The deeper structure belongs to sound. Appendix Part 3 develops the script argument in full: Indic writing is audiographic because it makes the sonomer visible. Sanskrit first selects the sonomer; then the script can show it.
+The visible script belongs to *lipi*. The deeper structure belongs to sound. Appendix Part 3 develops the script argument in full: Indic writing is audiographic because it makes the sonomer visible. Sanskrit first selects the sonomer; then the script visually represents that sound.
 
-## 9.7 The Sound Volume
+## 9.7 The Svara Coordinate System
+
+The *vyañjana* coordinate system assigns consonants positions across place and manner. The ***स्वर (*svara*) coordinate system*** uses vowel family, duration, pitch, and nasality as its axes.
+
+Most students first meet the Sanskrit vowels as a row of fourteen written forms:
+
+> **अ आ इ ई उ ऊ ऋ ॠ ऌ ॡ ए ऐ ओ औ**
+
+That row is useful for learning a script and building a *bārahkhaḍī*, but it does not reveal the complete sound architecture. Sanskrit's internal analysis begins with nine ***स्वर-वर्णाः (*svara-varṇāḥ*)***, or vowel families:
+
+> **अ इ उ ऋ ऌ ए ऐ ओ औ**
+
+Within the first four families, duration produces a regular relation. **अ/आ, इ/ई, उ/ऊ,** and **ऋ/ॠ** are the one-*mātrā* and two-*mātrā* members of their respective families. The **ऌ** family has a one-*mātrā* form and allows *pluta* under the wider analytical system, but it has no regularly used two-*mātrā* member. The written **ॡ** completes some teaching rows, yet no ordinary Vedic passage or *laukika* word using it has been found. The remaining four families, **ए, ऐ, ओ,** and **औ**, use two *mātrās* in the general Sanskrit inventory and can also be prolonged as *pluta*.
+
+| Svara family | One *mātrā* | Two *mātrās* | Three *mātrās* |
+|---|---:|---:|---:|
+| **अ** | अ | आ | अ३ · Restricted |
+| **इ** | इ | ई | इ३ · Restricted |
+| **उ** | उ | ऊ | उ३ · Restricted |
+| **ऋ** | ऋ | ॠ | ऋ३ · Restricted |
+| **ऌ** | ऌ | ॡ · Excluded | ऌ३ · Restricted |
+| **ए** | half-ए · Lineage-Bounded | ए | ए३ · Restricted |
+| **ऐ** | Excluded | ऐ | ऐ३ · Restricted |
+| **ओ** | half-ओ · Lineage-Bounded | ओ | ओ३ · Restricted |
+| **औ** | Excluded | औ | औ३ · Restricted |
+
+The numeral **३** tells the reciter to sustain the vowel for three *mātrās*. Thus **ओ३** is **ओ** extended to three counts. These *pluta* forms are Restricted because Sanskrit uses the additional duration only under stated conditions; the notation does not create another vowel family.
+
+The Lineage-Bounded half-**ए** and half-**ओ** require a different explanation. The Mahābhāṣya records them in the Sātyamugri and Rāṇāyanīya lineages of the Sāmaveda. The sounds were therefore known and preserved where those lineages required them, but Sanskrit did not turn their use into vowel coordinates available for new *laukika* composition.[NOTE: vedic-half-e-half-o]
+
+## 9.8 Duration, Pitch, and Nasality
+
+The nine families describe vowel identity. Sanskrit then analyzes how long the vowel lasts, how its pitch moves, and whether the sound passes through the nose. A vowel can bear ***उदात्त (*udātta*), अनुदात्त (*anudātta*),*** or ***स्वरित (*svarita*)*** pitch, and it can be oral or ***अनुनासिक (*anunāsika*)***. Each available duration therefore has six analytical forms:
+
+> **3 pitch relations × 2 nasal states = 6**
+
+The **अ, इ, उ,** and **ऋ** families each have three durations, giving eighteen forms per family. The **ऌ** family lacks the regular two-*mātrā* member, while **ए, ऐ, ओ,** and **औ** lack a generally reusable one-*mātrā* member. Each of those five families therefore has twelve:
+
+> **4 × 18 + 5 × 12 = 132**
+
+*Atomic Sanskrit* derives this total by bringing the inherited components into one matrix. The total maps the forms that Sanskrit's analysis can distinguish. Sanskrit does not have 132 written vowels, and the count does not imply that every combination occurs in a received Vedic passage. It shows that vowel identity, duration, pitch, and nasality remain separate. A single vowel family can therefore carry several kinds of audible information without requiring a new written symbol for each combination.[NOTE: svara-nine-families-132]
+
+Figure 9.5 makes the calculation visible. Each principal square divides into an oral and a nasal half. A check marks a form selected by the architecture, while a cross marks an Excluded position.
+
+![Figure 9.5 — The Svara Form Matrix. Nine vowel families cross three durations, three pitch relations, and two nasal states. The matrix contains 162 possible half-cells; Sanskrit selects 132 and excludes thirty. The three-*mātrā pluta* group remains Restricted, while the lineage-bounded half-ए and half-ओ remain outside the regular matrix.](figures/mapping_mouth/svara_form_matrix.svg){#fig:ch9-svara-form-matrix width=100%}
+
+Pitch does not create the excluded duration positions in the table. It operates across the durations that a family already permits. A short vowel can bear *svarita*; a *svarita* does not need two *mātrās*. Similarly, *pluta* extends duration without becoming another vowel family. Ṛgveda 10.129.5 makes the distinction audible through **आसी३त् (*āsī3t*)**, where the numeral marks the three-*mātrā* duration selected by the passage.[NOTE: vedic-pluta-rv-10-129-5]
+
+## 9.9 The Sound Volume
 
 Once the consonant grid and the vowel measures are visible, the inventory opens into a volume.
 
 The sound plane crosses five mouth stations with seven consonant rows, creating thirty-five possible coordinates. Sanskrit uses thirty-three of them for independent consonants: twenty-five *sparśa*, four *antaḥstha*, and four *ūṣman*. The remaining two coordinates allow us to ask what sounds the mouth could place there, and why Sanskrit gives those sounds a different architectural role.
 
-The 14 vowels attach as the third dimension:
+The familiar fourteen-form teaching row supplies the third dimension of the formal classroom grid:
 
 > 5 × 7 × 14 = 490 possible consonant-vowel addresses
 
-Two coordinates outside the independent inventory extend through all 14 vowel positions, leaving 462 occupied consonant-vowel addresses. A *bārahkhaḍī*-style teaching row is one fiber of this volume unrolled for the classroom: क, का, कि, की, कु, कू, कृ, कॄ, कॢ, कॣ, के, कै, को, कौ.
+Two coordinates outside the independent consonant inventory extend through those fourteen written positions, leaving 462 formal consonant-vowel addresses. A *bārahkhaḍī*-style teaching row is one fiber of this volume unrolled for the classroom: क, का, कि, की, कु, कू, कृ, कॄ, कॢ, कॣ, के, कै, को, कौ. This is a map of the complete teaching surface, not a claim that all fourteen forms occur equally often or have the same operational status.
 
-![Figure 9.5 — The Sound Volume. Markers 1 and 2 identify the two open consonant coordinates. *Upadhmānīya* remains outside the independent plane as a contextual output. The lit क fiber unrolls one consonant through the vowel axis, making *mātrā* visible as width.](figures/mapping_mouth/sound_volume.svg){#fig:ch9-sound-volume width=98%}
+![Figure 9.6 — The Sound Volume. Markers 1 and 2 identify the two consonant coordinates excluded from the independent inventory. *Upadhmānīya* remains outside the independent plane as a contextual output. The lit क fiber unrolls one consonant through the vowel axis, making *mātrā* visible as width.](figures/mapping_mouth/sound_volume.svg){#fig:ch9-sound-volume width=98%}
 
 The figure makes the multiplication visible without making the argument mathematical. Sanskrit gives each selected part a place, a role, and a timed path through combination.
 
-## 9.8 What Earns a Coordinate
+## 9.10 What Earns a Coordinate
 
-### The Two Open Positions
+### The Two Excluded Positions
 
-Figure 9.5 contains two open coordinates in the *varṇamālā* grid. Both positions correspond to sounds that a human mouth can make. Why does Sanskrit leave them open?
+Figure 9.6 contains two coordinates that Sanskrit excludes from the independent *varṇamālā* grid. Both positions correspond to sounds that a human mouth can make. Why does Sanskrit exclude them?
 
 The first coordinate lies at the back of the mouth in the *antaḥstha* row. Modern phonetics writes the sound as **[ɰ]**, the voiced velar approximant. To approach it, begin with the voiced friction of **ग़ [ɣ]**, loosen the contact until the friction disappears, and keep the voice running. The resulting sound comes from the throat region, without the lip movement of English *w*. Sanskrit does not promote this consonant to a sonomer.
 
 The second lies at the lips in the *ūṣman* row. Start with the **[f]** that begins the English words *phone*, *front*, and *fast*, made by bringing the lower lip toward the upper teeth. Then remove the teeth from that operation and continue the friction between the two lips: the result approaches **[ɸ]**, the voiceless bilabial fricative. Sanskrit does not promote this consonant to a sonomer either.
 
-### Four Tests for a Sonomer
+### The PASS Test for a Sonomer
 
 For a sound to be promoted to a sonomer and assigned a coordinate in the *varṇamālā*, it must satisfy these four requirements:
 
 1. The mouth must produce it reliably.
-2. It must bond with all fourteen *svaras* to form a stable, pronounceable series of *akṣaras*.
+2. It must support the complete vowel teaching series as stable, pronounceable *akṣaras*.
 3. It must distinguish forms independently rather than arise only under a stated condition.
 4. It must complete a recurring operation within Sanskrit's architecture.
 
-Both candidates are pronounceable, and the mouth can combine each with all fourteen *svaras*. Architecture decides whether those combinations form a stable series of *akṣaras*, whether the sounds distinguish forms independently, and whether they complete a recurring operation within Sanskrit.
+Both candidates are pronounceable, and the mouth can place each before the complete teaching series. Formal pronounceability is only the beginning. The remaining tests establish whether those combinations remain distinguishable in repeated use and whether the candidate completes a recurring operation within Sanskrit.
+
+These four tests apply a principle that appears throughout Sanskrit's architecture: the ***Principle of Architectural Selection and Scope (PASS)***. The analysis begins with **contribution**: what would the proposed sound, form, or operation add? It then examines **load**: what duplication, collision, or instability would accompany that addition? A fixed passage, a stated junction, pitch, or another part of the architecture may provide **bounding support** that contains the load. The final step identifies the appropriate **scope**. A resource may belong to the reusable architecture, operate only under a stated condition, remain available across the Vedic domain, belong to a named Vedic lineage, or remain excluded as an independent coordinate.[NOTE: pass-selection-scope-principle]
+
+![Figure 9.7 — The Principle of Architectural Selection and Scope. The four-part analysis compares contribution with load, identifies any support that can contain the load, and establishes the appropriate scope. The two sound pairs show why physical possibility alone does not earn an independent sonomer coordinate.](figures/calibration/pass_selection_and_scope.svg){#fig:ch9-pass-selection-and-scope width=100%}
 
 ### Why [ɰ] Stays Outside
 
@@ -244,7 +296,11 @@ Modern phonetics associates **[ɰ]** with the close back unrounded vowel **[ɯ]*
 
 > **[ɯ] + [a] → [ɰa]**
 
-Sanskrit has no **[ɯ]** vowel from which that movement could begin. Its *kaṇṭhya* vowel is **अ (*a*)**, and Sanskrit gives **अ** a distinctive treatment. In ordinary pronunciation, short **अ** is described as **संवृत (*saṃvṛta*)**, contracted, while **आ (*ā*)** is **विवृत (*vivṛta*)**, open. The inventory contains no separate long *saṃvṛta* vowel. When two eligible instances of **अ** meet, the operation produces **आ**:
+Sanskrit has no **[ɯ]** vowel from which that movement could begin. Its *kaṇṭhya* vowel is **अ (*a*)**, and Sanskrit gives **अ** a distinctive treatment. In ordinary pronunciation, short **अ** is described as **संवृत (*saṃvṛta*)**, contracted, while **आ (*ā*)** is **विवृत (*vivṛta*)**, open. The inventory contains no separate long *saṃvṛta* vowel.
+
+Neither excluded sound is imaginary. In ordinary Marathi pronunciation of **पोळपाट लाटणं**, the written **आ** in **पाट** and **लाट** lasts roughly one *mātrā*, producing the short open **[a]**. Hold the contracted **अ** for two *mātrās* — written here only as **अऽ** — and the other excluded sound, **[ɐː]**, becomes equally easy to hear. Sanskrit's architecture deliberately excludes both from its reusable vowel grid.
+
+When two eligible instances of **अ** meet, the operation produces **आ**:
 
 > **अ + अ → आ — *a + a → ā***
 
@@ -252,17 +308,41 @@ The Pāṇinian explanatory lineage makes the coordination explicit. For grammat
 
 ### Why [ɸ] Stays at the Boundary
 
-The labial opening reaches the same decision by another route. **फ [pʰ]** and **[ɸ]** can sound close because both release breath at the lips, although the mouth produces them differently. **फ** closes the lips for **प [p]** and releases *mahāprāṇa* when they open; **[ɸ]** keeps the lips slightly apart and sustains friction between them. The complete stop series requires **फ**, which can combine productively with the vowels and build atoms and words.
+The labial opening reaches the same decision by another route. **फ [pʰ]** and **[ɸ]** can sound close because both release breath at the lips, although the mouth produces them differently. **फ** closes the lips for **प [p]** and releases *mahāprāṇa* when they open; **[ɸ]** keeps the lips slightly apart and sustains friction between them. The complete stop series requires **फ**, which can combine with the vowels and build atoms and words.
 
 The Vedic transmission also preserves the [ɸ]-like articulation. At the opening of Ṛgveda 1.1.2, **अग्निः पूर्वेभिर् (*agniḥ pūrvebhir*)**, the breath of the *visarga* moves into the following **प** and may be shaped at the lips into the sound written **ᳶ**: **अग्निᳶ पूर्वेभिर्**. The Vedic phonetic disciplines call this ***उपध्मानीय (*upadhmānīya*)***, and Pāṇini later documented its occurrence in *Aṣṭādhyāyī* 8.3.37. Sanskrit therefore preserves [ɸ]-like articulation when a stated junction produces it, while the reusable grid snaps the labial breath-field to **फ** rather than establishing another nearly adjacent consonant.
 
-The checked inventories of Korku, Mundari, Ho, Tamil, Telugu, and Kannada strengthen both findings. These languages contain neither **[ɰ]** nor **[ɸ]** as an independent consonant, even though their speakers can learn such sounds. Chapter 8 surveyed this central and southern sound-field in greater detail. The comparison cannot tell us who selected the Sanskrit inventory or when, but it shows that the two open coordinates do not correspond to recurring independent sounds across the field from which Sanskrit's architecture draws.
+The checked inventories of Korku, Mundari, Ho, Tamil, Telugu, and Kannada strengthen both findings. These languages contain neither **[ɰ]** nor **[ɸ]** as an independent consonant, even though their speakers can learn such sounds. Chapter 8 surveyed this central and southern sound-field in greater detail. The comparison cannot tell us who selected the Sanskrit inventory or when, but it shows that the two excluded coordinates do not correspond to recurring independent sounds across the field from which Sanskrit's architecture draws.
+
+### What the Vowel Row Excludes
+
+The same principle explains why the familiar vowel row contains several apparent gaps.
+
+Short **ए** and **ओ** are physically possible. Tamil, Telugu, Kannada, Korku, Mundari, and Ho use short *e* or *o*, and the Mahābhāṣya records bounded half-*e* and half-*o* in two Sāmavedic lineages. Sanskrit therefore knew the sounds.
+
+In the general inventory, Sanskrit already uses **इ** or **उ** whenever an operation requires a short substitute for **ए/ऐ** or **ओ/औ**. Adding short **ए/ओ** would have given every speaker two more distinctions to learn and preserve without adding a new operation. The Sāmavedic readings serve an exact recitational purpose inside their inherited passages. That contribution, together with the fixed support of their named lineages, gives the sounds Lineage-Bounded scope.
+
+The **ऌ** family presents a different case. Sanskrit analyzes short **ऌ** and permits *pluta* where duration must be prolonged, but ordinary Sanskrit does not use a two-*mātrā* member. The teaching symbol **ॡ** displays the formal position in a complete written row. Its presence in that row does not make it a reusable sound coordinate in Vedic or *laukika* composition.
+
+The **अ/आ** family shows the most distinctive selection. Short **अ** is described as ***संवृत (*saṃvṛta*)***, contracted, while **आ** is ***विवृत (*vivṛta*)***, open. Sanskrit nevertheless treats them as members of one operational family. Ṛgveda 10.129.1 makes that operation visible: the separated **न । असत् (*na | asat*)** of the *padapāṭha* becomes **नासद् (*nāsad*)** in the connected recitation.
+
+> **अ + अ → आ — *a + a → ā***
+
+Sanskrit selects one-*mātrā saṃvṛta* **अ** and two-*mātrā vivṛta* **आ**. That selection excludes two inverse possibilities: a two-*mātrā saṃvṛta avarṇa* that sustains the contracted quality of **अ**, and a one-*mātrā vivṛta avarṇa* that preserves the open quality associated with **आ**. The second possibility should not be called "short **आ**," because **आ** names the selected two-*mātrā* member. Both are physically possible vowel qualities; neither receives an independent reusable Sanskrit coordinate.
+
+Figure 9.8 brings these decisions together. Sanskrit selects a particular pairing of vowel quality and duration for **अ/आ, ए,** and **ओ**. It excludes the inverse **अ/आ** pair and the generally reusable one-*mātrā* **ए/ओ** forms.
+
+![Figure 9.8 — Selected and Excluded Vowel Forms. Sanskrit selects one-*mātrā saṃvṛta* अ, two-*mātrā vivṛta* आ, and the ordinary two-*mātrā* ए and ओ. Their inverse or shortened positions remain Excluded from general reuse. Half-ए and half-ओ survive only as Lineage-Bounded Sāmavedic forms.](figures/mapping_mouth/svara_selected_excluded_forms.svg){#fig:ch9-svara-selected-excluded-forms width=100%}
+
+The analytical disciplines preserve the actual difference between spoken **अ** and **आ** while treating them as one family where an operation requires that relationship. The commentarial lineage later explains that short **अ** is treated as *vivṛta* while the operation runs and restored to *saṃvṛta* in finished pronunciation.[NOTE: svara-avarna-operation]
+
+These cases reveal five scope judgments. **Included** forms belong to Sanskrit's reusable architecture. **Restricted** forms appear only under stated conditions. **Vaidika** forms are used across the Vedic domain, while **Lineage-Bounded** forms belong to named Vedic lineages. **Excluded** sounds or durations receive no independent coordinate. Ordinary two-*mātrā* **ए/ओ** are Included; half-**ए/ओ** are Lineage-Bounded; *pluta* is Restricted; and a sustained contracted **अ**, a one-*mātrā vivṛta avarṇa*, and an ordinary two-*mātrā* **ऌ** are Excluded.
 
 ### The Vaidika and Laukika Division of Work
 
 Ṛgvedic **ळ [ɭ]** supplies the control. Sanskrit unquestionably uses the sound: the first mantra begins **अग्निमीळे (*agnim īḷe*)**. The *Ṛgveda-Prātiśākhya* explains that intervocalic **ड** becomes **ळ**, and that the corresponding **ढ** becomes **ळ्ह**. Vedic transmission preserves the resulting sound exactly, while the *varṇamālā* grid neither promotes it to a sonomer nor assigns it an independent coordinate.[NOTE: agnimile-rigveda-opening] Other Indian languages can assign **ळ** an independent and productive role; the anatomy is available, but the architecture determines whether the sound participates as a sonomer.
 
-By preserving Ṛgvedic **ळ** and *upadhmānīya* under the conditions that produce them, the *vaidika* domain keeps every sound-form required by the mantra. The *laukika* domain must also keep the language generative, so its grid is built from sonomers that remain independently reusable across new formations. The shared architecture therefore gives each sound a defined role, placing it inside the reusable grid or preserving it at a governed boundary.
+By preserving Ṛgvedic **ळ** and *upadhmānīya* under the conditions that produce them, the *vaidika* domain keeps every sound-form required by the mantra. The *laukika* domain must also keep the language generative, so its grid is built from sonomers that remain independently reusable across new formations. The shared architecture therefore gives each sound a defined role, placing it inside the reusable grid or preserving it at a restricted boundary.
 
 The pyramid recasts this division of work as linguistic drift from *"Vedic"* to *"Classical."* The sound architecture shows *vaidika* and *laukika* operating concurrently as two engineering domains.
 
@@ -270,17 +350,17 @@ Appendix Part 8 follows the same division through case forms, verbal forms, *upa
 
 This is engineering by exclusion.
 
-## 9.9 Engineered Margin
+## 9.11 Engineered Margin
 
 The human mouth can produce many sounds beyond the Sanskrit sonomer grid. Tamil uses an alveolar contact between the dental and retroflex stations. Sindhi uses implosives. Korku, Mundari, and Ho preserve checked or glottalized articulations in parts of their sound-systems, while contact has brought labiodental **[f]** into many modern Indian vocabularies. Human languages elsewhere use uvulars, pharyngeals, ejectives, clicks, and lateral fricatives.[NOTE: tamil-alveolar-trill][NOTE: sindhi-implosives-inventory][NOTE: ho-mundari-checked-consonants][NOTE: urdu-persian-arabic-loan-phonemes]
 
 Each additional independent consonant would extend through the vowel axis and create another series of *akṣaras*. It would then have to remain distinguishable in recitation, available for combination, and stable enough to survive transmission. The cost of a coordinate therefore reaches far beyond one extra sound.
 
-Sanskrit assigns some articulations to governed environments, as it does with *upadhmānīya* and Ṛgvedic **ळ**. Other articulations remain available to the surrounding natural languages, whose sound inventories can change with use and contact. Borrowed words may bring a new sound into everyday speech without retroactively adding that sound to the Sanskrit grid.
+Sanskrit assigns some articulations to stated environments, as it does with *upadhmānīya* and Ṛgvedic **ळ**. Other articulations remain available to the surrounding natural languages, whose sound inventories can change with use and contact. Borrowed words may bring a new sound into everyday speech without retroactively adding that sound to the Sanskrit grid.
 
 The *varṇamālā* is a selected inventory with a protected margin. Its restraint keeps every coordinate audible, teachable, and reusable.
 
-## 9.10 Varṇa Is Not Letter
+## 9.12 Varṇa Is Not Letter
 
 Readers often call the members of the *varṇamālā* letters because they are first introduced on a page. A written letter, however, is a visible mark or glyph. A *varṇa* is an action of the body with a defined *sthāna*, *prayatna*, voice, breath, nasal setting, and duration in *mātrā*. The measured sound exists before any script represents it with a glyph.
 
@@ -290,11 +370,11 @@ The sound-grid therefore comes first. The sound is the cause. A script gives tha
 
 When the pyramid files the architecture under its interface and calls it an alphabet, *varṇa* becomes “letter,” *akṣara* becomes “syllable-sign,” and the sonomeric grid becomes an ABC. The written marks remain visible while the physical order beneath disappears from view. The interface eclipses the architecture.
 
-## 9.11 The Grid Orders the Garland
+## 9.13 The Grid Orders the Garland
 
 The *varṇamālā* selects the sonomers, the *akṣara* stabilizes them, and the *mātrā* measures them. The sound volume shows how those axes multiply, preparing the system to build atoms.
 
-The *varṇamālā* is upstream of the rule-system that indexes it. The **माहेश्वरसूत्राणि (*Māheśvara-sūtrāṇi*)** rearrange an inventory already standing into an operating index for grammar.[NOTE: pre-panini-pratisakhya-classification] The pyramid later reverses that order by presenting Pāṇini as the origin of the architecture he decoded and indexed.
+The *varṇamālā* comes before the rule-system that indexes it. The **माहेश्वरसूत्राणि (*Māheśvara-sūtrāṇi*)** rearrange an inventory already standing into an operating index for grammar.[NOTE: pre-panini-pratisakhya-classification] The pyramid later reverses that order by presenting Pāṇini as the origin of the architecture he decoded and indexed.
 
 The next step depends on the consonant's half-*mātrā*.[NOTE: vyanjana-duration-shiksha] A *dhātuḥ* such as **⟪गम्⟫ (*gam*)** is more precise than "CVC": it is 1/2 + 1 + 1/2. **⟪भू⟫ (*bhū*)** is 1/2 + 2. **⟪दृश्⟫ (*dṛś*)** is 1/2 + 1 + 1/2. Before the atom has semantic behavior, it already has a timing envelope.
 
@@ -311,7 +391,7 @@ At this scale, the *varṇamālā* is the first visible Sanskritic specification
 
 The *varṇamālā* is the sonomeric sūtra. Pāṇini's Māheśvara-sūtras make that fact explicit for grammar, but the selected sound-inventory already displays the discipline. It is small, ordered, recoverable, and powerful.
 
-The Vedic mantra describes the operation: Speech is sifted like grain. The field is abundant; the sieve curates usable measure from abundance. The *varṇamālā* is that measure in sound: compact, ordered, body-mapped, timed, teachable, and stable.
+The Vedic mantra describes the operation: Speech is sifted like grain. The field is abundant; the sieve selects usable sonomers from that abundance. The *varṇamālā* arranges the selected sounds into a compact, ordered, body-mapped, timed, teachable, and stable architecture.
 
 The next mantra goes on from selection to transmission:
 

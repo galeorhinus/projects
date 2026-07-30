@@ -124,6 +124,10 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 **Book-coined English, repurposed engineering vocabulary.** Calibrant: a reference standard whose stability allows other measurements to be made against it. Sanskrit functions as the linguistic calibrant for the subcontinental sound-field and the Indic civilizational continuum. The *calibration matrix* denotes the architecture that preserves the calibration across generations (Chapters 13–15).
 
+### **PASS — Principle of Architectural Selection and Scope**
+
+**Book-coined English.** The analytical principle used to explain why Sanskrit gives a sound, form, or operation one scope rather than another. The analysis identifies the resource's **contribution**, the **load** created by duplication or collision, and the **bounding support** that can contain that load. It then identifies the appropriate **scope**: Included in the reusable architecture, Restricted to a stated condition, Vaidika, Lineage-Bounded, or Excluded from independent use. Chapter 9 introduces PASS through the sonomer grid; Chapter 16 applies it to the two Sanskrit domains; Appendix Part 8 preserves the technical profiles.
+
 ### **calibrand**
 
 **Book-coined English, sibling to *calibrant*.** *That which is calibrated* — formed like *operand*, *multiplicand*, *analysand*: the thing acted upon. Where *calibrant* designates Sanskrit as the engineered standard, **calibrand** designates a language restructured toward it through **calibrant contact** (Chapter 19 §19.7). The calibrand languages are the set the philological machinery — treating their shared reflections as common descent — classifies as the *"Indo-European"* and *"Indo-Iranian"* families; each calibrand instead preserves a *Pratibimba* (reflection) of the calibrant, not a fragment of a vanished ancestor. The term replaces a geography-plus-family-tree label with one that encodes the relation: a reflection of a standard, not descended from a parent.

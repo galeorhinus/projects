@@ -138,7 +138,7 @@ The lineage uses these operations for Sanskrit word-analysis. The **Sanskrit Rad
 
 The Veda displays **युञ्जन्ति (*yuñjanti*, "they yoke")** in Ṛgveda 1.6.1, **युगा (*yugā*, "the yokes")** in 10.101.3, and **युक्त (*yukta*, "yoked")** in 10.102.9. Pāṇini later documents the coordinate relations through **चोः कुः (*coḥ kuḥ*, 8.2.30)** and **खरि च (*khari ca*, 8.4.55)**. Under their specified Sanskrit conditions, **तालव्य ज (*tālavya j*, palatal and voiced)** moves to **कण्ठ्य ग (*kaṇṭhya g*, velar and voiced)**, and that voiced velar can move to **कण्ठ्य क**, its voiceless neighbor.[NOTE: yuj-bhr-radiance-method]
 
-The vowels can be read separately. Sanskrit **युज्, युग,** and **युक्त** use **उ**, while **योग** displays the governed *guṇa* relation **उ → ओ**. Latin and Gothic preserve **u**; English *yoke* uses **o**; and the Greek vowels require their own historical analysis. The meaning remains joining or yoking throughout the comparison. Sanskrit therefore supplies the recorded atom, the generated family, the anatomical sound-map, and the semantic architecture that the starred PIE image claims to precede.
+The vowels can be read separately. Sanskrit **युज्, युग,** and **युक्त** use **उ**, while **योग** displays the specified *guṇa* relation **उ → ओ**. Latin and Gothic preserve **u**; English *yoke* uses **o**; and the Greek vowels require their own historical analysis. The meaning remains joining or yoking throughout the comparison. Sanskrit therefore supplies the recorded atom, the generated family, the anatomical sound-map, and the semantic architecture that the starred PIE image claims to precede.
 
 ### Case 2 — ⟪भृ⟫ (*bhṛ*), to bear, carry, or sustain
 

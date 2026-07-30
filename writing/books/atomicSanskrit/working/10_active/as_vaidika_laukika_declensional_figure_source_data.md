@@ -135,7 +135,7 @@ codes, but the publication figure must not print them yet.
 | NU-04 | FORM · OPEN | 1:2:3 across six tokens | — | Retain the three-form range and print each count. |
 | NU-05 | FORM · PASSAGE · FUNCTION · OPEN | N/A · checked example | SEM · REL | Use ***पञ्च कृष्टिषु (*pañca kṛṣṭiṣu*)***; the second grammar example remains open. |
 | NU-06 | FORM · PASSAGE · FUNCTION | N/A · two checked examples | SEM · REL | Use ***सहस्रम् ऋषिभिः*** and ***शतम् पूर्भिः***. |
-| NU-07 | FORM · FUNCTION · PASSAGE OPEN | N/A | SVR · REL | The governed accent operation is documented; add an exact audible example later. |
+| NU-07 | FORM · FUNCTION · PASSAGE OPEN | N/A | SVR · REL | The specified accent operation is documented; add an exact audible example later. |
 
 ## Accent and Recitation
 

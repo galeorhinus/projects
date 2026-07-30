@@ -214,7 +214,7 @@ transmission**.”
 **Replacement:**
 
 > Appendix Part 8 explains why one Sanskrit architecture preserves these
-> governed Vedic roles while keeping laukika Sanskrit productive. The next
+> restricted Vedic roles while keeping laukika Sanskrit productive. The next
 > section stays with the evidence and compares this bounded variation with the
 > cascading changes of natural drift.
 

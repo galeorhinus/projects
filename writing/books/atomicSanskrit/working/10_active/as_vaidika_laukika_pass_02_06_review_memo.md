@@ -48,7 +48,7 @@ Ready for working prose:
 - Pāṇini's use of *chandasi* and *bhāṣāyām* scope markers;
 - Pāṇini 3.4.6-8 and 3.4.94-98 on *leṭ*;
 - Ṛgvedic **ळ** and the Ṛgveda-Prātiśākhya operation;
-- *upadhmānīya* as a governed contextual articulation;
+- *upadhmānīya* as a condition-generated articulation;
 - Vedic pitch accent;
 - shared grammatical architecture across the two domains.
 
@@ -87,7 +87,7 @@ The draft explains three cases in the body:
 ### Sound
 
 - Ṛgvedic **ईळे (*īḷe*)** shows a lineage-preserved realization.
-- **अग्निः पूर्वेभिर् / अग्निᳶ पूर्वेभिर्** shows a governed contextual
+- **अग्निः पूर्वेभिर् / अग्निᳶ पूर्वेभिर्** shows a condition-generated
   articulation that does not become an independent sonomer.
 
 ### Operators

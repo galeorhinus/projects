@@ -34,7 +34,7 @@ Every record begins with a Sanskrit atom from the *Dhātupāṭha*. It records:
 - its *Dhātupāṭha* number and listed semantic field;
 - relevant forms in the Vedic domain;
 - generated Sanskrit molecules;
-- governed alternations visible within Sanskrit; and
+- specified alternations visible within Sanskrit; and
 - later documentation by Pāṇini or another analyst.
 
 Vedic evidence comes before Pāṇini because the forms show that the architecture was already operating. Pāṇini documents and decodes that architecture; he does not create it.
@@ -59,10 +59,10 @@ This map makes a physical relation visible. For example, **ग (*g*)** and **क
 
 ### 3.4 Examine Vowels Separately
 
-Vowels require their own record. A consonant path cannot establish a vowel path, and Sanskrit's governed vowel relations do not automatically explain every foreign vowel. Each case must identify:
+Vowels require their own record. A consonant path cannot establish a vowel path, and Sanskrit's specified vowel relations do not automatically explain every foreign vowel. Each case must identify:
 
 - the Sanskrit vowels within the generated family;
-- any governed Sanskrit relation, such as *guṇa*;
+- any specified Sanskrit relation, such as *guṇa*;
 - the vowel in every receiving form;
 - historical changes documented within that receiving language; and
 - any point that remains unresolved.
@@ -149,7 +149,7 @@ Greek and Latin settle the final consonant at voiced **कण्ठ्य ग**.
 
 ### 5.4 Vowels and Meaning
 
-Sanskrit **युज्, युग,** and **युक्त** use **उ (*u*)**, while **योग (*yoga*)** displays the governed *guṇa* relation **उ → ओ (*u → o*)**. Latin and Gothic preserve **u**, English *yoke* uses **o**, and Greek **υ** requires its own historical analysis.
+Sanskrit **युज्, युग,** and **युक्त** use **उ (*u*)**, while **योग (*yoga*)** displays the specified *guṇa* relation **उ → ओ (*u → o*)**. Latin and Gothic preserve **u**, English *yoke* uses **o**, and Greek **υ** requires its own historical analysis.
 
 The meanings remain within joining and yoking. Sanskrit also generates *yoga*, joining or union, and *yuga*, a yoke or joined span that can extend to an age. The receiving forms preserve narrower developments from that semantic field.
 

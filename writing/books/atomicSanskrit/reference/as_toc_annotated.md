@@ -145,12 +145,14 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 9.3 Every Sound Has an Address — *The sonomer grid as place-and-manner address space.*
 - 9.4 The Control Panel — *The 5×5* sparśa *matrix as five stations crossed with breath, voice, and nasal control.*
 - 9.5 Breath as a Coordinate — *Mahāprāṇa *and* ayogavāha *as breath made structural.*
-- 9.6 Nuclei, Contacts, and the Measure — *The* akṣara *as vowel-centered assembly;* mātrā *as timed measure; the sonomer/audiograph distinction.*
-- 9.7 The Sound Volume — *The 5×7 consonant plane extruded through the 14-vowel axis.*
-- 9.8 What Earns a Coordinate — *The two addresses outside the independent inventory expose the distinction between surveyed material, governed outputs, and reusable sonomers.*
-- 9.9 Engineered Margin — *What Sanskrit leaves out as collision-avoidance and preservation margin.*
-- 9.10 Varṇa Is Not Letter — *The Alphabetic shadow lifted:* varṇa *is a measured sound-particle, the* varṇamālā *a sonomeric grid — not an alphabet of marks. The marks are downstream; the grid is the engineering.*
-- 9.11 The Grid Orders the Garland — *The close: addressed, role-assigned, timed sonomers become the parts Chapter 10 snaps into atoms.*
+- 9.6 Nuclei, Contacts, and Timing — *The* akṣara *as vowel-centered assembly;* mātrā *as timed duration; the sonomer/audiograph distinction.*
+- 9.7 The Svara Coordinate System — *The familiar fourteen-form teaching row separated from the nine-family vowel architecture.*
+- 9.8 Duration, Pitch, and Nasality — *Nine families unfold into 132 analytically distinguishable realizations without becoming 132 written vowels.*
+- 9.9 The Sound Volume — *The 5×7 consonant plane extruded through the formal 14-position teaching axis.*
+- 9.10 What Earns a Coordinate — *PASS distinguishes Included sonomers, Restricted outputs, Vaidika and Lineage-Bounded forms, and Excluded consonant and vowel coordinates.*
+- 9.11 Engineered Margin — *What Sanskrit leaves out as collision-avoidance and preservation margin.*
+- 9.12 Varṇa Is Not Letter — *The Alphabetic shadow lifted:* varṇa *is a measured sound-particle, the* varṇamālā *a sonomeric grid — not an alphabet of marks. The marks follow; the grid is the engineering.*
+- 9.13 The Grid Orders the Garland — *The close: addressed, role-assigned, timed sonomers become the parts Chapter 10 snaps into atoms.*
 
 ---
 

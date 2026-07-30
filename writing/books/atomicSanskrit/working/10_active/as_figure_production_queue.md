@@ -1,99 +1,237 @@
-# Atomic Sanskrit — Figure Production Queue
+# Atomic Sanskrit — Master Figure Plan and Production Queue
 
-Created 2026-05-31 during the Draft 2 structural-read cleanup. This file tracks reader-facing figure placeholders that still appear in the assembled manuscript.
+**Status:** canonical figure index
+**Last reconciled:** 2026-07-29
+**Live numbering authority:** the current manuscript files
 
-Validation command:
+This document is the single index for figures that are deployed, specified,
+planned, being revised, or still represented by placeholders. Detailed
+research and design specifications remain in their subject plans; this file
+links to them and records ownership, status, placement, reuse, and the next
+production action.
+
+The finishing plan points here as the canonical queue. Do not create another
+book-wide figure plan.
+
+## Status Key
+
+| Status | Meaning |
+|---|---|
+| **Deployed** | Asset is called from the live manuscript. |
+| **Revision** | Asset is deployed, but an identified change remains. |
+| **Placeholder** | Plain figure placeholder remains in the live manuscript. |
+| **Specified** | Detailed design specification exists; production has not begun. |
+| **Source-ready** | Evidence and figure copy are ready for design. |
+| **In design** | SVG, script, or design draft is being produced. |
+| **Merge** | Proposed figure should be absorbed into another figure. |
+| **Optional** | Produce only if layout or prose review shows a reader need. |
+| **Wishlist** | Non-blocking concept retained for a later visual pass. |
+| **Parked** | Valid concept without a current manuscript placement. |
+| **Cut** | Removed from the live manuscript; source may remain for reference. |
+
+## Production Rules
+
+1. The live manuscript controls chapter and appendix numbering.
+2. Use a working slug until placement is stable; assign the printed figure
+   number only when the asset enters the body.
+3. Keep detailed evidence in the source plan or ledger. This queue stores a
+   link and a production decision rather than duplicating that material.
+4. A manuscript file should contain either a deployed figure call or a
+   placeholder indexed here. Detailed production notes do not belong in body
+   prose.
+5. Reuse an existing figure when it performs the same explanatory task.
+   Create a related derivative only when another chapter needs a genuinely
+   different reading.
+6. Structural, tabular, and geometric figures should be reproducible SVGs,
+   preferably generated from a script. Preserve the source script and source
+   data beside the promoted SVG.
+7. Every figure must remain legible at trade-page width and when printed in
+   grayscale.
+8. Before deployment, verify the title, caption, body introduction, endnote,
+   asset path, grayscale derivative, and chapter cross-references.
+
+## Current Snapshot
+
+- **103 deployed figure references** occur in the live manuscript and reference
+  files. Some intentionally reuse the same asset.
+- Those references use **100 unique existing assets**; no deployed figure path
+  is missing.
+- **8 unresolved placeholders** remain in live manuscript prose.
+- **6 svara figures** have specifications; Figures A, C, and F are deployed
+  across Chapters 9 and 16.
+- **6 PASS placeholders** have been reduced to two core figures plus merge,
+  appendix, and optional decisions.
+- Chapter 2's three language-category figures and Appendix Part 8's eight
+  designed-variation figures are deployed; their older planning documents are
+  source records rather than open production queues.
+
+Validation commands:
 
 ```sh
-rg -n "\[FIGURE|FIGURE [0-9A-Z.]" atomicSanskrit/build/atomic_sanskrit.md
+# Deployed figure calls
+rg -n '^!\[' as_*.md
+
+# Unresolved live placeholders
+rg -n '^\[FIGURE' as_*.md
+
+# Figure specifications in active plans
+find working/10_active -type f -name '*.md' -print0 |
+  xargs -0 rg -n '^#{1,4} .*Figure|FIGURE PLACEHOLDER|Proposed file: figures/'
 ```
 
-Status key: `[ ]` open · `[~]` in progress · `[x]` rendered and inserted · `[-]` cut / replaced by prose or table
+## P0 — Live Manuscript Placeholders
 
-## Production Principles
+These eight entries currently print as planning text unless the build removes
+them. They have first claim on figure-production time.
 
-- Prioritize figures that carry the architecture spine before conceptual illustrations.
-- Prefer repo-native SVGs generated from scripts when the figure is structural, tabular, or geometric.
-- Use the existing Ch10-Ch12 visual language where applicable: hexagonal sonomer/atom/molecule vocabulary, restrained grayscale, Devanagari + IAST where the reader needs both.
-- If a placeholder is really a table, either render it as a clean table in markdown or generate a simple SVG table; do not over-illustrate.
-- Optional placeholders should either become real figures or be cut before reader builds.
+| Priority | Live ID | Working title | Placement | Status | Detailed source | Intended asset | Next action |
+|---|---|---|---|---|---|---|---|
+| P0 | **14.2** | Six-Layer Calibration Matrix | `as_1_14_calibration.md` §14.1 | Placeholder | Body placeholder and calibration discussion | `figures/calibration/six_layer_calibration_matrix.svg` | Convert the six layers and transversal Śikṣā role into a source-ready specification, then build. |
+| P0 | **18.1** | The Architectural Test | `as_1_18_wrong_question.md` opening | Placeholder; body incorrectly says **17.1** | Body placeholder | `figures/wrong_question/architectural_test.svg` | Correct the working number during deployment; create the six-row comparison table. |
+| P1 | **19.7** | PIE Reconstructions and Vivimorphosis Chains | `as_1_19_pie_in_sky.md` §19.8 | Placeholder | Body placeholder; Sanskrit Radiance mapping work | `figures/pie_in_sky/pie_vivimorphosis_comparison.svg` | Reconcile with the yuj mapping method and avoid repeating Figures 19.2–19.6. |
+| P1 | **20.1** | The Mitanni Sanskritic Layer | `as_1_20_life_after_pie.md` opening | Placeholder | Body placeholder | `figures/life_after_pie/mitanni_sanskritic_layer.svg` | Verify final table copy and render. |
+| P2 | **20.2** | Wave 2 Catalog of Methodological Metatypy | `as_1_20_life_after_pie.md` §20.2 | Placeholder | Body placeholder | `figures/life_after_pie/wave_2_methodological_metatypy.svg` | Decide whether the evidence table needs a figure or should remain a typeset table. |
+| P1 | **20.3** | Calibrant Waves and Diasporic Wave | `as_1_20_life_after_pie.md` §20.4 | Placeholder | Body placeholder and radiance plans | `figures/life_after_pie/calibrant_waves.svg` | Reframe all waves as carriers of Sanskrit's radiance, then build. |
+| P2 | **A.4** | Photography and Audiography | `as_3_03_audiography.md` §3.6 | Placeholder | Body placeholder | `figures/audiography/photography_and_audiography.svg` | Produce a compact two-column engineering comparison. |
+| P2 | **A.9** | Audiographic Family and Pyramid Classification | `as_3_03_audiography.md` §3.8 | Placeholder | Body table beneath placeholder | `figures/audiography/audiographic_family_classification.svg` | Decide whether a regional figure improves the existing table; otherwise remove the placeholder. |
 
-## P0 — Architecture Spine Blockers
+## P1 — Architecture Figures Specified Outside the Body
 
-These figures support the book's central calibration argument and should be produced first.
+### Svara Figure Family
 
-| Status | Figure | Source | Purpose | Production Note |
+Detailed specification:
+[Svara Architecture Analysis Plan, §11](as_svara_architecture_analysis_plan_codex.md#11-proposed-figures)
+
+| Working slug | Working title | Placement | Status | Reuse / ownership | Next action |
+|---|---|---|---|---|---|
+| `svara_form_matrix` | The Svara Form Matrix | Chapter 9 after the 132 calculation | **Deployed** | Chapter 9 owns the 162-position / 132-selected / 30-Excluded arithmetic. | Reproducible source and promoted SVG are in `figures/mapping_mouth/`. |
+| `svara_two_domains` | One Svara Architecture, Two Domains | Chapter 16 | **Deployed** | Derivative of the Chapter 9 visual language, not a duplicate of its complete matrix. | Reproducible source and promoted SVG are in `figures/vaidika_laukika/`. |
+| `svara_selected_excluded_forms` | Selected and Excluded Vowel Forms | Chapter 9 §9.10 | **Deployed** | Combines the **अ/आ** quality-duration selection with the one-*mātrā* **ए/ओ** exclusions. | Reproducible source and promoted SVG are in `figures/mapping_mouth/`. |
+
+### PASS Figure Family
+
+Detailed specification:
+[PASS Deployment Plan, §8](as_pass_deployment_plan_codex.md#8-figure-options)
+
+| Working slug | Working title | Placement | Status | Disposition | Next action |
+|---|---|---|---|---|---|
+| `pass_selection_and_scope` | The Principle of Architectural Selection and Scope | Chapter 9 §9.10 | **Deployed** | The only dedicated PASS figure in the body: Contribution → Load → Bounding Support → Scope, followed by the two paired sound cases. | Reproducible source and promoted SVG are in `figures/calibration/`. |
+| `pass_scope_matrix` | Selection and Scope Matrix | Appendix Part 8 | **Optional** | Appendix evidence summary, not a second body figure. | Build only if it communicates the settled classifications more clearly than a table. |
+| `pass_open_coordinates` | Two Excluded Coordinates | Chapter 9 | **Merge** | Existing Figure 9.6 and §9.10 already carry the argument. | Do not create separately unless Figure 9.6 is redesigned. |
+| `pass_svara_scope` | PASS Across the Svara Architecture | Chapter 9 | **Merge** | Merge into `svara_form_matrix`. | Remove as an independent production item. |
+| `pass_two_domains_profile` | PASS Across the Two Domains | Chapter 16 | **Merge** | Merge into `svara_two_domains` or the broader two-domain figure. | Decide during Chapter 16 layout. |
+| `pass_let_profile` | Why Leṭ Remains Vaidika | Appendix Part 8 | **Optional** | Appendix-supporting. | Produce only if the collision table remains difficult to scan. |
+| `pass_evidence_matrix` | PASS Evidence Matrix | Source and Reference Companion | **Optional** | Technical evidence figure. | Hold until evidence states are locked. |
+
+### Other Active Figure Families
+
+| Working slug / family | Working title | Placement | Status | Detailed source | Next action |
+|---|---|---|---|---|---|
+| `figure_0_2_revision` | Sanātana Time | Chapter 0 | **Revision** | [Author tasks](as_author_tasks.md) and asura synthesis plan | Add the structural meaning of *Vedānta* without implying a chronological period; preserve the unknown beginning of the Veda. |
+| `one_veda_four_functions` | The One Veda and Its Four Functions | Chapter 0 or sequel | **Needs reconciliation** | [Asura synthesis plan](as_asura_synthesis_and_plan.md#51-illustration-1--the-one-veda-and-its-four-the-establishing-image) | Reconcile the old *anādi* claim with the manuscript's current statement that the Veda has an unknown beginning. Decide whether revised Figure 0.2 already performs this work. |
+| `vyasa_vibhaga` | The Vyāsa-vibhāga | Chapter 0 or sequel | **Needs reconciliation** | [Asura synthesis plan](as_asura_synthesis_and_plan.md#52-illustration-2--the-vyāsa-vibhāga-the-one-divides-into-four-a-fifth-crosses-into-the-laukika) | Reconcile with deployed Figure 0.2 and current chronology language before production. |
+| `language_categories` | Four Language Categories | Chapter 2 | **Deployed** | [Language Categories and Processes Plan](language_categories_and_processes_figure_plan.md) | Source plan is complete; no open production action. |
+| `language_movements` | Languages and Movements | Chapter 2 | **Deployed** | Same plan | Source plan is complete; no open production action. |
+| `language_misclassification` | The Misclassification of Sanskrit | Chapter 2 | **Deployed** | Same plan | Source plan is complete; no open production action. |
+| `language_layers_over_time` | Language Categories Across Time | Chapter 2, 6, or 12 | **Specified** | [Four Language Behaviors plan](four_language_behaviors_codex_plan.md#figure-possibility) and `as_todo.md` | Reconcile the older layers-vs-time proposal with the three deployed Chapter 2 figures; merge if the existing process figure already carries the movement. |
+| `language_behavior_icons` | Four Language-Behavior Icons | Shared visual vocabulary | **Optional** | `as_todo.md` figure task | Choose or generate only if later figures need a stable icon family. |
+| `calibrant_envelope` | Orbit and Calibrant Envelope | Chapter 6 | **Parked** | Existing queue history; Orbit and Radiance plan | Re-specify before returning to the body. |
+| `upasarga_radiance` | Upasarga Architecture and Receiving Fields | Chapter 12, 19, or appendix | **Specified** | [Upasarga Mapping Plan, §9](as_sanskrit_radiance_upasarga_mapping_plan.md#9-figure-concept) | Finish the Sanskrit/Greek/Latin evidence record before assigning placement. |
+| `upasarga_architecture_fragment` | Complete Architecture and Receiving Fragments | Appendix or project proposal | **Specified** | Same plan | Hold until the primary upasarga figure is resolved. |
+| `designed_variations` | Eight Designed-Variation Figures | Appendix Part 8 | **Deployed** | [Figure source data](as_vaidika_laukika_declensional_figure_source_data.md) | Preserve source data and regenerate after evidence corrections. |
+| `two_domain_four_function_overview` | Four Functions of Designed Vedic Variation | Chapter 16 | **Optional** | [Chapter 16 ownership ledger](as_ch16_appendix_split_ownership_codex.md#figures) | Add only if the chapter's prose hierarchy does not make the four functions clear. |
+| `ganah_reactivity_matrix` | Matrix of Elemental Reactivity | Chapter 11 or reference | **Needs reconciliation** | `as_todo.md` empirical figure tasks | Compare the requested tier × *gaṇa* grid with deployed `racana_gana_matrix.svg`, `reactivity_tiers.svg`, and `periodic_table.svg`; specify only the missing view. |
+| `ganah_cross_corpus` | Comparative-Corpus View | Chapter 11 or reference | **Needs reconciliation** | `as_todo.md` empirical figure tasks | Decide whether deployed `canonical_rank_trajectory.svg` performs the requested comparison or whether a new overlap/bar figure remains necessary. |
+
+## P2 — Existing Deployed Figure Register
+
+This register is grouped by manuscript owner. It confirms coverage without
+duplicating every caption. The live figure calls remain the detailed register.
+
+| Owner | Deployed references | Figure family / asset location | Notes |
+|---|---:|---|---|
+| Preface, overture, Parts I–VII, epilogue, Ch0–1 | 12 eclipse-spine references | `figures/eclipse_spine/` | E.1–E.12; intentionally repeated narrative spine. |
+| Chapter 0 | 2 chapter figures | `figures/seekers/` | Figures 0.1–0.2; Figure 0.2 has an author revision task. |
+| Chapter 2 | 3 | `figures/botanical/` | Categories, movements, and misclassification. |
+| Chapter 3 | 1 | `figures/strategic/` | Three Pillars and Containment. |
+| Chapter 4 | 3 | `figures/fourth_abrahamic/` | Figures 4.1a, 4.1b, and 4.2. |
+| Chapter 5 | 1 | `figures/siddha_grammar/` | Figure 5.1. |
+| Chapter 6 | 1 | `figures/apabhramsa/` | Figure 6.1. |
+| Chapter 7 | 3 | `figures/adivadya/` | Figures 7.1–7.3. |
+| Chapter 8 | 7 | `figures/superset/` | Figures 8.1–8.7. |
+| Chapter 9 | 8 | `figures/mapping_mouth/`, `figures/audiography/`, `figures/calibration/` | Figures 9.1–9.8; Figure 9.7 introduces PASS and Figure 9.8 presents the selected/excluded vowel forms. |
+| Chapter 10 | 7 | `figures/building_dhatuh/` | Atom architecture and distributions. |
+| Chapter 11 | 14 | `figures/building_kriya/`, `figures/ganah/` | Vedic/Pāṇinian assemblies plus statistical architecture. |
+| Chapter 12 | 9 | `figures/building_vakya/` | Complete sonomer-to-sentence visual sequence. |
+| Chapter 13 | 1 | `figures/preservation/` | Asuric Custody Stack. |
+| Chapter 14 | 2 | `figures/calibration/` | Figures 14.1 and 14.3; Figure 14.2 remains a placeholder. |
+| Chapter 16 | 1 | `figures/vaidika_laukika/` | Figure 16.1 shows the shared svara architecture under two domain permissions. |
+| Chapter 17 | 1 | `figures/adivadya/` | Mūrdhanya flex. |
+| Chapter 19 | 6 | `figures/pie_in_sky/` | Figures 19.1–19.6; Figure 19.7 remains a placeholder. |
+| Appendix Part 3 | 4 | `figures/audiography/` | Figures A.5–A.8; A.4 and A.9 remain placeholders. |
+| Appendix Part 4 | 7 | `figures/superset/` | Figures A.4.1–A.4.7. |
+| Appendix Part 8 | 8 | `figures/vaidika_laukika/` | Designed-variation figure series. |
+| Reference Part 6 | 3 | `figures/building_dhatuh/`, `figures/ganah/` | Intentional reuse of statistical figures. |
+
+Total deployed references in this reconciliation: **103**.
+
+## P3 — Parked or Cut Historical Concepts
+
+| Concept | Status | Reason / return condition |
+|---|---|---|
+| Former Figure 6.2 — Drift, Codification, Calibration | **Cut** | Chapter 2's four-category sequence supersedes it. |
+| Botanical Root vs Architectural Dhātuḥ | **Parked** | Return only if it adds more than Chapters 2, 10, and 12 already show. |
+| Dhātuḥ Across Indic Sciences | **Parked** | The standalone dhātuḥ chapter was dissolved. |
+| Saptadhātu Cascade | **Parked** | No current body owner. |
+
+## Figure Wishlist — Non-Blocking
+
+These concepts do not block the manuscript or the current figure-production
+sequence. They remain available if a later reader or layout review identifies
+a clear visual need.
+
+| Working slug | Working title | Possible placement | Status | Return condition |
 |---|---|---|---|---|
-| `[ ]` | Figure 14.1 — The Four Preservation Modes | `as_1_14_calibration.md` | Make Scripture / Mnemoniture / Flexture / Auditure visible as distinct preservation technologies. | Likely a clean matrix/table figure: medium, human capacity, content category, Indic counterpart. |
-| `[ ]` | Figure 14.2 — The Six-Layer Calibration Matrix | `as_1_14_calibration.md` | Make the Vedas / Prātiśākhya / Vyākaraṇam / Dhātupāṭha / Varṇamālā / Chandas calibration stack visible, with Śikṣā as transversal pedagogy. | Highest-priority figure. Could be nested layers with Śikṣā as an overlay band or vertical brace. |
+| `svara_four_dimensions` | Four Dimensions of a Vowel | Chapter 9 or endnote | **Wishlist** | Return only if Figure 9.5 does not make quality, duration, pitch, and nasality clear enough. |
+| `svara_shortening` | Shortening Without New Coordinates | Chapter 9 or endnote | **Wishlist** | Return only if the **ए/ऐ → इ** and **ओ/औ → उ** prose needs a visual aid. |
+| `svara_operations` | One Source, Different Operations | Chapter 9 or endnote | **Wishlist** | Return only if the paired equations remain difficult to follow. |
 
-## P1 — Polemic Frame And Sound-Field
+## Numbering and Ownership Corrections
 
-These figures make the antagonist frame and the subcontinental sound-field legible.
+1. The placeholder inside `as_1_18_wrong_question.md` says **Figure 17.1**.
+   The live chapter is Chapter 18, so deployment must assign **Figure 18.1**.
+2. The former queue's proposed Figures 19.2 and 19.3 are obsolete. Those
+   numbers now belong to deployed PIE-tree and orbit/radiance figures. The
+   remaining comparison placeholder is **Figure 19.7**.
+3. Appendix figure labels must preserve the appendix-part hierarchy. Do not
+   collapse Figure A.4 in Appendix Part 3 into the A.4.1–A.4.7 family owned by
+   Appendix Part 4.
+4. Chapter 9 owns the complete 132-form matrix. Chapter 16 owns the
+   two-domain derivative. Neither should reuse the other figure unchanged.
 
-| Status | Figure | Source | Purpose | Production Note |
-|---|---|---|---|---|
-| `[ ]` | Figure 2.1 — Linear Progress vs. Kālacakra | `as_1_02_strategic.md` | Show the incompatibility between linear-progress teleology and cyclic time. | Two-panel conceptual SVG: upward arrow vs wave/wheel. |
-| `[ ]` | Figure 2.2 — Three Pillars and Containment | `as_1_02_strategic.md` | Compress AIT / Noachian chronology / linear-progress teleology into one containment architecture. | Structural diagram with two cracked pillars and one intact pillar supporting botanical metaphor. |
-| `[ ]` | Figure 4.1a/b — Structural Template of the Four Abrahamic Religions | `as_1_03_fourth_abrahamic.md` | Show progressivism as structurally homologous to the three Abrahamic religions. | Active chapter now uses paired SVGs for named religions and progressivism. |
-| `[ ]` | Figure 4.2 — Pyramid and Swastika | `as_1_03_fourth_abrahamic.md` | Show pyramidal authorization vs rotational-distributed transmission. | Can reuse visual language from `figures/about_series/` swastika/pyramid experiments. |
-| `[x]` | Figure 8.1 — Sanskrit's 23-cell Base before *mahāprāṇa* | `as_1_08_superset.md` | Show the Sanskrit comparison target after the ten heavy-breath cells are temporarily held aside. | Rendered as `figures/superset/sanskrit_base_before_mahaprana.svg`. |
-| `[x]` | Figure 8.2 — Southern Survey | `as_1_08_superset.md` | Show Tamil, Toda, and Kurukh covering 20 of 23 Sanskrit base coordinates. | Rendered as `figures/superset/sk_tamil_toda_kurukh.svg`. |
-| `[x]` | Figure 8.3 — Forest-Belt Survey | `as_1_08_superset.md` | Show Korku, Mundari, and Ho covering 18 of 23 Sanskrit base coordinates without relying on Santali. | Rendered as `figures/superset/sk_korku_mundari_ho.svg`. |
-| `[x]` | Figure 8.4 — Western IE Survey | `as_1_08_superset.md` | Use English, French, and Greek as an external control. | Rendered as `figures/superset/sk_english_french_greek.svg`. |
-| `[x]` | Figure 8.5 — Central Asian Survey | `as_1_08_superset.md` | Use Tajik, Kazakh, and Kyrgyz as a geographic control against the Central Asian source-field claim. | Rendered as `figures/superset/sk_tajik_kazakh_kyrgyz.svg`. |
-| `[x]` | Figure 8.6 — The Gaps Are Neighbors | `as_1_08_superset.md` | Show ल, स, and श as near-neighbor snap-to-grid choices rather than field absences. | Rendered as `figures/superset/snap_to_grid_neighbor_cells.svg`. |
-| `[x]` | Figure 8.7 — *Mahāprāṇa* as Vertical Expansion | `as_1_08_superset.md` | Show breath pressure as a vertical expansion of the stop grid rather than a new horizontal mouth-place. | Rendered as `figures/superset/mahaprana_vertical_expansion.svg`. |
+## Production Sequence
 
-## P2 — Supporting Architecture Figures
+1. **Complete:** build `svara_form_matrix` and deploy it in Chapter 9.
+2. **Complete:** build the related `svara_two_domains` figure and deploy it in Chapter 16.
+3. Produce the PASS Decision Path or merge its explanation into one of those
+   two figures if the final layouts already make PASS visible.
+4. Resolve live placeholder Figure 14.2.
+5. Resolve the Chapter 18 numbering error and build the Architectural Test.
+6. Produce or deliberately replace Figures 19.7 and 20.1–20.3.
+7. Decide whether Appendix Figures A.4 and A.9 add more than their current
+   prose and tables.
+8. Reconcile the two older Veda/Vyāsa figure proposals with deployed Figure
+   0.2 before commissioning either.
 
-These figures are valuable, but the prose can survive longer without them.
+## Completion Checklist
 
-| Status | Figure | Source | Purpose | Production Note |
-|---|---|---|---|---|
-| `[x]` | Figure 5.1 — Long Memory of Sanskrit Grammar | `as_1_04_siddha.md` | Make pre-Pāṇinian decoding lineage and Trimuni stack visible. | Rendered as `figures/siddha_grammar/lineage_stack.svg`. |
-| `[x]` | Figure 6.1 — *Gauḥ* and Four *Apabhraṃśas* | `as_1_06_apabhramsa.md` | Show one calibrated form with many fallings-away. | Rendered as `figures/apabhramsa/gauh_four_apabhramsas.svg`. |
-| `[-]` | Former Figure 6.2 — Drift, Codification, Calibration | `as_1_06_apabhramsa.md` | Earlier three-column standardization model. | Removed from the body after Chapter 2 established the canonical four-behavior grid; source retained under `figures/apabhramsa/`. |
-| `[ ]` | Figure 6.3 — Calibrant Envelope | `as_1_06_apabhramsa.md` | Show Sanskrit as calibrant, Marathi and Hindi in orbit, and forms beyond the active field. | Three-tier horizontal axis; body placeholder removed until the figure is built. |
-| `[ ]` | PARKED — *Dhātuḥ* Across Indic Sciences | `as_1_06_dhatuh.md` | Show one technical term carrying one architectural function across domains. | Standalone *dhātuḥ* chapter is dissolved; renumber or relocate during the Ch 10 fold. |
-| `[ ]` | PARKED — Saptadhātu Cascade | `as_1_06_dhatuh.md` | Show constitutive body-layer cascade. | Standalone *dhātuḥ* chapter is dissolved; renumber or relocate during the Ch 10 fold. |
-| `[x]` | Figure 7.1 — Vocal Apparatus | `as_1_07_adivadya.md` | Ground the mouth as instrument and show the articulating regions. | Rendered as `figures/adivadya/vocal_tract_anatomy.svg`; replaces the separate modern speech-science mouth map. |
-| `[x]` | Figure 7.2 — Language Hotzones Along Vocal Tract | `as_1_07_adivadya.md` | Contrast language inventories along the vocal tract before Sanskrit selection. | Rendered as `figures/adivadya/hotzones_panels.svg`; generated by `figures/adivadya/hotzones_panels.py`. |
-| `[x]` | Figure 7.3 — Vocal Apparatus in Sanskrit | `as_1_07_adivadya.md` | Show Sanskrit labels on the instrument. | Rendered as `figures/adivadya/vocal_apparatus_sanskrit.svg`. |
-| `[x]` | Figure 9.1 — Vedic Sieve | `as_1_09_mapping_mouth.md` | Show sound-grains being sifted into selected sonomers before the garland is woven. | Rendered as `figures/mapping_mouth/vedic_sieve_sonomer_garland.svg`. |
-| `[x]` | Figure 9.2 — Sonomer Garland | `as_1_09_mapping_mouth.md` | Show the *varṇamālā* as a literal ordered *mālā* of selected sonomers. | Rendered as `figures/mapping_mouth/varnamala_sonomer_garland.svg`. |
-| `[x]` | Figure 9.3 — Sanskrit Extracted: The Sonomer Grid | `as_1_09_mapping_mouth.md` | Isolate Sanskrit hexagons from the comparative articulatory matrix so the sonomer-grid selection is visible in the main body. | Rendered as `figures/audiography/sanskrit_extracted_sonomer_grid.svg`; reused as Figure A.6. |
-| `[x]` | Figure 9.4 — Control Panel | `as_1_09_mapping_mouth.md` | Re-read the 5×5 *sparśa* table as a mouth-control panel. | Rendered as `figures/mapping_mouth/control_panel.svg`. |
-| `[x]` | Figure 9.5 — The Sound Volume | `as_1_09_mapping_mouth.md` | Show the 5×7 consonant plane extended through the 14-vowel axis, with two empty consonant cells passing through the full vowel dimension and one lit क fiber. | Rendered as `figures/mapping_mouth/sound_volume.svg`. |
-
-## P3 — Prosecution / Remedy Exhibits
-
-These can be produced after the core architecture visuals are stable.
-
-| Status | Figure | Source | Purpose | Production Note |
-|---|---|---|---|---|
-| `[ ]` | Figure 18.1 — The Architectural Test | `as_1_18_wrong_question.md` | Summarize what a valid model must explain. | Six-row table figure. |
-| `[x]` | Figure 19.1 — PIE Keeps Returning to Sanskrit | `as_1_19_pie_in_sky.md` | Show the reconstructed ancestor moving away from Sanskrit and then reloading Sanskrit-like material. | Rendered as `figures/pie_in_sky/sanskrit_containment_trajectory.svg`. |
-| `[ ]` | Figure 19.2 — PIE vs Vivimorphosis Chains | `as_1_19_pie_in_sky.md` | Contrast standard PIE reconstructions with book's vivimorphosis chains. | Side-by-side chain diagram. |
-| `[ ]` | Figure 19.3 — One Sanskrit *Dhātuḥ*, Multiple PIE Roots | `as_1_19_pie_in_sky.md` | Show *dṛś* unity vs PIE splitting. | Split-table or branching diagram. |
-| `[ ]` | Figure 20.1 — Mitanni Sanskritic Layer | `as_1_20_life_after_pie.md` | Make treaty / horse-training / throne-name evidence scannable. | Evidence table figure. |
-| `[ ]` | Figure 20.2 — Wave 2 Methodological Metatypy | `as_1_20_life_after_pie.md` | Summarize transmission cases. | Table figure. |
-| `[ ]` | Figure 20.3 — Calibrant Waves and Diasporic Wave | `as_1_20_life_after_pie.md` | Show Wave 1 / Wave 2 / Wave 3 / Diasporic Wave. | Timeline/layer diagram. |
-| `[ ]` | Figure A.4 — Photography and Audiography | `as_3_03_audiography.md` | Parallel engineered capture of light and sound. | Two-column analogy diagram. |
-| `[x]` | Figure A.5 — Sound, Script, Standard | `as_3_03_audiography.md` | Place Sanskrit, Arabic, and Korean on one place-and-manner matrix. | Rendered as `figures/audiography/sound_script_standard_matrix.svg`; Sanskrit hexagons, Arabic circles, Korean squares. |
-| `[x]` | Figure A.6 — Sanskrit Extracted: The Sonomer Grid | `as_3_03_audiography.md` | Show Sanskrit as engineered sound-grid. | Rendered as `figures/audiography/sanskrit_extracted_sonomer_grid.svg`; reused from Figure 9.3. |
-| `[x]` | Figure A.7 — Arabic Extracted: Codified Sound Tradition | `as_3_03_audiography.md` | Show Arabic as inherited phonology stabilized by codified tradition. | Rendered as `figures/audiography/arabic_extracted_codified_sound_tradition.svg`. |
-| `[x]` | Figure A.8 — Korean Extracted: Engineered Script, Existing Sound | `as_3_03_audiography.md` | Show Korean as existing phonology served by engineered Hangul script. | Rendered as `figures/audiography/korean_extracted_engineered_script.svg`. |
-| `[ ]` | Figure A.9 — Audiographic Family and Orthodox Classification | `as_3_03_audiography.md` | Show Indic scripts and orthodox labels. | Regional table or map-table hybrid. |
-
-## Optional / Cut Candidates
-
-| Status | Figure | Source | Decision Needed |
-|---|---|---|---|
-| `[ ]` | PARKED — Botanical Root vs Architectural *Dhātuḥ* | `as_1_06_dhatuh.md` | Candidate for Ch10 only if it adds more than the Ch2 tree metaphor and Ch10 atom diagrams already add. |
-
-## Validation Notes
-
-- Ch10-Ch12 already use rendered SVGs and do not appear in this queue.
-- Production output should contain 29 reader-facing figure placeholders after the next assemble run.
-- Draft-note figure mentions in source files are ignored because the build strips draft-note blocks.
+- [ ] Every live `[FIGURE ...]` placeholder is replaced by a deployed asset or
+      deliberately removed after its content is preserved.
+- [ ] Every active topic-plan figure appears in this index.
+- [ ] Every deployed figure has an existing asset.
+- [ ] Every generated figure records its script and source data.
+- [ ] Every caption agrees with the current chapter argument and terminology.
+- [ ] Every reused asset has one clear primary owner.
+- [ ] All figures render legibly at trade width.
+- [ ] All figures remain intelligible in grayscale.
+- [ ] Final figure numbers and cross-references survive a clean book build.

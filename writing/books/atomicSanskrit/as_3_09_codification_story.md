@@ -77,7 +77,7 @@ The established bond between word and meaning comes first. Worldly usage follows
 
 The frequently cited Vedic features can be examined through the same distinction. A shorter instrumental plural and a longer one can coexist because meter can require different syllable counts: ***devaiḥ*** may fit one position, while ***devebhiḥ*** may fit another. Their coexistence does not by itself establish an older form changing into a newer one. It shows that the metrical domain has more than one form available for a defined task.
 
-Vedic accent supplies another example. The recitation lineages continue to preserve its rule-governed pitch distinctions because *svara* forms part of the grammatical interpretation of a Vedic passage as well as its exact sound. Laukika speech and composition operate without that interpretive layer and use a tighter productive grammar suited to new expression. Calling the accent “lost” collapses the two domains and ignores the one in which the feature remains fully alive.
+Vedic accent supplies another example. The recitation lineages continue to preserve its rule-defined pitch distinctions because *svara* forms part of the grammatical interpretation of a Vedic passage as well as its exact sound. Laukika speech and composition operate without that interpretive layer and use a tighter productive grammar suited to new expression. Calling the accent “lost” collapses the two domains and ignores the one in which the feature remains fully alive.
 
 The same reasoning applies to ***pluta*** vowels and the ***leṭ-lakāra***. A *pluta* vowel belongs to specified recitational circumstances. The *leṭ-lakāra* belongs to the Vedic field that Pāṇini marks with ***chandasi***. Their restricted use does not show debris from a language on its way to extinction. It shows that Sanskrit assigns resources to the domains and modes that require them.
 
@@ -111,7 +111,7 @@ The Nāsadīya Sūkta uses a different style:
 > *nāsad āsīn no sad āsīt tadānīṃ*  
 > *nāsīd rajo no vyomā paro yat ||*
 
-The negation, the verb **आसीत् (*āsīt*)**, the neuter forms **सत् (*sat*)**, **असत् (*asat*)**, and **रजः (*rajaḥ*)**, the relative **यत् (*yat*)**, and the governed sound junctions all belong to the same analyzable architecture. The style and purpose have changed; the language has not become an unordered precursor waiting for a documenter.
+The negation, the verb **आसीत् (*āsīt*)**, the neuter forms **सत् (*sat*)**, **असत् (*asat*)**, and **रजः (*rajaḥ*)**, the relative **यत् (*yat*)**, and the specified sound junctions all belong to the same analyzable architecture. The style and purpose have changed; the language has not become an unordered precursor waiting for a documenter.
 
 The Vāk Sūkta supplies a third idiom:
 
@@ -127,7 +127,7 @@ Now consider laukika Sanskrit. The Bhagavad Gītā says:
 >
 > *karmaṇy evādhikāras te mā phaleṣu kadācana |*
 
-**कर्मणि (*karmaṇi*)** appears in the locative under *sandhi*. **अधिकारः (*adhikāraḥ*)** is nominative, **ते (*te*)** has dative force, and **फलेषु (*phaleṣu*)** is locative plural. The verse draws on the same case architecture and governed sound relations for a different domain and style.
+**कर्मणि (*karmaṇi*)** appears in the locative under *sandhi*. **अधिकारः (*adhikāraḥ*)** is nominative, **ते (*te*)** has dative force, and **फलेषु (*phaleṣu*)** is locative plural. The verse draws on the same case architecture and specified sound relations for a different domain and style.
 
 Kālidāsa opens the *Raghuvaṃśa* with another compact example:
 

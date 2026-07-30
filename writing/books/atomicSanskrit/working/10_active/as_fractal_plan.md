@@ -630,7 +630,7 @@ same pattern:
   small atom holds recoverable semantic force.
 
 - **The current "Verdict — Vaicitrya"** becomes the *astobham* section's
-  answer to the skeptic. The long tail is not padding. It is governed
+  answer to the skeptic. The long tail is not padding. It is structured
   range. This is where the prose should be clearest.
 
 - **The current Atomic Corollary section** should be tightened before the

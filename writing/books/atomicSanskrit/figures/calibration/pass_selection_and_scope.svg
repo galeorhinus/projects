@@ -1,0 +1,83 @@
+<!-- lineage: py
+     canonical-source: pass_selection_and_scope.from-py.svg
+     updated: 2026-07-29 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+<defs>
+<marker id="arrowhead" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#9d7c36"/></marker>
+</defs>
+<rect width="1200" height="900" fill="#f7f4ed"/>
+<text x="52.0" y="66.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="44" font-weight="600" font-style="normal" fill="#29251f" text-anchor="start">What Earns a Place in the Architecture</text>
+<text x="52.0" y="107.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">The Principle of Architectural Selection and Scope</text>
+<rect x="52" y="145" width="245" height="118" rx="5" fill="#f0ece3" stroke="#cfc6b5" stroke-width="2"/>
+<circle cx="83" cy="176" r="18" fill="#29251f"/>
+<text x="83.0" y="183.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="20" font-weight="600" font-style="normal" fill="#f7f4ed" text-anchor="middle">1</text>
+<text x="110.0" y="183.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="600" font-style="normal" fill="#29251f" text-anchor="start">Contribution</text>
+<text x="74.0" y="223.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="19" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">
+<tspan x="74.0" dy="0">What does it add?</tspan>
+</text>
+<rect x="340" y="145" width="245" height="118" rx="5" fill="#f0ece3" stroke="#cfc6b5" stroke-width="2"/>
+<circle cx="371" cy="176" r="18" fill="#29251f"/>
+<text x="371.0" y="183.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="20" font-weight="600" font-style="normal" fill="#f7f4ed" text-anchor="middle">2</text>
+<text x="398.0" y="183.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="600" font-style="normal" fill="#29251f" text-anchor="start">Load</text>
+<text x="362.0" y="223.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="19" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">
+<tspan x="362.0" dy="0">What collision or</tspan>
+<tspan x="362.0" dy="23">duplication follows?</tspan>
+</text>
+<rect x="628" y="145" width="245" height="118" rx="5" fill="#f0ece3" stroke="#cfc6b5" stroke-width="2"/>
+<circle cx="659" cy="176" r="18" fill="#29251f"/>
+<text x="659.0" y="183.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="20" font-weight="600" font-style="normal" fill="#f7f4ed" text-anchor="middle">3</text>
+<text x="686.0" y="183.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="600" font-style="normal" fill="#29251f" text-anchor="start">Bounding support</text>
+<text x="650.0" y="223.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="19" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">
+<tspan x="650.0" dy="0">What contains</tspan>
+<tspan x="650.0" dy="23">that load?</tspan>
+</text>
+<rect x="916" y="145" width="245" height="118" rx="5" fill="#f0ece3" stroke="#cfc6b5" stroke-width="2"/>
+<circle cx="947" cy="176" r="18" fill="#29251f"/>
+<text x="947.0" y="183.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="20" font-weight="600" font-style="normal" fill="#f7f4ed" text-anchor="middle">4</text>
+<text x="974.0" y="183.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="600" font-style="normal" fill="#29251f" text-anchor="start">Scope</text>
+<text x="938.0" y="223.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="19" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">
+<tspan x="938.0" dy="0">Where can it operate?</tspan>
+</text>
+<path d="M 303,204.0 L 332,204.0" stroke="#9d7c36" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
+<path d="M 591,204.0 L 620,204.0" stroke="#9d7c36" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
+<path d="M 879,204.0 L 908,204.0" stroke="#9d7c36" stroke-width="4" fill="none" marker-end="url(#arrowhead)"/>
+<text x="52.0" y="317.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="20" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">Possible scopes</text>
+<rect x="222" y="290" width="154" height="43" rx="21.5" fill="#65715b"/>
+<text x="299.0" y="319.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="18" font-weight="600" font-style="normal" fill="#f7f4ed" text-anchor="middle">Included</text>
+<rect x="389" y="290" width="168" height="43" rx="21.5" fill="#9d7c36"/>
+<text x="473.0" y="319.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="18" font-weight="600" font-style="normal" fill="#f7f4ed" text-anchor="middle">Restricted</text>
+<rect x="570" y="290" width="143" height="43" rx="21.5" fill="#9d7c36"/>
+<text x="641.5" y="319.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="18" font-weight="600" font-style="normal" fill="#f7f4ed" text-anchor="middle">Vaidika</text>
+<rect x="726" y="290" width="224" height="43" rx="21.5" fill="#9d7c36"/>
+<text x="838.0" y="319.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="18" font-weight="600" font-style="normal" fill="#f7f4ed" text-anchor="middle">Lineage-Bounded</text>
+<rect x="963" y="290" width="154" height="43" rx="21.5" fill="#8b4b3d"/>
+<text x="1040.0" y="319.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="18" font-weight="600" font-style="normal" fill="#f7f4ed" text-anchor="middle">Excluded</text>
+<line x1="52" y1="365" x2="1148" y2="365" stroke="#cfc6b5" stroke-width="2"/>
+<text x="52.0" y="407.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="27" font-weight="600" font-style="normal" fill="#29251f" text-anchor="start">Physical possibility does not by itself create a sonomer.</text>
+<text x="52.0" y="439.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="20" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">Sanskrit can exclude an independent coordinate while preserving a nearby sound under a stated condition.</text>
+<text x="72.0" y="486.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="20" font-weight="600" font-style="normal" fill="#8b4b3d" text-anchor="start">Independent coordinate</text>
+<text x="620.0" y="486.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="20" font-weight="600" font-style="normal" fill="#65715b" text-anchor="start">Restricted articulation</text>
+<rect x="72" y="505" width="508" height="112" rx="5" fill="#f7f4ed" stroke="#8b4b3d" stroke-width="2"/>
+<text x="94.0" y="543.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="27" font-weight="600" font-style="normal" fill="#8b4b3d" text-anchor="start">[ɰ] · kaṇṭhya–antaḥstha</text>
+<text x="94.0" y="576.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="18" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">
+<tspan x="94.0" dy="0">No fifth vowel-to-glide operation; independent scope adds load.</tspan>
+</text>
+<rect x="620" y="505" width="508" height="112" rx="5" fill="#f7f4ed" stroke="#65715b" stroke-width="2"/>
+<text x="642.0" y="543.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="27" font-weight="600" font-style="normal" fill="#65715b" text-anchor="start">जिह्वामूलीय · jihvāmūlīya</text>
+<text x="642.0" y="576.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="18" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">
+<tspan x="642.0" dy="0">Generated from visarga before क / ख; Restricted scope.</tspan>
+</text>
+<rect x="72" y="637" width="508" height="112" rx="5" fill="#f7f4ed" stroke="#8b4b3d" stroke-width="2"/>
+<text x="94.0" y="675.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="27" font-weight="600" font-style="normal" fill="#8b4b3d" text-anchor="start">[ɸ] · oṣṭhya–ūṣman</text>
+<text x="94.0" y="708.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="18" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">
+<tspan x="94.0" dy="0">No independent recurring contrast; crowds the field beside फ.</tspan>
+</text>
+<rect x="620" y="637" width="508" height="112" rx="5" fill="#f7f4ed" stroke="#65715b" stroke-width="2"/>
+<text x="642.0" y="675.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="27" font-weight="600" font-style="normal" fill="#65715b" text-anchor="start">उपध्मानीय · upadhmānīya</text>
+<text x="642.0" y="708.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="18" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">
+<tspan x="642.0" dy="0">Generated from visarga before प / फ; Restricted scope.</tspan>
+</text>
+<rect x="52" y="785" width="1096" height="76" fill="#29251f"/>
+<text x="600.0" y="820.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="21" font-weight="600" font-style="normal" fill="#e8dfcc" text-anchor="middle">The same principle operates across scale:</text>
+<text x="600.0" y="848.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="24" font-weight="600" font-style="normal" fill="#f7f4ed" text-anchor="middle">sound-field → sonomer grid → Vaidika and Laukika scope</text>
+</svg>

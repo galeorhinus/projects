@@ -367,7 +367,7 @@ The same matrix contains the OCP avoidance finding (§6.9's scalar) and the *mū
 
 ## 6.10 *Vaicitrya* — Engineered Range in the Tail
 
-**Prediction.** An engineered architecture should be concentrated but not closed. The modal scaffolds dominate the inventory; specialized scaffolds exist at low frequency for cases the modal forms cannot stage. Sanskrit aesthetics has the word for the principle: **वैचित्र्य (*vaicitrya*)** — patterned variety, the force by which sameness does not become monotony. Chapter 10 §10.7 places this under *astobham*: the modal scaffolds remove waste, while the governed tail preserves *vaicitrya* where range does work.
+**Prediction.** An engineered architecture should be concentrated but not closed. The modal scaffolds dominate the inventory; specialized scaffolds exist at low frequency for cases the modal forms cannot stage. Sanskrit aesthetics has the word for the principle: **वैचित्र्य (*vaicitrya*)** — patterned variety, the force by which sameness does not become monotony. Chapter 10 §10.7 places this under *astobham*: the modal scaffolds remove waste, while the structured tail preserves *vaicitrya* where range does work.
 
 **Data** (the 37 *racanā* scaffolds outside the top 10):
 
@@ -386,7 +386,7 @@ The same matrix contains the OCP avoidance finding (§6.9's scalar) and the *mū
 
 ***Deep tail*** (ranks 26–47). 22 scaffolds, mostly 1-occurrence forms. The lone CCCCV2CC dense-cluster shape. Bare V1 and bare C as floor cases. 29 *dhātavaḥ* spread across 22 shapes — perimeter cases where the architecture leaves room for one-off engineering. The system permits what it does not promote.
 
-**Verdict.** The tail is small (9.0% of the inventory) and governed (named shapes, not arbitrary forms; specific functional scope at each level). The 37 scaffolds are the engineering of range, not the failure of concentration. The data explain why compression still leaves a tail: an engineered system concentrates around modal forms *and* preserves reach for specialized scope. Top-10 proves compression; tail proves range. The system is not flat. It is not rigid.
+**Verdict.** The tail is small (9.0% of the inventory) and structured (named shapes, not arbitrary forms; specific functional scope at each level). The 37 scaffolds are the engineering of range, not the failure of concentration. The data explain why compression still leaves a tail: an engineered system concentrates around modal forms *and* preserves reach for specialized scope. Top-10 proves compression; tail proves range. The system is not flat. It is not rigid.
 
 **The cross-axis claim.** The *vaicitrya* signature appears at three levels of the architecture:
 

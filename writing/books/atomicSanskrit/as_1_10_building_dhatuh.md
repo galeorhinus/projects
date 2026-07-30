@@ -208,7 +208,7 @@ No mathematical rule requires the two counts to match. The *varṇa* total comes
 
 The skeptic's question presses here: *if the system is so compact, why have a tail at all?* Engineered systems are not mechanically minimized. They concentrate around modal forms and preserve range where range does work. Rare meanings can take rare shapes. Dense clusters can stage iconic force. Disyllabic envelopes can serve metrical contexts that demand a longer signature.
 
-The modal scaffolds are tight. The tail is small. The range is governed. The *dhātuḥ* passes the second test. It is *astobham*: compact without padding, varied without waste.
+The modal scaffolds are tight. The tail is small. The range is structured. The *dhātuḥ* passes the second test. It is *astobham*: compact without padding, varied without waste.
 
 ## 10.8 असंदिग्धम् (*Asaṃdigdham*) — Prevent Ambiguity
 
@@ -316,7 +316,7 @@ The *dhātuḥ* passes the final test. It is *anavadyam*: stable through use, vi
 
 The six tests now stand together. The *dhātuḥ* — the atom — is compact, economical, distinct, essence-bearing, many-facing, and stable. These are the same defining characteristics the *sūtra-lakṣaṇam* specifies for the *sūtra*, now visible at the atomic scale.
 
-The burden now shifts. Anyone who wants to call this ordinary natural-language behavior must produce another natural-language inventory of semantic atoms with this level of compact scaffold coverage, timing discipline, governed long-tail range, and grammatical behavior after bonding. Until then, the *dhāturacanā* result remains evidence for engineering, not ordinary rank-frequency concentration.
+The burden now shifts. Anyone who wants to call this ordinary natural-language behavior must produce another natural-language inventory of semantic atoms with this level of compact scaffold coverage, timing discipline, structured long-tail range, and grammatical behavior after bonding. Until then, the *dhāturacanā* result remains evidence for engineering, not ordinary rank-frequency concentration.
 
 ## 10.12 Engineering Was Common Knowledge
 
@@ -368,7 +368,7 @@ Second, *la* (ल) operates as a structural neutralizer. It sits near the diagon
 
 Third, the *ṛ* (ऋ) / *ra* (र) bridge exposes the engineering at the vowel-consonant boundary. ऋ is the *r*-principle as vowel-core. र is the same principle as consonantal bonder. Sanskrit places both in the *mūrdhanya* field, then makes both disproportionately active. Under *yaṇ-sandhi*, vocalic ऋ resolves into र before a following vowel — the same articulatory principle crossing the vowel/consonant boundary, taking nuclear form in the *svara* table and bonding form in the *vyañjana* table.
 
-Activation sonomers arrive, the *dhātuḥ* changes in governed ways, and the finished *kriyāpada* molecule remains traceable back to the atom. The atom is assembled from sonomers whose behavior is already patterned, rather than from inert letters.
+Activation sonomers arrive, the *dhātuḥ* changes through specified operations, and the finished *kriyāpada* molecule remains traceable back to the atom. The atom is assembled from sonomers whose behavior is already patterned, rather than from inert letters.
 
 ## 10.14 The Atomic Corollary
 
@@ -400,7 +400,7 @@ Sanskrit is not a plant. It is an atomic system.
 
 *Sūtra-lakṣaṇam* set the specification. The six atomic tests return the verdict.
 
-Consequently, the *Dhātupāṭha* definitively passes this test: **अल्पाक्षरम् (*alpākṣaram*)** clearly appears in its exquisitely compact sonomer and *mātrā* distributions; **अस्तोभम् (*astobham*)** reveals itself strictly in the scaffold concentration and fiercely governed range; **असंदिग्धम् (*asaṃdigdham*)** emerges directly in the exact, acoustic-edged choices constrained inside strict timing budgets; **सारवत् (*sāravat*)** continuously appears in the immense semantic force encoded by such tiny atoms; **विश्वतोमुखम् (*viśvatomukham*)** is proven through their limitless reach via bonding and use; and finally, **अनवद्यम् (*anavadyam*)** is visibly proven by their enduring stability across rigorous transformation.
+Consequently, the *Dhātupāṭha* definitively passes this test: **अल्पाक्षरम् (*alpākṣaram*)** clearly appears in its exquisitely compact sonomer and *mātrā* distributions; **अस्तोभम् (*astobham*)** reveals itself strictly in the scaffold concentration and fiercely structured range; **असंदिग्धम् (*asaṃdigdham*)** emerges directly in the exact, acoustic-edged choices constrained inside strict timing budgets; **सारवत् (*sāravat*)** continuously appears in the immense semantic force encoded by such tiny atoms; **विश्वतोमुखम् (*viśvatomukham*)** is proven through their limitless reach via bonding and use; and finally, **अनवद्यम् (*anavadyam*)** is visibly proven by their enduring stability across rigorous transformation.
 
 The principle stated at the level of the *sūtra* reaches the atom.
 

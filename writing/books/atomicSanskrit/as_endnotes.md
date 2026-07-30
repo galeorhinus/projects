@@ -112,7 +112,7 @@ Source basis: Ṛgveda 10.71.2 in the *Vāk-sūkta*, attributed in the *Anukrama
 
 **Short:** Ṛgveda 10.71.3 continues the Chapter 9 epigraph sequence: the path of Speech is followed, Speech is found entered into the ṛṣis, then brought forth and distributed widely. Chapter 9 uses the verse at the close to move from the Vedic sieve to the visible grid of the *varṇamālā*.
 
-**Deployments:** Chapter 9 §9.11 close, after the return to the RV 10.71.2 sieve.
+**Deployments:** Chapter 9 §9.13 close, after the return to the RV 10.71.2 sieve.
 
 The quoted mantra is Ṛgveda 10.71.3:
 
@@ -359,9 +359,9 @@ The ***kṛ*** dhātu (कृ), to which *sam-* attaches here, is among the most
 
 Crucially, ⟪कृ⟫ does not mean *assemble*. Sanskrit has other dhātavaḥ for that operation: ⟪युज्⟫ (*yuj*, to yoke, to join), and *sam-* + ⟪धा⟫ (*dhā*, to put together). ⟪कृ⟫ denotes primary creative action — the bringing into being, not the combinatorial joining of pre-existing parts. This distinction supports the translation choices argued below.
 
-The past participle ***kṛta*** (कृत) is the *kṛdanta* formation: *kṛ* + the *-ta* suffix governed by *Aṣṭādhyāyī* 3.2.102 *(niṣṭhā)*. The resulting form means *made, done, created, produced, accomplished*. Used adjectivally or substantively, it denotes the completed state of the *kṛ*-action.
+The past participle ***kṛta*** (कृत) is the *kṛdanta* formation: *kṛ* + the *-ta* suffix specified by *Aṣṭādhyāyī* 3.2.102 *(niṣṭhā)*. The resulting form means *made, done, created, produced, accomplished*. Used adjectivally or substantively, it denotes the completed state of the *kṛ*-action.
 
-The compound *sam-* + *kṛta* yields ***saṃskṛta***. The sandhi transformation — the *m* of *sam-* assimilates to *anusvāra* (ṃ) before the velar *k* — is governed by the rules at *Aṣṭādhyāyī* 8.3.23 and following. The neuter nominative singular form, used when referring to the language, takes the *-am* ending: *saṃskṛtam* (संस्कृतम्).
+The compound *sam-* + *kṛta* yields ***saṃskṛta***. The sandhi transformation — the *m* of *sam-* assimilates to *anusvāra* (ṃ) before the velar *k* — follows the rules at *Aṣṭādhyāyī* 8.3.23 and following. The neuter nominative singular form, used when referring to the language, takes the *-am* ending: *saṃskṛtam* (संस्कृतम्).
 
 The compound is *karmadhāraya* — adjective-noun in structure, with the prefix qualifying the past participle's sense. The result is a state in which the *kṛ*-action has reached its *sam-* completion: the made-completely, the created-as-a-whole, the produced-in-its-totality.
 
@@ -2609,7 +2609,7 @@ Source anchors: *Chāndogya Upaniṣad* 1.1.1-3 and 1.5.1-3; *Māṇḍūkya Upa
 
 ### `sandhi-anusvara-assimilation`
 
-**Short:** Pāṇini's *Aṣṭādhyāyī* 8.4.58 — ***anusvārasya yayi parasavarṇaḥ*** (अनुस्वारस्य ययि परसवर्णः) — governs the *anusvāra* (अनुस्वार ं) assimilation rule: before a *varga* consonant, the terminal nasal takes the homorganic nasal of the following consonant's place (ṃ + *k-varga* → ङ्; + *c-varga* → ञ्; + *ṭ-varga* → ण्; + *t-varga* → न्; + *p-varga* → म्); the *snap-to-grid* relaxes in governed ways at boundary positions to preserve *varga*-place coherence at every syllable boundary.
+**Short:** Pāṇini's *Aṣṭādhyāyī* 8.4.58 — ***anusvārasya yayi parasavarṇaḥ*** (अनुस्वारस्य ययि परसवर्णः) — governs the *anusvāra* (अनुस्वार ं) assimilation rule: before a *varga* consonant, the terminal nasal takes the homorganic nasal of the following consonant's place (ṃ + *k-varga* → ङ्; + *c-varga* → ञ्; + *ṭ-varga* → ण्; + *t-varga* → न्; + *p-varga* → म्); the *snap-to-grid* relaxes in specified ways at boundary positions to preserve *varga*-place coherence at every syllable boundary.
 
 **Deployments:** Chapter 9 §9.5 — the citation anchor for the *anusvāra* place-of-articulation assimilation rule in *sandhi*.
 
@@ -2621,9 +2621,9 @@ The Sanskrit ***sandhi*** rule for *anusvāra* (the terminal nasal ṃ) before a
 - *ṃ + t-varga* (*ta, tha, da, dha*) → न्त, न्थ, न्द, न्ध (the dental nasal n)
 - *ṃ + p-varga* (*pa, pha, ba, bha*) → म्प, म्फ, म्ब, म्भ (the labial nasal m)
 
-The rule is governed in the *Aṣṭādhyāyī* by *sūtra* 8.4.58 — *anusvārasya yayi parasavarṇaḥ* — "the *anusvāra*, when followed by a *yay* (any of the *varga* consonants), takes the *parasavarṇa* — the homorganic nasal corresponding to the following consonant's *varga*."
+The *Aṣṭādhyāyī* specifies the rule in *sūtra* 8.4.58 — *anusvārasya yayi parasavarṇaḥ* — "the *anusvāra*, when followed by a *yay* (any of the *varga* consonants), takes the *parasavarṇa* — the homorganic nasal corresponding to the following consonant's *varga*."
 
-Structural significance: the *anusvāra*-assimilation rule is the worked example of the *snap-to-grid* principle relaxing in *governed* ways at boundary positions. The nasal does not stay at one fixed position; it relocates to match the following consonant's row. The grid relaxation is *governed* by the *sandhi* rule; the rule is *general* across all five *vargas* (the nasal always moves to match the following stop's place); the rule is *engineered* (it preserves the *varga*-place coherence at every syllable boundary). The relaxation is not random; it is the controlled loosening the architecture builds in.
+Structural significance: the *anusvāra*-assimilation rule is the worked example of the *snap-to-grid* principle relaxing in *specified* ways at boundary positions. The nasal does not stay at one fixed position; it relocates to match the following consonant's row. The *sandhi* rule specifies the grid relaxation; the rule is *general* across all five *vargas* (the nasal always moves to match the following stop's place); the rule is *engineered* (it preserves the *varga*-place coherence at every syllable boundary). The relaxation is not random; it is the controlled loosening the architecture builds in.
 
 The phonetic logic: an unconstrained terminal nasal followed by a stop at a different place would require two articulator movements in close sequence — the nasal articulator moving to one position, releasing, and the stop articulator moving to a different position. The assimilation rule co-locates the two: the nasal pre-positions itself at the stop's place, simplifying the motor-control problem and producing a smoother articulation. The engineering serves both the listener (the assimilated nasal-stop sequence is cleaner acoustically) and the speaker (the co-located articulation is mechanically simpler).
 
@@ -2635,7 +2635,7 @@ Standard references: Pāṇini's *Aṣṭādhyāyī*, *sūtra* 8.4.58 and the su
 
 **Short:** The phonetic-classificatory vocabulary (*sthāna*, *karaṇa*, *prayatna*, *prāṇa*, *ghoṣa*, *anunāsika*, *sparśa*, *varga*, *varṇa*) is documented across the *Prātiśākhya* literature (*Ṛk-Prātiśākhya* (ऋक्प्रातिशाख्य) of Śaunaka, *Taittirīya-Prātiśākhya* (तैत्तिरीयप्रातिशाख्य), *Vājasaneyī-Prātiśākhya* (वाजसनेयिप्रातिशाख्य) of Kātyāyana, *Atharvaveda-Prātiśākhya*, *Ṛk-Tantra-Prātiśākhya*) and the *Śikṣā* (शिक्षा) texts (*Pāṇinīya-Śikṣā*, *Nāradīya-Śikṣā*, *Yājñavalkya-Śikṣā*, *Āpiśali-Śikṣā*, *Vyāsa-Śikṣā*) — pre-Pāṇinian engineering vocabulary used as already-established technical terminology, presupposed by Pāṇini's *Aṣṭādhyāyī*.
 
-**Deployments:** Chapter 9 §9.1 and §9.11 — the citation anchor for the *Prātiśākhya* and *Śikṣā* documentation of the *varṇa*-level phonetic discipline as pre-Pāṇinian; Chapter 9 §9.11 — the citation anchor for Pāṇini's Māheśvara-sūtras indexing an already operating sound-inventory.
+**Deployments:** Chapter 9 §9.1 and §9.13 — the citation anchor for the *Prātiśākhya* and *Śikṣā* documentation of the *varṇa*-level phonetic discipline as pre-Pāṇinian; Chapter 9 §9.13 — the citation anchor for Pāṇini's Māheśvara-sūtras indexing an already operating sound-inventory.
 
 The phonetic-classificatory vocabulary used here — *sthāna*, *karaṇa*, *prayatna*, *prāṇa*, *ghoṣa*, *anunāsika*, *sparśa*, *swara*, *antaḥstha*, *ūṣman*, *spṛṣṭa*, *aspṛṣṭa*, *aghoṣa*, *alpa-prāṇa*, *mahā-prāṇa*, *anupradāna*, *vivṛta*, *saṃvṛta*, *varga*, *varṇa* — is documented across the *Prātiśākhya* and *Śikṣā* literature, which together constitute the received phonetic-recitational *śāstra* of the *Vedāṅga* disciplines. The ordered sound-inventory later called the *varṇamālā* operates within this older vocabulary.
 
@@ -2660,7 +2660,7 @@ The principal *Śikṣā* texts (the *Vedāṅga* discipline of phonetic-recitat
 - ***Vyāsa-Śikṣā*** — attributed to Vyāsa.
 - and others: *Vasiṣṭha-Śikṣā*, *Kātyāyana-Śikṣā*, *Parāśara-Śikṣā*, *Māṇḍūkī-Śikṣā*.
 
-The texts together document the phonetic-classificatory vocabulary used in §9.1 and §9.11. The vocabulary is *pre-Pāṇinian* — the *Prātiśākhya* and *Śikṣā* literature presupposes the vocabulary as already-established technical terminology and uses it without justifying its construction. Pāṇini's *Aṣṭādhyāyī* operates on the same vocabulary at points where the *Aṣṭādhyāyī*'s rules engage phonetic specification (the *Māheśvara-sūtras* opening, the *sandhi* rules of *Adhyāyas* 6–8, the various place-of-articulation conditioned rules). The vocabulary is therefore at minimum as old as the *Prātiśākhya* discipline and, in its operational use, presupposed by Pāṇini's decoding.
+The texts together document the phonetic-classificatory vocabulary used in §9.1 and §9.13. The vocabulary is *pre-Pāṇinian* — the *Prātiśākhya* and *Śikṣā* literature presupposes the vocabulary as already-established technical terminology and uses it without justifying its construction. Pāṇini's *Aṣṭādhyāyī* operates on the same vocabulary at points where the *Aṣṭādhyāyī*'s rules engage phonetic specification (the *Māheśvara-sūtras* opening, the *sandhi* rules of *Adhyāyas* 6–8, the various place-of-articulation conditioned rules). The vocabulary is therefore at minimum as old as the *Prātiśākhya* discipline and, in its operational use, presupposed by Pāṇini's decoding.
 
 Structural significance: the ordered sound-inventory later called the *varṇamālā* is not a Pāṇinian invention. Its working categories belong to the engineering vocabulary of the *Vedāṅga* disciplines' phonetic śāstra, in operational use across the guru-shishya lineage before Pāṇini and documented in stable received form by the *Prātiśākhya* and *Śikṣā* literature. Pāṇini and the *Prātiśākhya* compilers documented its operation; they did not create the architecture they indexed.
 
@@ -2858,7 +2858,7 @@ Standard references: Gunnar Fant, *Acoustic Theory of Speech Production* (Mouton
 
 ### `hrasva-dirgha-pluta-matra`
 
-**Short:** The Sanskrit phonetic discipline classifies vowel duration in three standard degrees, measured in ***mātrā*** (मात्रा) units: ***hrasva*** (ह्रस्व, *short* — 1 *mātrā*, ~100 ms; *a, i, u, ṛ, ḷ*), ***dīrgha*** (दीर्घ, *long* — 2 *mātrās*; *ā, ī, ū, ṝ, e, ai, o, au*), and ***pluta*** (प्लुत, *extended* — 3+ *mātrās*, used in calling across distance and certain Vedic recitational contexts); governed by *Aṣṭādhyāyī* 1.2.27–28 (*ūkālo 'jjhrasvadīrghaplutaḥ*) — the temporal dimension of the engineered phonological apparatus, preserved by the Vedic recitation lineages with reproducible 1:2:3 timing-ratios.
+**Short:** The Sanskrit phonetic discipline classifies vowel duration in three standard degrees, measured in ***mātrā*** (मात्रा) units: ***hrasva*** (ह्रस्व, *short* — 1 *mātrā*, ~100 ms; *a, i, u, ṛ, ḷ*), ***dīrgha*** (दीर्घ, *long* — 2 *mātrās*; *ā, ī, ū, ṝ, e, ai, o, au*), and ***pluta*** (प्लुत, *extended* — 3+ *mātrās*, used in calling across distance and certain Vedic recitational contexts); *Aṣṭādhyāyī* 1.2.27–28 (*ūkālo 'jjhrasvadīrghaplutaḥ*) specifies the temporal dimension of the engineered phonological apparatus, which Vedic recitation lineages preserve with reproducible 1:2:3 timing-ratios.
 
 **Deployments:** Chapter 7 §7.4 — first seed of *mātrā* as measured sound-duration; Chapter 9 §9.6 — the citation anchor for the three-fold vowel-duration classification in the Sanskrit phonetic discipline.
 
@@ -2870,7 +2870,7 @@ The Sanskrit phonetic discipline distinguishes three standard durations for vowe
 
 3. ***प्लुत (pluta)*** — *extended*. Three or more *mātrās*. Used in calling-out across distance, in certain Vedic recitational contexts, and in moments where the speaker holds the vowel deliberately. The standard Pāṇinian example is *he Devadatta3* — the numeral *3* in some Sanskrit texts denotes a *pluta* vowel held for three beats. The use is restricted; *pluta* does not function as a routine vowel-duration in Pāṇinian *bhāṣāyām*.
 
-The three-fold classification is governed in the *Aṣṭādhyāyī* by *sūtras* 1.2.27–28: *ūkālo 'jjhrasvadīrghaplutaḥ*; *acaśca* — defining the three durations and their applicability. The *Prātiśākhya* and *Śikṣā* texts develop the duration apparatus in detail, with specific recitational rules for how each duration is to be held in different contextual environments.
+The *Aṣṭādhyāyī* specifies the three-fold classification in *sūtras* 1.2.27–28: *ūkālo 'jjhrasvadīrghaplutaḥ*; *acaśca* — defining the three durations and their applicability. The *Prātiśākhya* and *Śikṣā* texts develop the duration apparatus in detail, with specific recitational rules for how each duration is to be held in different contextual environments.
 
 The structural significance: the *mātrā*-based duration apparatus is the temporal-engineering dimension of the Sanskrit phonological infrastructure. Vowels are not only specified by their formant signature (F1, F2 — the place-and-manner dimension) but also by their temporal extent (one, two, or three+ *mātrās* — the duration dimension). The full vowel specification is therefore a three-axis description: place (back-of-mouth vs. front-of-mouth — *a/ā*, *i/ī*, *u/ū*, etc.), manner (open vs. close), and duration (one, two, three+ *mātrās*).
 
@@ -2884,7 +2884,7 @@ Standard references: Pāṇini's *Aṣṭādhyāyī*, *sūtras* 1.2.27–28; the
 
 **Short:** The *Śikṣā* timing discipline treats a consonant as a half-*mātrā* event. The line preserved in multiple *śikṣā* texts is **व्यञ्जनं चार्धमात्रिकम् (*vyañjanaṃ cārdhamātrikam*)**: the consonant is half-measured. The claim is proportional, not a fixed millisecond value. Sanskrit does not let consonants become timeless filler; it measures them.
 
-**Deployments:** Chapter 9 §9.11 — the citation anchor for the consonant as a half-*mātrā* event; Chapter 15 §15.1 — on *Śikṣā* texts as precision-instrument specifications. Additional candidate site for later deployment — Chapter 14 §14.3 (the cryptographic-hash analogy / six-timescales-of-correction discussion).
+**Deployments:** Chapter 9 §9.13 — the citation anchor for the consonant as a half-*mātrā* event; Chapter 15 §15.1 — on *Śikṣā* texts as precision-instrument specifications. Additional candidate site for later deployment — Chapter 14 §14.3 (the cryptographic-hash analogy / six-timescales-of-correction discussion).
 
 The *śikṣā* tradition assigns explicit *mātrā* counts to the sound classes. A common formulation appears in *Yājñavalkya Śikṣā* 13 and in related *śikṣā* manuals:
 
@@ -2951,9 +2951,9 @@ The Vedic recitation lineages operate on a three-fold accent system that specifi
 
 3. ***स्वरित (svarita)*** — *sounded*. The mid-falling-pitch accent that follows an *udātta* syllable. The *svarita* is acoustically distinctive — it begins at the *udātta* high-pitch level and falls during the syllable to the *anudātta* low-pitch level, producing a characteristic downward pitch contour. Shown with a vertical line above the syllable in the standard Vedic manuscript notation, often differentiated from the *udātta* notation by the line's position relative to the syllable's vowel.
 
-The system existed in the Vedas before Pāṇini documented its operations. His *Aṣṭādhyāyī* records accent rules at several levels. Rules 3.1.3–4 establish default accent for affixes and make the *sup* endings and *p-it* affixes *anudātta*. Rules beginning at 6.1.158 govern accent within formed words. At the sentence level, 8.1.28 documents the ordinary ***निघात (*nighāta*)*** of a finite verb after a non-verbal word, while 8.1.30 and the rules that follow preserve verbal accent under specified conditions involving particles, sentence position, and syntax. A finite verb at the beginning of a sentence or metrical *pāda* retains its accent; subordinate and otherwise governed settings preserve accent under their own rules. The *Phiṭ-sūtras* of Śāntanava complement this analysis, while the *Prātiśākhya* disciplines specify the accent and recitational operations of their respective Vedic lineages.
+The system existed in the Vedas before Pāṇini documented its operations. His *Aṣṭādhyāyī* records accent rules at several levels. Rules 3.1.3–4 establish default accent for affixes and make the *sup* endings and *p-it* affixes *anudātta*. Rules beginning at 6.1.158 govern accent within formed words. At the sentence level, 8.1.28 documents the ordinary ***निघात (*nighāta*)*** of a finite verb after a non-verbal word, while 8.1.30 and the rules that follow preserve verbal accent under specified conditions involving particles, sentence position, and syntax. A finite verb at the beginning of a sentence or metrical *pāda* retains its accent; subordinate and other specified settings preserve accent under their own rules. The *Phiṭ-sūtras* of Śāntanava complement this analysis, while the *Prātiśākhya* disciplines specify the accent and recitational operations of their respective Vedic lineages.
 
-The structural significance extends beyond correct chanting. Vedic pitch contributes to meaning and grammatical interpretation. It can distinguish the function of compounds, vocatives, particles, and finite verbs; it can also reveal how a verb participates in a main or subordinate clause. Because a main-clause finite verb may undergo *nighāta*, pitch does not give every *lakāra* a unique audible label. The system instead adds one more governed channel through which the listener interprets the complete passage.
+The structural significance extends beyond correct chanting. Vedic pitch contributes to meaning and grammatical interpretation. It can distinguish the function of compounds, vocatives, particles, and finite verbs; it can also reveal how a verb participates in a main or subordinate clause. Because a main-clause finite verb may undergo *nighāta*, pitch does not give every *lakāra* a unique audible label. The system instead adds one more structured channel through which the listener interprets the complete passage.
 
 This distinction becomes architecturally important when the two domains are compared. The Vedas are read-only. Their pitch, words, syntax, sequence, and inherited interpretation remain together, allowing the *vaidika* domain to preserve additional grammatical breadth without allowing its variations to spread unpredictably. The *laukika* domain supports new composition and operates without this preserved pitch layer. Its productive grammar therefore benefits from tighter paradigms whose distinctions remain recoverable in sentences that have never been composed before.
 
@@ -2961,11 +2961,175 @@ Standard references: Pāṇini's *Aṣṭādhyāyī* 3.1.3–4, 6.1.158 and foll
 
 ---
 
+### `svara-nine-families-132`
+
+**Short:** Sanskrit's familiar fourteen-form written vowel row and its internal
+sound analysis serve different purposes. The inherited analytical structure
+provides nine vowel families, twenty-two available duration positions, three
+pitch relations, and oral/nasal form. *Atomic Sanskrit* brings those
+components into one matrix and derives 132 analytically distinguishable forms.
+The number does not claim 132 written vowels or 132 forms found in received
+passages.
+
+**Deployment:** Chapter 9 §9.8.
+
+The components come from documented distinctions. This book supplies the
+combined matrix:
+
+- Aṣṭādhyāyī 1.2.27 distinguishes ***ह्रस्व, दीर्घ,*** and ***प्लुत
+  (*hrasva, dīrgha, pluta*)*** duration.
+- Aṣṭādhyāyī 1.2.29–31 distinguishes ***उदात्त, अनुदात्त,*** and
+  ***स्वरित (*udātta, anudātta, svarita*)*** pitch.
+- Aṣṭādhyāyī 1.1.8 identifies ***अनुनासिक (*anunāsika*)***,
+  giving the oral/nasal distinction used in the later synthesis.
+- The commentarial and teaching lineage gives **अ, इ, उ, ऋ** all three
+  durations; **ऌ** lacks a regular *dīrgha*, while **ए, ऐ, ओ, औ** lack a
+  generally reusable *hrasva*.
+
+Each available duration can therefore be analyzed through six combinations:
+three pitch relations multiplied by two nasal states. Four families have
+eighteen each, and five have twelve each:
+
+> **4 × 18 + 5 × 12 = 132**
+
+The **132-form matrix is an original synthesis in this book**, built
+from inherited categories whose individual components are documented above.
+The received Vedic lineages do not necessarily
+populate every cell, and the Prātiśākhyas do not all enumerate the initial
+vowel group identically. The Ṛgveda-Prātiśākhya counts eight initial
+*samānākṣarāṇi* followed by four *sandhyakṣarāṇi*, while the
+Taittirīya-Prātiśākhya begins with nine. The figure and body therefore use
+"nine families" for the complete analytical synthesis without erasing
+lineage-specific inventories.
+
+Sources: Aṣṭādhyāyī 1.1.8 and 1.2.27–32 with Kāśikā and
+Siddhāntakaumudī; Ṛgveda-Prātiśākhya 1.11; Taittirīya-Prātiśākhya, opening
+vowel classification; W. S. Allen, *Phonetics in Ancient India*, Chapter 6.
+
+---
+
+### `pass-selection-scope-principle`
+
+**Short:** The ***Principle of Architectural Selection and Scope (PASS)*** is
+this book's name for a recurring analytical sequence already used across its
+sound and domain arguments: identify what a resource contributes, identify the
+load created by duplication or collision, determine what can contain that load,
+and establish the scope in which the resource can operate.
+
+**Deployments:** Chapter 9 §9.10; Chapter 16 §16.2; Appendix Part 8 §8.2.
+
+PASS is this book's analytical name for the recurring principle. Vedic and
+grammatical sources provide the underlying evidence: Sanskrit gives independent coordinates to reusable
+sonomers, generates *jihvāmūlīya* and *upadhmānīya* only under stated
+conditions, preserves half-*e* and half-*o* within named Sāmavedic lineages,
+retains *leṭ* inside the Vedic domain, and gives the read-write laukika domain a
+tighter reusable set. The principle provides one vocabulary for comparing
+those decisions without treating them as identical.
+
+The five scope labels are analytical descriptions:
+
+- **Included:** part of Sanskrit's reusable architecture;
+- **Restricted:** generated only under a stated condition;
+- **Vaidika:** available across the Vedic domain;
+- **Lineage-Bounded:** preserved by a named Vedic lineage;
+- **Excluded:** physically possible or formally imaginable, but not assigned
+  independent use in the relevant architecture.
+
+Sources and evidence remain attached to each application rather than to the
+principle as an abstract claim. See `sound-volume-two-open-coordinates`,
+`vedic-half-e-half-o`, `vedic-jihvamuliya-upadhmaniya-pair`, and
+`vedic-let-bravani-tarisat`.
+
+---
+
+### `vedic-half-e-half-o`
+
+**Short:** Patañjali's Mahābhāṣya reports that the Sātyamugri and Rāṇāyanīya
+Sāmavedic lineages recited half-*e* and half-*o*. Sanskrit therefore knew and
+preserved the short sounds in bounded Vedic use without adding them to the
+generally reusable vowel inventory.
+
+**Deployments:** Chapter 9 §§9.7 and 9.10; Chapter 16 §16.2.
+
+While discussing the vowel instruction **ए ओ ङ् (*e o ṅ*)**, the
+Mahābhāṣya states:
+
+> **ननु च भोश्छन्दोगानां सात्यमुग्रिराणायनीया
+> अर्धमेकारमर्धमोकारं चाधीयते ।**
+>
+> *nanu ca bhoś chandogānāṃ sātyamugrirāṇāyanīyāḥ ardham ekāram
+> ardham okāraṃ cādhīyate*
+>
+> But, sir, the Sātyamugri and Rāṇāyanīya lineages of the Sāmaveda recite a
+> half-*e* and a half-*o*.
+
+The discussion supplies examples and then says that these half-vowels do not
+occur in ordinary worldly speech or in another Veda:
+
+> **नैव हि लोके नान्यस्मिन् वेदे अर्ध एकारः अर्ध ओकारो वा अस्ति ।**
+
+The passage provides an unusually clear scope distinction. It records the
+sounds, names the lineages that preserve them, and confines them to that
+recitational use. In the terminology introduced in Chapter 9, this is
+Lineage-Bounded selection.
+
+Sources: Patañjali, *Vyākaraṇamahābhāṣya*, discussion on **ए ओ ङ्**,
+Kielhorn edition I.22.21–24; Malcolm D. Hyman, "Linguistic Issues in Encoding
+Sanskrit," citing the same passage and the wider short-*e/short-o* phonetic
+literature.
+
+---
+
+### `svara-avarna-operation`
+
+**Short:** Sanskrit selects one-*mātrā saṃvṛta* **अ** and two-*mātrā
+vivṛta* **आ** as the reusable *avarṇa* pair. It leaves the inverse
+possibilities open: a sustained two-*mātrā saṃvṛta* vowel and a short
+one-*mātrā vivṛta* vowel. The internal disciplines preserve the physical
+difference while treating **अ/आ** as one operational family where required.
+
+**Deployment:** Chapter 9 §9.10.
+
+Ṛgveda 10.129.1 supplies a received example. The *padapāṭha* separates:
+
+> **न । असत् ।**
+
+The connected *saṃhitāpāṭha* gives:
+
+> **नासद्**
+
+The junction therefore makes the family operation visible:
+
+> **अ + अ → आ**
+
+Later grammatical documentation states the relation through
+**अकः सवर्णे दीर्घः (*akaḥ savarṇe dīrghaḥ*)**, Aṣṭādhyāyī 6.1.101. The
+commentarial lineage must still account for the physical distinction between
+contracted short **अ** and open **आ**. On the final rule **अ अ**,
+Aṣṭādhyāyī 8.4.68, the Kāśikā explains:
+
+> **अकारो विवृतोपदिष्टः संवृतप्रत्यापत्त्यर्थं प्रयुज्यते ।**
+>
+> *akāro vivṛtopadiṣṭaḥ saṃvṛtapratyāpattyarthaṃ prayujyate*
+>
+> The *akāra*, taught as *vivṛta*, is employed so that it may return to
+> *saṃvṛta*.
+
+The sources document the operation and the two spoken forms. They do not state
+why Sanskrit leaves the inverse one-*mātrā/two-mātrā* coordinates excluded.
+The selection-and-scope analysis is the book's architectural inference, not a
+quotation from a Vedic or grammatical source.
+
+Sources: Ṛgveda 10.129.1, *saṃhitāpāṭha* and Śākala *padapāṭha*;
+Aṣṭādhyāyī 1.1.9, 6.1.101, and 8.4.68 with Kāśikā.
+
+---
+
 ### `snap-to-grid-pragrihya-exception`
 
-**Short:** Sanskrit forces an eligible vowel junction to follow its specified operation while separately designated ***प्रगृह्य (*pragṛhya*)*** forms preserve their final vowel. Thus **कुमारी + अत्र → कुमार्यत्र (*kumārī + atra → kumāry atra*)**, while **धेनू + इमे (*dhenū + ime*)** remains unchanged. Transformation and preservation are both governed outcomes.
+**Short:** Sanskrit forces an eligible vowel junction to follow its specified operation while separately designated ***प्रगृह्य (*pragṛhya*)*** forms preserve their final vowel. Thus **कुमारी + अत्र → कुमार्यत्र (*kumārī + atra → kumāry atra*)**, while **धेनू + इमे (*dhenū + ime*)** remains unchanged. Transformation and preservation are both specified outcomes.
 
-**Deployments:** Chapter 9 §9.8 — qualification to the snap-to-grid operation.
+**Deployments:** Chapter 9 §9.10 — qualification to the snap-to-grid operation.
 
 The mouth can pronounce **इ + अ (*i + a*)** separately as **[i.a]**, but an ordinary eligible Sanskrit junction follows ***iko yaṇ aci*** and moves the first vowel to its paired *antaḥstha*, producing **य [j]** before the following **अ [a]** and resolving the sequence as **[ja]**. Sanskrit preserves a vowel junction only when the form meets a separately specified condition, as happens with ***प्रगृह्य (*pragṛhya*)*** forms: **कुमारी + अत्र → कुमार्यत्र (*kumārī + atra → kumāry atra*)**, while the *pragṛhya* dual **धेनू + इमे (*dhenū + ime*)** retains its final vowel. The architecture therefore governs both the transformation and its bounded exception through the grammatical status of the form.
 
@@ -2975,11 +3139,11 @@ Pāṇini assigns the *pragṛhya* designation beginning at *Aṣṭādhyāyī* 
 
 ### `sound-volume-two-open-coordinates`
 
-**Short:** Crossing Sanskrit's documented places and manners produces two open coordinates outside the independent consonant inventory: *kaṇṭhya–antaḥstha* near [ɰ] and *oṣṭhya–ūṣman* near [ɸ]. Both sounds are physically possible, but [ɰ] completes no fifth *ik → yaṇ* operation, while Sanskrit gives the [ɸ]-like articulation a governed role as *upadhmānīya*. The coordinated treatment of **अ/आ** and the contextual preservation of Ṛgvedic **ळ** provide two further controls: Sanskrit assigns sounds by architectural function rather than anatomical possibility alone.
+**Short:** Crossing Sanskrit's documented places and manners produces two coordinates excluded from the independent consonant inventory: *kaṇṭhya–antaḥstha* near [ɰ] and *oṣṭhya–ūṣman* near [ɸ]. Both sounds are physically possible, but [ɰ] completes no fifth *ik → yaṇ* operation, while Sanskrit gives the [ɸ]-like articulation a Restricted role as *upadhmānīya*. The coordinated treatment of **अ/आ** and the Lineage-Bounded preservation of Ṛgvedic **ळ** provide two further controls: Sanskrit assigns sounds by architectural function rather than anatomical possibility alone.
 
-**Deployments:** Chapter 8 §8.2 establishes contextual realization through *upadhmānīya*. Chapter 9 §§9.7–9.8 and Figure 9.5 develop the two-coordinate architecture.
+**Deployments:** Chapter 8 §8.2 establishes contextual realization through *upadhmānīya*. Chapter 9 §§9.9–9.10 and Figure 9.6 develop the two-coordinate architecture.
 
-**The analytical grid.** Figure 9.5 crosses categories documented in the Sanskrit phonetic disciplines by placing five broad *sthāna* columns against five *sparśa* rows, one *antaḥstha* row, and one *ūṣman* row. Although no *Śikṣā* or *Prātiśākhya* prints this thirty-five-cell rectangle, the received inventory supplies the twenty-five *sparśa*, four *antaḥstha* (**य र ल व**), and four *ūṣman* (**श ष स ह**) from which the crossing reveals two further physical coordinates outside the independent inventory.
+**The analytical grid.** Figure 9.6 crosses categories documented in the Sanskrit phonetic disciplines by placing five broad *sthāna* columns against five *sparśa* rows, one *antaḥstha* row, and one *ūṣman* row. Although no *Śikṣā* or *Prātiśākhya* prints this thirty-five-cell rectangle, the received inventory supplies the twenty-five *sparśa*, four *antaḥstha* (**य र ल व**), and four *ūṣman* (**श ष स ह**) from which the crossing reveals two further physical coordinates outside the independent inventory.
 
 | Coordinate in the extended grid | Nearest modern IPA coordinate | Articulation | Sanskrit status |
 |---|---|---|---|
@@ -2998,9 +3162,9 @@ This account documents the coordination; it does not document why Sanskrit's inv
 
 **2. The open *oṣṭhya–ūṣman* coordinate.** The familiar **[f]** and the target **[ɸ]** differ by one contact: *phone*, *front*, and *fast* bring the lower lip toward the upper teeth for labiodental [f], whereas removing the teeth from the operation and continuing the friction with both lips produces bilabial [ɸ], the nearest modern sound to the pure *oṣṭhya–ūṣman* coordinate.
 
-The bilabial sounds **फ [pʰ]** and **[ɸ]** require separation. **फ** begins with complete closure for **प [p]** and releases *mahāprāṇa* after the lips open, whereas [ɸ] keeps the lips slightly apart and sustains friction between them. Sanskrit assigns the two articulations different structural roles: **फ** remains independently reusable within the complete stop series, and the [ɸ]-like articulation appears when a governed boundary produces it. The snap-to-grid regularizes their status within the inventory while preserving the audible difference.
+The bilabial sounds **फ [pʰ]** and **[ɸ]** require separation. **फ** begins with complete closure for **प [p]** and releases *mahāprāṇa* after the lips open, whereas [ɸ] keeps the lips slightly apart and sustains friction between them. Sanskrit assigns the two articulations different structural roles: **फ** remains independently reusable within the complete stop series, and the [ɸ]-like articulation appears when a specified boundary produces it. The snap-to-grid regularizes their status within the inventory while preserving the audible difference.
 
-Sanskrit gives this articulation a governed boundary role in passages such as Ṛgveda 1.1.2, **अग्निः पूर्वेभिर् (*agniḥ pūrvebhir*)**, where the *visarga* before **प (*pa*)** may become the bilabial breath-sound written **ᳶ**, producing **अग्निᳶ पूर्वेभिर्**. Pāṇini later documented the transformation in *Aṣṭādhyāyī* 8.3.37, while the *Taittirīya-Prātiśākhya* listed the sound separately as ***upadhmānīya*** and described the same-place spirant produced before a following voiceless consonant. Since its account preserves teacher-level variation across the guttural and labial environments, [ɸ]-like remains the appropriate modern description without imposing one uniform realization on every recensional practice.
+Sanskrit gives this articulation a restricted boundary role in passages such as Ṛgveda 1.1.2, **अग्निः पूर्वेभिर् (*agniḥ pūrvebhir*)**, where the *visarga* before **प (*pa*)** may become the bilabial breath-sound written **ᳶ**, producing **अग्निᳶ पूर्वेभिर्**. Pāṇini later documented the transformation in *Aṣṭādhyāyī* 8.3.37, while the *Taittirīya-Prātiśākhya* listed the sound separately as ***upadhmānīya*** and described the same-place spirant produced before a following voiceless consonant. Since its account preserves teacher-level variation across the guttural and labial environments, [ɸ]-like remains the appropriate modern description without imposing one uniform realization on every recensional practice.
 
 **The checked comparison field.** The central and southern samples established in Chapter 8 bring together language-specific descriptions of Korku, Mundari, Ho, Tamil, Telugu, and Kannada, none of which places [ɰ] or [ɸ] in its independent consonant inventory.
 
@@ -3016,7 +3180,7 @@ This distribution across the selected field cannot describe every speaker, varie
 
 **Completeness controls.** The wider survey found several language-specific arrangements: Torwali generates [ɰ] contextually through weakening of /g/ or /ɣ/ and an [ɸ]-like output through weakening of /pʰ/ while placing neither in its phonemic inventory; Shina records an isolated nonphonemic [ɸ]; Indus Kohistani independently uses a voiceless bilabial fricative; contemporary Uzbek also supplies [ɸ]; and ancient Iranian writing establishes labial friction without securely deciding [ɸ] against [f]. These controls demonstrate that languages can generate, marginalize, or independently deploy the same articulation, while their present distributions provide no itinerary or chronology for an imagined migrating people.
 
-**The ळ control.** Ṛgveda 1.1.1 preserves **ळ [ɭ]** in **ईळे (*īḷe*)**. The *Ṛgveda-Prātiśākhya* 1.11–12 states that intervocalic **ड** becomes **ळ**, with the corresponding **ढ → ळ्ह**, and gives **इळा** and **साळ्हा** as examples. Within this account, **ळ** is a governed contextual realization rather than an additional independent coordinate. Modern Indian languages that use **ळ** contrastively supply the control: the same articulation can serve as a reusable consonant in one architecture and as a context-generated realization in another.
+**The ळ control.** Ṛgveda 1.1.1 preserves **ळ [ɭ]** in **ईळे (*īḷe*)**. The *Ṛgveda-Prātiśākhya* 1.11–12 states that intervocalic **ड** becomes **ळ**, with the corresponding **ढ → ळ्ह**, and gives **इळा** and **साळ्हा** as examples. Within this account, **ळ** is a condition-generated form rather than an additional independent coordinate. Modern Indian languages that use **ळ** contrastively supply the control: the same articulation can serve as a reusable consonant in one architecture and as a context-generated form in another.
 
 **The architectural inference.** Sanskrit's matrix separates four operations that a flat inventory can obscure:
 
@@ -3024,10 +3188,10 @@ This distribution across the selected field cannot describe every speaker, varie
 |---|---|
 | selected reusable coordinate | the five stop stations |
 | generated reusable series | *mahāprāṇa* applied across all five stations |
-| governed contextual output | *upadhmānīya* at a stated boundary |
+| condition-generated output | *upadhmānīya* at a stated boundary |
 | preserved Vedic realization | Ṛgvedic **ळ** generated in a stated environment |
 
-The open semivowel coordinate completes no fifth *ik → yaṇ* relationship, while the open labial-fricative coordinate already receives a contextual output. The evidence documents the resulting assignments. The book's architectural inference is that Sanskrit's designers surveyed a larger sound-field, promoted selected articulations into reusable coordinates, extended some through complete operations, and preserved others at governed junctions.
+The open semivowel coordinate completes no fifth *ik → yaṇ* relationship, while the open labial-fricative coordinate already receives a contextual output. The evidence documents the resulting assignments. The book's architectural inference is that Sanskrit's designers surveyed a larger sound-field, promoted selected articulations into reusable coordinates, extended some through complete operations, and preserved others at specified junctions.
 
 The documented operations distinguish reusable inputs from contextual outputs, and the six-language comparison establishes the regional recurrence on which the book bases its inference of field selection. Neither the grid nor modern inventories date that selection or identify an itinerary.
 
@@ -3062,7 +3226,7 @@ The *Ṛgveda-Prātiśākhya* gives the operation directly:
 >
 > *When this **ड** comes between two vowels, it becomes **ळ**. The corresponding **ढ**, joined with breath, becomes **ळ्ह**; **इळा** and **साळ्हा** are the examples.*
 
-In modern linguistic terms, the stated environment makes **ळ** a governed contextual realization of **ड** within this Ṛgvedic account. The distinction is architectural rather than anatomical: the mouth produces **ळ**, the Vedic transmission preserves it, and the phonetic discipline specifies when it appears. Other Indic languages can give **ळ** independent contrast and a full productive series; that separate use does not turn the Ṛgvedic realization into an additional reusable Sanskrit coordinate.
+In modern linguistic terms, the stated environment makes **ळ** a condition-generated form of **ड** within this Ṛgvedic account. The distinction is architectural rather than anatomical: the mouth produces **ळ**, the Vedic transmission preserves it, and the phonetic discipline specifies when it appears. Other Indic languages can give **ळ** independent contrast and a full productive series; that separate use does not turn the Ṛgvedic form into an additional reusable Sanskrit coordinate.
 
 This sound also clarifies the two-domain architecture. The *vaidika* domain preserves the exact sound-form required by the mantra. The *laukika* domain supports continuing generation, so its reusable inventory can remain complete without assigning a separate coordinate to a sound produced under a stated Vedic condition. Pāṇini later documents the wider *chandas/bhāṣā* mode distinction throughout the *Aṣṭādhyāyī*; the direct phonetic account of **ड → ळ** here belongs to the *Ṛgveda-Prātiśākhya*.
 
@@ -3193,7 +3357,7 @@ Standard references: Suniti Kumar Chatterji, *The Origin and Development of the 
 
 **Short:** Sindhi — the language of Sindh, the Sindhu river region — operates a productive set of *implosive* consonants (**ɓ** ٻ/ॿ bilabial, **ɗ** ڏ/ॾ alveolar, **ʄ** ڄ/ॼ palatal, **ɠ** ڳ/ॻ velar) produced with the glottis closed and lowered to create inward airflow on release. Their absence from the *varṇamālā* demonstrates that the subcontinental sound-field extends beyond Sanskrit's selected inventory.
 
-**Deployments:** Chapter 9 §9.9 — the citation anchor for Sindhi's implosive consonant inventory.
+**Deployments:** Chapter 9 §9.11 — the citation anchor for Sindhi's implosive consonant inventory.
 
 Sindhi — the language of Sindh, the Sindhu river region — operates a phoneme inventory that includes a set of *implosive* consonants not present in most other subcontinental languages. The Sindhi implosive inventory:
 
@@ -3216,7 +3380,7 @@ Standard references: A. R. Yegorova, *The Sindhi Language* (Nauka, Moscow, 1971,
 
 **Short:** Tamil includes a distinctive alveolar trill ***ற*** (*ṟa*) and alveolar nasal ***ன*** (*ṉa*) at the alveolar ridge, a third productive contact region between the dental and retroflex stations used by the *varṇamālā*. Tamil's inventory demonstrates that the subcontinental mouth operates distinctions beyond Sanskrit's selected five-station grid.
 
-**Deployments:** Chapter 9 §9.9 — the citation anchor for Tamil's distinctive alveolar trill phoneme ற (*ṟ*).
+**Deployments:** Chapter 9 §9.11 — the citation anchor for Tamil's distinctive alveolar trill phoneme ற (*ṟ*).
 
 Tamil's phoneme inventory includes a distinctive alveolar trill — written as ற (*ṟ* in standard IAST-style transliteration, or *RR* in some Tamil-romanization conventions). The alveolar trill is articulated at a contact-station between the dental and the retroflex positions — the tongue-tip strikes the alveolar ridge (the boundary between the back of the upper teeth and the front of the hard palate), distinct from both the dental contact-station of ந (*na*) / த (*ta*) and the retroflex contact-station of ண (*ṇa*) / ட (*ṭa*).
 
@@ -3238,7 +3402,7 @@ Standard references: Kamil Zvelebil, *The Smile of Murugan* (Brill, 1973); Bhadr
 
 **Short:** Languages of the central-eastern forest belt, including Ho and Mundari, operate glottal closure as a *checked-consonant* distinction; Ho *daʔ* "water," for example, ends in a closure absent from *da*. The *varṇamālā* gives no independent coordinate to a glottal stop, once again showing that Sanskrit's selected inventory is narrower than the articulations used across the subcontinental field.
 
-**Deployments:** Chapter 8 §8.7 and Chapter 9 §9.9 — the citation anchor for the glottal-stop / checked-consonant phonological feature of Ho, Mundari, and the related languages of the central-eastern forest belt.
+**Deployments:** Chapter 8 §8.7 and Chapter 9 §9.11 — the citation anchor for the glottal-stop / checked-consonant phonological feature of Ho, Mundari, and the related languages of the central-eastern forest belt.
 
 The languages of the central-eastern forest belt — Ho, Mundari, Santali, Korku, Sora, and the related languages spoken across the Chotanagpur plateau, the surrounding regions of Jharkhand, Odisha, Bihar, West Bengal, and the central-eastern forest zones — operate phonemic glottal stops as distinctive phonological features. The glottal-stop phenomenon in these languages is documented in the linguistic descriptions as ***checked consonants*** — word-final or syllable-final glottal closures that distinguish minimal pairs.
 
@@ -3261,7 +3425,7 @@ Standard references: G. A. Grierson, *Linguistic Survey of India*, Volume IV (Mu
 
 **Short:** Urdu's Persian-and-Arabic layer uses phonemes outside the core *varṇamālā* — labiodental ***f*** (ف / फ़), voiced ***z*** (ز / ज़), uvular ***q*** (ق / क़), and fricatives represented by ***kh*** (خ / ख़) and ***gh*** (غ / ग़). Dotted Devanāgarī forms give these contact-layer sounds a visible interface without adding new coordinates to the inherited Sanskrit grid.
 
-**Deployments:** Chapter 9 §9.9 — the citation anchor for the labio-dental fricative (and related loan-phoneme) inventory in Urdu and Persian-and-Arabic-influenced speech.
+**Deployments:** Chapter 9 §9.11 — the citation anchor for the labio-dental fricative (and related loan-phoneme) inventory in Urdu and Persian-and-Arabic-influenced speech.
 
 Urdu — the Persian-and-Arabic-loaned layer of Hindustani that operates with the Perso-Arabic script (*nastaʿlīq*) and that contains substantial Persian and Arabic vocabulary — includes phonemes that broader Hindi usage does not productively use and that the *varṇamālā* does not include in its base inventory. The principal loan-phonemes:
 
@@ -3731,7 +3895,7 @@ Standard references: Frits Staal, *Agni: The Vedic Ritual of the Fire Altar* (As
 
 ### `cross-shakha-verification-fieldwork`
 
-**Short:** Cross-*śākhā* verification fieldwork extends beyond the Staal 1975 Nambūdiri expedition: the BORI *Mahābhārata* Critical Edition (Sukthankar et al., 1933–1966); Wayne Howard's *Sāmavedic* fieldwork (*Sāmavedic Chant*, Yale University Press, 1977) across Nambūdiri Kerala / Kauthuma Maharashtra / Jaiminiya Tamil Nadu lineages; Madeleine Biardeau's career-long *śrauta* documentation at École Pratique des Hautes Études; archives at the *Veda Rakṣaṇa Nidhi* Trust, *Vaidika Samshodhana Mandala* Pune, Tirupati Sri Venkateswara Vedic University, and Banaras Hindu University Vedic Research Centre. Where lineages diverge, the divergences are catalogued, named, and located at the level the *Prātiśākhya* texts predict — independent checks against a common source, with recitational agreement at the governed points.
+**Short:** Cross-*śākhā* verification fieldwork extends beyond the Staal 1975 Nambūdiri expedition: the BORI *Mahābhārata* Critical Edition (Sukthankar et al., 1933–1966); Wayne Howard's *Sāmavedic* fieldwork (*Sāmavedic Chant*, Yale University Press, 1977) across Nambūdiri Kerala / Kauthuma Maharashtra / Jaiminiya Tamil Nadu lineages; Madeleine Biardeau's career-long *śrauta* documentation at École Pratique des Hautes Études; archives at the *Veda Rakṣaṇa Nidhi* Trust, *Vaidika Samshodhana Mandala* Pune, Tirupati Sri Venkateswara Vedic University, and Banaras Hindu University Vedic Research Centre. Where lineages diverge, the divergences are catalogued, named, and located at the points the *Prātiśākhya* texts predict — independent checks against a common source, with recitational agreement at those specified points.
 
 **Deployments:** Chapter 15 §15.4 ¶ — the citation anchor for the cross-*śākhā* verification fieldwork on Vedic recitation.
 
@@ -3747,7 +3911,7 @@ The subsequent fieldwork on Vedic recitation across multiple *śākhā* lineages
 
 - **Contemporary fieldwork**: ongoing recording projects by Indian Vedic-research institutions (Tirupati Sri Venkateswara Vedic University; Banaras Hindu University Vedic Research Centre; Pune Vaidika Samshodhana Mandala) and international collaboration projects.
 
-The empirical observation for Ch15: where the lineages diverge in their recitations, the divergences are *catalogued, named, and located* — *this śākhā has this reading at this point; that śākhā has that reading at that point*. The *Prātiśākhya* of each *śākhā* lays out the phonetic constants the *śākhā* preserves; the differences across lineages are at the level the *Prātiśākhya* texts *predict* rather than at the level of free drift. The lineages function as independent checks against one another; the recitational evidence agrees at the governed points.
+The empirical observation for Ch15: where the lineages diverge in their recitations, the divergences are *catalogued, named, and located* — *this śākhā has this reading at this point; that śākhā has that reading at that point*. The *Prātiśākhya* of each *śākhā* lays out the phonetic constants the *śākhā* preserves; the differences across lineages are at the level the *Prātiśākhya* texts *predict* rather than at the level of free drift. The lineages function as independent checks against one another; the recitational evidence agrees at the specified points.
 
 Standard references: the works enumerated above; the broader literature on Vedic recitation as engineered preservation; the contemporary documentation projects available through the named institutions.
 
@@ -3919,7 +4083,7 @@ The lineage applies this formula to Sanskrit word-analysis. Chapter 19 openly ex
 
 Chapter 19 begins the worked exercise with the pyramid's **\*yeug- / \*yug-** image and then reads Greek *zygon*, Latin *iugum*, Gothic *juk*, and English *yoke* one language at a time. Appendix Part 1 develops the full sound analysis. The approximate Devanagari renderings are pedagogical sound-maps rather than historical spellings. The comparison uses the *varṇamālā* as its instrument: Latin initial **i** in *iugum* represents **तालव्य अन्तःस्थ य (*tālavya antaḥstha ya*)**; the closing Greek and Latin **g** maps to **कण्ठ्य घोष अल्पप्राण ग (*kaṇṭhya ghoṣa alpaprāṇa ga*)**; and Gothic and English **k** maps to **कण्ठ्य अघोष अल्पप्राण क (*kaṇṭhya aghoṣa alpaprāṇa ka*)**. Greek **ζ** requires a period-specific account and is not silently equated with one Sanskrit sonomer. Greek **υ** in **ζυγόν** combines a tongue position near **तालव्य इ (*tālavya i*)** with the rounded lips associated with **ओष्ठ्य उ (*oṣṭhya u*)**. Sanskrit has no vowel at that exact coordinate, so the chapter uses **उ** only as an approximation.
 
-The comparison then reaches **⟪युज्⟫ (*yuj*)**. The Veda supplies **युञ्जन्ति (*yuñjanti*)**, **युगा (*yugā*)**, and **युक्त (*yukta*)**, making **ज → ग → क (*j → g → k*)** visible inside one semantic family. Pāṇini later documents the two coordinate movements under their Sanskrit conditions through **चोः कुः (*coḥ kuḥ*, 8.2.30)** and **खरि च (*khari ca*, 8.4.55)**. The lineage's derivation of **योग (*yoga*)** from **⟪युज्⟫** also applies the governed **उ → ओ (*u → o*)** *guṇa* relation and **कुत्व (*kutva*)**, the corresponding palatal-to-velar operation.
+The comparison then reaches **⟪युज्⟫ (*yuj*)**. The Veda supplies **युञ्जन्ति (*yuñjanti*)**, **युगा (*yugā*)**, and **युक्त (*yukta*)**, making **ज → ग → क (*j → g → k*)** visible inside one semantic family. Pāṇini later documents the two coordinate movements under their Sanskrit conditions through **चोः कुः (*coḥ kuḥ*, 8.2.30)** and **खरि च (*khari ca*, 8.4.55)**. The lineage's derivation of **योग (*yoga*)** from **⟪युज्⟫** also applies the specified **उ → ओ (*u → o*)** *guṇa* relation and **कुत्व (*kutva*)**, the corresponding palatal-to-velar operation.
 
 Appendix Part 1 begins the second case with Vedic **बिभर्ति (*bibharti*)** from **⟪भृ⟫ (*bhṛ*)**. The word places unaspirated **ब (*b*)** beside aspirated **भ (*bh*)** inside one Sanskrit form. Greek *pherein*, Latin *ferre*, Old English *beran*, and English *bear* remain in the same labial region while changing voicing, aspiration, and closure. Hemacandra's *Siddha-Hema* 8.1.187 records aspirated stops moving toward **h** in Prakrit. That evidence documents a different natural outcome; it does not supply a rule for deriving the Greek **ph**, Latin **f**, or Germanic **b**. The third case returns to **⟪जन्⟫ (*jan*)** and tests the same sonomer path across Greek and Latin *gen-* and Germanic *kin, kind,* and *king*.
 
@@ -4458,7 +4622,7 @@ The distinguishability table in Ch 10 §10.8 starts from the V1/V2-aware *racan�
 
 The two key rows are the compact buckets where compression is strongest. In the **2-*mātrā*** bucket, four scaffolds are possible in the dataset: ***gamādi*** (819), two less-common consonantal-edge scaffolds (35 and 30), and the bare long-vowel form (2). The bucket is therefore not merely "short"; it is overwhelmingly **short vowel + consonantal framing**. In the **2½-*mātrā*** bucket, ***spadādi*** (209) and ***manthādi*** (203) dominate over the simpler long-vowel scaffolds (88 and 19). The system spends the available timing budget on consonantal edges and recoverable contrast rather than reducing the atom to the fewest possible sonomers.
 
-The conclusion is deliberately narrower than the later position-role bridge in Ch 10 §10.13 and the molecule-building procedure in Ch 11. The table does not claim to identify which consonants prefer which positions. It makes the earlier and simpler Ch 10 claim: even before individual *varṇāḥ* are analyzed, the scaffold distribution shows that compression is governed by distinguishability. The atom is compact, but not blurry.
+The conclusion is deliberately narrower than the later position-role bridge in Ch 10 §10.13 and the molecule-building procedure in Ch 11. The table does not claim to identify which consonants prefer which positions. It makes the earlier and simpler Ch 10 claim: even before individual *varṇāḥ* are analyzed, distinguishability shapes the compression. The atom is compact, but not blurry.
 
 Source: `analysis/dhatupatha/data/derived/template_distribution.csv`; script `analysis/dhatupatha/scripts/analyze_scaffold_distinguishability.py`; derived outputs `analysis/dhatupatha/data/derived/scaffold_distinguishability_by_matra.csv` and `.md`.
 
@@ -4468,9 +4632,9 @@ Source: `analysis/dhatupatha/data/derived/template_distribution.csv`; script `an
 
 **Short:** Ch 10 §10.7 treats the non-modal *racanā* tail as *vaicitrya* — engineered range, not statistical residue. The current scaffold distribution has 47 observed *racanāḥ*: the top ten account for 1,973 of 2,168 *dhātavaḥ* (**91.01%**), leaving 195 entries across 37 additional scaffolds.
 
-**Deployments:** Ch10 §10.7 (the *astobham* / governed-range section).
+**Deployments:** Ch10 §10.7 (the *astobham* / structured-range section).
 
-The tail is small enough to confirm concentration and large enough to matter. Its forms include disyllabic atoms, dense-cluster atoms, atypical and rare shapes, and specialized timing envelopes that the modal scaffolds do not accommodate. The chapter's claim is deliberately not that every tail form has already been assigned an individual functional explanation. The narrower claim is architectural: Sanskrit concentrates the inventory around modal scaffolds while preserving governed range for shapes the modal inventory cannot stage.
+The tail is small enough to confirm concentration and large enough to matter. Its forms include disyllabic atoms, dense-cluster atoms, atypical and rare shapes, and specialized timing envelopes that the modal scaffolds do not accommodate. The chapter's claim is deliberately not that every tail form has already been assigned an individual functional explanation. The narrower claim is architectural: Sanskrit concentrates the inventory around modal scaffolds while preserving structured range for shapes the modal inventory cannot stage.
 
 Source: `analysis/dhatupatha/data/derived/template_distribution.csv` and `.md`; generated by `analysis/dhatupatha/scripts/analyze_shells.py`.
 
@@ -5402,7 +5566,7 @@ The compact doubled form is already inside the Vedic corpus. Ṛgveda 1.164.4 us
 
 **Deployments:** Chapter 17 §17.3.
 
-The receiver pattern is already visible in the Vedic corpus. Ṛgveda 2.12.5 has *śrad asmai dhatta* — place faith "to him" (trust). Ṛgveda 1.114.1 has *yathā śam asad dvipade catuṣpade* — "so that there be well-being for biped and quadruped" (peace). The *svasti* formula uses *naḥ* — well-being "to us" (safety); Chapter 17 cites the broad RV 1.89.6 family. Ṛgveda 6.47.10 has *indra mṛḷa mahyam jīvātum iccha* — be gracious "to me" (grace). For reverence, *namas* governs the dative: Pāṇini 2.3.16 (*namaḥsvastisvāhāsvadhālaṃvaṣaḍyogāc ca*) assigns the fourth case after *namas*, *svasti*, and the rest, directing reverence toward its object rather than asserting the self. Ṛgveda 10.71.4 gives the epistemic form: Vāk reveals her body *tvasmai*, "to him" (knowledge). The point in Chapter 17 is not that every example is governed by one narrow sūtra; it is that the Veda repeatedly places inward states — blessing, grace, faith, reverence, and disclosure — toward a receiver. The general recipient role is **सम्प्रदान (*sampradāna*)**, which Pāṇini documents at 1.4.32 with the dative case at 2.3.13; he documents the role, he does not invent it. Locators web-verified 2026-06-30 (śrad asmai RV 2.12.5; śam RV 1.114.1 = *yathā śam asad dvipade catuṣpade*; svasti naḥ RV 1.89.6; mṛḷa mahyam RV 6.47.10; tvasmai RV 10.71.4; Pāṇini 1.4.32 / 2.3.13 / 2.3.16); accenting to confirm against the selected Vedic editions at production.
+The receiver pattern is already visible in the Vedic corpus. Ṛgveda 2.12.5 has *śrad asmai dhatta* — place faith "to him" (trust). Ṛgveda 1.114.1 has *yathā śam asad dvipade catuṣpade* — "so that there be well-being for biped and quadruped" (peace). The *svasti* formula uses *naḥ* — well-being "to us" (safety); Chapter 17 cites the broad RV 1.89.6 family. Ṛgveda 6.47.10 has *indra mṛḷa mahyam jīvātum iccha* — be gracious "to me" (grace). For reverence, *namas* governs the dative: Pāṇini 2.3.16 (*namaḥsvastisvāhāsvadhālaṃvaṣaḍyogāc ca*) assigns the fourth case after *namas*, *svasti*, and the rest, directing reverence toward its object rather than asserting the self. Ṛgveda 10.71.4 gives the epistemic form: Vāk reveals her body *tvasmai*, "to him" (knowledge). The point in Chapter 17 is not that every example follows one narrow sūtra; it is that the Veda repeatedly places inward states — blessing, grace, faith, reverence, and disclosure — toward a receiver. The general recipient role is **सम्प्रदान (*sampradāna*)**, which Pāṇini documents at 1.4.32 with the dative case at 2.3.13; he documents the role, he does not invent it. Locators web-verified 2026-06-30 (śrad asmai RV 2.12.5; śam RV 1.114.1 = *yathā śam asad dvipade catuṣpade*; svasti naḥ RV 1.89.6; mṛḷa mahyam RV 6.47.10; tvasmai RV 10.71.4; Pāṇini 1.4.32 / 2.3.13 / 2.3.16); accenting to confirm against the selected Vedic editions at production.
 
 ---
 
@@ -5646,7 +5810,7 @@ The passage reads **आ द्विषतो वसु दत्ते, नि�
 
 **Short:** Vedic ***स्वर (*svara*, accent)*** responds to sentence position. **अग्ने (*agne*)** receives its ***सम्बोधन (*sambodhana*, vocative)*** accent when it begins a sentence or *pāda* and loses that independent accent when other words precede it.
 
-**Deployment:** Appendix Part 8 §8.3.
+**Deployments:** Chapter 9 §9.8; Appendix Part 8 §8.3.
 
 Ṛgveda 3.25.1 begins **अग्ने॑ दिवः सूनुरसि (*ágne divaḥ sūnur asi*)**, with the accent on the sentence-initial vocative. Ṛgveda 1.1.7 instead begins **उप त्वाग्ने (*upa tvāgne*)**; the non-initial **अग्ने** is unaccented. The comparison keeps the same word and grammatical role while changing its sentence position, allowing the reader to see that sentence-level pitch belongs to the preserved architecture. Whitney, *Sanskrit Grammar*, §314c, states the rule and uses the same contrast; Macdonell, *Vedic Grammar*, treats vocative accent under sentence accent. Primary passages: Ṛgveda 3.25.1 and 1.1.7.
 
@@ -5664,11 +5828,11 @@ The final *pāda* is **नमो भरन्त एमसि (*namo bharanta em
 
 ### `vedic-jihvamuliya-upadhmaniya-pair`
 
-**Short:** Sanskrit generates two governed breath-sounds from ***विसर्ग (*visarga*)*** at a word junction. Before **क / ख**, the breath moves toward the back of the mouth as ***जिह्वामूलीय (*jihvāmūlīya*)***; before **प / फ**, it moves toward the lips as ***उपध्मानीय (*upadhmānīya*)***.
+**Short:** Sanskrit generates two restricted breath-sounds from ***विसर्ग (*visarga*)*** at a word junction. Before **क / ख**, the breath moves toward the back of the mouth as ***जिह्वामूलीय (*jihvāmūlīya*)***; before **प / फ**, it moves toward the lips as ***उपध्मानीय (*upadhmānīya*)***.
 
 **Deployment:** Appendix Part 8 §8.3.
 
-Ṛgveda 1.1.2 preserves the labial environment in **अग्निः पूर्वेभिर् (*agniḥ pūrvebhir*)**. Taittirīya Saṃhitā 4.5.5.1 preserves the velar environment in **नमः कपर्दिने च (*namaḥ kapardine ca*)**. Pāṇini later documented the optional substitution of these sounds for *visarga* before the *kavarga* and *pavarga* in Aṣṭādhyāyī 8.3.37. The two examples demonstrate a governed contextual operation rather than two missing independent sonomers. Sources: Ṛgveda 1.1.2; Taittirīya Saṃhitā 4.5.5.1; Aṣṭādhyāyī 8.3.37; the *Ṛgveda-Prātiśākhya* and *Taittirīya-Prātiśākhya* discussions listed under endnote `two-open-consonant-coordinates`.
+Ṛgveda 1.1.2 preserves the labial environment in **अग्निः पूर्वेभिर् (*agniḥ pūrvebhir*)**. Taittirīya Saṃhitā 4.5.5.1 preserves the velar environment in **नमः कपर्दिने च (*namaḥ kapardine ca*)**. Pāṇini later documented the optional substitution of these sounds for *visarga* before the *kavarga* and *pavarga* in Aṣṭādhyāyī 8.3.37. The two examples demonstrate a condition-generated operation rather than two missing independent sonomers. Sources: Ṛgveda 1.1.2; Taittirīya Saṃhitā 4.5.5.1; Aṣṭādhyāyī 8.3.37; the *Ṛgveda-Prātiśākhya* and *Taittirīya-Prātiśākhya* discussions listed under endnote `two-open-consonant-coordinates`.
 
 ---
 
@@ -5688,7 +5852,15 @@ The grammatical inventory was assembled from William Dwight Whitney, *Sanskrit G
 
 **Deployment:** Appendix Part 8 §8.3.
 
-The two extended vowels occur while the mantra weighs alternatives. Pāṇini later documented *hrasva, dīrgha,* and *pluta* through vowel duration in Aṣṭādhyāyī 1.2.27–28, and 8.2.97–98 documents *pluta* in deliberative speech while distinguishing how the alternatives receive it in *bhāṣā*. Rules 8.2.82–96 document other stated uses, including replies and calling at a distance. The productive domain applies *pluta* when a stated speech condition arises, while the received Vedic passage preserves it permanently at the two positions selected by the mantra. Sources: Ṛgveda 10.129.5; Aṣṭādhyāyī 1.2.27–28 and 8.2.82–98 with Kāśikā.
+The two extended vowels occur while the mantra weighs alternatives. Pāṇini later documented *hrasva, dīrgha,* and *pluta* through vowel duration in Aṣṭādhyāyī 1.2.27–28, and 8.2.97–98 documents *pluta* in deliberative speech while distinguishing how the alternatives receive it in *bhāṣā*. Rules 8.2.82–96 document other stated uses, including replies and calling at a distance. The productive domain applies *pluta* when a stated speech condition arises, while the received Vedic passage preserves it permanently at the two positions selected by the mantra.
+
+Some normalized digital exports print plain **आसीत्** because they remove
+Ṛgvedic pluta notation. Their normalization cannot disprove the reading that
+accented printed editions and the Ṛgveda-Prātiśākhya preserve.
+
+Sources: Ṛgveda 10.129.5 in an accented edition that preserves pluta;
+Ṛgveda-Prātiśākhya on the rare Ṛgvedic pluta forms; Aṣṭādhyāyī 1.2.27–28
+and 8.2.82–98 with Kāśikā.
 
 ---
 

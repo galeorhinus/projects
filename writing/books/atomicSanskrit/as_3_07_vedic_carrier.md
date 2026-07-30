@@ -1,6 +1,6 @@
 # Appendix Part 7 — The Vedic Carrier
 
-Three short Vedic passages already contain the architecture that Pāṇini later documented: governed sound junctions, case inflection, verbal endings, derivation, accent, and meter. The forms operate inside the corpus before the surviving Pāṇinian documentation explains them.
+Three short Vedic passages already contain the architecture that Pāṇini later documented: specified sound junctions, case inflection, verbal endings, derivation, accent, and meter. The forms operate inside the corpus before the surviving Pāṇinian documentation explains them.
 
 The pyramid arranges differences between *vaidika* and *laukika* Sanskrit along a timeline and calls them evolution. This appendix examines the forms in their actual settings. Some belong to metrical composition, some to exact recitation, and some to productive speech. Those functions support a domain-and-mode explanation without requiring Sanskrit to decay from one language into another.
 
@@ -38,7 +38,7 @@ The opening six words, taken phrase by phrase:
 
 These six words contain four accusatives in apposition, one genitive, and one verb form. The endings establish the grammatical roles without requiring the fixed word order English ordinarily uses.
 
-The opening ***agnimīḷe*** preserves the retroflex lateral **ळ (*ḷ*)** exactly where the *Ṛgveda-Prātiśākhya* says it should occur: intervocalic **ड** becomes **ळ**, with the corresponding **ढ → ळ्ह**. The Śākala recension therefore preserves **ईळे (*īḷe*)** as a governed Vedic realization rather than as an additional member of the reusable *laukika* grid. Pāṇini's *Aṣṭādhyāyī* documents the wider *chandasi/bhāṣāyām* mode distinction, while the direct phonetic account of this **ळ** belongs to the *Prātiśākhya*. Chapter 9 §9.8 explains how those two forms of documentation describe one sound architecture.
+The opening ***agnimīḷe*** preserves the retroflex lateral **ळ (*ḷ*)** exactly where the *Ṛgveda-Prātiśākhya* says it should occur: intervocalic **ड** becomes **ळ**, with the corresponding **ढ → ळ्ह**. The Śākala recension therefore preserves **ईळे (*īḷe*)** as a condition-generated Vedic form rather than as an additional member of the reusable *laukika* grid. Pāṇini's *Aṣṭādhyāyī* documents the wider *chandasi/bhāṣāyām* mode distinction, while the direct phonetic account of this **ळ** belongs to the *Prātiśākhya*. Chapter 9 §9.10 explains how those two forms of documentation describe one sound architecture.
 
 The architecture is already operating in the transmitted verse.
 
@@ -107,7 +107,7 @@ The same verses show the *Dhātupāṭha*'s real status. It is not a list of sem
 
 Pāṇini's documentation records an inherited operating inventory. The *vaiyākaraṇāḥ* decode Sanskrit rather than manufacturing it.
 
-The atom ⟪ईड्⟫ remains stable even when the stated Vedic environment produces the **ळ** heard in *īḷe*. The governed realization and the reusable inventory therefore belong to the same architecture while serving different functions within it.
+The atom ⟪ईड्⟫ remains stable even when the stated Vedic environment produces the **ळ** heard in *īḷe*. The condition-generated form and the reusable inventory therefore belong to the same architecture while serving different functions within it.
 
 ## 7.4 The Overreach Called Evolution
 
@@ -138,20 +138,20 @@ The two forms differ by one syllable, so they give a composer different metrical
 
 | Observed Vedic feature | Formal setting | Architectural interpretation |
 |------|--------|----------------------|
-| Retroflex lateral **ळ (*ḷ*)** in *agnimīḷe* (अग्निमीळे) | The *Ṛgveda-Prātiśākhya* specifies **ड → ळ** between vowels. | Vedic transmission preserves a governed realization without requiring an independent **ळ** coordinate in the reusable *laukika* grid (Ch 9 §9.8; Ch 17 §17.9). |
+| Retroflex lateral **ळ (*ḷ*)** in *agnimīḷe* (अग्निमीळे) | The *Ṛgveda-Prātiśākhya* specifies **ड → ळ** between vowels. | Vedic transmission preserves a condition-generated form without requiring an independent **ळ** coordinate in the reusable *laukika* grid (Ch 9 §9.10; Ch 17 §17.9). |
 | **उदात्त-अनुदात्त-स्वरित (*udātta-anudātta-svarita*)** pitch accent | Preserved in Vedic recitation; ordinary *bhāṣā* is not marked by the same three-way pitch specification. | Pitch contributes to grammatical interpretation and helps bound the Vedic domain's additional forms. |
-| ***Plutaḥ*** (प्लुतः), the extended vowel | Used where Vedic recitation or stated speech conditions require extended duration. | Duration remains available as a governed parameter rather than becoming an ordinary vowel coordinate. |
+| ***Plutaḥ*** (प्लुतः), the extended vowel | Used where Vedic recitation or stated speech conditions require extended duration. | Duration remains available as a restricted parameter rather than becoming an ordinary vowel coordinate. |
 | Vedic subjunctive, ***leṭ-lakāra*** (लेट्) | Pāṇini documents *leṭ* under *chandasi*; productive *bhāṣā* does not use it as an ordinary paradigm. | A mode-specific verbal resource does not by itself establish an earlier language. |
 | Vedic injunctive | A verb form with secondary endings and no augment, found in the Vedic corpus. | Its bounded Vedic deployment can be studied as a corpus function before chronology is imposed on it. |
 | Multiple Vedic infinitive endings | Forms in *-tum, -tavai, -dhyai, -tave, -tos,* and *-sani* provide different shapes and syllable counts. | The range supports Vedic composition; the contribution of meter must be checked in each passage. |
 | Vedic compound patterns | The corpus uses compound structures differently from later laukika composition. | Difference in compositional style does not establish a different language. |
 | Vedic pronoun alternates | Alternate forms appear in metrical passages and recensional transmission. | Their location and syllable shape must be examined before they are called chronological residue. |
 
-The eight features perform different tasks. Multiple infinitives and pronoun alternates provide compositional range. The *leṭ-lakāra* and injunctive add verbal resources. The *Prātiśākhya*-governed **ळ** preserves an exact articulation in its stated environment, while *plutaḥ* preserves governed duration. Pitch does more than preserve a recitational parameter: it contributes to interpretation and helps the fixed Vedic passage contain its larger grammatical range. Productive *bhāṣā* composes without that preserved interpretive layer and therefore does not promote every Vedic feature into ordinary reuse. Their coexistence supports concurrent specifications for *chandas* and *bhāṣā*; chronology has to be established independently rather than assumed from the difference.
+The eight features perform different tasks. Multiple infinitives and pronoun alternates provide compositional range. The *leṭ-lakāra* and injunctive add verbal resources. The *Prātiśākhya*-specified **ळ** preserves an exact articulation in its stated environment, while *plutaḥ* preserves restricted duration. Pitch does more than preserve a recitational parameter: it contributes to interpretation and helps the fixed Vedic passage contain its larger grammatical range. Productive *bhāṣā* composes without that preserved interpretive layer and therefore does not promote every Vedic feature into ordinary reuse. Their coexistence supports concurrent specifications for *chandas* and *bhāṣā*; chronology has to be established independently rather than assumed from the difference.
 
 The dogma calls this loss. The architecture calls it role.
 
-Appendix Part 8 explains why one Sanskrit architecture preserves these governed Vedic roles while keeping laukika Sanskrit productive. The next section stays with the evidence and compares this bounded variation with the cascading changes of natural drift.
+Appendix Part 8 explains why one Sanskrit architecture preserves these restricted Vedic roles while keeping laukika Sanskrit productive. The next section stays with the evidence and compares this bounded variation with the cascading changes of natural drift.
 
 ## 7.6 What Natural Drift Looks Like
 
@@ -163,7 +163,7 @@ If Sanskrit were naturally drifting from *"Vedic to Classical,"* the drift patte
 
 Form drift can make an older word unrecognizable. Meaning drift can preserve the sound while replacing the sense. Natural languages display both processes across generations.
 
-Sanskrit preserves its reusable core across both *vaidika* and *laukika* domains: the 5×5 *varga* (वर्ग) matrix, the vowels (*a, ā, i, ī, u, ū, ṛ, ṝ, ḷ, ḹ, e, ai, o, au*), four semivowels (*y, r, l, v*), three sibilants (*ś, ṣ, s*), *ha*, and the **अयोगवाह (*ayogavāha*)** (*anusvāra ṃ*, *visarga ḥ*). Vedic transmission preserves additional governed realizations and parameters, including **ळ**, the *udātta-anudātta-svarita* pitch system, and *plutaḥ* duration. Pāṇini marks many morphological and metrical rules *chandasi*, while the *Prātiśākhya* disciplines specify contextual phonetic realizations. Because each assignment serves a defined function, the architecture can preserve those differences without cascading replacement of its reusable inventory. The same stability appears in meaning: Chapter 5 §5.6's *jaḍa* (जड, *inert / dull / cold-and-heavy*), *mūrkha* (मूर्ख, *coagulated-in-stupor*), and *gauḥ* (गौः, *cow / earth / speech*) preserve their multi-valent semantic fields because the *dhātavaḥ* from which they are built remain operational alongside them.
+Sanskrit preserves its reusable core across both *vaidika* and *laukika* domains: the 5×5 *varga* (वर्ग) matrix, the vowels (*a, ā, i, ī, u, ū, ṛ, ṝ, ḷ, ḹ, e, ai, o, au*), four semivowels (*y, r, l, v*), three sibilants (*ś, ṣ, s*), *ha*, and the **अयोगवाह (*ayogavāha*)** (*anusvāra ṃ*, *visarga ḥ*). Vedic transmission preserves additional restricted forms and parameters, including **ळ**, the *udātta-anudātta-svarita* pitch system, and *plutaḥ* duration. Pāṇini marks many morphological and metrical rules *chandasi*, while the *Prātiśākhya* disciplines specify contextual phonetic forms. Because each assignment serves a defined function, the architecture can preserve those differences without cascading replacement of its reusable inventory. The same stability appears in meaning: Chapter 5 §5.6's *jaḍa* (जड, *inert / dull / cold-and-heavy*), *mūrkha* (मूर्ख, *coagulated-in-stupor*), and *gauḥ* (गौः, *cow / earth / speech*) preserve their multi-valent semantic fields because the *dhātavaḥ* from which they are built remain operational alongside them.
 
 Sanskrit's calibration matrix (Chapter 14) preserves form through the *chandas* and *śruti* architecture developed in Chapter 5 §5.5. Its *dhātu*-anchored vocabulary also keeps the constituent meaning available beside the assembled word. These mechanisms explain how Sanskrit can preserve bounded mode-difference without allowing every difference to become cumulative drift.
 
@@ -178,7 +178,7 @@ Chapter 5 §5.6 introduced the unifying observation as a standalone blockquote, 
 The documentation establishes the two halves of the *Vedas implicitly preserve it as the corpus form* clause from Chapter 1 §1.1:
 
 - **The implicit grammar is visible in the Vedas** (§§7.2–7.3). Three passages show *sandhi*, case inflection, *dhātu*-*pratyaya* assembly, *upasarga*-compounded verbs, optative forms, *kṛdanta* derivation, and meter operating before the surviving Pāṇinian documentation.
-- **The variations assigned to drift separate into governed roles** (§§7.4–7.6). Metrical alternatives, recitational parameters, contextual sound realizations, and productive morphology each serve a specified function inside the same architecture.
+- **The variations assigned to drift separate into specified roles** (§§7.4–7.6). Metrical alternatives, recitational parameters, contextual sound forms, and productive morphology each serve a specified function inside the same architecture.
 
 Chapter 5's anti-entropy principle explains how the assignments remain stable. *Chandas* makes drift measurable because a wrong sound can break the meter, while **श्रुति (*śruti*)** makes it catchable because the audience hears the error. Metrical alternates such as *bhiḥ* / *ebhiḥ* and the multiple infinitive forms preserve compositional range. *Plutaḥ* preserves duration. Accent preserves pitch while carrying an audible layer of grammatical interpretation, and contextual **ळ** preserves the articulation specified by its phonetic environment. Working together, these layers keep legitimate Vedic variation distinct from drift.
 

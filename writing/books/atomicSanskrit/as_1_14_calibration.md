@@ -212,7 +212,7 @@ The deeper implication is civilizational. The calibration matrix proves material
 1. Order can exist without a pyramid and without apex authority.
 2. Order derived from a calibrant is far more sustainable than order derived from codification.
 
-Sanskrit preserves through sound, meter, lineage, grammar, discipline, and self-correction — not through decree, monopoly, committee, or institutional apex. The standard lives inside the architecture. The asuric machinery cannot merely disagree with Sanskrit; it has to misdescribe it. Natural drift can be governed and codification can be owned, but calibration makes the apex unnecessary because he has no role inside the architecture.
+Sanskrit preserves through sound, meter, lineage, grammar, discipline, and self-correction — not through decree, monopoly, committee, or institutional apex. The standard lives inside the architecture. The asuric machinery cannot merely disagree with Sanskrit; it has to misdescribe it. Natural drift can be directed and codification can be owned, but calibration makes the apex unnecessary because he has no role inside the architecture.
 
 Its architecture displays दिव्यता (*divyatā*) and serves लोकक्षेम (*lokakṣema*) without requiring a pyramid to command it. Sanskrit is evidence that the pyramid is unnecessary.
 

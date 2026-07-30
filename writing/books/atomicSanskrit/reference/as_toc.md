@@ -121,12 +121,14 @@
 - 9.3 Every Sound Has an Address
 - 9.4 The Control Panel
 - 9.5 Breath as a Coordinate
-- 9.6 Nuclei, Contacts, and the Measure
-- 9.7 The Sound Volume
-- 9.8 What Earns a Coordinate
-- 9.9 Engineered Margin
-- 9.10 Varṇa Is Not Letter
-- 9.11 The Grid Orders the Garland
+- 9.6 Nuclei, Contacts, and Timing
+- 9.7 The Svara Coordinate System
+- 9.8 Duration, Pitch, and Nasality
+- 9.9 The Sound Volume
+- 9.10 What Earns a Coordinate
+- 9.11 Engineered Margin
+- 9.12 Varṇa Is Not Letter
+- 9.13 The Grid Orders the Garland
 
 ---
 

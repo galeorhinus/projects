@@ -247,7 +247,7 @@ method, and rationale behind each item.
 - [x] Add preserved-hiatus passages and the *pragṛhya* rule: RV 2.3.4b,
   RV 8.18.19c, and RV 10.43.2.
 - [x] Add a verified ***जिह्वामूलीय (*jihvāmūlīya*)*** example.
-- [x] Separate features that belong to Vedic scope from those governed by a
+- [x] Separate features that belong to Vedic scope from those restricted to a
   particular ***शाखा (*śākhā*)***. Appendix §8.3 now distinguishes
   Sanskrit-wide *upadhmānīya/jihvāmūlīya* junction operations from the
   Ṛgvedic lineage's preservation of **ळ / ळ्ह**, and the endnote no longer
@@ -390,7 +390,7 @@ other encoded layers.
 
 The **vaidika** domain preserves a bounded body of expressions. Because each
 expression, its sequence, its accent, and its transmission are fixed, the system can preserve
-contextual sounds, alternate forms, mobile operators, and other locally governed
+contextual sounds, alternate forms, mobile operators, and other locally restricted
 resources exactly where the corpus requires them.
 
 The **laukika** domain must generate an unbounded body of expressions for a
@@ -455,7 +455,7 @@ deploys differently, and how that difference serves its preservation burden.
 
 | Architectural layer | Vaidika investigation | Laukika investigation |
 |---|---|---|
-| **Sonomer and articulation** | accent, duration, contextual realizations, śākhā-specific phonetics, governed sounds outside the reusable grid | stable sonomer inventory, repeatable combinations with the svaras, productive sandhi |
+| **Sonomer and articulation** | accent, duration, contextual realizations, śākhā-specific phonetics, restricted sounds outside the reusable grid | stable sonomer inventory, repeatable combinations with the svaras, productive sandhi |
 | **Sound junction** | preserved hiatus, domain-scoped sandhi, recitationally fixed junctions | junction rules capable of operating on newly generated words and sentences |
 | **Atom and operator** | mobile or separated upasargas, atom realizations fixed by the preserved expression | locally attached upasargas and reusable atom-operator molecules |
 | **Nominal molecule** | alternate case endings, pronoun forms, number and stem variants required by the corpus | a productive declensional system whose relations remain recoverable in new expressions |
@@ -494,7 +494,7 @@ that domain rather than assuming that every *chandasi* form serves meter.
 The appendix should establish six claims in sequence.
 
 1. **The shared architecture is visible in both domains.** Sonomers, atoms,
-   affixes, case relations, verbal operations, compounds, and governed sound
+   affixes, case relations, verbal operations, compounds, and specified sound
    junctions remain analyzable across the Vedic corpus and laukika Sanskrit.
 2. **The domains preserve different things.** Vaidika preservation fixes a
    corpus in exact recitational form. Laukika preservation keeps an invariant
@@ -953,7 +953,7 @@ passage supplies that evidence.
 | NU-04 | **MAT · REL · ARR? · RES?** | ***अष्ट / अष्टा / अष्टौ*** offers several shapes for the same numeral. |
 | NU-05 | **SEM · REL · ARR?** | The uninflected numeral leaves the counted noun to carry the oblique relation. |
 | NU-06 | **SEM · REL · ARR?** | Collective hundred or thousand can remain uninflected while the accompanying noun carries the relation. |
-| NU-07 | **SVR · REL · AUD?** | Governed accent before oblique endings makes pitch part of numeral-case recognition and may strengthen recitational checking. |
+| NU-07 | **SVR · REL · AUD?** | Specified accent before oblique endings makes pitch part of numeral-case recognition and may strengthen recitational checking. |
 
 #### Accent and recitational realizations
 
