@@ -180,8 +180,6 @@ English and Dutch behave like sister forms inside the Germanic family, while Lat
 
 Old English **hlāfweard**, the "bread-guardian," became **laverd**, then **lorde**, then modern **Lord** — a title now reserved for men at the summit of the English hierarchy and for the Almighty.[NOTE: hlafweard-etymology] As the domestic provider became the political-theological superior, the form mutated and its original transparency disappeared.
 
-This is botany at work. The metaphor fits its own object.
-
 Fractality takes more than one form. Natural languages repeat patterns through branching, drift, inheritance, and adaptation; the plant therefore expresses *prakṛti* as natural recurrence, growth, mutation, and decay. Sanskrit repeats measured relationships through calibration and correction, giving *saṃskṛti* an engineered fractal form. Category theft equates recurrence with botany and then transfers a *sāṃskṛtika* fractal into *prakṛti*.
 
 *Prakṛti* carries the dignity of natural language, local custom, forest life, inherited speech, and ordinary social continuity. The fraud begins when the pyramid takes a category that fits natural drift and uses it to conceal an engineered calibrant.
