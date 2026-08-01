@@ -101,6 +101,822 @@ This checklist is the single tracking ledger for completing and deploying the
 appendix. The detailed sections later in this plan provide the evidence,
 method, and rationale behind each item.
 
+#### Pāṇinian scope-marker correction
+
+The current manuscript often presents ***छन्दसि (*chandasi*)*** and
+***भाषायाम् (*bhāṣāyām*)*** as a complete binary and translates *chandasi*
+as *"in meter."* That summary is too narrow. Pāṇini documents one architecture
+through several overlapping scopes:
+
+- ***छन्दसि (*chandasi*)*** marks specified operations in Vedic scope. Meter
+  may explain a particular selection, but the marker can also cover Vedic
+  prose and cannot always be translated as *"in meter."*
+- ***मन्त्रे (*mantre*)*** narrows an operation to mantra.
+- ***अमन्त्रे (*amantre*)*** excludes mantra. The *Nyāsa* on *Aṣṭādhyāyī*
+  3.1.35 expressly includes both Brāhmaṇa and *bhāṣā* within this scope.
+- ***ब्राह्मणे (*brāhmaṇe*)*** marks specified Brāhmaṇa usage.
+- ***निगमे (*nigame*)*** marks a form preserved in transmitted Vedic textual
+  usage.
+- ***भाषायाम् / भाषायां (*bhāṣāyām / bhāṣāyāṃ*)*** marks specified
+  operations in laukika use.
+- Still narrower labels include ***ऋचि (*ṛci*)*** and
+  ***यजुषि काठके (*yajuṣi kāṭhake*)***.
+
+These labels identify where an operation applies. They are not chronological
+stages, and they are not mutually exclusive language compartments. The broad
+civilizational domains remain ***वैदिक (*vaidika*)*** and
+***लौकिक (*laukika*)***. Pāṇini's locatives state exactly where particular
+operations apply within and across those domains.
+
+The correction should preserve the book's central claim while replacing the
+overly binary account:
+
+> *Vaidika* and *laukika* name the two broad domains. Within his grammatical
+> documentation, Pāṇini uses precise scope markers such as *chandasi, mantre,
+> amantre, brāhmaṇe, nigame,* and *bhāṣāyām*. These labels identify where an
+> operation applies. They do not arrange Sanskrit into chronological stages.
+
+Execute the correction in six passes:
+
+1. **Scope-source ledger.** Record the exact *sūtra*, inherited scope through
+   *anuvṛtti* where relevant, commentarial explanation, example, and domain
+   implication for each marker. Use 3.1.35 as the primary demonstration that
+   the scopes overlap: its *amantre* operation applies in Brāhmaṇa and
+   *bhāṣā*. Include representative anchors for *chandasi, mantre, brāhmaṇe,
+   nigame, bhāṣāyām, ṛci,* and *yajuṣi kāṭhake*.
+2. **Terminology correction.** Replace categorical claims that *chandasi*
+   simply means *"in meter."* Preserve *chandas* as the ordinary Sanskrit word
+   for meter where the sentence is actually discussing meter. Describe
+   *chandasi* and *bhāṣāyām* as Pāṇinian scope markers rather than the only two
+   modes recognized by the grammar.
+3. **Body-prose correction.** Revise the Preface, Chapters 0, 2, 14, 16, and
+   17, and Appendix Parts 7, 8, 9, and 10 where the binary account currently
+   appears. Preserve the chronology argument: operational scope is not an
+   evolutionary stage. Explain the complete set of scope markers once, then
+   refer back to that explanation instead of repeating the list in every
+   chapter.
+4. **Laukika-only evidence audit.** Reassess every example used in the narrow
+   *Laukika Only* strip. Separate four kinds of evidence:
+   - a genuinely *bhāṣā*-specific operation;
+   - a regular shared output contrasted with a specially preserved Vedic
+     alternative;
+   - an operation that also appears in Brāhmaṇa or another Vedic scope; and
+   - a stylistic preference rather than a grammatical difference.
+5. **Endnote and reference repair.** Consolidate the contradictory endnotes
+   `chandasi-bhasayam-astadhyayi` and
+   `chandasi-bhashayam-mode-markers`. Correct unsupported *sūtra* references
+   and the claim that the two explicit tags appear *"hundreds of times."*
+   Update the glossary, thesis summary, terminology reference, calibration
+   hierarchy, and `CLAUDE.md` after the manuscript wording is approved.
+6. **Adversarial consistency audit.** Search the manuscript and active
+   references for *chandasi, chandas, bhāṣāyām, bhāṣā, mantre, amantre,
+   brāhmaṇe,* and *nigame*. Confirm that no passage equates Pāṇinian scope with
+   chronology, treats *chandasi* as meter in every occurrence, or treats
+   *bhāṣāyām* as an exact synonym for the entire laukika domain.
+
+Current evidence requires the following decisions during Pass 4:
+
+- **Retain, with precise wording:** **युवाम् (*yuvām*) / आवाम् (*āvām*)**
+  under 7.2.88; the compact compound operation before **स्थ (*stha*)** under
+  6.3.19/20; the restricted ***क्वसु (*kvasu*)*** operation under 3.2.108;
+  and the existing *Kāśikāvṛtti* contrasts where the text expressly assigns
+  one output to *bhāṣā* and another to Vedic scope.
+- **Do not classify as strictly Laukika-only:** **सखी (*sakhī*) /
+  अशिश्वी (*aśiśvī*)**. The *Bālamanoramā* allows selective Vedic use, and
+  Ṛgveda 3.55.16 contains **अशिश्वीः (*aśiśvīḥ*)**.
+- **Place in the shared architecture:** the periphrastic perfect. Rule 3.1.35
+  applies outside mantra, including Brāhmaṇa and *bhāṣā*, and the Vedic corpus
+  also preserves **गमयां चकार (*gamayāṃ cakāra*)**.
+- **Place in the shared architecture:** ***लुट् (*luṭ*)***. Rule 3.3.15 has no
+  *bhāṣāyām* restriction, and the construction occurs in Vedic prose.
+- **Treat as stylistic deployment:** long recursive compounds. Compounding is
+  shared architecture; some laukika literary styles use much longer compounds
+  than the representative Vedic passages.
+
+Primary manuscript targets already identified:
+
+- `as_0_01_preface.md`, chronology framing;
+- `as_1_00_seekers.md`, Pāṇini's documentation of the two domains;
+- `as_1_02_botanical.md`, the grammatical-level account;
+- `as_1_14_calibration.md`, concurrent operating contexts;
+- `as_1_16_one_architecture_two_domains.md`, the scope map and Laukika-only
+  strip;
+- `as_1_17_retroflex.md`, the current *"in meter / in speech"* sentence;
+- `as_3_07_vedic_carrier.md`, the opening definition and the statement that
+  the Vedic corpus is a metrical corpus;
+- `as_3_08_one_architecture_two_domains.md`, the complete technical comparison;
+- `as_3_09_codification_story.md`, the current binary definition;
+- `as_3_10_glossary.md`, the permanent terminology entry;
+- `as_endnotes.md`, both scope-marker notes and the Laukika-only evidence note;
+- `reference/as_thesis_summary.md`, Claim 11; and
+- `CLAUDE.md`, the standing terminology and deployment rules.
+
+Tracking checklist:
+
+- [x] Sweep the live manuscript, endnotes, glossary, thesis summary, reference
+  documents, and standing writing rules; record every proposed correction in
+  the author approval ledger without changing the source files.
+- [ ] Complete the scope-source ledger.
+- [ ] Approve the replacement terminology for the body.
+- [ ] Correct all body passages that reduce *chandasi* to meter.
+- [ ] Audit and revise the Laukika-only examples and Figure 16.1 callout.
+- [ ] Consolidate and correct the endnotes.
+- [ ] Update the glossary, thesis summary, reference documents, and writing
+  rules.
+- [ ] Run the final manuscript and active-reference consistency audit.
+
+#### Plain-language sweep for *productive*
+
+The word ***productive*** usually asks the reader to translate an academic
+category into a concrete action. Sanskrit generates words, an affix remains
+available for new composition, a sonomer combines with the vowel system, and a
+received atom grows inside another language. Those actions should be named
+directly.
+
+The initial live-file sweep, excluding `working/`, `archive/`, generated build
+files, and analysis code, found:
+
+- **71** instances of *productive*;
+- **58** instances of *productivity*; and
+- **5** instances of *productively*.
+
+Do not perform a blind replacement. Classify every occurrence by what it
+actually means:
+
+1. **New composition:** replace *productive speech, productive language,* or
+   *productive domain* with ***laukika use, laukika domain,*** or ***new
+   laukika composition***.
+2. **Reusable grammatical resource:** replace *productive paradigm, productive
+   morphology,* or *productive affix* with ***a paradigm available for new
+   composition, forms speakers can continue to use,*** or ***an affix that can
+   still generate new words***.
+3. **Reusable sound coordinate:** replace *productive grid, productive role,*
+   or *productive sound-series* with ***reusable grid, independent reusable
+   role,*** or ***a complete sound-series used by the language***.
+4. **Vivimorphosis:** replace *became productive in the receiving language*
+   with the concrete result: ***generated new words, entered new compounds,***
+   or ***grew through the receiving language's own sounds and affixes***.
+5. **Measured derivative count:** Appendix Part 6 and its source companion use
+   *productivity* as a quantitative variable meaning the estimated number of
+   derivatives generated by an atom. Before revising those passages, choose one
+   stable reader-facing term. The strongest candidates are ***derivative
+   reach, generative reach, derivative count,*** and ***word-field size***.
+   Table headings, figure labels, claim summaries, and the title *Productivity
+   Test* must follow the same choice. Internal script names and CSV column names
+   can remain unchanged for reproducibility.
+6. **Exact quotation or bibliographic title:** retain the word only when it
+   belongs to quoted source language or an official title. Explain it in plain
+   language if the surrounding argument depends on it.
+
+Recommended reader-facing pattern:
+
+> **Academic:** This suffix remains productive.
+>
+> **Plain:** Speakers can continue using this suffix to create new words.
+
+> **Academic:** The smallest atoms show the highest productivity.
+>
+> **Plain:** The smallest atoms generate the largest derivative fields.
+
+Execute the sweep in four passes after the scope-marker wording is approved:
+
+1. **Classification pass:** record every occurrence, its intended meaning, and
+   whether it belongs to body prose, quantified analysis, endnotes, reference
+   material, or an exact quotation.
+2. **Body-proposal pass:** place the current sentence and proposed plain-language
+   replacement in an approval ledger. Make no body change before author review.
+3. **Quantitative-terminology pass:** choose the replacement for the measured
+   variable in Appendix Part 6, then apply it consistently to headings, tables,
+   figures, claims, and explanatory prose.
+4. **Reference and rule pass:** update endnotes, thesis summaries, TOC material,
+   reference documents, and `CLAUDE.md`; add *productive / productivity /
+   productively* to the avoid-list except for approved quantitative or quoted
+   uses.
+
+Tracking checklist:
+
+- [x] Count live prose and reference occurrences.
+- [x] Approve the replacement term for the measured derivative-count variable.
+- [ ] Build the current/proposed approval ledger.
+- [ ] Approve and apply body replacements.
+- [ ] Update quantitative headings, tables, figures, and claims.
+- [ ] Update endnotes, reference documents, TOCs, and writing rules.
+- [ ] Confirm that any surviving use is quantitative, quoted, or deliberately
+  approved.
+
+#### Author approval ledger: current and proposed wording
+
+The sweep below does not alter the manuscript. It separates broad passages that
+mistake two Pāṇinian scope markers for a complete binary from passages that use
+an exact marker for an exact rule. Every proposed replacement uses
+***वैदिक (*vaidika*)*** and ***लौकिक (*laukika*)*** for the broad domains.
+Pāṇini enters only where his documentation identifies the boundary of a
+particular operation.
+
+For each item, mark one decision and edit the proposed wording or comment field
+as needed.
+
+##### VL-SCOPE-001 — Preface: broad domain statement
+
+**Location:** `as_0_01_preface.md:47`
+
+**Current**
+
+> The visible differences between **वैदिक (*vaidika*)** and **लौकिक (*laukika*)** Sanskrit are real. Sanskrit’s own categories place them without confusion: *vaidika* and *laukika* refer to domains of use; Pāṇini’s **छन्दसि (*chandasi*)** and **भाषायाम् (*bhāṣāyām*)** denote operating modes, in meter and in speech. The fraud begins when those domains and modes are recoded as chronological stages: *"Vedic"* before, *"Classical"* after, Pāṇini in between.
+
+**Proposed**
+
+> The visible differences between **वैदिक (*vaidika*)** and **लौकिक (*laukika*)** Sanskrit are real. Sanskrit’s own categories place them without confusion: *vaidika* and *laukika* name the two broad domains. Pāṇini maps particular operations more finely through labels such as **छन्दसि (*chandasi*)**, **मन्त्रे (*mantre*)**, **अमन्त्रे (*amantre*)**, **ब्राह्मणे (*brāhmaṇe*)**, **निगमे (*nigame*)**, and **भाषायाम् (*bhāṣāyām*)**. The fraud begins when these domains and operational scopes are recoded as chronological stages: *"Vedic"* before, *"Classical"* after, Pāṇini in between.
+
+**Author decision:** `[x] Accept  [ ] Revise  [ ] Keep current`
+
+**Comments:**
+
+##### VL-SCOPE-002 — Chapter 0: what Pāṇini documented
+
+**Location:** `as_1_00_seekers.md:137`
+
+**Current**
+
+> Pāṇini inherited this arrangement. His *chandasi* documentation explains forms preserved in the Vedas, allowing students to read and understand them. His *bhāṣāyām* documentation explains the productive language through which people could read existing laukika works and compose new ones.
+
+**Proposed**
+
+> Pāṇini inherited this arrangement and documented operations found across both domains. Some rules apply broadly in Vedic Sanskrit. Others apply only in mantra, outside mantra, in Brāhmaṇa usage, in a transmitted Vedic text, or in *laukika* use. Pāṇini names those limits through markers such as *chandasi, mantre, amantre, brāhmaṇe, nigame,* and *bhāṣāyām*. His documentation helps students read and understand Vedic forms and use Sanskrit for new *laukika* composition. It does not turn either domain into a chronological stage.
+
+**Author decision:** `[x] Accept  [ ] Revise  [ ] Keep current`
+
+**Comments:**
+
+##### VL-SCOPE-003 — Chapter 2: the second categorical axis
+
+**Location:** `as_1_02_botanical.md:147–157`
+
+**Current**
+
+> - **Move seven converts domain and mode into chronology.**[NOTE: chandasi-bhashayam-mode-markers] The dogma's *"Vedic Sanskrit / Classical Sanskrit"* pair makes *Classical*, a Greco-Latin classroom label borrowed from European philology, perform temporal work. Pāṇini's own text organizes the distinction on two categorical axes instead.
+>
+>   **At the domain level**, the Indic pair is **वैदिक (*vaidika*)** / **लौकिक (*laukika*)** — Sanskrit of the Vedic domain and Sanskrit of the worldly learned domain. Patañjali's *Mahābhāṣya* uses the pair directly because the two are concurrent civilizational fields rather than stages on a timeline.
+>
+>   **At the grammatical level**, the *Aṣṭādhyāyī* marks rules **छन्दसि (*chandasi*, "in meter")** for the **छन्दस् (*chandas*)** mode and **भाषायाम् (*bhāṣāyām*, "in speech")** for the **भाषा (*bhāṣā*)** mode. These locatives tell the reader where a rule operates. Both modes remain present inside the framework Pāṇini documents, so a difference in form indicates a difference of use rather than an evolutionary passage from one language into another. A temporal account would require temporal markers such as *pūrvam* or *prāk*; Pāṇini supplies categorical ones.
+>
+>   ***The asuric machinery converts domain and mode into chronology.*** Once the pyramid owns the clock, it can rank every layer as early or late, original or derived. It flattens the two-axis architecture into the one-line story called *"Vedic to Classical"* and positions Pāṇini as the rupture between an evolved-before and a codified-after. Move four carries out this chronology capture by making Vedic Sanskrit drift into Pāṇini and making *"Classical Sanskrit"* freeze out of him.
+>
+>   > *The dogma says:* *"Vedic Sanskrit evolved into Classical Sanskrit."*
+>   >
+>   > *The Hindu continuum says:* *"Sanskrit operates across vaidika and laukika domains, through chandas and bhāṣā modes — one calibrated language, a curated corpus."*
+
+**Proposed**
+
+> - **Move seven presents differences of use as evidence of chronological change.**[NOTE: chandasi-bhashayam-mode-markers] The dogma's *"Vedic Sanskrit / Classical Sanskrit"* pair borrows *Classical* from the Greco-Latin classroom and uses the label to place this Sanskrit after Vedic Sanskrit. Sanskrit's own categories preserve a different arrangement.
+>
+>   **At the domain level**, the Indic pair is **वैदिक (*vaidika*)** / **लौकिक (*laukika*)** — Sanskrit of the Vedic domain and Sanskrit of the worldly learned domain. Patañjali's *Mahābhāṣya* uses the pair directly because the two are concurrent civilizational fields rather than stages on a timeline.
+>
+>   **At the grammatical level**, the *Aṣṭādhyāyī* identifies the exact scope of particular operations. Its markers include **छन्दसि (*chandasi*)** for specified Vedic usage, **मन्त्रे (*mantre*)** for mantra, **अमन्त्रे (*amantre*)** outside mantra, **ब्राह्मणे (*brāhmaṇe*)** in Brāhmaṇa usage, **निगमे (*nigame*)** in transmitted Vedic textual usage, and **भाषायाम् (*bhāṣāyām*)** in *laukika* use. The scopes can overlap: *amantre*, for example, can include both Brāhmaṇa and *bhāṣā*. These labels identify where an operation applies; they do not arrange Sanskrit into earlier and later languages.
+>
+>   ***The asuric machinery converts domain and scope into chronology.*** Once the pyramid owns the clock, it can rank every layer as early or late, original or derived. It replaces Sanskrit's domains and specific rules of use with a single sequence called *"Vedic to Classical."* Pāṇini is then placed at the invented turning point: Sanskrit supposedly drifts before him and becomes fixed after him. Move four supplies that false rupture.
+>
+>   > *The dogma says:* *"Vedic Sanskrit evolved into Classical Sanskrit."*
+>   >
+>   > *The Hindu continuum says:* *"Sanskrit operates across vaidika and laukika domains. Each form remains available where its purpose requires it — one calibrated language, a curated corpus."*
+
+**Author decision:** `[x] Accept  [ ] Revise  [ ] Keep current`
+
+**Comments:**
+
+##### VL-SCOPE-004 — Chapter 14: calibration across two domains
+
+**Location:** `as_1_14_calibration.md:137`
+
+**Current**
+
+> Western philology converts these designed differences into organic mutation across time. Pāṇini's **अष्टाध्यायी (*Aṣṭādhyāyī*)** documents *chandasi* rules for the *chandas* mode and *bhāṣāyām* rules for the *bhāṣā* mode within one architecture. The *laukika* library can grow, be selected, and suffer loss while the language remains calibrated. The Vedic corpus remains fixed. Chapter 16 explains the two-domain architecture, and Appendix Part 8 presents the complete technical comparison across sounds, endings, verbal forms, *upasarga* placement, pitch, meter, composition, and transmission.
+
+**Proposed**
+
+> Western philology converts these designed differences into organic mutation across time. Sanskrit instead operates across *vaidika* and *laukika* domains within one architecture. Pāṇini states whether particular rules apply in Vedic usage, mantra, Brāhmaṇa prose, a named text or lineage, or *laukika* use. The *laukika* library can grow, be selected, and suffer loss while the language remains calibrated. The Vedic corpus remains fixed. Chapter 16 explains the two-domain architecture, and Appendix Part 8 presents the complete technical comparison across sounds, endings, verbal forms, *upasarga* placement, pitch, meter, composition, and transmission.
+
+**Author decision:** `[x] Accept  [ ] Revise  [ ] Keep current`
+
+**Comments:**
+
+##### VL-SCOPE-005 — Chapter 16: Pāṇini and the domain architecture
+
+**Location:** `as_1_16_one_architecture_two_domains.md:304`
+
+**Current**
+
+> Pāṇini inherited this arrangement. His *chandasi* documentation helps a student read and understand forms preserved in the Vedas. His *bhāṣāyām* documentation serves the productive domain through which people read laukika compositions and create new ones. These operational scopes do not describe an old Sanskrit becoming a newer Sanskrit.
+
+**Proposed**
+
+> Pāṇini inherited this arrangement and documented operations found across both domains. His rules state whether a particular operation applies broadly in Vedic Sanskrit, only in mantra, in Brāhmaṇa usage, in a named text, or in *laukika* use. This documentation helps a student read and understand inherited Vedic forms and use Sanskrit for new *laukika* composition. These boundaries do not describe an old Sanskrit becoming a newer Sanskrit.
+
+**Author decision:** `[x] Accept  [ ] Revise  [ ] Keep current`
+
+**Comments:**
+
+##### VL-SCOPE-006 — Chapter 17: retroflex lateral
+
+**Location:** `as_1_17_retroflex.md:165`
+
+**Current**
+
+> The different duties of छन्दस् (*chandas*) and भाषा (*bhāṣā*) explain how **ळ** can remain exact in Vedic transmission without becoming an independent coordinate in the reusable *laukika* grid. The *Ṛgveda-Prātiśākhya* gives the operation directly: intervocalic **ड** becomes **ळ**, while the corresponding **ढ** becomes **ळ्ह**. The *progressive dogma* converts this preserved contextual analysis into chronology and presents **ळ** as "lost between Vedic Sanskrit and Classical Sanskrit." Pāṇini instead documents *chandasi* ("in meter") and *bhāṣāyām* ("in speech") as operating contexts within one architecture. Chapter 9 §9.10 explains the sound-system, while Appendix Part 8 places this evidence beside the wider grammatical differences between the two domains.[NOTE: chandasi-bhasayam-astadhyayi]
+
+**Proposed**
+
+> The different duties of the *vaidika* and *laukika* domains explain how **ळ** can remain exact in Vedic transmission without becoming an independent coordinate in the reusable *laukika* grid. The *Ṛgveda-Prātiśākhya* gives the operation directly: intervocalic **ड** becomes **ळ**, while the corresponding **ढ** becomes **ळ्ह**. The *progressive dogma* converts this preserved contextual analysis into chronology and presents **ळ** as "lost between Vedic Sanskrit and Classical Sanskrit." Sanskrit instead preserves the sound where the Vedic passage requires it while leaving it outside the reusable *laukika* grid. Chapter 9 §9.10 explains the sound-system, while Appendix Part 8 places this evidence beside the wider grammatical differences between the two domains.[NOTE: chandasi-bhashayam-mode-markers]
+
+**Author decision:** `[x] Accept  [ ] Revise  [ ] Keep current`
+
+**Comments:**
+
+##### VL-SCOPE-007 — Chapter 18: the continuum's own categories
+
+**Location:** `as_1_18_wrong_question.md:117`
+
+**Current**
+
+> 9. When the Sanskrit continuum preserved its own categories — *saṃskṛtam*, *śruti*, *apauruṣeya*, *vyākaraṇam*, *chandasi*, *bhāṣāyām* — the pyramid's account treated them as belief, not evidence.
+
+**Proposed**
+
+> 9. When the Sanskrit continuum preserved its own categories — *saṃskṛtam*, *śruti*, *apauruṣeya*, *vyākaraṇam*, *vaidika*, and *laukika* — the pyramid's account treated them as belief, not evidence.
+
+**Author decision:** `[x] Accept  [ ] Revise  [ ] Keep current`
+
+**Comments:**
+
+##### VL-SCOPE-008 — Appendix Part 1: categories available to the dictionary
+
+**Locations:** `as_3_02_encyclopaedic.md:41,49,147`
+
+**Current**
+
+> The project had access to the rigorous Indic disciplines the civilization itself had supplied — Pāṇini's grammar, Yāska's **निरुक्त (*Nirukta*)** (the *Vedāṅga* of etymology), the **निघण्टु (*Nighaṇṭu*)** discipline of Vedic lexicography, and the functional distinctions **भाषायाम् (*bhāṣāyām*)** and **छन्दसि (*chandasi*)** that Pāṇini documents.
+>
+> | The rigorous Indic analytical disciplines — Pāṇini's grammar, Yāska's *Nirukta*, the *Nighaṇṭu* lexicography, and the *bhāṣāyām* / *chandasi* functional distinction. | Adopted the *Oxford English Dictionary*'s *historical principles* methodology, set up by James Murray in the 1880s for natural-historical European languages. |
+>
+> Pāṇini marks concurrent operating contexts with *bhāṣāyām* and *chandasi*, while the Vedic phonetic disciplines preserve additional condition-generated forms, including the *Ṛgveda-Prātiśākhya*'s intervocalic **ड → ळ**.
+
+**Proposed**
+
+> The project had access to the rigorous Indic disciplines the civilization itself had supplied — Pāṇini's grammar, Yāska's **निरुक्त (*Nirukta*)** (the *Vedāṅga* of etymology), the **निघण्टु (*Nighaṇṭu*)** discipline of Vedic lexicography, and the **वैदिक (*vaidika*) / लौकिक (*laukika*)** distinction preserved by the grammatical continuum. Pāṇini's documentation also states exactly where particular operations apply.
+>
+> | The rigorous Indic analytical disciplines — Pāṇini's grammar, Yāska's *Nirukta*, the *Nighaṇṭu* lexicography, the broad *vaidika* / *laukika* distinction, and Pāṇini's statements about where particular operations apply. | Adopted the *Oxford English Dictionary*'s *historical principles* methodology, set up by James Murray in the 1880s for natural-historical European languages. |
+>
+> The grammatical continuum distinguishes *vaidika* and *laukika* Sanskrit, while Pāṇini identifies narrower scopes for particular operations and the Vedic phonetic disciplines preserve additional condition-generated forms, including the *Ṛgveda-Prātiśākhya*'s intervocalic **ड → ळ**.
+
+**Author decision:** `[x] Accept  [ ] Revise  [ ] Keep current`
+
+**Comments:**
+
+##### VL-SCOPE-009 — Appendix Part 7: opening definition
+
+**Location:** `as_3_07_vedic_carrier.md:5–7`
+
+**Current**
+
+> The pyramid arranges differences between *vaidika* and *laukika* Sanskrit along a timeline and calls them evolution. This appendix examines the forms in their actual settings. Some belong to metrical composition, some to exact recitation, and some to productive speech. Those functions support a domain-and-mode explanation without requiring Sanskrit to decay from one language into another.
+>
+> ***Chandas*** (छन्दस्) means meter. *Chandasi* means *in meter*. ***Bhāṣā*** (भाषा) means speech. *Bhāṣāyām* means *in speech*. *Chandas* and *bhāṣā* are the modes; *chandasi* and *bhāṣāyām* are Pāṇini's locative rule-markers. That is the key.
+
+**Proposed**
+
+> The pyramid arranges differences between *vaidika* and *laukika* Sanskrit along a timeline and calls them evolution. This appendix examines the forms in the settings where they are used. Some support metrical composition, some exact recitation, some mantra, some Vedic prose, and some new *laukika* composition. These functions do not require Sanskrit to decay from one language into another.
+>
+> ***Vaidika*** and ***laukika*** name the two broad domains. Pāṇini then states more precisely where a particular rule applies. ***Chandasi*** marks specified Vedic usage and cannot always be reduced to *in meter*. ***Bhāṣāyām*** marks specified operations in *laukika* use. Other rules use *mantre, amantre, brāhmaṇe, nigame,* or the name of a particular text or lineage. The analysis must preserve the boundary stated by each rule.
+
+**Author decision:** `[x] Accept  [ ] Revise  [ ] Keep current`
+
+**Comments:**
+
+##### VL-SCOPE-010 — Appendix Part 7: *bahulam chandasi*
+
+**Location:** `as_3_07_vedic_carrier.md:133–135`
+
+**Current**
+
+> The two forms differ by one syllable, so they give a composer different metrical possibilities. In passages where the longer form fills a metrical position that the shorter form would leave incomplete, meter explains the selection directly. Their coexistence within the Vedic corpus also prevents the longer form from proving an earlier stage by itself. Pāṇini documents such variation under *chandasi*, including the operator ***bahulam chandasi*** (बहुलं छन्दसि), “frequently / variously in metrical contexts.”
+>
+> ***Chandas*** means meter. *Chandasi* means *"in meter"* — the locative form Pāṇini uses to tag rules applying in the *chandas* mode. Pāṇini's wording is precise: his *chandas*-mode rules are not *"older-time rules"* or *"earlier-stage rules"*; they are *metrical-context rules*. The Vedic corpus is the metrical corpus.
+
+**Proposed**
+
+> The two forms differ by one syllable, so they give a composer different metrical possibilities. In passages where the longer form fills a metrical position that the shorter form would leave incomplete, meter explains the selection directly. Their coexistence within the Vedic corpus also prevents the longer form from proving an earlier stage by itself. Pāṇini documents such variation under ***बहुलं छन्दसि (*bahulaṃ chandasi*)***, “variously in Vedic usage.”
+>
+> In this passage, the meter explains why the longer form was selected. The marker *chandasi* tells us that the rule applies in Vedic usage. Because *chandasi* can also include Vedic prose, the marker alone cannot prove that meter caused every form placed under it. The Vedic corpus contains both metrical and prose compositions.
+
+**Author decision:** `[x] Accept  [ ] Revise  [ ] Keep current`
+
+**Comments:**
+
+##### VL-SCOPE-011 — Appendix Part 9: Pāṇini's terminology
+
+**Locations:** `as_3_09_codification_story.md:31,54–60`
+
+**Current**
+
+> Pāṇini's own terminology exposes the problem. He does not describe one group of rules as “formerly” or “before my codification.” He uses operational labels such as ***chandasi*** (छन्दसि), “in meter,” and ***bhāṣāyām*** (भाषायाम्), “in speech.” The pyramid converts those contexts into periods, places Pāṇini between them, and then presents the invented timeline as his historical setting.
+>
+> The phrase “Vedic Sanskrit and Classical Sanskrit” collapses two axes into one timeline. Sanskrit's own categories are more precise.
+>
+> **वैदिक (*vaidika*)** and **लौकिक (*laukika*)** describe domains. The vaidika domain preserves the Vedic corpus and its exact transmission requirements. The laukika domain uses calibrated Sanskrit for learned speech, poetry, philosophy, science, story, and the changing needs of the world.
+>
+> **छन्दस् (*chandas*)** and **भाषा (*bhāṣā*)** describe modes. *Chandas* is metrical operation; *bhāṣā* is speech and learned composition. Pāṇini uses the locative forms *chandasi* and *bhāṣāyām* to assign rules to those contexts.
+>
+> Domains are not periods, and modes are not stages. Pāṇini did not move Sanskrit from *vaidika* to *laukika* or from *chandas* to *bhāṣā*. He documented operations found in both.
+
+**Proposed**
+
+> Pāṇini's own terminology exposes the problem. He does not describe one group of rules as “formerly” or “before my codification.” He identifies where particular operations apply through labels such as ***chandasi*** (छन्दसि), ***mantre*** (मन्त्रे), ***amantre*** (अमन्त्रे), ***brāhmaṇe*** (ब्राह्मणे), ***nigame*** (निगमे), and ***bhāṣāyām*** (भाषायाम्). The pyramid converts these scopes into periods, places Pāṇini between them, and then presents the invented timeline as his historical setting.
+>
+> The phrase “Vedic Sanskrit and Classical Sanskrit” takes two domains that serve different purposes and arranges them as earlier and later stages. Sanskrit's own categories preserve their actual functions.
+>
+> **वैदिक (*vaidika*)** and **लौकिक (*laukika*)** describe the broad domains. The vaidika domain preserves the Vedic corpus and its exact transmission requirements. The laukika domain uses calibrated Sanskrit for learned speech, poetry, philosophy, science, story, and the changing needs of the world.
+>
+> Pāṇini's markers state where each rule applies. A rule may apply across specified Vedic usage, only in mantra, outside mantra, in Brāhmaṇa usage, in a named Vedic text or lineage, or in *laukika* use. These categories can overlap, so they do not form a second binary.
+>
+> Domains are not periods, and operational scopes are not stages. Pāṇini did not move Sanskrit from *vaidika* to *laukika*. He documented operations found within and across the architecture.
+
+**Author decision:** `[x] Accept  [ ] Revise  [ ] Keep current`
+
+**Comments:**
+
+##### VL-SCOPE-012 — Appendix Part 9: calibration audit and summary table
+
+**Locations:** `as_3_09_codification_story.md:176,180,235–237`
+
+**Current**
+
+> Each difference would first be classified by domain and mode: *vaidika* or *laukika*, *chandas* or *bhāṣā*.
+>
+> Vedic pitch accent, for example, remains part of exact Vedic recitation even though laukika *bhāṣā* does not deploy it in the same way.
+>
+> | Vedic and Classical Sanskrit are chronological stages. | *Vaidika* and *laukika* are domains; *chandas* and *bhāṣā* are modes. Pāṇini's rule contexts do not establish the imported timeline. |
+> | The subjunctive disappeared. | Pāṇini documents *leṭ* under *chandasi*. Its bounded Vedic deployment is a mode difference before it is evidence of chronological loss. |
+> | Vedic accent disappeared. | Vedic transmission continues to preserve accent as sound and grammatical interpretation. Laukika *bhāṣā* does not use the same pitch layer. |
+
+**Proposed**
+
+> Each difference would first be assigned to the *vaidika* or *laukika* domain and then to its exact operational scope: mantra, Brāhmaṇa, *nigama*, a named Vedic text or lineage, *laukika* use, or another boundary stated by the source.
+>
+> Vedic pitch accent, for example, remains part of exact Vedic recitation even though *laukika* composition does not use the same pitch layer.
+>
+> | Vedic and Classical Sanskrit are chronological stages. | *Vaidika* and *laukika* are domains. Pāṇini states where particular rules apply; those rules do not establish the imported timeline. |
+> | The subjunctive disappeared. | Pāṇini documents *leṭ* under *chandasi*. The form remains available where Vedic usage requires it, so its absence from new *laukika* composition does not prove that Sanskrit lost it over time. |
+> | Vedic accent disappeared. | Vedic transmission continues to preserve accent as sound and grammatical interpretation. *Laukika* composition does not use the same pitch layer. |
+
+**Author decision:** `[x] Accept  [ ] Revise  [ ] Keep current`
+
+**Comments:**
+
+##### VL-SCOPE-013 — Appendix Part 10: glossary
+
+**Location:** `as_3_10_glossary.md:183–185`
+
+**Current**
+
+> ### **chandas** (छन्दस्) / **bhāṣā** (भाषा)
+>
+> **Standard. Pāṇinian locative-rule markers.** *Chandas* — the metrical / Vedic mode. *Bhāṣā* — the speech / *bhāṣāyām* mode of ordinary educated usage. Pāṇini tags rules *chandasi* (in *chandas*) or *bhāṣāyām* (in *bhāṣā*); both are operating modes of Sanskrit, not stages on a timeline. See the chronology section of the Preface for full rationale.
+
+**Proposed**
+
+> ### **chandas** (छन्दस्) / **bhāṣā** (भाषा)
+>
+> **Scope-sensitive terms.** *Chandas* means meter; *bhāṣā* means speech or language. Their locative forms can serve as Pāṇinian rule markers: *chandasi* marks specified Vedic usage, while *bhāṣāyām* marks specified *laukika* use. They are two members of a larger scope system that also includes *mantre, amantre, brāhmaṇe, nigame,* and narrower textual labels. Use *vaidika* and *laukika* for the book's broad domains.
+
+**Author decision:** `[x] Accept  [ ] Revise  [ ] Keep current`
+
+**Comments:**
+
+##### VL-SCOPE-014 — Thesis Summary: Claim 11
+
+**Location:** `reference/as_thesis_summary.md:66`
+
+**Current**
+
+> 11. **Vedic and Classical Sanskrit are not two languages — the split is imaginary.** **वैदिक (*vaidika*)** and **लौकिक (*laukika*)** are domains; **छन्दसि (*chandasi*)** and **भाषायाम् (*bhāṣāyām*)** are modes. Domain is not chronology. Mode is not drift. Pāṇini witnesses both. **Preface; Chapter 2 §2.6; Chapter 6 §6.6; Chapter 14 §14.7.**
+
+**Proposed**
+
+> 11. **Vedic and Classical Sanskrit are not two languages — the split is imaginary.** **वैदिक (*vaidika*)** and **लौकिक (*laukika*)** are the broad domains. Pāṇini documents where particular operations apply within and across them. Domain is not chronology. A rule's stated boundary is not evidence of drift. **Preface; Chapter 2 §2.6; Chapter 6 §6.6; Chapter 14 §14.7.**
+
+**Author decision:** `[x] Accept  [ ] Revise  [ ] Keep current`
+
+**Comments:**
+
+##### VL-SCOPE-015 — PASS scope categories
+
+**Locations:** `as_1_09_mapping_mouth.md:339`; `as_3_08_one_architecture_two_domains.md:20`; `as_endnotes.md:3033`
+
+**Current**
+
+> **Vaidika** forms are used across the Vedic domain, while **Lineage-Bounded** forms belong to named Vedic lineages.
+>
+> Does the resource belong to reusable Sanskrit, operate only under a stated condition, extend across the Vedic domain, remain within a named Vedic lineage, or stay excluded from independent use?
+>
+> **Vaidika:** available across the Vedic domain.
+
+**Proposed**
+
+> **Vaidika** forms are restricted to a stated Vedic scope, while **Lineage-Bounded** forms belong to named Vedic lineages.
+>
+> Does the resource belong to reusable Sanskrit, operate only under a stated condition, belong to a stated Vedic scope, remain within a named Vedic lineage, or stay excluded from independent use?
+>
+> **Vaidika:** restricted to a stated Vedic scope, which may be broad or may identify mantra, Brāhmaṇa, *nigama*, or another Vedic context.
+
+This correction does **not** qualify the claim that the Vedic corpus remains
+invariant. It corrects only the classification of a particular form: a Vedic
+form need not appear in every Veda merely because it belongs to the vaidika
+domain.
+
+**Author decision:** `[x] Accept  [ ] Revise  [ ] Keep current`
+
+**Comments:**
+
+##### VL-SCOPE-016 — Consolidate the older duplicate endnote
+
+**Location:** `as_endnotes.md:3237–3256`, note `chandasi-bhasayam-astadhyayi`
+
+**Current**
+
+> Pāṇini's *Aṣṭādhyāyī* distinguishes Sanskrit's two modes through the operational pair ***chandasi*** (छन्दसि, *in meter*) and ***bhāṣāyām*** (भाषायाम्, *in speech*).
+>
+> The note continues by presenting the two labels as parallel modes, reducing *chandasi* to meter, and citing 1.1.62, 2.3.8, and 5.4.150 as *bhāṣāyām* anchors.
+
+**Proposed**
+
+> Remove this duplicate note after moving its Chapter 17 deployment to `chandasi-bhashayam-mode-markers`. Preserve its bibliography in the surviving note. Do not carry over the unsupported *bhāṣāyām* citations or the claim that the two labels form a complete parallel binary.
+
+Because this item removes a duplicate note, the complete removed text must also
+enter `as_appendix_08_removed_text_lost_and_found_codex.md` before deletion.
+References to the retiring note at `as_endnotes.md:3233` and
+`as_endnotes.md:3627` must be redirected to the surviving note at the same time.
+
+**Author decision:** `[x] Accept  [ ] Revise  [ ] Keep both notes`
+
+**Comments:**
+
+##### VL-SCOPE-017 — Rewrite the surviving scope-marker endnote
+
+**Location:** `as_endnotes.md:4992–5009`, note `chandasi-bhashayam-mode-markers`
+
+**Current**
+
+> **Short:** Pāṇini's *Aṣṭādhyāyī* uses two operational markers: ***chandasi*** (छन्दसि, locative of *chandas*) for specified operations in Vedic scope, and ***bhāṣāyām*** (भाषायाम्, locative of *bhāṣā*) for specified operations in productive speech.
+>
+> Pāṇini's *Aṣṭādhyāyī* deploys two mode-tags throughout its ~4,000 sūtras to indicate which mode a given rule applies in.
+>
+> The two tags appear across the *Aṣṭādhyāyī* hundreds of times.
+>
+> **The decisive structural fact**: these are **mode tags, not time tags**. Pāṇini does *not* say *"the language used to be like Vedic and is now like Classical"*; he says *"rule X applies in meter, rule Y applies in speech."*
+
+**Proposed**
+
+> **Short:** Pāṇini's *Aṣṭādhyāyī* uses several operational scope markers. ***Chandasi*** (छन्दसि) marks specified operations in Vedic scope, while ***bhāṣāyām*** (भाषायाम्) marks specified operations in *laukika* use. Other markers include ***mantre*** (मन्त्रे), ***amantre*** (अमन्त्रे), ***brāhmaṇe*** (ब्राह्मणे), ***nigame*** (निगमे), and labels tied to a particular Vedic text or lineage. These markers identify where an operation applies; they do not turn one Sanskrit domain into the chronological descendant of another.
+>
+> These scopes overlap. *Aṣṭādhyāyī* 3.1.35, ***kāspratyayād ām amantre liṭi***, applies outside mantra; the *Nyāsa* expressly includes both Brāhmaṇa and *bhāṣā* within that scope. Pāṇini's labels therefore cannot be reduced to two mutually exclusive boxes.
+>
+> *Chandasi* appears repeatedly across the *Aṣṭādhyāyī*. Explicit *bhāṣāyām / bhāṣāyāṃ* markers occur in a smaller set of rules, including 3.2.108, 4.1.62, 6.1.181, 6.3.20, 7.2.88, and 8.2.98; in some passages a scope can continue through *anuvṛtti*. The count should distinguish an explicit marker from an inherited scope.
+>
+> These are scope markers, not time markers. Pāṇini identifies where an operation applies. He does not say that Vedic Sanskrit changed into Classical Sanskrit. The broad domains remain *vaidika* and *laukika*; his labels state where particular rules apply within and across them.
+>
+> The direct phonetic account of Ṛgvedic **ळ**, for example, comes from the *Ṛgveda-Prātiśākhya*, not from a Pāṇinian *chandasi* rule. Exact recitational features should remain credited to the discipline that documents them.
+
+**Author decision:** `[x] Accept  [ ] Revise  [ ] Keep current`
+
+**Comments:**
+
+##### VL-SCOPE-018 — Calibration hierarchy endnote
+
+**Location:** `as_endnotes.md:5161–5165`, note `calibration-hierarchy`
+
+**Current**
+
+> **Short:** The calibration hierarchy lays out three levels: the Vedas as primary calibrant, *chandasi* and *bhāṣāyām* as parallel modes, and the *Aṣṭādhyāyī* as the working calibrant that makes the architecture explicit.
+>
+> The two Sanskrit modes — ***chandasi*** (metrical / recitational mode) and ***bhāṣāyām*** (generative / spoken-literary mode) — are synchronic-parallel modes of one engineered architecture, set by Pāṇini's own mode rules; *bhāṣā* is *calibrated against* the Vedas, not derived from them.
+
+**Proposed**
+
+> **Short:** The Vedas preserve Sanskrit's architecture as the primary calibrant. The *vaidika* and *laukika* domains apply that architecture to different purposes. The *Aṣṭādhyāyī* makes many of its operations explicit and serves as the easier day-to-day calibrant.
+>
+> The two broad Sanskrit domains — ***vaidika*** and ***laukika*** — serve different purposes within one engineered architecture. The Vedas preserve the calibrant; the *laukika* domain applies the shared architecture to new composition. Pāṇini documents where particular operations apply. He did not create either domain. The *laukika* domain is calibrated against the Vedas, not derived from them.
+
+**Author decision:** `[x] Accept  [ ] Revise  [ ] Keep current`
+
+**Comments:**
+
+##### VL-SCOPE-019 — Calibration-audit endnote
+
+**Location:** `as_endnotes.md:5181–5185`, note `calibration-audit-gap`
+
+**Current**
+
+> One would take the Vedic Saṃhitās, Brāhmaṇas, Āraṇyakas, Upaniṣads, *Prātiśākhya* and *Śikṣā* materials, Yāska's *Nirukta*, Sūtra literature, and the pre-Pāṇinian grammatical traces; classify features by *vaidika* / *laukika* domain and *chandas* / *bhāṣā* mode; separate metrical alternation from uncontrolled change; separate recension-specific specification from drift; and then measure what genuinely fails against the architecture Pāṇini documents.
+
+**Proposed**
+
+> One would take the Vedic Saṃhitās, Brāhmaṇas, Āraṇyakas, Upaniṣads, *Prātiśākhya* and *Śikṣā* materials, Yāska's *Nirukta*, Sūtra literature, and the pre-Pāṇinian grammatical traces; classify each feature first by *vaidika* or *laukika* domain and then by its exact operational scope; separate metrical alternation from uncontrolled change; separate lineage-specific form from drift; and then identify what genuinely falls outside the architecture Pāṇini documents.
+
+**Author decision:** `[x] Accept  [ ] Revise  [ ] Keep current`
+
+**Comments:**
+
+##### VL-SCOPE-020 — Standing writing rule in `CLAUDE.md`
+
+**Location:** `CLAUDE.md:205–224`
+
+**Current**
+
+> **Two axes, not one chronology:**
+>
+> - ***Domains:*** ***वैदिक (*vaidika*)*** / ***लौकिक (*laukika*)***.
+> - ***Modes:*** ***छन्दस् (*chandas*)*** / ***भाषा (*bhāṣā*)*** — the metrical mode and the speech mode. Pāṇini marks the distinction directly in the *Aṣṭādhyāyī*.
+>
+> **Vaidika / laukika are domains. Chandas / bhāṣā are modes.**
+>
+> Use the **mode/domain names** *chandas* / *bhāṣā* (and *vaidika* / *laukika*) when the book is naming Sanskrit domains or modes in its own prose.
+>
+> Use the **locative forms** *chandasi* / *bhāṣāyām* **only** when quoting Pāṇini's actual *sūtra* rule-markers or glossing the literal locative — including *"chandasi means 'in meter'"*.
+
+**Proposed**
+
+> **Broad domains; precise operational scopes:**
+>
+> - ***Domains:*** Use ***वैदिक (*vaidika*)*** / ***लौकिक (*laukika*)*** for the two broad civilizational and linguistic domains. Patañjali uses this pair directly.
+> - ***Operational scopes:*** Use Pāṇini's exact label only when an exact rule or boundary contributes evidence. His labels include *chandasi, mantre, amantre, brāhmaṇe, nigame, bhāṣāyām,* and narrower textual or lineage markers.
+>
+> Do not present *chandasi* and *bhāṣāyām* as a complete binary or as exact synonyms for *vaidika* and *laukika*. Do not translate *chandasi* automatically as *"in meter"*; it can mark Vedic prose as well. Use *chandas* for meter when meter itself is the subject, and *bhāṣā* for speech or language when speech itself is the subject.
+>
+> Broad architectural prose should normally use *vaidika* and *laukika* without invoking Pāṇini. Credit Pāṇini when his documentation identifies the precise scope of an operation. He documents the architecture; he does not create, calibrate, stabilize, or authorize the Vedas.
+
+**Author decision:** `[x] Accept  [ ] Revise  [ ] Keep current`
+
+**Comments:**
+
+##### Exact uses to retain
+
+The following passages use a scope marker for a particular rule and should not
+be changed merely to enforce terminological uniformity:
+
+- `as_3_07_vedic_carrier.md:144`: *leṭ* documented under *chandasi*;
+- `as_3_07_vedic_carrier.md:166`: Pāṇini marks specified Vedic operations
+  *chandasi*, with the local wording revised only if needed for clarity;
+- `as_3_09_codification_story.md:82`: *leṭ* under *chandasi*;
+- `as_3_09_codification_story.md:201`: optionality and rules for contexts such
+  as *chandasi*;
+- `as_1_16_one_architecture_two_domains.md:276` and
+  `as_endnotes.md:5015`: exact *bhāṣā* / *bhāṣāyām* examples, pending the
+  separate Laukika-only evidence audit;
+- `as_endnotes.md:2871`: *pluta* in the exact Pāṇinian speech context discussed
+  there; and
+- `as_reference_08_let_coordinate_test.md:37`: the exact *chandasi* opening of
+  the *leṭ* sequence;
+- `CLAUDE.md:287` and `CLAUDE.md:615`: exact-rule and exact-description
+  examples, which remain valid after the standing rule itself is corrected; and
+- Figure 0.1 and all unqualified statements that the Vedic corpus remains
+  invariant. The scope-marker correction does not weaken the invariance claim.
+
+##### VL-SCOPE-021 — Calibration-hierarchy reference document
+
+**Locations:** `reference/as_calibration_hierarchy.md:3,17–18,38–39,58,93–99,110,121–123`
+
+**Current**
+
+> Vedas as primary calibrant; *chandasi* / *bhāṣāyām* as synchronic-parallel modes; Aṣṭādhyāyī as working calibrant.
+>
+> | **Vedic / Classical Sanskrit relationship** | Evolutionary stages; Vedic drifted into Classical | Two synchronic-parallel modes (*chandasi* / *bhāṣāyām*) of one architecture; *bhāṣā* calibrated against the Vedas |
+> | **Pāṇini's role** | Codifier — credited with bringing order to drift | Decoder — produced the working calibrant (*Aṣṭādhyāyī*) for the *bhāṣā* mode |
+>
+> | ***Chandasi* / *bhāṣāyām*** modes | Two synchronic-parallel modes of one engineered architecture | *Bhāṣā* is **calibrated against** the Vedas, not derived from them. Mode-differences are *features* of the engineering, marked by Pāṇini's own mode rules. Both modes present from the start. |
+> | ***Aṣṭādhyāyī*** + the pre-Pāṇinian *vaiyākaraṇa* roster | Decoded the architecture implicit in the calibrant | The Aṣṭādhyāyī is the **working calibrant** for *bhāṣā* — the user's manual for everyday Sanskrit. The Vedas remain the **primary calibrant**. |
+>
+> When the Sanskrit continuum preserved its own account — *saṃskṛtam*, *śruti*, *apauruṣeya*, *vyākaraṇam*, *chandasi*, *bhāṣāyām* — the pyramid treated those categories as belief, not evidence.
+>
+> From the implicit encoding of the sounds and the *dhātus* and the rules of the *chandasi* poetry that was preserved, *ṛṣis* extracted *bhāṣyam*. The primary goal was to keep *bhāṣyam* in reasonable sync with *chandasi*. Pāṇini decoded the rules for *bhāṣyam* using the Vedas and all the decoding work that was done before.
+>
+> The contrast is **chandasi** (Vedic / metrical / recitational mode) ↔ **bhāṣāyām** (generative / analytical / spoken-literary mode) — Pāṇini marks both with locatives.
+>
+> Pāṇini produced the most compressed, complete, operational user's manual for the *bhāṣā* mode. The *Aṣṭādhyāyī* became the easier day-to-day calibrant for *bhāṣā*, while the Vedas remained the primary calibrant.
+>
+> Differences between *chandasi* and *bhāṣāyām* are mode-differences inside one engineered architecture, not proof of drift.
+
+**Proposed**
+
+> The Vedas are the primary calibrant. *Vaidika* and *laukika* are the two broad domains of one architecture. The *Aṣṭādhyāyī* makes many operations explicit and serves as the working calibrant.
+>
+> | **Vedic / Classical Sanskrit relationship** | Evolutionary stages; Vedic drifted into Classical | Two functional domains (*vaidika* / *laukika*) of one architecture; the *laukika* domain calibrated against the Vedas |
+> | **Pāṇini's role** | Codifier — credited with bringing order to drift | Decoder — documented the shared architecture and the precise scope of particular operations |
+>
+> | ***Vaidika* / *laukika*** domains | Two domains of one engineered architecture that serve different purposes at the same time | The Vedas preserve the calibrant; the *laukika* domain applies the architecture to new composition. Pāṇini's exact scope markers state where particular operations apply. |
+> | ***Aṣṭādhyāyī*** + the pre-Pāṇinian *vaiyākaraṇa* roster | Decoded the architecture implicit in the calibrant and in Sanskrit usage | The *Aṣṭādhyāyī* is the working calibrant for *laukika* Sanskrit. The Vedas remain the primary calibrant. |
+>
+> When the Sanskrit continuum preserved its own account — *saṃskṛtam*, *śruti*, *apauruṣeya*, *vyākaraṇam*, *vaidika*, and *laukika* — the pyramid treated those categories as belief, not evidence.
+>
+> The Vedas preserve Sanskrit's sounds, atoms, and grammatical architecture implicitly. Generations of *vaiyākaraṇāḥ* decoded that architecture and documented how it operates across *laukika* usage. Their purpose was to keep the open domain calibrated against the invariant Vedic corpus. Pāṇini inherited their analyses and produced the finest surviving documentation.
+>
+> The broad contrast is **vaidika** ↔ **laukika**. Pāṇini then states where particular operations apply through locatives such as *chandasi, mantre, amantre, brāhmaṇe, nigame,* and *bhāṣāyām*.
+>
+> Pāṇini produced the most compressed and complete surviving manual for Sanskrit's reusable architecture. The *Aṣṭādhyāyī* became the easier day-to-day calibrant for *laukika* composition, while the Vedas remained the primary calibrant.
+>
+> The *vaidika* and *laukika* domains use some forms differently because they serve different purposes. Pāṇini also restricts particular operations to specific kinds of usage. These differences remain parts of one engineered architecture; they do not prove that one Sanskrit changed into another.
+
+**Author decision:** `[x] Accept  [ ] Revise  [ ] Keep current`
+
+**Comments:**
+
+##### VL-SCOPE-022 — Tonogenesis endnotes: remove the false *bhāṣāyām* boundary
+
+**Locations:** `as_endnotes.md:3472,3474,3497`
+
+**Current**
+
+> The Punjabi tone is *post-engineering regional development* — the product of natural-language drift inside speech-fields the calibration scope (the Sanskrit calibrant-anchored *bhāṣāyām* mode) did not reach.
+>
+> Where pitch is reserved (as in the Sanskrit calibrant's *bhāṣāyām* mode), the phonological inventory remains stable.
+>
+> The Pahari speech-fields sit closer to the calibrant-anchored *bhāṣāyām* boundary than the Punjabi speech-fields do.
+
+**Proposed**
+
+> Punjabi tone is a post-engineering regional development produced in a botanical speech-field outside Sanskrit's calibrated architecture.
+>
+> Sanskrit reserves pitch for the Vedic recitation architecture while its reusable consonant grid preserves the voiced-aspirate distinction. Punjabi followed another path after that distinction changed in regional speech.
+>
+> The Pahari examples display the same kind of tonal development on a smaller lexical set. Their relationship to Sanskrit should be described through documented language contact and sound change, not through an invented *bhāṣāyām* boundary.
+
+This proposal corrects the scope term and also flags the current geographical
+calibrant-distance claim for a separate evidence check.
+
+**Author decision:** `[x] Accept  [ ] Revise  [ ] Keep current`
+
+**Comments:**
+
+##### VL-SCOPE-023 — Remaining framework summaries
+
+**Locations:** `as_endnotes.md:4971,4988`; `reference/as_toc_notes.md:391`
+
+**Current**
+
+> Chapter 6 §6.6's response: *not drift, but engineered design choices within the same architecture* — Pāṇini's *chandasi* / *bhāṣāyām* framework.
+>
+> The book's engineering response is the chapter's own argumentative work, anchored in Pāṇini's *chandasi* / *bhāṣāyām* categorical framework.
+>
+> Defend the reframing: Vedic as mode, not evolutionary stage. Acknowledge the standard view, present internal Indic evidence (Pāṇini's *chandasi* rules framed synchronically; diglossia as the rule in literate civilizations), acknowledge the limits of the strongest mode claim, and state the defensible synthesis: Vedic and *laukika* as two modes within a single engineered system, with Vedic preserving features anchored to the corpus.
+
+**Proposed**
+
+> Chapter 6 §6.6 begins by identifying whether a variation belongs to the *vaidika* or *laukika* domain. It then examines the setting in which the variation appears: a particular text, meter, recitation practice, or new composition.
+>
+> The chapter develops the book's engineering response from the *vaidika* / *laukika* domain architecture. Where a Pāṇinian rule is relevant, its marker identifies the precise usage to which the operation belongs.
+>
+> Explain that *vaidika* names a domain, not an evolutionary stage. Begin with the Hindu continuum's *vaidika* / *laukika* distinction. Bring in a Pāṇinian marker only when a particular rule needs a more precise boundary. One engineered Sanskrit architecture serves both domains, while the Vedic corpus preserves additional forms required by its passages and transmission.
+
+**Author decision:** `[x] Accept  [ ] Revise  [ ] Keep current`
+
+**Comments:**
+
+##### VL-SCOPE-024 — Appendix Part 7: the **ळ** documentation
+
+**Location:** `as_3_07_vedic_carrier.md:41`
+
+**Current**
+
+> The opening ***agnimīḷe*** preserves the retroflex lateral **ळ (*ḷ*)** exactly where the *Ṛgveda-Prātiśākhya* says it should occur: intervocalic **ड** becomes **ळ**, with the corresponding **ढ → ळ्ह**. The Śākala recension therefore preserves **ईळे (*īḷe*)** as a condition-generated Vedic form rather than as an additional member of the reusable *laukika* grid. Pāṇini's *Aṣṭādhyāyī* documents the wider *chandasi/bhāṣāyām* mode distinction, while the direct phonetic account of this **ळ** belongs to the *Prātiśākhya*. Chapter 9 §9.10 explains how those two forms of documentation describe one sound architecture.
+
+**Proposed**
+
+> The opening ***agnimīḷe*** preserves the retroflex lateral **ळ (*ḷ*)** exactly where the *Ṛgveda-Prātiśākhya* says it should occur: intervocalic **ड** becomes **ळ**, with the corresponding **ढ → ळ्ह**. The Śākala recension therefore preserves **ईळे (*īḷe*)** as a condition-generated Vedic form rather than as an additional member of the reusable *laukika* grid. The *vaidika* / *laukika* distinction explains why the two domains can use the sound differently. The *Prātiśākhya* then explains the exact phonetic operation that produces **ळ** in this passage. Chapter 9 §9.10 brings these two explanations together.
+
+**Author decision:** `[x] Accept  [ ] Revise  [ ] Keep current`
+
+**Comments:**
+
+##### VL-SCOPE-025 — Chapter 16: the Laukika-only strip
+
+**Location:** `as_1_16_one_architecture_two_domains.md:274`
+
+**Current**
+
+> The narrow *Laukika Only* extension in Figure 16.1 contains the forms and operations assigned specifically to *bhāṣā*. Most of the generative engine belongs to the shared architecture, which supplies the sounds, atoms, endings, and sentence operations that laukika speakers apply to new composition.
+
+**Proposed**
+
+> The narrow *Laukika Only* extension in Figure 16.1 contains forms and operations restricted to *laukika* composition. Most of the generative engine belongs to the shared architecture, which supplies the sounds, atoms, endings, and sentence operations that *laukika* speakers apply to new composition. Before placing an example in the narrow strip, the book must verify that the rule is actually restricted to *laukika* usage. A rule marked *bhāṣā* may also overlap Brāhmaṇa or another non-mantra setting.
+
+The following paragraph and endnote already use exact *bhāṣā* examples. They
+remain pending until the separate Laukika-only evidence audit confirms which
+examples establish an exclusive operation and which contrast an ordinary shared
+form with a specially preserved Vedic alternative.
+
+**Author decision:** `[x] Accept  [ ] Revise  [ ] Keep current`
+
+**Comments:**
+
 #### Structure and author review
 
 - [x] Establish the fixed-corpus and open-generation architecture.
@@ -109,7 +925,7 @@ method, and rationale behind each item.
 - [x] Create the three-letter Designed Variation codebook.
 - [x] Complete the first analytical classification of all 83 declensional
   variations.
-- [ ] Complete author review of the promoted appendix.
+- [x] Complete author review of the promoted appendix.
 - [x] Resolve all author comments present during the closure sequence.
 
 #### Declensional evidence
