@@ -223,7 +223,7 @@ The ⟪स्था⟫ and ⟪दिव्⟫ families are part of a much larger
 | **⟪भृ⟫ (*bhṛ*)** — bear, carry | **\*bʰer-** | Latin *ferre* → *transfer, refer, confer, fertile*; Greek *pherein* → *metaphor, phosphorus, euphoria* |
 | **⟪मा⟫ (*mā*)** — measure | **\*meh₁-** | Latin *mētīrī* → *measure, dimension, immense*; Greek *metron* → *metre, geometry, symmetry* |
 
-Greek, Latin, and Germanic received these seeds and made them productive in their own languages. Each family continued to grow through the sounds, affixes, and habits of its new field, while the semantic reach of the Sanskrit atom remained recognizable across the canopy. Vivimorphosis therefore explains both sides of the contact: Sanskrit's radiance endows the receiving language, and the receiving language turns that endowment into organic growth.
+Greek, Latin, and Germanic received these seeds and used them to generate new words and compounds. Each family continued to grow through the sounds, affixes, and habits of its new field, while the semantic reach of the Sanskrit atom remained recognizable across the canopy. Vivimorphosis therefore explains both sides of the contact: Sanskrit's radiance endows the receiving language, and the receiving language turns that endowment into organic growth.
 
 The PIE account reverses the direction shown in Figure 19.6. It begins with organic forms in the receiving languages, groups their correspondences, and reconstructs a botanical parent behind them. The pyramid then reads those vivimorphosed descendants as evidence for that parent and makes Sanskrit descend from the reconstruction. Through that reversal, the engineered source becomes one daughter branch beneath an imaginary ancestor assembled from reflected forms.
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- lineage: py
      canonical-source: designed_variations_accent_recitation.from-py.svg
-     updated: 2026-07-27 -->
+     updated: 2026-08-01 -->
 <svg xmlns="http://www.w3.org/2000/svg" width="4.75in" height="2.613in" viewBox="0 0 1200 660">
 <rect width="1200" height="660" fill="#f7f4ed"/>
 <text x="28.0" y="54.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="42" font-weight="600" font-style="normal" fill="#29251f" text-anchor="start">Designed Variations: Accent and Recitation</text>
@@ -13,7 +13,7 @@
 <text x="704.0" y="161.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">Qualification</text>
 <text x="946.0" y="161.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">DV</text>
 <text x="1180.0" y="161.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">Evidence</text>
-<text x="122.0" y="196.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">Vaidika range · laukika productive form</text>
+<text x="122.0" y="196.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">Vaidika range · laukika form for new composition</text>
 <text x="800.0" y="196.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">Prevalence</text>
 <line x1="28" y1="208" x2="1172" y2="208" stroke="#cfc6b5" stroke-width="1"/>
 <text x="28.0" y="240.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">AC-01</text>

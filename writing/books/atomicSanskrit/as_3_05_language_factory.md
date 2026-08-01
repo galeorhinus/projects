@@ -59,7 +59,7 @@ This demonstration uses Japanese for three reasons.
 
 **Third, audience.** The argument that Sanskrit's architecture is a universal meta-system is more compelling when demonstrated on a substrate whose speakers have a developed literary tradition of their own.
 
-Japanese makes no aspirated-unaspirated distinction in stops, forcing Sanskrit's *pa* / *pha* / *ba* / *bha* to collapse to Japanese *p* / *b*. Japanese also lacks retroflex stops, so Sanskrit's *ṭa* / *ṭha* / *ḍa* / *ḍha* collapse to dental *ta* / *da*; Sanskrit *la* maps to Japanese *ra*, and Sanskrit *va* maps to *wa*. The substrate brings these restrictions alongside a highly restricted syllable structure (CV with optional moraic /N/; no clusters), yet the cipher absorbs the collapses without losing the engine's productivity.
+Japanese makes no aspirated-unaspirated distinction in stops, forcing Sanskrit's *pa* / *pha* / *ba* / *bha* to collapse to Japanese *p* / *b*. Japanese also lacks retroflex stops, so Sanskrit's *ṭa* / *ṭha* / *ḍa* / *ḍha* collapse to dental *ta* / *da*; Sanskrit *la* maps to Japanese *ra*, and Sanskrit *va* maps to *wa*. The substrate brings these restrictions alongside a highly restricted syllable structure (CV with optional moraic /N/; no clusters). The cipher absorbs the collapses, and the engine retains its generative capacity.
 
 The first demonstration uses a base cipher that preserves Sanskrit structure even when the output violates Japanese phonotactics. §5.9 adds a stricter phonotactic-adjustment layer.
 

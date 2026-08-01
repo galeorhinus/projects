@@ -123,8 +123,8 @@ def compact_forms(value: str, fallback: str, limit: int = 18) -> str:
         return shorten(" · ".join(terms[:4]), limit)
     cleaned = clean_markdown(value)
     replacements = {
-        "No corresponding productive laukika series": "no productive counterpart",
-        "No corresponding productive": "no productive counterpart",
+        "No corresponding productive laukika series": "no laukika counterpart",
+        "No corresponding productive": "no laukika counterpart",
         "Laukika requires": "",
         "Laukika uses": "",
         "Laukika principally uses": "",
@@ -401,7 +401,7 @@ def render_page(
         text(
             columns["forms"],
             header_y + 35,
-            "Vaidika range · laukika productive form",
+            "Vaidika range · laukika form for new composition",
             size=23,
             color=MUTED,
             italic=True,

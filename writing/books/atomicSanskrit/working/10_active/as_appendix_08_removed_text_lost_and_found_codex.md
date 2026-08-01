@@ -650,3 +650,36 @@ Could Sanskrit styles have changed over time? Certainly. Authors can favor diffe
 A laukika composition created when a Vedic mantra was first seen could therefore sound more familiar to a modern student than that mantra does. A modern composer could likewise imitate the surface style of a Vedic passage without creating a new Vedic mantra. Neither comparison establishes the age of the composition or decides whether caretakers receive it into exact Vedic transmission.
 
 To place a composition in time, the evidence must actually connect it to time: the composition identifies a person or event, another dated composition refers to it, a lineage preserves its position, or the Hindu continuum locates it within its own chronology. Style can support that evidence. Style cannot manufacture the missing date.
+
+
+## LF-VL-028 — Retired duplicate *chandasi / bhāṣāyām* endnote
+
+**Source:** `as_endnotes.md`, former note `chandasi-bhasayam-astadhyayi`
+
+**Action:** Removed after its deployment was redirected to the corrected note
+`chandasi-bhashayam-mode-markers`. The retired note reduced *chandasi* to meter,
+treated *chandasi / bhāṣāyām* as a complete binary, and included unsupported
+*bhāṣāyām* anchors. Its bibliography was retained in the surviving note.
+
+### Original text
+
+### `chandasi-bhasayam-astadhyayi`
+
+**Short:** Pāṇini's *Aṣṭādhyāyī* distinguishes Sanskrit's two modes through the operational pair ***chandasi*** (छन्दसि, *in meter*) and ***bhāṣāyām*** (भाषायाम्, *in speech*). The tags assign rules to concurrent operating contexts rather than arranging Sanskrit into chronological stages. The wider Vedic phonetic disciplines likewise preserve context-specific features such as Ṛgvedic **ळ**, pitch accent, and *pluta* without requiring the laukika generative inventory to promote every preserved realization into an independent coordinate.
+
+**Deployments:** Chapter 17 §17.4 ¶ — the citation anchor for Pāṇini's *chandasi* / *bhāṣāyām* synchronic-parallel-mode distinction in the *Aṣṭādhyāyī*.
+
+Pāṇini's *Aṣṭādhyāyī* distinguishes two modes of Sanskrit through the operational pair ***chandasi (छन्दसि)*** — locative, *in meter*, tagging rules for the *chandas* mode — and ***bhāṣāyām (भाषायाम्)*** — locative, *in speech*, tagging rules for the *bhāṣā* mode. The tags place rules in concurrent operating contexts. They do not arrange the contexts as *"Vedic-then-Classical,"* with the second descending from the first.
+
+The *chandasi* rules govern *chandas*-mode formations and apply to passages, words, and grammatical forms that operate in the metrical / *vaidika* mode. The *bhāṣāyām* rules govern the *bhāṣā* mode — the productive mode that Pāṇini's *Aṣṭādhyāyī* primarily describes and that operates as the generative grammatical system for *laukika* Sanskrit composition.
+
+The pair operates across the *Aṣṭādhyāyī* at multiple points. Specific *sūtras* that draw the distinction:
+
+- *Aṣṭādhyāyī* 1.1.16 (with the *chandasi* context); 1.2.34 (governing Vedic accent placement); 3.4.6–7 (*chandas*-mode verb formation); 5.4.31 (*chandas*-mode compound formation); and across many other *sūtras* in *Adhyāyas* 6 and 7 that tag *chandas*-mode rules with *chandasi* attribution.
+- The complementary *bhāṣāyām* attribution appears at *sūtras* like 1.1.62 and 2.3.8 (mode-specific case-rule conditions); 5.4.150 (compound formation in the spoken mode); and across the broader morphological framework.
+
+The structural significance for Ch17 lies in this parallel operation. Pāṇini documents rules for both modes within one system. The Vedic phonetic disciplines complete the account by preserving sound-forms required in recitation, including the context-generated retroflex lateral **ळ**, the three-fold accent system, and *pluta* vowels. Productive *bhāṣā* applies the shared architecture under a different operating requirement and does not need to make every Vedic realization independently reusable.
+
+The category changes the account. The conventional treatment of the *chandasi* / *bhāṣāyām* relationship makes it historical — *"Vedic Sanskrit"* as the older form, *"Classical Sanskrit"* as the descendant — and treats the relevant Pāṇinian rules as documenting the descent. Pāṇini's own mode rules do not support that account. The *Aṣṭādhyāyī* treats the two modes as synchronically parallel rule-sets within a single grammatical system, with the *vaiyākaraṇaḥ* operating both modes as features of the decoded language.
+
+Standard references: Pāṇini's *Aṣṭādhyāyī*, with the relevant *chandasi* and *bhāṣāyām* attributions. Standard editions: S. M. Katre, *Aṣṭādhyāyī of Pāṇini* (University of Texas Press, 1987); Rama Nath Sharma, *The Aṣṭādhyāyī of Pāṇini* (Munshiram Manoharlal, 6-volume edition, 1987–2003); Vasu's *The Ashtadhyayi of Panini* (Allahabad, 1891). Scholarly treatments: George Cardona, *Pāṇini: His Work and Its Traditions* (Motilal Banarsidass, 1988); Madhav Deshpande, "The Synchronic and the Diachronic in Pāṇinian Grammar" (in *Papers in Linguistics* 6, 1973); Hartmut Scharfe, *Grammatical Literature* (Otto Harrassowitz, 1977), Chapter 5.

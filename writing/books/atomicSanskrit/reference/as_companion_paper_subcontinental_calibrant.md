@@ -128,7 +128,7 @@ The paper does not need to redo the foundational engineering argument. *Atomic S
 
 **3. Coordination with *Atomic Sanskrit*.** Should this paper be released before, with, or after the book? Releasing it after lets the book establish the framework without the paper having to do double duty. Releasing it together would amplify the larger argument but doubles the writing burden. Recommendation: after the book, with the book cited as foundation.
 
-**4. Integration with other ongoing work on Indian linguistic history.** A number of Indian scholars are working on related topics (the Out-of-India hypothesis, the rejection of the racial Arya thesis, the rehabilitation of Sanskrit's status in subcontinental linguistic history). The paper should engage productively with this work without subordinating its own framework to any of these adjacent projects.
+**4. Integration with other ongoing work on Indian linguistic history.** A number of Indian scholars are working on related topics (the Out-of-India hypothesis, the rejection of the racial Arya thesis, the rehabilitation of Sanskrit's status in subcontinental linguistic history). The paper should test its evidence alongside this work while keeping its own framework distinct from these adjacent projects.
 
 ---
 

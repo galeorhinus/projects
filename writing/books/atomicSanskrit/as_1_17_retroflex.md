@@ -12,21 +12,25 @@
 
 \bigskip
 
-Languages across the Indian subcontinent share a signature of mouth and mind. In the mouth, that signature appears in two habits: the tongue curls backward, and the voice repeats and doubles its words. In the mind, it appears in three grammatical postures: it receives rather than commands, allows the sovereign doer to slip from the center of the clause, and folds a chain of actions into a single continuous thread.
+Languages across the Indian subcontinent share a signature of mouth and mind.
 
-These five signatures form the subcontinental baseline: the curled tongue, the doubled sound, the receiver grammar, the de-centered doer, and the folded action. With this ground established, the pyramid's portability thesis is forced to walk its own claimed route. The theory must trace the northwest corridors, track the mobile pastoralists, pass through Old Iranian, and scan the broader Indo-European field. If the pyramid insists Sanskrit was imported along that path, the path itself must explain exactly where the language acquired the mouth it sounds with and the mind it encodes.
+In the mouth, that signature appears in two forms. First, the tongue curls backward and touches the roof of the mouth. Second, speakers repeat and double particular sounds, syllables, and words.
 
-The first evidence is in the mouth.
+In the mind, the same signature appears in three grammatical postures. First, the person receives rather than commands. Second, the sovereign doer can step away from the center of the clause. Third, grammar folds a chain of actions into a single continuous thread.
 
-The opening word of the *Ṛgveda* is *agnimīḷe* (अग्निमीळे). The Veda's first sentence already contains the subcontinental mouth: the tongue curls, the sound is made, and the verse becomes audible through the anatomy this chapter studies.[NOTE: agnimile-rigveda-opening]
+These five signatures form the subcontinental baseline: the curled tongue, the doubled sound, the receiver grammar, the de-centered doer, and the folded action. Once these shared features are visible, we can test the pyramid’s portability thesis against the route it assigns to the imaginary Aryans. If Sanskrit entered India along that route, its distinctive anatomical and grammatical features should also appear in the languages carried along it. The theory must trace the northwest corridors, track the mobile pastoralists, pass through Old Iranian, and scan the broader Indo-European field. If the pyramid insists Sanskrit was imported along that path, the path itself must explain exactly where the language acquired the mouth it sounds with and the mind it encodes.
 
-The name *Ṛgveda* itself provides a second signal. Its first sound, ऋ (*ṛ*), is placed at the मूर्धन्य (*mūrdhanya*) site. The text's name and its first sentence both enter through the curled tongue.
+Let us start with the mouth.
 
-## PART A — The Field Before the Argument
+The *Ṛgveda* opens with *agnim īḷe* (अग्निमीळे). The verb *īḷe* contains **ळ**, a retroflex lateral. To pronounce it, the speaker curls the tongue backward toward the roof of the mouth. The first line of the Veda therefore begins with the subcontinental anatomy this chapter examines.
+
+The name ***ऋग्वेद (Ṛgveda)*** itself is the second example. Sanskrit’s sound architecture places its opening sound, **ऋ (*ṛ*)**, at the ***मूर्धन्य (mūrdhanya)*** position. The name of the text and its opening sentence therefore both use the curled-tongue region of the mouth.
+
+## PART A — The Subcontinental Signature
 
 ## 17.1 The Mouth: *Mūrdhanya*
 
-To produce Sanskrit retroflex consonants such as ट (*ṭa*), ड (*ḍa*), and ण (*ṇa*), curl the tip of the tongue backward and bring it against the roof of the mouth. The movement gives the sound-class its modern descriptive name: the tongue bends back, or retroflexes. The superior longitudinal muscle helps produce that curl; the anatomical detail appears in the note and in Figure 17.1.
+To produce Sanskrit retroflex consonants such as ट (*ṭa*), ड (*ḍa*), and ण (*ṇa*), curl the tip of the tongue backward and bring it against the roof of the mouth. The movement gives the sound-class its modern descriptive name: the tongue bends back, or retroflexes. The superior longitudinal muscle helps produce that flex; the anatomical detail appears in the note and in Figure 17.1.
 
 Languages across the subcontinent use this tongue position. Tamil, Kannada, Malayalam, and Telugu have retroflex sounds. Mundari, Ho, and Korku have them. So do Marathi, Gujarati, Konkani, Sindhi, Bengali, Odia, Assamese, Hindi, Punjabi, and related northern languages. Modern classification assigns these languages to several families, yet the same articulatory habit crosses those family boundaries.
 
@@ -100,7 +104,7 @@ Sanskrit's architecture folds action the same way. Ṛgveda 1.4.8 has *pītvā* 
 
 Sanskrit then builds the fold into rule. On a bare dhātuḥ — an atom with no preverb — the form is **क्त्वा (*ktvā*)**: *kṛtvā*, "having done." Add an **उपसर्ग (*upasarga*, preverb)** and it shifts to **ल्यप् (*lyap*)**: *upagamya*, "having approached"; *praṇamya*, "having bowed." The preverb decides the shape — Pāṇini observed and documented the conditioning. His rule names the relation directly: **समानकर्तृकयोः पूर्वकाले (*samānakartṛkayoḥ pūrvakāle*)** — the affix marks the **पूर्वकाल (*pūrvakāla*)**, the prior act, of two actions that share one agent. One indeclinable folds an entire clause into itself: the same **अल्पाक्षरम् (*alpākṣaram*, minimal-syllable)** economy the architecture runs at every scale (Chapter 10).
 
-One doer usually threads the whole chain — eat, then come, the same person throughout. And Pāṇini is exact about which thread: **समानकर्तृक (*samānakartṛka*)**, the same **agent (कर्तृ, *kartṛ*)** — not the same grammatical subject. A passive that keeps the agent — *tena bhuktvā gamyate*, "by him, having eaten, it is gone" — satisfies the rule rather than breaking it; the "same-subject gate" is the looser Western approximation.[NOTE: gerund-coreference-default-not-gate] The thread is the agent, maintained throughout, and the field's converbs run the same way. Incorporation, not a mechanical same-subject law.
+One doer usually threads the whole chain — eat, then come, the same person throughout. And Pāṇini is exact about which thread: **समानकर्तृक (*samānakartṛka*)**, the same **agent (कर्तृ, *kartṛ*)** — not the same grammatical subject. A passive that keeps the agent — *tena bhuktvā gamyate*, "by him, having eaten, it is gone" — satisfies the rule rather than breaking it; the "same-subject gate" is the looser Western approximation.[NOTE: gerund-coreference-default-not-gate] The thread is the agent, maintained throughout, and the field's converbs run the same way. Incorporation, not a mechanical same-subject requirement.
 
 A complete act becomes one frozen form, leaning into the act that follows, and the sentence flows the way the doing flowed. This is a mind that takes action as a single connected motion — and a grammar built to speak it that way.
 
@@ -158,7 +162,7 @@ The preservation architecture works toward exact recurrence. The *Vedas* are **�
 
 The same principle applies inside the corpus. Different Vedas and different textual forms have different styles because they serve different functions. Hymn, chant, liturgical formula, prose explanation, branch arrangement, and recensional discipline need distinct modes of operation. Style is not clock. Function is not chronology.
 
-The different duties of छन्दस् (*chandas*) and भाषा (*bhāṣā*) explain how **ळ** can remain exact in Vedic transmission without becoming an independent coordinate in the reusable *laukika* grid. The *Ṛgveda-Prātiśākhya* gives the operation directly: intervocalic **ड** becomes **ळ**, while the corresponding **ढ** becomes **ळ्ह**. The *progressive dogma* converts this preserved contextual analysis into chronology and presents **ळ** as "lost between Vedic Sanskrit and Classical Sanskrit." Pāṇini instead documents *chandasi* ("in meter") and *bhāṣāyām* ("in speech") as operating contexts within one architecture. Chapter 9 §9.10 explains the sound-system, while Appendix Part 8 places this evidence beside the wider grammatical differences between the two domains.[NOTE: chandasi-bhasayam-astadhyayi]
+The different duties of the *vaidika* and *laukika* domains explain how **ळ** can remain exact in Vedic transmission without becoming an independent coordinate in the reusable *laukika* grid. The *Ṛgveda-Prātiśākhya* gives the operation directly: intervocalic **ड** becomes **ळ**, while the corresponding **ढ** becomes **ळ्ह**. The *progressive dogma* converts this preserved contextual analysis into chronology and presents **ळ** as "lost between Vedic Sanskrit and Classical Sanskrit." Sanskrit instead preserves the sound where the Vedic passage requires it while leaving it outside the reusable *laukika* grid. Chapter 9 §9.10 explains the sound-system, while Appendix Part 8 places this evidence beside the wider grammatical differences between the two domains.[NOTE: chandasi-bhashayam-mode-markers]
 
 The branch evidence sharpens the category further. A शाखा (*śākhā*) is a specified transmission line with its own branch-shape. The **माध्यन्दिन (*Mādhyandina*)** and **काण्व (*Kāṇva*)** recensions of the **शतपथब्राह्मण (*Śatapatha Brāhmaṇa*)** preserve related material through different branch-shapes, divisions, and arrangements. The correct axis is mode and branch rather than a single temporal slope from "Vedic" to "Classical."[NOTE: madhyandina-kanva-branch-shapes]
 

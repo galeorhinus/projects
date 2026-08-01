@@ -1,6 +1,6 @@
 # The Calibration Hierarchy + Paired Speculations
 
-> *Standing-framework reference document. Captures **two paired speculations** for Sanskrit's origin: (a) the pyramid's speculation chain — PIE / external homeland / racial Arya thesis / substrate retroflexes / Pāṇinian codification — and (b) the dharmic continuum's alternative speculation, anchored on the calibration-hierarchy geometry (Vedas as primary calibrant; *chandasi* / *bhāṣāyām* as synchronic-parallel modes; Aṣṭādhyāyī as working calibrant). Originated in working conversation 2026-05-19 (Parag) with vocabulary + claim-boundary corrections from Codex review (same day). This document is the reference source-of-truth; chapter prose, the Claims, and CLAUDE.md point back here.*
+> *Standing-framework reference document. Captures **two paired speculations** for Sanskrit's origin: (a) the pyramid's speculation chain — PIE / external homeland / racial Arya thesis / substrate retroflexes / Pāṇinian codification — and (b) the dharmic continuum's alternative speculation, anchored on the calibration hierarchy: the Vedas as primary calibrant; *vaidika* and *laukika* as the broad domains; and the Aṣṭādhyāyī as the working calibrant and the finest surviving documentation of Sanskrit's operational scopes. Originated in working conversation 2026-05-19 (Parag) with vocabulary + claim-boundary corrections from Codex review (same day). This document is the reference source-of-truth; chapter prose, the Claims, and CLAUDE.md point back here.*
 
 ---
 
@@ -14,8 +14,8 @@ The two speculations sit in paired-polemic structure:
 | **Origin entity** | Proto-Indo-European (PIE) — imaginary, reconstructed | The Vedas — attested, recited, taught, operating; *dṛṣṭāḥ* saw them |
 | **Homeland** | External to India; framework requires it | Not claimed. The continuum refuses to play the homeland game. |
 | **Mechanism into India** | Racial Arya thesis: invasion first, migration later | Not required. The Vedas are already where the continuum is. |
-| **Vedic / Classical Sanskrit relationship** | Evolutionary stages; Vedic drifted into Classical | Two synchronic-parallel modes (*chandasi* / *bhāṣāyām*) of one architecture; *bhāṣā* calibrated against the Vedas |
-| **Pāṇini's role** | Codifier — credited with bringing order to drift | Decoder — produced the working calibrant (*Aṣṭādhyāyī*) for the *bhāṣā* mode |
+| **Vedic / Classical Sanskrit relationship** | Evolutionary stages; Vedic drifted into Classical | Two domains of one architecture: *vaidika* and *laukika*. The laukika domain remains calibrated against the Vedas. |
+| **Pāṇini's role** | Codifier — credited with bringing order to drift | Decoder — documented the shared architecture and stated precisely where particular operations apply |
 | **Sanskrit-continuum categories** | *Belief* | *Evidence* |
 
 The inversion the book names: *the pyramid tells the Hindu continuum that its own categories are faith while the pyramid's imaginary ancestor is science.*
@@ -35,8 +35,8 @@ The framework is addressed specifically to the **"rationalist" Hindus** — thos
 | Layer | Origin | Role |
 |---|---|---|
 | **The Vedas** | *Dṛṣṭāḥ* **saw**. Upstream of the seers = *we do not know*. | The **primary calibrant**. *Apauruṣeya*. Encoded perfection. Perfect when seen, perfect today. |
-| ***Chandasi* / *bhāṣāyām*** modes | Two synchronic-parallel modes of one engineered architecture | *Bhāṣā* is **calibrated against** the Vedas, not derived from them. Mode-differences are *features* of the engineering, marked by Pāṇini's own mode rules. Both modes present from the start. |
-| ***Aṣṭādhyāyī*** + the pre-Pāṇinian *vaiyākaraṇa* roster | Decoded the architecture implicit in the calibrant | The Aṣṭādhyāyī is the **working calibrant** for *bhāṣā* — the user's manual for everyday Sanskrit. The Vedas remain the **primary calibrant**. |
+| ***Vaidika* / *laukika*** domains | Two civilizational domains of one engineered architecture | Laukika Sanskrit is **calibrated against** the Vedas, not derived from them. Their differences serve their different purposes; they do not establish an evolutionary sequence. |
+| ***Aṣṭādhyāyī*** + the pre-Pāṇinian *vaiyākaraṇa* roster | Decoded the architecture implicit in the calibrant | The Aṣṭādhyāyī is the **working calibrant** and operational manual for laukika Sanskrit. Its narrower markers state where particular operations apply. The Vedas remain the **primary calibrant**. |
 
 ---
 
@@ -55,7 +55,7 @@ Codex review (2026-05-19) drafted a 12-point compression of the pyramid's specul
 > 7. When Sanskrit displayed features structurally present across the subcontinent — above all the retroflex row — the pyramid treated them as substrate borrowings, not as evidence that the language's architects were already operating inside the subcontinental sound-field.
 > 8. When the Vedic preservation system showed extraordinary stability, the pyramid treated that stability as late conservatism, not as evidence of engineered anti-entropy from the beginning.
 > 9. When Pāṇini documented an already-functioning architecture, the pyramid called it codification, moving engineering credit from anonymous architects and the Vedic encoding into a later named documenter.
-> 10. When the Sanskrit continuum preserved its own account — *saṃskṛtam*, *śruti*, *apauruṣeya*, *vyākaraṇam*, *chandasi*, *bhāṣāyām* — the pyramid treated those categories as belief, not evidence.
+> 10. When the Sanskrit continuum preserved its own account — *saṃskṛtam*, *śruti*, *apauruṣeya*, *vyākaraṇam*, *vaidika*, *laukika* — the pyramid treated those categories as belief, not evidence.
 > 11. The result is a complete speculative chain: imaginary PIE, external homeland, racial Arya thesis, substrate-borrowed retroflexes, evolving Vedic Sanskrit, Pāṇinian codification, Classical Sanskrit as late standardization.
 > 12. Every link in the chain is required because the first assumption must be preserved: Sanskrit cannot be the engineered calibrant at the center. It must be one daughter language among many.
 
@@ -67,16 +67,16 @@ Codex review (2026-05-19) drafted a 12-point compression of the pyramid's specul
 - Point 9 (in deployed version): the *heroic erasure* standing term (Chapter 1 §1.6, Chapter 13 §13.3) is named by reference.
 - Points 8, 9, 10, 11: the pyramid's namings scare-quoted (*"late conservatism," "codification," "evolving Vedic Sanskrit," "Pāṇinian codification," "Classical Sanskrit as late standardization"*) to make the attribution visible.
 - New Point 10 / Point 11 (deployed version): *bake/recipe* cooking-vocabulary deployed at the chain-summary point (*"The chain is the recipe; PIE is the bake"*).
-- New Point 12 (deployed version, replacing Codex's Point 11/12): the *data-now-contests-the-chain* move — Path A's productivity-particle signature, Path C's cross-corpus invariance, the column-axis concentration, the *juhotyādi* C4-enrichment — added as the closing structural move; the chain survived because no link had been falsified; the links are no longer unfalsified.
+- New Point 12 (deployed version, replacing Codex's Point 11/12): the *data-now-contests-the-chain* move — Path A's generative-reach/particle signature, Path C's cross-corpus invariance, the column-axis concentration, the *juhotyādi* C4-enrichment — added as the closing structural move; the chain survived because no link had been falsified; the links are no longer unfalsified.
 - Closing paragraph: *useful comparative apparatus* concession dropped (per the book's Ch 18–18 polemic position); the *church of progress / priests / jihadis / missionaries / asuric mode* vocabulary deployed in place of the generic *"institutional robes."*
 
 The deployed version lives at `as_1_01_botanical.md` §1.1 (the *Two speculations* subsection, *The pyramid's speculation* sub-subsection).
 
 ---
 
-## Layer 1 — Original 11 bullets (source thinking)
+## Layer 1 — Original 11-bullet structure with corrected terminology
 
-*The user's working-out of the framework, preserved verbatim as the source.*
+*The user's working-out of the framework, retained in its original numbered structure while the domain terminology is corrected.*
 
 **Meta-frame (the alternative-speculation move):**
 
@@ -90,16 +90,16 @@ The deployed version lives at `as_1_01_botanical.md` §1.1 (the *Two speculation
 **The alternative speculation (11 points):**
 
 1. Sanskrit came in the form of the Vedas — the *how* for the rationalist mind remains *I don't know*, just as we don't know where the universe ends. **WE DON'T KNOW.**
-2. From the implicit encoding of the sounds and the *dhātus* and the rules of the *chandasi* poetry that was preserved, *ṛṣis* extracted *bhāṣyam*. *(Vocabulary correction: should be* bhāṣā*, not* bhāṣyam *— see Layer 2.)*
-3. The *bhāṣyam* largely matched the beauty of the Vedas — but the Vedas were the primary calibrant.
-4. Many *vaiyākaraṇāḥ* decoded and documented the grammar to make the calibration easier for posterity.
-5. The primary goal was to keep *bhāṣyam* in reasonable sync with *chandasi*.
-6. There were many schools who did that job wonderfully.
-7. Pāṇini decoded the rules for *bhāṣyam* using the Vedas and all the decoding work that was done before.
-8. He presented the rules for *bhāṣyam* in the *Aṣṭādhyāyī*.
+2. The Vedas preserve Sanskrit's sounds, atoms, and grammatical architecture implicitly.
+3. The laukika domain applies the same architecture to changing worldly use, while the Vedas remain the primary calibrant.
+4. Generations of *vaiyākaraṇāḥ* decoded that architecture and documented how it operates across laukika usage.
+5. Their purpose was to keep the open domain calibrated against the invariant Vedic corpus.
+6. Many schools sustained this analytical discipline across generations.
+7. Pāṇini inherited their analyses and produced the finest surviving documentation.
+8. The *Aṣṭādhyāyī* states the reusable operations of laukika Sanskrit and identifies narrower scopes where a rule requires them.
 9. The Vedas were perfect when the *dṛṣṭāḥ* saw them and they remain perfect today.
-10. The *bhāṣyam* found a user's manual, the *Aṣṭādhyāyī*, which was an easier calibrant than the Vedas.
-11. Any difference between the Vedas and *bhāṣyam* is because *bhāṣyam* was DERIVED from the Vedas. *(Claim-boundary correction: should be* calibrated against *not* derived from *— see Layer 2.)*
+10. Laukika Sanskrit found a user's manual in the *Aṣṭādhyāyī*, which was an easier day-to-day calibrant than the Vedas.
+11. Differences between the two domains arise from their different purposes inside one architecture. Laukika Sanskrit is calibrated against the Vedas, not derived from them.
 
 ---
 
@@ -107,7 +107,7 @@ The deployed version lives at `as_1_01_botanical.md` §1.1 (the *Two speculation
 
 *Codex review of the 11 bullets, applying two corrections: (a) vocabulary —* bhāṣā *not* bhāṣyam*; (b) claim boundary — "calibrated against" not "derived from," to avoid reintroducing an evolutionary sequence the pyramid uses (just with the direction reversed).*
 
-**Vocabulary correction:** *bhāṣā* = spoken / generative Sanskrit mode (the "language" side). *Bhāṣyam* = commentary (e.g., the *Mahābhāṣya*, Śabara's *Bhāṣya*). The contrast is **chandasi** (Vedic / metrical / recitational mode) ↔ **bhāṣāyām** (generative / analytical / spoken-literary mode) — Pāṇini marks both with locatives.
+**Vocabulary correction:** *Bhāṣyam* means commentary (for example, the *Mahābhāṣya* or Śabara's *Bhāṣya*). The broad contrast is ***vaidika* / *laukika***. Pāṇini then states where particular operations apply through locatives such as ***chandasi***, ***mantre***, ***amantre***, ***brāhmaṇe***, ***nigame***, and ***bhāṣāyām***. These are operational boundaries, not a complete two-part classification of Sanskrit.
 
 **Claim-boundary correction:** "*Bhāṣā* was derived from the Vedas" reads as the pyramid's evolutionary sequence with the direction reversed. Better: "*Bhāṣā* was **calibrated against** the Vedas," or "*Bhāṣā* **unfolds the same architecture** the Vedas encode." This preserves the calibration claim without creating a Vedic → Classical developmental model.
 
@@ -118,9 +118,9 @@ The deployed version lives at `as_1_01_botanical.md` §1.1 (the *Two speculation
 3. The Vedas are therefore the first and highest calibrant available to the continuum.
 4. The later grammatical disciplines decoded the architecture implicit in that calibrant.
 5. Many *vaiyākaraṇāḥ* did this work before Pāṇini.
-6. Pāṇini produced the most compressed, complete, operational user's manual for the *bhāṣā* mode.
-7. The *Aṣṭādhyāyī* became the easier day-to-day calibrant for *bhāṣā*, while the Vedas remained the primary calibrant.
-8. Differences between *chandasi* and *bhāṣāyām* are mode-differences inside one engineered architecture, not proof of drift.
+6. Pāṇini produced the most compressed and complete surviving manual for Sanskrit's reusable architecture.
+7. The *Aṣṭādhyāyī* became the easier day-to-day calibrant for laukika composition, while the Vedas remained the primary calibrant.
+8. The *vaidika* and *laukika* domains use some forms differently because they serve different purposes. Those differences belong to one engineered architecture and do not prove drift.
 
 ---
 
@@ -128,7 +128,7 @@ The deployed version lives at `as_1_01_botanical.md` §1.1 (the *Two speculation
 
 *Deployable as-is in the book's verdict voice. Named-agent active voice; short clauses; each clause states a fact. The diction matches Atomic Sanskrit's diagnostic prose.*
 
-> The Hindu continuum knows one thing at the origin: the *ṛṣis* saw. They were *mantra-draṣṭāraḥ*, seers of the mantras. Everyone after them heard. That is why the corpus is *śruti*. The rationalist demand for a historical mechanism meets an honest answer: we do not know. What we do know is the architecture on the page and in the mouth. The Vedas carry it as encoded perfection. The grammatical disciplines decoded it. Pāṇini gave the *bhāṣā* mode its most exact user's manual. The *Aṣṭādhyāyī* became the working calibrant; the Vedas remained the primary calibrant.
+> The Hindu continuum knows one thing at the origin: the *ṛṣis* saw. They were *mantra-draṣṭāraḥ*, seers of the mantras. Everyone after them heard. That is why the corpus is *śruti*. The rationalist demand for a historical mechanism meets an honest answer: we do not know. What we do know is the architecture on the page and in the mouth. The Vedas carry it as encoded perfection. The grammatical disciplines decoded it. Pāṇini gave the *laukika* domain its most exact user's manual. The *Aṣṭādhyāyī* became the working calibrant; the Vedas remained the primary calibrant.
 
 ---
 

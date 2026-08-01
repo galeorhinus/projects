@@ -30,7 +30,7 @@ The pyramid teaches readers to recognize three broad categories of language. The
 
 The second category contains **classical or highly formalized languages**. Here an institution preserves a bounded form while ordinary speech continues changing around it. This book calls that state **petrified**. A petrified language retains a recognizable form after institutions have separated it from the ordinary processes through which spoken languages change. Quranic Arabic, Biblical Hebrew as preserved through the Masoretic apparatus, and ecclesiastical Latin provide familiar examples. Chapter 13 §13.5 follows their different trajectories, while Chapter 14 §14.6 examines the institutions that kept selected forms fixed as speech continued changing around them.[NOTE: petrified-bounded-forms]
 
-The third category contains **constructed languages**, which begin with a deliberate plan created by a person or group. Quenya and Sindarin were constructed for the world of *The Lord of the Rings*, while Klingon was constructed for *Star Trek*.[NOTE: conlangs-tolkien-okrand] This broad category hides a major difference within constructed languages. Some depend heavily upon a listed vocabulary, while others contain productive operations that generate expressions from a compact architecture.
+The third category contains **constructed languages**, which begin with a deliberate plan created by a person or group. Quenya and Sindarin were constructed for the world of *The Lord of the Rings*, while Klingon was constructed for *Star Trek*.[NOTE: conlangs-tolkien-okrand] This broad category hides a major difference within constructed languages. Some depend heavily upon a listed vocabulary, while others use a compact architecture to generate expressions.
 
 These three categories conflate two different parameters. *Natural* and *constructed* describe how a language originated, while *classical* and *highly formalized* describe what institutions later did to a selected form. They also place lexicon-dependent conlangs and generative architectures under the same heading.
 
@@ -56,9 +56,9 @@ The pyramid loves gated languages because every gate gives the apex control over
 
 Classical Latin followed this path. Elite literary Latin remained generative, but education, writers, grammarians, and copying institutions controlled which usage counted as exemplary. Spoken Latin continued changing beyond those gates. Later institutions preserved the selected literary form until it became the petrified object now called Classical Latin.
 
-Arabic displays the same architecture at several stages simultaneously. Spoken Arabics remain botanical. Modern Standard Arabic (MSA) occupies a gated, productive position. Quranic Arabic provides the clearest petrified form because institutions preserve it through the *muṣḥaf*, recitation, memorization, and authorized readings.
+Arabic displays the same architecture at several stages simultaneously. Spoken Arabics remain botanical. Modern Standard Arabic (MSA) occupies a gated but generative position. Quranic Arabic provides the clearest petrified form because institutions preserve it through the *muṣḥaf*, recitation, memorization, and authorized readings.
 
-MSA is akin to productive but gated literary Latin. If it follows Latin's path, it will eventually petrify.
+MSA resembles a generative but gated literary Latin. If it follows Latin's path, it will eventually petrify.
 
 Moroccan, Egyptian, Levantine, Gulf, and other spoken Arabics continue changing as natural languages, and some differ enough that speakers from distant regions need MSA or another shared variety to understand one another. Quranic or Classical Arabic and MSA are commonly described as **High Arabic**, while the natively acquired spoken Arabics are placed below them as **Low Arabic**. *High* and *Low* therefore describe positions in an institutional pyramid, not linguistic worth.[NOTE: petrified-bounded-forms][NOTE: botanical-drift-prestige-memory]
 
@@ -144,23 +144,23 @@ The seven claims fail move by move:
 - **Move four turns the invented standardization event into petrification.** The language remained invariant before and after Pāṇini's documentation because its resistance to drift belongs to the architecture rather than to a decree in the *Aṣṭādhyāyī*. Patañjali preserves the correct order that the codification story reverses: bond first, usage second, *śāstra* third. Pāṇini's *śāstra* can regulate usage because the bond already stands.
 - **Move five supplies the imaginary ancestor required by the stolen category.** Once Sanskrit has been declared a natural language, the family tree demands an ancestral language from which it can descend. Chapter 19 tests that reconstruction and the direction of inheritance it assumes.
 - **Move six transfers a useful botanical metaphor onto a different kind of architecture.** Growth, branching, and decay describe natural languages. Applying the same operations to Sanskrit turns its resistance to drift into an evolutionary anomaly and then uses that manufactured anomaly to justify late codification.
-- **Move seven converts domain and mode into chronology.**[NOTE: chandasi-bhashayam-mode-markers] The dogma's *"Vedic Sanskrit / Classical Sanskrit"* pair makes *Classical*, a Greco-Latin classroom label borrowed from European philology, perform temporal work. Pāṇini's own text organizes the distinction on two categorical axes instead.
+- **Move seven presents differences of use as evidence of chronological change.**[NOTE: chandasi-bhashayam-mode-markers] The dogma's *"Vedic Sanskrit / Classical Sanskrit"* pair borrows *Classical* from the Greco-Latin classroom and uses the label to place this Sanskrit after Vedic Sanskrit. Sanskrit's own categories preserve a different arrangement.
 
   **At the domain level**, the Indic pair is **वैदिक (*vaidika*)** / **लौकिक (*laukika*)** — Sanskrit of the Vedic domain and Sanskrit of the worldly learned domain. Patañjali's *Mahābhāṣya* uses the pair directly because the two are concurrent civilizational fields rather than stages on a timeline.
 
-  **At the grammatical level**, the *Aṣṭādhyāyī* marks rules **छन्दसि (*chandasi*, "in meter")** for the **छन्दस् (*chandas*)** mode and **भाषायाम् (*bhāṣāyām*, "in speech")** for the **भाषा (*bhāṣā*)** mode. These locatives tell the reader where a rule operates. Both modes remain present inside the framework Pāṇini documents, so a difference in form indicates a difference of use rather than an evolutionary passage from one language into another. A temporal account would require temporal markers such as *pūrvam* or *prāk*; Pāṇini supplies categorical ones.
+  **At the grammatical level**, the *Aṣṭādhyāyī* identifies the exact scope of particular operations. Its markers include **छन्दसि (*chandasi*)** for specified Vedic usage, **मन्त्रे (*mantre*)** for mantra, **अमन्त्रे (*amantre*)** outside mantra, **ब्राह्मणे (*brāhmaṇe*)** in Brāhmaṇa usage, **निगमे (*nigame*)** in transmitted Vedic textual usage, and **भाषायाम् (*bhāṣāyām*)** in *laukika* use. The scopes can overlap: *amantre*, for example, can include both Brāhmaṇa and *bhāṣā*. These labels identify where an operation applies; they do not arrange Sanskrit into earlier and later languages.
 
-  ***The asuric machinery converts domain and mode into chronology.*** Once the pyramid owns the clock, it can rank every layer as early or late, original or derived. It flattens the two-axis architecture into the one-line story called *"Vedic to Classical"* and positions Pāṇini as the rupture between an evolved-before and a codified-after. Move four carries out this chronology capture by making Vedic Sanskrit drift into Pāṇini and making *"Classical Sanskrit"* freeze out of him.
+  ***The asuric machinery converts domain and scope into chronology.*** Once the pyramid owns the clock, it can rank every layer as early or late, original or derived. It replaces Sanskrit's domains and specific rules of use with a single sequence called *"Vedic to Classical."* Pāṇini is then placed at the invented turning point: Sanskrit supposedly drifts before him and becomes fixed after him. Move four supplies that false rupture.
 
   > *The dogma says:* *"Vedic Sanskrit evolved into Classical Sanskrit."*
   >
-  > *The Hindu continuum says:* *"Sanskrit operates across vaidika and laukika domains, through chandas and bhāṣā modes — one calibrated language, a curated corpus."*
+  > *The Hindu continuum says:* *"Sanskrit operates across vaidika and laukika domains. Each form remains available where its purpose requires it — one calibrated language, a curated corpus."*
 
   **The asuric machinery makes Pāṇini a rupture. The architecture makes him a witness.**
 
-  **Domain is not chronology. Mode is not drift.**
+  **Domain is not chronology. A rule's stated boundary is not drift.**
 
-  Chapter 14 develops the two-modes framework and the calibration matrix that protects both domains and both modes against drift simultaneously.
+  Chapter 14 develops the two-domain framework and the calibration matrix that protects the architecture against drift in both domains.
 
 Together, the seven moves make Sanskrit mobile, derivative, natural, drifting, late-regularized, and genealogically subordinate to an imaginary ancestor. The sequence begins by forcing *saṃskṛti* into the category of *prakṛti*; every later conclusion then follows from the stolen category rather than from Sanskrit's architecture.
 

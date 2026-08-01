@@ -8,7 +8,7 @@ The live printed-book appendix remains at `as_3_06_by_the_numbers.md`. Future pa
 
 # Appendix Part 6 — The Architecture by the Numbers
 
-*Draft v3 (2026-05-29). Reorganized layer-by-layer (sonomer / construction / operation / productivity) to mirror Ch 10's and Ch 11's procedural arc. Folds in the position-role taxonomy, the cluster-joiner specialist class, the* mūrdhanya *dual-role finding, the* ṛ */* ra *bridge, the place × place CVC matrix, and the Path C* prayoga *reactivity material — the deferred items flagged in the v2 SYNC PENDING block. Reconciles the* juhotyādi *C4 share (31.8% → 33.3% inventory, 42.9% Path C-restricted) and the scaffold count (69 → 47). The reproducibility scaffold now covers both bundles:* `analysis/dhatupatha/` *(Path A — structural) and* `analysis/ganah/` *(Path C — corpus-attested).*
+*Draft v3 (2026-05-29). Reorganized layer-by-layer (sonomer / construction / operation / generative reach) to mirror Ch 10's and Ch 11's procedural arc. Folds in the position-role taxonomy, the cluster-joiner specialist class, the* mūrdhanya *dual-role finding, the* ṛ */* ra *bridge, the place × place CVC matrix, and the Path C* prayoga *reactivity material — the deferred items flagged in the v2 SYNC PENDING block. Reconciles the* juhotyādi *C4 share (31.8% → 33.3% inventory, 42.9% Path C-restricted) and the scaffold count (69 → 47). The reproducibility scaffold now covers both bundles:* `analysis/dhatupatha/` *(Path A — structural) and* `analysis/ganah/` *(Path C — corpus-attested).*
 
 ---
 
@@ -19,7 +19,7 @@ The appendix is organized as four layers that mirror the chapters' procedural ar
 - **Part A — The Sonomer Layer** (§§6.2–5.6) — what the *varṇāḥ* (वर्णाः) do inside the atom: column distribution, position-conditional preferences, the cluster-joiner specialist class, the *mūrdhanya* dual-role place, the *ṛ* signal and the *ṛ* / *ra* bridge.
 - **Part B — The Construction Layer** (§§6.7–5.10) — how the sonomers assemble into the scaffold and the atom: compression, clusters, OCP, *vaicitrya*.
 - **Part C — The Operation Layer** (§§6.11–5.12) — how the atom behaves under *gaṇa* / *vikaraṇa* operations: cross-*gaṇa* functional matching, Path C corpus-attested reactivity.
-- **Part D — The Productivity Layer** (§6.13) — the bottom-line: small atoms generate large vocabularies; Sanskrit's productivity-frequency relationship runs opposite to natural-language drift.
+- **Part D — The Generative-Reach Layer** (§6.13) — the bottom-line: small atoms generate large vocabularies; Sanskrit's generative-reach/frequency relationship runs opposite to natural-language drift.
 
 Synthesis (§6.14) and replication (§6.15) close the appendix.
 
@@ -483,7 +483,7 @@ The **reference nine polyvalent core** — *kṛ, bhū, sthā, gam, jñā, dā, 
 | Tier | Valency range | Dhātavaḥ | % of inventory | Verb-token share | Role |
 |---|---:|---:|---:|---:|---|
 | Polyvalent — the carbon class | ≥ 50 | 147 | **3.8%** | **67.6%** | high-bonding core |
-| Bivalent — the stable middle | 5–49 | 1,059 | 27.6% | 30.5% | productive middle |
+| Bivalent — the stable middle | 5–49 | 1,059 | 27.6% | 30.5% | broad-bonding middle |
 | Monovalent — closed-valency specialists | ≤ 4 | 2,633 | **68.6%** | **1.9%** | preserved long tail |
 
 The polyvalent tier — 3.8% of the inventory — generates **67.6%** of all corpus-attested verb tokens. The top 9 alone generate 26.5%. The top 500 cover 94.0%. The compression principle operates, not just inventory-theoretically.
@@ -515,17 +515,17 @@ The deployments vary. The core remains. The result matches the procedural model:
 
 ---
 
-# Part D — The Productivity Layer
+# Part D — The Generative-Reach Layer
 
-## 6.13 Productivity from Minimum + The Natural-Language Inversion
+## 6.13 Generative Reach from Minimum + The Natural-Language Inversion
 
-**Prediction.** If the compression principle governs the architecture, the simplest *dhātavaḥ* (CV pattern, 2 particles) should also be the *most productive* — generating the largest derivative vocabularies. Engineering produces minimum atoms because minimum atoms support maximum combinatorial reach. Predicted Spearman ρ between productivity and particle-count: strongly negative.
+**Prediction.** If the compression principle governs the architecture, the simplest *dhātavaḥ* (CV pattern, 2 particles) should also have the greatest generative reach — generating the largest derivative vocabularies. Engineering produces minimum atoms because minimum atoms support maximum combinatorial reach. Predicted Spearman ρ between generative reach and particle count: strongly negative.
 
-**Data — Path A** (curated sample of 138 *dhātavaḥ* spanning the *Dhātupāṭha*'s structural pattern space; productivity = estimated count of primary derivatives per *dhātu*, drawn from the Monier-Williams *Sanskrit-English Dictionary* (1899) and V. S. Apte's *Practical Sanskrit-English Dictionary* (1890); approximate ±20%, ranking is the operative measure).
+**Data — Path A** (curated sample of 138 *dhātavaḥ* spanning the *Dhātupāṭha*'s structural pattern space; generative reach = estimated count of primary derivatives per *dhātu*, drawn from the Monier-Williams *Sanskrit-English Dictionary* (1899) and V. S. Apte's *Practical Sanskrit-English Dictionary* (1890); approximate ±20%, ranking is the operative measure).
 
-Top 15 *dhātavaḥ* by productivity:
+Top 15 *dhātavaḥ* by generative reach:
 
-| Rank | Dhātu | Pattern | Particles | Productivity | Meaning |
+| Rank | Dhātu | Pattern | Particles | Generative reach | Meaning |
 |---:|:--|:---|---:|---:|---|
 | 1 | *kṛ* कृ | CV | 2 | 75 | do/make |
 | 2 | *bhū* भू | CV | 2 | 55 | be/become |
@@ -543,7 +543,7 @@ Top 15 *dhātavaḥ* by productivity:
 | 14 | *vṛt* वृत् | CVC | 3 | 40 | turn/exist |
 | 15 | *śrū* श्रू | CV | 2 | 35 | hear |
 
-Productivity stratified by particle count:
+Generative reach stratified by particle count:
 
 | Particles | n | Mean | Median | Max |
 |---:|---:|---:|---:|---:|
@@ -552,9 +552,9 @@ Productivity stratified by particle count:
 | 4 | 31 | 13.5 | 12.0 | 30 |
 | 5 | 8 | **11.4** | 12.0 | 18 |
 
-Productivity by structural pattern:
+Generative reach by structural pattern:
 
-| Pattern | n | Mean productivity |
+| Pattern | n | Mean generative reach |
 |---|---:|---:|
 | **CV** | 21 | **32.6** |
 | CVC | 57 | 22.3 |
@@ -564,13 +564,13 @@ Productivity by structural pattern:
 | CCVC | 23 | 12.5 |
 | **CCVCC** | 8 | **11.4** |
 
-**Path A Spearman ρ (productivity vs particle count): −0.485.** Mean particle count, top 20 by productivity: **2.40**. Mean particle count, bottom 20: **3.50**. Bottom-to-top ratio: 1.46×.
+**Path A Spearman ρ (generative reach vs particle count): −0.485.** Mean particle count, top 20 by generative reach: **2.40**. Mean particle count, bottom 20: **3.50**. Bottom-to-top ratio: 1.46×.
 
 **Path C corroboration.** The corpus-attested valency measure (§6.12) reproduces the inverse relationship: **Path C ρ vs particles = −0.4334** on the full 3,839-dhātu corpus. The compression principle recurs at every measurement scale tested — curated 138-dhātu MW sample, full 3,839-dhātu corpus, both directions.
 
-**Verdict — strongly confirmed.** The CV pattern's mean productivity (32.6) is **2.9×** higher than CCVCC (11.4). The top 20 productivity ranks are dominated by 2-particle CV *dhātavaḥ* (11 of 20). ⟪कृ⟫ alone — two particles — anchors 75+ primary derivatives, more than the entire CCVCC sample combined.
+**Verdict — strongly confirmed.** The CV pattern's mean generative reach (32.6) is **2.9×** higher than CCVCC (11.4). The top 20 ranks by generative reach are dominated by 2-particle CV *dhātavaḥ* (11 of 20). ⟪कृ⟫ alone — two particles — anchors 75+ primary derivatives, more than the entire CCVCC sample combined.
 
-**The natural-language inversion.**[NOTE: productivity-inversion-natural-language] In natural languages, the most-frequent forms tend toward idiosyncratic irregularity: English *be / have / do* are paradigmatically broken; Latin *esse / ire / ferre* are suppletive; Greek *eimi / oida / phēmi* same pattern. The frequency-irregularity correlation is one of the most-replicated typological findings in natural-language morphology. In Sanskrit's engineered case, the correlation runs the opposite way: the highest-productivity *dhātavaḥ* are *also* the most structurally minimal *and* paradigmatically regular. There is no idiosyncrasy at the top.
+**The natural-language inversion.**[NOTE: generative-reach-inversion-natural-language] In natural languages, the most-frequent forms tend toward idiosyncratic irregularity: English *be / have / do* are paradigmatically broken; Latin *esse / ire / ferre* are suppletive; Greek *eimi / oida / phēmi* same pattern. The frequency-irregularity correlation is one of the most-replicated typological findings in natural-language morphology. In Sanskrit's engineered case, the correlation runs the opposite way: the *dhātavaḥ* with the greatest generative reach are *also* the most structurally minimal *and* paradigmatically regular. There is no idiosyncrasy at the top.
 
 **Future *śāstra* audit (Path B).** A separate audit can be run against the *Aṣṭādhyāyī* itself. That study would not count dictionary derivatives or corpus-visible usage. It would count the formal bonding space the *śāstra* licenses: which *dhātavaḥ* can take which operations, *upasargāḥ*, *vikaraṇāni*, and *pratyayāḥ* under the rule-system. That is future work.
 
@@ -589,11 +589,11 @@ The numbers reveal the architecture operating at eight levels:
 5. ***Mūrdhanya* dual-role engineering** (per place). The retroflex place is uniquely loaded with both boundary work (62.8% final) AND cluster-joining work (32.6% inner) — driven by *ra* and *ṣa* at the same articulatory site. *(§6.5; coupled with the *ṛ/ra* bridge at §6.6.)*
 6. **Cross-position OCP** (per *dhātuḥ*). Place-of-articulation avoidance across the syllable operates at 62% below chance. The strongest single empirical signal in the appendix; the place × place matrix visualizes both the OCP suppression and the *mūrdhanya* C₂ asymmetry. *(§6.9.)*
 7. ***Gaṇa*-specific functional matching** (per derivational class). The *juhotyādi* reduplicating class enriches C4 (33.3% inventory → 42.9% corpus-restricted) because reduplication needs acoustic robustness. *(§6.11.)*
-8. **Productivity-from-minimum** (per-*dhātuḥ* productivity-axis). The simplest *dhātavaḥ* (2-particle CV) are the most-productive atoms; Path A ρ = −0.485 and Path C ρ = −0.4334 between productivity and particle count, on independent instruments. Unlike natural languages, high-productivity *dhātavaḥ* are also paradigmatically regular. *(§6.13.)*
+8. **Reach-from-minimum.** The simplest *dhātavaḥ* occupy the high end of two independent measurements. Path A finds ρ = −0.485 between particle count and dictionary-derived generative reach. Path C finds ρ = −0.4334 between particle count and corpus combinatorial reach. The smallest atoms generate the largest derivative fields and enter the widest range of recorded combinations. The *dhātavaḥ* with the greatest reach are also paradigmatically regular. *(§6.13.)*
 
-These principles operate simultaneously and reinforce each other. The architecture is compact, but not merely compact — it is cost-aware, contrast-aware, position-aware, bonding-aware, place-aware, boundary-aware, class-aware, productivity-aware, and range-aware.
+These principles operate simultaneously and reinforce each other. The architecture responds to cost, contrast, position, bonding, place, boundary, class, and range.
 
-The fractal signature is visible in the data itself. Particle count, *akṣara* count, *varga* column, position within syllable, cluster-joiner specialization, *mūrdhanya* dual-role, *gaṇa*-specific matching, productivity-from-minimum, *vaicitrya*'s tail — each is a different slice of the same inventory; each shows the same compression-with-recoverability law operating. The architecture is not fractal because the prose says so. It is fractal because the same engineering signature recurs wherever the data is sliced.
+The fractal signature is visible in the data itself. Particle count, *akṣara* count, *varga* column, position within syllable, cluster-joiner specialization, *mūrdhanya* dual-role, *gaṇa*-specific matching, reach-from-minimum, and *vaicitrya*'s tail each provide a different view of the same inventory. The same compression-with-recoverability principle appears in every view. The architecture is fractal because the same engineering signature recurs wherever the data is sliced.
 
 The *Dhātupāṭha* is an atomic inventory. The numbers audit the engineering.
 
@@ -606,7 +606,7 @@ Every empirical claim in this appendix is reproducible from one of two self-cont
 Source data and structural-analysis scripts for §§6.1–5.11 and §6.13.
 
 - **`data/dhatupatha.csv`** — source data (2,168 entries) from the open-source `sanskrit/vyakarana` GitHub project. Three columns: *gaṇa*-number, position-within-*gaṇa*, *dhātu* in SLP1.
-- **`data/dhatu_productivity.csv`** — curated productivity sample (138 *dhātavaḥ*) with derivative-count estimates and source attribution (MW 1899; Apte 1890).
+- **`data/dhatu_productivity.csv`** — curated generative-reach sample (138 *dhātavaḥ*) with derivative-count estimates and source attribution (MW 1899; Apte 1890).
 - **`data/derived/dhatupatha_decomposed.md`** — every *dhātu* rendered in Devanāgarī with **वर्ण (*varṇa*)**-level decomposition. Generated by `decompose_dhatupatha.py`.
 
 Scripts:
@@ -627,7 +627,7 @@ Scripts:
 | `analyze_scaffold_distinguishability.py` | scaffold-distinguishability by *mātrā* (feeds Ch 10 §10.8) |
 | `cluster_by_reactivity.py` | consonant clustering by reactivity-profile similarity (feeds §6.4) |
 | `analyze_shells.py` | shell-structure analysis of consonant deployment |
-| `analyze_productivity.py` | §6.13 productivity vs structural complexity (Path A Spearman ρ = −0.485) |
+| `analyze_productivity.py` | §6.13 generative reach vs structural complexity (Path A Spearman ρ = −0.485) |
 
 From the bundle directory: `python3 scripts/<script-name>.py [gaṇa]` (`[gaṇa]` is an optional numerical filter 1–10).
 
@@ -652,7 +652,7 @@ Scripts (run in execution order):
 | `cross_corpus.py` | §6.12 per-sub-corpus Spearman matrix (Ṛgveda / AV / MBh / Rāmāyaṇa) |
 | `column_axes.py` | column-axis selection (locked at Axis C primary, Axis A secondary; see Ch 11 §11.8) |
 | `cross_gana_columns.py` | §6.11 *juhotyādi* C4-enrichment under Path C restriction (33.3% → 42.9%) |
-| `per_corpus_productivity.py` | per-sub-corpus productivity tables |
+| `per_corpus_productivity.py` | per-sub-corpus combinatorial-reach tables |
 | `join_dhatu_scaffold_path_c.py` | joins Path C valency back onto *Dhātupāṭha* scaffold inventory |
 | `analyze_racana_reactivity.py` + `summarize_scaffold_reactivity.py` | scaffold-level reactivity summary (feeds Ch 10 §10.10 four-bar deployment figure) |
 | `build_attestation.py` (re-run with `[corpus]` filter) | per-sub-corpus attestation index |
@@ -729,4 +729,4 @@ Forward — Path B *śāstra* audit deferred to future research; Path C extensio
 
 **Endnote stubs (preserved from v2):**
 
-- `productivity-inversion-natural-language` — the frequency-irregularity correlation in natural-language typology (English / Latin / Greek suppletives) versus Sanskrit's frequency-regularity correlation; document the standard typological-morphology literature on suppletion and idiosyncrasy at high frequency.
+- `generative-reach-inversion-natural-language` — the frequency-irregularity correlation in natural-language typology (English / Latin / Greek suppletives) versus Sanskrit's frequency-regularity correlation; document the standard typological-morphology literature on suppletion and idiosyncrasy at high frequency.

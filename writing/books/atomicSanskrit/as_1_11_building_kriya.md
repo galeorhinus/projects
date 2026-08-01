@@ -2,15 +2,15 @@
 
 ## 11.1 From Atomic Sūtra to Verbal Molecule
 
-Every finished Sanskrit verb is an atom that has been put to work. The **धातुः (*dhātuḥ*)** sits in the **धातुपाठ (*Dhātupāṭha*)** — 2,168 of them, each a measured cluster of **वर्णाः (*varṇāḥ*)**, sonomers, inside a **मात्रा (*mātrā*)** envelope — but it is not yet a word and cannot be spoken as one. To act, it has to be built up: bonded, activated, closed with an ending. What comes out is the **क्रिया (*kriyā*)**, or **क्रियापदम् (*kriyāpadam*)**, the verbal word; under the Atomic Corollary, a *kriyāpada* molecule.
+Every finished Sanskrit verb begins with an atom that has been assembled into a verbal molecule. The **धातुपाठ (*Dhātupāṭha*)** preserves over two thousand **धातवः (*dhātavaḥ*)**, each a measured cluster of **वर्णाः (*varṇāḥ*)**, sonomers, inside a **मात्रा (*mātrā*)** envelope. A *dhātuḥ* is not yet a word and cannot be spoken as one. To act, it has to be built up: bonded, activated, closed with an ending. What comes out is the **क्रिया (*kriyā*)**, or **क्रियापदम् (*kriyāpadam*)**, the verbal word; under the Atomic Corollary, a *kriyāpada* molecule.
 
 The chapter now tests whether the atom remains recoverable after it has been assembled as a *kriyāpada*. A finished verb may alter the visible form of its *dhātuḥ*, as **⟪भू⟫ (*bhū*)** becomes **भवति (*bhavati*)**, so resemblance alone is not enough. The derivational procedure must provide a return path through the ending, operational marker, and prepared base to the semantic atom and its sonomers.
 
-Five Rigvedic lines show it happening, each already containing a finished verb, the underlying *dhātavaḥ* running from one *mātrā* to three. None of it waited for Pāṇini. The verbs were already in the corpus, working — thousands of them — long before the rules were ever written down.[NOTE: vedic-kriyapadas-before-panini]
+Five Rigvedic lines demonstrate this architecture. Each contains a finished verb whose underlying *dhātuḥ* ranges from one *mātrā* to three. All of these existed before Pāṇini, as did the thousands of other completed verbs already preserved in the vedas. He *documented* how Sanskrit had been forming them for thousands of years before his time; he did not create the architecture.[NOTE: vedic-kriyapadas-before-panini]
 
 ## 11.2 The Vedic Procedure Before Pāṇini
 
-All five examples come from the Rigveda, quoted as **पदपाठ (*padapāṭha*)** excerpts so the *kriyāpada* stays visible before **संहिता (*saṃhitā*)** sandhi recombines it.[NOTE: rigvedic-kriya-examples] Each one shows the procedure already at work: a semantic atom takes on further sonomers and becomes a *kriyāpada* molecule. The conjugation lesson can stay in the grammar handbook; the assembly is the evidence here.
+All five examples come from the Rigveda, quoted as **पदपाठ (*padapāṭha*)** excerpts so the *kriyāpada* stays visible before **संहिता (*saṃhitā*)** sandhi recombines it.[NOTE: rigvedic-kriya-examples] Each one shows the procedure already in use: a semantic atom takes on further sonomers and becomes a *kriyāpada* molecule. The conjugation lesson can stay in the grammar handbook; the assembly is the evidence here.
 
 ### 1 *mātrā*: ⟪इ⟫ (*i*) → एति (*eti*)
 
@@ -196,7 +196,7 @@ The other concentrations are patterned too: *curādi* is the systematic runner-u
 
 Construction and operation are two separate measurements — one for how the atom is built, one for how it behaves — and their intersection shows where the architecture lets a *dhātuḥ* stand.
 
-Heavy cells show preferred corridors. **गमादि (*gamādi*)** <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> × *bhvādi* is the default highway. **गमादि (*gamādi*)** <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> × *curādi* is the productive *aya* corridor. Long-vowel open scaffolds lean toward *kryādi*. Reduplication avoids heavy cluster shapes.
+Heavy cells show preferred corridors. **गमादि (*gamādi*)** <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> × *bhvādi* is the default highway. **गमादि (*gamādi*)** <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> × *curādi* is the corridor that repeatedly generates *aya* forms. Long-vowel open scaffolds lean toward *kryādi*. Reduplication avoids heavy cluster shapes.
 
 The empty cells convey as much information as the filled ones. Only 140 of the 470 possible scaffold × *gaṇa* pairings are populated: the architecture lets some shapes enter some operations and quietly forbids the rest. A table like this maps where atoms go and, just as tellingly, where they cannot — the engineering shows in the refusals as much as in the permissions.
 
@@ -238,7 +238,7 @@ The third result is the tier structure. The corpus-visible *dhātuḥ* labels ar
 | Tier | Valency range | Corpus-visible *dhātuḥ* labels | Share of verb-token use | Role |
 |---|---:|---:|---:|---|
 | Polyvalent — carbon-class analogy | 50+ | 147 (**3.8%**) | **67.6%** | high-bonding core |
-| Bivalent — the stable middle | 5–49 | 1,059 (**27.6%**) | **30.5%** | productive middle |
+| Bivalent — the stable middle | 5–49 | 1,059 (**27.6%**) | **30.5%** | broad-bonding middle |
 | Monovalent — closed-valency specialists | 1–4 | 2,633 (**68.6%**) | **1.9%** | preserved long tail |
 
 The reference polyvalent exemplars are **⟪कृ⟫ (*kṛ*)**, **⟪भू⟫ (*bhū*)**, **⟪स्था⟫ (*sthā*)**, **⟪गम्⟫ (*gam*)**, **⟪ज्ञा⟫ (*jñā*)**, **⟪दा⟫ (*dā*)**, **⟪धा⟫ (*dhā*)**, **⟪नी⟫ (*nī*)**, and **⟪हृ⟫ (*hṛ*)**.[NOTE: dcs-vs-dhatupatha-count] These nine alone produce 26.5% of the verb-token record.
@@ -254,7 +254,7 @@ The distribution makes the procedure visible.
 
 Sanskrit's similarity with natural languages is evident in this distribution. Natural languages also show rank-frequency concentration, often called Zipf-like behavior: a small high-use core accounts for much of actual speech, while a long tail remains available for rare or specialized use. English leans heavily on *be*, *have*, *do*, *go*, and *make*. Sanskrit shows the same surface behavior in *prayoga*, and that is expected. The *dhātavaḥ* are fixed as calibrated atoms, while their deployment remains dynamic.
 
-On its own, that concentration is exactly what any natural language shows, so the resemblance is expected. What sets Sanskrit apart is that the concentration is coupled to the architecture.[NOTE: productivity-inversion-natural-language]
+On its own, that concentration is exactly what any natural language shows, so the resemblance is expected. What sets Sanskrit apart is that the concentration is coupled to the architecture.[NOTE: generative-reach-inversion-natural-language]
 
 | Natural-language pattern | Sanskrit pattern |
 |---|---|
@@ -315,6 +315,6 @@ Everything in this chapter points to one reading of the *Dhātupāṭha* — an 
 
 Pāṇini did not freeze a drifting language into that table. He documented an engine that was already running, which is the whole refrain: Sanskrit was engineered, encoded in the Vedas, decoded by many, and Pāṇini's decoding is the finest. Mendeleev gave chemistry its periodic table in 1869;[NOTE: mendeleev-1869-table] the comparison is modern, the grammatical table ancient.
 
-The scale-chain has now reached the molecule. The sonomer became the *akṣara*, the *akṣara* fed the *dhātuḥ*, and the *dhātuḥ* — far from dissolving when speech begins — activates without ever losing the particles inside it, the same law governing the whole ascent: measured units, recoverable assembly, stable identity.
+The scale-chain has now reached the molecule. The sonomer became the *akṣara*, the *akṣara* fed the *dhātuḥ*, and the *dhātuḥ* — far from dissolving when speech begins — activates without ever losing the particles inside it. The same principle governs the whole ascent: measured units, recoverable assembly, stable identity.
 
 Chapter 12 turns from operational class to bonding chemistry: how *dhātavaḥ* combine with *upasargāḥ* and *pratyayāḥ*, become *śabdāḥ* and *padāni*, and enter the *vākya* without losing the sonomeric layer underneath.

@@ -125,7 +125,7 @@ The steppe corridor — which the pyramid's Aryan-migration story frequently cit
 
 ## 4.9 The Coverage Cascade
 
-The eleven surveys — four in the body and seven in this appendix — produce the following sample ordering. Sets drawn from the subcontinent and its north-western contact zone occupy the higher rows, while the selected Caucasus and steppe sets occupy the lower rows. A larger preregistered sample would be needed to turn that ordering into a general geographic law.
+The eleven surveys — four in the body and seven in this appendix — produce the following sample ordering. Sets drawn from the subcontinent and its north-western contact zone occupy the higher rows, while the selected Caucasus and steppe sets occupy the lower rows. A larger preregistered sample would be needed to establish that ordering as a general geographic pattern.
 
 | Coverage | Set | Languages | Source |
 |---:|---|---|---|

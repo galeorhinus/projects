@@ -17,7 +17,7 @@ Chapter 9 introduced the ***Principle of Architectural Selection and Scope (PASS
 1. **Contribution:** What does the additional resource add to the passage?
 2. **Load:** What duplication, collision, or variation accompanies it?
 3. **Bounding support:** What contains that load — pitch, meter, fixed wording, inherited interpretation, a stated junction, or another part of the architecture?
-4. **Scope:** Does the resource belong to reusable Sanskrit, operate only under a stated condition, extend across the Vedic domain, remain within a named Vedic lineage, or stay excluded from independent use?
+4. **Scope:** Does the resource belong to reusable Sanskrit, operate only under a stated condition, belong to a stated Vedic scope, remain within a named Vedic lineage, or stay excluded from independent use?
 
 The ten contributions defined in Chapter 16 supply the first step. The figures use the following short codes to keep that evidence visible:
 
@@ -261,6 +261,21 @@ The passage confirms the Vedic form and its function as a direct address. It doe
 
 ## 8.7 The Differences at a Glance
 
+### The Small Laukika-Only Extension
+
+The Vedic extension contains enough additional sounds, endings, placements, pitch, and verbal forms to require a detailed catalogue. Four representative contrasts demonstrate the much smaller *laukika* extension. Most laukika generation uses the shared Sanskrit architecture. The rows below record forms that the grammatical tradition assigns specifically to *bhāṣā* alongside the corresponding forms in Vedic scope:
+
+| Vedic scope | *Bhāṣā* scope | Grammatical record |
+|---|---|---|
+| **निषत्त (*niṣatta*)** and **सूर्त (*sūrta*)** | **निषण्ण (*niṣaṇṇa*)** and **सृता (*sṛtā*)** | *Aṣṭādhyāyī* 8.2.61 and the *Kāśikāvṛtti* contrast |
+| **ससूव (*sasūva*)** | **सुषुवे (*suṣuve*)** | *Aṣṭādhyāyī* 7.4.74 and the *Kāśikāvṛtti* contrast |
+| **साढ्वा (*sāḍhvā*)** | **सोढ्वा (*soḍhvā*)** | *Aṣṭādhyāyī* 6.3.113 and the *Kāśikāvṛtti* contrast |
+| a wider Vedic use of the ***क्वसु (*kvasu*)*** formation | **उपसेदिवान् (*upasedivān*)**, from a restricted *bhāṣā* use of that formation | *Aṣṭādhyāyī* 3.2.107–108 |
+
+The table records how the grammatical continuum assigns these forms to the two domains. Its *bhāṣā* column is small because the laukika domain receives most of its resources from the shared architecture and needs only a limited set of forms of its own.[NOTE: laukika-only-scope-examples]
+
+### The Complete Comparison
+
 The figures above give the complete inventory of *vibhakti-rūpāṇi*, or declensional forms. The following table adds sound, verbal forms, *upasarga* placement, composition, and recitation. Each row begins with the form or operation familiar to a *laukika* student and identifies the additional resource preserved in the *vaidika* domain.[NOTE: designed-variations-figure-sources]
 
 | Area | Laukika baseline | Vaidika difference |
@@ -275,7 +290,7 @@ The figures above give the complete inventory of *vibhakti-rūpāṇi*, or decle
 | **सर्वनामरूपाणि (*sarvanāma-rūpāṇi*, pronoun forms)** | ordinary composition uses the *laukika sarvanāma* paradigms | passages preserve additional case distinctions and alternate forms |
 | **अट्-आगम (*aṭ-āgama*, augment)** | the ordinary *luṅ*, or aorist, uses its expected augment | passages preserve *luṅ* forms without the augment in uses commonly called injunctive |
 | **लकाराः (*lakārāḥ*, tense and mood categories)** | composition uses the *lakāra* system assigned to *laukika* scope | Vedic scope includes ***लेट् (*leṭ*)*** and additional modal forms |
-| **तिङ्-प्रत्ययाः (*tiṅ-pratyayāḥ*, personal endings)** | ordinary paradigms principally use **-mas, -tha, -ta,** and their *laukika* counterparts | passages preserve endings such as **-masi, -thana, -tana,** and imperative **-tāt** |
+| **तिङ्-प्रत्ययाः (*tiṅ-pratyayāḥ*, personal endings)** | laukika paradigms principally use **-mas, -tha, -ta,** and their counterparts | passages preserve endings such as **-masi, -thana, -tana,** and imperative **-tāt** |
 | **कृदन्त and क्त्वा forms (*kṛdanta* participles and *ktvā* gerunds)** | speakers normally use **-tvā** and **-ya**, together with the *kṛdanta* system available for new words | passages preserve additional participles and forms such as **-tvī** and rare **-tvāya** |
 | **तुमर्थक रूपाणि (*tumarthaka rūpāṇi*, infinitive forms)** | speakers normally use the **-tum** formation in new expressions | passages preserve formations including **-tum, -tave, -tavai, -dhyai,** and **-tos** |
 | **उपसर्ग placement (*upasarga*, preverb)** | an *upasarga* ordinarily forms a head-bond directly with its atom | an *upasarga* may bond directly, follow, or remain separated from its atom |

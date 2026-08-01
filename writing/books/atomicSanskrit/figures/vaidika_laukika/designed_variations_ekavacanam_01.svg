@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- lineage: py
      canonical-source: designed_variations_ekavacanam_01.from-py.svg
-     updated: 2026-07-27 -->
+     updated: 2026-08-01 -->
 <svg xmlns="http://www.w3.org/2000/svg" width="4.75in" height="6.531in" viewBox="0 0 1200 1650">
 <rect width="1200" height="1650" fill="#f7f4ed"/>
 <text x="28.0" y="54.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="42" font-weight="600" font-style="normal" fill="#29251f" text-anchor="start">Designed Variations: Ekavacanam</text>
@@ -13,7 +13,7 @@
 <text x="704.0" y="161.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">Qualification</text>
 <text x="946.0" y="161.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">DV</text>
 <text x="1180.0" y="161.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#6e675d" text-anchor="start">Evidence</text>
-<text x="122.0" y="196.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">Vaidika range · laukika productive form</text>
+<text x="122.0" y="196.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">Vaidika range · laukika form for new composition</text>
 <text x="800.0" y="196.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">Prevalence</text>
 <line x1="28" y1="208" x2="1172" y2="208" stroke="#cfc6b5" stroke-width="1"/>
 <text x="28.0" y="240.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">SG-01</text>
@@ -64,7 +64,7 @@
 <text x="122.0" y="600.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">उकारान्त</text>
 <text x="704.0" y="600.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">RARE</text>
 <text x="462.0" y="600.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">adverbial तृतीया</text>
-<text x="122.0" y="639.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -uyā  ·  L: no productive cou…</text>
+<text x="122.0" y="639.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -uyā  ·  L: no laukika counte…</text>
 <text x="946.0" y="600.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#8b8377" text-anchor="start">—</text>
 <circle cx="808" cy="631" r="7" fill="#9d7c36" stroke="#9d7c36" stroke-width="2"/>
 <text x="824.0" y="639.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">≈6 lex · B</text>
@@ -129,7 +129,7 @@
 <text x="122.0" y="1140.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="28" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">इकारान्त</text>
 <text x="704.0" y="1140.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">RARE</text>
 <text x="462.0" y="1140.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">सप्तमी</text>
-<text x="122.0" y="1179.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -ī  ·  L: no productive cou…</text>
+<text x="122.0" y="1179.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="27" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">V: -ī  ·  L: no laukika counte…</text>
 <text x="946.0" y="1140.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">REL·REC</text>
 <circle cx="808" cy="1171" r="7" fill="#9d7c36" stroke="#9d7c36" stroke-width="2"/>
 <text x="824.0" y="1179.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">≈6 forms · B</text>

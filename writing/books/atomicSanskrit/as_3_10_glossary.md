@@ -146,7 +146,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **fractal**
 
-**Standard English, book-repurposed.** A pattern whose design law recurs across scale. In this book, *fractal* does not mean strict mathematical infinite self-similarity. It means scale-recurring architecture: the same engineering logic appearing from mouth to language — mouth, sonomer, *akṣara*, *dhātuḥ*, *kriyāpada*, *śabda*, *vākya*, *sūtra*, recitation, and calibration-matrix scale.
+**Standard English, book-repurposed.** A pattern whose design principle recurs across scale. In this book, *fractal* does not mean strict mathematical infinite self-similarity. It means scale-recurring architecture: the same engineering logic appearing from mouth to language — mouth, sonomer, *akṣara*, *dhātuḥ*, *kriyāpada*, *śabda*, *vākya*, *sūtra*, recitation, and calibration-matrix scale.
 
 **Use in book**: The front matter lays out the distinction between natural fractal, balanced civilizational fractal, and distorted civilizational fractal. Chapter 10 is the technical spine: it tests whether the *dhātuḥ* displays the same *lakṣaṇāni* an engineered *sūtra* displays. Chapters 19–19 use the contrast between flat PIE chronology and scale-recurring Sanskrit architecture.
 
@@ -182,7 +182,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **chandas** (छन्दस्) / **bhāṣā** (भाषा)
 
-**Standard. Pāṇinian locative-rule markers.** *Chandas* — the metrical / Vedic mode. *Bhāṣā* — the speech / *bhāṣāyām* mode of ordinary educated usage. Pāṇini tags rules *chandasi* (in *chandas*) or *bhāṣāyām* (in *bhāṣā*); both are operating modes of Sanskrit, not stages on a timeline. See the chronology section of the Preface for full rationale.
+**Scope-sensitive terms.** *Chandas* means meter; *bhāṣā* means speech or language. Their locative forms can serve as Pāṇinian rule markers: *chandasi* marks specified Vedic usage, while *bhāṣāyām* marks specified *laukika* use. They are two members of a larger scope system that also includes *mantre, amantre, brāhmaṇe, nigame,* and narrower textual labels. Use *vaidika* and *laukika* for the book's broad domains.
 
 ### **vaidika** (वैदिक) / **laukika** (लौकिक)
 

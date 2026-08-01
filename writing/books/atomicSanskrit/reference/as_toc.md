@@ -351,8 +351,8 @@
   - Part C — The Operation Layer
   - 6.11 *Gaṇa*-Specific Functional Matching
   - 6.12 *Prayoga* Reactivity — The Path C Audit
-  - Part D — The Productivity Layer
-  - 6.13 Productivity from Minimum + The Natural-Language Inversion
+  - Part D — The Generative-Reach Layer
+  - 6.13 Generative Reach from Minimum + The Natural-Language Inversion
   - 6.14 Synthesis — The Eight Engineering Principles
   - 6.15 Replication — Two Reproducibility Bundles
 - **Appendix Part 7 — The Vedic Carrier**

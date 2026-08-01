@@ -132,7 +132,7 @@ def build_domains_modes_matrix():
     add_matrix_cell(
         svg, x0 + cell_w + gap, y0 + cell_h + gap, cell_w, cell_h, GREEN,
         "bhāṣā", "भाषा",
-        "productive speech-literary mode",
+        "laukika speech-literary mode",
         "generative learned usage",
     )
 

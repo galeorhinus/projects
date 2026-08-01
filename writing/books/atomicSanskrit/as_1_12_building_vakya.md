@@ -80,7 +80,7 @@ The atom means *do*, *make*, *act*. From that small semantic center Sanskrit bui
 | **संस्कृति (*saṃskṛti*)** | *sam-* bonded into the ⟪कृ⟫ field | cultivated order, refined formation |
 | **संस्कार (*saṃskāra*)** | *sam-* bonded into the ⟪कृ⟫ field with a different tail-bond | refining act, consecration, formative impression |
 
-These are lawful molecules built from one semantic atom through different bonds.
+These molecules are built from one semantic atom through different defined bonds.
 
 The head-bonds alone show the range. **प्र (*pra-*)** directs ⟪कृ⟫ toward the prior condition: **प्रकृति (*prakṛti*)**. **वि (*vi-*)** directs it toward separation, alteration, and differentiation: **विकृति (*vikṛti*)**. **सम् (*sam-*)** directs it toward gathering, integration, and refinement: **संस्कृति (*saṃskṛti*)** and **संस्कार (*saṃskāra*)**.
 
@@ -152,7 +152,7 @@ By reading the table procedurally—where moving down the rows changes the head-
 
 This is molecular construction.
 
-The matrix also protects the argument from overstatement. Sanskrit's generativity is structured. Productive axes permit a large field of construction because the bonds are lawful; they do not make every possible-looking form equally real.
+The matrix also protects the argument from overstatement. Sanskrit's generativity is structured. Sanskrit's architecture defines which bonds can form along each axis. Those bonds create a large field of construction, but a sequence that merely looks possible does not become a Sanskrit form unless the architecture can generate it.
 
 The *racanā* × *gaṇa* matrix made the same point at the previous scale — some cells heavy, some light, some empty — and the molecular matrix repeats it: each filled cell records a procedure.
 
@@ -252,7 +252,7 @@ Using both terms keeps both consequences visible. Sanskrit can still measure the
 |---|---|---|---|---|
 | **Form** | **धातु (*dhātu*)** | **शब्द (*śabda*)** | **बीज (*bīja*)** | **अपशब्द (*apaśabda*)** |
 | **English** | Atom | Inorganic molecule | Seed | Organic form |
-| **State** | Constituent, irreducible | Engineered, crystalline, anti-entropic | Latent, dormant, not-yet-expressed | Productive, growing, drift-prone |
+| **State** | Constituent, irreducible | Engineered, crystalline, anti-entropic | Latent, dormant, not-yet-expressed | Generative, growing, drift-prone |
 | **Role** | Building block of the *śabda* | Sanskrit speaker utters it | Listener internalizes it | Speaker (often generations later) expresses it in their own language |
 
 The sequence is therefore **atom → molecule → seed → organic form**. Patañjali uses **अपशब्द (*apaśabda*)** in the *Mahābhāṣya* (1.1.1) for the slipped form opposed to *śabda*. The distinction is architectural: Sanskrit continues to preserve and generate the specified *śabda*, while the receiving language develops the *apaśabda* under its own pressures.

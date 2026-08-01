@@ -36,7 +36,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 0.5 A Language of Infinity — Words Without Limit — *The* dhātu *+* upasarga *+* pratyaya *combinatorics: finite atomic inventory, practically limitless word-space.*
 - 0.6 A Language of Infinity — Counting Without Limit — *The place-value system and* śūnya; *ten digits span all arithmetic; the same finite-input / infinite-output principle Sanskrit applies to words.*
 - 0.7 The Civilization That Preserves It — *The* guru-shishya paramparā *as the transmission medium; geographically-distributed recitation lineages operating today; the calibration system is audible.*
-- 0.8 The Fractal Test — *The orientation hand and the fractal claim: the same organizing law recurs from mouth to language; the other fractal — the asuric pyramid — is named, and the battle that follows clears the shadow it casts.*
+- 0.8 The Fractal Test — *The orientation hand and the fractal claim: the same organizing principle recurs from mouth to language; the other fractal — the asuric pyramid — is named, and the battle that follows clears the shadow it casts.*
 
 **Chapter 1 — One, ___, and the Finite** *(drafted)* — *The antagonist chapter (promoted from the former AP0). The number is **one**: the asuric apex-one. The apex is a Him — a blank each age fills (Hiraṇyakaśipu, Rāvaṇa, Vṛtra). Names finitism, the fractal of deformation (*vikṛti*), chronology capture, and Svarbhānu's operation (obscuration of the category). Keeps the Atri payoff out of the body; the Epilogue owns the recovery.*
 
@@ -312,9 +312,9 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 
 - 5.1 Yenpro and the Mean Baker · 5.2 From Word Factory to Language Factory · 5.3 The Procedure · 5.4 The Substrate — Japanese · 5.5 The Worked Example · 5.6 The Generative Reach · 5.7 What This Demonstrates · 5.8 The Baker Had the Recipe · 5.9 A Strict Cipher
 
-**Appendix Part 6 — The Architecture by the Numbers** *(drafted)* — *Book-facing numerical audit behind Chapters 10–11. Preserves the baseline, the eight engineering principles, the productivity test, and the replication route; the full tables and scripts sit in the Source and Reference Companion (`analysis/dhatupatha/`, `analysis/ganah/`).*
+**Appendix Part 6 — The Architecture by the Numbers** *(drafted)* — *Book-facing numerical audit behind Chapters 10–11. Preserves the baseline, the eight engineering principles, the generative-reach test, and the replication route; the full tables and scripts sit in the Source and Reference Companion (`analysis/dhatupatha/`, `analysis/ganah/`).*
 
-- 6.1 The Structural Baseline · 6.2 Eight Engineering Principles · 6.3 The Productivity Test · 6.4 Why The Numbers Matter · 6.5 Replication
+- 6.1 The Structural Baseline · 6.2 Eight Engineering Principles · 6.3 The Generative-Reach Test · 6.4 Why The Numbers Matter · 6.5 Replication
 
 **Appendix Part 7 — The Vedic Carrier** *(drafted)* — *Demonstrates the corpus-before-manual claim: the Vedic corpus already preserves the architecture later disciplines decode. Separates meter, mode, branch, and recension from decay; shows what natural drift would look like; closes that the matrix succeeds because the corpus form preserves the grammar before any manual names it.*
 

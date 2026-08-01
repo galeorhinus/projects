@@ -175,7 +175,7 @@ The pyramid does not misclassify Sanskrit because it fails to understand calibra
 
 A system that displays दिव्यता (*divyatā*) and preserves लोकक्षेम (*lokakṣema*) without apex command is intolerable to the asuric mind. It proves that the pyramid is not the source of order. It is only one formation that tries to capture order.
 
-**सनातन (*Sanātan*)** is the name the civilization gives to the engineered Sanskrit architecture, recognizing it as integral, perpetual, and the very ground on which civilization continues. Because the *Vedas* preserve the system as a calibration matrix against entropy, the *pāṭha* discipline encodes the calibration with engineered redundancy, and *Vyākaraṇam* makes the internal laws explicit, this architecture has always existed—and its continuous operation is the empirical fact at the center of this book.
+**सनातन (*Sanātan*)** is the name the civilization gives to the engineered Sanskrit architecture, recognizing it as integral, perpetual, and the very ground on which civilization continues. Because the *Vedas* preserve the system as a calibration matrix against entropy, the *pāṭha* discipline encodes the calibration with engineered redundancy, and *Vyākaraṇam* makes the internal operations explicit, this architecture has always existed—and its continuous operation is the empirical fact at the center of this book.
 
 ![Figure 4.2 — Pyramid and Swastika: Two Architectures of Authority. The pyramid authorizes from above; the swastika architecture transmits, tests, and corrects through society itself.](figures/fourth_abrahamic/pyramid_and_swastika.svg){#fig:ch4-pyramid-swastika width=100%}
 

@@ -6,7 +6,7 @@
 
 ## Core Theses
 
-1. **Sanskrit was engineered.** Its structure is ordered, stable, and endlessly productive — the signature of engineering, not of drift.
+1. **Sanskrit was engineered.** Its structure is ordered and stable, and its architecture can continue generating new expression — the signature of engineering, not of drift.
 
 2. **The Vedas preserve that engineering.** They are the primary acoustic corpus that preserves the language's architecture.
 

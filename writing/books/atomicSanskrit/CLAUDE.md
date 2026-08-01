@@ -198,30 +198,29 @@ Substitutes for the Indic corpus: ***the Veda(s)***, ***śruti*** / ***the heard
 
 **Reserved for the pyramid side (keep *myth* / *mythology*):** the pyramid's *own* fabrications, where the "did-not-happen" charge is the point — the *founder-myth* of Pāṇini-as-codifier, the PIE *ancestor-myth*, the racial-Arya *mythology*. There *myth* is the correct pejorative. **Exemptions:** verbatim quotation, and the pyramid's own *myth*-labeling of Indic material being prosecuted (scare-quote on attribution). Parallel to the *demon* / *scripture* / *god* bans.
 
-### Two axes, not one chronology — *vaidika / laukika* (domains) + *chandas / bhāṣā* (modes)
+### Broad domains; precise operational scopes
 
 **Reject "Vedic Sanskrit / Classical Sanskrit" as the named pair.** The dogma collapses Sanskrit's two-axis architecture into a one-line chronology: "Classical" is a Greco-Latin classroom-canon classification imported onto Sanskrit, and the implicit "later-than-Vedic" sequencing imports the foreign teleology along with the label.
 
-**Two axes, not one chronology:**
+**Use the Hindu continuum's broad domains:**
 
-- ***Domains:*** ***वैदिक (*vaidika*)*** / ***लौकिक (*laukika*)*** — Sanskrit of the Vedic domain and Sanskrit of the worldly learned domain. Patañjali's *Mahābhāṣya* uses this pair canonically. Concurrent civilizational fields, not stages on a timeline.
-- ***Modes:*** ***छन्दस् (*chandas*)*** / ***भाषा (*bhāṣā*)*** — the metrical mode and the speech mode. Pāṇini marks the distinction directly in the *Aṣṭādhyāyī*: rules tagged ***chandasi*** (locative, *"in meter"*) apply in the *chandas* mode; rules tagged ***bhāṣāyām*** (locative, *"in speech"*) apply in the *bhāṣā* mode. Synchronic-parallel, not evolutionary-sequential.
+- ***वैदिक (*vaidika*)*** — the Vedic domain.
+- ***लौकिक (*laukika*)*** — the worldly domain in which Sanskrit remains available for new composition and use.
 
-**Vaidika / laukika are domains. Chandas / bhāṣā are modes.** The two distinctions are not synonymous. Domain is the civilizational-textual category; mode is Pāṇini's grammatical rule-marker pair. The two axes operate together: *vaidika* Sanskrit operates primarily in *chandas* mode; *laukika* Sanskrit operates primarily in *bhāṣā* mode — but neither axis is reducible to the other.
+**Use Pāṇini's exact scope labels only when the operation requires them.** The *Aṣṭādhyāyī* uses ***chandasi***, ***mantre***, ***amantre***, ***brāhmaṇe***, ***nigame***, ***bhāṣāyām***, and narrower text- or lineage-specific markers. These labels state where a particular rule applies. They do not form a complete *chandasi / bhāṣāyām* binary, and they are not synonyms for the broad *vaidika / laukika* domains.
+
+Do not automatically translate ***chandasi*** as *"in meter."* In many rules it marks a Vedic scope that can include prose as well as metrical composition. Use ***छन्दस् (*chandas*)*** for meter when meter itself is the subject. Use ***भाषा (*bhāṣā*)*** for speech or language when those meanings are intended.
+
+In broad prose, use *vaidika* and *laukika* without invoking Pāṇini. Bring in an exact Pāṇinian marker when the sentence identifies the scope of a specific operation. Pāṇini documents the architecture and its boundaries; he does not create, calibrate, stabilize, or authorize the Vedas.
 
 **Standing polemic formulations already present in the manuscript:**
 
 - **The dogma makes Pāṇini a rupture. The architecture makes him a witness.** — lands at the agent level. The dogma's chronology-collapse depends on Pāṇini-miscast-as-codifier (the Move 4 hinge in Ch 1 §1.1's bakers' story); the engineering thesis treats Pāṇini as documenter of what was already operating.
-- **Domain is not chronology. Mode is not drift.** — lands at the axes level. The two-axis architecture refused.
+- **Domain is not chronology. A rule's stated boundary is not drift.** — lands at the scope level. The architecture can restrict an operation without creating an evolutionary sequence.
 
 These formulations may remain where the surrounding argument has already established them, but they are not cadence templates and should not be stacked or added merely to close a section.
 
-**Mode/domain names vs locative rule-markers:**
-
-- Use the **mode/domain names** *chandas* / *bhāṣā* (and *vaidika* / *laukika*) when the book is naming Sanskrit domains or modes in its own prose — *chandas mode*, *bhāṣā mode*, *vaidika domain*, *laukika Sanskrit*.
-- Use the **locative forms** *chandasi* / *bhāṣāyām* **only** when quoting Pāṇini's actual *sūtra* rule-markers or glossing the literal locative — *"Pāṇini marks rule X as chandasi"*, *"chandasi means 'in meter'"*, *"bahulam chandasi"* (the verbatim Pāṇinian operator).
-
-**Three-term system** stays unchanged: *mode* (Sanskrit variety); *style* (*shruti* / *smriti* text-class); *voice* or *idiom* (the book's discourse posture — polemic voice, engineering idiom, public-facing prose, legal language). **The word *register* is banned from manuscript prose, captions, endnotes, contents, and reference summaries.** Use *mode*, *style*, *voice*, *idiom*, *form*, *variety*, *speech level*, or the specific language name according to context. Preserve the banned word only inside an exact quotation or bibliographic title.
+**Three-term system** stays unchanged: *domain* (the broad *vaidika / laukika* distinction); *style* (a compositional or recitational style); *voice* or *idiom* (the book's discourse posture — polemic voice, engineering idiom, public-facing prose, legal language). **The word *register* is banned from manuscript prose, captions, endnotes, contents, and reference summaries.** Use *domain*, *scope*, *style*, *voice*, *idiom*, *form*, *variety*, *speech level*, or the specific language name according to context. Preserve the banned word only inside an exact quotation or bibliographic title.
 
 **The adjective *governed* is banned from manuscript prose, captions, endnotes,
 contents, and reference summaries.** It obscures the actual relationship. Use
@@ -639,8 +638,15 @@ The two sides of the book's central opposition (Sanskrit's engineering vs. the p
 - ***constellation*** — pattern of fixed/eternal points (connects to *sanātan*); *the constellation of dhātus*, *the engineered constellation*.
 - ***grid*** — already in use for the *varṇamālā*'s 5×5 *varga* grid and the *racanā* × *gaṇa* matrix; engineering idiom.
 - ***fabric*** — woven, integrated, holistic; *the fabric of the transmission architecture*.
-- ***engine*** — generative, productive; *Pāṇini's generative engine*, *the affixation engine*.
+- ***engine*** — an architecture that continues to generate forms through stated operations; *Pāṇini's documented generative engine*, *the affixation engine*.
 - ***system*** — slightly engineering-leaning; safe Sanskrit-side use.
+
+Avoid ***productive, productivity,*** and ***productively*** in reader-facing
+prose. Name the action instead: a form generates new words, a paradigm remains
+available for new composition, or a sound functions as an independent
+contrast. Use ***generative reach*** for Path A's measured derivative count and
+***combinatorial reach*** for Path C's corpus valency. Preserve exact
+quotations and internal filenames required for reproducibility.
 
 **Polyvalent (either side, side-neutral):**
 

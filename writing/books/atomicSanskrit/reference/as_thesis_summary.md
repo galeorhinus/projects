@@ -57,13 +57,13 @@ The Eight Core Theses describe the movement of the argument. The Eclipse Ledger 
 
 8. **Sanskrit's architecture is atomic and fractal.** *Varṇāḥ* are sonomers, *dhātavaḥ* are atoms, *śabdāḥ* are molecules, and sentence is assembly. The same engineering discipline recurs across scale. **Chapters 9-12.**
 
-9. **Sanskrit's productive atoms display a signature natural drift does not predict.** The highest-productivity *dhātavaḥ* are structurally compact, broadly reactive, and stable across use. The distribution belongs to an operating table. **Chapter 10; Chapter 11; Source and Reference Companion.**
+9. **Sanskrit's atoms with the greatest generative reach display a signature natural drift does not predict.** These *dhātavaḥ* are structurally compact, enter a wide range of combinations, and remain stable across use. The distribution belongs to an operating table. **Chapter 10; Chapter 11; Source and Reference Companion.**
 
 ### Calibrated — lifts the Codified plate
 
 10. **Pāṇini decoded and documented an operating system; he did not codify a drifting language.** The book's refrain is exact: Sanskrit was engineered, encoded in the Vedas, decoded by many, and Pāṇini's decoding is the finest. **Preface; Chapter 2 §2.6; Chapter 5; Chapter 11 §11.10.**
 
-11. **Vedic and Classical Sanskrit are not two languages — the split is imaginary.** **वैदिक (*vaidika*)** and **लौकिक (*laukika*)** are domains; **छन्दसि (*chandasi*)** and **भाषायाम् (*bhāṣāyām*)** are modes. Domain is not chronology. Mode is not drift. Pāṇini witnesses both. **Preface; Chapter 2 §2.6; Chapter 6 §6.6; Chapter 14 §14.7.**
+11. **Vedic and Classical Sanskrit are not two languages — the split is imaginary.** **वैदिक (*vaidika*)** and **लौकिक (*laukika*)** are the broad domains. Pāṇini documents where particular operations apply within and across them. Domain is not chronology. A rule's stated boundary is not evidence of drift. **Preface; Chapter 2 §2.6; Chapter 6 §6.6; Chapter 14 §14.7.**
 
 12. **The engineering recognition is older than Pāṇini.** Yāska, Śākalya, the *Prātiśākhyas*, the *Śikṣā* disciplines, and the pre-Pāṇinian *vaiyākaraṇāḥ* already presuppose discrete, stable, analyzable units. Pāṇini stands inside a decoding lineage. **Chapter 5; Chapter 10 §10.12.**
 

@@ -108,7 +108,7 @@ The hexagon visualization displays the measure. Consonant slots are narrow, shor
 
 ![Ten *dhātavaḥ* across the *mātrā* envelope, from the 1-*mātrā* floor to the 5½-*mātrā* cliff.](figures/building_dhatuh/matra_envelope.svg){#fig:building-dhatuh-matra-envelope width=100%}
 
-The figure begins with ⟪ऋ⟫ (*ṛ*), the minimum atom: a bare short vowel from which ऋषि (*ṛṣi*) and ऋत (*ṛta*) descend. ⟪कृ⟫ (*kṛ*) adds one consonant; ⟪गम्⟫ (*gam*) shows the modal 2-*mātrā* envelope; ⟪धा⟫ (*dhā*) and ⟪वाच्⟫ (*vāc*) show the productive middle; ⟪स्वाद्⟫ (*svād*), ⟪बाधृ⟫ (*bādhṛ*), ⟪कुमार्⟫ (*kumār*), ⟪दीपी⟫ (*dīpī*), and ⟪ह्लादी⟫ (*hlādī*) show the upper slope toward the cliff.
+The figure begins with ⟪ऋ⟫ (*ṛ*), the minimum atom: a bare short vowel from which ऋषि (*ṛṣi*) and ऋत (*ṛta*) descend. ⟪कृ⟫ (*kṛ*) adds one consonant; ⟪गम्⟫ (*gam*) shows the modal 2-*mātrā* envelope; ⟪धा⟫ (*dhā*) and ⟪वाच्⟫ (*vāc*) show the middle of the *mātrā* envelope; ⟪स्वाद्⟫ (*svād*), ⟪बाधृ⟫ (*bādhṛ*), ⟪कुमार्⟫ (*kumār*), ⟪दीपी⟫ (*dīpī*), and ⟪ह्लादी⟫ (*hlādī*) show the upper slope toward the cliff.
 
 A *dhātuḥ* is built from timed sonomers. The shape of the atom is its *mātrā* envelope. That envelope is the timing boundary inside which construction must happen.
 

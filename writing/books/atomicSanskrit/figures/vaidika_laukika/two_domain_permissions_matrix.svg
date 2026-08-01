@@ -1,0 +1,71 @@
+<!-- lineage: py
+     canonical-source: two_domain_permissions_matrix.from-py.svg
+     updated: 2026-07-31 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1020" viewBox="0 0 1200 1020">
+<rect width="1200" height="1020" fill="#f7f4ed"/>
+<text x="54.0" y="68.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="46" font-weight="600" font-style="normal" fill="#29251f" letter-spacing="0" text-anchor="start">One Architecture, Two Complementary Domains</text>
+<text x="54.0" y="109.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="italic" fill="#6e675d" letter-spacing="0" text-anchor="start">Designed variation and permission to compose</text>
+<circle cx="817" cy="101" r="18" fill="#9d7c36"/>
+<path d="M 808,101 L 815,109 L 828,91" fill="none" stroke="#f7f4ed" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="844.0" y="108.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="19" font-weight="600" font-style="normal" fill="#6e675d" letter-spacing="0" text-anchor="start">selected scope</text>
+<circle cx="1013" cy="101" r="18" fill="#824d43"/>
+<line x1="1005" y1="93" x2="1021" y2="109" stroke="#f7f4ed" stroke-width="4" stroke-linecap="round"/>
+<line x1="1021" y1="93" x2="1005" y2="109" stroke="#f7f4ed" stroke-width="4" stroke-linecap="round"/>
+<text x="1040.0" y="108.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="19" font-weight="600" font-style="normal" fill="#6e675d" letter-spacing="0" text-anchor="start">rejected</text>
+<rect x="54" y="137" width="1092" height="49" fill="#e8dfcc"/>
+<text x="600.0" y="169.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#29251f" letter-spacing="0" text-anchor="middle">The two domains select different balances from the same Sanskrit architecture</text>
+<rect x="197" y="230" width="466" height="292" fill="#e8dfcc" stroke="#9d7c36" stroke-width="4"/>
+<text x="430.0" y="292.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="34" font-weight="600" font-style="normal" fill="#29251f" letter-spacing="0" text-anchor="middle">वैदिक · vaidika</text>
+<circle cx="232" cy="265" r="18" fill="#9d7c36"/>
+<path d="M 223,265 L 230,273 L 243,255" fill="none" stroke="#f7f4ed" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="430.0" y="343.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="27" font-weight="600" font-style="normal" fill="#29251f" letter-spacing="0" text-anchor="middle">Extended designed variation</text>
+<text x="430.0" y="373.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="27" font-weight="600" font-style="normal" fill="#29251f" letter-spacing="0" text-anchor="middle">Read-only content</text>
+<line x1="252" y1="408" x2="608" y2="408" stroke="#9d7c36" stroke-width="1.5"/>
+<text x="430.0" y="440.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="400" font-style="normal" fill="#6e675d" letter-spacing="0" text-anchor="middle">Pitch · additional forms · leṭ</text>
+<text x="430.0" y="470.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="400" font-style="normal" fill="#6e675d" letter-spacing="0" text-anchor="middle">Fixed words and inherited meaning</text>
+<text x="430.0" y="500.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="400" font-style="normal" fill="#6e675d" letter-spacing="0" text-anchor="middle">contain collisions within each passage</text>
+<rect x="663" y="230" width="466" height="292" fill="#eadbd6" stroke="#824d43" stroke-width="2"/>
+<text x="896.0" y="292.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="29" font-weight="600" font-style="normal" fill="#824d43" letter-spacing="0" text-anchor="middle">Collision-prone composition</text>
+<circle cx="698" cy="265" r="18" fill="#824d43"/>
+<line x1="690" y1="257" x2="706" y2="273" stroke="#f7f4ed" stroke-width="4" stroke-linecap="round"/>
+<line x1="706" y1="257" x2="690" y2="273" stroke="#f7f4ed" stroke-width="4" stroke-linecap="round"/>
+<text x="896.0" y="343.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="27" font-weight="500" font-style="normal" fill="#29251f" letter-spacing="0" text-anchor="middle">Laukika with Vedic variation</text>
+<text x="896.0" y="373.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="27" font-weight="500" font-style="normal" fill="#29251f" letter-spacing="0" text-anchor="middle">Generative content</text>
+<line x1="718" y1="408" x2="1074" y2="408" stroke="#824d43" stroke-width="1.5"/>
+<text x="896.0" y="440.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="400" font-style="normal" fill="#6e675d" letter-spacing="0" text-anchor="middle">Overlapping forms enter</text>
+<text x="896.0" y="470.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="400" font-style="normal" fill="#6e675d" letter-spacing="0" text-anchor="middle">newly composed sentences without</text>
+<text x="896.0" y="500.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="400" font-style="normal" fill="#6e675d" letter-spacing="0" text-anchor="middle">fixed context to clarify them</text>
+<rect x="197" y="522" width="466" height="292" fill="#e7e3da" stroke="#bdb4a5" stroke-width="2"/>
+<text x="430.0" y="584.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="29" font-weight="600" font-style="normal" fill="#824d43" letter-spacing="0" text-anchor="middle">Insufficient calibrant</text>
+<circle cx="232" cy="557" r="18" fill="#824d43"/>
+<line x1="224" y1="549" x2="240" y2="565" stroke="#f7f4ed" stroke-width="4" stroke-linecap="round"/>
+<line x1="240" y1="549" x2="224" y2="565" stroke="#f7f4ed" stroke-width="4" stroke-linecap="round"/>
+<text x="430.0" y="635.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="27" font-weight="500" font-style="normal" fill="#29251f" letter-spacing="0" text-anchor="middle">Vaidika without its extended range</text>
+<text x="430.0" y="665.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="27" font-weight="500" font-style="normal" fill="#29251f" letter-spacing="0" text-anchor="middle">Read-only content</text>
+<line x1="252" y1="700" x2="608" y2="700" stroke="#bdb4a5" stroke-width="1.5"/>
+<text x="430.0" y="732.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="400" font-style="normal" fill="#6e675d" letter-spacing="0" text-anchor="middle">Stable enough for a small corpus,</text>
+<text x="430.0" y="762.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="400" font-style="normal" fill="#6e675d" letter-spacing="0" text-anchor="middle">but too narrow to display Sanskrit&#x27;s</text>
+<text x="430.0" y="792.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="400" font-style="normal" fill="#6e675d" letter-spacing="0" text-anchor="middle">full calibrating architecture</text>
+<rect x="663" y="522" width="466" height="292" fill="#dfe5d9" stroke="#52634d" stroke-width="4"/>
+<text x="896.0" y="584.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="34" font-weight="600" font-style="normal" fill="#29251f" letter-spacing="0" text-anchor="middle">लौकिक · laukika</text>
+<circle cx="698" cy="557" r="18" fill="#9d7c36"/>
+<path d="M 689,557 L 696,565 L 709,547" fill="none" stroke="#f7f4ed" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="896.0" y="635.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="27" font-weight="600" font-style="normal" fill="#29251f" letter-spacing="0" text-anchor="middle">Restricted designed variation</text>
+<text x="896.0" y="665.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="27" font-weight="600" font-style="normal" fill="#29251f" letter-spacing="0" text-anchor="middle">Generative content</text>
+<line x1="718" y1="700" x2="1074" y2="700" stroke="#52634d" stroke-width="1.5"/>
+<text x="896.0" y="732.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="400" font-style="normal" fill="#6e675d" letter-spacing="0" text-anchor="middle">A reusable kernel supports new words,</text>
+<text x="896.0" y="762.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="400" font-style="normal" fill="#6e675d" letter-spacing="0" text-anchor="middle">sciences, stories, arguments,</text>
+<text x="896.0" y="792.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="400" font-style="normal" fill="#6e675d" letter-spacing="0" text-anchor="middle">and compositions in every age</text>
+<line x1="166" y1="814" x2="166" y2="212" stroke="#29251f" stroke-width="3"/>
+<path d="M 158,223 L 166,210 L 174,223" fill="none" stroke="#29251f" stroke-width="3"/>
+<text x="151.0" y="266.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="21" font-weight="600" font-style="normal" fill="#9d7c36" letter-spacing="0" text-anchor="end">EXTENDED</text>
+<text x="151.0" y="800.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="21" font-weight="600" font-style="normal" fill="#6e675d" letter-spacing="0" text-anchor="end">RESTRICTED</text>
+<text x="52" y="522.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" fill="#29251f" text-anchor="middle" transform="rotate(-90 52 522.0)">DESIGNED VARIATION</text>
+<line x1="197" y1="847" x2="1147" y2="847" stroke="#29251f" stroke-width="3"/>
+<path d="M 1135,839 L 1149,847 L 1135,855" fill="none" stroke="#29251f" stroke-width="3"/>
+<text x="197.0" y="880.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="21" font-weight="600" font-style="normal" fill="#6e675d" letter-spacing="0" text-anchor="start">READ-ONLY</text>
+<text x="1129.0" y="880.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="21" font-weight="600" font-style="normal" fill="#9d7c36" letter-spacing="0" text-anchor="end">GENERATIVE</text>
+<text x="663.0" y="917.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="600" font-style="normal" fill="#29251f" letter-spacing="0" text-anchor="middle">PERMISSION TO COMPOSE NEW CONTENT</text>
+<rect x="54" y="948" width="1092" height="54" fill="#29251f"/>
+<text x="600.0" y="983.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#f7f4ed" letter-spacing="0" text-anchor="middle">Each domain accepts the range needed for its purpose.</text>
+</svg>

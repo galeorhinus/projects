@@ -114,7 +114,7 @@ The pyramid does not know Sanskrit's origin. It has no inscription of PIE, no sp
 6. When Sanskrit displayed subcontinental features, especially the retroflex row, the pyramid's account called them substrate borrowings instead of evidence that Sanskrit's engineering operates from inside the subcontinental sound-field.
 7. When Vedic preservation showed extraordinary stability, the pyramid's account called it late conservatism rather than engineered anti-entropy.
 8. When Pāṇini documented an already functioning architecture, the pyramid's account called it codification: praise the named documenter, redirect the memory, deny the architecture documented.
-9. When the Sanskrit continuum preserved its own categories — *saṃskṛtam*, *śruti*, *apauruṣeya*, *vyākaraṇam*, *chandasi*, *bhāṣāyām* — the pyramid's account treated them as belief, not evidence.
+9. When the Sanskrit continuum preserved its own categories — *saṃskṛtam*, *śruti*, *apauruṣeya*, *vyākaraṇam*, *vaidika*, and *laukika* — the pyramid's account treated them as belief, not evidence.
 10. Every link in the chain is required because the first link must be preserved: Sanskrit cannot be the engineered calibrant at the center. It must be one member of the manufactured family of co-descended languages.
 11. The chain remained secure because few readers tested its assumptions against Sanskrit's complete architecture. The preceding chapters have now tested every link against the evidence assembled across sound, atom, grammar, recitation, and transmission. The comparison exposes where each link depends upon the one before it rather than upon Sanskrit's architecture.
 
@@ -200,8 +200,8 @@ The motive is preservation with discrimination. Let what can flow, flow. Let wha
 6. This argument treats one layer of what the Vedas preserve: the engineered linguistic system Sanskrit instantiates. The corpus preserves other architectures also — ritual, cosmology, metaphysics, measure, healing, transmission, and more — but the linguistic layer is measurable, testable, and sufficient to overturn the pyramid's account.
 7. The four Vedas need not be treated as four rungs on a historical ladder. Difference of function is not proof of difference in date.
 8. A more honest speculation is that the four Vedas were four functions of one preservation architecture. Across generations, mantras may have been seen, heard, arranged, and stabilized within those functional corpora.
-9. For a long time, implicit calibration worked. Those responsible for hearing and preserving the Vedic corpus preserved the primary calibrant. Those responsible for Sanskrit returned to it when *bhāṣā* needed correction.
-10. Many **वैयाकरणाः (*vaiyākaraṇāḥ*)** decoded what the Vedas encoded: Yāska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, the **प्रातिशाख्य (*Prātiśākhya*)** and **शिक्षा (*Śikṣā*)** disciplines, and the wider pre-Pāṇinian grammatical line. Pāṇini did not create the architecture. He documented and compressed it into a working calibrant for *bhāṣā*.
+9. For a long time, implicit calibration worked. Those responsible for hearing and preserving the Vedic corpus preserved the primary calibrant. Those responsible for Sanskrit returned to it when laukika use needed correction.
+10. Many **वैयाकरणाः (*vaiyākaraṇāḥ*)** decoded what the Vedas encoded: Yāska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, the **प्रातिशाख्य (*Prātiśākhya*)** and **शिक्षा (*Śikṣā*)** disciplines, and the wider pre-Pāṇinian grammatical line. Pāṇini did not create the architecture. He documented and compressed it into a working calibrant for laukika Sanskrit.
 
 11. As the age darkened further, the Vedas remained protected and Sanskrit remained protected, but the recognition of engineering was obscured. The asuric machinery could not destroy the architecture, so it misnamed it: drift became development, decoding became codification, calibration became standardization, and Sanskrit became one branch on a tree grown from an imaginary ancestor.
 
@@ -215,24 +215,24 @@ The two speculations are mirror inversions.
 
 | Axis | The pyramid's account | The engineering thesis |
 |---|---|---|
-| Perfection direction | Vedic primitive; Classical refined | Vedas perfectly preserved; *bhāṣā* exposed to drift |
+| Perfection direction | Vedic primitive; Classical refined | Vedas perfectly preserved; laukika use exposed to drift |
 | Pāṇini's act | Codified | Decoded |
-| Derivation direction | Classical descends from Vedic | *Bhāṣā* calibrates against the Vedas |
+| Derivation direction | Classical descends from Vedic | Laukika Sanskrit calibrates against the Vedas |
 | *Apabhraṃśa* | Stage in a descent tree | Entropic tendency the calibrant corrects |
-| *Aṣṭādhyāyī* | Standardization | Working calibrant for *bhāṣā* |
+| *Aṣṭādhyāyī* | Standardization | Working calibrant for laukika Sanskrit |
 | Vedas | Oldest documented stage | Primary calibrant, encoded architecture |
 | Arrow | develop, codify, decay | engineer, encode, decode, preserve |
 
 
-At every point in the Sanskrit continuum, two facts operate together: the Vedas remain preserved, and *bhāṣā* remains exposed to *apabhraṃśa*. Ordinary speech drifts. The recitational lineages do not.
+At every point in the Sanskrit continuum, two facts operate together: the Vedas remain preserved, and laukika use remains exposed to *apabhraṃśa*. Worldly use faces entropy. The recitational lineages do not.
 
-Before Pāṇini, the Vedic corpus served as the primary calibrant for correcting *bhāṣā* back toward the architecture the Vedas encoded. §18.5 established the operating condition: the calibration worked, but the grammar was implicit — lodged in the corpus and in the disciplines guarding it. Pāṇini changed the operating condition. He did not create the architecture and he did not replace the Vedas as the ultimate measure. He compressed the architecture into the *Aṣṭādhyāyī*, making it usable as a working calibrant for *bhāṣā*.
+Before Pāṇini, the Vedic corpus served as the primary calibrant for correcting laukika use back toward the architecture the Vedas encoded. §18.5 established the operating condition: the calibration worked, but the grammar was implicit — lodged in the corpus and in the disciplines guarding it. Pāṇini changed the operating condition. He did not create the architecture and he did not replace the Vedas as the ultimate measure. He compressed the architecture into the *Aṣṭādhyāyī*, making it usable as a working calibrant for laukika Sanskrit.
 
 The pedagogical consequence belongs in Chapter 13 §13.5. Before Pāṇini, correction could operate through preserved Vedic use. After Pāṇini, the same correction also became available through explicit rule.
 
 The Vedas preserved the architecture. Pāṇini made the architecture operational.
 
-By demanding the opposite flow, the *progressive dogma* treats Vedic as primitive, Classical as refined, Pāṇini as inventor, *bhāṣā* as descendant, and *apabhraṃśa* as a stage in descent rather than the tendency the calibrant corrects. This inversion operates as a doctrinal requirement rather than a stylistic choice. As structural opposites, a descent thesis and an engineering thesis cannot both serve as the correct account of the same object.
+By demanding the opposite flow, the *progressive dogma* treats Vedic as primitive, Classical as refined, Pāṇini as inventor, laukika Sanskrit as a descendant, and *apabhraṃśa* as a stage in descent rather than the tendency the calibrant corrects. This inversion operates as a doctrinal requirement rather than a stylistic choice. As structural opposites, a descent thesis and an engineering thesis cannot both serve as the correct account of the same object.
 
 
 Enforcing this inversion, the *heroic-erasure* move (Chapter 1 §1.6, Chapter 13 §13.3) executes a precise script: celebrate Pāṇini as codifier to deny the engineering that preceded him, and praise the named operator to hide the architecture he decoded. By using Pāṇini rather than fighting him, the machinery turns civilizational memory toward codification and away from calibration.

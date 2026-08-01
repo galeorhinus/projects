@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="900" viewBox="0 0 1500 900">
+<rect width="1500" height="900" fill="#f7f4ed"/>
+<text x="54.0" y="68.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="47" font-weight="600" font-style="normal" fill="#29251f" letter-spacing="0" text-anchor="start">One Sanskrit Architecture, Two Domains</text>
+<text x="54.0" y="111.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="italic" fill="#6e675d" letter-spacing="0" text-anchor="start">A large shared engine with smaller domain-specific extensions</text>
+<rect x="60" y="180" width="1000" height="600" fill="#e8dfcc" stroke="#9d7c36" stroke-width="4"/>
+<rect x="60" y="310" width="1020" height="470" fill="#dfe5d9" stroke="#52634d" stroke-width="4"/>
+<rect x="62" y="312" width="996" height="466" fill="#d9d4bd"/>
+<rect x="60" y="180" width="1000" height="600" fill="none" stroke="#9d7c36" stroke-width="4"/>
+<rect x="60" y="310" width="1020" height="470" fill="none" stroke="#52634d" stroke-width="4"/>
+<text x="560.0" y="214.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="31" font-weight="600" font-style="normal" fill="#29251f" letter-spacing="0" text-anchor="middle">वैदिक · vaidika</text>
+<text x="560.0" y="246.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#9d7c36" letter-spacing="0" text-anchor="middle">Vaidika Only</text>
+<text x="560.0" y="272.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="27" font-weight="400" font-style="normal" fill="#6e675d" letter-spacing="0" text-anchor="middle">pitch · leṭ · additional endings</text>
+<text x="560.0" y="298.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="27" font-weight="400" font-style="normal" fill="#6e675d" letter-spacing="0" text-anchor="middle">contextual sounds · movable upasargāḥ</text>
+<text x="560.0" y="356.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="30" font-weight="600" font-style="normal" fill="#29251f" letter-spacing="0" text-anchor="middle">वैदिक + लौकिक · vaidika + laukika</text>
+<text x="560.0" y="398.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="40" font-weight="600" font-style="normal" fill="#29251f" letter-spacing="0" text-anchor="middle">Shared Sanskrit Architecture</text>
+<text x="560.0" y="434.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="400" font-style="italic" fill="#6e675d" letter-spacing="0" text-anchor="middle">Most of both domains</text>
+<line x1="118" y1="461" x2="1002" y2="461" stroke="#9d7c36" stroke-width="1.5"/>
+<circle cx="183" cy="507" r="5" fill="#9d7c36"/>
+<text x="205.0" y="514.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="34" font-weight="500" font-style="normal" fill="#29251f" letter-spacing="0" text-anchor="start">Sonomers and svaras</text>
+<circle cx="623" cy="507" r="5" fill="#9d7c36"/>
+<text x="645.0" y="514.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="34" font-weight="500" font-style="normal" fill="#29251f" letter-spacing="0" text-anchor="start">Dhātavaḥ</text>
+<circle cx="183" cy="565" r="5" fill="#9d7c36"/>
+<text x="205.0" y="572.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="34" font-weight="500" font-style="normal" fill="#29251f" letter-spacing="0" text-anchor="start">Upasarga · pratyaya</text>
+<circle cx="623" cy="565" r="5" fill="#9d7c36"/>
+<text x="645.0" y="572.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="34" font-weight="500" font-style="normal" fill="#29251f" letter-spacing="0" text-anchor="start">Vibhakti · liṅga · vacana</text>
+<circle cx="183" cy="623" r="5" fill="#9d7c36"/>
+<text x="205.0" y="630.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="34" font-weight="500" font-style="normal" fill="#29251f" letter-spacing="0" text-anchor="start">Shared lakāras</text>
+<circle cx="623" cy="623" r="5" fill="#9d7c36"/>
+<text x="645.0" y="630.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="34" font-weight="500" font-style="normal" fill="#29251f" letter-spacing="0" text-anchor="start">Sandhi</text>
+<circle cx="183" cy="681" r="5" fill="#9d7c36"/>
+<text x="205.0" y="688.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="34" font-weight="500" font-style="normal" fill="#29251f" letter-spacing="0" text-anchor="start">Samāsa</text>
+<circle cx="623" cy="681" r="5" fill="#9d7c36"/>
+<text x="645.0" y="688.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="34" font-weight="500" font-style="normal" fill="#29251f" letter-spacing="0" text-anchor="start">Sentence architecture</text>
+<path d="M 1080 545.0 H 1097 V 393" fill="none" stroke="#bdb4a5" stroke-width="2"/>
+<text x="1125.0" y="386.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="27" font-weight="600" font-style="normal" fill="#52634d" letter-spacing="0" text-anchor="start">Laukika-only extension</text>
+<line x1="1125" y1="406" x2="1446" y2="406" stroke="#52634d" stroke-width="1.5"/>
+<text x="1125.0" y="453.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="24" font-weight="400" font-style="italic" fill="#6e675d" letter-spacing="0" text-anchor="start">bhāṣāyām-specific forms</text>
+<text x="1125.0" y="521.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="400" font-style="normal" fill="#6e675d" letter-spacing="0" text-anchor="start">niṣaṇṇa · sṛtā</text>
+<text x="1125.0" y="563.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="400" font-style="normal" fill="#6e675d" letter-spacing="0" text-anchor="start">suṣuve · soḍhvā</text>
+<text x="1125.0" y="605.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="400" font-style="normal" fill="#6e675d" letter-spacing="0" text-anchor="start">upasedivān</text>
+<rect x="54" y="830" width="1392" height="52" fill="#29251f"/>
+<text x="750.0" y="864.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#f7f4ed" letter-spacing="0" text-anchor="middle">The shared architecture dominates both domains.</text>
+</svg>

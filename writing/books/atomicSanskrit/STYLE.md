@@ -30,6 +30,13 @@ When rewriting existing prose:
 
 Write as though explaining the argument to an intelligent reader who has no training in linguistics, law, or academic debate. Use ordinary nouns and concrete verbs whenever they can state the fact accurately.
 
+Avoid ***productive, productivity,*** and ***productively*** in reader-facing
+prose. Name the action instead: a form generates new words, a paradigm remains
+available for new composition, or a sound functions as an independent
+contrast. Use ***generative reach*** for Path A's measured derivative count and
+***combinatorial reach*** for Path C's corpus valency. Preserve exact
+quotations and internal filenames required for reproducibility.
+
 When accuracy requires a qualification, spend another plain sentence explaining it. Do not compress the qualification into legal or academic phrases such as *contested influence*, *documented transmission*, *the evidence supports*, *requires us to compare*, *preserves a line of transmission*, or *the claim remains defensible*. Those phrases classify the argument instead of explaining what happened.
 
 ### Reserve *question* for an actual inquiry

@@ -1,8 +1,8 @@
 # Reference Appendix 8 — The ***लेट् (*leṭ*)*** Coordinate Test
 
-Appendix Part 8 §8.5 begins its *leṭ* analysis with **ब्रवाणि (*bravāṇi*)** from Ṛgveda 6.16.16. The mantra uses it as ***लेट् (*leṭ*)***, although the same visible form belongs to ***लोट् (*loṭ*)*** in productive *laukika* Sanskrit. The appendix then places it beside **तारिषत् (*tāriṣat*)** from Ṛgveda 10.186.1, where *leṭ* adds a desired or prospective force without producing the same visible collision.
+Appendix Part 8 §8.5 begins its *leṭ* analysis with **ब्रवाणि (*bravāṇi*)** from Ṛgveda 6.16.16. The mantra uses it as ***लेट् (*leṭ*)***, although the same visible form belongs to ***लोट् (*loṭ*)*** in *laukika* Sanskrit used for new composition. The appendix then places it beside **तारिषत् (*tāriṣat*)** from Ṛgveda 10.186.1, where *leṭ* adds a desired or prospective force without producing the same visible collision.
 
-Together, the two passages show the benefit and the cost of the additional Vedic *lakāra*. The *laukika* domain expresses much of the same range through *loṭ*, ***लिङ् (*liṅ*)***, ***आशीर्लिङ् (*āśīrliṅ*)***, and ***लृट् (*lṛṭ*)***. This appendix compares all eighteen person-number-*pada* coordinates to see what would happen if *leṭ* also operated as a complete productive paradigm in unrestricted *laukika* composition.
+Together, the two passages show the benefit and the cost of the additional Vedic *lakāra*. The *laukika* domain expresses much of the same range through *loṭ*, ***लिङ् (*liṅ*)***, ***आशीर्लिङ् (*āśīrliṅ*)***, and ***लृट् (*lṛṭ*)***. This appendix compares all eighteen person-number-*pada* coordinates to see what would happen if *leṭ* also operated as a complete paradigm available for new *laukika* composition.
 
 The result has two parts. Exact formal collisions cluster in the first person, where *laukika loṭ* and Vedic *leṭ* use the same forms. Semantic overlap is much wider because Pāṇini explicitly assigns *leṭ* to meanings also served by *liṅ*. The evidence supports the coordinate test as an architectural inference. It does not prove why Sanskrit's engineers selected this division between the two domains.
 
@@ -47,7 +47,7 @@ The dedicated *leṭ* sequence ends at 3.4.98. Rules 3.4.99–100 begin the foll
 
 ## The Formal Collision
 
-The tables compare the principal *leṭ* endings with productive *laukika loṭ*. Vedic *leṭ* permits additional variants, especially through the optional operations above. The entries below show where the written forms can become identical. Vedic pitch does not label every *lakāra* uniquely, but it adds grammatical information that helps the invariant passage bound these collisions.
+The tables compare the principal *leṭ* endings with *laukika loṭ* as used in new composition. Vedic *leṭ* permits additional variants, especially through the optional operations above. The entries below show where the written forms can become identical. Vedic pitch does not label every *lakāra* uniquely, but it adds grammatical information that helps the invariant passage bound these collisions.
 
 ### परस्मैपदम् (*parasmaipadam*)
 
@@ -83,16 +83,16 @@ The same concentration appears in *ātmanepada*: first-person forms collide, whi
 
 ## The Semantic Overlap
 
-The collision test cannot stop at spelling. Pāṇini's **लिङर्थे लेट्** places *leṭ* inside the semantic range of *liṅ*. Vedic passages use it for prospective, volitional, hortatory, desired, and related force. The productive *laukika* system already distributes those tasks across several resources:
+The collision test cannot stop at spelling. Pāṇini's **लिङर्थे लेट्** places *leṭ* inside the semantic range of *liṅ*. Vedic passages use it for prospective, volitional, hortatory, desired, and related force. The *laukika* system already distributes those tasks across several resources:
 
-| Productive resource | Part of the overlapping range |
+| Laukika resource | Part of the overlapping range |
 |---|---|
 | ***लोट् (*loṭ*)*** | command, urging, invitation, permission, and first-person resolve |
 | ***विधिलिङ् (*vidhiliṅ*)*** | possibility, prescription, request, and related modal force |
 | ***आशीर्लिङ् (*āśīrliṅ*)*** | blessing and wish |
 | ***लृट् (*lṛṭ*)*** | future or prospective action |
 
-These resources are not interchangeable in every passage. The architectural point is narrower: a complete productive *leṭ* would add an entire paradigm while much of its semantic territory was already available elsewhere.
+These resources are not interchangeable in every passage. The architectural point is narrower: a complete reusable *leṭ* paradigm would add an entire paradigm while much of its semantic territory was already available elsewhere.
 
 ## Result of the Coordinate Test
 
@@ -103,9 +103,9 @@ The evidence supports four findings:
 3. **The semantic overlap is broad.** Pāṇini directly relates *leṭ* to *liṅ* meanings, while *laukika* Sanskrit also uses *loṭ, āśīrliṅ,* and *lṛṭ* across adjacent territory.
 4. **Pitch and the fixed passage bound the ambiguity.** The Vedic pitch system contributes an audible layer of grammatical interpretation. The words, syntax, sequence, and inherited meaning remain fixed with it. Unrestricted *laukika* composition would have to recover the intended analysis in newly created sentences without that pitch layer.
 
-The pattern makes *leṭ* a strong example of domain-specific engineering. The read-only domain can sustain greater grammatical breadth because pitch and the invariant passage keep that breadth bounded. The read-write domain operates without the Vedic pitch layer and avoids carrying a complete additional paradigm whose unique benefit is limited, whose meanings overlap with existing resources, and whose first-person forms can be identical to productive *loṭ*.
+The pattern makes *leṭ* a strong example of domain-specific engineering. The read-only domain can sustain greater grammatical breadth because pitch and the invariant passage keep that breadth bounded. The read-write domain operates without the Vedic pitch layer and avoids carrying a complete additional paradigm whose unique benefit is limited, whose meanings overlap with existing resources, and whose first-person forms can be identical to *loṭ* forms used in new composition.
 
-The surviving sources do not record the engineers' reason for keeping *leṭ* within Vedic scope. The architecture nevertheless permits a direct comparison of benefit and confusion. A reusable element must contribute enough distinctive value to justify the ambiguity and complexity it adds. *Leṭ* provides useful grammatical range inside invariant Vedic passages; across unrestricted *laukika* composition, it would repeatedly collide with forms and meanings already carried by the productive system.
+The surviving sources do not record the engineers' reason for keeping *leṭ* within Vedic scope. The architecture nevertheless permits a direct comparison of benefit and confusion. A reusable element must contribute enough distinctive value to justify the ambiguity and complexity it adds. *Leṭ* provides useful grammatical range inside invariant Vedic passages; across unrestricted *laukika* composition, it would repeatedly collide with forms and meanings already expressed through the *laukika* system.
 
 ## Sources
 
