@@ -74,7 +74,7 @@ The Abrahamic-substrate civilizations made the opposite engineering choice. Thei
 
 The Indic engineering refused the lever. The architecture did not place its *sāṃskṛtika* content on a destructible medium that an institutional intermediary could control.
 
-![Figure 13.1 — The Asuric Custody Stack. The pyramid prefers media that can be owned, dated, centralized, authorized, guarded, and interpreted by a credentialed class. Storage becomes power when custody controls correction.](figures/preservation/asuric_custody_stack.svg){#fig:ch13-asuric-custody-stack width=100%}
+![Figure 13.1 — The Asuric Custody Stack. The pyramid prefers media that can be owned, dated, centralized, authorized, guarded, and interpreted by certified intellectuals. Storage becomes power when custody controls correction.](figures/preservation/asuric_custody_stack.svg){#fig:ch13-asuric-custody-stack width=100%}
 
 That refusal also exposes the foundational dogma's script obsession. The **Western philological machinery** spends enormous energy on script chronology: when Brāhmī appears, whether it derives from Aramaic, what the earliest inscription is, which ruler's edict can be dated. It foregrounds the interface because the interface can be externally dated. Then it treats the interface as if it dates the architecture.
 

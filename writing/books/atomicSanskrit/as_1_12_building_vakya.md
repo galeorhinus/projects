@@ -34,7 +34,7 @@ The verse itself is a worked example of sentence assembly. Inside four lines it 
 
 The Vedic sentence is already doing all of this on its own: every part performs its role, the action stays visible, and the whole assembly can be traced from the surface back down to the atom.
 
-Yāska's *Nirukta* gives the hinge in four words: **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)** — names arise from actions.[NOTE: nirukta-namany-akhyatajani] Take it as a direction of sight. Sanskrit names are built from action more often than not: the atom acts first, and the name crystallizes after.
+Yāska's *Nirukta* gives the hinge in four words: **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)** — nominal words arise from verbs.[NOTE: nirukta-namany-akhyatajani] The formula describes word formation. The atom expresses an action first, and the nominal form crystallizes from it.
 
 From there the chain runs outward: the verbal molecule becomes a source of names, names take on bonds to become *padāni*, and *padāni* enter the *vākya* — a sentence that still preserves every level intact beneath it.
 

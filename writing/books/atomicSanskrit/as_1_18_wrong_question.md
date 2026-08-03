@@ -133,7 +133,7 @@ That is the inversion. The speculation is not absent. It is wearing the robes of
 ## 18.6 The Migration Trap
 
 
-The racial Arya thesis survives by changing its instruments. Invasion becomes migration. Race becomes population. Skull measurement becomes DNA. The old vocabulary becomes embarrassing, so the pyramid updates the vocabulary and keeps the custody claim: Sanskrit must still arrive from outside India.
+The racial Arya thesis survives by changing its instruments. The pyramid has crossed out ~~Caucasian~~, ~~Aryan race~~, ~~Nordic race~~, ~~cranial index~~, ~~nasal index~~, ~~conquest~~, and ~~invasion~~. It now says population, steppe ancestry, DNA, mobility, elite dominance, and migration. The vocabulary retreats. One qualification remains: Sanskrit's origin could never be Indian. The custody claim remains: Sanskrit must still arrive from outside India.
 
 > AIT was the crude form. AMT is the laundered form. **RAT is the thesis. PIE is the ancestor-device. *"Indo-Aryan"* is the custody label.**
 

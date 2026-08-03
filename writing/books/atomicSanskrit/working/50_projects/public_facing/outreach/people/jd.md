@@ -1,22 +1,22 @@
 Here's what this book is all about.
 
-I call it the first book in the Second Shanti series. You already know what Second Shanti is all about:
+I call it the first book in the Second Shanti series. You already know what Second Shanti means:
 Every civilization has an underlying *architecture*. You can see it in how the civilization preserves knowledge, organizes its economy, remembers its past, and distributes power. I think these architectures take three basic shapes.
- - The *pyramid*: a masculine apex, a few in control, everything extracted upward.
- - *Circles and cones* — the so-called "tribal" societies that are still alive in many forest, mountain, and remote-dwelling communities across the world and have traditionally coexisted in harmony with the planet.
-- The *swastika*: distributed, self-balancing, turned toward the well-being of every being, no one at the top. It lives in harmony with the planet and protects "tribal" life. What makes the swastika different from "tribal" life is that it can scale into a complex civilization without creating an apex.
+- The *pyramid*: a masculine apex, a few in control, everything extracted upward. *All* political systems in the world today are varying types of pyramids.
+- *Circles and cones* — the so-called "tribal" societies that are mostly destroyed, but a few still remain in forest, mountain, and remote-dwelling communities across the world and have traditionally coexisted in harmony with the planet.
+- The *swastika*: distributed, self-balancing, designed for the well-being of _every_ being, with no one at the top. It lives in harmony with the planet and protects "tribal" life. What makes the swastika different from "tribal" life is that it can scale, like a fractal, into a complex civilization without creating an apex. Sanskrit has preserved memories of this architecture.
 
  The basic claim is that the pyramid and the swastika are human-engineered *fractals* — the same pattern repeats at every scale. They stand in direct contrast to each other.
 
- As we have discussed before, the pyramid is threatened by the swastika. The top is insecure and always wants to expand his dominion by capturing, controlling, and coopting anyone who can be controlled — and destroying those who resist.
+ As we have discussed before, the pyramid is threatened by the swastika. The apex is insecure, jealous, and always wants to expand his dominion by capturing, controlling, and coopting anyone who can be controlled — and destroying those who resist.
 
-That makes Sanskriti — Hindu civilization — a threat to the pyramid. Sanskrit is an even bigger threat because it has preserved thousands of years of cumulative knowledge and memory with extraordinary precision.
+That makes Sanskriti — Hindu civilization — a threat to the pyramid. Sanskrit is an even bigger threat because it has preserved thousands of years of cumulative knowledge and memory of how to defeat the pyramid over and over again, with extraordinary precision.
 
 So the British tried *everything* to destroy Sanskrit. When they realized that the language was too widely distributed, and that Hindus simply would not surrender it, they changed tactics. They began gaslighting the civilization about what Sanskrit actually was. First they invented an imaginary people called Aryans who spoke an imaginary language called Proto-Indo-European (PIE). As these "Aryans" traveled towards India, PIE "evolved" into Sanskrit. You would think something this ridiculous would have collapsed by now. Instead, they have doubled down. In the last couple of decades, especially since 2017, every major digital dictionary that once traced Indo-European words to Sanskrit now redirects them to starred PIE reconstructions. The star means that the form is reconstructed and that no one has ever recorded anyone speaking it. They have written entire books about this imaginary language!
 
 So, my task is to restore Sanskrit's radiance and kill PIE.
 
-Once I show that the *language* was an engineered conlang (constructed language), it becomes easier to show that the civilization was engineered too.
+Once I show that the *language* was an engineered _conlang_ (constructed language), it becomes easier to show that the civilization was engineered too.
 
 So Sanskrit became the whole first volume: the ground floor that the rest of Second Shanti stands on.
 

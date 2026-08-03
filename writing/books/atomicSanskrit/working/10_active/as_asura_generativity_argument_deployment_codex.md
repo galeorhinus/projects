@@ -1,6 +1,6 @@
 # The *Asura* Generativity Argument — Deployment Plan (Codex)
 
-**Status:** deployed to Chapter 3 §3.6 on 2026-08-02; endnotes and Chapter 19 reconciled in the same pass
+**Status:** deployed to Chapter 3 §3.6 on 2026-08-02; endnotes and Chapter 19 reconciled in the same pass. A post-deployment evidence consolidation added the Sāmaveda Padapāṭha division ***a + surasya***, RV 6.17.8 ***a-deva***, and the corrected forty-eight-to-zero ***a-dabdha / dabdha*** corpus result. Repeated body material is preserved in `as_ch03_06_consolidation_lost_and_found_codex.md`.
 **Created:** 2026-08-01
 **Source plan:**
 `working/10_active/as_asura_generativity_argument_plan_claude.md`
@@ -20,7 +20,7 @@ The argument therefore has two joined parts:
 1. **Generativity establishes availability.** Sanskrit can generate ***asu-ra*** and ***a-sura*** without waiting for a separately stored lexical entry.
 2. **Context identifies usage.** The praised sovereign sustains and releases life; Svarbhānu pierces Sūrya with darkness. The deed tells the two words apart.
 
-The manuscript should state this directly. It should not concede a chronology in which one reading appeared after the other.
+The manuscript should state this directly. It should not concede a chronology in which one word appeared after the other.
 
 ## 2. Core Passage
 
@@ -32,7 +32,7 @@ The primary evidence is Ṛgveda 5.40.5:
 >
 > *When Svarbhānu the asura pierced you, O Sūrya, with darkness, the worlds looked about bewildered, like one who no longer knew the field.*
 
-The surface form in the verse is ***āsuraḥ***, with long **ā**, an adjectival form built from *asura*. The lengthened vowel is not itself the privative. The deployment must make the actual argument: the underlying *asura* sound-form has more than one available Sanskrit derivation, and the action in this mantra identifies the adversarial ***a-sura*** reading.
+The surface form in the verse is ***āsuraḥ***, with long **ā**, an adjectival form built from *asura*. The lengthened vowel is not itself the privative. The deployment must make the actual argument: the underlying *asura* sound-form has more than one available Sanskrit derivation, and the action in this mantra identifies the adversarial ***a-sura*** word.
 
 ## 3. Argument Sequence for the Body
 
@@ -59,7 +59,7 @@ Use this sequence wherever the complete argument appears:
 - Five of those tokens have the long-initial surface form ***āsura***.
 - Positive **āsura** contexts: RV 3.29 and RV 5.85.
 - Antagonist **āsura** contexts: RV 5.40 twice for Svarbhānu and RV 10.131 for Namuci.
-- The distribution shows that the written form alone does not carry the valence. The surrounding action identifies the active reading.
+- The distribution shows that the written form alone does not carry the valence. The surrounding action identifies the active word.
 
 These figures belong in an endnote or reference table. Chapter 3 needs only the contrast between the praised sovereign contexts and Svarbhānu.
 
@@ -129,10 +129,10 @@ Do not use Rāvaṇa for this beat. Śumbha gives the cleaner comparison because
 
 **Proposed:**
 
-> ***a-sura*** (असुर) — *the sura's opponent*: *asurāḥ suravirodhinaḥ*, "adversaries of the *suras*." This relational parse sets *asura* against *sura*. The Ṛgveda itself supplies the context in which the un-shining reading becomes active.
+> ***a-sura*** (असुर) — *the sura's opponent*: *asurāḥ suravirodhinaḥ*, "adversaries of the *suras*." This relational parse sets *asura* against *sura*. The Ṛgveda itself supplies the context in which the un-shining word becomes active.
 
 **Reason:** The current *laukika*-only assignment contradicts the proposed
-reading of Ṛgveda 5.40.5 and the later sentence that "nothing came late."
+derivation in Ṛgveda 5.40.5 and the later sentence that "nothing came late."
 
 ### D-ASURA-02 — Revise the paragraph that repeats the *laukika* assignment
 
@@ -203,11 +203,11 @@ Svarbhānu hammer. This should close the expanded demonstration in §3.6.
 
 > The continuum preserves the same distinction in Śumbha. His name belongs to a field of shining and splendour, but the *Devīmāhātmya* identifies his mode through his actions. Śumbha seizes the three worlds, appropriates the shares that flow to the Devas through yajñas, and treats Devī's radiance as another possession to be added to his domain. When she refuses him, he sends force to seize her. His brilliance gives him power; his conduct turns that power toward containment and the desire to lord over others.[NOTE: shumbha-radiant-name-containing-action]
 >
-> Sanātana evaluates what a being does with intelligence, strength, radiance, and authority. That distinction returns us to Ṛgveda 5.40.5. In the very sentence where Svarbhānu pierces Sūrya with darkness and conceals his radiance, the mantra uses ***आसुरः (*āsuraḥ*)*** to describe him. The form is built from ***असुर (*asura*)***, and his action selects the ***a-sura*** reading.
+> Sanātana evaluates what a being does with intelligence, strength, radiance, and authority. That distinction returns us to Ṛgveda 5.40.5. In the very sentence where Svarbhānu pierces Sūrya with darkness and conceals his radiance, the mantra uses ***आसुरः (*āsuraḥ*)*** to describe him. The form is built from ***असुर (*asura*)***, and his action selects the ***a-sura*** word.
 >
 > **The antagonist, the *a-sura*, uses those capacities to withhold what should flow, possess what cannot be owned, and subordinate other beings to his will.**
 >
-> In what universe would anyone read Svarbhānu, whose stated action is to hide the Sun's radiance, as ***asu-ra***, the bearer of life-force, rather than ***a-sura***, the figure acting against radiance? Only inside the fertile imagination of a philology determined to make the word contradict the mantra in which it appears.
+> In what universe would anyone identify Svarbhānu, whose stated action is to hide the Sun's radiance, as ***asu-ra***, the bearer of life-force, rather than ***a-sura***, the figure acting against radiance? Only inside the fertile imagination of a philology determined to make the word contradict the mantra in which it appears.
 
 During deployment, avoid saying that the printed long **ā** in ***āsuraḥ*** is the privative itself. The prose can print the interpretive form ***a-sura***; the attached note must explain the surface morphology.
 
@@ -230,6 +230,189 @@ the two words untangled."
 
 **Proposed:** retain this paragraph. If D-ASURA-05 ends with "nothing came
 late," remove that repeated sentence from one location during the coherence pass.
+
+## 5-NEW (Claude) — Reorganized §3.6: truth-first, three-act (your language preserved)
+
+*Approach: your §3.6 sentences moved as blocks into the **truth-first / crime-named-first / verdict-last** order — **I Reframe** (opener → Yāska + Padapāṭha → action-not-faction), **II Evidence** (life-bearing asu-ra → containing a-sura), **III Prosecution** (the pyramid's fusion + timeline, relocated here → two-words/generativity → the attestation trick with a-deva & a-dabdha → what the conflation buys → verdict). **Nothing is reworded.** ⟢ **FLOW** = a seam; ⟢ **REPEAT** = a redundancy to consolidate. Every flag is yours.*
+
+---
+
+## 3.6 The Asura Analysis: Action, not Faction
+
+English, like Sanskrit and many other languages, includes words that sound and look identical while describing opposite actions. A captive lies *bound* to a chair. A hare *bounds* across a field. Ropes hold the captive in one place while the hare leaps freely, yet the same sound-form appears in both sentences. No English speaker confuses the two because each sentence describes an action that identifies which word the speaker used.
+
+The pyramid's decree asks the reader to abandon that ordinary clarity when the word is **असुर (*asura*)** because the obvious distinction would destroy its imaginary chronology and Racial Arya Thesis.
+
+⟢ **FLOW (opener).** Already truth-first (lens → crime named). Optional prepend to name the *taught falsehood* first (my draft — your call): *Most readers have been taught something false about asura: that the word 'changed its meaning', from 'lord' in the oldest hymns to 'demon' in the later ones. It did not.* Then your *bound / bounds* sentences follow unchanged.
+
+#### Yāska Connects Nominal Words to Verbal Actions
+
+
+Yāska records a principle of Sanskrit word formation: **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)** — nominal words arise from verbs. The principle explains how Sanskrit derives a nominal word from the action expressed by a *dhātuḥ*.[NOTE: nirukta-nominal-words-from-actions]
+
+Two of Yāska's explanations of *asura* are exactly what anyone familiar with Sanskrit would see:
+
+1. ***asu-ra***, the bearer of **असु (*asu*)**, life's breath;
+2. ***a-sura***, against *sura*: ***asurāḥ suravirodhinaḥ***, "the *asuras* are adversaries of the *suras*."[NOTE: yaska-asura-nirukta]
+
+Yāska explains what the word means. The Kauthuma Sāmaveda Padapāṭha shows how the word divides: ***असुरस्य (*asurasya*)*** becomes ***अ + सुरस्य (*a + surasya*)***. Yāska explains the opposition; the Padapāṭha separates the word into its two parts.[NOTE: samaveda-padapatha-asurasya-split]
+
+The mantra then identifies which same-sounding word is active in the sentence. When Indra protects life and gives strength, his action identifies ***asu-ra***, the bearer of life's breath. When Svarbhānu covers Sūrya with darkness, his action identifies ***a-sura***, the figure acting against radiance.
+
+Two words, two etymologies, one sound-form.
+
+⟢ **FLOW (Yāska moved up — was subsection 4).** It now follows the opener, so 'Two words, two etymologies, one sound-form' lands as the reframe before the civilizational frame. Clean hinge — 135's 'the obvious distinction' is exactly what Yāska + the Padapāṭha supply. (I placed Yāska *before* Faction for truth-first; swap back if you prefer frame-then-words.)
+
+⟢ **PADAPĀṬHA emphasis (your question).** Line 176 already gives **equal billing with the Padapāṭha as the clincher** — 'Yāska explains the opposition; the Padapāṭha separates the word into its two parts.' Recommend keeping equal, not padapāṭha-over-Yāska: Yāska carries the *anekaśabda* + the names-from-actions method; the Padapāṭha is the sharper *morphological* witness. Optional elevation (ties to śruti-primacy): note the Padapāṭha is a **recitation** discipline — the mouth itself divides *a + surasya*. Your call.
+
+#### How Faction Hides Action
+
+
+The pyramid recasts the Vedic encounters as battles between rival factions. It describes one tribe defeating another, one group praising Indra and Varuṇa while another opposes them, or one collection of supernatural beings displacing its competitors. Once the pyramid has framed the conflict this way, the protagonists and antagonists become two sides competing for power. The distinction between ***सत् (sat)*** and ***असत् (asat)*** disappears.
+
+The Vedas preserve that distinction with absolute clarity. Indra and Varuṇa are protagonists because they protect life, release what has been withheld, and restore the conditions in which the world can flourish. Svarbhānu conceals the Sun. Pipru encloses wealth behind fortified gates. Varcin and Śambara convert abundance into private power. Namuci refuses release.
+
+Their *faction* does not decide their place in the mantra.
+
+Their **actions** do.
+
+The same conflict continues across every age. It is the conflict between light and darkness, circulation and containment, the swastika and the pyramid. The swastika distributes power through a living and balanced order. The pyramid encloses power at its apex and forces everyone else to approach through its gates. Sanātana evaluates every actor by the architecture that his actions support.
+
+⟢ **REPEAT (verdict ×2).** 'Sanātana evaluates every actor by the architecture that his actions create' (here) ≈ the closing 'Sanātan evaluates the action, not the faction.' Suggest let the verdict land once, at the close; end this paragraph at '…approach through its gates.' Your call.
+
+⟢ **REPEAT (preview vs. detail).** The antagonist list here (Svarbhānu, Pipru, Varcin, Śambara, Namuci) previews the figures Act II details. Fine as setup; leaner option: name only Indra/Varuṇa + Svarbhānu here. Your call.
+
+#### The Life-Bearing *Asu-ra*
+
+
+The Ṛgveda calls Indra *asura* while he protects his people and gives them strength:
+
+> त्वं राजेन्द्र ये च देवा रक्षा नॄन्पाह्यसुर त्वमस्मान् ।\
+> त्वं सत्पतिर्मघवा नस्तरुत्रस्त्वं सत्यो वसवानः सहोदाः ॥
+>
+> *"You, Indra, are king; the devāḥ are subject to you. Guard our men, O asura, protect us. You are the lord of the good, the deliverer, the giver of strength."* (RV 1.174.1)[NOTE: rv-1-174-1-indra-asura]
+
+The Ṛgveda calls Varuṇa *asura* while he releases a life from what binds it:
+
+> अव ते हेळो वरुण नमोभिरव यज्ञेभिरीमहे हविर्भिः ।\
+> क्षयन्नस्मभ्यमसुर प्रचेता राजन्नेनांसि शिश्रथः कृतानि ॥
+>
+> *"With obeisance, with sacrifice, with oblation we soften your wrath, O Varuṇa. Ruling over us, O wise asura, O king, loosen from us the wrongs we have committed."* (RV 1.24.14)[NOTE: rv-1-24-14-varuna-asura]
+
+Indra protects life and gives strength. Varuṇa loosens what has bound life. Their sovereignty serves **लोकक्षेम (*lokakṣema*)**, the well-being of the world. In these mantras, ***asura*** is ***asu-ra***, the bearer of ***asu***, life's breath.
+
+#### The Containing *A-sura*
+
+
+The Ṛgveda also uses *asura* or *āsura* for named antagonists. Pipru is the *asura* and ***māyin*** behind fortified enclosures in Ṛgveda 10.138.3. Indra and Viṣṇu defeat the forces of the *asura* Varcin in Ṛgveda 7.99.5. Ṛgveda 10.131.4 calls Namuci ***āsura***; his name identifies the one who does not release. Svarbhānu darkens the Sun in Ṛgveda 5.40.5.[NOTE: rigvedic-named-antagonist-asuras]
+
+Their names do not determine their conduct.
+
+Varcin bears **वर्चस् (*varcas*)**, brilliance, in his name. Svarbhānu carries ***svar*** and ***bhānu***, radiance, in his. Their actions still identify them as antagonists. A name may describe a capacity, title, or appearance. Sanātan evaluates what a being does with that capacity.
+
+Svarbhānu supplies the clearest example:
+
+> यत्त्वा सूर्य स्वर्भानुस्तमसाविध्यदासुरः ।\
+> अक्षेत्रविद्यथा मुग्धो भुवनान्यदीधयुः ॥
+>
+> *yat tvā sūrya svarbhānus tamasāvidhyad āsuraḥ |*\
+> *akṣetravid yathā mugdho bhuvanāny adīdhayuḥ ||*
+>
+> *"When Svarbhānu the asura pierced you, O Sūrya, with darkness, the worlds looked about bewildered, like one who no longer knew the field."*[NOTE: rigveda-5-40-5-svarbhanu-eclipse]
+
+The verse uses ***आसुरः (*āsuraḥ*)***, which Sanskrit derives from ***असुर (*asura*)***. The long **ā** belongs to that derivative form; it does not determine how Sanskrit forms the underlying word.
+
+The *action* does.
+
+Svarbhānu pierces Sūrya with darkness, conceals his radiance, and leaves the worlds unable to find their field. The mantra describes the figure representing un-shining/darkness while he acts against radiance.
+
+In what universe would anyone view Svarbhānu here as ***asu-ra***, the bearer of life-force, rather than ***a-sura***, the figure acting against radiance?
+
+Only inside the fertile imagination of a philology determined to hide the radiance of the Vedas.
+
+Exactly like Svarbhānu.
+
+#### The Pyramid Invents One Word and an Imaginary Timeline
+
+
+Historical linguists on the pyramid's payroll construct their story in three stages.
+
+First, the pyramid imagines a PIE form ***h₂ḿ̥suros***, spoken by imaginary people of the ~~Caucasian~~ unspecified, but definitely *not* Indian race, speaking an imaginary language filled with imaginary words similar to ***h₂ḿ̥suros***. At some very specific point that fits the Abrahamic timeline, these imaginary people wander eastward. One branch carries *ahura* toward present-day Iran; the other carries *asura* into northwestern India.[NOTE: asura-standard-semantic-reversal-account]
+
+Several mantras in the Ṛgveda describe Indra and Varuṇa as *asuras* while they act as protagonists. Other mantras call Svarbhānu, Namuci, Pipru, and Varcin *asuras* while they act as antagonists.[NOTE: rv-agni-mitra-rudra-asura][NOTE: rigvedic-named-antagonist-asuras]
+
+Second, the pyramid claims that the same word *asura* changed its meaning over time and calls this supposed change a *semantic reversal*.
+
+The pyramid isolates Maṇḍalas Two through Seven as the oldest core of the Ṛgveda in its imagined chronology. Yet the Veda places both forms squarely inside that core. Maṇḍala Five features Svarbhānu the *āsura* darkening the Sun. Two hymns later, the same Maṇḍala addresses Rudra as both ***देव (*deva*)*** and ***असुर (*asura*)***: ***नमोभिर्देवमसुरं दुवस्य (*namobhir devam asuraṃ duvasya*)***. Maṇḍala Seven hails the protecting Mitra and Varuṇa as ***देवानामसुरा (*devānām asurā*)***, then names the defeated Varcin an *asura*. The protagonist *asura* and the antagonist *asura* operate simultaneously.[NOTE: asura-old-mandalas-coexistence]
+
+The pyramid cannot accept this coexistence, because simultaneous existence weakens semantic reversal. If both are present, nothing reversed. To keep the theory clean, it decrees that every asura must be a single inherited word. It re-labels their visible coexistence a "transition," flattens that transition into an imaginary timeline, and then cites the same imaginary timeline as proof that the word changed. The evidence did not produce the semantic reversal. The demand for a semantic reversal rearranged the evidence.
+
+Third, the pyramid claims that *sura* “later” came to mean “divinity,” while ignoring the atom ⟪सुर्⟫, which means “to shine” or “to be radiant,” and the parallel atom ⟪दिव्⟫, from which Sanskrit forms ***deva***. Hundreds of Rigvedic mantras use ***deva***, while English ***divinity*** belongs to the same inherited field of radiance.[NOTE: deva-sur-div-radiance-field] Sanskrit speakers then supposedly reinterpret the already antagonistic *asura* as ***a-sura***, "not-radiant." The pyramid places that derivation last because it cannot allow a Rigvedic antagonist to be the ***a-sura*** representing darkness. The Racial Arya Thesis needs one inherited word to travel into India and change its meaning here.
+
+By describing Sanskrit as a *drifting* natural language, the pyramid pre-emptively disqualifies Sanskrit's generative architecture. It refuses to recognize that Sanskrit can derive two different words with the same sound-form. After rejecting that possibility, it also refuses to let the action described inside the mantra, such as Svarbhānu darkening the Sun, identify which word the verse uses.
+
+⟢ **HEADING (optional).** In its Act III placement, 'The Pyramid Invents One Word and an Imaginary Timeline' could become 'The Pyramid Fuses Two Words Into One.' Heading kept — your call.
+
+⟢ **REPEAT (coexistence re-lists Act II).** In the new order this beat re-names Svarbhānu, Rudra, Mitra/Varuṇa, Varcin — whom Act II just detailed. Suggest tighten to the *chronology* point ('both forms operate inside the maṇḍalas the pyramid calls its oldest core') and cross-reference Act II, keeping 'nothing reversed … the demand rearranged the evidence' intact. Your call.
+
+⟢ **REPEAT (single-inherited-word claim, now adjacent).** 'every asura must be a single inherited word' (this block, ~149) and 'presses them into one inherited word' (What the Conflation Buys, ~258) now sit in the same act. Keep the sharper and trim the echo. Your call.
+
+#### Two Words, One Sound-Form
+
+
+Sanskrit derives the sound-form ***asura*** through two separate operations. The first begins with **असु (*asu*)**, life's breath, and forms ***asu-ra***, the bearer of life. The second places the privative **अ (*a-*)** before ***sura***, radiant, and forms ***a-sura***, the figure acting against radiance.
+
+The Ṛgveda already contains a dense family of words associated with light and radiance: ***svar, sūrya, sūri,*** and ***sūra***. The grammatical continuum also preserves **⟪षुर्⟫**, which appears as **⟪सुर्⟫**, with the meanings **ऐश्वर्यदीप्त्योः (*aiśvarya-dīptyoḥ*)** — sovereignty and shining.[NOTE: sura-dhatu-dipti]
+
+Sanskrit produces the same convergence in **अज (*aja*)**. One ***aja*** comes from **⟪अज्⟫ (*aj*, to drive)**: ***aj-a***, the driven one, the goat. The other comes from the privative ***a-*** and ***ja***, born: ***a-ja***, the Unborn of the Gītā. Two different derivations generate one sound-form.[NOTE: nanartha-homonymy]
+
+Thankfully, the imaginary people speaking an imaginary language were not also herding imaginary sheep and goats. Otherwise, the pyramid might have imagined the goat gradually transforming into the deathless Self.
+
+***Asu-ra*** and ***a-sura*** are no different. One sound-form carries two separately generated Sanskrit words. No semantic reversal is required.
+
+⟢ **REPEAT (two-operations stated twice).** This section's opening ('Sanskrit derives the sound-form asura through two separate operations … asu-ra … a-sura') restates the two derivations already given in the Yāska/Padapāṭha beat. Suggest open this section directly on the shine-field + *aja/a-ja* (its non-overlapping content) and let Yāska carry the first statement. Your call.
+
+⟢ **FLOW (aja/a-ja).** Could move up to join *bound / bounds* in Act I (consolidating the lens), with a callback here; or stay (doubles as a generativity example). Left in place — your call.
+
+#### The Pyramid's Attestation Trick
+
+
+The pyramid loves to *attest* things. Because standalone ***sura*** does not appear in the Ṛgveda, it decrees that the Veda could not possibly generate ***a-sura***. It treats Sanskrit like a dictionary of approved terms rather than a generative architecture.
+
+The Ṛgveda first demonstrates the privative operation by placing **अदेव (*a-deva*)** and ***deva*** in the same line:
+
+> अदेवो यदभ्यौहिष्ट देवान् ।
+>
+> *adevo yad abhy auhiṣṭa devān*
+>
+> *"When the a-deva attacked the devāḥ."*[NOTE: rigveda-adeva-privative]
+
+The evidence from **अदब्ध (*a-dabdha*)** goes further. The Ṛgveda uses the privative ***a-dabdha*** forty-eight times, while independent **दब्ध (*dabdha*)** appears exactly zero times.[NOTE: rigveda-privative-generativity] The positive form does not appear independently anywhere in the Ṛgveda, yet Sanskrit generates and uses its privative form repeatedly.
+
+The pyramid is incensed to discover that the Veda failed to seek approval from its attestation committee.
+
+Sarcasm aside, the Vedas use this exact generative engine. They have themselves remained **अदब्धाः (*adabdhāḥ*)** — inviolable — ever since their mantras were first seen.
+
+#### What the Conflation Buys
+
+
+While demanding attestation from Sanskrit’s generative architecture and requiring a separately recorded ***sura*** before certifying ***a-sura***, the pyramid grants itself thousands of starred PIE sound-forms without a *single* recorded sentence. It invents imaginary words from an imaginary natural language spoken by an unspecified (but definitely *not* Indian) race, while denying a formation that Sanskrit's own architecture supplies and the action of the mantra identifies.[NOTE: asura-generativity-pie-double-standard]
+
+That double standard protects the chronology. When ***asu-ra*** and ***a-sura*** remain separate, the Racial Arya Thesis loses one of its invented chronologies. The pyramid therefore presses them into one inherited word. That conflation gives the pyramid a semantic reversal, lets it declare the Iranian comparison older, feeds it into Zoroaster's doctrinal reversal, and adds another branch to the Racial Arya Thesis.
+
+Western philologists possessed every part of the evidence. The Veda supplied the luminous field. The grammatical continuum preserved **⟪सुर्⟫** in the field of shining. Western philologists knew Sanskrit's privative architecture. The mantra described Svarbhānu piercing Sūrya with darkness. The pyramid still forced the two words into one timeline because its racial and linguistic narrative required the reversal.
+
+Indra and Varuṇa protect, sustain, and release. In those mantras, ***asura*** is ***asu-ra***, the bearer of ***asu***, life's breath.
+
+Svarbhānu conceals radiance, while Namuci withholds and refuses release. In those mantras, ***asura*** is ***a-sura***, the containing antagonist representing darkness.
+
+The protagonists act through ***sat***, radiance, circulation, and the distributed architecture of the swastika. The antagonists act through ***asat***, darkness, containment, and the enclosing architecture of the pyramid.
+
+**Sanātan evaluates the action, not the faction.**
+
+⟢ **REPEAT (shine-field ×2).** 'preserved सुर् in the field of shining' + 'the luminous field' (this block, ~260) re-lists the *svar/sūrya/sūri/sūra* + सुर् shown in 'Two Words, One Sound-Form.' Suggest cross-reference rather than re-list. Your call.
+
+⟢ **REPEAT (closing re-gloss).** 262–264 re-gloss *asu-ra* (Indra/Varuṇa) and *a-sura* (Svarbhānu/Namuci) — the assignment Act II already made (and 196/216). Suggest compress to the *sat/asat* + swastika/pyramid verdict (266) and the final hammer (268), dropping the re-gloss. Your call.
 
 ## 5A. Old Complete Proposed Revision of Chapter 3 §3.6
 
@@ -271,7 +454,7 @@ use - The wise of the wiser ages foresaw that the *Kaliyuga* (कलियुग
 
 use - The analysts also distinguished one word with several meanings from several words that happen to share one sound-form. The second relation is **अनेकशब्द (*anekaśabda*)**, many words. **अज (*aja*)** can be the goat, *the driven one*, from **⟪अज्⟫ (*aj*, *to drive*)**, while ***a-ja*** is the Unborn of the Gītā, a privative formation from **⟪जन्⟫ (*jan*, *to be born*)**. A *dhātu*-derivation and a privative share the same sound-form, yet no one claims that the goat became the deathless Self. English *bound* follows the same principle: two words share one form without one meaning having reversed into its opposite. The two *asuras* belong to this second relation.[NOTE: nanartha-homonymy]
 
-use - Yāska places action at the center of his method. **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)** — names arise from actions. A name becomes intelligible through what its bearer does.[NOTE: nirukta-names-from-actions]
+use - Yāska records a principle of Sanskrit word formation: **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)** — nominal words arise from verbs. Here ***nāmāni*** means nouns or nominal words, not the proper names borne by individual actors.[NOTE: nirukta-nominal-words-from-actions]
 
 use - #### The Life-Bearing Protagonists
 
@@ -309,7 +492,7 @@ Yāska preserves the alternatives. The action described in a mantra tells the li
 
 Before turning to any later grammatical source, we can establish the meaning *to shine* from the Ṛgveda itself. The Veda repeatedly uses a family of words associated with light and radiance: ***svar, sūrya, sūri,*** and ***sūra***. The grammatical continuum also preserves **⟪षुर्⟫**, realized as **⟪सुर्⟫**, with the meanings **ऐश्वर्यदीप्त्योः (*aiśvarya-dīptyoḥ*)** — sovereignty and shining. The inherited *Dhātupāṭha* records this atom. Pāṇini's documentation presupposes the inventory and uses it; he does not claim to have created it.[NOTE: sura-dhatu-dipti]
 
-The pyramid tries to escape the derivation by pointing out that standalone *sura* does not appear in the surviving Ṛgveda. Sanskrit's generative architecture makes that objection meaningless. A generated word does not need to appear by itself before another operation can use it. The Ṛgveda uses ***अदब्ध (*a-dabdha*)***, "undeceived" or "inviolable," dozens of times, while VedaWeb 1.0 contains no independent ***दब्ध (*dabdha*)*** lemma.[NOTE: rigveda-privative-generativity] Sanskrit can therefore generate the privative formation whether or not the positive word happens to survive by itself. The sentence tells the listener which generated word is being used.
+The pyramid tries to escape the derivation by pointing out that standalone *sura* does not appear in the Ṛgveda. Sanskrit's generative architecture makes that objection meaningless. A generated word does not need to appear by itself before another operation can use it. The Ṛgveda uses ***अदब्ध (*a-dabdha*)***, "undeceived" or "inviolable," dozens of times, while VedaWeb 1.0 contains no independent ***दब्ध (*dabdha*)*** lemma.[NOTE: rigveda-privative-generativity] Sanskrit can therefore generate the privative formation whether or not the positive word occurs by itself. The sentence tells the listener which generated word is being used.
 
 The same pyramid that invents thousands of starred PIE sound-forms without a single surviving sentence refuses to recognize a word generated by Sanskrit's own architecture. It accepts imaginary words from an imaginary natural language, then demands a separate dictionary entry before Sanskrit may form ***a-sura***. The pyramid accepts one standard for PIE and imposes another on Sanskrit because the Sanskrit derivation destroys the chronology it needs.
 
@@ -337,7 +520,7 @@ The continuum preserves the same distinction in Śumbha. His name echoes **⟪�
 
 The verse uses ***आसुरः (*āsuraḥ*)***, an adjectival form built from ***असुर (*asura*)***. The long **ā** belongs to that derivative form; it does not decide whether the underlying word is ***asu-ra*** or ***a-sura***. The action decides. Svarbhānu pierces Sūrya with darkness, conceals his radiance, and leaves the worlds unable to find their field. The mantra describes the un-shining figure while he acts against radiance.
 
-In what universe would anyone read Svarbhānu here as ***asu-ra***, the bearer of life-force, rather than ***a-sura***, the figure acting against radiance? Only inside the fertile imagination of a philology determined to make the word contradict the mantra in which it appears.
+In what universe would anyone identify Svarbhānu here as ***asu-ra***, the bearer of life-force, rather than ***a-sura***, the figure acting against radiance? Only inside the fertile imagination of a philology determined to make the word contradict the mantra in which it appears.
 
 **The antagonist, the *a-sura*, uses intelligence, strength, radiance, and sovereignty to withhold what should flow, possess what cannot be owned, and subordinate other beings to his will.**
 
@@ -414,15 +597,15 @@ The same conflict continues across every age. It is the conflict between light a
 
 Later Second Shanti volumes build on this foundational and architectural contrast between these two opposing systems.
 
-#### Yāska Begins With Action
+#### Yāska Connects Nominal Words to Verbal Actions
 
-Yāska places action at the center of his method: **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)** — names arise from actions. A name becomes intelligible through what its bearer does.[NOTE: nirukta-names-from-actions]
+Yāska records a principle of Sanskrit word formation: **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)** — nominal words arise from verbs. Here ***nāmāni*** means nouns or nominal words, not the proper names borne by Indra, Svarbhānu, or Namuci. The principle explains how Sanskrit derives a nominal word from the action expressed by a *dhātuḥ*.[NOTE: nirukta-nominal-words-from-actions]
 
 Two of Yāska's etymologies for asura are exactly what anyone familiar with sanskrit would see. 
  1. ***asu-ra***, the bearer of **असु (*asu*)**, life's breath. Another 
  2. ***a-sura***, against *sura*: ***asurāḥ suravirodhinaḥ***, "the asuras are adversaries of the suras."[NOTE: yaska-asura-nirukta]
 
-The mantra provides the context. When Indra protects life and gives strength, his action identifies ***asu-ra***, the bearer of life's breath. When Svarbhānu covers Sūrya with darkness, his action identifies ***a-sura***, the figure acting against radiance. The deed described in each mantra tells the listener which Sanskrit word is active in that sentence. Just like the bound captive and the hare that bounds. Two words, two etymologies, same sound.
+The mantra then identifies which same-sounding word is active in the sentence. When Indra protects life and gives strength, his action identifies ***asu-ra***, the bearer of life's breath. When Svarbhānu covers Sūrya with darkness, his action identifies ***a-sura***, the figure acting against radiance. Two words, two etymologies, one sound-form.
 
 #### The Life-Bearing *Asu-ra*
 
@@ -471,17 +654,17 @@ Svarbhānu supplies the clearest example:
 
 The verse uses ***आसुरः (*āsuraḥ*)***, which Sanskrit derives from ***असुर (*asura*)***. The long **ā** belongs to that derivative form; it does not determine how Sanskrit forms the underlying word. The action does. Svarbhānu pierces Sūrya with darkness, conceals his radiance, and leaves the worlds unable to find their field. The mantra describes the figure representing un-shining/darkness while he acts against radiance.
 
-In what universe would anyone read Svarbhānu here as ***asu-ra***, the bearer of life-force, rather than ***a-sura***, the figure acting against radiance? Only inside the fertile imagination of a philology determined to make the word contradict the mantra in which it appears.
+In what universe would anyone identify Svarbhānu here as ***asu-ra***, the bearer of life-force, rather than ***a-sura***, the figure acting against radiance? Only inside the fertile imagination of a philology determined to make the word contradict the mantra in which it appears.
 
-Namuci strengthens the same action-based reading through containment. He withholds and refuses release. Svarbhānu conceals radiance; Namuci withholds what should flow. In these antagonist passages, ***asura*** is ***a-sura***, the un-shining and containing figure.
+Namuci strengthens the same action-based identification through containment. He withholds and refuses release. Svarbhānu conceals radiance; Namuci withholds what should flow. In these antagonist passages, ***asura*** is ***a-sura***, the un-shining and containing figure.
 
 #### Sanskrit Can Generate Both Words
 
 Sanskrit can generate both words through two different operations. It can form ***asu-ra***, the bearer of life's breath, from ***asu***. It can also place the privative ***a-*** before ***sura***, radiant, to form ***a-sura***, not-radiant. The two derivations produce separate words with the same sound-form. The Ṛgveda itself contains a dense family of words that name light and radiance: ***svar, sūrya, sūri,*** and ***sūra***. The grammatical continuum also preserves **⟪षुर्⟫**, which appears as **⟪सुर्⟫**, with the meanings **ऐश्वर्यदीप्त्योः (*aiśvarya-dīptyoḥ*)** — sovereignty and shining. The inherited *Dhātupāṭha* records this atom. Pāṇini's documentation presupposes the inventory and uses it.[NOTE: sura-dhatu-dipti]
 
-Pyramids love to *attest* things — even words. In historical linguistics, *attested* simply means that a form survives in a recorded source. The pyramid turns that limited statement about the surviving archive into a ruling about what Sanskrit could generate. Because standalone *sura* does not appear in the surviving Ṛgveda, the pyramid claims that the Veda could not have formed ***a-sura***. That demand treats Sanskrit as a stored list of approved words rather than a generative architecture capable of producing them.
+Pyramids love to *attest* things — even words. In historical linguistics, *attested* simply means that a form appears in a recorded source. The pyramid turns that limited statement about the corpus into a ruling about what Sanskrit could generate. Because standalone *sura* does not appear in the Ṛgveda, the pyramid claims that the Veda could not have formed ***a-sura***. That demand treats Sanskrit as a stored list of approved words rather than a generative architecture capable of producing them.
 
-The absence of standalone *sura* from the surviving Ṛgveda does not prevent Sanskrit from generating ***a-sura***. The Veda repeatedly uses privative words whose positive forms do not appear independently in the same surviving corpus. **अदब्ध (*a-dabdha*)**, "undeceived" or "inviolable," appears dozens of times, while VedaWeb 1.0 contains no independent **दब्ध (*dabdha*)** lemma.[NOTE: rigveda-privative-generativity]
+The absence of standalone *sura* from the Ṛgveda does not prevent Sanskrit from generating ***a-sura***. The Veda repeatedly uses privative words whose positive forms do not appear independently in the same corpus. **अदब्ध (*a-dabdha*)**, "undeceived" or "inviolable," appears dozens of times, while VedaWeb 1.0 contains no independent **दब्ध (*dabdha*)** lemma.[NOTE: rigveda-privative-generativity]
 
 An English speaker understands a newly generated word such as *cloudify* without first finding it in a dictionary. Sanskrit possesses a far more powerful generative architecture. A word that Sanskrit generates through that architecture does not need an earlier independent occurrence before Sanskrit can use it in another operation. The architecture supplies the available words, and the sentence identifies which one the speaker uses.
 
@@ -491,7 +674,7 @@ The same distinction appears in **अज (*aja*)**. One ***aja*** can be the goa
 
 The pyramid grants itself thousands of starred PIE sound-forms without a single surviving sentence, then demands a separately recorded *sura* before Sanskrit may generate ***a-sura***. It accepts imaginary words from an imaginary natural language while denying a formation that Sanskrit's own architecture supplies and the action of the mantra identifies.[NOTE-TO-CREATE: asura-generativity-pie-double-standard]
 
-That double standard protects the chronology. When ***asu-ra*** and ***a-sura*** remain separate, the Racial Arya Thesis loses one of its invented chronologies. The pyramid therefore presses them into one inherited word. That conflation gives the pyramid a semantic reversal, lets it declare the Iranian comparison older, manufactures an Indo-Iranian religious division, and adds another branch to the Racial Arya Thesis.
+That double standard protects the chronology. When ***asu-ra*** and ***a-sura*** remain separate, the Racial Arya Thesis loses one of its invented chronologies. The pyramid therefore presses them into one inherited word. That conflation gives the pyramid a semantic reversal, lets it declare the Iranian comparison older, feeds it into Zoroaster's doctrinal reversal, and adds another branch to the Racial Arya Thesis.
 
 Western philologists possessed every part of the evidence. The Veda supplied the luminous field. The grammatical continuum preserved **⟪सुर्⟫** in the field of shining. Western philologists knew Sanskrit's privative architecture. The mantra described Svarbhānu piercing Sūrya with darkness. The pyramid still forced the two words into one timeline because its racial and linguistic narrative required the reversal.
 
@@ -513,7 +696,7 @@ All approved markers have been converted to `[NOTE: ...]`, and the corresponding
 
 #### `asura-standard-semantic-reversal-account`
 
-**Status:** created and deployed.
+**Status:** created, strengthened with direct comparative sources, and deployed.
 
 Quote the standard account rather than paraphrasing it alone. Include Monier-Williams's exact statement that ***sura*** is “probably from *asura* as if from *a-sura*” and his English rendering “a god, divinity, deity.” Add representative statements from Hale, Mayrhofer, Macdonell, or another named historical linguist for the proposed development from a Rigvedic title meaning “lord” or “powerful being” to an antagonist class. Include the claimed *asura–ahura* relationship and identify which parts are direct quotations and which parts summarize the larger reconstruction.
 
@@ -525,11 +708,11 @@ Quote a representative source that classifies Maṇḍalas 2–7 as the oldest o
 
 #### `deva-sur-div-radiance-field`
 
-**Status:** created and deployed.
+**Status:** created and deployed. The VedaWeb count has been reproduced and saved as `analysis/asura/count_rigvedic_deva.py`: 1,646 exact ***deva*** tokens across 1,467 mantras; Maṇḍalas Five and Seven contain 111 and 130 tokens across 100 and 120 mantras respectively.
 
 Provide the exact *Dhātupāṭha* entry **षुर् ऐश्वर्यदीप्त्योः** and a stable source for **⟪दिव्⟫** and the internal derivation of ***deva***. Document the VedaWeb lemma count used in this argument: forms of ***deva*** occur in 100 mantras in Maṇḍala 5 and 120 in Maṇḍala 7. State that this is a computed lemma count, list the corpus version and query, and exclude compounds unless separately counted. Provide the Latin and English path for ***divine/divinity***. Present the direction from Sanskrit's radiance into English as the book's Radiance Thesis wherever the external etymological source instead reconstructs PIE.
 
-#### `nirukta-names-from-actions` and `yaska-asura-nirukta`
+#### `nirukta-nominal-words-from-actions` and `yaska-asura-nirukta`
 
 **Status:** existing notes verified and reconciled with the deployed argument.
 
@@ -552,6 +735,18 @@ Save a reproducible corpus query for ***a-dabdha*** and bare ***dabdha***, verif
 **Status:** created and cross-linked with the existing PIE reconstruction note.
 
 Quote a standard comparative-linguistics source explaining that an asterisk marks a reconstructed form that does not survive in a recorded source. Cite the PIE lexicon or database used for the book's count of reconstructed forms. The note should establish the evidentiary asymmetry without repeating the full Chapter 18 and Chapter 19 argument.
+
+#### `asura-factional-framing`
+
+**Status:** created and deployed.
+
+Kuiper's "older gods," "younger gods," and "polarization" account and Insler's summary of opposing asura and daiva groupings document the factional vocabulary challenged by §3.6.
+
+#### `zoroaster-daeva-ahura-doctrinal-reversal`
+
+**Status:** created and deployed.
+
+Yasna 32.3 supplies the Gāthic rejection of the *daēvas*. Yasna 12.1 supplies the later confessional pairing of rejecting the *daēvas* with following the Ahuric doctrine; the note explicitly keeps that later formula distinct from Zoroaster's own words.
 
 ## 6. Chapter 2 Cross-Link
 
@@ -579,7 +774,7 @@ documents two engineered forms; the other bakes one ancestor to avoid them."
 
 **New prose:**
 
-> The same fertile minds have invented thousands of starred PIE forms that have no surviving occurrence anywhere, then assembled those imaginary sound-images into an imaginary natural language spoken by imaginary people. Yet they refuse to recognize the obvious meaning generated inside Sanskrit's documented architecture and selected by the action of the mantra itself. Their imaginary language receives an unlimited license to generate words that no human being ever heard, while Sanskrit, one of the most generative languages ever engineered, is denied the ability to generate ***a-sura*** precisely where Svarbhānu opposes the Sun with darkness. The double standard protects the invention by suppressing the reading already shining in the verse.[NOTE: asura-generativity-pie-double-standard]
+> The same fertile minds have invented thousands of starred PIE forms that have no recorded occurrence anywhere, then assembled those imaginary sound-images into an imaginary natural language spoken by imaginary people. Yet they refuse to recognize the obvious meaning generated inside Sanskrit's documented architecture and selected by the action of the mantra itself. Their imaginary language receives an unlimited license to generate words that no human being ever heard, while Sanskrit, one of the most generative languages ever engineered, is denied the ability to generate ***a-sura*** precisely where Svarbhānu opposes the Sun with darkness. The double standard protects the invention by suppressing the derivation already shining in the verse.[NOTE: asura-generativity-pie-double-standard]
 
 ### D-ASURA-09 — Do not repeat the full argument elsewhere
 
@@ -595,7 +790,7 @@ The Preface already prints Ṛgveda 5.40.5 and describes Svarbhānu piercing Sū
 
 Update the existing `rigveda-5-40-5-svarbhanu-eclipse` endnote with one forward sentence:
 
-> Chapter 3 §3.6 returns to **āsuraḥ** in this verse and explains why Svarbhānu's act of darkening Sūrya activates the ***a-sura*** reading rather than the praised ***asu-ra*** reading found elsewhere in the Ṛgveda.
+> Chapter 3 §3.6 returns to **āsuraḥ** in this verse and explains why Svarbhānu's act of darkening Sūrya activates the ***a-sura*** word rather than the protagonist ***asu-ra*** word found elsewhere in the Ṛgveda.
 
 No other Part opener needs new prose.
 
@@ -609,7 +804,7 @@ No other Part opener needs new prose.
 
 > ### **asura / asu-ra / a-sura** (असुर)
 >
-> **Standard Sanskrit + book deployment.** One sound-form on which Sanskrit generates distinct words. ***Asu-ra*** is the breath-bearer or holder of life-force praised in Ṛgvedic sovereign contexts. ***A-sura*** is the un-shining one who opposes and withholds radiance; Ṛgveda 5.40.5 activates this reading when Svarbhānu pierces Sūrya with darkness. The deed identifies the word. Chapter 3 §3.6 establishes the distinction.
+> **Standard Sanskrit + book deployment.** One sound-form on which Sanskrit generates distinct words. ***Asu-ra*** is the breath-bearer or holder of life-force in Ṛgvedic protagonist contexts. ***A-sura*** is the un-shining one who opposes and withholds radiance; Ṛgveda 5.40.5 activates this word when Svarbhānu pierces Sūrya with darkness. The deed identifies the word. Chapter 3 §3.6 establishes the distinction.
 
 ### D-ASURA-12 — Expand the existing *asuratva* entry
 
@@ -629,13 +824,13 @@ Check the present "Chapter 4 §4.6" pointer during deployment; it appears stale 
 
 Add after the working translation:
 
-> The verse uses ***āsuraḥ***, with long **ā**, an adjectival form built from *asura*. The vowel length does not supply the privative. Chapter 3's reading rests on the available analyses of the underlying *asura* form and on the action described here: Svarbhānu pierces Sūrya with darkness, obscures the radiance named in his own compound, and leaves the worlds *akṣetravit*.
+> The verse uses ***āsuraḥ***, with long **ā**, an adjectival form built from *asura*. The vowel length does not supply the privative. Chapter 3 derives the underlying *asura* form through the available Sanskrit analyses and identifies the active word through the action described here: Svarbhānu pierces Sūrya with darkness, obscures the radiance named in his own compound, and leaves the worlds *akṣetravit*.
 
 ### D-ASURA-14 — Add `rigveda-privative-generativity`
 
 **Proposed short note:**
 
-> **Short:** The Ṛgveda repeatedly uses privative formations even when their positive bases do not appear independently in the same surviving corpus. VedaWeb 1.0 gives 48 ***a-dabdha*** tokens and no independent ***dabdha*** lemma. The comparison defeats the claim that standalone *sura* must first appear before Sanskrit can generate ***a-sura***.
+> **Short:** The Ṛgveda repeatedly uses privative formations even when their positive bases do not appear independently in the same corpus. VedaWeb 1.0 gives 48 ***a-dabdha*** tokens and no independent ***dabdha*** lemma. The comparison defeats the claim that standalone *sura* must first appear before Sanskrit can generate ***a-sura***.
 
 The long note should record the exact query, lemma forms, loci, translations, and the secondary ***a-mṛta / mṛta*** comparison. Do not call *dabdha* absent.
 
@@ -664,7 +859,7 @@ Remove the present sentence assigning the fourth analysis to a *laukika* develop
 
 **Proposed short note:**
 
-> **Short:** Historical linguistics accepts thousands of starred PIE forms with no surviving occurrence, while its standard *asura* account uses the absence of standalone Ṛgvedic *sura* against the internally generated ***a-sura*** reading. Chapter 3 supplies the Sanskrit derivation and the decisive context in Ṛgveda 5.40.5.
+> **Short:** Historical linguistics accepts thousands of starred PIE forms with no recorded occurrence, while its standard *asura* account uses the absence of standalone Ṛgvedic *sura* against the internally generated ***a-sura*** derivation. Chapter 3 supplies the Sanskrit derivation and the decisive context in Ṛgveda 5.40.5.
 
 The long note should cite the named standard account only after its exact wording has been checked in Mayrhofer, Hale, and Monier-Williams. It should cross-reference the manuscript's existing documentation for the starred PIE forms rather than reproducing that history.
 
@@ -732,7 +927,7 @@ Register this hierarchy:
 1. **Action identifies the category:** withholding and enclosure define the antagonist field even where the word *asura* does not appear.
 2. **Context identifies the word:** praised sovereign passages activate ***asu-ra***; Svarbhānu's darkness activates ***a-sura***.
 3. **Generativity defeats exclusion:** absence of standalone *sura* cannot make ***a-sura*** unavailable.
-4. **The two-word analysis eliminates chronology:** neither reading needs to evolve into the other.
+4. **The two-word analysis eliminates chronology:** neither word needs to evolve into the other.
 
 This preserves the synthesis plan's strongest achievement, **action, not word**, while adding the generativity argument where the word itself is under analysis.
 

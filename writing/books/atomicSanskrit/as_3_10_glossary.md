@@ -296,7 +296,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **certified intellectuals**
 
-**Book-coined English.** The credentialed carriers below the apex who repeat, translate, popularize, and defend the dogma. The respectable public face of the *rākṣasa*-retainer layer. Chapter 4 develops the layer.
+**Book-coined English.** The institutionally certified carriers below the apex who repeat, translate, popularize, and defend the dogma. The respectable public face of the *rākṣasa*-retainer layer. Chapter 4 develops the class.
 
 ### **linear-progress teleology**
 
@@ -312,7 +312,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **priests of progress**
 
-**Book-coined cluster.** The interpretive class inside the church of progress: credentialed experts, editors, reviewers, and public authorities who sanctify the doctrine and declare what counts as admissible knowledge.
+**Book-coined cluster.** The interpretive class inside the church of progress: certified intellectuals, editors, reviewers, and public authorities who sanctify the doctrine and declare what counts as admissible knowledge.
 
 ### **missionaries of progress**
 
@@ -344,7 +344,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **rākṣasa-retainers**
 
-**Book-coined Sanskrit + English metaphor.** The lower retainer layer inside the asuric pyramid: credentialed carriers who translate the pyramid's verdict into respectable prose, public language, and institutional repetition.
+**Book-coined Sanskrit + English metaphor.** The lower retainer layer inside the asuric pyramid: institutionally certified carriers who translate the pyramid's verdict into respectable prose, public language, and institutional repetition.
 
 ### **bakers / bake / recipe**
 

@@ -93,6 +93,7 @@ REFERENCE_METADATA_FILE = BOOK_DIR / "as_reference.yaml"
 REFERENCE_FRONT_FILE = BOOK_DIR / "as_reference_front.md"
 REFERENCE_APPENDIX_GLOB = "as_reference_*.md"
 PREAMBLE_TEMPLATE = BOOK_DIR / "templates" / "devanagari-preamble.tex.in"
+LATEX_STRIKEOUT_FILTER = BOOK_DIR / "filters" / "latex-strikeout.lua"
 
 # Reuse the existing figure lineage comment writer. The helper lives under
 # figures/_shared, so expose figures/ as an import root for this script.
@@ -890,6 +891,7 @@ def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full") -> int:
         "-o", str(pdf_path),
         "--pdf-engine=xelatex",
         "--metadata-file", str(METADATA_FILE),
+        "--lua-filter", str(LATEX_STRIKEOUT_FILTER),
         # Layout geometry is layout-specific (CLI flag), so it stays outside YAML.
         "-V", f"geometry:{geometry}",
         "-H", str(generated_preamble),
@@ -1022,6 +1024,7 @@ def cmd_reference(layout: str = "letter") -> int:
         "-o", str(pdf_path),
         "--pdf-engine=xelatex",
         "--metadata-file", str(REFERENCE_METADATA_FILE),
+        "--lua-filter", str(LATEX_STRIKEOUT_FILTER),
         "-V", f"geometry:{geometry}",
         "-H", str(generated_preamble),
     ]
@@ -1091,6 +1094,7 @@ def cmd_convert(input_arg: str | None, layout: str = "letter", output_arg: str |
         "pandoc", str(tmp_md),
         "-o", str(pdf_path),
         "--pdf-engine=xelatex",
+        "--lua-filter", str(LATEX_STRIKEOUT_FILTER),
         "-V", f"geometry:{LAYOUTS[layout]}",
         "-V", f"mainfont={mainfont}",
         "-V", f"fontsize={fontsize}",

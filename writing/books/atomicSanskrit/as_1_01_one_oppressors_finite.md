@@ -60,7 +60,7 @@ The pyramid is a created fractal of deformation—**विकृति (*vikṛt
 
 This shape systematically repeats across domains: in religion, it becomes one book, one prophet, and one permitted salvation; in empire, it becomes one crown, one law, and one extracted people; in scholarship, it becomes one method, one peer circle, and one permitted origin story. Consequently, in language, it becomes one ancestor, one chronology, one authorized grammar-story, and ultimately one verdict on what the civilization is allowed to remember.
 
-In education, the same shape becomes one curriculum, one examination ladder, one credentialed memory, one permitted account of the past. Long before the child can inspect the frame, the curriculum has trained the child to inherit the pyramid's categories.
+In education, the same shape becomes one curriculum, one examination ladder, and one authorized account of the past. Long before the child can inspect the frame, the curriculum has trained the child to inherit the pyramid's categories.
 
 The pyramid demands finitism because a finite universe can be narrated from a single first point. A finite timeline can be owned by whoever controls the origin story, a finite canon can be guarded by whoever controls the gate, and a finite people can be counted, ranked, administered, and corrected. Ultimately, the apex wants a world with edges because edges make possession easier, and because the boundless—which he can neither bound nor rule—fundamentally frightens him.
 

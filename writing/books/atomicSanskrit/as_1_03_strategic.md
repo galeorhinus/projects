@@ -56,7 +56,7 @@ The projection did more than provide a racial genealogy for philology. It also p
 
 The projection rests on a still deeper fact. The European colonial enterprise was not the first Abrahamic political tradition to operate master-slave categories in the subcontinent. Centuries of Islamic political dominance preceded it on the same theological substrate. The Hebrew Bible's *Leviticus* authorizes slaves as inheritable property (25:44–46);[NOTE: leviticus-slavery-25-44-46] Christian *Ephesians* commands slaves to obey earthly masters (6:5);[NOTE: ephesians-slavery-6-5] the Quran sanctions captives as slaves and concubines — *"what your right hands possess,"* 23:5–6, 70:29–30, 4:24.[NOTE: quran-slavery-citations] Islamic conquest built political formations on that sanction; the Delhi Sultanate's Slave Dynasty was named for the slave-warrior elite the framework produced.[NOTE: delhi-sultanate-mamluk] Christian empire extended the same backbone into Atlantic chattel slavery and the subcontinent. Both Abrahamic frameworks enslaved Indians across generations.
 
-The dharmic architecture is the exact opposite. Buddha's observation in the *Assalāyana Sutta* — that the bordering nations of Yona and Kamboja have only two categories in society: masters and slaves — is the dharmic primary-source confirmation: the binary belonged to foreign-bordering nations, not to the Indic civilizational core.[NOTE: assalayana-sutta] The racial Arya thesis did not project a universal human pattern onto Indic antiquity. It projected an Abrahamic pattern onto a civilization that had none. Caste-as-fixed-birth-rank is the social *apabhraṃśa* those same Abrahamic regimes fed and the colonial census hardened — entropy, not the dharmic architecture; Chapter 6 §6.8 develops the case. 
+The dharmic architecture is the exact opposite. Buddha's observation in the *Assalāyana Sutta* — that the bordering nations of Yona and Kamboja have only two categories in society: masters and slaves — is the dharmic primary-source confirmation: the binary belonged to foreign-bordering nations, not to the Indic civilizational core.[NOTE: assalayana-sutta] The racial Arya thesis did not project a universal human pattern onto Indic antiquity. It projected an Abrahamic pattern onto a civilization that had none. Caste-as-fixed-birth-rank is the social *apabhraṃśa* those same Abrahamic regimes fed and the colonial census hardened — entropy, not the dharmic architecture; Chapter 6 §6.8 develops the case.
 
 The racial Arya thesis has persisted despite the evidence pressing against it. Genetics, archaeology, and source criticism forced the old invasion story to change costume, but they did not break the custody claim. The story moved from invasion to migration, from skulls to DNA, from racial language to population language. Yet Sanskrit is still made to arrive from outside. The botanical metaphor remains because it still performs that work. The requirement underneath never changes: the pyramid needs an external author for what India could not be permitted to have built itself. This is the migration trap of Chapter 18 §18.6: movement is not authorship.
 
@@ -116,6 +116,12 @@ The containment protects more than a metaphor. It protects a theory of authority
 
 Calibration is more dangerous to the pyramid than drift or codification. Drift can be managed; codification can be owned; calibration makes the apex unnecessary.
 
+Chapter 0 established three concurrent fields: the *vaidika* domain preserves invariant content, the *laukika* domain supports curated transmission and new composition, and the *prākṛtika* domain changes as communities speak it from one generation to the next. The pyramid turns these differences of purpose into a chronological ladder.
+
+It demotes the *vaidika* calibrant to a primitive and archaic beginning. It then presents the *laukika* domain as a later, codified peak and credits its order to Pāṇini the "codifier." Finally, it treats the *prākṛtika* field as the linguistic decay that followed Sanskrit's supposed peak. The ascent praises Pāṇini so that no one asks whether he inherited an architecture that already existed. The descent places Sanskrit's generative power safely in the past and gives outsiders the authority to manage the living civilization.
+
+This is containment through category theft. The pyramid takes three domains designed for different purposes and rearranges them as three levels of quality along a single line of time.
+
 The strategy has changed with the circumstance. When Sanskrit could be treated as dead, the pyramid could afford to drop it. A dead language can be admired, classified, mined, and placed below an imaginary ancestor. But Sanskrit did not die. As Hindu confidence returned and Sanskrit re-entered public assertion, erasure became less useful than co-ownership. The racial Arya thesis then became a second-best strategy: not destroy Sanskrit outright, but keep a share in its origin.
 
 ![Figure 3.1 — The Three Pillars and the Architecture of Containment. Three pillars (Racial Arya Thesis; Biblical / Noachian chronology; linear-progress teleology) supporting the botanical metaphor as a single horizontal beam. The theological pillar recedes; the racial pillar is retooled; the progress pillar supports the beam.](figures/strategic/three_pillars_containment.svg){#fig:ch3-three-pillars-containment width=100%}
@@ -124,52 +130,38 @@ The strategy has changed with the circumstance. When Sanskrit could be treated a
 
 ## 3.6 The Asura Analysis: Action, not Faction
 
-English, like Sanskrit and many other languages, includes words that sound and look identical while describing opposite actions. A captive lies *bound* to a chair. A hare *bounds* across a field. Ropes keep the captive in one place while the hare leaps freely, yet the same sound-form appears in both sentences. No English speaker confuses the two because the action described in each sentence identifies the word being used.
+English, like Sanskrit and many other languages, includes words that sound and look identical while describing opposite actions. A captive lies *bound* to a chair. A hare *bounds* across a field. Ropes hold the captive in one place while the hare leaps freely, yet the same sound-form appears in both sentences. No English speaker confuses the two because each sentence describes an action that identifies which word the speaker used.
 
-The pyramid trains the reader to abandon that ordinary clarity when the word is **असुर (*asura*)**. The obvious distinction would destroy its chronology and weaken its Racial Arya Thesis.
+The pyramid's decree asks the reader to abandon that ordinary clarity when the word is **असुर (*asura*)** because the obvious distinction would destroy its imaginary chronology and Racial Arya Thesis.
 
-### The Pyramid Invents One Word and a Timeline
+#### Yāska Connects Nominal Words to Verbal Actions
 
-The pyramid's historical linguists tell their story in three stages.
+Yāska records a principle of Sanskrit word formation: **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)** — nominal words arise from verbs. The principle explains how Sanskrit derives a nominal word from the action expressed by a *dhātuḥ*.[NOTE: nirukta-nominal-words-from-actions]
 
-First, they begin with a starred PIE ancestor, represented by reconstructions such as ***h₂ḿ̥suros***. Imaginary people of an unspecified, but definitely non-Indian, race speak this imaginary language and carry one branch of the reconstructed word toward present-day Iran as *ahura*. Another branch carries *asura* into northwestern India.[NOTE: asura-standard-semantic-reversal-account]
+Two of Yāska's explanations of *asura* are exactly what anyone familiar with Sanskrit would see:
 
-Second, the pyramid declares that every Rigvedic *asura* is the same inherited word, initially meaning "lord" or "powerful being." It assigns the protagonist uses for Indra and Varuṇa to this supposedly earlier meaning. It then calls the antagonist uses for Svarbhānu, Namuci, Pipru, and Varcin "hostile" or "negative" uses and describes them as the beginning of a semantic reversal.[NOTE: rigvedic-named-antagonist-asuras]
+1. ***asu-ra***, the bearer of **असु (*asu*)**, life's breath;
+2. ***a-sura***, against *sura*: ***asurāḥ suravirodhinaḥ***, "the *asuras* are adversaries of the *suras*."[NOTE: yaska-asura-nirukta]
 
-The Veda places both uses inside the very maṇḍalas that the pyramid classifies as its oldest core. Maṇḍala Five describes Svarbhānu the ***āsura*** darkening the Sun; two hymns later, it describes Rudra as both ***deva*** and ***asura***. Maṇḍala Seven addresses the protecting Mitra and Varuṇa as ***devānām asurā*** and also names the defeated Varcin an ***asura***. Protagonist and antagonist uses coexist inside the same collection that the pyramid calls early.[NOTE: asura-old-mandalas-coexistence]
+Yāska explains what the word means. The Kauthuma Sāmaveda Padapāṭha shows how the word divides: ***असुरस्य (*asurasya*)*** becomes ***अ + सुरस्य (*a + surasya*)***. Yāska explains the opposition; the Padapāṭha separates the word into its two parts.[NOTE: samaveda-padapatha-asurasya-split]
 
-If both uses coexist, nothing has reversed. The pyramid preserves its chronology by relabeling coexistence as transition. It arranges the passages along an invented internal timeline and then cites that timeline as proof that the word changed. The evidence did not produce the semantic reversal. The demand for a semantic reversal rearranged the evidence. This is the Svarbhānu operation introduced in the Preface: place darkness over the field, then ask the reader to trust the shadow.
+The mantra then identifies which same-sounding word is active in the sentence. When Indra protects life and gives strength, his action identifies ***asu-ra***, the bearer of life's breath. When Svarbhānu covers Sūrya with darkness, his action identifies ***a-sura***, the figure acting against radiance.
 
-Third, the pyramid claims that ***sura*** later came to mean "divinity." Sanskrit speakers then supposedly reinterpreted the already antagonistic ***asura*** as ***a-sura***, the figure opposed to radiance. This chronology pushes the Sanskrit derivation beyond the Ṛgveda and prevents Svarbhānu from being identified as ***a-sura*** while he darkens the Sun.[NOTE: deva-sur-div-radiance-field]
+Two words, two etymologies, one sound-form.
 
-The pyramid creates one inherited *asura*, converts the actions of the protagonists and antagonists into a change in that word, and hides Sanskrit's ability to generate two words with the same sound-form. Two words would destroy the semantic reversal and the migratory chronology built upon it.
+#### How Faction Hides Action
 
-### How Faction Hides Action
+The pyramid recasts the Vedic encounters as battles between rival factions. It describes one tribe defeating another, one group praising Indra and Varuṇa while another opposes them, or one collection of supernatural beings displacing its competitors. Once the pyramid has framed the conflict this way, the protagonists and antagonists become two sides competing for power. The distinction between ***सत् (sat)*** and ***असत् (asat)*** disappears.[NOTE: asura-factional-framing]
 
-The pyramid recasts the Vedic encounters as battles between rival factions. Under that description, one group praises Indra and Varuṇa while another opposes them, and both sides compete for power. The distinction between **सत् (*sat*)** and **असत् (*asat*)** disappears.
+The Vedas preserve that distinction with absolute clarity. Indra and Varuṇa are protagonists because they protect life, release what has been withheld, and restore the conditions in which the world can flourish. Svarbhānu conceals the Sun. Pipru encloses wealth behind fortified gates. Varcin and Śambara convert abundance into private power. Namuci refuses release.
 
-The Vedas describe a civilizational distinction. Indra and Varuṇa are protagonists because they protect life, release what has been withheld, and restore the conditions in which the world can flourish. Svarbhānu conceals the Sun. Pipru encloses wealth behind fortified gates. Varcin and Śambara use accumulated wealth as private power. Namuci refuses release.
-
-Their faction does not decide their place in the mantra.
+Their *faction* does not decide their place in the mantra.
 
 Their **actions** do.
 
-The same conflict continues across every age. It is the conflict between light and darkness, circulation and containment, the swastika and the pyramid. The swastika distributes power through a living and balanced order. The pyramid encloses power at its apex and forces everyone else to approach through its gates. Sanātana evaluates every actor by the architecture his actions create.
+The same conflict continues across every age. It is the conflict between light and darkness, circulation and containment, the swastika and the pyramid. The swastika distributes power through a living and balanced order. The pyramid encloses power at its apex and forces everyone else to approach through its gates. Sanātana evaluates every actor by the architecture that his actions support.
 
-Later Second Shanti volumes develop this foundational contrast between the two opposing systems.
-
-### Yāska Begins With Action
-
-Yāska places action at the center of his method: **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)** — names arise from actions. A name becomes intelligible through what its bearer does.[NOTE: nirukta-names-from-actions]
-
-Yāska records several possible derivations for *asura*. Two are central here:
-
-1. ***asu-ra***, the bearer of **असु (*asu*)**, life's breath.
-2. ***a-sura***, the opponent of ***sura***: ***asurāḥ suravirodhinaḥ***, "the asuras are adversaries of the suras."[NOTE: yaska-asura-nirukta]
-
-The mantra provides the context. When Indra protects life and gives strength, his action identifies ***asu-ra***, the bearer of life's breath. When Svarbhānu covers Sūrya with darkness, his action identifies ***a-sura***, the figure acting against radiance. The deed described in each mantra tells the listener which Sanskrit word is active in that sentence, just as the bound captive and the hare that bounds activate two different English words. Two words. Two etymologies. One sound-form.
-
-### The Life-Bearing *Asu-ra*
+#### The Life-Bearing *Asu-ra*
 
 The Ṛgveda calls Indra *asura* while he protects his people and gives them strength:
 
@@ -187,17 +179,13 @@ The Ṛgveda calls Varuṇa *asura* while he releases a life from what binds it:
 
 Indra protects life and gives strength. Varuṇa loosens what has bound life. Their sovereignty serves **लोकक्षेम (*lokakṣema*)**, the well-being of the world. In these mantras, ***asura*** is ***asu-ra***, the bearer of ***asu***, life's breath.
 
-The Ṛgveda also calls Agni, Rudra, and Mitra *asura* while their actions sustain life. Agni tends the life-fire and its vigour. Rudra commands both life's danger and its healing. Mitra sustains the bonds among people.[NOTE: rv-agni-mitra-rudra-asura]
+#### The Containing *A-sura*
 
-### The Containing *A-sura*
+The Ṛgveda also uses *asura* or *āsura* for named antagonists. Pipru is the *asura* and ***māyin*** behind fortified enclosures in Ṛgveda 10.138.3. Indra and Viṣṇu defeat the forces of the *asura* Varcin in Ṛgveda 7.99.5. Ṛgveda 10.131.4 calls Namuci ***āsura***; his name identifies the one who does not release. Svarbhānu darkens the Sun in Ṛgveda 5.40.5.[NOTE: rigvedic-named-antagonist-asuras]
 
-The Ṛgveda uses *asura* or *āsura* for named antagonists as well. Ṛgveda 10.138.3 calls **पिप्रु (*Pipru*)** both *asura* and **मायिन् (*māyin*)**. The hymn places his fortified enclosures and treasure-houses against released waters and cattle, the restored Sun, and a song born from truth. Indra and Ṛjiśvan break open his fortifications. Ṛgveda 7.99.5 calls **वर्चिन् (*Varcin*)** *asura* while Indra and Viṣṇu defeat his forces. Ṛgveda 10.131.4 calls **नमुचि (*Namuci*)** *āsura*; his name identifies the one who does not release, and a later Vedic account describes him withholding Indra's strength.[NOTE: rigvedic-named-antagonist-asuras]
+Their names do not determine their conduct.
 
-Ṛgveda 6.47.21–22 places the defeat of Varcin and **शम्बर (*Śambara*)** beside the redistribution of Śambara's goods. Read together, the verses preserve the same civilizational warning that Chapter 3 has traced through the pyramid. Containment encloses common abundance, turns the enclosure into a gate, extracts payment from those who need access, and uses the accumulated wealth to strengthen the gate. Islamic conquest, European colonization, and their institutional successors have repeated that operation against the world.
-
-The Hindu continuum preserved the Vedas as the foundation of Sanātana because the mantras retain this civilizational memory. They teach each generation how to recognize containment, identify its agents through their actions, break their gates, and return what should circulate.
-
-Names and titles do not decide conduct. Varcin bears **वर्चस् (*varcas*)**, brilliance, in his name. **स्वर्भानु (*Svarbhānu*)** carries ***svar*** and ***bhānu***, radiance, in his. Their actions still identify them as antagonists. A name may describe a capacity, title, or appearance. Sanātana evaluates what a being does with that capacity.
+Varcin bears **वर्चस् (*varcas*)**, brilliance, in his name. Svarbhānu carries ***svar*** and ***bhānu***, radiance, in his. Their actions still identify them as antagonists. A name may describe a capacity, title, or appearance. Sanātan evaluates what a being does with that capacity.
 
 Svarbhānu supplies the clearest example:
 
@@ -209,64 +197,102 @@ Svarbhānu supplies the clearest example:
 >
 > *"When Svarbhānu the asura pierced you, O Sūrya, with darkness, the worlds looked about bewildered, like one who no longer knew the field."*[NOTE: rigveda-5-40-5-svarbhanu-eclipse]
 
-The verse uses **आसुरः (*āsuraḥ*)**, an adjectival form built from ***asura***. The long **ā** belongs to the derivative form; it does not identify which underlying word is active. Svarbhānu's deed does. He pierces Sūrya with darkness, conceals the Sun's radiance, and leaves the worlds unable to find their field. The mantra describes the un-shining figure while he acts against radiance.
+The verse uses ***आसुरः (*āsuraḥ*)***, which Sanskrit derives from ***असुर (*asura*)***. The long **ā** belongs to that derivative form; it does not determine how Sanskrit forms the underlying word.
 
-In what universe would anyone read Svarbhānu here as ***asu-ra***, the bearer of life-force, instead of ***a-sura***, the figure acting against radiance? Only inside the fertile imagination of a philology determined to make the word contradict the mantra in which it appears.
+The *action* does.
 
-### Sanskrit Can Generate Both Words
+Svarbhānu pierces Sūrya with darkness, conceals his radiance, and leaves the worlds unable to find their field. The mantra describes the figure representing un-shining/darkness while he acts against radiance.
 
-Sanskrit can generate both words through two different operations. It can form ***asu-ra***, the bearer of life's breath, from ***asu***. It can also place the privative ***a-*** before ***sura***, radiant, to form ***a-sura***, not-radiant. The two derivations produce separate words with the same sound-form.
+In what universe would anyone view Svarbhānu here as ***asu-ra***, the bearer of life-force, rather than ***a-sura***, the figure acting against radiance?
 
-The Ṛgveda contains a dense family of words for light and radiance: ***svar, sūrya, sūri,*** and ***sūra***. The grammatical continuum also preserves **⟪षुर्⟫**, which appears as **⟪सुर्⟫**, with the meanings **ऐश्वर्यदीप्त्योः (*aiśvarya-dīptyoḥ*)** — sovereignty and shining. The inherited *Dhātupāṭha* records this atom; Pāṇini's documentation presupposes and uses the inventory.[NOTE: sura-dhatu-dipti]
+Only inside the fertile imagination of a philology determined to hide the radiance of the Vedas.
 
-Pyramids love to *attest* things — even words. In historical linguistics, *attested* means that a form survives in a recorded source. The pyramid turns that limited statement about a surviving corpus into a ruling about what Sanskrit could generate. Because standalone *sura* does not appear in the surviving Ṛgveda, the pyramid claims that the Veda could not have formed ***a-sura***. That demand treats Sanskrit as a stored list of approved words instead of a generative architecture capable of producing them.
+Exactly like Svarbhānu.
 
-The Veda repeatedly uses privative words whose positive forms do not appear independently in the same corpus. **अदब्ध (*a-dabdha*)**, "undeceived" or "inviolable," appears dozens of times. The corresponding positive form **दब्ध (*dabdha*)** does not appear as an independent lemma in the fixed VedaWeb corpus used for this comparison.[NOTE: rigveda-privative-generativity]
+#### The Pyramid Invents One Word and an Imaginary Timeline
 
-An English speaker understands a newly generated word such as *cloudify* without first finding it in a dictionary. Sanskrit possesses a far more powerful generative architecture. A word generated through that architecture does not need an earlier independent occurrence before Sanskrit can use it in another operation. The architecture supplies the word, and the sentence identifies which generated word the speaker uses.
+Historical linguists on the pyramid's payroll construct their story in three stages.
 
-The same distinction appears in **अज (*aja*)**. One ***aja*** can be the goat, the driven one, from **⟪अज्⟫ (*aj*, to drive)**. Another is ***a-ja***, the Unborn of the Gītā, a privative formation from **⟪जन्⟫ (*jan*, to be born)**. The two words share one sound-form. Thankfully, the imaginary people speaking an imaginary language were not also herding imaginary sheep and goats. Otherwise, the pyramid might have imagined the goat gradually transforming into the deathless Self. Sanskrit can likewise generate ***asu-ra*** and ***a-sura*** without turning one into a later meaning of the other.[NOTE: nanartha-homonymy]
+First, the pyramid imagines a PIE form ***h₂ḿ̥suros***, spoken by imaginary people of a ~~Caucasian~~ ~~Aryan~~ ~~Nordic~~ race that is now unspecified but remains definitely *not* Indian. They speak an imaginary language filled with imaginary words similar to ***h₂ḿ̥suros***. At some very specific point that fits the Abrahamic timeline, these imaginary people wander eastward. One branch carries *ahura* toward present-day Iran; the other carries *asura* into northwestern India.[NOTE: asura-standard-semantic-reversal-account]
 
-### What the Conflation Buys
+Several mantras in the Ṛgveda describe Indra and Varuṇa as *asuras* while they act as protagonists. Other mantras call Svarbhānu, Namuci, Pipru, and Varcin *asuras* while they act as antagonists.[NOTE: rv-agni-mitra-rudra-asura][NOTE: rigvedic-named-antagonist-asuras]
 
-The pyramid grants itself thousands of starred PIE sound-forms without a single surviving sentence, then demands a separately recorded ***sura*** before Sanskrit may generate ***a-sura***. It accepts imaginary words from an imaginary natural language while denying a formation that Sanskrit's architecture supplies and the mantra identifies through action.[NOTE: asura-generativity-pie-double-standard]
+Second, the pyramid claims that the same word *asura* changed its meaning over time and calls this supposed change a *semantic reversal*.[NOTE: asura-standard-semantic-reversal-account]
 
-That double standard protects the chronology. When ***asu-ra*** and ***a-sura*** remain separate, the Racial Arya Thesis loses one of its invented timelines. The pyramid therefore presses them into one inherited word. That conflation produces a semantic reversal, lets the pyramid declare the Iranian comparison older, manufactures an Indo-Iranian religious division, and adds another branch to the Racial Arya Thesis.
+The pyramid isolates Maṇḍalas Two through Seven as the oldest core of the Ṛgveda in its imagined chronology. Yet the Veda places both forms squarely inside that core. Maṇḍala Five features Svarbhānu the *āsura* darkening the Sun. Two hymns later, the same Maṇḍala addresses Rudra as both ***देव (*deva*)*** and ***असुर (*asura*)***: ***नमोभिर्देवमसुरं दुवस्य (*namobhir devam asuraṃ duvasya*)***. Maṇḍala Seven hails the protecting Mitra and Varuṇa as ***देवानामसुरा (*devānām asurā*)***, then names the defeated Varcin an *asura*. The protagonist *asura* and the antagonist *asura* operate simultaneously.[NOTE: asura-old-mandalas-coexistence]
 
-Western philologists possessed every part of the evidence. The Veda supplied the radiant family of words. The grammatical continuum preserved **⟪सुर्⟫** in the field of shining. Western philologists knew Sanskrit's privative architecture. The mantra described Svarbhānu piercing Sūrya with darkness. The pyramid still forced the two words into one timeline because its racial and linguistic narrative required the reversal.
+The pyramid cannot accept this coexistence, because simultaneous existence weakens semantic reversal. If both are present, nothing reversed. To keep the theory clean, it decrees that every asura must be a single inherited word. It re-labels their visible coexistence a "transition," flattens that transition into an imaginary timeline, and then cites the same imaginary timeline as proof that the word changed. The evidence did not produce the semantic reversal. The demand for a semantic reversal rearranged the evidence.
 
-The pyramid has gaslit a civilization with a homonym. Reference works, classrooms, and academic chairs repeat that the life-bearing protagonist and the radiance-concealing antagonist are one word whose meaning changed over time. The pyramid deliberately conflates the two words so that the clarity preserved by the mantras cannot expose its invented chronology.
+Third, the pyramid claims that *sura* “later” came to mean “divinity,” while ignoring the atom ⟪सुर्⟫, which means “to shine” or “to be radiant,” and the parallel atom ⟪दिव्⟫, from which Sanskrit forms ***deva***. Hundreds of Rigvedic mantras use ***deva***, while English ***divinity*** belongs to the same inherited field of radiance.[NOTE: deva-sur-div-radiance-field] Sanskrit speakers then supposedly reinterpret the already antagonistic *asura* as ***a-sura***, "not-radiant." The pyramid places that derivation last because it cannot allow a Rigvedic antagonist to be the ***a-sura*** representing darkness. The Racial Arya Thesis needs one inherited word to travel into India and change its meaning here.
+
+By describing Sanskrit as a *drifting* natural language, the pyramid pre-emptively disqualifies Sanskrit's generative architecture. It refuses to recognize that Sanskrit can derive two different words with the same sound-form. After rejecting that possibility, it also refuses to let the action described inside the mantra, such as Svarbhānu darkening the Sun, identify which word the verse uses.
+
+#### Two Words, One Sound-Form
+
+Sanskrit derives the sound-form ***asura*** through two separate operations. The first begins with **असु (*asu*)**, life's breath, and forms ***asu-ra***, the bearer of life. The second places the privative **अ (*a-*)** before ***sura***, radiant, and forms ***a-sura***, the figure acting against radiance.
+
+The Ṛgveda already contains a dense family of words associated with light and radiance: ***svar, sūrya, sūri,*** and ***sūra***. The grammatical continuum also preserves **⟪षुर्⟫**, which appears as **⟪सुर्⟫**, with the meanings **ऐश्वर्यदीप्त्योः (*aiśvarya-dīptyoḥ*)** — sovereignty and shining.[NOTE: sura-dhatu-dipti]
+
+Sanskrit produces the same convergence in **अज (*aja*)**. One ***aja*** comes from **⟪अज्⟫ (*aj*, to drive)**: ***aj-a***, the driven one, the goat. The other comes from the privative ***a-*** and ***ja***, born: ***a-ja***, the Unborn of the Gītā. Two different derivations generate one sound-form.[NOTE: nanartha-homonymy]
+
+Thankfully, the imaginary people speaking an imaginary language were not also herding imaginary sheep and goats. Otherwise, the pyramid might have imagined the goat gradually transforming into the deathless Self.
+
+***Asu-ra*** and ***a-sura*** are no different. One sound-form carries two separately generated Sanskrit words. No semantic reversal is required.
+
+#### The Pyramid's Attestation Trick
+
+The pyramid loves to *attest* things. Because standalone ***sura*** does not appear in the Ṛgveda, it decrees that the Veda could not possibly generate ***a-sura***. It treats Sanskrit like a dictionary of approved terms rather than a generative architecture.
+
+The Ṛgveda first demonstrates the privative operation by placing **अदेव (*a-deva*)** and ***deva*** in the same line:
+
+> अदेवो यदभ्यौहिष्ट देवान् ।
+>
+> *adevo yad abhy auhiṣṭa devān*
+>
+> *"When the a-deva attacked the devāḥ."*[NOTE: rigveda-adeva-privative]
+
+The evidence from **अदब्ध (*a-dabdha*)** goes further. The Ṛgveda uses the privative ***a-dabdha*** forty-eight times, while independent **दब्ध (*dabdha*)** appears exactly zero times.[NOTE: rigveda-privative-generativity] The positive form does not appear independently anywhere in the Ṛgveda, yet Sanskrit generates and uses its privative form repeatedly.
+
+The pyramid is incensed to discover that the Veda failed to seek approval from its attestation committee.
+
+Sarcasm aside, the Vedas use this exact generative engine. They have themselves remained **अदब्धाः (*adabdhāḥ*)** — inviolable — ever since their mantras were first seen. Chapter 16 explains this relationship between the Vedas and Sanskrit's generative engine; Appendix Part 8 documents the designed variations across the *vaidika* and *laukika* domains.
+
+#### What the Conflation Buys
+
+While demanding attestation from Sanskrit’s generative architecture and requiring a separately recorded ***sura*** before certifying ***a-sura***, the pyramid grants itself thousands of starred PIE sound-forms without a *single* recorded sentence. It invents imaginary words from an imaginary natural language spoken by an unspecified (but definitely *not* Indian) race, while denying a formation that Sanskrit's own architecture supplies and the action of the mantra identifies.[NOTE: asura-generativity-pie-double-standard]
+
+That double standard protects the chronology. When ***asu-ra*** and ***a-sura*** remain separate, the Racial Arya Thesis loses one of its invented chronologies. The pyramid therefore presses them into one inherited word. That conflation gives the pyramid a semantic reversal, lets it declare the Iranian comparison older, feeds it into Zoroaster's doctrinal reversal, and adds another branch to the Racial Arya Thesis.[NOTE: zoroaster-daeva-ahura-doctrinal-reversal]
+
+Western philologists possessed every part of the evidence. The Veda supplied the luminous field. The grammatical continuum preserved **⟪सुर्⟫** in the field of shining. Western philologists knew Sanskrit's privative architecture. The mantra described Svarbhānu piercing Sūrya with darkness. The pyramid still forced the two words into one timeline because its racial and linguistic narrative required the reversal.
 
 Indra and Varuṇa protect, sustain, and release. In those mantras, ***asura*** is ***asu-ra***, the bearer of ***asu***, life's breath.
 
-Svarbhānu conceals radiance, while Namuci withholds and refuses release. In those passages, ***asura*** is ***a-sura***, the un-shining and containing antagonist.
+Svarbhānu conceals radiance, while Namuci withholds and refuses release. In those mantras, ***asura*** is ***a-sura***, the containing antagonist representing darkness.
 
 The protagonists act through ***sat***, radiance, circulation, and the distributed architecture of the swastika. The antagonists act through ***asat***, darkness, containment, and the enclosing architecture of the pyramid.
 
 **Sanātan evaluates the action, not the faction.**
 
-## 3.7 The Vedic Shape of Containment
+## 3.7 Containment and Release in the Veda
 
-Chapter 0 established three concurrent fields: the *vaidika* preserves the invariant, the *laukika* is a curated transmission, the *prākṛtika* flows. The pyramid lays the three end to end as a single line of time and ranks the rungs. It demotes the *vaidika* — the timeless — to the *primitive*, the crude archaic origin. It promotes the *laukika* to the codified peak, crediting its order to Pāṇini the "codifier." The *prākṛtika* becomes the falling-away that followed. Two moves complete the flattening. The ascent performs heroic erasure: praise Pāṇini so that no one asks whether the order was already engineered. The descent performs containment: place Sanskrit's peak in the past, and the living civilization appears to inherit only a diminished remnant of its own language, forever requiring outside stewardship. This is containment by category theft: three differences of *purpose* rewritten as one ladder of *quality in time*. The pyramid applies to the whole language the same operation it applied to *asura*: it rewrites a difference of kind as a change over time.
+Section 3.6 identified the ***a-sura*** through Svarbhānu's action: he covers the Sun with darkness. The Veda describes the same architecture of containment even when it does not use the word *asura*. Vṛtra blocks the waters, while the Paṇis lock cattle and light inside Vala. In both encounters, the protagonists break the enclosures and restore circulation.
 
-The containment operation is not new. The Veda diagnosed it first, and condemned it by a single deed.
+**Vṛtra** (वृत्र), whose name comes from **⟪वृ⟫ (*vṛ*, to cover or obstruct)**, dams the waters on the mountain. Indra's ***वज्र (vajra)*** splits the enclosure, and the rivers run toward the sea (RV 1.32).[NOTE: rv-1-32-vrtra]
 
-**The deed the Veda condemns is withholding.** Not power, not sovereignty, not the raising of a structure — withholding. The Ṛgveda's most-developed adversary narratives are one operation across the three great goods, and the hero's act is always the same verb: **release**.
+The **Paṇis** (पणयः), the niggards, hoard the cattle associated with dawn and light inside the **Vala** (वल) cave. Bṛhaspati (बृहस्पति) breaks the enclosure through the sacred word, scatters the darkness, and "displays the light" in Ṛgveda 2.24.3. Other tellings place Indra and the Aṅgirases (अङ्गिरसः) beside him. The dialogue in Ṛgveda 10.108 sends Saramā (सरमा) ahead to confront the Paṇis.[NOTE: rv-vala-panis]
 
-**वृत्र (*Vṛtra*)** — from ⟪वृ⟫ (*vṛ*, *to cover, to obstruct*) — dams the waters on the mountain. Indra's *vajra* splits the enclosure and the rivers run (RV 1.32).[NOTE: rv-1-32-vrtra] The **पणयः (*Paṇayaḥ*)** hoard the cattle, the dawn-herd and the light, inside the **वल (*Vala*)** cave. Bṛhaspati breaks the enclosure through the sacred word, scatters the darkness, and "displays the light" (RV 2.24.3). Indra and the Aṅgirases join the release in parallel tellings, while Saramā confronts the Paṇis in RV 10.108.[NOTE: rv-vala-panis]
+Svarbhānu supplies the third form of the same action. He covers the Sun until the worlds can no longer find their field. Indra breaks his ***माया (māyā)***, and Atri restores the eye of Sūrya (RV 5.40).[NOTE: rigveda-5-40-atri-clearing]
 
-Svarbhānu supplies the third form of enclosure. He covers Sūrya until the worlds cannot find their field. Indra breaks his *māyā*, and Atri restores the eye of Sūrya through the fourth formulation (RV 5.40).[NOTE: rigveda-5-40-atri-clearing] Waters, cattle-light, and Sun are enclosed; the protagonists release all three. The moral axis is **release against withholding** — the swastika against the pyramid.
+The three encounters concern three goods: the waters, the cattle-light, and the Sun. An antagonist encloses each one, and the protagonists release it.
 
-Vṛtra and the Paṇis also show why the chapter cannot reduce this analysis to the presence of a single title. The Ṛgveda does not call either of them *asura*, even though their actions enact containment. Svarbhānu and Namuci receive the *asura* sound-form, while Vṛtra and the Paṇis do not. The title appears selectively; the action reveals the complete category.
+The Ṛgveda does not call Vṛtra or the Paṇis *asura*. Their actions still place them inside the architecture of containment. The Veda applies the word *asura* to only some of these antagonists. Their actions reveal the larger category that includes them all.
 
-**The power itself is real, and an actor can direct it toward life or containment.** Varuṇa, the *asura* who sustains the life of the worlds, *amimīta* — "measured out the earth" (RV 8.42.1) — through *māyā*, the power to measure and form.[NOTE: rv-8-42-1-varuna-measures] The Veda praises him because the waters and light continue to move under the structure he establishes. Vṛtra also establishes a structure — a dam — and the Veda condemns him because his structure blocks the waters. **Building is not the fault. Enclosure is.** A boundary serves the order; an enclosure captures what should flow.
+Power does not determine the side. Ṛgveda 8.42.1 calls Varuṇa *asura* while he props heaven and measures the earth through ***माया (māyā)***, the power to measure and form.[NOTE: rv-8-42-1-varuna-measures] His structure maintains an ordered space in which life, water, and light can move. Vṛtra also constructs an enclosure, but his dam prevents the waters from flowing. The Veda distinguishes a boundary that protects order from an enclosure that captures what should circulate.
 
-The Veda distributes this power across the *devāḥ*. When they stand together, the refrain names their joined capacity: *mahád devā́nām asuratvám ékam* — "great is the one *asura*-power of the *devāḥ*" (RV 3.55). The line closes all twenty-two verses of a hymn to the Viśvedevāḥ, the All-Devas together. One power, *ékam*, operates across the many instead of being seized at an apex.[NOTE: rv-3-55-asuratvam-ekam] The pyramid is precisely that seizure.
+The Veda also presents this power as distributed. The refrain of Ṛgveda 3.55 declares: ***mahád devā́nām asuratvám ékam*** — "great is the one *asura*-power of the *devāḥ*." The hymn addresses the Viśvedevāḥ, the All-Devas together, and repeats the line at the end of all twenty-two verses. Its single ***असुरत्व (*asuratva*)*** belongs to the plural ***devānām***, the *devāḥ* collectively. Across the hymn, one power belongs to the many *devāḥ* and remains distributed among them.[NOTE: rv-3-55-asuratvam-ekam]
 
-**The same withholding operates on the corpus.** When the containment operation turns on the *laukika* transmission — burnt libraries, suppressed lineages, a language quarantined as dead — that loss is not decay and not drift. It is *asuric destruction*: withholding at civilizational scale, a deed with a perpetrator. It stands apart from *percipient release*, the discerning community's own letting-go of what no longer serves. The community releases; the pyramid confiscates. One tends the flow; the other dams it. And the eclipse states the outcome exactly: the sun is darkened, not destroyed — Svarbhānu covers Sūrya, and the Atris find him again.
+The pyramid repeats this act of containment when it attacks a corpus. Its agents burn libraries, suppress lineages, and quarantine the language as dead. They produce *asuric destruction* at civilizational scale.
 
-The distinction can be stated in two lines.
+The *laukika* community can also release material that no longer serves. That is ***percipient release***: the discerning community tends its transmission by deciding what to continue transmitting. Asuric destruction takes that choice away from the community. One process tends the flow; the other dams it. Svarbhānu's eclipse supplies the image: the Sun has been darkened, and the Atris find it again.
 
-**The Veda does not condemn power; it condemns blocked flow.**
-
-**नामान्याख्यातजानि (*nāmāny ākhyātajāni*) - Action, not word.**
+**The Veda does not condemn power. It condemns power used to block what should flow.**

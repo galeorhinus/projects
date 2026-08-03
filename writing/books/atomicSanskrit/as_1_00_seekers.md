@@ -82,7 +82,7 @@ Sanskrit continues to work. It still labels, blesses, measures, and composes. It
 
 Sanskrit's other name is ***devabhāṣā*** (देवभाषा) — the language of the *devas*, the radiant ones. The phrase captures what the language does. It radiates light outward.
 
-Sanskrit also trains the ear to hear a name as an attribute that can express relation, action, quality, lineage, or function. Yāska's formula **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)** later gives the principle its technical form: names arise from actions.[NOTE: sanskrit-names-as-attributes] Sanskrit labels the world and discloses its structure in the same stroke.
+Sanskrit also trains the ear to hear a proper name as an attribute that can express relation, action, quality, lineage, or function.[NOTE: sanskrit-names-as-attributes] Yāska's formula **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)** states a related principle at the level of word formation: nominal words arise from verbs. Sanskrit labels the world and discloses its structure in the same stroke.
 
 Yāska turned the same discipline on *deva* itself and derived the word from action: from *dā*, to give; from *dīp*, to kindle; from *dyut*, to shine.[NOTE: yaska-deva-derivation] The radiant ones of *devabhāṣā* are the giving, the kindling, the shining — the deed embedded in the word, not a label pinned on it.
 

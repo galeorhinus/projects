@@ -492,7 +492,7 @@ Roman Jakobson, "Why 'Mama' and 'Papa'?" in Bernard Kaplan and Seymour Wapner (e
 
 Jakobson's argument: the cross-linguistic pattern in which the kinship terms for mother and father cluster around CV-syllable forms — *mama* / *māmā* / *mātṛ* / *mater* / *mother* / *mère* for mother; *papa* / *pāpā* / *pitṛ* / *pater* / *father* / *père* for father — is not evidence of genetic cognation across the languages involved. It is, on Jakobson's account, evidence of a phonological universal grounded in infant articulation. Infants across all known languages produce the labial and dental nasal-stop sequences (bilabial /m/ and /p/, dental /t/ and /d/) at early developmental stages, ahead of more articulatorily demanding sounds. Cultures across the world have taken these early-babble syllables and assigned them as kinship terms — converging on similar surface forms not because the languages share an ancestor but because they share a biology. The implication is that *mama*-type and *papa*-type kinship terms across unrelated language families (Mandarin *māma*, Swahili *mama*, Mongolian *eej* but with the same CV structure in many cases) cannot be used as evidence of common descent or contact.
 
-The deflection has standing inside comparative-philological practice. Where the Sanskrit *mātṛ* / Greek *mētēr* / Latin *māter* / English *mother* chain is presented as evidence of an Indo-European inheritance, a credentialed linguist can — and routinely does — reply that the *mātṛ*-type clustering reflects nursery-word universals as much as genetic cognation; the cognate-set evidence from kinship terms is therefore softer than the cognate-set evidence from less universal vocabulary.
+The deflection has standing inside comparative-philological practice. Where the Sanskrit *mātṛ* / Greek *mētēr* / Latin *māter* / English *mother* chain is presented as evidence of an Indo-European inheritance, a trained linguist can — and routinely does — reply that the *mātṛ*-type clustering reflects nursery-word universals as much as genetic cognation; the cognate-set evidence from kinship terms is therefore softer than the cognate-set evidence from less universal vocabulary.
 
 The chapter's response — and the structural reason *yoke* is deployed as the secondary worked example after *mother* — is that the deflection has narrow scope. *Yoke* is not a kinship term, not a CV-syllable, not phonologically universal, not an item infants babble. It is an implement-name, an agricultural-technology term, embedded in a specific material practice (the harnessing of draft animals) that Sanskrit preserves as cultural inheritance. The nursery-word account has nothing to say about *yoke*; the cognate chain Sanskrit *yuga* → Old English *geoc* → Middle English *yok* → Modern English *yoke* is recognized as a regular IE cognate set in every standard etymological reference and cannot be deflected by appeal to phonetic universals. The polemic structural move is to take the strongest deflection the pyramid has available and demonstrate that it does not reach. The argument from *mother* alone risks the nursery-word reply; the argument from *yoke* does not. Deploying both — *mother* as the personally-anchored example, *yoke* as the deflection-proof anchor — closes the rhetorical opening the *mother* case alone leaves.
 
@@ -584,7 +584,7 @@ Standard references: "Murty family gift establishes Murty Classical Library of I
 
 **Deployments:** Chapter 4 §4.1 ¶8 — the live end-time paragraph identifying the fourth Abrahamic religion's contemporary doomsday idiom.
 
-The account of contemporary climate-progress discourse as a religious formation with its own deity, end-time threat, and doomsday cult was deployed in Parag Tope, *"A Fart Tax and a Pink Revolution Can 'Save the World'"*, *Quick Take* (https://quicktake.wordpress.com/2012/12/06/indias-pink-revolution-can-save-the-world/), December 6, 2012. The 2012 post deploys the coinage ***GaWD*** *(Global Warming Deity)* to name the climate dogma as a religious formation with implicit deity-imputation, and frames climate activism as a "doomsday cult" with the structural template the present chapter formalizes: a named doom, a prescribed path of avoidance, a priestly class authorized to administer compliance, a recalcitrant out-group whose resistance threatens salvation, and a tithe-like transfer demanded as moral proof. In the climate-crisis idiom, genuine care for the earth is the impulse that gets captured. The capture converts ecological stewardship into Abrahamic end-time administration: climate catastrophe becomes apocalypse; emissions accounting becomes sin-accounting; expert management becomes priesthood; political dissent becomes heresy; the developing world becomes the threatening out-group; and carbon tax becomes tithe. The 2012 post and the 2011 *Missionaries of 'Progress'* piece together establish the analytical frame the *fourth Abrahamic religion* cluster vocabulary formalizes — a frame the author has been developing across more than a decade.
+The account of contemporary climate-progress discourse as a religious formation with its own deity, end-time threat, and doomsday cult was deployed in Parag Tope, *"A Fart Tax and a Pink Revolution Can 'Save the World'"*, *Quick Take* (https://quicktake.wordpress.com/2012/12/06/indias-pink-revolution-can-save-the-world/), December 6, 2012. The 2012 post deploys the coinage ***GaWD*** *(Global Warming Deity)* to name the climate dogma as a religious formation with implicit deity-imputation, and frames climate activism as a "doomsday cult" with the structural template the present chapter formalizes: a named doom, a prescribed *"solution"*, a priestly class authorized to administer compliance, a recalcitrant out-group whose resistance threatens salvation, and a tithe-like transfer demanded as moral proof. In the climate-crisis idiom, genuine care for the earth is the impulse that gets captured. The capture converts ecological stewardship into Abrahamic end-time administration: climate catastrophe becomes apocalypse; emissions accounting becomes sin-accounting; expert management becomes priesthood; political dissent becomes heresy; the developing world becomes the threatening out-group; and carbon tax becomes tithe. The 2012 post and the 2011 *Missionaries of 'Progress'* piece together establish the analytical frame the *fourth Abrahamic religion* cluster vocabulary formalizes — a frame the author has been developing across more than a decade.
 
 ---
 
@@ -739,7 +739,7 @@ Worked examples the tradition itself uses:
 
 - **गो (*go*)** — the classic *nānārtha* form, discussed by Yāska in the *Nirukta*. Senses include cow, the earth, speech (*vāc*), and the ray or beam of light, among others (Monier-Williams, s.v. *go*, lists these and more). One form, many referents; the reciter disambiguates by context.
 - **हरि (*hari*)** — senses include Viṣṇu, Indra, the sun, the moon, a lion, a horse, a monkey, and the color green/tawny (Monier-Williams, s.v. *hari*). A stock entry in the *nānārtha* lists.
-- **अज (*aja*)** — the native *anekaśabda* twin of *asura*, deployed in §3.6's apparatus paragraph: *aj-a*, the goat, *the driven one*, from ⟪अज्⟫ (*aj*, to drive), beside *a-ja*, the Unborn — privative *a-* + *ja* from ⟪जन्⟫ (*jan*, to be born; *ajo nityaḥ śāśvato 'yam*, Gītā 2.20). Root-derivation beside privative on one sound-form — the exact configuration of *asu-ra* / *a-sura*. The lineage debated a live instance in its own commentaries: Śvetāśvatara Upaniṣad 4.5, *ajām ekām* — read by one school as *the one unborn* (prakṛti) and by another through the she-goat metaphor. The homonym was catalogued, debated, and never mistaken for one word that changed its mind. [VERIFY: Śvet. Up. 4.5 text and the commentarial split (Śaṅkara-attributed bhāṣya vs the Sāṃkhya-leaning treatment) before print; Gītā 2.20 is standard.]
+- **अज (*aja*)** — the native *anekaśabda* twin of *asura*, deployed in §3.6's apparatus paragraph: *aj-a*, the goat, *the driven one*, from ⟪अज्⟫ (*aj*, to drive), beside *a-ja*, the Unborn — privative *a-* + *ja* from ⟪जन्⟫ (*jan*, to be born; *ajo nityaḥ śāśvato 'yam*, Gītā 2.20). Dhātu-derivation beside privative on one sound-form — the exact configuration of *asu-ra* / *a-sura*. The lineage debated a live instance in its own commentaries: Śvetāśvatara Upaniṣad 4.5, *ajām ekām* — understood by one school as *the one unborn* (prakṛti) and by another through the she-goat metaphor. The homonym was catalogued, debated, and never mistaken for one word that changed its mind. [VERIFY: Śvet. Up. 4.5 text and the commentarial split (Śaṅkara-attributed bhāṣya vs the Sāṃkhya-leaning treatment) before print; Gītā 2.20 is standard.]
 
 The mechanism was itself debated: whether a *nānārtha* form is **one word with many meanings** (***ekaśabdadarśana***, the single-word view — polysemy) or **many words sharing a form** (***anekaśabdadarśana***, the many-words view — homonymy). The terminology is the Sanskrit analytical tradition's own, surveyed in Émilie Aussant, "Sanskrit Theories on Homonymy and Polysemy" (HAL halshs-01502381): the *ekaśabda* analysis follows from accepting plurivocal word-meaning relations; the *anekaśabda* analysis follows from treating the univocal relation as the norm. Aussant's own contrast-pair is instructive — *go*, whose senses are felt as connected, against *akṣa* (die, axle, eye…), whose senses are not: the *akṣa* configuration is the *anekaśabda* case, and *asura* patterns with *akṣa*, not with *go*.
 
@@ -749,19 +749,19 @@ For *asura* the two derivations Yāska records do not share a semantic center: *
 
 ### `sura-dhatu-dipti`
 
-**Short:** The inherited *Dhātupāṭha* lists ⟪षुर्⟫, which appears as ⟪सुर्⟫, with the meanings **ऐश्वर्यदीप्त्योः** — "of sovereignty and of shining." The grammatical continuum preserved the list; Pāṇini's documentation presupposes and uses its *dhātavaḥ*. The book reads ***a-sura*** through the *dīpti* field: the figure opposed to radiance.
+**Short:** The inherited *Dhātupāṭha* lists ⟪षुर्⟫, which appears as ⟪सुर्⟫, with the meanings **ऐश्वर्यदीप्त्योः** — "of sovereignty and of shining." The grammatical continuum preserved the list; Pāṇini's documentation presupposes and uses its *dhātavaḥ*. The book derives ***a-sura*** through the *dīpti* field: the figure opposed to radiance.
 
-**Deployments:** Chapter 3 §3.6 — the radiant word-family and the book's ***a-sura*** reading; Chapter 19 §19.8 — the evidence Western dictionaries printed while still teaching semantic reversal.
+**Deployments:** Chapter 3 §3.6 — the radiant word-family and the book's ***a-sura*** derivation; Chapter 19 §19.8 — the evidence Western dictionaries printed while still teaching semantic reversal.
 
 **The dhātu in the inherited list.** The *dhātu* is ⟪सुर्⟫, cited in aupadeśika form as **षुरँ (*ṣur*)**: the initial ष् appears as स्, while the final ँ is an accent marker. The entry appears in the *tudādi gaṇa* at *Dhātupāṭha* 6.66 (ashtadhyayi.com base-index `06.0066`). Its *artha* is **ऐश्वर्यदीप्त्योः (*aiśvarya-dīptyoḥ*)**, the genitive dual "of sovereignty and of shining." Ashtadhyayi.com renders the two fields as "to rule, to be powerful, to shine" and *ऐश्वर्यवान् होना, प्रकाशित होना*. The **दीप्ति (*dīpti*)** sense therefore appears in the inherited inventory itself.
 
-**The derivation used by the book.** The *dīpti* sense supplies ***sura***, radiant, and Sanskrit's privative ***a-*** supplies ***a-sura***, the figure opposed to radiance. The operation follows the same familiar pattern as ***a-hiṃsā, a-dharma,*** and ***a-sita***. Yāska preserves the relational analysis ***asurāḥ suravirodhinaḥ***, "the asuras are opponents of the suras"; the action described in each mantra identifies whether the book reads ***asu-ra*** or ***a-sura*** there.
+**The derivation used by the book.** The *dīpti* sense supplies ***sura***, radiant, and Sanskrit's privative ***a-*** supplies ***a-sura***, the figure opposed to radiance. The operation follows the same familiar pattern as ***a-hiṃsā, a-dharma,*** and ***a-sita***. Yāska preserves the relational analysis ***asurāḥ suravirodhinaḥ***, "the asuras are opponents of the suras"; the action described in each mantra identifies whether ***asu-ra*** or ***a-sura*** is active there.
 
-**The dictionary objection.** Monier-Williams treats the noun *sura* as a probable back-formation from *asura*: a positive created by reading the initial *a-* as privative, "as *sita* from *a-sita*." That proposal concerns the surviving independent uses of the noun. It does not remove ⟪सुर्⟫ from the inherited *Dhātupāṭha*, where *dīpti* is explicit, and MW's own comparison still places the pair inside a bright / not-bright pattern. Chapter 3 rejects the dictionary's demand that an independently recorded noun must precede a form that Sanskrit can generate.
+**The dictionary objection.** Monier-Williams treats the noun *sura* as a probable back-formation from *asura*: a positive created by treating the initial *a-* as privative, "as *sita* from *a-sita*." That proposal concerns the independent uses of the noun found in the corpus. It does not remove ⟪सुर्⟫ from the inherited *Dhātupāṭha*, where *dīpti* is explicit, and MW's own comparison still places the pair inside a bright / not-bright pattern. Chapter 3 rejects the dictionary's demand that an independently recorded noun must precede a form that Sanskrit can generate.
 
-**What the machinery did with it.** The material sat in the machinery's own reference. Monier-Williams renders the dhātu सुर् "to shine," citing the *Dhātupāṭha* — and in a separate entry derives the *noun* सुर as a back-formation from *asura*, while the discipline built the Indo-Iranian reversal on the *deva/asura* ↔ *ahura/daeva* pattern. Root, noun, and privative were never joined: सुर् (*to shine*) → *sura* (the shining one) → *a-sura* (the un-shining, a word in its own right). The reading that dissolves the reversal was one cross-reference away in their own pages.
+**What the machinery did with it.** The material sat in the machinery's own reference. Monier-Williams renders the dhātu सुर् "to shine," citing the *Dhātupāṭha* — and in a separate entry derives the *noun* सुर as a back-formation from *asura*, while the discipline built the Indo-Iranian reversal on the *deva/asura* ↔ *ahura/daeva* pattern. Dhātu, noun, and privative were never joined: सुर् (*to shine*) → *sura* (the shining one) → *a-sura* (the un-shining, a word in its own right). The derivation that dissolves the reversal was one cross-reference away in their own pages.
 
-**Reception and narrative confirm the sense.** The WisdomLib rendering on RV 2.1.6 reads *asura* there in "the older sense — 'Sire' / 'Powerful' — not 'A-Sura,' the 'Anti-Shining' Demon," stating the split from inside the reception tradition. And *Svarbhānu*, the eclipse-*asura*, bears *svar* (स्वर्, the self-luminous heaven) in his name and darkens it — the un-shining one enacting the privative (see `svarbhanu-svar-etymology`).
+**Reception and narrative confirm the sense.** The WisdomLib rendering on RV 2.1.6 describes *asura* there in "the older sense — 'Sire' / 'Powerful' — not 'A-Sura,' the 'Anti-Shining' Demon," stating the split from inside the reception tradition. And *Svarbhānu*, the eclipse-*asura*, bears *svar* (स्वर्, the self-luminous heaven) in his name and darkens it — the un-shining one enacting the privative (see `svarbhanu-svar-etymology`).
 
 **The corpus itself attaches the darkness.** Śatapatha Brāhmaṇa 11.1.6.7–8 sorts the creation by breath and by light: "By (the breath of) his mouth he created the gods… Having created them, there was, as it were, **daylight** for him. And by the downward breathing he created the Asuras… Having created them there was, as it were, **darkness** for him" — Eggeling's translation, *Sacred Books of the East* vol. 44 (Oxford, 1900): **Max Müller's own series**. Upward breath → *devāḥ* → daylight; downward breath → asuras → darkness. Orientation and light, not chronology — stated from inside the corpus, and printed in the machinery's standard translation while the discipline ran the reversal-schism story. The Taittirīya Brāhmaṇa preserves the parallel (mouth → devas, loins → asuras, TB 2.2.9.5–8; the *su-/asu-* word-play at TB 2.3.8.2, 4). The Sanskrit-dictionary rendering circulating under Monier-Williams's banner repeats the derivation — "Prajāpati created Asuras with the breath (Asu); particularly from the **lower breath**." [VERIFY: exact wording of MW 1899 s.v. *asura* (and/or Macdonell) against the print scan before attributing the "lower breath" phrasing to a named dictionary; the ŚB primary is verified verbatim regardless (sacred-texts, SBE 44).]
 
@@ -863,7 +863,7 @@ The comparative-frame caveat is load-bearing: Müller says *"the same word"* and
 
 **Short:** Ṛgveda 1.174.1 addresses Indra as *asura* (vocative) — the sovereign to whom the *devāḥ* are subject, guarding the people; the deed-earned sovereign sense the Ṛgveda gives the word.
 
-**Deployments:** Chapter 3 §3.6 — the first of the two mantras showing that the Ṛgvedic *asura* is the praised sovereign (the *asu-ra* breath-bearer), earned by deed per *nāmāny ākhyātajāni*, before the book identifies its antagonist as the distinct *a-sura*.
+**Deployments:** Chapter 3 §3.6 — the first of the two mantras showing the Ṛgvedic protagonist *asura* as the *asu-ra* breath-bearer, before the chapter identifies the antagonist as the distinct *a-sura*.
 
 **Saṃhitā-pāṭha:**
 
@@ -899,30 +899,30 @@ Here *asura* is a vocative epithet of **Varuṇa** — the sovereign addressed a
 
 ### `rv-agni-mitra-rudra-asura`
 
-**Short:** The life-force reading that makes Indra and Varuṇa *asura* also applies to Agni, Rudra, and Mitra — Agni/Rudra as *asuraḥ* at RV 2.1.6 (*tvám agne rudró asuró mahó divaḥ*), Mitra-Varuṇa as *asurā* ("the *asuras* among the *devāḥ*") at RV 7.65.2 — each titled for the life he sustains.
+**Short:** The life-force derivation that makes Indra and Varuṇa *asura* also applies to Agni, Rudra, and Mitra — Agni/Rudra as *asuraḥ* at RV 2.1.6 (*tvám agne rudró asuró mahó divaḥ*), Mitra-Varuṇa as *asurā* ("the *asuras* among the *devāḥ*") at RV 7.65.2 — each titled for the life he sustains.
 
-**Deployments:** Chapter 3 §3.6 ¶ after the Indra and Varuṇa mantras — generalizes the *asu-ra* (deed-earned holder of the life-force) parse across the Ṛgveda's other praised *asuras*, so the sovereign-*asura* usage is shown to be a pattern, not two isolated verses.
+**Deployments:** Chapter 3 §3.6 ¶ after the Indra and Varuṇa mantras — generalizes the *asu-ra* (deed-earned holder of the life-force) parse across the Ṛgveda's other protagonist *asuras*, so the sovereign-*asura* usage is shown to be a pattern, not two isolated verses.
 
 **RV 2.1.6 — Agni as Rudra:**
 
 > त्वमग्ने रुद्रो असुरो महो दिवस्त्वं शर्धो मारुतं पृक्ष ईशिषे ।
 > त्वं वातैररुणैर्यासि शंगयस्त्वं पूषा विधतः पासि नु त्मना ॥
 
-"You, Agni, are Rudra, the *asura* of the great heaven; you rule (*īśiṣe*) the Marut host and the nourishing vigour (*pṛkṣ*); you travel with the ruddy winds, blessing the household; as Pūṣan you protect the worshipper by your own self." The single verse titles both **Agni** and **Rudra** *asura*, and the deed is sustaining and ruling vigour (*pṛkṣ*) and the protection of the worshipper. The WisdomLib rendering reads *asura* here in "the older sense — 'Sire' / 'Powerful' — not 'A-Sura,' the 'Anti-Shining' Demon," articulating the *suraḥ* / *a-suraḥ* split from within the reception tradition.
+"You, Agni, are Rudra, the *asura* of the great heaven; you rule (*īśiṣe*) the Marut host and the nourishing vigour (*pṛkṣ*); you travel with the ruddy winds, blessing the household; as Pūṣan you protect the worshipper by your own self." The single verse titles both **Agni** and **Rudra** *asura*, and the deed is sustaining and ruling vigour (*pṛkṣ*) and the protection of the worshipper. The WisdomLib rendering describes *asura* here in "the older sense — 'Sire' / 'Powerful' — not 'A-Sura,' the 'Anti-Shining' Demon," articulating the *suraḥ* / *a-suraḥ* split from within the reception tradition.
 
 **RV 7.65.2 — Mitra-Varuṇa:** *tā́ vāṃ … devā́nām asurā́* — "you two are the *asuras* among the *devāḥ*"; the pair is asked to make the dwellings *ūrjayantīḥ*, "full of vigour." **Mitra** bears the *asura* title (in the dual with Varuṇa) as the bond that sustains and nourishes — again the sustaining of life. (Padapāṭha and Wilson/Sāyaṇa rendering at wisdomlib; cf. the per-deity survey in `working/40_reference/research/as_asura_sura_asurya_vedic_survey.md` §3.2, §3.5.)
 
 ---
 
-### `nirukta-names-from-actions`
+### `nirukta-nominal-words-from-actions`
 
-**Short:** *Nirukta* 1.12 — ***tatra nāmāny ākhyātajāni iti śākaṭāyano nairuktasamayaś ca***: "names arise from actions" is Śākaṭāyana's thesis and the settled position (*samaya*) of the Nairukta school, which Yāska adopts as the discipline's working method; *Nirukta* 1.12–14 debates and rebuts Gārgya's partial dissent.
+**Short:** *Nirukta* 1.12 records Śākaṭāyana's principle ***nāmāny ākhyātajāni***: nominal words arise from verbs. The statement concerns the derivation of nouns and does not claim that a proper name predicts its bearer's conduct.
 
-**Deployments:** Chapter 3 §3.6 (Yāska's governing rule, introduced before the *asura* parses); §3.7 close ("As Yāska said, *nāmāny ākhyātajāni*"); the "Action, not word" governing line.
+**Deployments:** Chapter 3 §3.6, where the text separates the derivation of nominal words from the conduct of actors who bear proper names.
 
-The principle **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)** — *names are born from verbs / actions* — opens the *Nirukta*'s methodological discussion at 1.12: *tatra nāmāny ākhyātajāni iti śākaṭāyano nairuktasamayaś ca* — "here, that names arise from *ākhyātas* (verbal actions) is the view of Śākaṭāyana and the consensus of the Nairuktas." Gārgya and the grammarians take the narrower view that only morphologically transparent nouns derive from verbs; Yāska argues the Nairukta side across 1.12–14 and operates the whole *Nirukta* on it: every name is traceable to a *dhātu*, similar in form and meaning, and discloses the action of its bearer.
+The principle **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)** opens the *Nirukta*'s methodological discussion at 1.12: *tatra nāmāny ākhyātajāni iti śākaṭāyano nairuktasamayaś ca* — "here, that nominal words arise from *ākhyātas* (verbs) is the view of Śākaṭāyana and the consensus of the Nairuktas." In this grammatical discussion, ***nāmāni*** refers to nouns or nominal words. Gārgya argues that the derivation applies only to nouns whose form and meaning transparently connect them to verbs; Yāska defends the broader Nairukta method across 1.12–14.
 
-The rule is not an antiquarian curiosity; it is the analytical warrant Chapter 3 uses. Yāska applies it to *asura* itself — two of his four parses (*asyati*, *asuratāḥ*) derive the word from the *dhātu* ⟪अस्⟫, reading the bearer's deed out of the name (see `yaska-asura-nirukta`).
+Yāska applies this method to the word *asura*: two of his four explanations, *asyati* and *asuratāḥ*, derive the nominal word from the *dhātu* ⟪अस्⟫. The principle explains the derivation of the word. The action described in a particular mantra supplies the context needed to distinguish ***asu-ra*** from ***a-sura*** (see `yaska-asura-nirukta`).
 
 Source: *Nirukta* 1.12, Lakshman Sarup's edition and translation (*The Nighaṇṭu and the Nirukta*, 1920–27). [VERIFY: verbatim Sanskrit of 1.12 against print Sarup at print-prep.]
 
@@ -932,7 +932,7 @@ Source: *Nirukta* 1.12, Lakshman Sarup's edition and translation (*The Nighaṇ�
 
 **Short:** Yāska's *Nirukta* 3.8 does not give *asura* one derivation; it lays out a menu in the *iti vā … iti vā* style — the breath-bearer (*asu*, the life-force set in the body), the evil-caster (⟪अस्⟫, *asyaty anarthān*), the cast-down (⟪अस्⟫, *asuratāḥ*), and the relational *asurāḥ suravirodhinaḥ* ("opponents of the *suras*"). One form, several words, set out in the open — the discipline's own record that the form is a meeting-place, not a single word.
 
-**Deployments:** Chapter 3 §3.6 — the four-parse blockquote and the *vaidika* / *laukika* sort that follows it; the *anekaśabda* argument against the pyramid's reversal-story.
+**Deployments:** Chapter 3 §3.6 — Yāska's alternative explanations of *asura* and the *anekaśabda* argument against the pyramid's reversal-story.
 
 The *Nirukta* treats *asura* in its characteristic alternative-offering style. The four parses, with working translations:
 
@@ -947,15 +947,53 @@ Source: *Nirukta* 3.8, Sarup's edition; the core fragment independently corrobor
 
 ---
 
+### `samaveda-padapatha-asurasya-split`
+
+**Short:** Yāska explains the opposition in ***asurāḥ suravirodhinaḥ***. The Kauthuma Sāmaveda Padapāṭha separately divides ***asurasya*** as ***a + surasya***.
+
+**Deployment:** Chapter 3 §3.6 — immediately after Yāska's two explanations, where the body distinguishes an explanation of meaning from the visible division of the word.
+
+The division occurs in the Kauthuma Padapāṭha treatment of Sāmaveda 1.78, corresponding to Ṛgveda 7.6.1a, ***pra samrājam asurasya praśastam***. Sūrya Kānta records the Padapāṭha analysis explicitly as ***asurasya (= a | surasya)***. Yāska and the Padapāṭha therefore supply two different pieces of internal evidence: Yāska records opposition to *sura*, while the Padapāṭha separates the privative ***a-*** from ***sura***.
+
+Source: Sūrya Kānta, ed., *Ṛktantra: A Prātiśākhya of the Sāmaveda*, p. 54, [Internet Archive scan](https://archive.org/details/in.ernet.dli.2015.61686/page/n76/mode/1up).
+
+---
+
 ### `asura-standard-semantic-reversal-account`
 
 **Short:** The comparative account begins with a reconstructed Indo-Iranian ancestor of Sanskrit *asura* and Iranian *ahura*, assigns it the sense "lord," and describes the antagonist sense in India as a later semantic change. Chapter 3 presents that chronology as the pyramid's account before testing it against the Rigvedic passages.
 
 **Deployment:** Chapter 3 §3.6 — the three-stage account that the section disputes.
 
-The exact starred forms vary by reconstruction. Mayrhofer traces Sanskrit *asura-* through Proto-Indo-Iranian ***Hásuras***; deeper Indo-European proposals include forms represented as ***h₂ḿ̥suros***. The reconstruction is not a surviving word from a surviving sentence. It is an inferred ancestor created by comparative method. Encyclopaedia Iranica, s.v. "Ahura," describes *ahura* as inherited from prehistoric Indo-Iranian religion and presents the Indian history as a change in terminology: *asura* becomes confined to beings opposed to the *devas*. The same article calls Varuṇa, Mitra, and other Rigvedic figures the "older gods" and reads the Rigvedic evidence through a process of polarization. This supplies a clear representative statement of the account challenged in §3.6.
+The exact starred forms vary by reconstruction. Mayrhofer traces Sanskrit *asura-* through Proto-Indo-Iranian ***Hásuras***; deeper Indo-European proposals include forms represented as ***h₂ḿ̥suros***. The reconstruction is not a recorded word from a recorded sentence. It is an inferred ancestor created by comparative method.
 
-Sources: Manfred Mayrhofer, *Etymologisches Wörterbuch des Altindoarischen*, s.v. *asura-*; F. B. J. Kuiper, "AHURA," *Encyclopaedia Iranica*, vol. I, fasc. 7, 683–84, https://www.iranicaonline.org/articles/ahura-1-type-of-deity/; Monier-Williams, s.vv. *asura* and *sura*. The manuscript says "reconstructions such as" because the deeper PIE notation is not uniform across references.
+The standard chronology then arranges the uses of *asura* as a semantic change. Stanley Insler's review of Wash Edward Hale's *Ásura- in Early Vedic Religion* describes the Rigvedic term as applying to "powerful and beneficent gods," while later texts apply it to "hostile and demonic forces" opposed to the *devas*. The review says that Hale examines the occurrences in a proposed chronological sequence beginning with the Rigveda's so-called family books. Encyclopaedia Iranica, s.v. "Ahura," likewise calls the Rigvedic asuras the "older gods," calls the devas the "younger gods," and describes their relationship as a process of polarization. Monier-Williams then derives later ***sura***, "divinity," probably from ***asura*** reanalyzed as ***a-sura***. Together these sources document all three stages challenged in §3.6: an inferred Indo-Iranian ancestor, a chronological semantic reversal in India, and a later back-formation of ***sura***.
+
+Sources: Manfred Mayrhofer, *Etymologisches Wörterbuch des Altindoarischen*, s.v. *asura-*; Stanley Insler, review of Wash Edward Hale, *Ásura- in Early Vedic Religion*, *Journal of the American Oriental Society* 113.4 (1993), 595–96, DOI 10.2307/605791; F. B. J. Kuiper, ["AHURA," *Encyclopaedia Iranica*](https://www.iranicaonline.org/articles/ahura-1-type-of-deity/), vol. I, fasc. 7, 683–84; Monier-Williams, [s.v. *sura*](https://sanskrit.uohyd.ac.in/SKT/MW/299.html). The manuscript says "reconstructions such as" because the deeper PIE notation is not uniform across references.
+
+---
+
+### `asura-factional-framing`
+
+**Short:** Comparative accounts explicitly arrange Rigvedic asuras and devas as older and younger divine groups in opposition, rather than beginning with the actions performed by each actor in each mantra.
+
+**Deployment:** Chapter 3 §3.6 — "How Faction Hides Action."
+
+The factional description is not inferred from a stray adjective in Chapter 3. Kuiper calls the Rigvedic asuras the "older gods" and the devas the "younger gods." He says that some asuras "went over" to the devas, while the others were driven away, and names the process "polarization." Insler's review of Hale describes hostile asuras as forces placed in "opposition and contention" with the deva gods and asks whether the original Indo-Iranian community contained opposing asura and daiva cults. This vocabulary turns the actors into rival divine groupings and treats the change as a history of affiliations. Chapter 3 restores the distinction visible in the mantras themselves: the protagonist or antagonist role follows from what the actor does.
+
+Sources: F. B. J. Kuiper, ["AHURA," *Encyclopaedia Iranica*](https://www.iranicaonline.org/articles/ahura-1-type-of-deity/); Stanley Insler, review of Wash Edward Hale, *Ásura- in Early Vedic Religion*, *Journal of the American Oriental Society* 113.4 (1993), 595–96, DOI 10.2307/605791.
+
+---
+
+### `zoroaster-daeva-ahura-doctrinal-reversal`
+
+**Short:** Zoroaster's Gāthās reject the *daēvas* while centering Ahura Mazdā. A later Zoroastrian confession states the contrast directly: rejecting the *daēvas* and following the Ahuric doctrine.
+
+**Deployment:** Chapter 3 §3.6 — "What the Conflation Buys."
+
+Yasna 32.3, within the Gāthās attributed to Zoroaster, addresses the *daēvas* as born from bad thought and associated with falsehood and arrogance. This is the direct basis for describing Zoroaster's move as doctrinal: the Gāthic teaching rejects the *daēvas* and centers Ahura Mazdā. The later Zoroastrian confession in Yasna 12.1 makes the paired identity explicit: ***mazdayasnō zaraθuštriš vīdaēvō ahura.ṱkaēšō***, a Mazda-worshipper and Zoroastrian who rejects the *daēvas* and follows the Ahuric doctrine. Yasna 12.1 records the later confessional formula; it is not presented here as a sentence spoken by Zoroaster himself.
+
+Sources: [Yasna 32.3](https://avesta.org/yasna/index.html); Mary Boyce, ["AHURA.ṰKAĒŠA," *Encyclopaedia Iranica*](https://www.iranicaonline.org/articles/ahura-tkaesa/), including Yasna 12.1.
 
 ---
 
@@ -965,7 +1003,7 @@ Sources: Manfred Mayrhofer, *Etymologisches Wörterbuch des Altindoarischen*, s.
 
 **Deployment:** Chapter 3 §3.6 — the evidence against arranging the two uses as a simple early-to-late reversal.
 
-Maṇḍala Five places Svarbhānu and Rudra close together. RV 5.40.5 calls Svarbhānu ***āsuraḥ*** while he pierces Sūrya with darkness; 5.40.9 repeats that identification. Two hymns later, RV 5.42.11 invokes Rudra with both categories in the same verse: ***rudraṃ devāso asuraṃ duvasya***, "Serve Rudra, the asura, O devas." RV 5.63.3 addresses Mitra and Varuṇa through the ***asura*** field, and 5.85.5 calls Varuṇa ***āsura*** while describing his power.
+Maṇḍala Five places Svarbhānu and Rudra close together. RV 5.40.5 calls Svarbhānu ***āsuraḥ*** while he pierces Sūrya with darkness; 5.40.9 repeats that identification. Two hymns later, RV 5.42.11 invokes Rudra with both categories in the same verse: ***namobhir devam asuraṃ duvasya***, "With homage, honor the deva, the asura." RV 5.63.3 addresses Mitra and Varuṇa through the ***asura*** field, and 5.85.5 calls Varuṇa ***āsura*** while describing his power.
 
 Maṇḍala Seven preserves the same coexistence. RV 7.65.2 addresses Mitra and Varuṇa as ***devānām asurā***, "the asuras among the devas." RV 7.99.5 names the defeated Varcin's warriors ***asurasya vīrān***, "the warriors of the asura." The section therefore does not need to compare one supposedly early collection with one supposedly late collection. The contrasting uses already coexist inside the collection to which the pyramid assigns early status.
 
@@ -981,7 +1019,11 @@ Text and morphological forms checked against VedaWeb 1.0 TEI, data release DOI 1
 
 The immediate field of RV 5.40.5 contains **सूर्य (*sūrya*)**, the Sun; **स्वर् (*svar*)**, the luminous realm embedded in Svarbhānu's name; **भानु (*bhānu*)**, radiance, also embedded in his name; and **तमस् (*tamas*)**, darkness. Elsewhere the Rigveda repeatedly uses ***sūri, sūra, svar, sūrya, deva, div, dyu, jyotis, bhā, bhānu, dī,*** and ***dīpti***-related formations across the field of light and shining. These words do not all descend from one atom. Together they establish that radiance is already fully available as a semantic and poetic field.
 
+The statement that hundreds of Rigvedic mantras use ***deva*** is reproducible. An exact query for VedaWeb 1.0 lemma `#lemma_deva_4419` returns 1,646 tokens distributed across 1,467 mantras. Maṇḍala Five contains 111 tokens in 100 mantras; Maṇḍala Seven contains 130 tokens in 120 mantras. The query counts the exact ***deva*** lemma and does not inflate the result with compounds. The reproducible script is `analysis/asura/count_rigvedic_deva.py`.
+
 The grammatical continuum separately preserves ⟪षुर्⟫ / ⟪सुर्⟫ with **ऐश्वर्यदीप्त्योः**, sovereignty and shining, in the inherited *Dhātupāṭha*. It also preserves ⟪दिव्⟫ in the field of shining. Chapter 3 uses them as parallel radiant atoms; it does not claim that ⟪सुर्⟫ and ⟪दिव्⟫ are historically one atom. See `sura-dhatu-dipti` and `yaska-deva-derivation`.
+
+Corpus source: VedaWeb 1.0 TEI, commit `f9757556fad27b0aa927c581427643f12d352bbb`, DOI 10.5281/zenodo.4601264.
 
 ---
 
@@ -991,11 +1033,11 @@ The grammatical continuum separately preserves ⟪षुर्⟫ / ⟪सुर
 
 **Deployment:** Chapter 3 §3.6 — the named-antagonist inventory and the action-versus-faction analysis.
 
-**Pipru, RV 10.138.3–4.** Verse 3 calls him ***pípror ásurasya māyínaḥ***, "Pipru, the asura, the māyin," and says Indra opened his firm fortifications with Ṛjiśvan. Verse 4 describes the destruction of treasure-houses or fortified stores. The hymn's earlier movement includes released waters or cattle and the Sun shining forth through truth-born song. Chapter 3 reads those elements together as enclosure opposed by release. The verse calls Pipru *māyin*; "dark, deceptive māyā" is the chapter's interpretation of how his power functions in this hymn, not a separate dictionary meaning supplied by the verse.
+**Pipru, RV 10.138.3–4.** Verse 3 calls him ***pípror ásurasya māyínaḥ***, "Pipru, the asura, the māyin," and says Indra opened his firm fortifications with Ṛjiśvan. Verse 4 describes the destruction of treasure-houses or fortified stores. The hymn's earlier movement includes released waters or cattle and the Sun shining forth through truth-born song. Chapter 3 connects those elements as enclosure opposed by release. The verse calls Pipru *māyin*; "dark, deceptive māyā" is the chapter's explanation of how his power functions in this hymn, not a separate dictionary meaning supplied by the verse.
 
-**Varcin, RV 7.99.5.** The mantra says that Indra and Viṣṇu pierced Śambara's ninety-nine fortifications and struck ***varcínaḥ ... ásurasya vīrān***, "the warriors of the asura Varcin." RV 6.47.21–22 places Varcin and Śambara's defeat beside a *dānastuti* in which Śambara's goods are distributed as gifts. The difficult word ***vasnayantā*** in 6.47.21 has been read as mercenaries, hagglers, or figures seeking a price. The body therefore presents the gate-and-payment analysis as the book's synthesis rather than as a literal translation of the two verses.
+**Varcin, RV 7.99.5.** The mantra says that Indra and Viṣṇu pierced Śambara's ninety-nine fortifications and struck ***varcínaḥ ... ásurasya vīrān***, "the warriors of the asura Varcin." RV 6.47.21–22 places Varcin and Śambara's defeat beside a *dānastuti* in which Śambara's goods are distributed as gifts. Translators have rendered the difficult word ***vasnayantā*** in 6.47.21 as mercenaries, hagglers, or figures seeking a price. The body therefore presents the gate-and-payment analysis as the book's synthesis rather than as a literal translation of the two verses.
 
-**Namuci, RV 10.131.4.** The verse calls him ***āsura*** while describing the Aśvins separating the *surā-soma* in his company and helping Indra. This mantra does not itself narrate the withholding of Indra's strength. That action appears in the later Vedic Namuci cycle, especially Śatapatha Brāhmaṇa 12.7.1–3. The transparent internal reading of the name, ***na + ⟪muc⟫***, "the one who does not release," supports the chapter's action-based use while remaining a name analysis rather than a translation of RV 10.131.4.
+**Namuci, RV 10.131.4.** The verse calls him ***āsura*** while describing the Aśvins separating the *surā-soma* in his company and helping Indra. This mantra does not itself narrate the withholding of Indra's strength. That action appears in the later Vedic Namuci cycle, especially Śatapatha Brāhmaṇa 12.7.1–3. The transparent internal derivation of the name, ***na + ⟪muc⟫***, "the one who does not release," supports the chapter's action-based use while remaining an analysis of the proper name rather than a translation of RV 10.131.4.
 
 **Svarbhānu, RV 5.40.5 and 5.40.9.** Both verses use ***āsura*** while describing him piercing Sūrya with darkness. This is the section's complete demonstration because the title, action, radiance vocabulary, and darkness occur together. See `rigveda-5-40-5-svarbhanu-eclipse`.
 
@@ -1005,25 +1047,37 @@ Rigvedic forms checked against VedaWeb 1.0 TEI. Translations compared with Jamis
 
 ### `rigveda-privative-generativity`
 
-**Short:** The fixed VedaWeb 1.0 corpus contains 48 tokens assigned to the lemma ***a-dabdha*** and no independent lemma ***dabdha***. The Rigveda therefore demonstrates that a privative formation can recur extensively even when its proposed positive counterpart does not occur independently in the same surviving corpus.
+**Short:** The fixed VedaWeb 1.0 corpus contains 48 tokens assigned to the lemma ***a-dabdha*** and no independent lemma ***dabdha***. The Rigveda therefore demonstrates that a privative formation can recur extensively even when its proposed positive counterpart does not occur independently in the same corpus.
 
 **Deployment:** Chapter 3 §3.6 — the answer to the claim that standalone ***sura*** must occur before Sanskrit can generate ***a-sura***.
 
-The count was reproduced against the VedaWeb 1.0 TEI release at commit `f9757556fad27b0aa927c581427643f12d352bbb`, DOI 10.5281/zenodo.4601264. Tokens whose morphological analysis points to lemma `#lemma_adabDa_272` total 48. An exact search of the same lemma inventory found no independent `dabdha` lemma. The corpus does contain a separate lemma ***dábha-*** four times; that form should not be silently counted as ***dabdha***.
+The count was reproduced against the VedaWeb 1.0 TEI release at commit `f9757556fad27b0aa927c581427643f12d352bbb`, DOI 10.5281/zenodo.4601264. Tokens whose analysis points to lemma `#lemma_adabDa_272` total 48. An exact search of the same lemma inventory found no independent `dabdha` lemma. The corpus contains a separate lemma ***dábha-*** four times; that is a different form and cannot be counted as ***dabdha***.
 
-These figures supersede the provisional DCS figures of 44 and one that appeared in the planning documents. The body uses "dozens" so that the argument remains readable; the endnote records the corpus, release, query basis, and exact result. The comparison establishes a grammatical point inside this fixed corpus. It does not claim that no positive form could appear in every Vedic text or every manuscript outside the Rigveda.
+These figures supersede the provisional DCS figures of 44 and one that appeared in the planning documents. DCS analyzes RV 3.54.18 ***adabdhāni*** compositionally as ***a + dabh***. The form remains privative and does not supply an independent occurrence of ***dabdha***. The body therefore states the exact result: forty-eight uses of ***a-dabdha*** and zero independent uses of ***dabdha*** in the Ṛgveda.
+
+---
+
+### `rigveda-adeva-privative`
+
+**Short:** The Ṛgveda repeatedly uses ***a-deva*** as a privative antagonist, and RV 6.17.8 places ***adevaḥ*** and ***devān*** in the same line.
+
+**Deployment:** Chapter 3 §3.6 — the first of three Rigvedic demonstrations that Sanskrit's privative architecture generates antagonist words directly.
+
+RV 6.17.8 states ***adevo yad abhy auhiṣṭa devān***: "when the *a-deva* attacked the *devāḥ*." The line presents the positive form and its privative counterpart together. A reconciled search of the DCS Ṛgveda data, including tokens represented both as `adeva` and as segmented `a deva` while excluding ***ādevam***, finds 25 occurrences of the privative formation. The exact count belongs here; the body needs only the direct contrast in RV 6.17.8.
+
+Source: Ṛgveda 6.17.8, Sanskrit and translation comparison at [WisdomLib](https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc833876.html); DCS Ṛgveda pada and analysis data.
 
 ---
 
 ### `asura-generativity-pie-double-standard`
 
-**Short:** Comparative reconstruction permits starred forms that survive in no sentence, while the standard account rejects a Sanskrit derivation because its positive base does not occur independently in the Rigveda. Chapter 3 identifies that mismatch as the double standard protecting the semantic-reversal chronology.
+**Short:** Comparative reconstruction permits starred forms that appear in no recorded sentence, while the standard account rejects a Sanskrit derivation because its positive base does not occur independently in the Rigveda. Chapter 3 identifies that mismatch as the double standard protecting the semantic-reversal chronology.
 
 **Deployment:** Chapter 3 §3.6 — "What the Conflation Buys"; Chapter 19 §19.8 can point back to this note.
 
 PIE reconstructions are inferred sound-forms, conventionally marked with an asterisk because no direct textual witness records them. The method can be useful for grouping correspondences, but the asterisk marks reconstruction, not a recovered utterance. Sanskrit's privative architecture is directly documented and repeatedly active in the Rigveda. The fixed VedaWeb comparison in `rigveda-privative-generativity` demonstrates that an independently missing positive counterpart does not prevent a privative form from being used dozens of times.
 
-The disputed treatment therefore grants the reconstructed language more generative freedom than it grants Sanskrit. A starred PIE ancestor may be proposed without a surviving sentence, while ***a-sura*** is rejected because standalone ***sura*** does not independently occur in the surviving Rigveda. Chapter 3 argues that Sanskrit's architecture and the action in RV 5.40.5 together provide stronger evidence than the reconstructed chronology.
+The disputed treatment therefore grants the reconstructed language more generative freedom than it grants Sanskrit. A starred PIE ancestor may be proposed without a recorded sentence, while ***a-sura*** is rejected because standalone ***sura*** does not independently occur in the Ṛgveda. Chapter 3 argues that Sanskrit's architecture and the action in RV 5.40.5 together provide stronger evidence than the reconstructed chronology.
 
 Sources: the comparative sources in `asura-standard-semantic-reversal-account`; VedaWeb data in `rigveda-privative-generativity`; the internal derivations in `yaska-asura-nirukta` and `sura-dhatu-dipti`.
 
@@ -1079,9 +1133,9 @@ Source basis: Ṛgveda 7.104.18; final production should verify accenting and ex
 
 **Deployments:** Chapter 3 §3.7 — first member of the containment triad (waters); the deed-not-word proof (the arch-withholder is not called *asura*). Chapter 4 opening epigraph.
 
-Ṛgveda 1.32 (Maṇḍala 1, to Indra) narrates the deed the tradition treats as Indra's defining act: Vṛtra lies coiled on the mountain enclosing the waters; Indra strikes him with the *vajra*; the waters break free and flow to the sea "like lowing cows." The name **वृत्र (*vṛtra*)** is itself an action-name per *nāmāny ākhyātajāni*: from ⟪वृ⟫, *to cover, to obstruct* — the Coverer, the Obstructor. The hymn's own epithets for him are *māyin* (wielder of *māyā*), *dāsa*, and the patronymic Dānava — not *asura*; the deed of containment, not the word, marks him as the adversary (the §3.7 proof).
+Ṛgveda 1.32 (Maṇḍala 1, to Indra) narrates the deed the tradition treats as Indra's defining act: Vṛtra lies coiled on the mountain enclosing the waters; Indra strikes him with the *vajra*; the waters break free and flow to the sea "like lowing cows." The word **वृत्र (*vṛtra*)** derives from ⟪वृ⟫, *to cover, to obstruct*: the Coverer, the Obstructor. The hymn's own epithets for him are *māyin* (wielder of *māyā*), *dāsa*, and the patronymic Dānava — not *asura*; the deed of containment, not the word, marks him as the adversary (the §3.7 proof).
 
-Chapter 4 uses 1.32.11 as the epigraph because it makes the custody pattern visible in a single image: the waters are obstructed and guarded by Ahi, like cows held by a Paṇi; when the opening has been covered, Indra strikes Vṛtra and opens it. The fourth Abrahamic religion repeats that structure through doctrine, custody, archive, institution, and credentialed gate.
+Chapter 4 uses 1.32.11 as the epigraph because it makes the custody pattern visible in a single image: the waters are obstructed and guarded by Ahi, like cows held by a Paṇi; when the opening has been covered, Indra strikes Vṛtra and opens it. The fourth Abrahamic religion repeats that structure through doctrine, custody, archive, institution, and an institutional gate.
 
 Standard text and translations: Wilson (rendering Sāyaṇa) and Griffith ad RV 1.32; saṃhitā and padapāṭha witnesses at wisdomlib.
 
@@ -1105,7 +1159,7 @@ Source: Wilson ad RV 2.24.3 (wisdomlib); RV 10.108 (Saramā–Paṇi dialogue), 
 
 **Short:** Ṛgveda 8.42.1 — *astabhnād dyām asuro viśvavedā amimīta varimāṇaṃ pṛthivyāḥ* — "the *asura*, all-knowing, propped up the heaven; he measured out the breadth of the earth; as *samrāṭ* he took his seat over all beings: all these are the ordinances (*vratāni*) of Varuṇa." The *asura* as the measurer: the engineering faculty in Vedic dress.
 
-**Deployments:** Chapter 3 §3.7 — the *asuratva* paragraph (the sustaining-and-measuring power in two orientations); the boundary-vs-enclosure line (Varuṇa builds and the flow still moves).
+**Deployments:** Chapter 3 §3.7 — the boundary-and-enclosure comparison. Varuṇa constructs an ordered space in which life can move; Vṛtra constructs an enclosure that stops the waters.
 
 **Saṃhitā-pāṭha:**
 
@@ -1116,7 +1170,7 @@ Source: Wilson ad RV 2.24.3 (wisdomlib); RV 10.108 (Saramā–Paṇi dialogue), 
 
 **Translation:** "The *asura*, all-knowing, propped up the heaven; he measured out the breadth of the earth. As *samrāṭ* (universal ruler) he took his seat over all beings. All these are the *vratāni* (ordinances) of Varuṇa."
 
-Key verbs: *astabhnāt* (propped, pillared apart — ⟪स्तम्भ्⟫), *amimīta* (measured out — ⟪मा⟫, middle voice), *āsīdat* (took his seat — ⟪सद्⟫). The *asura* here props, measures, and legislates — and under the propped frame the waters and the light still move, which is why the Veda praises the structure (the §3.7 boundary-vs-enclosure line). The epithet-formula *asuro viśvavedāḥ* recurs at VS 27.12 (= TS 4.1.8.1 = MS 2.12.6) re-anchored on Agni/Tanūnapāt — the same ordering-function formula, stable across the corpus. Padapāṭha verified against wisdomlib witnesses.
+Key verbs: *astabhnāt* (propped, pillared apart — ⟪स्तम्भ्⟫), *amimīta* (measured out — ⟪मा⟫, middle voice), *āsīdat* (took his seat — ⟪सद्⟫). The *asura* here props, measures, and establishes order. Chapter 3 §3.7 contrasts this ordered boundary with Vṛtra's enclosure: Varuṇa's structure allows life, water, and light to move, while Vṛtra's dam stops the waters. The epithet-formula *asuro viśvavedāḥ* recurs at VS 27.12 (= TS 4.1.8.1 = MS 2.12.6) re-anchored on Agni/Tanūnapāt — the same ordering-function formula, stable across the corpus. Padapāṭha verified against wisdomlib witnesses.
 
 ---
 
@@ -1124,9 +1178,9 @@ Key verbs: *astabhnāt* (propped, pillared apart — ⟪स्तम्भ्⟫
 
 **Short:** Ṛgveda 3.55 repeats the refrain ***mahád devā́nām asuratvám ékam*** — "great and single is the *asura*-power of the *devāḥ*" — across all twenty-two of its verses. The abstract *asuratva* appears 24 times in the Ṛgveda, 22 of them in this one hymn's refrain: the power belongs to the *devāḥ* collectively — across the many, not seized at an apex.
 
-**Deployments:** Chapter 3 §3.7 — the distributed-not-apex paragraph ("the pyramid is precisely the seizure the Veda refuses").
+**Deployments:** Chapter 3 §3.7 — the distributed-power paragraph. The singular *asuratvam* belongs to the plural *devānām*.
 
-The refrain — **महद् देवानाम् असुरत्वम् एकम् (*mahád devā́nām asuratvám ékam*)** — closes every verse of RV 3.55 (Maṇḍala 3, a Viśvedevāḥ hymn). The abstract noun **असुरत्व (*asuratva*)**, "*asura*-hood, *asura*-power," is rare in the Ṛgveda — 24 occurrences, of which 22 are this single hymn's refrain — so the corpus's own concentrated statement about *asuratva* is precisely this line. Its grammar states the argument Chapter 3 §3.7 makes: the power is *ékam* (one), *mahát* (great), and *devā́nām* (of the *devāḥ*, genitive plural) — a single great power distributed across the plurality, not the possession of a single peak. The hymn's refrain-form enacts the distribution: the same line, returning under twenty-two different verses.
+The refrain — **महद् देवानाम् असुरत्वम् एकम् (*mahád devā́nām asuratvám ékam*)** — closes every verse of RV 3.55 (Maṇḍala 3, a Viśvedevāḥ hymn). The abstract noun **असुरत्व (*asuratva*)**, "*asura*-hood, *asura*-power," is rare in the Ṛgveda — 24 occurrences, of which 22 are this single hymn's refrain — so the corpus's own concentrated statement about *asuratva* is precisely this line. The grammar places *asuratvam* in the singular, describes it as *ekam* (one) and *mahat* (great), and assigns it to *devānām* (of the *devāḥ*, genitive plural). Chapter 3 reads this as one great power shared across the plurality. The refrain gives that reading a formal pattern by returning beneath twenty-two different verses.
 
 Source: RV 3.55, standard saṃhitā text; occurrence counts per the standard concordance tallies (Grassmann s.v. *asuratva*). [VERIFY: exact 24/22 split against Grassmann or the Vishva Bandhu Koṣa at print-prep.]
 
@@ -1456,7 +1510,7 @@ The wider inventory of English words of Sanskrit origin — including *bandanna*
 
 **Short:** Sanskrit naming often preserves relation, action, quality, function, or field of use. A name can be an attribute-field, not merely a flat label.
 
-**Deployments:** Chapter 0 §0.3 — the paragraph linking Sanskrit's own names to the wider Sanskrit habit of naming through attributes; forward pointer to Chapter 12 and Yāska's **नामान्याख्यातजानि** (*nāmāny ākhyātajāni*).
+**Deployments:** Chapter 0 §0.3 — the paragraph on proper names as attributes, followed by the related but distinct principle that nominal words can arise from verbs.
 
 Arjuna's names demonstrate the principle without needing technical apparatus. **कौन्तेय (*Kaunteya*)** ties him to Kuntī; **पार्थ (*Pārtha*)** to Pṛthā; **धनञ्जय (*Dhanañjaya*)** to conquest or winning of wealth. Kṛṣṇa's names work the same way. **वासुदेव (*Vāsudeva*)** ties him to Vasudeva; **गोविन्द (*Govinda*)** opens the field of cows, earth, senses, finding, and protection depending on context; **माधव (*Mādhava*)** and **केशव (*Keśava*)** each foreground a different relation or attribute in the tradition that uses the name.
 
@@ -1464,7 +1518,7 @@ Water-names similarly preserve semantic coloring rather than functioning as inte
 
 The same principle applies to Sanskrit's own descriptions. **संस्कृतम् (*saṃskṛtam*)** is perfect assembly, the wholly made. **भाषा (*bhāṣā*)** is everyday speech. **वाक् (*vāk*)** is Speech as principle and power. **वाणी (*vāṇī*)** covers voice, utterance, and expression. **देवभाषा (*devabhāṣā*)** and **देववाणी (*devavāṇī*)** convey the radiant / deva form. **गीर्वाणी (*gīrvāṇī*)** and **सुरभारती (*surabhāratī*)** preserve the poetic high form of divine speech. **शब्दविद्या (*śabda-vidyā*)** is the knowledge-system of sound and word. **सनातनभाषा (*sanātana-bhāṣā*)** frames Sanskrit through continuity: the language preserved across the *Sanātan* civilizational field. **ध्रुवमान भाषा (*dhruvamāna bhāṣā*)** is the book's technical phrasing for Sanskrit as calibrant language: the language that functions as a fixed measure.
 
-The point is not that every occurrence of every name performs a full etymological analysis in context. The point is that Sanskrit keeps names open to relation, function, and recoverable structure. Chapter 12 develops this at the word-building level through Yāska's formula **नामान्याख्यातजानि** (*nāmāny ākhyātajāni*): names arise from actions.
+Sanskrit keeps proper names open to relation, function, and recoverable structure. Yāska's formula **नामान्याख्यातजानि** (*nāmāny ākhyātajāni*) concerns a related but separate feature of word formation: nominal words arise from verbs. It does not claim that a proper name predicts the conduct of its bearer.
 
 ---
 
@@ -1474,7 +1528,7 @@ The point is not that every occurrence of every name performs a full etymologica
 
 **Deployments:** Chapter 0 §0.3 — the Yāska-*deva* seed grounding *devabhāṣā* and the "action, not word" contested-words rule.
 
-Yāska's *Nirukta* 7.15 reads: **देवो दानाद्वा। दीपनाद्वा। द्योतनाद्वा। द्युस्थानो भवतीति वा॥** (*devo dānād vā | dīpanād vā | dyotanād vā | dyusthāno bhavatīti vā ||*) — "a *deva* is so called from giving (*dā*), or from kindling / being effulgent (*dīp*), or from illumining / shining (*dyut*), or he is one who abides in the bright realm (*dyu* + *sthā*)." Three of the four derivations run from verbal dhātavaḥ — the *nāmāny ākhyātajāni* principle (*Nirukta* 1.1) applied to *deva* itself; the fourth, *dyusthāna*, is locational. The §0.3 seed uses the three verbal derivations, since the point is names-from-actions; the locational fourth is recorded here for completeness. Locator, Devanāgarī, and IAST cross-confirmed against the Sanskrit text of *Nirukta* 7.15 (which continues *yo devaḥ sā devatā* — "the one who is a *deva* is a *devatā*") and against Sarup's edition, which provides the standard English rendering.
+Yāska's *Nirukta* 7.15 states: **देवो दानाद्वा। दीपनाद्वा। द्योतनाद्वा। द्युस्थानो भवतीति वा॥** (*devo dānād vā | dīpanād vā | dyotanād vā | dyusthāno bhavatīti vā ||*) — "a *deva* is so called from giving (*dā*), or from kindling / being effulgent (*dīp*), or from illumining / shining (*dyut*), or he is one who abides in the bright realm (*dyu* + *sthā*)." Three of the four derivations run from verbal *dhātavaḥ*: the *nāmāny ākhyātajāni* principle (*Nirukta* 1.1) applied to the nominal word *deva*. The fourth, *dyusthāna*, is locational. The §0.3 seed uses the three verbal derivations, while this note records the locational fourth for completeness. Locator, Devanāgarī, and IAST cross-confirmed against the Sanskrit text of *Nirukta* 7.15 (which continues *yo devaḥ sā devatā* — "the one who is a *deva* is a *devatā*") and against Sarup's edition, which provides the standard English rendering.
 
 ---
 
@@ -1994,6 +2048,28 @@ Standard references for the pyramid's account: Murray Emeneau, *Language and Lin
 
 ---
 
+### `secular-packaging-three-transformations`
+
+**Short:** The manuscript demonstrates these three transformations separately. Chapter 3 §3.2 traces the racial Arya thesis from explicit race science into migration, population, and DNA vocabulary; Chapter 17 §17.7 follows the sequence from Noah to skull and nose measurements and then to the modern population model; and Chapter 18 §§18.5–18.6 shows how racial anthropology became the historical custody claim that Sanskrit entered India with an outside people. Chapter 1 §§1.2–1.4 explains chronology capture: control of the timeline allows the pyramid to classify one civilization as primitive and another as advanced. Chapter 3 §3.4 then identifies linear-progress teleology as the doctrine that turns this ranking into history. Finally, Chapter 1 §1.1 places Genesis, chronology, and PIE inside the same origin-controlling structure; Chapter 3 §3.3 traces the inherited Biblical and Noachian chronological envelope into European philology; and Chapter 18 §18.5 shows the completed inversion, in which the Hindu continuum is dismissed as faith while the pyramid's reconstructed ancestor is presented as science.
+
+**Deployment:** Chapter 4 §4.1, after the sentence naming racism as anthropology, teleology as history, and theology as objective science.
+
+The historical sources for the individual claims are supplied by the endnotes attached to those sections, especially `muller-eic-rigveda` for the colonial racial frame and `heavenly-city-becker`, `voegelin-gnosticism`, and `black-mass-gray` for the secularization of Christian end-time structure into modern progress narratives.
+
+---
+
+### `four-iterations-architectural-mapping`
+
+**Short:** Figures 4.1a and 4.1b compare the chosen community, authorized doctrine, boundary, expansionary form, utopia, and apocalypse across four iterations of the same pyramidal architecture. The figures present the comparison; this note supplies its textual anchors and qualifications.
+
+Judaism establishes the bounded covenantal template: chosen Israel, Torah and Halakha, the distinction between Israel and the nations, promised territory, and a Messianic horizon. It does not impose a universal conversion mandate. Christianity and Islam globalize the inherited structure through their respective missionary and political forms. The terms *dār al-Islām* and *dār al-ḥarb* belong to classical Islamic jurisprudence rather than the text of the Quran itself.
+
+Primary textual anchors include Deuteronomy 7:6 and Isaiah 11 for chosen Israel and the Messianic horizon; Matthew 28:19–20 and Revelation 20–21 for Christian expansion and eschatology; and Quran 3:110 and 75:1–40 for the *ummah* and the Day of Judgment. The fourth iteration and its secularized end-time structure are documented through `heavenly-city-becker`, `end-of-history-fukuyama`, `voegelin-gnosticism`, `black-mass-gray`, and `fourth-abrahamic-eschatology-precedent`.
+
+**Deployment:** Chapter 4 §4.1 and Figures 4.1a–b.
+
+---
+
 ### `heavenly-city-becker`
 
 **Short:** Carl L. Becker, *The Heavenly City of the Eighteenth-Century Philosophers* (Yale University Press, 1932; Storrs Lectures, Yale Law School, 1931) — the foundational scholarly statement that the *Enlightenment* philosophes did not abandon the Christian branch of Abrahamic end-time structure but secularized it, the *heavenly city* reconstituted as the perfected society achieved through reason across a single linear-historical trajectory.
@@ -2112,7 +2188,7 @@ The passage's immediate context is satirical and domestic — Juvenal is mocking
 
 Plato's *Republic* (Book III, 403e and following; Book IV, 419a and following) raised the parallel question in the discussion of the guardian class — how do you ensure that the philosopher-kings, set above the rest of the city to govern in the city's interest, do not become the city's chief predators? Plato proposed a structural restraint: subject the guardians to specific educational, dietary, and social arrangements that make corruption difficult. The question runs through the political-philosophical literature: Rousseau, Madison (the *Federalist Papers*' separation-of-powers apparatus), the *common-law* tradition of judicial review, and into the modern administrative-state literature.
 
-The chapter's deployment: Juvenal's two-thousand-year-old question exposes the procedure inside the *progressive dogma*'s peer-review machinery. The pyramid places the guards in charge of guarding one another, precisely the failure mode the question is designed to surface. Mutual qualification of credentialed insiders is not substantive verification; it is the priesthood verifying itself. Chapter 4 §4.5's analysis of peer review as a structural mechanism is anchored at this question.
+The chapter's deployment: Juvenal's two-thousand-year-old question exposes the procedure inside the *progressive dogma*'s peer-review machinery. The pyramid places the guards in charge of guarding one another, precisely the failure mode the question is designed to surface. Certified intellectuals certifying one another is not substantive verification; it is the priesthood verifying itself. Chapter 4 §4.5's analysis of peer review as a structural mechanism is anchored at this question.
 
 Standard references: Juvenal, *Satires*, Book VI, lines 347–348. The standard Loeb Classical Library edition: Susanna Morton Braund, translator, *Juvenal and Persius* (Loeb Classical Library 91, Harvard University Press, 2004). Older standard: G. G. Ramsay, translator, *Juvenal and Persius* (Loeb, 1918). For the philosophical reception: Plato, *Republic*, books III–V; Steven Shapin, *A Social History of Truth* (University of Chicago Press, 1994), which extends the *quis custodiet* question to the institutional history of scientific credentialing.
 
@@ -2162,7 +2238,7 @@ No separate prose is required for `assalayana-sutta-fwd`; the main treatment is 
 
 ***Śākalya (शाकल्य)*** is one of the pre-Pāṇinian *vaiyākaraṇāḥ* named in the *Aṣṭādhyāyī* and credited across the lineage with the production of the ***Padapāṭha (पदपाठ)*** for the *Ṛgveda* — the word-by-word recitation in which each *pada* of the *Saṃhitā-pāṭha* is decomposed into its pre-*sandhi* constituents and presented in its isolated grammatical form. The *Padapāṭha* is the second of the eleven *pāṭhas* (see endnote `eleven-pathas`) and operates as the analytical key to the continuous-sandhi *Saṃhitā* recitation. Producing it requires substantial grammatical sophistication — the analyst must identify the *sandhi*-internal word boundaries, undo the *sandhi* transformations to recover the underlying word forms, separate compound elements where appropriate, and present each *pada* with its grammatical case and number supplied.
 
-The *Padapāṭha* of the *Ṛgveda* attributed to Śākalya is preserved across the surviving *Śākala-śākhā* recension of the *Ṛgveda* (the standard recension transmitted through the *Śākalya* lineage). Pāṇini cites Śākalya by name at multiple points in the *Aṣṭādhyāyī*, including 8.4.51 (regarding *visarga*-treatment in the *Padapāṭha*), 1.1.16 (regarding the *Padapāṭha*'s treatment of certain compound boundaries), 6.1.127 (vowel-sandhi treatment), and 8.3.18 (regarding *anusvāra*-treatment). The citations record points where Pāṇini either follows Śākalya's analytical decisions or, at specific points, overrules them — preserving Śākalya's alternative analysis as a recorded option.
+The *Padapāṭha* of the *Ṛgveda* attributed to Śākalya remains part of the received *Śākala-śākhā* form transmitted through the *Śākalya* lineage. Pāṇini cites Śākalya by name at multiple points in the *Aṣṭādhyāyī*, including 8.4.51 (regarding *visarga*-treatment in the *Padapāṭha*), 1.1.16 (regarding the *Padapāṭha*'s treatment of certain compound boundaries), 6.1.127 (vowel-sandhi treatment), and 8.3.18 (regarding *anusvāra*-treatment). The citations record points where Pāṇini either follows Śākalya's analytical decisions or, at specific points, overrules them — preserving Śākalya's alternative analysis as a recorded option.
 
 The structural significance the chapter establishes: Śākalya's *Padapāṭha* is a sophisticated grammatical decoding that predates Pāṇini and that Pāṇini's *Aṣṭādhyāyī* engages directly. The Sanskrit vyākaraṇa discipline is not founded by Pāṇini; it is *decoded* by him — the activity is ***vyākaraṇam*** (व्याकरणम्), analysis, the *taking-apart* of a system already in place. The pre-Pāṇinian decoding work is substantial — sufficient to produce a complete *Padapāṭha* of the *Ṛgveda*, which is itself a non-trivial accomplishment — and Pāṇini's contribution sits on top of it rather than initiating it. That is why the chapter can praise Pāṇini without making him the founder: he is the finest decoder in a lineage of decoders.
 
@@ -5540,11 +5616,11 @@ Standard citation: Ṛgveda 1.164.39 (also quoted at Śvetāśvatara Upaniṣad 
 
 ### `nirukta-namany-akhyatajani`
 
-**Short:** **नामान्याख्यातजानि** (*nāmāny ākhyātajāni*) supplies the internal hinge for the assembly argument: names arise from actions. The line is associated with Śākaṭāyana and the Nairukta view preserved in *Nirukta* 1.12.
+**Short:** **नामान्याख्यातजानि** (*nāmāny ākhyātajāni*) supplies the internal hinge for the assembly argument: nominal words arise from verbs. The line is associated with Śākaṭāyana and the Nairukta position preserved in *Nirukta* 1.12.
 
 **Deployments:** Chapter 12 §12.1.
 
-The formulation is a hinge, not an absolute claim that every visible Sanskrit noun can be mechanically derived in one transparent way. *Nirukta* 1.12 also preserves Gārgya's caution that not all nouns are to be treated this way. That caveat keeps the argument precise: selected clear examples demonstrate a procedural principle, not a universal derivation table for every noun in Sanskrit.
+The formulation concerns nouns and nominal words rather than the proper names of individual actors. *Nirukta* 1.12 also preserves Gārgya's caution that not every noun presents a transparent verbal derivation. The chapter therefore demonstrates the principle through clear examples without turning it into a mechanical table for every Sanskrit noun.
 
 #### Source and provenance
 

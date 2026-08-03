@@ -12,6 +12,8 @@ The *Encyclopaedic Dictionary of Sanskrit on Historical Principles* is one opera
 
 The asuric Christian pyramid failed to destroy the civilization's architecture, as the asuric Islamic pyramid before it had failed. The post-independence intellectual machinery simply chose not to read the blueprints.
 
+The institutions then created generations of **certified intellectuals** within India. Their Indian identity gave the colonial categories new public authority without changing the categories themselves.
+
 ## 2.1 The Fleet
 
 The Deccan College dictionary is one case because its documentation is complete and its title confesses the method. The pattern is larger. Linear progressivism — the secularized descendant of the *fourth Abrahamic religion*'s chronological-evolutionary timeline — has remained the default operating system across institutional Indology since 1947. Three other instances make the pattern visible.
