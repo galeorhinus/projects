@@ -509,47 +509,47 @@ The protagonists act through ***sat***, radiance, circulation, and the distribut
 
 ### Citation map for revised §3.6
 
-Keep these markers provisional until the prose moves into Chapter 3. During deployment, convert each approved `[NOTE-TO-CREATE: ...]` marker to `[NOTE: ...]` and create or expand the corresponding entry in `as_endnotes.md`.
+All approved markers have been converted to `[NOTE: ...]`, and the corresponding entries now exist in `as_endnotes.md`. Source checks explicitly labeled for print preparation remain visible inside the notes.
 
 #### `asura-standard-semantic-reversal-account`
 
-**Status:** create before deployment.
+**Status:** created and deployed.
 
 Quote the standard account rather than paraphrasing it alone. Include Monier-Williams's exact statement that ***sura*** is “probably from *asura* as if from *a-sura*” and his English rendering “a god, divinity, deity.” Add representative statements from Hale, Mayrhofer, Macdonell, or another named historical linguist for the proposed development from a Rigvedic title meaning “lord” or “powerful being” to an antagonist class. Include the claimed *asura–ahura* relationship and identify which parts are direct quotations and which parts summarize the larger reconstruction.
 
 #### `asura-old-mandalas-coexistence`
 
-**Status:** create before deployment.
+**Status:** created and deployed.
 
 Quote a representative source that classifies Maṇḍalas 2–7 as the oldest or family-book core. Then provide the complete Sanskrit forms, locations, and translations needed to demonstrate coexistence: Svarbhānu at RV 5.40.5 and 5.40.9; Rudra as both ***deva*** and ***asura*** at RV 5.42.11; Mitra–Varuṇa at RV 5.63 and 7.65.2; Varuṇa at RV 5.85.5; and Varcin at RV 7.99.5. The note must distinguish the source's chronological classification from the book's observation that protagonist and antagonist uses occur inside the same classified group.
 
 #### `deva-sur-div-radiance-field`
 
-**Status:** create before deployment.
+**Status:** created and deployed.
 
 Provide the exact *Dhātupāṭha* entry **षुर् ऐश्वर्यदीप्त्योः** and a stable source for **⟪दिव्⟫** and the internal derivation of ***deva***. Document the VedaWeb lemma count used in this argument: forms of ***deva*** occur in 100 mantras in Maṇḍala 5 and 120 in Maṇḍala 7. State that this is a computed lemma count, list the corpus version and query, and exclude compounds unless separately counted. Provide the Latin and English path for ***divine/divinity***. Present the direction from Sanskrit's radiance into English as the book's Radiance Thesis wherever the external etymological source instead reconstructs PIE.
 
 #### `nirukta-names-from-actions` and `yaska-asura-nirukta`
 
-**Status:** existing notes; verify and expand during deployment.
+**Status:** existing notes verified and reconciled with the deployed argument.
 
 Print the complete Sanskrit context for **नामान्याख्यातजानि** and identify its exact *Nirukta* location. For *Nirukta* 3.8, print the complete relevant text, padaccheda, and translation. Preserve every **वा (*vā*)** so the reader can see that Yāska records alternatives. Separate what Yāska states directly from the book's application of his method to ***asu-ra*** and ***a-sura***.
 
 #### `rigvedic-named-antagonist-asuras`
 
-**Status:** create before deployment.
+**Status:** created and deployed; direct verse evidence is separated from the book's interpretation.
 
 Provide the complete Sanskrit, padaccheda, and translations for Pipru at RV 10.138.3, Varcin at RV 7.99.5, Namuci at RV 10.131.4, and Svarbhānu at RV 5.40.5 and 5.40.9. Identify the exact form of *asura* or *āsura* in each passage. Verify **Varcin / varcas** and **Namuci / na + muc** from internal or grammatical-continuum sources. Keep competing explanations for Pipru visible. Distinguish the meaning of each name from the action attributed to its bearer.
 
 #### `rigveda-privative-generativity` and `nanartha-homonymy`
 
-**Status:** `nanartha-homonymy` exists; create `rigveda-privative-generativity` before deployment.
+**Status:** both notes exist; the VedaWeb 1.0 corpus result is recorded reproducibly.
 
 Save a reproducible corpus query for ***a-dabdha*** and bare ***dabdha***, verify every reported count, and identify the corpus boundary. For ***aja***, provide the grammatical-continuum sources for the goat associated with **⟪अज्⟫** and the privative ***a-ja*** associated with **⟪जन्⟫**. These notes establish the architecture; the body supplies the comparison.
 
 #### `asura-generativity-pie-double-standard`
 
-**Status:** create or merge with the existing PIE reconstruction note during deployment.
+**Status:** created and cross-linked with the existing PIE reconstruction note.
 
 Quote a standard comparative-linguistics source explaining that an asterisk marks a reconstructed form that does not survive in a recorded source. Cite the PIE lexicon or database used for the book's count of reconstructed forms. The note should establish the evidentiary asymmetry without repeating the full Chapter 18 and Chapter 19 argument.
 
