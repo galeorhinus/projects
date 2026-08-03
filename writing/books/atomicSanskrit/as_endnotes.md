@@ -749,15 +749,15 @@ For *asura* the two derivations Yāska records do not share a semantic center: *
 
 ### `sura-dhatu-dipti`
 
-**Short:** *Sura* ("the shining one") derives from the Pāṇinian *dhātu* सुर् (aupadeśika षुरँ), *Dhātupāṭha* *tudādi* 6.66, whose *artha* is **ऐश्वर्यदीप्त्योः** — "of sovereignty and of shining" (ashtadhyayi.com: *"to rule, to be powerful, to shine"*). *A-sura* is the privative of that shining one: the un-shining. The *dīpti* ("shining") sense is explicit in the primary source; the reading rests on Pāṇini's own *Dhātupāṭha*.
+**Short:** The inherited *Dhātupāṭha* lists ⟪षुर्⟫, which appears as ⟪सुर्⟫, with the meanings **ऐश्वर्यदीप्त्योः** — "of sovereignty and of shining." The grammatical continuum preserved the list; Pāṇini's documentation presupposes and uses its *dhātavaḥ*. The book reads ***a-sura*** through the *dīpti* field: the figure opposed to radiance.
 
-**Deployments:** Chapter 3 §3.6 ¶ (the four-parse sort) — the anchor for the book's *a-sura* = "not-light" reading of the antagonist-word. This is the point a hostile reader attacks; the note grounds it in the primary Pāṇinian source.
+**Deployments:** Chapter 3 §3.6 — the radiant word-family and the book's ***a-sura*** reading; Chapter 19 §19.8 — the evidence Western dictionaries printed while still teaching semantic reversal.
 
-**The dhātu, from the Dhātupāṭha.** The dhātu is सुर्, cited in aupadeśika form as **षुरँ (*ṣur*)** — the initial ष् surfaces as स्, the final ँ is the accent-anubandha. It sits in the ***tudādi* gaṇa** (class 6) at **Dhātupāṭha 6.66** (ashtadhyayi.com base-index `06.0066`). Its *artha* is **ऐश्वर्यदीप्त्योः** (*aiśvarya-dīptyoḥ*), the genitive dual "of sovereignty and of shining"; the English rendering is *"to rule, to be powerful, to shine,"* the Hindi *ऐश्वर्यवान् होना, प्रकाशित होना* ("to be powerful, to be illuminated"). The **दीप्ति (*dīpti*, "shining")** sense is therefore in the source itself; the book draws on that sense (the *aiśvarya* "sovereignty" sense is part of the same root's range but is not what *a-sura* turns on).
+**The dhātu in the inherited list.** The *dhātu* is ⟪सुर्⟫, cited in aupadeśika form as **षुरँ (*ṣur*)**: the initial ष् appears as स्, while the final ँ is an accent marker. The entry appears in the *tudādi gaṇa* at *Dhātupāṭha* 6.66 (ashtadhyayi.com base-index `06.0066`). Its *artha* is **ऐश्वर्यदीप्त्योः (*aiśvarya-dīptyoḥ*)**, the genitive dual "of sovereignty and of shining." Ashtadhyayi.com renders the two fields as "to rule, to be powerful, to shine" and *ऐश्वर्यवान् होना, प्रकाशित होना*. The **दीप्ति (*dīpti*)** sense therefore appears in the inherited inventory itself.
 
-**The derivation.** From सुर् in its *dīpti* sense, *sura* is "the shining one," the radiant *deva*. Its privative is ***a-sura***: *a-* (the negating prefix, as in *a-hiṃsā*, *a-dharma*, *a-sita*) + *sura* — "the un-shining, the one who withholds the light." The segmentation is not the book's invention: the **Sāmaveda-Padapāṭha splits *a + surasya***, marking the *a-* natively in recitation.
+**The derivation used by the book.** The *dīpti* sense supplies ***sura***, radiant, and Sanskrit's privative ***a-*** supplies ***a-sura***, the figure opposed to radiance. The operation follows the same familiar pattern as ***a-hiṃsā, a-dharma,*** and ***a-sita***. Yāska preserves the relational analysis ***asurāḥ suravirodhinaḥ***, "the asuras are opponents of the suras"; the action described in each mantra identifies whether the book reads ***asu-ra*** or ***a-sura*** there.
 
-**Handling the standard objection.** Monier-Williams treats the *noun* सुर (the god) as probably a back-formation from *asura* — a positive coined by reading the *a-* of *asura* as privative, "as *sita* from *a-sita*." This does not touch the reading. (1) It is a claim about the *noun's* attestation history — MW cites *sura* only from the Maitrī Upaniṣad and *Mahābhārata* — not about the *root* सुर्, which stands on its own in the *Dhātupāṭha* with the *dīpti* sense. (2) MW's own analogy is a light/dark pair — *sita* "white, bright" beside *a-sita* "dark" — so even the back-formation account patterns *a-sura* as "not-bright." (3) The book operates in the internal frame: it derives *sura* from an attested Pāṇinian *dhātu*, which is the proper court for a Sanskrit derivation, not a reconstruction.
+**The dictionary objection.** Monier-Williams treats the noun *sura* as a probable back-formation from *asura*: a positive created by reading the initial *a-* as privative, "as *sita* from *a-sita*." That proposal concerns the surviving independent uses of the noun. It does not remove ⟪सुर्⟫ from the inherited *Dhātupāṭha*, where *dīpti* is explicit, and MW's own comparison still places the pair inside a bright / not-bright pattern. Chapter 3 rejects the dictionary's demand that an independently recorded noun must precede a form that Sanskrit can generate.
 
 **What the machinery did with it.** The material sat in the machinery's own reference. Monier-Williams renders the dhātu सुर् "to shine," citing the *Dhātupāṭha* — and in a separate entry derives the *noun* सुर as a back-formation from *asura*, while the discipline built the Indo-Iranian reversal on the *deva/asura* ↔ *ahura/daeva* pattern. Root, noun, and privative were never joined: सुर् (*to shine*) → *sura* (the shining one) → *a-sura* (the un-shining, a word in its own right). The reading that dissolves the reversal was one cross-reference away in their own pages.
 
@@ -769,7 +769,7 @@ For *asura* the two derivations Yāska records do not share a semantic center: *
 
 **Etymology-independent backstop.** The containment charge does not hang on this segmentation: whether the praised asura is *asu-ra* (holder of the life-breath) or the antagonist is *a-sura* (not-light), the deed the book tracks — retaining-and-releasing versus withholding — is identical (§3.7).
 
-Source: ashtadhyayi.com *Dhātupāṭha*, entry `06.0066` (Pāṇinian *Dhātupāṭha*, *tudādi* gaṇa), cross-checked against the local machine-readable inventory in `analysis/dhatupatha/` (gaṇa 6, entry 66 = षुरँ). Monier-Williams s.v. *sura* / *asura* for the back-formation account.
+Source: ashtadhyayi.com *Dhātupāṭha*, entry `06.0066` (*tudādi gaṇa*), cross-checked against the local machine-readable inventory in `analysis/dhatupatha/` (gaṇa 6, entry 66 = षुरँ). Monier-Williams s.v. *sura* / *asura* for the back-formation account. The note credits the inherited grammatical continuum for the inventory and Pāṇini for the documentation that presupposes it.
 
 ---
 
@@ -939,11 +939,93 @@ The *Nirukta* treats *asura* in its characteristic alternative-offering style. T
 1. ***asu-ra*** — from **असु (*asu*)**, breath, the life-force "set in the body" (*astaḥ śarīre bhavati*): the *asura* is the one who sustains *asu*. The dominant indigenous derivation — supported also by the Uṇādi analysis, the Brāhmaṇa *asu*-cosmogonies (ŚB 11.1.6.7–8, the downward-breath-and-darkness creation; TB 2.2.9.5–8 — see the corpus-darkness paragraph in `sura-dhatu-dipti`), and Sāyaṇa's renderings (*prāṇavantam*, *balavantam*) in the sovereign contexts.
 2. ***asyati*** — from the *dhātu* ⟪अस्⟫ (*as*, to cast, to throw): *asyaty anarthān*, "he hurls off misfortunes." An action-derivation, per *nāmāny ākhyātajāni*.
 3. ***asuratāḥ*** — again from ⟪अस्⟫: flung from their stations (*sthāneṣu* / *sveṣu*) — the cast-down.
-4. ***asurāḥ suravirodhinaḥ*** — "the *asuras* are the opponents of the *suras*." A relational rendering, not an action-derivation: it presupposes *sura* as a standing word, which is a *laukika* development — consistent with the book's assignment of the light/dark *sura* / *a-sura* pair to the *laukika* field (the *Nirukta* is itself *laukika śāstra*).
+4. ***asurāḥ suravirodhinaḥ*** — "the *asuras* are the opponents of the *suras*." This is a relational analysis: it identifies the opposition expressed by the word through the actor's conduct.
 
-Two structural facts support Chapter 3's use. First, Yāska himself preserves several parses at once — the discipline debated the word in the open, thousands of years before the philological machinery declared its "reversal." Second, the parses do not share a semantic center: derivations from *asu* (breath) and from ⟪अस्⟫ (to cast) and the privative *a-sura* (see `sura-dhatu-dipti`) arrive at one phonic form from different origins — the *anekaśabda* configuration (see `nanartha-homonymy`).
+Two features support Chapter 3's use. Yāska preserves several analyses at once, so the internal discipline never required one word to travel through every meaning. The analyses also begin from different semantic fields: *asu* (breath), ⟪अस्⟫ (to cast), and opposition to *sura*. Several derivations therefore meet in one sound-form, the ***anekaśabda*** configuration discussed in `nanartha-homonymy`.
 
 Source: *Nirukta* 3.8, Sarup's edition; the core fragment independently corroborated via Apte and the wisdomlib *Nirukta* text. [VERIFY: full verbatim wording of 3.8, including the sandhi at *asur iti*, against print Sarup at print-prep.]
+
+---
+
+### `asura-standard-semantic-reversal-account`
+
+**Short:** The comparative account begins with a reconstructed Indo-Iranian ancestor of Sanskrit *asura* and Iranian *ahura*, assigns it the sense "lord," and describes the antagonist sense in India as a later semantic change. Chapter 3 presents that chronology as the pyramid's account before testing it against the Rigvedic passages.
+
+**Deployment:** Chapter 3 §3.6 — the three-stage account that the section disputes.
+
+The exact starred forms vary by reconstruction. Mayrhofer traces Sanskrit *asura-* through Proto-Indo-Iranian ***Hásuras***; deeper Indo-European proposals include forms represented as ***h₂ḿ̥suros***. The reconstruction is not a surviving word from a surviving sentence. It is an inferred ancestor created by comparative method. Encyclopaedia Iranica, s.v. "Ahura," describes *ahura* as inherited from prehistoric Indo-Iranian religion and presents the Indian history as a change in terminology: *asura* becomes confined to beings opposed to the *devas*. The same article calls Varuṇa, Mitra, and other Rigvedic figures the "older gods" and reads the Rigvedic evidence through a process of polarization. This supplies a clear representative statement of the account challenged in §3.6.
+
+Sources: Manfred Mayrhofer, *Etymologisches Wörterbuch des Altindoarischen*, s.v. *asura-*; F. B. J. Kuiper, "AHURA," *Encyclopaedia Iranica*, vol. I, fasc. 7, 683–84, https://www.iranicaonline.org/articles/ahura-1-type-of-deity/; Monier-Williams, s.vv. *asura* and *sura*. The manuscript says "reconstructions such as" because the deeper PIE notation is not uniform across references.
+
+---
+
+### `asura-old-mandalas-coexistence`
+
+**Short:** The protagonist and antagonist uses coexist within Maṇḍalas Five and Seven, both members of the so-called family-book collection that Western chronologies commonly treat as the Rigveda's oldest core.
+
+**Deployment:** Chapter 3 §3.6 — the evidence against arranging the two uses as a simple early-to-late reversal.
+
+Maṇḍala Five places Svarbhānu and Rudra close together. RV 5.40.5 calls Svarbhānu ***āsuraḥ*** while he pierces Sūrya with darkness; 5.40.9 repeats that identification. Two hymns later, RV 5.42.11 invokes Rudra with both categories in the same verse: ***rudraṃ devāso asuraṃ duvasya***, "Serve Rudra, the asura, O devas." RV 5.63.3 addresses Mitra and Varuṇa through the ***asura*** field, and 5.85.5 calls Varuṇa ***āsura*** while describing his power.
+
+Maṇḍala Seven preserves the same coexistence. RV 7.65.2 addresses Mitra and Varuṇa as ***devānām asurā***, "the asuras among the devas." RV 7.99.5 names the defeated Varcin's warriors ***asurasya vīrān***, "the warriors of the asura." The section therefore does not need to compare one supposedly early collection with one supposedly late collection. The contrasting uses already coexist inside the collection to which the pyramid assigns early status.
+
+Text and morphological forms checked against VedaWeb 1.0 TEI, data release DOI 10.5281/zenodo.4601264. Translation comparisons: Stephanie W. Jamison and Joel P. Brereton, *The Rigveda: The Earliest Religious Poetry of India* (Oxford University Press, 2014). The label "family books" belongs to the external classificatory chronology and does not establish the Hindu continuum's chronology.
+
+---
+
+### `deva-sur-div-radiance-field`
+
+**Short:** The Rigveda already possesses a broad vocabulary of radiance. The manuscript does not need a separately recorded standalone *sura* before Sanskrit can generate the privative ***a-sura***.
+
+**Deployment:** Chapter 3 §3.6 — the third stage of the pyramid's account and the later generativity demonstration.
+
+The immediate field of RV 5.40.5 contains **सूर्य (*sūrya*)**, the Sun; **स्वर् (*svar*)**, the luminous realm embedded in Svarbhānu's name; **भानु (*bhānu*)**, radiance, also embedded in his name; and **तमस् (*tamas*)**, darkness. Elsewhere the Rigveda repeatedly uses ***sūri, sūra, svar, sūrya, deva, div, dyu, jyotis, bhā, bhānu, dī,*** and ***dīpti***-related formations across the field of light and shining. These words do not all descend from one atom. Together they establish that radiance is already fully available as a semantic and poetic field.
+
+The grammatical continuum separately preserves ⟪षुर्⟫ / ⟪सुर्⟫ with **ऐश्वर्यदीप्त्योः**, sovereignty and shining, in the inherited *Dhātupāṭha*. It also preserves ⟪दिव्⟫ in the field of shining. Chapter 3 uses them as parallel radiant atoms; it does not claim that ⟪सुर्⟫ and ⟪दिव्⟫ are historically one atom. See `sura-dhatu-dipti` and `yaska-deva-derivation`.
+
+---
+
+### `rigvedic-named-antagonist-asuras`
+
+**Short:** The Rigveda applies *asura* or the derivative *āsura* to named antagonists as well as protagonists. Pipru, Varcin, Namuci, and Svarbhānu supply the body sequence; the direct verse evidence and the book's synthesis must remain distinct.
+
+**Deployment:** Chapter 3 §3.6 — the named-antagonist inventory and the action-versus-faction analysis.
+
+**Pipru, RV 10.138.3–4.** Verse 3 calls him ***pípror ásurasya māyínaḥ***, "Pipru, the asura, the māyin," and says Indra opened his firm fortifications with Ṛjiśvan. Verse 4 describes the destruction of treasure-houses or fortified stores. The hymn's earlier movement includes released waters or cattle and the Sun shining forth through truth-born song. Chapter 3 reads those elements together as enclosure opposed by release. The verse calls Pipru *māyin*; "dark, deceptive māyā" is the chapter's interpretation of how his power functions in this hymn, not a separate dictionary meaning supplied by the verse.
+
+**Varcin, RV 7.99.5.** The mantra says that Indra and Viṣṇu pierced Śambara's ninety-nine fortifications and struck ***varcínaḥ ... ásurasya vīrān***, "the warriors of the asura Varcin." RV 6.47.21–22 places Varcin and Śambara's defeat beside a *dānastuti* in which Śambara's goods are distributed as gifts. The difficult word ***vasnayantā*** in 6.47.21 has been read as mercenaries, hagglers, or figures seeking a price. The body therefore presents the gate-and-payment analysis as the book's synthesis rather than as a literal translation of the two verses.
+
+**Namuci, RV 10.131.4.** The verse calls him ***āsura*** while describing the Aśvins separating the *surā-soma* in his company and helping Indra. This mantra does not itself narrate the withholding of Indra's strength. That action appears in the later Vedic Namuci cycle, especially Śatapatha Brāhmaṇa 12.7.1–3. The transparent internal reading of the name, ***na + ⟪muc⟫***, "the one who does not release," supports the chapter's action-based use while remaining a name analysis rather than a translation of RV 10.131.4.
+
+**Svarbhānu, RV 5.40.5 and 5.40.9.** Both verses use ***āsura*** while describing him piercing Sūrya with darkness. This is the section's complete demonstration because the title, action, radiance vocabulary, and darkness occur together. See `rigveda-5-40-5-svarbhanu-eclipse`.
+
+Rigvedic forms checked against VedaWeb 1.0 TEI. Translations compared with Jamison and Brereton (2014). The later Namuci account should be checked against the selected Śatapatha Brāhmaṇa edition before print.
+
+---
+
+### `rigveda-privative-generativity`
+
+**Short:** The fixed VedaWeb 1.0 corpus contains 48 tokens assigned to the lemma ***a-dabdha*** and no independent lemma ***dabdha***. The Rigveda therefore demonstrates that a privative formation can recur extensively even when its proposed positive counterpart does not occur independently in the same surviving corpus.
+
+**Deployment:** Chapter 3 §3.6 — the answer to the claim that standalone ***sura*** must occur before Sanskrit can generate ***a-sura***.
+
+The count was reproduced against the VedaWeb 1.0 TEI release at commit `f9757556fad27b0aa927c581427643f12d352bbb`, DOI 10.5281/zenodo.4601264. Tokens whose morphological analysis points to lemma `#lemma_adabDa_272` total 48. An exact search of the same lemma inventory found no independent `dabdha` lemma. The corpus does contain a separate lemma ***dábha-*** four times; that form should not be silently counted as ***dabdha***.
+
+These figures supersede the provisional DCS figures of 44 and one that appeared in the planning documents. The body uses "dozens" so that the argument remains readable; the endnote records the corpus, release, query basis, and exact result. The comparison establishes a grammatical point inside this fixed corpus. It does not claim that no positive form could appear in every Vedic text or every manuscript outside the Rigveda.
+
+---
+
+### `asura-generativity-pie-double-standard`
+
+**Short:** Comparative reconstruction permits starred forms that survive in no sentence, while the standard account rejects a Sanskrit derivation because its positive base does not occur independently in the Rigveda. Chapter 3 identifies that mismatch as the double standard protecting the semantic-reversal chronology.
+
+**Deployment:** Chapter 3 §3.6 — "What the Conflation Buys"; Chapter 19 §19.8 can point back to this note.
+
+PIE reconstructions are inferred sound-forms, conventionally marked with an asterisk because no direct textual witness records them. The method can be useful for grouping correspondences, but the asterisk marks reconstruction, not a recovered utterance. Sanskrit's privative architecture is directly documented and repeatedly active in the Rigveda. The fixed VedaWeb comparison in `rigveda-privative-generativity` demonstrates that an independently missing positive counterpart does not prevent a privative form from being used dozens of times.
+
+The disputed treatment therefore grants the reconstructed language more generative freedom than it grants Sanskrit. A starred PIE ancestor may be proposed without a surviving sentence, while ***a-sura*** is rejected because standalone ***sura*** does not independently occur in the surviving Rigveda. Chapter 3 argues that Sanskrit's architecture and the action in RV 5.40.5 together provide stronger evidence than the reconstructed chronology.
+
+Sources: the comparative sources in `asura-standard-semantic-reversal-account`; VedaWeb data in `rigveda-privative-generativity`; the internal derivations in `yaska-asura-nirukta` and `sura-dhatu-dipti`.
 
 ---
 
@@ -4833,7 +4915,7 @@ The Dhātupāṭha meanings used for the source column are the ones developed el
 
 ### `asura-standard-etymology-contested`
 
-**Short:** Ch 19 §19.8 uses the Western philological dogma's account of *asura-* as an example of PIE overreach: Mayrhofer treats Sanskrit *asura-* through Indo-Iranian **\*asura-** and toward a contested PIE reconstruction — while the machinery's own dictionary already recorded both Sanskrit derivations side by side: Monier-Williams s.v. *asura* gives the *asu* (life-force, via ⟪अस्⟫ *as*) derivation and the privative *a-* + *sura* re-analysis in the same entry.
+**Short:** Ch 19 §19.8 uses the Western philological account of *asura-* as an example of PIE overreach: Mayrhofer treats Sanskrit *asura-* through reconstructed Proto-Indo-Iranian ***Hásuras*** and toward a contested deeper PIE reconstruction, while the machinery's own dictionary records both Sanskrit analyses side by side. Monier-Williams s.v. *asura* gives the *asu* life-force derivation and the privative *a-* + *sura* reanalysis in the same entry.
 
 **Deployments:** Ch19 §19.8 (the *asura* / PIE-is-a-lie case — the contested-reconstruction charge at the section opening, and the "pyramid was clearly aware of both words" documented-awareness charge at the two-words paragraph).
 
@@ -4842,11 +4924,11 @@ The note is deliberately narrow. It does not need to settle the scholarly disput
 AISWEEP-END -->
 Settling the scholarly dispute over the ultimate etymology of *asura* is not the point of the note. The point the chapter uses is narrower: the Western philological dogma itself flags the deeper PIE reconstruction as contested, while Sanskrit preserves the operating term in a real textual, ritual, philosophical, and civilizational field. The burden remains on the reconstruction to explain more than sound resemblance.
 
-On the specific divergence §19.8 turns on: the Western philological apparatus (Mayrhofer's *Etymologisches Wörterbuch des Altindoarischen*) takes the sovereign sense "lord, mighty one" as the primary value of *asura-* and the privative *a-suraḥ* ("not-light") as a secondary reanalysis. That priority rests on an assumed internal chronology of the maṇḍalas — sovereign-sense "early," adversarial-sense "late" — which the book rejects on principle: the maṇḍalas are functionally differentiated, not chronological strata (the category-before-calendar frame; the chronology-capture argument of Chapter 1). The maṇḍala-to-maṇḍala variation is functional, not temporal. *Asura* serves the sovereign-epithet function in the hymns of cosmic ordering — Varuṇa the *asuro viśvavedāḥ*, "the all-knowing Asura" who props the heaven and measures the earth (RV 8.42.1); Agni identified with Rudra, *asuro maho divaḥ*, "the Asura of the great heaven" (RV 2.1.6) — and the adversarial function where opposition is the theme. The privative is the engineered form; the sovereign sense is the function the word serves where sovereignty is the theme, on the structural grounds developed across Chapters 3, 13, and 17. (The standalone *sura* "light/deva" does not occur in the Ṛgvedic corpus; it is an artifact of parsing *asura* as *a-sura*.)
+The divergence in §19.8 begins with the priority assigned by Western philology. Mayrhofer's *Etymologisches Wörterbuch des Altindoarischen* takes "lord, mighty one" as the primary value of *asura-* and treats the privative ***a-suraḥ*** reading as secondary. That priority depends upon an internal chronology of the maṇḍalas in which the sovereign sense is early and the antagonist sense develops later. Chapter 3 tests the chronology against the passages themselves. RV 5.40.5 and 5.40.9 call Svarbhānu ***āsura*** while he darkens Sūrya; RV 5.42.11 calls Rudra both ***deva*** and ***asura*** only two hymns later. Maṇḍala Seven likewise contains the protecting Mitra and Varuṇa and the defeated Varcin. The two functions therefore coexist even inside the collection that Western chronology labels early. See `asura-old-mandalas-coexistence`.
 
 **The documented-awareness charge.** The "clearly aware of both words" sentence in §19.8 rests on the machinery's own reference works. Monier-Williams, *A Sanskrit-English Dictionary* (Oxford: Clarendon Press, 1899), s.v. *asura*: the entry derives the word from *asu* ("spirit, life-force"; via ⟪अस्⟫ *as*, "to be") — the breath-bearer derivation — **and** records the re-analysis as *a-* + *sura* (the privative), in the same entry; s.v. *sura*, MW makes the privative analysis explicit — *sura* "probably from *asura*, as if from *a-sura*, and as *sita* from *a-sita*" — a light/dark pair as the chosen analogy. The same dictionary records the dhātu सुर् "to shine" from the *Dhātupāṭha* (see `sura-dhatu-dipti`). And the discipline's own press printed Yāska's four parses: Lakshman Sarup, *The Nighaṇṭu and the Nirukta* (Oxford University Press, 1920–27). Both words, both derivations, the shining dhātu, and Yāska's open menu — all in the machinery's own publications before and while the reversal-story was taught. The conflation was not made in ignorance of the second word; it was made with both words on the page.
 
-Source: Manfred Mayrhofer, *Etymologisches Wörterbuch des Altindoarischen* (Heidelberg: Carl Winter, 1992–2001), entry for *asura-*; Monier-Williams (1899), s.vv. *asura*, *sura*, and the root सुर्; Sarup (1920–27). [VERIFY: exact PIE reconstruction and wording against the Mayrhofer edition used for final citation; exact page/column for the MW *asura* and *sura* entries at print-prep.]
+Source: Manfred Mayrhofer, *Etymologisches Wörterbuch des Altindoarischen* (Heidelberg: Carl Winter, 1992–2001), entry for *asura-*; Monier-Williams (1899), s.vv. *asura*, *sura*, and the dhātu सुर्; Sarup (1920–27). [VERIFY: exact PIE reconstruction and wording against the Mayrhofer edition used for final citation; exact page/column for the MW *asura* and *sura* entries at print-prep.]
 
 ---
 

@@ -1,5 +1,7 @@
 # *Asura* → Vaidika / Laukika: Synthesis, Framework & Deployment Plan
 
+> **Superseded for the §3.6 word analysis:** The revised argument deployed on 2026-08-02 establishes that the Ṛgveda itself uses the *asura* sound-form across protagonist and antagonist fields. It therefore no longer assigns ***a-sura*** only to the *laukika* domain. Use `as_asura_generativity_argument_deployment_codex.md` and Chapter 3 §3.6 for the current analysis. This file remains active for its wider *vaidika / laukika*, containment, and figure planning; its older laukika-only paragraphs are retained as research history and must not be restored to the manuscript.
+
 > **Companion to** [`as_asura_sura_asurya_vedic_survey.md`](../40_reference/research/as_asura_sura_asurya_vedic_survey.md). That file is the **evidence** (occurrences across all four Vedas, padaccheda + translation, the analytical disciplines, the Prātiśākhyas). **This file is the synthesis, the interpretive framework, the two illustrations, and the chapter-distribution plan** derived from it. A second evidence companion, [`as_vedic_antagonists_table.md`](../40_reference/research/as_vedic_antagonists_table.md), tables every Vedic antagonist by containment-function (feeds Ch 3 §3.6).
 >
 > **Nothing here is in the manuscript yet.** This is the plan of record, awaiting review. It feeds **Ch 0** (the reading-protocol), **Ch 3 §3.5–3.6** (architecture of containment / *asuratva*), and **Ch 19 §19.7** (the PIE / schism case); the civilizational-scale material is reserved for **Second Shanti**.

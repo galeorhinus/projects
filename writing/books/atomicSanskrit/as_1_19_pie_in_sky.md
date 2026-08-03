@@ -250,9 +250,9 @@ The complete procedure first renders each receiving form approximately in Devana
 
 ## 19.8 PIE Is a Lie — *Asura*
 
-The *asura* case exposes the break.
+Chapter 3 §3.6 established that Sanskrit can generate both ***asu-ra*** and ***a-sura***, and that the action described in a mantra identifies which word is active. This section follows what comparative philology does after it removes that internal distinction.
 
-The Western philological dogma pushes Sanskrit *asura-* through Indo-Iranian **\*asura-** toward a *contested* PIE **\*h₂nsu-** meaning "life force" or "lord."[NOTE: asura-standard-etymology-contested]
+The Western philological dogma pushes Sanskrit *asura-* through reconstructed Proto-Indo-Iranian ***Hásuras*** and then toward deeper, contested PIE forms represented by reconstructions such as ***h₂ḿ̥suros***, with meanings such as "life force" or "lord."[NOTE: asura-standard-etymology-contested]
 
 The word *contested* appears beside a reconstruction that the pyramid nevertheless installs as Sanskrit's ancestor. Uncertainty is not fraud. The fraud begins when the pyramid places a disputed reconstruction above Sanskrit's recorded internal analyses and teaches it as the word's deeper source.
 
@@ -270,7 +270,7 @@ The Sanskrit-side chain is internal:
 
 The Sanskrit side is engineered, not reconstructed — and it is two words, not one. The first is *asu-ra*, the breath-bearer: the holder of the life-force, the *asura* the Ṛgveda praises in Indra and Varuṇa. The second is *a-sura*, the un-shining: the privative of *sura*, the shining one from the *dhātu* ⟪सुर्⟫ — the withholder. Two derivations, one form. Yāska catalogued them in the open; Chapter 3 §3.6 develops the full analysis. **अजः (*ajaḥ*)** is another Sanskrit example of two completely different words that sound identical. *Aj*-a, the goat, the driven one from ⟪अज्⟫, beside a-*ja*, the Unborn of the Gītā, the privative of ⟪जन्⟫ — a dhātu-build beside a privative on one identical sound, exactly as *asu*-ra sits beside a-*sura*.
 
-The pyramid was clearly aware of both words.[NOTE: asura-standard-etymology-contested] Its own dictionaries record both derivations side by side — Monier-Williams gives *asura* from *asu*, the life-force, and the privative *a-* + *sura* in the same entry; its own presses printed Yāska's parses. But two honest words feed no reconstruction, so it chose one word and baked one imaginary ancestor behind it: the *contested* \**h₂n̥su-* "life force" — an ancestor-form built to contain the very meaning, *asu*, that its own dictionary already recorded from Yāska's derivation. One side documents two engineered forms; the other bakes one ancestor to avoid them.
+The pyramid was clearly aware of both words.[NOTE: asura-standard-etymology-contested] Its own dictionaries record both derivations side by side — Monier-Williams gives *asura* from *asu*, the life-force, and the privative *a-* + *sura* in the same entry; its own presses printed Yāska's analyses. But two honest words feed no reconstruction, so it chose one word and baked an imaginary ancestor behind it. The ancestor-form contains the very meaning, *asu*, that its own dictionary already records from Yāska's derivation. Sanskrit documents two engineered forms; the pyramid replaces them with one reconstruction.
 
 The vivimorphosis at the contact-language boundary preserves the breath-bearer, not the withholder. Avestan **𐬀𐬵𐬎𐬭𐬀 (*ahura*)** is the *apaśabda* of *asu-ra* — the organic form vivimorphosed in the Iranian receiving language, the *s* shifted to *h* under the regular Indo-Iranian sound law (the same shift Chapter 9 §9.5 traces in *Sindhuḥ* → *Hinduš*), the visarga stripped to a plain *-a*. Ahura Mazdā wears the breath-bearer's title because the breath-bearer is the word that traveled; the *a-sura*, the other word on the same form, never crossed the mountains. That is why the "Indo-Iranian reversal" the pyramid reconstructs never happened: nothing reversed, because the two languages preserve two different words (Chapter 3 §3.6).
 

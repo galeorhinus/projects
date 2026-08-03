@@ -1,9 +1,11 @@
 # The *Asura* Generativity Argument — Deployment Plan (Codex)
 
-**Status:** deployment plan; no manuscript changes made
+**Status:** deployed to Chapter 3 §3.6 on 2026-08-02; endnotes and Chapter 19 reconciled in the same pass
 **Created:** 2026-08-01
 **Source plan:**
 `working/10_active/as_asura_generativity_argument_plan_claude.md`
+
+> **Post-deployment corpus correction:** Reproduction against the fixed VedaWeb 1.0 TEI release gives 77 tokens assigned to the *asura* lemma, including five long-initial ***āsura*** forms. It gives 48 tokens assigned to ***a-dabdha*** and no independent ***dabdha*** lemma. These results replace the provisional DCS figures of 98, 44, and one below wherever the older research history is quoted.
 
 ## 1. Deployment Claim
 
@@ -53,8 +55,8 @@ Use this sequence wherever the complete argument appears:
 
 ### 4.1 Corpus distribution
 
-- Ṛgvedic lemma **asura** with short initial *a*: **98 tokens** in the current DCS count, overwhelmingly laudatory.
-- Ṛgvedic **āsura**: **5 tokens** in the current DCS count.
+- VedaWeb 1.0 assigns **77 tokens** to the Rigvedic lemma ***asura*** in total.
+- Five of those tokens have the long-initial surface form ***āsura***.
 - Positive **āsura** contexts: RV 3.29 and RV 5.85.
 - Antagonist **āsura** contexts: RV 5.40 twice for Svarbhānu and RV 10.131 for Namuci.
 - The distribution shows that the written form alone does not carry the valence. The surrounding action identifies the active reading.
@@ -63,12 +65,12 @@ These figures belong in an endnote or reference table. Chapter 3 needs only the 
 
 ### 4.2 The privative parallel
 
-- ***a-dabdha*** appears **44 times** in the current DCS count.
-- Bare ***dabdha*** reportedly appears once, at RV 3.54.
+- ***a-dabdha*** appears **48 times** in the fixed VedaWeb 1.0 corpus.
+- The same VedaWeb lemma inventory contains no independent ***dabdha*** lemma. The separate lemma ***dábha-*** occurs four times and must not be counted as ***dabdha***.
 - ***a-mṛta*** reportedly appears **237 times**, while bare ***mṛta*** appears only a few times.
 - ***a-sat*** is not the same evidentiary example because *sat* appears independently and frequently.
 
-The body should use ***a-dabdha*** alone. The additional counts belong in the endnote. The prose must say that the positive base appears **once**, not that it is wholly absent.
+The body uses ***a-dabdha*** alone and says "dozens." The exact count, corpus release, commit, and lemma-query result belong in the endnote.
 
 ### 4.3 Indigenous analyses
 
@@ -216,7 +218,7 @@ the two words untangled."
 
 **New body prose:**
 
-> Sanskrit's generative architecture removes the pyramid's last escape. The Ṛgveda does not need to store a standalone *sura* before it can use ***a-sura***. It repeatedly generates privative words whose positive bases appear rarely on their own. ***अदब्ध (*a-dabdha*)***, "undeceived" or "inviolable," appears dozens of times, while bare ***दब्ध (*dabdha*)*** appears only once in the current corpus count.[NOTE: rigveda-privative-generativity]
+> Sanskrit's generative architecture removes the pyramid's last escape. The Ṛgveda does not need to store a standalone *sura* before it can use ***a-sura***. It repeatedly generates privative words whose positive bases do not appear independently in the same surviving corpus. ***अदब्ध (*a-dabdha*)***, "undeceived" or "inviolable," appears dozens of times, while VedaWeb 1.0 contains no independent ***दब्ध (*dabdha*)*** lemma.[NOTE: rigveda-privative-generativity]
 >
 > A word produced by Sanskrit's architecture does not wait for a dictionary entry before it becomes available. The derivation supplies the possible words; the sentence identifies the one being used. In the praised sovereign passages, the deed identifies ***asu-ra***, the breath-bearer. In Ṛgveda 5.40.5, darkness striking the Sun identifies ***a-sura***, the un-shining. Both stand inside the Ṛgveda. Nothing reversed, and nothing came late.
 
@@ -307,7 +309,7 @@ Yāska preserves the alternatives. The action described in a mantra tells the li
 
 Before turning to any later grammatical source, we can establish the meaning *to shine* from the Ṛgveda itself. The Veda repeatedly uses a family of words associated with light and radiance: ***svar, sūrya, sūri,*** and ***sūra***. The grammatical continuum also preserves **⟪षुर्⟫**, realized as **⟪सुर्⟫**, with the meanings **ऐश्वर्यदीप्त्योः (*aiśvarya-dīptyoḥ*)** — sovereignty and shining. The inherited *Dhātupāṭha* records this atom. Pāṇini's documentation presupposes the inventory and uses it; he does not claim to have created it.[NOTE: sura-dhatu-dipti]
 
-The pyramid tries to escape the derivation by pointing out that standalone *sura* does not appear in the surviving Ṛgveda. Sanskrit's generative architecture makes that objection meaningless. A generated word does not need to appear by itself before another operation can use it. The Ṛgveda uses ***अदब्ध (*a-dabdha*)***, "undeceived" or "inviolable," dozens of times, while bare ***दब्ध (*dabdha*)*** appears only once in the current corpus count.[NOTE: rigveda-privative-generativity] Sanskrit can therefore generate the privative formation whether or not the positive word happens to survive by itself. The sentence tells the listener which generated word is being used.
+The pyramid tries to escape the derivation by pointing out that standalone *sura* does not appear in the surviving Ṛgveda. Sanskrit's generative architecture makes that objection meaningless. A generated word does not need to appear by itself before another operation can use it. The Ṛgveda uses ***अदब्ध (*a-dabdha*)***, "undeceived" or "inviolable," dozens of times, while VedaWeb 1.0 contains no independent ***दब्ध (*dabdha*)*** lemma.[NOTE: rigveda-privative-generativity] Sanskrit can therefore generate the privative formation whether or not the positive word happens to survive by itself. The sentence tells the listener which generated word is being used.
 
 The same pyramid that invents thousands of starred PIE sound-forms without a single surviving sentence refuses to recognize a word generated by Sanskrit's own architecture. It accepts imaginary words from an imaginary natural language, then demands a separate dictionary entry before Sanskrit may form ***a-sura***. The pyramid accepts one standard for PIE and imposes another on Sanskrit because the Sanskrit derivation destroys the chronology it needs.
 
@@ -479,7 +481,7 @@ Sanskrit can generate both words through two different operations. It can form *
 
 Pyramids love to *attest* things — even words. In historical linguistics, *attested* simply means that a form survives in a recorded source. The pyramid turns that limited statement about the surviving archive into a ruling about what Sanskrit could generate. Because standalone *sura* does not appear in the surviving Ṛgveda, the pyramid claims that the Veda could not have formed ***a-sura***. That demand treats Sanskrit as a stored list of approved words rather than a generative architecture capable of producing them.
 
-The absence of standalone *sura* from the surviving Ṛgveda does not prevent Sanskrit from generating ***a-sura***. The Veda repeatedly uses privative words whose positive forms appear rarely by themselves. **अदब्ध (*a-dabdha*)**, "undeceived" or "inviolable," appears dozens of times, while bare **दब्ध (*dabdha*)** appears only once in the current corpus count.[NOTE: rigveda-privative-generativity]
+The absence of standalone *sura* from the surviving Ṛgveda does not prevent Sanskrit from generating ***a-sura***. The Veda repeatedly uses privative words whose positive forms do not appear independently in the same surviving corpus. **अदब्ध (*a-dabdha*)**, "undeceived" or "inviolable," appears dozens of times, while VedaWeb 1.0 contains no independent **दब्ध (*dabdha*)** lemma.[NOTE: rigveda-privative-generativity]
 
 An English speaker understands a newly generated word such as *cloudify* without first finding it in a dictionary. Sanskrit possesses a far more powerful generative architecture. A word that Sanskrit generates through that architecture does not need an earlier independent occurrence before Sanskrit can use it in another operation. The architecture supplies the available words, and the sentence identifies which one the speaker uses.
 
@@ -633,7 +635,7 @@ Add after the working translation:
 
 **Proposed short note:**
 
-> **Short:** The Ṛgveda repeatedly uses privative formations even when their positive bases appear rarely on their own. Current DCS counts give ***a-dabdha*** 44 occurrences and bare ***dabdha*** one occurrence. The comparison defeats the claim that standalone *sura* must first appear before Sanskrit can generate ***a-sura***.
+> **Short:** The Ṛgveda repeatedly uses privative formations even when their positive bases do not appear independently in the same surviving corpus. VedaWeb 1.0 gives 48 ***a-dabdha*** tokens and no independent ***dabdha*** lemma. The comparison defeats the claim that standalone *sura* must first appear before Sanskrit can generate ***a-sura***.
 
 The long note should record the exact query, lemma forms, loci, translations, and the secondary ***a-mṛta / mṛta*** comparison. Do not call *dabdha* absent.
 
@@ -738,9 +740,9 @@ This preserves the synthesis plan's strongest achievement, **action, not word**,
 
 Complete these before body deployment:
 
-- [ ] Reproduce the DCS **asura 98 / āsura 5** counts and save the query or concordance.
+- [x] Reproduce the *asura* count against a fixed corpus: VedaWeb 1.0 gives 77 total lemma tokens, including five long-initial ***āsura*** forms.
 - [ ] Verify all five **āsura** loci and their immediate contexts.
-- [ ] Reproduce the ***a-dabdha 44 / dabdha 1*** counts and save every locus.
+- [x] Reproduce the privative comparison against VedaWeb 1.0: 48 ***a-dabdha*** tokens and no independent ***dabdha*** lemma.
 - [ ] Verify the optional ***a-mṛta / mṛta*** counts.
 - [ ] Verify the loci and corpus scope for ***svar, sūrya, sūri,*** and ***sūra*** before printing occurrence totals.
 - [ ] Confirm **षुर्**, *tudādi* 6.66, against a stable edition.
