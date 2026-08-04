@@ -70,3 +70,29 @@
 > Sarcasm aside, the Vedas use this exact generative engine. They have themselves remained **अदब्धाः (*adabdhāḥ*)** — inviolable — ever since their mantras were first seen.
 >
 > The same distinction appears in **अज (*aja*)**. One ***aja*** can be the goat, the driven one, from **⟪अज्⟫ (*aj*, to drive)**. Another is ***a-ja***, the Unborn of the Gītā, a privative formation from **⟪जन्⟫ (*jan*, to be born)**. The two words share one sound-form. Thankfully, the imaginary people speaking an imaginary language were not also herding imaginary sheep and goats. Otherwise, the pyramid might have imagined the goat gradually transforming into the deathless Self. Sanskrit can likewise generate ***asu-ra*** and ***a-sura*** without turning one into a later meaning of the other.[NOTE: nanartha-homonymy]
+
+## Retired Reader-Facing Endnotes (2026-08-03)
+
+These endnotes supported the semantic-reversal subsection removed from Chapter 3. Their complete text remains here for review and possible reuse.
+
+### `asura-old-mandalas-coexistence`
+
+**Short:** The protagonist and antagonist uses coexist within Maṇḍalas Five and Seven, both members of the so-called family-book collection that Western chronologies commonly treat as the Rigveda's oldest core.
+
+**Deployment:** Chapter 3 §3.6 — the evidence against arranging the two uses as a simple early-to-late reversal.
+
+Maṇḍala Five places Svarbhānu and Rudra close together. RV 5.40.5 calls Svarbhānu ***āsuraḥ*** while he pierces Sūrya with darkness; 5.40.9 repeats that identification. Two hymns later, RV 5.42.11 invokes Rudra with both categories in the same verse: ***namobhir devam asuraṃ duvasya***, "With homage, honor the deva, the asura." RV 5.63.3 addresses Mitra and Varuṇa through the ***asura*** field, and 5.85.5 calls Varuṇa ***āsura*** while describing his power.
+
+Maṇḍala Seven preserves the same coexistence. RV 7.65.2 addresses Mitra and Varuṇa as ***devānām asurā***, "the asuras among the devas." RV 7.99.5 names the defeated Varcin's warriors ***asurasya vīrān***, "the warriors of the asura." The section therefore does not need to compare one supposedly early collection with one supposedly late collection. The contrasting uses already coexist inside the collection to which the pyramid assigns early status.
+
+Text and morphological forms checked against VedaWeb 1.0 TEI, data release DOI 10.5281/zenodo.4601264. Translation comparisons: Stephanie W. Jamison and Joel P. Brereton, *The Rigveda: The Earliest Religious Poetry of India* (Oxford University Press, 2014). The label "family books" belongs to the external classificatory chronology and does not establish the Hindu continuum's chronology.
+
+### `zoroaster-daeva-ahura-doctrinal-reversal`
+
+**Short:** Zoroaster's Gāthās reject the *daēvas* while centering Ahura Mazdā. A later Zoroastrian confession states the contrast directly: rejecting the *daēvas* and following the Ahuric doctrine.
+
+**Deployment:** Chapter 3 §3.6 — "What the Conflation Buys."
+
+Yasna 32.3, within the Gāthās attributed to Zoroaster, addresses the *daēvas* as born from bad thought and associated with falsehood and arrogance. This is the direct basis for describing Zoroaster's move as doctrinal: the Gāthic teaching rejects the *daēvas* and centers Ahura Mazdā. The later Zoroastrian confession in Yasna 12.1 makes the paired identity explicit: ***mazdayasnō zaraθuštriš vīdaēvō ahura.ṱkaēšō***, a Mazda-worshipper and Zoroastrian who rejects the *daēvas* and follows the Ahuric doctrine. Yasna 12.1 records the later confessional formula; it is not presented here as a sentence spoken by Zoroaster himself.
+
+Sources: [Yasna 32.3](https://avesta.org/yasna/index.html); Mary Boyce, ["AHURA.ṰKAĒŠA," *Encyclopaedia Iranica*](https://www.iranicaonline.org/articles/ahura-tkaesa/), including Yasna 12.1.

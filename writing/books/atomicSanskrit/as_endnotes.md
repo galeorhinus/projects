@@ -959,17 +959,17 @@ Source: Sūrya Kānta, ed., *Ṛktantra: A Prātiśākhya of the Sāmaveda*, p. 
 
 ---
 
-### `asura-standard-semantic-reversal-account`
+### `asura-reconstructed-lord-account`
 
-**Short:** The comparative account begins with a reconstructed Indo-Iranian ancestor of Sanskrit *asura* and Iranian *ahura*, assigns it the sense "lord," and describes the antagonist sense in India as a later semantic change. Chapter 3 presents that chronology as the pyramid's account before testing it against the Rigvedic passages.
+**Short:** Comparative philologists replace Sanskrit's two derivations with a reconstructed ancestor represented as Proto-Indo-Iranian ***Hásuras*** or, in deeper proposals, PIE ***h₂ḿ̥suros***, and assign that reconstructed word the meaning "lord" or "powerful being."
 
-**Deployment:** Chapter 3 §3.6 — the three-stage account that the section disputes.
+**Deployment:** Chapter 3 §3.6 — "What the Conflation Buys," where the reconstructed third word replaces both ***asu-ra*** and ***a-sura***.
 
-The exact starred forms vary by reconstruction. Mayrhofer traces Sanskrit *asura-* through Proto-Indo-Iranian ***Hásuras***; deeper Indo-European proposals include forms represented as ***h₂ḿ̥suros***. The reconstruction is not a recorded word from a recorded sentence. It is an inferred ancestor created by comparative method.
+The exact starred form varies across reconstructions. Mayrhofer traces Sanskrit *asura-* through Proto-Indo-Iranian ***Hásuras***; deeper Indo-European proposals include forms represented as ***h₂ḿ̥suros***. Neither form comes from a recorded sentence. Comparative philology infers the form and then assigns the ancestral word the meaning "lord" or "powerful being."
 
-The standard chronology then arranges the uses of *asura* as a semantic change. Stanley Insler's review of Wash Edward Hale's *Ásura- in Early Vedic Religion* describes the Rigvedic term as applying to "powerful and beneficent gods," while later texts apply it to "hostile and demonic forces" opposed to the *devas*. The review says that Hale examines the occurrences in a proposed chronological sequence beginning with the Rigveda's so-called family books. Encyclopaedia Iranica, s.v. "Ahura," likewise calls the Rigvedic asuras the "older gods," calls the devas the "younger gods," and describes their relationship as a process of polarization. Monier-Williams then derives later ***sura***, "divinity," probably from ***asura*** reanalyzed as ***a-sura***. Together these sources document all three stages challenged in §3.6: an inferred Indo-Iranian ancestor, a chronological semantic reversal in India, and a later back-formation of ***sura***.
+Stanley Insler's review of Wash Edward Hale's *Ásura- in Early Vedic Religion* describes the Rigvedic term as applying to "powerful and beneficent gods." *Encyclopaedia Iranica* presents Old Indic *asura* and Avestan *ahura* as an inherited designation rendered "lord." These sources establish the account Chapter 3 disputes: one reconstructed title is placed behind the Sanskrit and Iranian forms, while the two derivations preserved by Sanskrit's own analytical disciplines disappear from the reconstruction.
 
-Sources: Manfred Mayrhofer, *Etymologisches Wörterbuch des Altindoarischen*, s.v. *asura-*; Stanley Insler, review of Wash Edward Hale, *Ásura- in Early Vedic Religion*, *Journal of the American Oriental Society* 113.4 (1993), 595–96, DOI 10.2307/605791; F. B. J. Kuiper, ["AHURA," *Encyclopaedia Iranica*](https://www.iranicaonline.org/articles/ahura-1-type-of-deity/), vol. I, fasc. 7, 683–84; Monier-Williams, [s.v. *sura*](https://sanskrit.uohyd.ac.in/SKT/MW/299.html). The manuscript says "reconstructions such as" because the deeper PIE notation is not uniform across references.
+Sources: Manfred Mayrhofer, *Etymologisches Wörterbuch des Altindoarischen*, s.v. *asura-*; Stanley Insler, review of Wash Edward Hale, *Ásura- in Early Vedic Religion*, *Journal of the American Oriental Society* 113.4 (1993), 595–96, DOI 10.2307/605791; F. B. J. Kuiper, ["AHURA," *Encyclopaedia Iranica*](https://www.iranicaonline.org/articles/ahura-1-type-of-deity/), vol. I, fasc. 7, 683–84. The manuscript uses one representative deeper PIE notation while acknowledging that the notation is not uniform across references.
 
 ---
 
@@ -977,37 +977,11 @@ Sources: Manfred Mayrhofer, *Etymologisches Wörterbuch des Altindoarischen*, s.
 
 **Short:** Comparative accounts explicitly arrange Rigvedic asuras and devas as older and younger divine groups in opposition, rather than beginning with the actions performed by each actor in each mantra.
 
-**Deployment:** Chapter 3 §3.6 — "How Faction Hides Action."
+**Deployment:** Chapter 3 §3.6 — "How Conflation Turns Action into Faction."
 
 The factional description is not inferred from a stray adjective in Chapter 3. Kuiper calls the Rigvedic asuras the "older gods" and the devas the "younger gods." He says that some asuras "went over" to the devas, while the others were driven away, and names the process "polarization." Insler's review of Hale describes hostile asuras as forces placed in "opposition and contention" with the deva gods and asks whether the original Indo-Iranian community contained opposing asura and daiva cults. This vocabulary turns the actors into rival divine groupings and treats the change as a history of affiliations. Chapter 3 restores the distinction visible in the mantras themselves: the protagonist or antagonist role follows from what the actor does.
 
 Sources: F. B. J. Kuiper, ["AHURA," *Encyclopaedia Iranica*](https://www.iranicaonline.org/articles/ahura-1-type-of-deity/); Stanley Insler, review of Wash Edward Hale, *Ásura- in Early Vedic Religion*, *Journal of the American Oriental Society* 113.4 (1993), 595–96, DOI 10.2307/605791.
-
----
-
-### `zoroaster-daeva-ahura-doctrinal-reversal`
-
-**Short:** Zoroaster's Gāthās reject the *daēvas* while centering Ahura Mazdā. A later Zoroastrian confession states the contrast directly: rejecting the *daēvas* and following the Ahuric doctrine.
-
-**Deployment:** Chapter 3 §3.6 — "What the Conflation Buys."
-
-Yasna 32.3, within the Gāthās attributed to Zoroaster, addresses the *daēvas* as born from bad thought and associated with falsehood and arrogance. This is the direct basis for describing Zoroaster's move as doctrinal: the Gāthic teaching rejects the *daēvas* and centers Ahura Mazdā. The later Zoroastrian confession in Yasna 12.1 makes the paired identity explicit: ***mazdayasnō zaraθuštriš vīdaēvō ahura.ṱkaēšō***, a Mazda-worshipper and Zoroastrian who rejects the *daēvas* and follows the Ahuric doctrine. Yasna 12.1 records the later confessional formula; it is not presented here as a sentence spoken by Zoroaster himself.
-
-Sources: [Yasna 32.3](https://avesta.org/yasna/index.html); Mary Boyce, ["AHURA.ṰKAĒŠA," *Encyclopaedia Iranica*](https://www.iranicaonline.org/articles/ahura-tkaesa/), including Yasna 12.1.
-
----
-
-### `asura-old-mandalas-coexistence`
-
-**Short:** The protagonist and antagonist uses coexist within Maṇḍalas Five and Seven, both members of the so-called family-book collection that Western chronologies commonly treat as the Rigveda's oldest core.
-
-**Deployment:** Chapter 3 §3.6 — the evidence against arranging the two uses as a simple early-to-late reversal.
-
-Maṇḍala Five places Svarbhānu and Rudra close together. RV 5.40.5 calls Svarbhānu ***āsuraḥ*** while he pierces Sūrya with darkness; 5.40.9 repeats that identification. Two hymns later, RV 5.42.11 invokes Rudra with both categories in the same verse: ***namobhir devam asuraṃ duvasya***, "With homage, honor the deva, the asura." RV 5.63.3 addresses Mitra and Varuṇa through the ***asura*** field, and 5.85.5 calls Varuṇa ***āsura*** while describing his power.
-
-Maṇḍala Seven preserves the same coexistence. RV 7.65.2 addresses Mitra and Varuṇa as ***devānām asurā***, "the asuras among the devas." RV 7.99.5 names the defeated Varcin's warriors ***asurasya vīrān***, "the warriors of the asura." The section therefore does not need to compare one supposedly early collection with one supposedly late collection. The contrasting uses already coexist inside the collection to which the pyramid assigns early status.
-
-Text and morphological forms checked against VedaWeb 1.0 TEI, data release DOI 10.5281/zenodo.4601264. Translation comparisons: Stephanie W. Jamison and Joel P. Brereton, *The Rigveda: The Earliest Religious Poetry of India* (Oxford University Press, 2014). The label "family books" belongs to the external classificatory chronology and does not establish the Hindu continuum's chronology.
 
 ---
 
@@ -1071,15 +1045,15 @@ Source: Ṛgveda 6.17.8, Sanskrit and translation comparison at [WisdomLib](http
 
 ### `asura-generativity-pie-double-standard`
 
-**Short:** Comparative reconstruction permits starred forms that appear in no recorded sentence, while the standard account rejects a Sanskrit derivation because its positive base does not occur independently in the Rigveda. Chapter 3 identifies that mismatch as the double standard protecting the semantic-reversal chronology.
+**Short:** Comparative reconstruction permits starred forms that appear in no recorded sentence, while the standard account rejects a Sanskrit derivation because its positive base does not occur independently in the Rigveda. Chapter 3 identifies that mismatch as the double standard protecting external custody.
 
 **Deployment:** Chapter 3 §3.6 — "What the Conflation Buys"; Chapter 19 §19.8 can point back to this note.
 
 PIE reconstructions are inferred sound-forms, conventionally marked with an asterisk because no direct textual witness records them. The method can be useful for grouping correspondences, but the asterisk marks reconstruction, not a recovered utterance. Sanskrit's privative architecture is directly documented and repeatedly active in the Rigveda. The fixed VedaWeb comparison in `rigveda-privative-generativity` demonstrates that an independently missing positive counterpart does not prevent a privative form from being used dozens of times.
 
-The disputed treatment therefore grants the reconstructed language more generative freedom than it grants Sanskrit. A starred PIE ancestor may be proposed without a recorded sentence, while ***a-sura*** is rejected because standalone ***sura*** does not independently occur in the Ṛgveda. Chapter 3 argues that Sanskrit's architecture and the action in RV 5.40.5 together provide stronger evidence than the reconstructed chronology.
+The disputed treatment therefore grants the reconstructed language more generative freedom than it grants Sanskrit. A starred PIE ancestor may be proposed without a recorded sentence, while ***a-sura*** is rejected because standalone ***sura*** does not independently occur in the Ṛgveda. Chapter 3 argues that Sanskrit's architecture and the action in RV 5.40.5 provide stronger evidence than the reconstructed inherited title.
 
-Sources: the comparative sources in `asura-standard-semantic-reversal-account`; VedaWeb data in `rigveda-privative-generativity`; the internal derivations in `yaska-asura-nirukta` and `sura-dhatu-dipti`.
+Sources: the comparative sources in `asura-reconstructed-lord-account`; VedaWeb data in `rigveda-privative-generativity`; the internal derivations in `yaska-asura-nirukta` and `sura-dhatu-dipti`.
 
 ---
 
@@ -5000,7 +4974,7 @@ The note is deliberately narrow. It does not need to settle the scholarly disput
 AISWEEP-END -->
 Settling the scholarly dispute over the ultimate etymology of *asura* is not the point of the note. The point the chapter uses is narrower: the Western philological dogma itself flags the deeper PIE reconstruction as contested, while Sanskrit preserves the operating term in a real textual, ritual, philosophical, and civilizational field. The burden remains on the reconstruction to explain more than sound resemblance.
 
-The divergence in §19.8 begins with the priority assigned by Western philology. Mayrhofer's *Etymologisches Wörterbuch des Altindoarischen* takes "lord, mighty one" as the primary value of *asura-* and treats the privative ***a-suraḥ*** reading as secondary. That priority depends upon an internal chronology of the maṇḍalas in which the sovereign sense is early and the antagonist sense develops later. Chapter 3 tests the chronology against the passages themselves. RV 5.40.5 and 5.40.9 call Svarbhānu ***āsura*** while he darkens Sūrya; RV 5.42.11 calls Rudra both ***deva*** and ***asura*** only two hymns later. Maṇḍala Seven likewise contains the protecting Mitra and Varuṇa and the defeated Varcin. The two functions therefore coexist even inside the collection that Western chronology labels early. See `asura-old-mandalas-coexistence`.
+The divergence in §19.8 begins with the meaning assigned by Western philology. Mayrhofer's *Etymologisches Wörterbuch des Altindoarischen* assigns "lord, mighty one" to its reconstructed ancestor and treats the privative ***a-suraḥ*** analysis as secondary. Chapter 3 places that reconstructed third word beside Sanskrit's two derivations and then examines what the actors do in the mantras. Indra and Varuṇa protect life and release what has been bound. Svarbhānu covers Sūrya with darkness, while Namuci withholds and refuses release. The passages therefore support the distinction between ***asu-ra*** and ***a-sura*** without requiring the reconstructed title "lord" or "powerful being." See `rv-agni-mitra-rudra-asura`, `rigvedic-named-antagonist-asuras`, and `rigveda-5-40-5-svarbhanu-eclipse`.
 
 **The documented-awareness charge.** The "clearly aware of both words" sentence in §19.8 rests on the machinery's own reference works. Monier-Williams, *A Sanskrit-English Dictionary* (Oxford: Clarendon Press, 1899), s.v. *asura*: the entry derives the word from *asu* ("spirit, life-force"; via ⟪अस्⟫ *as*, "to be") — the breath-bearer derivation — **and** records the re-analysis as *a-* + *sura* (the privative), in the same entry; s.v. *sura*, MW makes the privative analysis explicit — *sura* "probably from *asura*, as if from *a-sura*, and as *sita* from *a-sita*" — a light/dark pair as the chosen analogy. The same dictionary records the dhātu सुर् "to shine" from the *Dhātupāṭha* (see `sura-dhatu-dipti`). And the discipline's own press printed Yāska's four parses: Lakshman Sarup, *The Nighaṇṭu and the Nirukta* (Oxford University Press, 1920–27). Both words, both derivations, the shining dhātu, and Yāska's open menu — all in the machinery's own publications before and while the reversal-story was taught. The conflation was not made in ignorance of the second word; it was made with both words on the page.
 
