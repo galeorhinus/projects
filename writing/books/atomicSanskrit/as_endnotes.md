@@ -1887,7 +1887,7 @@ The point Chapter 6 §6.8 draws is narrow and central: caste-as-fixed-birth-rank
 
 ---
 
-### `liber-arāvan-etymology`
+### `liber-aravan-etymology`
 
 **Short:** The Chapter 3 etymology places English *liberal* / *illiberal* beside Sanskrit **अरावन् (*arāvan*)**. Latin *liber* spans the semantic field of freedom and generosity; Sanskrit *arāvan* is rendered in the lexicons as "not liberal," adverse, hostile, and literally "not giving" from privative *a-* + the **रा** (*rā*) dhātu, to give, grant, bestow. The body prose uses the comparison structurally: the institutional use of *liberal* operates as a closed-handed, non-giving power.
 
