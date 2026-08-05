@@ -5251,14 +5251,60 @@ Source: *Ṛgveda Saṃhitā*, Maṇḍala 10, Sūkta 129; standard edition Aufr
 
 ### `migration-trap-movement-not-authorship`
 
-**Short:** Population genetics can establish movement, admixture, and ancestry; archaeology can establish contact, material culture, and settlement — neither establishes authorship of an engineered linguistic system, which can only be argued from the architecture, its preservation, and its operating rules.
+**Short:** Population genetics establishes movement, admixture, and ancestry. The male-biased Central Asian and steppe-related signal in the Indian subcontinent shows that incoming men fathered children with women already living there. DNA does not identify those men as conquerors, refugees, traders, mercenaries, exiles, or authors of Sanskrit.
 
 **Deployments:** Chapter 18 §18.6 — the migration trap; the *movement is not authorship* distinction.
 
 <!-- AISWEEP-OLD
 The distinction is methodological, not rhetorical. A genetic signature is evidence about bodies: who moved, who mixed, whose ancestry appears in which layer.
 AISWEEP-END -->
-A genetic signature is evidence about bodies: who moved, who mixed, whose ancestry appears in which layer — the distinction the note draws is methodological, not rhetorical. An archaeological horizon is evidence about material culture: pottery, settlement, burial, trade goods. Both are real evidence about real things. Neither is evidence about who specified the *varṇamālā*, who engineered the *dhātu* inventory, or who built the calibration matrix that protects Sanskrit from drift. Authorship of an engineered language is established the way authorship of any engineered system is established — from the design, its internal consistency, and the discipline that preserves it — not from the movement of the populations among whom it is found. The racial Arya thesis depends on treating evidence-of-movement as evidence-of-authorship; the two are different categories of claim. This is the same distinction Appendix Part 3 §3.5 draws for scripts: contact is not authorship, shape is not structure.
+A genetic signature describes bodies: who moved, who mixed, and whose ancestry appears in a population. An archaeological horizon describes material culture: pottery, settlement, burial, and trade goods. Both supply real evidence about movement and contact. Neither identifies who specified the *varṇamālā*, engineered the *dhātu* inventory, or built the calibration matrix that protects Sanskrit from drift.
+
+Silva et al. compared maternal, paternal, and genome-wide ancestry and reported a markedly higher proportion of likely West Eurasian lineages on the paternal side than on the maternal side. They described the Bronze Age influx from Central Asia as strongly male-driven. Narasimhan et al. found an excess of Central Steppe-related ancestry on the Y chromosomes of present-day inhabitants of the Indian subcontinent compared with their autosomal ancestry. They concluded that the introduction of steppe-pastoralist lineages into the ancestors of these present-day populations was mediated mostly by males.
+
+The same paper also prevents this result from being turned into one uniform migration event. Its Late Bronze Age and Iron Age samples from the Swat Valley showed the opposite pattern: steppe-related ancestry entered those sampled groups largely through females. The authors explicitly state that sex bias varied across the Indian subcontinent. The genetic evidence therefore records several movements and several kinds of interaction. It does not recover the motives, occupations, political status, or language of each incoming person.
+
+The terms *steppe ancestry* and *West Eurasian lineage* describe statistical affinities among sampled populations. They do not name a nationality, race, army, or civilizational author. A Y chromosome passes from father to son and can expand widely after a small number of incoming men have children with local women. The same genetic pattern can follow conquest, military service, trade, political exile, captivity, escape, or refuge. Genetics alone cannot choose among those histories.
+
+Authorship of an engineered language must therefore be argued from the architecture, its internal consistency, and the disciplines that preserve it. The racial Arya thesis turns evidence of movement into evidence of authorship without supplying that missing step. Appendix Part 3 §3.5 draws the same distinction for scripts: contact is not authorship, and shape is not structure.
+
+Sources: Marina Silva et al., "A Genetic Chronology for the Indian Subcontinent Points to Heavily Sex-Biased Dispersals," *BMC Evolutionary Biology* 17 (2017), article 88, https://doi.org/10.1186/s12862-017-0936-9; Vagheesh M. Narasimhan et al., "The Formation of Human Populations in South and Central Asia," *Science* 365, no. 6457 (2019), eaat7487, https://doi.org/10.1126/science.aat7487.
+
+---
+
+### `migration-trap-displacement-routes`
+
+**Short:** The histories of the steppe and the Greco-Roman world contain repeated mechanisms that displaced men: defeated confederacies, broken armies, political exile, mercenary service, captivity, debt, and slavery. The chapter presents these as historically available routes into India, not as a single biography imposed on every incoming paternal lineage.
+
+**Deployments:** Chapter 18 §18.6 — the pressures that could send men toward India without making them conquerors or civilizational authors.
+
+The histories of Central Asia record repeated cycles of confederation, war, defeat, displacement, migration, and later state formation. These written examples are later than the 2300–1500 BCE interval used by the genetic account. Chinese records place the Xiongnu defeat and westward displacement of the Yuezhi in the second century BCE. That movement in turn displaced Saka groups, some of whom moved south into regions adjoining and within the Indian subcontinent. The movements grouped under *Huna* belong later still, principally to the fourth through sixth centuries CE in the regions relevant here. These later histories do not date the Bronze Age ancestry; they show that the same corridor continued to produce uprooted male populations for many centuries.
+
+None of these identities determined one social role. Men from the same extended movement could appear as refugees in one setting, mercenaries in another, conquerors in a third, and settlers in the next generation.
+
+The monumental remains reveal where ruling formations concentrated labor throughout the period invoked by the genetic account. Between approximately 2300 and 1500 BCE, fortified Bactria–Margiana centers in southern Central Asia and fortified Sintashta settlements in the southern Urals concentrated people, storage, production, and defense behind walls. Khorezm later required long irrigation canals and enormous fortified enclosures; Kalaly-gyr 1 covered approximately seventy hectares and contained a palace complex. Afrasiab had become a fortified city by the seventh or sixth century BCE, with powerful mud-brick walls, a canal, and reservoirs. The royal mounds at Arzhan, Pazyryk, and Issyk concentrated earth, stone, timber, horses, metalwork, and human labor around elite burials. These structures supplied the pyramid's principal demands: agricultural production, military defense, royal administration, urban grandeur, and monumental burial.
+
+Greek and Roman societies provide a different set of pressures. Both depended extensively on slavery; war and piracy supplied captives, while armies and imperial conflict also produced mercenaries, deserters, political exiles, and displaced soldiers. Mining, quarrying, agriculture, construction, maritime labor, domestic service, and military logistics placed large numbers of enslaved, captive, indebted, conscripted, and impoverished men beneath the monuments celebrated by surviving histories. These conditions establish escape as a recurring human motive even though the surviving record cannot count how many such men reached India. The regions beyond India's northwestern frontiers gave men many reasons to leave, and genetics cannot distinguish those who fled a pyramid from those who served one.
+
+The chapter uses ***भव्यता (*bhavyatā*)*** and ***दिव्यता (*divyatā*)*** as an architectural contrast. *Bhavyatā* can mean grandeur or magnificence; here it describes grandeur created by concentrating labor and wealth toward an apex. *Divyatā* can mean divine quality, luminosity, or radiance; here it describes radiance that another person can approach and participate in. The contrast does not claim that every grand structure is asuric or that India built no monumental architecture. It distinguishes grandeur used to display an apex from radiance that invites participation.
+
+Sources: Craig G. R. Benjamin, *The Yuezhi: Origin, Migration and the Conquest of Northern Bactria* (Brepols, 2007); Denis Sinor, ed., *The Cambridge History of Early Inner Asia* (Cambridge University Press, 1990); Paula Doumani Dupuy, "Bronze Age Central Asia," in *The Oxford Handbook of Topics in Archaeology* (Oxford University Press, 2016); Rachel Mairs, *The Hellenistic Far East: Archaeology, Language, and Identity in Greek Central Asia* (University of California Press, 2014); Keith Bradley and Paul Cartledge, eds., *The Cambridge World History of Slavery*, vol. 1, *The Ancient Mediterranean World* (Cambridge University Press, 2011); Michele Minardi, *Ancient Chorasmia: A Polity between the Semi-Nomadic and Sedentary Cultural Areas of Central Asia* (Peeters, 2015); Galina Pugachenkova and Edvard Rtveladze, "Afrasiab: The Archaeological Site," *Encyclopaedia Iranica*; St John Simpson, "Scythians, Ice Mummies and Burial Mounds," British Museum, 2017.
+
+---
+
+### `migration-trap-india-absorption`
+
+**Short:** Greek testimony and the Heliodorus pillar do not establish the biography of every incoming man. They establish the narrower point needed here: observers and participants from the Hellenistic world encountered an Indian social order into which outsiders could enter.
+
+**Deployments:** Chapter 18 §18.6 — India as a destination for displaced men and as a civilization capable of absorbing newcomers.
+
+Arrian preserves Megasthenes's report: "This also is remarkable in India, that all Indians are free, and no Indian at all is a slave." He immediately contrasts India with Sparta, where the Helots performed the duties of slaves. The sentence should not be expanded into a claim that every form of dependence or exploitation was absent everywhere in India. It records the structural contrast that impressed a Greek observer formed by Mediterranean slave societies.
+
+The Besnagar inscription on the Heliodorus pillar identifies Heliodorus, son of Dion and a man of Taxila, as the Yavana ambassador of King Antialkidas. It also calls him a *bhāgavata* and records his dedication of the Garuḍa pillar to Vāsudeva. The inscription supplies direct evidence for the proposition used in the chapter: paternal or regional origin did not prevent a Yavana from participating deeply in an Indian religious tradition.
+
+The sentence about Kṣatriya and Rājput formations is a research direction rather than a claim that one incoming population became one later community. Rājput identities formed through several political and social processes over many centuries. The relevant possibility is that military groups of varied origins could enter local ruling and warrior formations through service, marriage, landholding, genealogy, and later political consolidation. See B. D. Chattopadhyaya, "Origin of the Rajputs: The Political, Economic and Social Processes in Early Medieval Rajasthan," *Indian Historical Review* 3, no. 1 (1976), later collected in *The Making of Early Medieval India*.
+
+Sources: Arrian, *Indica* 10, preserving Megasthenes's report; J. W. McCrindle, trans., *Ancient India as Described by Megasthenes and Arrian* (Calcutta: Thacker, Spink, 1877), pp. 32–33; Archaeological Survey of India, *Annual Report 1908–09*, pp. 126–29, "The Garuḍa Pillar of Besnagar."
 
 ---
 
