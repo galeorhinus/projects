@@ -77,6 +77,32 @@ def inject_lineage_comment(content: str, lineage_chain: str,
     return comment + content
 
 
+def _try_outline_devanagari(content: str) -> str:
+    """Best-effort Devanagari-outlining pass (see `text_outline.py` for why).
+    Requires uharfbuzz + fontTools, which live in `.venv-figures/`, not the
+    system Python — if they're unavailable, promote() falls back to a plain
+    copy and prints a warning rather than failing outright."""
+    try:
+        from .text_outline import contains_devanagari, outline_devanagari_in_svg
+    except ImportError:
+        print(
+            "  (uharfbuzz/fontTools not available in this interpreter — "
+            "Devanagari <text> left live. Run via .venv-figures/bin/python3 "
+            "to outline it.)"
+        )
+        return content
+
+    if not contains_devanagari(content):
+        return content
+
+    new_content, count, warnings = outline_devanagari_in_svg(content)
+    if count:
+        print(f"  outlined {count} Devanagari <text> element(s)")
+    for w in warnings:
+        print(f"  WARNING: {w}")
+    return new_content
+
+
 def promote(source: Path, date: str | None = None) -> Path:
     """Copy `source` (a from-*.svg) to its sibling <base>.svg, injecting
     the lineage XML comment.  Returns the canonical path written."""
@@ -87,6 +113,7 @@ def promote(source: Path, date: str | None = None) -> Path:
         date = datetime.date.today().isoformat()
     canonical = source.parent / f"{base}.svg"
     content = source.read_text(encoding="utf-8")
+    content = _try_outline_devanagari(content)
     new_content = inject_lineage_comment(content, chain, source.name, date)
     canonical.write_text(new_content, encoding="utf-8")
     return canonical
@@ -118,8 +145,11 @@ def list_canonicals(directory: Path) -> None:
 
 def verify(canonical: Path) -> bool:
     """Check that `canonical`'s recorded canonical-source exists and that
-    stripping the lineage comment from the canonical yields content
-    bit-identical to that source.  Returns True iff both hold."""
+    stripping the lineage comment from the canonical yields content that
+    matches re-deriving the canonical from that source (i.e. re-running the
+    same Devanagari-outlining transform promote() applies, not a raw byte
+    comparison — outlining means canonical != source verbatim whenever the
+    source contains Devanagari text).  Returns True iff both hold."""
     content = canonical.read_text(encoding="utf-8")
     m = LINEAGE_COMMENT_RE.search(content)
     if not m:
@@ -131,8 +161,9 @@ def verify(canonical: Path) -> bool:
         print(f"  ✗ {canonical.name}: recorded source {source_name!r} not found in {canonical.parent}")
         return False
     src_content = source_path.read_text(encoding="utf-8")
+    expected = _try_outline_devanagari(src_content)
     stripped = LINEAGE_COMMENT_RE.sub("", content, count=1)
-    if stripped == src_content:
+    if stripped == expected:
         print(f"  ✓ {canonical.name}: matches {source_name}")
         return True
     print(f"  ⚠ {canonical.name}: content differs from {source_name}")
