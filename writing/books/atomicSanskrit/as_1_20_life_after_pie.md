@@ -1,6 +1,6 @@
 # Chapter 20 — Life After PIE
 
-With the imaginary ancestor removed, the field brightens.
+With the imaginary ancestor removed, the view brightens.
 
 Sanskrit’s radiance moved outward in waves. Wherever that radiance reached, speech bloomed: sometimes as structure, sometimes as method, sometimes as lived substrate, and now, if the carriers become worthy of it, as conscious re-entry into the calibrant.
 
@@ -20,7 +20,7 @@ PIE is built on the premise of population descent: a people migrates with a lang
 
 The Hindu continuum remembers Vedic knowledge moving through named ṛṣi lineages. These memories come through inherited narratives, commentaries, place associations, and inscriptions rather than through a single contemporary travel record. They describe teachers whose influence extended across regions and whose knowledge entered other linguistic communities.
 
-Tamil and Sanskrit sources honor **अगस्त्य (*Agastya*)** as a teacher associated with movement across the Vindhyas, Vedic learning in the south, Tamil knowledge, cultivation, and water management. Later commentators attribute the lost *Agattiyam* to him, while Pandya inscriptions place him within priestly and royal memory.[NOTE: agastya-sources] These sources do not provide a modern travel record; they preserve the civilizational memory of a carrier entering another linguistic field. Tamil received that light and bloomed in cultivation, grammar, and memory in its own form.
+Tamil and Sanskrit sources honor **अगस्त्य (*Agastya*)** as a teacher associated with movement across the Vindhyas, Vedic learning in the south, Tamil knowledge, cultivation, and water management. Later commentators attribute the lost *Agattiyam* to him, while Pandya inscriptions place him within priestly and royal memory.[NOTE: agastya-sources] These sources do not provide a modern travel record; they preserve the civilizational memory of a carrier entering another linguistic world. Tamil received that light and bloomed in cultivation, grammar, and memory in its own form.
 
 Other lineage memories point in different directions. The continuum associates **कश्यप (*Kaśyapa*)** with Kashmir and the northwest. Pāṇini cites **भरद्वाज (*Bharadvāja*)** as an earlier analytical authority. **भृगु (*Bhṛgu*)** and **अङ्गिरस् (*Aṅgiras*)** stand behind *gotra* lineages with wide geographic reach. These memories identify carriers whom the continuum remembers. The treaty and technical records that follow provide a different kind of evidence: Sanskritic names and words preserved directly in writing outside India.
 
@@ -90,7 +90,7 @@ Later Tibetan and Indian translation teams compiled the **महाव्यु�
 
 **Greek** — proposed transmission, c. 100 BCE. The *Téchnē Grammatikē*, attributed to Dionysius Thrax, is the earliest surviving systematic account of Greek grammar.[NOTE: dionysius-thrax-techne] It appeared in Alexandria after centuries of contact between the Greek and Indic worlds through Alexander's campaigns, Mauryan-Seleucid exchanges, the Greco-Bactrian and Indo-Greek kingdoms, Aśoka's Greek-language edicts, Buddhist missions, and the movement of scholars and texts. Greek thinkers had already examined words, categories, and parts of speech. The later systematic account appeared in a world where Pāṇinian methods could circulate. This book proposes transmission through that contact; no surviving document records the lesson itself.
 
-**Arabic** — proposed transmission through the Basran intellectual field, 8th c. CE. Sibawayh's *Al-Kitāb* became foundational to Arabic grammatical science.[NOTE: sibawayh-al-kitab] Sibawayh worked in the early Abbasid Basran milieu while translation programs carried Indic mathematical, medical, and philosophical knowledge into Arabic. *Al-Kitāb* also shares several analytical features with Pāṇinian methodology: formal abbreviation, substitution-based analysis, and coordinated treatment of sound and form. The convergence of contact, timing, and method makes transmission a strong proposal, even though no surviving document records a direct lesson.
+**Arabic** — proposed transmission through the Basran intellectual world, 8th c. CE. Sibawayh's *Al-Kitāb* became foundational to Arabic grammatical science.[NOTE: sibawayh-al-kitab] Sibawayh worked in the early Abbasid Basran milieu while translation programs carried Indic mathematical, medical, and philosophical knowledge into Arabic. *Al-Kitāb* also shares several analytical features with Pāṇinian methodology: formal abbreviation, substitution-based analysis, and coordinated treatment of sound and form. The convergence of contact, timing, and method makes transmission a strong proposal, even though no surviving document records a direct lesson.
 
 [FIGURE 20.2: The Wave 2 Catalog of Methodological Metatypy — six rows (Greek / Latin / Tibetan / Arabic / Hebrew / Chinese-selective-reception); four columns (case type: direct / transitive / selective; approximate date; receiving-lineage text(s); transmission character).]
 
@@ -102,7 +102,7 @@ Sanskrit’s radiance made formal grammar bloom outside India.
 
 The East Asian Buddhist pathways form one part of a wider Sanskritic map. Across Southeast Asia, Sanskrit and its orbital Pāli forms entered local languages through teachers, translators, merchants, monastic communities, courts, and local scholars. Malay and Indonesian use ***bahasa***, from **भाषा (*bhāṣā*)**, as their ordinary word for language. **सिंहपुर (*Siṃhapura*)**, "lion city," became Malay *Singapura* and English *Singapore*. Thai *Ayutthaya* preserves **अयोध्या (*Ayodhyā*)**, while Khmer *Angkor* reaches back through *nokor* to **नगर (*nagara*)**, "city."[NOTE: buddhist-asia-radiance]
 
-The receiving languages made these words their own and continued to grow. The same process placed Sanskritic vocabulary throughout Malay, Indonesian, Thai, Khmer, and Burmese in political thought, learning, cosmology, literature, and daily speech. Several routes produced that map, so this chapter uses *Sanskritic* for the wider field and reserves direct Sanskrit descent for cases that support it. Teachers and communities shared words and methods; the recipients converted that radiance into local growth and remained themselves.
+The receiving languages made these words their own and continued to grow. The same process placed Sanskritic vocabulary throughout Malay, Indonesian, Thai, Khmer, and Burmese in political thought, learning, cosmology, literature, and daily speech. Several routes produced that map, so this chapter uses *Sanskritic* for the wider reach and reserves direct Sanskrit descent for cases that support it. Teachers and communities shared words and methods; the recipients converted that radiance into local growth and remained themselves.
 
 ## 20.3 The Diasporic Embers
 
@@ -158,7 +158,7 @@ The epilogue turns that responsibility into an invitation.
 
 Serving strictly as an imaginary ancestor, PIE obscured the actual evidence. Removing this construct reveals not a descendant waiting for a parent, but the architecture itself, deployed across three distinct stages: first as the Vedic corpus, second as Pāṇini's portable decoding, and third as a contemporary restatement.
 
-The Vedic sequence moves from eclipse to clearing before it reaches celebration. Svarbhānu's darkness has to be broken. The āsurī māyā has to be dissolved. Atri finds the hidden Sun through *turīya brahman*, the fourth formulation of disciplined speech.[NOTE: rigveda-5-40-atri-clearing] Only then can the later mantra say that the Atris found what no others could. Life after PIE belongs to that middle work: remove the eclipse-device, clear the field, and re-enter the discipline by which sight becomes possible again.
+The Vedic sequence moves from eclipse to clearing before it reaches celebration. Svarbhānu's darkness has to be broken. The āsurī māyā has to be dissolved. Atri finds the hidden Sun through *turīya brahman*, the fourth formulation of disciplined speech.[NOTE: rigveda-5-40-atri-clearing] Only then can the later mantra say that the Atris found what no others could. Life after PIE belongs to that middle work: remove the eclipse-device, clear the darkness, and re-enter the discipline by which sight becomes possible again.
 
 The preservation worked. The light remained available for recovery because the architecture endured through the darkness.
 

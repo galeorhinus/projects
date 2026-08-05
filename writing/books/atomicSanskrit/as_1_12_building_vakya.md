@@ -30,7 +30,7 @@ The epigraph places the **ऋचः (*ṛcaḥ*)** in the imperishable **अक�
 
 The verse directs attention beneath the visible utterance to what sustains it. In the scale model used here, the supporting layer lies below the completed sentence even though the verse calls its imperishable ground the highest heaven, **परमे व्योमन् (*parame vyoman*)**.
 
-The verse itself is a worked example of sentence assembly. Inside four lines it sets a locative field — **अक्षरे परमे व्योमन् (*akṣare parame vyoman*)** — closes it with a relative — **यस्मिन् (*yasmin*)** — weighs knowledge against its absence — **वेद (*veda*)**, **न (*na*)** — turns on an instrumental — **ऋचा (*ṛcā*)** — and reaches into future action with **करिष्यति (*kariṣyati*)**, built from the same ⟪कृ⟫ (*kṛ*) atom.
+The verse itself is a worked example of sentence assembly. Inside four lines it establishes a locative setting — **अक्षरे परमे व्योमन् (*akṣare parame vyoman*)** — closes it with a relative — **यस्मिन् (*yasmin*)** — weighs knowledge against its absence — **वेद (*veda*)**, **न (*na*)** — turns on an instrumental — **ऋचा (*ṛcā*)** — and reaches into future action with **करिष्यति (*kariṣyati*)**, built from the same ⟪कृ⟫ (*kṛ*) atom.
 
 The Vedic sentence is already doing all of this on its own: every part performs its role, the action stays visible, and the whole assembly can be traced from the surface back down to the atom.
 
@@ -44,7 +44,7 @@ From there the chain runs outward: the verbal molecule becomes a source of names
 
 The *dhātuḥ* is a semantic atom. To enter speech, it must bond into a sentence-ready form.
 
-Sanskrit bonds an atom in two main directions. A head-bond, **उपसर्गः (*upasargaḥ*)**, attaches before it and redirects its field of action. A tail-bond, **प्रत्ययः (*pratyayaḥ*)**, attaches after it and gives the resulting form a defined job: action, agent, deed, obligation, state, or another grammatical and semantic category.
+Sanskrit bonds an atom in two main directions. A head-bond, **उपसर्गः (*upasargaḥ*)**, attaches before it and redirects its action. A tail-bond, **प्रत्ययः (*pratyayaḥ*)**, attaches after it and gives the resulting form a defined job: action, agent, deed, obligation, state, or another grammatical and semantic category.
 
 The completed form can then take the ending required for sentence use. A **विभक्तिः (*vibhaktiḥ*)** marks a name's role, number, and relation, while a **तिङ्-प्रत्ययः (*tiṅ-pratyayaḥ*)** marks a verb's person and number. “Stabilize” here means that the bonded form has acquired a recoverable role; it does not describe physical preservation.
 
@@ -77,8 +77,8 @@ The atom means *do*, *make*, *act*. From that small semantic center Sanskrit bui
 | **कार्य (*kārya*)** | ⟪कृ⟫ with an obligation-forming tail-bond | that which is to be done |
 | **प्रकृति (*prakṛti*)** | *pra-* bonded to ⟪कृ⟫ | prior condition, nature, original formation |
 | **विकृति (*vikṛti*)** | *vi-* bonded to ⟪कृ⟫ | alteration, deformation, modification |
-| **संस्कृति (*saṃskṛti*)** | *sam-* bonded into the ⟪कृ⟫ field | cultivated order, refined formation |
-| **संस्कार (*saṃskāra*)** | *sam-* bonded into the ⟪कृ⟫ field with a different tail-bond | refining act, consecration, formative impression |
+| **संस्कृति (*saṃskṛti*)** | *sam-* bonded to ⟪कृ⟫ | cultivated order, refined formation |
+| **संस्कार (*saṃskāra*)** | *sam-* bonded to ⟪कृ⟫ with a different tail-bond | refining act, consecration, formative impression |
 
 These molecules are built from one semantic atom through different defined bonds.
 
@@ -88,7 +88,7 @@ The tail-bonds show the same principle from the other side. Bare ⟪कृ⟫ ca
 
 ⟪कृ⟫ serves the demonstration because it connects the technical proof to the highest categories in the argument: *prakṛti*, *vikṛti*, and *saṃskṛti*. The words for the creation triad are themselves products of the bonding procedure being demonstrated.
 
-Other atoms behave differently. **⟪ह्लाद्⟫ (*hlād*)** is a higher-*mātrā*, lower-reactivity atom in the joined analysis.[NOTE: hlad-contrast-atom] It still bonds and generates, but it does not open the same wide molecular field, and Sanskrit's bonding procedure handles both kinds: the highly reactive atoms that build large conceptual territories, and the specialized atoms that perform the narrower semantic work.
+Other atoms behave differently. **⟪ह्लाद्⟫ (*hlād*)** is a higher-*mātrā*, lower-reactivity atom in the joined analysis.[NOTE: hlad-contrast-atom] It still bonds and generates, but it does not produce the same wide molecular range. Sanskrit's bonding procedure handles both kinds: the highly reactive atoms that build large conceptual territories, and the specialized atoms that perform the narrower semantic work.
 
 The demonstration follows ⟪कृ⟫ because it makes the procedure visible. Once the reader sees the procedure on the most reactive atom, the same logic can be recognized elsewhere.
 
@@ -98,19 +98,19 @@ The demonstration follows ⟪कृ⟫ because it makes the procedure visible. O
 
 The first bonding direction is the head-bond. Sanskrit calls it **उपसर्गः (*upasargaḥ*)**.
 
-An *upasargaḥ* redirects the field in which the atom acts. With *kṛ*, the operation is easy to see because the atom is small and the resulting molecules are familiar.
+An *upasargaḥ* redirects the atom's action. With *kṛ*, the operation is easy to see because the atom is small and the resulting molecules are familiar.
 
-**प्र (*pra-*)** faces forward, prior, forth. When *pra-* binds to the *kṛ* field, the result is **प्रकृति (*prakṛti*)**: the prior condition, nature, original formation. The molecule settles the direction into a precise conceptual place.
+**प्र (*pra-*)** faces forward, prior, forth. When *pra-* binds to *kṛ*, the result is **प्रकृति (*prakṛti*)**: the prior condition, nature, original formation. The molecule settles the direction into a precise conceptual place.
 
-**वि (*vi-*)** faces apart, differentiated, separated, modified. When *vi-* binds to the same field, the result is **विकृति (*vikṛti*)**: alteration, deformation, modification. The atom remains; the direction of action changes.
+**वि (*vi-*)** faces apart, differentiated, separated, modified. When *vi-* binds to the same atom, the result is **विकृति (*vikṛti*)**: alteration, deformation, modification. The atom remains; the direction of action changes.
 
-**सम् (*sam-*)** faces together, integrated, completed, refined. When *sam-* binds to the *kṛ* field, it yields the family of integrated and refined forms: **संस्कृति (*saṃskṛti*)**, **संस्कार (*saṃskāra*)**, and **संस्कृत (*saṃskṛta*)**. In prose, **sam + kṛ** is useful shorthand for the semantic operation. In the actual sonomeric form, the visible **स्** in **संस्कृति** and **संस्कार** must be accounted for by the rules that build the surface molecule.[NOTE: kr-bonding-examples]
+**सम् (*sam-*)** faces together, integrated, completed, refined. When *sam-* binds to *kṛ*, it yields the family of integrated and refined forms: **संस्कृति (*saṃskṛti*)**, **संस्कार (*saṃskāra*)**, and **संस्कृत (*saṃskṛta*)**. In prose, **sam + kṛ** is useful shorthand for the semantic operation. In the actual sonomeric form, the visible **स्** in **संस्कृति** and **संस्कार** must be accounted for by the rules that build the surface molecule.[NOTE: kr-bonding-examples]
 
 Each *upasargaḥ* changes the direction in which ⟪कृ⟫ operates without changing the atom at the center: *pra-* directs it toward prior formation, *vi-* toward alteration, and *sam-* toward integrated refinement.
 
-The atom remains visible through the redirection, which is what makes the molecule interpretable. The head-bond changes the field while preserving the atom.
+The atom remains visible through the redirection, which is what makes the molecule interpretable. The head-bond changes the direction while preserving the atom.
 
-![Figure 12.4 — Head-bonds redirect the ⟪कृ⟫ (*kṛ*) field: *pra-*, *vi-*, and *sam-* produce different molecular territories.](figures/building_vakya/head_bonds.svg){#fig:building-vakya-head-bonds width=100%}
+![Figure 12.4 — Head-bonds redirect ⟪कृ⟫ (*kṛ*): *pra-*, *vi-*, and *sam-* produce different molecular territories.](figures/building_vakya/head_bonds.svg){#fig:building-vakya-head-bonds width=100%}
 
 ## 12.5 Tail-Bonds: How *Pratyayāḥ* Stabilize the Molecule
 
@@ -122,12 +122,12 @@ Start with bare *kṛ*. With one tail-bond, it becomes **कार्य (*kāry
 
 One atom and three tail-bonds produce three distinct molecular classes.
 
-Now keep the head-bond the same and change the tail-bond. The **sam-** field gives the clearest contrast:
+Now keep the head-bond the same and change the tail-bond. The **sam-** family gives the clearest contrast:
 
 - **संस्कृति (*saṃskṛti*)** denotes a cultivated order, refined formation, or state.
 - **संस्कार (*saṃskāra*)** denotes the refining act, consecration, or formative impression.
 
-The head-bond places the atom in the *sam-* field. The tail-bond decides whether the molecule designates the state, the act, or the result. The difference is grammatical and semantic. *Saṃskṛti* and *saṃskāra* remain related through their shared atom and head-bond, while remaining distinct because their tail-bonds differ.
+The head-bond joins *sam-* to the atom. The tail-bond decides whether the molecule designates the state, the act, or the result. The difference is grammatical and semantic. *Saṃskṛti* and *saṃskāra* remain related through their shared atom and head-bond, while remaining distinct because their tail-bonds differ.
 
 Because *pratyayāḥ* actively behave as valence-shell stabilizers by fully completing the outer shell of the molecule, it is only once this tail-bond securely closes that the molecule can finally take on a definitive role in a sentence.
 
@@ -148,11 +148,11 @@ The blanks are intentional. They flag unused cells. The test is recoverability, 
 | वि (*vi-*) | विकृति (*vikṛti*) | विकार (*vikāra*) | — | — | — |
 | सम् (*sam-*) | संस्कृति (*saṃskṛti*) | संस्कार (*saṃskāra*) | — | — | — |
 
-By reading the table procedurally—where moving down the rows changes the head-bond's field (none, *pra-*, *vi-*, *sam-*) while moving across the columns changes the tail-bond's molecule class (state-name, act-name, obligation, deed, agent)—it becomes immediately clear that at every filled cell, the highly stable *kṛ* atom remains the absolute center.
+By reading the table procedurally—where moving down the rows changes the head-bond (none, *pra-*, *vi-*, *sam-*) while moving across the columns changes the tail-bond's molecule class (state-name, act-name, obligation, deed, agent)—it becomes immediately clear that at every filled cell, the highly stable *kṛ* atom remains the absolute center.
 
 This is molecular construction.
 
-The matrix also protects the argument from overstatement. Sanskrit's generativity is structured. Sanskrit's architecture defines which bonds can form along each axis. Those bonds create a large field of construction, but a sequence that merely looks possible does not become a Sanskrit form unless the architecture can generate it.
+The matrix also protects the argument from overstatement. Sanskrit's generativity is structured. Sanskrit's architecture defines which bonds can form along each axis. Those bonds create a large construction range, but a sequence that merely looks possible does not become a Sanskrit form unless the architecture can generate it.
 
 The *racanā* × *gaṇa* matrix made the same point at the previous scale — some cells heavy, some light, some empty — and the molecular matrix repeats it: each filled cell records a procedure.
 
@@ -208,7 +208,7 @@ Break the assembly:
 
 The English sense is: *What will one who does not know that do with the ṛc?*
 
-The line is short, and every layer remains visible. **करिष्यति (*kariṣyati*)** expresses the future action and returns the reader to **⟪कृ⟫ (*kṛ*)**, the flagship atom. **ऋचा (*ṛcā*)** expresses the instrumental relation. **यः (*yaḥ*)** and **तत् (*tat*)** set up the relative field. **न (*na*)** negates the knowing. The relations encoded in the parts bind the sentence together.
+The line is short, and every layer remains visible. **करिष्यति (*kariṣyati*)** expresses the future action and returns the reader to **⟪कृ⟫ (*kṛ*)**, the flagship atom. **ऋचा (*ṛcā*)** expresses the instrumental relation. **यः (*yaḥ*)** and **तत् (*tat*)** establish the relative construction. **न (*na*)** negates the knowing. The relations encoded in the parts bind the sentence together.
 
 By the time the *vākya* is formed, every level beneath it is still recoverable, each for a concrete reason: the sonomers because sound-change runs by rule, the *dhātuḥ* because the molecule keeps its atomic identity through affixation, the *upasargaḥ* and *pratyayaḥ* because each bond leaves a grammatical and semantic signature, and the *padam* because *vibhaktiḥ* and *tiṅ-pratyayaḥ* encode relation, number, person, and role.
 
@@ -218,13 +218,13 @@ The sentence is the larger assembly, yet the smaller engineering remains visible
 
 ### Usage Expands While the Language Remains Invariant
 
-The assembled sentence brings Sanskrit's generative architecture into view as one continuous procedure. A finite inventory supplies the material at each scale, and specified operations prepare that material for the next scale. The **वर्णमाला (*varṇamālā*)** supplies sonomers that combine into the semantic atoms listed in the **धातुपाठ (*Dhātupāṭha*)**. The *gaṇa* operations activate those atoms; *upasargāḥ* redirect their fields; and *pratyayāḥ* complete them as actions, agents, deeds, states, and other usable molecules. Once role-endings have prepared those molecules for relation, they can enter a sentence without surrendering the construction that produced them.
+The assembled sentence brings Sanskrit's generative architecture into view as one continuous procedure. A finite inventory supplies the material at each scale, and specified operations prepare that material for the next scale. The **वर्णमाला (*varṇamālā*)** supplies sonomers that combine into the semantic atoms listed in the **धातुपाठ (*Dhātupāṭha*)**. The *gaṇa* operations activate those atoms; *upasargāḥ* redirect their actions; and *pratyayāḥ* complete them as actions, agents, deeds, states, and other usable molecules. Once role-endings have prepared those molecules for relation, they can enter a sentence without surrendering the construction that produced them.
 
 Once Sanskrit has produced usable forms, **समास (*samāsa*)** allows them to enter a further level of composition. Two completed forms can join as one compound, and the completed compound can become part of a larger compound in turn. When India's lunar mission required a name, **चन्द्र (*candra*, moon)** and **यान (*yāna*, vehicle)** joined as **चन्द्रयान (*Candrayāna*)**, a vehicle for the Moon. The new circumstance required new usage, while the atoms, bonds, and compositional procedure remained available without alteration.
 
-Every additional scale enlarges the possible field of expression. Under the stated assumptions in Chapter 0 §0.6, this book's conservative model produces more than twenty million first-pass possible forms. And that does not include the calculations for *samāsa*, technical coinage, and poetic extension.[NOTE: sanskrit-generative-wordspace] The number is a model of generative space rather than a count of dictionary entries. The preceding chapters show how that space arises: compact atoms enter specified operations, and completed forms remain available for further assembly.
+Every additional scale enlarges the possible range of expression. Under the stated assumptions in Chapter 0 §0.6, this book's conservative model produces more than twenty million first-pass possible forms. And that does not include the calculations for *samāsa*, technical coinage, and poetic extension.[NOTE: sanskrit-generative-wordspace] The number is a model of generative space rather than a count of dictionary entries. The preceding chapters show how that space arises: compact atoms enter specified operations, and completed forms remain available for further assembly.
 
-The architecture produces this large field by governing how its parts combine. A pronounceable sequence does not become Sanskrit merely because its parts can be imagined, and the empty cells in the *racanā–gaṇa* and bonding matrices record combinations that the architecture does not use. A valid formation must follow the operations that connect its parts, preserve the required sound changes, and enter speech with recoverable grammatical and semantic bonds. The same internal constraints that generate a form also allow speakers and caretakers to examine and correct it.
+The architecture produces this large range by governing how its parts combine. A pronounceable sequence does not become Sanskrit merely because its parts can be imagined, and the empty cells in the *racanā–gaṇa* and bonding matrices record combinations that the architecture does not use. A valid formation must follow the operations that connect its parts, preserve the required sound changes, and enter speech with recoverable grammatical and semantic bonds. The same internal constraints that generate a form also allow speakers and caretakers to examine and correct it.
 
 The **लौकिक (*laukika*)** domain uses this generative engine to meet a changing world. Speakers can create an expression for a new object, institution, practice, or idea by applying the standing architecture, while later speakers can trace the result back through its construction. Usage expands through derivation and composition; the language remains invariant.
 
@@ -234,7 +234,7 @@ The **लौकिक (*laukika*)** domain uses this generative engine to meet a
 
 Inside Sanskrit, the same architecture that produces a form continues to govern it. Sonomers become atoms, atoms become molecules, molecules become *padāni*, and *padāni* become *vākyāni*. Grammar, recitation, *padapāṭha*, *Prātiśākhya*, *Śikṣā*, and the calibration matrix developed in Chapter 14 allow speakers and caretakers to hear a departure, locate it, and correct it, so the molecule remains specified even while usage expands.
 
-When a Sanskrit *śabda* enters another language, its new speakers bring it into a different sound inventory, grammar, set of habits, and field of social pressures. They reshape the incoming form so that it can function inside that linguistic ecology. Sanskrit's calibration continues to preserve the original *śabda*, while the received form begins a separate organic life.
+When a Sanskrit *śabda* enters another language, its new speakers bring it into a different sound inventory, grammar, set of habits, and set of social pressures. They reshape the incoming form so that it can function inside that linguistic ecology. Sanskrit's calibration continues to preserve the original *śabda*, while the received form begins a separate organic life.
 
 A Sanskrit form may reach another language through speech, teaching, recitation, travel, inscription, or text. Whatever route it takes, a receiving mind must first receive the form as **बीज (*bīja*)**, a seed: something received but not yet expressed as part of the listener's own language. When that listener or a later generation gives the seed a form that fits the receiving language's sounds and grammar, the *bīja* becomes an **अपशब्द (*apaśabda*)**, an organic form that can change and produce further forms within its new home.
 

@@ -134,7 +134,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **orbital** / **drifting** (with **Sanskritic gravity** and **radiance**)
 
-**Book-coined English, the two kinds of natural language.** While both terms name change away from an engineered form, the field itself separates them. An **orbital** language remains calibrant-anchored, moving from the standard (*apabhraṃśa*) but staying in orbit as **Sanskritic gravity** pulls it back toward a form it can still be measured against (the Indic languages anchored to or descended from Sanskrit — Marathi, Hindi, Bengali). A **drifting** form operates outside the field, moving without bound since no center anchors its movement (English, and the far cognates). **Radiance** constitutes the outward face of the same Sun, ensuring that as Wave 1 and Wave 2 carriers take Sanskritic light beyond the field, receiving languages preserve reflections (*Pratibimba*) so that where a ray lands, a tree grows—making the botanical account true there and only there. Both orbital and drifting sit inside the *prakṛti* category, distinct from the *calibrant* (Sanskrit, the standard) and from *codified* languages (drift arrested by external authority). The pair cross-cuts the *calibrand* / *Pratibimba* classification: a far calibrand (Greek, Latin, Persian) drifts, while a Sanskrit-anchored Indic language orbits, though both preserve reflections of the calibrant. *Diverging* remains available as technical backup for *orbital*. Introduced in Chapter 6 §6.3 and §6.7; the radiance side developed in Chapter 19; placed in the typology in Chapter 14 §14.5.
+**Book-coined English, the two kinds of natural language.** While both terms name change away from an engineered form, their relation to the calibrant separates them. An **orbital** language remains calibrant-anchored, moving from the standard (*apabhraṃśa*) but staying in orbit as **Sanskritic gravity** pulls it back toward a form it can still be measured against (the Indic languages anchored to or descended from Sanskrit — Marathi, Hindi, Bengali). A **drifting** form operates outside that orbit, moving without bound since no center anchors its movement (English, and the far cognates). **Radiance** constitutes the outward face of the same Sun, ensuring that as Wave 1 and Wave 2 carriers take Sanskritic light beyond the orbit, receiving languages preserve reflections (*Pratibimba*) so that where a ray lands, a tree grows—making the botanical account true there and only there. Both orbital and drifting sit inside the *prakṛti* category, distinct from the *calibrant* (Sanskrit, the standard) and from *codified* languages (drift arrested by external authority). The pair cross-cuts the *calibrand* / *Pratibimba* classification: a far calibrand (Greek, Latin, Persian) drifts, while a Sanskrit-anchored Indic language orbits, though both preserve reflections of the calibrant. *Diverging* remains available as technical backup for *orbital*. Introduced in Chapter 6 §6.3 and §6.7; the radiance side developed in Chapter 19; placed in the typology in Chapter 14 §14.5.
 
 ### **vivimorphosis**
 
@@ -186,7 +186,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **vaidika** (वैदिक) / **laukika** (लौकिक)
 
-**Standard.** Vedic domain / worldly-learned domain. Documented in Patañjali's *Mahābhāṣya*. Concurrent civilizational fields, not stages on a timeline.
+**Standard.** Vedic domain / worldly-learned domain. Documented in Patañjali's *Mahābhāṣya*. Concurrent civilizational domains, not stages on a timeline.
 
 ### **curated transmission** / **percipient selection**
 
@@ -216,7 +216,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **devabhāṣā** (देवभाषा)
 
-**Standard lineage epithet, book-elevated.** *The language of the devas* — the radiant ones. The lineage-name for Sanskrit. The book treats this as more than ornament: it captures what the language *did* — radiated light outward, calibrating other languages across the depth of time. The radiative function is a descriptive claim about how Sanskrit operated on the surrounding subcontinental and Indo-European sound-fields, not a poetic gesture. Chapter 0 §0.3 establishes; deployed as a recurring frame.
+**Standard lineage epithet, book-elevated.** *The language of the devas* — the radiant ones. The lineage-name for Sanskrit. The book treats this as more than ornament: it captures what the language *did* — radiated light outward, calibrating other languages across the depth of time. The radiative function is a descriptive claim about how Sanskrit operated upon surrounding subcontinental and Indo-European languages, not a poetic gesture. Chapter 0 §0.3 establishes; deployed as a recurring frame.
 
 ### **jijñāsā** (जिज्ञासा)
 

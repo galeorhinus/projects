@@ -63,7 +63,7 @@ The Vedic corpus supplies the first body of evidence. Appendix Part 7 follows th
 
 The analytical disciplines before Pāṇini supply a second body of evidence. Śākalya decomposed the Rigvedic *saṃhitā* through the *padapāṭha*. Pāṇini cites earlier *vaiyākaraṇāḥ*, and Yāska cites earlier analysts of word and meaning.[NOTE: panini-cites-pre-paninian-vaiyakaranas] The *Prātiśākhya* and *Śikṣā* disciplines analyze phonetic realization and articulation by transmission line. These are not fragments of a civilization waiting for grammar to arrive. They show a language already being decoded from several directions.
 
-The surviving names make that earlier analytical field harder to erase. Pāṇini refers to Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Saunaga, Senaka, and Sphoṭāyana. Yāska, in turn, preserves earlier explanations associated with analysts such as Sthaulāṣṭhīvi and Śakapūṇi. Their texts have not all survived, so their complete systems cannot now be reconstructed. Their presence still establishes the point required here: Pāṇini inherited a developed field of analysis. His achievement stands at the surviving peak of that field.
+The surviving names make that earlier analytical tradition harder to erase. Pāṇini refers to Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Saunaga, Senaka, and Sphoṭāyana. Yāska, in turn, preserves earlier explanations associated with analysts such as Sthaulāṣṭhīvi and Śakapūṇi. Their texts have not all survived, so their complete systems cannot now be reconstructed. Their presence still establishes the point required here: Pāṇini inherited a developed discipline of analysis. His achievement stands at the surviving peak of that tradition.
 
 Patañjali supplies the order explicitly:
 
@@ -79,7 +79,7 @@ The frequently cited Vedic features can be examined through the same distinction
 
 Vedic accent supplies another example. The recitation lineages continue to preserve its rule-defined pitch distinctions because *svara* forms part of the grammatical interpretation of a Vedic passage as well as its exact sound. Laukika speech and composition operate without that interpretive layer and use a tighter reusable grammar for new expression. Calling the accent “lost” collapses the two domains and ignores the one in which the feature remains fully alive.
 
-The same reasoning applies to ***pluta*** vowels and the ***leṭ-lakāra***. A *pluta* vowel belongs to specified recitational circumstances. The *leṭ-lakāra* belongs to the Vedic field that Pāṇini marks with ***chandasi***. Their restricted use does not show debris from a language on its way to extinction. It shows that Sanskrit assigns resources to the domains and scopes that require them.
+The same reasoning applies to ***pluta*** vowels and the ***leṭ-lakāra***. A *pluta* vowel belongs to specified recitational circumstances. The *leṭ-lakāra* belongs to the Vedic domain that Pāṇini marks with ***chandasi***. Their restricted use does not show debris from a language on its way to extinction. It shows that Sanskrit assigns resources to the domains and scopes that require them.
 
 Multiple Vedic infinitive formations require analysis in their passages rather than automatic placement on a timeline. Their different lengths and shapes can provide metrical and expressive choices. An audit may still find replacement in a particular case, but the existence of alternatives cannot establish replacement by itself. The analyst must show which form displaced another, where that displacement occurred, and what evidence fixes their sequence.
 
@@ -212,7 +212,7 @@ The story survives because it serves several institutions at once.
 
 It praises Pāṇini as a singular genius while making the Vedic corpus, recitation systems, phonetic disciplines, and earlier analysts appear preparatory. The named figure receives the architecture that the civilization preserved. Heroic erasure can therefore sound respectful even while it removes the ground beneath the hero.
 
-The story also gives the academy a familiar object. Historical linguistics knows how to classify a natural language that changes and is later standardized. It can date stages, compare forms, reconstruct ancestors, and assign authority to grammars. An engineered calibrant requires a different category and would force the field to reconsider the assumptions through which it has described Sanskrit.
+The story also gives the academy a familiar object. Historical linguistics knows how to classify a natural language that changes and is later standardized. It can date stages, compare forms, reconstruct ancestors, and assign authority to grammars. An engineered calibrant requires a different category and would force the discipline to reconsider the assumptions through which it has described Sanskrit.
 
 The church of progress gains a linear sequence from archaic to refined, fluid to fixed, and sacred poetry to technical analysis. Colonial philology gains an external explanation through PIE, migration, substrate, and imported chronology. PIE gains a descendant whose visible order can be admired only after that order has been attributed to late codification.
 

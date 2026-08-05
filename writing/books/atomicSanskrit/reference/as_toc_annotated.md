@@ -129,14 +129,14 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 8.2 A Sound Is Not Always a Slot — *The field-versus-coordinate distinction.*
 - 8.3 How We Map the Sounds — *The inventory-atlas method: harmonized coordinates,* mahāprāṇa-*strip preset, union-coverage survey.*
 - 8.4 A Note on *Draviḍa* and Dravidian — *Uses current labels without accepting the racial Arya / Dravidian civilizational divide.*
-- 8.5 The Sound-Field Persists — *The field is stable enough for an engineered selection to be plausible.*
+- 8.5 The Regional Pattern Persists — *The regional pattern is stable enough for an engineered selection to be plausible.*
 - 8.6 The Southern Survey: 20 of 23 — *Tamil, Toda, and Kurukh light twenty of the twenty-three Sanskrit base coordinates.*
 - 8.7 The Forest-Belt Survey: 18 of 23 — *Korku, Mundari, and Ho light eighteen of the twenty-three.*
 - 8.8 External Controls — *Western IE and Central Asian controls show much lower coverage.*
 - 8.9 The Gaps Are Neighbors — *The missing cells are nearby mouth-neighbors, not structural absences.*
 - 8.10 The Retroflex Band — *The retroflex row as a subcontinental signature; points forward to Chapter 17.*
-- 8.11 Breath in the Field — *Mahāprāṇa *and* visarga *prepared as breath made structural.*
-- 8.12 What the Field Shows — *The field supplies material; Chapter 9 shows the sieve and the grid.*
+- 8.11 Breath Above the Base — *Mahāprāṇa *and* visarga *prepared as breath made structural.*
+- 8.12 What the Comparison Shows — *The region supplies the sounds; Chapter 9 shows the sieve and the grid.*
 
 **Chapter 9 — The Varṇamālā: The Sonomeric Grid** — *Turns the surveyed sound-field into the selected Sanskrit parts-inventory: garland, address-space, control panel, breath-coordinate, measured duration, and sound volume — and lifts the Alphabetic shadow.*
 
@@ -227,11 +227,11 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 17.3 The Mind Receives: *Sampradāna* — *The self as receiver rather than sovereign agent.*
 - 17.4 The Mind De-centers: *Karmaṇi* and *Bhāve* — *The doer steps back; the action or affected thing can stand forward.*
 - 17.5 The Mind Sequences: The Folded Action — *Prior action compressed into forms such as pītvā and hatvā.*
-- 17.6 One Field, Encoded — *The five features gathered as one subcontinental field.*
+- 17.6 One Cluster, Encoded — *The five features gathered as one subcontinental cluster.*
 - 17.7 The Notices — *The pyramid's changing Aryan notices mocked by their retained custody tag.*
 - 17.8 The Borrowing Model Fails — *The claimed route must explain the cluster Sanskrit encodes structurally.*
 - 17.9 The Corpus Cannot Be Rewritten — *The Vedic corpus already preserves the field; style and mode are not chronology.*
-- 17.10 What Sanskrit Builds from the Field — *The grammar transforms the subcontinental mouth-and-mind field into a precise architecture.*
+- 17.10 What Sanskrit Builds from the Cluster — *The grammar transforms the subcontinental mouth-and-mind cluster into a precise architecture.*
 
 **Chapter 18 — The Wrong Question** — *Argues at the level of categories of explanation. The genealogical project asks the wrong question. The architectural test names what any valid model of Sanskrit must explain; the precursor model fails for the same structural reason.*
 

@@ -56,7 +56,7 @@ Modern information theory provides useful language for describing this arrangeme
 
 In *krama-pāṭha*, an interior word appears in the pair before it and the pair after it. A swap therefore disturbs both neighboring relationships. *Jaṭā-pāṭha* adds reversal, requiring the reciter to produce the words and their joins in both directions. *Ghana-pāṭha* extends this checking across moving three-word windows. By the end of a passage, adjacent words and joins have been heard repeatedly in several specified orders under auditory supervision.
 
-The *vikṛti* recitations add further constraint. Each modified form gives the sequence a different shape. Together they form a redundancy field around the Vedic corpus. It is hard to construct a corruption that passes all eleven.
+The *vikṛti* recitations add further constraint. Each modified form gives the sequence a different shape. Together they surround the Vedic corpus with redundant checks. It is hard to construct a corruption that passes all eleven.
 
 This is the calibration matrix in motion (Chapter 14 §14.3) — *Chandas* operating like a cryptographic hash over the phonetic content. The meter binds the verse into a metrical form with low tolerance for drift, while the *pāṭhas* re-encode the same content under combinatorial constraints. *Śikṣā* trains the human instrument, and the *guru*, audience, and senior reciters all listen, turning the room itself into a distributed verification layer. As Sanātan's aural foundation, Auditure distributes the work of guarding among multiple trained ears, which hear the same *(n, n+1)* *sandhi* boundary in the *jaṭā-pāṭha* at the same instant.[NOTE: combinatorial-redundancy-comparative]
 

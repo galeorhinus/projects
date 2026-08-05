@@ -52,7 +52,7 @@ That same cognitive leap shaped the place-value number system and Sanskrit's gen
 
 ## 0.2 A Culture of Seekers
 
-A civilization that begins from *pūrṇam* approaches order through disciplined inquiry. A seeker examines what sustains the field, tests each conclusion against experience and inherited knowledge, and accepts the discipline required by that search.
+A civilization that begins from *pūrṇam* approaches order through disciplined inquiry. A seeker examines what sustains the surrounding order, tests each conclusion against experience and inherited knowledge, and accepts the discipline required by that search.
 
 The Sanskrit word is *jijñāsā* (जिज्ञासा): the desire to know. The civilization's classical disciplines are organized around it. The *Mīmāṃsā* discipline opens with *athāto dharmajijñāsā* — *now, therefore, the inquiry into dharma*. The *Brahmasūtra* discipline opens with *athāto brahmajijñāsā* — *now, therefore, the inquiry into Brahman*. The disciplines begin as inquiries: operations to be performed, questions to be placed into disciplined order.
 
@@ -82,9 +82,15 @@ Sanskrit continues to work. It still labels, blesses, measures, and composes. It
 
 Sanskrit's other name is ***devabhāṣā*** (देवभाषा) — the language of the *devas*, the radiant ones. The phrase captures what the language does. It radiates light outward.
 
-Sanskrit also trains the ear to hear a proper name as an attribute that can express relation, action, quality, lineage, or function.[NOTE: sanskrit-names-as-attributes] Yāska's formula **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)** states a related principle at the level of word formation: nominal words arise from verbs. Sanskrit labels the world and discloses its structure in the same stroke.
+### Attribute, Not Label
+
+Sanskrit's naming architecture is attributive rather than nominative. It describes an object through its actions, relations, qualities, lineage, and functions instead of fastening one arbitrary label to it.[NOTE: sanskrit-names-as-attributes] A proper name can therefore disclose something about the person or object it describes.
+
+Yāska's formula **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)** states a related principle at the level of word formation: nominal words arise from verbs. Sanskrit describes the world while keeping its actions and structure visible.
 
 Yāska turned the same discipline on *deva* itself and derived the word from action: from *dā*, to give; from *dīp*, to kindle; from *dyut*, to shine.[NOTE: yaska-deva-derivation] The radiant ones of *devabhāṣā* are the giving, the kindling, the shining — the deed embedded in the word, not a label pinned on it.
+
+Sanskrit can describe a single object through several words, each built from a different attribute. Water shows this plainly.[NOTE: sanskrit-names-as-attributes] जल (*jala*) comes from ⟪जल्⟫ (*jal*), to harden: water passing between its liquid and solid states. वारि (*vāri*) comes from ⟪वृ⟫ (*vṛ*), to surround: water as what encircles. आपः (*āpaḥ*) comes from ⟪आप्⟫ (*āp*), to pervade: water as what reaches everywhere. पयस् (*payas*) comes from ⟪पी⟫ (*pī*), to drink: water as the nourishing draught. सलिल (*salila*) comes from ⟪सल्⟫ (*sal*), to move: water as surge and current. उदक (*udaka*) comes from उद् (*ud*) and ⟪अञ्च्⟫ (*añc*), to go forth: water as what springs and flows. Six words, six attributes, one substance.
 
 The same rule governs the contested words ahead. *Asura*, *ārya*, *saṃskṛta* — each arrives as a fixed label, and each yields something different once its action and function are weighed. The English word is not the authority. What the word does is.
 
@@ -98,13 +104,13 @@ The first evidence of the engineering thesis is the language's own name: *saṃs
 
 *Saṃskṛta* itself runs in two domains. Its architecture and calibrated language remain invariant in both. The **vaidika** वैदिक domain keeps language and content invariant: the Veda remains exact. The **laukika** लौकिक domain applies the same invariant language to a changing world. Sanskrit's generative architecture can produce millions of possible words from its standing atoms and bonds, giving each age vocabulary for new objects, practices, institutions, and ideas. Usage adapts and expands while the language remains invariant. Its corpus is a **curated transmission** — selected, accretive, and lossy, tended by **percipient selection**, the discerning community keeping what serves and letting the rest go. Beside both flows the **prākṛtika** प्राकृतिक, where language and content alike change: the natural speech of daily life.
 
-These are three fields, each with its own duty. The *vaidika* preserves invariant language and content. The *laukika* preserves the language while extending its use and tending its corpus. The *prākṛtika* lets language and content change with daily life. Together they are a civilization keeping three promises at once.
+These are three domains, each with its own duty. The *vaidika* preserves invariant language and content. The *laukika* preserves the language while extending its use and tending its corpus. The *prākṛtika* lets language and content change with daily life. Together they are a civilization keeping three promises at once.
 
 Why does Sanskrit need two domains? If its architecture is complete and generative, why not preserve one body of rules and allow speakers to extend it as circumstances change? The comparison with Esperanto in Chapter 2 will show why rules alone cannot preserve a calibrant.
 
-Exact Vedic preservation requires the *vaidika* domain to retain every articulation demanded by a mantra, including sounds produced only under a stated condition. The *laukika* domain, whose name means *worldly*, must provide vocabulary for a changing field of activity while keeping the language invariant. Sanskrit meets that second demand through a highly generative architecture capable of producing millions of words, and continuing generation requires a reusable sonomer inventory whose members combine consistently throughout the system. Chapter 9 will show how one sound architecture can satisfy both requirements.
+Exact Vedic preservation requires the *vaidika* domain to retain every articulation demanded by a mantra, including sounds produced only under a stated condition. The *laukika* domain, whose name means *worldly*, must provide vocabulary for changing human activity while keeping the language invariant. Sanskrit meets that second demand through a highly generative architecture capable of producing millions of words, and continuing generation requires a reusable sonomer inventory whose members combine consistently throughout the system. Chapter 9 will show how one sound architecture can satisfy both requirements.
 
-![Figure 0.1 — The three fields. *Saṃskṛta*, the wholly created language, runs in two domains. The *vaidika* keeps language and content invariant. In the *laukika*, the language remains invariant while generative usage adapts and its curated corpus remains selected, accretive, and lossy. Beside them, *prākṛtika* flows as the changing natural speech of daily life. The figure compares how the three fields preserve or change language and content; it does not give them a common beginning.](figures/seekers/sanatana_triad.svg){#fig:sanatana-triad width=100%}
+![Figure 0.1 — The three domains. *Saṃskṛta*, the wholly created language, runs in two domains. The *vaidika* keeps language and content invariant. In the *laukika*, the language remains invariant while generative usage adapts and its curated corpus remains selected, accretive, and lossy. Beside them, *prākṛtika* flows as the changing natural speech of daily life. The figure compares how the three domains preserve or change language and content; it does not give them a common beginning.](figures/seekers/sanatana_triad.svg){#fig:sanatana-triad width=100%}
 
 ---
 
@@ -118,7 +124,7 @@ If *archaic* simply means ancient, then the description says very little. If it 
 
 A better question is: are the Vedas old?
 
-In their human reception and transmission, undoubtedly. *Sanātana* time is ***अनादि (anādi)***, but the Vedas are not. They have a beginning within that field. The *mantradṛṣṭāraḥ* and *mantradṛṣṭryaḥ* saw the mantras, but we do not know when each mantra was seen. Calling the Vedas old can therefore describe the depth of their human transmission; it cannot establish an evolutionary beginning for Sanskrit.
+In their human reception and transmission, undoubtedly. *Sanātana* time is ***अनादि (anādi)***, but the Vedas are not. They have a beginning within Sanātana time. The *mantradṛṣṭāraḥ* and *mantradṛṣṭryaḥ* saw the mantras, but we do not know when each mantra was seen. Calling the Vedas old can therefore describe the depth of their human transmission; it cannot establish an evolutionary beginning for Sanskrit.
 
 The ***लौकिक (laukika)*** domain is also old. Both *vaidika* and *laukika* belong to the same engineering. The two domains may have existed together from the beginning because they serve two different purposes.
 
@@ -156,19 +162,19 @@ The word ***अन्त (*anta*)*** can describe a position within an arrangeme
 
 The pyramid merges them. Because the Upaniṣads are called *Vedānta*, their place at the culmination of Vedic knowledge becomes evidence that they were composed last. The resulting chronology then arranges Saṃhitā, Brāhmaṇa, Āraṇyaka, and Upaniṣad as successive historical stages. Their different functions and styles are made to tell a story in which Vedic thought moved from mantra, through *yajña*, and finally into philosophy.
 
-The Hindu continuum does not describe a *Vedāntic period*. Its chronology describes yugas, manvantaras, dynasties, reigns, and lineages. *Vedānta* instead identifies the culmination and purpose of Vedic knowledge. It also identifies the interpretive field carried through the Upaniṣads, the Bhagavad Gītā, the Brahmasūtras, and the several Vedānta darśanas. These are textual, philosophical, and pedagogical relationships. None of them turns *Vedānta* into the name of an age.
+The Hindu continuum does not describe a *Vedāntic period*. Its chronology describes yugas, manvantaras, dynasties, reigns, and lineages. *Vedānta* instead identifies the culmination and purpose of Vedic knowledge. It also identifies the interpretive tradition carried through the Upaniṣads, the Bhagavad Gītā, the Brahmasūtras, and the several Vedānta darśanas. These are textual, philosophical, and pedagogical relationships. None of them turns *Vedānta* into the name of an age.
 
 Chronology capture has now entered institutions that should have protected this distinction. The Government of India's Vedic Heritage Portal defines *Vedānta* as the conclusion and goal of the Vedas, then immediately declares that the Upaniṣads came chronologically at the end of a *Vedic period*. The Vedanta Society's public explanation also preserves the internal meaning of *anta* as end or goal, while introductory scholarship hosted on its site restores the conventional dates and historical sequence. The structural meaning remains visible, but it is made to carry a chronology that it cannot establish.[NOTE: vedanta-anta-chronology-capture]
 
 This is category theft through chronology capture. A structural end becomes a chronological end. Culmination becomes lateness. Purpose becomes period.
 
-At the turn from the Dvāpara age to the Kali age — the age of the Mahābhārata — Vyāsa divided the one Veda into four: *Ṛgveda*, *Yajurveda*, *Sāmaveda*, and *Atharvaveda*, each with its *saṃhitā* and associated *vistāra* — Brāhmaṇa, Āraṇyaka, and Upaniṣad. Every Veda has Upaniṣadic material associated with it; together, these shared culminations form the field called ***वेदान्त (*Vedānta*)***. The division added nothing and took nothing away. It arranged the one body for an age of shorter memory: preservation, not authorship.[NOTE: veda-vyasa-division] This is the *vaidika* domain, preserved in ***छन्दस् (*chandas*)***, the metrical mode.
+At the turn from the Dvāpara age to the Kali age — the age of the Mahābhārata — Vyāsa divided the one Veda into four: *Ṛgveda*, *Yajurveda*, *Sāmaveda*, and *Atharvaveda*, each with its *saṃhitā* and associated *vistāra* — Brāhmaṇa, Āraṇyaka, and Upaniṣad. Every Veda has Upaniṣadic material associated with it; together, these shared culminations form ***वेदान्त (*Vedānta*)***. The division added nothing and took nothing away. It arranged the one body for an age of shorter memory: preservation, not authorship.[NOTE: veda-vyasa-division] This is the *vaidika* domain, preserved in ***छन्दस् (*chandas*)***, the metrical mode.
 
 At the same turn, the *itihāsa-purāṇa* — the fifth Veda — passed to the laukika keepers: the laukika domain, expressed in *bhāṣā* (भाषा), the mode of speech. Its corpus grows, its vocabulary meets each changing age through derivation, and the language remains invariant.
 
 The continuum measures all of this in its own time — *Sanātana* time. Tretā turned before Dvāpara, Satya before that, and the yuga cycle had already repeated through earlier manvantaras. We do not know whether the Vedas came into being during Dvāpara, Tretā, Satya, or an earlier manvantara. But from its beginning, the Veda has kept watch over the laukika world, unchanged — the invariant calibrant against which the turning world is measured.
 
-![Figure 0.2 — Sanātana Time. Sanātana time extends from *anādi* to *ananta*. The Veda begins at an unknown point within that field. The one Veda (invariant, *chandas* mode) divides into four at the Mahābhārata — each *saṃhitā* with its *vistāra* — while the *itihāsa-purāṇa* crosses into the laukika domain (*bhāṣā* mode), where civilizational clarity rises and falls across the yugas.](figures/seekers/seekers_vaidika_laukika.svg){#fig:sanatana-time width=100%}
+![Figure 0.2 — Sanātana Time. Sanātana time extends from *anādi* to *ananta*. The Veda begins at an unknown point within that span. The one Veda (invariant, *chandas* mode) divides into four at the Mahābhārata — each *saṃhitā* with its *vistāra* — while the *itihāsa-purāṇa* crosses into the laukika domain (*bhāṣā* mode), where civilizational clarity rises and falls across the yugas.](figures/seekers/seekers_vaidika_laukika.svg){#fig:sanatana-time width=100%}
 
 ---
 
@@ -188,7 +194,45 @@ Two systems, one pattern: ten digits span arithmetic, the *dhātupāṭha* spans
 
 ---
 
-## 0.7 The Civilization That Preserves It
+## 0.7 Sat, Ṛta, and the Vedic Order
+
+The Vedas act as a calibrant for both Sanskrit and *saṃskṛti*. On the linguistic level, they preserve the sounds, grammatical range, and generative architecture against which Sanskrit can continually calibrate itself. Chapter 16 and Appendix Part 8 demonstrate how this calibration operates across the two Sanskrit domains.
+
+On the civilizational level, the Vedas serve as the calibrant for order itself, allowing action in the changing world in the *laukika* domain against the invariant trajectory of ऋत (*ṛta*).
+
+Most English translations render ऋत (*ṛta*) as “cosmic order.” The phrase makes ऋत (*ṛta*) sound like the default order that already exists throughout the universe. But how can harmony be the default when असत् (*asat*) and the असुराः (*asurāḥ*) also exist and act upon the world? The Vedas say something far more consequential: ऋत (*ṛta*) came into being and must be upheld and defended.
+
+> **देवानां पूर्व्ये युगेऽसतः सदजायत**
+> *devānāṃ pūrvye yuge 'sataḥ sad ajāyata*
+> “In the earlier age of the *devāḥ*, *sat* was born from **असत् (*asat*)**.” (RV 10.72.2)[NOTE: rv-10-72-2-sat-born-from-asat]
+
+A second hymn pairs ऋत (*ṛta*) with **सत्यम् (*satyam*)** — सत् (*sat*) expressed as truth (सत् + य) — at the same origin: **ऋतं च सत्यं चाभीद्धात्तपसोऽध्यजायत** (*ṛtaṃ ca satyaṃ cābhīddhāt tapaso 'dhy ajāyata*) — "from *tapas* kindled to its height, *ṛta* and *satya* were born." (RV 10.190.1)[NOTE: rv-10-190-1-rta-satya-cocreated] The two arise together, of one heat, in one act; ऋत (*ṛta*) is no synonym for सत्यम् (*satyam*) but its companion at the source. Two verses later, in the same short hymn, the sequence completes: **सूर्याचन्द्रमसौ धाता यथापूर्वमकल्पयत्** (*sūryācandramasau dhātā yathāpūrvam akalpayat*) — "Dhātar formed Sun and Moon in due order." (RV 10.190.3) ऋत (*ṛta*) and सत्यम् (*satyam*) are born first; the Sun and Moon follow, in the same act of ordering.
+
+The two hymns establish that **सत् (*sat*)**, **ऋत (*ṛta*)**, and **सत्यम् (*satyam*)** came into being. They were not the default condition of the universe. Ṛgveda 7.104 then shows *sat* and *asat* contending against each other, while the Vṛtra, Svarbhānu, and Paṇi narratives show what that conflict looks like in action. The Vedic order must therefore be upheld and defended against the architecture of containment built upon *asat*. Each generation must choose it, build through it, and defend it.
+
+ऋत (*ṛta*) comes from the atom ⟪ऋ⟫ (*ṛ*), to go, closed by the past participle **क्त (*kta*)**, which surfaces as -त: that which has moved, the course laid down. The universe the Veda describes is in motion, and ऋत (*ṛta*) is the path it can move along — a trajectory when followed brings harmony.
+
+Three related words describe how **ऋत (*ṛta*)** becomes movement, speech, and perception. **ऋजु (*ṛju*)** is straight movement along the track; its Vedic opposite is **वृजिन (*vṛjina*)**, the crooked (RV 7.104.13).[NOTE: rv-7-104-12-13-sat-asat-vrjina-soma] The **ऋच् (*ṛc*)** — voiced as **ऋग् (*ṛg*)** before a voiced sound — is the verse that renders that order as measured speech. The **ऋषि (*ṛṣi*)** sees **ऋत (*ṛta*)** and sets it into verse; Yāska explains the word through seeing: *ṛṣir darśanāt*.
+
+The Veda performs the discernment between सत् (*sat*) and असत् (*asat*) within the mantra itself: **सच्चासच्च वचसी पस्पृधाते । तयोर्यत्सत्यं यतरदृजीयः । तदित्सोमोऽवति हन्त्यासत्** (*sac cāsac ca vacasī paspṛdhāte, tayor yat satyaṃ yatarad ṛjīyaḥ, tad it somo 'vati hanty āsat*) — "*sat* and *asat* contend, word against word; of the two, whichever is true and straight, *ṛjīyaḥ*, Soma protects, and the *asat* he destroys." (RV 7.104.12)[NOTE: rv-7-104-12-13-sat-asat-vrjina-soma] Soma protects the straight and destroys the crooked, within the verse itself.
+
+The protagonists bear सत् (*sat*) in their titles. Indra's is **सत्पति (*satpati*)**, the lord of *sat*.[NOTE: protagonist-sat-epithets]
+
+सत् (*sat*) is flow: circulation kept open, release along that path — the path of **स्वस्ति (*svasti*)**, well-being, followed as the Sun and Moon follow their orbits: **स्वस्ति पन्थामनु चरेम सूर्याचन्द्रमसाविव** (*svasti panthām anu carema sūryācandramasāv iva*) — "may we follow the path of *svasti*, as the Sun and Moon do." (RV 5.51.15)[NOTE: rv-5-51-15-svasti-panthanam] This is the swastika. असत् (*asat*) is what came first: the prior condition of non-flow, out of which सत् (*sat*) was created (RV 10.72.2).
+
+**ऋत (*ṛta*)** is the Veda's own word for this order of flow. The book adds two descriptors, each earned by what the order does: because it expresses the order Sanātan preserves, the **सनातन (*sanātana*) order**; because it embodies सत् (*sat*), the **सात्त्विक (*sāttvika*) order**, the order of *sat*-ness.[NOTE: sattvika-order-generative-coinage] One order under several true names — Sanskrit working by attribute, not by fixed label, as §0.3 showed with water.
+
+There's a fundamental asymmetry in the two orders. असत् (*asat*) aims for possession of power — who commands, who controls access, who monopolizes sovereignty. सत् (*sat*), on the other hand, seeks distributed order — circulation that keeps the gates of containment open. Sanātan does not condemn power itself; Indra wields the vajra. It judges power by what the action serves — Indra releases what Vṛtra withholds, and it is the action of releasing, not the strength, that differentiates सत् (*sat*) from असत् (*asat*).
+
+This differentiation is **सत्-असत्-विवेक (*sat-asat-viveka*)**, and the Veda performs it verse by verse. It runs in the *laukika* domain as fully as in the *vaidika*, where circumstance changes and the discipline does not. The Mahābhārata states its worldly test: **यद्भूतहितमत्यन्तं तत्सत्यम्** (*yad bhūta-hitam atyantaṃ tat satyam*) — "that which fully and finally serves the welfare of living beings is सत् (*sat*)."[NOTE: satyam-bhutahitam-mahabharata]
+
+The Veda preserves the invariant distinction; the *laukika* domain applies it to a changing world.
+
+Chapter 1 follows असत् (*asat*) from cosmic condition into specific action: concealment, blockade, isolation, enclosure — the architecture of containment, the pyramid.
+
+---
+
+## 0.8 The Civilization That Preserves It
 
 Sanskrit survived because generations of people performed a repeatable set of actions: they listened, recited, corrected, memorized, taught, and checked one lineage against another. Together, those actions form an engineered transmission architecture.
 
@@ -208,12 +252,12 @@ If Sanskrit is the calibrant, then returning to Sanskrit is civilizational work,
 
 ---
 
-## 0.8 The Fractal Test
+## 0.9 The Fractal Test
 
 Sanskrit's engineering, architecture, and civilizational transmission can be followed without prior Sanskrit study. Readers who have studied the language will recognize many of the features ahead, now placed in a category very different from the one the academy handed them — and familiar material reveals more once the category around it changes.
 
 Sanskrit operates as a calibrant through a fractal architecture, in which the same organizing principle recurs across scale. The chapters test that recurrence from the ground up — mouth, sound-field, sonomeric grid, semantic atom, verbal molecule, sentence assembly, *sūtra*, and calibration matrix — because each level keeps the lower level visible.
 
-The seekers and caretakers now stand against another fractal: the asuric pyramid. It is a finite order that repeats command, conquest, and enclosure at every scale. Sitting at the top of that pyramid is the apex. He is threatened by Sanskrit because Sanskrit preserves a distributed order beyond his reach. The battle that follows clears the shadow he casts across the field.
+The seekers and caretakers now stand against another fractal: the asuric pyramid. It is a finite order that repeats command, conquest, and enclosure at every scale. Sitting at the top of that pyramid is the apex. He is threatened by Sanskrit because Sanskrit preserves a distributed order beyond his reach. The battle that follows clears the shadow he casts across the civilization.
 
 At the end of the volume, a Vedic mantra returns to those who find the Sun when darkness covers the field. Their name waits there. Their capacity appears here: a civilization trained to listen, correct, remember, and keep looking.

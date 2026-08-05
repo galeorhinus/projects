@@ -114,7 +114,7 @@ These two models are not simply two theories of the same object; rather, they de
 
 Patañjali concludes that the bond is *siddha*.
 
-The bond does not evolve or mutate. It is a structural constant. This does not mean a word can express only one sense. Sanskrit is comfortable with meaning-fields: गो / गौः (go / gauḥ) can point to cow, earth, speech, ray, and more. The claim is not single-sense rigidity; the claim is that the field is established, recoverable, and anchored in action.
+The bond does not evolve or mutate. It is a structural constant. This does not mean a word can express only one sense. Sanskrit is comfortable with ranges of meaning: गो / गौः (go / gauḥ) can point to cow, earth, speech, ray, and more. The claim is not single-sense rigidity; the claim is that the range is established, recoverable, and anchored in action.
 
 Patañjali reaches this conclusion through the Indian method of stating and examining the opposing position before establishing the settled conclusion. The reader may be familiar with the पूर्वपक्ष–सिद्धान्त (pūrvapakṣa–siddhānta). The technical details belong to the *Paspaśāhnika* itself. The structural fact belongs here: the *Mahābhāṣya* places the *siddha* commitment at the opening of the received commentary and lets the rest of the grammatical project follow from it.
 

@@ -164,7 +164,7 @@ Schleicher had access to the recipe.
 
 By the 1860s, European philology had discussed Sanskrit in print for more than a generation. **Franz Bopp's *Vergleichende Grammatik der Sanskrit-, Send-, Armenischen-, Griechischen-, Lateinischen-, Litauischen-, Altslavischen-, Gothischen- und Deutschen*** (1833–1852) placed Sanskrit's derivational and inflectional structure before the German philological community. The Pune-Calcutta-Oxford-Göttingen pipeline described in Appendix Part 1 was already moving Sanskrit materials and analysis into European institutions. Schleicher worked inside that intellectual environment when he published the *Compendium* and the PIE fable.
 
-That record establishes the architecture available to his field; it does not establish every Sanskrit work Schleicher personally read. His published model nevertheless made a clear choice. He organized languages as organisms on a family tree, placed PIE at the trunk, and placed Sanskrit on a branch.
+That record establishes the architecture available within his discipline; it does not establish every Sanskrit work Schleicher personally read. His published model nevertheless made a clear choice. He organized languages as organisms on a family tree, placed PIE at the trunk, and placed Sanskrit on a branch.
 
 Growth and decay then displaced engineering and calibration as the governing categories. The metaphor described Sanskrit backwards. Schleicher's *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (1861) gave the *Stammbaumtheorie* its operational form; *Avis akvāsas ka* (1868) baked PIE into a single notebook text.
 
@@ -174,7 +174,7 @@ Within that interpretation, the imagined ancestor performs an institutional func
 
 The bake was hollow. The hollowness was structurally required: a high-quality alternative would have been embarrassed by direct comparison with the original; only a hollow alternative could be defended in the absence of comparison. The institutional machinery that produced PIE has spent the century and a half since enforcing that absence of comparison.
 
-The baker was not working without Sanskrit before him. Its architecture had already entered his scholarly world, yet the model he published replaced that architecture with a hollow ancestor. The recipe and the bake stood in the same intellectual field.
+The baker was not working without Sanskrit before him. Its architecture had already entered his scholarly world, yet the model he published replaced that architecture with a hollow ancestor. The recipe and the bake stood inside the same intellectual environment.
 
 The baker had the recipe.
 

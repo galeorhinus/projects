@@ -150,7 +150,7 @@ The grammatical principle is: bond first, usage second, *śāstra* third (Chapte
 
 A Sanskrit form passes from teacher to student with the same vowel length, accent, and sequence, generation after generation, while ordinary speech around it changes. That constancy under transmission is **ध्रौव्यता (*dhrauvyatā*)**. Sanskrit can therefore serve as the fixed measure against which sound, form, memory, grammar, and usage are checked: **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**, the calibrant language.
 
-Sanātan assigns the calibrant and ordinary speech different work. People conduct daily life through *prākṛtika* languages, regional speech-fields, household speech, songs, and market idioms. These living languages adapt with their speakers, while Sanskrit remains available as the measure that preserves knowledge and long memory.
+Sanātan assigns the calibrant and ordinary speech different work. People conduct daily life through *prākṛtika* languages, regional speech, household speech, songs, and market idioms. These living languages adapt with their speakers, while Sanskrit remains available as the measure that preserves knowledge and long memory.
 
 This arrangement allows natural languages to flourish without treating them as failed Sanskrit. It also allows the calibrant to remain invariant without turning it into an apex language imposed on every household. The measure remains stable, and ordinary speech continues to flow.
 

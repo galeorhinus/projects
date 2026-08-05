@@ -89,7 +89,7 @@ English places irregular forms such as *be*, *have*, and *do* among its most fre
 
 ## 6.3 The Generative-Reach Test
 
-If Sanskrit's atoms are engineered for reach, the smallest forms should produce the largest word-fields. The derivative counts allow us to test that prediction directly.
+If Sanskrit's atoms are engineered for reach, the smallest forms should produce the largest word families. The derivative counts allow us to test that prediction directly.
 
 | Particles | n | Mean generative reach | Median | Max |
 |---:|---:|---:|---:|---:|
@@ -103,9 +103,9 @@ The table contains all 138 atoms in the selected Path A sample. The mean falls f
 
 Path C uses a different measure and a much larger set. It counts the distinct preverb-and-form-class combinations recorded for each of 3,839 normalized DCS verb lemmas. Its correlation between particle count and combinatorial valency is also negative, at ρ = **−0.4334**. The dictionary sample and the corpus analysis therefore point in the same direction.
 
-The atoms with the greatest generative reach are familiar because Sanskrit uses them everywhere: *kṛ* कृ, *bhū* भू, *dā* दा, *dhā* धा, *hṛ* हृ, *gam* गम्, *sthā* स्था, *jñā* ज्ञा. The smallest atoms generate the largest fields.
+The atoms with the greatest generative reach are familiar because Sanskrit uses them everywhere: *kṛ* कृ, *bhū* भू, *dā* दा, *dhā* धा, *hṛ* हृ, *gam* गम्, *sthā* स्था, *jñā* ज्ञा. The smallest atoms generate the largest families.
 
-Here the botanical metaphor breaks. Growth, branching, mutation, and drift do not explain why smaller atoms repeatedly generate larger fields across two different measures. The book interprets that recurring relation as intentional compression for controlled expansion.
+Here the botanical metaphor breaks. Growth, branching, mutation, and drift do not explain why smaller atoms repeatedly generate more words across two different measures. The book interprets that recurring relation as intentional compression for controlled expansion.
 
 ---
 

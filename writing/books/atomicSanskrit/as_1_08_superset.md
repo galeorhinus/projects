@@ -20,25 +20,25 @@
 
 The human mouth can make far more sounds than any one language uses. Lungs, vocal cords, tongue, lips, teeth, palate, nose, and controlled breath can strike, release, hum, sustain, aspirate, nasalize, and hold pitch. Each language selects only part of that range.
 
-The same question now moves to the subcontinental field: what does this region do with that instrument before Sanskrit's grid is placed on the table? The test is simple: what sound-material is already here?
+The same question now moves to the subcontinent: what does this region do with that instrument before Sanskrit's grid is placed on the table? The test is simple: what sound-material is already here?
 
-The racial Arya thesis needs Sanskrit to be portable: cargo from outside India, external first, locally modified only after contact with subcontinental speakers. The sound-field tests that claim at the level of the body.
+The racial Arya thesis needs Sanskrit to be portable: cargo from outside India, external first, locally modified only after contact with subcontinental speakers. This chapter tests that claim at the level of the body.
 
-If Sanskrit was engineered from outside the subcontinent, its sound inventory should resemble the proposed outside fields. If Sanskrit was engineered inside the subcontinental field, the material should already be visible across the region's speech communities. The comparison tests exactly that.
+If Sanskrit was engineered from outside the subcontinent, its sound inventory should resemble the proposed outside sound inventories. If Sanskrit was engineered inside the subcontinent, the material should already be visible across the region's speech communities. The comparison tests exactly that.
 
 ## 8.1 The Sounds Already Here
 
 Every language selects differently from the human instrument, driving English, Arabic, Zulu, and Mandarin to each isolate a distinct phonetic subset rather than exhausting every sound the mouth can produce.
 
-A region can also preserve a stable sound-field across many named languages. Speakers may use different scripts, different vocabularies, different grammars, and different literary histories, while still drawing from a shared bodily zone of sound. The subcontinent is such a field.
+A region can also preserve a stable pattern of sound across many named languages. Speakers may use different scripts, different vocabularies, different grammars, and different literary histories, while still drawing from a shared bodily zone of sound. The subcontinent shares such a pattern.
 
-That field is visible before Sanskrit is formally revealed as a grid. Southern languages use retroflexion. Central forest-belt languages use retroflexion. Western and northern languages use retroflexion. The five broad places of articulation — labial, dental, retroflex, palatal, velar — appear across languages that the machinery sorts into different families. Breath, voicing, nasality, and sibilant bands also recur across the region, though each language selects differently.
+That pattern is visible before Sanskrit is formally revealed as a grid. Southern languages use retroflexion. Central forest-belt languages use retroflexion. Western and northern languages use retroflexion. The five broad places of articulation — labial, dental, retroflex, palatal, velar — appear across languages that the machinery sorts into different families. Breath, voicing, nasality, and sibilant bands also recur across the region, though each language selects differently.
 
 The physical question comes first: which mouth-positions and sound-actions are available across the subcontinent? The genealogical question follows.
 
-The comparison must begin with the regional sound-field, because Sanskrit's grid can be tested only after the available sounds are visible.
+The comparison must begin with the sounds used across the region, because Sanskrit's grid can be tested only after the available sounds are visible.
 
-The epigraph gives the chapter its caution. Human beings speak only the fourth quarter of Speech; the rest remains hidden to ordinary utterance. This chapter does not claim to unveil the hidden three. It begins with the spoken field itself: the bodily sound-material available across the subcontinent before Sanskrit selects and orders it. Even at that visible level, the subcontinental sound-field is larger than any one language.
+The epigraph gives the chapter its caution. Human beings speak only the fourth quarter of Speech; the rest remains hidden to ordinary utterance. This chapter does not claim to unveil the hidden three. It begins with spoken sound: the bodily material available across the subcontinent before Sanskrit selects and orders it. Even at that visible level, the subcontinental sound-field is larger than any one language.
 
 ## 8.2 A Sound Is Not Always a Slot
 
@@ -58,7 +58,7 @@ Keeping physical capability separate from a language's selected inventory preven
 
 Every spoken language has contextual sound. That alone does not prove engineering. The engineering signature is what Sanskrit does next: it selects the slots, orders them by the mouth, labels the places and efforts, times them, and makes the chosen set available for grammar.
 
-The sound-field is physical. The slot is architectural.
+The possible sound is physical. The slot is architectural.
 
 ## 8.3 How We Map the Sounds
 
@@ -84,7 +84,7 @@ Sanskrit's comparison target is the 23-cell base. The ten *mahāprāṇa* stop c
 - four *antaḥstha* sounds: य र ल व
 - four *ūṣman* sounds: श ष स ह
 
-Setting *mahāprāṇa* aside does not demote breath. It isolates the base field first.
+Setting *mahāprāṇa* aside does not demote breath. It isolates the base inventory first.
 
 ![Figure 8.1 — Sanskrit's 23-cell Base before *mahāprāṇa*. Sanskrit's full consonantal inventory shown on the place × manner matrix, with the ten heavy-breath stop cells (ख · छ · ठ · थ · फ and घ · झ · ढ · ध · भ) set aside as faded tiles. The 23 base cells are the comparison target across the seven surveys (§§8.6–8.8 and Appendix Part 4).](figures/superset/sanskrit_base_before_mahaprana.svg){#fig:ch8-sanskrit-base-before-mahaprana width=100%}
 
@@ -92,7 +92,7 @@ The atlas analysis measures how much of that 23-cell base is covered by small se
 
 The figures use one visual convention throughout. Sanskrit is the reference shell: the background grid with the Devanagari sonomers. The three comparison languages appear as small markers inside the same cells. If any one of the three lights a Sanskrit cell, that cell counts as covered. The number in the figure title is therefore a union count, not a ranking of the languages against one another.
 
-The discipline is to look for a field, not for one language that "equals Sanskrit." If three languages from a region cover most of the Sanskrit base, the region supplies the sound-material. Sanskrit's engineering can then be understood as selection from that field.
+The discipline is to look for a regional pattern, not for one language that "equals Sanskrit." If three languages from a region cover most of the Sanskrit base, the region supplies the sound-material. Sanskrit's engineering can then be understood as selection from those available sounds.
 
 ## 8.4 A Note on *Draviḍa* and Dravidian
 
@@ -100,41 +100,41 @@ The word **द्रविड (*draviḍa / drāviḍa*)** has an old Indian lif
 
 The comparative philologists of the asuric pyramid created modern “Dravidian” as a language-family label. Working with the missionaries of progress, they then converted that label into a political instrument for dividing India, setting “Aryan” against “Dravidian” as rival civilizational identities. Turning a classification into a civilizational fracture required imaginary people undertaking an imaginary migration, so the pyramid cannot relinquish any part of the construction: the racial Arya thesis’s imaginary people, PIE’s imaginary language, or the starred imaginary words that give the invention a vocabulary. Remove any portion of that imaginary Aryan side, and the entire māyā of the “Aryan–Dravidian” divide falls apart.
 
-For the sound-field survey, “Dravidian” refers only to the pyramid’s linguistic bucket for Tamil, Toda, Kurukh, and related languages.
+For this comparison, “Dravidian” refers only to the pyramid’s linguistic bucket for Tamil, Toda, Kurukh, and related languages.
 
 The first survey deliberately begins with languages the machinery classifies outside the Sanskritic and north-Indian bucket. That choice removes an easy deflection. If the test began with Hindi, Marathi, Bengali, Gujarati, Punjabi, or other languages the pyramid calls "Indo-Aryan," the response would be immediate: of course they look like Sanskrit; they come from Sanskrit. So the test begins elsewhere.
 
-The comparison first applies the pyramid's own language-family categories and then tests whether the sound-field follows their boundaries. It does not: the sounds recur across the classificatory buckets.
+The comparison first applies the pyramid's own language-family categories and then tests whether the regional sounds follow their boundaries. They do not: the sounds recur across the classificatory buckets.
 
 The same caution applies to labels such as *"Munda"* (used here only as the pyramid's family label, not the Munda people-name) and *"Austro-Asiatic"*. They are useful for identifying which modern classificatory bucket is being tested. The working category is simpler and more physical: subcontinental sound-field.
 
-## 8.5 The Sound-Field Persists
+## 8.5 The Regional Pattern Persists
 
-The working premise is modest. Modern languages can preserve only part of an ancient field. Languages drift. Regions shift. Contact changes inventories. Scripts hide sounds. Prestige changes pronunciation.
+The working premise is modest. Modern languages can preserve only part of an ancient regional pattern. Languages drift. Regions shift. Contact changes inventories. Scripts hide sounds. Prestige changes pronunciation.
 
-The premise is narrower and stronger: phonology is conservative enough, regional patterns are coherent enough, and Vedic recitation supplies enough cross-checking that the subcontinental sound-field can be used as evidence.
+The premise is narrower and stronger: phonology is conservative enough, regional patterns are coherent enough, and Vedic recitation supplies enough cross-checking that the sounds used across the subcontinent can provide evidence.
 
 Vocabulary can change quickly. Grammar changes more slowly. Sound inventories often change slowest because every child learns them as the bodily shape of speech itself. A new sound can enter, and an old sound can disappear, but that usually requires pressure across generations.
 
 The subcontinent also has a preservation mechanism rare at this scale. The **पाठ (*pāṭha*)** recitation lineages, the **प्रातिशाख्य (*Prātiśākhya*)** literature, the **शिक्षा (*Śikṣā*)** discipline, and the teacher-student lineages preserve sound as disciplined practice. When the *chandas* mode preserves a feature that the *bhāṣā* specification delineates differently, the system keeps the difference visible. The system remembers.
 
-Elsewhere the sound-field changes. English vowels shifted drastically in the Great Vowel Shift. Latin fragmented into Romance sound-fields. Classical Greek and modern Greek differ substantially in sound. Mandarin lost older voiced obstruent contrasts. These are ordinary histories of language change.
+Elsewhere sound systems change. English vowels shifted drastically in the Great Vowel Shift. Latin fragmented into the sound systems of the Romance languages. Classical Greek and modern Greek differ substantially in sound. Mandarin lost older voiced obstruent contrasts. These are ordinary histories of language change.
 
-The subcontinent shows something else: a wide field where retroflexion, the five broad mouth-stations, nasality, voicing, and breath remain structurally visible across many named languages. Surface details differ. The deeper sound-field persists.
+The subcontinent shows something else: a wide region where retroflexion, the five broad mouth-stations, nasality, voicing, and breath remain structurally visible across many named languages. Surface details differ. The deeper pattern persists.
 
-The analysis needs continuity strong enough to make geography visible. The four figures below supply that. When the comparison stays inside the subcontinent, coverage is high. When it moves outside, coverage falls. The result is a physical pattern in the sound-field rather than a genealogical proof.
+The analysis needs continuity strong enough to make geography visible. The four figures below supply that. When the comparison stays inside the subcontinent, coverage is high. When it moves outside, coverage falls. The result is a physical regional pattern rather than a genealogical proof.
 
 ## 8.6 The Southern Survey: 20 of 23
 
 The first comparison uses Tamil, Toda, and Kurukh.
 
-Tamil gives a major southern literary language. Toda gives a Nilgiri speech-field with its own phonetic richness. Kurukh gives a northern language the machinery classifies as *"Dravidian"*, spoken far from Tamilakam. The set is geographically spread across more than one local cluster.
+Tamil gives a major southern literary language. Toda gives a Nilgiri speech community with its own phonetic richness. Kurukh gives a northern language the machinery classifies as *"Dravidian"*, spoken far from Tamilakam. The set is geographically spread across more than one local cluster.
 
 ![Figure 8.2 — Southern Survey: 20 of 23 Sanskrit base coordinates. Tamil, Toda, and Kurukh together cover nearly the whole Sanskrit base after the ten *mahāprāṇa* cells are set aside.](figures/superset/sk_tamil_toda_kurukh.svg){#fig:ch8-southern-survey width=100%}
 
 The result is 20 of 23.
 
-The figure is worth slow attention. The Sanskrit base sits as a set of coordinates, not as a hidden statistical table. Tamil, Toda, and Kurukh light most of those coordinates. The result is visually simple: the southern field already reaches into the same mouth-zones Sanskrit later stabilizes as sonomers.
+The figure is worth slow attention. The Sanskrit base sits as a set of coordinates, not as a hidden statistical table. Tamil, Toda, and Kurukh light most of those coordinates. The result is visually simple: these southern languages already reach into the same mouth-zones Sanskrit later stabilizes as sonomers.
 
 The three unfilled cells are **ल**, **स**, and **श**. More than a raw percentage, that result shows what kind of gap remains.
 
@@ -142,9 +142,9 @@ The gap is local. These are near-neighbor refinements inside already active zone
 
 **ल** can be understood as Sanskrit assigning a lateral from the broader alveolar/front-coronal band to the dental/front-coronal coordinate. **स** can be understood similarly: a front-coronal fricative assigned to Sanskrit's dental sibilant slot. **श** belongs to Sanskrit's broader three-sibilant regularization: dental **स**, retroflex **ष**, and palatal **श**.
 
-The figure does two things at once. It shows that the southern sound-field already contains nearly the whole Sanskrit base. It also shows where Sanskrit's engineering begins to appear: available zones are regularized into exact coordinates.
+The figure does two things at once. It shows that the southern languages already contain nearly the whole Sanskrit base. It also shows where Sanskrit's engineering begins to appear: available zones are regularized into exact coordinates.
 
-*Mahāprāṇa* stays aside first to keep the base field visible. If the ten heavy-breath stops were included at the start, the reader might treat the absence of aspirates in many southern inventories as a failure of the field. That would be the wrong conclusion. The base field is the first question. Breath is the second. The southern survey establishes the first point strongly: the base is already here.
+*Mahāprāṇa* stays aside first to keep the base inventory visible. If the ten heavy-breath stops were included at the start, the reader might treat the absence of aspirates in many southern inventories as a failure of the regional comparison. That would be the wrong conclusion. The base inventory comes first. Breath comes second. The southern survey establishes the first point strongly: the base is already here.
 
 ## 8.7 The Forest-Belt Survey: 18 of 23
 
@@ -156,20 +156,20 @@ This choice is deliberate. The machinery often treats Santali as visibly Sanskri
 
 The result is 18 of 23.
 
-Again, the panel is a field rather than a family tree. The physical question is direct: how much of Sanskrit's base mouth-map is already occupied by Korku, Mundari, and Ho? These three languages still occupy most of it.
+Again, the panel maps sounds rather than a family tree. The physical question is direct: how much of Sanskrit's base mouth-map is already occupied by Korku, Mundari, and Ho? These three languages still occupy most of it.
 
 The unfilled cells are **ण**, **स**, **ष**, **श**, and **ल**. Again, the gaps follow a pattern. They concentrate in the nasal and sibilant/lateral refinements where Sanskrit makes a sharper grid decision.
 
-The forest-belt languages preserve the broad subcontinental architecture: stop positions, nasals, retroflex visibility, and a recognizable mouth-field. They are parallel selections from the same subcontinental field.
+The forest-belt languages preserve the broad subcontinental architecture: stop positions, nasals, retroflex visibility, and a recognizable mouth-pattern. They are parallel selections from the same regional sound-material.
 
-Some of these languages also preserve features Sanskrit excludes. Ho and Mundari, for example, are associated with checked or glottalized endings in linguistic descriptions.[NOTE: ho-mundari-checked-consonants] The field is richer than Sanskrit; Sanskrit selects from it.
+Some of these languages also preserve features Sanskrit excludes. Ho and Mundari, for example, are associated with checked or glottalized endings in linguistic descriptions.[NOTE: ho-mundari-checked-consonants] The regional sound-material is richer than Sanskrit; Sanskrit selects from it.
 
 Two internal surveys now stand:
 
 - Southern set: 20 of 23.
 - Forest-belt set: 18 of 23.
 
-Both sit inside the subcontinent. Both use languages the pyramid treats as outside simple Sanskrit descent. Both cover most of Sanskrit's base sound-field.
+Both sit inside the subcontinent. Both use languages the pyramid treats as outside simple Sanskrit descent. Both cover most of Sanskrit's base inventory.
 
 This is the first crack in the transported-cargo story. The base appears in the south and in the forest belt before any appeal to the northern Sanskritic languages is needed.
 
@@ -185,17 +185,17 @@ The result is 14 of 23.
 
 Fourteen is still a real overlap. All humans share the same broad vocal apparatus, so stops, nasals, labials, dentals, velars, and approximants recur across the world. External languages obviously share some coordinates with Sanskrit.
 
-The external controls occupy parts of the same human sound-field, but they cover Sanskrit's selected coordinates far less densely.
+The external controls occupy parts of the same human range of sound, but they cover Sanskrit's selected coordinates far less densely.
 
-This control is useful because the reader already knows these languages by cultural weight. English dominates the modern global classroom. French has a long prestige history in Europe. Greek is one of the major pillars in the Indo-European story. If the pyramid's family story predicted the sound-field strongly, this set should look closer to Sanskrit than the southern and forest-belt sets do. Instead, it sits farther away.
+This control is useful because the reader already knows these languages by cultural weight. English dominates the modern global classroom. French has a long prestige history in Europe. Greek is one of the major pillars in the Indo-European story. If the pyramid's family story predicted the sound inventory strongly, this set should look closer to Sanskrit than the southern and forest-belt sets do. Instead, it sits farther away.
 
 The second control tests the Central Asian story more directly. The comparison uses Tajik, Kazakh, and Kyrgyz.
 
-![Figure 8.5 — Central Asian Survey: 12 of 23 Sanskrit base coordinates. Tajik, Kazakh, and Kyrgyz cover still less of the Sanskrit base, weakening the claim that Sanskrit's sound-field arrived from a Central Asian source.](figures/superset/sk_tajik_kazakh_kyrgyz.svg){#fig:ch8-central-asian-survey width=100%}
+![Figure 8.5 — Central Asian Survey: 12 of 23 Sanskrit base coordinates. Tajik, Kazakh, and Kyrgyz cover still less of the Sanskrit base, weakening the claim that Sanskrit's sounds arrived from a Central Asian source.](figures/superset/sk_tajik_kazakh_kyrgyz.svg){#fig:ch8-central-asian-survey width=100%}
 
 The result is 12 of 23.
 
-This control is geographic rather than genealogical. Tajik, Kazakh, and Kyrgyz form a corridor test rather than one linguistic family. The racial Arya thesis and its softened migration vocabulary repeatedly point the reader toward Central Asia. So the chart tests a geographic question: does that corridor look like the source-field for Sanskrit's base? The three corridor languages contain too little of that base to support the claim.
+This control is geographic rather than genealogical. Tajik, Kazakh, and Kyrgyz form a corridor test rather than one linguistic family. The racial Arya thesis and its softened migration vocabulary repeatedly point the reader toward Central Asia. So the chart tests a geographic question: does that corridor look like the source region for Sanskrit's base? The three corridor languages contain too little of that base to support the claim.
 
 The four coverage figures make the geographic contrast visible:
 
@@ -204,49 +204,49 @@ The four coverage figures make the geographic contrast visible:
 - Western European control: 14 of 23.
 - Central Asian control: 12 of 23.
 
-The scores follow geography more closely than the pyramid's family labels. The two subcontinental sets cover 20 and 18 coordinates, while the Western European and Central Asian controls cover 14 and 12. This comparison does not reconstruct an ancient population, but it gives the transported-cargo thesis a physical problem: the proposed corridor resembles Sanskrit's selected base less than the southern and forest-belt fields do.
+The scores follow geography more closely than the pyramid's family labels. The two subcontinental sets cover 20 and 18 coordinates, while the Western European and Central Asian controls cover 14 and 12. This comparison does not reconstruct an ancient population, but it gives the transported-cargo thesis a physical problem: the proposed corridor resembles Sanskrit's selected base less than the southern and forest-belt sets do.
 
 ## 8.9 The Gaps Are Neighbors
 
 The coordinates left unmatched by each comparison set reveal how Sanskrit selected precise sonomers from broader regional sound-zones.
 
-While a natural sound-field inherently gives broad zones, a strictly calibrated language deliberately chooses exact coordinates. Therefore, Sanskrit's most visible engineering act is the methodical conversion of these loose zones into perfectly exact sonomeric slots.
+While natural speech inherently gives broad zones, a strictly calibrated language deliberately chooses exact coordinates. Therefore, Sanskrit's most visible engineering act is the methodical conversion of these loose zones into perfectly exact sonomeric slots.
 
-The southern survey makes this perfectly clear because its missing cells are specifically **ल**, **स**, and **श**. While the field naturally possesses laterals and sibilant-like material, Sanskrit deliberately places them into a highly particular architecture: **ल** is assigned directly to the dental/front-coronal line, **स** is assigned to the precise dental sibilant coordinate, and **श** completes the palatal member of an intricate three-sibilant system alongside **स** and **ष**.
+The southern survey makes this perfectly clear because its missing cells are specifically **ल**, **स**, and **श**. While the regional languages naturally possess laterals and sibilant-like material, Sanskrit deliberately places them into a highly particular architecture: **ल** is assigned directly to the dental/front-coronal line, **स** is assigned to the precise dental sibilant coordinate, and **श** completes the palatal member of an intricate three-sibilant system alongside **स** and **ष**.
 
 Similarly, the forest-belt survey demonstrates the very same principle, but with a different selection. Because its unfilled cells include **ण**, **स**, **ष**, **श**, and **ल**, the region still preserves the broad architecture; however, Sanskrit's refined grid intentionally chooses a far sharper distribution of nasal, lateral, and sibilant coordinates than that particular comparison set naturally contains.
 
-![Figure 8.6 — The Gaps Are Neighbors. The three southern-survey unfilled cells (ल · स · श) are Sanskrit's place-coding choices, not field absences. The southern languages occupy nearby places in the same zones — Sanskrit snaps each zone to a specific coordinate. श is not a single snap but the palatal member of Sanskrit's complete three-sibilant system (स · ष · श).](figures/superset/snap_to_grid_neighbor_cells.svg){#fig:ch8-gaps-are-neighbors width=100%}
+![Figure 8.6 — The Gaps Are Neighbors. The three southern-survey unfilled cells (ल · स · श) are Sanskrit's place-coding choices, not true absences from the regional sound inventory. The southern languages occupy nearby places in the same zones — Sanskrit snaps each zone to a specific coordinate. श is not a single snap but the palatal member of Sanskrit's complete three-sibilant system (स · ष · श).](figures/superset/snap_to_grid_neighbor_cells.svg){#fig:ch8-gaps-are-neighbors width=100%}
 
-Just as a line can float anywhere in a drawing program until snap-to-grid is turned on—causing the line to land precisely on a defined coordinate—a CAD engineer or illustrator uses this exact discipline: the background field remains continuous, but the working object locks firmly to the grid. Because Sanskrit does exactly the same with sound, while the mouth naturally provides continuous zones, the engineered language deliberately chooses exact stations, thereby making them universally teachable, repeatable, and stable.
+Just as a line can float anywhere in a drawing program until snap-to-grid is turned on—causing the line to land precisely on a defined coordinate—a CAD engineer or illustrator uses this exact discipline: the background plane remains continuous, but the working object locks firmly to the grid. Because Sanskrit does exactly the same with sound, while the mouth naturally provides continuous zones, the engineered language deliberately chooses exact stations, thereby making them universally teachable, repeatable, and stable.
 
-Just as a carpenter selects specifically from the forest's curves, a metallurgist refines raw ore, and an engineer methodically selects, aligns, rejects, and regularizes, Sanskrit does exactly the same with sound. Because the subcontinental sound-field serves as the raw material, the resulting *varṇamālā* is the carefully curated superset—deliberately selected from the field, rigorously aligned to exact coordinates, and permanently disciplined as a structural grid.
+Just as a carpenter selects specifically from the forest's curves, a metallurgist refines raw ore, and an engineer methodically selects, aligns, rejects, and regularizes, Sanskrit does exactly the same with sound. Because the sounds of the subcontinent serve as the raw material, the resulting *varṇamālā* is the carefully curated superset—deliberately selected from those sounds, rigorously aligned to exact coordinates, and permanently disciplined as a structural grid.
 
 ## 8.10 The Retroflex Band
 
-Outside the subcontinent, retroflexion is absent, marginal, secondary, or restricted to special histories. Inside the subcontinent, it is ordinary. It appears across southern languages, central forest-belt languages, western languages, northern languages, and many regional speech-fields. The later retroflex "test" follows that fingerprint in detail.[NOTE: retroflex-global-distribution]
+Outside the subcontinent, retroflexion is absent, marginal, secondary, or restricted to special histories. Inside the subcontinent, it is ordinary. It appears across southern languages, central forest-belt languages, western languages, northern languages, and many regional speech communities. The later retroflex "test" follows that fingerprint in detail.[NOTE: retroflex-global-distribution]
 
-Sanskrit includes a complete retroflex row: **ट ठ ड ढ ण**. It also extends retroflex logic through **ष**, and the wider subcontinental field preserves related retroflex laterals such as **ळ** in regional languages. Marathi, for example, keeps **ळ** visibly alive. Southern languages preserve related retroflex-lateral categories with their own articulatory details.
+Sanskrit includes a complete retroflex row: **ट ठ ड ढ ण**. It also extends retroflex logic through **ष**, and the wider subcontinent preserves related retroflex laterals such as **ळ** in regional languages. Marathi, for example, keeps **ळ** visibly alive. Southern languages preserve related retroflex-lateral categories with their own articulatory details.
 
-The field contains a retroflex band.
+The subcontinent contains a retroflex band.
 
-Consequently, the retroflex row requires its own specific test. While a single borrowed retroflex might be easily explained away, a complete row is significantly harder to explain. Furthermore, because a full row positioned inside a larger, perfectly symmetric sound-grid is harder still to dismiss, a complete row preserved intact across regional speech-fields, recitation, grammar, and script ultimately becomes an unmistakable fingerprint.
+Consequently, the retroflex row requires its own specific test. While a single borrowed retroflex might be easily explained away, a complete row is significantly harder to explain. Furthermore, because a full row positioned inside a larger, perfectly symmetric sound-grid is harder still to dismiss, a complete row preserved intact across regional speech communities, recitation, grammar, and script ultimately becomes an unmistakable fingerprint.
 
-The migration claim has to cross that gap. A population whose sound-field lacks operative retroflexion has no natural path to engineering a language whose phonetic specification places a full retroflex row at the center of its matrix. The thesis would require an external group to arrive without the row, acquire it from local speakers, then produce the most exact phonetic architecture ever built around the row they supposedly borrowed.
+The migration claim has to cross that gap. A population whose speech lacks operative retroflexion has no natural path to engineering a language whose phonetic specification places a full retroflex row at the center of its matrix. The thesis would require an external group to arrive without the row, acquire it from local speakers, then produce the most exact phonetic architecture ever built around the row they supposedly borrowed.
 
-That is a rescue device for a theory, not a sound-field history.
+That is a rescue device for a theory, not a history of speech.
 
 The retroflex row belongs to the subcontinental mouth. Sanskrit's engineering operates from inside that mouth.
 
-## 8.11 Breath in the Field
+## 8.11 Breath Above the Base
 
-The base-field comparison has set *mahāprāṇa* aside so far. Now breath returns.
+The base comparison has set *mahāprāṇa* aside so far. Now breath returns.
 
 The ten *mahāprāṇa* stops are structural additions: **ख छ ठ थ फ** and **घ झ ढ ध भ**. They are the heavy-breath counterparts to the light-breath stops. Sanskrit takes the base place-grid and doubles the stop rows by breath pressure.
 
 That is a different kind of engineering from place selection. Place uses the mouth: lips, teeth, tongue, palate, velar region. *Mahāprāṇa* uses breath. The system adds a vertical axis without crowding the horizontal one.
 
-This is the absolute cleanest way to understand the 23-cell survey: the subcontinental field supplies the broad base, and Sanskrit then carefully stacks a breath-pressure layer directly on top of that base. Because this engineering seamlessly creates more sonomers without needing to add more physical mouth-places, it effectively multiplies the very same five places simply by utilizing controlled breath.
+This is the absolute cleanest way to understand the 23-cell survey: the subcontinental languages supply the broad base, and Sanskrit then carefully stacks a breath-pressure layer directly on top of that base. Because this engineering seamlessly creates more sonomers without needing to add more physical mouth-places, it effectively multiplies the very same five places simply by utilizing controlled breath.
 
 English speakers can feel the raw gesture, even though English leaves it contextual. Say *backhand*, *blockhead*, *crackhead*. Say *pighead* or *bighead*. Say *hitchhike*, *hedgehog*, *pothole*, *foghorn*, *like hell*, *hip-hop*. Across compound boundaries and word edges, the mouth can release a stop into a strong breath gesture.
 
@@ -262,23 +262,23 @@ This also explains why *mahāprāṇa* is structural. It is one of Sanskrit's mo
 
 Sanskrit is a language that breathes by design.
 
-## 8.12 What the Field Shows
+## 8.12 What the Comparison Shows
 
-The comparison has mapped a field rather than searching for a single parent language.
+The comparison has mapped a region's sounds rather than searching for a single parent language.
 
 The southern set covers 20 of Sanskrit's 23 base coordinates. The forest-belt set covers 18. Western European languages cover less. Central Asian languages cover less still. The pattern is geographic and anatomical before it is genealogical.
 
-Ultimately, the result says something far more useful than merely concluding "Tamil, Toda, Kurukh, Korku, Mundari, and Ho are Sanskrit." Instead, it proves they are parallel selections drawn from a subcontinental sound-field broad enough to entirely supply Sanskrit's base. However, their differences also matter significantly: because Tamil keeps an alveolar distinction that Sanskrit excludes, forest-belt languages preserve glottal features that Sanskrit excludes, and Sindhi preserves implosives that Sanskrit excludes, we see clearly that the raw field itself is vastly larger than Sanskrit.
+Ultimately, the result says something far more useful than merely concluding "Tamil, Toda, Kurukh, Korku, Mundari, and Ho are Sanskrit." Instead, it proves they are parallel selections drawn from a subcontinental inventory broad enough to supply Sanskrit's entire base. However, their differences also matter significantly: because Tamil keeps an alveolar distinction that Sanskrit excludes, forest-belt languages preserve glottal features that Sanskrit excludes, and Sindhi preserves implosives that Sanskrit excludes, we see clearly that the raw inventory itself is vastly larger than Sanskrit.
 
-That larger field strengthens the evidence for engineering because Sanskrit selected from it, regularized its choices, timed them, and preserved the resulting grid.
+That larger inventory strengthens the evidence for engineering because Sanskrit selected from it, regularized its choices, timed them, and preserved the resulting grid.
 
 The cascade in one line:
 
 | Comparison set | Coverage of Sanskrit's 23-cell base | What it shows |
 |---|---:|---|
 | Tamil + Toda + Kurukh | 20 / 23 | Southern subcontinent already contains nearly the whole base. |
-| Korku + Mundari + Ho | 18 / 23 | Forest-belt field contains most of the same base without Santali. |
+| Korku + Mundari + Ho | 18 / 23 | Forest-belt languages contain most of the same base without Santali. |
 | English + French + Greek | 14 / 23 | Familiar Western European languages sit farther away. |
-| Tajik + Kazakh + Kyrgyz | 12 / 23 | The Central Asian corridor does not look like the source-field. |
+| Tajik + Kazakh + Kyrgyz | 12 / 23 | The Central Asian corridor does not look like the source region. |
 
-These comparisons locate the sound-field in the subcontinent. Sanskrit then selects and orders sounds from that field as the **वर्णमाला (*varṇamālā*)**, a process the Vedic image describes as Speech refined through a sieve and gathered into usable form.
+These comparisons locate the source region in the subcontinent. Sanskrit then selects and orders those sounds as the **वर्णमाला (*varṇamālā*)**, a process the Vedic image describes as Speech refined through a sieve and gathered into usable form.

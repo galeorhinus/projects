@@ -1,6 +1,6 @@
 # Figure 8.7 — Mahāprāṇa as Vertical Expansion
 
-**Where it lives:** Chapter 8 §8.11 ("Breath in the Field"), the chapter's
+**Where it lives:** Chapter 8 §8.11 ("Breath Above the Base"), the chapter's
 closing engineering reveal. §§8.6–8.8 ran the southern, forest-belt,
 Western IE, and Central Asian surveys against Sanskrit's 23-cell base
 *with the ten mahāprāṇa stop cells held aside*. §8.11 brings the

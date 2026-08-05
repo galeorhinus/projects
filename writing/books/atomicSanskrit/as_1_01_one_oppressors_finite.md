@@ -28,7 +28,7 @@ Chapter 0 used follower in the Sanātan sense: a seeker who has *chosen a path*.
 
 And the one is a Him — a blank each age fills with a new name. Hiraṇyakaśipu, who would suffer no worship but his own. Rāvaṇa, whose will was the law of three worlds. Vṛtra, who seized the waters and called the withholding order. The names change; the Him does not. A later age enthrones Him beyond the sky, capitalizes His name, puts His order past question, brooking no other before Him. New face. No Image. Same apex.[NOTE: devi-mahatmya-goddess-undoes-male-apex]
 
-The finite order claims that every field needs a highest point from which authority descends. Its natural shape is a pyramid.
+The finite order claims that every domain needs a highest point from which authority descends. Its natural shape is a pyramid.
 
 Its frame is not one of the removable plates. The frame is the asuric pyramid itself: the intact geometry of apex, enclosure, and control. The numbered plates are the obstructions this book exposes, cracks, and removes from the view of Sanskrit. The pyramid returns at the head of each part, one more plate gone each time, until the Sun stands clear.
 
@@ -36,7 +36,7 @@ Its frame is not one of the removable plates. The frame is the asuric pyramid it
 
 ## 1.1 The apex-one
 
-The seeker approaches the unbounded through zero: humility before what exceeds the mind, openness before the infinite, inquiry disciplined by *jijñāsā*. The asuric pyramid moves in the opposite direction. It turns the field toward one apex and makes that apex the condition of recognition.
+The seeker approaches the unbounded through zero: humility before what exceeds the mind, openness before the infinite, inquiry disciplined by *jijñāsā*. The asuric pyramid moves in the opposite direction. It turns the entire order toward one apex and makes that apex the condition of recognition.
 
 The architecture is apex, oppression, and finitism. The elite at the top of the asuric pyramid, threatened by the boundless nature of reality and the absolute freedom of the seeker, force their own measured ignorance onto the universe and then call that measurement truth.
 
@@ -46,7 +46,7 @@ The answer is always zero.
 
 The finite is all they have seen. The finite is all they can model. The finite then becomes all they are permitted to admit. The modern Scientist sitting at the apex has *observed effectively zero,* yet presides as though the measurable fragment were the whole. This is structural finitism.
 
-Genesis gives the same operation in scriptural key: one birth, one life, one death, one Heaven, one Hell. A single beginning, a single command, a single authorized account of origin, and a single final judgment at the end of the line. The pyramid needs that first point. Once the beginning is owned, the sequence can be owned. Once the sequence is owned, the field can be judged from outside itself. In philology, PIE performs the same work. In chronology, the date performs the same work. Control the first point, and the rest can be made to follow.
+Genesis gives the same operation in scriptural key: one birth, one life, one death, one Heaven, one Hell. A single beginning, a single command, a single authorized account of origin, and a single final judgment at the end of the line. The pyramid needs that first point. Once the beginning is owned, the sequence can be owned. Once the sequence is owned, the entire order can be judged from outside. In philology, PIE performs the same work. In chronology, the date performs the same work. Control the first point, and the rest can be made to follow.
 
 The argument concerns the structure and its apex, not every person who lives inside it. Most people enter schools, professions, categories, and incentive systems they did not design. Their confusion can be corrected when they encounter another way of organizing knowledge. The deeper damage begins when the apex takes a reductive idea, dresses it in grand terminology, cements it as unquestionable dogma, and enforces it through curriculum, credentials, and official doctrine. The system then rewards obedience as knowledge.
 
@@ -64,7 +64,7 @@ In education, the same shape becomes one curriculum, one examination ladder, and
 
 The pyramid demands finitism because a finite universe can be narrated from a single first point. A finite timeline can be owned by whoever controls the origin story, a finite canon can be guarded by whoever controls the gate, and a finite people can be counted, ranked, administered, and corrected. Ultimately, the apex wants a world with edges because edges make possession easier, and because the boundless—which he can neither bound nor rule—fundamentally frightens him.
 
-Sanskrit resists that shape because its order descends through the distributed field rather than from a human apex. Sound, measure, recitation, grammar, semantic atoms, lineage, and disciplined use each supply a point of correction: the mouth catches a wrong sound, meter exposes a wrong measure, grammar rejects a wrong form, the *dhātuḥ* reveals a wrong derivation, and the *pāṭha* catches a broken recitation. Together, these checks distribute correction through Sanskrit's architecture.
+Sanskrit resists that shape because its order is distributed rather than controlled from a human apex. Sound, measure, recitation, grammar, semantic atoms, lineage, and disciplined use each supply a point of correction: the mouth catches a wrong sound, meter exposes a wrong measure, grammar rejects a wrong form, the *dhātuḥ* reveals a wrong derivation, and the *pāṭha* catches a broken recitation. Together, these checks distribute correction through Sanskrit's architecture.
 
 While the pyramid can survey and rule natural drift, capture codification through authority, lord over one, and sanctify the other, calibration gives it no equivalent handle because the standard lives inside the system itself. Therefore, unable to control it, the pyramid must hide the category entirely.
 
@@ -96,9 +96,9 @@ Svarbhānu can teach a child that darkness covered the Sun, an elder that darkne
 
 At institutional scale, the recipes become repeatable operations. The asuric pyramid runs them all for a single purpose: finite control—narrowing the terrain, capturing the gate, training the civilization to confine its thought inside the pyramid's category.
 
-**Install the apex-one.** The hunger of the apex becomes the demand that every plural field be subordinated to one gate. One origin. One doctrine. One permitted chronology. One authorized method. One human office that decides what counts as knowledge.
+**Install the apex-one.** The hunger of the apex becomes the demand that every plural order be subordinated to one gate. One origin. One doctrine. One permitted chronology. One authorized method. One human office that decides what counts as knowledge.
 
-**Withhold the light.** Svarbhānu darkens Sūrya. Vṛtra withholds the waters. Kāliya poisons the river. The shared structure is obstruction of circulation: light, water, knowledge, speech, field-orientation. The source remains; access to what the source makes visible is blocked.
+**Withhold the light.** Svarbhānu darkens Sūrya. Vṛtra withholds the waters. Kāliya poisons the river. The shared structure is obstruction of circulation: light, water, knowledge, speech, and orientation. The source remains; access to what the source makes visible is blocked.
 
 **Steal the foundation.** Madhu and Kaiṭabha steal away the Vedas. Hayagrīva-asura repeats the theft. The stolen thing is often unusable to the thief. Its value lies in removal. PIE performs that operation against Sanskrit: an imagined ancestor is placed above the visible calibrant.
 
@@ -118,6 +118,29 @@ The first move is ancestry theft. The pyramid places PIE above Sanskrit, and mak
 
 The public move is language capture. Words such as *plant-organ*, *branch*, *daughter*, *migration*, *reconstruction*, *codification*, *"mythology"*, *cosmopolis*, *elite*, *early*, *late*, *primitive*, and *interpolation* smuggle the concealment into ordinary speech. A reader can absorb the verdict before seeing the evidence because the vocabulary has already assigned the category.
 
-Together, these operations carry out category theft by confining Sanskrit within categories built to hide what it is. At the summit sits the one who must own the field. He turns the field into a base beneath him and presents his view from the apex as the whole. Sanskrit threatens him because it preserves an order that distributes correction without placing anyone at the top.
+Together, these operations carry out category theft by confining Sanskrit within categories built to hide what it is. At the summit sits the one who must own the domain. He turns everything beneath him into a base and presents his view from the apex as the whole. Sanskrit threatens him because it preserves an order that distributes correction without placing anyone at the top.
+
+## 1.5 Asat, and the Architecture It Builds
+
+Chapter 0 showed **वैदिक सत् (*vaidika sat*)** as alignment with ऋत (*ṛta*), expressed through the actions and titles of the protagonists. This section follows **वैदिक असत् (*vaidika asat*)** in the opposite direction. The Veda places *sat* and *asat* in direct opposition. Svarbhānu darkens Sūrya, Vṛtra dams the waters, and the Paṇis hoard the cattle associated with light. Their actions place them on the *asat* side of that opposition.
+
+The battles of the asuric pyramid are contests for power. The battles Sanātan Sanskrit records are adjudications between सत् (*sat*) and असत् (*asat*). Power does not decide a side; the direction it serves does. Ṛgveda 8.42.1 calls Varuṇa *asura* while he props heaven, measures the earth, and maintains an ordered space in which life, water, and light can move.[NOTE: rv-8-42-1-varuna-measures] Vṛtra wields comparable power to dam the same waters shut. The Veda does not condemn power, and it does not require the powerless to be innocent; it condemns power turned toward closure. Every antagonist below fails this test the way Vṛtra does — not by being weak, but by turning strength against circulation.
+
+The book calls this recurring structure the **architecture of containment**. The eight operations above already enact it. The Vedic passages describe four of its recurring forms: concealment, blockade, isolation, and enclosure. Each category below gathers actions and attributes that produce the same result.
+
+**Concealment.** Vṛtra, Namuci, and Svarbhānu employ ***māyā*** to prevent others from seeing what remains present. Vṛtra is **मायाविनम् वृत्रम् (*māyāvinam vṛtram*)**, Vṛtra the deceiver (RV 2.11). Namuci is **नमुचिं नाम मायिनम् (*namuciṃ nāma māyinam*)**, Namuci the *māyin* (RV 1.53.7). Svarbhānu works through **स्वर्भानोः मायाः (*svarbhānoḥ māyāḥ*)**, Svarbhānu's deceptions (RV 5.40).[NOTE: mayin-concealment-cluster] "Wear false identity" — Pūtanā as nurse, Mārīca as deer, Kālanemi as ascetic — is the same operation at Purāṇic scale, from the roster above.
+
+**Blockade.** The ***avrata*** refuses the obligations that keep ऋत operating. The refusal prevents a required action from passing through the shared order. Indra **शासद् अव्रतान् (*śāsad avratān*)**, chastises the vow-less (RV 1.51.8); the *dasyu* is **अकर्मा... अमन्तुः अन्यव्रतः (*akarmā... amantuḥ anyavrataḥ*)**, without constructive action, without structured thought, following an alien law (RV 10.22.8).[NOTE: avrata-vow-less-blockade] Svarbhānu and Vṛtra use **तमस् (*tamas*)**, darkness that conceals and obstructs: Svarbhānu **तमसा विध्यत् (*tamasā vidhyat*)**, pierces with darkness (RV 5.40.5); the defeated Vṛtra **दीर्घम् तमः आशयत् (*dīrgham tamaḥ āśayat*)**, lies in long darkness (RV 1.32). "Withhold the light" — Svarbhānu, Vṛtra, Kāliya — is this operation exactly: the source remains, and access to it is cut.
+
+**Isolation.** Ṛgveda 4.5.5 describes people who are **अनृत (*anṛta*)**, opposed to ऋत, and **असत्य (*asatya*)**, untrue in speech:
+
+> **पापासः सन्तो अनृता असत्या इदं पदमजनता गभीरम्**
+> *pāpāsaḥ santo anṛtā asatyā idaṃ padam ajanata gabhīram*
+
+Their actions create "this deep station" for themselves. Their departure from truth and ऋत produces the isolation in which they remain.[NOTE: rv-4-5-5-gabhiram-padam-isolation]
+
+**Enclosure.** Vṛtra coils around the waters, while the ungenerous Paṇis keep cattle and light from circulation. Ṛgveda 1.32.7 describes Vṛtra as **अपाद् अहस्तः (*apād ahastaḥ*)**, footless and handless: **अपाद् अहस्तः अपृतन्यत् इन्द्रम् (*apād ahastaḥ apṛtanyat indram*)**, footless and handless, he fought Indra.[NOTE: apad-ahastah-vrtra-enclosure] The Paṇis are **अराधस् (*arādhas*)**, the ungenerous: **पदा पणीन् अराधसः नि बाधस्व (*padā paṇīn arādhaso ni bādhasva*)**, tread down the Paṇis, the ungenerous ones (RV 8.64).[NOTE: aradhas-panis-hoarders] "Possess the uncontainable" — Śumbha, Andhaka, Jalandhara treating the unownable as inventory — runs the same operation at the scale of speech, memory, and civilization.
+
+Four operations, one architecture, identified here at the scale the Veda itself supplies: a deceiver, a withholder, a self-dug isolation, a hoarder. Chapter 3 follows this same architecture into institutional scale — race, theology, progress — where it no longer needs a named antagonist because the machinery has learned to run without one.
 
 The caretakers and the finite order now stand against each other. Part I turns to the shadow between them.

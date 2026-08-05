@@ -30,7 +30,7 @@ The Sanskrit-knowledge enterprise had named nodes. The **Asiatic Society of Beng
 
 The parallel institutions completed the colonial Sanskrit-knowledge network. The **Banaras Sanskrit College**, founded 1791 under Jonathan Duncan. The **Calcutta Sanskrit College**, founded 1824. The **Sanskrit College Madras**. **Elphinstone College Bombay**, founded 1856. The **Cambridge Sanskrit Professorship**, established 1867 with Edward Byles Cowell as its first holder. The **German university chairs** at Berlin, Leipzig, Jena, and Göttingen that took the data from London and Oxford and Calcutta and Pune and processed it into PIE. Without this network, there would have been no philological machinery capable of constructing an imaginary ancestor for Sanskrit. The enterprise produced the raw material. The bakers in Berlin, Leipzig, Jena, and Göttingen produced the bake. The machinery sold the bake back to the same enterprise as the new authoritative account of the data the enterprise had produced. The loop closed by the end of the nineteenth century.
 
-Genuine Sanskrit scholarship and philological machinery operated in the same institutional ecosystem, but they were not the same act. The distinction remains. Genuine Sanskrit scholarship works inside Sanskrit's own framework: *vyākaraṇa* (व्याकरण) on Pāṇini's terms, *nirukta* (निरुक्त) on Yāska's terms, *mīmāṃsā* (मीमांसा) on Jaimini's terms, recitation inside the *guru-shishya* lineage-chain, lexicography inside the Sanskrit semantic field. Philological machinery does something else. It treats Sanskrit as data to be extracted, compared, sorted, and reinterpreted inside an external framework.
+Genuine Sanskrit scholarship and philological machinery operated in the same institutional ecosystem, but they were not the same act. The distinction remains. Genuine Sanskrit scholarship works inside Sanskrit's own framework: *vyākaraṇa* (व्याकरण) on Pāṇini's terms, *nirukta* (निरुक्त) on Yāska's terms, *mīmāṃsā* (मीमांसा) on Jaimini's terms, recitation inside the *guru-shishya* lineage-chain, lexicography within Sanskrit's own ranges of meaning. Philological machinery does something else. It treats Sanskrit as data to be extracted, compared, sorted, and reinterpreted inside an external framework.
 
 The Indian pundits supplied genuine scholarship. The European machinery consumed it. The pipeline made the bake possible.
 
@@ -82,7 +82,7 @@ The dates are the spine: **Franz Bopp** (1791–1867), trained at Paris under An
 
 The operation distributed itself across institutions. Bopp at Berlin, Pott at Halle, Schleicher at Jena, and Brugmann at Leipzig worked in parallel with scholars at Tübingen (Rudolf Roth), Saint Petersburg (Otto Böhtlingk), Göttingen (Theodor Benfey), Oxford (Müller, Monier-Williams), Cambridge (Cowell), and the colonial Sanskrit colleges across India. Functioning as a distributed network rather than a single bakery, this pattern exposes the *church of progress* operating at network scale across institutions.
 
-The Pāṇinian architecture enumerates the Sanskrit *dhātavaḥ* in the *Dhātupāṭha* (धातुपाठ) — roughly two thousand of them, organized by class, each with its listed meaning and morphological behavior — and the recipe runs from there. The Indian Sanskrit-knowledge enterprise made that inventory and its framework available to European Indologists, who transmitted it to the German neogrammarians. Working through each *dhātu*, the neogrammarians scanned the daughter Indo-European languages for overlapping phonetic shapes and semantic fields, sorted those forms into clusters, and reverse-engineered one starred reconstruction for each cluster. Declaring that reconstruction the ancestor demoted Sanskrit's *dhātu* to one descendant among the forms assembled from its own field.
+The Pāṇinian architecture enumerates the Sanskrit *dhātavaḥ* in the *Dhātupāṭha* (धातुपाठ) — roughly two thousand of them, organized by class, each with its listed meaning and morphological behavior — and the recipe runs from there. The Indian Sanskrit-knowledge enterprise made that inventory and its framework available to European Indologists, who transmitted it to the German neogrammarians. Working through each *dhātu*, the neogrammarians scanned the daughter Indo-European languages for overlapping phonetic shapes and ranges of meaning, sorted those forms into clusters, and reverse-engineered one starred reconstruction for each cluster. Declaring that reconstruction the ancestor demoted Sanskrit's *dhātu* to one descendant among the forms assembled from its own family.
 
 The starred form constitutes the bake. This operation produced every starred PIE ancestor-form in the contemporary literature, taking the Sanskrit *dhātu* as the input and the daughter-language cognates as the surface data. By fabricating this middle term, the operation demoted Sanskrit from source to sibling. The Western philological machinery made an *apaśabda* (अपशब्द) and subsequently named that *apaśabda* the source of the *śabda* (शब्द). While Sanskrit's own framework treats *apaśabdas* as derivatives of *śabdas* (Chapter 5 §5.3; Chapter 12 §12.5), the Western philological framework declares PIE as the source of *śabdas*, forcibly inverting the direction of derivation.
 
@@ -96,7 +96,7 @@ The methodological best was the bake.
 
 The recipe leaves residue. The residue sits in the ecosystem's own reference pages.
 
-Sanskrit provides unified semantic atoms and documents the relationships among their sound-forms. PIE reconstruction begins with recorded words in several languages, reconstructs a starred form from their correspondences, and places that form above the Sanskrit atom. Chapter 19 §19.7 introduces a different direction through the yoke family: begin with the Sanskrit atom and its generated molecules, then trace the forms that appear in receiving languages. The first three cases below develop that method. The remaining cases show the reconstruction splitting semantic fields that Sanskrit keeps together.
+Sanskrit provides unified semantic atoms and documents the relationships among their sound-forms. PIE reconstruction begins with recorded words in several languages, reconstructs a starred form from their correspondences, and places that form above the Sanskrit atom. Chapter 19 §19.7 introduces a different direction through the yoke family: begin with the Sanskrit atom and its generated molecules, then trace the forms that appear in receiving languages. The first three cases below develop that method. The remaining cases show the reconstruction splitting ranges of meaning that Sanskrit keeps together.
 
 ### The Reusable Research Record
 
@@ -105,7 +105,7 @@ Each case begins by placing the pyramid's starred image beside the recorded form
 | Stage | What the researcher records |
 |---|---|
 | PIE image | The exact starred reconstruction, its assigned meaning, and its source |
-| Sanskrit atom | Devanagari, IAST, *Dhātupāṭha* number, and semantic field |
+| Sanskrit atom | Devanagari, IAST, *Dhātupāṭha* number, and range of meanings |
 | Vedic evidence | Relevant forms from the Vedic domain, without imposing chronology among Vedic styles |
 | Sanskrit molecules | Generated words and verbal forms that reveal the semantic architecture |
 | Receiving languages | Original forms, meanings, sources, and approximate dates |
@@ -179,7 +179,7 @@ The pyramid's account splits the *dhātu* into **two** numbered PIE ancestor-for
 | **phantom**, **phenomenon**, **fantasy**, **phase** | Greek *phainein* "to show" | \***bha- (1)** "to shine" |
 | **fame**, **phone**, **prophet**, **blame**, **euphemism** | Greek *phēmē* "speech" / Latin *fari* "to speak" | \***bha- (2)** "to speak" |
 
-The standard etymological references (etymonline; Watkins's *American Heritage Dictionary* appendix) list these as two distinct PIE ancestor-forms that happen to be homophonous in the reconstructed proto-language. *bha-* (1) and *bha-* (2). Two ancestors, one Sanskrit *dhātu*, distinguished by the machinery's reconstruction tradition because the machinery cannot bring itself to admit that one Sanskrit *dhātu* spans the semantic field from *bhāsa* to *bhāṣā*. The numbering is the slip. The slip is in plain print, with a parenthetical number, in the ecosystem's own reference works.
+The standard etymological references (etymonline; Watkins's *American Heritage Dictionary* appendix) list these as two distinct PIE ancestor-forms that happen to be homophonous in the reconstructed proto-language. *bha-* (1) and *bha-* (2). Two ancestors, one Sanskrit *dhātu*, distinguished by the machinery's reconstruction tradition because the machinery cannot bring itself to admit that one Sanskrit *dhātu* spans the meanings from *bhāsa* to *bhāṣā*. The numbering is the slip. The slip is in plain print, with a parenthetical number, in the ecosystem's own reference works.
 
 ### Case 5 — ⟪मा⟫ (*mā*) dhātu, to measure
 
@@ -210,7 +210,7 @@ The variation across the etymological reference works is the tell: etymonline ro
 
 ### Case 7 — ⟪पद्⟫ (*pad*) dhātu, to step; to fall
 
-The *dhātu* generates **pādaḥ** (foot, step, quarter), **padam** (step, footprint, place, word), **pādamūla** (the base of the foot), **prāpti** (attainment, reaching by stepping), and the verb **pad** itself in the senses *to step*, *to set foot*, *to fall into a state*. Semantic axis: foot-motion / placement / landing — the same field continued: *where the foot lands*.
+The *dhātu* generates **pādaḥ** (foot, step, quarter), **padam** (step, footprint, place, word), **pādamūla** (the base of the foot), **prāpti** (attainment, reaching by stepping), and the verb **pad** itself in the senses *to step*, *to set foot*, *to fall into a state*. Semantic axis: foot-motion / placement / landing — the same action continues: *where the foot lands*.
 
 The pyramid's account splits into **two** PIE ancestor-forms:
 
@@ -219,11 +219,11 @@ The pyramid's account splits into **two** PIE ancestor-forms:
 | **foot**, **pedestrian**, **pedal**, **pedigree** | Latin *pēs* / *pedis*, Greek *poús* / *podós* | \***ped-** "foot" |
 | **fall**, **fell** (verb) | Old English *feallan* | \***pol-** "to fall" |
 
-The *ped-* / *pol-* split. The Sanskrit *dhātu* unites both senses under one semantic axis (foot-motion produces both placement and falling — Sanskrit preserves the connection); the pyramid's account splits them across two imaginary ancestors. The machinery's instinct is to atomize the *dhātu*'s semantic field into separate ancestral verbs, one per English-cognate cluster.
+The *ped-* / *pol-* split. The Sanskrit *dhātu* unites both senses under one semantic axis (foot-motion produces both placement and falling — Sanskrit preserves the connection); the pyramid's account splits them across two imaginary ancestors. The machinery's instinct is to atomize the *dhātu*'s range of meanings into separate ancestral verbs, one per English-cognate cluster.
 
 ### The pattern
 
-Seven cases. The first three show how a recorded Sanskrit atom, Vedic sound-forms, and visible sonomer movements can be placed beside the receiving-language family. The remaining four show one Sanskrit semantic field splintered across two or three reconstructed PIE ancestor-forms. Together they show what happens when the comparative method places reconstruction above the *Dhātupāṭha*: Sanskrit's documented architecture disappears, while starred forms inherit its position.
+Seven cases. The first three show how a recorded Sanskrit atom, Vedic sound-forms, and visible sonomer movements can be placed beside the receiving-language family. The remaining four show one Sanskrit range of meanings splintered across two or three reconstructed PIE ancestor-forms. Together they show what happens when the comparative method places reconstruction above the *Dhātupāṭha*: Sanskrit's documented architecture disappears, while starred forms inherit its position.
 
 Sanskrit's *dhātavaḥ* are atoms. The bake produces the apparent illusion that the atoms are themselves compounds of older, imagined atoms. The illusion is the recipe. The recipe runs across thousands of *dhātavaḥ*.
 

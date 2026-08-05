@@ -36,7 +36,7 @@ The ten contributions defined in Chapter 16 supply the first step. The figures u
 
 A single form can receive more than one code. An extended ending may complete a metrical line, strengthen its resonance, make a grammatical boundary easier to hear, and give reciters another way to detect a change.
 
-The contribution can be certain even when the architectural reason for the final scope remains an inference. For that reason, the appendix records the passage and its local function separately from the load, bounding support, and scope. It leaves any field open when the evidence has not yet established it.
+The contribution can be certain even when the architectural reason for the final scope remains an inference. For that reason, the appendix records the passage and its local function separately from the load, bounding support, and scope. It leaves any entry blank when the evidence has not yet established it.
 
 The evidence column uses **P** when an exact passage has been checked and **FN** when the local function has been demonstrated. **OPEN** means that another part remains unresolved. A blank contribution cell means that the form has been documented but the reason for its selection in that passage has not yet been established.
 
@@ -71,7 +71,7 @@ The complete selection-and-scope profiles separate sounds that are physically po
 |---|---|---|---|---|
 | **[ɰ]** as an independent sonomer | no recurring Sanskrit operation has been established | would add a coordinate without completing the *ik–yaṇ* relation | none established for independent reuse | **Excluded** |
 | ***जिह्वामूलीय (*jihvāmūlīya*)*** | preserves the velar form of *visarga* before **क/ख** | adds a contextual sound outside the independent grid | the preceding *visarga* and following **क/ख** generate it | **Restricted** |
-| **[ɸ]** as an independent sonomer | no independent recurring contrast has been established | would crowd the labial breath-field beside **फ** | none established for independent reuse | **Excluded** |
+| **[ɸ]** as an independent sonomer | no independent recurring contrast has been established | would crowd the labial breath range beside **फ** | none established for independent reuse | **Excluded** |
 | ***उपध्मानीय (*upadhmānīya*)*** | preserves the labial form of *visarga* before **प/फ** | adds a contextual sound outside the independent grid | the preceding *visarga* and following **प/फ** generate it | **Restricted** |
 | Ṛgvedic **ळ [ɭ]** | preserves the exact sound of received Ṛgvedic words | unrestricted reuse would reduce separation beside **ड** | fixed passage, position, and Ṛgvedic recitational specification | **Lineage-Bounded** |
 
@@ -302,6 +302,6 @@ The figures above give the complete inventory of *vibhakti-rūpāṇi*, or decle
 
 Chapter 16 explains that the two domains divide responsibilities rather than populations. The historical record also shows scholars and regional lineages carrying both responsibilities.
 
-The fourteenth-century Vijayanagara household associated with Sāyaṇa and Mādhava combined both responsibilities. Its scholars produced extensive explanations of the Vedas while also contributing to *vyākaraṇam*, philosophy, medicine, poetics, music, governance, and other laukika fields. Sāyaṇa and Mādhava deserve praise for this range: they preserved and explained the Vedic reference while applying Sanskrit throughout the laukika world.
+The fourteenth-century Vijayanagara household associated with Sāyaṇa and Mādhava combined both responsibilities. Its scholars produced extensive explanations of the Vedas while also contributing to *vyākaraṇam*, philosophy, medicine, poetics, music, governance, and other laukika disciplines. Sāyaṇa and Mādhava deserve praise for this range: they preserved and explained the Vedic reference while applying Sanskrit throughout the laukika world.
 
 Kerala's records show the same arrangement at the level of lineages. Named Nambudiri families preserved Ṛgvedic and Jaiminīya Sāmavedic recitation through demanding oral methods. The same regional Sanskrit society produced commentaries on Brāhmaṇas and *śikṣā* texts, a *Nirukta* analysis, Malayalam explanations of the Ṛgveda, and independent works on Vedic subjects. These records do not establish that every household performed every task. They show that exact Vedic preservation and wide-ranging Sanskrit explanation belonged to one living society rather than to two populations separated by language or chronology.[NOTE: vaidika-laukika-household-responsibility-cases]

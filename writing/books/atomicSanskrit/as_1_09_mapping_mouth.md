@@ -20,9 +20,9 @@
 
 ## 9.1 The Garland Becomes a Grid
 
-The previous chapter surveyed the subcontinental sound-field: mouth-zones, the retroflex band, contact sounds, nasals, sibilant neighborhoods, and breath possibilities. Sanskrit curates that field into an **inventory**: a selected set of sonomers the language treats as stable sound-units, gives addresses to, teaches, preserves, and uses in grammar.
+The previous chapter surveyed the subcontinental sound-field: mouth-zones, the retroflex band, contact sounds, nasals, sibilant neighborhoods, and breath possibilities. Sanskrit curates those sounds into an **inventory**: a selected set of sonomers the language treats as stable sound-units, gives addresses to, teaches, preserves, and uses in grammar.
 
-The Vedic mantra provides the imagery of an abundant field and a sieve that curates. The wise refined raw sound, chose usable measure, and formed **वाक् (*Vāk*)** with the mind. **अक्रत (*akrata*)** is a finite plural verb from the dhātu ⟪कृ⟫ (*kṛ*): the wise *formed* Speech. The movement is direct: sound-field becomes *varṇamālā*.
+The Vedic mantra provides the imagery of abundant sound and a sieve that curates. The wise refined raw sound, chose usable measure, and formed **वाक् (*Vāk*)** with the mind. **अक्रत (*akrata*)** is a finite plural verb from the dhātu ⟪कृ⟫ (*kṛ*): the wise *formed* Speech. The movement is direct: sound-field becomes *varṇamālā*.
 
 The second half adds radiance. Friends recognize friendship in that formed Speech. In separated form, the final pāda says **भद्रा एषां लक्ष्मीः (*bhadrā eṣāṃ lakṣmīḥ*)** is placed **अधि वाचि (*adhi vāci*)** — in Speech: auspicious radiance, the beauty that makes order visible. This is the **दिव्यता (*divyatā*)** layer. The verse moves from engineering to radiance.
 
@@ -39,11 +39,11 @@ The word is poetic and precise. A garland differs from a heap of sonomers that t
 
 The word garland is meaningful because it preserves Sanskrit's own way of viewing this sound-inventory. These are measured sound-particles before they become "letters": **sonomers**. A sonomer is what Sanskrit calls a *varṇa*: a selected, measured, repeatable unit of sound.
 
-Once Sanskrit has selected stable, teachable, body-mapped sound-units, its internal disciplines can ask whether each measured particle has **वर्णशक्ति (*varṇa-śakti*)** — semantic potency inside a calibrated field. The grid gives that question a physical and teachable basis instead of leaving *varṇa-śakti* as an unexplained claim about sound.
+Once Sanskrit has selected stable, teachable, body-mapped sound-units, its internal disciplines can ask whether each measured particle has **वर्णशक्ति (*varṇa-śakti*)** — semantic potency inside a calibrated system. The grid gives that question a physical and teachable basis instead of leaving *varṇa-śakti* as an unexplained claim about sound.
 
 > **Sonomers: The Pre-Pāṇinian Sound-Units**
 >
-> Vedic phonetic disciplines already treat Speech as distinguishable sound-units measured through *svara*, *mātrā*, force, continuity, and recitational joining. The ordered inventory later called the *varṇamālā* operates within that field.
+> Vedic phonetic disciplines already treat Speech as distinguishable sound-units measured through *svara*, *mātrā*, force, continuity, and recitational joining. The ordered inventory later called the *varṇamālā* operates within that system.
 >
 > The Hindu continuum remembers the Māheśvara-sūtras as the sounds of Śiva's drum, received by Pāṇini. Those sūtras arrange an already operating inventory into a compact grammatical index. Pāṇini did not create the *varṇāḥ*; his analysis depends on the sonomeric architecture that the sūtras index.[NOTE: pre-panini-pratisakhya-classification]
 
@@ -72,7 +72,7 @@ Sanskrit's old terminology still feels modern because it captures the operating 
 
 ## 9.3 Every Sound Has an Address
 
-The field first appears in zones. Tamil, Toda, and Kurukh together light 20 of the 23 Sanskrit base coordinates. Korku, Mundari, and Ho light 18 of 23.[NOTE: inventory-atlas-coverage-surveys] The remaining gaps are mostly near-neighbors: laterals, sibilants, and precise placements inside active mouth-zones.
+The sounds first appear in zones. Tamil, Toda, and Kurukh together light 20 of the 23 Sanskrit base coordinates. Korku, Mundari, and Ho light 18 of 23.[NOTE: inventory-atlas-coverage-surveys] The remaining gaps are mostly near-neighbors: laterals, sibilants, and precise placements inside active mouth-zones.
 
 The next step is the snap to grid. The mouth remains continuous; the inventory becomes discrete. Sanskrit chooses exact stations and makes them teachable, repeatable, and stable. This addressed grid is Sanskrit's ***व्यञ्जन (*vyañjana*) coordinate system***: each consonant receives its position through place and manner.
 
@@ -135,14 +135,14 @@ The control-panel view also explains why the grid is easier to preserve than a l
 
 ## 9.5 Breath as a Coordinate
 
-The ten *mahāprāṇa* stop cells now return to the grid. They were set aside to test the base field; now they re-enter as a designed breath-coordinate.
+The ten *mahāprāṇa* stop cells now return to the grid. They were set aside to test the base inventory; now they re-enter as a designed breath-coordinate.
 
 The ten heavy-breath stops are:
 
 > ख छ ठ थ फ
 > घ झ ढ ध भ
 
-They are Sanskrit's vertical expansion of the contact grid. The base places were already available in the field. Sanskrit adds a breath-pressure layer and makes the contrast structural.
+They are Sanskrit's vertical expansion of the contact grid. The base places were already available across the region. Sanskrit adds a breath-pressure layer and makes the contrast structural.
 
 English gives an easy comparison. In **pin**, the **p** often releases a small puff of breath. In **spin**, that puff usually disappears. English speakers can produce the difference, but English leaves the breath contextual. Sanskrit makes breath a coordinate: **प (*pa*)** and **फ (*pha*)** are independent word-making sonomers.
 
@@ -310,9 +310,9 @@ The Pāṇinian explanatory lineage makes the coordination explicit. For grammat
 
 The labial opening reaches the same decision by another route. **फ [pʰ]** and **[ɸ]** can sound close because both release breath at the lips, although the mouth produces them differently. **फ** closes the lips for **प [p]** and releases *mahāprāṇa* when they open; **[ɸ]** keeps the lips slightly apart and sustains friction between them. The complete stop series requires **फ**, which can combine with the vowels and build atoms and words.
 
-The Vedic transmission also preserves the [ɸ]-like articulation. At the opening of Ṛgveda 1.1.2, **अग्निः पूर्वेभिर् (*agniḥ pūrvebhir*)**, the breath of the *visarga* moves into the following **प** and may be shaped at the lips into the sound written **ᳶ**: **अग्निᳶ पूर्वेभिर्**. The Vedic phonetic disciplines call this ***उपध्मानीय (*upadhmānīya*)***, and Pāṇini later documented its occurrence in *Aṣṭādhyāyī* 8.3.37. Sanskrit therefore preserves [ɸ]-like articulation when a stated junction produces it, while the reusable grid snaps the labial breath-field to **फ** rather than establishing another nearly adjacent consonant.
+The Vedic transmission also preserves the [ɸ]-like articulation. At the opening of Ṛgveda 1.1.2, **अग्निः पूर्वेभिर् (*agniḥ pūrvebhir*)**, the breath of the *visarga* moves into the following **प** and may be shaped at the lips into the sound written **ᳶ**: **अग्निᳶ पूर्वेभिर्**. The Vedic phonetic disciplines call this ***उपध्मानीय (*upadhmānīya*)***, and Pāṇini later documented its occurrence in *Aṣṭādhyāyī* 8.3.37. Sanskrit therefore preserves [ɸ]-like articulation when a stated junction produces it, while the reusable grid snaps the labial breath-zone to **फ** rather than establishing another nearly adjacent consonant.
 
-The checked inventories of Korku, Mundari, Ho, Tamil, Telugu, and Kannada strengthen both findings. These languages contain neither **[ɰ]** nor **[ɸ]** as an independent consonant, even though their speakers can learn such sounds. Chapter 8 surveyed this central and southern sound-field in greater detail. The comparison cannot tell us who selected the Sanskrit inventory or when, but it shows that the two excluded coordinates do not correspond to recurring independent sounds across the field from which Sanskrit's architecture draws.
+The checked inventories of Korku, Mundari, Ho, Tamil, Telugu, and Kannada strengthen both findings. These languages contain neither **[ɰ]** nor **[ɸ]** as an independent consonant, even though their speakers can learn such sounds. Chapter 8 surveyed these central and southern languages in greater detail. The comparison cannot tell us who selected the Sanskrit inventory or when, but it shows that the two excluded coordinates do not correspond to recurring independent sounds across the region from which Sanskrit's architecture draws.
 
 ### What the Vowel Row Excludes
 
@@ -391,7 +391,7 @@ At this scale, the *varṇamālā* is the first visible Sanskritic specification
 
 The *varṇamālā* is the sonomeric sūtra. Pāṇini's Māheśvara-sūtras make that fact explicit for grammar, but the selected sound-inventory already displays the discipline. It is small, ordered, recoverable, and powerful.
 
-The Vedic mantra describes the operation: Speech is sifted like grain. The field is abundant; the sieve selects usable sonomers from that abundance. The *varṇamālā* arranges the selected sounds into a compact, ordered, body-mapped, timed, teachable, and stable architecture.
+The Vedic mantra describes the operation: Speech is sifted like grain. Sound is abundant; the sieve selects usable sonomers from that abundance. The *varṇamālā* arranges the selected sounds into a compact, ordered, body-mapped, timed, teachable, and stable architecture.
 
 The next mantra goes on from selection to transmission:
 
@@ -411,4 +411,4 @@ The scale-chain:
 
 > instrument → sound-field → Vedic sieve → *varṇamālā* → atom
 
-So far, the book has mapped the instrument and surveyed the field. The Vedic sieve has selected measured sonomers and placed them in a grid. Sanskrit next builds the **धातुः (*dhātuḥ*)**, the semantic atom using those sonomers.
+So far, the book has mapped the instrument and surveyed the available sounds. The Vedic sieve has selected measured sonomers and placed them in a grid. Sanskrit next builds the **धातुः (*dhātuḥ*)**, the semantic atom using those sonomers.

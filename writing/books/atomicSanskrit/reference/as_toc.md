@@ -106,14 +106,14 @@
 - 8.2 A Sound Is Not Always a Slot
 - 8.3 How We Map the Sounds
 - 8.4 A Note on *Draviḍa* and Dravidian
-- 8.5 The Sound-Field Persists
+- 8.5 The Regional Pattern Persists
 - 8.6 The Southern Survey: 20 of 23
 - 8.7 The Forest-Belt Survey: 18 of 23
 - 8.8 External Controls
 - 8.9 The Gaps Are Neighbors
 - 8.10 The Retroflex Band
-- 8.11 Breath in the Field
-- 8.12 What the Field Shows
+- 8.11 Breath Above the Base
+- 8.12 What the Comparison Shows
 
 **Chapter 9 — The Varṇamālā: The Sonomeric Grid**
 - 9.1 The Garland Becomes a Grid
@@ -228,11 +228,11 @@
 - 17.3 The Mind Receives: *Sampradāna*
 - 17.4 The Mind De-centers: *Karmaṇi* and *Bhāve*
 - 17.5 The Mind Sequences: The Folded Action
-- 17.6 One Field, Encoded
+- 17.6 One Cluster, Encoded
 - 17.7 The Notices
 - 17.8 The Borrowing Model Fails
 - 17.9 The Corpus Cannot Be Rewritten
-- 17.10 What Sanskrit Builds from the Field
+- 17.10 What Sanskrit Builds from the Cluster
 
 **Chapter 18 — The Wrong Question**
 - 18.1 The Architectural Test

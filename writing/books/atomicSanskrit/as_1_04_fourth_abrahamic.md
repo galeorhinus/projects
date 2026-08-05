@@ -46,7 +46,7 @@ The church operates through three function-classes. **Missionaries of progress**
 
 The academy certifies the intellectual; the function determines the role. The same **certified intellectual** may carry the doctrine outward as a missionary of progress, attack dissent as a jihadi of progress, or authorize the doctrine internally as a priest of progress.
 
-The older diagnostic vocabulary underneath these operations is precise: the *paṇi* hoards, the *vṛtra* blocks circulation, and the *rākṣasa* brings predation or disguise into the field.
+The older diagnostic vocabulary underneath these operations is precise: the *paṇi* hoards, the *vṛtra* blocks circulation, and the *rākṣasa* brings predation or disguise into the surrounding order.
 
 The full structure has doctrine, institution, missionaries, defenders, and priests. Progressivism is the **fourth Abrahamic religion**.
 
@@ -132,7 +132,7 @@ That pedagogy turns population movement into civilizational authorship; Chapter 
 
 ### Jihadis of Progress
 
-The **jihadis of progress** defend the framework. They attack heterodox work through labels that end argument before argument begins: anti-science, regressive, extremist, pseudo-scholarship, communal, majoritarian. The point is not refutation. The point is contamination. Once the label attaches, the work need not be read. In the Indian context, *communalism* performs the work *heresy* performed in earlier Christian usage: it brands the challenger as morally outside the field of permissible speech.
+The **jihadis of progress** defend the framework. They attack heterodox work through labels that end argument before argument begins: anti-science, regressive, extremist, pseudo-scholarship, communal, majoritarian. The point is not refutation. The point is contamination. Once the label attaches, the work need not be read. In the Indian context, *communalism* performs the work *heresy* performed in earlier Christian usage: it brands the challenger as morally unfit to participate in public argument.
 
 ### Priests of Progress
 
@@ -196,7 +196,7 @@ The three pyramids converge on a single target. The racial pillar attacks *Sanā
 
 ### The Distributed Alternative
 
-*Sanātan* distributes authority across **शास्त्र (*śāstra*)**, **सम्प्रदाय (*sampradāya*)**, **दर्शन (*darśana*)**, teacher-student lineages, lived practice, and public *śāstrārtha*. None of these sites commands the whole. A **राजा (*rājā*)** is responsible for protecting this field; he does not own or control it. When royal protection disappears, the distributed architecture loses an explicit defender but retains its several sources of authority. Its survival through the past thousand years demonstrates that distinction. The architecture therefore has no Pope, Khalīfah, or foundation president of *Sanātan*.
+*Sanātan* distributes authority across **शास्त्र (*śāstra*)**, **सम्प्रदाय (*sampradāya*)**, **दर्शन (*darśana*)**, teacher-student lineages, lived practice, and public *śāstrārtha*. None of these sites commands the whole. A **राजा (*rājā*)** is responsible for protecting this distributed order; he does not own or control it. When royal protection disappears, the architecture loses an explicit defender but retains its several sources of authority. Its survival through the past thousand years demonstrates that distinction. The architecture therefore has no Pope, Khalīfah, or foundation president of *Sanātan*.
 
 The shape is the swastika: the ancient Indic symbol of rotational, distributed authority, structurally distinct from any twentieth-century European appropriation of the form. The pyramid authorizes from a summit. The swastika transmits through rotation.
 

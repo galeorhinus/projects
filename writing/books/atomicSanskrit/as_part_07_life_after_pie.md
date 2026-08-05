@@ -6,7 +6,7 @@
 
 With Rāhu dispelled, Sanskrit's radiant architecture comes fully into view. Part VII turns outward to trace how Sanskritic words, structures, and methods reached other languages through radiance and contact.
 
-The seven core plates have fallen. The Sun is visible again, while the residual plates remain cracked around the field. Teachers, families, institutions, and future Atris must still confront those remaining obstructions.
+The seven core plates have fallen. The Sun is visible again, while the residual plates remain cracked around it. Teachers, families, institutions, and future Atris must still confront those remaining obstructions.
 
 ![Figure E.11 — Light After the Eclipse. All seven core plates have fallen. The residual plates remain cracked because institutional custody, public habit, and civilizational self-doubt continue beyond this book.](figures/eclipse_spine/eclipse_70_part07_life_after_pie_core_removed.svg){#fig:eclipse-part07-life-after-pie width=100%}
 

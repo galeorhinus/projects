@@ -28,7 +28,7 @@ Textbooks, dictionaries, departments, and degree requirements give the metaphor 
 
 This kind of persistence does not happen by accident.
 
-There are three possible explanations. The first is intellectual lethargy: scholars inherited a metaphor, repeated it, and never re-examined it. The second is racial and religious hegemony: nineteenth-century colonial philological machinery naturally preferred a metaphor compatible with European supremacy. The third is strategic necessity: the metaphor protects structural commitments the discipline still cannot afford to surrender.
+There are three possible explanations. The first is intellectual lethargy: scholars inherited a metaphor, repeated it, and never re-examined it. The second is racial and religious hegemony: nineteenth-century colonial philological machinery naturally preferred a metaphor compatible with European supremacy. The third is strategic necessity: the tree metaphor protects structural commitments the discipline still cannot afford to surrender.
 
 Lethargy and hegemony helped establish the metaphor, but neither explains its survival. Habit does not account for a hundred and fifty years of institutional defense across generations, political climates, and methodological revolutions. Colonial hegemony alone does not explain why the metaphor remains most secure inside the post-colonial philological ecosystem, which now denounces the colonial assumptions of its founders. Something stronger sustains it. The theology changed costume. Biblical chronology retreated; progressive dogma took its place. The institution that advances that dogma is the church of progress, developed in Chapter 4. The third explanation: strategic necessity, is the right one.
 
@@ -48,7 +48,7 @@ If Sanskrit is transported cargo, its greatness is no longer fully the civilizat
 
 The botanical metaphor supplies that portability without argument. Branches move. A branch can be cut from one tree, moved elsewhere, and replanted in foreign soil. Sanskrit as a branch of a larger Indo-European tree can travel with migrating peoples. The metaphor keeps Sanskrit mobile.
 
-The engineered Sanskrit thesis denies that mobility at the level of mechanism. An engineered system implies the conditions of its engineering: a settled civilization with the intellectual, institutional, demographic, and pedagogical depth required to construct and preserve a precision-built linguistic architecture across thousands of years. Engineered systems are not moved as wandering branches. They are produced where the conditions for their production exist. Sanskrit as engineered architecture anchors the language. Sanskrit as mobile branch serves the racial Arya thesis. The two accounts cannot both be true.
+The engineered Sanskrit thesis directly challenges the Racial Arya Thesis. That thesis must treat Sanskrit as a natural language that developed from an earlier language carried into India by migrating Aryans. Engineering requires a different account. If Sanskrit already existed as an engineered architecture before the proposed migration, the pyramid must identify the civilization that built it and explain how migrating people preserved its language, Vedic corpus, and distributed transmission system while moving. If Sanskrit was engineered after they arrived, migration no longer explains Sanskrit’s architecture; India does. Calling Sanskrit a branch of PIE avoids this problem by treating engineering as botanical change.
 
 The racial Arya thesis had a contemporary template. The European powers that imagined ancient external *ārya* conquest were themselves conducting actual invasions: annexing land, subjugating populations, and imposing alien legal-administrative machinery on a civilization they did not understand. The thesis transposed that colonial sequence into a fabricated ancient past: an outside group arrives, subjugates the local population, and imposes master-slave categories on the conquered. The Europeans were projecting their own operating mechanism backward across the ages and presenting it as a universal pattern.
 
@@ -94,7 +94,7 @@ This is the surviving pillar, but it has not abandoned the racial pillar in Indi
 
 The institutional class also calls itself *liberal*, and the word turns against the structure it serves. Latin *liber-* meant free, but also generous, open-handed, unstinting. *Illiberal* preserves the negation: closed-handed, ungenerous, withholding. Sanskrit captures the same structure with older precision. The dhātu **रा (*rā-*)** means to give; the privative *a-* yields *arāvan* (अरावन्), the non-giver, the one who retains rather than releases, centralizes rather than distributes.[NOTE: liber-aravan-etymology] Two etymologies, two languages, one diagnosis.
 
-The institutional use of *liberal* operates as its exact opposite: while the surface is open-handed, the structure is a closed fist. Because discourse is centralized rather than distributed, alternatives are foreclosed rather than welcomed, and consensus is administered rather than allowed to emerge. Therefore, by the English etymology, the progressive structure is illiberal, and by the Sanskrit etymology (preserved across thousands of years of continuous transmission), it is *arāvan*—proving that the closed fist gripping the third pillar is the same fist that closes the field around it.
+The institutional use of *liberal* operates as its exact opposite: while the surface is open-handed, the structure is a closed fist. Because discourse is centralized rather than distributed, alternatives are foreclosed rather than welcomed, and consensus is administered rather than allowed to emerge. Therefore, by the English etymology, the progressive structure is illiberal, and by the Sanskrit etymology (preserved across thousands of years of continuous transmission), it is *arāvan*—proving that the closed fist gripping the third pillar also shuts out every competing account.
 
 The metaphor that defends the third pillar cannot be surrendered. To accept Sanskrit as engineered is to accept that the linear teleology has at least one civilizational fact wrong. To accept that one fact is wrong is to ask which other facts have been arranged to protect the same story. The defenders of the metaphor are not merely defending Sanskrit's place in a tree. They are defending the tree-shaped history progress requires.
 
@@ -116,9 +116,9 @@ The containment protects more than a metaphor. It protects a theory of authority
 
 Calibration is more dangerous to the pyramid than drift or codification. Drift can be managed; codification can be owned; calibration makes the apex unnecessary.
 
-Chapter 0 established three concurrent fields: the *vaidika* domain preserves invariant content, the *laukika* domain supports curated transmission and new composition, and the *prākṛtika* domain changes as communities speak it from one generation to the next. The pyramid turns these differences of purpose into a chronological ladder.
+Chapter 0 established three concurrent domains: the *vaidika* domain preserves invariant content, the *laukika* domain supports curated transmission and new composition, and the *prākṛtika* domain changes as communities speak it from one generation to the next. The pyramid turns these differences of purpose into a chronological ladder.
 
-It demotes the *vaidika* calibrant to a primitive and archaic beginning. It then presents the *laukika* domain as a later, codified peak and credits its order to Pāṇini the "codifier." Finally, it treats the *prākṛtika* field as the linguistic decay that followed Sanskrit's supposed peak. The ascent praises Pāṇini so that no one asks whether he inherited an architecture that already existed. The descent places Sanskrit's generative power safely in the past and gives outsiders the authority to manage the living civilization.
+It demotes the *vaidika* calibrant to a primitive and archaic beginning. It then presents the *laukika* domain as a later, codified peak and credits its order to Pāṇini the "codifier." Finally, it treats the *prākṛtika* domain as the linguistic decay that followed Sanskrit's supposed peak. The ascent praises Pāṇini so that no one asks whether he inherited an architecture that already existed. The descent places Sanskrit's generative power safely in the past and gives outsiders the authority to manage the living civilization.
 
 This is containment through category theft. The pyramid takes three domains designed for different purposes and rearranges them as three levels of quality along a single line of time.
 
@@ -130,7 +130,7 @@ The strategy has changed with the circumstance. When Sanskrit could be treated a
 
 ## 3.6 The Asura Analysis: Action, not Faction
 
-The architecture of containment is *asuric* because it is defined by act of containment. The Rigvedic passages make that structural distinction visible; the pyramid replaces it with faction.
+The architecture of containment is *asuric* because it is defined by act of containment. The Rigvedic passages expose that structural distinction; the pyramid replaces it with faction.
 
 English, like Sanskrit and many other languages, includes words that sound and look identical while describing opposite actions. A captive lies *bound* to a chair. A hare *bounds* across a field. Ropes hold the captive in one place while the hare leaps freely, yet the same sound-form appears in both sentences. No English speaker confuses the two because each sentence describes an action that identifies which word the speaker used.
 
@@ -229,11 +229,11 @@ The pyramid creates a different account. It treats every Rigvedic ***asura*** as
 
 While demanding attestation from Sanskrit’s generative architecture and requiring a separately recorded ***sura*** before certifying ***a-sura***, the pyramid grants itself thousands of starred PIE sound-forms without a *single* recorded sentence. It invents imaginary words from an imaginary natural language spoken by an unspecified (but definitely *not* Indian) race, while denying a formation that Sanskrit's own architecture supplies and the action of the mantra identifies.[NOTE: asura-generativity-pie-double-standard]
 
-Neither Sanskrit derivation requires a generic title meaning "powerful being" that overrides the action described in the mantra. Historical linguists assign that meaning to their reconstruction and then use the reconstruction to interpret every Rigvedic occurrence.
+The vedic continuum preserves **⟪सुर्⟫** as **ऐश्वर्यदीप्त्योः (*aiśvarya-dīptyoḥ*)** — sovereignty and shining. The pyramid then places the privative **अ (*a-*)** before ***sura*** and assigns the resulting ***asura*** the meaning “lord” or “sovereign.” Its derivation therefore asks Sanskrit to produce an impossible result: **अ + सुर — *a + sura*, not-sovereign — becomes “sovereign.”** It adds the privative and preserves the meaning that the privative should reverse.
 
-The reconstructed word also gives the Racial Arya Thesis something portable. The pyramid's imaginary people can carry one inherited title toward Iran and India while Sanskrit's own derivations disappear from the account.
+This imaginary word also gives the Racial Arya Thesis something portable. The pyramid's imaginary people can carry one inherited title toward Iran and India while Sanskrit's own derivations disappear from the account.
 
-Western philologists possessed every part of the evidence. The Veda supplied the luminous field. The grammatical continuum preserved **⟪सुर्⟫** in the field of shining. Western philologists knew Sanskrit's privative architecture. The mantra described Svarbhānu piercing Sūrya with darkness. They rejected both Sanskrit words and installed a third because the third word protected external custody and converted action into faction.
+Western philologists possessed every part of the evidence. The Veda supplied ***svar, sūrya, sūri,*** and ***sūra***. The grammatical continuum preserved **⟪सुर्⟫** with the meanings sovereignty and shining. Western philologists knew Sanskrit's privative architecture. The mantra described Svarbhānu piercing Sūrya with darkness. They rejected both Sanskrit words and installed a third because the third word protected external custody and converted action into faction.
 
 #### How Conflation Turns Action into Faction
 
@@ -255,13 +255,13 @@ The same conflict continues across every age. The swastika distributes power thr
 
 ## 3.7 Containment and Release in the Veda
 
-Section 3.6 identified the ***a-sura*** through Svarbhānu's action: he covers the Sun with darkness. The Veda describes the same architecture of containment even when it does not use the word *asura*. Vṛtra blocks the waters, while the Paṇis lock cattle and light inside Vala. In both encounters, the protagonists break the enclosures and restore circulation.
+Chapter 1 identified four operations within the architecture of containment. The encounters examined here reveal how the protagonists defeat that architecture. Vṛtra blocks the waters, the Paṇis enclose cattle and light inside Vala, and Svarbhānu covers the Sun. In every encounter, the protagonist breaks the obstruction and restores circulation.
 
 **Vṛtra** (वृत्र), whose name comes from **⟪वृ⟫ (*vṛ*, to cover or obstruct)**, dams the waters on the mountain. Indra's ***वज्र (vajra)*** splits the enclosure, and the rivers run toward the sea (RV 1.32).[NOTE: rv-1-32-vrtra]
 
 The **Paṇis** (पणयः), the niggards, hoard the cattle associated with dawn and light inside the **Vala** (वल) cave. Bṛhaspati (बृहस्पति) breaks the enclosure through the sacred word, scatters the darkness, and "displays the light" in Ṛgveda 2.24.3. Other tellings place Indra and the Aṅgirases (अङ्गिरसः) beside him. The dialogue in Ṛgveda 10.108 sends Saramā (सरमा) ahead to confront the Paṇis.[NOTE: rv-vala-panis]
 
-Svarbhānu supplies the third form of the same action. He covers the Sun until the worlds can no longer find their field. Indra breaks his ***माया (māyā)***, and Atri restores the eye of Sūrya (RV 5.40).[NOTE: rigveda-5-40-atri-clearing]
+Svarbhānu supplies the third form of the same action. He covers the Sun until the worlds become bewildered. Indra breaks his ***माया (māyā)***, and Atri restores the eye of Sūrya (RV 5.40).[NOTE: rigveda-5-40-atri-clearing]
 
 The three encounters concern three goods: the waters, the cattle-light, and the Sun. An antagonist encloses each one, and the protagonists release it.
 

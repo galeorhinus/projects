@@ -139,7 +139,7 @@ And the case generalizes, because the case is a recipe. Delete the source langua
 
 ![Figure 19.3 — ⟪कृत्⟫ · Orbit and Radiance — the Cut-Atom. The words orbit; the radiance seeds far soil; the tree is never the source.](figures/pie_in_sky/krt_orbit_radiance.svg){#fig:ch19-krt-orbit width=100%}
 
-Sanskrit needs no devices, because the atom sits at the center, listed and self-explanatory. The derivations orbit it by stated rule. The living languages preserve the cutting-words in daily speech — a Kannada tailor's *kattari* is *kartarī*, the scissors, still cutting. Beyond the field, the rays land where the carriers took them, and trees grow at the landing points — *curt* and *cortex* on the Latin surface, *shirt* and *skirt* and *short* where the boundary-*s* rode along, *shear* and *share* where it did not. In Sanskrit the *s* has a source, a position, and a meaning. In PIE it has parentheses.
+Sanskrit needs no devices, because the atom sits at the center, listed and self-explanatory. The derivations orbit it by stated rule. The living languages preserve the cutting-words in daily speech — a Kannada tailor's *kattari* is *kartarī*, the scissors, still cutting. Beyond Sanskrit's orbit, the rays land where the carriers took them, and trees grow at the landing points — *curt* and *cortex* on the Latin surface, *shirt* and *skirt* and *short* where the boundary-*s* rode along, *shear* and *share* where it did not. In Sanskrit the *s* has a source, a position, and a meaning. In PIE it has parentheses.
 
 ## 19.6 Kin, Kind, King: the Dictionary Shift
 
@@ -178,7 +178,7 @@ By positing an imaginary people speaking an imaginary language built from imagin
 
 ## 19.7 *Pratibimba*
 
-*Pratibimba* serves as the optical word, with radiance acting as the transmission image. Rather than requiring a migrating race, Sanskritic forms required carriers, contact, and a receiving field. As the light traveled and the receiving languages formed reflections, the philologists mistook the pattern of reflected light for a vanished parent body. Thus, radiance explains resemblance without ancestry, leaving the reflection on its own past the field's edge: the *apaśabda* emerges as drift outside active Sanskritic gravity.
+*Pratibimba* serves as the optical word, with radiance acting as the transmission image. Rather than requiring a migrating race, Sanskritic forms required carriers, contact, and a receiving language. As the light traveled and the receiving languages formed reflections, the philologists mistook the pattern of reflected light for a vanished parent body. Thus, radiance explains resemblance without ancestry: the *apaśabda* emerges on its own after passing beyond active Sanskritic gravity.
 
 Language contact can change more than vocabulary. Sustained contact can also transmit patterns of pronunciation, sentence construction, and grammatical analysis.[NOTE: thomason-kaufman-1988] Those categories usually describe contact among naturally changing languages. They do not describe trained carriers teaching an engineered sound-grid, a generative vocabulary, and an analytical method while the receiving community continues to speak its own language.
 
@@ -195,7 +195,7 @@ The *mother* family becomes clear:
 >
 > *atom → molecule → seed → sprout — life begins*
 
-The chain just traced is *Pratibimba* operating through **vivimorphosis** — an engineered Sanskrit *śabda* becoming an organic *apaśabda* in a contact language across thousands of years of *apabhraṃśa*. Chapter 12 §12.9 develops the three-stage mechanism. The **शब्द (*śabda*)** remains an inorganic molecule on the calibrant's side. A non-Sanskrit listener receives that molecule as **बीज (*bīja*)**, a seed retained in the mind. When the listener expresses it through the sounds and habits of the receiving language, the seed becomes **अपशब्द (*apaśabda*)**, an organic form that can change and generate within its new linguistic field. Indo-European philology begins with these resulting *apaśabdas* and treats them as descendants of a reconstructed ancestor.
+The chain just traced is *Pratibimba* operating through **vivimorphosis** — an engineered Sanskrit *śabda* becoming an organic *apaśabda* in a contact language across thousands of years of *apabhraṃśa*. Chapter 12 §12.9 develops the three-stage mechanism. The **शब्द (*śabda*)** remains an inorganic molecule on the calibrant's side. A non-Sanskrit listener receives that molecule as **बीज (*bīja*)**, a seed retained in the mind. When the listener expresses it through the sounds and habits of the receiving language, the seed becomes **अपशब्द (*apaśabda*)**, an organic form that can change and generate inside that language. Indo-European philology begins with these resulting *apaśabdas* and treats them as descendants of a reconstructed ancestor.
 
 ![Figure 19.6 — The Vivimorphosis of ⟪स्था⟫ (*sthā*). From engineered Sanskrit molecules to an organic tree in the receiving languages.](figures/pie_in_sky/stha_vivimorphosis.svg){#fig:ch19-stha-vivimorphosis width=100%}
 
@@ -223,7 +223,7 @@ The ⟪स्था⟫ and ⟪दिव्⟫ families are part of a much larger
 | **⟪भृ⟫ (*bhṛ*)** — bear, carry | **\*bʰer-** | Latin *ferre* → *transfer, refer, confer, fertile*; Greek *pherein* → *metaphor, phosphorus, euphoria* |
 | **⟪मा⟫ (*mā*)** — measure | **\*meh₁-** | Latin *mētīrī* → *measure, dimension, immense*; Greek *metron* → *metre, geometry, symmetry* |
 
-Greek, Latin, and Germanic received these seeds and used them to generate new words and compounds. Each family continued to grow through the sounds, affixes, and habits of its new field, while the semantic reach of the Sanskrit atom remained recognizable across the canopy. Vivimorphosis therefore explains both sides of the contact: Sanskrit's radiance endows the receiving language, and the receiving language turns that endowment into organic growth.
+Greek, Latin, and Germanic received these seeds and used them to generate new words and compounds. Each family continued to grow through its own sounds, affixes, and habits, while the semantic reach of the Sanskrit atom remained recognizable across the canopy. Vivimorphosis therefore explains both sides of the contact: Sanskrit's radiance endows the receiving language, and the receiving language turns that endowment into organic growth.
 
 The PIE account reverses the direction shown in Figure 19.6. It begins with organic forms in the receiving languages, groups their correspondences, and reconstructs a botanical parent behind them. The pyramid then reads those vivimorphosed descendants as evidence for that parent and makes Sanskrit descend from the reconstruction. Through that reversal, the engineered source becomes one daughter branch beneath an imaginary ancestor assembled from reflected forms.
 
@@ -289,7 +289,7 @@ The *apaśabda* *ahura* anchors the central theological vocabulary of the Zoroas
 
 **Process across all three vivimorphosis stages:** *apabhraṃśa* / vivimorphosis. **What IE philology treats as reconstructed ancestry:** the bottom row — the *apaśabdas*. **The seed (*bīja*) is the missing middle.** The adversary-word — *a-sura*, the un-shining, the privative of ⟪सुर्⟫'s shining one — sits on the same Sanskrit form and takes no part in this chain; Chapter 3 §3.6 separates the two words.
 
-The mapping restores a three-stage sequence. Sanskrit operates as the engineered calibrant; contact carries its radiance into another speech-field; and the receiving language develops a *Pratibimba* through its own natural history. Comparative philology observes correspondences among those reflections and, because it assumes descent, averages them into a vanished common ancestor. The calibrant account explains the same correspondences as reflections of one Sanskritic radiance-field. The evidence remains the same, but the movement runs in the other direction: formed Speech first, reflections afterward.
+The mapping restores a three-stage sequence. Sanskrit operates as the engineered calibrant; contact carries its radiance into another speech community; and the receiving language develops a *Pratibimba* through its own natural history. Comparative philology observes correspondences among those reflections and, because it assumes descent, averages them into a vanished common ancestor. The calibrant account explains the same correspondences as reflections of Sanskritic radiance. The evidence remains the same, but the movement runs in the other direction: formed Speech first, reflections afterward.
 
 Sanskrit as calibrant. The natural languages of Central and West Asia as calibrated. Their *Pratibimba* projected backward by nineteenth-century European philologists as PIE.
 
