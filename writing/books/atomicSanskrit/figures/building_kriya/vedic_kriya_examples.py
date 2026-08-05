@@ -20,7 +20,7 @@ import sys
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
-sys.path.insert(0, str(REPO_ROOT / "working" / "dhatu_hexagons"))
+sys.path.insert(0, str(REPO_ROOT / "working" / "50_projects" / "dhatu_hexagons"))
 sys.path.insert(0, str(REPO_ROOT / "figures" / "_shared"))
 
 import matra_style as ms  # noqa: E402
@@ -72,13 +72,13 @@ ROLE_FILL = {
 }
 ROLE_DEV = {
     "original": ms.INK_DARK,
-    "transform": ms.INK_DARK,
+    "transform": ms.INK_LIGHT,
     "activation": ms.INK_LIGHT,
     "ending": ms.INK_LIGHT,
 }
 ROLE_IAST = {
     "original": ms.MUTED,
-    "transform": ms.INK_DARK,
+    "transform": ms.INK_LIGHT,
     "activation": ms.INK_LIGHT,
     "ending": ms.INK_LIGHT,
 }

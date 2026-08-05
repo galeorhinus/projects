@@ -1,6 +1,6 @@
 <!-- lineage: py
      canonical-source: vedic_bhavati.from-py.svg
-     updated: 2026-07-02 -->
+     updated: 2026-08-05 -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 582.0 420.6" width="4.5in" height="3.252in">
   <title>Vedic kriyāpada assembly: bhavati</title>
   <rect x="0" y="0" width="582.0" height="420.6" fill="#ffffff"/>
@@ -42,11 +42,11 @@
   <text x="257.0" y="331.1" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="19.8" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">भ्</text>
   <text x="257.0" y="346.9" font-family="Charter, Georgia, Times, serif" font-size="16.2" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">bh</text>
   <polygon points="282.0,265.4 322.0,265.4 342.0,300.0 322.0,334.7 282.0,334.7 262.0,300.0" fill="#a8842c" stroke="#5c4830" stroke-width="1.45" stroke-linejoin="round"/>
-  <text x="302.0" y="296.5" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="19.8" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">अ</text>
-  <text x="302.0" y="312.3" font-family="Charter, Georgia, Times, serif" font-size="16.2" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">a</text>
+  <text x="302.0" y="296.5" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="19.8" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">अ</text>
+  <text x="302.0" y="312.3" font-family="Charter, Georgia, Times, serif" font-size="16.2" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">a</text>
   <polygon points="342.0,300.0 352.0,300.0 372.0,334.7 352.0,369.3 342.0,369.3 322.0,334.7" fill="#a8842c" stroke="#5c4830" stroke-width="1.45" stroke-linejoin="round"/>
-  <text x="347.0" y="331.1" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="19.8" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">व्</text>
-  <text x="347.0" y="346.9" font-family="Charter, Georgia, Times, serif" font-size="16.2" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">v</text>
+  <text x="347.0" y="331.1" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="19.8" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">व्</text>
+  <text x="347.0" y="346.9" font-family="Charter, Georgia, Times, serif" font-size="16.2" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">v</text>
   <polygon points="372.0,265.4 412.0,265.4 432.0,300.0 412.0,334.7 372.0,334.7 352.0,300.0" fill="#4a3a28" stroke="#5c4830" stroke-width="1.45" stroke-linejoin="round"/>
   <text x="392.0" y="296.5" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="19.8" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">अ</text>
   <text x="392.0" y="312.3" font-family="Charter, Georgia, Times, serif" font-size="16.2" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">a</text>

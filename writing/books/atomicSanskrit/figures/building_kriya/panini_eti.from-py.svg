@@ -36,8 +36,8 @@
   <path d="M 564.0,291.0 C 564.0,309.0 520.0,267.3 520.0,285.3" fill="none" stroke="#6b563a" stroke-width="1.45" marker-end="url(#arrowhead)"/>
   <path d="M 430.0,443.0 L 430.0,449.3" fill="none" stroke="#6b563a" stroke-width="1.45" stroke-dasharray="5 4" marker-end="url(#arrowhead)"/>
   <polygon points="380.0,465.4 480.0,465.4 500.0,500.0 480.0,534.7 380.0,534.7 360.0,500.0" fill="#a8842c" stroke="#5c4830" stroke-width="1.45" stroke-linejoin="round"/>
-  <text x="430.0" y="496.0" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="22.5" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">ए</text>
-  <text x="430.0" y="514.0" font-family="Charter, Georgia, Times, serif" font-size="18.4" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">e</text>
+  <text x="430.0" y="496.0" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="22.5" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">ए</text>
+  <text x="430.0" y="514.0" font-family="Charter, Georgia, Times, serif" font-size="18.4" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">e</text>
   <polygon points="500.0,500.0 510.0,500.0 530.0,534.7 510.0,569.3 500.0,569.3 480.0,534.7" fill="#6b563a" stroke="#5c4830" stroke-width="1.45" stroke-linejoin="round"/>
   <text x="505.0" y="530.6" font-family="Noto Sans Devanagari, Mangal, Devanagari Sangam MN, sans-serif" font-size="22.5" font-weight="500" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">त्</text>
   <text x="505.0" y="548.7" font-family="Charter, Georgia, Times, serif" font-size="18.4" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">t</text>
