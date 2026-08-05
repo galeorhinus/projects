@@ -159,20 +159,11 @@ The matrix that follows is more than a count-table. Each cell records a permitte
 
 ## 11.4 The Ten *Gaṇāḥ* as Operations
 
-The full operating roster has ten classes.
+The full operating roster has ten classes, sorted below by what the signature actually does to the atom rather than by traditional numbering.
 
-| No. | Gaṇa | Signature | Procedural effect | Example |
-|---:|---|---|---|---|
-| 1 | भ्वादि (*bhvādi*) | शप् (*śap*) / अ (*a*) | default thematic activation | ⟪पच्⟫ (*pac*) → पचति (*pacati*) |
-| 2 | अदादि (*adādi*) | शून्य (*śūnya*) / athematic | direct activation | ⟪अद्⟫ (*ad*) → अत्ति (*atti*) |
-| 3 | जुहोत्यादि (*juhotyādi*) | अभ्यास (*abhyāsa*) | echo/duplication before activation | ⟪धा⟫ (*dhā*) → दधाति (*dadhāti*) |
-| 4 | दिवादि (*divādi*) | श्यन् (*śyan*) / य (*ya*) | *ya*-extension | ⟪दिव्⟫ (*div*) → दीव्यति (*dīvyati*) |
-| 5 | स्वादि (*svādi*) | श्नु (*śnu*) / नु-नो (*nu-no*) | *nu/no* insertion | ⟪सु⟫ (*su*) → सुनोति (*sunoti*) |
-| 6 | तुदादि (*tudādi*) | श (*śa*) / अ (*a*) | thematic activation with class behavior | ⟪तुद्⟫ (*tud*) → तुदति (*tudati*) |
-| 7 | रुधादि (*rudhādi*) | श्नम् (*śnam*) / nasal infix | nasal insertion into atom | ⟪रुध्⟫ (*rudh*) → रुणद्धि (*ruṇaddhi*) |
-| 8 | तनादि (*tanādi*) | उ-ओ (*u-o*) | *u/o* activation | ⟪कृ⟫ (*kṛ*) → करोति (*karoti*) |
-| 9 | क्र्यादि (*kryādi*) | श्ना (*śnā*) / ना (*nā*) | *nā*-extension | ⟪क्री⟫ (*krī*) → क्रीणाति (*krīṇāti*) |
-| 10 | चुरादि (*curādi*) | णिच् (*ṇic*) / अय (*aya*) | *aya* activation | ⟪चुर्⟫ (*cur*) → चोरयति (*corayati*) |
+![Four Mechanisms, Five Classes. The five gaṇas that activate the atom without a suffixal extension — thematic activation, direct activation, reduplication, and infixation — each with its signature and a worked example.](figures/building_kriya/gana_mechanisms_activation.svg){#fig:building-kriya-gana-mechanisms-activation width=100%}
+
+![One Mechanism, Five Classes. The five gaṇas that append a distinct element between the atom and its ending — suffixal extension, in its five forms — each with its signature and a worked example.](figures/building_kriya/gana_mechanisms_suffixal_extension.svg){#fig:building-kriya-gana-mechanisms-suffixal-extension width=100%}
 
 Because the *gaṇaḥ* serves strictly as the operational class while the *vikaraṇa* explicitly performs the operation itself, the examples in the final column deliberately act as anchors: they clearly show exactly one familiar, visible output of each distinct operation.
 
