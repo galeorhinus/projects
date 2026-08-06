@@ -1,0 +1,16 @@
+{
+  "jk": {
+    "name": "JK",
+    "hypothesis_group_url": "https://hypothes.is/groups/AbC123x/some-group-name",
+    "hypothesis_group_name": "Some Group Name",
+    "email": "jk@example.com",
+    "status": "invited"
+  },
+  "rm": {
+    "name": "R. Kumar",
+    "hypothesis_group_url": "https://hypothes.is/groups/DeF456y/another-group",
+    "hypothesis_group_name": "Another Group",
+    "email": null,
+    "status": "invited"
+  }
+}

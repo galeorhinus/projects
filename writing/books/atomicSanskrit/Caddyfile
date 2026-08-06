@@ -9,6 +9,9 @@
 #   (oauth2-proxy), whitelist at /etc/oauth2-proxy/authenticated-emails.txt.
 #   /as/request-access — public form for people without a whitelisted
 #   email yet; proxies to the loopback service in server/request_access.py.
+#   /as/invite/<slug>  — named personal invites (same service, dispatches
+#   on path); creating the invites.json entry is the approval, so most
+#   submissions auto-whitelist instead of needing manual review.
 #   /               — reserved for future volumes / projects.
 #
 # atomicsanskrit.org (aliased vanity domain):
@@ -118,6 +121,15 @@ secondshanti.org {
 	# proxying — the backend only knows about "/", since it's a single-route
 	# script, not a full app that understands its own mount point.
 	handle_path /as/request-access* {
+		reverse_proxy 127.0.0.1:8090
+	}
+
+	# /as/invite/<slug> — named personal invites, same backend service as
+	# above (it dispatches on path internally: "/" is the generic form,
+	# anything else is looked up as a slug in invites.json). Also public,
+	# also NOT behind oauth2-proxy — the whole point is reaching someone
+	# who doesn't have access yet.
+	handle_path /as/invite/* {
 		reverse_proxy 127.0.0.1:8090
 	}
 

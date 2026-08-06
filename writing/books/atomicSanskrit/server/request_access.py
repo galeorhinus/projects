@@ -1,24 +1,35 @@
 #!/usr/bin/env python3
-"""request_access.py — loopback-only "request access" form handler.
+"""request_access.py — loopback-only access-request handler, two flows.
 
-Serves the public /as/request-access form (Caddy proxies it here, no
-oauth2-proxy gate — this endpoint is how someone WITHOUT access yet gets
-in touch). On submission: validates input, appends a JSON-line record to
-LOG_PATH, and emails OWNER_EMAIL so a human decides whether to add the
-requester to the oauth2-proxy whitelist and a Hypothesis group.
+1. Generic form at "/" (Caddy: /as/request-access) — for strangers you
+   don't know. Every submission needs manual review; see README.
 
-This never grants access itself — it only ever creates a request. See
-server/README.md for the full deployment and review workflow.
+2. Named invites at "/<slug>" (Caddy: /as/invite/<slug>) — for people you
+   deliberately invited by name. Creating the invites.json entry IS the
+   approval, so submissions here are handled by trust tier:
+     - no email on file for that slug         -> auto-whitelist whatever
+                                                   they submit
+     - submitted email matches the one on file -> auto-whitelist
+     - submitted email differs from the one on
+       file                                    -> falls back to the same
+                                                   manual-review path as
+                                                   the generic form
+
+Neither flow grants access on its own beyond the trust rules above — the
+"different email" case always needs a human. See server/README.md for the
+full deployment and review workflow.
 
 Pure standard library, deliberately — no pip install on the server.
 """
 
 from __future__ import annotations
 
+import fcntl
 import html
 import json
 import re
 import smtplib
+import subprocess
 import time
 from email.mime.text import MIMEText
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
@@ -33,6 +44,21 @@ BIND_PORT = 8090
 # Append-only request log, outside the web root, never git-tracked.
 LOG_PATH = Path("/var/lib/secondshanti/access-requests.log")
 
+# Named-invite records — one JSON object keyed by slug. See
+# server/invites.example.json for the schema. Never git-tracked (contains
+# real names/emails); lives only on the server.
+INVITES_PATH = Path("/etc/secondshanti/invites.json")
+
+# oauth2-proxy's email whitelist. Auto-whitelisting appends here directly.
+WHITELIST_PATH = Path("/etc/oauth2-proxy/authenticated-emails.txt")
+
+# Optional command run after appending to the whitelist, e.g. to make
+# oauth2-proxy pick up the change. Leave as None to skip (and reload
+# manually) unless you've confirmed oauth2-proxy needs a nudge and have
+# granted the service user narrow, passwordless sudo for exactly this:
+#   WHITELIST_RELOAD_COMMAND = ["sudo", "/bin/systemctl", "restart", "oauth2-proxy"]
+WHITELIST_RELOAD_COMMAND: list[str] | None = None
+
 OWNER_EMAIL = "rhinusgaleo@gmail.com"
 SMTP_HOST = "smtp.gmail.com"
 SMTP_PORT = 587
@@ -46,9 +72,11 @@ _last_submission_by_ip: dict[str, float] = {}
 
 EMAIL_RE = re.compile(r"^[^@\s]+@[^@\s]+\.[^@\s]+$")
 
+# --- Shared page chrome ------------------------------------------------------
+
 PAGE_HTML = """<!doctype html>
 <html><head><meta charset="utf-8">
-<title>Request access &mdash; Atomic Sanskrit</title>
+<title>{title} &mdash; Atomic Sanskrit</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
   body {{ font-family: Georgia, 'Charter', serif; max-width: 32em; margin: 4em auto;
@@ -63,56 +91,34 @@ PAGE_HTML = """<!doctype html>
     margin-top: 1.5em; padding: 0.6em 1.4em; font-size: 1em; cursor: pointer;
     background: #2b2b2d; color: #f4f4f3; border: none;
   }}
+  a.group-link {{
+    display: inline-block; margin-top: 0.5em; padding: 0.6em 1.2em;
+    background: #9a7833; color: #fff; text-decoration: none; border-radius: 4px;
+  }}
   .hp {{ position: absolute; left: -9999px; }}
   p.note {{ color: #666; font-size: 0.9em; }}
 </style>
 </head><body>
-<h1>Request access to <em>Atomic Sanskrit</em></h1>
-<p>{message}</p>
-{form}
+<h1>{heading}</h1>
+{body}
 </body></html>
 """
 
-FORM_BLOCK = """<form method="post">
-  <label for="name">Name</label>
-  <input type="text" id="name" name="name" required>
 
-  <label for="email">Email</label>
-  <input type="email" id="email" name="email" required>
-
-  <label for="note">How did you hear about this, or who invited you? (optional)</label>
-  <textarea id="note" name="note" rows="3"></textarea>
-
-  <div class="hp" aria-hidden="true">
-    <label for="website">Website</label>
-    <input type="text" id="website" name="website" tabindex="-1" autocomplete="off">
-  </div>
-
-  <button type="submit">Request access</button>
-</form>
-<p class="note">Requests are reviewed individually; you'll hear back by email.</p>
-"""
+def page(title: str, heading: str, body: str) -> str:
+    return PAGE_HTML.format(title=title, heading=heading, body=body)
 
 
-def render(message: str, show_form: bool = True) -> str:
-    return PAGE_HTML.format(message=message, form=FORM_BLOCK if show_form else "")
+# --- Shared plumbing (logging, email, whitelist) ----------------------------
 
 
-def send_owner_email(name: str, email: str, note: str, ip: str) -> None:
+def send_notification_email(subject: str, body: str, reply_to: str) -> None:
     password = SMTP_APP_PASSWORD_FILE.read_text().strip()
-    body = (
-        "New access request for Atomic Sanskrit\n\n"
-        f"Name:  {name}\n"
-        f"Email: {email}\n"
-        f"Note:  {note or '(none)'}\n"
-        f"IP:    {ip}\n"
-        f"Time:  {time.strftime('%Y-%m-%d %H:%M:%S %Z')}\n"
-    )
     msg = MIMEText(body)
-    msg["Subject"] = f"Access request: {name} <{email}>"
+    msg["Subject"] = subject
     msg["From"] = SMTP_USER
     msg["To"] = OWNER_EMAIL
-    msg["Reply-To"] = email
+    msg["Reply-To"] = reply_to
 
     with smtplib.SMTP(SMTP_HOST, SMTP_PORT) as server:
         server.starttls()
@@ -133,6 +139,303 @@ def log_request(name: str, email: str, note: str, ip: str) -> None:
         f.write(json.dumps(record) + "\n")
 
 
+def _with_invites_lock(fn):
+    """Run fn(invites_dict) -> invites_dict under an flock, then persist
+    the returned dict. Simple advisory locking — traffic here is low
+    enough that this is about correctness under rare concurrent hits,
+    not throughput."""
+    INVITES_PATH.parent.mkdir(parents=True, exist_ok=True)
+    INVITES_PATH.touch(exist_ok=True)
+    with INVITES_PATH.open("r+", encoding="utf-8") as f:
+        fcntl.flock(f, fcntl.LOCK_EX)
+        try:
+            raw = f.read().strip()
+            invites = json.loads(raw) if raw else {}
+            invites = fn(invites)
+            f.seek(0)
+            f.truncate()
+            json.dump(invites, f, indent=2, ensure_ascii=False)
+        finally:
+            fcntl.flock(f, fcntl.LOCK_UN)
+    return invites
+
+
+def load_invites() -> dict:
+    if not INVITES_PATH.exists():
+        return {}
+    with INVITES_PATH.open(encoding="utf-8") as f:
+        raw = f.read().strip()
+    return json.loads(raw) if raw else {}
+
+
+def update_invite(slug: str, **fields) -> dict:
+    def apply(invites: dict) -> dict:
+        record = invites.get(slug, {})
+        record.update(fields)
+        invites[slug] = record
+        return invites
+
+    return _with_invites_lock(apply)[slug]
+
+
+def add_to_whitelist(email: str) -> None:
+    WHITELIST_PATH.parent.mkdir(parents=True, exist_ok=True)
+    existing = set()
+    if WHITELIST_PATH.exists():
+        existing = {
+            line.strip().lower()
+            for line in WHITELIST_PATH.read_text(encoding="utf-8").splitlines()
+            if line.strip()
+        }
+    if email.strip().lower() in existing:
+        return
+    with WHITELIST_PATH.open("a", encoding="utf-8") as f:
+        f.write(email.strip() + "\n")
+    if WHITELIST_RELOAD_COMMAND:
+        subprocess.run(WHITELIST_RELOAD_COMMAND, check=False)
+
+
+# --- Flow 1: generic request-access form ("/") ------------------------------
+
+GENERIC_FORM = """<p>{message}</p>
+<form method="post">
+  <label for="name">Name</label>
+  <input type="text" id="name" name="name" required>
+
+  <label for="email">Email</label>
+  <input type="email" id="email" name="email" required>
+
+  <label for="note">How did you hear about this, or who invited you? (optional)</label>
+  <textarea id="note" name="note" rows="3"></textarea>
+
+  <div class="hp" aria-hidden="true">
+    <label for="website">Website</label>
+    <input type="text" id="website" name="website" tabindex="-1" autocomplete="off">
+  </div>
+
+  <button type="submit">Request access</button>
+</form>
+<p class="note">Requests are reviewed individually; you'll hear back by email.</p>
+"""
+
+
+def render_generic(message: str, show_form: bool = True) -> str:
+    body = GENERIC_FORM.format(message=message) if show_form else f"<p>{message}</p>"
+    return page("Request access", "Request access to <em>Atomic Sanskrit</em>", body)
+
+
+def handle_generic_get() -> tuple[int, str]:
+    return 200, render_generic("Fill in your details below.")
+
+
+def handle_generic_post(fields: dict, ip: str) -> tuple[int, str]:
+    if fields.get("website"):  # honeypot
+        return 200, render_generic("Thanks — your request has been received.", show_form=False)
+
+    name = fields.get("name", "").strip()
+    email = fields.get("email", "").strip()
+    note = fields.get("note", "").strip()
+
+    if not name or not EMAIL_RE.match(email):
+        return 400, render_generic("Please provide your name and a valid email address.")
+
+    if _rate_limited(ip):
+        return 429, render_generic("Please wait a moment before submitting again.")
+
+    try:
+        log_request(name, email, note, ip)
+    except Exception as exc:
+        print(f"request_access: log_request failed: {exc}")
+        return 500, render_generic(
+            "Something went wrong on our end — please try again in a few minutes, "
+            "or email rhinusgaleo@gmail.com directly."
+        )
+
+    try:
+        send_notification_email(
+            f"Access request: {name} <{email}>",
+            "New access request for Atomic Sanskrit\n\n"
+            f"Name:  {name}\nEmail: {email}\nNote:  {note or '(none)'}\n"
+            f"IP:    {ip}\nTime:  {time.strftime('%Y-%m-%d %H:%M:%S %Z')}\n",
+            reply_to=email,
+        )
+    except Exception as exc:
+        print(f"request_access: email send failed: {exc}")
+
+    return 200, render_generic(
+        f"Thanks, {html.escape(name)} — your request has been received. "
+        "You'll hear back by email once it's reviewed.",
+        show_form=False,
+    )
+
+
+# --- Flow 2: named invites ("/<slug>") --------------------------------------
+
+INVITE_FORM = """<p>{message}</p>
+<p><a class="group-link" href="{group_url}" target="_blank" rel="noopener">
+  Join your reading group on Hypothesis: {group_name}
+</a></p>
+<p>Once you've joined, let us know your email (and your Hypothesis
+username, if you don't mind) so we can set up your reading access.</p>
+<form method="post">
+  <label for="email">Email</label>
+  <input type="email" id="email" name="email" value="{email_value}" required>
+
+  <label for="hypothesis_username">Your Hypothesis username (optional)</label>
+  <input type="text" id="hypothesis_username" name="hypothesis_username">
+
+  <div class="hp" aria-hidden="true">
+    <label for="website">Website</label>
+    <input type="text" id="website" name="website" tabindex="-1" autocomplete="off">
+  </div>
+
+  <button type="submit">Continue</button>
+</form>
+"""
+
+
+def render_invite_form(name: str, record: dict, message: str) -> str:
+    body = INVITE_FORM.format(
+        message=message,
+        group_url=html.escape(record.get("hypothesis_group_url", "")),
+        group_name=html.escape(record.get("hypothesis_group_name", "your group")),
+        email_value=html.escape(record.get("email") or ""),
+    )
+    return page(f"Welcome, {name}", f"Welcome, {html.escape(name)}", body)
+
+
+def render_invite_result(name: str, message: str) -> str:
+    return page(f"Welcome, {name}", f"Welcome, {html.escape(name)}", f"<p>{message}</p>")
+
+
+def render_not_found() -> str:
+    return page(
+        "Not found",
+        "Invite link not recognized",
+        "<p>This invite link isn't recognized. Please double-check the URL, "
+        "or use the <a href=\"/as/request-access\">general request-access form</a> instead.</p>",
+    )
+
+
+def handle_invite_get(slug: str) -> tuple[int, str]:
+    invites = load_invites()
+    record = invites.get(slug)
+    if not record:
+        return 404, render_not_found()
+    name = record.get("name", slug)
+    return 200, render_invite_form(name, record, "Glad to have you reading along.")
+
+
+def handle_invite_post(slug: str, fields: dict, ip: str) -> tuple[int, str]:
+    invites = load_invites()
+    record = invites.get(slug)
+    if not record:
+        return 404, render_not_found()
+    name = record.get("name", slug)
+
+    if fields.get("website"):  # honeypot
+        return 200, render_invite_result(name, "Thanks — you're all set.")
+
+    email = fields.get("email", "").strip()
+    hyp_username = fields.get("hypothesis_username", "").strip()
+
+    if not EMAIL_RE.match(email):
+        return 400, render_invite_form(name, record, "Please enter a valid email address.")
+
+    if _rate_limited(ip):
+        return 429, render_invite_form(name, record, "Please wait a moment before submitting again.")
+
+    known_email = (record.get("email") or "").strip().lower()
+    matches_known = (not known_email) or (email.lower() == known_email)
+
+    update_invite(
+        slug,
+        submitted_email=email,
+        hypothesis_username=hyp_username,
+        submitted_at=time.strftime("%Y-%m-%dT%H:%M:%S%z"),
+        status="whitelisted" if matches_known else "pending_review",
+    )
+
+    if matches_known:
+        try:
+            add_to_whitelist(email)
+        except Exception as exc:
+            print(f"request_access: add_to_whitelist failed for {slug}: {exc}")
+            return 500, render_invite_form(
+                name, record,
+                "Something went wrong granting access — please try again shortly, "
+                "or email rhinusgaleo@gmail.com directly.",
+            )
+        try:
+            send_notification_email(
+                f"Auto-approved: {name} ({slug})",
+                f"{name} (invite '{slug}') confirmed their email and was auto-whitelisted.\n\n"
+                f"Email:               {email}\n"
+                f"Hypothesis username: {hyp_username or '(not given)'}\n"
+                f"IP:                  {ip}\n"
+                f"Time:                {time.strftime('%Y-%m-%d %H:%M:%S %Z')}\n\n"
+                "No action needed unless oauth2-proxy needs a manual reload "
+                "to pick up the new whitelist entry.\n",
+                reply_to=email,
+            )
+        except Exception as exc:
+            print(f"request_access: notification email failed: {exc}")
+        return 200, render_invite_result(
+            name,
+            "You're all set — "
+            '<a href="/as/book/">head to the book here</a>.',
+        )
+
+    # Different email than expected: same manual-review path as the
+    # generic form, just with clearer framing on what's odd about it.
+    try:
+        log_request(
+            name, email,
+            f"INVITE '{slug}' — different email than on file (expected {known_email})",
+            ip,
+        )
+    except Exception as exc:
+        print(f"request_access: log_request failed: {exc}")
+        return 500, render_invite_form(
+            name, record,
+            "Something went wrong on our end — please try again in a few minutes, "
+            "or email rhinusgaleo@gmail.com directly.",
+        )
+    try:
+        send_notification_email(
+            f"Review needed: {name} used a different email ({slug})",
+            f"{name} (invite '{slug}') entered a DIFFERENT email than the one on file.\n\n"
+            f"Expected: {known_email or '(none on file)'}\n"
+            f"Submitted: {email}\n"
+            f"Hypothesis username: {hyp_username or '(not given)'}\n"
+            f"IP:   {ip}\n"
+            f"Time: {time.strftime('%Y-%m-%d %H:%M:%S %Z')}\n\n"
+            "Add the submitted email to /etc/oauth2-proxy/authenticated-emails.txt "
+            "yourself if this checks out.\n",
+            reply_to=email,
+        )
+    except Exception as exc:
+        print(f"request_access: notification email failed: {exc}")
+
+    return 200, render_invite_result(
+        name,
+        "Thanks — that's a different email than we had on file for you, so "
+        "we're double-checking before granting access. You'll hear back shortly.",
+    )
+
+
+# --- HTTP plumbing -----------------------------------------------------------
+
+
+def _rate_limited(ip: str) -> bool:
+    now = time.time()
+    last = _last_submission_by_ip.get(ip, 0)
+    if now - last < RATE_LIMIT_SECONDS:
+        return True
+    _last_submission_by_ip[ip] = now
+    return False
+
+
 class Handler(BaseHTTPRequestHandler):
     server_version = "RequestAccess/1.0"
 
@@ -140,66 +443,25 @@ class Handler(BaseHTTPRequestHandler):
         pass  # Caddy's own access log already records this upstream.
 
     def do_GET(self):
-        if self.path.split("?", 1)[0] not in ("/", ""):
-            self.send_response(404)
-            self.end_headers()
-            return
-        self._send_html(200, render("Fill in your details below."))
+        path = self.path.split("?", 1)[0]
+        if path in ("/", ""):
+            status, body = handle_generic_get()
+        else:
+            status, body = handle_invite_get(path.strip("/"))
+        self._send_html(status, body)
 
     def do_POST(self):
         length = int(self.headers.get("Content-Length", 0))
-        body = self.rfile.read(length).decode("utf-8", errors="replace")
-        fields = {k: v[0] for k, v in parse_qs(body).items()}
-
-        # Honeypot: real visitors never see or fill this field.
-        if fields.get("website"):
-            self._send_html(200, render("Thanks — your request has been received.", show_form=False))
-            return
-
-        name = fields.get("name", "").strip()
-        email = fields.get("email", "").strip()
-        note = fields.get("note", "").strip()
-
-        if not name or not EMAIL_RE.match(email):
-            self._send_html(400, render("Please provide your name and a valid email address."))
-            return
-
+        raw_body = self.rfile.read(length).decode("utf-8", errors="replace")
+        fields = {k: v[0] for k, v in parse_qs(raw_body).items()}
         ip = self.client_address[0]
-        now = time.time()
-        last = _last_submission_by_ip.get(ip, 0)
-        if now - last < RATE_LIMIT_SECONDS:
-            self._send_html(429, render("Please wait a moment before submitting again."))
-            return
-        _last_submission_by_ip[ip] = now
 
-        try:
-            log_request(name, email, note, ip)
-        except Exception as exc:
-            # Can't durably record the request — tell the visitor plainly
-            # rather than dropping the connection, and surface it in the
-            # service's own logs (journalctl) so it gets noticed and fixed.
-            print(f"request_access: log_request failed: {exc}")
-            self._send_html(
-                500,
-                render("Something went wrong on our end — please try again in a few minutes, "
-                       "or email rhinusgaleo@gmail.com directly."),
-            )
-            return
-
-        try:
-            send_owner_email(name, email, note, ip)
-        except Exception as exc:
-            # Request is already durably logged even if the email bounces.
-            print(f"request_access: email send failed: {exc}")
-
-        self._send_html(
-            200,
-            render(
-                f"Thanks, {html.escape(name)} — your request has been received. "
-                "You'll hear back by email once it's reviewed.",
-                show_form=False,
-            ),
-        )
+        path = self.path.split("?", 1)[0]
+        if path in ("/", ""):
+            status, body = handle_generic_post(fields, ip)
+        else:
+            status, body = handle_invite_post(path.strip("/"), fields, ip)
+        self._send_html(status, body)
 
     def _send_html(self, status: int, body: str) -> None:
         encoded = body.encode("utf-8")
