@@ -114,7 +114,10 @@ secondshanti.org {
 	# server/secondshanti-request-access.service) serves the form, logs
 	# each submission, and emails the owner for manual review. It never
 	# grants access itself — see server/README.md for the review workflow.
-	handle /as/request-access* {
+	# handle_path (not handle) strips the /as/request-access prefix before
+	# proxying — the backend only knows about "/", since it's a single-route
+	# script, not a full app that understands its own mount point.
+	handle_path /as/request-access* {
 		reverse_proxy 127.0.0.1:8090
 	}
 
