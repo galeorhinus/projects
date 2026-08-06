@@ -3,3 +3,4 @@ tmp.md
 downloads/
 __pycache__/
 *.pyc
+server/invites.json
