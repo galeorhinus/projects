@@ -24,20 +24,16 @@ The botanical metaphor translates *dhātuḥ* as root. Sanskrit's architecture t
 
 Sanskrit already contains a design specification for compact engineered form. The epigraph gives the classical **सूत्रलक्षणम् (*sūtra-lakṣaṇam*)** — the defining characteristics by which a true *sūtra* is known. A *sūtra* should be:
 
-1. **अल्पाक्षरम् (*alpākṣaram*)** — few-syllabled: compression.
+1. **अल्पाक्षरम् (*alpākṣaram*)** — few-syllabled: compactness.
 2. **असंदिग्धम् (*asaṃdigdham*)** — unambiguous: distinguishability.
 3. **सारवत् (*sāravat*)** — essence-bearing: semantic force.
-4. **विश्वतोमुखम् (*viśvatomukham*)** — facing in every direction: usable range.
+4. **विश्वतोमुखम् (*viśvatomukham*)** — facing in every direction: generative range.
 5. **अस्तोभम् (*astobham*)** — without padding: economy.
-6. **अनवद्यम् (*anavadyam*)** — faultless: stable form.
+6. **अनवद्यम् (*anavadyam*)** — faultless: stability.
 
 A *sūtra* is deliberately composed. Its maker removes excess, protects clarity, and gives a short form enough structure to work in many settings. Those visible actions supply a design test for the smaller *dhātuḥ*. If the same six qualities recur in the semantic atom, the organizing principle has repeated across scale.
 
-The verse gives the six characteristics in its own order. The tests proceed in engineering order:
-
-> Make it small. Remove waste. Prevent ambiguity. Give it meaning. Let it face many directions. Preserve identity through use.
-
-That sequence begins with construction because the *dhātuḥ* must first be visible as an assembled unit. Only then can the analysis test the six criteria at the atomic scale.
+The verse gives the six characteristics in its own order. Before applying them in engineering order, the chapter first makes the *dhātuḥ* visible as an assembled unit. The analysis can then test the six criteria at the atomic scale.
 
 ## 10.2 From Sonomers to Semantic Atoms
 
@@ -104,7 +100,7 @@ At atomic scale, the same timing shorthand applies: **C** is the consonantal eve
 
 That means a *dhātuḥ* is never merely a sequence of sounds, but rather a strictly measured construction: while ⟪कृ⟫ is C + V1 and ⟪गम्⟫ is C + V1 + C, ⟪भू⟫ is C + V2, constantly demonstrating that the precise timing is engineered directly inside the label.
 
-The hexagon visualization displays the measure. Consonant slots are narrow, short-vowel slots are medium, long-vowel slots are wide.
+The hexagon visualization turns that timing into width: consonant slots are narrow, short-vowel slots are medium, long-vowel slots are wide.
 
 ![Ten *dhātavaḥ* across the *mātrā* envelope, from the 1-*mātrā* floor to the 5½-*mātrā* cliff.](figures/building_dhatuh/matra_envelope.svg){#fig:building-dhatuh-matra-envelope width=100%}
 
@@ -130,69 +126,50 @@ Three layers structure the atom:
 - **Filling** — the specific *varṇāḥ* placed into the scaffold: *g-a-m*, *n-a-m*, *p-a-c*.
 - **Atom / *dhātuḥ*** — the stable semantic unit produced by the filled scaffold.
 
-Bṛhaspati's **वाचमक्रत (*vācam akrata*)** named formed Speech at the scale of Speech. The same operation now appears at atomic scale: selected sonomers enter measured scaffolds, and the filled scaffold becomes a semantic atom. The verse presents formed Speech; the *dhātuḥ* shows the first semantic layer of that formation.
+In Bṛhaspati’s mantra, the wise **मनसा वाचमक्रत (*manasā vācam akrata*)** — formed Speech with the mind. This section now demonstrates the same operation at the atomic scale: selected sonomers enter measured scaffolds, and each filled scaffold becomes a semantic atom. The mantra describes the formation of Speech as a whole; the *dhātuḥ* reveals one of the semantic units from which that formed Speech is built.
 
-Now the tests can begin.
+## 10.5 Six Tests for an Engineered Atom
 
-## 10.5 The Six Atomic Tests
+The claim here is very specific: the *dhātuḥ* is an engineered semantic atom. The epigraph lists six characteristics for recognizing the deliberate construction of a *sūtra*. The next six sections apply those characteristics to the *dhātuḥ*.
 
-The construction is now clear: sonomers enter timed scaffolds, the filled scaffold becomes a semantic atom, and the atom later bonds into *śabda*. This is the construction tested against the *sūtra* specification.
+- **§10.6 — अल्पाक्षरम् (*alpākṣaram*)** — Compactness.
+- **§10.7 — अस्तोभम् (*astobham*)** — Economy.
+- **§10.8 — असंदिग्धम् (*asaṃdigdham*)** — Distinguishability.
+- **§10.9 — सारवत् (*sāravat*)** — Semantic Force.
+- **§10.10 — विश्वतोमुखम् (*viśvatomukham*)** — Generative Range.
+- **§10.11 — अनवद्यम् (*anavadyam*)** — Stability.
 
-The verse gave the six defining characteristics in its own order. The engineering sequence from §10.2 now becomes six atomic criteria:
+If the *dhātuḥ* displays all six, its structure carries the same signatures of deliberate design at the atomic scale.
 
-1. **अल्पाक्षरम् (*alpākṣaram*)** — compact form.
-2. **अस्तोभम् (*astobham*)** — no padding.
-3. **असंदिग्धम् (*asaṃdigdham*)** — distinct form.
-4. **सारवत् (*sāravat*)** — essence-bearing form.
-5. **विश्वतोमुखम् (*viśvatomukham*)** — many-facing form.
-6. **अनवद्यम् (*anavadyam*)** — stable form.
+## 10.6 अल्पाक्षरम् (*Alpākṣaram*) — Compactness
 
-If the *dhātuḥ* satisfies these criteria, the comparison to the *sūtra* is not decorative. The same design signature has reappeared one scale lower.
-
-## 10.6 अल्पाक्षरम् (*Alpākṣaram*) — Make It Small
-
-The first test is size. If the semantic atom is engineered for compactness, the inventory should peak near the smallest forms that can still express distinct meanings, with a sharp cliff beyond.
+The first test is compactness. The inventory can be measured in two ways: by counting the sonomers within each *dhātuḥ*, and by counting the *mātrās* required to pronounce it. An engineered compact inventory should remain concentrated under both measurements.
 
 ![Sonomer-count distribution across the 2,168 *dhātavaḥ*.](figures/building_dhatuh/particle_count.svg){#fig:building-dhatuh-particle-count width=100%}
 
-The sonomer-count peak sits at three: **58.2%** of the inventory. Four-sonomer atoms remain heavy at **25.7%**. Five-sonomer atoms drop to **3.6%**. Six-and-above is the cliff at **0.5%**. The inventory is not drifting toward length. It concentrates identity into compact forms.
+Three-sonomer atoms form the largest group, accounting for **58.2%** of the inventory. Four-sonomer atoms add another **25.7%**. Together, these two compact sizes contain more than four-fifths of all *dhātavaḥ*. The distribution then falls sharply: five-sonomer atoms account for **3.6%**, while atoms with six or more sonomers account for only **0.5%**.
 
-The same question now moves from sonomer count to timing. If the atom is compact by design, the *mātrā* distribution should show the same signature: a narrow band, a peak near the minimum, a cliff past it.
+Sonomer count gives only one dimension of size because different sound combinations occupy different amounts of time. The second figure measures the complete *mātrā* duration of each atom.
 
 ![Distribution of the 2,168 *dhātavaḥ* across *mātrā* values.](figures/building_dhatuh/matra_distribution.svg){#fig:building-dhatuh-matra-distribution width=100%}
 
-The timing distribution repeats the same signal. The 2-*mātrā* envelope alone contains almost half the inventory: **998 entries, or 46.0%**. Add the 2½-*mātrā* atoms and the coverage rises past **78%**. By 3 *mātrās*, it reaches **94%**.
+The timing distribution concentrates even more strongly. The 2-*mātrā* envelope alone contains **998 entries, or 46.0%** of the inventory. Including the 2½-*mātrā* atoms raises the coverage above **78%**. By 3 *mātrās*, the cumulative share reaches **94%**. Every value from 4 *mātrās* onward together accounts for less than **3%**.
 
-Then the cliff appears. Every value from 4 *mātrās* onward together accounts for under **3%** of the inventory. The architecture commits to a narrow band of measured time.
+Both measurements lead to the same conclusion: the inventory concentrates meaning into compact atoms. The *dhātuḥ* passes the first test. It is *alpākṣaram* at the atomic scale.
 
-Sonomer count and *mātrā* count agree: the inventory concentrates identity into compact atoms. The *dhātuḥ* passes the first test. It is *alpākṣaram* at the atomic scale.
-
-## 10.7 अस्तोभम् (*Astobham*) — Remove Waste
+## 10.7 अस्तोभम् (*Astobham*) — Economy
 
 Smallness alone is not enough. A system can be short and still wasteful if its shapes are arbitrary, bloated, or ungoverned. **अस्तोभम् (*astobham*)** means without padding — no filler, no unnecessary bulk, no sonomer added merely to fill space.
 
-The scaffold level is where this test becomes visible. If the architecture has no padding, a small number of measured shapes should account for most of the inventory, while the rest should remain bounded and purposeful.
+We can test for padding by examining how the *dhātavaḥ* are distributed across the available scaffolds. If Sanskrit uses these scaffolds economically, a small number should contain most of the inventory, while the remaining scaffolds should serve less common sound-shapes.
 
 The **धातुपाठ (*Dhātupāṭha*)** lists 2,168 *dhātavaḥ* across ten **गणाः (*gaṇāḥ*)**. After **अनुबन्ध (*anubandha*)** stripping — removing Pāṇini's metadata tags from the pronounced form — the inventory inhabits 47 observed *racanā* scaffolds. The distribution is not flat. Ten scaffolds account for **91.0%** of the inventory.[NOTE: dhatupatha-empirical-distribution]
 
 This measures the architecture before *prayoga*, before any speaker deploys the atoms. The *Dhātupāṭha* inventory already concentrates into a small family of measured scaffolds. A Zipf-like usage pattern can explain why a few forms become common in speech, but the inventory of semantic atoms is already scaffolded this tightly before use begins.[NOTE: zipf-rank-frequency]
 
-![The top ten *racanāḥ* by count across the 2,168-entry *Dhātupāṭha*.](figures/building_dhatuh/top_ten_racanas.svg){#fig:building-dhatuh-top-ten-racanas width=100%}
+![Ten *racanā* scaffolds account for 91.0% of the *Dhātupāṭha* inventory. The remaining thirty-seven scaffolds account for 9.0%.](figures/building_dhatuh/astobham_scaffold_economy.svg){#fig:building-dhatuh-scaffold-economy width=100%}
 
-The chart shows the distribution shape. The roster below lists each scaffold by the *-ādi* convention and gives its *mātrā* budget, count, share, and sample *dhātavaḥ*. The icon is the scaffold's visual signature; the *-ādi* name is the reader-facing name.
-
-| Scaffold | *Mātrā* | *Dhātavaḥ* | Example *dhātavaḥ* |
-|:-:|:-:|---:|---|
-| <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CV1C scaffold"> **गमादि (*gamādi*)** | 2 | 926 (42.7%) | गम्, पच्, वद्, यज्, हन् |
-| <img src="figures/_shared/icons/scaffold_ccv1c_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CCV1C scaffold"> **स्पदादि (*spadādi*)** | 2½ | 232 (10.7%) | स्पद्, क्लम्, स्कुद्, क्लिद्, श्विद् |
-| <img src="figures/_shared/icons/scaffold_cv1cc_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CV1CC scaffold"> **मन्थादि (*manthādi*)** | 2½ | 216 (10.0%) | मन्थ्, कुन्थ्, कत्थ्, कर्द्, पर्द् |
-| <img src="figures/_shared/icons/scaffold_cv2c_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CV2C scaffold"> **वाचादि (*vācādi*)** | 3 | 214 (9.9%) | वाच्, बाध्, गाध्, नाथ्, शास् |
-| <img src="figures/_shared/icons/scaffold_cv2_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CV2 scaffold"> **धादि (*dhādi*)** | 2½ | 89 (4.1%) | धा, भू, दा, या, पा |
-| <img src="figures/_shared/icons/scaffold_v1c_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="V1C scaffold"> **इषादि (*iṣādi*)** | 1½ | 70 (3.2%) | इष्, अत्, अद्, अश्, अक् |
-| <img src="figures/_shared/icons/scaffold_ccv2c_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CCV2C scaffold"> **ह्रादादि (*hrādādi*)** | 3½ | 65 (3.0%) | ह्राद्, ह्लाद्, स्वाद्, श्लोक्, स्रोक् |
-| <img src="figures/_shared/icons/scaffold_cv1_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CV1 scaffold"> **क्रादि (*krādi*)** | 1½ | 64 (3.0%) | कृ, भृ, हृ, धृ, सृ |
-| <img src="figures/_shared/icons/scaffold_ccv2_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CCV2 scaffold"> **स्थादि (*sthādi*)** | 3 | 49 (2.3%) | ज्ञा, श्रा, ग्ला, स्ना, घ्रा |
-| <img src="figures/_shared/icons/scaffold_ccv1cc_gray.svg" style="height:1em;vertical-align:-0.25em;transform:scale(1.8);transform-origin:center;display:inline-block" alt="CCV1CC scaffold"> **स्पर्धादि (*spardhādi*)** | 3 | 48 (2.2%) | स्पर्ध्, स्वर्द्, स्यन्द्, क्रुञ्च्, त्वञ्च् |
+The figure places the distribution and the scaffold roster together. Each row gives the scaffold's visual signature, its *-ādi* name, its *mātrā* budget, sample *dhātavaḥ*, inventory count, and share. The final row gathers the remaining thirty-seven scaffolds and shows the full range of their *mātrā* budgets.
 
 The *gamādi* <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> alone accounts for **42.7%** of the inventory; ten scaffolds together cover **91.0%**. The conclusion is not that Sanskrit has short words. The conclusion is that Sanskrit uses a small number of measured scaffolds to organize the overwhelming majority of its semantic atoms. The architecture is not merely compact. It is selective.
 
@@ -210,7 +187,7 @@ The skeptic's question presses here: *if the system is so compact, why have a ta
 
 The modal scaffolds are tight. The tail is small. The range is structured. The *dhātuḥ* passes the second test. It is *astobham*: compact without padding, varied without waste.
 
-## 10.8 असंदिग्धम् (*Asaṃdigdham*) — Prevent Ambiguity
+## 10.8 असंदिग्धम् (*Asaṃdigdham*) — Distinguishability
 
 Compression and economy create the next danger. If the atoms become too small, they can begin to blur. A language cannot preserve meaning if its smallest forms collapse into one another.
 
@@ -220,11 +197,7 @@ The cleanest test compares scaffolds inside the same timing budget. If duration 
 
 When Sanskrit has the same amount of pronunciation time available, it favors a more defined scaffold over a bare vowel and spends that time creating acoustic edges.
 
-| *Mātrā* budget | Inventory entries | Dominant scaffold | Share inside the bucket | Distinguishability signal |
-|---:|---:|---|---:|---|
-| 2 | 886 | **गमादि (*gamādi*)** <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> | 819 / 886 = **92.4%** | Same time-budget permits a bare long-vowel form; the system overwhelmingly chooses a short vowel bracketed by two consonantal contacts. |
-| 2½ | 520 | **स्पदादि (*spadādi*)** <img src="figures/_shared/icons/scaffold_ccv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV1C scaffold"> + **मन्थादि (*manthādi*)** <img src="figures/_shared/icons/scaffold_cv1cc_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1CC scaffold"> | 412 / 520 = **79.2%** | The system spends the extra half-*mātrā* on another consonantal edge rather than collapsing into simpler long-vowel scaffolds. |
-| 3 | 231 | **वाचादि (*vācādi*)** <img src="figures/_shared/icons/scaffold_cv2c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV2C scaffold"> + **स्थादि (*sthādi*)** <img src="figures/_shared/icons/scaffold_ccv2_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV2 scaffold"> + **स्पर्धादि (*spardhādi*)** <img src="figures/_shared/icons/scaffold_ccv1cc_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CCV1CC scaffold"> | 193 / 231 = **83.5%** | The bucket does not smear into arbitrary length; three scaffolds perform the work through either long-vowel signature or dense consonantal framing. |
+![Within each *mātrā* budget, Sanskrit concentrates the inventory in scaffolds with defined consonantal edges.](figures/building_dhatuh/asandigdham_distinguishability_table.svg){#fig:building-dhatuh-asandigdham-distinguishability width=100%}
 
 The 2-*mātrā* row is decisive. *Gamādi* <img src="figures/_shared/icons/scaffold_cv1c_gray.svg" style="height:1em;vertical-align:-0.2em" alt="CV1C scaffold"> and the bare long-vowel form occupy the same timing budget. The system chooses *gamādi* at **92.4%** — three sonomers, two consonantal contacts — over the simpler one-vowel form. If the only goal were duration-minimization, this preference would make no sense. Sanskrit is optimizing for contrast, not mere length.
 
@@ -234,7 +207,7 @@ The 2½-*mātrā* row repeats the verdict. *Spadādi* <img src="figures/_shared/
 
 Compactness creates the envelope. Economy removes waste. Distinguishability chooses the scaffold inside the envelope. The *dhātuḥ* passes the third test. It is *asaṃdigdham*: small without becoming blurry.
 
-## 10.9 सारवत् (*Sāravat*) — Give It Meaning
+## 10.9 सारवत् (*Sāravat*) — Semantic Force
 
 A compact and distinguishable form is still not enough. It has to preserve essence. That is **सारवत् (*sāravat*)**: substance-bearing, essence-bearing, not empty shape.
 
@@ -260,7 +233,7 @@ The Vedic context grounds the claim because the *Vedas* are poems. Sound-meaning
 
 Engineering is not the enemy of poetry. Engineering is what lets the poetry strike home. The *dhātuḥ* passes the fourth test. It is *sāravat*: compact form with semantic force.
 
-## 10.10 विश्वतोमुखम् (*Viśvatomukham*) — Let It Face Many Directions
+## 10.10 विश्वतोमुखम् (*Viśvatomukham*) — Generative Range
 
 A *sūtra* must be **विश्वतोमुखम् (*viśvatomukham*)** — facing in every direction. It must apply beyond one narrow case. The atomic equivalent is not universal application in the grammatical sense. It is generative reach: one tiny atom must face many grammatical and semantic directions.
 
@@ -304,7 +277,7 @@ The measured scaffold persists when the analysis moves from the *Dhātupāṭha*
 
 The *dhātuḥ* passes the fifth test. It is *viśvatomukham*: one compact atom can face many directions without losing the center from which those directions unfold.
 
-## 10.11 अनवद्यम् (*Anavadyam*) — Preserve Identity Through Use
+## 10.11 अनवद्यम् (*Anavadyam*) — Stability
 
 The final test is stability. **अनवद्यम् (*anavadyam*)** means faultless, without defect. At the atomic scale, the defect to test for is loss of identity. If the atom disappears when it bonds, then it was never an atom. If the atom survives bonding and transformation, the architecture has preserved its unit.
 

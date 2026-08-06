@@ -256,6 +256,75 @@ PDF_IMAGE_MAX_WIDTH_PX = 1800
 FROM_SVG_RE = re.compile(r"^(?P<base>.+)\.from[-_](?P<chain>[A-Za-z0-9_-]+)\.svg$")
 
 
+# Inline scaffold icons (CLAUDE.md "Scaffold-icon deployment in body text")
+# are authored as raw HTML <img> so they render in Markdown/HTML preview.
+# Pandoc's LaTeX writer drops raw HTML wholesale, so they simply vanish from
+# the PDF build with no warning. Fix it at assembly time: parse height /
+# vertical-align / scale off the style attribute, ensure a vector-PDF
+# sibling of the icon SVG exists, and emit the same raw-LaTeX inline-
+# attribute pattern already used for `\hfill` elsewhere in this pipeline.
+SCAFFOLD_ICON_IMG_RE = re.compile(
+    r'<img\s+src="(?P<src>figures/_shared/icons/scaffold_[a-z0-9]+_(?:gray|black)\.svg)"'
+    r'\s+style="(?P<style>[^"]*)"'
+    r'\s+alt="[^"]*"\s*/?>'
+)
+
+
+def _css_prop(style: str, prop: str, default: str = "") -> str:
+    m = re.search(rf"{prop}\s*:\s*([^;]+)", style)
+    return m.group(1).strip() if m else default
+
+
+def ensure_icon_pdf(svg_path: Path) -> Path | None:
+    """Return a cached vector-PDF sibling of an icon SVG, regenerating via
+    rsvg-convert when missing or stale. Returns None if rsvg-convert isn't
+    on PATH; the caller then leaves the icon as raw HTML (silently dropped
+    by pandoc, same as today) rather than failing the whole build."""
+    pdf_path = svg_path.with_suffix(".pdf")
+    if pdf_path.exists() and pdf_path.stat().st_mtime >= svg_path.stat().st_mtime:
+        return pdf_path
+    rsvg = shutil.which("rsvg-convert")
+    if not rsvg:
+        return None
+    result = subprocess.run(
+        [rsvg, "-f", "pdf", "-o", str(pdf_path), str(svg_path)],
+        capture_output=True, text=True,
+    )
+    if result.returncode != 0:
+        print(
+            f"  WARNING: rsvg-convert failed for {svg_path.relative_to(BOOK_DIR)}: "
+            f"{result.stderr.strip()}",
+            file=sys.stderr,
+        )
+        return None
+    return pdf_path
+
+
+def render_scaffold_icons_for_pdf(md_text: str) -> str:
+    """Replace raw-HTML inline scaffold icons with a raw-LaTeX
+    \\includegraphics call, so they survive into the PDF instead of being
+    silently dropped by pandoc's non-HTML writers."""
+    def replace(m: re.Match) -> str:
+        svg_path = BOOK_DIR / m.group("src")
+        if not svg_path.exists():
+            return m.group(0)
+        pdf_path = ensure_icon_pdf(svg_path)
+        if pdf_path is None:
+            return m.group(0)
+        style = m.group("style")
+        height = _css_prop(style, "height", "1em")
+        valign = _css_prop(style, "vertical-align", "0pt")
+        scale_m = re.search(r"scale\(([\d.]+)\)", style)
+        pdf_rel = pdf_path.relative_to(BOOK_DIR).as_posix()
+        inner = f"\\includegraphics[height={height}]{{{pdf_rel}}}"
+        if scale_m and scale_m.group(1) != "1":
+            inner = f"\\scalebox{{{scale_m.group(1)}}}{{{inner}}}"
+        latex = f"\\raisebox{{{valign}}}{{{inner}}}"
+        return f"`{latex}`{{=latex}}"
+
+    return SCAFFOLD_ICON_IMG_RE.sub(replace, md_text)
+
+
 def parse_from_svg_source(path: Path) -> tuple[Path, str] | None:
     """Return (canonical_path, lineage_chain) for a figures/*.from*.svg source.
 
@@ -829,6 +898,10 @@ def cmd_assemble(endnotes_mode: str = "full", promote_svgs: bool = True) -> int:
 
     assembled = "".join(chunks)
     assembled = prefer_png_images_for_pdf(assembled)
+    # Raw-HTML <img> scaffold icons are otherwise dropped outright by
+    # pandoc's LaTeX writer — convert them to a raw-LaTeX \includegraphics
+    # call before the script-wrapping pass below.
+    assembled = render_scaffold_icons_for_pdf(assembled)
     # Wrap non-Latin scripts in raw-LaTeX font-switch commands. See
     # wrap_scripts_for_latex / SCRIPT_WRAPS for the per-script ranges.
     assembled = wrap_scripts_for_latex(assembled)
