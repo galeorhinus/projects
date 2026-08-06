@@ -1,0 +1,196 @@
+# Caddyfile — secondshanti.org + atomicsanskrit.org
+#
+# secondshanti.org (primary site — book, essays, private tier):
+#   /as             — public landing page.
+#   /as/essays/*    — public essay shelf.
+#   /as/private/*   — gated essay shelf (advance-reader tier).
+#   /as/book/*      — Atomic Sanskrit manuscript.
+#   Both /as/private/* and /as/book/* are gated by Google OAuth
+#   (oauth2-proxy), whitelist at /etc/oauth2-proxy/authenticated-emails.txt.
+#   /               — reserved for future volumes / projects.
+#
+# atomicsanskrit.org (aliased vanity domain):
+#   All paths 308-redirect to https://secondshanti.org/as/ (path dropped).
+#
+# Source of truth for this file lives in the Atomic Sanskrit repo at
+# Caddyfile; deploy installs it to /etc/caddy/Caddyfile.
+
+{
+	email rhinusgaleo@gmail.com
+}
+
+# Aliased vanity domain — everything under it lands at the canonical URL.
+atomicsanskrit.org, www.atomicsanskrit.org {
+	redir https://secondshanti.org/as/ 308
+}
+
+secondshanti.org {
+	encode zstd gzip
+
+	# Access log — JSON, one record per request.
+	log {
+		output file /var/log/caddy/access.log {
+			roll_size 10mb
+			roll_keep 5
+		}
+		format json
+	}
+
+	# Global root — URL paths under /as/ mirror the disk layout under
+	# /var/www/as/.
+	root * /var/www
+
+	# Redirect /as to /as/ so relative URLs resolve correctly.
+	redir /as /as/ 308
+
+	# Favicon at the domain apex. Browsers cold-request /favicon.ico
+	# before HTML parses, so any page load (even the 404-returning
+	# secondshanti.org/ root) triggers a favicon fetch. Rewrite serves the
+	# /as/ favicons transparently — no path shows in the URL bar.
+	rewrite /favicon.ico /as/favicon.ico
+	rewrite /favicon.svg /as/favicon.svg
+
+	# Backward-compatibility — URLs that lived at /as/<x>/ before the
+	# 2026-05-27 restructure now live at /as/book/<x>/. The 35 chapter
+	# slugs plus the two asset directories (css, figures) are redirected;
+	# nothing else under /as/ was externally reachable.
+	@legacy path_regexp legacy ^/as/(about-series|acknowledgements|adivadya|apabhramsa|audiography|aural|baking|botanical|building-dhatuh|building-kriya|building-vakya|by-the-numbers|calibration|codification-story|css|dhatuh|encyclopaedic|endnotes|epilogue|figures|fourth-abrahamic|glossary|language-factory|life-after-pie|mapping-mouth|note-on-notes|pie-in-sky|preface|preservation|prologue|retroflex|seekers|siddha|strategic|superset|vedic-carrier|wrong-question)(/.*)?$
+	redir @legacy /as/book/{re.legacy.1}{re.legacy.2} 308
+
+	# /as/essays/* — public essay shelf.
+	# try_files turns /as/essays/<slug> into /as/essays/<slug>/index.html
+	# when the bare path is not itself a file.
+	handle /as/essays/* {
+		try_files {path} {path}/index.html
+		file_server {
+			index index.html
+		}
+	}
+
+	# /as/private/* — gated essay shelf (advance-reader tier added in
+	# a1058c1). Same Google OAuth gate as /as/book/* (2026-08-06) — same
+	# reviewer whitelist, and a login on one path covers the other via the
+	# shared oauth2-proxy session cookie.
+	handle /as/private/* {
+		reverse_proxy 127.0.0.1:4180 {
+			header_up -If-None-Match
+			header_up -If-Modified-Since
+		}
+	}
+
+	# /as/book/* — gated book content. Auth moved to Google OAuth (via
+	# oauth2-proxy) 2026-08-06; basicauth retired for this path. The actual
+	# file-serving logic (figure rewrites, try_files, file_server) now lives
+	# in the loopback-only site block at the bottom of this file, reachable
+	# only through oauth2-proxy after a successful login.
+	handle /as/book/* {
+		# Strip conditional-cache headers before they reach oauth2-proxy /
+		# the internal origin. Browsers that cached a page from before the
+		# 2026-08-06 OAuth cutover carry a still-valid ETag for the
+		# (unchanged) file, which made the internal origin correctly answer
+		# 304 — but something in the oauth2-proxy relay turned that into a
+		# 200 with an empty body instead of a clean 304, i.e. a blank page.
+		# Always fetching the full body here sidesteps that; the browser
+		# still caches normally against this layer's own responses.
+		reverse_proxy 127.0.0.1:4180 {
+			header_up -If-None-Match
+			header_up -If-Modified-Since
+		}
+	}
+
+	# oauth2-proxy's fixed internal endpoints (callback, sign-in start,
+	# sign-out, userinfo, ...) always live at bare /oauth2/*, independent of
+	# whatever path under /as/ triggered the login. Needed by any route that
+	# proxies to oauth2-proxy below.
+	handle /oauth2/* {
+		reverse_proxy 127.0.0.1:4180
+	}
+
+	# /as/* — everything else under /as/, including the bare /as/
+	# landing page at /var/www/as/index.html.
+	handle /as/* {
+		file_server {
+			index index.html
+		}
+	}
+
+	# Everything else under secondshanti.org/ — reserved for future
+	# volumes / projects. Returns 404 for now (no content yet).
+	handle {
+		respond "Not Found" 404
+	}
+}
+
+# Loopback-only listener — the real /as/book/* content. Not reachable from
+# outside this machine; oauth2-proxy (systemd service, listening on
+# 127.0.0.1:4180) is the only client, and only after a successful Google
+# login against the authenticated-emails.txt whitelist. The public
+# secondshanti.org block above proxies /as/book/* to oauth2-proxy, which
+# proxies authenticated requests here.
+http://:18080 {
+	# No host in the site address on purpose — oauth2-proxy correctly
+	# forwards the original client's Host header (secondshanti.org) here,
+	# and a site address of "127.0.0.1:18080" would match on THAT host too,
+	# not just the bind address, causing every proxied request to miss and
+	# fall through to an empty 200. `bind` alone restricts the socket;
+	# matching stays host-agnostic.
+	bind 127.0.0.1
+
+	root * /var/www
+
+	# Figures reorg 2026-06-07 — legacy URLs under
+	# /as/book/figures/build/<chapter>_<file>.svg now live at
+	# /as/book/figures/<chapter>/<file>.svg. The current chapter
+	# HTML already uses the new paths, so these rewrites only fire
+	# for externally cached old URLs. Rewrite (not redir) keeps the
+	# old URL working transparently.
+
+	# Special cases (more specific than the generic chapter rule;
+	# must match BEFORE the generic chapter regex to win).
+
+	# icons moved from figures/icons/ → figures/_shared/icons/
+	@fig_icons         path_regexp ico ^/as/book/figures/icons/(.+)$
+	rewrite @fig_icons              /as/book/figures/_shared/icons/{re.ico.1}
+
+	# vocal_tract toolkit subdir
+	@fig_vt            path_regexp vt ^/as/book/figures/build/vocal_tract/(overlay_.+|scatter_.+|example_vargas\.svg)$
+	rewrite @fig_vt                 /as/book/figures/_shared/toolkits/vocal_tract/output/{re.vt.1}
+
+	# about_series subdir (kept its own folder; chapter prefix dropped)
+	@fig_about_series  path_regexp abs ^/as/book/figures/build/about_series/(.+)$
+	rewrite @fig_about_series       /as/book/figures/about_series/{re.abs.1}
+
+	# Ch 11 valency series renamed from ch11_valency_* → valency_*
+	@fig_ch11_valency  path_regexp c11 ^/as/book/figures/build/ch11_valency_(.+)$
+	rewrite @fig_ch11_valency       /as/book/figures/building_kriya/valency_{re.c11.1}
+
+	# Single odd file
+	rewrite /as/book/figures/build/claude_dhatu_foundry.svg /as/book/figures/building_dhatuh/claude_dhatu_foundry.svg
+
+	# Generic per-chapter rule: /as/book/figures/build/<chapter>_<file>
+	# → /as/book/figures/<chapter>/<file>. The chapter alternation
+	# must enumerate every chapter — using (.+) for the chapter would
+	# also capture the filename's underscores ambiguously.
+	@fig_chapter       path_regexp chp ^/as/book/figures/build/(adivadya|apabhramsa|audiography|building_dhatuh|building_kriya|building_vakya|fourth_abrahamic|ganah|mapping_mouth|pie_in_sky|siddha_grammar|strategic)_(.+)$
+	rewrite @fig_chapter            /as/book/figures/{re.chp.1}/{re.chp.2}
+
+	# preface_*.svg → preface_modes/<name>.svg (special: folder renamed)
+	@fig_preface       path_regexp pfc ^/as/book/figures/build/preface_(.+)$
+	rewrite @fig_preface            /as/book/figures/preface_modes/{re.pfc.1}
+
+	handle /as/book/* {
+		try_files {path} {path}/index.html
+		file_server {
+			index index.html
+		}
+	}
+	handle /as/private/* {
+		try_files {path} {path}/index.html
+		file_server {
+			index index.html
+		}
+	}
+	handle {
+		respond "Not Found" 404
+	}
+}
