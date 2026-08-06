@@ -32,10 +32,6 @@ This architecture can then be extended into human conduct, relationships among l
 
 Rāma embodies the same calibrant at the human scale. *Saṃskṛti* extends it across the civilizational scale. The recurrence across these scales is the fractal architecture of **सनातन (*Sanātan*)**.
 
-**Radiant:** how it reaches others.
-**Calibrant:** what it offers them.
-**Fractal:** how it becomes civilization.
-
 The Vedas bond Sanskrit with ***saṃskṛti***: they encode civilizational architecture in Sanskrit and carry that architecture into the life of the civilization through continuous transmission. Sanskrit is therefore ***saṃskṛti*** in linguistic form. It is radiant because it shares forms with other languages without requiring them to become Sanskrit. It is a calibrant because its invariant architecture remains available to everyone without placing a central office in command. It is fractal because the same distributed order can recur and scale beyond language. Together, these three qualities form the linguistic foundation of *Sanātan*.
 
 Forthcoming volumes take that recurrence from language into civilizational form. *Atomic Sanskrit* examines a linguistic architecture that remains alive and complete. Later volumes begin with the civilizational structures, memories, and surviving fragments preserved by the Hindu continuum. They develop a political architecture, an economic architecture, and other possible expressions of the same Vedic depth.
