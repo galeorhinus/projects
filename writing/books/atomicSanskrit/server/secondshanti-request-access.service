@@ -1,0 +1,20 @@
+[Unit]
+Description=Atomic Sanskrit — request-access form handler
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /opt/secondshanti/request_access.py
+Restart=on-failure
+RestartSec=5
+User=www-data
+Group=www-data
+
+# Loopback-only service; no elevated privileges needed.
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ReadWritePaths=/var/lib/secondshanti
+
+[Install]
+WantedBy=multi-user.target

@@ -7,6 +7,8 @@
 #   /as/book/*      — Atomic Sanskrit manuscript.
 #   Both /as/private/* and /as/book/* are gated by Google OAuth
 #   (oauth2-proxy), whitelist at /etc/oauth2-proxy/authenticated-emails.txt.
+#   /as/request-access — public form for people without a whitelisted
+#   email yet; proxies to the loopback service in server/request_access.py.
 #   /               — reserved for future volumes / projects.
 #
 # atomicsanskrit.org (aliased vanity domain):
@@ -104,6 +106,16 @@ secondshanti.org {
 	# proxies to oauth2-proxy below.
 	handle /oauth2/* {
 		reverse_proxy 127.0.0.1:4180
+	}
+
+	# /as/request-access — public, deliberately NOT behind oauth2-proxy.
+	# This is how someone WITHOUT a whitelisted email gets in touch: the
+	# loopback service at :8090 (server/request_access.py, systemd unit
+	# server/secondshanti-request-access.service) serves the form, logs
+	# each submission, and emails the owner for manual review. It never
+	# grants access itself — see server/README.md for the review workflow.
+	handle /as/request-access* {
+		reverse_proxy 127.0.0.1:8090
 	}
 
 	# /as/* — everything else under /as/, including the bare /as/
