@@ -97,6 +97,12 @@ PAGE_HTML = """<!doctype html>
   }}
   .hp {{ position: absolute; left: -9999px; }}
   p.note {{ color: #666; font-size: 0.9em; }}
+  .explainer {{
+    background: #f2ede2; border: 1px solid #e2dac9; border-radius: 4px;
+    padding: 0.8em 1.2em; margin-top: 1.2em;
+  }}
+  .explainer ol {{ margin: 0.6em 0 0.2em; padding-left: 1.3em; }}
+  .explainer li {{ margin-top: 0.4em; }}
 </style>
 </head><body>
 <h1>{heading}</h1>
@@ -272,16 +278,32 @@ def handle_generic_post(fields: dict, ip: str) -> tuple[int, str]:
 # --- Flow 2: named invites ("/<slug>") --------------------------------------
 
 INVITE_FORM = """<p>{message}</p>
+
+<div class="explainer">
+  <p><strong>What is Hypothesis?</strong> It's a free tool for annotating
+  directly on the book's pages as you read — highlight a passage, leave a
+  note or a question, and see what others in your group have flagged.
+  Nothing you write is public; it's visible only within your private
+  group and to the author.</p>
+  <ol>
+    <li>Click the link below and sign in, or create a free account if you
+    don't already have one.</li>
+    <li>Joining takes you straight into your private reading group — no
+    separate approval step on their end.</li>
+    <li>Come back here and confirm your email so we can set up your
+    reading access on our side.</li>
+  </ol>
+</div>
+
 <p><a class="group-link" href="{group_url}" target="_blank" rel="noopener">
   Join your reading group on Hypothesis: {group_name}
 </a></p>
-<p>Once you've joined, let us know your email (and your Hypothesis
-username, if you don't mind) so we can set up your reading access.</p>
+
 <form method="post">
   <label for="email">Email</label>
   <input type="email" id="email" name="email" value="{email_value}" required>
 
-  <label for="hypothesis_username">Your Hypothesis username (optional)</label>
+  <label for="hypothesis_username">Your Hypothesis username (recommended)</label>
   <input type="text" id="hypothesis_username" name="hypothesis_username">
 
   <div class="hp" aria-hidden="true">
