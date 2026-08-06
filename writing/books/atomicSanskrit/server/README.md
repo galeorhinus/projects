@@ -95,19 +95,11 @@ python3 add_invite.py rm "R. Kumar" https://hypothes.is/groups/DeF456y/reading-g
 
 This prints the invite link to send them: `secondshanti.org/as/invite/rm`.
 
-**A note on whether oauth2-proxy needs a reload.** Auto-whitelisting
-appends directly to `/etc/oauth2-proxy/authenticated-emails.txt`, but
-whether oauth2-proxy picks that up live or needs a restart to notice isn't
-confirmed yet — check this once, empirically (add a test invite, submit
-it, then try logging into `/as/book/` with that email without restarting
-anything). If it needs a nudge, set `WHITELIST_RELOAD_COMMAND` in
-`request_access.py` to something like:
-```python
-WHITELIST_RELOAD_COMMAND = ["sudo", "/bin/systemctl", "restart", "oauth2-proxy"]
-```
-and grant the service user (`www-data`) narrow, passwordless sudo for
-*exactly* that command (via `visudo -f /etc/sudoers.d/secondshanti`) —
-don't grant broader sudo than the one restart it needs.
+**Confirmed: oauth2-proxy does not need a reload.** Tested end-to-end
+2026-08-06 — appending to `/etc/oauth2-proxy/authenticated-emails.txt` and
+immediately logging into `/as/book/` with the newly-added email worked
+with no restart of anything. `WHITELIST_RELOAD_COMMAND` can stay `None`;
+no sudo privileges need to be granted to the service user for this.
 
 ## Review workflow
 
