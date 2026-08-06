@@ -20,11 +20,13 @@ The three words in the subtitle form a specific sequence. **Radiant** describes 
 
 **Fractal** describes how the same architecture recurs across scales. Sanskrit embodies it in language, and a radiant person embodies it in conduct. When people see that conduct and voluntarily align themselves with it, the pattern passes from exemplar into shared practice. As shared practice shapes relationships and institutions, **संस्कृति (*saṃskṛti*)** extends the architecture through society. The same pattern therefore appears in sound, language, human conduct, and civilizational order.
 
-The purpose of this architecture is the welfare of all beings. The Sanskrit continuum expresses that purpose as **यत् भूतहितम् अत्यन्तं तत् सत्यम् (*yat bhūta-hitam atyantaṃ tat satyam*)** — that which serves the welfare of beings fully and ultimately is truth.[NOTE: satyam-bhutahitam-mahabharata] Radiance serves that welfare by making disciplined order visible and available for willing alignment.
+The purpose of this architecture is the welfare of all beings. The Sanskrit continuum expresses that purpose as **यत् भूतहितम् अत्यन्तं तत् सत्यम् (*yat bhūta-hitam atyantaṃ tat satyam*)** — that which serves the welfare of beings fully and ultimately is *satyam*.[NOTE: satyam-bhutahitam-mahabharata] Radiance serves that welfare by making disciplined order visible and available for willing alignment.
 
 How can order exist without an apex? Would that not be anarchy?
 
-Sanskrit and the Vedas together provide a living example of an order engineered to thrive across millennia without an apex. This book calls that Vedic architecture a **calibrant order**. A calibrant order places an invariant standard within the architecture, where every participant can align with it but no ruler or office can own it.
+You will not find the explanation in history books. The evidence is alive today. The Vedas and Sanskrit have remained intact and in use across millennia. Their continued existence provides a **living example** of an order engineered to thrive without an apex.
+
+This book calls that Vedic architecture a **calibrant order**. A calibrant order places an invariant standard within the architecture, where every participant can align with it but no ruler or office can own it.
 
 At the linguistic scale, Sanskrit is the radiant calibrant. 
 
