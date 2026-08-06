@@ -1,23 +1,37 @@
 #!/usr/bin/env python3
-"""text_outline.py — shape Devanagari text with HarfBuzz and outline it to SVG paths.
+"""text_outline.py — shape text with HarfBuzz and outline it to SVG paths,
+for two independent instances of the same underlying bug.
 
-Why this exists: rsvg-convert's PDF backend (Cairo + Pango) mishandles certain
-Devanagari glyph clusters — specifically words containing a pre-base
-reordering vowel sign (ि, U+093F) or certain conjuncts — when emitting live
-PDF text. The corruption is specific to vector-PDF text output: the same SVG
-rasterizes to PNG correctly, and single-letter Devanagari is unaffected. See
-`working/40_reference/decisions/devanagari_pdf_outline_fix.md` for the full
-diagnosis and reproduction steps.
+rsvg-convert's PDF backend (Cairo + Pango) mismaps glyph clusters when one
+shaped glyph corresponds to more than one input character — it loses track
+of the correct text position for whatever comes after. Two triggers found
+so far:
 
-The fix: shape the text correctly ourselves (HarfBuzz resolves the reordering
-the same way a browser would), extract the resulting glyph outlines from the
-font (fontTools), and bake them into the SVG as `<path>` geometry instead of
-a live `<text>` run. A pre-shaped outline can't be mis-shaped downstream —
-there's no shaping left for Cairo's PDF backend to get wrong.
+1. Devanagari words with a pre-base reordering vowel sign (ि, U+093F) or
+   certain conjuncts — the glyph reorders visually before its consonant,
+   and Cairo's PDF output loses the following character(s).
+2. A specific Latin font stack (`'Gentium Book Plus', Charter, 'Charis
+   SIL', Georgia, serif` — Gentium/Charis aren't installed, so this
+   resolves to Charter) has contextual ligature-like substitutions after
+   "f" (confirmed: "left" -> "lef", "from" -> "fom", "field" -> "feld",
+   and "of articulation" -> "ofarticulation" — even a following space can
+   vanish) that hit the same cluster-mapping bug.
 
-Scope: only Devanagari `<text>` content should be outlined. Latin/IAST text
-is unaffected by this bug and should stay live (selectable, copyable, and
-much smaller in the SVG source).
+Both are specific to vector-PDF text output — the same SVG rasterizes to
+PNG correctly, and short/simple runs (single Devanagari letters, ordinary
+Latin words without "f") are unaffected.
+
+The fix is the same for both: shape the text correctly ourselves
+(HarfBuzz resolves reordering/ligatures the same way a browser would),
+extract the resulting glyph outlines from the font (fontTools), and bake
+them into the SVG as `<path>` geometry instead of a live `<text>` run. A
+pre-shaped outline can't be mis-shaped downstream — there's no shaping
+left for Cairo's PDF backend to get wrong.
+
+Scope: Devanagari text is always outlined. Latin text is only outlined
+when its `<text>`/`<tspan>` uses the known-buggy Gentium-Book-Plus-first
+font stack (`contains_risky_latin_font`) — ordinary figures using other
+fonts keep live, selectable Latin text.
 
 Requires `uharfbuzz` (shaping) and `fontTools` (outline extraction) — both
 live in the project's `.venv-figures/` virtualenv, not the system Python.
@@ -53,6 +67,25 @@ DEFAULT_FONT_PATH = _FONT_VARIANTS[(False, False)]
 # stray symbols like U+2192 (→) from failing to measure.
 _MEASURE_FONT_PATH = "/System/Library/Fonts/Supplemental/Arial Unicode.ttf"
 
+# The Latin font stack confirmed to trigger the Cairo PDF ligature/cluster
+# bug (see module docstring). Substring-matched against a <text>/<tspan>'s
+# own font-family attribute — deliberately narrow, so ordinary figures
+# using other fonts are never touched.
+RISKY_LATIN_FONT_MARKER = "Gentium Book Plus"
+
+# fontconfig resolves 'Gentium Book Plus'/'Charis SIL' to a generic
+# fallback on this system (neither is installed) — Charter IS installed
+# and is the stack's next preference, so that's what actually renders and
+# what we outline with. Charter.ttc is a collection; each style is a
+# separate face index within the one file.
+_LATIN_FONT_PATH = "/System/Library/Fonts/Supplemental/Charter.ttc"
+_LATIN_FACE_INDEX = {
+    (False, False): 0,  # Roman
+    (True, False): 3,  # Bold
+    (False, True): 1,  # Italic
+    (True, True): 2,  # Bold Italic
+}
+
 
 def resolve_font_path(font_weight: str = "", font_style: str = "") -> str:
     """Map SVG font-weight/font-style values to the matching Adobe Devanagari
@@ -63,6 +96,20 @@ def resolve_font_path(font_weight: str = "", font_style: str = "") -> str:
     )
     is_italic = font_style.strip().lower() == "italic"
     return _FONT_VARIANTS[(is_bold, is_italic)]
+
+
+def resolve_latin_font(font_weight: str = "", font_style: str = "") -> tuple[str, int]:
+    """Same idea as resolve_font_path, but for the Charter.ttc collection
+    used to outline risky Latin runs — returns (path, face_index)."""
+    is_bold = font_weight.strip().lower() == "bold" or (
+        font_weight.strip().isdigit() and int(font_weight.strip()) >= 600
+    )
+    is_italic = font_style.strip().lower() == "italic"
+    return _LATIN_FONT_PATH, _LATIN_FACE_INDEX[(is_bold, is_italic)]
+
+
+def contains_risky_latin_font(font_family: str) -> bool:
+    return RISKY_LATIN_FONT_MARKER in font_family
 
 
 def contains_devanagari(text: str) -> bool:
@@ -79,9 +126,9 @@ class _FontResources:
     glyph_set: object
 
 
-@lru_cache(maxsize=8)
-def _load_font(font_path: str) -> _FontResources:
-    ttfont = TTFont(font_path)
+@lru_cache(maxsize=16)
+def _load_font(font_path: str, face_index: int = 0) -> _FontResources:
+    ttfont = TTFont(font_path, fontNumber=face_index) if font_path.lower().endswith((".ttc", ".otc")) else TTFont(font_path)
     units_per_em = ttfont["head"].unitsPerEm
     os2 = ttfont["OS/2"]
     ascender = os2.sTypoAscender
@@ -89,7 +136,7 @@ def _load_font(font_path: str) -> _FontResources:
 
     with open(font_path, "rb") as f:
         font_data = f.read()
-    hb_face = hb.Face(font_data)
+    hb_face = hb.Face(font_data, face_index)
     hb_font = hb.Font(hb_face)
 
     return _FontResources(
@@ -102,8 +149,8 @@ def _load_font(font_path: str) -> _FontResources:
     )
 
 
-def _shape(text: str, font_path: str) -> tuple[list, list, _FontResources]:
-    res = _load_font(font_path)
+def _shape(text: str, font_path: str, face_index: int = 0) -> tuple[list, list, _FontResources]:
+    res = _load_font(font_path, face_index)
     buf = hb.Buffer()
     buf.add_str(text)
     buf.guess_segment_properties()
@@ -122,9 +169,9 @@ def _glyph_path_d(glyph_name: str, glyph_set, scale: float) -> str:
     return d
 
 
-def _run_advance_px(text: str, font_path: str, font_size: float) -> float:
+def _run_advance_px(text: str, font_path: str, font_size: float, face_index: int = 0) -> float:
     """Total shaped advance of `text` in this font, in pixels at font_size."""
-    _, positions, res = _shape(text, font_path)
+    _, positions, res = _shape(text, font_path, face_index)
     scale = font_size / res.units_per_em
     return sum(p.x_advance for p in positions) * scale
 
@@ -137,10 +184,11 @@ def _outline_run(
     fill: str,
     font_path: str,
     baseline_shift_units: float,
+    face_index: int = 0,
 ) -> str:
-    """Outline one pure-Devanagari run, placed with its first glyph's pen
+    """Outline one same-script run, placed with its first glyph's pen
     origin at `start_x_px` (already resolved — no anchor math in here)."""
-    infos, positions, res = _shape(text, font_path)
+    infos, positions, res = _shape(text, font_path, face_index)
     scale = font_size / res.units_per_em
 
     cursor_x = 0.0
@@ -191,10 +239,11 @@ def _split_runs(text: str) -> list[tuple[str, bool]]:
 @dataclass
 class Segment:
     text: str
-    font_path: str  # the outline font to use, if this segment is Devanagari
-    live_font_family: str  # the font-family to render live, if not
+    font_path: str  # the outline font to use — empty string means "leave live"
+    live_font_family: str  # the font-family to render live, if not outlined
     font_style: str = "normal"  # carried through to live <text> for italics
     extra_dx: float = 0.0  # a tspan's own dx="" — manual kerning, not a space char
+    face_index: int = 0  # sub-font index, for TTC collections like Charter.ttc
 
 
 def _render_segments(
@@ -219,7 +268,8 @@ def _render_segments(
     widths_px = []
     for seg in segments:
         fp = seg.font_path if seg.font_path else _MEASURE_FONT_PATH
-        widths_px.append(seg.extra_dx + _run_advance_px(seg.text, fp, font_size))
+        fi = seg.face_index if seg.font_path else 0
+        widths_px.append(seg.extra_dx + _run_advance_px(seg.text, fp, font_size, fi))
     total_width_px = sum(widths_px)
 
     if text_anchor == "middle":
@@ -237,10 +287,13 @@ def _render_segments(
         if seg.font_path:
             baseline_shift_units = 0.0
             if dominant_baseline == "middle":
-                res = _load_font(seg.font_path)
+                res = _load_font(seg.font_path, seg.face_index)
                 baseline_shift_units = (res.ascender + res.descender) / 2.0
             pieces.append(
-                _outline_run(seg.text, cursor_px, y, font_size, fill, seg.font_path, baseline_shift_units)
+                _outline_run(
+                    seg.text, cursor_px, y, font_size, fill, seg.font_path,
+                    baseline_shift_units, seg.face_index,
+                )
             )
         else:
             style_attr = f' font-style="{seg.font_style}"' if seg.font_style != "normal" else ""
@@ -266,19 +319,32 @@ def outlined_text_svg(
     font_path: str = DEFAULT_FONT_PATH,
     live_font_family: str = "sans-serif",
     extra_attrs: str = "",
+    force_latin: bool = False,
+    font_weight: str = "",
+    font_style: str = "",
 ) -> str:
     """Return SVG markup equivalent to a `<text x=x y=y font-size=font_size
     text-anchor=text_anchor dominant-baseline=dominant_baseline>text</text>`
-    element, but with every Devanagari run baked to outlined `<path>`
-    geometry (immune to the Cairo/PDF Devanagari shaping bug — see module
-    docstring) while non-Devanagari runs (punctuation, arrows, Latin/IAST
-    mixed into the same run) stay live text, positioned to match.
+    element, with every Devanagari run baked to outlined `<path>` geometry
+    (immune to the Cairo/PDF Devanagari shaping bug — see module docstring).
+    Non-Devanagari runs stay live UNLESS force_latin is set (the element's
+    own font-family matched the known-buggy Latin stack), in which case
+    they're outlined too, using font_weight/font_style to pick the right
+    Charter face.
     """
-    segments = [
-        Segment(run_text, font_path if is_deva else "", live_font_family)
-        for run_text, is_deva in _split_runs(text)
-        if run_text
-    ]
+    latin_font_path, latin_face_index = (
+        resolve_latin_font(font_weight, font_style) if force_latin else ("", 0)
+    )
+    segments = []
+    for run_text, is_deva in _split_runs(text):
+        if not run_text:
+            continue
+        if is_deva:
+            segments.append(Segment(run_text, font_path, live_font_family))
+        elif force_latin:
+            segments.append(Segment(run_text, latin_font_path, live_font_family, face_index=latin_face_index))
+        else:
+            segments.append(Segment(run_text, "", live_font_family))
     return _render_segments(
         segments, x, y, font_size,
         fill=fill, text_anchor=text_anchor, dominant_baseline=dominant_baseline,
@@ -301,6 +367,22 @@ def _parse_attrs(attrs_str: str) -> dict[str, str]:
     return dict(_ATTR_RE.findall(attrs_str))
 
 
+# Attributes that must survive onto the replacement <g> unchanged — losing
+# any of these silently breaks the figure. transform is the one that bit
+# us first (rotated column headers piled up at the wrong angle once their
+# <text> was replaced by an untransformed <g>); the rest are cheap
+# insurance against the same class of bug.
+_PASSTHROUGH_ATTRS = ("transform", "opacity", "clip-path", "class")
+
+
+def _build_passthrough_attrs(attrs: dict[str, str]) -> str:
+    parts = []
+    for name in _PASSTHROUGH_ATTRS:
+        if name in attrs:
+            parts.append(f' {name}="{attrs[name]}"')
+    return "".join(parts)
+
+
 def _segments_from_text_element(base_attrs: dict[str, str], inner: str) -> list[Segment]:
     """Parse a `<text>` element's inner content — a mix of bare text nodes
     and `<tspan>` children, each with attributes that override the parent's
@@ -309,18 +391,29 @@ def _segments_from_text_element(base_attrs: dict[str, str], inner: str) -> list[
     segments: list[Segment] = []
 
     def add_node(text: str, weight: str, style: str, family: str, dx: float = 0.0) -> None:
-        font_path = resolve_font_path(weight, style)
+        deva_font_path = resolve_font_path(weight, style)
+        outline_latin_too = contains_risky_latin_font(family)
+        latin_font_path, latin_face_index = (
+            resolve_latin_font(weight, style) if outline_latin_too else ("", 0)
+        )
         first = True
         for run_text, is_deva in _split_runs(text):
             if not run_text:
                 continue
+            if is_deva:
+                fp, fi = deva_font_path, 0
+            elif outline_latin_too:
+                fp, fi = latin_font_path, latin_face_index
+            else:
+                fp, fi = "", 0
             segments.append(
                 Segment(
                     run_text,
-                    font_path if is_deva else "",
+                    fp,
                     family,
                     font_style=style if style else "normal",
                     extra_dx=dx if first else 0.0,
+                    face_index=fi,
                 )
             )
             first = False
@@ -358,10 +451,11 @@ def _segments_from_text_element(base_attrs: dict[str, str], inner: str) -> list[
 
 
 def outline_devanagari_in_svg(svg_content: str) -> tuple[str, int, list[str]]:
-    """Replace every `<text>` element whose content contains Devanagari —
-    including ones with `<tspan>` children mixing Devanagari and Latin runs
-    (e.g. a Devanagari word beside its italic IAST translit) — with an
-    equivalent outlined `<g>`.
+    """Replace every `<text>` element that needs it with an equivalent
+    outlined `<g>` — either because it contains Devanagari (including ones
+    with `<tspan>` children mixing Devanagari and Latin runs, e.g. a word
+    beside its italic IAST translit), or because it uses the confirmed-buggy
+    Latin font stack (RISKY_LATIN_FONT_MARKER) regardless of script.
 
     Returns (new_content, count_outlined, warnings).
     """
@@ -370,8 +464,21 @@ def outline_devanagari_in_svg(svg_content: str) -> tuple[str, int, list[str]]:
 
     def replace_with_tspans(m: re.Match) -> str:
         nonlocal count
-        if not contains_devanagari(m.group("inner")):
-            return m.group(0)
+        whole = m.group(0)
+        if not contains_devanagari(m.group("inner")) and not contains_risky_latin_font(whole):
+            return whole
+        # Multi-line paragraphs use `dy` on each new-line tspan (plus a
+        # reset `x`) to wrap text — a structurally different layout than
+        # the "one word + its tspan gloss on the same line" case this
+        # parser actually handles. Attempting to place dy-separated lines
+        # as one horizontal run smashes them together, which is worse than
+        # leaving the element untouched. Skip and flag for manual review.
+        if re.search(r'<tspan\b[^>]*\bdy\s*=', m.group("inner")):
+            warnings.append(
+                "Skipped a multi-line <text> (tspan dy=... line-wrapping) — "
+                "outline it by hand if it needs the fix: " + whole[:120] + "..."
+            )
+            return whole
         attrs = _parse_attrs(m.group("attrs"))
         segments = _segments_from_text_element(attrs, m.group("inner"))
         count += 1
@@ -383,6 +490,7 @@ def outline_devanagari_in_svg(svg_content: str) -> tuple[str, int, list[str]]:
             fill=attrs.get("fill", "#000000"),
             text_anchor=attrs.get("text-anchor", "start"),
             dominant_baseline=attrs.get("dominant-baseline", "auto"),
+            extra_attrs=_build_passthrough_attrs(attrs),
         )
 
     svg_content = _TEXT_WITH_TSPANS_RE.sub(replace_with_tspans, svg_content)
@@ -391,7 +499,9 @@ def outline_devanagari_in_svg(svg_content: str) -> tuple[str, int, list[str]]:
         nonlocal count
         attrs = _parse_attrs(m.group("attrs"))
         content = m.group("content")
-        if not contains_devanagari(content):
+        live_font_family = attrs.get("font-family", "sans-serif")
+        risky_latin = contains_risky_latin_font(live_font_family)
+        if not contains_devanagari(content) and not risky_latin:
             return m.group(0)
 
         x = float(attrs.get("x", 0))
@@ -400,10 +510,9 @@ def outline_devanagari_in_svg(svg_content: str) -> tuple[str, int, list[str]]:
         fill = attrs.get("fill", "#000000")
         text_anchor = attrs.get("text-anchor", "start")
         dominant_baseline = attrs.get("dominant-baseline", "auto")
-        font_path = resolve_font_path(
-            attrs.get("font-weight", ""), attrs.get("font-style", "")
-        )
-        live_font_family = attrs.get("font-family", "sans-serif")
+        font_weight = attrs.get("font-weight", "")
+        font_style = attrs.get("font-style", "")
+        font_path = resolve_font_path(font_weight, font_style)
         count += 1
         return outlined_text_svg(
             content,
@@ -415,6 +524,10 @@ def outline_devanagari_in_svg(svg_content: str) -> tuple[str, int, list[str]]:
             dominant_baseline=dominant_baseline,
             font_path=font_path,
             live_font_family=live_font_family,
+            force_latin=risky_latin,
+            font_weight=font_weight,
+            font_style=font_style,
+            extra_attrs=_build_passthrough_attrs(attrs),
         )
 
     new_content = _TEXT_EL_RE.sub(replace, svg_content)

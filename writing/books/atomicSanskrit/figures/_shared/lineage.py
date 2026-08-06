@@ -78,26 +78,34 @@ def inject_lineage_comment(content: str, lineage_chain: str,
 
 
 def _try_outline_devanagari(content: str) -> str:
-    """Best-effort Devanagari-outlining pass (see `text_outline.py` for why).
-    Requires uharfbuzz + fontTools, which live in `.venv-figures/`, not the
-    system Python — if they're unavailable, promote() falls back to a plain
-    copy and prints a warning rather than failing outright."""
+    """Best-effort text-outlining pass — Devanagari always, plus Latin text
+    using the confirmed-buggy Gentium-Book-Plus-first font stack (see
+    `text_outline.py`'s module docstring for why both need it). Requires
+    uharfbuzz + fontTools, which live in `.venv-figures/`, not the system
+    Python — if they're unavailable, promote() falls back to a plain copy
+    and prints a warning rather than failing outright."""
     try:
-        from .text_outline import contains_devanagari, outline_devanagari_in_svg
+        from .text_outline import (
+            contains_devanagari,
+            contains_risky_latin_font,
+            outline_devanagari_in_svg,
+        )
     except ImportError:
         print(
             "  (uharfbuzz/fontTools not available in this interpreter — "
-            "Devanagari <text> left live. Run via .venv-figures/bin/python3 "
+            "risky text left live. Run via .venv-figures/bin/python3 "
             "to outline it.)"
         )
         return content
 
-    if not contains_devanagari(content):
+    # Cheap pre-check on the whole file before the real (regex-driven) pass
+    # — most figures have neither Devanagari nor the risky font at all.
+    if not contains_devanagari(content) and not contains_risky_latin_font(content):
         return content
 
     new_content, count, warnings = outline_devanagari_in_svg(content)
     if count:
-        print(f"  outlined {count} Devanagari <text> element(s)")
+        print(f"  outlined {count} <text> element(s)")
     for w in warnings:
         print(f"  WARNING: {w}")
     return new_content
