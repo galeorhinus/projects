@@ -296,7 +296,14 @@ def render(mode: str, out_path: Path):
 
     svg.append(
         f'<text x="{pad_l + plot_w / 2}" y="{height - 22}" '
-        f'font-size="{AXIS_FONT}" text-anchor="middle">Onset deployment</text>'
+        f'font-size="{AXIS_FONT}" text-anchor="middle">Before the vowel</text>'
+    )
+    y_label_x = 14
+    y_label_y = pad_t + plot_h / 2
+    svg.append(
+        f'<text x="{y_label_x}" y="{y_label_y}" '
+        f'transform="rotate(-90 {y_label_x} {y_label_y})" '
+        f'font-size="{AXIS_FONT}" text-anchor="middle">After the vowel</text>'
     )
 
     # Leader lines (under bubbles)
@@ -368,7 +375,7 @@ def render(mode: str, out_path: Path):
 
     svg.append(
         f'<text x="{bs_legend_x}" y="{bs_legend_top}" '
-        f'font-size="{LEGEND_HEADER_FONT}" font-weight="bold">Inner-cluster size</text>'
+        f'font-size="{LEGEND_HEADER_FONT}" font-weight="bold">Used inside a cluster</text>'
     )
     sample_sizes = [50, 150]
     circle_top = bs_legend_top + 24

@@ -21,7 +21,8 @@
 <text x="38" y="257.2857142857143" font-size="20" text-anchor="end">100</text>
 <line x1="43" y1="107.42857142857144" x2="48" y2="107.42857142857144" stroke="black" stroke-width="0.6"/>
 <text x="38" y="114.42857142857144" font-size="20" text-anchor="end">150</text>
-<text x="415.0" y="598" font-size="25" text-anchor="middle">Onset deployment</text>
+<text x="415.0" y="598" font-size="25" text-anchor="middle">Before the vowel</text>
+<text x="14" y="286.0" transform="rotate(-90 14 286.0)" font-size="25" text-anchor="middle">After the vowel</text>
 <line x1="72.9" y1="407.4" x2="74.0" y2="408.2" stroke="#888" stroke-width="0.8"/>
 <line x1="207.2" y1="235.5" x2="191.7" y2="231.8" stroke="#888" stroke-width="0.8"/>
 <line x1="84.4" y1="272.2" x2="74.0" y2="275.1" stroke="#888" stroke-width="0.8"/>
@@ -97,7 +98,7 @@
 <text x="168.0" y="376.0" font-size="20" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central" stroke="white" stroke-width="3" paint-order="stroke">ह</text>
 <text x="267.5" y="475.8" font-size="20" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central" stroke="white" stroke-width="3" paint-order="stroke">ग</text>
 <text x="74.0" y="514.0" font-size="20" font-weight="bold" fill="#1a1a1a" text-anchor="middle" dominant-baseline="central" stroke="white" stroke-width="3" paint-order="stroke">झ</text>
-<text x="72" y="68" font-size="24" font-weight="bold">Inner-cluster size</text>
+<text x="72" y="68" font-size="24" font-weight="bold">Used inside a cluster</text>
 <text x="104" y="84" font-size="20" text-anchor="middle">n=50</text>
 <circle cx="104" cy="119.6" r="27.6" fill="#888" fill-opacity="0.5" stroke="#333" stroke-width="0.4"/>
 <text x="196" y="84" font-size="20" text-anchor="middle">n=150</text>

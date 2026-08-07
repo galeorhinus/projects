@@ -4923,7 +4923,7 @@ The four measurements in the figure isolate four different properties. **Invento
 
 The conclusion remains bounded. Ch 10 §10.10 does not identify the periodic properties of individual *varṇāḥ*. It shows that the measured scaffold survives the move from inventory to Sanskrit in use. Chapter 11 then asks how the atom enters *kriyā* procedure while preserving sonomeric precision.
 
-Source: `analysis/ganah/scripts/summarize_scaffold_reactivity.py`; derived outputs `analysis/ganah/data/derived/dhatu_scaffold_path_c_join_canonical.csv`, `analysis/ganah/data/derived/scaffold_reactivity_summary.csv`, `analysis/ganah/data/derived/scaffold_reactivity_summary.md`, and `analysis/ganah/data/derived/dhatu_scaffold_path_c_join_audit.txt`; figure script `figures/building_dhatuh/scaffold_deployment.py`; figure outputs `figures/building_dhatuh/scaffold_deployment.svg` and `.pdf`.
+Source: `analysis/ganah/scripts/summarize_scaffold_reactivity.py`; derived outputs `analysis/ganah/data/derived/dhatu_scaffold_path_c_join_canonical.csv`, `analysis/ganah/data/derived/scaffold_reactivity_summary.csv`, `analysis/ganah/data/derived/scaffold_reactivity_summary.md`, and `analysis/ganah/data/derived/dhatu_scaffold_path_c_join_audit.txt`. Current figure source: `figures/building_dhatuh/visvatomukham_generative_range_stack.from-cd-edit.svg`; outlined canonical: `figures/building_dhatuh/visvatomukham_generative_range_stack.svg`. The previous scripted figure and its complete source family remain in `figures/building_dhatuh/archive/scaffold_deployment/`.
 
 ---
 
