@@ -950,15 +950,27 @@ def run_pandoc_with_progress(cmd: list[str], page_interval: int = DEFAULT_PROGRE
     """Run a pandoc/xelatex command, printing a progress line every
     `page_interval` typeset pages instead of blocking silently for minutes.
 
-    Two things pandoc/xelatex do by default defeat that: (1) xelatex's
-    per-page `[N]` markers are folded into pandoc's own diagnostic stream
-    only when --verbose is passed, so this adds it if missing; and (2) that
-    stream gets fully block-buffered — nothing arrives until the whole run
-    finishes — whenever pandoc's output isn't attached to a real terminal.
-    Attaching the child to a pty (rather than a plain pipe) makes pandoc
-    treat it as one, restoring incremental output. Confirmed empirically:
-    a plain pipe delivered zero bytes for 60+ seconds on a 750-page build;
-    a pty delivered the same run's progress in visible chunks throughout.
+    Three things defeat that by default. (1) xelatex's per-page `[N]`
+    markers are folded into pandoc's own diagnostic stream only when
+    --verbose is passed, so this adds it if missing. (2) that stream gets
+    fully block-buffered — nothing arrives until the whole run finishes —
+    whenever pandoc's output isn't attached to a real terminal; attaching
+    the child to a pty (rather than a plain pipe) restores incremental
+    delivery (confirmed empirically: a plain pipe delivered zero bytes for
+    60+ seconds on a 750-page build; a pty delivered the same run's
+    progress throughout). (3) even through a pty, pandoc relays the
+    underlying xelatex subprocess's output in its own internal batches —
+    a bare xelatex process streams in a steady trickle of small chunks
+    over the same kind of pty, so this batching is pandoc's own relay, one
+    layer below anything reachable from here — so updates still arrive in
+    bursts of dozens of pages at a time rather than one by one. Two things
+    are done about that: only one line is printed per burst (per read()
+    call), not one per interval boundary crossed inside it, so a burst
+    that jumps from page 40 to page 380 prints once, not seventeen times;
+    and every read is matched against the FULL output seen so far, not
+    just the newest chunk, because pandoc's "LaTeX run number N" marker
+    (used to detect a fresh compile pass and reset the page count) can
+    itself land split across two chunks, otherwise silently missed.
     """
     if "--verbose" not in cmd:
         cmd = [*cmd, "--verbose"]
@@ -969,6 +981,7 @@ def run_pandoc_with_progress(cmd: list[str], page_interval: int = DEFAULT_PROGRE
     buf = bytearray()
     last_reported = 0
     current_run = 1
+    run_start_pos = 0  # index into the decoded buffer where the current run's own output begins
     while True:
         ready, _, _ = select.select([master_fd], [], [], 1.0)
         if master_fd in ready:
@@ -979,15 +992,25 @@ def run_pandoc_with_progress(cmd: list[str], page_interval: int = DEFAULT_PROGRE
             if not chunk:
                 break
             buf += chunk
-            text = chunk.decode("utf-8", errors="replace")
-            if run_m := LATEX_RUN_RE.search(text):
-                current_run = int(run_m.group(1))
-                last_reported = 0
-            pages = [int(p) for p in PAGE_BRACKET_RE.findall(text)]
+            # Full buffer, not just this chunk: a run marker can land split
+            # across two reads and get silently missed otherwise.
+            text = buf.decode("utf-8", errors="replace")
+            run_matches = list(LATEX_RUN_RE.finditer(text))
+            if run_matches:
+                last_match = run_matches[-1]
+                seen_run = int(last_match.group(1))
+                if seen_run != current_run:
+                    current_run = seen_run
+                    last_reported = 0
+                run_start_pos = last_match.end()
+            # Only the current run's own slice — otherwise a finished run's
+            # page numbers would leak into the next run's count, since the
+            # full buffer never shrinks.
+            pages = [int(p) for p in PAGE_BRACKET_RE.findall(text[run_start_pos:])]
             if pages:
                 highest = max(pages)
-                if highest - last_reported >= page_interval:
-                    last_reported = highest - (highest % page_interval)
+                if highest > last_reported and highest - last_reported >= page_interval:
+                    last_reported = highest
                     elapsed = time.time() - start
                     print(f"  {label}: ~page {highest} typeset (run {current_run}, {elapsed:.0f}s elapsed)")
         elif proc.poll() is not None:

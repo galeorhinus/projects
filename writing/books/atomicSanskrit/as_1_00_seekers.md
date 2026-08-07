@@ -259,7 +259,7 @@ Before human choice shapes an order toward *sat* or *asat*, living beings act wi
 - **संस्कृति (*saṃskṛti*)** — representing *sat* — the **ऋजु (*ṛju*)** movement.
 - **प्रकृति (*prakṛti*)** — representing everything else.
 
-The Vṛtra, Svarbhānu, and Paṇi narratives show what the conflict between *sat* and *asat* looks like in action. The protagonists bear **सत् (*sat*)** in their titles. Indra's is **सत्पति (*satpati*)**, the lord of *sat*.[NOTE: protagonist-sat-epithets]
+The *Vṛtra*, *Svarbhānu*, and *Paṇi* narratives show what the conflict between *sat* and *asat* looks like in action. Chapter 3 §3.7 examines all three as acts of containment whose defeat restores circulation. The protagonists bear **सत् (*sat*)** in their titles. Indra’s is **सत्पति (*satpati*)**, the lord of sat.[NOTE: protagonist-sat-epithets]
 
 The protagonists fight for **सत् (*sat*)** to restore the order of flow: circulation kept open and release along that path — the path of **स्वस्ति (*svasti*)**, well-being, followed as the Sun and Moon follow their orbits: **स्वस्ति पन्थामनु चरेम सूर्याचन्द्रमसाविव** (*svasti panthām anu carema sūryācandramasāv iva*) — “may we follow the path of *svasti*, as the Sun and Moon do.” (RV 5.51.15)[NOTE: rv-5-51-15-svasti-panthanam]
 
