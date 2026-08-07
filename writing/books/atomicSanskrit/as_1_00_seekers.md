@@ -219,19 +219,19 @@ The question then becomes: was **ऋत (*ṛta*)** engineered by humans?
 The Vedas state the sequence in two mantras from the same hymn:
 
 > **ऋतं च सत्यं चाभीद्धात्तपसोऽध्यजायत**\
-> **ऋतम् । च । सत्यम् । च । अभीद्धात् । तपसः । अधि । अजायत ।**\
+> **ऋतम्-च सत्यम्-च-अभि-इद्धात् तपसः-अधि-अजायत**\
 > *ṛtaṃ ca satyaṃ cābhīddhāt tapaso 'dhy ajāyata*\
 > “*Ṛta* and *satya* were born from intensely blazing *tapas*.” (RV 10.190.1)[NOTE: rv-10-190-1-rta-satya-cocreated]
 
 > **सूर्याचन्द्रमसौ धाता यथापूर्वमकल्पयत् ।**\
 > **दिवं च पृथिवीं चान्तरिक्षमथो स्वः ॥**\
-> **सूर्याचन्द्रमसौ । धाता । यथापूर्वम् । अकल्पयत् । दिवम् । च । पृथिवीम् । च । अन्तरिक्षम् । अथो । स्वः ॥**\
+> **सूर्याचन्द्रमसौ धाता यथापूर्वम् अकल्पयत् दिवम्-च पृथिवीम्-च-अन्तरिक्षम्-अथो स्वः**\
 > *sūryācandramasau dhātā yathāpūrvam akalpayat | divaṃ ca pṛthivīṃ cāntarikṣam atho svaḥ*\
 > “Dhātā then formed the Sun and the Moon, and formed the skies, the earth, the intermediate space, and the realms of light, as before.” (RV 10.190.3)
 
 This means that there was *asat*, then *sat* and *ṛta*, and then the sun, moon and the earth were formed.[NOTE: sat-rta-cosmogonic-sequence-inference]
 
-This means that the *sat-asat* binary predates human existence. *Ṛta* was created, but human beings did not create it.
+Therefore the *sat-asat* binary predates human existence. *Ṛta* was created, but human beings did not create it.
 
 The straight movement along the **ऋत (*ṛta*)** thread is **ऋजु (*ṛju*)**, and the crooked movement is **वृजिन (*vṛjina*)** (RV 7.104.13).[NOTE: rv-7-104-12-13-sat-asat-vrjina-soma]
 
@@ -249,7 +249,7 @@ How does one tell *sat* and *asat* apart?
 The mantra below says: look for **यतरदृजीयः (*yatarad ṛjīyaḥ*)** — whichever one is straighter.
 
 > **सच्चासच्च वचसी पस्पृधाते । तयोर्यत्सत्यं यतरदृजीयः । तदित्सोमोऽवति हन्त्यासत्**\
-> **सत् । च । असत् । च । वचसी । पस्पृधाते । तयोः । यत् । सत्यम् । यतरत् । ऋजीयः । तत् । इत् । सोमः । अवति । हन्ति । असत् ।**\
+> **सत्-च-असत्-च वचसी पस्पृधाते तयोः यत् सत्यम् यतरत् ऋजीयः तत्-इत् सोमः-अवति हन्ति-असत्**\
 > *sac cāsac ca vacasī paspṛdhāte, tayor yat satyaṃ yatarad ṛjīyaḥ, tad it somo 'vati hanty āsat*\
 > “*Sat* and *asat* contend, word against word; of the two, whichever is true and straight, *ṛjīyaḥ*, Soma protects, and the *asat* he destroys.” (RV 7.104.12)[NOTE: rv-7-104-12-13-sat-asat-vrjina-soma]
 

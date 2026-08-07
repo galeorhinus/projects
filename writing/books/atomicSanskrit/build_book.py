@@ -27,6 +27,7 @@ Usage:
   python3 build_book.py pdf --layout phone           # 3×6 phone-reading trim
   python3 build_book.py pdf --endnotes short         # short-form endnotes (printed-book mode)
   python3 build_book.py pdf --endnotes full          # full-form endnotes (default — reference-grade)
+  python3 build_book.py pdf --progress-pages 10      # progress line every 10 typeset pages (default 20)
   python3 build_book.py reference --layout trade     # Source and Reference Companion as standalone PDF
   python3 build_book.py convert reference/as_thesis_summary.md        # any .md → build/<name>.pdf (letter)
   python3 build_book.py convert notes.md --layout a4                  # A4 page size
@@ -79,11 +80,21 @@ from __future__ import annotations
 import argparse
 import datetime
 import os
+import pty
 import re
+import select
 import shutil
 import subprocess
 import sys
+import time
 from pathlib import Path
+
+# Force line-buffered stdout even when it isn't a real terminal (redirected
+# to a file, piped to `tee`, captured by a background-task runner). Without
+# this every print() in the script sits in a block buffer and only appears
+# in one dump when the process exits — the same defect run_pandoc_with_
+# progress() works around for the xelatex subprocess, just one level up.
+sys.stdout.reconfigure(line_buffering=True)
 
 BOOK_DIR = Path(__file__).resolve().parent
 BUILD_DIR = BOOK_DIR / "build"
@@ -917,7 +928,80 @@ def have(cmd: str) -> bool:
     return shutil.which(cmd) is not None
 
 
-def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full") -> int:
+DEFAULT_PROGRESS_PAGES = 20
+PAGE_BRACKET_RE = re.compile(r"\[(\d+)\]")
+LATEX_RUN_RE = re.compile(r"\[INFO\] \[makePDF\] LaTeX run number (\d+)")
+WARNING_LINE_RE = re.compile(r"^.*\[WARNING\].*$", re.MULTILINE)
+
+
+class ProcResult:
+    """Minimal stand-in for subprocess.CompletedProcess's .returncode/.stderr,
+    so run_pandoc_with_progress() is a drop-in replacement for the plain
+    subprocess.run(cmd, capture_output=True) calls it supersedes."""
+    __slots__ = ("returncode", "stderr")
+
+    def __init__(self, returncode: int, stderr: str):
+        self.returncode = returncode
+        self.stderr = stderr
+
+
+def run_pandoc_with_progress(cmd: list[str], page_interval: int = DEFAULT_PROGRESS_PAGES,
+                              label: str = "PDF") -> ProcResult:
+    """Run a pandoc/xelatex command, printing a progress line every
+    `page_interval` typeset pages instead of blocking silently for minutes.
+
+    Two things pandoc/xelatex do by default defeat that: (1) xelatex's
+    per-page `[N]` markers are folded into pandoc's own diagnostic stream
+    only when --verbose is passed, so this adds it if missing; and (2) that
+    stream gets fully block-buffered — nothing arrives until the whole run
+    finishes — whenever pandoc's output isn't attached to a real terminal.
+    Attaching the child to a pty (rather than a plain pipe) makes pandoc
+    treat it as one, restoring incremental output. Confirmed empirically:
+    a plain pipe delivered zero bytes for 60+ seconds on a 750-page build;
+    a pty delivered the same run's progress in visible chunks throughout.
+    """
+    if "--verbose" not in cmd:
+        cmd = [*cmd, "--verbose"]
+    master_fd, slave_fd = pty.openpty()
+    start = time.time()
+    proc = subprocess.Popen(cmd, stdout=slave_fd, stderr=slave_fd, close_fds=True)
+    os.close(slave_fd)
+    buf = bytearray()
+    last_reported = 0
+    current_run = 1
+    while True:
+        ready, _, _ = select.select([master_fd], [], [], 1.0)
+        if master_fd in ready:
+            try:
+                chunk = os.read(master_fd, 65536)
+            except OSError:
+                break
+            if not chunk:
+                break
+            buf += chunk
+            text = chunk.decode("utf-8", errors="replace")
+            if run_m := LATEX_RUN_RE.search(text):
+                current_run = int(run_m.group(1))
+                last_reported = 0
+            pages = [int(p) for p in PAGE_BRACKET_RE.findall(text)]
+            if pages:
+                highest = max(pages)
+                if highest - last_reported >= page_interval:
+                    last_reported = highest - (highest % page_interval)
+                    elapsed = time.time() - start
+                    print(f"  {label}: ~page {highest} typeset (run {current_run}, {elapsed:.0f}s elapsed)")
+        elif proc.poll() is not None:
+            break
+    os.close(master_fd)
+    proc.wait()
+    full_output = bytes(buf).decode("utf-8", errors="replace")
+    if proc.returncode != 0:
+        return ProcResult(proc.returncode, full_output)
+    return ProcResult(proc.returncode, "\n".join(WARNING_LINE_RE.findall(full_output)))
+
+
+def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full",
+            progress_pages: int = DEFAULT_PROGRESS_PAGES) -> int:
     # The intermediate .md and the output PDF are both suffixed with the
     # endnotes mode (when short) so full and short variants coexist.
     notes_suffix = "" if endnotes_mode == "full" else f".{endnotes_mode}"
@@ -970,8 +1054,8 @@ def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full") -> int:
         "-H", str(generated_preamble),
     ]
 
-    print(f"Rendering PDF (layout={layout}, this may take a minute)...")
-    result = subprocess.run(cmd, capture_output=True, text=True)
+    print(f"Rendering PDF (layout={layout}, progress every {progress_pages} pages)...")
+    result = run_pandoc_with_progress(cmd, page_interval=progress_pages, label="PDF")
     if result.returncode != 0:
         print("PDF rendering FAILED. pandoc stderr:\n", file=sys.stderr)
         print(result.stderr, file=sys.stderr)
@@ -994,7 +1078,7 @@ def section_join(sections: list[str]) -> list[str]:
     return joined
 
 
-def cmd_reference(layout: str = "letter") -> int:
+def cmd_reference(layout: str = "letter", progress_pages: int = DEFAULT_PROGRESS_PAGES) -> int:
     """Build the Source and Reference Companion as a standalone PDF.
 
     Reads four sources:
@@ -1102,8 +1186,8 @@ def cmd_reference(layout: str = "letter") -> int:
         "-H", str(generated_preamble),
     ]
 
-    print(f"Rendering companion PDF (layout={layout}, this may take a minute)...")
-    result = subprocess.run(cmd, capture_output=True, text=True)
+    print(f"Rendering companion PDF (layout={layout}, progress every {progress_pages} pages)...")
+    result = run_pandoc_with_progress(cmd, page_interval=progress_pages, label="Companion")
     if result.returncode != 0:
         print("Companion PDF rendering FAILED. pandoc stderr:\n", file=sys.stderr)
         print(result.stderr, file=sys.stderr)
@@ -1115,7 +1199,8 @@ def cmd_reference(layout: str = "letter") -> int:
     return 0
 
 
-def cmd_convert(input_arg: str | None, layout: str = "letter", output_arg: str | None = None) -> int:
+def cmd_convert(input_arg: str | None, layout: str = "letter", output_arg: str | None = None,
+                 progress_pages: int = DEFAULT_PROGRESS_PAGES) -> int:
     """Convert an arbitrary Markdown file to PDF using the book's font stack
     (EB Garamond for Latin/IAST + the Devanagari preamble) — WITHOUT the book's
     title-page metadata, so no "Atomic Sanskrit" title block is stamped on the
@@ -1174,7 +1259,7 @@ def cmd_convert(input_arg: str | None, layout: str = "letter", output_arg: str |
         "-H", str(generated_preamble),
     ]
     print(f"Converting {src.name} → {pdf_path.relative_to(BOOK_DIR)} (layout={layout})...")
-    result = subprocess.run(cmd, capture_output=True, text=True)
+    result = run_pandoc_with_progress(cmd, page_interval=progress_pages, label="PDF")
     if result.returncode != 0:
         print("PDF conversion FAILED. pandoc stderr:\n", file=sys.stderr)
         print(result.stderr, file=sys.stderr)
@@ -1234,6 +1319,14 @@ def main() -> int:
              "Output filenames are suffixed with .short in short mode so the two "
              "variants coexist.",
     )
+    parser.add_argument(
+        "--progress-pages",
+        type=int,
+        default=DEFAULT_PROGRESS_PAGES,
+        help=f"Print a progress line every N pages xelatex typesets, instead of "
+             f"blocking silently until the whole PDF is done (default: {DEFAULT_PROGRESS_PAGES}). "
+             "Applies to pdf/all/reference/convert.",
+    )
     args = parser.parse_args()
 
     if args.phase == "stubs":
@@ -1241,11 +1334,12 @@ def main() -> int:
     if args.phase == "assemble":
         return cmd_assemble(endnotes_mode=args.endnotes)
     if args.phase == "pdf":
-        return cmd_pdf(layout=args.layout, endnotes_mode=args.endnotes)
+        return cmd_pdf(layout=args.layout, endnotes_mode=args.endnotes, progress_pages=args.progress_pages)
     if args.phase == "reference":
-        return cmd_reference(layout=args.layout)
+        return cmd_reference(layout=args.layout, progress_pages=args.progress_pages)
     if args.phase == "convert":
-        return cmd_convert(args.input, layout=args.layout, output_arg=args.output)
+        return cmd_convert(args.input, layout=args.layout, output_arg=args.output,
+                            progress_pages=args.progress_pages)
     if args.phase == "promote-svgs":
         return cmd_promote_svgs(force=args.force)
     if args.phase == "grayscale-images":
@@ -1255,7 +1349,7 @@ def main() -> int:
         return rc
     if (rc := cmd_assemble(endnotes_mode=args.endnotes)) != 0:
         return rc
-    return cmd_pdf(layout=args.layout, endnotes_mode=args.endnotes)
+    return cmd_pdf(layout=args.layout, endnotes_mode=args.endnotes, progress_pages=args.progress_pages)
 
 
 if __name__ == "__main__":
