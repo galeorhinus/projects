@@ -196,39 +196,86 @@ Two systems, one pattern: ten digits span arithmetic, the *dhātupāṭha* spans
 
 ## 0.7 Sat, Ṛta, and the Vedic Order
 
-The Vedas act as a calibrant for both Sanskrit and *saṃskṛti*. On the linguistic level, they preserve the sounds, grammatical range, and generative architecture against which Sanskrit can continually calibrate itself. Chapter 16 and Appendix Part 8 demonstrate how this calibration operates across the two Sanskrit domains.
+The Vedas act as a calibrant for both Sanskrit and *saṃskṛti*. At the linguistic level, they preserve Sanskrit’s sounds, grammatical range, and generative architecture. The grammatical continuum uses that invariant standard to calibrate Sanskrit in the changing *laukika* domain. Chapter 16 and Appendix Part 8 demonstrate how this relationship operates across the two Sanskrit domains.
 
-On the civilizational level, the Vedas serve as the calibrant for order itself, allowing action in the changing world in the *laukika* domain against the invariant trajectory of ऋत (*ṛta*).
+At the civilizational level, the Vedas preserve **ऋत (*ṛta*)** as the invariant trajectory of created order. People can compare actions, institutions, and systems in the changing world with that trajectory.
 
-Most English translations render ऋत (*ṛta*) as “cosmic order.” The phrase makes ऋत (*ṛta*) sound like the default order that already exists throughout the universe. But how can harmony be the default when असत् (*asat*) and the असुराः (*asurāḥ*) also exist and act upon the world? The Vedas say something far more consequential: ऋत (*ṛta*) came into being and must be upheld and defended.
+*Ṛta* is often translated as “cosmic order,” as if the universe runs on one single order. If that were true, are *asuras* also part of that order? How can this “cosmic order” explain the clearly abhorrent actions and systems that human beings create?
 
-> **देवानां पूर्व्ये युगेऽसतः सदजायत**
-> *devānāṃ pūrvye yuge 'sataḥ sad ajāyata*
+The Vedas make that distinction clearly and unequivocally.
+
+**Sat was born from asat.**
+
+> **देवानां पूर्व्ये युगेऽसतः सदजायत**\
+> *devānāṃ pūrvye yuge 'sataḥ sad ajāyata*\
 > “In the earlier age of the *devāḥ*, *sat* was born from **असत् (*asat*)**.” (RV 10.72.2)[NOTE: rv-10-72-2-sat-born-from-asat]
 
-A second hymn pairs ऋत (*ṛta*) with **सत्यम् (*satyam*)** — सत् (*sat*) expressed as truth (सत् + य) — at the same origin: **ऋतं च सत्यं चाभीद्धात्तपसोऽध्यजायत** (*ṛtaṃ ca satyaṃ cābhīddhāt tapaso 'dhy ajāyata*) — "from *tapas* kindled to its height, *ṛta* and *satya* were born." (RV 10.190.1)[NOTE: rv-10-190-1-rta-satya-cocreated] The two arise together, of one heat, in one act; ऋत (*ṛta*) is no synonym for सत्यम् (*satyam*) but its companion at the source. Two verses later, in the same short hymn, the sequence completes: **सूर्याचन्द्रमसौ धाता यथापूर्वमकल्पयत्** (*sūryācandramasau dhātā yathāpūrvam akalpayat*) — "Dhātar formed Sun and Moon in due order." (RV 10.190.3) ऋत (*ṛta*) and सत्यम् (*satyam*) are born first; the Sun and Moon follow, in the same act of ordering.
+Because *sat* had to be born from *asat*, the **ऋत (*ṛta*)** order aligned with *sat* cannot be the universe's default order.
 
-The two hymns establish that **सत् (*sat*)**, **ऋत (*ṛta*)**, and **सत्यम् (*satyam*)** came into being. They were not the default condition of the universe. Ṛgveda 7.104 then shows *sat* and *asat* contending against each other, while the Vṛtra, Svarbhānu, and Paṇi narratives show what that conflict looks like in action. The Vedic order must therefore be upheld and defended against the architecture of containment built upon *asat*. Each generation must choose it, build through it, and defend it.
+This implies that the **ऋत (*ṛta*)** order is one possible set of paths that can exist in this universe, and it runs counter to the orders that can arise from *asat*. The *asuric pyramidal* order, this book argues, would belong to the opposite set of paths.
 
-ऋत (*ṛta*) comes from the atom ⟪ऋ⟫ (*ṛ*), to go, closed by the past participle **क्त (*kta*)**, which surfaces as -त: that which has moved, the course laid down. The universe the Veda describes is in motion, and ऋत (*ṛta*) is the path it can move along — a trajectory when followed brings harmony.
+The question then becomes: was **ऋत (*ṛta*)** engineered by humans?
 
-Three related words describe how **ऋत (*ṛta*)** becomes movement, speech, and perception. **ऋजु (*ṛju*)** is straight movement along the track; its Vedic opposite is **वृजिन (*vṛjina*)**, the crooked (RV 7.104.13).[NOTE: rv-7-104-12-13-sat-asat-vrjina-soma] The **ऋच् (*ṛc*)** — voiced as **ऋग् (*ṛg*)** before a voiced sound — is the verse that renders that order as measured speech. The **ऋषि (*ṛṣi*)** sees **ऋत (*ṛta*)** and sets it into verse; Yāska explains the word through seeing: *ṛṣir darśanāt*.
+The Vedas state the sequence in two mantras from the same hymn:
 
-The Veda performs the discernment between सत् (*sat*) and असत् (*asat*) within the mantra itself: **सच्चासच्च वचसी पस्पृधाते । तयोर्यत्सत्यं यतरदृजीयः । तदित्सोमोऽवति हन्त्यासत्** (*sac cāsac ca vacasī paspṛdhāte, tayor yat satyaṃ yatarad ṛjīyaḥ, tad it somo 'vati hanty āsat*) — "*sat* and *asat* contend, word against word; of the two, whichever is true and straight, *ṛjīyaḥ*, Soma protects, and the *asat* he destroys." (RV 7.104.12)[NOTE: rv-7-104-12-13-sat-asat-vrjina-soma] Soma protects the straight and destroys the crooked, within the verse itself.
+> **ऋतं च सत्यं चाभीद्धात्तपसोऽध्यजायत**\
+> **ऋतम् । च । सत्यम् । च । अभीद्धात् । तपसः । अधि । अजायत ।**\
+> *ṛtaṃ ca satyaṃ cābhīddhāt tapaso 'dhy ajāyata*\
+> “*Ṛta* and *satya* were born from intensely blazing *tapas*.” (RV 10.190.1)[NOTE: rv-10-190-1-rta-satya-cocreated]
 
-The protagonists bear सत् (*sat*) in their titles. Indra's is **सत्पति (*satpati*)**, the lord of *sat*.[NOTE: protagonist-sat-epithets]
+> **सूर्याचन्द्रमसौ धाता यथापूर्वमकल्पयत् ।**\
+> **दिवं च पृथिवीं चान्तरिक्षमथो स्वः ॥**\
+> **सूर्याचन्द्रमसौ । धाता । यथापूर्वम् । अकल्पयत् । दिवम् । च । पृथिवीम् । च । अन्तरिक्षम् । अथो । स्वः ॥**\
+> *sūryācandramasau dhātā yathāpūrvam akalpayat | divaṃ ca pṛthivīṃ cāntarikṣam atho svaḥ*\
+> “Dhātā then formed the Sun and the Moon, and formed the skies, the earth, the intermediate space, and the realms of light, as before.” (RV 10.190.3)
 
-सत् (*sat*) is flow: circulation kept open, release along that path — the path of **स्वस्ति (*svasti*)**, well-being, followed as the Sun and Moon follow their orbits: **स्वस्ति पन्थामनु चरेम सूर्याचन्द्रमसाविव** (*svasti panthām anu carema sūryācandramasāv iva*) — "may we follow the path of *svasti*, as the Sun and Moon do." (RV 5.51.15)[NOTE: rv-5-51-15-svasti-panthanam] This is the swastika. असत् (*asat*) is what came first: the prior condition of non-flow, out of which सत् (*sat*) was created (RV 10.72.2).
+This means that there was *asat*, then *sat* and *ṛta*, and then the sun, moon and the earth were formed.[NOTE: sat-rta-cosmogonic-sequence-inference]
 
-**ऋत (*ṛta*)** is the Veda's own word for this order of flow. The book adds two descriptors, each earned by what the order does: because it expresses the order Sanātan preserves, the **सनातन (*sanātana*) order**; because it embodies सत् (*sat*), the **सात्त्विक (*sāttvika*) order**, the order of *sat*-ness.[NOTE: sattvika-order-generative-coinage] One order under several true names — Sanskrit working by attribute, not by fixed label, as §0.3 showed with water.
+This means that the *sat-asat* binary predates human existence. *Ṛta* was created, but human beings did not create it.
 
-There's a fundamental asymmetry in the two orders. असत् (*asat*) aims for possession of power — who commands, who controls access, who monopolizes sovereignty. सत् (*sat*), on the other hand, seeks distributed order — circulation that keeps the gates of containment open. Sanātan does not condemn power itself; Indra wields the vajra. It judges power by what the action serves — Indra releases what Vṛtra withholds, and it is the action of releasing, not the strength, that differentiates सत् (*sat*) from असत् (*asat*).
+The straight movement along the **ऋत (*ṛta*)** thread is **ऋजु (*ṛju*)**, and the crooked movement is **वृजिन (*vṛjina*)** (RV 7.104.13).[NOTE: rv-7-104-12-13-sat-asat-vrjina-soma]
 
-This differentiation is **सत्-असत्-विवेक (*sat-asat-viveka*)**, and the Veda performs it verse by verse. It runs in the *laukika* domain as fully as in the *vaidika*, where circumstance changes and the discipline does not. The Mahābhārata states its worldly test: **यद्भूतहितमत्यन्तं तत्सत्यम्** (*yad bhūta-hitam atyantaṃ tat satyam*) — "that which fully and finally serves the welfare of living beings is सत् (*sat*)."[NOTE: satyam-bhutahitam-mahabharata]
+The **ऋच् (*ṛc*)** — voiced as **ऋग् (*ṛg*)** before a voiced sound — is the verse that renders that order as measured speech. The **ऋषि (*ṛṣi*)** sees **ऋत (*ṛta*)** and sets it into verse.
 
-The Veda preserves the invariant distinction; the *laukika* domain applies it to a changing world.
+What makes humans unique is that they inherited the capacity for *asat*, and therefore for *sat* — a capacity that other animals do not possess. Animals act within *prakṛti*. Human beings can choose between *sat* and *asat* and build a civilizational order around that choice.
 
-Chapter 1 follows असत् (*asat*) from cosmic condition into specific action: concealment, blockade, isolation, enclosure — the architecture of containment, the pyramid.
+> **सदसद्विवेकबुद्धिः**\
+> **सत्-असत्-विवेक-बुद्धिः**\
+> *sat-asat-viveka-buddhiḥ*\
+> “The intellect that discriminates between *sat* and *asat*.”
+
+How does one tell *sat* and *asat* apart?
+
+The mantra below says: look for **यतरदृजीयः (*yatarad ṛjīyaḥ*)** — whichever one is straighter.
+
+> **सच्चासच्च वचसी पस्पृधाते । तयोर्यत्सत्यं यतरदृजीयः । तदित्सोमोऽवति हन्त्यासत्**\
+> **सत् । च । असत् । च । वचसी । पस्पृधाते । तयोः । यत् । सत्यम् । यतरत् । ऋजीयः । तत् । इत् । सोमः । अवति । हन्ति । असत् ।**\
+> *sac cāsac ca vacasī paspṛdhāte, tayor yat satyaṃ yatarad ṛjīyaḥ, tad it somo 'vati hanty āsat*\
+> “*Sat* and *asat* contend, word against word; of the two, whichever is true and straight, *ṛjīyaḥ*, Soma protects, and the *asat* he destroys.” (RV 7.104.12)[NOTE: rv-7-104-12-13-sat-asat-vrjina-soma]
+
+Before human choice shapes an order toward *sat* or *asat*, living beings act within **प्रकृति (*prakṛti*)**.
+
+- **विकृति (*vikṛti*)** — representing *asat* — the **वृजिन (*vṛjina*)** movement.
+- **संस्कृति (*saṃskṛti*)** — representing *sat* — the **ऋजु (*ṛju*)** movement.
+- **प्रकृति (*prakṛti*)** — representing everything else.
+
+The Vṛtra, Svarbhānu, and Paṇi narratives show what the conflict between *sat* and *asat* looks like in action. The protagonists bear **सत् (*sat*)** in their titles. Indra's is **सत्पति (*satpati*)**, the lord of *sat*.[NOTE: protagonist-sat-epithets]
+
+The protagonists fight for **सत् (*sat*)** to restore the order of flow: circulation kept open and release along that path — the path of **स्वस्ति (*svasti*)**, well-being, followed as the Sun and Moon follow their orbits: **स्वस्ति पन्थामनु चरेम सूर्याचन्द्रमसाविव** (*svasti panthām anu carema sūryācandramasāv iva*) — “may we follow the path of *svasti*, as the Sun and Moon do.” (RV 5.51.15)[NOTE: rv-5-51-15-svasti-panthanam]
+
+The *swastika* is the physical symbol that extends this path of well-being.
+
+While **ऋत (*ṛta*)** is this order of flow, the book adds two descriptors: the **सनातन (*sanātana*) order** and, because it embodies **सत् (*sat*)**, the **सात्त्विक (*sāttvika*) order**, the order of *sat*-ness.[NOTE: sattvika-order-generative-coinage]
+
+There's a fundamental asymmetry in the two orders. **असत् (*asat*)** aims for possession of power — who commands, who controls access, who monopolizes sovereignty. **सत् (*sat*)**, on the other hand, seeks distributed order — circulation that keeps the gates of containment open. *Sanātan* does not condemn power itself; Indra wields the *vajra*. It judges power by what the action serves — Indra releases what Vṛtra withholds, and it is the action of releasing, not the strength, that differentiates **सत् (*sat*)** from **असत् (*asat*)**.
+
+The Vedas offer the abstracted idea of *sat* versus *asat* that remains timeless. The human experience in the *laukika* domain interprets it for the specific conditions of life. As an example, the Mahābhārata states: **यद्भूतहितमत्यन्तं तत्सत्यम्** (*yad bhūta-hitam atyantaṃ tat satyam*) — “that which fully and finally serves the welfare of living beings is **सत्य (*satya*)**.”[NOTE: satyam-bhutahitam-mahabharata]
+
+The Veda preserves the invariant distinction; the *laukika* domain applies it to a changing world.  
+
+This is the quintessence of the calibrant architecture for both *saṃskṛti* and Sanskrit.
+
+Chapter 1 follows **असत् (*asat*)** from cosmic condition into specific action: concealment, blockade, isolation, enclosure — the architecture of containment, the pyramid.
 
 ---
 

@@ -1699,6 +1699,14 @@ Verified against the local DCS corpus (hymn file `Ṛgveda-1026-ṚV, 10, 190-99
 
 ---
 
+### `sat-rta-cosmogonic-sequence-inference`
+
+**Short:** The sequence stated in Chapter 0 §0.7 is the book's synthesis across two Rigvedic hymns. Ṛgveda 10.72.2 says that सत् (*sat*) was born from असत् (*asat*). Ṛgveda 10.190.1 places ऋत (*ṛta*) beside सत्यम् (*satyam*), the expression of *sat*, and says that both were born from blazing *tapas*. Ṛgveda 10.190.3 then describes Dhātā forming the Sun, Moon, sky, earth, intermediate space, and *svar*, "as before." The body condenses these statements into one architectural sequence: *asat*; then *sat* and the *ṛta* order; then the formed worlds. It does not propose a separate birth or chronology for *satya* apart from *sat*.
+
+**Deployments:** Chapter 0 §0.7 — the inference immediately following Ṛgveda 10.190.1 and 10.190.3.
+
+---
+
 ### `rv-7-104-12-13-sat-asat-vrjina-soma`
 
 **Short:** Ṛgveda 7.104.12–13 stages सत् and असत् contending as verse itself: Soma protects whichever side is true and *ṛjīyaḥ* (straight) and destroys *vṛjina* (the crooked) and the असत्-speaker — the Vedic source for the book's सत्-असत्-विवेक, and the Vedic word for ऋजु's opposite.
