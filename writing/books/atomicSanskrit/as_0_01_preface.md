@@ -96,5 +96,3 @@ The origin of Sanskrit is not the primary domain here (though **अपौरु�
 Seeing Sanskrit as calibrant architecture restores what the eclipse darkened.
 
 Overture: The Śaṅkha introduces the two parties. Chapter 0 presents the seekers and caretakers of Sanskrit; Chapter 1 presents the oppressors and the finite apex-form. Then the clearing begins, shadow by shadow: how the shadow is cast, the Sun's own account, its sound-body and its atoms, its anti-entropy, and the dispelling of Rāhu — until the Sun stands whole.
-
-Diagnosis ends here. The Śaṅkha sounds next.

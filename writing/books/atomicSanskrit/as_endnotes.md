@@ -150,9 +150,9 @@ The DCS pada record separates the verse as ***devīm vācam ajanayanta devāḥ*
 
 ### `rigveda-10-71-4-vach`
 
-**Short:** Ṛgveda 10.71.4 gives the Preface its governing perception-frame: one may look and still not see *vāk*; one may listen and still not hear her. The feminine pronoun follows Sanskrit grammar: *vāk* (वाक्, speech) is feminine, and the verse's object pronoun *enām* (एनाम्) is feminine accusative singular. The first half frames Sanskrit's modern reception: the architecture has been visible and audible, but the pyramid has failed to perceive it. The second half is reserved for the *mantra-dṛṣṭāḥ* discussion: Speech reveals her body only to the one capable of seeing.
+**Short:** Ṛgveda 10.71.4 gives Chapter 13 its governing perception-frame: one may look and still not see *vāk*; one may listen and still not hear her. The feminine pronoun follows Sanskrit grammar: *vāk* (वाक्, speech) is feminine, and the verse's object pronoun *enām* (एनाम्) is feminine accusative singular. Chapter 13 uses the first half to frame the preservation problem: Speech may be visible and audible yet not truly heard. The second half — Speech revealing her body only to the prepared listener — motivates the trained-reciter architecture the chapter goes on to describe.
 
-**Deployments:** Preface opening epigraph; Chapter 13 opening epigraph and §13.1 bridge.
+**Deployments:** Chapter 13 opening epigraph and §13.1 bridge.
 
 #### Padapāṭha (word-separated form)
 
@@ -197,7 +197,7 @@ The DCS pada record separates the verse as ***devīm vācam ajanayanta devāḥ*
 
 *Ṛgveda* 10.71.4, part of the *Vāk-sūkta* (the Speech-hymn). Standard editions: Aufrecht's *Die Hymnen des Ṛgveda* (1877 / Wiesbaden reprint); van Nooten & Holland's *Rig Veda: A Metrically Restored Text* (Harvard Oriental Series 1994); Sāyaṇa's *bhāṣya*. The *Anukramaṇī* attributes the hymn to *Bṛhaspati Āṅgirasa*. The verse is one of the lineage's received anchors for the seer / non-seer distinction in Vedic epistemology. Final publication should verify the saṃhitā-text against the selected Ṛgveda edition.
 
-The Preface quotes Ṛgveda 10.71.4:
+Chapter 13 quotes Ṛgveda 10.71.4 as its opening epigraph:
 
 > **उत त्वः पश्यन्न ददर्श वाचम् उत त्वः शृण्वन्न अशृणोत्येनाम् ।**
 > **उतो त्वस्मै तन्वं वि सस्रे जायेव पत्य उशती सुवासाः ॥**
@@ -205,13 +205,11 @@ The Preface quotes Ṛgveda 10.71.4:
 > *uta tvaḥ paśyan na dadarśa vācam uta tvaḥ śṛṇvann aśṛṇoty enām |*
 > *uto tvasmai tanvaṃ vi sasre jāyeva patya uśatī suvāsāḥ ||*
 
-The line belongs to the *Vāk* hymn, where speech is present but not equally accessible to all. The Preface renders the second clause as "One may listen and still not hear her" because Sanskrit treats **वाक् (*vāk*)**, speech, as feminine. The verse itself encodes that grammar: ***vācam*** (वाचम्) is feminine accusative singular, and ***enām*** (एनाम्), "her / this one," is also feminine accusative singular. The English "her" is therefore not personification added by the translation; it preserves the Sanskrit grammatical gender of speech.
+The line belongs to the *Vāk* hymn, where speech is present but not equally accessible to all. Chapter 13's translation renders the second clause as "one may hear and not hear her" because Sanskrit treats **वाक् (*vāk*)**, speech, as feminine. The verse itself encodes that grammar: ***vācam*** (वाचम्) is feminine accusative singular, and ***enām*** (एनाम्), "her / this one," is also feminine accusative singular. The English "her" is therefore not personification added by the translation; it preserves the Sanskrit grammatical gender of speech.
 
-The Preface reveals the verse in two movements. The first half stands at the threshold: Sanskrit was not hidden. It was recited, taught, parsed, catalogued, and printed. The failure was not absence of evidence. It was failure of perception — looking without seeing, listening without hearing. The second half is activated when the Preface introduces the *mantra-dṛṣṭāḥ*: ***tanvaṃ vi sasre*** says that Speech "revealed / spread out her body" to the one capable of seeing, compared in the verse to a willing, well-dressed wife before her husband. The point is not ornamental metaphor. It is the Indic epistemic claim: the seers did not manufacture speech; Speech revealed herself.
+The verse works in two movements. The first half frames Sanskrit's modern reception, the reading Chapter 13 puts to direct use: Sanskrit was not hidden. It was recited, taught, parsed, catalogued, and printed. The failure was not absence of evidence. It was failure of perception — looking without seeing, listening without hearing. Chapter 13 §13.1 turns that failure into the preservation problem: the Veda requires more than storage; it requires the architecture that produces the prepared listener — trained ear, trained mouth, recitational discipline, correction, and lineage — to whom Speech can reveal herself. The second half carries the book's *mantra-dṛṣṭāḥ* epistemology: ***tanvaṃ vi sasre*** says that Speech "revealed / spread out her body" to the one capable of seeing, compared in the verse to a willing, well-dressed wife before her husband. The point is not ornamental metaphor. It is the Indic epistemic claim: the seers did not manufacture speech; Speech revealed herself.
 
-The seer-function is not gender-bound. The most ontologically radical *mantra-dṛṣṭā* moment in the corpus — *Vāk* declaring her own primordiality in the first person — is recorded through a female *ṛṣikā*: ***Vāk Ambhṛṇī*** (वाक् आम्भृणी), the seer of Ṛgveda 10.125 in the *Anukramaṇī*. The lineage did not need modern correction to admit this; it was already there in the received index. The Preface therefore keeps the RV 10.71.4 wife-image inside its proper frame: a metaphor of revelation, not a restriction on who may see, by citing the lineage's women seers — *ṛṣikāḥ* and *brahmavādinyaḥ* such as Lopāmudrā, Apālā, Viśvavārā, Ghoṣā, and Vāk Ambhṛṇī. See `rigveda-10-125-vak-ambhrini` for the full hymn, source basis, and three-layer structural argument.
-
-Chapter 13 uses the same verse for the preservation problem. Speech may be visible and audible, yet not truly seen or heard. The Veda therefore requires more than storage: it requires the architecture that produces the prepared listener — trained ear, trained mouth, recitational discipline, correction, and lineage — to whom Speech can reveal herself.
+The seer-function is not gender-bound. The most ontologically radical *mantra-dṛṣṭā* moment in the corpus — *Vāk* declaring her own primordiality in the first person — is recorded through a female *ṛṣikā*: ***Vāk Ambhṛṇī*** (वाक् आम्भृणी), the seer of Ṛgveda 10.125 in the *Anukramaṇī*. The lineage did not need modern correction to admit this; it was already there in the received index. The RV 10.71.4 wife-image belongs inside that same frame: a metaphor of revelation, not a restriction on who may see. The lineage's own women seers — *ṛṣikāḥ* and *brahmavādinyaḥ* such as Lopāmudrā, Apālā, Viśvavārā, Ghoṣā, and Vāk Ambhṛṇī — are the lineage's own answer to any reading that would narrow the verse's wife-simile into a claim about who may see. See `rigveda-10-125-vak-ambhrini` for the full hymn, source basis, and three-layer structural argument.
 
 ---
 
@@ -303,7 +301,7 @@ The dogma that filters Sanskrit through Abrahamic-substrate frames imports the g
 
 **Source basis.** The saṃhitā text, padapāṭha, and grammatical details quoted here have been checked against the RV 10.125 display of Wilson's translation with Sāyaṇa-based apparatus, which gives the plain text, transliteration, padapāṭha, and details for the hymn's verses. The full accented and unaccented hymn is also checked against the SanskritDocuments *Devī Sūktam / Vāgāmbhṛṇī Sūktam* file. The anukramaṇī-style metadata is the standard RV 10.125 headnote: **८ वागाम्भृणी । आत्मा । त्रिष्टुप्, २ जगती** (*8 Vāgāmbhṛṇī; Ātmā; Triṣṭubh, verse 2 Jagatī*), matching the printed *Sarvānukramaṇī* tradition represented by A. A. Macdonell's 1886 edition of Kātyāyana's *Sarvānukramaṇī of the Rigveda* and reproduced in contemporary Vedic-index displays.
 
-**Cross-references.** `rigveda-10-71-4-vach` (the Preface epigraph; receives the substrate-side conferral RV 10.125 declares). `patanjali-siddhe-shabdarthasambandhe` (the bond-already-established frame; *vāk* in RV 10.125 is what the bond is *between*). `apauruseya-mimamsa-sutra-1-1-5` (the *Mīmāṃsā* codification of the *apauruṣeyatva* RV 10.125 declares in first person).
+**Cross-references.** `rigveda-10-71-4-vach` (Chapter 13's opening epigraph; receives the substrate-side conferral RV 10.125 declares). `patanjali-siddhe-shabdarthasambandhe` (the bond-already-established frame; *vāk* in RV 10.125 is what the bond is *between*). `apauruseya-mimamsa-sutra-1-1-5` (the *Mīmāṃsā* codification of the *apauruṣeyatva* RV 10.125 declares in first person).
 
 ---
 

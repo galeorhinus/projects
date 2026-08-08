@@ -303,13 +303,9 @@ At *Nirukta* 7.14, Yaska demonstrates this word-level analysis through **अग�
 
 Each decomposition connects **अग्नि (*agni*)** with something fire does: it leads, animates, dries, illuminates, and burns.
 
-Yaska could perform these decompositions because Sanskrit gave him stable parts to analyze. He could separate **अग्नि (*agni*)** into *varṇāḥ*, connect those sounds with *dhātavaḥ*, and explain how their bonds contributed to the assembled word. His references to Sthaulāṣṭhīvi and Śakapūṇi show that other decoders were already applying the same method. The analysis belonged to the Sanskrit continuum *before* Pāṇini documented the complete grammatical system.
+Yaska could perform these decompositions because Sanskrit gave him the engineered sound-components to analyze. He could separate **अग्नि (*agni*)** into *varṇāḥ*, connect those sounds with *dhātavaḥ*, and explain how their bonds contributed to the assembled word. His references to Sthaulāṣṭhīvi and Śakapūṇi show that other decoders were already applying the same method. The analysis belonged to the Sanskrit continuum *before* Pāṇini documented the complete grammatical system.
 
 The Sanskrit continuum debated how this engineering produces meaning. *Varṇa-vāda* and *sphoṭa-vāda* examined whether meaning begins in the individual sound or becomes available through the complete expression. Other debates examined intrinsic charge and assignment freedom, or whether the *dhātuḥ* or the *śabda* comes first. Every side began from the same knowledge: Sanskrit can be decomposed, analyzed, and generated through a stable architecture.
-
-The progressive dogma that calls Sanskrit a natural language like any other does not continue one of these internal debates. It rejects the shared premise from which every side began.
-
-The Sanskrit lineage is right. The progressive dogma is the anomaly.
 
 ## 10.13 Where Sonomers Appear Inside an Atom
 

@@ -10,9 +10,9 @@ The *saṃhitā-pāṭha* is recited in temples and homes across the subcontinen
 
 *Auditure* is what is heard; *Mnemoniture* is what is remembered in story, wisdom, setting, and civilizational memory. The *Śikṣā* discipline trains the speech instrument, and the eleven *pāṭhas* re-encode the corpus. Continuous recitation across geographically separated lineages, with periodic contact among them, supplies the empirical cross-check. Sanskrit's preservation architecture leaves an observable engineering signature. The eleven *pāṭhas* are that signature.
 
-## 15.1 The *Śikṣā* Discipline
+## 15.1 The **शिक्षा (*Śikṣā*)** Discipline
 
-शिक्षा (*Śikṣā*) is the **वेदाङ्ग (*Vedāṅga*)** that trains recitation. The six *Vedāṅgas* support different parts of Vedic preservation and use. *Śikṣā* trains the production of sound. **छन्दस् (*Chandas*)** establishes meter. **व्याकरणम् (*Vyākaraṇam*)** explains linguistic form. **निरुक्त (*Nirukta*)** explains difficult words and their derivations. **कल्प (*Kalpa*)** sets out yajña procedures, and **ज्योतिष (*Jyotiṣa*)** supplies calendrical calculation. Within this group, *Śikṣā* prepares the human body to reproduce what Auditure must preserve.
+**शिक्षा (*Śikṣā*)** is the **वेदाङ्ग (*Vedāṅga*)** that trains recitation. The six *Vedāṅgas* support different parts of Vedic preservation and use. *Śikṣā* trains the production of sound. **छन्दस् (*Chandas*)** establishes meter. **व्याकरणम् (*Vyākaraṇam*)** explains linguistic form. **निरुक्त (*Nirukta*)** explains difficult words and their derivations. **कल्प (*Kalpa*)** sets out yajña procedures, and **ज्योतिष (*Jyotiṣa*)** supplies calendrical calculation. Within this group, *Śikṣā* prepares the human body to reproduce what Auditure must preserve.
 
 The **प्रातिशाख्य (*Prātiśākhya*)** discipline specifies the phonetic constants preserved by a Vedic lineage: sounds, meaning-bearing accents, junctions, pauses, and recitational rules. *Śikṣā* trains the human instrument to produce those constants reliably. It tells the student what to do with the tongue, breath, palate, duration, pitch, and sequence. It tells the teacher what to check.
 
@@ -20,9 +20,9 @@ The listed *Śikṣā* texts are compact because they are training manuals, not 
 
 Chapter 9 maps these relations as one vowel architecture. The vowel family identifies the sound, *mātrā* fixes its duration, *svara* fixes its pitch, and *anunāsika* records nasal participation. *Śikṣā* trains the student to reproduce all four together rather than reducing recitation to a sequence of written vowel signs.
 
-As students repeat a measured phrase, its rhythm divides the passage into forms the mouth can rehearse and the ear can recognize. The teacher and student therefore share an expectation of the line's timing before correction begins.
+As students repeat a measured phrase, its rhythm divides the passage into forms the mouth can rehearse and the ear can recognize. The teacher and student therefore both already know how the line should be timed, before correction ever begins.
 
-Recitation is a public audit. A *śiṣya* recites before a *guru*, peers, senior reciters, and a community that together serve as a distributed standard. A departure from the established form can therefore be heard and corrected as it occurs. The *guru* applies the auditory measure learned from his own *guru*, and the student joins the lineage by learning to produce and recognize that same measure.
+Recitation is a form of a public audit. A *śiṣya* recites before a *guru*, peers, senior reciters, and a community that together serve as a distributed standard. A departure from the established form can therefore be heard and corrected as it occurs. The *guru* applies the auditory measure learned from his own *guru*, and the student joins the lineage by learning to produce and recognize that same measure.
 
 The Veda lives first in recitation, while writing provides a visible reflection of the recited form. The usual enumeration places *Śikṣā* first among the *Vedāṅgas*. That position is consistent with the practical order of preservation: the body must produce the sound accurately before another discipline can analyze its grammar, explain a difficult word, apply it in yajña, or determine its calendrical setting.[NOTE: shiksha-first-vedanga-priority]
 
@@ -62,8 +62,6 @@ This is the calibration matrix in motion (Chapter 14 §14.3) — *Chandas* opera
 
 As long as society continues to listen to what is heard, Auditure remains distributed and democratized.  
 
-The *progressive dogma* treats the *pāṭhas* — when it engages them at all — as religious devotion, mnemonic ingenuity, or pedagogical curiosity. That category obscures the fact that the *pāṭhas* are preservation engineering at the finest.
-
 ## 15.4 Empirical Verification
 
 Vedic recitation continues in geographically separated lineages across Kerala, Maharashtra, Tamil Nadu, Karnataka, the northern plains, Gujarat, Rajasthan, and Kashmir.[NOTE: nambudiri-vedic-recitation-isolation] No central institution coordinated all of them. Each lineage preserved a specified *śākhā* through its own teacher-student chain.
@@ -90,8 +88,4 @@ Because this architecture has been running continuously and without interruption
 
 Ultimately, its survival is evidence of the system's explicit purpose: because a matrix built to preserve recoverable form across darkness, distance, and time has successfully preserved recoverable form across darkness, distance, and time, the reader can examine the architecture precisely because the architecture did its work.
 
-This is **ध्रौव्यता (*dhrauvyatā*)** in operation: not a claim about constancy, but audible constancy itself.
-
-A civilization the progressive dogma has classified as pre-rational and pre-engineering has produced and maintained the most sophisticated preservation architecture in human history; the pyramid's reflex is to treat the architecture's continued operation as evidence of mere inherited custom. *Tradition* is the pyramid's word for engineering it does not want to see.
-
-The proper name is engineering, and that engineering continues. The next question is how the pyramid explained it away.
+This is **ध्रौव्यता (*dhrauvyatā*)** in operation: the audible constancy that makes the Veda as a calibrant.
