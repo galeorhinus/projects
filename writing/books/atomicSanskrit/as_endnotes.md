@@ -1111,7 +1111,7 @@ Source: Ṛgveda 6.17.8, Sanskrit and translation comparison at [WisdomLib](http
 
 ### `asura-generativity-pie-double-standard`
 
-**Short:** Comparative reconstruction permits starred forms that appear in no recorded sentence, while the standard account rejects a Sanskrit derivation because its positive base does not occur independently in the Rigveda. Chapter 3 identifies that mismatch as the double standard protecting external custody.
+**Short:** Comparative reconstruction permits starred forms that appear in no recorded sentence, while the standard account rejects a Sanskrit derivation because its positive base does not occur independently in the Rigveda. Chapter 3 identifies that mismatch as the double standard preserving the external-origin narrative and concealing Sanskrit's generative architecture.
 
 **Deployment:** Chapter 3 §3.6 — "What the Conflation Buys"; Chapter 19 §19.8 can point back to this note.
 
@@ -2180,7 +2180,7 @@ Standard references for the pyramid's account: Murray Emeneau, *Language and Lin
 
 ### `secular-packaging-three-transformations`
 
-**Short:** The manuscript demonstrates these three transformations separately. Chapter 3 §3.2 traces the racial Arya thesis from explicit race science into migration, population, and DNA vocabulary; Chapter 17 §17.7 follows the sequence from Noah to skull and nose measurements and then to the modern population model; and Chapter 18 §§18.5–18.6 shows how racial anthropology became the historical custody claim that Sanskrit entered India with an outside people. Chapter 1 §§1.2–1.4 explains chronology capture: control of the timeline allows the pyramid to classify one civilization as primitive and another as advanced. Chapter 3 §3.4 then identifies linear-progress teleology as the doctrine that turns this ranking into history. Finally, Chapter 1 §1.1 places Genesis, chronology, and PIE inside the same origin-controlling structure; Chapter 3 §3.3 traces the inherited Biblical and Noachian chronological envelope into European philology; and Chapter 18 §18.5 shows the completed inversion, in which the Hindu continuum is dismissed as faith while the pyramid's reconstructed ancestor is presented as science.
+**Short:** The manuscript demonstrates these three transformations separately. Chapter 3 §3.2 traces the Racial Arya Thesis from explicit race science into migration, population, and DNA vocabulary; Chapter 17 §17.7 follows the sequence from Noah to skull and nose measurements and then to the modern population model; and Chapter 18 §§18.5–18.6 shows how racial anthropology became the historical displacement claim that Sanskrit entered India with an outside people. Chapter 1 §§1.2–1.4 explains chronology capture: control of the timeline allows the pyramid to classify one civilization as primitive and another as advanced. Chapter 3 §3.4 then identifies linear-progress teleology as the doctrine that turns this ranking into history. Finally, Chapter 1 §1.1 places Genesis, chronology, and PIE inside the same origin-controlling structure; Chapter 3 §3.3 traces the inherited Biblical and Noachian chronological envelope into European philology; and Chapter 18 §18.5 shows the completed inversion, in which the Hindu continuum is dismissed as faith while the pyramid's reconstructed ancestor is presented as science.
 
 **Deployment:** Chapter 4 §4.1, after the sentence naming racism as anthropology, teleology as history, and theology as objective science.
 

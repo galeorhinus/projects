@@ -1,4 +1,4 @@
-# Fractalizing *Atomic Sanskrit* — Mouth-to-Language Plan
+# Fractalizing *Atomic Sanskrit* — Mouth-to-Language and the Two-Fractal Contest
 
 > *Working note. Saved 2026-05-28. Proposes the specific edits needed to
 > make the new subtitle — **The Radiant, Calibrant, and Fractal Architecture of Sanātan** — land
@@ -7,34 +7,53 @@
 > volumes carry the recurrence from language into polity, economy, and
 > civilizational architecture.*
 
+> **Scope revision, 2026-08-07.** The earlier plan limited the explicit
+> civilizational contrast to a brief seed. The manuscript has since
+> established *sat* and *asat*, the swastika and pyramid, *saṃskṛti* and
+> *vikṛti*, and the architecture of containment. *Atomic Sanskrit* can
+> therefore trace the battle between the two fractals across cosmic,
+> operational, civilizational, and linguistic scales. The proof burden
+> remains bounded: this volume fully demonstrates Sanskrit's linguistic
+> architecture. Later *Second Shanti* volumes develop the political,
+> economic, and social consequences in full.
+
 ---
 
-## 1. Scope: mouth to language
+## 1. Scope: linguistic proof inside a four-scale contest
 
 *Fractal* is deployed in its working sense — *same organizing principle
 across scales* — not in the strict measure-theoretic / infinite-self-
 similarity sense.
 
-This volume's scope is linguistic: the recurrence runs from the mouth to
-the sonomer, from the sonomer to the *akṣara*, from the *akṣara* to the
-*dhātuḥ*, from the *dhātuḥ* to *śabda* / *kriyā* / *vākya*, from those
-forms to the *sūtra*, and from the *sūtra* to Sanskrit as a whole
-language architecture.
+This volume's complete demonstration remains linguistic: the recurrence
+runs from the mouth to the sonomer, from the sonomer to the *akṣara*,
+from the *akṣara* to the *dhātuḥ*, from the *dhātuḥ* to *śabda* /
+*kriyā* / *vākya*, from those forms to the *sūtra*, and from the *sūtra*
+to Sanskrit as a whole language architecture.
 
-Later *Second Shanti* volumes take the next step: from Sanskrit as
-language to *saṃskṛti* as civilizational architecture. This book should
-seed that direction but not try to prove it. Its burden is the linguistic
-proof.
+The book also follows a single contest across four scales. At the cosmic
+scale, *sat* and the *ṛta* order confront orders built from *asat*. In
+action, radiance and release confront *māyā*, concealment, and
+containment. At the civilizational scale, the swastika or *saṃskṛti*
+fractal confronts the pyramid or *vikṛti* fractal. At the linguistic
+scale, Sanskrit's distributed calibrant architecture confronts the
+captured genealogy built through botanical drift, PIE, and the Racial
+Arya Thesis.
+
+These are not four unrelated conflicts. They are two fractal
+architectures meeting at different scales. This volume identifies that
+recurrence and proves the linguistic member of the sequence. Later
+*Second Shanti* volumes take the next step from language into polity,
+economy, responsibility, and civilizational architecture.
 
 ---
 
-## 2. Fractal orders: brief only in this volume
+## 2. Fractal orders and the contest between them
 
-The book makes one framing distinction lightly: not all fractals are the
-same. Natural fractals behave one way. Civilizational fractals can behave
-in two opposite ways: they can preserve balance, or they can distort it.
-
-For this volume, keep that distinction brief:
+The book distinguishes natural recurrence from two created
+civilizational fractals. Natural fractals grow and change through
+*prakṛti*. Human beings can also create an architecture aligned with
+*sat* or an architecture aligned with *asat*.
 
 | Fractal order | Sanskrit term | Symbol | Function in this book |
 |---|---|---|---|
@@ -42,14 +61,54 @@ For this volume, keep that distinction brief:
 | Balanced civilizational fractal | संस्कृति (*saṃskṛti*) | swastika | engineered recurrence, distributed order, calibration, self-correction, balance held across scale |
 | Distorted civilizational fractal | विकृति (*vikṛti*) | asuric pyramid | apex control, containment, hierarchy reproduced at every scale, balance distorted across scale |
 
-The full ternary belongs to a later *Second Shanti* volume on polity and
-economics. *Atomic Sanskrit* uses only the minimum needed for the
-linguistic argument: the orthodoxy made a *saṃskṛti*-fractal look like
-*prakṛti*, while the asuric pyramid hid the swastika because distributed
-order threatens apex control. *Saṃskṛti* and *vikṛti* are both
-civilizational fractals. One keeps the balance; the other distorts it.
-*Atomic Sanskrit* names that contrast only as much as the linguistic
-argument requires; the book's body term remains **asuric pyramid**.
+The full political and economic development of this ternary belongs to
+later *Second Shanti* volumes. *Atomic Sanskrit* now does more than seed
+the contrast: it names the two created fractals, follows their actions
+across four scales, and demonstrates their linguistic encounter. The
+orthodoxy made a *saṃskṛti* fractal look like *prakṛti*. The asuric
+pyramid then hid the swastika because distributed calibration threatens
+apex control.
+
+### 2.1 Controlled terminology
+
+The manuscript must keep five levels distinct:
+
+1. ***Sat* and *asat* orient the choice.** They are not the names of the
+   two fractals. An architecture aligns its actions with one or the
+   other.
+2. **The *ṛta* order supplies the straight trajectory aligned with
+   *sat*.** *Vṛjina* identifies crooked movement away from that
+   trajectory.
+3. **The swastika or *saṃskṛti* fractal is the created architecture
+   aligned with *sat*.** It radiates, releases, circulates, distributes,
+   and calibrates.
+4. **The pyramid or *vikṛti* fractal is the created architecture aligned
+   with *asat*.** It conceals through *māyā*, blocks, isolates, encloses,
+   centralizes, and controls.
+5. **Botanical drift, PIE, RAT, codification, displacement, and captured
+   custody are linguistic operations of the pyramid fractal.** They are
+   not a third fractal. Botanical drift conceals Sanskrit's created
+   architecture. PIE places an imaginary ancestor above it. RAT
+   displaces its origin from India. Institutional custody follows when
+   the pyramid claims the authority to control the language's history,
+   editions, curriculum, and interpretation.
+
+The word **battle** describes a contest between actions and
+architectures, not a permanent factional identity. Chapter 3 §3.6
+remains controlling: Sanātan evaluates the action, not the faction.
+
+### 2.2 The two fractals across four scales
+
+| Scale | Swastika / *saṃskṛti* fractal | Pyramid / *vikṛti* fractal |
+|---|---|---|
+| Cosmic | *sat* aligned with the *ṛta* order | orders built from *asat* |
+| Operational | radiance, release, circulation | *māyā*, concealment, blockade, isolation, enclosure |
+| Civilizational | distributed calibrant order | apex control and the asuric pyramid |
+| Linguistic | Sanskrit's distributed calibrant architecture | captured genealogy through botanical drift, PIE, and RAT |
+
+The two columns name the recurring architectures. The four rows identify
+the scales at which the manuscript encounters them. This table controls
+the wording of the Chapter 3 figure and the epilogue synthesis.
 
 Guardrail:
 
@@ -136,7 +195,616 @@ the epilogue.
 
 ---
 
-## 6. Public-facing article seed
+## 6. Two Fractals Across Four Scales — proposed deployment
+
+**Status:** Deployed on 2026-08-07. The blocks below remain as the
+implementation record.
+
+### 6.1 Chapter 0 §0.7 — declare the contest
+
+**Location:** After the paragraph ending, "This is the quintessence of
+the calibrant architecture for both *saṃskṛti* and Sanskrit," and before
+the forward pointer to Chapter 1.
+
+**Existing transition:**
+
+> This is the quintessence of the calibrant architecture for both
+> *saṃskṛti* and Sanskrit.
+>
+> Chapter 1 follows **असत् (*asat*)** from cosmic condition into specific
+> action: concealment, blockade, isolation, enclosure — the architecture
+> of containment, the pyramid.
+
+**Proposed insertion between those paragraphs:**
+
+> The chapters that follow trace a battle between two fractal
+> architectures. One radiates, releases, distributes, and calibrates.
+> The other conceals, contains, centralizes, and controls. The two
+> fractals meet at cosmic, operational, civilizational, and linguistic
+> scales.
+
+**Purpose:** Declare the governing shape without asking Chapter 0 to
+prove all four scales. The existing Chapter 1 pointer then begins the
+operational demonstration.
+
+### 6.2 Chapter 1 §1.5 — identify the operational scale
+
+**Current paragraph:**
+
+> Four operations, one architecture, identified here at the scale the
+> Veda itself supplies: a deceiver, a withholder, a self-dug isolation,
+> a hoarder. Chapter 3 follows this same architecture into institutional
+> scale — race, theology, progress — where it no longer needs a named
+> antagonist because the machinery has learned to run without one.
+
+**Proposed replacement:**
+
+> Chapter 0 established the conflict between *sat* and *asat* at the
+> cosmic scale. This chapter has shown how an architecture aligned with
+> *asat* acts: through concealment, blockade, isolation, and enclosure.
+> Chapter 3 follows those operations into institutions, chronology,
+> race, and language, where the pyramid can reproduce them without a
+> named antagonist.
+
+**Purpose:** Complete the movement from cosmic orientation to repeated
+action. Do not list all four scales again.
+
+### 6.3 Chapter 3 §3.2 — place displacement and custody inside concealment
+
+**Current paragraph:**
+
+> The racial Arya thesis has persisted despite the evidence pressing
+> against it. Genetics, archaeology, and source criticism forced the old
+> invasion story to change costume, but they did not break the custody
+> claim. The story moved from invasion to migration, from skulls to DNA,
+> from racial language to population language. Yet Sanskrit is still
+> made to arrive from outside. The botanical metaphor remains because it
+> continues to deny India authorship. The requirement underneath never
+> changes: the pyramid needs an external author for what India could not
+> be permitted to have built itself. This is the migration trap of
+> Chapter 18 §18.6: movement is not authorship.
+
+**Proposed replacement:**
+
+> The racial Arya thesis has persisted despite the evidence pressing
+> against it. Genetics, archaeology, and source criticism forced the old
+> invasion story to change costume, but the concealment survived. The
+> story moved from invasion to migration, from skulls to DNA, and from
+> racial language to population language. Yet Sanskrit is still made to
+> arrive from outside.
+>
+> The botanical metaphor remains because it continues the older asuric
+> operation: *asat* uses **माया (*māyā*)** to hide *sat*. The metaphor
+> makes Sanskrit appear to be a drifting natural language and conceals
+> its created architecture. The Racial Arya Thesis then separates that
+> architecture from the civilization that created and preserved it.
+> Together, they hide the possibility that Sanskrit, the Vedas, and
+> *saṃskṛti* preserve a prehistoric architecture of created order. This
+> is the migration trap of Chapter 18 §18.6: movement is not authorship.
+
+**Purpose:** Identify concealment as the deeper operation. RAT performs
+the displacement, movement becomes evidence of external authorship, and
+institutional custody follows as a consequence.
+
+### 6.4 Chapter 3 §3.3 — show how progress inherits the concealment
+
+**Current paragraph:**
+
+> This pillar has receded in a way the racial pillar has not. The
+> respectable academy no longer dates Sanskrit by a Noachian count. The
+> Biblical envelope has receded, but the metaphor remains because the
+> progress narrative now keeps the same chronology in place.
+
+**Proposed replacement:**
+
+> This pillar has receded in a way the racial pillar has not. The
+> respectable academy no longer dates Sanskrit by a Noachian count. The
+> Biblical envelope has receded, but the metaphor remains because the
+> progress narrative now sustains the same concealment. It presents
+> Sanskrit's created architecture as an archaic stage of natural drift
+> and places the pyramid's own institutions at the apex of history.
+
+### 6.5 Chapter 3 §3.5 — remove the eternity contradiction
+
+**Current sentence:**
+
+> *Atomic Sanskrit*, the architecture of Sanātan, has always existed.
+> The asuric machinery placed it under intellectual quarantine.
+
+**Problem:** The manuscript now states that Sanskrit and the Vedas were
+created and therefore had beginnings. Their beginnings may be unknown;
+"always existed" contradicts that position.
+
+**Proposed replacement:**
+
+> *Atomic Sanskrit* preserves a created architecture of Sanātan. The
+> asuric machinery placed that architecture under intellectual
+> quarantine.
+
+### 6.6 Chapter 3 §3.8 — assemble the four scales
+
+**Location:** New closing subsection after §3.7 and its existing hammer,
+"The Veda does not condemn power. It condemns power used to block what
+should flow."
+
+**Proposed subsection:**
+
+> ## 3.8 The Battle of Two Fractals
+>
+> Chapter 0 introduced *sat* and *asat*. Chapter 1 identified the actions
+> through which containment enters the world. This chapter has followed
+> those actions into civilizational institutions and into the modern
+> account of Sanskrit.
+>
+> [FIGURE: Two Fractals Across Four Scales]
+>
+> The two fractals remain recognizable at every scale. The swastika
+> fractal keeps light, water, knowledge, language, and power in
+> circulation. The pyramid fractal encloses them and forces everyone else
+> to approach through an apex. The contested object changes, while the
+> two architectures retain their shapes.
+>
+> The technical chapters that follow uncover what the linguistic
+> concealment hid. They demonstrate the radiant, calibrant, and fractal
+> architecture of Sanskrit from mouth to language.
+
+### 6.7 Figure specification — Two Fractals Across Four Scales
+
+**File:** `figures/strategic/two_fractals_four_scales.svg`
+
+**Body location:** Chapter 3 §3.8.
+
+**Purpose:** Allow the reader to see one contest recurring across four
+scales. The figure must not imply chronological succession; the rows are
+scales, not periods.
+
+**Structure:**
+
+- Landscape figure sized for the manuscript's standard figure width.
+- Four horizontal rows: **Cosmic**, **Operational**, **Civilizational**,
+  and **Linguistic**.
+- Left column heading: **Swastika / Saṃskṛti Fractal**.
+- Right column heading: **Pyramid / Vikṛti Fractal**.
+- A restrained central divider identifies the contest. Do not use a
+  timeline arrow.
+- Use the typography and colors already established in Chapter 3's
+  strategic figures.
+
+**Exact cell content:**
+
+| Scale | Swastika / *saṃskṛti* fractal | Pyramid / *vikṛti* fractal |
+|---|---|---|
+| Cosmic | *sat* aligned with the *ṛta* order | orders built from *asat* |
+| Operational | radiance, release, circulation | *māyā*, concealment, blockade, isolation, enclosure |
+| Civilizational | distributed calibrant order | apex control and the asuric pyramid |
+| Linguistic | Sanskrit's distributed calibrant architecture | captured genealogy through botanical drift, PIE, and RAT |
+
+**Caption draft:**
+
+> **Figure 3.x — Two fractal architectures meet at four scales.** The
+> swastika fractal distributes, releases, and calibrates. The pyramid
+> fractal conceals, encloses, and centralizes. The contested object
+> changes across scale; the architecture of each side remains
+> recognizable.
+
+### 6.8 Epilogue — complete the fractal
+
+**Location:** In **The Contest of Architectures**, after the paragraph
+that ends, "Truth is alignment with the welfare of beings."
+
+**Proposed insertion:**
+
+> The book has followed this contest across four scales. At the cosmic
+> scale, *sat* and the *ṛta* order confront orders built from *asat*. In
+> action, radiance and release confront *māyā* and containment. Human
+> beings reproduce the choice through *saṃskṛti* and the pyramid. At the
+> linguistic scale, the pyramid covers Sanskrit's created architecture
+> with botanical drift, places PIE above the visible language, and uses
+> the Racial Arya Thesis to separate that architecture from India.
+>
+> These are two fractals meeting at different scales. The swastika
+> repeats created order without an apex. The pyramid repeats containment
+> beneath an apex.
+
+**Purpose:** Resolve the contest after the technical chapters have
+demonstrated the linguistic architecture. Preserve the existing
+swastika-and-pyramid return near the final mantra as the shorter closing
+echo.
+
+### 6.9 RAT terminology migration
+
+The manuscript currently calls the Racial Arya Thesis a *custody theory*
+in several places. That phrase identifies a real consequence but gives
+the consequence the place of the deeper operation. The revised language
+must keep the full sequence visible:
+
+| Level | Term | What it identifies |
+|---|---|---|
+| Deep purpose | **concealment** | hides Sanskrit's created architecture and the created order it preserves |
+| Vedic operation | ***माया (māyā)*** | makes what is present appear as something else |
+| Racial instrument | **Racial Arya Thesis** | invents an outside people and turns Sanskrit into their cargo |
+| Specific action | **displacement** or **externalization** | moves Sanskrit's creation and origin outside India |
+| Evidentiary trick | **movement becomes authorship** | treats genetic or population movement as proof that the movers created Sanskrit |
+| Institutional result | **external custody** | gives outside institutions control over Sanskrit's history, editions, curriculum, and interpretation |
+
+The controlling statement for this pass is:
+
+> The Racial Arya Thesis is an instrument of concealment. It displaces
+> Sanskrit from India, converts movement into authorship, and places the
+> account of Sanskrit's origin under external custody. Custody is one
+> result of the operation, not its deepest purpose.
+
+#### Custody as civilizational responsibility
+
+The Hindu continuum has remained the custodian of Sanskrit, the Vedas,
+and the ancient knowledge they preserve. That custody is a
+responsibility, not a factional possession, a claim of supremacy, or a
+political prize. The continuum protected this knowledge so that it would
+remain available to all beings, human and otherwise. Recognizing its
+custodianship therefore restores a civilizational responsibility: to
+keep the calibrant available so that living beings can bring their
+relations toward balance and **शान्तिः (*śāntiḥ*)** in the second
+domain.
+
+The manuscript must distinguish this living custodianship from the
+pyramid's external custody. The former accepts responsibility for
+transmission without claiming ownership of the knowledge. The latter
+uses institutions, credentials, editions, and curricula to control what
+the knowledge is allowed to mean.
+
+This distinction already has four foundations in the manuscript:
+
+- **About the *Second Shanti* Series:** Hindu protection and exact
+  transmission of the Vedas is a civilizational duty; the second domain
+  concerns the relations among living beings; the architecture serves
+  the welfare of all beings; and no ruler or office can own the
+  calibrant.
+- **Chapter 4, The Distributed Alternative:** a *rājā* protects the
+  distributed order without owning or controlling it.
+- **Epilogue, The Contest of Architectures:** *lokakṣema* and
+  *bhūta-hitam* make all living beings the purpose of the architecture.
+- **Epilogue, The Work Remaining:** recovery is not revenge, Sanskrit
+  must return as a calibrant inside Indian life, and Indians carry the
+  most immediate responsibility for that restoration.
+
+Do not restate those four explanations in full. Add one synthesis to the
+epilogue after the paragraph on distributed relearning and before **The
+Mantra**.
+
+**Proposed epilogue insertion:**
+
+> The Hindu continuum has remained the custodian of Sanskrit, the Vedas,
+> and the ancient knowledge they preserve. This custodianship carries
+> responsibility rather than ownership. Recognizing it does not transfer
+> Sanskrit from one faction to another or turn its recovery into a claim
+> of supremacy. It restores responsibility to the civilization that
+> preserved the calibrant: to keep this knowledge available to all
+> beings and to direct relationships in the second domain toward balance
+> and **शान्तिः (*śāntiḥ*)**.
+
+#### Chapter 3 — replace custody as the racial pillar's purpose
+
+**Current (§3.1):**
+
+> Sanskrit must still enter India through a narrow external-custody
+> story, and curricula still inherit Schleicher's vocabulary.
+
+**Proposed:**
+
+> Sanskrit must still enter India through a narrow external-origin
+> story, and curricula still inherit Schleicher's vocabulary.
+
+**Current heading:**
+
+> ## 3.2 Custody: The Racial Pillar
+
+**Proposed heading:**
+
+> ## 3.2 Displacement: The Racial Pillar
+
+**Current opening paragraphs:**
+
+> The first pillar is racial, and its function is custody.
+> Nineteenth-century European philology developed beside the racial Arya
+> thesis: the claim that a people called *Aryans* brought their language
+> into the subcontinent, where it became Sanskrit. Invasion and migration
+> are mechanisms inside that thesis. The thesis itself is older and
+> deeper: *ārya* as race, Sanskrit as racial cargo. It was not a marginal
+> hypothesis. It was the organizing assumption beneath the comparative
+> enterprise. To make it work, Sanskrit had to be portable. It had to be
+> the kind of thing migrants could bring.
+>
+> If Sanskrit is transported cargo, its greatness is no longer fully the
+> civilization's own. Portability is the custody claim. The racial Arya
+> thesis lets the pyramid say, in effect: Sanskrit is magnificent, but it
+> is not entirely yours. The custody claim is the apex's reflex: he must
+> own what he cannot make, and Sanskrit he did not make. The thesis
+> survives after invasion becomes migration and migration becomes softer
+> language because the mechanism can change while the custody claim
+> remains.
+
+**Proposed replacement:**
+
+> The first pillar is racial, and its function is displacement.
+> Nineteenth-century European philology developed beside the Racial Arya
+> Thesis: the claim that a people called *Aryans* brought their language
+> into the Indian subcontinent, where it became Sanskrit. Invasion and
+> migration are mechanisms inside that thesis. The deeper move converts
+> *ārya* from achieved discipline into race and Sanskrit from created
+> architecture into racial cargo. Sanskrit must therefore become
+> portable: the kind of object an outside population could carry into
+> India.
+>
+> Once Sanskrit becomes transported cargo, the pyramid can separate its
+> architecture from the civilization that created and preserved it.
+> Portability enables the displacement. Migration supplies the vehicle.
+> External authorship and custody follow. The thesis survives every
+> retreat from invasion into migration because its racial instrument
+> continues to place Sanskrit's origin outside India.
+
+Section 6.3 above supplies the replacement for the later paragraph that
+currently says the evidence did not break the custody claim.
+
+**Current (§3.4):**
+
+> This is the surviving pillar, but it has not abandoned the racial
+> pillar in India. It has repackaged it. Noachian chronology can fade;
+> explicit race science can be denounced; the linear-progress teleology
+> remains, and for Sanskrit it still requires an external author. A
+> scholar can reject old race science in public while preserving the
+> racial Arya thesis through migration and DNA vocabulary. The teleology
+> is what gives *progressive* its force; the racial frame is what keeps
+> Sanskrit portable.
+
+**Proposed replacement:**
+
+> This is the surviving pillar, but it has not abandoned the racial
+> pillar in India. It has repackaged it. Noachian chronology can fade;
+> explicit race science can be denounced; the linear-progress teleology
+> remains, and Sanskrit's created architecture must still originate
+> elsewhere. A scholar can reject old race science in public while
+> preserving the Racial Arya Thesis through migration and DNA vocabulary.
+> The teleology gives *progressive* its force; the racial frame keeps
+> Sanskrit's origin outside India.
+
+**Current (§3.5):**
+
+> Ultimately, the pillars still work together: chronology supplies
+> enclosure, racial portability supplies external authorship, and
+> progress supplies the civilizational hierarchy.
+
+**Proposed:**
+
+> Ultimately, the pillars still act together: chronology encloses
+> Sanskrit within a narrow past, the racial pillar assigns Sanskrit's
+> creation elsewhere, and progress places the pyramid's
+> institutions above the civilization that preserved it.
+
+**Current (§3.6):**
+
+> The strategy has changed with the circumstance. When Sanskrit could be
+> treated as dead, the pyramid could afford to drop it. A dead language
+> can be admired, classified, mined, and placed below an imaginary
+> ancestor. But Sanskrit did not die. As Hindu confidence returned and
+> Sanskrit re-entered public assertion, erasure became less useful than
+> co-ownership. The racial Arya thesis then became a second-best strategy:
+> not destroy Sanskrit outright, but keep a share in its origin.
+
+**Proposed replacement:**
+
+> The strategy changed with circumstance. When Sanskrit could be treated
+> as dead, the pyramid could afford to drop it. A dead language can be
+> admired, classified, mined, and placed below an imaginary ancestor.
+> But Sanskrit did not die. As Hindu confidence returned and Sanskrit
+> re-entered public assertion, open erasure became less useful than
+> controlled recognition. The Racial Arya Thesis became the second-best
+> strategy: keep Sanskrit visible while continuing to assign its creation
+> outside India.
+
+**Current (§3.6, *asura* analysis):**
+
+> They rejected both Sanskrit words and installed a third because the
+> third word protected external custody and converted action into
+> faction.
+
+**Proposed:**
+
+> They rejected both Sanskrit words and installed a third because the
+> invented word preserved the external-origin narrative and converted
+> action into faction.
+
+#### Chapter 17 — replace custody where the passage describes displacement
+
+**Current (§17.7):**
+
+> One qualification remained fixed: the race could not be Indian.
+> Custody of Sanskrit therefore remained outside India.
+
+**Proposed:**
+
+> One qualification remained fixed: the race could not be Indian.
+> The pyramid therefore kept Sanskrit's origin outside India.
+
+**Current:**
+
+> One conclusion survives every revision. Sanskrit must still enter
+> India from the northwest with its custody assigned elsewhere.
+
+**Proposed:**
+
+> One conclusion survives every revision. Sanskrit must still enter
+> India from the northwest, and its creation must still be assigned
+> elsewhere.
+
+**Current:**
+
+> The custody trick stands exposed. The pyramid grants the subcontinent
+> its fragments while denying that those fragments form an architecture.
+
+**Proposed:**
+
+> The maneuver now stands exposed. The pyramid grants the Indian
+> subcontinent each feature as an isolated borrowing while denying that
+> those features form an architecture.
+
+#### Chapter 18 — identify displacement before the movement test
+
+**Current (§18.5):**
+
+> One qualification remains: Sanskrit's origin could never be Indian.
+> The custody claim remains: Sanskrit must still arrive from outside
+> India.
+
+**Proposed:**
+
+> One qualification remains: Sanskrit's origin could never be Indian.
+> Every revision still makes Sanskrit arrive from outside India.
+
+**Current hammer:**
+
+> AIT was the crude form. AMT is the laundered form. **RAT is the thesis.
+> PIE is the ancestor-device. *"Indo-Aryan"* is the custody label.**
+
+**Proposed hammer:**
+
+> AIT was the crude form. AMT is the laundered form. **RAT is the thesis.
+> PIE is the ancestor-device. *"Indo-Aryan"* is the external-origin
+> label.**
+
+**Current:**
+
+> The modern iteration discards the discredited racial anthropology and
+> the violent invasion narrative, yet fiercely guards the foundational
+> custody claim: Sanskrit still arrives in India as the property of an
+> outside people.
+
+**Proposed:**
+
+> The modern iteration discards the discredited racial anthropology and
+> the violent invasion narrative, yet fiercely guards the conclusion it
+> inherited: Sanskrit still arrives in India as the property of an
+> outside people.
+
+Keep §18.6's movement-versus-authorship analysis. It performs the
+specific evidentiary test that the revised terminology requires.
+
+#### Chapter 20 — replace “custody theory” with the full operation
+
+**Current (§20.3):**
+
+> The racial Arya thesis was a custody theory before it was a migration
+> theory. It tried to make Sanskrit external so that Sanskrit's greatness
+> could be admired only after being reduced to "codification," and
+> therefore detached from its inbuilt calibration architecture. Life
+> after PIE ends that custody claim.
+
+**Proposed replacement:**
+
+> The Racial Arya Thesis was an instrument of concealment before it
+> became a migration story. It placed Sanskrit's origin outside India so
+> that the language's greatness could be admired only after being reduced to
+> "codification" and detached from its calibration architecture. Life
+> after PIE ends that concealment. Sanskrit is not transported cargo.
+> Sanskrit is the calibrant. Its architecture is fractal: the same
+> calibration principle recurs across sound, atom, grammar, recitation,
+> and transmission.
+
+#### Appendix Part 5 and epilogue
+
+**Current (Appendix Part 5):**
+
+> It gives Sanskrit an external source and allows European philology to
+> retain custody of the account of linguistic origins.
+
+**Proposed:**
+
+> It gives Sanskrit an external source, assigns its creation to people
+> outside India, and allows European philology to control the account of
+> linguistic origins.
+
+**Current (epilogue):**
+
+> The argument did not need to deny movement; it needed to restore
+> authorship.
+
+**Proposed:**
+
+> The argument separated movement from creation and restored Sanskrit's
+> architecture to view.
+
+#### Endnotes
+
+**Current (`asura-generativity-pie-double-standard`):**
+
+> Chapter 3 identifies that mismatch as the double standard protecting
+> external custody.
+
+**Proposed:**
+
+> Chapter 3 identifies that mismatch as the double standard preserving
+> the external-origin narrative and concealing Sanskrit's generative
+> architecture.
+
+**Current (`secular-packaging-three-transformations`):**
+
+> Chapter 18 §§18.5–18.6 shows how racial anthropology became the
+> historical custody claim that Sanskrit entered India with an outside
+> people.
+
+**Proposed:**
+
+> Chapter 18 §§18.5–18.6 shows how racial anthropology became the
+> historical displacement claim that Sanskrit entered India with an
+> outside people.
+
+#### Custody and authorship passages to preserve
+
+The following uses remain accurate because they describe actual control
+of texts, institutions, interpretation, or the evidentiary distinction
+between movement and creation:
+
+- Chapter 1 §1.3: when destruction fails, the pyramid turns toward
+  custody of surviving material.
+- Chapters 13 and 14: archive, edition, scripture, school, and
+  institutional control.
+- Chapter 16: no authority gained custody of the Vedic calibrant.
+- Chapter 18 §18.6: movement does not establish authorship.
+- Appendix Part 8: script contact does not establish authorship.
+- Epilogue: departments, journals, curricula, and funding preserve
+  institutional custody.
+- The endnote `migration-trap-movement-not-authorship`: retain its full
+  movement-versus-authorship analysis.
+
+### 6.10 Deployment checklist
+
+- [x] Reconcile the four-scale trace with the linguistic proof boundary.
+- [x] Define *sat* and *asat* as orientations rather than fractal names.
+- [x] Define the two fractals and their recurring operations.
+- [x] Draft the Chapter 0 declaration.
+- [x] Draft the Chapter 1 operational bridge.
+- [x] Draft both Chapter 3 replacements.
+- [x] Identify and draft the Chapter 3 eternity correction.
+- [x] Draft the new Chapter 3 §3.8.
+- [x] Specify the Chapter 3 figure.
+- [x] Draft the epilogue synthesis.
+- [x] Inventory RAT, custody, portability, movement, and authorship uses.
+- [x] Separate concealment, displacement, authorship, and institutional
+  custody in the proposed terminology.
+- [x] Draft exact RAT terminology replacements by chapter and endnote.
+- [x] Identify the literal custody and authorship passages that must
+  remain unchanged.
+- [x] Identify the existing foundations for custodianship as
+  civilizational responsibility.
+- [x] Draft the epilogue synthesis connecting Hindu custodianship to all
+  beings and *śānti* in the second domain.
+- [x] Author approves deployment of the proposed blocks.
+- [x] Apply approved body changes.
+- [x] Create and insert the SVG figure.
+- [x] Run repetition, terminology, pointer, and endnote passes.
+
+---
+
+## 7. Public-facing article seed
 
 The expanded fractal test may deserve its own public-facing article
 after the sonomer and retroflex pieces. The article should not begin with
@@ -262,10 +930,11 @@ its fractal structure* — would be enough.
 
 ### Ch 3 — Fourth Abrahamic Religion (as_1_03)
 
-**Tier — Strong but brief.** Ch 3 prosecutes the institutional formation.
-This is where the asuric pyramid can be linked to *vikṛti*, but only in
-one paragraph. Do not expand the polity theory here. Forward-point to the
-later *Second Shanti* volume.
+**Historical instruction — superseded by §6 above.** Ch 3 was originally
+limited to one brief paragraph linking the asuric pyramid to *vikṛti*.
+The manuscript now contains the Vedic, operational, and institutional
+material required to assemble the four scales in §3.8. The full polity
+and economic theory remains deferred to later *Second Shanti* volumes.
 
 Suggested addition at §3.6 close, if still needed:
 
@@ -820,9 +1489,10 @@ architecture, not as codifier, founder, or rupture-point.
 ## Epilogue (as_2_01)
 
 **Tier — Must.** The Epilogue is the book's final standing-line moment.
-Restate the linguistic fractal claim as the closing hammer alongside the
-engineering thesis, then point forward to the civilizational work later
-*Second Shanti* volumes will take up.
+Restate the linguistic fractal claim as the closing hammer, resolve the
+two-fractal contest across four scales, and then point forward to the
+full civilizational development later *Second Shanti* volumes will take
+up.
 
 Suggested closing pair:
 
@@ -832,9 +1502,9 @@ Suggested closing pair:
 > ***The same* lakṣaṇāni *recur from mouth to language. The architecture
 > is fractal.***
 >
-> ***This volume has proven the linguistic fractal. The next* Second
-> Shanti *movement begins where this book stops: language to
-> civilizational architecture.***
+> ***This volume has proven the linguistic fractal and traced the larger
+> contest across four scales. Later* Second Shanti *volumes develop its
+> political, economic, and social architecture in full.***
 
 The final line does not claim that this volume has proven the whole
 civilizational architecture. It names the bridge. *Saṃskṛti* is the
@@ -953,8 +1623,9 @@ Completed or parked:
 2. **Ch 10** — *sūtra-lakṣaṇam*, Atomic Corollary, and Fractal
    Corollary now make Ch 10 the spine of the linguistic fractal claim.
 3. **Preface / Ch 0** — fractal language is present as architectural
-   frame, with civilizational expansion deferred to later *Second
-   Shanti* volumes.
+   frame. The new §6 deployment traces the two-fractal contest across
+   four scales while deferring the full civilizational expansion to
+   later *Second Shanti* volumes.
 4. **Architecture echoes** — Ch 8 and Ch 14 carry the important
    lower-scale and language-scale echoes; Ch 2, Ch 4, Ch 7, and Ch 18
    carry small local echoes without changing register.

@@ -170,7 +170,7 @@ Growth and decay then displaced engineering and calibration as the governing cat
 
 This book interprets that choice through the institutional ***asuratva*** developed in Chapter 3 §§3.6–3.7. Recognizing Sanskrit as engineered would have located a foundational language architecture outside Europe and weakened the *church of progress*'s claim to civilizational precedence. The tree preserved that precedence by converting Sanskrit from architecture into descendant.
 
-Within that interpretation, the imagined ancestor performs an institutional function. It gives Sanskrit an external source and allows European philology to retain custody of the account of linguistic origins. Schleicher remains responsible for the model he published, even where the archive cannot establish his private motive.
+Within that interpretation, the imagined ancestor performs an institutional function. It gives Sanskrit an external source, assigns its creation to people outside India, and allows European philology to control the account of linguistic origins. Schleicher remains responsible for the model he published, even where the archive cannot establish his private motive.
 
 The bake was hollow. The hollowness was structurally required: a high-quality alternative would have been embarrassed by direct comparison with the original; only a hollow alternative could be defended in the absence of comparison. The institutional machinery that produced PIE has spent the century and a half since enforcing that absence of comparison.
 

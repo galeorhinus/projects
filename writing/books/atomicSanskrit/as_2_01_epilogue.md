@@ -110,6 +110,10 @@ The dharmic claim is different: *Sanātan* preserves a civilizational architectu
 
 The standard is **यत् भूतहितम् अत्यन्तं तत् सत्यम् (*yat bhūta-hitam atyantaṃ tat satyam*)**[NOTE: satyam-bhutahitam-mahabharata] — that which serves the welfare of beings, fully and ultimately, is truth. *Bhūta* means living beings: not merely humans, not merely the animals humans keep close, but all life toward which dharma must remain responsible. Here **सत् (*sat*)** and *lokakṣema* meet. Truth is not domination by a doctrine. Truth is alignment with the welfare of beings.
 
+The book has followed this battle across four scales. At the cosmic scale, *sat* and the *ṛta* order confront orders built from *asat*. In action, radiance and release confront *māyā* and containment. Human beings reproduce the choice through *saṃskṛti* and the pyramid. At the linguistic scale, the pyramid covers Sanskrit's created architecture with botanical drift, places PIE above the visible language, and uses the Racial Arya Thesis to separate that architecture from India.
+
+These are two fractals meeting at different scales. The swastika repeats created order without an apex. The pyramid repeats containment beneath an apex.
+
 The asuric formation cannot make that call because its entire history relies on extraction, concealment, and inversion. Although it has claimed writing, grammar, language origins, and civilizational authority for itself, those claims inevitably fail under structural scrutiny.
 
 The architecture remains.
@@ -174,6 +178,8 @@ Three shadows remain after the argument has done all it can. The institutions ke
 
 Education is one of those remaining shadows. A counter-pyramid with a new authorized syllabus from the top would reproduce the same structure. Distributed re-learning takes another path: many teachers, families, lineages, schools, publishers, and readers restore the calibrant until the old category theft no longer reproduces itself automatically.
 
+The Hindu continuum has remained the custodian of Sanskrit, the Vedas, and the ancient knowledge they preserve. This custodianship carries responsibility rather than ownership. Recognizing it does not transfer Sanskrit from one faction to another or turn its recovery into a claim of supremacy. It restores responsibility to the civilization that preserved the calibrant: to keep this knowledge available to all beings and to direct relationships in the second domain toward balance and **शान्तिः (*śāntiḥ*)**.
+
 ## The Mantra
 
 Wave 3 begins among those closest to the calibrant: teachers, students, families, lineages, and readers willing to relearn its disciplines. Indians in the subcontinent and diaspora carry the most immediate responsibility, while Romani communities preserve another long-separated Indic inheritance. *Atomic Sanskrit* is one Wave 3 instrument. It makes the radiant matrix visible again; visibility is the precondition.
@@ -192,7 +198,7 @@ Two *created* fractals have stood in the argument since the beginning: the pyram
 
 The pyramid tried to bury Sanskrit under nature, then to freeze it under codification, then to suspend it beneath PIE — three moves serving one motive: prevent the world from seeing a distributed calibrant architecture that needs no apex. The motive failed. Sanskrit lives. The imaginary ancestor does not.
 
-The argument did not need to deny movement; it needed to restore authorship.
+The argument separated movement from creation and restored Sanskrit's architecture to view.
 
 Sanskrit's standard is restored not by authority but by re-entering calibration.
 

@@ -275,6 +275,8 @@ The Veda preserves the invariant distinction; the *laukika* domain applies it to
 
 This is the quintessence of the calibrant architecture for both *saṃskṛti* and Sanskrit.
 
+The chapters that follow trace a battle between two fractal architectures. One radiates, releases, distributes, and calibrates. The other conceals, contains, centralizes, and controls. The two fractals meet at cosmic, operational, civilizational, and linguistic scales.
+
 Chapter 1 follows **असत् (*asat*)** from cosmic condition into specific action: concealment, blockade, isolation, enclosure — the architecture of containment, the pyramid.
 
 ---

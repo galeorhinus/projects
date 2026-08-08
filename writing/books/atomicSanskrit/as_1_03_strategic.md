@@ -22,7 +22,7 @@
 
 The botanical metaphor kept Sanskrit portable, late, derivative, and dependent on an authority outside the Hindu continuum. Generations of textbooks, dictionaries, departments, and degree programs continued teaching the tree even after Biblical chronology and explicit race science became embarrassing.
 
-The public debate now says AIT or AMT: Aryan Invasion Theory or Aryan Migration Theory. Those labels argue over the vehicle. **RAT supplies the imaginary people. PIE supplies the imaginary ancestor-language. *"Indo-Aryan"* makes the theft sound like taxonomy.** The premise beneath both versions is the **Racial Arya Thesis (RAT)**: the claim that *ārya* denotes race, peoplehood, ancestry, or bloodline rather than discipline and achievement. Respectable scholarship has discarded the explicit Biblical chronology and formally disowned the colonial frame in which Schleicher worked, but the clock did not disappear with its Biblical label. Sanskrit must still enter India through a narrow external-custody story, and curricula still inherit Schleicher's vocabulary. The original frame survives after its religious language has been removed.
+The public debate now says AIT or AMT: Aryan Invasion Theory or Aryan Migration Theory. Those labels argue over the vehicle. **RAT supplies the imaginary people. PIE supplies the imaginary ancestor-language. *"Indo-Aryan"* makes the theft sound like taxonomy.** The premise beneath both versions is the **Racial Arya Thesis (RAT)**: the claim that *ārya* denotes race, peoplehood, ancestry, or bloodline rather than discipline and achievement. Respectable scholarship has discarded the explicit Biblical chronology and formally disowned the colonial frame in which Schleicher worked, but the clock did not disappear with its Biblical label. Sanskrit must still enter India through a narrow external-origin story, and curricula still inherit Schleicher's vocabulary. The original frame survives after its religious language has been removed.
 
 Textbooks, dictionaries, departments, and degree requirements give the metaphor its continuing institutional life.
 
@@ -40,11 +40,11 @@ Formulating the engineered-Sanskrit thesis requires reversing that sequence. The
 
 The seven-move botanical story is the *progressive dogma's* account of Sanskrit, including the softened *codification* vocabulary it now permits at the Pāṇini level. The pillars below keep that story standing after their original language became harder to defend. The engineered Sanskrit thesis dismantles that enclosure.
 
-## 3.2 Custody: The Racial Pillar
+## 3.2 Displacement: The Racial Pillar
 
-The first pillar is racial, and its function is custody. Nineteenth-century European philology developed beside the racial Arya thesis: the claim that a people called *Aryans* brought their language into the subcontinent, where it became Sanskrit. Invasion and migration are mechanisms inside that thesis. The thesis itself is older and deeper: *ārya* as race, Sanskrit as racial cargo. It was not a marginal hypothesis. It was the organizing assumption beneath the comparative enterprise. To make it work, Sanskrit had to be portable. It had to be the kind of thing migrants could bring.
+The first pillar is racial, and its function is displacement. Nineteenth-century European philology developed beside the Racial Arya Thesis: the claim that a people called *Aryans* brought their language into the Indian subcontinent, where it became Sanskrit. Invasion and migration are mechanisms inside that thesis. The deeper move converts *ārya* from achieved discipline into race and Sanskrit from created architecture into racial cargo. Sanskrit must therefore become portable: the kind of object an outside population could carry into India.
 
-If Sanskrit is transported cargo, its greatness is no longer fully the civilization's own. Portability is the custody claim. The racial Arya thesis lets the pyramid say, in effect: Sanskrit is magnificent, but it is not entirely yours. The custody claim is the apex's reflex: he must own what he cannot make, and Sanskrit he did not make. The thesis survives after invasion becomes migration and migration becomes softer language because the mechanism can change while the custody claim remains.
+Once Sanskrit becomes transported cargo, the pyramid can separate its architecture from the civilization that created and preserved it. Portability enables the displacement. Migration supplies the vehicle. External authorship and custody follow. The thesis survives every retreat from invasion into migration because its racial instrument continues to place Sanskrit's origin outside India.
 
 The botanical metaphor supplies that portability without argument. Branches move. A branch can be cut from one tree, moved elsewhere, and replanted in foreign soil. Sanskrit as a branch of a larger Indo-European tree can travel with migrating peoples. The metaphor keeps Sanskrit mobile.
 
@@ -58,9 +58,9 @@ The projection rests on a still deeper fact. The European colonial enterprise wa
 
 The dharmic architecture is the exact opposite. Buddha's observation in the *Assalāyana Sutta* — that the bordering nations of Yona and Kamboja have only two categories in society: masters and slaves — is the dharmic primary-source confirmation: the binary belonged to foreign-bordering nations, not to the Indic civilizational core.[NOTE: assalayana-sutta] The racial Arya thesis did not project a universal human pattern onto Indic antiquity. It projected an Abrahamic pattern onto a civilization that had none. Caste-as-fixed-birth-rank is the social *apabhraṃśa* those same Abrahamic regimes fed and the colonial census hardened — entropy, not the dharmic architecture; Chapter 6 §6.8 develops the case.
 
-The racial Arya thesis has persisted despite the evidence pressing against it. Genetics, archaeology, and source criticism forced the old invasion story to change costume, but they did not break the custody claim. The story moved from invasion to migration, from skulls to DNA, from racial language to population language. Yet Sanskrit is still made to arrive from outside. The botanical metaphor remains because it still performs that work. The requirement underneath never changes: the pyramid needs an external author for what India could not be permitted to have built itself. This is the migration trap of Chapter 18 §18.6: movement is not authorship.
+The Racial Arya Thesis has persisted despite the evidence pressing against it. Genetics, archaeology, and source criticism forced the old invasion story to change costume, but the concealment survived. The story moved from invasion to migration, from skulls to DNA, and from racial language to population language. Yet Sanskrit is still made to arrive from outside.
 
-That is the first signal. The metaphor is doing more than supporting one pillar. It is doing the work of all three.
+The botanical metaphor remains because it continues the older asuric operation: *asat* uses **माया (*māyā*)** to hide *sat*. The metaphor makes Sanskrit appear to be a drifting natural language and conceals its created architecture. The Racial Arya Thesis then separates that architecture from the civilization that created and preserved it. Together, they hide the possibility that Sanskrit, the Vedas, and *saṃskṛti* preserve a prehistoric architecture of created order. This is the migration trap of Chapter 18 §18.6: movement is not authorship.
 
 ## 3.3 Enclosure: The Theological Pillar
 
@@ -70,7 +70,7 @@ A precision-engineered Sanskrit does not fit. A language architecture that impli
 
 The botanical metaphor solved the problem: Sanskrit as a daughter branch of a recent ancestral language could be forced back inside the inherited envelope. It could be made late, derivative, and genealogically managed. It could be treated as one development from an Indo-European parent rather than as an architecture whose existence implies depths the framework cannot accommodate.
 
-This pillar has receded in a way the racial pillar has not. The respectable academy no longer dates Sanskrit by a Noachian count. The Biblical envelope has receded, but the metaphor remains because another pillar now does the work.
+This pillar has receded in a way the racial pillar has not. The respectable academy no longer dates Sanskrit by a Noachian count. The Biblical envelope has receded, but the metaphor remains because the progress narrative now sustains the same concealment. It presents Sanskrit's created architecture as an archaic stage of natural drift and places the pyramid's own institutions at the apex of history.
 
 ## 3.4 Ascent: The Progress Pillar
 
@@ -90,7 +90,7 @@ Elements such as Rāma lifting the great bow, Sītā's abduction, a war across t
 
 The pyramid's chronology reversed that borrowing. It presented these *Rāmāyaṇa* patterns as Homeric originals and recast Vālmīki as the borrower.[NOTE: ramayana-homer-chronology-capture]
 
-This is the surviving pillar, but it has not abandoned the racial pillar in India. It has repackaged it. Noachian chronology can fade; explicit race science can be denounced; the linear-progress teleology remains, and for Sanskrit it still requires an external author. A scholar can reject old race science in public while preserving the racial Arya thesis through migration and DNA vocabulary. The teleology is what gives *progressive* its force; the racial frame is what keeps Sanskrit portable.
+This is the surviving pillar, but it has not abandoned the racial pillar in India. It has repackaged it. Noachian chronology can fade; explicit race science can be denounced; the linear-progress teleology remains, and Sanskrit's created architecture must still originate elsewhere. A scholar can reject old race science in public while preserving the Racial Arya Thesis through migration and DNA vocabulary. The teleology gives *progressive* its force; the racial frame keeps Sanskrit's origin outside India.
 
 The institutional class also calls itself *liberal*, and the word turns against the structure it serves. Latin *liber-* meant free, but also generous, open-handed, unstinting. *Illiberal* preserves the negation: closed-handed, ungenerous, withholding. Sanskrit captures the same structure with older precision. The dhātu **रा (*rā-*)** means to give; the privative *a-* yields *arāvan* (अरावन्), the non-giver, the one who retains rather than releases, centralizes rather than distributes.[NOTE: liber-aravan-etymology] Two etymologies, two languages, one diagnosis.
 
@@ -104,7 +104,7 @@ This is the pillar that still stands.
 
 The pattern is now visible: three pillars, one beam. One pillar has receded. One has changed form. One still stands.
 
-Although Noachian chronology has receded, and the racial Arya thesis has lost its nineteenth-century invasion form (remaining active as migration and DNA vocabulary), the linear-progress teleology stubbornly remains. Because it serves as the church of progress's unconfessed doctrine—advanced both by scholars who know they accept it and by scholars who deny having a framework at all—the discipline retains the metaphor. Ultimately, the pillars still work together: chronology supplies enclosure, racial portability supplies external authorship, and progress supplies the civilizational hierarchy.
+Although Noachian chronology has receded, and the Racial Arya Thesis has lost its nineteenth-century invasion form (remaining active as migration and DNA vocabulary), the linear-progress teleology stubbornly remains. Because it serves as the church of progress's unconfessed doctrine—advanced both by scholars who know they accept it and by scholars who deny having a framework at all—the discipline retains the metaphor. The fact is, the pillars still act together: chronology encloses Sanskrit within a narrow past, the racial pillar assigns Sanskrit's creation elsewhere, and progress places the pyramid's institutions above the civilization that preserved it.
 
 This defense blocks the arguments before they can form. By actively closing four routes into the engineered Sanskrit thesis—deep antiquity, indigenous origin, Pāṇini's scientific priority, and the Vedic recitation lineages as engineered preservation rather than cultural conservatism—the asuric machinery makes each obstruction look like ordinary disciplinary caution while the four together manufacture absolute containment.
 
@@ -122,11 +122,11 @@ It demotes the *vaidika* calibrant to a primitive and archaic beginning. It then
 
 This is containment through category theft. The pyramid takes three domains designed for different purposes and rearranges them as three levels of quality along a single line of time.
 
-The strategy has changed with the circumstance. When Sanskrit could be treated as dead, the pyramid could afford to drop it. A dead language can be admired, classified, mined, and placed below an imaginary ancestor. But Sanskrit did not die. As Hindu confidence returned and Sanskrit re-entered public assertion, erasure became less useful than co-ownership. The racial Arya thesis then became a second-best strategy: not destroy Sanskrit outright, but keep a share in its origin.
+The strategy changed with circumstance. When Sanskrit could be treated as dead, the pyramid could afford to drop it. A dead language can be admired, classified, mined, and placed below an imaginary ancestor. But Sanskrit did not die. As Hindu confidence returned and Sanskrit re-entered public assertion, open erasure became less useful than controlled recognition. The Racial Arya Thesis became the second-best strategy: keep Sanskrit visible while continuing to assign its creation outside India.
 
 ![Figure 3.1 — The Three Pillars and the Architecture of Containment. Three pillars (Racial Arya Thesis; Biblical / Noachian chronology; linear-progress teleology) supporting the botanical metaphor as a single horizontal beam. The theological pillar recedes; the racial pillar is retooled; the progress pillar supports the beam.](figures/strategic/three_pillars_containment.svg){#fig:ch3-three-pillars-containment width=100%}
 
-*Atomic Sanskrit*, the architecture of Sanātan, has always existed. The asuric machinery placed it under intellectual quarantine. The institution that enforces that quarantine is the Fourth Abrahamic Religion.
+*Atomic Sanskrit* preserves a created architecture of Sanātan. The asuric machinery placed that architecture under intellectual quarantine. The institution that enforces that quarantine is the Fourth Abrahamic Religion.
 
 ## 3.6 The Asura Analysis: Action, not Faction
 
@@ -233,7 +233,7 @@ The vedic continuum preserves **⟪सुर्⟫** as **ऐश्वर्य�
 
 This imaginary word also gives the Racial Arya Thesis something portable. The pyramid's imaginary people can carry one inherited title toward Iran and India while Sanskrit's own derivations disappear from the account.
 
-Western philologists possessed every part of the evidence. The Veda supplied ***svar, sūrya, sūri,*** and ***sūra***. The grammatical continuum preserved **⟪सुर्⟫** with the meanings sovereignty and shining. Western philologists knew Sanskrit's privative architecture. The mantra described Svarbhānu piercing Sūrya with darkness. They rejected both Sanskrit words and installed a third because the third word protected external custody and converted action into faction.
+Western philologists possessed every part of the evidence. The Veda supplied ***svar, sūrya, sūri,*** and ***sūra***. The grammatical continuum preserved **⟪सुर्⟫** with the meanings sovereignty and shining. Western philologists knew Sanskrit's privative architecture. The mantra described Svarbhānu piercing Sūrya with darkness. They rejected both Sanskrit words and installed a third because the invented word preserved the external-origin narrative and converted action into faction.
 
 #### How Conflation Turns Action into Faction
 
@@ -276,3 +276,13 @@ The pyramid repeats this act of containment when it attacks a corpus. Its agents
 The *laukika* community can also release material that no longer serves. That is ***percipient release***: the discerning community tends its transmission by deciding what to continue transmitting. Asuric destruction takes that choice away from the community. One process tends the flow; the other dams it. Svarbhānu's eclipse supplies the image: the Sun has been darkened, and the Atris find it again.
 
 **The Veda does not condemn power. It condemns power used to block what should flow.**
+
+## 3.8 The Battle of Two Fractals
+
+Chapter 0 introduced *sat* and *asat*. Chapter 1 identified the actions through which containment enters the world. This chapter has followed those actions into civilizational institutions and into the modern account of Sanskrit.
+
+![Figure 3.2 — Two fractal architectures meet at four scales. The swastika fractal distributes, releases, and calibrates. The pyramid fractal conceals, encloses, and centralizes. The contested object changes across scale; the architecture of each side remains recognizable.](figures/strategic/two_fractals_four_scales.svg){#fig:ch3-two-fractals-four-scales width=100%}
+
+The two fractals remain recognizable at every scale. The swastika fractal keeps light, water, knowledge, language, and power in circulation. The pyramid fractal encloses them and forces everyone else to approach through an apex. The contested object changes, while the two architectures retain their shapes.
+
+The technical chapters that follow uncover what the linguistic concealment hid. They demonstrate the radiant, calibrant, and fractal architecture of Sanskrit from mouth to language.

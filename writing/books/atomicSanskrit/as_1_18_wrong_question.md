@@ -108,7 +108,7 @@ The pyramid does not know Sanskrit's origin. It has no inscription of PIE, no sp
 1. A reconstruction method was built in nineteenth-century Europe from comparison among Sanskrit, Greek, Latin, Germanic, Iranian, and related languages.
 2. The method inferred an imaginary ancestor: ***Proto-Indo-European***.
 3. The imaginary ancestor was treated as historically prior to Sanskrit, even though Sanskrit is real, recited, taught, and operating while PIE is not.
-4. The ancestor had to sit outside India, because a calibrant engineered within India proves order can stand without an apex — the pyramid's founding threat (Chapter 3 §3.7). He can dominate that civilization, but he cannot claim the world's most precise language if the calibrant stands inside it.
+4. The ancestor had to sit outside India, because a calibrant engineered within India proves order can stand without an apex — the pyramid's founding threat (Chapter 3 §3.8). He can dominate that civilization, but he cannot claim the world's most precise language if the calibrant stands inside it.
 
 5. A mechanism was then needed by which Sanskrit entered India. That mechanism became the racial Arya thesis: invasion first, migration later, the same racialized premise underneath both.
 6. When Sanskrit displayed subcontinental features, especially the retroflex row, the pyramid's account called them substrate borrowings instead of evidence that Sanskrit's engineering operates from inside the subcontinental sound-field.
@@ -127,19 +127,19 @@ The pyramid's speculation is not neutral reason correcting the Hindu continuum. 
 
 The same machinery that calls Hindu civilizational memory "mythology" asks the world to treat its own constructed ancestor as science. Sanskrit, preserved in sound and use, is declared dead. PIE, preserved nowhere, recited nowhere, spoken by no known community, is granted ancestral life.
 
-That is the inversion. The speculation is not absent. It is wearing the robes of the ***priests of progress***, defended by its ***jihadis of progress***, exported by its ***missionaries of progress*** — the ***church of progress*** operating in *asuric* mode (Chapter 3 §3.7).
+That is the inversion. The speculation is not absent. It is wearing the robes of the ***priests of progress***, defended by its ***jihadis of progress***, exported by its ***missionaries of progress*** — the ***church of progress*** operating in *asuric* mode (Chapter 4 §§4.3–4.6).
 
 
 ## 18.6 The Migration Trap
 
 
-The racial Arya thesis survives by changing its instruments. The pyramid has crossed out ~~Caucasian~~, ~~Aryan race~~, ~~Nordic race~~, ~~cranial index~~, ~~nasal index~~, ~~conquest~~, and ~~invasion~~. It now says population, steppe ancestry, DNA, mobility, elite dominance, and migration. The vocabulary retreats. One qualification remains: Sanskrit's origin could never be Indian. The custody claim remains: Sanskrit must still arrive from outside India.
+The Racial Arya Thesis survives by changing its instruments. The pyramid has crossed out ~~Caucasian~~, ~~Aryan race~~, ~~Nordic race~~, ~~cranial index~~, ~~nasal index~~, ~~conquest~~, and ~~invasion~~. It now says population, steppe ancestry, DNA, mobility, elite dominance, and migration. The vocabulary retreats. One qualification remains: Sanskrit's origin could never be Indian. Every revision still makes Sanskrit arrive from outside India.
 
-> AIT was the crude form. AMT is the laundered form. **RAT is the thesis. PIE is the ancestor-device. *"Indo-Aryan"* is the custody label.**
+> AIT was the crude form. AMT is the laundered form. **RAT is the thesis. PIE is the ancestor-device. *"Indo-Aryan"* is the external-origin label.**
 
 That is the migration trap.
 
-The early colonial formulation was explicit in its design: a conquering *ārya* race subjugating an indigenous *dāsa* population, a historical script that conveniently prefigured British rule. The modern iteration discards the discredited racial anthropology and the violent invasion narrative, yet fiercely guards the foundational custody claim: Sanskrit still arrives in India as the property of an outside people.[NOTE: muller-eic-rigveda]
+The early colonial formulation was explicit in its design: a conquering *ārya* race subjugating an indigenous *dāsa* population, a historical script that conveniently prefigured British rule. The modern iteration discards the discredited racial anthropology and the violent invasion narrative, yet fiercely guards the conclusion it inherited: Sanskrit still arrives in India as the property of an outside people.[NOTE: muller-eic-rigveda]
 
 > The theft was never only historical. It was semantic first. Ārya was taken from discipline, learning, restraint, generosity, and achieved conduct, then remade as race, peoplehood, ancestry, and movement. Once that semantic theft was accepted, the historical theft could follow: Sanskrit became the speech-cargo of the invented people. The modern migration vocabulary softens the surface, but the two thefts remain joined.
 
