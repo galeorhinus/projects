@@ -229,10 +229,9 @@
 - 17.4 The Mind De-centers: *Karmaṇi* and *Bhāve*
 - 17.5 The Mind Sequences: The Folded Action
 - 17.6 One Cluster, Encoded
-- 17.7 The Notices
-- 17.8 The Borrowing Model Fails
-- 17.9 The Corpus Cannot Be Rewritten
-- 17.10 What Sanskrit Builds from the Cluster
+- 17.7 The Borrowing Model Fails
+- 17.8 The Corpus Cannot Be Rewritten
+- 17.9 What Sanskrit Builds from the Cluster
 
 **Chapter 18 — The Wrong Question**
 - 18.1 The Architectural Test

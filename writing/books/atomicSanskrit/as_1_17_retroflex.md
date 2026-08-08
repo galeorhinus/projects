@@ -76,13 +76,13 @@ The receiver-self is not one language's idiom. Korku, Mundari, Tamil, Telugu, an
 
 ## 17.4 The Mind De-centers: *Karmaṇi* and *Bhāve*
 
-The agent — the **कर्तृ (*kartṛ*)** — recedes, and the clause settles on the thing acted on, or on the action itself. The English label "passive voice" misses the operation: this is not turning a sentence around, it is demoting the doer — making it oblique, optional, or gone.
+Sanskrit allows sentence construction, where the doer can leave the center of a sentence. The agent — the **कर्तृ (*kartṛ*)** — recedes, and the clause settles on the thing acted on, or on the action itself. The English *passive voice* comes close, but it misses the purpose: this is not turning a sentence around, it is demoting the doer — making it oblique, optional, or gone.
 
-The Indian subcontinental mind reduces the sovereign doer by several routes. Tamil demotes the agent through படு (*paṭu*) constructions — "the letter was written," leaving the doer optional. Korku separates an intransitive, agentless form from a transitive, agentive one, and its *-khe* marks not only transitivity and past sense but intention and purpose: the grammar itself distinguishes an event that merely happens from an act a doer drives. Ho explicitly groups intransitive and passive forms, and can mark action-stressing rather than object-stressing use. Mundari weakens the independent doer differently: pronominal subject marking belongs inside the predicate rather than letting a noun-subject stand as the sole sovereign anchor. The mechanisms differ; the direction is shared — the doer need not be the fixed center of the clause.[NOTE: karmani-bhave-karta-demotion]
+The Indian subcontinental mind reduces the sovereign doer in several ways. Tamil demotes the agent through படு (*paṭu*) constructions — "the letter was written," leaving the doer optional. Korku separates an intransitive, agentless form from a transitive, agentive one, and its *-khe* marks not only transitivity and past sense but intention and purpose: the grammar itself distinguishes an event that merely happens from an act a doer drives. Ho explicitly groups intransitive and passive forms, and can mark action-stressing rather than object-stressing use. Mundari weakens the independent doer differently: pronominal subject marking belongs inside the predicate rather than letting a noun-subject stand as the sole sovereign anchor. The mechanisms differ; the direction is shared — the doer need not be the fixed center of the clause.[NOTE: karmani-bhave-karta-demotion]
 
 Sanskrit gives that shared direction an architecture: the three **प्रयोग (*prayoga*)**. In **कर्तरि (*kartari*)**, the doer is central. In **कर्मणि प्रयोग (*karmaṇi prayoga*)** the **कर्मन् (*karman*)**, the thing acted on, becomes the center: *Rāmeṇa pustakaṃ paṭhyate* — "by Rāma, the book is read." The *karman* (*pustakam*) takes the प्रथमा (*prathamā*, nominative); the *kartṛ* (*Rāmeṇa*) drops to the तृतीया (*tṛtīyā*, instrumental); the verb agrees with the thing done, not the doer. In **भावे प्रयोग (*bhāve prayoga*)** the de-centering goes all the way: the action stands forward with no *karman* at all, the agent in the instrumental and the verb in the third person singular — *tena supyate*, "by him, there is sleeping."
 
-English can demote the doer too — "the book was read," the agent trailing in an optional "by Rāma" — but it stays subject-hungry: it empties the doer's seat only by sliding the patient into it. Someone must still sit there. *Bhāve* needs no one in the seat; the action stands alone. Not a doer replaced, but a doer no longer required.
+English can demote the doer too — "the book was read," the agent trailing in an optional "by Rāma" — but it stays subject-hungry: it empties the doer's seat only by sliding the thing acted on into it. Someone must still sit there. *Bhāve* needs no one in the seat; the action stands alone. Not a doer replaced, but a doer no longer required.
 
 Placed beside *sampradāna*, the concept becomes clearer: one makes the person the receiver of experience; *karmaṇi* and *bhāve* make the doer incidental. The subcontinental mind does not only ask "who did it?" It can ask what was affected, what occurred, and how the action unfolded — and it built a grammar that need not seat the ego at the center of the sentence.
 
@@ -92,15 +92,13 @@ Human action often arrives as sequence: eating, rising, going; seeing, deciding,
 
 Tamil says சாப்பிட்டு வந்தான் (*sāppiṭṭu vandān*; Devanagari aid: साप्पिट्टु वन्दान्): having eaten, he came — one verb folded under the next. Telugu chains a whole errand into a single breath: వెళ్లి (*veḷḷi*; Devanagari aid: वेळ्ळि), కొని (*koni*; Devanagari aid: कोनि), వచ్చాను (*vaccānu*; Devanagari aid: वच्चानु) — having gone, having bought, I came. Mundari folds the same way through its serial and converb structures. Across these languages the prior act never stands alone; it bends into the act it leads to.
 
-Korku keeps the richest record: the converb *-Done* "while / by" and *-Ten* "after" — *pa:rku saRup-Done hen* (Devanagari aid: पार्कु सड़ुप-डोने हेन), "all came running"; *inkiñj ja:m-Done … ura-n ol-en*, "the two went home weeping." Korku even braids the two faculties into one word — *inkiñj higra-higra-Done … ol-en*, "the two went … in fear" — a doubled sound (the mouth) riding a folded converb (the mind), the two signatures in a single form.[NOTE: korku-nagaraja-mouth-mind-evidence]
+Korku shows the richest usage: the converb *-Done* "while / by" and *-Ten* "after" — *pa:rku saRup-Done hen* (Devanagari aid: पार्कु सड़ुप-डोने हेन), "all came running"; *inkiñj ja:m-Done … ura-n ol-en*, "the two went home weeping." Korku even braids the two faculties into one word — *inkiñj higra-higra-Done … ol-en*, "the two went … in fear" — a doubled sound (the mouth) riding a folded converb (the mind), the two signatures in a single form.[NOTE: korku-nagaraja-mouth-mind-evidence]
 
 Sanskrit's architecture folds action the same way. Ṛgveda 1.4.8 has *pītvā* — "having drunk." Atharvaveda 4.10.2 sets *hatvā* — "having slain" — inside *śaṅkhena hatvā rakṣāṃsy attriṇo vi ṣahāmahe*, "with the conch, having slain the rakṣas, we overcome the devourers": the conch of the Overture sounding within the grammar. A whole prior clause enters the line as one indeclinable, and the verse moves on without breaking the action into separate steps.[NOTE: vedic-folded-action-ktva-lyap-examples]
 
 Sanskrit then builds the fold into rule. On a bare dhātuḥ — an atom with no preverb — the form is **क्त्वा (*ktvā*)**: *kṛtvā*, "having done." Add an **उपसर्ग (*upasarga*, preverb)** and it shifts to **ल्यप् (*lyap*)**: *upagamya*, "having approached"; *praṇamya*, "having bowed." The preverb decides the shape — Pāṇini observed and documented the conditioning. His rule names the relation directly: **समानकर्तृकयोः पूर्वकाले (*samānakartṛkayoḥ pūrvakāle*)** — the affix marks the **पूर्वकाल (*pūrvakāla*)**, the prior act, of two actions that share one agent. One indeclinable folds an entire clause into itself: the same **अल्पाक्षरम् (*alpākṣaram*, minimal-syllable)** economy the architecture runs at every scale (Chapter 10).
 
-One doer usually threads the whole chain — eat, then come, the same person throughout. And Pāṇini is exact about which thread: **समानकर्तृक (*samānakartṛka*)**, the same **agent (कर्तृ, *kartṛ*)** — not the same grammatical subject. A passive that keeps the agent — *tena bhuktvā gamyate*, "by him, having eaten, it is gone" — satisfies the rule rather than breaking it; the "same-subject gate" is the looser Western approximation.[NOTE: gerund-coreference-default-not-gate] The thread is the agent, maintained throughout, and the regional converbs run the same way. Incorporation, not a mechanical same-subject requirement.
-
-A complete act becomes one frozen form, leaning into the act that follows, and the sentence flows the way the doing flowed. This is a mind that takes action as a single connected motion — and a grammar built to speak it that way.
+One doer usually threads the whole chain — eat, then come, the same person throughout. And Pāṇini is exact about which thread: **समानकर्तृक (*samānakartṛka*)**, the same **agent (कर्तृ, *kartṛ*)** — not the same grammatical subject. A passive that keeps the agent — *tena bhuktvā gamyate*, "by him, having eaten, it is gone" — satisfies the rule rather than breaking it; the "same-subject gate" is the looser Western approximation.[NOTE: gerund-coreference-default-not-gate] The thread is the agent, maintained throughout, and the regional converbs run the same way.
 
 ## 17.6 One Cluster, Encoded
 
@@ -114,33 +112,13 @@ Sanskrit is built from the subcontinental mouth and mind: the mouth gives the so
 
 ## PART B — The Portability Thesis Collapses
 
-## 17.7 The Notices
+## 17.7 The Borrowing Model Fails
 
-Read the notices the pyramid has issued over two centuries.
+Two centuries of retreat — Biblical chronology, racial anthropology, migration, steppe ancestry — have changed every explanation for how Sanskrit reached India while protecting the one conclusion none of them can give up: the pyramid still assigns Sanskrit's creation outside India (Chapter 3 §3.2; Chapter 18 §§18.5–18.6). That claimed route becomes the test — Indo-Iranian corridors, Avestan / Old Iranian, and the wider non-Indic Indo-European languages. Those supposed carrier languages must show the same cluster Sanskrit encodes structurally: the curled tongue, the doubled mouth, the receiver grammar, the demoted doer, and the folded action.
 
-The pyramid's first notice was simple. The year is **1600 BCE**, **748 years after the Flood**. Noah's descendants have prospered; Babel has scattered language into manageable peoples. Somewhere along that ordained road a people turns toward India, carrying speech, ritual, gods, and order. India receives. **Sanskrit arrives.** The Veda becomes old, but not too old. Sacred, but not source. Impressive, but downstream.
+The subcontinent supplies the cluster densely rather than through one witness alone. Tamil and Telugu represent the south; Mundari, Ho, and Korku represent the central forest belt. The pyramid itself separates these languages into completely unrelated families, so the shared cluster cannot be dismissed as simple inheritance inside one family tree. Sanskrit encodes the whole cluster structurally, from the curl of *agnimīḷe* to the fold of *pītvā*.
 
-*Correction: the management regrets the Biblical packaging. Please delete Noah, Babel, the divine scattering, and the confidence with which the whole world was fitted inside Genesis.* The date may now be expressed with scholarly flexibility — 1500, 1600, perhaps 1200 BCE for some layers. **The northwest remains. The moving people remain. The pastoral carrier remains. Sanskrit remains something brought into India.**
-
-The revised notice introduced the Aryan — an improved secular instrument: measurable, classifiable, portable, conveniently northwestern. His skull could be measured, his nose straightened into evidence; his face became an argument before his language was examined. Sanskrit rode with him. *Correction: the management regrets the racial packaging. Please delete the skull, the nose, the face, and the word race.* The date becomes an academic horizon (c. 1500 BCE; 1700–1200 BCE; "late second millennium"). **The northwest remains… Sanskrit remains something brought into India.**
-
-The racial packaging moved through ~~Caucasian~~, ~~Aryan~~, and ~~Nordic~~. Academia could discard each label and leave the race unspecified. One qualification remained fixed: the race could not be Indian. The pyramid therefore kept Sanskrit's origin outside India.
-
-The next notice preferred migration. Movement replaced conquest. Language spread replaced domination. Cultural transmission replaced rule. *Correction: the management regrets the invasion tone. Replace with elite dominance, language shift, cultural transmission, mobility* — phrases that sound softer while doing the same work. The date may now breathe (2000–1500; 1700–1300). Always adjustable. Never released. **The northwest remains. The pastoral carrier remains. The horse remains close enough to the argument. Sanskrit remains something brought into India.**
-
-The latest notice replaces the racial Aryan with steppe ancestry and mobile pastoralists. It replaces a single invasion with movement through Indo-Iranian corridors, contact zones, and substrate effects. The date becomes a range, and the historical claim becomes a model supported by consensus.
-
-The packaging has changed repeatedly: Noah disappeared, skull measurements became indefensible, and invasion gave way to migration and mobility. One conclusion survives every revision. Sanskrit must still enter India from the northwest, and its creation must still be assigned elsewhere. Two centuries of retreat have protected that conclusion while surrendering the explanations first used to establish it.
-
-The evidence supports a direct explanation: Sanskrit was built in the Indian subcontinent. Its sounds come from the subcontinental mouth, its grammatical relations express the subcontinental mind, and the Veda preserves both from its very first word.
-
-## 17.8 The Borrowing Model Fails
-
-If the pyramid says Sanskrit arrived through the northwest, the claimed route becomes the test — Indo-Iranian corridors, Avestan / Old Iranian, and the wider non-Indic Indo-European languages. Those supposed carrier languages must show the same cluster Sanskrit encodes structurally: the curled tongue, the doubled mouth, the receiver grammar, the demoted doer, and the folded action.
-
-The subcontinent supplies the cluster densely rather than through one witness alone. Tamil and Telugu represent the south; Mundari, Ho, and Korku keep the central forest belt in view. The pyramid itself separates these languages into unrelated families, so the shared cluster cannot be dismissed as simple inheritance inside one family tree. Sanskrit encodes the whole cluster structurally, from the curl of *agnimīḷe* to the fold of *pītvā*.
-
-The borrowing story performs the same maneuver each time. First it removes Sanskrit from the subcontinent. Then it returns the subcontinent's features as later acquisitions: retroflexion as substrate borrowing, the gerund or absolutive as areal feature, receiver grammar as local contact, doer-demotion as passive-like areal habit.[NOTE: borrowing-model-substrate-areal-claims] Each feature is allowed to be Indian only after Sanskrit has been made non-Indian in origin.
+The borrowing story performs the same maneuver each time. First it removes Sanskrit from the subcontinent. Then it returns the subcontinent's features as later acquisitions: retroflexion as substrate borrowing, the gerund or absolutive as areal feature, receiver grammar as local contact, doer-demotion as passive-like areal habit.[NOTE: borrowing-model-substrate-areal-claims] Each feature is allowed to be Indian only after Sanskrit has been made non-Indian in origin.`
 
 The receiver grammar detailed in §17.3—where the self functions as the *sampradāna* (the locus where an experience arrives) rather than an active doer—provides the sharpest test against this maneuver. Tamil, Telugu, Korku, and Mundari let hunger, knowing, perception, and inward states arrive to a person, while the Veda performs exactly the same work through forms such as *asmai*, *naḥ*, *mahyam*, and *tvasmai*. The imagined carrier route must therefore explain how an external language arrived already able to encode that specific mind, or how the massive Vedic corpus was later systematically reworked to encode it.
 
@@ -148,7 +126,7 @@ The maneuver now stands exposed. The pyramid grants the Indian subcontinent each
 
 Now set the two regions side by side. The claimed source — Avestan and Old Iranian — does not run the cluster: the retroflex series is absent, and the syntax must be weighed with care before more is claimed.[NOTE: avestan-retroflex-absence] What the carrier was supposed to bring lives densely in the subcontinent instead. Sanskrit encodes structurally what subcontinental languages exhibit densely.
 
-## 17.9 The Corpus Cannot Be Rewritten
+## 17.8 The Corpus Cannot Be Rewritten
 
 Contact can move sounds and grammatical habits through a speech community, but either timing available to the portability thesis defeats its account of Sanskrit as transported cargo. If the five features entered before the Vedic forms were organized for exact recurrence, then Sanskrit acquired its defining sound and grammatical architecture inside the subcontinent. The curled tongue, the doubled syllable, the receiver construction, the demoted doer, and the folded action were built into Sanskrit among the languages that share them; they did not arrive as the finished architecture of an external language.
 
@@ -162,7 +140,7 @@ The different duties of the *vaidika* and *laukika* domains explain how **ळ** 
 
 The branch evidence sharpens the category further. A शाखा (*śākhā*) is a specified transmission line with its own branch-shape. The **माध्यन्दिन (*Mādhyandina*)** and **काण्व (*Kāṇva*)** recensions of the **शतपथब्राह्मण (*Śatapatha Brāhmaṇa*)** preserve related material through different branch-shapes, divisions, and arrangements. The correct axis is mode and branch rather than a single temporal slope from "Vedic" to "Classical."[NOTE: madhyandina-kanva-branch-shapes]
 
-## 17.10 What Sanskrit Builds from the Cluster
+## 17.9 What Sanskrit Builds from the Cluster
 
 Contact can move forms; engineering assigns place, role, and scale.
 

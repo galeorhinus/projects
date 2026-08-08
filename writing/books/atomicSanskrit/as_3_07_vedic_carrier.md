@@ -138,7 +138,7 @@ In this passage, the meter explains why the longer form was selected. The marker
 
 | Observed Vedic feature | Formal setting | Architectural interpretation |
 |------|--------|----------------------|
-| Retroflex lateral **ळ (*ḷ*)** in *agnimīḷe* (अग्निमीळे) | The *Ṛgveda-Prātiśākhya* specifies **ड → ळ** between vowels. | Vedic transmission preserves a condition-generated form without requiring an independent **ळ** coordinate in the reusable *laukika* grid (Ch 9 §9.10; Ch 17 §17.9). |
+| Retroflex lateral **ळ (*ḷ*)** in *agnimīḷe* (अग्निमीळे) | The *Ṛgveda-Prātiśākhya* specifies **ड → ळ** between vowels. | Vedic transmission preserves a condition-generated form without requiring an independent **ळ** coordinate in the reusable *laukika* grid (Ch 9 §9.10; Ch 17 §17.8). |
 | **उदात्त-अनुदात्त-स्वरित (*udātta-anudātta-svarita*)** pitch accent | Preserved in Vedic recitation; laukika Sanskrit is not marked by the same three-way pitch specification. | Pitch contributes to grammatical interpretation and helps bound the Vedic domain's additional forms. |
 | ***Plutaḥ*** (प्लुतः), the extended vowel | Used where Vedic recitation or stated speech conditions require extended duration. | Duration remains available as a restricted parameter rather than becoming an ordinary vowel coordinate. |
 | Vedic subjunctive, ***leṭ-lakāra*** (लेट्) | Pāṇini documents *leṭ* under *chandasi*; laukika Sanskrit does not use it as a reusable paradigm for new composition. | A domain-specific verbal resource does not by itself establish an earlier language. |

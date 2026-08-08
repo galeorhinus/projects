@@ -228,10 +228,9 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 17.4 The Mind De-centers: *Karmaṇi* and *Bhāve* — *The doer steps back; the action or affected thing can stand forward.*
 - 17.5 The Mind Sequences: The Folded Action — *Prior action compressed into forms such as pītvā and hatvā.*
 - 17.6 One Cluster, Encoded — *The five features gathered as one subcontinental cluster.*
-- 17.7 The Notices — *The pyramid's changing Aryan notices mocked by their retained custody tag.*
-- 17.8 The Borrowing Model Fails — *The claimed route must explain the cluster Sanskrit encodes structurally.*
-- 17.9 The Corpus Cannot Be Rewritten — *The Vedic corpus already preserves the field; style and mode are not chronology.*
-- 17.10 What Sanskrit Builds from the Cluster — *The grammar transforms the subcontinental mouth-and-mind cluster into a precise architecture.*
+- 17.7 The Borrowing Model Fails — *The claimed route must explain the cluster Sanskrit encodes structurally.*
+- 17.8 The Corpus Cannot Be Rewritten — *The Vedic corpus already preserves the field; style and mode are not chronology.*
+- 17.9 What Sanskrit Builds from the Cluster — *The grammar transforms the subcontinental mouth-and-mind cluster into a precise architecture.*
 
 **Chapter 18 — The Wrong Question** — *Argues at the level of categories of explanation. The genealogical project asks the wrong question. The architectural test names what any valid model of Sanskrit must explain; the precursor model fails for the same structural reason.*
 
