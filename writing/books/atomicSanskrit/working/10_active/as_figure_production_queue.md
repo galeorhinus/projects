@@ -87,7 +87,7 @@ them. They have first claim on figure-production time.
 | Priority | Live ID | Working title | Placement | Status | Detailed source | Intended asset | Next action |
 |---|---|---|---|---|---|---|---|
 | P0 | **14.2** | Six-Layer Calibration Matrix | `as_1_14_calibration.md` §14.1 | Placeholder | Body placeholder and calibration discussion | `figures/calibration/six_layer_calibration_matrix.svg` | Convert the six layers and transversal Śikṣā role into a source-ready specification, then build. |
-| P0 | **18.1** | The Architectural Test | `as_1_18_wrong_question.md` opening | Placeholder; body incorrectly says **17.1** | Body placeholder | `figures/wrong_question/architectural_test.svg` | Correct the working number during deployment; create the six-row comparison table. |
+| P0 | **18.1** | The Architectural Test | `as_1_18_wrong_question.md` opening | **Deployed 2026-08-08** | Chapter 18 §§18.1–18.3 | `figures/wrong_question/architectural_test.svg` | Complete. Six-row comparison rendered and the body number corrected. |
 | P1 | **19.7** | PIE Reconstructions and Vivimorphosis Chains | `as_1_19_pie_in_sky.md` §19.8 | Placeholder | Body placeholder; Sanskrit Radiance mapping work | `figures/pie_in_sky/pie_vivimorphosis_comparison.svg` | Reconcile with the yuj mapping method and avoid repeating Figures 19.2–19.6. |
 | P1 | **20.1** | The Mitanni Sanskritic Layer | `as_1_20_life_after_pie.md` opening | Placeholder | Body placeholder | `figures/life_after_pie/mitanni_sanskritic_layer.svg` | Verify final table copy and render. |
 | P2 | **20.2** | Wave 2 Catalog of Methodological Metatypy | `as_1_20_life_after_pie.md` §20.2 | Placeholder | Body placeholder | `figures/life_after_pie/wave_2_methodological_metatypy.svg` | Decide whether the evidence table needs a figure or should remain a typeset table. |
@@ -198,8 +198,9 @@ a clear visual need.
 
 ## Numbering and Ownership Corrections
 
-1. The placeholder inside `as_1_18_wrong_question.md` says **Figure 17.1**.
-   The live chapter is Chapter 18, so deployment must assign **Figure 18.1**.
+1. **Resolved 2026-08-08:** the placeholder inside
+   `as_1_18_wrong_question.md` incorrectly said **Figure 17.1**. The deployed
+   asset is **Figure 18.1**, `figures/wrong_question/architectural_test.svg`.
 2. The former queue's proposed Figures 19.2 and 19.3 are obsolete. Those
    numbers now belong to deployed PIE-tree and orbit/radiance figures. The
    remaining comparison placeholder is **Figure 19.7**.

@@ -1019,9 +1019,9 @@ Rigvedic forms checked against VedaWeb 1.0 TEI. Translations compared with Jamis
 
 ### `mayin-concealment-cluster`
 
-**Short:** Three named antagonists bear the *māyin* (deceiver) epithet directly, by name, in apposition: Vṛtra (RV 2.11), Namuci (RV 1.53.7), Svarbhānu (RV 5.40). The concealment sense of the architecture of containment has its firmest possible Vedic grounding — not the book's inference, the Veda's own apposition.
+**Short:** Vṛtra and Namuci bear the *māyin* (deceiver) epithet directly, while the Ṛgveda identifies Svarbhānu's deceptions as *māyā*. Ṛgveda 7.104.16 then describes the identity reversal that modern psychology calls gaslighting: a false accuser calls someone else a sorcerer, while a *rakṣas* declares himself pure.
 
-**Deployments:** Chapter 1 §1.5 — the concealment sense of the architecture of containment.
+**Deployments:** Chapter 1 §1.5 — the concealment sense of the architecture of containment; Chapter 18 §18.4 — hostile Vedic *māyā* linked to civilizational gaslighting.
 
 **Vṛtra, RV 2.11.** The hymn gives him two epithets in the *māyā*-family: **मायाविनम् वृत्रम् (*māyāvinam vṛtram*)**, "Vṛtra the deceiver," and separately **मायिनः दानवस्य (*māyinaḥ dānavasya*)**, "of the deceiver-Dānava." Two independent *māyā*-epithets inside one hymn, distinct from the RV 1.32 Vṛtra hymn already anchoring Chapter 3 §3.7 (see `rv-1-32-vrtra`) — RV 2.11's contribution is the epithet itself, not the containment-and-release narrative.
 
@@ -1029,7 +1029,9 @@ Rigvedic forms checked against VedaWeb 1.0 TEI. Translations compared with Jamis
 
 **Svarbhānu, RV 5.40.** **स्वर्भानोः मायाः (*svarbhānoḥ māyāḥ*)**, "Svarbhānu's deceptions," appears twice in the hymn; Atri clears them by the fourth sacred utterance (*turīyeṇa brahmaṇā*). Cross-reference `rigveda-5-40-5-svarbhanu-eclipse` and `rigvedic-named-antagonist-asuras` for the full eclipse narrative and the *āsura* title.
 
-Pipru and Śambara sit in thematic proximity to *māyin* vocabulary (Pipru RV 1.51; Śambara RV 1.54's *māyino... dhṛṣat*) without the tight name-plus-epithet apposition Vṛtra, Namuci, and Svarbhānu each receive. They remain supporting evidence, not parity cases. Forms checked against VedaWeb 1.0 TEI; translations compared with Jamison and Brereton (2014).
+**Identity reversal, RV 7.104.16.** The continuous text begins **यो मायातुं यातुधानेत्याह (*yo māyātuṃ yātudhānety āha*)**, but the *Padapāṭha* separates **यः । मा । अयातुम् । यातुधान । इति । आह (*yaḥ | mā | ayātum | yātudhāna | iti | āha*)**: "who calls me, though I am not a *yātu*, a *yātudhāna*." The next words describe the matching reversal: **यः वा रक्षाः शुचिः अस्मि इति आह (*yaḥ vā rakṣāḥ śuciḥ asmi iti āha*)**, "or the *rakṣas* who says, 'I am pure.'" The opening is therefore *mā + ayātum*, not a form of *māyā*. The mantra nevertheless gives Chapter 18 the action that completes the link: the deceiver transfers his identity to another person and presents himself as pure.
+
+**Pipru, RV 10.138.3.** The verse calls him ***pípror ásurasya māyínaḥ***, "Pipru, the *asura*, the *māyin*," while describing the opening of his firm fortifications. See `rigvedic-named-antagonist-asuras` for the complete passage. Śambara also appears beside *māyin* vocabulary in RV 1.54. Forms checked against VedaWeb 1.0 TEI; translations compared with Jamison and Brereton (2014).
 
 ---
 
@@ -5963,6 +5965,16 @@ Chapter 17 argues against sourced positions, not paraphrase. (1) *Retroflexion a
 **Deployments:** Chapter 17 §17.7.
 
 The Indic retroflex stop series (ट ठ ड ढ ण) has no corresponding independent retroflex series in Avestan or Old Persian: retroflexion is an Indo-Aryan innovation, not a shared Proto-Indo-Iranian feature. The cleanest witness is a cognate pair — Sanskrit *sthūṇā* ("pillar," with retroflex *ṇ*) beside Avestan *stūna* (dental) — where Indic retroflexes, Iranian keeps the dental. The areal-feature literature places retroflexion in the linguistic area of the Indian subcontinent, not the Iranian one (Emeneau 1956; Masica 1991; Kuiper's substrate account), and the standard Avestan grammar (Karl Hoffmann and Bernhard Forssman, *Avestische Laut- und Flexionslehre*, Innsbruck, 1996) describes an inventory without the Indic retroflex series. This is the inversion §17.7 turns on: a portable Indo-Iranian import would resemble its claimed carrier, yet the retroflex — the chapter's Mouth signature — is exactly what the carrier region lacks and the subcontinental population exhibits densely. Three precisions: (a) the *retroflex* absence is the strong, well-attested leg; the *syntax* comparison (gerund, dative-subject) stays hedged, needing careful Old Iranian comparison before more is claimed. (b) Avestan is sometimes analyzed as having a single marginal retroflex-like segment (a /ʈ/, or the cluster /tθ/) — not the Indic recurring five-member series; the claim is about the *series*, not the total absence of any retroflex-like sound. (c) Some later / eastern Iranian languages (e.g., Pashto) develop a secondary retroflex series through their own later contact; the claim is about Old Iranian / Avestan, the pyramid's own claimed carrier stage. Core fact and references web-verified 2026-06-30; page-level locators to confirm at production.
+
+---
+
+### `rigveda-five-feature-cluster`
+
+**Short:** Maṇḍalas 2–7, which historical linguists place in their oldest Rigvedic layer, already contain all five features assembled in Chapter 17: the curled tongue, grammatical reduplication, receiver grammar, a receding doer, and folded action.
+
+**Deployments:** Chapter 17 §17.8.
+
+Historical linguists commonly place the six family books, Maṇḍalas 2–7, in their oldest layer of the *Ṛgveda*. The complete five-feature cluster already appears inside those books. (1) The curled tongue appears in **ईळे (*īḷe*)** at Ṛgveda 3.1.15. (2) Grammatical reduplication appears in **बिभर्ति (*bibharti*)** at 7.4.5. (3) Receiver grammar appears in **श्रदस्मै धत्त (*śrad asmai dhatta*)**, “place trust in him,” at 2.12.5. (4) The doer recedes in **उक्थं मदश्च शस्यते (*ukthaṃ madaś ca śasyate*)**, “the hymn and exhilaration are praised,” at 4.49.1; the passive **शस्यते (*śasyate*)** leaves the doer unexpressed. (5) Folded action appears in **हत्वाहिम् (*hatvāhim*; *hatvā ahim*)**, “having slain the serpent,” at 2.12.3. Every feature therefore appears within the very maṇḍalas that the pyramid places at the beginning of its internal chronology. The family-book classification follows the standard historical-linguistic account represented by Stephanie W. Jamison and Joel P. Brereton, *The Rigveda: The Earliest Religious Poetry of India* (Oxford University Press, 2014), Introduction, and Michael Witzel, “Ṛgvedic History: Poets, Chieftains and Polities” (1995). Mantra forms and locators were checked against the Van Nooten–Holland Saṃhitā text as presented by Sanskrit Documents. The passive analysis is independently illustrated by the University of Texas Linguistics Research Center, *Ancient Sanskrit Online*, §48, “The passive.”
 
 ---
 
