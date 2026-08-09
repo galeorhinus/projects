@@ -42,7 +42,7 @@ Second: the ***dhātu*** architecture (Chapters 2 and 10). Sanskrit does not mer
 
 Third: the rules that carry sonomers into meaningful words and sentences (Chapters 11 and 12): *saṃdhi*, *gaṇa* organization, affixation, metrical constraint, and the generative architecture the *Aṣṭādhyāyī* articulates.
 
-Fourth: the ***mūrdhanya*** core (Chapter 17). The retroflex row is not peripheral. It sits inside the architecture: vowel-core, bonder, closure class, acoustic signature.
+Fourth: the ***mūrdhanya*** core (Chapter 17). The retroflex row sits right inside the architecture: vowel-core, bonder, closure class, acoustic signature.
 
 Fifth: the preservation architecture (Chapters 13, 14, and 15): *padapāṭha*, *kramapāṭha*, *jaṭāpāṭha*, *ghanapāṭha*, *Prātiśākhya*, *Śikṣā*, *chandas*, and the living *guru-shishya* lineage-chain.
 
@@ -57,15 +57,9 @@ Any model of Sanskrit has to explain all six. A model that explains none of thes
 
 Historical linguists call this procedure the **comparative method**. They compare recorded languages, identify recurring sound correspondences, group languages by features they consider inherited, and use those patterns to reconstruct hypothetical earlier forms. The method can explain how Latin developed into the Romance languages, how Germanic sounds changed, and how Iranian and Sanskrit forms correspond.
 
-It cannot recover engineering specifications from a surface inventory. That is not its job. It was not built for that object.
-
 The method assumes ordinary linguistic friction: drift, sound change, analogy, semantic shift, simplification, innovation, and inheritance. It therefore reconstructs an ordinary natural language. It cannot produce an engineered sonomer coordinate system because that category does not exist inside its procedure. It cannot produce a calibration matrix because preservation architecture is not a feature it looks for. It cannot explain why a language would be built to resist the drift the method assumes.
 
-Engineering presupposes engineers. Specifications presuppose specifiers. Preservation architecture presupposes designers of the infrastructure. None of these presuppositions is available inside the comparative method, because the method explicitly excludes them as not part of how natural languages work.
-
 This is the category theft. The genealogical project looks at Sanskrit after the engineering is already visible and asks which precursor could have produced the surface. The architectural test examines how the engineering was specified, built, preserved, and decoded. The two inquiries belong to different categories.
-
-No improved dataset fixes this. No larger cognate set fixes this. No more refined reconstruction fixes this. A better genealogy still does not become an architecture.
 
 ## 18.3 The Test Applied
 
@@ -83,9 +77,9 @@ The preservation mechanisms: comparative reconstruction studies changes among re
 
 The formal grammar: PIE reconstruction does not produce an *Aṣṭādhyāyī*, a *Nirukta*, a *Prātiśākhya*, or a *siddha* / *kārya* distinction. The pyramid classifies these disciplines as later cultural artifacts. Yet they preserve the continuum's own analysis of Sanskrit as a specified architecture. Any model of Sanskrit must explain why these disciplines exist and why their analyses converge.
 
-Six requirements. The genealogical project satisfies none of them.
+Six requirements. The genealogical project satisfies *none* of them.
 
-Adding more cognates or refining the sound laws will not close this gap. The genealogical project was built to reconstruct ancestry among natural languages. Sanskrit requires an account of how an engineered language was built, used, preserved, and decoded.
+The result is a genealogy of naturally changing languages. Sanskrit requires an architectural account of how it was built, used, preserved, and decoded.
 
 ## 18.4 Gaslighting with Footnotes
 
@@ -93,19 +87,17 @@ The progressive dogma presents the genealogical model as established fact before
 
 This preference rests on one assumption: Sanskrit must be the same kind of drifting natural language that the comparative method places elsewhere in a descent tree. The preceding chapters establish a different account. Sanskrit is engineered speech, preserved speech, decoded speech, and rule-defined speech.
 
-The precursor model may propose relationships among recorded words and sounds. It does not explain Sanskrit's sonomer-to-atom architecture, preservation system, retroflex core, or formal grammar. It therefore cannot serve as the default explanation of Sanskrit.
-
-To preserve that status, the pyramid must dismiss Sanskrit's own analytical disciplines. It must claim that *Nirukta*, *Prātiśākhya*, *Śikṣā*, *Chandas*, and *Mīmāṃsā* misunderstood the language they studied. It must also claim that generations of *guru-shishya* lineages preserved and transmitted the same civilizational delusion for thousands of years.
+To preserve the genealogical model as established fact, the pyramid must dismiss Sanskrit's own analytical disciplines. It must claim that *Nirukta*, *Prātiśākhya*, *Śikṣā*, *Chandas*, and *Mīmāṃsā* misunderstood the language they studied. It must also claim that generations of *guru-shishya* lineages preserved and transmitted the same civilizational delusion for thousands of years.
 
 Earlier chapters established why the Vedas serve as a calibrant for Sanskriti: they preserve the contest between सत् (sat) and असत् (asat) in forms that people can recognize whenever the same actions return in another age. Civilizational gaslighting is one present-day expression of that ancient pattern.
 
-The chapter's epigraph presents an epistemic inversion: the framework for recognizing truth is reversed. A person who is not a **यातु (*yātu*)** is accused of being a **यातुधान (*yātudhāna*)**, while an actual **रक्षस् (*rakṣas*)** declares, "I am pure." ***Gaslighting is the psychological weaponization of epistemic inversion.***
+The chapter's epigraph presents an epistemic inversion: the framework for recognizing truth is reversed, a weapon the ***a-suras*** have always used. A person who is not a **यातु (*yātu*)** is accused of being a **यातुधान (*yātudhāna*)**, while an actual **रक्षस् (*rakṣas*)** declares, "I am pure." ***Gaslighting is the psychological weaponization of epistemic inversion.***
 
-The Ṛgveda describes the wider operation through hostile **माया (*māyā*)**. Vṛtra and Namuci are **मायिन् (*māyin*)**, figures who use concealment and deception, while Svarbhānu's *māyā* hides the Sun. These figures conceal what remains present and demand that others accept the concealment as reality.[NOTE: mayin-concealment-cluster]
+The Ṛgveda describes the wider operation through hostile **माया (*māyā*)**. Vṛtra and Namuci are **मायिन् (*māyin*)**, figures who use concealment and deception, while Svarbhānu's *māyā* hides the Sun. These ***a-suras*** conceal what remains present and demand that others accept the concealment as reality.[NOTE: mayin-concealment-cluster]
 
 Gaslighting can redirect memory without erasing it. The pyramid teaches India to remember Pāṇini incorrectly. It turns the decoder into a codifier and turns his documentation into the origin of the language. This redirects the civilization's reverence for one of its finest decoders toward codification itself.
 
-Praise becomes a weapon here. The pyramid does not need to insult Pāṇini. It can praise him for the wrong act. By miscasting him as the codifier who created order, the pyramid trains the civilization to honor centralized authority instead of recognizing calibration. The memory remains reverent, but the pyramid has altered the object of reverence. That is gaslighting at civilizational scale.
+Praise becomes a weapon here. The pyramid does not need to insult Pāṇini. It can praise him for the *wrong* act. By miscasting him as the codifier who created order, the pyramid trains the civilization to honor *codification* instead of *calibration*. The memory remains reverent, but the pyramid has altered the object of reverence. That is gaslighting at civilizational scale.
 
 When the Hindu continuum recognizes its own architecture and the academic establishment calls that recognition a delusion, that is not scholarship.
 
@@ -119,7 +111,7 @@ The problem begins when the pyramid gives the two speculations different names. 
 
 This is how the pyramid launders speculation into certainty. Every human mind speculates when the evidence ends. The asuric move claims perfect knowledge precisely where perfect knowledge is unavailable.[NOTE: speculation-theory-asuric-certainty]
 
-Where observation and measurement can decide between competing explanations, a theory earns its name. No measurement can recover words that no one recorded or establish who first created Sanskrit. At that boundary, honesty requires a clear account of what is known, what has been inferred, and what remains unknown. Humility is the only honest posture.
+Observation and measurement establish what can be tested. Beyond their reach, an honest account identifies its inferences and speculations openly.
 
 ### The Pyramid's Speculation
 
@@ -135,7 +127,7 @@ The pyramid does not know Sanskrit's origin. It has no inscription of PIE, no sp
 8. When Pāṇini documented an already functioning architecture, the pyramid's account called it codification: praise the named documenter, redirect the memory, deny the architecture documented.
 9. When the Sanskrit continuum preserved its own categories — *saṃskṛtam*, *śruti*, *apauruṣeya*, *vyākaraṇam*, *vaidika*, and *laukika* — the pyramid's account treated them as belief, not evidence.
 10. Every link in the chain is required because the first link must be preserved: Sanskrit cannot be the engineered calibrant at the center. It must be one member of the manufactured family of co-descended languages.
-11. The chain remained secure because few readers tested its assumptions against Sanskrit's complete architecture. The preceding chapters have now tested every link against the evidence assembled across sonomers, atoms, grammar, recitation, and transmission. The comparison exposes where each link depends upon the one before it rather than upon Sanskrit's architecture.
+11. The preceding chapters test every link against Sanskrit's complete architecture. Across sonomers, atoms, grammar, recitation, and transmission, each link depends upon the link before it rather than upon Sanskrit itself.
 
 
 The pyramid links each speculation to the next: imaginary PIE requires an external homeland and a racial Arya thesis; the incoming language then borrows retroflexes from a substrate, evolves as *"Vedic Sanskrit,"* and finally becomes standardized as *"Classical Sanskrit"* through Pāṇinian codification.
@@ -150,7 +142,7 @@ That is the inversion. The speculation is not absent. It is wearing the robes of
 
 ## 18.6 The Migration Trap
 
-The Racial Arya Thesis survives by changing its instruments. The pyramid has crossed out ~~Caucasian~~, ~~Aryan race~~, ~~Nordic race~~, ~~cranial index~~, ~~nasal index~~, ~~conquest~~, and ~~invasion~~. It now says population, steppe ancestry, DNA, mobility, elite dominance, and migration. The vocabulary retreats. One qualification remains: Sanskrit's origin could never be Indian. Every revision still makes Sanskrit arrive from outside India.
+The Racial Arya Thesis survives by changing its instruments. The pyramid has crossed out ~~Caucasian~~, ~~Aryan race~~, ~~Nordic race~~, ~~cranial index~~, ~~nasal index~~, ~~conquest~~, and ~~invasion~~. It now says population, steppe ancestry, DNA, mobility, elite dominance, and migration. The vocabulary retreats, but one conclusion survives every revision: Sanskrit's origin could never be Indian.
 
 AIT was the crude form. AMT is the laundered form. **RAT is the thesis. PIE is the ancestor-device. *"Indo-Aryan"* is the external-origin label.**
 
@@ -164,59 +156,67 @@ The trap asks the wrong question first and then forces every explanation to rema
 
 Bodies move. Knowledge moves. Specialists move. Traders move. Students move. Refugees move. None of that proves authorship.
 
-India was never a sealed chamber. People entered India, left India, traded with India, studied in India, fled to India, married into India, and took Indian knowledge outward. Population movement can explain ancestry, contact, admixture, settlement, trade, patronage, war, refuge, or migration. It does not by itself explain the *varṇamālā*, the Vedic archive, the recitation disciplines, the *dhātu* architecture, the grammatical sciences, or the calibration matrix.
+India was never a sealed chamber. People entered India, left India, traded with India, studied in India, fled to India, married into India, and took Indian knowledge outward. Population movement can explain ancestry, contact, admixture, settlement, trade, patronage, war, refuge, or migration.
 
-### The Migration Story the Pyramid Will Never Admit
+DNA is only relevant to this book because the Racial Arya Thesis uses ancestry as evidence of linguistic authorship. It treats a paternal genetic signal as the biological trace of men who supposedly brought Sanskrit into India. The next subsection tests that claim on its own terms.
+
+### The Paternal Migration Story the Pyramid Will Never Admit
+
+Genetic studies do not observe an ancient migration. They compare DNA from selected present-day and ancient samples, group similarities through statistical models, and estimate when populations **may** have mixed. Their conclusions depend upon which samples survive, how researchers define the comparison populations, how they estimate time, and which model they apply. The resulting account is an inference built from several interdependent assumptions.[NOTE: migration-trap-movement-not-authorship]
+
+Even if we grant the pyramid its proposed movement from Central Asia and the adjoining steppe corridor between roughly 2300 BCE and 1500 BCE, the genetic comparison does not identify why those people moved or what language they spoke. The studies report that some ancestry associated with populations assigned to that interval appears more strongly through paternal lines in present-day populations of the Indian subcontinent. The Y chromosome passes from father to son, while mitochondrial DNA follows the maternal line. The researchers interpret the combined comparison as evidence that incoming men fathered children with women already living in the subcontinent.[NOTE: migration-trap-movement-not-authorship]
+
+The pyramid labels this pattern ***elite dominance***. It assigns Sanskrit to those incoming men and treats the paternal signal as the route by which Sanskrit entered India.[NOTE: migration-trap-movement-not-authorship] The same pattern would also appear if men arrived without their original families and married women already living in India. Pyramidal societies produced exactly those displaced men through forced labor, slavery, war, and political violence. India could receive them, give them a place in society, and absorb their children.
+
+#### Why Men Would Leave the Pyramid
 
 Every pyramid extracts food and wealth from the people below. It fortifies territory and builds an administrative hierarchy to keep that extraction flowing. It then turns the accumulated wealth and labor into physical displays of apex power. Fortified cities control the living, while burial monuments extend the ruler's presence after death. These structures overwhelm the pyramid's subjects and intimidate its enemies.
 
-Across Central Asia and the adjoining steppe corridor during roughly 2300–1500 BCE, the Bronze Age interval that the pyramid associates with movement toward India, rulers forced oppressed and enslaved people to carry out these projects. The fortified centers of Bactria–Margiana and Sintashta concentrated labor behind walls throughout that period. The system continued for another fourteen centuries. In Khorezm, laborers dug and maintained irrigation canals. At Afrasiab, they raised walls and citadels; at Kalaly-gyr, they built an enormous royal enclosure. At Arzhan, Pazyryk, and Issyk, they piled earth, stone, and timber into monumental burial mounds for rulers.[NOTE: migration-trap-displacement-routes]
+Across Central Asia and the adjoining steppe corridor during roughly 2300–1500 BCE, the interval used in the genetic account, rulers forced oppressed and enslaved people to carry out these projects. The fortified centers of Bactria–Margiana and Sintashta concentrated labor behind walls throughout that period. The system continued for another fourteen centuries. In Khorezm, laborers dug and maintained irrigation canals. At Afrasiab, they raised walls and citadels. At Kalaly-gyr, they built an enormous royal enclosure. At Arzhan, Pazyryk, and Issyk, they piled earth, stone, and timber into monumental burial mounds for rulers.[NOTE: migration-trap-displacement-routes]
 
-The pyramid used many legal labels for the men beneath it. A slave belonged to a master. A captive belonged to the victor. A conscript belonged to the army, while debt and poverty could bind a nominally free worker almost as tightly. Their position inside the pyramid remained the same. They quarried stone for palaces, extracted ore from mines, rowed warships, cultivated estates, dug canals, and raised walls around cities that they did not control. For many of these men, the only path out was escape.
+The pyramid used many legal labels for the men beneath it. A slave belonged to a master. A captive belonged to the victor. A conscript belonged to the army. Debt and poverty could bind a nominally free worker almost as tightly. Their position inside the pyramid remained the same. They quarried stone for palaces, extracted ore from mines, rowed warships, cultivated estates, dug canals, and raised walls around cities that they did not control. For many of these men, the only path out was escape.
 
 The pyramid displayed ***भव्यता (*bhavyatā*)***, grandiosity created by concentrating wealth, labor, and power toward the apex. The palace, acropolis, fortress, and monument made the master's power visible. The oppressed laborer who built that grandeur for someone else had every reason to search for a life beyond it.
 
-India offered ***दिव्यता (*divyatā*)***, radiance that a person could approach through action, learning, discipline, devotion, and participation. A newcomer did not need to become the apex or remain trapped beneath one. He could enter a civilization that gave him a place to build a life. For a man imprisoned below another person's *bhavyatā*, India's *divyatā* supplied a powerful reason to escape and travel toward it.
+War produced another stream of uprooted men. Military defeat scattered soldiers after their commanders and territories had disappeared. Dynastic conflict expelled political rivals. Retreating armies abandoned mercenaries and captives far from home. The steppes and the Greco-Roman world subjected men to these pressures for centuries.[NOTE: migration-trap-displacement-routes]
 
-Pyramidal societies also manufactured uprooted men through war. Military defeat scattered soldiers after their commanders and territories had disappeared. Dynastic conflict expelled political rivals, while retreating armies abandoned mercenaries and captives far from home. The steppes and the Greco-Roman world subjected men to these pressures for centuries.[NOTE: migration-trap-displacement-routes]
-
-The pattern repeated itself more than a millennium later, when written histories begin identifying some of the displaced peoples. The Yuezhi moved west after the Xiongnu defeated them during the second century BCE, and their movement displaced Saka groups toward the south. Centuries later, Huna formations emerged from the same violent world, where confederacies repeatedly expanded and fractured. These events belong to later periods than the Bronze Age movement used in the genetic account. They demonstrate that the same corridor continued to produce displaced men long after 1500 BCE.
+The pattern continued long after 1500 BCE. The Yuezhi moved west after the Xiongnu defeated them during the second century BCE, and their movement displaced Saka groups toward the south. Centuries later, Huna formations emerged from the same violent world, where confederacies repeatedly expanded and fractured. These events occurred centuries after the interval used in the genetic account. They show that the same corridor continued to produce displaced men for centuries.
 
 Each upheaval stripped men of the people and institutions around which they had built their lives. The armies and war-bands that broke apart were overwhelmingly male. Some survivors later became conquerors themselves. Others entered another army or made a living through trade. Marriage and new land allowed them to begin again.[NOTE: migration-trap-displacement-routes]
 
-The Hellenistic and Roman pyramids produced another stream of uprooted men. Their wars moved armies across enormous distances and supplied captives to slave markets. Soldiers deserted, captives escaped, and political exiles fled. Mercenaries also had to find another place when the ruler who paid them fell.
+The Hellenistic and Roman pyramids produced more uprooted men. Their wars moved armies across enormous distances and supplied captives to slave markets. Soldiers deserted, captives escaped, and political exiles fled. Mercenaries also had to find another place when the ruler who paid them fell.
 
 The Seleucid, Bactrian, and Indo-Greek corridors connected that world directly with India. Men fleeing western and Central Asian pyramids did not need to invent India as a destination. The roads already led there.[NOTE: migration-trap-displacement-routes]
 
-India supplied reasons to complete that journey. Its markets and armies could give a newcomer a livelihood. Its courts and teachers offered patronage and learning, while its ascetic traditions allowed a person to leave an earlier identity behind. A man escaping a defeated army or an imperial state could therefore enter India to survive and rebuild his life. The same possibility was available to someone fleeing debt, captivity, or slavery.
+#### Why India Could Receive Them
+
+India offered ***दिव्यता (*divyatā*)***, radiance that a person could approach through action, learning, discipline, devotion, and participation. A newcomer did not need to become the apex or remain trapped beneath one. He could enter a civilization that gave him a place to build a life. For a man imprisoned below another person's *bhavyatā*, India's *divyatā* supplied a powerful reason to escape and travel toward it.
+
+India also supplied practical reasons to complete that journey. Its markets and armies could give a newcomer a livelihood. Its courts and teachers offered patronage and learning. Its ascetic traditions allowed a person to leave an earlier identity behind. A man escaping a defeated army or an imperial state could therefore enter India to survive and rebuild his life. The same possibility was available to someone fleeing debt, captivity, or slavery.
 
 A Greek account preserved by Arrian records the contrast in language that would have startled the slave societies of the Mediterranean: *"all Indians are free, and no Indian at all is a slave."* The contrast was unmistakable to a Greek observer comparing India with the social order he knew.[NOTE: migration-trap-india-absorption]
 
 India could receive a newcomer through ***क्रिया (*kriyā*)***. His actions could give him a place in society. He might learn a craft and join its guild, defend the community through military service, or become a teacher after years of study. Marriage and children could bind his family to the place that had received him. His ancestry remained part of his history without becoming a permanent prison.
 
-The Heliodorus pillar makes that absorptive capacity visible in stone. Heliodorus came from Taxila as a Yavana ambassador. The inscription identifies him as a ***भागवत (*bhāgavata*)*** and records his dedication of a Garuḍa pillar to Vāsudeva. His Yavana origin did not prevent him from entering the civilization through commitment and chosen action. Over longer periods, incoming men of military backgrounds could enter Kṣatriya formations.[NOTE: migration-trap-india-absorption]
+The Heliodorus pillar makes that absorptive capacity visible in stone. Heliodorus came from Taxila as a Yavana ambassador. The inscription identifies him as a ***भागवत (*bhāgavata*)*** and records his dedication of a Garuḍa pillar to Vāsudeva. His Yavana origin and his chosen commitment to Vāsudeva appear together on the same pillar. Over longer periods, incoming men of military backgrounds could enter Kṣatriya formations.[NOTE: migration-trap-india-absorption]
 
-Movement out of India is equally unsurprising. Indian knowledge served almost every part of life. Physicians and astronomers could take their disciplines to another court. Metallurgists, weavers, shipwrights, and masons could travel wherever patrons needed their skills. Traders carried stories and vocabulary with their goods, while teachers and renunciants moved through monasteries and learning lineages. Buddhist history makes that outward movement visible in a later period.
+Escaping a pyramid does not make a man inferior; it may be the first evidence of his ***विवेक (*viveka*)***. Sanātan never assigns capability or worth by ancestry. A newcomer could learn Sanskrit, participate fully in the civilization, and earn respect within Indian society through his actions.
 
-Sanskrit can leave traces because trained specialists, preserved sound-systems, and disciplined textual lineages entered other language-worlds and changed them. The pyramid sees the resulting similarities and invents an imaginary ancestor. The Radiance Thesis examines whether a preserved calibrant reached changing speech communities at different depths.
+#### What Their Descendants Would Preserve
 
-Human movement therefore belongs in the account. It explains contact, exchange, intermarriage, refuge, conquest, settlement, and transmission. The authorship of Sanskrit rests on different evidence: the sonomer coordinate system, atoms, molecules, sentences, recitation disciplines, grammar, and calibration architecture.
-
-### The Paternal Signal
-
-The genetic evidence contains one more fact. The pyramid places the relevant movement from Central Asia and the adjoining steppe corridor between roughly 2300 BCE and 1500 BCE. Studies of present-day ancestry in the Indian subcontinent have found a male bias in some of the ancestry associated with those Bronze Age populations. The Y chromosome passes from father to son, while mitochondrial DNA follows the maternal line. Taken together, the paternal, maternal, and genome-wide evidence describes incoming men who fathered children with women already living in the subcontinent.[NOTE: migration-trap-movement-not-authorship]
-
-The conditions surrounding India explain why that signal could be male. War-bands and army detachments consisted largely of men, including the deserters and defeated soldiers who escaped them. Slave markets separated male captives from their families. Imperial campaigns carried them across borders, and political purges gave them reasons to keep moving. When those men entered India and married locally, their sons carried the incoming Y chromosomes while their children grew inside the civilization that had received their fathers.
+The conditions surrounding India explain why incoming ancestry could appear more strongly through men. War-bands and army detachments consisted largely of men, including deserters and defeated soldiers. Slave markets separated male captives from their families. Imperial campaigns carried them across borders, and political purges gave them reasons to keep moving. When those men entered India and married locally, their sons carried the incoming Y chromosomes while their children grew inside the civilization that had received their fathers.
 
 How many Sakas entered India after being displaced rather than as triumphant conquerors? How many Yavana soldiers deserted campaigns, escaped captivity, or remained after their commanders disappeared? How many men from broken steppe confederacies entered Indian armies, trading communities, guilds, and Kṣatriya lineages? How much of the paternal ancestry now called *foreign* records sanctuary and absorption?
 
 These are research programs waiting to be pursued. Geneticists, historians, and archaeologists can compare paternal lineages with movement corridors, settlements, inscriptions, military service, marriage networks, and the formation of later communities. The pyramid closes those routes by labeling the paternal signal *elite dominance*. Indian universities can reopen them.
 
-Foreign genetic material in India therefore proves movement, contact, or ancestry. It does not prove that Sanskrit was imported. It does not prove that the *varṇamālā* was designed on the steppe. It does not prove that the Vedic recitation systems arrived with a moving population. It does not prove that Pāṇini decoded an external inheritance. The pyramid wants one conclusion from many possible facts: movement means authorship. That conclusion has to be demonstrated. It cannot be smuggled in through DNA vocabulary.[NOTE: migration-trap-movement-not-authorship]
+Men came to India as escaped slaves, military deserters, political exiles, refugees, and seekers. Their movement can explain contact and ancestry.[NOTE: migration-trap-movement-not-authorship] Sanskrit was already a thriving language when these men arrived.
 
-Appendix Part 3 §3.5 exposes the same move in another domain. Even if every resemblance between a Brāhmī glyph and an Aramaic glyph is granted, resemblance cannot encode the sonomeric grid that Brāhmī renders. DNA supplies evidence about bodies rather than scripts, but the same distinction applies. **Shape is not structure. Movement is not authorship.**
+Appendix Part 3 §3.5 exposes the same mistake in script history. Resemblance between Brāhmī and Aramaic glyphs can indicate contact; the sonomeric grid reveals the architecture Brāhmī encodes. **Shape is not structure. Movement is not authorship.**
 
-Foreign Y-DNA can be the trace of men whom India absorbed. It cannot make Sanskrit foreign, and it cannot turn the absorbed father into the author of the architecture.
+Once absorbed, these men and their descendants could learn Sanskrit and carry its radiance elsewhere. Chapter 19 follows the outward carriers of that Indian architecture.
+
+Foreign Y-DNA can be the trace of men whom India absorbed. That paternal ancestry has nothing to do with Sanskrit's origin.
 
 ## 18.7 An Honest Speculation by This Atri
 
@@ -266,9 +266,9 @@ The two domains divided the responsibility. The read-only *vaidika* domain prote
 
 At the turn from Dvāpara to Kali, the Hindu continuum remembers Veda-Vyāsa arranging the one Veda into four functional streams: Ṛgveda, Yajurveda, Sāmaveda, and Atharvaveda, together with their supporting material. He arranged the one body for an age of shorter memory. The division added nothing and took nothing away. It changed the organization required for transmission.[NOTE: veda-vyasa-division]
 
-The wider preservation architecture used eleven **पाठाः (*pāṭhāḥ*)**, five *prakṛti-pāṭhas* and six *vikṛti-pāṭhas*, to re-encode the same received words through different recitational arrangements. These were not eleven versions of the Veda. They were eleven mutually checking paths through the same invariant content. Geographically separated lineages carried those paths through periods in which kingdoms fell, libraries burned, institutions disappeared, and the asuric pyramid repeatedly attacked the civilization.[NOTE: eleven-pathas]
+The wider preservation architecture used eleven **पाठाः (*pāṭhāḥ*)**, five *prakṛti-pāṭhas* and six *vikṛti-pāṭhas*, to re-encode the same received words through different recitational arrangements, mutually checking paths through the same invariant content. Geographically separated lineages carried those paths through periods in which kingdoms fell, libraries burned, temples destroyed, institutions disappeared, and the asuric pyramid repeatedly attacked the civilization.[NOTE: eleven-pathas]
 
-For thousands of years, the Vedas remained the primary calibrant. Those responsible for recitation preserved every sound, pitch, duration, and sequence. Those responsible for *laukika* Sanskrit could return to the architecture the Vedas encoded whenever usage faced entropy.
+For thousands of years, the Vedas have remained the primary calibrant. Those responsible for recitation preserved every sound, pitch, duration, and sequence. Those responsible for *laukika* Sanskrit could return to the architecture the Vedas encoded whenever usage faced entropy.
 
 Generations of **वैयाकरणाः (*vaiyākaraṇāḥ*)** decoded that architecture. Yāska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, the **प्रातिशाख्य (*Prātiśākhya*)** disciplines, the **शिक्षा (*Śikṣā*)** disciplines, and the wider pre-Pāṇinian grammatical continuum analyzed the language long before the surviving documentation reached its most compressed form.
 
@@ -303,18 +303,18 @@ Before Pāṇini, the Vedic corpus served as the primary calibrant for correctin
 
 The Vedas preserved the architecture. Pāṇini articulated its operations with unmatched precision.
 
-By imposing a chronology on the two domains, the *progressive dogma* treats Vedic as primitive, Classical as refined, Pāṇini as inventor, laukika Sanskrit as a descendant, and *apabhraṃśa* as a stage in descent rather than the tendency the calibrant corrects. This inversion operates as a doctrinal requirement rather than a stylistic choice. As structural opposites, a descent thesis and an engineering thesis cannot both serve as the correct account of the same object.
+By imposing a chronology on the two domains, the *progressive dogma* treats Vedic as primitive, Classical as refined, Pāṇini as inventor, laukika Sanskrit as a descendant, and *apabhraṃśa* as a stage in descent rather than the tendency the calibrant corrects. This inversion operates as a doctrinal requirement rather than a stylistic choice. These are structural opposites. The descent thesis makes Sanskrit the result of linguistic change; the engineering thesis explains it as a constructed and calibrated architecture.
 
 Enforcing this inversion, the *heroic-erasure* move (Chapter 1 §1.6, Chapter 13 §13.3) executes a precise script: celebrate Pāṇini as codifier to deny the engineering that preceded him, and praise the named operator to hide the architecture he decoded. By using Pāṇini rather than fighting him, the machinery turns civilizational memory toward codification and away from calibration.
 
 That exact maneuver forms the target here. The battle lies not with Pāṇini or the past, but with the present machinery telling Hindus to remember Pāṇini as a codifier rather than a decoder.
 
-The machinery does not deny reverence. It redirects reverence.
+The machinery preserves reverence and redirects it.
 
 While the civilization keeps the memory active, the machinery changes its object, training the reader to bow before codification where the evidence points to calibration. By changing what the hero means rather than insulting him, heroic erasure works more effectively than direct denial.
 
 The asuric pyramid persists only as long as that move remains effective.
 
-Sanskrit's calibration architecture rules out that forced choice because it cannot be reduced to drift before Pāṇini or codification after him.
+Sanskrit's calibration architecture restores the continuous account: engineered before Pāṇini, articulated by Pāṇini, and calibrated after him.
 
 Chapter 19 tests PIE itself.
