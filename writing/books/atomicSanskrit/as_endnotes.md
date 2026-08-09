@@ -468,13 +468,68 @@ The displacement is therefore not a single event but a two-century arc, with the
 
 **Short:** August Schleicher, "Eine fabel in indogermanischer ursprache," *Beiträge zur vergleichenden Sprachforschung* 5 (1868): 206–208 — the first complete text composed entirely in reconstructed PIE (*Avis akvāsas ka*), every word bearing the asterisk convention Schleicher had introduced in his 1861 *Compendium*; the fable has been rewritten by Hirt (1939), Lehmann-Zgusta (1979), and Kortlandt (2007) on incompatible reconstructions.
 
-**Deployments:** Chapter 19 §19.1 ¶3 — the opening establishment of Schleicher's *Avis akvāsas ka* as the first complete text in reconstructed PIE and the operational debut of the asterisk-before-reconstructed-form convention.
+**Deployments:** Chapter 19 §19.1 ¶3 — the opening establishment of Schleicher's *Avis akvāsas ka* as the first complete text in reconstructed PIE and the operational debut of the asterisk-before-reconstructed-form convention; Appendix Part 1 §1.4 — the compact comparison between Schleicher's forms and their Sanskrit source material.
 
-August Schleicher, "Eine fabel in indogermanischer ursprache," *Beiträge zur vergleichenden Sprachforschung auf dem Gebiete der arischen, celtischen und slawischen Sprachen* 5 (1868): 206–208. The fable bears the title *Avis akvāsas ka* — "The Sheep and the Horses" — and is the first complete piece of connected text composed entirely in a reconstructed proto-language. Every word in the fable bears the asterisk convention: \**ávis*, \**akvā́sas*, \**kr̥nuto*, \**wl̥qis*, \**ágrom* — each form a reconstruction, none recorded in any speaker's language.
+August Schleicher, "Eine fabel in indogermanischer ursprache," *Beiträge zur vergleichenden Sprachforschung auf dem Gebiete der arischen, celtischen und slawischen Sprachen* 5 (1868): 206–208. The fable bears the title *Avis akvāsas ka* — "The Sheep and the Horses" — and is the first complete piece of connected text composed entirely in a reconstructed proto-language. Schleicher's reconstructed forms include \**avis*, \**akvāsas*, \**krudhi*, \**karnauti*, and \**agram*. None comes from a recorded sentence in the supposed language.
 
 The asterisk-before-reconstructed-form convention itself is Schleicher's earlier invention, established in his *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (Weimar: Hermann Böhlau, 1861; second edition 1866). The *Compendium* is the foundational statement of the *Stammbaumtheorie* (family-tree model) and the systematic application of reconstruction to the Indo-European family. The 1868 fable made the asterisk convention fully operational at literary scale — a working showcase of a reconstructed language run at sentence and paragraph length, demonstrating that the convention could support an entire text.
 
 A historical detail worth naming. The fable has been *rewritten* by later philologists multiple times as the reconstruction project's standard reconstructions have shifted: Hermann Hirt produced a revised version in 1939; Winfred Lehmann and Ladislav Zgusta produced another in 1979; Frederik Kortlandt produced a further revision in 2007. The successive versions diverge substantially from Schleicher's 1868 text — different sound laws, different morphology, different lexical choices. The chapter does not dwell on this in the main prose, but the structural fact is worth flagging here: a text that has been rewritten three or four times across a century and a half, by different reconstructors operating on different theoretical commitments, is not a recovered ancient utterance. It is a continuously revised hypothesis dressed up in the genre of literary text. Schleicher's original is cited because it is the original — the first instance of the convention operating at scale — not because it has any standing as a "correct" reconstruction.
+
+**The forty-four-form comparison.** Schleicher's fable contains 57 word-occurrences and 44 distinct written forms when repeated forms are counted once and the author's hyphenated *vividvant-svas* is retained as one written unit. These are inflected forms, not forty-four separate roots. The comparison finds fourteen exact or nearly exact recorded Sanskrit forms, sixteen more separated from a Sanskrit form or grammatical base by one explainable sonomer change, eleven that place reconstructed morphology around a Sanskrit base, and three that remain unresolved. The table distinguishes those relationships instead of treating every resemblance as equally strong.
+
+| # | Schleicher | Function in the fable | Sanskrit comparison | Relationship |
+|---|---|---|---|---|
+| 1 | *avis* | sheep | **अवि (*avi*)** | Recorded form |
+| 2 | *jasmin* | relative form | **यस्मिन् (*yasmin*)** | Near-exact written form; the reconstructed grammar is not identical to the Sanskrit locative |
+| 3 | *varnā* | wool | **ऊर्णा (*ūrṇā*)** | One sonomeric development |
+| 4 | *na* | not | **न (*na*)** | Recorded form |
+| 5 | *ā* | verbal particle | **आ (*ā*)** upasarga or **अ (*a*)** augment | Unresolved function |
+| 6 | *ast* | was | ⟪अस्⟫ (*as*); compare **आसीत् (*āsīt*)** | Sanskrit base under reconstructed morphology |
+| 7 | *dadarka* | saw | **ददर्श (*dadarśa*)** | Same reduplicated perfect; **k** replaces **ś** |
+| 8 | *akvams* | horses | **अश्वान् (*aśvān*)** | Same case-form; **k** replaces **ś** |
+| 9 | *tam* | that; him | **तम् (*tam*)** | Recorded form |
+| 10 | *vāgham* | vehicle | **वाहम् (*vāham*)** | One sonomeric development |
+| 11 | *garum* | heavy | **गुरुम् (*gurum*)** | Same case-form with a vowel change |
+| 12 | *vaghantam* | pulling | **वहन्तम् (*vahantam*)** | Same participial architecture; **g** is inserted before **h** |
+| 13 | *bhāram* | load | **भारम् (*bhāram*)** | Recorded form |
+| 14 | *magham* | big | ⟪मह्⟫ (*mah*); compare **महान्तम् (*mahāntam*)** | Sanskrit base under reconstructed morphology |
+| 15 | *manum* | human being | **मनुम् (*manum*)** | Recorded form |
+| 16 | *āku* | quickly | **आशु (*āśu*)** | **k** replaces **ś** |
+| 17 | *bharantam* | carrying | **भरन्तम् (*bharantam*)** | Recorded form |
+| 18 | *akvabhjams* | to the horses | **अश्व (*aśva*)** | Sanskrit base under a reconstructed case-ending |
+| 19 | *vavakat* | said | ⟪वच्⟫ (*vac*); compare **उवाच (*uvāca*)** | Sanskrit base under reconstructed verbal morphology |
+| 20 | *kard* | heart | **हृद् (*hṛd*)** | Related base with a special sonomeric development; retained outside the appendix shortlist |
+| 21 | *aghnutai* | pains | Compare **अघ (*agha*)**, distress | Suggestive but unresolved |
+| 22 | *mai* | to me | **मे (*me*)** | Near-exact pronominal form |
+| 23 | *vidanti* | seeing | ⟪विद्⟫ (*vid*) | Reconstructed participial morphology; not Sanskrit **विदन्ति**, "they know" |
+| 24 | *agantam* | driving | **अजन्तम् (*ajantam*)** from ⟪अज्⟫ (*aj*) | **g** replaces **j** |
+| 25 | *akvāsas* | horses | **अश्वासः (*aśvāsaḥ*)** | Vedic plural architecture with **k** replacing **ś** |
+| 26 | *vavakant* | said | ⟪वच्⟫ (*vac*); compare **ऊचुः (*ūcuḥ*)** | Sanskrit base under reconstructed verbal morphology |
+| 27 | *krudhi* | hear! | **श्रुधि (*śrudhi*)** | Recorded Vedic imperative; **k** replaces **ś** |
+| 28 | *avai* | O sheep | **अवे (*ave*)** | Same vocative function with a vowel change |
+| 29 | *vividvant-svas* | seeing or knowing | Compare **विद्वस् (*vidvas*)** from ⟪विद्⟫ (*vid*) | Sanskrit base and reduplication under unresolved reconstructed morphology |
+| 30 | *manus* | human being | **मनुः (*manuḥ*)** | Near-exact recorded form |
+| 31 | *patis* | master | **पतिः (*patiḥ*)** | Near-exact recorded form |
+| 32 | *varnām* | wool | **ऊर्णाम् (*ūrṇām*)** | One sonomeric development |
+| 33 | *avisāms* | of the sheep | **अवि (*avi*)** | Sanskrit base under a reconstructed genitive-plural ending |
+| 34 | *karnauti* | makes | **कृणोति (*kṛṇoti*)** | Recorded Vedic present with a vowel change |
+| 35 | *svabhjam* | for himself | **स्व (*sva*)** | Sanskrit base under a reconstructed case-form |
+| 36 | *gharmam* | warm; heat | **घर्मम् (*gharmam*)** | Recorded form |
+| 37 | *vastram* | garment | **वस्त्रम् (*vastram*)** | Recorded form |
+| 38 | *avibhjams* | to the sheep | **अवि (*avi*)** | Sanskrit base under a reconstructed dative-plural ending |
+| 39 | *ka* | and | **च (*ca*)** | **k** replaces **c** |
+| 40 | *asti* | is | **अस्ति (*asti*)** | Recorded form |
+| 41 | *tat* | that | **तत् (*tat*)** | Recorded form |
+| 42 | *kukruvants* | having heard | **शुश्रुवस् / शुश्रुवान् (*śuśruvas / śuśruvān*)** from ⟪श्रु⟫ (*śru*) | Same reduplicated perfect-participle architecture with sonomer changes |
+| 43 | *agram* | field; plain | **अज्रम् (*ajram*)** from Vedic **अज्र (*ajra*)** | **g** replaces **j**; the comparison is not **अग्रम्**, which means point or foremost part |
+| 44 | *bhugat* | bent away; fled | Compare ⟪भुज्⟫ (*bhuj*), "bend" | Suggestive but disputed |
+
+Two corrections prevent the table from overstating the evidence. Schleicher's *vidanti* functions as a reconstructed participle in the sentence; it is not the Sanskrit finite verb **विदन्ति**. The hyphen in *vividvant-svas* also does not justify splitting the form into **विद्वांसः + स्मः**. The Sanskrit **vid** base and reduplication are visible, while the remaining morphology stays unresolved.
+
+Two Vedic comparisons are especially direct. The Ṛgveda uses **श्रुधि (*śrudhi*)**, "hear," at 8.82.6 and 10.61.21. It also uses **कृणोति (*kṛṇoti*)** with the meaning "does/makes"; examples include 1.48.8 and 6.64.1. Schleicher's *krudhi* and *karnauti* therefore resemble forms preserved in the Vedic domain, not merely later dictionary abstractions. The **कृणोति** analysis is also given in Jonathan Slocum's UT Austin *Rigveda VII, 81* lesson, which identifies it as the third-person singular present of ⟪कृ⟫, "do, make."
+
+References for the Sanskrit forms and paradigms: Monier Monier-Williams, *A Sanskrit-English Dictionary* (Oxford, 1899), entries cited by form; William Dwight Whitney, *Sanskrit Grammar*, second edition (Leipzig and Boston, 1889), especially §§299, 335, 585, 636, 793–800, and 1077ff.; Jonathan Slocum, *Rigveda VII, 81*, Linguistics Research Center, University of Texas at Austin. For the later grammatical parsing of the fable, see Robert S. P. Beekes, *Comparative Indo-European Linguistics: An Introduction*, second edition (John Benjamins, 2011), pages 288 and 296–297. The later parsing does not prove Schleicher's exact 1868 analysis, but it prevents a matching string from being mistaken for matching Sanskrit grammar.
 
 The credit for the asterisk-before-reconstructed-form convention is widely attributed to Schleicher across the standard history of comparative philology (see R. H. Robins, *A Short History of Linguistics*, 4th ed., 1997; Anna Morpurgo Davies, *Nineteenth-Century Linguistics*, in the Routledge *History of Linguistics* series, 1998). Earlier philologists used asterisks for other purposes (flagging ungrammatical forms, flagging conjectural readings in textual criticism); Schleicher's innovation was the specific repurposing for forms internal to the reconstruction project — forms whose status is precisely *reconstructed*, not recorded.
 
@@ -4775,11 +4830,13 @@ Standard references: Franz Bopp, *Über das Conjugationssystem der Sanskritsprac
 
 **Short:** ***August Schleicher*** (1821–1868), ***Compendium der vergleichenden Grammatik der indogermanischen Sprachen*** (Hermann Böhlau, Weimar, 1861; 2nd ed. 1866) — *the inversion moment*. The work introduces the ***Stammbaumtheorie*** (family-tree theory) explicitly: a single common ancestor *distinct from any real recorded language* (the *Ursprache*) branching into daughter Indo-European languages; Sanskrit, previously the anchor, is demoted to *one daughter language among siblings*. The asterisk-before-reconstructed-form convention — Schleicher's notational invention — gives the machinery a typographic sign for *forms posited rather than recorded*. Schleicher's 1863 pamphlet *Die Darwinsche Theorie und die Sprachwissenschaft* made the biological-organic framing explicit. *The bake* operating at its central moment.
 
-**Deployments:** Appendix Part 1 §1.4 — the citation anchor for August Schleicher's 1861 *Compendium*.
+**Deployments:** Chapter 19 §19.1 and Appendix Part 1 §1.4 — the citation anchor for August Schleicher's 1861 *Compendium*.
 
 ***August Schleicher*** (1821–1868), German philologist at Jena, published the ***Compendium der vergleichenden Grammatik der indogermanischen Sprachen*** (Weimar: Hermann Böhlau, 1861, with a second edition 1866). The work introduces the ***Stammbaumtheorie*** (*family-tree theory*) explicitly: a single common ancestor, *distinct from any real recorded language*, branching into the daughter Indo-European languages.
 
 The structural shift Schleicher's *Compendium* effects: Sanskrit, which had been positioned as the ancestor or close to it in Bopp's 1816 work, is now *one daughter language among siblings*. The reconstructed common ancestor (the *Ursprache*) sits above all the real recorded languages — including Sanskrit — and the comparative method's task is to reconstruct the ancestor from the daughter-language evidence. The asterisk-before-reconstructed-form convention — Schleicher's notational invention — gives the machinery a typographic sign for the central object the bake had produced: *forms that were posited rather than recorded*.
+
+The English translation states Schleicher's claim directly: the Indo-European languages are "clearly and undoubtedly derived from one common original language." His 1868 title, *Eine Fabel in indogermanischer Ursprache*, likewise presents the fable as written in the Indo-European *original language*.
 
 The biological-organic framing the *Compendium* operates within: Schleicher trained as a botanist before turning to linguistics, and the imported metaphor was not casual but doctrinal. Languages, in Schleicher's framing, are *Naturorganismen* (natural organisms) that grow, branch, reproduce, decay, and die like biological species. The family-tree diagram is the biological-organism's genealogy applied to linguistic descent. Schleicher's 1863 pamphlet *Die Darwinsche Theorie und die Sprachwissenschaft* (*The Darwinian Theory and the Science of Language*; Weimar: Hermann Böhlau) made the Darwinian framing explicit — Darwin's theory of natural selection, on Schleicher's account, applied directly to language change: languages evolved through descent with modification under selective pressures.
 

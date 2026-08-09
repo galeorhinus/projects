@@ -12,6 +12,8 @@
 
 ## CURRENT FOCUS
 
+- [ ] **[P2] Arya and Dasa: Action, Not Faction (queued 2026-08-09).** Execute [`as_arya_dasa_action_not_faction_plan.md`](as_arya_dasa_action_not_faction_plan.md). Separate ***दास (dāsa)*** from ***दस्यु (dasyu)***; analyze the eight passages in which either *ārya* or *dāsa* can become an obstructor or attacker; then test the apparent *ārya-versus-dasyu* battles through the actions described in each complete sūkta. Use RV 6.22.10 as the central case: Indra acts for ***स्वस्ति (svasti)*** against ***वृत्र (vṛtra)***, whether the obstruction is *dāsa* or *ārya*. Build the endnote evidence bank before proposing any body revision.
+
 - [ ] **[P1] Add the dedication page before publication.** Proposed text: **“To Vāc. This Atri thanks you for the fourth.”** The dedication points to Ṛgveda 5.40.6, where Atri finds the hidden Sun **तुरीयेण ब्रह्मणा (*turīyeṇa brahmaṇā*)**, “by the fourth formulation.” Confirm final punctuation, capitalization, and placement in the front matter; use [`turiya_metaphor_plan.md`](../20_queued/turiya_metaphor_plan.md) as the conceptual record.
 
 - [ ] **[P1] Complete the Acknowledgments before publication (moved from manuscript 2026-07-23).** Add family, contributors, scholarly debts, archives, translators, and readers of early drafts. Recognize each contributor by name and role where appropriate. The Samskrita Bharati acknowledgment is already present in the manuscript.

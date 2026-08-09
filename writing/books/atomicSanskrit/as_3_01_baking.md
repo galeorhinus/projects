@@ -78,6 +78,22 @@ The dates are the spine: **Franz Bopp** (1791–1867), trained at Paris under An
 
 **August Schleicher** (1821–1868) at Jena published the *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* in 1861–1862. The *Compendium* introduced the *Stammbaumtheorie* (family-tree model) explicitly: a single common ancestor, distinct from any real recorded language, branching into the daughter Indo-European languages.[NOTE: schleicher-1861-compendium] Sanskrit was now one daughter language among siblings. The asterisk-before-reconstructed-form convention — Schleicher's notational invention — gave the machinery a typographic sign for forms posited rather than recorded. In 1868 Schleicher published his fable *Avis akvāsas ka* — the first complete text composed in the reconstructed proto-language, every word starred.[NOTE: schleicher-1868-fable] The bake had produced its first finished good.
 
+Schleicher's fable contains 44 distinct written forms. Thirty are recorded Sanskrit forms or differ from them by one explainable sonomer change. Eleven more place reconstructed endings around a Sanskrit grammatical base. The complete mapping appears in the endnote; these examples show the pattern without requiring the reader to inspect all forty-four:
+
+| Schleicher's form | Sanskrit form | Meaning | What Schleicher retained or changed |
+|---|---|---|---|
+| *dadarka* | **ददर्श (*dadarśa*)** | saw | The same reduplicated-perfect architecture; **k** replaces **ś**. |
+| *vāgham* / *vaghantam* | **वाहम् / वहन्तम् (*vāham / vahantam*)** | vehicle / pulling | The noun and its participle remain on ⟪वह्⟫ (*vah*); **g** replaces **h**. |
+| *bhāram* / *bharantam* | **भारम् / भरन्तम् (*bhāram / bharantam*)** | load / carrying | Both Sanskrit forms remain unchanged. |
+| *krudhi* | **श्रुधि (*śrudhi*)** | hear! | The Ṛgveda preserves this imperative of ⟪श्रु⟫ (*śru*); **k** replaces **ś**. |
+| *karnauti* | **कृणोति (*kṛṇoti*)** | makes | The Ṛgveda uses **कृणोति** for "does/makes"; Schleicher changes the vowel. |
+| *gharmam* | **घर्मम् (*gharmam*)** | warm; heat | The Sanskrit form remains unchanged. |
+| *vastram* | **वस्त्रम् (*vastram*)** | garment | The Sanskrit form remains unchanged. |
+| *asti* | **अस्ति (*asti*)** | is | The Sanskrit form remains unchanged. |
+| *agram* | **अज्रम् (*ajram*)** | field; plain | The correct Sanskrit comparison is Vedic **अज्र**, not **अग्र**; **g** replaces **j**. |
+
+The pattern runs through words, atoms, participles, case-forms, and forms preserved in the Vedic domain. Schleicher used that Sanskrit material as the scaffolding for a language that he then placed above Sanskrit. The asterisk presented the assembly as recovery and concealed the source material from which he had constructed it.[NOTE: schleicher-1868-fable]
+
 **Karl Brugmann** (1849–1919) and the **Leipzig school** — the *Junggrammatiker* (Neogrammarians) — drove the operation through to its mature form. The Leipzig group through the 1870s and 1880s systematized the comparative method around the *Ausnahmslosigkeit der Lautgesetze* doctrine — sound laws operate without exception, the central methodological claim that licensed reverse-engineering. Brugmann's *Grundriss der vergleichenden Grammatik der indogermanischen Sprachen* (1886–1893, revised 1897–1916) is the regime's mature statement.[NOTE: brugmann-grundriss-1886] The reconstructed proto-language now had a phonology, a morphology, and a vocabulary — all of them assembled from comparative-method work on the daughter languages, with the ecosystem's own internal consistency standing in for empirical evidence the operation could not provide.
 
 The operation distributed itself across institutions. Bopp at Berlin, Pott at Halle, Schleicher at Jena, and Brugmann at Leipzig worked in parallel with scholars at Tübingen (Rudolf Roth), Saint Petersburg (Otto Böhtlingk), Göttingen (Theodor Benfey), Oxford (Müller, Monier-Williams), Cambridge (Cowell), and the colonial Sanskrit colleges across India. Functioning as a distributed network rather than a single bakery, this pattern exposes the *church of progress* operating at network scale across institutions.
@@ -243,14 +259,6 @@ The architecture of containment Chapter 3 §3.5 develops operates here at the mo
 
 The *dhātu* cluster evidence of §1.5 forms the operation's empirical residue. Recipe after recipe sits on the ecosystem's own reference pages: the yoke family reconstructs an ancestor above Vedic **yuj / yug / yuk**; the *bher-* family places a star above the Vedic **bibharti** and its labial architecture; \**ǵenh₁-* displaces **⟪जन्⟫**; the numbered \**bha-* (1) and \**bha-* (2) divide **⟪भा⟫**; the baby-talk apology separates *mātṛ* from **⟪मा⟫**; the references disagree over the descendants of **⟪गम्⟫**; and the *ped-* / *pol-* split divides what **⟪पद्⟫** unifies. The *dhātavaḥ* represent the engineering on the ground, while the recipes constitute the bake on the page.
 
-Four lines close the appendix in parallel with Chapter 19:
-
 The *dhātavaḥ* are engineered. The recipes are baked.
-
-The engineered does not decay. The baked does not last.
-
-PIE is in the sky. The architecture is on the ground. PIE is *apaśabda*. Sanskrit is *sanātan* (सनातन).
-
-**The bake will rot. The architecture will not.**
 
 *[Forward-pointer to **Appendix Part 2: The Encyclopaedic Confirmation** — the same institution running the same operation across the political transition. Part 2 lays out the postcolonial continuation in detail.]*
