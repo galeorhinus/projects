@@ -1,5 +1,6 @@
 temp_media/
 tmp.md
+tmp/
 downloads/
 __pycache__/
 *.pyc
