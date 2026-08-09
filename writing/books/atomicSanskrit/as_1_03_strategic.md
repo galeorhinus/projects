@@ -249,7 +249,15 @@ Their **actions** do.
 
 The protagonists act through ***sat***, radiance, circulation, and the distributed architecture of the swastika. The antagonists act through ***asat***, darkness, containment, and the enclosing architecture of the pyramid.
 
-The same conflict continues across every age. The swastika distributes power through a living and balanced order. The pyramid encloses power at its apex and forces everyone else to approach through its gates. Sanātana identifies actors by the architecture their actions support.
+#### Viveka in Every Age
+
+It cannot be a coincidence that the Vedas use the same sound-form for actors on opposite sides of the distinction they repeatedly ask human beings to discern. The listener cannot decide from sound, title, or faction. The listener must examine the action and the architecture that action creates. This exercise of **विवेक (*viveka*)** distinguishes ***sat*** from ***asat***, the life-bearing ***asu-ra*** from the radiance-opposing ***a-sura***, and the distributed order of the swastika from the enclosing order of the pyramid.
+
+Every age must make this distinction again. The asuric pyramid has come close to blurring it in this yuga by collapsing the two Sanskrit words into one inherited title and recasting the Vedic encounters as rival factions competing for power. That account hides the structural difference between the two sides. The swastika distributes power so that life, knowledge, and abundance can circulate. The pyramid encloses power at its apex, controls access, and subordinates other beings to the will of those above them.
+
+The *near* success of that conflation is itself a sign of the darkness of the age. Actions that protect life, restore circulation, and serve ***लोकक्षेम (*lokakṣema*)*** are made to appear morally equivalent to actions that conceal radiance, withhold what should flow, and build the architecture of containment.
+
+The Vedas preserve the distinction even when the age obscures it. As long as human beings retain *viveka*, they can still separate ***sat*** from ***asat***, the life-bearing ***asu-ra*** from the radiance-opposing ***a-sura***, and the swastika from the pyramid. That is why the battle can be won in this yuga as well.
 
 **Sanātan evaluates the action, not the faction.**
 
