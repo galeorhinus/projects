@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- canonical-source: hand-authored SVG
+     created: 2026-08-07 -->
+<svg viewBox="0 0 1120 850" width="4.5in" height="3.415in" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+  <rect width="1120" height="850" fill="#f6f3ec"/>
+
+  <g font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">
+    <text x="46" y="57" font-size="43" font-weight="700" fill="#2b2b2d">Two Fractals Across Four Scales</text>
+    <text x="46" y="96" font-size="27" font-style="italic" fill="#8a7b62">The contested object changes; each architecture retains its shape.</text>
+    <line x1="46" y1="120" x2="1074" y2="120" stroke="#d8d2c6" stroke-width="2"/>
+
+    <rect x="46" y="148" width="170" height="82" fill="#4a3f30"/>
+    <rect x="216" y="148" width="429" height="82" fill="#a99a80"/>
+    <rect x="645" y="148" width="429" height="82" fill="#4a3f30"/>
+
+    <text x="131" y="198" font-size="27" font-weight="700" fill="#f6f3ec" text-anchor="middle">Scale</text>
+    <text x="430.5" y="183" font-size="29" font-weight="700" fill="#2b2b2d" text-anchor="middle">Swastika / Saṃskṛti</text>
+    <text x="430.5" y="214" font-size="25" font-style="italic" fill="#4a3f30" text-anchor="middle">radiance and circulation</text>
+    <text x="859.5" y="183" font-size="29" font-weight="700" fill="#f6f3ec" text-anchor="middle">Pyramid / Vikṛti</text>
+    <text x="859.5" y="214" font-size="25" font-style="italic" fill="#ece4d3" text-anchor="middle">concealment and containment</text>
+
+    <!-- Cosmic -->
+    <rect x="46" y="230" width="170" height="140" fill="#766652"/>
+    <rect x="216" y="230" width="429" height="140" fill="#ece4d3"/>
+    <rect x="645" y="230" width="429" height="140" fill="#766652"/>
+    <text x="131" y="309" font-size="28" font-weight="700" fill="#f6f3ec" text-anchor="middle">Cosmic</text>
+    <text x="430.5" y="291" font-size="29" fill="#2b2b2d" text-anchor="middle" font-style="italic">sat aligned with</text>
+    <text x="430.5" y="329" font-size="29" fill="#2b2b2d" text-anchor="middle">the ṛta order</text>
+    <text x="859.5" y="291" font-size="29" fill="#f6f3ec" text-anchor="middle">orders built</text>
+    <text x="859.5" y="329" font-size="29" fill="#f6f3ec" text-anchor="middle" font-style="italic">from asat</text>
+
+    <!-- Operational -->
+    <rect x="46" y="370" width="170" height="140" fill="#4a3f30"/>
+    <rect x="216" y="370" width="429" height="140" fill="#f6f3ec"/>
+    <rect x="645" y="370" width="429" height="140" fill="#4a3f30"/>
+    <text x="131" y="449" font-size="28" font-weight="700" fill="#f6f3ec" text-anchor="middle">Operational</text>
+    <text x="430.5" y="431" font-size="29" fill="#2b2b2d" text-anchor="middle">radiance · release</text>
+    <text x="430.5" y="469" font-size="29" fill="#2b2b2d" text-anchor="middle">circulation</text>
+    <text x="859.5" y="414" font-size="27" fill="#f6f3ec" text-anchor="middle" font-style="italic">māyā · concealment</text>
+    <text x="859.5" y="449" font-size="27" fill="#f6f3ec" text-anchor="middle">blockade · isolation</text>
+    <text x="859.5" y="484" font-size="27" fill="#f6f3ec" text-anchor="middle">enclosure</text>
+
+    <!-- Civilizational -->
+    <rect x="46" y="510" width="170" height="140" fill="#766652"/>
+    <rect x="216" y="510" width="429" height="140" fill="#ece4d3"/>
+    <rect x="645" y="510" width="429" height="140" fill="#766652"/>
+    <text x="131" y="589" font-size="23" font-weight="700" fill="#f6f3ec" text-anchor="middle">Civilizational</text>
+    <text x="430.5" y="571" font-size="29" fill="#2b2b2d" text-anchor="middle">distributed</text>
+    <text x="430.5" y="609" font-size="29" fill="#2b2b2d" text-anchor="middle">calibrant order</text>
+    <text x="859.5" y="571" font-size="29" fill="#f6f3ec" text-anchor="middle">apex control and</text>
+    <text x="859.5" y="609" font-size="29" fill="#f6f3ec" text-anchor="middle">the asuric pyramid</text>
+
+    <!-- Linguistic -->
+    <rect x="46" y="650" width="170" height="154" fill="#4a3f30"/>
+    <rect x="216" y="650" width="429" height="154" fill="#f6f3ec"/>
+    <rect x="645" y="650" width="429" height="154" fill="#4a3f30"/>
+    <text x="131" y="736" font-size="28" font-weight="700" fill="#f6f3ec" text-anchor="middle">Linguistic</text>
+    <text x="430.5" y="706" font-size="27" fill="#2b2b2d" text-anchor="middle">Sanskrit's distributed</text>
+    <text x="430.5" y="742" font-size="27" fill="#2b2b2d" text-anchor="middle">calibrant architecture</text>
+    <text x="859.5" y="691" font-size="26" fill="#f6f3ec" text-anchor="middle">captured genealogy through</text>
+    <text x="859.5" y="729" font-size="27" fill="#f6f3ec" text-anchor="middle">botanical drift · PIE · RAT</text>
+    <text x="859.5" y="766" font-size="24" fill="#ece4d3" text-anchor="middle" font-style="italic">displacement and external custody</text>
+
+    <rect x="46" y="148" width="1028" height="656" fill="none" stroke="#786a52" stroke-width="2"/>
+    <line x1="216" y1="148" x2="216" y2="804" stroke="#786a52" stroke-width="2"/>
+    <line x1="645" y1="148" x2="645" y2="804" stroke="#786a52" stroke-width="2"/>
+    <line x1="46" y1="230" x2="1074" y2="230" stroke="#786a52" stroke-width="2"/>
+    <line x1="46" y1="370" x2="1074" y2="370" stroke="#786a52" stroke-width="2"/>
+    <line x1="46" y1="510" x2="1074" y2="510" stroke="#786a52" stroke-width="2"/>
+    <line x1="46" y1="650" x2="1074" y2="650" stroke="#786a52" stroke-width="2"/>
+  </g>
+</svg>

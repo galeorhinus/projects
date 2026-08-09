@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Figure 18.2: Two Accounts of Sanskrit. Editable canonical SVG. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 456 556" width="4.75in" height="5.792in" role="img" aria-labelledby="title desc">
+  <title id="title">Two Accounts of Sanskrit</title>
+  <desc id="desc">Six differences between the pyramid's chronological account of Sanskrit and the engineering thesis.</desc>
+
+  <rect width="456" height="556" fill="#f4f4f3"/>
+
+  <text x="18" y="31" font-family="'Gentium Book Plus', Georgia, serif" font-size="22" font-weight="600" fill="#2b2b2d">Two Accounts of Sanskrit</text>
+  <text x="18" y="51" font-family="'Gentium Book Plus', Georgia, serif" font-size="11.5" font-style="italic" fill="#766652">Chronological descent compared with engineering and calibration</text>
+
+  <!-- Column headers -->
+  <rect x="18" y="68" width="106" height="40" fill="#4a4136"/>
+  <rect x="124" y="68" width="142" height="40" fill="#6b6a67"/>
+  <rect x="266" y="68" width="172" height="40" fill="#766652"/>
+  <text x="30" y="93" font-family="'Gentium Book Plus', Georgia, serif" font-size="11.5" font-weight="700" fill="#ffffff">AXIS</text>
+  <text x="136" y="84" font-family="'Gentium Book Plus', Georgia, serif" font-size="10.5" font-weight="700" fill="#ffffff">
+    <tspan x="136">PYRAMID'S</tspan><tspan x="136" dy="14">ACCOUNT</tspan>
+  </text>
+  <text x="278" y="84" font-family="'Gentium Book Plus', Georgia, serif" font-size="10.5" font-weight="700" fill="#ffffff">
+    <tspan x="278">ENGINEERING</tspan><tspan x="278" dy="14">THESIS</tspan>
+  </text>
+
+  <!-- Row 1: Where perfection resides -->
+  <rect x="18" y="108" width="106" height="66" fill="#e7dfd1" stroke="#c3b9a3" stroke-width="0.7"/>
+  <rect x="124" y="108" width="142" height="66" fill="#eceae6" stroke="#c9c8c4" stroke-width="0.7"/>
+  <rect x="266" y="108" width="172" height="66" fill="#faf7f0" stroke="#c3b9a3" stroke-width="0.7"/>
+  <text x="30" y="126" font-family="'Gentium Book Plus', Georgia, serif" font-size="9.8" font-weight="700" fill="#4a4136">
+    <tspan x="30">WHERE</tspan><tspan x="30" dy="14">PERFECTION</tspan><tspan x="30" dy="14">RESIDES</tspan>
+  </text>
+  <text x="136" y="132" font-family="'Gentium Book Plus', Georgia, serif" font-size="11.2" fill="#2b2b2d">
+    <tspan x="136">Vedic: primitive</tspan><tspan x="136" dy="16">Classical: refined</tspan>
+  </text>
+  <text x="278" y="126" font-family="'Gentium Book Plus', Georgia, serif" font-size="11.2" fill="#2b2b2d">
+    <tspan x="278">Vedas perfectly preserved;</tspan><tspan x="278" dy="16">laukika use exposed</tspan><tspan x="278" dy="16">to drift</tspan>
+  </text>
+
+  <!-- Row 2: Panini -->
+  <rect x="18" y="174" width="106" height="62" fill="#ded5c4" stroke="#c3b9a3" stroke-width="0.7"/>
+  <rect x="124" y="174" width="142" height="62" fill="#e5e3df" stroke="#c9c8c4" stroke-width="0.7"/>
+  <rect x="266" y="174" width="172" height="62" fill="#f7f2e7" stroke="#c3b9a3" stroke-width="0.7"/>
+  <text x="30" y="192" font-family="'Gentium Book Plus', Georgia, serif" font-size="9.8" font-weight="700" fill="#4a4136">
+    <tspan x="30">PĀṆINI'S</tspan><tspan x="30" dy="14">CONTRIBUTION</tspan>
+  </text>
+  <text x="136" y="210" font-family="'Gentium Book Plus', Georgia, serif" font-size="11.2" fill="#2b2b2d">Codified Sanskrit</text>
+  <text x="278" y="198" font-family="'Gentium Book Plus', Georgia, serif" font-size="11.2" fill="#2b2b2d">
+    <tspan x="278">Decoded Sanskrit's</tspan><tspan x="278" dy="16">existing grammar</tspan>
+  </text>
+
+  <!-- Row 3: Domain chronology -->
+  <rect x="18" y="236" width="106" height="76" fill="#e7dfd1" stroke="#c3b9a3" stroke-width="0.7"/>
+  <rect x="124" y="236" width="142" height="76" fill="#eceae6" stroke="#c9c8c4" stroke-width="0.7"/>
+  <rect x="266" y="236" width="172" height="76" fill="#faf7f0" stroke="#c3b9a3" stroke-width="0.7"/>
+  <text x="30" y="254" font-family="'Gentium Book Plus', Georgia, serif" font-size="9.8" font-weight="700" fill="#4a4136">
+    <tspan x="30">CHRONOLOGY</tspan><tspan x="30" dy="14">OF THE</tspan><tspan x="30" dy="14">DOMAINS</tspan>
+  </text>
+  <text x="136" y="263" font-family="'Gentium Book Plus', Georgia, serif" font-size="11.2" fill="#2b2b2d">
+    <tspan x="136">Vedic Sanskrit</tspan><tspan x="136" dy="18">↓</tspan><tspan x="136" dy="18">“Classical” Sanskrit</tspan>
+  </text>
+  <text x="278" y="254" font-family="'Gentium Book Plus', Georgia, serif" font-size="11.2" fill="#2b2b2d">
+    <tspan x="278">Vaidika and laukika are</tspan><tspan x="278" dy="16">complementary domains;</tspan><tspan x="278" dy="16">neither descends from</tspan><tspan x="278" dy="16">the other</tspan>
+  </text>
+
+  <!-- Row 4: Calibration and entropy -->
+  <rect x="18" y="312" width="106" height="92" fill="#ded5c4" stroke="#c3b9a3" stroke-width="0.7"/>
+  <rect x="124" y="312" width="142" height="92" fill="#e5e3df" stroke="#c9c8c4" stroke-width="0.7"/>
+  <rect x="266" y="312" width="172" height="92" fill="#f7f2e7" stroke="#c3b9a3" stroke-width="0.7"/>
+  <text x="30" y="333" font-family="'Gentium Book Plus', Georgia, serif" font-size="9.8" font-weight="700" fill="#4a4136">
+    <tspan x="30">CALIBRATION</tspan><tspan x="30" dy="14">AND</tspan><tspan x="30" dy="14">ENTROPY</tspan>
+  </text>
+  <text x="136" y="338" font-family="'Gentium Book Plus', Georgia, serif" font-size="11.2" fill="#2b2b2d">
+    <tspan x="136">Prākrit and Apabhraṃśa</tspan><tspan x="136" dy="16">are stages in linguistic</tspan><tspan x="136" dy="16">descent</tspan>
+  </text>
+  <text x="278" y="330" font-family="'Gentium Book Plus', Georgia, serif" font-size="11.2" fill="#2b2b2d">
+    <tspan x="278">Vedas and Aṣṭādhyāyī</tspan><tspan x="278" dy="16">calibrate laukika Sanskrit;</tspan><tspan x="278" dy="16">entropy pulls usage</tspan><tspan x="278" dy="16">toward apabhraṃśa</tspan>
+  </text>
+
+  <!-- Row 5: Ashtadhyayi -->
+  <rect x="18" y="404" width="106" height="66" fill="#e7dfd1" stroke="#c3b9a3" stroke-width="0.7"/>
+  <rect x="124" y="404" width="142" height="66" fill="#eceae6" stroke="#c9c8c4" stroke-width="0.7"/>
+  <rect x="266" y="404" width="172" height="66" fill="#faf7f0" stroke="#c3b9a3" stroke-width="0.7"/>
+  <text x="30" y="442" font-family="'Gentium Book Plus', Georgia, serif" font-size="10.5" font-weight="700" fill="#4a4136">AṢṬĀDHYĀYĪ</text>
+  <text x="136" y="442" font-family="'Gentium Book Plus', Georgia, serif" font-size="11.2" fill="#2b2b2d">Standardization</text>
+  <text x="278" y="424" font-family="'Gentium Book Plus', Georgia, serif" font-size="11.2" fill="#2b2b2d">
+    <tspan x="278">Sanskrit's existing grammar</tspan><tspan x="278" dy="16">decoded and articulated</tspan><tspan x="278" dy="16">with precision</tspan>
+  </text>
+
+  <!-- Row 6: Vedas -->
+  <rect x="18" y="470" width="106" height="66" fill="#ded5c4" stroke="#c3b9a3" stroke-width="0.7"/>
+  <rect x="124" y="470" width="142" height="66" fill="#e5e3df" stroke="#c9c8c4" stroke-width="0.7"/>
+  <rect x="266" y="470" width="172" height="66" fill="#f7f2e7" stroke="#c3b9a3" stroke-width="0.7"/>
+  <text x="30" y="508" font-family="'Gentium Book Plus', Georgia, serif" font-size="11" font-weight="700" fill="#4a4136">VEDAS</text>
+  <text x="136" y="495" font-family="'Gentium Book Plus', Georgia, serif" font-size="11.2" fill="#2b2b2d">
+    <tspan x="136">Oldest documented</tspan><tspan x="136" dy="16">stage</tspan>
+  </text>
+  <text x="278" y="488" font-family="'Gentium Book Plus', Georgia, serif" font-size="11.2" fill="#2b2b2d">
+    <tspan x="278">Primary calibrant;</tspan><tspan x="278" dy="16">encoded architecture</tspan><tspan x="278" dy="16">continuously preserved</tspan>
+  </text>
+
+  <line x1="18" y1="544" x2="438" y2="544" stroke="#4a4136" stroke-width="1.2"/>
+</svg>
