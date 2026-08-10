@@ -945,32 +945,46 @@ class ProcResult:
         self.stderr = stderr
 
 
+SPINNER_FRAMES = "⠋⠙⠹⠸⠼⠴⠦⠧⠇⠏"
+CLEAR_LINE = "\x1b[K"
+
+
 def run_pandoc_with_progress(cmd: list[str], page_interval: int = DEFAULT_PROGRESS_PAGES,
                               label: str = "PDF") -> ProcResult:
-    """Run a pandoc/xelatex command, printing a progress line every
-    `page_interval` typeset pages instead of blocking silently for minutes.
+    """Run a pandoc/xelatex command, showing a live progress readout instead
+    of blocking silently for minutes.
 
-    Three things defeat that by default. (1) xelatex's per-page `[N]`
-    markers are folded into pandoc's own diagnostic stream only when
-    --verbose is passed, so this adds it if missing. (2) that stream gets
-    fully block-buffered — nothing arrives until the whole run finishes —
-    whenever pandoc's output isn't attached to a real terminal; attaching
-    the child to a pty (rather than a plain pipe) restores incremental
-    delivery (confirmed empirically: a plain pipe delivered zero bytes for
-    60+ seconds on a 750-page build; a pty delivered the same run's
-    progress throughout). (3) even through a pty, pandoc relays the
-    underlying xelatex subprocess's output in its own internal batches —
-    a bare xelatex process streams in a steady trickle of small chunks
-    over the same kind of pty, so this batching is pandoc's own relay, one
-    layer below anything reachable from here — so updates still arrive in
-    bursts of dozens of pages at a time rather than one by one. Two things
-    are done about that: only one line is printed per burst (per read()
-    call), not one per interval boundary crossed inside it, so a burst
-    that jumps from page 40 to page 380 prints once, not seventeen times;
-    and every read is matched against the FULL output seen so far, not
-    just the newest chunk, because pandoc's "LaTeX run number N" marker
-    (used to detect a fresh compile pass and reset the page count) can
-    itself land split across two chunks, otherwise silently missed.
+    Three things defeat plain output-watching by default. (1) xelatex's
+    per-page `[N]` markers are folded into pandoc's own diagnostic stream
+    only when --verbose is passed, so this adds it if missing. (2) that
+    stream gets fully block-buffered — nothing arrives until the whole run
+    finishes — whenever pandoc's output isn't attached to a real terminal;
+    attaching the child to a pty (rather than a plain pipe) restores
+    incremental delivery (confirmed empirically: a plain pipe delivered
+    zero bytes for 60+ seconds on a 750-page build; a pty delivered the
+    same run's progress throughout). (3) even through a pty, pandoc relays
+    the underlying xelatex subprocess's output in its own internal
+    batches — a bare xelatex process streams in a steady trickle of small
+    chunks over the same kind of pty, so this batching is pandoc's own
+    relay, one layer below anything reachable from here — so page-count
+    updates still arrive in bursts of dozens of pages at a time, with
+    20-40s gaps between bursts, rather than one by one.
+
+    Display: when stdout is a real terminal, progress renders as one
+    self-overwriting line — spinner, highest page seen, LaTeX run number,
+    elapsed seconds — refreshed every ~1s via a heartbeat tick even when no
+    new page-count data has arrived, so the elapsed-seconds readout keeps
+    moving through the silent gaps between bursts instead of appearing
+    frozen. Each LaTeX run's final state is left behind as its own line
+    before the next run's live line begins, so the run history stays
+    readable without scrolling once per page bracket. A closing line
+    reports total elapsed time and run count. When stdout is not a
+    terminal (piped to a file/log), falls back to one printed line every
+    `page_interval` pages, matching the original non-interactive behavior,
+    with every read matched against the FULL output seen so far — not just
+    the newest chunk — because pandoc's "LaTeX run number N" marker (used
+    to detect a fresh compile pass and reset the page count) can itself
+    land split across two reads and get silently missed otherwise.
     """
     if "--verbose" not in cmd:
         cmd = [*cmd, "--verbose"]
@@ -980,8 +994,22 @@ def run_pandoc_with_progress(cmd: list[str], page_interval: int = DEFAULT_PROGRE
     os.close(slave_fd)
     buf = bytearray()
     last_reported = 0
+    highest_seen = 0
     current_run = 1
     run_start_pos = 0  # index into the decoded buffer where the current run's own output begins
+    live = sys.stdout.isatty()
+    spin_idx = 0
+    line_open = False
+
+    def refresh() -> None:
+        nonlocal spin_idx, line_open
+        elapsed = time.time() - start
+        spin = SPINNER_FRAMES[spin_idx]
+        spin_idx = (spin_idx + 1) % len(SPINNER_FRAMES)
+        text = f"  {spin} {label}: ~page {highest_seen} typeset (run {current_run}, {elapsed:.0f}s elapsed)"
+        print(f"\r{text}{CLEAR_LINE}", end="", flush=True)
+        line_open = True
+
     while True:
         ready, _, _ = select.select([master_fd], [], [], 1.0)
         if master_fd in ready:
@@ -1000,24 +1028,39 @@ def run_pandoc_with_progress(cmd: list[str], page_interval: int = DEFAULT_PROGRE
                 last_match = run_matches[-1]
                 seen_run = int(last_match.group(1))
                 if seen_run != current_run:
+                    if live and line_open:
+                        print()  # leave the finished run's line behind as history
                     current_run = seen_run
                     last_reported = 0
+                    highest_seen = 0
+                    line_open = False
                 run_start_pos = last_match.end()
             # Only the current run's own slice — otherwise a finished run's
             # page numbers would leak into the next run's count, since the
             # full buffer never shrinks.
             pages = [int(p) for p in PAGE_BRACKET_RE.findall(text[run_start_pos:])]
             if pages:
-                highest = max(pages)
-                if highest > last_reported and highest - last_reported >= page_interval:
-                    last_reported = highest
-                    elapsed = time.time() - start
-                    print(f"  {label}: ~page {highest} typeset (run {current_run}, {elapsed:.0f}s elapsed)")
+                highest_seen = max(highest_seen, max(pages))
+            if live:
+                refresh()
+            elif highest_seen > last_reported and highest_seen - last_reported >= page_interval:
+                last_reported = highest_seen
+                elapsed = time.time() - start
+                print(f"  {label}: ~page {highest_seen} typeset (run {current_run}, {elapsed:.0f}s elapsed)")
         elif proc.poll() is not None:
             break
+        elif live:
+            refresh()  # heartbeat: keep the elapsed-seconds readout moving between bursts
+    if live and line_open:
+        print()
     os.close(master_fd)
     proc.wait()
     full_output = bytes(buf).decode("utf-8", errors="replace")
+    if live:
+        total_elapsed = time.time() - start
+        status = "failed" if proc.returncode != 0 else "done"
+        run_word = "run" if current_run == 1 else "runs"
+        print(f"  {label}: {status} in {total_elapsed:.0f}s ({current_run} {run_word})")
     if proc.returncode != 0:
         return ProcResult(proc.returncode, full_output)
     return ProcResult(proc.returncode, "\n".join(WARNING_LINE_RE.findall(full_output)))

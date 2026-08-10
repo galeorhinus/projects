@@ -12,7 +12,7 @@
 
 **Short:** Ṛgveda 5.40.5 supplies the eclipse diagnostic: Svarbhānu pierces Sūrya with darkness, and the worlds become bewildered like one who does not know the field. The keystone phrase is **अक्षेत्रवित् (*akṣetravit*)**, rendered in the Preface as **field-loss**.
 
-**Deployment:** Preface opening epigraph and first prose activation.
+**Deployment:** Preface opening epigraph and first prose activation. Chapter 1 §1.4 — "Withhold the light" method.
 
 The quoted mantra is Ṛgveda 5.40.5:
 
@@ -611,7 +611,7 @@ The narrative pattern is consistent across the *Itihāsa-Purāṇa* corpus: the 
 
 **Short:** Sheldon Pollock, *The Language of the Gods in the World of Men: Sanskrit, Culture, and Power in Premodern India* (University of California Press, 2006), as the central contemporary exemplar of the Sanskrit-as-power / Sanskrit-cosmopolis frame.
 
-**Deployments:** Chapter 4 §4.4 — the contemporary face of the outward-absorption mechanism (the Sanskrit-as-power frame).
+**Deployments:** Chapter 1 §1.4 — "Teach surface as depth" method. Chapter 4 §4.4 — the contemporary face of the outward-absorption mechanism (the Sanskrit-as-power frame).
 
 Pollock's major Sanskrit work presents Sanskrit's wide premodern circulation through the vocabulary of culture, power, polity, courtly order, and cosmopolis. The point is structural: the frame concedes Sanskrit's sophistication and relocates that sophistication into elite power, while the engineered architecture beneath Sanskrit's sound, grammar, memory, and calibration falls outside the frame. Chapter 4 §4.4 therefore treats the Pollockian frame as a post-racial successor form of the older racial Arya machinery: skull and bloodline language gives way to culture-power language, but Sanskrit still loses its category as *saṃskṛti*.
 
@@ -1140,6 +1140,150 @@ The two Vedic epithets in Chapter 1 §1.5's enclosure sense split cleanly by reg
 
 ---
 
+### `kaliya-yamuna-poisoning`
+
+**Short:** Bhāgavata Purāṇa 10.16 narrates Kāliya's poisoning of the Yamunā at Vṛndāvana and Kṛṣṇa's subjugation of the serpent, restoring the river.
+
+**Deployments:** Chapter 1 §1.4 — "Withhold the light," Kāliya alongside Svarbhānu and Vṛtra; §1.5 callback ("Svarbhānu, Vṛtra, Kāliya — is this method exactly").
+
+Kāliya is a multi-headed venomous nāga who fled Ramaṇaka Dvīpa for a pool in the Yamunā to escape Garuḍa's wrath. His poison rendered the water lethal: fish and aquatic plants died, birds fell from the air passing over it, and the surrounding vegetation withered. Kṛṣṇa, as a child, climbed a kadamba tree and leapt into the pool; Kāliya bit him and coiled around him, until Kṛṣṇa enlarged his body, freed himself, and subdued Kāliya by dancing on his hoods. Rather than killing him, Kṛṣṇa exiled Kāliya and his family to Ramaṇaka Dvīpa, marked with the imprint of his feet so Garuḍa would no longer threaten him — the resolution restores circulation (the Yamunā's purity returns) rather than simply eliminating the antagonist. Source: Bhāgavata Purāṇa, Canto 10, Chapter 16.
+
+---
+
+### `madhu-kaitabha-vedas-theft`
+
+**Short:** The Devī Māhātmya (within the Mārkaṇḍeya Purāṇa) and the Bhāgavata Purāṇa both narrate the asuras Madhu and Kaiṭabha seizing the Vedas from the newly manifest Brahmā; distinct from the separate Devī Bhāgavata Purāṇa theft narrated in `hayagriva-asura-vedas-theft`.
+
+**Deployments:** Chapter 1 §1.4 — "Steal the foundation," first instance.
+
+The Devī Māhātmya's telling (its opening episode, framed as the first of the goddess's three major exploits) has the two asuras emerge from Viṣṇu's ear while he rests in yoga-nidrā on Ananta in the primordial ocean; they seize the Vedas from the newly born Brahmā and threaten creation itself. Brahmā invokes Mahāmāyā, who deludes the demons into a prolonged trance, allowing Viṣṇu to wake and slay them after a fierce battle. The Bhāgavata Purāṇa's separate account has the two asuras hide the stolen Vedas at the bottom of the primeval ocean; Viṣṇu, in his Hayagrīva form, kills them and retrieves the Vedas. Both versions agree the stolen thing was not put to use by the thieves — its value to them was in its removal from circulation, not its content — which is the specific parallel the body draws to PIE's positioning above the visible Sanskrit calibrant.
+
+---
+
+### `hayagriva-asura-vedas-theft`
+
+**Short:** The Devī Bhāgavata Purāṇa narrates a second, textually distinct theft of the Vedas by a demon literally named Hayagrīva — unrelated to Viṣṇu's own horse-headed Hayagrīva form — resolved when Viṣṇu takes that same form specifically to satisfy the demon's boon condition.
+
+**Deployments:** Chapter 1 §1.4 — "Steal the foundation," the repeated theft ("Hayagrīva-asura repeats the theft").
+
+**A genuine naming collision, not a book error.** Two named beings in the received tradition share the identical name Hayagrīva: the demon of this entry, and Viṣṇu's own benevolent horse-headed avatar (god of knowledge, protector of the Vedas in most tellings, including the Madhu-Kaiṭabha resolution in `madhu-kaitabha-vedas-theft`). The Devī Bhāgavata Purāṇa is the source that features both figures under the one name. The body's phrase "Hayagrīva-*asura*" carries the disambiguating suffix precisely so the demon is not misread as the avatar.
+
+In the Devī Bhāgavata's account, a demon with a horse's head emerges from Brahmā's nose, performs a thousand years of tapas on the banks of the Sarasvatī, and is granted a boon by Devī. He asks for immortality; she replies that anything born must die, so he stipulates that only a being named Hayagrīva may kill him. He then steals the Vedas and hides them in the depths of the ocean. To satisfy the demon's own condition, Viṣṇu takes the Hayagrīva form — in this telling, after losing his own head in an unrelated battle and having it replaced with a horse's head — and kills the thief, restoring the Vedas.
+
+---
+
+### `putana-nurse-poison`
+
+**Short:** Bhāgavata Purāṇa 10.6 narrates Pūtanā's approach to the infant Kṛṣṇa disguised as a wet-nurse, her breast smeared with poison.
+
+**Deployments:** Chapter 1 §1.4 — "Wear false identity," first instance; §1.5 callback ("Pūtanā as nurse... is the same method at Purāṇic scale").
+
+Kaṃsa, the tyrant king of Mathurā, dispatched the rākṣasī Pūtanā, already known for killing infants, to the village of Gokula. She entered Nanda's household disguised as a nurturing woman and offered her poisoned breast to the infant Kṛṣṇa. Kṛṣṇa nursed with such force that he drew out her life along with the poison; she reverted to her true monstrous form and died. The narrative frame is exact for the book's category: the costume (nurse) is the entry mechanism, and the poison is delivered through an act coded as care. Source: Bhāgavata Purāṇa, Canto 10, Chapter 6.
+
+---
+
+### `maricha-golden-deer`
+
+**Short:** Vālmīki's Rāmāyaṇa, Araṇya Kāṇḍa, narrates Mārīca's transformation into a bejeweled golden deer at Rāvaṇa's instruction, luring Rāma away from the hermitage so Rāvaṇa could abduct Sītā.
+
+**Deployments:** Chapter 1 §1.4 — "Wear false identity," second instance; §1.5 callback.
+
+Rāvaṇa enlists Mārīca, a rākṣasa skilled in illusion, to draw Rāma and Lakṣmaṇa away from Sītā so she can be abducted undefended. Mārīca assumes the form of an extraordinary golden deer with silver spots and jewel-toned markings, and grazes within sight of the hermitage at Pañcavaṭī until Sītā, enchanted, asks Rāma to capture it. After a long chase Rāma kills the deer with an arrow; as Mārīca dies he resumes his true form and cries out in Rāma's voice, "Oh Sītā! Oh Lakṣmaṇa!" — a second layer of impersonation that draws Lakṣmaṇa away as well, completing the setup for Rāvaṇa's abduction of Sītā. Unlike `kalanemi-ascetic-hanuman` below, this episode is part of Vālmīki's own text, not a later accretion.
+
+---
+
+### `kalanemi-ascetic-hanuman`
+
+**Short:** Kālanemi's disguise as an ascetic to obstruct Hanumān's flight to fetch the Sañjīvanī herb is not part of Vālmīki's Rāmāyaṇa — it appears in later retellings, principally the Adhyātma Rāmāyaṇa and regional versions such as the Bengali Kṛttivāsī Rāmāyaṇa.
+
+**Deployments:** Chapter 1 §1.4 — "Wear false identity," third instance; §1.5 callback.
+
+**Textual layer flagged for accuracy.** Mārīca's golden-deer disguise (`maricha-golden-deer`) is Vālmīki's own narration. Kālanemi's episode is not: Rāvaṇa, needing to stop Hanumān before he can return with the herb that will revive Lakṣmaṇa, sends the rākṣasa Kālanemi disguised as a forest ascetic to delay him with hospitality and a sacred bathing pool containing a cursed crocodile. Hanumān is drawn in, the crocodile seizes his foot, and when Hanumān kills it, an apsarā trapped inside is freed and warns him that the ascetic is Kālanemi in disguise; Hanumān kills him and continues to the Himalayas. The episode belongs to the itihāsa corpus's later devotional layer (Adhyātma Rāmāyaṇa and regional tellings) rather than to the Vālmīki core, and the body's use of it as a "wear false identity" example should carry that distinction if the passage is pressed on sourcing.
+
+---
+
+### `paundraka-vasudeva`
+
+**Short:** Bhāgavata Purāṇa, Canto 10, Chapter 66, narrates King Pauṇḍraka of the Pauṇḍra kingdom declaring himself the true Vāsudeva and demanding Kṛṣṇa renounce the name and its emblems; Kṛṣṇa kills him with the Sudarśana disc.
+
+**Deployments:** Chapter 1 §1.4 — "Wear false identity," fourth instance.
+
+Pauṇḍraka, emboldened by flatterers who told him he was the real Vāsudeva descended to earth, sent a messenger to Dvārakā ordering Kṛṣṇa to surrender the names, emblems, and insignia of Vāsudeva that Pauṇḍraka claimed as rightfully his. Kṛṣṇa, amused, agreed to a battle instead. Pauṇḍraka arrived arrayed in imitation of Kṛṣṇa's own iconography — conch, discus, mace, garland — and was beheaded by Kṛṣṇa's actual Sudarśana disc. Source: Bhāgavata Purāṇa, Canto 10, Chapter 66.
+
+---
+
+### `vrkasura-bhasmasura-boon-reversal`
+
+**Short:** The Bhāgavata Purāṇa (Canto 10, Chapter 88) narrates the demon Vṛka receiving from Śiva the boon that anyone he touches on the head turns to ash, then turning to use it on Śiva himself. The popular "Bhasmāsura" telling — including the Mohinī resolution — names the same underlying figure and story, not a second independent case; sources disagree on how far back that name and the Mohinī episode trace in the classical Purāṇic corpus.
+
+**Deployments:** Chapter 1 §1.4 — "Turn the gift against the giver," presented as two examples.
+
+**Flag for author judgment.** The body currently lists "Vṛkāsura and Bhasmāsura" as if they were two separate instances of the boon-reversal method. Research for this note found them treated, across multiple sources, as the same story under two names: the Bhāgavata Purāṇa's version names the demon **Vṛka** (son of the demon Śakuni), who performs harsh tapas at Kedāranātha, cutting his own flesh into the sacrificial fire, until Śiva rises from the fire and grants the ash-touch boon. Vṛka then reaches for Śiva's own head; Śiva flees to Viṣṇu at Śvetadvīpa; Viṣṇu, disguised as a young brahmin student, tricks Vṛka into placing his own hand on his own head, destroying him. The far more widely circulated "Bhasmāsura" telling — where Viṣṇu resolves the crisis as the dancing Mohinī rather than a young brahmin — is described in some sources as appearing in the Viṣṇu Purāṇa and Mahābhārata, and in others as a later, largely regional and devotional elaboration not present identically across the major classical Purāṇas. The name "Bhasmāsura" itself ("ash-demon," from *bhasma*, ash) reads as a descriptive epithet for the same figure the Bhāgavata calls Vṛka, rather than a second demon.
+
+Recommend the body either (a) use *Vṛkāsura* as the primary name with *Bhasmāsura* glossed as the popular alternate name for the same account, or (b) keep both names but revise the sentence so it does not read as two independent instances of the method — the current phrasing overstates the evidentiary base for two examples where the sourcing supports one.
+
+---
+
+### `raktabija-multiplication`
+
+**Short:** The Devī Māhātmya (Mārkaṇḍeya Purāṇa), its eighth chapter (Durgā Saptaśatī, Chapter 8), narrates Raktabīja, whose every fallen blood-drop spawns a new demon-clone, defeated only when Kālī drinks his blood before it touches the ground.
+
+**Deployments:** Chapter 1 §1.4 — "Multiply copies."
+
+Raktabīja's name derives from *rakta* (blood) and *bīja* (seed): every drop of blood spilled from a wound generates an identical clone of him on contact with the earth, so ordinary combat against him multiplies the enemy rather than reducing it. When Caṇḍikā strikes him, she instructs Kālī (Cāmuṇḍā) to open her mouth wide and drink each drop before it lands, while devouring the clones that do spring up from any blood that escapes her. Repetition-as-authority is the book's use of the story: the method the antagonist relies on is the same method the pyramid runs through peer review, credential ladders, and repeated public restatement. Source: Devī Māhātmya, Chapter 8 (Mārkaṇḍeya Purāṇa 88 in the Purāṇa's continuous numbering).
+
+---
+
+### `shumbha-nishumbha-devi-mahatmyam`
+
+**Short:** The Devī Māhātmya (Mārkaṇḍeya Purāṇa), Chapters 5 through 10, narrates the brothers Śumbha and Niśumbha seizing heaven and their eventual defeat by the goddess, culminating in Śumbha's claim that the goddess used others' help and her demonstration that every emanation she sent out was herself alone.
+
+**Deployments:** Chapter 1 §1.4 — "Possess the uncontainable," first instance; §1.5 callback ("Śumbha, Andhaka, Jalandhara treating the unownable as inventory").
+
+Śumbha and Niśumbha defeat the devāḥ and seize heaven; the devāḥ recall the goddess's promise of aid and invoke her. Kauśikī (Ambikā) emerges from Pārvatī's own body in response. Chapters 5–6 narrate the defeat of the brothers' envoy Dhūmralocana; Chapters 9–10 narrate Niśumbha's death (pierced through the heart after the goddess cleaves his club and shatters his weapons) and Śumbha's final battle, in which he accuses the goddess of unfair advantage for fighting alongside Kālī and the Mātṛkās. The goddess answers by withdrawing every emanation back into herself, demonstrating that the multiplicity was never separate from her — the exact "possess the uncontainable" failure: Śumbha treats what cannot be divided or owned as if it were an opponent's borrowed inventory.
+
+---
+
+### `andhakasura-shiva-purana`
+
+**Short:** The Śiva Purāṇa (Rudra Saṃhitā, Yuddha Khaṇḍa, Chapters 42–49) narrates Andhaka's birth from Pārvatī's playful covering of Śiva's eyes, his upbringing by the demon king Hiraṇyākṣa, his boon-driven lust for Pārvatī herself, and his death at Śiva's trident followed by purification into a gaṇa.
+
+**Deployments:** Chapter 1 §1.4 — "Possess the uncontainable," second instance.
+
+Pārvatī, in a playful mood, covers Śiva's eyes with her hands; the sweat from her palms falls to the ground and forms a blind, misshapen boy — blind because Śiva's own eyes were shut when he was formed. Śiva names him Andhaka ("the blind" or "the dark") and gives him to the childless demon king Hiraṇyākṣa, who raises him. Andhaka's tapas to Brahmā earns him a boon: he can be killed only if he lusts after his own mother. Grown powerful, he covets Pārvatī and attempts to abduct her while Śiva is away — not knowing, in most tellings, that she is his own mother by the manner of his birth — triggering the boon's condition. A battle lasting generations follows; Śiva finally kills him with his trident, after which Andhaka is purified by the touch of the weapon and becomes a gaṇa in Śiva's retinue rather than remaining simply destroyed.
+
+---
+
+### `jalandhara-vrinda-shiva-purana`
+
+**Short:** The Śiva Purāṇa (Rudra Saṃhitā, Yuddha Khaṇḍa, Chapters 13–25) and the Padma Purāṇa (Uttara Khaṇḍa, Chapter 13) narrate Jalandhara, whose invincibility rested on his wife Vṛndā's chastity, disguising himself as Śiva to approach Pārvatī.
+
+**Deployments:** Chapter 1 §1.4 — "Possess the uncontainable," third instance.
+
+Jalandhara's power in battle is sustained by his wife Vṛndā's unbroken chastity and devotion. Unable to defeat him in open combat, Śiva's side turns to deception at the domestic register the same story runs at the cosmic one: Jalandhara himself disguises as Śiva to approach Pārvatī, who recognizes the imposture and flees; separately, Viṣṇu takes Jalandhara's own form to approach Vṛndā, breaking her chastity and thereby breaking the source of Jalandhara's invincibility. Vṛndā, wronged without fault of her own, curses Viṣṇu, and the curse turns him into the śālagrāma stone still worshipped in that form. Jalandhara's defeat follows.
+
+---
+
+### `virocana-chandogya-8-7-8-8`
+
+**Short:** Chāndogya Upaniṣad 8.7–8.8 narrates Indra and Virocana's shared study under Prajāpati; Virocana accepts the reflected-body teaching at face value and returns to teach the asuras that the body itself is the Self, while Indra alone returns to press further and receives the deeper teaching.
+
+**Deployments:** Chapter 1 §1.4 — "Teach surface as depth."
+
+Indra (for the devāḥ) and Virocana (for the asuras) hear that Prajāpati has said the Self is free of evil, decay, death, sorrow, hunger, and thirst, and undertake thirty-two years of brahmacarya to learn it from him. Prajāpati's first teaching points them toward the reflection visible in a person's eye, or in water, as the Self. Virocana, satisfied, returns to the asuras and teaches: "The body alone is to be worshipped; the body alone is to be revered. One who worships the body and reveres it gains both worlds, this one and the next" — the Upaniṣad's own text glosses this as the reason the asuras revere the body, still current at the time of composition. Indra, walking back toward the devāḥ, recognizes the problem the teaching leaves unresolved (a decorated, healthy reflection looks fine; a blind, lame, or dead body's reflection would look correspondingly broken, yet the Self cannot be subject to those defects) and returns to Prajāpati for further instruction, eventually receiving the teaching that the true Self is the witness behind waking, dream, and dreamless sleep. Virocana's error is departure without pressing the question; the surface answer he carries home becomes, in the book's use, the model for courtly use mistaken for source and social location mistaken for architecture.
+
+---
+
+### `muller-bunsen-1856-priestcraft-overthrow`
+
+**Short:** Max Müller's letter to Chevalier Bunsen (25 August 1856) states his planned decade of Sanskrit and Vedic study was meant to overthrow "the old mischief of Indian priestcraft" and open the way for Christian teaching — his own words for the private goal behind the public philology.
+
+**Deployments:** Chapter 1 §1.4 — "Wear false identity" method.
+
+Müller wrote to Bunsen that he wished to "live for 10 years quite quietly and learn the language, sufficiently to give an accurate translation of the Veda... by means of which the old mischief of Indian priestcraft could be overthrown and the way opened for the entrance of simple Christian teaching." The letter is published in *The Life and Letters of the Right Honourable Friedrich Max Müller*, edited by his widow Georgina Adelaide Müller (Longmans, Green, 1902) — a source Müller's own family released, not a hostile compilation. A second letter in the same published collection, to the Duke of Argyll (16 December 1868), extends the same aim over a decade later: "India has been conquered once, but India must be conquered again, and that second conquest should be a conquest by education... The ancient religion of India is doomed." This note cites the Bunsen letter as the primary source for the body's claim; the Argyll letter is included as corroborating context. Both quotations are reproduced here from secondary compilations of the 1902 volume rather than independently page-checked against the original edition — flagged per this project's verification-tier discipline, consistent with the treatment of other secondary-sourced material pending a primary-text check.
+
+---
+
 ### `rigveda-privative-generativity`
 
 **Short:** The fixed VedaWeb 1.0 corpus contains 48 tokens assigned to the lemma ***a-dabdha*** and no independent lemma ***dabdha***. The Rigveda therefore demonstrates that a privative formation can recur extensively even when its proposed positive counterpart does not occur independently in the same corpus.
@@ -1226,7 +1370,7 @@ Source basis: Ṛgveda 7.104.18; final production should verify accenting and ex
 
 **Short:** Ṛgveda 1.32 is the Vṛtra hymn: Vṛtra — the name from ⟪वृ⟫ (*vṛ*, to cover, to obstruct) — withholds the waters; Indra's *vajra* breaks the obstruction and the rivers run. The Ṛgveda's archetype of containment-and-release — and the hymn never calls Vṛtra *asura*: he is *māyin*, Dāsa, Dānava.
 
-**Deployments:** Chapter 1 §1.5 — the *tamas*-darkener sense (blockade) via RV 1.32's *dīrgham tamaḥ āśayat*; see also `apad-ahastah-vrtra-enclosure` for RV 1.32.7's limbless-coiler epithet, the enclosure sense. Chapter 3 §3.7 — first member of the containment triad (waters); the deed-not-word proof (the arch-withholder is not called *asura*). Chapter 4 opening epigraph.
+**Deployments:** Chapter 1 §1.4 — "Withhold the light" method. Chapter 1 §1.5 — the *tamas*-darkener sense (blockade) via RV 1.32's *dīrgham tamaḥ āśayat*; see also `apad-ahastah-vrtra-enclosure` for RV 1.32.7's limbless-coiler epithet, the enclosure sense. Chapter 3 §3.7 — first member of the containment triad (waters); the deed-not-word proof (the arch-withholder is not called *asura*). Chapter 4 opening epigraph.
 
 Ṛgveda 1.32 (Maṇḍala 1, to Indra) narrates the deed the tradition treats as Indra's defining act: Vṛtra lies coiled on the mountain enclosing the waters; Indra strikes him with the *vajra*; the waters break free and flow to the sea "like lowing cows." The word **वृत्र (*vṛtra*)** derives from ⟪वृ⟫, *to cover, to obstruct*: the Coverer, the Obstructor. The hymn's own epithets for him are *māyin* (wielder of *māyā*), *dāsa*, and the patronymic Dānava — not *asura*; the deed of containment, not the word, marks him as the adversary (the §3.7 proof).
 
@@ -4700,7 +4844,7 @@ Standard references: see endnote `jones-1786-third-anniversary-discourse` for th
 
 **Short:** The ***Boden Chair of Sanskrit*** at the University of Oxford (endowed 1832 from the will of Lieutenant Colonel Joseph Boden, 1751–1811, Bombay Native Infantry) has a charter directing the chair to enable *"the conversion of Indians to Christianity"* through the agency of the Sanskrit-literate; Boden's will preserved the explicit framing. Chairholders: ***Horace Hayman Wilson*** (1832–1860, *Sanskrit-English Dictionary* 1819); ***Sir Monier Monier-Williams*** (1860–1899, elected in the famous 1860 contested election against Max Müller — the chair's evangelical charter decisive in Williams's favor; the *Monier-Williams Sanskrit-English Dictionary* 1872 / 1899 remains standard today). The lexicographical machinery of Sanskrit-English scholarship was produced in a chair endowed for the conversion of Indians to Christianity.
 
-**Deployments:** Appendix Part 1 §1.2 — the citation anchor for the Boden Chair of Sanskrit at the University of Oxford and its evangelical-conversion charter.
+**Deployments:** Chapter 1 §1.4 — "Install the apex-one" method. Appendix Part 1 §1.2 — the citation anchor for the Boden Chair of Sanskrit at the University of Oxford and its evangelical-conversion charter.
 
 The ***Boden Chair of Sanskrit*** at the University of Oxford was endowed in 1832 with funds left in the will of ***Lieutenant Colonel Joseph Boden*** (1751–1811), an officer of the Bombay Native Infantry. Boden's will specifically directed that the chair be used to enable *the conversion of Indians to Christianity* through the agency of the Sanskrit-literate. The full intent, as set out in Boden's will (preserved in the documentary record):
 
@@ -6071,7 +6215,7 @@ Branch variation is not the same thing as language drift, and the evidentiary va
 
 **Short:** Rigveda 9.63.5 contains the call **कृण्वन्तो विश्वम् आर्यम् (*kṛṇvanto viśvam āryam*)** and the adversarial term **अराव्णः (*arāvṇaḥ*)**, "non-givers." Wilson and Griffith translated the verse through nineteenth-century filters that obscured the civilizational force later restored by Jamison-Brereton.
 
-**Deployments:** Chapter 4 §4.4; Epilogue §The Invitation and closing cry.
+**Deployments:** Chapter 1 §1.4 — "Withhold the light" method. Chapter 4 §4.4; Epilogue §The Invitation and closing cry.
 
 The Chapter 4 use is not a full translation study. It uses one compact case to show the priestly function of translation: an English rendering can make a primary-source claim unavailable to the reader without deleting the source. Wilson renders the verse as "Augmenting Indra, urging the waters, making all our acts prosperous, destroying the withholders (of oblations)," following Sāyaṇa's yajna-only constriction of the final term. Griffith gives: "Performing every noble work, active, augmenting Indra's strength, / Driving away the godless ones." In both cases, the civilizational object **विश्वम् आर्यम् (*viśvam āryam*)** disappears as an object: the phrase no longer tells the reader that the work is to make the whole world *ārya*. The adversarial noun **अराव्णः (*arāvṇaḥ*)** is likewise narrowed or theologized away from *non-givers*. Jamison and Brereton's modern rendering restores the force: "making it all Ārya" and "smashing away the non-givers," with the hymn introduction calling the operation "Ārya-ization." The note supports Chapter 4's claim that institutional translation can sanctify a dogma by exclusion.
 
@@ -6326,5 +6470,17 @@ The architectural claim is narrower than a universal account of household organi
 The household associated with Sāyaṇa and his elder brother Mādhava in the fourteenth-century Vijayanagara world provides one documented case. Sāyaṇa is chiefly remembered for the extensive Vedic commentaries associated with his name and scholarly circle. Works attributed to him or produced within that circle also range across *vyākaraṇam*, medicine, music, poetics, *subhāṣita*, and other laukika subjects; Mādhava is associated with philosophical, legal, and political writing. Individual attributions within this large body remain disputed, so the appendix relies on the securely documented range of the household and circle rather than assigning every title to one brother. See Munuganti Kripacharyulu, *Sāyaṇa and Mādhava-Vidyāraṇya: A Study of Their Lives and Letters* (Rajyalakshmi Publications, 1986), together with the colophons and work surveys discussed there.
 
 Kerala supplies a lineage-level case. K. A. Ravindran's “Oral and Textual Traditions of Veda in Kerala” records named families preserving Ṛgvedic and Jaiminīya Sāmavedic recitation through inherited oral methods. The same survey records a commentary on the Kauṣītaki Brāhmaṇa by Udaya of the Muriyamangalam family, a substantial Kerala commentarial body on *śikṣā* texts, Nīlakaṇṭha's *Niruktaślokavārttika*, a Malayalam commentary on the Ṛgveda, and independent works on Vedic subjects. The case establishes coexistence within one regional Sanskrit society; it does not claim that every listed activity occurred in every family. Source: K. A. Ravindran, “Oral and Textual Traditions of Veda in Kerala,” Vedic Heritage Portal, especially pp. 4–7 and 11–12.
+
+---
+
+### `english-empire-layered-pyramid`
+
+**Short:** Chapter 1 uses *English Empire* to identify the English- and London-centered apex of the political structure that later called itself British. The phrase describes the location of institutional power, not every person born in England.
+
+The component nations entered that structure through different routes. The English Crown conquered Wales, and the Statute of Rhuddlan of 1284 imposed English administration; the Laws in Wales Acts of 1535 and 1542 incorporated Wales into England and applied English law. England and Scotland remained separate kingdoms until the negotiated Union of 1707 created Great Britain and one Parliament at Westminster. Scotland retained important legal, religious, and educational institutions, while receiving forty-five seats in the new House of Commons. Scottish elites later participated extensively in the imperial project. Ireland experienced conquest, plantation, colonial administration, the Union of 1801, partition, and the creation of the Irish Free State through a different sequence.
+
+England also contained its own class pyramid. The chapter's geometry therefore does not place every English person at the imperial apex or every Scot in one uniform position. It identifies the English state and later London-centered institutions as the center from which authority and extraction extended through unequal layers. The methods varied by location: domestic subjects encountered class discipline, restricted political participation, curriculum, and credentialing, while colonized populations encountered those methods together with racial hierarchy, direct extraction, and open force.
+
+Sources: UK Parliament, [“United into One Kingdom”](https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/act-of-union-1707/overview/united-into-one-kingdom/) and [“End of the Old Scottish Parliament”](https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/act-of-union-1707/overview/end-of-the-old-scottish-parliament/); House of Commons Library, [“The United Kingdom and Independence”](https://commonslibrary.parliament.uk/research-briefings/cbp-10649/); Welsh Government, [historical account of the Statute of Rhuddlan and the Laws in Wales Acts](https://www.gov.wales/sites/default/files/consultations/2018-01/120326separatelegaljurisdiction.pdf); The National Archives, [“Irish Partition”](https://www.nationalarchives.gov.uk/education/resources/irish-partition/).
 
 ---
