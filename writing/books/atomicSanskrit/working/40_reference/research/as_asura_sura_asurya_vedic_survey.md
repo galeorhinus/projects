@@ -145,7 +145,7 @@ Essentially **no independent *asura* material** — the SV's *asura* verses are 
 
 **Translation:** "The *asura*, all-knowing, propped up the heaven; he measured out the breadth of the earth. As *samrāṭ* (universal sovereign) he took his seat over all beings. All these are the *vratāni* (ordinances) of Varuṇa."
 
-**Word gloss:** अस्तभ्नात् *astabhnāt* propped up, pillared apart (√stambh, impf.) · द्याम् *dyām* heaven (acc.) · असुरः *asuraḥ* the asura · विश्वऽवेदाः *viśva-vedāḥ* all-knowing (compound) · अमिमीत *amimīta* measured out (√mā, impf. mid.) · वरिमाणम् *varimāṇam* breadth (acc.) · पृथिव्याः *pṛthivyāḥ* of the earth (gen.) · आ *ā* preverb (with *asīdat*) · असीदत् *asīdat* took his seat (√sad, impf.) · विश्वा *viśvā* all (n. pl.) · भुवनानि *bhuvanāni* beings/worlds · सम्राट् *samrāṭ* universal sovereign · इत् *it* indeed (emph.) · तानि *tāni* those · वरुणस्य *varuṇasya* of Varuṇa · व्रतानि *vratāni* ordinances.
+**Word gloss:** अस्तभ्नात् *astabhnāt* propped up, pillared apart (√stambh, impf.) · द्याम् *dyām* heaven (acc.) · असुरः *asuraḥ* the asura · विश्वऽवेदाः *viśva-vedāḥ* all-knowing (compound) · अमिमीत *amimīta* measured out (√mā, impf. mid.) · वरिमाणम् *varimāṇam* breadth (acc.) · पृथिव्याः *pṛthivyāḥ* of the earth (gen.) · आ *ā* prefix (with *asīdat*) · असीदत् *asīdat* took his seat (√sad, impf.) · विश्वा *viśvā* all (n. pl.) · भुवनानि *bhuvanāni* beings/worlds · सम्राट् *samrāṭ* universal sovereign · इत् *it* indeed (emph.) · तानि *tāni* those · वरुणस्य *varuṇasya* of Varuṇa · व्रतानि *vratāni* ordinances.
 
 **Function/role of *asura* here:** the one who *props* (astabhnāt), *measures* (amimīta), and *legislates* (vratāni) — sovereignty exercised as cosmic maintenance. See §6.
 
@@ -312,7 +312,7 @@ Source: *Ṛktantram — A Prātiśākhya of the Sāmaveda*, ed. Surya Kanta [[a
 
 This is editorial (not the Ṛktantra sūtra body), but it is a genuine, citable instance of a **recitation-discipline padapāṭha splitting *asura* as the privative *a- + sura*** — directly on the book's *a-suraḥ* architecture, and it sets up the two competing parses treated in §4: **pada-pāṭha's *a + sura* vs. Nirukta's *asu + ra*.** (The Puṣpasūtra, the other Sāmaveda Prātiśākhya, was not checked.)
 
-**Sub-questions:** the padapāṭha of *viśva-vedāḥ* and the preverb-separation *ā-sīdat* (RV 8.42.1) did not surface specifically in the searches run — not confirmed.
+**Sub-questions:** the padapāṭha of *viśva-vedāḥ* and the prefix-separation *ā-sīdat* (RV 8.42.1) did not surface specifically in the searches run — not confirmed.
 
 ---
 

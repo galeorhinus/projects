@@ -852,7 +852,7 @@ The entry data: base-index 06.0171, dhātu कृत्, aupadeśika कृत�
 
 **Deployments:** Chapter 19 §19.5 (the Recipe — the corpus sentence in the *s*-paragraph).
 
-The aggregation comes from the book's reproducibility bundle: `analysis/ganah/data/derived/path_c_valency.csv` (kṛt: valency 74, 650 tokens, 19 distinct preverbs including the null preverb) and `analysis/ganah/data/derived/attestation_index.csv` (per-combination counts; the 18 non-null upasargas as listed, with *saṃni*, *samut*, *abhi*, *vyava*, *upa*, *anu*, *ā*, *saṃpra* in the tail). The DCS source and processing are documented in `analysis/ganah/README.md`. The structural point: the cutting-atom is richly preverb-active — including *sam-* and *pari-*, the two prefixes that trigger suṭ on ⟪कृ⟫ — and the *s* never appears on it.
+The aggregation comes from the book's reproducibility bundle: `analysis/ganah/data/derived/path_c_valency.csv` (kṛt: valency 74, 650 tokens, 19 distinct prefixes including the null prefix) and `analysis/ganah/data/derived/attestation_index.csv` (per-combination counts; the 18 non-null upasargas as listed, with *saṃni*, *samut*, *abhi*, *vyava*, *upa*, *anu*, *ā*, *saṃpra* in the tail). The DCS source and processing are documented in `analysis/ganah/README.md`. The structural point: the cutting-atom is richly prefix-active — including *sam-* and *pari-*, the two prefixes that trigger suṭ on ⟪कृ⟫ — and the *s* never appears on it.
 
 ---
 

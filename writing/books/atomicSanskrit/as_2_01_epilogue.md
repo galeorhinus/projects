@@ -122,16 +122,6 @@ The appendices carry the deeper demonstrations. *Baking the Mother Tongue* trace
 
 That fight is not academic: a civilization described as derivative cannot credibly call the world toward *āryatva*, and recognition of the architecture is the precondition for the call to be heard.
 
-## The Chronology Refusal
-
-The chronology refusal was never anti-history; it was category before calendar.
-
-The Hindu continuum preserves its own chronology for remembered events, lineages, reigns, and civilizational time. The refusal concerns the foreign clock that calls the *Veda* early or late, primitive or developed, original or interpolated, and then uses that imposed sequence to dictate Sanskrit's category.
-
-First the architecture has to be seen. Sanskrit has to stand again as *saṃskṛti*: engineered recurrence, calibrated memory, distributed correction, and radiant Speech. Chronology can then return to its proper place — sequencing memory, inscriptions, manuscripts, and events — without sitting above the architecture as judge.
-
-Chronology becomes servant, not sovereign.
-
 ## The Invitation
 
 After the Sun is found, the closing call can be spoken:
@@ -161,8 +151,6 @@ The Sanskrit fractal encodes that standard in its architecture. Sound is measure
 That is the bridge from Sanskrit to Sanātan: calibration does not remain trapped inside grammar. The same distributed discipline can recur in conduct, memory, knowledge, and social order.
 
 The invitation therefore goes outward to every civilization Sanskrit touched. To India, Pakistan, Bangladesh, Nepal, Sri Lanka, Afghanistan, Bhutan, and Maldives. To Iran, Europe, Russia, the Americas, Australia, and the Indo-European colonial-language world. To Tibet, China, Korea, Japan, Vietnam, Thailand, Laos, Cambodia, Myanmar, Mongolia, and the wider Buddhist Asian world. These peoples were taught to inherit fragments without knowing the source, reflections without seeing the calibrant, words and categories without being told what had touched them. The call asks them to relearn. Relearn what *ārya* means. Relearn Sanskrit. Relearn discipline, restraint, generosity, skill, and conduct. And especially to those still trapped inside the word *Aryan*: the invitation is not to recover a race, but to relearn a discipline. Do not claim *āryatva*. Become capable of it.
-
-The invitation is not ethnic. It is architectural.
 
 ## The Inward Correction
 

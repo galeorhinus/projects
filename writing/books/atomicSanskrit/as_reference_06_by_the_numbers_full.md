@@ -437,7 +437,7 @@ One engineering signature, three levels, one principle: range preserved where ra
 
 **The measurement.** Path C operationalizes reactivity as **corpus-attested combinatorial valency**: the count of distinct (*upasarga*, *pratyaya*-class) pairs in which each *dhātuḥ* surfaces across the Digital Corpus of Sanskrit (DCS) — Hellwig's lemmatized parsed corpus covering Vedic and post-Vedic Sanskrit. The reproducibility bundle is `analysis/ganah/`. Chapter 11 §§11.6–11.9 states the polemic version; this section is the empirical reservoir.
 
-**The dataset.** 15,900 parsed CoNLL-U files. 1,007,361 verb-token occurrences. 35,319 unique (dhātu, preverb, *pratyaya*-class) triples. 3,839 unique bare dhātavaḥ. Coverage spans Vedic (Ṛgveda, Atharvaveda), epic (Mahābhārata, Rāmāyaṇa), grammatical, *śāstric*, *purāṇic*, *kāvya*, Buddhist, medical, ritual, and philosophical material.
+**The dataset.** 15,900 parsed CoNLL-U files. 1,007,361 verb-token occurrences. 35,319 unique (dhātu, prefix, *pratyaya*-class) triples. 3,839 unique bare dhātavaḥ. Coverage spans Vedic (Ṛgveda, Atharvaveda), epic (Mahābhārata, Rāmāyaṇa), grammatical, *śāstric*, *purāṇic*, *kāvya*, Buddhist, medical, ritual, and philosophical material.
 
 **Top 20 *dhātavaḥ* by Path C valency:**
 
@@ -636,7 +636,7 @@ From the bundle directory: `python3 scripts/<script-name>.py [gaṇa]` (`[gaṇa
 Source corpus and *prayoga* combinatorial-valency scripts for §6.12 (and the §6.11 Path C sharpening; the §6.13 Path C corroboration).
 
 - **`data/raw/dcs/`** — Hellwig's Digital Corpus of Sanskrit GitHub mirror (`OliverHellwig/sanskrit`), CC BY 4.0. 15,900 CoNLL-U parsed Sanskrit files; 180,176-row dictionary with explicit preverb attribution per lemma.
-- **`data/derived/attestation_index.csv`** — 35,319 unique (dhātu, preverb, *pratyaya*-class) triples across 1,007,361 verb tokens.
+- **`data/derived/attestation_index.csv`** — 35,319 unique (dhātu, prefix, *pratyaya*-class) triples across 1,007,361 verb tokens.
 - **`data/derived/path_c_valency.csv`** — 3,839 dhātavaḥ with computed Path C valency.
 - **`data/derived/path_a_vs_path_c.csv`** — 121 matched MW dhātavaḥ for the two-instrument cross-validation.
 
@@ -644,7 +644,7 @@ Scripts (run in execution order):
 
 | Script | Output feeds |
 |---|---|
-| `build_attestation.py` | attestation index — every (dhātu, preverb, *pratyaya*) triple across the corpus |
+| `build_attestation.py` | attestation index — every (dhātu, prefix, *pratyaya*) triple across the corpus |
 | `compute_valency.py` | §6.12 per-dhātu Path C valency = count of distinct bonding pairs |
 | `spearman_baseline.py` | §6.12 ρ(MW vs Path C) = +0.6647; §6.13 ρ(Path C vs particles) = −0.4334 |
 | `tier_cutoffs.py` | tier cutoff scheme selection (locked at ≥50 / 5–49 / ≤4) |

@@ -184,13 +184,13 @@ The pattern continued long after 1500 BCE. The Yuezhi moved west after the Xiong
 
 Each upheaval stripped men of the people and institutions around which they had built their lives. The armies and war-bands that broke apart were overwhelmingly male. Some survivors later became conquerors themselves. Others entered another army or made a living through trade. Marriage and new land allowed them to begin again.[NOTE: migration-trap-displacement-routes]
 
-The Hellenistic and Roman pyramids produced more uprooted men. Their wars moved armies across enormous distances and supplied captives to slave markets. Soldiers deserted, captives escaped, and political exiles fled. Mercenaries also had to find another place when the ruler who paid them fell.
+The Hellenistic and Roman pyramids produced more uprooted men. Their wars moved armies across enormous distances and fed captives into slave markets. Soldiers deserted, captives escaped, and political exiles fled. Mercenaries also had to find another place when the ruler who paid them fell.
 
 The Seleucid, Bactrian, and Indo-Greek corridors connected that world directly with India. Men fleeing western and Central Asian pyramids did not need to invent India as a destination. The roads already led there.[NOTE: migration-trap-displacement-routes]
 
 #### Why India Could Receive Them
 
-India offered ***दिव्यता (*divyatā*)***, radiance that a person could approach through action, learning, discipline, devotion, and participation. A newcomer did not need to become the apex or remain trapped beneath one. He could enter a civilization that gave him a place to build a life. For a man imprisoned below another person's *bhavyatā*, India's *divyatā* supplied a powerful reason to escape and travel toward it.
+India offered ***दिव्यता (*divyatā*)***, radiance that a person could approach through action, learning, discipline, devotion, and participation. A newcomer did not need to become the apex or remain trapped beneath one. He could enter a civilization where he could build a life. For a man imprisoned below another person's *bhavyatā*, India's *divyatā* gave him a powerful reason to escape and make the journey.
 
 India's thriving economy and decentralized manufacturing base also gave newcomers practical reasons to complete that journey. Its markets, craft communities, and armies offered many ways to earn a livelihood. Its disciplines and teachers offered patronage and learning. Its ascetic traditions allowed a person to leave an earlier identity behind. A man escaping a defeated army or an imperial state could therefore enter India to survive and rebuild his life. The same possibility was available to someone fleeing debt, captivity, or slavery.
 
@@ -220,7 +220,7 @@ Foreign Y-DNA can be the trace of men whom India absorbed. That paternal ancestr
 
 ## 18.7 An Honest Speculation by This Atri
 
-Chapter 0 began at the cosmic scale. **असत् (*asat*)** existed before **सत् (*sat*)** was born. **ऋत (*ṛta*)** then supplied a created track through reality, one that directs action toward balance, circulation, and the welfare of living beings. It was never the only order that reality could sustain. *Asat* could also produce deformed orders. Those orders could take many forms, but they bent toward the same end: containment, aggregation, and the restriction of flow.
+Chapter 0 began at the cosmic scale. **असत् (*asat*)** existed before **सत् (*sat*)** was born. **ऋत (*ṛta*)** is the created track through reality that directs action toward balance, circulation, and the welfare of living beings. It was never the only order that reality could sustain. *Asat* could also produce deformed orders. Those orders could take many forms, but they bent toward the same end: containment, aggregation, and the restriction of flow.
 
 This conflict existed before human beings. Humans inherited the capacity to align their actions with either order. Most people simply lived their lives, but the Vedas remembered the distinction through protagonists and antagonists whose actions made each architecture visible.
 
@@ -232,7 +232,7 @@ The Hindu continuum considers the *devāḥ* great because they recognized the t
 
 Their greatness extends further. The continuum received the Vedas as **अपौरुषेय (*apauruṣeya*)**, without a human author who could claim ownership of their wisdom.[NOTE: apauruseya-mimamsa-sutra-1-1-5] This Atri interprets that absence of ownership as an expression of the same radiance. The *devāḥ* did not become great by demanding credit for the order. They became great by aligning themselves with it and allowing the order to remain greater than any personality.
 
-Bṛhaspati's mantra supplies the linguistic clue:
+Bṛhaspati's mantra describes how the wise formed Speech:
 
 > **सक्तुमिव तितउना पुनन्तो यत्र धीरा मनसा वाचमक्रत ।**
 >
@@ -258,7 +258,7 @@ The perfection reaches beyond linguistic rules. Sanskrit was engineered to carry
 
 The architecture still had to survive two enemies. Entropy would loosen sounds, alter forms, and weaken memory through ordinary human use. The forces aligned with *asat* would attack the language deliberately because a distributed calibrant gives human beings the ability to recognize containment and resist it.
 
-The Vedas supplied the response. Once the **मन्त्रद्रष्टारः (*mantra-draṣṭāraḥ*)** and **मन्त्रद्रष्ट्र्यः (*mantra-draṣṭryaḥ*)** saw the mantras, later generations received them as **श्रुति (*śruti*)**, that which is heard. The Vedic corpus preserved a linguistic architecture together with civilizational memories of balance, failure, containment, release, and recovery. It therefore became a calibrant broad enough to serve both Sanskrit and *saṃskṛti*.
+The Vedas defended the architecture against both enemies. Once the **ऋषयः (*ṛṣayaḥ*)** and **ऋषिकाः (*ṛṣikāḥ*)** saw the mantras, later generations received them as **श्रुति (*śruti*)**, that which is heard. The Vedic corpus preserved a linguistic architecture together with civilizational memories of balance, failure, containment, release, and recovery. It therefore became a calibrant broad enough to serve both Sanskrit and *saṃskṛti*.
 
 The two domains divided the responsibility. The read-only *vaidika* domain protected the received mantras from revision. The read-write *laukika* domain allowed people to compose poetry, preserve mathematics and astronomy, conduct trade, document manufacturing, debate philosophy, tell stories, and describe every changing age. The Vedas kept the architecture available for calibration, while *laukika* Sanskrit kept the language useful in the world.
 
@@ -266,7 +266,7 @@ The two domains divided the responsibility. The read-only *vaidika* domain prote
 
 At the turn from Dvāpara to Kali, the Hindu continuum remembers Veda-Vyāsa arranging the one Veda into four functional streams: Ṛgveda, Yajurveda, Sāmaveda, and Atharvaveda, together with their supporting material. He arranged the one body for an age of shorter memory. The division added nothing and took nothing away. It changed the organization required for transmission.[NOTE: veda-vyasa-division]
 
-The wider preservation architecture used eleven **पाठाः (*pāṭhāḥ*)**, five *prakṛti-pāṭhas* and six *vikṛti-pāṭhas*, to re-encode the same received words through different recitational arrangements, mutually checking paths through the same invariant content. Geographically separated lineages carried those paths through periods in which kingdoms fell, libraries burned, temples destroyed, institutions disappeared, and the asuric pyramid repeatedly attacked the civilization.[NOTE: eleven-pathas]
+The wider preservation architecture used eleven **पाठाः (*pāṭhāḥ*)**, five *prakṛti-pāṭhas* and six *vikṛti-pāṭhas*, to re-encode the same received sounds through different recitational arrangements, mutually checking paths through the same invariant content. Geographically separated lineages carried those paths through periods in which kingdoms fell, libraries burned, temples destroyed, institutions disappeared, and the asuric pyramid repeatedly attacked the civilization.[NOTE: eleven-pathas]
 
 For thousands of years, the Vedas have remained the primary calibrant. Those responsible for recitation preserved every sound, pitch, duration, and sequence. Those responsible for *laukika* Sanskrit could return to the architecture the Vedas encoded whenever usage faced entropy.
 
@@ -288,7 +288,7 @@ What we do know remains available for examination. The Sanskrit that the continu
 
 The evidence does not reveal the engineers' biographies. It reveals what they built.
 
-> **The wise formed *vāc*. The seers saw. The lineage heard. The *vaiyākaraṇāḥ* decoded. Pāṇini documented and compressed. The Vedas remain the calibrant for Sanskrit and *saṃskṛti*.**
+> **The wise formed *vāc*. The seers saw. The lineage heard. The *vaiyākaraṇāḥ* decoded. Pāṇini articulated. The Vedas remain the calibrant for Sanskrit and *saṃskṛti*.**
 
 ## 18.8 Pāṇini Praised, Architecture Erased
 
@@ -297,7 +297,7 @@ The two speculations are mirror inversions.
 ![Figure 18.2 — Two accounts of Sanskrit. The pyramid arranges the domains as a chronology of linguistic descent; the engineering thesis treats them as complementary domains joined by calibration.](figures/wrong_question/two_accounts_of_sanskrit.svg){#fig:ch18-two-accounts width=100%}
 
 
-At every point in the Sanskrit continuum, two facts operate together: the Vedas remain preserved, and laukika use remains exposed to *apabhraṃśa*. Worldly use faces entropy. The recitational lineages do not.
+At every point in the Sanskrit continuum, two facts operate together: the Vedas remain preserved, and laukika use remains exposed to *apabhraṃśa*. Worldly use faces entropy. The Vedic lineages do not.
 
 Before Pāṇini, the Vedic corpus served as the primary calibrant for correcting *laukika* use toward the architecture the Vedas encoded. Generations of earlier *vaiyākaraṇāḥ* had already analyzed Sanskrit and taught its operations through inherited grammatical disciplines. Pāṇini inherited that analytical tradition and compressed Sanskrit's grammar into the *Aṣṭādhyāyī*, a precise rule-system that students and teachers could apply directly to *laukika* Sanskrit. Chapter 13 §13.5 explains this teaching function in detail.
 
@@ -315,6 +315,4 @@ While the civilization keeps the memory active, the machinery changes its object
 
 The asuric pyramid persists only as long as that move remains effective.
 
-Sanskrit's calibration architecture restores the continuous account: engineered before Pāṇini, articulated by Pāṇini, and calibrated after him.
-
-Chapter 19 tests PIE itself.
+Sanskrit's calibration architecture restores the continuous account: engineered before Pāṇini and articulated by Pāṇini, the calibration continues.

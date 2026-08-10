@@ -301,7 +301,7 @@ The book's central technical vocabulary has parallel Sanskrit and English forms.
 | *dhātuḥ* / *dhātavaḥ* | atom / semantic atom |
 | *racanā* / *racanāḥ* / *dhāturacanā* | scaffold / atomic scaffold |
 | *śabda* / *śabdāḥ* | word / lexical molecule |
-| *upasarga* / *pratyaya* | preverb / suffix (or *bond* in the chemistry idiom) |
+| *upasarga* / *pratyaya* | prefix / suffix (or *bond* in the chemistry idiom) |
 
 **Five deployment rules.**
 

@@ -6,7 +6,7 @@ No single number can establish engineering. The pattern has to recur across leve
 
 The audit uses three related datasets, and their totals count different things. The structural baseline contains 2,168 listed entries from a digital Pāṇinian **धातुपाठ (*Dhātupāṭha*)** across the ten **गणाः (*gaṇāḥ*)**. The citation markers called **अनुबन्धाः (*anubandhāḥ*)** are removed before the sounds of each listed atom are counted.
 
-**Path A** then compares particle count with estimated derivative counts for a selected sample of 138 atoms, using the Monier-Williams and Apte dictionaries. **Path C** examines the Digital Corpus of Sanskrit. Its parser produced 3,839 normalized verb lemmas, including derived lemmas such as causatives that are not separate entries in the *Dhātupāṭha*. For each lemma, Path C counts the distinct combinations of preverb and grammatical form-class recorded in the corpus. The 2,168 listed entries, the 138-atom sample, and the 3,839 corpus lemmas are therefore three different units.
+**Path A** then compares particle count with estimated derivative counts for a selected sample of 138 atoms, using the Monier-Williams and Apte dictionaries. **Path C** examines the Digital Corpus of Sanskrit. Its parser produced 3,839 normalized verb lemmas, including derived lemmas such as causatives that are not separate entries in the *Dhātupāṭha*. For each lemma, Path C counts the distinct combinations of prefix and grammatical form-class recorded in the corpus. The 2,168 listed entries, the 138-atom sample, and the 3,839 corpus lemmas are therefore three different units.
 
 Each source brings its own limitation. A dictionary sample reflects the choices made by its compilers, while a surviving corpus reflects its genres and preservation history. When the same relation appears in both, the result deserves more weight than either source could provide alone.
 
@@ -101,7 +101,7 @@ If Sanskrit's atoms are engineered for reach, the smallest forms should produce 
 
 The table contains all 138 atoms in the selected Path A sample. The mean falls from 30.1 derivatives among two-particle atoms to 11.4 among five-particle atoms. Spearman's rank correlation summarizes that direction: a negative value means that larger particle counts tend to accompany lower generative reach. Path A gives ρ = **−0.485**.
 
-Path C uses a different measure and a much larger set. It counts the distinct preverb-and-form-class combinations recorded for each of 3,839 normalized DCS verb lemmas. Its correlation between particle count and combinatorial valency is also negative, at ρ = **−0.4334**. The dictionary sample and the corpus analysis therefore point in the same direction.
+Path C uses a different measure and a much larger set. It counts the distinct prefix-and-form-class combinations recorded for each of 3,839 normalized DCS verb lemmas. Its correlation between particle count and combinatorial valency is also negative, at ρ = **−0.4334**. The dictionary sample and the corpus analysis therefore point in the same direction.
 
 The atoms with the greatest generative reach are familiar because Sanskrit uses them everywhere: *kṛ* कृ, *bhū* भू, *dā* दा, *dhā* धा, *hṛ* हृ, *gam* गम्, *sthā* स्था, *jñā* ज्ञा. The smallest atoms generate the largest families.
 

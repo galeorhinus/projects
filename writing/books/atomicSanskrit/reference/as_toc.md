@@ -22,7 +22,7 @@
 **Chapter 0 — Zero, Seekers, and the Infinite**
 - 0.1 The Puzzle of the Whole
 - 0.2 A Culture of Seekers
-- 0.3 The Reader's Sanskrit
+- 0.3 Sanskrit in Plain Sight
 - 0.4 *Saṃskṛtam* and *Prākṛtāni*
 - 0.5 A Language of Infinity — Words Without Limit
 - 0.6 A Language of Infinity — Counting Without Limit

@@ -20,14 +20,12 @@
 
 \bigskip
 
-The war is already underway when the Śaṅkha sounds. The call summons Sanskrit's caretakers to defend what they have preserved.
-
-At this threshold the eclipse remains intact. The conch announces that the caretakers are beginning to clear the shadow; the first plate will fall only after the argument begins.
+The sound of the Śaṅkha does not begin the war—it announces the attack on Sanskrit that was already underway. Its call summons the people who preserved the language to recognize that attack and defend what they inherited. When the conch sounds, the eclipse still covers the Sun completely. Every plate remains firmly in place. The chapters that follow identify those plates—and remove them one by one.
 
 ![Figure E.2 — The Śaṅkha Sounds. The full eclipse remains in place, but the conch has sounded while the world is still dark.](figures/eclipse_spine/eclipse_00_overture_shankha_full.svg){#fig:eclipse-overture-shankha width=100%}
 
-Sanskrit is the Sun. The asuric pyramid has drawn its shadow across the world. What should have been obvious went dark: a language that seekers, caretakers, reciters, *vaiyākaraṇāḥ*, mothers, teachers, students, and lineages actively preserved across the depth of time. This book calls them caretakers because they kept teaching, reciting, listening, correcting, and remembering while the account surrounding the language grew dark.
+Sanskrit is the Sun. The asuric pyramid has drawn its shadow across the world, obscuring what should have been obvious: an architecture actively preserved across the depth of time by seekers, reciters, vaiyākaraṇāḥ, mothers, teachers, students, and lineages. This book calls them caretakers because they kept teaching, reciting, listening, correcting, and remembering while the academic account surrounding their language grew dark.
 
-Before the light returns, the overture makes the opposing parties visible. On one side stand the seekers and caretakers. On the other stands the asuric pyramid, a finite order with an apex at its head that constantly demands that everyone look upward for authority.
+Before the light returns, the overture makes the opposing parties visible. On one side stand the seekers and caretakers. On the other stands the asuric pyramid: a finite order with a single apex, constantly demanding that everyone look upward for authority.
 
-The Śaṅkha sounds while the world is still dark. The next two chapters introduce the caretakers and the pyramid; Part I then begins to remove the plates between Sanskrit and the world.
+The Śaṅkha sounds while the world is still dark. The next two chapters introduce the two opposing forces: the caretakers and the pyramid. With those positions established, Part I will begin the process of removing the plates that stand between Sanskrit and the world.

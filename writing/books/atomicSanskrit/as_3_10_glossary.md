@@ -84,13 +84,13 @@ The glossary is organized in three groups:
 
 **Standard.** The 22 directional / aspectual prefix-particles that bond with *dhātavaḥ* in derivation. Pāṇini A.1.4.59 lists them collectively; the received list (*pra, parā, apa, sam, anu, ava, niḥ, duḥ, vi, ā, ni, adhi, api, ati, su, ud, abhi, prati, pari, upa* + two contested forms) is fixed.
 
-**English pair**: *preverb*. In the chemistry idiom: *head-bond* (Chapter 12 vocabulary stack).
+**English pair**: *prefix*. In the chemistry idiom: *head-bond* (Chapter 12 vocabulary stack).
 
 ### **pratyaya** (प्रत्यय) / **pratyayāḥ** (प्रत्ययाः)
 
 **Standard.** Affix; suffix. Pāṇini's vast *pratyaya* inventory covers *kṛt* (primary derivational), *taddhita* (secondary derivational), *sup* (case-ending), *tiṅ* (finite verb ending), *vikaraṇa* (class-affix), and several other functional classes.
 
-**English pair**: *suffix*. In the bonding-procedure idiom: *bond*.
+**English pair**: *suffix*. In the chemistry idiom: *tail-bond* (Chapter 12 vocabulary stack).
 
 ### **atom** / **atoms** / **semantic atom**
 

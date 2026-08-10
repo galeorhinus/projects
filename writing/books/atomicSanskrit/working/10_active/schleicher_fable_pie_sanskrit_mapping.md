@@ -48,7 +48,7 @@ hyphenated form, matching Schleicher's own orthography).
 | 2 | jasmin | in which (loc.) | **यस्मिन् (yasmin)** | ✓ | Locative singular of यद् (yad); near-exact match. |
 | 3 | varnā | wool | **ऊर्णा (ūrṇā)** | ~ | Same PIE source (*h₂wĺ̥h₁neh₂), but Sanskrit's actual reflex is ūrṇā, not a v-initial form. Don't claim varnā = a real Sanskrit word. |
 | 4 | na | not | **न (na)** | ✓ | Exact. |
-| 5 | ā | (preverb/particle) | **आ (ā)** | ✓ | Exact — common Sanskrit preverb. |
+| 5 | ā | (prefix/particle) | **आ (ā)** | ✓ | Exact — common Sanskrit prefix. |
 | 6 | ast | was | **आसीत् (āsīt)** | ✓ | Imperfect 3sg of ⟪अस्⟫ (as), "to be." |
 | 7 | dadarka | saw | **ददर्श (dadarśa)** | ✓ | Perfect 3sg of ⟪दृश्⟫ (dṛś). Near-verbatim reproduction of the real Sanskrit form. |
 | 8 | akvams | horses (acc. pl.) | **अश्वान् (aśvān)** | ✓ | From अश्व (aśva). |

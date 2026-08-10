@@ -31,7 +31,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 
 - 0.1 The Puzzle of the Whole — *The* Īśopaniṣad *invocation as a puzzle whose answer can be zero or infinity; the verse's own word is* pūrṇam, *the whole.*
 - 0.2 A Culture of Seekers — *The civilization that engineered Sanskrit also built zero, place-value, Ayurveda, Nyāya, Sāṃkhya, and the* darśanas; *language and number fell out of the same inquiry-driven culture.*
-- 0.3 The Reader's Sanskrit — *The reader already knows more Sanskrit than they know — loanwords, mantras, yoga vocabulary, mission and city names; Sanskrit operates in the background of more than a billion lives.*
+- 0.3 Sanskrit in Plain Sight — *The reader already knows more Sanskrit than they know — loanwords, mantras, yoga vocabulary, mission and city names; Sanskrit operates in the background of more than a billion lives.*
 - 0.4 *Saṃskṛtam* and *Prākṛtāni* — *The language's self-naming —* perfectly synthesized *or* wholly created *— and its contrast term* prākṛtāni; *the categorical distinction the preservation engineering builds on.*
 - 0.5 A Language of Infinity — Words Without Limit — *The* dhātu *+* upasarga *+* pratyaya *combinatorics: finite atomic inventory, practically limitless word-space.*
 - 0.6 A Language of Infinity — Counting Without Limit — *The place-value system and* śūnya; *ten digits span all arithmetic; the same finite-input / infinite-output principle Sanskrit applies to words.*

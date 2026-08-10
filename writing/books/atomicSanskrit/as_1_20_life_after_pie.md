@@ -1,7 +1,5 @@
 # Chapter 20 — Life After PIE
 
-With the imaginary ancestor removed, the view brightens.
-
 Sanskrit’s radiance moved outward in waves. Different carriers took different parts of Sanskrit with them. Some carried words and technical knowledge. Some carried the sound architecture, grammar, and methods of analysis. Entire communities carried living Indic languages into new regions. Contemporary readers can now carry a conscious account of the architecture itself.
 
 Wave 1 radiated Sanskritic structure outward before Pāṇini, through Vedic-trained experts. Wave 2 radiated the science of grammar outward after Pāṇini, through methodological imitation. The Diasporic Wave bore Indic substrate outward through communities rather than experts. Wave 3 is contemporary: the Sun seen again, the architecture restated, and the radiance taken up by those who have relearned enough to bear it truthfully.

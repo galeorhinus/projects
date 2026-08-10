@@ -44,15 +44,13 @@ From there the chain runs outward: the verbal molecule becomes a source of names
 
 The *dhātuḥ* is a semantic atom. To enter speech, it must bond into a sentence-ready form.
 
-Sanskrit bonds an atom in two main directions. A head-bond, **उपसर्गः (*upasargaḥ*)**, attaches before it and redirects its action. A tail-bond, **प्रत्ययः (*pratyayaḥ*)**, attaches after it and gives the resulting form a defined job: action, agent, deed, obligation, state, or another grammatical and semantic category.
+Sanskrit bonds an atom in two main directions. A head-bond, **उपसर्गः (*upasargaḥ*)** — the prefix — attaches before it and redirects its action. A tail-bond, **प्रत्ययः (*pratyayaḥ*)** — the suffix — attaches after it and gives the resulting form a defined job: action, agent, deed, obligation, state, or another grammatical and semantic category.
 
 The completed form can then take the ending required for sentence use. A **विभक्तिः (*vibhaktiḥ*)** marks a name's role, number, and relation, while a **तिङ्-प्रत्ययः (*tiṅ-pratyayaḥ*)** marks a verb's person and number. “Stabilize” here means that the bonded form has acquired a recoverable role; it does not describe physical preservation.
 
 The governing issue is recoverability. The bond remains visible enough for the form to be analyzed, taught, corrected, recited, and recalibrated.
 
-The philological dogma treats the *upasargaḥ* as a preverb: a spatial particle that gradually fused with the verb through ordinary linguistic evolution. That may be a fair description of some natural-language histories, but Sanskrit runs a different operation.
-
-In English, a preposition usually stands outside the action: *from*, *toward*, *over*, *under*. In Sanskrit, the *upasargaḥ* binds into the word-body and redirects the action from within the derivation by bonding with the atom.
+In English, a preposition usually stands outside the action: *from*, *toward*, *over*, *under*. In the laukika domain, the *upasargaḥ* binds into the word-body and redirects the action from within the derivation by bonding with the atom. In the vaidika domain the same *upasargaḥ* may float in front of its atom — a domain permission Chapter 16 §16.4 and Appendix Part 8 document in full.
 
 A *pratyayaḥ* performs the other side of the bonding procedure, completing the molecule into a usable class: one suffix makes an action-name, another an agent, another something-to-be-done. Through all of it the same atom stays visible, while the molecule's outer shell changes what the form can do in a sentence.
 
@@ -96,7 +94,7 @@ The demonstration follows ⟪कृ⟫ because it makes the procedure visible. O
 
 ## 12.4 Head-Bonds: How *Upasargāḥ* Redirect the Atom
 
-The first bonding direction is the head-bond. Sanskrit calls it **उपसर्गः (*upasargaḥ*)**.
+The first bonding direction is the head-bond — the prefix. Sanskrit calls it **उपसर्गः (*upasargaḥ*)**.
 
 An *upasargaḥ* redirects the atom's action. With *kṛ*, the operation is easy to see because the atom is small and the resulting molecules are familiar.
 
@@ -116,7 +114,7 @@ Chapter 19 §19.7 returns to the same architecture outside Sanskrit. Its compact
 
 ## 12.5 Tail-Bonds: How *Pratyayāḥ* Stabilize the Molecule
 
-The second bonding direction is the tail-bond. Sanskrit calls it **प्रत्ययः (*pratyayaḥ*)**.
+The second bonding direction is the tail-bond — the suffix. Sanskrit calls it **प्रत्ययः (*pratyayaḥ*)**.
 
 A *pratyayaḥ* completes the molecule into a usable class. The same atom can become a deed, a doer, an obligation, a state, a process, or a form ready for sentence use. The tail-bond determines what the molecule can do.
 
