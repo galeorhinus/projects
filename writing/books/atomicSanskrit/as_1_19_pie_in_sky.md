@@ -61,7 +61,7 @@ PIE is not merely a speculative reconstruction. It is the asuric pyramid's most 
 
 The pyramid extended its fertile imagination from people, language, and words into stories. When it could no longer defend the lie that Vālmīki had copied Homer, it invented a pseudo-compromise. Its imaginary people, already speaking an imaginary language filled with imaginary words, were now equipped with imaginary stories. The pyramid placed imaginary ancestral figures above three real Vedic figures: **द्यौष्पिता (*Dyauṣ Pitā*)** became **the Sky Father**; **अश्विनौ (*Aśvinau*)** became **the Twin Horsemen**; and Indra **वृत्रहन् (*Vṛtrahan*)**, the slayer of Vṛtra, became **the Serpent-Slayer**. Homer and Vālmīki could then be declared inheritors of the same imagined narrative tradition, allowing the pyramid to abandon direct Greek originality without acknowledging that Homer had borrowed from the *Rāmāyaṇa*.[NOTE: indo-european-narrative-inheritance]
 
-**The four inventions.** RAT supplies the imaginary people: *Aryans* as race, ancestry, or migrating population. PIE supplies the imaginary language placed before Sanskrit. Starred reconstructions supply the imaginary words — forms no known mouth ever made. Comparative mythology supplies the imaginary ancestral stories from which recorded epics are made to descend. The phrase *"Indo-Aryan languages"* binds the first three inventions into ordinary academic speech; *"Indo-European narrative inheritance"* performs the same operation for the fourth. Sanskrit is real. *Ārya* is real. The Vedic archive is real. The *Rāmāyaṇa* is real. The imaginary people, language, words, and ancestral stories allow the pyramid to make the real civilization external to itself.
+**The four inventions.** RAT invents the imaginary people: Aryans as a race, ancestry, or migrating population. PIE invents the imaginary language placed before Sanskrit. Starred reconstructions invent the imaginary words, forms no known mouth ever made. Comparative mythology completes the set by inventing imaginary ancestral stories from which recorded epics are made to descend. The phrase *"Indo-Aryan languages"* binds the first three inventions into ordinary academic speech; *"Indo-European narrative inheritance"* performs the same operation for the fourth.
 
 ## 19.3 What PIE Cannot Explain
 
@@ -79,15 +79,10 @@ PIE depends on the split. The pyramid's story requires Sanskrit before Pāṇini
 
 PIE protects this boundary too. If Sanskrit is only a natural language before Pāṇini and a "codified" language after Pāṇini, then PIE remains plausible and authority remains necessary. But if Sanskrit is recognized as a calibrant, the direction reverses. Sanskrit becomes the measure, not the measured. Pāṇini becomes the decoder of an already-operative architecture, not the authority who imposed order. The pyramid cannot allow that recognition to spread even among its own readers. Once the calibrant is visible, the imaginary ancestor begins to look unnecessary.
 
-PIE becomes durable through education. Students usually meet Sanskrit first through a family tree: PIE at the top, Indo-Iranian below it, and Sanskrit placed among the descendants. By the time they encounter the *varṇamālā*, the *dhātavaḥ*, Pāṇini, or the Vedic recitation system, the curriculum has already dictated the category into which those features must fit. The classroom does not merely teach a theory; it assigns Sanskrit its place before Sanskrit can speak for itself.
-
 PIE cannot account for the calibration matrix. A precursor language does not contain *pāṭha* recitations, *Prātiśākhya* specifications, *Śikṣā* training, or engineered anti-entropy.
 
-The failures are not merely incidental; they are fundamental category failures. Because PIE tries to explain an engineered architecture using a botanical genealogy, its foundational conceptual category is wrong before any specific reconstruction can even be tested.
+These are category failures. PIE tries to explain an engineered architecture using a botanical genealogy, so its foundational category is wrong before any specific reconstruction can even be tested.
 
-<!-- AISWEEP-OLD
-At the structural level, the conflict is simple. PIE is flat: one projected ancestor used to explain many descendants. Sanskrit is fractal: the same engineering signature recurs across sonomer, *akṣara*, *dhātuḥ*, *śabda*, *vākya*, *sūtra*, and calibration matrix.
-AISWEEP-END -->
 PIE is flat: one projected ancestor used to explain many descendants. Sanskrit is fractal: the same engineering signature recurs across sonomer, *akṣara*, *dhātuḥ*, *śabda*, *vākya*, *sūtra*, and calibration matrix. A flat ancestor cannot explain a fractal architecture. It can only demote that architecture into a descendant and protect the pyramid from Sanskrit-as-calibrant.
 
 ## 19.4 The Cementing
@@ -110,9 +105,6 @@ The event lanes below the chart show what the timing reveals. The first lane is 
 
 The lanes do not claim that one event mechanically caused the next PIE revision. They show the strategic environment. Race science retreats; the racial Arya thesis marches on. Sanskrit reasserts itself; PIE does not disappear. It adjusts.
 
-<!-- AISWEEP-OLD
-Against that background, the curve is revealing. Brugmann's reconstruction falls to **0.73**. The standard / laryngeal reconstruction falls to **0.64**. The glottalic turn falls furthest, to **0.48**. Then the modern reconstruction rises again to **0.64**.
-AISWEEP-END -->
 Brugmann's reconstruction falls to **0.73**. The standard / laryngeal reconstruction falls to **0.64**. The glottalic turn falls furthest, to **0.48**. Then the modern reconstruction rises again to **0.64** — against that background, a revealing curve. The pattern is not the discovery of a stable ancestor. It is a reconstruction moving around Sanskrit: close at first, then away, then back toward Sanskrit-like material when Sanskrit can no longer be ignored.
 
 The reconstruction bakers were only the first shift; a second took the reference shelf. Julius Pokorny's *Indogermanisches etymologisches Wörterbuch* (1959) gathered the starred roots into a cookbook. Calvert Watkins built them into the *American Heritage Dictionary*'s appendix — a pie in every American desk. The free online references a reader now consults, Etymonline and the aggregators, made the starred form the default terminus. More bakers, more pies. The reconstructions did not merely multiply in the journals; they climbed into the dictionaries, edition by edition, until the entry a child reads today ends at a star. The next section follows that climb into one dictionary's own pages.
@@ -182,21 +174,27 @@ One chain begins from a real *dhātuḥ* recorded in the Dhātupāṭha and unfo
 
 By positing an imaginary people speaking an imaginary language built from imaginary words, the asterisk serves as the one visible confession. Printed on the reconstructed word, the language assembled from those words, and the people posited to have spoken it, that single mark sustains three distinct fictions. The only empirical reality in the story remains the Sanskrit the machinery reverse-engineered it from.
 
-## 19.7 *Pratibimba*
+## 19.7 The Radiance Thesis: Reflection, Not Root
 
-*Pratibimba* serves as the optical word, with radiance acting as the transmission image. Rather than requiring a migrating race, Sanskritic forms required carriers, contact, and a receiving language. As the light traveled and the receiving languages formed reflections, the philologists mistook the pattern of reflected light for a vanished parent body. Thus, radiance explains resemblance without ancestry: the *apaśabda* emerges on its own after passing beyond active Sanskritic gravity.
+### How Radiance Produces a Reflection
 
-Movement out of India is therefore unsurprising. Indian knowledge served almost every part of life. Physicians and astronomers could take their disciplines to another court. Metallurgists, weavers, shipwrights, and masons could travel wherever patrons needed their skills. Traders carried stories and vocabulary with their goods. Teachers and renunciants moved through monasteries and learning lineages. Chapter 20 follows the Buddhist pathways that make this outward movement especially visible.[NOTE: buddhist-asia-radiance]
+Sanskrit's radiance moves outward when people carry something Sanskrit has generated or preserved. They may carry a word, an atom and its generated family, a directional operator, a sound arrangement, a method of grammatical analysis, or an entire discipline. Traders, teachers, physicians, astronomers, translators, and migrating communities carry different parts of that architecture along different routes. Chapter 20 follows those carriers and the surviving records of their movement.[NOTE: buddhist-asia-radiance]
 
-Each carrier could leave a different kind of Sanskritic trace. A physician or astronomer could carry technical words and methods. A teacher could carry the engineered sound-system, grammar, and textual disciplines. One community might adopt a few words. Another might learn patterns of pronunciation or grammatical analysis while continuing to speak its own language. The pyramid sees the resulting similarities and invents an imaginary ancestor. The Radiance Thesis examines how the preserved calibrant reached each speech community and what that community received.
+The receiving community does not have to abandon its own language. Its speakers can learn from Sanskrit and then express what they received through their own sounds, grammar, and habits of speech. Language contact can transmit vocabulary, pronunciation, sentence patterns, and methods of analysis.[NOTE: thomason-kaufman-1988] Contact with Sanskrit adds one important fact: the source is an engineered calibrant whose own architecture remains available for comparison.
 
-Language contact can change more than vocabulary. Sustained contact can also transmit patterns of pronunciation, sentence construction, and grammatical analysis.[NOTE: thomason-kaufman-1988] Those categories usually describe contact among naturally changing languages. They do not describe trained carriers teaching an engineered sound-grid, a generative vocabulary, and an analytical method while the receiving community continues to speak its own language.
+This book calls that encounter **calibrant contact**. Radiance names the outward movement that brings Sanskrit to the encounter. The receiving mind retains something from that encounter as **बीज (*bīja*)**, a seed. **Vivimorphosis** begins when the receiving language gives that seed a form of its own. The resulting word, pattern, or method is a **प्रतिबिम्ब (*pratibimba*)**, a reflection of Sanskrit reshaped inside another language.
 
-This book calls that process **calibrant contact**. The receiving language does not become Sanskrit. It produces a **प्रतिबिम्ब (*pratibimba*)**: a reflection reshaped by its own mouth, inherited words, and habits of speech.
+The five terms describe successive parts of the same movement:
 
-Constructed languages exist, and natural languages influence one another constantly. Sanskrit remains a category of one because it combines engineered origin, generative architecture, distributed calibration, Vedic measure, and civilizational continuity.
+> **Sanskrit's radiance → calibrant contact → बीज (*bīja*) → vivimorphosis → प्रतिबिम्ब (*pratibimba*)**
 
-The *mother* family becomes clear:
+Chapter 12 §12.9 explains what happens at the boundary between Sanskrit and the receiving language. This section follows what happens afterward. The reflection can continue changing and generating inside its new language, while Sanskrit preserves the form or architecture from which the movement began.
+
+![Figure 19.6 — Radiance Falsified as Ancestry. Sanskrit reaches other speech communities through real carriers. Each community produces its own reflection; the pyramid gathers those reflections and deliberately presents PIE as their imaginary parent.](figures/pie_in_sky/radiance_falsified_as_ancestry.svg){#fig:ch19-radiance-ancestry width=100%}
+
+### Words and Atoms Become Seeds
+
+The *mother* family shows those five parts in one familiar example:
 
 > **⟪मा⟫ (*mā*, *dhātuḥ* "to measure") →**  
 > **मातृ (*mātṛ*, *śabda* — "the measurer, mother") →**  
@@ -205,11 +203,11 @@ The *mother* family becomes clear:
 >
 > *atom → molecule → seed → sprout — life begins*
 
-The chain just traced is *Pratibimba* operating through **vivimorphosis** — an engineered Sanskrit *śabda* becoming an organic *apaśabda* in a contact language across thousands of years of *apabhraṃśa*. Chapter 12 §12.9 develops the three-stage mechanism. The **शब्द (*śabda*)** remains an inorganic molecule on the calibrant's side. A non-Sanskrit listener receives that molecule as **बीज (*bīja*)**, a seed retained in the mind. When the listener expresses it through the sounds and habits of the receiving language, the seed becomes **अपशब्द (*apaśabda*)**, an organic form that can change and generate inside that language. Indo-European philology begins with these resulting *apaśabdas* and treats them as descendants of a reconstructed ancestor.
+The *mother* family applies the movement established in Chapter 12. Sanskrit provides the atom and the generated molecule. A receiving language gives the seed its own sound-form, and that form begins an organic life as an **अपशब्द (*apaśabda*)**. Indo-European philology begins with the resulting forms and treats them as descendants of a reconstructed ancestor.
 
-![Figure 19.6 — The Vivimorphosis of ⟪स्था⟫ (*sthā*). From engineered Sanskrit molecules to an organic tree in the receiving languages.](figures/pie_in_sky/stha_vivimorphosis.svg){#fig:ch19-stha-vivimorphosis width=100%}
+![Figure 19.7 — The Vivimorphosis of ⟪स्था⟫ (*sthā*). From engineered Sanskrit molecules to an organic tree in the receiving languages.](figures/pie_in_sky/stha_vivimorphosis.svg){#fig:ch19-stha-vivimorphosis width=100%}
 
-Figure 19.6 keeps the category boundary visible. The hexagons on the left are engineered Sanskrit molecules built from ⟪स्था⟫ (*sthā*). The tree begins only after those molecules enter receiving languages and take organic life there. Its trunk and branches belong to the receiving side; they do not depict Sanskrit's architecture.
+Figure 19.7 keeps the category boundary visible. The hexagons on the left are engineered Sanskrit molecules built from ⟪स्था⟫ (*sthā*). The tree begins only after those molecules enter receiving languages and take organic life there. Its trunk and branches belong to the receiving side; they do not depict Sanskrit's architecture.
 
 The same pattern appears in *devaḥ*:
 
@@ -235,13 +233,15 @@ The ⟪स्था⟫ and ⟪दिव्⟫ families are part of a much larger
 
 Greek, Latin, and Germanic received these seeds and used them to generate new words and compounds. Each family continued to grow through its own sounds, affixes, and habits, while the semantic reach of the Sanskrit atom remained recognizable across the canopy. Vivimorphosis therefore explains both sides of the contact: Sanskrit's radiance endows the receiving language, and the receiving language turns that endowment into organic growth.
 
-The PIE account reverses the direction shown in Figure 19.6. It begins with organic forms in the receiving languages, groups their correspondences, and reconstructs a botanical parent behind them. The pyramid then reads those vivimorphosed descendants as evidence for that parent and makes Sanskrit descend from the reconstruction. Through that reversal, the engineered source becomes one daughter branch beneath an imaginary ancestor assembled from reflected forms.
+### The Pyramid Reverses the Movement
+
+The PIE account reverses the direction shown in Figures 19.6 and 19.7. It begins with organic forms in the receiving languages, groups their correspondences, and reconstructs a botanical parent behind them. The pyramid then reads those vivimorphosed descendants as evidence for that parent and makes Sanskrit descend from the reconstruction. Through that reversal, the engineered source becomes one daughter branch beneath an imaginary ancestor assembled from reflected forms.
 
 Both accounts examine the same correspondences. The descent account interprets them as inheritances from an unrecorded parent, while the calibrant account traces them outward from a recorded Sanskrit atom and the molecules it generates. Those directions also produce an evidentiary difference. The calibrant account begins with an operating architecture that remains available for examination; the descent account begins with a reconstructed form inferred from the correspondences it is then used to explain.
 
 ### A Repeatable Radiance Map
 
-Figure 19.6 showed how vivimorphosis carried molecules built from ⟪स्था⟫ into receiving languages, where they became botanical. The same analysis can be repeated for other Sanskrit atoms. The **Sanskrit Radiance Mapping Project** begins with a starred PIE image, places every recorded form beside the Sanskrit family, and then compares their sounds and meanings through Indic methods.
+Figure 19.7 showed how vivimorphosis carried molecules built from ⟪स्था⟫ into receiving languages, where they became botanical. The same analysis can be repeated for other Sanskrit atoms. The **Sanskrit Radiance Mapping Project** begins with a starred PIE image, places every recorded form beside the Sanskrit family, and then compares their sounds and meanings through Indic methods.
 
 The yoke family provides a compact demonstration:
 
@@ -257,6 +257,23 @@ The yoke family provides a compact demonstration:
 The Sanskrit row contains the recorded atom **⟪युज्⟫ (*yuj*)** and a generated family whose internal relations remain visible. The Veda already uses **युञ्जन्ति (*yuñjanti*, "they yoke")** in Ṛgveda 1.6.1, **युगा (*yugā*, "the yokes")** in 10.101.3, and **युक्त (*yukta*, "yoked")** in 10.102.9. These forms display the closing **ज, ग,** and **क (*j, g,* and *k*)** within the same semantic family. The *varṇamālā* supplies the physical coordinates for comparing those sounds, while Sanskrit's specified vowel relation connects **उ (*u*)** with **ओ (*o*)** in **योग (*yoga*)**. Pāṇini later documents the Sanskrit operations; the Vedic forms show that he did not create them.[NOTE: yuj-bhr-radiance-method]
 
 The complete procedure first renders each receiving form approximately in Devanagari. It then maps consonants by **स्थान (*sthāna*)** and **प्रयत्न (*prayatna*)** before examining vowels and meanings separately. Pāṇini, Hemacandra, a *Prātiśākhya*, or another Indic source enters the analysis where its documentation applies. A single family demonstrates the procedure. Repeated families and plausible routes of contact establish the direction in which Sanskrit's radiance traveled. Appendix Part 1 provides the reusable research record and applies it to ⟪युज्⟫, ⟪भृ⟫, ⟪जन्⟫, and further atoms.
+
+### Operators Traveled with the Atoms
+
+The word families demonstrate that Sanskrit atoms reached other languages. The *upasargas* extend the analysis beyond finished words. They allow the Radiance Thesis to test whether a receiving language also acquired a reusable operator.
+
+The pyramid places an imaginary particle, **\*h₂epo**, above Sanskrit **अप (*apa*)**, Greek **ἀπό (*apó*)**, and Latin ***ab / abs***. All three recorded forms express movement away or from something. Their uses also extend beyond one stored word:
+
+| Language or account | Form | What the form does |
+|---|---|---|
+| Sanskrit | **अप (*apa*)** | redirects an action away, off, or apart |
+| Greek | **ἀπό (*apó*)** | operates with verbs and as a separate preposition |
+| Latin | ***ab / abs*** | operates as a preposition and inside verbal compounds |
+| PIE image | **\*h₂epo** | serves as the imaginary parent assigned to the three recorded operators |
+
+Sanskrit preserves **अप** inside a complete operating system. It can join **⟪गम्⟫ (*gam*, to go)** as **अपगच्छति (*apagacchati*)**, goes away; **⟪नी⟫ (*nī*, to lead)** as **अपनयति (*apanayati*)**, leads or removes away; and **⟪हृ⟫ (*hṛ*, to carry)** as **अपहरति (*apaharati*)**, carries away. The operator changes the direction of several recorded atoms while remaining recognizable in every molecule.
+
+Greek preserves both mobile and attached preverbs, while Latin preserves the directional element as a preposition and in compounds.[NOTE: upasarga-radiance-apa] The Sanskrit Radiance Mapping Project repeats this comparison across **परि (*pari*), प्र (*pra*), उप (*upa*), अभि (*abhi*)**, and the rest of the operator inventory. It compares the complete Sanskrit architecture with what each receiving language retains. Appendix Part 1 presents the pilot record and the larger research test.
 
 ## 19.8 PIE Is a Lie — *Asura*
 
@@ -286,7 +303,7 @@ The vivimorphosis at the contact-language boundary preserves the breath-bearer, 
 
 The *apaśabda* *ahura* anchors the central theological vocabulary of the Zoroastrian tradition. The semantic transformation that accompanies the phonetic one — what *asura* means in the Sanskrit source and what *ahura* comes to mean in the Avestan recipient, and how the suric / asuric distinction develops into the cosmic backdrop for the political-architectural argument — is taken up in a forthcoming volume in the ***Second Shanti*** series. What this section isolates is the phonetic vivimorphosis: the same engineered form, transmitted into a contact language as the *Pratibimba* the Iranian religious imagination has preserved throughout its tradition.
 
-[FIGURE 19.7: The pyramid's PIE reconstructions and the vivimorphosis chains shown side by side for *deva* and *asura*. The pyramid's etymology, Sanskrit *dhātu* / *śabda*, receiving-language *bīja*, and contact-language *apaśabda* across the rows.]
+[FIGURE 19.8: The pyramid's PIE reconstructions and the vivimorphosis chains shown side by side for *deva* and *asura*. The pyramid's etymology, Sanskrit *dhātu* / *śabda*, receiving-language *bīja*, and contact-language *apaśabda* across the rows.]
 
 | Stage | *deva* chain | *asura* chain |
 |---|---|---|

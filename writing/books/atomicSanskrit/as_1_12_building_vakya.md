@@ -112,6 +112,8 @@ The atom remains visible through the redirection, which is what makes the molecu
 
 ![Figure 12.4 — Head-bonds redirect ⟪कृ⟫ (*kṛ*): *pra-*, *vi-*, and *sam-* produce different molecular territories.](figures/building_vakya/head_bonds.svg){#fig:building-vakya-head-bonds width=100%}
 
+Chapter 19 §19.7 returns to the same architecture outside Sanskrit. Its compact **अप (*apa*) / ἀπό (*apó*) / *ab*** comparison tests whether radiance carried a reusable directional operator into Greek and Latin along with the atoms that operator could redirect.
+
 ## 12.5 Tail-Bonds: How *Pratyayāḥ* Stabilize the Molecule
 
 The second bonding direction is the tail-bond. Sanskrit calls it **प्रत्ययः (*pratyayaḥ*)**.
@@ -274,7 +276,7 @@ These rows classify linguistic states. A form can move from one classification t
 
 A constructed project can reach botanical behavior by another route when its speakers enlarge and change the language through communal use, as Esperanto did. **Vivimorphosis** differs from all of these because Sanskrit itself does not move into another quadrant. A particular Sanskrit *śabda* crosses into a natural language, becomes a *bīja*, and takes organic form there while the calibrated Sanskrit molecule remains available in Sanskrit.
 
-Vivimorphosis also explains how Sanskrit's radiance enriches other languages. Speakers can absorb a Sanskrit atom, molecule, compound, technical term, or conceptual category, then use that seed to produce forms that fit their own mouth and grammar. Greek and Latin provide the extended cases in Chapter 19, and Chapter 20 follows the later waves that carried Sanskrit's radiance into other linguistic worlds. The receiving languages remain themselves, yet the seed expands what their speakers can say.
+Vivimorphosis also explains how Sanskrit's radiance enriches other languages. Speakers can absorb a Sanskrit atom, molecule, compound, technical term, conceptual category, or analytical method, then use that seed to produce forms that fit their own mouth and grammar. Chapter 19 §19.7 calls the encounter **calibrant contact** and applies the complete Radiance Thesis to Greek and Latin. Chapter 20 follows the people and communities who carried different parts of Sanskrit into other linguistic worlds. The receiving languages remain themselves, yet the seed expands what their speakers can say.
 
 **The pressures of language explain the similarities. They cannot explain the architecture.**
 

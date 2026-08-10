@@ -124,6 +124,14 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 **Book-coined English, repurposed engineering vocabulary.** Calibrant: a reference standard whose stability allows other measurements to be made against it. Sanskrit functions as the linguistic calibrant for the subcontinental sound-field and the Indic civilizational continuum. The *calibration matrix* denotes the architecture that preserves the calibration across generations (Chapters 13–15).
 
+### **Radiance Thesis**
+
+**Book-coined analytical framework.** The Radiance Thesis explains how Sanskrit reached other languages without making Sanskrit descend from an imaginary parent. Real carriers take Sanskrit words, atoms, operators, sound arrangements, or analytical methods into another speech community. The receiving language reshapes what it receives and produces a *Pratibimba*. Chapter 19 §19.7 states the complete movement; Chapter 20 follows the carriers.
+
+### **calibrant contact**
+
+**Book-coined English.** The encounter in which another speech community receives material from Sanskrit as an engineered calibrant. Radiance brings Sanskrit to the encounter. The receiving mind retains a *bīja*, vivimorphosis reshapes it inside the receiving language, and the resulting form or method becomes a *Pratibimba*. The receiving language remains itself.
+
 ### **PASS — Principle of Architectural Selection and Scope**
 
 **Book-coined English.** The analytical principle used to explain why Sanskrit gives a sound, form, or operation one scope rather than another. The analysis identifies the resource's **contribution**, the **load** created by duplication or collision, and the **bounding support** that can contain that load. It then identifies the appropriate **scope**: Included in the reusable architecture, Restricted to a stated condition, Vaidika, Lineage-Bounded, or Excluded from independent use. Chapter 9 introduces PASS through the sonomer grid; Chapter 16 applies it to the two Sanskrit domains; Appendix Part 8 preserves the technical profiles.
@@ -134,11 +142,11 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **orbital** / **drifting** (with **Sanskritic gravity** and **radiance**)
 
-**Book-coined English, the two kinds of natural language.** While both terms name change away from an engineered form, their relation to the calibrant separates them. An **orbital** language remains calibrant-anchored, moving from the standard (*apabhraṃśa*) but staying in orbit as **Sanskritic gravity** pulls it back toward a form it can still be measured against (the Indic languages anchored to or descended from Sanskrit — Marathi, Hindi, Bengali). A **drifting** form operates outside that orbit, moving without bound since no center anchors its movement (English, and the far cognates). **Radiance** constitutes the outward face of the same Sun, ensuring that as Wave 1 and Wave 2 carriers take Sanskritic light beyond the orbit, receiving languages preserve reflections (*Pratibimba*) so that where a ray lands, a tree grows—making the botanical account true there and only there. Both orbital and drifting sit inside the *prakṛti* category, distinct from the *calibrant* (Sanskrit, the standard) and from *codified* languages (drift arrested by external authority). The pair cross-cuts the *calibrand* / *Pratibimba* classification: a far calibrand (Greek, Latin, Persian) drifts, while a Sanskrit-anchored Indic language orbits, though both preserve reflections of the calibrant. *Diverging* remains available as technical backup for *orbital*. Introduced in Chapter 6 §6.3 and §6.7; the radiance side developed in Chapter 19; placed in the typology in Chapter 14 §14.5.
+**Book-coined English.** These terms describe a language's continuing relationship with Sanskrit. An **orbital** language changes while remaining close enough to Sanskrit for speakers to compare newer forms with the calibrant. Sanskritic gravity names that continuing relationship among languages of the Indian subcontinent. A **drifting** form has moved beyond active calibration and continues changing within another language. **Radiance** explains how Sanskrit material reached that more distant language before the drifting form began its own history. Chapter 6 introduces orbit and drift; Chapter 19 develops radiance and *Pratibimba*.
 
 ### **vivimorphosis**
 
-**Book-coined English.** The transition in which an engineered Sanskrit form crosses the calibrant boundary and acquires organic behavior inside a natural language. The term combines Latin *vivus* (alive) with Greek *morphōsis* (shaping or formation). From Sanskrit's side, **अपभ्रंश (*apabhraṃśa*)** describes the received form's distance from the calibrated molecule; from the receiving language's side, **vivimorphosis** describes what the new language grows from that seed. Sanskrit itself remains engineered and calibrated. Chapters 12 and 18 develop the mechanism from **शब्द (*śabda*)** through **बीज (*bīja*)** to **अपशब्द (*apaśabda*)**.
+**Book-coined English.** The transition in which an engineered Sanskrit form crosses the calibrant boundary and acquires organic behavior inside a natural language. The term combines Latin *vivus* (alive) with Greek *morphōsis* (shaping or formation). From Sanskrit's side, **अपभ्रंश (*apabhraṃśa*)** describes the received form's distance from the calibrated molecule; from the receiving language's side, **vivimorphosis** describes what the new language grows from that seed. Sanskrit itself remains engineered and calibrated. Chapter 12 develops the mechanism from **शब्द (*śabda*)** through **बीज (*bīja*)** to **अपशब्द (*apaśabda*)**; Chapter 19 applies it inside the Radiance Thesis.
 
 ### **revivification**
 

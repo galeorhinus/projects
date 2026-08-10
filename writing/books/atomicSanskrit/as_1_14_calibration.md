@@ -180,7 +180,7 @@ Because there is a further structural distinction, the difference goes beyond te
 
 Because a line of transmission can preserve a text while a matrix is required to preserve a system, the word "matrix" earns its place here. Since the Vedas serve as the primary calibrant while *vyākaraṇam*, *dhātavaḥ*, *gaṇāḥ*, *upasargāḥ*, *pratyayāḥ*, *varṇāḥ*, and *chandas* function as the operating architecture, the corpus remains fixed while the engine remains alive.
 
-The three benchmark traditions are not Sanskrit's independent peers. They are Sanskrit's ***प्रतिबिम्ब (Pratibimba)*** in the preservation domain, refracted through the calibrant-contact transmission identified as Wave 2 propagation. The parallel begins here; the propagation mechanics are established later (Chapter 20 §20.2).
+The three benchmark traditions are not Sanskrit's independent peers. They are Sanskrit's ***प्रतिबिम्ब (Pratibimba)*** in the preservation domain. Chapter 19 §19.7 calls the encounter with Sanskrit **calibrant contact**, while Chapter 20 §20.2 follows the people and institutions through which the analytical and preservation methods traveled.
 
 ## 14.7 The Engineering Precedes Pāṇini
 

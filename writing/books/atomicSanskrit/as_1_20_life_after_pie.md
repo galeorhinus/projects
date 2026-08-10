@@ -2,11 +2,11 @@
 
 With the imaginary ancestor removed, the view brightens.
 
-Sanskrit’s radiance moved outward in waves. Wherever that radiance reached, speech bloomed: sometimes as structure, sometimes as method, sometimes as lived substrate, and now, if the carriers become worthy of it, as conscious re-entry into the calibrant.
+Sanskrit’s radiance moved outward in waves. Different carriers took different parts of Sanskrit with them. Some carried words and technical knowledge. Some carried the sound architecture, grammar, and methods of analysis. Entire communities carried living Indic languages into new regions. Contemporary readers can now carry a conscious account of the architecture itself.
 
 Wave 1 radiated Sanskritic structure outward before Pāṇini, through Vedic-trained experts. Wave 2 radiated the science of grammar outward after Pāṇini, through methodological imitation. The Diasporic Wave bore Indic substrate outward through communities rather than experts. Wave 3 is contemporary: the Sun seen again, the architecture restated, and the radiance taken up by those who have relearned enough to bear it truthfully.
 
-Where the pyramid imagines populations carrying a mutating ancestor, the Radiance Thesis follows experts and communities carrying Sanskritic structure, method, and vocabulary. Chapter 19 ended with six receiving-language canopies grown from compact Sanskrit atoms. This chapter follows the carriers whose work allowed such trees to grow where Sanskrit’s light landed.
+Chapter 19 defined the successive parts of this movement: radiance brings Sanskrit outward; calibrant contact creates the encounter; the receiving mind retains a *bīja*; vivimorphosis reshapes that seed; and a *Pratibimba* appears inside the receiving language. Where the pyramid imagines populations carrying a mutating ancestor, the Radiance Thesis follows experts and communities carrying Sanskritic structure, method, and vocabulary. This chapter follows those carriers and the routes they traveled.
 
 Life after PIE begins by explaining Sanskrit through its own architecture rather than through an invented ancestor.
 
@@ -14,7 +14,7 @@ Life after PIE begins by explaining Sanskrit through its own architecture rather
 
 The first question after PIE is: what did Sanskrit do once it existed?
 
-PIE is built on the premise of population descent: a people migrates with a language, and the language mutates into descendants. The Calibrant Radiance Thesis replaces that premise with expert transmission. A Sanskrit-trained *ārya*, expert in *vyākaraṇam*, enters another linguistic world that wants to participate in the radiance; pedagogical mastery gives the carrier credibility, and a receiving lineage provides continuity. A *guru* and a lineage hungry for what the *guru* possesses are sufficient.
+PIE is built on the premise of population descent: a people migrates with a language, and the language mutates into descendants. The Radiance Thesis replaces that premise with expert transmission. A Sanskrit-trained *ārya*, expert in *vyākaraṇam*, enters another linguistic world that wants to participate in the radiance; pedagogical mastery gives the carrier credibility, and a receiving lineage provides continuity. A *guru* and a lineage hungry for what the *guru* possesses are sufficient.
 
 ### Lineages Remember the Carriers
 
@@ -92,7 +92,7 @@ Later Tibetan and Indian translation teams compiled the **महाव्यु�
 
 **Arabic** — proposed transmission through the Basran intellectual world, 8th c. CE. Sibawayh's *Al-Kitāb* became foundational to Arabic grammatical science.[NOTE: sibawayh-al-kitab] Sibawayh worked in the early Abbasid Basran milieu while translation programs carried Indic mathematical, medical, and philosophical knowledge into Arabic. *Al-Kitāb* also shares several analytical features with Pāṇinian methodology: formal abbreviation, substitution-based analysis, and coordinated treatment of sound and form. The convergence of contact, timing, and method makes transmission a strong proposal, even though no surviving document records a direct lesson.
 
-[FIGURE 20.2: The Wave 2 Catalog of Methodological Metatypy — six rows (Greek / Latin / Tibetan / Arabic / Hebrew / Chinese-selective-reception); four columns (case type: direct / transitive / selective; approximate date; receiving-lineage text(s); transmission character).]
+![Figure 20.2 — Six Routes of Analytical Radiance. The receiving records differ in strength and form: Tibetan preserves a teaching journey; Chinese preserves an adapted sound matrix; Latin and Hebrew preserve intermediaries; Greek and Arabic preserve contact settings and analytical resemblance.](figures/life_after_pie/analytical_radiance_routes.svg){#fig:ch20-analytical-radiance-routes width=100%}
 
 The routes differ in evidentiary strength, yet their direction is coherent. Tibetan preserves a teaching journey. Chinese and Japanese preserve Sanskritic sound-analysis adapted to local needs. Latin and Hebrew preserve known intermediaries. Greek and Arabic preserve contact environments and analytical resemblance strong enough to support a transmission proposal.
 
@@ -154,7 +154,7 @@ Wave 3 takes four recognitions into global discourse:
 
 The epilogue turns that responsibility into an invitation.
 
-[FIGURE 20.3: The Calibrant Waves and the Diasporic Wave — Wave 1 as pre-Pāṇinian corpus-form transmission (Saptaṛṣi roster + Mitanni anchor); Wave 2 as post-Pāṇinian methodological transmission (Greek / Latin / Tibetan / Arabic / Hebrew / Chinese-selective-reception, alongside Buddhist lexical and phonological transmission across Asia); Wave 3 as contemporary restatement (the engineered Sanskrit thesis); Diasporic Wave as demographic carrier of lived Indic substrate (Romani + four arcs of modern diaspora); Wave 3 conditional on diasporic relearning.]
+![Figure 20.3 — The Three Calibrant Waves and the Diasporic Wave. The three calibrant waves carry corpus, method, and conscious restatement. The separate diasporic wave carries living Indic languages, memory, and practice through whole communities.](figures/life_after_pie/calibrant_and_diasporic_waves.svg){#fig:ch20-calibrant-diasporic-waves width=100%}
 
 Serving strictly as an imaginary ancestor, PIE obscured the actual evidence. Removing this construct reveals not a descendant waiting for a parent, but the architecture itself, deployed across three distinct stages: first as the Vedic corpus, second as Pāṇini's portable decoding, and third as a contemporary restatement.
 

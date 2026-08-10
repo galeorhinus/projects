@@ -80,7 +80,7 @@ Figure 2.2 places examples inside the four categories and shows two ways a langu
 
 **Vivification** occurs when an engineered language enters ordinary communal use and begins changing with its speakers. Esperanto illustrates that movement. **Revivification** occurs when speakers return a petrified language to daily and childhood use. Modern Hebrew provides the clearest example; Chapter 13 §13.5 follows that process, while Appendix Part 9 supplies the comparative evidence.
 
-**Vivimorphosis** describes a different movement. Sanskrit itself remains inside its generative architecture while one of its engineered forms enters a natural language and acquires botanical life there. Chapter 12 §12.9 follows that movement from **शब्द (*śabda*)** through **बीज (*bīja*)** to **अपशब्द (*apaśabda*)**.
+**Vivimorphosis** describes a different movement. Sanskrit itself remains inside its generative architecture while one of its engineered forms enters a natural language and acquires botanical life there. Chapter 12 §12.9 follows that movement from **शब्द (*śabda*)** through **बीज (*bīja*)** to **अपशब्द (*apaśabda*)**. Chapter 19 §19.7 places this boundary crossing inside the larger Radiance Thesis.
 
 Esperanto's purpose was equal communication across nations. Sanskrit is *saṃskṛti* in operation: the radiant, calibrant, and fractal architecture of Sanātan. **धर्म (*dharma*)** directs that architecture toward the welfare of all beings; stories preserve memories of balance, failure, and recovery; and distributed caretakers keep the measure available when society falls away from it. Linguistic rules and vocabulary form one layer within that sustaining order. That purpose has inspired millions of people across thousands of years.
 

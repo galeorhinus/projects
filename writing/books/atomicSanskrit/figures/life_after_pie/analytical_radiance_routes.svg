@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4.75in" height="3.05in" viewBox="0 0 1200 770">
+  <rect width="1200" height="770" fill="#f7f6f2"/>
+  <style>
+    .title { font: 700 42px "EB Garamond", serif; fill: #292724; }
+    .subtitle { font: italic 27px "EB Garamond", serif; fill: #6a6258; }
+    .name { font: 700 31px "EB Garamond", serif; fill: #292724; }
+    .kind { font: 600 26px "EB Garamond", serif; fill: #8a352a; }
+    .body { font: 26px "EB Garamond", serif; fill: #403b35; }
+    .card { stroke-width: 2.5; rx: 8; }
+  </style>
+  <text x="600" y="57" text-anchor="middle" class="title">Six Routes of Analytical Radiance</text>
+  <text x="600" y="96" text-anchor="middle" class="subtitle">Each receiving tradition preserves a different part of the route.</text>
+  <g transform="translate(45 130)">
+    <rect class="card" width="540" height="175" fill="#e8e1cf" stroke="#9a7d3c"/>
+    <text x="26" y="40" class="name">Tibetan</text><text x="514" y="40" text-anchor="end" class="kind">teaching journey</text>
+    <text x="26" y="82" class="body">Study in India; grammar composed after return</text>
+    <text x="26" y="120" class="body">Sum cu pa · Rtags kyi 'jug pa</text><text x="26" y="154" class="body">7th century CE</text>
+  </g>
+  <g transform="translate(615 130)">
+    <rect class="card" width="540" height="175" fill="#e1e8df" stroke="#70856d"/>
+    <text x="26" y="40" class="name">Chinese</text><text x="514" y="40" text-anchor="end" class="kind">selective reception</text>
+    <text x="26" y="82" class="body">Siddhaṃ learning and the varṇamālā</text>
+    <text x="26" y="120" class="body">Sound coordinates adapted into rime tables</text><text x="26" y="154" class="body">Sustained Buddhist contact</text>
+  </g>
+  <g transform="translate(45 325)">
+    <rect class="card" width="540" height="175" fill="#e5e2dd" stroke="#77736d"/>
+    <text x="26" y="40" class="name">Latin</text><text x="514" y="40" text-anchor="end" class="kind">Greek intermediary</text>
+    <text x="26" y="82" class="body">Greek categories and methods applied to Latin</text>
+    <text x="26" y="120" class="body">Ars Maior · Institutiones Grammaticae</text><text x="26" y="154" class="body">4th–6th centuries CE</text>
+  </g>
+  <g transform="translate(615 325)">
+    <rect class="card" width="540" height="175" fill="#e5e2dd" stroke="#77736d"/>
+    <text x="26" y="40" class="name">Hebrew</text><text x="514" y="40" text-anchor="end" class="kind">Arabic intermediary</text>
+    <text x="26" y="82" class="body">Arabic methods applied to Hebrew material</text>
+    <text x="26" y="120" class="body">Andalusian analytical lineages</text><text x="26" y="154" class="body">10th century CE onward</text>
+  </g>
+  <g transform="translate(45 520)">
+    <rect class="card" width="540" height="175" fill="#eee0dc" stroke="#9a5147"/>
+    <text x="26" y="40" class="name">Greek</text><text x="514" y="40" text-anchor="end" class="kind">proposed route</text>
+    <text x="26" y="82" class="body">Long Greek–Indic contact environment</text>
+    <text x="26" y="120" class="body">Téchnē Grammatikē and analytical resemblance</text><text x="26" y="154" class="body">c. 100 BCE</text>
+  </g>
+  <g transform="translate(615 520)">
+    <rect class="card" width="540" height="175" fill="#eee0dc" stroke="#9a5147"/>
+    <text x="26" y="40" class="name">Arabic</text><text x="514" y="40" text-anchor="end" class="kind">proposed route</text>
+    <text x="26" y="82" class="body">Indic knowledge moving through Abbasid Basra</text>
+    <text x="26" y="120" class="body">Al-Kitāb and analytical resemblance</text><text x="26" y="154" class="body">8th century CE</text>
+  </g>
+</svg>

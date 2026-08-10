@@ -167,13 +167,14 @@ duplicating every caption. The live figure calls remain the detailed register.
 | Chapter 14 | 2 | `figures/calibration/` | Figures 14.1 and 14.3; Figure 14.2 remains a placeholder. |
 | Chapter 16 | 1 | `figures/vaidika_laukika/` | Figure 16.1 shows the shared svara architecture under two domain permissions. |
 | Chapter 17 | 1 | `figures/adivadya/` | Mūrdhanya flex. |
-| Chapter 19 | 6 | `figures/pie_in_sky/` | Figures 19.1–19.6; Figure 19.7 remains a placeholder. |
+| Chapter 19 | 7 | `figures/pie_in_sky/` | Figures 19.1–19.7; Figure 19.8 remains a placeholder. Figure 19.6 presents the complete Radiance mechanism. |
+| Chapter 20 | 2 | `figures/life_after_pie/` | Figures 20.2 and 20.3 summarize analytical routes and the four transmission waves; Figure 20.1 remains a placeholder. |
 | Appendix Part 3 | 4 | `figures/audiography/` | Figures A.5–A.8; A.4 and A.9 remain placeholders. |
 | Appendix Part 4 | 7 | `figures/superset/` | Figures A.4.1–A.4.7. |
 | Appendix Part 8 | 8 | `figures/vaidika_laukika/` | Designed-variation figure series. |
 | Reference Part 6 | 3 | `figures/building_dhatuh/`, `figures/ganah/` | Intentional reuse of statistical figures. |
 
-Total deployed references in this reconciliation: **103**.
+Total deployed references in this reconciliation: **106**.
 
 ## P3 — Parked or Cut Historical Concepts
 
@@ -203,7 +204,7 @@ a clear visual need.
    asset is **Figure 18.1**, `figures/wrong_question/architectural_test.svg`.
 2. The former queue's proposed Figures 19.2 and 19.3 are obsolete. Those
    numbers now belong to deployed PIE-tree and orbit/radiance figures. The
-   remaining comparison placeholder is **Figure 19.7**.
+   remaining comparison placeholder is **Figure 19.8**.
 3. Appendix figure labels must preserve the appendix-part hierarchy. Do not
    collapse Figure A.4 in Appendix Part 3 into the A.4.1–A.4.7 family owned by
    Appendix Part 4.

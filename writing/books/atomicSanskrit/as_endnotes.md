@@ -4431,6 +4431,20 @@ Sources: *Ṛgveda* 1.6.1, 10.101.3, 10.102.9, and 7.87.4; *Dhātupāṭha*, **�
 
 ---
 
+### `upasarga-radiance-apa`
+
+**Short:** Sanskrit **अप (*apa*)**, Greek **ἀπό (*apó*)**, and Latin ***ab / abs*** provide the pilot case for extending the Radiance Mapping Project from atoms to directional operators. The conventional comparison places reconstructed **\*h₂epo** above the three forms. The book begins instead from the recorded Sanskrit operator and tests whether the receiving languages preserve parts of its repeated behavior.
+
+**Deployments:** Chapter 19 §19.7, “Operators Traveled with the Atoms”; Appendix Part 1 §1.6, “Operators in Motion”; Epilogue, “Where the Nectar Rises.”
+
+The Sanskrit record includes **अपगच्छति (*apagacchati*)**, **अपनयति (*apanayati*)**, and **अपहरति (*apaharati*)**, which join **अप** with **⟪गम्⟫, ⟪नी⟫,** and **⟪हृ⟫** while retaining the direction away or off. Pāṇini 1.4.59, **उपसर्गाः क्रियायोगे (*upasargāḥ kriyāyoge*)**, documents the functional category when the listed element joins an action; the examples establish use rather than invention by Pāṇini.
+
+The Greek and comparative claims used in the manuscript are deliberately narrow. Ancient Greek **ἀπό** functions as a preposition and preverb. Research on Homeric Greek and Vedic Sanskrit records both mobile and attached preverbs, as well as multiple-preverb constructions. The Latin ***ab / abs*** functions as a preposition, and ***ab-*** appears in verbal compounds. The body does not claim that these shared behaviors alone establish historical direction. The project repeats the comparison across the operator inventory, complete molecules, sound paths, meanings, and plausible routes of contact.
+
+The conventional PIE account and the comparative preverb evidence are documented in: Chiara Zanchi, *Multiple Preverbs in Ancient Indo-European Languages: A Comparative Study on Vedic, Homeric Greek, Old Church Slavic, and Old Irish* (Narr Francke Attempto, 2019); the University of Würzburg project on Vedic local particles, [Projects — Chair of Comparative Philology](https://www.phil.uni-wuerzburg.de/en/vgsp/research/projects/); Thomas Olander, ed., *The Indo-European Language Family: A Phylogenetic Perspective* (Cambridge University Press, 2022), Sanskrit etymological material listing **\*h₂ep-ó**, Greek *apó*, and related forms; Liddell and Scott under Greek **ἀπό**; and [Lewis and Short under Latin *ab / abs*](https://atlas.perseus.tufts.edu/dictionaries/entry/urn%3Acite2%3Ascaife-viewer%3Adictionary-entries.atlas_v1%3Alat.ls.perseus-eng2-n4/). The exact Latin sound-history from **\*h₂epo** remains part of the research record rather than a settled premise of the body argument.
+
+---
+
 ### `agastya-sources`
 
 **Short:** The ***Agastya*** (अगस्त्य) lineage is documented across both northern and southern textual lineages: northern sources (*Ṛgveda* hymns 1.165–1.191 attributed to Agastya with Lopāmudrā; *Mahābhārata Vana Parva adhyāyas* 96–108 with the *Vindhya-bowing* episode; *Rāmāyaṇa* references in the *Araṇya Kāṇḍa*) and southern Tamil sources (the ***Agattiyam*** (अगत्तियम्) — first Tamil grammar attributed to Agastya, non-extant today but cited in *Tolkāppiyam* commentaries; the *Velvikkudi* and *Chinnamanoor* copper-plate inscriptions citing Agastya as priest, Tamil teacher, and Pandya-dynasty coronation-performer). Both lineages agree on north-to-south travel, teaching role, and foundational status — calibrant transmission as absorption, not replacement.
@@ -5153,7 +5167,7 @@ Source: Bybee 1985, *Morphology: A Study of the Relation between Meaning and For
 
 **Short:** The Western philological account projects Latin *deus* and Sanskrit *devaḥ* back to a reconstructed PIE **\*deiwós** ("deity") under **\*dyew-** ("to shine"); the book treats the shared "shine" semantics as reflections of the engineered Sanskrit calibrant rather than evidence of a vanished common ancestor.
 
-**Deployments:** Ch19 §19.7 (the *deva* chain); Figure 19.6.
+**Deployments:** Ch19 §19.7 (the *deva* chain); Figure 19.7.
 
 Source: Michiel de Vaan, *Etymological Dictionary of Latin and the Other Italic Languages* (Leiden: Brill, 2008), entries for *deus* / *dīus*; verify exact reconstruction and wording against the edition used for final citation.
 

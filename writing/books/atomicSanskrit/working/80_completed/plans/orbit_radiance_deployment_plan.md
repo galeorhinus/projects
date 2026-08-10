@@ -1,5 +1,7 @@
 # Orbit and Radiance Deployment Plan
 
+**Deployment update (2026-08-09):** Chapter 19 §19.7 now presents the complete Radiance sequence and Figure 19.6 shows how real transmission becomes imaginary ancestry. Chapter 20 follows the carriers through the three calibrant waves and the separate diasporic wave. Figure 6.1 continues to carry the Orbit argument, so the earlier optional Figure 6.3 is no longer required.
+
 Status: **DEPLOYED 2026-07-06** (commit series ending this date). Ch18 §18.5 The Recipe (with all four figures + five endnotes), §18.7 radiance paragraph, §18.9 rerun close, sections renumbered 18.5→18.6…18.8→18.9 with repo-wide cross-ref sweep; Ch6 §6.7 rebuilt as Orbit and Drift (seed already in §6.3); glossary entry rebuilt (orbital/drifting + gravity/radiance); Ch19 radiance sentence; Epilogue two-fields sentence. Remaining: Figure 6.3 decision (revised 6.1 may suffice); print-prep VERIFY flags in the five new endnotes.
 
 Purpose: replace or supplement the current **diverging / drifting** typology with a stronger image drawn from the book's eclipse spine: **Sanskrit as Sun**. Sanskrit has **gravity** and **radiance**. Its gravity holds Indic languages in orbit; its radiance travels outward through Wave 1 and Wave 2 carriers and leaves reflections in non-Indic contact languages.
@@ -194,7 +196,7 @@ Visual design:
 
 Caption draft:
 
-> Figure 18.x — Radiance Mistaken for Ancestry. Sanskritic radiance reaches receiving languages through carriers. The reflections are real; the parent reconstructed behind them is the pyramid's projection.
+> Figure 18.x — Radiance Falsified as Ancestry. Sanskritic radiance reaches receiving languages through carriers. The reflections are real; the pyramid deliberately presents its projected parent as their ancestor.
 
 ### Option D — Combined Orbit and Radiance Figure
 
@@ -433,4 +435,3 @@ Sanskrit needs no devices. The atom sits at the center, listed and glossed. The 
 - The "small internet celebrity" opener deliberately meets the reader where the Starkey-style wheels actually circulate; prune if the register reads too light for Ch18.
 - Move 7 (vowel) is compressed into one paragraph; expand with the kun-/kind cross-reference if the jan material lands in the same chapter.
 - Placement decision pending: rebuilt §18.5 vs new §18.5a; if placed before the current §18.5, the mātṛ dictionary-shift section becomes the first rerun of the named recipe.
-

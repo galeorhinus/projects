@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 1200 800" width="4.75in" height="3.167in" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="sun" cx="45%" cy="38%" r="68%">
+      <stop offset="0" stop-color="#fffdf6"/>
+      <stop offset="0.58" stop-color="#f1e5c7"/>
+      <stop offset="1" stop-color="#d7bf83"/>
+    </radialGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#5f574c"/>
+    </marker>
+    <marker id="arrowRed" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#7b2d26"/>
+    </marker>
+    <style>
+      .serif { font-family: 'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif; }
+      .dev { font-family: 'Adobe Devanagari', 'Noto Serif Devanagari', 'Kohinoor Devanagari', 'Devanagari MT', serif; }
+      .title { font-size: 39px; font-weight: 700; fill: #2b2b2d; }
+      .subtitle { font-size: 24px; font-style: italic; fill: #716b62; }
+      .head { font-size: 25px; font-weight: 700; fill: #2b2b2d; }
+      .body { font-size: 23px; fill: #403b35; }
+      .small { font-size: 23px; fill: #5f574c; }
+      .light { fill: #f8f6f1; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="800" fill="#f4f4f3"/>
+  <text x="600" y="55" text-anchor="middle" class="serif title">Radiance Falsified as Ancestry</text>
+  <text x="600" y="88" text-anchor="middle" class="serif subtitle">The transmission is real. The parent projected behind the reflections is imaginary.</text>
+
+  <rect x="35" y="145" width="325" height="340" rx="8" fill="#efe8d8" stroke="#8a795a" stroke-width="2.5"/>
+  <circle cx="200" cy="245" r="72" fill="url(#sun)" stroke="#9f8141" stroke-width="2.5"/>
+  <g stroke="#b18b36" stroke-width="3" stroke-linecap="round">
+    <line x1="200" y1="158" x2="200" y2="137"/><line x1="200" y1="332" x2="200" y2="353"/>
+    <line x1="113" y1="245" x2="92" y2="245"/><line x1="287" y1="245" x2="308" y2="245"/>
+    <line x1="139" y1="184" x2="124" y2="169"/><line x1="261" y1="306" x2="276" y2="321"/>
+    <line x1="261" y1="184" x2="276" y2="169"/><line x1="139" y1="306" x2="124" y2="321"/>
+  </g>
+  <text x="200" y="239" text-anchor="middle" class="serif head">SANSKRIT</text>
+  <text x="200" y="269" text-anchor="middle" class="serif small">recorded calibrant</text>
+  <text x="200" y="385" text-anchor="middle" class="serif small">atoms and generated families</text>
+  <text x="200" y="413" text-anchor="middle" class="serif small">operators and sound</text>
+  <text x="200" y="441" text-anchor="middle" class="serif small">architecture</text>
+  <text x="200" y="469" text-anchor="middle" class="serif small">grammar and analysis</text>
+
+  <path d="M350,270 C405,270 420,270 460,270" fill="none" stroke="#5f574c" stroke-width="4" marker-end="url(#arrow)"/>
+  <text x="405" y="248" text-anchor="middle" class="serif small">radiance</text>
+
+  <rect x="465" y="170" width="245" height="275" rx="8" fill="#e5e5e2" stroke="#7b7b78" stroke-width="2.5"/>
+  <text x="588" y="213" text-anchor="middle" class="serif head">REAL CARRIERS</text>
+  <circle cx="525" cy="275" r="27" fill="#88785e"/><path d="M486,355 Q525,306 564,355" fill="#88785e"/>
+  <circle cx="650" cy="275" r="27" fill="#88785e"/><path d="M611,355 Q650,306 689,355" fill="#88785e"/>
+  <text x="588" y="370" text-anchor="middle" class="serif small">teachers and traders</text>
+  <text x="588" y="394" text-anchor="middle" class="serif small">translators</text>
+  <text x="588" y="418" text-anchor="middle" class="serif small">and communities</text>
+  <text x="588" y="442" text-anchor="middle" class="serif small">calibrant contact</text>
+
+  <path d="M715,270 C760,270 775,270 815,270" fill="none" stroke="#5f574c" stroke-width="4" marker-end="url(#arrow)"/>
+  <text x="765" y="248" text-anchor="middle" class="dev small">बीज</text>
+
+  <rect x="820" y="130" width="325" height="390" rx="8" fill="#ece7dc" stroke="#8a795a" stroke-width="2.5"/>
+  <text x="983" y="174" text-anchor="middle" class="serif head">RECEIVING LANGUAGES</text>
+  <text x="983" y="205" text-anchor="middle" class="serif small">vivimorphosis within</text>
+  <text x="983" y="230" text-anchor="middle" class="serif small">each language</text>
+  <circle cx="900" cy="305" r="55" fill="#d5c6a5" stroke="#8a795a" stroke-width="2"/>
+  <circle cx="1065" cy="305" r="55" fill="#d5c6a5" stroke="#8a795a" stroke-width="2"/>
+  <circle cx="900" cy="425" r="55" fill="#d5c6a5" stroke="#8a795a" stroke-width="2"/>
+  <circle cx="1065" cy="425" r="55" fill="#d5c6a5" stroke="#8a795a" stroke-width="2"/>
+  <text x="900" y="311" text-anchor="middle" class="serif body">Greek</text>
+  <text x="1065" y="311" text-anchor="middle" class="serif body">Latin</text>
+  <text x="900" y="431" text-anchor="middle" class="serif body">Avestan</text>
+  <text x="1065" y="431" text-anchor="middle" class="serif body">Germanic</text>
+  <text x="983" y="495" text-anchor="middle" class="dev body">प्रतिबिम्ब - reflections</text>
+
+  <path d="M900,525 C900,565 850,575 800,600" fill="none" stroke="#7b2d26" stroke-width="3.5" stroke-dasharray="9 8" marker-end="url(#arrowRed)"/>
+  <path d="M1065,525 C1065,565 1020,575 965,600" fill="none" stroke="#7b2d26" stroke-width="3.5" stroke-dasharray="9 8" marker-end="url(#arrowRed)"/>
+
+  <rect x="410" y="600" width="670" height="135" rx="8" fill="#efe1df" stroke="#7b2d26" stroke-width="3" stroke-dasharray="11 8"/>
+  <text x="745" y="645" text-anchor="middle" class="serif head" fill="#64231f">THE PYRAMID FALSIFIES THE MOVEMENT</text>
+  <text x="745" y="683" text-anchor="middle" class="serif body">It gathers the reflections and constructs <tspan font-style="italic">*PIE</tspan>.</text>
+  <text x="745" y="714" text-anchor="middle" class="serif body">It then installs that invention above the recorded source.</text>
+  <path d="M410,667 C310,667 275,590 240,500" fill="none" stroke="#7b2d26" stroke-width="4" stroke-dasharray="10 9" marker-end="url(#arrowRed)"/>
+</svg>

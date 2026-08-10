@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4.75in" height="2.85in" viewBox="0 0 1200 720">
+  <defs><marker id="arrow" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 Z" fill="#695f51"/></marker></defs>
+  <rect width="1200" height="720" fill="#f7f6f2"/>
+  <style>
+    .title { font: 700 42px "EB Garamond", serif; fill: #292724; }
+    .subtitle { font: italic 27px "EB Garamond", serif; fill: #6a6258; }
+    .wave { font: 700 30px "EB Garamond", serif; fill: #292724; }
+    .main { font: 27px "EB Garamond", serif; fill: #332f2a; }
+    .small { font: 26px "EB Garamond", serif; fill: #5c554c; }
+  </style>
+  <text x="600" y="58" text-anchor="middle" class="title">How Sanskritic Radiance Travels</text>
+  <text x="600" y="97" text-anchor="middle" class="subtitle">Three calibrant waves carry architecture; a separate wave carries lived continuity.</text>
+  <g transform="translate(55 140)">
+    <rect width="1090" height="105" rx="8" fill="#e8e1cf" stroke="#9a7d3c" stroke-width="2.5"/>
+    <text x="28" y="42" class="wave">Wave 1 · Corpus</text><text x="295" y="42" class="main">Vedic-trained experts carry Sanskritic forms and knowledge</text>
+    <text x="295" y="77" class="small">Lineage memories · Mitanni treaty and technical vocabulary</text><line x1="985" y1="53" x2="1050" y2="53" stroke="#695f51" stroke-width="4" marker-end="url(#arrow)"/>
+  </g>
+  <g transform="translate(55 265)">
+    <rect width="1090" height="105" rx="8" fill="#dfe8dd" stroke="#70856d" stroke-width="2.5"/>
+    <text x="28" y="42" class="wave">Wave 2 · Method</text><text x="295" y="42" class="main">Communities adapt sound-science and grammatical analysis</text>
+    <text x="295" y="77" class="small">Tibetan · Chinese · Greek · Latin · Arabic · Hebrew</text><line x1="985" y1="53" x2="1050" y2="53" stroke="#695f51" stroke-width="4" marker-end="url(#arrow)"/>
+  </g>
+  <g transform="translate(55 390)">
+    <rect width="1090" height="105" rx="8" fill="#e2e0e8" stroke="#77718a" stroke-width="2.5"/>
+    <text x="28" y="42" class="wave">Diasporic Wave</text><text x="295" y="42" class="main">Whole communities carry living languages, memory, and practice</text>
+    <text x="295" y="77" class="small">Romani communities · global Indian diaspora</text><line x1="985" y1="53" x2="1050" y2="53" stroke="#695f51" stroke-width="4" marker-end="url(#arrow)"/>
+  </g>
+  <g transform="translate(55 515)">
+    <rect width="1090" height="105" rx="8" fill="#eee0dc" stroke="#9a5147" stroke-width="2.5"/>
+    <text x="28" y="42" class="wave">Wave 3 · Restatement</text><text x="390" y="42" class="main">Readers recover the architecture and explain it today</text>
+    <text x="390" y="77" class="small">Relearning makes disciplined transmission possible again</text><line x1="985" y1="53" x2="1050" y2="53" stroke="#695f51" stroke-width="4" marker-end="url(#arrow)"/>
+  </g>
+  <text x="600" y="675" text-anchor="middle" class="small">What travels depends on who carries it.</text>
+</svg>

@@ -2,9 +2,9 @@
 
 ## A Comparative Map of Sanskrit, Greek, Latin, and the PIE Intermediary
 
-**Status:** Active research plan  
+**Status:** Partially deployed 2026-08-09. Chapter 19 §19.7 now contains the compact **अप / ἀπό / ab** case; Appendix Part 1 §1.6 contains the pilot record, four next-stage families, the complete Sanskrit inventory, and the repeatable research record. The full twenty-row evidence audit and public dataset remain active.
 **Parent project:** [Sanskrit Radiance Mapping Project](as_sanskrit_radiance_mapping_project_proposal.md)  
-**Provisional book deployment:** A compact worked case in Chapter 19 §19.7; the full inventory and source record in Appendix Part 1; a later public research dataset under the Sanskrit Radiance Mapping Project.
+**Book deployment:** Chapter 19 §19.7 owns the compact worked case. Appendix Part 1 §1.6 owns the pilot record and scalable method. The complete source audit remains in this plan until every row has been verified.
 
 ## 1. Purpose
 

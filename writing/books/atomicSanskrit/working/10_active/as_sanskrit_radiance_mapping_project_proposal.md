@@ -2,8 +2,8 @@
 
 ## A Dhātupāṭha and Vyutpatti Analysis of Reconstructed PIE Families
 
-**Status:** Active proposal  
-**Book deployment:** Chapter 19 §19.7 introduces the method; Appendix Part 1 §1.5 provides the reusable research record and worked cases; the Epilogue calls for institutional participation. The parallel [upasarga mapping plan](as_sanskrit_radiance_upasarga_mapping_plan.md) extends the same method from Sanskrit atoms to the directional operators that accompany them.
+**Status:** Active proposal with manuscript deployment completed through the pilot stage
+**Book deployment:** Chapter 19 §19.7 states the complete Radiance Thesis and introduces the atom and operator methods. Appendix Part 1 §1.5 provides the reusable atom record and worked cases; §1.6 extends the method to directional operators. The Epilogue calls for institutional participation. The parallel [upasarga mapping plan](as_sanskrit_radiance_upasarga_mapping_plan.md) retains the unfinished twenty-row evidence audit and public-dataset design.
 
 ## 1. Purpose
 

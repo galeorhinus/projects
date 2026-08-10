@@ -214,7 +214,7 @@ Men came to India as escaped slaves, military deserters, political exiles, refug
 
 Appendix Part 3 §3.5 exposes the same mistake in script history. Resemblance between Brāhmī and Aramaic glyphs can indicate contact; the sonomeric grid reveals the architecture Brāhmī encodes. **Shape is not structure. Movement is not authorship.**
 
-Once absorbed, these men and their descendants could learn Sanskrit and carry its radiance elsewhere. Chapter 19 follows the outward carriers of that Indian architecture.
+Once absorbed, these men and their descendants could learn Sanskrit and later carry its radiance elsewhere. Chapter 19 explains how that outward movement leaves reflections in other languages. Chapter 20 follows the carriers.
 
 Foreign Y-DNA can be the trace of men whom India absorbed. That paternal ancestry has nothing to do with Sanskrit's origin.
 

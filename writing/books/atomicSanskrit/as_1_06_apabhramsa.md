@@ -126,7 +126,7 @@ The four quadrants in Figure 2.1 classify languages and forms by origin and gene
 
 The label identifies the cycle, while the calibrant account explains why a borrowed word can lose its original semantic constraints. English received the Greek surface behind *moron* without also receiving a living *dhātu*-system that could keep its constituent image present in ordinary speech. Marathi and Hindi speakers, by contrast, continue to encounter *mūrkha* inside a speech ecosystem that also contains *mūrchā* and related forms. The surrounding family of forms anchors the word even when the speaker has never studied its derivation.
 
-Chapter 14 develops the calibration matrix that preserves Sanskrit internally, and Chapter 19 follows the contact dynamic beyond the active orbit. The two scales belong to one architecture: gravity keeps nearby forms in orbit, while radiance travels outward and generates new words and forms in other languages.
+Chapter 14 develops the calibration matrix that preserves Sanskrit internally. Chapter 19 §19.7 develops the Radiance Thesis beyond the active orbit. The two movements belong to one architecture: gravity keeps nearby forms in orbit, while radiance travels outward and gives other languages material they can reshape and extend.
 
 ## 6.8 The Fall Is Not Only Linguistic
 
