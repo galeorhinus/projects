@@ -281,10 +281,6 @@
 
 ---
 
-## Acknowledgments
-
----
-
 ## Appendices
 
 - **Appendix Part 1 — Baking the Mother Tongue**
@@ -384,6 +380,10 @@
   - 9.8 Why the Codification Story Persists
   - 9.9 Comparison and Conclusion
 - **Appendix Part 10 — Glossary**
+
+---
+
+## Acknowledgments
 
 ---
 

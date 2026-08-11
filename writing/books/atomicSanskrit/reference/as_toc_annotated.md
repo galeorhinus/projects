@@ -287,10 +287,6 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 
 ---
 
-## Acknowledgments
-
----
-
 ## Appendices
 
 **Appendix Part 1 — Baking the Mother Tongue** *(drafted)* — *The PIE-fabrication appendix. Names the colonial Sanskrit-knowledge enterprise as the data pipeline; Deccan College Pune as the named exemplar; the German neogrammarian project as the bakery in which Sanskrit's* dhātavaḥ *were converted to PIE* apaśabdas. *The cooking/baking cluster supplies the fraud vocabulary;* manufactured *is reserved for Sanskrit's engineering.*
@@ -330,6 +326,10 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 9.1 The Inherited Story and Its Two Drift Claims · 9.2 Circular Chronology · 9.3 Three Models · 9.4 Domains, Modes, and Evidence Before Pāṇini · 9.5 What Actual Language Change Looks Like · 9.6 A Calibration Audit · 9.7 Optionality and the Mitanni Evidence · 9.8 Why the Codification Story Persists · 9.9 Comparison and Conclusion
 
 **Appendix Part 10 — Glossary** *(drafted)* — *Reference for the book's technical vocabulary in three groups: (1) **engineering core vocabulary** (the chemistry stack, with coined compounds flagged); (2) **technical Sanskrit vocabulary**; (3) **diagnostic vocabulary** (the cluster terms). Each entry marks the term as standard, coined, or repurposed.*
+
+---
+
+## Acknowledgments
 
 ---
 

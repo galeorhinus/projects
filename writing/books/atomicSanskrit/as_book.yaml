@@ -180,9 +180,6 @@ assembly:
     file: as_2_01_epilogue.md
     title: "Epilogue — Make the World Ārya"
   - kind: end
-    file: as_0_02_acknowledgements.md
-    title: Acknowledgments
-  - kind: end
     file: as_3_01_baking.md
     title: "Appendix Part 1 — Baking the Mother Tongue"
   - kind: end
@@ -212,6 +209,9 @@ assembly:
   - kind: end
     file: as_3_10_glossary.md
     title: "Appendix Part 10 — Glossary"
+  - kind: end
+    file: as_0_02_acknowledgements.md
+    title: Acknowledgments
   - kind: end
     file: as_0_04_note_on_notes.md
     title: A Note on the Notes
