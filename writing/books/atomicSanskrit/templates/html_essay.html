@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="$if(lang)$$lang$$else$en$endif$">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>$if(pagetitle)$$pagetitle$$else$$title$$endif$</title>
+  <link rel="icon" href="/as/favicon.svg?v=2" type="image/svg+xml">
+  <link rel="icon" href="/as/favicon.ico" sizes="any">
+  <link rel="stylesheet" href="/as/essays/style.css">
+</head>
+<body>
+$if(pagetitle)$<h1>$pagetitle$</h1>
+$else$$if(title)$<h1>$title$</h1>
+$endif$$endif$
+$body$
+<footer>
+  <p><em>From the forthcoming book</em>
+     <strong>Atomic Sanskrit</strong> by Parag Tope.</p>
+  <p>$if(shelf_link)$<a href="$shelf_link$">$shelf_link_label$</a> ·
+     $endif$<a href="/as/">About the book</a></p>
+$if(build_date)$
+  <div class="build-info">
+    Built $build_date$ · commit <code>$git_sha$</code> · tag <code>$git_tag$</code>
+  </div>
+$endif$
+</footer>
+</body>
+</html>
