@@ -60,6 +60,7 @@ TEMPLATE_CHAPTER = BOOK_DIR / "templates" / "html_chapter.html"
 TEMPLATE_INDEX = BOOK_DIR / "templates" / "html_index.html"
 TEMPLATE_ESSAY = BOOK_DIR / "templates" / "html_essay.html"
 TEMPLATE_LANDING = BOOK_DIR / "templates" / "landing.html"
+TEMPLATE_404 = BOOK_DIR / "templates" / "error_404.html"
 
 BOOK_CSS_SRC = BOOK_DIR / "templates" / "book.css"
 ESSAYS_CSS_SRC = BOOK_DIR / "templates" / "essays.css"
@@ -663,6 +664,15 @@ def render_landing(build_meta: dict[str, str]) -> None:
     print("  rendered  /  (landing page)")
 
 
+def render_404() -> None:
+    """Copy the static templates/error_404.html to build/html/404.html.
+    No substitution needed — it carries no per-build or per-page data.
+    Caddy's handle_errors rewrites 404 responses to /as/404.html, which
+    this ends up at once deploy.sh rsyncs build/html/ -> /var/www/as/."""
+    shutil.copy2(TEMPLATE_404, HTML_OUT / "404.html")
+    print("  rendered  /404.html  (error page)")
+
+
 def main() -> int:
     if HTML_OUT.exists():
         shutil.rmtree(HTML_OUT)
@@ -743,6 +753,7 @@ def main() -> int:
     # ----- Landing + static files ------------------------------------
     print()
     render_landing(build_meta)
+    render_404()
     copy_static()
 
     print()

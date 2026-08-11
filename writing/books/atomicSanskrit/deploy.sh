@@ -78,4 +78,6 @@ if [ "$SKIP_CADDY" -eq 0 ]; then
 fi
 
 echo ">> Done."
-echo "   Local check: curl -sI -u reader:PASSWORD https://secondshanti.org/as/"
+echo "   Local check: curl -sI https://secondshanti.org/as/"
+echo "   (basicauth retired 2026-08-06 — /as/book/ and /as/private/ now gate via"
+echo "   Google OAuth, which curl can't drive; check those in a browser instead.)"
