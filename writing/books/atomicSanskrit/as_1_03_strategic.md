@@ -38,7 +38,7 @@ No institution had to refute an engineered-Sanskrit thesis, because the accepted
 
 Formulating the engineered-Sanskrit thesis requires reversing that sequence. The student must recover the *dhātuḥ* as a structural constituent, examine Sanskrit's own account of permanence, and then decide whether the botanical metaphor fits the object. The inherited vocabulary blocks each of those steps before the student can take it. What appears as consensus therefore begins inside the curriculum, where the alternative account cannot yet be assembled.
 
-The seven-move botanical story is the *progressive dogma's* account of Sanskrit, including the softened *codification* vocabulary it now permits at the Pāṇini level. The pillars below keep that story standing after their original language became harder to defend. The engineered Sanskrit thesis dismantles that enclosure.
+Chapter 2 reduced the *progressive dogma's* account of Sanskrit to three claims: Sanskrit began as a natural language, foreign people carried it into India from a PIE ancestor, and Pāṇini divided its drifting and fixed forms. The pillars below keep those claims standing even after their original language became harder to defend. The engineered Sanskrit thesis exposes why each claim depends on the wrong category.
 
 ## 3.2 Displacement: The Racial Pillar
 

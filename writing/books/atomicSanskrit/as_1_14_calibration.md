@@ -194,7 +194,7 @@ The Western philological account calls him a codifier because that word lets the
 
 This constitutes *heroic erasure* at the matrix level: praising the named documenter in order to deny the civilization that made his work possible. By celebrating the documenter, the machinery hides the architecture being documented; it ignores that the *Prātiśākhya* preserves rather than invents speech, that *Śikṣā* trains rather than invents the mouth, and that Pāṇini compresses rather than invents Sanskrit.
 
-The Pāṇini-as-rupture move is heroic erasure in its sharpest form: praise the so-called codifier, then weaponize the praise to convert *vaidika* and *laukika* from domains into chronology. Pāṇini cannot move Sanskrit out of one domain and into another. Domains are not periods. Pāṇini documents both. That is not analysis. It is a grammatical sleight of hand with civilizational consequences (Chapter 2 §2.1).
+The Pāṇini-as-rupture move is heroic erasure in its sharpest form: praise the so-called codifier, then weaponize the praise to convert *vaidika* and *laukika* from domains into chronology. Pāṇini cannot move Sanskrit out of one domain and into another. Domains are not periods. Pāṇini documents both. That is not analysis. It is a grammatical sleight of hand with civilizational consequences (Chapter 2 §2.4).
 
 The standing sequence remains visible at matrix scale: engineered architecture, Vedic encoding, many decoding disciplines, and Pāṇini's compressed rule-system as the finest surviving documentation of that architecture.
 

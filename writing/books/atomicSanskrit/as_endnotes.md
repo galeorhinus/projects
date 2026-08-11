@@ -1527,7 +1527,7 @@ The verse means: "Two are the created orders in this world: the divine and the a
 
 **Short:** Compatibility is not immunity: formations outside formal Vedic calibration may remain harmonious with the calibrant, with each other, and with balance in the world, while lacking the same long defensive memory against asuric capture.
 
-**Deployments:** Chapter 1 §1.2; Chapter 2 §2.1 supplies the linguistic mechanism through `botanical-drift-prestige-memory`.
+**Deployments:** Chapter 1 §1.2; Chapter 2 §2.2 supplies the linguistic mechanism through `botanical-drift-prestige-memory`.
 
 This distinction does not mean that *nāstika* and *prākṛtika* formations are immune to asuric capture. It means they are not inherently hostile to the Vedic calibrant. The Vedic continuum preserved long civilizational memory of defending against asuric formations: stories of *asura*, *daitya*, *danava*, *rakshasa*, obstruction, disguise, false gift, stolen foundation, and apex command have functioned as recognition-forms across thousands of years. That memory does not make the Vedic continuum invulnerable, but it gives the civilization a durable grammar of suspicion toward pyramidal capture.
 
@@ -2043,7 +2043,7 @@ Source: *Īśopaniṣad*, opening *śāntipāṭha*. The standard editions: *Eig
 
 **Short:** August Schleicher (1821–1868) formalized the *Stammbaumtheorie* (family-tree theory) across *Die Deutsche Sprache* (1860), the *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (1861), and *Die Darwinsche Theorie und die Sprachwissenschaft* (1863) — languages as *Naturorganismen* (natural organisms growing and decaying like biological species); Schleicher trained as a botanist before turning to linguistics, and the imported biological framing was doctrinal, not casual.
 
-**Deployments:** Chapter 2 §2.2 — the establishment of August Schleicher and the *Stammbaumtheorie* (family-tree theory) as the governing metaphor of comparative philology.
+**Deployments:** Chapter 2 §2.5 — the establishment of August Schleicher and the *Stammbaumtheorie* (family-tree theory) as the governing metaphor of comparative philology.
 
 August Schleicher (1821–1868), German linguist and Indo-Europeanist, formalized the *Stammbaumtheorie* — the *family-tree theory* of language descent — across his major works of the 1850s and 1860s. The two principal texts:
 
@@ -2063,7 +2063,7 @@ Standard references for Schleicher's role: R. H. Robins, *A Short History of Lin
 
 **Short:** *Lord* = Old English *hlāfweard* (*hlāf* "loaf" + *weard* "guardian") → *hlāford* → Middle English *laverd* → *lorde* → Modern English *Lord*; phonetic contraction and compositional opacity across roughly a thousand years — the textbook *apabhraṃśa* (अपभ्रंश) decay arc Chapter 2 contrasts with Sanskrit *dhātu* (धातु) preservation across many more generations.
 
-**Deployments:** Chapter 2 §2.3 — the worked example of *hlāfweard → laverd → lorde → Lord* as the textbook case of botanical decay and semantic shift across a thousand years of English.
+**Deployments:** Chapter 2 §2.6 — the worked example of *hlāfweard → laverd → lorde → Lord* as the textbook case of botanical decay and semantic shift across a thousand years of English.
 
 The etymological chain of *Lord* runs through documented stages of Old English and Middle English, each visible in attested manuscript and lexicographic evidence:
 
@@ -2085,7 +2085,7 @@ The structural point the chapter makes from the chain: this is exactly the kind 
 
 **Short:** ***Dhātuḥ*** (धातुः) as the technical grammatical term predates Pāṇini — attested in Yāska's *Nirukta* (निरुक्त) and the *Prātiśākhya* (प्रातिशाख्य) literature, used by Pāṇini as already-given (*Aṣṭādhyāyī* (अष्टाध्यायी) 1.3.1 *bhūvādayo dhātavaḥ*); the same term operates in metallurgy (*sapta-dhātavaḥ* (सप्तधातवः)), Āyurvedic medicine, and *Rasaśāstra* (रसशास्त्र) — the engineering vocabulary is the chosen language, not the *bīja* (बीज) or *mūla* (मूल) botanical terms also available in Sanskrit.
 
-**Deployments:** Chapter 2 §2.5 — the *dhātu*-not-*bīja* paragraph that establishes the engineering category of the foundational grammatical unit.
+**Deployments:** Chapter 2 §2.7 — the *dhātu*-not-*bīja* paragraph that establishes the engineering category of the foundational grammatical unit.
 
 The term ***धातुः (dhātuḥ)*** as the name for the foundational grammatical-semantic atom is pre-Pāṇinian and embedded in the *Prātiśākhya* and *Nirukta* disciplines that precede the *Aṣṭādhyāyī*. The relevant attestations:
 
@@ -2627,7 +2627,7 @@ Source and standard references: see endnote `patanjali-siddhe-shabdarthasambandh
 
 **Short:** The Mīmāṃsā doctrine of *apauruṣeyatva* (अपौरुषेयत्व — *the Vedas' property of being authorless*) is anchored at Jaimini's *Mīmāṃsā Sūtra* 1.1.5 — ***autpattikastu śabdasyārthena sambandhaḥ*** (औत्पत्तिकस्तु शब्दस्यार्थेन सम्बन्धः) — and Śabara's *Bhāṣya*: the word-meaning relation is ***autpattika*** (औत्पत्तिक, *originary*; not assigned by any agent); verbal testimony is ***anapekṣa*** (अनपेक्ष, *independent*); the Vedas are therefore produced by no *puruṣa* in any sense — neither human, nor divine (against the Nyāya counter-position that they are *īśvara-praṇīta*), nor even the cosmic *puruṣa* of *Ṛgveda* 10.90's *Puruṣa Sūkta* whom the Vedas themselves describe. Kumārila Bhaṭṭa's *Ślokavārttika* develops the standard philosophical defense.
 
-**Deployments:** Chapter 2 §2.4 (the dogma-requires-drift versus continuum-prevents-drift argument); Chapter 17 §17.1 (the substrate-borrowing claim's case-specific landing).
+**Deployments:** Chapter 2 §2.6 (the dogma-requires-drift versus continuum-prevents-drift argument); Chapter 17 §17.1 (the substrate-borrowing claim's case-specific landing).
 
 The Mīmāṃsā doctrine of *apauruṣeyatva* — the *Vedas* having no author of any kind — is anchored at one of the earliest and most carefully argued positions in classical Indian philosophy. The foundational locus is **Jaimini's *Mīmāṃsā Sūtra* 1.1.5** in the *Pūrva-Mīmāṃsā* (पूर्वमीमांसा) discipline, with **Śabara's *Bhāṣya*** as the standard commentary.
 
@@ -2656,7 +2656,7 @@ The technical terms that express the doctrine:
 
 **The Nyāya counter.** Gautama's *Nyāya Sūtras* (न्यायसूत्राणि) and Vātsyāyana's *Nyāya-Bhāṣya* (न्यायभाष्य) contest the *apauruṣeya* claim. The Naiyāyikas argue the Vedas are *pauruṣeya* but specifically authored by ***Īśvara*** (ईश्वर, the Lord) — the *īśvara-praṇīta* (ईश्वर-प्रणीत, *Lord-composed*) doctrine. The debate between Mīmāṃsā and Nyāya runs across centuries; Kumārila's *Ślokavārttika* and the Naiyāyika responses constitute the locus classicus of the disagreement. The doctrinal divide: Nyāya preserves Vedic authority while granting a divine author; Mīmāṃsā preserves Vedic authority by denying any author at all. Both schools share the commitment that the Vedas are authoritative; they disagree on whether that authority rests on authored or authorless ground.
 
-**Deployment.** Both deployment locations (Chapter 2 §2.4 and Chapter 17 §17.1) use *apauruṣeya* to name the *Vedic-preservation continuum's operational commitment* that the Vedas have not changed — and the doctrine's radical scope is what gives that commitment its weight. The dogma's substrate-borrowing claim *requires* the Vedas to have changed; the *apauruṣeyatva* doctrine, properly understood, forbids change not just in the sense of "no human poet composed and modified" but in the deeper sense that the Vedas precede authorship itself. The diagnostic gap is therefore not merely chronological or methodological — it is *categorical at the level of what kind of thing the Vedas are*.
+**Deployment.** Both deployment locations (Chapter 2 §2.6 and Chapter 17 §17.1) use *apauruṣeya* to name the *Vedic-preservation continuum's operational commitment* that the Vedas have not changed — and the doctrine's radical scope is what gives that commitment its weight. The dogma's substrate-borrowing claim *requires* the Vedas to have changed; the *apauruṣeyatva* doctrine, properly understood, forbids change not just in the sense that no human poet composed and modified them, but in the deeper sense that the Vedas precede authorship itself. The diagnostic gap is therefore not merely chronological or methodological — it is *categorical at the level of what kind of thing the Vedas are*.
 
 **The synthesis with the engineering thesis.** The *apauruṣeyatva* doctrine and the book's engineering thesis describe the same structural fact at two layers. The doctrine specifies *what kind of thing the Vedas are* (eternal, originary, not produced by any *puruṣa*); the engineering thesis shows *what that kind of thing looks like structurally from our vantage today* — snap-to-grid phonology, cost × distinguishability cell-allocation, multi-axis combinatorial coherence, anti-entropy preservation built into the language itself. A language composed by historical poets would display the signatures of historical composition: drift across generations and dialects, articulatorily-easier accumulation, layered strata with conflicting redactions. The Vedas display the opposite — the signatures of engineering inconsistent with any historical composition. ***The engineering thesis is the empirical face of apauruṣeyatva.*** The Mīmāṃsā doctrine asserts the *Vedas*' non-composedness on philosophical grounds; the engineering thesis empirically confirms it by showing the structural signatures that historical composition cannot produce. Sanskrit is the linguistic form the Vedas instantiate; Sanskrit inherits *engineered* because the Vedas display engineering; no separate agent-class is hypothesized between the eternal *śabda* and the *dṛṣṭāḥ* who received the Vedas. The book's engineering-as-empirical-property framing — the inference-frame that what is on the page and in the mouth displays engineering — refines under the doctrine: the engineering of an *apauruṣeya* corpus does not posit *puruṣas* in the agent-of-meaning-assignment sense. The architecture is what eternal *śabda* manifests as; the architecture *is* the engineering.
 
@@ -5200,7 +5200,7 @@ The 2026-05-25 cleanup corrected the older matrix that still used pre-cleanup sc
 
 **Short:** ***Vyākaraṇam*** (व्याकरणम्) = *vi-* (वि-, *apart*) + *ā-* (आ-, *toward*) + ⟪कृ⟫ (*kṛ*, *to do, to make*) — formed from the verbal combination *vi-ā-kṛ* through the abstract-noun derivation, with literal sense *the act of taking-apart*, *unfolding-apart*, *separating into constituents* — i.e., **analysis**, *de-composition*, not composition. Foundational for the book's polemic against the dogma's *codification* vocabulary: Sanskrit's own name for what Pāṇini did is the opposite operation — the *taking-apart* of a system already present. Sources: Monier-Williams 1899, Apte 1890, Yaska's *Nirukta*, the *Mahābhāṣya*.
 
-**Deployments:** Chapter 2 §2.6 (the Bakers' Story, book refrain, and heroic erasure); Chapter 5 §5.1 (the *vyākaraṇam* / *vaiyākaraṇa* paragraph); Ch10 (the *Dhātupāṭha* as documentation of an inherited inventory); Ch13 §13.3; Ch14 §14.7; Thesis #2.
+**Deployments:** Chapter 2 §2.8 (the Bakers' Story, book refrain, and heroic erasure); Chapter 5 §5.1 (the *vyākaraṇam* / *vaiyākaraṇa* paragraph); Ch10 (the *Dhātupāṭha* as documentation of an inherited inventory); Ch13 §13.3; Ch14 §14.7; Thesis #2.
 
 The Sanskrit word ***व्याकरणम् (*vyākaraṇam*)*** decomposes morphologically as **वि (*vi-*, "apart, asunder")** + **आ (*ā-*, "toward, fully")** + **कृ (*kṛ*, "to do, to make")**, formed from the verbal combination *vi-ā-kṛ* through the abstract-noun derivation that produces *vyākaraṇa* from the corresponding finite-verb forms. The literal sense is *the act of taking-apart*, *unfolding-apart*, *separating into constituents* — i.e., **analysis**. The operation the term denotes is *de-composition*, not composition: the analytical procedure by which a given system (the language) is decomposed into its parts, not the constructive procedure by which a system is built.
 
@@ -5353,22 +5353,22 @@ Source: Manfred Mayrhofer, *Etymologisches Wörterbuch des Altindoarischen* (Hei
 
 ---
 
-### `bakers-story-seven-moves`
+### `bakers-story-category-theft`
 
-**Short:** The pyramid's seven-move account of Indo-European linguistics was built by four named European comparativists across the 19th century: ***Franz Bopp*** (1791–1867), *Über das Conjugationssystem der Sanskritsprache* (Frankfurt, 1816) — the systematic comparative method's founding work; ***August Schleicher*** (1821–1868), *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (Weimar, 1861) — the family-tree theory formalized; ***Max Müller*** (1823–1900) — Oxford's pedagogical machinery, the *Ṛgveda* edition (1849–1874), the *Sacred Books of the East* (1879–1910); ***Karl Brugmann*** (1849–1919), *Grundriss der vergleichenden Grammatik der indogermanischen Sprachen* (Strasbourg, 1886–1893) — the neogrammarian synthesis. The contemporary softened dogma preserves the seven moves while softening the vocabulary; the *codified* concession at the Pāṇini level operates in current vocabulary.
+**Short:** The pyramid's category theft was built by four named European comparativists across the 19th century: ***Franz Bopp*** (1791–1867), *Über das Conjugationssystem der Sanskritsprache* (Frankfurt, 1816) — the systematic comparative method's founding work; ***August Schleicher*** (1821–1868), *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (Weimar, 1861) — the family-tree theory formalized; ***Max Müller*** (1823–1900) — Oxford's pedagogical machinery, the *Ṛgveda* edition (1849–1874), the *Sacred Books of the East* (1879–1910); ***Karl Brugmann*** (1849–1919), *Grundriss der vergleichenden Grammatik der indogermanischen Sprachen* (Strasbourg, 1886–1893) — the neogrammarian synthesis. Together their framework classified Sanskrit as natural speech, gave it a foreign ancestor and foreign carriers, and placed Pāṇini at the boundary between Vedic and Classical Sanskrit.
 
-**Deployments:** Ch2 §2.1 (the *Bakers' Story of Sanskrit* — the pyramid's seven-move narrative the book contests).
+**Deployments:** Ch2 §2.4 (the three claims behind the category theft).
 
-The seven-move account Chapter 2 §2.1 lays out is the skeleton of textbook Indo-European linguistics. The named European comparativists who built it across the nineteenth century:
+The account Chapter 2 §2.4 lays out is the skeleton of textbook Indo-European linguistics. The named European comparativists who built it across the nineteenth century:
 
 - **Franz Bopp** (1791–1867), *Über das Conjugationssystem der Sanskritsprache in Vergleichung mit jenem der griechischen, lateinischen, persischen und germanischen Sprache* (Frankfurt am Main: Andräische Buchhandlung, 1816) — the founding work of the systematic comparative method.
 - **August Schleicher** (1821–1868), *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (Weimar: Hermann Böhlau, 1861; 2nd ed. 1866) — the family-tree theory (*Stammbaumtheorie*) formalized.
 - **Max Müller** (1823–1900) — the Boden Chair at Oxford (1860–1899) and the pedagogical machinery: the editions of the *Ṛgveda* (1849–1874), the *Sacred Books of the East* series (1879–1910), the *Lectures on the Science of Language* (1861–1864).
 - **Karl Brugmann** (1849–1919), *Grundriss der vergleichenden Grammatik der indogermanischen Sprachen* (Strasbourg: Trübner, 1886–1893; revised 1897–1916) — the neogrammarian synthesis that consolidated PIE reconstruction methodology.
 
-These four are the named figures. The seven-move story is the cumulative product of the framework they built across the nineteenth century. Subsequent scholarship (twentieth-century neogrammarians, structuralist linguistics, modern Indo-Europeanists from Calvert Watkins through Michiel de Vaan) refined the details without altering the underlying seven-move structure.
+These four are the named figures. The category theft is the cumulative product of the framework they built across the nineteenth century. Subsequent scholarship refined the details without changing its central structure: Sanskrit remains a natural daughter language beneath PIE, the Racial Arya Thesis carries it into India, and Pāṇini divides Vedic from Classical Sanskrit.
 
-The contemporary softened dogma — Cardona, Houben, Pollock, Kiparsky and adjacent scholarship — preserves the moves while softening the vocabulary. The *codified* concession at the Pāṇini level is the contemporary vocabulary; the rest of the seven moves operate as background assumptions in the working framework rather than as explicitly defended claims. The book's polemic, accordingly, contests both the explicit nineteenth-century version and the softer contemporary version with the same seven-move enumeration.
+The contemporary softened dogma — Cardona, Houben, Pollock, Kiparsky and adjacent scholarship — preserves the structure while softening the vocabulary. The *codified* concession at the Pāṇini level is the contemporary vocabulary; the remaining claims continue as background premises in the framework. The book contests both the explicit nineteenth-century version and its softer contemporary form.
 
 Source: Standard histories of Indo-European linguistics — Holger Pedersen, *The Discovery of Language: Linguistic Science in the Nineteenth Century* (1931, English trans. 1962); Anna Morpurgo Davies, *Nineteenth-Century Linguistics* (Longman, 1998); Pedro Ramat & Anna Giacalone Ramat (eds.), *The Indo-European Languages* (Routledge, 1998); Trautmann, *Aryans and British India* (University of California Press, 1997) for the colonial-philological context.
 
@@ -5394,7 +5394,7 @@ Sources: Einar Haugen, ["Dialect, Language, Nation," *American Anthropologist* 6
 
 **Short:** Political and institutional power cannot dictate every change in a natural language, but it can alter the pressures under which speakers select forms. Schooling, office, publication, broadcasting, translation, examination, and employment can attach prestige and material reward to one form of speech while marking another as provincial, vulgar, obsolete, or incorrect. When linguistic change later places older records behind translators and specialists, the institutions that control those mediators acquire leverage over inherited memory.
 
-**Deployments:** Chapter 2 §2.1 (the mechanism connecting surveyable drift to institutional influence and long-term defensive memory); compact callbacks in Chapters 1, 6, 13, and 14 §14.6; conceptual extension in endnote `compatibility-is-not-immunity` and the *Second Shanti* series note on codified history versus calibrant history.
+**Deployments:** Chapter 2 §2.2 (the mechanism connecting surveyable drift to institutional influence and long-term defensive memory); compact callbacks in Chapters 1, 6, 13, and 14 §14.6; conceptual extension in endnote `compatibility-is-not-immunity` and the *Second Shanti* series note on codified history versus calibrant history.
 
 The claim is about **selection pressure rather than total command**. Speakers continue to create linguistic change through ordinary use, contact, childhood acquisition, analogy, and local preference. Institutions intervene by changing which forms receive classroom time, official recognition, employment value, publication access, and public prestige. Language-planning scholarship describes comparable operations through selection of a norm, codification, elaboration of function, and social acceptance. The book places those familiar operations inside its apex analysis: the survey maps variation, and institutions alter the rewards attached to each direction of change.
 
@@ -5410,7 +5410,7 @@ Sources: Charles A. Ferguson, ["Diglossia," *Word* 15, no. 2 (1959), 325–340](
 
 **Short:** **Petrified Languages** is the figure's classification for organic languages or formal forms whose adaptive generativity has been restricted by external authority. The classification applies to the guarded form rather than every language spoken by the surrounding communities. Latin, Greek, Arabic, and Tibetan preserve such forms beside changing speech streams; Modern Hebrew demonstrates revivification because speakers returned Hebrew to daily and childhood use, after which botanical change resumed.
 
-**Deployments:** Chapter 2 §2.1 (first concrete examples of the Petrified Languages classification); Chapter 13 §13.5 (comparative trajectories and Modern Hebrew revivification); Chapter 14 §14.6 (the preservation apparatus and visible-custodian comparison); Appendix Part 9 (full codification comparison).
+**Deployments:** Chapter 2 §2.2 (first concrete examples of the Petrified Languages classification); Chapter 13 §13.5 (comparative trajectories and Modern Hebrew revivification); Chapter 14 §14.6 (the preservation apparatus and visible-custodian comparison); Appendix Part 9 (full codification comparison).
 
 **High and Low Arabic.** The written *muṣḥaf*, *tajwīd*, the listed *qirāʾāt*, memorization, and documented transmission preserve the Quranic form. Spoken Arabics continued changing across regions beside it. Modern Standard Arabic draws upon the Classical inheritance but is not identical to the bounded Quranic object. Its generative resources remain available to speakers, translators, journalists, and specialists, who can create new expressions without institutional permission. Ministries, language academies, schools, publishers, broadcasters, and government offices influence which expressions acquire formal recognition and circulate through education or administration. The Arabization Coordination Bureau and ALECSO's terminology projects make this institutional mediation visible: specialist networks coin, coordinate, revise, and circulate Arabic scientific and technical terms. These institutions gate recognition, circulation, and prestige rather than generativity itself.
 
@@ -5432,7 +5432,7 @@ These cases demonstrate authority-based preservation without equating preservati
 
 **Short:** Esperanto began from a deliberate plan, yet its speakers soon enlarged and selected its living usage. The *Fundamento de Esperanto* incorporated a *Universala Vortaro* of 2,768 foundational lexical "roots"; Zamenhof's own preface allowed new words to enter through use, and the first official lexical addition followed in 1909. Federico Gobbo therefore describes Esperanto as "almost naturalized" and records that actual usage changed with its speakers' communicative needs.
 
-**Deployments:** Ch2 §2.1 (Esperanto as a constructed-project-to-botanical transition); planned compact return in Ch6.
+**Deployments:** Ch2 §2.3 (Esperanto as a constructed-project-to-botanical transition); planned compact return in Ch6.
 
 The numerical comparison in the body requires two qualifications. First, Esperanto references classify their reusable affixes differently, so **about forty affixes** is more accurate than a single uncontested count. Second, these elements are not equivalent to Sanskrit *upasargāḥ*, and the 2,768 lexical units called "roots" in Esperanto lexicography are not Sanskrit *dhātavaḥ*. The comparison shows that a compact designed inventory can support extensive derivation; it does not establish identical architectures.
 
@@ -5473,7 +5473,7 @@ Source: Standard Vedic-studies scholarly references for the pyramid's claims (as
 
 **Short:** Pāṇini's *Aṣṭādhyāyī* uses several operational scope markers. ***Chandasi*** (छन्दसि) marks specified operations in Vedic scope, while ***bhāṣāyām*** (भाषायाम्) marks specified operations in *laukika* use. Other markers include ***mantre*** (मन्त्रे), ***amantre*** (अमन्त्रे), ***brāhmaṇe*** (ब्राह्मणे), ***nigame*** (निगमे), and labels tied to a particular Vedic text or lineage. These markers identify where an operation applies; they do not turn one Sanskrit domain into the chronological descendant of another.
 
-**Deployments:** Ch2 §2.1 Move 7 (the *two-versions* claim's refutation); Chapter 6 §6.6 claim 5 (accent system "erosion"); Ch14 §14.5 (the calibration matrix's two-domain operation); Chapter 17 §17.4 (the retroflex lateral).
+**Deployments:** Ch2 §2.4 (the *two-versions* claim's refutation); Chapter 6 §6.6 claim 5 (accent system "erosion"); Ch14 §14.5 (the calibration matrix's two-domain operation); Chapter 17 §17.4 (the retroflex lateral).
 
 These scopes overlap. *Aṣṭādhyāyī* 3.1.35, ***kāspratyayād ām amantre liṭi***, applies outside mantra; the *Nyāsa* expressly includes both Brāhmaṇa and *bhāṣā* within that scope. Pāṇini's labels therefore cannot be reduced to two mutually exclusive boxes.
 
@@ -5513,7 +5513,7 @@ The three deployments are not three successive *codifications* (the earlier acco
 
 The account belongs to *Atomic Sanskrit*'s polemic and does not have an external scholarly source. Its closest precedents are Sanskrit's own categorical distinctions: *śruti* (the corpus form, *that which is heard*) and *smṛti* (the remembered form), with contemporary restatement as a third form the lineage-chain has not previously had occasion to name.
 
-Source: Internal to the argument — Ch20 §20.4 establishes the account; Chapter 2 §2.6 develops the *codification* contest and drives home the four-term diagnostic stack; Thesis #2 deploys the book's refrain *Sanskrit was engineered; encoded in the Vedas; decoded by many; Pāṇini's decoding is the finest* across the three-deployments arc.
+Source: Internal to the argument — Ch20 §20.4 establishes the account; Chapter 2 §2.8 develops the *codification* contest and drives home the four-term diagnostic stack; Thesis #2 deploys the book's refrain *Sanskrit was engineered; encoded in the Vedas; decoded by many; Pāṇini's decoding is the finest* across the three-deployments arc.
 
 ---
 
@@ -5685,7 +5685,7 @@ Sources: Arrian, *Indica* 10, preserving Megasthenes's report; J. W. McCrindle, 
 
 **Short:** The Vedas preserve Sanskrit's architecture as the primary calibrant. The *vaidika* and *laukika* domains apply that architecture to different purposes. The *Aṣṭādhyāyī* makes many of its operations explicit and serves as the easier day-to-day calibrant.
 
-**Deployments:** Chapter 18 §18.5 (the *How the Story Got Built* full deployment); Chapter 2 §2.1 contains a forward-pointing seed paragraph.
+**Deployments:** Chapter 18 §18.5 (the *How the Story Got Built* full deployment); Chapter 2 §2.3 contains a forward-pointing seed paragraph.
 
 The Vedas are the **primary calibrant** — *apauruṣeya* (अपौरुषेय), seen by the *dṛṣṭāḥ* and preserved by the lineage-chain across thousands of years. Their origin beyond the seers remains unknown, and this account refuses to manufacture one. The two broad Sanskrit domains — ***vaidika*** and ***laukika*** — serve different purposes within one engineered architecture. The Vedas preserve the calibrant; the *laukika* domain applies the shared architecture to new composition. Pāṇini documents where particular operations apply. He did not create either domain. The *laukika* domain is calibrated against the Vedas, not derived from them. The ***Aṣṭādhyāyī*** is the **working calibrant**: Pāṇini decoded the architecture implicit in the Vedic corpus and inherited the analyses of many earlier *vaiyākaraṇāḥ*. The Vedas remain the primary reference; the *Aṣṭādhyāyī* provides the easier day-to-day manual. The account is offered explicitly as an alternative speculation to the pyramid's PIE and migration story, while acknowledging what remains unknown. See `reference/as_calibration_hierarchy.md` for the full reference document.
 

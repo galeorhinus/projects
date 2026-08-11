@@ -54,13 +54,15 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 
 **Chapter 2 — Category Theft and Āsurī Māyā** — *Names the foundational category theft. Sanskrit belongs to the* saṃskṛti *category; the dogma splits it into natural drift before Pāṇini and codification after. Exposes the botanical metaphor, the* dhātuḥ *mistranslation, and the Pāṇini-as-"codifier" move as one theft, and names the engineered / encoded / decoded / codified stack.*
 
-- 2.1 The Category Move — *The indictment: a created, calibrated architecture forced first into a botanical tree and then into a codified standard; the four-term stack table.*
-- 2.2 The Metaphor Underneath — *The family-tree metaphor that makes languages look botanical by default: plant-organs, branches, daughters, descent, drift, decay.*
-- 2.3 Where Botany Works — *Botany works for natural languages that grow through use; Sanskrit must be tested against a different category.*
-- 2.4 *Saṃskṛti* Made to Look Like *Prakṛti* — *The category theft proper: a created order forced into the natural-growth frame.*
-- 2.5 *Dhātuḥ* Is an Atom — *How nineteenth-century philology forced* dhātuḥ *into a botanical category, turning a cross-domain term for structural constant into a plant-organ; the displacement restored.*
-- 2.6 Decoding, Not Codification — *Pāṇini decoded an existing architecture; heroic erasure praises him as the supposed codifier to make the prior architecture disappear.*
-- 2.7 The Theft Made Visible — *The close: the botanical metaphor is not harmless description; it is the category move that makes Sanskrit downstream.*
+- 2.1 The Category Withheld from Sanskrit — *The pyramid's three categories omit the category that describes Sanskrit: a deliberately created language with a highly generative internal architecture.*
+- 2.2 Four Language Categories — *Origin and generativity create four categories. Figure 2.1 places Natural Languages, Petrified Languages, Lexicon-Dependent Conlangs, and Generative Architectures inside one consistent classification.*
+- 2.3 Movement Between Categories — *Figure 2.2 shows vivification, revivification, and vivimorphosis. Esperanto demonstrates why rules alone cannot keep a constructed language from becoming botanical, while Sanskrit's two domains provide a different response.*
+- 2.4 Three Claims Behind the Category Theft — *Figure 2.3 shows how the pyramid classifies Sanskrit as natural, gives it an imaginary foreign origin, and uses Pāṇini to turn two domains into two periods.*
+- 2.5 The Botanical Metaphor — *The family tree makes languages look botanical by default and places the imaginary PIE ancestor above Sanskrit before the reader examines the architecture.*
+- 2.6 Where Botany Belongs — *The botanical model describes natural languages well. The theft begins when that model forces saṃskṛti into the category of prakṛti.*
+- 2.7 *Dhātuḥ* Is an Atom — *Nineteenth-century philology forced* dhātuḥ *into a botanical category, turning a cross-domain term for a structural constant into a plant-organ.*
+- 2.8 Decoding, Not Codification — *Pāṇini decoded an existing architecture; heroic erasure praises him as the supposed codifier to make the prior architecture disappear.*
+- 2.9 The Theft Made Visible — *The close shows how the botanical metaphor hides Sanskrit's architecture and places invented PIE ancestry above it.*
 
 **Chapter 3 — Motive and Method** — *Asks why the botanical metaphor has not gone. Lethargy and hegemony helped establish it; only strategic necessity accounts for its persistence. Surveys the three pillars the metaphor defends — custody (racial), enclosure (theological), ascent (progress) — and names containment as the method.*
 

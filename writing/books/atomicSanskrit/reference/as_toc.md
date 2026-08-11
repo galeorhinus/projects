@@ -41,13 +41,15 @@
 *The āsurī māyā.*
 
 **Chapter 2 — Category Theft and Āsurī Māyā**
-- 2.1 The Category Move
-- 2.2 The Metaphor Underneath
-- 2.3 Where Botany Works
-- 2.4 *Saṃskṛti* Made to Look Like *Prakṛti*
-- 2.5 *Dhātuḥ* Is an Atom
-- 2.6 Decoding, Not Codification
-- 2.7 The Theft Made Visible
+- 2.1 The Category Withheld from Sanskrit
+- 2.2 Four Language Categories
+- 2.3 Movement Between Categories
+- 2.4 Three Claims Behind the Category Theft
+- 2.5 The Botanical Metaphor
+- 2.6 Where Botany Belongs
+- 2.7 *Dhātuḥ* Is an Atom
+- 2.8 Decoding, Not Codification
+- 2.9 The Theft Made Visible
 
 **Chapter 3 — Motive and Method**
 - 3.1 Why the Tree Survived

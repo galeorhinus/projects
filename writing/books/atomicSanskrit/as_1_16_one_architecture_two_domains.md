@@ -4,7 +4,7 @@
 
 ## 16.1 Two Engineering Tasks
 
-Sanskrit has a twofold purpose: first, the language must remain unchanged; second, it must continue to serve a changing world. Chapter 0 §§0.4 and 0.7 introduced these two responsibilities and the civilizational motivation behind them. Millions of people across thousands of years learned, recited, corrected, taught, and defended Sanskrit because they regarded that purpose as worthy of preservation. Chapter 2 §2.1 then showed why an engineered language needs more than a set of rules if its architecture is to remain unchanged across such a span.
+Sanskrit has a twofold purpose: first, the language must remain unchanged; second, it must continue to serve a changing world. Chapter 0 §§0.4 and 0.7 introduced these two responsibilities and the civilizational motivation behind them. Millions of people across thousands of years learned, recited, corrected, taught, and defended Sanskrit because they regarded that purpose as worthy of preservation. Chapter 2 §2.3 then showed why an engineered language needs more than a set of rules if its architecture is to remain unchanged across such a span.
 
 ### What Sanskrit Had to Defeat
 
