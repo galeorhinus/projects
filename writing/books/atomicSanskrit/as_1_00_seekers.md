@@ -132,7 +132,7 @@ The laukika domain faces greater entropic pressure because it remains generative
 
 Pāṇini articulated the existing rules found across both domains. Some rules apply broadly in Vedic Sanskrit. Others apply only in mantra, outside mantra, in Brāhmaṇa usage, in a transmitted Vedic text, or in *laukika* use. Pāṇini names those limits through markers such as *chandasi, mantre, amantre, brāhmaṇe, nigame,* and *bhāṣāyām*. His documentation helps students read and understand Vedic forms and use Sanskrit for new *laukika* composition.
 
-Nothing in the *Aṣṭādhyāyī* shows Pāṇini rewriting a Vedic passage, correcting a mantra, or converting a natural language into Sanskrit. He documented an architecture already operating in both domains. His articulation is the finest surviving account of that architecture.
+Nothing in the *Aṣṭādhyāyī* shows Pāṇini rewriting a Vedic passage, correcting a mantra, or converting a natural language into Sanskrit. He documented an architecture already operating in both domains. His articulation is the finest account of that architecture.
 
 Could some grammatical variation have entered laukika usage during the thousands of years before Pāṇini inherited and documented it?
 

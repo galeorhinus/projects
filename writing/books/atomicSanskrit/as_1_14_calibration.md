@@ -196,7 +196,7 @@ This constitutes *heroic erasure* at the matrix level: praising the named docume
 
 The Pāṇini-as-rupture move is heroic erasure in its sharpest form: praise the so-called codifier, then weaponize the praise to convert *vaidika* and *laukika* from domains into chronology. Pāṇini cannot move Sanskrit out of one domain and into another. Domains are not periods. Pāṇini documents both. That is not analysis. It is a grammatical sleight of hand with civilizational consequences (Chapter 2 §2.4).
 
-The standing sequence remains visible at matrix scale: engineered architecture, Vedic encoding, many decoding disciplines, and Pāṇini's compressed rule-system as the finest surviving documentation of that architecture.
+The standing sequence remains visible at matrix scale: engineered architecture, Vedic encoding, many decoding disciplines, and Pāṇini's compressed rule-system as the finest documentation of that architecture.
 
 Within this framework, the calibration matrix serves as the engineered architecture, the Vedas operate as the encoding, and the *Prātiśākhya*, *Śikṣā*, *Chandas*, and *Vyākaraṇam* function as the decoding disciplines. Because Pāṇini's decoding is the most compressed and generative, it remains the finest expression of the system, though it is not the origin of the architecture itself.
 

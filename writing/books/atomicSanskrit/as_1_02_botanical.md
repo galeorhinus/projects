@@ -160,7 +160,7 @@ Once philology called the *dhātuḥ* a root, it could describe Sanskrit words a
 
 The theft strikes at the atomic level. The *dhātuḥ* belongs to the architecture of constituents. The botanical substitute moves it into the architecture of plants.
 
-Chapter 10 tests whether the *dhātavaḥ* behave like atoms built from a shared architecture. It identifies recurring patterns in how the *dhātavaḥ* are built and examines how each pattern keeps its members distinguishable. Those recurring structures demonstrate an engineered inventory. A botanical account of linguistic growth does not explain why the inventory repeatedly uses them.
+Chapter 10 tests whether the *dhātavaḥ* behave like atoms built from a shared architecture. It identifies recurring patterns in how the *dhātavaḥ* are built and examines how each pattern keeps its members distinguishable. Those recurring structures demonstrate an engineered inventory. A botanical account of linguistic growth does not explain *why* the inventory repeatedly uses them.
 
 ## 2.8 Decoding, Not Codification
 
@@ -178,7 +178,7 @@ The refrain is simple:
 
 The whole case turns on direction. *Codify* runs from disorder toward imposed order; *decode* runs from prior order toward explicit specification. Sanskrit's own word is ***vyākaraṇam*** (व्याकरणम्): *vi-* (वि, *apart*) + *ā-* (आ, *fully*) + ⟪कृ⟫ (*kṛ*, *to do, to make*) — *unfolding apart*. The ***vaiyākaraṇaḥ*** (वैयाकरणः) is the one who performs that unfolding. Chapter 5 lays out the analytical lineage in detail; Chapter 10 develops the penetrating *agni* decoding of **यास्क (*Yāska*)** through a detailed example.
 
-Pāṇini did not codify Sanskrit. He decoded it. His *Aṣṭādhyāyī* documents the finest surviving decoding of an order already operating. The asuric machinery reverses that direction and calls the reversal *codification*. Every school, textbook, and standard reference that presents Pāṇini as the creator of Sanskrit's order repeats the same category theft.
+Pāṇini did not codify Sanskrit. He decoded it. His *Aṣṭādhyāyī* articulates the finest decoding of an order already operating. The asuric machinery reverses that direction and calls the reversal *codification*. Every school, textbook, and standard reference that presents Pāṇini as the creator of Sanskrit's order repeats the same category theft.
 
 ## 2.9 The Theft Made Visible
 
