@@ -127,7 +127,7 @@ The diaspora persisted under headwinds from both sides. Inside the subcontinent,
 
 The Diasporic Wave differs from Waves 1 and 2 because whole communities moved with Indic languages, memory, and practice rather than traveling primarily to teach a formal method. Words such as *yoga*, *mantra*, *guru*, *dharma*, *karma*, *avatar*, *namaste*, and *pundit* remain visibly Indic in host languages, although they reached those languages by several routes.
 
-The substrate has been preserved; the calibrant capacity that produced it has thinned. Calibrant capacity means the trained ability to pronounce Sanskrit accurately, analyze its forms through *vyākaraṇam*, approach the Veda through its preservation disciplines, extend laukika usage without changing the measure, and teach those practices to another generation.
+The substrate has been preserved; the calibrant capacity that produced it has thinned. Calibrant capacity means the trained ability to pronounce Sanskrit accurately, analyze its forms through *vyākaraṇam*, approach the Veda through its preservation disciplines, extend laukika usage without changing the language's architecture, and teach those practices to another generation.
 
 Wave 3 therefore begins with deliberate relearning among Indians in the subcontinent, the global Indian diaspora, and Romani communities that wish to renew this connection. The retroflex must be reclaimed. Sanskrit's discipline must be reentered. The Vedic preservation system must again be encountered as engineered architecture rather than ceremonial ornament.
 

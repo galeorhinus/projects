@@ -40,14 +40,14 @@ The evidence becomes clearer when three different language processes are kept ap
 
 **Codification** begins when an authority selects a form and corrects people against it. A court, academy, priesthood, school, state, dictionary, or official grammar declares which form is proper. Correctness descends from an authorized text, office, or institution. This can preserve a selected corpus or stabilize a public language, but the preservation depends on custody.
 
-**Calibration** places the measure inside a distributed architecture. Meter exposes an incorrect syllable weight. Recitation exposes an incorrect sound. The *padapāṭha* checks word boundaries. *Krama*, *jaṭā*, and *ghana* recitations check sequence. The *Prātiśākhya* disciplines specify sound by *śākhā*. *Śikṣā* trains articulation. The *Dhātupāṭha* preserves the atomic inventory. The *Aṣṭādhyāyī* documents derivational and inflectional operations with exceptional precision.
+**Calibration** places the standard inside a distributed architecture. Meter exposes an incorrect syllable weight. Recitation exposes an incorrect sound. The *padapāṭha* checks word boundaries. *Krama*, *jaṭā*, and *ghana* recitations check sequence. The *Prātiśākhya* disciplines specify sound by *śākhā*. *Śikṣā* trains articulation. The *Dhātupāṭha* preserves the atomic inventory. The *Aṣṭādhyāyī* documents derivational and inflectional operations with exceptional precision.
 
 The pyramid assigns Sanskrit before Pāṇini to natural drift and Sanskrit after Pāṇini to codification. The evidence shows correction through calibration across the supposed divide.
 
 > Codification corrects through authority.<br>
 > Calibration corrects through architecture.
 
-Masoretic Hebrew, Quranic Arabic, ecclesiastical Latin, and modern official languages show what codification can preserve. An authorized corpus, school, or institution selects a form and maintains it. Sanskrit's architecture distributes the measure across sound, meter, recitation, derivation, analysis, memory, and lineage. Pāṇini strengthens that architecture by documenting its operations; he does not make those operations exist.
+Masoretic Hebrew, Quranic Arabic, ecclesiastical Latin, and modern official languages show what codification can preserve. An authorized corpus, school, or institution selects a form and maintains it. Sanskrit distributes its standard across sound, meter, recitation, derivation, analysis, memory, and lineage. Pāṇini strengthens that architecture by documenting its operations; he does not make those operations exist.
 
 ## 9.4 Domains, Modes, and Evidence Before Pāṇini
 
@@ -181,7 +181,7 @@ The audit would examine two forms of preservation.
 
 The two models make different predictions:
 
-| Measurement | Codification story expects | Calibration model expects |
+| Feature | Codification story expects | Calibration model expects |
 |---|---|---|
 | Distribution of differences | A chronological gradient from earlier to later usage | Clusters by mode, meter, recension, domain, and function |
 | Core architecture | Substantial movement before Pāṇini, followed by tighter uniformity | Structural continuity across Pāṇini's documentation |
@@ -190,7 +190,7 @@ The two models make different predictions:
 
 The analyses in this book provide preliminary results rather than a completed corpus-wide audit. Chapter 4 documents the analytical line before Pāṇini. Chapter 5 distinguishes *apabhraṃśa* from the calibrant. Chapters 10 and 11 examine atomic compression and sound roles. Chapter 14 describes the preservation matrix. Appendices Parts 6 and 7 provide numerical and Vedic tests. Across those samples, differences repeatedly cluster by function and mode while the core architecture remains recognizable.
 
-The preliminary result supports a measured statement:
+The preliminary result supports this conclusion:
 
 > Sanskrit shows bounded differences between domains, metrical optionality, lineage-specific preservation, and ordinary *apabhraṃśa* around a stable calibrant architecture.
 
@@ -216,7 +216,7 @@ The story also gives the academy a familiar object. Historical linguistics knows
 
 The church of progress gains a linear sequence from archaic to refined, fluid to fixed, and sacred poetry to technical analysis. Colonial philology gains an external explanation through PIE, migration, substrate, and imported chronology. PIE gains a descendant whose visible order can be admired only after that order has been attributed to late codification.
 
-The deeper issue concerns authority. Sanskrit shows that a civilization can distribute correction through sound, meter, recitation, analysis, memory, and lineage. The measure need not descend from one apex. That architecture threatens a pyramid whose authority depends on text, office, credential, school, and custody.
+The deeper issue concerns authority. Sanskrit shows that a civilization can distribute correction through sound, meter, recitation, analysis, memory, and lineage. The standard need not descend from one apex. That architecture threatens a pyramid whose authority depends on text, office, credential, school, and custody.
 
 Pāṇini should therefore be praised accurately. He did not impose order on disorder. He decoded an order preserved in the Vedas, analyzed by disciplines before him, and made astonishingly compact in the *Aṣṭādhyāyī*. Accurate praise makes both the documenter and the civilization larger.
 
@@ -243,7 +243,7 @@ The principal claims can now be compared directly.
 
 The codification story joins two needs that would otherwise conflict. The pyramid needs Sanskrit to remain natural enough to descend from PIE, yet it also needs an explanation for the language's extraordinary order. It solves the conflict by placing the order inside a late codifier.
 
-The evidence reverses that sequence. The Vedas preserve linguistic architecture. The pre-Pāṇinian disciplines analyze it. Patañjali states the established bond. *Apabhraṃśa* marks falling away from an available measure. Pāṇini distinguishes operational contexts and documents licensed variation. The calibration matrix preserves form without placing custody in one authority.
+The evidence reverses that sequence. The Vedas preserve linguistic architecture. The pre-Pāṇinian disciplines analyze it. Patañjali states the established bond. *Apabhraṃśa* marks a departure from the available standard. Pāṇini distinguishes operational contexts and documents licensed variation. The calibration matrix preserves form without placing custody in one authority.
 
 The dogma makes Pāṇini a rupture because the tree requires a rupture.
 

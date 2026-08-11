@@ -48,7 +48,7 @@ The epilogue follows one distinction within this story. The *devāḥ* are the o
 
 Pour the un-dying into the principles of flow, and the system renews itself across time. Give the same endurance to the withholder, and the obstruction becomes permanent. An undying flow is a world that renews; an undying container, a permanent eclipse.
 
-The same distinction appears at the scale of language. Calibration preserves a generative measure and keeps it available throughout a distributed system. Codification places permanence around a bounded object controlled by authority.
+The same distinction appears at the scale of language. Calibration preserves a generative architecture and keeps it available throughout a distributed system. Codification places permanence around a bounded object controlled by authority.
 
 Codification is petrification.
 
@@ -146,7 +146,7 @@ The call is conditional: it cannot be made by anyone who wants the prestige with
 
 *Āryatva* is desirable because it is disciplined alignment with **सत् (*sat*)**, not **असत् (*asat*)**: clarity over obscurity, restraint over appetite, calibration over drift, welfare over domination.
 
-The Sanskrit fractal encodes that standard in its architecture. Sound is measured. Speech is disciplined. Memory is calibrated. Knowledge is preserved without apex command. When that architecture is made fully visible, it does not preach; it stands as a calibrant: those who wish can measure themselves against it and choose *sat* without turning truth into dogma.
+The Sanskrit fractal encodes that standard in its architecture. Sound is measured. Speech is disciplined. Memory is calibrated. Knowledge is preserved without apex command. When that architecture is made fully visible, it does not preach; it stands as a calibrant: those who wish can align themselves with it and choose *sat* without turning truth into dogma.
 
 That is the bridge from Sanskrit to Sanātan: calibration does not remain trapped inside grammar. The same distributed discipline can recur in conduct, memory, knowledge, and social order.
 
@@ -160,7 +160,7 @@ Sanskrit teaches the opposite lesson. The **ध्रुवमानभाषा
 
 The warning has a name from the argument's own map: petrification. State academies and school boards that monitor classroom usage and decree right and wrong Marathi, Hindi, Bengali are freezing living tongues into codified standards — a small Académie, a small frozen apex, for every language: the pyramid's move, imported and self-inflicted. India stayed a calibrant culture for thousands of years by the opposite arrangement — one calibrant, and dozens of languages alive beneath its radiance, free to vary, drift, and combine. Abandon the petrification culture; keep Sanskrit as the lone calibrant; let the languages live. The enemy is the apex, not the teaching of a language well. The living diversity of India's languages is the standing disproof of the racial Arya thesis — the freeze would destroy the evidence no invader ever could.
 
-Islamic imperial formations were defeated. The Christian conversion ambition was checked. British political rule was expelled. But the deeper work remains: the restoration of Sanskrit as calibrant inside Indian life — the radiant matrix — the measure of discipline, memory, sound, grammar, and conduct, not a credential and not a slogan. Internal āryatva begins by acknowledging what Sanskrit is and refusing to reproduce inside India the authority model this book has exposed elsewhere.
+Islamic imperial formations were defeated. The Christian conversion ambition was checked. British political rule was expelled. But the deeper work remains: the restoration of Sanskrit as calibrant inside Indian life — the radiant matrix that preserves discipline, memory, sound, grammar, and conduct, not a credential and not a slogan. Internal āryatva begins by acknowledging what Sanskrit is and refusing to reproduce inside India the authority model this book has exposed elsewhere.
 
 Three shadows remain after the argument has done all it can. The institutions keep their own custody — departments, journals, peer review, curricula, and the funding that supports them: chairs, grants, donor-shaped centers, and a state that still pays for its own colonial Indology. They will not dissolve because a case has been made. The public mind lags the proof: textbooks, encyclopedias, search results, and casual speech will keep repeating *"Sanskrit is Indo-European"* long after the architecture is visible. And the deepest shadow is inward — the trained hesitation that makes a civilization ask the pyramid's permission before trusting its own categories. None of the three falls to argument. Custody must be opened, habit retrained, and hesitation replaced by civilizational confidence. The work requires many hands. It is the Atris’ work, not one author’s.
 

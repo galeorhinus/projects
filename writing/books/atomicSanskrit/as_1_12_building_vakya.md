@@ -244,7 +244,7 @@ The botanical metaphor therefore belongs to the *apaśabda*. The Sanskrit *dhāt
 
 The two sides of this movement require two terms. From Sanskrit's side, **अपभ्रंश (*apabhraṃśa*)** describes the falling away from the calibrated form. From the receiving language's side, **vivimorphosis** describes the same molecule acquiring organic behavior.[NOTE: apabhramsa-vivimorphosis-boundary]
 
-Using both terms keeps both consequences visible. Sanskrit can still measure the received form against the *śabda* from which it fell, while the receiving language gains a seed that it can pronounce, inflect, combine, and extend according to its own architecture. As the receiving language reshapes the molecule, its engineered bonds loosen and the seed becomes available for new growth.
+Using both terms keeps both consequences visible. Sanskrit can still compare the received form with the *śabda* from which it fell, while the receiving language gains a seed that it can pronounce, inflect, combine, and extend according to its own architecture. As the receiving language reshapes the molecule, its engineered bonds loosen and the seed becomes available for new growth.
 
 ![Figure 12.9 — Boundary crossing: *dhātuḥ* → *śabda* → *bīja* → *apaśabda*.](figures/building_vakya/vivimorphosis.svg){#fig:building-vakya-vivimorphosis width=100%}
 
@@ -261,14 +261,14 @@ Chapter 19 §19.7 develops the worked cases: **⟪दिव्⟫ (*div*) → �
 
 ### The Four Classifications in Operation
 
-Each of Chapter 2's four classifications responds differently when speakers need to express something new. Chapter 6 examined the entropic pressure created by those responses. The table below identifies who extends each kind of language, where the measure comes from, and what changes.
+Each of Chapter 2's four classifications responds differently when speakers need to express something new. Chapter 6 examined the entropic pressure created by those responses. The table below identifies who extends each kind of language, what guides that extension, and what changes.
 
 | Classification | When a new circumstance appears | Where extension or correction comes from | Result |
 |---|---|---|---|
 | **Natural Language** | Speakers alter vocabulary, pronunciation, grammar, or usage through communal life. | The speaking community generates and selects the forms that survive. | The language remains adaptable by changing botanically. |
 | **Petrified Language** | The preserved form cannot absorb the new circumstance through ordinary speech. | An academy, priesthood, court, school, state, or other custodian must authorize an extension. | The bounded form remains fixed while living speech changes around it. |
 | **Conlang / Constructed Project** | A need exceeds the original plan or finite starting inventory. | A creator, founding document, later authority, or speaking community supplies additional material. | External additions extend the project, or communal change draws it into botanical behavior. |
-| **Sanskrit** | Speakers derive and compose expressions for the new circumstance through the standing architecture. | The *dhātavaḥ*, *upasargāḥ*, *pratyayāḥ*, compounds, grammar, and distributed calibration provide the extension and its measure. | *Laukika* usage expands while the language remains invariant. |
+| **Sanskrit** | Speakers derive and compose expressions for the new circumstance through the standing architecture. | The *dhātavaḥ*, *upasargāḥ*, *pratyayāḥ*, compounds, grammar, and distributed calibration guide the extension. | *Laukika* usage expands while the language remains invariant. |
 
 These rows classify linguistic states. A form can move from one classification to another through several distinct processes. An authority causes **petrification** when it removes an organic form from ordinary communal change and fixes that form. Speakers cause **revivification** when they return a petrified form to everyday acquisition and speech, after which ordinary usage resumes botanical change. Modern Hebrew provides the clearest comparative case, developed in Chapter 13 §13.5.
 
@@ -288,7 +288,7 @@ The governing principle is assembly without loss. The sentence is larger than th
 
 That recoverability allows speakers to interpret, recite, correct, and calibrate the sentence. Sanskrit generates larger forms while keeping the path back to their construction visible. The *vākya* is therefore not a loose string of words. It is an assembly whose lower layers remain available.
 
-At the boundary, the same recoverability allows Sanskrit to remain the measure even after a received form begins an organic life elsewhere. *Apabhraṃśa* describes the distance from the calibrated molecule, while vivimorphosis describes what the receiving language can grow from its seed.
+At the boundary, the same recoverability allows Sanskrit to remain the calibrant even after a received form begins an organic life elsewhere. *Apabhraṃśa* describes the distance from the calibrated molecule, while vivimorphosis describes what the receiving language can grow from its seed.
 
 The scale-chain has therefore reached the operating language — sonomers have become atoms, atoms molecules, molecules role-bearing *padāni*, *padāni* *vākyāni* — and the lower levels stay visible enough for the whole structure to be preserved.
 

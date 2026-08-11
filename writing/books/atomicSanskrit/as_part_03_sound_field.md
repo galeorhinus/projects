@@ -4,7 +4,7 @@
 
 ---
 
-From the Sun's own account, the light descends into the body. Before the *dhātuḥ* can be measured as an atom, the sound-particles from which that atom is built have to become visible.
+From the Sun's own account, the light descends into the body. Before the *dhātuḥ* can be examined as an atom, the sound-particles from which that atom is built have to become visible.
 
 We have moved past two distortions: the plant-metaphor that forced *dhātuḥ* into a botanical category, and the codification-story that made Sanskrit depend on later stabilization. The next obstruction is alphabetic reduction: the pyramid flattening *varṇa* into letter. Descended stays cracked — the deepest descent-plate falls only when Rāhu is dispelled in Part VI.
 

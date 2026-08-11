@@ -22,7 +22,7 @@
 
 The previous chapter surveyed the subcontinental sound-field: mouth-zones, the retroflex band, contact sounds, nasals, sibilant neighborhoods, and breath possibilities. Sanskrit curates those sounds into an **inventory**: a selected set of sonomers the language treats as stable sound-units, gives addresses to, teaches, preserves, and uses in grammar.
 
-The Vedic mantra provides the imagery of abundant sound and a sieve that curates. The wise refined raw sound, chose usable measure, and formed **वाक् (*Vāk*)** with the mind. **अक्रत (*akrata*)** is a finite plural verb from the dhātu ⟪कृ⟫ (*kṛ*): the wise *formed* Speech. The movement is direct: sound-field becomes *varṇamālā*.
+The Vedic mantra provides the imagery of abundant sound and a sieve that curates. The wise refined raw sound, selected usable sound-particles, and formed **वाक् (*Vāk*)** with the mind. **अक्रत (*akrata*)** is a finite plural verb from the dhātu ⟪कृ⟫ (*kṛ*): the wise *formed* Speech. The movement is direct: sound-field becomes *varṇamālā*.
 
 The second half adds radiance. Friends recognize friendship in that formed Speech. In separated form, the final pāda says **भद्रा एषां लक्ष्मीः (*bhadrā eṣāṃ lakṣmīḥ*)** is placed **अधि वाचि (*adhi vāci*)** — in Speech: auspicious radiance, the beauty that makes order visible. This is the **दिव्यता (*divyatā*)** layer. The verse moves from engineering to radiance.
 
@@ -150,7 +150,7 @@ The same is visible in everyday English compounds. Speakers can feel a burst of 
 
 Mahāprāṇa is a structural feature, and it displays the design requirement the whole grid serves: distinguishability. The new contrasts arrive on an independent axis — breath — instead of crowding the place axis. The system keeps five clean stations. The result is more range with less horizontal clutter.
 
-Sanskrit's treatment of *visarga* also expresses its wider discipline of breath. Recitation trains *prāṇa*, sound gives it measure, and grammatical rules specify how its release changes at a boundary.[NOTE: mishra-breath-pedagogy]
+Sanskrit's treatment of *visarga* also expresses its wider discipline of breath. Recitation trains *prāṇa*, sound gives that breath audible form, and grammatical rules specify how its release changes at a boundary.[NOTE: mishra-breath-pedagogy]
 
 The breath-axis continues beyond the stop matrix into boundary sounds. The most familiar are **अनुस्वार (*anusvāra*)** and **विसर्ग (*visarga*)**. The *anusvāra* indicates nasal resonance that points toward the following sound. In careful analysis, it is a shorthand for nasal behavior specified by the next contact. The *visarga* is a release of breath after a vowel, often shaped by what follows.[NOTE: sandhi-anusvara-assimilation]
 
@@ -170,7 +170,7 @@ A **sonomer** is the measured sound-particle, whereas an **audiograph** is the v
 
 An *akṣara* is vowel-centered. One vowel nucleus centers the unit. Consonants can open around it, close around it, or cluster at its edges, but the vowel supplies the acoustic center. Thus **पच् (*pac*)** is one *akṣara*, while **पचति (*pacati*)** has three.
 
-The *varṇamālā* is spatial and temporal. The spatial grid tells the body where and how to make contact. The timing grid tells the reciter how long the sound lasts. The unit is the **मात्रा (*mātrā*)**, the measure.
+The *varṇamālā* is spatial and temporal. The spatial grid tells the body where and how to make contact. The timing grid tells the reciter how long the sound lasts. The unit of duration is the **मात्रा (*mātrā*)**.
 
 | Sonomer type | Sanskrit term | Duration | Role |
 |---|---|---:|---|
@@ -235,7 +235,7 @@ Pitch does not create the excluded duration positions in the table. It operates 
 
 ## 9.9 The Sound Volume
 
-Once the consonant grid and the vowel measures are visible, the inventory opens into a volume.
+Once the consonant grid and the vowel durations are visible, the inventory opens into a volume.
 
 The sound plane crosses five mouth stations with seven consonant rows, creating thirty-five possible coordinates. Sanskrit uses thirty-three of them for independent consonants: twenty-five *sparśa*, four *antaḥstha*, and four *ūṣman*. The remaining two coordinates allow us to ask what sounds the mouth could place there, and why Sanskrit gives those sounds a different architectural role.
 

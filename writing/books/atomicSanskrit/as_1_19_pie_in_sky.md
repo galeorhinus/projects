@@ -77,7 +77,7 @@ PIE depends on the split. The pyramid's story requires Sanskrit before Pāṇini
 
 *An engineered calibrant does not need a natural ancestor, and a decoded system does not need a codifier.*
 
-PIE protects this boundary too. If Sanskrit is only a natural language before Pāṇini and a "codified" language after Pāṇini, then PIE remains plausible and authority remains necessary. But if Sanskrit is recognized as a calibrant, the direction reverses. Sanskrit becomes the measure, not the measured. Pāṇini becomes the decoder of an already-operative architecture, not the authority who imposed order. The pyramid cannot allow that recognition to spread even among its own readers. Once the calibrant is visible, the imaginary ancestor begins to look unnecessary.
+PIE protects this boundary too. If Sanskrit is only a natural language before Pāṇini and a "codified" language after Pāṇini, then PIE remains plausible and authority remains necessary. But if Sanskrit is recognized as a calibrant, the direction reverses. Sanskrit becomes the calibrant rather than the object being calibrated. Pāṇini becomes the decoder of an already-operative architecture, not the authority who imposed order. The pyramid cannot allow that recognition to spread even among its own readers. Once the calibrant is visible, the imaginary ancestor begins to look unnecessary.
 
 PIE cannot account for the calibration matrix. A precursor language does not contain *pāṭha* recitations, *Prātiśākhya* specifications, *Śikṣā* training, or engineered anti-entropy.
 

@@ -22,7 +22,7 @@ Chapter 9 maps these relations as one vowel architecture. The vowel family ident
 
 As students repeat a measured phrase, its rhythm divides the passage into forms the mouth can rehearse and the ear can recognize. The teacher and student therefore both already know how the line should be timed, before correction ever begins.
 
-Recitation is a form of a public audit. A *śiṣya* recites before a *guru*, peers, senior reciters, and a community that together serve as a distributed standard. A departure from the established form can therefore be heard and corrected as it occurs. The *guru* applies the auditory measure learned from his own *guru*, and the student joins the lineage by learning to produce and recognize that same measure.
+Recitation is a form of a public audit. A *śiṣya* recites before a *guru*, peers, senior reciters, and a community that together serve as a distributed standard. A departure from the established form can therefore be heard and corrected as it occurs. The *guru* applies the sound pattern learned from his own *guru*, and the student joins the lineage by learning to produce and recognize that same pattern.
 
 The Veda lives first in recitation, while writing provides a visible reflection of the recited form. The usual enumeration places *Śikṣā* first among the *Vedāṅgas*. That position is consistent with the practical order of preservation: the body must produce the sound accurately before another discipline can analyze its grammar, explain a difficult word, apply it in yajña, or determine its calendrical setting.[NOTE: shiksha-first-vedanga-priority]
 

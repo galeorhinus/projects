@@ -20,7 +20,7 @@
 
 Sanskrit's architecture was built to last. Its visible components now include the **वर्णमाला (*varṇamālā*)** as the engineered phonetic grid, the **धातवः (*dhātavaḥ*)** as an inventory of reactive atoms, the **गणाः (*gaṇāḥ*)** as Pāṇini's operating classes, the **उपसर्गाः (*upasargāḥ*)** and **प्रत्ययाः (*pratyayāḥ*)** as the bonding procedure, and the **अष्टाध्यायी (*Aṣṭādhyāyī*)** as the formal specification. The system is integrated and complete.
 
-Sanskrit can serve as a measure only while that measure remains stable. If the sounds, relations, and forms used for correction changed whenever ordinary speech changed, they could no longer show where the change occurred.
+Sanskrit can serve as a calibrant only while its architecture remains stable. If the sounds, relations, and forms used for correction changed whenever ordinary speech changed, they could no longer show where the change occurred.
 
 Sanskrit's own vocabulary has a name for the danger: **अपभ्रंशः (*apabhraṃśa*)** — falling away, slippage, the unmaking of an engineered form into fallen-away variants. Patañjali lists the case (Chapter 6 §6.2): **गौः (*gauḥ*)** (the engineered Sanskrit word for *cow*) against the four *apabhraṃśas* the **महाभाष्य (*Mahābhāṣya*)** documents — **गावी (*gāvī*)**, **गोणी (*goṇī*)**, **गोता (*gotā*)**, **गोपोतलिका (*gopotalikā*)**. The source is one. The fallings-away are many. *Apabhraṃśa* is the default trajectory of any linguistic form left to uncalibrated speech.
 
@@ -144,17 +144,17 @@ These histories separate two movements that the word *codification* tends to blu
 
 ### Preservation by Calibration
 
-External authority can preserve a bounded form with considerable rigor. Sanskrit solves a different preservation problem by placing the measure inside a generative language and inside the people trained to transmit it.
+External authority can preserve a bounded form with considerable rigor. Sanskrit solves a different preservation problem by placing the standard inside a generative language and inside the people trained to transmit it.
 
 The grammatical principle is: bond first, usage second, *śāstra* third (Chapter 5). The calibration matrix is that principle scaled to civilization. The standard already stands; the system trains bodies, ears, memory, grammar, and community to keep usage aligned with it.
 
-A Sanskrit form passes from teacher to student with the same vowel length, accent, and sequence, generation after generation, while ordinary speech around it changes. That constancy under transmission is **ध्रौव्यता (*dhrauvyatā*)**. Sanskrit can therefore serve as the fixed measure against which sound, form, memory, grammar, and usage are checked: **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**, the calibrant language.
+A Sanskrit form passes from teacher to student with the same vowel length, accent, and sequence, generation after generation, while ordinary speech around it changes. That constancy under transmission is **ध्रौव्यता (*dhrauvyatā*)**. Sanskrit can therefore serve as the fixed standard against which sound, form, memory, grammar, and usage are checked: **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)**, the calibrant language.
 
-Sanātan assigns the calibrant and ordinary speech different work. People conduct daily life through *prākṛtika* languages, regional speech, household speech, songs, and market idioms. These living languages adapt with their speakers, while Sanskrit remains available as the measure that preserves knowledge and long memory.
+Sanātan assigns the calibrant and ordinary speech different work. People conduct daily life through *prākṛtika* languages, regional speech, household speech, songs, and market idioms. These living languages adapt with their speakers, while Sanskrit remains available as the calibrant that preserves knowledge and long memory.
 
-This arrangement allows natural languages to flourish without treating them as failed Sanskrit. It also allows the calibrant to remain invariant without turning it into an apex language imposed on every household. The measure remains stable, and ordinary speech continues to flow.
+This arrangement allows natural languages to flourish without treating them as failed Sanskrit. It also allows the calibrant to remain invariant without turning it into an apex language imposed on every household. That standard remains stable, and ordinary speech continues to flow.
 
-Like **ध्रुव (*dhruva*)**, the fixed star, Sanskrit serves as the disciplined, preserved, architected measure against which knowledge, *yajña*, grammar, memory, and civilizational continuity can be evaluated. The Vedic corpus, the Prātiśākhya discipline, Śikṣā, Chandas, the *pāṭha* systems, Vyākaraṇam, the Dhātupāṭha, and the *guru-shishya* lineage-chains form its calibration architecture. Those who choose the path of rigor accept the burden of preservation. Their training turns correctness into practice by detecting change, correcting it, and refining the human instrument that preserves the form.
+Like **ध्रुव (*dhruva*)**, the fixed star, Sanskrit serves as the disciplined and preserved calibrant against which knowledge, *yajña*, grammar, memory, and civilizational continuity can be evaluated. The Vedic corpus, the Prātiśākhya discipline, Śikṣā, Chandas, the *pāṭha* systems, Vyākaraṇam, the Dhātupāṭha, and the *guru-shishya* lineage-chains form its calibration architecture. Those who choose the path of rigor accept the burden of preservation. Their training turns correctness into practice by detecting change, correcting it, and refining the human instrument that preserves the form.
 
 *Paramparā* supplies the distributed transmission architecture that the English word "tradition" fails to describe. Its vertical dimension preserves exact form through the *guru-shishya* lineage-chain, while its horizontal dimension moves learned people among villages, towns, assemblies, yajña settings, *pāṭhaśālās*, *maṭhas*, and scholarly circuits. Society sustains that movement by providing lodging, food, patronage, *dakṣiṇā*, travel support, public debate, yajña invitations, and scholarly exchange, allowing knowledge to circulate without placing it under a central authority.
 

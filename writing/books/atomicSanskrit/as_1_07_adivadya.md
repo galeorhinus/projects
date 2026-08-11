@@ -68,7 +68,7 @@ Most consonants are controlled bursts — which is why the tabla analogy works. 
 
 A vowel begins when the vocal cords supply a tone and the vocal tract stays open enough for that tone to continue. The tongue, lips, jaw, and nasal passage shape the resonance, and the sound lasts for as long as the speaker maintains that configuration. Unlike a stop consonant, the vowel does not depend on a complete closure and release.
 
-Three parameters do most of the work: tongue height, tongue advancement, and lip rounding. High front unrounded gives the *ee* of *see*. High back rounded gives the *oo* of *moon*. Low open position gives the *ah* of *father*. Nasalization couples the nasal cavity. Length controls duration; Sanskrit makes that duration countable through **मात्रा (*mātrā*)**, the measure of how long a sound occupies speech-time.[NOTE: hrasva-dirgha-pluta-matra] Tone adds pitch contour.
+Three parameters do most of the work: tongue height, tongue advancement, and lip rounding. High front unrounded gives the *ee* of *see*. High back rounded gives the *oo* of *moon*. Low open position gives the *ah* of *father*. Nasalization couples the nasal cavity. Length controls duration; Sanskrit makes that duration countable through **मात्रा (*mātrā*)**, the unit that records how long a sound occupies speech-time.[NOTE: hrasva-dirgha-pluta-matra] Tone adds pitch contour.
 
 Languages select from this space differently. Spanish uses a clean five-vowel system. English uses a larger and messier vowel inventory. French adds nasal vowels. Mandarin layers tone on top of vowel quality.
 

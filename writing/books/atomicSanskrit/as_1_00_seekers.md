@@ -126,7 +126,7 @@ The *laukika* domain remains open to composition. People use it to tell stories,
 
 Some laukika material is certainly newer. Some may be extremely old. A story could have circulated before a particular mantra was seen, just as an author can write an epilogue before writing a preface. We do not possess the chronology required to place every laukika composition after every Vedic mantra. The naming of the two domains describes purpose and usage, not sequence.
 
-Their different exposure to entropy follows from those purposes. The Vedic domain is guarded by exact transmission because the Vedas are the calibrant. Every recitation is measured against the received form.
+Their different exposure to entropy follows from those purposes. The Vedic domain is guarded by exact transmission because the Vedas are the calibrant. Every recitation is checked against the received form.
 
 The laukika domain faces greater entropic pressure because it remains generative. New speakers, new compositions, new circumstances, and ordinary usage create opportunities for pronunciation, forms, and meanings to vary. The ***वैयाकरणाः (vaiyākaraṇāḥ)*** documented both domains, but their calibrating activity belonged to the laukika domain. They did not calibrate the Vedas. The Vedas supplied the calibration.
 
@@ -164,7 +164,7 @@ At the turn from the Dvāpara age to the Kali age — the age of the Mahābhāra
 
 Around the same time, the *itihāsa-purāṇa* — the fifth Veda — passed to the laukika keepers: the laukika domain, expressed in *bhāṣā* (भाषा), the mode of speech. Its corpus grows, its vocabulary meets each changing age through derivation, and the language remains invariant.
 
-The continuum measures all of this in its own time — *Sanātana* time. Tretā turned before Dvāpara, Satya before that, and the yuga cycle had already repeated through earlier manvantaras. We do not know whether the Vedas came into being during Dvāpara, Tretā, Satya, or an earlier manvantara. But from its beginning, the Veda has kept watch over the laukika world, unchanged — the invariant calibrant against which the turning world is can choose to calibrate itself.
+The continuum understands all of this through its own conception of time — *Sanātana* time. Tretā turned before Dvāpara, Satya before that, and the yuga cycle had already repeated through earlier manvantaras. We do not know whether the Vedas came into being during Dvāpara, Tretā, Satya, or an earlier manvantara. But from its beginning, the Veda has kept watch over the laukika world, unchanged — the invariant calibrant against which the turning world can choose to calibrate itself.
 
 ![Figure 0.2 — Sanātana Time. Sanātana time extends from *anādi* to *ananta*. The Veda begins at an unknown point within that span. The one Veda (invariant, *chandas* mode) divides into four at the Mahābhārata — each *saṃhitā* with its *vistāra* — while the *itihāsa-purāṇa* crosses into the laukika domain (*bhāṣā* mode), where civilizational clarity rises and falls across the yugas.](figures/seekers/seekers_vaidika_laukika.svg){#fig:sanatana-time width=100%}
 
@@ -285,7 +285,7 @@ The *guru-shishya* chain provides one visible example. A *guru* transmits to a *
 
 The hearing-repetition-correction cycle is the smallest visible unit of caretaking: correction without contempt, repetition without fatigue, memory with accountability. A mother correcting a child's Gītā recitation belongs to the same civilizational pattern as a Vedic teacher correcting a student's accent. Scale differs. The duty does not.
 
-The transmission has operated continuously across the Sanskrit continuum. Nambūdiri Brahmins in Kerala recite the *Ṛgveda* today after learning it from teachers who received it through the same lineage. Recitation lineages in Maharashtra, Tamil Nadu, Banaras, Karnataka, Kashmir, Gujarat, and Rajasthan preserve comparable forms through their own teachers. Because these lineages remained geographically separated, they provide several independent points of comparison. No single lineage owns the measure; reciters can compare the preserved form across lineages and identify both shared features and *śākhā*-specific variation.
+The transmission has operated continuously across the Sanskrit continuum. Nambūdiri Brahmins in Kerala recite the *Ṛgveda* today after learning it from teachers who received it through the same lineage. Recitation lineages in Maharashtra, Tamil Nadu, Banaras, Karnataka, Kashmir, Gujarat, and Rajasthan preserve comparable forms through their own teachers. Because these lineages remained geographically separated, they provide several independent points of comparison. No single lineage owns the standard; reciters can compare the preserved form across lineages and identify both shared features and *śākhā*-specific variation.
 
 Performance, correction, and continuity preserve Sanskrit beyond the library. The detailed mapping appears in Chapter 15 as the *aural architecture* — the operational specification of the calibration matrix that keeps Sanskrit's phonetic constants stable across the depth of time.
 
