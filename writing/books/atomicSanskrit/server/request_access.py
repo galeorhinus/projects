@@ -125,17 +125,19 @@ def page(title: str, heading: str, body: str) -> str:
 
 # Book identity kicker — used on the named-invite pages, where a bare
 # "Welcome, {name}" carries no visual sign of which book this is for.
-# Title/subtitle match as_book.yaml exactly; not user input, so no
-# html.escape() needed. The icon is inlined (not linked) so this page
-# never depends on the static site's build state or asset paths — read
-# once at import time, with a graceful empty fallback if the repo layout
-# ever changes, since a missing icon shouldn't be able to take the whole
-# service down.
-_ICON_PATH = Path(__file__).parent.parent / "figures/_shared/icons/ic-engineered.svg"
-try:
-    _ENGINEERED_ICON_SVG = _ICON_PATH.read_text(encoding="utf-8")
-except OSError:
-    _ENGINEERED_ICON_SVG = ""
+# Title/subtitle match as_book.yaml; icon matches
+# figures/_shared/icons/ic-engineered.svg — both copied in as literals,
+# not read from disk at runtime. This service deploys as loose script
+# files (see server/README.md's "Copy the scripts" step: only
+# request_access.py and add_invite.py get copied to /opt/secondshanti/,
+# never the rest of the repo), so any relative-path lookup outside the
+# script's own directory silently fails in production even though it
+# works fine from a full git checkout. A literal has no path to get
+# wrong. If the source icon changes, re-copy its <svg>...</svg> content
+# here by hand.
+_ENGINEERED_ICON_SVG = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96" style="color:#2b2b2d">
+<path fill="#4a3f30" d="M90.2,96H5.8C2.6,96,0,93.4,0,90.2V5.8C0,2.6,2.6,0,5.8,0h84.5C93.4,0,96,2.6,96,5.8v84.5C96,93.4,93.4,96,90.2,96z"></path><path fill="#ece4d3" d="M53.5,50.8L42.5,31.9H20.7L9.8,50.8l10.9,18.9h21.9L53.5,50.8z"></path><path fill="#aa9a7a" d="M86.3,31.9L75.3,13H53.5L42.5,31.9l10.9,18.9h21.9L86.3,31.9z"></path><path fill="none" stroke="#ece4d3" stroke-width="3.4" stroke-linejoin="round" d="M53.5,50.8L42.5,31.9H20.7L9.8,50.8l10.9,18.9h21.9L53.5,50.8z"></path><path fill="none" stroke="#ece4d3" stroke-width="3.4" stroke-linejoin="round" d="M86.3,31.9L75.3,13H53.5L42.5,31.9l10.9,18.9h21.9L86.3,31.9z"></path><g fill="none" stroke="#ece4d3" stroke-width="2.5" stroke-linecap="round"><line x1="14.1" y1="87.4" x2="82.1" y2="87.4"></line><line x1="14.1" y1="87.4" x2="14.1" y2="79.5"></line><line x1="82.1" y1="87.4" x2="82.1" y2="79.5"></line><line x1="48" y1="87.4" x2="48.1" y2="79.5"></line><line x1="30.8" y1="87.4" x2="30.8" y2="83.4"></line><line x1="67.9" y1="87.4" x2="67.9" y2="83.4"></line></g>
+</svg>"""
 
 BOOK_KICKER = f"""<div class="kicker">
   <div class="kicker-icon">{_ENGINEERED_ICON_SVG}</div>
