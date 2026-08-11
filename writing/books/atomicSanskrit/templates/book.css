@@ -143,18 +143,19 @@ article pre code{background:none;border:0;padding:0;font-size:13.5px;line-height
 @media(max-width:640px){
   /* The Hypothesis client docks a full-height icon rail (collapse arrow,
      eye, note-count) against the real right edge of the viewport,
-     roughly 74px wide, present at every scroll position. On mobile our
-     own content already runs close to that same edge (only 22px of
-     padding), so the rail cuts into it — confirmed 2026-08-11, it was
-     clipping "Book" in the sitebar nav to "Boo". Reserve the same right
-     margin everywhere content reaches close to the edge, not just the
-     sitebar, so the page's right edge stays visually consistent instead
-     of the bar cutting in earlier than the content below it. */
-  .site-header,main,.chapter-nav,.site-footer{padding-left:22px;padding-right:74px}
-  .sitebar .in{padding:10px 74px 10px 22px;gap:7px}
+     present at every scroll position. On mobile our own content already
+     runs close to that same edge (only 22px of padding), so the rail
+     cuts into it — confirmed 2026-08-11, it was clipping "Book" in the
+     sitebar nav to "Boo". Reserve the same right margin everywhere
+     content reaches close to the edge, not just the sitebar, so the
+     page's right edge stays visually consistent instead of the bar
+     cutting in earlier than the content below it. First pass (74px) ran
+     too far inside — reduced. */
+  .site-header,main,.chapter-nav,.site-footer{padding-left:22px;padding-right:44px}
+  .sitebar .in{padding:10px 44px 10px 22px;gap:7px}
   .sitebar .wm{display:none}
   .sitebar details.toc-drop > summary{font-size:12.5px;padding:5px 7px}
-  .sitebar details.toc-drop > ul{min-width:0;width:max-content;max-width:calc(100vw - 118px)}
+  .sitebar details.toc-drop > ul{min-width:0;width:max-content;max-width:calc(100vw - 88px)}
   .sitebar .chnav{width:25px;height:25px;font-size:17px}
   .sitebar .nav{gap:12px;font-size:13px}
   h1.chapter-title{font-size:29px;margin-top:32px}
