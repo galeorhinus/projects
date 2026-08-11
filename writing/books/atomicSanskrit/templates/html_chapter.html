@@ -40,16 +40,16 @@
 </header>
 $if(prevurl)$$if(nexturl)$
 <nav class="chapter-nav top">
-  <a class="prev" href="$prevurl$">← $prevtitle$</a>
-  <a class="next" href="$nexturl$">$nexttitle$ →</a>
+  <a class="prev" href="$prevurl$">← {{PREVTITLE_HTML}}</a>
+  <a class="next" href="$nexturl$">{{NEXTTITLE_HTML}} →</a>
 </nav>
 $else$
 <nav class="chapter-nav top">
-  <a class="prev" href="$prevurl$">← $prevtitle$</a>
+  <a class="prev" href="$prevurl$">← {{PREVTITLE_HTML}}</a>
 </nav>
 $endif$$else$$if(nexturl)$
 <nav class="chapter-nav top">
-  <a class="next" href="$nexturl$">$nexttitle$ →</a>
+  <a class="next" href="$nexturl$">{{NEXTTITLE_HTML}} →</a>
 </nav>
 $endif$$endif$
 <main>
@@ -60,16 +60,16 @@ $body$
 </main>
 $if(prevurl)$$if(nexturl)$
 <nav class="chapter-nav bottom">
-  <a class="prev" href="$prevurl$">← $prevtitle$</a>
-  <a class="next" href="$nexturl$">$nexttitle$ →</a>
+  <a class="prev" href="$prevurl$">← {{PREVTITLE_HTML}}</a>
+  <a class="next" href="$nexturl$">{{NEXTTITLE_HTML}} →</a>
 </nav>
 $else$
 <nav class="chapter-nav bottom">
-  <a class="prev" href="$prevurl$">← $prevtitle$</a>
+  <a class="prev" href="$prevurl$">← {{PREVTITLE_HTML}}</a>
 </nav>
 $endif$$else$$if(nexturl)$
 <nav class="chapter-nav bottom">
-  <a class="next" href="$nexturl$">$nexttitle$ →</a>
+  <a class="next" href="$nexturl$">{{NEXTTITLE_HTML}} →</a>
 </nav>
 $endif$$endif$
 <footer class="site-footer">

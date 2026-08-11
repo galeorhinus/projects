@@ -276,32 +276,34 @@ def render_chapter(entry: dict, prev: dict | None, next_: dict | None,
     }
     if prev:
         metadata["prevurl"] = prev["url"]
-        # Plain title, unchanged from the original behavior: pandoc
-        # template-variable substitution HTML-escapes metadata strings, so
-        # wrapping this in <em> for the visible nav-card text would show
-        # literal "&lt;em&gt;" rather than rendering — a real regression
-        # tried and reverted here. (The pre-existing cosmetic issue where
-        # markdown asterisks in a title show up un-italicized in the nav
-        # cards is untouched — out of scope for this change; asterisks
-        # aren't escaped, so it was never broken by this, just never
-        # fixed.) prevtitle_plain strips them for the sitebar arrow's
-        # title=/aria-label= attributes, which can't render markup anyway.
-        metadata["prevtitle"] = prev["title"]
+        # prevtitle_plain: markdown emphasis stripped, for the sitebar
+        # arrow's title=/aria-label= attributes, which can't render markup
+        # anyway. The nav cards' visible {{PREVTITLE_HTML}} marker is
+        # filled in below, post-render — pandoc's own $var$ template
+        # substitution HTML-escapes metadata strings (confirmed: wrapping
+        # a title in <em> for a $prevtitle$ placeholder came out as the
+        # literal text "&lt;em&gt;"), so injecting real markup has to
+        # happen after pandoc has already written its output, the same
+        # way the sitebar Contents dropdown is spliced in below.
         metadata["prevtitle_plain"] = _strip_md_emphasis(prev["title"])
     if next_:
         metadata["nexturl"] = next_["url"]
-        metadata["nexttitle"] = next_["title"]
         metadata["nexttitle_plain"] = _strip_md_emphasis(next_["title"])
 
     run_pandoc(tmp_md, out_path, metadata)
     tmp_md.unlink()
 
-    html_text = out_path.read_text()
+    original = out_path.read_text()
+    html_text = original
+    if prev:
+        html_text = html_text.replace("{{PREVTITLE_HTML}}", _md_inline_to_html(prev["title"]))
+    if next_:
+        html_text = html_text.replace("{{NEXTTITLE_HTML}}", _md_inline_to_html(next_["title"]))
     headings = H2_HEADING_RE.findall(html_text)
     toc_slot = _build_sitebar_toc_html(headings) if headings else ""
-    spliced = html_text.replace("<!--CHAPTER-TOC-SLOT-->", toc_slot, 1)
-    if spliced != html_text:
-        out_path.write_text(spliced)
+    html_text = html_text.replace("<!--CHAPTER-TOC-SLOT-->", toc_slot, 1)
+    if html_text != original:
+        out_path.write_text(html_text)
 
     print(f"  rendered  /book/{entry['slug']}/  ({entry['file']})")
     return headings
