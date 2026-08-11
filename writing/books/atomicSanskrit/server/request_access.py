@@ -335,8 +335,9 @@ install.</p>
   approval step on their end.</p>
 </details>
 
-<p class="action">Once you've joined, come back here and confirm your
-email below so we can set up your reading access on our side.</p>
+<p class="action">Once you've joined, remember the username you signed up
+with. Come back here and confirm your email below — paste in that
+username too, so we can set up your reading access on our side.</p>
 
 <form method="post">
   <label for="email">Email</label>
