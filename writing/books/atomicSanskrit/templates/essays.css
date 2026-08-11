@@ -1,188 +1,94 @@
-/* secondshanti.org/as — shared stylesheet for the public landing
- * (/as/), the essay shelves (/as/essays/, /as/private/), and every
- * essay page under those.
- *
- * Book content has its own stylesheet at /as/book/css/book.css.
- *
- * System fonts only; no JavaScript, no external font loading.
- * Devanagari falls through via the appended sans-serif stack: the
- * browser picks a Devanagari face automatically when it needs to
- * render glyphs the serif body cannot supply.
- */
+/* ==========================================================
+   essays.css — Atomic Sanskrit · essays (/as/essays/, /as/private/)
+   One stylesheet, two content shapes, both served by html_essay.html:
+     (a) SHELF LISTING  — h1 + intro prose + repeated .shelf-entry
+     (b) SINGLE ESSAY   — h1 + long-form prose in main.prose
+   New direction: warm sand/gold/taupe, Gentium Book Plus. Safe to
+   replace wholesale — unlike book.css, nothing else on the site
+   references this file.
+   ========================================================== */
 
-:root {
-  --measure: 38rem;
-  --fg: #1c1c1c;
-  --fg-quiet: #555;
-  --bg: #fafaf7;
-  --rule: #cdcabf;
-  --link: #1e3a8a;
-  --link-hover: #1d4ed8;
-  --code-bg: rgba(0, 0, 0, 0.05);
-  --quote-fg: #333;
+:root{
+  --field:#f4f4f3;--panel:#fbf9f4;--sand:#ece4d3;--sand2:#f4efe4;
+  --taupe:#aa9a7a;--brown:#766652;--deep:#4a3f30;
+  --gold:#c19a4e;--gold-d:#9a7833;--sun:#cf8a2e;
+  --ink:#2b2b2d;--ink2:#4a4136;--line:#d8cfbd;--line2:#c3b9a3;
+  --lat:'Gentium Book Plus',Charter,'Charis SIL',Georgia,serif;
+  --dev:'Noto Serif Devanagari','Adobe Devanagari',serif;
 }
+*{box-sizing:border-box}
+html,body{margin:0;min-height:100%;background:var(--field);color:var(--ink);font-family:var(--lat);-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+a{color:var(--gold-d)}a:hover{color:var(--deep)}
+:lang(sa),.devanagari{font-family:var(--dev)}
 
-* { box-sizing: border-box; }
+/* ---- site bar (template chrome) ---- */
+.sitebar{border-bottom:1px solid var(--line);background:var(--panel)}
+.sitebar .in{max-width:820px;margin:0 auto;padding:13px 30px;display:flex;align-items:center;gap:12px}
+.sitebar a.home{display:flex;align-items:center;gap:12px;text-decoration:none;color:inherit}
+.sitebar svg{flex:none;display:block}
+.sitebar .wm{font-size:16px;font-weight:700;letter-spacing:-.008em}
+.sitebar .nav{margin-left:auto;display:flex;gap:20px;font-size:14px}
+.sitebar .nav a{text-decoration:none;font-weight:700}
+.sitebar .nav a:hover{text-decoration:underline}
 
-html { font-size: 18px; }
+/* ---- page shell ---- */
+.page{max-width:820px;margin:0 auto;padding:0 30px 70px}
+h1{font-size:36px;font-weight:700;letter-spacing:-.015em;line-height:1.1;margin:48px 0 0;padding-bottom:20px;border-bottom:2px solid var(--ink)}
+h1 em{font-style:italic}
 
-body {
-  margin: 0;
-  padding: 1.5rem 1.25rem 3rem;
-  max-width: var(--measure);
-  margin-left: auto;
-  margin-right: auto;
-  font-family: Charter, Georgia, "Times New Roman", Times,
-               "Noto Sans Devanagari", "Kohinoor Devanagari",
-               "Devanagari MT", "Arial Unicode MS", sans-serif;
-  font-size: 1.05rem;
-  line-height: 1.55;
-  color: var(--fg);
-  background: var(--bg);
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-}
+/* ---- long-form prose (single essay) ---- */
+.prose{font-size:17.5px;line-height:1.68;color:var(--ink2)}
+.prose > p{margin:20px 0 0;text-wrap:pretty}
+.prose > p:first-child{margin-top:26px}
+.prose strong{color:var(--ink);font-weight:700}
+.prose em{font-style:italic}
+.prose h2{font-size:24px;font-weight:700;color:var(--ink);line-height:1.25;margin:44px 0 0;letter-spacing:-.008em}
+.prose h3{font-size:19px;font-weight:700;color:var(--ink);margin:34px 0 0}
+.prose h2+p,.prose h3+p{margin-top:12px}
+.prose a{text-decoration:underline;text-underline-offset:2px;text-decoration-thickness:.06em}
+.prose blockquote{margin:24px 0 0;padding:2px 0 2px 20px;border-left:3px solid var(--gold);color:var(--brown)}
+.prose blockquote p{margin:8px 0 0}
+.prose blockquote p:first-child{margin-top:0}
+.prose ul,.prose ol{margin:18px 0 0;padding-left:24px}
+.prose li{margin:7px 0 0;line-height:1.62}
+.prose hr{border:0;height:1px;background:var(--line);margin:42px 0 0}
+.prose hr+p{margin-top:22px;font-size:15.5px;color:var(--brown)}
+.prose code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.86em;background:var(--sand);border:1px solid var(--line);border-radius:3px;padding:1px 5px}
+.prose pre{background:var(--panel);border:1px solid var(--line);border-radius:5px;padding:16px 18px;overflow-x:auto;margin:22px 0 0}
+.prose pre code{background:none;border:0;padding:0;font-size:13.5px;line-height:1.6}
+.prose figure{margin:30px 0 0}
+.prose figure img,.prose img{max-width:100%;height:auto;display:block}
+.prose figcaption{font-size:14px;color:var(--brown);line-height:1.5;margin-top:9px;font-style:italic}
+.prose table{border-collapse:collapse;width:100%;margin:26px 0 0;font-size:15.5px}
+.prose th,.prose td{border:1px solid var(--line);padding:8px 11px;text-align:left;line-height:1.5;vertical-align:top}
+.prose th{background:var(--sand);font-weight:700;color:var(--ink)}
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: inherit;
-  font-weight: 700;
-  line-height: 1.25;
-  margin-top: 2rem;
-  margin-bottom: 0.6rem;
-}
-h1 { font-size: 1.7rem; letter-spacing: -0.01em; margin-top: 0.5rem; }
-h2 { font-size: 1.3rem; }
-h3 { font-size: 1.1rem; }
-h4, h5, h6 { font-size: 1rem; font-style: italic; font-weight: 600; }
+/* ---- shelf listing ---- */
+.shelf-intro,.page > p{font-size:16.5px;line-height:1.66;color:var(--ink2);margin:26px 0 0;max-width:68ch}
+.shelf-entry{display:block;background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:20px 22px;margin:14px 0 0;transition:border-color .15s,box-shadow .15s,background .15s}
+.shelf-entry:first-of-type{margin-top:32px}
+.shelf-entry:hover{border-color:var(--taupe);background:var(--sand2);box-shadow:0 14px 32px -26px rgba(60,40,10,.7)}
+.shelf-entry a.title{display:block;font-size:20px;font-weight:700;color:var(--gold-d);text-decoration:none;line-height:1.25}
+.shelf-entry:hover a.title{color:var(--deep)}
+.shelf-entry a.title em{font-style:italic}
+.shelf-entry .description{font-size:15px;line-height:1.58;color:var(--ink2);margin-top:7px}
+.shelf-entry .description em{font-style:italic}
 
-p { margin: 0 0 1rem; hyphens: auto; }
+/* ---- footer ---- */
+footer{max-width:820px;margin:0 auto;padding:22px 30px 60px;border-top:1px solid var(--line);font-size:14px;color:var(--brown);margin-top:52px}
+footer p{margin:0 0 8px;line-height:1.6}
+footer strong{color:var(--ink)}
+footer em{font-style:italic}
+footer a{text-decoration:none;font-weight:700}
+footer a:hover{text-decoration:underline}
+.build-info{font-size:12.5px;color:var(--taupe);margin-top:12px}
+.build-info code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11.5px}
 
-em, i, cite { font-style: italic; }
-strong, b { font-weight: 700; }
-
-blockquote {
-  margin: 1.25rem 0 1.25rem 1.5rem;
-  padding-left: 0;
-  font-style: italic;
-  color: var(--quote-fg);
-}
-blockquote p:last-child { margin-bottom: 0; }
-
-hr {
-  border: 0;
-  border-top: 1px solid var(--rule);
-  margin: 2rem auto;
-  max-width: 8rem;
-}
-
-ul, ol { padding-left: 1.4rem; margin: 0 0 1rem; }
-li { margin-bottom: 0.4rem; }
-
-a {
-  color: var(--link);
-  text-decoration: none;
-  border-bottom: 1px dotted transparent;
-}
-a:hover {
-  color: var(--link-hover);
-  text-decoration: underline;
-  text-underline-offset: 0.15em;
-}
-
-code, pre {
-  font-family: "SFMono-Regular", Menlo, Consolas, "DejaVu Sans Mono", monospace;
-  font-size: 0.92em;
-}
-code {
-  background: var(--code-bg);
-  padding: 1px 4px;
-  border-radius: 3px;
-}
-pre {
-  overflow-x: auto;
-  padding: 0.75rem 1rem;
-  background: var(--code-bg);
-  border-radius: 4px;
-}
-pre code { background: none; padding: 0; }
-
-table {
-  border-collapse: collapse;
-  margin: 1.25rem 0;
-  width: 100%;
-  font-size: 0.94em;
-}
-th, td {
-  border-bottom: 1px solid var(--rule);
-  padding: 0.45rem 0.65rem;
-  text-align: left;
-  vertical-align: top;
-}
-th { font-weight: 700; border-bottom-width: 2px; }
-
-/* Essay-shelf entry — short title + description block. */
-.shelf-entry {
-  margin: 1.25rem 0;
-}
-.shelf-entry .title { font-weight: 700; }
-.shelf-entry .description {
-  margin-top: 0.2rem;
-  font-style: italic;
-  color: var(--quote-fg);
-}
-
-/* Calls-to-action on the landing page. */
-.cta-list {
-  margin: 1.75rem 0;
-}
-.cta-list .cta {
-  display: block;
-  font-weight: 700;
-  margin-bottom: 0.2rem;
-}
-.cta-list .description {
-  font-style: italic;
-  color: var(--quote-fg);
-}
-
-footer {
-  margin-top: 3rem;
-  padding-top: 1.25rem;
-  border-top: 1px solid var(--rule);
-  font-size: 0.88em;
-  color: var(--fg-quiet);
-}
-footer p { margin: 0.35rem 0; }
-footer a { color: var(--fg-quiet); }
-footer a:hover { color: var(--link-hover); }
-
-.build-info {
-  margin-top: 0.55rem;
-  font-size: 0.92em;
-  color: var(--fg-quiet);
-  letter-spacing: 0.01em;
-}
-.build-info code {
-  background: none;
-  padding: 0;
-  font-size: 1em;
-}
-
-@media (max-width: 600px) {
-  html { font-size: 17px; }
-  body { padding: 1rem 1rem 2rem; }
-  h1 { font-size: 1.45rem; }
-  h2 { font-size: 1.2rem; }
-}
-
-@media print {
-  body {
-    max-width: none;
-    padding: 0;
-    font-size: 12pt;
-    color: black;
-    background: white;
-  }
-  a { color: inherit; text-decoration: none; border-bottom: none; }
-  footer { border-top: 1px solid #888; }
+@media(max-width:560px){
+  .page{padding:0 22px 56px}
+  .sitebar .in{padding:11px 22px}
+  .sitebar .nav{gap:14px}
+  footer{padding:22px 22px 50px}
+  h1{font-size:28px;margin-top:36px}
+  .prose{font-size:16.5px}
 }

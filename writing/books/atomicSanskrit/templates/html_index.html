@@ -6,9 +6,117 @@
   <title>$booktitle$</title>
   <link rel="icon" href="/as/favicon.svg?v=2" type="image/svg+xml">
   <link rel="icon" href="/as/favicon.ico" sizes="any">
-  <link rel="stylesheet" href="$site_base$/css/book.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Serif+Devanagari:wght@400;600&display=swap" rel="stylesheet">
+<style>
+/* ==========================================================
+   html_index.html inline styles — Atomic Sanskrit · table of
+   contents (/as/book/). Deliberately NOT folded into the shared
+   book.css: that file is also used by html_chapter.html, which
+   hasn't been redesigned yet, and book.css's own html/body/a base
+   rules would leak the new palette onto chapter pages before their
+   content-specific styling exists to go with it. Self-contained
+   here, same pattern as the invite/404/landing pages, until the
+   chapter template is ready and everything can be consolidated
+   deliberately in one pass.
+   New direction: warm sand/gold/taupe, Gentium Book Plus.
+   Styles the markup render_index() in build_html.py emits:
+     main.contents-page > header.title-block + nav.toc + footer
+   ========================================================== */
+
+:root{
+  --field:#f4f4f3;--panel:#fbf9f4;--sand:#ece4d3;--sand2:#f4efe4;
+  --taupe:#aa9a7a;--brown:#766652;--deep:#4a3f30;
+  --gold:#c19a4e;--gold-d:#9a7833;--sun:#cf8a2e;
+  --ink:#2b2b2d;--ink2:#4a4136;--line:#d8cfbd;--line2:#c3b9a3;
+  --lat:'Gentium Book Plus',Charter,'Charis SIL',Georgia,serif;
+  --dev:'Noto Serif Devanagari','Adobe Devanagari',serif;
+}
+*{box-sizing:border-box}
+html,body{margin:0;min-height:100%;background:var(--field);color:var(--ink);font-family:var(--lat);-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+a{color:var(--gold-d)}a:hover{color:var(--deep)}
+:lang(sa),.devanagari{font-family:var(--dev)}
+
+/* ---- site bar (from the template chrome) ---- */
+.sitebar{border-bottom:1px solid var(--line);background:var(--panel)}
+.sitebar .in{max-width:1080px;margin:0 auto;padding:13px 30px;display:flex;align-items:center;gap:12px}
+.sitebar a.home{display:flex;align-items:center;gap:12px;text-decoration:none;color:inherit}
+.sitebar svg{flex:none;display:block}
+.sitebar .wm{font-size:16px;font-weight:700;letter-spacing:-.008em}
+.sitebar .nav{margin-left:auto;display:flex;gap:20px;font-size:14px}
+.sitebar .nav a{text-decoration:none;font-weight:700}
+.sitebar .nav a:hover{text-decoration:underline}
+
+/* ---- page shell ---- */
+.contents-page{max-width:1080px;margin:0 auto;padding:0 30px 66px}
+
+/* ---- masthead (header.title-block from the body variable) ----
+   The two-hexagon engineered mark sits beside the title, matching the
+   landing page lockup. It is a CSS background so no markup has to be
+   injected into Pandoc's generated title block. */
+.title-block{padding:52px 0 26px;border-bottom:2px solid var(--ink);display:grid;grid-template-columns:auto 1fr;column-gap:20px}
+.title-block > *{grid-column:2}
+.title-block::before{content:"";grid-column:1;grid-row:1 / span 2;align-self:center;width:68px;height:65px;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='4 8 88 84'%3E%3Cpath fill='%23e6c98f' d='M53.5,50.8L42.5,31.9H20.7L9.8,50.8l10.9,18.9h21.9L53.5,50.8z'/%3E%3Cpath fill='%23cf8a2e' d='M86.3,31.9L75.3,13H53.5L42.5,31.9l10.9,18.9h21.9L86.3,31.9z'/%3E%3Cpath fill='none' stroke='%23766652' stroke-width='3.4' stroke-linejoin='round' d='M53.5,50.8L42.5,31.9H20.7L9.8,50.8l10.9,18.9h21.9L53.5,50.8z'/%3E%3Cpath fill='none' stroke='%23766652' stroke-width='3.4' stroke-linejoin='round' d='M86.3,31.9L75.3,13H53.5L42.5,31.9l10.9,18.9h21.9L86.3,31.9z'/%3E%3Cg fill='none' stroke='%23aa9a7a' stroke-width='2.5' stroke-linecap='round'%3E%3Cline x1='14.1' y1='87.4' x2='82.1' y2='87.4'/%3E%3Cline x1='14.1' y1='87.4' x2='14.1' y2='79.5'/%3E%3Cline x1='82.1' y1='87.4' x2='82.1' y2='79.5'/%3E%3Cline x1='48' y1='87.4' x2='48.1' y2='79.5'/%3E%3Cline x1='30.8' y1='87.4' x2='30.8' y2='83.4'/%3E%3Cline x1='67.9' y1='87.4' x2='67.9' y2='83.4'/%3E%3C/g%3E%3C/svg%3E");background-repeat:no-repeat;background-size:contain}
+.book-title{font-size:42px;font-weight:700;letter-spacing:-.015em;line-height:1.06;margin:0}
+.book-subtitle{font-size:17px;color:var(--brown);line-height:1.45;margin:11px 0 0}
+.book-series{font-size:15px;color:var(--ink2);margin:18px 0 0}
+.book-series em{font-style:italic}
+.book-author{font-size:15px;color:var(--ink2);margin:3px 0 0;font-weight:700}
+
+/* ---- the contents ---- */
+.toc{margin-top:14px;column-count:2;column-gap:52px}
+.toc > h2{break-after:avoid;break-inside:avoid;font-size:19px;font-weight:700;line-height:1.25;margin:30px 0 0;padding-top:16px;border-top:1px solid var(--line);letter-spacing:-.006em}
+.toc > h2:first-of-type{margin-top:20px}
+.toc > h2 a{text-decoration:none;color:var(--ink)}
+.toc > h2 a:hover{color:var(--gold-d);text-decoration:underline}
+.toc .part-subtitle{display:block;font-size:14px;font-weight:400;color:var(--brown);margin-top:4px;line-height:1.4}
+.toc .part-subtitle em{font-style:italic}
+.toc > ul{break-inside:avoid;list-style:none;margin:10px 0 0;padding:0}
+.toc > ul > li{margin:0}
+.toc > ul > li > a{display:block;padding:7px 10px 7px 12px;margin-left:-12px;font-size:15.5px;line-height:1.42;color:var(--ink2);text-decoration:none;border-left:2px solid transparent;border-radius:0 3px 3px 0;transition:background .13s,border-color .13s,color .13s}
+.toc > ul > li > a:hover{background:var(--sand2);border-left-color:var(--gold);color:var(--deep)}
+.toc > ul > li > a em{font-style:italic}
+
+/* ---- footer ---- */
+.site-footer{margin-top:44px;padding-top:20px;border-top:1px solid var(--line);font-size:14px;color:var(--brown)}
+.site-footer p{margin:0 0 8px;line-height:1.6}
+.site-footer a{text-decoration:none;font-weight:700}
+.site-footer a:hover{text-decoration:underline}
+.build-info{font-size:12.5px;color:var(--taupe)}
+.build-info code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11.5px}
+
+@media(max-width:840px){
+  .toc{column-count:1}
+  .book-title{font-size:34px}
+}
+@media(max-width:560px){
+  .contents-page{padding:0 22px 54px}
+  .title-block{padding-left:0;padding-top:40px;column-gap:15px}
+  .title-block::before{width:46px;height:44px}
+  .sitebar .in{padding:11px 22px}
+  .sitebar .nav{gap:14px}
+  .book-title{font-size:29px}
+  .book-subtitle{font-size:15.5px}
+}
+</style>
 </head>
 <body>
+<div class="sitebar">
+  <div class="in">
+    <a class="home" href="/as/">
+      <svg width="30" height="30" aria-hidden="true" viewBox="0 0 96 96">
+        <path fill="#cf8a2e" d="M66.0,48.0 L57.0,32.4 L39.0,32.4 L30.0,48.0 L39.0,63.6 L57.0,63.6 Z"/>
+        <path fill="none" stroke="#cf8a2e" stroke-width="5.7" stroke-linecap="round" d="M74.1,48.0 L88.0,48.0 M70.5,35.0 L78.0,30.7 M61.0,25.5 L68.0,13.4 M48.0,21.9 L48.0,13.4 M35.0,25.5 L28.0,13.4 M25.5,35.0 L18.0,30.7 M21.9,48.0 L8.0,48.0 M25.5,61.0 L18.0,65.3 M35.0,70.5 L28.0,82.6 M48.0,74.1 L48.0,82.6 M61.0,70.5 L68.0,82.6 M70.5,61.0 L78.0,65.3"/>
+      </svg>
+      <span class="wm">Atomic Sanskrit</span>
+    </a>
+    <nav class="nav">
+      <a href="/as/essays/">Essays</a>
+      <a href="/as/book/">Book</a>
+    </nav>
+  </div>
+</div>
 <main class="contents-page">
 $body$
 </main>
