@@ -5,3 +5,12 @@ downloads/
 __pycache__/
 *.pyc
 server/invites.json
+
+# Generated build output (PDFs, assembled markdown, LaTeX preamble,
+# rendered website). Both the Mac and the server independently rebuild
+# these from source — tracking them in git means whichever side commits
+# last blocks the other side's `git pull` on its own uncommitted local
+# rebuild (see build/atomic_sanskrit.trade.short.pdf history for the
+# conflict this caused 2026-08-11). Regenerate with build_book.py /
+# build_html.py; never commit build/ output again.
+build/
