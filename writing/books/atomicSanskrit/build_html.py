@@ -116,6 +116,13 @@ HTML_IMG_REF_RE = re.compile(r'(src=")(?:\./)?figures/')
 # build_book.py's DRAFT_HEADER_RE but applied after the first heading).
 DRAFT_LINE_RE = re.compile(r"^\*Draft v[^\n]*\*\s*\n+", re.MULTILINE)
 
+# Top-level section headings in pandoc's own rendered output — read back
+# post-render rather than reimplementing pandoc's auto-identifier slug
+# algorithm, so the extracted anchors are guaranteed to match what's
+# actually in the page. Feeds both the in-chapter "Contents" disclosure
+# and the TOC's per-chapter accordion.
+H2_HEADING_RE = re.compile(r'<h2 id="([^"]+)">(.*?)</h2>', re.DOTALL)
+
 
 def git_metadata() -> dict[str, str]:
     """Capture build provenance for the page footer: most recent git tag,
@@ -235,12 +242,19 @@ def run_pandoc(md_path: Path, out_path: Path, metadata: dict[str, str]) -> None:
 
 
 def render_chapter(entry: dict, prev: dict | None, next_: dict | None,
-                   book_title: str, build_meta: dict[str, str]) -> None:
-    """Render one chapter to build/html/book/<slug>/index.html."""
+                   book_title: str, build_meta: dict[str, str]) -> list[tuple[str, str]]:
+    """Render one chapter to build/html/book/<slug>/index.html.
+
+    Returns the chapter's (id, inner_html) section headings — used by
+    render_index() to build that chapter's TOC accordion entry. Splices a
+    "Contents" dropdown into the sticky sitebar (replacing the
+    <!--CHAPTER-TOC-SLOT--> placeholder in html_chapter.html) so a reader
+    can jump to any of the chapter's own sections from anywhere on the
+    page, not just from the top."""
     src = BOOK_DIR / entry["file"]
     if not src.exists():
         print(f"  MISSING: {entry['file']}", file=sys.stderr)
-        return
+        return []
 
     raw = src.read_text()
     processed = preprocess_markdown(raw, entry["title"])
@@ -262,27 +276,77 @@ def render_chapter(entry: dict, prev: dict | None, next_: dict | None,
     }
     if prev:
         metadata["prevurl"] = prev["url"]
+        # Plain title, unchanged from the original behavior: pandoc
+        # template-variable substitution HTML-escapes metadata strings, so
+        # wrapping this in <em> for the visible nav-card text would show
+        # literal "&lt;em&gt;" rather than rendering — a real regression
+        # tried and reverted here. (The pre-existing cosmetic issue where
+        # markdown asterisks in a title show up un-italicized in the nav
+        # cards is untouched — out of scope for this change; asterisks
+        # aren't escaped, so it was never broken by this, just never
+        # fixed.) prevtitle_plain strips them for the sitebar arrow's
+        # title=/aria-label= attributes, which can't render markup anyway.
         metadata["prevtitle"] = prev["title"]
+        metadata["prevtitle_plain"] = _strip_md_emphasis(prev["title"])
     if next_:
         metadata["nexturl"] = next_["url"]
         metadata["nexttitle"] = next_["title"]
+        metadata["nexttitle_plain"] = _strip_md_emphasis(next_["title"])
 
     run_pandoc(tmp_md, out_path, metadata)
     tmp_md.unlink()
+
+    html_text = out_path.read_text()
+    headings = H2_HEADING_RE.findall(html_text)
+    toc_slot = _build_sitebar_toc_html(headings) if headings else ""
+    spliced = html_text.replace("<!--CHAPTER-TOC-SLOT-->", toc_slot, 1)
+    if spliced != html_text:
+        out_path.write_text(spliced)
+
     print(f"  rendered  /book/{entry['slug']}/  ({entry['file']})")
+    return headings
+
+
+def _build_sitebar_toc_html(headings: list[tuple[str, str]]) -> str:
+    """"Contents" dropdown spliced into the sticky sitebar in place of the
+    <!--CHAPTER-TOC-SLOT--> placeholder. Collapsed by default (native
+    <details>, no JS) — persistently reachable while scrolling, unlike a
+    one-time block placed after the chapter title."""
+    items = "\n".join(
+        f'<li><a href="#{hid}">{text}</a></li>' for hid, text in headings
+    )
+    return (
+        '<details class="toc-drop">\n'
+        '<summary>Contents</summary>\n'
+        f'<ul>\n{items}\n</ul>\n'
+        '</details>'
+    )
 
 
 def _md_inline_to_html(s: str) -> str:
-    """Convert *italic* / **bold** markdown to HTML — only used for the
-    title-block metadata fields (subtitle, series) which pandoc would
-    otherwise render as literal text via $variable$ interpolation."""
+    """Convert *italic* / **bold** markdown to HTML — used for metadata
+    fields (title-block subtitle/series, chapter-nav prev/next titles)
+    that pandoc would otherwise render as literal text via $variable$
+    interpolation, since template variable substitution is plain string
+    injection, not a markdown pass."""
     s = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", s)
     s = re.sub(r"\*(.+?)\*", r"<em>\1</em>", s)
     return s
 
 
+def _strip_md_emphasis(s: str) -> str:
+    """Plain-text version of a title for title=/aria-label= attributes —
+    removes markdown emphasis markers without adding HTML, since attribute
+    values can't render markup and a literal asterisk would just look like
+    a typo in the tooltip."""
+    s = re.sub(r"\*\*(.+?)\*\*", r"\1", s)
+    s = re.sub(r"\*(.+?)\*", r"\1", s)
+    return s
+
+
 def render_index(entries: list[dict], book_title: str, subtitle: str,
-                 series: str, author: str, build_meta: dict[str, str]) -> None:
+                 series: str, author: str, build_meta: dict[str, str],
+                 chapter_headings: dict[str, list[tuple[str, str]]]) -> None:
     """Generate build/html/index.html — the contents page, grouped by
     the assembly's `part` entries.
 
@@ -377,9 +441,31 @@ def render_index(entries: list[dict], book_title: str, subtitle: str,
         else:
             lines.append(f"## {title_md}")
         lines.append("")
+        # Raw HTML, not markdown bullets: a chapter with section headings
+        # gets a <details> accordion (its own section links jump straight
+        # to that chapter's anchors); a chapter with none (short front-
+        # matter pages, single-section notes) falls back to a plain link.
+        # Titles run through _md_inline_to_html since pandoc won't parse
+        # markdown emphasis inside a raw HTML block.
+        lines.append('<ul>')
         for e in group["entries"]:
             url = slug_to_url[e["file"]]
-            lines.append(f"- [{e['title']}]({url})")
+            title_html = _md_inline_to_html(e["title"])
+            headings = chapter_headings.get(e["file"], [])
+            if headings:
+                section_items = "\n".join(
+                    f'<li><a href="{url}#{hid}">{text}</a></li>'
+                    for hid, text in headings
+                )
+                lines.append(
+                    '<li><details class="chapter-acc">\n'
+                    f'<summary><a href="{url}">{title_html}</a></summary>\n'
+                    f'<ul class="section-list">\n{section_items}\n</ul>\n'
+                    '</details></li>'
+                )
+            else:
+                lines.append(f'<li><a href="{url}">{title_html}</a></li>')
+        lines.append('</ul>')
         lines.append("")
     lines.append('</nav>')
     # Build-provenance footer mirrors the chapter pages. No leading
@@ -699,11 +785,12 @@ def main() -> int:
 
     # ----- Book -------------------------------------------------------
     print("Rendering book under /book/ ...")
+    chapter_headings: dict[str, list[tuple[str, str]]] = {}
     for i, entry in enumerate(entries):
         prev = entries[i - 1] if i > 0 else None
         next_ = entries[i + 1] if i + 1 < len(entries) else None
-        render_chapter(entry, prev, next_, book_title, build_meta)
-    render_index(entries, book_title, subtitle, series, author, build_meta)
+        chapter_headings[entry["file"]] = render_chapter(entry, prev, next_, book_title, build_meta)
+    render_index(entries, book_title, subtitle, series, author, build_meta, chapter_headings)
 
     # ----- Public essays + shelf -------------------------------------
     if public_essays:

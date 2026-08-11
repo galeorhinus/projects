@@ -72,11 +72,30 @@ a{color:var(--gold-d)}a:hover{color:var(--deep)}
 .toc > h2 a:hover{color:var(--gold-d);text-decoration:underline}
 .toc .part-subtitle{display:block;font-size:14px;font-weight:400;color:var(--brown);margin-top:4px;line-height:1.4}
 .toc .part-subtitle em{font-style:italic}
-.toc > ul{break-inside:avoid;list-style:none;margin:10px 0 0;padding:0}
-.toc > ul > li{margin:0}
+.toc > ul{list-style:none;margin:10px 0 0;padding:0}
+.toc > ul > li{margin:0;break-inside:avoid}
 .toc > ul > li > a{display:block;padding:7px 10px 7px 12px;margin-left:-12px;font-size:15.5px;line-height:1.42;color:var(--ink2);text-decoration:none;border-left:2px solid transparent;border-radius:0 3px 3px 0;transition:background .13s,border-color .13s,color .13s}
 .toc > ul > li > a:hover{background:var(--sand2);border-left-color:var(--gold);color:var(--deep)}
 .toc > ul > li > a em{font-style:italic}
+
+/* ---- chapter accordions — each chapter's own section list, collapsed
+   by default. Native <details>, no JS. break-inside:avoid keeps a closed
+   row from splitting across the two CSS columns; an opened one reflows
+   normally, same as any dynamic-height content in a multicol layout. */
+.toc details.chapter-acc{margin:0}
+.toc details.chapter-acc > summary{list-style:none;cursor:pointer;display:flex;align-items:baseline;gap:7px;padding:7px 10px 7px 12px;margin-left:-12px;border-left:2px solid transparent;border-radius:0 3px 3px 0;transition:background .13s,border-color .13s}
+.toc details.chapter-acc > summary::-webkit-details-marker{display:none}
+.toc details.chapter-acc > summary::before{content:"▸";display:inline-block;width:.8em;flex:none;color:var(--taupe);transition:transform .15s}
+.toc details.chapter-acc[open] > summary::before{transform:rotate(90deg)}
+.toc details.chapter-acc > summary:hover{background:var(--sand2);border-left-color:var(--gold)}
+.toc details.chapter-acc > summary a{font-size:15.5px;line-height:1.42;color:var(--ink2);text-decoration:none;flex:1}
+.toc details.chapter-acc > summary a:hover{color:var(--deep);text-decoration:underline}
+.toc details.chapter-acc > summary a em{font-style:italic}
+.toc ul.section-list{list-style:none;margin:2px 0 9px 21px;padding:0;border-left:1px solid var(--line)}
+.toc ul.section-list li{margin:0}
+.toc ul.section-list li a{display:block;padding:4px 10px;font-size:13.5px;line-height:1.4;color:var(--brown);text-decoration:none}
+.toc ul.section-list li a:hover{background:var(--sand2);color:var(--gold-d);text-decoration:underline}
+.toc ul.section-list li a em{font-style:italic}
 
 /* ---- footer ---- */
 .site-footer{margin-top:44px;padding-top:20px;border-top:1px solid var(--line);font-size:14px;color:var(--brown)}
