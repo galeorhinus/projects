@@ -78,10 +78,17 @@ PAGE_HTML = """<!doctype html>
 <html><head><meta charset="utf-8">
 <title>{title} &mdash; Atomic Sanskrit</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="/as/favicon.svg?v=2" type="image/svg+xml">
+<link rel="icon" href="/as/favicon.ico" sizes="any">
 <style>
   body {{ font-family: Georgia, 'Charter', serif; max-width: 32em; margin: 4em auto;
          padding: 0 1.5em; color: #2b2b2d; line-height: 1.5; }}
   h1 {{ font-size: 1.4em; }}
+  .kicker {{ display: flex; align-items: center; gap: 0.8em; margin-bottom: 0.3em; }}
+  .kicker-icon svg {{ display: block; width: 40px; height: 40px; }}
+  .kicker-title {{ font-size: 0.95em; font-weight: bold; letter-spacing: 0.02em; color: #9a7833; }}
+  .kicker-subtitle {{ font-size: 0.8em; color: #666; font-style: italic; margin-top: 0.1em; }}
+  .action {{ font-size: 1.05em; }}
   label {{ display: block; margin-top: 1.2em; font-weight: bold; }}
   input[type=text], input[type=email], textarea {{
     width: 100%; padding: 0.5em; font-size: 1em; margin-top: 0.3em;
@@ -99,10 +106,11 @@ PAGE_HTML = """<!doctype html>
   p.note {{ color: #666; font-size: 0.9em; }}
   .explainer {{
     background: #f2ede2; border: 1px solid #e2dac9; border-radius: 4px;
-    padding: 0.8em 1.2em; margin-top: 1.2em;
+    padding: 0.6em 1.2em; margin-top: 1.2em;
   }}
-  .explainer ol {{ margin: 0.6em 0 0.2em; padding-left: 1.3em; }}
-  .explainer li {{ margin-top: 0.4em; }}
+  .explainer summary {{ cursor: pointer; font-weight: bold; padding: 0.2em 0; }}
+  .explainer[open] summary {{ margin-bottom: 0.4em; }}
+  .explainer p {{ margin: 0.4em 0; }}
 </style>
 </head><body>
 <h1>{heading}</h1>
@@ -113,6 +121,30 @@ PAGE_HTML = """<!doctype html>
 
 def page(title: str, heading: str, body: str) -> str:
     return PAGE_HTML.format(title=title, heading=heading, body=body)
+
+
+# Book identity kicker — used on the named-invite pages, where a bare
+# "Welcome, {name}" carries no visual sign of which book this is for.
+# Title/subtitle match as_book.yaml exactly; not user input, so no
+# html.escape() needed. The icon is inlined (not linked) so this page
+# never depends on the static site's build state or asset paths — read
+# once at import time, with a graceful empty fallback if the repo layout
+# ever changes, since a missing icon shouldn't be able to take the whole
+# service down.
+_ICON_PATH = Path(__file__).parent.parent / "figures/_shared/icons/ic-engineered.svg"
+try:
+    _ENGINEERED_ICON_SVG = _ICON_PATH.read_text(encoding="utf-8")
+except OSError:
+    _ENGINEERED_ICON_SVG = ""
+
+BOOK_KICKER = f"""<div class="kicker">
+  <div class="kicker-icon">{_ENGINEERED_ICON_SVG}</div>
+  <div class="kicker-text">
+    <div class="kicker-title">Atomic Sanskrit</div>
+    <div class="kicker-subtitle">The Radiant, Calibrant, and Fractal Architecture of Sanātan</div>
+  </div>
+</div>
+"""
 
 
 # --- Shared plumbing (logging, email, whitelist) ----------------------------
@@ -279,25 +311,30 @@ def handle_generic_post(fields: dict, ip: str) -> tuple[int, str]:
 
 INVITE_FORM = """<p>{message}</p>
 
-<div class="explainer">
-  <p><strong>What is Hypothesis?</strong> It's a free tool for annotating
-  directly on the book's pages as you read — highlight a passage, leave a
-  note or a question, and see what others in your group have flagged.
-  Nothing you write is public; it's visible only within your private
-  group and to the author.</p>
-  <ol>
-    <li>Click the link below and sign in, or create a free account if you
-    don't already have one.</li>
-    <li>Joining takes you straight into your private reading group — no
-    separate approval step on their end.</li>
-    <li>Come back here and confirm your email so we can set up your
-    reading access on our side.</li>
-  </ol>
-</div>
+<p class="action"><strong>Before you start reading Atomic Sanskrit:</strong>
+create a free account on Hypothesis, or sign in if you already have one —
+it's how you'll annotate the book as you read.</p>
 
 <p><a class="group-link" href="{group_url}" target="_blank" rel="noopener">
   Join your reading group on Hypothesis: {group_name}
 </a></p>
+
+<p class="note">New to Hypothesis? Clicking the button above will let you
+create a free account on the spot — no extension or software to
+install.</p>
+
+<details class="explainer">
+  <summary>What is Hypothesis?</summary>
+  <p>It's a free tool for annotating directly on the book's pages as you
+  read — highlight a passage, leave a note or a question, and see what
+  others in your group have flagged. Nothing you write is public; it's
+  visible only within your private group and to the author. Joining
+  takes you straight into your private reading group — no separate
+  approval step on their end.</p>
+</details>
+
+<p class="action">Once you've joined, come back here and confirm your
+email below so we can set up your reading access on our side.</p>
 
 <form method="post">
   <label for="email">Email</label>
@@ -317,7 +354,7 @@ INVITE_FORM = """<p>{message}</p>
 
 
 def render_invite_form(name: str, record: dict, message: str) -> str:
-    body = INVITE_FORM.format(
+    body = BOOK_KICKER + INVITE_FORM.format(
         message=message,
         group_url=html.escape(record.get("hypothesis_group_url", "")),
         group_name=html.escape(record.get("hypothesis_group_name", "your group")),
@@ -327,7 +364,8 @@ def render_invite_form(name: str, record: dict, message: str) -> str:
 
 
 def render_invite_result(name: str, message: str) -> str:
-    return page(f"Welcome, {name}", f"Welcome, {html.escape(name)}", f"<p>{message}</p>")
+    body = BOOK_KICKER + f"<p>{message}</p>"
+    return page(f"Welcome, {name}", f"Welcome, {html.escape(name)}", body)
 
 
 def render_not_found() -> str:
@@ -345,7 +383,9 @@ def handle_invite_get(slug: str) -> tuple[int, str]:
     if not record:
         return 404, render_not_found()
     name = record.get("name", slug)
-    return 200, render_invite_form(name, record, "Glad to have you reading along.")
+    return 200, render_invite_form(
+        name, record, "Thank you for taking the time — glad to have you reading along."
+    )
 
 
 def handle_invite_post(slug: str, fields: dict, ip: str) -> tuple[int, str]:
@@ -404,8 +444,8 @@ def handle_invite_post(slug: str, fields: dict, ip: str) -> tuple[int, str]:
             print(f"request_access: notification email failed: {exc}")
         return 200, render_invite_result(
             name,
-            "You're all set — "
-            '<a href="/as/book/">head to the book here</a>.',
+            "Thank you for joining us — you're all set. "
+            '<a href="/as/book/">Head to the book here</a>.',
         )
 
     # Different email than expected: same manual-review path as the

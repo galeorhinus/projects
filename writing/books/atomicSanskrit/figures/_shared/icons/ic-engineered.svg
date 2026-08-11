@@ -1,8 +1,4 @@
-<!-- lineage: py
-     canonical-source: ic-engineered.from-py.svg
-     updated: 2026-07-15 -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 202 136" width="202" height="136">
-<polygon points="36.0,16.0 76.0,16.0 96.0,50.6 76.0,85.3 36.0,85.3 16.0,50.6" fill="#d8c7a3" stroke="#5c4830" stroke-width="2" stroke-linejoin="round"/>
-<polygon points="96.0,50.6 106.0,50.6 126.0,85.3 106.0,119.9 96.0,119.9 76.0,85.3" fill="#d8c7a3" stroke="#5c4830" stroke-width="2" stroke-linejoin="round"/>
-<polygon points="126.0,16.0 166.0,16.0 186.0,50.6 166.0,85.3 126.0,85.3 106.0,50.6" fill="#d8c7a3" stroke="#5c4830" stroke-width="2" stroke-linejoin="round"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96" style="color:#2b2b2d">
+<path fill="#4a3f30" d="M90.2,96H5.8C2.6,96,0,93.4,0,90.2V5.8C0,2.6,2.6,0,5.8,0h84.5C93.4,0,96,2.6,96,5.8v84.5C96,93.4,93.4,96,90.2,96z" data-om-id="3e7a0d65:273"></path><path fill="#ece4d3" d="M53.5,50.8L42.5,31.9H20.7L9.8,50.8l10.9,18.9h21.9L53.5,50.8z" data-om-id="3e7a0d65:274"></path><path fill="#aa9a7a" d="M86.3,31.9L75.3,13H53.5L42.5,31.9l10.9,18.9h21.9L86.3,31.9z" data-om-id="3e7a0d65:275"></path><path fill="none" stroke="#ece4d3" stroke-width="3.4" stroke-linejoin="round" d="M53.5,50.8L42.5,31.9H20.7L9.8,50.8l10.9,18.9h21.9L53.5,50.8z" data-om-id="3e7a0d65:276"></path><path fill="none" stroke="#ece4d3" stroke-width="3.4" stroke-linejoin="round" d="M86.3,31.9L75.3,13H53.5L42.5,31.9l10.9,18.9h21.9L86.3,31.9z" data-om-id="3e7a0d65:277"></path><g fill="none" stroke="#ece4d3" stroke-width="2.5" stroke-linecap="round" data-om-id="3e7a0d65:278"><line x1="14.1" y1="87.4" x2="82.1" y2="87.4" data-om-id="3e7a0d65:279"></line><line x1="14.1" y1="87.4" x2="14.1" y2="79.5" data-om-id="3e7a0d65:280"></line><line x1="82.1" y1="87.4" x2="82.1" y2="79.5" data-om-id="3e7a0d65:281"></line><line x1="48" y1="87.4" x2="48.1" y2="79.5" data-om-id="3e7a0d65:282"></line><line x1="30.8" y1="87.4" x2="30.8" y2="83.4" data-om-id="3e7a0d65:283"></line><line x1="67.9" y1="87.4" x2="67.9" y2="83.4" data-om-id="3e7a0d65:284"></line></g>
 </svg>
