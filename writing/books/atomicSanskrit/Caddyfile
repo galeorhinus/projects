@@ -144,12 +144,14 @@ secondshanti.org {
 	# Everything else under secondshanti.org/ — reserved for future
 	# volumes / projects. Returns 404 for now (no content yet).
 	handle {
-		respond "Not Found" 404
+		error "Not Found" 404
 	}
 
 	# Styled 404 — catches every 404 in this block, whichever handler
-	# produced it (the explicit respond above, or file_server's native
+	# produced it (the explicit `error` above, or file_server's native
 	# 404 for a missing file under /as/essays/* etc.), not just one path.
+	# `error`, not `respond` — respond answers directly and never enters
+	# Caddy's error pipeline, so handle_errors below would never see it.
 	# Built from templates/error_404.html by build_html.py; lands at
 	# /var/www/as/404.html via the normal deploy.sh rsync, so this rewrite
 	# targets the same file root * already points at. Other status codes
@@ -233,7 +235,7 @@ http://:18080 {
 		}
 	}
 	handle {
-		respond "Not Found" 404
+		error "Not Found" 404
 	}
 
 	# Styled 404 — same as the public block above. root * /var/www is
