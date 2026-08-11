@@ -20,11 +20,11 @@
 
 The Sun has been eclipsed.
 
-The Vedic mantra above precisely diagnoses the condition.[NOTE: rigveda-5-40-5-svarbhanu-eclipse] Svarbhānu the asura pierces Sūrya with darkness, and the worlds look about in confusion, like one who no longer knows the field. The wound is not only darkness. It is field-loss: **अक्षेत्रवित् (*akṣetravit*)**, the state in which the light remains present but the terrain can no longer be discerned.
+The Vedic mantra above precisely diagnoses the condition.[NOTE: rigveda-5-40-5-svarbhanu-eclipse] Svarbhānu the asura pierces Sūrya with darkness, leaving the worlds bewildered, like someone who no longer knows the field. The wound is confusion. It is field-loss: **अक्षेत्रवित् (*akṣetravit*)**, the state in which the light remains present but the terrain can no longer be discerned.
 
 Sanskrit stands before the modern world in exactly that condition. Sanskrit is Sūrya: radiant, stable, generative, engineered order. The asuric pyramid is Svarbhānu: the apex-form and the layered hierarchy beneath him — he can neither build such an order nor bear an alternative to his own. Proto-Indo-European, or PIE, is the eclipse-device, the Rāhu-like head placed over the Sun: an ancestor with no speakers, no body, no living mouth, made immortal precisely because it was never alive enough to die.
 
-The schematic below assigns the roles before the clearing begins: Sanskrit as the Sun, the segmented pyramid as the eclipse-body, and the reader's world darkened by what stands between them.
+The figure below shows the eclipse before this book begins removing it: Sanskrit is the Sun, the segmented pyramid blocks its light, and the reader’s world lies in shadow. Sanskrit as the Sun, the segmented pyramid as the eclipse-body, and the reader's world darkened by what stands between them.
 
 ![Figure E.1 — The Eclipse. Sanskrit is shown as the Sun; the asuric pyramid stands between that light and the world that should receive it.](figures/eclipse_spine/eclipse_00_preface_full.svg){#fig:eclipse-preface-full width=100%}
 
