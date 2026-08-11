@@ -34,6 +34,7 @@ import time
 from email.mime.text import MIMEText
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
+from string import Template
 from urllib.parse import parse_qs
 
 # --- Configuration — adjust for your deployment -----------------------------
@@ -123,30 +124,151 @@ def page(title: str, heading: str, body: str) -> str:
     return PAGE_HTML.format(title=title, heading=heading, body=body)
 
 
-# Book identity kicker — used on the named-invite pages, where a bare
-# "Welcome, {name}" carries no visual sign of which book this is for.
-# Title/subtitle match as_book.yaml; icon matches
-# figures/_shared/icons/ic-engineered.svg — both copied in as literals,
-# not read from disk at runtime. This service deploys as loose script
-# files (see server/README.md's "Copy the scripts" step: only
-# request_access.py and add_invite.py get copied to /opt/secondshanti/,
-# never the rest of the repo), so any relative-path lookup outside the
-# script's own directory silently fails in production even though it
-# works fine from a full git checkout. A literal has no path to get
-# wrong. If the source icon changes, re-copy its <svg>...</svg> content
-# here by hand.
-_ENGINEERED_ICON_SVG = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96" style="color:#2b2b2d">
-<path fill="#4a3f30" d="M90.2,96H5.8C2.6,96,0,93.4,0,90.2V5.8C0,2.6,2.6,0,5.8,0h84.5C93.4,0,96,2.6,96,5.8v84.5C96,93.4,93.4,96,90.2,96z"></path><path fill="#ece4d3" d="M53.5,50.8L42.5,31.9H20.7L9.8,50.8l10.9,18.9h21.9L53.5,50.8z"></path><path fill="#aa9a7a" d="M86.3,31.9L75.3,13H53.5L42.5,31.9l10.9,18.9h21.9L86.3,31.9z"></path><path fill="none" stroke="#ece4d3" stroke-width="3.4" stroke-linejoin="round" d="M53.5,50.8L42.5,31.9H20.7L9.8,50.8l10.9,18.9h21.9L53.5,50.8z"></path><path fill="none" stroke="#ece4d3" stroke-width="3.4" stroke-linejoin="round" d="M86.3,31.9L75.3,13H53.5L42.5,31.9l10.9,18.9h21.9L86.3,31.9z"></path><g fill="none" stroke="#ece4d3" stroke-width="2.5" stroke-linecap="round"><line x1="14.1" y1="87.4" x2="82.1" y2="87.4"></line><line x1="14.1" y1="87.4" x2="14.1" y2="79.5"></line><line x1="82.1" y1="87.4" x2="82.1" y2="79.5"></line><line x1="48" y1="87.4" x2="48.1" y2="79.5"></line><line x1="30.8" y1="87.4" x2="30.8" y2="83.4"></line><line x1="67.9" y1="87.4" x2="67.9" y2="83.4"></line></g>
-</svg>"""
+# --- Named-invite page: dedicated template ----------------------------------
+#
+# Structurally distinct from PAGE_HTML (two-column layout, reader/group
+# identity sidebar) and specific to the invite flow's content, so it gets
+# its own template rather than being forced through the shared one used
+# by the generic request-access form and the 404 page.
+#
+# Source: a Claude Design mockup (as_design_invite1.html), integrated
+# 2026-08-11. The icon is a self-contained inline SVG <symbol>/<use> pair
+# — no external file dependency at all, so the /opt/secondshanti deploy-
+# path gotcha that bit the previous version of this page (see git history
+# on this file) can't recur here.
+#
+# Uses string.Template ($name, not {name}) specifically because the CSS
+# below is full of literal curly braces that str.format() would otherwise
+# require doubling throughout — Template's $-syntax has no such conflict.
+INVITE_PAGE_TEMPLATE = Template("""<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>$title</title>
+<link rel="icon" href="/as/favicon.svg?v=2" type="image/svg+xml">
+<link rel="icon" href="/as/favicon.ico" sizes="any">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Serif+Devanagari:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --field:#f4f4f3;--panel:#fbf9f4;--sand:#ece4d3;--sand2:#f4efe4;
+  --taupe:#aa9a7a;--brown:#766652;--deep:#4a3f30;
+  --gold:#c19a4e;--gold-d:#9a7833;--sun:#cf8a2e;
+  --ink:#2b2b2d;--ink2:#4a4136;--line:#d8cfbd;--line2:#c3b9a3;
+  --lat:'Gentium Book Plus',Charter,'Charis SIL',Georgia,serif;
+  --dev:'Noto Serif Devanagari','Adobe Devanagari',serif;
+}
+*{box-sizing:border-box}
+html,body{margin:0;min-height:100%;color:var(--ink);font-family:var(--lat);-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+a{color:var(--gold-d)}a:hover{color:var(--deep)}
 
-BOOK_KICKER = f"""<div class="kicker">
-  <div class="kicker-icon">{_ENGINEERED_ICON_SVG}</div>
-  <div class="kicker-text">
-    <div class="kicker-title">Atomic Sanskrit</div>
-    <div class="kicker-subtitle">The Radiant, Calibrant, and Fractal Architecture of Sanātan</div>
-  </div>
+/* ============ shared page bits ============ */
+.btn{display:inline-block;font-family:var(--lat);font-size:16px;font-weight:700;text-decoration:none;border:0;border-radius:4px;padding:14px 26px;cursor:pointer;line-height:1.2}
+.field{display:block;width:100%;font-family:var(--lat);font-size:16px;padding:11px 13px;border:1px solid var(--line2);border-radius:3px;background:#fff;color:var(--ink)}
+.field:focus{outline:2px solid var(--gold);outline-offset:-1px}
+label.lbl{display:block;font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--brown);font-weight:700;margin:0 0 6px}
+.hp{position:absolute;left:-9999px}
+
+/* ============ shared lockup ============ */
+.lockup{display:flex;align-items:center;gap:18px}
+.lockup .mk{flex:none}
+.lockup .tt{min-width:0}
+.lockup .tt .bt{font-size:30px;font-weight:700;letter-spacing:-.012em;line-height:1.1;margin:0}
+.lockup .tt .st{font-size:14.5px;color:var(--brown);line-height:1.45;margin:6px 0 0}
+.lockup.sm .tt .bt{font-size:24px}
+.lockup.sm .tt .st{font-size:13.5px;margin-top:4px}
+
+/* ============ responsive: split wide, pass narrow ============ */
+.R{min-height:100%;display:grid;grid-template-columns:44% 56%;background:var(--field)}
+.R .left{background:var(--sand);padding:52px 40px;display:flex;flex-direction:column;justify-content:space-between;border-right:1px solid var(--line2)}
+.R .series{font-size:11.5px;letter-spacing:.3em;text-transform:uppercase;color:var(--gold-d);font-weight:700}
+.R .left .big{margin-top:30px}
+.R .left .who{margin-top:34px;padding-top:20px;border-top:1px solid var(--line2)}
+.R .left .who .k{font-size:11.5px;letter-spacing:.18em;text-transform:uppercase;color:var(--brown);font-weight:700}
+.R .left .who .v{font-size:19px;font-weight:700;margin-top:3px}
+.R .left .who .v.grp{color:var(--gold-d);font-size:17px}
+.R .left .rail{font-size:13.5px;color:var(--brown);font-style:italic;line-height:1.55;margin:26px 0 0}
+.R .right{background:var(--panel);padding:52px 44px 70px;overflow:auto}
+.R .lede{font-size:17px;line-height:1.62;color:var(--ink2);margin:0 0 6px;max-width:52ch}
+.R .sec{margin-top:30px;padding-top:22px;border-top:1px solid var(--line)}
+.R .sec .n{font-size:11.5px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-d);font-weight:700}
+.R .sec h3{font-size:21px;margin:8px 0 10px;font-weight:700}
+.R .sec p{font-size:15px;line-height:1.62;color:var(--ink2);margin:0}
+.R .sec p+p{margin-top:9px}
+.R .sec p.fine{font-size:13.5px;color:var(--brown);font-style:italic;margin-top:10px}
+.R .cta{background:var(--sun);color:#3a2a12;margin-top:16px}
+.R .cta:hover{background:#b8781f}
+.R .form{display:grid;gap:14px;margin-top:15px;max-width:390px}
+.R .submit{background:var(--deep);color:#f6f2e8;justify-self:start;padding:12px 30px}
+.R .submit:hover{background:#2f2820}
+.R .code{background:#e9b96a;border:1px solid #c9973f;padding:2px 8px;border-radius:3px;font-weight:700;font-size:13.5px;color:#3a2a12}
+.R .perf{display:none;height:0;border-top:2px dashed var(--line2);position:relative;margin:26px 0 0}
+.R .perf::before,.R .perf::after{content:"";position:absolute;top:-11px;width:20px;height:20px;border-radius:50%;background:#ece7dc;border:1px solid var(--line2)}
+.R .perf::before{left:-41px}.R .perf::after{right:-41px}
+@media(max-width:760px){
+  .R{display:block;background:repeating-linear-gradient(45deg,#efeae0 0 14px,#ece7dc 14px 28px);padding:38px 24px 60px}
+  .R .left,.R .right{background:var(--panel);border:1px solid var(--line2);max-width:560px;margin:0 auto;display:block;padding:28px 30px;box-shadow:0 24px 54px -34px rgba(60,40,10,.8)}
+  .R .left{border-radius:6px 6px 0 0;border-bottom:0}
+  .R .right{border-radius:0 0 6px 6px;border-top:0;padding-top:6px;overflow:visible}
+  .R .left .who{margin-top:22px;padding-top:16px}
+  .R .left .rail{display:none}
+  .R .left .who:last-of-type{display:none}
+  .R .perf{display:block}
+  .R .sec:first-of-type{border-top:0;padding-top:14px;margin-top:14px}
+  .R .submit,.R .cta{width:100%;text-align:center;justify-self:stretch}
+}
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs>
+<symbol id="mk-eng" viewBox="4 8 88 84"><path fill="#e6c98f" d="M53.5,50.8L42.5,31.9H20.7L9.8,50.8l10.9,18.9h21.9L53.5,50.8z"/><path fill="#cf8a2e" d="M86.3,31.9L75.3,13H53.5L42.5,31.9l10.9,18.9h21.9L86.3,31.9z"/><path fill="none" stroke="#766652" stroke-width="3.4" stroke-linejoin="round" d="M53.5,50.8L42.5,31.9H20.7L9.8,50.8l10.9,18.9h21.9L53.5,50.8z"/><path fill="none" stroke="#766652" stroke-width="3.4" stroke-linejoin="round" d="M86.3,31.9L75.3,13H53.5L42.5,31.9l10.9,18.9h21.9L86.3,31.9z"/><g fill="none" stroke="#aa9a7a" stroke-width="2.5" stroke-linecap="round"><line x1="14.1" y1="87.4" x2="82.1" y2="87.4"/><line x1="14.1" y1="87.4" x2="14.1" y2="79.5"/><line x1="82.1" y1="87.4" x2="82.1" y2="79.5"/><line x1="48" y1="87.4" x2="48.1" y2="79.5"/><line x1="30.8" y1="87.4" x2="30.8" y2="83.4"/><line x1="67.9" y1="87.4" x2="67.9" y2="83.4"/></g></symbol>
+<symbol id="mk-eng-rev" viewBox="4 8 88 84"><path fill="#8a7350" d="M53.5,50.8L42.5,31.9H20.7L9.8,50.8l10.9,18.9h21.9L53.5,50.8z"/><path fill="#e2a951" d="M86.3,31.9L75.3,13H53.5L42.5,31.9l10.9,18.9h21.9L86.3,31.9z"/><path fill="none" stroke="#efe6d2" stroke-width="3.4" stroke-linejoin="round" d="M53.5,50.8L42.5,31.9H20.7L9.8,50.8l10.9,18.9h21.9L53.5,50.8z"/><path fill="none" stroke="#efe6d2" stroke-width="3.4" stroke-linejoin="round" d="M86.3,31.9L75.3,13H53.5L42.5,31.9l10.9,18.9h21.9L86.3,31.9z"/><g fill="none" stroke="#c6b99d" stroke-width="2.5" stroke-linecap="round"><line x1="14.1" y1="87.4" x2="82.1" y2="87.4"/><line x1="14.1" y1="87.4" x2="14.1" y2="79.5"/><line x1="82.1" y1="87.4" x2="82.1" y2="79.5"/><line x1="48" y1="87.4" x2="48.1" y2="79.5"/><line x1="30.8" y1="87.4" x2="30.8" y2="83.4"/><line x1="67.9" y1="87.4" x2="67.9" y2="83.4"/></g></symbol>
+</defs></svg>
+<div class="R">
+  <aside class="left">
+    <div>
+      <div class="series">A Second Shanti book</div>
+      <div class="lockup big"><svg class="mk" width="66" height="63" aria-hidden="true"><use href="#mk-eng"/></svg><div class="tt"><p class="bt">Atomic Sanskrit</p><p class="st">The Radiant, Calibrant, and Fractal Architecture of Sanātan</p></div></div>
+      <div class="who"><div class="k">Reader</div><div class="v">$name</div></div>
+      <div class="who"><div class="k">Reading group</div><div class="v grp">$group_code</div></div>
+    </div>
+    <p class="rail">Annotations stay inside your private group — visible only to the group and the author.</p>
+    <div class="perf"></div>
+  </aside>
+  <main class="right">
+    <p class="lede">Welcome, $name. $message</p>
+    $content
+  </main>
 </div>
-"""
+</body>
+</html>
+""")
+
+
+def _invite_form_content(group_url: str, group_code: str, email_value: str) -> str:
+    return f"""<section class="sec">
+  <div class="n">First</div>
+  <h3>Create your Hypothesis account</h3>
+  <p>Before you start reading Atomic Sanskrit, create a free account on Hypothesis — or sign in if you already have one. It's how you'll annotate the book as you read.</p>
+  <p>Highlight a passage, leave a note or a question, and see what others in your group have flagged.</p>
+  <a class="btn cta" href="{group_url}" target="_blank" rel="noopener">Join your reading group: <span class="code">{group_code}</span></a>
+  <p class="fine">New to Hypothesis? Clicking above lets you create a free account on the spot — no extension or software to install. Joining takes you straight into your private reading group, with no separate approval step on their end.</p>
+</section>
+<section class="sec">
+  <div class="n">Then</div>
+  <h3>Confirm your email and username</h3>
+  <p>Once you've joined, remember the username you signed up with. Come back here and confirm your email below — paste in that username too, so we can set up your reading access on our side.</p>
+  <form class="form" method="post">
+    <div><label class="lbl" for="email">Email</label><input class="field" id="email" name="email" type="email" value="{email_value}" required></div>
+    <div><label class="lbl" for="hypothesis_username">Your Hypothesis username</label><input class="field" id="hypothesis_username" name="hypothesis_username" type="text" placeholder="recommended"></div>
+    <input class="hp" type="text" name="website" id="website" tabindex="-1" autocomplete="off" aria-hidden="true" placeholder="Website">
+    <button class="btn submit" type="submit">Continue</button>
+  </form>
+</section>"""
+
+
 
 
 # --- Shared plumbing (logging, email, whitelist) ----------------------------
@@ -311,64 +433,30 @@ def handle_generic_post(fields: dict, ip: str) -> tuple[int, str]:
 
 # --- Flow 2: named invites ("/<slug>") --------------------------------------
 
-INVITE_FORM = """<p>{message}</p>
-
-<p class="action"><strong>Before you start reading Atomic Sanskrit:</strong>
-create a free account on Hypothesis, or sign in if you already have one —
-it's how you'll annotate the book as you read.</p>
-
-<p><a class="group-link" href="{group_url}" target="_blank" rel="noopener">
-  Join your reading group on Hypothesis: {group_name}
-</a></p>
-
-<p class="note">New to Hypothesis? Clicking the button above will let you
-create a free account on the spot — no extension or software to
-install.</p>
-
-<details class="explainer">
-  <summary>What is Hypothesis?</summary>
-  <p>It's a free tool for annotating directly on the book's pages as you
-  read — highlight a passage, leave a note or a question, and see what
-  others in your group have flagged. Nothing you write is public; it's
-  visible only within your private group and to the author. Joining
-  takes you straight into your private reading group — no separate
-  approval step on their end.</p>
-</details>
-
-<p class="action">Once you've joined, remember the username you signed up
-with. Come back here and confirm your email below — paste in that
-username too, so we can set up your reading access on our side.</p>
-
-<form method="post">
-  <label for="email">Email</label>
-  <input type="email" id="email" name="email" value="{email_value}" required>
-
-  <label for="hypothesis_username">Your Hypothesis username (recommended)</label>
-  <input type="text" id="hypothesis_username" name="hypothesis_username">
-
-  <div class="hp" aria-hidden="true">
-    <label for="website">Website</label>
-    <input type="text" id="website" name="website" tabindex="-1" autocomplete="off">
-  </div>
-
-  <button type="submit">Continue</button>
-</form>
-"""
-
-
 def render_invite_form(name: str, record: dict, message: str) -> str:
-    body = BOOK_KICKER + INVITE_FORM.format(
-        message=message,
+    name_esc = html.escape(name)
+    content = _invite_form_content(
         group_url=html.escape(record.get("hypothesis_group_url", "")),
-        group_name=html.escape(record.get("hypothesis_group_name", "your group")),
+        group_code=html.escape(record.get("hypothesis_group_name", "your group")),
         email_value=html.escape(record.get("email") or ""),
     )
-    return page(f"Welcome, {name}", f"Welcome, {html.escape(name)}", body)
+    return INVITE_PAGE_TEMPLATE.substitute(
+        title=f"Welcome, {name} &mdash; Atomic Sanskrit",
+        name=name_esc,
+        group_code=html.escape(record.get("hypothesis_group_name", "your group")),
+        message=message,
+        content=content,
+    )
 
 
-def render_invite_result(name: str, message: str) -> str:
-    body = BOOK_KICKER + f"<p>{message}</p>"
-    return page(f"Welcome, {name}", f"Welcome, {html.escape(name)}", body)
+def render_invite_result(name: str, record: dict, message: str) -> str:
+    return INVITE_PAGE_TEMPLATE.substitute(
+        title=f"Welcome, {name} &mdash; Atomic Sanskrit",
+        name=html.escape(name),
+        group_code=html.escape(record.get("hypothesis_group_name", "your group")),
+        message=message,
+        content="",
+    )
 
 
 def render_not_found() -> str:
@@ -399,7 +487,7 @@ def handle_invite_post(slug: str, fields: dict, ip: str) -> tuple[int, str]:
     name = record.get("name", slug)
 
     if fields.get("website"):  # honeypot
-        return 200, render_invite_result(name, "Thanks — you're all set.")
+        return 200, render_invite_result(name, record, "Thanks — you're all set.")
 
     email = fields.get("email", "").strip()
     hyp_username = fields.get("hypothesis_username", "").strip()
@@ -446,7 +534,7 @@ def handle_invite_post(slug: str, fields: dict, ip: str) -> tuple[int, str]:
         except Exception as exc:
             print(f"request_access: notification email failed: {exc}")
         return 200, render_invite_result(
-            name,
+            name, record,
             "Thank you for joining us — you're all set. "
             '<a href="/as/book/">Head to the book here</a>.',
         )
@@ -483,7 +571,7 @@ def handle_invite_post(slug: str, fields: dict, ip: str) -> tuple[int, str]:
         print(f"request_access: notification email failed: {exc}")
 
     return 200, render_invite_result(
-        name,
+        name, record,
         "Thanks — that's a different email than we had on file for you, so "
         "we're double-checking before granting access. You'll hear back shortly.",
     )
