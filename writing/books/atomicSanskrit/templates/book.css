@@ -1,342 +1,130 @@
-/* Atomic Sanskrit — web book typography.
- *
- * Long-form serif body for Latin + IAST diacritics. Devanāgarī characters
- * fall through to a Devanāgarī serif via unicode-range — the browser picks
- * the font per character range, no lang tags required. Vedic Extensions
- * (U+1CD0–U+1CFF) also routed to Devanāgarī fonts to render jihvāmūlīya /
- * upadhmānīya marks (᳚, ᳛).
- */
-
-/* ---- Devanāgarī web font (Noto Serif Devanagari, served from Google).
-   Scoped to the Devanāgarī + Vedic-Extensions Unicode ranges so it only
-   applies when a Devanāgarī character is in the run.  Falls through to
-   the system Devanāgarī fonts on offline / blocked-network conditions. */
-@font-face {
-  font-family: "Devanagari";
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: local("Noto Serif Devanagari"),
-       local("Noto Sans Devanagari"),
-       local("Adobe Devanagari"),
-       local("Kohinoor Devanagari"),
-       local("Sanskrit 2003"),
-       local("Mangal");
-  unicode-range: U+0900-097F, U+1CD0-1CFF, U+A8E0-A8FF, U+200C-200D;
+/* ==========================================================
+   book.css — Atomic Sanskrit · chapter reading page
+   Warm sand/gold/taupe · Gentium Book Plus + Noto Serif Devanagari.
+   Matches the landing / TOC / essay templates. The only page that
+   still links this file externally — html_index.html and
+   html_essay.html inline their own CSS — so external linking here is
+   safe and gives ~45 chapter pages a single cacheable stylesheet.
+   ========================================================== */
+:root{
+  --field:#f4f4f3;--panel:#fbf9f4;--sand:#ece4d3;--sand2:#f4efe4;
+  --taupe:#aa9a7a;--brown:#766652;--deep:#4a3f30;
+  --gold:#c19a4e;--gold-d:#9a7833;--sun:#cf8a2e;
+  --ink:#2b2b2d;--ink2:#4a4136;--line:#d8cfbd;--line2:#c3b9a3;
+  --lat:'Gentium Book Plus',Charter,'Charis SIL',Georgia,'Noto Serif Devanagari',serif;
+  --dev:'Noto Serif Devanagari','Adobe Devanagari',serif;
+  --measure:680px;   /* reading column */
+  --wide:860px;      /* figures + tables may exceed the measure */
+  --shell:920px;
 }
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--field);color:var(--ink);font-family:var(--lat);-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+a{color:var(--gold-d)}a:hover{color:var(--deep)}
+:lang(sa),.devanagari{font-family:var(--dev)}
 
-@font-face {
-  font-family: "Devanagari";
-  font-style: italic;
-  font-weight: 400;
-  font-display: swap;
-  src: local("Noto Serif Devanagari"),
-       local("Noto Sans Devanagari"),
-       local("Adobe Devanagari"),
-       local("Kohinoor Devanagari"),
-       local("Sanskrit 2003"),
-       local("Mangal");
-  unicode-range: U+0900-097F, U+1CD0-1CFF, U+A8E0-A8FF, U+200C-200D;
-}
+/* ---- persistent sitebar ---- */
+.sitebar{position:sticky;top:0;z-index:20;border-bottom:1px solid var(--line);background:rgba(251,249,244,.94);backdrop-filter:saturate(150%) blur(6px)}
+.sitebar .in{max-width:var(--shell);margin:0 auto;padding:11px 30px;display:flex;align-items:center;gap:11px}
+.sitebar a.home{display:flex;align-items:center;gap:11px;text-decoration:none;color:inherit}
+.sitebar svg{flex:none;display:block}
+.sitebar .wm{font-size:16px;font-weight:700;letter-spacing:-.008em}
+.sitebar .nav{margin-left:auto;display:flex;gap:20px;font-size:14px}
+.sitebar .nav a{text-decoration:none;font-weight:700}
+.sitebar .nav a:hover{text-decoration:underline}
 
-@font-face {
-  font-family: "Devanagari";
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-  src: local("Noto Serif Devanagari"),
-       local("Noto Sans Devanagari"),
-       local("Adobe Devanagari"),
-       local("Kohinoor Devanagari"),
-       local("Sanskrit 2003"),
-       local("Mangal");
-  unicode-range: U+0900-097F, U+1CD0-1CFF, U+A8E0-A8FF, U+200C-200D;
-}
+/* ---- shell ---- */
+.site-header,main,.chapter-nav,.site-footer{max-width:var(--shell);margin-left:auto;margin-right:auto;padding-left:30px;padding-right:30px}
 
-/* ---- Page baseline */
+/* ---- contents links (header + footer) ---- */
+.contents-link{display:inline-block;font-size:12.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--brown);text-decoration:none}
+.contents-link:hover{color:var(--deep);text-decoration:underline;text-underline-offset:3px}
+.site-header{padding-top:26px}
 
-:root {
-  --measure: 38rem;     /* ~70ch at the body font-size */
-  --body-fg: #1a1a1a;
-  --body-bg: #fafaf7;
-  --rule-fg: #c8c4ba;
-  --link: #1e3a8a;
-  --link-hover: #1d4ed8;
-  --muted: #6b6b6b;
-  --serif: Charter, "Iowan Old Style", "Bitstream Charter", "Sitka Text", Cambria, Georgia, "Times New Roman", serif;
-  --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
-}
+/* ---- chapter navigation (prev / next) ---- */
+.chapter-nav{display:grid;grid-template-columns:1fr 1fr;gap:12px;align-items:stretch}
+.chapter-nav.top{margin-top:16px}
+.chapter-nav.bottom{margin-top:54px}
+.chapter-nav a{display:block;text-decoration:none;background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:12px 16px;font-size:15px;font-weight:700;line-height:1.35;color:var(--gold-d);transition:border-color .15s,background .15s,box-shadow .15s}
+.chapter-nav a:hover{border-color:var(--taupe);background:var(--sand2);color:var(--deep);box-shadow:0 14px 32px -26px rgba(60,40,10,.7)}
+.chapter-nav a::before{display:block;font-size:11px;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:var(--taupe);margin-bottom:4px}
+.chapter-nav a.prev::before{content:"Previous"}
+.chapter-nav a.next::before{content:"Next"}
+.chapter-nav a.next{grid-column:2;text-align:right}
+.chapter-nav a.prev{grid-column:1}
+/* Pandoc renders only one <a> when a chapter has no prev or no next —
+   span the full row instead of leaving the other grid column blank. */
+.chapter-nav a:only-child{grid-column:1/-1}
+.chapter-nav a em{font-style:italic}
 
-* { box-sizing: border-box; }
+/* ---- chapter title ---- */
+main{padding-top:4px}
+article{max-width:var(--shell);margin:0 auto}
+h1.chapter-title{max-width:var(--measure);margin:44px auto 0;font-size:38px;font-weight:700;line-height:1.14;letter-spacing:-.015em;padding-bottom:20px;border-bottom:2px solid var(--ink)}
+h1.chapter-title em{font-style:italic}
 
-html { font-size: 18px; }
+/* ---- long-form prose: every block centred on the measure ---- */
+article>*{max-width:var(--measure);margin-left:auto;margin-right:auto}
+article{font-size:18px;line-height:1.7;color:var(--ink2)}
+article p{margin:20px auto 0;text-wrap:pretty}
+article>hr:first-of-type{border:0;height:0;margin:0}
+article hr{border:0;height:1px;background:var(--line);margin:40px auto 0}
+article strong{color:var(--ink);font-weight:700}
+article em{font-style:italic}
+article h2{font-size:25px;font-weight:700;color:var(--ink);line-height:1.24;margin:48px auto 0;letter-spacing:-.008em;scroll-margin-top:70px}
+article h3{font-size:19.5px;font-weight:700;color:var(--ink);margin:34px auto 0;scroll-margin-top:70px}
+article h2+p,article h3+p{margin-top:12px}
+article h2 em,article h3 em{font-style:italic}
+article a{text-decoration:underline;text-underline-offset:2px;text-decoration-thickness:.06em}
+article ul,article ol{margin:18px auto 0;padding-left:26px}
+article li{margin:7px 0 0;line-height:1.64}
 
-body {
-  margin: 0;
-  padding: 0;
-  background: var(--body-bg);
-  color: var(--body-fg);
-  /* Devanagari first so the browser tries it first for Devanāgarī ranges;
-     for Latin ranges Devanagari has no glyphs and the browser falls through
-     to the serif stack. */
-  font-family: "Devanagari", var(--serif);
-  font-feature-settings: "kern" 1, "liga" 1, "onum" 1;
-  line-height: 1.6;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-}
+/* blockquotes + epigraph */
+article blockquote{margin:26px auto 0;padding:2px 0 2px 20px;border-left:3px solid var(--gold);color:var(--brown)}
+article blockquote p{margin:9px 0 0;font-size:17px}
+article blockquote p:first-child{margin-top:0}
+.epigraph{margin:30px auto 0;max-width:var(--measure)}
+.epigraph blockquote{border-left:0;padding:0;text-align:center;color:var(--brown)}
+.epigraph blockquote p{font-size:17px;line-height:1.72}
 
-/* ---- Layout — single column, comfortable measure */
+/* endnote reference superscripts — clickable links */
+sup.endnote-ref{font-size:.6em;line-height:0;vertical-align:super;margin-left:.12em;white-space:nowrap}
+sup.endnote-ref a{display:inline-block;text-decoration:none;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--gold-d);background:var(--sand);border:1px solid var(--line);border-radius:3px;padding:1px 4px;line-height:1.3}
+sup.endnote-ref a:hover{background:var(--gold);border-color:var(--gold-d);color:#fff}
 
-main, header.site-header, footer.site-footer, nav.chapter-nav {
-  max-width: var(--measure);
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-}
+/* figures — allowed wider than the measure, italic caption below */
+article figure{max-width:var(--wide);margin:34px auto 0}
+article figure img{display:block;max-width:100%;height:auto;margin:0 auto;background:var(--panel);border:1px solid var(--line);border-radius:4px}
+article figcaption{font-size:14.5px;font-style:italic;line-height:1.55;color:var(--brown);margin-top:10px;max-width:var(--measure);margin-left:auto;margin-right:auto}
+article figcaption em{font-style:normal}
 
-header.site-header { padding-top: 1.25rem; }
-footer.site-footer { padding-bottom: 2.5rem; padding-top: 1rem; }
+/* small inline icons must stay inline at line-height size */
+article p img,article li img,article td img,article th img,article strong img,article em img{display:inline;height:1em;width:auto;vertical-align:-.2em;margin:0 .08em;background:none;border:0;border-radius:0}
 
-main { padding-top: 1rem; padding-bottom: 1rem; }
+/* data tables — may exceed the measure, scroll on narrow screens */
+article table{display:table;width:auto;max-width:var(--wide);margin:30px auto 0;border-collapse:collapse;font-size:15.5px;line-height:1.5;color:var(--ink2)}
+article table caption{caption-side:bottom;font-size:14px;font-style:italic;color:var(--brown);padding-top:9px;text-align:left}
+article th,article td{border:1px solid var(--line);padding:9px 12px;text-align:left;vertical-align:top}
+article thead th{background:var(--sand);color:var(--ink);font-weight:700;font-size:14px;letter-spacing:.02em}
+article tbody tr:nth-child(even){background:var(--panel)}
+article code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.84em;background:var(--sand);border:1px solid var(--line);border-radius:3px;padding:1px 5px}
+article pre{background:var(--panel);border:1px solid var(--line);border-radius:5px;padding:16px 18px;overflow-x:auto;margin:22px auto 0;max-width:var(--wide)}
+article pre code{background:none;border:0;padding:0;font-size:13.5px;line-height:1.6}
 
-article { word-wrap: break-word; }
+/* ---- footer ---- */
+.site-footer{margin-top:56px;padding-top:22px;padding-bottom:66px;border-top:1px solid var(--line)}
+.build-info{font-size:12.5px;color:var(--taupe);margin-top:14px}
+.build-info code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11.5px}
 
-/* ---- Headings */
-
-h1.chapter-title {
-  font-family: var(--serif);
-  font-size: 1.9rem;
-  line-height: 1.2;
-  margin: 1.5rem 0 2rem;
-  font-weight: 700;
-  letter-spacing: -0.01em;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Devanagari", var(--serif);
-  font-weight: 700;
-  line-height: 1.25;
-  margin-top: 2.25rem;
-  margin-bottom: 0.6rem;
-}
-
-h2 { font-size: 1.45rem; }
-h3 { font-size: 1.2rem; }
-h4 { font-size: 1.05rem; }
-h5, h6 { font-size: 1rem; font-style: italic; font-weight: 600; }
-
-/* ---- Body prose */
-
-p {
-  margin: 0 0 1rem;
-  hyphens: auto;
-}
-
-blockquote {
-  margin: 1.25rem 0;
-  padding: 0.4rem 1.1rem;
-  border-left: 3px solid var(--rule-fg);
-  color: #333;
-  font-style: italic;
-}
-
-blockquote p:last-child { margin-bottom: 0; }
-
-hr {
-  border: 0;
-  border-top: 1px solid var(--rule-fg);
-  margin: 2rem auto;
-  max-width: 8rem;
-}
-
-ul, ol { padding-left: 1.4rem; margin: 0 0 1rem; }
-li { margin-bottom: 0.35rem; }
-
-/* ---- Inline */
-
-a { color: var(--link); text-decoration-thickness: 1px; text-underline-offset: 0.15em; }
-a:hover { color: var(--link-hover); }
-
-em, i { font-style: italic; }
-strong, b { font-weight: 700; }
-
-sup, sub { font-size: 0.72em; line-height: 0; }
-
-code, pre {
-  font-family: "JetBrains Mono", "SFMono-Regular", Menlo, Consolas, monospace;
-  font-size: 0.92em;
-}
-pre { overflow-x: auto; padding: 0.75rem 1rem; background: #f0eee5; border-radius: 4px; }
-code { background: rgba(0,0,0,0.04); padding: 1px 4px; border-radius: 3px; }
-pre code { background: none; padding: 0; }
-
-/* ---- Tables */
-
-table {
-  display: block;
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
-  border-collapse: collapse;
-  margin: 1.25rem 0;
-  width: 100%;
-  font-size: 0.94em;
-}
-th, td {
-  border-bottom: 1px solid var(--rule-fg);
-  padding: 0.45rem 0.7rem;
-  text-align: left;
-  vertical-align: top;
-}
-th { font-weight: 700; border-bottom-width: 2px; }
-
-/* ---- Figures */
-
-figure {
-  margin: 1.75rem 0;
-  text-align: center;
-}
-figure img, figure svg, .figure img, .figure svg, img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 0 auto;
-}
-
-/* Scaffold icons (CV1C, CCV1C, …) are line-height-sized SVGs embedded inline
- * in chapter prose and inside table cells. The global `img` rule above sets
- * display: block + margin: 0 auto, which yanks them out of the text flow.
- * Restore inline-block + the line-height sizing the chapter HTML carries via
- * inline style="height:1em;vertical-align:-0.2em". !important is defensive —
- * the attribute selector is already more specific than `img`, so it would
- * win without it; the bang keeps future global resets from breaking these. */
-img[src*="/icons/scaffold_"] {
-  height: 1em !important;
-  width: auto !important;
-  vertical-align: -0.2em !important;
-  display: inline-block !important;
-  max-width: none !important;
-}
-figcaption {
-  font-size: 0.9em;
-  color: var(--muted);
-  margin-top: 0.55rem;
-  text-align: left;
-  font-style: italic;
-}
-
-/* Pandoc emits figures via div.figure or img with a following caption; cover both. */
-div.figure { margin: 1.75rem 0; text-align: center; }
-div.figure p.caption { font-size: 0.9em; color: var(--muted); margin-top: 0.55rem; text-align: left; font-style: italic; }
-
-/* ---- Chapter nav (prev / next) */
-
-nav.chapter-nav {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  gap: 1rem;
-  font-size: 0.92em;
-  margin: 1.25rem auto;
-  color: var(--muted);
-}
-nav.chapter-nav.top { border-bottom: 1px solid var(--rule-fg); padding-bottom: 0.75rem; }
-nav.chapter-nav.bottom { border-top: 1px solid var(--rule-fg); padding-top: 0.75rem; margin-top: 2.5rem; }
-nav.chapter-nav a { text-decoration: none; }
-nav.chapter-nav a:hover { text-decoration: underline; }
-nav.chapter-nav .next { margin-left: auto; text-align: right; }
-
-/* ---- Site header / footer */
-
-header.site-header, footer.site-footer {
-  font-size: 0.88em;
-  color: var(--muted);
-}
-.contents-link { text-decoration: none; }
-.contents-link:hover { text-decoration: underline; }
-
-/* Build-provenance footer line — small + muted, sits below the Contents link. */
-.build-info {
-  font-size: 0.75em;
-  color: var(--muted);
-  margin-top: 0.5rem;
-  letter-spacing: 0.01em;
-}
-.build-info code {
-  background: none;
-  padding: 0;
-  font-size: 1em;
-}
-
-/* ---- Contents page */
-
-.contents-page { padding-top: 2.5rem; padding-bottom: 4rem; }
-.title-block { text-align: center; margin-bottom: 3rem; }
-.title-block .book-title {
-  font-size: 2.4rem;
-  font-weight: 700;
-  margin: 0.5rem 0;
-  letter-spacing: -0.015em;
-}
-.title-block .book-subtitle {
-  font-size: 1.15rem;
-  font-style: italic;
-  color: #333;
-  margin: 0.4rem 0;
-}
-.title-block .book-series {
-  font-size: 0.95rem;
-  color: var(--muted);
-  font-variant: small-caps;
-  letter-spacing: 0.05em;
-  margin: 0.3rem 0;
-}
-.title-block .book-author {
-  margin-top: 1.2rem;
-  font-size: 1.05rem;
-}
-
-.toc h2 {
-  font-size: 1.05rem;
-  font-variant: small-caps;
-  letter-spacing: 0.04em;
-  color: #333;
-  margin-top: 2rem;
-  margin-bottom: 0.5rem;
-  border-bottom: 1px solid var(--rule-fg);
-  padding-bottom: 0.3rem;
-  font-weight: 700;
-}
-.toc h2 .part-subtitle {
-  display: inline;
-  font-variant: normal;
-  letter-spacing: 0;
-  font-style: italic;
-  color: var(--muted);
-  font-weight: 400;
-  margin-left: 0.5rem;
-}
-.toc ol, .toc ul { list-style: none; padding-left: 0; margin: 0 0 0.5rem; }
-.toc li { margin-bottom: 0.35rem; }
-.toc li a { text-decoration: none; }
-.toc li a:hover { text-decoration: underline; }
-
-/* ---- Endnote markers in body */
-
-sup.endnote-ref a {
-  text-decoration: none;
-  color: var(--link);
-  padding: 0 0.1em;
-}
-sup.endnote-ref a:hover { text-decoration: underline; }
-
-/* ---- Small screens */
-
-@media (max-width: 600px) {
-  html { font-size: 17px; }
-  h1.chapter-title { font-size: 1.6rem; }
-  .title-block .book-title { font-size: 1.9rem; }
-  nav.chapter-nav { flex-direction: column; align-items: stretch; }
-  nav.chapter-nav .next { margin-left: 0; text-align: left; }
+@media(max-width:640px){
+  .site-header,main,.chapter-nav,.site-footer{padding-left:22px;padding-right:22px}
+  .sitebar .in{padding:10px 22px}
+  .sitebar .nav{gap:14px}
+  h1.chapter-title{font-size:29px;margin-top:32px}
+  article{font-size:17px}
+  article h2{font-size:22px}
+  .chapter-nav{grid-template-columns:1fr}
+  .chapter-nav a.next,.chapter-nav a.prev{grid-column:1;text-align:left}
+  article table{font-size:14.5px}
+  article th,article td{padding:7px 9px}
 }
