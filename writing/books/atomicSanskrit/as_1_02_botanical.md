@@ -22,7 +22,7 @@
 
 The asuric pyramid's first move to eclipse Sanskrit's radiance is category theft: it places Sanskrit inside a category that directly contradicts Sanskrit's own architecture.
 
-The theft works through **आसुरी माया (*āsurī māyā*)**. Sanskrit knows *māyā* as power, measure, formation, appearance, and skill, so its character depends on purpose. In asuric hands, *māyā* becomes a weapon of concealment: the pyramid makes the false category appear natural while hiding the true category even though its architecture remains visible.
+The theft works through **आसुरी माया (*āsurī māyā*)**. Sanskrit knows *māyā* as power, formation, appearance, and skill, so its character depends on purpose. In asuric hands, *māyā* becomes a weapon of concealment: the pyramid makes the false category appear natural while hiding the true category even though its architecture remains visible.
 
 ### The Category Withheld from Sanskrit
 
@@ -68,7 +68,7 @@ Esperanto offers a revealing modern example. It was engineered in late-nineteent
 
 #### Sanskrit's Two-Domain Architecture
 
-Chapter 0 introduced Sanskrit's two domains without yet explaining why both are necessary. The Esperanto experiment supplies that explanation. It demonstrates that a constructed language can preserve its founding rules and still become botanical once a community begins using it. Sanskrit was engineered with two distinct domains, one assigned to preservation and the second assigned to adaptation, both complementing each other. The *vaidika* domain protects the calibrant against entropy: the Vedas preserve an invariant corpus and display the language's measure in operation. The *laukika* domain keeps that calibrant usable by applying the same architecture to each changing age without changing the language itself.
+Chapter 0 introduced Sanskrit's two domains without yet explaining why both are necessary. The Esperanto experiment supplies that explanation. It demonstrates that a constructed language can preserve its founding rules and still become botanical once a community begins using it. Sanskrit was engineered with two distinct domains, one assigned to preservation and the second assigned to adaptation, both complementing each other. The *vaidika* domain protects the calibrant against entropy: the Vedas preserve an invariant corpus and encode the language's architecture within it. The *laukika* domain keeps that calibrant usable by applying the same architecture to each changing age without changing the language itself.
 
 Esperanto's *Fundamento* supplied rules. To achieve the same result, it would also have needed something comparable in function to the Vedas: an invariant body that encoded its architecture in use, a separate domain for generative usage, and a culture committed to transmitting both. Rules can describe an architecture; the two-domain ecology keeps that architecture invariant and alive.
 
@@ -82,7 +82,9 @@ Figure 2.2 places examples inside the four categories and shows two ways a langu
 
 **Vivimorphosis** describes a different movement. Sanskrit itself remains inside its generative architecture while one of its engineered forms enters a natural language and acquires botanical life there. Chapter 12 §12.9 follows that movement from **शब्द (*śabda*)** through **बीज (*bīja*)** to **अपशब्द (*apaśabda*)**. Chapter 19 §19.7 places this boundary crossing inside the larger Radiance Thesis.
 
-Esperanto's purpose was equal communication across nations. Sanskrit is *saṃskṛti* in operation: the radiant, calibrant, and fractal architecture of Sanātan. **धर्म (*dharma*)** directs that architecture toward the welfare of all beings; stories preserve memories of balance, failure, and recovery; and distributed caretakers keep the measure available when society falls away from it. Linguistic rules and vocabulary form one layer within that sustaining order. That purpose has inspired millions of people across thousands of years.
+Esperanto's purpose was equal communication across nations. Sanskrit is *saṃskṛti* in operation: the radiant, calibrant, and fractal architecture of Sanātan. **धर्म (*dharma*)** directs that architecture toward the welfare of all beings; stories preserve memories of balance, failure, and recovery; and distributed caretakers keep the Vedic calibrant available when society falls away from it. Linguistic rules and vocabulary form one layer within that sustaining order. 
+
+**That *purpose* has inspired millions of people across thousands of years.**
 
 I am one of them.
 
@@ -139,7 +141,7 @@ By assigning linguistic drift to the period before Pāṇini, standardization to
 The seven claims fail move by move:
 
 - **Move one is the portability fraud.** It recasts Vedic Sanskrit's engineered architecture as the naturally spoken tongue of migrating pastoralists. The *"Aryans"* of the racial Arya thesis are the assemblage Chapter 3 identifies, Chapter 17 tests at the level of mouth and mind, and Chapter 18 separates from authorship: movement is not creation.
-- **Move two imposes drift.** Sanskrit's architecture was engineered against such drift, and the calibration matrix developed in Chapter 14 explains how the measure remained available across the span the pyramid converts into linguistic evolution.
+- **Move two imposes drift.** Sanskrit's architecture was engineered against such drift, and the calibration matrix developed in Chapter 14 explains how Sanskrit remained stable across the span the pyramid converts into linguistic evolution.
 - **Move three reverses decoding into standardization.** Pāṇini documented an already-operating architecture; he did not select a drifting natural variety and impose order upon it. Chapter 5 places his achievement inside the longer analytical lineage and explains why his decoding remains its finest surviving work.
 - **Move four turns the invented standardization event into petrification.** The language remained invariant before and after Pāṇini's documentation because its resistance to drift belongs to the architecture rather than to a decree in the *Aṣṭādhyāyī*. Patañjali preserves the correct order that the codification story reverses: bond first, usage second, *śāstra* third. Pāṇini's *śāstra* can regulate usage because the bond already stands.
 - **Move five supplies the imaginary ancestor required by the stolen category.** Once Sanskrit has been declared a natural language, the family tree demands an ancestral language from which it can descend. Chapter 19 tests that reconstruction and the direction of inheritance it assumes.
@@ -168,7 +170,7 @@ Together, the seven moves make Sanskrit mobile, derivative, natural, drifting, l
 
 In the 1860s, the German comparativist August Schleicher drew language history as a family tree.[NOTE: schleicher-stammbaumtheorie] He described languages as living organisms that grow from ancestors, divide into branches, produce daughters and sisters, mutate, and decay. The picture made a theory of linguistic history look like a fact of nature. Once students accepted the tree, its vocabulary also began to sound inevitable: plant-organs, stems, branches, families, daughters, and sisters. A century and a half later, comparative philology still speaks through Schleicher's metaphor so routinely that many readers no longer notice it.
 
-The tree makes a created, measured, preserved, and calibrated system look like nature shaped by growth, inheritance, mutation, and decay. Once Sanskrit has been assigned plant-organs, branches, and descendants, the picture itself demands a natural ancestor; PIE then enters the vacant position above it. Sanskrit becomes inherited nature followed by Pāṇini's later repair, while the distributed order represented by the swastika's geometry disappears from the account. The category has been stolen before the evidence is heard.
+The tree makes a created, structured, preserved, and calibrated system look like nature shaped by growth, inheritance, mutation, and decay. Once Sanskrit has been assigned plant-organs, branches, and descendants, the picture itself demands a natural ancestor; PIE then enters the vacant position above it. Sanskrit becomes inherited nature followed by Pāṇini's later repair, while the distributed order represented by the swastika's geometry disappears from the account. The category has been stolen before the evidence is heard.
 
 The **मातृ (*mātṛ*)** / *mother* relation brings the same transfer within reach of any reader. The English word is a **प्रतिबिम्ब (*Pratibimba*)** — a reflection of the Sanskrit form rather than a sibling standing beside it. Philology acknowledges the closeness, reroutes the direction through PIE, and places visible Sanskrit below an imaginary parent. By the time the etymology is presented, the tree has already decided what relationship the reader will see.
 
@@ -180,7 +182,7 @@ English and Dutch behave like sister forms inside the Germanic family, while Lat
 
 Old English **hlāfweard**, the "bread-guardian," became **laverd**, then **lorde**, then modern **Lord** — a title now reserved for men at the summit of the English hierarchy and for the Almighty.[NOTE: hlafweard-etymology] As the domestic provider became the political-theological superior, the form mutated and its original transparency disappeared.
 
-Fractality takes more than one form. Natural languages repeat patterns through branching, drift, inheritance, and adaptation; the plant therefore expresses *prakṛti* as natural recurrence, growth, mutation, and decay. Sanskrit repeats measured relationships through calibration and correction, giving *saṃskṛti* an engineered fractal form. Category theft equates recurrence with botany and then transfers a *sāṃskṛtika* fractal into *prakṛti*.
+Fractality takes more than one form. Natural languages repeat patterns through branching, drift, inheritance, and adaptation; the plant therefore expresses *prakṛti* as natural recurrence, growth, mutation, and decay. Sanskrit repeats the same relationships at multiple scales through calibration and correction, giving *saṃskṛti* an engineered fractal form. Category theft equates recurrence with botany and then transfers a *sāṃskṛtika* fractal into *prakṛti*.
 
 *Prakṛti* carries the dignity of natural language, local custom, forest life, inherited speech, and ordinary social continuity. The fraud begins when the pyramid takes a category that fits natural drift and uses it to conceal an engineered calibrant.
 
