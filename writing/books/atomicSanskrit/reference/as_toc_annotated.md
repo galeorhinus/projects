@@ -295,7 +295,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 
 **Appendix Part 2 — The Encyclopaedic Confirmation** *(drafted; analogous to ORL's* Chapter Zero) — *Institutional indictment of the* Encyclopaedic Dictionary of Sanskrit on Historical Principles *(Deccan College, Pune, 1948–present). Indicts the post-independence choice to rubber-stamp the OED's* historical-principles *methodology and deny Sanskrit the engineered-preservation framing the same discipline applied to Hebrew. Closes on the invitation: only the framework has to change.*
 
-- 2.1 The Fleet · 2.2 A Choice, Not an Inheritance · 2.3 The Project and Its Method · 2.4 The Double Standard · 2.5 Three Layers of Variation · 2.6 The English Contrast · 2.7 What the Project Cannot Show · 2.8 The Reframe · 2.9 जाड्यम् अपहन्यताम् (*Jāḍyam Apahanyatām*) — Let the *Jāḍya* Be Removed
+- 2.1 The Fleet · 2.2 A Choice, Not an Inheritance · 2.3 The Project and Its Method · 2.4 The Double Standard · 2.5 Three Layers of Variation · 2.6 The English Contrast · 2.7 What the Project Cannot Show · 2.8 The Reframe · 2.9 Remove PIE from the Sanskrit Syllabus · 2.10 जाड्यम् अपहन्यताम् (*Jāḍyam Apahanyatām*) — Let the *Jāḍya* Be Removed
 
 **Appendix Part 3 — The Sonomer and the Audiograph: Sound Engineering, Pun Intended** *(drafted)* — *Reframes the script argument around the sonomer-first claim: Sanskrit is sonomeric before it is audiographic. Prosecutes the Brāhmī-from-Aramaic account as an interface trap; coins **audiography**; runs the place-value / Roman-numerals logic test in full (all alphabetic systems sit at the Roman-numeral level; all audiographic systems at the place-value level; the marks are the easy part, the grid is the achievement). Hangul as the control case.*
 

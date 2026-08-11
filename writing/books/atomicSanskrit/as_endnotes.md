@@ -570,6 +570,30 @@ An architecture of containment operating without conscious individual direction 
 
 ---
 
+### `pie-indian-university-curricula`
+
+**Short:** The Ministry of Education distributes a national postgraduate module that places reconstructed Proto-Indo-Aryan before Vedic Sanskrit and arranges Vedic and Classical Sanskrit as successive historical stages. University curricula across India reproduce the same genealogy through Sanskrit, linguistics, and comparative-philology courses.
+
+**Deployments:** Chapter 3 §3.1 establishes that the categories enter through Indian curricula; Chapter 4 §4.3 identifies the universities reproducing the doctrine; Appendix Part 2 §2.9 proposes its removal from Sanskrit instruction.
+
+**Vinoba Bhave University.** The university's Sanskrit department states that Sanskrit is a standardized form of Old Indo-Aryan, originated as Vedic Sanskrit, and traces its linguistic ancestry through Proto-Indo-Iranian to Proto-Indo-European. The claim appears in the department's public description of Sanskrit: [Vinoba Bhave University, Sanskrit](https://www.vbu.ac.in/sanskrit).
+
+**The Sanskrit College and University.** The MA Linguistics syllabus makes **PGLIN204: Indo-European Linguistics** a core paper. Unit I begins with "Indo-European as a proto language." Unit III teaches the reconstructed PIE sound system and its development in selected daughter languages. The reading list includes comparative grammar of Sanskrit, Greek, and Hittite, placing Sanskrit inside the genealogy established by the course: [MA Linguistics syllabus, 2022 onward](https://sanskritcollegeanduniversity.ac.in/download/SCU_Linguistics_MA_syllabus_2022_onwards.pdf).
+
+**University of Calicut.** The MA Sanskrit course **SKT 3E04: Linguistics and Informatics** includes the Indo-European family, Proto-Indo-European classification, genealogical classification, dialects, and cognate languages: [MA Sanskrit syllabus](https://sanskrit.uoc.ac.in/images/MA_Sanskrit_compressed.pdf).
+
+**University of Delhi.** The 2026 Sanskrit curriculum places a "Review of PIE (Proto Indo-European) Language theory" inside the phonology unit of its comparative study of Vedic and Avestan. The course trains Sanskrit students to study both languages through comparative phonetic divisions and laws: [University of Delhi, Academic Council Appendix 33, approved April 15, 2026, p. 113](https://www.du.ac.in/uploads/2026/AC-Minutes/18052026/18052026_Appendix-33.pdf).
+
+**Ministry of Education e-PG Pathshala.** The national postgraduate course material for Historical and Comparative Linguistics teaches Proto-Indo-Aryan as the reconstructed predecessor of Old Indo-Aryan and identifies Vedic Sanskrit as its directly recorded form. The same module arranges a transition from Vedic to Classical Sanskrit around Pāṇini: [e-PG Pathshala, “Indo-Aryan Language Family”](https://epgp.inflibnet.ac.in/epgpdata/uploads/epgp_content/S000022LS/P001756/M023413/ET/1506322131Lings-P7-M21.pdf).
+
+**Deccan College.** The institute's 2025–27 MA Linguistics course **LNG 660: Historical Linguistics** teaches internal and comparative reconstruction, genetic classification, language families, reconstructed proto-stages, linguistic subgrouping, and the family-tree and wave models. Its current MA Sanskrit and Lexicography syllabus states that the study of Vedic grammar places Vedic language within Indo-European linguistics. The national e-PG Pathshala module cited above was written by a professor from Deccan College's Department of Linguistics: [MA Linguistics, Semester IV, 2025–27](<https://www.dcpune.ac.in/Documents/ling/MA%20Linguistics%20(2025-27)%20Sem%20IV%20Syllabus.pdf>); [MA Sanskrit and Lexicography, revised 2025](<https://www.dcpune.ac.in/Documents/lex/M.A.%20Sanskrit%20and%20Lexicography%20syllabus%202024-revised%20in%202025.pdf>).
+
+**Further examples.** Karnatak University's MA Sanskrit syllabus tells students that Sanskrit arose from the common language now called Proto-Indo-European. Kerala University's course **History of Sanskrit Language** teaches genealogical classification, the Indo-European family, Proto-Indo-European classification, cognate languages, linguistic change, and phonetic laws: [Karnatak University MA Sanskrit syllabus](https://www.kud.ac.in/admin_panel/iqac/ssr/1/1-2-2/Sup-Doc/MA%20in%20Sanskirt%20SYLLABUS.pdf); [Kerala University LMS, History of Sanskrit Language](https://lms.keralauniversity.ac.in/course/index.php?browse=courses&categoryid=31&page=10&perpage=20).
+
+Together, these official materials establish the institutional sequence described in the body. Students receive the reconstructed ancestry first and examine Sanskrit inside that ancestry afterward. PIE therefore becomes the framework through which they learn how Sanskrit relates to other languages.
+
+---
+
 ### `missionaries-of-progress-precedent`
 
 **Short:** Parag Tope, "Missionaries of 'Progress'," *Quick Take* (https://quicktake.wordpress.com/2011/10/29/missionaries-of-progress/), October 29, 2011 — the author's earlier deployment of the contemporary-NGO-as-missionary structural account that the *fourth Abrahamic religion* cluster vocabulary in this chapter formalizes.

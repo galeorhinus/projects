@@ -183,7 +183,27 @@ The dictionary measures the large set — everything speakers actually produced.
 
 Deccan College made a choice in 1948. It can make a different choice today.
 
-## 2.9 जाड्यम् अपहन्यताम् (*Jāḍyam Apahanyatām*) — Let the *Jāḍya* Be Removed
+## 2.9 Remove PIE from the Sanskrit Syllabus
+
+The change must begin with the Government of India. The Ministry of Education currently distributes teaching material that places reconstructed Proto-Indo-Aryan before Vedic Sanskrit, divides Vedic and Classical Sanskrit into successive historical stages, and places Pāṇini between them. Universities reproduce this genealogy through courses on Sanskrit history, linguistics, and comparative philology.[NOTE: pie-indian-university-curricula]
+
+Indian universities should remove PIE from every Sanskrit syllabus that presents it as the language's ancestor. A Sanskrit student should not have to accept an imaginary parent before examining the recorded language. The curriculum should begin with the architecture the student can hear, recite, parse, and test.
+
+**Begin with Sanskrit's own analytical disciplines.** Teach the *varṇamālā* through **स्थान (*sthāna*)** and **करण (*karaṇa*)**. Teach the *Dhātupāṭha* as an inherited inventory of semantic atoms. Teach *Śikṣā*, the *Prātiśākhyas*, *Nirukta*, and *Vyākaraṇam* as complementary analyses of an operating language. These disciplines give students the categories through which the Hindu continuum understood Sanskrit.
+
+**Teach the two domains before introducing a chronology.** Students should first understand why the *vaidika* domain preserves invariant content and why the *laukika* domain allows people to generate new expressions. Once they understand the different purposes, they can recognize why the labels *"Vedic Sanskrit"* and *"Classical Sanskrit"* falsely turn two domains into two periods.
+
+**Restore the *dhātuḥ* before teaching the botanical root.** Students should examine how the *dhātavaḥ* generate words, preserve semantic identity, and combine with *upasargāḥ* and *pratyayāḥ*. The English word *root* can then be taught as a translation imposed by European philology, not as Sanskrit's own description of its grammatical atom.
+
+**Compare recorded languages without placing an imaginary parent above them.** Sanskrit, Greek, Latin, Avestan, and the other recorded languages can still be compared. Students can examine recurring sounds and meanings, then test whether descent from PIE explains the evidence better than Sanskrit's radiance into receiving languages. Comparison remains. PIE loses the authority to dictate its direction.
+
+**Move PIE into the history of European philology.** Students should learn who constructed it, which assumptions shaped the reconstruction, how the starred forms multiplied, and why European universities placed it above Sanskrit. PIE belongs there as a nineteenth-century intellectual project whose claims can be examined. It does not belong at the beginning of Sanskrit instruction as an established parent.
+
+Deccan College can lead this change. Its current MA Linguistics syllabus teaches comparative reconstruction, reconstructed proto-stages, genetic classification, and the family-tree model. Its Sanskrit and Lexicography syllabus places Vedic grammar within Indo-European linguistics. The institution helped preserve this imported framework after 1948. It can now become the first major Indian institution to remove PIE from Sanskrit's ancestry, restore Sanskrit's own analytical categories, and publish a replacement curriculum that other universities can adopt.[NOTE: pie-indian-university-curricula]
+
+The space now occupied by PIE already has content waiting to be taught: Sanskrit's sound architecture, its semantic atoms, its generative operations, its two domains, its preservation systems, and its distributed calibration. Indian students deserve to encounter that architecture before anyone places an imaginary language above it.
+
+## 2.10 जाड्यम् अपहन्यताम् (*Jāḍyam Apahanyatām*) — Let the *Jāḍya* Be Removed
 
 The Deccan College dictionary is one institution. BORI, the *Linguistic Survey of India*'s descendants, the Archaeological Survey of India, the history departments — all of them face the same choice. All of them have assembled, across decades, the raw data of a decentralized, engineered civilization. All of them have processed it through the centralized, evolutionary algorithms of their predecessors. The choice has been made and re-made.
 

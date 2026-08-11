@@ -133,11 +133,11 @@ This rigor strengthens the polemic. The appendix should expose a system that ass
 
 ## 8. Proposed Appendix Placement
 
-Add a new section to Appendix Part 2 between the current **§2.8 The Reframe** and **§2.9 Jāḍyam Apahanyatām**:
+Add a new section to Appendix Part 2 between **§2.9 Remove PIE from the Sanskrit Syllabus** and the current **§2.10 Jāḍyam Apahanyatām**:
 
-> **§2.9 Who Renewed the Choice**
+> **§2.10 Who Renewed the Choice**
 
-The current §2.9 remedy would then become §2.10.
+The current §2.10 coda would then become §2.11.
 
 ### Section structure
 
@@ -191,4 +191,3 @@ The task is complete when:
 - the 1821–2026 accountability table can survive hostile source checking;
 - the appendix identifies the present offices capable of reversing the framework;
 - the moral language follows the evidence instead of preceding it.
-

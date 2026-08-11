@@ -118,6 +118,20 @@ The academy is the central church, but the church has arms. International bureau
 
 The church turns Proto-Indo-European into unquestioned doctrine by cementing it into routine reference machinery. Across recent decades — the very window during which India's dharmic-civilizational re-emergence has begun to expose the pyramid's manufactured chronology and stolen categories — the standard etymological references and Indo-European dictionaries have multiplied and hardened.[NOTE: pie-cementing-recent-decades] The dogma is being reinforced at exactly the moment an alternative is beginning to assemble itself, as Chapter 19 traces in detail.
 
+### The Government Teaches the Doctrine
+
+The Government of India distributes the PIE genealogy as national postgraduate teaching material. The Ministry of Education's e-PG Pathshala tells students that reconstructed Proto-Indo-Aryan preceded Vedic Sanskrit. It then arranges Vedic and Classical Sanskrit as successive stages and places Pāṇini between them. The government has turned the pyramid's genealogy into an Indian curriculum.[NOTE: pie-indian-university-curricula]
+
+Universities reproduce what the government distributes. Vinoba Bhave University's Sanskrit department traces Sanskrit through Proto-Indo-Iranian to Proto-Indo-European. The Sanskrit College and University requires MA Linguistics students to study Indo-European as the proto-language, reconstruct its sound system, and follow that system into supposed daughter languages. Calicut teaches Proto-Indo-European classification in its MA Sanskrit program. Delhi places PIE theory inside the comparative study of Vedic and Avestan. Kerala teaches the Indo-European family, Proto-Indo-European classification, cognate languages, and linguistic change in a course called *History of Sanskrit Language*. Karnatak University tells MA Sanskrit students that Sanskrit arose from the common language now called Proto-Indo-European.[NOTE: pie-indian-university-curricula]
+
+Deccan College teaches the machinery that produces the same genealogy. Its 2025–27 MA Linguistics syllabus trains students in comparative reconstruction, the reconstruction of proto-stages, genetic classification, and the family-tree model. Its current Sanskrit and Lexicography syllabus places the study of Vedic grammar within Indo-European linguistics. A Deccan College linguist also wrote the Ministry of Education module that presents Proto-Indo-Aryan as the reconstructed predecessor of Vedic Sanskrit.[NOTE: pie-indian-university-curricula]
+
+These institutions could begin with Sanskrit's own analytical disciplines. Students could first examine the *varṇamālā*, the *Dhātupāṭha*, the *Prātiśākhyas*, *Śikṣā*, *Nirukta*, *Vyākaraṇam*, and the two-domain architecture preserved in the Vedas. Instead, the curriculum places an imaginary parent above Sanskrit before students examine the language through the categories of the civilization that created and preserved it.
+
+That order of instruction determines what the student is allowed to see. Once a syllabus identifies PIE as the proto-language and Sanskrit as one of its descendants, every Sanskrit form enters the classroom as inherited material. The student learns to search for ancestry and drift before learning how Sanskrit generates words, preserves distinctions, and corrects departures from its architecture. By the time Sanskrit's own disciplines appear, the curriculum has already assigned them a subordinate role: they can describe or codify the descendant, but they cannot explain the parent placed above it.
+
+The European university no longer needs to impose this genealogy directly. The Indian government distributes it. Indian universities teach it, examine students on it, and certify the next generation of teachers who will repeat it. Indian institutions now guard the imported doctrine, while Sanskrit's own categories remain outside the curriculum.
+
 ## 4.4 The Three Classes
 
 The fourth Abrahamic religion operates through three classes.

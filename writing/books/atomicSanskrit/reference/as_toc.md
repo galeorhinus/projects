@@ -299,7 +299,8 @@
   - 2.6 The English Contrast
   - 2.7 What the Project Cannot Show
   - 2.8 The Reframe
-  - 2.9 जाड्यम् अपहन्यताम् (*Jāḍyam Apahanyatām*) — Let the *Jāḍya* Be Removed
+  - 2.9 Remove PIE from the Sanskrit Syllabus
+  - 2.10 जाड्यम् अपहन्यताम् (*Jāḍyam Apahanyatām*) — Let the *Jāḍya* Be Removed
 - **Appendix Part 3 — The Sonomer and the Audiograph: Sound Engineering, Pun Intended**
   - 3.1 Sonomer First, Audiograph Second
   - 3.2 The Interface Trap
