@@ -295,4 +295,4 @@ Chapter 0 introduced *sat* and *asat*. Chapter 1 identified the actions through 
 
 The two fractals remain recognizable at every scale. The swastika fractal keeps light, water, knowledge, language, and power in circulation. The pyramid fractal encloses them and forces everyone else to approach through an apex. The contested object changes, while the two architectures retain their shapes.
 
-The technical chapters that follow uncover what the linguistic concealment hid. They demonstrate the radiant, calibrant, and fractal architecture of Sanskrit from mouth to language.
+The chapters ahead examine Sanskrit directly, outside these imported categories. They begin with the movements of the mouth and the sounds selected from them. They then follow those sounds into semantic atoms, words, and complete sentences. At each level, the reader can examine how Sanskrit generates new expression while preserving the distinctions on which the larger language depends.

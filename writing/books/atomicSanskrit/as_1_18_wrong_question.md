@@ -270,9 +270,9 @@ The wider preservation architecture used eleven **पाठाः (*pāṭhāḥ
 
 For thousands of years, the Vedas have remained the primary calibrant. Those responsible for recitation preserved every sound, pitch, duration, and sequence. Those responsible for *laukika* Sanskrit could return to the architecture the Vedas encoded whenever usage faced entropy.
 
-Generations of **वैयाकरणाः (*vaiyākaraṇāḥ*)** decoded that architecture. Yāska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, the **प्रातिशाख्य (*Prātiśākhya*)** disciplines, the **शिक्षा (*Śikṣā*)** disciplines, and the wider pre-Pāṇinian grammatical continuum analyzed the language long before the surviving documentation reached its most compressed form.
+Generations of **वैयाकरणाः (*vaiyākaraṇāḥ*)** decoded that architecture. Yāska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, the **प्रातिशाख्य (*Prātiśākhya*)** disciplines, the **शिक्षा (*Śikṣā*)** disciplines, and the wider pre-Pāṇinian grammatical continuum analyzed the language long before that documentation reached its most compressed form.
 
-As the age grew darker and the pressure of entropy increased, Pāṇini found an exceptionally efficient way to protect the *laukika* domain. He inherited the analytical tradition, decoded Sanskrit's existing grammar, and articulated its operations with unmatched precision. The *Aṣṭādhyāyī* compressed that architecture into a rule-system that students and teachers could apply directly to new *laukika* compositions. Pāṇini did not create Sanskrit. He gave the continuum its finest surviving grammatical articulation.
+As the age grew darker and the pressure of entropy increased, Pāṇini found an exceptionally efficient way to protect the *laukika* domain. He inherited the analytical tradition, decoded Sanskrit's existing grammar, and articulated its operations with unmatched precision. The *Aṣṭādhyāyī* compressed that architecture into a rule-system that students and teachers could apply directly to new *laukika* compositions. Pāṇini did not create Sanskrit. He gave the continuum its finest grammatical articulation.
 
 ### What We Do Not Know
 

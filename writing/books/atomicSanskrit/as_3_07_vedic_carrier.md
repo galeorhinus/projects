@@ -1,6 +1,6 @@
 # Appendix Part 7 — The Vedic Carrier
 
-Three short Vedic passages already contain the architecture that Pāṇini later documented: specified sound junctions, case inflection, verbal endings, derivation, accent, and meter. The forms operate inside the corpus before the surviving Pāṇinian documentation explains them.
+Three short Vedic passages already contain the architecture that Pāṇini later documented: specified sound junctions, case inflection, verbal endings, derivation, accent, and meter. The forms operate inside the corpus before Pāṇinian documentation explains them.
 
 The pyramid arranges differences between *vaidika* and *laukika* Sanskrit along a timeline and calls them evolution. This appendix examines the forms in the settings where they are used. Some support metrical composition, some exact recitation, some mantra, some Vedic prose, and some new *laukika* composition. These functions do not require Sanskrit to decay from one language into another.
 
@@ -12,7 +12,7 @@ Chapter 1 §1.1's fuller statement opens with three blockquoted lines. The middl
 
 > ***The engineering's upstream origin is not visible in the historical record;*** ***अपौरुषेयत्व (*apauruṣeyatva*)*** ***is the lineage-chain's own anchor for the position. The*** ***Vedas*** ***preserve the engineering across thousands of years as the corpus form, implicit in every recitation rule and every metrical specification.***
 
-Chapter 20 §20.4 calls this ***corpus form***. The Vedic passages preserve the forms themselves: the *sandhi* junctions, case endings, verbal operations, accents, and metrical arrangements. The surviving Pāṇinian documentation later explains many of the operations already visible there.
+Chapter 20 §20.4 calls this ***corpus form***. The Vedic passages preserve the forms themselves: the *sandhi* junctions, case endings, verbal operations, accents, and metrical arrangements. Pāṇinian documentation later explains many of the operations already visible there.
 
 Each recited verse gives the analyst concrete evidence. A *sandhi* junction joins particular sounds; a case ending assigns a grammatical role; meter constrains syllable count; and Vedic accent makes part of the grammatical interpretation audible through pitch. These are operating features of the transmitted form.
 
@@ -177,7 +177,7 @@ Chapter 5 §5.6 introduced the unifying observation as a standalone blockquote, 
 
 The documentation establishes the two halves of the *Vedas implicitly preserve it as the corpus form* clause from Chapter 1 §1.1:
 
-- **The implicit grammar is visible in the Vedas** (§§7.2–7.3). Three passages show *sandhi*, case inflection, *dhātu*-*pratyaya* assembly, *upasarga*-compounded verbs, optative forms, *kṛdanta* derivation, and meter operating before the surviving Pāṇinian documentation.
+- **The implicit grammar is visible in the Vedas** (§§7.2–7.3). Three passages show *sandhi*, case inflection, *dhātu*-*pratyaya* assembly, *upasarga*-compounded verbs, optative forms, *kṛdanta* derivation, and meter operating before Pāṇinian documentation.
 - **The variations assigned to drift separate into specified roles** (§§7.4–7.6). Metrical alternatives, recitational parameters, contextual sound forms, and reusable morphology each serve a specified function inside the same architecture.
 
 Chapter 5's anti-entropy principle explains how the assignments remain stable. *Chandas* makes drift measurable because a wrong sound can break the meter, while **श्रुति (*śruti*)** makes it catchable because the audience hears the error. Metrical alternates such as *bhiḥ* / *ebhiḥ* and the multiple infinitive forms preserve compositional range. *Plutaḥ* preserves duration. Accent preserves pitch while carrying an audible layer of grammatical interpretation, and contextual **ळ** preserves the articulation specified by its phonetic environment. Working together, these layers keep legitimate Vedic variation distinct from drift.

@@ -20,9 +20,9 @@
 
 ## 2.1 The Category Withheld from Sanskrit
 
-The asuric pyramid's first move to eclipse Sanskrit's radiance is category theft: it places Sanskrit inside a category that directly contradicts Sanskrit's own architecture.
+The first plate placed over Sanskrit is its classification as a natural language. The pyramid assigns that category before the reader examines how Sanskrit is built. Once the classification is accepted, every designed feature can be presented as the result of drift. This is category theft: Sanskrit is placed inside a category that directly contradicts its own architecture.
 
-The pyramid carries out this theft through **आसुरी माया (*āsurī māyā*)**. Sanskrit knows *māyā* as power, formation, appearance, and skill, so its character depends on purpose. In asuric hands, *māyā* becomes a weapon of concealment: the pyramid makes the false category appear natural while hiding the true category even though its architecture remains visible.
+The pyramid carries out this theft through **आसुरी माया (*āsurī māyā*)**. Sanskrit knows *māyā* as power, formation, appearance, and skill, so its character depends on purpose. In asuric hands, *māyā* becomes a weapon of concealment. The pyramid makes the false category appear natural while Sanskrit's engineered architecture remains directly before the reader.
 
 The pyramid teaches readers to recognize three broad categories of language. The first contains **natural languages**, which arise through communal speech and continue changing through use, contact, and inheritance. Institutions may standardize one variety for schools, administration, publication, or public life, but Standard English and Standard French remain botanical because their speakers continue changing them.[NOTE: language-origin-standardization-form]
 
@@ -182,7 +182,7 @@ Pāṇini did not codify Sanskrit. He decoded it. His *Aṣṭādhyāyī* articu
 
 ## 2.9 The Theft Made Visible
 
-The botanical model describes languages that grow and decay. It fails when applied to a language engineered to resist linguistic drift. To place Sanskrit inside the tree, the pyramid translated *dhātuḥ* as a plant-root, described its grammar as leftovers produced by natural change, and claimed that Pāṇini froze one selected form. Each step replaced evidence of engineering with a botanical explanation. The result removed the category Sanskrit occupies in its own civilizational grammar: not *prakṛti*, but *saṃskṛti*.
+The botanical model describes languages that grow and decay. It fails when applied to a language engineered to resist linguistic drift. To place Sanskrit inside the tree, the pyramid translated *dhātuḥ* as a plant-root, described its grammar as leftovers produced by natural change, and claimed that Pāṇini froze one selected form. Each step replaced evidence of engineering with a botanical explanation. Together, these steps teach the reader to place Sanskrit in the wrong civilizational category: not *saṃskṛti*, but *prakṛti*.
 
 Patañjali had already described the difference precisely. The *vaiyākaraṇaḥ* defends the correctly formed word against the **अपभ्रंशाः (*apabhraṃśāḥ*)**, the forms that fall away from it. In his account, speech can drift away from an established form. European philology later reversed that relationship and treated drift as Sanskrit's natural condition. Patañjali also described the bond between word and meaning as **सिद्ध (*siddha*)** — already established and permanent — rather than **कार्य (*kārya*)**, something that grammar produces anew. The engineered word remains available while natural variants depart from it. Chapters 5 and 6 develop that framework on its own terms.
 

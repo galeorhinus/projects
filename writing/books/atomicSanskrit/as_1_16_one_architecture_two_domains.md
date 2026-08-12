@@ -273,7 +273,7 @@ A poet can use these operations to create an image that no earlier poet used. A 
 
 A speaker can derive or compose a new expression from the architecture without waiting for an academy to grant permission. Other Sanskrit speakers can inspect the result: does it use Sanskrit's sounds, atoms, bonds, endings, and grammatical relations? The architecture itself supplies the test for the new expression.
 
-The surviving laukika corpus changes even though the language does not. People add poems, explanations, stories, analyses, and technical compositions. Communities decide which compositions to copy, teach, perform, quote, and remember. Some fall from use because later generations release or forget them. Others disappear through conquest and deliberate destruction. The corpus therefore grows through new composition and selection while also suffering loss.
+The laukika corpus in use today changes even though the language does not. People add poems, explanations, stories, analyses, and technical compositions. Communities decide which compositions to copy, teach, perform, quote, and remember. Some fall from use because later generations release or forget them. Others disappear through conquest and deliberate destruction. The corpus therefore grows through new composition and selection while also suffering loss.
 
 ***लौकिक (*laukika*)*** means *worldly*. Laukika Sanskrit serves the world through generativity. Natural languages often meet new circumstances as generations of speakers change sounds, forms, vocabulary, and meaning. Laukika Sanskrit offers another possibility: speakers generate new expression while the architecture remains stable.
 
@@ -295,7 +295,7 @@ The ***वैयाकरणाः (*vaiyākaraṇāḥ*)*** documented both dom
 
 Pāṇini inherited this arrangement and documented operations found across both domains. His rules state whether a particular operation applies broadly in Vedic Sanskrit, only in mantra, in Brāhmaṇa usage, in a named text, or in *laukika* use. This documentation helps a student read and understand inherited Vedic forms and use Sanskrit for new *laukika* composition. These boundaries do not describe an old Sanskrit becoming a newer Sanskrit.
 
-Nothing in the *Aṣṭādhyāyī* shows Pāṇini rewriting a mantra, correcting the Vedic corpus, or converting a drifting natural language into Sanskrit. He documented an architecture already operating in both domains. His decoding is the finest surviving account of that architecture, but it is neither the architecture's origin nor the source of the Vedas' stability.
+Nothing in the *Aṣṭādhyāyī* shows Pāṇini rewriting a mantra, correcting the Vedic corpus, or converting a drifting natural language into Sanskrit. He documented an architecture already operating in both domains. His decoding is the finest account of that architecture, but it is neither the architecture's origin nor the source of the Vedas' stability.
 
 The Vedas did not survive because Pāṇini stabilized them. Pāṇini could document Sanskrit because its architecture was already encoded and preserved within them.
 

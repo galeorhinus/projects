@@ -26,7 +26,7 @@ How can order exist without an apex? Would that not be anarchy?
 
 You will not find the explanation in history books. The evidence is alive today. The Vedas and Sanskrit have remained intact and in use across millennia. Their continued existence provides a **living example** of an order engineered to thrive without an apex.
 
-This book calls that Vedic architecture a **calibrant order**. A calibrant order places an invariant standard within the architecture, where every participant can align with it but no ruler or office can own it.
+This book calls that Vedic architecture a **calibrant order**.
 
 At the linguistic scale, Sanskrit is the radiant calibrant. 
 
@@ -36,7 +36,7 @@ Rāma embodies the same calibrant at the human scale. *Saṃskṛti* extends it 
 
 The Vedas bond Sanskrit with ***saṃskṛti***: they encode civilizational architecture in Sanskrit and carry that architecture into the life of the civilization through continuous transmission. Sanskrit is therefore ***saṃskṛti*** in linguistic form. It is radiant because it shares forms with other languages without requiring them to become Sanskrit. It is a calibrant because its invariant architecture remains available to everyone without placing a central office in command. It is fractal because the same distributed order can recur and scale beyond language. Together, these three qualities form the linguistic foundation of *Sanātan*.
 
-Forthcoming volumes take that recurrence from language into civilizational form. *Atomic Sanskrit* examines a linguistic architecture that remains alive and complete. Later volumes begin with the civilizational structures, memories, and surviving fragments preserved by the Hindu continuum. They develop a political architecture, an economic architecture, and other possible expressions of the same Vedic depth.
+Forthcoming volumes take that recurrence from language into civilizational form. *Atomic Sanskrit* examines a linguistic architecture that remains alive and complete. Later volumes begin with the civilizational structures, memories, and fragments preserved by the Hindu continuum. They develop a political architecture, an economic architecture, and other possible expressions of the same Vedic depth.
 
 Sanskrit supplies three categories for following the recurrence across those scales. ***प्रकृति (*prakṛti*)*** is the natural fractal: organic growth, branching, adaptation, and change. ***संस्कृति (*saṃskṛti*)*** is the balanced civilizational fractal: created recurrence disciplined toward welfare, memory, continuity, and harmony. ***विकृति (*vikṛti*)*** is the distorted civilizational fractal: created recurrence bent toward hierarchy, extraction, control, and concealment.
 

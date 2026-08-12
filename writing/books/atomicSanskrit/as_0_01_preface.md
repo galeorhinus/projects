@@ -40,15 +40,23 @@ The clearing begins later — shadow by shadow, plate by plate, until the terrai
 
 The language names itself **संस्कृतम् (*saṃskṛtam*)**: well-made, wholly formed, perfectly synthesized.[NOTE: samskrtam-morphology] The **परम्परा (*paramparā*)** that received and documented it is an unbroken lineage-chain and distributed transmission architecture. That architecture distinguished Sanskrit from **प्राकृत (*prākṛta*)**, recognized drift as **अपभ्रंश (*apabhraṃśa*)**, and treated the word-meaning bond as **सिद्ध (*siddha*)**: already established.
 
-The Vedic corpus displays the grammar; the recitation lineages preserve it. The question is why the philological machinery treats the engineering character of Sanskrit as anything other than obvious.
-
-Sanskrit is speech: recited, spoken, sung, parsed, and taught across the two learned domains, Vedic and worldly — in mantra, poetry, śāstra, dialogue, and drama. But the same speech also displays an architecture ordinary natural languages do not expose with this precision: the **वर्णमाला (*varṇamālā*)** (the ordered inventory of sonomers, measured sound-particles; Chapters 8 and 9 move from the sound-field to the selected grid), the **धातु (*dhātu*)** inventory, the physiological phonetic grid, the calibration matrix, and the multi-axis grammatical system. The architecture is observable in the Vedas. Both domains display engineering. The origin of Sanskrit is a separate question; the engineering is what is self-evident.
-
-The visible differences between **वैदिक (*vaidika*)** and **लौकिक (*laukika*)** Sanskrit are real. Sanskrit’s own categories place them without confusion: *vaidika* and *laukika* name the two broad domains. Pāṇini maps particular operations more finely through labels such as **छन्दसि (*chandasi*)**, **मन्त्रे (*mantre*)**, **अमन्त्रे (*amantre*)**, **ब्राह्मणे (*brāhmaṇe*)**, **निगमे (*nigame*)**, and **भाषायाम् (*bhāṣāyām*)**. The fraud begins when these domains and operational scopes are recoded as chronological stages: *"Vedic"* before, *"Classical"* after, Pāṇini in between.
-
 The chapters that follow demonstrate what becomes one of the book's refrains: **Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.**
 
-Sanskrit is therefore the calibrant. Its architecture is fractal: the same calibration principle recurs across sound, atom, grammar, recitation, memory, and transmission. Sanātan extends that pattern across domains; this volume begins with language because language makes the architecture audible.
+The conflict in this book is between two architectures of order. One creates order through calibration; the other imposes order from an apex. A calibrant order places an invariant standard where everyone can reach it and no apex can own it. People align with it and correct errors without surrendering authority to a central institution. By contrast, the asuric pyramid encloses knowledge, controls access, places an apex above everyone else, and turns correction into obedience.
+
+Sanskrit and the Vedas provide a living demonstration of calibrant order. The pyramid could not leave that evidence visible. It used false categorization as its weapon. The plates described above were chosen deliberately. Each one conceals a different part of the same architecture.
+
+The reconstruction proceeds through four interconnected components.
+
+First the material. The anatomy of the human mouth makes many different sounds possible. Sanskrit selects a reusable set, gives each sonomer a coordinate, and combines those sonomers into stable semantic atoms. The atoms accept grammatical bonds and generate language without losing their identity.
+
+Second is scope. One architecture uses the *vaidika* and *laukika* domains because exact preservation and new composition create different risks. The Vedic domain preserves controlled variation inside content that will never change. The worldly domain uses tighter limits where that freedom would create collisions.
+
+Third comes continuity. The Vedas encode several architectures of *Sanātan*. One of them is Sanskrit. They preserve the language's full range and serve as its invariant calibrant. Pitch, meter, recitation, trained hearing, correction, and distributed lineages keep it audible without placing it under one ruler or institution. Pāṇini inherited and documented this architecture.
+
+Fourth comes radiance. Influential carriers took Sanskritic words, structures, knowledge, and analytical methods beyond India. Other languages preserved partial reflections. European philology gathered those fragments, constructed PIE, and placed it above the complete architecture.
+
+These four parts explain why Sanskrit threatens the pyramid. Sanskrit demonstrates that precise and durable order can thrive without an apex. It is radiant because it travels outward, calibrant because its invariant architecture remains available for alignment, and fractal because the same design recurs from sound to civilization.
 
 The words the reader is familiar with contain the same evidence. **मातृ (*mātṛ*)** is not Sanskrit's cousin beside *mother*; it is the etymon. The English word is a **प्रतिबिम्ब (*Pratibimba*)** — a reflection of the original form.
 

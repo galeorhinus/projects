@@ -98,7 +98,7 @@ The nectar rises when the churn turns toward the Sun. Which side receives it dep
 
 ## The Contest of Architectures
 
-The argument resolves into a contest between two civilizational architectures.
+The argument resolves into a contest between two architectures of order.
 
 The asuric architecture builds pyramids: apex authority, controlled doctrine, captured institutions, extracted labor, managed origins, and narratives that subordinate the base to the top. Its apex seats a single figure; he shares power with no one and bends the base toward himself. It operates through **तमस् (*tamas*)**: obscurity, inertia, concealment.
 
@@ -117,6 +117,12 @@ These are two fractals meeting at different scales. The swastika repeats created
 The asuric formation cannot make that call because its entire history relies on extraction, concealment, and inversion. Although it has claimed writing, grammar, language origins, and civilizational authority for itself, those claims inevitably fail under structural scrutiny.
 
 The architecture remains.
+
+The architecture is self-evident in four connected forms. Sanskrit's selected sounds, semantic atoms, scaffolds, and grammatical bonds reveal the engineered material. The complementary permissions of the *vaidika* and *laukika* domains reveal engineered scope. The Vedas, recitation systems, analytical disciplines, and distributed lineages reveal engineered continuity. The reflections preserved in other languages reveal engineered radiance.
+
+Together they establish the larger result. The Vedas already preserve the complete language architecture that Pāṇini later documented. They are part of the engineering that keeps the language calibrated. Pāṇini stands within that continuity, and his decoding provides its finest documentation. Sanskrit retains the complete calibrant architecture, and its radiance reached several languages, including Greek and Latin. Those languages continue to preserve partial reflections of that architecture.
+
+The pyramid used false categorization as its weapon. It recast the sonomer as a letter, the *dhātuḥ* as a root, the Vedic domain as an archaic language, Pāṇini's documentation as codification, aural engineering as oral tradition, and Sanskrit as a daughter language. Once those substitutions fall away, Sanskrit becomes visible from the movement of the mouth to the civilizational order that kept the language alive.
 
 The appendices carry the deeper demonstrations. *Baking the Mother Tongue* traces PIE's manufacture through the Pune-Calcutta-Oxford-Göttingen pipeline. *The Encyclopaedic Confirmation* documents Deccan College's post-independence choice to read Sanskrit through the OED's historical principles rather than through its own analytical disciplines. *The Sonomer and the Audiograph* dismantles the Brāhmī-from-Aramaic story and restores the seventh script-category the machinery's six-way typology refuses. *The Language Factory* proves the thesis by construction: Sanskrit's architecture, run on a foreign phoneme set, generates a working language. One argument runs through all four: the asuric formation displaced the dharmic architecture from recognition and told the world the story upside down.
 

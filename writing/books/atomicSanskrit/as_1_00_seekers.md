@@ -22,6 +22,8 @@
 
 ![Figure E.3 — The radiance of Sanskrit](figures/eclipse_spine/eclipse_01_ch0_sanskrit_sun.svg){#fig:eclipse-ch0-sanskrit-sun width=100%}
 
+Sanskrit's radiance is visible and audible. Its sounds continue through recitation, and anyone can examine its grammar. Its generative architecture creates new expression, while its forms appear throughout Indian languages and across languages far beyond India.
+
 ## 0.1 The Puzzle of the Whole
 
 The *Īśopaniṣad* (ईशोपनिषद्), cited above, begins its inquiry by anchoring the universe in a state that can be put as a puzzle:
@@ -68,9 +70,9 @@ Sanskrit’s architecture is not a coincidence; it is the acoustic output of a c
 
 Most readers already know some Sanskrit, even if they have never studied the language.
 
-A Western reader already speaks Sanskrit casually through words that have entered the global vocabulary: **गुरु (*guru*)**, a weighty teacher; **कर्म (*karma*)**, action; **अवतार (*avatāra*)**, a descent; **मन्त्र (*mantra*)**; and **योग (*yoga*)**, from the atom ⟪युज्⟫ (*yuj*), to join. Chapter 19 explains how thousands of familiar English words—including *king, station, genesis, native, constant,* and *state*—carry Sanskrit's radiance.
+A Western reader already speaks Sanskrit casually through words that have entered the global vocabulary: **गुरु (*guru*)**, a weighty teacher; **कर्म (*karma*)**, action; **अवतार (*avatāra*)**, a descent; **मन्त्र (*mantra*)**; and **योग (*yoga*)**, from the atom ⟪युज्⟫ (*yuj*), to join. Chapter 19 traces Sanskrit's radiance through thousands of familiar English words, including *king, station, genesis, native, constant,* and *state*, and shows the Sanskrit forms reflected within them.
 
-An Indian reader encounters Sanskrit throughout daily life. *Ślokas* and wedding mantras keep its sounds audible. Modern space missions use compounds such as **चन्द्रयान (*Candrayāna*)**, Moon-vehicle, while the country calls itself **भारत (*Bhārata*)**. Every regional Indian language has been touched by Sanskrit's radiance.
+An Indian reader encounters Sanskrit throughout daily life. *Ślokas* and wedding mantras keep its sounds audible. Modern space missions use compounds such as **चन्द्रयान (*Candrayāna*)**, Moon-vehicle, while the country calls itself **भारत (*Bhārata*)**. Sanskrit's radiance remains visible throughout regional Indian languages, in the sounds they produce and in the words and grammar they use.
 
 ### Attribute, Not Label
 
@@ -271,7 +273,7 @@ The Veda preserves the invariant distinction; the *laukika* domain applies it to
 
 This is the quintessence of the calibrant architecture for both *saṃskṛti* and Sanskrit.
 
-The chapters that follow trace a battle between two fractal architectures. One radiates, releases, distributes, and calibrates. The other conceals, contains, centralizes, and controls. The two fractals meet at cosmic, operational, civilizational, and linguistic scales.
+The chapters that follow trace a battle between two fractal architectures. One keeps what sustains life in circulation. The Vedas show its protagonists releasing water and light from obstruction, while Sanskrit's caretakers preserve and transmit knowledge without placing it under one owner. The other architecture encloses what should circulate and forces everyone else to approach through an apex. The same opposition appears in the Vedic accounts, in civilizational institutions, and in the modern account of Sanskrit.
 
 Chapter 1 follows **असत् (*asat*)** from cosmic condition into specific action: concealment, blockade, isolation, enclosure — the architecture of containment, the pyramid.
 
@@ -303,6 +305,6 @@ Readers do not need to have studied Sanskrit before they follow its engineering,
 
 A fractal repeats the same organizing principle at different scales. Sanskrit does this from the smallest movement of the mouth to the preservation of the complete language. The anatomy of the mouth organizes sounds by place of articulation and effort. The engineering assigns selected sounds positions in the sonomer coordinate system. Sonomers combine into semantic atoms, and those atoms enter larger grammatical assemblies. Sanskrit's grammar gives words the forms that establish their roles inside sentences. *Sūtrāṇi* compress the operations so that teachers and students can remember and apply them. The Vedas and their supporting disciplines preserve the complete architecture as a calibrant. At every larger scale, Sanskrit retains and reuses the organization visible at the smaller scale.
 
-The seekers and caretakers confront another fractal that repeats the opposite organization: the asuric pyramid. At every scale, the pyramid concentrates authority at an apex. The apex commands the people below, encloses knowledge and resources, and requires others to approach through its gate. Sanskrit distributes its architecture across teachers, students, families, reciters, analysts, and lineages whom no apex can own. That distribution threatens any pyramid that wants authority to flow only from above. The chapters that follow identify the shadows cast over Sanskrit and clear them one by one.
+The seekers and caretakers confront another fractal that repeats the opposite organization: the asuric pyramid. At every scale, the pyramid concentrates authority at an apex. The apex commands the people below, encloses knowledge and resources, and requires others to approach through its gate. Sanskrit distributes its architecture across teachers, students, families, reciters, analysts, and lineages whom no apex can own. That distribution threatens any pyramid that wants authority to flow only from above. Part I identifies the obstructions precisely: Sanskrit classified as a natural language, PIE installed as its parent, its two domains rearranged into historical periods, and Pāṇini recast as its codifier. Through each obstruction, the pyramid teaches the reader to misinterpret an architecture that remains present.
 
 The Epilogue returns to Ṛgveda 5.40. Svarbhānu covers the Sun with darkness, but the Atris find the Sun and make it visible again. This opening chapter has introduced the civilizational capacity that makes such recovery possible: people trained to listen, correct, remember, and continue looking when darkness conceals what earlier generations preserved.

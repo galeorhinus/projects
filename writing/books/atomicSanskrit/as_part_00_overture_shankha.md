@@ -20,12 +20,12 @@
 
 \bigskip
 
-The sound of the Śaṅkha does not begin the war—it announces the attack on Sanskrit that was already underway. Its call summons the people who preserved the language to recognize that attack and defend what they inherited. When the conch sounds, the eclipse still covers the Sun completely. Every plate remains firmly in place. The chapters that follow identify those plates—and remove them one by one.
+The asuric attacks on the Vedas and Sanskrit are timeless. The Śaṅkha does not begin that war. Its sound reminds the people that the war is already underway and calls those who preserved the Vedas and Sanskrit to defend what they inherited. When the conch sounds, the eclipse still covers the Sun completely. Every plate remains firmly in place.
 
 ![Figure E.2 — The Śaṅkha Sounds. The full eclipse remains in place, but the conch has sounded while the world is still dark.](figures/eclipse_spine/eclipse_00_overture_shankha_full.svg){#fig:eclipse-overture-shankha width=100%}
 
-Sanskrit is the Sun. The asuric pyramid has drawn its shadow across the world, obscuring what should have been obvious: an architecture actively preserved across the depth of time by seekers, reciters, vaiyākaraṇāḥ, mothers, teachers, students, and lineages. This book calls them caretakers because they kept teaching, reciting, listening, correcting, and remembering while the academic account surrounding their language grew dark.
+Sanskrit occupies the place of the Sun in this book's eclipse sequence. Its sounds remain audible in recitation, its grammar remains available for examination, and its words continue to travel through India and the world. The pyramid did not make Sanskrit disappear. It directed readers toward scattered texts, rules, and words while deliberately hiding the complete architecture that joins them. That act of concealment casts the shadow.
 
-Before the light returns, the overture makes the opposing parties visible. On one side stand the seekers and caretakers. On the other stands the asuric pyramid: a finite order with a single apex, constantly demanding that everyone look upward for authority.
+Generations of seekers, reciters, *vaiyākaraṇāḥ*, mothers, teachers, students, and lineages kept that architecture available. This book calls them caretakers because they continued to teach, recite, listen, correct, and remember while academic institutions taught a different account of their language.
 
-The Śaṅkha sounds while the world is still dark. The next two chapters introduce the two opposing forces: the caretakers and the pyramid. With those positions established, Part I will begin the process of removing the plates that stand between Sanskrit and the world.
+The conflict therefore has two sides. On one side stand the seekers and caretakers. On the other stands the asuric pyramid: a finite order with a single apex that demands that everyone look upward for authority. The next two chapters introduce these opposing forces. Part I then examines each obstruction placed over Sanskrit and removes it so that the architecture beneath becomes visible.

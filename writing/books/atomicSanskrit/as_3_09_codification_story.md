@@ -63,7 +63,7 @@ The Vedic corpus supplies the first body of evidence. Appendix Part 7 follows th
 
 The analytical disciplines before Pāṇini supply a second body of evidence. Śākalya decomposed the Rigvedic *saṃhitā* through the *padapāṭha*. Pāṇini cites earlier *vaiyākaraṇāḥ*, and Yāska cites earlier analysts of word and meaning.[NOTE: panini-cites-pre-paninian-vaiyakaranas] The *Prātiśākhya* and *Śikṣā* disciplines analyze phonetic realization and articulation by transmission line. These are not fragments of a civilization waiting for grammar to arrive. They show a language already being decoded from several directions.
 
-The surviving names make that earlier analytical tradition harder to erase. Pāṇini refers to Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Saunaga, Senaka, and Sphoṭāyana. Yāska, in turn, preserves earlier explanations associated with analysts such as Sthaulāṣṭhīvi and Śakapūṇi. Their texts have not all survived, so their complete systems cannot now be reconstructed. Their presence still establishes the point required here: Pāṇini inherited a developed discipline of analysis. His achievement stands at the surviving peak of that tradition.
+The surviving names make that earlier analytical tradition harder to erase. Pāṇini refers to Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Saunaga, Senaka, and Sphoṭāyana. Yāska, in turn, preserves earlier explanations associated with analysts such as Sthaulāṣṭhīvi and Śakapūṇi. Their texts have not all survived, so their complete systems cannot now be reconstructed. Their presence still establishes the point required here: Pāṇini inherited a developed discipline of analysis. His achievement stands at the peak of that tradition.
 
 Patañjali supplies the order explicitly:
 
@@ -204,7 +204,7 @@ An engineered system can permit alternatives without surrendering precision. The
 
 The Mitanni evidence supplies an external anchor. Indic technical vocabulary appears in a Hittite-Mitanni setting that the pyramid's own chronology places before Pāṇini's supposed codification.[NOTE: mitanni-indic-technical-vocabulary] The material does not establish the entire history of Sanskrit, but it shows recognizable technical forms traveling beyond the subcontinent before the alleged rupture.
 
-Technical transmission requires enough stability for terms to remain usable outside their source setting. Mitanni therefore joins the Vedic corpus, recitation disciplines, pre-Pāṇinian analysts, and atomic inventory as evidence that stability did not begin with Pāṇini. His achievement was to give an already operating architecture its most compressed surviving document.
+Technical transmission requires enough stability for terms to remain usable outside their source setting. Mitanni therefore joins the Vedic corpus, recitation disciplines, pre-Pāṇinian analysts, and atomic inventory as evidence that stability did not begin with Pāṇini. His achievement was to give an already operating architecture its most compressed document.
 
 ## 9.8 Why the Codification Story Persists
 
@@ -239,7 +239,7 @@ The principal claims can now be compared directly.
 | Pāṇini's alternatives reveal unsettled usage. | Operators such as *vā* and *vibhāṣā* state the conditions under which alternatives are licensed. Bounded optionality is part of the specification. |
 | The *Prākṛta* languages prove the calibrant was mutating naturally. | Living languages change and flourish around Sanskrit. Their development does not establish that Sanskrit's calibrated architecture collapsed into the same process. |
 | Grammar froze Sanskrit artificially. | Sanskrit distributes correction across meter, recitation, sound analysis, derivation, memory, and lineage. Pāṇini documents one powerful part of that calibration architecture. |
-| Pāṇini created Classical Sanskrit. | Vedic passages and pre-Pāṇinian disciplines display the architecture before his surviving document. The *Aṣṭādhyāyī* is the finest decoding of that inherited system. |
+| Pāṇini created Classical Sanskrit. | Vedic passages and pre-Pāṇinian disciplines display the architecture before his document. The *Aṣṭādhyāyī* is the finest decoding of that inherited system. |
 
 The codification story joins two needs that would otherwise conflict. The pyramid needs Sanskrit to remain natural enough to descend from PIE, yet it also needs an explanation for the language's extraordinary order. It solves the conflict by placing the order inside a late codifier.
 

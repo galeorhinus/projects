@@ -162,7 +162,7 @@ The Wilson and Griffith translations of Rigveda 9.63.5 show the priestly functio
 
 ## 4.5 Bandin's Gate
 
-The priestly rite now has a modern name: peer review.
+Modern universities continue this priestly rite through peer review. Before an argument can enter an approved journal, certified intellectuals decide whether it may pass through the gate.
 
 Peer review appoints certified intellectuals to guard the certification of other intellectuals, reviving an old Roman question: ***Who guards the guards?*** — *quis custodiet ipsos custodes?* — asked in Rome two thousand years before any modern peer-review machinery existed.[NOTE: juvenal-quis-custodiet] Inside the church's procedure, the guards guard each other.
 
