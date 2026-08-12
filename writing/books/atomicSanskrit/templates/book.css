@@ -28,8 +28,8 @@ a{color:var(--gold-d)}a:hover{color:var(--deep)}
 .sitebar .in{max-width:var(--shell);margin:0 auto;padding:11px 30px;display:flex;align-items:center;gap:11px}
 .sitebar a.home{display:flex;align-items:center;gap:11px;text-decoration:none;color:inherit}
 .sitebar svg{flex:none;display:block}
-.sitebar .wm{font-size:17px;font-weight:700;letter-spacing:-.008em}
-.sitebar .nav{margin-left:auto;display:flex;gap:20px;font-size:14.5px}
+.sitebar .wm{font-size:18px;font-weight:700;letter-spacing:-.008em}
+.sitebar .nav{margin-left:auto;display:flex;gap:20px;font-size:15.5px}
 .sitebar .nav a{text-decoration:none;font-weight:700}
 .sitebar .nav a:hover{text-decoration:underline}
 
@@ -39,14 +39,14 @@ a{color:var(--gold-d)}a:hover{color:var(--deep)}
    reachable while scrolling, unlike a block that lives after the <h1>
    and scrolls away with everything else. Native <details>, no JS. */
 .sitebar details.toc-drop{position:relative}
-.sitebar details.toc-drop > summary{cursor:pointer;list-style:none;display:flex;align-items:center;gap:5px;font-size:14px;font-weight:700;color:var(--brown);padding:6px 9px;border-radius:5px;transition:background .13s,color .13s}
+.sitebar details.toc-drop > summary{cursor:pointer;list-style:none;display:flex;align-items:center;gap:5px;font-size:15px;font-weight:700;color:var(--brown);padding:6px 9px;border-radius:5px;transition:background .13s,color .13s}
 .sitebar details.toc-drop > summary::-webkit-details-marker{display:none}
-.sitebar details.toc-drop > summary::after{content:"▾";font-size:10.5px;color:var(--taupe)}
+.sitebar details.toc-drop > summary::after{content:"▾";font-size:11px;color:var(--taupe)}
 .sitebar details.toc-drop[open] > summary::after{transform:rotate(180deg)}
 .sitebar details.toc-drop > summary:hover{background:var(--sand2);color:var(--deep)}
 .sitebar details.toc-drop > ul{position:absolute;top:calc(100% + 8px);left:0;z-index:30;list-style:none;margin:0;padding:8px 0;min-width:260px;max-width:360px;max-height:70vh;overflow-y:auto;background:var(--panel);border:1px solid var(--line);border-radius:8px;box-shadow:0 18px 40px -20px rgba(40,30,10,.4)}
 .sitebar details.toc-drop li{margin:0}
-.sitebar details.toc-drop li a{display:block;padding:8px 16px;font-size:15px;line-height:1.4;color:var(--ink2);text-decoration:none}
+.sitebar details.toc-drop li a{display:block;padding:8px 16px;font-size:16px;line-height:1.4;color:var(--ink2);text-decoration:none}
 .sitebar details.toc-drop li a:hover{background:var(--sand2);color:var(--gold-d)}
 .sitebar details.toc-drop li a em{font-style:italic}
 
@@ -54,14 +54,14 @@ a{color:var(--gold-d)}a:hover{color:var(--deep)}
    neighboring chapter's title. Lets a reader move to the next/previous
    chapter without scrolling down to the full chapter-nav card. */
 .sitebar .chapter-arrows{display:flex;gap:2px}
-.sitebar .chnav{display:flex;align-items:center;justify-content:center;width:28px;height:28px;border-radius:5px;font-size:20px;line-height:1;color:var(--brown);text-decoration:none;transition:background .13s,color .13s}
+.sitebar .chnav{display:flex;align-items:center;justify-content:center;width:28px;height:28px;border-radius:5px;font-size:21px;line-height:1;color:var(--brown);text-decoration:none;transition:background .13s,color .13s}
 .sitebar .chnav:hover{background:var(--sand2);color:var(--deep)}
 
 /* ---- shell ---- */
 .site-header,main,.chapter-nav,.site-footer{max-width:var(--shell);margin-left:auto;margin-right:auto;padding-left:30px;padding-right:30px}
 
 /* ---- contents links (header + footer) ---- */
-.contents-link{display:inline-block;font-size:13px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--brown);text-decoration:none}
+.contents-link{display:inline-block;font-size:14px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--brown);text-decoration:none}
 .contents-link:hover{color:var(--deep);text-decoration:underline;text-underline-offset:3px}
 .site-header{padding-top:26px}
 
@@ -69,9 +69,9 @@ a{color:var(--gold-d)}a:hover{color:var(--deep)}
 .chapter-nav{display:grid;grid-template-columns:1fr 1fr;gap:12px;align-items:stretch}
 .chapter-nav.top{margin-top:16px}
 .chapter-nav.bottom{margin-top:54px}
-.chapter-nav a{display:block;text-decoration:none;background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:12px 16px;font-size:16px;font-weight:700;line-height:1.35;color:var(--gold-d);transition:border-color .15s,background .15s,box-shadow .15s}
+.chapter-nav a{display:block;text-decoration:none;background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:12px 16px;font-size:16.5px;font-weight:700;line-height:1.35;color:var(--gold-d);transition:border-color .15s,background .15s,box-shadow .15s}
 .chapter-nav a:hover{border-color:var(--taupe);background:var(--sand2);color:var(--deep);box-shadow:0 14px 32px -26px rgba(60,40,10,.7)}
-.chapter-nav a::before{display:block;font-size:11.5px;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:var(--taupe);margin-bottom:4px}
+.chapter-nav a::before{display:block;font-size:12px;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:var(--taupe);margin-bottom:4px}
 .chapter-nav a.prev::before{content:"Previous"}
 .chapter-nav a.next::before{content:"Next"}
 .chapter-nav a.next{grid-column:2;text-align:right}
@@ -84,19 +84,19 @@ a{color:var(--gold-d)}a:hover{color:var(--deep)}
 /* ---- chapter title ---- */
 main{padding-top:4px}
 article{max-width:var(--shell);margin:0 auto}
-h1.chapter-title{max-width:var(--measure);margin:44px auto 0;font-size:40px;font-weight:700;line-height:1.14;letter-spacing:-.015em;padding-bottom:20px;border-bottom:2px solid var(--ink)}
+h1.chapter-title{max-width:var(--measure);margin:44px auto 0;font-size:42.5px;font-weight:700;line-height:1.14;letter-spacing:-.015em;padding-bottom:20px;border-bottom:2px solid var(--ink)}
 h1.chapter-title em{font-style:italic}
 
 /* ---- long-form prose: every block centred on the measure ---- */
 article>*{max-width:var(--measure);margin-left:auto;margin-right:auto}
-article{font-size:19px;line-height:1.7;color:var(--ink2)}
+article{font-size:20px;line-height:1.7;color:var(--ink2)}
 article p{margin:20px auto 0;text-wrap:pretty}
 article>hr:first-of-type{border:0;height:0;margin:0}
 article hr{border:0;height:1px;background:var(--line);margin:40px auto 0}
 article strong{color:var(--ink);font-weight:700}
 article em{font-style:italic}
-article h2{font-size:26.5px;font-weight:700;color:var(--ink);line-height:1.24;margin:48px auto 0;letter-spacing:-.008em;scroll-margin-top:70px}
-article h3{font-size:20.5px;font-weight:700;color:var(--ink);margin:34px auto 0;scroll-margin-top:70px}
+article h2{font-size:28px;font-weight:700;color:var(--ink);line-height:1.24;margin:48px auto 0;letter-spacing:-.008em;scroll-margin-top:70px}
+article h3{font-size:21.5px;font-weight:700;color:var(--ink);margin:34px auto 0;scroll-margin-top:70px}
 article h2+p,article h3+p{margin-top:12px}
 article h2 em,article h3 em{font-style:italic}
 article a{text-decoration:underline;text-underline-offset:2px;text-decoration-thickness:.06em}
@@ -105,11 +105,11 @@ article li{margin:7px 0 0;line-height:1.64}
 
 /* blockquotes + epigraph */
 article blockquote{margin:26px auto 0;padding:2px 0 2px 20px;border-left:3px solid var(--gold);color:var(--brown)}
-article blockquote p{margin:9px 0 0;font-size:18px}
+article blockquote p{margin:9px 0 0;font-size:19px}
 article blockquote p:first-child{margin-top:0}
 .epigraph{margin:30px auto 0;max-width:var(--measure)}
 .epigraph blockquote{border-left:0;padding:0;text-align:center;color:var(--brown)}
-.epigraph blockquote p{font-size:18px;line-height:1.72}
+.epigraph blockquote p{font-size:19px;line-height:1.72}
 
 /* endnote reference superscripts — clickable links */
 sup.endnote-ref{font-size:.6em;line-height:0;vertical-align:super;margin-left:.12em;white-space:nowrap}
@@ -119,26 +119,26 @@ sup.endnote-ref a:hover{background:var(--gold);border-color:var(--gold-d);color:
 /* figures — allowed wider than the measure, italic caption below */
 article figure{max-width:var(--wide);margin:34px auto 0}
 article figure img{display:block;max-width:100%;height:auto;margin:0 auto;background:var(--panel);border:1px solid var(--line);border-radius:4px}
-article figcaption{font-size:15px;font-style:italic;line-height:1.55;color:var(--brown);margin-top:10px;max-width:var(--measure);margin-left:auto;margin-right:auto}
+article figcaption{font-size:16px;font-style:italic;line-height:1.55;color:var(--brown);margin-top:10px;max-width:var(--measure);margin-left:auto;margin-right:auto}
 article figcaption em{font-style:normal}
 
 /* small inline icons must stay inline at line-height size */
 article p img,article li img,article td img,article th img,article strong img,article em img{display:inline;height:1em;width:auto;vertical-align:-.2em;margin:0 .08em;background:none;border:0;border-radius:0}
 
 /* data tables — may exceed the measure, scroll on narrow screens */
-article table{display:table;width:auto;max-width:var(--wide);margin:30px auto 0;border-collapse:collapse;font-size:16.5px;line-height:1.5;color:var(--ink2)}
-article table caption{caption-side:bottom;font-size:14.5px;font-style:italic;color:var(--brown);padding-top:9px;text-align:left}
+article table{display:table;width:auto;max-width:var(--wide);margin:30px auto 0;border-collapse:collapse;font-size:17px;line-height:1.5;color:var(--ink2)}
+article table caption{caption-side:bottom;font-size:15.5px;font-style:italic;color:var(--brown);padding-top:9px;text-align:left}
 article th,article td{border:1px solid var(--line);padding:9px 12px;text-align:left;vertical-align:top}
-article thead th{background:var(--sand);color:var(--ink);font-weight:700;font-size:14.5px;letter-spacing:.02em}
+article thead th{background:var(--sand);color:var(--ink);font-weight:700;font-size:15.5px;letter-spacing:.02em}
 article tbody tr:nth-child(even){background:var(--panel)}
 article code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.84em;background:var(--sand);border:1px solid var(--line);border-radius:3px;padding:1px 5px}
 article pre{background:var(--panel);border:1px solid var(--line);border-radius:5px;padding:16px 18px;overflow-x:auto;margin:22px auto 0;max-width:var(--wide)}
-article pre code{background:none;border:0;padding:0;font-size:14px;line-height:1.6}
+article pre code{background:none;border:0;padding:0;font-size:15px;line-height:1.6}
 
 /* ---- footer ---- */
 .site-footer{margin-top:56px;padding-top:22px;padding-bottom:66px;border-top:1px solid var(--line)}
-.build-info{font-size:13px;color:var(--taupe);margin-top:14px}
-.build-info code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12px}
+.build-info{font-size:14px;color:var(--taupe);margin-top:14px}
+.build-info code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:13px}
 
 @media(max-width:640px){
   /* The Hypothesis client docks a full-height icon rail (collapse arrow,
@@ -155,15 +155,15 @@ article pre code{background:none;border:0;padding:0;font-size:14px;line-height:1
   .site-header,main,.chapter-nav,.site-footer{padding-left:22px;padding-right:38px}
   .sitebar .in{padding:10px 38px 10px 22px;gap:7px}
   .sitebar .wm{display:none}
-  .sitebar details.toc-drop > summary{font-size:13px;padding:5px 7px}
+  .sitebar details.toc-drop > summary{font-size:14px;padding:5px 7px}
   .sitebar details.toc-drop > ul{min-width:0;width:max-content;max-width:calc(100vw - 82px)}
-  .sitebar .chnav{width:25px;height:25px;font-size:18px}
-  .sitebar .nav{gap:12px;font-size:13.5px}
-  h1.chapter-title{font-size:30.5px;margin-top:32px}
-  article{font-size:18px}
-  article h2{font-size:23px}
+  .sitebar .chnav{width:25px;height:25px;font-size:19px}
+  .sitebar .nav{gap:12px;font-size:14.5px}
+  h1.chapter-title{font-size:32.5px;margin-top:32px}
+  article{font-size:19px}
+  article h2{font-size:24.5px}
   .chapter-nav{grid-template-columns:1fr}
   .chapter-nav a.next,.chapter-nav a.prev{grid-column:1;text-align:left}
-  article table{font-size:15px}
+  article table{font-size:16px}
   article th,article td{padding:7px 9px}
 }
