@@ -26,6 +26,8 @@ The analytical discipline is **व्याकरणम् (*vyākaraṇam*)**: 
 
 And this decoding did not begin with Pāṇini.
 
+This chapter uses evidence from before and after Pāṇini. The Vedas and the pre-Pāṇinian analysts establish that Sanskrit and its analytical disciplines existed before the *Aṣṭādhyāyī*. Patañjali, writing afterward, explains how the continuum understood the relationship between that established architecture and grammar.
+
 The *vyākaraṇa* discipline extends across a long analytical lineage before and after Pāṇini's **अष्टाध्यायी (*Aṣṭādhyāyī*)**. Pāṇini cites earlier **वैयाकरणाः (*vaiyākaraṇāḥ*)**, and **शाकल्य (*Śākalya*)** provides a concrete example of their work: he had already separated the Rigvedic *saṃhitā* into constituent *padas* through the **पदपाठ (*padapāṭha*)**. The analytical architecture was operating before the *Aṣṭādhyāyī* documented it.[NOTE: shakalya-padapatha][NOTE: panini-cites-pre-paninian-vaiyakaranas]
 
 After Pāṇini came Kātyāyana's **वार्त्तिकानि (*Vārttikāni*)**, the supplementary and corrective observations on Pāṇini's rules, and Patañjali's **महाभाष्यम् (*Mahābhāṣyam*)**, the great commentary that engages both Pāṇini and Kātyāyana. Together, Pāṇini, Kātyāyana, and Patañjali form the **त्रिमुनि व्याकरणम् (*Trimuni Vyākaraṇam*)**, the commentarial unit through which the analytical lineage has described Sanskrit.
@@ -50,9 +52,9 @@ The pyramid's account condenses both into Pāṇini and calls the compression *c
 
 ## 5.2 The Opening Axiom
 
-The keystone text sits one layer above the *Aṣṭādhyāyī* itself, in the opening of Patañjali's *Mahābhāṣya*.
+Patañjali wrote after Pāṇini. His words therefore serve a different purpose from the pre-Pāṇinian evidence in §5.1. The earlier evidence establishes that the architecture existed before the *Aṣṭādhyāyī*. Patañjali explains what grammar acts upon and what role the continuum assigned to it.
 
-The first section of the *Mahābhāṣya* is the **पस्पशाह्निक (*Paspaśāhnika*)**, the opening discourse that establishes what kind of object *vyākaraṇam* studies. The preface itself lays the foundation for the entire discipline.
+He gives that explanation at the opening of the *Mahābhāṣya*, in the **पस्पशाह्निक (*Paspaśāhnika*)**.
 
 If the purpose of *grammar* in the English language is to correct and police *correct* usage, what is the purpose of *vyākaraṇam* in Sanskrit? [NOTE: prayojanani-paspashahnika] The *Paspaśāhnika* asks exactly the same question: **किं प्रयोजनं व्याकरणस्य (*kim prayojanam vyākaraṇasya*)** — what is the purpose of grammar? It gives five received purposes, the **पञ्च प्रयोजनानि (*pañca prayojanāni*)**:
 
@@ -66,7 +68,7 @@ All of these purposes are consistent with a self-correcting system that is desig
 
 Although *grammar* is an imprecise English rendering of *vyākaraṇam*, English has no better common substitute. After this correction, the book uses *grammar* as shorthand where the context is clear.
 
-**Pāṇini himself wrote no preface to the *Aṣṭādhyāyī*.**[NOTE: panini-no-preface] The text opens directly with sūtra 1.1.1 — *vṛddhir ādaic* (वृद्धिर् आदैच्) — and runs the roughly four thousand sūtras through to the end without any first-person statement of authorial intent. A text that imposes a new standard normally has to explain its authority. A documenter describing an existing system has no such burden. The document is its own purpose. Patañjali supplies the purpose one commentarial generation later, and that purpose presupposes an existing object.
+**Pāṇini himself wrote no preface to the *Aṣṭādhyāyī*.**[NOTE: panini-no-preface] The text begins directly with *vṛddhir ādaic* and continues through roughly four thousand sūtrāṇi without explaining what grammar is for. Patañjali supplies that explicit discussion afterward. His explanation therefore gives us the grammatical continuum’s account of the purpose served by Pāṇini’s documentation.
 
 Then Patañjali places the decisive Vārttika at the opening:
 
@@ -86,13 +88,11 @@ Bṛhaspati's **वाचमक्रत (*vācam akrata*)** (chapter 9) sits on
 
 > **Authority vs architecture.** In a codified language, correctness comes from an authority that declares a standard. In Sanskrit, correctness comes from an architecture that is already established. The *śāstra* does not manufacture the standard; it calibrates usage against the standard.
 >
-> **Codification vs decoding.** Codification moves from disorder to imposed order. Decoding moves from prior order to explicit specification. Pāṇini did not impose order on Sanskrit. He decoded the order that already existed within Sanskrit for thousands of years before him. The lineage around him also analyzed, explained, tested, and taught that order across generations.
+> **Codification vs decoding.** Codification imposes order upon something previously disordered. Decoding makes an existing order explicit. The Vedas and the pre-Pāṇinian analysts establish that Sanskrit’s architecture already existed. Patañjali later describes the word–meaning bond as siddha and assigns grammar the task of regulating usage against it. Pāṇini stands between those two bodies of evidence as the finest documenter of the architecture.
 >
 > **Institutional correction vs calibration.** A codified system corrects by appeal to institution, decree, grammar book, academy, or state. Sanskrit corrects by internal fit: sound, form, meaning, meter, recitation, derivation, and usage all converge on the valid form. Calibration places the standard inside the architecture and lets the architecture correct usage.
 
 Chapter 13 §13.5 shows how the two forms of correction become two forms of teaching. One student reaches correctness through preserved use, while another follows an explicit rule; both learn from the architecture rather than from an institutional decree.
-
-Modern linguistics begins entirely elsewhere, treating the relationship between word and meaning as conventional, contingent, and historically mutable. Because speech communities make the bond and later speech communities remake it, historical linguistics merely studies that remaking. In contrast, Patañjali begins from a total refusal of that premise: the bond does not drift, has not drifted, and will not drift, simply because the bond is already *siddha*.
 
 ## 5.3 The Choice: *Siddha* or *Kārya*
 
@@ -108,11 +108,11 @@ If the bond is *kārya*, grammar studies a moving target. Words are produced, me
 
 If the bond is *siddha*, grammar studies a structural object. Words and meanings are joined by an established relation. Rules do not summarize what speakers happen to do. They state what correctness is. Speakers who deviate have not created a new bond. They have slipped from a bond that already stood.
 
-These two models are not simply two theories of the same object; rather, they define fundamentally different objects. While modern historical linguistics studies *kārya* (language as ongoing production), Patañjalian grammar studies *siddha* (language as established structure). Therefore, to apply *kārya* methods to a *siddha* system is to inevitably study the wrong object using the wrong tools.
+Modern linguistics begins with the premise that languages evolve. It therefore treats the relationship between a word and its meaning as something that speakers continually alter through use. In Sanskrit's categories, modern linguistics studies ***kārya***: language that speakers continually produce and remake.
 
 ## 5.4 The Bond Remains Established
 
-Patañjali concludes that the bond is *siddha*.
+Patañjali concludes that for Sanskrit, the bond is *siddha*: an established architecture that speakers receive and use.
 
 The bond does not evolve or mutate. It is a structural constant. This does not mean a word can express only one sense. Sanskrit is comfortable with ranges of meaning: गो / गौः (go / gauḥ) can point to cow, earth, speech, ray, and more. The claim is not single-sense rigidity; the claim is that the range is established, recoverable, and anchored in action.
 
@@ -122,18 +122,14 @@ Patañjali reaches this conclusion through the Indian method of stating and exam
 
 The *vaiyākaraṇāḥ* do not merely record whatever speakers produce. They defend a system of established bonds against corruption. The *Aṣṭādhyāyī* is not a description of speaker habit. It is a specification of an engineered system. Deviations from the rules are not new standards. They are slips from the standard.
 
-The dogma's *codification* vocabulary fundamentally fails at this point because codification imagines drift first and order later. By contrast, Patañjali provides the exact opposite: an established bond first, followed by grammatical defense afterward. Therefore, there is no transition from disorder to order; there is only order, and subsequent slips from that order.
+## 5.5 The Evidence Before and After Pāṇini
 
-Patañjali's *Mahābhāṣya*, standing over Pāṇini's *Aṣṭādhyāyī*, called the bond *siddha*. The engineering conclusion follows: grammar calibrates usage against an established architecture.
+The Vedas and the analysts who preceded Pāṇini establish the chronology. The Vedas already contain Sanskrit in operation. Śākalya had already separated Vedic sentences into their constituent *padas*. Yāska names earlier analysts, and Pāṇini himself cites *vaiyākaraṇāḥ* who came before him. Sanskrit and the disciplines used to analyze it therefore existed before the *Aṣṭādhyāyī*.
 
-## 5.5 Sanskrit Begins from Permanence
+Patañjali wrote after Pāṇini, so his explanation serves another purpose. He tells us how the grammatical continuum understood the architecture that it had inherited. He does not describe a language that changed freely until Pāṇini fixed it. He does not say that Pāṇini created the bond between words and meanings, stabilized that bond, or imposed it upon speakers.
 
-Patañjali's argument rests on two claims.
+Patañjali begins with the bond already established. People use words because they intend to express meanings in the world. Grammar enters only after the bond and its usage already exist. Its role is to regulate correct usage. Grammar does not bring the language or the bond into existence.
 
-First: by treating the bond between a word and its meaning as fixed, Patañjali automatically rejects the premise of change and drift. Modern historical linguistics assumes languages mutate, drift, and renew, and the linguist tracks the trajectory. Patañjali's framework refuses that assumption at the metaphysical level: grammar exists to defend the bond.
+The evidence before Pāṇini and the explanation after him meet at the *Aṣṭādhyāyī*. The earlier evidence demonstrates that an established architecture was already operating. Patañjali explains that grammar regulates such an architecture rather than creating it. Pāṇini therefore did not transform a drifting language into a fixed language. He inherited Sanskrit, analyzed its operations, and produced the finest documentation of its grammar.
 
-The second: Sanskrit begins from permanence, a premise that accommodates error without treating variation as the bond's behavior. Patañjali fully recognized variation, misuse, and corruption, but maintained that the bond remains established while speakers slip from it. The *vaiyākaraṇaḥ* keeps that bond visible against the linguistic slips.
-
-The engineered Sanskrit thesis is therefore not alien to the Sanskrit lineage. Engineering language restates Sanskrit's own grammatical self-description. *Engineered first* states the architecture's priority. *Siddha* captures the architecture's metaphysical property. There is no codification event because there is no transition from drift to fixity. The bond was *siddha* before Pāṇini sat down to document it; it remained *siddha* after he finished. Pāṇini documented a *siddha* system. Patañjali says so at the opening of the *Mahābhāṣya*.
-
-Without *siddha*, there is nothing to defend. Chapter 6 identifies the exact threat this defense was built against.
+The engineered Sanskrit thesis follows the language's own analytical account. *Engineered first* identifies the architecture that had to exist before anyone could analyze it. *Siddha* describes the established bond that speakers inherit and grammar protects. Chapter 6 identifies the threats against which that protection became necessary.

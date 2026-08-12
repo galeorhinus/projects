@@ -3755,3 +3755,109 @@ The *dṛś–theory* derivation depended on a sound path that had not yet been 
 ```text
 The dṛś case may return after the Sanskrit-side architecture and the proposed Greek sound path have been investigated separately.
 ```
+
+---
+
+## LAF-R-079 — Modern linguistics vs. Patañjali's refusal (Ch5 §5.2 area)
+
+**Source:** [Chapter 5](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_05_siddha.md)
+**Audit block:** none — found during commit review 2026-08-12, not tracked by any C05 item
+**Change type:** CUT
+**Status:** Found already cut in the working tree
+**Applied:** YES (already on disk before this ledger entry was written)
+**Destination if moved:** Not relocated
+
+### Material Removed
+
+> Modern linguistics begins entirely elsewhere, treating the relationship between word and meaning as conventional, contingent, and historically mutable. Because speech communities make the bond and later speech communities remake it, historical linguistics merely studies that remaking. In contrast, Patañjali begins from a total refusal of that premise: the bond does not drift, has not drifted, and will not drift, simply because the bond is already *siddha*.
+
+### Replacement or Result
+
+No direct replacement at this location. A related but differently-worded contrast between modern linguistics and Patañjali's *kārya*/*siddha* distinction appears later in the chapter (see LAF-R-081, the C05-004 area).
+
+### Reason Proposed
+
+Not recorded — the cut predates this ledger entry.
+
+### What May Have Been Lost
+
+The specific claim that historical linguistics "merely studies" the remaking of the bond, and the three-part refusal formula ("does not drift, has not drifted, and will not drift").
+
+---
+
+## LAF-R-080 — "The dogma's codification vocabulary fundamentally fails" (Ch5, old §5.4)
+
+**Source:** [Chapter 5](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_05_siddha.md)
+**Audit block:** none — found during commit review 2026-08-12, not tracked by any C05 item
+**Change type:** CUT
+**Status:** Found already cut in the working tree
+**Applied:** YES (already on disk before this ledger entry was written)
+**Destination if moved:** Not relocated
+
+### Material Removed
+
+> The dogma's *codification* vocabulary fundamentally fails at this point because codification imagines drift first and order later. By contrast, Patañjali provides the exact opposite: an established bond first, followed by grammatical defense afterward. Therefore, there is no transition from disorder to order; there is only order, and subsequent slips from that order.
+>
+> Patañjali's *Mahābhāṣya*, standing over Pāṇini's *Aṣṭādhyāyī*, called the bond *siddha*. The engineering conclusion follows: grammar calibrates usage against an established architecture.
+
+### Replacement or Result
+
+No direct replacement — old §5.4 ("Sanskrit Begins from Permanence") was replaced wholesale by a new §5.5 ("The Evidence Before and After Pāṇini") covering related but differently structured ground (see LAF-R-081).
+
+### Reason Proposed
+
+Not recorded — the cut predates this ledger entry.
+
+### What May Have Been Lost
+
+The explicit "codification imagines drift first, order later" contrast, and the closing hammer naming the *Mahābhāṣya* as standing over the *Aṣṭādhyāyī* and calling the bond *siddha*.
+
+---
+
+## LAF-R-081 — "Sanskrit Begins from Permanence" (old §5.5, full section)
+
+**Source:** [Chapter 5](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_05_siddha.md)
+**Audit block:** none — found during commit review 2026-08-12, not tracked by any C05 item
+**Change type:** REPLACE (whole section)
+**Status:** Found already replaced in the working tree
+**Applied:** YES (already on disk before this ledger entry was written)
+**Destination if moved:** Not relocated; superseded by new content covering related ground
+
+### Material Removed
+
+> Patañjali's argument rests on two claims.
+>
+> First: by treating the bond between a word and its meaning as fixed, Patañjali automatically rejects the premise of change and drift. Modern historical linguistics assumes languages mutate, drift, and renew, and the linguist tracks the trajectory. Patañjali's framework refuses that assumption at the metaphysical level: grammar exists to defend the bond.
+>
+> The second: Sanskrit begins from permanence, a premise that accommodates error without treating variation as the bond's behavior. Patañjali fully recognized variation, misuse, and corruption, but maintained that the bond remains established while speakers slip from it. The *vaiyākaraṇaḥ* keeps that bond visible against the linguistic slips.
+>
+> The engineered Sanskrit thesis is therefore not alien to the Sanskrit lineage. Engineering language restates Sanskrit's own grammatical self-description. *Engineered first* states the architecture's priority. *Siddha* captures the architecture's metaphysical property. There is no codification event because there is no transition from drift to fixity. The bond was *siddha* before Pāṇini sat down to document it; it remained *siddha* after he finished. Pāṇini documented a *siddha* system. Patañjali says so at the opening of the *Mahābhāṣya*.
+>
+> Without *siddha*, there is nothing to defend. Chapter 6 identifies the exact threat this defense was built against.
+
+### Replacement or Result
+
+Replaced by a new section, "## 5.5 The Evidence Before and After Pāṇini," which reorganizes the chapter around a before/after-Pāṇini evidentiary structure (Vedic and pre-Pāṇinian evidence establishing prior existence; Patañjali explaining grammar's regulatory role afterward) rather than the two-claims "Sanskrit begins from permanence" structure.
+
+### Reason Proposed
+
+Not recorded — the replacement predates this ledger entry.
+
+### What May Have Been Lost
+
+The "two claims" framing itself, the explicit line "Sanskrit begins from permanence," and the closing hammer "Without *siddha*, there is nothing to defend."
+
+### Author Decision
+
+- [ ] RESTORE IN PLACE
+- [ ] RELOCATE
+- [ ] INCORPORATE PART
+- [ ] DEVELOP LATER
+- [ ] KEEP CUT
+- [ ] REVISE AGAIN
+
+### Author Comments
+
+```text
+Flagged during commit review 2026-08-12 — recommend author confirm the new §5.5 is the intended final replacement.
+```
