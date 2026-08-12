@@ -1,13 +1,6 @@
-<!--
-WhatsApp message for friends receiving the pre-publication manuscript.
-Replace [link] before sending. Copy only the text below the divider.
--->
+My first book in the _Second Shanti_ series is ready to be read by a small circle of friends before I send it out more widely.
 
----
-
-I've finally reached the point where _Atomic Sanskrit_ is ready to be read by a small circle of friends before I send it out more widely.
-
-The book reconstructs Sanskrit's radiant, calibrant, and fractal architecture and places it inside a conflict between two architectures of order. It also challenges much of what Western academia has taught us about Sanskrit, Panini, PIE, and the supposed Aryan migration into India.
+The book is called _Atomic Sanskrit_ and it reconstructs Sanskrit's radiant, calibrant, and fractal architecture and places it inside a conflict between two architectures of order. It also challenges much of what Western academia has taught us about Sanskrit, Panini, PIE, and the supposed Aryan migration into India.
 
 This is a long and unconventional book, and I know that reading it is a substantial request. I'm sending it to you because I trust your judgment. I'm especially interested in knowing:
 
@@ -18,12 +11,12 @@ This is a long and unconventional book, and I know that reading it is a substant
 - where the book becomes repetitive; and
 - where you strongly agree or disagree.
 
-Please respond in whatever form is easiest. You can leave comments in the PDF, send notes or voice messages as you read, or simply speak with me after a few chapters. There is no need to finish the entire book before saying something. A candid response to part of the manuscript will help me more than a polite verdict on the whole.
+You are welcome to send me comments via any mechanism that is convenient. The preferred method is using anannotation tool is called hypothes.is and you will need to create an account with them separately. The instructions are in the link below.
 
 I would also like to know which ideas stay with you after you stop reading. Those moments will tell me whether the book's central argument is reaching the reader.
 
 Since this is the pre-publication manuscript, please do not circulate it without checking with me.
 
-Here is the book: [link]
-
 Thank you for giving it your time and your honest attention.
+
+
