@@ -357,15 +357,24 @@ def render_index(entries: list[dict], book_title: str, subtitle: str,
       Part I … Part VII         — under each `part` heading
       Epilogue                  — `end` entries from zone 2 (as_2_*)
       Appendices                — `end` entries from zone 3 (as_3_*)
+      Back Matter               — `end` entries from zone 0 (as_0_*, e.g.
+                                   Acknowledgments, A Note on the Notes)
       Notes                     — as_endnotes.md
     """
 
     groups: list[dict] = []
     current = {"title": None, "subtitle": None, "entries": []}
     end_groups = {
-        "epilogue": {"title": "Epilogue", "subtitle": None, "entries": []},
-        "appendix": {"title": "Appendices", "subtitle": None, "entries": []},
-        "notes":    {"title": "Notes", "subtitle": None, "entries": []},
+        "epilogue":   {"title": "Epilogue", "subtitle": None, "entries": []},
+        "appendix":   {"title": "Appendices", "subtitle": None, "entries": []},
+        # Zone-0 end-matter (Acknowledgments, A Note on the Notes) — as_book.yaml
+        # already places these after the appendices in ASSEMBLY order, but their
+        # as_0_ filenames don't match the as_2_/as_3_ prefix checks below, so
+        # without their own group they fell through to the "append to current"
+        # fallback and got attached to whichever Part was still active (Part
+        # VII) instead of appearing after the Appendices. Fixed 2026-08-12.
+        "backmatter": {"title": "Back Matter", "subtitle": None, "entries": []},
+        "notes":      {"title": "Notes", "subtitle": None, "entries": []},
     }
 
     for entry in ASSEMBLY:
@@ -395,6 +404,8 @@ def render_index(entries: list[dict], book_title: str, subtitle: str,
                 end_groups["epilogue"]["entries"].append(entry)
             elif fname.startswith("as_3_"):
                 end_groups["appendix"]["entries"].append(entry)
+            elif fname.startswith("as_0_"):
+                end_groups["backmatter"]["entries"].append(entry)
             else:
                 # Fallback — append to current group rather than drop.
                 current["entries"].append(entry)
@@ -404,7 +415,7 @@ def render_index(entries: list[dict], book_title: str, subtitle: str,
         groups.append(current)
 
     # Append the end-matter groups (in fixed order) after the parts.
-    for key in ("epilogue", "appendix", "notes"):
+    for key in ("epilogue", "appendix", "backmatter", "notes"):
         if end_groups[key]["entries"]:
             groups.append(end_groups[key])
 
