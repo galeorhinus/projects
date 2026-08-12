@@ -10,6 +10,17 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Serif+Devanagari:wght@400;600&display=swap" rel="stylesheet">
 <style>
+/* ==========================================================
+   landing.html — Atomic Sanskrit · secondshanti.org/as
+   Restructured 2026-08-12 from a single-screen two-column hero into a
+   vertical, sectioned hub page: masthead -> jacket copy -> start
+   reading -> (future) resources. The point of the "section + card
+   grid" pattern below is that a later Downloads/Resources section
+   (expanded-endnote PDFs, Python code, icon packs) is just another
+   instance of the same pattern, not a redesign. Nothing for that
+   exists yet by request — the page is shaped to make adding it easy
+   later, not populated with placeholders now.
+   ========================================================== */
 :root{
   --field:#f4f4f3;--panel:#fbf9f4;--sand:#ece4d3;--sand2:#f4efe4;
   --taupe:#aa9a7a;--brown:#766652;--deep:#4a3f30;
@@ -17,77 +28,104 @@
   --ink:#2b2b2d;--ink2:#4a4136;--line:#d8cfbd;--line2:#c3b9a3;
   --lat:'Gentium Book Plus',Charter,'Charis SIL',Georgia,serif;
   --dev:'Noto Serif Devanagari','Adobe Devanagari',serif;
+  --measure:700px;   /* jacket-copy reading column */
+  --shell:920px;     /* page / route-grid width */
 }
 *{box-sizing:border-box}
 html,body{margin:0;min-height:100%;background:var(--field);color:var(--ink);font-family:var(--lat);-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
 a{color:var(--gold-d)}a:hover{color:var(--deep)}
+.page{max-width:var(--shell);margin:0 auto;padding:0 30px 70px}
 
-.page{max-width:1080px;margin:0 auto;padding:0 30px 60px;min-height:100vh;display:flex;flex-direction:column}
-.split{flex:1;display:grid;grid-template-columns:1fr 1fr;gap:56px;align-items:center;padding:52px 0 40px}
+/* ---- eyebrow label, reused above every section ---- */
+.eyebrow{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-d);font-weight:700;margin:0 0 14px;text-align:center}
 
-/* left: identity + claim */
-.lockup{display:flex;align-items:center;gap:20px}
+/* ---- masthead ---- */
+.masthead{padding:64px 0 0;text-align:center}
+.lockup{display:inline-flex;align-items:center;gap:18px;text-align:left}
 .lockup svg{flex:none}
-h1{font-size:38px;font-weight:700;letter-spacing:-.014em;line-height:1.08;margin:0}
-.lockup .st{font-size:14.5px;color:var(--brown);line-height:1.45;margin:7px 0 0}
-.byline{font-size:15.5px;color:var(--ink2);line-height:1.6;margin:24px 0 0;padding-top:22px;border-top:2px solid var(--ink)}
+h1{font-size:42px;font-weight:700;letter-spacing:-.015em;line-height:1.06;margin:0}
+.lockup .st{font-size:15.5px;color:var(--brown);line-height:1.45;margin:8px 0 0;max-width:34ch}
+.byline{font-size:16px;color:var(--ink2);line-height:1.6;margin:26px auto 0;padding-top:20px;border-top:1px solid var(--line);max-width:26ch;text-align:center}
 .byline em{font-style:italic}
-.claim{font-size:16.5px;line-height:1.66;color:var(--ink2);margin:22px 0 0;padding-left:20px;border-left:3px solid var(--gold)}
 
-/* right: routes */
-.routes{display:grid;gap:14px}
-.routes .eyebrow{font-size:11.5px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-d);font-weight:700;margin:0 0 2px}
-.route{display:block;background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:20px 22px;text-decoration:none;color:inherit;transition:border-color .15s,box-shadow .15s,background .15s}
+/* ---- jacket copy: framed like a jacket flap ---- */
+.jacket-section{margin-top:56px}
+.jacket{max-width:var(--measure);margin:0 auto;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:40px 44px;box-shadow:0 22px 50px -32px rgba(60,40,10,.35)}
+.jacket p{font-size:18px;line-height:1.72;color:var(--ink2);margin:18px 0 0}
+.jacket p:first-child{margin-top:0}
+.jacket em{font-style:italic}
+.jacket strong{color:var(--ink);font-weight:700}
+.jacket p:last-child{color:var(--ink);font-weight:600}
+
+/* ---- start reading: card grid ---- */
+.routes-section{margin-top:60px}
+.routes{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.route{display:block;background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:22px 22px 24px;text-decoration:none;color:inherit;transition:border-color .15s,box-shadow .15s,background .15s}
 .route:hover{border-color:var(--taupe);background:var(--sand2);box-shadow:0 14px 32px -26px rgba(60,40,10,.7)}
-.route .cta{font-size:19px;font-weight:700;color:var(--gold-d);display:block;line-height:1.25}
+.route .cta{font-size:18.5px;font-weight:700;color:var(--gold-d);display:block;line-height:1.25}
 .route:hover .cta{color:var(--deep)}
-.route .description{display:block;font-size:14.5px;line-height:1.58;color:var(--ink2);margin-top:6px}
+.route .description{display:block;font-size:14.5px;line-height:1.58;color:var(--ink2);margin-top:8px}
 .route .description em{font-style:italic}
 
-footer{padding-top:20px;border-top:1px solid var(--line);font-size:14px;color:var(--brown);display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
+/* ---- footer ---- */
+footer{margin-top:64px;padding-top:22px;border-top:1px solid var(--line);font-size:14px;color:var(--brown);display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
 footer p{margin:0;line-height:1.6}
 footer a{text-decoration:none;font-weight:700}
 footer a:hover{text-decoration:underline}
 
-@media(max-width:840px){
-  .split{grid-template-columns:1fr;gap:0;align-items:start;padding:44px 0 34px}
-  .routes{margin-top:38px}
-  .routes .eyebrow{display:none}
+@media(max-width:760px){
+  .routes{grid-template-columns:1fr}
 }
 @media(max-width:560px){
-  h1{font-size:31px}
-  .lockup{gap:15px}
+  .masthead{padding-top:48px}
+  .lockup{gap:14px}
+  h1{font-size:33px}
+  .jacket{padding:30px 24px}
+  .jacket p{font-size:17px}
   footer{flex-direction:column;gap:8px}
 }
 </style>
 </head>
 <body>
 <div class="page">
-  <div class="split">
-    <div class="intro">
-      <div class="lockup">
-        <svg width="58" height="55" aria-hidden="true" viewBox="4 8 88 84">
-          <path fill="#e6c98f" d="M53.5,50.8L42.5,31.9H20.7L9.8,50.8l10.9,18.9h21.9L53.5,50.8z"/>
-          <path fill="#cf8a2e" d="M86.3,31.9L75.3,13H53.5L42.5,31.9l10.9,18.9h21.9L86.3,31.9z"/>
-          <path fill="none" stroke="#766652" stroke-width="3.4" stroke-linejoin="round" d="M53.5,50.8L42.5,31.9H20.7L9.8,50.8l10.9,18.9h21.9L53.5,50.8z"/>
-          <path fill="none" stroke="#766652" stroke-width="3.4" stroke-linejoin="round" d="M86.3,31.9L75.3,13H53.5L42.5,31.9l10.9,18.9h21.9L86.3,31.9z"/>
-          <g fill="none" stroke="#aa9a7a" stroke-width="2.5" stroke-linecap="round">
-            <line x1="14.1" y1="87.4" x2="82.1" y2="87.4"/><line x1="14.1" y1="87.4" x2="14.1" y2="79.5"/>
-            <line x1="82.1" y1="87.4" x2="82.1" y2="79.5"/><line x1="48" y1="87.4" x2="48.1" y2="79.5"/>
-            <line x1="30.8" y1="87.4" x2="30.8" y2="83.4"/><line x1="67.9" y1="87.4" x2="67.9" y2="83.4"/>
-          </g>
-        </svg>
-        <div class="tt">
-          <h1>Atomic Sanskrit</h1>
-          <p class="st">The Radiant, Calibrant, and Fractal Architecture of Sanātan</p>
-        </div>
-      </div>
-      <p class="byline">Volume 1 of <em>Second Shanti</em>, by Parag Tope.</p>
-      <p class="claim">Sanskrit presents a mystery that no history of natural language can explain. Its smallest sounds, its grammatical architecture, its preservation systems, and the civilization bonded to it repeat the same design at different scales. <em>Atomic Sanskrit</em>, the first volume of the <em>Second Shanti</em> series, begins uncovering this fractal architecture and what it was <strong>engineered</strong> to preserve.</p>
-    </div>
 
-    <div class="routes cta-list">
-      <p class="eyebrow">Start reading</p>
+  <header class="masthead">
+    <div class="lockup">
+      <svg width="54" height="51" aria-hidden="true" viewBox="4 8 88 84">
+        <path fill="#e6c98f" d="M53.5,50.8L42.5,31.9H20.7L9.8,50.8l10.9,18.9h21.9L53.5,50.8z"/>
+        <path fill="#cf8a2e" d="M86.3,31.9L75.3,13H53.5L42.5,31.9l10.9,18.9h21.9L86.3,31.9z"/>
+        <path fill="none" stroke="#766652" stroke-width="3.4" stroke-linejoin="round" d="M53.5,50.8L42.5,31.9H20.7L9.8,50.8l10.9,18.9h21.9L53.5,50.8z"/>
+        <path fill="none" stroke="#766652" stroke-width="3.4" stroke-linejoin="round" d="M86.3,31.9L75.3,13H53.5L42.5,31.9l10.9,18.9h21.9L86.3,31.9z"/>
+        <g fill="none" stroke="#aa9a7a" stroke-width="2.5" stroke-linecap="round">
+          <line x1="14.1" y1="87.4" x2="82.1" y2="87.4"/><line x1="14.1" y1="87.4" x2="14.1" y2="79.5"/>
+          <line x1="82.1" y1="87.4" x2="82.1" y2="79.5"/><line x1="48" y1="87.4" x2="48.1" y2="79.5"/>
+          <line x1="30.8" y1="87.4" x2="30.8" y2="83.4"/><line x1="67.9" y1="87.4" x2="67.9" y2="83.4"/>
+        </g>
+      </svg>
+      <div class="tt">
+        <h1>Atomic Sanskrit</h1>
+        <p class="st">The Radiant, Calibrant, and Fractal Architecture of Sanātan</p>
+      </div>
+    </div>
+    <p class="byline">Volume 1 of <em>Second Shanti</em>, by Parag Tope.</p>
+  </header>
+
+  <section class="jacket-section">
+    <p class="eyebrow">About the book</p>
+    <div class="jacket">
+      <p>Sanskrit presents a mystery that no history of natural language can explain. Its architecture begins in the human mouth, where sounds occupy precise anatomical coordinates. Those sounds combine into semantic atoms, and those atoms generate words for poetry, mathematics, astronomy, philosophy, manufacturing, trade, and a changing world. The grammar remains stable while each generation creates the expressions it needs.</p>
+      <p>The asuric pyramid concealed this architecture through false categorization. It recast sonomers as letters, <em>dhātavaḥ</em> as roots, the two domains as historical periods, Pāṇini as a codifier, and Sanskrit as a daughter of Proto-Indo-European.</p>
+      <p><em>Atomic Sanskrit</em> reconstructs what those false categories concealed. It follows the engineering from sound into sonomers, from sonomers into semantic atoms, and from those atoms into words and sentences. At every scale, the smaller constituents remain visible inside what they create. The same architectural discipline extends into exact recitation and distributed civilizational memory.</p>
+      <p>One Sanskrit architecture operates through two complementary domains. The <em>vaidika</em> domain preserves received content exactly: every sound, word, pitch, meter, and arrangement remains unchanged. The <em>laukika</em> domain allows people to compose new expression and apply the language to circumstances that no earlier composition could have anticipated.</p>
+      <p>The Vedas encode several architectures of <em>Sanātan</em>, and Sanskrit is one of them. Their breadth preserves the language's sounds, forms, grammatical possibilities, and compositional range. Their exact transmission keeps that architecture available as an invariant calibrant. Pāṇini inherited this language and documented its grammar with unmatched precision; he did not create or codify it.</p>
+      <p>Sanskrit's radiance traveled beyond India through small numbers of influential carriers. They carried words, structures, knowledge, and methods into other civilizations. The receiving languages reshaped what reached them and preserved partial reflections. European philology later gathered those fragments, constructed PIE from them, and placed that imaginary ancestor above Sanskrit.</p>
+      <p>The first <em>Second Shanti</em> volume restores the complete architecture and the calibrant order it demonstrates: durable order that no apex owns.</p>
+    </div>
+  </section>
+
+  <section class="routes-section">
+    <p class="eyebrow">Start reading</p>
+    <div class="routes">
       <a class="route" href="/as/essays/">
         <span class="cta">Read the essays &rarr;</span>
         <span class="description">Short pieces on the engineering Sanskrit claim, freely available.</span>
@@ -101,7 +139,7 @@ footer a:hover{text-decoration:underline}
         <span class="description">Full advance-reader access to the <em>Atomic Sanskrit</em> manuscript. By invitation; same Google sign-in as the advance-reader essays.</span>
       </a>
     </div>
-  </div>
+  </section>
 
   <footer>
     <p>By Parag Tope.</p>
