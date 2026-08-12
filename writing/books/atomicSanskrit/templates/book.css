@@ -89,7 +89,7 @@ h1.chapter-title em{font-style:italic}
 
 /* ---- long-form prose: every block centred on the measure ---- */
 article>*{max-width:var(--measure);margin-left:auto;margin-right:auto}
-article{font-size:18px;line-height:1.7;color:var(--ink2)}
+article{font-size:19px;line-height:1.7;color:var(--ink2)}
 article p{margin:20px auto 0;text-wrap:pretty}
 article>hr:first-of-type{border:0;height:0;margin:0}
 article hr{border:0;height:1px;background:var(--line);margin:40px auto 0}
@@ -160,7 +160,7 @@ article pre code{background:none;border:0;padding:0;font-size:13.5px;line-height
   .sitebar .chnav{width:25px;height:25px;font-size:17px}
   .sitebar .nav{gap:12px;font-size:13px}
   h1.chapter-title{font-size:29px;margin-top:32px}
-  article{font-size:17px}
+  article{font-size:18px}
   article h2{font-size:22px}
   .chapter-nav{grid-template-columns:1fr}
   .chapter-nav a.next,.chapter-nav a.prev{grid-column:1;text-align:left}
