@@ -62,6 +62,16 @@ TEMPLATE_ESSAY = BOOK_DIR / "templates" / "html_essay.html"
 TEMPLATE_LANDING = BOOK_DIR / "templates" / "landing.html"
 TEMPLATE_404 = BOOK_DIR / "templates" / "error_404.html"
 
+# Single source of truth for the landing page's "About the book" copy —
+# same file the author edits for outreach use. render_landing() below
+# converts it to HTML the same way a chapter's markdown becomes a page,
+# so a jacket-copy edit + `python3 build_html.py` + deploy is the whole
+# pipeline, with no separate hardcoded copy to keep in sync.
+JACKET_COPY_SRC = (
+    BOOK_DIR / "working" / "50_projects" / "public_facing" / "outreach"
+    / "atomic_sanskrit_jacket_copy.md"
+)
+
 BOOK_CSS_SRC = BOOK_DIR / "templates" / "book.css"
 ESSAYS_CSS_SRC = BOOK_DIR / "templates" / "essays.css"
 
@@ -746,10 +756,25 @@ def render_essay_shelf(out_dir: Path, shelf_title: str, intro_md: str,
     print(f"  rendered  /{rel.parent}/  (shelf: {shelf_title})")
 
 
+def render_jacket_copy() -> str:
+    """Convert JACKET_COPY_SRC's markdown body to the <p> markup the
+    landing page's .jacket div expects. Drops the leading `# ...` title
+    line and blank lines; each remaining paragraph gets *italic*/**bold**
+    converted via _md_inline_to_html (the same lightweight inline pass
+    used elsewhere for metadata strings, not a full pandoc run — the
+    source file uses only italics, so this is sufficient)."""
+    raw = JACKET_COPY_SRC.read_text(encoding="utf-8")
+    paragraphs = [
+        line.strip() for line in raw.splitlines()
+        if line.strip() and not line.lstrip().startswith("#")
+    ]
+    return "\n".join(f"      <p>{_md_inline_to_html(p)}</p>" for p in paragraphs)
+
+
 def render_landing(build_meta: dict[str, str]) -> None:
     """Write the public landing page at build/html/index.html by reading
-    the static templates/landing.html and substituting the build-info
-    placeholder."""
+    the static templates/landing.html and substituting the build-info and
+    jacket-copy placeholders."""
     text = TEMPLATE_LANDING.read_text()
     build_html = (
         f'  <div class="build-info">\n'
@@ -759,6 +784,7 @@ def render_landing(build_meta: dict[str, str]) -> None:
         f'  </div>'
     )
     text = text.replace("<!--BUILD_INFO-->", build_html)
+    text = text.replace("<!--JACKET_COPY-->", render_jacket_copy())
     (HTML_OUT / "index.html").write_text(text)
     print("  rendered  /  (landing page)")
 
