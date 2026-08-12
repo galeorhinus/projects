@@ -1,6 +1,6 @@
 ---
 title: "Pre-Publication Thesis Summary"
-description: "The book's central argument in eight theses. A pre-publication version — argument preserved, book vocabulary held back."
+description: "The book's central argument in nine theses. A pre-publication version — argument preserved, book vocabulary reserved."
 slug: thesis-summary
 ---
 
@@ -8,15 +8,17 @@ slug: thesis-summary
 
 ---
 
+The reconstruction follows four connected parts of Sanskrit's architecture. **Engineered material** begins with anatomical sound and follows stable constituents into words and sentences. **Engineered scope** explains how the Vedic and worldly domains serve different purposes within one language. **Engineered continuity** places the Vedas inside Sanskrit's preservation and calibration system. **Engineered radiance** follows the language's influence beyond India without converting that influence into a story of mass migration.
+
 ## Core Theses
 
-1. **Sanskrit was engineered.** Its structure is ordered, stable, and endlessly productive — the signature of engineering, not of drift.
+1. **Sanskrit was engineered.** Its structure is ordered, stable, and generative across thousands of years — the signature of engineering, not of drift.
 
-2. **The Vedas preserve that engineering.** They are the primary acoustic corpus that holds the language's architecture.
+2. **The Vedas preserve that engineering.** They are the primary acoustic corpus that keeps the language's architecture available.
 
 3. **Pāṇini did not codify Sanskrit.** He decoded and documented an already-operating system. His achievement is real; the category assigned to it is wrong.
 
-4. **Western academia operates as a pyramid when scholarship becomes custody.** The target is not every scholar inside it, but an institutional shape: credential gates, citation loops, and reference works that turn misclassification into settled knowledge. The book gives this pyramid a more precise name.
+4. **Western academia operates as a pyramid when scholarship becomes custody.** The target is the institutional shape: credential gates, citation loops, and reference publications that turn misclassification into settled knowledge. The book gives this pyramid a more precise name.
 
 5. **The pyramid misclassifies Sanskrit.** It makes Sanskrit appear first as a naturally drifting language and then as a late grammatical norm. Both moves hide the continuous architecture.
 
@@ -46,7 +48,7 @@ slug: thesis-summary
 
 5. **Grammar came after the language it analyzed.** Patañjali's opening axiom places the bond between word and meaning before grammatical regulation. The rule-system does not manufacture the bond it regulates.
 
-6. **Pāṇini's grammar is evidence, not origin.** The *Aṣṭādhyāyī* is one of the finest documents of Sanskrit's architecture, but the architecture it documents was already operating.
+6. **Pāṇini's documentation is evidence, not origin.** The *Aṣṭādhyāyī* is one of the finest documents of Sanskrit's architecture, but the architecture it describes was already operating.
 
 ### Sound And Writing
 
@@ -62,7 +64,7 @@ slug: thesis-summary
 
 11. **Sanskrit builds words from smaller stable units without losing structure.** Sounds form constituents; constituents form words; words form sentences. The lower levels remain traceable inside the higher ones.
 
-12. **The *Dhātupāṭha* is an operating inventory.** It holds semantic units that enter classes, accept additions, and generate usable language.
+12. **The *Dhātupāṭha* is an operating inventory.** It records semantic units that enter classes, accept additions, and generate usable language.
 
 13. **"Root," "stem," "letter," and "word" smuggle the wrong categories into Sanskrit's word-building.** The book uses new terminology in their place.
 
@@ -72,7 +74,7 @@ slug: thesis-summary
 
 15. **Writing alone cannot explain Sanskrit's preservation.** Stone does not scale; paper decays; archives can be seized; offices can gate access. Sanskrit required a distributed preservation architecture.
 
-16. **The "oral tradition" label flattens a precise sound-preservation system into storytelling.** The book supplies vocabulary for the preservation modes English does not distinguish.
+16. **The "oral tradition" label flattens a precise sound-preservation system into storytelling.** The book introduces terms for the preservation modes English does not distinguish.
 
 17. **Vedic recitation is the empirical proof, and it still runs.** The recitation systems preserve sound through layered redundancy; they remain audible in lineages today.
 
@@ -84,7 +86,7 @@ slug: thesis-summary
 
 20. **The racial Arya thesis made Sanskrit external to India.** Changing the label from invasion to migration does not fix the deeper problem: movement is not authorship.
 
-21. **"Invasion" and "migration" are two answers to the wrong question.** The book supplies sharper vocabulary for the racial thesis and the residue it left in linguistics.
+21. **"Invasion" and "migration" preserve the same false premise.** The book introduces sharper terms for the racial thesis and the residue it left in linguistics.
 
 22. **"Indo-Aryan" is not a neutral label.** It preserves a racial-era category inside modern linguistic language.
 
@@ -92,15 +94,15 @@ slug: thesis-summary
 
 24. **Similarity does not automatically mean descent.** Shared forms can arise from contact, prestige, teaching, ritual exchange, and long-term influence, not only from ancestry.
 
-25. **English and other European languages preserve Sanskritic reflections.** Words such as *mother*, *king*, and related families call for re-examination that does not place an imaginary ancestor above Sanskrit. The book supplies vocabulary for the reflection without reducing it to ancestry.
+25. **English and other European languages preserve Sanskritic reflections.** Words such as *mother*, *king*, and related families call for re-examination that does not place an imaginary ancestor above Sanskrit. The book names that reflection without reducing it to ancestry.
 
 ### Recovery
 
 26. **Sanskrit is a preserved and still-generative architecture.** Its category has been obscured.
 
-27. **India's civilizational responsibility remains central.** Sanskrit was preserved by a civilization, where neither codification nor authority could. How it holds without either is what the book demonstrates.
+27. **India's civilizational responsibility remains central.** A civilization preserved Sanskrit without placing it under a codifying authority. The book demonstrates how that distributed architecture has endured.
 
-28. **The work now is recognition and transmission.** Once the category is corrected, the next task is to learn, teach, and preserve Sanskrit on its own terms.
+28. **Recognition must lead to transmission.** Once the category is corrected, the next task is to learn, teach, and preserve Sanskrit on its own terms.
 
 ---
 

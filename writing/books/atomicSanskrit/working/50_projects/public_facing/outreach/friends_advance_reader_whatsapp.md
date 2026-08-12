@@ -7,7 +7,7 @@ Replace [link] before sending. Copy only the text below the divider.
 
 I've finally reached the point where _Atomic Sanskrit_ is ready to be read by a small circle of friends before I send it out more widely.
 
-The book argues that Sanskrit is an engineered language whose radiant, calibrant, and fractal architecture became a foundation of Sanatan. It also challenges much of what Western academia has taught us about Sanskrit, Panini, PIE, and the supposed Aryan migration into India.
+The book reconstructs Sanskrit's radiant, calibrant, and fractal architecture and places it inside a conflict between two architectures of order. It also challenges much of what Western academia has taught us about Sanskrit, Panini, PIE, and the supposed Aryan migration into India.
 
 This is a long and unconventional book, and I know that reading it is a substantial request. I'm sending it to you because I trust your judgment. I'm especially interested in knowing:
 

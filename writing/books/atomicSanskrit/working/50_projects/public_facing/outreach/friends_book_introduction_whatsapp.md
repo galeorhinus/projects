@@ -8,11 +8,11 @@ Copy only the text below the divider.
 I've been working on a book that I haven't told you about yet. It is called:
 
 _Atomic Sanskrit_
-_The Radiant, Calibrant, and Fractal Architecture of Sanatan_
+_The Radiant, Calibrant, and Fractal Architecture of Sanātan_
 
 The book begins with a simple but far-reaching argument: Panini did not codify Sanskrit. Sanskrit was already a fully engineered language, and Panini brilliantly analyzed and documented its grammar. Its engineering is visible in a precisely arranged sound system, a large inventory of semantic atoms, and a generative architecture capable of creating millions of words.
 
-The Vedas preserve one domain of that architecture unchanged, while laukika Sanskrit allows people to use the same language for a changing world. The book follows that architecture from sounds and words into memory, distributed transmission, and the civilizational order that preserved it.
+The Vedas preserve one domain of that architecture unchanged, while laukika Sanskrit allows people to use the same language for a changing world. The book follows that architecture from sounds and words into memory and distributed transmission. It places Sanskrit inside a conflict between calibrant order, which can endure without an apex, and pyramidal order, which controls knowledge from above.
 
 It also challenges the familiar account that Sanskrit descended from Proto-Indo-European and arrived in India with migrating Aryans. I argue that the direction of movement has been reversed: Sanskrit's radiance traveled outward, and other languages reshaped what they received.
 
