@@ -4,7 +4,10 @@ tmp/
 downloads/
 __pycache__/
 *.pyc
-server/invites.json
+# server/invite_roster.json IS tracked (git-authoritative roster, split
+# from the old server-only invites.json 2026-08-12 — see server/README.md).
+# Only the live per-slug status data stays server-only, and that file
+# (invite_status.json) never touches this repo in the first place.
 
 # Generated build output (PDFs, assembled markdown, LaTeX preamble,
 # rendered website). Both the Mac and the server independently rebuild

@@ -5,19 +5,31 @@
    don't know. Every submission needs manual review; see README.
 
 2. Named invites at "/<slug>" (Caddy: /as/invite/<slug>) — for people you
-   deliberately invited by name. Creating the invites.json entry IS the
-   approval, so submissions here are handled by trust tier:
-     - no email on file for that slug         -> auto-whitelist whatever
-                                                   they submit
-     - submitted email matches the one on file -> auto-whitelist
-     - submitted email differs from the one on
-       file                                    -> falls back to the same
-                                                   manual-review path as
-                                                   the generic form
+   deliberately invited by name. The roster (invite_roster.json) is
+   admin-authored and git-tracked, deployed read-only to the server; the
+   status file (invite_status.json) is what this service writes live as
+   people actually use their links. Submissions are handled by trust
+   tier, checked against whichever of the two is relevant:
 
-Neither flow grants access on its own beyond the trust rules above — the
-"different email" case always needs a human. See server/README.md for the
-full deployment and review workflow.
+     - roster has a known email for the slug:
+         submitted matches it   -> auto-whitelist
+         submitted differs      -> manual review
+     - roster has no known email for the slug (bare link, trust-on-
+       first-use):
+         first submission ever  -> auto-whitelist, and lock that email
+                                    in as the slug's now-known email
+         same email again       -> idempotent no-op ("you already have
+                                    access"), no new grant, no email noise
+         a DIFFERENT email shows
+         up after the slug is
+         already locked          -> NOT auto-whitelisted — flagged for
+                                    manual review as a possible leaked
+                                    invite link, without disturbing the
+                                    original successful grant on record
+
+Neither flow grants access on its own beyond the trust rules above — a
+mismatched or post-lock email always needs a human. See server/README.md
+for the full deployment and review workflow.
 
 Pure standard library, deliberately — no pip install on the server.
 """
@@ -45,10 +57,18 @@ BIND_PORT = 8090
 # Append-only request log, outside the web root, never git-tracked.
 LOG_PATH = Path("/var/lib/secondshanti/access-requests.log")
 
-# Named-invite records — one JSON object keyed by slug. See
-# server/invites.example.json for the schema. Never git-tracked (contains
-# real names/emails); lives only on the server.
-INVITES_PATH = Path("/etc/secondshanti/invites.json")
+# Named-invite roster — one JSON object keyed by slug, admin-authored
+# (see add_invite.py), git-tracked at server/invite_roster.json, and
+# deployed here read-only by deploy.sh. The running service never writes
+# this file — see server/README.md and the systemd unit's ReadWritePaths
+# for the enforcement. Schema: server/invite_roster.example.json.
+ROSTER_PATH = Path("/etc/secondshanti/invite_roster.json")
+
+# Live status per slug — submitted_email, hypothesis_username,
+# submitted_at, status, used, locked_email, and any flagged repeat
+# attempts. Written only by this service as people use their links.
+# Never git-tracked; lives only on the server.
+STATUS_PATH = Path("/etc/secondshanti/invite_status.json")
 
 # oauth2-proxy's email whitelist. Auto-whitelisting appends here directly.
 WHITELIST_PATH = Path("/etc/oauth2-proxy/authenticated-emails.txt")
@@ -301,43 +321,92 @@ def log_request(name: str, email: str, note: str, ip: str) -> None:
         f.write(json.dumps(record) + "\n")
 
 
-def _with_invites_lock(fn):
-    """Run fn(invites_dict) -> invites_dict under an flock, then persist
-    the returned dict. Simple advisory locking — traffic here is low
-    enough that this is about correctness under rare concurrent hits,
-    not throughput."""
-    INVITES_PATH.parent.mkdir(parents=True, exist_ok=True)
-    INVITES_PATH.touch(exist_ok=True)
-    with INVITES_PATH.open("r+", encoding="utf-8") as f:
-        fcntl.flock(f, fcntl.LOCK_EX)
-        try:
-            raw = f.read().strip()
-            invites = json.loads(raw) if raw else {}
-            invites = fn(invites)
-            f.seek(0)
-            f.truncate()
-            json.dump(invites, f, indent=2, ensure_ascii=False)
-        finally:
-            fcntl.flock(f, fcntl.LOCK_UN)
-    return invites
-
-
-def load_invites() -> dict:
-    if not INVITES_PATH.exists():
+def load_roster() -> dict:
+    """Read-only. The service never writes ROSTER_PATH — deploy.sh installs
+    it fresh from the git-tracked server/invite_roster.json on every push."""
+    if not ROSTER_PATH.exists():
         return {}
-    with INVITES_PATH.open(encoding="utf-8") as f:
+    with ROSTER_PATH.open(encoding="utf-8") as f:
         raw = f.read().strip()
     return json.loads(raw) if raw else {}
 
 
-def update_invite(slug: str, **fields) -> dict:
-    def apply(invites: dict) -> dict:
-        record = invites.get(slug, {})
-        record.update(fields)
-        invites[slug] = record
-        return invites
+def _with_status_lock(fn):
+    """Run fn(status_dict) -> status_dict under an flock, then persist the
+    returned dict. Simple advisory locking — traffic here is low enough
+    that this is about correctness under rare concurrent hits, not
+    throughput."""
+    STATUS_PATH.parent.mkdir(parents=True, exist_ok=True)
+    STATUS_PATH.touch(exist_ok=True)
+    with STATUS_PATH.open("r+", encoding="utf-8") as f:
+        fcntl.flock(f, fcntl.LOCK_EX)
+        try:
+            raw = f.read().strip()
+            status = json.loads(raw) if raw else {}
+            status = fn(status)
+            f.seek(0)
+            f.truncate()
+            json.dump(status, f, indent=2, ensure_ascii=False)
+        finally:
+            fcntl.flock(f, fcntl.LOCK_UN)
+    return status
 
-    return _with_invites_lock(apply)[slug]
+
+def get_status(slug: str) -> dict:
+    if not STATUS_PATH.exists():
+        return {}
+    with STATUS_PATH.open(encoding="utf-8") as f:
+        raw = f.read().strip()
+    all_status = json.loads(raw) if raw else {}
+    return all_status.get(slug, {})
+
+
+def update_status(slug: str, **fields) -> dict:
+    def apply(status: dict) -> dict:
+        record = status.get(slug, {})
+        record.update(fields)
+        status[slug] = record
+        return status
+
+    return _with_status_lock(apply)[slug]
+
+
+def append_review_attempt(slug: str, **attempt_fields) -> None:
+    """Record a flagged repeat/mismatched attempt without disturbing the
+    slug's existing top-level status fields — used when a case-B slug
+    (no known email, trust-on-first-use) is already locked to a
+    successful grant and a DIFFERENT email shows up afterward. That's
+    the possible-leaked-link scenario: the original grant stays on the
+    record exactly as it was, and this attempt is appended for review."""
+    def apply(status: dict) -> dict:
+        record = status.get(slug, {})
+        attempts = record.setdefault("review_attempts", [])
+        attempts.append(attempt_fields)
+        status[slug] = record
+        return status
+
+    _with_status_lock(apply)
+
+
+def decide_invite_action(roster_record: dict, status_record: dict, submitted_email: str) -> str:
+    """Returns "auto_whitelist", "idempotent_ok", or "manual_review"."""
+    known_email = (roster_record.get("email") or "").strip().lower()
+    submitted = submitted_email.strip().lower()
+    used = bool(status_record.get("used"))
+    locked_email = (status_record.get("locked_email") or "").strip().lower()
+
+    if used and submitted == locked_email:
+        # Already handled this exact email for this slug before, whether
+        # matched-known (case A) or trust-on-first-use (case B) — a
+        # friendly no-op instead of re-running grant/notification.
+        return "idempotent_ok"
+
+    if known_email:
+        return "auto_whitelist" if submitted == known_email else "manual_review"
+
+    # No known email on file (case B): first touch grants and locks;
+    # anything after that which doesn't match the lock needs a human.
+    return "auto_whitelist" if not used else "manual_review"
 
 
 def add_to_whitelist(email: str) -> None:
@@ -469,8 +538,8 @@ def render_not_found() -> str:
 
 
 def handle_invite_get(slug: str) -> tuple[int, str]:
-    invites = load_invites()
-    record = invites.get(slug)
+    roster = load_roster()
+    record = roster.get(slug)
     if not record:
         return 404, render_not_found()
     name = record.get("name", slug)
@@ -480,8 +549,8 @@ def handle_invite_get(slug: str) -> tuple[int, str]:
 
 
 def handle_invite_post(slug: str, fields: dict, ip: str) -> tuple[int, str]:
-    invites = load_invites()
-    record = invites.get(slug)
+    roster = load_roster()
+    record = roster.get(slug)
     if not record:
         return 404, render_not_found()
     name = record.get("name", slug)
@@ -498,18 +567,27 @@ def handle_invite_post(slug: str, fields: dict, ip: str) -> tuple[int, str]:
     if _rate_limited(ip):
         return 429, render_invite_form(name, record, "Please wait a moment before submitting again.")
 
+    status_record = get_status(slug)
+    action = decide_invite_action(record, status_record, email)
     known_email = (record.get("email") or "").strip().lower()
-    matches_known = (not known_email) or (email.lower() == known_email)
 
-    update_invite(
-        slug,
-        submitted_email=email,
-        hypothesis_username=hyp_username,
-        submitted_at=time.strftime("%Y-%m-%dT%H:%M:%S%z"),
-        status="whitelisted" if matches_known else "pending_review",
-    )
+    if action == "idempotent_ok":
+        return 200, render_invite_result(
+            name, record,
+            "You already have access — no need to do anything else. "
+            '<a href="/as/book/">Head to the book here</a>.',
+        )
 
-    if matches_known:
+    if action == "auto_whitelist":
+        update_status(
+            slug,
+            submitted_email=email,
+            hypothesis_username=hyp_username,
+            submitted_at=time.strftime("%Y-%m-%dT%H:%M:%S%z"),
+            status="whitelisted",
+            used=True,
+            locked_email=email,
+        )
         try:
             add_to_whitelist(email)
         except Exception as exc:
@@ -539,14 +617,44 @@ def handle_invite_post(slug: str, fields: dict, ip: str) -> tuple[int, str]:
             '<a href="/as/book/">Head to the book here</a>.',
         )
 
-    # Different email than expected: same manual-review path as the
-    # generic form, just with clearer framing on what's odd about it.
-    try:
-        log_request(
-            name, email,
-            f"INVITE '{slug}' — different email than on file (expected {known_email})",
-            ip,
+    # action == "manual_review" — two distinct scenarios needing different
+    # handling: an unexpected email against a known-email slug (case A,
+    # safe to overwrite the status fields since nothing was granted yet
+    # for this slug), versus a different email showing up after a case-B
+    # slug is already locked to a successful grant (must NOT clobber that
+    # grant's record — append a flagged attempt instead).
+    already_locked = (not known_email) and bool(status_record.get("used"))
+
+    if already_locked:
+        locked_email = status_record.get("locked_email") or "(none on file)"
+        reason = (
+            f"this invite link was already used to grant access to {locked_email}, "
+            f"and a DIFFERENT email just used the same link — possible leaked invite"
         )
+        expected_line = locked_email
+        subject = f"Review needed: possible leaked invite link ({slug})"
+        append_review_attempt(
+            slug,
+            submitted_email=email,
+            hypothesis_username=hyp_username,
+            submitted_at=time.strftime("%Y-%m-%dT%H:%M:%S%z"),
+            ip=ip,
+            reason=reason,
+        )
+    else:
+        reason = f"different email than on file (expected {known_email or '(none on file)'})"
+        expected_line = known_email or "(none on file)"
+        subject = f"Review needed: {name} used a different email ({slug})"
+        update_status(
+            slug,
+            submitted_email=email,
+            hypothesis_username=hyp_username,
+            submitted_at=time.strftime("%Y-%m-%dT%H:%M:%S%z"),
+            status="pending_review",
+        )
+
+    try:
+        log_request(name, email, f"INVITE '{slug}' — {reason}", ip)
     except Exception as exc:
         print(f"request_access: log_request failed: {exc}")
         return 500, render_invite_form(
@@ -556,9 +664,10 @@ def handle_invite_post(slug: str, fields: dict, ip: str) -> tuple[int, str]:
         )
     try:
         send_notification_email(
-            f"Review needed: {name} used a different email ({slug})",
-            f"{name} (invite '{slug}') entered a DIFFERENT email than the one on file.\n\n"
-            f"Expected: {known_email or '(none on file)'}\n"
+            subject,
+            f"{name} (invite '{slug}') triggered manual review.\n\n"
+            f"Reason: {reason}\n"
+            f"Expected: {expected_line}\n"
             f"Submitted: {email}\n"
             f"Hypothesis username: {hyp_username or '(not given)'}\n"
             f"IP:   {ip}\n"
@@ -572,7 +681,7 @@ def handle_invite_post(slug: str, fields: dict, ip: str) -> tuple[int, str]:
 
     return 200, render_invite_result(
         name, record,
-        "Thanks — that's a different email than we had on file for you, so "
+        "Thanks — that's not the email we were expecting for this link, so "
         "we're double-checking before granting access. You'll hear back shortly.",
     )
 

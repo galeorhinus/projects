@@ -1,0 +1,56 @@
+{
+  "aa": {
+    "name": "Aravind Ajjampur",
+    "hypothesis_group_url": "https://hypothes.is/groups/o8ALmjDo/as-aa",
+    "hypothesis_group_name": "as-aa",
+    "email": "aravind.ajjampur@gmail.com"
+  },
+  "ak": {
+    "name": "Arvind Kumar",
+    "hypothesis_group_url": "https://hypothes.is/groups/kQKj3RGb/as-ak",
+    "hypothesis_group_name": "as-ak",
+    "email": "arvind.kumar@gmail.com"
+  },
+  "cp": {
+    "name": "CP",
+    "hypothesis_group_url": "https://hypothes.is/groups/224Jr1Q6/as-bs-cp",
+    "hypothesis_group_name": "as-bs-cp",
+    "email": "chandraprakash2508@gmail.com"
+  },
+  "bs": {
+    "name": "Bharat Sharma",
+    "hypothesis_group_url": "https://hypothes.is/groups/224Jr1Q6/as-bs-cp",
+    "hypothesis_group_name": "as-bs-cp",
+    "email": null
+  },
+  "jd": {
+    "name": "Juliette Doutreleau",
+    "hypothesis_group_url": "https://hypothes.is/groups/7JvwRLgd/as-jd",
+    "hypothesis_group_name": "as-jd",
+    "email": "juliette.doutreleau@gmail.com"
+  },
+  "jk": {
+    "name": "JK Nair",
+    "hypothesis_group_url": "https://hypothes.is/groups/vgW3G82M/as-jk-ap",
+    "hypothesis_group_name": "as-jk-ap",
+    "email": "jayakrishnan.b.nair@gmail.com"
+  },
+  "ap": {
+    "name": "Akshar Prabhudesai",
+    "hypothesis_group_url": "https://hypothes.is/groups/vgW3G82M/as-jk-ap",
+    "hypothesis_group_name": "as-jk-ap",
+    "email": "akshar.prabhudesai@gmail.com"
+  },
+  "pr": {
+    "name": "Prashant Rao",
+    "hypothesis_group_url": "https://hypothes.is/groups/QpG9pDKd/as-pr",
+    "hypothesis_group_name": "as-pr",
+    "email": "prao100@gmail.com"
+  },
+  "pt": {
+    "name": "Parag Tope",
+    "hypothesis_group_url": "https://hypothes.is/groups/QpG9pDKd/as-pr",
+    "hypothesis_group_name": "as-pt",
+    "email": "parag.tope@gmail.com"
+  }
+}

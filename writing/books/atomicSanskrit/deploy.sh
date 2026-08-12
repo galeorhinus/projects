@@ -5,24 +5,29 @@
 #   1. (Optional) Run build_html.py to refresh build/html/.
 #   2. rsync build/html/ → /var/www/as/.
 #   3. Copy the updated Caddyfile to /etc/caddy/Caddyfile and reload Caddy.
+#   4. Install server/invite_roster.json to /etc/secondshanti/, read-only
+#      to the request-access service — see server/README.md. No service
+#      restart needed; the roster is read fresh on every request.
 #
 # Pass --skip-build to skip the build step (use when build/html/ is already
 # fresh). Pass --skip-caddy to skip Caddyfile + reload (use when only the
-# rendered HTML changed).
+# rendered HTML changed). Pass --skip-roster to skip the roster install.
 #
-# Requires sudo for /etc/caddy/ and `systemctl reload caddy`. /var/www/as
-# is owned by the ubuntu user (set up at install time), so the rsync into
-# it does not need sudo.
+# Requires sudo for /etc/caddy/, /etc/secondshanti/, and `systemctl reload
+# caddy`. /var/www/as is owned by the ubuntu user (set up at install
+# time), so the rsync into it does not need sudo.
 
 set -euo pipefail
 cd "$(dirname "$0")"
 
 SKIP_BUILD=0
 SKIP_CADDY=0
+SKIP_ROSTER=0
 for arg in "$@"; do
 	case "$arg" in
 		--skip-build) SKIP_BUILD=1 ;;
 		--skip-caddy) SKIP_CADDY=1 ;;
+		--skip-roster) SKIP_ROSTER=1 ;;
 		*) echo "Unknown arg: $arg" >&2; exit 2 ;;
 	esac
 done
@@ -75,6 +80,16 @@ if [ "$SKIP_CADDY" -eq 0 ]; then
 	echo ">> Installing Caddyfile + reloading Caddy..."
 	sudo install -o root -g caddy -m 640 Caddyfile /etc/caddy/Caddyfile
 	sudo systemctl reload caddy
+fi
+
+if [ "$SKIP_ROSTER" -eq 0 ]; then
+	if [ -f "server/invite_roster.json" ]; then
+		echo ">> Installing invite roster..."
+		sudo mkdir -p /etc/secondshanti
+		sudo install -o www-data -g www-data -m 640 server/invite_roster.json /etc/secondshanti/invite_roster.json
+	else
+		echo ">> No server/invite_roster.json in the working tree — skipping roster install."
+	fi
 fi
 
 echo ">> Done."

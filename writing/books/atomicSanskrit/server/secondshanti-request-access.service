@@ -11,10 +11,16 @@ User=www-data
 Group=www-data
 
 # Loopback-only service; no elevated privileges needed.
+#
+# invite_roster.json is deliberately NOT listed here — it's git-tracked,
+# deploy.sh installs it, and the service only ever reads it (ProtectSystem
+# =strict mounts /etc read-only by default; only paths that need writing
+# go in ReadWritePaths below). invite_status.json is the service's own
+# live write target and replaces the old invites.json path.
 NoNewPrivileges=true
 PrivateTmp=true
 ProtectSystem=strict
-ReadWritePaths=/var/lib/secondshanti
+ReadWritePaths=/var/lib/secondshanti /etc/secondshanti/invite_status.json /etc/oauth2-proxy/authenticated-emails.txt
 
 [Install]
 WantedBy=multi-user.target
