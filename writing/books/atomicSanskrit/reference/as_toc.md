@@ -29,7 +29,7 @@
 - 0.7 The Civilization That Preserves It
 - 0.8 The Fractal Test
 
-**Chapter 1 — One, ___, and the Finite**
+**Chapter 1 — One, the Apex, and the Finite**
 - 1.1 The apex-one
 - 1.2 The Fractal of Deformation
 - 1.3 Svarbhānu's Operation

@@ -387,7 +387,7 @@ Once §0.6B introduces **सात्त्विक order** (with its anchoring
 
 ### B.1 What Chapter 1 already has
 
-Chapter 1 ("One, ___, and the Finite") is already substantially about asuric tendencies. It is not a blank slate:
+Chapter 1 ("One, the Apex, and the Finite") is already substantially about asuric tendencies. It is not a blank slate:
 
 - **§1.2 The Fractal of Deformation** — names विकृति (*vikṛti*) as "a created fractal of deformation... it takes the human capacity to organize and deforms it into apex command."
 - **§1.4 The Operations** — a ten-item catalog of recurring asuric moves drawn from Purāṇic narrative: *Install the apex-one, Withhold the light, Steal the foundation, Wear false identity, Turn the gift against the giver, Multiply copies, **Possess the uncontainable**, Teach surface as depth* (two more implied/adjacent). Several of these are already, functionally, containment operations in disguise — "Withhold the light" (Svarbhānu/Vṛtra/Kāliya — this is *blockade* in the CLAUDE.md sense) and "Possess the uncontainable" (Śumbha/Andhaka/Jalandhara — this is close to *enclosure*) are doing containment work under different names.

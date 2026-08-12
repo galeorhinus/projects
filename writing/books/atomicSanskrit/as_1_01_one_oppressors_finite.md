@@ -1,4 +1,4 @@
-# Chapter 1 — One, ___, and the Finite
+# Chapter 1 — One, the Apex, and the Finite
 
 *Draft v1. Active antagonist chapter promoted from AP0. Introduces the finite apex-order before Part I exposes how the shadow is cast. Keeps the Atri payoff out of the body; Epilogue owns the recovery.*
 
@@ -54,9 +54,9 @@ The pyramid often takes a reductive idea, dresses it in grand terminology, and c
 
 At the top of that geometry sits the apex-claimant, who claims the right to define the order beneath him. He can enclose a territory, an institution, or an archive, but he cannot own what has no boundary or center. He also cannot command a distributed order whose participants align themselves through a shared calibrant instead of waiting for his permission. Sanskrit threatens him for precisely this reason. It preserves and transmits order through caretakers whom no ruler can fully control.
 
-Sanskrit's radiance exposes the limits of the apex's authority. Instead of accepting those limits, the apex attacks the language and the civilization that made them visible. That is the Svarbhānu pattern: when light exposes the apex, he tries to cover its source and retaliates against those who keep it visible.
+Sanskrit demonstrates that a society can preserve knowledge, identify error, and correct departures without giving one ruler or institution ownership of the standard. That living example exposes the limit of the apex's authority. Instead of accepting that limit, the apex attacks the language and the civilization that preserve the alternative. This is the Svarbhānu pattern: when light reveals what lies beyond his control, he tries to cover its source and retaliates against those who keep it visible.
 
-That is the darkness of the asuras, and it is the darkness Sanskrit was engineered to fight.
+That is the darkness Sanskrit was engineered to resist.
 
 ## 1.2 The Fractal of Deformation
 
@@ -88,7 +88,7 @@ A pyramidal architecture is clearly an architecture of containment and therefore
 
 Harmony does not provide immunity. A *nastika* or *prākṛtika* formation may live peacefully beside *saṃskṛti* yet lack the institutions and long defensive memory needed to recognize a recurring asuric attack. The pyramid can then capture, co-opt, or control a formation that did not originally oppose the calibrant. Across the world, the Abrahamic pyramid conquered or converted most *prākṛtika* societies and organized their descendants into its own architecture.[NOTE: compatibility-is-not-immunity]
 
-Preservation has to discriminate. Living forms can flow, grow, and change while the Vedas preserve the invariant architecture that helps society restore balance when darkness spreads. The pyramid targets that architecture because distributed correction makes capture harder.
+Preservation has to discriminate. Living forms can flow, grow, and change while the Vedas preserve the invariant architecture that helps society restore balance when it loses alignment. The pyramid targets that architecture because distributed correction makes capture harder.
 
 ### The Pyramid Captures Chronology
 
@@ -155,4 +155,4 @@ Their actions create "this deep station" for themselves. Their departure from tr
 
 Chapter 0 established the conflict between *sat* and *asat* at the cosmic scale. This chapter has shown how an architecture aligned with *asat* acts: through concealment, blockade, isolation, and enclosure. Chapter 3 follows those methods into institutions, chronology, race, and language, where the pyramid can reproduce them without a named antagonist.
 
-The caretakers and the finite order now stand against each other. Part I turns to the shadow between them.
+The caretakers and the finite order now stand against each other. Chapter 2 examines the first obstruction placed between Sanskrit and the reader: the decision to classify Sanskrit as a botanical natural language before examining how it is built.
