@@ -66,6 +66,9 @@ h1{font-size:42px;font-weight:700;letter-spacing:-.015em;line-height:1.06;margin
 .route:hover .cta{color:var(--deep)}
 .route .description{display:block;font-size:14.5px;line-height:1.58;color:var(--ink2);margin-top:8px}
 .route .description em{font-style:italic}
+.route.disabled{cursor:not-allowed;opacity:.55}
+.route.disabled .cta{color:var(--brown)}
+.route.disabled:hover{border-color:var(--line);background:var(--panel);box-shadow:none}
 
 /* ---- footer ---- */
 footer{margin-top:64px;padding-top:22px;border-top:1px solid var(--line);font-size:14px;color:var(--brown);display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
@@ -77,9 +80,11 @@ footer a:hover{text-decoration:underline}
   .routes{grid-template-columns:1fr}
 }
 @media(max-width:560px){
-  .masthead{padding-top:48px}
+  .masthead{padding-top:24px}
   .lockup{gap:14px}
   h1{font-size:33px}
+  .byline{margin-top:14px;padding-top:11px}
+  .jacket-section{margin-top:24px}
   .jacket{padding:30px 24px}
   .jacket p{font-size:17px}
   footer{flex-direction:column;gap:8px}
@@ -126,18 +131,18 @@ footer a:hover{text-decoration:underline}
   <section class="routes-section">
     <p class="eyebrow">Start reading</p>
     <div class="routes">
-      <a class="route" href="/as/essays/">
-        <span class="cta">Read the essays &rarr;</span>
-        <span class="description">Short pieces on the engineering Sanskrit claim, freely available.</span>
-      </a>
-      <a class="route" href="/as/private/">
-        <span class="cta">Advance-reader essays &rarr;</span>
-        <span class="description">Longer essays not yet published. By invitation; you'll be asked to sign in with Google.</span>
-      </a>
       <a class="route" href="/as/book/">
         <span class="cta">The book &rarr;</span>
-        <span class="description">Full advance-reader access to the <em>Atomic Sanskrit</em> manuscript. By invitation; same Google sign-in as the advance-reader essays.</span>
+        <span class="description">Full advance-reader access to the <em>Atomic Sanskrit</em> manuscript. By invitation; you'll be asked to sign in with Google.</span>
       </a>
+      <div class="route disabled" aria-disabled="true">
+        <span class="cta">Read the essays</span>
+        <span class="description">Short pieces on the engineering Sanskrit claim. Temporarily unavailable.</span>
+      </div>
+      <div class="route disabled" aria-disabled="true">
+        <span class="cta">Advance-reader essays</span>
+        <span class="description">Longer essays not yet published. Temporarily unavailable.</span>
+      </div>
     </div>
   </section>
 
