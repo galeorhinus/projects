@@ -34,8 +34,6 @@ A civilization can continue reciting, teaching, parsing, and preserving the Sun,
 
 A wiser age would not need this book because it would simply look at Sanskrit and *see* the architecture, and listen to the Vedas and *hear* the engineering—immediately recognizing that the differences between the Vedic and worldly domains are an intentional part of that engineering. However, the argument has to be made because the pyramid has trained the present age to see *neither*. This deliberate redundancy is necessary: because a field-blind age has become **मुग्ध (*mugdha*)**—bewildered before what remains present—the book must repeat its points, knowing that only repetition can clear confusion that has hardened into civilizational self-doubt.
 
-The clearing begins later — shadow by shadow, plate by plate, until the terrain becomes visible again. These pages say only what the eclipse darkened, what the pyramid placed in front of the Sun, and what changes when the world can see Sanskrit's true radiance again.
-
 ## What Was Eclipsed
 
 The language names itself **संस्कृतम् (*saṃskṛtam*)**: well-made, wholly formed, perfectly synthesized.[NOTE: samskrtam-morphology] The **परम्परा (*paramparā*)** that received and documented it is an unbroken lineage-chain and distributed transmission architecture. That architecture distinguished Sanskrit from **प्राकृत (*prākṛta*)**, recognized drift as **अपभ्रंश (*apabhraṃśa*)**, and treated the word-meaning bond as **सिद्ध (*siddha*)**: already established.
@@ -46,9 +44,11 @@ The conflict in this book is between two architectures of order. One creates ord
 
 Sanskrit and the Vedas provide a living demonstration of calibrant order. The pyramid could not leave that evidence visible. It used false categorization as its weapon. The plates described above were chosen deliberately. Each one conceals a different part of the same architecture.
 
+## The Architecture This Book Uncovers
+
 The reconstruction proceeds through four interconnected components.
 
-First the material. The anatomy of the human mouth makes many different sounds possible. Sanskrit selects a reusable set, gives each sonomer a coordinate, and combines those sonomers into stable semantic atoms. The atoms accept grammatical bonds and generate language without losing their identity.
+First the raw material. The anatomy of the human mouth makes many different sounds possible. Sanskrit selects a reusable set, gives each sonomer a coordinate, and combines those sonomers into stable semantic atoms. The atoms accept grammatical bonds and generate language without losing their identity.
 
 Second is scope. One architecture uses the *vaidika* and *laukika* domains because exact preservation and new composition create different risks. The Vedic domain preserves controlled variation inside content that will never change. The worldly domain uses tighter limits where that freedom would create collisions.
 
@@ -57,8 +57,6 @@ Third comes continuity. The Vedas encode several architectures of *Sanātan*. On
 Fourth comes radiance. Influential carriers took Sanskritic words, structures, knowledge, and analytical methods beyond India. Other languages preserved partial reflections. European philology gathered those fragments, constructed PIE, and placed it above the complete architecture.
 
 These four parts explain why Sanskrit threatens the pyramid. Sanskrit demonstrates that precise and durable order can thrive without an apex. It is radiant because it travels outward, calibrant because its invariant architecture remains available for alignment, and fractal because the same design recurs from sound to civilization.
-
-The words the reader is familiar with contain the same evidence. **मातृ (*mātṛ*)** is not Sanskrit's cousin beside *mother*; it is the etymon. The English word is a **प्रतिबिम्ब (*Pratibimba*)** — a reflection of the original form.
 
 ## The Boy's Question
 
@@ -89,7 +87,7 @@ The pyramid needs the unbounded forced into a finite clock. Once it owns the clo
 
 The pyramid uses chronology to commit category theft by turning Sanskrit's internal distinctions into a linear timeline: domain becomes period, mode becomes stage, and Pāṇini is recast as the codifier—the artificial hinge between alleged *"Vedic"* drift and *"Classical"* codification. Although chronology can sequence evidence, it fundamentally cannot decide the structural category of Sanskrit.
 
-When Sanskrit's light shines again as calibrated architecture, the hunger for the pyramid's calendar may itself fade. The point is not to win a pointless date-contest. The point is to make the architecture visible so chronology becomes servant, not sovereign.
+When Sanskrit's light shines again as calibrated architecture, the hunger for the pyramid's calendar may itself fade. The point is not to win a pointless date-contest. The point is to make the architecture visible so chronology becomes secondary.
 
 ## Lineage and Method
 
