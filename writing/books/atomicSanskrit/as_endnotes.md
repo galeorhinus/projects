@@ -6508,3 +6508,13 @@ England also contained its own class pyramid. The chapter's geometry therefore d
 Sources: UK Parliament, [“United into One Kingdom”](https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/act-of-union-1707/overview/united-into-one-kingdom/) and [“End of the Old Scottish Parliament”](https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/act-of-union-1707/overview/end-of-the-old-scottish-parliament/); House of Commons Library, [“The United Kingdom and Independence”](https://commonslibrary.parliament.uk/research-briefings/cbp-10649/); Welsh Government, [historical account of the Statute of Rhuddlan and the Laws in Wales Acts](https://www.gov.wales/sites/default/files/consultations/2018-01/120326separatelegaljurisdiction.pdf); The National Archives, [“Irish Partition”](https://www.nationalarchives.gov.uk/education/resources/irish-partition/).
 
 ---
+
+### `where-this-argument-stands`
+
+**Short:** The free *Source and Reference Companion* places *Atomic Sanskrit* beside four neighboring bodies of writing: Out-of-India arguments, Western criticism of PIE reconstruction, formal and computational Sanskrit scholarship, and Subhash Kak's wider research into Vedic architecture.
+
+**Deployment:** Positioning note; *Source and Reference Companion*, “Where This Argument Stands.”
+
+Each neighboring body reaches part of the evidence. The companion essay explains where this book follows earlier research and where it takes a different path. Its distinctive synthesis joins engineered sound, semantic atoms, two-domain scope, the Vedas as calibrant, distributed aural preservation, Sanskrit's radiance beyond India, and the reversal that placed PIE above the surviving architecture.
+
+---
