@@ -10,6 +10,17 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Serif+Devanagari:wght@400;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/as/essays/style.css?v=$git_sha$">
+$if(hypothesis)$
+  <!-- Hypothesis annotation client — opt-in via --metadata=hypothesis=true,
+       so only pages that ask for it (the jacket-copy review pages) load
+       it. Same restricted-groups pattern as templates/html_chapter.html. -->
+  <script type="application/json" class="js-hypothesis-config">
+  {
+    "groupsAllowlist": ["o8ALmjDo", "jaDkzx2r", "224Jr1Q6", "vgW3G82M", "7JvwRLgd", "QpG9pDKd"]
+  }
+  </script>
+  <script src="https://hypothes.is/embed.js" async></script>
+$endif$
 </head>
 <body>
 <div class="sitebar">

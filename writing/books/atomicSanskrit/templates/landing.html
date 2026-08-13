@@ -9,6 +9,19 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Serif+Devanagari:wght@400;600&display=swap" rel="stylesheet">
+
+  <!-- Hypothesis annotation client — same restricted-groups pattern as
+       templates/html_chapter.html (see that file for the allowlist note).
+       Public visitors get the sidebar launcher but no group they can post
+       into; only invited reviewers already in one of these groups can
+       actually annotate. Added 2026-08-12 for the jacket-copy review round
+       — remove if the review period ends and no ongoing use remains. -->
+  <script type="application/json" class="js-hypothesis-config">
+  {
+    "groupsAllowlist": ["o8ALmjDo", "jaDkzx2r", "224Jr1Q6", "vgW3G82M", "7JvwRLgd", "QpG9pDKd"]
+  }
+  </script>
+  <script src="https://hypothes.is/embed.js" async></script>
 <style>
 /* ==========================================================
    landing.html — Atomic Sanskrit · secondshanti.org/as

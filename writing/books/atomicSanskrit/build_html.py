@@ -55,6 +55,7 @@ HTML_OUT = BOOK_DIR / "build" / "html"
 HTML_OUT_BOOK = HTML_OUT / "book"
 HTML_OUT_ESSAYS = HTML_OUT / "essays"
 HTML_OUT_PRIVATE = HTML_OUT / "private"
+HTML_OUT_JACKET = HTML_OUT / "jacket-copy"
 
 TEMPLATE_CHAPTER = BOOK_DIR / "templates" / "html_chapter.html"
 TEMPLATE_INDEX = BOOK_DIR / "templates" / "html_index.html"
@@ -71,6 +72,22 @@ JACKET_COPY_SRC = (
     BOOK_DIR / "working" / "50_projects" / "public_facing" / "outreach"
     / "atomic_sanskrit_jacket_copy.md"
 )
+
+# The three alternates to JACKET_COPY_SRC, reviewed 2026-08-12 against the
+# version live on the landing page. Each renders to its own unlisted page
+# under /as/jacket-copy/<slug>/ via render_jacket_copy_variant(), with
+# Hypothesis annotation enabled (same restricted-groups allowlist as the
+# book chapters — see templates/html_essay.html) so invited readers can
+# comment directly in place. Not linked from site navigation; shared by
+# direct link only. Add/remove entries here to add/retire a variant.
+_JACKET_OUTREACH_DIR = (
+    BOOK_DIR / "working" / "50_projects" / "public_facing" / "outreach"
+)
+JACKET_COPY_VARIANTS = [
+    {"slug": "question-led", "src": _JACKET_OUTREACH_DIR / "atomic_sanskrit_jacket_copy_question_led.md"},
+    {"slug": "revelations", "src": _JACKET_OUTREACH_DIR / "atomic_sanskrit_jacket_copy_revelations.md"},
+    {"slug": "website-version", "src": _JACKET_OUTREACH_DIR / "atomic_sanskrit_website_copy_questions_answers.md"},
+]
 
 BOOK_CSS_SRC = BOOK_DIR / "templates" / "book.css"
 ESSAYS_CSS_SRC = BOOK_DIR / "templates" / "essays.css"
@@ -789,6 +806,57 @@ def render_landing(build_meta: dict[str, str]) -> None:
     print("  rendered  /  (landing page)")
 
 
+def render_jacket_copy_variant(variant: dict, build_meta: dict[str, str]) -> None:
+    """Render one JACKET_COPY_VARIANTS entry to
+    build/html/jacket-copy/<slug>/index.html via pandoc + the essay
+    template, with Hypothesis annotation switched on. Unlike render_essay(),
+    the title comes from the source file's own leading `# ...` line (these
+    aren't part of the essay-frontmatter system) rather than YAML
+    frontmatter."""
+    src = variant["src"]
+    slug = variant["slug"]
+    raw = src.read_text(encoding="utf-8")
+    lines = raw.split("\n", 1)
+    # Strip markdown emphasis — this becomes a literal <title>/<h1> string
+    # via pandoc's --metadata substitution, which does not run a markdown
+    # pass over metadata values (same reasoning as _strip_md_emphasis()'s
+    # other callers).
+    title = _strip_md_emphasis(lines[0][2:].strip()) if lines[0].startswith("# ") else slug
+    body = lines[1].lstrip("\n") if len(lines) > 1 else ""
+
+    out_dir = HTML_OUT_JACKET / slug
+    out_dir.mkdir(parents=True, exist_ok=True)
+    out_path = out_dir / "index.html"
+    tmp_md = out_dir / ".tmp_variant.md"
+    tmp_md.write_text(body)
+
+    metadata = {
+        "pagetitle": title,
+        "title": title,
+        "hypothesis": "true",
+        **build_meta,
+    }
+    cmd = [
+        "pandoc",
+        "--from=markdown+raw_html+pipe_tables+yaml_metadata_block+tex_math_dollars+bracketed_spans",
+        "--to=html5",
+        "--standalone",
+        "--wrap=none",
+        f"--template={TEMPLATE_ESSAY}",
+        f"--output={out_path}",
+    ]
+    for k, v in metadata.items():
+        cmd.append(f"--metadata={k}={v}")
+    cmd.append(str(tmp_md))
+    result = subprocess.run(cmd, capture_output=True, text=True)
+    if result.returncode != 0:
+        print(f"  pandoc FAILED on jacket-copy variant {slug}:", file=sys.stderr)
+        print(result.stderr, file=sys.stderr)
+        raise SystemExit(1)
+    tmp_md.unlink()
+    print(f"  rendered  /jacket-copy/{slug}/  (unlisted review page)")
+
+
 def render_404() -> None:
     """Copy the static templates/error_404.html to build/html/404.html.
     No substitution needed — it carries no per-build or per-page data.
@@ -805,6 +873,7 @@ def main() -> int:
     HTML_OUT_BOOK.mkdir(parents=True)
     HTML_OUT_ESSAYS.mkdir(parents=True)
     HTML_OUT_PRIVATE.mkdir(parents=True)
+    HTML_OUT_JACKET.mkdir(parents=True)
 
     book_title = read_yaml_value(METADATA_FILE, "title")
     subtitle = read_yaml_value(METADATA_FILE, "subtitle")
@@ -879,6 +948,12 @@ def main() -> int:
     # ----- Landing + static files ------------------------------------
     print()
     render_landing(build_meta)
+
+    # ----- Jacket-copy review variants (unlisted, direct-link only) --
+    print("\nRendering jacket-copy review variants under /jacket-copy/ ...")
+    for variant in JACKET_COPY_VARIANTS:
+        render_jacket_copy_variant(variant, build_meta)
+
     render_404()
     copy_static()
 
