@@ -212,6 +212,7 @@ assembly:
   - kind: end
     file: as_0_02_acknowledgements.md
     title: Acknowledgments
+    draft: true
   - kind: end
     file: as_0_04_note_on_notes.md
     title: A Note on the Notes

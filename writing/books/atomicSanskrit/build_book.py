@@ -791,7 +791,20 @@ def parse_assembly_yaml(path: Path) -> list[dict]:
 
 # ASSEMBLY is loaded once at module-import time from as_book.yaml. Edit reading
 # order in the YAML — not here.
-ASSEMBLY = parse_assembly_yaml(METADATA_FILE)
+#
+# An entry may carry `draft: true` to hold it out of every build (PDF and
+# HTML alike — build_html.py imports this same ASSEMBLY) without deleting
+# it from as_book.yaml or the manuscript file itself. Filtered here, once,
+# at the shared load point, rather than at each of ASSEMBLY's several
+# consumers across both scripts — a spot missed in even one of them would
+# leak the draft entry into a build the others correctly excluded it from.
+# _parse_yaml_scalar returns plain strings (no bool coercion), so the check
+# is a string comparison, not `is True`.
+_RAW_ASSEMBLY = parse_assembly_yaml(METADATA_FILE)
+_DRAFT_ENTRIES = [e for e in _RAW_ASSEMBLY if e.get("draft") == "true"]
+for _e in _DRAFT_ENTRIES:
+    print(f"  DRAFT — excluded from build: {_e['file']} ({_e['title']})")
+ASSEMBLY = [e for e in _RAW_ASSEMBLY if e.get("draft") != "true"]
 
 
 def clean_chapter(text: str, canonical_title: str) -> str:
