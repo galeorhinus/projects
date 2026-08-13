@@ -83,11 +83,19 @@ a{color:var(--gold-d)}a:hover{color:var(--deep)}
    row from splitting across the two CSS columns; an opened one reflows
    normally, same as any dynamic-height content in a multicol layout. */
 .toc details.chapter-acc{margin:0}
-.toc details.chapter-acc > summary{list-style:none;cursor:pointer;display:flex;align-items:baseline;gap:7px;padding:7px 10px 7px 12px;margin-left:-12px;border-left:2px solid transparent;border-radius:0 3px 3px 0;transition:background .13s,border-color .13s}
+.toc details.chapter-acc > summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:2px;padding:7px 6px 7px 12px;margin-left:-12px;border-left:2px solid transparent;border-radius:0 3px 3px 0;transition:background .13s,border-color .13s}
 .toc details.chapter-acc > summary::-webkit-details-marker{display:none}
-.toc details.chapter-acc > summary::before{content:"▸";display:inline-block;width:.8em;flex:none;color:var(--taupe);transition:transform .15s}
-.toc details.chapter-acc[open] > summary::before{transform:rotate(90deg)}
+/* Disclosure icon on the trailing (right) edge — the mobile-conventional
+   side for an expand/collapse row, and reachable by a right-hand thumb.
+   Its own box (not just the glyph) is the real tap target: ~1.9em square
+   plus negative margin to reclaim the row's padding, landing close to
+   the ~44px touch-target guidelines without inflating row height. The
+   link before it is flex:1, so this fixed-size box is reserved space,
+   not shared with the link's own hit area. */
+.toc details.chapter-acc > summary::after{content:"▸";flex:none;display:flex;align-items:center;justify-content:center;width:1.9em;height:1.9em;margin:-0.45em -6px -0.45em 0;font-size:16px;border-radius:50%;color:var(--taupe);transition:transform .15s,background .13s,color .13s}
+.toc details.chapter-acc[open] > summary::after{transform:rotate(90deg)}
 .toc details.chapter-acc > summary:hover{background:var(--sand2);border-left-color:var(--gold)}
+.toc details.chapter-acc > summary:hover::after,.toc details.chapter-acc > summary:active::after{background:var(--sand);color:var(--gold-d)}
 .toc details.chapter-acc > summary a{font-size:15.5px;line-height:1.42;color:var(--ink2);text-decoration:none;flex:1}
 .toc details.chapter-acc > summary a:hover{color:var(--deep);text-decoration:underline}
 .toc details.chapter-acc > summary a em{font-style:italic}
@@ -117,6 +125,9 @@ a{color:var(--gold-d)}a:hover{color:var(--deep)}
   .sitebar .nav{gap:14px}
   .book-title{font-size:29px}
   .book-subtitle{font-size:15.5px}
+  /* Larger disclosure tap target on small screens, where thumb precision
+     matters most — closer to the ~44px touch-target guideline. */
+  .toc details.chapter-acc > summary::after{width:2.3em;height:2.3em;margin:-0.65em -8px -0.65em 0;font-size:18px}
 }
 </style>
 </head>
