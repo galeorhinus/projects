@@ -20,7 +20,7 @@ The Vedas preserve more than ancient compositions. Their breadth encodes Sanskri
 
 Sanskrit therefore operates through two complementary domains. The Vedic domain preserves received content exactly. The worldly domain allows people to generate new expression. Why did the engineering require both? Why could stated grammatical rules alone never provide the same protection? Why did Esperanto drift while Sanskrit remained invariant?
 
-## What, Then, Did Pāṇini Do?
+## Wait. What, Then, Did Pāṇini *Actually* Do?
 
 Pāṇini’s contribution to Sanskrit is extraordinary. The familiar codification story, however, obscures the nature of his achievement. *Atomic Sanskrit* uncovers his actual role and shows why his documentation remains unmatched.
 
