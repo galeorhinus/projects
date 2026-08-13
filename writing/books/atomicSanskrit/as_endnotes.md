@@ -3652,9 +3652,9 @@ Pāṇini assigns the *pragṛhya* designation beginning at *Aṣṭādhyāyī* 
 
 **Short:** Crossing Sanskrit's documented places and manners reveals two grid addresses that remain outside the independent consonant inventory: *kaṇṭhya–antaḥstha* near [ɰ] and *oṣṭhya–ūṣman* near [ɸ]. Both sounds are physically possible, but [ɰ] completes no fifth *ik → yaṇ* operation, while Sanskrit gives the [ɸ]-like articulation a Restricted role as *upadhmānīya*. The coordinated treatment of **अ/आ** and the Lineage-Bounded preservation of Ṛgvedic **ळ** provide two further controls: Sanskrit assigns sounds by architectural function rather than anatomical possibility alone.
 
-**Deployments:** Chapter 8 §8.2 establishes contextual realization through *upadhmānīya*. Chapter 9 §§9.9–9.10 and Figure 9.6 develop the two unassigned addresses.
+**Deployments:** Chapter 8 §8.2 establishes contextual realization through *upadhmānīya*. Chapter 9 §§9.9–9.10 and Figure 9.8 develop the two unassigned addresses.
 
-**The analytical grid.** Figure 9.6 crosses categories documented in the Sanskrit phonetic disciplines by placing five broad *sthāna* columns against five *sparśa* rows, one *antaḥstha* row, and one *ūṣman* row. Although no *Śikṣā* or *Prātiśākhya* prints this thirty-five-cell rectangle, the received inventory supplies the twenty-five *sparśa*, four *antaḥstha* (**य र ल व**), and four *ūṣman* (**श ष स ह**). Their intersection reveals two further grid addresses outside the independent inventory.
+**The analytical grid.** Figure 9.8 crosses categories documented in the Sanskrit phonetic disciplines by placing five broad *sthāna* columns against five *sparśa* rows, one *antaḥstha* row, and one *ūṣman* row. Although no *Śikṣā* or *Prātiśākhya* prints this thirty-five-cell rectangle, the received inventory supplies the twenty-five *sparśa*, four *antaḥstha* (**य र ल व**), and four *ūṣman* (**श ष स ह**). Their intersection reveals two further grid addresses outside the independent inventory.
 
 | Grid address | Nearest modern IPA sound | Articulation | Sanskrit status |
 |---|---|---|---|

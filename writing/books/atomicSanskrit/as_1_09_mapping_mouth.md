@@ -86,15 +86,9 @@ The Sanskrit-only extraction lets the architecture reveal itself.[NOTE: varnamal
 >
 > Appendix Part 3 §3.5 applies this burden test to Brāhmī and Aramaic. An earlier symbol can suggest contact; it cannot explain a sound-grid it does not contain. Shape is not structure. Chronology is not causation.
 
-One axis of the address grid records the place of articulation: velar, palatal, retroflex, dental, and labial. Sanskrit labels them:
+One axis of the address grid records the place of articulation: velar, palatal, retroflex, dental, and labial. Sanskrit labels them **कण्ठ्य (*kaṇṭhya*)**, **तालव्य (*tālavya*)**, **मूर्धन्य (*mūrdhanya*)**, **दन्त्य (*dantya*)**, and **ओष्ठ्य (*oṣṭhya*)**.
 
-| Place | Sanskrit term | Body location |
-|---|---|---|
-| Velar / throat-back | **कण्ठ्य (*kaṇṭhya*)** | back of tongue against the soft-palate region |
-| Palatal | **तालव्य (*tālavya*)** | tongue body toward the hard palate |
-| Retroflex | **मूर्धन्य (*mūrdhanya*)** | curled tongue-tip toward the palate ridge |
-| Dental | **दन्त्य (*dantya*)** | tongue against the teeth |
-| Labial | **ओष्ठ्य (*oṣṭhya*)** | lips |
+![Figure 9.4 — The Mouth and Its Five Stations. The palate arc names each place — kaṇṭhya, tālavya, mūrdhanya, dantya, oṣṭhya — and the text beneath each station states what the body does to produce it.](figures/mapping_mouth/superset_place_arc_columns.svg){#fig:ch9-place-arc-columns width=100%}
 
 The order moves through the instrument. The back of the mouth opens the series. The lips close it. The retroflex band sits inside the subcontinental sound-field with unusual force.[NOTE: retroflex-global-distribution] That row later becomes a major piece of evidence against the racial Arya thesis.
 
@@ -104,19 +98,13 @@ Sanskrit turns these places into the horizontal axis of the grid.
 
 The *sparśa* matrix makes the grid visible.
 
-Five places run horizontally. Five kinds of effort run vertically. Every cell is filled:
+Five places run horizontally. Five kinds of effort run vertically. Every cell is filled.
 
-|  | Velar | Palatal | Retroflex | Dental | Labial |
-|---|---|---|---|---|---|
-| Voiceless, light breath | क | च | ट | त | प |
-| Voiceless, heavy breath | ख | छ | ठ | थ | फ |
-| Voiced, light breath | ग | ज | ड | द | ब |
-| Voiced, heavy breath | घ | झ | ढ | ध | भ |
-| Nasal | ङ | ञ | ण | न | म |
+![Figure 9.5 — Two Features, Twenty-Five Sounds. Voice and breath run down the left rail; place of articulation runs across the top. Velar (कवर्ग), palatal (चवर्ग), retroflex (टवर्ग), dental (तवर्ग), and labial (पवर्ग) cross voiceless/voiced and light-breath/heavy-breath rows, with a fifth nasal row closing the grid.](figures/mapping_mouth/superset_varga_matrix_feature_rails.svg){#fig:ch9-varga-matrix-feature-rails width=100%}
 
 Students often learn this as a school table. Structurally, it functions as a control panel for the mouth.
 
-![Figure 9.4 — Control-panel view of the *sparśa* matrix: five mouth-stations crossed with breath, vocal-cord vibration, and nasal release.](figures/mapping_mouth/control_panel.svg){#fig:ch9-control-panel width=100%}
+![Figure 9.6 — Control-panel view of the *sparśa* matrix: five mouth-stations crossed with breath, vocal-cord vibration, and nasal release.](figures/mapping_mouth/control_panel.svg){#fig:ch9-control-panel width=100%}
 
 The columns show where contact happens. The rows show how the mouth makes the contact. The first and second rows are voiceless: the vocal cords remain still during the stop. The third and fourth rows are voiced: the vocal cords vibrate. The light-breath rows release less breath. The heavy-breath rows release more. The fifth row opens the nasal passage.
 
@@ -227,9 +215,9 @@ The **अ, इ, उ,** and **ऋ** families each have three durations, giving ei
 
 *Atomic Sanskrit* derives this total by bringing the inherited components into one matrix. The total maps the forms that Sanskrit's analysis can distinguish. Sanskrit does not have 132 written vowels, and the count does not imply that every combination occurs in a received Vedic passage. It shows that vowel identity, duration, pitch, and nasality remain separate. A single vowel family can therefore carry several kinds of audible information without requiring a new written symbol for each combination.[NOTE: svara-nine-families-132]
 
-Figure 9.5 makes the calculation visible. Each principal square divides into an oral and a nasal half. A check marks a form selected by the architecture, while a cross marks an Excluded position.
+Figure 9.7 makes the calculation visible. Each principal square divides into an oral and a nasal half. A check marks a form selected by the architecture, while a cross marks an Excluded position.
 
-![Figure 9.5 — The Svara Form Matrix. Nine vowel families cross three durations, three pitch relations, and two nasal states. The matrix contains 162 possible half-cells; Sanskrit selects 132 and excludes thirty. The three-*mātrā pluta* group remains Restricted, while the lineage-bounded half-ए and half-ओ remain outside the regular matrix.](figures/mapping_mouth/svara_form_matrix.svg){#fig:ch9-svara-form-matrix width=100%}
+![Figure 9.7 — The Svara Form Matrix. Nine vowel families cross three durations, three pitch relations, and two nasal states. The matrix contains 162 possible half-cells; Sanskrit selects 132 and excludes thirty. The three-*mātrā pluta* group remains Restricted, while the lineage-bounded half-ए and half-ओ remain outside the regular matrix.](figures/mapping_mouth/svara_form_matrix.svg){#fig:ch9-svara-form-matrix width=100%}
 
 Pitch does not create the excluded duration positions in the table. It can accompany any duration that a family already permits. A short vowel can bear *svarita*; a *svarita* does not need two *mātrās*. Similarly, *pluta* extends duration without becoming another vowel family. Ṛgveda 10.129.5 makes the distinction audible through **आसी३त् (*āsī3t*)**, where the numeral marks the three-*mātrā* duration selected by the passage.[NOTE: vedic-pluta-rv-10-129-5]
 
@@ -245,7 +233,7 @@ The familiar fourteen-form teaching row supplies the third dimension of the form
 
 Two unassigned consonant addresses extend through those fourteen written positions, leaving 462 formal consonant-vowel addresses. A *bārahkhaḍī*-style teaching row is one fiber of this volume unrolled for the classroom: क, का, कि, की, कु, कू, कृ, कॄ, कॢ, कॣ, के, कै, को, कौ. This is a map of the complete teaching surface, not a claim that all fourteen forms occur equally often or have the same operational status.
 
-![Figure 9.6 — The Sound Volume. Markers 1 and 2 identify the two consonant grid addresses left unassigned in the independent inventory. *Upadhmānīya* remains outside the independent plane as a contextual output. The lit क fiber unrolls one consonant through the vowel axis, making *mātrā* visible as width.](figures/mapping_mouth/sound_volume.svg){#fig:ch9-sound-volume width=98%}
+![Figure 9.8 — The Sound Volume. Markers 1 and 2 identify the two consonant grid addresses left unassigned in the independent inventory. *Upadhmānīya* remains outside the independent plane as a contextual output. The lit क fiber unrolls one consonant through the vowel axis, making *mātrā* visible as width.](figures/mapping_mouth/sound_volume.svg){#fig:ch9-sound-volume width=98%}
 
 The figure makes the multiplication visible without making the argument mathematical. Sanskrit gives each selected part a place, a role, and a timed path through combination.
 
@@ -253,7 +241,7 @@ The figure makes the multiplication visible without making the argument mathemat
 
 ### The Two Excluded Positions
 
-Figure 9.6 contains two grid addresses that Sanskrit leaves unassigned in the independent *varṇamālā*. Both positions correspond to sounds that a human mouth can make. Why does Sanskrit exclude them?
+Figure 9.8 contains two grid addresses that Sanskrit leaves unassigned in the independent *varṇamālā*. Both positions correspond to sounds that a human mouth can make. Why does Sanskrit exclude them?
 
 The first unassigned address lies at the back of the mouth in the *antaḥstha* row. Modern phonetics writes the sound as **[ɰ]**, the voiced velar approximant. To approach it, begin with the voiced friction of **ग़ [ɣ]**, loosen the contact until the friction disappears, and keep the voice running. The resulting sound comes from the throat region, without the lip movement of English *w*. Sanskrit does not promote this consonant to a sonomer.
 
@@ -272,7 +260,7 @@ Both candidates are pronounceable, and the mouth can place each before the compl
 
 These four tests apply a principle that appears throughout Sanskrit's architecture: the ***Principle of Architectural Selection and Scope (PASS)***. The analysis begins with **contribution**: what would the proposed sound, form, or operation add? It then examines **load**: what duplication, collision, or instability would accompany that addition? A fixed passage, a stated junction, pitch, or another part of the architecture may provide **bounding support** that contains the load. The final step identifies the appropriate **scope**. A resource may belong to the reusable architecture, appear only under a stated condition, belong to a stated Vedic scope, remain within a named Vedic lineage, or remain excluded from an independent grid address.[NOTE: pass-selection-scope-principle]
 
-![Figure 9.7 — The Principle of Architectural Selection and Scope. The four-part analysis compares contribution with load, identifies any support that can contain the load, and establishes the appropriate scope. The two sound pairs show why physical possibility alone does not earn an independent grid address.](figures/calibration/pass_selection_and_scope.svg){#fig:ch9-pass-selection-and-scope width=100%}
+![Figure 9.9 — The Principle of Architectural Selection and Scope. The four-part analysis compares contribution with load, identifies any support that can contain the load, and establishes the appropriate scope. The two sound pairs show why physical possibility alone does not earn an independent grid address.](figures/calibration/pass_selection_and_scope.svg){#fig:ch9-pass-selection-and-scope width=100%}
 
 ### Why [ɰ] Stays Outside
 
@@ -330,9 +318,9 @@ The **अ/आ** family shows the most distinctive selection. Short **अ** is de
 
 Sanskrit selects one-*mātrā saṃvṛta* **अ** and two-*mātrā vivṛta* **आ**. That selection excludes two inverse possibilities: a two-*mātrā saṃvṛta avarṇa* that sustains the contracted quality of **अ**, and a one-*mātrā vivṛta avarṇa* that preserves the open quality associated with **आ**. The second possibility should not be called "short **आ**," because **आ** names the selected two-*mātrā* member. Both are physically possible vowel qualities; neither receives an independent reusable Sanskrit address.
 
-Figure 9.8 brings these decisions together. Sanskrit selects a particular pairing of vowel quality and duration for **अ/आ, ए,** and **ओ**. It excludes the inverse **अ/आ** pair and the generally reusable one-*mātrā* **ए/ओ** forms.
+Figure 9.10 brings these decisions together. Sanskrit selects a particular pairing of vowel quality and duration for **अ/आ, ए,** and **ओ**. It excludes the inverse **अ/आ** pair and the generally reusable one-*mātrā* **ए/ओ** forms.
 
-![Figure 9.8 — Selected and Excluded Vowel Forms. Sanskrit selects one-*mātrā saṃvṛta* अ, two-*mātrā vivṛta* आ, and the ordinary two-*mātrā* ए and ओ. Their inverse or shortened positions remain Excluded from general reuse. Half-ए and half-ओ survive only as Lineage-Bounded Sāmavedic forms.](figures/mapping_mouth/svara_selected_excluded_forms.svg){#fig:ch9-svara-selected-excluded-forms width=100%}
+![Figure 9.10 — Selected and Excluded Vowel Forms. Sanskrit selects one-*mātrā saṃvṛta* अ, two-*mātrā vivṛta* आ, and the ordinary two-*mātrā* ए and ओ. Their inverse or shortened positions remain Excluded from general reuse. Half-ए and half-ओ survive only as Lineage-Bounded Sāmavedic forms.](figures/mapping_mouth/svara_selected_excluded_forms.svg){#fig:ch9-svara-selected-excluded-forms width=100%}
 
 The analytical disciplines preserve the actual difference between spoken **अ** and **आ** while treating them as one family where an operation requires that relationship. The commentarial lineage later explains that short **अ** is treated as *vivṛta* during the vowel joining and restored to *saṃvṛta* in finished pronunciation.[NOTE: svara-avarna-operation]
 
