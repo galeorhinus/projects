@@ -92,7 +92,7 @@ a{color:var(--gold-d)}a:hover{color:var(--deep)}
    the ~44px touch-target guidelines without inflating row height. The
    link before it is flex:1, so this fixed-size box is reserved space,
    not shared with the link's own hit area. */
-.toc details.chapter-acc > summary::after{content:"▸";flex:none;display:flex;align-items:center;justify-content:center;width:1.9em;height:1.9em;margin:-0.45em -6px -0.45em 0;font-size:16px;border-radius:50%;color:var(--taupe);transition:transform .15s,background .13s,color .13s}
+.toc details.chapter-acc > summary::after{content:"▸";flex:none;display:flex;align-items:center;justify-content:center;width:1.9em;height:1.9em;margin:-0.45em -6px -0.45em 0;font-size:20px;font-weight:700;border-radius:50%;color:var(--taupe);transition:transform .15s,background .13s,color .13s}
 .toc details.chapter-acc[open] > summary::after{transform:rotate(90deg)}
 .toc details.chapter-acc > summary:hover{background:var(--sand2);border-left-color:var(--gold)}
 .toc details.chapter-acc > summary:hover::after,.toc details.chapter-acc > summary:active::after{background:var(--sand);color:var(--gold-d)}
@@ -126,8 +126,10 @@ a{color:var(--gold-d)}a:hover{color:var(--deep)}
   .book-title{font-size:29px}
   .book-subtitle{font-size:15.5px}
   /* Larger disclosure tap target on small screens, where thumb precision
-     matters most — closer to the ~44px touch-target guideline. */
-  .toc details.chapter-acc > summary::after{width:2.3em;height:2.3em;margin:-0.65em -8px -0.65em 0;font-size:18px}
+     matters most — closer to the ~44px touch-target guideline. Glyph
+     grows a bit further than the box so it stays legible at a glance,
+     not just tappable. */
+  .toc details.chapter-acc > summary::after{width:2.3em;height:2.3em;margin:-0.65em -8px -0.65em 0;font-size:23px}
 }
 </style>
 </head>
