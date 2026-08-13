@@ -9,19 +9,6 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Serif+Devanagari:wght@400;600&display=swap" rel="stylesheet">
-
-  <!-- Hypothesis annotation client — same restricted-groups pattern as
-       templates/html_chapter.html (see that file for the allowlist note).
-       Public visitors get the sidebar launcher but no group they can post
-       into; only invited reviewers already in one of these groups can
-       actually annotate. Added 2026-08-12 for the jacket-copy review round
-       — remove if the review period ends and no ongoing use remains. -->
-  <script type="application/json" class="js-hypothesis-config">
-  {
-    "groupsAllowlist": ["o8ALmjDo", "jaDkzx2r", "224Jr1Q6", "vgW3G82M", "7JvwRLgd", "QpG9pDKd"]
-  }
-  </script>
-  <script src="https://hypothes.is/embed.js" async></script>
 <style>
 /* ==========================================================
    landing.html — Atomic Sanskrit · secondshanti.org/as
@@ -69,6 +56,12 @@ h1{font-size:42px;font-weight:700;letter-spacing:-.015em;line-height:1.06;margin
 .jacket em{font-style:italic}
 .jacket strong{color:var(--ink);font-weight:700}
 .jacket p:last-child{color:var(--ink);font-weight:600}
+
+/* ---- reviewer-links (hidden unless an authorized session is detected) ---- */
+.reviewer-links-panel p{margin-top:0}
+.reviewer-links-list{list-style:none;margin:14px 0 0;padding:0;display:flex;flex-wrap:wrap;gap:10px 22px}
+.reviewer-links-list a{font-weight:700;text-decoration:none;color:var(--gold-d)}
+.reviewer-links-list a:hover{text-decoration:underline;color:var(--deep)}
 
 /* ---- start reading: card grid ---- */
 .routes-section{margin-top:60px}
@@ -135,6 +128,25 @@ footer a:hover{text-decoration:underline}
     </div>
   </section>
 
+  <!-- Reviewer-only jacket-copy alternates. Hidden by default; revealed
+       by reviewer-links.js below only for a browser with an active,
+       whitelisted oauth2-proxy session (the same login /as/book/ and
+       /as/private/ already require). The links themselves point at
+       /as/jacket-copy/*, which is independently gated server-side — this
+       reveal is a visibility nicety for casual visitors, not the actual
+       security boundary. Added 2026-08-12. -->
+  <section class="jacket-section reviewer-links" id="reviewer-links" hidden>
+    <p class="eyebrow">Reviewer preview — alternate jacket copy</p>
+    <div class="jacket reviewer-links-panel">
+      <p>Three other drafts of the copy above, open for comment.</p>
+      <ul class="reviewer-links-list">
+        <li><a href="/as/jacket-copy/statement-led/">Statement-led</a></li>
+        <li><a href="/as/jacket-copy/question-led/">Question-led</a></li>
+        <li><a href="/as/jacket-copy/website-version/">Longer website version</a></li>
+      </ul>
+    </div>
+  </section>
+
   <section class="routes-section">
     <p class="eyebrow">Start reading</p>
     <div class="routes">
@@ -161,5 +173,36 @@ footer a:hover{text-decoration:underline}
 <!--BUILD_INFO-->
   </footer>
 </div>
+
+<script>
+// Reveal reviewer-only content (the alternate-jacket-copy links, and the
+// Hypothesis annotation client) only for a browser holding an active,
+// whitelisted oauth2-proxy session — the same session /as/book/ and
+// /as/private/ already require. /oauth2/auth is oauth2-proxy's own
+// forward-auth check endpoint: 2xx for an authorized session, 401
+// otherwise, no redirect either way. A visitor who has never signed in
+// (even if their email is already whitelisted) will not see this reveal
+// until they complete Google sign-in once, e.g. by opening /as/book/.
+// Added 2026-08-12; safe to remove along with the reviewer-links section
+// above once the jacket-copy review round is settled.
+fetch('/oauth2/auth', {credentials: 'same-origin'}).then(function (r) {
+  if (!r.ok) return;
+  var links = document.getElementById('reviewer-links');
+  if (links) links.hidden = false;
+
+  var cfg = document.createElement('script');
+  cfg.type = 'application/json';
+  cfg.className = 'js-hypothesis-config';
+  cfg.textContent = JSON.stringify({
+    groupsAllowlist: ["o8ALmjDo", "jaDkzx2r", "224Jr1Q6", "vgW3G82M", "7JvwRLgd", "QpG9pDKd"]
+  });
+  document.head.appendChild(cfg);
+
+  var embed = document.createElement('script');
+  embed.src = 'https://hypothes.is/embed.js';
+  embed.async = true;
+  document.head.appendChild(embed);
+}).catch(function () {});
+</script>
 </body>
 </html>

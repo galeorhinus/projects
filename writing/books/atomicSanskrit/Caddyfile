@@ -5,8 +5,11 @@
 #   /as/essays/*    — public essay shelf.
 #   /as/private/*   — gated essay shelf (advance-reader tier).
 #   /as/book/*      — Atomic Sanskrit manuscript.
-#   Both /as/private/* and /as/book/* are gated by Google OAuth
-#   (oauth2-proxy), whitelist at /etc/oauth2-proxy/authenticated-emails.txt.
+#   /as/jacket-copy/* — gated jacket-copy review alternates (draft copy
+#   for a small reader circle, not for casual visitors).
+#   /as/private/*, /as/book/*, and /as/jacket-copy/* are all gated by
+#   Google OAuth (oauth2-proxy), whitelist at
+#   /etc/oauth2-proxy/authenticated-emails.txt.
 #   /as/request-access — public form for people without a whitelisted
 #   email yet; proxies to the loopback service in server/request_access.py.
 #   /as/invite/<slug>  — named personal invites (same service, dispatches
@@ -77,6 +80,16 @@ secondshanti.org {
 	# reviewer whitelist, and a login on one path covers the other via the
 	# shared oauth2-proxy session cookie.
 	handle /as/private/* {
+		reverse_proxy 127.0.0.1:4180 {
+			header_up -If-None-Match
+			header_up -If-Modified-Since
+		}
+	}
+
+	# /as/jacket-copy/* — gated jacket-copy review pages (added 2026-08-12).
+	# Same Google OAuth gate as /as/private/* — draft alternates the author
+	# is testing with a small circle of readers, not for casual visitors.
+	handle /as/jacket-copy/* {
 		reverse_proxy 127.0.0.1:4180 {
 			header_up -If-None-Match
 			header_up -If-Modified-Since
@@ -229,6 +242,12 @@ http://:18080 {
 		}
 	}
 	handle /as/private/* {
+		try_files {path} {path}/index.html
+		file_server {
+			index index.html
+		}
+	}
+	handle /as/jacket-copy/* {
 		try_files {path} {path}/index.html
 		file_server {
 			index index.html

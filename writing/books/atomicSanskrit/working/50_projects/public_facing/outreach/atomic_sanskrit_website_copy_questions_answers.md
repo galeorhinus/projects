@@ -20,11 +20,9 @@ The Vedas preserve more than ancient compositions. Their breadth encodes Sanskri
 
 Sanskrit therefore operates through two complementary domains. The Vedic domain preserves received content exactly. The worldly domain allows people to generate new expression. Why did the engineering require both? Why could stated grammatical rules alone never provide the same protection? Why did Esperanto drift while Sanskrit remained invariant?
 
-## What Pāṇini Actually Did
+## What, Then, Did Pāṇini Do?
 
-The familiar account says that Pāṇini codified Sanskrit. *Atomic Sanskrit* challenges that claim. The Vedas already contained the language. Earlier analysts had already separated, examined, and explained its forms. Pāṇini inherited this distributed architecture and documented its grammar with unmatched precision.
-
-He did not create Sanskrit. He did not stabilize a language that had previously drifted without structure. His achievement was decoding and documenting an engineered system that had existed for thousands of years before him.
+Pāṇini’s contribution to Sanskrit is extraordinary. The familiar codification story, however, obscures the nature of his achievement. *Atomic Sanskrit* uncovers his actual role and shows why his documentation remains unmatched.
 
 ## The Imaginary Ancestor
 

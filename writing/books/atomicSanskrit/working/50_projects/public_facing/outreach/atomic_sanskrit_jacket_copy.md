@@ -8,7 +8,9 @@ How has Sanskrit remained invariant for thousands of years while continuing to g
 
 The Vedas are central to this architecture. They preserve far more than ancient compositions. Their breadth encodes Sanskrit’s sounds, forms, and grammatical possibilities. Transmission lineages distributed across society protect every sound, word, pitch, meter, and arrangement. The Vedas therefore serve as Sanskrit’s invariant calibrant: every generation can align its language against the same preserved architecture without the need for an apex. Beyond the Vedas, Sanskrit remains open to new composition and allows later speakers to express what a changing world requires.
 
-This evidence overturns the familiar account of Sanskrit as a natural language that Pāṇini later codified. Pāṇini inherited a distributed architecture already preserved, taught, and analyzed across many lineages. He documented its grammar with unmatched precision. He did not create the grammar or fix something that had previously drifted. Sanskrit was engineered thousands of years before Pāṇini.
+**What, then, did Pāṇini do?**
+
+Pāṇini’s contribution to Sanskrit is extraordinary. The familiar codification story, however, obscures the nature of his achievement. *Atomic Sanskrit* uncovers his actual role and shows why his documentation remains unmatched.
 
 Sanskrit is classified as an Indo-European language because it shares many similarities with languages spoken across Eurasia. Western theories explain those similarities by proposing “Aryan” ancestors who spoke Proto-Indo-European and migrated into India. Atomic Sanskrit challenges the existence of both that imaginary language and those imaginary people.
 

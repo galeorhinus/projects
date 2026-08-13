@@ -8,9 +8,10 @@ How did Sanskrit remain invariant while continuing to generate new expression? W
 
 The Vedas preserve this architecture. Their breadth encodes Sanskrit's sounds, forms, and grammatical possibilities. Distributed transmission lineages protect every sound, word, pitch, meter, and arrangement. The Vedas give every generation the same invariant standard without placing a central authority above the language.
 
-This book claims that Pāṇini did not codify Sanskrit. What did he actually do? He inherited a language already preserved, taught, and analyzed across many lineages. He documented its grammar with unmatched precision. Sanskrit was engineered thousands of years before him.
+**What, then, did Pāṇini do?**
+
+Pāṇini’s contribution to Sanskrit is extraordinary. The familiar codification story, however, obscures the nature of his achievement. *Atomic Sanskrit* uncovers his actual role and shows why his documentation remains unmatched.
 
 The same evidence opens a larger challenge. Why did Esperanto begin to drift despite having an explicitly designed grammar, while Sanskrit did not? Why was the imaginary language called Proto-Indo-European placed above Sanskrit, a real language with a complete architecture? What if the similarities among Sanskrit, Greek, Latin, and other Eurasian languages came from Sanskrit moving outward rather than from an imaginary ancestor moving into India?
 
 These are not merely questions about language. *Atomic Sanskrit* asks what Sanskrit can reveal about two ways of creating order: shared alignment or control from above. It demonstrates that Sanskrit is *Saṃskṛti*, and that the same radiant, calibrant, and fractal architecture extends from sound and grammar into civilizational order.
-

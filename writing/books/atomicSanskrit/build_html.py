@@ -67,25 +67,32 @@ TEMPLATE_404 = BOOK_DIR / "templates" / "error_404.html"
 # same file the author edits for outreach use. render_landing() below
 # converts it to HTML the same way a chapter's markdown becomes a page,
 # so a jacket-copy edit + `python3 build_html.py` + deploy is the whole
-# pipeline, with no separate hardcoded copy to keep in sync.
+# pipeline, with no separate hardcoded copy to keep in sync. Set to the
+# "revelations" (Q&A-per-paragraph) variant as of 2026-08-12 — swap this
+# path to promote a different variant to default; whichever file was
+# previously here should move into JACKET_COPY_VARIANTS below so it stays
+# reachable as a reviewer alternate rather than disappearing.
 JACKET_COPY_SRC = (
     BOOK_DIR / "working" / "50_projects" / "public_facing" / "outreach"
-    / "atomic_sanskrit_jacket_copy.md"
+    / "atomic_sanskrit_jacket_copy_revelations.md"
 )
 
 # The three alternates to JACKET_COPY_SRC, reviewed 2026-08-12 against the
-# version live on the landing page. Each renders to its own unlisted page
-# under /as/jacket-copy/<slug>/ via render_jacket_copy_variant(), with
+# version live on the landing page. Each renders to its own gated page
+# under /as/jacket-copy/<slug>/ via render_jacket_copy_variant(), behind
+# the same oauth2-proxy gate as /as/private/* (see Caddyfile), with
 # Hypothesis annotation enabled (same restricted-groups allowlist as the
 # book chapters — see templates/html_essay.html) so invited readers can
-# comment directly in place. Not linked from site navigation; shared by
-# direct link only. Add/remove entries here to add/retire a variant.
+# comment directly in place. Not linked from site navigation for casual
+# visitors — the landing page reveals links to authorized sessions only
+# (see the reviewer-links script in templates/landing.html). Add/remove
+# entries here to add/retire a variant.
 _JACKET_OUTREACH_DIR = (
     BOOK_DIR / "working" / "50_projects" / "public_facing" / "outreach"
 )
 JACKET_COPY_VARIANTS = [
+    {"slug": "statement-led", "src": _JACKET_OUTREACH_DIR / "atomic_sanskrit_jacket_copy.md"},
     {"slug": "question-led", "src": _JACKET_OUTREACH_DIR / "atomic_sanskrit_jacket_copy_question_led.md"},
-    {"slug": "revelations", "src": _JACKET_OUTREACH_DIR / "atomic_sanskrit_jacket_copy_revelations.md"},
     {"slug": "website-version", "src": _JACKET_OUTREACH_DIR / "atomic_sanskrit_website_copy_questions_answers.md"},
 ]
 
