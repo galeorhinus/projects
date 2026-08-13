@@ -170,7 +170,7 @@ What survived on the rule-extraction side is one matter. What survived on the sa
 
 Pāṇini's *Aṣṭādhyāyī* added a second redundancy layer on top of that calibrant matrix. The sūtra-level rule-system made the language's structure explicit, compact, portable, recoverable, and teachable. This second layer is especially powerful for rule-trained minds — the *vyākaraṇa*-type readers for whom the rule clicks before the pattern settles. Where the Veda preserves the form as performed, the *Aṣṭādhyāyī* preserves the form as derivable. Pāṇini did not replace the Veda. He added a path suited to another kind of mind.
 
-Ordinary teaching still uses the same distinction: when a student writes, "I goed to the store yesterday," the form is wrong. While one teacher corrects by rule ("Go is irregular; its past tense is *went*"), another teacher corrects by sentence ("No—we say, **I went to the store yesterday**"). Because the first correction states the rule while the second restores the form through living use, they represent two distinct paths arriving at one correction.
+Ordinary teaching still uses the same distinction: when a student writes, "I goed to the store yesterday," the form is wrong. While one teacher corrects by rule ("Go is irregular; its past tense is *went*"), another teacher corrects by sentence ("No—we say, **I went to the store yesterday**"). Because the first correction states the rule while the second restores the form through living use, they represent two distinct paths that converge on one correction.
 
 The same correction occurs in Sanskrit. Suppose a student sees the *dhātuḥ* **⟪धा⟫ (*dhā*)** and, by false analogy with **भवति (*bhavati*)**, writes **धाति (*dhāti*)**. The form is wrong. A *vyākaraṇa*-trained reader corrects by rule: **⟪धा⟫ (*dhā*)** belongs to the third **गणः (*gaṇaḥ*)**, the **जुहोत्यादि (*juhotyādi*)** class. Pāṇini specifies the operation in *Aṣṭādhyāyī* 2.4.75: **जुहोत्यादिभ्यः श्लुः (*juhotyādibhyaḥ śluḥ*)**.[NOTE: juhotyadibhyah-shluh-dadhati] The rule suppresses the regular *vikaraṇa*, reduplicates the *dhātuḥ*, and attaches the personal ending: ⟪धा⟫ → *da-dhā* → **दधाति (*dadhāti*)**. The wrong form **धाति (*dhāti*)** drops out.
 
@@ -186,7 +186,7 @@ A *śravaṇa*-trained reader can correct by mantra. The wrong form is heard as 
 
 The student hears **दधाति (*dadhāti*)** inside the line, and the wrong form drops away. The mantra cites itself. No rule is needed.
 
-Both readers arrive at the same form. They do not depend on each other. The Veda would correct the error if the *Aṣṭādhyāyī* had never been compiled. The *Aṣṭādhyāyī* corrects the error even where the relevant Vedic line is not at hand. Two independent layers of redundancy preserve the same form, and two independent layers accommodate two kinds of mind.
+Both readers recover the same form. They do not depend on each other. The Veda would correct the error if the *Aṣṭādhyāyī* had never been compiled. The *Aṣṭādhyāyī* corrects the error even where the relevant Vedic line is not at hand. Two independent layers of redundancy preserve the same form, and two independent layers accommodate two kinds of mind.
 
 Because if the corpus is lost, the sūtra survives, and if the sūtra is lost, the corpus survives, only the loss of both degrades the language. Therefore, Sanskrit preserves both paths simultaneously.
 

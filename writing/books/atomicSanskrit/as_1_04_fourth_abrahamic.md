@@ -94,7 +94,7 @@ The first is the **progressive dogma**. It defends the time-axis: recent means a
 
 The engineered Sanskrit thesis is unacceptable inside this frame. It claims that an ancient civilization possessed an architectural sophistication the present has not surpassed: a precision-engineered language, a calibration matrix encoded in the *Vedas*, and a preservation architecture that has endured across thousands of years without observable drift. If that is true, the arrow of progress has at least one civilizational fact wrong. If it has one wrong, the rest of the sequence becomes available for re-examination.
 
-The second is the **foundational dogma**. It defends the origin-axis: engineered writing, grammar, abstraction, and civilizational form must originate in the named Western corridor — Sumerian cuneiform, Egyptian hieroglyphs, Phoenician alphabet, Greek extension, Latin inheritance — while everything outside that corridor either descends from it or arrives too late to count.
+The second is the **foundational dogma**. It defends the origin-axis: engineered writing, grammar, abstraction, and civilizational form must originate in the named Western corridor — Sumerian cuneiform, Egyptian hieroglyphs, Phoenician alphabet, Greek extension, Latin inheritance — while everything outside that corridor either descends from it or is dated too late to count.
 
 The two dogmas cooperate. A deep ancient achievement threatens the progressive dogma. An engineered achievement outside the corridor threatens the foundational dogma. An achievement that is both ancient and engineered outside the corridor threatens both at once. The *varṇamālā* is exactly that case. Brāhmī is exactly that case. Sanskrit is exactly that case.
 

@@ -19,7 +19,7 @@ The real word was moved into the cognate list, several lines down:
 
 The layout did the work. Sanskrit no longer stood at the deepest real-language end of the chain. It had been moved sideways, one sibling among many. Above every real language floated a starred form nobody had spoken. The asterisk admitted the truth. The form was reconstructed. It was procedure, not speech.
 
-I laughed before I argued. *Pie in the sky* — the phrase arrived uninvited, before any analysis. I was a mechanical engineer in the auto industry at the time, with no professional stake in comparative philology, watching from a distance as Hindu writers and activists ridiculed the racial Arya thesis. The reaction did not need defense.
+I laughed before I argued. *Pie in the sky* — I heard the phrase in my mind before any analysis. I was a mechanical engineer in the auto industry at the time, with no professional stake in comparative philology, watching from a distance as Hindu writers and activists ridiculed the racial Arya thesis. The reaction did not need defense.
 
 The laugh was correct. PIE is suspended above the data by assumption. It descends to the data only through the assumption that first lifted it there. The same data could be reconstructed under different assumptions to suspend a different construct in the same sky.
 

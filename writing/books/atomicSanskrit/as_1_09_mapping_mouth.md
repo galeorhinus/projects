@@ -88,7 +88,7 @@ The Sanskrit-only extraction lets the architecture reveal itself.[NOTE: varnamal
 
 One axis of the address grid records the place of articulation: velar, palatal, retroflex, dental, and labial. Sanskrit labels them **कण्ठ्य (*kaṇṭhya*)**, **तालव्य (*tālavya*)**, **मूर्धन्य (*mūrdhanya*)**, **दन्त्य (*dantya*)**, and **ओष्ठ्य (*oṣṭhya*)**.
 
-![Figure 9.4 — The Mouth and Its Five Stations. The palate arc names each place — kaṇṭhya, tālavya, mūrdhanya, dantya, oṣṭhya — and the text beneath each station states what the body does to produce it.](figures/mapping_mouth/superset_place_arc_columns.svg){#fig:ch9-place-arc-columns width=100%}
+![Figure 9.4 — The Mouth and Its Five Places of Articulation. The palate arc names each place — kaṇṭhya, tālavya, mūrdhanya, dantya, oṣṭhya — and the text beneath each place states what the body does to produce it.](figures/mapping_mouth/superset_place_arc_columns.svg){#fig:ch9-place-arc-columns width=100%}
 
 The order moves through the instrument. The back of the mouth opens the series. The lips close it. The retroflex band sits inside the subcontinental sound-field with unusual force.[NOTE: retroflex-global-distribution] That row later becomes a major piece of evidence against the racial Arya thesis.
 
@@ -104,18 +104,18 @@ Five places run horizontally. Five kinds of effort run vertically. Every cell is
 
 Students often learn this as a school table. Structurally, it functions as a control panel for the mouth.
 
-![Figure 9.6 — Control-panel view of the *sparśa* matrix: five mouth-stations crossed with breath, vocal-cord vibration, and nasal release.](figures/mapping_mouth/control_panel.svg){#fig:ch9-control-panel width=100%}
+![Figure 9.6 — Control-panel view of the *sparśa* matrix: five places of articulation crossed with breath, vocal-cord vibration, and nasal release.](figures/mapping_mouth/control_panel.svg){#fig:ch9-control-panel width=100%}
 
 The columns show where contact happens. The rows show how the mouth makes the contact. The first and second rows are voiceless: the vocal cords remain still during the stop. The third and fourth rows are voiced: the vocal cords vibrate. The light-breath rows release less breath. The heavy-breath rows release more. The fifth row opens the nasal passage.
 
 That is a four-control design:
 
-1. **Mouth-place** chooses the station.
+1. **Mouth-place** identifies where contact occurs.
 2. **Vocal-cord vibration** chooses voiced or voiceless.
 3. **Breath pressure** chooses light or heavy release.
 4. **Nasal coupling** opens the nasal passage.
 
-The design is compact. Five places become twenty-five contact sonomers without crowding the place-axis. Sanskrit gets twenty-five stops and nasals from five stations multiplied by independent physical controls.
+The design is compact. Five places become twenty-five contact sonomers without crowding the place-axis. Sanskrit gets twenty-five stops and nasals by crossing five places of articulation with independent physical controls.
 
 This is sound engineering.
 
@@ -136,7 +136,7 @@ English gives an easy comparison. In **pin**, the **p** often releases a small p
 
 The same is visible in everyday English compounds. Speakers can feel a burst of breath across **backhand**, **blockhead**, **crackhead**, **pighead**, **bighead**, **hitchhike**, **hedgehog**, **pothole**, **foghorn**, **like hell**, **hip-hop**, and **Grubhub**. The body can do it. Sanskrit builds a full grid from it.
 
-Mahāprāṇa is a structural feature, and it displays the design requirement the whole grid serves: distinguishability. The new contrasts arrive on an independent axis — breath — instead of crowding the place axis. The system keeps five clean stations. The result is more range with less horizontal clutter.
+*Mahāprāṇa* is a structural feature, and it displays the design requirement the whole grid serves: *distinguishability*. Breath creates the new contrasts on an independent axis instead of crowding the place axis. The system keeps five clearly separated places of articulation. The result is more range with less horizontal clutter.
 
 Sanskrit's treatment of *visarga* also expresses its wider discipline of breath. Recitation trains *prāṇa*, sound gives that breath audible form, and grammatical rules specify how its release changes at a boundary.[NOTE: mishra-breath-pedagogy]
 
@@ -225,7 +225,7 @@ Pitch does not create the excluded duration positions in the table. It can accom
 
 Once the consonant grid and the vowel durations are visible, the inventory opens into a volume.
 
-The sound plane crosses five mouth stations with seven consonant rows, creating thirty-five possible grid addresses. Sanskrit assigns thirty-three of them to independent consonants: twenty-five *sparśa*, four *antaḥstha*, and four *ūṣman*. The remaining two addresses allow us to ask what sounds the mouth could produce there, and why Sanskrit gives those sounds a different architectural role.
+The sound plane crosses five places of articulation with seven consonant rows, creating thirty-five possible grid addresses. Sanskrit assigns thirty-three of them to independent consonants: twenty-five *sparśa*, four *antaḥstha*, and four *ūṣman*. The remaining two addresses allow us to ask what sounds the mouth could produce there, and why Sanskrit gives those sounds a different architectural role.
 
 The familiar fourteen-form teaching row supplies the third dimension of the formal classroom grid:
 
@@ -340,7 +340,7 @@ This is engineering by exclusion.
 
 ## 9.11 Engineered Margin
 
-The human mouth can produce many sounds beyond the Sanskrit sonomer grid. Tamil uses an alveolar contact between the dental and retroflex stations. Sindhi uses implosives. Korku, Mundari, and Ho preserve checked or glottalized articulations in parts of their sound-systems, while contact has brought labiodental **[f]** into many modern Indian vocabularies. Human languages elsewhere use uvulars, pharyngeals, ejectives, clicks, and lateral fricatives.[NOTE: tamil-alveolar-trill][NOTE: sindhi-implosives-inventory][NOTE: ho-mundari-checked-consonants][NOTE: urdu-persian-arabic-loan-phonemes]
+The human mouth can produce many sounds beyond the Sanskrit sonomer grid. Tamil uses an alveolar contact between the dental and retroflex places of articulation. Sindhi uses implosives. Korku, Mundari, and Ho preserve checked or glottalized articulations in parts of their sound-systems, while contact has brought labiodental **[f]** into many modern Indian vocabularies. Human languages elsewhere use uvulars, pharyngeals, ejectives, clicks, and lateral fricatives.[NOTE: tamil-alveolar-trill][NOTE: sindhi-implosives-inventory][NOTE: ho-mundari-checked-consonants][NOTE: urdu-persian-arabic-loan-phonemes]
 
 Each additional independent consonant would extend through the vowel axis and create another series of *akṣaras*. It would then have to remain distinguishable in recitation, available for combination, and stable enough to survive transmission. The cost of a grid address therefore reaches far beyond one extra sound.
 

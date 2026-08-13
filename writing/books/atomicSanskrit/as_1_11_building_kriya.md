@@ -167,7 +167,7 @@ The full roster has ten classes, sorted below by what each class does to the ato
 
 Because the *gaṇaḥ* serves strictly as the operational class while the *vikaraṇa* explicitly performs the operation itself, the examples in the final column deliberately act as anchors: they clearly show exactly one familiar, visible output of each distinct operation.
 
-One pattern is worth catching before the matrix arrives: the consonant-bearing class operations reach for the same few consonants every time. *Divādi* and *curādi* use य (*ya*); *svādi*, *rudhādi*, and *kryādi* use न (*na*) — the very cluster-joining specialists binding dense atoms together (Chapter 10, Appendix 5). The architecture activates the molecule with the same bonding sonomers it used to build the atom; rather than inventing new vocabulary at the next scale, it reuses its specialists.
+One pattern is worth catching before turning to the matrix: the consonant-bearing class operations reach for the same few consonants every time. *Divādi* and *curādi* use य (*ya*); *svādi*, *rudhādi*, and *kryādi* use न (*na*) — the very cluster-joining specialists binding dense atoms together (Chapter 10, Appendix 5). The architecture activates the molecule with the same bonding sonomers it used to build the atom; rather than inventing new vocabulary at the next scale, it reuses its specialists.
 
 ## 11.5 The *Racanā-Gaṇa* Matrix
 
