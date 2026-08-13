@@ -41,7 +41,7 @@ a{color:var(--gold-d)}a:hover{color:var(--deep)}
 .sitebar details.toc-drop{position:relative}
 .sitebar details.toc-drop > summary{cursor:pointer;list-style:none;display:flex;align-items:center;gap:5px;font-size:15px;font-weight:700;color:var(--brown);padding:6px 9px;border-radius:5px;transition:background .13s,color .13s}
 .sitebar details.toc-drop > summary::-webkit-details-marker{display:none}
-.sitebar details.toc-drop > summary::after{content:"▾";font-size:11px;color:var(--taupe)}
+.sitebar details.toc-drop > summary::after{content:"▾";font-size:15px;font-weight:700;color:var(--taupe)}
 .sitebar details.toc-drop[open] > summary::after{transform:rotate(180deg)}
 .sitebar details.toc-drop > summary:hover{background:var(--sand2);color:var(--deep)}
 .sitebar details.toc-drop > ul{position:absolute;top:calc(100% + 8px);left:0;z-index:30;list-style:none;margin:0;padding:8px 0;min-width:260px;max-width:360px;max-height:70vh;overflow-y:auto;background:var(--panel);border:1px solid var(--line);border-radius:8px;box-shadow:0 18px 40px -20px rgba(40,30,10,.4)}
@@ -54,7 +54,7 @@ a{color:var(--gold-d)}a:hover{color:var(--deep)}
    neighboring chapter's title. Lets a reader move to the next/previous
    chapter without scrolling down to the full chapter-nav card. */
 .sitebar .chapter-arrows{display:flex;gap:2px}
-.sitebar .chnav{display:flex;align-items:center;justify-content:center;width:28px;height:28px;border-radius:5px;font-size:21px;line-height:1;color:var(--brown);text-decoration:none;transition:background .13s,color .13s}
+.sitebar .chnav{display:flex;align-items:center;justify-content:center;width:32px;height:32px;border-radius:5px;font-size:24px;line-height:1;color:var(--brown);text-decoration:none;transition:background .13s,color .13s}
 .sitebar .chnav:hover{background:var(--sand2);color:var(--deep)}
 
 /* ---- shell ---- */
@@ -156,8 +156,9 @@ article pre code{background:none;border:0;padding:0;font-size:15px;line-height:1
   .sitebar .in{padding:10px 38px 10px 22px;gap:7px}
   .sitebar .wm{display:none}
   .sitebar details.toc-drop > summary{font-size:14px;padding:5px 7px}
+  .sitebar details.toc-drop > summary::after{font-size:16px}
   .sitebar details.toc-drop > ul{min-width:0;width:max-content;max-width:calc(100vw - 82px)}
-  .sitebar .chnav{width:25px;height:25px;font-size:19px}
+  .sitebar .chnav{width:34px;height:34px;font-size:26px}
   .sitebar .nav{gap:12px;font-size:14.5px}
   h1.chapter-title{font-size:32.5px;margin-top:32px}
   article{font-size:19px}
