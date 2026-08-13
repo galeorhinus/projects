@@ -1066,6 +1066,99 @@ def run_pandoc_with_progress(cmd: list[str], page_interval: int = DEFAULT_PROGRE
     return ProcResult(proc.returncode, "\n".join(WARNING_LINE_RE.findall(full_output)))
 
 
+FIGURE_CAPTION_RE = re.compile(r"!\[(.*?)\]\(")
+
+
+def verify_figures_present(pdf_path: Path, md_text: str) -> None:
+    """Post-build safety net against a real, observed failure mode: pandoc's
+    per-image SVG-to-PDF conversion can silently drop a figure from a large
+    multi-hundred-page book without failing the build or printing a clear
+    error. Confirmed 2026-08-13 — the varṇamālā garland figure (Ch9) was
+    completely absent from one build (zero drawings, caption unsearchable
+    anywhere in the PDF) and fully present in the very next build from the
+    identical source and command; a stray 'LaTeX Warning: Float too large
+    for page' was the only trace pandoc surfaced.
+
+    Extracts every markdown image caption and confirms a recognizable
+    fragment of it is searchable in the rendered PDF's text layer, printing
+    a loud warning for any that aren't — rather than relying on someone
+    noticing a missing figure by eye while paging through hundreds of
+    pages.
+
+    Requires PyMuPDF (`pip install pymupdf`); skips silently, with a note,
+    when unavailable — the same graceful-degradation pattern
+    figures/_shared/text_outline.py uses for uharfbuzz/fontTools."""
+    try:
+        import fitz  # PyMuPDF
+    except ImportError:
+        print("  (skipping figure-presence check — pip install pymupdf to enable)")
+        return
+
+    captions = FIGURE_CAPTION_RE.findall(md_text)
+    if not captions:
+        return
+
+    doc = fitz.open(str(pdf_path))
+    full_text = "\n".join(page.get_text() for page in doc)
+    doc.close()
+
+    def alnum_squash(s: str) -> str:
+        # Collapses out everything but letters/digits (lowercased). LaTeX's
+        # microtype/smart-quotes machinery rewrites straight quotes to
+        # curly ones, hyphenation can insert line-break hyphens, and
+        # ligatures/dash-length can shift — none of that is a sign the
+        # figure is broken, so comparing squashed alphanumerics sidesteps
+        # the whole class of punctuation/typography false alarms at once
+        # instead of chasing each substitution individually.
+        return re.sub(r"[^a-z0-9]+", "", s.lower())
+
+    text_squashed = alnum_squash(full_text)
+
+    missing = []
+    skipped = 0
+    for caption in captions:
+        # md_text is the fully-assembled, post-wrap_scripts_for_latex source
+        # — any Devanagari in the caption is already wrapped as raw-LaTeX
+        # inline spans (`...`{=latex}), which xelatex replaces with actual
+        # glyphs at render time. Those glyphs are then usually OUTLINED to
+        # paths (figures/_shared/text_outline.py), not left as searchable
+        # text. Comparing the literal `\devanagarifont ...` source against
+        # extracted PDF text would never match even for a perfectly fine
+        # figure, so strip those spans first — the leftover plain-Latin
+        # text is what's actually reliable to check.
+        plain = re.sub(r"`[^`]*`\{=latex\}", " ", caption)
+        plain = re.sub(r"[ऀ-ॿ]+", " ", plain)  # stray unwrapped Devanagari
+        plain = re.sub(r"\*\*|\*|`", "", plain)
+        plain = re.sub(r"\s+", " ", plain).strip()
+
+        # Captions read "Figure N.M — actual description..."; the em-dash
+        # segment is the distinctive part. Require a reasonably long,
+        # mostly-alphabetic signature — a short or symbol-heavy leftover
+        # after stripping isn't a reliable enough test either way, so skip
+        # rather than risk a false alarm.
+        m = re.search(r"—\s*(.{20,60})", plain)
+        signature = m.group(1).strip() if m else plain[:40].strip()
+        letters = re.sub(r"[^A-Za-z]", "", signature)
+        if len(letters) < 15:
+            skipped += 1
+            continue
+
+        if alnum_squash(signature) not in text_squashed:
+            missing.append(caption[:80])
+
+    checked = len(captions) - skipped
+    if missing:
+        print(f"\n  WARNING: {len(missing)} of {checked} checked figure caption(s) not found "
+              f"anywhere in {pdf_path.name} — this matches a known intermittent pandoc "
+              f"SVG-conversion failure, not necessarily a problem with the source figure. "
+              f"Rebuild and recheck before assuming the figure itself is broken:")
+        for m in missing:
+            print(f"    - {m}")
+    else:
+        print(f"  Verified {checked} figure caption(s) present in {pdf_path.name}"
+              f"{f' ({skipped} skipped — signature too short/symbol-heavy to check reliably)' if skipped else ''}")
+
+
 def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full",
             progress_pages: int = DEFAULT_PROGRESS_PAGES) -> int:
     # The intermediate .md and the output PDF are both suffixed with the
@@ -1130,6 +1223,7 @@ def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full",
         print("pandoc warnings:")
         print(result.stderr[:1000])
     print(f"PDF rendered → {pdf_path.relative_to(BOOK_DIR)}")
+    verify_figures_present(pdf_path, md_path.read_text())
     return 0
 
 
