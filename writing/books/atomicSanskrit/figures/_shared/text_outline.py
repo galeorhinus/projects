@@ -684,6 +684,63 @@ def _segments_from_text_element(base_attrs: dict[str, str], inner: str) -> list[
     return segments
 
 
+_TSPAN_DY_RE = re.compile(r'<tspan\b(?P<attrs>[^>]*)>(?P<content>[^<]*)</tspan>')
+
+
+def _outline_multiline_text_element(attrs: dict[str, str], inner: str) -> str | None:
+    """Handle the `<tspan x="0" dy="...">` line-wrapping shape (each tspan
+    is one full line, `dy` accumulates the line's vertical offset from the
+    previous one) — the case `replace_with_tspans` used to skip outright.
+    Renders each line with the same per-line placement core the single-line
+    path uses, stacked at the accumulated y, then wraps the lines in one
+    outer <g> carrying the original element's transform/passthrough attrs.
+
+    Returns None if `inner` doesn't actually match the one shape this
+    handles (bare text between tspans, or a tspan missing dy) — the caller
+    then falls back to skip-and-warn rather than mis-render."""
+    tspans = list(_TSPAN_DY_RE.finditer(inner))
+    if not tspans:
+        return None
+    # Reject if there's non-whitespace text outside or between the tspans —
+    # the parser only understands "each line is its own tspan, back to back".
+    gaps = [inner[:tspans[0].start()]] + [
+        inner[a.end():b.start()] for a, b in zip(tspans, tspans[1:])
+    ] + [inner[tspans[-1].end():]]
+    if any(gap.strip() for gap in gaps):
+        return None
+    for m in tspans:
+        if "dy" not in _parse_attrs(m.group("attrs")):
+            return None
+
+    base_x = float(attrs.get("x", 0))
+    base_y = float(attrs.get("y", 0))
+    font_size = float(attrs.get("font-size", 16))
+    fill = attrs.get("fill", "#000000")
+    text_anchor = attrs.get("text-anchor", "start")
+    dominant_baseline = attrs.get("dominant-baseline", "auto")
+
+    y_cursor = base_y
+    lines = []
+    for m in tspans:
+        tspan_attrs = _parse_attrs(m.group("attrs"))
+        y_cursor += float(tspan_attrs["dy"])
+        line_x = float(tspan_attrs.get("x", base_x))
+        line_attrs = dict(attrs)
+        line_attrs["font-weight"] = tspan_attrs.get("font-weight", attrs.get("font-weight", ""))
+        line_attrs["font-style"] = tspan_attrs.get("font-style", attrs.get("font-style", ""))
+        line_attrs["font-family"] = tspan_attrs.get("font-family", attrs.get("font-family", "sans-serif"))
+        segments = _segments_from_text_element(line_attrs, m.group("content"))
+        rendered = _render_segments(
+            segments, line_x, y_cursor, font_size,
+            fill=fill, text_anchor=text_anchor, dominant_baseline=dominant_baseline,
+        )
+        if rendered:
+            lines.append(rendered)
+
+    extra_attrs = _build_passthrough_attrs(attrs)
+    return f'<g fill="{fill}"{extra_attrs}>{"".join(lines)}</g>'
+
+
 def outline_devanagari_in_svg(svg_content: str) -> tuple[str, int, list[str]]:
     """Replace every `<text>` element that needs it with an equivalent
     outlined `<g>` — either because it contains Devanagari (including ones
@@ -781,13 +838,18 @@ def outline_devanagari_in_svg(svg_content: str) -> tuple[str, int, list[str]]:
         # parser actually handles. Attempting to place dy-separated lines
         # as one horizontal run smashes them together, which is worse than
         # leaving the element untouched. Skip and flag for manual review.
-        if re.search(r'<tspan\b[^>]*\bdy\s*=', m.group("inner")):
-            warnings.append(
-                "Skipped a multi-line <text> (tspan dy=... line-wrapping) — "
-                "outline it by hand if it needs the fix: " + whole[:120] + "..."
-            )
-            return whole
         attrs = _parse_attrs(m.group("attrs"))
+        if re.search(r'<tspan\b[^>]*\bdy\s*=', m.group("inner")):
+            multiline = _outline_multiline_text_element(attrs, m.group("inner"))
+            if multiline is None:
+                warnings.append(
+                    "Skipped a multi-line <text> (tspan dy=... line-wrapping, "
+                    "shape not recognized) — outline it by hand if it needs "
+                    "the fix: " + whole[:120] + "..."
+                )
+                return whole
+            count += 1
+            return multiline
         segments = _segments_from_text_element(attrs, m.group("inner"))
         count += 1
         return _render_segments(
