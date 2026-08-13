@@ -8,7 +8,7 @@ Sanskrit did exactly that. Its architecture has remained invariant across thousa
 
 Why was such invariance necessary?
 
-The Vedas encode several foundational architectures of Sanātan. One of them is Sanskrit. Their exact transmission gives the language an invariant calibrant distributed across many lineages. No ruler, court, or centralized power, whether domestic or foreign, can seize the standard and rewrite it for everyone else. Sanskrit then uses a second, worldly domain for new composition and unbounded expression. One domain protects what must not change. The other gives every generation the freedom to describe its world.
+The Vedas encode several foundational architectures of Sanātan. One of them is Sanskrit. Their exact transmission gives the language an invariant calibrant distributed across many lineages. They were designed so that no ruler or centralized authority, whether domestic or foreign, could seize, control, or alter them. Sanskrit also operates through a second, worldly domain that remains open to new composition and unbounded expression. One domain protects what must not change. The other gives every generation the freedom to describe its world.
 
 **What, then, did Pāṇini *actually* do?**
 
