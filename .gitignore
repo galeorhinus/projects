@@ -3,3 +3,14 @@ bed-controller/build/
 ./cg-ap-esp32
 access-point-esp32
 ap-esp32
+#the next few will need to be deleted for the bed controller
+bed-controller-cpp/
+bed-controller-idf/
+connectedhomeip/
+homeyantric-shared/
+hw/
+kicad/
+mb-bed-animation-backup/
+tft-driver-test-app/
+#------
+
