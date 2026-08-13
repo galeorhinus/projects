@@ -57,6 +57,19 @@ h1{font-size:42px;font-weight:700;letter-spacing:-.015em;line-height:1.06;margin
 .jacket strong{color:var(--ink);font-weight:700}
 .jacket p:last-child{color:var(--ink);font-weight:600}
 
+/* ---- "Read the rest" — the teaser/expand split render_jacket_copy()
+   emits. Native <details>, no JS; the marker sits inline after the
+   summary text (unlike the book TOC's right-edge accordion marker —
+   this is a short standalone line, not a row sharing space with a
+   link's own tap target, so there's no competing hit-area to protect). */
+.jacket details.jacket-more{margin-top:18px}
+.jacket details.jacket-more summary{list-style:none;cursor:pointer;display:inline-flex;align-items:center;gap:6px;font-size:16px;font-weight:700;color:var(--gold-d);padding:4px 2px}
+.jacket details.jacket-more summary::-webkit-details-marker{display:none}
+.jacket details.jacket-more summary::after{content:"▾";font-size:13px;transition:transform .15s}
+.jacket details.jacket-more[open] summary::after{transform:rotate(180deg)}
+.jacket details.jacket-more summary:hover{color:var(--deep)}
+.jacket details.jacket-more[open] summary{margin-bottom:4px}
+
 /* ---- reviewer-links (hidden unless an authorized session is detected) ---- */
 .reviewer-links-panel p{margin-top:0}
 .reviewer-links-list{list-style:none;margin:14px 0 0;padding:0;display:flex;flex-wrap:wrap;gap:10px 22px}
@@ -86,12 +99,17 @@ footer a:hover{text-decoration:underline}
   .routes{grid-template-columns:1fr}
 }
 @media(max-width:560px){
+  /* .page's base 30px side padding was never overridden here, so it
+     stacked with .jacket's own padding below -- 30px + 24px = 54px of
+     dead space on each side of a ~390px phone, over a quarter of the
+     screen gone before any text starts. Fixed 2026-08-13. */
+  .page{padding:0 18px 54px}
   .masthead{padding-top:24px}
   .lockup{gap:14px}
   h1{font-size:33px}
   .byline{margin-top:14px;padding-top:11px}
   .jacket-section{margin-top:24px}
-  .jacket{padding:30px 24px}
+  .jacket{padding:24px 18px}
   .jacket p{font-size:17px}
   footer{flex-direction:column;gap:8px}
 }

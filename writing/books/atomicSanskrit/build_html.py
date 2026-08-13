@@ -780,19 +780,47 @@ def render_essay_shelf(out_dir: Path, shelf_title: str, intro_md: str,
     print(f"  rendered  /{rel.parent}/  (shelf: {shelf_title})")
 
 
+JACKET_COPY_TEASER_PARAGRAPHS = 2
+
+
 def render_jacket_copy() -> str:
     """Convert JACKET_COPY_SRC's markdown body to the <p> markup the
     landing page's .jacket div expects. Drops the leading `# ...` title
     line and blank lines; each remaining paragraph gets *italic*/**bold**
     converted via _md_inline_to_html (the same lightweight inline pass
     used elsewhere for metadata strings, not a full pandoc run — the
-    source file uses only italics, so this is sufficient)."""
+    source file uses only italics, so this is sufficient).
+
+    The first JACKET_COPY_TEASER_PARAGRAPHS paragraphs (the opening
+    question + its direct answer, for the current revelations-style
+    source) render as plain always-visible <p> tags; everything after
+    that is wrapped in a <details> so a first-time mobile visitor gets a
+    short, complete-feeling hook instead of the full ~300-word block —
+    landing.html's CSS styles the <summary> as a "Read the rest ▾"
+    control matching the site's existing accordion pattern. A source
+    short enough to fit within the teaser count alone renders with no
+    <details> at all, rather than an empty, pointless toggle."""
     raw = JACKET_COPY_SRC.read_text(encoding="utf-8")
     paragraphs = [
         line.strip() for line in raw.splitlines()
         if line.strip() and not line.lstrip().startswith("#")
     ]
-    return "\n".join(f"      <p>{_md_inline_to_html(p)}</p>" for p in paragraphs)
+    teaser = paragraphs[:JACKET_COPY_TEASER_PARAGRAPHS]
+    rest = paragraphs[JACKET_COPY_TEASER_PARAGRAPHS:]
+
+    def as_p(p: str) -> str:
+        return f"      <p>{_md_inline_to_html(p)}</p>"
+
+    html = "\n".join(as_p(p) for p in teaser)
+    if rest:
+        rest_html = "\n".join(as_p(p) for p in rest)
+        html += (
+            "\n      <details class=\"jacket-more\">\n"
+            "        <summary>Read the rest</summary>\n"
+            f"{rest_html}\n"
+            "      </details>"
+        )
+    return html
 
 
 def render_landing(build_meta: dict[str, str]) -> None:
