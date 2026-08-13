@@ -116,6 +116,17 @@ struct DigitalEffectConfig {
     uint8_t g = 0;
     uint8_t b = 0;
 };
+
+struct SweepState {
+    std::vector<uint8_t> colors;
+    std::vector<uint8_t> master_colors;
+    std::vector<uint8_t> frame_colors; // <--- NEW: Permanent scratch buffer
+    std::vector<uint8_t> last_base;
+    DigitalEffectConfig last_cfg;
+    float current_rotation_angle = 0.0f;
+    bool initialized = false;
+};
+
 enum class DigitalOutputMode {
     Solid = 0,
     Gradient,
@@ -305,7 +316,7 @@ static uint8_t light_scale_level(uint8_t value, uint8_t scale);
 static uint8_t light_percent_to_u8(uint8_t percent);
 static void update_digital_effect_cfg(const DigitalEffectConfig &cfg);
 static bool start_digital_effect_task(const DigitalEffectConfig &cfg);
-static bool run_digital_effect_once(const DigitalEffectConfig &cfg, bool reverse);
+static bool run_digital_effect_once(const DigitalEffectConfig &cfg, bool reverse, SweepState* sweep_state = nullptr);
 static void set_digital_palette_effect_colors(const std::vector<uint8_t> &colors);
 static std::string light_wiring_type_from_nvs(bool *configured_out);
 static void light_schedule_digital_state_persist();
@@ -2192,7 +2203,9 @@ static bool stop_digital_effect_task() {
     return true;
 }
 
-static bool run_digital_effect_once(const DigitalEffectConfig &cfg, bool reverse) {
+
+// Added "SweepState* sweep_state = nullptr" so it's optional for other effects
+static bool run_digital_effect_once(const DigitalEffectConfig& cfg, bool reverse, SweepState* sweep_state) {
     switch (cfg.type) {
     case DigitalEffectType::Chase:
         return addressable_led_chase_dir(cfg.r, cfg.g, cfg.b, cfg.count, cfg.steps, cfg.delay_ms, reverse);
@@ -2302,47 +2315,103 @@ static bool run_digital_effect_once(const DigitalEffectConfig &cfg, bool reverse
             }
         }
         return !s_digital_effect_stop;
-    }
+    }    
+    
     case DigitalEffectType::Sweep: {
+        if (!sweep_state) return false;
+
+        auto& colors = sweep_state->colors;
+        auto& master_colors = sweep_state->master_colors;
+        auto& frame_colors = sweep_state->frame_colors; // <--- Use persistent buffer
+        auto& last_base = sweep_state->last_base;
+        auto& last_cfg = sweep_state->last_cfg;
+        auto& current_rotation_angle = sweep_state->current_rotation_angle;
+        bool& initialized = sweep_state->initialized;
+
+        // 1. CONFIG & REBUILD LOGIC
         std::vector<uint8_t> base = copy_digital_palette_effect_colors_raw();
-        size_t color_count = base.size() / 3;
-        if (color_count < 2) return false;
-        if (cfg.count == 0) return false;
-        std::vector<HsvColor> hues = build_palette_hues(base);
-        float brightness_scale = (cfg.brightness > 100 ? 100.0f : static_cast<float>(cfg.brightness)) / 100.0f;
-        uint16_t steps = cfg.steps ? cfg.steps : cfg.count;
-        if (steps == 0 || steps > 600) steps = cfg.count;
-        float step_deg = (steps > 0) ? (360.0f / static_cast<float>(steps)) : 0.0f;
-        std::vector<uint8_t> colors = build_hue_gradient_strip(hues, cfg.count, 0.0f, brightness_scale);
-        if (colors.size() < static_cast<size_t>(cfg.count) * 3) {
-            return false;
+        
+        bool heavy_change = !initialized || 
+                            (base != last_base) || 
+                            (cfg.count != last_cfg.count) || 
+                            (cfg.steps != last_cfg.steps);
+        
+        bool light_change = (cfg.brightness != last_cfg.brightness);
+
+        if (heavy_change) {
+            size_t color_count = base.size() / 3;
+            if (color_count < 2) return false;
+            if (cfg.count == 0) return false;
+
+            std::vector<HsvColor> hues = build_palette_hues(base);
+            master_colors = build_hue_gradient_strip(hues, cfg.count, 0.0f, 1.0f);
+            
+            if (master_colors.size() < static_cast<size_t>(cfg.count) * 3) return false;
+            
+            // Pre-allocate the frame buffer ONCE to avoid malloc in the loop
+            frame_colors.resize(master_colors.size()); 
+            
+            last_base = base;
         }
-        TickType_t last_wake = xTaskGetTickCount();
-        for (uint16_t step = 0; step < steps && !s_digital_effect_stop; ++step) {
-            if (step == 0) {
-                ESP_LOGI(TAG,
-                         "Digital sweep run start count=%u steps=%u delay=%u reverse=%d hues=%u brightness=%u",
-                         cfg.count, steps, cfg.delay_ms, reverse,
-                         static_cast<unsigned>(hues.size()),
-                         static_cast<unsigned>(cfg.brightness));
+
+        if (heavy_change || light_change) {
+            colors = master_colors;
+            if (cfg.brightness < 100) {
+                uint32_t b_scale = (cfg.brightness * 255) / 100;
+                for (auto& c : colors) c = (c * b_scale) >> 8; 
             }
-            if (!addressable_led_fill_palette(colors.data(), cfg.count, cfg.count)) {
+            last_cfg = cfg;
+            initialized = true;
+        }
+
+        // 2. TIME-BASED ANIMATION
+        uint16_t total_steps = cfg.steps ? cfg.steps : cfg.count;
+        if (total_steps == 0) total_steps = cfg.count;
+        
+        float duration_ms = (float)total_steps * (float)cfg.delay_ms;
+        if (duration_ms == 0) duration_ms = 1000.0f;
+        float degrees_per_ms = 360.0f / duration_ms;
+
+        int64_t last_time_us = esp_timer_get_time();
+        
+        for (uint16_t step = 0; step < total_steps && !s_digital_effect_stop; ++step) {
+            
+            if (frame_colors.size() != colors.size()) frame_colors.resize(colors.size());
+            // raw copy (bytes)
+            memcpy(frame_colors.data(), colors.data(), colors.size());
+
+            
+            if (current_rotation_angle != 0.0f) {
+                 hue_rotate_inplace(frame_colors, current_rotation_angle);
+            }
+            
+            if (!addressable_led_fill_palette(frame_colors.data(), cfg.count, cfg.count)) {
                 return false;
             }
+
+            // B. Wait
             if (cfg.delay_ms > 0) {
-                vTaskDelayUntil(&last_wake, pdMS_TO_TICKS(cfg.delay_ms));
+                vTaskDelay(pdMS_TO_TICKS(cfg.delay_ms));
             }
-            if (!reverse) {
-                hue_rotate_inplace(colors, step_deg);
-            } else {
-                hue_rotate_inplace(colors, -step_deg);
-            }
-            if (step + 1 == steps) {
-                ESP_LOGI(TAG, "Digital sweep run done");
-            }
+
+            // C. Delta Time Logic
+            int64_t now_us = esp_timer_get_time();
+            float elapsed_ms = (float)(now_us - last_time_us) / 1000.0f;
+            last_time_us = now_us;
+
+            float move_amount = degrees_per_ms * elapsed_ms;
+
+            if (!reverse) current_rotation_angle += move_amount;
+            else current_rotation_angle -= move_amount;
+
+            while (current_rotation_angle >= 360.0f) current_rotation_angle -= 360.0f;
+            while (current_rotation_angle < 0.0f) current_rotation_angle += 360.0f;
         }
+        
         return !s_digital_effect_stop;
     }
+    
+
     default:
         break;
     }
@@ -2352,6 +2421,8 @@ static bool run_digital_effect_once(const DigitalEffectConfig &cfg, bool reverse
 static void digital_effect_task(void *pv) {
     DigitalEffectDirection lastDirection = DigitalEffectDirection::Forward;
     bool reverse = false;
+
+    SweepState sweep_state;
     while (!s_digital_effect_stop) {
         DigitalEffectConfig cfg = copy_digital_effect_cfg();
         if (cfg.direction != lastDirection) {
@@ -2359,7 +2430,7 @@ static void digital_effect_task(void *pv) {
             reverse = (lastDirection == DigitalEffectDirection::Reverse);
         }
         bool pingpong = (lastDirection == DigitalEffectDirection::PingPong);
-        run_digital_effect_once(cfg, reverse);
+        run_digital_effect_once(cfg, reverse, &sweep_state);
         if (!cfg.loop || s_digital_effect_stop) break;
         if (pingpong) {
             reverse = !reverse;
@@ -2374,7 +2445,13 @@ static bool start_digital_effect_task(const DigitalEffectConfig &cfg) {
     addressable_led_set_effect_active(true);
     update_digital_effect_cfg(cfg);
     s_digital_effect_stop = false;
-    BaseType_t ok = xTaskCreatePinnedToCore(digital_effect_task, "digital_fx", 4096, nullptr, 4, &s_digital_effect_task, 1);
+
+// --- CHANGE IS HERE ---
+    // 1. Stack: Increased to 8192 (Safety for vectors/math)
+    // 2. Priority: Increased from 4 to 15 (Beats HTTP/Logging tasks)
+    // 3. Core: Kept at 1 (App Core)
+    BaseType_t ok = xTaskCreatePinnedToCore(digital_effect_task, "digital_fx", 8192, nullptr, 15, &s_digital_effect_task, 1);
+    // ----------------------
     return ok == pdPASS;
 }
 

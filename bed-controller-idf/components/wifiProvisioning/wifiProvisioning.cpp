@@ -359,6 +359,10 @@ static void startStaConnect(const char *ssid, const char *password)
     wifi_config_t wifi_sta_config = {};
     strncpy((char *)wifi_sta_config.sta.ssid, ssid, sizeof(wifi_sta_config.sta.ssid));
     strncpy((char *)wifi_sta_config.sta.password, password, sizeof(wifi_sta_config.sta.password));
+    // Be permissive for mixed WPA2/WPA3 networks and avoid PMF-required failures.
+    wifi_sta_config.sta.threshold.authmode = WIFI_AUTH_WPA2_PSK;
+    wifi_sta_config.sta.pmf_cfg.capable = true;
+    wifi_sta_config.sta.pmf_cfg.required = false;
 
     ESP_ERROR_CHECK(esp_wifi_set_config(WIFI_IF_STA, &wifi_sta_config));
     appState.hasStoredCreds = true;
