@@ -353,14 +353,11 @@
   - 6.13 Generative Reach from Minimum + The Natural-Language Inversion
   - 6.14 Synthesis — The Eight Engineering Principles
   - 6.15 Replication — Two Reproducibility Bundles
-- **Appendix Part 7 — The Vedic Carrier**
-  - 7.1 Corpus Before Manual
+- **Appendix Part 7 — The Architecture Already in the Vedas**
+  - 7.1 The Corpus Before the Manual
   - 7.2 Three Verses — The Implicit Grammar in Operation
   - 7.3 The *Dhātu* Inventory in the Corpus
-  - 7.4 The Overreach Called Evolution
-  - 7.5 Meter, Not Loss
-  - 7.6 What Natural Drift Looks Like
-  - 7.7 The Matrix Succeeds
+  - 7.4 The Grammar Preceded the Manual
 - **Appendix Part 8 — Designed Variations Across the Two Domains**
   - 8.1 How to Read the Evidence
   - 8.2 Evidence and Coding Method
@@ -370,16 +367,13 @@
   - 8.6 Other Vedic Verbal Forms
   - 8.7 The Differences at a Glance
   - 8.8 Documented Stewardship Across Both Domains
-- **Appendix Part 9 — The Codification Story, Refuted**
-  - 9.1 The Inherited Story and Its Two Drift Claims
-  - 9.2 Circular Chronology
-  - 9.3 Three Models
-  - 9.4 Domains, Modes, and Evidence Before Pāṇini
-  - 9.5 What Actual Language Change Looks Like
-  - 9.6 A Calibration Audit
-  - 9.7 Optionality and the Mitanni Evidence
-  - 9.8 Why the Codification Story Persists
-  - 9.9 Comparison and Conclusion
+- **Appendix Part 9 — Testing the Codification Myth**
+  - 9.1 The Claim Being Tested
+  - 9.2 Chronology Built from Its Own Assumptions
+  - 9.3 What the Codification Myth Must Demonstrate
+  - 9.4 A Corpus-Wide Audit
+  - 9.5 Bounded Alternatives and an External Anchor
+  - 9.6 The Result
 - **Appendix Part 10 — Glossary**
 
 ---

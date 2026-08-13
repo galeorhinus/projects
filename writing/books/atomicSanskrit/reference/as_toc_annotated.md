@@ -52,7 +52,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 
 *How the shadow is cast: the false categories (descended, botanical, codified), the motive behind them, and the formation that operates the machinery.*
 
-**Chapter 2 — Category Theft and Āsurī Māyā** — *Names the foundational category theft. Sanskrit belongs to the* saṃskṛti *category; the dogma splits it into natural drift before Pāṇini and codification after. Exposes the botanical metaphor, the* dhātuḥ *mistranslation, and the Pāṇini-as-"codifier" move as one theft, and names the engineered / encoded / decoded / codified stack.*
+**Chapter 2 — Category Theft and Āsurī Māyā** — *Names the foundational category theft. Sanskrit belongs to the* saṃskṛti *category; the dogma splits it into natural drift before Pāṇini and the codification myth after him. Exposes the botanical metaphor, the* dhātuḥ *mistranslation, and the Pāṇini-as-"codifier" move as one theft, and names the engineered / encoded / decoded / codified stack.*
 
 - 2.1 The Category Withheld from Sanskrit — *The pyramid's three categories omit the category that describes Sanskrit: a deliberately created language with a highly generative internal architecture.*
 - 2.2 Four Language Categories — *Origin and generativity create four categories. Figure 2.1 places Natural Languages, Petrified Languages, Lexicon-Dependent Conlangs, and Generative Architectures inside one consistent classification.*
@@ -313,17 +313,17 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 
 - 6.1 The Structural Baseline · 6.2 Eight Engineering Principles · 6.3 The Generative-Reach Test · 6.4 Why The Numbers Matter · 6.5 Replication
 
-**Appendix Part 7 — The Vedic Carrier** *(drafted)* — *Demonstrates the corpus-before-manual claim: the Vedic corpus already preserves the architecture later disciplines decode. Separates meter, mode, branch, and recension from decay; shows what natural drift would look like; closes that the matrix succeeds because the corpus form preserves the grammar before any manual names it.*
+**Appendix Part 7 — The Architecture Already in the Vedas** *(drafted)* — *Places three Vedic passages before the reader and identifies the sound junctions, grammatical endings, derivations, sentence operations, and dhātavaḥ already operating before Pāṇini documented them.*
 
-- 7.1 Corpus Before Manual · 7.2 Three Verses — The Implicit Grammar in Operation · 7.3 The *Dhātu* Inventory in the Corpus · 7.4 The Overreach Called Evolution · 7.5 Meter, Not Loss · 7.6 What Natural Drift Looks Like · 7.7 The Matrix Succeeds
+- 7.1 The Corpus Before the Manual · 7.2 Three Verses — The Implicit Grammar in Operation · 7.3 The *Dhātu* Inventory in the Corpus · 7.4 The Grammar Preceded the Manual
 
 **Appendix Part 8 — Designed Variations Across the Two Domains** *(drafted)* — *Documents the technical evidence behind Chapter 16. Exact passages show how Vedic scope preserves additional sounds, pitch, duration, placements, vibhakti forms, and verbal forms. The complete figure series records 83 declensional categories, prevalence measures, evidence grades, and unresolved purposes; the leṭ analysis records both its additional range and its collisions with loṭ.*
 
 - 8.1 How to Read the Evidence · 8.2 Evidence and Coding Method · 8.3 Sounds, Accent, and Exact Recitation · 8.4 Positional Freedom and Extended Forms · 8.5 The *Leṭ–Loṭ* Collision Record · 8.6 Other Vedic Verbal Forms · 8.7 The Differences at a Glance · 8.8 Documented Stewardship Across Both Domains
 
-**Appendix Part 9 — The Codification Story, Refuted** *(drafted)* — *Direct response to the claim that Sanskrit drifted until Pāṇini codified it. Separates Vedic-internal variation from Vedic-to-*bhāṣā* difference; exposes the circular method; restores the pre-Pāṇinian decoding lineage; uses Patañjali's* siddhe śabdārthasambandhe *and* apabhraṃśa *as anchors; closes that Pāṇini decoded the language that had learned how not to melt.*
+**Appendix Part 9 — Testing the Codification Myth** *(drafted)* — *States what the codification myth would have to demonstrate, exposes chronology built from its own assumptions, and proposes a corpus-wide audit. Chapter 2 provides the language categories; Chapter 16 and Appendix Part 8 provide the two-domain analysis; this appendix tests whether the evidence shows a Pāṇinian rupture.*
 
-- 9.1 The Inherited Story and Its Two Drift Claims · 9.2 Circular Chronology · 9.3 Three Models · 9.4 Domains, Modes, and Evidence Before Pāṇini · 9.5 What Actual Language Change Looks Like · 9.6 A Calibration Audit · 9.7 Optionality and the Mitanni Evidence · 9.8 Why the Codification Story Persists · 9.9 Comparison and Conclusion
+- 9.1 The Claim Being Tested · 9.2 Chronology Built from Its Own Assumptions · 9.3 What the Codification Myth Must Demonstrate · 9.4 A Corpus-Wide Audit · 9.5 Bounded Alternatives and an External Anchor · 9.6 The Result
 
 **Appendix Part 10 — Glossary** *(drafted)* — *Reference for the book's technical vocabulary in three groups: (1) **engineering core vocabulary** (the chemistry stack, with coined compounds flagged); (2) **technical Sanskrit vocabulary**; (3) **diagnostic vocabulary** (the cluster terms). Each entry marks the term as standard, coined, or repurposed.*
 

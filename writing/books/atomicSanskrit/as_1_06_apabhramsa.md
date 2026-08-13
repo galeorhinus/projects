@@ -16,7 +16,7 @@
 
 ## 6.1 Entropy Has a Name
 
-Chapter 5 established the bond between word and meaning as *siddha*: the language receives that bond as an operating fact rather than assigning it afresh with every act of speech. Once speakers inherit an established bond, the grammatical disciplines must identify and correct the forms that break away from it.
+Chapter 5 established the bond between word and meaning as *siddha*: the language receives that bond as already established rather than assigning it afresh with every act of speech. Once speakers inherit an established bond, the grammatical disciplines must identify and correct the forms that break away from it.
 
 An authority-based system treats a deviation as disobedience because an institution has selected the standard. Sanskrit treats the same event as misalignment because its architecture supplies the standard. *Apabhraṃśa* describes that misalignment: an uttered form slips away from the established relation between word and meaning, sound and form, usage and rule.
 
@@ -78,7 +78,7 @@ The pyramid suppresses this four-way account by forcing Sanskrit into a two-stag
 
 Natural drift gives the apex a changing population to survey and administer. By selecting and fixing a prestigious form, he also creates a linguistic object that his institutions can own and enforce. Sanskrit denies him both handles because the standard remains distributed through the architecture and the people who transmit it.
 
-Sanskrit withstood entropy for thousands of years before Pāṇini and for thousands of years after him because correction never depended on his authority. He documented an architecture that was already operating, and later generations continued to apply the same internal standard.
+Sanskrit withstood entropy for thousands of years before Pāṇini and for thousands of years after him because correction never depended on his authority. He documented an architecture that Sanskrit already used, and later generations continued to apply the same internal standard.
 
 **Pyramid: correction by authority. *Sanātan*: correction by architecture.**
 
@@ -94,7 +94,7 @@ Several analytical documents explain different parts of the architecture. The *A
 
 The recitation methods provide another set of checks. The *padapāṭha* separates a continuous line into words, while *krama*, *jaṭā*, and *ghana* recombine those words under increasingly dense constraints. Because each method tests a different property, a deviation that escapes one check may become audible or structurally impossible in another.
 
-The history of the English language shows the same entropic pressure in the movement from *hlāfweard* through *laverd* and *lorde* to *Lord*. English absorbed each change into later usage, so the language moved with its speakers. Sanskrit's caretakers responded differently: they documented the tendency to fall, preserved the calibrated form, and distributed several methods for detecting a departure while transmission was still occurring.
+Natural drift can change a word's sound until the earlier form becomes unrecognizable. The history of English shows this change in the movement from *hlāfweard* through *laverd* and *lorde* to *Lord*. Drift can also leave the sound recognizable while replacing its meaning. Natural languages display both forms of change across generations. Sanskrit's caretakers responded differently: they documented the tendency to fall, preserved the calibrated form, and distributed several methods for detecting a departure while transmission was still occurring.
 
 The Vedic corpus joins **छन्दस् (*chandas*)** — metrical form — with **श्रुति (*śruti*)** — heard transmission — because a departure can enter through any speaker and at any recitation. Meter makes a changed quantity or syllable disturb a known pattern, while heard transmission places the utterance before teachers, students, senior reciters, and a community whose trained ears already know the received form. These two constraints allow the lineage to catch quiet drift during performance and correct it before another generation inherits the altered form. Poetry, recitation, meter, and lineage together form the anti-entropy architecture.
 
@@ -104,13 +104,17 @@ The Vedic corpus joins **छन्दस् (*chandas*)** — metrical form — 
 
 The pyramid turns every difference within the Vedic corpus into a chronological claim. Differences among the four Vedas, the Ṛgvedic *maṇḍalāḥ*, transmission lineages, accents, and word forms all become supposed evidence that Vedic Sanskrit changed over time.[NOTE: vedic-variation-eight-claims]
 
-The four Vedas operate as functional streams: the Ṛgveda invokes and addresses, the Yajurveda joins mantra to measured action, the Sāmaveda transforms mantra through melodic pattern, and the Atharvaveda protects, corrects, heals, and restores balance. Different Rigvedic *maṇḍalas* make metrical and compositional choices suited to different contexts, while the Saṃhitā, Brāhmaṇa, Āraṇyaka, and Upaniṣad layers preserve different kinds of instruction and inquiry.
+A few differences cannot by themselves establish an evolutionary history of Sanskrit. Mortimer Wheeler once turned a small and stratigraphically scattered collection of skeletons at Mohenjo-daro into an Aryan-invasion massacre. Later archaeological analysis dismantled that inference. Six skeletons in the most cited cluster became evidence for one massacre and then a race-replacement narrative.[NOTE: wheeler-mohenjo-daro-overreach] The pyramid performs the same enlargement when a collection of Vedic variations becomes an evolutionary history of Sanskrit.
 
-The recitational disciplines preserve variation with equal precision. *Prātiśākhya* texts document the phonetic requirements of particular lineages, those lineages keep their received forms from dissolving into one another, and operators such as **वा (*vā*)** and **विभाषा (*vibhāṣā*)** mark licensed alternatives explicitly. Vedic accent remains active in the *chandas* mode as a grammatical and interpretive layer, while the *bhāṣā* mode operates without it and uses a tighter set of forms for new laukika composition. Sanskrit therefore records the location and purpose of a variation instead of leaving it to spread without a boundary.
+The four Vedas form distinct functional streams: the Ṛgveda invokes and addresses, the Yajurveda joins mantra to measured action, the Sāmaveda transforms mantra through melodic pattern, and the Atharvaveda protects, corrects, heals, and restores balance. Different Rigvedic *maṇḍalas* make metrical and compositional choices suited to different contexts, while the Saṃhitā, Brāhmaṇa, Āraṇyaka, and Upaniṣad layers preserve different kinds of instruction and inquiry.
+
+The recitational disciplines preserve variation with equal precision. *Prātiśākhya* texts document the phonetic requirements of particular lineages, those lineages keep their received forms from dissolving into one another, and operators such as **वा (*vā*)** and **विभाषा (*vibhāṣā*)** mark licensed alternatives explicitly. Vedic accent remains active in the *chandas* mode as a grammatical and interpretive layer, while the *bhāṣā* mode omits that layer and uses a tighter set of forms for new laukika composition. Sanskrit therefore records the location and purpose of a variation instead of leaving it to spread without a boundary.
 
 The pyramid converts these functional distinctions into chronology. To establish drift, comparative philology would have to show the mechanism by which an earlier form changed into a later one; instead, it usually places the forms on a timeline and treats the timeline as proof of the change. That maneuver also supports the migration-and-borrowing account, which requires Vedic Sanskrit to change as the imaginary Aryans enter the subcontinent. Chapter 19 develops the alternative account for Vedic-Avestan parallels through *pratibimba* and outward Sanskritic radiance.
 
-**Appendix Part 7 — *The Vedic Carrier*** examines the eight drift-claims individually and tests each one against Sanskrit's documented functions, modes, recensions, options, meters, and transmission streams. Its three anchor verses also show the implicit grammar operating inside the Vedic corpus rather than appearing after it.
+Appendix Part 7 demonstrates the shared architecture through three Vedic passages. Appendix Part 8 documents the designed differences between the two domains, while Appendix Part 9 tests the codification myth against the complete architecture.
+
+**Domain is not chronology. A rule's stated boundary is not drift.**
 
 ## 6.7 Orbit and Drift
 

@@ -70,7 +70,7 @@ Figure 2.2 places examples inside the four categories and shows two ways a langu
 
 ![Figure 2.2 — Languages and Movements. The examples occupy the four categories. Vivification begins when an engineered language enters ordinary communal use and starts changing botanically. Revivification returns a petrified language to daily speech, where botanical change resumes.](figures/botanical/language2x2-list.png){#fig:ch2-language-2x2-list width=100%}
 
-**Vivification** occurs when an engineered language enters ordinary communal use and begins changing with its speakers. Esperanto illustrates that movement. **Revivification** occurs when speakers return a petrified language to daily and childhood use. Modern Hebrew provides the clearest example; Chapter 13 §13.5 follows that process, while Appendix Part 9 supplies the comparative evidence.
+**Vivification** occurs when an engineered language enters ordinary communal use and begins changing with its speakers. Esperanto illustrates that movement. **Revivification** occurs when speakers return a petrified language to daily and childhood use. Modern Hebrew provides the clearest example; Chapter 13 §13.5 follows that process.
 
 **Vivimorphosis** describes a different movement. Sanskrit itself remains inside its generative architecture while one of its engineered forms enters a natural language and acquires botanical life there. Chapter 12 §12.9 follows that movement from **शब्द (*śabda*)** through **बीज (*bīja*)** to **अपशब्द (*apaśabda*)**. Chapter 19 §19.7 explains how this movement supports the Radiance Thesis: Sanskrit forms can travel outward and then change inside the languages that receive them.
 
@@ -82,7 +82,7 @@ Esperanto began moving toward the Natural Languages quadrant when its speakers s
 
 Esperanto's *Fundamento* supplied rules. To remain engineered and generative across generations, Esperanto would also have needed something comparable in function to the Vedas. It would have needed an invariant body that encoded its architecture in use, a separate domain in which speakers could generate new expressions, and a culture committed to transmitting both. Rules can describe an architecture, but Sanskrit's two domains allow people to preserve that architecture while continuing to use it.
 
-Esperanto's purpose was equal communication across nations. Sanskrit is *saṃskṛti* in operation: the radiant, calibrant, and fractal architecture of Sanātan. **धर्म (*dharma*)** directs that architecture toward the welfare of all beings; stories preserve memories of balance, failure, and recovery; and distributed caretakers keep the Vedic calibrant available when society falls away from it. Linguistic rules and vocabulary form one layer within that sustaining order.
+Esperanto's purpose was equal communication across nations. Sanskrit expresses *saṃskṛti* through language: the radiant, calibrant, and fractal architecture of Sanātan. **धर्म (*dharma*)** directs that architecture toward the welfare of all beings; stories preserve memories of balance, failure, and recovery; and distributed caretakers keep the Vedic calibrant available when society falls away from it. Linguistic rules and vocabulary form one layer within that sustaining order.
 
 **That *purpose* has inspired millions of people across thousands of years.**
 
@@ -112,7 +112,7 @@ Sanskrit's own categories describe two domains within one architecture. The *vai
 
 > *The dogma says:* *"Vedic Sanskrit evolved into Classical Sanskrit."*
 >
-> *The Hindu continuum says:* *"Sanskrit operates across vaidika and laukika domains. The first protects the invariant Vedic corpus. The second allows people to understand existing worldly compositions and create new ones. Both use one language architecture."*
+> *The Hindu continuum says:* *"Sanskrit has vaidika and laukika domains. The first protects the invariant Vedic corpus. The second allows people to understand existing worldly compositions and create new ones. Both use one language architecture."*
 
 Chapter 16 explains why Sanskrit needs both domains and how they complement each other.
 
@@ -168,7 +168,7 @@ The word *codified* allows the *asuric machinery* to acknowledge Sanskrit's prec
 
 The sequence transfers credit for Sanskrit's order from the Vedas and the Sanskrit analytical continuum to PIE and Pāṇini. First, the botanical account makes Sanskrit a natural descendant of PIE. Next, it gives Pāṇini authority over a language whose order supposedly did not exist before he documented it. Finally, it presents *"Classical Sanskrit"* as the fixed product of his intervention. The Vedas and the Sanskrit analytical continuum disappear from this history, even though they had preserved and examined the architecture before Pāṇini.
 
-This is **heroic erasure** in grammatical form: praise the named figure so intensely that the architecture operating before him disappears. The machinery manipulates Pāṇini's achievement by praising the decoder and then teaching the civilization to remember him as codifier. The praise teaches readers to admire Pāṇini for supposedly imposing order upon Sanskrit, rather than recognizing the architecture that he decoded.
+This is **heroic erasure** in grammatical form: praise the named figure so intensely that the architecture he inherited disappears. The machinery manipulates Pāṇini's achievement by praising the decoder and then teaching the civilization to remember him as codifier. The praise teaches readers to admire Pāṇini for supposedly imposing order upon Sanskrit, rather than recognizing the architecture that he decoded.
 
 The praise teaches two audiences to accept the same false history. Hindus are taught to revere Pāṇini as the codifier instead of examining the architecture he decoded. The pyramid's students are taught that Sanskrit became precise because one documenter fixed it. Both lessons prevent readers from recognizing that Sanskrit maintained order through its own architecture and distributed caretakers. An academy, church, court, school, or state can select and enforce one approved form of a language. Pāṇini documents something different: an architecture that allows speakers and teachers to identify a correct form without depending upon one external authority.
 
@@ -178,7 +178,7 @@ The refrain is simple:
 
 The whole case turns on direction. *Codify* runs from disorder toward imposed order; *decode* runs from prior order toward explicit specification. Sanskrit's own word is ***vyākaraṇam*** (व्याकरणम्): *vi-* (वि, *apart*) + *ā-* (आ, *fully*) + ⟪कृ⟫ (*kṛ*, *to do, to make*) — *unfolding apart*. The ***vaiyākaraṇaḥ*** (वैयाकरणः) is the one who performs that unfolding. Chapter 5 lays out the analytical lineage in detail; Chapter 10 develops the penetrating *agni* decoding of **यास्क (*Yāska*)** through a detailed example.
 
-Pāṇini did not codify Sanskrit. He decoded it. His *Aṣṭādhyāyī* articulates the finest decoding of an order already operating. The asuric machinery reverses that direction and calls the reversal *codification*. Every school, textbook, and standard reference that presents Pāṇini as the creator of Sanskrit's order repeats the same category theft.
+Pāṇini did not codify Sanskrit. He decoded it. His *Aṣṭādhyāyī* articulates the finest decoding of an order Sanskrit already possessed. The asuric machinery reverses that direction and calls the reversal *codification*. Every school, textbook, and standard reference that presents Pāṇini as the creator of Sanskrit's order repeats the same category theft.
 
 ## 2.9 The Theft Made Visible
 
@@ -188,4 +188,4 @@ Patañjali had already described the difference precisely. The *vaiyākaraṇa�
 
 The botanical metaphor describes growth and decay. Sanskrit was built so that neither would define it.
 
-The tree forced *saṃskṛti* into *prakṛti* and placed the invented ancestry of PIE strictly above it. The false codification story then made the documentation of an existing architecture look like mere repair. Neither reversal was accidental. The pyramid needed both of them to preserve its story of PIE ancestry and Pāṇini's late imposition of order.
+The tree forced *saṃskṛti* into *prakṛti* and placed the invented ancestry of PIE strictly above it. The codification myth then made the documentation of an existing architecture look like mere repair. Neither reversal was accidental. The pyramid needed both of them to preserve its story of PIE ancestry and Pāṇini's late imposition of order.

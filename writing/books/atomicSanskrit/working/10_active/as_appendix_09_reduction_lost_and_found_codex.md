@@ -1,6 +1,25 @@
+# Appendix Part 9 Reduction — Lost and Found
+
+**Date:** 2026-08-13
+
+**Source:** `as_3_09_codification_story.md`
+
+**Reason:** Appendix Part 9 was drafted before Chapter 2 established the 2x2
+classification and before Chapter 16 and Appendix Part 8 developed the
+two-domain architecture. The appendix repeated those later arguments, along
+with Chapter 5's pre-Paninian analytical lineage, Chapter 14's calibration
+account, and Appendix Part 7's Vedic examples.
+
+**Disposition:** The appendix is being reduced to a focused audit of the
+codification claim. This file preserves the complete pre-reduction text. It
+therefore contains every passage removed during the reduction, including
+passages partly retained or rewritten in the new appendix.
+
+---
+
 # Appendix Part 9 — The Codification Story, Refuted
 
-The pyramid teaches a familiar sequence. Sanskrit begins as an older and less regular language called Vedic Sanskrit. Its forms change, its accent weakens, its infinitives narrow, and its subjunctive disappears. Pāṇini then enters the story, describes the language with unmatched brilliance, and supposedly “codifies” the form later called Classical Sanskrit.
+The pyramid teaches a familiar sequence. Sanskrit begins as an older and less regular language called Vedic Sanskrit. Its forms change, its accent weakens, its infinitives narrow, and its subjunctive disappears. The pyramid then credits Pāṇini with describing the language with unmatched brilliance and supposedly “codifying” the form later called Classical Sanskrit.
 
 This account allows the pyramid to praise Pāṇini while denying the architecture he documented. Sanskrit remains a natural descendant of PIE, Vedic remains an earlier stage, and the language's visible order arrives late enough to be credited to one named authority. The praise performs **heroic erasure**: it makes the documenter so large that the civilization, the corpus, and the analytical disciplines before him disappear behind his name.
 

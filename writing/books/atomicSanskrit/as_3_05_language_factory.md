@@ -18,7 +18,7 @@ It is not Japanese, not Sanskrit, not any language a linguist has catalogued. Th
 
 The baker is Schleicher. The joke is deliberate. As of this writing, Yenpro has one speaker — the author — and a documented corpus of three sentences. The line above is the third. The other two appear in §5.5.
 
-***Yenpro*** is the language's name for itself. In Sanskrit, the same word is ***yantrī*** (यन्त्री) — *the engine*, feminine, the gender most languages take in their own naming. Yenpro runs on Sanskrit's language engine: the **धातुपाठ (*dhātupāṭha*)**, the **प्रत्यय (*pratyaya*)** and **विभक्ति (*vibhakti*)** systems, the **सन्धि (*sandhi*)** rules, the declension and conjugation paradigms — all of it operating on a Japanese-substrate phoneme inventory through a fixed cipher. The surface phonemes are Japanese-set. The architecture is Sanskritic.
+***Yenpro*** is the language's name for itself. In Sanskrit, the same word is ***yantrī*** (यन्त्री) — *the engine*, feminine, the gender most languages take in their own naming. Yenpro runs on Sanskrit's language engine: the **धातुपाठ (*dhātupāṭha*)**, the **प्रत्यय (*pratyaya*)** and **विभक्ति (*vibhakti*)** systems, the **सन्धि (*sandhi*)** rules, the declension and conjugation paradigms — all of it applied to a Japanese-substrate phoneme inventory through a fixed cipher. The surface phonemes are Japanese-set. The architecture is Sanskritic.
 
 The contrast is the argument. Yenpro has three sentences, three **धातु (*dhātu*)**s, a name, and a future: ten thousand more sentences could be produced by next Tuesday. Schleicher's PIE, after a hundred and fifty years of philological labor, has the one fable he wrote down — *Avis akvāsas ka* — and a constellation of starred forms that look like grammar from the outside and generate nothing from the inside. One has the engine. The other does not.
 
@@ -30,7 +30,7 @@ The architecture is more general than word generation — and the word-factory c
 
 The stronger claim can be put to the test: take the engine, separate it from Sanskrit's own phonemes, apply it to phonemes drawn from somewhere else. If the architecture is genuinely a meta-system, it should work. If it is bound to Sanskrit's specific phonemes, it should fail.
 
-The test is run here. The substrate is Japanese. The output uses Japanese-set phonemes but operates entirely on Sanskrit's grammatical framework.
+The test is run here. The substrate is Japanese. The output uses Japanese-set phonemes but uses Sanskrit's entire grammatical framework.
 
 Appendix Part 1 prosecuted the bake demanded by the *foundational dogma* — Schleicher's manufacture of PIE without a working recipe. The demonstration here shows what working *with* a working recipe actually looks like. The construction is also a riposte.
 
@@ -69,7 +69,7 @@ The target. Three English sentences:
 
 > *The baker bakes a pie. The pie is hollow. The baker laughs alone.*
 
-The joke's satirical idiom operates openly. *Baker* represents Schleicher (Chapter 1 §1.1; Chapter 19 §19.1; Appendix Part 1), *Pie* stands for PIE, and *Hollow* exposes what PIE actually is once the bake is examined. The closing observation that *the baker laughs alone* demonstrates how a fabricator's product has no audience that can verify it from the inside.
+The joke states its satire openly. *Baker* represents Schleicher (Chapter 1 §1.1; Chapter 19 §19.1; Appendix Part 1), *Pie* stands for PIE, and *Hollow* exposes what PIE actually is once the bake is examined. The closing observation that *the baker laughs alone* demonstrates how a fabricator's product has no audience that can verify it from the inside.
 
 The Sanskrit:
 
@@ -125,7 +125,7 @@ The experiment establishes a limited result. It shows that a fixed substitution 
 
 ## 5.6 The Generative Reach
 
-Three sentences are only the floor. Once ⟪पच्⟫ (*pac*) becomes the constructed dhātu behind *kesepo*, the full Sanskrit verbal system operates on it. Each form passes through the cipher mechanically:
+Three sentences are only the floor. Once ⟪पच्⟫ (*pac*) becomes the constructed dhātu behind *kesepo*, the full Sanskrit verbal system can generate forms from it. Each form passes through the cipher mechanically:
 
 | Sanskrit | Form | After cipher | Devanagari |
 |---|---|---|---|
@@ -152,7 +152,7 @@ Three things.
 
 **Second, engineering is transferable.** Arithmetic transfers from counting apples to counting electrons. Musical notation transfers from European harmony to Indian *rāga*. Sanskrit's framework transfers from Sanskrit phonemes to Japanese phonemes. *Transferability is the signature of engineering.*
 
-**Third, Schleicher's PIE fails by contrast.** His fable operates as a text, whereas Sanskrit's engine operates as a generator. A reconstructed system can be extended by further reconstruction, but it is not preserved as a community's inherited, self-calibrating language and cannot be checked against native transmission. The Japanese-substrate construction begins from a documented engine whose operations can produce further forms on demand.
+**Third, Schleicher's PIE fails by contrast.** His fable is one text, whereas Sanskrit's engine generates new forms. A reconstructed system can be extended by further reconstruction, but it is not preserved as a community's inherited, self-calibrating language and cannot be checked against native transmission. The Japanese-substrate construction begins from a documented engine whose operations can produce further forms on demand.
 
 Schleicher produced a baked object. Sanskrit supplies the recipe.
 
@@ -166,7 +166,7 @@ By the 1860s, European philology had discussed Sanskrit in print for more than a
 
 That record establishes the architecture available within his discipline; it does not establish every Sanskrit work Schleicher personally read. His published model nevertheless made a clear choice. He organized languages as organisms on a family tree, placed PIE at the trunk, and placed Sanskrit on a branch.
 
-Growth and decay then displaced engineering and calibration as the governing categories. The metaphor described Sanskrit backwards. Schleicher's *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (1861) gave the *Stammbaumtheorie* its operational form; *Avis akvāsas ka* (1868) baked PIE into a single notebook text.
+Growth and decay then displaced engineering and calibration as the governing categories. The metaphor described Sanskrit backwards. Schleicher's *Compendium der vergleichenden Grammatik der indogermanischen Sprachen* (1861) turned the *Stammbaumtheorie* into a usable method; *Avis akvāsas ka* (1868) baked PIE into a single notebook text.
 
 This book interprets that choice through the institutional ***asuratva*** developed in Chapter 3 §§3.6–3.7. Recognizing Sanskrit as engineered would have located a foundational language architecture outside Europe and weakened the *church of progress*'s claim to civilizational precedence. The tree preserved that precedence by converting Sanskrit from architecture into descendant.
 

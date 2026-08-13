@@ -44,7 +44,7 @@ With PIE destroyed, the eclipse is broken, and the ocean's yield can return to t
 
 The same accumulated scholarship can now serve another purpose. Its correspondences and dictionaries can help researchers identify Sanskrit's atoms, trace their reflections in receiving languages, and describe how each receiving language reshaped what reached it.
 
-The epilogue follows one distinction within this story. The *devāḥ* are the operating principles of light and order — flow, circulation, radiance. The asuric action contains and withholds what should flow. **अमृत (*amṛta*)** is the un-dying.[NOTE: amrta-anti-entropy-principles]
+The epilogue follows one distinction within this story. The *devāḥ* sustain light and order through flow, circulation, and radiance. The asuric action contains and withholds what should flow. **अमृत (*amṛta*)** is the un-dying.[NOTE: amrta-anti-entropy-principles]
 
 Pour the un-dying into the principles of flow, and the system renews itself across time. Give the same endurance to the withholder, and the obstruction becomes permanent. An undying flow is a world that renews; an undying container, a permanent eclipse.
 
@@ -100,13 +100,13 @@ The nectar rises when the churn turns toward the Sun. Which side receives it dep
 
 The argument resolves into a contest between two architectures of order.
 
-The asuric architecture builds pyramids: apex authority, controlled doctrine, captured institutions, extracted labor, managed origins, and narratives that subordinate the base to the top. Its apex seats a single figure; he shares power with no one and bends the base toward himself. It operates through **तमस् (*tamas*)**: obscurity, inertia, concealment.
+The asuric architecture builds pyramids: apex authority, controlled doctrine, captured institutions, extracted labor, managed origins, and narratives that subordinate the base to the top. Its apex seats a single figure; he shares power with no one and bends the base toward himself. It uses **तमस् (*tamas*)**: obscurity, inertia, concealment.
 
-The dharmic architecture distributes authority: *apauruṣeya* text without apex-author, teacher-student lineage across generations, *śāstrārtha* before witnesses, recitation verified by audience, knowledge transmitted by discipline rather than decree. No one sits at its peak; there is no peak to sit. When *Sanātan* pictures the power that sustains such an order, it pictures **शक्ति (*Śakti*)** — and she is not enthroned. Her power is distributed, which is exactly why no apex can seize it and no patriarch can seize it. It operates through **सत्त्व (*sattva*)**: clarity, balance, illumination.
+The dharmic architecture distributes authority: *apauruṣeya* text without apex-author, teacher-student lineage across generations, *śāstrārtha* before witnesses, recitation verified by audience, knowledge transmitted by discipline rather than decree. No one sits at its peak; there is no peak to sit. When *Sanātan* pictures the power that sustains such an order, it pictures **शक्ति (*Śakti*)** — and she is not enthroned. Her power is distributed, which is exactly why no apex can seize it and no patriarch can seize it. It expresses **सत्त्व (*sattva*)**: clarity, balance, illumination.
 
 The claim is not that Sanskrit came first, because priority is not the controlling point: priority arguments accept the pyramid's own logic — first means foundational, foundational means authoritative, authoritative means control.
 
-The dharmic claim is different: *Sanātan* preserves a civilizational architecture ordered toward **लोकक्षेम (*lokakṣema*)**, the well-being of the world. Sanskrit engineering proves the architecture is real; the teacher-student lineage, that it has operated; the Rigvedic call, that it has always faced outward toward *viśvam*, the whole world.
+The dharmic claim is different: *Sanātan* preserves a civilizational architecture ordered toward **लोकक्षेम (*lokakṣema*)**, the well-being of the world. Sanskrit engineering proves the architecture is real; the teacher-student lineage proves that people have sustained it; the Rigvedic call, that it has always faced outward toward *viśvam*, the whole world.
 
 The standard is **यत् भूतहितम् अत्यन्तं तत् सत्यम् (*yat bhūta-hitam atyantaṃ tat satyam*)**[NOTE: satyam-bhutahitam-mahabharata] — that which serves the welfare of beings, fully and ultimately, is truth. *Bhūta* means living beings: not merely humans, not merely the animals humans keep close, but all life toward which dharma must remain responsible. Here **सत् (*sat*)** and *lokakṣema* meet. Truth is not domination by a doctrine. Truth is alignment with the welfare of beings.
 
@@ -122,7 +122,7 @@ The architecture is self-evident in four connected forms. Sanskrit's selected so
 
 Together they establish the larger result. The Vedas already preserve the complete language architecture that Pāṇini later documented. They are part of the engineering that keeps the language calibrated. Pāṇini stands within that continuity, and his decoding provides its finest documentation. Sanskrit retains the complete calibrant architecture, and its radiance reached several languages, including Greek and Latin. Those languages continue to preserve partial reflections of that architecture.
 
-The pyramid used false categorization as its weapon. It recast the sonomer as a letter, the *dhātuḥ* as a root, the Vedic domain as an archaic language, Pāṇini's documentation as codification, aural engineering as oral tradition, and Sanskrit as a daughter language. Once those substitutions fall away, Sanskrit becomes visible from the movement of the mouth to the civilizational order that kept the language alive.
+The pyramid used false categorization as its weapon. It recast the sonomer as a letter, the *dhātuḥ* as a root, the Vedic domain as an archaic language, Pāṇini's documentation as the codification myth, aural engineering as oral tradition, and Sanskrit as a daughter language. Once those substitutions fall away, Sanskrit becomes visible from the movement of the mouth to the civilizational order that kept the language alive.
 
 The appendices carry the deeper demonstrations. *Baking the Mother Tongue* traces PIE's manufacture through the Pune-Calcutta-Oxford-Göttingen pipeline. *The Encyclopaedic Confirmation* documents Deccan College's post-independence choice to read Sanskrit through the OED's historical principles rather than through its own analytical disciplines. *The Sonomer and the Audiograph* dismantles the Brāhmī-from-Aramaic story and restores the seventh script-category the machinery's six-way typology refuses. *The Language Factory* proves the thesis by construction: Sanskrit's architecture, run on a foreign phoneme set, generates a working language. One argument runs through all four: the asuric formation displaced the dharmic architecture from recognition and told the world the story upside down.
 
@@ -146,7 +146,7 @@ The grammar of the call asks for making, not claiming; for the world, not a trib
 
 The second half gives the obstruction: **अराव्णः (*arāvṇaḥ*)** — the *ungiving*, those who retain rather than release, the structural opposites of *liberality* in its original Latin sense (Chapter 3 §3.4's etymology). Chapter 4 §4.4 documents how the Wilson and Griffith translations of this very verse omitted *viśvam āryam* and substituted away from *arāvṇaḥ* — the philological-omission case developed earlier.
 
-The two phrases are one operation seen from two sides. To make the world *ārya*, the formations that suppress *āryatva* must be defeated. To defeat the *arāvṇaḥ* — the ungiving, those who hoard rather than release — the speaker must operate *āryatva*, not merely claim it.
+The two phrases are one operation seen from two sides. To make the world *ārya*, the formations that suppress *āryatva* must be defeated. To defeat the *arāvṇaḥ* — the ungiving, those who hoard rather than release — the speaker must embody *āryatva*, not merely claim it.
 
 The call is conditional: it cannot be made by anyone who wants the prestige without the discipline, only by those who have re-learned the architecture — the sound, the recitation, the calibrant discipline, the *vyākaraṇam*, the restraint, the conduct.
 
@@ -182,21 +182,21 @@ The mantra says the Atris found the Sun when others could not. This book belongs
 
 The work is re-learning.
 
-The work is operating *āryatva*.
+The work expresses *āryatva* through action.
 
 The work is becoming capable of uttering *kṛṇvanto viśvam āryam* truthfully.
 
-The asuric formation tried to silence the call by telling the world that *Sanātan* — that Sanskrit itself — was secondary. The preceding chapters make the opposite case: the civilization is not secondary, and the calibrant is visible and operating.
+The asuric formation tried to silence the call by telling the world that *Sanātan* — that Sanskrit itself — was secondary. The preceding chapters make the opposite case: the civilization is not secondary, and people still preserve, teach, and use the calibrant.
 
-Two *created* fractals have stood in the argument since the beginning: the pyramid and the swastika. The pyramid repeats apex authority at every scale. The swastika repeats distributed order, calibrated responsibility, and welfare without apex command. The argument has shown how the pyramid split Sanskrit into two false categories: before Pāṇini, *prakṛti* — a plant, a branch, a descendant; after Pāṇini, codification — a language frozen by grammar and fixed by rule. The true category returns. Sanskrit is *saṃskṛti*: engineered recurrence, measured sound, disciplined memory, self-correction, and architecture preserved for *bhūta-hitam*.
+Two *created* fractals have stood in the argument since the beginning: the pyramid and the swastika. The pyramid repeats apex authority at every scale. The swastika repeats distributed order, calibrated responsibility, and welfare without apex command. The argument has shown how the pyramid split Sanskrit into two false categories: before Pāṇini, *prakṛti* — a plant, a branch, a descendant; after Pāṇini, the codification myth — a language supposedly frozen by grammar and fixed by rule. The true category returns. Sanskrit is *saṃskṛti*: engineered recurrence, measured sound, disciplined memory, self-correction, and architecture preserved for *bhūta-hitam*.
 
-The pyramid tried to bury Sanskrit under nature, then to freeze it under codification, then to suspend it beneath PIE — three moves serving one motive: prevent the world from seeing a distributed calibrant architecture that needs no apex. The motive failed. Sanskrit lives. The imaginary ancestor does not.
+The pyramid tried to bury Sanskrit under nature, then to freeze it under the codification myth, then to suspend it beneath PIE — three moves serving one motive: prevent the world from seeing a distributed calibrant architecture that needs no apex. The motive failed. Sanskrit lives. The imaginary ancestor does not.
 
 The argument separated movement from creation and restored Sanskrit's architecture to view.
 
 Sanskrit's standard is restored not by authority but by re-entering calibration.
 
-Bṛhaspati had already set out the operation: Speech sifted like grain, formed by the wise with the mind, recognized among friends, and made radiant. That operation has now moved from mouth to sonomer, from sonomer to atom, from atom to molecule, and from molecule to calibrated language.
+Bṛhaspati had already described the sequence: Speech sifted like grain, formed by the wise with the mind, recognized among friends, and made radiant. That sequence has now moved from mouth to sonomer, from sonomer to atom, from atom to molecule, and from molecule to calibrated language.
 
 The final turn therefore asks Vāk herself to nourish the work:
 

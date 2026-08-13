@@ -40,7 +40,7 @@ The glossary is organized in three groups:
 
 ### **sonomeric**
 
-**Book-coined English adjective.** Built from or operating at the level of sonomers, the measured sound-particles Sanskrit calls *varṇāḥ*. The term signals Sanskrit's deeper engineering layer: before a sonomer becomes visible as an audiograph, it already exists as a measured sound-particle available to grammar.
+**Book-coined English adjective.** Built from sonomers or applied at the sonomeric level, the measured sound-particles Sanskrit calls *varṇāḥ*. The term signals Sanskrit's deeper engineering layer: before a sonomer becomes visible as an audiograph, it already exists as a measured sound-particle available to grammar.
 
 **Use in book**: Appendix Part 3 states the hierarchy directly: Sanskrit is sonomeric before it is audiographic. Chapters 10 and 11 use *sonomeric* for the construction of the *dhātuḥ* and the activation of the *kriyā*. The term also captures the continuity across scale: Sanskrit does not lose the sonomer as it builds upward from *varṇamālā* to *dhātuḥ*, from conjugation to case, from word to sentence.
 
@@ -168,7 +168,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **vyākaraṇam** (व्याकरणम्)
 
-**Standard.** Grammar; the analytical discipline. Etymology: *vi-* (apart) + *ā-* (toward) + ⟪कृ⟫ (*kṛ*, to do) — the act of *taking apart, unfolding apart*. Decomposition, not composition — the structural point the book makes against the "codification" account. Reference Yaska's *Nirukta* and the *Pāṇinian* discipline.
+**Standard.** Grammar; the analytical discipline. Etymology: *vi-* (apart) + *ā-* (toward) + ⟪कृ⟫ (*kṛ*, to do) — the act of *taking apart, unfolding apart*. Decomposition, not composition — the structural point the book makes against the codification myth. Reference Yaska's *Nirukta* and the *Pāṇinian* discipline.
 
 ### **vaiyākaraṇāḥ** (वैयाकरणाः)
 
@@ -176,7 +176,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **Aṣṭādhyāyī** (अष्टाध्यायी)
 
-**Standard, book-controlled deployment.** Pāṇini's foundational grammar — the *Eight-Chapter* treatise. The standard *vyākaraṇa* text. The dogma treats it as the codification of a previously-drifting language; the counter-category is the finest *decoding* of an architecture already engineered into the *Vedas*. Cited across Chapters 4, 6, 8, 10, and Appendix Part 9; the codified → decoded correction is central to the book's refrain (*Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest*).
+**Standard, book-controlled deployment.** Pāṇini's foundational grammar — the *Eight-Chapter* treatise. The standard *vyākaraṇa* text. The codification myth treats it as the late stabilization of a previously drifting language; the counter-category is the finest *decoding* of an architecture already engineered into the *Vedas*. Cited across Chapters 4, 6, 8, 10, and Appendix Part 9; the codified → decoded correction is central to the book's refrain (*Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest*).
 
 ### **paramparā** (परम्परा)
 
@@ -202,7 +202,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **Sanātan** (सनातन)
 
-**Standard.** The eternal / unchanging order; the civilizational continuum the book treats as the alternative architecture to the asuric pyramid. Operates as a proper noun in the book — no English partner; *Sanātan* is the term.
+**Standard.** The eternal / unchanging order; the civilizational continuum the book treats as the alternative architecture to the asuric pyramid. Used as a proper noun in the book — no English partner; *Sanātan* is the term.
 
 **Form discipline for the following triad.** *Prakṛti*, *saṃskṛti*, and *vikṛti* are nouns and category names. Their ordinary adjective forms are *prākṛtika*, *sāṃskṛtika*, and *vaikṛtika*. Established compounds such as *prakṛti-pāṭha*, *vikṛti-pāṭha*, and *prakṛti-bhāva* retain the noun. The form *prākṛta* describes what is naturally formed and also identifies a historical *Prākṛta* language or linguistic form. *Saṃskṛta* names the wholly created form and the language; *Sanskritic* is the English adjective for something pertaining to Sanskrit. When the adjective belongs to *saṃskṛti*, the form is *sāṃskṛtika*.
 
@@ -224,7 +224,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **devabhāṣā** (देवभाषा)
 
-**Standard lineage epithet, book-elevated.** *The language of the devas* — the radiant ones. The lineage-name for Sanskrit. The book treats this as more than ornament: it captures what the language *did* — radiated light outward, calibrating other languages across the depth of time. The radiative function is a descriptive claim about how Sanskrit operated upon surrounding subcontinental and Indo-European languages, not a poetic gesture. Chapter 0 §0.3 establishes; deployed as a recurring frame.
+**Standard lineage epithet, book-elevated.** *The language of the devas* — the radiant ones. The lineage-name for Sanskrit. The book treats this as more than ornament: it captures what the language *did* — radiated light outward, calibrating other languages across the depth of time. The radiative function is a descriptive claim about how Sanskrit changed surrounding subcontinental and Indo-European languages, not a poetic gesture. Chapter 0 §0.3 establishes; deployed as a recurring frame.
 
 ### **jijñāsā** (जिज्ञासा)
 
@@ -360,7 +360,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 ### **asuratva** (असुरत्व)
 
-**Standard Sanskrit + book deployment.** The quality of being an *asura*; the operating mode of an actor or institution that consolidates power through hierarchy, deceives to maintain authority, and operates by withholding light. Used as the categorical diagnostic. Chapter 4 §4.6 establishes.
+**Standard Sanskrit + book deployment.** The quality of being an *asura*; the characteristic behavior of an actor or institution that consolidates power through hierarchy, deceives to maintain authority, and withholds light. Used as the categorical diagnostic. Chapter 4 §4.6 establishes.
 
 ### **āryatva** (आर्यत्व)
 
@@ -370,27 +370,27 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 
 **Book term.** The shared premise underneath both the older invasion account and the softened migration account, defining *ārya* as race, peoplehood, or bloodline rather than discipline and achievement. While invasion and migration function merely as mechanisms inside the thesis, the thesis itself runs deeper, casting Sanskrit as transported cargo brought into the subcontinent by an external population belonging to a different race. Chapter 3 introduces the pillar; Chapter 17 refutes it at the mouth.
 
-**Use in book**: The book uses **Racial Arya Thesis (RAT)** to expose the premise beneath AIT and AMT, reinforcing that while invasion and migration operate as mechanisms, RAT stands as the foundational thesis. The full phrase remains the default in sober body prose. Avoid the acronym in solemn passages such as the Preface and Epilogue.
+**Use in book**: The book uses **Racial Arya Thesis (RAT)** to expose the premise beneath AIT and AMT, reinforcing that invasion and migration describe mechanisms while RAT supplies the foundational thesis. The full phrase remains the default in sober body prose. Avoid the acronym in solemn passages such as the Preface and Epilogue.
 
 ### **lokakṣema** (लोकक्षेम)
 
-**Standard.** The welfare of the world; the orienting goal of *Sanātan*'s architecture. Operates as a proper noun in the book's diagnostic vocabulary.
+**Standard.** The welfare of the world; the orienting goal of *Sanātan*'s architecture. Used as a proper noun in the book's diagnostic vocabulary.
 
 ### **heroic erasure**
 
-**Book-coined English.** The pyramid's tactic of praising a named figure within Sanātan or a named discipline for some surface contribution — so-called codification, documentation, transmission, adaptation — while structurally denying the engineering thesis. The praise is the mechanism of the erasure. Chapter 1 introduces the pattern; Chapter 2 §2.8 applies it to Pāṇini and the codification story; Chapters 13 and 14 redeploy it in the preservation and calibration argument.
+**Book-coined English.** The pyramid's tactic of praising a named figure within Sanātan or a named discipline for some surface contribution — so-called codification, documentation, transmission, adaptation — while structurally denying the engineering thesis. The praise is the mechanism of the erasure. Chapter 1 introduces the pattern; Chapter 2 §2.8 applies it to Pāṇini and the codification myth; Chapters 13 and 14 redeploy it in the preservation and calibration argument.
 
 ### **category theft**
 
-**Book-coined English.** The tactic that removes Sanskrit from its own category, *saṃskṛti*, and forces it into something else: *prakṛti* before Pāṇini, codification after Pāṇini.
+**Book-coined English.** The tactic that removes Sanskrit from its own category, *saṃskṛti*, and forces it into something else: *prakṛti* before Pāṇini, the codification myth after Pāṇini.
 
 ### **chronology capture**
 
 **Book-coined English.** The tactic that turns beginningless architecture into a dated object to be sequenced, ranked, delayed, interpolated, borrowed, or subordinated. Chapter 1 introduces why chronology obsession serves the apex.
 
-### **codification recoding**
+### **codification myth**
 
-**Book-coined English.** The post-Pāṇinian half of the category theft: Pāṇini's decoding of an already operating architecture is recoded as codification by external grammar.
+**Book-controlled English.** The false account in which Pāṇini imposed order on a drifting natural language and produced the form later called Classical Sanskrit. The myth recodes his decoding of an architecture Sanskrit already used as codification by authority.
 
 ### **memory recoded as mythology**
 

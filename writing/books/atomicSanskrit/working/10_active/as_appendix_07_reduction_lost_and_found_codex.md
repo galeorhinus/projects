@@ -1,3 +1,10 @@
+# Appendix Part 7 Reduction: Lost and Found
+
+**Created:** 2026-08-13  
+**Purpose:** Preserve the complete pre-reduction Appendix Part 7 so every removed passage remains available for review. The active appendix retains the unique Vedic grammar demonstration; material moved into Chapter 6 or already covered by Chapter 16, Appendix Part 8, and Appendix Part 9 remains below in its original context.
+
+---
+
 # Appendix Part 7 — The Vedic Carrier
 
 Three short Vedic passages already contain the architecture that Pāṇini later documented: specified sound junctions, case inflection, verbal endings, derivation, accent, and meter. The forms operate inside the corpus before Pāṇinian documentation explains them.
@@ -189,3 +196,4 @@ The *Vedas* encode the architecture. The *vaiyākaraṇāḥ* decode what the *V
 **Domain is not chronology. A rule's stated boundary is not drift.**
 
 **Sanskrit was never codified. It was engineered.**
+

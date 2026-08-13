@@ -134,7 +134,7 @@ The laukika domain faces greater entropic pressure because it remains generative
 
 Pāṇini articulated the existing rules found across both domains. Some rules apply broadly in Vedic Sanskrit. Others apply only in mantra, outside mantra, in Brāhmaṇa usage, in a transmitted Vedic text, or in *laukika* use. Pāṇini names those limits through markers such as *chandasi, mantre, amantre, brāhmaṇe, nigame,* and *bhāṣāyām*. His documentation helps students read and understand Vedic forms and use Sanskrit for new *laukika* composition.
 
-Nothing in the *Aṣṭādhyāyī* shows Pāṇini rewriting a Vedic passage, correcting a mantra, or converting a natural language into Sanskrit. He documented an architecture already operating in both domains. His articulation is the finest account of that architecture.
+Nothing in the *Aṣṭādhyāyī* shows Pāṇini rewriting a Vedic passage, correcting a mantra, or converting a natural language into Sanskrit. He documented an architecture that Sanskrit already used in both domains. His articulation is the finest account of that architecture.
 
 Could some grammatical variation have entered laukika usage during the thousands of years before Pāṇini inherited and documented it?
 
@@ -148,7 +148,7 @@ The Vedas did not survive because Pāṇini stabilized them. Pāṇini could doc
 
 The pyramid plays the same chronological game inside the Vedic corpus.
 
-Ask an English-speaking Hindu what वेदान्त (vedānta) means, and many will give two answers at once. They correctly recognize that the Upaniṣads form the structural culmination—the anta or philosophical end—of the Vedas. But they also assume this "end" is a chronological date, believing the texts were written centuries later in a Vedāntic period. The merger of structure and timeline into a single answer is exactly how the pyramid operates.
+Ask an English-speaking Hindu what वेदान्त (vedānta) means, and many will give two answers at once. They correctly recognize that the Upaniṣads form the structural culmination—the anta or philosophical end—of the Vedas. But they also assume this "end" is a chronological date, believing the texts were written centuries later in a Vedāntic period. The pyramid creates its chronology by merging structure and timeline into a single answer.
 
 The word ***अन्त (*anta*)*** can describe a position within an arrangement. It can also describe a culmination, purpose, or goal. Like an epilogue of a book. Neither meaning establishes when the material was composed. A structural end and a chronological end belong to different categories, and chronology requires evidence of its own.
 
@@ -174,7 +174,7 @@ The continuum understands all of this through its own conception of time — *Sa
 
 ## 0.6 A Language of Infinity
 
-The *Pūrṇam* puzzle introduced at the beginning of this chapter has only two valid answers: zero and infinity. The civilization that engineered Sanskrit did not just philosophize about these concepts; it made them the foundation of its architecture. It made them operational first in the realm of counting, and then in the structural mechanics of language.
+The *Pūrṇam* puzzle introduced at the beginning of this chapter has only two valid answers: zero and infinity. The civilization that engineered Sanskrit did not just philosophize about these concepts; it made them the foundation of its architecture. It first made them usable in the realm of counting, and then in the structural mechanics of language.
 
 Ten symbols — *0* through *9* — span all of arithmetic. Position determines the value: the *2* in *246* is *two hundred*, the *2* in *26* is *twenty*, the *2* in *2* is *two*. The idea that makes it work is *śūnya* शून्य, the mark for absence at a position. Without zero, place value collapses; with zero, ten symbols reach every number there is. The world still counts this way — the Hindu-Arabic numerals of the reference works, which the Arabic mathematical discipline received from the Indic one and took west across the medieval period.[NOTE: place-value-arabic-transmission]
 
@@ -194,7 +194,7 @@ Two systems, built on one shared pattern. Ten digits span the entirety of arithm
 
 ## 0.7 Sat, Ṛta, and the Vedic Order
 
-The Vedas act as a calibrant for both Sanskrit and *saṃskṛti*. At the linguistic level, they preserve Sanskrit’s sounds, grammatical range, and generative architecture. The grammatical continuum uses that invariant standard to calibrate Sanskrit in the changing *laukika* domain. Chapter 16 and Appendix Part 8 demonstrate how this relationship operates across the two Sanskrit domains.
+The Vedas act as a calibrant for both Sanskrit and *saṃskṛti*. At the linguistic level, they preserve Sanskrit’s sounds, grammatical range, and generative architecture. The grammatical continuum uses that invariant standard to calibrate Sanskrit in the changing *laukika* domain. Chapter 16 and Appendix Part 8 demonstrate how the Vedas calibrate the *laukika* domain while both domains retain one Sanskrit architecture.
 
 At the civilizational level, the Vedas preserve **ऋत (*ṛta*)** as the invariant trajectory of created order. People can compare actions, institutions, and systems in the changing world with that trajectory.
 
@@ -287,9 +287,9 @@ The *guru-shishya* chain provides one visible example. A *guru* transmits to a *
 
 The hearing-repetition-correction cycle is the smallest visible unit of caretaking: correction without contempt, repetition without fatigue, memory with accountability. A mother correcting a child's Gītā recitation belongs to the same civilizational pattern as a Vedic teacher correcting a student's accent. Scale differs. The duty does not.
 
-The transmission has operated continuously across the Sanskrit continuum. Nambūdiri Brahmins in Kerala recite the *Ṛgveda* today after learning it from teachers who received it through the same lineage. Recitation lineages in Maharashtra, Tamil Nadu, Banaras, Karnataka, Kashmir, Gujarat, and Rajasthan preserve comparable forms through their own teachers. Because these lineages remained geographically separated, they provide several independent points of comparison. No single lineage owns the standard; reciters can compare the preserved form across lineages and identify both shared features and *śākhā*-specific variation.
+The Sanskrit continuum has transmitted the Vedas continuously. Nambūdiri Brahmins in Kerala recite the *Ṛgveda* today after learning it from teachers who received it through the same lineage. Recitation lineages in Maharashtra, Tamil Nadu, Banaras, Karnataka, Kashmir, Gujarat, and Rajasthan preserve comparable forms through their own teachers. Because these lineages remained geographically separated, they provide several independent points of comparison. No single lineage owns the standard; reciters can compare the preserved form across lineages and identify both shared features and *śākhā*-specific variation.
 
-Performance, correction, and continuity preserve Sanskrit beyond the library. The detailed mapping appears in Chapter 15 as the *aural architecture* — the operational specification of the calibration matrix that keeps Sanskrit's phonetic constants stable across the depth of time.
+Performance, correction, and continuity preserve Sanskrit beyond the library. The detailed mapping appears in Chapter 15 as the *aural architecture* — the concrete procedures of the calibration matrix that keeps Sanskrit's phonetic constants stable across the depth of time.
 
 The recitations continue audibly today in **गुरुकुलानि (*gurukulāni*)**, temples, homes, schools, and communities across the subcontinent and the global diaspora. Teachers and students still perform the transmission that the preceding paragraphs describe. Recordings allow people outside those lineages to hear that living practice for themselves, but the recordings document a practice that remains active without them.
 

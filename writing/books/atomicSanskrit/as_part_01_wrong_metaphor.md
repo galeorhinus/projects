@@ -24,7 +24,7 @@ At the opening of Part I, the pyramid still stands whole. The first movement tar
 
 ![Figure E.5 — How the Shadow Is Cast. Three Plates: Descended, Botanical, and Codified are targeted while the full eclipse remains in place.](figures/eclipse_spine/eclipse_10_part01_shadow_cast_targets_1_2_3.svg){#fig:eclipse-part01-shadow-cast width=100%}
 
-The Sun is darkened, not destroyed. Before Pāṇini, the pyramid forces Sanskrit into **प्रकृति (*prakṛti*)**: natural growth, drift, descent, plant-organs, branches, and daughters. After Pāṇini, it forces Sanskrit into codification: grammar, authority, freezing, and standardization. Both descriptions hide the same truth: Sanskrit is **संस्कृति (*saṃskṛti*)** — created order, calibrated architecture, disciplined recurrence.
+The Sun is darkened, not destroyed. Before Pāṇini, the pyramid forces Sanskrit into **प्रकृति (*prakṛti*)**: natural growth, drift, descent, plant-organs, branches, and daughters. After Pāṇini, it invokes the codification myth: grammar, authority, freezing, and standardization. Both descriptions hide the same truth: Sanskrit is **संस्कृति (*saṃskṛti*)** — created order, calibrated architecture, disciplined recurrence.
 
 The Vedic account calls the darkener Svarbhānu, whose name contains the very radiance he covers.[NOTE: svarbhanu-svar-etymology] The asuric pyramid repeats his action by placing an obscuring category before a light it cannot extinguish. At the apex sits the one who needs order to descend from above. Sanskrit threatens him because its distributed calibration preserves knowledge more deeply than authority can command it. He can rule drift. He can own codification. He cannot command calibration.
 

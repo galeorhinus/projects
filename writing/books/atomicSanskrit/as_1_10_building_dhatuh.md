@@ -69,7 +69,7 @@ The central map is the pipeline:
 
 The physical analogy gives that map its working vocabulary. **Particles** are the smaller constituents from which atoms are built. **Atoms** are the smallest units that retain identity. **Bonds** are the mechanisms by which atoms combine into larger stable forms. **Valency** is combining capacity: the number and kind of bonds an atom can form. **Molecules** are stable structures built from bonded atoms.
 
-Chemistry operates on matter, and Sanskrit operates on measured sound. The material is different, but the architecture is the same: small stable units combine into larger forms.
+Chemistry combines units of matter, and Sanskrit combines units of measured sound. The material is different, but the architecture is the same: small stable units join into larger forms.
 
 *Varṇāḥ* enter as sonomers and fill a measured *dhāturacanā*, forming the *dhātuḥ* that will later bond into *śabda*.
 
@@ -134,7 +134,7 @@ Three layers structure the atom:
 - **Filling** — the specific *varṇāḥ* placed into the scaffold: *g-a-m*, *n-a-m*, *p-a-c*.
 - **Atom / *dhātuḥ*** — the stable semantic unit produced by the filled scaffold.
 
-In Bṛhaspati’s mantra, the wise **मनसा वाचमक्रत (*manasā vācam akrata*)** — formed Speech with the mind. This section now demonstrates the same operation at the atomic scale: selected sonomers enter measured scaffolds, and each filled scaffold becomes a semantic atom. The mantra describes the formation of Speech as a whole; the *dhātuḥ* reveals one of the semantic units from which that formed Speech is built.
+In Bṛhaspati’s mantra, the wise **मनसा वाचमक्रत (*manasā vācam akrata*)** — formed Speech with the mind. This section now demonstrates the same act of formation at the atomic scale: selected sonomers enter measured scaffolds, and each filled scaffold becomes a semantic atom. The mantra describes the formation of Speech as a whole; the *dhātuḥ* reveals one of the semantic units from which that formed Speech is built.
 
 ## 10.5 Six Tests for an Engineered Atom
 
@@ -233,7 +233,7 @@ The core meaning of a *dhātuḥ* and **वर्णशक्ति (*varṇa-ś
 
 The position called **वर्णवाद (*varṇa-vāda*)** develops this proposition. Words for flowing actions often gather around liquid and continuing sounds: **सर् (*sar*), चल् (*cal*), चर् (*car*), द्रु (*dru*), प्लु (*plu*), स्रु (*sru*),** and **क्षर् (*kṣar*)**. Actions involving abrasion, damage, diminishment, strain, endurance, and cutting gather around harder sound-shapes: **क्षय् (*kṣay*), क्षत् (*kṣat*), क्षण् (*kṣaṇ*), क्षम् (*kṣam*), क्लम् (*klam*), क्षुद् (*kṣud*),** and **क्षप् (*kṣap*)**.
 
-The Hindu continuum preserved both sides of this debate. Which position prevailed does not affect the evidence preserved by that record. The debate could exist only because both sides already understood a *dhātuḥ* as an assembly of sonomers. They disagreed about how meaning operated within that assembly; they did not mistake the *dhātuḥ* for an indivisible natural sound. The record therefore preserves the continuum's understanding that *dhātavaḥ* were engineered from sound.
+The Hindu continuum preserved both sides of this debate. Which position prevailed does not affect the evidence preserved by that record. The debate could exist only because both sides already understood a *dhātuḥ* as an assembly of sonomers. They disagreed about how that assembly carried meaning; they did not mistake the *dhātuḥ* for an indivisible natural sound. The record therefore preserves the continuum's understanding that *dhātavaḥ* were engineered from sound.
 
 The *varṇa-vāda* proposition also requires a stable sound architecture. Each sonomer must remain distinct enough to be recognized, stable enough to retain its association, and composable enough to join other sonomers inside a *dhātuḥ*. The *varṇamālā* supplies those conditions.[NOTE: varnavada-presupposes-engineering]
 
@@ -347,7 +347,7 @@ The *dhātuḥ* (धातुः) does not mutate. The *dhātuḥ* in *karoti* (
 
 ### The Engineering Name
 
-The *vyākaraṇa* discipline's term *dhātu* (धातु) — the same term operating in metallurgy, in *Rasaśāstra*, in *Āyurveda* — places the unit in the engineering category by terminological choice. The botanical mistranslation imposes decay-and-growth onto a unit the Sanskrit lineage placed in the engineering category. That is the dogma's category theft.
+The *vyākaraṇa* discipline's term *dhātu* (धातु) — the same term used in metallurgy, in *Rasaśāstra*, and in *Āyurveda* — places the unit in the engineering category by terminological choice. The botanical mistranslation imposes decay-and-growth onto a unit the Sanskrit lineage placed in the engineering category. That is the dogma's category theft.
 
 The convergence of names at two adjacent levels is itself the signal. The Sanskrit continuum calls the form-level unit ***akṣara*** (अक्षर) — the imperishable, that which does not flow away, the visible capture of a stable sound-bond, the audiograph of Appendix Part 3 — and the semantic-level unit ***dhātuḥ*** (धातुः) — the constituent constant that persists through bonding. Both names assert the same architectural property: persistence of identity through transformation. The convergence is not coincidence; it is the architecture labeling what is engineered.
 
@@ -391,7 +391,7 @@ Oṃ therefore passes the same test at the point of maximum compression. It is *
 
 ### Four Scales, One Fractal Signature
 
-The *varṇamālā* displays the same six characteristics at the sound-inventory level: compact inventory, no wasted slot, unambiguous placement, essence-bearing classes, many-facing use, and stability across operations. Anatomically, the *varṇamālā* maps the mouth. For grammatical use, Pāṇini rearranged that sonomeric architecture into an operating index for the *Aṣṭādhyāyī*. The grammatical lineage remembers this arrangement as the **माहेश्वरसूत्राणि (*Māheśvara-sūtrāṇi*)**.
+The *varṇamālā* displays the same six characteristics at the sound-inventory level: compact inventory, no wasted slot, unambiguous placement, essence-bearing classes, many-facing use, and stability across operations. Anatomically, the *varṇamālā* maps the mouth. For grammatical use, Pāṇini rearranged that sonomeric architecture into a compact index for the *Aṣṭādhyāyī*. The grammatical lineage remembers this arrangement as the **माहेश्वरसूत्राणि (*Māheśvara-sūtrāṇi*)**.
 
 Oṃ, the *varṇamālā*, the *dhātuḥ*, and the grammatical *sūtra* display the same discipline at four scales: single *akṣara*, sound inventory, atom, and rule. This recurrence is Sanskrit's fractal signature.
 

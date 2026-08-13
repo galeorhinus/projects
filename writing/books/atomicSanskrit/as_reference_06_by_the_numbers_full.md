@@ -391,7 +391,7 @@ The same matrix contains the OCP avoidance finding (§6.9's scalar) and the *mū
 **The cross-axis claim.** The *vaicitrya* signature appears at three levels of the architecture:
 
 - ***Racanā* level** — this section. 37 long-tail scaffolds preserve reach for scope the top-10 cannot stage.
-- **Morphological level** — Chapter 14 §14.3. The *chandas* mode preserves multiple infinitive endings (*-tum*, *-tavai*, *-dhyai*, *-tave*, *-tos*, *-sani*) for metrical scope; the *bhāṣā* mode keeps *-tum* standard for non-metrical scope. Appendix Part 7 traces the full morphological inventory.
+- **Morphological level** — Chapter 16 and Appendix Part 8. The Vedic domain preserves multiple infinitive endings (*-tum*, *-tavai*, *-dhyai*, *-tave*, *-tos*, *-sani*) under stated conditions, while the *laukika* domain uses *-tum* consistently in new composition. Appendix Part 8 traces the full morphological inventory.
 - **Aesthetic level** — Chapter 10 §10.9. The architecture's range across non-modal scaffolds is what makes engineering-poetry's form-meaning assignment have somewhere to settle.
 
 One engineering signature, three levels, one principle: range preserved where range does work.

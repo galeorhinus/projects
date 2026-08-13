@@ -26,7 +26,7 @@ When a *dhātuḥ* engages an operation, it becomes a **क्रियापद
 
 One test of engineering is whether a completed Sanskrit sentence can be traced back through its layers. A reader should be able to move from **वाक्यम् (*vākyam*)** to **पदम् (*padam*)**, the molecule; from the molecule to its bonds and semantic atom; and from the atom to its sonomers. The chapter calls this **recoverable assembly**.
 
-The epigraph places the **ऋचः (*ṛcaḥ*)** in the imperishable **अक्षर (*akṣara*)**, the highest heaven in which the devas are seated, and asks what someone who does not know that ground can do with the verse.[NOTE: rigveda-1-164-39-akshara-assembly] This chapter uses modern terms such as atom, molecule, and recoverable assembly to explain the hierarchy, but the hierarchy itself is already operating in the mantra. The completed *ṛc* rests upon stable units, and the following paragraphs trace its construction through those units.
+The epigraph places the **ऋचः (*ṛcaḥ*)** in the imperishable **अक्षर (*akṣara*)**, the highest heaven in which the devas are seated, and asks what someone who does not know that ground can do with the verse.[NOTE: rigveda-1-164-39-akshara-assembly] This chapter uses modern terms such as atom, molecule, and recoverable assembly to explain the hierarchy, but the mantra already builds the completed *ṛc* from stable units. The following paragraphs trace its construction through those units.
 
 The verse directs attention beneath the visible utterance to what sustains it. In the scale model used here, the supporting layer lies below the completed sentence even though the verse calls its imperishable ground the highest heaven, **परमे व्योमन् (*parame vyoman*)**.
 
@@ -96,7 +96,7 @@ The demonstration follows ⟪कृ⟫ because it makes the procedure visible. O
 
 The first bonding direction is the head-bond — the prefix. Sanskrit calls it **उपसर्गः (*upasargaḥ*)**.
 
-An *upasargaḥ* redirects the atom's action. With *kṛ*, the operation is easy to see because the atom is small and the resulting molecules are familiar.
+An *upasargaḥ* redirects the atom's action. With *kṛ*, the redirection is easy to see because the atom is small and the resulting molecules are familiar.
 
 **प्र (*pra-*)** faces forward, prior, forth. When *pra-* binds to *kṛ*, the result is **प्रकृति (*prakṛti*)**: the prior condition, nature, original formation. The molecule settles the direction into a precise conceptual place.
 
@@ -104,7 +104,7 @@ An *upasargaḥ* redirects the atom's action. With *kṛ*, the operation is easy
 
 **सम् (*sam-*)** faces together, integrated, completed, refined. When *sam-* binds to *kṛ*, it yields the family of integrated and refined forms: **संस्कृति (*saṃskṛti*)**, **संस्कार (*saṃskāra*)**, and **संस्कृत (*saṃskṛta*)**. In prose, **sam + kṛ** is useful shorthand for the semantic operation. In the actual sonomeric form, the visible **स्** in **संस्कृति** and **संस्कार** must be accounted for by the rules that build the surface molecule.[NOTE: kr-bonding-examples]
 
-Each *upasargaḥ* changes the direction in which ⟪कृ⟫ operates without changing the atom at the center: *pra-* directs it toward prior formation, *vi-* toward alteration, and *sam-* toward integrated refinement.
+Each *upasargaḥ* changes what ⟪कृ⟫ does without changing the atom at the center: *pra-* directs it toward prior formation, *vi-* toward alteration, and *sam-* toward integrated refinement.
 
 The atom remains visible through the redirection, which is what makes the molecule interpretable. The head-bond changes the direction while preserving the atom.
 
@@ -259,7 +259,7 @@ The sequence is therefore **atom → molecule → seed → organic form**. Pata�
 
 Chapter 19 §19.7 develops the worked cases: **⟪दिव्⟫ (*div*) → देवः (*devaḥ*) → Latin *deus***; **असुरः (*asuraḥ*) → Avestan *ahura***; and **सिन्धुः (*Sindhuḥ*) → Old Persian *Hinduš* → Greek *Indós* → Latin *Indus***. Each sequence begins with a form whose Sanskrit construction remains recoverable and continues with forms that acquire their own histories inside other languages.
 
-### The Four Classifications in Operation
+### The Four Classifications in Use
 
 Each of Chapter 2's four classifications responds differently when speakers need to express something new. Chapter 6 examined the entropic pressure created by those responses. The table below identifies who extends each kind of language, what guides that extension, and what changes.
 
@@ -282,7 +282,7 @@ Vivimorphosis also explains how Sanskrit's radiance enriches other languages. Sp
 
 ## 12.10 Assembly Remains Recoverable
 
-The *dhātuḥ* now stands as an atomic construction, and the atom that entered operation has become action. The next scale follows: the atom becomes *śabda*, the molecule becomes *padam*, and the *padam* integrates into the *vākya*.
+The *dhātuḥ* now stands as an atomic construction, and the activated atom has become action. The next scale follows: the atom becomes *śabda*, the molecule becomes *padam*, and the *padam* integrates into the *vākya*.
 
 The governing principle is assembly without loss. The sentence is larger than the atom, yet the atom stays recoverable inside it — and so does every layer between: the sonomers because Sanskrit's operations still work at the sonomeric level, the head-bond and tail-bond because they leave grammatical and semantic signatures, the role-ending because *vibhaktiḥ* and *tiṅ-pratyayaḥ* encode relation, number, person, and role.
 
@@ -290,6 +290,6 @@ That recoverability allows speakers to interpret, recite, correct, and calibrate
 
 At the boundary, the same recoverability allows Sanskrit to remain the calibrant even after a received form begins an organic life elsewhere. *Apabhraṃśa* describes the distance from the calibrated molecule, while vivimorphosis describes what the receiving language can grow from its seed.
 
-The scale-chain has therefore reached the operating language — sonomers have become atoms, atoms molecules, molecules role-bearing *padāni*, *padāni* *vākyāni* — and the lower levels stay visible enough for the whole structure to be preserved.
+The scale-chain has therefore reached complete language — sonomers have become atoms, atoms molecules, molecules role-bearing *padāni*, *padāni* *vākyāni* — and the lower levels stay visible enough for the whole structure to be preserved.
 
-Chapter 13 asks how such an operating language can survive across time. Chapter 14 shows how the calibration matrix preserves it.
+Chapter 13 asks how a complete language can survive across time. Chapter 14 shows how the calibration matrix preserves it.

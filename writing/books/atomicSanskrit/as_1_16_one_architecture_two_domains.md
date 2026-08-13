@@ -57,7 +57,7 @@ The shared vowel architecture provides a compact example. Both domains use the s
 
 ## 16.2 Ten Contributions, Four Architectural Functions
 
-The vaidika domain preserves a wider range of forms and operations. Some occur only within Vedic passages. Others, including pluta, meter, and certain sound operations, also appear in laukika Sanskrit but operate under different permissions. The most revealing differences include additional endings, movable upasargas, contextual sounds, pitch, and verbal forms whose meanings overlap with other lakāras.
+The vaidika domain preserves a wider range of forms and operations. Some occur only within Vedic passages. Others, including pluta, meter, and certain sound operations, also appear in laukika Sanskrit but follow different restrictions. The most revealing differences include additional endings, movable upasargas, contextual sounds, pitch, and verbal forms whose meanings overlap with other lakāras.
 
 The pyramid treats these differences as remnants of an "archaic" language. That description assumes the botanical chronology it is supposed to prove: Vedic Sanskrit was older, its irregular forms gradually disappeared, and a later language emerged in their place.
 
@@ -133,7 +133,7 @@ The additional syllable therefore performs a clear job in this passage. It compl
 
 The Veda can also select between two endings that it already preserves. Adjacent verses in Ṛgveda 3.32 use **रुद्रैः (*rudraiḥ*)** in one eleven-syllable line and **रुद्रेभिः (*rudrebhiḥ*)** in another. Both forms express the ***तृतीया बहुवचनम् (*tṛtīyā bahuvacanam*, instrumental plural)*** of **रुद्र (*rudra*)**. The first has two syllables and the second has three. Exchanging them would give one line twelve syllables and the other ten.[NOTE: vedic-akaranta-instrumental-plural-range]
 
-The Veda preserves both endings in adjacent verses and uses each to complete its metrical line. Within this passage, they operate as simultaneous choices, not as an old form being replaced by a new one. Each passage selects the ending that completes its line, while the laukika domain uses **-aiḥ** consistently when speakers create new expressions. Allowing speakers to use both endings freely in new laukika compositions would give every akārānta word two forms for the same vibhakti, number, and grammatical relation without adding meaning. The duplicate path would increase variation across unrestricted composition and give entropy another opening, while **-aiḥ** already performs the complete grammatical function. Appendix Part 8 gives the two complete passages and places this pair inside the full inventory of Vedic declensional forms.
+The Veda preserves both endings in adjacent verses and uses each to complete its metrical line. Within this passage, both remain available at the same time; one is not an old form being replaced by a new one. Each passage selects the ending that completes its line, while the laukika domain uses **-aiḥ** consistently when speakers create new expressions. Allowing speakers to use both endings freely in new laukika compositions would give every akārānta word two forms for the same vibhakti, number, and grammatical relation without adding meaning. The duplicate path would increase variation across unrestricted composition and give entropy another opening, while **-aiḥ** already performs the complete grammatical function. Appendix Part 8 gives the two complete passages and places this pair inside the full inventory of Vedic declensional forms.
 
 ### Sounds Selected for a Received Passage
 
@@ -267,7 +267,7 @@ The narrow *Laukika Only* extension in Figure 16.1 contains forms and operations
 
 A small number of forms belong specifically to *bhāṣā*. Pāṇini's documentation and the examples preserved in the *Kāśikāvṛtti* distinguish *bhāṣā* forms such as **निषण्ण (*niṣaṇṇa*)** and **सृता (*sṛtā*)** from Vedic **निषत्त (*niṣatta*)** and **सूर्त (*sūrta*)**. They similarly place **सुषुवे (*suṣuve*)** beside Vedic **ससूव (*sasūva*)**, and **सोढ्वा (*soḍhvā*)** beside Vedic **साढ्वा (*sāḍhvā*)**. **उपसेदिवान् (*upasedivān*)** supplies another form expressly documented under *bhāṣāyām*. Together, these examples account for the narrow *laukika*-only strip in Figure 16.1. Appendix Part 8 gives the grammatical record behind these contrasts.[NOTE: laukika-only-scope-examples]
 
-**चन्द्रयान (*Candrayāna*)** shows this generative ability plainly. Sanskrit joins **चन्द्र (*candra*, Moon)** and **यान (*yāna*, vehicle)** to create a molecule for a modern lunar vehicle. The same compounding architecture appears in the Vedic **पुरोहित (*purohita*)**, the person *placed in front*, but the permissions differ. The Vedic compound remains exactly where it was received; *laukika* speakers can apply the operation again whenever the world presents a new circumstance.
+**चन्द्रयान (*Candrayāna*)** shows this generative ability plainly. Sanskrit joins **चन्द्र (*candra*, Moon)** and **यान (*yāna*, vehicle)** to create a molecule for a modern lunar vehicle. The same compounding architecture appears in the Vedic **पुरोहित (*purohita*)**, the person *placed in front*, but the permissions differ. The Vedic compound remains exactly where it was received; *laukika* speakers can repeat the same joining whenever the world presents a new circumstance.
 
 A poet can use these operations to create an image that no earlier poet used. A physician can distinguish a newly observed condition. A mathematician can define a new relationship, while an astronomer can describe a new calculation. A manufacturer can specify an unfamiliar process, and a trader can name a new commodity or agreement. Their subjects, sentences, and combinations can be new while the language remains Sanskrit.
 
@@ -287,7 +287,7 @@ The Vedas preserve Sanskrit’s generative architecture, allowing future speaker
 
 Across the four Vedas and their prose extensions, the corpus preserves Sanskrit's sonomers, sound junctions, atoms, affixes, declensional forms, number, person, verbal endings, tense and mood categories, participles, infinitives, *upasargas*, compounds, and many kinds of sentence construction. These operations appear inside mantras, melodies, formulas, explanations, and dialogues rather than as entries in a textbook.
 
-The Vedas therefore encode an *implicit* language manual. They show the architecture operating across a wide range of expression. Because their passages remain unchanged, later analysts can examine them without first reconstructing what an earlier version might have contained.
+The Vedas therefore encode an *implicit* language manual. Their passages use the architecture across a wide range of expression. Because their passages remain unchanged, later analysts can examine them without first reconstructing what an earlier version might have contained.
 
 The surrounding disciplines make that implicit manual teachable. ***शिक्षा (*śikṣā*)*** explains sound and instruction. The ***प्रातिशाख्य (*Prātiśākhya*)*** texts document phonetic requirements associated with particular Vedic corpora. ***छन्दस् (*chandas*)*** examines metrical composition. ***निरुक्त (*nirukta*)*** unfolds words through their actions and formations. ***व्याकरणम् (*vyākaraṇam*)*** analyzes the operations that make Sanskrit expressions intelligible.
 
@@ -295,7 +295,7 @@ The ***वैयाकरणाः (*vaiyākaraṇāḥ*)*** documented both dom
 
 Pāṇini inherited this arrangement and documented operations found across both domains. His rules state whether a particular operation applies broadly in Vedic Sanskrit, only in mantra, in Brāhmaṇa usage, in a named text, or in *laukika* use. This documentation helps a student read and understand inherited Vedic forms and use Sanskrit for new *laukika* composition. These boundaries do not describe an old Sanskrit becoming a newer Sanskrit.
 
-Nothing in the *Aṣṭādhyāyī* shows Pāṇini rewriting a mantra, correcting the Vedic corpus, or converting a drifting natural language into Sanskrit. He documented an architecture already operating in both domains. His decoding is the finest account of that architecture, but it is neither the architecture's origin nor the source of the Vedas' stability.
+Nothing in the *Aṣṭādhyāyī* shows Pāṇini rewriting a mantra, correcting the Vedic corpus, or converting a drifting natural language into Sanskrit. He documented an architecture that Sanskrit already used in both domains. His decoding is the finest account of that architecture, but it is neither the architecture's origin nor the source of the Vedas' stability.
 
 The Vedas did not survive because Pāṇini stabilized them. Pāṇini could document Sanskrit because its architecture was already encoded and preserved within them.
 

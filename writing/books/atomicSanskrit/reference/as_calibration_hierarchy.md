@@ -1,6 +1,6 @@
 # The Calibration Hierarchy + Paired Speculations
 
-> *Standing-framework reference document. Captures **two paired speculations** for Sanskrit's origin: (a) the pyramid's speculation chain — PIE / external homeland / racial Arya thesis / substrate retroflexes / Pāṇinian codification — and (b) the dharmic continuum's alternative speculation, anchored on the calibration hierarchy: the Vedas as primary calibrant; *vaidika* and *laukika* as the broad domains; and the Aṣṭādhyāyī as the working calibrant and the finest surviving documentation of Sanskrit's operational scopes. Originated in working conversation 2026-05-19 (Parag) with vocabulary + claim-boundary corrections from Codex review (same day). This document is the reference source-of-truth; chapter prose, the Claims, and CLAUDE.md point back here.*
+> *Standing-framework reference document. Captures **two paired speculations** for Sanskrit's origin: (a) the pyramid's speculation chain — PIE / external homeland / racial Arya thesis / substrate retroflexes / Pāṇinian codification myth — and (b) the dharmic continuum's alternative speculation, anchored on the calibration hierarchy: the Vedas as primary calibrant; *vaidika* and *laukika* as the broad domains; and the Aṣṭādhyāyī as the working calibrant and the finest surviving documentation of Sanskrit's operational scopes. Originated in working conversation 2026-05-19 (Parag) with vocabulary + claim-boundary corrections from Codex review (same day). This document is the reference source-of-truth; chapter prose, the Claims, and CLAUDE.md point back here.*
 
 ---
 
@@ -56,7 +56,7 @@ Codex review (2026-05-19) drafted a 12-point compression of the pyramid's specul
 > 8. When the Vedic preservation system showed extraordinary stability, the pyramid treated that stability as late conservatism, not as evidence of engineered anti-entropy from the beginning.
 > 9. When Pāṇini documented an already-functioning architecture, the pyramid called it codification, moving engineering credit from anonymous architects and the Vedic encoding into a later named documenter.
 > 10. When the Sanskrit continuum preserved its own account — *saṃskṛtam*, *śruti*, *apauruṣeya*, *vyākaraṇam*, *vaidika*, *laukika* — the pyramid treated those categories as belief, not evidence.
-> 11. The result is a complete speculative chain: imaginary PIE, external homeland, racial Arya thesis, substrate-borrowed retroflexes, evolving Vedic Sanskrit, Pāṇinian codification, Classical Sanskrit as late standardization.
+> 11. The result is a complete speculative chain: imaginary PIE, external homeland, racial Arya thesis, substrate-borrowed retroflexes, evolving Vedic Sanskrit, Pāṇinian codification myth, Classical Sanskrit as late standardization.
 > 12. Every link in the chain is required because the first assumption must be preserved: Sanskrit cannot be the engineered calibrant at the center. It must be one daughter language among many.
 
 **Voice/book revisions applied for the deployed version** (in Chapter 1 §1.1):
@@ -65,7 +65,7 @@ Codex review (2026-05-19) drafted a 12-point compression of the pyramid's specul
 - Point 6: *racial Arya thesis* introduced as the shared premise beneath the pyramid's invasion and migration mechanisms.
 - Point 7: *mūrdhanya* + *āryatva* anchored to Chapter 17; the *disproof* lands as one sentence (migrants unable to produce retroflexes could not have engineered a language requiring them).
 - Point 9 (in deployed version): the *heroic erasure* standing term (Chapter 1 §1.6, Chapter 13 §13.3) is named by reference.
-- Points 8, 9, 10, 11: the pyramid's namings scare-quoted (*"late conservatism," "codification," "evolving Vedic Sanskrit," "Pāṇinian codification," "Classical Sanskrit as late standardization"*) to make the attribution visible.
+- Points 8, 9, 10, 11: the pyramid's namings identified as such (*"late conservatism," the codification myth, "evolving Vedic Sanskrit," "Classical Sanskrit as late standardization"*) to make the attribution visible.
 - New Point 10 / Point 11 (deployed version): *bake/recipe* cooking-vocabulary deployed at the chain-summary point (*"The chain is the recipe; PIE is the bake"*).
 - New Point 12 (deployed version, replacing Codex's Point 11/12): the *data-now-contests-the-chain* move — Path A's generative-reach/particle signature, Path C's cross-corpus invariance, the column-axis concentration, the *juhotyādi* C4-enrichment — added as the closing structural move; the chain survived because no link had been falsified; the links are no longer unfalsified.
 - Closing paragraph: *useful comparative apparatus* concession dropped (per the book's Ch 18–18 polemic position); the *church of progress / priests / jihadis / missionaries / asuric mode* vocabulary deployed in place of the generic *"institutional robes."*

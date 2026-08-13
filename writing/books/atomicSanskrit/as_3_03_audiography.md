@@ -44,11 +44,11 @@ The sonomer comes first. The audiograph comes second. The entire appendix follow
 
 The Brāhmī-from-Aramaic story is the script-level version of the Sanskrit-from-PIE story.
 
-The two claims operate in parallel. One says Sanskrit descends from Proto-Indo-European. The other says Brāhmī descends from Aramaic. Both identify an Indic engineered system. Both place its origin outside India. Both allow India refinement, elegance, and adaptation. Both deny India the architecture.
+The two claims follow the same pattern. One says Sanskrit descends from Proto-Indo-European. The other says Brāhmī descends from Aramaic. Both identify an Indic engineered system. Both place its origin outside India. Both allow India refinement, elegance, and adaptation. Both deny India the architecture.
 
 The Indic civilization is allowed to decorate what someone else built. It is not allowed to build.
 
-Aramaic is real and PIE is not. That difference makes the Aramaic case harder to prosecute, but it does not save the sleight. PIE has no inscription, no speaker, no community, no text; it is a reconstructed projection. Aramaic is a real historical script with surviving inscriptions and historical communities. But the operation is the same: foreground the alleged source, push the Indic engineering into the background, and call the result adaptation.
+Aramaic is real and PIE is not. That difference makes the Aramaic case harder to prosecute, but it does not save the sleight. PIE has no inscription, no speaker, no community, no text; it is a reconstructed projection. Aramaic is a real historical script with surviving inscriptions and historical communities. But the tactic is the same: foreground the alleged source, push the Indic engineering into the background, and call the result adaptation.
 
 The prosecution now targets the ***foundational dogma*** — the doctrinal stratum Chapter 3 §3.2 identifies alongside the *progressive dogma*. The foundational dogma defends a corridor story: engineered writing begins in the Near-Eastern-to-European corridor. Sumerian cuneiform, Egyptian hieroglyphs, Phoenician alphabet, Greek extension, Latin script. The book's main chapters prosecute the progressive dogma that obscures the engineered Sanskrit thesis in the deep past. The prosecution here targets the foundational dogma that obscures the *varṇamālā*'s engineering outside the privileged corridor.
 
@@ -68,7 +68,7 @@ That is the trick. The pyramid praises an unnamed Indian figure for adapting a b
 
 The unnamed adapter is celebrated for adaptation. He is not celebrated for what he would have to be celebrated for if the architecture were original to India: the isolation of the sonomers, the design of the *varṇamālā*, the mapping of the mouth, the construction of the multi-axis phonetic specification.
 
-This is **heroic erasure**, the operation Chapter 13 §13.3 exposed and Chapter 1 §1.6 established as a standing convention. The *church of progress* elevates a secondary operator and erases the engineering the operator was supposedly using. Pāṇini becomes the brilliant codifier; the engineered language disappears. The *Prātiśākhya* authors become careful phoneticians; the engineered sound-system disappears. The imagined Brāhmī adapter becomes brilliant; the *varṇamālā* disappears.
+This is **heroic erasure**, the method Chapter 13 §13.3 exposed and Chapter 1 §1.6 established as a standing convention. The *church of progress* elevates a secondary operator and erases the engineering the operator was supposedly using. Pāṇini becomes the brilliant codifier; the engineered language disappears. The *Prātiśākhya* authors become careful phoneticians; the engineered sound-system disappears. The imagined Brāhmī adapter becomes brilliant; the *varṇamālā* disappears.
 
 The brilliance the pyramid locates in the adapter is the architecture the adapter was rendering.
 
@@ -158,7 +158,7 @@ To admit *audiography* as a category would force the foundational dogma to ackno
 
 There is a precise parallel in another domain. In 1839, **John Herschel** coined *photography* — from Greek *phōs* (light) and *graphē* (writing) — for the engineered capture of visible reality as a stable visual artifact. Niépce's heliograph, Daguerre's daguerreotype, and Talbot's calotype were the engineering achievements. *Photography* is their name. The church of progress treats photography as a foundational accomplishment of the nineteenth-century West. It celebrates the named inventors. It traces the engineering. It teaches the achievement in every art school.
 
-The *varṇamālā*, rendered as Brāhmī and its descendants, is the engineered capture of audible reality as a stable visual artifact. It is the same operation as photography, applied to a different physical phenomenon, many thousands of years earlier, at far higher fidelity than any later writing system has matched. Photography captures three rough channels of visible light. The *varṇamālā* first isolates the sonomers and then captures their full articulation matrix: five places of articulation, five manners of articulation, vowel modification, and the *ayogavāha* breath-gestures.
+The *varṇamālā*, rendered as Brāhmī and its descendants, is the engineered capture of audible reality as a stable visual artifact. It captures sound as photography captures light, but it addresses a different physical phenomenon, predates photography by many thousands of years, and records more channels at far higher fidelity than any later writing system has matched. Photography captures three rough channels of visible light. The *varṇamālā* first isolates the sonomers and then captures their full articulation matrix: five places of articulation, five manners of articulation, vowel modification, and the *ayogavāha* breath-gestures.
 
 The church of progress has never coined the parallel term. There is no standard reference entry for *audiography* in this sense. The achievement remains unnamed in its vocabulary.
 
@@ -171,7 +171,7 @@ The coinage arrives here. ***Audiography*** — Latin *audi-* (hear) + Greek *-g
 | Light | photons reflecting off the world | camera optics + photochemistry | a photograph | ***photography*** | photographer |
 | Sound | articulated mouth-gestures of the speaker | sonomer isolation + *sthāna* / *prayatna* engineering rendered as *varga*-matrix | an audiograph (the *akṣara*-glyph) | ***audiography*** | audiographer (*ācārya* of *Śikṣā* / *Prātiśākhya*) |
 
-[FIGURE A.4: *Photography and Audiography.* — the two engineered captures laid in parallel, with the Indic achievement preceding the Western one by many thousands of years and operating at higher resolution along more channels.]
+[FIGURE A.4: *Photography and Audiography.* — the two engineered captures laid in parallel, with the Indic achievement preceding the Western one by many thousands of years while recording more channels at higher resolution.]
 
 The coinage pairs with ***Auditure*** (Chapter 13 §13.4; Chapter 14 §§14.1–14.2). *Auditure* denotes the speech-hearing preservation method that preserves the Vedic corpus in its engineered form across thousands of years without a perishable medium. Sound is preserved as sound: *śruti*, what is heard. *Audiography* denotes the engineered visual rendering of that same sound when writing is needed. Sonomers become visible. The *varṇamālā* becomes image.
 
@@ -272,11 +272,11 @@ The misclassification is not an innocent gap waiting for better data. It is the 
 
 The Brāhmī-from-Aramaic narrative persists because writing is foundational inside the Abrahamic imagination.
 
-The Hebrew Bible declares the written word as the medium of the covenant, establishing that the Torah is given in writing on Sinai. The Christian gospel of John opens with *the Word was God*—the *logos*—while the Qurʾān's first revelation to Muḥammad begins with *iqraʾ*—read, recite. All three original Abrahamic religions operate as religions of the written word, placing authority entirely in a textual act.
+The Hebrew Bible declares the written word as the medium of the covenant, establishing that the Torah is given in writing on Sinai. The Christian gospel of John opens with *the Word was God*—the *logos*—while the Qurʾān's first revelation to Muḥammad begins with *iqraʾ*—read, recite. All three original Abrahamic religions place authority in the written word and ultimately in a textual act.
 
 The ***fourth Abrahamic religion***—the asuric formation Chapter 4 anchors—inherits the same orientation in secular form. Its foundational dogma makes the modern academy's history of civilization a history of writing, declaring that civilization begins where writing begins. Writing systems become the index of civilizational origin. The foundational dogma identifies Sumerian cuneiform, Egyptian hieroglyphs, the Phoenician alphabet, Greek vowel letters, and the Latin script as these foundational moments.
 
-This dogma places the engineering of writing inside the Near-Eastern-to-European corridor, turning later scripts, including Brāhmī, into mere adaptations of templates that originated there. The progressive dogma then adds the time-axis, asserting that later-along-the-corridor becomes more advanced. The two doctrinal strata complete the enclosure, establishing a narrative that operates far from neutrality.
+This dogma places the engineering of writing inside the Near-Eastern-to-European corridor, turning later scripts, including Brāhmī, into mere adaptations of templates that originated there. The progressive dogma then adds the time-axis, asserting that later-along-the-corridor becomes more advanced. The two doctrinal strata complete the enclosure, establishing a narrative designed to enclose the evidence.
 
 The sonomer breaks that enclosure. It says the visible glyph is not the deepest achievement. The deepest achievement is the measured sound-particle and the ordered sound-system built from it. The script renders that system; it does not create it. The written word loses its monopoly over foundation.
 
@@ -288,7 +288,7 @@ The Brāhmī-from-Aramaic narrative is not random. It defends the foundational c
 
 ## 3.11 The Work Ahead
 
-*Atomic Sanskrit* prosecutes the language-engineering case. The script-engineering case is a new research project — the same operation in a different medium. The prosecution does not finish that project. It opens it.
+*Atomic Sanskrit* prosecutes the language-engineering case. The script-engineering case is a new research project — the same act of capture in a different medium. The prosecution does not finish that project. It opens it.
 
 The project has several tasks.
 

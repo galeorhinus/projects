@@ -28,11 +28,11 @@ And this decoding did not begin with Pāṇini.
 
 This chapter uses evidence from before and after Pāṇini. The Vedas and the pre-Pāṇinian analysts establish that Sanskrit and its analytical disciplines existed before the *Aṣṭādhyāyī*. Patañjali, writing afterward, explains how the continuum understood the relationship between that established architecture and grammar.
 
-The *vyākaraṇa* discipline extends across a long analytical lineage before and after Pāṇini's **अष्टाध्यायी (*Aṣṭādhyāyī*)**. Pāṇini cites earlier **वैयाकरणाः (*vaiyākaraṇāḥ*)**, and **शाकल्य (*Śākalya*)** provides a concrete example of their work: he had already separated the Rigvedic *saṃhitā* into constituent *padas* through the **पदपाठ (*padapāṭha*)**. The analytical architecture was operating before the *Aṣṭādhyāyī* documented it.[NOTE: shakalya-padapatha][NOTE: panini-cites-pre-paninian-vaiyakaranas]
+The *vyākaraṇa* discipline extends across a long analytical lineage before and after Pāṇini's **अष्टाध्यायी (*Aṣṭādhyāyī*)**. Pāṇini cites earlier **वैयाकरणाः (*vaiyākaraṇāḥ*)**, and **शाकल्य (*Śākalya*)** provides a concrete example of their work: he had already separated the Rigvedic *saṃhitā* into constituent *padas* through the **पदपाठ (*padapāṭha*)**. Sanskrit scholars were already using this analytical architecture before the *Aṣṭādhyāyī* documented it.[NOTE: shakalya-padapatha][NOTE: panini-cites-pre-paninian-vaiyakaranas]
 
 After Pāṇini came Kātyāyana's **वार्त्तिकानि (*Vārttikāni*)**, the supplementary and corrective observations on Pāṇini's rules, and Patañjali's **महाभाष्यम् (*Mahābhāṣyam*)**, the great commentary that engages both Pāṇini and Kātyāyana. Together, Pāṇini, Kātyāyana, and Patañjali form the **त्रिमुनि व्याकरणम् (*Trimuni Vyākaraṇam*)**, the commentarial unit through which the analytical lineage has described Sanskrit.
 
-Standing at the center of this lineage, Pāṇini decoded an ancient and established architecture already in full operation. His documentation survives as the peak of a much older analytical lineage of unfolding.
+Standing at the center of this lineage, Pāṇini decoded an ancient and established architecture already in use. His documentation survives as the peak of a much older analytical lineage of unfolding.
 
 The book's refrain is:
 
@@ -64,7 +64,7 @@ If the purpose of *grammar* in the English language is to correct and police *co
 - **लघु (*laghu*)** — brevity and efficiency in mastery.
 - **असंदेह (*asaṃdeha*)** — removal of doubt in usage.
 
-All of these purposes are consistent with a self-correcting system that is designed to be a calibrant. There is a *Veda* to preserve, a correct form to master, a usage whose doubt can be removed. *Vyākaraṇam* is a meta-operation on an architecture already in place. That is what Pāṇini was: a *vaiyākaraṇaḥ*, a decoder, an analyst, and a documenter, *not a codifier*.
+All of these purposes are consistent with a self-correcting system that is designed to be a calibrant. There is a *Veda* to preserve, a correct form to master, a usage whose doubt can be removed. *Vyākaraṇam* analyzes an architecture already in place. That is what Pāṇini was: a *vaiyākaraṇaḥ*, a decoder, an analyst, and a documenter, *not a codifier*.
 
 Although *grammar* is an imprecise English rendering of *vyākaraṇam*, English has no better common substitute. After this correction, the book uses *grammar* as shorthand where the context is clear.
 
@@ -100,9 +100,9 @@ Patañjali explains what *Siddha* is by contrasting it with an alternative: **�
 
 **सिद्ध (*siddha*) vs कार्य (*kārya*)**: established vs produced; already complete vs still being made.
 
-These operate as broad Indic categories. In Vedic procedure, *kārya* is an act to be done; *siddha* is what already stands. In metaphysics, *kārya* is a contingent product; *siddha* is an attained or perfected state. Whatever the domain, the contrast is stable. *Siddha* has stopped becoming. *Kārya* is still becoming.
+These are broad Indic categories. In Vedic procedure, *kārya* is an act to be done; *siddha* is what already stands. In metaphysics, *kārya* is a contingent product; *siddha* is an attained or perfected state. Whatever the domain, the contrast is stable. *Siddha* has stopped becoming. *Kārya* is still becoming.
 
-Applied to language, the inquiry asks whether the bond between word and meaning operates as *kārya*—produced by usage, remade by speakers, altered by time—or stands as *siddha*—established, prior to usage, the identical bond grammar must defend.
+Applied to language, the inquiry asks whether usage produces the bond between word and meaning as *kārya*—remade by speakers and altered by time—or whether the bond stands as *siddha*—established before usage and defended by grammar.
 
 If the bond is *kārya*, grammar studies a moving target. Words are produced, meanings negotiated, and rules become descriptions of current practice, valid until practice changes.
 
@@ -124,12 +124,12 @@ The *vaiyākaraṇāḥ* do not merely record whatever speakers produce. They de
 
 ## 5.5 The Evidence Before and After Pāṇini
 
-The Vedas and the analysts who preceded Pāṇini establish the chronology. The Vedas already contain Sanskrit in operation. Śākalya had already separated Vedic sentences into their constituent *padas*. Yāska names earlier analysts, and Pāṇini himself cites *vaiyākaraṇāḥ* who came before him. Sanskrit and the disciplines used to analyze it therefore existed before the *Aṣṭādhyāyī*.
+The Vedas and the analysts who preceded Pāṇini establish the chronology. The Vedas already contain Sanskrit in use. Śākalya had already separated Vedic sentences into their constituent *padas*. Yāska names earlier analysts, and Pāṇini himself cites *vaiyākaraṇāḥ* who came before him. Sanskrit and the disciplines used to analyze it therefore existed before the *Aṣṭādhyāyī*.
 
 Patañjali wrote after Pāṇini, so his explanation serves another purpose. He tells us how the grammatical continuum understood the architecture that it had inherited. He does not describe a language that changed freely until Pāṇini fixed it. He does not say that Pāṇini created the bond between words and meanings, stabilized that bond, or imposed it upon speakers.
 
 Patañjali begins with the bond already established. People use words because they intend to express meanings in the world. Only after the bond and worldly usage already exist does grammar regulate whether that usage remains correct. Grammar therefore acts upon an existing language. It does not create the language or establish the bond between its words and meanings.
 
-The evidence before Pāṇini and the explanation after him meet at the *Aṣṭādhyāyī*. The earlier evidence demonstrates that an established architecture was already operating. Patañjali explains that grammar regulates such an architecture rather than creating it. Pāṇini therefore did not transform a drifting language into a fixed language. He inherited Sanskrit, analyzed its operations, and produced the finest documentation of its grammar.
+The evidence before Pāṇini and the explanation after him meet at the *Aṣṭādhyāyī*. The earlier evidence demonstrates that Sanskrit already used an established architecture. Patañjali explains that grammar regulates such an architecture rather than creating it. Pāṇini therefore did not transform a drifting language into a fixed language. He inherited Sanskrit, analyzed its forms and procedures, and produced the finest documentation of its grammar.
 
 The engineered Sanskrit thesis follows the language's own analytical account. *Engineered first* identifies the architecture that had to exist before anyone could analyze it. *Siddha* describes the established bond that speakers inherit and grammar protects. Chapter 6 identifies the threats against which that protection became necessary.

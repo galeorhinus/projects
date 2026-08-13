@@ -180,7 +180,7 @@ The slug is the third segment of the manuscript filename (`as_<zone>_<seq>_<slug
 | `language_factory` | `as_3_04_language_factory.md` | App Part 4 — language factory |
 | `by_the_numbers` | `as_3_05_by_the_numbers.md` | App Part 5 — *Dhātupāṭha by the Numbers* |
 | `vedic_carrier` | `as_3_06_vedic_carrier.md` | App Part 6 — Vedic carrier |
-| `codification_story` | `as_3_07_codification_story.md` | App Part 7 — *The Codification Story, Refuted* |
+| `codification_myth` | `as_3_09_codification_myth.md` | Appendix Part 9 — *Testing the Codification Myth* |
 | `glossary` | `as_3_08_glossary.md` | App Part 8 — Glossary |
 
 **Cross-chapter analysis slugs** (figures derived from `analysis/` bundles, may appear in multiple chapters):

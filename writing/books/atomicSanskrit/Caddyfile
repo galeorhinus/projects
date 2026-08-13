@@ -61,9 +61,25 @@ secondshanti.org {
 	# Backward-compatibility — URLs that lived at /as/<x>/ before the
 	# 2026-05-27 restructure now live at /as/book/<x>/. The 35 chapter
 	# slugs plus the two asset directories (css, figures) are redirected;
-	# nothing else under /as/ was externally reachable.
-	@legacy path_regexp legacy ^/as/(about-series|acknowledgements|adivadya|apabhramsa|audiography|aural|baking|botanical|building-dhatuh|building-kriya|building-vakya|by-the-numbers|calibration|codification-story|css|dhatuh|encyclopaedic|endnotes|epilogue|figures|fourth-abrahamic|glossary|language-factory|life-after-pie|mapping-mouth|note-on-notes|pie-in-sky|preface|preservation|prologue|retroflex|seekers|siddha|strategic|superset|vedic-carrier|wrong-question)(/.*)?$
+	# nothing else under /as/ was externally reachable. vedic-carrier and
+	# codification-story are deliberately absent from this list — those
+	# two pages were later renamed (see the dedicated redirects below),
+	# so folding their old slugs in here would land a 308 on a page that
+	# no longer exists.
+	@legacy path_regexp legacy ^/as/(about-series|acknowledgements|adivadya|apabhramsa|audiography|aural|baking|botanical|building-dhatuh|building-kriya|building-vakya|by-the-numbers|calibration|css|dhatuh|encyclopaedic|endnotes|epilogue|figures|fourth-abrahamic|glossary|language-factory|life-after-pie|mapping-mouth|note-on-notes|pie-in-sky|preface|preservation|prologue|retroflex|seekers|siddha|strategic|superset|wrong-question)(/.*)?$
 	redir @legacy /as/book/{re.legacy.1}{re.legacy.2} 308
+
+	# Appendix renames (2026-08-13): vedic-carrier -> architecture-in-vedas
+	# (Appendix 7), codification-story -> codification-myth (Appendix 9).
+	# Matches both the old bare /as/<slug> form (pre-2026-05-27 style,
+	# which the @legacy rule above would otherwise redirect straight into
+	# a 404) and the more recent /as/book/<slug> form anyone linked in
+	# the weeks since — one redirect either way, or two hops for the
+	# oldest bare-URL style since it round-trips through @legacy first.
+	@renamed-vedic-carrier path_regexp renamed_vc ^/as/(?:book/)?vedic-carrier(/.*)?$
+	redir @renamed-vedic-carrier /as/book/architecture-in-vedas{re.renamed_vc.1} 308
+	@renamed-codification-story path_regexp renamed_cs ^/as/(?:book/)?codification-story(/.*)?$
+	redir @renamed-codification-story /as/book/codification-myth{re.renamed_cs.1} 308
 
 	# /as/essays/* — public essay shelf.
 	# try_files turns /as/essays/<slug> into /as/essays/<slug>/index.html

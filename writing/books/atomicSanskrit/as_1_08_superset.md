@@ -236,7 +236,7 @@ The migration claim has to cross that gap. A population whose speech lacks opera
 
 That is a rescue device for a theory, not a history of speech.
 
-The retroflex row belongs to the subcontinental mouth. Sanskrit's engineering operates from inside that mouth.
+The retroflex row belongs to the subcontinental mouth. Sanskrit's engineering begins inside that mouth.
 
 ## 8.11 Breath Above the Base
 
@@ -256,7 +256,7 @@ Sanskrit turns that gesture into a sonomeric contrast.
 
 The same breath-axis continues beyond the stop matrix into **विसर्ग (*visarga*)**. A *mahāprāṇa* stop releases controlled breath after contact; *visarga* releases controlled breath after a vowel. Its basis is the same engineering principle: Sanskrit makes breath structural. *Sandhi* rules govern that transition: what happens when released breath meets the next sonomer, not spelling conventions.[NOTE: visarga-anusvara-articulation]
 
-Sanskrit's treatment of breath belongs to the larger discipline of **प्राण (*prāṇa*)**. Because the civilization trains breath through yoga, recitation, and mantra, its grammar can also make breath structurally visible as an operating dimension of sound.
+Sanskrit's treatment of breath belongs to the larger discipline of **प्राण (*prāṇa*)**. Because the civilization trains breath through yoga, recitation, and mantra, its grammar can also use breath to distinguish sounds.
 
 This also explains why *mahāprāṇa* is structural. It is one of Sanskrit's most elegant engineering moves: more distinction without horizontal crowding. The system keeps the mouth-places clean and lets breath do additional work.
 

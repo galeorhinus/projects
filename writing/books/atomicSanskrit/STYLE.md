@@ -98,7 +98,9 @@ Use an explicit transition whenever the argument changes evidentiary level, acto
 
 Carry a major turn inside the first substantive sentence of the new movement, where the reader can see what changed and why. Isolated hinges such as *The burden now shifts*, *That closes the question*, and *The Sun can be found* usually expose the outline without performing the transition.
 
-Do not use an abstract placeholder as a bridge. Phrases such as *a wider margin*, *the distinction*, *the framework*, *the pattern*, *the mechanism*, and *the next field* make the reader recover the concrete relation that the sentence should state. Before accepting a paragraph or section opener, ask three questions: **What is the concrete noun? What does it do? What boundary or consequence is relevant?** Replace *The two open coordinates belong to a wider margin* with *The human mouth can produce many sounds beyond Sanskrit's sonomer grid.* An abstract noun may remain when it is the actual subject and the sentence immediately states its operation; it cannot stand in for an unnamed object or transition.
+Do not use an abstract placeholder as a bridge. Phrases such as *a wider margin*, *the distinction*, *the framework*, *the pattern*, *the mechanism*, and *the next field* make the reader recover the concrete relation that the sentence should state. Before accepting a paragraph or section opener, ask three questions: **What is the concrete noun? What does it do? What boundary or consequence is relevant?** Replace *The two open coordinates belong to a wider margin* with *The human mouth can produce many sounds beyond Sanskrit's sonomer grid.* An abstract noun may remain when it is the actual subject and the sentence immediately states what it does; it cannot stand in for an unnamed object or transition.
+
+**Generic *operating* language is banned.** Do not use *operate, operates, operated, operating,* or *operation* as a generic substitute for the action being described. Name the action: *joins, derives, generates, preserves, distinguishes, restricts, checks, transmits,* or *applies*. Replace *the architecture was already operating in the Vedas* with *the Vedas already use that architecture*. Retain *operation* only for a specifically identified grammatical or mechanical procedure, and retain established concrete terms such as *operating system* and *operating instructions*.
 
 **Abstract *field* is banned.** Do not use *field* as a vague substitute for a domain, discipline, context, range of meanings, body of evidence, speech community, region, system, or surrounding circumstances. State the concrete noun instead: *semantic field* becomes *range of meanings*; *civilizational field* becomes *civilization* or *civilizational context*; *knowledge-field* becomes *knowledge tradition*; *speech-field* becomes *speech community* or *regional speech*. Preserve *field* when it is literal, when translating **क्षेत्र (*kṣetra*)**, in the established **field-loss** refrain, in exact quotations and bibliographic titles, and in the defined technical term **sound-field** where the field-versus-coordinate distinction is actually under analysis. Do not extend that exception into decorative repetition.
 
@@ -151,6 +153,8 @@ Lead with the positive operation:
 Use contrast only when the contrast itself carries the argument:
 
 > Pāṇini did not codify Sanskrit. He decoded it.
+
+Call the false account in which Pāṇini supposedly imposed order on Sanskrit the **codification myth**. Reserve unqualified **codification** for an authority that actually selects, standardizes, or controls a language. Direct quotations and direct corrections such as *Pāṇini did not codify Sanskrit* may retain the verb.
 
 For ordinary explanation, define what the thing does before saying what it is not.
 
@@ -278,7 +282,7 @@ When an established refrain already performs structural work elsewhere in the bo
 
 Prefer the relationship in one developed sentence:
 
-> By documenting an architecture that was already operating, Pāṇini served as its finest decoder; the codification story reverses the direction of his work.
+> By documenting an architecture that was already operating, Pāṇini served as its finest decoder; the codification myth reverses the direction of his work.
 
 Over a manufactured two-beat close:
 

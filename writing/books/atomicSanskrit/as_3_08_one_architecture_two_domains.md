@@ -17,7 +17,7 @@ Chapter 9 introduced the ***Principle of Architectural Selection and Scope (PASS
 1. **Contribution:** What does the additional resource add to the passage?
 2. **Load:** What duplication, collision, or variation accompanies it?
 3. **Bounding support:** What contains that load — pitch, meter, fixed wording, inherited interpretation, a stated junction, or another part of the architecture?
-4. **Scope:** Does the resource belong to reusable Sanskrit, operate only under a stated condition, belong to a stated Vedic scope, remain within a named Vedic lineage, or stay excluded from independent use?
+4. **Scope:** Does the resource belong to reusable Sanskrit, appear only under a stated condition, belong to a stated Vedic scope, remain within a named Vedic lineage, or stay excluded from independent use?
 
 The ten contributions defined in Chapter 16 supply the first step. The figures use the following short codes to keep that evidence visible:
 
@@ -85,7 +85,7 @@ Chapter 16 explains how *svara* and *chandas* contribute to grammar, memory, and
 >
 > Was it below? Was it above?
 
-The numeral **३** directs the reciter to extend the vowel to three ***मात्राः (*mātrāḥ*)***. The duration belongs to the act of weighing two alternatives: the voice audibly keeps each possibility open. Sanskrit also uses *pluta* under stated *laukika* conditions, including calling to someone at a distance and deliberating between alternatives. The difference lies in permission. A speaker applies the operation when the stated circumstance arises, while the Ṛgvedic lineage always preserves these two *pluta* vowels at these exact positions in the passage.[NOTE: vedic-pluta-rv-10-129-5]
+The numeral **३** directs the reciter to extend the vowel to three ***मात्राः (*mātrāḥ*)***. The duration belongs to the act of weighing two alternatives: the voice audibly keeps each possibility open. Sanskrit also uses *pluta* under stated *laukika* conditions, including calling to someone at a distance and deliberating between alternatives. The difference lies in permission. A speaker applies *pluta* lengthening when the stated circumstance arises, while the Ṛgvedic lineage always preserves these two *pluta* vowels at these exact positions in the passage.[NOTE: vedic-pluta-rv-10-129-5]
 
 These features change what a student must learn for exact recitation; they do not replace the shared grammar through which the sentence is understood. The opening mantra has no additional ***सुबन्तरूप (*subanta-rūpa*, nominal form)*** or ***तिङन्तरूप (*tiṅanta-rūpa*, finite verbal form)*** that a *laukika* student must learn.
 
@@ -280,10 +280,10 @@ The figures above give the complete inventory of *vibhakti-rūpāṇi*, or decle
 
 | Area | Laukika baseline | Vaidika difference |
 |---|---|---|
-| **Syllable pitch — स्वर (*svara*)** | ordinary composition operates without the Vedic pitch layer | exact recitation preserves **उदात्त (*udātta*), अनुदात्त (*anudātta*),** and **स्वरित (*svarita*)** on the assigned syllables |
+| **Syllable pitch — स्वर (*svara*)** | ordinary composition does not use the Vedic pitch layer | exact recitation preserves **उदात्त (*udātta*), अनुदात्त (*anudātta*),** and **स्वरित (*svarita*)** on the assigned syllables |
 | **Duration — मात्रा (*mātrā*)** | ordinary words use reusable short-long vowel relations, with *pluta* under stated speech conditions | a passage preserves ***प्लुत (*pluta*)*** or another specified duration wherever required |
 | **Lineage-preserved sounds outside the sonomer grid** | the generative grid assigns addresses only to sounds that remain distinguishable and function as reusable sonomers | the Ṛgvedic lineage selectively preserves **ळ / ळ्ह** under its received phonetic specification |
-| **Restricted junction sounds** | Sanskrit generates ***उपध्मानीय (*upadhmānīya*)*** and ***जिह्वामूलीय (*jihvāmūlīya*)*** from *visarga* under stated conditions | a received passage preserves the operation at its fixed junction |
+| **Restricted junction sounds** | Sanskrit generates ***उपध्मानीय (*upadhmānīya*)*** and ***जिह्वामूलीय (*jihvāmūlīya*)*** from *visarga* under stated conditions | a received passage preserves the sound change at its fixed junction |
 | **Sound without direct lexical meaning** | poets use repetition, onomatopoeia, ***अनुप्रास (*anuprāsa*),*** and ***यमक (*yamaka*)*** for sound and poetic effect | Sāmavedic singing uses specified ***स्तोभ (*stobha*)*** syllables for melodic, acoustic, recitational, and contemplative purposes |
 | **सन्धि and विवृत्ति (*sandhi* and *vivṛtti*, junction and hiatus)** | *sandhi* governs newly created sequences | a received passage can preserve *vivṛtti*, non-elision, or another operation assigned to Vedic scope |
 | **विभक्तिरूपाणि (*vibhakti-rūpāṇi*, declensional forms)** | speakers principally use *vibhakti* paradigms that apply consistently in new composition | passages preserve additional instrumental, locative, vocative, dual, and plural forms |

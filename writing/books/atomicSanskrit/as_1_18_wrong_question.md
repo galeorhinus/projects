@@ -93,11 +93,11 @@ Earlier chapters established why the Vedas serve as a calibrant for Sanskriti: t
 
 The chapter's epigraph presents an epistemic inversion: the framework for recognizing truth is reversed, a weapon the ***a-suras*** have always used. A person who is not a **यातु (*yātu*)** is accused of being a **यातुधान (*yātudhāna*)**, while an actual **रक्षस् (*rakṣas*)** declares, "I am pure." ***Gaslighting is the psychological weaponization of epistemic inversion.***
 
-The Ṛgveda describes the wider operation through hostile **माया (*māyā*)**. Vṛtra and Namuci are **मायिन् (*māyin*)**, figures who use concealment and deception, while Svarbhānu's *māyā* hides the Sun. These ***a-suras*** conceal what remains present and demand that others accept the concealment as reality.[NOTE: mayin-concealment-cluster]
+The Ṛgveda describes the wider tactic through hostile **माया (*māyā*)**. Vṛtra and Namuci are **मायिन् (*māyin*)**, figures who use concealment and deception, while Svarbhānu's *māyā* hides the Sun. These ***a-suras*** conceal what remains present and demand that others accept the concealment as reality.[NOTE: mayin-concealment-cluster]
 
-Gaslighting can redirect memory without erasing it. The pyramid teaches India to remember Pāṇini incorrectly. It turns the decoder into a codifier and turns his documentation into the origin of the language. This redirects the civilization's reverence for one of its finest decoders toward codification itself.
+Gaslighting can redirect memory without erasing it. The pyramid teaches India to remember Pāṇini incorrectly. It turns the decoder into a codifier and turns his documentation into the origin of the language. This redirects the civilization's reverence for one of its finest decoders toward the codification myth.
 
-Praise becomes a weapon here. The pyramid does not need to insult Pāṇini. It can praise him for the *wrong* act. By miscasting him as the codifier who created order, the pyramid trains the civilization to honor *codification* instead of *calibration*. The memory remains reverent, but the pyramid has altered the object of reverence. That is gaslighting at civilizational scale.
+Praise becomes a weapon here. The pyramid does not need to insult Pāṇini. It can praise him for the *wrong* act. By miscasting him as the codifier who created order, the pyramid trains the civilization to honor the codification myth instead of calibration. The memory remains reverent, but the pyramid has altered the object of reverence. That is gaslighting at civilizational scale.
 
 When the Hindu continuum recognizes its own architecture and the academic establishment calls that recognition a delusion, that is not scholarship.
 
@@ -119,10 +119,10 @@ The pyramid does not know Sanskrit's origin. It has no inscription of PIE, no sp
 
 1. A reconstruction method was built in nineteenth-century Europe from comparison among Sanskrit, Greek, Latin, Germanic, Iranian, and related languages.
 2. The method inferred an imaginary ancestor: ***Proto-Indo-European***.
-3. The imaginary ancestor was treated as historically prior to Sanskrit, even though Sanskrit is real, recited, taught, and operating while PIE is not.
+3. The imaginary ancestor was treated as historically prior to Sanskrit, even though people still recite, teach, and use Sanskrit while PIE exists only as a reconstruction.
 4. The ancestor had to sit outside India, because a calibrant engineered within India proves order can stand without an apex — the pyramid's founding threat (Chapter 3 §3.8). He can dominate that civilization, but he cannot claim the world's most precise language if the calibrant stands inside it.
 5. A mechanism was then needed by which Sanskrit entered India. That mechanism became the racial Arya thesis: invasion first, migration later, the same racialized premise underneath both.
-6. When Sanskrit displayed subcontinental features, especially the retroflex row, the pyramid's account called them substrate borrowings instead of evidence that Sanskrit's engineering operates from inside the subcontinental sound-field.
+6. When Sanskrit displayed subcontinental features, especially the retroflex row, the pyramid's account called them substrate borrowings instead of evidence that Sanskrit's engineering begins inside the subcontinental sound-field.
 7. When Vedic preservation showed extraordinary stability, the pyramid's account called it late conservatism rather than engineered anti-entropy.
 8. When Pāṇini documented an already functioning architecture, the pyramid's account called it codification: praise the named documenter, redirect the memory, deny the architecture documented.
 9. When the Sanskrit continuum preserved its own categories — *saṃskṛtam*, *śruti*, *apauruṣeya*, *vyākaraṇam*, *vaidika*, and *laukika* — the pyramid's account treated them as belief, not evidence.
@@ -130,7 +130,7 @@ The pyramid does not know Sanskrit's origin. It has no inscription of PIE, no sp
 11. The preceding chapters test every link against Sanskrit's complete architecture. Across sonomers, atoms, grammar, recitation, and transmission, each link depends upon the link before it rather than upon Sanskrit itself.
 
 
-The pyramid links each speculation to the next: imaginary PIE requires an external homeland and a racial Arya thesis; the incoming language then borrows retroflexes from a substrate, evolves as *"Vedic Sanskrit,"* and finally becomes standardized as *"Classical Sanskrit"* through Pāṇinian codification.
+The pyramid links each speculation to the next: imaginary PIE requires an external homeland and a racial Arya thesis; the incoming language then borrows retroflexes from a substrate, evolves as *"Vedic Sanskrit,"* and finally becomes standardized as *"Classical Sanskrit"* through the Pāṇinian codification myth.
 
 The chain is the recipe. PIE is the bake.
 
@@ -138,7 +138,7 @@ The pyramid's speculation is not neutral reason correcting the Hindu continuum. 
 
 The same machinery that calls Hindu civilizational memory "mythology" asks the world to treat its own constructed ancestor as science. Sanskrit, preserved in sound and use, is declared dead. PIE, preserved nowhere, recited nowhere, spoken by no known community, is granted ancestral life.
 
-That is the inversion. The speculation is not absent. It is wearing the robes of the ***priests of progress***, defended by its ***jihadis of progress***, exported by its ***missionaries of progress*** — the ***church of progress*** operating in *asuric* mode (Chapter 4 §§4.3–4.6).
+That is the inversion. The speculation is not absent. It is wearing the robes of the ***priests of progress***, defended by its ***jihadis of progress***, exported by its ***missionaries of progress*** — the ***church of progress*** acting in *asuric* mode (Chapter 4 §§4.3–4.6).
 
 ## 18.6 The Migration Trap
 
@@ -297,21 +297,21 @@ The two speculations are mirror inversions.
 ![Figure 18.2 — Two accounts of Sanskrit. The pyramid arranges the domains as a chronology of linguistic descent; the engineering thesis treats them as complementary domains joined by calibration.](figures/wrong_question/two_accounts_of_sanskrit.svg){#fig:ch18-two-accounts width=100%}
 
 
-At every point in the Sanskrit continuum, two facts operate together: the Vedas remain preserved, and laukika use remains exposed to *apabhraṃśa*. Worldly use faces entropy. The Vedic lineages do not.
+At every point in the Sanskrit continuum, two facts remain true together: the Vedas remain preserved, and laukika use remains exposed to *apabhraṃśa*. Worldly use faces entropy. The Vedic lineages do not.
 
 Before Pāṇini, the Vedic corpus served as the primary calibrant for correcting *laukika* use toward the architecture the Vedas encoded. Generations of earlier *vaiyākaraṇāḥ* had already analyzed Sanskrit and taught its operations through inherited grammatical disciplines. Pāṇini inherited that analytical tradition and compressed Sanskrit's grammar into the *Aṣṭādhyāyī*, a precise rule-system that students and teachers could apply directly to *laukika* Sanskrit. Chapter 13 §13.5 explains this teaching function in detail.
 
 The Vedas preserved the architecture. Pāṇini articulated its operations with unmatched precision.
 
-By imposing a chronology on the two domains, the *progressive dogma* treats Vedic as primitive, Classical as refined, Pāṇini as inventor, laukika Sanskrit as a descendant, and *apabhraṃśa* as a stage in descent rather than the tendency the calibrant corrects. This inversion operates as a doctrinal requirement rather than a stylistic choice. These are structural opposites. The descent thesis makes Sanskrit the result of linguistic change; the engineering thesis explains it as a constructed and calibrated architecture.
+By imposing a chronology on the two domains, the *progressive dogma* treats Vedic as primitive, Classical as refined, Pāṇini as inventor, laukika Sanskrit as a descendant, and *apabhraṃśa* as a stage in descent rather than the tendency the calibrant corrects. The doctrine requires this inversion; it is not a stylistic choice. These are structural opposites. The descent thesis makes Sanskrit the result of linguistic change; the engineering thesis explains it as a constructed and calibrated architecture.
 
-Enforcing this inversion, the *heroic-erasure* move (Chapter 1 §1.6, Chapter 13 §13.3) executes a precise script: celebrate Pāṇini as codifier to deny the engineering that preceded him, and praise the named operator to hide the architecture he decoded. By using Pāṇini rather than fighting him, the machinery turns civilizational memory toward codification and away from calibration.
+Enforcing this inversion, the *heroic-erasure* move (Chapter 1 §1.6, Chapter 13 §13.3) executes a precise script: celebrate Pāṇini as codifier to deny the engineering that preceded him, and praise the named operator to hide the architecture he decoded. By using Pāṇini rather than fighting him, the machinery turns civilizational memory toward the codification myth and away from calibration.
 
 That exact maneuver forms the target here. The battle lies not with Pāṇini or the past, but with the present machinery telling Hindus to remember Pāṇini as a codifier rather than a decoder.
 
 The machinery preserves reverence and redirects it.
 
-While the civilization keeps the memory active, the machinery changes its object, training the reader to bow before codification where the evidence points to calibration. By changing what the hero means rather than insulting him, heroic erasure works more effectively than direct denial.
+While the civilization keeps the memory active, the machinery changes its object, training the reader to bow before the codification myth where the evidence points to calibration. By changing what the hero means rather than insulting him, heroic erasure works more effectively than direct denial.
 
 The asuric pyramid persists only as long as that move remains effective.
 

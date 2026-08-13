@@ -7,7 +7,7 @@ Years ago I looked up *king* — and *kin*, *genus*, and a dozen everyday words 
 > *king* ← Old English *cyning* ← *cyn*, offspring  
 > — Sanskrit *janaka*, *the father of a people*[NOTE: pre-pie-dictionary-shift]
 
-Sanskrit stood at the bottom because Sanskrit was there. Real. Preserved. Recited. Taught. Operating. And the older dictionaries said, in plain words, what *king* had meant: the father of a people.
+Sanskrit stood at the bottom because Sanskrit was there. Real. Preserved. Recited. Taught. Used. And the older dictionaries said, in plain words, what *king* had meant: the father of a people.
 
 A generation of reference works later, the entry had changed. The ancestry line now ran through a starred reconstruction:
 
@@ -39,7 +39,7 @@ This was the greatest philological fraud: Sanskrit supplied the architecture, Eu
 
 Conlangers openly acknowledge what they create. Schleicher assembled forty-four distinct reconstructed forms into his fable and passed the resulting language off as the ancestor of Sanskrit and the other recorded languages. PIE was a reverse-averaged invention disguised as a recovered language.
 
-Schleicher claimed to have recovered what he had constructed. The pyramid's historical linguists inherited that claim and have perpetuated the fraud. They took Schleicher's reconstructed system, displayed through a few dozen forms in his fable and developed across his *Compendium*, and extended the same operation across a few thousand PIE entries. They continue to place these inventions above Sanskrit and the other recorded languages. Chapter 3 §3.7 calls this operation *asuratva*: the operator conceals his own action while claiming authority over the result.
+Schleicher claimed to have recovered what he had constructed. The pyramid's historical linguists inherited that claim and have perpetuated the fraud. They took Schleicher's reconstructed system, displayed through a few dozen forms in his fable and developed across his *Compendium*, and extended the same fabrication across a few thousand PIE entries. They continue to place these inventions above Sanskrit and the other recorded languages. Chapter 3 §3.7 calls this concealment *asuratva*: the operator conceals his own action while claiming authority over the result.
 
 PIE is the shame that honest conlangers will refuse to claim.
 
@@ -61,7 +61,7 @@ PIE is not merely a speculative reconstruction. It is the asuric pyramid's most 
 
 The pyramid extended its fertile imagination from people, language, and words into stories. When it could no longer defend the lie that Vālmīki had copied Homer, it invented a pseudo-compromise. Its imaginary people, already speaking an imaginary language filled with imaginary words, were now equipped with imaginary stories. The pyramid placed imaginary ancestral figures above three real Vedic figures: **द्यौष्पिता (*Dyauṣ Pitā*)** became **the Sky Father**; **अश्विनौ (*Aśvinau*)** became **the Twin Horsemen**; and Indra **वृत्रहन् (*Vṛtrahan*)**, the slayer of Vṛtra, became **the Serpent-Slayer**. Homer and Vālmīki could then be declared inheritors of the same imagined narrative tradition, allowing the pyramid to abandon direct Greek originality without acknowledging that Homer had borrowed from the *Rāmāyaṇa*.[NOTE: indo-european-narrative-inheritance]
 
-**The four inventions.** RAT invents the imaginary people: Aryans as a race, ancestry, or migrating population. PIE invents the imaginary language placed before Sanskrit. Starred reconstructions invent the imaginary words, forms no known mouth ever made. Comparative mythology completes the set by inventing imaginary ancestral stories from which recorded epics are made to descend. The phrase *"Indo-Aryan languages"* binds the first three inventions into ordinary academic speech; *"Indo-European narrative inheritance"* performs the same operation for the fourth.
+**The four inventions.** RAT invents the imaginary people: Aryans as a race, ancestry, or migrating population. PIE invents the imaginary language placed before Sanskrit. Starred reconstructions invent the imaginary words, forms no known mouth ever made. Comparative mythology completes the set by inventing imaginary ancestral stories from which recorded epics are made to descend. The phrase *"Indo-Aryan languages"* binds the first three inventions into ordinary academic speech; *"Indo-European narrative inheritance"* performs the same binding for the fourth.
 
 ## 19.3 What PIE Cannot Explain
 
@@ -73,7 +73,7 @@ Because the botanical account relies on descent, it has no explanation for the s
 
 Furthermore, PIE cannot account for *siddha*. When the *Mahābhāṣya* opens by stating that the bond between word and meaning is *siddha*—established, and not subject to drift—it declares Sanskrit's metaphysical commitment to be fundamentally anti-decay. Because the PIE account treats Sanskrit through the exact opposite metaphysics (language as descent, decay, and generational drift), the two accounts cannot coexist; one of them is fundamentally wrong about the nature of the object.
 
-PIE depends on the split. The pyramid's story requires Sanskrit before Pāṇini (पाणिनि) to be treated as *prakṛti*: natural speech, descended, drifting, needing an ancestor. After Pāṇini, the same story requires Sanskrit to be treated as "codification": cleaned up, frozen, stabilized by grammar. The first move makes PIE necessary. The second move prevents Sanskrit's architecture from dissolving PIE. Together they hide the continuous category: Sanskrit as *saṃskṛti*, calibrated architecture operating before Pāṇini, through Pāṇini, and after Pāṇini.
+PIE depends on the split. The pyramid's story requires Sanskrit before Pāṇini (पाणिनि) to be treated as *prakṛti*: natural speech, descended, drifting, needing an ancestor. After Pāṇini, the codification myth presents Sanskrit as cleaned up, frozen, and stabilized by grammar. The first move makes PIE necessary. The second move prevents Sanskrit's architecture from dissolving PIE. Together they hide the continuous category: Sanskrit as *saṃskṛti*, a calibrated architecture used before Pāṇini, documented by Pāṇini, and used after him.
 
 *An engineered calibrant does not need a natural ancestor, and a decoded system does not need a codifier.*
 
@@ -95,7 +95,7 @@ The hardening has continued, conspicuously, in the past quarter century. Diction
 
 The reconstruction history itself can be measured. The figure below tracks five major PIE reconstructions, beginning with Schleicher's nineteenth-century bake and ending with the modern reconstruction. It also places those revisions against selected historical events.
 
-The chart uses a simple coverage test. Each reconstructed PIE consonant is placed into a vocal-tract cell: where the sound is made, and how it is made. **Place** means location along the vocal tract — dental, retroflex, palatal, velar, and so on. **Manner** means the operation — voicing, aspiration, closure, friction, nasalization, and related features. The same place-and-manner grid is then built for Sanskrit and Tamil.
+The chart uses a simple coverage test. Each reconstructed PIE consonant is placed into a vocal-tract cell: where the sound is made, and how it is made. **Place** means location along the vocal tract — dental, retroflex, palatal, velar, and so on. **Manner** means how the sound is made — through voicing, aspiration, closure, friction, nasalization, and related features. The same place-and-manner grid is then built for Sanskrit and Tamil.
 
 In the legend, **Sanskrit ⊇ PIE** means: what fraction of PIE's reconstructed consonants are already covered by Sanskrit's consonant inventory? **Tamil ⊇ PIE** is the control: the same test, run against Tamil, so Sanskrit is not being measured in isolation. The decimal labels are fractions. Schleicher's **0.81** means that 81 percent of his reconstructed PIE consonants matched Sanskrit's place-and-manner inventory. That is exactly what one would expect from the first bake. Schleicher's PIE leaned heavily on Sanskrit.
 
@@ -237,7 +237,7 @@ Greek, Latin, and Germanic received these seeds and used them to generate new wo
 
 The PIE account reverses the direction shown in Figures 19.6 and 19.7. It begins with organic forms in the receiving languages, groups their correspondences, and reconstructs a botanical parent behind them. The pyramid then reads those vivimorphosed descendants as evidence for that parent and makes Sanskrit descend from the reconstruction. Through that reversal, the engineered source becomes one daughter branch beneath an imaginary ancestor assembled from reflected forms.
 
-Both accounts examine the same correspondences. The descent account interprets them as inheritances from an unrecorded parent, while the calibrant account traces them outward from a recorded Sanskrit atom and the molecules it generates. Those directions also produce an evidentiary difference. The calibrant account begins with an operating architecture that remains available for examination; the descent account begins with a reconstructed form inferred from the correspondences it is then used to explain.
+Both accounts examine the same correspondences. The descent account interprets them as inheritances from an unrecorded parent, while the calibrant account traces them outward from a recorded Sanskrit atom and the molecules it generates. Those directions also produce an evidentiary difference. The calibrant account begins with an architecture whose sounds, atoms, rules, and generated forms remain available for examination; the descent account begins with a reconstructed form inferred from the correspondences it is then used to explain.
 
 ### A Repeatable Radiance Map
 
@@ -267,11 +267,11 @@ The pyramid places an imaginary particle, **\*h₂epo**, above Sanskrit **अप
 | Language or account | Form | What the form does |
 |---|---|---|
 | Sanskrit | **अप (*apa*)** | redirects an action away, off, or apart |
-| Greek | **ἀπό (*apó*)** | operates with verbs and as a separate preposition |
-| Latin | ***ab / abs*** | operates as a preposition and inside verbal compounds |
+| Greek | **ἀπό (*apó*)** | joins verbs and also serves as a separate preposition |
+| Latin | ***ab / abs*** | serves as a preposition and joins verbal compounds |
 | PIE image | **\*h₂epo** | serves as the imaginary parent assigned to the three recorded operators |
 
-Sanskrit preserves **अप** inside a complete operating system. It can join **⟪गम्⟫ (*gam*, to go)** as **अपगच्छति (*apagacchati*)**, goes away; **⟪नी⟫ (*nī*, to lead)** as **अपनयति (*apanayati*)**, leads or removes away; and **⟪हृ⟫ (*hṛ*, to carry)** as **अपहरति (*apaharati*)**, carries away. The operator changes the direction of several recorded atoms while remaining recognizable in every molecule.
+Sanskrit preserves **अप** inside a complete grammatical system. It can join **⟪गम्⟫ (*gam*, to go)** as **अपगच्छति (*apagacchati*)**, goes away; **⟪नी⟫ (*nī*, to lead)** as **अपनयति (*apanayati*)**, leads or removes away; and **⟪हृ⟫ (*hṛ*, to carry)** as **अपहरति (*apaharati*)**, carries away. The operator changes the direction of several recorded atoms while remaining recognizable in every molecule.
 
 Greek preserves both mobile and attached preverbs, while Latin preserves the directional element as a preposition and in compounds.[NOTE: upasarga-radiance-apa] The Sanskrit Radiance Mapping Project repeats this comparison across **परि (*pari*), प्र (*pra*), उप (*upa*), अभि (*abhi*)**, and the rest of the operator inventory. It compares the complete Sanskrit architecture with what each receiving language retains. Appendix Part 1 presents the pilot record and the larger research test.
 
@@ -316,7 +316,7 @@ The *apaśabda* *ahura* anchors the central theological vocabulary of the Zoroas
 
 **Process across all three vivimorphosis stages:** *apabhraṃśa* / vivimorphosis. **What IE philology treats as reconstructed ancestry:** the bottom row — the *apaśabdas*. **The seed (*bīja*) is the missing middle.** The adversary-word — *a-sura*, the un-shining, the privative of ⟪सुर्⟫'s shining one — sits on the same Sanskrit form and takes no part in this chain; Chapter 3 §3.6 separates the two words.
 
-The mapping restores a three-stage sequence. Sanskrit operates as the engineered calibrant; contact carries its radiance into another speech community; and the receiving language develops a *Pratibimba* through its own natural history. Comparative philology observes correspondences among those reflections and, because it assumes descent, averages them into a vanished common ancestor. The calibrant account explains the same correspondences as reflections of Sanskritic radiance. The evidence remains the same, but the movement runs in the other direction: formed Speech first, reflections afterward.
+The mapping restores a three-stage sequence. Sanskrit provides the engineered calibrant; contact carries its radiance into another speech community; and the receiving language develops a *Pratibimba* through its own natural history. Comparative philology observes correspondences among those reflections and, because it assumes descent, averages them into a vanished common ancestor. The calibrant account explains the same correspondences as reflections of Sanskritic radiance. The evidence remains the same, but the movement runs in the other direction: formed Speech first, reflections afterward.
 
 Sanskrit as calibrant. The natural languages of Central and West Asia as calibrated. Their *Pratibimba* projected backward by nineteenth-century European philologists as PIE.
 
@@ -324,7 +324,7 @@ The inversion is now entirely visible: the living language was declared dead, wh
 
 The Rāhu image from the Preface now becomes literal: a head without a body, granted position without life.
 
-The false split around Pāṇini collapses with it. Sanskrit before Pāṇini was not *prakṛti* waiting for an ancestor, and Sanskrit after Pāṇini was not codification waiting for an authority. The same calibrated architecture runs through the Veda, through Pāṇini, and beyond him.
+The false split around Pāṇini collapses with it. Sanskrit before Pāṇini was not *prakṛti* waiting for an ancestor, and Sanskrit after Pāṇini was not the product of the codification myth. The same calibrated architecture runs through the Veda, through Pāṇini, and beyond him.
 
 PIE is in the sky. PIE is imaginary. The architecture is on the ground.
 
