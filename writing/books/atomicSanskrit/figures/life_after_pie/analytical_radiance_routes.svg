@@ -20,7 +20,7 @@
     <rect class="card" width="540" height="175" fill="#e1e8df" stroke="#70856d"/>
     <text x="26" y="40" class="name">Chinese</text><text x="514" y="40" text-anchor="end" class="kind">selective reception</text>
     <text x="26" y="82" class="body">Siddhaṃ learning and the varṇamālā</text>
-    <text x="26" y="120" class="body">Sound coordinates adapted into rime tables</text><text x="26" y="154" class="body">Sustained Buddhist contact</text>
+    <text x="26" y="120" class="body">Sound-grid architecture adapted into rime tables</text><text x="26" y="154" class="body">Sustained Buddhist contact</text>
   </g>
   <g transform="translate(45 325)">
     <rect class="card" width="540" height="175" fill="#e5e2dd" stroke="#77736d"/>

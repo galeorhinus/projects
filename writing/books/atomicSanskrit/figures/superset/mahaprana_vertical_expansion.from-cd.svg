@@ -124,5 +124,5 @@
   <line x1="45" y1="720" x2="1075" y2="720" stroke="#e0ddd5" stroke-width="1.5"></line>
   <text x="560" y="762" font-size="28" text-anchor="middle" fill="#555759" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">Same five mouth-stations. Two breath levels per voicing become four</text>
   <text x="560" y="797" font-size="28" text-anchor="middle" fill="#555759" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">breath-voicing combinations per place. The grid multiplies vertically without</text>
-  <text x="560" y="832" font-size="28" text-anchor="middle" fill="#555759" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">adding new horizontal coordinates.</text>
+  <text x="560" y="832" font-size="28" text-anchor="middle" fill="#555759" font-style="italic" font-weight="400" font-family="&#39;Gentium Book Plus&#39;, Charter, &#39;Charis SIL&#39;, Georgia, serif">adding new horizontal grid addresses.</text>
 </svg>

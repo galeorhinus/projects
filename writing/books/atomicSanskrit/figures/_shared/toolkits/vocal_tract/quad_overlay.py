@@ -24,7 +24,7 @@ language so it stays implicit in the filename's ``sk_`` prefix):
   - sk_english_arabic_farsi.py         External Comparison
 
 The figure self-titles using the spec's ``set_name`` plus the
-dynamically computed "{covered} of {total} Sanskrit Base Coordinates"
+dynamically computed "{covered} of {total} Sanskrit Base Cells"
 count, and self-subtitles with the actual unfilled Devanāgarī letters.
 
 Two layout formats — auto-selected by column count:
@@ -389,7 +389,7 @@ def _render_svg(spec: QuadOverlaySpec,
 
     title_text = (
         f"{spec.set_name}: {covered} of {total_sanskrit} "
-        f"Sanskrit Base Coordinates"
+        f"Sanskrit Base Cells"
     )
 
     # ---- Canvas + matrix placement ----
@@ -558,7 +558,7 @@ def _render_svg(spec: QuadOverlaySpec,
             f'font-size="{subtitle_font:.4f}" font-style="italic" '
             f'fill="{palette["data"]}" font-family="{font}">'
             f'Mahāprāṇa rows held aside · '
-            f'All Sanskrit base coordinates covered.</text>\n'
+            f'All Sanskrit base cells covered.</text>\n'
         )
 
     # ---- Sanskrit cell tints (below grid + corner marks) ----

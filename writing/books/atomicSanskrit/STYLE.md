@@ -335,6 +335,18 @@ For the main book:
 - Let data sections read as tests, not surveys.
 - End each section when its last load-bearing explanation is complete, without adding a summary slogan.
 
+## Sound Placement Vocabulary
+
+Keep bodily sound production distinct from placement in the *varṇamālā*:
+
+- **articulatory axis** names a dimension used to describe production, such as *sthāna* or *prayatna*;
+- **articulatory coordinates** are the sound's values along those axes;
+- **grid address** is the stable position Sanskrit assigns to a selected sonomer;
+- **grid cell** is the visible square that represents an address in a figure;
+- **address space** is the complete organized set of available grid addresses.
+
+Do not call *sthāna* and *prayatna* "two coordinates." They are two axes. Do not use *coordinate* for a sonomer's placement in the *varṇamālā*. Preserve *coordinate* where it accurately describes a different mathematical or grammatical system, such as the person-number-*pada* positions in the *leṭ* collision test.
+
 ## Short Form
 
 If a task asks for the "Atomic Sanskrit direct college-level style," use:

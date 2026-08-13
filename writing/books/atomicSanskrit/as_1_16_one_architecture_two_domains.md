@@ -63,7 +63,7 @@ The pyramid treats these differences as remnants of an "archaic" language. That 
 
 The read-only Vedic corpus can preserve a wider range of forms because every form remains attached to fixed words, pitch, sequence, and inherited interpretation. These boundaries help a reader distinguish forms that could collide in a newly composed sentence. The *laukika* domain faces a different requirement. Its speakers create sentences that have never existed before, so its reusable forms must remain clear without depending on a permanently fixed context.
 
-Chapter 9 called this recurring logic the ***Principle of Architectural Selection and Scope (PASS)***. There it appeared as four tests for deciding whether a sound should receive a reusable sonomer coordinate. At the scale of the two domains, PASS compares what each additional resource contributes with the duplication, variation, or collision it introduces. The *vaidika* domain can accept that load because pitch, fixed wording, inherited interpretation, and exact transmission contain it within a received passage. The *laukika* domain receives the resource only when its contribution remains greater than its load across unrestricted new composition.
+Chapter 9 called this recurring logic the ***Principle of Architectural Selection and Scope (PASS)***. There it appeared as four tests for deciding whether a sound should receive a reusable grid address. At the scale of the two domains, PASS compares what each additional resource contributes with the duplication, variation, or collision it introduces. The *vaidika* domain can accept that load because pitch, fixed wording, inherited interpretation, and exact transmission contain it within a received passage. The *laukika* domain receives the resource only when its contribution remains greater than its load across unrestricted new composition.
 
 Figure 16.3 applies that principle. The checks mark the two combinations Sanskrit selects. *Vaidika* combines extended designed variation with read-only content. *Laukika* combines a more restricted range with generative content. The crosses show what each domain would lose under the other combination: without its extended range, the Vedas would become an insufficient calibrant; with the full Vedic range, unrestricted *laukika* composition would become collision-prone.
 
@@ -81,9 +81,9 @@ The first five categories describe how designed variation shapes what a listener
 
 3. **Melodic and recitational function.** A ***प्लुत (*pluta*)*** duration, specified hiatus, or Sāmavedic ***स्तोभ (*stobha*)*** can serve melody, breath, contemplation, or exact performance within the passage that preserves it.
 
-4. **Sonomeric selection and distinguishability.** The Vedic domain can preserve a sound needed by a received word without promoting that sound to an independent coordinate in the reusable sonomer grid.
+4. **Sonomeric selection and distinguishability.** The Vedic domain can preserve a sound needed by a received word without promoting that sound to an independent address in the reusable sonomer grid.
 
-The Mahābhāṣya's report of half-*e* and half-*o* in two Sāmavedic lineages provides a precise example. Exact recitation preserves those vowels where the inherited passage requires them, while ordinary *laukika* composition does not receive two additional reusable coordinates.
+The Mahābhāṣya's report of half-*e* and half-*o* in two Sāmavedic lineages provides a precise example. Exact recitation preserves those vowels where the inherited passage requires them, while ordinary *laukika* composition does not receive two additional reusable addresses.
 
 5. **Sound pattern and resonance.** Repetition, alliteration, recurring vowel shapes, and related patterns strengthen poetry and memory. A selected form can serve these patterns even when it adds no lexical meaning.
 
@@ -149,9 +149,9 @@ The opening mantra of the Ṛgveda shows another kind of selection:
 
 A student trained in laukika Sanskrit may pause at **ईळे (*īḷe*)**. Laukika Sanskrit uses **ईडे (*īḍe*)**, *I praise*. The Ṛgvedic lineage preserves the retroflex lateral **ळ [ɭ]** in the received word.[NOTE: agnimile-rigveda-opening]
 
-Chapter 9 explained why a sound can exist in Sanskrit without receiving an independent coordinate in the reusable sonomer grid. A highly reusable sonomer requires two things: the ability to combine generatively with vowels, and sufficient acoustic precision to remain distinguishable from adjacent sounds during repeated use. The Vedic domain can preserve **ळ** wherever a fixed passage requires it because the word, sound, and position remain known. Laukika Sanskrit does not need to promote **ळ** into that grid because its narrowly restricted Vedic use does not supply an independent generative function.
+Chapter 9 explained why a sound can exist in Sanskrit without receiving an independent address in the reusable sonomer grid. A highly reusable sonomer requires two things: the ability to combine generatively with vowels, and sufficient acoustic precision to remain distinguishable from adjacent sounds during repeated use. The Vedic domain can preserve **ळ** wherever a fixed passage requires it because the word, sound, and position remain known. Laukika Sanskrit does not need to promote **ळ** into that grid because its narrowly restricted Vedic use does not supply an independent generative function.
 
-The same principle of contextual generation applies to sounds such as ***उपध्मानीय (*upadhmānīya*)*** and ***जिह्वामूलीय (*jihvāmūlīya*)***. Sanskrit produces them under narrowly defined conditions without granting either sound an independent coordinate in the reusable sonomer grid. Chapters 9 and 15 examine this distinction in detail.[NOTE: vedic-jihvamuliya-upadhmaniya-pair]
+The same principle of contextual generation applies to sounds such as ***उपध्मानीय (*upadhmānīya*)*** and ***जिह्वामूलीय (*jihvāmūlīya*)***. Sanskrit produces them under narrowly defined conditions without granting either sound an independent address in the reusable sonomer grid. Chapters 9 and 15 examine this distinction in detail.[NOTE: vedic-jihvamuliya-upadhmaniya-pair]
 
 ### Resonance and Memory
 

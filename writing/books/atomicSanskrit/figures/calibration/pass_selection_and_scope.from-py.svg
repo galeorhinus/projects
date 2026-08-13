@@ -51,8 +51,8 @@
 <text x="1040.0" y="319.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="18" font-weight="600" font-style="normal" fill="#f7f4ed" text-anchor="middle">Excluded</text>
 <line x1="52" y1="365" x2="1148" y2="365" stroke="#cfc6b5" stroke-width="2"/>
 <text x="52.0" y="407.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="27" font-weight="600" font-style="normal" fill="#29251f" text-anchor="start">Physical possibility does not by itself create a sonomer.</text>
-<text x="52.0" y="439.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="20" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">Sanskrit can exclude an independent coordinate while preserving a nearby sound under a stated condition.</text>
-<text x="72.0" y="486.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="20" font-weight="600" font-style="normal" fill="#8b4b3d" text-anchor="start">Independent coordinate</text>
+<text x="52.0" y="439.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="20" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">Sanskrit can leave a grid address unassigned while preserving a nearby sound under a stated condition.</text>
+<text x="72.0" y="486.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="20" font-weight="600" font-style="normal" fill="#8b4b3d" text-anchor="start">Independent grid address</text>
 <text x="620.0" y="486.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="20" font-weight="600" font-style="normal" fill="#65715b" text-anchor="start">Restricted articulation</text>
 <rect x="72" y="505" width="508" height="112" rx="5" fill="#f7f4ed" stroke="#8b4b3d" stroke-width="2"/>
 <text x="94.0" y="543.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="27" font-weight="600" font-style="normal" fill="#8b4b3d" text-anchor="start">[ɰ] · kaṇṭhya–antaḥstha</text>

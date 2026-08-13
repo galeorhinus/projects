@@ -20,7 +20,7 @@
 
 The entire Proto-Indo-European framework is built to answer this single question. But the theory collapses because the question itself is fundamentally flawed. It assumes Sanskrit is an evolutionary accident, rather than an engineered architecture.
 
-The preceding chapters have established an engineered sonomer coordinate system, the *dhātavaḥ*, generative rules, a retroflex core, a calibration matrix, a living recitation system, and the analytical disciplines that preserved and decoded the whole. Together, these features describe an engineered linguistic architecture rather than a natural speech-form drifting from an earlier natural speech-form.
+The preceding chapters have established an engineered sonomer address grid, the *dhātavaḥ*, generative rules, a retroflex core, a calibration matrix, a living recitation system, and the analytical disciplines that preserved and decoded the whole. Together, these features describe an engineered linguistic architecture rather than a natural speech-form drifting from an earlier natural speech-form.
 
 Part VI turns to the account that has continued to treat this object as something else. The next two chapters divide that work. Ch18 establishes the structural argument: the genealogical project fundamentally misrepresents the physical construction of Sanskrit, and any precursor model framed inside that project will fail the same structural test for the same structural reason. Chapter 19 tests the specific construct — PIE — directly. Together the two chapters close the loop opened in Chapter 1: the botanical metaphor fails on a language engineered against the behavior the metaphor describes; Ch18 develops the structural reason no genealogical reconstruction can recover what the metaphor has prevented from being seen.
 
@@ -36,7 +36,7 @@ Proto-Indo-European theory starts with the wrong question.
 
 Any valid model of Sanskrit must explain six structural features.
 
-First: the ***varṇamālā*** as an engineered sonomer coordinate system (Chapter 7). A list of sounds is not enough. The model must explain which sounds Sanskrit promotes to reusable sonomers, which sounds it excludes, and how it arranges the selected sonomers within an ordered map of the mouth.
+First: the ***varṇamālā*** as an engineered sonomer address grid (Chapter 9). A list of sounds is not enough. The model must explain which sounds Sanskrit promotes to reusable sonomers, which sounds it excludes, and how it arranges the selected sonomers within an ordered map of the mouth.
 
 Second: the ***dhātu*** architecture (Chapters 2 and 10). Sanskrit does not merely have a loose inventory of verbal bases. It builds semantic atoms from those sonomers. Each atom preserves its identity through bonding and generates vocabulary through rule-defined combination.
 
@@ -57,7 +57,7 @@ Any model of Sanskrit has to explain all six. A model that explains none of thes
 
 Historical linguists call this procedure the **comparative method**. They compare recorded languages, identify recurring sound correspondences, group languages by features they consider inherited, and use those patterns to reconstruct hypothetical earlier forms. The method can explain how Latin developed into the Romance languages, how Germanic sounds changed, and how Iranian and Sanskrit forms correspond.
 
-The method assumes ordinary linguistic friction: drift, sound change, analogy, semantic shift, simplification, innovation, and inheritance. It therefore reconstructs an ordinary natural language. It cannot produce an engineered sonomer coordinate system because that category does not exist inside its procedure. It cannot produce a calibration matrix because preservation architecture is not a feature it looks for. It cannot explain why a language would be built to resist the drift the method assumes.
+The method assumes ordinary linguistic friction: drift, sound change, analogy, semantic shift, simplification, innovation, and inheritance. It therefore reconstructs an ordinary natural language. It cannot produce an engineered sonomer address grid because that category does not exist inside its procedure. It cannot produce a calibration matrix because preservation architecture is not a feature it looks for. It cannot explain why a language would be built to resist the drift the method assumes.
 
 This is the category theft. The genealogical project looks at Sanskrit after the engineering is already visible and asks which precursor could have produced the surface. The architectural test examines how the engineering was specified, built, preserved, and decoded. The two inquiries belong to different categories.
 
@@ -65,7 +65,7 @@ This is the category theft. The genealogical project looks at Sanskrit after the
 
 We can now compare each of the six requirements with what the genealogical project actually reconstructs.
 
-The ***varṇamālā***: PIE reconstruction can propose a sound inventory and identify recurring correspondences among languages. It cannot explain which sounds Sanskrit promotes to sonomers, why other pronounceable sounds remain outside the system, or why the selected sonomers occupy precise coordinates based on place of articulation and effort. A reconstructed inventory of sounds does not explain the engineering of the sonomer system.
+The ***varṇamālā***: PIE reconstruction can propose a sound inventory and identify recurring correspondences among languages. It cannot explain which sounds Sanskrit promotes to sonomers, why other pronounceable sounds remain outside the system, or why Sanskrit assigns each selected sonomer a precise grid address derived from its articulatory coordinates. A reconstructed inventory of sounds does not explain the engineering of the sonomer system.
 
 The ***dhātu*** architecture: PIE reconstruction can propose earlier word-forms. It cannot explain why Sanskrit builds semantic atoms from sonomers, preserves their identity as *upasargāḥ* and *pratyayāḥ* attach, and generates extensive families of words from them.
 
@@ -240,7 +240,7 @@ Bṛhaspati's mantra describes how the wise formed Speech:
 >
 > *There the wise formed Speech with the mind, refining it as grain is sifted through a sieve.* (RV 10.71.2)[NOTE: rigveda-10-71-2-sieve-vak]
 
-The human mouth can pronounce far more sounds than Sanskrit uses. Surveying the sounds recurring across the Indian subcontinent, identifying their anatomical relationships, and arranging them by place of articulation and effort required deliberate analysis. The engineering then selected the wider sound range needed within the bounded *vaidika* domain and promoted a smaller reusable set into the sonomer coordinate system available for unrestricted *laukika* generation. From those sonomers it built semantic atoms, and from those atoms it built a grammar capable of producing words and sentences for circumstances that no earlier composition could have listed.
+The human mouth can pronounce far more sounds than Sanskrit uses. Surveying the sounds recurring across the Indian subcontinent, identifying their anatomical relationships, and arranging them by place of articulation and effort required deliberate analysis. The engineering then selected the wider sound range needed within the bounded *vaidika* domain and promoted a smaller reusable set into the sonomer address grid available for unrestricted *laukika* generation. From those sonomers it built semantic atoms, and from those atoms it built a grammar capable of producing words and sentences for circumstances that no earlier composition could have listed.
 
 That is no small feat.
 
@@ -284,7 +284,7 @@ Do we know whether this complete sequence describes how Sanskrit and its preserv
 
 We do not know the historical identities of the wise, when they engineered Sanskrit, when each mantra was seen, or how the architecture first entered human life. The title of this section states the epistemic status of the account. This Atri offers it as an honest speculation rather than laundering it into a chronology and demanding that everyone else call it settled history.
 
-What we do know remains available for examination. The Sanskrit that the continuum preserved already displays its engineering in full. Its architecture survives in the mouth, the sonomer coordinate system, the atoms, the bonding operations, the grammar, and the sentences. The Vedas preserve that architecture through pitch, meter, exact recitation, mutually checking *pāṭhas*, correction, and distributed lineages. The Vedas also encode the other architectures of *saṃskṛti*. This book follows the linguistic architecture because it remains visible, audible, measurable, and testable.
+What we do know remains available for examination. The Sanskrit that the continuum preserved already displays its engineering in full. Its architecture survives in the mouth, the sonomer address grid, the atoms, the bonding operations, the grammar, and the sentences. The Vedas preserve that architecture through pitch, meter, exact recitation, mutually checking *pāṭhas*, correction, and distributed lineages. The Vedas also encode the other architectures of *saṃskṛti*. This book follows the linguistic architecture because it remains visible, audible, measurable, and testable.
 
 The evidence does not reveal the engineers' biographies. It reveals what they built.
 

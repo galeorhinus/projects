@@ -50,9 +50,11 @@ The anatomy makes the instrument analogy concrete. A clarinet has one reed and a
 
 ## 7.3 Consonants Are Events
 
-Think of a consonant as an event of contact or near-contact. Every consonant is mapped by exactly two coordinates:
+Think of a consonant as an event of contact or near-contact. Two articulatory axes describe that event:
  1. **Place:** *Where* does the mouth make contact?
  2. **Manner:** *How* is the breath managed?
+
+The sound's values along these axes are its **articulatory coordinates**. They describe how the body produces the sound; they do not assign the sound a position in a language's inventory.
  
 Words like *stop*, *fricative*, and *nasal* describe these different manners. When you make a "stop," you block the airflow completely. When you make a "fricative," you squeeze the air through a tight gap to create friction. When you make a "nasal," you route the breath entirely through the nose. These specific manners turn a physical touch into a spoken syllable.
 

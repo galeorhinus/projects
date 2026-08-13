@@ -4,7 +4,7 @@
 Quad-overlay matrix.  Two East Slavic languages and one Caucasian
 Iranian language — all classified by the orthodoxy as "Indo-
 European" relatives of Sanskrit.  The figure asks how much of
-Sanskrit's base coordinates this Eastern European / Caucasus
+Sanskrit's base cells this Eastern European / Caucasus
 cluster covers.
 
 Shared renderer:  _shared/toolkits/vocal_tract/quad_overlay.py

@@ -128,7 +128,7 @@ The whole language follows the sūtra-discipline.
 
 ### One Architecture, Two Domains
 
-The calibration matrix serves two different responsibilities. Vedic transmission preserves every received passage exactly, including the meaning-bearing *udātta-anudātta-svarita* pitch pattern, *pluta* duration, contextual *upadhmānīya*, and the **ड → ळ** realization specified by the *Ṛgveda-Prātiśākhya*. Chapter 9 explains why Sanskrit can preserve these sounds under defined conditions without assigning each one an independent coordinate in the reusable sonomer grid.
+The calibration matrix serves two different responsibilities. Vedic transmission preserves every received passage exactly, including the meaning-bearing *udātta-anudātta-svarita* pitch pattern, *pluta* duration, contextual *upadhmānīya*, and the **ड → ळ** realization specified by the *Ṛgveda-Prātiśākhya*. Chapter 9 explains why Sanskrit can preserve these sounds under defined conditions without assigning each one an independent grid address in the reusable sonomer inventory.
 
 The *laukika* domain uses the same architecture for new composition. Its sonomers must combine consistently across new words, and an *upasarga* bonds directly with its atom so that a reader can follow a sentence that has never been composed before. The read-only Vedic corpus can preserve a contextual sound or a separated *upasarga* at an exact position because no later reciter may rearrange the passage.
 

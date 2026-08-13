@@ -191,11 +191,11 @@ def render() -> str:
             text(
                 52,
                 439,
-                "Sanskrit can exclude an independent coordinate while preserving a nearby sound under a stated condition.",
+                "Sanskrit can leave a grid address unassigned while preserving a nearby sound under a stated condition.",
                 size=20,
                 color=MUTED,
             ),
-            text(72, 486, "Independent coordinate", size=20, color=RED, weight=600),
+            text(72, 486, "Independent grid address", size=20, color=RED, weight=600),
             text(620, 486, "Restricted articulation", size=20, color=GREEN, weight=600),
         ]
     )

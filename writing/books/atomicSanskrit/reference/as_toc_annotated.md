@@ -125,14 +125,14 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 7.7 Categories of Sound — *The four-category framework:* sparśa, swara, antaḥstha, ūṣman.
 - 7.8 *Sthāna*, *Prayatna*, and *Mātrā* — *The Sanskrit decomposition of sound as place, bodily effort, and measured duration.*
 
-**Chapter 8 — The Subcontinental Sound-Field** — *The survey chapter. Distinguishes a physically produced sound from a language-level coordinate, explains the inventory-atlas method, and uses southern and forest-belt surveys to show the subcontinental field lighting most Sanskrit base coordinates, with the gaps as near-neighbor snap-to-grid moves.*
+**Chapter 8 — The Subcontinental Sound-Field** — *The survey chapter. Distinguishes a physically produced sound from a language-level grid address, explains the inventory-atlas method, and uses southern and forest-belt surveys to show the subcontinental field lighting most Sanskrit base cells, with the gaps as near-neighbor snap-to-grid moves.*
 
 - 8.1 The Sounds Already Here — *The subcontinent already uses the mouth-zones, retroflex band, contact sounds, nasals, sibilants, and breath possibilities Sanskrit curates.*
-- 8.2 A Sound Is Not Always a Slot — *The field-versus-coordinate distinction.*
-- 8.3 How We Map the Sounds — *The inventory-atlas method: harmonized coordinates,* mahāprāṇa-*strip preset, union-coverage survey.*
+- 8.2 A Sound Is Not Always a Slot — *The distinction between a possible sound and an assigned grid address.*
+- 8.3 How We Map the Sounds — *The inventory-atlas method: harmonized articulatory coordinates,* mahāprāṇa-*strip preset, union-coverage survey.*
 - 8.4 A Note on *Draviḍa* and Dravidian — *Uses current labels without accepting the racial Arya / Dravidian civilizational divide.*
 - 8.5 The Regional Pattern Persists — *The regional pattern is stable enough for an engineered selection to be plausible.*
-- 8.6 The Southern Survey: 20 of 23 — *Tamil, Toda, and Kurukh light twenty of the twenty-three Sanskrit base coordinates.*
+- 8.6 The Southern Survey: 20 of 23 — *Tamil, Toda, and Kurukh light twenty of the twenty-three Sanskrit base cells.*
 - 8.7 The Forest-Belt Survey: 18 of 23 — *Korku, Mundari, and Ho light eighteen of the twenty-three.*
 - 8.8 External Controls — *Western IE and Central Asian controls show much lower coverage.*
 - 8.9 The Gaps Are Neighbors — *The missing cells are nearby mouth-neighbors, not structural absences.*
@@ -140,18 +140,18 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 8.11 Breath Above the Base — *Mahāprāṇa *and* visarga *prepared as breath made structural.*
 - 8.12 What the Comparison Shows — *The region supplies the sounds; Chapter 9 shows the sieve and the grid.*
 
-**Chapter 9 — The Varṇamālā: The Sonomeric Grid** — *Turns the surveyed sound-field into the selected Sanskrit parts-inventory: garland, address-space, control panel, breath-coordinate, measured duration, and sound volume — and lifts the Alphabetic shadow.*
+**Chapter 9 — The Varṇamālā: The Sonomeric Grid** — *Turns the surveyed sound-field into the selected Sanskrit parts-inventory: garland, address space, control panel, breath axis, measured duration, and sound volume — and lifts the Alphabetic shadow.*
 
 - 9.1 The Garland Becomes a Grid — *The Vedic sieve and the* varṇamālā *as Sanskrit's own image of selected sonomers: engineering made radiant.*
 - 9.2 The Four Divisions — *The selected inventory sorted by work: vowels, contact sounds, between-standing, friction/breath, and boundary carriers.*
 - 9.3 Every Sound Has an Address — *The sonomer grid as place-and-manner address space.*
 - 9.4 The Control Panel — *The 5×5* sparśa *matrix as five stations crossed with breath, voice, and nasal control.*
-- 9.5 Breath as a Coordinate — *Mahāprāṇa *and* ayogavāha *as breath made structural.*
+- 9.5 Breath as an Axis — *Mahāprāṇa *and* ayogavāha *as breath made structural.*
 - 9.6 Nuclei, Contacts, and Timing — *The* akṣara *as vowel-centered assembly;* mātrā *as timed duration; the sonomer/audiograph distinction.*
-- 9.7 The Svara Coordinate System — *The familiar fourteen-form teaching row separated from the nine-family vowel architecture.*
+- 9.7 The Svara Address Grid — *The familiar fourteen-form teaching row separated from the nine-family vowel architecture.*
 - 9.8 Duration, Pitch, and Nasality — *Nine families unfold into 132 analytically distinguishable realizations without becoming 132 written vowels.*
 - 9.9 The Sound Volume — *The 5×7 consonant plane extruded through the formal 14-position teaching axis.*
-- 9.10 What Earns a Coordinate — *PASS distinguishes Included sonomers, Restricted outputs, Vaidika and Lineage-Bounded forms, and Excluded consonant and vowel coordinates.*
+- 9.10 What Earns a Grid Address — *PASS distinguishes Included sonomers, Restricted outputs, Vaidika and Lineage-Bounded forms, and Excluded consonant and vowel addresses.*
 - 9.11 Engineered Margin — *What Sanskrit leaves out as collision-avoidance and preservation margin.*
 - 9.12 Varṇa Is Not Letter — *The Alphabetic shadow lifted:* varṇa *is a measured sound-particle, the* varṇamālā *a sonomeric grid — not an alphabet of marks. The marks follow; the grid is the engineering.*
 - 9.13 The Grid Orders the Garland — *The close: addressed, role-assigned, timed sonomers become the parts Chapter 10 snaps into atoms.*

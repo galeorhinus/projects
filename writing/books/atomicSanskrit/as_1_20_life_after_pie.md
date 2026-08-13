@@ -60,7 +60,7 @@ Because Chinese characters do not spell pronunciation alphabetically, a reader c
 
 Before sustained exposure to Sanskrit’s sound-science, Chinese scholars used **反切 (*fǎnqiè*)** to indicate pronunciation: one familiar character supplied the opening sound, and another supplied the remainder.
 
-Chinese scholars encountered the *varṇamālā* through the study of **सिद्धं (*Siddhaṃ*)**. The *varṇamālā* places sounds at systematic coordinates within an articulated grid. That matrix gave them a more powerful way to organize Chinese initials, finals, tones, and rhyme categories.
+Chinese scholars encountered the *varṇamālā* through the study of **सिद्धं (*Siddhaṃ*)**. The *varṇamālā* assigns selected sounds systematic grid addresses based on how the mouth produces them. That matrix gave Chinese scholars a more powerful way to organize initials, finals, tones, and rhyme categories.
 
 The result was a new analytical instrument: the rime table. Chinese scholars adapted Sanskrit’s sound-engine to Chinese phonology by placing syllable initials along one dimension while arranging finals, tones, and related distinctions across the other. No known Chinese rime table predates sustained Sanskritic contact.[NOTE: buddhist-asia-radiance]
 

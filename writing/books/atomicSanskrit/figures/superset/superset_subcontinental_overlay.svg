@@ -2,9 +2,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="5.3500in" height="6.3600in" viewBox="0 0 5.3500 6.3600" data-om-id="4f10f505:12">
   
     <rect x="0" y="0" width="5.3500" height="6.3600" fill="#f4f4f3" data-om-id="4f10f505:13"/>
-  <text x="0.1691" y="0.3500" font-size="0.175" font-weight="600" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" data-om-id="4f10f505:14">Southern Survey: 20 of 23 Sanskrit Base Coordinates</text>
+  <text x="0.1691" y="0.3500" font-size="0.175" font-weight="600" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" data-om-id="4f10f505:14">Southern Survey: 20 of 23 Sanskrit Base Cells</text>
   <text x="0.1691" y="0.6150" font-size="0.111" fill="#555759" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" data-om-id="4f10f505:15">Mahāprāṇa rows held aside. Tamil, Toda, and Kurukh fill 20 of 23 Sanskrit</text>
-  <text x="0.1691" y="0.7900" font-size="0.111" fill="#555759" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" data-om-id="4f10f505:16">base coordinates. Unfilled: <tspan font-family="'Adobe Devanagari', 'Noto Serif Devanagari', 'Kohinoor Devanagari', 'Devanagari MT', serif" fill="#2b2b2d" data-om-id="4f10f505:17">ल · स · श</tspan>.</text>
+  <text x="0.1691" y="0.7900" font-size="0.111" fill="#555759" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" data-om-id="4f10f505:16">base cells. Unfilled: <tspan font-family="'Adobe Devanagari', 'Noto Serif Devanagari', 'Kohinoor Devanagari', 'Devanagari MT', serif" fill="#2b2b2d" data-om-id="4f10f505:17">ल · स · श</tspan>.</text>
   <g transform="translate(0, 0.7100)" data-om-id="4f10f505:18">
   <rect x="1.3450" y="1.3850" width="0.42" height="0.42" rx="0.06" fill="#e6e3db" stroke="none" data-om-id="4f10f505:19"/>
   <rect x="1.3450" y="1.9350" width="0.42" height="0.42" rx="0.06" fill="#e6e3db" stroke="none" data-om-id="4f10f505:20"/>
@@ -186,7 +186,7 @@
   <text x="4.2050" y="2.0450" text-anchor="middle" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Serif Devanagari', 'Kohinoor Devanagari', 'Devanagari MT', serif" data-om-id="4f10f505:196">ग</text>
   <text x="4.2050" y="3.1450" text-anchor="middle" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Serif Devanagari', 'Kohinoor Devanagari', 'Devanagari MT', serif" data-om-id="4f10f505:197">ङ</text>
   <text x="4.7550" y="2.5950" text-anchor="middle" dominant-baseline="middle" font-size="0.149" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Serif Devanagari', 'Kohinoor Devanagari', 'Devanagari MT', serif" data-om-id="4f10f505:198">ह</text>
-  <text x="2.6750" y="5.4000" text-anchor="middle" font-size="0.111" font-style="italic" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" data-om-id="4f10f505:199">These are contrastive inventory coordinates, not every sound speakers can physically produce.</text>
+  <text x="2.6750" y="5.4000" text-anchor="middle" font-size="0.111" font-style="italic" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" data-om-id="4f10f505:199">These are contrastive inventory grid addresses, not every sound speakers can physically produce.</text>
   <text x="2.6750" y="5.5800" text-anchor="middle" font-size="0.111" fill="#555759" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" data-om-id="4f10f505:200">Corners: Sanskrit top-left, Tamil top-right, Toda bottom-left, Kurukh bottom-right.</text>
   </g>
   

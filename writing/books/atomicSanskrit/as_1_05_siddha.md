@@ -84,7 +84,7 @@ Because *Siddhe* is the locative of *siddha* (meaning "in the established", or "
 
 The full sentence then moves in exact order. First comes the established bond. Then comes **लोकतोऽर्थप्रयुक्ते शब्दप्रयोगे (*lokato 'rthaprayukte śabdaprayoge*)** — word-usage in the world, prompted by meaning. Only after those two premises comes **शास्त्रेण धर्मनियमः (*śāstreṇa dharmaniyamaḥ*)** — regulation by *śāstra* of correct usage. Patañjali gives the order: bond first, usage second, *śāstra* third. *Śāstra* regulates usage. It does not manufacture the bond.
 
-Bṛhaspati's **वाचमक्रत (*vācam akrata*)** (chapter 9) sits one layer beneath this grammar, describing Speech as formed by the wise with the mind. Patañjali's *siddha* gives the grammatical consequence: the formed architecture already stands before an individual speaker uses it. Grammar arrives after that standing has been recognized.
+Bṛhaspati's **वाचमक्रत (*vācam akrata*)** (Chapter 9) describes the wise forming Speech with the mind. Patañjali's *siddha* states the grammatical consequence: Sanskrit's architecture already exists when an individual speaker receives and uses it. Grammar analyzes that existing architecture and teaches the speaker how to use it correctly.
 
 > **Authority vs architecture.** In a codified language, correctness comes from an authority that declares a standard. In Sanskrit, correctness comes from an architecture that is already established. The *śāstra* does not manufacture the standard; it calibrates usage against the standard.
 >
@@ -128,7 +128,7 @@ The Vedas and the analysts who preceded Pāṇini establish the chronology. The 
 
 Patañjali wrote after Pāṇini, so his explanation serves another purpose. He tells us how the grammatical continuum understood the architecture that it had inherited. He does not describe a language that changed freely until Pāṇini fixed it. He does not say that Pāṇini created the bond between words and meanings, stabilized that bond, or imposed it upon speakers.
 
-Patañjali begins with the bond already established. People use words because they intend to express meanings in the world. Grammar enters only after the bond and its usage already exist. Its role is to regulate correct usage. Grammar does not bring the language or the bond into existence.
+Patañjali begins with the bond already established. People use words because they intend to express meanings in the world. Only after the bond and worldly usage already exist does grammar regulate whether that usage remains correct. Grammar therefore acts upon an existing language. It does not create the language or establish the bond between its words and meanings.
 
 The evidence before Pāṇini and the explanation after him meet at the *Aṣṭādhyāyī*. The earlier evidence demonstrates that an established architecture was already operating. Patañjali explains that grammar regulates such an architecture rather than creating it. Pāṇini therefore did not transform a drifting language into a fixed language. He inherited Sanskrit, analyzed its operations, and produced the finest documentation of its grammar.
 

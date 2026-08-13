@@ -122,12 +122,12 @@
 - 9.2 The Four Divisions
 - 9.3 Every Sound Has an Address
 - 9.4 The Control Panel
-- 9.5 Breath as a Coordinate
+- 9.5 Breath as an Axis
 - 9.6 Nuclei, Contacts, and Timing
-- 9.7 The Svara Coordinate System
+- 9.7 The Svara Address Grid
 - 9.8 Duration, Pitch, and Nasality
 - 9.9 The Sound Volume
-- 9.10 What Earns a Coordinate
+- 9.10 What Earns a Grid Address
 - 9.11 Engineered Margin
 - 9.12 Varṇa Is Not Letter
 - 9.13 The Grid Orders the Garland

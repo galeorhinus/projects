@@ -87,7 +87,7 @@ The Eight Core Theses describe the movement of the argument. The Eclipse Ledger 
 
 21. ***Varṇa-śakti* is an internal Sanskritic question made possible by the grid.** The book does not need the claim that every sound in every language has fixed meaning. It needs the narrower architectural fact: stable sonomers make the question of semantic potency serious rather than mystical. **Chapter 10.**
 
-22. **A stated principle decides what earns a coordinate in the sound-grid, not chance or omission.** Included sonomers, restricted outputs, Vedic-only and lineage-bounded forms, and excluded coordinates are each placed by a cost-and-collision logic the book calls the Principle of Architectural Selection and Scope. What the *varṇamālā* leaves out is as deliberate as what it keeps. **Chapter 9 §§9.10–9.11.**
+22. **A stated principle decides what earns a grid address, not chance or omission.** Included sonomers, restricted outputs, Vedic-only and lineage-bounded forms, and excluded addresses are each placed by a cost-and-collision logic the book calls the Principle of Architectural Selection and Scope. What the *varṇamālā* leaves out is as deliberate as what it keeps. **Chapter 9 §§9.10–9.11.**
 
 ### Audiographic — lifts the Abugida plate
 
