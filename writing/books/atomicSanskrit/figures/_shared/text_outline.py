@@ -33,12 +33,29 @@ when its `<text>`/`<tspan>` uses the known-buggy Gentium-Book-Plus-first
 font stack (`contains_risky_latin_font`) — ordinary figures using other
 fonts keep live, selectable Latin text.
 
+A third trigger, found 2026-08-13: `<textPath>` — text curving along an
+arc-band label (place-of-articulation names on the vocal-tract figures,
+PIE-overlay labels, etc.) — was never covered by the two fixes above at
+all. It isn't a milder case of the same bug; in the confirmed failure
+(the varṇamālā garland and vocal-tract-anatomy figures, Ch7/Ch9), the
+whole label disappears rather than losing a character, and it's exposed
+to the same risky-Latin-font trigger since none of these labels were
+ever outlined. `outline_textpath_in_svg` below flattens the referenced
+path (polyline and/or elliptical-arc segments — every textPath href in
+this repo resolves to one or the other, confirmed by audit; no cubic/
+quadratic Bezier commands appear) into an arc-length-parameterized
+polyline, then places each shaped glyph at its own arc-length position
+along it with a rotation matching the local tangent — the same
+shape-then-bake approach as straight text, just walking a curve instead
+of the x-axis for glyph placement.
+
 Requires `uharfbuzz` (shaping) and `fontTools` (outline extraction) — both
 live in the project's `.venv-figures/` virtualenv, not the system Python.
 """
 
 from __future__ import annotations
 
+import math
 import re
 from dataclasses import dataclass
 from functools import lru_cache
@@ -217,6 +234,211 @@ def _outline_run(
     return "".join(paths)
 
 
+# --- textPath support: flatten the referenced path, walk it by arc-length ---
+
+_PATH_TOKEN_RE = re.compile(r"[MLAZmlaz]|-?\d*\.?\d+(?:[eE][-+]?\d+)?")
+
+
+def _sample_arc(
+    p0: tuple[float, float],
+    rx: float,
+    ry: float,
+    x_axis_rotation_deg: float,
+    large_arc_flag: float,
+    sweep_flag: float,
+    p1: tuple[float, float],
+    n_samples: int = 24,
+) -> list[tuple[float, float]]:
+    """Endpoint-to-center conversion for one SVG elliptical-arc command
+    (W3C SVG 1.1 Appendix F.6.5), then sampled at n_samples evenly-spaced
+    points. Every `A` command found in this repo's textPath-referenced
+    paths is a single arc (confirmed by audit), so exactness beyond
+    visual smoothness isn't needed — this is deliberately a sampled
+    approximation, not an exact arc-length parameterization."""
+    x0, y0 = p0
+    x1, y1 = p1
+    if rx == 0 or ry == 0 or (x0 == x1 and y0 == y1):
+        return [p1]
+    phi = math.radians(x_axis_rotation_deg)
+    cos_phi, sin_phi = math.cos(phi), math.sin(phi)
+    dx2, dy2 = (x0 - x1) / 2.0, (y0 - y1) / 2.0
+    x1p = cos_phi * dx2 + sin_phi * dy2
+    y1p = -sin_phi * dx2 + cos_phi * dy2
+    rx, ry = abs(rx), abs(ry)
+    lam = (x1p ** 2) / (rx ** 2) + (y1p ** 2) / (ry ** 2)
+    if lam > 1:
+        s = math.sqrt(lam)
+        rx *= s
+        ry *= s
+    sign = -1.0 if large_arc_flag == sweep_flag else 1.0
+    num = rx ** 2 * ry ** 2 - rx ** 2 * y1p ** 2 - ry ** 2 * x1p ** 2
+    den = rx ** 2 * y1p ** 2 + ry ** 2 * x1p ** 2
+    co = sign * math.sqrt(max(num / den, 0.0)) if den else 0.0
+    cxp = co * (rx * y1p / ry)
+    cyp = co * (-ry * x1p / rx)
+    cx = cos_phi * cxp - sin_phi * cyp + (x0 + x1) / 2.0
+    cy = sin_phi * cxp + cos_phi * cyp + (y0 + y1) / 2.0
+
+    def _angle(ux: float, uy: float, vx: float, vy: float) -> float:
+        length = math.sqrt((ux ** 2 + uy ** 2) * (vx ** 2 + vy ** 2))
+        if not length:
+            return 0.0
+        dot = max(-1.0, min(1.0, (ux * vx + uy * vy) / length))
+        ang = math.acos(dot)
+        return -ang if ux * vy - uy * vx < 0 else ang
+
+    theta1 = _angle(1.0, 0.0, (x1p - cxp) / rx, (y1p - cyp) / ry)
+    dtheta = _angle((x1p - cxp) / rx, (y1p - cyp) / ry, (-x1p - cxp) / rx, (-y1p - cyp) / ry)
+    if not sweep_flag and dtheta > 0:
+        dtheta -= 2 * math.pi
+    elif sweep_flag and dtheta < 0:
+        dtheta += 2 * math.pi
+
+    points = []
+    for k in range(1, n_samples + 1):
+        t = theta1 + dtheta * k / n_samples
+        ex = cx + rx * math.cos(t) * cos_phi - ry * math.sin(t) * sin_phi
+        ey = cy + rx * math.cos(t) * sin_phi + ry * math.sin(t) * cos_phi
+        points.append((ex, ey))
+    return points
+
+
+def _parse_path_d(d: str) -> list[tuple[float, float]]:
+    """Flatten an SVG path's `d=` string into a polyline dense enough for
+    linear interpolation between consecutive points to look smooth,
+    including through elliptical-arc segments (sampled via _sample_arc).
+    Only M/L/A/Z are implemented — the full command set isn't needed
+    here, since every path a textPath references in this repo uses only
+    those (confirmed by audit; see module docstring)."""
+    tokens = _PATH_TOKEN_RE.findall(d)
+    points: list[tuple[float, float]] = []
+    cur = (0.0, 0.0)
+    start = (0.0, 0.0)
+    cmd = ""
+    i = 0
+    while i < len(tokens):
+        tok = tokens[i]
+        if tok in "MLAZmlaz":
+            cmd = tok
+            i += 1
+            continue
+        if cmd in ("M", "m"):
+            x, y = float(tokens[i]), float(tokens[i + 1])
+            if cmd == "m" and points:
+                x += cur[0]
+                y += cur[1]
+            cur = (x, y)
+            start = cur
+            points.append(cur)
+            i += 2
+            cmd = "L" if cmd == "M" else "l"  # implicit lineto per SVG spec
+        elif cmd in ("L", "l"):
+            x, y = float(tokens[i]), float(tokens[i + 1])
+            if cmd == "l":
+                x += cur[0]
+                y += cur[1]
+            cur = (x, y)
+            points.append(cur)
+            i += 2
+        elif cmd in ("A", "a"):
+            rx, ry, xrot, large, sweep, x, y = (float(tokens[i + k]) for k in range(7))
+            if cmd == "a":
+                x += cur[0]
+                y += cur[1]
+            points.extend(_sample_arc(cur, rx, ry, xrot, large, sweep, (x, y)))
+            cur = (x, y)
+            i += 7
+        elif cmd in ("Z", "z"):
+            points.append(start)
+            cur = start
+            i += 1
+        else:
+            i += 1  # defensive: skip an unrecognized token rather than loop forever
+    return points
+
+
+@dataclass
+class _PathGeom:
+    points: list[tuple[float, float]]
+    cum_lengths: list[float]  # cum_lengths[i] = distance from points[0] through points[i]
+
+    @property
+    def total_length(self) -> float:
+        return self.cum_lengths[-1] if self.cum_lengths else 0.0
+
+    def point_and_angle_at(self, s: float) -> tuple[float, float, float]:
+        """Position and tangent angle (radians) at arc-length s, clamped
+        to the path's own extent (a textPath's shaped text can slightly
+        overrun a very short path; clamping keeps that a visual nudge
+        rather than an index error)."""
+        if not self.points:
+            return (0.0, 0.0, 0.0)
+        if len(self.points) == 1:
+            return (*self.points[0], 0.0)
+        s = max(0.0, min(s, self.total_length))
+        lo, hi = 0, len(self.cum_lengths) - 1
+        while lo < hi - 1:
+            mid = (lo + hi) // 2
+            if self.cum_lengths[mid] <= s:
+                lo = mid
+            else:
+                hi = mid
+        seg_len = self.cum_lengths[hi] - self.cum_lengths[lo]
+        t = (s - self.cum_lengths[lo]) / seg_len if seg_len > 1e-9 else 0.0
+        x0, y0 = self.points[lo]
+        x1, y1 = self.points[hi]
+        x = x0 + (x1 - x0) * t
+        y = y0 + (y1 - y0) * t
+        angle = math.atan2(y1 - y0, x1 - x0)
+        return (x, y, angle)
+
+
+@lru_cache(maxsize=64)
+def _build_path_geom(d: str) -> _PathGeom:
+    points = _parse_path_d(d)
+    cum = [0.0]
+    for i in range(1, len(points)):
+        x0, y0 = points[i - 1]
+        x1, y1 = points[i]
+        cum.append(cum[-1] + math.hypot(x1 - x0, y1 - y0))
+    return _PathGeom(points, cum)
+
+
+def _outline_run_on_path(
+    text: str,
+    geom: _PathGeom,
+    start_s: float,
+    font_size: float,
+    font_path: str,
+    face_index: int = 0,
+) -> str:
+    """Same shape-then-bake approach as _outline_run, but each glyph's
+    origin is placed at the path point for its own cumulative advance
+    from start_s (SVG's own textPath placement rule) instead of walking
+    the x-axis, and rotated to the path's local tangent there — this is
+    what makes the outlined glyphs actually follow the curve."""
+    infos, positions, res = _shape(text, font_path, face_index)
+    scale = font_size / res.units_per_em
+    order = res.ttfont.getGlyphOrder()
+
+    cursor_px = 0.0
+    paths = []
+    for info, pos in zip(infos, positions):
+        glyph_name = order[info.codepoint]
+        s = start_s + cursor_px + pos.x_offset * scale
+        px, py, angle = geom.point_and_angle_at(s)
+        cursor_px += pos.x_advance * scale
+        d = _glyph_path_d(glyph_name, res.glyph_set, scale)
+        if not d:
+            continue
+        angle_deg = math.degrees(angle)
+        paths.append(
+            f'<path transform="translate({px:.2f},{py:.2f}) rotate({angle_deg:.3f}) '
+            f'scale({scale:.6f},{-scale:.6f})" d="{d}"/>'
+        )
+    return "".join(paths)
+
+
 def _split_runs(text: str) -> list[tuple[str, bool]]:
     """Split into maximal runs of (substring, is_devanagari)."""
     if not text:
@@ -362,6 +584,18 @@ _TEXT_WITH_TSPANS_RE = re.compile(
 _TSPAN_RE = re.compile(r'<tspan\b(?P<attrs>[^>]*)>(?P<content>[^<]*)</tspan>')
 _ATTR_RE = re.compile(r'([\w:-]+)\s*=\s*"([^"]*)"')
 
+# <text ATTRS><textPath TP_ATTRS>CONTENT</textPath></text> — arc-band labels
+# (place-of-articulation names on the vocal-tract figures, PIE-overlay
+# group labels, etc; see module docstring). Matches the one shape every
+# real instance in this repo actually takes: a single plain-text run, no
+# nested <tspan>. A textPath wrapping something more complex than that
+# doesn't match this regex and is left untouched, same as the dy=... case
+# above — better to skip than mis-transform.
+_TEXT_TEXTPATH_RE = re.compile(
+    r'<text\b(?P<attrs>[^>]*)>\s*<textPath\b(?P<tp_attrs>[^>]*)>(?P<content>[^<]*)</textPath>\s*</text>'
+)
+_PATH_WITH_ID_RE = re.compile(r'<path\b(?P<attrs>[^>]*)/?>')
+
 
 def _parse_attrs(attrs_str: str) -> dict[str, str]:
     return dict(_ATTR_RE.findall(attrs_str))
@@ -461,6 +695,80 @@ def outline_devanagari_in_svg(svg_content: str) -> tuple[str, int, list[str]]:
     """
     warnings: list[str] = []
     count = 0
+
+    # --- textPath pass (arc-band labels) — runs first, on the untouched
+    # original content, since a <text><textPath>...</textPath></text>
+    # element never matches the two passes below (neither looks for a
+    # <textPath> child) and doesn't need to interact with them.
+    path_ds: dict[str, str] = {}
+    for pm in _PATH_WITH_ID_RE.finditer(svg_content):
+        pattrs = _parse_attrs(pm.group("attrs"))
+        pid = pattrs.get("id")
+        pd = pattrs.get("d")
+        if pid and pd:
+            path_ds[pid] = pd
+
+    def replace_textpath(m: re.Match) -> str:
+        nonlocal count
+        whole = m.group(0)
+        content = m.group("content")
+        attrs = _parse_attrs(m.group("attrs"))
+        tp_attrs = _parse_attrs(m.group("tp_attrs"))
+        live_font_family = attrs.get("font-family", "sans-serif")
+        risky_latin = contains_risky_latin_font(live_font_family)
+        has_deva = contains_devanagari(content)
+        if not has_deva and not risky_latin:
+            return whole
+        # Every real instance is single-script (all-Devanagari or all-
+        # Latin) — confirmed by audit. A hypothetical mixed run would need
+        # the multi-segment placement _render_segments does for straight
+        # text, which _outline_run_on_path doesn't implement; skip rather
+        # than mis-render if one ever shows up.
+        if has_deva and _split_runs(content) != [(content, True)]:
+            warnings.append(
+                "Skipped a mixed-script <textPath> (only single-script runs "
+                "are supported) — outline it by hand if it needs the fix: "
+                + whole[:120] + "..."
+            )
+            return whole
+
+        href = tp_attrs.get("href", "").lstrip("#")
+        d = path_ds.get(href)
+        if not d:
+            warnings.append(
+                f"Skipped a <textPath> — href=\"#{href}\" has no matching "
+                f"<path id> in this file: " + whole[:120] + "..."
+            )
+            return whole
+
+        font_weight = attrs.get("font-weight", "")
+        font_style = attrs.get("font-style", "")
+        if has_deva:
+            font_path, face_index = resolve_font_path(font_weight, font_style), 0
+        else:
+            font_path, face_index = resolve_latin_font(font_weight, font_style)
+
+        font_size = float(attrs.get("font-size", 16))
+        geom = _build_path_geom(d)
+        offset_raw = tp_attrs.get("startOffset", "0")
+        offset_frac = float(offset_raw.rstrip("%")) / 100.0 if offset_raw.endswith("%") else float(offset_raw) / geom.total_length if geom.total_length else 0.0
+        raw_s = offset_frac * geom.total_length
+        text_width_px = _run_advance_px(content, font_path, font_size, face_index)
+        text_anchor = tp_attrs.get("text-anchor", attrs.get("text-anchor", "start"))
+        if text_anchor == "middle":
+            start_s = raw_s - text_width_px / 2.0
+        elif text_anchor == "end":
+            start_s = raw_s - text_width_px
+        else:
+            start_s = raw_s
+
+        count += 1
+        fill = attrs.get("fill", "#000000")
+        extra_attrs = _build_passthrough_attrs(attrs)
+        run = _outline_run_on_path(content, geom, start_s, font_size, font_path, face_index)
+        return f'<g fill="{fill}"{extra_attrs}>{run}</g>'
+
+    svg_content = _TEXT_TEXTPATH_RE.sub(replace_textpath, svg_content)
 
     def replace_with_tspans(m: re.Match) -> str:
         nonlocal count
