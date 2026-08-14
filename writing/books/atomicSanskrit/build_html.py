@@ -68,13 +68,13 @@ TEMPLATE_404 = BOOK_DIR / "templates" / "error_404.html"
 # converts it to HTML the same way a chapter's markdown becomes a page,
 # so a jacket-copy edit + `python3 build_html.py` + deploy is the whole
 # pipeline, with no separate hardcoded copy to keep in sync. Set to the
-# "revelations" (Q&A-per-paragraph) variant as of 2026-08-12 — swap this
-# path to promote a different variant to default; whichever file was
-# previously here should move into JACKET_COPY_VARIANTS below so it stays
-# reachable as a reviewer alternate rather than disappearing.
+# "question-led" variant as of 2026-08-14 — swap this path to promote a
+# different variant to default; whichever file was previously here
+# should move into JACKET_COPY_VARIANTS below so it stays reachable as a
+# reviewer alternate rather than disappearing.
 JACKET_COPY_SRC = (
     BOOK_DIR / "working" / "50_projects" / "public_facing" / "outreach"
-    / "atomic_sanskrit_jacket_copy_revelations.md"
+    / "atomic_sanskrit_jacket_copy_question_led.md"
 )
 
 # The three alternates to JACKET_COPY_SRC, reviewed 2026-08-12 against the
@@ -92,7 +92,7 @@ _JACKET_OUTREACH_DIR = (
 )
 JACKET_COPY_VARIANTS = [
     {"slug": "statement-led", "src": _JACKET_OUTREACH_DIR / "atomic_sanskrit_jacket_copy.md"},
-    {"slug": "question-led", "src": _JACKET_OUTREACH_DIR / "atomic_sanskrit_jacket_copy_question_led.md"},
+    {"slug": "revelations", "src": _JACKET_OUTREACH_DIR / "atomic_sanskrit_jacket_copy_revelations.md"},
     {"slug": "website-version", "src": _JACKET_OUTREACH_DIR / "atomic_sanskrit_website_copy_questions_answers.md"},
 ]
 
