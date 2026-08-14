@@ -108,7 +108,9 @@ This story gives Pāṇini credit for creating a stability that the Vedas and th
 
 **The result: Two domains become two periods.** Figure 2.3 shows the completed theft. **वैदिक (*vaidika*)** Sanskrit is moved into Natural Languages and relabeled *"Archaic Sanskrit."* **लौकिक (*laukika*)** Sanskrit is moved into Petrified Languages and relabeled *"Classical Sanskrit."* Their different purposes disappear, and the reader sees an earlier language followed by a later one.
 
-Sanskrit's own categories describe two domains within one architecture. The *vaidika* domain protects the invariant Vedic corpus. The *laukika* domain allows people to understand existing worldly compositions and create new ones. Pāṇini also marks where particular rules apply. **छन्दसि (*chandasi*)** identifies Vedic use, while **भाषायाम् (*bhāṣāyām*)** identifies *laukika* use. These labels tell the reader where a rule applies. They do not turn one Sanskrit into the chronological ancestor of another.[NOTE: chandasi-bhashayam-mode-markers]
+The architecture exposes the fraud. The *vaidika* domain includes pitch, meter, additional grammatical forms, greater freedom in word placement, and sounds beyond the reusable grid. These features give the fixed Vedic corpus greater architectural breadth. The *laukika* domain allows people to create an unlimited number of new words and sentences. It therefore admits a more selective set of reusable sounds and grammatical forms, each chosen to remain distinguishable wherever future speakers use it. The pyramid labels the broader *vaidika* architecture *primitive* and the more selective, highly generative *laukika* architecture *advanced*. It then turns two domains designed for different purposes into an old language followed by a new one.
+
+Pāṇini's terminology preserves this distinction. **छन्दसि (*chandasi*)** identifies Vedic use, while **भाषायाम् (*bhāṣāyām*)** identifies *laukika* use. These labels identify where particular rules apply; they do not arrange Sanskrit into an earlier and a later language.[NOTE: chandasi-bhashayam-mode-markers]
 
 > *The dogma says:* *"Vedic Sanskrit evolved into Classical Sanskrit."*
 >
@@ -180,7 +182,7 @@ The whole case turns on direction. *Codify* runs from disorder toward imposed or
 
 Pāṇini did not codify Sanskrit. He decoded it. His *Aṣṭādhyāyī* articulates the finest decoding of an order Sanskrit already possessed. The asuric machinery reverses that direction and calls the reversal *codification*. Every school, textbook, and standard reference that presents Pāṇini as the creator of Sanskrit's order repeats the same category theft.
 
-## 2.9 The Theft Made Visible
+## 2.9 The Category Theft
 
 The botanical model describes languages that grow and decay. It fails when applied to a language engineered to resist linguistic drift. To place Sanskrit inside the tree, the pyramid translated *dhātuḥ* as a plant-root, described its grammar as leftovers produced by natural change, and claimed that Pāṇini froze one selected form. Each step replaced evidence of engineering with a botanical explanation. Together, these steps teach the reader to place Sanskrit in the wrong civilizational category: not *saṃskṛti*, but *prakṛti*.
 

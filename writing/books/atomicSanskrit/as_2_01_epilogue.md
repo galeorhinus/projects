@@ -122,7 +122,7 @@ The architecture is self-evident in four connected forms. Sanskrit's selected so
 
 Together they establish the larger result. The Vedas already preserve the complete language architecture that Pāṇini later documented. They are part of the engineering that keeps the language calibrated. Pāṇini stands within that continuity, and his decoding provides its finest documentation. Sanskrit retains the complete calibrant architecture, and its radiance reached several languages, including Greek and Latin. Those languages continue to preserve partial reflections of that architecture.
 
-The pyramid used false categorization as its weapon. It recast the sonomer as a letter, the *dhātuḥ* as a root, the Vedic domain as an archaic language, Pāṇini's documentation as the codification myth, aural engineering as oral tradition, and Sanskrit as a daughter language. Once those substitutions fall away, Sanskrit becomes visible from the movement of the mouth to the civilizational order that kept the language alive.
+The pyramid used false categorization as its weapon. It recast the sonomer as a letter, the *dhātuḥ* as a root, the Vedic domain as an archaic language, Pāṇini's documentation as the codification myth, aural engineering as oral tradition, and Sanskrit as a daughter language. Once those substitutions fall away, the reader can trace Sanskrit from the movement of the mouth to the civilizational order that kept the language alive.
 
 The appendices carry the deeper demonstrations. *Baking the Mother Tongue* traces PIE's manufacture through the Pune-Calcutta-Oxford-Göttingen pipeline. *The Encyclopaedic Confirmation* documents Deccan College's post-independence choice to read Sanskrit through the OED's historical principles rather than through its own analytical disciplines. *The Sonomer and the Audiograph* dismantles the Brāhmī-from-Aramaic story and restores the seventh script-category the machinery's six-way typology refuses. *The Language Factory* proves the thesis by construction: Sanskrit's architecture, run on a foreign phoneme set, generates a working language. One argument runs through all four: the asuric formation displaced the dharmic architecture from recognition and told the world the story upside down.
 
@@ -152,7 +152,7 @@ The call is conditional: it cannot be made by anyone who wants the prestige with
 
 *Āryatva* is desirable because it is disciplined alignment with **सत् (*sat*)**, not **असत् (*asat*)**: clarity over obscurity, restraint over appetite, calibration over drift, welfare over domination.
 
-The Sanskrit fractal encodes that standard in its architecture. Sound is measured. Speech is disciplined. Memory is calibrated. Knowledge is preserved without apex command. When that architecture is made fully visible, it does not preach; it stands as a calibrant: those who wish can align themselves with it and choose *sat* without turning truth into dogma.
+The Sanskrit fractal encodes that standard in its architecture. Sound is measured. Speech is disciplined. Memory is calibrated. Knowledge is preserved without apex command. Once the architecture is understood, it does not preach; it stands as a calibrant: those who wish can align themselves with it and choose *sat* without turning truth into dogma.
 
 That is the bridge from Sanskrit to Sanātan: calibration does not remain trapped inside grammar. The same distributed discipline can recur in conduct, memory, knowledge, and social order.
 

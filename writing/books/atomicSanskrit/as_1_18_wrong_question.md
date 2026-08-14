@@ -198,7 +198,7 @@ A Greek account preserved by Arrian records the contrast in language that would 
 
 India could receive a newcomer through ***क्रिया (*kriyā*)***. His actions could give him a place in society. He might learn a craft and join its guild, defend the community through military service, or become a teacher after years of study. Marriage and children could bind his family to the place that had received him. His ancestry remained part of his history without becoming a permanent prison.
 
-The Heliodorus pillar makes that absorptive capacity visible in stone. Heliodorus came from Taxila as a Yavana ambassador. The inscription identifies him as a ***भागवत (*bhāgavata*)*** and records his dedication of a Garuḍa pillar to Vāsudeva. His Yavana origin and his chosen commitment to Vāsudeva appear together on the same pillar. Over longer periods, incoming men of military backgrounds could enter Kṣatriya formations.[NOTE: migration-trap-india-absorption]
+The Heliodorus pillar records that absorptive capacity in stone. Heliodorus came from Taxila as a Yavana ambassador. The inscription identifies him as a ***भागवत (*bhāgavata*)*** and records his dedication of a Garuḍa pillar to Vāsudeva. His Yavana origin and his chosen commitment to Vāsudeva appear together on the same pillar. Over longer periods, incoming men of military backgrounds could enter Kṣatriya formations.[NOTE: migration-trap-india-absorption]
 
 Escaping a pyramid does not make a man inferior; it may be the first evidence of his ***विवेक (*viveka*)***. Sanātan never assigns capability or worth by ancestry. A newcomer could learn Sanskrit, participate fully in the civilization, and earn respect within Indian society through his actions.
 
@@ -222,7 +222,7 @@ Foreign Y-DNA can be the trace of men whom India absorbed. That paternal ancestr
 
 Chapter 0 began at the cosmic scale. **असत् (*asat*)** existed before **सत् (*sat*)** was born. **ऋत (*ṛta*)** is the created track through reality that directs action toward balance, circulation, and the welfare of living beings. It was never the only order that reality could sustain. *Asat* could also produce deformed orders. Those orders could take many forms, but they bent toward the same end: containment, aggregation, and the restriction of flow.
 
-This conflict existed before human beings. Humans inherited the capacity to align their actions with either order. Most people simply lived their lives, but the Vedas remembered the distinction through protagonists and antagonists whose actions made each architecture visible.
+This conflict existed before human beings. Humans inherited the capacity to align their actions with either order. Most people simply lived their lives, but the Vedas remembered the distinction through protagonists and antagonists whose actions demonstrate each architecture.
 
 Chapter 3 §3.6 followed that distinction through two Sanskrit words that share one sound-form. The life-bearing ***asu-ra*** protects, sustains, and releases. The radiance-opposing ***a-sura*** conceals, withholds, and contains. Sanskrit's generative architecture can produce both words, while **विवेक (*viveka*)** allows the listener to distinguish them through the actions described in the mantra. The asuric pyramid of the present age reproduces the cosmic pattern of *asat* by concentrating power, controlling access, and restricting what should circulate.
 

@@ -210,7 +210,7 @@ That gives the audit a concrete measurement. For each *dhātuḥ* visible in the
 
 Valency, therefore, strictly dictates bonding range: while a low-valency atom appears in only a few configurations, a high-valency atom robustly bonds across many configurations. As a result, the chemical analogy is rigidly disciplined by this very measured grammatical behavior, proving that reactivity fundamentally means the range of permissible bonding rather than any vague chemical substance.
 
-The *prayoga* audit identifies every *dhātuḥ* label the corpus makes visible, counts the atom's actual uses and distinct bonding patterns, and then compares that range with the atom's sonomeric size and the dictionary audit.
+The *prayoga* audit identifies every *dhātuḥ* label present in the corpus, counts the atom's actual uses and distinct bonding patterns, and then compares that range with the atom's sonomeric size and the dictionary audit.
 
 The first result is that the corpus is not flat. A small set of atoms has a very wide bonding range.
 
@@ -222,7 +222,7 @@ These are measured bonding counts, not prestige rankings.
 
 The two audits also agree to a substantial degree. On the matched dictionary subset, their correlation is **+0.66**. In ordinary terms, atoms with more dictionary derivatives usually also appear in more kinds of bonding pattern in the parsed corpus, although the match is not exact. Two different methods therefore identify much of the same high-reactivity group.
 
-The third result is the tier structure. The corpus-visible *dhātuḥ* labels arrange into three empirical groups. The chart makes the skew visible: a small polyvalent tier accounts for most actual use, while the long tail remains preserved as specialist material.
+The third result is the tier structure. The *dhātuḥ* labels found in the corpus arrange into three empirical groups. The chart displays the skew: a small polyvalent tier accounts for most actual use, while the long tail remains preserved as specialist material.
 
 ![Reactivity tiers by atom share and actual Sanskrit use.](figures/ganah/reactivity_tiers.svg){#fig:ganah-reactivity-tiers width=100%}
 
@@ -234,7 +234,7 @@ The third result is the tier structure. The corpus-visible *dhātuḥ* labels ar
 
 The reference polyvalent exemplars are **⟪कृ⟫ (*kṛ*)**, **⟪भू⟫ (*bhū*)**, **⟪स्था⟫ (*sthā*)**, **⟪गम्⟫ (*gam*)**, **⟪ज्ञा⟫ (*jñā*)**, **⟪दा⟫ (*dā*)**, **⟪धा⟫ (*dhā*)**, **⟪नी⟫ (*nī*)**, and **⟪हृ⟫ (*hṛ*)**.[NOTE: dcs-vs-dhatupatha-count] These nine alone produce 26.5% of the verb-token record.
 
-The distribution makes the procedure visible.
+The distribution confirms the procedure.
 
 | Corpus-visible set | Share of verb-token record |
 |---|---:|
@@ -268,7 +268,7 @@ The principle is the *sūtra* principle one scale down — maximum recoverable s
 
 ## 11.8 The Procedure's Shadow
 
-Procedure and structure are coupled, and the figure makes the coupling visible as a two-dimensional arrangement — the visual shadow of the procedure, not a claim that Sanskrit has chemical periodicity.
+Procedure and structure are coupled, and the figure displays that coupling as a two-dimensional arrangement — the visual shadow of the procedure, not a claim that Sanskrit has chemical periodicity.
 
 The arrangement combines several axes: the *gaṇaḥ* (the operational class Pāṇini documented), the *racanā* (the measured scaffold inside the atom), the *varga* column of the atom's first consonant, and its inherent vowel.
 

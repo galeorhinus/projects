@@ -4,7 +4,7 @@
 
 Use direct, declarative, college-level English.
 
-Preserve the book's core terminology — *dhātuḥ*, sonomer, *racanā*, scaffold, *mātrā*, *prayoga*, calibration, architecture — but explain each conceptual move in sequence.
+Preserve the book's core terminology — *dhātuḥ*, sonance, sonomer, *racanā*, scaffold, *mātrā*, *prayoga*, calibration, architecture — but explain each conceptual move in sequence.
 
 Avoid academic hedging, inflated abstraction, insider shorthand, and recoverist phrasing. Explain dense claims through concrete actors, operations, and consequences. Clarity and full articulation always take precedence over compression.
 
@@ -103,6 +103,8 @@ Do not use an abstract placeholder as a bridge. Phrases such as *a wider margin*
 **Generic *operating* language is banned.** Do not use *operate, operates, operated, operating,* or *operation* as a generic substitute for the action being described. Name the action: *joins, derives, generates, preserves, distinguishes, restricts, checks, transmits,* or *applies*. Replace *the architecture was already operating in the Vedas* with *the Vedas already use that architecture*. Retain *operation* only for a specifically identified grammatical or mechanical procedure, and retain established concrete terms such as *operating system* and *operating instructions*.
 
 **Abstract *arrival* is banned.** Do not make a distinction, category, method, argument, framework, conclusion, section, or architecture *arrive*. State what creates, introduces, establishes, precedes, produces, reveals, or reaches it. Replace *the contrasts arrive on another axis* with *breath creates the contrasts on another axis*. Preserve *arrive* for literal movement by people, populations, and objects, including the book's discussion of Sanskrit supposedly arriving from outside India. Preserve *arrival* when it is the actual lexical meaning under discussion.
+
+**Formulaic *visibility* is banned.** Do not say that a figure, example, count, method, or section *makes* an abstract pattern, procedure, category, calculation, contrast, or architecture *visible*. State what the evidence displays, compares, counts, distinguishes, establishes, or reveals. Replace *the matrix makes the grid visible* with *the matrix joins the two axes in a complete grid*. Preserve *visible* for actual sight, written marks and audiographs, and the book's central eclipse contrast between what remains present and what the pyramid conceals.
 
 **Abstract *field* is banned.** Do not use *field* as a vague substitute for a domain, discipline, context, range of meanings, body of evidence, speech community, region, system, or surrounding circumstances. State the concrete noun instead: *semantic field* becomes *range of meanings*; *civilizational field* becomes *civilization* or *civilizational context*; *knowledge-field* becomes *knowledge tradition*; *speech-field* becomes *speech community* or *regional speech*. Preserve *field* when it is literal, when translating **क्षेत्र (*kṣetra*)**, in the established **field-loss** refrain, in exact quotations and bibliographic titles, and in the defined technical term **sound-field** where the field-versus-coordinate distinction is actually under analysis. Do not extend that exception into decorative repetition.
 
@@ -347,6 +349,9 @@ Keep bodily sound production distinct from placement in the *varṇamālā*:
 
 - **articulatory axis** names a dimension used to describe production, such as *sthāna* or *prayatna*;
 - **articulatory coordinates** are the sound's values along those axes;
+- **sonance** names a consonantal sound that Sanskrit's architecture recognizes;
+- **sonomer** names a sonance with an independent grid address;
+- **off-grid sonance** names a recognized sonance that appears only under a stated condition or within a named Vedic lineage;
 - **grid address** is the stable position Sanskrit assigns to a selected sonomer;
 - **grid cell** is the visible square that represents an address in a figure;
 - **address space** is the complete organized set of available grid addresses.

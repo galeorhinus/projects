@@ -111,7 +111,7 @@ Here the botanical metaphor breaks. Growth, branching, mutation, and drift do no
 
 ## 6.4 What the Numbers Show
 
-The same organization appears across several independent measurements, and together the counts make the category visible.
+The same organization appears across several independent measurements, and together the counts establish the category.
 
 The measurements come from different parts of the architecture: particle count, place distribution, cluster behavior, retroflex loading, *gaṇa* profiles, dictionary-derived generative reach, and corpus combinatorial reach. They repeatedly show compression, patterned range, and greater reach among smaller atoms.
 

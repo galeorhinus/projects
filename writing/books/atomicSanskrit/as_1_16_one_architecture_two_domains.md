@@ -61,6 +61,12 @@ The vaidika domain preserves a wider range of forms and operations. Some occur o
 
 The pyramid treats these differences as remnants of an "archaic" language. That description assumes the botanical chronology it is supposed to prove: Vedic Sanskrit was older, its irregular forms gradually disappeared, and a later language emerged in their place.
 
+The evidence in this chapter tells a different story. The *vaidika* domain is highly engineered and carries a wider range than the *laukika* domain. Pitch adds another layer of grammatical information. Meter regulates duration and arrangement. Additional endings, verbal forms, movable *upasargas*, and off-grid sonances give a Vedic passage more ways to shape meaning, sound, and expression.
+
+The engineering of the *laukika* domain makes a tighter selection. Before a sonance, ending, verbal form, or grammatical operation becomes available for new composition, it must remain distinguishable inside sentences that have never existed before. A resource may contribute meaning, rhythm, or expression to a fixed Vedic passage yet create needless duplication or collision when every future speaker can use it anywhere.
+
+The two domains therefore use different forms of engineering. *Vaidika* places greater architectural breadth inside content that never changes. *Laukika* selects fewer reusable options so that speakers can continue generating new words and sentences without limit. The labels *"archaic"* and *"Classical"* reverse this evidence. They take two sets of permissions designed for two purposes and falsely turn them into an old language and a new language.
+
 The read-only Vedic corpus can preserve a wider range of forms because every form remains attached to fixed words, pitch, sequence, and inherited interpretation. These boundaries help a reader distinguish forms that could collide in a newly composed sentence. The *laukika* domain faces a different requirement. Its speakers create sentences that have never existed before, so its reusable forms must remain clear without depending on a permanently fixed context.
 
 Chapter 9 called this recurring logic the ***Principle of Architectural Selection and Scope (PASS)***. There it appeared as four tests for deciding whether a sound should receive a reusable grid address. At the scale of the two domains, PASS compares what each additional resource contributes with the duplication, variation, or collision it introduces. The *vaidika* domain can accept that load because pitch, fixed wording, inherited interpretation, and exact transmission contain it within a received passage. The *laukika* domain receives the resource only when its contribution remains greater than its load across unrestricted new composition.
@@ -149,9 +155,9 @@ The opening mantra of the Ṛgveda shows another kind of selection:
 
 A student trained in laukika Sanskrit may pause at **ईळे (*īḷe*)**. Laukika Sanskrit uses **ईडे (*īḍe*)**, *I praise*. The Ṛgvedic lineage preserves the retroflex lateral **ळ [ɭ]** in the received word.[NOTE: agnimile-rigveda-opening]
 
-Chapter 9 explained why a sound can exist in Sanskrit without receiving an independent address in the reusable sonomer grid. A highly reusable sonomer requires two things: the ability to combine generatively with vowels, and sufficient acoustic precision to remain distinguishable from adjacent sounds during repeated use. The Vedic domain can preserve **ळ** wherever a fixed passage requires it because the word, sound, and position remain known. Laukika Sanskrit does not need to promote **ळ** into that grid because its narrowly restricted Vedic use does not supply an independent generative function.
+Chapter 9 calls **ळ** a Lineage-Bounded off-grid sonance. It has no independent address in the reusable sonomer grid. The Ṛgvedic lineage can preserve it because the received word, position, and pronunciation never change.
 
-The same principle of contextual generation applies to sounds such as ***उपध्मानीय (*upadhmānīya*)*** and ***जिह्वामूलीय (*jihvāmūlīya*)***. Sanskrit produces them under narrowly defined conditions without granting either sound an independent address in the reusable sonomer grid. Chapters 9 and 15 examine this distinction in detail.[NOTE: vedic-jihvamuliya-upadhmaniya-pair]
+***उपध्मानीय (*upadhmānīya*)*** and ***जिह्वामूलीय (*jihvāmūlīya*)*** are Restricted off-grid sonances. They remain available in both domains because the surrounding sounds determine exactly when they appear. Chapters 9 and 15 examine this distinction in detail.[NOTE: vedic-jihvamuliya-upadhmaniya-pair]
 
 ### Resonance and Memory
 
@@ -333,7 +339,7 @@ Asuric assaults destroyed teachers, schools, manuscripts, patronage, and public 
 
 The survival is measurable. The fact that this book can compare the two domains demonstrates that the passages, grammar, analytical disciplines, and transmission lineages survived both natural entropy and deliberate assault. The architecture did not prevent every loss, but it prevented loss from becoming complete and authority from becoming final.
 
-After centuries of trying, the asuric pyramid failed to destroy Sanskrit. It therefore misclassified the two domains, recast their designed differences as linguistic drift, and gaslit a civilization about the architecture it had preserved.
+After centuries of trying, the asuric pyramid failed to destroy Sanskrit. It therefore misclassified the two domains. It called the wider Vedic architecture primitive. It presented the more selective *laukika* architecture as a later language called Classical Sanskrit. It then described the designed differences between them as linguistic drift and gaslit a civilization about the architecture that civilization had preserved.
 
 That attempt will also fail.
 

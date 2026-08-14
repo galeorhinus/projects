@@ -170,7 +170,7 @@ The pyramid therefore benefits from both arrangements. Petrification gives it cu
 
 The asymmetry is what exposes the pyramid's insecurity or perhaps jealousy.
 
-The control cases are safe for the pyramid because each keeps authority visible. The Masoretic schools, the Quranic authorities, the church canon, the academies, the courts, the committees — each gives the machinery a custodian to identify. Sanskrit breaks that pattern. Pāṇini can be cited, but he does not exhaust the system. His grammar points backward to the matrix and outward to the living architecture. The machinery therefore praises Pāṇini as so-called codifier while refusing Sanskrit the recognition it gives smaller authority-bound systems. The praise is not a concession; it disguises deliberate concealment.
+The control cases are safe for the pyramid because each identifies an authority. The Masoretic schools, the Quranic authorities, the church canon, the academies, the courts, the committees — each gives the machinery a custodian to identify. Sanskrit breaks that pattern. Pāṇini can be cited, but he does not exhaust the system. His grammar points backward to the matrix and outward to the living architecture. The machinery therefore praises Pāṇini as so-called codifier while refusing Sanskrit the recognition it gives smaller authority-bound systems. The praise is not a concession; it disguises deliberate concealment.
 
 The pyramid admires authority to the point of forgery: it stamps "engineering" on petrification. The Masoretic apparatus, Quranic recitation, Latin manuscript preservation — frozen texts with visible custodians, exactly the preservation an apex understands — receive the word. Sanskrit is engineered and generative — the attributes the petrified systems do not possess — and the machinery files it under "oral tradition," "cultural conservatism," "pre-modern habit." The label goes where the apex is visible.
 
@@ -196,7 +196,7 @@ This constitutes *heroic erasure* at the matrix level: praising the named docume
 
 The Pāṇini-as-rupture move is heroic erasure in its sharpest form: praise the so-called codifier, then weaponize the praise to convert *vaidika* and *laukika* from domains into chronology. Pāṇini cannot move Sanskrit out of one domain and into another. Domains are not periods. Pāṇini documents both. That is not analysis. It is a grammatical sleight of hand with civilizational consequences (Chapter 2 §2.4).
 
-The standing sequence remains visible at matrix scale: engineered architecture, Vedic encoding, many decoding disciplines, and Pāṇini's compressed rule-system as the finest documentation of that architecture.
+The matrix preserves the complete sequence: engineered architecture, Vedic encoding, many decoding disciplines, and Pāṇini's compressed rule-system as the finest documentation of that architecture.
 
 Within this framework, the calibration matrix provides the engineered architecture, the Vedas encode it, and the *Prātiśākhya*, *Śikṣā*, *Chandas*, and *Vyākaraṇam* decode it. Because Pāṇini's decoding is the most compressed and generative, it remains the finest expression of the system, though it is not the origin of the architecture itself.
 

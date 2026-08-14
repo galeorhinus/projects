@@ -138,7 +138,7 @@ Three sentences are only the floor. Once ⟪पच्⟫ (*pac*) becomes the con
 
 The three *dhātus* used in the example, together with their suffixes and endings, can produce several hundred surface forms through ordinary combination. The same procedure can generate declined nominals, conjugated verbs, compounds, relative clauses, indirect clauses, and embedded sentences. A reader who knows the substitution table can recover the Sanskrit operations beneath them.
 
-The vowel-length collapse makes *pācakāḥ* and *pācakaḥ* both yield *kesete*. That ambiguity comes from this cipher's decision to discard Sanskrit vowel length. A different mapping could preserve the distinction, since Japanese distinguishes long and short vowels. The example is useful precisely because it shows that the substitution table determines which parts of the source architecture remain visible on the new surface.
+The vowel-length collapse makes *pācakāḥ* and *pācakaḥ* both yield *kesete*. That ambiguity comes from this cipher's decision to discard Sanskrit vowel length. A different mapping could preserve the distinction, since Japanese distinguishes long and short vowels. The example is useful precisely because it shows that the substitution table determines which parts of the source architecture survive on the new surface.
 
 A finite set of *dhātus*, suffixes, endings, and rules — applied through a phoneme cipher to any chosen substrate — yields an unbounded sentence-space.
 

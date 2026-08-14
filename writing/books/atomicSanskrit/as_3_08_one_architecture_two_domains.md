@@ -19,7 +19,7 @@ Chapter 9 introduced the ***Principle of Architectural Selection and Scope (PASS
 3. **Bounding support:** What contains that load — pitch, meter, fixed wording, inherited interpretation, a stated junction, or another part of the architecture?
 4. **Scope:** Does the resource belong to reusable Sanskrit, appear only under a stated condition, belong to a stated Vedic scope, remain within a named Vedic lineage, or stay excluded from independent use?
 
-The ten contributions defined in Chapter 16 supply the first step. The figures use the following short codes to keep that evidence visible:
+The ten contributions defined in Chapter 16 supply the first step. The figures use the following short codes to display that evidence compactly:
 
 | Code | Designed contribution |
 |---|---|
@@ -51,11 +51,11 @@ The letters **A–D** report the evidence grade, while the short unit labels dis
 
 ## 8.3 Sounds, Accent, and Exact Recitation
 
-### Sounds, Sonomers, and Domains
+### Sonances, Sonomers, and Domains
 
-Chapter 16 introduces **ईळे (*īḷe*)** from the opening mantra of the Ṛgveda. The following analysis places its retroflex lateral **ळ [ɭ]** beside two other sounds that Sanskrit preserves under stated conditions without assigning them independent addresses in the reusable sonomer grid.
+Chapter 16 introduces **ईळे (*īḷe*)** from the opening mantra of the Ṛgveda. The following analysis places its retroflex lateral **ळ [ɭ]** beside two other off-grid sonances that Sanskrit preserves or generates without assigning them independent addresses in the reusable sonomer grid.
 
-Chapter 9 §9.10 explains the category behind this difference. A sound can occur in Sanskrit without becoming an independent sonomer. A sonomer must do more than record a sound that the mouth can produce: it must remain distinguishable from its neighbors, combine with the vowels to create reusable molecules, and help generate new words without introducing confusion into the grid.
+Chapter 9 §9.10 explains the category behind this difference. Every consonantal sound selected into Sanskrit's architecture is a sonance. A sonance becomes a sonomer when it receives an independent address and speakers can choose it freely while building new words. An off-grid sonance appears only under a stated condition or within a named Vedic lineage.
 
 Chapter 9 uses the [ɸ]-like sound to explain the same principle. In Ṛgveda 1.1.2, the ***विसर्ग (*visarga*)*** before **प** in **अग्निः पूर्वेभिर् (*agniḥ pūrvebhir*)** becomes the ***उपध्मानीय (*upadhmānīya*)***. The recited passage preserves [ɸ] at that specified junction, but the generative grid does not assign another address beside **फ** merely because the sound can be pronounced.
 
@@ -65,9 +65,9 @@ The Ṛgvedic **ळ** applies the same principle within a narrower scope. The op
 
 The treatment of **ळ** demonstrates sonomeric selection and distinguishability. Exact transmission preserves **ळ** in the words that require it, while the generative grid leaves an address unassigned when unrestricted use would reduce the separation among neighboring sounds. The fixed sound also participates in error detection because a reciter trained in the passage will hear a substitution.
 
-The complete selection-and-scope profiles separate sounds that are physically possible from sounds that need independent grid addresses:
+The following table separates three kinds of sound: candidates that Sanskrit excludes, sonomers with independent addresses, and off-grid sonances that appear only within stated boundaries.
 
-| Candidate or operation | Contribution | Load | Bounding support | Scope |
+| Sound candidate or sonance | Contribution | Load | Bounding support | Scope |
 |---|---|---|---|---|
 | **[ɰ]** as an independent sonomer | no recurring Sanskrit operation has been established | would add a grid address without completing the *ik–yaṇ* relation | none established for independent reuse | **Excluded** |
 | ***जिह्वामूलीय (*jihvāmūlīya*)*** | preserves the velar form of *visarga* before **क/ख** | adds a contextual sound outside the independent grid | the preceding *visarga* and following **क/ख** generate it | **Restricted** |
@@ -143,7 +143,7 @@ The *vaidika* domain offers another engineered variation. For the ***तृत�
 
 The labels *vaidika form* and *laukika form* describe how Sanskrit deploys these forms. They do not arrange them in chronological order. In many cases, including this one, the Veda itself preserves both. The *laukika form* is the form that Sanskrit uses consistently when people create new compositions in the read-write domain.
 
-Two adjacent verses in Ṛgveda 3.32 make the selection visible.[NOTE: vedic-akaranta-instrumental-plural-range]
+Two adjacent verses in Ṛgveda 3.32 demonstrate the selection.[NOTE: vedic-akaranta-instrumental-plural-range]
 
 > सजोषा रुद्रैस्तृपदा वृषस्व ।
 > पिबा रुद्रेभिः सगणः सुशिप्र ॥
@@ -161,7 +161,7 @@ The selection-and-scope profile explains why the Vedic domain can retain both en
 
 ### The Complete Range of Vibhakti-rūpāṇi (Declensional Forms)
 
-Vedic ***विभक्तिरूपाणि (*vibhakti-rūpāṇi*, declensional forms)*** extend far beyond the **-ebhiḥ / -aiḥ** comparison. The figures below organize 83 categories across ***एकवचनम् (*ekavacanam*, singular), द्विवचनम् (*dvivacanam*, dual), बहुवचनम् (*bahuvacanam*, plural),*** word classes, numerals, accent, and recitational realization. Rare, doubtful, isolated, and still-unexplained forms remain visible alongside the better-understood patterns.
+Vedic ***विभक्तिरूपाणि (*vibhakti-rūpāṇi*, declensional forms)*** extend far beyond the **-ebhiḥ / -aiḥ** comparison. The figures below organize 83 categories across ***एकवचनम् (*ekavacanam*, singular), द्विवचनम् (*dvivacanam*, dual), बहुवचनम् (*bahuvacanam*, plural),*** word classes, numerals, accent, and recitational realization. The figures include rare, doubtful, isolated, and still-unexplained forms alongside the better-understood patterns.
 
 The **DV** column uses the contribution codes defined in §8.2. Blank and open cells preserve unresolved evidence rather than presenting it as zero.
 

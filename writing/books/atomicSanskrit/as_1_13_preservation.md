@@ -26,7 +26,7 @@ Sanskrit's own vocabulary has a name for the danger: **अपभ्रंशः 
 
 Left alone, language drifts, or *falls away.*
 
-What Sanskrit has to preserve is concrete: sound, meaning, grammar, meter, recitation, and usage, all of it under the ordinary pressure of human speech. The Vedas make the problem visible at full scale. They encode cosmological inquiry, metaphysical vision, ethical order, mathematical proportion, astronomical observation, healing knowledge, and the rules of precise, performative action. Embedded within that breadth is the linguistic architecture this volume isolates: the sound-body, the metrical body, the grammatical body, and the recitational body.
+What Sanskrit has to preserve is concrete: sound, meaning, grammar, meter, recitation, and usage, all of it under the ordinary pressure of human speech. The Vedas present the full scale of that preservation problem. They encode cosmological inquiry, metaphysical vision, ethical order, mathematical proportion, astronomical observation, healing knowledge, and the rules of precise, performative action. Embedded within that breadth is the linguistic architecture this volume isolates: the sound-body, the metrical body, the grammatical body, and the recitational body.
 
 The Vedas function as sacred corpus and primary calibration matrix at once. If that matrix drifts, the calibrant drifts with it.
 

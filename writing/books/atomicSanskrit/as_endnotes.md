@@ -96,7 +96,7 @@ The second half supplies the consequence. Friends recognize friendship there. Th
 
 For §18.7, the key caution is this: the mantra speaks of *vāc*, not of "Sanskrit" by the later name. The argument there does not claim that Ṛgveda 10.71 supplies a modern construction history of Sanskrit. It also does not reduce *vāc* to the generic human ability to make coherent mouth-sounds. The *Ṛgvedic* speech-cluster treats *vāc* as a deeper category: meaningful, measured, hidden, revealed, transmitted, mantra-bearing, and formed by intelligence. Ṛgveda 10.71.1 links *vāc* with meaningful naming and with an excellent hidden portion disclosed through affection. Ṛgveda 10.71.2 describes Speech as sifted and refined like grain, then formed by the wise with the mind. Ṛgveda 10.71.3 says the path of Speech was found, that Speech entered the ṛṣis, and that she was distributed widely. Ṛgveda 10.71.4 distinguishes mere seeing and hearing from true access: one may look and not see Speech, listen and not hear her, while to another she reveals her body. Ṛgveda 10.71.7 grades speakers by depth of access despite shared eyes and ears. Ṛgveda 1.164.45 describes Speech as measured in four quarters, three hidden and one spoken. Ṛgveda 8.100.11 invokes divine Speech as generated, many-formed, spoken by beings, and nourishing like a cow. Ṛgveda 10.125 speaks in Vāk's own voice and presents her as the power that enables the ṛṣi and the one of clear intelligence.
 
-Taken together, these witnesses support *Vedic vāc* as a formed and revealed speech-category, not ordinary vocalization alone. Sanskrit is taken in Chapter 18 as the calibrated and preserved architecture in which that *vāc* becomes visible. The Vedic verses give the category; the book's preceding chapters argue the architecture.
+Taken together, these witnesses support *Vedic vāc* as a formed and revealed speech-category, not ordinary vocalization alone. Chapter 18 identifies Sanskrit as the calibrated and preserved architecture through which that *vāc* takes form. The Vedic verses give the category; the book's preceding chapters argue the architecture.
 
 The translation choices are deliberate. *Saktum* can be rendered as meal, grain, or flour, depending on context; "grain" keeps the reader-facing sieve image concrete. *Punantaḥ* conveys purification and refinement; the instrument *titaunā*, "by a sieve," makes "refined" the cleanest body translation. "Formed" is preferred to "created" for *akrata* because the claim is not creation from nothing. Sound is already abundant; the wise sift, select, shape, and form Speech.
 
@@ -144,7 +144,7 @@ The quoted mantra uses the saṃhitā form:
 > *devīṃ vācam ajanayanta devās tāṃ viśvarūpāḥ paśavo vadanti |*\
 > *sā no mandreṣam ūrjaṃ duhānā dhenur vāg asmān upa suṣṭutaitu ||*
 
-The DCS pada record separates the verse as ***devīm vācam ajanayanta devāḥ***, ***tām viśvarūpāḥ paśavaḥ vadanti***, ***sā naḥ mandrā iṣam ūrjam duhānā***, and ***dhenuḥ vāk asmān upa suṣṭutā ā etu***. The local conllu parse tags ***ajanayanta*** as a plural past form of the dhātu ⟪जनय्⟫ (*janay*), "generated / caused to be born," and parses ***duhānā*** as a present participle from the dhātu ⟪दुह्⟫ (*duh*), "milking / yielding." Jamison-Brereton render the verse: "The gods begat goddess Speech. The beasts of all forms speak her. Gladdening, milking out refreshment and nourishment for us, let Speech, the milk-cow, come well praised to us." Griffith similarly gives: "The Deities generated Vak the Goddess, and animals of every figure speak her." The active translation uses "all beings" for ***paśavaḥ*** to keep the verse's many forms of life visible in the closing idiom.
+The DCS pada record separates the verse as ***devīm vācam ajanayanta devāḥ***, ***tām viśvarūpāḥ paśavaḥ vadanti***, ***sā naḥ mandrā iṣam ūrjam duhānā***, and ***dhenuḥ vāk asmān upa suṣṭutā ā etu***. The local conllu parse tags ***ajanayanta*** as a plural past form of the dhātu ⟪जनय्⟫ (*janay*), "generated / caused to be born," and parses ***duhānā*** as a present participle from the dhātu ⟪दुह्⟫ (*duh*), "milking / yielding." Jamison-Brereton render the verse: "The gods begat goddess Speech. The beasts of all forms speak her. Gladdening, milking out refreshment and nourishment for us, let Speech, the milk-cow, come well praised to us." Griffith similarly gives: "The Deities generated Vak the Goddess, and animals of every figure speak her." The active translation uses "all beings" for ***paśavaḥ*** so the closing idiom retains the verse's many forms of life.
 
 ---
 
@@ -420,7 +420,7 @@ Operations dissolved:
 
 **Note on Patañjali's term-switch.** The maxim's first two clauses use *apaśabda* (अपशब्द, "faulty word, non-word" — the sharper pejorative formed with *apa-* + *śabda*); the *tadyathā* example clause switches to *apabhraṃśa* (अपभ्रंश, "falling-away, corruption" — the more neutral descriptive form from *apa-* + *bhraṃś*). Patañjali deploys both terms within the same continuous passage, treating them as near-synonyms designating the same phenomenon: *apaśabda* foregrounds the wrong-word angle; *apabhraṃśa* foregrounds the fall-from angle. The chapter's term-of-art is *apabhraṃśa* (which captures the engineering-decay account developed across Chapters 6 and 13); the *apaśabda* / *apabhraṃśa* near-synonymy is itself evidence of the textual unity the passage demonstrates — the same Patañjalian passage labels the *gauḥ* variants with both terms across consecutive clauses.
 
-Three central observations follow from the unified passage that the split presentation in §6.2 and §6.3 cannot make visible on its own.
+Three central observations follow from the unified passage that the split presentation in §6.2 and §6.3 cannot convey on its own.
 
 First, the *bhūyāṃso* maxim and the *gauḥ* example are not two independent claims that the chapter has aligned for rhetorical purposes. They are one argument made by Patañjali in one passage. The middle clause — ***ekaikasya hi śabdasya bahavo 'pabhraṃśāḥ***, *"for each one word, indeed, there are many corruptions"* — is the structural bridge. It restates the general asymmetry (few correct words, many corruptions) at the per-word level (each correct word has many corruptions of its own). The *gauḥ* example then exemplifies the per-word claim with the four listed variants. The general claim, the per-word restatement, and the worked example are one demonstrative sequence.
 
@@ -1398,7 +1398,7 @@ Source basis: Ṛgveda 7.104.18; final production should verify accenting and ex
 
 Ṛgveda 1.32 (Maṇḍala 1, to Indra) narrates the deed the tradition treats as Indra's defining act: Vṛtra lies coiled on the mountain enclosing the waters; Indra strikes him with the *vajra*; the waters break free and flow to the sea "like lowing cows." The word **वृत्र (*vṛtra*)** derives from ⟪वृ⟫, *to cover, to obstruct*: the Coverer, the Obstructor. The hymn's own epithets for him are *māyin* (wielder of *māyā*), *dāsa*, and the patronymic Dānava — not *asura*; the deed of containment, not the word, marks him as the adversary (the §3.7 proof).
 
-Chapter 4 uses 1.32.11 as the epigraph because it makes the custody pattern visible in a single image: the waters are obstructed and guarded by Ahi, like cows held by a Paṇi; when the opening has been covered, Indra strikes Vṛtra and opens it. The fourth Abrahamic religion repeats that structure through doctrine, custody, archive, institution, and an institutional gate.
+Chapter 4 uses 1.32.11 as the epigraph because it captures the custody pattern in a single image: the waters are obstructed and guarded by Ahi, like cows held by a Paṇi; when the opening has been covered, Indra strikes Vṛtra and opens it. The fourth Abrahamic religion repeats that structure through doctrine, custody, archive, institution, and an institutional gate.
 
 Standard text and translations: Wilson (rendering Sāyaṇa) and Griffith ad RV 1.32; saṃhitā and padapāṭha witnesses at wisdomlib.
 
@@ -2852,6 +2852,8 @@ The structural significance: the *sthāna* vocabulary is *engineering vocabulary
 
 Standard references: the *Prātiśākhya* literature (the *Ṛk-Prātiśākhya*, *Taittirīya-Prātiśākhya*, *Vājasaneyi-Prātiśākhya*, *Atharvaveda-Prātiśākhya*) for the standard articulation of the *sthāna* terminology; the *Pāṇinīya Śikṣā* and other *Śikṣā* texts for the broader phonetic-articulatory apparatus; W. S. Allen, *Phonetics in Ancient India* (Oxford University Press, 1953) — the foundational modern philological treatment; Madhav Deshpande, *Saṃskṛta-Subodhinī: A Sanskrit Primer* (University of Michigan Center for South Asian Studies, multiple editions) for the standard introductory presentation. Cross-deployed at Chapter 9 §9.2 and §9.3 in the *sthāna* / *prayatna* architectural analysis.
 
+European scholars studied Sanskrit's grammatical and phonetic disciplines throughout the nineteenth century before the International Phonetic Association placed the sounds of many languages into a two-dimensional place-and-manner grid. The institutional history of modern phonetics does not credit Sanskrit as the source of that architecture. The pyramid will not surrender that credit willingly, but that is a separate battle. The point required here is visible in the two systems themselves: modern speech science translates Sanskrit's anatomical categories, extends them across additional languages, and retains nearly the same organizing structure. Endnote `western-linguistic-encounter-sanskrit-1786-1879` documents the sequence from the European encounter with Sanskrit to the first IPA chart.
+
 ---
 
 ### `karana-active-articulator`
@@ -3591,6 +3593,46 @@ literature.
 
 ---
 
+### `svara-restricted-and-lineage-bounded-use`
+
+**Short:** **Lineage-Bounded** identifies a form preserved by named Vedic
+lineages in specific recitations. **Restricted** identifies a form that becomes
+available only when a stated speech or ritual condition calls for it.
+
+**Deployment:** Chapter 9 §9.7.
+
+The half-**ए** and half-**ओ** are Lineage-Bounded. Patañjali's
+*Mahābhāṣya* identifies the Sātyamugri and Rāṇāyanīya lineages of the Sāmaveda
+and prints three phrases in which they recite these half-vowels:
+
+- **सुजाते अश्वसूनृते (*sujāte aśvasūnṛte*)**, the refrain in Ṛgveda 5.79;
+- **अध्वर्यो अद्रिभिः सुतम् (*adhvaryo adribhiḥ sutam*)**, Ṛgveda 9.51.1;
+- **शुक्रं ते अन्यद् यजतं ते अन्यत् (*śukraṃ te anyad yajataṃ te anyat*)**,
+  Ṛgveda 6.58.1.
+
+The *Mahābhāṣya* then says that half-**ए** and half-**ओ** do not occur in
+worldly use or in another Veda. The sounds therefore belong to the named
+Sāmavedic recitations rather than to the reusable *laukika* vowel inventory.
+
+*Pluta* is Restricted in a different way. It is not confined to one lineage or
+even to the Vedic domain. Sanskrit permits a vowel to extend to three
+***मात्राः (*mātrāḥ*)*** when a particular act of speech or ritual requires the
+extra duration. The stated settings include calling to someone at a distance,
+responding to a greeting or question, deliberating between alternatives, and
+pronouncing specified yajña calls and instructions. The written numeral **३**
+marks the extension, as in **ओ३**. Outside such a setting, speakers do not have
+a free choice among one-, two-, and three-*mātrā* versions of every vowel.
+
+Pāṇini documents the duration classes at *Aṣṭādhyāyī* 1.2.27–28. Rules
+8.2.82–100 state the principal conditions for *pluta*, including calling from a
+distance at 8.2.84, yajña usage at 8.2.88–92, responses at 8.2.93 and 8.2.99,
+and deliberation at 8.2.97–98. For the lineage evidence, see Patañjali,
+*Vyākaraṇamahābhāṣya*, Kielhorn edition I.22.21–24. See also
+`vedic-half-e-half-o`, `hrasva-dirgha-pluta-matra`, and
+`vedic-pluta-rv-10-129-5`.
+
+---
+
 ### `svara-avarna-operation`
 
 **Short:** Sanskrit selects one-*mātrā saṃvṛta* **अ** and two-*mātrā
@@ -3609,7 +3651,7 @@ The connected *saṃhitāpāṭha* gives:
 
 > **नासद्**
 
-The junction therefore makes the family operation visible:
+The junction therefore demonstrates the family operation:
 
 > **अ + अ → आ**
 
@@ -3652,9 +3694,9 @@ Pāṇini assigns the *pragṛhya* designation beginning at *Aṣṭādhyāyī* 
 
 **Short:** Crossing Sanskrit's documented places and manners reveals two grid addresses that remain outside the independent consonant inventory: *kaṇṭhya–antaḥstha* near [ɰ] and *oṣṭhya–ūṣman* near [ɸ]. Both sounds are physically possible, but [ɰ] completes no fifth *ik → yaṇ* operation, while Sanskrit gives the [ɸ]-like articulation a Restricted role as *upadhmānīya*. The coordinated treatment of **अ/आ** and the Lineage-Bounded preservation of Ṛgvedic **ळ** provide two further controls: Sanskrit assigns sounds by architectural function rather than anatomical possibility alone.
 
-**Deployments:** Chapter 8 §8.2 establishes contextual realization through *upadhmānīya*. Chapter 9 §§9.9–9.10 and Figure 9.8 develop the two unassigned addresses.
+**Deployments:** Chapter 8 §8.2 establishes contextual realization through *upadhmānīya*. Chapter 9 §§9.9–9.10 and Figure 9.11 develop the two unassigned addresses.
 
-**The analytical grid.** Figure 9.8 crosses categories documented in the Sanskrit phonetic disciplines by placing five broad *sthāna* columns against five *sparśa* rows, one *antaḥstha* row, and one *ūṣman* row. Although no *Śikṣā* or *Prātiśākhya* prints this thirty-five-cell rectangle, the received inventory supplies the twenty-five *sparśa*, four *antaḥstha* (**य र ल व**), and four *ūṣman* (**श ष स ह**). Their intersection reveals two further grid addresses outside the independent inventory.
+**The analytical grid.** Figure 9.11 crosses categories documented in the Sanskrit phonetic disciplines by placing five broad *sthāna* columns against five *sparśa* rows, one *antaḥstha* row, and one *ūṣman* row. Although no *Śikṣā* or *Prātiśākhya* prints this thirty-five-cell rectangle, the received inventory supplies the twenty-five *sparśa*, four *antaḥstha* (**य र ल व**), and four *ūṣman* (**श ष स ह**). Their intersection reveals two further grid addresses outside the independent inventory.
 
 | Grid address | Nearest modern IPA sound | Articulation | Sanskrit status |
 |---|---|---|---|
@@ -4571,7 +4613,7 @@ The lineage applies this formula to Sanskrit word-analysis. Chapter 19 openly ex
 
 Chapter 19 begins the worked exercise with the pyramid's **\*yeug- / \*yug-** image and then reads Greek *zygon*, Latin *iugum*, Gothic *juk*, and English *yoke* one language at a time. Appendix Part 1 develops the full sound analysis. The approximate Devanagari renderings are pedagogical sound-maps rather than historical spellings. The comparison uses the *varṇamālā* as its instrument: Latin initial **i** in *iugum* represents **तालव्य अन्तःस्थ य (*tālavya antaḥstha ya*)**; the closing Greek and Latin **g** maps to **कण्ठ्य घोष अल्पप्राण ग (*kaṇṭhya ghoṣa alpaprāṇa ga*)**; and Gothic and English **k** maps to **कण्ठ्य अघोष अल्पप्राण क (*kaṇṭhya aghoṣa alpaprāṇa ka*)**. Greek **ζ** requires a period-specific account and is not silently equated with one Sanskrit sonomer. Greek **υ** in **ζυγόν** combines a tongue position near **तालव्य इ (*tālavya i*)** with the rounded lips associated with **ओष्ठ्य उ (*oṣṭhya u*)**. Sanskrit has no vowel at that exact articulatory coordinate, so the chapter uses **उ** only as an approximation.
 
-The comparison then reaches **⟪युज्⟫ (*yuj*)**. The Veda supplies **युञ्जन्ति (*yuñjanti*)**, **युगा (*yugā*)**, and **युक्त (*yukta*)**, making **ज → ग → क (*j → g → k*)** visible inside one semantic family. Pāṇini later documents the two movements between grid addresses under their Sanskrit conditions through **चोः कुः (*coḥ kuḥ*, 8.2.30)** and **खरि च (*khari ca*, 8.4.55)**. The lineage's derivation of **योग (*yoga*)** from **⟪युज्⟫** also applies the specified **उ → ओ (*u → o*)** *guṇa* relation and **कुत्व (*kutva*)**, the corresponding palatal-to-velar operation.
+The comparison then reaches **⟪युज्⟫ (*yuj*)**. The Veda supplies **युञ्जन्ति (*yuñjanti*)**, **युगा (*yugā*)**, and **युक्त (*yukta*)**, documenting **ज → ग → क (*j → g → k*)** inside one semantic family. Pāṇini later documents the two movements between grid addresses under their Sanskrit conditions through **चोः कुः (*coḥ kuḥ*, 8.2.30)** and **खरि च (*khari ca*, 8.4.55)**. The lineage's derivation of **योग (*yoga*)** from **⟪युज्⟫** also applies the specified **उ → ओ (*u → o*)** *guṇa* relation and **कुत्व (*kutva*)**, the corresponding palatal-to-velar operation.
 
 Appendix Part 1 begins the second case with Vedic **बिभर्ति (*bibharti*)** from **⟪भृ⟫ (*bhṛ*)**. The word places unaspirated **ब (*b*)** beside aspirated **भ (*bh*)** inside one Sanskrit form. Greek *pherein*, Latin *ferre*, Old English *beran*, and English *bear* remain in the same labial region while changing voicing, aspiration, and closure. Hemacandra's *Siddha-Hema* 8.1.187 records aspirated stops moving toward **h** in Prakrit. That evidence documents a different natural outcome; it does not supply a rule for deriving the Greek **ph**, Latin **f**, or Germanic **b**. The third case returns to **⟪जन्⟫ (*jan*)** and tests the same sonomer path across Greek and Latin *gen-* and Germanic *kin, kind,* and *king*.
 
@@ -4856,7 +4898,7 @@ Sir William Jones, "The Third Anniversary Discourse, on the Hindus," delivered F
 
 The Appendix deployment is the same citation drafted at endnote `jones-1786-third-anniversary-discourse`. Appendix Part 3 uses the address as the founding moment of the European-philological absorption of Sanskrit grammatical analysis: the IPA-and-phonological-grid trajectory. Appendix Part 5 uses the same address as the structural moment *before the inversion* — when European philology was still acknowledging Sanskrit's depth as the source-language of the family being constructed, before the inversion in the mid-nineteenth century displaced Sanskrit from the source position into the daughter-language position in the reconstructed PIE-anchored framework.
 
-The Appendix's structural account: Jones's 1786 address was the founding direction of the European philological project. Within five decades of that direction, the project's professional descendants would *invert* the direction — replacing Sanskrit-as-ancestor with PIE-as-reconstructed-ancestor and Sanskrit-as-one-daughter-language-among-siblings. The inversion was not made visible to the contemporary Indian Sanskritists who supplied the textual, lexicographical, and grammatical material in the post-Jones generation; they were conducting Sanskrit-internal work for lineage-internal purposes, not anticipating that their work was being reverse-engineered into a starred-ancestor framework that would displace Sanskrit from its source position.
+The Appendix's structural account: Jones's 1786 address was the founding direction of the European philological project. Within five decades of that direction, the project's professional descendants would *invert* the direction — replacing Sanskrit-as-ancestor with PIE-as-reconstructed-ancestor and Sanskrit-as-one-daughter-language-among-siblings. The European philologists did not disclose that inversion to the contemporary Indian Sanskritists who supplied the textual, lexicographical, and grammatical material in the post-Jones generation; they were conducting Sanskrit-internal work for lineage-internal purposes, not anticipating that their work was being reverse-engineered into a starred-ancestor framework that would displace Sanskrit from its source position.
 
 The chronological-and-structural sequence the Appendix develops: 1786 (Jones acknowledges Sanskrit's depth) → 1816 (Bopp's *Conjugationssystem* still positions Sanskrit as the ancestor or close to it) → 1861 (Schleicher's *Compendium* introduces the family-tree model with a reconstructed common ancestor *distinct from* Sanskrit) → 1868 (Schleicher's PIE fable; the apparent completeness of the manufactured-ancestor framework) → late nineteenth century and onward (cementing of the PIE reconstruction as the standard reference). The Appendix's polemic structure prosecutes this sequence as the *bake* — the manufacturing process that produced PIE — with Jones's 1786 address as the founding moment *before* the bake began.
 
@@ -5176,11 +5218,11 @@ Source: `analysis/ganah/scripts/summarize_scaffold_reactivity.py`; derived outpu
 
 ### `rigvedic-kriya-examples`
 
-**Short:** Ch 11 §11.2 uses five Rigvedic *padapāṭha* excerpts to show the kriyā-operation before Pāṇinian terminology enters: RV 1.23.11 (*eti* < *i*), RV 1.22.4 (*asti* < *as*), RV 1.26.3 (*yajati* < *yaj*), RV 1.17.5 (*bhavati* < *bhū*), and RV 5.25.4 (*rājati* < *rāj*). The excerpts are presented in pada-separated form so the inspected verbal molecule remains visible before *saṃhitā* sandhi recombines the line.
+**Short:** Ch 11 §11.2 uses five Rigvedic *padapāṭha* excerpts to show the kriyā-operation before Pāṇinian terminology enters: RV 1.23.11 (*eti* < *i*), RV 1.22.4 (*asti* < *as*), RV 1.26.3 (*yajati* < *yaj*), RV 1.17.5 (*bhavati* < *bhū*), and RV 5.25.4 (*rājati* < *rāj*). The excerpts are presented in pada-separated form so the inspected verbal molecule remains distinct before *saṃhitā* sandhi recombines the line.
 
 **Deployments:** Ch11 §11.2 (the five Vedic-procedure examples).
 
-The five examples are not offered as a full conjugational lesson. They are a procedural sampling across five timing envelopes: 1, 1.5, 2, 2.5, and 3 *mātrās*. The source point is narrower: each kriyā-form is present in the Vedic corpus itself, and each can be inspected as a semantic atom reacting with additional sonomers to become a verbal molecule. The *padapāṭha* rather than the continuous *saṃhitā* line is quoted because the separated pada form makes the molecule under inspection visible.
+The five examples are not offered as a full conjugational lesson. They are a procedural sampling across five timing envelopes: 1, 1.5, 2, 2.5, and 3 *mātrās*. The source point is narrower: each kriyā-form is present in the Vedic corpus itself, and each can be inspected as a semantic atom reacting with additional sonomers to become a verbal molecule. The *padapāṭha* rather than the continuous *saṃhitā* line is quoted because the separated pada form isolates the molecule under inspection.
 
 Sources: Wisdom Library's Rigveda pages for RV 1.23.11, RV 1.22.4, RV 1.26.3, and RV 1.17.5 provide both *saṃhitā* and *padapāṭha* lines with transliteration and grammatical parsing; the RV 5.25.4 pada line is checked against Veda Dive and the Vishvasa Shākala presentation.
 
@@ -5422,7 +5464,7 @@ Sources: Einar Haugen, ["Dialect, Language, Nation," *American Anthropologist* 6
 
 The claim is about **selection pressure rather than total command**. Speakers continue to create linguistic change through ordinary use, contact, childhood acquisition, analogy, and local preference. Institutions intervene by changing which forms receive classroom time, official recognition, employment value, publication access, and public prestige. Language-planning scholarship describes comparable operations through selection of a norm, codification, elaboration of function, and social acceptance. The book places those familiar operations inside its apex analysis: the survey maps variation, and institutions alter the rewards attached to each direction of change.
 
-The classic diglossia account makes the hierarchy unusually visible in Arabic. It calls the superposed standardized form **High** and the natively acquired conversational forms **Low**; assigns the High form to education, writing, public address, and prestigious literature; and records speakers treating the High form as the only "real" Arabic even while using the Low form in ordinary conversation. Later Arabic sociolinguistic work qualifies the last step by showing that local and regional spoken forms can possess prestige within their own settings. That qualification supports the book's narrower claim: an apex can privilege a standardized form without fully controlling living languages.
+The classic diglossia account states the hierarchy unusually clearly in Arabic. It calls the superposed standardized form **High** and the natively acquired conversational forms **Low**; assigns the High form to education, writing, public address, and prestigious literature; and records speakers treating the High form as the only "real" Arabic even while using the Low form in ordinary conversation. Later Arabic sociolinguistic work qualifies the last step by showing that local and regional spoken forms can possess prestige within their own settings. That qualification supports the book's narrower claim: an apex can privilege a standardized form without fully controlling living languages.
 
 The long-memory consequence is the book's architectural inference. Sound change, semantic change, language replacement, and loss of grammatical transparency can make an older record inaccessible without mediation; Old English requiring translation for modern English readers is the familiar control case used later in the chapter. When a school, church, state, academy, publisher, or credentialed profession controls both the prestige language and the authorized explanation of older language, the same institution can influence how later generations receive the earlier record. The mechanism permits capture; it does not prove that every natural-language community loses its memory or that every mediator acts deceptively.
 
@@ -5436,7 +5478,7 @@ Sources: Charles A. Ferguson, ["Diglossia," *Word* 15, no. 2 (1959), 325–340](
 
 **Deployments:** Chapter 2 §2.2 (first concrete examples of the Petrified Languages classification); Chapter 13 §13.5 (comparative trajectories and Modern Hebrew revivification); Chapter 14 §14.6 (the preservation apparatus and visible-custodian comparison).
 
-**High and Low Arabic.** The written *muṣḥaf*, *tajwīd*, the listed *qirāʾāt*, memorization, and documented transmission preserve the Quranic form. Spoken Arabics continued changing across regions beside it. Modern Standard Arabic draws upon the Classical inheritance but is not identical to the bounded Quranic object. Its generative resources remain available to speakers, translators, journalists, and specialists, who can create new expressions without institutional permission. Ministries, language academies, schools, publishers, broadcasters, and government offices influence which expressions acquire formal recognition and circulate through education or administration. The Arabization Coordination Bureau and ALECSO's terminology projects make this institutional mediation visible: specialist networks coin, coordinate, revise, and circulate Arabic scientific and technical terms. These institutions gate recognition, circulation, and prestige rather than generativity itself.
+**High and Low Arabic.** The written *muṣḥaf*, *tajwīd*, the listed *qirāʾāt*, memorization, and documented transmission preserve the Quranic form. Spoken Arabics continued changing across regions beside it. Modern Standard Arabic draws upon the Classical inheritance but is not identical to the bounded Quranic object. Its generative resources remain available to speakers, translators, journalists, and specialists, who can create new expressions without institutional permission. Ministries, language academies, schools, publishers, broadcasters, and government offices influence which expressions acquire formal recognition and circulate through education or administration. The Arabization Coordination Bureau and ALECSO's terminology projects document this institutional mediation: specialist networks coin, coordinate, revise, and circulate Arabic scientific and technical terms. These institutions gate recognition, circulation, and prestige rather than generativity itself.
 
 The classic diglossic terminology places Quranic or Classical Arabic and Modern Standard Arabic in the High position, while natively acquired spoken Arabics occupy the Low position. Chapter 2 places the Quranic form among Petrified Languages, MSA among highly generative Natural Languages whose formal recognition channels are institutionally gated, and the spoken Arabics among Natural Languages shaped directly by community use. The Quranic form is the clearest petrified object, and MSA is an institutionally maintained apex language; neither classification implies that Arabic as a whole is frozen. Sources: ALECSO, ["Arabic Terminology Network for the Coining of Scientific Terms"](https://www.alecso.org/nsite/en/newscat/1138-alecso-holds-first-preliminary-meeting-of-the-arabic-terminology-network-for-the-coining-of-scientific-terms); ALECSO, ["Efforts of ALECSO and the Arabization Coordination Bureau in the Translation of Scientific and Technical Terminology"](https://www.alecso.org/nsite/en/newscat/3250-%25D8%25AC%25D9%2587%25D9%2588%25D8%25AF-%25D8%25A7%25D9%2584%25D8%25A3%25D9%2584%25D9%2583%25D8%25B3%25D9%2588-%25D9%2588%25D9%2585%25D9%2583%25D8%25AA%25D8%25A8-%25D8%25AA%25D9%2586%25D8%25B3%25D9%258A%25D9%2582-%25D8%25A7%25D9%2584%25D8%25AA%25D8%25B9%25D8%25B1%25D9%258A%25D8%25A8-%25D9%2581%25D9%258A-%25D8%25AA%25D8%25B1%25D8%25AC%25D9%2585%25D8%25A9-%25D8%25A7%25D9%2584%25D9%2585%25D8%25B5%25D8%25B7%25D9%2584%25D8%25AD-%25D8%25A7%25D9%2584%25D8%25B9%25D9%2584%25D9%2585%25D9%258A-%25D9%2588%25D8%25A7%25D9%2584%25D8%25AA%25D9%2582%25D9%2586%25D9%258A-2). See `quranic-engineered-preservation` and `botanical-drift-prestige-memory`.
 
@@ -5563,11 +5605,11 @@ The *prayoga* audit operationalizes a *dhātu*'s reactivity as **corpus-attested
 
 ### `mendeleev-1869-table`
 
-**Short:** Mendeleev's 1869 periodic table arranged 63 elements by atomic weight and recurring chemical function, creating the historical comparison for Chapter 11's narrower claim that structural arrangement by property can make an underlying architecture visible.
+**Short:** Mendeleev's 1869 periodic table arranged 63 elements by atomic weight and recurring chemical function, creating the historical comparison for Chapter 11's narrower claim that structural arrangement by property can reveal an underlying architecture.
 
 **Deployments:** Chapter 11 §11.10 ¶ — historical anchor for the Mendeleev-1869 reference frame.
 
-Dmitri Mendeleev, *Versuche eines Systems der Elemente nach ihren Atomgewichten und chemischen Funktionen* (1869) — the first periodic-table publication, presenting 63 chemical elements arranged by atomic weight on one axis and recurrent chemical property on the other. The table's predictive feature — Mendeleev left gaps for elements whose properties the table predicted but which had not yet been isolated, and gallium (1875), scandium (1879), and germanium (1886) were subsequently discovered with the predicted properties — established that structural arrangement by property could anticipate empirical fact. The 1869 paper is the historical anchor for comparison, not equivalence: Chapter 11 uses the modern table to help make visible Sanskrit's older grammatical table of measured bonding behavior. See the companion for the original 1869 paper, Mendeleev's 1871 expansion (*The Periodic Law of the Chemical Elements*), and the historical-priority literature (Meyer 1864, Newlands 1866, de Chancourtois 1862).
+Dmitri Mendeleev, *Versuche eines Systems der Elemente nach ihren Atomgewichten und chemischen Funktionen* (1869) — the first periodic-table publication, presenting 63 chemical elements arranged by atomic weight on one axis and recurrent chemical property on the other. The table's predictive feature — Mendeleev left gaps for elements whose properties the table predicted but which had not yet been isolated, and gallium (1875), scandium (1879), and germanium (1886) were subsequently discovered with the predicted properties — established that structural arrangement by property could anticipate empirical fact. The 1869 paper is the historical anchor for comparison, not equivalence: Chapter 11 uses the modern table to explain Sanskrit's older grammatical table of measured bonding behavior. See the companion for the original 1869 paper, Mendeleev's 1871 expansion (*The Periodic Law of the Chemical Elements*), and the historical-priority literature (Meyer 1864, Newlands 1866, de Chancourtois 1862).
 
 ---
 
@@ -5615,7 +5657,7 @@ Sources: `analysis/ganah/data/derived/path_c_valency.csv` (DCS *dhātuḥ* label
 
 ### `cross-corpus-invariance`
 
-**Short:** The hyper-reactive polyvalent core is not an artifact of one corpus: the nine reference high-valency *dhātavaḥ* remain visible across *śruti* and *smṛti* sub-corpora, with genre-specific atoms entering only at the edges.
+**Short:** The hyper-reactive polyvalent core is not an artifact of one corpus: the nine reference high-valency *dhātavaḥ* recur across *śruti* and *smṛti* sub-corpora, with genre-specific atoms entering only at the edges.
 
 **Deployments:** Chapter 11 §11.9 ¶ — anchors the polemical hammer of the cross-corpus invariance claim.
 

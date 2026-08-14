@@ -72,7 +72,7 @@ Most readers already know some Sanskrit, even if they have never studied the lan
 
 A Western reader already speaks Sanskrit casually through words that have entered the global vocabulary: **गुरु (*guru*)**, a weighty teacher; **कर्म (*karma*)**, action; **अवतार (*avatāra*)**, a descent; **मन्त्र (*mantra*)**; and **योग (*yoga*)**, from the atom ⟪युज्⟫ (*yuj*), to join. Chapter 19 traces Sanskrit's radiance through thousands of familiar English words, including *king, station, genesis, native, constant,* and *state*, and shows the Sanskrit forms reflected within them.
 
-An Indian reader encounters Sanskrit throughout daily life. *Ślokas* and wedding mantras keep its sounds audible. Modern space missions use compounds such as **चन्द्रयान (*Candrayāna*)**, Moon-vehicle, while the country calls itself **भारत (*Bhārata*)**. Sanskrit's radiance remains visible throughout regional Indian languages, in the sounds they produce and in the words and grammar they use.
+An Indian reader encounters Sanskrit throughout daily life. *Ślokas* and wedding mantras keep its sounds audible. Modern space missions use compounds such as **चन्द्रयान (*Candrayāna*)**, Moon-vehicle, while the country calls itself **भारत (*Bhārata*)**. Regional Indian languages continue to carry Sanskrit's radiance in their sounds, words, and grammar.
 
 ### Attribute, Not Label
 
@@ -158,7 +158,7 @@ The term *Vedāntic period* is the pyramid's invention.
 
 Hindu chronology describes yugas, manvantaras, dynasties, reigns, and lineages. *Vedānta* instead identifies the culmination and purpose of Vedic knowledge. It also identifies the interpretive tradition carried through the Upaniṣads, the Bhagavad Gītā, the Brahmasūtras, and the several Vedānta darśanas. These are textual, philosophical, and pedagogical relationships. None of them turns *Vedānta* into the name of an age.
 
-Unfortunately, chronology capture has now entered institutions that should have protected this distinction. The Government of India's Vedic Heritage Portal defines *Vedānta* as the conclusion and goal of the Vedas, then immediately declares that the Upaniṣads came chronologically at the end of a *Vedic period*. The Vedanta Society's public explanation also preserves the internal meaning of *anta* as end or goal, while introductory scholarship hosted on its site restores the conventional dates and historical sequence. The structural meaning remains visible, but it is made to carry a chronology that it cannot establish.[NOTE: vedanta-anta-chronology-capture]
+Unfortunately, chronology capture has now entered institutions that should have protected this distinction. The Government of India's Vedic Heritage Portal defines *Vedānta* as the conclusion and goal of the Vedas, then immediately declares that the Upaniṣads came chronologically at the end of a *Vedic period*. The Vedanta Society's public explanation also preserves the internal meaning of *anta* as end or goal, while introductory scholarship hosted on its site restores the conventional dates and historical sequence. The structural meaning remains intact, but it is made to carry a chronology that it cannot establish.[NOTE: vedanta-anta-chronology-capture]
 
 This is category theft through chronology capture. A structural end becomes a chronological end. Culmination becomes lateness. Purpose becomes period.
 

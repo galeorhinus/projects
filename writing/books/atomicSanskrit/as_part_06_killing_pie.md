@@ -12,4 +12,4 @@ The writing-label and early-literature reductions have now fallen with the earli
 
 Chapter 17 tests whether the proposed migration route can explain Sanskrit's subcontinental mouth and mind. Chapter 18 investigates who selected Sanskrit's sounds, arranged its semantic atoms, and built its preservation disciplines. Chapter 19 then examines PIE directly and shows how dictionaries and classrooms place a reconstructed language above recorded Sanskrit evidence.
 
-By treating descent as the only possible explanation, PIE prevents the reader from investigating who engineered the recorded architecture. Once Sanskrit stands visible as calibrated fractal architecture, PIE functions as enclosure, not explanation — a head with no body.
+By treating descent as the only possible explanation, PIE prevents the reader from investigating who engineered the recorded architecture. Once the reader recognizes Sanskrit as calibrated fractal architecture, PIE functions as enclosure, not explanation — a head with no body.

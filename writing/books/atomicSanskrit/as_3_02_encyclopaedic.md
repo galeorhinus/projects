@@ -16,7 +16,7 @@ The institutions then created generations of **certified intellectuals** within 
 
 ## 2.1 The Fleet
 
-The Deccan College dictionary is one case because its documentation is complete and its title confesses the method. The pattern is larger. Linear progressivism — the secularized descendant of the *fourth Abrahamic religion*'s chronological-evolutionary timeline — has remained the default operating system across institutional Indology since 1947. Three other instances make the pattern visible.
+The Deccan College dictionary is one case because its documentation is complete and its title confesses the method. The pattern is larger. Linear progressivism — the secularized descendant of the *fourth Abrahamic religion*'s chronological-evolutionary timeline — has remained the default operating system across institutional Indology since 1947. Three other instances demonstrate the same pattern.
 
 **The Bhandarkar Oriental Research Institute (1919; final *Mahābhārata* volume 1966).** BORI's Critical Editions of the *Mahābhārata* and *Rāmāyaṇa* applied Western biblical textual criticism — a tool built to reverse-engineer a fragile Ur-text from corrupt manuscript copies — to **स्मृति (*smṛti*)**, a distributed generative network built to preserve a core while allowing regional, performative, and civilizational expansion. What the method calls *interpolation* is often the generative system producing new material. BORI applied a decaying-manuscript diagnostic to an open-source engine and diagnosed the engine's generative output as disease.
 
@@ -136,7 +136,7 @@ The OED tracks natural-historical change: sounds erode or disappear, case and ge
 
 Apply the same method to Sanskrit. *Yantra* stays *yantra*. *Dharma* stays *dharma*. *Brahman* stays *brahman*. Eight cases stay eight. Three genders stay three. The *Dhātupāṭha* stays. The *varṇamālā* stays. The *Aṣṭādhyāyī*'s rules stay.
 
-The same method produces different architectural pictures because the underlying systems are different. English has no calibrant. Sanskrit has the calibrant the preceding chapters document. The Deccan College project has spent decades collecting the variation against which Sanskrit's calibration remains visible. The method documents English change; applied to Sanskrit, it also documents Sanskrit's resistance to such change.
+The same method produces different architectural pictures because the underlying systems are different. English has no calibrant. Sanskrit has the calibrant the preceding chapters document. The Deccan College project has spent decades collecting the variation against which Sanskrit's calibration can be tested. The method documents English change; applied to Sanskrit, it also documents Sanskrit's resistance to such change.
 
 ## 2.7 What the Project Cannot Show
 

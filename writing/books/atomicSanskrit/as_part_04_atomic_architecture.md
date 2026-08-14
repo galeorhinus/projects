@@ -4,7 +4,7 @@
 
 ---
 
-The earlier parts cleared the shadow's first plates, laid out Sanskrit's self-description, and made the sound-field visible. Here the fractal claim becomes procedural: the architecture is built in sequence.
+The earlier parts cleared the shadow's first plates, laid out Sanskrit's self-description, and mapped its sound-field. Here the fractal claim becomes procedural: the architecture is built in sequence.
 
 No new obstruction is removed in this movement. The already-opened light now shows what the earlier distortions had hidden: the atomic architecture beneath sound.
 

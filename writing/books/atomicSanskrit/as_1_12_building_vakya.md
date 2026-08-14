@@ -48,7 +48,7 @@ Sanskrit bonds an atom in two main directions. A head-bond, **उपसर्ग
 
 The completed form can then take the ending required for sentence use. A **विभक्तिः (*vibhaktiḥ*)** marks a name's role, number, and relation, while a **तिङ्-प्रत्ययः (*tiṅ-pratyayaḥ*)** marks a verb's person and number. “Stabilize” here means that the bonded form has acquired a recoverable role; it does not describe physical preservation.
 
-The governing issue is recoverability. The bond remains visible enough for the form to be analyzed, taught, corrected, recited, and recalibrated.
+The governing issue is recoverability. The bond remains traceable enough for the form to be analyzed, taught, corrected, recited, and recalibrated.
 
 In English, a preposition usually stands outside the action: *from*, *toward*, *over*, *under*. In the laukika domain, the *upasargaḥ* binds into the word-body and redirects the action from within the derivation by bonding with the atom. In the vaidika domain the same *upasargaḥ* may float in front of its atom — a domain permission Chapter 16 §16.4 and Appendix Part 8 document in full.
 
@@ -56,7 +56,7 @@ A *pratyayaḥ* performs the other side of the bonding procedure, completing the
 
 Sanskrit bonds semantic atoms into usable molecules, and the bond changes grammatical behavior while preserving recoverable identity — which is exactly what makes the chemistry analogy fit.
 
-The figures keep the timing layer visible. The ruler below each strip shows the *mātrā* scale in half-*mātrā* steps, so the reader can see that sentence assembly still preserves measured sound.
+The figures preserve the timing layer. The ruler below each strip shows the *mātrā* scale in half-*mātrā* steps, so the reader can see that sentence assembly still preserves measured sound.
 
 ![Figure 12.2 — Ch12 visual key: atom, head-bond, tail-bond, role-ending, nasal consonant, visarga, and half-*mātrā* ruler.](figures/building_vakya/visual_key.svg){#fig:building-vakya-visual-key width=100%}
 
@@ -82,13 +82,13 @@ These molecules are built from one semantic atom through different defined bonds
 
 The head-bonds alone show the range. **प्र (*pra-*)** directs ⟪कृ⟫ toward the prior condition: **प्रकृति (*prakṛti*)**. **वि (*vi-*)** directs it toward separation, alteration, and differentiation: **विकृति (*vikṛti*)**. **सम् (*sam-*)** directs it toward gathering, integration, and refinement: **संस्कृति (*saṃskṛti*)** and **संस्कार (*saṃskāra*)**.
 
-The tail-bonds show the same principle from the other side. Bare ⟪कृ⟫ can become **कर्म (*karma*)**, the deed; **कर्तृ (*kartṛ*)**, the doer; and **कार्य (*kārya*)**, what is to be done. The atom remains visible. The bond determines what the molecule can do.
+The tail-bonds show the same principle from the other side. Bare ⟪कृ⟫ can become **कर्म (*karma*)**, the deed; **कर्तृ (*kartṛ*)**, the doer; and **कार्य (*kārya*)**, what is to be done. The atom remains traceable. The bond determines what the molecule can do.
 
 ⟪कृ⟫ serves the demonstration because it connects the technical proof to the highest categories in the argument: *prakṛti*, *vikṛti*, and *saṃskṛti*. The words for the creation triad are themselves products of the bonding procedure being demonstrated.
 
 Other atoms behave differently. **⟪ह्लाद्⟫ (*hlād*)** is a higher-*mātrā*, lower-reactivity atom in the joined analysis.[NOTE: hlad-contrast-atom] It still bonds and generates, but it does not produce the same wide molecular range. Sanskrit's bonding procedure handles both kinds: the highly reactive atoms that build large conceptual territories, and the specialized atoms that perform the narrower semantic work.
 
-The demonstration follows ⟪कृ⟫ because it makes the procedure visible. Once the reader sees the procedure on the most reactive atom, the same logic can be recognized elsewhere.
+The demonstration follows ⟪कृ⟫ because it displays every step of the procedure. Once the reader understands the procedure on the most reactive atom, the same logic can be recognized elsewhere.
 
 ![Figure 12.3 — The high-reactivity ⟪कृ⟫ (*kṛ*) atom beside the specialized ⟪ह्लाद्⟫ (*hlād*) atom.](figures/building_vakya/kr_hlad.svg){#fig:building-vakya-kr-hlad width=100%}
 
@@ -106,7 +106,7 @@ An *upasargaḥ* redirects the atom's action. With *kṛ*, the redirection is ea
 
 Each *upasargaḥ* changes what ⟪कृ⟫ does without changing the atom at the center: *pra-* directs it toward prior formation, *vi-* toward alteration, and *sam-* toward integrated refinement.
 
-The atom remains visible through the redirection, which is what makes the molecule interpretable. The head-bond changes the direction while preserving the atom.
+The atom remains traceable through the redirection, which keeps the molecule interpretable. The head-bond changes the direction while preserving the atom.
 
 ![Figure 12.4 — Head-bonds redirect ⟪कृ⟫ (*kṛ*): *pra-*, *vi-*, and *sam-* produce different molecular territories.](figures/building_vakya/head_bonds.svg){#fig:building-vakya-head-bonds width=100%}
 
@@ -208,11 +208,11 @@ Break the assembly:
 
 The English sense is: *What will one who does not know that do with the ṛc?*
 
-The line is short, and every layer remains visible. **करिष्यति (*kariṣyati*)** expresses the future action and returns the reader to **⟪कृ⟫ (*kṛ*)**, the flagship atom. **ऋचा (*ṛcā*)** expresses the instrumental relation. **यः (*yaḥ*)** and **तत् (*tat*)** establish the relative construction. **न (*na*)** negates the knowing. The relations encoded in the parts bind the sentence together.
+The line is short, and every layer remains traceable. **करिष्यति (*kariṣyati*)** expresses the future action and returns the reader to **⟪कृ⟫ (*kṛ*)**, the flagship atom. **ऋचा (*ṛcā*)** expresses the instrumental relation. **यः (*yaḥ*)** and **तत् (*tat*)** establish the relative construction. **न (*na*)** negates the knowing. The relations encoded in the parts bind the sentence together.
 
 By the time the *vākya* is formed, every level beneath it is still recoverable, each for a concrete reason: the sonomers because sound-change runs by rule, the *dhātuḥ* because the molecule keeps its atomic identity through affixation, the *upasargaḥ* and *pratyayaḥ* because each bond leaves a grammatical and semantic signature, and the *padam* because *vibhaktiḥ* and *tiṅ-pratyayaḥ* encode relation, number, person, and role.
 
-The sentence is the larger assembly, yet the smaller engineering remains visible inside it. Sanskrit can therefore build upward without losing the levels below: sonomers, atoms, molecules, bonds, and roles remain traceable inside the final utterance.
+The sentence is the larger assembly, yet the smaller engineering remains traceable inside it. Sanskrit can therefore build upward without losing the levels below: sonomers, atoms, molecules, bonds, and roles remain traceable inside the final utterance.
 
 ![Figure 12.8 — Full sonomeric sentence experiment: यस्तन्न वेद किमृचा करिष्यति.](figures/building_vakya/sentence_full_hex.svg){#fig:building-vakya-sentence-full-hex width=100%}
 
@@ -244,7 +244,7 @@ The botanical metaphor therefore belongs to the *apaśabda*. The Sanskrit *dhāt
 
 The two sides of this movement require two terms. From Sanskrit's side, **अपभ्रंश (*apabhraṃśa*)** describes the falling away from the calibrated form. From the receiving language's side, **vivimorphosis** describes the same molecule acquiring organic behavior.[NOTE: apabhramsa-vivimorphosis-boundary]
 
-Using both terms keeps both consequences visible. Sanskrit can still compare the received form with the *śabda* from which it fell, while the receiving language gains a seed that it can pronounce, inflect, combine, and extend according to its own architecture. As the receiving language reshapes the molecule, its engineered bonds loosen and the seed becomes available for new growth.
+Using both terms preserves both consequences. Sanskrit can still compare the received form with the *śabda* from which it fell, while the receiving language gains a seed that it can pronounce, inflect, combine, and extend according to its own architecture. As the receiving language reshapes the molecule, its engineered bonds loosen and the seed becomes available for new growth.
 
 ![Figure 12.9 — Boundary crossing: *dhātuḥ* → *śabda* → *bīja* → *apaśabda*.](figures/building_vakya/vivimorphosis.svg){#fig:building-vakya-vivimorphosis width=100%}
 
@@ -290,6 +290,6 @@ That recoverability allows speakers to interpret, recite, correct, and calibrate
 
 At the boundary, the same recoverability allows Sanskrit to remain the calibrant even after a received form begins an organic life elsewhere. *Apabhraṃśa* describes the distance from the calibrated molecule, while vivimorphosis describes what the receiving language can grow from its seed.
 
-The scale-chain has therefore reached complete language — sonomers have become atoms, atoms molecules, molecules role-bearing *padāni*, *padāni* *vākyāni* — and the lower levels stay visible enough for the whole structure to be preserved.
+The scale-chain has therefore reached complete language — sonomers have become atoms, atoms molecules, molecules role-bearing *padāni*, *padāni* *vākyāni* — and the lower levels remain traceable enough for the whole structure to be preserved.
 
 Chapter 13 asks how a complete language can survive across time. Chapter 14 shows how the calibration matrix preserves it.

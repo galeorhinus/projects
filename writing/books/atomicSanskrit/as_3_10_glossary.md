@@ -32,7 +32,7 @@ The glossary is organized in three groups:
 
 ### **sonomer**
 
-**Book-coined English.** The book's English name for *varṇa* when the book needs to distinguish Sanskrit's unit from the modern linguistic category *phoneme*. A phoneme is a contrastive sound-unit. A sonomer is stronger: a measured sound-particle, articulated by place and effort, timed by *mātrā*, classified inside the *varṇamālā*, renderable through the audiographic system, and available for grammatical operation.
+**Book-coined English.** The book's English name for *varṇa* when the book needs to distinguish Sanskrit's unit from the modern linguistic category *phoneme*. A phoneme is a contrastive sound-unit. A sonomer is stronger: a measured sound-particle, articulated by place and effort, timed by *mātrā*, classified inside the *varṇamālā*, renderable through the audiographic system, and available for grammatical operation. On the consonant plane, a sonomer is a sonance with an independent address. Speakers can choose it freely when they build new words.
 
 **Sanskrit pair**: *varṇa* / *varṇāḥ*.
 
@@ -44,13 +44,17 @@ The glossary is organized in three groups:
 
 **Use in book**: Appendix Part 3 states the hierarchy directly: Sanskrit is sonomeric before it is audiographic. Chapters 10 and 11 use *sonomeric* for the construction of the *dhātuḥ* and the activation of the *kriyā*. The term also captures the continuity across scale: Sanskrit does not lose the sonomer as it builds upward from *varṇamālā* to *dhātuḥ*, from conjugation to case, from word to sentence.
 
-### **sonomeron**
+### **sonance**
 
-**Book-coined English, optional engineering rendering.** A stable sonomeric cell: one vowel-centered acoustic unit that can contain one or more sonomers without blurring their identities. Sanskrit's own word is stronger and primary: **अक्षरम् (*akṣaram*)**, the imperishable unit. *Sonomeron* is used only when the engineering analogy needs a compact English label for the *akṣara* as an assembly of sonomers.
+**Standard English, book-repurposed.** *Sonance* means a sound or the act of sounding. This book uses it for a consonantal sound selected into Sanskrit's architecture. A sonance may receive an independent address and become a sonomer. It may instead remain outside the grid and appear only under a stated condition or within a named Vedic lineage. The human mouth can produce many other sounds, but Sanskrit does not treat them as sonances unless its architecture assigns them a role.
 
-**Sanskrit pair**: *akṣara*.
+**Use in book**: Chapter 9 distinguishes all Sanskrit sonances from the sonomers selected for independent reuse. Chapter 16 applies that distinction across the *vaidika* and *laukika* domains.
 
-**Use in book**: glossary-only unless a later diagram needs the engineering rendering. The main prose should continue to use *akṣara*.
+### **off-grid sonance**
+
+**Book-coined English phrase.** A sonance that Sanskrit preserves or generates without assigning it an independent address in the sonomer grid. A Restricted off-grid sonance appears only when the sounds around it satisfy a stated condition. A Lineage-Bounded off-grid sonance remains attached to the received passages of a named Vedic lineage.
+
+**Use in book**: Chapter 9 introduces the distinction through Ṛgvedic **ळ/ळ्ह**, ***जिह्वामूलीय (*jihvāmūlīya*)***, and ***उपध्मानीय (*upadhmānīya*)***. Chapter 16 explains why the invariant Vedic domain can preserve a wider range of off-grid sonances without allowing speakers to choose them freely when creating *laukika* words.
 
 ### **dhātuḥ** (धातुः) / **dhātavaḥ** (धातवः)
 
@@ -257,8 +261,6 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 ### **akṣara** (अक्षरम्)
 
 **Standard.** "The imperishable"; the syllabic sound-bond — a *svaraḥ* with any consonantal contacts that surround it. The stable acoustic unit; the audiograph's referent.
-
-**Engineering rendering**: *sonomeron* — a sonomeric cell. The book keeps *akṣara* primary because the Sanskrit term combines the technical and civilizational force.
 
 ### **mātrā** (मात्रा)
 

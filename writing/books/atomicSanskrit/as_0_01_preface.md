@@ -73,7 +73,7 @@ I loved numbers, and the *sandhi* rules looked like arithmetic. *a plus a makes 
 
 That correction was the first form in which Sanskrit's architecture reached me: not as ideology, not as abstraction, but as **calibration** in the mouth. One misplaced sound changed the meter. One small correction returned the line to order. A mother listening to a child recite had done what Sanskrit's **caretakers** do: hear the drift, correct it, and keep the sound-field aligned.
 
-That childhood question now opens the architectural claim. Sanskrit's free word order, *sandhi* rules, engineered meter, and formal grammar are part of the same calibrated order. The chapters that follow make that order visible across scale: वर्ण (*varṇa*), अक्षर (*akṣara*), धातुः (*dhātuḥ*), शब्द (*śabda*), वाक्य (*vākya*), सूत्र (*sūtra*), and language.
+That childhood question now opens the architectural claim. Sanskrit's free word order, *sandhi* rules, engineered meter, and formal grammar are part of the same calibrated order. The chapters that follow trace that order across scale: वर्ण (*varṇa*), अक्षर (*akṣara*), धातुः (*dhātuḥ*), शब्द (*śabda*), वाक्य (*vākya*), सूत्र (*sūtra*), and language.
 
 ## The Pyramid's Clock
 
@@ -87,7 +87,7 @@ The pyramid needs the unbounded forced into a finite clock. Once it owns the clo
 
 The pyramid uses chronology to commit category theft by turning Sanskrit's internal distinctions into a linear timeline: domain becomes period, mode becomes stage, and Pāṇini is recast as the codifier—the artificial hinge between alleged *"Vedic"* drift and the *"Classical"* codification myth. Although chronology can sequence evidence, it fundamentally cannot decide the structural category of Sanskrit.
 
-When Sanskrit's light shines again as calibrated architecture, the hunger for the pyramid's calendar may itself fade. The point is not to win a pointless date-contest. The point is to make the architecture visible so chronology becomes secondary.
+When Sanskrit's light shines again as calibrated architecture, the hunger for the pyramid's calendar may itself fade. The point is not to win a pointless date-contest. The point is to recover the architecture so chronology becomes secondary.
 
 ## Lineage and Method
 
@@ -95,7 +95,7 @@ Sanskrit reached the present through ***paramparā***: lineages that heard, anal
 
 Modern Indian advocates have maintained this position under active institutional pressure: Maharṣi Dayānanda Saraswatī, Sri Aurobindo, T. V. Kapali Sastry, Sampadananda Mishra, Pandit Madhusudan Ojha, Subhash Kak, Kapil Kapoor, Rajiv Malhotra, and others working in Sanskrit, English, and Indian languages I do not read.[NOTE: modern-sanskrit-lineage-roles]
 
-The chapters follow Sanskrit across scale: *varṇa* as sonomer, *akṣara* as audiograph, *dhātuḥ* as atom, *śabda* as molecule, *upasarga* and *pratyaya* as bonding chemistry, and sentence as assembly. The Vedas encode this architecture and preserve its forms in use. Pāṇini's *Aṣṭādhyāyī* provides its finest *sūtra*-level documentation, while the Vedic recitation systems keep the encoded form audible through mutually checking procedures.[NOTE: patanjali-siddhe-shabdarthasambandhe][NOTE: eleven-pathas]
+The chapters follow Sanskrit across scale: *varṇa* as sonomer, *akṣara* as a stable vowel-centered sound-unit, *dhātuḥ* as atom, *śabda* as molecule, *upasarga* and *pratyaya* as bonding chemistry, and sentence as assembly. An audiograph renders the *akṣara* as a visible form. The Vedas encode this architecture and preserve its forms in use. Pāṇini's *Aṣṭādhyāyī* provides its finest *sūtra*-level documentation, while the Vedic recitation systems keep the encoded form audible through mutually checking procedures.[NOTE: patanjali-siddhe-shabdarthasambandhe][NOTE: eleven-pathas]
 
 The origin of Sanskrit is not the primary domain here (though **अपौरुषेय (*apauruṣeya*)** remains the answer preserved by the lineage-chain, and Chapter 18 §18.7 offers an honest speculation for the rationalist mind that cannot accept it). The observable claim is much narrower: Sanskrit's engineering exists on the page and in the mouth. Because the Vedas preserve it and the decoding lineages unfold it, Pāṇini's unfolding is simply the finest document of that continuous work.
 

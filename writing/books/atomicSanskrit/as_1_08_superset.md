@@ -122,7 +122,7 @@ Elsewhere sound systems change. English vowels shifted drastically in the Great 
 
 The subcontinent shows something else: a wide region where retroflexion, the five broad mouth-stations, nasality, voicing, and breath remain structurally visible across many named languages. Surface details differ. The deeper pattern persists.
 
-The analysis needs continuity strong enough to make geography visible. The four figures below supply that. When the comparison stays inside the subcontinent, coverage is high. When it moves outside, coverage falls. The result is a physical regional pattern rather than a genealogical proof.
+The analysis needs enough continuity to establish a geographic pattern. The four figures below provide it. When the comparison stays inside the subcontinent, coverage is high. When it moves outside, coverage falls. The result is a physical regional pattern rather than a genealogical proof.
 
 ## 8.6 The Southern Survey: 20 of 23
 
@@ -197,7 +197,7 @@ The result is 12 of 23.
 
 This control is geographic rather than genealogical. Tajik, Kazakh, and Kyrgyz form a corridor test rather than one linguistic family. The racial Arya thesis and its softened migration vocabulary repeatedly point the reader toward Central Asia. So the chart tests a geographic question: does that corridor look like the source region for Sanskrit's base? The three corridor languages contain too little of that base to support the claim.
 
-The four coverage figures make the geographic contrast visible:
+The four coverage figures establish the geographic contrast:
 
 - Southern set: 20 of 23.
 - Forest-belt set: 18 of 23.

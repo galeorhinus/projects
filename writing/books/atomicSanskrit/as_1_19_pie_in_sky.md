@@ -207,7 +207,7 @@ The *mother* family applies the movement established in Chapter 12. Sanskrit pro
 
 ![Figure 19.7 — The Vivimorphosis of ⟪स्था⟫ (*sthā*). From engineered Sanskrit molecules to an organic tree in the receiving languages.](figures/pie_in_sky/stha_vivimorphosis.svg){#fig:ch19-stha-vivimorphosis width=100%}
 
-Figure 19.7 keeps the category boundary visible. The hexagons on the left are engineered Sanskrit molecules built from ⟪स्था⟫ (*sthā*). The tree begins only after those molecules enter receiving languages and take organic life there. Its trunk and branches belong to the receiving side; they do not depict Sanskrit's architecture.
+Figure 19.7 preserves the category boundary. The hexagons on the left are engineered Sanskrit molecules built from ⟪स्था⟫ (*sthā*). The tree begins only after those molecules enter receiving languages and take organic life there. Its trunk and branches belong to the receiving side; they do not depict Sanskrit's architecture.
 
 The same pattern appears in *devaḥ*:
 
@@ -254,7 +254,7 @@ The yoke family provides a compact demonstration:
 | English | ***yoke*** | **योक्** | yoke |
 | Sanskrit | **युज्, युग, युक्त, योग (*yuj, yuga, yukta, yoga*)** | original Devanagari | join, yoke, joined, union |
 
-The Sanskrit row contains the recorded atom **⟪युज्⟫ (*yuj*)** and a generated family whose internal relations remain visible. The Veda already uses **युञ्जन्ति (*yuñjanti*, "they yoke")** in Ṛgveda 1.6.1, **युगा (*yugā*, "the yokes")** in 10.101.3, and **युक्त (*yukta*, "yoked")** in 10.102.9. These forms display the closing **ज, ग,** and **क (*j, g,* and *k*)** within the same semantic family. The *varṇamālā* supplies the articulatory coordinates for comparing how the mouth produces those sounds and the grid addresses that show their relationships, while Sanskrit's specified vowel relation connects **उ (*u*)** with **ओ (*o*)** in **योग (*yoga*)**. Pāṇini later documents the Sanskrit operations; the Vedic forms show that he did not create them.[NOTE: yuj-bhr-radiance-method]
+The Sanskrit row contains the recorded atom **⟪युज्⟫ (*yuj*)** and a generated family whose internal relations can be traced. The Veda already uses **युञ्जन्ति (*yuñjanti*, "they yoke")** in Ṛgveda 1.6.1, **युगा (*yugā*, "the yokes")** in 10.101.3, and **युक्त (*yukta*, "yoked")** in 10.102.9. These forms display the closing **ज, ग,** and **क (*j, g,* and *k*)** within the same semantic family. The *varṇamālā* supplies the articulatory coordinates for comparing how the mouth produces those sounds and the grid addresses that show their relationships, while Sanskrit's specified vowel relation connects **उ (*u*)** with **ओ (*o*)** in **योग (*yoga*)**. Pāṇini later documents the Sanskrit operations; the Vedic forms show that he did not create them.[NOTE: yuj-bhr-radiance-method]
 
 The complete procedure first renders each receiving form approximately in Devanagari. It then maps consonants by **स्थान (*sthāna*)** and **प्रयत्न (*prayatna*)** before examining vowels and meanings separately. Pāṇini, Hemacandra, a *Prātiśākhya*, or another Indic source enters the analysis where its documentation applies. A single family demonstrates the procedure. Repeated families and plausible routes of contact establish the direction in which Sanskrit's radiance traveled. Appendix Part 1 provides the reusable research record and applies it to ⟪युज्⟫, ⟪भृ⟫, ⟪जन्⟫, and further atoms.
 
@@ -334,4 +334,4 @@ PIE is in the sky. PIE is imaginary. The architecture is on the ground.
 
 ***The handoff begins.***
 
-Once the imaginary ancestor is removed, life after PIE can become visible.
+Once the imaginary ancestor is removed, the actual relationships can be examined.

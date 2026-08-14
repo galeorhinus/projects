@@ -33,7 +33,7 @@ Sanskrit already contains a design specification for compact engineered form. Th
 
 A *sūtra* is deliberately composed. Its maker removes excess, protects clarity, and gives a short form enough structure to work in many settings. Those visible actions supply a design test for the smaller *dhātuḥ*. If the same six qualities recur in the semantic atom, the organizing principle has repeated across scale.
 
-The verse gives the six characteristics in its own order. Before applying them in engineering order, the chapter first makes the *dhātuḥ* visible as an assembled unit. The analysis can then test the six criteria at the atomic scale.
+The verse gives the six characteristics in its own order. Before applying them in engineering order, the chapter first examines how sonomers assemble into a *dhātuḥ*. The analysis can then test the six criteria at the atomic scale.
 
 ## 10.2 From Sonomers to Semantic Atoms
 
@@ -221,7 +221,7 @@ Each *dhātuḥ* already carries that core meaning. As it bonds with *upasargā�
 
 ![Figure 10.7 — Five compact *dhātavaḥ* generate families of related forms while retaining their core meanings.](figures/building_dhatuh/saravat_semantic_force_cards.svg){#fig:building-dhatuh-saravat-semantic-force width=100%}
 
-The first card follows **⟪कृ⟫ (*kṛ*)**, whose core meaning includes doing, making, and acting. That meaning remains visible in **करोति (*karoti*)**, someone does or makes; **कर्म (*karma*)**, the action or deed; **कर्तृ (*kartṛ*)**, the actor; **कार्य (*kārya*)**, what is to be done; and **संस्कार (*saṃskāra*)**, the act and result of refinement.
+The first card follows **⟪कृ⟫ (*kṛ*)**, whose core meaning includes doing, making, and acting. That meaning persists in **करोति (*karoti*)**, someone does or makes; **कर्म (*karma*)**, the action or deed; **कर्तृ (*kartṛ*)**, the actor; **कार्य (*kārya*)**, what is to be done; and **संस्कार (*saṃskāra*)**, the act and result of refinement.
 
 The other four cards show the same continuity. **⟪भू⟫ (*bhū*)** carries being and becoming into **भवति (*bhavati*), भूत (*bhūta*), भाव (*bhāva*),** and **सम्भव (*saṃbhava*)**. **⟪गम्⟫ (*gam*)** carries movement into going, travel, arrival, received teaching, and confluence. **⟪धा⟫ (*dhā*)** carries placing and establishing into **दधाति (*dadhāti*), धातु (*dhātu*), विधान (*vidhāna*),** and **निधान (*nidhāna*)**. **⟪ज्ञा⟫ (*jñā*)** carries knowing into knowledge, ignorance, differentiated knowledge, and insight.
 
@@ -247,7 +247,7 @@ Figure 10.7 establishes *sāravat* at the atomic scale, while *varṇa-śakti* c
 
 ### The Range of One Atom
 
-**⟪कृ⟫ (*kṛ*)** makes that range visible. It generates action in **करोति (*karoti*)**, a deed in **कर्म (*karma*)**, an actor in **कर्तृ (*kartṛ*)**, and what is to be done in **कार्यम् (*kāryam*)**. Further bonds produce refinement in **संस्कार (*saṃskāra*)**, nature in **प्रकृति (*prakṛti*)**, cultivated order in **संस्कृति (*saṃskṛti*)**, and distortion in **विकृति (*vikṛti*)**.
+**⟪कृ⟫ (*kṛ*)** demonstrates that range. It generates action in **करोति (*karoti*)**, a deed in **कर्म (*karma*)**, an actor in **कर्तृ (*kartṛ*)**, and what is to be done in **कार्यम् (*kāryam*)**. Further bonds produce refinement in **संस्कार (*saṃskāra*)**, nature in **प्रकृति (*prakṛti*)**, cultivated order in **संस्कृति (*saṃskṛti*)**, and distortion in **विकृति (*vikṛti*)**.
 
 The previous section followed the core meaning that continues through this family. *Viśvatomukham* identifies its breadth. The same compact atom can participate in action, agency, obligation, refinement, nature, culture, and deformation.
 
@@ -275,7 +275,7 @@ The *dhātuḥ* passes the fifth test. It is *viśvatomukham*: one compact atom 
 
 The final characteristic is stability. **अनवद्यम् (*anavadyam*)** means faultless or without defect. A Sanskrit atom must retain its identity while grammar uses it to construct larger forms. Its sound may change, and other grammatical parts may bond with it, but each operation must leave a traceable path back to the original *dhātuḥ*.
 
-Consider **⟪कृ⟫ (*kṛ*)**. Sanskrit carries this atom into *karoti*, *karma*, *kartṛ*, *kārya*, *saṃskāra*, *prakṛti*, and *vikṛti*. The atom **⟪भू⟫ (*bhū*)** appears in *bhavati*, *bhūta*, *bhāva*, and *saṃbhava*. The atom **⟪गम्⟫ (*gam*)** appears in *gacchati*, *gamana*, *gati*, *āgama*, and *saṅgama*. These finished forms do not all look identical to their atoms because Sanskrit applies sound changes, affixes, and other bonding operations while constructing them. Sanskrit accounts for those changes through defined operations, so the path from the atom to the finished form remains visible.
+Consider **⟪कृ⟫ (*kṛ*)**. Sanskrit carries this atom into *karoti*, *karma*, *kartṛ*, *kārya*, *saṃskāra*, *prakṛti*, and *vikṛti*. The atom **⟪भू⟫ (*bhū*)** appears in *bhavati*, *bhūta*, *bhāva*, and *saṃbhava*. The atom **⟪गम्⟫ (*gam*)** appears in *gacchati*, *gamana*, *gati*, *āgama*, and *saṅgama*. These finished forms do not all look identical to their atoms because Sanskrit applies sound changes, affixes, and other bonding operations while constructing them. Sanskrit accounts for those changes through defined operations, so the path from each atom to the finished form can be traced.
 
 This stability prepares the next stage of the book. Chapter 11 follows the steps through which Sanskrit turns a *dhātuḥ* into a ***क्रियापद (*kriyāpada*)***, a finished verb. During that construction, the grammar continues to act on particular sonomers inside the atom. It can change, add, or replace a sound because the internal construction of the *dhātuḥ* remains available to the language engine.
 
