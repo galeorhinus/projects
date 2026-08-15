@@ -14,6 +14,10 @@ digest_state.json
 # Cron output on amrut -- runtime log, not source.
 cron.log
 
+# HTML preview written by digest_send.py --dry-run -- embeds candid
+# annotation content, same privacy posture as dashboard.html.
+digest_preview.html
+
 # Generated dashboard embeds the same candid annotation content -- same
 # privacy posture as data/*.json, never committed. Published only as a
 # private Claude Artifact for personal triage.

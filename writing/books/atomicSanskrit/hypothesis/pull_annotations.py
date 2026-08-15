@@ -35,17 +35,24 @@ def clean_user(user_id: str) -> str:
     return m.group(1) if m else (user_id or "")
 
 
-def extract_quote(annotation: dict) -> str:
-    """The exact text the reader highlighted, if any (note-only
-    annotations with no selection have none)."""
+def extract_quote_context(annotation: dict) -> tuple[str, str, str]:
+    """(prefix, exact, suffix) -- the text the reader highlighted, plus
+    the surrounding sentence fragment Hypothesis already captures on
+    either side (its own anchoring context, typically ~30-40 chars each
+    way). Note-only annotations with no selection return ("", "", "")."""
     for target in annotation.get("target", []):
         for selector in target.get("selector", []):
             if selector.get("type") == "TextQuoteSelector":
-                return selector.get("exact", "")
-    return ""
+                return (
+                    selector.get("prefix", ""),
+                    selector.get("exact", ""),
+                    selector.get("suffix", ""),
+                )
+    return "", "", ""
 
 
 def normalize(annotation: dict, group_name: str) -> dict:
+    prefix, exact, suffix = extract_quote_context(annotation)
     return {
         "id": annotation.get("id"),
         "created": annotation.get("created"),
@@ -56,7 +63,9 @@ def normalize(annotation: dict, group_name: str) -> dict:
         "group_name": group_name,
         "tags": annotation.get("tags", []),
         "text": annotation.get("text", ""),
-        "quote": extract_quote(annotation),
+        "quote": exact,
+        "quote_prefix": prefix,
+        "quote_suffix": suffix,
         "uri": annotation.get("uri", ""),
         "document_title": (annotation.get("document", {}).get("title") or [""])[0],
         "is_reply": bool(annotation.get("references")),
