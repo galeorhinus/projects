@@ -463,6 +463,13 @@ class Segment:
     text: str
     font_path: str  # the outline font to use — empty string means "leave live"
     live_font_family: str  # the font-family to render live, if not outlined
+    font_size: float  # this segment's own size — a tspan's font-size="" override
+    # wins over its parent <text>'s; every construction site must pass one
+    # explicitly rather than falling back to a module-level default, so a
+    # missing value fails loudly instead of silently baking the wrong size
+    # (confirmed real 2026-08-15: a tspan's font-size="28" override was
+    # dropped in favor of its parent <text>'s font-size="38" because
+    # nothing on this class carried a per-segment size at all).
     font_style: str = "normal"  # carried through to live <text> for italics
     extra_dx: float = 0.0  # a tspan's own dx="" — manual kerning, not a space char
     face_index: int = 0  # sub-font index, for TTC collections like Charter.ttc
@@ -472,17 +479,16 @@ def _render_segments(
     segments: list[Segment],
     x: float,
     y: float,
-    font_size: float,
     *,
     fill: str,
     text_anchor: str,
     dominant_baseline: str,
     extra_attrs: str = "",
 ) -> str:
-    """Shared placement core: measure every segment (outlining Devanagari
-    ones against their own font, measuring live ones against the universal
-    coverage font), then walk them left-to-right applying text-anchor once
-    across the whole combined width."""
+    """Shared placement core: measure every segment at its own font_size
+    (outlining Devanagari ones against their own font, measuring live ones
+    against the universal coverage font), then walk them left-to-right
+    applying text-anchor once across the whole combined width."""
     segments = [s for s in segments if s.text]
     if not segments:
         return ""
@@ -491,7 +497,7 @@ def _render_segments(
     for seg in segments:
         fp = seg.font_path if seg.font_path else _MEASURE_FONT_PATH
         fi = seg.face_index if seg.font_path else 0
-        widths_px.append(seg.extra_dx + _run_advance_px(seg.text, fp, font_size, fi))
+        widths_px.append(seg.extra_dx + _run_advance_px(seg.text, fp, seg.font_size, fi))
     total_width_px = sum(widths_px)
 
     if text_anchor == "middle":
@@ -513,7 +519,7 @@ def _render_segments(
                 baseline_shift_units = (res.ascender + res.descender) / 2.0
             pieces.append(
                 _outline_run(
-                    seg.text, cursor_px, y, font_size, fill, seg.font_path,
+                    seg.text, cursor_px, y, seg.font_size, fill, seg.font_path,
                     baseline_shift_units, seg.face_index,
                 )
             )
@@ -521,7 +527,7 @@ def _render_segments(
             style_attr = f' font-style="{seg.font_style}"' if seg.font_style != "normal" else ""
             pieces.append(
                 f'<text x="{cursor_px:.2f}" y="{y:.2f}" font-family="{seg.live_font_family}" '
-                f'font-size="{font_size:.2f}" fill="{fill}" dominant-baseline="{dominant_baseline}"'
+                f'font-size="{seg.font_size:.2f}" fill="{fill}" dominant-baseline="{dominant_baseline}"'
                 f'{style_attr} xml:space="preserve">{seg.text}</text>'
             )
         cursor_px += width_px
@@ -562,13 +568,13 @@ def outlined_text_svg(
         if not run_text:
             continue
         if is_deva:
-            segments.append(Segment(run_text, font_path, live_font_family))
+            segments.append(Segment(run_text, font_path, live_font_family, font_size))
         elif force_latin:
-            segments.append(Segment(run_text, latin_font_path, live_font_family, face_index=latin_face_index))
+            segments.append(Segment(run_text, latin_font_path, live_font_family, font_size, face_index=latin_face_index))
         else:
-            segments.append(Segment(run_text, "", live_font_family))
+            segments.append(Segment(run_text, "", live_font_family, font_size))
     return _render_segments(
-        segments, x, y, font_size,
+        segments, x, y,
         fill=fill, text_anchor=text_anchor, dominant_baseline=dominant_baseline,
         extra_attrs=extra_attrs,
     )
@@ -624,7 +630,7 @@ def _segments_from_text_element(base_attrs: dict[str, str], inner: str) -> list[
     Devanagari/non-Devanagari runs, same as the plain-string case."""
     segments: list[Segment] = []
 
-    def add_node(text: str, weight: str, style: str, family: str, dx: float = 0.0) -> None:
+    def add_node(text: str, weight: str, style: str, family: str, size: float, dx: float = 0.0) -> None:
         deva_font_path = resolve_font_path(weight, style)
         outline_latin_too = contains_risky_latin_font(family)
         latin_font_path, latin_face_index = (
@@ -645,6 +651,7 @@ def _segments_from_text_element(base_attrs: dict[str, str], inner: str) -> list[
                     run_text,
                     fp,
                     family,
+                    size,
                     font_style=style if style else "normal",
                     extra_dx=dx if first else 0.0,
                     face_index=fi,
@@ -655,6 +662,7 @@ def _segments_from_text_element(base_attrs: dict[str, str], inner: str) -> list[
     base_weight = base_attrs.get("font-weight", "")
     base_style = base_attrs.get("font-style", "")
     base_family = base_attrs.get("font-family", "sans-serif")
+    base_size = float(base_attrs.get("font-size", 16))
 
     pos = 0
     for m in _TSPAN_RE.finditer(inner):
@@ -663,23 +671,29 @@ def _segments_from_text_element(base_attrs: dict[str, str], inner: str) -> list[
         # and must not be dropped just because .strip() would empty it.
         leading = inner[pos:m.start()]
         if leading:
-            add_node(leading, base_weight, base_style, base_family)
+            add_node(leading, base_weight, base_style, base_family, base_size)
         tspan_attrs = _parse_attrs(m.group("attrs"))
         # A tspan's own dx="" is manual kerning (no space character in the
         # source), e.g. `<tspan ... dx="10">sparśa</tspan>` right after a
         # Devanagari word — without it, the two runs visually collide.
         dx = float(tspan_attrs.get("dx", 0) or 0)
+        # A tspan's own font-size="" override — e.g. a smaller status word
+        # appended after a larger akṣara in the same cell — must win over
+        # the parent <text>'s size; falling back to it silently (as this
+        # used to) bakes the wrong size with no warning.
+        size = float(tspan_attrs.get("font-size", base_size) or base_size)
         add_node(
             m.group("content"),
             tspan_attrs.get("font-weight", base_weight),
             tspan_attrs.get("font-style", base_style),
             tspan_attrs.get("font-family", base_family),
+            size,
             dx=dx,
         )
         pos = m.end()
     trailing = inner[pos:]
     if trailing:
-        add_node(trailing, base_weight, base_style, base_family)
+        add_node(trailing, base_weight, base_style, base_family, base_size)
 
     return segments
 
@@ -729,9 +743,10 @@ def _outline_multiline_text_element(attrs: dict[str, str], inner: str) -> str | 
         line_attrs["font-weight"] = tspan_attrs.get("font-weight", attrs.get("font-weight", ""))
         line_attrs["font-style"] = tspan_attrs.get("font-style", attrs.get("font-style", ""))
         line_attrs["font-family"] = tspan_attrs.get("font-family", attrs.get("font-family", "sans-serif"))
+        line_attrs["font-size"] = tspan_attrs.get("font-size", attrs.get("font-size", str(font_size)))
         segments = _segments_from_text_element(line_attrs, m.group("content"))
         rendered = _render_segments(
-            segments, line_x, y_cursor, font_size,
+            segments, line_x, y_cursor,
             fill=fill, text_anchor=text_anchor, dominant_baseline=dominant_baseline,
         )
         if rendered:
@@ -914,7 +929,6 @@ def outline_devanagari_in_svg(svg_content: str) -> tuple[str, int, list[str]]:
             segments,
             float(attrs.get("x", 0)),
             float(attrs.get("y", 0)),
-            float(attrs.get("font-size", 16)),
             fill=attrs.get("fill", "#000000"),
             text_anchor=attrs.get("text-anchor", "start"),
             dominant_baseline=attrs.get("dominant-baseline", "auto"),
