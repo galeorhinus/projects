@@ -134,6 +134,29 @@ def contains_devanagari(text: str) -> bool:
     return bool(DEVANAGARI_RE.search(text))
 
 
+# Live text can carry an arrow or similar symbol under a Devanagari-named
+# font-family (e.g. '⟫ →' set in 'Noto Serif Devanagari','Adobe
+# Devanagari',serif so it sits flush against an adjacent Devanagari atom
+# bracket) without containing any actual Devanagari codepoints and without
+# matching RISKY_LATIN_FONT_MARKER -- neither existing trigger catches it,
+# so it stays live and inherits whatever glyph each machine's fontconfig
+# resolution happens to pick for that font stack. Confirmed real
+# 2026-08-15 on gana_mechanisms_activation.svg: the same "⟫ →" text
+# rendered a correct arrowhead locally (Noto Serif Devanagari isn't
+# installed on this Mac, so Adobe Devanagari renders it) but a bare dash
+# with no head on amrut (which has both fonts, and Noto Serif Devanagari
+# -- listed first in the stack -- has an inadequate glyph for it). A
+# character in this set forces outlining regardless of font-family or
+# script content, so the correct fallback-font-baked glyph (see
+# _split_by_font_coverage) is what ships, independent of either
+# machine's live font resolution.
+_RISKY_SYMBOL_CHARS = "→↔⟶"
+
+
+def contains_risky_symbol(text: str) -> bool:
+    return any(ch in _RISKY_SYMBOL_CHARS for ch in text)
+
+
 @dataclass
 class _FontResources:
     ttfont: TTFont
@@ -176,6 +199,51 @@ def _shape(text: str, font_path: str, face_index: int = 0) -> tuple[list, list, 
     return buf.glyph_infos, buf.glyph_positions, res
 
 
+# Charter.ttc has no glyph at all for → and a handful of other symbols
+# routinely used as the book's own notation (transformation arrows in
+# derivation chains, etc.) -- HarfBuzz reports glyph 0 (.notdef) for
+# them, which fontTools draws as a literal box, baked permanently into
+# the outlined <path>. Confirmed real 2026-08-15 on
+# figures/building_kriya/gana_mechanisms_activation.svg: every 'pac →
+# pacati'-style arrow in the IAST derivation column outlined as a solid
+# tofu box. Apple Symbols.ttf carries broad arrow/math-symbol coverage
+# and only needs to be present on this authoring machine at bake time --
+# outlining runs once, locally, and produces static vector paths that
+# render identically everywhere afterward, so the fallback font itself
+# never needs to ship or be installed on amrut.
+_FALLBACK_SYMBOL_FONT_PATH = "/System/Library/Fonts/Apple Symbols.ttf"
+
+
+def _has_glyph(ch: str, font_path: str, face_index: int = 0) -> bool:
+    res = _load_font(font_path, face_index)
+    return ord(ch) in res.ttfont.getBestCmap()
+
+
+def _split_by_font_coverage(
+    text: str, font_path: str, face_index: int = 0
+) -> list[tuple[str, bool]]:
+    """Split into maximal runs of (substring, needs_fallback) -- mirrors
+    _split_runs' Devanagari/Latin split, one layer further in: within a
+    single Latin run, some characters (arrows, math symbols) aren't in
+    the primary font at all. Charter has a space glyph, so plain spaces
+    stay in whichever run they fall between rather than forcing a split."""
+    if not text:
+        return []
+    runs: list[tuple[str, bool]] = []
+    cur = text[0]
+    cur_fallback = not _has_glyph(text[0], font_path, face_index)
+    for ch in text[1:]:
+        needs_fallback = not _has_glyph(ch, font_path, face_index)
+        if needs_fallback == cur_fallback:
+            cur += ch
+        else:
+            runs.append((cur, cur_fallback))
+            cur = ch
+            cur_fallback = needs_fallback
+    runs.append((cur, cur_fallback))
+    return runs
+
+
 def _glyph_path_d(glyph_name: str, glyph_set, scale: float) -> str:
     pen = SVGPathPen(glyph_set)
     glyph_set[glyph_name].draw(pen)
@@ -188,10 +256,18 @@ def _glyph_path_d(glyph_name: str, glyph_set, scale: float) -> str:
 
 
 def _run_advance_px(text: str, font_path: str, font_size: float, face_index: int = 0) -> float:
-    """Total shaped advance of `text` in this font, in pixels at font_size."""
-    _, positions, res = _shape(text, font_path, face_index)
-    scale = font_size / res.units_per_em
-    return sum(p.x_advance for p in positions) * scale
+    """Total shaped advance of `text` in this font, in pixels at font_size.
+    Re-splits by font coverage (see _split_by_font_coverage) so a
+    character the primary font lacks measures against the fallback
+    font's own advance instead of silently contributing zero width."""
+    total_px = 0.0
+    for sub_text, use_fallback in _split_by_font_coverage(text, font_path, face_index):
+        sub_font_path = _FALLBACK_SYMBOL_FONT_PATH if use_fallback else font_path
+        sub_face_index = 0 if use_fallback else face_index
+        _, positions, res = _shape(sub_text, sub_font_path, sub_face_index)
+        scale = font_size / res.units_per_em
+        total_px += sum(p.x_advance for p in positions) * scale
+    return total_px
 
 
 def _outline_run(
@@ -205,33 +281,51 @@ def _outline_run(
     face_index: int = 0,
 ) -> str:
     """Outline one same-script run, placed with its first glyph's pen
-    origin at `start_x_px` (already resolved — no anchor math in here)."""
-    infos, positions, res = _shape(text, font_path, face_index)
-    scale = font_size / res.units_per_em
+    origin at `start_x_px` (already resolved — no anchor math in here).
 
-    cursor_x = 0.0
-    cursor_y = 0.0
-    placements = []
-    order = res.ttfont.getGlyphOrder()
-    for info, pos in zip(infos, positions):
-        glyph_name = order[info.codepoint]
-        placements.append((glyph_name, cursor_x + pos.x_offset, cursor_y + pos.y_offset))
-        cursor_x += pos.x_advance
-        cursor_y += pos.y_advance
+    Internally re-splits by font coverage: a character missing from
+    `font_path` (an arrow, a math symbol -- Charter.ttc has neither)
+    routes through _FALLBACK_SYMBOL_FONT_PATH instead of baking that
+    font's .notdef glyph, which fontTools draws as a solid box with no
+    possible recovery once it's permanent path geometry. Each sub-run
+    is shaped and scaled against its own font's metrics, then placed in
+    a shared pixel-space cursor so mixed-font runs still line up.
+    baseline_shift_units is in the *primary* font's units (that's the
+    font its caller measured ascender/descender from for a middle-
+    baseline segment) and is converted to pixels once, up front, so it
+    applies uniformly regardless of which font placed a given glyph."""
+    primary_res = _load_font(font_path, face_index)
+    baseline_shift_px = baseline_shift_units * (font_size / primary_res.units_per_em)
 
     paths = []
-    for glyph_name, gx, gy in placements:
-        d = _glyph_path_d(glyph_name, res.glyph_set, scale)
-        if not d:
-            continue
-        px = start_x_px + gx * scale
-        # Font space is Y-up; SVG is Y-down, and glyph outlines are drawn
-        # with the origin at the glyph's own baseline, so flip the scale's
-        # sign for Y and shift by the (already-flipped) baseline offset.
-        py = y - (gy - baseline_shift_units) * scale
-        paths.append(
-            f'<path transform="translate({px:.2f},{py:.2f}) scale({scale:.6f},{-scale:.6f})" d="{d}"/>'
-        )
+    cursor_px = 0.0
+    for sub_text, use_fallback in _split_by_font_coverage(text, font_path, face_index):
+        sub_font_path = _FALLBACK_SYMBOL_FONT_PATH if use_fallback else font_path
+        sub_face_index = 0 if use_fallback else face_index
+        infos, positions, res = _shape(sub_text, sub_font_path, sub_face_index)
+        scale = font_size / res.units_per_em
+
+        run_cursor_x = 0.0
+        run_cursor_y = 0.0
+        order = res.ttfont.getGlyphOrder()
+        for info, pos in zip(infos, positions):
+            glyph_name = order[info.codepoint]
+            gx = run_cursor_x + pos.x_offset
+            gy = run_cursor_y + pos.y_offset
+            d = _glyph_path_d(glyph_name, res.glyph_set, scale)
+            if d:
+                px = start_x_px + cursor_px + gx * scale
+                # Font space is Y-up; SVG is Y-down, and glyph outlines
+                # are drawn with the origin at the glyph's own baseline,
+                # so flip the scale's sign for Y and shift by the
+                # already-pixel-converted baseline offset.
+                py = y - gy * scale + baseline_shift_px
+                paths.append(
+                    f'<path transform="translate({px:.2f},{py:.2f}) scale({scale:.6f},{-scale:.6f})" d="{d}"/>'
+                )
+            run_cursor_x += pos.x_advance
+            run_cursor_y += pos.y_advance
+        cursor_px += run_cursor_x * scale
     return "".join(paths)
 
 
@@ -655,7 +749,7 @@ def _segments_from_text_element(base_attrs: dict[str, str], inner: str) -> list[
 
     def add_node(text: str, weight: str, style: str, family: str, size: float, dx: float = 0.0) -> None:
         deva_font_path = resolve_font_path(weight, style)
-        outline_latin_too = contains_risky_latin_font(family)
+        outline_latin_too = contains_risky_latin_font(family) or contains_risky_symbol(text)
         latin_font_path, latin_face_index = (
             resolve_latin_font(weight, style) if outline_latin_too else ("", 0)
         )
@@ -868,7 +962,7 @@ def outline_devanagari_in_svg(svg_content: str) -> tuple[str, int, list[str]]:
         attrs = _parse_attrs(m.group("attrs"))
         tp_attrs = _parse_attrs(m.group("tp_attrs"))
         live_font_family = attrs.get("font-family", "sans-serif")
-        risky_latin = contains_risky_latin_font(live_font_family)
+        risky_latin = contains_risky_latin_font(live_font_family) or contains_risky_symbol(content)
         has_deva = contains_devanagari(content)
         if not has_deva and not risky_latin:
             return whole
@@ -926,7 +1020,11 @@ def outline_devanagari_in_svg(svg_content: str) -> tuple[str, int, list[str]]:
     def replace_with_tspans(m: re.Match) -> str:
         nonlocal count
         whole = m.group(0)
-        if not contains_devanagari(m.group("inner")) and not contains_risky_latin_font(whole):
+        if (
+            not contains_devanagari(m.group("inner"))
+            and not contains_risky_latin_font(whole)
+            and not contains_risky_symbol(m.group("inner"))
+        ):
             return whole
         # Multi-line paragraphs use `dy` on each new-line tspan (plus a
         # reset `x`) to wrap text — a structurally different layout than
@@ -965,7 +1063,7 @@ def outline_devanagari_in_svg(svg_content: str) -> tuple[str, int, list[str]]:
         attrs = _parse_attrs(m.group("attrs"))
         content = m.group("content")
         live_font_family = attrs.get("font-family", "sans-serif")
-        risky_latin = contains_risky_latin_font(live_font_family)
+        risky_latin = contains_risky_latin_font(live_font_family) or contains_risky_symbol(content)
         if not contains_devanagari(content) and not risky_latin:
             return m.group(0)
 
