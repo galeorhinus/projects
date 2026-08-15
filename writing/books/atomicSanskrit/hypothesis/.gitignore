@@ -1,0 +1,17 @@
+# API tokens and passwords are secrets -- never committed.
+token.txt
+anthropic_token.txt
+smtp_app_password.txt
+
+# Pulled annotation content is readers' private/candid feedback -- never
+# committed, same privacy posture as server/'s invite_status.json.
+data/*.json
+data/*.sqlite3
+
+# Digest-email state (last-seen annotation IDs) -- runtime state, not source.
+digest_state.json
+
+# Generated dashboard embeds the same candid annotation content -- same
+# privacy posture as data/*.json, never committed. Published only as a
+# private Claude Artifact for personal triage.
+dashboard.html

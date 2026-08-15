@@ -1,0 +1,15 @@
+{
+  "_comment": "Canonical tag vocabulary for reader annotations on Atomic Sanskrit. Hypothesis has no group-level controlled vocabulary -- this list is published to readers as a convention (see README.md) and enforced retroactively/going-forward by auto_tagger.py, which reads this same file. Edit freely; the tagger picks up changes on its next run. Keep tag names short, lowercase, hyphenated -- they're used as literal Hypothesis tags.",
+
+  "tags": {
+    "typo": "Spelling, grammar, or punctuation error.",
+    "factual": "A factual or citation-accuracy concern -- something the reader believes may be wrong.",
+    "unclear": "The passage is confusing or hard to follow as written.",
+    "structural": "Feedback about organization, ordering, or flow -- not the sentence-level wording.",
+    "citation-needed": "A claim that reads as needing a source, reference, or endnote.",
+    "translation": "A concern about Sanskrit, Devanagari, or IAST transliteration specifically.",
+    "question": "A genuine question from the reader, not necessarily flagging an error.",
+    "suggestion": "A proposed rewording or concrete improvement.",
+    "praise": "Positive feedback -- something the reader wants to flag as working well."
+  }
+}
