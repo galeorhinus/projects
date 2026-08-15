@@ -48,7 +48,7 @@ The glossary is organized in three groups:
 
 **Standard English, book-repurposed.** *Sonance* means a sound or the act of sounding. This book uses it for a consonantal sound selected into Sanskrit's architecture. A sonance may receive an independent address and become a sonomer. It may instead remain outside the grid and appear only under a stated condition or within a named Vedic lineage. The human mouth can produce many other sounds, but Sanskrit does not treat them as sonances unless its architecture assigns them a role.
 
-**Use in book**: Chapter 9 distinguishes all Sanskrit sonances from the sonomers selected for independent reuse. Chapter 16 applies that distinction across the *vaidika* and *laukika* domains.
+**Use in book**: Chapter 8 introduces sonances and distinguishes them from sonomers selected for independent reuse. Chapter 9 tests that selection against the complete consonantal grid. Chapter 16 applies the distinction across the *vaidika* and *laukika* domains.
 
 ### **off-grid sonance**
 

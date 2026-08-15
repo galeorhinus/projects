@@ -1,9 +1,8 @@
 # Figure 8.6 — The Gaps Are Neighbors
 
-**Where it lives:** Chapter 8 §8.9 ("Snap to Grid"), the closing reveal
-of the southern subcontinent coverage discussion. §§8.6–8.8 ran the
-three coverage surveys (southern, forest-belt, Indo-Iranian / Central
-Asian) against Sanskrit's 23-cell base. §8.9 lands the structural
+**Where it lives:** Chapter 8 §8.5 ("The Gaps Are Neighbors"), after
+§8.4 runs the southern, forest-belt, European, and Central Asian
+comparisons against Sanskrit's 23-cell base. §8.5 explains the structural
 point those surveys reveal: the *gaps* — the southern field's missing
 ल, स, श coordinates — are not failures. They are the moments where
 Sanskrit takes a continuous neighboring zone and *snaps* it to a

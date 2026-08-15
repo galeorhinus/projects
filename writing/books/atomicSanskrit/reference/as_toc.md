@@ -103,12 +103,12 @@
 - 7.7 Categories of Sound
 - 7.8 *Sthāna*, *Prayatna*, and *Mātrā*
 
-**Chapter 8 — The Subcontinental Sound-Field**
+**Chapter 8 — The Sounds of the Indian Subcontinent**
 - 8.1 The Sounds Already Here
-- 8.2 A Sound Is Not Always a Slot
+- 8.2 Sonances and Sonomers
 - 8.3 How We Map the Sounds
-- 8.4 A Note on *Draviḍa* and Dravidian
-- 8.5 The Regional Pattern Persists
+- 8.4 Why the Survey Begins in the South
+- 8.5 The Regional Pattern
 - 8.6 The Southern Survey: 20 of 23
 - 8.7 The Forest-Belt Survey: 18 of 23
 - 8.8 External Controls
@@ -313,7 +313,7 @@
   - 3.9 The Sonomer Travels East
   - 3.10 The Foundational Claim on Writing
   - 3.11 The Work Ahead
-- **Appendix Part 4 — The Subcontinental Sound-Field: Inventory Atlas and Control Surveys**
+- **Appendix Part 4 — The Consonant Inventory Atlas and Control Surveys**
   - 4.1 The Atlas Method in Depth
   - 4.2 Santali-Inclusive Munda Control: 18 of 23
   - 4.3 Santali-Free Mixed Control: 18 of 23

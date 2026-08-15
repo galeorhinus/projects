@@ -2747,6 +2747,28 @@ Standard references: Gunnar Fant, *Acoustic Theory of Speech Production* (Mouton
 
 ---
 
+### `sanskrit-allophone-architecture-comparison`
+
+**Short:** Other languages and recitation traditions document contextual sound changes. Sanskrit goes further: it joins an anatomical consonant grid, reusable sonomers, Restricted and Lineage-Bounded sonances, sound-junction rules, word formation, and exact Vedic recitation within one architecture.
+
+**Deployments:** Chapter 8 §8.2 — support for the comparison between allophones in other languages and Sanskrit's sonance–sonomer architecture.
+
+Every spoken language produces contextual sound variation. Its speakers regularly pronounce one consonant differently because of its position or neighboring sounds. What distinguishes Sanskrit is the architecture through which it classifies and controls those variations.
+
+**Tamil provides the closest grammatical comparison.** The *Tolkāppiyam* describes how Tamil sounds are produced and how their position and neighbors alter them. Tamil stops can acquire voiced or unvoiced forms without those forms becoming separate reusable consonants. Its grammar therefore records contextual sound variation directly. It does not combine that analysis with a separate invariant Vedic corpus, a lineage-bounded sound inventory, or a complete distinction between reusable and off-grid sounds.
+
+**Masoretic Hebrew provides a close recitational comparison.** The Tiberian reading tradition preserved contextual stop and fricative forms among the *begadkefat* letters. Points and other signs guided the received pronunciation of a bounded corpus. The system does not provide a Sanskrit-style anatomical grid or extend the same hierarchy into unrestricted word formation.
+
+**Arabic *tajwīd* provides another recitational comparison.** Its rules state what happens when sounds meet during Quranic recitation. Operations such as *idghām* and *ikhfāʾ* identify the neighboring letters that trigger assimilation or concealment. These rules preserve the recitation of a bounded text, while the wider grammar and reusable consonant inventory remain separate systems.
+
+**Korean provides a modern regulatory comparison.** Hangul reflects articulatory relationships, and official pronunciation rules specify contextual changes such as assimilation and positional forms. Those rules regulate standard pronunciation. They do not divide the selected sounds into reusable sonomers, Restricted sonances, and sounds bounded to an invariant corpus.
+
+Sanskrit combines all of these operations. The *varṇamālā* assigns reusable sonomers exact addresses through ***स्थान (*sthāna*)*** and ***प्रयत्न (*prayatna*)***. The *Prātiśākhya* and *Śikṣā* disciplines preserve additional Vedic sonances. Sound-junction rules state which neighboring sounds generate Restricted forms. The *vaidika* and *laukika* domains determine where each sound may be used. Sanskrit assigns every selected consonantal sound an architectural status and carries that status through anatomy, grammar, new composition, and exact preservation.
+
+Sources: A. Govindankutty, [“Tolkaappiyam and Phonetics”](https://brill.com/view/journals/iij/10/4/article-p251_2.pdf), *Indo-Iranian Journal* 10.4 (1968), pp. 251–274; Geoffrey Khan, [*The Tiberian Pronunciation Tradition of Biblical Hebrew*](https://www.openbookpublishers.com/books/10.11647/OBP.0163) (Open Book Publishers, 2020); “Phonetically Motivated and Phonetically Unmotivated Assimilation in Quran Tajweed Rules,” [*Journal of Philosophy, Culture and Religion*](https://iiste.org/Journals/index.php/JPCR/article/view/29201); National Institute of Korean Language, [*Regulations of Standard Korean*](https://www.korean.go.kr/kornorms/m/m_regltn.do?regltn_code=0003); Peter Scharf and Malcolm Hyman, [*Linguistic Issues in Encoding Sanskrit*](https://www.sanskritlibrary.org/Sanskrit/pub/lies_sl.pdf); the [*Ṛgveda-Prātiśākhya*](https://vishvasa.github.io/sanskrit/shixA/granthAH/Rg-vedaH/prAtishAkhyam/); and the [*Taittirīya-Prātiśākhya*](https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvs/tp/tpt.htm). See also endnotes `pass-sound-grid-selection` and `rgvedic-l-retroflex-lateral`.
+
+---
+
 ### `language-hotzones-inventory-method`
 
 **Short:** Figure 7.2 maps four published consonant inventories — English, Arabic, Mandarin, and Zulu — onto a shared lips-to-glottis place axis, then collapses the consonants at each place into proportional hotzone clouds. The chart shows inventory selection, not usage frequency.
@@ -2767,7 +2789,7 @@ The Chapter 8 body surveys and the Appendix Part 4 control surveys extend the sa
 
 **Short:** Chapter 8's four coverage-survey figures compare Sanskrit's 23-cell consonantal base against selected three-language sets. The ten *mahāprāṇa* stop cells are set aside for the comparison, leaving the unaspirated stops, voiced unaspirated stops, nasals, *antaḥstha* sounds, and *ūṣman* sounds as the base target. A Sanskrit cell is counted as covered when at least one of the three comparison languages lights the same place × manner grid address.
 
-**Deployments:** Chapter 8 §8.3–§8.12 and Figures 8.2–8.5 — the citation anchor for the Southern Survey, Forest-Belt Survey, Western IE Control, and Central Asian Control. Chapter 9 §9.3 — the citation anchor for the Chapter 8 coverage numbers. Appendix Part 4 §4.1 and §§4.2–4.8 — the citation anchor for the seven appendix control surveys.
+**Deployments:** Chapter 8 §§8.3–8.8 and Figures 8.2–8.5 — the citation anchor for the Southern Survey, Forest-Belt Survey, European Comparison, and Central Asian Comparison. Chapter 9 §9.3 — the citation anchor for the Chapter 8 coverage numbers. Appendix Part 4 §4.1 and §§4.2–4.8 — the citation anchor for the seven appendix control surveys.
 
 The figures are generated from the book's vocal-tract inventory atlas. Each survey keeps Sanskrit constant as the 23-cell base after temporarily removing the ten heavy-breath stop cells: ख छ ठ थ फ and घ झ ढ ध भ. The remaining base cells are: क च ट त प; ग ज ड द ब; ङ ञ ण न म; य र ल व; श ष स ह. The comparison measures how many of those 23 Sanskrit grid addresses are covered by the union of three selected languages.
 
@@ -3032,7 +3054,7 @@ Standard references: the *Prātiśākhya* texts in their standard editions. *Ṛ
 
 **Short:** ***Anusvāra*** (अनुस्वार) closes the mouth, opens the velum, continues voicing into nasal resonance — the inward-and-upward breath-gesture (*kumbhaka* (कुम्भक) in Mishra's *prāṇāyāma* account); ***visarga*** (विसर्ग) opens the glottis, ceases voicing, exhales a soft aspiration preserving the preceding vowel's formant color — the outward breath-gesture (*recaka* (रेचक)); the two are inverse and together exhaust the standard syllable-terminal breath options.
 
-**Deployments:** Chapter 8 §8.11 and Chapter 9 §9.2 — the citation anchor for the articulatory specification of *anusvāra* and *visarga* as breath gestures at the close of a vowel.
+**Deployments:** Chapter 8 §8.7 and Chapter 9 §9.2 — the citation anchor for the articulatory specification of *anusvāra* and *visarga* as breath gestures at the close of a vowel.
 
 The articulatory specification of ***anusvāra*** and ***visarga*** is documented across the *Prātiśākhya* and *Śikṣā* literature. The two breath-gestures specify distinct mechanical operations at the close of a vowel:
 
@@ -3950,7 +3972,7 @@ Standard references: Kamil Zvelebil, *The Smile of Murugan* (Brill, 1973); Bhadr
 
 **Short:** Languages of the central-eastern forest belt, including Ho and Mundari, use glottal closure as a *checked-consonant* distinction; Ho *daʔ* "water," for example, ends in a closure absent from *da*. The *varṇamālā* gives no independent grid address to a glottal stop, once again showing that Sanskrit's selected inventory is narrower than the articulations used across the subcontinental population.
 
-**Deployments:** Chapter 8 §8.7 and Chapter 9 §9.11 — the citation anchor for the glottal-stop / checked-consonant phonological feature of Ho, Mundari, and the related languages of the central-eastern forest belt.
+**Deployments:** Chapter 8 §8.4 and Chapter 9 §9.11 — the citation anchor for the glottal-stop / checked-consonant phonological feature of Ho, Mundari, and the related languages of the central-eastern forest belt.
 
 The languages of the central-eastern forest belt — Ho, Mundari, Santali, Korku, Sora, and the related languages spoken across the Chotanagpur plateau, the surrounding regions of Jharkhand, Odisha, Bihar, West Bengal, and the central-eastern forest zones — use phonemic glottal stops as distinctive phonological features. The glottal-stop phenomenon in these languages is documented in the linguistic descriptions as ***checked consonants*** — word-final or syllable-final glottal closures that distinguish minimal pairs.
 
@@ -4052,7 +4074,7 @@ Standard references: M. R. Sharma, *Garhwali Phonology* (in *Journal of Linguist
 
 **Short:** The retroflex consonant series — tongue tip curled back to contact the rear hard palate — is *near-universal throughout the subcontinental sound-field* (across every named language from Tamil through Sindhi through Santali) and *rare-to-absent outside it* (Iranian, European, Levantine Semitic, East Asian, Central Asian, African, and Indigenous American languages all lack an independent recurring retroflex series; some Australian indigenous languages and Mandarin's post-alveolar approximation are the principal non-subcontinental cases). The subcontinental concentration is itself the evidence the retroflex series belongs to the region's deep sound-pattern, not a peripheral substrate-acquired or contact-induced layer.
 
-**Deployments:** Chapter 8 §8.10 and Chapter 9 §9.3 — the citation anchor for the global-cross-linguistic distribution analysis of the retroflex consonant series.
+**Deployments:** Chapter 8 §8.6 and Chapter 9 §9.3 — the citation anchor for the global-cross-linguistic distribution analysis of the retroflex consonant series.
 
 The retroflex consonant series — produced with the tongue tip curled back to contact the rear of the hard palate — is *near-universal throughout the subcontinental sound-field* and *rare-to-absent outside it*. The cross-linguistic distribution:
 

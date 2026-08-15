@@ -255,7 +255,7 @@ The descriptive science chapter. The chapter opens with Oṃ as a single-syllabl
 
 ---
 
-## Chapter 8 — The Subcontinental Sound-Field
+## Chapter 8 — The Sounds of the Indian Subcontinent
 
 The survey chapter between the vocal instrument and the Sanskrit grid. It asks what the subcontinent already does with the vocal apparatus Chapter 7 mapped. The key distinction is between a sound the mouth can produce and a grid address the language assigns: a speaker may physically produce a sound without the language treating that sound as an independent slot. Chapter 8 therefore compares language inventories through the atlas method, sets the ten *mahāprāṇa* cells aside to isolate the 23-cell Sanskrit base, and measures how much of that base is lit by selected language sets. The Southern Survey lights 20 of 23; the Forest-Belt Survey lights 18 of 23; the Western IE and Central Asian controls fall lower. The remaining gaps are neighbors, not structural absences. The chapter prepares the engineering move Chapter 9 completes: the surrounding languages provide the possible sounds; Sanskrit selects, regularizes, and assigns them to a grid.
 

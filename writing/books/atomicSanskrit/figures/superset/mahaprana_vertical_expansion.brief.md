@@ -1,9 +1,9 @@
 # Figure 8.7 — Mahāprāṇa as Vertical Expansion
 
-**Where it lives:** Chapter 8 §8.11 ("Breath Above the Base"), the chapter's
-closing engineering reveal. §§8.6–8.8 ran the southern, forest-belt,
-Western IE, and Central Asian surveys against Sanskrit's 23-cell base
-*with the ten mahāprāṇa stop cells held aside*. §8.11 brings the
+**Where it lives:** Chapter 8 §8.7 ("Breath Above the Base"), the chapter's
+closing engineering reveal. §8.4 runs the southern, forest-belt,
+European, and Central Asian comparisons against Sanskrit's 23-cell base
+*with the ten mahāprāṇa stop cells held aside*. §8.7 brings the
 mahāprāṇa back: it shows that mahāprāṇa is not a separate or imported
 set of sounds but a **vertical expansion** of the same five mouth-places
 through breath pressure.

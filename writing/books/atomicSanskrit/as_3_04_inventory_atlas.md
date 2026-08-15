@@ -1,4 +1,4 @@
-# Appendix Part 4 — The Subcontinental Sound-Field: Inventory Atlas and Control Surveys
+# Appendix Part 4 — The Consonant Inventory Atlas and Control Surveys
 
 ---
 
@@ -129,15 +129,15 @@ The eleven surveys — four in the body and seven in this appendix — produce t
 
 | Coverage | Set | Languages | Source |
 |---:|---|---|---|
-| **20 / 23** | Southern Survey | Tamil + Toda + Kurukh | body (Ch 8 §8.6) |
+| **20 / 23** | Southern Survey | Tamil + Toda + Kurukh | body (Ch 8 §8.4) |
 | **20 / 23** | Northwest Frontier | Pashto + Nuristani + Burushaski | App 4 §4.5 |
-| 18 / 23 | Forest-Belt Survey | Korku + Mundari + Ho | body (Ch 8 §8.7) |
+| 18 / 23 | Forest-Belt Survey | Korku + Mundari + Ho | body (Ch 8 §8.4) |
 | 18 / 23 | Munda Survey | Korku + Mundari + Santali | App 4 §4.2 |
 | 18 / 23 | Mixed Control | Korku + Mundari + Burushaski | App 4 §4.3 |
 | 15 / 23 | Dispersed *"Austro-Asiatic"* | Sora + Khasi + Nicobarese | App 4 §4.4 |
-| 14 / 23 | Western IE Survey | English + French + Greek | body (Ch 8 §8.8) |
+| 14 / 23 | Western IE Survey | English + French + Greek | body (Ch 8 §8.4) |
 | 13 / 23 | Iranian Survey (non-contact) | Farsi + Kurdish + Talysh | App 4 §4.6 |
-| 12 / 23 | Central Asian Survey | Tajik + Kazakh + Kyrgyz | body (Ch 8 §8.8) |
+| 12 / 23 | Central Asian Survey | Tajik + Kazakh + Kyrgyz | body (Ch 8 §8.4) |
 | 11 / 23 | Slavic & Caucasus IE | Russian + Ukrainian + Ossetian | App 4 §4.8 |
 | **10 / 23** | Caucasus Survey | Armenian + Georgian + Ossetian | App 4 §4.7 |
 

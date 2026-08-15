@@ -125,13 +125,13 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 7.7 Categories of Sound — *The four-category framework:* sparśa, swara, antaḥstha, ūṣman.
 - 7.8 *Sthāna*, *Prayatna*, and *Mātrā* — *The Sanskrit decomposition of sound as place, bodily effort, and measured duration.*
 
-**Chapter 8 — The Subcontinental Sound-Field** — *The survey chapter. Distinguishes a physically produced sound from a language-level grid address, explains the inventory-atlas method, and uses southern and forest-belt surveys to show the subcontinental field lighting most Sanskrit base cells, with the gaps as near-neighbor snap-to-grid moves.*
+**Chapter 8 — The Sounds of the Indian Subcontinent** — *The survey chapter. Distinguishes a recognized sonance from a reusable sonomer, explains the inventory-atlas method, and uses southern and forest-belt surveys to show that languages of the Indian subcontinent cover most Sanskrit base cells, with the gaps concentrated at neighboring grid addresses.*
 
 - 8.1 The Sounds Already Here — *The subcontinent already uses the mouth-zones, retroflex band, contact sounds, nasals, sibilants, and breath possibilities Sanskrit curates.*
-- 8.2 A Sound Is Not Always a Slot — *The distinction between a possible sound and an assigned grid address.*
+- 8.2 Sonances and Sonomers — *The distinction between a recognized consonantal sound and one assigned a reusable grid address.*
 - 8.3 How We Map the Sounds — *The inventory-atlas method: harmonized articulatory coordinates,* mahāprāṇa-*strip preset, union-coverage survey.*
-- 8.4 A Note on *Draviḍa* and Dravidian — *Uses current labels without accepting the racial Arya / Dravidian civilizational divide.*
-- 8.5 The Regional Pattern Persists — *The regional pattern is stable enough for an engineered selection to be plausible.*
+- 8.4 Why the Survey Begins in the South — *Applies the pyramid's own categories and tests whether the sounds obey them.*
+- 8.5 The Regional Pattern — *Explains what changing modern inventories can still reveal about a persistent regional pattern.*
 - 8.6 The Southern Survey: 20 of 23 — *Tamil, Toda, and Kurukh light twenty of the twenty-three Sanskrit base cells.*
 - 8.7 The Forest-Belt Survey: 18 of 23 — *Korku, Mundari, and Ho light eighteen of the twenty-three.*
 - 8.8 External Controls — *Western IE and Central Asian controls show much lower coverage.*
@@ -301,7 +301,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 
 - 3.1 Sonomer First, Audiograph Second · 3.2 The Interface Trap · 3.3 The "Brilliantly Adapted" Move · 3.4 What Aramaic Cannot Carry · 3.5 The Aramaic-from-Brāhmī Thesis · 3.6 Stone Preserves the Pyramid · 3.7 Audiography — The Name Withheld · 3.8 Three Design Cases: Sound, Script, Standard · 3.9 The Sonomer Travels East · 3.10 The Foundational Claim on Writing · 3.11 The Work Ahead
 
-**Appendix Part 4 — The Subcontinental Sound-Field: Inventory Atlas and Control Surveys** *(drafted)* — *Field-level supplement to Chapter 8: the full atlas methodology and seven control surveys (Munda 18/23, Mixed 18/23, dispersed 15/23, Northwest Frontier 20/23, non-contact Iranian 13/23, Caucasus 10/23, Slavic & Caucasus IE 11/23). The §4.9 cascade: geographic distance predicts coverage, family-tree classification predicts noise.*
+**Appendix Part 4 — The Consonant Inventory Atlas and Control Surveys** *(drafted)* — *Evidence supplement to Chapter 8: the full atlas method and seven control surveys (Munda 18/23, Mixed 18/23, dispersed 15/23, Northwest Frontier 20/23, non-contact Iranian 13/23, Caucasus 10/23, Slavic & Caucasus IE 11/23). The §4.9 sequence shows coverage falling with geographic distance while the family-tree classifications obscure the regional pattern.*
 
 - 4.1 The Atlas Method in Depth · 4.2–4.8 the seven control surveys · 4.9 The Coverage Cascade
 

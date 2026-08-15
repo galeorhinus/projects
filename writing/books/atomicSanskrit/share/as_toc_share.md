@@ -30,7 +30,7 @@ The book runs on an eclipse. Sanskrit is the Sun (Sūrya); the Western philologi
 
 ### Part III — The Sun's Sound-Body (*sonomeric, not alphabetic*)
 - **Chapter 7 — Oṃ: The Anatomy of Sound.** The voice as the original instrument; the apparatus mapped twice.
-- **Chapter 8 — The Subcontinental Sound-Field.** The field Sanskrit selects from; the coverage surveys.
+- **Chapter 8 — The Sounds of the Indian Subcontinent.** The regional inventory from which Sanskrit selects; the coverage surveys.
 - **Chapter 9 — The Varṇamālā: The Sonomeric Grid.** The selected grid; *varṇa* is a measured sound-particle, not a letter.
 
 ### Part IV — The Sun's Atoms (*particle, atom, molecule, assembly*)
