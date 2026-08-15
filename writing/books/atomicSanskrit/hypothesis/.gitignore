@@ -11,6 +11,9 @@ data/*.sqlite3
 # Digest-email state (last-seen annotation IDs) -- runtime state, not source.
 digest_state.json
 
+# Cron output on amrut -- runtime log, not source.
+cron.log
+
 # Generated dashboard embeds the same candid annotation content -- same
 # privacy posture as data/*.json, never committed. Published only as a
 # private Claude Artifact for personal triage.

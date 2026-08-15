@@ -72,6 +72,27 @@ send is a silent no-op by default (`--force` to send a "still quiet"
 check-in anyway; `--dry-run` to preview without sending or advancing the
 state file).
 
+## Scheduled runs (amrut)
+
+`run_pipeline.sh` is the cron entry point: pull → tag → digest, twice
+daily. It deliberately skips `build_dashboard.py` — publishing
+`dashboard.html` as a Claude Artifact needs an interactive Claude Code
+session, so refreshing "Reader Margins" stays a manual ask, not something
+cron can do unattended.
+
+Crontab on amrut (`crontab -e` as `ubuntu`):
+
+```
+TZ=America/Chicago
+0 8,18 * * * /home/ubuntu/projects/writing/books/atomicSanskrit/hypothesis/run_pipeline.sh >> /home/ubuntu/projects/writing/books/atomicSanskrit/hypothesis/cron.log 2>&1
+```
+
+The three secret files (`token.txt`, `anthropic_token.txt`,
+`smtp_app_password.txt`) live only on amrut and this machine -- never
+committed, copied by hand (`scp` / server-side `install`) whenever a new
+machine needs them. `cron.log` is local runtime output, not source --
+gitignored alongside the secrets and data.
+
 ## The tag taxonomy
 
 `taxonomy.json` is the published vocabulary. Hypothesis has no group-level
