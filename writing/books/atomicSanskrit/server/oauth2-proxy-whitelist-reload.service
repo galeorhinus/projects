@@ -1,0 +1,15 @@
+[Unit]
+Description=Restart oauth2-proxy after a whitelist change
+# Triggered by oauth2-proxy-whitelist-reload.path when
+# request_access.py (running unprivileged as www-data, NoNewPrivileges=
+# true) touches the trigger file after appending to
+# /etc/oauth2-proxy/authenticated-emails.txt. oauth2-proxy's own file-
+# watcher is meant to pick up whitelist changes live but was found
+# 2026-08-15 to silently stop doing so after some days of uptime, so a
+# restart is now the reliable path -- performed here by a root-owned
+# unit rather than granting the sandboxed service any escalation itself.
+
+[Service]
+Type=oneshot
+ExecStart=/bin/systemctl restart oauth2-proxy
+ExecStartPost=/usr/bin/rm -f /var/lib/secondshanti/reload-oauth2-proxy

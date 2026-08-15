@@ -41,7 +41,6 @@ import html
 import json
 import re
 import smtplib
-import subprocess
 import time
 from email.mime.text import MIMEText
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
@@ -73,12 +72,25 @@ STATUS_PATH = Path("/etc/secondshanti/invite_status.json")
 # oauth2-proxy's email whitelist. Auto-whitelisting appends here directly.
 WHITELIST_PATH = Path("/etc/oauth2-proxy/authenticated-emails.txt")
 
-# Optional command run after appending to the whitelist, e.g. to make
-# oauth2-proxy pick up the change. Leave as None to skip (and reload
-# manually) unless you've confirmed oauth2-proxy needs a nudge and have
-# granted the service user narrow, passwordless sudo for exactly this:
-#   WHITELIST_RELOAD_COMMAND = ["sudo", "/bin/systemctl", "restart", "oauth2-proxy"]
-WHITELIST_RELOAD_COMMAND: list[str] | None = None
+# oauth2-proxy ships a live file-watcher for authenticated-emails.txt (see
+# its own startup log: "watching '...' for updates"), so in principle no
+# reload is needed after an append. Confirmed 2026-08-15, though, that the
+# watcher silently stops picking up changes after the process has been up
+# for some days — a real invite (jk) was appended correctly, oauth2-proxy's
+# own logs showed it reading the matching email, and it still rejected him
+# with "AuthFailure ... unauthorized" until the service was restarted by
+# hand. A restart is therefore the reliable path, not an optional nicety.
+#
+# This service runs as www-data with NoNewPrivileges=true (see
+# secondshanti-request-access.service), which rules out sudo entirely --
+# even a passwordless sudoers entry can't grant new privileges once that
+# flag is set, and a scoped polkit rule for the systemd D-Bus action
+# didn't fire reliably in testing either. Touching a trigger file this
+# service already has write access to (ReadWritePaths=/var/lib/secondshanti)
+# and letting a root-owned systemd .path unit perform the actual restart
+# avoids all of that: see oauth2-proxy-whitelist-reload.{path,service} on
+# the server. Leave as None to skip the trigger.
+WHITELIST_RELOAD_TRIGGER: Path | None = Path("/var/lib/secondshanti/reload-oauth2-proxy")
 
 OWNER_EMAIL = "rhinusgaleo@gmail.com"
 SMTP_HOST = "smtp.gmail.com"
@@ -422,8 +434,8 @@ def add_to_whitelist(email: str) -> None:
         return
     with WHITELIST_PATH.open("a", encoding="utf-8") as f:
         f.write(email.strip() + "\n")
-    if WHITELIST_RELOAD_COMMAND:
-        subprocess.run(WHITELIST_RELOAD_COMMAND, check=False)
+    if WHITELIST_RELOAD_TRIGGER:
+        WHITELIST_RELOAD_TRIGGER.touch()
 
 
 # --- Flow 1: generic request-access form ("/") ------------------------------

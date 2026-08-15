@@ -121,6 +121,14 @@ Files:
    sudo systemctl status secondshanti-request-access
    ```
 
+4a. **Install the whitelist-reload trigger** (see "oauth2-proxy needs a
+    reload" below for why this exists):
+   ```
+   sudo cp server/oauth2-proxy-whitelist-reload.path server/oauth2-proxy-whitelist-reload.service /etc/systemd/system/
+   sudo systemctl daemon-reload
+   sudo systemctl enable --now oauth2-proxy-whitelist-reload.path
+   ```
+
 5. **Deploy the Caddyfile and the roster:**
    ```
    ./deploy.sh
@@ -165,11 +173,39 @@ ssh amrut 'cd ~/projects/writing/books/atomicSanskrit && ./refresh.sh'
 new roster. No service restart is needed — the roster is read fresh on
 every request.)
 
-**Confirmed: oauth2-proxy does not need a reload.** Tested end-to-end
-2026-08-06 — appending to `/etc/oauth2-proxy/authenticated-emails.txt` and
-immediately logging into `/as/book/` with the newly-added email worked
-with no restart of anything. `WHITELIST_RELOAD_COMMAND` can stay `None`;
-no sudo privileges need to be granted to the service user for this.
+**oauth2-proxy needs a reload — its own file-watcher is not reliable
+enough to trust.** oauth2-proxy ships a live watcher for
+`authenticated-emails.txt` (visible in its startup log: `watching '...'
+for updates`), and a same-day test on 2026-08-06 — append, then
+immediately log in with the new email — worked with no restart. But a
+real invite on 2026-08-15 (jk) was appended correctly, oauth2-proxy's own
+logs showed it reading the exact matching email back, and it still
+rejected him with `AuthFailure ... unauthorized` — the watcher had gone
+stale sometime after nine days of uptime and never picked up the file
+change. A restart fixed it instantly.
+
+The service can't just `sudo systemctl restart oauth2-proxy` itself:
+it runs as `www-data` with `NoNewPrivileges=true`
+(`secondshanti-request-access.service`), which blocks `sudo` outright
+regardless of any sudoers entry, and a scoped polkit rule for the
+systemd D-Bus restart action didn't fire reliably in testing either.
+Instead, `add_to_whitelist()` touches a trigger file
+(`WHITELIST_RELOAD_TRIGGER`, default
+`/var/lib/secondshanti/reload-oauth2-proxy`) that it already has write
+access to via `ReadWritePaths`, and a root-owned systemd `.path` unit
+does the actual restart:
+
+```
+sudo cp server/oauth2-proxy-whitelist-reload.path server/oauth2-proxy-whitelist-reload.service /etc/systemd/system/
+sudo systemctl daemon-reload
+sudo systemctl enable --now oauth2-proxy-whitelist-reload.path
+```
+
+The `.path` unit watches for the trigger file's existence, fires the
+`.service` unit (root, `Type=oneshot`), which restarts oauth2-proxy and
+removes the trigger file. Confirmed end-to-end 2026-08-15: touching the
+trigger as `www-data` restarted oauth2-proxy in under a second with no
+privilege escalation anywhere in the chain.
 
 ## Review workflow
 

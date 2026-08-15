@@ -1,0 +1,9 @@
+[Unit]
+Description=Watch for oauth2-proxy whitelist reload requests
+
+[Path]
+PathExists=/var/lib/secondshanti/reload-oauth2-proxy
+Unit=oauth2-proxy-whitelist-reload.service
+
+[Install]
+WantedBy=multi-user.target
