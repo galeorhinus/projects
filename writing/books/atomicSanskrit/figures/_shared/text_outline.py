@@ -819,16 +819,30 @@ _TSPAN_DY_RE = re.compile(r'<tspan\b(?P<attrs>[^>]*)>(?P<content>[^<]*)</tspan>'
 
 
 def _outline_multiline_text_element(attrs: dict[str, str], inner: str) -> str | None:
-    """Handle the `<tspan x="0" dy="...">` line-wrapping shape (each tspan
-    is one full line, `dy` accumulates the line's vertical offset from the
-    previous one) — the case `replace_with_tspans` used to skip outright.
-    Renders each line with the same per-line placement core the single-line
-    path uses, stacked at the accumulated y, then wraps the lines in one
-    outer <g> carrying the original element's transform/passthrough attrs.
+    """Handle the "each tspan is one full line" shape — either `dy="..."`
+    (relative, accumulates from the previous line, SVG's normal line-
+    wrapping idiom) or absolute `y="..."` per tspan (each line's own
+    final position, no accumulation) — the case `replace_with_tspans`
+    used to skip outright. Renders each line with the same per-line
+    placement core the single-line path uses, then wraps the lines in
+    one outer <g> carrying the original element's transform/passthrough
+    attrs.
 
-    Returns None if `inner` doesn't actually match the one shape this
-    handles (bare text between tspans, or a tspan missing dy) — the caller
-    then falls back to skip-and-warn rather than mis-render."""
+    Confirmed real 2026-08-15 on stha_vivimorphosis.svg: three cognate
+    labels ('Afghāni-stān', 'Uzbeki-stān', 'Turkmeni-stān') set as
+    `<tspan x="0" y="0">`/`y="9.7"`/`y="19.4"` under one <text> rendered
+    correctly as long as the block stayed live (native SVG respects a
+    tspan's own y), then collapsed onto a single overlapping line the
+    moment something else made the block eligible for outlining -- this
+    function previously recognized only the dy convention, so a y-only
+    block fell through to the single-line path, which has no per-
+    segment y at all and just concatenates every tspan horizontally at
+    the parent's one y.
+
+    Returns None if `inner` doesn't actually match either shape this
+    handles (bare text between tspans, or a tspan with neither dy nor
+    y) — the caller then falls back to skip-and-warn rather than
+    mis-render."""
     tspans = list(_TSPAN_DY_RE.finditer(inner))
     if not tspans:
         return None
@@ -840,7 +854,8 @@ def _outline_multiline_text_element(attrs: dict[str, str], inner: str) -> str | 
     if any(gap.strip() for gap in gaps):
         return None
     for m in tspans:
-        if "dy" not in _parse_attrs(m.group("attrs")):
+        tspan_attrs = _parse_attrs(m.group("attrs"))
+        if "dy" not in tspan_attrs and "y" not in tspan_attrs:
             return None
 
     base_x = float(attrs.get("x", 0))
@@ -854,7 +869,12 @@ def _outline_multiline_text_element(attrs: dict[str, str], inner: str) -> str | 
     lines = []
     for m in tspans:
         tspan_attrs = _parse_attrs(m.group("attrs"))
-        y_cursor += float(tspan_attrs["dy"])
+        if "dy" in tspan_attrs:
+            y_cursor += float(tspan_attrs["dy"])
+        else:
+            # Absolute y, per the SVG spec, overrides rather than adds —
+            # not base_y + y, just y.
+            y_cursor = float(tspan_attrs["y"])
         line_x = float(tspan_attrs.get("x", base_x))
         line_attrs = dict(attrs)
         line_attrs["font-weight"] = tspan_attrs.get("font-weight", attrs.get("font-weight", ""))
@@ -871,6 +891,86 @@ def _outline_multiline_text_element(attrs: dict[str, str], inner: str) -> str | 
 
     extra_attrs = _build_passthrough_attrs(attrs)
     return f'<g fill="{fill}"{extra_attrs}>{"".join(lines)}</g>'
+
+
+_STYLE_BLOCK_RE = re.compile(r'<style\b[^>]*>(.*?)</style>', re.DOTALL)
+_CSS_CLASS_RULE_RE = re.compile(r'\.([\w-]+)\s*\{([^}]*)\}')
+_CSS_DECL_RE = re.compile(r'([\w-]+)\s*:\s*([^;]+);?')
+_CLASS_ATTR_RE = re.compile(r'\bclass="([^"]*)"')
+_CSS_TO_SVG_ATTR = {"font-family", "font-size", "font-weight", "font-style", "fill"}
+_CLASS_BEARING_TAG_RE = re.compile(r'<(text|tspan)\b(?P<attrs>[^>]*)>')
+
+
+def _inline_css_classes(svg_content: str) -> str:
+    """Resolve `class="..."` styling on <text>/<tspan> elements against
+    the file's own <style> block and write the result back as literal
+    inline attributes, before any other pass runs.
+
+    Every risky-font / Devanagari check in this module reads font-family
+    (and friends) off an element's own attributes -- none of them know
+    CSS classes exist. A hand-authored SVG that styles text purely
+    through `.serif { font-family: ... }`-style classes (no inline
+    font-family anywhere) is therefore completely invisible to every fix
+    in this file, Devanagari-shaping and arrow-glyph alike. Confirmed
+    real 2026-08-15 on mapping_mouth/sound_volume.svg (lineage:
+    manual-svg, not a design-tool export): 48 of its 64 text elements
+    carry Devanagari, styled entirely via class, none of it ever
+    protected by anything in this module. Only font-family, font-size,
+    font-weight, font-style, and fill are inlined -- the properties the
+    rest of this file actually reads; layout-affecting CSS (transform,
+    etc.) is left alone. Only classes actually referencing one of those
+    five properties trigger a rewrite, so files with class="" used
+    purely for non-text styling (a rect's fill, say) are untouched."""
+    style_match = _STYLE_BLOCK_RE.search(svg_content)
+    if not style_match:
+        return svg_content
+
+    class_props: dict[str, dict[str, str]] = {}
+    for rule in _CSS_CLASS_RULE_RE.finditer(style_match.group(1)):
+        name, body = rule.group(1), rule.group(2)
+        props = {
+            prop: val.strip()
+            for prop, val in _CSS_DECL_RE.findall(body)
+            if prop.strip() in _CSS_TO_SVG_ATTR
+        }
+        if props:
+            class_props[name] = props
+
+    if not class_props:
+        return svg_content
+
+    def replace(m: re.Match) -> str:
+        tag_name, attrs_str = m.group(1), m.group("attrs")
+        class_m = _CLASS_ATTR_RE.search(attrs_str)
+        if not class_m:
+            return m.group(0)
+        existing = _parse_attrs(attrs_str)
+        merged: dict[str, str] = {}
+        for cls in class_m.group(1).split():
+            merged.update(class_props.get(cls, {}))
+        # font-size downstream (base_size = float(attrs.get("font-size",
+        # ...))) expects a bare number; CSS's own "19px" fails that
+        # float() outright. Every other property this function inlines is
+        # already bare-value-compatible (font-family/font-weight/font-
+        # style/fill don't get float()'d anywhere).
+        if "font-size" in merged:
+            merged["font-size"] = merged["font-size"].removesuffix("px").strip()
+        if "font-family" in merged:
+            # CSS font-family quotes multi-word names in double quotes
+            # ("Gentium Book Plus", Georgia, serif) -- injecting that
+            # verbatim into a double-quoted XML attribute breaks the tag
+            # at the first embedded quote. Every other font-family value
+            # already in this codebase uses single quotes for exactly
+            # this reason; match that convention rather than introducing
+            # a second one.
+            merged["font-family"] = merged["font-family"].replace('"', "'")
+        to_add = {k: v for k, v in merged.items() if k not in existing}
+        if not to_add:
+            return m.group(0)
+        insert = "".join(f' {k}="{v}"' for k, v in to_add.items())
+        return f'<{tag_name}{attrs_str}{insert}>'
+
+    return _CLASS_BEARING_TAG_RE.sub(replace, svg_content)
 
 
 _G_FONT_FAMILY_OPEN_RE = re.compile(r'<g\b[^>]*\bfont-family="([^"]*)"[^>]*>')
@@ -941,6 +1041,7 @@ def outline_devanagari_in_svg(svg_content: str) -> tuple[str, int, list[str]]:
     """
     warnings: list[str] = []
     count = 0
+    svg_content = _inline_css_classes(svg_content)
     svg_content = _push_down_ancestor_font_family(svg_content)
 
     # --- textPath pass (arc-band labels) — runs first, on the untouched
@@ -1027,13 +1128,21 @@ def outline_devanagari_in_svg(svg_content: str) -> tuple[str, int, list[str]]:
         ):
             return whole
         # Multi-line paragraphs use `dy` on each new-line tspan (plus a
-        # reset `x`) to wrap text — a structurally different layout than
-        # the "one word + its tspan gloss on the same line" case this
-        # parser actually handles. Attempting to place dy-separated lines
-        # as one horizontal run smashes them together, which is worse than
-        # leaving the element untouched. Skip and flag for manual review.
+        # reset `x`) to wrap text, or give each line its own absolute
+        # `y` directly — either way, a structurally different layout
+        # than the "one word + its tspan gloss on the same line" case
+        # this parser actually handles. Attempting to place multi-line
+        # tspans as one horizontal run smashes them together, which is
+        # worse than leaving the element untouched. Skip and flag for
+        # manual review. A lone tspan carrying its own y (no siblings)
+        # isn't this shape — require at least two before treating y as
+        # a line-per-tspan signal, so ordinary single-position tspans
+        # keep going through the normal path.
         attrs = _parse_attrs(m.group("attrs"))
-        if re.search(r'<tspan\b[^>]*\bdy\s*=', m.group("inner")):
+        has_dy = bool(re.search(r'<tspan\b[^>]*\bdy\s*=', m.group("inner")))
+        y_tspans = re.findall(r'<tspan\b[^>]*\by\s*=', m.group("inner"))
+        has_multi_y = len(y_tspans) >= 2
+        if has_dy or has_multi_y:
             multiline = _outline_multiline_text_element(attrs, m.group("inner"))
             if multiline is None:
                 warnings.append(
