@@ -34,8 +34,12 @@ auto_tagger.py         -- read taxonomy.json, tag anything untagged (or
                           off-taxonomy) via the LLM, PATCH tags back to
                           Hypothesis and to the local snapshot
 build_dashboard.py     -- render data/annotations.json as a filterable,
-                          sortable static HTML page (publish as an
-                          Artifact)
+                          sortable static HTML page. No args: writes
+                          hypothesis/dashboard.html for publishing by
+                          hand as a Claude Artifact. --install PATH:
+                          also writes to PATH -- what run_pipeline.sh
+                          uses to self-publish at
+                          secondshanti.org/as/private/dashboard/
 digest_send.py         -- email a summary of annotations new or updated
                           since the last digest, via the same Gmail SMTP
                           app-password setup server/request_access.py uses
@@ -74,11 +78,25 @@ state file).
 
 ## Scheduled runs (amrut)
 
-`run_pipeline.sh` is the cron entry point: pull → tag → digest, twice
-daily. It deliberately skips `build_dashboard.py` — publishing
-`dashboard.html` as a Claude Artifact needs an interactive Claude Code
-session, so refreshing "Reader Margins" stays a manual ask, not something
-cron can do unattended.
+`run_pipeline.sh` is the cron entry point: pull → tag → install the
+dashboard → digest, twice daily, fully unattended.
+
+**The live dashboard**: <https://secondshanti.org/as/private/dashboard/>
+(owner-only). It sits inside `/as/private/*`'s Google-OAuth gate but adds
+an *extra* check in the Caddyfile's loopback `:18080` block -- the request
+must carry `X-Auth-Request-Email: rhinusgaleo@gmail.com` (set by
+oauth2-proxy after a successful login, via
+`OAUTH2_PROXY_SET_XAUTHREQUEST=true`) or it 404s. This matters because
+`/as/private/*` alone shares its whitelist with every invited reader
+(`authenticated-emails.txt`) -- without the extra check, everyone who can
+read the book could also see everyone else's candid annotations. See the
+Caddyfile's own comments at the `@dashboard_notowner` matcher.
+
+Publishing `dashboard.html` as a Claude Artifact ("Reader Margins")
+remains available too, run by hand from a Claude Code session whenever a
+snapshot is worth sharing or viewing outside this flow -- the two publish
+paths don't conflict, `build_dashboard.py --install` just adds a second
+output alongside the usual `hypothesis/dashboard.html`.
 
 Crontab on amrut (`crontab -e` as `ubuntu`):
 

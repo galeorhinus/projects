@@ -5,16 +5,29 @@ self-contained, filterable/sortable HTML page: hypothesis/dashboard.html.
 Pure standard library, same convention as the rest of this directory.
 The output embeds all annotation content (readers' candid feedback) as
 inline JSON, so dashboard.html carries the same privacy posture as
-data/annotations.json itself -- gitignored, never committed, published
-only as a private Claude Artifact (default-private, not indexed) for
-personal triage.
+data/annotations.json itself -- gitignored, never committed.
+
+Two publish paths:
+  - No --install: writes hypothesis/dashboard.html only, for publishing
+    by hand as a private Claude Artifact ("Reader Margins").
+  - --install PATH: also writes the same content to PATH (parents
+    created as needed) -- used on amrut by run_pipeline.sh to publish
+    at https://secondshanti.org/as/private/dashboard/, self-refreshing
+    on every cron run with no manual republish step. That route is
+    gated by the same Google-OAuth login as the rest of /as/private/*,
+    PLUS an extra owner-only check in the Caddyfile (X-Auth-Request-
+    Email must be rhinusgaleo@gmail.com) -- /as/private/* alone would
+    also admit every whitelisted reader, which would leak everyone's
+    candid annotations to each other.
 
 Usage:
     python3 build_dashboard.py
+    python3 build_dashboard.py --install /var/www/as/private/dashboard/index.html
 """
 
 from __future__ import annotations
 
+import argparse
 import json
 from pathlib import Path
 
@@ -53,7 +66,17 @@ def chapter_slug(uri: str) -> str:
     return parts[-1] if parts else uri
 
 
+def hyp_is_link(annotation_id: str, uri: str) -> str:
+    stripped = uri.split("://", 1)[-1]
+    return f"https://hyp.is/{annotation_id}/{stripped}"
+
+
 def main() -> int:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--install", type=Path, default=None,
+                         help="also write the rendered page to this path (e.g. a webroot)")
+    args = parser.parse_args()
+
     if not DATA_PATH.exists():
         print(f"No {DATA_PATH} -- run pull_annotations.py first.")
         return 1
@@ -74,10 +97,13 @@ def main() -> int:
             "title": a["document_title"],
             "uri": a["uri"],
             "quote": a["quote"],
+            "quote_prefix": a.get("quote_prefix", ""),
+            "quote_suffix": a.get("quote_suffix", ""),
             "text": a["text"],
             "tags": a.get("tags", []),
             "suggested": a.get("suggested_tags", []),
             "reply": a.get("is_reply", False),
+            "link": hyp_is_link(a["id"], a["uri"]),
         })
 
     data_json = json.dumps(rows, ensure_ascii=False).replace("</", "<\\/")
@@ -92,6 +118,12 @@ def main() -> int:
 
     OUTPUT_PATH.write_text(html, encoding="utf-8")
     print(f"Wrote {len(rows)} annotation(s) -> {OUTPUT_PATH}")
+
+    if args.install:
+        args.install.parent.mkdir(parents=True, exist_ok=True)
+        args.install.write_text(html, encoding="utf-8")
+        print(f"Installed -> {args.install}")
+
     return 0
 
 
@@ -315,6 +347,8 @@ main {
 }
 .card .meta .user { color: var(--text); font-weight: 600; }
 .card .meta .sep { opacity: 0.5; }
+.card .meta a { color: var(--accent); text-decoration: none; }
+.card .meta a:hover { text-decoration: underline; }
 .card blockquote {
   margin: 0 0 8px;
   padding: 6px 0 6px 12px;
@@ -322,6 +356,13 @@ main {
   color: var(--text-muted);
   font-size: 0.88rem;
   font-style: italic;
+}
+.card blockquote mark {
+  background: var(--c-clarify-bg);
+  color: var(--text);
+  font-style: normal;
+  padding: 0 2px;
+  border-radius: 2px;
 }
 .card .comment {
   margin: 0 0 10px;
@@ -517,18 +558,22 @@ function tagChipHTML(tag, suggested) {
 function cardHTML(a) {
   const tagHTML = a.tags.map(t => tagChipHTML(t, false)).join("") +
                    a.suggested.map(t => tagChipHTML(t, true)).join("");
-  const quote = a.quote ? `<blockquote>&ldquo;${escapeHTML(a.quote)}&rdquo;</blockquote>` : "";
+  const quote = a.quote
+    ? `<blockquote>&hellip;${escapeHTML(a.quote_prefix || "")}<mark>${escapeHTML(a.quote)}</mark>${escapeHTML(a.quote_suffix || "")}&hellip;</blockquote>`
+    : "";
   const reply = a.reply ? '<span class="reply-badge">reply</span>' : "";
   return `<article class="card">
     <div class="meta">
       <span class="user">${escapeHTML(a.user)}</span>
       <span class="sep">·</span>
-      <span>${escapeHTML(a.chapter)}</span>
+      <a href="${a.uri}" target="_blank" rel="noopener">${escapeHTML(a.chapter)}</a>
       <span class="sep">·</span>
       <span>${escapeHTML(a.group)}</span>
       <span class="sep">·</span>
       <span>${fmtDate(a.created)}</span>
       ${reply}
+      <span class="sep">·</span>
+      <a href="${a.link}" target="_blank" rel="noopener">View on Hypothesis &rarr;</a>
     </div>
     ${quote}
     <p class="comment">${escapeHTML(a.text)}</p>
