@@ -2423,6 +2423,24 @@ Primary textual anchors include Deuteronomy 7:6 and Isaiah 11 for chosen Israel 
 
 ---
 
+### `genesis-big-bang-god-as-law`
+
+**Short:** Stephen Hawking did not remove God from the vocabulary of cosmology. *A Brief History of Time* invokes God repeatedly while transferring the explanatory role of a creator to physical law. The public creation story retains a single beginning but replaces divine action with the emergence of time and space under impersonal laws.
+
+**Deployment:** Chapter 4 §4.1, *Genesis, Utopia, and Apocalypse*.
+
+The parallel requires a distinction between the scientific model and the creation story built around it. Georges Lemaître developed the expanding-universe model in 1927 and proposed the *primeval atom* in 1931. He was also a Catholic priest, yet he insisted that a physical beginning and theological creation were different matters. When Pope Pius XII linked the primeval-atom theory with divine creation in 1951, Lemaître objected to the conflation. The equations described a changing universe; they did not establish Genesis.
+
+Popular cosmology repeatedly crossed the boundary that Lemaître protected. Chapter 8 of Stephen Hawking's *A Brief History of Time* discusses whether a universe with a beginning requires a creator and whether the no-boundary proposal removes that role. The book closes with the phrase *"mind of God."* Hawking's official account explains that phrase as the complete laws of the universe rather than a religious mind. His later book *The Grand Design*, written with Leonard Mlodinow, makes the substitution explicit: physical law performs the originating action, and a creator is no longer required.
+
+God therefore remains in the language while losing agency. A personal creator becomes a metaphor for impersonal law. Creation becomes cosmology. A beginning in Genesis becomes an origin of time and space, and the universe's final fate supplies the corresponding end. The vocabulary changes while the linear architecture continues to run from genesis through history toward an ending.
+
+The 1988 book uses *God* repeatedly. This note does not print a fixed count because editions differ and a count changes depending on whether possessives and quoted expressions are included. The point does not depend on whether one edition contains twenty-two instances: God plainly remains part of Hawking's explanatory vocabulary.
+
+Standard references: Georges Lemaître, "Un univers homogène de masse constante et de rayon croissant, rendant compte de la vitesse radiale des nébuleuses extragalactiques," *Annales de la Société Scientifique de Bruxelles* 47A (1927), pp. 49–59; Georges Lemaître, "The Beginning of the World from the Point of View of Quantum Theory," *Nature* 127 (9 May 1931), p. 706, doi:10.1038/127706b0; Stephen Hawking, *A Brief History of Time: From the Big Bang to Black Holes* (Bantam, 1988), Chapter 8 and Conclusion; Stephen Hawking and Leonard Mlodinow, *The Grand Design* (Bantam, 2010). Online documentation: [Stephen Hawking Estate, *A Brief History of Time*](https://stephenhawking.co.uk/books/a-brief-history-of-time); [UCLouvain Archives, *Commencement ou Création?*](https://archives.uclouvain.be/exhibits/show/georges-lemaitre/commencement-ou-creation); [UCLouvain Archives, *Pie XII et le discours Un'Ora*](https://archives.uclouvain.be/exhibits/show/georges-lemaitre/commencement-ou-creation/pie-xii-discours-un-ora).
+
+---
+
 ### `heavenly-city-becker`
 
 **Short:** Carl L. Becker, *The Heavenly City of the Eighteenth-Century Philosophers* (Yale University Press, 1932; Storrs Lectures, Yale Law School, 1931) — the foundational scholarly statement that the *Enlightenment* philosophes did not abandon the Christian branch of Abrahamic end-time structure but secularized it, the *heavenly city* reconstituted as the perfected society achieved through reason across a single linear-historical trajectory.

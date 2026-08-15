@@ -34,43 +34,43 @@ Judaism built the foundation. The pyramid adapted that original dogma and forced
 
 Progressivism inherited the template wholesale: it discarded the religious vocabulary and kept the religious machinery.
 
-The standing term here for the doctrinal formation is the **progressive dogma**: the cross-partisan, post-*"Enlightenment"* commitment to linear progress as the background against which every modern argument is staged. Its practitioners differ in politics, religion, discipline, and temperament. What they share is the assumption that humanity moves upward across time.[NOTE: heavenly-city-becker]
+The standing term here for the doctrinal formation is the **progressive dogma**: the cross-partisan, post-*"Enlightenment"* commitment to linear progress as the background against which every modern argument is staged. Its practitioners may disagree about almost everything else. What they share is the assumption that humanity moves upward across time.[NOTE: heavenly-city-becker]
 
-Its modern doctrine has an institutional carrier: the **church of progress**. The academy credentials, publishes, reproduces, and sanctifies that doctrine across generations. It fuses the progressive timeline with a permanent structural conflict: if history is a linear march toward liberation, the past must become a site of oppression. Human history is then reduced to a zero-sum struggle between the powerful and the marginalized, while every ancient tradition is interrogated as a crime scene of systemic hegemony.
+Its modern doctrine has an institutional carrier: the **church of progress**. The academy reproduces and sanctifies that doctrine across generations by deciding who receives credentials and which claims enter publication. It fuses the progressive timeline with a permanent structural conflict: if history is a linear march toward liberation, the past must become a site of oppression. Human history is then reduced to a zero-sum struggle between the powerful and the marginalized, while every ancient tradition is interrogated as a crime scene of systemic hegemony.
 
-The church confers authority through degrees, journals, conferences, peer review, textbook canons, reference works, curriculum design, and centralized education. The dogma writes the rules. The church guards the gates.
+The church first certifies its intellectuals through degrees. Journals and conferences circulate their claims, peer review authorizes them, and textbooks and reference works turn them into accepted doctrine. Centralized curricula then carry that doctrine into classrooms. The dogma writes the rules. The church guards the gates.
 
-The charge falls on the formation, not on the individual scholar, student, or salaried researcher who inherited the Western frame and works inside the machinery from training, habit, or honest confidence in authorized categories. The formation is what makes one kind of description profitable and another costly: the apex-and-layer structure that turns Sanskrit from living architecture into philological evidence, turns evidence into doctrine, subordinates doctrine to an imaginary ancestor, and uses the ancestor to conceal the civilization that preserved Sanskrit.
+This chapter indicts the formation, not every person trained inside it. Many people inherit its categories and trust the institutions that taught them. The formation rewards people who repeat its doctrine and penalizes those who describe Sanskrit through the Hindu continuum's own categories. It reduces Sanskrit to philological evidence, places an imaginary ancestor above that evidence, and conceals the civilization that preserved Sanskrit.
 
-Three function-classes carry the church's doctrine. **Missionaries of progress** advance the framework outward and naturalize it inside civilizations that already possess their own. **Jihadis of progress** attack and marginalize work that threatens the framework. **Priests of progress** maintain the ritual machinery of internal authorization: peer review, citation conventions, scholarly consensus, and disciplinary gatekeeping. Extend, defend, sanctify. The names are diagnostic because the functions are religious.
+Three function-classes carry the church's doctrine. **Missionaries of progress** advance the framework outward and naturalize it inside civilizations that already possess their own. **Jihadis of progress** attack and marginalize arguments that threaten the framework. **Priests of progress** decide what the institution may publish, cite, and teach as consensus. Extend, defend, sanctify. The names are diagnostic because the functions are religious.
 
 The academy certifies the intellectual; the function determines the role. The same **certified intellectual** may carry the doctrine outward as a missionary of progress, attack dissent as a jihadi of progress, or authorize the doctrine internally as a priest of progress.
 
-The older diagnostic vocabulary underneath these operations is precise: the *paṇi* hoards, the *vṛtra* blocks circulation, and the *rākṣasa* brings predation or disguise into the surrounding order.
+The Hindu continuum has long distinguished these three actions. The *paṇi* hoards what should circulate. The *vṛtra* blocks the circulation itself. The *rākṣasa* enters the surrounding order through predation or disguise.
 
-The full structure has doctrine, institution, missionaries, defenders, and priests. Progressivism is the **fourth Abrahamic religion**.
+Together, these functions reproduce a religion. Progressivism is the **fourth Abrahamic religion**.
 
 Figure 4.1a places the first four elements side by side. Each formation identifies its chosen community, authorizes a doctrine, draws a boundary around insiders, and establishes a means of expansion.
 
 ![Figure 4.1a — Same Structure, Four Vocabularies: Community, Doctrine, Boundary, and Expansion. The vocabulary changes across Judaism, Christianity, Islam, and progressivism while the four structural elements remain.](figures/fourth_abrahamic/fourth_abrahamic_structural_elements.svg){#fig:ch4-four-structural-elements width=100%}
 
-### Utopia and Apocalypse
+### Genesis, Utopia, and Apocalypse
 
-The substitutions followed an exact pattern. Heaven on earth became progress. Salvation became development. The elect became the enlightened. The damned became the backward. Mission became modernization. Heresy became anti-science, regressive, pseudo-scholarship, communalism. The end times became the end of history.[NOTE: end-of-history-fukuyama] Original sin survived as historical injustice, with the operative content changing by faction while the structure remained.
+The substitutions followed an exact pattern. Genesis became the Big Bang. God did not disappear from the vocabulary; Stephen Hawking invoked him repeatedly in *A Brief History of Time*. But God ceased to act as creator and became a metaphor for physical law. The fourth religion converted divine creation into the emergence of time and space, then presented the substitution as *"Science."*[NOTE: genesis-big-bang-god-as-law] Heaven on earth became progress. Salvation became development. The elect became the enlightened. The damned became the backward. Pagans became deniers. Mission became modernization. Heresy became anti-science. In India, it also became whatever the church labels regressive, pseudo-scholarship, or communalism. The end times became the end of history.[NOTE: end-of-history-fukuyama] Original sin survived as historical injustice, with the operative content changing by faction while the structure remained.
 
 The genealogy runs deeper than metaphor. The *"Enlightenment"* did not abolish Abrahamic end-time structure; it secularized it into a beginning, a saving sequence, and an end toward which collective effort is bent. The end may be liberal democracy or technological transcendence. The vehicle changes. The end-time structure does not.[NOTE: voegelin-gnosticism]
 
-The fourth Abrahamic religion succeeds because it thinks it is post-religious. A Christian missionary is visible as a missionary. A missionary of progress arrives under the cover of universal applicability: modernization, development, global standards, rights discourse, scientific consensus. The cover makes the doctrine portable into civilizations that have their own categories.[NOTE: black-mass-gray]
+The fourth Abrahamic religion succeeds because it thinks it is post-religious. A Christian missionary is visible as a missionary. A missionary of progress arrives under the cover of universal standards and scientific consensus. That cover makes the doctrine portable into civilizations that have their own categories.[NOTE: black-mass-gray]
 
-The apocalypse remains live. Climate catastrophe, AI extinction, demographic collapse, pandemic, nuclear annihilation — the named doom changes by decade. The structure does not: a coming catastrophe, a prescribed *"solution"*, an enlightened class authorized to administer the *"solution"*, and a recalcitrant out-group blamed for endangering it.[NOTE: fourth-abrahamic-eschatology-precedent]
+The church of progress now presents climate catastrophe as its apocalypse. Most human beings genuinely want to care for the planet and leave it healthy for future generations. The church hijacks that desire and turns it into an urgent judgment-day story: the world is about to end. It then announces a single *"solution"* that will prevent judgment day. Anyone who questions that solution is dismissed as a climate denier.[NOTE: fourth-abrahamic-eschatology-precedent]
 
-Every iteration also describes a perfected end and a judgment or catastrophe that must come before it. Figure 4.1b places those two promises beside each other: utopia and apocalypse.
+Each iteration begins with an origin, describes a perfected end, and names the judgment or catastrophe that must come before it. Figure 4.1b places all three parts of that linear architecture beside each other: origin, utopia, and apocalypse.
 
-![Figure 4.1b — Same Structure, Four Vocabularies: Utopia and Apocalypse. Each iteration describes a perfected end and a judgment or catastrophe that must come before it.](figures/fourth_abrahamic/fourth_abrahamic_eschatology.svg){#fig:ch4-four-eschatologies width=100%}
+![Figure 4.1b — Same Structure, Four Vocabularies: Origin, Utopia, and Apocalypse. Each iteration declares an origin, describes a perfected end, and names the judgment or catastrophe that clears its path.](figures/fourth_abrahamic/fourth_abrahamic_eschatology.svg){#fig:ch4-four-eschatologies width=100%}
 
 ### From Corporation to Pyramid
 
-The scriptural substrate is now in place: Abrahamic political formations sanctified master-slave categories and imposed them on India through Islamic and Christian rule. The fourth form secularizes the same substrate. What the earlier formations did through military and administrative language, the fourth does through academic, cultural, legal, and developmental language.
+The preceding comparison identifies the scriptural foundation beneath the pyramid. Abrahamic political formations sanctified master-slave categories and imposed them on India through Islamic and Christian rule. The fourth form secularizes the same foundation. Earlier pyramids imposed their hierarchy through armies and administrators. The fourth captures the institutions that produce knowledge and policy, then speaks through them in secular language.
 
 **B.R. Ambedkar**, in *Pakistan, or the Partition of India* (1940/1945), diagnosed the structural form when he turned his attention to Islam:
 
@@ -80,7 +80,7 @@ He identified one corporation. The diagnosis extends to all four. Each draws a b
 
 Ambedkar provides the outline; the pyramid gives the interior.
 
-The four Abrahamic religions are not merely closed corporations. They are pyramidal corporations: visible apex, visible layers, authorization flowing downward, compliance flowing upward, exclusion machinery pointed at heterodox argument from below. The closed boundary defines the corporation. The pyramid describes how the corporation governs. At the apex of the first three stands a Father — *jealous, by His own testimony*, who brooks no other before Him — and, as shepherd, He needs the flock that does not need Him. The fourth secularizes Him into consensus and keeps the singular peak.
+The four Abrahamic religions are not merely closed corporations. They are pyramidal corporations. An apex authorizes doctrine, institutions carry it downward through the layers, and compliance travels back upward. When an argument rises from below, the exclusion machinery turns against it. The closed boundary defines the corporation. The pyramid describes how the corporation governs. At the apex of the first three stands a Father — *jealous, by His own testimony*, who brooks no other before Him — and, as shepherd, He needs the flock that does not need Him. The fourth secularizes Him into consensus and keeps the singular peak.
 
 ![Figure 4.2a — Same Pyramid, Four Versions: V1-V3. Judaism, Christianity, and Islam share the same pyramidal structure: apex authority, dogma, priestly interpretation, institutions, expansion, enforcement, and base.](figures/fourth_abrahamic/same_pyramid_named_religions.svg){#fig:ch4-same-pyramid-v1-v3 width=100%}
 
@@ -152,7 +152,9 @@ The **jihadis of progress** defend the framework. They attack heterodox work thr
 
 The **priests of progress** sanctify the framework. Peer review is their rite. Citation is liturgy. The thesis defense is ordination. Tenure is benefice. The conference Q&A is controlled confession. The priestly class decides what becomes publishable, citable, reputable, and therefore real inside the church.
 
-The priestly function turns inward and outward. Inward, it defends the doctrine against heterodox challenge through the machinery this section identifies. Its outward role is older. The church of progress absorbs civilization-internal scholars from civilizations its doctrine has already turned into objects of study — Sanskritists from the dharmic continuum, Confucian classicists from the Chinese tradition, Quranic scholars from the Islamic tradition, Talmudists from the Hebrew tradition — elevating them into the priesthood through formal honors, institutional appointments, and structural recognition. Once elevated, their internal authority is deployed as sanctifying imprimatur for the pyramid's account of that civilization: *the senior scholars from inside the civilization itself agree with us*. The elevation produces the agreement. The colonial honors system — knighthoods, fellowships, council seats, chair appointments, royal-society memberships — is the specific elevation-rite that converts internal authority into dogma-sanctifying imprimatur. Appendix Part 1 documents how this outward absorption shaped the colonial Sanskrit-knowledge enterprise.
+Priests of progress do more than protect doctrine inside their institutions. They also recruit respected scholars from the civilizations the pyramid has turned into objects of study. These scholars already carry authority within their own traditions. The church gives them institutional rank and public prestige, then uses their agreement as its seal of approval: *even senior scholars from inside the civilization agree with us.* The institution selects the agreement that it later cites.
+
+The British Empire used this method openly. It knighted selected scholars, admitted them to learned societies, and appointed them to councils and academic chairs. Those honors converted authority earned within Indian society into support for the colonial account of India. Appendix Part 1 documents how this recruitment shaped the colonial study of Sanskrit.
 
 Academic institutions continued the colonial operation after formal empire ended. The asuric pyramid has now opened another front in its war against Sanskrit: readers are taught to hate the language as an instrument of elite power, although Sanskrit’s calibrant architecture does the exact opposite by distributing authority.[NOTE: pollock-sanskrit-cosmopolis-position-3] A multimillion-dollar gift from an Indian family funded a major academic translation project that circulated this hate-driven narrative.[NOTE: murty-library-gift-gate]
 
@@ -172,17 +174,21 @@ The Hindu continuum condemns this kind of gatekeeping through **बन्दि�
 
 In the *Vana Parva* of the *Mahābhārata*, Bandin presides over King Janaka's court against challengers. He has defeated learned men before him. The young **अष्टावक्र (*Aṣṭāvakra*)**, twisted in body and young in years, comes to challenge him. Bandin's first move is procedural. The gate asks: Who are you? What standing do you have? Who recognized you as worthy to enter?
 
-Because Aṣṭāvakra defeats the gate before he defeats Bandin, he fundamentally exposes the fraud: a council that judges by age, appearance, and external standing before ever hearing the argument is not a council of the learned, but a council of fools. Therefore, the lineage's verdict is clear: the hero is Aṣṭāvakra, and the villain is Bandin.[NOTE: ashtavakra-bandin-mahabharata]
+Before Aṣṭāvakra defeats Bandin in debate, he defeats the gate that tries to keep him out. The council judges his youth, his body, and his standing before its members hear a word of his argument. Aṣṭāvakra exposes the fraud: learned men who judge a thinker by outward appearance are not a council of the learned. They are a council of fools. The Mahābhārata identifies its hero and villain plainly. Aṣṭāvakra is the hero. Bandin is the villain.[NOTE: ashtavakra-bandin-mahabharata]
 
 The debate was not peer review. It was **शास्त्रार्थ (*śāstrārtha*)**: knowledge tested in public. The audience was not a hidden committee of institutionally approved insiders. The audience was the court itself — learners, citizens, visitors, retinue, witnesses. The verdict was rendered by demonstration, not by anonymous gatekeeping. The structural difference remains: *śāstrārtha* democratizes knowledge because the audience is structurally present. Peer review concentrates verdict in a sub-class invisible to the audience and unaccountable to it.
+
+Peer review means exactly what the name says: recognized peers review one another. The academic pyramid decides who qualifies as a peer. Only people admitted to its recognized tiers may participate in the verdict, no matter who found the error or produced the better argument.
+
+Open-source software demonstrates another architecture. Anyone can inspect the code and run it. When the code fails, anyone can identify the failure and submit a correction. Maintainers decide what enters the repository, but the code, the criticism, and the response remain public. An outsider does not need prior certification to demonstrate an error. The correction itself establishes its value.
 
 The contemporary Bandin sits on an editorial board, grant panel, appointments committee, or review desk. Although his language has changed, his underlying structure has not. By declaring that an argument falls outside scholarly consensus or fails to meet disciplinary standards, the debate is pre-emptively decided by controlling who may even enter it.
 
 Bandin's gate has pre-empted the engineered Sanskrit thesis with a strict circular mechanism: journals confer reputability, which dictates admissibility, which ultimately decides whether an argument is even allowed to be heard.
 
-The verdict remains the same. The hero is the challenger denied standing. The villain is the gatekeeper who treats authorization as truth.
+The Mahābhārata identifies Aṣṭāvakra as the hero and Bandin as the villain. This chapter applies the same judgment to their modern counterparts. The gatekeeper who uses institutional authorization to decide what is true repeats Bandin's role. The challenger who breaks through the gate and brings the argument before the public repeats Aṣṭāvakra's.
 
-*Sanātan* preserved a different mechanism for thousands of years: let the challenger enter, hear the argument in public, and judge by demonstration. The modern gate keeps repeating a problem the civilization had already resolved.
+For thousands of years, *Sanātan* preserved another way: admit the challenger, hear the argument in public, and decide through demonstration. Modern peer review rebuilds the gate around a problem the civilization had already solved.
 
 ## 4.6 The Asuric Pyramid
 

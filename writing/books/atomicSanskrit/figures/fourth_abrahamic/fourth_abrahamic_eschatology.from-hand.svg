@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1140 1224" width="4.5in" height="4.832in" preserveAspectRatio="xMidYMid meet" xml:space="preserve">
+  <rect x="0" y="0" width="1140" height="1224" fill="#f4f4f3"/>
+  <g font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif" letter-spacing="0">
+    <text x="40" y="78" font-size="38.06" font-weight="700" fill="#2b2b2d">Same Structure, Four Vocabularies</text>
+    <text x="40" y="116" font-size="27.68" fill="#4a4136">Each version declares an origin, promises a utopia,</text>
+    <text x="40" y="150" font-size="27.68" fill="#4a4136">and names the apocalypse that clears its path.</text>
+    <line x1="40" y1="174" x2="1129.44" y2="174" stroke="#2b2b2d" stroke-width="1.4"/>
+
+    <text x="40" y="214" font-size="27.68" font-weight="700" fill="#9a7833">05</text>
+    <text x="80" y="214" font-size="32.87" font-weight="700" fill="#2b2b2d"> Cosmogony — The Origin</text>
+    <line x1="40" y1="221" x2="1129.44" y2="221" stroke="#c3b9a3" stroke-width="1"/>
+
+    <rect x="40" y="238" width="211.33" height="40.1" rx="2" fill="#ece4d3" stroke="#c3b9a3" stroke-width="0.9"/>
+    <text x="48" y="264" font-size="27.68" font-weight="700" fill="#2b2b2d">Judaism</text>
+    <text x="273.33" y="264" font-size="27.68" fill="#4a4136">Genesis: God creates the heavens and the earth.</text>
+
+    <rect x="40" y="294" width="211.33" height="40.1" rx="2" fill="#d9ccb2"/>
+    <text x="48" y="320" font-size="27.68" font-weight="700" fill="#2b2b2d">Christianity</text>
+    <text x="273.33" y="320" font-size="27.68" fill="#4a4136">Creation through the Word; all things begin through Christ.</text>
+
+    <rect x="40" y="350" width="211.33" height="40.1" rx="2" fill="#aa9a7a"/>
+    <text x="48" y="376" font-size="27.68" font-weight="700" fill="#ffffff">Islam</text>
+    <text x="273.33" y="376" font-size="27.68" fill="#4a4136">Allah commands creation: “Be,” and it is.</text>
+
+    <rect x="40" y="406" width="211.33" height="40.1" rx="2" fill="#4a3f30"/>
+    <text x="48" y="432" font-size="27.68" font-weight="700" fill="#f3f2ef">Progressivism</text>
+    <text x="273.33" y="428" font-size="27.68" fill="#4a4136">The Big Bang: time and space emerge under impersonal</text>
+    <text x="273.33" y="463" font-size="27.68" fill="#4a4136">physical law.</text>
+
+    <text x="40" y="516" font-size="27.68" font-weight="700" fill="#9a7833">06</text>
+    <text x="80" y="516" font-size="32.87" font-weight="700" fill="#2b2b2d"> Eschatology — The Utopia</text>
+    <line x1="40" y1="523" x2="1129.44" y2="523" stroke="#c3b9a3" stroke-width="1"/>
+
+    <rect x="40" y="540" width="211.33" height="40.1" rx="2" fill="#ece4d3" stroke="#c3b9a3" stroke-width="0.9"/>
+    <text x="48" y="566" font-size="27.68" font-weight="700" fill="#2b2b2d">Judaism</text>
+    <text x="273.33" y="566" font-size="27.68" fill="#4a4136">The Messianic Age and promised restoration.</text>
+
+    <rect x="40" y="596" width="211.33" height="40.1" rx="2" fill="#d9ccb2"/>
+    <text x="48" y="622" font-size="27.68" font-weight="700" fill="#2b2b2d">Christianity</text>
+    <text x="273.33" y="622" font-size="27.68" fill="#4a4136">The Kingdom of Heaven, Second Coming, and New Jerusalem.</text>
+
+    <rect x="40" y="652" width="211.33" height="40.1" rx="2" fill="#aa9a7a"/>
+    <text x="48" y="678" font-size="27.68" font-weight="700" fill="#ffffff">Islam</text>
+    <text x="273.33" y="678" font-size="27.68" fill="#4a4136"><tspan font-style="italic">Jannah</tspan><tspan>, paradise for the faithful.</tspan></text>
+
+    <rect x="40" y="708" width="211.33" height="40.1" rx="2" fill="#4a3f30"/>
+    <text x="48" y="734" font-size="27.68" font-weight="700" fill="#f3f2ef">Progressivism</text>
+    <text x="273.33" y="730" font-size="27.68" fill="#4a4136">Total emancipation, perfect equity, technological transcendence,</text>
+    <text x="273.33" y="765" font-size="27.68" fill="#4a4136">or the end of history.</text>
+
+    <text x="40" y="818" font-size="27.68" font-weight="700" fill="#9a7833">07</text>
+    <text x="80" y="818" font-size="32.87" font-weight="700" fill="#2b2b2d"> Eschatology — The Apocalypse</text>
+    <line x1="40" y1="825" x2="1129.44" y2="825" stroke="#c3b9a3" stroke-width="1"/>
+
+    <rect x="40" y="842" width="211.33" height="40.1" rx="2" fill="#ece4d3" stroke="#c3b9a3" stroke-width="0.9"/>
+    <text x="48" y="868" font-size="27.68" font-weight="700" fill="#2b2b2d">Judaism</text>
+    <text x="273.33" y="864" font-size="27.68" fill="#4a4136">The Day of the Lord, judgment, and defeat of those</text>
+    <text x="273.33" y="899" font-size="27.68" fill="#4a4136">obstructing restoration.</text>
+
+    <rect x="40" y="918" width="211.33" height="40.1" rx="2" fill="#d9ccb2"/>
+    <text x="48" y="944" font-size="27.68" font-weight="700" fill="#2b2b2d">Christianity</text>
+    <text x="273.33" y="940" font-size="27.68" fill="#4a4136">Revelation, final judgment, and destruction before the</text>
+    <text x="273.33" y="975" font-size="27.68" fill="#4a4136">perfected replacement.</text>
+
+    <rect x="40" y="994" width="211.33" height="40.1" rx="2" fill="#aa9a7a"/>
+    <text x="48" y="1020" font-size="27.68" font-weight="700" fill="#ffffff">Islam</text>
+    <text x="273.33" y="1016" font-size="27.68" fill="#4a4136"><tspan font-style="italic">Yawm al-Qiyāmah</tspan><tspan>, judgment, and punishment in</tspan></text>
+    <text x="273.33" y="1051" font-size="27.68" font-style="italic" fill="#4a4136">Jahannam.</text>
+
+    <rect x="40" y="1070" width="211.33" height="40.1" rx="2" fill="#4a3f30"/>
+    <text x="48" y="1096" font-size="27.68" font-weight="700" fill="#f3f2ef">Progressivism</text>
+    <text x="273.33" y="1092" font-size="27.68" fill="#4a4136">Climate catastrophe becomes judgment day. One prescribed</text>
+    <text x="273.33" y="1127" font-size="27.68" fill="#4a4136">“solution” promises salvation; anyone who questions it becomes</text>
+    <text x="273.33" y="1162" font-size="27.68" fill="#4a4136">a denier.</text>
+  </g>
+</svg>

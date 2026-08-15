@@ -741,6 +741,63 @@ def _outline_multiline_text_element(attrs: dict[str, str], inner: str) -> str | 
     return f'<g fill="{fill}"{extra_attrs}>{"".join(lines)}</g>'
 
 
+_G_FONT_FAMILY_OPEN_RE = re.compile(r'<g\b[^>]*\bfont-family="([^"]*)"[^>]*>')
+_G_TAG_RE = re.compile(r'<g\b[^>]*?(/?)>|</g>')
+_TEXT_NO_FONT_FAMILY_OPEN_RE = re.compile(r'<text\b(?![^>]*\bfont-family=)[^>]*>')
+
+
+def _push_down_ancestor_font_family(svg_content: str) -> str:
+    """Make an inherited font-family explicit on every `<text>` that
+    doesn't declare its own.
+
+    A `<g font-family="...">` wrapping a flat run of `<text>` children is
+    valid, ordinary SVG — the children inherit the family via normal CSS
+    cascade rules, same as a `<g fill="...">` wrapper elsewhere in this
+    module's own shadow-fix output. But every risky-font / Devanagari
+    check in this file inspects only an individual `<text>`/`<tspan>`
+    element's own attributes (defaulting to "sans-serif" when absent) —
+    it never walks up to an ancestor. A group using this pattern with the
+    confirmed-buggy RISKY_LATIN_FONT_MARKER stack is therefore invisible
+    to outline_devanagari_in_svg() even when its text contains exactly
+    the letter sequences ('fo', 'ft') the bug corrupts. Confirmed
+    2026-08-14 on fourth_abrahamic_eschatology.svg: 'Four' and 'before'
+    sat unprotected inside such a wrapper.
+
+    Runs once, before every other pass, so the existing per-element
+    detection just works afterward without needing to know about
+    ancestors at all."""
+    out = svg_content
+    idx = 0
+    while True:
+        m = _G_FONT_FAMILY_OPEN_RE.search(out, idx)
+        if not m:
+            break
+        family = m.group(1)
+        open_end = m.end()
+        depth = 1
+        i = open_end
+        while depth > 0:
+            tm = _G_TAG_RE.search(out, i)
+            if not tm:
+                raise RuntimeError("unbalanced <g> in _push_down_ancestor_font_family")
+            if tm.group(0) == '</g>':
+                depth -= 1
+                close_start, close_end = tm.start(), tm.end()
+            else:
+                if not tm.group(1):
+                    depth += 1
+                close_start = close_end = None
+            i = tm.end()
+        inner = out[open_end:close_start]
+        pushed = _TEXT_NO_FONT_FAMILY_OPEN_RE.sub(
+            lambda tm: tm.group(0)[:-1] + f' font-family="{family}">',
+            inner,
+        )
+        out = out[:open_end] + pushed + out[close_start:]
+        idx = close_end
+    return out
+
+
 def outline_devanagari_in_svg(svg_content: str) -> tuple[str, int, list[str]]:
     """Replace every `<text>` element that needs it with an equivalent
     outlined `<g>` — either because it contains Devanagari (including ones
@@ -752,6 +809,7 @@ def outline_devanagari_in_svg(svg_content: str) -> tuple[str, int, list[str]]:
     """
     warnings: list[str] = []
     count = 0
+    svg_content = _push_down_ancestor_font_family(svg_content)
 
     # --- textPath pass (arc-band labels) — runs first, on the untouched
     # original content, since a <text><textPath>...</textPath></text>
