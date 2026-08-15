@@ -55,6 +55,7 @@ live in the project's `.venv-figures/` virtualenv, not the system Python.
 
 from __future__ import annotations
 
+import html
 import math
 import re
 from dataclasses import dataclass
@@ -440,9 +441,24 @@ def _outline_run_on_path(
 
 
 def _split_runs(text: str) -> list[tuple[str, bool]]:
-    """Split into maximal runs of (substring, is_devanagari)."""
+    """Split into maximal runs of (substring, is_devanagari).
+
+    text arrives here straight from a regex capture on the raw SVG
+    source, so it's still XML-escaped -- an apostrophe written as
+    &#39; (valid, common XML/SVG-authoring-tool output) shapes and
+    outlines as the literal six characters '&#39;' if not unescaped
+    first. Confirmed real 2026-08-15: korean_extracted_engineered_
+    script.svg baked "k&#39;" instead of "k'" onto the page, on both
+    local and amrut renders identically -- not a version artifact,
+    a genuine missing unescape. html.unescape() correctly handles
+    both named (&amp;, &lt;) and numeric (&#39;, &#x2019;) references,
+    which covers the whole XML entity set this file ever needs to
+    round-trip. The live-text output path in _render_segments()
+    re-escapes before writing back out, so this doesn't leave
+    invalid XML behind for any segment that ends up staying live."""
     if not text:
         return []
+    text = html.unescape(text)
     runs: list[tuple[str, bool]] = []
     cur = text[0]
     cur_is_deva = bool(_DEVANAGARI_CHAR_RE.match(text[0]))
@@ -525,10 +541,17 @@ def _render_segments(
             )
         else:
             style_attr = f' font-style="{seg.font_style}"' if seg.font_style != "normal" else ""
+            # seg.text was unescaped in _split_runs for correct shaping/
+            # measurement even on segments that end up here, live rather
+            # than outlined -- re-escape & and < (the two that are ever
+            # mandatory inside XML text content) before writing it back
+            # out, or an unescaped &amp; source entity would round-trip
+            # into a bare & here and corrupt the SVG.
+            safe_text = seg.text.replace("&", "&amp;").replace("<", "&lt;")
             pieces.append(
                 f'<text x="{cursor_px:.2f}" y="{y:.2f}" font-family="{seg.live_font_family}" '
                 f'font-size="{seg.font_size:.2f}" fill="{fill}" dominant-baseline="{dominant_baseline}"'
-                f'{style_attr} xml:space="preserve">{seg.text}</text>'
+                f'{style_attr} xml:space="preserve">{safe_text}</text>'
             )
         cursor_px += width_px
 
