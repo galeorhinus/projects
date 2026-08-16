@@ -34,6 +34,7 @@ import json
 import re
 import sys
 import urllib.error
+import urllib.parse
 import urllib.request
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
@@ -72,7 +73,24 @@ def normalize_anchor(text: str) -> str:
 
 
 def fetch_live_text(uri: str) -> str:
-    req = urllib.request.Request(uri, headers={"User-Agent": "dashboard_api/1.0"})
+    """Fetch the deployed page's rendered text -- NOT via the public
+    https://secondshanti.org URL. /as/book/* is gated by Google OAuth
+    (302s to a login page for any unauthenticated request, this
+    service included), so a plain fetch of the public URL would only
+    ever see the login redirect and never the real content -- which
+    would make the "still live?" check always report false and defeat
+    the entire point of it silently. This service runs ON amrut, so it
+    hits the same internal loopback origin (127.0.0.1:18080) that
+    oauth2-proxy itself proxies AUTHENTICATED requests to -- no auth
+    needed, since that listener only binds to localhost and trusts
+    everything upstream of it (Caddy's public block) to have already
+    gated access. Caught live 2026-08-16 before this ever shipped."""
+    path = urllib.parse.urlsplit(uri).path
+    internal_url = f"http://127.0.0.1:18080{path}"
+    req = urllib.request.Request(
+        internal_url,
+        headers={"User-Agent": "dashboard_api/1.0", "Host": "secondshanti.org"},
+    )
     with urllib.request.urlopen(req, timeout=15) as resp:
         raw = resp.read().decode("utf-8", errors="replace")
     return strip_html(raw)
