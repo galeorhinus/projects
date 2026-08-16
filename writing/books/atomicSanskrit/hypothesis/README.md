@@ -82,25 +82,39 @@ Two separate cadences, added 2026-08-17 so the dashboard can be a
 near-real-time default view instead of only refreshing twice a day:
 
 ```
-refresh_dashboard.sh   -- pull + tag + rebuild the dashboard.
-                          Every 15 minutes via plain cron (no gating
-                          needed -- "every 15 minutes" has no timezone
-                          dependency, unlike a fixed wall-clock time).
-cron_gate.sh            -- digest_send.py only. Runs every minute but
-                          only actually fires at 8am/6pm Chicago (see
-                          "Why not a TZ= line" below) -- an email
-                          notification every 15 minutes would be spam,
-                          not a digest.
-run_pipeline.sh          -- the old all-in-one sequence (pull + tag +
-                          dashboard + digest). Not cron's entry point
-                          anymore; kept as a manual convenience for
-                          testing or forcing everything caught up by
-                          hand in one call.
+refresh_dashboard.sh      -- pull + tag + rebuild the dashboard.
+                             Every 15 minutes via plain cron (no
+                             gating needed -- "every 15 minutes" has
+                             no timezone dependency, unlike a fixed
+                             wall-clock time).
+refresh_dashboard_fast.sh  -- pull + rebuild ONLY, no tagging. Not on
+                             cron -- this is what the dashboard's own
+                             "Refresh now" button calls (see below).
+cron_gate.sh               -- digest_send.py only. Runs every minute
+                             but only actually fires at 8am/6pm
+                             Chicago (see "Why not a TZ= line" below)
+                             -- an email notification every 15
+                             minutes would be spam, not a digest.
+run_pipeline.sh             -- the old all-in-one sequence (pull + tag
+                             + dashboard + digest). Not cron's entry
+                             point anymore; kept as a manual
+                             convenience for testing or forcing
+                             everything caught up by hand in one call.
 ```
 
 The dashboard's own "Refresh now" button (`dashboard_api.py`'s
-`/refresh` route) triggers `refresh_dashboard.sh` on demand too, for
-checking right now instead of waiting up to 15 minutes.
+`/refresh` route) triggers `refresh_dashboard_fast.sh` on demand, for
+checking right now instead of waiting up to 15 minutes. Deliberately
+the FAST script, not the full `refresh_dashboard.sh` -- confirmed live
+2026-08-17: when there's a tagging backlog, `auto_tagger.py`'s
+per-annotation LLM calls could push a full refresh past a minute,
+which made the button feel erratic, and a long-running `fetch()` is
+fragile on top of that (a backgrounded tab or a locked phone can kill
+it silently -- no error, no reload, which read exactly like "the
+button has no callback"). Tagging still happens reliably on its own
+15-minute cycle regardless of whether anyone clicks the button; a
+manual refresh just shows new comments untagged until that next cycle
+catches up.
 
 **The live dashboard**: <https://secondshanti.org/as/private/dashboard/>
 (owner-only). It sits inside `/as/private/*`'s Google-OAuth gate but adds

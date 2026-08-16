@@ -189,15 +189,25 @@ class Handler(BaseHTTPRequestHandler):
         self._handle_reply_post()
 
     def _handle_refresh(self) -> None:
-        """Full pull + tag + rebuild on demand, for the dashboard's own
-        "Refresh now" button -- the background cadence
-        (refresh_dashboard.sh, every 15 minutes via cron) already keeps
-        the page reasonably current, but this exists for "check right
-        now" instead of waiting up to 15 minutes."""
+        """Pull + rebuild on demand, for the dashboard's own "Refresh
+        now" button -- the background cadence (refresh_dashboard.sh,
+        every 15 minutes via cron) already keeps the page reasonably
+        current, but this exists for "check right now" instead of
+        waiting up to 15 minutes.
+
+        Deliberately the FAST script (pull + rebuild only, no tagging)
+        -- confirmed live 2026-08-16: auto_tagger.py's per-annotation
+        LLM calls could push a full refresh past a minute when there
+        was a tagging backlog, which made the button feel erratic, and
+        a long fetch() is fragile on top of that (a backgrounded tab
+        can kill it silently, no error shown, no reload -- "no
+        callback"). Tagging still happens on its own 15-minute cycle
+        regardless of this button; new comments just show up here
+        untagged until that next cycle catches up."""
         try:
             subprocess.run(
-                [str(HYPOTHESIS_DIR / "refresh_dashboard.sh")],
-                cwd=str(HYPOTHESIS_DIR), check=True, capture_output=True, timeout=90, text=True,
+                [str(HYPOTHESIS_DIR / "refresh_dashboard_fast.sh")],
+                cwd=str(HYPOTHESIS_DIR), check=True, capture_output=True, timeout=45, text=True,
             )
         except subprocess.CalledProcessError as e:
             print(f"manual refresh failed: {e}\nstdout: {e.stdout}\nstderr: {e.stderr}", file=sys.stderr)

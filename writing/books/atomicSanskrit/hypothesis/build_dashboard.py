@@ -1097,13 +1097,23 @@ const refreshBtn = document.getElementById("refresh-btn");
 refreshBtn.addEventListener("click", async () => {
   refreshBtn.disabled = true;
   refreshBtn.textContent = "⟳ Refreshing…";
+  // Bounded client-side timeout, on top of the backend now also being
+  // fast by design (pull + rebuild only, no tagging -- see
+  // refresh_dashboard_fast.sh) -- a plain unbounded fetch() can die
+  // silently with no error and no reload if the tab gets backgrounded
+  // or the phone locks mid-wait, which read exactly like "no callback,
+  // had to refresh manually" before this existed.
+  const controller = new AbortController();
+  const timeoutId = setTimeout(() => controller.abort(), 45000);
   let res;
   try {
-    res = await fetch("/as/private/dashboard/api/refresh", { method: "POST" });
+    res = await fetch("/as/private/dashboard/api/refresh", { method: "POST", signal: controller.signal });
   } catch (e) {
-    refreshBtn.textContent = "⟳ Network error — retry";
+    refreshBtn.textContent = e.name === "AbortError" ? "⟳ Timed out — retry" : "⟳ Network error — retry";
     refreshBtn.disabled = false;
     return;
+  } finally {
+    clearTimeout(timeoutId);
   }
   if (!res.ok) {
     refreshBtn.textContent = "⟳ Refresh failed — retry";
