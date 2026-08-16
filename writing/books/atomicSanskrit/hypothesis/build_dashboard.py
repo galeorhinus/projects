@@ -155,11 +155,34 @@ def main() -> int:
     def status_of(annotation_id: str) -> str | None:
         return own_reply_status.get(annotation_id) or parent_status.get(annotation_id)
 
+    # Full conversation per root, for the dashboard's "show conversation"
+    # toggle -- reuses the same thread grouping computed above for
+    # status, just projected down to the fields the card actually needs
+    # to render each message (already sorted chronologically by the
+    # msgs.sort() call above). grouped_reply_ids tracks which reply
+    # annotations landed in some thread, so an orphan reply (references
+    # a root id that isn't in this pull -- a deleted root, or a reply
+    # from outside the synced groups) still renders as its own
+    # standalone card instead of silently vanishing from the page.
+    def message_status(m: dict) -> str | None:
+        return next((t for t in STATUS_TAGS if t in m.get("tags", [])), None)
+
+    thread_by_root = {
+        root_id: [
+            {"id": m["id"], "user": m["user"], "created": m["created"],
+             "text": m["text"], "status": message_status(m)}
+            for m in msgs
+        ]
+        for root_id, msgs in threads.items()
+    }
+    grouped_reply_ids = {m["id"] for msgs in threads.values() for m in msgs}
+
     # Trim to what the page actually renders, and derive the chapter
     # slug once here rather than in client JS.
     rows = []
     for a in annotations:
         status = status_of(a["id"])
+        is_reply = a.get("is_reply", False)
         rows.append({
             "id": a["id"],
             "created": a["created"],
@@ -174,7 +197,9 @@ def main() -> int:
             "text": a["text"],
             "tags": a.get("tags", []),
             "suggested": a.get("suggested_tags", []),
-            "reply": a.get("is_reply", False),
+            "reply": is_reply,
+            "orphan_reply": is_reply and a["id"] not in grouped_reply_ids,
+            "thread": thread_by_root.get(a["id"], []) if not is_reply else [],
             "link": annotation_link(a["id"], a["uri"]),
             "status": status,
             "resolved": status in ("resolved", "acknowledged"),
@@ -778,6 +803,54 @@ main {
 }
 .copy-todo-btn:hover { text-decoration: underline; }
 
+.thread { margin: 10px 0 0; }
+.thread > summary {
+  cursor: pointer;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--accent);
+  list-style: none;
+}
+.thread > summary::-webkit-details-marker { display: none; }
+.thread > summary::before {
+  content: "▸";
+  display: inline-block;
+  width: 1em;
+}
+.thread[open] > summary::before { content: "▾"; }
+.thread-messages {
+  margin-top: 8px;
+  padding-left: 12px;
+  border-left: 2px solid var(--border);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.thread-msg {
+  background: var(--surface-2);
+  border-radius: 8px;
+  padding: 8px 10px;
+}
+.thread-msg-owner {
+  background: transparent;
+  border: 1px solid var(--accent);
+}
+.thread-msg-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 8px;
+  align-items: baseline;
+  font-size: 0.74rem;
+  color: var(--text-muted);
+  margin-bottom: 3px;
+}
+.thread-msg-meta .user { color: var(--text); font-weight: 600; }
+.thread-msg-text {
+  margin: 0;
+  font-size: 0.85rem;
+  white-space: pre-wrap;
+}
+
 footer {
   text-align: center;
   color: var(--text-muted);
@@ -842,6 +915,18 @@ const state = {
   sort: "date-desc",
   hideResolved: true,
   statusFilter: null,  // null | "unresolved" | "resolved" | "acknowledged" | "awaiting-reader" | "reader-replied"
+  justPostedId: null,  // annotation id whose <details class="thread"> should render open on the next render() only -- see postReply()
+};
+
+// Duplicated from dashboard_api.py's CANNED_TEXT -- the two run on
+// opposite sides of an HTTP boundary with no shared module, so this
+// exists purely so postReply()'s optimistic thread-append can show the
+// exact wording that was actually sent when the composer was left
+// blank, instead of a vague placeholder. Keep in sync by hand if the
+// server-side canned text ever changes.
+const CANNED_TEXT = {
+  resolved: "Looks like this has been addressed in a later revision -- confirmed against the live site, not just local edits. Reply if it's still an issue.",
+  acknowledged: "Thank you for flagging this!",
 };
 
 function clusterOf(tag) { return CLUSTERS[tag] || "mechanical"; }
@@ -1000,6 +1085,40 @@ const STATUS_BADGE = {
   "reader-replied": ["reader-replied-badge", "reader replied ↩"],
 };
 
+const OWNER_USER = "rhinusgaleo";
+
+function threadMessageHTML(m) {
+  const badge = STATUS_BADGE[m.status];
+  const statusBadge = badge ? `<span class="${badge[0]}">${badge[1]}</span>` : "";
+  const isOwner = m.user === OWNER_USER;
+  return `<div class="thread-msg${isOwner ? " thread-msg-owner" : ""}">
+    <div class="thread-msg-meta">
+      <span class="user">${escapeHTML(m.user)}</span>
+      <span class="sep">·</span>
+      <span>${fmtDate(m.created)} <span class="ago">(${fmtAgo(m.created)})</span></span>
+      ${statusBadge}
+    </div>
+    <p class="thread-msg-text">${escapeHTML(m.text)}</p>
+  </div>`;
+}
+
+// Every message in the whole back-and-forth (not just one direct
+// reply), flattened and sorted chronologically server-side already --
+// see build_dashboard.py's thread_by_root. Collapsed by default behind
+// a native <details> (no JS state to track across re-renders); opened
+// automatically for the one card the reader just replied to, via
+// state.justPostedId (cleared at the end of render() so it only
+// applies to the render that immediately follows a post).
+function threadHTML(a) {
+  if (!a.thread || !a.thread.length) return "";
+  const n = a.thread.length;
+  const openAttr = state.justPostedId === a.id ? " open" : "";
+  return `<details class="thread"${openAttr}>
+    <summary>${n} repl${n === 1 ? "y" : "ies"} — show conversation</summary>
+    <div class="thread-messages">${a.thread.map(threadMessageHTML).join("")}</div>
+  </details>`;
+}
+
 function cardHTML(a) {
   const tagHTML = a.tags.map(t => tagChipHTML(t, false)).join("") +
                    a.suggested.map(t => tagChipHTML(t, true)).join("");
@@ -1064,6 +1183,7 @@ function cardHTML(a) {
     ${quote}
     <p class="comment">${escapeHTML(a.text)}</p>
     <div class="tags">${tagHTML}</div>
+    ${threadHTML(a)}
     ${resolveControl}
     ${todoControl}
   </article>`;
@@ -1114,7 +1234,23 @@ async function postReply(id, force, btnEl) {
     if (item) {
       item.status = body.tag;
       item.resolved = body.tag === "resolved" || body.tag === "acknowledged";
+      // Optimistic append so the reply shows up in the conversation
+      // immediately, instead of waiting for the next full page load to
+      // pick up the server-side snapshot (dashboard_api.py's
+      // refresh_dashboard_after_reply already wrote the real reply to
+      // disk with its real id/timestamp -- this local stand-in gets
+      // superseded by that on the next reload, harmless in the
+      // meantime since only cosmetic fields like id/timestamp differ).
+      if (!item.thread) item.thread = [];
+      item.thread.push({
+        id: `local-${id}-${Date.now()}`,
+        user: OWNER_USER,
+        created: new Date().toISOString(),
+        text: text || CANNED_TEXT[body.tag] || "(message sent)",
+        status: body.tag,
+      });
     }
+    state.justPostedId = id;
     renderStats();
     render();
     return;
@@ -1277,11 +1413,18 @@ function renderStats() {
 }
 
 function render() {
-  const rows = sortRows(DATA.filter(matches));
+  // Replies that landed in a thread are shown nested inside their
+  // root's "show conversation" toggle (threadHTML above), not as their
+  // own top-level card -- a.orphan_reply is the escape hatch for a
+  // reply whose root isn't in this pull (deleted, or from outside the
+  // synced groups), which still needs to render standalone or it would
+  // silently vanish from the page.
+  const rows = sortRows(DATA.filter(a => (!a.reply || a.orphan_reply) && matches(a)));
   const main = document.getElementById("main");
   main.innerHTML = rows.length
     ? rows.map(cardHTML).join("")
     : '<p class="empty">No annotations match the current filters.</p>';
+  state.justPostedId = null;
 }
 
 document.getElementById("search").addEventListener("input", e => {
