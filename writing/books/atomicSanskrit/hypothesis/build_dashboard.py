@@ -29,6 +29,7 @@ from __future__ import annotations
 
 import argparse
 import json
+from datetime import datetime, timezone
 from pathlib import Path
 
 HYPOTHESIS_DIR = Path(__file__).parent
@@ -181,10 +182,13 @@ def main() -> int:
     clusters_json = json.dumps(TAG_CLUSTERS, ensure_ascii=False)
     cluster_labels_json = json.dumps(CLUSTER_LABELS, ensure_ascii=False)
 
+    built_at = datetime.now(timezone.utc).isoformat()
+
     html = HTML_TEMPLATE.replace("__DATA__", data_json) \
                          .replace("__TAXONOMY__", taxonomy_json) \
                          .replace("__CLUSTERS__", clusters_json) \
-                         .replace("__CLUSTER_LABELS__", cluster_labels_json)
+                         .replace("__CLUSTER_LABELS__", cluster_labels_json) \
+                         .replace("__BUILT_AT__", built_at)
 
     OUTPUT_PATH.write_text(html, encoding="utf-8")
     print(f"Wrote {len(rows)} annotation(s) -> {OUTPUT_PATH}")
@@ -459,23 +463,44 @@ select {
   color: var(--accent);
   border-style: dashed;
 }
-.refresh-btn {
-  border-color: var(--accent);
-  color: var(--accent);
-  font-weight: 600;
+.header-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 16px 24px;
 }
-.refresh-btn:hover:not(:disabled) {
+.header-main { min-width: 0; }
+.header-actions {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 6px;
+  flex-shrink: 0;
+}
+.refresh-btn-big {
+  border: 2px solid var(--accent);
   background: var(--accent);
   color: var(--accent-ink);
+  border-radius: 10px;
+  padding: 14px 30px;
+  font-size: 1.05rem;
+  font-weight: 700;
+  font-family: inherit;
+  cursor: pointer;
+  white-space: nowrap;
 }
-.refresh-btn:disabled {
+.refresh-btn-big:hover:not(:disabled) { filter: brightness(1.1); }
+.refresh-btn-big:disabled {
   opacity: 0.6;
   cursor: default;
 }
-.refresh-note {
-  margin: 4px 0 0;
-  font-size: 0.72rem;
+.built-note {
+  margin: 0;
+  font-size: 0.78rem;
   color: var(--text-muted);
+  text-align: right;
+  font-variant-numeric: tabular-nums;
 }
 
 main {
@@ -678,8 +703,16 @@ a { color: var(--accent); }
 </style>
 
 <header class="top">
-  <h1 class="serif">Reader Margins</h1>
-  <p class="subtitle">Consolidated annotations across every Atomic Sanskrit reading group</p>
+  <div class="header-row">
+    <div class="header-main">
+      <h1 class="serif">Reader Margins</h1>
+      <p class="subtitle">Consolidated annotations across every Atomic Sanskrit reading group</p>
+    </div>
+    <div class="header-actions">
+      <button class="refresh-btn-big" id="refresh-btn">⟳ Refresh now</button>
+      <p class="built-note" id="built-note"></p>
+    </div>
+  </div>
   <div class="stats-hero" id="stats-hero"></div>
   <div class="stats" id="stats"></div>
 </header>
@@ -695,9 +728,7 @@ a { color: var(--accent); }
       <option value="user">By reader</option>
     </select>
     <button class="chip active" id="resolved-toggle">Hide resolved<span class="n" id="resolved-count"></span></button>
-    <button class="chip refresh-btn" id="refresh-btn">⟳ Refresh now</button>
   </div>
-  <p class="refresh-note" id="refresh-note">Auto-refreshes every 15 minutes in the background.</p>
   <div class="filter-row" id="reader-filters"></div>
   <div class="filter-row" id="chapter-filter"></div>
   <div class="filter-row" id="tag-filters"></div>
@@ -712,6 +743,7 @@ const DATA = __DATA__;
 const TAXONOMY = __TAXONOMY__;
 const CLUSTERS = __CLUSTERS__;
 const CLUSTER_LABELS = __CLUSTER_LABELS__;
+const BUILT_AT = "__BUILT_AT__";  // ISO 8601 UTC, set by build_dashboard.py at render time
 
 const state = {
   search: "",
@@ -1062,25 +1094,20 @@ resolvedToggle.addEventListener("click", () => {
 });
 
 const refreshBtn = document.getElementById("refresh-btn");
-const refreshNote = document.getElementById("refresh-note");
 refreshBtn.addEventListener("click", async () => {
   refreshBtn.disabled = true;
   refreshBtn.textContent = "⟳ Refreshing…";
-  refreshNote.textContent = "Pulling from Hypothesis, tagging, and rebuilding -- can take up to a minute.";
   let res;
   try {
     res = await fetch("/as/private/dashboard/api/refresh", { method: "POST" });
   } catch (e) {
-    refreshNote.textContent = "Network error -- try again.";
+    refreshBtn.textContent = "⟳ Network error — retry";
     refreshBtn.disabled = false;
-    refreshBtn.textContent = "⟳ Refresh now";
     return;
   }
   if (!res.ok) {
-    const body = await res.json().catch(() => ({}));
-    refreshNote.textContent = `Refresh failed: ${body.error || `HTTP ${res.status}`} -- try again.`;
+    refreshBtn.textContent = "⟳ Refresh failed — retry";
     refreshBtn.disabled = false;
-    refreshBtn.textContent = "⟳ Refresh now";
     return;
   }
   // Full page reload (not a DATA patch) -- the whole point is to pick
@@ -1089,6 +1116,28 @@ refreshBtn.addEventListener("click", async () => {
   // this session's DATA array was never given.
   window.location.reload();
 });
+
+// "Built X ago" ticks every second, purely local text formatting --
+// per explicit instruction, this must NEVER re-fetch or touch DATA,
+// only reformat the elapsed time since BUILT_AT (embedded at build
+// time, see build_dashboard.py) against the reader's own clock.
+function formatAgo(ms) {
+  const totalSeconds = Math.max(0, Math.floor(ms / 1000));
+  const h = Math.floor(totalSeconds / 3600);
+  const m = Math.floor((totalSeconds % 3600) / 60);
+  const s = totalSeconds % 60;
+  const parts = [];
+  if (h > 0) parts.push(`${h}h`);
+  if (h > 0 || m > 0) parts.push(`${m}m`);
+  parts.push(`${s}s`);
+  return parts.join(" ");
+}
+function tickBuiltNote() {
+  const builtMs = new Date(BUILT_AT).getTime();
+  document.getElementById("built-note").textContent = `Built ${formatAgo(Date.now() - builtMs)} ago`;
+}
+tickBuiltNote();
+setInterval(tickBuiltNote, 1000);
 
 renderStats();
 buildReaderFilters();
