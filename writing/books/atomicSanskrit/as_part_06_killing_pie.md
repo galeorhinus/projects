@@ -4,7 +4,7 @@
 
 ---
 
-With the architecture in the light, the eclipse-device itself comes into view: Rāhu — PIE, the imaginary ancestor placed over the Sun. The blocks that subjugate Sanskrit to it are lifted here.
+With the architecture in the light, the eclipse-device itself comes into view: Rāhu — PIE, the imaginary ancestor placed over the Sun. Part VI removes the blocks that subjugate Sanskrit to it.
 
 The writing-label and early-literature reductions have now fallen with the earlier distortions. The remaining core obstructions are the descent-story and the sibling-language story, the two that subordinate Sanskrit to an invented ancestor.
 

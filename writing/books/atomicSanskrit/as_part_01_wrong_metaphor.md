@@ -22,7 +22,7 @@
 
 At the opening of Part I, the pyramid still stands whole. The first movement targets three blocks. The Descended block places PIE above Sanskrit and turns the recorded language into inherited cargo. The Botanical block describes Sanskrit through plant-parts — roots, stems, branches, and daughter languages — as though the language grew by natural change. The Codified block then claims that Pāṇini stabilized that drifting language by imposing rules on it. Together, these three descriptions conceal the category this book develops: Sanskrit as *saṃskṛti*, a wholly created and calibrated architecture.
 
-![Figure E.5 — How the Shadow Is Cast. Three Blocks: Descended, Botanical, and Codified are targeted while the full eclipse remains in place.](figures/eclipse_spine/eclipse_10_part01_shadow_cast_targets_1_2_3.svg){#fig:eclipse-part01-shadow-cast width=100%}
+![Figure E.5 — How the Shadow Is Cast. Part I targets the Descended, Botanical, and Codified blocks while the full eclipse remains in place.](figures/eclipse_spine/eclipse_10_part01_shadow_cast_targets_1_2_3.svg){#fig:eclipse-part01-shadow-cast width=100%}
 
 The Sun is darkened, not destroyed. Before Pāṇini, the pyramid forces Sanskrit into **प्रकृति (*prakṛti*)**: natural growth, drift, descent, plant-organs, branches, and daughters. After Pāṇini, it invokes the codification myth: grammar, authority, freezing, and standardization. Both descriptions hide the same truth: Sanskrit is **संस्कृति (*saṃskṛti*)** — created order, calibrated architecture, disciplined recurrence.
 

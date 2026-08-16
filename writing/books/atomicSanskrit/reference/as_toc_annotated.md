@@ -220,7 +220,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 ## Part VI — Dispelling Rāhu
 *Not descended, not sibling.*
 
-*The eclipse-device itself — Rāhu, the imaginary ancestor placed over the Sun — comes into view, and the blocks that subordinate Sanskrit to it are lifted: the subcontinental mouth-and-mind evidence, the wrong question, and the dispelling of PIE.*
+*The eclipse-device itself — Rāhu, the imaginary ancestor placed over the Sun — comes into view, and the blocks that subordinate Sanskrit to it are removed: the subcontinental mouth-and-mind evidence, the wrong question, and the dispelling of PIE.*
 
 **Chapter 17 — The Subcontinental Mouth and Mind** — *Establishes that Sanskrit encodes the subcontinent's mouth and mind before the portability thesis is tested: retroflex articulation, reduplication, receiver grammar, doer-demotion, and folded action. The chapter then makes the migration account walk its own claimed northwest route.*
 
