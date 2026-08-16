@@ -54,7 +54,12 @@ SMTP_PORT = 587
 SMTP_USER = "rhinusgaleo@gmail.com"
 DEFAULT_RECIPIENT = "rhinusgaleo@gmail.com"
 
-DASHBOARD_URL = "https://claude.ai/code/artifact/9a78be26-0d05-4c3c-a269-79b26851e095"
+# The live, self-refreshing dashboard on amrut (owner-only login --
+# see the Caddyfile's @dashboard_notowner check), not the Claude
+# Artifact -- the Artifact needs a manual republish and can drift
+# stale, while this one is reinstalled by run_pipeline.sh on every
+# cron run, same data the digest itself was just built from.
+DASHBOARD_URL = "https://secondshanti.org/as/private/dashboard/"
 
 # -- site design tokens, matching templates/landing.html / --
 # request_access.py's INVITE_PAGE_TEMPLATE. Email clients strip
