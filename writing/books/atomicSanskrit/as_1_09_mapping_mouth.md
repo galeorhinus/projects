@@ -22,7 +22,7 @@
 
 The previous chapter surveyed the sounds produced across the Indian subcontinent. It mapped mouth-zones, the retroflex band, contact sounds, nasals, sibilants, and variations in breath. Sanskrit selects from those possibilities and builds an **inventory**. Every selected sonomer becomes a stable sound-unit with an address, a role in grammar, and a method of preservation.
 
-The Vedic mantra describes abundant sound passing through a sieve. The wise refine the sound, select usable sound-particles, and form **वाक् (*Vāk*)** with the mind. **अक्रत (*akrata*)** is a finite plural verb from the dhātu ⟪कृ⟫ (*kṛ*): the wise *formed* Speech. The *varṇamālā* is the ordered result of that selection.
+The chapter's epigraph provides the image that guides this section. It compares the formation of Speech to cleaning grain through a sieve. The wise begin with the sounds the mouth can produce. They refine those sounds with the mind and select the sound-particles that Speech can use reliably. The verb **अक्रत (*akrata*)** states what they did: they *formed* **वाक् (*Vāk*)**, Speech. It is a finite plural verb generated from the dhātu ⟪कृ⟫ (*kṛ*). The *varṇamālā* arranges the selected sonomers in an ordered grid.
 
 The second half adds radiance. Friends recognize friendship in that formed Speech. In separated form, the final pāda says **भद्रा एषां लक्ष्मीः (*bhadrā eṣāṃ lakṣmīḥ*)** is placed **अधि वाचि (*adhi vāci*)** — in Speech: auspicious radiance, the beauty through which order expresses itself. This is the **दिव्यता (*divyatā*)** layer. The verse moves from engineering to radiance.
 
