@@ -64,19 +64,15 @@ Sanskrit's own analysis tracks four actions of the speaking body. **करण (*
 
 Modern phonetics uses corresponding categories: place, manner, aspiration, voicing, and nasality. Because both systems describe the actions of the same speaking body, the atlas can place Sanskrit and the comparison languages on one matrix.[NOTE: language-hotzones-inventory-method]
 
-The comparison begins with Sanskrit's 23-cell base. The ten *mahāprāṇa* stops — ख छ ठ थ फ and घ झ ढ ध भ — are set aside because they add a second distinction through breath. The base contains:
+Figure 8.1 presents the consonants through Sanskrit's own arrangement. Its five columns are the five **स्थानानि (*sthānāni*)**: **कण्ठ्य (*kaṇṭhya*)**, **तालव्य (*tālavya*)**, **मूर्धन्य (*mūrdhanya*)**, **दन्त्य (*dantya*)**, and **ओष्ठ्य (*oṣṭhya*)**. They show where each sound is made.
 
-- five unvoiced unaspirated stops: क च ट त प
-- five voiced unaspirated stops: ग ज ड द ब
-- five nasals: ङ ञ ण न म
-- four *antaḥstha* sounds: य र ल व
-- four *ūṣman* sounds: श ष स ह
+The first four rows contain the **स्पर्श (*sparśa*)** sounds. Sanskrit separates them by breath and voice: **अल्पप्राण अघोष (*alpaprāṇa aghoṣa*)**, **महाप्राण अघोष (*mahāprāṇa aghoṣa*)**, **अल्पप्राण घोष (*alpaprāṇa ghoṣa*)**, and **महाप्राण घोष (*mahāprāṇa ghoṣa*)**. The remaining rows contain the five **अनुनासिक (*anunāsika*)** sounds, four **अन्तःस्थ (*antaḥstha*)** sounds, and four **ऊष्मन् (*ūṣman*)** sounds.
 
-The four surveys compare these twenty-three consonants. Section 8.7 then examines the ten *mahāprāṇa* stops and explains how controlled breath expands the grid.
+The ten *mahāprāṇa* stops — ख छ ठ थ फ and घ झ ढ ध भ — remain in the figure as faded cells. Sanskrit uses them, but the four coverage surveys begin with the twenty-three darker cells: the ten light-breath stops, five nasals, four *antaḥstha* sounds, and four *ūṣman* sounds. Section 8.7 returns to the *mahāprāṇa* rows and explains how controlled breath expands the grid.
 
-![Figure 8.1 — Sanskrit's 23-cell base. The ten *mahāprāṇa* stops appear as faded cells because the coverage surveys compare the base before adding the breath axis.](figures/superset/sanskrit_base_before_mahaprana.svg){#fig:ch8-sanskrit-base-before-mahaprana width=100%}
+![Figure 8.1 — Sanskrit's consonantal arrangement through five *sthāna* columns and seven *prayatna* rows. The ten *mahāprāṇa* stops appear as faded cells because the coverage surveys begin with the 23-cell base.](figures/superset/sanskrit_base_before_mahaprana.svg){#fig:ch8-sanskrit-base-before-mahaprana width=100%}
 
-Each figure combines three languages. A Sanskrit cell counts as covered when at least one of those languages uses a consonant at the same grid address to distinguish words.[NOTE: inventory-atlas-coverage-surveys]
+Each coverage figure combines three languages. It translates their consonants onto the same place × manner grid and counts a Sanskrit base cell as covered when at least one of those languages uses a consonant at the corresponding grid address to distinguish words.[NOTE: inventory-atlas-coverage-surveys]
 
 Every figure uses the same convention. The background grid contains the Sanskrit sonomers in Devanagari. Small markers identify the corresponding consonants used by the three comparison languages. A cell counts as covered when any one of those languages uses that consonantal distinction. The score counts the distinct cells covered by the three languages together; it does not rank them against one another.
 

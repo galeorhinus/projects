@@ -62,7 +62,7 @@ Some part of the anatomy moves toward another part. The active articulator is us
 
 How the contact happens gives the sound its manner. A stop closes the passage and releases it. A fricative narrows the passage until turbulence appears. A nasal closes the mouth while opening the nose. An approximant comes close without producing turbulence. An affricate begins as a stop and releases as a fricative. Voicing and aspiration complete the profile: do the vocal cords vibrate, and how forcefully is breath released? English *p* at the start of *pin* releases with an audible puff; the same *p* in *spin* releases less. Some languages use that difference systematically; English leaves it contextual.
 
-Languages select differently from the instrument's range. English clusters many sounds toward the front and middle of the mouth. Arabic reaches into the pharynx. Mandarin uses retroflex sounds. French uses a uvular *r*. Southern African click languages add suction mechanisms no European language uses systematically.
+Languages select differently from the instrument's range. English clusters many sounds toward the front and middle of the mouth. Arabic reaches into the pharynx. Mandarin uses a small retroflex series of affricates and fricatives, together with an *r*-like approximant. French uses a uvular *r*. Southern African click languages add suction mechanisms no European language uses systematically.
 
 Most consonants are controlled bursts — which is why the tabla analogy works. The hand striking the drumhead is an event of contact; the tongue striking the palate is the same. Tabla *bols* are spoken before they are played because the drum is taught from the mouth. The mouth is the source.[NOTE: tabla-bols-mouth-to-drum]
 

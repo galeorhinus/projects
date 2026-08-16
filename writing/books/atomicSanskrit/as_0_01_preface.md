@@ -48,7 +48,7 @@ Sanskrit and the Vedas provide a living demonstration of calibrant order. The py
 
 The reconstruction proceeds through four interconnected components.
 
-First comes the raw material. The anatomy of the human mouth makes many different sounds possible. Articulatory coordinates describe where and how the body produces each sound. Sanskrit selects a reusable set and assigns each selected sonomer a stable grid address. Those sonomers combine into semantic atoms, which accept grammatical bonds and generate language without losing their identity.
+First comes the raw material. The anatomy of the human mouth makes many different sounds possible. Articulatory coordinates describe where and how the body produces each sound. Sanskrit selects a reusable set of sounds and assigns each one a stable grid address. This book calls each such sound a **sonomer**. Those sonomers combine into semantic atoms, which accept grammatical bonds and generate language without losing their identity.
 
 Second is scope. One architecture uses the *vaidika* and *laukika* domains because exact preservation and new composition create different risks. The Vedic domain preserves controlled variation inside content that will never change. The worldly domain uses tighter limits where that freedom would create collisions.
 

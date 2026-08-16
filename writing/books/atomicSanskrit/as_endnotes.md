@@ -4072,7 +4072,7 @@ Standard references: M. R. Sharma, *Garhwali Phonology* (in *Journal of Linguist
 
 ### `retroflex-global-distribution`
 
-**Short:** The retroflex consonant series — tongue tip curled back to contact the rear hard palate — is *near-universal throughout the subcontinental sound-field* (across every named language from Tamil through Sindhi through Santali) and *rare-to-absent outside it* (Iranian, European, Levantine Semitic, East Asian, Central Asian, African, and Indigenous American languages all lack an independent recurring retroflex series; some Australian indigenous languages and Mandarin's post-alveolar approximation are the principal non-subcontinental cases). The subcontinental concentration is itself the evidence the retroflex series belongs to the region's deep sound-pattern, not a peripheral substrate-acquired or contact-induced layer.
+**Short:** The retroflex consonant series — tongue tip curled back to contact the rear hard palate — is *near-universal throughout the subcontinental sound-field* (across every named language from Tamil through Sindhi through Santali) and *rare-to-absent outside it*. Some Australian indigenous languages preserve independent retroflex series. Standard Mandarin has a small retroflex affricate-and-fricative series, but no retroflex lateral or complete stop-and-nasal row. The subcontinental concentration is itself the evidence the retroflex series belongs to the region's deep sound-pattern, not a peripheral substrate-acquired or contact-induced layer.
 
 **Deployments:** Chapter 8 §8.6 and Chapter 9 §9.3 — the citation anchor for the global-cross-linguistic distribution analysis of the retroflex consonant series.
 
@@ -4085,7 +4085,7 @@ The retroflex consonant series — produced with the tongue tip curled back to c
 - **Iranian plateau** (Old Persian, Avestan, Sogdian, modern Persian, Pashto): no independent recurring retroflex series. (Pashto uses some retroflex consonants influenced by contact with Indic languages along the western frontier of the subcontinent.)
 - **European zone** (Greek, Latin, Germanic, Slavic, Celtic): no retroflex series. (Some modern Swedish, Norwegian, and Sicilian dialects use occasional retroflex articulations that are regional features rather than systematic phonological dimensions.)
 - **Levantine and North African Semitic languages** (Arabic, Aramaic, Hebrew, Akkadian, Amharic, Tigrinya): no retroflex series.
-- **East Asian languages** (Mandarin, Cantonese, other Sinitic varieties, Japanese, Korean, Vietnamese): no retroflex series. (Mandarin's "retroflex" series — the sh, ch, zh, r-initials — is articulated at the post-alveolar position rather than the true curled-back-tongue position of the subcontinental retroflex.)
+- **East Asian languages** (Cantonese, most other Sinitic varieties, Japanese, Korean, Vietnamese): no broad retroflex series. Standard Mandarin is a limited exception: **zh, ch, sh**, and its *r*-initial are commonly transcribed as retroflex or apical-postalveolar. It has no retroflex lateral **ळ [ɭ]**, no retroflex nasal, and no complete retroflex stop row.
 - **Central Asian pastoral region** (Turkic, Mongolic, Tungusic): no retroflex series.
 - **Australian indigenous languages**: some Australian languages use retroflex stops as an independent recurring feature (the Pama-Nyungan family). This is the principal non-subcontinental zone of retroflex prevalence.
 - **African continent** (Niger-Congo, Afro-Asiatic, Nilo-Saharan, Khoe-San): no general retroflex series.

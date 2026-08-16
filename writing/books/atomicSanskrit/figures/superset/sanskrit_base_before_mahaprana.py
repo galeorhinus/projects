@@ -3,11 +3,11 @@
 
 Single-language matrix showing Sanskrit's full consonantal inventory
 with the ten mahāprāṇa stop cells rendered as set aside (faded tint
-+ gray Devanāgarī letter + dashed outline).  Makes Chapter 8's
-comparison target visible before the seven surveys (§§8.6–8.8) begin.
+gray Devanāgarī letter + dashed outline). Makes Chapter 8's
+Sanskrit comparison target clear before the regional surveys begin.
 
-Shares the auto-format layout from quad_overlay.py so the figure
-ships at 4.5" wide alongside the App 4 surveys.
+Uses Sanskrit's *sthāna* and *prayatna* categories. The later coverage
+figures retain the speech-science grid needed to compare other languages.
 """
 from __future__ import annotations
 
@@ -17,7 +17,6 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from _shared.toolkits.vocal_tract.overlay import (
-    MANNERS, MANNER_DISPLAY, PLACE_ABBR, ARTICULATOR_GROUPS,
     harmonize, _polished_color_palette, _xml_escape,
 )
 from _shared.toolkits.vocal_tract import CONFIGS_DIR
@@ -27,21 +26,59 @@ from _shared.toolkits.vocal_tract.quad_overlay import (
     TOP_MARGIN, BOTTOM_MARGIN,
     TITLE_H, SUBTITLE_H, COL_HEADER_H, GROUP_BAND_H, LEGEND_H, CAPTION_H,
     TITLE_FONT_SIZE, SUBTITLE_FONT_SIZE,
-    PILL_FONT_SIZE, ROW_FONT_SIZE, CAPTION_FONT_SIZE, BAND_FONT_SIZE,
-    PILL_H, PILL_RX,
+    ROW_FONT_SIZE, CAPTION_FONT_SIZE, BAND_FONT_SIZE,
     SANSKRIT_BG_SIDE, SANSKRIT_BG_RX, SANSKRIT_TINT, DEVANAGARI_FONT,
-    MANNER_DISPLAY_ORDER, _dev_font_in_cell_pt,
-    _split_row_label,
+    _dev_font_in_cell_pt,
 )
 
 
-# Sanskrit lights these six place columns:
-# 0 BIL, 3 DEN, 6 RET, 7 PAL, 8 VEL, 11 GLO
-SELECTED_PLACES = [0, 3, 6, 7, 8, 11]
+# The atlas uses six modern place columns for Sanskrit. Figure 8.1 folds
+# glottal ह into the traditional kaṇṭhya column and returns to five sthānas.
+STHANA_COLUMNS = [
+    (8, "कण्ठ्य", "velar"),
+    (7, "तालव्य", "palatal"),
+    (6, "मूर्धन्य", "retroflex"),
+    (3, "दन्त्य", "dental"),
+    (0, "ओष्ठ्य", "labial"),
+]
+PLACE_TO_COLUMN = {place: index for index, (place, _, _) in enumerate(STHANA_COLUMNS)}
+PLACE_TO_COLUMN[11] = 0
 
-# The two MANNERS rows that constitute mahāprāṇa.  Row indices into
-# the MANNERS list: 1 = voiceless_asp_stop, 3 = voiced_asp_stop.
-MAHAPRANA_MANNER_ROWS = {1, 3}
+ROW_ORDER = [
+    "alpaprana_aghosa",
+    "mahaprana_aghosa",
+    "alpaprana_ghosa",
+    "mahaprana_ghosa",
+    "anunasika",
+    "antastha",
+    "usman",
+]
+ROW_LABELS = {
+    "alpaprana_aghosa": ("स्पर्श · अल्पप्राण अघोष", "light breath · unvoiced"),
+    "mahaprana_aghosa": ("स्पर्श · महाप्राण अघोष", "heavy breath · unvoiced"),
+    "alpaprana_ghosa": ("स्पर्श · अल्पप्राण घोष", "light breath · voiced"),
+    "mahaprana_ghosa": ("स्पर्श · महाप्राण घोष", "heavy breath · voiced"),
+    "anunasika": ("अनुनासिक", "nasal"),
+    "antastha": ("अन्तःस्थ", "semivowel"),
+    "usman": ("ऊष्मन्", "fricative"),
+}
+HELD_ROWS = {"mahaprana_aghosa", "mahaprana_ghosa"}
+
+
+def sanskrit_row(source_manner: int) -> str:
+    """Collapse modern manner labels into Sanskrit's seven row categories."""
+    return {
+        0: "alpaprana_aghosa",
+        1: "mahaprana_aghosa",
+        2: "alpaprana_ghosa",
+        3: "mahaprana_ghosa",
+        7: "usman",
+        8: "usman",
+        9: "anunasika",
+        10: "antastha",
+        11: "antastha",
+        12: "antastha",
+    }[source_manner]
 
 # Held-aside tint is a lighter version of the active tint
 SANSKRIT_TINT_FADED = "#f0eee8"
@@ -58,27 +95,23 @@ def render() -> str:
     if unc:
         print(f"  warn: unclassified symbols in sanskrit: {unc[:5]}")
 
-    # ---- Filter cells to selected places + remap columns ----
-    place_to_col = {p: i for i, p in enumerate(SELECTED_PLACES)}
-    matrix_cells: set[tuple[int, int]] = {
-        (place_to_col[p], m) for (p, m) in cells if p in place_to_col
-    }
-    matrix_symbols: dict[tuple[int, int], str] = {}
+    # ---- Re-map the atlas inventory into Sanskrit's five sthānas ----
+    matrix_cells: set[tuple[int, str]] = set()
+    matrix_symbols: dict[tuple[int, str], str] = {}
     for (p, m), sym in symbols.items():
-        if p in place_to_col:
-            matrix_symbols[(place_to_col[p], m)] = sym
+        if p not in PLACE_TO_COLUMN:
+            continue
+        cell = (PLACE_TO_COLUMN[p], sanskrit_row(m))
+        matrix_cells.add(cell)
+        matrix_symbols[cell] = sym
 
-    # ---- Manner-row compaction ----
-    rows_used = sorted(
-        {m for (_, m) in matrix_cells},
-        key=lambda m: MANNER_DISPLAY_ORDER.get(m, m),
-    )
-    n_cols = len(SELECTED_PLACES)
+    rows_used = [row for row in ROW_ORDER if any(r == row for _, r in matrix_cells)]
+    n_cols = len(STHANA_COLUMNS)
     n_rows = len(rows_used)
-    row_to_visible = {m: i for i, m in enumerate(rows_used)}
+    row_to_visible = {row: i for i, row in enumerate(rows_used)}
 
     # ---- Counts ----
-    held_cells = {c for c in matrix_cells if c[1] in MAHAPRANA_MANNER_ROWS}
+    held_cells = {c for c in matrix_cells if c[1] in HELD_ROWS}
     base_cells = matrix_cells - held_cells
     n_base = len(base_cells)
     n_held = len(held_cells)
@@ -88,7 +121,9 @@ def render() -> str:
     outer_scale = OUTER_SCALE
     scaled_left = LEFT_MARGIN * outer_scale
     scaled_right = RIGHT_MARGIN * outer_scale
-    scaled_row_label_w = ROW_LABEL_W * outer_scale
+    # Sanskrit names for the four stop rows need a wider label lane than
+    # the speech-science labels used by the comparison figures.
+    scaled_row_label_w = (ROW_LABEL_W + 0.45) * outer_scale
     matrix_w_target = TARGET_CANVAS_W - scaled_left - scaled_row_label_w - scaled_right
     cell_w = matrix_w_target / n_cols
 
@@ -116,14 +151,9 @@ def render() -> str:
     # Outer fonts
     title_font    = TITLE_FONT_SIZE * outer_scale
     subtitle_font = SUBTITLE_FONT_SIZE * outer_scale
-    pill_font     = PILL_FONT_SIZE * outer_scale
     row_font      = ROW_FONT_SIZE * outer_scale
     caption_font  = CAPTION_FONT_SIZE * outer_scale
     band_font     = BAND_FONT_SIZE * outer_scale
-
-    pill_h = PILL_H * outer_scale
-    pill_rx = PILL_RX * outer_scale
-    pill_w = min(0.42 * outer_scale, cell_w * 0.85)
 
     # Cell-internal sizes
     dev_font_in_cell = _dev_font_in_cell_pt(n_cols) / 72
@@ -172,7 +202,8 @@ def render() -> str:
         f'text-anchor="middle" dominant-baseline="middle" '
         f'font-size="{subtitle_font:.4f}" font-style="italic" '
         f'fill="{palette["data"]}" font-family="{font}">'
-        f'Heavy-breath stops set aside (faded) for the chapter’s comparison — '
+        f'<tspan font-family="{DEVANAGARI_FONT}" font-style="normal">महाप्राण</tspan> '
+        f'rows set aside (faded) for the chapter’s comparison — '
         f'<tspan font-style="normal" font-family="{DEVANAGARI_FONT}">'
         f'ख · छ · ठ · थ · फ and घ · झ · ढ · ध · भ</tspan></text>\n'
     )
@@ -223,67 +254,49 @@ def render() -> str:
         )
         x_cursor += (width_active if not is_held else width_held) + inter_gap
 
-    # ---- Articulator-group bands ----
+    # ---- Sanskrit heading for the place axis ----
     band_top = top_margin_s + title_h_s + subtitle_h_s + legend_h_s
-    band_y_baseline = band_top + band_h_s * 0.62
-    band_line_y = band_top + band_h_s * 0.88
-    band_stroke_w = 0.012 * outer_scale
-    band_margin = 0.06 * outer_scale
-    band_tick_h = 0.04 * outer_scale
-    for group_name, group_cols in ARTICULATOR_GROUPS:
-        spanned = [place_to_col[c] for c in group_cols if c in place_to_col]
-        if not spanned:
-            continue
-        c_lo, c_hi = min(spanned), max(spanned)
-        x_lo = matrix_left + c_lo * cell_w + band_margin
-        x_hi = matrix_left + (c_hi + 1) * cell_w - band_margin
-        x_mid = (x_lo + x_hi) / 2
-        body.append(
-            f'  <path d="M {x_lo:.4f} {band_line_y:.4f} '
-            f'L {x_hi:.4f} {band_line_y:.4f}" '
-            f'stroke="{palette["group_arc"]}" stroke-width="{band_stroke_w:.4f}" '
-            f'stroke-linecap="round" />\n'
-        )
-        for x in (x_lo, x_hi):
-            body.append(
-                f'  <path d="M {x:.4f} {band_line_y:.4f} '
-                f'L {x:.4f} {band_line_y - band_tick_h:.4f}" '
-                f'stroke="{palette["group_arc"]}" stroke-width="{band_stroke_w:.4f}" />\n'
-            )
-        body.append(
-            f'  <text x="{x_mid:.4f}" y="{band_y_baseline:.4f}" '
-            f'text-anchor="middle" dominant-baseline="middle" '
-            f'font-size="{band_font:.4f}" letter-spacing="{0.030 * outer_scale:.4f}" '
-            f'fill="{palette["group_arc"]}" font-family="{font}">'
-            f'{group_name}</text>\n'
-        )
+    body.append(
+        f'  <text x="{matrix_left + matrix_w / 2:.4f}" '
+        f'y="{band_top + band_h_s * 0.58:.4f}" '
+        f'text-anchor="middle" dominant-baseline="middle" '
+        f'font-size="{band_font:.4f}" fill="{palette["group_arc"]}" '
+        f'font-family="{font}"><tspan font-family="{DEVANAGARI_FONT}">स्थान</tspan> '
+        f'<tspan font-style="italic">(sthāna)</tspan> · where the sound is made</text>\n'
+    )
 
-    # ---- Column headers: place pills ----
-    pill_y = matrix_top - col_header_h_s / 2 + 0.02 * outer_scale
-    pill_text_max = pill_w / (3.5 * 0.55)
-    pill_font_eff = min(pill_font, pill_text_max)
-    for col_orig in SELECTED_PLACES:
-        i = place_to_col[col_orig]
+    # ---- Column headers: Sanskrit place first, English translation below ----
+    header_y = matrix_top - col_header_h_s / 2 + 0.02 * outer_scale
+    body.append(
+        f'  <text x="{matrix_left - 0.12 * outer_scale:.4f}" '
+        f'y="{header_y - 0.052 * outer_scale:.4f}" '
+        f'text-anchor="end" dominant-baseline="middle" '
+        f'font-size="{row_font:.4f}" fill="{palette["data"]}" '
+        f'font-family="{DEVANAGARI_FONT}">प्रयत्न</text>\n'
+        f'  <text x="{matrix_left - 0.12 * outer_scale:.4f}" '
+        f'y="{header_y + 0.070 * outer_scale:.4f}" '
+        f'text-anchor="end" dominant-baseline="middle" '
+        f'font-size="{caption_font:.4f}" fill="{palette["group_arc"]}" '
+        f'font-family="{font}">prayatna</text>\n'
+    )
+    for i, (_, devanagari, english) in enumerate(STHANA_COLUMNS):
         x = matrix_left + (i + 0.5) * cell_w
         body.append(
-            f'  <rect x="{x - pill_w/2:.4f}" y="{pill_y - pill_h/2:.4f}" '
-            f'width="{pill_w:.4f}" height="{pill_h:.4f}" rx="{pill_rx:.4f}" '
-            f'fill="{palette["pill_fill"]}" stroke="none" />\n'
-        )
-        abbr = PLACE_ABBR.get(col_orig, str(col_orig + 1))
-        body.append(
-            f'  <text x="{x:.4f}" y="{pill_y:.4f}" '
+            f'  <text x="{x:.4f}" y="{header_y - 0.052 * outer_scale:.4f}" '
             f'text-anchor="middle" dominant-baseline="middle" '
-            f'font-size="{pill_font_eff:.4f}" letter-spacing="{0.012 * outer_scale:.4f}" '
-            f'fill="{palette["data"]}" font-family="{font}">'
-            f'{abbr}</text>\n'
+            f'font-size="{row_font:.4f}" fill="{palette["data"]}" '
+            f'font-family="{DEVANAGARI_FONT}">{devanagari}</text>\n'
+            f'  <text x="{x:.4f}" y="{header_y + 0.070 * outer_scale:.4f}" '
+            f'text-anchor="middle" dominant-baseline="middle" '
+            f'font-size="{caption_font:.4f}" fill="{palette["group_arc"]}" '
+            f'font-family="{font}">{english}</text>\n'
         )
 
     # ---- Cell tints (active + faded) ----
     for col, manner_row in sorted(matrix_cells):
         vrow = row_to_visible[manner_row]
         cx, cy = cell_center(col, vrow)
-        is_held = manner_row in MAHAPRANA_MANNER_ROWS
+        is_held = manner_row in HELD_ROWS
         tint = SANSKRIT_TINT_FADED if is_held else SANSKRIT_TINT
         stroke_attr = (
             f' stroke="#9a9384" stroke-width="{held_stroke_w:.4f}" '
@@ -314,35 +327,24 @@ def render() -> str:
             f'stroke="{grid_color}" stroke-width="{grid_w:.4f}" />\n'
         )
 
-    # ---- Row labels (manner names, two-line stacked) ----
-    line_offset = 0.092 * outer_scale
+    # ---- Row labels: Sanskrit prayatna categories, then English gloss ----
     label_x = matrix_left - 0.12 * outer_scale
-    for row_idx in rows_used:
-        i = row_to_visible[row_idx]
+    for row_key in rows_used:
+        i = row_to_visible[row_key]
         y = matrix_top + (i + 0.5) * cell_h
-        manner_name = MANNER_DISPLAY.get(MANNERS[row_idx], MANNERS[row_idx])
-        # Faded row label for held-aside rows
-        is_held_row = row_idx in MAHAPRANA_MANNER_ROWS
+        devanagari, english = ROW_LABELS[row_key]
+        is_held_row = row_key in HELD_ROWS
         label_color = LETTER_COLOR_FADED if is_held_row else palette["data"]
-        lines = _split_row_label(manner_name)
-        if len(lines) == 1:
-            body.append(
-                f'  <text x="{label_x:.4f}" y="{y:.4f}" '
-                f'text-anchor="end" dominant-baseline="middle" '
-                f'font-size="{row_font:.4f}" '
-                f'fill="{label_color}" font-family="{font}">'
-                f'{_xml_escape(lines[0])}</text>\n'
-            )
-        else:
-            for k, line in enumerate(lines):
-                y_line = y + (k - 0.5) * 2 * line_offset
-                body.append(
-                    f'  <text x="{label_x:.4f}" y="{y_line:.4f}" '
-                    f'text-anchor="end" dominant-baseline="middle" '
-                    f'font-size="{row_font:.4f}" '
-                    f'fill="{label_color}" font-family="{font}">'
-                    f'{_xml_escape(line)}</text>\n'
-                )
+        body.append(
+            f'  <text x="{label_x:.4f}" y="{y - 0.057 * outer_scale:.4f}" '
+            f'text-anchor="end" dominant-baseline="middle" '
+            f'font-size="{row_font:.4f}" fill="{label_color}" '
+            f'font-family="{DEVANAGARI_FONT}">{devanagari}</text>\n'
+            f'  <text x="{label_x:.4f}" y="{y + 0.073 * outer_scale:.4f}" '
+            f'text-anchor="end" dominant-baseline="middle" '
+            f'font-size="{caption_font:.4f}" fill="{label_color}" '
+            f'font-family="{font}">{english}</text>\n'
+        )
 
     # ---- Devanāgarī letters in cells ----
     for (col, manner_row), sym in sorted(matrix_symbols.items()):
@@ -350,7 +352,7 @@ def render() -> str:
             continue
         vrow = row_to_visible[manner_row]
         cx, cy = cell_center(col, vrow)
-        is_held = manner_row in MAHAPRANA_MANNER_ROWS
+        is_held = manner_row in HELD_ROWS
         letter_color = LETTER_COLOR_FADED if is_held else palette["data"]
         body.append(
             f'  <text x="{cx:.4f}" y="{cy:.4f}" '
@@ -366,8 +368,8 @@ def render() -> str:
         f'  <text x="{canvas_w/2:.4f}" y="{cap_y:.4f}" '
         f'text-anchor="middle" font-size="{caption_font:.4f}" font-style="italic" '
         f'fill="{palette["data"]}" font-family="{font}">'
-        f'Filled tile = lit cell · faded tile + dashed outline = set aside '
-        f'for §§8.6–8.8.</text>\n'
+        f'Filled tile = reusable base cell; faded tile + dashed outline = '
+        f'<tspan font-family="{DEVANAGARI_FONT}" font-style="normal">महाप्राण</tspan> set aside for §8.7.</text>\n'
     )
 
     svg = (

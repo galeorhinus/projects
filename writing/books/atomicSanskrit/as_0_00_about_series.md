@@ -10,7 +10,7 @@ Of the three Shantis, the second one encompasses how living beings interact with
 
 *Atomic Sanskrit* begins the series with language because Sanskrit preserves this architecture in a form that the reader can still examine directly. Its sounds continue to be recited, people continue to apply its grammar, and its systems of transmission remain alive.
 
-The book follows Sanskrit’s radiant, calibrant, and fractal architecture from the mouth to the language as a whole: sonomer, *akṣara*, *dhātuḥ*, *kriyāpada*, *śabda*, *vākya*, and *sūtra* and Sanskrit as a calibrated language. The Vedas encode this linguistic architecture, while the *Vedāṅga* disciplines explain its operations and support its exact transmission.
+The book follows Sanskrit’s radiant, calibrant, and fractal architecture from the mouth to the language as a whole: its smallest reusable sounds, *akṣara*, *dhātuḥ*, *kriyāpada*, *śabda*, *vākya*, and *sūtra* and Sanskrit as a calibrated language. The Vedas encode this linguistic architecture, while the *Vedāṅga* disciplines explain its operations and support its exact transmission.
 
 **Radiant. Calibrant. Fractal.**
 
