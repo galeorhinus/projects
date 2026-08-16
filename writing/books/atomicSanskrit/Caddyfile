@@ -282,6 +282,19 @@ http://:18080 {
 	@dashboard_notowner {
 		not header X-Forwarded-Email rhinusgaleo@gmail.com
 	}
+
+	# "Mark resolved" button's backend (dashboard_api.py, systemd unit
+	# dashboard-api.service, loopback :8092). Must come before the
+	# static-file /as/private/dashboard/* handler below since it's a
+	# more specific prefix -- same first-match-wins ordering rule as
+	# that handler's own comment explains. handle_path strips the
+	# matched prefix before proxying; the backend doesn't route on path
+	# at all (one POST handler), so this just keeps the URL space tidy.
+	handle_path /as/private/dashboard/api/* {
+		error @dashboard_notowner "Not Found" 404
+		reverse_proxy 127.0.0.1:8092
+	}
+
 	handle /as/private/dashboard/* {
 		error @dashboard_notowner "Not Found" 404
 		try_files {path} {path}/index.html

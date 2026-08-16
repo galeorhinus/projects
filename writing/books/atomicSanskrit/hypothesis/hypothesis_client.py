@@ -118,6 +118,12 @@ class HypothesisClient:
             time.sleep(0.2)  # a light courtesy delay between pages, not a rate-limit workaround
         return results
 
+    def get_annotation(self, annotation_id: str) -> dict:
+        """Fetch one annotation fresh from the API -- used where staleness
+        matters (e.g. dashboard_api.py's live-resolve check), rather than
+        trusting a locally cached pull that might be hours old."""
+        return self._request("GET", f"/annotations/{annotation_id}")
+
     def update_tags(self, annotation_id: str, tags: list[str]) -> dict:
         """PATCH an annotation's tag list (replaces it wholesale -- callers
         that want to add rather than overwrite must merge first)."""

@@ -1,0 +1,26 @@
+[Unit]
+Description=Reader Margins dashboard "Mark resolved" API
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /home/ubuntu/projects/writing/books/atomicSanskrit/hypothesis/dashboard_api.py
+Restart=on-failure
+RestartSec=5
+User=ubuntu
+Group=ubuntu
+WorkingDirectory=/home/ubuntu/projects/writing/books/atomicSanskrit/hypothesis
+
+# Loopback-only (127.0.0.1:8092), reached only through Caddy's
+# reverse_proxy behind the owner-only gate -- see Caddyfile. Runs as
+# ubuntu (not www-data) specifically so it can read token.txt, which is
+# chmod 600 ubuntu:ubuntu, same as the rest of hypothesis/'s secrets.
+# No local writes at all -- it only reads token.txt and talks to the
+# Hypothesis API and the live site over the network -- so ProtectSystem
+# =strict needs no ReadWritePaths.
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+
+[Install]
+WantedBy=multi-user.target

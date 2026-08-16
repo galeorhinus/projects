@@ -420,6 +420,49 @@ main {
 .card.is-resolved {
   opacity: 0.6;
 }
+.resolve-row {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid var(--border);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+}
+.resolve-btn {
+  border: 1px solid var(--accent);
+  background: transparent;
+  color: var(--accent);
+  border-radius: 6px;
+  padding: 4px 12px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+.resolve-btn:hover:not(:disabled) {
+  background: var(--accent);
+  color: var(--accent-ink);
+}
+.resolve-btn:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+.resolve-btn-force {
+  border-color: var(--c-verify-fg);
+  color: var(--c-verify-fg);
+}
+.resolve-btn-force:hover:not(:disabled) {
+  background: var(--c-verify-fg);
+  color: #fff;
+}
+.resolve-warning {
+  font-size: 0.78rem;
+  color: var(--c-verify-fg);
+}
+.resolve-error {
+  font-size: 0.78rem;
+  color: var(--c-verify-fg);
+}
 
 footer {
   text-align: center;
@@ -590,7 +633,12 @@ function cardHTML(a) {
     : "";
   const reply = a.reply ? '<span class="reply-badge">reply</span>' : "";
   const resolved = a.resolved ? '<span class="resolved-badge">resolved</span>' : "";
-  return `<article class="card${a.resolved ? " is-resolved" : ""}">
+  const resolveControl = (!a.resolved && !a.reply)
+    ? `<div class="resolve-row" id="resolve-row-${a.id}">
+         <button class="resolve-btn" onclick="resolveAnnotation('${a.id}', false, this)">Mark resolved</button>
+       </div>`
+    : "";
+  return `<article class="card${a.resolved ? " is-resolved" : ""}" id="card-${a.id}">
     <div class="meta">
       <span class="user">${escapeHTML(a.user)}</span>
       <span class="sep">·</span>
@@ -607,7 +655,44 @@ function cardHTML(a) {
     ${quote}
     <p class="comment">${escapeHTML(a.text)}</p>
     <div class="tags">${tagHTML}</div>
+    ${resolveControl}
   </article>`;
+}
+
+async function resolveAnnotation(id, force, btnEl) {
+  const row = document.getElementById(`resolve-row-${id}`);
+  btnEl.disabled = true;
+  btnEl.textContent = force ? "Marking anyway…" : "Checking live site…";
+  let res;
+  try {
+    res = await fetch("/as/private/dashboard/api/", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ id, force }),
+    });
+  } catch (e) {
+    row.innerHTML = `<span class="resolve-error">Network error -- try again.</span>`;
+    return;
+  }
+  if (!res.ok) {
+    row.innerHTML = `<span class="resolve-error">Failed (HTTP ${res.status}) -- try again.</span>`;
+    return;
+  }
+  const body = await res.json();
+  if (body.status === "resolved") {
+    const item = DATA.find(d => d.id === id);
+    if (item) item.resolved = true;
+    row.innerHTML = "";
+    renderStats();
+    render();
+    return;
+  }
+  if (body.status === "still_live") {
+    row.innerHTML = `<span class="resolve-warning">Still live on the deployed site -- push/deploy first, or</span>
+      <button class="resolve-btn resolve-btn-force" onclick="resolveAnnotation('${id}', true, this)">mark resolved anyway</button>`;
+    return;
+  }
+  row.innerHTML = `<span class="resolve-error">${escapeHTML(body.error || "Unknown error")}</span>`;
 }
 
 function escapeHTML(s) {
