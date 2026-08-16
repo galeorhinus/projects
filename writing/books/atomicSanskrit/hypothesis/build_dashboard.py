@@ -84,6 +84,18 @@ def main() -> int:
     annotations = json.loads(DATA_PATH.read_text())
     taxonomy = json.loads(TAXONOMY_PATH.read_text())["tags"]
 
+    # An annotation counts as resolved when some reply to it (a
+    # separate annotation with "references": [this id]) carries the
+    # "resolved" tag -- see post_replies.py. The reply itself is also
+    # marked resolved so it can be hidden alongside the thing it closes
+    # rather than left dangling in the list on its own.
+    resolved_parent_ids: set[str] = set()
+    resolved_reply_ids: set[str] = set()
+    for a in annotations:
+        if "resolved" in a.get("tags", []) and a.get("references"):
+            resolved_reply_ids.add(a["id"])
+            resolved_parent_ids.update(a["references"])
+
     # Trim to what the page actually renders, and derive the chapter
     # slug once here rather than in client JS.
     rows = []
@@ -104,6 +116,7 @@ def main() -> int:
             "suggested": a.get("suggested_tags", []),
             "reply": a.get("is_reply", False),
             "link": hyp_is_link(a["id"], a["uri"]),
+            "resolved": a["id"] in resolved_parent_ids or a["id"] in resolved_reply_ids,
         })
 
     data_json = json.dumps(rows, ensure_ascii=False).replace("</", "<\\/")
@@ -396,6 +409,17 @@ main {
   border-radius: 999px;
   padding: 1px 8px;
 }
+.resolved-badge {
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--c-positive-fg);
+  background: var(--c-positive-bg);
+  border-radius: 999px;
+  padding: 1px 8px;
+}
+.card.is-resolved {
+  opacity: 0.6;
+}
 
 footer {
   text-align: center;
@@ -426,6 +450,7 @@ a { color: var(--accent); }
       <option value="chapter">By chapter</option>
       <option value="user">By reader</option>
     </select>
+    <button class="chip active" id="resolved-toggle">Hide resolved<span class="n" id="resolved-count"></span></button>
   </div>
   <div class="filter-row" id="reader-filters"></div>
   <div class="filter-row" id="chapter-filter"></div>
@@ -448,6 +473,7 @@ const state = {
   chapter: "",
   tags: new Set(),
   sort: "date-desc",
+  hideResolved: true,
 };
 
 function clusterOf(tag) { return CLUSTERS[tag] || "mechanical"; }
@@ -522,6 +548,7 @@ function buildTagFilters() {
 }
 
 function matches(a) {
+  if (state.hideResolved && a.resolved) return false;
   if (state.readers.size && !state.readers.has(a.user)) return false;
   if (state.chapter && a.chapter !== state.chapter) return false;
   if (state.tags.size) {
@@ -562,7 +589,8 @@ function cardHTML(a) {
     ? `<blockquote>&hellip;${escapeHTML(a.quote_prefix || "")}<mark>${escapeHTML(a.quote)}</mark>${escapeHTML(a.quote_suffix || "")}&hellip;</blockquote>`
     : "";
   const reply = a.reply ? '<span class="reply-badge">reply</span>' : "";
-  return `<article class="card">
+  const resolved = a.resolved ? '<span class="resolved-badge">resolved</span>' : "";
+  return `<article class="card${a.resolved ? " is-resolved" : ""}">
     <div class="meta">
       <span class="user">${escapeHTML(a.user)}</span>
       <span class="sep">·</span>
@@ -572,6 +600,7 @@ function cardHTML(a) {
       <span class="sep">·</span>
       <span>${fmtDate(a.created)}</span>
       ${reply}
+      ${resolved}
       <span class="sep">·</span>
       <a href="${a.link}" target="_blank" rel="noopener">View on Hypothesis &rarr;</a>
     </div>
@@ -591,16 +620,19 @@ function renderStats() {
   const aiOnly = DATA.filter(a => !a.tags.length && a.suggested.length).length;
   const untagged = DATA.filter(a => !a.tags.length && !a.suggested.length).length;
   const readers = uniqueSorted(DATA.map(a => a.user)).length;
+  const resolved = DATA.filter(a => a.resolved).length;
   const stats = [
     ["Annotations", total],
     ["Tagged", tagged],
     ["AI-suggested", aiOnly],
     ["Untagged", untagged],
+    ["Resolved", resolved],
     ["Readers", readers],
   ];
   document.getElementById("stats").innerHTML = stats.map(([label, n]) =>
     `<div class="stat"><span class="n">${n}</span><span class="label">${label}</span></div>`
   ).join("");
+  document.getElementById("resolved-count").textContent = resolved;
 }
 
 function render() {
@@ -617,6 +649,13 @@ document.getElementById("search").addEventListener("input", e => {
 });
 document.getElementById("sort").addEventListener("change", e => {
   state.sort = e.target.value;
+  render();
+});
+const resolvedToggle = document.getElementById("resolved-toggle");
+resolvedToggle.addEventListener("click", () => {
+  state.hideResolved = !state.hideResolved;
+  resolvedToggle.classList.toggle("active", state.hideResolved);
+  resolvedToggle.firstChild.textContent = state.hideResolved ? "Hide resolved" : "Show resolved";
   render();
 });
 

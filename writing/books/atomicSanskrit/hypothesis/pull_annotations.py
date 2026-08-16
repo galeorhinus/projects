@@ -69,6 +69,7 @@ def normalize(annotation: dict, group_name: str) -> dict:
         "uri": annotation.get("uri", ""),
         "document_title": (annotation.get("document", {}).get("title") or [""])[0],
         "is_reply": bool(annotation.get("references")),
+        "references": annotation.get("references", []),
     }
 
 

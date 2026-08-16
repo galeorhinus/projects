@@ -118,6 +118,15 @@ def classify(api_key: str, taxonomy: dict[str, str], quote: str, text: str) -> l
 
 
 def needs_tagging(annotation: dict, taxonomy: dict[str, str]) -> bool:
+    # post_replies.py's own "resolved" tag marks a reply THIS pipeline
+    # generated, not reader content -- it isn't in taxonomy.json (never
+    # meant to be a reader-facing classification), so without this check
+    # every such reply still looks untagged and gets a spurious reader
+    # taxonomy tag piled on top (found live: a "resolved" reply got
+    # tagged "question" too, since Haiku read "reply if it's still an
+    # issue" as a question).
+    if "resolved" in annotation.get("tags", []):
+        return False
     if any(t in taxonomy for t in annotation.get("tags", [])):
         return False
     # A suggestion already on file (own-account or not) means a prior run
