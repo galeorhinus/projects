@@ -44,6 +44,7 @@ from __future__ import annotations
 import html
 import json
 import re
+import subprocess
 import sys
 import urllib.error
 import urllib.parse
@@ -51,12 +52,15 @@ import urllib.request
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 
-sys.path.insert(0, str(Path(__file__).parent))
+HYPOTHESIS_DIR = Path(__file__).parent
+sys.path.insert(0, str(HYPOTHESIS_DIR))
 from hypothesis_client import HypothesisClient, HypothesisError  # noqa: E402
+from pull_annotations import normalize as normalize_annotation, ANNOTATIONS_PATH, GROUPS_PATH  # noqa: E402
 
 BIND_HOST = "127.0.0.1"
 BIND_PORT = 8092
 OWNER_EMAIL = "rhinusgaleo@gmail.com"
+DASHBOARD_INSTALL_PATH = "/var/www/as/private/dashboard/index.html"
 
 VALID_TAGS = {"resolved", "acknowledged", "awaiting-reader"}
 CANNED_TEXT = {
@@ -113,6 +117,35 @@ def fetch_live_text(uri: str) -> str:
     with urllib.request.urlopen(req, timeout=15) as resp:
         raw = resp.read().decode("utf-8", errors="replace")
     return strip_html(raw)
+
+
+def refresh_dashboard_after_reply(reply: dict) -> None:
+    """Append the just-posted reply to the local snapshot and rebuild
+    dashboard.html in place, so the live page reflects this action on
+    the very next load instead of waiting for the next scheduled
+    pipeline run (twice daily via cron). Caught live 2026-08-16: the
+    composer's optimistic client-side update made a resolve look
+    instant, but the reply was never written back into the static
+    snapshot -- a page refresh silently reverted to the pre-resolve
+    count, even though the reply itself was already saved for real on
+    Hypothesis (the write never failed; only the page's own view of it
+    was stale). Local file operations only, no network re-pull, so
+    this stays fast enough to run synchronously in the request."""
+    groups = json.loads(GROUPS_PATH.read_text()) if GROUPS_PATH.exists() else {}
+    group_name = groups.get(reply.get("group"), reply.get("group", ""))
+    record = normalize_annotation(reply, group_name)
+
+    data = json.loads(ANNOTATIONS_PATH.read_text()) if ANNOTATIONS_PATH.exists() else []
+    data = [a for a in data if a.get("id") != record["id"]]  # idempotent on retry
+    data.append(record)
+    data.sort(key=lambda a: a["created"])
+    ANNOTATIONS_PATH.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
+
+    subprocess.run(
+        [sys.executable, str(HYPOTHESIS_DIR / "build_dashboard.py"),
+         "--install", DASHBOARD_INSTALL_PATH],
+        cwd=str(HYPOTHESIS_DIR), check=True, capture_output=True, timeout=30,
+    )
 
 
 def is_anchor_still_live(annotation: dict) -> bool:
@@ -187,10 +220,22 @@ class Handler(BaseHTTPRequestHandler):
 
         reply_text = text or CANNED_TEXT.get(tag, "")
         try:
-            client.create_reply(annotation, reply_text, tags=[tag])
+            reply = client.create_reply(annotation, reply_text, tags=[tag])
         except HypothesisError as e:
             self._send_json(502, {"error": str(e)})
             return
+
+        # The Hypothesis write already succeeded at this point -- that's
+        # the guarantee that actually matters. A rebuild hiccup here
+        # (e.g. build_dashboard.py throwing, or /var/www being briefly
+        # unwritable) shouldn't be reported as the reply itself having
+        # failed; it just means this page load stays stale until the
+        # next successful rebuild (this one's retry, or the next cron
+        # run) instead of updating immediately. Logged, not raised.
+        try:
+            refresh_dashboard_after_reply(reply)
+        except (subprocess.CalledProcessError, subprocess.TimeoutExpired, OSError) as e:
+            print(f"dashboard rebuild after reply failed: {e}", file=sys.stderr)
 
         self._send_json(200, {"status": "posted", "tag": tag})
 
