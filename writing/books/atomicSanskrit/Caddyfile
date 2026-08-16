@@ -274,8 +274,14 @@ http://:18080 {
 	# X-Auth-Request-Email is a DIFFERENT header oauth2-proxy sends back
 	# to the client for nginx's auth_request pattern, never seen here.
 	# Confirmed 2026-08-15 after the first version of this check (which
-	# used X-Auth-Request-Email) 404'd for the owner too.
-	@dashboard_notowner not header X-Forwarded-Email rhinusgaleo@gmail.com
+	# used X-Auth-Request-Email) 404'd for the owner too. The `not` matcher
+	# also needs its own block -- the inline "@name not header X X" form
+	# is undocumented and evaluates wrong; verified live 2026-08-16 via an
+	# isolation test (a temporary `respond` swapped in for `error`) that
+	# the block form below matches correctly.
+	@dashboard_notowner {
+		not header X-Forwarded-Email rhinusgaleo@gmail.com
+	}
 	handle /as/private/dashboard/* {
 		error @dashboard_notowner "Not Found" 404
 		try_files {path} {path}/index.html

@@ -74,7 +74,14 @@ if [ "$missing" -ne 0 ]; then
 fi
 
 echo ">> rsync $SRC/ → $DST/  (${file_count} files)"
-rsync -a --delete "$SRC/" "$DST/"
+# --exclude protects private/dashboard/ from --delete: that path is
+# written directly by hypothesis/build_dashboard.py --install (run by
+# amrut's cron job, hypothesis/run_pipeline.sh), not part of build/html/
+# at all -- without this exclude, --delete silently wipes it on every
+# deploy.sh run since rsync sees it as an extraneous destination file.
+# Bit 2026-08-16: two Caddyfile-only deploys in a row deleted it, which
+# looked exactly like an auth bug (404) until traced back here.
+rsync -a --delete --exclude='private/dashboard/' "$SRC/" "$DST/"
 
 if [ "$SKIP_CADDY" -eq 0 ]; then
 	echo ">> Installing Caddyfile + reloading Caddy..."
