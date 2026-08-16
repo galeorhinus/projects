@@ -76,7 +76,14 @@ When opening a new session:
 1. Read this file.
 2. Read the latest `as_session*_handoff.md` for current state.
 3. Read `working/10_active/as_todo.md` for queued work and priorities.
-4. Confirm what we're working on before editing anything.
+4. Check the Reader Margins dashboard's TODO queue for anything flagged
+   from a reader annotation since the last session: `ssh amrut cat
+   ~/projects/writing/books/atomicSanskrit/hypothesis/data/todo_queue.json`.
+   If non-empty, fold each entry into `as_todo.md` (with a link back to
+   the annotation and its context) and clear the queue -- see
+   `hypothesis/README.md`'s "The TODO queue" section for the full
+   mechanics and why this doesn't happen automatically.
+5. Confirm what we're working on before editing anything.
 
 When closing a session:
 

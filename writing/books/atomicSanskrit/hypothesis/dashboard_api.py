@@ -8,12 +8,16 @@ service ALSO independently checks X-Forwarded-Email itself as
 defense-in-depth: unlike the read-only dashboard, this one can WRITE to
 Hypothesis, so it doesn't rely solely on the reverse-proxy chain.
 
-One endpoint: POST / with
-    {"id": <annotation id>, "text": <optional string>,
-     "tag": "resolved" | "acknowledged" | "awaiting-reader",
-     "force": bool}
+Two POST routes (Caddy's handle_path strips /as/private/dashboard/api,
+so these are the paths left to route on):
 
-Three tags, three different behaviors:
+  POST /            {"id", "text", "tag": "resolved"|"acknowledged"
+                     |"awaiting-reader", "force"} -- reply composer.
+  POST /refresh      pull + rebuild (see refresh_dashboard_fast.sh).
+  POST /todo         {"id", "note", "remove": bool} -- private TODO
+                     queue, see below.
+
+Reply composer: three tags, three different behaviors:
 
   resolved         -- verified against the LIVE deployed chapter page
                        first (not local files or git state -- the whole
@@ -36,6 +40,17 @@ All three post a reply (POST with references: [parent_id], same
 mechanism regardless of who authored the parent -- replying only needs
 create permission in the group, not write permission on the parent).
 
+TODO queue: deliberately NOT a Hypothesis reply -- a personal task note
+("check this reference, expand Ch3") has no business being visible to
+readers in a shared annotation thread the way the composer's replies
+are. Appended instead to data/todo_queue.json, a plain local file that
+never leaves amrut on its own (amrut only ever `git pull`s in this
+project, never pushes) -- reconciled into working/10_active/as_todo.md
+by Claude at the start of the next session working on the manuscript,
+who then clears the queue. Independent of the reply composer: queueing
+a TODO note doesn't touch resolved/acknowledged/awaiting-reader status,
+and both can be used on the same annotation.
+
 Pure standard library, same convention as the rest of this directory.
 """
 
@@ -49,18 +64,25 @@ import sys
 import urllib.error
 import urllib.parse
 import urllib.request
+from datetime import datetime, timezone
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 
 HYPOTHESIS_DIR = Path(__file__).parent
 sys.path.insert(0, str(HYPOTHESIS_DIR))
 from hypothesis_client import HypothesisClient, HypothesisError  # noqa: E402
-from pull_annotations import normalize as normalize_annotation, ANNOTATIONS_PATH, GROUPS_PATH  # noqa: E402
+from pull_annotations import (  # noqa: E402
+    normalize as normalize_annotation,
+    clean_user,
+    ANNOTATIONS_PATH,
+    GROUPS_PATH,
+)
 
 BIND_HOST = "127.0.0.1"
 BIND_PORT = 8092
 OWNER_EMAIL = "rhinusgaleo@gmail.com"
 DASHBOARD_INSTALL_PATH = "/var/www/as/private/dashboard/index.html"
+TODO_QUEUE_PATH = HYPOTHESIS_DIR / "data" / "todo_queue.json"
 
 VALID_TAGS = {"resolved", "acknowledged", "awaiting-reader"}
 CANNED_TEXT = {
@@ -119,6 +141,20 @@ def fetch_live_text(uri: str) -> str:
     return strip_html(raw)
 
 
+def rebuild_dashboard_file() -> None:
+    """Just the rebuild half -- shared by refresh_dashboard_after_reply
+    (which also appends the new reply first) and the TODO queue handler
+    (which needs the freshly-rebuilt page to show the queued badge, but
+    has no annotation record of its own to append -- the queued item is
+    still a normal reader annotation already in the local snapshot,
+    only its queued-for-TODO status changed)."""
+    subprocess.run(
+        [sys.executable, str(HYPOTHESIS_DIR / "build_dashboard.py"),
+         "--install", DASHBOARD_INSTALL_PATH],
+        cwd=str(HYPOTHESIS_DIR), check=True, capture_output=True, timeout=30, text=True,
+    )
+
+
 def refresh_dashboard_after_reply(reply: dict) -> None:
     """Append the just-posted reply to the local snapshot and rebuild
     dashboard.html in place, so the live page reflects this action on
@@ -141,11 +177,7 @@ def refresh_dashboard_after_reply(reply: dict) -> None:
     data.sort(key=lambda a: a["created"])
     ANNOTATIONS_PATH.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
 
-    subprocess.run(
-        [sys.executable, str(HYPOTHESIS_DIR / "build_dashboard.py"),
-         "--install", DASHBOARD_INSTALL_PATH],
-        cwd=str(HYPOTHESIS_DIR), check=True, capture_output=True, timeout=30, text=True,
-    )
+    rebuild_dashboard_file()
 
 
 def is_anchor_still_live(annotation: dict) -> bool:
@@ -167,6 +199,18 @@ def is_anchor_still_live(annotation: dict) -> bool:
     return anchor in live_text
 
 
+def chapter_slug(uri: str) -> str:
+    return uri.rstrip("/").rsplit("/", 1)[-1]
+
+
+def annotation_quote(annotation: dict) -> str:
+    for target in annotation.get("target", []):
+        for selector in target.get("selector", []):
+            if selector.get("type") == "TextQuoteSelector":
+                return selector.get("exact", "")
+    return ""
+
+
 class Handler(BaseHTTPRequestHandler):
     server_version = "DashboardAPI/1.0"
 
@@ -185,6 +229,9 @@ class Handler(BaseHTTPRequestHandler):
         # route) are what's left to route on.
         if self.path.rstrip("/") == "/refresh":
             self._handle_refresh()
+            return
+        if self.path.rstrip("/") == "/todo":
+            self._handle_todo()
             return
         self._handle_reply_post()
 
@@ -218,6 +265,66 @@ class Handler(BaseHTTPRequestHandler):
             self._send_json(502, {"error": str(e)})
             return
         self._send_json(200, {"status": "refreshed"})
+
+    def _handle_todo(self) -> None:
+        """Queue (or un-queue) a private TODO note for one annotation.
+        See the module docstring for why this is a local file, not a
+        Hypothesis reply. {"id", "note", "remove": bool}."""
+        length = int(self.headers.get("Content-Length", 0))
+        try:
+            payload = json.loads(self.rfile.read(length).decode("utf-8"))
+        except (json.JSONDecodeError, UnicodeDecodeError):
+            self._send_json(400, {"error": "bad request body"})
+            return
+
+        annotation_id = (payload.get("id") or "").strip()
+        note = (payload.get("note") or "").strip()
+        remove = bool(payload.get("remove"))
+
+        if not annotation_id:
+            self._send_json(400, {"error": "missing id"})
+            return
+        if not remove and not note:
+            self._send_json(400, {"error": "note required to queue (or pass remove: true)"})
+            return
+
+        queue = json.loads(TODO_QUEUE_PATH.read_text()) if TODO_QUEUE_PATH.exists() else []
+        queue = [e for e in queue if e["id"] != annotation_id]  # idempotent either way
+
+        if not remove:
+            try:
+                client = HypothesisClient()
+                annotation = client.get_annotation(annotation_id)
+            except (HypothesisError, urllib.error.URLError, urllib.error.HTTPError) as e:
+                self._send_json(502, {"error": str(e)})
+                return
+            queue.append({
+                "id": annotation_id,
+                "queued_at": datetime.now(timezone.utc).isoformat(),
+                "user": clean_user(annotation.get("user", "")),
+                "chapter": chapter_slug(annotation.get("uri", "")),
+                "document_title": (annotation.get("document", {}).get("title") or [""])[0],
+                "uri": annotation.get("uri", ""),
+                "quote": annotation_quote(annotation),
+                "reader_comment": annotation.get("text", ""),
+                "note": note,
+            })
+
+        TODO_QUEUE_PATH.parent.mkdir(parents=True, exist_ok=True)
+        TODO_QUEUE_PATH.write_text(json.dumps(queue, indent=2, ensure_ascii=False), encoding="utf-8")
+
+        # Same reasoning as refresh_dashboard_after_reply(): rebuild now
+        # so the queued/un-queued badge survives a page refresh instead
+        # of only updating this tab's in-memory view.
+        try:
+            rebuild_dashboard_file()
+        except subprocess.CalledProcessError as e:
+            print(f"dashboard rebuild after todo change failed: {e}\n"
+                  f"stdout: {e.stdout}\nstderr: {e.stderr}", file=sys.stderr)
+        except (subprocess.TimeoutExpired, OSError) as e:
+            print(f"dashboard rebuild after todo change failed: {e}", file=sys.stderr)
+
+        self._send_json(200, {"status": "removed" if remove else "queued"})
 
     def _handle_reply_post(self) -> None:
         length = int(self.headers.get("Content-Length", 0))

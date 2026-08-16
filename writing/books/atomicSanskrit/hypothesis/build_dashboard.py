@@ -35,6 +35,7 @@ from pathlib import Path
 HYPOTHESIS_DIR = Path(__file__).parent
 DATA_PATH = HYPOTHESIS_DIR / "data" / "annotations.json"
 TAXONOMY_PATH = HYPOTHESIS_DIR / "taxonomy.json"
+TODO_QUEUE_PATH = HYPOTHESIS_DIR / "data" / "todo_queue.json"
 OUTPUT_PATH = HYPOTHESIS_DIR / "dashboard.html"
 
 # Six semantic clusters group the nine taxonomy tags by what kind of
@@ -97,6 +98,8 @@ def main() -> int:
 
     annotations = json.loads(DATA_PATH.read_text())
     taxonomy = json.loads(TAXONOMY_PATH.read_text())["tags"]
+    todo_queue = json.loads(TODO_QUEUE_PATH.read_text()) if TODO_QUEUE_PATH.exists() else []
+    todo_notes = {e["id"]: e["note"] for e in todo_queue}
 
     # An annotation's status comes from the LATEST message in its whole
     # reply thread, not just a single direct reply -- otherwise a
@@ -175,6 +178,7 @@ def main() -> int:
             "link": annotation_link(a["id"], a["uri"]),
             "status": status,
             "resolved": status in ("resolved", "acknowledged"),
+            "todo_note": todo_notes.get(a["id"]),
         })
 
     data_json = json.dumps(rows, ensure_ascii=False).replace("</", "<\\/")
@@ -689,6 +693,90 @@ main {
   font-size: 0.78rem;
   color: var(--c-verify-fg);
 }
+.todo-row {
+  margin-top: 8px;
+  padding: 10px 12px;
+  border: 1px dashed var(--c-precision-fg);
+  border-radius: 8px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+}
+.todo-text {
+  flex: 1;
+  min-width: 200px;
+  resize: vertical;
+  font-family: inherit;
+  font-size: 0.85rem;
+  padding: 6px 9px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--surface);
+  color: var(--text);
+  box-sizing: border-box;
+}
+.todo-text:focus {
+  outline: 2px solid var(--c-precision-fg);
+  outline-offset: -1px;
+}
+.todo-btn {
+  border: 1px solid var(--c-precision-fg);
+  background: transparent;
+  color: var(--c-precision-fg);
+  border-radius: 6px;
+  padding: 5px 12px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  font-family: inherit;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.todo-btn:hover:not(:disabled) {
+  background: var(--c-precision-fg);
+  color: #fff;
+}
+.todo-btn:disabled { opacity: 0.6; cursor: default; }
+.todo-badge {
+  font-size: 0.76rem;
+  font-weight: 600;
+  color: var(--c-precision-fg);
+  white-space: nowrap;
+}
+.todo-note-text {
+  flex: 1;
+  min-width: 150px;
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  font-style: italic;
+}
+.todo-remove-btn {
+  border: none;
+  background: transparent;
+  color: var(--text-muted);
+  font-size: 0.74rem;
+  text-decoration: underline;
+  cursor: pointer;
+  font-family: inherit;
+  padding: 0;
+}
+.todo-remove-btn:hover { color: var(--c-verify-fg); }
+.todo-error {
+  font-size: 0.76rem;
+  color: var(--c-verify-fg);
+  width: 100%;
+}
+.copy-todo-btn {
+  border: none;
+  background: transparent;
+  color: var(--accent);
+  font-size: inherit;
+  font-family: inherit;
+  cursor: pointer;
+  padding: 0;
+  text-decoration: none;
+}
+.copy-todo-btn:hover { text-decoration: underline; }
 
 footer {
   text-align: center;
@@ -939,6 +1027,25 @@ function cardHTML(a) {
          </div>
        </div>`
     : "";
+  // Independent of the reply composer above -- a private note-to-self,
+  // never posted to Hypothesis (see dashboard_api.py's module
+  // docstring). Not tied to resolved/acknowledged status: you might
+  // still want a TODO after already replying to the reader. Not shown
+  // on reply rows -- a TODO is about the READER's comment, not our own
+  // reply to it.
+  const todoControl = a.reply ? "" : (
+    a.todo_note
+      ? `<div class="todo-row" id="todo-row-${a.id}">
+           <span class="todo-badge">📌 Queued for TODO</span>
+           <span class="todo-note-text">${escapeHTML(a.todo_note)}</span>
+           <button class="todo-remove-btn" onclick="removeTodo('${a.id}', this)">Remove</button>
+         </div>`
+      : `<div class="todo-row" id="todo-row-${a.id}">
+           <textarea class="todo-text" id="todo-text-${a.id}" rows="1" placeholder="Private note for as_todo.md (not visible to readers)…"></textarea>
+           <button class="todo-btn" onclick="postTodo('${a.id}', this)">📌 Add to TODO</button>
+         </div>`
+  );
+  const copyBtn = a.reply ? "" : `<button class="copy-todo-btn" onclick="copyAsTodo('${a.id}', this)" title="Copy as a markdown TODO line">📋 Copy</button>`;
   return `<article class="card${a.resolved ? " is-resolved" : ""}" id="card-${a.id}">
     <div class="meta">
       <span class="user">${escapeHTML(a.user)}</span>
@@ -952,11 +1059,13 @@ function cardHTML(a) {
       ${statusBadge}
       <span class="sep">·</span>
       <a href="${a.link}" target="_blank" rel="noopener">View on Hypothesis &rarr;</a>
+      ${copyBtn ? `<span class="sep">·</span>${copyBtn}` : ""}
     </div>
     ${quote}
     <p class="comment">${escapeHTML(a.text)}</p>
     <div class="tags">${tagHTML}</div>
     ${resolveControl}
+    ${todoControl}
   </article>`;
 }
 
@@ -1011,6 +1120,83 @@ async function postReply(id, force, btnEl) {
     return;
   }
   row.innerHTML = `<span class="resolve-error">Unexpected response.</span>`;
+}
+
+async function postTodo(id, btnEl) {
+  const row = document.getElementById(`todo-row-${id}`);
+  const textEl = document.getElementById(`todo-text-${id}`);
+  const note = textEl ? textEl.value.trim() : "";
+  if (!note) {
+    if (!row.querySelector(".todo-error")) {
+      row.insertAdjacentHTML("beforeend", '<span class="todo-error">Add a note first.</span>');
+    }
+    return;
+  }
+  btnEl.disabled = true;
+  btnEl.textContent = "📌 Saving…";
+  let res;
+  try {
+    res = await fetch("/as/private/dashboard/api/todo", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ id, note }),
+    });
+  } catch (e) {
+    btnEl.textContent = "📌 Network error — retry";
+    btnEl.disabled = false;
+    return;
+  }
+  if (!res.ok) {
+    btnEl.textContent = "📌 Failed — retry";
+    btnEl.disabled = false;
+    return;
+  }
+  const item = DATA.find(d => d.id === id);
+  if (item) item.todo_note = note;
+  render();
+}
+
+async function removeTodo(id, btnEl) {
+  btnEl.disabled = true;
+  btnEl.textContent = "Removing…";
+  let res;
+  try {
+    res = await fetch("/as/private/dashboard/api/todo", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ id, remove: true }),
+    });
+  } catch (e) {
+    btnEl.textContent = "Network error — retry";
+    btnEl.disabled = false;
+    return;
+  }
+  if (!res.ok) {
+    btnEl.textContent = "Failed — retry";
+    btnEl.disabled = false;
+    return;
+  }
+  const item = DATA.find(d => d.id === id);
+  if (item) item.todo_note = null;
+  render();
+}
+
+function buildTodoMarkdown(a) {
+  const quotePart = a.quote ? `"${a.quote}" — ` : "";
+  return `- [ ] **${a.chapter}** — ${a.user}: ${quotePart}${a.text} (${a.link})`;
+}
+
+async function copyAsTodo(id, btnEl) {
+  const item = DATA.find(d => d.id === id);
+  if (!item) return;
+  const original = btnEl.textContent;
+  try {
+    await navigator.clipboard.writeText(buildTodoMarkdown(item));
+    btnEl.textContent = "✓ Copied";
+  } catch (e) {
+    btnEl.textContent = "Copy failed";
+  }
+  setTimeout(() => { btnEl.textContent = original; }, 1500);
 }
 
 function escapeHTML(s) {

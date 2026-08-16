@@ -165,6 +165,30 @@ committed, copied by hand (`scp` / server-side `install`) whenever a new
 machine needs them. `cron.log` is local runtime output, not source --
 gitignored alongside the secrets and data.
 
+## The TODO queue
+
+Each card on the dashboard has a private "📌 Add to TODO" box, separate
+from the reply composer -- a personal task note ("check this reference,
+expand Ch3"), never posted to Hypothesis, never visible to readers.
+Saved to `hypothesis/data/todo_queue.json` on amrut (gitignored, same
+privacy posture as the rest of `data/`).
+
+**That file never leaves amrut on its own** -- this project's convention
+is amrut only ever `git pull`s, never pushes, so there's no automatic
+path from that queue into `working/10_active/as_todo.md` on this
+machine. Reconciling it is a standing task for the start of the next
+session working on the manuscript: `ssh amrut cat
+~/projects/writing/books/atomicSanskrit/hypothesis/data/todo_queue.json`,
+fold each entry into `as_todo.md` with appropriate priority and a link
+back to the annotation, then clear the queue (`echo '[]' | ssh amrut
+'cat > ~/projects/writing/books/atomicSanskrit/hypothesis/data/todo_queue.json'`)
+so entries aren't re-added next time.
+
+Each card also has a "📋 Copy" button -- copies a single markdown TODO
+line to the clipboard immediately, no queue involved, for pasting into
+`as_todo.md` by hand right away instead of waiting for the next
+session's reconciliation.
+
 ## The tag taxonomy
 
 `taxonomy.json` is the published vocabulary. Hypothesis has no group-level
