@@ -14,7 +14,7 @@
 #   dashboard (hypothesis/build_dashboard.py --install, refreshed by
 #   amrut's cron job). Sits inside /as/private/*'s OAuth gate but adds
 #   an EXTRA owner-only check in the loopback :18080 block below
-#   (X-Auth-Request-Email must be rhinusgaleo@gmail.com) -- the shared
+#   (X-Forwarded-Email must be rhinusgaleo@gmail.com) -- the shared
 #   /as/private/* whitelist alone also admits every invited reader,
 #   which would leak everyone's candid annotations to each other.
 #   /as/request-access — public form for people without a whitelisted
@@ -268,11 +268,14 @@ http://:18080 {
 	# Owner-only, inside the shared /as/private/* OAuth gate. Must come
 	# before the generic /as/private/* handler below (Caddy's `handle`
 	# takes the first matching block, so the more specific path wins
-	# only because it's listed first). OAUTH2_PROXY_SET_XAUTHREQUEST=true
-	# in oauth2-proxy.env is what makes X-Auth-Request-Email available
-	# here at all -- without it this whole block would silently 404 for
-	# everyone, owner included.
-	@dashboard_notowner not header X-Auth-Request-Email rhinusgaleo@gmail.com
+	# only because it's listed first). X-Forwarded-Email is what
+	# oauth2-proxy actually forwards to this upstream after a successful
+	# login (--pass-user-headers, on by default in reverse-proxy mode) --
+	# X-Auth-Request-Email is a DIFFERENT header oauth2-proxy sends back
+	# to the client for nginx's auth_request pattern, never seen here.
+	# Confirmed 2026-08-15 after the first version of this check (which
+	# used X-Auth-Request-Email) 404'd for the owner too.
+	@dashboard_notowner not header X-Forwarded-Email rhinusgaleo@gmail.com
 	handle /as/private/dashboard/* {
 		error @dashboard_notowner "Not Found" 404
 		try_files {path} {path}/index.html

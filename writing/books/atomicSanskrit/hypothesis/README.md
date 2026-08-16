@@ -84,13 +84,17 @@ dashboard → digest, twice daily, fully unattended.
 **The live dashboard**: <https://secondshanti.org/as/private/dashboard/>
 (owner-only). It sits inside `/as/private/*`'s Google-OAuth gate but adds
 an *extra* check in the Caddyfile's loopback `:18080` block -- the request
-must carry `X-Auth-Request-Email: rhinusgaleo@gmail.com` (set by
-oauth2-proxy after a successful login, via
-`OAUTH2_PROXY_SET_XAUTHREQUEST=true`) or it 404s. This matters because
-`/as/private/*` alone shares its whitelist with every invited reader
-(`authenticated-emails.txt`) -- without the extra check, everyone who can
-read the book could also see everyone else's candid annotations. See the
-Caddyfile's own comments at the `@dashboard_notowner` matcher.
+must carry `X-Forwarded-Email: rhinusgaleo@gmail.com` (forwarded by
+oauth2-proxy to the upstream after a successful login --
+`--pass-user-headers`, on by default in reverse-proxy mode) or it 404s.
+This matters because `/as/private/*` alone shares its whitelist with
+every invited reader (`authenticated-emails.txt`) -- without the extra
+check, everyone who can read the book could also see everyone else's
+candid annotations. See the Caddyfile's own comments at the
+`@dashboard_notowner` matcher. (`X-Auth-Request-Email` is a *different*
+header oauth2-proxy sends back to the *client*, for nginx's
+`auth_request` pattern -- not what reaches this upstream. First version
+of this check used that header by mistake and 404'd for the owner too.)
 
 Publishing `dashboard.html` as a Claude Artifact ("Reader Margins")
 remains available too, run by hand from a Claude Code session whenever a
