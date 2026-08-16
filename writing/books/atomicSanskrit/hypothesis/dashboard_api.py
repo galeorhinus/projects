@@ -144,7 +144,7 @@ def refresh_dashboard_after_reply(reply: dict) -> None:
     subprocess.run(
         [sys.executable, str(HYPOTHESIS_DIR / "build_dashboard.py"),
          "--install", DASHBOARD_INSTALL_PATH],
-        cwd=str(HYPOTHESIS_DIR), check=True, capture_output=True, timeout=30,
+        cwd=str(HYPOTHESIS_DIR), check=True, capture_output=True, timeout=30, text=True,
     )
 
 
@@ -234,7 +234,16 @@ class Handler(BaseHTTPRequestHandler):
         # run) instead of updating immediately. Logged, not raised.
         try:
             refresh_dashboard_after_reply(reply)
-        except (subprocess.CalledProcessError, subprocess.TimeoutExpired, OSError) as e:
+        except subprocess.CalledProcessError as e:
+            # stderr/stdout, not just the exception message -- the
+            # message alone ("exit status 1") gave no way to diagnose
+            # the actual cause without reproducing it by hand. Found
+            # live: a ProtectSystem=strict sandbox gap silently blocked
+            # every write this rebuild makes; this print would have
+            # shown that directly instead of needing a manual run.
+            print(f"dashboard rebuild after reply failed: {e}\n"
+                  f"stdout: {e.stdout}\nstderr: {e.stderr}", file=sys.stderr)
+        except (subprocess.TimeoutExpired, OSError) as e:
             print(f"dashboard rebuild after reply failed: {e}", file=sys.stderr)
 
         self._send_json(200, {"status": "posted", "tag": tag})

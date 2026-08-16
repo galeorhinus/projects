@@ -15,12 +15,20 @@ WorkingDirectory=/home/ubuntu/projects/writing/books/atomicSanskrit/hypothesis
 # reverse_proxy behind the owner-only gate -- see Caddyfile. Runs as
 # ubuntu (not www-data) specifically so it can read token.txt, which is
 # chmod 600 ubuntu:ubuntu, same as the rest of hypothesis/'s secrets.
-# No local writes at all -- it only reads token.txt and talks to the
-# Hypothesis API and the live site over the network -- so ProtectSystem
-# =strict needs no ReadWritePaths.
+#
+# ReadWritePaths below were added 2026-08-16 after a reply posted fine
+# (the actual Hypothesis write always succeeded) but the dashboard kept
+# showing stale state on refresh: refresh_dashboard_after_reply()
+# writes data/annotations.json and reinstalls dashboard.html as a
+# subprocess of THIS service, which inherits its sandbox -- under bare
+# ProtectSystem=strict that subprocess's writes silently failed
+# (non-zero exit, swallowed by capture_output=True) because strict mode
+# makes the entire filesystem read-only, home directory included,
+# except whatever's listed here.
 NoNewPrivileges=true
 PrivateTmp=true
 ProtectSystem=strict
+ReadWritePaths=/home/ubuntu/projects/writing/books/atomicSanskrit/hypothesis/data /home/ubuntu/projects/writing/books/atomicSanskrit/hypothesis/dashboard.html /var/www/as/private/dashboard
 
 [Install]
 WantedBy=multi-user.target
