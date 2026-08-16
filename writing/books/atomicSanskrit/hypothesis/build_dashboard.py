@@ -532,6 +532,7 @@ main {
 }
 .card .meta .user { color: var(--text); font-weight: 600; }
 .card .meta .sep { opacity: 0.5; }
+.card .meta .ago { opacity: 0.7; font-variant-numeric: tabular-nums; }
 .card .meta a { color: var(--accent); text-decoration: none; }
 .card .meta a:hover { text-decoration: underline; }
 .card blockquote {
@@ -762,6 +763,34 @@ function fmtDate(iso) {
   return d.toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" });
 }
 
+// Same idea as the header's "Built X ago" ticker (reader's own clock,
+// no server round-trip) but coarser -- an annotation can be months
+// old, so per-second precision would be noise. Cascades to the two
+// most relevant units for the age: minutes alone under an hour, hours
+// + minutes under a day, days alone under a month, months + days once
+// a month or more (days dropped there -- "2mo 15d 4h" is more
+// precision than anyone reads at a glance). Computed once per render()
+// call, not on its own ticking interval -- render() already re-fires
+// on every filter/sort/reply action, and a periodic full re-render
+// would risk wiping an in-progress reply draft in an open textarea.
+function fmtAgo(iso) {
+  const diffMs = Math.max(0, Date.now() - new Date(iso).getTime());
+  const minute = 60000, hour = 60 * minute, day = 24 * hour, month = 30 * day, year = 365 * day;
+  if (diffMs < minute) return "just now";
+  if (diffMs < hour) return `${Math.floor(diffMs / minute)}m ago`;
+  if (diffMs < day) {
+    const h = Math.floor(diffMs / hour), m = Math.floor((diffMs % hour) / minute);
+    return m > 0 ? `${h}h ${m}m ago` : `${h}h ago`;
+  }
+  if (diffMs < month) return `${Math.floor(diffMs / day)}d ago`;
+  if (diffMs < year) {
+    const mo = Math.floor(diffMs / month), d = Math.floor((diffMs % month) / day);
+    return d > 0 ? `${mo}mo ${d}d ago` : `${mo}mo ago`;
+  }
+  const y = Math.floor(diffMs / year), mo = Math.floor((diffMs % year) / month);
+  return mo > 0 ? `${y}y ${mo}mo ago` : `${y}y ago`;
+}
+
 function uniqueSorted(arr) { return [...new Set(arr)].sort(); }
 
 function buildReaderFilters() {
@@ -918,7 +947,7 @@ function cardHTML(a) {
       <span class="sep">·</span>
       <span>${escapeHTML(a.group)}</span>
       <span class="sep">·</span>
-      <span>${fmtDate(a.created)}</span>
+      <span>${fmtDate(a.created)} <span class="ago">(${fmtAgo(a.created)})</span></span>
       ${reply}
       ${statusBadge}
       <span class="sep">·</span>
