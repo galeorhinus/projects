@@ -117,15 +117,18 @@ def classify(api_key: str, taxonomy: dict[str, str], quote: str, text: str) -> l
     return [t for t in tags if t in taxonomy]
 
 
+_INTERNAL_STATUS_TAGS = {"resolved", "acknowledged", "awaiting-reader"}
+
+
 def needs_tagging(annotation: dict, taxonomy: dict[str, str]) -> bool:
-    # post_replies.py's own "resolved" tag marks a reply THIS pipeline
-    # generated, not reader content -- it isn't in taxonomy.json (never
-    # meant to be a reader-facing classification), so without this check
-    # every such reply still looks untagged and gets a spurious reader
-    # taxonomy tag piled on top (found live: a "resolved" reply got
-    # tagged "question" too, since Haiku read "reply if it's still an
-    # issue" as a question).
-    if "resolved" in annotation.get("tags", []):
+    # dashboard_api.py's / post_replies.py's own status tags mark a
+    # reply THIS pipeline generated, not reader content -- none of the
+    # three are in taxonomy.json (never meant to be reader-facing
+    # classifications), so without this check every such reply still
+    # looks untagged and gets a spurious reader taxonomy tag piled on
+    # top (found live: a "resolved" reply got tagged "question" too,
+    # since Haiku read "reply if it's still an issue" as a question).
+    if any(t in _INTERNAL_STATUS_TAGS for t in annotation.get("tags", [])):
         return False
     if any(t in taxonomy for t in annotation.get("tags", [])):
         return False

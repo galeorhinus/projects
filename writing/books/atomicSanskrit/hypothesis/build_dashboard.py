@@ -97,22 +97,43 @@ def main() -> int:
     annotations = json.loads(DATA_PATH.read_text())
     taxonomy = json.loads(TAXONOMY_PATH.read_text())["tags"]
 
-    # An annotation counts as resolved when some reply to it (a
-    # separate annotation with "references": [this id]) carries the
-    # "resolved" tag -- see post_replies.py. The reply itself is also
-    # marked resolved so it can be hidden alongside the thing it closes
-    # rather than left dangling in the list on its own.
-    resolved_parent_ids: set[str] = set()
-    resolved_reply_ids: set[str] = set()
+    # An annotation's status comes from a reply to it (a separate
+    # annotation with "references": [this id]) carrying one of the
+    # three status tags dashboard_api.py's composer applies -- see
+    # post_replies.py for the older resolved-only path, still valid.
+    # A parent can pick up more than one status reply over time (e.g.
+    # "awaiting-reader" first, "resolved" once the follow-up lands);
+    # precedence favors the more conclusive one so the badge/hide-
+    # toggle reflect the current state, not just the first reply ever
+    # posted. "resolved" and "acknowledged" both count as closed for
+    # the hide-toggle -- an acknowledged praise note doesn't correspond
+    # to any text change, but it's still something the user has
+    # finished dealing with. "awaiting-reader" stays visible on
+    # purpose: it's still open, just no longer untouched.
+    STATUS_TAGS = ("resolved", "acknowledged", "awaiting-reader")
+    reply_ids_by_status: dict[str, set[str]] = {t: set() for t in STATUS_TAGS}
+    parent_status: dict[str, str] = {}
     for a in annotations:
-        if "resolved" in a.get("tags", []) and a.get("references"):
-            resolved_reply_ids.add(a["id"])
-            resolved_parent_ids.update(a["references"])
+        tags = a.get("tags", [])
+        matched = next((t for t in STATUS_TAGS if t in tags), None)
+        if matched and a.get("references"):
+            reply_ids_by_status[matched].add(a["id"])
+            for parent_id in a["references"]:
+                current = parent_status.get(parent_id)
+                if current is None or STATUS_TAGS.index(matched) < STATUS_TAGS.index(current):
+                    parent_status[parent_id] = matched
+
+    def status_of(annotation_id: str) -> str | None:
+        for t in STATUS_TAGS:
+            if annotation_id in reply_ids_by_status[t]:
+                return t
+        return parent_status.get(annotation_id)
 
     # Trim to what the page actually renders, and derive the chapter
     # slug once here rather than in client JS.
     rows = []
     for a in annotations:
+        status = status_of(a["id"])
         rows.append({
             "id": a["id"],
             "created": a["created"],
@@ -129,7 +150,8 @@ def main() -> int:
             "suggested": a.get("suggested_tags", []),
             "reply": a.get("is_reply", False),
             "link": annotation_link(a["id"], a["uri"]),
-            "resolved": a["id"] in resolved_parent_ids or a["id"] in resolved_reply_ids,
+            "status": status,
+            "resolved": status in ("resolved", "acknowledged"),
         })
 
     data_json = json.dumps(rows, ensure_ascii=False).replace("</", "<\\/")
@@ -430,6 +452,22 @@ main {
   border-radius: 999px;
   padding: 1px 8px;
 }
+.acknowledged-badge {
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--c-precision-fg);
+  background: var(--c-precision-bg);
+  border-radius: 999px;
+  padding: 1px 8px;
+}
+.awaiting-badge {
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--c-clarify-fg);
+  background: var(--c-clarify-bg);
+  border-radius: 999px;
+  padding: 1px 8px;
+}
 .card.is-resolved {
   opacity: 0.6;
 }
@@ -438,9 +476,38 @@ main {
   padding-top: 10px;
   border-top: 1px solid var(--border);
   display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.reply-text {
+  width: 100%;
+  resize: vertical;
+  font-family: inherit;
+  font-size: 0.85rem;
+  padding: 7px 10px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--surface);
+  color: var(--text);
+  box-sizing: border-box;
+}
+.reply-text:focus {
+  outline: 2px solid var(--accent);
+  outline-offset: -1px;
+}
+.resolve-controls {
+  display: flex;
   flex-wrap: wrap;
   align-items: center;
   gap: 8px;
+}
+.reply-tag {
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--surface);
+  color: var(--text);
+  font-size: 0.8rem;
+  padding: 5px 8px;
 }
 .resolve-btn {
   border: 1px solid var(--accent);
@@ -638,6 +705,12 @@ function tagChipHTML(tag, suggested) {
   return `<span class="${cls}" style="${style}">${tag}</span>`;
 }
 
+const STATUS_BADGE = {
+  "resolved": ["resolved-badge", "resolved"],
+  "acknowledged": ["acknowledged-badge", "acknowledged"],
+  "awaiting-reader": ["awaiting-badge", "awaiting reader"],
+};
+
 function cardHTML(a) {
   const tagHTML = a.tags.map(t => tagChipHTML(t, false)).join("") +
                    a.suggested.map(t => tagChipHTML(t, true)).join("");
@@ -645,10 +718,24 @@ function cardHTML(a) {
     ? `<blockquote>&hellip;${escapeHTML(a.quote_prefix || "")}<mark>${escapeHTML(a.quote)}</mark>${escapeHTML(a.quote_suffix || "")}&hellip;</blockquote>`
     : "";
   const reply = a.reply ? '<span class="reply-badge">reply</span>' : "";
-  const resolved = a.resolved ? '<span class="resolved-badge">resolved</span>' : "";
-  const resolveControl = (!a.resolved && !a.reply)
+  const badge = STATUS_BADGE[a.status];
+  const statusBadge = badge ? `<span class="${badge[0]}">${badge[1]}</span>` : "";
+  // Composer stays available for anything not fully closed -- including
+  // "awaiting-reader", so a conversation can continue -- and never on a
+  // reply annotation itself (this composer replies to READER comments,
+  // not to our own replies).
+  const showComposer = !a.reply && a.status !== "resolved" && a.status !== "acknowledged";
+  const resolveControl = showComposer
     ? `<div class="resolve-row" id="resolve-row-${a.id}">
-         <button class="resolve-btn" onclick="resolveAnnotation('${a.id}', false, this)">Mark resolved</button>
+         <textarea class="reply-text" id="reply-text-${a.id}" rows="2" placeholder="Optional note to the reader…"></textarea>
+         <div class="resolve-controls">
+           <select class="reply-tag" id="reply-tag-${a.id}">
+             <option value="resolved">Resolved</option>
+             <option value="acknowledged">Acknowledged</option>
+             <option value="awaiting-reader">Awaiting reader reply</option>
+           </select>
+           <button class="resolve-btn" onclick="postReply('${a.id}', false, this)">Post</button>
+         </div>
        </div>`
     : "";
   return `<article class="card${a.resolved ? " is-resolved" : ""}" id="card-${a.id}">
@@ -661,7 +748,7 @@ function cardHTML(a) {
       <span class="sep">·</span>
       <span>${fmtDate(a.created)}</span>
       ${reply}
-      ${resolved}
+      ${statusBadge}
       <span class="sep">·</span>
       <a href="${a.link}" target="_blank" rel="noopener">View on Hypothesis &rarr;</a>
     </div>
@@ -672,40 +759,57 @@ function cardHTML(a) {
   </article>`;
 }
 
-async function resolveAnnotation(id, force, btnEl) {
+async function postReply(id, force, btnEl) {
   const row = document.getElementById(`resolve-row-${id}`);
+  const textEl = document.getElementById(`reply-text-${id}`);
+  const tagEl = document.getElementById(`reply-tag-${id}`);
+  const text = textEl ? textEl.value.trim() : "";
+  const tag = tagEl ? tagEl.value : "resolved";
+
+  if (tag === "awaiting-reader" && !text) {
+    const controls = row.querySelector(".resolve-controls");
+    if (!controls.querySelector(".resolve-error")) {
+      controls.insertAdjacentHTML("beforeend",
+        '<span class="resolve-error">Add a note for the reader first.</span>');
+    }
+    return;
+  }
+
   btnEl.disabled = true;
-  btnEl.textContent = force ? "Marking anyway…" : "Checking live site…";
+  btnEl.textContent = force ? "Posting anyway…" : "Posting…";
   let res;
   try {
     res = await fetch("/as/private/dashboard/api/", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ id, force }),
+      body: JSON.stringify({ id, text, tag, force }),
     });
   } catch (e) {
     row.innerHTML = `<span class="resolve-error">Network error -- try again.</span>`;
     return;
   }
   if (!res.ok) {
-    row.innerHTML = `<span class="resolve-error">Failed (HTTP ${res.status}) -- try again.</span>`;
+    const body = await res.json().catch(() => ({}));
+    row.innerHTML = `<span class="resolve-error">${escapeHTML(body.error || `HTTP ${res.status}`)}</span>`;
     return;
   }
   const body = await res.json();
-  if (body.status === "resolved") {
+  if (body.status === "still_live") {
+    row.innerHTML = `<span class="resolve-warning">Still live on the deployed site -- push/deploy first, or</span>
+      <button class="resolve-btn resolve-btn-force" onclick="postReply('${id}', true, this)">post anyway</button>`;
+    return;
+  }
+  if (body.status === "posted") {
     const item = DATA.find(d => d.id === id);
-    if (item) item.resolved = true;
-    row.innerHTML = "";
+    if (item) {
+      item.status = body.tag;
+      item.resolved = body.tag === "resolved" || body.tag === "acknowledged";
+    }
     renderStats();
     render();
     return;
   }
-  if (body.status === "still_live") {
-    row.innerHTML = `<span class="resolve-warning">Still live on the deployed site -- push/deploy first, or</span>
-      <button class="resolve-btn resolve-btn-force" onclick="resolveAnnotation('${id}', true, this)">mark resolved anyway</button>`;
-    return;
-  }
-  row.innerHTML = `<span class="resolve-error">${escapeHTML(body.error || "Unknown error")}</span>`;
+  row.innerHTML = `<span class="resolve-error">Unexpected response.</span>`;
 }
 
 function escapeHTML(s) {
@@ -718,19 +822,26 @@ function renderStats() {
   const aiOnly = DATA.filter(a => !a.tags.length && a.suggested.length).length;
   const untagged = DATA.filter(a => !a.tags.length && !a.suggested.length).length;
   const readers = uniqueSorted(DATA.map(a => a.user)).length;
-  const resolved = DATA.filter(a => a.resolved).length;
+  const resolved = DATA.filter(a => a.status === "resolved").length;
+  const acknowledged = DATA.filter(a => a.status === "acknowledged").length;
+  const awaitingReader = DATA.filter(a => a.status === "awaiting-reader").length;
   const stats = [
     ["Annotations", total],
     ["Tagged", tagged],
     ["AI-suggested", aiOnly],
     ["Untagged", untagged],
     ["Resolved", resolved],
+    ["Acknowledged", acknowledged],
+    ["Awaiting reader", awaitingReader],
     ["Readers", readers],
   ];
   document.getElementById("stats").innerHTML = stats.map(([label, n]) =>
     `<div class="stat"><span class="n">${n}</span><span class="label">${label}</span></div>`
   ).join("");
-  document.getElementById("resolved-count").textContent = resolved;
+  // The toggle hides anything a.resolved (resolved OR acknowledged --
+  // both closed states), so its count reflects that, not just the
+  // "Resolved" stat tile above (which is resolved-only for clarity).
+  document.getElementById("resolved-count").textContent = DATA.filter(a => a.resolved).length;
 }
 
 function render() {

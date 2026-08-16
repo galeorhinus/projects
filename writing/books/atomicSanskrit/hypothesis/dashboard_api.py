@@ -1,28 +1,40 @@
 #!/usr/bin/env python3
-"""dashboard_api.py -- tiny backend for the "Mark resolved" button in
-Reader Margins (build_dashboard.py). Loopback-only, reached only via
-Caddy's reverse_proxy at /as/private/dashboard/api/*, which sits behind
-the SAME owner-only gate as the dashboard itself (Google OAuth via
+"""dashboard_api.py -- backend for Reader Margins' per-card reply
+composer (build_dashboard.py). Loopback-only, reached only via Caddy's
+reverse_proxy at /as/private/dashboard/api/*, which sits behind the
+SAME owner-only gate as the dashboard itself (Google OAuth via
 oauth2-proxy + the @dashboard_notowner check in the Caddyfile) -- this
 service ALSO independently checks X-Forwarded-Email itself as
 defense-in-depth: unlike the read-only dashboard, this one can WRITE to
 Hypothesis, so it doesn't rely solely on the reverse-proxy chain.
 
-One endpoint: POST / with {"id": <annotation id>, "force": bool}.
+One endpoint: POST / with
+    {"id": <annotation id>, "text": <optional string>,
+     "tag": "resolved" | "acknowledged" | "awaiting-reader",
+     "force": bool}
 
-Verifies against the LIVE deployed chapter page, not local files or
-git state -- the whole point is to catch "I fixed it locally but
-haven't pushed/deployed yet" before silently posting a reply that
-nothing live actually backs up:
+Three tags, three different behaviors:
 
-  - flagged passage gone from the live page  -> post the reply, tag
-    "resolved", return {"status": "resolved"}
-  - flagged passage still live, force=false  -> return
-    {"status": "still_live"} without posting anything -- the UI shows
-    a warning and offers to retry with force=true
-  - flagged passage still live, force=true   -> post anyway (the user
-    explicitly overrode the warning, e.g. they're confident and about
-    to deploy)
+  resolved         -- verified against the LIVE deployed chapter page
+                       first (not local files or git state -- the whole
+                       point is to catch "I fixed it locally but
+                       haven't pushed/deployed yet"). Still live and
+                       force=false -> {"status": "still_live"}, nothing
+                       posted, UI offers a "post anyway" override.
+                       Empty text falls back to a canned "addressed in
+                       a later revision" message.
+  acknowledged      -- no live-check (there's nothing to verify -- a
+                       "thanks!" or "noted" doesn't correspond to any
+                       text change). Empty text falls back to a canned
+                       thank-you.
+  awaiting-reader   -- no live-check (not claiming resolution). Text is
+                       REQUIRED -- a generic canned message would defeat
+                       the point of a tag that exists specifically for
+                       "I asked a follow-up, waiting on them."
+
+All three post a reply (POST with references: [parent_id], same
+mechanism regardless of who authored the parent -- replying only needs
+create permission in the group, not write permission on the parent).
 
 Pure standard library, same convention as the rest of this directory.
 """
@@ -45,11 +57,18 @@ from hypothesis_client import HypothesisClient, HypothesisError  # noqa: E402
 BIND_HOST = "127.0.0.1"
 BIND_PORT = 8092
 OWNER_EMAIL = "rhinusgaleo@gmail.com"
-REPLY_TAG = "resolved"
-REPLY_TEXT = (
-    "Looks like this has been addressed in a later revision -- confirmed "
-    "against the live site, not just local edits. Reply if it's still an issue."
-)
+
+VALID_TAGS = {"resolved", "acknowledged", "awaiting-reader"}
+CANNED_TEXT = {
+    "resolved": (
+        "Looks like this has been addressed in a later revision -- confirmed "
+        "against the live site, not just local edits. Reply if it's still an issue."
+    ),
+    "acknowledged": "Thank you for flagging this!",
+    # awaiting-reader has NO canned fallback -- text is required for it,
+    # enforced below, precisely so this tag can't be used as a content-
+    # free "seen it" click the way acknowledged can.
+}
 
 _TAG_BLOCK_RE = re.compile(r"<(script|style)\b.*?</\1>", re.I | re.S)
 _ANY_TAG_RE = re.compile(r"<[^>]+>")
@@ -96,8 +115,7 @@ def fetch_live_text(uri: str) -> str:
     return strip_html(raw)
 
 
-def anchor_still_live(client: HypothesisClient, annotation_id: str) -> tuple[bool, dict]:
-    annotation = client.get_annotation(annotation_id)
+def is_anchor_still_live(annotation: dict) -> bool:
     prefix = quote = suffix = ""
     for target in annotation.get("target", []):
         for selector in target.get("selector", []):
@@ -110,10 +128,10 @@ def anchor_still_live(client: HypothesisClient, annotation_id: str) -> tuple[boo
     if not anchor:
         # Note-only annotation, nothing to check against -- don't block
         # on a check that can't mean anything for this annotation.
-        return False, annotation
+        return False
 
     live_text = fetch_live_text(annotation["uri"])
-    return anchor in live_text, annotation
+    return anchor in live_text
 
 
 class Handler(BaseHTTPRequestHandler):
@@ -136,29 +154,45 @@ class Handler(BaseHTTPRequestHandler):
             return
 
         annotation_id = (payload.get("id") or "").strip()
+        tag = (payload.get("tag") or "resolved").strip()
+        text = (payload.get("text") or "").strip()
         force = bool(payload.get("force"))
+
         if not annotation_id:
             self._send_json(400, {"error": "missing id"})
+            return
+        if tag not in VALID_TAGS:
+            self._send_json(400, {"error": f"invalid tag: {tag}"})
+            return
+        if tag == "awaiting-reader" and not text:
+            self._send_json(400, {"error": "text required for awaiting-reader"})
             return
 
         try:
             client = HypothesisClient()
-            still_live, annotation = anchor_still_live(client, annotation_id)
+            annotation = client.get_annotation(annotation_id)
         except (HypothesisError, urllib.error.URLError, urllib.error.HTTPError) as e:
             self._send_json(502, {"error": str(e)})
             return
 
-        if still_live and not force:
-            self._send_json(200, {"status": "still_live"})
-            return
+        if tag == "resolved" and not force:
+            try:
+                still_live = is_anchor_still_live(annotation)
+            except (urllib.error.URLError, urllib.error.HTTPError) as e:
+                self._send_json(502, {"error": f"live-check failed: {e}"})
+                return
+            if still_live:
+                self._send_json(200, {"status": "still_live"})
+                return
 
+        reply_text = text or CANNED_TEXT.get(tag, "")
         try:
-            client.create_reply(annotation, REPLY_TEXT, tags=[REPLY_TAG])
+            client.create_reply(annotation, reply_text, tags=[tag])
         except HypothesisError as e:
             self._send_json(502, {"error": str(e)})
             return
 
-        self._send_json(200, {"status": "resolved"})
+        self._send_json(200, {"status": "posted", "tag": tag})
 
     def _send_json(self, status: int, body: dict) -> None:
         encoded = json.dumps(body).encode("utf-8")
