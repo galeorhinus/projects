@@ -140,7 +140,11 @@ The botanical metaphor and **प्रकृति (*prakṛti*)** use different
 
 ### Saṃskṛti Made to Look Like Prakṛti
 
-Sanskrit's own name puts it in another category. **संस्कृतम् (*saṃskṛtam*)** is an architectural declaration. Its final portion, **कृतम् (*kṛtam*)**, is the past participle of ⟪कृ⟫ (*kṛ*), the semantic atom for making. **कृतम्** means made, produced, or brought into form: it marks an action that has already been completed. The prefix *sam-* adds complete, total, or perfected. Together, **संस्कृतम्** yields the completely made, the perfectly formed, the wholly synthesized.[NOTE: samskrtam-morphology] Its grammatical form describes a created state rather than a people or a place.
+Sanskrit's own name puts it in another category. **संस्कृतम् (*saṃskṛtam*)** is an architectural declaration. Its final portion, **कृतम् (*kṛtam*)**, is the past participle of ⟪कृ⟫ (*kṛ*), the semantic atom for making. **कृतम्** means made, produced, or brought into form: it marks an action that has already been completed. The prefix *sam-* elevates this action to mean complete, total, or perfected, leading to the classical definition:
+
+> सम्यक् कृतम् इति संस्कृतम् (samyak kṛtam iti saṃskṛtam) "That which is perfectly constructed is saṃskṛtam."
+
+Together, **संस्कृतम्** yields the completely made, the perfectly formed, the wholly synthesized.[NOTE: samskrtam-morphology] Its grammatical form describes a created state rather than a people or a place.
 
 If *saṃskṛtam* is what is wholly formed, *prakṛti* is what keeps making itself — nature. **प्राकृतानि (*prākṛtāni*)** are natural language forms: speech that continues shifting, growing, branching, and decaying. Indic grammar already contains the botanical category and assigns that behavior to the *prākṛtāni*. *Saṃskṛtam* is the architecture of **सनातन (*Sanātan*)** — the integral, the perpetual, the ground on which civilization continues. The *prākṛtāni* are everything else.
 
