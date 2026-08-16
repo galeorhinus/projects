@@ -18,9 +18,9 @@
 
 The same wound-line that opened the Preface returns here with the other half supplied. Svarbhānu's darkness did not win: the Atris found the Sun.
 
-The core eclipse has passed because the Sun remained. Seven plates have fallen — Descended, Botanical, Codified, Alphabetic, Abugida, Sibling Language, and Early Literature — and Sanskrit's radiance is visible again. Institutional custody, public habit, and civilizational self-doubt still cast residual shadows. Teachers, families, institutions, and communities must clear what one book cannot.
+The core eclipse has passed because the Sun remained. Seven blocks have fallen — Descended, Botanical, Codified, Alphabetic, Abugida, Sibling Language, and Early Literature — and Sanskrit's radiance is visible again. Institutional custody, public habit, and civilizational self-doubt still cast residual shadows. Teachers, families, institutions, and communities must clear what one book cannot.
 
-![Figure E.12 — Atri Recovery. The Sanskrit-Sun is visible; seven core plates have fallen, residual shadows remain, and points of caretaking light appear across the world.](figures/eclipse_spine/eclipse_80_epilogue_atri_recovery.svg){#fig:eclipse-epilogue-atri-recovery width=100%}
+![Figure E.12 — Atri Recovery. The Sanskrit-Sun is visible; seven core blocks have fallen, residual shadows remain, and points of caretaking light appear across the world.](figures/eclipse_spine/eclipse_80_epilogue_atri_recovery.svg){#fig:eclipse-epilogue-atri-recovery width=100%}
 
 The mantra says the Atris found the Sun when others could not. This book clears part of the shadow and leaves the remaining responsibility visible.
 

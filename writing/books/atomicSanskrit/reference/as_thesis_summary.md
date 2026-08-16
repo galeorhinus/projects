@@ -19,7 +19,7 @@ The book's method compresses into eight theses:
 
 ## The Eclipse Ledger
 
-The book runs on an eclipse spine: Sūrya is Sanskrit; Svarbhānu is the asuric pyramid; Rāhu is the eclipse-device of the imaginary ancestor; the Atris recover the Sun. Each restored category lifts one shadow-plate.
+The book runs on an eclipse spine: Sūrya is Sanskrit; Svarbhānu is the asuric pyramid; Rāhu is the eclipse-device of the imaginary ancestor; the Atris recover the Sun. Each restored category lifts one shadow-block.
 
 | The Sun — what Sanskrit is | The Eclipse — what the world is shown |
 |---|---|
@@ -37,7 +37,7 @@ The Eight Core Theses describe the movement of the argument. The Eclipse Ledger 
 
 ## Forty-Three Supporting Theses
 
-### Wholly Created — lifts the Descended plate
+### Wholly Created — lifts the Descended block
 
 1. **Sanskrit is wholly created.** Its own name, **संस्कृतम् (*saṃskṛtam*)**, places it in the category of completed order. The contrast with **प्राकृत (*prākṛta*)** draws the line between the wholly made and the naturally formed. **Chapter 0 §0.4; Chapter 2.**
 
@@ -51,7 +51,7 @@ The Eight Core Theses describe the movement of the argument. The Eclipse Ledger 
 
 6. **RAT supplies imaginary people, PIE supplies an imaginary language, and starred reconstructions supply imaginary words.** The phrase *Indo-Aryan languages* then binds the inventions into ordinary academic speech. Sanskrit is real; *ārya* is real; the Vedic corpus is real. The racial Arya thesis, the imaginary ancestor, and the source-slot asterisk are the devices by which the real civilization is made external to itself. **Chapters 18 and 18.**
 
-### Anti-entropic — lifts the Botanical plate
+### Anti-entropic — lifts the Botanical block
 
 7. **The *dhātuḥ* is an atom, not a botanical organ.** European philology forced Sanskrit's foundational structural unit into a plant category. Sanskrit uses *dhātuḥ* across domains for a stable constituent: metallurgy, body, grammar, and structure. **Chapter 2 §2.7; Chapter 10.**
 
@@ -63,7 +63,7 @@ The Eight Core Theses describe the movement of the argument. The Eclipse Ledger 
 
 11. **Sanskrit's atoms with the greatest generative reach display a signature natural drift does not predict.** These *dhātavaḥ* are structurally compact, enter a wide range of combinations, and remain stable across use. The distribution belongs to an operating table. **Chapter 10; Chapter 11; Source and Reference Companion.**
 
-### Calibrated — lifts the Codified plate
+### Calibrated — lifts the Codified block
 
 12. **Pāṇini decoded and documented an operating system; he did not codify a drifting language.** The book's refrain is exact: Sanskrit was engineered, encoded in the Vedas, decoded by many, and Pāṇini's decoding is the finest. **Preface; Chapter 2 §2.8; Chapter 5; Chapter 11 §11.10.**
 
@@ -77,7 +77,7 @@ The Eight Core Theses describe the movement of the argument. The Eclipse Ledger 
 
 17. **The word-meaning bond is treated as established, not manufactured.** Patañjali's *siddhe śabdārthasambandhe* places grammar after an already-standing bond. Bhartṛhari gives that premise a larger philosophical horizon: *śabda* is not a late convention pasted onto things after the fact. **Chapter 5; endnotes.**
 
-### Sonomeric — lifts the Alphabetic plate
+### Sonomeric — lifts the Alphabetic block
 
 18. ***Varṇa* is a sonomer, not a letter.** Sanskrit's sound-units are measured particles in a body-mapped grid: place, effort, breath, voice, nasality, and duration. The written mark is downstream. **Chapter 9.**
 
@@ -89,7 +89,7 @@ The Eight Core Theses describe the movement of the argument. The Eclipse Ledger 
 
 22. **A stated principle decides what earns a grid address, not chance or omission.** Included sonomers, restricted outputs, Vedic-only and lineage-bounded forms, and excluded addresses are each placed by a cost-and-collision logic the book calls the Principle of Architectural Selection and Scope. What the *varṇamālā* leaves out is as deliberate as what it keeps. **Chapter 9 §§9.10–9.11.**
 
-### Audiographic — lifts the Abugida plate
+### Audiographic — lifts the Abugida block
 
 23. **Once the *varṇamālā* exists, script becomes implementation.** The engineering lies in the ordered sound-grid. Writing gives that grid a visible interface, much as decimal notation gives place-value number a visible form. **Chapter 9; Appendix Part 3.**
 
@@ -99,7 +99,7 @@ The Eight Core Theses describe the movement of the argument. The Eclipse Ledger 
 
 26. **Writing is not preservation by itself.** Stone can last but does not scale; paper scales but decays; archives can be seized; offices can gate access. Sanskrit preserves through calibration and active auditure, with writing assigned a bounded role. **Chapter 13; Chapter 14.**
 
-### Calibrant — lifts the Sibling-Language plate
+### Calibrant — lifts the Sibling-Language block
 
 27. **Sanskrit is not one sibling inside an Indo-European family tree.** It is the calibrant by which much of that family was partially deciphered. Similarity does not require ancestry; radiance explains resemblance without descent. **Chapter 19; Chapter 20.**
 

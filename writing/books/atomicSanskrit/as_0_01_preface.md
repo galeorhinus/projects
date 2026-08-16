@@ -30,7 +30,7 @@ The figure below shows the eclipse before this book begins removing it: Sanskrit
 
 Across the ages, the pyramid has tried to destroy Sanskrit and failed. The language has remained visible, audible, recited, parsed, taught, and documented across thousands of years. Unable to extinguish the Sun, the pyramid placed itself between its radiance and the world. It taught the world to see Sanskrit in the wrong light.
 
-Sanskrit still carries the evidence of its engineering. The language's own name says what it is. Its grammar says what it is. Its recitation lineages say what it is. Its architecture says what it is. The pyramid conceals that evidence by placing Sanskrit inside false categories. Not the Sun, but a daughter-language beneath an imagined parent and transported by imaginary people. Not an architecture designed for permanence, but a botanical organism that grows and dies. Not the calibrant, but a drifting language that was supposedly codified later. Not an engineered sound-grid, but a mere alphabet. Not a script that makes sound visible, but a borrowed typology. Not the calibrant for the surrounding language family, but one sibling within it. Not the Vedic Matrix, but old literature, "scripture," ritual material, and chronological evidence waiting to be dated. Each is a plate placed in front of the same Sun.
+Sanskrit still carries the evidence of its engineering. The language's own name says what it is. Its grammar says what it is. Its recitation lineages say what it is. Its architecture says what it is. The pyramid conceals that evidence by placing Sanskrit inside false categories. Not the Sun, but a daughter-language beneath an imagined parent and transported by imaginary people. Not an architecture designed for permanence, but a botanical organism that grows and dies. Not the calibrant, but a drifting language that was supposedly codified later. Not an engineered sound-grid, but a mere alphabet. Not a script that makes sound visible, but a borrowed typology. Not the calibrant for the surrounding language family, but one sibling within it. Not the Vedic Matrix, but old literature, "scripture," ritual material, and chronological evidence waiting to be dated. Each is a block placed in front of the same Sun.
 
 A civilization can continue reciting, teaching, parsing, and preserving the Sun. Yet it may hesitate to describe what it has preserved through the explanations its own continuum provides. The pyramid has taught it to trust the pyramid's classifications instead. That civilizational self-doubt is the deeper injury. The hesitation is not organic humility. It is the effect of an eclipse.
 
@@ -44,7 +44,7 @@ The chapters that follow demonstrate what becomes one of the book's refrains: **
 
 The conflict in this book is between two architectures of order. One creates order through calibration; the other imposes order from an apex. A calibrant order places an invariant standard where everyone can reach it and no apex can own it. People align with it and correct errors without surrendering authority to a central institution. By contrast, the asuric pyramid encloses knowledge, controls access, places an apex above everyone else, and turns correction into obedience.
 
-Sanskrit and the Vedas provide a living demonstration of calibrant order. The pyramid could not leave that evidence visible. It used false categorization as its weapon. The plates described above were chosen deliberately. Each one conceals a different part of the same architecture.
+Sanskrit and the Vedas provide a living demonstration of calibrant order. The pyramid could not leave that evidence visible. It used false categorization as its weapon. The blocks described above were chosen deliberately. Each one conceals a different part of the same architecture.
 
 ## The Architecture This Book Uncovers
 
@@ -79,7 +79,7 @@ That childhood question now opens the architectural claim. Sanskrit's free word 
 
 ## The Pyramid's Clock
 
-**सनातन (*Sanātan*)** does not begin with a first day and does not terminate in a final end. Its time-sense is **कालचक्र (*kālacakra*)**, the wheel of time, moving within **अनादि (*anādi*)**, the beginningless, and **अनन्त (*ananta*)**, the endless. Across this infinite span, the pyramid forces its finite clock—one more plate in the eclipse.
+**सनातन (*Sanātan*)** does not begin with a first day and does not terminate in a final end. Its time-sense is **कालचक्र (*kālacakra*)**, the wheel of time, moving within **अनादि (*anādi*)**, the beginningless, and **अनन्त (*ananta*)**, the endless. Across this infinite span, the pyramid forces its finite clock—one more block in the eclipse.
 
 **The beginningless and the endless deny the apex what it needs most: a first point it can own.**
 

@@ -30,9 +30,9 @@ And the one is a Him — a blank each age fills with a new name. Hiraṇyakaśip
 
 The finite order claims that every domain needs a highest point from which authority descends. Its natural shape is a pyramid.
 
-The frame represents the asuric pyramid itself. Its apex claims authority, its boundaries create enclosure, and its geometry turns both into control. Each numbered plate represents one obstruction placed between the reader and Sanskrit. As the chapters proceed, the book takes these obstructions one at a time. It identifies what each obstruction hides, explains how the pyramid placed it over Sanskrit, and restores the architecture concealed beneath it. When the next part opens, the corresponding plate is gone and more of the Sanskrit-Sun has become visible. This sequence continues until the Sun stands clear.
+The frame represents the asuric pyramid itself. Its apex claims authority, its boundaries create enclosure, and its geometry turns both into control. Each numbered block represents one obstruction placed between the reader and Sanskrit. As the chapters proceed, the book takes these obstructions one at a time. It identifies what each obstruction hides, explains how the pyramid placed it over Sanskrit, and restores the architecture concealed beneath it. When the next part opens, the corresponding block is gone and more of the Sanskrit-Sun has become visible. This sequence continues until the Sun stands clear.
 
-![Figure E.4 — The Asuric Pyramid. Eleven numbered plates mark the obstructions placed before the Sanskrit-Sun.](figures/eclipse_spine/eclipse_02_ch1_pyramid_full.svg){#fig:eclipse-ch1-pyramid-full width=100%}
+![Figure E.4 — The Asuric Pyramid. Eleven numbered blocks mark the obstructions placed before the Sanskrit-Sun.](figures/eclipse_spine/eclipse_02_ch1_pyramid_full.svg){#fig:eclipse-ch1-pyramid-full width=100%}
 
 ## 1.1 The apex-one
 

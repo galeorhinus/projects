@@ -32,7 +32,7 @@
 | **Calibrant** — other languages can be calibrated by it without becoming Sanskrit. | **Sibling Language** — treated as one language among siblings, a member of a family tree, not the measure by which the family was partially read. |
 | **Vedic Matrix** — the *Vedas*: encoded perfection preserved through recitation, meter, lineage, and calibration. | **Early Literature** — the *Vedas* reduced to old texts, scripture, ritual material, or chronological evidence, useful mainly for dating "Vedic Sanskrit." |
 
-*(**Āryatva** — mastery one attains — vs **racial Arya** — a race one is born into — is **not** a ledger row. Per §9-B it is handled as residual plate 11.)*
+*(**Āryatva** — mastery one attains — vs **racial Arya** — a race one is born into — is **not** a ledger row. Per §9-B it is handled as residual block 11.)*
 
 ## 4. Row → movement mapping (no chapters move)
 
@@ -98,7 +98,11 @@ The full Brāhmī / Aramaic proof lives in **Appendix Part 3** and stays there. 
 
 ## 6a. Eclipse schematic illustration program
 
-Create a recurring eclipse schematic that makes the spine visible. The diagram should look like an eclipse diagram, but it should not be ordinary astronomy. The Sun is Sanskrit: a radiant rounded swastika, gold/white, with a subtle sonomer-grid, Devanāgarī, or Vedic-radiance texture. The occluding body is not the moon. It is the dark Svarbhānu/Rāhu-pyramid: a segmented, fully dark pyramid-disc made of 11 plates. The world sees Sanskrit through the shadow until the plates fall away.
+Create a recurring eclipse schematic that makes the spine visible. The diagram should look like an eclipse diagram, but it should not be ordinary astronomy. The Sun is Sanskrit: a radiant rounded swastika, gold/white, with a subtle sonomer-grid, Devanāgarī, or Vedic-radiance texture. The occluding body is not the moon. It is the dark Svarbhānu/Rāhu-pyramid: a segmented, fully dark pyramid-disc made of 11 blocks. The world sees Sanskrit through the shadow until the blocks fall away.
+
+**Governing explanation (2026-08-16 terminology decision — *plate* → *block*):** a pyramid is built from blocks, not plates; *plate* reads as flat and externally attached, while *block* is structurally coherent with the pyramid image — each block can represent one false category, the blocks collectively form the pyramid while also blocking the Sun, and blocks can crack, fall, or be removed without straining the metaphor. Dismantling the false categories dismantles the pyramid itself:
+
+> Each numbered block represents one false category placed between the reader and Sanskrit. Together, the blocks form the pyramid and obstruct the Sun's radiance. As the chapters expose each false category, the corresponding block cracks and falls. Each Part opener shows how much of the pyramid remains.
 
 **Visual grammar:**
 
@@ -107,13 +111,13 @@ Create a recurring eclipse schematic that makes the spine visible. The diagram s
 | **Sūrya / Sanskrit** | Rounded radiant swastika; the light-source. |
 | **Svarbhānu / Rāhu** | Dark segmented pyramid-disc between Sanskrit and the world; not a lunar body. |
 | **World / reader-field** | Dim field receiving distorted light while the pyramid-shadow remains. |
-| **Atri / caretaking** | Subtle ray or widening reveal as plates fall away; never loud self-identification. |
+| **Atri / caretaking** | Subtle ray or widening reveal as blocks fall away; never loud self-identification. |
 
 The swastika is doubly apt here: an ancient solar sign and the book's emblem of distributed order.
 
-**Eleven pyramid-plates:** seven core Sanskrit-eclipse plates are removed by this book; four residual plates remain cracked / exposed for later Atris.
+**Eleven pyramid-blocks:** seven core Sanskrit-eclipse blocks are removed by this book; four residual blocks remain cracked / exposed for later Atris.
 
-**Core plates removed by this book:**
+**Core blocks removed by this book:**
 
 1. **Descended** — PIE ancestor / derivative Sanskrit.
 2. **Botanical** — roots, stems, branches, daughters.
@@ -123,20 +127,20 @@ The swastika is doubly apt here: an ancient solar sign and the book's emblem of 
 6. **Sibling Language** — Sanskrit as family-tree member, not calibrant.
 7. **Early Literature** — Vedas reduced to old texts, scripture, ritual material, and chronological evidence.
 
-**Residual plates left visible:**
+**Residual blocks left visible:**
 
 8. **Institutional Custody** — departments, journals, textbooks, credentials, curricula.
 9. **Public Knowledge Lag** — textbooks, online summaries, popular explainers, and inherited defaults.
 10. **Civilizational Self-Doubt** — Hindus trained not to trust what they preserved.
-11. **Racial Arya Thesis** — the larger custody-battle plate the book damages without fully fighting.
+11. **Racial Arya Thesis** — the larger custody-battle block the book damages without fully fighting.
 
-**Binding rim:** **Chronology Capture** should not be a separate plate. It is the rim / adhesive holding several plates together: Descended, Early Literature, Sibling Language, and Racial Arya all depend on the pyramid's clock.
+**Binding rim:** **Chronology Capture** should not be a separate block. It is the rim / adhesive holding several blocks together: Descended, Early Literature, Sibling Language, and Racial Arya all depend on the pyramid's clock.
 
-**Not a pyramid plate:** **Caretaker Inaction** belongs on the world/caretaker-field side after the Sun is visible. It is the responsibility that remains, not a component of Svarbhānu/Rāhu.
+**Not a pyramid block:** **Caretaker Inaction** belongs on the world/caretaker-field side after the Sun is visible. It is the responsibility that remains, not a component of Svarbhānu/Rāhu.
 
-**Plate terminology deployment rule:** Plate names must become recurring body vocabulary, not merely illustration labels. Each core plate name should appear in the body at the point where that plate is exposed, cracked, or removed. The prose does not need to announce the illustration, but the reader should recognize the same terms. Residual plate names should appear where the remaining work is named.
+**Block terminology deployment rule:** Block names must become recurring body vocabulary, not merely illustration labels. Each core block name should appear in the body at the point where that block is exposed, cracked, or removed. The prose does not need to announce the illustration, but the reader should recognize the same terms. Residual block names should appear where the remaining work is named.
 
-| Plate term | Body placement |
+| Block term | Body placement |
 |---|---|
 | **Descended** | Ch 2; Ch 17; Ch 18 |
 | **Botanical** | Ch 2 |
@@ -149,20 +153,20 @@ The swastika is doubly apt here: an ancient solar sign and the book's emblem of 
 | **Public Knowledge Lag** | Ch 19 / Epilogue |
 | **Civilizational Self-Doubt** | Ch 4; Ch 17; Ch 19 / Epilogue |
 | **Racial Arya Thesis** | Ch 3; Ch 16; Ch 17 |
-| **Chronology Capture** *(rim, not plate)* | Preface; Ch 1; Ch 2; Ch 3; Ch 17; Ch 18; Epilogue |
+| **Chronology Capture** *(rim, not block)* | Preface; Ch 1; Ch 2; Ch 3; Ch 17; Ch 18; Epilogue |
 
 **Part-by-part reveal sequence:**
 
-| Movement | Plates loosened or removed |
+| Movement | Blocks loosened or removed |
 |---|---|
 | Preface / Ch 0 / Ch 1 | The shadow is named; Sūrya, Svarbhānu/Rāhu, and the caretakers become visible as roles. |
-| Part I | Core plates exposed as the shadow-mechanism: **1 Descended**, **2 Botanical**, **3 Codified**. |
-| Part II | Core plates **2 Botanical** and **3 Codified** are removed from Sanskrit's self-category; **Wholly Created**, **Anti-entropic**, and **Calibrated** are restored. |
-| Part III | Core plate **4 Alphabetic** is removed; **Audiographic** begins. |
-| Part IV | No new plate is removed here by design; the atomic architecture behind the light becomes visible beneath the already-removed **2 Botanical** and **4 Alphabetic** distortions. |
-| Part V | Core plates **5 Abugida** and **7 Early Literature** are removed; **Vedic Matrix** and calibration-in-practice are restored. |
-| Part VI | Core plates **1 Descended** and **6 Sibling Language** are removed; the chronology rim is cut where it binds Sanskrit's authorship. |
-| Finale / Epilogue | The Sun is visible again; four cracked plates remain as work for later Atris. |
+| Part I | Core blocks exposed as the shadow-mechanism: **1 Descended**, **2 Botanical**, **3 Codified**. |
+| Part II | Core blocks **2 Botanical** and **3 Codified** are removed from Sanskrit's self-category; **Wholly Created**, **Anti-entropic**, and **Calibrated** are restored. |
+| Part III | Core block **4 Alphabetic** is removed; **Audiographic** begins. |
+| Part IV | No new block is removed here by design; the atomic architecture behind the light becomes visible beneath the already-removed **2 Botanical** and **4 Alphabetic** distortions. |
+| Part V | Core blocks **5 Abugida** and **7 Early Literature** are removed; **Vedic Matrix** and calibration-in-practice are restored. |
+| Part VI | Core blocks **1 Descended** and **6 Sibling Language** are removed; the chronology rim is cut where it binds Sanskrit's authorship. |
+| Finale / Epilogue | The Sun is visible again; four cracked blocks remain as work for later Atris. |
 
 **Illustration cadence:** Use illustrations at openings, not at part endings. The beginning of the next part is the visible end-state of the previous part. This keeps the sequence cumulative without making each part carry a before/after pair.
 
@@ -170,16 +174,16 @@ The swastika is doubly apt here: an ancient solar sign and the book's emblem of 
 
 | Location | Figure state |
 |---|---|
-| **Preface** | Full three-component eclipse schematic: Sanskrit-Sun, 11-plate Svarbhānu/Rāhu-pyramid, and shadowed world/reader-field. |
+| **Preface** | Full three-component eclipse schematic: Sanskrit-Sun, 11-block Svarbhānu/Rāhu-pyramid, and shadowed world/reader-field. |
 | **Ch 0** | Sanskrit-Sun close-up: glowing rounded swastika with `संस्कृतम्` and the four internal architecture words. |
-| **Ch 1** | Pyramid close-up: 11 plates, binding rim, apex, and shadow logic. |
-| **Part I opener** | Full eclipse; plates 1–3 intact but ready to be exposed. |
-| **Part II opener** | Plates 1–3 exposed/cracked; this is the state produced by Part I. |
-| **Part III opener** | Plates 2 and 3 removed; first real light reaches the field. |
-| **Part IV opener** | Plate 4 removed; no new plate targeted, but the light channels reveal deeper atomic architecture. |
+| **Ch 1** | Pyramid close-up: 11 blocks, binding rim, apex, and shadow logic. |
+| **Part I opener** | Full eclipse; blocks 1–3 intact but ready to be exposed. |
+| **Part II opener** | Blocks 1–3 exposed/cracked; this is the state produced by Part I. |
+| **Part III opener** | Blocks 2 and 3 removed; first real light reaches the field. |
+| **Part IV opener** | Block 4 removed; no new block targeted, but the light channels reveal deeper atomic architecture. |
 | **Part V opener** | Same removal state as Part IV, with internally structured light; the part now turns to preservation and Vedic matrix. |
-| **Part VI opener** | Plates 5 and 7 removed; wider light enters, and the remaining core descent/sibling plates are targeted. |
-| **Part VII opener** | Seven core plates removed; residual plates 8–11 remain cracked/exposed as work beyond the book. |
+| **Part VI opener** | Blocks 5 and 7 removed; wider light enters, and the remaining core descent/sibling blocks are targeted. |
+| **Part VII opener** | Seven core blocks removed; residual blocks 8–11 remain cracked/exposed as work beyond the book. |
 | **Epilogue** | Atri recovery image: the Sun visible, the world/reader-field illuminated enough to act, and residual work named. |
 
 **SVG filenames for the illustration set:**
@@ -204,16 +208,16 @@ eclipse_80_epilogue_atri_recovery.svg
 
 ## 6b. Residual pieces beyond this book
 
-The book should not imply that the entire pyramid disappears. It reveals the Sun by removing the seven core Sanskrit-eclipse plates. Four cracked residual plates remain around the field. These should be named as work for later Atris, companion volumes, institutions, educators, and practicing caretakers.
+The book should not imply that the entire pyramid disappears. It reveals the Sun by removing the seven core Sanskrit-eclipse blocks. Four cracked residual blocks remain around the field. These should be named as work for later Atris, companion volumes, institutions, educators, and practicing caretakers.
 
 | Residual piece | What remains after this book | Possible placement |
 |---|---|---|
-| **Institutional Custody** | Departments, peer review, citation networks, standard curricula, institutional incentives, credentialed gatekeeping, and patronage capture will not dissolve just because the argument has been made. Funding, chairs, grants, gifts, donor-shaped institutions, and state-funded colonial Indology belong here as named sub-aspects, not as a twelfth plate. | Ch 4 §4.4 / §4.5 as a diagnosis; Appendix Part 2 / Deccan College where relevant; Ch 19 as a forward-looking task; Epilogue as caretaker work. |
+| **Institutional Custody** | Departments, peer review, citation networks, standard curricula, institutional incentives, credentialed gatekeeping, and patronage capture will not dissolve just because the argument has been made. Funding, chairs, grants, gifts, donor-shaped institutions, and state-funded colonial Indology belong here as named sub-aspects, not as a twelfth block. | Ch 4 §4.4 / §4.5 as a diagnosis; Appendix Part 2 / Deccan College where relevant; Ch 19 as a forward-looking task; Epilogue as caretaker work. |
 | **Public Knowledge Lag** | Textbooks, online summaries, encyclopedic defaults, popular explainers, and casual "Sanskrit is Indo-European" language will continue to repeat the eclipse after the proof exists. | Ch 19 after Life After PIE implications; Epilogue as one of the visible tasks for readers. |
-| **Civilizational Self-Doubt** | The deepest remaining plate: Hindus trained to distrust their own categories, seek permission from the pyramid, or treat Sanskrit's self-knowledge as belief while treating PIE as science. | Ch 0 as a gentle seed in the caretaker turn; Ch 4 as the institutional mechanism; Ch 19/Epilogue as the restoration responsibility. |
+| **Civilizational Self-Doubt** | The deepest remaining block: Hindus trained to distrust their own categories, seek permission from the pyramid, or treat Sanskrit's self-knowledge as belief while treating PIE as science. | Ch 0 as a gentle seed in the caretaker turn; Ch 4 as the institutional mechanism; Ch 19/Epilogue as the restoration responsibility. |
 | **Racial Arya Thesis** | This book breaks the thesis where it touches Sanskrit's authorship, but it does not exhaust the wider genetics, archaeology, migration, and civilizational-custody battle. | Ch 3 names it as a pillar; Ch 16 punctures it through *āryatva* and retroflex; Ch 17 separates movement from authorship; Ch 19/Epilogue name the remaining work for later Atris. |
 
-**Caretaker inaction as field-side responsibility.** Even when the Sun is visible again, the work requires teaching, recitation, writing, funding, institution-building, and transmission. This is not a Svarbhānu/Rāhu plate. It belongs in the Epilogue after the Atri payoff, on the world/caretaker-field side of the illustration.
+**Caretaker inaction as field-side responsibility.** Even when the Sun is visible again, the work requires teaching, recitation, writing, funding, institution-building, and transmission. This is not a Svarbhānu/Rāhu block. It belongs in the Epilogue after the Atri payoff, on the world/caretaker-field side of the illustration.
 
 **Civilizational gaslighting / civilizational self-doubt pair.** Civilizational gaslighting is the pyramid's action; civilizational self-doubt is the internalized wound. The pyramid does not merely misdescribe Sanskrit to the world. It trains Hindus to hesitate before their own categories. That hesitation becomes one of the last shadows left after the Sun has been found. The existing Ch 17 §17.4 "Gaslighting with Footnotes" section should carry the mechanism; Ch 19 / Epilogue should carry the healing obligation.
 
@@ -281,7 +285,7 @@ Wave 3 *ṛṣis* / *ṛṣikās* and Atris are related but not identical.
 ## 9. Open decisions
 
 - **A. Ledger form in the Preface — resolved.** The eclipse schematic (§6a) carries the ledger visually. The Preface should use a compressed prose ledger and point toward the schematic; do not force the full table into Preface prose unless later design work demands it.
-- **B. Āryatva / racial-Arya placement — resolved.** Do not make it an eighth core ledger row. Treat **Racial Arya Thesis** as residual plate 11: damaged by the book where it touches Sanskrit's authorship, but left as larger work for later Atris.
+- **B. Āryatva / racial-Arya placement — resolved.** Do not make it an eighth core ledger row. Treat **Racial Arya Thesis** as residual block 11: damaged by the book where it touches Sanskrit's authorship, but left as larger work for later Atris.
 - **C. Part VII title — resolved.** Keep *Life After PIE* as the title (concrete, already lands); deploy *Light After the Eclipse* as its eclipse-subtitle, so the part carries both the literal and the metaphoric.
 
 ## 10. What does NOT change
@@ -317,9 +321,9 @@ Multiple passes, not one edit. Each pass is one coherent unit, ends in a read-th
 - [ ] Ch 13 (`as_1_13` §13.3): abugida vs audiography strengthen
 - [ ] **Gate:** read both; commit
 
-**Pass 4 — Plate-name deployment (Phase 2; §6a table).**
-- [ ] Weave each plate term into its chapter homes (Descended → Ch 2/17/18, …)
-- [ ] **Gate:** grep each plate term appears where it should; commit
+**Pass 4 — Block-name deployment (Phase 2; §6a table).**
+- [ ] Weave each block term into its chapter homes (Descended → Ch 2/17/18, …)
+- [ ] **Gate:** grep each block term appears where it should; commit
 
 **Pass 5 — Residuals + Wave 3 (Phase 2; §6b, §6c).**
 - [ ] §6b residuals → Ch 4 / Ch 19 / Epilogue (incl. the funding/patronage line)

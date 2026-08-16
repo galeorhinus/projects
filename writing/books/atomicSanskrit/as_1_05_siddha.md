@@ -40,7 +40,7 @@ The book's refrain is:
 
 The *Vedas* preserve the architecture implicitly through *chandas*, *śruti*, and the *guru-shishya* transmission-chain. The *vaiyākaraṇāḥ* make that architecture explicit. Yaska's **निरुक्त (*Nirukta*)** etymological discipline decoded an adjacent layer; Yaska himself cited earlier decoders **Sthaulāṣṭhīvi** (स्थौलाष्ठीवि) and **Śakapūṇi** (शकपूणि) by name, extending the decoding lineage back beyond the named *vaiyākaraṇāḥ*.
 
-Pāṇini's role-title provides the evidence: the lineage does not call him ***स्थपति (sthapati,*** architect), ***निर्माता (nirmātṛ,*** constructor), or anything cognate with *engineer* or *codifier*. It calls him **वैयाकरणः (*vaiyākaraṇaḥ*)**: an analyst, decoder, and documenter.
+Pāṇini's role-title provides the evidence: the Hindu continuum does not call him ***स्थपति (sthapati,*** architect), ***निर्माता (nirmātṛ,*** constructor), or anything cognate with *engineer* or *codifier*. It calls him **वैयाकरणः (*vaiyākaraṇaḥ*)**: an analyst, decoder, and documenter.
 
 Engineering is what the existing architecture has always displayed. Decoding is what the *vaiyākaraṇāḥ* did. 
 

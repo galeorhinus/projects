@@ -220,7 +220,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 ## Part VI — Dispelling Rāhu
 *Not descended, not sibling.*
 
-*The eclipse-device itself — Rāhu, the imaginary ancestor placed over the Sun — comes into view, and the plates that subordinate Sanskrit to it are lifted: the subcontinental mouth-and-mind evidence, the wrong question, and the dispelling of PIE.*
+*The eclipse-device itself — Rāhu, the imaginary ancestor placed over the Sun — comes into view, and the blocks that subordinate Sanskrit to it are lifted: the subcontinental mouth-and-mind evidence, the wrong question, and the dispelling of PIE.*
 
 **Chapter 17 — The Subcontinental Mouth and Mind** — *Establishes that Sanskrit encodes the subcontinent's mouth and mind before the portability thesis is tested: retroflex articulation, reduplication, receiver grammar, doer-demotion, and folded action. The chapter then makes the migration account walk its own claimed northwest route.*
 
@@ -274,7 +274,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 
 ## Epilogue — Make the World Ārya
 
-**Epilogue — Make the World Ārya** *(drafted)* — *The recovery close. The eclipse is over: Svarbhānu's darkness did not win; the Atris found the Sun. The shadow is cleared plate by plate and Rāhu is dispelled; the dharmic frame (karma,* prāyaścitta*) replaces revenge. Names the three residual shadows that remain — institutional custody, public-knowledge lag, and civilizational self-doubt — as the work of the other Atris, then lands the Rigvedic* kṛṇvanto viśvam āryam | apaghnanto arāvṇaḥ *and the Vāk blessing. The reader now receives the cry.*
+**Epilogue — Make the World Ārya** *(drafted)* — *The recovery close. The eclipse is over: Svarbhānu's darkness did not win; the Atris found the Sun. The shadow is cleared block by block and Rāhu is dispelled; the dharmic frame (karma,* prāyaścitta*) replaces revenge. Names the three residual shadows that remain — institutional custody, public-knowledge lag, and civilizational self-doubt — as the work of the other Atris, then lands the Rigvedic* kṛṇvanto viśvam āryam | apaghnanto arāvṇaḥ *and the Vāk blessing. The reader now receives the cry.*
 
 - The Eclipse Is Over — *The wound-line from the Preface returns with the other half supplied: the Atris found the Sun.*
 - What Recognition Makes Possible — *What becomes visible once Sanskrit is no longer forced into the role of PIE's daughter.*

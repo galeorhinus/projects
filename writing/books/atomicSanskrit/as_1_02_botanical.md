@@ -20,7 +20,7 @@
 
 ## 2.1 The Category Withheld from Sanskrit
 
-The first plate placed over Sanskrit is its classification as a natural language. The pyramid assigns that category before the reader examines how Sanskrit is built. Once the classification is accepted, every designed feature can be presented as the result of drift. This is category theft: Sanskrit is placed inside a category that directly contradicts its own architecture.
+The first block placed over Sanskrit is its classification as a natural language. The pyramid assigns that category before the reader examines how Sanskrit is built. Once the classification is accepted, every designed feature can be presented as the result of drift. This is category theft: Sanskrit is placed inside a category that directly contradicts its own architecture.
 
 The pyramid carries out this theft through **आसुरी माया (*āsurī māyā*)**. Sanskrit knows *māyā* as power, formation, appearance, and skill, so its character depends on purpose. In asuric hands, *māyā* becomes a weapon of concealment. The pyramid makes the false category appear natural while Sanskrit's engineered architecture remains directly before the reader.
 

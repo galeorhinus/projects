@@ -4,11 +4,11 @@
 
 ---
 
-The earlier parts cleared the shadow's first plates, laid out Sanskrit's self-description, and mapped its sound-field. Here the fractal claim becomes procedural: the architecture is built in sequence.
+The earlier parts cleared the shadow's first blocks, laid out Sanskrit's self-description, and mapped its sound-field. Here the fractal claim becomes procedural: the architecture is built in sequence.
 
 No new obstruction is removed in this movement. The already-opened light now shows what the earlier distortions had hidden: the atomic architecture beneath sound.
 
-![Figure E.8 — With three plates removed, the cleared light reveals the next scale: sound-particles becoming semantic atoms.](figures/eclipse_spine/eclipse_40_part04_sun_atoms_removed_2_3_4.svg){#fig:eclipse-part04-sun-atoms width=100%}
+![Figure E.8 — With three blocks removed, the cleared light reveals the next scale: sound-particles becoming semantic atoms.](figures/eclipse_spine/eclipse_40_part04_sun_atoms_removed_2_3_4.svg){#fig:eclipse-part04-sun-atoms width=100%}
 
 The sequence is particle, atom, molecule, assembly. Sonomers enter measured scaffolds and become *dhātuḥ* atoms. Those atoms activate into *kriyāpada* molecules. Verbal and nominal molecules then enter larger assemblies until Sanskrit can build the *vākya*.
 

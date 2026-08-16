@@ -20,7 +20,7 @@
 
 \bigskip
 
-The asuric attacks on the Vedas and Sanskrit are timeless. The Śaṅkha does not begin that war. Its sound reminds the people that the war is already underway and calls those who preserved the Vedas and Sanskrit to defend what they inherited. When the conch sounds, the eclipse still covers the Sun completely. Every plate remains firmly in place.
+The asuric attacks on the Vedas and Sanskrit are timeless. The Śaṅkha does not begin that war. Its sound reminds the people that the war is already underway and calls those who preserved the Vedas and Sanskrit to defend what they inherited. When the conch sounds, the eclipse still covers the Sun completely. Every block remains firmly in place.
 
 ![Figure E.2 — The Śaṅkha Sounds. The full eclipse remains in place, but the conch has sounded while the world is still dark.](figures/eclipse_spine/eclipse_00_overture_shankha_full.svg){#fig:eclipse-overture-shankha width=100%}
 
