@@ -363,10 +363,21 @@ header.top .subtitle {
 /* Status tiles (Resolved / Acknowledged / Awaiting reader / Reader
    replied) are real <button>s, clickable filters -- visually distinct
    from the plain informational tiles (Tagged / AI-suggested /
-   Untagged / Readers), which stay muted and non-interactive. */
+   Untagged / Readers), which stay muted and non-interactive.
+   border/background/color must all be explicit here (matching .chip's
+   approach elsewhere) -- a bare <button> carries its own UA-stylesheet
+   text color (buttontext, effectively black) that beats inheritance
+   from body's --text, so without this the numbers render black no
+   matter what theme is active. Confirmed live 2026-08-16: only the
+   button tiles were affected, the plain <div> tiles (.stat-muted)
+   inherited correctly since a div has no such default. */
 .stat-btn {
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
   cursor: pointer;
   font-family: inherit;
+  text-align: left;
 }
 .stat-btn:hover { border-color: var(--accent); }
 .stat-btn.active {
