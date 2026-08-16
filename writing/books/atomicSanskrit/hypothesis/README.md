@@ -102,12 +102,27 @@ snapshot is worth sharing or viewing outside this flow -- the two publish
 paths don't conflict, `build_dashboard.py --install` just adds a second
 output alongside the usual `hypothesis/dashboard.html`.
 
-Crontab on amrut (`crontab -e` as `ubuntu`):
+Crontab on amrut (`crontab -e` as `ubuntu`) runs `cron_gate.sh` every
+minute, not `run_pipeline.sh` directly:
 
 ```
-TZ=America/Chicago
-0 8,18 * * * /home/ubuntu/projects/writing/books/atomicSanskrit/hypothesis/run_pipeline.sh >> /home/ubuntu/projects/writing/books/atomicSanskrit/hypothesis/cron.log 2>&1
+* * * * * /home/ubuntu/projects/writing/books/atomicSanskrit/hypothesis/cron_gate.sh >> /home/ubuntu/projects/writing/books/atomicSanskrit/hypothesis/cron.log 2>&1
 ```
+
+**Why not a `TZ=` line + `0 8,18 * * *`, the obvious approach?**
+Confirmed broken live 2026-08-16: amrut's `cron` package (Ubuntu's stock
+Debian/Vixie-derived `cron`, not `cronie`) only exports a crontab's `TZ=`
+line into the *job's own environment* -- it does **not** use it to
+interpret the *schedule*. The daemon matches `0 8,18 * * *` against the
+system's own timezone (`Etc/UTC` on amrut, per `timedatectl`), so that
+config actually fired at 8am/6pm UTC = 3am/1pm Chicago, hours before
+the "8am" the user expected and while they were asleep. `cron_gate.sh`
+checks real Chicago wall time via `TZ=America/Chicago date +%H%M` (a
+plain `date` invocation, unlike cron's scheduler, DOES honor an inline
+`TZ=` and re-reads tzdata every call, so this stays correct across DST
+without a hardcoded UTC offset) and only execs `run_pipeline.sh` in the
+exact target minute -- silent, no `cron.log` output, every other
+minute.
 
 The three secret files (`token.txt`, `anthropic_token.txt`,
 `smtp_app_password.txt`) live only on amrut and this machine -- never
