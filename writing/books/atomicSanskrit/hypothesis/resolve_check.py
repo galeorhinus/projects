@@ -80,6 +80,17 @@ MIN_ANCHOR_LEN = 15
 
 _MD_EMPHASIS_RE = re.compile(r"\*{1,3}")
 _NOTE_MARKER_RE = re.compile(r"\[NOTE:\s*[\w-]+\]")
+# Leading list markers -- "- item", "+ item", "1. item" -- at the start
+# of a line. Must run BEFORE whitespace collapse (needs real newlines
+# for ^ to anchor on) and independently of _MD_EMPHASIS_RE: an
+# asterisk-bulleted "* item" already loses its marker to the emphasis
+# strip, but a dash/plus/numbered marker never did. Found live
+# 2026-08-16: a plain-line passage got reformatted as a Markdown bullet
+# list with no wording change at all, and the unstripped "- " at every
+# line start broke the exact match and capped the fuzzy ratio at
+# roughly 1/(number of bullets) -- one line's worth of overlap out of
+# five -- pushing a genuinely-unchanged passage into likely_resolved.
+_LIST_MARKER_RE = re.compile(r"(?m)^[ \t]*(?:[-+]|\d+\.)\s+")
 _WS_RE = re.compile(r"\s+")
 _SMART_QUOTES = str.maketrans({
     "‘": "'", "’": "'", "“": '"', "”": '"',
@@ -89,12 +100,13 @@ _SMART_QUOTES = str.maketrans({
 
 def normalize(text: str) -> str:
     """Approximate what a reader actually SAW in the rendered page from
-    raw Markdown source: strip emphasis markers and endnote stubs,
-    collapse pandoc's smart-typography substitutions back to plain
-    ASCII equivalents (both source and quote get the same treatment,
-    so it doesn't matter which direction pandoc's substitution ran),
-    collapse whitespace."""
+    raw Markdown source: strip list markers, emphasis markers, and
+    endnote stubs, collapse pandoc's smart-typography substitutions
+    back to plain ASCII equivalents (both source and quote get the same
+    treatment, so it doesn't matter which direction pandoc's
+    substitution ran), collapse whitespace."""
     text = _NOTE_MARKER_RE.sub("", text)
+    text = _LIST_MARKER_RE.sub("", text)
     text = _MD_EMPHASIS_RE.sub("", text)
     text = text.translate(_SMART_QUOTES)
     text = _WS_RE.sub(" ", text)
