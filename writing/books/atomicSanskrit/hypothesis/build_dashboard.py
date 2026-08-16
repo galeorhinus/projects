@@ -291,30 +291,91 @@ header.top .subtitle {
   font-size: 0.9rem;
 }
 
+.stats-hero {
+  margin-top: 14px;
+}
+.hero-stat {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1px;
+  background: var(--c-verify-bg);
+  border: 1px solid var(--c-verify-fg);
+  border-radius: 10px;
+  padding: 12px 22px;
+  cursor: pointer;
+  font-family: inherit;
+  text-align: left;
+}
+.hero-stat:hover { filter: brightness(1.08); }
+.hero-stat.active {
+  background: var(--c-verify-fg);
+  border-color: var(--c-verify-fg);
+}
+.hero-stat.active .hero-n, .hero-stat.active .hero-label, .hero-stat.active .hero-total {
+  color: #fff;
+}
+.hero-n {
+  font-variant-numeric: tabular-nums;
+  font-size: 2.3rem;
+  font-weight: 800;
+  line-height: 1;
+  color: var(--c-verify-fg);
+}
+.hero-label {
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--c-verify-fg);
+}
+.hero-total {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  margin-top: 3px;
+}
+
 .stats {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
-  margin-top: 14px;
+  gap: 8px;
+  margin-top: 10px;
 }
 .stat {
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: 8px;
-  padding: 8px 12px;
-  min-width: 84px;
+  padding: 6px 10px;
+  min-width: 70px;
 }
 .stat .n {
   font-variant-numeric: tabular-nums;
-  font-size: 1.15rem;
+  font-size: 1rem;
   font-weight: 700;
   display: block;
 }
 .stat .label {
   color: var(--text-muted);
-  font-size: 0.72rem;
+  font-size: 0.66rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
+}
+/* Status tiles (Resolved / Acknowledged / Awaiting reader / Reader
+   replied) are real <button>s, clickable filters -- visually distinct
+   from the plain informational tiles (Tagged / AI-suggested /
+   Untagged / Readers), which stay muted and non-interactive. */
+.stat-btn {
+  cursor: pointer;
+  font-family: inherit;
+}
+.stat-btn:hover { border-color: var(--accent); }
+.stat-btn.active {
+  background: var(--accent);
+  border-color: var(--accent);
+}
+.stat-btn.active .n, .stat-btn.active .label { color: var(--accent-ink); }
+.stat-muted {
+  opacity: 0.75;
 }
 
 .filters {
@@ -590,6 +651,7 @@ a { color: var(--accent); }
 <header class="top">
   <h1 class="serif">Reader Margins</h1>
   <p class="subtitle">Consolidated annotations across every Atomic Sanskrit reading group</p>
+  <div class="stats-hero" id="stats-hero"></div>
   <div class="stats" id="stats"></div>
 </header>
 
@@ -627,6 +689,7 @@ const state = {
   tags: new Set(),
   sort: "date-desc",
   hideResolved: true,
+  statusFilter: null,  // null | "unresolved" | "resolved" | "acknowledged" | "awaiting-reader" | "reader-replied"
 };
 
 function clusterOf(tag) { return CLUSTERS[tag] || "mechanical"; }
@@ -701,6 +764,11 @@ function buildTagFilters() {
 }
 
 function matches(a) {
+  if (state.statusFilter === "unresolved") {
+    if (a.status === "resolved" || a.status === "acknowledged") return false;
+  } else if (state.statusFilter) {
+    if (a.status !== state.statusFilter) return false;
+  }
   if (state.hideResolved && a.resolved) return false;
   if (state.readers.size && !state.readers.has(a.user)) return false;
   if (state.chapter && a.chapter !== state.chapter) return false;
@@ -857,34 +925,77 @@ function escapeHTML(s) {
   return (s || "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 }
 
+function setStatusFilter(key) {
+  state.statusFilter = state.statusFilter === key ? null : key;
+  // A status filter and "hide resolved/acknowledged" can conflict the
+  // same way the toggle-side check above does (e.g. filtering to
+  // "Resolved" while hiding resolved would just be empty) -- clearing
+  // hideResolved here keeps a filter click always showing SOMETHING.
+  if (state.statusFilter) {
+    state.hideResolved = false;
+    const toggle = document.getElementById("resolved-toggle");
+    toggle.classList.remove("active");
+    toggle.firstChild.textContent = "Hide resolved";
+  }
+  renderStats();
+  render();
+}
+
 function renderStats() {
-  const total = DATA.length;
-  const tagged = DATA.filter(a => a.tags.length).length;
-  const aiOnly = DATA.filter(a => !a.tags.length && a.suggested.length).length;
-  const untagged = DATA.filter(a => !a.tags.length && !a.suggested.length).length;
+  // Reply annotations (our own composer posts) aren't reader content --
+  // counting them alongside root annotations would inflate every tile
+  // (a resolved thread is 2 DATA rows: the flagged comment + our
+  // reply, both carrying the same status). Every count here is rooted
+  // annotations only, matching what a reader actually wrote.
+  const roots = DATA.filter(a => !a.reply);
+  const total = roots.length;
+  const tagged = roots.filter(a => a.tags.length).length;
+  const aiOnly = roots.filter(a => !a.tags.length && a.suggested.length).length;
+  const untagged = roots.filter(a => !a.tags.length && !a.suggested.length).length;
   const readers = uniqueSorted(DATA.map(a => a.user)).length;
-  const resolved = DATA.filter(a => a.status === "resolved").length;
-  const acknowledged = DATA.filter(a => a.status === "acknowledged").length;
-  const awaitingReader = DATA.filter(a => a.status === "awaiting-reader").length;
-  const readerReplied = DATA.filter(a => a.status === "reader-replied").length;
-  const stats = [
-    ["Annotations", total],
+
+  const countOf = status => roots.filter(a => a.status === status).length;
+  const resolved = countOf("resolved");
+  const acknowledged = countOf("acknowledged");
+  const awaitingReader = countOf("awaiting-reader");
+  const readerReplied = countOf("reader-replied");
+  const unresolved = total - resolved - acknowledged;
+
+  const heroActive = state.statusFilter === "unresolved" ? " active" : "";
+  document.getElementById("stats-hero").innerHTML = `
+    <button class="hero-stat${heroActive}" onclick="setStatusFilter('unresolved')">
+      <span class="hero-n">${unresolved}</span>
+      <span class="hero-label">Unresolved</span>
+      <span class="hero-total">of ${total} total</span>
+    </button>`;
+
+  const statusStats = [
+    ["resolved", "Resolved", resolved],
+    ["acknowledged", "Acknowledged", acknowledged],
+    ["awaiting-reader", "Awaiting reader", awaitingReader],
+    ["reader-replied", "Reader replied", readerReplied],
+  ];
+  const metaStats = [
     ["Tagged", tagged],
     ["AI-suggested", aiOnly],
     ["Untagged", untagged],
-    ["Resolved", resolved],
-    ["Acknowledged", acknowledged],
-    ["Awaiting reader", awaitingReader],
-    ["Reader replied", readerReplied],
     ["Readers", readers],
   ];
-  document.getElementById("stats").innerHTML = stats.map(([label, n]) =>
-    `<div class="stat"><span class="n">${n}</span><span class="label">${label}</span></div>`
+
+  const statusHTML = statusStats.map(([key, label, n]) =>
+    `<button class="stat stat-btn${state.statusFilter === key ? " active" : ""}" onclick="setStatusFilter('${key}')">
+       <span class="n">${n}</span><span class="label">${label}</span>
+     </button>`
   ).join("");
+  const metaHTML = metaStats.map(([label, n]) =>
+    `<div class="stat stat-muted"><span class="n">${n}</span><span class="label">${label}</span></div>`
+  ).join("");
+  document.getElementById("stats").innerHTML = statusHTML + metaHTML;
+
   // The toggle hides anything a.resolved (resolved OR acknowledged --
-  // both closed states), so its count reflects that, not just the
+  // both closed states), so its count reflects that, not the
   // "Resolved" stat tile above (which is resolved-only for clarity).
-  document.getElementById("resolved-count").textContent = DATA.filter(a => a.resolved).length;
+  document.getElementById("resolved-count").textContent = DATA.filter(a => !a.reply && a.resolved).length;
 }
 
 function render() {
@@ -906,6 +1017,14 @@ document.getElementById("sort").addEventListener("change", e => {
 const resolvedToggle = document.getElementById("resolved-toggle");
 resolvedToggle.addEventListener("click", () => {
   state.hideResolved = !state.hideResolved;
+  // Hiding resolved/acknowledged while a status filter demands showing
+  // ONLY resolved/acknowledged would just produce an empty list -- the
+  // two are conflicting intents, so turning the toggle on clears any
+  // such filter rather than leaving a confusing blank page.
+  if (state.hideResolved && (state.statusFilter === "resolved" || state.statusFilter === "acknowledged")) {
+    state.statusFilter = null;
+    renderStats();
+  }
   resolvedToggle.classList.toggle("active", state.hideResolved);
   resolvedToggle.firstChild.textContent = state.hideResolved ? "Hide resolved" : "Show resolved";
   render();
