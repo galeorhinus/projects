@@ -97,37 +97,59 @@ def main() -> int:
     annotations = json.loads(DATA_PATH.read_text())
     taxonomy = json.loads(TAXONOMY_PATH.read_text())["tags"]
 
-    # An annotation's status comes from a reply to it (a separate
-    # annotation with "references": [this id]) carrying one of the
-    # three status tags dashboard_api.py's composer applies -- see
-    # post_replies.py for the older resolved-only path, still valid.
-    # A parent can pick up more than one status reply over time (e.g.
-    # "awaiting-reader" first, "resolved" once the follow-up lands);
-    # precedence favors the more conclusive one so the badge/hide-
-    # toggle reflect the current state, not just the first reply ever
-    # posted. "resolved" and "acknowledged" both count as closed for
-    # the hide-toggle -- an acknowledged praise note doesn't correspond
-    # to any text change, but it's still something the user has
-    # finished dealing with. "awaiting-reader" stays visible on
-    # purpose: it's still open, just no longer untouched.
+    # An annotation's status comes from the LATEST message in its whole
+    # reply thread, not just a single direct reply -- otherwise a
+    # reader responding to an "awaiting-reader" note would leave the
+    # card stuck showing "awaiting reader" forever even after the ball
+    # is back in the owner's court. Threads are grouped by root (an
+    # annotation with no references of its own); a reply belongs to
+    # whichever known root appears anywhere in its own "references"
+    # list, which works regardless of nesting depth or list ordering
+    # (Hypothesis's own client can include the full ancestor chain, not
+    # just the immediate parent, so this doesn't assume a fixed index).
+    #
+    #   - latest message is OUR reply carrying one of the three status
+    #     tags -> that status (most recent action wins, so a reader
+    #     pushing back after a "resolved" reply reopens it: their
+    #     later message makes THEM the latest, triggering the next
+    #     branch instead)
+    #   - latest message is from anyone else, after we'd already
+    #     replied at least once in the thread -> "reader-replied":
+    #     they came back, needs a fresh look, regardless of whatever
+    #     status our own last reply had
+    #   - no replies yet, or nobody but the original author has ever
+    #     posted in it -> no status (row reads as untouched)
+    OWNER_USER = "rhinusgaleo"
     STATUS_TAGS = ("resolved", "acknowledged", "awaiting-reader")
-    reply_ids_by_status: dict[str, set[str]] = {t: set() for t in STATUS_TAGS}
-    parent_status: dict[str, str] = {}
+
+    root_ids = {a["id"] for a in annotations if not a.get("references")}
+    threads: dict[str, list[dict]] = {rid: [] for rid in root_ids}
     for a in annotations:
-        tags = a.get("tags", [])
-        matched = next((t for t in STATUS_TAGS if t in tags), None)
-        if matched and a.get("references"):
-            reply_ids_by_status[matched].add(a["id"])
-            for parent_id in a["references"]:
-                current = parent_status.get(parent_id)
-                if current is None or STATUS_TAGS.index(matched) < STATUS_TAGS.index(current):
-                    parent_status[parent_id] = matched
+        for rid in (a.get("references") or []):
+            if rid in threads:
+                threads[rid].append(a)
+                break  # a reply belongs to exactly one thread
+
+    own_reply_status: dict[str, str] = {}
+    parent_status: dict[str, str] = {}
+    for root_id, msgs in threads.items():
+        msgs.sort(key=lambda m: m["created"])
+        for m in msgs:
+            matched = next((t for t in STATUS_TAGS if t in m.get("tags", [])), None)
+            if matched:
+                own_reply_status[m["id"]] = matched
+        if not msgs:
+            continue
+        last = msgs[-1]
+        if last["user"] == OWNER_USER:
+            matched = next((t for t in STATUS_TAGS if t in last.get("tags", [])), None)
+            if matched:
+                parent_status[root_id] = matched
+        elif any(m["user"] == OWNER_USER for m in msgs):
+            parent_status[root_id] = "reader-replied"
 
     def status_of(annotation_id: str) -> str | None:
-        for t in STATUS_TAGS:
-            if annotation_id in reply_ids_by_status[t]:
-                return t
-        return parent_status.get(annotation_id)
+        return own_reply_status.get(annotation_id) or parent_status.get(annotation_id)
 
     # Trim to what the page actually renders, and derive the chapter
     # slug once here rather than in client JS.
@@ -468,6 +490,14 @@ main {
   border-radius: 999px;
   padding: 1px 8px;
 }
+.reader-replied-badge {
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--c-verify-fg);
+  background: var(--c-verify-bg);
+  border-radius: 999px;
+  padding: 1px 8px;
+}
 .card.is-resolved {
   opacity: 0.6;
 }
@@ -687,10 +717,20 @@ function matches(a) {
   return true;
 }
 
+// Only applied within the two date-based sorts, not chapter/user --
+// those modes mean "group strictly by chapter/reader" and interleaving
+// by status would break that. reader-replied floats to the very top
+// (a live conversation needs a response more urgently than something
+// nobody's looked at yet); awaiting-reader sinks toward the bottom
+// (the ball's in the reader's court, not yours -- see "should it go
+// down?", answered 2026-08-16); untouched (no status) sits in between.
+const STATUS_SORT_WEIGHT = { "reader-replied": 0, "awaiting-reader": 2 };
+function statusWeight(a) { return STATUS_SORT_WEIGHT[a.status] ?? 1; }
+
 function sortRows(rows) {
   const s = [...rows];
-  if (state.sort === "date-desc") s.sort((a, b) => b.created.localeCompare(a.created));
-  else if (state.sort === "date-asc") s.sort((a, b) => a.created.localeCompare(b.created));
+  if (state.sort === "date-desc") s.sort((a, b) => statusWeight(a) - statusWeight(b) || b.created.localeCompare(a.created));
+  else if (state.sort === "date-asc") s.sort((a, b) => statusWeight(a) - statusWeight(b) || a.created.localeCompare(b.created));
   else if (state.sort === "chapter") s.sort((a, b) => a.chapter.localeCompare(b.chapter) || b.created.localeCompare(a.created));
   else if (state.sort === "user") s.sort((a, b) => a.user.localeCompare(b.user) || b.created.localeCompare(a.created));
   return s;
@@ -709,6 +749,7 @@ const STATUS_BADGE = {
   "resolved": ["resolved-badge", "resolved"],
   "acknowledged": ["acknowledged-badge", "acknowledged"],
   "awaiting-reader": ["awaiting-badge", "awaiting reader"],
+  "reader-replied": ["reader-replied-badge", "reader replied ↩"],
 };
 
 function cardHTML(a) {
@@ -825,6 +866,7 @@ function renderStats() {
   const resolved = DATA.filter(a => a.status === "resolved").length;
   const acknowledged = DATA.filter(a => a.status === "acknowledged").length;
   const awaitingReader = DATA.filter(a => a.status === "awaiting-reader").length;
+  const readerReplied = DATA.filter(a => a.status === "reader-replied").length;
   const stats = [
     ["Annotations", total],
     ["Tagged", tagged],
@@ -833,6 +875,7 @@ function renderStats() {
     ["Resolved", resolved],
     ["Acknowledged", acknowledged],
     ["Awaiting reader", awaitingReader],
+    ["Reader replied", readerReplied],
     ["Readers", readers],
   ];
   document.getElementById("stats").innerHTML = stats.map(([label, n]) =>
