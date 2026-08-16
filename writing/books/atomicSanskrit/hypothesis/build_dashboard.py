@@ -459,6 +459,24 @@ select {
   color: var(--accent);
   border-style: dashed;
 }
+.refresh-btn {
+  border-color: var(--accent);
+  color: var(--accent);
+  font-weight: 600;
+}
+.refresh-btn:hover:not(:disabled) {
+  background: var(--accent);
+  color: var(--accent-ink);
+}
+.refresh-btn:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+.refresh-note {
+  margin: 4px 0 0;
+  font-size: 0.72rem;
+  color: var(--text-muted);
+}
 
 main {
   padding: 18px clamp(16px, 4vw, 40px) 60px;
@@ -677,7 +695,9 @@ a { color: var(--accent); }
       <option value="user">By reader</option>
     </select>
     <button class="chip active" id="resolved-toggle">Hide resolved<span class="n" id="resolved-count"></span></button>
+    <button class="chip refresh-btn" id="refresh-btn">⟳ Refresh now</button>
   </div>
+  <p class="refresh-note" id="refresh-note">Auto-refreshes every 15 minutes in the background.</p>
   <div class="filter-row" id="reader-filters"></div>
   <div class="filter-row" id="chapter-filter"></div>
   <div class="filter-row" id="tag-filters"></div>
@@ -1039,6 +1059,35 @@ resolvedToggle.addEventListener("click", () => {
   resolvedToggle.classList.toggle("active", state.hideResolved);
   resolvedToggle.firstChild.textContent = state.hideResolved ? "Hide resolved" : "Show resolved";
   render();
+});
+
+const refreshBtn = document.getElementById("refresh-btn");
+const refreshNote = document.getElementById("refresh-note");
+refreshBtn.addEventListener("click", async () => {
+  refreshBtn.disabled = true;
+  refreshBtn.textContent = "⟳ Refreshing…";
+  refreshNote.textContent = "Pulling from Hypothesis, tagging, and rebuilding -- can take up to a minute.";
+  let res;
+  try {
+    res = await fetch("/as/private/dashboard/api/refresh", { method: "POST" });
+  } catch (e) {
+    refreshNote.textContent = "Network error -- try again.";
+    refreshBtn.disabled = false;
+    refreshBtn.textContent = "⟳ Refresh now";
+    return;
+  }
+  if (!res.ok) {
+    const body = await res.json().catch(() => ({}));
+    refreshNote.textContent = `Refresh failed: ${body.error || `HTTP ${res.status}`} -- try again.`;
+    refreshBtn.disabled = false;
+    refreshBtn.textContent = "⟳ Refresh now";
+    return;
+  }
+  // Full page reload (not a DATA patch) -- the whole point is to pick
+  // up everything new since page load, not just the one thing this
+  // button call knows about, including brand-new reader annotations
+  // this session's DATA array was never given.
+  window.location.reload();
 });
 
 renderStats();

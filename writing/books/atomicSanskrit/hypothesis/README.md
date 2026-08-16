@@ -78,8 +78,29 @@ state file).
 
 ## Scheduled runs (amrut)
 
-`run_pipeline.sh` is the cron entry point: pull → tag → install the
-dashboard → digest, twice daily, fully unattended.
+Two separate cadences, added 2026-08-17 so the dashboard can be a
+near-real-time default view instead of only refreshing twice a day:
+
+```
+refresh_dashboard.sh   -- pull + tag + rebuild the dashboard.
+                          Every 15 minutes via plain cron (no gating
+                          needed -- "every 15 minutes" has no timezone
+                          dependency, unlike a fixed wall-clock time).
+cron_gate.sh            -- digest_send.py only. Runs every minute but
+                          only actually fires at 8am/6pm Chicago (see
+                          "Why not a TZ= line" below) -- an email
+                          notification every 15 minutes would be spam,
+                          not a digest.
+run_pipeline.sh          -- the old all-in-one sequence (pull + tag +
+                          dashboard + digest). Not cron's entry point
+                          anymore; kept as a manual convenience for
+                          testing or forcing everything caught up by
+                          hand in one call.
+```
+
+The dashboard's own "Refresh now" button (`dashboard_api.py`'s
+`/refresh` route) triggers `refresh_dashboard.sh` on demand too, for
+checking right now instead of waiting up to 15 minutes.
 
 **The live dashboard**: <https://secondshanti.org/as/private/dashboard/>
 (owner-only). It sits inside `/as/private/*`'s Google-OAuth gate but adds
@@ -102,10 +123,10 @@ snapshot is worth sharing or viewing outside this flow -- the two publish
 paths don't conflict, `build_dashboard.py --install` just adds a second
 output alongside the usual `hypothesis/dashboard.html`.
 
-Crontab on amrut (`crontab -e` as `ubuntu`) runs `cron_gate.sh` every
-minute, not `run_pipeline.sh` directly:
+Crontab on amrut (`crontab -e` as `ubuntu`):
 
 ```
+*/15 * * * * /home/ubuntu/projects/writing/books/atomicSanskrit/hypothesis/refresh_dashboard.sh >> /home/ubuntu/projects/writing/books/atomicSanskrit/hypothesis/cron.log 2>&1
 * * * * * /home/ubuntu/projects/writing/books/atomicSanskrit/hypothesis/cron_gate.sh >> /home/ubuntu/projects/writing/books/atomicSanskrit/hypothesis/cron.log 2>&1
 ```
 
@@ -120,7 +141,7 @@ the "8am" the user expected and while they were asleep. `cron_gate.sh`
 checks real Chicago wall time via `TZ=America/Chicago date +%H%M` (a
 plain `date` invocation, unlike cron's scheduler, DOES honor an inline
 `TZ=` and re-reads tzdata every call, so this stays correct across DST
-without a hardcoded UTC offset) and only execs `run_pipeline.sh` in the
+without a hardcoded UTC offset) and only execs `digest_send.py` in the
 exact target minute -- silent, no `cron.log` output, every other
 minute.
 

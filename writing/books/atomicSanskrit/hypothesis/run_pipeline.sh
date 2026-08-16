@@ -1,12 +1,15 @@
 #!/usr/bin/env bash
-# run_pipeline.sh -- the cron entry point on amrut. Pulls fresh
-# annotations, backstops tags via the LLM, installs the dashboard at
-# https://secondshanti.org/as/private/dashboard/ (owner-only -- see the
-# Caddyfile), and sends a digest email of what's new (silent no-op if
-# nothing is). This is the one script that publishes the dashboard
-# autonomously; publishing dashboard.html as a Claude Artifact instead
-# (or in addition) is still available but needs an interactive Claude
-# Code session and a manual republish each time.
+# run_pipeline.sh -- manual full-refresh convenience: pull + tag +
+# rebuild the dashboard + send the digest, all four steps, in one call.
+#
+# NOT cron's entry point anymore (was, until 2026-08-17) -- cron now
+# runs the two halves on their own separate cadences instead:
+#   refresh_dashboard.sh  -- pull + tag + dashboard, every 15 minutes
+#   cron_gate.sh           -- digest_send.py only, at 8am/6pm Chicago
+# splitting them out let the dashboard become a near-real-time default
+# view without also firing an email notification every 15 minutes.
+# This script still runs the old all-in-one sequence, useful when
+# testing changes or wanting everything caught up immediately by hand.
 set -euo pipefail
 cd "$(dirname "$0")"
 

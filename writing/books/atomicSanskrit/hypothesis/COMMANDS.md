@@ -17,10 +17,12 @@ python3 pull_annotations.py && python3 auto_tagger.py && \
   python3 build_dashboard.py && python3 digest_send.py
 ```
 
-This is also what runs automatically on amrut twice a day
-(`run_pipeline.sh`, minus the digest's `--dry-run`/`--force` options) --
-you don't need to run it by hand unless you want fresher data right now
-or you're testing a change.
+On amrut this is split across two cron cadences instead of running all
+together: `refresh_dashboard.sh` (pull + tag + dashboard) every 15
+minutes, `cron_gate.sh` (digest only) at 8am/6pm Chicago. You don't
+need to run the full sequence by hand unless you're testing a change
+or want everything forced to catch up immediately -- the dashboard's
+own "Refresh now" button does the pull+tag+rebuild part on demand too.
 
 ---
 

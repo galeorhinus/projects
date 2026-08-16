@@ -179,6 +179,37 @@ class Handler(BaseHTTPRequestHandler):
             self._send_json(403, {"error": "forbidden"})
             return
 
+        # handle_path in the Caddyfile strips the /as/private/dashboard/api
+        # prefix before proxying here, so "/refresh" (from the Refresh
+        # button) and "/" (the reply composer, the original single
+        # route) are what's left to route on.
+        if self.path.rstrip("/") == "/refresh":
+            self._handle_refresh()
+            return
+        self._handle_reply_post()
+
+    def _handle_refresh(self) -> None:
+        """Full pull + tag + rebuild on demand, for the dashboard's own
+        "Refresh now" button -- the background cadence
+        (refresh_dashboard.sh, every 15 minutes via cron) already keeps
+        the page reasonably current, but this exists for "check right
+        now" instead of waiting up to 15 minutes."""
+        try:
+            subprocess.run(
+                [str(HYPOTHESIS_DIR / "refresh_dashboard.sh")],
+                cwd=str(HYPOTHESIS_DIR), check=True, capture_output=True, timeout=90, text=True,
+            )
+        except subprocess.CalledProcessError as e:
+            print(f"manual refresh failed: {e}\nstdout: {e.stdout}\nstderr: {e.stderr}", file=sys.stderr)
+            self._send_json(502, {"error": "refresh failed -- see server logs"})
+            return
+        except (subprocess.TimeoutExpired, OSError) as e:
+            print(f"manual refresh failed: {e}", file=sys.stderr)
+            self._send_json(502, {"error": str(e)})
+            return
+        self._send_json(200, {"status": "refreshed"})
+
+    def _handle_reply_post(self) -> None:
         length = int(self.headers.get("Content-Length", 0))
         try:
             payload = json.loads(self.rfile.read(length).decode("utf-8"))
