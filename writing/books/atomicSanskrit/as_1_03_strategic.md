@@ -132,7 +132,9 @@ The strategy changed with circumstance. When Sanskrit could be treated as dead, 
 
 ## 3.6 The Asura Analysis: Action, not Faction
 
-The architecture of containment is *asuric* because it is defined by act of containment. The Rigvedic passages expose that structural distinction; the pyramid replaces it with faction.
+One of the clearest exercises of ***सत्–असत्-विवेकबुद्धि (sat–asat-viveka-buddhi)*** appears in the Ṛgveda. Two different Sanskrit words share the sound-form ***असुर (asura)***, yet carry opposing meanings. The listener must examine what the actor does to distinguish ***asu-ra*** from ***a-sura***, and therefore ***sat*** from ***asat***.
+
+The architecture of containment is *a-suric* because it withholds what should flow and encloses what should remain open. The Rigvedic passages expose that structural distinction. The pyramid hides it by presenting the protagonists and antagonists as rival factions competing for power.
 
 English, like Sanskrit and many other languages, includes words that sound and look identical while describing opposite actions. A captive lies *bound* to a chair. A hare *bounds* across a field. Ropes hold the captive in one place while the hare leaps freely, yet the same sound-form appears in both sentences. No English speaker confuses the two because each sentence describes an action that identifies which word the speaker used.
 

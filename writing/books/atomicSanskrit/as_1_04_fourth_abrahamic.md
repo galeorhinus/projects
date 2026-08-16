@@ -60,7 +60,7 @@ The substitutions followed an exact pattern. Genesis became the Big Bang. God di
 
 The genealogy runs deeper than metaphor. The *"Enlightenment"* did not abolish Abrahamic end-time structure; it secularized it into a beginning, a saving sequence, and an end toward which collective effort is bent. The end may be liberal democracy or technological transcendence. The vehicle changes. The end-time structure does not.[NOTE: voegelin-gnosticism]
 
-The fourth Abrahamic religion succeeds because it portrays it is post-religious. A Christian missionary is visible as a missionary. A missionary of progress arrives under the cover of universal standards and scientific consensus. That cover makes the doctrine portable into civilizations that have their own categories.[NOTE: black-mass-gray]
+The fourth Abrahamic religion succeeds because it *portrays* it is post-religious. A Christian missionary is visible as a missionary. A missionary of progress arrives under the cover of universal standards and scientific consensus. That cover makes the doctrine portable into civilizations that have their own categories.[NOTE: black-mass-gray]
 
 The church of progress now presents climate catastrophe as its apocalypse. Most human beings genuinely want to care for the planet and leave it healthy for future generations. The church hijacks that desire and turns it into an urgent judgment-day story: the world is about to end. It then announces a single *"solution"* that will prevent judgment day. Anyone who questions that solution is dismissed as a climate denier.[NOTE: fourth-abrahamic-eschatology-precedent]
 

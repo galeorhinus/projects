@@ -45,7 +45,7 @@ The Eight Core Theses describe the movement of the argument. The Eclipse Ledger 
 
 3. **The family-tree metaphor is the foundational category theft of historical linguistics.** The discipline arranges the world's languages like a family tree — a parent branching into daughters that drift and mutate across generations. That picture fits a natural language; it fails on one engineered against that behavior. **Chapter 2.**
 
-4. **Language classification by origin and generativity exposes a category the discipline has no name for.** Natural Languages, Petrified Languages, and Lexicon-Dependent Constructed Languages leave one cell empty: a designed system that keeps generating new form from a closed set of atoms. Sanskrit occupies that cell. **Chapter 2 §2.2.**
+4. **Language classification by origin and generativity exposes a category the discipline has no name for.** Generative Architectures combine engineered origin with the capacity to create new expression internally. Esperanto and Sanskrit both demonstrate that category. Sanskrit alone has also remained invariant across thousands of years because its two-domain architecture separates exact preservation from worldly generation. **Chapter 2 §§2.2–2.3; Chapter 16.**
 
 5. **PIE is an imaginary language placed above a real one.** It is unattested in any speech community, inscription, recitation lineage, or text. The asterisk is the visible confession: a reconstructed form installed in the source slot. **Chapter 19.**
 
@@ -57,7 +57,7 @@ The Eight Core Theses describe the movement of the argument. The Eclipse Ledger 
 
 8. ***Apabhraṃśa* is the entropy Sanskrit identifies and resists.** Patañjali's *gauḥ* example shows one calibrated word and multiple fallings-away. The drift is real; it is not Sanskrit's nature. It is the tendency Sanskrit was engineered to resist. **Chapter 6.**
 
-9. **Stated rules alone cannot hold a language against entropy.** Esperanto has explicit grammar and still drifts once a speech community adopts it, absorbing irregularity the way any natural language does. Sanskrit resists the same pressure only because calibration, not rule-statement, does the holding. **Chapter 2 §2.3.**
+9. **Generative architecture alone cannot hold a language against entropy.** Esperanto became capable of ordinary communal life and then began changing with its speakers. Sanskrit resists the same pressure because its two domains place generative worldly use beside an invariant Vedic calibrant. **Chapter 2 §2.3; Chapter 6 §6.4; Chapter 16.**
 
 10. **Sanskrit's architecture is atomic and fractal.** *Varṇāḥ* are sonomers, *dhātavaḥ* are atoms, *śabdāḥ* are molecules, and sentence is assembly. The same engineering discipline recurs across scale. **Chapters 9-12.**
 
