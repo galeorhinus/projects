@@ -399,9 +399,11 @@ The *varṇamālā* comes before the rule-system that indexes it. The **मा�
 
 ### Preparing the Atom
 
-The consonant's half-*mātrā* becomes important at the next scale.[NOTE: vyanjana-duration-shiksha] A *dhātuḥ* such as **⟪गम्⟫ (*gam*)** is more precise than "CVC": it is 1/2 + 1 + 1/2. **⟪भू⟫ (*bhū*)** is 1/2 + 2. **⟪दृश्⟫ (*dṛś*)** is 1/2 + 1 + 1/2. Before the atom contributes meaning, its sonomers already give it a measured duration.
+The consonant's half-*mātrā* becomes important at the next scale.[NOTE: vyanjana-duration-shiksha] Chapter 10 uses a compact notation for these measured scaffolds. **C** marks a consonant, which takes half a *mātrā*. **V1** marks a one-*mātrā* vowel, while **V2** marks a two-*mātrā* vowel. The sequence records the scaffold from left to right.
 
-Chapter 10 uses modern shorthand for this older timing discipline. C is a half-*mātrā*. V1 is one *mātrā*. V2 is two *mātrās*. The notation describes the duration of a scaffold before particular sonomers fill it.
+Consider the *dhātuḥ* **⟪गम्⟫ (*gam*)**. It contains **ग् (*g*) + अ (*a*) + म् (*m*)**. The opening consonant **ग्** takes half a *mātrā*, the vowel **अ** takes one *mātrā*, and the closing consonant **म्** takes another half-*mātrā*. Its scaffold is therefore **C–V1–C**, and its complete duration is 1/2 + 1 + 1/2.
+
+**⟪भू⟫ (*bhū*)** contains **भ् (*bh*) + ऊ (*ū*)**. The consonant takes half a *mātrā*, while the long vowel takes two *mātrās*. Its scaffold is **C–V2**, and its complete duration is 1/2 + 2. **⟪दृश्⟫ (*dṛś*)** contains **द् (*d*) + ऋ (*ṛ*) + श् (*ś*)**. Its two consonants each take half a *mātrā*, while **ऋ** takes one *mātrā*. Its scaffold is **C–V1–C**, and its complete duration is 1/2 + 1 + 1/2. Before the atom contributes meaning, its sonomers already give it a measured duration.
 
 ### The First Complete Specification
 
