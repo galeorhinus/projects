@@ -22,3 +22,11 @@ digest_preview.html
 # privacy posture as data/*.json, never committed. Published only as a
 # private Claude Artifact for personal triage.
 dashboard.html
+
+# resolve_check.py / post_replies.py runtime state and output -- same
+# privacy posture as data/*.json (candid annotation content), plus
+# replied_state.json specifically must never be committed even if it
+# were just IDs, since losing track of it risks double-posting replies.
+data/resolve_report.json
+data/draft_replies.md
+replied_state.json

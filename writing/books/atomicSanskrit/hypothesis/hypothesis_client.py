@@ -124,3 +124,25 @@ class HypothesisClient:
         return self._request(
             "PATCH", f"/annotations/{annotation_id}", body={"tags": tags}
         )
+
+    def create_reply(self, parent: dict, text: str, tags: list[str] | None = None) -> dict:
+        """POST a reply to `parent` (any annotation in a group this token
+        belongs to -- replying only requires create permission in the
+        group, not write permission on the parent, so this works
+        regardless of who authored it). Minimal payload confirmed
+        against h's CreateAnnotationSchema (2026-08-16): `target` isn't
+        required for a reply, and `group` is actively IGNORED by the
+        server when `references` is set -- the reply always inherits the
+        parent's group, so there's no group field to get wrong here."""
+        body = {
+            "uri": parent["uri"],
+            "references": [parent["id"]],
+            "text": text,
+            "tags": tags or [],
+        }
+        return self._request("POST", "/annotations", body=body)
+
+    def delete_annotation(self, annotation_id: str) -> dict:
+        """DELETE -- only succeeds on annotations this token's account
+        authored (same author-only write rule as update_tags)."""
+        return self._request("DELETE", f"/annotations/{annotation_id}")
