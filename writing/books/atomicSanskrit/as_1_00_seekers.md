@@ -100,7 +100,13 @@ Together, these three streams form a complete civilizational defense: one stream
 
 Sanskrit's architecture is founded on two domains. Why does Sanskrit need two domains? If its architecture is complete and generative, why not preserve one body of rules and allow speakers to extend it as circumstances change? The comparison with Esperanto in Chapter 2 will show why rules alone cannot preserve a calibrant.
 
-Exact Vedic preservation requires the *vaidika* domain to retain every articulation demanded by a mantra, including sounds produced only under a stated condition. The *laukika* domain, whose name means *worldly*, must provide vocabulary for changing human activity while keeping the language invariant. Sanskrit meets that second demand through a highly generative architecture capable of producing millions of words, and continuing generation requires a reusable sonomer inventory whose members combine consistently throughout the system. Chapter 9 will show how one sound architecture can satisfy both requirements.
+Exact Vedic preservation requires the *vaidika* domain to retain every articulation demanded by a mantra, including sounds produced only under a stated condition. The *laukika* domain, whose name means *worldly*, must provide vocabulary for changing human activity while keeping the language invariant. 
+
+Why is this invariance important?
+
+Sanskrit's invariance allows a student who learns the language today to understand compositions created thousands of years ago. Prakrit languages changed as their speakers used them, so later readers must learn their older forms separately. English has changed so much in only a few centuries that modern readers often need explanatory notes to understand Shakespeare.
+
+Sanskrit preserves that continuity without restricting new expression. Its highly generative architecture can produce millions of words. Continued generation requires a reusable sonomer inventory whose members combine consistently throughout the system. Chapter 9 will show how one sound architecture can satisfy both requirements.
 
 ![Figure 0.1 — The three streams. *Saṃskṛta*, the wholly created language, runs in two domains. The *vaidika* keeps language and content invariant. In the *laukika*, the language remains invariant while generative usage adapts and its curated corpus remains selected, accretive, and lossy. Beside them, *prākṛtika* flows as the changing natural speech of daily life. The figure compares how the three streams preserve or change language and content; it does not give them a common beginning.](figures/seekers/sanatana_triad.svg){#fig:sanatana-triad width=100%}
 
@@ -258,6 +264,8 @@ Before human choice shapes an order toward *sat* or *asat*, living beings act wi
 - **प्रकृति (*prakṛti*)** — representing everything else.
 
 The *Vṛtra*, *Svarbhānu*, and *Paṇi* narratives show what the conflict between *sat* and *asat* looks like in action. Chapter 3 §3.7 examines all three as acts of containment whose defeat restores circulation. The protagonists bear **सत् (*sat*)** in their titles. Indra’s is **सत्पति (*satpati*)**, the lord of sat.[NOTE: protagonist-sat-epithets]
+
+***Asat*** does not need long-term memory to return. In human beings, ego creates new methods of control and containment whenever circumstances permit. ***Sat*** needs memory. Those who stand with *sat* need to know that *asat* can be defeated and has been defeated repeatedly. The Vedas preserve that civilizational memory in Sanskrit, and Sanskrit's invariance keeps it intelligible across thousands of years.
 
 The protagonists fight for **सत् (*sat*)** to restore the order of flow: circulation kept open and release along that path — the path of **स्वस्ति (*svasti*)**, well-being, followed as the Sun and Moon follow their orbits: **स्वस्ति पन्थामनु चरेम सूर्याचन्द्रमसाविव** (*svasti panthām anu carema sūryācandramasāv iva*) — “may we follow the path of *svasti*, as the Sun and Moon do.” (RV 5.51.15)[NOTE: rv-5-51-15-svasti-panthanam]
 
