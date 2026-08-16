@@ -10,7 +10,8 @@ server/request_access.py's INVITE_PAGE_TEMPLATE for the source of
 truth on the tokens reused here. Each annotation shows its chapter's
 real title (linked to the chapter), the highlighted passage in its
 surrounding sentence for context, the comment, and a direct
-"View on Hypothesis" link (the hyp.is/<id>/<url> permalink format).
+"View on Hypothesis" link -- our own domain plus the Hypothesis
+client's #annotations:<id> fragment, not hyp.is (see annotation_link()).
 
 Reads data/annotations.json (run pull_annotations.py and, optionally,
 auto_tagger.py first -- this script never hits the Hypothesis or
@@ -154,9 +155,14 @@ def emphasize(escaped_title: str) -> str:
     return re.sub(r"\*(.+?)\*", r"<em>\1</em>", escaped_title)
 
 
-def hyp_is_link(annotation_id: str, uri: str) -> str:
-    stripped = re.sub(r"^https?://", "", uri)
-    return f"https://hyp.is/{annotation_id}/{stripped}"
+def annotation_link(annotation_id: str, uri: str) -> str:
+    """Deep-link on our own domain via the Hypothesis client's own
+    #annotations:<id> fragment convention -- see build_dashboard.py's
+    annotation_link() docstring for the full rationale. NOT hyp.is:
+    that relay falls back to hypothes.is's "Via" proxy for any browser
+    without the extension (most mobile browsers), and Via started
+    returning "Access to Via is now restricted" as of 2026-08-16."""
+    return f"{uri.rstrip('/')}/#annotations:{annotation_id}"
 
 
 def chapter_slug(uri: str) -> str:
@@ -189,7 +195,7 @@ def format_annotation_text(a: dict) -> str:
     reply = " [reply]" if a.get("is_reply") else ""
     return (
         f"- {a['user']} on {clean_title(a['document_title'])} ({a['group_name']}){reply}\n"
-        f"  link: {hyp_is_link(a['id'], a['uri'])}\n"
+        f"  link: {annotation_link(a['id'], a['uri'])}\n"
         f"{context}"
         f'  comment: "{excerpt(a["text"])}"\n'
         f"{tag_line}"
@@ -257,7 +263,7 @@ def card_html(a: dict) -> str:
         f'border-radius:999px;padding:1px 8px;margin-left:8px;">reply</span>'
         if a.get("is_reply") else ""
     )
-    link = hyp_is_link(a["id"], a["uri"])
+    link = annotation_link(a["id"], a["uri"])
     date = a["created"][:10]
 
     return f"""<table role="presentation" width="100%" cellpadding="0" cellspacing="0"

@@ -69,7 +69,7 @@ def write_draft_markdown(candidates: list[dict]) -> None:
     for r in candidates:
         mechanism = "LLM-judged" if r.get("resolved_by") == "llm" else "text-match"
         lines.append(f"## {r['user']} / {r['slug']} / {r['created'][:10]}  ({mechanism})")
-        lines.append(f"- annotation: https://hyp.is/{r['id']}/{r['uri'].split('://', 1)[-1]}")
+        lines.append(f"- annotation: {r['uri'].rstrip('/')}/#annotations:{r['id']}")
         lines.append(f"- quote: `{r['quote'][:200]}`")
         lines.append(f"- comment: {r['text'][:300]}")
         if r.get("matched_paragraph"):

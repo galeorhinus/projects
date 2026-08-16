@@ -66,9 +66,22 @@ def chapter_slug(uri: str) -> str:
     return parts[-1] if parts else uri
 
 
-def hyp_is_link(annotation_id: str, uri: str) -> str:
-    stripped = uri.split("://", 1)[-1]
-    return f"https://hyp.is/{annotation_id}/{stripped}"
+def annotation_link(annotation_id: str, uri: str) -> str:
+    """Deep-link straight to the annotation on our own domain, via the
+    Hypothesis CLIENT's own #annotations:<id> URL-fragment convention
+    (documented, works with the embedded client the same as the
+    extension -- not a hyp.is-specific feature). Every book/essay page
+    already embeds https://hypothes.is/embed.js directly (see
+    templates/html_chapter.html's js-hypothesis-config script), so this
+    needs no browser extension and no third-party bounce service.
+    Deliberately NOT hyp.is/<id>/<uri>: that's Hypothesis's own
+    extension-detection relay -- with the extension it redirects
+    straight to the page, but without one (most mobile browsers) it
+    falls back to hypothes.is's "Via" proxy, which as of 2026-08-16
+    returns "Access to Via is now restricted" instead of the page.
+    Confirmed live: broken on mobile (no extension), fine on desktop
+    (extension installed) -- exactly that split."""
+    return f"{uri.rstrip('/')}/#annotations:{annotation_id}"
 
 
 def main() -> int:
@@ -115,7 +128,7 @@ def main() -> int:
             "tags": a.get("tags", []),
             "suggested": a.get("suggested_tags", []),
             "reply": a.get("is_reply", False),
-            "link": hyp_is_link(a["id"], a["uri"]),
+            "link": annotation_link(a["id"], a["uri"]),
             "resolved": a["id"] in resolved_parent_ids or a["id"] in resolved_reply_ids,
         })
 
