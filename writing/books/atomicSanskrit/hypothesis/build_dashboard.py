@@ -331,9 +331,6 @@ header.top .subtitle {
   font-size: 0.9rem;
 }
 
-.stats-hero {
-  margin-top: 14px;
-}
 .hero-stat {
   display: inline-flex;
   flex-direction: column;
@@ -516,15 +513,19 @@ select {
   color: var(--accent);
   border-style: dashed;
 }
-.header-row {
+/* Puts the refresh button at the right edge, level with the Unresolved
+   hero card rather than up in the title row -- the two most "act on
+   this now" controls sit on the same line. Wraps to stack on narrow
+   screens (refresh drops below the hero card) rather than compressing. */
+.hero-row {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
   flex-wrap: wrap;
   gap: 16px 24px;
+  margin-top: 14px;
 }
-.header-main { min-width: 0; }
-.header-actions {
+.hero-actions {
   display: flex;
   flex-direction: column;
   align-items: flex-end;
@@ -911,17 +912,15 @@ a { color: var(--accent); }
 </style>
 
 <header class="top">
-  <div class="header-row">
-    <div class="header-main">
-      <h1 class="serif">Reader Margins</h1>
-      <p class="subtitle">Consolidated annotations across every Atomic Sanskrit reading group</p>
-    </div>
-    <div class="header-actions">
+  <h1 class="serif">Reader Margins</h1>
+  <p class="subtitle">Consolidated annotations across every Atomic Sanskrit reading group</p>
+  <div class="hero-row">
+    <div class="stats-hero" id="stats-hero"></div>
+    <div class="hero-actions">
       <button class="refresh-btn-big" id="refresh-btn">⟳ Refresh now</button>
       <p class="built-note" id="built-note"></p>
     </div>
   </div>
-  <div class="stats-hero" id="stats-hero"></div>
   <div class="stats" id="stats"></div>
 </header>
 
