@@ -22,7 +22,7 @@ For each block, select one decision. `KEEP CURRENT ACCEPTED TEXT` preserves the 
 
 ## R2-001 - AS-002 - Explain the subtitle as a sequence
 
-**Source:** [AS-002](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/01_about_series.md:36)  
+**Source:** [AS-002](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/01_about_series.md:36)  
 **Reason:** The accepted revision contains a typographical error and compresses the relation among radiance, calibration, fractality, and *Sanātan*.  
 **Priority:** HIGH  
 **Status:** APPLIED — 2026-07-23  
@@ -54,7 +54,7 @@ Sanskrit is ***saṃskṛti*** in linguistic form. It is radiant because it shar
 
 ## R2-002 - PF-003 - Restore *paramparā* as the active means of transmission
 
-**Source:** [PF-003](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/02_preface.md:67)  
+**Source:** [PF-003](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/02_preface.md:67)  
 **Reason:** The accepted revision replaces the concrete lineage with the broad phrase “within that work.”  
 **Priority:** HIGH  
 **Status:** APPLIED — 2026-07-23  
@@ -86,7 +86,7 @@ Sanskrit reached the present through ***paramparā***: lineages that heard, anal
 
 ## R2-003 - C00-001 - Describe inquiry through visible actions
 
-**Source:** [C00-001](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/04_ch00.md:5)  
+**Source:** [C00-001](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/04_ch00.md:5)  
 **Reason:** The accepted version relies on a compressed sequence of inquiry, question, answer, and discipline.  
 **Priority:** HIGH  
 **Status:** APPLIED — 2026-07-23  
@@ -118,7 +118,7 @@ A civilization that begins from *pūrṇam* approaches order through disciplined
 
 ## R2-004 - C00-005 - Restore continuous transmission and explain the cross-check
 
-**Source:** [C00-005](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/04_ch00.md:135)  
+**Source:** [C00-005](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/04_ch00.md:135)  
 **Reason:** The accepted revision preserves the geography but weakens the original emphasis on a continuously operating and continuously verifiable system.  
 **Priority:** HIGH  
 **Status:** APPLIED — 2026-07-23  
@@ -150,7 +150,7 @@ The transmission has operated continuously across the Sanskrit continuum. Nambū
 
 ## R2-005 - C00-006 - State that the living practice precedes its recordings
 
-**Source:** [C00-006](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/04_ch00.md:166)  
+**Source:** [C00-006](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/04_ch00.md:166)  
 **Reason:** The accepted revision mentions present recitation but no longer makes the continuing teacher-student transmission explicit.  
 **Priority:** HIGH  
 **Status:** APPLIED — 2026-07-23  
@@ -182,7 +182,7 @@ The recitations continue audibly today in **गुरुकुलानि (*gur
 
 ## R2-006 - C01-002 - Repair the sentence and keep the target on the apex
 
-**Source:** [C01-002](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/05_ch01.md:36)  
+**Source:** [C01-002](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/05_ch01.md:36)  
 **Reason:** The author revision contains agreement errors and a long final sentence whose clauses obscure the causal sequence.  
 **Priority:** HIGH  
 **Status:** APPLIED — 2026-07-23  
@@ -214,7 +214,7 @@ The argument concerns the structure and its apex, not every person who lives ins
 
 ## R2-007 - C01-004 - Complete the custody paragraph
 
-**Source:** [C01-004](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/05_ch01.md:100)  
+**Source:** [C01-004](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/05_ch01.md:100)  
 **Reason:** The accepted author revision ends with an incomplete clause.  
 **Priority:** HIGH  
 **Status:** APPLIED — 2026-07-23  
@@ -246,7 +246,7 @@ The asuric pyramid repeats Svarbhānu's operation against Sanskrit in two stages
 
 ## R2-008 - C02-003 - Explain the complementary duties of the two domains
 
-**Source:** [C02-003](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/07_ch02.md:70)  
+**Source:** [C02-003](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/07_ch02.md:70)  
 **Reason:** The accepted author revision uses “perfect answer,” repeats “assigned,” and compresses the relation between preservation and changing usage.  
 **Priority:** HIGH  
 **Status:** APPLIED — 2026-07-23  
@@ -278,7 +278,7 @@ Chapter 0 asked why Sanskrit needs two domains. The Esperanto experiment offers 
 
 ## R2-009 - C02-004 - Make the false historical sequence unmistakable
 
-**Source:** [C02-004](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/07_ch02.md:102)  
+**Source:** [C02-004](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/07_ch02.md:102)  
 **Reason:** The accepted author revision contains punctuation defects and momentarily presents the pyramid's placement of Vedic Sanskrit as the book's own account.  
 **Priority:** HIGH  
 **Status:** APPLIED — 2026-07-23  
@@ -310,7 +310,7 @@ The 2x2 matrix places Sanskrit in the top-left quadrant: engineered in origin an
 
 ## R2-010 - C03-001 - Recover the intended author revision from the comments
 
-**Source:** [C03-001](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/08_ch03.md:5)  
+**Source:** [C03-001](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/08_ch03.md:5)  
 **Reason:** `USE AUTHOR REVISION` is selected, but its field is blank. The intended prose remains in Comments and contains a grammatical defect.  
 **Priority:** HIGH  
 **Status:** APPLIED — 2026-07-23  
@@ -352,7 +352,7 @@ Hammer incorporated into Revision 2.
 
 ## R2-011 - C03-002 - Restore the sequence that prevents the thesis from forming
 
-**Source:** [C03-002](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/08_ch03.md:46)  
+**Source:** [C03-002](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/08_ch03.md:46)  
 **Reason:** The accepted version explains the inherited categories but loses the original's central point that each inherited category blocks the next necessary act of recognition.  
 **Priority:** HIGH  
 **Status:** APPLIED — 2026-07-23  
@@ -386,7 +386,7 @@ Formulating the engineered-Sanskrit thesis requires reversing that sequence. The
 
 ## R2-012 - C04-003 - State why a distributed order threatens the apex
 
-**Source:** [C04-003](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/09_ch04.md:71)  
+**Source:** [C04-003](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/09_ch04.md:71)  
 **Reason:** The accepted author revision contains two typographical defects and repeats “order” without explaining the threat.  
 **Priority:** HIGH  
 **Status:** APPLIED — 2026-07-23  
@@ -422,7 +422,7 @@ Each containment pillar repeats that geometry. The racial pillar places Europe a
 
 ## R2-013 - C04-004 - Resolve the author comment about the *rājā*
 
-**Source:** [C04-004](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/09_ch04.md:106)  
+**Source:** [C04-004](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/09_ch04.md:106)  
 **Reason:** The accepted author revision begins with a stray code marker and leaves its substantive comment about royal protection unresolved.  
 **Priority:** HIGH  
 **Status:** APPLIED — 2026-07-23  
@@ -456,7 +456,7 @@ Each containment pillar repeats that geometry. The racial pillar places Europe a
 
 ## R2-014 - PF-005 - Replace “working architecture” with the book's actual claim
 
-**Source:** [PF-005](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/02_preface.md:131)  
+**Source:** [PF-005](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/02_preface.md:131)  
 **Reason:** “Working architecture” is broad and misses the claim that the Vedas encode the architecture in operation.  
 **Priority:** MEDIUM  
 **Status:** APPLIED — 2026-07-23  
@@ -488,7 +488,7 @@ The chapters follow Sanskrit across scale: *varṇa* as sonomer, *akṣara* as a
 
 ## R2-015 - OV-001 - Describe the conch's place in the figure sequence
 
-**Source:** [OV-001](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/03_overture.md:5)  
+**Source:** [OV-001](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/03_overture.md:5)  
 **Reason:** “The work of clearing” is broad, and the accepted passage can explain the intact eclipse more directly.  
 **Priority:** MEDIUM  
 **Status:** APPLIED — 2026-07-23  
@@ -524,7 +524,7 @@ At this threshold the eclipse remains intact. The conch announces that the caret
 
 ## R2-016 - C07-001 - Restore the voice as the instrument that combines the capacities
 
-**Source:** [C07-001](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/12_ch07.md:5)  
+**Source:** [C07-001](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/12_ch07.md:5)  
 **Reason:** The accepted author revision clarifies the analogies but drops the original conclusion that the voice unites the capacities isolated by the instruments.  
 **Priority:** MEDIUM  
 **Status:** APPLIED — 2026-07-23  
@@ -556,7 +556,7 @@ The Indian classical disciplines describe the voice as the original instrument. 
 
 ## R2-017 - C09-002 - State the Hindu account of the Māheśvara-sūtras
 
-**Source:** [C09-002](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/14_ch09.md:36)  
+**Source:** [C09-002](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/14_ch09.md:36)  
 **Reason:** The accepted author revision calls them Pāṇini's sūtras without addressing the author's comment that the Hindu continuum remembers them as revealed through Śiva's drum.  
 **Priority:** MEDIUM  
 **Status:** APPLIED — 2026-07-23  
@@ -592,7 +592,7 @@ The Hindu continuum remembers the Māheśvara-sūtras as the sounds of Śiva's d
 
 ## R2-018 - C09-004 - Repair the infinity sentence and sharpen the close
 
-**Source:** [C09-004](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/14_ch09.md:128)  
+**Source:** [C09-004](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/14_ch09.md:128)  
 **Reason:** The accepted author revision contains a typographical error, and its final phrase can state the eclipse action more clearly.  
 **Priority:** MEDIUM  
 **Status:** APPLIED — 2026-07-23  
@@ -636,7 +636,7 @@ When the pyramid files the architecture under its interface and calls it an alph
 
 ## R2-019 - C10-001 - Move directly from sound-particles to the semantic atom
 
-**Source:** [C10-001](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/15_ch10.md:5)  
+**Source:** [C10-001](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/15_ch10.md:5)  
 **Reason:** The accepted version frames the transition through another “next question” and uses “hold meaning” where a direct explanation is clearer.  
 **Priority:** MEDIUM  
 **Status:** APPLIED — 2026-07-23  
@@ -672,7 +672,7 @@ The botanical metaphor translates *dhātuḥ* as root. Sanskrit's architecture t
 
 ## R2-020 - C11-005 - State the interpretation without academic hedging
 
-**Source:** [C11-005](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/16_ch11.md:129)  
+**Source:** [C11-005](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/16_ch11.md:129)  
 **Reason:** “Suggests a possible procedural fit” makes the interpretation sound more tentative and more academic than the evidence requires.  
 **Priority:** MEDIUM  
 **Status:** APPLIED — 2026-07-23  
@@ -704,7 +704,7 @@ The concentration fits the mechanics of reduplication. *Juhotyādi* repeats an i
 
 ## R2-021 - C12-001 - Make the return path grammatically visible
 
-**Source:** [C12-001](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/17_ch12.md:5)  
+**Source:** [C12-001](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/17_ch12.md:5)  
 **Reason:** The accepted author revision uses an ambiguous colon after *padam* and compresses the return path into one sentence.  
 **Priority:** MEDIUM  
 **Status:** APPLIED — 2026-07-23  
@@ -736,7 +736,7 @@ One test of engineering is whether a completed Sanskrit sentence can be traced b
 
 ## R2-022 - C12-002 - Add Devanagari and separate mantra from application
 
-**Source:** [C12-002](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/17_ch12.md:39)  
+**Source:** [C12-002](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/17_ch12.md:39)  
 **Reason:** The accepted block leaves the author's Devanagari comment unresolved and states the interpretive boundary in academic language.  
 **Priority:** MEDIUM  
 **Status:** APPLIED — 2026-07-23  
@@ -772,7 +772,7 @@ The verse directs attention beneath the visible utterance to what sustains it. I
 
 ## R2-023 - C15-007 - Keep present practice and historical continuity in one argument
 
-**Source:** [C15-007](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/20_ch15.md:230)  
+**Source:** [C15-007](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/20_ch15.md:230)  
 **Reason:** The accepted version ends with a defensive qualification and separates present practice from the chapter's continuity argument more sharply than necessary.  
 **Priority:** MEDIUM  
 **Status:** APPLIED — 2026-07-23  
@@ -812,7 +812,7 @@ Recordings of *saṃhitā*, *krama*, *jaṭā*, and *ghana* allow a reader to he
 
 ## R2-024 - C16-003 - Distinguish recurrence from derivation in ordinary prose
 
-**Source:** [C16-003](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/21_ch16.md:83)  
+**Source:** [C16-003](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/21_ch16.md:83)  
 **Reason:** The accepted revision is accurate but repeatedly sounds like a methodological qualification rather than an explanation for the reader.  
 **Priority:** MEDIUM  
 **Status:** APPLIED — 2026-07-23  
@@ -852,7 +852,7 @@ The *Dhātupāṭha* makes the recurrence measurable. In the dataset described i
 
 ## R2-025 - C17-006 - Replace the legal test with a direct comparison
 
-**Source:** [C17-006](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/22_ch17.md:229)  
+**Source:** [C17-006](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/22_ch17.md:229)  
 **Reason:** The accepted version removes “unfalsified” but retains the legal-academic phrase “account for the evidence.”  
 **Priority:** MEDIUM  
 **Status:** APPLIED — 2026-07-23  
@@ -890,7 +890,7 @@ The following 48 accepted selections were reviewed again and do not need another
 
 ## Superseded Selection
 
-`P01-001` is not repeated here. The later `PARTS-002` block in [26_parts_front_back.md](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/26_parts_front_back.md:42) already revisits the same Part I opener with the broader eclipse-spine context.
+`P01-001` is not repeated here. The later `PARTS-002` block in [26_parts_front_back.md](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/26_parts_front_back.md:42) already revisits the same Part I opener with the broader eclipse-spine context.
 
 ## Count
 

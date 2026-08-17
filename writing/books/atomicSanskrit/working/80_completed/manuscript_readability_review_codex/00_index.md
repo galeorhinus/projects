@@ -2,7 +2,7 @@
 
 This directory is the active decision workspace for the Codex readability audit.
 
-The manuscript contains no Codex review comments. The completed audit under `working/10_active/manuscript_readability_audit_codex/` remains an unchanged historical record. All decisions are made here before any manuscript prose is changed.
+The manuscript contains no Codex review comments. The completed audit under `working/80_completed/manuscript_readability_audit_codex/` remains an unchanged historical record. All decisions are made here before any manuscript prose is changed.
 
 ## Application Status
 

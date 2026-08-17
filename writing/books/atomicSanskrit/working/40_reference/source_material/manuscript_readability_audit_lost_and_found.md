@@ -65,7 +65,7 @@ Author comments control the next action. Codex does not infer a disposition from
 
 The application manifest records 74 applied revisions from review files 01–22, including structural consolidations and contradiction repairs. Every applied original has now been compared with the resulting manuscript text. Forty-two blocks preserve their substance through rephrasing, expansion, or structural treatment; thirty-two blocks have recovery entries below for material that moved, narrowed, disappeared, or was superseded.
 
-Source: [`31_application_manifest.md`](../../10_active/manuscript_readability_review_codex/31_application_manifest.md)
+Source: [`31_application_manifest.md`](../../80_completed/manuscript_readability_review_codex/31_application_manifest.md)
 
 ### Open review files 23–28
 
@@ -197,7 +197,7 @@ Add entries in source order using the next available ID.
 ## LAF-R-001 — Alignment and welfare across generations
 
 **Source:** [About the Series](/Users/paragtope/projects/writing/books/atomicSanskrit/as_0_00_about_series.md:25)  
-**Audit block:** [AS-002](../../10_active/manuscript_readability_review_codex/01_about_series.md#as-002---replace-the-repeated-architecture-summary-after-the-subtitle)  
+**Audit block:** [AS-002](../../80_completed/manuscript_readability_review_codex/01_about_series.md#as-002---replace-the-repeated-architecture-summary-after-the-subtitle)  
 **Change type:** CONDENSE  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -240,7 +240,7 @@ The connection between calibration and welfare across generations may be importa
 ## LAF-R-002 — The lineage does not claim invention
 
 **Source:** [Preface](/Users/paragtope/projects/writing/books/atomicSanskrit/as_0_01_preface.md:88)  
-**Audit block:** [PF-003](../../10_active/manuscript_readability_review_codex/02_preface.md#pf-003---describe-the-lineage-through-its-work)  
+**Audit block:** [PF-003](../../80_completed/manuscript_readability_review_codex/02_preface.md#pf-003---describe-the-lineage-through-its-work)  
 **Change type:** NARROW CLAIM  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -283,7 +283,7 @@ The replacement preserves decoding and explanation but removes the explicit cont
 ## LAF-R-003 — Preservation machinery rather than cultural ornament
 
 **Source:** [Preface](/Users/paragtope/projects/writing/books/atomicSanskrit/as_0_01_preface.md:92)  
-**Audit block:** [PF-005](../../10_active/manuscript_readability_review_codex/02_preface.md#pf-005---unpack-the-architecture-across-scale)  
+**Audit block:** [PF-005](../../80_completed/manuscript_readability_review_codex/02_preface.md#pf-005---unpack-the-architecture-across-scale)  
 **Change type:** NARROW CONTRAST  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -326,7 +326,7 @@ The new wording explains preservation more clearly, but the direct rejection of 
 ## LAF-R-004 — “What Follows” heading
 
 **Source:** [Preface](/Users/paragtope/projects/writing/books/atomicSanskrit/as_0_01_preface.md:98)  
-**Audit block:** [PF-006](../../10_active/manuscript_readability_review_codex/02_preface.md#pf-006---merge-the-final-heading-into-lineage-and-method)  
+**Audit block:** [PF-006](../../80_completed/manuscript_readability_review_codex/02_preface.md#pf-006---merge-the-final-heading-into-lineage-and-method)  
 **Change type:** MOVE  
 **Status:** MOVE CONFIRMED  
 **Applied:** YES  
@@ -369,7 +369,7 @@ The material remains in place under the preceding heading.
 ## LAF-R-005 — The transmission exists now
 
 **Source:** [Chapter 0](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_00_seekers.md:153)  
-**Audit block:** [C00-006](../../10_active/manuscript_readability_review_codex/04_ch00.md#c00-006---consolidate-the-present-day-transmission-statement)  
+**Audit block:** [C00-006](../../80_completed/manuscript_readability_review_codex/04_ch00.md#c00-006---consolidate-the-present-day-transmission-statement)  
 **Change type:** CONDENSE  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -412,7 +412,7 @@ The replacement preserves the present-day and audible claims, but it removes the
 ## LAF-R-006 — Stories as diagnostic recipes
 
 **Source:** [Chapter 1](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_01_one_oppressors_finite.md:93)  
-**Audit block:** [C01-005](../../10_active/manuscript_readability_review_codex/05_ch01.md#c01-005---explain-what-the-operations-list-demonstrates)  
+**Audit block:** [C01-005](../../80_completed/manuscript_readability_review_codex/05_ch01.md#c01-005---explain-what-the-operations-list-demonstrates)  
 **Change type:** CONDENSE  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -455,7 +455,7 @@ The replacement keeps recognition across changing costumes, but it removes the �
 ## LAF-R-007 — Esperanto inventory counts
 
 **Source:** [Chapter 2](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_02_botanical.md:59)  
-**Audit block:** [C02-002](../../10_active/manuscript_readability_review_codex/07_ch02.md#c02-002---shorten-the-numerical-esperanto-comparison-in-the-body)  
+**Audit block:** [C02-002](../../80_completed/manuscript_readability_review_codex/07_ch02.md#c02-002---shorten-the-numerical-esperanto-comparison-in-the-body)  
 **Change type:** MOVE  
 **Status:** MOVE CONFIRMED  
 **Applied:** YES  
@@ -498,7 +498,7 @@ Moved to endnote `esperanto-engineered-botanical-transition`.
 ## LAF-R-008 — The pre-emptive enclosure
 
 **Source:** [Chapter 3](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_03_strategic.md:37)  
-**Audit block:** [C03-002](../../10_active/manuscript_readability_review_codex/08_ch03.md#c03-002---show-how-accepted-categories-prevent-the-thesis-from-forming)  
+**Audit block:** [C03-002](../../80_completed/manuscript_readability_review_codex/08_ch03.md#c03-002---show-how-accepted-categories-prevent-the-thesis-from-forming)  
 **Change type:** CONDENSE  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -541,7 +541,7 @@ The causal mechanism remains, but the explicit indictment that the defense prece
 ## LAF-R-009 — Lexical memory and the reciter
 
 **Source:** [Chapter 3](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_03_strategic.md:129)  
-**Audit block:** [C03-003](../../10_active/manuscript_readability_review_codex/08_ch03.md#c03-003---split-the-two-kinds-of-shared-sound-form)  
+**Audit block:** [C03-003](../../80_completed/manuscript_readability_review_codex/08_ch03.md#c03-003---split-the-two-kinds-of-shared-sound-form)  
 **Change type:** CONDENSE  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -588,7 +588,7 @@ The present wording is clearer analytically but less connected to lived recitati
 ## LAF-R-010 — Refusal and the false premise
 
 **Source:** [Chapter 4](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_04_fourth_abrahamic.md:168)  
-**Audit block:** [C04-005](../../10_active/manuscript_readability_review_codex/09_ch04.md#c04-005---unpack-authorship-preservation-and-apex-authority)  
+**Audit block:** [C04-005](../../80_completed/manuscript_readability_review_codex/09_ch04.md#c04-005---unpack-authorship-preservation-and-apex-authority)  
 **Change type:** NARROW CLAIM AND CLOSE  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -633,7 +633,7 @@ The mechanism is clearer, but the pyramid's refusal and the categorical rejectio
 ## LAF-R-011 — Pre-Pāṇinian analysts
 
 **Source:** [Chapter 5](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_05_siddha.md:29)  
-**Audit block:** [C05-002](../../10_active/manuscript_readability_review_codex/10_ch05.md#c05-002---keep-śākalya-in-the-body-and-move-the-catalogue-into-the-note)  
+**Audit block:** [C05-002](../../80_completed/manuscript_readability_review_codex/10_ch05.md#c05-002---keep-śākalya-in-the-body-and-move-the-catalogue-into-the-note)  
 **Change type:** MOVE  
 **Status:** MOVE CONFIRMED  
 **Applied:** YES  
@@ -676,7 +676,7 @@ Moved to endnote `panini-cites-pre-paninian-vaiyakaranas`.
 ## LAF-R-012 — Instruments as partial descendants of the voice
 
 **Source:** [Chapter 7](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_07_adivadya.md:37)  
-**Audit block:** [C07-001](../../10_active/manuscript_readability_review_codex/12_ch07.md#c07-001---mark-the-instrument-comparisons-as-analogies)  
+**Audit block:** [C07-001](../../80_completed/manuscript_readability_review_codex/12_ch07.md#c07-001---mark-the-instrument-comparisons-as-analogies)  
 **Change type:** WITHDRAW CLAIM  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -719,7 +719,7 @@ The revision narrows the historical claim while preserving the anatomical analog
 ## LAF-R-013 — Vocal-tract measurements
 
 **Source:** [Chapter 7](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_07_adivadya.md:45)  
-**Audit block:** [C07-002](../../10_active/manuscript_readability_review_codex/12_ch07.md#c07-002---remove-centimeter-ranges-from-the-anatomy-lesson)  
+**Audit block:** [C07-002](../../80_completed/manuscript_readability_review_codex/12_ch07.md#c07-002---remove-centimeter-ranges-from-the-anatomy-lesson)  
 **Change type:** MOVE  
 **Status:** MOVE CONFIRMED  
 **Applied:** YES  
@@ -762,7 +762,7 @@ Moved to endnote `vocal-tract-cm-modeling`.
 ## LAF-R-014 — Anchored geography
 
 **Source:** [Chapter 8](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_08_superset.md:207)  
-**Audit block:** [C08-003](../../10_active/manuscript_readability_review_codex/13_ch08.md#c08-003---replace-the-overwritten-score-summary)  
+**Audit block:** [C08-003](../../80_completed/manuscript_readability_review_codex/13_ch08.md#c08-003---replace-the-overwritten-score-summary)  
 **Change type:** NARROW INFERENCE  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -807,7 +807,7 @@ The result is more precisely bounded, but the chapter's affirmative interpretati
 ## LAF-R-015 — Script as procedural implementation
 
 **Source:** [Chapter 9](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_09_mapping_mouth.md:281)  
-**Audit block:** [C09-004](../../10_active/manuscript_readability_review_codex/14_ch09.md#c09-004---rewrite-varṇa-and-script-in-active-ordinary-prose)  
+**Audit block:** [C09-004](../../80_completed/manuscript_readability_review_codex/14_ch09.md#c09-004---rewrite-varṇa-and-script-in-active-ordinary-prose)  
 **Change type:** CONDENSE AND NARROW  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -854,7 +854,7 @@ The causal order remains clear, but the book's stronger evaluation of conceptual
 ## LAF-R-016 — *Sūtra-lāghavam* and the fractal definition
 
 **Source:** [Chapter 10](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_10_building_dhatuh.md:23)  
-**Audit block:** [C10-002](../../10_active/manuscript_readability_review_codex/15_ch10.md#c10-002---merge-the-repeated-design-test-introductions)  
+**Audit block:** [C10-002](../../80_completed/manuscript_readability_review_codex/15_ch10.md#c10-002---merge-the-repeated-design-test-introductions)  
 **Change type:** MERGE AND CONDENSE  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -899,7 +899,7 @@ Two useful terms disappeared during consolidation: the Sanskrit name for enginee
 ## LAF-R-017 — Furnace, laboratory, body, sentence
 
 **Source:** [Chapter 10](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_10_building_dhatuh.md:50)  
-**Audit block:** [C10-003](../../10_active/manuscript_readability_review_codex/15_ch10.md#c10-003---bound-the-chemistry-analogy)  
+**Audit block:** [C10-003](../../80_completed/manuscript_readability_review_codex/15_ch10.md#c10-003---bound-the-chemistry-analogy)  
 **Change type:** NARROW ANALOGY  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -942,7 +942,7 @@ The explanation remains, but the memorable four-domain line and the consequence 
 ## LAF-R-018 — C4 as a strict functional placement
 
 **Source:** [Chapter 11](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_11_building_kriya.md:294)  
-**Audit block:** [C11-005](../../10_active/manuscript_readability_review_codex/16_ch11.md#c11-005---mark-the-c4-explanation-as-an-interpretation)  
+**Audit block:** [C11-005](../../80_completed/manuscript_readability_review_codex/16_ch11.md#c11-005---mark-the-c4-explanation-as-an-interpretation)  
 **Change type:** NARROW INFERENCE  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -987,7 +987,7 @@ The categorical design conclusion has been replaced by a bounded functional inte
 ## LAF-R-019 — The lower fractal scale
 
 **Source:** [Chapter 12](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_12_building_vakya.md:29)  
-**Audit block:** [C12-002](../../10_active/manuscript_readability_review_codex/17_ch12.md#c12-002---explain-the-epigraph-as-an-application-not-a-literal-grammar-lesson)  
+**Audit block:** [C12-002](../../80_completed/manuscript_readability_review_codex/17_ch12.md#c12-002---explain-the-epigraph-as-an-application-not-a-literal-grammar-lesson)  
 **Change type:** NARROW INTERPRETATION  
 **Status:** UNDECIDED  
 **Applied:** YES; later repaired by contradiction audit A4  
@@ -1032,7 +1032,7 @@ The repaired passage preserves the architecture but not the direct claim about p
 ## LAF-R-020 — Relation in the verbal ending
 
 **Source:** [Chapter 12](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_12_building_vakya.md:47)  
-**Audit block:** [C12-003](../../10_active/manuscript_readability_review_codex/17_ch12.md#c12-003---explain-what-tail-bonds-do)  
+**Audit block:** [C12-003](../../80_completed/manuscript_readability_review_codex/17_ch12.md#c12-003---explain-what-tail-bonds-do)  
 **Change type:** NARROW DESCRIPTION  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -1075,7 +1075,7 @@ If “relation” referred to voice, pada, or another recoverable grammatical va
 ## LAF-R-021 — A calibrant calibrated by what it calibrates
 
 **Source:** [Chapter 13](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_13_preservation.md:23)  
-**Audit block:** [C13-001](../../10_active/manuscript_readability_review_codex/18_ch13.md#c13-001---replace-the-compressed-calibrant-opener)  
+**Audit block:** [C13-001](../../80_completed/manuscript_readability_review_codex/18_ch13.md#c13-001---replace-the-compressed-calibrant-opener)  
 **Change type:** REPLACE APHORISM  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -1118,7 +1118,7 @@ The explanatory content survives, but the concise paradox may be useful as a con
 ## LAF-R-022 — What the ear catches
 
 **Source:** [Chapter 13](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_13_preservation.md:107)  
-**Audit block:** [C13-003](../../10_active/manuscript_readability_review_codex/18_ch13.md#c13-003---distinguish-broad-oral-transmission-from-vedic-aural-precision)  
+**Audit block:** [C13-003](../../80_completed/manuscript_readability_review_codex/18_ch13.md#c13-003---distinguish-broad-oral-transmission-from-vedic-aural-precision)  
 **Change type:** CORRECT BROAD CLAIM AND CONDENSE  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -1163,7 +1163,7 @@ The correction is necessary, but the final sentence's account of the ear as an i
 ## LAF-R-023 — Benchmark preservation details
 
 **Source:** [Chapter 14](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_14_calibration.md:135)  
-**Audit block:** [C14-003](../../10_active/manuscript_readability_review_codex/19_ch14.md#c14-003---give-each-benchmark-tradition-its-own-paragraph)  
+**Audit block:** [C14-003](../../80_completed/manuscript_readability_review_codex/19_ch14.md#c14-003---give-each-benchmark-tradition-its-own-paragraph)  
 **Change type:** MOVE  
 **Status:** MOVE CONFIRMED  
 **Applied:** YES  
@@ -1206,7 +1206,7 @@ Moved to the three existing preservation endnotes.
 ## LAF-R-024 — Immediate correction and the welded chain
 
 **Source:** [Chapter 15](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_15_aural.md:21)  
-**Audit block:** [C15-003](../../10_active/manuscript_readability_review_codex/20_ch15.md#c15-003---keep-the-public-audit-and-remove-the-industrial-image)  
+**Audit block:** [C15-003](../../80_completed/manuscript_readability_review_codex/20_ch15.md#c15-003---keep-the-public-audit-and-remove-the-industrial-image)  
 **Change type:** NARROW AND REMOVE IMAGE  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -1251,7 +1251,7 @@ The process remains clear, but the immediacy and force of being corrected into t
 ## LAF-R-025 — The priority of *Śikṣā*
 
 **Source:** [Chapter 15](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_15_aural.md:23)  
-**Audit block:** [C15-004](../../10_active/manuscript_readability_review_codex/20_ch15.md#c15-004---qualify-what-the-order-of-the-vedāṅgas-demonstrates)  
+**Audit block:** [C15-004](../../80_completed/manuscript_readability_review_codex/20_ch15.md#c15-004---qualify-what-the-order-of-the-vedāṅgas-demonstrates)  
 **Change type:** NARROW INFERENCE  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -1294,7 +1294,7 @@ The practical sequence remains, but “consistent with” is a weaker conclusion
 ## LAF-R-026 — What reversal tests
 
 **Source:** [Chapter 15](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_15_aural.md:51)  
-**Audit block:** [C15-006](../../10_active/manuscript_readability_review_codex/20_ch15.md#c15-006---bound-the-information-theory-analogy)  
+**Audit block:** [C15-006](../../80_completed/manuscript_readability_review_codex/20_ch15.md#c15-006---bound-the-information-theory-analogy)  
 **Change type:** CONDENSE MECHANISM  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -1339,7 +1339,7 @@ The current version says what each recitation does, but the removed example show
 ## LAF-R-027 — The full empirical-verification claim
 
 **Source:** [Chapter 15](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_15_aural.md:65)  
-**Audit block:** [C15-007](../../10_active/manuscript_readability_review_codex/20_ch15.md#c15-007---state-what-the-recordings-establish)  
+**Audit block:** [C15-007](../../80_completed/manuscript_readability_review_codex/20_ch15.md#c15-007---state-what-the-recordings-establish)  
 **Change type:** CONDENSE AND NARROW; PARTIALLY RESTORED  
 **Status:** UNDECIDED  
 **Applied:** YES; later repaired by contradiction audit A3  
@@ -1386,7 +1386,7 @@ The evidentiary structure is now sound, but the specific communities, the explic
 ## LAF-R-028 — The mouth-field is older than the taxonomy
 
 **Source:** [Chapter 16](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_16_retroflex.md:29)  
-**Audit block:** [C16-002](../../10_active/manuscript_readability_review_codex/21_ch16.md#c16-002---put-the-visible-tongue-movement-before-anatomical-precision)  
+**Audit block:** [C16-002](../../80_completed/manuscript_readability_review_codex/21_ch16.md#c16-002---put-the-visible-tongue-movement-before-anatomical-precision)  
 **Change type:** CONDENSE AND CLAIMED MOVE  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -1431,7 +1431,7 @@ The anatomical detail is only partly relocated, and the sentence connecting the 
 ## LAF-R-029 — One sonomer across four levels
 
 **Source:** [Chapter 16](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_16_retroflex.md:39)  
-**Audit block:** [C16-003](../../10_active/manuscript_readability_review_codex/21_ch16.md#c16-003---distinguish-the-measured-finding-from-the-chapters-inference)  
+**Audit block:** [C16-003](../../80_completed/manuscript_readability_review_codex/21_ch16.md#c16-003---distinguish-the-measured-finding-from-the-chapters-inference)  
 **Change type:** NARROW SYNTHESIS  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -1476,7 +1476,7 @@ The factual qualification is useful, but the synthesis can coexist with it becau
 ## LAF-R-030 — The continuous return to the workshop
 
 **Source:** [Chapter 16](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_16_retroflex.md:153)  
-**Audit block:** [C16-007](../../10_active/manuscript_readability_review_codex/21_ch16.md#c16-007---state-the-corpus-burden-without-the-workshop-caricature)  
+**Audit block:** [C16-007](../../80_completed/manuscript_readability_review_codex/21_ch16.md#c16-007---state-the-corpus-burden-without-the-workshop-caricature)  
 **Change type:** REMOVE ANALOGY; LATER REPAIR CONCLUSION  
 **Status:** UNDECIDED  
 **Applied:** YES; later repaired by contradiction audit A1  
@@ -1519,7 +1519,7 @@ The final argument is stronger after repair, but the removed sentence makes the 
 ## LAF-R-031 — The second five-feature recap
 
 **Source:** [Chapter 16](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_16_retroflex.md:165)  
-**Audit block:** [C16-008](../../10_active/manuscript_readability_review_codex/21_ch16.md#c16-008---remove-the-repeated-five-feature-catalogue-from-the-close)  
+**Audit block:** [C16-008](../../80_completed/manuscript_readability_review_codex/21_ch16.md#c16-008---remove-the-repeated-five-feature-catalogue-from-the-close)  
 **Change type:** MERGE AND CUT REPETITION  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -1562,7 +1562,7 @@ The facts remain, but this version supplied the chapter's most rhythmic synthesi
 ## LAF-R-032 — The “pre-Vedic” Mitanni claim
 
 **Source:** [Chapter 19](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_19_life_after_pie.md:25)  
-**Audit block:** [C19-003](../../10_active/manuscript_readability_review_codex/24_ch19.md#c19-003---remove-the-pre-vedic-chronology-claim-from-mitanni)  
+**Audit block:** [C19-003](../../80_completed/manuscript_readability_review_codex/24_ch19.md#c19-003---remove-the-pre-vedic-chronology-claim-from-mitanni)  
 **Change type:** CORRECT CONTRADICTION  
 **Status:** SUPERSEDED CLAIM RECORDED  
 **Applied:** YES  
@@ -1605,7 +1605,7 @@ Superseded because it contradicts the manuscript's internal derivation of *eka*.
 ## LAF-R-033 — Expanded-endnotes production metadata
 
 **Source:** [Source and Reference Companion](/Users/paragtope/projects/writing/books/atomicSanskrit/as_endnotes.md:1)  
-**Audit block:** [GLOBAL-001](../../10_active/manuscript_readability_review_codex/28_endnotes_figures_global.md#global-001---replace-the-production-introduction-to-the-expanded-endnotes)  
+**Audit block:** [GLOBAL-001](../../80_completed/manuscript_readability_review_codex/28_endnotes_figures_global.md#global-001---replace-the-production-introduction-to-the-expanded-endnotes)  
 **Change type:** CUT PRODUCTION METADATA  
 **Status:** APPROVED IN AUDIT; AWAITING LOST AND FOUND REVIEW  
 **Applied:** NO  
@@ -1652,7 +1652,7 @@ The publication file would no longer document stub syntax, deployment fields, ex
 ## LAF-R-034 — Two Chapter 17 gaslighting paragraphs
 
 **Source:** [Chapter 17](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_17_wrong_question.md:90)  
-**Audit block:** [GLOBAL-006-A](../../10_active/manuscript_readability_review_codex/28_endnotes_figures_global.md#global-006-a--combine-the-two-chapter-17-gaslighting-paragraphs)  
+**Audit block:** [GLOBAL-006-A](../../80_completed/manuscript_readability_review_codex/28_endnotes_figures_global.md#global-006-a--combine-the-two-chapter-17-gaslighting-paragraphs)  
 **Change type:** PROPOSED CONDENSATION  
 **Status:** AWAITING AUTHOR DECISION  
 **Applied:** NO  
@@ -1697,7 +1697,7 @@ The proposed single paragraph removes the separate emphasis provided by “Prais
 ## LAF-R-035 — Repeated Chapter 14 matrix explanation
 
 **Source:** [Chapter 14](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_14_calibration.md:193)  
-**Audit block:** [GLOBAL-006-B](../../10_active/manuscript_readability_review_codex/28_endnotes_figures_global.md#global-006-b--remove-the-duplicate-matrix-explanation-in-chapter-14)  
+**Audit block:** [GLOBAL-006-B](../../80_completed/manuscript_readability_review_codex/28_endnotes_figures_global.md#global-006-b--remove-the-duplicate-matrix-explanation-in-chapter-14)  
 **Change type:** PROPOSED CONDENSATION  
 **Status:** AWAITING AUTHOR DECISION  
 **Applied:** NO  
@@ -1744,7 +1744,7 @@ The proposed condensation no longer names the four decoding disciplines individu
 ## LAF-R-037 — Reconstruction as etymon
 
 **Source:** [Chapter 18](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_18_pie_in_sky.md:50)  
-**Audit block:** [C18-001](../../10_active/manuscript_readability_review_codex/23_ch18.md#c18-001---state-the-bookkeeping-dispute-in-ordinary-language)  
+**Audit block:** [C18-001](../../80_completed/manuscript_readability_review_codex/23_ch18.md#c18-001---state-the-bookkeeping-dispute-in-ordinary-language)  
 **Change type:** NARROW CLAIM  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -1787,7 +1787,7 @@ The categorical refusal to let a reconstructed form function as an etymon.
 ## LAF-R-038 — The sound-field and varṇamālā recapitulation
 
 **Source:** [Chapter 18](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_18_pie_in_sky.md:62)  
-**Audit block:** [C18-002](../../10_active/manuscript_readability_review_codex/23_ch18.md#c18-002---replace-the-repeated-chapter-17-catalogue-with-a-focused-application)  
+**Audit block:** [C18-002](../../80_completed/manuscript_readability_review_codex/23_ch18.md#c18-002---replace-the-repeated-chapter-17-catalogue-with-a-focused-application)  
 **Change type:** CONDENSE  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -1832,7 +1832,7 @@ The direct two-beat statement that PIE cannot account for either feature.
 ## LAF-R-039 — Three confessions in the cutting tree
 
 **Source:** [Chapter 18](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_18_pie_in_sky.md:120)  
-**Audit block:** [C18-004](../../10_active/manuscript_readability_review_codex/23_ch18.md#c18-004---separate-what-the-cutting-tree-shows-from-what-the-book-infers)  
+**Audit block:** [C18-004](../../80_completed/manuscript_readability_review_codex/23_ch18.md#c18-004---separate-what-the-cutting-tree-shows-from-what-the-book-infers)  
 **Change type:** CONDENSE AND NARROW  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -1879,7 +1879,7 @@ The sharper confession cadence and the phrase “procedural average.”
 ## LAF-R-040 — Contact-linguistics specialist catalogue
 
 **Source:** [Chapter 18 §18.7](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_18_pie_in_sky.md:183)  
-**Audit block:** [C18-005](../../10_active/manuscript_readability_review_codex/23_ch18.md#c18-005---move-the-contact-linguistics-catalogue-out-of-the-main-argument)  
+**Audit block:** [C18-005](../../80_completed/manuscript_readability_review_codex/23_ch18.md#c18-005---move-the-contact-linguistics-catalogue-out-of-the-main-argument)  
 **Change type:** MOVE  
 **Status:** MOVE CONFIRMED  
 **Applied:** YES  
@@ -1928,7 +1928,7 @@ The explicit elimination of substrate, superstrate, and adstrate as adequate cat
 ## LAF-R-041 — “Contested is the confession”
 
 **Source:** [Chapter 18](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_18_pie_in_sky.md:246)  
-**Audit block:** [C18-006](../../10_active/manuscript_readability_review_codex/23_ch18.md#c18-006---make-the-asura-dispute-precise-before-the-hammer)  
+**Audit block:** [C18-006](../../80_completed/manuscript_readability_review_codex/23_ch18.md#c18-006---make-the-asura-dispute-precise-before-the-hammer)  
 **Change type:** NARROW CLAIM  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -1971,7 +1971,7 @@ The abrupt two-line approach to the `PIE is a lie` hammer.
 ## LAF-R-042 — Chapter 18 closing judgments
 
 **Source:** [Chapter 18 close](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_18_pie_in_sky.md:322)  
-**Audit block:** [C18-008](../../10_active/manuscript_readability_review_codex/23_ch18.md#c18-008---keep-four-closing-beats)  
+**Audit block:** [C18-008](../../80_completed/manuscript_readability_review_codex/23_ch18.md#c18-008---keep-four-closing-beats)  
 **Change type:** CONDENSE  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -2024,7 +2024,7 @@ The explicit statement that PIE's assigned work was to hide Sanskrit as calibran
 ## LAF-R-043 — Chapter 19 lineage claims
 
 **Source:** [Chapter 19 §19.1](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_19_life_after_pie.md:19)  
-**Audit block:** [C19-002](../../10_active/manuscript_readability_review_codex/24_ch19.md#c19-002---separate-remembered-lineages-from-documentary-evidence)  
+**Audit block:** [C19-002](../../80_completed/manuscript_readability_review_codex/24_ch19.md#c19-002---separate-remembered-lineages-from-documentary-evidence)  
 **Change type:** NARROW CLAIM  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -2073,7 +2073,7 @@ The stronger geographic-carrier framing and the specific analytical-traveler cha
 ## LAF-R-044 — Direct and inferred Wave 2 routes
 
 **Source:** [Chapter 19 §19.2](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_19_life_after_pie.md:69)  
-**Audit block:** [C19-004](../../10_active/manuscript_readability_review_codex/24_ch19.md#c19-004---label-the-six-transmission-cases-by-confidence)  
+**Audit block:** [C19-004](../../80_completed/manuscript_readability_review_codex/24_ch19.md#c19-004---label-the-six-transmission-cases-by-confidence)  
 **Change type:** NARROW AND REORGANIZE  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -2124,7 +2124,7 @@ The stronger declaration of direct Arabic transmission and the cumulative “ide
 ## LAF-R-045 — Romani continuity and influence
 
 **Source:** [Chapter 19 §19.3](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_19_life_after_pie.md:105)  
-**Audit block:** [C19-005](../../10_active/manuscript_readability_review_codex/24_ch19.md#c19-005---narrow-the-romani-claims-to-what-the-evidence-supports)  
+**Audit block:** [C19-005](../../80_completed/manuscript_readability_review_codex/24_ch19.md#c19-005---narrow-the-romani-claims-to-what-the-evidence-supports)  
 **Change type:** NARROW CLAIM  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -2171,7 +2171,7 @@ The word `intact` and the broad civilizational reach of the performance claim.
 ## LAF-R-046 — Diaspora as direct source
 
 **Source:** [Chapter 19 §19.3](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_19_life_after_pie.md:118)  
-**Audit block:** [C19-006](../../10_active/manuscript_readability_review_codex/24_ch19.md#c19-006---explain-what-calibrant-capacity-means)  
+**Audit block:** [C19-006](../../80_completed/manuscript_readability_review_codex/24_ch19.md#c19-006---explain-what-calibrant-capacity-means)  
 **Change type:** NARROW AND EXPAND  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -2218,7 +2218,7 @@ The categorical claim that Wave 3 must propagate through the diasporic substrate
 ## LAF-R-047 — Repeated Wave 3 preconditions
 
 **Source:** [Chapter 19 §19.4](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_19_life_after_pie.md:141)  
-**Audit block:** [C19-007](../../10_active/manuscript_readability_review_codex/24_ch19.md#c19-007---remove-repetition-from-the-wave-3-close)  
+**Audit block:** [C19-007](../../80_completed/manuscript_readability_review_codex/24_ch19.md#c19-007---remove-repetition-from-the-wave-3-close)  
 **Change type:** CONDENSE  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -2263,7 +2263,7 @@ The explicit imperative to reconstitute *āryatva* before transmission.
 ## LAF-R-048 — Population transfer wording
 
 **Source:** [Chapter 19 §19.4](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_19_life_after_pie.md:137)  
-**Audit block:** [C19-007](../../10_active/manuscript_readability_review_codex/24_ch19.md#c19-007---remove-repetition-from-the-wave-3-close)  
+**Audit block:** [C19-007](../../80_completed/manuscript_readability_review_codex/24_ch19.md#c19-007---remove-repetition-from-the-wave-3-close)  
 **Change type:** NARROW CLAIM  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -2306,7 +2306,7 @@ The concise opposition between calibrant transmission and the migration thesis.
 ## LAF-R-049 — Total-conquest and chapter-remedy framing
 
 **Source:** [Epilogue, The Eclipse Is Over](/Users/paragtope/projects/writing/books/atomicSanskrit/as_2_01_epilogue.md:19)  
-**Audit block:** [EPI-001](../../10_active/manuscript_readability_review_codex/25_epilogue.md#epi-001---reconcile-recovery-with-the-residual-plates)  
+**Audit block:** [EPI-001](../../80_completed/manuscript_readability_review_codex/25_epilogue.md#epi-001---reconcile-recovery-with-the-residual-plates)  
 **Change type:** CONDENSE  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -2353,7 +2353,7 @@ The phrase `not total conquest`, the explicit identification of Rāhu as the inv
 ## LAF-R-050 — Āryatva discussion moved to the invitation
 
 **Source:** [Epilogue, The Eclipse Is Over](/Users/paragtope/projects/writing/books/atomicSanskrit/as_2_01_epilogue.md:33)  
-**Audit block:** [EPI-002](../../10_active/manuscript_readability_review_codex/25_epilogue.md#epi-002---move-the-full-āryatva-discussion-to-the-invitation)  
+**Audit block:** [EPI-002](../../80_completed/manuscript_readability_review_codex/25_epilogue.md#epi-002---move-the-full-āryatva-discussion-to-the-invitation)  
 **Change type:** MOVE  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -2400,7 +2400,7 @@ Nothing if the move is completed intact.
 ## LAF-R-051 — Samudra-manthana interpretive preface
 
 **Source:** [Epilogue, Where the Nectar Rises](/Users/paragtope/projects/writing/books/atomicSanskrit/as_2_01_epilogue.md:41)  
-**Audit block:** [EPI-003](../../10_active/manuscript_readability_review_codex/25_epilogue.md#epi-003---tell-the-samudra-manthana-story-before-interpreting-it)  
+**Audit block:** [EPI-003](../../80_completed/manuscript_readability_review_codex/25_epilogue.md#epi-003---tell-the-samudra-manthana-story-before-interpreting-it)  
 **Change type:** EXPAND AND NARROW  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -2445,7 +2445,7 @@ The asuras' expectation that they would drink first and the compact three-part s
 ## LAF-R-052 — Exact replay of Svarbhānu's theft
 
 **Source:** [Epilogue, Where the Nectar Rises](/Users/paragtope/projects/writing/books/atomicSanskrit/as_2_01_epilogue.md:45)  
-**Audit block:** [EPI-004](../../10_active/manuscript_readability_review_codex/25_epilogue.md#epi-004---present-svarbhānu-as-a-structural-analogy)  
+**Audit block:** [EPI-004](../../80_completed/manuscript_readability_review_codex/25_epilogue.md#epi-004---present-svarbhānu-as-a-structural-analogy)  
 **Change type:** NARROW CLAIM  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -2488,7 +2488,7 @@ The force of `exactly`.
 ## LAF-R-053 — Full Mohinī engineering interpretation
 
 **Source:** [Epilogue, Where the Nectar Rises](/Users/paragtope/projects/writing/books/atomicSanskrit/as_2_01_epilogue.md:47)  
-**Audit block:** [EPI-005](../../10_active/manuscript_readability_review_codex/25_epilogue.md#epi-005---slow-the-mohinī-interpretation)  
+**Audit block:** [EPI-005](../../80_completed/manuscript_readability_review_codex/25_epilogue.md#epi-005---slow-the-mohinī-interpretation)  
 **Change type:** CONDENSE  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -2539,7 +2539,7 @@ The direct defense of Mohinī's discrimination, the anti-entropy definition, the
 ## LAF-R-054 — Foreign chronology machinery
 
 **Source:** [Epilogue, The Chronology Refusal](/Users/paragtope/projects/writing/books/atomicSanskrit/as_2_01_epilogue.md:99)  
-**Audit block:** [EPI-007](../../10_active/manuscript_readability_review_codex/25_epilogue.md#epi-007---merge-the-chronology-refusal-into-the-architectural-contest)  
+**Audit block:** [EPI-007](../../80_completed/manuscript_readability_review_codex/25_epilogue.md#epi-007---merge-the-chronology-refusal-into-the-architectural-contest)  
 **Change type:** CONDENSE AND CLARIFY  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -2584,7 +2584,7 @@ The full list of labels imposed through chronology and the observation that the 
 ## LAF-R-055 — Reader designated as an Atri in potential
 
 **Source:** [Epilogue, The Mantra](/Users/paragtope/projects/writing/books/atomicSanskrit/as_2_01_epilogue.md:149)  
-**Audit block:** [EPI-008](../../10_active/manuscript_readability_review_codex/25_epilogue.md#epi-008---make-the-atri-invitation-gentler-and-more-precise)  
+**Audit block:** [EPI-008](../../80_completed/manuscript_readability_review_codex/25_epilogue.md#epi-008---make-the-atri-invitation-gentler-and-more-precise)  
 **Change type:** NARROW AND EXPAND  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -2629,7 +2629,7 @@ The explicit definition of an Atri as a Wave 3 carrier and the claim that the Ro
 ## LAF-R-056 — Overture's narrowing to the shadow
 
 **Source:** [Overture close](/Users/paragtope/projects/writing/books/atomicSanskrit/as_part_00_overture_shankha.md:29)  
-**Audit block:** [PARTS-001](../../10_active/manuscript_readability_review_codex/26_parts_front_back.md#parts-001---simplify-the-overtures-final-orientation)  
+**Audit block:** [PARTS-001](../../80_completed/manuscript_readability_review_codex/26_parts_front_back.md#parts-001---simplify-the-overtures-final-orientation)  
 **Change type:** CLARIFY  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -2674,7 +2674,7 @@ The phrase `keep looking` and the concise movement from parties to shadow.
 ## LAF-R-057 — Part I catalogues and actor taxonomy
 
 **Source:** [Part I opener](/Users/paragtope/projects/writing/books/atomicSanskrit/as_part_01_wrong_metaphor.md:27)  
-**Audit block:** [PARTS-002](../../10_active/manuscript_readability_review_codex/26_parts_front_back.md#parts-002---reduce-part-i-to-the-work-of-an-opener)  
+**Audit block:** [PARTS-002](../../80_completed/manuscript_readability_review_codex/26_parts_front_back.md#parts-002---reduce-part-i-to-the-work-of-an-opener)  
 **Change type:** CONDENSE  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -2735,7 +2735,7 @@ The direct phrase `gaslighting with footnotes`, the actor taxonomy, the architec
 ## LAF-R-058 — Heroic erasure in the Part VI chapter map
 
 **Source:** [Part VI opener](/Users/paragtope/projects/writing/books/atomicSanskrit/as_part_06_killing_pie.md:13)  
-**Audit block:** [PARTS-004](../../10_active/manuscript_readability_review_codex/26_parts_front_back.md#parts-004---state-the-actual-question-in-part-vi)  
+**Audit block:** [PARTS-004](../../80_completed/manuscript_readability_review_codex/26_parts_front_back.md#parts-004---state-the-actual-question-in-part-vi)  
 **Change type:** REFRAME  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -2778,7 +2778,7 @@ The term `heroic erasure` and its link to redirected civilizational memory.
 ## LAF-R-059 — Part VII's recognition inquiry
 
 **Source:** [Part VII opener](/Users/paragtope/projects/writing/books/atomicSanskrit/as_part_07_life_after_pie.md:7)  
-**Audit block:** [PARTS-005](../../10_active/manuscript_readability_review_codex/26_parts_front_back.md#parts-005---give-part-vii-a-positive-task)  
+**Audit block:** [PARTS-005](../../80_completed/manuscript_readability_review_codex/26_parts_front_back.md#parts-005---give-part-vii-a-positive-task)  
 **Change type:** REFRAME  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -2823,7 +2823,7 @@ The open-ended invitation to consider everything that becomes visible after PIE.
 ## LAF-R-060 — Acknowledgments production placeholder
 
 **Source:** [Acknowledgments](/Users/paragtope/projects/writing/books/atomicSanskrit/as_0_02_acknowledgements.md:3)  
-**Audit block:** [PARTS-006](../../10_active/manuscript_readability_review_codex/26_parts_front_back.md#parts-006---remove-production-notes-from-acknowledgments)  
+**Audit block:** [PARTS-006](../../80_completed/manuscript_readability_review_codex/26_parts_front_back.md#parts-006---remove-production-notes-from-acknowledgments)  
 **Change type:** MOVE  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -2870,7 +2870,7 @@ Nothing if the task-list move is completed.
 ## LAF-R-061 — Courtroom account of the notes
 
 **Source:** [A Note on the Notes](/Users/paragtope/projects/writing/books/atomicSanskrit/as_0_04_note_on_notes.md:3)  
-**Audit block:** [PARTS-007](../../10_active/manuscript_readability_review_codex/26_parts_front_back.md#parts-007---replace-the-stale-courtroom-language-in-note-on-the-notes)  
+**Audit block:** [PARTS-007](../../80_completed/manuscript_readability_review_codex/26_parts_front_back.md#parts-007---replace-the-stale-courtroom-language-in-note-on-the-notes)  
 **Change type:** REPLACE FRAME  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -2913,7 +2913,7 @@ The force of separating the main case from its verification apparatus.
 ## LAF-R-062 — Appendix 1 production and courtroom framing
 
 **Source:** [Appendix Part 1](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_01_baking.md:3)  
-**Audit block:** [APP-001](../../10_active/manuscript_readability_review_codex/27_appendices.md#app-001---rebuild-appendix-1-around-evidence-institution-inference-and-survival)  
+**Audit block:** [APP-001](../../80_completed/manuscript_readability_review_codex/27_appendices.md#app-001---rebuild-appendix-1-around-evidence-institution-inference-and-survival)  
 **Change type:** CUT AND REFRAME  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -2970,7 +2970,7 @@ The concentrated prosecutorial tone and the record of how the draft was assemble
 ## LAF-R-063 — Appendix 2 production and prosecution framing
 
 **Source:** [Appendix Part 2](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_02_encyclopaedic.md:3)  
-**Audit block:** [APP-002](../../10_active/manuscript_readability_review_codex/27_appendices.md#app-002---lead-appendix-2-toward-its-strongest-comparison)  
+**Audit block:** [APP-002](../../80_completed/manuscript_readability_review_codex/27_appendices.md#app-002---lead-appendix-2-toward-its-strongest-comparison)  
 **Change type:** CUT AND REFRAME  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -3019,7 +3019,7 @@ The explicit sibling relationship between Appendices 1 and 2 and their former pr
 ## LAF-R-064 — Claim about Katre's personal reading
 
 **Source:** [Appendix Part 2 §2.5](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_02_encyclopaedic.md:121)  
-**Audit block:** [APP-002](../../10_active/manuscript_readability_review_codex/27_appendices.md#app-002---lead-appendix-2-toward-its-strongest-comparison)  
+**Audit block:** [APP-002](../../80_completed/manuscript_readability_review_codex/27_appendices.md#app-002---lead-appendix-2-toward-its-strongest-comparison)  
 **Change type:** NARROW CLAIM  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -3062,7 +3062,7 @@ The direct personal accountability and punch of the original.
 ## LAF-R-065 — Universal geographic prediction in the sound atlas
 
 **Source:** [Appendix Part 4](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_04_inventory_atlas.md:5)  
-**Audit block:** [APP-004](../../10_active/manuscript_readability_review_codex/27_appendices.md#app-004---present-appendix-4-as-an-exploratory-atlas)  
+**Audit block:** [APP-004](../../80_completed/manuscript_readability_review_codex/27_appendices.md#app-004---present-appendix-4-as-an-exploratory-atlas)  
 **Change type:** NARROW CLAIM  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -3115,7 +3115,7 @@ The force and simplicity of geography as the sole explanation.
 ## LAF-R-066 — Appendix 5 draft metadata and unrestricted opening claim
 
 **Source:** [Appendix Part 5 opening](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_05_language_factory.md:1)  
-**Audit block:** [APP-005](../../10_active/manuscript_readability_review_codex/27_appendices.md#app-005---define-what-the-language-factory-actually-demonstrates)  
+**Audit block:** [APP-005](../../80_completed/manuscript_readability_review_codex/27_appendices.md#app-005---define-what-the-language-factory-actually-demonstrates)  
 **Change type:** CUT + NARROW CLAIM  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -3162,7 +3162,7 @@ The original opening reaches its verdict more quickly and calls the result fully
 ## LAF-R-067 — Appendix 5 count and Japanese-phonology claims
 
 **Source:** [Appendix Part 5 §§5.4–5.6](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_05_language_factory.md:60)  
-**Audit block:** [APP-005](../../10_active/manuscript_readability_review_codex/27_appendices.md#app-005---define-what-the-language-factory-actually-demonstrates)  
+**Audit block:** [APP-005](../../80_completed/manuscript_readability_review_codex/27_appendices.md#app-005---define-what-the-language-factory-actually-demonstrates)  
 **Change type:** CORRECT  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -3213,7 +3213,7 @@ The cleaner claim that every sound remains distinct and that the substrate itsel
 ## LAF-R-068 — Schleicher's inferred institutional motive
 
 **Source:** [Appendix Part 5 §5.8](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_05_language_factory.md:159)  
-**Audit block:** [APP-005](../../10_active/manuscript_readability_review_codex/27_appendices.md#app-005---define-what-the-language-factory-actually-demonstrates)  
+**Audit block:** [APP-005](../../80_completed/manuscript_readability_review_codex/27_appendices.md#app-005---define-what-the-language-factory-actually-demonstrates)  
 **Change type:** NARROW CLAIM  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -3266,7 +3266,7 @@ The personal accusation, jealousy image, and repeated baker refrain become less 
 ## LAF-R-069 — Appendix 6 conflation of three counted datasets
 
 **Source:** [Appendix Part 6 opening and §6.3](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_06_by_the_numbers.md:3)  
-**Audit block:** [APP-006](../../10_active/manuscript_readability_review_codex/27_appendices.md#app-006---reconcile-appendix-6s-datasets-before-polishing-prose)  
+**Audit block:** [APP-006](../../80_completed/manuscript_readability_review_codex/27_appendices.md#app-006---reconcile-appendix-6s-datasets-before-polishing-prose)  
 **Change type:** CORRECT + EXPAND  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -3311,7 +3311,7 @@ The old two-path explanation was shorter and easier to repeat.
 ## LAF-R-070 — Universal irregularity and design claims in Appendix 6
 
 **Source:** [Appendix Part 6 §§6.2–6.4](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_06_by_the_numbers.md:33)  
-**Audit block:** [APP-006](../../10_active/manuscript_readability_review_codex/27_appendices.md#app-006---reconcile-appendix-6s-datasets-before-polishing-prose)  
+**Audit block:** [APP-006](../../80_completed/manuscript_readability_review_codex/27_appendices.md#app-006---reconcile-appendix-6s-datasets-before-polishing-prose)  
 **Change type:** NARROW CLAIM  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -3366,7 +3366,7 @@ The old prose moves directly from pattern to design and gives the engineering co
 ## LAF-R-071 — Appendix 7 draft metadata and compressed opening
 
 **Source:** [Appendix Part 7 opening](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_07_vedic_carrier.md:1)  
-**Audit block:** [APP-007](../../10_active/manuscript_readability_review_codex/27_appendices.md#app-007---keep-appendix-7-on-the-vedic-evidence)  
+**Audit block:** [APP-007](../../80_completed/manuscript_readability_review_codex/27_appendices.md#app-007---keep-appendix-7-on-the-vedic-evidence)  
 **Change type:** CUT + REWRITE  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -3413,7 +3413,7 @@ The direct bridge to Chapter 1 becomes less immediate.
 ## LAF-R-072 — Full Wheeler and Mohenjo-daro digression
 
 **Source:** [Appendix Part 7 §7.4](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_07_vedic_carrier.md:124)  
-**Audit block:** [APP-007](../../10_active/manuscript_readability_review_codex/27_appendices.md#app-007---keep-appendix-7-on-the-vedic-evidence)  
+**Audit block:** [APP-007](../../80_completed/manuscript_readability_review_codex/27_appendices.md#app-007---keep-appendix-7-on-the-vedic-evidence)  
 **Change type:** MOVE  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -3460,7 +3460,7 @@ The body loses the memorable sequence of six bodies becoming a race-replacement 
 ## LAF-R-073 — Extended English, Romance, Chinese, and clinical-term drift comparison
 
 **Source:** [Appendix Part 7 §7.6](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_07_vedic_carrier.md:170)  
-**Audit block:** [APP-007](../../10_active/manuscript_readability_review_codex/27_appendices.md#app-007---keep-appendix-7-on-the-vedic-evidence)  
+**Audit block:** [APP-007](../../80_completed/manuscript_readability_review_codex/27_appendices.md#app-007---keep-appendix-7-on-the-vedic-evidence)  
 **Change type:** CONDENSE  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -3509,7 +3509,7 @@ The breadth of the natural-drift comparison across several language families bec
 ## LAF-R-074 — Causal and chronological absolutes in Appendix 7
 
 **Source:** [Appendix Part 7 §§7.1, 7.2, 7.5, 7.7](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_07_vedic_carrier.md:17)  
-**Audit block:** [APP-007](../../10_active/manuscript_readability_review_codex/27_appendices.md#app-007---keep-appendix-7-on-the-vedic-evidence)  
+**Audit block:** [APP-007](../../80_completed/manuscript_readability_review_codex/27_appendices.md#app-007---keep-appendix-7-on-the-vedic-evidence)  
 **Change type:** NARROW CLAIM  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -3560,7 +3560,7 @@ The older prose states Vedic priority and metrical purpose more categorically.
 ## LAF-R-075 — Appendix 8 pre-restructure text
 
 **Source:** [Appendix Part 9](/Users/paragtope/projects/writing/books/atomicSanskrit/as_3_09_codification_story.md:1)  
-**Audit block:** [APP-008](../../10_active/manuscript_readability_review_codex/27_appendices.md#app-008---reduce-and-reorganize-appendix-8)  
+**Audit block:** [APP-008](../../80_completed/manuscript_readability_review_codex/27_appendices.md#app-008---reduce-and-reorganize-appendix-8)  
 **Change type:** CONDENSE + REORGANIZE  
 **Status:** UNDECIDED  
 **Applied:** YES  
@@ -3621,7 +3621,7 @@ The revised appendix restores the main Same-Timeline Test, representative Vedic 
 ## LAF-R-076 — The earlier dṛś, paśyati, and theory indictment
 
 **Source:** [Chapter 18 §18.9](/Users/paragtope/projects/writing/books/atomicSanskrit/as_1_18_pie_in_sky.md:296)
-**Audit block:** [C18-007](../../10_active/manuscript_readability_review_codex/23_ch18.md#c18-007---bound-the-dṛś-paśyati-and-theory-case)
+**Audit block:** [C18-007](../../80_completed/manuscript_readability_review_codex/23_ch18.md#c18-007---bound-the-dṛś-paśyati-and-theory-case)
 **Change type:** REPHRASE + EXPANSION
 **Status:** UNDECIDED  
 **Applied:** YES
@@ -3672,7 +3672,7 @@ The replacement softens two original hammers: "the splinter is in plain print" a
 ## LAF-R-077 — The earlier five-step nectar protocol
 
 **Source:** [Epilogue, "Where the Nectar Rises"](/Users/paragtope/projects/writing/books/atomicSanskrit/as_2_01_epilogue.md:67)
-**Audit block:** [EPI-009](../../10_active/manuscript_readability_review_codex/25_epilogue.md#epi-009---make-vyutpatti-the-university-research-protocol)
+**Audit block:** [EPI-009](../../80_completed/manuscript_readability_review_codex/25_epilogue.md#epi-009---make-vyutpatti-the-university-research-protocol)
 **Change type:** REPHRASE + EXPANSION
 **Status:** UNDECIDED
 **Applied:** YES

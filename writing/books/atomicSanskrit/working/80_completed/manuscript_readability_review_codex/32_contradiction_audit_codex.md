@@ -94,7 +94,7 @@ The count supports a functional explanation but cannot establish historical desi
 ### R1. C18-001 would turn a reconstruction into a possible etymon
 
 **Severity:** High; do not apply  
-**Location:** [C18-001 proposed revision](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/23_ch18.md:18)
+**Location:** [C18-001 proposed revision](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/23_ch18.md:18)
 
 The proposal says, “A reconstruction may propose an etymon.” That sentence accepts the category Chapter 18 is attacking. Within the book's usage, an etymon is a real source form; a starred reconstruction may propose what an unattested source could have been, but the proposal is not itself the etymon.
 
@@ -105,7 +105,7 @@ The original distinction is coherent: a reconstruction can summarize corresponde
 ### R2. C19-003 correctly repairs the *aika / eka* contradiction
 
 **Severity:** Required correction  
-**Location:** [C19-003](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/24_ch19.md:97)
+**Location:** [C19-003](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/24_ch19.md:97)
 
 This proposal now states the book's position correctly: Sanskrit derives **एक (*eka*)** internally from ⟪इ⟫ with *kan* and *guṇa*; Mitanni *aika* is therefore a receiving-language rendering rather than a form from which Sanskrit descended. The tablet dates the receiving record, not the Sanskrit formation.
 
@@ -114,7 +114,7 @@ This proposal now states the book's position correctly: Sanskrit derives **ए�
 ### R3. C19-007 weakens the Radiance Thesis into a possibility
 
 **Severity:** Medium-high  
-**Location:** [C19-007, item 4](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/24_ch19.md:309)
+**Location:** [C19-007, item 4](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/24_ch19.md:309)
 
 The original says Sanskrit's reach moved through calibrant transmission rather than population transfer. The proposal says Sanskritic resemblance “can arise” through transmission “without requiring” population descent. The latter is defensible but no longer states the chapter's affirmative alternative.
 
@@ -123,7 +123,7 @@ The original says Sanskrit's reach moved through calibrant transmission rather t
 ### R4. Part VII reopens “descent” without identifying whose descent
 
 **Severity:** Medium  
-**Location:** [PARTS-005](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/26_parts_front_back.md:214)
+**Location:** [PARTS-005](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/26_parts_front_back.md:214)
 
 Immediately after Rāhu has been dispelled, the proposed opener says cognates should be tested for “reflection, contact, orbit, or descent.” A reader can reasonably hear this as reopening Sanskrit's descent from PIE.
 
@@ -132,7 +132,7 @@ Immediately after Rāhu has been dispelled, the proposed opener says cognates sh
 ### R5. APP-005 would deny the appendix's own “Language Factory” category
 
 **Severity:** High; revise before application  
-**Location:** [APP-005](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/27_appendices.md:199)
+**Location:** [APP-005](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/27_appendices.md:199)
 
 The proposal says that the substitution experiment does not create a complete independent language because a language requires an active speech community. That sociolinguistic limit conflicts with Chapter 2's constructed-language category and with the appendix's stated experiment. A constructed language does not need native speakers before its architecture can be examined as language.
 
@@ -143,7 +143,7 @@ The actual limit is narrower: the experiment demonstrates that Sanskrit's genera
 ### R6. EPI-004 removes the epilogue's achieved result
 
 **Severity:** Medium; loss of conclusion rather than contradiction  
-**Location:** [EPI-004](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/25_epilogue.md:135)
+**Location:** [EPI-004](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/25_epilogue.md:135)
 
 Changing “repeated the theft exactly” to “repeated that pattern” is a useful correction. The proposal then removes the sentence in which PIE is destroyed, the eclipse breaks, and the yield returns to the radiant ones. It replaces the achieved result with a neutral statement about reusing scholarship.
 
@@ -152,7 +152,7 @@ Changing “repeated the theft exactly” to “repeated that pattern” is a us
 ### R7. GLOBAL-002 could turn every substantial note into a disclaimer
 
 **Severity:** Medium process risk  
-**Location:** [GLOBAL-002](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/28_endnotes_figures_global.md:74)
+**Location:** [GLOBAL-002](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/28_endnotes_figures_global.md:74)
 
 “Where the source stops” is valuable when a load-bearing inference extends beyond the cited source. Making it a mandatory heading in every substantial note would reproduce the legalistic voice throughout the companion.
 
@@ -162,12 +162,12 @@ Changing “repeated the theft exactly” to “repeated that pattern” is a us
 
 The following proposals improve accuracy without reversing the book:
 
-- [C18-004](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/23_ch18.md:130) preserves the “three confessions” hammer while narrowing what the cutting tree establishes.
-- [C18-006](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/23_ch18.md:206) distinguishes honest uncertainty from fraud and keeps the verdict.
-- [C18-008](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/23_ch18.md:299) restores **PIE must die** without the weakening phrase “as doctrine.”
-- [C19-005](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/24_ch19.md:203) corrects the Romani mutual-intelligibility and influence claims while preserving the civilizational argument.
-- [APP-002](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/27_appendices.md:55) distinguishes documented institutional action from unsupported claims about an individual's private knowledge.
-- [APP-006](/Users/paragtope/projects/writing/books/atomicSanskrit/working/10_active/manuscript_readability_review_codex/27_appendices.md:243) separates measured distributions from causal interpretation without denying the interpretation.
+- [C18-004](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/23_ch18.md:130) preserves the “three confessions” hammer while narrowing what the cutting tree establishes.
+- [C18-006](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/23_ch18.md:206) distinguishes honest uncertainty from fraud and keeps the verdict.
+- [C18-008](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/23_ch18.md:299) restores **PIE must die** without the weakening phrase “as doctrine.”
+- [C19-005](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/24_ch19.md:203) corrects the Romani mutual-intelligibility and influence claims while preserving the civilizational argument.
+- [APP-002](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/27_appendices.md:55) distinguishes documented institutional action from unsupported claims about an individual's private knowledge.
+- [APP-006](/Users/paragtope/projects/writing/books/atomicSanskrit/working/80_completed/manuscript_readability_review_codex/27_appendices.md:243) separates measured distributions from causal interpretation without denying the interpretation.
 
 ## Cause
 
