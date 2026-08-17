@@ -304,10 +304,17 @@ h1, h2, .serif {
   font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Noto Serif", serif;
 }
 
+/* Deliberately NOT sticky (was sticky top:0 through 2026-08-16). With
+   the title, refresh button, hero stat, and full stats grid all
+   inside, this header runs 500-700px tall on a phone -- sticky-pinned,
+   it never scrolled away, permanently eating more than half of a
+   mobile viewport for the entire session, worse the further you
+   scrolled since the header claimed a FIXED share of an unchanging
+   screen while the space actually available for cards never grew.
+   Only the compact single-row .controls-bar below stays pinned now;
+   this intro scrolls away like ordinary page content once you've
+   passed it, which is what a phone screen this size needs. */
 header.top {
-  position: sticky;
-  top: 0;
-  z-index: 10;
   background: var(--bg);
   border-bottom: 1px solid var(--border);
   padding: 20px clamp(16px, 4vw, 40px) 14px;
@@ -422,16 +429,33 @@ header.top .subtitle {
   opacity: 0.75;
 }
 
+/* Also not sticky, same reasoning as header.top above -- the reader,
+   chapter, and tag chip rows are "set once and mostly forget" filters,
+   not something that needs to stay reachable on every scroll. Letting
+   them scroll away with the header (instead of stacking a second
+   sticky region below it, which used to overlap header.top's own
+   sticky region -- its old top:84px offset assumed an 84px header,
+   but the real header ran 500px+ tall with the hero stat showing, so
+   this block was rendering hidden underneath header.top for most of
+   a scroll session) keeps only ONE thing pinned: .controls-bar below. */
 .filters {
-  position: sticky;
-  top: 84px;
-  z-index: 9;
   background: var(--bg);
   border-bottom: 1px solid var(--border);
   padding: 12px clamp(16px, 4vw, 40px);
   display: flex;
   flex-direction: column;
   gap: 10px;
+}
+/* The one thing that stays reachable while scrolling through cards:
+   search, sort, and the hide-resolved toggle. Small and single-row by
+   design so it costs little permanent screen space even on a phone. */
+.controls-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+  padding: 10px clamp(16px, 4vw, 40px);
 }
 .filter-row {
   display: flex;
@@ -861,6 +885,28 @@ a { color: var(--accent); }
 
 @media (max-width: 560px) {
   .filter-row .row-label { width: auto; }
+
+  header.top { padding: 16px 16px 12px; }
+  header.top h1 { font-size: 1.25rem; }
+  header.top .subtitle { font-size: 0.82rem; }
+  .refresh-btn-big { padding: 10px 20px; font-size: 0.95rem; }
+  .hero-stat { padding: 9px 18px; }
+  .hero-n { font-size: 1.8rem; }
+
+  /* The stats grid and the reader/tag chip rows are the two spots
+     most likely to wrap to several lines on a narrow screen (a
+     four-tile stats grid became three stacked rows; a dozen tag chips
+     wrapped to three lines). Scrolling sideways in one row instead of
+     wrapping vertically keeps them to the height they'd take on
+     desktop -- everything stays reachable with a swipe, just not
+     stacked. */
+  .stats, #reader-filters, #tag-filters {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 2px;
+  }
+  .stats .stat, #reader-filters .chip, #tag-filters .chip { flex-shrink: 0; }
 }
 </style>
 
@@ -879,7 +925,7 @@ a { color: var(--accent); }
   <div class="stats" id="stats"></div>
 </header>
 
-<div class="filters">
+<div class="controls-bar">
   <div class="filter-row">
     <span class="row-label">Search</span>
     <input type="search" id="search" placeholder="Search quotes and comments…">
@@ -891,6 +937,9 @@ a { color: var(--accent); }
     </select>
     <button class="chip active" id="resolved-toggle">Hide resolved<span class="n" id="resolved-count"></span></button>
   </div>
+</div>
+
+<div class="filters">
   <div class="filter-row" id="reader-filters"></div>
   <div class="filter-row" id="chapter-filter"></div>
   <div class="filter-row" id="tag-filters"></div>
