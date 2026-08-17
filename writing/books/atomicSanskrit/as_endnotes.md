@@ -5158,7 +5158,7 @@ Standard references: Karl Brugmann (and Berthold Delbrück for the syntactic vol
 
 The empirical statistics cited in §§10.6–10.9 are computed against a machine-readable Pāṇinian *Dhātupāṭha* (2,168 entries across the ten *gaṇāḥ*) with the standard *anubandha* stripping applied per *Aṣṭādhyāyī* 1.3.2, 1.3.3, and 1.3.5. A derived companion file — `data/derived/dhatupatha_decomposed.md` — renders every dhātu in Devanāgarī with its varṇa-level decomposition (e.g., **कृ** = क् + ऋ for *kṛ*; **गम्** = ग् + अ + म् for *gam*; **स्कन्द्** = स् + क् + अ + न् + द् for *skand*).
 
-A full reproducibility bundle accompanies the book at the repository subdirectory `analysis/dhatupatha/`. The bundle is self-contained — the source CSV, the derived Devanāgarī decomposition, all the Python analysis scripts, a README with full attribution and methodology notes, and a LICENSE file — and is structured for public sharing (e.g., as a GitHub repository). Any reader can reproduce every empirical claim in Chapter 10 and the full Source and Reference Companion version of Appendix Part 6 by running the scripts against the source data: `python3 scripts/analyze_dhatupatha.py`, `python3 scripts/analyze_varga_distribution.py [gaṇa]`, etc. Requirements: Python 3.10+ with no external dependencies.
+A full reproducibility bundle accompanies the book at the repository subdirectory `analysis/dhatupatha/`. The bundle is self-contained — the source CSV, the derived Devanāgarī decomposition, all the Python analysis scripts, a README with full attribution and methodology notes, and a LICENSE file — and is structured for public sharing (e.g., as a GitHub repository). Any reader can reproduce every empirical claim in Chapter 10 and the full Source and Reference Companion version of Appendix Part 6 by running the scripts against the source data: `python3 analysis/dhatupatha/scripts/analyze_dhatupatha.py`, `python3 analysis/dhatupatha/scripts/analyze_varga_distribution.py [gaṇa]`, etc. Requirements: Python 3.10+ with no external dependencies.
 
 **Source data.** The digital *Dhātupāṭha* used here is `data/dhatupatha.csv` in the book's repository, sourced from the open-source `sanskrit/vyakarana` project (https://github.com/sanskrit/vyakarana — file `data/dhatupatha.csv`). The CSV has three columns: *gaṇa*-number, position-within-*gaṇa*, dhātu in SLP1 transliteration with Pāṇinian accent markers (~, \\, ^). The count of 2,168 sits within the conventional Pāṇinian range (~1,940 to ~2,200 depending on recension); other published *Dhātupāṭha* recensions — Bhattoji Dīkṣita's *Siddhāntakaumudī*, the *Mādhavīya Dhātuvṛtti*, the *Kṣīrasvāmin* commentary — yield comparable totals with minor recensional variation in marginal entries.
 
@@ -5172,7 +5172,7 @@ A full reproducibility bundle accompanies the book at the repository subdirector
 
 Accent markers (~, \\, ^) in the SLP1 encoding indicate *udātta*, *anudātta*, and *svarita* respectively and are stripped before structural classification (they are recitational, not structural).
 
-**Computational details.** The classification is done by the analysis script `scripts/analyze_dhatupatha.py` in the book's repository. The script:
+**Computational details.** The classification is done by the analysis script `analysis/dhatupatha/scripts/analyze_dhatupatha.py` in the book's repository. The script:
 
 - Reads `data/dhatupatha.csv`
 - Strips accent markers (~, \\, ^) and applies the *it-saṃjñā* stripping rules above
@@ -5180,7 +5180,7 @@ Accent markers (~, \\, ^) in the SLP1 encoding indicate *udātta*, *anudātta*, 
 - Classifies each *dhātu* by structural pattern (CV, CVC, CCVC, CVCC, CCVCC, etc.), sonomer count (number of V+C constituents), and akṣara count (number of vowel-nuclei)
 - Produces summary statistics by gaṇa, by structural pattern, by sonomer count, and by akṣara count
 
-The classification is reproducible: re-running `python3 scripts/analyze_dhatupatha.py` from the repository base directory regenerates the figures cited in the chapter.
+The classification is reproducible: re-running `python3 analysis/dhatupatha/scripts/analyze_dhatupatha.py` from the repository base directory regenerates the figures cited in the chapter.
 
 **Edge cases and limitations.** Seven entries (~0.3%) classify as bare-vowel V-pattern structures after stripping — these are special-case Pāṇinian-citation forms (e.g., the bare-vowel dhātavaḥ *i* = इ "to go", *ṛ* = ऋ "to go", *f* in the SLP1 encoding) and are correctly retained as 1-akṣara dhātus. A more granular Pāṇinian analysis would also handle the *cuṭū* (*Aṣṭādhyāyī* 1.3.7) and *laśakvataddhite* (1.3.8) rules for initial-consonant anubandhas in *pratyaya*s, but these rules do not affect dhātu citation specifically and are out of scope for the structural analysis here.
 

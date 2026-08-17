@@ -586,7 +586,7 @@ def load_drafted_endnotes(mode: str = "full") -> dict[str, str]:
 
 def load_stub_descriptions() -> dict[str, str]:
     """Parse working/10_active/as_todo.md Section E and return { stub-name: description }."""
-    path = BOOK_DIR / "working" / "as_todo.md"
+    path = BOOK_DIR / "working" / "10_active" / "as_todo.md"
     if not path.exists():
         return {}
     section = TODO_SECTION_E_RE.search(path.read_text())
