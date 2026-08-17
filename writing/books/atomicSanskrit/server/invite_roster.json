@@ -53,11 +53,17 @@
     "hypothesis_group_name": "as-jk-ap",
     "email": "akshar.prabhudesai@gmail.com"
   },
-  "pr": {
+  "prao": {
     "name": "Prashant Rao",
-    "hypothesis_group_url": "https://hypothes.is/groups/QpG9pDKd/as-pr",
-    "hypothesis_group_name": "as-pr",
+    "hypothesis_group_url": "https://hypothes.is/groups/QpG9pDKd/as-pr-sr",
+    "hypothesis_group_name": "as-pr-sr",
     "email": "prao100@gmail.com"
+  },
+  "srao": {
+    "name": "Shashi Rao",
+    "hypothesis_group_url": "https://hypothes.is/groups/QpG9pDKd/as-pr-sr",
+    "hypothesis_group_name": "as-pr-sr",
+    "email": "shashikala.p.rao@gmail.com"
   },
   "pt": {
     "name": "Parag Tope",

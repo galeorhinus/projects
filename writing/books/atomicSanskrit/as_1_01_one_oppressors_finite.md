@@ -62,7 +62,11 @@ That is the darkness Sanskrit was engineered to resist.
 
 ### How Deformation Repeats
 
-The pyramid is a created fractal of deformation—**विकृति (*vikṛti*)**. It possesses intelligence, design, memory, and method. The deformation lies in how the pyramid directs these capabilities: it deliberately turns them toward control. The pyramid arranges organization so that an apex commands everyone below. Communities can transmit knowledge across generations, but the pyramid restricts transmission to doctrine authorized by the apex. In a calibrant order, people correct an error by returning to the shared standard. Under the pyramid, the apex punishes any departure from its doctrine, calls that punishment correction, and justifies it as serving the greater good.
+The pyramid is a fractal of deformation—**विकृति (*vikṛti*)**—created from **असत् (*asat*)**.
+
+It possesses intelligence, design, memory, and method. It hides its dogma behind a facade of rationalism and covers its crookedness with grandiose, polished structures. Some are built from stone and steel. Others are built from doctrine, institutions, and prestige. Both are designed to overwhelm the observer and make containment appear attractive. The *asuras* of *śruti* and *smṛti* use **माया (*māyā*)** in exactly the same way: they conceal their motive, disguise deformation, and make the crooked appear desirable.
+
+The deformation lies in how the pyramid directs these capabilities: it deliberately turns them toward control. The pyramid arranges organization so that an apex commands everyone below. Communities can transmit knowledge across generations, but the pyramid restricts transmission to doctrine authorized by the apex. In a calibrant order, people correct an error by returning to the shared standard. Under the pyramid, the apex punishes any departure from its doctrine, calls that punishment correction, and justifies it as serving the **greater good**.
 
 This shape systematically repeats across domains: in religion, it becomes one book, one prophet, and one permitted salvation; in empire, it becomes one crown, one law, and one extracted people; in scholarship, it becomes one method, one peer circle, and one permitted origin story. Consequently, in language, it becomes one ancestor, one chronology, one authorized grammar-story, and then one verdict on what the civilization is allowed to remember.
 
