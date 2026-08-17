@@ -65,10 +65,10 @@
     "hypothesis_group_name": "as-pr-sr",
     "email": "shashikala.p.rao@gmail.com"
   },
-  "pt": {
-    "name": "Parag Tope",
-    "hypothesis_group_url": "https://hypothes.is/groups/QpG9pDKd/as-pr",
-    "hypothesis_group_name": "as-pt",
-    "email": "parag.tope@gmail.com"
+  "pgoyal": {
+    "name": "Pankaj Goyal",
+    "hypothesis_group_url": "https://hypothes.is/groups/NJmXLWkW/as-pg",
+    "hypothesis_group_name": "as-pg",
+    "email": "pgoyal@gmail"
   }
 }
