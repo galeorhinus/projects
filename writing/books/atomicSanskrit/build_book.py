@@ -101,8 +101,8 @@ BUILD_DIR = BOOK_DIR / "build"
 FIGURES_DIR = BOOK_DIR / "figures"
 METADATA_FILE = BOOK_DIR / "as_book.yaml"
 REFERENCE_METADATA_FILE = BOOK_DIR / "as_reference.yaml"
-REFERENCE_FRONT_FILE = BOOK_DIR / "as_reference_front.md"
-REFERENCE_APPENDIX_GLOB = "as_reference_*.md"
+REFERENCE_FRONT_FILE = BOOK_DIR / "companion" / "as_reference_front.md"
+REFERENCE_APPENDIX_GLOB = "companion/as_reference_*.md"
 PREAMBLE_TEMPLATE = BOOK_DIR / "templates" / "devanagari-preamble.tex.in"
 LATEX_STRIKEOUT_FILTER = BOOK_DIR / "filters" / "latex-strikeout.lua"
 
@@ -563,7 +563,7 @@ def load_drafted_endnotes(mode: str = "full") -> dict[str, str]:
                    build still produces something useful per-entry even
                    while editorial passes are in flight.
     """
-    path = BOOK_DIR / "as_endnotes.md"
+    path = BOOK_DIR / "manuscript" / "as_endnotes.md"
     if not path.exists():
         return {}
     text = path.read_text()
@@ -896,7 +896,9 @@ def cmd_assemble(endnotes_mode: str = "full", promote_svgs: bool = True) -> int:
         # section that pulls content from as_endnotes.md (drafted prose) and
         # as_todo.md Section E (stub descriptions), with a verification-pending
         # placeholder where neither is available.
-        if filename == "as_endnotes.md":
+        # Basename: assembly paths are directory-qualified since the
+        # 2026-08-17 restructure (manuscript/as_endnotes.md).
+        if Path(filename).name == "as_endnotes.md":
             body_so_far = "".join(chunks)
             numbered_body, notes = number_note_markers(body_so_far)
             chunks[:] = [numbered_body]
@@ -1275,7 +1277,7 @@ def cmd_reference(layout: str = "letter", progress_pages: int = DEFAULT_PROGRESS
     if not REFERENCE_METADATA_FILE.exists():
         print(f"Missing: {REFERENCE_METADATA_FILE.name}", file=sys.stderr)
         return 1
-    endnotes_path = BOOK_DIR / "as_endnotes.md"
+    endnotes_path = BOOK_DIR / "manuscript" / "as_endnotes.md"
     if not endnotes_path.exists():
         print(f"Missing: {endnotes_path.name}", file=sys.stderr)
         return 1

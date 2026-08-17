@@ -77,7 +77,11 @@ TEMPLATE_404 = BOOK_DIR / "templates" / "error_404.html"
 # than under outreach/: jacket copy is text that ships ON the book, not
 # material sent out ABOUT it, and it may later be bundled into the PDF
 # by build_book.py. Moved there 2026-08-17.
-COVER_DIR = BOOK_DIR / "cover"
+# Per-book subdirectory, mirroring how figures/ splits per-chapter dirs from
+# figures/_shared/. cover/_shared/ holds what every volume shares (the author
+# bio); cover/<book>/ holds that volume's own jacket copy. The companion and
+# the concise edition get their own subdirectories when they have copy.
+COVER_DIR = BOOK_DIR / "cover" / "manuscript"
 JACKET_COPY_SRC = COVER_DIR / "jacket_copy_question_led.md"
 
 # The three alternates to JACKET_COPY_SRC, reviewed 2026-08-12 against the
@@ -186,7 +190,15 @@ def slug_for(filename: str) -> str:
     Part-opener files get a `part-` prefix on the slug so they don't collide
     with chapters that share the same topic name — e.g.,
     as_part_07_life_after_pie.md (Part VII opener) → `part-life-after-pie`
-    coexists with as_1_19_life_after_pie.md (Chapter 19) → `life-after-pie`."""
+    coexists with as_1_19_life_after_pie.md (Chapter 19) → `life-after-pie`.
+
+    Takes the basename first: as_book.yaml's assembly carries directory-
+    qualified paths (`manuscript/as_1_02_botanical.md`) since the 2026-08-17
+    restructure, and every prefix test below is written against the bare
+    filename. Without this, a path-qualified value silently produces a
+    different slug for every page — changing all live /as/book/<slug>/ URLs
+    with no error raised."""
+    filename = Path(filename).name
     is_part = filename.startswith("as_part_")
     if SLUG_PREFIX_RE.match(filename):
         stem = SLUG_PREFIX_RE.sub("", filename)
@@ -431,7 +443,9 @@ def render_index(entries: list[dict], book_title: str, subtitle: str,
                 "entries": [],
             }
         elif entry["kind"] == "end":
-            fname = entry["file"]
+            # Basename: assembly paths are directory-qualified since the
+            # 2026-08-17 restructure; these prefix tests need the bare name.
+            fname = Path(entry["file"]).name
             if fname == "as_endnotes.md":
                 end_groups["notes"]["entries"].append(entry)
             elif fname.startswith("as_2_"):

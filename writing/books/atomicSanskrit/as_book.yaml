@@ -68,154 +68,154 @@ header-includes:
 # Edit reading order here, not in build_book.py.
 assembly:
   - kind: front
-    file: as_0_00_about_series.md
+    file: manuscript/as_0_00_about_series.md
     title: "About the *Second Shanti* Series"
   - kind: front
-    file: as_0_01_preface.md
+    file: manuscript/as_0_01_preface.md
     title: "Preface — The Eclipse"
   - kind: part
-    file: as_part_00_overture_shankha.md
+    file: manuscript/as_part_00_overture_shankha.md
     title: "Overture — The Śaṅkha"
     subtitle: The war is already underway.
   - kind: front
-    file: as_1_00_seekers.md
+    file: manuscript/as_1_00_seekers.md
     title: "Chapter 0 — Zero, Seekers, and the Infinite"
   - kind: front
-    file: as_1_01_one_oppressors_finite.md
+    file: manuscript/as_1_01_one_oppressors_finite.md
     title: "Chapter 1 — One, the Apex, and the Finite"
 
   - kind: part
-    file: as_part_01_wrong_metaphor.md
+    file: manuscript/as_part_01_wrong_metaphor.md
     title: "Part I — How the Shadow Is Cast"
     subtitle: The asurī māyā.
   - kind: chapter
-    file: as_1_02_botanical.md
+    file: manuscript/as_1_02_botanical.md
     title: "Chapter 2 — Category Theft and Asurī Māyā"
   - kind: chapter
-    file: as_1_03_strategic.md
+    file: manuscript/as_1_03_strategic.md
     title: "Chapter 3 — Motive and Method"
   - kind: chapter
-    file: as_1_04_fourth_abrahamic.md
+    file: manuscript/as_1_04_fourth_abrahamic.md
     title: "Chapter 4 — The Fourth Abrahamic Religion"
 
   - kind: part
-    file: as_part_02_sanskrit_self_conception.md
+    file: manuscript/as_part_02_sanskrit_self_conception.md
     title: "Part II — The Sun's Own Account"
     subtitle: Created, anti-entropic, calibrated.
   - kind: chapter
-    file: as_1_05_siddha.md
+    file: manuscript/as_1_05_siddha.md
     title: "Chapter 5 — *Siddha* and *Kārya*"
   - kind: chapter
-    file: as_1_06_apabhramsa.md
+    file: manuscript/as_1_06_apabhramsa.md
     title: "Chapter 6 — *Apabhraṃśa* and Entropy"
 
   - kind: part
-    file: as_part_03_sound_field.md
+    file: manuscript/as_part_03_sound_field.md
     title: "Part III — The Sun's Sound-Body"
     subtitle: Sonomeric, not alphabetic.
   - kind: chapter
-    file: as_1_07_adivadya.md
+    file: manuscript/as_1_07_adivadya.md
     title: "Chapter 7 — ॐ (*Oṃ*): The Anatomy of Sound"
   - kind: chapter
-    file: as_1_08_superset.md
+    file: manuscript/as_1_08_superset.md
     title: "Chapter 8 — The Subcontinental Sound-Field"
   - kind: chapter
-    file: as_1_09_mapping_mouth.md
+    file: manuscript/as_1_09_mapping_mouth.md
     title: "Chapter 9 — The Varṇamālā: The Sonomeric Grid"
 
   - kind: part
-    file: as_part_04_atomic_architecture.md
+    file: manuscript/as_part_04_atomic_architecture.md
     title: "Part IV — The Sun's Atoms"
     subtitle: Particle, atom, molecule, assembly.
   - kind: chapter
-    file: as_1_10_building_dhatuh.md
+    file: manuscript/as_1_10_building_dhatuh.md
     title: "Chapter 10 — Building the *Dhātuḥ* (धातुः): Sanskrit's Atom"
   - kind: chapter
-    file: as_1_11_building_kriya.md
+    file: manuscript/as_1_11_building_kriya.md
     title: "Chapter 11 — Building the *Kriyā* (क्रिया): Sanskrit's Molecule"
   - kind: chapter
-    file: as_1_12_building_vakya.md
+    file: manuscript/as_1_12_building_vakya.md
     title: "Chapter 12 — Building the *Vākya* (वाक्य): Sanskrit's Molecular Assembly"
 
   - kind: part
-    file: as_part_05_anti_entropy_practice.md
+    file: manuscript/as_part_05_anti_entropy_practice.md
     title: "Part V — The Sun Does Not Decay"
     subtitle: Calibration from within.
   - kind: chapter
-    file: as_1_13_preservation.md
+    file: manuscript/as_1_13_preservation.md
     title: "Chapter 13 — Why Preservation Needs Engineering"
   - kind: chapter
-    file: as_1_14_calibration.md
+    file: manuscript/as_1_14_calibration.md
     title: "Chapter 14 — The Calibration Matrix"
   - kind: chapter
-    file: as_1_15_aural.md
+    file: manuscript/as_1_15_aural.md
     title: "Chapter 15 — Aural Architecture"
   - kind: chapter
-    file: as_1_16_one_architecture_two_domains.md
+    file: manuscript/as_1_16_one_architecture_two_domains.md
     title: "Chapter 16 — One Architecture, Two Domains"
 
   - kind: part
-    file: as_part_06_killing_pie.md
+    file: manuscript/as_part_06_killing_pie.md
     title: "Part VI — Dispelling Rāhu"
     subtitle: Not descended, not sibling.
   - kind: chapter
-    file: as_1_17_retroflex.md
+    file: manuscript/as_1_17_retroflex.md
     title: "Chapter 17 — The Subcontinental Mouth and Mind"
   - kind: chapter
-    file: as_1_18_wrong_question.md
+    file: manuscript/as_1_18_wrong_question.md
     title: "Chapter 18 — The Wrong Question"
   - kind: chapter
-    file: as_1_19_pie_in_sky.md
+    file: manuscript/as_1_19_pie_in_sky.md
     title: "Chapter 19 — PIE in the Sky"
 
   - kind: part
-    file: as_part_07_life_after_pie.md
+    file: manuscript/as_part_07_life_after_pie.md
     title: "Part VII — Life After PIE"
     subtitle: Light after the eclipse.
   - kind: chapter
-    file: as_1_20_life_after_pie.md
+    file: manuscript/as_1_20_life_after_pie.md
     title: "Chapter 20 — Life After PIE"
 
   - kind: end
-    file: as_2_01_epilogue.md
+    file: manuscript/as_2_01_epilogue.md
     title: "Epilogue — Make the World Ārya"
   - kind: end
-    file: as_3_01_baking.md
+    file: manuscript/as_3_01_baking.md
     title: "Appendix Part 1 — Baking the Mother Tongue"
   - kind: end
-    file: as_3_02_encyclopaedic.md
+    file: manuscript/as_3_02_encyclopaedic.md
     title: "Appendix Part 2 — The Encyclopaedic Confirmation"
   - kind: end
-    file: as_3_03_audiography.md
+    file: manuscript/as_3_03_audiography.md
     title: "Appendix Part 3 — The Sonomer and the Audiograph: Sound Engineering, Pun Intended"
   - kind: end
-    file: as_3_04_inventory_atlas.md
+    file: manuscript/as_3_04_inventory_atlas.md
     title: "Appendix Part 4 — The Subcontinental Sound-Field: Inventory Atlas and Control Surveys"
   - kind: end
-    file: as_3_05_language_factory.md
+    file: manuscript/as_3_05_language_factory.md
     title: "Appendix Part 5 — The Language Factory"
   - kind: end
-    file: as_3_06_by_the_numbers.md
+    file: manuscript/as_3_06_by_the_numbers.md
     title: "Appendix Part 6 — The Architecture by the Numbers"
   - kind: end
-    file: as_3_07_architecture_in_vedas.md
+    file: manuscript/as_3_07_architecture_in_vedas.md
     title: "Appendix Part 7 — The Architecture Already in the Vedas"
   - kind: end
-    file: as_3_08_one_architecture_two_domains.md
+    file: manuscript/as_3_08_one_architecture_two_domains.md
     title: "Appendix Part 8 — Designed Variations Across the Two Domains"
   - kind: end
-    file: as_3_09_codification_myth.md
+    file: manuscript/as_3_09_codification_myth.md
     title: "Appendix Part 9 — Testing the Codification Myth"
   - kind: end
-    file: as_3_10_glossary.md
+    file: manuscript/as_3_10_glossary.md
     title: "Appendix Part 10 — Glossary"
   - kind: end
-    file: as_0_02_acknowledgements.md
+    file: manuscript/as_0_02_acknowledgements.md
     title: Acknowledgments
     draft: true
   - kind: end
-    file: as_0_04_note_on_notes.md
+    file: manuscript/as_0_04_note_on_notes.md
     title: A Note on the Notes
   - kind: end
-    file: as_endnotes.md
+    file: manuscript/as_endnotes.md
     title: Endnotes
