@@ -736,11 +736,29 @@ Three meanings must remain separate:
 
 The institutional examples show how easily these meanings are merged. The Government of India's Vedic Heritage Portal first says that *Vedānta* means the end, conclusion, and goal of the Vedas. In the next sentence it says that the Upaniṣads came chronologically at the end of a *Vedic period*. The same page later describes them as the final phase of Vedic revelation and presents a development from earlier Vedic material toward Upaniṣadic philosophy. The structural definition and the chronological claim are placed together without demonstrating that one establishes the other.
 
-The Vedanta Society of Southern California's public explainer gives the internal definition clearly: *Vedānta* combines *Veda* with *anta*, “the end of” or “the goal of,” and concerns Self-knowledge and knowledge of God. That page does not call Vedānta a period. A research-handbook introduction hosted on the Society's site, however, dates the Bhagavad Gītā to approximately 200 BCE–100 CE, the Brahmasūtra to approximately 300 BCE–400 CE, Gauḍapāda to approximately 500 CE, and Śaṅkara to approximately 700–800 CE, then narrates the emergence of successive Vedāntic schools. The distinction matters: the hosted scholarly chronology should not be misrepresented as a doctrinal declaration by the Society. Its presence nevertheless demonstrates how conventional chronology can inhabit an institution whose own public definition preserves *anta* as structural culmination and goal.
+The Vedanta Society of Southern California's public explainer gives the internal definition clearly: *Vedānta* combines *Veda* with *anta*, “the end of” or “the goal of,” and concerns Self-knowledge and knowledge of God. That page does not call Vedānta a period. A research-handbook introduction hosted on the Society's site, however, dates the Bhagavad Gītā to approximately 200 BCE–100 CE, the Brahmasūtra to approximately 300 BCE–400 CE, Gauḍapāda to approximately 500 CE, and Śaṅkara to approximately 700–800 CE, then narrates the emergence of successive Vedāntic schools. The chronology comes from the hosted scholarly source rather than the Society's doctrinal statement. Its presence nevertheless demonstrates how conventional chronology can inhabit an institution whose own public definition preserves *anta* as structural culmination and goal.
 
 The book's argument does not claim that textual arrangement supplies no historical information. It claims that arrangement, purpose, style, and chronology are different kinds of information. A date must be established through evidence connected to time rather than inferred from the word *anta* or from a composition's philosophical and literary style.
 
 Sources: Government of India, Vedic Heritage Portal, [“Upanishads”](https://vedicheritage.gov.in/upanishads/), especially its definition of *Vedānta* as conclusion and goal followed by the claim of chronological lateness; Vedanta Society of Southern California, [“What Is Vedanta?”](https://vedanta.org/what-is-vedanta/); Ayon Maharaj, [“Introduction: The Past, Present, and Future of Scholarship on Vedānta”](https://vedanta.org/wp-content/uploads/2023/08/Vedanta-intro.pdf), in *The Bloomsbury Research Handbook of Vedānta*; Bhagavad Gītā 15.15, [Gītā Supersite, IIT Kanpur](https://www.gitasupersite.iitk.ac.in/srimad?choose=1&etadi=1&etgb=1&etpurohit=1&etsiva=1&etssa=1&field_chapter_value=15&field_nsutra_value=15&language=dv&show_mool=1).
+
+---
+
+### `vedanta-textual-placement`
+
+**Short:** The Upaniṣads do not occupy one uniform final layer across the Vedic corpus. The Aitareya Upaniṣad appears inside the second of the Aitareya Āraṇyaka's five divisions, while the Īśopaniṣad forms chapter 40 of the Vājasaneyī Saṃhitā. Their textual placement breaks the neat Saṃhitā → Brāhmaṇa → Āraṇyaka → Upaniṣad sequence often converted into chronology.
+
+**Deployment:** Chapter 0 §0.5, “When *Anta* Becomes a Date.”
+
+The Aitareya Āraṇyaka contains five major divisions. Chapters 4, 5, and 6 of its second division form the Aitareya Upaniṣad; the third, fourth, and fifth divisions follow it. This is a direct example of an Upaniṣad placed within a larger Vedic text rather than at its physical end.
+
+The Īśopaniṣad occupies chapter 40 of the Vājasaneyī Saṃhitā of the Śukla Yajurveda. It stands at the end of that Saṃhitā, but it does not follow a separately arranged Brāhmaṇa and Āraṇyaka in the neat four-stage sequence imposed upon the complete Vedic corpus.
+
+The Taittirīya Āraṇyaka provides a third arrangement. It contains ten *prapāṭhakas*. The seventh, eighth, and ninth form the Taittirīya Upaniṣad, and the tenth is the Mahānārāyaṇa Upaniṣad. The Taittirīya example shows why the title of one Upaniṣad cannot be treated as a marker placed at the physical end of every Vedic arrangement.
+
+These placements do not establish dates. They show that Saṃhitā, Brāhmaṇa, Āraṇyaka, and Upaniṣad do not form one universal table of contents that can be converted into a historical timeline.
+
+Sources: Government of India, Vedic Heritage Portal, [“Aitareya Āraṇyaka”](https://vedicheritage.gov.in/aranyakas/aitareyaranyaka/), [“Taittirīya Āraṇyaka”](https://vedicheritage.gov.in/aranyakas/taittiriya-aranyaka/), and [“Vājasaneyī Kāṇva Saṃhitā, Chapter 40”](https://vedicheritage.gov.in/hi/samhitas/yajurveda/vajasaneyi-kanva-samhita/vajasaneyi-kanva-samhita-chapter-40/).
 
 ---
 
@@ -6598,5 +6616,19 @@ Sources: UK Parliament, [“United into One Kingdom”](https://www.parliament.u
 **Deployment:** Positioning note; *Source and Reference Companion*, “Where This Argument Stands.”
 
 Each neighboring body reaches part of the evidence. The companion essay explains where this book follows earlier research and where it takes a different path. Its distinctive synthesis joins engineered sound, semantic atoms, two-domain scope, the Vedas as calibrant, distributed aural preservation, Sanskrit's radiance beyond India, and the reversal that placed PIE above the surviving architecture.
+
+---
+
+### `anti-sanskrit-progress-parliament`
+
+**Short:** Parliamentary debate presented Sanskrit-based word formation as an obstacle to modern progress; government schools later amplified the same claim through absurd railway terminology falsely attributed to Raghu Vira.
+
+**Deployment:** Chapter 1 §1.3, the attack on Sanskrit's continuing generativity.
+
+Jaipal Singh's Constituent Assembly intervention of 14 September 1949 appears as speech 9.140.115 in the official debate sequence. He said, "I do feel very strongly opposed to the puritanical fanaticism that has gripped many people." Later in the same intervention, he argued that adopting Devanagari would retard India's progress. See [Constitution of India, Constituent Assembly debate, 14 September 1949](https://www.constitutionofindia.net/debates/14-sep-1949/).
+
+Jawaharlal Nehru made the connection to Raghu Vira explicit in the Lok Sabha on 4 September 1959. He named Raghu Vira, dismissed his terminology as "artificial, unreal, absurd, fantastic and laughable," and said that such an approach could not progress. He contrasted Sanskrit-based technical word formation with scientific and industrial advancement. See [Lok Sabha Debates, 4 September 1959, discussion of the Report of the Committee of Parliament on Official Language](https://eparlib.sansad.in/bitstream/123456789/899679/1/02_VIII_04-09-1959_p73_p103_PII.pdf), especially pp. 435 and 443–44 of the printed debate.
+
+The railway example belongs to the subsequent public caricature, not to either parliamentary quotation. Raghu Vira used **संयान (*saṃyāna*)** for *train* and **संकेत (*saṃketa*)** for *signal*. Accounts defending his terminology record that long expressions such as **अग्निरथ-गमन-आगमन-सूचक-लोह-पट्टिका** were circulated under his name although they did not come from his dictionary. The still longer **लौहपथगामिनीसूचकदर्शकहरितताम्रलौहपट्टिका** later circulated widely as the supposed Hindi term for *railway signal*. See [the account of Raghu Vira's terminology and the false attribution](https://yash-raj-aishwarya.blogspot.com/2014/07/blog-post_7526.html) and [the explanation of **संयान**](https://www.bhaskar.com/madhurima/news/dr-raghuveer-gave-the-word-sanyan-for-the-train-which-means-a-vehicle-in-which-a-large-number-of-people-travel-together-128309154.html). The reference to the author's brother records the family's direct experience of this caricature in a government-controlled school.
 
 ---

@@ -160,6 +160,8 @@ The word ***अन्त (*anta*)*** can describe a position within an arrangeme
 
 The pyramid merges them. Because the Upaniṣads are called *Vedānta*, their place at the culmination of Vedic knowledge becomes evidence that they were composed last. The resulting chronology then arranges Saṃhitā, Brāhmaṇa, Āraṇyaka, and Upaniṣad as successive historical stages. Their different functions and styles are made to tell a story in which Vedic thought moved from mantra, through *yajña*, and finally into philosophy.
 
+The corpus itself refuses that neat sequence. The Aitareya Upaniṣad appears within the second of the Aitareya Āraṇyaka's five divisions, with three divisions following it, while the Īśopaniṣad appears inside the Vājasaneyī Saṃhitā. Upaniṣadic material therefore does not occupy one uniform final layer from which a date can be inferred.[NOTE: vedanta-textual-placement]
+
 The term *Vedāntic period* is the pyramid's invention. 
 
 Hindu chronology describes yugas, manvantaras, dynasties, reigns, and lineages. *Vedānta* instead identifies the culmination and purpose of Vedic knowledge. It also identifies the interpretive tradition carried through the Upaniṣads, the Bhagavad Gītā, the Brahmasūtras, and the several Vedānta darśanas. These are textual, philosophical, and pedagogical relationships. None of them turns *Vedānta* into the name of an age.

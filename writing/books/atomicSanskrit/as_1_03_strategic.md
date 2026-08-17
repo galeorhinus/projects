@@ -221,9 +221,9 @@ The Ṛgveda first demonstrates the privative operation by placing **अदे�
 >
 > *"When the a-deva attacked the devāḥ."*[NOTE: rigveda-adeva-privative]
 
-The evidence from **अदब्ध (*a-dabdha*)** goes further. The Ṛgveda uses the privative ***a-dabdha*** forty-eight times, while independent **दब्ध (*dabdha*)** appears exactly zero times.[NOTE: rigveda-privative-generativity] The positive form does not appear independently anywhere in the Ṛgveda, yet Sanskrit generates and uses its privative form repeatedly.
+The evidence from **अदब्ध (*a-dabdha*)** goes even further. The Ṛgveda uses the privative ***a-dabdha*** forty-eight times. How many times does the independent **दब्ध (*dabdha*)** appear? Exactly zero.[NOTE: rigveda-privative-generativity]
 
-The pyramid is incensed to discover that the Veda failed to seek approval from its attestation committee.
+If the certified intellectuals on the pyramid's attestation committee had their way, they would refuse to recognize all forty-eight uses of ***a-dabdha*** because **दब्ध (*dabdha*)** does not appear anywhere in the Ṛgveda. The absurdity exposes the trick. Sanskrit's generative architecture does not require a positive form to be recorded independently before it generates the privative.
 
 Sarcasm aside, the Vedas use this exact generative engine. They have themselves remained **अदब्धाः (*adabdhāḥ*)** — inviolable — ever since their mantras were first seen. Chapter 16 explains this relationship between the Vedas and Sanskrit's generative engine; Appendix Part 8 documents the designed variations across the *vaidika* and *laukika* domains.
 
