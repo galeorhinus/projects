@@ -31,13 +31,26 @@ Target: ~115,000 prose words + ~5,000 endnotes ≈ ~120,000 manuscript (raised 2
 | `working/10_active/as_verification_todo.md` | The verification queue. Every unverified claim across drafted chapters, organized by chapter, with verification path. Inline `[VERIFY:]` markers in chapter drafts log here. |
 | `working/40_reference/workflows/as_verification_process.md` | The verification workflow. Tier system (A–F), working modes (background / targeted / deep-dive), tool usage, division of labor. **When the user asks "how does verification work?" or "what needs verification?" — start here.** |
 | `as_book.yaml` | Canonical book metadata (title, subtitle, author, fonts, document structure). Single source of truth; never duplicate inline in scripts or templates. |
+| `as_reference.yaml`, `as_reference_front.md`, `as_reference_*.md` | Source files for the *Source and Reference Companion* — the separate volume carrying the full long-form endnotes. Parallels `as_book.yaml` + the manuscript files for the main book; assembled by `build_book.py`'s reference phase. |
 | `build_book.py` | Pipeline: assemble chapters → render PDF via pandoc + xelatex. Three phases (`stubs`, `assemble`, `pdf`, `all`). Three layouts (`letter`, `book-on-letter`, `trade`). |
+| `build_html.py` | Pipeline: render the website into `build/html/` — book chapters, essays, landing page, jacket-copy reviewer pages, figures, favicons. Reads from `cover/`, `web/`, `figures/`, and `templates/`. |
+| `deploy.sh` | Publishes `build/html/` to `/var/www/as/` on amrut, installs the `Caddyfile` and `server/invite_roster.json`, reloads Caddy. Run on amrut, not locally. |
+| `Caddyfile` | The live site's routing: the OAuth gate for `/as/book/*` and `/as/private/*`, the owner-only dashboard check, legacy-URL redirects, and figure-path rewrites. Installed by `deploy.sh`. |
 
 ### Project layout (directories)
 
+**Organizing principle (2026-08-17).** Top-level directories name the *job* they serve, and `working/` holds exactly one job: developing the manuscript. A directory earns top-level placement when it serves a different job, regardless of size. The four jobs: **write the book** (manuscript sources, `reference/`, `figures/`, `analysis/`, `concepts/`, `working/`), **build the artifacts** (`build_book.py`, `build_html.py`, `templates/`, `filters/`, `build/`), **get readers reading it** (`Caddyfile`, `deploy.sh`, `server/`, `hypothesis/`, `web/`), and **get the book into the world** (`cover/`, `outreach/`).
+
 | Directory | Purpose |
 |---|---|
-| `working/` | Status-classified development material. Start with `working/README.md`; current work lives in `working/10_active/`, accepted next work in `working/20_queued/`, durable evidence and decisions in `working/40_reference/`, completed records in `working/80_completed/`, and replaced drafts in `working/90_superseded/`. |
+| `working/` | Status-classified **manuscript-development** material. Start with `working/README.md`; current work lives in `working/10_active/`, accepted next work in `working/20_queued/`, durable evidence and decisions in `working/40_reference/`, completed records in `working/80_completed/`, and replaced drafts in `working/90_superseded/`. Non-manuscript work does not belong here — see `cover/`, `web/`, `outreach/`. |
+| `cover/` | The book's own description of itself — cover matter, not campaign material. Three jacket-copy variants (`jacket_copy_question_led.md` is canonical, per `build_html.py`'s `JACKET_COPY_SRC`), the longer `website_copy_questions_answers.md` sibling, and `parag_bio.md`. Rendered by `build_html.py` as the landing-page copy plus gated reviewer pages at `/as/jacket-copy/<slug>/`; may later be bundled into the PDF by `build_book.py`. |
+| `web/` | Content published to secondshanti.org: `web/public/` (ungated essays, landing copy, favicons) and `web/private/` (essays gated behind the reader login). Consumed by `build_html.py`; deployed by `deploy.sh`. |
+| `outreach/` | Getting the book into the world: `articles/` (article and essay drafts), `strategy/` (publishing strategy), `contacts/` (`people/`, `outlets/`, `publishers/`), `messages/` (advance-reader and WhatsApp drafts), plus the proposal overview and spoken descriptions. No build dependency. |
+| `server/` | The invite / access-request service that whitelists readers for the gated site. Loopback-only, systemd-run on amrut. Full documentation in `server/README.md`; `invite_roster.json` is git-authoritative and installed by `deploy.sh`. |
+| `hypothesis/` | The reader-annotation pipeline: pulls annotations from every Hypothesis reading group, auto-tags them, builds the owner-only "Reader Margins" dashboard, and sends digest emails. Cron-scheduled on amrut. Full documentation in `hypothesis/README.md`; command reference in `hypothesis/COMMANDS.md`. |
+| `concepts/` | Small durable reference notes consumed by production sub-projects (e.g. `vyanjana_timing.md`, the ½ : 1 : 2 *mātrā* grounding used by `working/50_projects/dhatu_hexagons/`). Not orphaned — check for relative-path references before touching. |
+| `filters/` | Pandoc Lua filters used by the PDF build (`latex-strikeout.lua`). Referenced by `build_book.py` via a path join, not a literal string — easy to miss in a grep. |
 | `reference/` | Lower-churn planning + external-reference docs: `as_toc*.md`, `as_orl_voice_reference.md`, `as_second_shanti.md`, `as_companion_paper_subcontinental_calibrant.md`. |
 | `figures/` | Figure scripts (Python + matplotlib) and their PDF/SVG outputs. One subdirectory per chapter, named by chapter slug (`figures/building_dhatuh/`, `figures/ganah/`, ...) plus `figures/_shared/style.py` for shared typography. |
 | `analysis/` | Empirical-analysis reproducibility bundles. One self-contained subdirectory per analysis (`analysis/dhatupatha/` for Ch 10 / App 5; `analysis/ganah/` planned for Ch 11; `analysis/affixation/` planned for Ch 12). Each bundle carries its own `README.md`, `data/`, `derived/`, and `scripts/`. |
@@ -53,6 +66,8 @@ Front matter: `as_0_01_preface.md` (Preface), `as_0_02_acknowledgements.md` (Ack
 - **Zone** (single digit) encodes the document region: `0` = front matter; `1` = body chapters; `2` = end matter (epilogue); `3` = appendix parts.
 - **Seq** (two digits) encodes reading order within the zone (`00` = Ch 0 in zone 1; `01`–`20` for Chs 1–20; etc.).
 - **Slug** is a topic anchor for searchability (e.g., `botanical`, `apabhramsa`, `vedic_carrier`).
+
+**Part openers** use `as_part_<NN>_<slug>.md` (`as_part_00_overture_shankha.md` through `as_part_07_life_after_pie.md`) — outside the zone scheme because a Part opener introduces a movement rather than occupying a position in the body-chapter sequence. Each carries its italicized eclipse-arc subtitle and the Part's eclipse figure.
 
 Reference and working files (TOC, endnotes, sidebars, todo, verification, etc.) keep non-numeric prefixes — they sort after manuscript files in alphabetical directory listings, giving a clean two-zone organization.
 
