@@ -3861,3 +3861,58 @@ The "two claims" framing itself, the explicit line "Sanskrit begins from permane
 ```text
 Flagged during commit review 2026-08-12 — recommend author confirm the new §5.5 is the intended final replacement.
 ```
+
+---
+
+## LAF-R-082 — Patañjali's priority over the modern change-categories (§6.3 close)
+
+**Source:** [Chapter 6](/Users/paragtope/projects/writing/books/atomicSanskrit/manuscript/as_1_06_apabhramsa.md)
+**Audit block:** none — found during a drift/deviation/divergence review, 2026-08-17
+**Change type:** CUT (paragraph), during the revision that installed the three-term drift / deviation / divergence distinction
+**Status:** Cut in the working tree; partially restored as one sentence (see Replacement or Result)
+**Applied:** YES (cut was already on disk before this entry was written)
+**Destination if moved:** Not relocated
+
+### Material Removed
+
+> Modern linguists describe comparable changes through categories such as phonetic erosion, morphological reanalysis, and lexical replacement. Long before those categories appeared, Patañjali had already documented the central asymmetry: many circulating departures gather around one calibrated form. His *gauḥ* example does more than list variants. It compares them with Sanskrit's architecture, places *gauḥ* at the calibrated center, and records how quickly the possible departures multiply around it.
+
+### Replacement or Result
+
+Three of the paragraph's five clauses survive in the revised chapter and need no restoration:
+
+- *gauḥ* at the calibrated center, and the list as comparison rather than enumeration → §6.3 retains, in sharper form: "His list therefore establishes a center and compares several departures with it, rather than treating five circulating forms as equally constitutive of the language."
+- departures multiplying quickly → §6.2 retains: "the corruptions multiply much faster than the calibrated words they distort."
+
+What did not survive was the naming of the modern categories and the priority claim over them. One sentence was added at the §6.3 close on 2026-08-17 to carry that move in compressed form:
+
+> Modern linguistics later labeled these movements phonetic erosion, morphological reanalysis, and lexical replacement. Patañjali had already analyzed all three in *gauḥ*.
+
+### Reason Proposed
+
+Not recorded. The cut appears incidental to the three-term revision rather than deliberate: the revision's work was in §6.4 and §6.7, and this paragraph sat at the close of §6.3.
+
+### What May Have Been Lost
+
+The heroic-erasure counter-punch at the point where the *gauḥ* evidence is freshest — naming *phonetic erosion*, *morphological reanalysis*, and *lexical replacement* specifically, and asserting Patañjali's priority over all three. The added sentence restores the move but not the paragraph's full development.
+
+**Note on prior history:** the ledger's contradiction-repair table, entry **A6 — Chapter 6 Patañjali**, records this material as previously cut and deliberately *restored* ("Restored Patañjali's prior architectural analysis"). This is therefore its second removal, which is why it is logged here rather than left as an ordinary compression.
+
+**Related:** LAF-R-081's Replacement note records a differently-worded contrast between modern linguistics and Patañjali's *kārya* / *siddha* distinction elsewhere in Chapter 5; the two make adjacent but distinct claims.
+
+### Author Decision
+
+- [ ] RESTORE IN PLACE
+- [ ] RELOCATE
+- [x] INCORPORATE PART — one-sentence version added at §6.3 close, 2026-08-17
+- [ ] DEVELOP LATER
+- [ ] KEEP CUT
+- [ ] REVISE AGAIN
+
+### Author Comments
+
+```text
+The one-sentence restoration is provisional. If the fuller paragraph is wanted back, the
+clauses it duplicated (center/comparison, multiplication rate) should be trimmed so the
+restored text does not repeat §6.2 and the surviving §6.3 sentence.
+```

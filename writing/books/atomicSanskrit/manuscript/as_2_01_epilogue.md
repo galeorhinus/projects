@@ -84,7 +84,7 @@ The method can be repeated:
 8. Compare the result across several families and identify a plausible route through which Sanskrit's radiance could have traveled.
 9. Publish the strong cases together with the weak cases, counterexamples, and unresolved sounds or meanings.
 
-The sound correspondences, cognate tables, etymological dictionaries, inscriptional corpora, and university departments already supply the material. Indian scholars can turn that machinery around and map two patterns: the languages held in orbit by Sanskritic gravity, and the reflections carried outward by Sanskritic radiance before they drifted.
+The sound correspondences, cognate tables, etymological dictionaries, inscriptional corpora, and university departments already supply the material. Indian scholars can turn that machinery around and map two patterns: the languages held in orbit by Sanskritic gravity, and the reflections carried outward by Sanskritic radiance before the receiving languages drifted and diverged from Sanskrit.
 
 The *Dhātupāṭha* stands as a scientific object — an inventory of semantic atoms in ten *gaṇāḥ*, modelable and testable against the regular *apaśabda* generation in the Indic *prākṛtika* languages and in the Indo-European contact-family; the *Aṣṭādhyāyī*, as engineering documentation — formal compression and generative reach the computational community has been quietly using while the philological community recognized it much later; the recitation lineages, as living evidence — the eleven *pāṭhas* running as an error-detecting code in parallel across Kerala, Maharashtra, Tamil Nadu, Kashmir, and the northern plains, producing phonetic constants across thousands of years.
 

@@ -19,7 +19,7 @@ Sanskrit's purpose faces two enemies:
 
 Sanskrit had to resist both enemies while remaining invariant. It also had to remain useful in every age. Continued usefulness gives people a reason to learn the language, apply it, and protect it. A language confined to inherited expressions would eventually leave its caretakers unable to describe the world in which they lived. Sanskrit therefore had to preserve its architecture without restricting its speakers to the vocabulary and compositions of an earlier age.
 
-These requirements pull a language in opposite directions. Exact preservation protects what has already been received, but ordinary use exposes language to change. Continued usefulness requires people to speak about new tools, new sciences, new institutions, new arguments, and new experiences. If every new use can alter the language itself, its architecture will eventually drift. If no new use is permitted, the language will cease to serve the world.
+These requirements pull a language in opposite directions. Exact preservation protects what has already been received, but ordinary use exposes language to change. Continued usefulness requires people to speak about new tools, new sciences, new institutions, new arguments, and new experiences. If every new use changes the language itself, repeated deviations will eventually alter its architecture. If no new use is permitted, the language will cease to serve the world.
 
 ### The Two-Domain Response
 

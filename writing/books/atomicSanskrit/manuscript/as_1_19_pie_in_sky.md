@@ -231,7 +231,7 @@ The ⟪स्था⟫ and ⟪दिव्⟫ families are part of a much larger
 | **⟪भृ⟫ (*bhṛ*)** — bear, carry | **\*bʰer-** | Latin *ferre* → *transfer, refer, confer, fertile*; Greek *pherein* → *metaphor, phosphorus, euphoria* |
 | **⟪मा⟫ (*mā*)** — measure | **\*meh₁-** | Latin *mētīrī* → *measure, dimension, immense*; Greek *metron* → *metre, geometry, symmetry* |
 
-Greek, Latin, and Germanic received these seeds and used them to generate new words and compounds. Each family continued to grow through its own sounds, affixes, and habits, while the semantic reach of the Sanskrit atom remained recognizable across the canopy. Vivimorphosis therefore explains both sides of the contact: Sanskrit's radiance endows the receiving language, and the receiving language turns that endowment into organic growth.
+Greek, Latin, and the Germanic languages received these seeds and used them to generate new words and compounds. Each receiving language then drifted through its own use. Because none remained in active calibration with Sanskrit, that drift increased its divergence from the complete architecture reflected in its earlier forms. The semantic reach of the Sanskrit atom nevertheless remains recognizable across the canopy. Vivimorphosis therefore explains both sides of the contact: Sanskrit's radiance endows the receiving language, and the receiving language turns that endowment into organic growth.
 
 ### The Pyramid Reverses the Movement
 

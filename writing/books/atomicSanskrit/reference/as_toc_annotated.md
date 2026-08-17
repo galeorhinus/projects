@@ -104,7 +104,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 6.4 The Four Classifications Under Entropy — *Natural languages absorb variation; authorities keep variation out of the forms they have petrified; constructed projects return to their plan or enter botanical change; Sanskrit detects and corrects departure through its distributed architecture.*
 - 6.5 Engineered Against Entropy — *Grammar, meter, heard transmission, recensional discipline, and combinatorial recitation detect different kinds of departure before another generation inherits them.*
 - 6.6 Variation Is Not Drift — *Sanskrit assigns documented differences to function, mode, recension, option, meter, or transmission stream; chronology cannot substitute for a demonstrated mechanism of change.*
-- 6.7 Orbit and Drift — *The term **calibrant** for the engineered anchoring internal to Sanskrit; three distances place Sanskrit at the center, Marathi and Hindi within its orbit, and English beyond the active field. Chapter 14 develops the internal **calibration matrix**; Chapter 19 follows radiance into contact languages.*
+- 6.7 Orbit, Drift, and Divergence — *The term **calibrant** for the engineered anchoring internal to Sanskrit; Sanskrit usage can deviate from its calibrant, Marathi and Hindi drift while remaining within its orbit, and languages beyond active calibration diverge farther. Chapter 14 develops the internal **calibration matrix**; Chapter 19 follows radiance into contact languages.*
 - 6.8 The Fall Is Not Only Linguistic — *The same entropic pressure can pull any engineered order away from its design, while asuric action accelerates and weaponizes the resulting disorder; later volumes extend the fractal beyond language.*
 
 ---

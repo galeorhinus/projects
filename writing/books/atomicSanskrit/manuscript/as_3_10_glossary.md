@@ -144,9 +144,9 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 **Book-coined English, sibling to *calibrant*.** *That which is calibrated* — formed like *operand*, *multiplicand*, *analysand*: the thing acted upon. Where *calibrant* designates Sanskrit as the engineered standard, **calibrand** designates a language restructured toward it through **calibrant contact** (Chapter 19 §19.7). The calibrand languages are the set the philological machinery — treating their shared reflections as common descent — classifies as the *"Indo-European"* and *"Indo-Iranian"* families; each calibrand instead preserves a *Pratibimba* (reflection) of the calibrant, not a fragment of a vanished ancestor. The term replaces a geography-plus-family-tree label with one that encodes the relation: a reflection of a standard, not descended from a parent.
 
-### **orbital** / **drifting** (with **Sanskritic gravity** and **radiance**)
+### **drift** / **deviation** / **divergence**
 
-**Book-coined English.** These terms describe a language's continuing relationship with Sanskrit. An **orbital** language changes while remaining close enough to Sanskrit for speakers to compare newer forms with the calibrant. Sanskritic gravity names that continuing relationship among languages of the Indian subcontinent. A **drifting** form has moved beyond active calibration and continues changing within another language. **Radiance** explains how Sanskrit material reached that more distant language before the drifting form began its own history. Chapter 6 introduces orbit and drift; Chapter 19 develops radiance and *Pratibimba*.
+**Book-controlled English.** The three terms describe entropy from different positions. **Drift** is change within a natural language as generations use it. **Deviation** is a detectable departure within a calibrated architecture; *laukika* Sanskrit usage can deviate from established Sanskrit *śabda* or grammar because the calibrant remains available. Left uncorrected, repeated deviations can accumulate into drift. **Divergence** is the growing distance between another language and Sanskrit as that language drifts through its own use. An **orbital** language may drift while remaining close enough for renewed calibration. A language beyond the active orbit can continue to diverge after Sanskrit's **radiance** has reached it. Chapter 6 establishes the distinction; Chapter 19 applies it to Greek, Latin, and other receiving languages.
 
 ### **vivimorphosis**
 
@@ -248,7 +248,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **apabhraṃśa** (अपभ्रंश) / **apabhraṃśāḥ** (अपभ्रंशाः)
 
-**Standard, book-elevated.** *Falling-away*; decay-variant; entropy-product. The lineage vocabulary for what deviates from the *siddha* form. Patañjali's *Mahābhāṣya* labels it explicitly; the lineage recognizes *apabhraṃśa* as the natural product of ordinary speech that the calibration architecture is designed to refuse. The dogma recodes *apabhraṃśa* as Sanskrit's nature; the architecture treats *apabhraṃśa* as exactly the entropy the engineering is built against. Preface deploys; Chapter 5 develops; the *gauḥ → gāvī / goṇī / gotā* example anchors the concept concretely.
+**Standard, book-elevated.** *Falling-away*; decay-variant; entropy-product. The lineage vocabulary for what deviates from the *siddha* form. Patañjali's *Mahābhāṣya* labels it explicitly; the lineage recognizes *apabhraṃśa* as the natural product of ordinary speech that the calibration architecture is designed to refuse. The dogma recodes *apabhraṃśa* as Sanskrit's nature; the architecture treats *apabhraṃśa* as exactly the entropy the engineering is built against. The Preface introduces it; Chapter 6 develops it; the *gauḥ → gāvī / goṇī / gotā* example anchors the concept concretely.
 
 ### **Dhātupāṭha** (धातुपाठ)
 

@@ -2,7 +2,7 @@
 
 What Speech revealed as mantra in the Veda has been ringing out continuously, unchanged in recitational form, for thousands of years.
 
-The Veda is heard as recitation: breath, pitch, duration, accent, sequence, and self-correction through distributed transmission architecture. A syllable appears and vanishes, but the trained system catches it before it can drift. The mouth produces; the ear verifies; the teacher corrects; the community hears. This is Auditure.
+The Veda is heard as recitation: breath, pitch, duration, accent, sequence, and self-correction through distributed transmission architecture. A syllable appears and vanishes, but the trained system catches a deviation before it alters the received form. The mouth produces; the ear verifies; the teacher corrects; the community hears. This is Auditure.
 
 This preservation is audible in the *pāṭhas* — living recitation systems maintained in identifiable lineages, taught in *gurukulas*, examined by teachers, performed before communities, and available to the ear.
 
@@ -58,7 +58,7 @@ In *krama-pāṭha*, an interior word appears in the pair before it and the pair
 
 The *vikṛti* recitations add further constraint. Each modified form gives the sequence a different shape. Together they surround the Vedic corpus with redundant checks. It is hard to construct a corruption that passes all eleven.
 
-This is the calibration matrix in motion (Chapter 14 §14.3) — *Chandas* checks the phonetic content like a cryptographic hash. The meter binds the verse into a metrical form with low tolerance for drift, while the *pāṭhas* re-encode the same content under combinatorial constraints. *Śikṣā* trains the human instrument, and the *guru*, audience, and senior reciters all listen, turning the room itself into a distributed verification layer. As Sanātan's aural foundation, Auditure distributes the work of guarding among multiple trained ears, which hear the same *(n, n+1)* *sandhi* boundary in the *jaṭā-pāṭha* at the same instant.[NOTE: combinatorial-redundancy-comparative]
+This is the calibration matrix in motion (Chapter 14 §14.3) — *Chandas* checks the phonetic content like a cryptographic hash. The meter binds the verse into a metrical form with low tolerance for deviation, while the *pāṭhas* re-encode the same content under combinatorial constraints. *Śikṣā* trains the human instrument, and the *guru*, audience, and senior reciters all listen, turning the room itself into a distributed verification layer. As Sanātan's aural foundation, Auditure distributes the work of guarding among multiple trained ears, which hear the same *(n, n+1)* *sandhi* boundary in the *jaṭā-pāṭha* at the same instant.[NOTE: combinatorial-redundancy-comparative]
 
 As long as society continues to listen to what is heard, Auditure remains distributed and democratized.  
 
@@ -66,7 +66,7 @@ As long as society continues to listen to what is heard, Auditure remains distri
 
 Vedic recitation continues in geographically separated lineages across Kerala, Maharashtra, Tamil Nadu, Karnataka, the northern plains, Gujarat, Rajasthan, and Kashmir.[NOTE: nambudiri-vedic-recitation-isolation] No central institution coordinated all of them. Each lineage preserved a specified *śākhā* through its own teacher-student chain.
 
-Recordings make these living systems directly comparable. Fieldwork on Nambūdiri recitation in the 1970s placed one body of practice in audio and film archives, and later recordings extend the available material.[NOTE: staal-agni-nambudiri-recording] Each *śākhā* preserves its specified recitational form through its own exacting checks. When recordings from separated lineages are compared, the shared phonetic and structural constants recur, while *śākhā*-specific differences remain bounded and identifiable instead of dissolving into unrestricted drift.[NOTE: cross-shakha-verification-fieldwork]
+Recordings make these living systems directly comparable. Fieldwork on Nambūdiri recitation in the 1970s placed one body of practice in audio and film archives, and later recordings extend the available material.[NOTE: staal-agni-nambudiri-recording] Each *śākhā* preserves its specified recitational form through its own exacting checks. When recordings from separated lineages are compared, the shared phonetic and structural constants recur, while *śākhā*-specific differences remain bounded and identifiable instead of dissolving into uncontrolled change.[NOTE: cross-shakha-verification-fieldwork]
 
 Recordings of *saṃhitā*, *krama*, *jaṭā*, and *ghana* allow a reader to hear people still performing these recitation systems. Together with the historical evidence assembled in the notes and the preservation architecture described in this chapter, they make the continuity claim audible in the present.
 

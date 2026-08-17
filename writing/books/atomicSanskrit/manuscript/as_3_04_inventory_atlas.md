@@ -57,7 +57,7 @@ The method is narrow and reproducible. It turns Chapter 8's comparison into numb
 
 The body's Forest-Belt Survey set Santali aside because the machinery treats Santali as Indic-influenced. The substitution costs nothing: Korku, Mundari, and Santali cover the same 18 of 23 cells Korku + Mundari + Ho covers.
 
-The unfilled letters match the body set too: **ण · स · ष · श · ल**. The *dantya* / *tālavya* line where Sanskrit's place-coding decisions diverge from the broader subcontinental alveolar / post-alveolar placement is the same set of cells.
+The unfilled letters match the body set too: **ण · स · ष · श · ल**. The *dantya* / *tālavya* line where Sanskrit's place-coding decisions differ from the broader subcontinental alveolar / post-alveolar placement is the same set of cells.
 
 ![Figure A.4.1 — Munda Survey: 18 of 23 Sanskrit base cells. Korku, Mundari, and Santali cover the same 18 cells the body's Forest-Belt Survey covers, with the same unfilled set (ण · स · ष · श · ल).](figures/superset/sk_korku_mundari_santali.svg){#fig:app4-munda-survey width=100%}
 

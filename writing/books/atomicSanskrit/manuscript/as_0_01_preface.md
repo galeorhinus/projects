@@ -38,7 +38,7 @@ A wiser age would not need this book because it would simply look at Sanskrit an
 
 ## What Was Eclipsed
 
-The language names itself **संस्कृतम् (*saṃskṛtam*)**: well-made, wholly formed, perfectly synthesized.[NOTE: samskrtam-morphology] The **परम्परा (*paramparā*)** that received and documented it is an unbroken lineage-chain and distributed transmission architecture. That architecture distinguished Sanskrit from **प्राकृत (*prākṛta*)**, recognized drift as **अपभ्रंश (*apabhraṃśa*)**, and treated the word-meaning bond as **सिद्ध (*siddha*)**: already established.
+The language names itself **संस्कृतम् (*saṃskṛtam*)**: well-made, wholly formed, perfectly synthesized.[NOTE: samskrtam-morphology] The **परम्परा (*paramparā*)** that received and documented it is an unbroken lineage-chain and distributed transmission architecture. That architecture distinguished Sanskrit from **प्राकृत (*prākṛta*)**, recognized deviation as **अपभ्रंश (*apabhraṃśa*)**, and treated the word-meaning bond as **सिद्ध (*siddha*)**: already established.
 
 The chapters that follow demonstrate what becomes one of the book's refrains: **Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.**
 
@@ -73,7 +73,7 @@ My mother heard the error and corrected me gently. The *m* was not a stop. It wa
 
 I loved numbers, and the *sandhi* rules looked like arithmetic. *a plus a makes ā. m plus a makes ma.* The same shape. The same deterministic operation. I remember asking my mother, with the literal-mindedness of a child who had just spotted a structural pattern, *so you can do math with Sanskrit?* She laughed and said yes, and went back to whatever she was doing. I never lost the question.
 
-That correction was the first form in which Sanskrit's architecture reached me: not as ideology, not as abstraction, but as **calibration** in the mouth. One misplaced sound changed the meter. One small correction returned the line to order. A mother listening to a child recite had done what Sanskrit's **caretakers** do: hear the drift, correct it, and keep the sound-field aligned.
+That correction was the first form in which Sanskrit's architecture reached me: not as ideology, not as abstraction, but as **calibration** in the mouth. One misplaced sound changed the meter. One small correction returned the line to order. A mother listening to a child recite had done what Sanskrit's **caretakers** do: hear the deviation, correct it, and keep the sound-field aligned.
 
 That childhood question now opens the architectural claim. Sanskrit's free word order, *sandhi* rules, engineered meter, and formal grammar are part of the same calibrated order. The chapters that follow trace that order across scale: वर्ण (*varṇa*), अक्षर (*akṣara*), धातुः (*dhātuḥ*), शब्द (*śabda*), वाक्य (*vākya*), सूत्र (*sūtra*), and language.
 

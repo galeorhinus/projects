@@ -24,11 +24,11 @@ Sanskrit can serve as a calibrant only while its architecture remains stable. If
 
 Sanskrit's own vocabulary has a name for the danger: **अपभ्रंशः (*apabhraṃśa*)** — falling away, slippage, the unmaking of an engineered form into fallen-away variants. Patañjali lists the case (Chapter 6 §6.2): **गौः (*gauḥ*)** (the engineered Sanskrit word for *cow*) against the four *apabhraṃśas* the **महाभाष्य (*Mahābhāṣya*)** documents — **गावी (*gāvī*)**, **गोणी (*goṇī*)**, **गोता (*gotā*)**, **गोपोतलिका (*gopotalikā*)**. The source is one. The fallings-away are many. *Apabhraṃśa* is the default trajectory of any linguistic form left to uncalibrated speech.
 
-Left alone, language drifts, or *falls away.*
+Without a calibrant, a natural language drifts. Within a calibrated architecture, an uttered form can fall away as deviation.
 
 What Sanskrit has to preserve is concrete: sound, meaning, grammar, meter, recitation, and usage, all of it under the ordinary pressure of human speech. The Vedas present the full scale of that preservation problem. They encode cosmological inquiry, metaphysical vision, ethical order, mathematical proportion, astronomical observation, healing knowledge, and the rules of precise, performative action. Embedded within that breadth is the linguistic architecture this volume isolates: the sound-body, the metrical body, the grammatical body, and the recitational body.
 
-The Vedas function as sacred corpus and primary calibration matrix at once. If that matrix drifts, the calibrant drifts with it.
+The Vedas function as sacred corpus and primary calibration matrix at once. If their transmitted form deviates, the calibrant itself becomes unreliable.
 
 Because Speech, as the epigraph describes, may be visible and audible yet not truly seen or heard, the Veda requires much more than passive storage. It requires a dynamic preservation system capable of producing the precisely trained listener to whom Speech can reveal herself.
 
@@ -40,17 +40,17 @@ The civilization that engineered Sanskrit organized its world through a function
 
 **प्राकृत (*prākṛta*)** represents the natural and the changing. Because it is whatever arises through ordinary social processes—everyday speech, stories, customs, local usages, technologies, and memories that adapt as they pass through tellers and listeners—*Prākṛta* is allowed to flow.
 
-**संस्कृत (*saṃskṛta*)** is the wholy-synthesized/engineered: it is what has been worked, refined, and deliberately protected against drift. *Saṃskṛta* serves as the name of the language itself because the language structurally belongs to this category. Consequently, the *Vedas*, the phonetic specification, the formal grammar, the *dhātu* inventory, and the metrical system are not left to ordinary flow; rather, they are preserved.
+**संस्कृत (*saṃskṛta*)** is the wholly-synthesized/engineered: it is what has been worked, refined, and deliberately protected against the accumulation of deviations into drift. *Saṃskṛta* serves as the name of the language itself because the language structurally belongs to this category. Consequently, the *Vedas*, the phonetic specification, the formal grammar, the *dhātu* inventory, and the metrical system are not left to ordinary flow; rather, they are preserved.
 
 **सनातन (*sanātan*)** denotes the perpetual ground that does not move. *Saṃskṛta* forms are built to remain on that ground, while *Prākṛta* forms serve purposes that allow them to change. The classification assigns each form a function rather than a rank.
 
-The Sanskrit grammatical literature calls the two modes directly: **प्राकृतिक (*prākṛtika*)** for the flowing category, **सांस्कृतिक (*sāṃskṛtika*)** for the protected-against-drift category. The categories are functional, not hierarchical.
+The Sanskrit grammatical literature calls the two modes directly: **प्राकृतिक (*prākṛtika*)** for the flowing category, **सांस्कृतिक (*sāṃskṛtika*)** for the category that corrects deviations before they accumulate into drift. The categories are functional, not hierarchical.
 
 A local story is *prākṛtika* by purpose, meeting the listener where the listener lives, where change acts as renewal. A Vedic phonetic form is *sāṃskṛtika* by purpose, demanding identical transmission across generations, where change is degradation.
 
-The *sāṃskṛtika* bucket therefore requires a technology capable of preserving it without drift:
+The *sāṃskṛtika* bucket therefore requires a technology capable of detecting and correcting deviation before it changes the preserved form:
 
-> What technology preserves the *sāṃskṛtika* bucket without drift?
+> What technology detects and corrects deviation before it changes the *sāṃskṛtika* form?
 
 Writing did not meet that test.
 
@@ -166,7 +166,7 @@ Sanskrit has its own names for both paths. **श्रवण (*śravaṇa*)** �
 
 These two learning-paths also sort out Pāṇini's role: while it remains unknown whether a Pāṇini-style work existed when Sanskrit's architecture was first laid down, the *Aṣṭādhyāyī* itself cites pre-Pāṇinian *vaiyākaraṇāḥ*—Śākalya, Gārgya, Āpiśali, Kāśyapa, Sphoṭāyana, and others—whose works did not survive transmission. Although there may or may not have been earlier sūtra-level documentation that was lost, no such claim is necessary.
 
-What survived on the rule-extraction side is one matter. What survived on the saturation side is observable. The Vedic corpus survived, together with its recitation lineages, and the Vedas function as a calibrant matrix: a preserved body of language that protects form against drift across thousands of years. Where a form is in doubt, the Veda settles it. Where pronunciation is in doubt, the *Prātiśākhya* settles it. Where transmission risks decay, the eleven *pāṭhas* of recitation restore it.
+What survived on the rule-extraction side is one matter. What survived on the saturation side is observable. The Vedic corpus survived, together with its recitation lineages, and the Vedas function as a calibrant matrix: a preserved body of language that detects and corrects deviation across thousands of years. Where a form is in doubt, the Veda settles it. Where pronunciation is in doubt, the *Prātiśākhya* settles it. Where transmission risks decay, the eleven *pāṭhas* of recitation restore it.
 
 Pāṇini's *Aṣṭādhyāyī* added a second redundancy layer on top of that calibrant matrix. The sūtra-level rule-system made the language's structure explicit, compact, portable, recoverable, and teachable. This second layer is especially powerful for rule-trained minds — the *vyākaraṇa*-type readers for whom the rule clicks before the pattern settles. Where the Veda preserves the form as performed, the *Aṣṭādhyāyī* preserves the form as derivable. Pāṇini did not replace the Veda. He added a path suited to another kind of mind.
 
