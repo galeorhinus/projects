@@ -94,8 +94,8 @@ Every positioning surface must draw from this sequence. Most surfaces will use o
 
 | Location | Words | Current job and content | Overlap or gap | Future action |
 |---|---:|---|---|---|
-| [Public pre-publication thesis summary](../50_projects/public_facing/web/public/thesis-summary.md#L1) | 1,209 | Lists core and supporting theses while withholding some book vocabulary. | This is a deep-reference page, not landing-page copy. It currently has nine “Core Theses” despite its metadata saying eight. It does not use the four-part contribution structure. | Keep as a separate resource. Reconcile its count and architecture only after the opening is settled. Create separate landing copy. |
-| [Private thesis summary](../50_projects/public_facing/web/private/thesis-summary.md#L1) | 1,652 | Mirrors the complete internal thesis inventory. | Useful for serious readers; not suitable as a hook. | Keep as deep private reference. Later synchronize the four-part contribution language. |
+| [Public pre-publication thesis summary](../../web/public/thesis-summary.md#L1) | 1,209 | Lists core and supporting theses while withholding some book vocabulary. | This is a deep-reference page, not landing-page copy. It currently has nine “Core Theses” despite its metadata saying eight. It does not use the four-part contribution structure. | Keep as a separate resource. Reconcile its count and architecture only after the opening is settled. Create separate landing copy. |
+| [Private thesis summary](../../web/private/thesis-summary.md#L1) | 1,652 | Mirrors the complete internal thesis inventory. | Useful for serious readers; not suitable as a hook. | Keep as deep private reference. Later synchronize the four-part contribution language. |
 | [What Makes *Atomic Sanskrit* Unique](../40_reference/research/what_makes_atomic_sanskrit_unique.md#L1) | 2,818 | Records the literature landscape and the four-part uniqueness argument. | This is the canonical research source, not public prose. | Use it to draft the endnote essay, proposal, website blocks, and interview versions. |
 | Live `secondshanti.org/as/` description | The user supplied a current hook in conversation, but the source file was not located in this repository inventory. | The live description cannot be safely edited until its source of truth is identified. | Locate the website repository or publishing source before deployment. |
 
@@ -103,8 +103,8 @@ Every positioning surface must draw from this sequence. Most surfaces will use o
 
 | Location | Words | Current job and content | Assessment | Future action |
 |---|---:|---|---|---|
-| [Friends: book introduction](../50_projects/public_facing/outreach/friends_book_introduction_whatsapp.md#L1) | 320 | Explains engineering, Pāṇini, two domains, radiance, and the request to read. | The three explanatory paragraphs are the best existing seed for jacket copy, although they need the Vedas-as-calibrant discovery and Second Shanti purpose. | Preserve the invitation. Revisit only after jacket copy is approved. |
-| [Friends: advance reader](../50_projects/public_facing/outreach/friends_advance_reader_whatsapp.md#L1) | 295 | Gives reading and feedback instructions. | Its purpose is operational rather than promotional. | Keep separate from positioning deployment. Later synchronize only the one-sentence book description. |
+| [Friends: book introduction](../../outreach/messages/friends_book_introduction_whatsapp.md#L1) | 320 | Explains engineering, Pāṇini, two domains, radiance, and the request to read. | The three explanatory paragraphs are the best existing seed for jacket copy, although they need the Vedas-as-calibrant discovery and Second Shanti purpose. | Preserve the invitation. Revisit only after jacket copy is approved. |
+| [Friends: advance reader](../../outreach/messages/friends_advance_reader_whatsapp.md#L1) | 295 | Gives reading and feedback instructions. | Its purpose is operational rather than promotional. | Keep separate from positioning deployment. Later synchronize only the one-sentence book description. |
 | No interview-description file found | No canonical 25-, 75-, or 200-word spoken descriptions. | Public explanations may drift as interviews and conversations accumulate. | Draft all three inside this plan, then create one reusable outreach file after approval. |
 | No proposal-positioning file found | No dedicated proposal overview or comparable-title analysis was located. | The uniqueness research has not yet been converted into agent/publisher language. | Draft after manuscript opening and jacket copy are approved. |
 
@@ -411,7 +411,7 @@ The review asks whether each page performs a distinct job and whether an intelli
 ## Pass 4 — External Deployment
 
 - [x] Create the approved jacket-copy source file.
-- [x] Locate the source for `secondshanti.org/as/` and apply the approved landing copy. No wired live-site source exists in this repository; the approved source now lives at `working/50_projects/public_facing/web/public/as/landing-copy.md` for the site deployment.
+- [x] Locate the source for `secondshanti.org/as/` and apply the approved landing copy. No wired live-site source exists in this repository; the approved source now lives at `web/public/as/landing-copy.md` for the site deployment.
 - [x] Reconcile the public and private thesis summaries with the four-part architecture.
 - [x] Create the reusable interview/outreach description file.
 - [x] Update the two WhatsApp messages only where their one-sentence description has become stale.

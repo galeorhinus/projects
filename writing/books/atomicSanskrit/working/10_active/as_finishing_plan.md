@@ -177,7 +177,7 @@ When a phase or sub-item completes, mark the box and add a one-line note with th
 
 ### D.7 — Pre-launch essay sequence [ ]
 
-- [ ] Per `working/50_projects/public_facing/articles/article_release_table.md`, draft and place the priority essays.
+- [ ] Per `outreach/articles/article_release_table.md`, draft and place the priority essays.
 - [ ] Recommended starter sequence:
   1. **Pāṇini Is a Hero — But Not Because He Codified Sanskrit** (Swarajya; publisher-attention piece)
   2. **The Third Category of Language** (Swarajya or Indian Express; introduces *saṃskṛti* publicly)

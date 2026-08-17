@@ -63,19 +63,22 @@ TEMPLATE_ESSAY = BOOK_DIR / "templates" / "html_essay.html"
 TEMPLATE_LANDING = BOOK_DIR / "templates" / "landing.html"
 TEMPLATE_404 = BOOK_DIR / "templates" / "error_404.html"
 
-# Single source of truth for the landing page's "About the book" copy —
-# same file the author edits for outreach use. render_landing() below
-# converts it to HTML the same way a chapter's markdown becomes a page,
-# so a jacket-copy edit + `python3 build_html.py` + deploy is the whole
-# pipeline, with no separate hardcoded copy to keep in sync. Set to the
-# "question-led" variant as of 2026-08-14 — swap this path to promote a
-# different variant to default; whichever file was previously here
-# should move into JACKET_COPY_VARIANTS below so it stays reachable as a
-# reviewer alternate rather than disappearing.
-JACKET_COPY_SRC = (
-    BOOK_DIR / "working" / "50_projects" / "public_facing" / "outreach"
-    / "atomic_sanskrit_jacket_copy_question_led.md"
-)
+# Single source of truth for the landing page's "About the book" copy.
+# render_landing() below converts it to HTML the same way a chapter's
+# markdown becomes a page, so a jacket-copy edit + `python3
+# build_html.py` + deploy is the whole pipeline, with no separate
+# hardcoded copy to keep in sync. Set to the "question-led" variant as
+# of 2026-08-14 — swap this path to promote a different variant to
+# default; whichever file was previously here should move into
+# JACKET_COPY_VARIANTS below so it stays reachable as a reviewer
+# alternate rather than disappearing.
+#
+# Lives in cover/ (top level, alongside the manuscript sources) rather
+# than under outreach/: jacket copy is text that ships ON the book, not
+# material sent out ABOUT it, and it may later be bundled into the PDF
+# by build_book.py. Moved there 2026-08-17.
+COVER_DIR = BOOK_DIR / "cover"
+JACKET_COPY_SRC = COVER_DIR / "jacket_copy_question_led.md"
 
 # The three alternates to JACKET_COPY_SRC, reviewed 2026-08-12 against the
 # version live on the landing page. Each renders to its own gated page
@@ -87,13 +90,10 @@ JACKET_COPY_SRC = (
 # visitors — the landing page reveals links to authorized sessions only
 # (see the reviewer-links script in templates/landing.html). Add/remove
 # entries here to add/retire a variant.
-_JACKET_OUTREACH_DIR = (
-    BOOK_DIR / "working" / "50_projects" / "public_facing" / "outreach"
-)
 JACKET_COPY_VARIANTS = [
-    {"slug": "statement-led", "src": _JACKET_OUTREACH_DIR / "atomic_sanskrit_jacket_copy.md"},
-    {"slug": "revelations", "src": _JACKET_OUTREACH_DIR / "atomic_sanskrit_jacket_copy_revelations.md"},
-    {"slug": "website-version", "src": _JACKET_OUTREACH_DIR / "atomic_sanskrit_website_copy_questions_answers.md"},
+    {"slug": "statement-led", "src": COVER_DIR / "jacket_copy_statement_led.md"},
+    {"slug": "revelations", "src": COVER_DIR / "jacket_copy_revelations.md"},
+    {"slug": "website-version", "src": COVER_DIR / "website_copy_questions_answers.md"},
 ]
 
 BOOK_CSS_SRC = BOOK_DIR / "templates" / "book.css"
@@ -104,7 +104,7 @@ ESSAYS_CSS_SRC = BOOK_DIR / "templates" / "essays.css"
 # templates. The build copies them to the /as/ URL root so browsers get
 # them at /as/favicon.ico and /as/favicon.svg regardless of which page a
 # visitor lands on.
-FAVICON_SRC_DIR = BOOK_DIR / "working" / "50_projects" / "public_facing" / "web" / "public" / "as"
+FAVICON_SRC_DIR = BOOK_DIR / "web" / "public" / "as"
 FAVICON_FILES = ("favicon.ico", "favicon.svg", "ic-calibration-favicon.svg")
 
 # Figures repository. After the 2026-06-07 reorg, figures live in chapter-
@@ -116,8 +116,8 @@ FAVICON_FILES = ("favicon.ico", "favicon.svg", "ic-calibration-favicon.svg")
 FIGURES_SRC = BOOK_DIR / "figures"
 FIGURE_EXTS = {".svg", ".png", ".jpg", ".jpeg", ".gif", ".pdf"}
 
-ESSAYS_PUBLIC_SRC = BOOK_DIR / "working" / "50_projects" / "public_facing" / "web" / "public"
-ESSAYS_PRIVATE_SRC = BOOK_DIR / "working" / "50_projects" / "public_facing" / "web" / "private"
+ESSAYS_PUBLIC_SRC = BOOK_DIR / "web" / "public"
+ESSAYS_PRIVATE_SRC = BOOK_DIR / "web" / "private"
 
 URL_BASE = "/as/book"   # the book is mounted at https://secondshanti.org/as/book/
 

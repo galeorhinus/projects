@@ -7,7 +7,7 @@
 ## What exists
 
 Commit `12a941b` added the Atomic Sanskrit favicon assets to the manuscript
-repo under `working/50_projects/public_facing/web/public/as/`. The mark is the
+repo under `web/public/as/`. The mark is the
 lotus-in-hex on the book's warm cream palette.
 
 **Deploy these seven files** (into the served webroot, same `/as/` path
