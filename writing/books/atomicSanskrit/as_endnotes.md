@@ -2593,7 +2593,7 @@ The *Aṣṭāvakra* episode is told in the *Vana Parva* (Book of the Forest) of
 
 The narrative summary: Aṣṭāvakra — whose name means *eight-bent*, referring to his eight physical deformities — was the son of the sage Kahoḍa, who had been defeated in a philosophical debate at Janaka's court by Bandin and, per Bandin's standing condition, drowned in the river as the loser. Aṣṭāvakra, learning of his father's fate while still a child, set out for Janaka's court to challenge Bandin.
 
-At the court door, the gatekeeper refused to admit Aṣṭāvakra on grounds of his youth and his physical deformity — the boy could not possibly possess the philosophical authority required to challenge the court's standing philosopher. Aṣṭāvakra's response (the hinge moment for Chapter 4's deployment) is to expose the gatekeeper's reasoning as failure-of-judgment: *the assembly that judges by external attributes — age, appearance, lineage, credential — is the council of fools*. The visible trappings of authority do not make a person wise; substantive capacity does.
+At the court door, the gatekeeper refused to admit Aṣṭāvakra on grounds of his youth and his physical deformity — the boy could not possibly possess the philosophical authority required to challenge the court's standing philosopher. Chapter 4 uses Aṣṭāvakra's response to expose the gatekeeper's failure of judgment: *the assembly that judges by external attributes — age, appearance, lineage, credential — is the council of fools*. The visible trappings of authority do not make a person wise; substantive capacity does.
 
 Aṣṭāvakra eventually gains admission to the court, defeats Bandin in extended philosophical debate, and recovers his father (Kahoḍa, who had not in fact been drowned but had been detained by the *nāgas* in the underworld, returns to the surface after Bandin's defeat).
 
@@ -6133,7 +6133,7 @@ Standard citation: Ṛgveda 1.164.39 (also quoted at Śvetāśvatara Upaniṣad 
 
 ### `nirukta-namany-akhyatajani`
 
-**Short:** **नामान्याख्यातजानि** (*nāmāny ākhyātajāni*) supplies the internal hinge for the assembly argument: nominal words arise from verbs. The line is associated with Śākaṭāyana and the Nairukta position preserved in *Nirukta* 1.12.
+**Short:** **नामान्याख्यातजानि** (*nāmāny ākhyātajāni*) supports the assembly argument from within Sanskrit: nominal words arise from verbs. The line is associated with Śākaṭāyana and the Nairukta position preserved in *Nirukta* 1.12.
 
 **Deployments:** Chapter 12 §12.1.
 
