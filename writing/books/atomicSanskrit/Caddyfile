@@ -265,6 +265,24 @@ http://:18080 {
 		}
 	}
 
+	# Bare /as/private/dashboard (no trailing slash) does NOT match the
+	# `/as/private/dashboard/*` handle below -- Caddy's `*` only matches
+	# what comes AFTER a literal trailing slash in the pattern, so a
+	# no-slash request falls through to the generic /as/private/* file
+	# handler further down, which serves the OWNER'S static file
+	# directly and silently drops any query string in the process.
+	# Caught live 2026-08-19: the owner's own `?as=<slug>` preview link,
+	# typed without the trailing slash, silently served the owner's own
+	# dashboard instead of the preview, with no error or hint that the
+	# query string had been dropped. `{query}` re-attaches it explicitly
+	# -- confirmed live that Caddy's `redir` does NOT preserve the query
+	# string automatically (tested against the existing `redir /as /as/
+	# 308` above: `/as?as=rupa` redirects to plain `/as/`, query gone).
+	# Exact-path match, not a prefix -- same idiom as that redir -- so
+	# this only fires for the bare path, never for anything already
+	# under /as/private/dashboard/.
+	redir /as/private/dashboard /as/private/dashboard/?{query} 308
+
 	# Owner-only, inside the shared /as/private/* OAuth gate. Must come
 	# before the generic /as/private/* handler below (Caddy's `handle`
 	# takes the first matching block, so the more specific path wins
