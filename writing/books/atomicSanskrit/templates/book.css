@@ -38,12 +38,26 @@ a{color:var(--gold-d)}a:hover{color:var(--deep)}
 .sitebar .in{max-width:var(--shell);margin:0 auto;padding:11px 38px 11px 30px;display:flex;align-items:center;gap:11px}
 .sitebar a.home{display:flex;align-items:center;gap:11px;text-decoration:none;color:inherit}
 .sitebar svg{flex:none;display:block}
+/* All three sitebar icons (sun logo, Hypothesis, TOC) are ONE fixed
+   size, unconditionally, at every viewport width -- not per-breakpoint,
+   not em-relative. Caught live 2026-08-19: sizing them via 1em (font-
+   relative) meant the Dashboard/TOC icons quietly changed size at every
+   breakpoint change and differed between this file's font-size and
+   essays.css/html_index.html's own (which also each use a different
+   value), while the logo's HTML width/height attributes (26px here, 30px
+   elsewhere) never moved at all -- three icons landing at three
+   different, viewport-dependent sizes, worse between templates than
+   within one. A single unconditional rule removes every axis of drift
+   at once: same 24px, same file, same page, same size everywhere. Keep
+   this ABOVE the mobile block below, which still legitimately varies
+   spacing (gap, margin-right for rail clearance) -- just not size. */
+.sitebar a.home svg{width:24px;height:24px}
+.sitebar .nav a.dashboard-link svg,.sitebar .nav a.toc-link svg{height:24px;width:auto}
 .sitebar .wm{font-size:18px;font-weight:700;letter-spacing:-.008em}
 .sitebar .nav{margin-left:auto;display:flex;gap:20px;font-size:15.5px}
 .sitebar .nav a{text-decoration:none;font-weight:700}
 .sitebar .nav a:hover{text-decoration:underline}
 .sitebar .nav a.dashboard-link,.sitebar .nav a.toc-link{display:inline-flex;align-items:center;gap:5px}
-.sitebar .nav a.dashboard-link svg,.sitebar .nav a.toc-link svg{height:1em;width:auto}
 
 /* ---- sitebar: chapter "Contents" dropdown — spliced in by build_html.py
    (_build_sitebar_toc_html) in place of the <!--CHAPTER-TOC-SLOT-->
@@ -189,17 +203,9 @@ article pre code{background:none;border:0;padding:0;font-size:15px;line-height:1
      found live 2026-08-19: two small icons sitting right at the same
      38px line the rail itself was tuned against read as cramped, closer
      to touching than the body-text clearance one row down. Gap between
-     the two icons widened too, and the icons themselves enlarged (24px,
-     up from the ~14.5px an unstyled 1em gave them at this breakpoint's
-     font-size) — comfortably bigger tap targets, not just more legible. */
+     the two icons widened too. Icon SIZE itself is set once, above,
+     unconditionally -- nothing to override here anymore. */
   .sitebar .nav{gap:20px;font-size:14.5px;margin-right:10px}
-  .sitebar .nav a.dashboard-link svg,.sitebar .nav a.toc-link svg{height:24px}
-  /* Sun logo matches the Dashboard/TOC icon size at this breakpoint --
-     with the wordmark hidden, all three are now standalone icons in the
-     same row, and the logo's own HTML width/height attributes (26px)
-     don't respond to any breakpoint on their own; only a CSS override
-     here can resize it. */
-  .sitebar a.home svg{width:24px;height:24px}
   /* Icon-only on mobile — with the wordmark already hidden at this width
      (see .sitebar .wm above) and 38px reserved on the right for the
      Hypothesis rail, "Dashboard" and "TOC" text is exactly what got

@@ -40,15 +40,23 @@ a{color:var(--gold-d)}a:hover{color:var(--deep)}
 
 /* ---- site bar (from the template chrome) ---- */
 .sitebar{border-bottom:1px solid var(--line);background:var(--panel)}
-.sitebar .in{max-width:1080px;margin:0 auto;padding:13px 30px;display:flex;align-items:center;gap:12px}
+/* Vertical padding 11px, not 13px -- matched to templates/book.css and
+   essays.css's own sitebar so the bar renders the same height on every
+   page type, not just the same icon sizes (below). This page carries
+   no Hypothesis embed, so no rail-clearance right-padding is needed
+   here the way book.css/essays.css need it -- 30px stays symmetric. */
+.sitebar .in{max-width:1080px;margin:0 auto;padding:11px 30px;display:flex;align-items:center;gap:12px}
 .sitebar a.home{display:flex;align-items:center;gap:12px;text-decoration:none;color:inherit}
 .sitebar svg{flex:none;display:block}
+/* Same fixed, unconditional 24px as templates/book.css and essays.css --
+   see book.css's matching rule for the full reasoning. */
+.sitebar a.home svg{width:24px;height:24px}
+.sitebar .nav a.dashboard-link svg,.sitebar .nav a.toc-link svg{height:24px;width:auto}
 .sitebar .wm{font-size:16px;font-weight:700;letter-spacing:-.008em}
 .sitebar .nav{margin-left:auto;display:flex;gap:20px;font-size:14px}
 .sitebar .nav a{text-decoration:none;font-weight:700}
 .sitebar .nav a:hover{text-decoration:underline}
 .sitebar .nav a.dashboard-link,.sitebar .nav a.toc-link{display:inline-flex;align-items:center;gap:5px}
-.sitebar .nav a.dashboard-link svg,.sitebar .nav a.toc-link svg{height:1em;width:auto}
 
 /* ---- page shell ---- */
 .contents-page{max-width:1080px;margin:0 auto;padding:0 30px 66px}
@@ -123,21 +131,15 @@ a{color:var(--gold-d)}a:hover{color:var(--deep)}
   .contents-page{padding:0 22px 54px}
   .title-block{padding-left:0;padding-top:40px;column-gap:15px}
   .title-block::before{width:46px;height:44px}
-  .sitebar .in{padding:11px 22px}
-  /* This page never loads the Hypothesis embed (no js-hypothesis-config
-     here, unlike html_chapter.html/html_essay.html), so no rail-
-     clearance margin is needed -- but the icon size/gap enlargement
-     that book.css and essays.css both carry at their own mobile
-     breakpoints was missing here, an omission caught live 2026-08-19:
-     this page's Dashboard/TOC icons stayed at the small, un-enlarged
-     size while every other gated page's had already grown. Matched to
-     the same 24px/20px-gap values for consistency across the site. */
+  /* 10px vertical, matching templates/book.css and essays.css's own
+     mobile value exactly, closing the last bit of the bar-height
+     mismatch reported live 2026-08-19. This page never loads the
+     Hypothesis embed, so no rail-clearance margin is needed here the
+     way book.css/essays.css need it -- 22px stays symmetric. Icon SIZE
+     is set once, unconditionally, above -- nothing to override here;
+     only the gap (spacing choice, legitimately width-dependent) stays. */
+  .sitebar .in{padding:10px 22px}
   .sitebar .nav{gap:20px}
-  .sitebar .nav a.dashboard-link svg,.sitebar .nav a.toc-link svg{height:24px}
-  /* Sun logo matches the Dashboard/TOC icon size -- same reasoning as
-     templates/book.css's matching rule; the logo's HTML width/height
-     (30px here) don't respond to a breakpoint on their own. */
-  .sitebar a.home svg{width:24px;height:24px}
   /* Icon-only on mobile — same reasoning as templates/book.css's matching
      rule. title/aria-label on each link carry the name once the text is
      gone. */
