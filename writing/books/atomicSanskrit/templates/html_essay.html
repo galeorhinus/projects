@@ -12,11 +12,13 @@
   <link rel="stylesheet" href="/as/essays/style.css?v=$git_sha$">
 $if(hypothesis)$
   <!-- Hypothesis annotation client — opt-in via --metadata=hypothesis=true,
-       so only pages that ask for it (the jacket-copy review pages) load
-       it. Same restricted-groups pattern as templates/html_chapter.html. -->
+       so only pages that ask for it (private essays, jacket-copy review
+       pages) load it. Same build-time-generated allowlist as
+       templates/html_chapter.html — see build_html.py's
+       apply_groups_allowlist. -->
   <script type="application/json" class="js-hypothesis-config">
   {
-    "groupsAllowlist": ["o8ALmjDo", "jaDkzx2r", "224Jr1Q6", "vgW3G82M", "7JvwRLgd", "QpG9pDKd"]
+    "groupsAllowlist": <!--GROUPS-ALLOWLIST-->
   }
   </script>
   <script src="https://hypothes.is/embed.js" async></script>

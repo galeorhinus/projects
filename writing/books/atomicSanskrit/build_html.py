@@ -34,6 +34,7 @@ Run with:  python3 build_html.py
 """
 
 import datetime
+import json
 import re
 import shutil
 import subprocess
@@ -921,6 +922,68 @@ def render_jacket_copy_variant(variant: dict, build_meta: dict[str, str]) -> Non
     print(f"  rendered  /jacket-copy/{slug}/  (unlisted review page)")
 
 
+def hypothesis_groups_allowlist_json() -> str:
+    """JSON-array string of every Hypothesis group id referenced anywhere
+    in the invite roster, for the <!--GROUPS-ALLOWLIST--> placeholder in
+    templates/html_chapter.html, html_essay.html, and landing.html.
+
+    Generated at build time from server/invite_roster.json -- the same
+    git-authoritative file server/request_access.py and
+    hypothesis/build_dashboard.py already treat as the source of truth --
+    rather than hand-maintained separately in three template files. Found
+    live 2026-08-19: that hand-maintained list had drifted to 6 of the 12
+    actually-live reading groups, silently leaving readers in the other
+    six unable to select their own group in the Hypothesis sidebar's
+    annotation picker on the book pages themselves. Regenerating this on
+    every build makes that specific drift structurally impossible instead
+    of relying on remembering to update three files whenever a group is
+    added.
+
+    Parsing here is deliberately independent of hypothesis/build_dashboard.
+    py's roster_groups() (which itself duplicates server/request_access.
+    py's copy for a different reason -- see that function's docstring):
+    this is a THIRD context, a plain build script always run from a full
+    repo checkout, so it could import either one, but doing its own tiny
+    parse keeps this file's only roster dependency a single well-isolated
+    function rather than a cross-module import three call sites deep."""
+    roster_path = BOOK_DIR / "server" / "invite_roster.json"
+    if not roster_path.exists():
+        return "[]"
+    roster = json.loads(roster_path.read_text(encoding="utf-8"))
+    ids: set[str] = set()
+    for record in roster.values():
+        groups = record.get("groups")
+        if groups is None:  # pre-array roster entry -- see roster_groups()
+            url = record.get("hypothesis_group_url")
+            groups = [{"url": url}] if url else []
+        for g in groups:
+            m = re.search(r"/groups/([^/?#]+)", (g.get("url") or ""))
+            if m:
+                ids.add(m.group(1))
+    return json.dumps(sorted(ids))
+
+
+def apply_groups_allowlist(out_dir: Path) -> None:
+    """Sweep every rendered .html file under out_dir once, replacing the
+    <!--GROUPS-ALLOWLIST--> placeholder with the current roster's group
+    ids. Run once at the end of main() rather than threaded through every
+    individual render_*() call site (render_chapter, render_essay,
+    render_essay_shelf, render_jacket_copy_variant, render_landing all
+    emit it) -- fewer places to accidentally miss, and the placeholder
+    itself makes an unresolved instance easy to catch (grep -rl
+    '<!--GROUPS-ALLOWLIST-->' build/html/ should find nothing after this
+    runs)."""
+    allowlist_json = hypothesis_groups_allowlist_json()
+    n = 0
+    for path in out_dir.rglob("*.html"):
+        text = path.read_text(encoding="utf-8")
+        if "<!--GROUPS-ALLOWLIST-->" not in text:
+            continue
+        path.write_text(text.replace("<!--GROUPS-ALLOWLIST-->", allowlist_json), encoding="utf-8")
+        n += 1
+    print(f"  applied groupsAllowlist ({allowlist_json}) to {n} page(s)")
+
+
 def render_404() -> None:
     """Copy the static templates/error_404.html to build/html/404.html.
     No substitution needed — it carries no per-build or per-page data.
@@ -1022,6 +1085,9 @@ def main() -> int:
 
     render_404()
     copy_static()
+
+    print()
+    apply_groups_allowlist(HTML_OUT)
 
     print()
     print(f"Done → {HTML_OUT.relative_to(BOOK_DIR)}")

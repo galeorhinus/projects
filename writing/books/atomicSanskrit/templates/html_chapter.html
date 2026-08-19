@@ -12,12 +12,14 @@
   <link rel="stylesheet" href="$site_base$/css/book.css?v=$git_sha$">
 
   <!-- Hypothesis annotation client — restricted to private review groups.
-       Add each new group's ID to groupsAllowlist below (find the ID in the
-       group's hypothes.is URL: hypothes.is/groups/<ID>/<slug>). "Public" is
-       never listed here, so it never appears in reviewers' group picker. -->
+       The list below is generated at build time from server/invite_
+       roster.json (build_html.py's apply_groups_allowlist), not hand-
+       maintained here — add a reader's group to the roster and it shows
+       up here on the next build. "Public" is never in the roster, so it
+       never appears in reviewers' group picker. -->
   <script type="application/json" class="js-hypothesis-config">
   {
-    "groupsAllowlist": ["o8ALmjDo", "jaDkzx2r", "224Jr1Q6", "vgW3G82M", "7JvwRLgd", "QpG9pDKd"]
+    "groupsAllowlist": <!--GROUPS-ALLOWLIST-->
   }
   </script>
   <script src="https://hypothes.is/embed.js" async></script>

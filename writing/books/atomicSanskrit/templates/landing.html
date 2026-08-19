@@ -208,11 +208,15 @@ fetch('/oauth2/auth', {credentials: 'same-origin'}).then(function (r) {
   var links = document.getElementById('reviewer-links');
   if (links) links.hidden = false;
 
+  // groupsAllowlist below is generated at build time from server/
+  // invite_roster.json (build_html.py's apply_groups_allowlist) — same
+  // mechanism and same source of truth as templates/html_chapter.html
+  // and html_essay.html, not a fourth hand-maintained copy.
   var cfg = document.createElement('script');
   cfg.type = 'application/json';
   cfg.className = 'js-hypothesis-config';
   cfg.textContent = JSON.stringify({
-    groupsAllowlist: ["o8ALmjDo", "jaDkzx2r", "224Jr1Q6", "vgW3G82M", "7JvwRLgd", "QpG9pDKd"]
+    groupsAllowlist: <!--GROUPS-ALLOWLIST-->
   });
   document.head.appendChild(cfg);
 
