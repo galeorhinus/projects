@@ -31,7 +31,8 @@ before touching either file.
 
 - **`invite_roster.json`** — admin-authored, git-tracked (this repo, this
   file: `server/invite_roster.json`). Who you invited, under what slug,
-  with what known email (if any) and what Hypothesis group. Deployed to
+  with what known email (if any) and which Hypothesis group(s) — `groups`
+  is an array, so a reader can be in more than one. Deployed to
   `/etc/secondshanti/invite_roster.json`, **read-only** to the running
   service (installed by `deploy.sh`, owned by `www-data`, mode 640 —
   the service's systemd unit does not grant it write access via
@@ -160,6 +161,32 @@ python3 add_invite.py rm "R. Kumar" https://hypothes.is/groups/DeF456y/reading-g
 ```
 
 This prints the invite link to send them: `secondshanti.org/as/invite/rm`.
+
+### Readers in more than one group
+
+A roster entry's `groups` is an array, so a reader can belong to several
+reading groups; their dashboard shows the union, and their invite page
+gets one join button per group. Add a second group with `--add-group`:
+
+```
+python3 add_invite.py rm "R. Kumar" https://hypothes.is/groups/GhI789z/another-group --add-group
+```
+
+Without `--add-group` the array is **replaced** by the single group given.
+
+**Prefer adding over moving.** A Hypothesis annotation's group is fixed
+when it is created and cannot be changed afterwards — the API silently
+drops `group` on `PATCH` and returns `200`, so a "move" looks like it
+worked and does nothing. Replacing a reader's group therefore strands
+every note they have already written: it stays in the old group, and
+their dashboard — now scoped to the new one — shows none of their own
+history. Adding a group keeps the old notes and gains the new ones.
+
+Entries are matched to annotations by the **group id** parsed out of the
+URL, not by `name`. Group ids are immutable; names are not (group
+`QpG9pDKd` was renamed `as-pr` → `as-pr-sr` on 2026-08-19). `name` is for
+display, and is the fallback only when a URL carries no parseable id.
+
 Then:
 
 ```

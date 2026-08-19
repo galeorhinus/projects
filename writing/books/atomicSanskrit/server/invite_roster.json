@@ -1,80 +1,206 @@
 {
   "aa": {
     "name": "Aravind Ajjampur",
-    "hypothesis_group_url": "https://hypothes.is/groups/o8ALmjDo/as-aa",
-    "hypothesis_group_name": "as-aa",
+    "groups": [
+      {
+        "url": "https://hypothes.is/groups/o8ALmjDo/as-aa",
+        "name": "as-aa"
+      }
+    ],
     "email": "aravind.ajjampur@gmail.com"
   },
   "ak": {
     "name": "Arvind Kumar",
-    "hypothesis_group_url": "https://hypothes.is/groups/kQKj3RGb/as-ak",
-    "hypothesis_group_name": "as-ak",
+    "groups": [
+      {
+        "url": "https://hypothes.is/groups/kQKj3RGb/as-ak",
+        "name": "as-ak"
+      }
+    ],
     "email": "arvind.kumar@gmail.com"
   },
   "pk": {
     "name": "Puneet Kapur",
-    "hypothesis_group_url": "https://hypothes.is/groups/wgRJNbea/as-pk",
-    "hypothesis_group_name": "as-pk-ak",
+    "groups": [
+      {
+        "url": "https://hypothes.is/groups/wgRJNbea/as-pk",
+        "name": "as-pk-ak"
+      }
+    ],
     "email": "pkposh@gmail.com"
   },
   "arti": {
     "name": "Arti Kapur",
-    "hypothesis_group_url": "https://hypothes.is/groups/wgRJNbea/as-pk",
-    "hypothesis_group_name": "as-pk-ak",
+    "groups": [
+      {
+        "url": "https://hypothes.is/groups/wgRJNbea/as-pk",
+        "name": "as-pk-ak"
+      }
+    ],
     "email": "pleasantontaxpayer@gmail.com"
   },
   "cp": {
     "name": "CP",
-    "hypothesis_group_url": "https://hypothes.is/groups/224Jr1Q6/as-bs-cp",
-    "hypothesis_group_name": "as-bs-cp",
+    "groups": [
+      {
+        "url": "https://hypothes.is/groups/224Jr1Q6/as-bs-cp",
+        "name": "as-bs-cp"
+      }
+    ],
     "email": "chandraprakash2508@gmail.com"
   },
   "bs": {
     "name": "Bharat Sharma",
-    "hypothesis_group_url": "https://hypothes.is/groups/224Jr1Q6/as-bs-cp",
-    "hypothesis_group_name": "as-bs-cp",
+    "groups": [
+      {
+        "url": "https://hypothes.is/groups/224Jr1Q6/as-bs-cp",
+        "name": "as-bs-cp"
+      }
+    ],
     "email": "technical.foams@gmail.com"
   },
   "jd": {
     "name": "Juliette Doutreleau",
-    "hypothesis_group_url": "https://hypothes.is/groups/7JvwRLgd/as-jd",
-    "hypothesis_group_name": "as-jd",
+    "groups": [
+      {
+        "url": "https://hypothes.is/groups/7JvwRLgd/as-jd",
+        "name": "as-jd"
+      }
+    ],
     "email": "juliette.doutreleau@gmail.com"
   },
   "jk": {
     "name": "JK Nair",
-    "hypothesis_group_url": "https://hypothes.is/groups/vgW3G82M/as-jk-ap",
-    "hypothesis_group_name": "as-jk-ap",
-    "email": "jayakrishnan.b.nair@gmail.com"
+    "groups": [
+      {
+        "url": "https://hypothes.is/groups/vgW3G82M/as-jk-ap",
+        "name": "as-jk-ap"
+      }
+    ],
+    "email": "jayakrishnan.b.nair@gmail.com",
+    "hypothesis_username": "nair.jk"
   },
   "ap": {
     "name": "Akshar Prabhudesai",
-    "hypothesis_group_url": "https://hypothes.is/groups/vgW3G82M/as-jk-ap",
-    "hypothesis_group_name": "as-jk-ap",
+    "groups": [
+      {
+        "url": "https://hypothes.is/groups/vgW3G82M/as-jk-ap",
+        "name": "as-jk-ap"
+      }
+    ],
     "email": "akshar.prabhudesai@gmail.com"
   },
   "prao": {
     "name": "Prashant Rao",
-    "hypothesis_group_url": "https://hypothes.is/groups/QpG9pDKd/as-pr-sr",
-    "hypothesis_group_name": "as-pr-sr",
+    "groups": [
+      {
+        "url": "https://hypothes.is/groups/QpG9pDKd/as-pr-sr",
+        "name": "as-pr-sr"
+      }
+    ],
     "email": "prao100@gmail.com"
   },
   "srao": {
     "name": "Shashi Rao",
-    "hypothesis_group_url": "https://hypothes.is/groups/QpG9pDKd/as-pr-sr",
-    "hypothesis_group_name": "as-pr-sr",
+    "groups": [
+      {
+        "url": "https://hypothes.is/groups/QpG9pDKd/as-pr-sr",
+        "name": "as-pr-sr"
+      }
+    ],
     "email": "shashikala.p.rao@gmail.com"
   },
   "pgoyal": {
     "name": "Pankaj Goyal",
-    "hypothesis_group_url": "https://hypothes.is/groups/NJmXLWkW/as-pg",
-    "hypothesis_group_name": "as-pg",
+    "groups": [
+      {
+        "url": "https://hypothes.is/groups/NJmXLWkW/as-pg",
+        "name": "as-pg"
+      }
+    ],
     "email": "pgoyal@gmail.com"
   },
   "aarora": {
     "name": "Amitabh Arora",
-    "hypothesis_group_url": "https://hypothes.is/groups/qyPPBNre/as-aarora",
-    "hypothesis_group_name": "as-aarora",
+    "groups": [
+      {
+        "url": "https://hypothes.is/groups/qyPPBNre/as-aarora",
+        "name": "as-aarora"
+      }
+    ],
     "email": "amitabh.arora@gmail.com"
+  },
+  "rupa": {
+    "name": "Rupa Tope Joshi",
+    "groups": [
+      {
+        "url": "https://hypothes.is/groups/jaDkzx2r/atomic-sanskrit",
+        "name": "atomic sanskrit"
+      }
+    ],
+    "email": "rupatopejoshi@gmail.com",
+    "hypothesis_username": "RupaTope"
+  },
+  "dnj": {
+    "name": "Dhananjay Joshi",
+    "groups": [
+      {
+        "url": "https://hypothes.is/groups/jaDkzx2r/atomic-sanskrit",
+        "name": "atomic sanskrit"
+      }
+    ],
+    "email": "dhananjaynjoshi@gmail.com",
+    "hypothesis_username": "dnjojshi"
+  },
+  "rajesh": {
+    "name": "Rajesh Tope",
+    "groups": [
+      {
+        "url": "https://hypothes.is/groups/jaDkzx2r/atomic-sanskrit",
+        "name": "atomic sanskrit"
+      }
+    ],
+    "email": "rajeshtope@gmail.com",
+    "hypothesis_username": "rajesht"
+  },
+  "mg": {
+    "name": "Monisha Tope",
+    "groups": [
+      {
+        "url": "https://hypothes.is/groups/Ap3rRvG1/as-mg",
+        "name": "as-mg"
+      }
+    ],
+    "email": "mgtope@gmail.com"
+  },
+  "eira": {
+    "name": "Eira Tope",
+    "groups": [
+      {
+        "url": "https://hypothes.is/groups/Lpbo4YA7/as-et-st",
+        "name": "as-et-st"
+      }
+    ],
+    "email": "eiratope@gmail.com"
+  },
+  "saoirse": {
+    "name": "Saoirse Tope",
+    "groups": [
+      {
+        "url": "https://hypothes.is/groups/Lpbo4YA7/as-et-st",
+        "name": "as-et-st"
+      }
+    ],
+    "email": "saoirsetope@gmail.com"
+  },
+  "naoise": {
+    "name": "Naoise Tope",
+    "groups": [
+      {
+        "url": "https://hypothes.is/groups/jaDkzx2r/atomic-sanskrit",
+        "name": "atomic sanskrit"
+      }
+    ],
+    "email": "naoisetope@gmail.com"
   }
 }

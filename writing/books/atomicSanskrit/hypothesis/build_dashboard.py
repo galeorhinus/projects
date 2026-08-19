@@ -29,6 +29,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -37,6 +38,69 @@ DATA_PATH = HYPOTHESIS_DIR / "data" / "annotations.json"
 TAXONOMY_PATH = HYPOTHESIS_DIR / "taxonomy.json"
 TODO_QUEUE_PATH = HYPOTHESIS_DIR / "data" / "todo_queue.json"
 OUTPUT_PATH = HYPOTHESIS_DIR / "dashboard.html"
+
+# The roster is git-authoritative in the repo and installed to /etc on amrut.
+# Prefer the deployed copy when present so a reader added on the server is
+# picked up without a redeploy of this script.
+_ETC_ROSTER = Path("/etc/secondshanti/invite_roster.json")
+ROSTER_PATH = _ETC_ROSTER if _ETC_ROSTER.exists() else (
+    HYPOTHESIS_DIR.parent / "server" / "invite_roster.json"
+)
+
+_GROUP_ID_RE = re.compile(r"/groups/([^/?#]+)")
+
+
+def roster_groups(record: dict) -> list[dict]:
+    """Return a roster entry's reading groups as [{"id", "url", "name"}, ...].
+
+    NOTE: duplicated verbatim in server/request_access.py. That service is a
+    stdlib-only single file deployed by hand to /opt/secondshanti/, so an
+    import would add a second file that must land in lockstep or the invite
+    flow fails to start. Change both together.
+
+    A reader may belong to more than one group (2026-08-19), so `groups` is an
+    array. The pre-array scalar fields are still read because the roster is
+    installed to /etc separately from the code that reads it: a code-first
+    deploy against a stale /etc copy must fall back to the single old group
+    rather than to zero. Zero is the dangerous outcome — an empty dashboard
+    reads as "you haven't annotated anything yet", not as a broken lookup.
+
+    Match annotations on `id`, never on `name`. Hypothesis group IDs are
+    immutable; names are not. Group QpG9pDKd was renamed as-pr -> as-pr-sr,
+    which would have silently emptied two readers' dashboards had the filter
+    keyed on the name.
+    """
+    raw = record.get("groups")
+    if raw is None:  # pre-array roster
+        url, name = (record.get("hypothesis_group_url"),
+                     record.get("hypothesis_group_name"))
+        raw = [{"url": url, "name": name}] if (url or name) else []
+    groups = []
+    for g in raw:
+        url = (g.get("url") or "").strip()
+        m = _GROUP_ID_RE.search(url)
+        groups.append({
+            "id": m.group(1) if m else None,
+            "url": url,
+            "name": (g.get("name") or "").strip(),
+        })
+    return groups
+
+
+def join_names(names: list[str]) -> str:
+    """'a' / 'a and b' / 'a, b, and c' — for the reader hero's 'in <group>'."""
+    names = [n for n in names if n]
+    if len(names) <= 1:
+        return names[0] if names else ""
+    if len(names) == 2:
+        return f"{names[0]} and {names[1]}"
+    return ", ".join(names[:-1]) + f", and {names[-1]}"
+
+
+# The owner sees every group and gets the composer, TODO queue, and refresh
+# button. Readers get none of those — see build_reader_pages().
+VIEWER_OWNER = {"mode": "owner", "slug": None, "name": None, "group": None,
+                "groups": None, "self": None}
 
 # Six semantic clusters group the nine taxonomy tags by what kind of
 # review action they call for, not by an arbitrary per-tag color --
@@ -90,6 +154,11 @@ def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--install", type=Path, default=None,
                          help="also write the rendered page to this path (e.g. a webroot)")
+    parser.add_argument("--readers", type=Path, default=None, metavar="DIR",
+                         help="also write one per-reader dashboard into DIR, each scoped "
+                              "to that reader's Hypothesis group. Keep DIR outside the "
+                              "web root; the resolver service serves these by "
+                              "authenticated email.")
     args = parser.parse_args()
 
     if not DATA_PATH.exists():
@@ -188,6 +257,9 @@ def main() -> int:
             "created": a["created"],
             "user": a["user"],
             "group": a["group_name"],
+            # Carried so build_reader_pages() can scope on the immutable id
+            # rather than the renameable name — see roster_groups().
+            "group_id": a["group_id"],
             "chapter": chapter_slug(a["uri"]),
             "title": a["document_title"],
             "uri": a["uri"],
@@ -206,18 +278,7 @@ def main() -> int:
             "todo_note": todo_notes.get(a["id"]),
         })
 
-    data_json = json.dumps(rows, ensure_ascii=False).replace("</", "<\\/")
-    taxonomy_json = json.dumps(taxonomy, ensure_ascii=False)
-    clusters_json = json.dumps(TAG_CLUSTERS, ensure_ascii=False)
-    cluster_labels_json = json.dumps(CLUSTER_LABELS, ensure_ascii=False)
-
-    built_at = datetime.now(timezone.utc).isoformat()
-
-    html = HTML_TEMPLATE.replace("__DATA__", data_json) \
-                         .replace("__TAXONOMY__", taxonomy_json) \
-                         .replace("__CLUSTERS__", clusters_json) \
-                         .replace("__CLUSTER_LABELS__", cluster_labels_json) \
-                         .replace("__BUILT_AT__", built_at)
+    html = render_page(rows, taxonomy, VIEWER_OWNER)
 
     OUTPUT_PATH.write_text(html, encoding="utf-8")
     print(f"Wrote {len(rows)} annotation(s) -> {OUTPUT_PATH}")
@@ -227,7 +288,89 @@ def main() -> int:
         args.install.write_text(html, encoding="utf-8")
         print(f"Installed -> {args.install}")
 
+    if args.readers is not None:
+        build_reader_pages(rows, taxonomy, args.readers)
+
     return 0
+
+
+def render_page(rows: list[dict], taxonomy: dict, viewer: dict) -> str:
+    """Render one dashboard. `rows` must ALREADY be scoped to what this
+    viewer may see — this function does no filtering of its own.
+
+    The page embeds its dataset inline (`const DATA = ...`), so anything
+    reachable here is readable via View Source by whoever loads the page.
+    A reader page built from the full row set would therefore leak every
+    other reader's annotations even if the cards rendered were correct.
+    Filtering happens in build_reader_pages(), before this is called."""
+    return (
+        HTML_TEMPLATE
+        .replace("__DATA__", json.dumps(rows, ensure_ascii=False).replace("</", "<\\/"))
+        .replace("__TAXONOMY__", json.dumps(taxonomy, ensure_ascii=False))
+        .replace("__CLUSTERS__", json.dumps(TAG_CLUSTERS, ensure_ascii=False))
+        .replace("__CLUSTER_LABELS__", json.dumps(CLUSTER_LABELS, ensure_ascii=False))
+        .replace("__VIEWER__", json.dumps(viewer, ensure_ascii=False))
+        .replace("__BUILT_AT__", datetime.now(timezone.utc).isoformat())
+    )
+
+
+def build_reader_pages(rows: list[dict], taxonomy: dict, out_dir: Path) -> None:
+    """Write one dashboard per roster entry, each scoped to that reader's
+    Hypothesis group.
+
+    Output goes OUTSIDE the web root on purpose. These files are served by
+    a resolver that maps the authenticated email to a slug; if they sat
+    under /var/www/as/private/dashboard/ they would be directly fetchable
+    by any whitelisted reader who guessed a filename, which is exactly the
+    property the single-URL design exists to remove."""
+    if not ROSTER_PATH.exists():
+        print(f"No roster at {ROSTER_PATH} — skipping reader dashboards.")
+        return
+
+    roster = json.loads(ROSTER_PATH.read_text())
+    out_dir.mkdir(parents=True, exist_ok=True)
+    written = 0
+    for slug, entry in sorted(roster.items()):
+        groups = roster_groups(entry)
+        if not groups:
+            # No file is written on purpose: the resolver serves the "not in a
+            # reading group yet" page when it finds none, which is the right
+            # outcome for a whitelisted reader who has not been placed yet.
+            print(f"  {slug}: no groups — skipped (resolver shows no-group page)")
+            continue
+        ids = {g["id"] for g in groups if g["id"]}
+        names = {g["name"] for g in groups if g["name"]}
+        # Scope to the group(s), not to the individual: readers paired in a
+        # shared group are meant to see each other's notes (decision
+        # 2026-08-19). Their own are marked in the page, not withheld.
+        # Prefer the id; fall back to the name only for a roster entry whose
+        # URL carried no parseable id, so a malformed URL degrades to the old
+        # behaviour instead of silently matching nothing.
+        scoped = [r for r in rows
+                  if (r.get("group_id") in ids) or (not ids and r["group"] in names)]
+        viewer = {
+            "mode": "reader",
+            "slug": slug,
+            "name": entry.get("name", slug),
+            "group": join_names([g["name"] for g in groups]),
+            "groups": [g["name"] for g in groups],
+            # Which Hypothesis account belongs to this reader is recorded in
+            # invite_status.json at signup, which is 640 www-data because it
+            # holds reader emails — this build runs as ubuntu and cannot read
+            # it, and loosening that for a UI marker is the wrong trade. The
+            # resolver service can read it, so it substitutes this token when
+            # it serves the page. Left as the literal token, "your notes"
+            # marking simply does not activate. A roster-recorded
+            # hypothesis_username short-circuits all of that.
+            "self": entry.get("hypothesis_username") or "__VIEWER_SELF__",
+        }
+        (out_dir / f"{slug}.html").write_text(
+            render_page(scoped, taxonomy, viewer), encoding="utf-8"
+        )
+        written += 1
+        label = ",".join(g["name"] or g["id"] or "?" for g in groups)
+        print(f"  {slug:8s} {label:24s} {len(scoped):4d} annotation(s)")
+    print(f"Reader dashboards: {written} written -> {out_dir}")
 
 
 HTML_TEMPLATE = r"""<!doctype html>
@@ -827,6 +970,29 @@ main {
   text-decoration: none;
 }
 .copy-todo-btn:hover { text-decoration: underline; }
+.you-badge {
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--accent-ink);
+  background: var(--accent);
+  border-radius: 999px;
+  padding: 1px 7px;
+  margin-left: 6px;
+}
+.hero-stat.hero-static { cursor: default; }
+.hero-stat.hero-static:hover { filter: none; }
+.preview-banner {
+  background: var(--c-clarify-bg);
+  color: var(--c-clarify-fg);
+  border: 1px solid var(--c-clarify-fg);
+  border-radius: 8px;
+  padding: 6px 12px;
+  margin-top: 10px;
+  font-size: 0.82rem;
+  font-weight: 600;
+}
 
 .thread { margin: 10px 0 0; }
 .thread > summary {
@@ -916,10 +1082,7 @@ a { color: var(--accent); }
   <p class="subtitle">Consolidated annotations across every Atomic Sanskrit reading group</p>
   <div class="hero-row">
     <div class="stats-hero" id="stats-hero"></div>
-    <div class="hero-actions">
-      <button class="refresh-btn-big" id="refresh-btn">⟳ Refresh now</button>
-      <p class="built-note" id="built-note"></p>
-    </div>
+    <div class="hero-actions" id="hero-actions"></div>
   </div>
   <div class="stats" id="stats"></div>
 </header>
@@ -953,6 +1116,12 @@ const DATA = __DATA__;
 const TAXONOMY = __TAXONOMY__;
 const CLUSTERS = __CLUSTERS__;
 const CLUSTER_LABELS = __CLUSTER_LABELS__;
+const VIEWER = __VIEWER__;
+// The resolver substitutes the reader's Hypothesis username for this token
+// when it serves the page (build_dashboard.py cannot read invite_status.json).
+// Left unsubstituted, own-note marking stays off rather than mis-marking.
+const VIEWER_SELF = (VIEWER.self && VIEWER.self !== "__VIEWER_" + "SELF__") ? VIEWER.self : null;
+const IS_OWNER = VIEWER.mode === "owner";
 const BUILT_AT = "__BUILT_AT__";  // ISO 8601 UTC, set by build_dashboard.py at render time
 
 const state = {
@@ -1180,7 +1349,7 @@ function cardHTML(a) {
   // "awaiting-reader", so a conversation can continue -- and never on a
   // reply annotation itself (this composer replies to READER comments,
   // not to our own replies).
-  const showComposer = !a.reply && a.status !== "resolved" && a.status !== "acknowledged";
+  const showComposer = IS_OWNER && !a.reply && a.status !== "resolved" && a.status !== "acknowledged";
   const resolveControl = showComposer
     ? `<div class="resolve-row" id="resolve-row-${a.id}">
          <textarea class="reply-text" id="reply-text-${a.id}" rows="2" placeholder="Optional note to the reader…"></textarea>
@@ -1200,7 +1369,7 @@ function cardHTML(a) {
   // still want a TODO after already replying to the reader. Not shown
   // on reply rows -- a TODO is about the READER's comment, not our own
   // reply to it.
-  const todoControl = a.reply ? "" : (
+  const todoControl = (!IS_OWNER || a.reply) ? "" : (
     a.todo_note
       ? `<div class="todo-row" id="todo-row-${a.id}">
            <span class="todo-badge">📌 Queued for TODO</span>
@@ -1212,10 +1381,10 @@ function cardHTML(a) {
            <button class="todo-btn" onclick="postTodo('${a.id}', this)">📌 Add to TODO</button>
          </div>`
   );
-  const copyBtn = a.reply ? "" : `<button class="copy-todo-btn" onclick="copyAsTodo('${a.id}', this)" title="Copy as a markdown TODO line">📋 Copy</button>`;
+  const copyBtn = (!IS_OWNER || a.reply) ? "" : `<button class="copy-todo-btn" onclick="copyAsTodo('${a.id}', this)" title="Copy as a markdown TODO line">📋 Copy</button>`;
   return `<article class="card${a.resolved ? " is-resolved" : ""}" id="card-${a.id}">
     <div class="meta">
-      <span class="user">${escapeHTML(a.user)}</span>
+      <span class="user">${escapeHTML(a.user)}</span>${(VIEWER_SELF && a.user === VIEWER_SELF) ? '<span class="you-badge">you</span>' : ""}
       <span class="sep">·</span>
       <a href="${a.uri}" target="_blank" rel="noopener">${escapeHTML(a.chapter)}</a>
       <span class="sep">·</span>
@@ -1424,12 +1593,28 @@ function renderStats() {
   const unresolved = total - resolved - acknowledged;
 
   const heroActive = state.statusFilter === "unresolved" ? " active" : "";
-  document.getElementById("stats-hero").innerHTML = `
-    <button class="hero-stat${heroActive}" onclick="setStatusFilter('unresolved')">
-      <span class="hero-n">${unresolved}</span>
-      <span class="hero-label">Unresolved</span>
-      <span class="hero-total">of ${total} total</span>
-    </button>`;
+  if (IS_OWNER) {
+    document.getElementById("stats-hero").innerHTML = `
+      <button class="hero-stat${heroActive}" onclick="setStatusFilter('unresolved')">
+        <span class="hero-n">${unresolved}</span>
+        <span class="hero-label">Unresolved</span>
+        <span class="hero-total">of ${total} total</span>
+      </button>`;
+  } else {
+    // A reader's question is "did the author answer ME?", so the hero counts
+    // their own answered notes. With group filtering the page also shows a
+    // partner's notes, which is why an undifferentiated count would blur the
+    // one number they came for. Falls back to the group total when the
+    // resolver has not supplied a username.
+    const mine = VIEWER_SELF ? roots.filter(a => a.user === VIEWER_SELF) : roots;
+    const answered = mine.filter(a => a.thread && a.thread.length).length;
+    document.getElementById("stats-hero").innerHTML = `
+      <div class="hero-stat hero-static">
+        <span class="hero-n">${answered}</span>
+        <span class="hero-label">${VIEWER_SELF ? "replies to your notes" : "notes with replies"}</span>
+        <span class="hero-total">${VIEWER_SELF ? `of your ${mine.length}` : `of ${total}`} in ${escapeHTML(VIEWER.group || "this group")}</span>
+      </div>`;
+  }
 
   const statusStats = [
     ["resolved", "Resolved", resolved],
@@ -1500,7 +1685,7 @@ resolvedToggle.addEventListener("click", () => {
 });
 
 const refreshBtn = document.getElementById("refresh-btn");
-refreshBtn.addEventListener("click", async () => {
+if (refreshBtn) refreshBtn.addEventListener("click", async () => {
   refreshBtn.disabled = true;
   refreshBtn.textContent = "⟳ Refreshing…";
   // Bounded client-side timeout, on top of the backend now also being
@@ -1549,9 +1734,31 @@ function formatAgo(ms) {
   return parts.join(" ");
 }
 function tickBuiltNote() {
+  const el = document.getElementById("built-note");
+  if (!el) return;
   const builtMs = new Date(BUILT_AT).getTime();
-  document.getElementById("built-note").textContent = `Built ${formatAgo(Date.now() - builtMs)} ago`;
+  el.textContent = IS_OWNER
+    ? `Built ${formatAgo(Date.now() - builtMs)} ago`
+    : `Updated ${formatAgo(Date.now() - builtMs)} ago`;
 }
+// The owner gets the refresh button and a live ticker. A reader's page is
+// rebuilt on a cycle they do not control, so they get a plain "as of" line
+// instead -- a button that pulled every group would be wrong on their page.
+(function renderHeaderActions() {
+  const el = document.getElementById("hero-actions");
+  if (!el) return;
+  el.innerHTML = IS_OWNER
+    ? '<button class="refresh-btn-big" id="refresh-btn">⟳ Refresh now</button>'
+      + '<p class="built-note" id="built-note"></p>'
+    : '<p class="built-note" id="built-note"></p>';
+})();
+
+if (!IS_OWNER && VIEWER.preview) {
+  const h = document.querySelector("header.top");
+  if (h) h.insertAdjacentHTML("beforeend",
+    `<div class="preview-banner">Previewing as ${escapeHTML(VIEWER.name || VIEWER.slug)} — this is what they see.</div>`);
+}
+
 tickBuiltNote();
 setInterval(tickBuiltNote, 1000);
 

@@ -63,6 +63,40 @@ LOG_PATH = Path("/var/lib/secondshanti/access-requests.log")
 # for the enforcement. Schema: server/invite_roster.example.json.
 ROSTER_PATH = Path("/etc/secondshanti/invite_roster.json")
 
+_GROUP_ID_RE = re.compile(r"/groups/([^/?#]+)")
+
+
+def roster_groups(record: dict) -> list[dict]:
+    """Return a roster entry's reading groups as [{"id", "url", "name"}, ...].
+
+    NOTE: duplicated verbatim in hypothesis/build_dashboard.py. This service is
+    a stdlib-only single file deployed by hand to /opt/secondshanti/, so an
+    import would add a second file that must land in lockstep or the invite
+    flow fails to start. Change both together.
+
+    A reader may belong to more than one group (2026-08-19), so `groups` is an
+    array. The pre-array scalar fields are still read because deploy.sh
+    installs the roster separately from this file: whichever lands first, the
+    other must keep working. Falling back to the single old group is safe;
+    falling back to zero groups is not — an invite page with no join link
+    looks finished rather than broken.
+    """
+    raw = record.get("groups")
+    if raw is None:  # pre-array roster
+        url, name = (record.get("hypothesis_group_url"),
+                     record.get("hypothesis_group_name"))
+        raw = [{"url": url, "name": name}] if (url or name) else []
+    groups = []
+    for g in raw:
+        url = (g.get("url") or "").strip()
+        m = _GROUP_ID_RE.search(url)
+        groups.append({
+            "id": m.group(1) if m else None,
+            "url": url,
+            "name": (g.get("name") or "").strip(),
+        })
+    return groups
+
 # Live status per slug — submitted_email, hypothesis_username,
 # submitted_at, status, used, locked_email, and any flagged repeat
 # attempts. Written only by this service as people use their links.
@@ -279,13 +313,29 @@ label.lbl{display:block;font-size:12px;letter-spacing:.14em;text-transform:upper
 """)
 
 
-def _invite_form_content(group_url: str, group_code: str, email_value: str) -> str:
+def _invite_form_content(groups: list[dict], email_value: str) -> str:
+    # One button per group. A reader placed in two groups must be told to join
+    # both — showing only the first would leave half their reading invisible
+    # to them with nothing on the page to indicate anything was missing.
+    plural = len(groups) > 1
+    buttons = "\n  ".join(
+        f'<a class="btn cta" href="{html.escape(g["url"])}" target="_blank" '
+        f'rel="noopener">Join your reading group: '
+        f'<span class="code">{html.escape(g["name"] or "your group")}</span></a>'
+        for g in groups
+    ) or '<p class="fine">Your reading group is still being set up — '\
+         'you\'ll get the join link by email.</p>'
+    both = (
+        '<p class="fine">You have been added to two reading groups. '
+        'Join both — each has its own conversation.</p>' if plural else ""
+    )
     return f"""<section class="sec">
   <div class="n">First</div>
   <h3>Create your Hypothesis account</h3>
   <p>Before you start reading Atomic Sanskrit, create a free account on Hypothesis — or sign in if you already have one. It's how you'll annotate the book as you read.</p>
   <p>Highlight a passage, leave a note or a question, and see what others in your group have flagged.</p>
-  <a class="btn cta" href="{group_url}" target="_blank" rel="noopener">Join your reading group: <span class="code">{group_code}</span></a>
+  {both}
+  {buttons}
   <p class="fine">New to Hypothesis? Clicking above lets you create a free account on the spot — no extension or software to install. Joining takes you straight into your private reading group, with no separate approval step on their end.</p>
 </section>
 <section class="sec">
@@ -514,17 +564,22 @@ def handle_generic_post(fields: dict, ip: str) -> tuple[int, str]:
 
 # --- Flow 2: named invites ("/<slug>") --------------------------------------
 
+def _group_label(record: dict) -> str:
+    """Comma-joined group names for the page header's 'Reading group' row."""
+    names = [g["name"] for g in roster_groups(record) if g["name"]]
+    return html.escape(", ".join(names) or "your group")
+
+
 def render_invite_form(name: str, record: dict, message: str) -> str:
     name_esc = html.escape(name)
     content = _invite_form_content(
-        group_url=html.escape(record.get("hypothesis_group_url", "")),
-        group_code=html.escape(record.get("hypothesis_group_name", "your group")),
+        groups=roster_groups(record),
         email_value=html.escape(record.get("email") or ""),
     )
     return INVITE_PAGE_TEMPLATE.substitute(
         title=f"Welcome, {name} &mdash; Atomic Sanskrit",
         name=name_esc,
-        group_code=html.escape(record.get("hypothesis_group_name", "your group")),
+        group_code=_group_label(record),
         message=message,
         content=content,
     )
@@ -534,7 +589,7 @@ def render_invite_result(name: str, record: dict, message: str) -> str:
     return INVITE_PAGE_TEMPLATE.substitute(
         title=f"Welcome, {name} &mdash; Atomic Sanskrit",
         name=html.escape(name),
-        group_code=html.escape(record.get("hypothesis_group_name", "your group")),
+        group_code=_group_label(record),
         message=message,
         content="",
     )

@@ -1,14 +1,27 @@
 {
   "jk": {
     "name": "JK",
-    "hypothesis_group_url": "https://hypothes.is/groups/AbC123x/some-group-name",
-    "hypothesis_group_name": "Some Group Name",
+    "groups": [
+      {
+        "url": "https://hypothes.is/groups/AbC123x/some-group-name",
+        "name": "Some Group Name"
+      }
+    ],
     "email": "jk@example.com"
   },
   "rm": {
     "name": "R. Kumar",
-    "hypothesis_group_url": "https://hypothes.is/groups/DeF456y/another-group",
-    "hypothesis_group_name": "Another Group",
-    "email": null
+    "groups": [
+      {
+        "url": "https://hypothes.is/groups/DeF456y/another-group",
+        "name": "Another Group"
+      },
+      {
+        "url": "https://hypothes.is/groups/GhI789z/a-second-group",
+        "name": "A Second Group"
+      }
+    ],
+    "email": null,
+    "hypothesis_username": "rkumar"
   }
 }
