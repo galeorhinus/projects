@@ -25,7 +25,17 @@ a{color:var(--gold-d)}a:hover{color:var(--deep)}
 
 /* ---- persistent sitebar ---- */
 .sitebar{position:sticky;top:0;z-index:20;border-bottom:1px solid var(--line);background:rgba(251,249,244,.94);backdrop-filter:saturate(150%) blur(6px)}
-.sitebar .in{max-width:var(--shell);margin:0 auto;padding:11px 30px;display:flex;align-items:center;gap:11px}
+/* Right padding 38px (not 30px), matching the mobile breakpoint's own
+   rail-clearance value below, not just the base 30px other sides use --
+   the Hypothesis client's icon rail is docked at the true viewport edge
+   at EVERY width, not just below the 640px breakpoint. Below ~980px
+   (--shell 920px + 2×30px old padding) .in fills the full viewport with
+   no natural centering margin to fall back on, so a visitor in that
+   640-980px range with 30px alone got the nav's icon+text right up
+   against the rail — caught live 2026-08-19 from an actual screenshot,
+   not a synthetic test. 8px more costs nothing once max-width:var(--shell)
+   starts centering the row with real whitespace beyond ~980px. */
+.sitebar .in{max-width:var(--shell);margin:0 auto;padding:11px 38px 11px 30px;display:flex;align-items:center;gap:11px}
 .sitebar a.home{display:flex;align-items:center;gap:11px;text-decoration:none;color:inherit}
 .sitebar svg{flex:none;display:block}
 .sitebar .wm{font-size:18px;font-weight:700;letter-spacing:-.008em}
@@ -69,7 +79,10 @@ a{color:var(--gold-d)}a:hover{color:var(--deep)}
 .sitebar .chnav svg{width:15px;height:15px;flex:none}
 
 /* ---- shell ---- */
-.site-header,main,.chapter-nav,.site-footer{max-width:var(--shell);margin-left:auto;margin-right:auto;padding-left:30px;padding-right:30px}
+/* padding-right 38px, not 30px -- same rail-clearance gap as .sitebar .in
+   just above, and the same fix: the rail runs full-height down the whole
+   page, not just past the sitebar. */
+.site-header,main,.chapter-nav,.site-footer{max-width:var(--shell);margin-left:auto;margin-right:auto;padding-left:30px;padding-right:38px}
 
 /* ---- contents links (header + footer) ---- */
 .contents-link{display:inline-block;font-size:14px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--brown);text-decoration:none}
@@ -171,7 +184,16 @@ article pre code{background:none;border:0;padding:0;font-size:15px;line-height:1
   .sitebar details.toc-drop > ul{min-width:0;width:max-content;max-width:calc(100vw - 82px)}
   .sitebar .chnav{width:34px;height:34px}
   .sitebar .chnav svg{width:17px;height:17px}
-  .sitebar .nav{gap:12px;font-size:14.5px}
+  /* Icon-only nav gets its own, larger clearance from the rail (margin-
+     right, layered on top of .sitebar .in's own 38px padding above) --
+     found live 2026-08-19: two small icons sitting right at the same
+     38px line the rail itself was tuned against read as cramped, closer
+     to touching than the body-text clearance one row down. Gap between
+     the two icons widened too, and the icons themselves enlarged (24px,
+     up from the ~14.5px an unstyled 1em gave them at this breakpoint's
+     font-size) — comfortably bigger tap targets, not just more legible. */
+  .sitebar .nav{gap:20px;font-size:14.5px;margin-right:10px}
+  .sitebar .nav a.dashboard-link svg,.sitebar .nav a.toc-link svg{height:24px}
   /* Icon-only on mobile — with the wordmark already hidden at this width
      (see .sitebar .wm above) and 38px reserved on the right for the
      Hypothesis rail, "Dashboard" and "TOC" text is exactly what got
