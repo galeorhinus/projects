@@ -1705,40 +1705,6 @@ resolvedToggle.addEventListener("click", () => {
   render();
 });
 
-const refreshBtn = document.getElementById("refresh-btn");
-if (refreshBtn) refreshBtn.addEventListener("click", async () => {
-  refreshBtn.disabled = true;
-  refreshBtn.textContent = "⟳ Refreshing…";
-  // Bounded client-side timeout, on top of the backend now also being
-  // fast by design (pull + rebuild only, no tagging -- see
-  // refresh_dashboard_fast.sh) -- a plain unbounded fetch() can die
-  // silently with no error and no reload if the tab gets backgrounded
-  // or the phone locks mid-wait, which read exactly like "no callback,
-  // had to refresh manually" before this existed.
-  const controller = new AbortController();
-  const timeoutId = setTimeout(() => controller.abort(), 45000);
-  let res;
-  try {
-    res = await fetch("/as/private/dashboard/api/refresh", { method: "POST", signal: controller.signal });
-  } catch (e) {
-    refreshBtn.textContent = e.name === "AbortError" ? "⟳ Timed out — retry" : "⟳ Network error — retry";
-    refreshBtn.disabled = false;
-    return;
-  } finally {
-    clearTimeout(timeoutId);
-  }
-  if (!res.ok) {
-    refreshBtn.textContent = "⟳ Refresh failed — retry";
-    refreshBtn.disabled = false;
-    return;
-  }
-  // Full page reload (not a DATA patch) -- the whole point is to pick
-  // up everything new since page load, not just the one thing this
-  // button call knows about, including brand-new reader annotations
-  // this session's DATA array was never given.
-  window.location.reload();
-});
-
 // "Built X ago" ticks every second, purely local text formatting --
 // per explicit instruction, this must NEVER re-fetch or touch DATA,
 // only reformat the elapsed time since BUILT_AT (embedded at build
@@ -1772,6 +1738,52 @@ function tickBuiltNote() {
     ? '<button class="refresh-btn-big" id="refresh-btn">⟳ Refresh now</button>'
       + '<p class="built-note" id="built-note"></p>'
     : '<p class="built-note" id="built-note"></p>';
+
+  if (!IS_OWNER) return;
+  // Listener MUST attach here, right after the button is created by the
+  // innerHTML assignment above -- not as a separate top-level
+  // getElementById("refresh-btn") earlier in the script (that was the
+  // bug, caught live 2026-08-19: this whole block used to run BEFORE
+  // hero-actions existed, since it sat above this IIFE in file order.
+  // getElementById found nothing, the `if (refreshBtn)` guard silently
+  // skipped attaching anything, and the button that appeared moments
+  // later on the page had no listener at all -- it rendered normally
+  // and clicking it did precisely nothing: no disable, no spinner text,
+  // no network call, no error. Looked identical to a working button.
+  const refreshBtn = document.getElementById("refresh-btn");
+  if (!refreshBtn) return;
+  refreshBtn.addEventListener("click", async () => {
+    refreshBtn.disabled = true;
+    refreshBtn.textContent = "⟳ Refreshing…";
+    // Bounded client-side timeout, on top of the backend now also being
+    // fast by design (pull + rebuild only, no tagging -- see
+    // refresh_dashboard_fast.sh) -- a plain unbounded fetch() can die
+    // silently with no error and no reload if the tab gets backgrounded
+    // or the phone locks mid-wait, which read exactly like "no callback,
+    // had to refresh manually" before this existed.
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), 45000);
+    let res;
+    try {
+      res = await fetch("/as/private/dashboard/api/refresh", { method: "POST", signal: controller.signal });
+    } catch (e) {
+      refreshBtn.textContent = e.name === "AbortError" ? "⟳ Timed out — retry" : "⟳ Network error — retry";
+      refreshBtn.disabled = false;
+      return;
+    } finally {
+      clearTimeout(timeoutId);
+    }
+    if (!res.ok) {
+      refreshBtn.textContent = "⟳ Refresh failed — retry";
+      refreshBtn.disabled = false;
+      return;
+    }
+    // Full page reload (not a DATA patch) -- the whole point is to pick
+    // up everything new since page load, not just the one thing this
+    // button call knows about, including brand-new reader annotations
+    // this session's DATA array was never given.
+    window.location.reload();
+  });
 })();
 
 if (!IS_OWNER && VIEWER.preview) {
