@@ -94,14 +94,25 @@ FS_IAST = 17.0
 FS_LABEL = 21.0
 
 
+# Ch 11 places these figures at width=75%, so the size a reader actually sees
+# is 0.75 x the design size. These constants are the TARGET RENDERED sizes;
+# the design sizes below are derived by dividing by DISPLAY_SCALE. Change the
+# targets, not the derived values.
+DISPLAY_SCALE = 0.75
+TARGET_PT_DEVA = 10.0   # Devanagari inside the hexes, as seen on the page
+TARGET_PT_IAST = 8.0    # IAST transliteration under each hex
+TARGET_PT_LABEL = 11.0  # English row labels at left; matches 11pt body text
+
+
 def configure_fonts(common_w: float) -> None:
     """Set the canvas width + font sizes so every figure in a set renders at a
-    uniform scale with 9–11 pt labels at 4.5in."""
+    uniform scale. Sizes are chosen so that at width=75% the reader sees
+    10 pt Devanagari, 8 pt IAST, and 11 pt English row labels."""
     global COMMON_W, FS_DEVA, FS_IAST, FS_LABEL
     COMMON_W = common_w
-    FS_DEVA = ms.pt_to_px(11.0, common_w, WIDTH_IN)
-    FS_LABEL = ms.pt_to_px(11.0, common_w, WIDTH_IN)
-    FS_IAST = ms.pt_to_px(9.0, common_w, WIDTH_IN)
+    FS_DEVA = ms.pt_to_px(TARGET_PT_DEVA / DISPLAY_SCALE, common_w, WIDTH_IN)
+    FS_LABEL = ms.pt_to_px(TARGET_PT_LABEL / DISPLAY_SCALE, common_w, WIDTH_IN)
+    FS_IAST = ms.pt_to_px(TARGET_PT_IAST / DISPLAY_SCALE, common_w, WIDTH_IN)
 
 ALIASES = {
     "A": "ā",

@@ -1866,7 +1866,7 @@ Sources: United Nations Department of Economic and Social Affairs, Population Di
 
 **Short:** Sanskrit's vocabulary is not best understood as a dictionary inventory. It is generated from a finite engine: 2,168 *dhātavaḥ*, 22 *upasargāḥ*, the unprefixed state, *lakāra* verb grids, person-number endings, verbal voices, nominal derivatives, and recursive *samāsa* compounds. A conservative schematic count already exceeds twenty million outputs before compounds, technical coinage, and poetic extension are counted.
 
-**Deployments:** Chapter 0 §0.6 ("A Language of Infinity") — the paragraph contrasting dictionary inventory with Sanskrit's generative word-engine; Chapter 12 §12.8 ("Usage Expands While the Language Remains Invariant") — the assembly-scale synthesis of the same generative space.
+**Deployments:** Chapter 0 §0.6 ("A Language of Infinity") — the paragraph contrasting dictionary inventory with Sanskrit's generative word-engine; Chapter 12 §12.8 ("Usage Expands While Sanskrit Remains Invariant") — the assembly-scale synthesis of the same generative space.
 
 The comparison is between dictionary inventory and generative output-space, not between two identical counting methods. English is useful as the familiar dictionary-language contrast. Oxford Languages describes the *Oxford English Dictionary* as documenting more than 600,000 words across English history; the often-cited OED2 current-use headword count is about 171,476. Either number is an inventory count: words admitted into a dictionary after historical usage.
 
@@ -5226,7 +5226,7 @@ Source: Standard Sanskrit usage of *ādi* as "beginning with, etc."; Pāṇinian
 
 **Short:** Zipf-like behavior refers to the rank-frequency pattern common in living languages: a small number of forms appear very frequently, while a long tail contains rare or specialized forms. Chapter 10 invokes it only as a contrast. Zipf-like usage can explain why a few forms become frequent after speech begins; it does not explain why the pre-use *Dhātupāṭha* inventory is already concentrated into a small family of measured *racanā* scaffolds.
 
-**Deployments:** Chapter 10 §10.7; Chapter 10 §10.10; Chapter 11 §11.6.
+**Deployments:** Chapter 10 §10.7; Chapter 10 §10.10; Chapter 11 §11.5.
 
 The term comes from George Kingsley Zipf's work on rank-frequency distributions in language. In the book's argument, Zipf is not treated as engineering evidence. It is the baseline natural-language expectation that must be separated from the stronger Sanskrit claim: compact atoms, stable scaffolds, measured timing, regular bonding, and cross-domain persistence.
 
@@ -5300,6 +5300,8 @@ Source: `analysis/ganah/scripts/summarize_scaffold_reactivity.py`; derived outpu
 
 The five examples are not offered as a full conjugational lesson. They are a procedural sampling across five timing envelopes: 1, 1.5, 2, 2.5, and 3 *mātrās*. The source point is narrower: each kriyā-form is present in the Vedic corpus itself, and each can be inspected as a semantic atom reacting with additional sonomers to become a verbal molecule. The *padapāṭha* rather than the continuous *saṃhitā* line is quoted because the separated pada form isolates the molecule under inspection.
 
+The shared ending **ति (*ti*)** marks **प्रथमपुरुष-एकवचनम् (*prathama-puruṣa-ekavacanam*)**. The two grammatical traditions count persons from opposite ends: what the *vyākaraṇa* discipline calls the *first* person is what English grammar calls the third — *he*, *she*, or *it*. The body keeps the plain description so the comparison across the five atoms stays in view.
+
 Sources: Wisdom Library's Rigveda pages for RV 1.23.11, RV 1.22.4, RV 1.26.3, and RV 1.17.5 provide both *saṃhitā* and *padapāṭha* lines with transliteration and grammatical parsing; the RV 5.25.4 pada line is checked against Veda Dive and the Vishvasa Shākala presentation.
 
 ---
@@ -5311,6 +5313,24 @@ Sources: Wisdom Library's Rigveda pages for RV 1.23.11, RV 1.22.4, RV 1.26.3, an
 **Deployments:** Ch11 §11.1 (the Vedic-procedure-first setup).
 
 This note does not attempt to settle chronology on the pyramid's terms. The dating convention used here places Indic figures and texts in the deep band — thousands of years — rather than inside the modern academy's date grid. The local point in Ch 11 is procedural, not chronological. Whatever date the pyramid assigns, the Vedic corpus already contains finished verbal molecules. Pāṇini's work therefore cannot be the origin of the process. It is the documentation of a process already visible in the corpus.
+
+---
+
+### `apadam-constraint`
+
+**Short:** [TBD: Citation+Context] The Sanskrit grammatical discipline states the constraint as **अपदं न प्रयुञ्जीत (*apadaṃ na prayuñjīta*)** — an *apada*, a form that is not a **पदम् (*padam*)**, is not to be used. A *dhātuḥ* becomes usable only after it takes the affixes that make it a *padam*.
+
+**Deployments:** Chapter 11 §11.1 (a *dhātuḥ* is not used directly in a sentence).
+
+A **पदम् (*padam*)** is a form that has received its inflectional affix and is ready to enter a sentence. Pāṇini defines the category at *Aṣṭādhyāyī* 1.4.14, **सुप्तिङन्तं पदम् (*suptiṅantaṃ padam*)**: what ends in a *sup* (nominal) or *tiṅ* (verbal) affix is a *padam*. The constraint *apadaṃ na prayuñjīta* draws the practical consequence — a bare *dhātuḥ*, having neither affix, is not yet usable in speech.
+
+The distinction matters for Chapter 11's argument. A *dhātuḥ* can be pronounced: reciters say the *Dhātupāṭha*, and grammarians cite atoms in isolation constantly. What a bare atom cannot do is function as a word inside an utterance. The chapter's phrase "spoken as a word" marks exactly that line.
+
+Modern treatment: Prasad P. Joshi, "A Glimpse into the Apadam-Constraint in the Tradition of Sanskrit Grammar," in Gérard Huet, Amba Kulkarni, and Peter Scharf, eds., *Sanskrit Computational Linguistics: First and Second International Symposia* (Lecture Notes in Artificial Intelligence 5402, Springer, 2009). Joshi renders the constraint as "non-inflected form should not be used in the sentence" and examines its assumptions in Pāṇini's model.
+
+**VERIFICATION REQUIRED BEFORE PRINT.** Two items are unconfirmed. **(a) The locus.** Secondary summaries place the maxim in the *Paspaśāhnika* of Patañjali's *Mahābhāṣya*, but that attribution was not confirmed against the text in this session, and the sources consulted did not establish it. The book's other *Paspaśāhnika* citation (`paspashahnika-apabhramsa-passage`) carries exact Kielhorn page and line references after a deep-dive verification; this entry should meet the same standard before print. **(b) Whether the wording is Patañjali's own.** The formulation may be a later *paribhāṣā* summarizing his position rather than a sentence he wrote. Until both are settled, the endnote attributes the constraint to the grammatical discipline rather than to Patañjali by name, and the body makes no attribution at all. Check Kielhorn's *Mahābhāṣya* and a standard *paribhāṣā* collection (Nāgeśa's *Paribhāṣenduśekhara*). See the verification queue, Chapter 11.
+
+**Aṣṭādhyāyī 1.4.14 is also unverified here** — the sūtra number and wording are given from standard reference knowledge and should be checked against ashtadhyayi.com before print.
 
 ---
 
@@ -5328,9 +5348,9 @@ The Vedic line was checked against the local DCS Ṛgveda parse (`Ṛgveda-0065-
 
 ### `racana-gana-matrix`
 
-**Short:** Ch 11 §11.5 cross-tabulates the current Ch 10 top-ten *racanā* scaffolds against Pāṇini's ten *gaṇāḥ*. Reproducibility script: `analysis/dhatupatha/scripts/analyze_racana_by_gana.py`; outputs: `analysis/dhatupatha/data/derived/racana_by_gana.csv` and `.md`; figure script: `figures/ganah/racana_gana_matrix.py`; figure output: `figures/ganah/racana_gana_matrix.svg`. Current result after the anubandha/scaffold cleanup: 2,168 *Dhātupāṭha* entries, 47 observed *racanāḥ*, top ten *racanāḥ* covering 1,973 entries (**91.01%**), and 140 populated *racanā* × *gaṇa* cells out of 470 possible.
+**Short:** Appendix Part 6 §6.4 cross-tabulates the current Ch 10 top-ten *racanā* scaffolds against the ten verbal *gaṇāḥ*. Reproducibility script: `analysis/dhatupatha/scripts/analyze_racana_by_gana.py`; outputs: `analysis/dhatupatha/data/derived/racana_by_gana.csv` and `.md`; figure script: `figures/ganah/racana_gana_matrix.py`; figure output: `figures/ganah/racana_gana_matrix.svg`. Current result after the anubandha/scaffold cleanup: 2,168 *Dhātupāṭha* entries, 47 observed *racanāḥ*, top ten *racanāḥ* covering 1,973 entries (**91.01%**), and 140 populated *racanā* × *gaṇa* cells out of 470 possible.
 
-**Deployments:** Ch11 §11.5 (the construction-axis / operation-axis matrix).
+**Deployments:** Appendix Part 6 §6.4 (the construction-axis / operation-axis matrix).
 
 The matrix keeps two classifications separate. ***Racanā*** measures construction: the *gamādi*, *spadādi*, *manthādi*, *vācādi*, *dhādi*, *iṣādi*, *hrādādi*, *krādi*, *sthādi*, and *spardhādi* scaffolds that contain most of the *Dhātupāṭha*. ***Gaṇaḥ*** measures operation: the ten Pāṇinian classes through which a *dhātuḥ* enters the verbal machinery. The cross-tab shows that the two axes are related but not identical. The *gamādi* scaffold appears in all ten *gaṇāḥ* and contains 926 atoms; *bhvādi* is the largest operational landing zone; many possible cells remain empty. The empty cells matter: they show which construction × operation pairings the system does not use.
 
@@ -5671,11 +5691,11 @@ For each *dhātuḥ*, the dictionary audit counts the derivative forms the dicti
 
 ### `prayoga-audit-valency`
 
-**Short:** Chapter 11 measures *prayoga* reactivity as corpus-attested combinatorial valency: distinct (*upasarga*, *pratyaya-class*) bonds visible in the Digital Corpus of Sanskrit, with dictionary and future *śāstra* audits kept separate.
+**Short:** Chapter 11 calculates *prayoga* reactivity from forms recorded in the corpus: distinct (*upasarga*, *pratyaya-class*) bonds found in the Digital Corpus of Sanskrit, with dictionary and future *śāstra* audits kept separate.
 
-**Deployments:** Chapter 11 §11.6 ¶ — methodology disclosure for the *prayoga* audit's operational definition; Chapter 11 §11.6 ¶ — anchors the 67.6% tier-share number.
+**Deployments:** Chapter 11 §11.5 — anchors the 67.6% tier-share number; Appendix Part 6 §§6.3–6.6 — methodology and replication.
 
-The *prayoga* audit operationalizes a *dhātu*'s reactivity as **corpus-attested combinatorial valency** — the count of distinct (*upasarga*, *pratyaya-class*) pairs that produce visible forms in the reference Sanskrit corpus. The reference corpus is the Digital Corpus of Sanskrit (Hellwig, 2010–2024; CC BY 4.0), accessed through the `OliverHellwig/sanskrit` GitHub mirror at the 2026-05-18 commit; 15,900 CoNLL-U files; 1,007,361 VERB-tagged tokens; 3,839 unique bare *dhātavaḥ* visible across the corpus. *Pratyaya*-class is normalized as a coarse approximation of the Pāṇinian *pratyaya* space — finite forms as the tuple (Tense, Mood, Voice) e.g. *fin:Pres+Ind+Act*; non-finite forms as the VerbForm value e.g. *nfin:Part*. The dictionary audit, run on a matched Monier-Williams / Apte subset of 121 *dhātavaḥ*, correlates with the *prayoga* audit at Spearman ρ = +0.6647. A future **śāstra audit** could count the affix-licensing space of the *Aṣṭādhyāyī* itself: not what the dictionaries list, and not what the parsed corpus happens to preserve, but the formal bonding space the grammar makes available. The full reproducibility bundle for the current audit — scripts, derived data, methodology, sensitivity tests — lives in `analysis/ganah/` with synthesis in `FINDINGS.md`. See the companion for sub-corpus extraction details, the Bhagavadgītā-not-in-DCS substitution note, and the Rāmāyaṇa-as-*smṛti*-epic decision.
+The *prayoga* audit calculates a *dhātu*'s reactivity from the distinct (*upasarga*, *pratyaya-class*) pairs that produce forms recorded in the reference Sanskrit corpus. The reference corpus is the Digital Corpus of Sanskrit (Hellwig, 2010–2024; CC BY 4.0), accessed through the `OliverHellwig/sanskrit` GitHub mirror at the 2026-05-18 commit; 15,900 CoNLL-U files; 1,007,361 VERB-tagged tokens; 3,839 unique bare *dhātavaḥ* found across the corpus. *Pratyaya*-class is normalized as a coarse approximation of the Pāṇinian *pratyaya* space — finite forms as the tuple (Tense, Mood, Voice) e.g. *fin:Pres+Ind+Act*; non-finite forms as the VerbForm value e.g. *nfin:Part*. The dictionary audit, run on a matched Monier-Williams / Apte subset of 121 *dhātavaḥ*, correlates with the *prayoga* audit at Spearman ρ = +0.6647. A future **śāstra audit** could count the affix-licensing space of the *Aṣṭādhyāyī* itself: not what the dictionaries list, and not what the parsed corpus happens to preserve, but the formal bonding space the grammar makes available. The full reproducibility bundle for the current audit — scripts, derived data, methodology, sensitivity tests — lives in `analysis/ganah/` with synthesis in `FINDINGS.md`. See the companion for sub-corpus extraction details, the Bhagavadgītā-not-in-DCS substitution note, and the Rāmāyaṇa-as-*smṛti*-epic decision.
 
 ---
 
@@ -5683,7 +5703,7 @@ The *prayoga* audit operationalizes a *dhātu*'s reactivity as **corpus-attested
 
 **Short:** Mendeleev's 1869 periodic table arranged 63 elements by atomic weight and recurring chemical function, creating the historical comparison for Chapter 11's narrower claim that structural arrangement by property can reveal an underlying architecture.
 
-**Deployments:** Chapter 11 §11.10 ¶ — historical anchor for the Mendeleev-1869 reference frame.
+**Deployments:** Preserved as reference material after the Chapter 11 restructure; available for Appendix Part 6 or the Source and Reference Companion.
 
 Dmitri Mendeleev, *Versuche eines Systems der Elemente nach ihren Atomgewichten und chemischen Funktionen* (1869) — the first periodic-table publication, presenting 63 chemical elements arranged by atomic weight on one axis and recurrent chemical property on the other. The table's predictive feature — Mendeleev left gaps for elements whose properties the table predicted but which had not yet been isolated, and gallium (1875), scandium (1879), and germanium (1886) were subsequently discovered with the predicted properties — established that structural arrangement by property could anticipate empirical fact. The 1869 paper is the historical anchor for comparison, not equivalence: Chapter 11 uses the modern table to explain Sanskrit's older grammatical table of measured bonding behavior. See the companion for the original 1869 paper, Mendeleev's 1871 expansion (*The Periodic Law of the Chemical Elements*), and the historical-priority literature (Meyer 1864, Newlands 1866, de Chancourtois 1862).
 
@@ -5691,11 +5711,11 @@ Dmitri Mendeleev, *Versuche eines Systems der Elemente nach ihren Atomgewichten 
 
 ### `vikarana-as-column-signature`
 
-**Short:** Pāṇini's *vikaraṇa* is the gaṇa-specific operation inserted between *dhātuḥ* and *tiṅ-pratyaya*; Chapter 11 treats it as the inflectional column-signature that activates the atom into a verbal molecule.
+**Short:** The grammatical tradition uses *vikaraṇa* for the operations placed between a *dhātuḥ* and its verbal ending. The *Aṣṭādhyāyī* prescribes the individual affixes and transformations; later teaching gathers them under the common label *vikaraṇa*.
 
-**Deployments:** Chapter 11 §11.3 ¶ — gives Pāṇini's *vikaraṇa* per *gaṇa*.
+**Deployments:** Chapter 11 §11.4; Appendix Part 6 §6.4.
 
-The ***vikaraṇa*** (विकरण) is the column-signature affix Pāṇini documents for each of the ten *gaṇāḥ* in the *Aṣṭādhyāyī*. The ten *vikaraṇas* are: *śap* (*śap*) for *bhvādi* (gaṇa 1; *Aṣṭādhyāyī* 3.1.68); *luk* (zero) for *adādi* (gaṇa 2; *A* 2.4.72); *ślu* (zero, with reduplication trigger) for *juhotyādi* (gaṇa 3; *A* 2.4.75); *śyan* for *divādi* (gaṇa 4; *A* 3.1.69); *śnu* for *svādi* (gaṇa 5; *A* 3.1.73); *śa* for *tudādi* (gaṇa 6; *A* 3.1.77); *śnam* (infix) for *rudhādi* (gaṇa 7; *A* 3.1.78); *u* for *tanādi* (gaṇa 8; *A* 3.1.79); *śnā* for *kryādi* (gaṇa 9; *A* 3.1.81); *ṇic* for *curādi* (gaṇa 10; *A* 3.1.25). Each *vikaraṇa* inserts between the *dhātu* and the *tiṅ-pratyaya* and signals the inflectional class membership. The *vikaraṇa* is the inflectional column-signature; the periodic-axes figure's consonantal column (the *varga* column) is something different and structural. See the companion for the *Aṣṭādhyāyī* rule citations in detail and the *Mahābhāṣya* commentary on the *vikaraṇa*-derivation chain.
+The ***vikaraṇa*** (विकरण) is the traditional umbrella term for the affix or operation associated with a verbal class. The *Aṣṭādhyāyī* prescribes the individual operations but does not use *vikaraṇa* as their common technical label. Its relevant rules include *śap* for *bhvādi* (3.1.68); deletion of *śap* for *adādi* (2.4.72); *ślu* with reduplication for *juhotyādi* (2.4.75); *śyan* for *divādi* (3.1.69); *śnu* for *svādi* (3.1.73); *śa* for *tudādi* (3.1.77); *śnam* for *rudhādi* (3.1.78); *u* for *tanādi* (3.1.79); *śnā* for *kryādi* (3.1.81); and *ṇic* for *curādi* (3.1.25). Pāṇini explicitly defines **अङ्गम् (*aṅgam*)** at 1.4.13 and lists the **तिङ् (*tiṅ*)** endings at 3.4.78. Chapter 11 uses only the broad distinction needed by a non-specialist reader: Vedic verbs already display the formations, while the grammatical analysis makes their recurring patterns explicit. Appendix Part 6 retains the detailed classification.
 
 ---
 
@@ -5703,7 +5723,7 @@ The ***vikaraṇa*** (विकरण) is the column-signature affix Pāṇini d
 
 **Short:** Chapter 11 uses the first-consonant *varga* column as one structural axis in the periodic-axes figure for *dhātavaḥ*: a property already present in the *varṇamālā* grid and supported by the *prayoga* audit.
 
-**Deployments:** Chapter 11 §11.8 ¶ — uses the *varga* column (C1–C5) as a structural axis in the periodic-axes figure.
+**Deployments:** Appendix Part 6 §6.4 — uses the *varga* column (C1–C5) as a structural axis in the periodic-axes figure.
 
 The first-consonant ***varga* column** — C1 (unvoiced unaspirate), C2 (unvoiced aspirate), C3 (voiced unaspirate), C4 (voiced aspirate), C5 (nasal) — is one structural axis for the Sanskrit *dhātavaḥ* in the periodic-axes figure. The *varṇamālā* organizes the 25 *sparśa* consonants into a 5 × 5 grid by place of articulation × *varga* column; the *vaiyākaraṇāḥ* discipline labels the columns directly; the structural property is a property of the atom itself, not a label imposed externally. The May 2026 *prayoga* audit tested four candidate axis interpretations (inherent vowel, articulation place, *varga* column, empirical bonding clusters) against the corpus data and reported per-axis heterogeneity indices. The *varga* column remains important on the joint criterion of (a) architectural continuity with Ch 10's *juhotyādi* C4-enrichment claim, (b) alignment with the *vyākaraṇa* discipline's own categorical framework, and (c) decisive structural-property status. The inherent vowel runs alongside the *varga* column as an orthogonal architectural dimension (see `inherent-vowel-secondary-axis` endnote). See the companion `analysis/ganah/FINDINGS.md` Addendum (2026-05-19) for the full decision rationale and the alternatives considered.
 
@@ -5713,7 +5733,7 @@ The first-consonant ***varga* column** — C1 (unvoiced unaspirate), C2 (unvoice
 
 **Short:** The inherent vowel is an orthogonal architectural dimension: it does not replace the *varga* column, but it sharply separates the hyper-reactive open-vowel core from the closed-vowel cluster.
 
-**Deployments:** Chapter 11 §11.8 ¶ — surfaces the inherent vowel as an orthogonal architectural axis alongside the *varga* column.
+**Deployments:** Appendix Part 6 §6.4 — places the inherent vowel alongside the *varga* column in the periodic-axes figure.
 
 The atom's **inherent vowel** — the vowel at its phonological nucleus — is a structural property of the atom independent of the consonantal *varga* column, and runs alongside the *varga* column as an orthogonal architectural dimension. The *prayoga* audit surfaced the inherent vowel as the empirically sharpest split among the four candidate axes tested (heterogeneity index 3.4472, against 2.10 for the *varga* column and 2.02 for articulation place). The "open-vowel core" — atoms with inherent vowel *a* (अ), *ā* (आ), or *ṛ* (ऋ) — captures seven of the nine reference polyvalent atoms (*gam, sthā, jñā, dā, dhā, kṛ, hṛ*); the closed-vowel cluster (*i, ī, u, ū*) captures the remaining two (*nī, bhū*). The vowel is not a competing claim of chemical periodicity; it is an empirical-confirmation move inside the grammatical periodic-axes figure. The two axes are orthogonal — knowing an atom's *varga* column does not determine its inherent vowel and vice versa — so the architecture rides on both independently. See the companion `analysis/ganah/FINDINGS.md` Addendum (2026-05-19) for the joint deployment rule.
 
@@ -5721,9 +5741,9 @@ The atom's **inherent vowel** — the vowel at its phonological nucleus — is a
 
 ### `dcs-vs-dhatupatha-count`
 
-**Short:** Ch 11 §11.6 percentages compute against the **3,839 distinct *dhātuḥ* labels visible in the Digital Corpus of Sanskrit**, not the **2,168 listed entries in the Dhātupāṭha**. The DCS surplus comes from variant readings, recension-specific entries, and items not listed in the *Dhātupāṭha*.
+**Short:** Ch 11 §11.5 percentages compute against the **3,839 distinct *dhātuḥ* labels visible in the Digital Corpus of Sanskrit**, not the **2,168 listed entries in the Dhātupāṭha**. The DCS surplus comes from variant readings, recension-specific entries, and items not listed in the *Dhātupāṭha*.
 
-**Deployments:** Chapter 11 §11.6 ¶ — anchors the reactivity-tier denominator.
+**Deployments:** Chapter 11 §11.5 — anchors the reactivity-tier denominator; Appendix Part 6 — explains the distinct datasets.
 
 The two counts serve different purposes. The *Dhātupāṭha* is the listed inventory of 2,168 entries the Pāṇinian discipline treats as the atom-list. The Digital Corpus of Sanskrit, by contrast, parses 15,900 Sanskrit files and surfaces every *dhātuḥ* label actually deployed in those files, including variant readings, recension-specific labels, and items not listed in the *Dhātupāṭha*. The DCS count (3,839) is therefore the right denominator when the question is *how Sanskrit actually uses its atoms*; the listed 2,168 is the right denominator when the question is *what the Dhātupāṭha inventory lists*. The chapter uses the DCS count for the reactivity-tier breakdown because the tiers measure deployment.
 
@@ -5735,7 +5755,7 @@ Sources: `analysis/ganah/data/derived/path_c_valency.csv` (DCS *dhātuḥ* label
 
 **Short:** The hyper-reactive polyvalent core is not an artifact of one corpus: the nine reference high-valency *dhātavaḥ* recur across *śruti* and *smṛti* sub-corpora, with genre-specific atoms entering only at the edges.
 
-**Deployments:** Chapter 11 §11.9 ¶ — anchors the hammer of the cross-corpus invariance claim.
+**Deployments:** Chapter 11 §11.6 — anchors the cross-corpus continuity claim.
 
 The hyper-reactive polyvalent core is invariant across the *śruti* / *smṛti* design-purpose split. The cross-corpus portion of the *prayoga* audit compared four DCS sub-corpora — Ṛgveda (*śruti*, 1,028 CoNLL-U files), Atharvaveda Śaunaka (*śruti*, 519 files), Mahābhārata (*smṛti*, 1,995 files), Rāmāyaṇa (*smṛti*, 606 files) — on per-sub-corpus valency. The nine reference polyvalent atoms (*kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ*) are 9/9 visible in every sub-corpus; the *smṛti* corpora include the full reference set in their top-20 lists; the *śruti* corpora include six of nine in their top-20 lists, with ritual-specific atoms (*vah, yam, bhṛ, cakṣ*) substituting in the *śruti* top tier. Sub-corpus-vs-full-corpus Spearman ρ: Ṛgveda +0.6710, Atharvaveda +0.7027, Mahābhārata +0.8636, Rāmāyaṇa +0.8064. Pairwise: *śruti* × *śruti* +0.7229; *smṛti* × *smṛti* +0.8700; cross-style +0.46–0.57. Note: the original corpus brief named the Bhagavadgītā as the *smṛti* exemplar; the DCS Mahābhārata excises the standard BhG range (book six, chapters 23–40), so Rāmāyaṇa substitutes as the *smṛti* epic; the structural test is unaffected. See the companion `analysis/ganah/data/derived/cross_corpus_comparison.txt` for the full per-sub-corpus tables.
 
@@ -5881,7 +5901,7 @@ Standard references: Georges Lemaître, "Un univers homogène de masse constante
 
 **Short:** The cross-*gaṇa* audit shows functional matching: the reduplicating *juhotyādi* class is heavily enriched for C4 voiced aspirates, the most acoustically robust consonant column, especially among corpus-visible entries.
 
-**Deployments:** Chapter 11 §11.8 ¶ — anchors the per-*gaṇa* C4-enrichment numbers.
+**Deployments:** Appendix Part 6 §§6.2 and 6.4 — anchors the per-*gaṇa* C4-enrichment numbers.
 
 The cross-*gaṇa* portion of the *prayoga* audit recomputes the per-*gaṇa* C1–C5 *varga*-column distribution under two filters: (a) full *Dhātupāṭha* inventory and (b) corpus-visible entries only. The *juhotyādi* (gaṇa 3, reduplicated class) shows C4 voiced-aspirate enrichment at 33.3% on the inventory and 42.9% on the corpus-visible set — a +9.5 pp sharpening under corpus restriction; three to four times the C4 rate of any other *gaṇa*. Reduplication requires acoustic robustness, and C4 (voiced aspirate) is the most acoustically robust column. Per-*gaṇa* C4 percentages (inventory / corpus-visible): bhvādi 10.9 / 14.2; adādi 3.0 / 2.9; juhotyādi 33.3 / 42.9; divādi 15.9 / 17.8; svādi 26.3 / 25.0; tudādi 8.7 / 10.5; rudhādi 12.8 / 16.7; tanādi 6.2 / 0.0; kryādi 18.8 / 14.3; curādi 6.9 / 7.8. Methodological note: the 31.8% figure cited in earlier Ch 10 drafts derives from `analysis/dhatupatha/scripts/analyze_varga_distribution.py`, which uses `Ji` as the initial-anubandha prefix where Pāṇini's *ñi* anubandha should be `Yi` in SLP1; corrected to `Yi`, the inventory figure becomes 33.3%. The point survives under either stripping. See the companion `analysis/ganah/data/derived/cross_gana_columns.txt` for the full per-*gaṇa* per-column table.
 

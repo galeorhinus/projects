@@ -35,8 +35,8 @@ The book runs on an eclipse. Sanskrit is the Sun (Sūrya); the Western philologi
 
 ### Part IV — The Sun's Atoms (*particle, atom, molecule, assembly*)
 - **Chapter 10 — Building the Dhātuḥ.** Sonomers become semantic atoms, tested against the six *sūtra-lakṣaṇāni*.
-- **Chapter 11 — Building the Kriyā.** Atoms become verbal molecules; the *Dhātupāṭha* as the table of reactive atoms.
-- **Chapter 12 — Building the Vākya.** Molecules become sentence assemblies without loss.
+- **Chapter 11 — Building the Kriyā.** Vedic verbs demonstrate how semantic atoms become verbal molecules; Pāṇini later makes their recurring formation patterns explicit.
+- **Chapter 12 — Building the Vākya.** Prefixes, suffixes, and role-endings extend those molecules into words and Vedic sentences; Pāṇini makes the sentence analysis explicit.
 
 ### Part V — The Sun Does Not Decay (*calibration from within*)
 - **Chapter 13 — Why Preservation Needs Engineering.** Anti-entropy as the engineering problem; *aural*, not *oral*.

@@ -36,7 +36,7 @@ The glossary is organized in three groups:
 
 **Sanskrit pair**: *varṇa* / *varṇāḥ*.
 
-**Use in book**: Chapter 8 — *varṇa* as selected sound-unit. Chapter 9 — selected sound moving toward *akṣara* and *dhātuḥ*. Chapter 10 — the *dhātuḥ* built from sonomers. Chapter 11 — *kriyā* processed at the sonomer level through *vikaraṇa*, *tiṅ-pratyaya*, and Pāṇini's pratyāhāra system.
+**Use in book**: Chapter 8 — *varṇa* as selected sound-unit. Chapter 9 — selected sound moving toward *akṣara* and *dhātuḥ*. Chapter 10 — the *dhātuḥ* built from sonomers. Chapter 11 — Vedic verbs demonstrating how sonomeric atoms extend into *kriyāpadāni*. Appendix Part 6 retains the detailed grammatical classification.
 
 ### **sonomeric**
 

@@ -95,6 +95,53 @@ them. They have first claim on figure-production time.
 | P2 | **A.4** | Photography and Audiography | `as_3_03_audiography.md` §3.6 | Placeholder | Body placeholder | `figures/audiography/photography_and_audiography.svg` | Produce a compact two-column engineering comparison. |
 | P2 | **A.9** | Audiographic Family and Pyramid Classification | `as_3_03_audiography.md` §3.8 | Placeholder | Body table beneath placeholder | `figures/audiography/audiographic_family_classification.svg` | Decide whether a regional figure improves the existing table; otherwise remove the placeholder. |
 
+### Ch 11 Vedic Assembly Set — proof check and pipeline note (2026-08-18)
+
+The five `figures/building_kriya/vedic_*.svg` assemblies were regenerated and
+re-promoted. Two things to know.
+
+**Sizes are now specified as rendered, not as designed.** Chapter 11 places
+these at `width=75%`, so `vedic_kriya_examples.py` derives its design sizes
+from target rendered sizes rather than hard-coding them:
+
+| Element | Target on the page | Design size at 4.5in |
+|---|---:|---:|
+| Devanagari in the hexes | 10 pt | 13.33 pt |
+| IAST under each hex | 8 pt | 10.67 pt |
+| English row labels | 11 pt (matches body text) | 14.67 pt |
+
+Edit `TARGET_PT_DEVA` / `TARGET_PT_IAST` / `TARGET_PT_LABEL` and
+`DISPLAY_SCALE` at the top of `configure_fonts`, never the derived values. If
+Chapter 11's `width=` changes, `DISPLAY_SCALE` must change with it or the
+rendered sizes silently drift.
+
+- [ ] **P1 — check 8 pt IAST on a printed proof.** 8 pt is close to the
+  practical floor for diacritic-dense transliteration; *ṛ ṣ ñ ṭ ḍ ṃ ḥ* are
+  where filling-in shows first. Screen rendering at 75% looks fine. If the
+  proof reads badly, raise `TARGET_PT_IAST` toward 9 rather than scaling the
+  whole figure up, since height is what drove the 75% decision.
+
+**Pipeline note — how `vedic_yajati.svg` shipped wrong.** It carried live
+Devanagari `<text>` while its four siblings were outlined, so it rendered in
+whatever face the viewer had (Devanagari Sangam MN on macOS, about 1.24x the
+ink height of Adobe Devanagari at the same nominal size) and looked a size
+larger than figures set at identical pt. Two pipeline defects allowed it, both
+fixed 2026-08-18:
+
+1. `build_book.py promote-svgs` never outlined — it only injects the lineage
+   comment. It now warns, names the offending files, and prints the command
+   to fix them.
+2. `figures/_shared/lineage.py` reported a relative-import failure as
+   "uharfbuzz/fontTools not available", which sent you to re-run under the
+   venv where nothing changed. It now distinguishes the two and recovers.
+
+The correct invocation, from `figures/`:
+
+```
+../.venv-figures/bin/python3 -m _shared.lineage promote building_kriya/<name>.from-py.svg
+```
+
+
 ## P1 — Architecture Figures Specified Outside the Body
 
 ### Svara Figure Family
@@ -140,7 +187,7 @@ Detailed specification:
 | `upasarga_architecture_fragment` | Complete Architecture and Receiving Fragments | Appendix or project proposal | **Specified** | Same plan | Hold until the primary upasarga figure is resolved. |
 | `designed_variations` | Eight Designed-Variation Figures | Appendix Part 8 | **Deployed** | [Figure source data](as_vaidika_laukika_declensional_figure_source_data.md) | Preserve source data and regenerate after evidence corrections. |
 | `two_domain_four_function_overview` | Four Functions of Designed Vedic Variation | Chapter 16 | **Optional** | [Chapter 16 ownership ledger](as_ch16_appendix_split_ownership_codex.md#figures) | Add only if the chapter's prose hierarchy does not make the four functions clear. |
-| `ganah_reactivity_matrix` | Matrix of Elemental Reactivity | Chapter 11 or reference | **Needs reconciliation** | `as_todo.md` empirical figure tasks | Compare the requested tier × *gaṇa* grid with deployed `racana_gana_matrix.svg`, `reactivity_tiers.svg`, and `periodic_table.svg`; specify only the missing view. |
+| `ganah_reactivity_matrix` | Matrix of Elemental Reactivity | Appendix Part 6 or reference | **Needs reconciliation** | `as_todo.md` empirical figure tasks | Compare the requested tier × *gaṇa* grid with deployed `racana_gana_matrix.svg`, `reactivity_tiers.svg`, and `periodic_table.svg`; specify only the missing view. |
 | `ganah_cross_corpus` | Comparative-Corpus View | Chapter 11 or reference | **Needs reconciliation** | `as_todo.md` empirical figure tasks | Decide whether deployed `canonical_rank_trajectory.svg` performs the requested comparison or whether a new overlap/bar figure remains necessary. |
 
 ## P2 — Existing Deployed Figure Register
@@ -161,7 +208,7 @@ duplicating every caption. The live figure calls remain the detailed register.
 | Chapter 8 | 7 | `figures/superset/` | Figures 8.1–8.7. |
 | Chapter 9 | 8 | `figures/mapping_mouth/`, `figures/audiography/`, `figures/calibration/` | Figures 9.1–9.8; Figure 9.7 introduces PASS and Figure 9.8 presents the selected/excluded vowel forms. |
 | Chapter 10 | 7 | `figures/building_dhatuh/` | Atom architecture and distributions. |
-| Chapter 11 | 14 | `figures/building_kriya/`, `figures/ganah/` | Vedic/Pāṇinian assemblies plus statistical architecture. |
+| Chapter 11 | 7 | `figures/building_kriya/`, `figures/ganah/` | Five Vedic assemblies plus the reactivity-tier and cross-corpus figures. |
 | Chapter 12 | 9 | `figures/building_vakya/` | Complete sonomer-to-sentence visual sequence. |
 | Chapter 13 | 1 | `figures/preservation/` | Asuric Custody Stack. |
 | Chapter 14 | 2 | `figures/calibration/` | Figures 14.1 and 14.3; Figure 14.2 remains a placeholder. |
@@ -172,9 +219,9 @@ duplicating every caption. The live figure calls remain the detailed register.
 | Appendix Part 3 | 4 | `figures/audiography/` | Figures A.5–A.8; A.4 and A.9 remain placeholders. |
 | Appendix Part 4 | 7 | `figures/superset/` | Figures A.4.1–A.4.7. |
 | Appendix Part 8 | 8 | `figures/vaidika_laukika/` | Designed-variation figure series. |
-| Reference Part 6 | 3 | `figures/building_dhatuh/`, `figures/ganah/` | Intentional reuse of statistical figures. |
+| Appendix Part 6 | 4 | `figures/building_kriya/`, `figures/ganah/` | Detailed activation classes, *racanā–gaṇa* matrix, and periodic-axes analysis. |
 
-Total deployed references in this reconciliation: **106**.
+Total deployed references in this reconciliation: **100**.
 
 ## P3 — Parked or Cut Historical Concepts
 
