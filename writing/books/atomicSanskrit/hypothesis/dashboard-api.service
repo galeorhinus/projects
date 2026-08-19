@@ -25,10 +25,18 @@ WorkingDirectory=/home/ubuntu/projects/writing/books/atomicSanskrit/hypothesis
 # (non-zero exit, swallowed by capture_output=True) because strict mode
 # makes the entire filesystem read-only, home directory included,
 # except whatever's listed here.
+#
+# /var/lib/secondshanti/dashboard_readers added 2026-08-19 for the same
+# reason -- rebuild_dashboard_file() now also passes --readers, and that
+# directory is owned ubuntu:www-data 2750 specifically so ubuntu (this
+# service's user) can write there and www-data (dashboard_resolver.py)
+# can read -- but ProtectSystem=strict still blocks the write unless the
+# path is explicitly listed here, same failure mode as the 2026-08-16 bug
+# above.
 NoNewPrivileges=true
 PrivateTmp=true
 ProtectSystem=strict
-ReadWritePaths=/home/ubuntu/projects/writing/books/atomicSanskrit/hypothesis/data /home/ubuntu/projects/writing/books/atomicSanskrit/hypothesis/dashboard.html /var/www/as/private/dashboard
+ReadWritePaths=/home/ubuntu/projects/writing/books/atomicSanskrit/hypothesis/data /home/ubuntu/projects/writing/books/atomicSanskrit/hypothesis/dashboard.html /var/www/as/private/dashboard /var/lib/secondshanti/dashboard_readers
 
 [Install]
 WantedBy=multi-user.target

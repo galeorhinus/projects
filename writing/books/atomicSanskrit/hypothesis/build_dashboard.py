@@ -39,13 +39,34 @@ TAXONOMY_PATH = HYPOTHESIS_DIR / "taxonomy.json"
 TODO_QUEUE_PATH = HYPOTHESIS_DIR / "data" / "todo_queue.json"
 OUTPUT_PATH = HYPOTHESIS_DIR / "dashboard.html"
 
-# The roster is git-authoritative in the repo and installed to /etc on amrut.
-# Prefer the deployed copy when present so a reader added on the server is
-# picked up without a redeploy of this script.
+# The roster is git-authoritative in the repo (server/invite_roster.json,
+# owned by ubuntu, always readable by whoever runs this script) and installed
+# to /etc on amrut by deploy.sh (server/README.md: never edited on the server
+# directly, only ever installed FROM the repo copy) — so under normal
+# operation the two are always identical after a deploy, and the repo copy is
+# never stale. Prefer it. /etc/secondshanti/invite_roster.json is 640
+# www-data:www-data, and this script's cron job runs as `ubuntu`, which is
+# not in the www-data group — confirmed live on amrut 2026-08-19, the first
+# time --readers was wired into the cron pipeline: preferring the /etc copy
+# gave a silent PermissionError on every run. Still try /etc first for the
+# rare case it's actually readable (run as www-data or root) and, contrary to
+# the above, somehow ahead of the repo copy; fall back to the repo copy
+# without raising if it isn't.
 _ETC_ROSTER = Path("/etc/secondshanti/invite_roster.json")
-ROSTER_PATH = _ETC_ROSTER if _ETC_ROSTER.exists() else (
-    HYPOTHESIS_DIR.parent / "server" / "invite_roster.json"
-)
+_REPO_ROSTER = HYPOTHESIS_DIR.parent / "server" / "invite_roster.json"
+
+
+def _pick_roster_path() -> Path:
+    if _ETC_ROSTER.exists():
+        try:
+            _ETC_ROSTER.read_text(encoding="utf-8")
+            return _ETC_ROSTER
+        except PermissionError:
+            pass
+    return _REPO_ROSTER
+
+
+ROSTER_PATH = _pick_roster_path()
 
 _GROUP_ID_RE = re.compile(r"/groups/([^/?#]+)")
 

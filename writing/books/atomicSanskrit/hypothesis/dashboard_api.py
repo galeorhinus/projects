@@ -82,6 +82,7 @@ BIND_HOST = "127.0.0.1"
 BIND_PORT = 8092
 OWNER_EMAIL = "rhinusgaleo@gmail.com"
 DASHBOARD_INSTALL_PATH = "/var/www/as/private/dashboard/index.html"
+READERS_INSTALL_DIR = "/var/lib/secondshanti/dashboard_readers"
 TODO_QUEUE_PATH = HYPOTHESIS_DIR / "data" / "todo_queue.json"
 
 VALID_TAGS = {"resolved", "acknowledged", "awaiting-reader"}
@@ -150,7 +151,8 @@ def rebuild_dashboard_file() -> None:
     only its queued-for-TODO status changed)."""
     subprocess.run(
         [sys.executable, str(HYPOTHESIS_DIR / "build_dashboard.py"),
-         "--install", DASHBOARD_INSTALL_PATH],
+         "--install", DASHBOARD_INSTALL_PATH,
+         "--readers", READERS_INSTALL_DIR],
         cwd=str(HYPOTHESIS_DIR), check=True, capture_output=True, timeout=30, text=True,
     )
 

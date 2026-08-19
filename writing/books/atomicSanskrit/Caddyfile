@@ -295,12 +295,19 @@ http://:18080 {
 		reverse_proxy 127.0.0.1:8092
 	}
 
+	# Reader Margins viewing (GET), for owner and reader alike --
+	# dashboard_resolver.py, systemd unit dashboard-resolver.service,
+	# loopback :8091. Replaced a static-file/@dashboard_notowner-404
+	# handler 2026-08-19: readers now get their own scoped page instead
+	# of a blanket 404, and the owner's own view is routed through here
+	# too (rather than branched in Caddy) so the owner's `?as=<slug>`
+	# preview reaches the same code path -- see dashboard_resolver.py's
+	# module docstring for why that's one reverse_proxy instead of a
+	# second matcher here. X-Forwarded-Email reaches 127.0.0.1:8091
+	# unmodified, the same way it already reaches :8092 above -- Caddy
+	# passes headers through reverse_proxy by default, nothing strips it.
 	handle /as/private/dashboard/* {
-		error @dashboard_notowner "Not Found" 404
-		try_files {path} {path}/index.html
-		file_server {
-			index index.html
-		}
+		reverse_proxy 127.0.0.1:8091
 	}
 	handle /as/private/* {
 		try_files {path} {path}/index.html

@@ -200,10 +200,39 @@ something Hypothesis already does better in context.
    A roster-recorded `hypothesis_username` now supplies `VIEWER.self`
    directly, so own-note marking works without the resolver for the four
    readers whose accounts are known.
-2. **Service + gate** — email → reader resolution, no-group page, `?as=` preview,
-   Caddy route replacing the static handler.
+2. ~~**Service + gate**~~ — *code complete 2026-08-19, not yet deployed.*
+   `server/dashboard_resolver.py` (email → slug via `locked_email`-first,
+   `?as=<slug>` preview restricted to the owner, no-group page), systemd
+   unit `dashboard-resolver.service`, Caddyfile route replacing the
+   static-file/404 handler (`caddy validate` clean against amrut's binary).
+   New directory `/var/lib/secondshanti/dashboard_readers` — see
+   `server/README.md`'s "One-time setup: the per-reader dashboard resolver"
+   for why neither `ubuntu` (writes, via cron) nor `www-data` (reads, via
+   the resolver) can use each other's existing territory directly, and the
+   exact provisioning commands. `dashboard_api.py`'s manual refresh and
+   both cron scripts now pass `--readers`; `dashboard-api.service` gained
+   the matching `ReadWritePaths` entry.
+
+   **Caught and fixed in testing before this ever ran live:** the roster-
+   email/locked-email fallback was written as two global passes (any
+   locked_email match, then any roster-email match) rather than a per-slug
+   choice — a slug's *stale* roster email could still match once that slug
+   had *already* locked to a different real address, which would have
+   handed one reader's dashboard to whoever now holds the stale address.
+   Fixed to a per-slug preference (`server/dashboard_resolver.py`'s
+   `resolve_slug`); a 10-case integration test now covers this and the
+   other resolution paths (owner, preview, no-group, unrostered-whitelisted,
+   roster'd-but-no-annotations).
+
+   Not yet done: applying this to amrut (provisioning the directory,
+   installing the service, running `deploy.sh`) — held for confirmation
+   since it changes the live `/as/private/dashboard/*` route and adds a
+   service to the owner's own dashboard-viewing path (see the resolver's
+   module docstring for that trade-off).
 3. **Verify** — confirm a reader page contains *only* that group's data (cards
    *and* chips), that the owner page is unchanged, and that a whitelisted
    non-reader gets the no-group page rather than a 404 or someone else's data.
+   Local integration test done (step 2); live verification is the
+   server/README.md step 5 checklist, pending deploy.
 4. **Nav** — swap on the gated templates.
 5. **Digest** — last, once unsubscribe and cadence are settled.

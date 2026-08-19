@@ -1,0 +1,29 @@
+[Unit]
+Description=Reader Margins dashboard — per-reader resolver
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /opt/secondshanti/dashboard_resolver.py
+Restart=on-failure
+RestartSec=5
+User=www-data
+Group=www-data
+
+# Loopback-only (127.0.0.1:8091), reached only through Caddy's reverse_proxy
+# for /as/private/dashboard/* -- same oauth2-proxy gate as the rest of
+# /as/private/*. Runs as www-data (not ubuntu, unlike build_dashboard.py's
+# cron job) specifically so it can read /etc/secondshanti/invite_roster.json
+# and invite_status.json, both 640 www-data:www-data -- same reasoning as
+# server/secondshanti-request-access.service.
+#
+# Read-only: this service never writes anything (it only resolves an email
+# to a slug and serves a pre-built page), so it needs no ReadWritePaths at
+# all -- locked down harder than request_access.py's unit, which does write
+# invite_status.json and the oauth2-proxy whitelist.
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+
+[Install]
+WantedBy=multi-user.target

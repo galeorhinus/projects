@@ -142,6 +142,59 @@ Files:
    submit the form, confirm the notification email arrives and a line was
    appended to `/var/lib/secondshanti/access-requests.log`.
 
+## One-time setup: the per-reader dashboard resolver
+
+`/as/private/dashboard/*` used to be a static-file handler, owner-only —
+everyone else got a 404. It's now `dashboard_resolver.py`
+(`server/dashboard_resolver.py`), which maps the authenticated visitor's
+email to their own scoped reader page, built by
+`hypothesis/build_dashboard.py --readers`. See that script's module
+docstring for the full design and why it runs as `www-data`, and
+`working/10_active/as_reader_dashboards_plan.md` for the feature design.
+
+1. **Create the shared directory** the resolver reads from and the
+   dashboard cron job (`hypothesis/refresh_dashboard.sh`, runs as `ubuntu`)
+   writes to. Neither user can read/write the other's home or `/etc`
+   territory directly (`ubuntu`'s home is `750 ubuntu:ubuntu`;
+   `/etc/secondshanti` is `640 www-data:www-data`) — this directory is the
+   one place both meet, `ubuntu` owning it so cron can write, `www-data` in
+   its group with the setgid bit so files `ubuntu` creates are readable by
+   the resolver without a second `chgrp`:
+   ```
+   sudo mkdir -p /var/lib/secondshanti/dashboard_readers
+   sudo chown ubuntu:www-data /var/lib/secondshanti/dashboard_readers
+   sudo chmod 2750 /var/lib/secondshanti/dashboard_readers
+   ```
+
+2. **Copy the resolver script and install its service:**
+   ```
+   sudo cp server/dashboard_resolver.py /opt/secondshanti/
+   sudo cp server/dashboard-resolver.service /etc/systemd/system/
+   sudo systemctl daemon-reload
+   sudo systemctl enable --now dashboard-resolver
+   sudo systemctl status dashboard-resolver
+   ```
+
+3. **Deploy the Caddyfile** (already routes `/as/private/dashboard/*` to
+   `127.0.0.1:8091` — see the Caddyfile's own comment at that block):
+   ```
+   ./deploy.sh
+   ```
+
+4. **First reader-page build:** either wait for the next 15-minute cron
+   tick, or run by hand:
+   ```
+   cd /home/ubuntu/projects/writing/books/atomicSanskrit/hypothesis
+   ./refresh_dashboard.sh
+   ls /var/lib/secondshanti/dashboard_readers/
+   ```
+
+5. **Test:** sign in as a whitelisted reader and confirm their own scoped
+   page loads at `/as/private/dashboard/`; sign in as the owner and confirm
+   the full triage dashboard still loads unchanged, and that
+   `?as=<slug>` previews a specific reader (banner reads "Previewing as
+   ...", composer/TODO absent).
+
 ## Adding a named invite
 
 Run this **locally**, against the repo — the roster is git-tracked, and

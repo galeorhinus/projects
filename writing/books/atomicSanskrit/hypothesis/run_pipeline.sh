@@ -15,5 +15,6 @@ cd "$(dirname "$0")"
 
 python3 pull_annotations.py
 python3 auto_tagger.py
-python3 build_dashboard.py --install /var/www/as/private/dashboard/index.html
+python3 build_dashboard.py --install /var/www/as/private/dashboard/index.html \
+    --readers /var/lib/secondshanti/dashboard_readers
 python3 digest_send.py
