@@ -124,7 +124,20 @@ a{color:var(--gold-d)}a:hover{color:var(--deep)}
   .title-block{padding-left:0;padding-top:40px;column-gap:15px}
   .title-block::before{width:46px;height:44px}
   .sitebar .in{padding:11px 22px}
-  .sitebar .nav{gap:14px}
+  /* This page never loads the Hypothesis embed (no js-hypothesis-config
+     here, unlike html_chapter.html/html_essay.html), so no rail-
+     clearance margin is needed -- but the icon size/gap enlargement
+     that book.css and essays.css both carry at their own mobile
+     breakpoints was missing here, an omission caught live 2026-08-19:
+     this page's Dashboard/TOC icons stayed at the small, un-enlarged
+     size while every other gated page's had already grown. Matched to
+     the same 24px/20px-gap values for consistency across the site. */
+  .sitebar .nav{gap:20px}
+  .sitebar .nav a.dashboard-link svg,.sitebar .nav a.toc-link svg{height:24px}
+  /* Sun logo matches the Dashboard/TOC icon size -- same reasoning as
+     templates/book.css's matching rule; the logo's HTML width/height
+     (30px here) don't respond to a breakpoint on their own. */
+  .sitebar a.home svg{width:24px;height:24px}
   /* Icon-only on mobile — same reasoning as templates/book.css's matching
      rule. title/aria-label on each link carry the name once the text is
      gone. */

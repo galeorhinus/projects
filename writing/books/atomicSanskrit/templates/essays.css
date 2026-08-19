@@ -104,6 +104,10 @@ footer a:hover{text-decoration:underline}
   .sitebar .in{padding:11px 38px 11px 22px}
   .sitebar .nav{gap:20px;margin-right:10px}
   .sitebar .nav a.dashboard-link svg,.sitebar .nav a.toc-link svg{height:24px}
+  /* Sun logo matches the Dashboard/TOC icon size -- same reasoning as
+     templates/book.css's matching rule; the logo's HTML width/height
+     (30px here) don't respond to a breakpoint on their own. */
+  .sitebar a.home svg{width:24px;height:24px}
   /* Icon-only on mobile — same reasoning as templates/book.css's matching
      rule. title/aria-label on each link carry the name once the text is
      gone. */

@@ -194,6 +194,12 @@ article pre code{background:none;border:0;padding:0;font-size:15px;line-height:1
      font-size) — comfortably bigger tap targets, not just more legible. */
   .sitebar .nav{gap:20px;font-size:14.5px;margin-right:10px}
   .sitebar .nav a.dashboard-link svg,.sitebar .nav a.toc-link svg{height:24px}
+  /* Sun logo matches the Dashboard/TOC icon size at this breakpoint --
+     with the wordmark hidden, all three are now standalone icons in the
+     same row, and the logo's own HTML width/height attributes (26px)
+     don't respond to any breakpoint on their own; only a CSS override
+     here can resize it. */
+  .sitebar a.home svg{width:24px;height:24px}
   /* Icon-only on mobile — with the wordmark already hidden at this width
      (see .sitebar .wm above) and 38px reserved on the right for the
      Hypothesis rail, "Dashboard" and "TOC" text is exactly what got
