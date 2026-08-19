@@ -690,9 +690,16 @@ def discover_essays(src_dir: Path) -> list[dict]:
 
 
 def render_essay(essay: dict, out_dir: Path, shelf_link: str,
-                 shelf_link_label: str, build_meta: dict[str, str]) -> None:
+                 shelf_link_label: str, build_meta: dict[str, str],
+                 gated: bool = False) -> None:
     """Render one essay to <out_dir>/<slug>/index.html via pandoc with the
-    shared essay template."""
+    shared essay template. `gated` swaps the sitebar's Essays link for a
+    Dashboard link (html_essay.html's own $if(gated)$) -- true for
+    advance-reader essays under /as/private/*, which sit behind the same
+    oauth2-proxy gate as the book and the dashboard itself; false (the
+    metadata key omitted entirely, same convention as `hypothesis` above)
+    for public essays under /as/essays/*, where an unauthenticated visitor
+    following that link would just hit a Google login wall."""
     slug_dir = out_dir / essay["slug"]
     slug_dir.mkdir(parents=True, exist_ok=True)
     out_path = slug_dir / "index.html"
@@ -713,6 +720,7 @@ def render_essay(essay: dict, out_dir: Path, shelf_link: str,
         "title": essay["title"],
         "shelf_link": shelf_link,
         "shelf_link_label": shelf_link_label,
+        **({"gated": "true"} if gated else {}),
         **build_meta,
     }
     cmd = [
@@ -739,8 +747,10 @@ def render_essay(essay: dict, out_dir: Path, shelf_link: str,
 def render_essay_shelf(out_dir: Path, shelf_title: str, intro_md: str,
                        essays: list[dict], shelf_link: str,
                        shelf_link_label: str,
-                       build_meta: dict[str, str]) -> None:
-    """Render an essay-shelf index page listing the essays under out_dir."""
+                       build_meta: dict[str, str],
+                       gated: bool = False) -> None:
+    """Render an essay-shelf index page listing the essays under out_dir.
+    See render_essay()'s docstring for what `gated` does and why."""
     out_dir.mkdir(parents=True, exist_ok=True)
     lines: list[str] = []
     lines.append(intro_md.strip())
@@ -771,6 +781,7 @@ def render_essay_shelf(out_dir: Path, shelf_title: str, intro_md: str,
         "title": shelf_title,
         "shelf_link": shelf_link,
         "shelf_link_label": shelf_link_label,
+        **({"gated": "true"} if gated else {}),
         **build_meta,
     }
     cmd = [
@@ -883,6 +894,10 @@ def render_jacket_copy_variant(variant: dict, build_meta: dict[str, str]) -> Non
         "pagetitle": title,
         "title": title,
         "hypothesis": "true",
+        # /as/jacket-copy/* sits behind the same oauth2-proxy gate as
+        # /as/private/* and /as/book/* -- see render_essay()'s docstring
+        # for what this flag does in html_essay.html.
+        "gated": "true",
         **build_meta,
     }
     cmd = [
@@ -978,7 +993,8 @@ def main() -> int:
             render_essay(essay, HTML_OUT_PRIVATE,
                          shelf_link="/as/private/",
                          shelf_link_label="← All advance-reader essays",
-                         build_meta=build_meta)
+                         build_meta=build_meta,
+                         gated=True)
     render_essay_shelf(
         HTML_OUT_PRIVATE,
         shelf_title="Advance-reader essays — Atomic Sanskrit",
@@ -992,6 +1008,7 @@ def main() -> int:
         shelf_link="/as/private/",
         shelf_link_label="← All advance-reader essays",
         build_meta=build_meta,
+        gated=True,
     )
 
     # ----- Landing + static files ------------------------------------

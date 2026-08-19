@@ -32,6 +32,8 @@ a{color:var(--gold-d)}a:hover{color:var(--deep)}
 .sitebar .nav{margin-left:auto;display:flex;gap:20px;font-size:15.5px}
 .sitebar .nav a{text-decoration:none;font-weight:700}
 .sitebar .nav a:hover{text-decoration:underline}
+.sitebar .nav a.dashboard-link{display:inline-flex;align-items:center;gap:5px}
+.sitebar .nav a.dashboard-link svg{height:1em;width:auto}
 
 /* ---- sitebar: chapter "Contents" dropdown — spliced in by build_html.py
    (_build_sitebar_toc_html) in place of the <!--CHAPTER-TOC-SLOT-->
