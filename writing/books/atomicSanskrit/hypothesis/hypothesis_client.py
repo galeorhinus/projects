@@ -148,6 +148,23 @@ class HypothesisClient:
         }
         return self._request("POST", "/annotations", body=body)
 
+    def create_annotation(self, *, uri: str, text: str, tags: list[str],
+                           target: list[dict], group: str,
+                           document: dict | None = None) -> dict:
+        """POST a new TOP-LEVEL annotation (no `references` -- for a reply
+        use create_reply, which also handles the group-is-ignored-for-
+        replies rule that does NOT apply here: for a top-level annotation
+        `group` is honored exactly as given). Used by move_annotation.py to
+        recreate an annotation in a different group -- Hypothesis has no
+        API to change an existing annotation's group (see
+        UpdateAnnotationSchema in h's own source: group/groupid/userid/
+        references are all silently dropped on PATCH), so "moving" one
+        means creating a copy elsewhere and deleting the original."""
+        body = {"uri": uri, "text": text, "tags": tags, "target": target, "group": group}
+        if document:
+            body["document"] = document
+        return self._request("POST", "/annotations", body=body)
+
     def delete_annotation(self, annotation_id: str) -> dict:
         """DELETE -- only succeeds on annotations this token's account
         authored (same author-only write rule as update_tags)."""
