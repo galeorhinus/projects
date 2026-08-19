@@ -84,19 +84,52 @@ def _try_outline_devanagari(content: str) -> str:
     uharfbuzz + fontTools, which live in `.venv-figures/`, not the system
     Python — if they're unavailable, promote() falls back to a plain copy
     and prints a warning rather than failing outright."""
+    # Two different failures used to land in one `except ImportError` here,
+    # reporting both as "uharfbuzz/fontTools not available". Running this file
+    # as a script (`python3 lineage.py promote ...`) makes the *relative*
+    # import fail, because __package__ is empty — nothing to do with the
+    # dependencies. The old message then sent you to re-run under
+    # .venv-figures/bin/python3, which changes nothing and still silently
+    # leaves the Devanagari live. That is how vedic_yajati.svg shipped
+    # un-outlined while its four siblings were outlined: same command, wrong
+    # invocation, misleading warning. Diagnose the two separately.
     try:
-        from .text_outline import (
+        from .text_outline import (  # noqa: F401
             contains_devanagari,
             contains_risky_latin_font,
             outline_devanagari_in_svg,
         )
-    except ImportError:
-        print(
-            "  (uharfbuzz/fontTools not available in this interpreter — "
-            "risky text left live. Run via .venv-figures/bin/python3 "
-            "to outline it.)"
-        )
-        return content
+    except ImportError as exc:
+        if __package__:
+            # Imported as a package, so the failure is a genuinely missing
+            # dependency rather than the invocation.
+            print(
+                f"  (text-outlining unavailable: {exc}. Devanagari left live. "
+                "Install uharfbuzz + fontTools, or run under "
+                ".venv-figures/bin/python3.)"
+            )
+            return content
+        # Run as a script: retry with this directory on sys.path, which is
+        # the only thing the relative import was missing.
+        sys.path.insert(0, str(Path(__file__).resolve().parent))
+        try:
+            from text_outline import (  # type: ignore[no-redef]
+                contains_devanagari,
+                contains_risky_latin_font,
+                outline_devanagari_in_svg,
+            )
+            print(
+                "  (note: run as a script, so the relative import failed; "
+                "recovered via sys.path. Prefer "
+                "`python3 -m _shared.lineage promote ...` from figures/.)"
+            )
+        except ImportError as exc2:
+            print(
+                f"  (text-outlining unavailable: {exc2}. Devanagari left "
+                "live. Install uharfbuzz + fontTools, or run under "
+                ".venv-figures/bin/python3.)"
+            )
+            return content
 
     # Cheap pre-check on the whole file before the real (regex-driven) pass
     # — most figures have neither Devanagari nor the risky font at all.

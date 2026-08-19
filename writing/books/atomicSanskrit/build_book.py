@@ -99,6 +99,7 @@ sys.stdout.reconfigure(line_buffering=True)
 BOOK_DIR = Path(__file__).resolve().parent
 BUILD_DIR = BOOK_DIR / "build"
 FIGURES_DIR = BOOK_DIR / "figures"
+DEVANAGARI_RE = re.compile(r"[\u0900-\u097F]")
 METADATA_FILE = BOOK_DIR / "as_book.yaml"
 REFERENCE_METADATA_FILE = BOOK_DIR / "as_reference.yaml"
 REFERENCE_FRONT_FILE = BOOK_DIR / "companion" / "as_reference_front.md"
@@ -367,6 +368,7 @@ def cmd_promote_svgs(force: bool = False) -> int:
         grouped.setdefault(canonical, []).append((source, chain))
 
     promoted = skipped = 0
+    needs_outlining: list[Path] = []
     for canonical, candidates in sorted(grouped.items()):
         source, chain = max(candidates, key=lambda item: item[0].stat().st_mtime)
         if (
@@ -382,12 +384,33 @@ def cmd_promote_svgs(force: bool = False) -> int:
         promoted_content = inject_lineage_comment(content, chain, source.name, date)
         canonical.write_text(promoted_content, encoding="utf-8")
         promoted += 1
+        # This phase does NOT outline Devanagari; figures/_shared/lineage.py's
+        # promote() does. Two promotion routes with different results is what
+        # let vedic_yajati.svg ship with live Devanagari text while its four
+        # siblings were outlined — the live one then rendered in whatever
+        # Devanagari face the viewer had (Sangam MN on macOS, ~1.24x the ink
+        # height of Adobe Devanagari at the same nominal size), so it looked
+        # a size larger than figures set at identical pt. Warn rather than
+        # outline here: this phase runs under the system interpreter, which
+        # has no uharfbuzz/fontTools, so it cannot do the job itself.
+        if DEVANAGARI_RE.search(promoted_content) and "<text" in promoted_content:
+            needs_outlining.append(canonical.relative_to(BOOK_DIR))
         print(
             f"  promote {source.relative_to(BOOK_DIR)}"
             f" -> {canonical.relative_to(BOOK_DIR)}"
         )
 
     print(f"SVG promotion: {promoted} updated, {skipped} already current.")
+    if needs_outlining:
+        print(
+            f"\n  WARNING: {len(needs_outlining)} promoted figure(s) still "
+            "contain live Devanagari <text>. This phase cannot outline it.\n"
+            "  Run, from figures/:\n"
+            "      ../.venv-figures/bin/python3 -m _shared.lineage promote "
+            "<path-to>.from-py.svg"
+        )
+        for path in needs_outlining:
+            print(f"    - {path}")
     return 0
 
 
