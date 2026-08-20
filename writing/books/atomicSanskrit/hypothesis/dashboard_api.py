@@ -368,6 +368,23 @@ class Handler(BaseHTTPRequestHandler):
                 self._send_json(200, {"status": "still_live"})
                 return
 
+        # A forced post with empty text is almost certainly the client
+        # having lost the author's words rather than a deliberate canned
+        # send: force=true is only reachable from the "still live" retry,
+        # which the author only sees after composing something. Refusing
+        # it here is the backstop for the 2026-08-20 data-loss bug, where
+        # the client destroyed its own textarea on that warning and the
+        # canned message was silently posted in place of what the author
+        # had written. An intentional canned "resolved" needs no force,
+        # so this costs nothing real.
+        if force and not text:
+            self._send_json(400, {
+                "error": "Refusing to force-post an empty reply -- the canned "
+                         "message would replace your own words. Retype the "
+                         "note and post again."
+            })
+            return
+
         reply_text = text or CANNED_TEXT.get(tag, "")
         try:
             reply = client.create_reply(annotation, reply_text, tags=[tag])

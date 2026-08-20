@@ -907,6 +907,17 @@ main {
   font-size: 0.78rem;
   color: var(--c-verify-fg);
 }
+/* Dedicated slot for warnings and errors beside the composer. Exists so
+   no failure path ever needs to overwrite .resolve-row, which contains
+   the author's typed reply -- see showReplyMsg(). */
+.resolve-msg {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 6px;
+}
+.resolve-msg:empty { margin-top: 0; }
 .todo-row {
   margin-top: 8px;
   padding: 10px 12px;
@@ -1382,6 +1393,7 @@ function cardHTML(a) {
            </select>
            <button class="resolve-btn" onclick="postReply('${a.id}', false, this)">Post</button>
          </div>
+         <div class="resolve-msg" id="resolve-msg-${a.id}"></div>
        </div>`
     : "";
   // Independent of the reply composer above -- a private note-to-self,
@@ -1427,11 +1439,35 @@ function cardHTML(a) {
   </article>`;
 }
 
-async function postReply(id, force, btnEl) {
+// Show a message beside the composer WITHOUT destroying it. Every failure
+// and warning path must use this instead of assigning to row.innerHTML --
+// the textarea lives inside .resolve-row, so overwriting the row deletes
+// whatever the author typed. That was a real data-loss bug (found
+// 2026-08-20): on the "still live" warning the row was replaced by a
+// "post anyway" button, the textarea went with it, the retry re-read a
+// now-missing element as "", and dashboard_api.py's
+// `text or CANNED_TEXT[tag]` fallback silently posted the canned
+// "addressed in a later revision" message in place of the author's own
+// words. The author's text never reached Hypothesis and was not recorded
+// anywhere, so those messages were unrecoverable.
+function showReplyMsg(id, html) {
+  const slot = document.getElementById(`resolve-msg-${id}`);
+  if (slot) { slot.innerHTML = html; return; }
+  const row = document.getElementById(`resolve-row-${id}`);
+  if (row) row.insertAdjacentHTML("beforeend", html);
+}
+
+// `carriedText` is passed explicitly by the "post anyway" retry. Reading
+// the textarea again would work now that it survives, but passing the
+// exact string that was already composed removes any dependence on the
+// DOM still holding it -- belt and braces on the path that lost data.
+async function postReply(id, force, btnEl, carriedText) {
   const row = document.getElementById(`resolve-row-${id}`);
   const textEl = document.getElementById(`reply-text-${id}`);
   const tagEl = document.getElementById(`reply-tag-${id}`);
-  const text = textEl ? textEl.value.trim() : "";
+  const text = (carriedText !== undefined && carriedText !== null)
+    ? carriedText
+    : (textEl ? textEl.value.trim() : "");
   const tag = tagEl ? tagEl.value : "resolved";
 
   if (tag === "awaiting-reader" && !text) {
@@ -1443,6 +1479,9 @@ async function postReply(id, force, btnEl) {
     return;
   }
 
+  // Clear any warning left from a previous attempt so a stale "still
+  // live" notice never sits beside a fresh post.
+  showReplyMsg(id, "");
   btnEl.disabled = true;
   btnEl.textContent = force ? "Posting anyway…" : "Posting…";
   let res;
@@ -1453,18 +1492,31 @@ async function postReply(id, force, btnEl) {
       body: JSON.stringify({ id, text, tag, force }),
     });
   } catch (e) {
-    row.innerHTML = `<span class="resolve-error">Network error -- try again.</span>`;
+    showReplyMsg(id, `<span class="resolve-error">Network error -- try again.</span>`);
+    btnEl.disabled = false;
+    btnEl.textContent = "Post";
     return;
   }
   if (!res.ok) {
     const body = await res.json().catch(() => ({}));
-    row.innerHTML = `<span class="resolve-error">${escapeHTML(body.error || `HTTP ${res.status}`)}</span>`;
+    showReplyMsg(id, `<span class="resolve-error">${escapeHTML(body.error || `HTTP ${res.status}`)}</span>`);
+    btnEl.disabled = false;
+    btnEl.textContent = "Post";
     return;
   }
   const body = await res.json();
   if (body.status === "still_live") {
-    row.innerHTML = `<span class="resolve-warning">Still live on the deployed site -- push/deploy first, or</span>
-      <button class="resolve-btn resolve-btn-force" onclick="postReply('${id}', true, this)">post anyway</button>`;
+    // The composer and its text stay on screen; the retry carries the
+    // exact composed string through window.__pendingReply rather than
+    // through an inline onclick attribute, which would need escaping for
+    // quotes, newlines, and Devanagari.
+    window.__pendingReply = window.__pendingReply || {};
+    window.__pendingReply[id] = text;
+    showReplyMsg(id,
+      `<span class="resolve-warning">Still live on the deployed site -- push/deploy first, or</span>
+       <button class="resolve-btn resolve-btn-force" onclick="postReply('${id}', true, this, window.__pendingReply['${id}'])">post anyway</button>`);
+    btnEl.disabled = false;
+    btnEl.textContent = "Post";
     return;
   }
   if (body.status === "posted") {
@@ -1493,7 +1545,9 @@ async function postReply(id, force, btnEl) {
     render();
     return;
   }
-  row.innerHTML = `<span class="resolve-error">Unexpected response.</span>`;
+  showReplyMsg(id, `<span class="resolve-error">Unexpected response.</span>`);
+  btnEl.disabled = false;
+  btnEl.textContent = "Post";
 }
 
 async function postTodo(id, btnEl) {
