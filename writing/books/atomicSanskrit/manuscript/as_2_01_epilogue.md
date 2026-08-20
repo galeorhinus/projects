@@ -110,7 +110,7 @@ The dharmic claim is different: *Sanātan* preserves a civilizational architectu
 
 The standard is **यत् भूतहितम् अत्यन्तं तत् सत्यम् (*yat bhūta-hitam atyantaṃ tat satyam*)**[NOTE: satyam-bhutahitam-mahabharata] — that which serves the welfare of beings, fully and ultimately, is truth. *Bhūta* means living beings: not merely humans, not merely the animals humans keep close, but all life toward which dharma must remain responsible. Here **सत् (*sat*)** and *lokakṣema* meet. Truth is not domination by a doctrine. Truth is alignment with the welfare of beings.
 
-The book has followed this battle across four scales. At the cosmic scale, *sat* and the *ṛta* order confront orders built from *asat*. In action, radiance and release confront *māyā* and containment. Human beings reproduce the choice through *saṃskṛti* and the pyramid. At the linguistic scale, the pyramid covers Sanskrit's created architecture with botanical drift, places PIE above the visible language, and uses the Racial Arya Thesis to separate that architecture from India.
+The book has followed this battle across four scales. At the cosmic scale, *sat* and the *ṛta* order confront orders built from *asat*. At the scale of action, *daivī māyā* turns power toward radiance, protection, and release. *Āsurī māyā* turns power toward concealment, projection, and containment. Human beings reproduce the choice through *saṃskṛti* and the pyramid. At the linguistic scale, the pyramid conceals Sanskrit's created architecture, projects botanical drift and PIE in its place, and uses the Racial Arya Thesis to separate that architecture from India.
 
 These are two fractals meeting at different scales. The swastika repeats created order without an apex. The pyramid repeats containment beneath an apex.
 

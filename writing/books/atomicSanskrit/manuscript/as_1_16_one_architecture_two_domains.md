@@ -163,7 +163,9 @@ Chapter 9 calls **ळ** a Lineage-Bounded off-grid sonance. It has no independen
 
 Sound pattern can support memory even when it adds no new grammatical relation. Ṛgveda 6.48.1 places **यज्ञा यज्ञा (*yajñā yajñā*)**, *sacrifice by sacrifice*, beside **गिरा गिरा (*girā girā*)**, *song by song*. The shorter instrumental **यज्ञा** fits the eight-syllable line and echoes the repeated **-ā** sound of **गिरा**. The form therefore contributes to meter, arrangement, and resonance at once.
 
-The Vedas show poetic expression functioning as preservation architecture. Meter, repetition, vowel relation, alliteration, and pitch give memory several paths back to the same passage while giving reciters several ways to detect change. Laukika poets use the same broader principle through repetition, ***अनुप्रास (*anuprāsa*)***, ***यमक (*yamaka*)***, onomatopoeia, and many meters. The Vedic difference lies in permission: once a mantra selects its pattern, the lineage preserves that selection exactly.
+The Vedas use poetic expression as part of their preservation architecture. Free word order allows words to occupy positions that support meter, resonance, and emphasis, while their endings continue to identify their grammatical relations. Repetition, vowel relation, alliteration, pitch, and meter then give memory several paths back to the same passage and give reciters several ways to detect change.
+
+Laukika poets use the same broader principle through repetition, ***अनुप्रास (*anuprāsa*)***, ***यमक (*yamaka*)***, onomatopoeia, and many meters. Vedic mantras use these choices inside a read-only corpus. Once a mantra was seen and received, its lineage preserved the selected arrangement exactly.
 
 Uncovering this architecture suggests a much larger possibility: ***छन्दस् (*chandas*)*** and poetic meter may have been humanity’s earliest deliberately engineered technology for preserving speech. Beauty, rhythm, and resonance were therefore more than aesthetic qualities; they formed part of the engineering through which memory could preserve language across generations.
 

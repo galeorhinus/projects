@@ -2,13 +2,13 @@
 
 By the end of Chapter 10, the botanical substitute is gone and the *dhātuḥ* stands as an engineered semantic atom. Chapter 11 shows that atom in use. The numerical audit behind those chapters compares the size and sound structure of the atoms with the range of forms they generate.
 
-No single number can establish engineering. The pattern has to recur across levels: sound-particle, position, cluster, place, scaffold, operation, corpus use, and generative reach. The *Source and Reference Companion* preserves the tables, scripts, correction history, and replication notes. The account here presents the source, the method, the strongest signals, and the principles visible in the counts.
+No single number can establish engineering. The pattern has to recur at several levels. This appendix therefore examines the size and internal construction of the atoms, the positions in which their sounds appear, the procedures that activate them, and the range of words and grammatical combinations they support. The *Source and Reference Companion* preserves the tables, scripts, correction history, and replication notes. The account here presents the source, the method, and the strongest signals visible in the counts.
 
 The audit uses three related datasets, and their totals count different things. The structural baseline contains 2,168 listed entries from a digital Pāṇinian **धातुपाठ (*Dhātupāṭha*)** across the ten **गणाः (*gaṇāḥ*)**. The citation markers called **अनुबन्धाः (*anubandhāḥ*)** are removed before the sounds of each listed atom are counted.
 
 **Path A** then compares particle count with estimated derivative counts for a selected sample of 138 atoms, using the Monier-Williams and Apte dictionaries. **Path C** examines the Digital Corpus of Sanskrit. Its parser produced 3,839 normalized verb lemmas, including derived lemmas such as causatives that are not separate entries in the *Dhātupāṭha*. For each lemma, Path C counts the distinct combinations of prefix and grammatical form-class recorded in the corpus. The 2,168 listed entries, the 138-atom sample, and the 3,839 corpus lemmas are therefore three different units.
 
-Each source brings its own limitation. A dictionary sample reflects the choices made by its compilers, while a surviving corpus reflects its genres and preservation history. When the same relation appears in both, the result deserves more weight than either source could provide alone.
+Each source brings its own limitation. A dictionary sample reflects the choices made by its compilers, while a preserved corpus reflects its genres and transmission history. When the same relation appears in both, the result deserves more weight than either source could provide alone.
 
 ---
 
@@ -35,7 +35,7 @@ Earlier counts that did not remove the instructional markers made the atoms appe
 
 ## 6.2 Eight Engineering Principles
 
-Eight linked principles emerge from the counts. Each one catches a different face of the same architecture.
+Eight linked principles emerge from the counts. Each one describes a different part of the same architecture.
 
 ### 1. Cost × Distinguishability
 
@@ -47,7 +47,7 @@ The strongest simple predictor is engineering value: distinguishability divided 
 
 Equal column value does not produce equal deployment. The labial nasal *m*, for example, appears often, while the velar nasal *ṅ* is almost absent from the same inventory count. A column-level preference cannot explain that difference; the exact cell also affects how a sound is used.
 
-So broad preference cannot explain the result. The architecture distributes individual sound-particles according to role.
+A preference for one broad column cannot explain the result. Sanskrit uses each sound-particle according to the role it can perform inside the atom.
 
 ### 3. Position-Conditional Preference
 
@@ -87,9 +87,9 @@ English places irregular forms such as *be*, *have*, and *do* among its most fre
 
 ---
 
-## 6.3 The Generative-Reach Test
+## 6.3 How Far Compact Atoms Reach
 
-If Sanskrit's atoms are engineered for reach, the smallest forms should produce the largest word families. The derivative counts allow us to test that prediction directly.
+The eighth principle requires a closer examination. If Sanskrit keeps its most reusable atoms compact, smaller atoms should generate larger word families and enter more grammatical combinations. The dictionary and corpus records test those two expectations separately.
 
 | Particles | n | Mean generative reach | Median | Max |
 |---:|---:|---:|---:|---:|
@@ -107,11 +107,51 @@ The atoms with the greatest generative reach are familiar because Sanskrit uses 
 
 Here the botanical metaphor breaks. Growth, branching, mutation, and drift do not explain why two different analyses both find that smaller atoms repeatedly generate more words. The book interprets that recurring relation as intentional compression for controlled expansion.
 
+### Two Records Identify the Same High-Reach Atoms
+
+Path A and Path C measure different kinds of reach. The dictionary sample counts how many words lexicographers connect with a selected *dhātuḥ*. The corpus audit counts how many combinations of prefix and grammatical form-class actually occur with that atom in the parsed texts.[NOTE: dictionary-audit-sources][NOTE: prayoga-audit-valency]
+
+The two measurements agree often enough to identify the same high-reach center. Across the atoms found in both records, their correlation is **+0.66**. A result of +1.00 would mean that their rankings matched perfectly. A result close to zero would mean that one record provided no indication of the other. The observed result shows substantial agreement without pretending that a dictionary and a corpus count the same thing.
+
+The corpus gives the following recorded combination counts for five familiar atoms:
+
+| *Dhātuḥ* | **⟪कृ⟫ (*kṛ*)** | **⟪भू⟫ (*bhū*)** | **⟪धा⟫ (*dhā*)** | **⟪हृ⟫ (*hṛ*)** | **⟪गम्⟫ (*gam*)** |
+|:--|--:|--:|--:|--:|--:|
+| Recorded combinations | 1,062 | 504 | 386 | 368 | 291 |
+
+The 1,062 combinations beside ⟪कृ⟫ do not assign greater importance to its meaning. The number records how many combinations of prefix and grammatical form-class the corpus contains for forms built from that atom. A compact atom meaning *to do* or *to make* can participate in an unusually wide range of Sanskrit expression.
+
+### Three Reach Tiers
+
+The full corpus divides the recorded atoms into three broad tiers:
+
+| Tier | Recorded combinations | *Dhātuḥ* labels recorded in the corpus | Share of recorded verb use |
+|---|---:|---:|---:|
+| Polyvalent | 50+ | 147 (**3.8%**) | **67.6%** |
+| Bivalent | 5–49 | 1,059 (**27.6%**) | **30.5%** |
+| Specialist | 1–4 | 2,633 (**68.6%**) | **1.9%** |
+
+![Reactivity tiers by atom share and recorded Sanskrit use.](figures/ganah/reactivity_tiers.svg){#fig:appendix-numbers-reactivity-tiers width=100%}
+
+Only 147 atoms belong to the polyvalent tier, yet forms built from them account for more than two-thirds of the recorded verb use. The 2,633 specialist atoms account for less than two percent.
+
+The specialist tier is not unused or unnecessary. Its atoms preserve distinctions that occur less often. Sanskrit combines a compact core used repeatedly with a much larger inventory available for narrower meanings.
+
+### The Same Core Across Four Corpora
+
+The corpus audit also compares the **ऋग्वेद (*Ṛgveda*)**, the **अथर्ववेद (*Atharvaveda*) Śaunaka**, the **महाभारत (*Mahābhārata*)**, and the **रामायण (*Rāmāyaṇa*)**. The first two belong to *śruti*. The second two belong to *smṛti* and *itihāsa*. Their subjects and styles differ.
+
+Nine reference atoms appear in every one of the four: **⟪कृ⟫ (*kṛ*)**, **⟪भू⟫ (*bhū*)**, **⟪स्था⟫ (*sthā*)**, **⟪गम्⟫ (*gam*)**, **⟪ज्ञा⟫ (*jñā*)**, **⟪दा⟫ (*dā*)**, **⟪धा⟫ (*dhā*)**, **⟪नी⟫ (*nī*)**, and **⟪हृ⟫ (*hṛ*)**.[NOTE: cross-corpus-invariance]
+
+![Rank trajectories of nine high-reach *dhātavaḥ* across four Sanskrit corpora.](figures/ganah/canonical_rank_trajectory.svg){#fig:appendix-numbers-canonical-rank-trajectory width=100%}
+
+The Vedic corpora give greater prominence to atoms suited to their subjects, while the epics distribute the same core through narrative action. Their exact rankings differ because the texts use language for different purposes. The presence of all nine atoms in every corpus shows that the same compact core serves both Vedic and *laukika* expression.
+
 ---
 
-## 6.4 The Explicit Activation Analysis
+## 6.4 How Atomic Shape Relates to Activation
 
-Chapter 11 keeps its attention on the Vedic evidence: completed verbs demonstrate several recurring ways to extend a *dhātuḥ* into a *kriyāpadam*. The grammatical analysis preserved with the *Aṣṭādhyāyī* and *Dhātupāṭha* groups *dhātavaḥ* that behave alike and states the operations associated with those groups.
+The reach analysis counts how widely an atom extends. A second analysis asks how the atom's internal construction relates to the procedure that turns it into a completed verb. Chapter 11 demonstrates those procedures through Vedic verbs. The grammatical analysis preserved with the *Aṣṭādhyāyī* and *Dhātupāṭha* groups *dhātavaḥ* that behave alike and states the operations associated with those groups.
 
 The tradition teaches ten verbal **गणाः (*gaṇāḥ*)**. The *Aṣṭādhyāyī* prescribes the relevant affixes and transformations through rules such as *kartari śap*, *divādibhyaḥ śyan*, *svādibhyaḥ śnuḥ*, *tudādibhyaḥ śaḥ*, *rudhādibhyaḥ śnam*, *tanādikṛñbhyaḥ uḥ*, and *kryādibhyaḥ śnā*. Later grammatical teaching commonly gathers these intervening operations under the term **विकरणम् (*vikaraṇam*)**.[NOTE: vikarana-as-column-signature]
 
@@ -133,19 +173,17 @@ The periodic-axes figure tests a second arrangement. It places the *dhātavaḥ*
 
 ![*Dhātavaḥ* recorded in the corpus, arranged by initial *varga* column and inherent vowel.](figures/ganah/periodic_table.svg){#fig:appendix-numbers-periodic-axes width=100%}
 
-The figure is one analytical arrangement, not a claim that Sanskrit reproduces chemical periodicity. It asks whether properties already present inside an atom help predict how widely that atom enters verbal combinations. The numerical results and replication files allow that interpretation to be tested independently.
+The figure uses chemical periodicity as an analytical analogy. It asks whether properties already present inside an atom help predict how widely that atom enters verbal combinations. The numerical results and replication files allow that interpretation to be tested independently.
 
 ---
 
 ## 6.5 What the Numbers Show
 
-The same organization appears across several independent counts.
-
-The analyses examine different parts of the architecture: particle count, place distribution, cluster behavior, retroflex loading, *gaṇa* profiles, dictionary-derived generative reach, and corpus combinatorial reach. They repeatedly show compression, patterned range, and greater reach among smaller atoms.
+Several independent counts reveal the same organization. Sanskrit concentrates meaning in compact atoms. It places sounds differently at the opening and close of those atoms. A small set of sounds performs most of the joining inside clusters. The activation groups also have different sound profiles. Finally, both the dictionary sample and the corpus analysis show greater reach among smaller atoms.
 
 The inventory also contains a long tail of rare scaffolds and specialized shapes. That range is **वैचित्र्य (*vaicitrya*)**: structured variety around strong modal forms. The book's engineering claim rests on both features together, because a generative architecture needs compact defaults as well as specialized forms.
 
-The distributions do not establish intention by themselves. They reveal the recurring organization that the book explains as design.
+These patterns recur across the sound inventory, atomic construction, verbal activation, and recorded use. Together they provide the numerical evidence for the engineering demonstrated through words and sentences in Chapters 10, 11, and 12.
 
 ---
 

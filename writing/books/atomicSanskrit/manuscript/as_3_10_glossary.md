@@ -150,7 +150,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **vivimorphosis**
 
-**Book-coined English.** The transition in which an engineered Sanskrit form crosses the calibrant boundary and acquires organic behavior inside a natural language. The term combines Latin *vivus* (alive) with Greek *morphōsis* (shaping or formation). From Sanskrit's side, **अपभ्रंश (*apabhraṃśa*)** describes the received form's distance from the calibrated molecule; from the receiving language's side, **vivimorphosis** describes what the new language grows from that seed. Sanskrit itself remains engineered and calibrated. Chapter 12 develops the mechanism from **शब्द (*śabda*)** through **बीज (*bīja*)** to **अपशब्द (*apaśabda*)**; Chapter 19 applies it inside the Radiance Thesis.
+**Book-coined English.** The transition in which an engineered Sanskrit form crosses the calibrant boundary and acquires organic behavior inside a natural language. The term combines Latin *vivus* (alive) with Greek *morphōsis* (shaping or formation). From Sanskrit's side, **अपभ्रंश (*apabhraṃśa*)** describes the received form's distance from the calibrated molecule; from the receiving language's side, **vivimorphosis** describes what the new language grows from that seed. Sanskrit itself remains engineered and calibrated. Chapter 19 §19.7 develops the movement from **शब्द (*śabda*)** through **बीज (*bīja*)** to **अपशब्द (*apaśabda*)** and applies it inside the Radiance Thesis.
 
 ### **revivification**
 
@@ -225,6 +225,14 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 ### **sat-asat-viveka** (सत्-असत्-विवेक)
 
 **Standard Sanskrit compound, book-deployed as ethical discernment.** Discernment between *sat* and *asat* — what stands in truth and what does not. The book uses this as an individual faculty, not an institutional label. It is tied to the dharmic standard *yat bhūta-hitam atyantaṃ tat satyam*: that which serves the deep welfare of living beings is truth.
+
+### **māyā** (माया) / **daivī māyā** (दैवी माया) / **āsurī māyā** (आसुरी माया)
+
+**Standard Sanskrit, book-controlled deployment.** Power capable of forming, presenting, concealing, or transforming an appearance. The action it serves determines its direction. This book uses **दैवी माया (*daivī māyā*)** for power turned toward radiance, protection, and revelation, and **आसुरी माया (*āsurī māyā*)** for power turned toward concealment and deformation.
+
+### **āvaraṇa** (आवरण) / **vikṣepa** (विक्षेप)
+
+**Standard Vedāntic analytical terms.** Two actions through which *āsurī māyā* hides what remains present and places a substitute before the observer. **आवरण (*āvaraṇa*)** conceals. **विक्षेप (*vikṣepa*)** projects the replacement. Chapter 2 introduces the terms through the *Vedāntasāra* and applies them to Svarbhānu's concealment of Sūrya.
 
 ### **devabhāṣā** (देवभाषा)
 

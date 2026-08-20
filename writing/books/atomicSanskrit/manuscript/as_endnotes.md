@@ -1384,9 +1384,9 @@ Sources: the comparative sources in `asura-reconstructed-lord-account`; VedaWeb 
 
 ### `rigveda-1-11-7-maya-mayin`
 
-**Short:** Ṛgveda 1.11.7 gives Chapter 2 its Vedic distinction: *māyā* is not the problem; *āsurī māyā* is. Indra defeats the *māyin* Śuṣṇa with *māyās* of his own, so the verse marks skill and power by purpose, not by the word alone.
+**Short:** Ṛgveda 1.11.7 gives Chapter 2 its Vedic distinction: power by itself belongs to neither *sat* nor *asat*. Indra defeats the *māyin* Śuṣṇa with *māyās* of his own, so the action served by the power determines its direction.
 
-**Deployments:** Chapter 2 opening epigraph.
+**Deployments:** Chapter 2 opening epigraph and §2.1.
 
 The quoted mantra is Ṛgveda 1.11.7:
 
@@ -1398,9 +1398,23 @@ The quoted mantra is Ṛgveda 1.11.7:
 
 Working translation: *With māyās, O Indra, you struck down the māyin Śuṣṇa. The wise know this deed of yours; raise their renown.*
 
-The verse protects Chapter 2 from flattening *māyā* into a simple negative. Indra also uses *māyā*; the adversary is the *māyin* whose power withholds and deceives. The chapter's category is therefore **आसुरी माया (*āsurī māyā*)** — concealment used to misclassify Sanskrit and make the false category appear natural.
+Indra also uses *māyā*; the adversary is the *māyin* whose power withholds and deceives. The Bhagavadgītā preserves the phrase **दैवी माया (*daivī māyā*)** at 7.14. The grammatical continuum preserves **आसुरी माया (*āsurī māyā*)** through *Aṣṭādhyāyī* 4.4.124, whose traditional example is **आसुरी माया स्वधया कृतासि (*āsurī māyā svadhayā kṛtāsi*)**, from Vājasaneyi Saṃhitā 11.69. Chapter 2 applies the distinction through action: *daivī māyā* turns power toward radiance and protection, while *āsurī māyā* turns it toward concealment and deformation.
 
-Source basis: Ṛgveda 1.11.7; final production should verify accenting, saṃhitā text, and the sandhi / padapāṭha at *viduṣ ṭe* against the selected printed Ṛgveda edition.
+Sources: Ṛgveda 1.11.7 in the [UT Austin metrically restored text](https://lrc.la.utexas.edu/books/rigveda/RV01); [Bhagavadgītā 7.14](https://www.gitasupersite.iitk.ac.in/srimad?field_chapter_value=7&field_nsutra_value=14&language=dv); and [*Aṣṭādhyāyī* 4.4.124](https://ashtadhyayi.com/sutraani/4/4/124). Final production should verify accenting, saṃhitā text, and the sandhi / padapāṭha at *viduṣ ṭe* against the selected printed Ṛgveda edition.
+
+---
+
+### `maya-concealment-projection`
+
+**Short:** The *Vedāntasāra* identifies **आवरण (*āvaraṇa*)**, concealment, and **विक्षेप (*vikṣepa*)**, projection, as two powers of ignorance. This book applies those terms to Svarbhānu's *māyā* and to the pyramid's repeated method: conceal what remains present and project a substitute before the observer.
+
+**Deployments:** Chapter 2 §2.1 — full explanation; Chapter 3 §§3.2 and 3.6 — the botanical substitute and Svarbhānu; Chapter 4 §4.1 — secular clothing over inherited dogma; Chapter 18 §18.4 — gaslighting; Chapter 19 §19.7 — PIE projected over Sanskrit's radiance; Chapter 20 — clearing; Epilogue — four-scale summary.
+
+*Vedāntasāra* §51 states that ignorance has two powers called *āvaraṇa* and *vikṣepa*. Section 52 compares *āvaraṇa* to a small cloud that obstructs the observer's view of the much larger solar disc. The text explicitly says that the Sun is concealed only "as it were": the obstruction affects the observer's sight, not the Sun. Sections 53–54 continue with the rope and snake. The rope is concealed, and a snake is projected upon it.
+
+The terms belong to this later Vedāntic analysis; the Ṛgveda does not use *āvaraṇa* and *vikṣepa* as technical names for two powers of *māyā*. The Rigvedic Svarbhānu sequence nevertheless describes the concrete action to which this book applies them. In Ṛgveda 5.40.5–9, Svarbhānu places darkness before Sūrya, the worlds lose their bearings, Indra breaks Svarbhānu's *māyā*, and the Atris find the Sun. The application describes the continuity of the action without turning the later terminology into a Rigvedic quotation.
+
+Source: Sadānanda, [*Vedāntasāra* §§51–54](https://www.vedantahub.org/wp-content/texts/Vedantasara.pdf), pp. 19–21 in the linked edition. For the Rigvedic sequence, see endnotes `rigveda-5-40-5-svarbhanu-eclipse`, `rigveda-5-40-atri-clearing`, and `mayin-concealment-cluster`.
 
 ---
 
@@ -5294,7 +5308,7 @@ Source: `analysis/ganah/scripts/summarize_scaffold_reactivity.py`; derived outpu
 
 ### `rigvedic-kriya-examples`
 
-**Short:** Ch 11 §11.2 uses five Rigvedic *padapāṭha* excerpts to show the kriyā-operation before Pāṇinian terminology enters: RV 1.23.11 (*eti* < *i*), RV 1.22.4 (*asti* < *as*), RV 1.26.3 (*yajati* < *yaj*), RV 1.17.5 (*bhavati* < *bhū*), and RV 5.25.4 (*rājati* < *rāj*). The excerpts are presented in pada-separated form so the inspected verbal molecule remains distinct before *saṃhitā* sandhi recombines the line.
+**Short:** Ch 11 §11.2 uses five Rigvedic *padapāṭha* excerpts to show five ways in which Sanskrit prepares an atom before the verbal ending joins: RV 1.24.10 (*eti* < *i*), RV 1.17.5 (*bhavati* < *bhū*), RV 1.91.20 (*dadāti* < *dā*), RV 10.42.9 (*ruṇaddhi* < *rudh*), and RV 5.34.3 (*sunoti* < *su*). The excerpts are presented in pada-separated form so the inspected verbal molecule remains distinct before *saṃhitā* sandhi recombines the line.
 
 **Deployments:** Ch11 §11.2 (the five Vedic-procedure examples).
 
@@ -5302,13 +5316,57 @@ The five examples are not offered as a full conjugational lesson. They are a pro
 
 The shared ending **ति (*ti*)** marks **प्रथमपुरुष-एकवचनम् (*prathama-puruṣa-ekavacanam*)**. The two grammatical traditions count persons from opposite ends: what the *vyākaraṇa* discipline calls the *first* person is what English grammar calls the third — *he*, *she*, or *it*. The body keeps the plain description so the comparison across the five atoms stays in view.
 
-Sources: Wisdom Library's Rigveda pages for RV 1.23.11, RV 1.22.4, RV 1.26.3, and RV 1.17.5 provide both *saṃhitā* and *padapāṭha* lines with transliteration and grammatical parsing; the RV 5.25.4 pada line is checked against Veda Dive and the Vishvasa Shākala presentation.
+Sources: The five forms and their loci were checked against the local Rigvedic corpus index used for the Chapter 11–12 evidence audit. The Government of India's Vedic Heritage Portal preserves **सुनोति (*sunoti*)** in the accented Śākala *saṃhitā* text of RV 5.34.3. The *padapāṭha* presentations isolate each completed verb for inspection.
+
+---
+
+### `rigvedic-kriya-breadth`
+
+**Short:** Chapter 11 §11.3 uses six singular and plural forms of ⟪इ⟫ to demonstrate how a completed Sanskrit verb identifies the actor and number. Appendix Part 7 then provides representative Rigvedic examples for all nine combinations of person and number. Chapter 11 also gives shared forms for present, past, future, command, and possibility.
+
+**Deployments:** Chapter 11 §11.3 (the compact ⟪इ⟫ table and the time-and-mode table); Appendix Part 7 §7.2 (the complete Vedic person-and-number concordance).
+
+The compact body table uses **एमि (*emi*)**, **इमः (*imaḥ*)**, **एषि (*eṣi*)**, **इथ (*itha*)**, **एति (*eti*)**, and **यन्ति (*yanti*)**. All six belong to the present-tense *parasmaipada* forms generated from ⟪इ⟫, *to go*. The table omits the dual because its purpose is to demonstrate the encoding clearly, not to teach the complete paradigm.
+
+The nine forms in Appendix Part 7 were checked against the local Rigvedic corpus index generated for the Chapter 11–12 evidence audit. Together they cover one, two, and more than two actors for the speaker, the person addressed, and the person or thing being described. The concordance deliberately uses forms that remain available in *laukika* Sanskrit. It therefore demonstrates the Vedas as the calibrant for the shared grammar. Additional Vedic endings and verbal forms belong to Chapter 16 and Appendix Part 8.
+
+The second table uses **भवति** at RV 1.17.5, **आसीत् (*āsīt*)** at RV 10.129.1, **करिष्यति (*kariṣyati*)** at RV 1.164.39, **भव (*bhava*)** at RV 1.1.9, and **स्याम (*syāma*)** at RV 1.4.6. These examples are representative rather than exhaustive. Appendix Part 7 retains the wider inventory and verification trail.
+
+---
+
+### `vedic-kr-derived-family`
+
+**Short:** Ch 12 §12.2 follows four Rigvedic forms built from ⟪कृ⟫ (*kṛ*): **कृतम् (*kṛtam*)** at RV 3.29.1b, **कर्मणः (*karmaṇaḥ*)** at RV 1.11.4c, **कर्तृभिः (*kartṛbhiḥ*)** at RV 1.55.8c, and **संस्कृतम् (*saṃskṛtam*)** at RV 5.76.2a.
+
+**Deployments:** Ch12 §12.2 (the Vedic ⟪कृ⟫ family table).
+
+The forms were checked against the local Rigvedic corpus index. RV 3.29.1 uses **कृतम्** as a neuter singular participial form describing something prepared or completed. RV 1.11.4 uses **कर्मणः** in the genitive singular. RV 1.55.8 uses **कर्तृभिः** in the instrumental plural. RV 5.76.2 uses **संस्कृतम्** in the accusative neuter singular. The chapter selects these examples because the derivational and inflectional operations remain available in both Sanskrit domains.
+
+---
+
+### `rigveda-5-76-2-samskrtam`
+
+**Short:** RV 5.76.2 preserves **संस्कृतम् (*saṃskṛtam*)** as a completed Vedic form meaning something prepared or brought to completion. The passage does not use it as the proper name of the language.
+
+**Deployments:** Ch12 §12.2.
+
+The local corpus parses **saṃskṛtam** as accusative neuter singular in the line beginning *na saṃskṛtam pra mimīto gamiṣṭhā*. The body quotes the form for one narrow purpose: it establishes that *sam-* joins ⟪कृ⟫ and receives further material in Vedic usage. Other forms in the line demonstrate additional Vedic range and are reserved for Chapter 16 and Appendix Part 8.
+
+---
+
+### `rigveda-2-23-1-vakya`
+
+**Short:** RV 2.23.1ab brings several shared grammatical operations into one sentence: **त्वा (*tvā*)** and three accusative singular descriptions identify the person invoked; **गणानाम् (*gaṇānām*)** and **कवीनाम् (*kavīnām*)** supply genitive plural relations; **हवामहे (*havāmahe*)** marks first-person plural; and **गणपतिम् (*gaṇapatim*)** preserves a compound before the sentence ending joins it.
+
+**Deployments:** Ch12 §12.4.
+
+The line is **गणानां त्वा गणपतिं हवामहे । कविं कवीनामुपमश्रवस्तमम्** (*gaṇānāṃ tvā gaṇapatiṃ havāmahe | kaviṃ kavīnām upamaśravastamam*). The forms and grammatical features were checked against the local Rigvedic corpus index. The example belongs in the body because a student trained in *laukika* grammar can identify all of these operations without first learning a Vedic-only ending or construction.
 
 ---
 
 ### `vedic-kriyapadas-before-panini`
 
-**Short:** Ch 11 §11.1 states the procedural position directly: Vedic *kriyāpadāni* such as *eti*, *asti*, *yajati*, *bhavati*, and *rājati* existed in the Vedic corpus before Pāṇini named the operations. The asuric pyramid's chronology does not accept that depth, because its dating of Pāṇini and the Vedic corpus is part of the same comparative-philological machinery already diagnosed as non-neutral.
+**Short:** Ch 11 §11.1 states the procedural position directly: Vedic *kriyāpadāni* such as *eti*, *bhavati*, *dadāti*, *ruṇaddhi*, and *sunoti* existed in the Vedic corpus before Pāṇini named the operations. The asuric pyramid's chronology does not accept that depth, because its dating of Pāṇini and the Vedic corpus is part of the same comparative-philological machinery already diagnosed as non-neutral.
 
 **Deployments:** Ch11 §11.1 (the Vedic-procedure-first setup).
 
@@ -5594,7 +5652,7 @@ These cases demonstrate authority-based preservation without equating preservati
 
 **Short:** Esperanto began from a deliberate plan, yet its speakers soon enlarged and selected its living usage. The *Fundamento de Esperanto* incorporated a *Universala Vortaro* of 2,768 foundational lexical "roots"; Zamenhof's own preface allowed new words to enter through use, and the first official lexical addition followed in 1909. Federico Gobbo therefore describes Esperanto as "almost naturalized" and records that actual usage changed with its speakers' communicative needs.
 
-**Deployments:** Ch2 §2.3 (Esperanto as a generative architecture undergoing vivification); Ch6 §6.4 (generativity separated from preservation); Ch12 §12.9 (vivification distinguished from vivimorphosis).
+**Deployments:** Ch2 §2.3 (Esperanto as a generative architecture undergoing vivification); Ch6 §6.4 (generativity separated from preservation); Ch19 §19.7 (vivification distinguished from vivimorphosis).
 
 The numerical comparison in the body requires two qualifications. First, Esperanto references classify their reusable affixes differently, so **about forty affixes** is more accurate than a single uncontested count. Second, these elements are not equivalent to Sanskrit *upasargāḥ*, and the 2,768 lexical units called "roots" in Esperanto lexicography are not Sanskrit *dhātavaḥ*. The comparison shows that a compact designed inventory can support extensive derivation; it does not establish identical architectures.
 
@@ -6215,7 +6273,7 @@ Keep **स्वाद् (*svād*)** as reserve if the prose needs a more immed
 
 **Short:** Two names describe one boundary process. From Sanskrit's side, the process is **अपभ्रंश (*apabhraṃśa*)** — falling away from the engineered *śabda*. From the receiving language's side, the same process is **vivimorphosis** — the engineered molecule acquiring organic behavior as a seed and then as an organic form in another language.
 
-**Deployments:** Chapter 12 §12.9; Chapter 19 §§19.7–19.8 when the worked examples (*mātṛ* → *mother*, *yuga* → *yoke*, *devaḥ* → Latin *deus*, *asuraḥ* → Avestan *ahura*) are developed.
+**Deployments:** Chapter 12 §12.7 provides the forward pointer; Chapter 19 §§19.7–19.8 own the boundary analysis and its worked examples (*mātṛ* → *mother*, *yuga* → *yoke*, *devaḥ* → Latin *deus*, *asuraḥ* → Avestan *ahura*).
 
 Chapter 6 establishes the Sanskrit-side term through Patañjali's *Paspaśāhnika*: *apaśabda* and *apabhraṃśa* denote the slipped or fallen-away form that leaves the correct *śabda*. From the contact-language side, the same event looks different. The Sanskrit form has fallen away from the calibrant architecture; in the receiving language, it can generate new words, enter new compounds, and become historically fertile.
 
@@ -6527,7 +6585,7 @@ The passage reads **आ द्विषतो वसु दत्ते, नि�
 
 **Short:** Ṛgveda 1.1.7 uses the first-person plural ***तिङ्-प्रत्यय (*tiṅ-pratyaya*, personal ending)*** **-मसि (*-masi*)** in **इमसि (*imasi*)**, where laukika Sanskrit uses **-मस् (*-mas*)**. The additional syllable completes the eight-syllable Gāyatrī *pāda*.
 
-**Deployment:** Appendix Part 8 §8.3.
+**Deployments:** Chapter 9 §9.8; Appendix Part 8 §8.3.
 
 The final *pāda* is **नमो भरन्त एमसि (*namo bharanta emasi*)**. The *padapāṭha* resolves **एमसि** as **आ + इमसि (*ā + imasi*)**. Its eight syllables are **na-mo bha-ran-ta e-ma-si**. Replacing **इमसि** with laukika **इमः (*imaḥ*)**, and therefore **एमसि** with **एमः (*emaḥ*)**, removes one syllable. Pāṇini documented the Vedic ending in Aṣṭādhyāyī 7.1.46, **इदन्तो मसि (*idanto masi*)**; the Kāśikā and Siddhānta Kaumudī cite **नमो भरन्त एमसि** as an example. Sources: Ṛgveda 1.1.7, Saṃhitā and *padapāṭha*; Aṣṭādhyāyī 7.1.46.
 
@@ -6568,6 +6626,18 @@ accented printed editions and the Ṛgveda-Prātiśākhya preserve.
 Sources: Ṛgveda 10.129.5 in an accented edition that preserves pluta;
 Ṛgveda-Prātiśākhya on the rare Ṛgvedic pluta forms; Aṣṭādhyāyī 1.2.27–28
 and 8.2.82–98 with Kāśikā.
+
+---
+
+### `vedic-social-sound-calibrant`
+
+**Short:** Children learn the sound distinctions of the languages around them through repeated exposure and social interaction. Vedic recitation can therefore keep Sanskrit's sound distinctions present in a child's audible surroundings even when that child does not enter a Vedic recitation lineage.
+
+**Deployment:** Chapter 9 §9.8, “The Vedas as the Pronunciation Calibrant.”
+
+The developmental finding is general. Research on infant speech perception shows that linguistic experience changes which phonetic contrasts infants distinguish during the first year of life. Janet F. Werker and Richard C. Tees documented this reorganization across native and non-native contrasts in “Cross-Language Speech Perception: Evidence for Perceptual Reorganization During the First Year of Life,” *Infant Behavior and Development* 7.1 (1984): 49–63. Patricia K. Kuhl, Feng-Ming Tsao, and Huei-Mei Liu later found that live social exposure to another language could preserve foreign-language phonetic discrimination in nine-month-old infants; recorded exposure without social interaction did not produce the same result. See “Foreign-Language Experience in Infancy: Effects of Short-Term Exposure and Social Interaction on Phonetic Learning,” *Proceedings of the National Academy of Sciences* 100.15 (2003): 9096–9101, DOI 10.1073/pnas.1532872100.
+
+The chapter applies that established principle to Vedic recitation as an architectural inference. Yajñas, weddings, and household rites bring Vedic sounds into the hearing of children beyond the specialist lineages. The claim remains bounded: social exposure keeps the sound distinctions familiar; it does not by itself produce exact Vedic recitation. Exact pronunciation still requires trained repetition, correction, and lineage discipline.
 
 ---
 

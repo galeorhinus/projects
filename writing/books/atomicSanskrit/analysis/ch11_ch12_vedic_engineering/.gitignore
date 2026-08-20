@@ -1,0 +1,8 @@
+# Derived index — regenerate with scripts/build_index.py from the vendored
+# DCS Ṛgveda CoNLL-U dump (analysis/ganah/data/raw/dcs/, itself gitignored).
+# ~31 MB and fully reproducible, so it is not tracked. Same convention as
+# analysis/ganah/.gitignore.
+rv_index.tsv
+codex/rv_index.tsv
+__pycache__/
+*.pyc

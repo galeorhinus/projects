@@ -62,7 +62,7 @@ The dharmic architecture is the exact opposite. Buddha's observation in the *Ass
 
 The Racial Arya Thesis has persisted despite the evidence pressing against it. Genetics, archaeology, and source criticism forced the old invasion story to change costume, but the concealment survived. The story moved from invasion to migration, from skulls to DNA, and from racial language to population language. Yet Sanskrit is still made to arrive from outside.
 
-The botanical metaphor remains because it continues the older asuric operation: *asat* uses **माया (*māyā*)** to hide *sat*. The metaphor makes Sanskrit appear to be a drifting natural language and conceals its created architecture. The Racial Arya Thesis then separates that architecture from the civilization that created and preserved it. Together, they hide the possibility that Sanskrit, the Vedas, and *saṃskṛti* preserve a prehistoric architecture of created order. This is the migration trap of Chapter 18 §18.6: movement is not authorship.
+The botanical metaphor serves an older asuric purpose. It allows *asat* to hide *sat* through **आसुरी माया (*āsurī māyā*)**. Chapter 2 explained the two actions within that method. **आवरण (*āvaraṇa*)** conceals Sanskrit's created architecture. **विक्षेप (*vikṣepa*)** presents a drifting natural language in its place. The Racial Arya Thesis repeats the pair. It conceals the civilization that created and preserved Sanskrit, then projects a foreign origin for the language. Together, these substitutions hide the possibility that Sanskrit, the Vedas, and *saṃskṛti* preserve a prehistoric architecture of created order.[NOTE: maya-concealment-projection] This is the migration trap of Chapter 18 §18.6: movement is not authorship.
 
 ## 3.3 Enclosure: The Theological Pillar
 
@@ -201,7 +201,7 @@ The verse uses ***आसुरः (*āsuraḥ*)***, which Sanskrit derives from 
 
 The *action* does.
 
-Svarbhānu pierces Sūrya with darkness, conceals his radiance, and leaves the worlds unable to find their field. The mantra describes the figure representing un-shining/darkness while he acts against radiance.
+Svarbhānu pierces Sūrya with darkness and leaves the worlds unable to recognize their surroundings. Chapter 2 gives the two parts of this action precise terms. **आवरण (*āvaraṇa*)** conceals Sūrya's radiance, while **विक्षेप (*vikṣepa*)** places darkness before the worlds. The Sun remains present throughout. The mantra describes a figure acting against radiance through un-shining and darkness.[NOTE: maya-concealment-projection]
 
 In what universe would anyone view Svarbhānu here as ***asu-ra***, the bearer of life-force, rather than ***a-sura***, the figure acting against radiance?
 

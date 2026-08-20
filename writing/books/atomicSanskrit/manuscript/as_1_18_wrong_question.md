@@ -95,6 +95,8 @@ The chapter's epigraph presents an epistemic inversion: the framework for recogn
 
 The Ṛgveda describes the wider tactic through hostile **माया (*māyā*)**. Vṛtra and Namuci are **मायिन् (*māyin*)**, figures who use concealment and deception, while Svarbhānu's *māyā* hides the Sun. These ***a-suras*** conceal what remains present and demand that others accept the concealment as reality.[NOTE: mayin-concealment-cluster]
 
+Gaslighting combines the two actions of *āsurī māyā*. **आवरण (*āvaraṇa*)** conceals what happened. **विक्षेप (*vikṣepa*)** projects a replacement account that the victim is expected to accept. Svarbhānu places darkness before the worlds; the gaslighter places a false account before the mind.[NOTE: maya-concealment-projection]
+
 Gaslighting can redirect memory without erasing it. The pyramid teaches India to remember Pāṇini incorrectly. It turns the decoder into a codifier and turns his documentation into the origin of the language. This redirects the civilization's reverence for one of its finest decoders toward the codification myth.
 
 Praise becomes a weapon here. The pyramid does not need to insult Pāṇini. It can praise him for the *wrong* act. By miscasting him as the codifier who created order, the pyramid trains the civilization to honor the codification myth instead of calibration. The memory remains reverent, but the pyramid has altered the object of reverence. That is gaslighting at civilizational scale.

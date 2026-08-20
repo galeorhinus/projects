@@ -178,23 +178,25 @@ By positing an imaginary people speaking an imaginary language built from imagin
 
 ### How Radiance Produces a Reflection
 
-Sanskrit's radiance moves outward when people carry something Sanskrit has generated or preserved. They may carry a word, an atom and its generated family, a directional operator, a sound arrangement, a method of grammatical analysis, or an entire discipline. Traders, teachers, physicians, astronomers, translators, and migrating communities carry different parts of that architecture along different routes. Chapter 20 follows those carriers and the surviving records of their movement.[NOTE: buddhist-asia-radiance]
+Sanskrit's radiance moves outward through people. A word may travel through trade. A method of grammatical analysis may travel through teaching. Medical and astronomical knowledge can carry Sanskrit words and procedures into another language through study and translation. Chapter 20 follows these carriers and the records left by their movement.[NOTE: buddhist-asia-radiance]
 
-The receiving community does not have to abandon its own language. Its speakers can learn from Sanskrit and then express what they received through their own sounds, grammar, and habits of speech. Language contact can transmit vocabulary, pronunciation, sentence patterns, and methods of analysis.[NOTE: thomason-kaufman-1988] Contact with Sanskrit adds one important fact: the source is an engineered calibrant whose own architecture remains available for comparison.
+The receiving community continues to speak its own language. Its speakers express what they received through their own sounds, grammar, and habits of speech. Contact between languages can transmit words, pronunciations, sentence patterns, and methods of analysis.[NOTE: thomason-kaufman-1988] In this case, the source is an engineered calibrant whose complete architecture remains available for comparison.
 
-This book calls that encounter **calibrant contact**. Radiance names the outward movement that brings Sanskrit to the encounter. The receiving mind retains something from that encounter as **बीज (*bīja*)**, a seed. **Vivimorphosis** begins when the receiving language gives that seed a form of its own. The resulting word, pattern, or method is a **प्रतिबिम्ब (*pratibimba*)**, a reflection of Sanskrit reshaped inside another language.
+This book calls that encounter **calibrant contact**. Radiance brings Sanskrit to the encounter. The listener retains something from it as **बीज (*bīja*)**, a seed. When the listener expresses that seed through another language, the receiving language gives it a new sound-form and grammatical life. This book calls that change **vivimorphosis**. The result is a **प्रतिबिम्ब (*pratibimba*)**, a reflection of Sanskrit reshaped within another language.
 
-The five terms describe successive parts of the same movement:
+The complete movement can therefore be written as:
 
 > **Sanskrit's radiance → calibrant contact → बीज (*bīja*) → vivimorphosis → प्रतिबिम्ब (*pratibimba*)**
 
-Chapter 12 §12.9 explains what happens at the boundary between Sanskrit and the receiving language. This section follows what happens afterward. The reflection can continue changing and generating inside its new language, while Sanskrit preserves the form or architecture from which the movement began.
+The same boundary has two descriptions. From Sanskrit's side, **अपभ्रंश (*apabhraṃśa*)** describes the distance between the receiving form and the calibrated **शब्द (*śabda*)**. From the receiving language's side, **vivimorphosis** describes how that *śabda* acquires organic behavior among new speakers.[NOTE: apabhramsa-vivimorphosis-boundary] The resulting **अपशब्द (*apaśabda*)** can drift, generate further words, and enter new compounds in the receiving language. Sanskrit continues to preserve the calibrated *śabda* from which that movement began.
+
+Chapter 12 follows Sanskrit's internal construction through the completed word and sentence. The boundary crossing belongs here because botanical change begins after a Sanskrit form enters a natural language and starts changing with its new speakers.
 
 ![Figure 19.6 — Radiance Falsified as Ancestry. Sanskrit reaches other speech communities through real carriers. Each community produces its own reflection; the pyramid gathers those reflections and deliberately presents PIE as their imaginary parent.](figures/pie_in_sky/radiance_falsified_as_ancestry.svg){#fig:ch19-radiance-ancestry width=100%}
 
 ### Words and Atoms Become Seeds
 
-The *mother* family shows those five parts in one familiar example:
+The *mother* family shows that movement through one familiar example:
 
 > **⟪मा⟫ (*mā*, *dhātuḥ* "to measure") →**  
 > **मातृ (*mātṛ*, *śabda* — "the measurer, mother") →**  
@@ -203,11 +205,11 @@ The *mother* family shows those five parts in one familiar example:
 >
 > *atom → molecule → seed → sprout — life begins*
 
-The *mother* family applies the movement established in Chapter 12. Sanskrit provides the atom and the generated molecule. A receiving language gives the seed its own sound-form, and that form begins an organic life as an **अपशब्द (*apaśabda*)**. Indo-European philology begins with the resulting forms and treats them as descendants of a reconstructed ancestor.
+The *mother* family begins with the construction established in Chapter 12. Sanskrit provides the atom and the generated molecule. Listeners retain the molecule as a seed, and their languages give that seed new sound-forms. Those forms begin an organic life as **अपशब्दाः (*apaśabdāḥ*)**. Indo-European philology begins with the resulting forms and treats them as descendants of a reconstructed ancestor.
 
 ![Figure 19.7 — The Vivimorphosis of ⟪स्था⟫ (*sthā*). From engineered Sanskrit molecules to an organic tree in the receiving languages.](figures/pie_in_sky/stha_vivimorphosis.svg){#fig:ch19-stha-vivimorphosis width=100%}
 
-Figure 19.7 preserves the category boundary. The hexagons on the left are engineered Sanskrit molecules built from ⟪स्था⟫ (*sthā*). The tree begins only after those molecules enter receiving languages and take organic life there. Its trunk and branches belong to the receiving side; they do not depict Sanskrit's architecture.
+In Figure 19.7, the hexagons on the left are engineered Sanskrit molecules built from ⟪स्था⟫ (*sthā*). The tree begins after those molecules enter receiving languages and acquire organic life there. Its trunk and branches show what happens within the receiving languages.
 
 The same pattern appears in *devaḥ*:
 
@@ -231,17 +233,19 @@ The ⟪स्था⟫ and ⟪दिव्⟫ families are part of a much larger
 | **⟪भृ⟫ (*bhṛ*)** — bear, carry | **\*bʰer-** | Latin *ferre* → *transfer, refer, confer, fertile*; Greek *pherein* → *metaphor, phosphorus, euphoria* |
 | **⟪मा⟫ (*mā*)** — measure | **\*meh₁-** | Latin *mētīrī* → *measure, dimension, immense*; Greek *metron* → *metre, geometry, symmetry* |
 
-Greek, Latin, and the Germanic languages received these seeds and used them to generate new words and compounds. Each receiving language then drifted through its own use. Because none remained in active calibration with Sanskrit, that drift increased its divergence from the complete architecture reflected in its earlier forms. The semantic reach of the Sanskrit atom nevertheless remains recognizable across the canopy. Vivimorphosis therefore explains both sides of the contact: Sanskrit's radiance endows the receiving language, and the receiving language turns that endowment into organic growth.
+Greek, Latin, and the Germanic languages received these seeds and used them to generate new words and compounds. Each language then drifted through its own use. Because they did not remain in active calibration with Sanskrit, their forms continued to diverge from the Sanskrit words that had reached them. The earlier forms nevertheless preserve recognizable parts of the Sanskrit atom's meanings. Vivimorphosis describes how the receiving language turns Sanskrit's radiance into organic growth of its own.
 
 ### The Pyramid Reverses the Movement
 
 The PIE account reverses the direction shown in Figures 19.6 and 19.7. It begins with organic forms in the receiving languages, groups their correspondences, and reconstructs a botanical parent behind them. The pyramid then reads those vivimorphosed descendants as evidence for that parent and makes Sanskrit descend from the reconstruction. Through that reversal, the engineered source becomes one daughter branch beneath an imaginary ancestor assembled from reflected forms.
 
-Both accounts examine the same correspondences. The descent account interprets them as inheritances from an unrecorded parent, while the calibrant account traces them outward from a recorded Sanskrit atom and the molecules it generates. Those directions also produce an evidentiary difference. The calibrant account begins with an architecture whose sounds, atoms, rules, and generated forms remain available for examination; the descent account begins with a reconstructed form inferred from the correspondences it is then used to explain.
+The pyramid repeats Svarbhānu's *māyā* when it writes the history of Sanskrit. **आवरण (*āvaraṇa*)** conceals Sanskrit's outward radiance and the real people who carried it. **विक्षेप (*vikṣepa*)** projects PIE as the source of the reflections that radiance created. Sanskrit remains present, like the Sun, while the projected ancestor stands between the language and the reader.[NOTE: maya-concealment-projection]
+
+The two accounts send the same similarities in opposite directions. The pyramid treats them as inheritances from an unrecorded parent. The Radiance Thesis traces them outward from recorded Sanskrit atoms and the molecules those atoms generate. Sanskrit's sounds, atoms, procedures, and generated forms remain available for examination. The reconstructed parent exists only because philologists inferred it from the similarities they then used it to explain.
 
 ### A Repeatable Radiance Map
 
-Figure 19.7 showed how vivimorphosis carried molecules built from ⟪स्था⟫ into receiving languages, where they became botanical. The same analysis can be repeated for other Sanskrit atoms. The **Sanskrit Radiance Mapping Project** begins with a starred PIE image, places every recorded form beside the Sanskrit family, and then compares their sounds and meanings through Indic methods.
+The same analysis can be repeated for other Sanskrit atoms. The **Sanskrit Radiance Mapping Project** begins with a starred PIE image, places every recorded form beside the Sanskrit family, and then compares their sounds and meanings through Indic methods.
 
 The yoke family provides a compact demonstration:
 

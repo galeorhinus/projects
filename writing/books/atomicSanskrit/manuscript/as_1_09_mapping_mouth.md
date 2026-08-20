@@ -205,6 +205,20 @@ Figure 9.10 lays out the complete calculation. Each square represents one combin
 
 Pitch does not create the excluded duration positions in the table. It can accompany any duration that a family already permits. A short vowel can bear *svarita*; a *svarita* does not need two *mātrās*. Similarly, *pluta* extends duration without becoming another vowel family. Ṛgveda 10.129.5 makes the distinction audible through **आसी३त् (*āsī3t*)**, where the numeral marks the three-*mātrā* duration selected by the passage.[NOTE: vedic-pluta-rv-10-129-5]
 
+### The Vedas as the Pronunciation Calibrant
+
+A society does not require every child to become a Vedic student for the Vedas to serve as its sound calibrant. The recitation lineages preserve the calibrant exactly. Yajñas, weddings, household rites, and other occasions bring that calibrant into the hearing of the wider society.
+
+Children present at these occasions hear Vedic recitation long before they study Sanskrit grammar. Some may later learn the Vedas. Many may not. Whether or not they enter a Vedic lineage, they hear Sanskrit's sounds produced in a living setting. They hear dental and retroflex contact, light and heavy breath, short and long vowels, nasal resonance, and the rise and fall of Vedic pitch.[NOTE: vedic-social-sound-calibrant]
+
+Children learn the sounds of a language by hearing the speech around them and attempting to reproduce it. The ear first becomes familiar with recurring distinctions. When the child imitates those distinctions, the tongue, breath, throat, and lips begin learning the movements that produce them.
+
+Exact recitation requires lineage training, repetition, and correction. Wider social exposure serves another purpose: it keeps the pronunciation calibrant audible beyond the recitation lineage. A child who later studies *laukika* Sanskrit has already encountered many of its sounds.
+
+The effect remains available to an adult listener. Someone familiar with Sanskrit pronunciation does not merely hear a sequence of sounds during Vedic recitation. The mind can follow what the tongue, breath, throat, palate, and lips must do to produce them. The recitation reconnects each audible sound with the action of the body that creates it.
+
+The Vedas therefore operate as a distributed calibrant. The lineages preserve the exact sound; the wider society continues to hear it. Chapters 11 and 12 show how the words and sentences preserved by the same Vedic calibrant also calibrate *laukika* grammar.
+
 ## 9.9 The Sound Volume
 
 The consonant grid and the vowel row can now be combined into a three-dimensional sound model.

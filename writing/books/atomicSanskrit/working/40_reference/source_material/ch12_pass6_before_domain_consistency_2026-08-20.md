@@ -4,11 +4,17 @@
 
 ::: epigraph
 
-> यस्तन्न वेद किमृचा करिष्यति ।
+> ऋचो अक्षरे परमे व्योमन्\
+> यस्मिन्देवा अधि विश्वे निषेदुः ।\
+> यस्तन्न वेद किमृचा करिष्यति\
+> य इत्तद्विदुस्त इमे समासते ॥
 >
-> *yas tan na veda kim ṛcā kariṣyati |*
+> *ṛco akṣare parame vyoman*\
+> *yasmin devā adhi viśve niṣeduḥ |*\
+> *yas tan na veda kim ṛcā kariṣyati*\
+> *ya it tad vidus ta ime sam āsate ||*
 >
-> `\hfill`{=latex}*— Ṛgveda 1.164.39c*
+> `\hfill`{=latex}*— Ṛgveda 1.164.39*
 
 :::
 
@@ -18,11 +24,11 @@
 
 Chapter 11 followed a *dhātuḥ* into a completed verb. A sentence needs more than a verb. Sanskrit must also form words for the actor, the recipient, the instrument, the place, the object, and every other participant in the action. It must then tell the listener how those words relate to one another.
 
-The epigraph demonstrates several steps that this chapter will examine.[NOTE: rigveda-1-164-39-akshara-assembly] **करिष्यति (*kariṣyati*)**, *will do*, is a completed verb formed from ⟪कृ⟫ (*kṛ*). **ऋचा (*ṛcā*)** is a completed form of **ऋच् (*ṛc*)**, a Vedic verse, with an ending that gives it the instrumental relation: *with the ṛc* or *through the ṛc*. **यः (*yaḥ*)** identifies the person being discussed, **तत् (*tat*)** identifies what that person does not know, and **किम् (*kim*)** asks what that person will do.
+The epigraph demonstrates every step that this chapter will examine.[NOTE: rigveda-1-164-39-akshara-assembly] **करिष्यति (*kariṣyati*)**, *will do*, is a completed verb formed from ⟪कृ⟫ (*kṛ*). **ऋचा (*ṛcā*)** is a completed form of **ऋच् (*ṛc*)**, a Vedic verse, with an ending that gives it the instrumental relation: *with the ṛc* or *through the ṛc*. **यस्मिन् (*yasmin*)** carries a locative relation, while **यः (*yaḥ*)** and **तत् (*tat*)** connect the person being discussed with what that person does not know.
 
 Each word in the epigraph carries grammatical information in its ending. The listener does not have to guess whether **ऋचा** names the actor, the object, or the instrument. Its ending identifies the relation.
 
-The sentence also retains its smaller constructions. **करिष्यति** retains ⟪कृ⟫ and the material that gives the verb its future form. **ऋचा** retains **ऋच्** and the ending that prepares it for sentence use. Each atom retains its sonomers.
+The larger sentence also retains its smaller constructions. **करिष्यति** retains ⟪कृ⟫ and the material that gives the verb its future form. **ऋचा** retains **ऋच्** and the ending that prepares it for sentence use. Each atom retains its sonomers.
 
 This chapter follows that construction in three steps. First, a *dhātuḥ* becomes several kinds of words. Second, an ending prepares each word for a particular sentence relation. Third, the completed words join as a **वाक्यम् (*vākyam*)**, a sentence.
 
@@ -38,12 +44,12 @@ Four Rigvedic passages preserve these forms:[NOTE: vedic-kr-derived-family]
 
 | Vedic form | Passage | What the form expresses |
 |---|---|---|
-| **कृतम् (*kṛtam*)** | RV 3.29.1b | something done or completed |
+| **कर्त्वम् (*kartvam*)** | RV 1.10.2b | something to be done |
 | **कर्मणः (*karmaṇaḥ*)** | RV 1.11.4c | *of the deed or action* — *ṣaṣṭhī ekavacanam*, genitive singular |
 | **कर्तृभिः (*kartṛbhiḥ*)** | RV 1.55.8c | *by the doers or makers* — *tṛtīyā bahuvacanam*, instrumental plural |
 | **संस्कृतम् (*saṃskṛtam*)** | RV 5.76.2a | something prepared or brought to completion |
 
-The first three forms change what kind of idea the atom expresses. **कर्म (*karma*)** expresses the deed. **कर्तृ (*kartṛ*)** expresses the doer. **कृत (*kṛta*)** describes something done or completed. The atom ⟪कृ⟫ remains identifiable in each one. The material joined to it determines the kind of word that results.
+The first three forms change what kind of idea the atom expresses. **कर्म (*karma*)** expresses the deed. **कर्तृ (*kartṛ*)** expresses the doer. **कर्त्व (*kartva*)** expresses what is to be done. The added material does not replace ⟪कृ⟫. It gives the atom a new grammatical and semantic form.
 
 Sanskrit calls such added material a **प्रत्ययः (*pratyayaḥ*)**, a suffix. This book calls it a **tail-bond** because it joins after the atom. A different tail-bond can turn the same atom into an action, an agent, an obligation, or another kind of word.
 
@@ -53,9 +59,15 @@ Functionally, the form contains **सम् (*sam*)**, ⟪कृ⟫ (*kṛ*), th
 
 The Vedic passage uses **संस्कृतम्** for something prepared or brought to completion. Here the word functions as a completed grammatical form, not as the proper name of the language. The Veda therefore preserves *sam* joining before ⟪कृ⟫ while other material completes the word after it.[NOTE: rigveda-5-76-2-samskrtam]
 
-RV 5.76.2a preserves **संस्कृतम्** inside a completed Vedic sentence. That line also contains forms that belong to the additional grammatical range of the *vaidika* domain. Chapter 16 and Appendix Part 8 discuss those designed differences separately.
+The line containing it also preserves several dual forms:
 
-The four forms in the table demonstrate how one atom can produce several kinds of words through operations shared by the *vaidika* and *laukika* domains. They also show material joining before and after the atom, followed by endings that prepare the completed words for different sentence relations.
+> न । **संस्कृतम्** । प्र । मिमीतः । गमिष्ठा ।
+>
+> *na |* ***saṃskṛtam*** *| pra | mimītaḥ | gamiṣṭhā* |
+>
+> RV 5.76.2a
+
+These Vedic forms demonstrate how one atom can produce several kinds of words. They also show material joining before and after the atom, followed by endings that prepare the completed words for different sentence relations.
 
 ![Figure 12.2 — Ch12 visual key: atom, head-bond, tail-bond, role-ending, nasal consonant, visarga, and half-*mātrā* ruler.](figures/building_vakya/visual_key.svg){#fig:building-vakya-visual-key width=100%}
 
@@ -69,15 +81,12 @@ Sanskrit calls the nominal role-ending a **विभक्तिः (*vibhakti�
 
 A completed verb carries corresponding information through a **तिङ्-प्रत्ययः (*tiṅ-pratyayaḥ*)**. Chapter 11 showed endings that distinguish who acts, how many act, and how the speaker presents the action.
 
-The following Rigvedic line gives a compact example:
+The opening mantra of the Ṛgveda gives a familiar comparison:
 
-> अग्निः । देवेषु । राजति ।
->
-> *agniḥ | deveṣu | rājati* |
->
-> RV 5.25.4a
+> अग्निमीळे पुरोहितं यज्ञस्य देवमृत्विजम् ।
+> होतारं रत्नधातमम् ॥
 
-**अग्निः (*agniḥ*)** identifies the actor. **देवेषु (*deveṣu*)** identifies the group among whom the action occurs. **राजति (*rājati*)** describes the action performed by one actor. The ending of each word prepares it for that particular role in the sentence.
+**अग्निम्, पुरोहितम्, देवम्, ऋत्विजम्,** and **होतारम्** share the accusative singular ending because they refer to Agni within the same grammatical relation. **यज्ञस्य** carries the genitive singular relation, *of the yajña*. **ईळे** tells the listener that the speaker performs the action. The mantra does not depend on one fixed sequence alone to identify these relationships. The completed forms carry the relationships within them.
 
 The *śabdaḥ* expresses meaning. The *padam* carries that meaning into a sentence with its grammatical role attached.
 
@@ -85,11 +94,18 @@ The *śabdaḥ* expresses meaning. The *padam* carries that meaning into a sente
 
 The Rigveda preserves many kinds of sentences. Two passages can demonstrate the range without turning this chapter into a complete parsing manual.
 
-### A Question About Future Action: RV 1.164.39c
+### Relations Across Several Clauses: RV 1.164.39
 
 Return to the epigraph:
 
-> यस्तन्न वेद किमृचा करिष्यति ।
+> ऋचो अक्षरे परमे व्योमन्\
+> यस्मिन्देवा अधि विश्वे निषेदुः ।\
+> यस्तन्न वेद किमृचा करिष्यति\
+> य इत्तद्विदुस्त इमे समासते ॥
+
+The first two lines establish location. **अक्षरे (*akṣare*)**, **परमे (*parame*)**, **व्योमन् (*vyoman*)**, and **यस्मिन् (*yasmin*)** carry locative relations. The plural **देवाः (*devāḥ*)** identifies the actors who **निषेदुः (*niṣeduḥ*)**, *sat down or took their places*.
+
+The next two lines compare knowing and not knowing. **वेद (*veda*)** is singular: *one knows*. **विदुः (*viduḥ*)** is plural: *they know*. Both come from ⟪विद्⟫ (*vid*), *to know*. The changed endings allow the same atom to serve two different grammatical positions within the verse.
 
 The line **यस्तन्न वेद किमृचा करिष्यति** can be separated as follows:
 
@@ -105,39 +121,41 @@ The line **यस्तन्न वेद किमृचा करिष्य
 
 The sentence means: *What will one who does not know that do with the ṛc?*
 
-The question combines a relative pronoun, a demonstrative pronoun, a negation, an interrogative pronoun, an instrumental relation, and a future verb. Each completed form performs the same grammatical function in the *vaidika* and *laukika* domains.
+The passage also preserves two separated *upasargāḥ*. **अधि (*adhi*)** stands apart from **निषेदुः**, and **सम् (*sam*)** stands apart from **आसते**. The *vaidika* domain permits that wider placement inside an invariant passage. Chapter 16 and Appendix Part 8 explain why the read-only domain can preserve this freedom while the *laukika* domain binds *upasargāḥ* more tightly during new composition.
 
-Appendix Part 7 §7.4 parses the complete stanza and records the additional Vedic placement preserved in its other lines.
+Several clauses join inside this sentence, but each clause retains the grammatical information needed to understand it. The nominal endings identify the relations among the words. The verbal endings distinguish singular from plural and present from future. The pronouns connect one clause with another.
 
 ![Figure 12.3 — Full sonomeric sentence experiment: यस्तन्न वेद किमृचा करिष्यति.](figures/building_vakya/sentence_full_hex.svg){#fig:building-vakya-sentence-full-hex width=100%}
 
-### Several Relations in One Sentence: RV 2.23.1ab
+### A Different Grammatical Range: RV 7.81.4
 
-The next example invokes Bṛhaspati:
+The next example addresses Uṣā:
 
-> गणानां त्वा गणपतिं हवामहे\
-> कविं कवीनामुपमश्रवस्तमम् ।
+> उच्छन्ती या कृणोषि मंहना महि\
+> प्रख्यै देवि स्वर्दृशे ।\
+> तस्यास्ते रत्नभाज ईमहे वयं\
+> स्याम मातुर्न सूनवः ॥
 >
-> *gaṇānāṃ tvā gaṇapatiṃ havāmahe*\
-> *kaviṃ kavīnām upamaśravastamam* |
+> *ucchantī yā kṛṇoṣi maṃhanā mahi*\
+> *prakhyai devi svar dṛśe |*\
+> *tasyās te ratnabhāja īmahe vayaṃ*\
+> *syāma mātur na sūnavaḥ ||*
 
-The pronoun **त्वा (*tvā*)**, *you*, identifies the person toward whom the action is directed.[NOTE: rigveda-2-23-1-vakya] **गणपतिम् (*gaṇapatim*)**, **कविम् (*kavim*)**, and **उपमश्रवस्तमम् (*upamaśravastamam*)** carry the same accusative singular relation and describe that same person.
+This mantra addresses Uṣā through several grammatical forms working together.[NOTE: rigveda-7-81-4-vakya] **उच्छन्ती (*ucchantī*)**, *rising*, is a participial form describing Uṣā. **या (*yā*)**, *she who*, connects that description to **कृणोषि (*kṛṇoṣi*)**, *you make or do*. The ending of **कृणोषि** marks one person being addressed.
 
-**गणानाम् (*gaṇānām*)** and **कवीनाम् (*kavīnām*)** carry *ṣaṣṭhī bahuvacanam*, the genitive plural relation: *of the groups* and *of the poets or seers*. Their endings connect each description to the larger group associated with it.
+**मंहना (*maṃhanā*)** carries *tṛtīyā ekavacanam*, the instrumental singular relation. **देवि (*devi*)** is *sambodhanam*: the speaker addresses the radiant feminine presence directly. **प्रख्यै (*prakhyai*)** and **दृशे (*dṛśe*)** are infinitival forms concerned with appearing and seeing.
 
-**हवामहे (*havāmahe*)** marks first-person plural: *we invoke*. **गणपतिम्** also demonstrates compounding. It joins **गण (*gaṇa*)**, a group, with **पति (*pati*)**, a protector or leader, before the completed compound receives its sentence ending.
+The final two lines change the actors again. **ईमहे (*īmahe*)** marks first-person plural: *we seek or ask*. **स्याम (*syāma*)** expresses the speakers' wish: *may we be*. The compound **रत्नभाजः (*ratnabhājaḥ*)** joins **रत्न (*ratna*)**, treasure, with a form concerned with sharing or receiving a portion. Its parts remain identifiable inside the compound.
 
-The sentence brings a pronoun, several accusative forms, two genitive plurals, a compound, and a first-person plural verb together. A student trained in *laukika* Sanskrit can identify every one of these operations. The Vedic line therefore serves as a grammatical example for the shared architecture rather than as an example of the differences between the domains.
+One mantra therefore combines a participle and two infinitives with several completed verbs. One verb addresses Uṣā, another includes the speakers, and a third expresses what they wish to become. The instrumental ending, direct address, pronouns, and compound establish the remaining relationships. All of these forms work together to express one complete thought.
 
-Appendix Part 7 §7.3 parses the complete mantra.
+The full parsing of this mantra belongs in Appendix Part 7. RV 6.52.2, RV 4.24.10, and RV 7.85.3 add further examples of participles, commands, case relations, **-aya-** extension, and sentence structure.
 
-## 12.5 Encoded Relations Permit Free Word Order
+## 12.5 Encoded Relations Allow Flexible Order
 
-Chapter 11 showed how a completed verb identifies whether the action belongs to the speaker, the person addressed, or someone being described. Its ending also identifies the number. The other *padāni* carry endings that identify their own roles in the sentence. Because each word carries its grammatical relation, a Sanskrit composer can change their order without losing the structure of the sentence.
+Sanskrit can vary word order because each *padam* carries information about its own role. The architecture does not make every sequence equally clear or equally elegant. It gives a composer room to arrange words for emphasis, meter, sound, and poetic form without forcing the listener to identify every relation from position alone.
 
-Free word order does not mean that every word can occupy every position. Some short particles follow specific placement rules. The nouns and verbs in the example below can move because their endings continue to identify their grammatical relations.
-
-Return to the Rigvedic line introduced in §12.3:
+A short Rigvedic line demonstrates the distinction:
 
 > अग्निः । देवेषु । राजति ।
 >
@@ -161,23 +179,19 @@ or:
 
 The emphasis changes with the order. In every arrangement, the endings still tell the listener that **अग्निः** is the actor and **देवेषु** identifies the location or group. The ending of **राजति** identifies a verb describing one actor.
 
-The Vedas use free word order as part of their preservation architecture. In English, changing *Rama sees Sita* to *Sita sees Rama* reverses the actor and object because position carries part of the grammar. Sanskrit places those relations inside the completed words. A mantra can therefore place its words where ***छन्दस् (*chandas*)***, emphasis, and resonance require while their endings keep the grammatical relations clear.
+The two domains use this freedom differently. The Vedic mantra is read-only, so its received order does not change. The *laukika* domain is read-write, so a poet or speaker can select an order while composing a new sentence. Both domains use the same role-bearing *padāni*.
 
-The Vedas use this freedom extensively. Once a mantra was seen, however, its lineage received one specific arrangement and transmitted it without changing the order. The freedom shaped the arrangement preserved in the mantra. Exact transmission then kept that arrangement intact.
-
-This design connects Sanskrit's grammar directly to ***संस्कृति (*saṃskṛti*)***. Chapter 0 explained why *sat* requires long-term civilizational memory: every age must learn to recognize *asat* when it returns in another form. The Vedas carry that memory through the actions of their protagonists and antagonists. Sanskrit's free word order helps place those lessons into meter and resonant sound without sacrificing grammatical clarity. The resulting mantras can be remembered, recited, heard, and corrected across generations.
-
-The *laukika* domain keeps the same freedom available for new composition. A poet or speaker can select a new order for emphasis, meter, sound, or poetic form. The Vedic mantra retains its received order, while each new *laukika* composition can select the order that serves its purpose.
+Flexible word order also helps a poet meet the meter. The poet can choose among several grammatically clear arrangements while fitting the required number and duration of syllables. The endings continue to guide the listener through the sentence.
 
 ## 12.6 Pāṇini Made the Sentence Analysis Explicit
 
 The Vedic passages already contain the grammatical relations. Pāṇini's documentation gives a learner precise terms and procedures for analyzing them.
 
-The completed nominal ending belongs to **विभक्तिः (*vibhaktiḥ*)**. The relation between an action and its participants is analyzed through **कारकम् (*kārakam*)**. The completed verbal ending belongs to **तिङ् (*tiṅ*)**. These categories allow a learner to explain why **ऋचा** functions as an instrument, why **देवेषु** identifies a location or group, and why **हवामहे** includes several speakers.
+The completed nominal ending belongs to **विभक्तिः (*vibhaktiḥ*)**. The relation between an action and its participants is analyzed through **कारकम् (*kārakam*)**. The completed verbal ending belongs to **तिङ् (*tiṅ*)**. These categories allow a learner to explain why **ऋचा** functions as an instrument, why **देवेषु** identifies a location or group, and why **कृणोषि** addresses one actor while **ईमहे** includes several speakers.
 
 Vedic caretakers transmitted these completed sentences before this chapter separated their grammatical parts. Earlier *vaiyākaraṇāḥ* examined Sanskrit, and Pāṇini documented the recurring relations with unmatched precision. His documentation allows later learners to derive a form step by step and check their analysis against preserved usage.
 
-The Vedic sentences already contain the completed forms. The locative ending in **देवेषु**, the instrumental ending in **ऋचा**, and the verbal ending in **हवामहे** already perform their grammatical functions within them. The *Aṣṭādhyāyī* explains how Sanskrit forms these endings and how each one functions.
+The Vedic sentences already contain the completed forms. The locative ending in **देवेषु**, the instrumental ending in **ऋचा**, and the verbal ending in **कृणोषि** already perform their grammatical functions within them. The *Aṣṭādhyāyī* explains how Sanskrit forms these endings and how each one functions.
 
 ## 12.7 The Calibrant Enables *Laukika* Generativity
 

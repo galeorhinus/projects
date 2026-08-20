@@ -30,6 +30,8 @@ As nations resisted Abrahamic, racial, and colonial formations, the pyramid rest
 
 Three Abrahamic religions openly identify themselves as religions. The fourth uses the same pyramidal architecture but succeeds precisely because it cloaks itself in secular language. It packages racism as anthropology, teleology as history, and theology as objective science, hiding its dogma behind the mask of academia.[NOTE: secular-packaging-three-transformations]
 
+This change of clothing repeats the two actions of *āsurī māyā* introduced in Chapter 2. **आवरण (*āvaraṇa*)** conceals the inherited dogma. **विक्षेप (*vikṣepa*)** projects a replacement vocabulary that appears secular, rational, and scientific. The doctrine remains, but the new vocabulary prevents the observer from recognizing it.[NOTE: maya-concealment-projection]
+
 Judaism built the foundation. The pyramid adapted that original dogma and forced it upon the world through Christianity and Islam. Each iteration preserved the structural template it inherited: a chosen community, an authorized doctrine, a rigid boundary between insider and outsider, an obligation to expand, and a history moving toward a promised end. The doctrines changed. The pyramid restructured.[NOTE: four-iterations-architectural-mapping]
 
 Progressivism inherited the template wholesale: it discarded the religious vocabulary and kept the religious machinery.
