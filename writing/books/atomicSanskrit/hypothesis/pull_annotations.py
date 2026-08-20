@@ -73,12 +73,46 @@ def normalize(annotation: dict, group_name: str) -> dict:
     }
 
 
+def load_suggested_tags() -> dict[str, list[str]]:
+    """id -> suggested_tags from the CURRENT snapshot, before it gets
+    overwritten below. auto_tagger.py writes suggested_tags locally for
+    every third-party annotation it classifies (Hypothesis will never
+    let this token PATCH someone else's annotation, so there's no
+    server-side tag to persist the verdict the way there is for the
+    owner's own annotations -- see auto_tagger.py's module docstring).
+    normalize() below builds a fresh dict straight from the raw API
+    response, which has no such field, so writing that dict out wholesale
+    silently discarded every suggestion on every single pull.
+
+    Found live 2026-08-19, from the question "why are the AI agent
+    amounts getting used up although there are no new annotations": with
+    pull_annotations.py running before auto_tagger.py on the same
+    15-minute cron cycle (refresh_dashboard.sh), every third-party
+    annotation's suggestion vanished on this step, before auto_tagger.py
+    ever got to check it -- annotation.get("suggested_tags") came back
+    empty, needs_tagging() read that as "never classified", and the SAME
+    67 reader annotations got re-sent to Claude Haiku on every cycle,
+    forever, regardless of whether anything was actually new. cron.log
+    showed some individual annotation ids classified 320+ times over --
+    roughly 21,000+ wasted API calls from this one gap, not from new
+    reader activity at all."""
+    if not ANNOTATIONS_PATH.exists():
+        return {}
+    try:
+        old = json.loads(ANNOTATIONS_PATH.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return {}
+    return {a["id"]: a["suggested_tags"] for a in old if a.get("suggested_tags")}
+
+
 def main() -> int:
     try:
         client = HypothesisClient()
     except HypothesisError as e:
         print(f"ERROR: {e}", file=sys.stderr)
         return 1
+
+    carried_suggestions = load_suggested_tags()
 
     try:
         groups = client.profile_groups()
@@ -106,6 +140,16 @@ def main() -> int:
         all_annotations.extend(normalize(a, gname) for a in rows)
 
     all_annotations.sort(key=lambda a: a["created"])
+
+    carried = 0
+    for a in all_annotations:
+        prior = carried_suggestions.get(a["id"])
+        if prior:
+            a["suggested_tags"] = prior
+            carried += 1
+    if carried:
+        print(f"Carried forward {carried} previously-suggested tag set(s) "
+              f"(would otherwise be re-classified by auto_tagger.py for no reason)")
 
     DATA_DIR.mkdir(exist_ok=True)
     ANNOTATIONS_PATH.write_text(
