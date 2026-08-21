@@ -88,7 +88,7 @@ them. They have first claim on figure-production time.
 |---|---|---|---|---|---|---|---|
 | P0 | **14.2** | Six-Layer Calibration Matrix | `as_1_14_calibration.md` §14.1 | Placeholder | Body placeholder and calibration discussion | `figures/calibration/six_layer_calibration_matrix.svg` | Convert the six layers and transversal Śikṣā role into a source-ready specification, then build. |
 | P0 | **18.1** | The Architectural Test | `as_1_18_wrong_question.md` opening | **Deployed 2026-08-08** | Chapter 18 §§18.1–18.3 | `figures/wrong_question/architectural_test.svg` | Complete. Six-row comparison rendered and the body number corrected. |
-| P1 | **19.7** | PIE Reconstructions and Vivimorphosis Chains | `as_1_19_pie_in_sky.md` §19.8 | Placeholder | Body placeholder; Sanskrit Radiance mapping work | `figures/pie_in_sky/pie_vivimorphosis_comparison.svg` | Reconcile with the yuj mapping method and avoid repeating Figures 19.2–19.6. |
+| P1 | **19.9** | PIE Reconstructions and Vivimorphosis Chains | `as_1_19_pie_in_sky.md` §19.8 | Placeholder | Body placeholder; Sanskrit Radiance mapping work | `figures/pie_in_sky/pie_vivimorphosis_comparison.svg` | Reconcile with the yuj mapping method and avoid repeating Figures 19.2–19.8. |
 | P1 | **20.1** | The Mitanni Sanskritic Layer | `as_1_20_life_after_pie.md` opening | Placeholder | Body placeholder | `figures/life_after_pie/mitanni_sanskritic_layer.svg` | Verify final table copy and render. |
 | P2 | **20.2** | Wave 2 Catalog of Methodological Metatypy | `as_1_20_life_after_pie.md` §20.2 | Placeholder | Body placeholder | `figures/life_after_pie/wave_2_methodological_metatypy.svg` | Decide whether the evidence table needs a figure or should remain a typeset table. |
 | P1 | **20.3** | Calibrant Waves and Diasporic Wave | `as_1_20_life_after_pie.md` §20.4 | Placeholder | Body placeholder and radiance plans | `figures/life_after_pie/calibrant_waves.svg` | Reframe all waves as carriers of Sanskrit's radiance, then build. |
@@ -214,7 +214,7 @@ duplicating every caption. The live figure calls remain the detailed register.
 | Chapter 14 | 2 | `figures/calibration/` | Figures 14.1 and 14.3; Figure 14.2 remains a placeholder. |
 | Chapter 16 | 1 | `figures/vaidika_laukika/` | Figure 16.1 shows the shared svara architecture under two domain permissions. |
 | Chapter 17 | 1 | `figures/adivadya/` | Mūrdhanya flex. |
-| Chapter 19 | 7 | `figures/pie_in_sky/` | Figures 19.1–19.7; Figure 19.8 remains a placeholder. Figure 19.6 presents the complete Radiance mechanism. |
+| Chapter 19 | 8 | `figures/pie_in_sky/` | Figures 19.1–19.8; Figure 19.9 remains a placeholder. Figure 19.6 presents the vivimorphosis boundary, and Figure 19.7 presents the complete Radiance mechanism. |
 | Chapter 20 | 2 | `figures/life_after_pie/` | Figures 20.2 and 20.3 summarize analytical routes and the four transmission waves; Figure 20.1 remains a placeholder. |
 | Appendix Part 3 | 4 | `figures/audiography/` | Figures A.5–A.8; A.4 and A.9 remain placeholders. |
 | Appendix Part 4 | 7 | `figures/superset/` | Figures A.4.1–A.4.7. |
@@ -251,7 +251,7 @@ a clear visual need.
    asset is **Figure 18.1**, `figures/wrong_question/architectural_test.svg`.
 2. The former queue's proposed Figures 19.2 and 19.3 are obsolete. Those
    numbers now belong to deployed PIE-tree and orbit/radiance figures. The
-   remaining comparison placeholder is **Figure 19.8**.
+   remaining comparison placeholder is **Figure 19.9**.
 3. Appendix figure labels must preserve the appendix-part hierarchy. Do not
    collapse Figure A.4 in Appendix Part 3 into the A.4.1–A.4.7 family owned by
    Appendix Part 4.
@@ -266,7 +266,7 @@ a clear visual need.
    two figures if the final layouts already make PASS visible.
 4. Resolve live placeholder Figure 14.2.
 5. Resolve the Chapter 18 numbering error and build the Architectural Test.
-6. Produce or deliberately replace Figures 19.7 and 20.1–20.3.
+6. Produce or deliberately replace Figures 19.9 and 20.1–20.3.
 7. Decide whether Appendix Figures A.4 and A.9 add more than their current
    prose and tables.
 8. Reconcile the two older Veda/Vyāsa figure proposals with deployed Figure

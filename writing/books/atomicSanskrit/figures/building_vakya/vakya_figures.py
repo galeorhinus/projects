@@ -660,42 +660,6 @@ def fig_pipeline_example() -> None:
               "\n".join(body), "Ch12 assembly example: kṛ becomes kariṣyati")
 
 
-def fig_visual_key() -> None:
-    body: list[str] = [
-        render_text(FIG_W / 2, pt(20), "Ch12 visual key", FS_HEAD, TEXT, weight="700")
-    ]
-    # The first and last two samples use "original" so they demonstrate the
-    # vowel/consonant colouring the reader meets in Figure 12.2. The middle
-    # three keep their role fills, because the fill IS what those samples are
-    # showing.
-    samples = [
-        ("dhātuḥ atom", [["k", "R"]], "original"),
-        ("head-bond", [["p", "r", "a"]], "head"),
-        ("tail-bond", [["t", "R"]], "tail"),
-        ("role-marker", [["A"]], "role"),
-        ("nasal consonant", [["a", "M"]], "original"),
-        ("visarga", [["a", "H"]], "original"),
-    ]
-    col_w = FIG_W / 3
-    row_h = HEX_HEIGHT + pt(34)
-    y0 = pt(62) + HEX_HEIGHT / 2   # clears the centred title above
-    max_bottom = 0.0
-    for idx, (label, words, role) in enumerate(samples):
-        col, row = idx % 3, idx // 3
-        sy = y0 + row * row_h
-        strip, extent = render_strip(words, 0, sy, role, word_gap=pt(11), show_matra=False)
-        # Centre the sample in its column, then hang the label above the tiles
-        # measured from the strip's own extent. The old fixed -70 offset was
-        # tuned to the smaller tiles and the labels now sat on top of them.
-        dx = col * col_w + (col_w - (extent[2] - extent[0])) / 2 - extent[0]
-        body.append(f'<g transform="translate({dx:.1f},0)">{strip}</g>')
-        body.append(render_text(col * col_w + col_w / 2, extent[1] - pt(7),
-                                label, FS_LABEL, TEXT, weight="700"))
-        max_bottom = max(max_bottom, extent[3])
-    write_svg("building_vakya_visual_key", FIG_W, max_bottom + pt(12),
-              "\n".join(body), "Ch12 hexagon visual key")
-
-
 def fig_kr_hlad() -> None:
     body: list[str] = [render_text(370, 34, "One flagship atom, one contrast atom", 24, TEXT, weight="700")]
     kr, _ = render_strip([["k", "R"]], 140, 135, "original", labels=["कृ  kṛ"])
@@ -741,65 +705,6 @@ def fig_tail_bonds() -> None:
         body.append(strip)
         y += 145
     write_svg("building_vakya_tail_bonds", 1000, 845, "\n".join(body), "Kṛ tail-bond molecules")
-
-
-def fig_bonding_matrix() -> None:
-    # The table was authored at width=980 while its own columns needed
-    # 35 + 6*178 = 1103, so the final "agent" column fell off the right edge
-    # and rendered as an empty strip. Widths are now derived from FIG_W so
-    # the table cannot outgrow its frame: a narrow head-bond column plus five
-    # equal content columns, all inside the 900-unit figure.
-    width = FIG_W
-    left = pt(7)
-    top = pt(34)
-    head_w = pt(50)   # must fit the word 'head-bond' at the 10pt floor
-    cell_w = (width - 2 * left - head_w) / 5
-    cell_h = pt(31)
-    # Headers trimmed to fit: at the 10pt floor a 54pt column holds about ten
-    # characters, and "state / formation" and "act / mode" overran into their
-    # neighbours. The full column senses are given in the caption.
-    headers = ["head-bond", "state", "act", "obligation", "deed", "agent"]
-    rows = [
-        ("none", ["", "", "कार्य kārya", "कर्म karma", "कर्तृ kartṛ"]),
-        ("प्र pra-", ["प्रकृति prakṛti", "प्रकार prakāra", "", "", ""]),
-        ("वि vi-", ["विकृति vikṛti", "विकार vikāra", "", "", ""]),
-        ("सम् sam-", ["संस्कृति saṃskṛti", "संस्कार saṃskāra", "", "", ""]),
-    ]
-    def col_x(c: int) -> tuple[float, float]:
-        """(x, width) for column c; column 0 is the narrow head-bond column."""
-        return (left, head_w) if c == 0 else (left + head_w + (c - 1) * cell_w, cell_w)
-
-    body: list[str] = [
-        render_text(width / 2, pt(20), "The kṛ bonding matrix", FS_HEAD, TEXT, weight="700")
-    ]
-    head_h = cell_h * 0.72
-    for c, header in enumerate(headers):
-        x, w = col_x(c)
-        body.append(f'<rect x="{x:.1f}" y="{top:.1f}" width="{w:.1f}" height="{head_h:.1f}" '
-                    f'fill="{ms.SAND if hasattr(ms, "SAND") else "#efe7d6"}" stroke="{STROKE}" stroke-width="1"/>')
-        body.append(render_text(x + w / 2, top + head_h / 2, header, FS_GLOSS, TEXT, weight="700"))
-    for r, (head, cells) in enumerate(rows):
-        y = top + head_h + r * cell_h
-        x, w = col_x(0)
-        body.append(f'<rect x="{x:.1f}" y="{y:.1f}" width="{w:.1f}" height="{cell_h:.1f}" '
-                    f'fill="#faf6ee" stroke="{STROKE}" stroke-width="1"/>')
-        body.append(render_text(x + w / 2, y + cell_h / 2, head, FS_GLOSS, TEXT, weight="700"))
-        for c, value in enumerate(cells):
-            x, w = col_x(c + 1)
-            fill = ms.BG if value else "#faf8f4"
-            body.append(f'<rect x="{x:.1f}" y="{y:.1f}" width="{w:.1f}" height="{cell_h:.1f}" '
-                        f'fill="{fill}" stroke="{STROKE}" stroke-width="1"/>')
-            if value:
-                parts = value.split(" ", 1)
-                body.append(render_text(x + w / 2, y + cell_h / 2 - FS_DEVA * 0.34,
-                                        parts[0], FS_DEVA, TEXT, family=DEV_FONT, weight="600"))
-                if len(parts) > 1:
-                    body.append(render_text(x + w / 2, y + cell_h / 2 + FS_IAST * 0.72,
-                                            parts[1], FS_IAST, MUTED, style="italic"))
-            else:
-                body.append(render_text(x + w / 2, y + cell_h / 2, "—", FS_DEVA, ms.GUIDE))
-    height = top + head_h + len(rows) * cell_h + pt(10)
-    write_svg("building_vakya_kr_bonding_matrix", width, height, "\n".join(body), "Kṛ bonding matrix")
 
 
 def fig_rca_role_marker() -> None:
@@ -947,11 +852,9 @@ def fig_vivimorphosis() -> None:
 def main() -> None:
     fig_pipeline_scales()
     fig_pipeline_example()
-    fig_visual_key()
     fig_kr_hlad()
     fig_head_bonds()
     fig_tail_bonds()
-    fig_bonding_matrix()
     fig_rca_role_marker()
     fig_sentence_full_hex()
     fig_vivimorphosis()

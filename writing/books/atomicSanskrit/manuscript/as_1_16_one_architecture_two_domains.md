@@ -309,15 +309,15 @@ The Vedas did not survive because Pāṇini stabilized them. Pāṇini could doc
 
 ## 16.9 One Society, Two Responsibilities
 
-The same people and lineages carry the distinct responsibilities of both domains.
+The same society carries the distinct responsibilities of both domains.
 
 A person may learn Vedic recitation and also teach, analyze, or compose laukika Sanskrit. A household may preserve a ***शाखा (*śākhā*)*** while remembering stories associated with its ***कुलदेवता (*kuladevatā*)***. A teacher may explain a mantra, teach *vyākaraṇam*, and write a new commentary. The boundary determines what may be revised; it does not restrict who may learn.
 
 A lineage that accepts responsibility for Vedic preservation must transmit its assigned material exactly. The same people can use laukika Sanskrit for philosophy, medicine, mathematics, astronomy, manufacturing, trade, poetry, governance, drama, story, and public teaching. Knowledge and explanation can pass between these activities, but a new poem, proof, or commentary cannot become a new Vedic mantra.
 
-The arrangement varied across regions, households, *śākhās*, and ***सम्प्रदायाः (*sampradāyāḥ*)***. One household could combine Vedic recitation, observances associated with a ***गृह्यसूत्र (*Gṛhyasūtra*)***, memory connected with a *kuladevatā*, the teaching of ***इतिहास-पुराण (*itihāsa-purāṇa*)***, and analysis through *śikṣā, nirukta,* or *vyākaraṇam*. Another lineage could distribute those responsibilities differently.
+The arrangement varied across regions, households, *śākhās*, and ***सम्प्रदायाः (*sampradāyāḥ*)***. One household could combine Vedic recitation, observances associated with a ***गृह्यसूत्र (*Gṛhyasūtra*)***, memory connected with a *kuladevatā*, the teaching of ***इतिहास-पुराण (*itihāsa-purāṇa*)***, and analysis through *śikṣā, nirukta,* or *vyākaraṇam*. Another household or regional community could distribute those responsibilities differently.
 
-The arrangement remained distributed. No single household had to preserve every Veda, every science, every story, and every analytical discipline. Different lineages accepted different responsibilities while their shared architecture allowed knowledge to move among them.
+The arrangement remained distributed. No single household had to preserve every Veda, every science, every story, and every analytical discipline. Different households and communities accepted different responsibilities while their shared architecture allowed knowledge to move among them.
 
 Appendix Part 8 gives historical cases in which the same Sanskrit society combined exact Vedic preservation with wide-ranging explanation and laukika composition. These cases prevent the two domains from being mistaken for two populations, two languages, or two chronological stages.[NOTE: vaidika-laukika-household-responsibility-cases]
 
@@ -331,13 +331,13 @@ The vaidika domain protects exact memory. Reciters cannot revise the reference, 
 
 A fixed corpus by itself would preserve inherited knowledge but leave society without a language for applying that knowledge to new circumstances. An entirely revisable corpus would allow every powerful generation to rewrite the inherited standard and declare its own changes correct. Sanskrit gives the civilization both what must remain invariant and what must remain open.
 
-Distributed lineages preserve the Vedas, while teachers, analysts, poets, scientists, physicians, manufacturers, traders, storytellers, and communities keep Sanskrit useful. Authority does not need to approve every expression, and no apex receives permission to rewrite the calibrant.
+Transmission lineages preserve the Vedas. Across society, teachers, analysts, poets, scientists, physicians, manufacturers, traders, and storytellers keep Sanskrit useful. Authority does not need to approve every expression, and no apex receives permission to rewrite the calibrant.
 
 ### The Design Survived Both Enemies
 
 Against entropy, the Vedas remain available in their inherited words, sequence, pitch, meter, and recitational forms after thousands of years. Sanskrit did not fragment into separate Vedic and *laukika* languages. A student can still learn their shared architecture and then learn the bounded differences required for reading and recitation.
 
-Asuric assaults destroyed teachers, schools, manuscripts, patronage, and public access to Sanskrit. Yet no conqueror, colonial office, university, or modern government gained custody of the calibrant. Distributed lineages preserved the Vedas outside their authority, while the *laukika* domain kept Sanskrit available for explanation, composition, and recovery.
+Asuric assaults destroyed teachers, schools, manuscripts, patronage, and public access to Sanskrit. Yet no conqueror, colonial office, university, or modern government gained custody of the calibrant. Transmission lineages preserved the Vedas outside their authority. Laukika Sanskrit remained available across society for explanation, composition, and recovery.
 
 The survival is measurable. The fact that this book can compare the two domains demonstrates that the passages, grammar, analytical disciplines, and transmission lineages survived both natural entropy and deliberate assault. The architecture did not prevent every loss, but it prevented loss from becoming complete and authority from becoming final.
 

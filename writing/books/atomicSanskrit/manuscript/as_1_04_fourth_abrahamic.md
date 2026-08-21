@@ -50,7 +50,7 @@ The academy certifies the intellectual; the function determines the role. The sa
 
 The Hindu continuum has long distinguished these three actions. The *paṇi* hoards what should circulate. The *vṛtra* blocks the circulation itself. The *rākṣasa* enters the surrounding order through predation or disguise.
 
-Together, these functions reproduce a religion. Progressivism is the **fourth Abrahamic religion**.
+Together, these functions reproduce a religion: **Progressivism**. It is the **fourth Abrahamic religion**.
 
 Figure 4.1a places the first four elements side by side. Each formation identifies its chosen community, authorizes a doctrine, draws a boundary around insiders, and establishes a means of expansion.
 
@@ -224,9 +224,9 @@ The shape is the swastika: the ancient Indic symbol of rotational, distributed a
 
 Pyramidal machinery seeks a traceable point of authorization. It asks who wrote a text, which office certified it, and who controls its interpretation. ***Apauruṣeya*** (अपौरुषेय), without human authorship, gives the pyramid no author to enthrone and no original office to capture. The Vedas therefore break its expected chain of command.
 
-Their preservation demonstrates a larger point. *Chandas* (छन्दस्), *śruti* (श्रुति), and teacher-student transmission have preserved exact phonetic specifications across thousands of years through distributed lineages and mutually checking practices. No central office issued commands to every reciter, and no single priesthood owned the standard. The result provides visible evidence that order at architectural scale can persist without placing a ruler at the apex.
+Their preservation demonstrates a larger point. *Chandas* (छन्दस्), *śruti* (श्रुति), and teacher-student transmission have preserved exact phonetic specifications across thousands of years. Separate transmission lineages preserved the received form and gave reciters independent points of comparison. No central office issued commands to every reciter, and no single priesthood owned the standard. The result provides visible evidence that order at architectural scale can persist without placing a ruler at the apex.
 
-That makes the *Vedas* a weapon against **every pyramid.** Not because they command rebellion, but because they demonstrate that the pyramid's central claim is unnecessary: the pyramid insists that order requires an apex, but the *Vedas* refute this simply by existing.
+That makes the *Vedas* a weapon against **every pyramid.** Not because they command rebellion, but because their existence disproves the pyramid's central claim. The pyramid insists that order requires an apex. The *Vedas* demonstrate an ancient alternative: one invariant calibrant, distributed across society, beyond the ownership of any ruler or institution.
 
 The pyramid does not misclassify Sanskrit because it fails to understand calibration. It misclassifies Sanskrit because it understands calibration too well. Natural drift can be surveyed, ranked, managed, and ruled. Codification can be captured by authority — academy, committee, grammar, school, court, priesthood, state. Calibration is different. It places the standard inside the architecture and distributes correction through sound, memory, lineage, grammar, and disciplined use. No apex is required. The pyramid splits Sanskrit in two because the third category cannot be permitted to stand: *prakṛti* before Pāṇini, the codification myth after Pāṇini. It can lord over the first and sanctify the second.
 

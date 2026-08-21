@@ -930,7 +930,7 @@ The sūtra cluster (numbering per the standard text): 6.1.135 *suṭ kāt pūrva
 
 **Short:** The Dhātupāṭha lists ⟪जन्⟫ twice, covering both meanings the \*ǵenh₁ chart assigns its phantom: **3.25** (जनँ, *juhotyādi*) *artha* **जनने** — "to create, to procreate"; **4.44** (जनीँ, *divādi*) *artha* **प्रादुर्भावे** — "to be born, to come into existence" (*jāyate*). Verified against the machine-readable Pāṇinian Dhātupāṭha. The word-level twins: *jāta* ↔ *(g)nātus* "born"; *jāti* (birth → kind, class) ↔ *genus* (kind) — the same semantic walk from birth to category.
 
-**Deployments:** Chapter 19 §19.5 (the Recipe — the birth-family rerun paragraph, Figures 19.4–18.5).
+**Deployments:** Chapter 19 §19.5 (the Recipe — the birth-family rerun paragraph, Figures 19.4–19.5).
 
 Entry data: base-index 03.0025 — जनँ, gaṇa 3, जनने, "to create, to procreate, to make"; base-index 04.0044 — जनीँ, gaṇa 4, प्रादुर्भावे, "to be born, to become, to come to existence." The near-orbit śabdas: *janma* (birth), *jana* (people), *jananī* (mother), *janaka* (begetter), *jāta* (born), *jāti* (birth, kind), *prajā* (offspring, subjects). Living forms: Hindi *janam*, Marathi *janma*, Bengali *jônmo*, Punjabi *janam*, Telugu *janma*, Malayalam *janmam* [VERIFY: living-form orthography vs Turner CDIAL at print-prep]. Source: ashtadhyayi.com Dhātupāṭha data, verified locally.
 
@@ -5531,7 +5531,7 @@ Source: Bybee 1985, *Morphology: A Study of the Relation between Meaning and For
 
 **Short:** The Western philological account projects Latin *deus* and Sanskrit *devaḥ* back to a reconstructed PIE **\*deiwós** ("deity") under **\*dyew-** ("to shine"); the book treats the shared "shine" semantics as reflections of the engineered Sanskrit calibrant rather than evidence of a vanished common ancestor.
 
-**Deployments:** Ch19 §19.7 (the *deva* chain); Figure 19.7.
+**Deployments:** Ch19 §19.7 (the *deva* chain); Figure 19.6.
 
 Source: Michiel de Vaan, *Etymological Dictionary of Latin and the Other Italic Languages* (Leiden: Brill, 2008), entries for *deus* / *dīus*; verify exact reconstruction and wording against the edition used for final citation.
 

@@ -118,7 +118,7 @@ The asuric formation cannot make that call because its entire history relies on 
 
 The architecture remains.
 
-The architecture is self-evident in four connected forms. Sanskrit's selected sounds, semantic atoms, scaffolds, and grammatical bonds reveal the engineered material. The complementary permissions of the *vaidika* and *laukika* domains reveal engineered scope. The Vedas, recitation systems, analytical disciplines, and distributed lineages reveal engineered continuity. The reflections preserved in other languages reveal engineered radiance.
+The architecture is self-evident in four connected forms. Sanskrit's selected sounds, semantic atoms, scaffolds, and grammatical bonds reveal the engineered material. The complementary permissions of the *vaidika* and *laukika* domains reveal engineered scope. The Vedas, recitation systems, analytical disciplines, and transmission lineages reveal engineered continuity. The reflections preserved in other languages reveal engineered radiance.
 
 Together they establish the larger result. The Vedas already preserve the complete language architecture that Pāṇini later documented. They are part of the engineering that keeps the language calibrated. Pāṇini stands within that continuity, and his decoding provides its finest documentation. Sanskrit retains the complete calibrant architecture, and its radiance reached several languages, including Greek and Latin. Those languages continue to preserve partial reflections of that architecture.
 
@@ -170,13 +170,13 @@ Islamic imperial formations were defeated. The Christian conversion ambition was
 
 Three shadows remain after the argument has done all it can. The institutions keep their own custody — departments, journals, peer review, curricula, and the funding that supports them: chairs, grants, donor-shaped centers, and a state that still pays for its own colonial Indology. They will not dissolve because a case has been made. The public mind lags the proof: textbooks, encyclopedias, search results, and casual speech will keep repeating *"Sanskrit is Indo-European"* long after the architecture is visible. And the deepest shadow is inward — the trained hesitation that makes a civilization ask the pyramid's permission before trusting its own categories. None of the three falls to argument. Custody must be opened, habit retrained, and hesitation replaced by civilizational confidence. The work requires many hands. It is the Atris’ work, not one author’s.
 
-Education is one of those remaining shadows. A counter-pyramid with a new authorized syllabus from the top would reproduce the same structure. Distributed re-learning takes another path: many teachers, families, lineages, schools, publishers, and readers restore the calibrant until the old category theft no longer reproduces itself automatically.
+Education is one of those remaining shadows. A counter-pyramid with a new authorized syllabus from the top would reproduce the same structure. Distributed re-learning takes another path: teachers, families, communities, schools, publishers, and readers carry the calibrant across society until the old category theft no longer reproduces itself automatically.
 
 The Hindu continuum has remained the custodian of Sanskrit, the Vedas, and the ancient knowledge they preserve. This custodianship carries responsibility rather than ownership. Recognizing it does not transfer Sanskrit from one faction to another or turn its recovery into a claim of supremacy. It restores responsibility to the civilization that preserved the calibrant: to keep this knowledge available to all beings and to direct relationships in the second domain toward balance and **शान्तिः (*śāntiḥ*)**.
 
 ## The Mantra
 
-Wave 3 begins among those closest to the calibrant: teachers, students, families, lineages, and readers willing to relearn its disciplines. Indians in the subcontinent and diaspora carry the most immediate responsibility, while Romani communities preserve another long-separated Indic inheritance. *Atomic Sanskrit* is one Wave 3 instrument. It makes the radiant matrix visible again; visibility is the precondition.
+Wave 3 begins among those closest to the calibrant: teachers, students, families, communities, and readers willing to relearn its disciplines. Indians in the subcontinent and diaspora carry the most immediate responsibility, while Romani communities preserve another long-separated Indic inheritance. *Atomic Sanskrit* is one Wave 3 instrument. It makes the radiant matrix visible again; visibility is the precondition.
 
 The mantra says the Atris found the Sun when others could not. This book belongs to that work: not as the work completed, but as one attempt to make the Sun visible again.
 

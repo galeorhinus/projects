@@ -90,7 +90,7 @@ Bṛhaspati's **वाचमक्रत (*vācam akrata*)** (Chapter 9) describ
 >
 > **Codification vs decoding.** Codification imposes order upon something previously disordered. Decoding makes an existing order explicit. The Vedas and the pre-Pāṇinian analysts establish that Sanskrit’s architecture already existed. Patañjali later describes the word–meaning bond as siddha and assigns grammar the task of regulating usage against it. Pāṇini stands between those two bodies of evidence as the finest documenter of the architecture.
 >
-> **Institutional correction vs calibration.** A codified system corrects by appeal to institution, decree, grammar book, academy, or state. Sanskrit corrects by internal fit: sound, form, meaning, meter, recitation, derivation, and usage all converge on the valid form. Calibration places the standard inside the architecture and lets the architecture correct usage.
+> **Institutional correction vs calibration.** A codified system corrects by appeal to institution, decree, grammar book, academy, or state. Sanskrit corrects by internal fit: sound, form, meaning, meter, recitation, derivation, and usage all converge on the valid form. Calibration places the standard inside the architecture, so correction comes from the architecture rather than from an institution.
 
 Chapter 13 §13.5 shows how the two forms of correction become two forms of teaching. One student reaches correctness through preserved use, while another follows an explicit rule; both learn from the architecture rather than from an institutional decree.
 

@@ -73,7 +73,7 @@ The generative rules: PIE reconstruction can describe how sounds correspond and 
 
 The retroflex core: PIE does not reconstruct a *mūrdhanya* set. The pyramid therefore claims that Sanskrit borrowed retroflexion after entering the Indian subcontinent.[NOTE: retroflex-substrate-standard-account] Sanskrit does not carry these sounds as a peripheral addition. The *varṇamālā* gives them a complete row, **ऋ (*ṛ*)** belongs to the vowel system, **र (*ra*)** acts as a bonder, and retroflex closure recurs throughout the atom inventory. The borrowing account must explain how a supposedly later acquisition became embedded at all these levels. It does not.
 
-The preservation mechanisms: comparative reconstruction studies changes among recorded languages. Its procedure does not reconstruct the *pāṭha* recitations, *Prātiśākhya* specifications, *Śikṣā* training, or the distributed lineages documented across Chapters 13, 14, and 15. It therefore cannot explain how the Vedas resisted the changes that the method expects every language to undergo.
+The preservation mechanisms: comparative reconstruction studies changes among recorded languages. Its procedure does not reconstruct the *pāṭha* recitations, *Prātiśākhya* specifications, *Śikṣā* training, or the transmission lineages documented across Chapters 13, 14, and 15. It therefore cannot explain how the Vedas resisted the changes that the method expects every language to undergo.
 
 The formal grammar: PIE reconstruction does not produce an *Aṣṭādhyāyī*, a *Nirukta*, a *Prātiśākhya*, or a *siddha* / *kārya* distinction. The pyramid classifies these disciplines as later cultural artifacts. Yet they preserve the continuum's own analysis of Sanskrit as a specified architecture. Any model of Sanskrit must explain why these disciplines exist and why their analyses converge.
 
@@ -246,7 +246,7 @@ The human mouth can pronounce far more sounds than Sanskrit uses. Surveying the 
 
 That is no small feat.
 
-Yet no founder placed a personal name above the architecture. No royal academy claimed ownership. No apex demanded that later speakers approach Sanskrit through its gate. The architecture entered the continuum as distributed knowledge and remained available to every lineage willing to learn its discipline.
+Yet no founder placed a personal name above the architecture. No royal academy claimed ownership. No apex demanded that later speakers approach Sanskrit through its gate. The architecture entered the continuum as distributed knowledge and remained available across society to anyone willing to learn its discipline.
 
 The continuum calls Sanskrit **देवभाषा (*devabhāṣā*)**, the language of the *devāḥ*. This Atri sees the title as a description of both its purpose and its architecture. Sanskrit carries the radiant order that the *devāḥ* recognized, and it carries that order without installing a founder at the apex.
 
@@ -286,7 +286,7 @@ Do we know whether this complete sequence describes how Sanskrit and its preserv
 
 We do not know the historical identities of the wise, when they engineered Sanskrit, when each mantra was seen, or how the architecture first entered human life. The title of this section states the epistemic status of the account. This Atri offers it as an honest speculation rather than laundering it into a chronology and demanding that everyone else call it settled history.
 
-What we do know remains available for examination. The Sanskrit that the continuum preserved already displays its engineering in full. Its architecture survives in the mouth, the sonomer address grid, the atoms, the bonding operations, the grammar, and the sentences. The Vedas preserve that architecture through pitch, meter, exact recitation, mutually checking *pāṭhas*, correction, and distributed lineages. The Vedas also encode the other architectures of *saṃskṛti*. This book follows the linguistic architecture because it remains visible, audible, measurable, and testable.
+What we do know remains available for examination. The Sanskrit that the continuum preserved already displays its engineering in full. Its architecture survives in the mouth, the sonomer address grid, the atoms, the bonding operations, the grammar, and the sentences. The Vedas preserve that architecture through pitch, meter, exact recitation, mutually checking *pāṭhas*, correction, and transmission lineages spread across regions. The Vedas also encode the other architectures of *saṃskṛti*. This book follows the linguistic architecture because it remains visible, audible, measurable, and testable.
 
 The evidence does not reveal the engineers' biographies. It reveals what they built.
 

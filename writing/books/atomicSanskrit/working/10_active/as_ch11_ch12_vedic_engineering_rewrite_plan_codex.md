@@ -1,7 +1,7 @@
 # Chapters 11–12 Vedic Engineering Rewrite Plan — Codex
 
 **Created:** 2026-08-20  
-**Status:** Passes 1-10 complete; author review of Appendix Parts 6-7 and Chapter 19 §19.7 is next  
+**Status:** Passes 1-10 complete; the vivimorphosis figure is now deployed in Chapter 19 §19.7; remaining figure and endnote integration follows
 **Primary files:**
 
 - `manuscript/as_1_11_building_kriya.md`
@@ -663,7 +663,7 @@ Suggested location:
 - [ ] Revise the sentence assembly figure to support more than one sentence architecture if needed.
 - [ ] Retain the sonomer-to-sentence pipeline.
 - [ ] Move the reactivity-tier and cross-corpus figures to Appendix Part 6.
-- [ ] Move the vivimorphosis figure to Chapter 19.
+- [x] Move the vivimorphosis figure to Chapter 19.
 - [ ] Preserve editable Python or SVG source for every revised figure.
 
 ---
@@ -775,6 +775,7 @@ Suggested location:
 
 ### Pass 11 — Figures and Endnotes
 
+- [x] Deploy the general vivimorphosis boundary figure as Figure 19.6 and renumber the later Chapter 19 figures.
 - [ ] Revise existing figures.
 - [ ] Produce the new Vedic breadth figures.
 - [ ] Add exact endnotes for every Vedic form and passage.

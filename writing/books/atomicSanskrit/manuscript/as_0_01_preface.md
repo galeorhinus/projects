@@ -54,7 +54,7 @@ First comes the raw material. The anatomy of the human mouth makes many differen
 
 Second is scope. One architecture uses the *vaidika* and *laukika* domains because exact preservation and new composition create different risks. The Vedic domain preserves controlled variation inside content that will never change. The worldly domain uses tighter limits where that freedom would create collisions.
 
-Third comes continuity. The Vedas encode several architectures of *Sanātan*. One of them is Sanskrit. They preserve the language's full range and serve as its invariant calibrant. Pitch, meter, recitation, trained hearing, correction, and distributed lineages keep it audible without placing it under one ruler or institution. Pāṇini inherited and documented this architecture.
+Third comes continuity. The Vedas encode several architectures of *Sanātan*. One of them is Sanskrit. They preserve the language's full range and serve as its invariant calibrant. Pitch, meter, recitation, trained hearing, correction, and transmission lineages preserve its exact form. Public recitation keeps the calibrant audible across society without placing it under one ruler or institution. Pāṇini inherited and documented this architecture.
 
 Fourth comes radiance. Influential carriers took Sanskritic words, structures, knowledge, and analytical methods beyond India. Other languages preserved partial reflections. European philology gathered those fragments, constructed PIE, and placed it above the complete architecture.
 

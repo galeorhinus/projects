@@ -188,11 +188,13 @@ The complete movement can therefore be written as:
 
 > **Sanskrit's radiance → calibrant contact → बीज (*bīja*) → vivimorphosis → प्रतिबिम्ब (*pratibimba*)**
 
+![Figure 19.6 — Boundary Crossing: *Apabhraṃśa* / Vivimorphosis. The engineered Sanskrit atom becomes a calibrated *śabdaḥ*. A listener carries it as *bījam* into another language, where it acquires an organic form as *apaśabdaḥ*.](figures/pie_in_sky/vivimorphosis.svg){#fig:ch19-vivimorphosis-boundary width=100%}
+
 The same boundary has two descriptions. From Sanskrit's side, **अपभ्रंश (*apabhraṃśa*)** describes the distance between the receiving form and the calibrated **शब्द (*śabda*)**. From the receiving language's side, **vivimorphosis** describes how that *śabda* acquires organic behavior among new speakers.[NOTE: apabhramsa-vivimorphosis-boundary] The resulting **अपशब्द (*apaśabda*)** can drift, generate further words, and enter new compounds in the receiving language. Sanskrit continues to preserve the calibrated *śabda* from which that movement began.
 
 Chapter 12 follows Sanskrit's internal construction through the completed word and sentence. The boundary crossing belongs here because botanical change begins after a Sanskrit form enters a natural language and starts changing with its new speakers.
 
-![Figure 19.6 — Radiance Falsified as Ancestry. Sanskrit reaches other speech communities through real carriers. Each community produces its own reflection; the pyramid gathers those reflections and deliberately presents PIE as their imaginary parent.](figures/pie_in_sky/radiance_falsified_as_ancestry.svg){#fig:ch19-radiance-ancestry width=100%}
+![Figure 19.7 — Radiance Falsified as Ancestry. Sanskrit reaches other speech communities through real carriers. Each community produces its own reflection; the pyramid gathers those reflections and deliberately presents PIE as their imaginary parent.](figures/pie_in_sky/radiance_falsified_as_ancestry.svg){#fig:ch19-radiance-ancestry width=100%}
 
 ### Words and Atoms Become Seeds
 
@@ -207,9 +209,9 @@ The *mother* family shows that movement through one familiar example:
 
 The *mother* family begins with the construction established in Chapter 12. Sanskrit provides the atom and the generated molecule. Listeners retain the molecule as a seed, and their languages give that seed new sound-forms. Those forms begin an organic life as **अपशब्दाः (*apaśabdāḥ*)**. Indo-European philology begins with the resulting forms and treats them as descendants of a reconstructed ancestor.
 
-![Figure 19.7 — The Vivimorphosis of ⟪स्था⟫ (*sthā*). From engineered Sanskrit molecules to an organic tree in the receiving languages.](figures/pie_in_sky/stha_vivimorphosis.svg){#fig:ch19-stha-vivimorphosis width=100%}
+![Figure 19.8 — The Vivimorphosis of ⟪स्था⟫ (*sthā*). From engineered Sanskrit molecules to an organic tree in the receiving languages.](figures/pie_in_sky/stha_vivimorphosis.svg){#fig:ch19-stha-vivimorphosis width=100%}
 
-In Figure 19.7, the hexagons on the left are engineered Sanskrit molecules built from ⟪स्था⟫ (*sthā*). The tree begins after those molecules enter receiving languages and acquire organic life there. Its trunk and branches show what happens within the receiving languages.
+In Figure 19.8, the hexagons on the left are engineered Sanskrit molecules built from ⟪स्था⟫ (*sthā*). The tree begins after those molecules enter receiving languages and acquire organic life there. Its trunk and branches show what happens within the receiving languages.
 
 The same pattern appears in *devaḥ*:
 
@@ -237,7 +239,7 @@ Greek, Latin, and the Germanic languages received these seeds and used them to g
 
 ### The Pyramid Reverses the Movement
 
-The PIE account reverses the direction shown in Figures 19.6 and 19.7. It begins with organic forms in the receiving languages, groups their correspondences, and reconstructs a botanical parent behind them. The pyramid then reads those vivimorphosed descendants as evidence for that parent and makes Sanskrit descend from the reconstruction. Through that reversal, the engineered source becomes one daughter branch beneath an imaginary ancestor assembled from reflected forms.
+The PIE account reverses the direction shown in Figures 19.6–19.8. It begins with organic forms in the receiving languages, groups their correspondences, and reconstructs a botanical parent behind them. The pyramid then reads those vivimorphosed descendants as evidence for that parent and makes Sanskrit descend from the reconstruction. Through that reversal, the engineered source becomes one daughter branch beneath an imaginary ancestor assembled from reflected forms.
 
 The pyramid repeats Svarbhānu's *māyā* when it writes the history of Sanskrit. **आवरण (*āvaraṇa*)** conceals Sanskrit's outward radiance and the real people who carried it. **विक्षेप (*vikṣepa*)** projects PIE as the source of the reflections that radiance created. Sanskrit remains present, like the Sun, while the projected ancestor stands between the language and the reader.[NOTE: maya-concealment-projection]
 
@@ -307,7 +309,7 @@ The vivimorphosis at the contact-language boundary preserves the breath-bearer, 
 
 The *apaśabda* *ahura* anchors the central theological vocabulary of the Zoroastrian tradition. The semantic transformation that accompanies the phonetic one — what *asura* means in the Sanskrit source and what *ahura* comes to mean in the Avestan recipient, and how the suric / asuric distinction develops into the cosmic backdrop for the political-architectural argument — is taken up in a forthcoming volume in the ***Second Shanti*** series. What this section isolates is the phonetic vivimorphosis: the same engineered form, transmitted into a contact language as the *Pratibimba* the Iranian religious imagination has preserved throughout its tradition.
 
-[FIGURE 19.8: The pyramid's PIE reconstructions and the vivimorphosis chains shown side by side for *deva* and *asura*. The pyramid's etymology, Sanskrit *dhātu* / *śabda*, receiving-language *bīja*, and contact-language *apaśabda* across the rows.]
+[FIGURE 19.9: The pyramid's PIE reconstructions and the vivimorphosis chains shown side by side for *deva* and *asura*. The pyramid's etymology, Sanskrit *dhātu* / *śabda*, receiving-language *bīja*, and contact-language *apaśabda* across the rows.]
 
 | Stage | *deva* chain | *asura* chain |
 |---|---|---|

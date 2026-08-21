@@ -444,7 +444,7 @@ The next mantra describes how Speech was transmitted:
 >
 > Through yajña they followed the path of Speech; they found her entered into the ṛṣis. Bringing her forth, they distributed her widely; the seven singers resounded toward her.[NOTE: rigveda-10-71-3-path-vak]
 
-The verse moves from the path of Speech to its discovery in the ṛṣis and its distribution throughout society. The *varṇamālā* enables that distribution. It gives every selected sound a position, teaches the body how to reproduce it, and allows lineages to preserve it.
+The verse moves from the path of Speech to its discovery in the ṛṣis and its distribution throughout society. The *varṇamālā* enables that distribution. It gives every selected sound a position and teaches the body how to reproduce it. Transmission lineages preserve the exact sounds, while teaching and public recitation carry them across society.
 
 This completes the first major scale in the fractal sequence. Oṃ compresses the whole instrument into one syllable. The *varṇamālā* expands the instrument into an ordered inventory. The *dhātuḥ* then builds a semantic atom from that inventory and repeats the same discipline at a higher scale.
 

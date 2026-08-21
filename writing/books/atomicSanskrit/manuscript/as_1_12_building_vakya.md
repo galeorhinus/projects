@@ -59,8 +59,6 @@ RV 5.76.2a preserves **संस्कृतम्** inside a completed Vedic se
 
 The four forms in the table demonstrate how one atom can produce several kinds of words through operations shared by the *vaidika* and *laukika* domains. They also show material joining before and after the atom, followed by endings that prepare the completed words for different sentence relations.
 
-![Figure 12.3 — Ch12 visual key: atom, head-bond, tail-bond, role-ending, nasal consonant, visarga, and half-*mātrā* ruler.](figures/building_vakya/visual_key.svg){#fig:building-vakya-visual-key width=100%}
-
 ## 12.3 From *Śabda* to *Padam*
 
 A **शब्दः (*śabdaḥ*)** expresses meaning. A **पदम् (*padam*)** is a completed form ready to enter a sentence.[NOTE: apadam-constraint]
@@ -111,7 +109,7 @@ The question combines a relative pronoun, a demonstrative pronoun, a negation, a
 
 Appendix Part 7 §7.4 parses the complete stanza and records the additional Vedic placement preserved in its other lines.
 
-![Figure 12.4 — Full sonomeric sentence experiment: यस्तन्न वेद किमृचा करिष्यति.](figures/building_vakya/sentence_full_hex.svg){#fig:building-vakya-sentence-full-hex width=100%}
+![Figure 12.3 — Full sonomeric sentence experiment: यस्तन्न वेद किमृचा करिष्यति.](figures/building_vakya/sentence_full_hex.svg){#fig:building-vakya-sentence-full-hex width=100%}
 
 ### Several Relations in One Sentence: RV 2.23.1ab
 
@@ -199,16 +197,9 @@ Material added after ⟪कृ⟫ turns the atom into different kinds of words:
 
 The same atom remains identifiable in every form. The head-bond redirects the action. The tail-bond determines what kind of word results. The completed word can then receive a *vibhaktiḥ* and enter a sentence.
 
-| Head-bond | State or formation | Act or mode | Obligation | Deed | Agent |
-|---|---|---|---|---|---|
-| none | — | — | कार्य (*kārya*) | कर्म (*karma*) | कर्तृ (*kartṛ*) |
-| प्र (*pra-*) | प्रकृति (*prakṛti*) | प्रकार (*prakāra*) | — | — | — |
-| वि (*vi-*) | विकृति (*vikṛti*) | विकार (*vikāra*) | — | — | — |
-| सम् (*sam-*) | संस्कृति (*saṃskṛti*) | संस्कार (*saṃskāra*) | — | — | — |
+Figure 12.4 groups these examples by the material placed before ⟪कृ⟫. The first branch uses no head-bond. The remaining branches use **प्र (*pra-*)**, **वि (*vi-*)**, and **सम् (*sam-*)**.[NOTE: kr-bonding-examples]
 
-A blank cell marks a combination for which this chapter presents no established form. The filled cells contain forms in which the atom and its bonds remain identifiable.[NOTE: kr-bonding-examples]
-
-![Figure 12.5 — A conservative ⟪कृ⟫ (*kṛ*) bonding matrix. Rows are head-bonds and columns are what the tail-bond makes the word do: **state** or formation, **act** or mode, obligation, deed, and agent. A filled cell holds an established formation; **—** marks a combination this book does not claim.](figures/building_vakya/kr_bonding_matrix.svg){#fig:building-vakya-kr-bonding-matrix width=100%}
+![Figure 12.4 — How bonds extend ⟪कृ⟫ (*kṛ*). The branch at left identifies the head-bond; each box shows selected words completed through tail-bonds.](figures/building_vakya/kr_bonding_branches.svg){#fig:building-vakya-kr-bonding-branches width=100%}
 
 The same architecture also builds compounds. When India's lunar mission required a name, speakers joined **चन्द्र (*candra*, Moon)** and **यान (*yāna*, vehicle)** as **चन्द्रयान (*Candrayāna*)**. They used existing Sanskrit words and an existing compounding procedure to name a new undertaking.
 

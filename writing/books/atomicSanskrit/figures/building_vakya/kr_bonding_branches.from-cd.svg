@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="fig-1" viewBox="0 0 324 255" width="4.5in" height="3.542in">
+  <rect x="0" y="0" width="324" height="255" fill="#f4f4f3"/>
+  <text x="12" y="20" font-family="'Gentium Book Plus','Noto Serif Devanagari','Adobe Devanagari',Charter,'Charis SIL',Georgia,serif" font-size="11" font-weight="700" fill="#2b2b2d" text-anchor="start">How Bonds Extend ⟪कृ⟫</text>
+  <text x="12" y="31" font-family="'Gentium Book Plus',Charter,'Charis SIL',Georgia,serif" font-size="8" font-weight="400" fill="#4a4136" text-anchor="start">Head-bonds direct the atom; tail-bonds form the words within each branch.</text>
+  <line x1="12" y1="36" x2="312" y2="36" stroke="#2b2b2d" stroke-width="1.2"/>
+  <rect x="12" y="45" width="44" height="20" rx="3" fill="#4a3f30"/>
+  <text x="17" y="56" font-family="'Noto Serif Devanagari','Adobe Devanagari',serif" font-size="11" font-weight="400" fill="#f3f2ef" text-anchor="start">⟪कृ⟫</text>
+  <line x1="52" y1="65" x2="52" y2="77.5" stroke="#c3b9a3" stroke-width="0.9"/>
+  <line x1="52" y1="77.5" x2="58" y2="77.5" stroke="#c3b9a3" stroke-width="0.9"/>
+  <rect x="12" y="68.5" width="34" height="18" rx="9" fill="none" stroke="#c3b9a3" stroke-width="0.9" stroke-dasharray="2.5 2.5"/>
+  <text x="29" y="81.5" font-family="'Gentium Book Plus',Charter,'Charis SIL',Georgia,serif" font-size="11" font-weight="400" fill="#766652" text-anchor="middle">∅</text>
+  <rect x="62" y="52" width="250" height="51" rx="2" fill="#faf7f0" stroke="#c3b9a3" stroke-width="0.7"/>
+  <text x="69" y="62" font-family="'Gentium Book Plus',Charter,'Charis SIL',Georgia,serif" font-size="8" font-weight="700" fill="#4a3f30" text-anchor="start">without a head-bond</text>
+  <text x="69" y="74" font-family="'Noto Serif Devanagari','Adobe Devanagari',serif" font-size="9" font-weight="400" fill="#2b2b2d" text-anchor="start">कार्य</text>
+  <text x="121" y="74" font-family="'Gentium Book Plus',Charter,'Charis SIL',Georgia,serif" font-size="8" font-weight="400" fill="#4a4136" text-anchor="start" font-style="italic">kārya</text>
+  <text x="305" y="74" font-family="'Gentium Book Plus',Charter,'Charis SIL',Georgia,serif" font-size="8" font-weight="400" fill="#766652" text-anchor="end">Obligation</text>
+  <text x="69" y="85" font-family="'Noto Serif Devanagari','Adobe Devanagari',serif" font-size="9" font-weight="400" fill="#2b2b2d" text-anchor="start">कर्म</text>
+  <text x="121" y="85" font-family="'Gentium Book Plus',Charter,'Charis SIL',Georgia,serif" font-size="8" font-weight="400" fill="#4a4136" text-anchor="start" font-style="italic">karma</text>
+  <text x="305" y="85" font-family="'Gentium Book Plus',Charter,'Charis SIL',Georgia,serif" font-size="8" font-weight="400" fill="#766652" text-anchor="end">Deed</text>
+  <text x="69" y="96" font-family="'Noto Serif Devanagari','Adobe Devanagari',serif" font-size="9" font-weight="400" fill="#2b2b2d" text-anchor="start">कर्तृ</text>
+  <text x="121" y="96" font-family="'Gentium Book Plus',Charter,'Charis SIL',Georgia,serif" font-size="8" font-weight="400" fill="#4a4136" text-anchor="start" font-style="italic">kartṛ</text>
+  <text x="305" y="96" font-family="'Gentium Book Plus',Charter,'Charis SIL',Georgia,serif" font-size="8" font-weight="400" fill="#766652" text-anchor="end">Agent</text>
+  <line x1="52" y1="65" x2="52" y2="129" stroke="#c3b9a3" stroke-width="0.9"/>
+  <line x1="52" y1="129" x2="58" y2="129" stroke="#c3b9a3" stroke-width="0.9"/>
+  <rect x="12" y="120" width="34" height="18" rx="3" fill="#ece4d3" stroke="#c3b9a3" stroke-width="0.7"/>
+  <text x="29" y="133" font-family="'Noto Serif Devanagari','Adobe Devanagari',serif" font-size="11" font-weight="400" fill="#2b2b2d" text-anchor="middle">प्र</text>
+  <rect x="62" y="109" width="250" height="40" rx="2" fill="#faf7f0" stroke="#c3b9a3" stroke-width="0.7"/>
+  <text x="69" y="119" font-family="'Gentium Book Plus',Charter,'Charis SIL',Georgia,serif" font-size="8" font-weight="700" fill="#766652" text-anchor="start" font-style="italic">pra-</text>
+  <text x="69" y="131" font-family="'Noto Serif Devanagari','Adobe Devanagari',serif" font-size="9" font-weight="400" fill="#2b2b2d" text-anchor="start">प्रकृति</text>
+  <text x="121" y="131" font-family="'Gentium Book Plus',Charter,'Charis SIL',Georgia,serif" font-size="8" font-weight="400" fill="#4a4136" text-anchor="start" font-style="italic">prakṛti</text>
+  <text x="305" y="131" font-family="'Gentium Book Plus',Charter,'Charis SIL',Georgia,serif" font-size="8" font-weight="400" fill="#766652" text-anchor="end">State or formation</text>
+  <text x="69" y="142" font-family="'Noto Serif Devanagari','Adobe Devanagari',serif" font-size="9" font-weight="400" fill="#2b2b2d" text-anchor="start">प्रकार</text>
+  <text x="121" y="142" font-family="'Gentium Book Plus',Charter,'Charis SIL',Georgia,serif" font-size="8" font-weight="400" fill="#4a4136" text-anchor="start" font-style="italic">prakāra</text>
+  <text x="305" y="142" font-family="'Gentium Book Plus',Charter,'Charis SIL',Georgia,serif" font-size="8" font-weight="400" fill="#766652" text-anchor="end">Act or mode</text>
+  <line x1="52" y1="65" x2="52" y2="175" stroke="#c3b9a3" stroke-width="0.9"/>
+  <line x1="52" y1="175" x2="58" y2="175" stroke="#c3b9a3" stroke-width="0.9"/>
+  <rect x="12" y="166" width="34" height="18" rx="3" fill="#ddd2ba" stroke="#c3b9a3" stroke-width="0.7"/>
+  <text x="29" y="179" font-family="'Noto Serif Devanagari','Adobe Devanagari',serif" font-size="11" font-weight="400" fill="#2b2b2d" text-anchor="middle">वि</text>
+  <rect x="62" y="155" width="250" height="40" rx="2" fill="#faf7f0" stroke="#c3b9a3" stroke-width="0.7"/>
+  <text x="69" y="165" font-family="'Gentium Book Plus',Charter,'Charis SIL',Georgia,serif" font-size="8" font-weight="700" fill="#766652" text-anchor="start" font-style="italic">vi-</text>
+  <text x="69" y="177" font-family="'Noto Serif Devanagari','Adobe Devanagari',serif" font-size="9" font-weight="400" fill="#2b2b2d" text-anchor="start">विकृति</text>
+  <text x="121" y="177" font-family="'Gentium Book Plus',Charter,'Charis SIL',Georgia,serif" font-size="8" font-weight="400" fill="#4a4136" text-anchor="start" font-style="italic">vikṛti</text>
+  <text x="305" y="177" font-family="'Gentium Book Plus',Charter,'Charis SIL',Georgia,serif" font-size="8" font-weight="400" fill="#766652" text-anchor="end">State or formation</text>
+  <text x="69" y="188" font-family="'Noto Serif Devanagari','Adobe Devanagari',serif" font-size="9" font-weight="400" fill="#2b2b2d" text-anchor="start">विकार</text>
+  <text x="121" y="188" font-family="'Gentium Book Plus',Charter,'Charis SIL',Georgia,serif" font-size="8" font-weight="400" fill="#4a4136" text-anchor="start" font-style="italic">vikāra</text>
+  <text x="305" y="188" font-family="'Gentium Book Plus',Charter,'Charis SIL',Georgia,serif" font-size="8" font-weight="400" fill="#766652" text-anchor="end">Act or mode</text>
+  <line x1="52" y1="65" x2="52" y2="221" stroke="#c3b9a3" stroke-width="0.9"/>
+  <line x1="52" y1="221" x2="58" y2="221" stroke="#c3b9a3" stroke-width="0.9"/>
+  <rect x="12" y="212" width="34" height="18" rx="3" fill="#aa9a7a" stroke="#c3b9a3" stroke-width="0.7"/>
+  <text x="29" y="225" font-family="'Noto Serif Devanagari','Adobe Devanagari',serif" font-size="11" font-weight="400" fill="#2b2b2d" text-anchor="middle">सम्</text>
+  <rect x="62" y="201" width="250" height="40" rx="2" fill="#faf7f0" stroke="#c3b9a3" stroke-width="0.7"/>
+  <text x="69" y="211" font-family="'Gentium Book Plus',Charter,'Charis SIL',Georgia,serif" font-size="8" font-weight="700" fill="#766652" text-anchor="start" font-style="italic">sam-</text>
+  <text x="69" y="223" font-family="'Noto Serif Devanagari','Adobe Devanagari',serif" font-size="9" font-weight="400" fill="#2b2b2d" text-anchor="start">संस्कृति</text>
+  <text x="121" y="223" font-family="'Gentium Book Plus',Charter,'Charis SIL',Georgia,serif" font-size="8" font-weight="400" fill="#4a4136" text-anchor="start" font-style="italic">saṃskṛti</text>
+  <text x="305" y="223" font-family="'Gentium Book Plus',Charter,'Charis SIL',Georgia,serif" font-size="8" font-weight="400" fill="#766652" text-anchor="end">State or formation</text>
+  <text x="69" y="234" font-family="'Noto Serif Devanagari','Adobe Devanagari',serif" font-size="9" font-weight="400" fill="#2b2b2d" text-anchor="start">संस्कार</text>
+  <text x="121" y="234" font-family="'Gentium Book Plus',Charter,'Charis SIL',Georgia,serif" font-size="8" font-weight="400" fill="#4a4136" text-anchor="start" font-style="italic">saṃskāra</text>
+  <text x="305" y="234" font-family="'Gentium Book Plus',Charter,'Charis SIL',Georgia,serif" font-size="8" font-weight="400" fill="#766652" text-anchor="end">Act or mode</text>
+</svg>
