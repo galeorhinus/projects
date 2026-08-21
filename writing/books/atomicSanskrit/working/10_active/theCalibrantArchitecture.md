@@ -21,3 +21,10 @@ they may..
 they don't need to
 
 they are a living example of a calibrant
+
+
+A Nāga sādhu is not necessarily a calibrant for scholarship, medicine, or moral judgment. Renunciation is the standard he makes visible. He demonstrates that a human being can relinquish personal property, production, office, and social rank without losing dignity.
+The householder is not required to imitate him. The sādhu’s honored existence prevents the householder from confusing accumulated wealth with human worth.
+At the Kumbh, this becomes a public civilizational statement. Society assembles enormous wealth, labor, and organization, yet gives ritual precedence to those who have renounced possession. The people who own the least receive the place of honor before one of humanity’s largest gatherings. Government accounts of the Amrit Snān describe the Nāga sādhus entering in ceremonial procession and bathing first.
+This suggests a strong subsection title:
+Living Calibrants

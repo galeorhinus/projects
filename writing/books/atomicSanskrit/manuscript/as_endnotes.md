@@ -6717,6 +6717,22 @@ Sources: UK Parliament, [“United into One Kingdom”](https://www.parliament.u
 
 ---
 
+### `bhiksha-calibrant-architecture`
+
+**Short:** The practices of *bhikṣā* connect students and renunciants with householders through direct, distributed support. The Kumbh gives the renunciant orders public and ritual precedence without placing them under one civilizational apex.
+
+**Deployment:** Epilogue, “Order Through Calibration.”
+
+The student, householder, forest hermit, and renunciant appear as distinct and interrelated ways of life within the *āśrama* architecture. Patrick Olivelle surveys the textual and institutional development of this architecture in *The Āśrama System: The History and Hermeneutics of a Religious Institution* (Oxford University Press, 1993). The *Dharma-sūtra* and *Dharmaśāstra* literature records the direct *bhikṣā* relationship from both sides. *Gautama-Dharmasūtra* Chapter 2 gives the student's procedure for seeking food and presenting what he receives to his teacher. *Baudhāyana-Dharmasūtra* 2.10.18 gives the ascetic's procedure and restricts what he may seek and consume. *Manusmṛti* 3.94 directs the householder to provide food to the mendicant or *brahmacārin*. These sources differ in detail but preserve the same distributed relation: the recipient asks, the household gives, and the support passes directly between them.
+
+The architectural interpretation belongs to this book. The importance of *bhikṣā* here lies in the separation it creates among knowledge, material support, and coercive power. The arrangement does not certify every recipient as wise. It allows support to remain voluntary and dispersed, so one recipient's failure does not transfer control over every giver or every other recipient.
+
+The Kumbh provides the public-scale example. The Press Information Bureau's account of the first Amrit Snān at the 2025 Mahā Kumbh records the Nāga sādhus of the Mahanirvani Akhara entering in ceremonial procession for the bath. Its account of the 2019 Kumbh records the designated sequence in which the akharas entered. The sequence varies by akhara and occasion, while the ascetic orders retain ritual precedence within the gathering. See [PIB, “Makar Sankranti at Maha Kumbh 2025”](https://www.pib.gov.in/FeaturesDeatils.aspx?ModuleId=2&NoteId=153655) and [PIB, “First Shahi Snan of Kumbh at Prayagraj”](https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=187499).
+
+The parallel with Vedic transmission rests on the independent *śākhā* evidence developed in Chapter 15. See endnotes `nambudiri-vedic-recitation-isolation` and `cross-shakha-verification-fieldwork`.
+
+---
+
 ### `where-this-argument-stands`
 
 **Short:** The free *Source and Reference Companion* places *Atomic Sanskrit* beside four neighboring bodies of writing: Out-of-India arguments, Western criticism of PIE reconstruction, formal and computational Sanskrit scholarship, and Subhash Kak's wider research into Vedic architecture.
