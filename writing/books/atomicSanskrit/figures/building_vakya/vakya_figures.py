@@ -852,27 +852,96 @@ def fig_sentence_full_hex() -> None:
 
 
 def fig_vivimorphosis() -> None:
-    body: list[str] = [render_text(540, 34, "Boundary crossing: apabhraṃśa / vivimorphosis", 24, TEXT, weight="700")]
-    stages = [
-        ("धातु", "dhātuḥ", [["d", "i", "v"]], "original"),
-        ("शब्द", "śabda", [["d", "e", "v", "a", "H"]], "sentence"),
-        ("बीज", "bīja", [["d", "e", "v"]], "seed"),
-        ("अपशब्द", "apaśabda", [["d", "e", "u", "s"]], "root"),
+    """The boundary crossing, read downward.
+
+    Rebuilt 2026-08-20. The previous version ran four stages left to right
+    across a 1080-unit frame: the stage labels sat on top of the tiles, the
+    strips overlapped each other, and the last word fell outside the
+    viewBox. Reading DOWN also puts the boundary where it belongs -- a
+    horizontal rule the eye actually crosses, with the calibrant above it
+    and the contact language below.
+
+    The two sides are drawn in different shapes on purpose. Above the rule
+    Sanskrit is hexagonal, sonomer by sonomer, coloured by the same
+    vowel/consonant convention as the rest of the chapter. Below it the
+    receiving language is a soft rounded form with a dashed edge and no
+    internal divisions, because the contact language does not preserve the
+    constituent boundaries -- that loss is the content of the figure, so it
+    is drawn rather than asserted. Both readings survive grayscale, since
+    the contrast is shape and outline, not hue.
+    """
+    body: list[str] = [
+        render_text(FIG_W / 2, pt(18), "Boundary crossing: apabhraṃśa / vivimorphosis",
+                    FS_HEAD, TEXT, weight="700")
     ]
-    x = 60
-    y = 150
-    for idx, (dev, iast, words, role) in enumerate(stages):
-        sx = x + idx * 255
-        body.append(render_text(sx + 95, 83, dev, 22, TEXT, family=DEV_FONT, weight="700"))
-        body.append(render_text(sx + 95, 108, iast, 13, MUTED, style="italic"))
-        strip, _ = render_strip(words, sx + 40, y, role, word_gap=30)
-        body.append(strip)
-        if idx < len(stages) - 1:
-            body.append(render_arrow(sx + 215, y, sx + 255, y))
-    body.append(render_text(305, 263, "Sanskrit calibrant side", 15, MUTED, style="italic"))
-    body.append(render_text(815, 263, "contact-language side", 15, MUTED, style="italic"))
-    body.append(f'<line x1="570" y1="72" x2="570" y2="250" stroke="{DASH}" stroke-width="1.4" stroke-dasharray="6,5"/>')
-    write_svg("building_vakya_vivimorphosis", 1080, 310, "\n".join(body), "Vivimorphosis boundary diagram")
+    label_x = pt(76)
+    strip_x = pt(86)
+
+    def stage_label(y: float, dev: str, iast: str) -> None:
+        body.append(render_text(label_x, y - FS_DEVA * 0.34, dev, FS_DEVA, TEXT,
+                                anchor="end", family=DEV_FONT, weight="600"))
+        body.append(render_text(label_x, y + FS_IAST * 0.80, iast, FS_IAST, MUTED,
+                                anchor="end", style="italic"))
+
+    # --- above the rule: the engineered calibrant -------------------------
+    y = pt(46) + HEX_HEIGHT / 2
+    dhatu, e_dhatu = render_strip([["d", "i", "v"]], strip_x, y, "original")
+    body.append(dhatu)
+    stage_label(y, "धातुः", "dhātuḥ")
+    body.append(render_text(e_dhatu[2] + pt(12), y, "“to shine”", FS_IAST, MUTED,
+                            anchor="start", style="italic"))
+
+    y2 = e_dhatu[3] + HEX_HEIGHT * 0.58
+    sabda, e_sabda = render_strip([["d", "e", "v", "a", "H"]], strip_x, y2, "original")
+    body.append(sabda)
+    stage_label(y2, "शब्दः", "śabdaḥ")
+    body.append(render_text(e_sabda[2] + pt(12), y2, "the calibrated form", FS_IAST, MUTED,
+                            anchor="start", style="italic"))
+
+    # --- the rule ---------------------------------------------------------
+    rule_y = e_sabda[3] + pt(20)
+    body.append(f'<line x1="{pt(8):.1f}" y1="{rule_y:.1f}" x2="{FIG_W - pt(8):.1f}" '
+                f'y2="{rule_y:.1f}" stroke="{DASH}" stroke-width="1.4" stroke-dasharray="6,5"/>')
+    body.append(render_text(pt(8), rule_y - pt(6), "Sanskrit calibrant — preserved", FS_GLOSS,
+                            MUTED, anchor="start", style="italic"))
+    body.append(render_text(FIG_W - pt(8), rule_y + pt(11), "contact language — organic",
+                            FS_GLOSS, MUTED, anchor="end", style="italic"))
+
+    # --- below the rule: the seed and the organic form --------------------
+    def soft_form(cx: float, cy: float, w: float, h: float, main: str, sub: str,
+                  dashed: bool = True) -> None:
+        dash = ' stroke-dasharray="5,4"' if dashed else ""
+        body.append(
+            f'<rect x="{cx - w / 2:.1f}" y="{cy - h / 2:.1f}" width="{w:.1f}" height="{h:.1f}" '
+            f'rx="{h / 2:.1f}" fill="{ms.SAND if hasattr(ms, "SAND") else "#f2ece0"}" '
+            f'stroke="{ms.STROKE}" stroke-width="1.2"{dash} opacity="0.95"/>'
+        )
+        body.append(render_text(cx, cy, main, FS_DEVA, TEXT, weight="600"))
+        # Descriptor sits OUTSIDE the form, on the same right-hand column as
+        # the two above the rule. Inside, it overran the pill and collided
+        # with the stage label in the left margin.
+        body.append(render_text(cx + w / 2 + pt(12), cy, sub, FS_IAST, MUTED,
+                                anchor="start", style="italic"))
+
+    y3 = rule_y + pt(26) + HEX_HEIGHT / 2
+    seed_w, form_h = pt(52), HEX_HEIGHT * 0.82
+    seed_cx = strip_x + seed_w / 2
+    soft_form(seed_cx, y3, seed_w, form_h, "देव-", "the seed a listener keeps")
+    stage_label(y3, "बीजम्", "bījam")
+
+    y4 = y3 + form_h + pt(16)
+    apa_w = pt(52)
+    apa_cx = strip_x + apa_w / 2
+    soft_form(apa_cx, y4, apa_w, form_h, "deus", "Latin — no longer divisible")
+    stage_label(y4, "अपशब्दः", "apaśabdaḥ")
+
+    # One arrow across the rule carries the crossing; the arrow between the
+    # two Sanskrit rows would only repeat what the stacking already says.
+    body.append(render_arrow(seed_cx, e_sabda[3] + pt(4), seed_cx, y3 - form_h / 2 - pt(3)))
+    body.append(render_arrow(apa_cx, y3 + form_h / 2 + pt(3), apa_cx, y4 - form_h / 2 - pt(3)))
+
+    write_svg("building_vakya_vivimorphosis", FIG_W, y4 + form_h / 2 + pt(12),
+              "\n".join(body), "Vivimorphosis boundary diagram")
 
 
 def main() -> None:
