@@ -28,7 +28,9 @@ This chapter follows that construction in three steps. First, a *dhātuḥ* beco
 
 Yāska preserves this principle as **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)**: nominal words arise from verbs.[NOTE: nirukta-namany-akhyatajani] Here **नामानि (*nāmāni*)** means nominal words, not proper names. The principle describes the first step in this chapter. A semantic atom concerned with action can develop into a word for the action, the actor, the object produced, or something that must be done.
 
-![Figure 12.1 — Molecular assembly pipeline: sonomer → dhātuḥ → śabda / kriyāpada → padam → vākya.](figures/building_vakya/pipeline.svg){#fig:building-vakya-pipeline width=100%}
+![Figure 12.1 — The five scales of assembly: **वर्णाः (*varṇāḥ*)**, the sonomers; **धातुः (*dhātuḥ*)**, the semantic atom; **क्रियापद (*kriyāpada*)**, the verbal molecule; **पदम् (*padam*)**, the word marked for its role; and **वाक्यम् (*vākyam*)**, the assembled sentence.](figures/building_vakya/pipeline_scales.svg){#fig:building-vakya-pipeline-scales width=100%}
+
+![Figure 12.2 — The same assembly on one atom: ⟪कृ⟫ (*kṛ*) becomes **करिष्यति (*kariṣyati*)**. Vowels take the light tiles and consonants the dark ones. The wide **ष्य** tile is one timing envelope holding two sonomers, which is why it is divided.](figures/building_vakya/pipeline_example.svg){#fig:building-vakya-pipeline-example width=100%}
 
 ## 12.2 The Vedic ⟪कृ⟫ Family
 
@@ -57,7 +59,7 @@ RV 5.76.2a preserves **संस्कृतम्** inside a completed Vedic se
 
 The four forms in the table demonstrate how one atom can produce several kinds of words through operations shared by the *vaidika* and *laukika* domains. They also show material joining before and after the atom, followed by endings that prepare the completed words for different sentence relations.
 
-![Figure 12.2 — Ch12 visual key: atom, head-bond, tail-bond, role-ending, nasal consonant, visarga, and half-*mātrā* ruler.](figures/building_vakya/visual_key.svg){#fig:building-vakya-visual-key width=100%}
+![Figure 12.3 — Ch12 visual key: atom, head-bond, tail-bond, role-ending, nasal consonant, visarga, and half-*mātrā* ruler.](figures/building_vakya/visual_key.svg){#fig:building-vakya-visual-key width=100%}
 
 ## 12.3 From *Śabda* to *Padam*
 
@@ -109,7 +111,7 @@ The question combines a relative pronoun, a demonstrative pronoun, a negation, a
 
 Appendix Part 7 §7.4 parses the complete stanza and records the additional Vedic placement preserved in its other lines.
 
-![Figure 12.3 — Full sonomeric sentence experiment: यस्तन्न वेद किमृचा करिष्यति.](figures/building_vakya/sentence_full_hex.svg){#fig:building-vakya-sentence-full-hex width=100%}
+![Figure 12.4 — Full sonomeric sentence experiment: यस्तन्न वेद किमृचा करिष्यति.](figures/building_vakya/sentence_full_hex.svg){#fig:building-vakya-sentence-full-hex width=100%}
 
 ### Several Relations in One Sentence: RV 2.23.1ab
 
@@ -206,7 +208,7 @@ The same atom remains identifiable in every form. The head-bond redirects the ac
 
 A blank cell marks a combination for which this chapter presents no established form. The filled cells contain forms in which the atom and its bonds remain identifiable.[NOTE: kr-bonding-examples]
 
-![Figure 12.4 — A conservative ⟪कृ⟫ (*kṛ*) bonding matrix: filled cells contain established formations; unused cells remain blank.](figures/building_vakya/kr_bonding_matrix.svg){#fig:building-vakya-kr-bonding-matrix width=100%}
+![Figure 12.5 — A conservative ⟪कृ⟫ (*kṛ*) bonding matrix. Rows are head-bonds and columns are what the tail-bond makes the word do: **state** or formation, **act** or mode, obligation, deed, and agent. A filled cell holds an established formation; **—** marks a combination this book does not claim.](figures/building_vakya/kr_bonding_matrix.svg){#fig:building-vakya-kr-bonding-matrix width=100%}
 
 The same architecture also builds compounds. When India's lunar mission required a name, speakers joined **चन्द्र (*candra*, Moon)** and **यान (*yāna*, vehicle)** as **चन्द्रयान (*Candrayāna*)**. They used existing Sanskrit words and an existing compounding procedure to name a new undertaking.
 

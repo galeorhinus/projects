@@ -1,52 +1,52 @@
 <!-- lineage: py
      canonical-source: rca_role_marker.from-py.svg
-     updated: 2026-06-07 -->
+     updated: 2026-08-20 -->
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="250" viewBox="0 0 840 250">
 <title>Ṛc to ṛcā role marker</title>
-<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L9,4.5 L0,9 Z" fill="#555555"/></marker></defs>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L9,4.5 L0,9 Z" fill="#6b563a"/></marker></defs>
 <rect width="100%" height="100%" fill="white"/>
-<text x="420.0" y="32.0" font-family="Charter, Georgia, Times, serif" font-size="24" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">A śabda becomes a padam</text>
-<polygon points="125.0,107.7 165.0,107.7 185.0,142.3 165.0,177.0 125.0,177.0 105.0,142.3" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
-  <text x="145.0" y="135.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="23" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ऋ</text>
-  <text x="145.0" y="161.3" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ṛ</text>
-  <polygon points="185.0,73.0 195.0,73.0 215.0,107.7 195.0,142.3 185.0,142.3 165.0,107.7" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
-  <text x="190.0" y="100.7" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="23" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">च्</text>
-  <text x="190.0" y="126.7" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">c</text>
-  <line x1="115.0" y1="189.0" x2="205.0" y2="189.0" stroke="#888888" stroke-width="1.2"/>
-  <line x1="115.0" y1="189.0" x2="115.0" y2="181.0" stroke="#888888" stroke-width="1.2"/>
-  <line x1="145.0" y1="189.0" x2="145.0" y2="185.0" stroke="#888888" stroke-width="1.0"/>
-  <line x1="175.0" y1="189.0" x2="175.0" y2="181.0" stroke="#888888" stroke-width="1.2"/>
-  <line x1="205.0" y1="189.0" x2="205.0" y2="185.0" stroke="#888888" stroke-width="1.0"/>
-  <text x="160.0" y="209.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="20" font-weight="600" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">ऋच्  ṛc</text>
-<polygon points="395.0,107.7 495.0,107.7 515.0,142.3 495.0,177.0 395.0,177.0 375.0,142.3" fill="#888888" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
-  <text x="445.0" y="135.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="23" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#f7f7f7">आ</text>
-  <text x="445.0" y="161.3" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#f7f7f7">ā</text>
-  <line x1="385.0" y1="189.0" x2="505.0" y2="189.0" stroke="#888888" stroke-width="1.2"/>
-  <line x1="385.0" y1="189.0" x2="385.0" y2="181.0" stroke="#888888" stroke-width="1.2"/>
-  <line x1="415.0" y1="189.0" x2="415.0" y2="185.0" stroke="#888888" stroke-width="1.0"/>
-  <line x1="445.0" y1="189.0" x2="445.0" y2="181.0" stroke="#888888" stroke-width="1.2"/>
-  <line x1="475.0" y1="189.0" x2="475.0" y2="185.0" stroke="#888888" stroke-width="1.0"/>
-  <line x1="505.0" y1="189.0" x2="505.0" y2="181.0" stroke="#888888" stroke-width="1.2"/>
-  <text x="445.0" y="209.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="20" font-weight="600" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">instrumental role-marker</text>
-<polygon points="610.0,107.7 650.0,107.7 670.0,142.3 650.0,177.0 610.0,177.0 590.0,142.3" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
-  <text x="630.0" y="135.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="23" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ऋ</text>
-  <text x="630.0" y="161.3" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ṛ</text>
-  <polygon points="670.0,73.0 680.0,73.0 700.0,107.7 680.0,142.3 670.0,142.3 650.0,107.7" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
-  <text x="675.0" y="100.7" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="23" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">च्</text>
-  <text x="675.0" y="126.7" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">c</text>
-  <polygon points="700.0,107.7 800.0,107.7 820.0,142.3 800.0,177.0 700.0,177.0 680.0,142.3" fill="#dcdcdc" stroke="#333333" stroke-width="1.5" stroke-linejoin="round"/>
-  <text x="750.0" y="135.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="23" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">आ</text>
-  <text x="750.0" y="161.3" font-family="Charter, Georgia, Times, serif" font-size="11" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">ā</text>
-  <line x1="600.0" y1="189.0" x2="810.0" y2="189.0" stroke="#888888" stroke-width="1.2"/>
-  <line x1="600.0" y1="189.0" x2="600.0" y2="181.0" stroke="#888888" stroke-width="1.2"/>
-  <line x1="630.0" y1="189.0" x2="630.0" y2="185.0" stroke="#888888" stroke-width="1.0"/>
-  <line x1="660.0" y1="189.0" x2="660.0" y2="181.0" stroke="#888888" stroke-width="1.2"/>
-  <line x1="690.0" y1="189.0" x2="690.0" y2="185.0" stroke="#888888" stroke-width="1.0"/>
-  <line x1="720.0" y1="189.0" x2="720.0" y2="181.0" stroke="#888888" stroke-width="1.2"/>
-  <line x1="750.0" y1="189.0" x2="750.0" y2="185.0" stroke="#888888" stroke-width="1.0"/>
-  <line x1="780.0" y1="189.0" x2="780.0" y2="181.0" stroke="#888888" stroke-width="1.2"/>
-  <line x1="810.0" y1="189.0" x2="810.0" y2="185.0" stroke="#888888" stroke-width="1.0"/>
-  <text x="705.0" y="209.0" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="20" font-weight="600" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">ऋचा  ṛcā</text>
-<text x="315.0" y="125.0" font-family="Charter, Georgia, Times, serif" font-size="34" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">+</text>
-<line x1="450.0" y1="125.0" x2="520.0" y2="125.0" stroke="#555555" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="420.0" y="32.0" font-family="Charter, Georgia, Times, serif" font-size="24" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">A śabda becomes a padam</text>
+<polygon points="132.8,100.9 188.3,100.9 216.1,149.1 188.3,197.2 132.8,197.2 105.0,149.1" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <g fill="#3d2f1f"><path transform="translate(151.10,139.88) scale(0.014920,-0.014920)" d="M18 872H581L582 654L577 651C470 751 400 788 310 788C228 788 147 753 43 686L158 534H166C260 593 335 622 386 622C442 622 499 598 557 545C426 448 276 351 118 250V242L263 128C360 187 462 256 573 337L579 336L570 22L731 -25L745 -15L742 434C859 436 952 453 1018 490C1060 450 1079 408 1079 363C1079 267 986 198 823 198L818 187L925 54C945 48 969 45 995 45C1119 45 1230 134 1230 254C1230 350 1186 430 1100 533C1132 565 1150 599 1150 633C1150 659 1127 695 1100 738C1070 786 1046 812 1020 812C953 812 887 759 887 703C887 684 892 663 907 642C876 616 821 600 740 596V872H1310L1324 891L1256 1028H-36L-50 1009Z"/></g>
+  <text x="160.6" y="173.5" font-family="Charter, Georgia, Times, serif" font-size="27.77777777777778" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">ṛ</text>
+  <polygon points="216.1,52.8 230.0,52.8 257.8,100.9 230.0,149.1 216.1,149.1 188.3,100.9" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <g fill="#f4eedd"><path transform="translate(214.77,91.78) scale(0.014920,-0.014920)" d="M18 872H812V567C812 495 787 448 747 413C684 360 617 334 536 334C473 334 412 368 412 446C412 532 470 595 577 595H711L722 607L651 749H68L53 730L122 589H250C242 569 240 547 240 527C240 442 277 376 342 306C437 203 533 172 622 172C684 172 748 185 813 233L809 21L968 -25L982 -15L978 872H1152L1166 891L1098 1028H-36L-50 1009Z"/><path transform="translate(231.78,91.78) scale(0.014920,-0.014920)" d="M-354 -232 -346 -238C-317 -233 -287 -232 -258 -232C-99 -232 9 -334 173 -494H185L224 -431C113 -323 -4 -210 -85 -152C-161 -98 -248 -64 -350 -64C-373 -64 -395 -65 -418 -67Z"/></g>
+  <text x="223.1" y="125.4" font-family="Charter, Georgia, Times, serif" font-size="27.77777777777778" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">c</text>
+  <line x1="118.9" y1="209.2" x2="243.9" y2="209.2" stroke="#888888" stroke-width="1.2"/>
+  <line x1="118.9" y1="209.2" x2="118.9" y2="201.2" stroke="#888888" stroke-width="1.2"/>
+  <line x1="160.6" y1="209.2" x2="160.6" y2="205.2" stroke="#888888" stroke-width="1.0"/>
+  <line x1="202.2" y1="209.2" x2="202.2" y2="201.2" stroke="#888888" stroke-width="1.2"/>
+  <line x1="243.9" y1="209.2" x2="243.9" y2="205.2" stroke="#888888" stroke-width="1.0"/>
+  <g fill="#6b563a"><path transform="translate(155.84,233.57) scale(0.009766,-0.009766)" d="M115 872H678L637 654L631 651C564 728 499 788 391 788C292 788 188 734 104 686L190 534H198C258 568 364 622 435 622C498 622 550 591 591 545C429 440 262 345 94 250L93 242L216 128C335 193 452 264 566 337L572 336L502 22L654 -25L670 -15L754 434C849 436 955 446 1041 490C1065 462 1080 429 1080 392C1080 246 907 198 789 198L782 187L863 54C885 47 909 45 932 45C1080 45 1213 158 1213 311C1213 392 1174 466 1132 533C1161 558 1202 602 1202 643C1202 683 1151 812 1106 812C1039 812 950 757 950 683C950 669 953 655 960 642C912 608 840 599 784 596L837 872H1407L1425 891L1384 1028H92L74 1009Z"/><path transform="translate(168.28,233.57) scale(0.009766,-0.009766)" d="M115 872H909L850 567C818 400 635 334 542 334C468 334 422 362 422 431C422 535 532 595 621 595H755L768 607L724 749H141L123 730L164 589H292C273 556 265 513 265 476C265 412 292 357 329 306C393 219 474 172 583 172C658 172 723 192 786 233L741 21L891 -25L907 -15L1075 872H1249L1267 891L1226 1028H92L74 1009Z"/><path transform="translate(179.42,233.57) scale(0.009766,-0.009766)" d="M-471 -232 -464 -238C-435 -233 -405 -232 -375 -232C-209 -232 -117 -348 5 -494H17L68 -431C-10 -338 -92 -229 -187 -152C-259 -93 -341 -64 -434 -64C-457 -64 -480 -65 -503 -67Z"/><text x="179.18" y="229.20" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="20.00" fill="#6b563a" dominant-baseline="middle" xml:space="preserve">  ṛc</text></g>
+<polygon points="402.8,100.9 541.7,100.9 569.4,149.1 541.7,197.2 402.8,197.2 375.0,149.1" fill="#a8842c" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <g fill="#f4eedd"><path transform="translate(459.46,139.88) scale(0.014920,-0.014920)" d="M1142 872H1403L1399 22L1560 -25L1574 -15L1570 872H1744L1758 891L1690 1028H767L753 1009L821 872H977V558C927 529 873 511 816 511C774 511 732 514 715 532C701 550 687 566 671 580C705 624 723 670 723 714C723 778 703 832 658 895C585 997 515 1044 398 1044C320 1044 241 1013 168 960L164 946L266 792C357 847 434 877 498 877C574 877 589 843 589 808C589 761 554 720 488 694C416 681 344 661 273 636L267 617L368 460C441 489 504 507 554 507C623 507 653 474 653 422C653 324 550 260 464 260C297 260 212 381 95 592L22 542L20 533C163 249 324 76 527 76C680 76 791 181 791 318C791 345 788 368 783 391L791 394C830 369 888 352 941 352C954 352 962 352 975 354L972 21L1132 -25L1146 -15Z"/></g>
+  <text x="472.2" y="173.5" font-family="Charter, Georgia, Times, serif" font-size="27.77777777777778" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">ā</text>
+  <line x1="388.9" y1="209.2" x2="555.6" y2="209.2" stroke="#888888" stroke-width="1.2"/>
+  <line x1="388.9" y1="209.2" x2="388.9" y2="201.2" stroke="#888888" stroke-width="1.2"/>
+  <line x1="430.6" y1="209.2" x2="430.6" y2="205.2" stroke="#888888" stroke-width="1.0"/>
+  <line x1="472.2" y1="209.2" x2="472.2" y2="201.2" stroke="#888888" stroke-width="1.2"/>
+  <line x1="513.9" y1="209.2" x2="513.9" y2="205.2" stroke="#888888" stroke-width="1.0"/>
+  <line x1="555.6" y1="209.2" x2="555.6" y2="201.2" stroke="#888888" stroke-width="1.2"/>
+  <text x="472.2" y="229.2" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="20" font-weight="600" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">instrumental role-marker</text>
+<polygon points="617.8,100.9 673.3,100.9 701.1,149.1 673.3,197.2 617.8,197.2 590.0,149.1" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <g fill="#3d2f1f"><path transform="translate(636.10,139.88) scale(0.014920,-0.014920)" d="M18 872H581L582 654L577 651C470 751 400 788 310 788C228 788 147 753 43 686L158 534H166C260 593 335 622 386 622C442 622 499 598 557 545C426 448 276 351 118 250V242L263 128C360 187 462 256 573 337L579 336L570 22L731 -25L745 -15L742 434C859 436 952 453 1018 490C1060 450 1079 408 1079 363C1079 267 986 198 823 198L818 187L925 54C945 48 969 45 995 45C1119 45 1230 134 1230 254C1230 350 1186 430 1100 533C1132 565 1150 599 1150 633C1150 659 1127 695 1100 738C1070 786 1046 812 1020 812C953 812 887 759 887 703C887 684 892 663 907 642C876 616 821 600 740 596V872H1310L1324 891L1256 1028H-36L-50 1009Z"/></g>
+  <text x="645.6" y="173.5" font-family="Charter, Georgia, Times, serif" font-size="27.77777777777778" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">ṛ</text>
+  <polygon points="701.1,52.8 715.0,52.8 742.8,100.9 715.0,149.1 701.1,149.1 673.3,100.9" fill="#4a3a28" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <g fill="#f4eedd"><path transform="translate(699.77,91.78) scale(0.014920,-0.014920)" d="M18 872H812V567C812 495 787 448 747 413C684 360 617 334 536 334C473 334 412 368 412 446C412 532 470 595 577 595H711L722 607L651 749H68L53 730L122 589H250C242 569 240 547 240 527C240 442 277 376 342 306C437 203 533 172 622 172C684 172 748 185 813 233L809 21L968 -25L982 -15L978 872H1152L1166 891L1098 1028H-36L-50 1009Z"/><path transform="translate(716.78,91.78) scale(0.014920,-0.014920)" d="M-354 -232 -346 -238C-317 -233 -287 -232 -258 -232C-99 -232 9 -334 173 -494H185L224 -431C113 -323 -4 -210 -85 -152C-161 -98 -248 -64 -350 -64C-373 -64 -395 -65 -418 -67Z"/></g>
+  <text x="708.1" y="125.4" font-family="Charter, Georgia, Times, serif" font-size="27.77777777777778" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#f4eedd">c</text>
+  <polygon points="742.8,100.9 881.7,100.9 909.4,149.1 881.7,197.2 742.8,197.2 715.0,149.1" fill="#d8c7a3" stroke="#5c4830" stroke-width="1.5" stroke-linejoin="round"/>
+  <g fill="#3d2f1f"><path transform="translate(799.46,139.88) scale(0.014920,-0.014920)" d="M1142 872H1403L1399 22L1560 -25L1574 -15L1570 872H1744L1758 891L1690 1028H767L753 1009L821 872H977V558C927 529 873 511 816 511C774 511 732 514 715 532C701 550 687 566 671 580C705 624 723 670 723 714C723 778 703 832 658 895C585 997 515 1044 398 1044C320 1044 241 1013 168 960L164 946L266 792C357 847 434 877 498 877C574 877 589 843 589 808C589 761 554 720 488 694C416 681 344 661 273 636L267 617L368 460C441 489 504 507 554 507C623 507 653 474 653 422C653 324 550 260 464 260C297 260 212 381 95 592L22 542L20 533C163 249 324 76 527 76C680 76 791 181 791 318C791 345 788 368 783 391L791 394C830 369 888 352 941 352C954 352 962 352 975 354L972 21L1132 -25L1146 -15Z"/></g>
+  <text x="812.2" y="173.5" font-family="Charter, Georgia, Times, serif" font-size="27.77777777777778" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">ā</text>
+  <line x1="603.9" y1="209.2" x2="895.6" y2="209.2" stroke="#888888" stroke-width="1.2"/>
+  <line x1="603.9" y1="209.2" x2="603.9" y2="201.2" stroke="#888888" stroke-width="1.2"/>
+  <line x1="645.6" y1="209.2" x2="645.6" y2="205.2" stroke="#888888" stroke-width="1.0"/>
+  <line x1="687.2" y1="209.2" x2="687.2" y2="201.2" stroke="#888888" stroke-width="1.2"/>
+  <line x1="728.9" y1="209.2" x2="728.9" y2="205.2" stroke="#888888" stroke-width="1.0"/>
+  <line x1="770.6" y1="209.2" x2="770.6" y2="201.2" stroke="#888888" stroke-width="1.2"/>
+  <line x1="812.2" y1="209.2" x2="812.2" y2="205.2" stroke="#888888" stroke-width="1.0"/>
+  <line x1="853.9" y1="209.2" x2="853.9" y2="201.2" stroke="#888888" stroke-width="1.2"/>
+  <line x1="895.6" y1="209.2" x2="895.6" y2="205.2" stroke="#888888" stroke-width="1.0"/>
+  <g fill="#6b563a"><path transform="translate(716.49,233.57) scale(0.009766,-0.009766)" d="M115 872H678L637 654L631 651C564 728 499 788 391 788C292 788 188 734 104 686L190 534H198C258 568 364 622 435 622C498 622 550 591 591 545C429 440 262 345 94 250L93 242L216 128C335 193 452 264 566 337L572 336L502 22L654 -25L670 -15L754 434C849 436 955 446 1041 490C1065 462 1080 429 1080 392C1080 246 907 198 789 198L782 187L863 54C885 47 909 45 932 45C1080 45 1213 158 1213 311C1213 392 1174 466 1132 533C1161 558 1202 602 1202 643C1202 683 1151 812 1106 812C1039 812 950 757 950 683C950 669 953 655 960 642C912 608 840 599 784 596L837 872H1407L1425 891L1384 1028H92L74 1009Z"/><path transform="translate(728.93,233.57) scale(0.009766,-0.009766)" d="M115 872H909L850 567C818 400 635 334 542 334C468 334 422 362 422 431C422 535 532 595 621 595H755L768 607L724 749H141L123 730L164 589H292C273 556 265 513 265 476C265 412 292 357 329 306C393 219 474 172 583 172C658 172 723 192 786 233L741 21L891 -25L907 -15L1075 872H1249L1267 891L1226 1028H92L74 1009Z"/><path transform="translate(739.83,233.57) scale(0.009766,-0.009766)" d="M115 872H220L51 22L203 -25L219 -15L387 872H561L579 891L538 1028H92L74 1009Z"/><text x="744.01" y="229.20" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="20.00" fill="#6b563a" dominant-baseline="middle" xml:space="preserve">  ṛcā</text></g>
+<text x="315.0" y="125.0" font-family="Charter, Georgia, Times, serif" font-size="34" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">+</text>
+<line x1="450.0" y1="125.0" x2="520.0" y2="125.0" stroke="#6b563a" stroke-width="1.5" marker-end="url(#arrow)"/>
 </svg>

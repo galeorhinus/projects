@@ -1,75 +1,75 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="980" height="500" viewBox="0 0 980 500">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="529" viewBox="0 0 900 529">
 <title>Kṛ bonding matrix</title>
-<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L9,4.5 L0,9 Z" fill="#555555"/></marker></defs>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L9,4.5 L0,9 Z" fill="#6b563a"/></marker></defs>
 <rect width="100%" height="100%" fill="white"/>
-<text x="490.0" y="34.0" font-family="Charter, Georgia, Times, serif" font-size="24" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">The kṛ bonding matrix</text>
-<rect x="35" y="82" width="178" height="66.24" fill="#f0f0f0" stroke="#333333" stroke-width="1"/>
-<text x="124.0" y="115.1" font-family="Charter, Georgia, Times, serif" font-size="13" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">head-bond</text>
-<rect x="213" y="82" width="178" height="66.24" fill="#f0f0f0" stroke="#333333" stroke-width="1"/>
-<text x="302.0" y="115.1" font-family="Charter, Georgia, Times, serif" font-size="13" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">state / formation</text>
-<rect x="391" y="82" width="178" height="66.24" fill="#f0f0f0" stroke="#333333" stroke-width="1"/>
-<text x="480.0" y="115.1" font-family="Charter, Georgia, Times, serif" font-size="13" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">act / mode</text>
-<rect x="569" y="82" width="178" height="66.24" fill="#f0f0f0" stroke="#333333" stroke-width="1"/>
-<text x="658.0" y="115.1" font-family="Charter, Georgia, Times, serif" font-size="13" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">obligation</text>
-<rect x="747" y="82" width="178" height="66.24" fill="#f0f0f0" stroke="#333333" stroke-width="1"/>
-<text x="836.0" y="115.1" font-family="Charter, Georgia, Times, serif" font-size="13" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">deed</text>
-<rect x="925" y="82" width="178" height="66.24" fill="#f0f0f0" stroke="#333333" stroke-width="1"/>
-<text x="1014.0" y="115.1" font-family="Charter, Georgia, Times, serif" font-size="13" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">agent</text>
-<rect x="35" y="148.24" width="178" height="92" fill="#f7f7f7" stroke="#333333" stroke-width="1"/>
-<text x="124.0" y="194.2" font-family="Charter, Georgia, Times, serif" font-size="14" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">none</text>
-<rect x="213" y="148.24" width="178" height="92" fill="#fbfbfb" stroke="#333333" stroke-width="1"/>
-<text x="302.0" y="194.2" font-family="Charter, Georgia, Times, serif" font-size="18" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#aaaaaa">—</text>
-<rect x="391" y="148.24" width="178" height="92" fill="#fbfbfb" stroke="#333333" stroke-width="1"/>
-<text x="480.0" y="194.2" font-family="Charter, Georgia, Times, serif" font-size="18" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#aaaaaa">—</text>
-<rect x="569" y="148.24" width="178" height="92" fill="#ffffff" stroke="#333333" stroke-width="1"/>
-<text x="658.0" y="185.2" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="18" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">कार्य</text>
-<text x="658.0" y="211.2" font-family="Charter, Georgia, Times, serif" font-size="12" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">kārya</text>
-<rect x="747" y="148.24" width="178" height="92" fill="#ffffff" stroke="#333333" stroke-width="1"/>
-<text x="836.0" y="185.2" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="18" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">कर्म</text>
-<text x="836.0" y="211.2" font-family="Charter, Georgia, Times, serif" font-size="12" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">karma</text>
-<rect x="925" y="148.24" width="178" height="92" fill="#ffffff" stroke="#333333" stroke-width="1"/>
-<text x="1014.0" y="185.2" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="18" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">कर्तृ</text>
-<text x="1014.0" y="211.2" font-family="Charter, Georgia, Times, serif" font-size="12" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">kartṛ</text>
-<rect x="35" y="240.24" width="178" height="92" fill="#f7f7f7" stroke="#333333" stroke-width="1"/>
-<text x="124.0" y="286.2" font-family="Charter, Georgia, Times, serif" font-size="14" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">प्र pra-</text>
-<rect x="213" y="240.24" width="178" height="92" fill="#ffffff" stroke="#333333" stroke-width="1"/>
-<text x="302.0" y="277.2" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="18" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">प्रकृति</text>
-<text x="302.0" y="303.2" font-family="Charter, Georgia, Times, serif" font-size="12" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">prakṛti</text>
-<rect x="391" y="240.24" width="178" height="92" fill="#ffffff" stroke="#333333" stroke-width="1"/>
-<text x="480.0" y="277.2" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="18" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">प्रकार</text>
-<text x="480.0" y="303.2" font-family="Charter, Georgia, Times, serif" font-size="12" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">prakāra</text>
-<rect x="569" y="240.24" width="178" height="92" fill="#fbfbfb" stroke="#333333" stroke-width="1"/>
-<text x="658.0" y="286.2" font-family="Charter, Georgia, Times, serif" font-size="18" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#aaaaaa">—</text>
-<rect x="747" y="240.24" width="178" height="92" fill="#fbfbfb" stroke="#333333" stroke-width="1"/>
-<text x="836.0" y="286.2" font-family="Charter, Georgia, Times, serif" font-size="18" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#aaaaaa">—</text>
-<rect x="925" y="240.24" width="178" height="92" fill="#fbfbfb" stroke="#333333" stroke-width="1"/>
-<text x="1014.0" y="286.2" font-family="Charter, Georgia, Times, serif" font-size="18" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#aaaaaa">—</text>
-<rect x="35" y="332.24" width="178" height="92" fill="#f7f7f7" stroke="#333333" stroke-width="1"/>
-<text x="124.0" y="378.2" font-family="Charter, Georgia, Times, serif" font-size="14" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">वि vi-</text>
-<rect x="213" y="332.24" width="178" height="92" fill="#ffffff" stroke="#333333" stroke-width="1"/>
-<text x="302.0" y="369.2" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="18" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">विकृति</text>
-<text x="302.0" y="395.2" font-family="Charter, Georgia, Times, serif" font-size="12" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">vikṛti</text>
-<rect x="391" y="332.24" width="178" height="92" fill="#ffffff" stroke="#333333" stroke-width="1"/>
-<text x="480.0" y="369.2" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="18" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">विकार</text>
-<text x="480.0" y="395.2" font-family="Charter, Georgia, Times, serif" font-size="12" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">vikāra</text>
-<rect x="569" y="332.24" width="178" height="92" fill="#fbfbfb" stroke="#333333" stroke-width="1"/>
-<text x="658.0" y="378.2" font-family="Charter, Georgia, Times, serif" font-size="18" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#aaaaaa">—</text>
-<rect x="747" y="332.24" width="178" height="92" fill="#fbfbfb" stroke="#333333" stroke-width="1"/>
-<text x="836.0" y="378.2" font-family="Charter, Georgia, Times, serif" font-size="18" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#aaaaaa">—</text>
-<rect x="925" y="332.24" width="178" height="92" fill="#fbfbfb" stroke="#333333" stroke-width="1"/>
-<text x="1014.0" y="378.2" font-family="Charter, Georgia, Times, serif" font-size="18" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#aaaaaa">—</text>
-<rect x="35" y="424.24" width="178" height="92" fill="#f7f7f7" stroke="#333333" stroke-width="1"/>
-<text x="124.0" y="470.2" font-family="Charter, Georgia, Times, serif" font-size="14" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">सम् sam-</text>
-<rect x="213" y="424.24" width="178" height="92" fill="#ffffff" stroke="#333333" stroke-width="1"/>
-<text x="302.0" y="461.2" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="18" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">संस्कृति</text>
-<text x="302.0" y="487.2" font-family="Charter, Georgia, Times, serif" font-size="12" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">saṃskṛti</text>
-<rect x="391" y="424.24" width="178" height="92" fill="#ffffff" stroke="#333333" stroke-width="1"/>
-<text x="480.0" y="461.2" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="18" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">संस्कार</text>
-<text x="480.0" y="487.2" font-family="Charter, Georgia, Times, serif" font-size="12" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#555555">saṃskāra</text>
-<rect x="569" y="424.24" width="178" height="92" fill="#fbfbfb" stroke="#333333" stroke-width="1"/>
-<text x="658.0" y="470.2" font-family="Charter, Georgia, Times, serif" font-size="18" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#aaaaaa">—</text>
-<rect x="747" y="424.24" width="178" height="92" fill="#fbfbfb" stroke="#333333" stroke-width="1"/>
-<text x="836.0" y="470.2" font-family="Charter, Georgia, Times, serif" font-size="18" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#aaaaaa">—</text>
-<rect x="925" y="424.24" width="178" height="92" fill="#fbfbfb" stroke="#333333" stroke-width="1"/>
-<text x="1014.0" y="470.2" font-family="Charter, Georgia, Times, serif" font-size="18" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#aaaaaa">—</text>
+<text x="450.0" y="55.6" font-family="Charter, Georgia, Times, serif" font-size="33.333333333333336" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">The kṛ bonding matrix</text>
+<rect x="19.4" y="94.4" width="138.9" height="62.0" fill="#efe7d6" stroke="#5c4830" stroke-width="1"/>
+<text x="88.9" y="125.4" font-family="Charter, Georgia, Times, serif" font-size="27.77777777777778" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">head-bond</text>
+<rect x="158.3" y="94.4" width="144.4" height="62.0" fill="#efe7d6" stroke="#5c4830" stroke-width="1"/>
+<text x="230.6" y="125.4" font-family="Charter, Georgia, Times, serif" font-size="27.77777777777778" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">state</text>
+<rect x="302.8" y="94.4" width="144.4" height="62.0" fill="#efe7d6" stroke="#5c4830" stroke-width="1"/>
+<text x="375.0" y="125.4" font-family="Charter, Georgia, Times, serif" font-size="27.77777777777778" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">act</text>
+<rect x="447.2" y="94.4" width="144.4" height="62.0" fill="#efe7d6" stroke="#5c4830" stroke-width="1"/>
+<text x="519.4" y="125.4" font-family="Charter, Georgia, Times, serif" font-size="27.77777777777778" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">obligation</text>
+<rect x="591.7" y="94.4" width="144.4" height="62.0" fill="#efe7d6" stroke="#5c4830" stroke-width="1"/>
+<text x="663.9" y="125.4" font-family="Charter, Georgia, Times, serif" font-size="27.77777777777778" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">deed</text>
+<rect x="736.1" y="94.4" width="144.4" height="62.0" fill="#efe7d6" stroke="#5c4830" stroke-width="1"/>
+<text x="808.3" y="125.4" font-family="Charter, Georgia, Times, serif" font-size="27.77777777777778" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">agent</text>
+<rect x="19.4" y="156.4" width="138.9" height="86.1" fill="#faf6ee" stroke="#5c4830" stroke-width="1"/>
+<text x="88.9" y="199.5" font-family="Charter, Georgia, Times, serif" font-size="27.77777777777778" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">none</text>
+<rect x="158.3" y="156.4" width="144.4" height="86.1" fill="#faf8f4" stroke="#5c4830" stroke-width="1"/>
+<text x="230.6" y="199.5" font-family="Charter, Georgia, Times, serif" font-size="30.555555555555557" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#cdbf9e">—</text>
+<rect x="302.8" y="156.4" width="144.4" height="86.1" fill="#faf8f4" stroke="#5c4830" stroke-width="1"/>
+<text x="375.0" y="199.5" font-family="Charter, Georgia, Times, serif" font-size="30.555555555555557" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#cdbf9e">—</text>
+<rect x="447.2" y="156.4" width="144.4" height="86.1" fill="#ffffff" stroke="#5c4830" stroke-width="1"/>
+<text x="519.4" y="189.1" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="30.555555555555557" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">कार्य</text>
+<text x="519.4" y="219.5" font-family="Charter, Georgia, Times, serif" font-size="27.77777777777778" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">kārya</text>
+<rect x="591.7" y="156.4" width="144.4" height="86.1" fill="#ffffff" stroke="#5c4830" stroke-width="1"/>
+<text x="663.9" y="189.1" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="30.555555555555557" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">कर्म</text>
+<text x="663.9" y="219.5" font-family="Charter, Georgia, Times, serif" font-size="27.77777777777778" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">karma</text>
+<rect x="736.1" y="156.4" width="144.4" height="86.1" fill="#ffffff" stroke="#5c4830" stroke-width="1"/>
+<text x="808.3" y="189.1" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="30.555555555555557" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">कर्तृ</text>
+<text x="808.3" y="219.5" font-family="Charter, Georgia, Times, serif" font-size="27.77777777777778" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">kartṛ</text>
+<rect x="19.4" y="242.6" width="138.9" height="86.1" fill="#faf6ee" stroke="#5c4830" stroke-width="1"/>
+<text x="88.9" y="285.6" font-family="Charter, Georgia, Times, serif" font-size="27.77777777777778" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">प्र pra-</text>
+<rect x="158.3" y="242.6" width="144.4" height="86.1" fill="#ffffff" stroke="#5c4830" stroke-width="1"/>
+<text x="230.6" y="275.2" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="30.555555555555557" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">प्रकृति</text>
+<text x="230.6" y="305.6" font-family="Charter, Georgia, Times, serif" font-size="27.77777777777778" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">prakṛti</text>
+<rect x="302.8" y="242.6" width="144.4" height="86.1" fill="#ffffff" stroke="#5c4830" stroke-width="1"/>
+<text x="375.0" y="275.2" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="30.555555555555557" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">प्रकार</text>
+<text x="375.0" y="305.6" font-family="Charter, Georgia, Times, serif" font-size="27.77777777777778" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">prakāra</text>
+<rect x="447.2" y="242.6" width="144.4" height="86.1" fill="#faf8f4" stroke="#5c4830" stroke-width="1"/>
+<text x="519.4" y="285.6" font-family="Charter, Georgia, Times, serif" font-size="30.555555555555557" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#cdbf9e">—</text>
+<rect x="591.7" y="242.6" width="144.4" height="86.1" fill="#faf8f4" stroke="#5c4830" stroke-width="1"/>
+<text x="663.9" y="285.6" font-family="Charter, Georgia, Times, serif" font-size="30.555555555555557" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#cdbf9e">—</text>
+<rect x="736.1" y="242.6" width="144.4" height="86.1" fill="#faf8f4" stroke="#5c4830" stroke-width="1"/>
+<text x="808.3" y="285.6" font-family="Charter, Georgia, Times, serif" font-size="30.555555555555557" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#cdbf9e">—</text>
+<rect x="19.4" y="328.7" width="138.9" height="86.1" fill="#faf6ee" stroke="#5c4830" stroke-width="1"/>
+<text x="88.9" y="371.7" font-family="Charter, Georgia, Times, serif" font-size="27.77777777777778" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">वि vi-</text>
+<rect x="158.3" y="328.7" width="144.4" height="86.1" fill="#ffffff" stroke="#5c4830" stroke-width="1"/>
+<text x="230.6" y="361.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="30.555555555555557" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">विकृति</text>
+<text x="230.6" y="391.7" font-family="Charter, Georgia, Times, serif" font-size="27.77777777777778" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">vikṛti</text>
+<rect x="302.8" y="328.7" width="144.4" height="86.1" fill="#ffffff" stroke="#5c4830" stroke-width="1"/>
+<text x="375.0" y="361.3" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="30.555555555555557" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">विकार</text>
+<text x="375.0" y="391.7" font-family="Charter, Georgia, Times, serif" font-size="27.77777777777778" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">vikāra</text>
+<rect x="447.2" y="328.7" width="144.4" height="86.1" fill="#faf8f4" stroke="#5c4830" stroke-width="1"/>
+<text x="519.4" y="371.7" font-family="Charter, Georgia, Times, serif" font-size="30.555555555555557" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#cdbf9e">—</text>
+<rect x="591.7" y="328.7" width="144.4" height="86.1" fill="#faf8f4" stroke="#5c4830" stroke-width="1"/>
+<text x="663.9" y="371.7" font-family="Charter, Georgia, Times, serif" font-size="30.555555555555557" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#cdbf9e">—</text>
+<rect x="736.1" y="328.7" width="144.4" height="86.1" fill="#faf8f4" stroke="#5c4830" stroke-width="1"/>
+<text x="808.3" y="371.7" font-family="Charter, Georgia, Times, serif" font-size="30.555555555555557" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#cdbf9e">—</text>
+<rect x="19.4" y="414.8" width="138.9" height="86.1" fill="#faf6ee" stroke="#5c4830" stroke-width="1"/>
+<text x="88.9" y="457.8" font-family="Charter, Georgia, Times, serif" font-size="27.77777777777778" font-weight="700" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">सम् sam-</text>
+<rect x="158.3" y="414.8" width="144.4" height="86.1" fill="#ffffff" stroke="#5c4830" stroke-width="1"/>
+<text x="230.6" y="447.4" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="30.555555555555557" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">संस्कृति</text>
+<text x="230.6" y="477.8" font-family="Charter, Georgia, Times, serif" font-size="27.77777777777778" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">saṃskṛti</text>
+<rect x="302.8" y="414.8" width="144.4" height="86.1" fill="#ffffff" stroke="#5c4830" stroke-width="1"/>
+<text x="375.0" y="447.4" font-family="Noto Sans Devanagari, Kohinoor Devanagari, Devanagari MT, Arial Unicode MS, sans-serif" font-size="30.555555555555557" font-weight="600" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#3d2f1f">संस्कार</text>
+<text x="375.0" y="477.8" font-family="Charter, Georgia, Times, serif" font-size="27.77777777777778" font-weight="400" font-style="italic" text-anchor="middle" dominant-baseline="middle" fill="#6b563a">saṃskāra</text>
+<rect x="447.2" y="414.8" width="144.4" height="86.1" fill="#faf8f4" stroke="#5c4830" stroke-width="1"/>
+<text x="519.4" y="457.8" font-family="Charter, Georgia, Times, serif" font-size="30.555555555555557" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#cdbf9e">—</text>
+<rect x="591.7" y="414.8" width="144.4" height="86.1" fill="#faf8f4" stroke="#5c4830" stroke-width="1"/>
+<text x="663.9" y="457.8" font-family="Charter, Georgia, Times, serif" font-size="30.555555555555557" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#cdbf9e">—</text>
+<rect x="736.1" y="414.8" width="144.4" height="86.1" fill="#faf8f4" stroke="#5c4830" stroke-width="1"/>
+<text x="808.3" y="457.8" font-family="Charter, Georgia, Times, serif" font-size="30.555555555555557" font-weight="400" font-style="normal" text-anchor="middle" dominant-baseline="middle" fill="#cdbf9e">—</text>
 </svg>

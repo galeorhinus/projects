@@ -15,9 +15,60 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 BUILD_DIR = Path(__file__).resolve().parent
-sys.path.insert(0, str(REPO_ROOT / "working" / "dhatu_hexagons"))
+# working/50_projects/dhatu_hexagons since the 2026-08-17 reorg; the old
+# working/dhatu_hexagons path left here was stale and would have failed on a
+# clean checkout (it only kept working because a stale __pycache__ satisfied
+# the import locally).
+sys.path.insert(0, str(REPO_ROOT / "working" / "50_projects" / "dhatu_hexagons"))
+sys.path.insert(0, str(REPO_ROOT / "figures" / "_shared"))
 
+import matra_style as ms  # noqa: E402
 from dhatu_hexagon import EDGE_LENGTH, HEX_HEIGHT, VARNAS, is_ayogavaha  # noqa: E402
+
+# ---------------------------------------------------------------------------
+# Type sizing. Every Ch12 figure is authored on a 900-unit-wide viewBox and
+# rendered at 4.5in, so one point is 900 / (4.5 * 72) = 2.778 units and the
+# sizes below are literal points on the printed page. The previous figures
+# were built with raw unit sizes that worked out to 4.3-8.6pt -- legible on a
+# screen at full width, too small in the book. Author sizes in POINTS here and
+# let pt_to_px do the conversion, so the intent survives a geometry change.
+FIG_W = 900.0
+FIG_IN = 4.5
+
+
+def pt(points: float) -> float:
+    """Points on the printed page -> user units on a 900-wide viewBox."""
+    return ms.pt_to_px(points, FIG_W, FIG_IN)
+
+
+PT_DEVA = 11.0    # Devanagari inside tiles
+PT_IAST = 10.0    # IAST under each tile
+PT_HEAD = 12.0    # figure titles
+PT_LABEL = 10.0   # box labels, row labels -- the 10pt floor
+PT_GLOSS = 10.0   # secondary glosses; never below PT_LABEL
+
+FS_DEVA = pt(PT_DEVA)
+FS_IAST = pt(PT_IAST)
+FS_HEAD = pt(PT_HEAD)
+FS_LABEL = pt(PT_LABEL)
+FS_GLOSS = pt(PT_GLOSS)
+
+# Tile geometry scales with the type so the glyphs keep their margins inside
+# the hexagons. EDGE_LENGTH/HEX_HEIGHT are rebound in THIS module only --
+# dhatu_hexagon keeps its own values, and figures/building_kriya imports them
+# independently, so nothing else moves.
+GEOM_SCALE = FS_DEVA / 22.0   # 22 was the old hard-coded Devanagari size
+EDGE_LENGTH = EDGE_LENGTH * GEOM_SCALE
+HEX_HEIGHT = HEX_HEIGHT * GEOM_SCALE
+
+# Vertical placement of the two labels inside a tile, measured from the tile
+# centre. Both glyphs are near their own font size tall, so the offsets have
+# to clear half of each plus a gap -- at 11pt/10pt the earlier 0.18/0.72
+# multipliers put the IAST inside the Devanagari's descender and the two
+# collided. Derived from the sizes rather than hand-tuned so they stay correct
+# if PT_DEVA or PT_IAST changes.
+DEVA_DY = -(FS_DEVA * 0.52)
+IAST_DY = FS_DEVA * 0.30 + FS_IAST * 0.55
 
 
 DEV_FONT = (
@@ -28,24 +79,30 @@ LATIN_FONT = "Charter, Georgia, Times, serif"
 HALANT = "्"
 
 # Geometry is locked to the Ch11 timing convention: the visible midpoint
-# span of each tile tracks its mātrā value.
-MATRA_UNIT = 60
-WIDTH_C = 10
-WIDTH_V1 = 40
-WIDTH_V2 = 100
+# span of each tile tracks its mātrā value. Scaled with the type (GEOM_SCALE)
+# so the mātrā ruler underneath stays proportional to the tiles above it.
+MATRA_UNIT = 60 * GEOM_SCALE
+WIDTH_C = 10 * GEOM_SCALE
+WIDTH_V1 = 40 * GEOM_SCALE
+WIDTH_V2 = 100 * GEOM_SCALE
 
 UPPER_RAIL_Y = -HEX_HEIGHT / 4
 LOWER_RAIL_Y = HEX_HEIGHT / 4
 
-TEXT = "#1a1a1a"
-MUTED = "#555555"
-LIGHT = "#dcdcdc"
-MID = "#888888"
-DARK = "#555555"
-BLACK = "#1a1a1a"
-WHITE = "#f7f7f7"
-STROKE = "#333333"
-DASH = "#777777"
+# Warm palette shared with Chapter 11 (figures/_shared/matra_style.py), adopted
+# 2026-08-20 in place of this file's own grayscale set. The four role fills are
+# chosen so their *lightness* still separates cleanly when the page is printed
+# in grayscale, which is why the figures read correctly either way: tan is
+# light, gold is mid, mid-brown is darker, dark-brown is darkest.
+TEXT = ms.TEXT            # dark-brown ink for titles
+MUTED = ms.MUTED          # secondary brown for glosses and labels
+LIGHT = ms.LIGHT_FILL     # tan   — the atom's own varṇas
+MID = ms.GOLD             # gold  — transformed / added material
+DARK = ms.DARK_FILL       # dark brown — endings and tail-bonds
+BLACK = ms.DARK_FILL      # head-bonds share the darkest fill
+WHITE = ms.INK_LIGHT      # cream ink on the dark fills
+STROKE = ms.STROKE        # tile outline
+DASH = ms.RULER
 
 ROLE_FILL = {
     "original": LIGHT,
@@ -182,17 +239,36 @@ def render_arrow(x1: float, y1: float, x2: float, y2: float, dashed: bool = Fals
     )
 
 
+def varna_fill(v: dict) -> tuple[str, str]:
+    """(fill, ink) for a varṇa by class, following the Ch10 convention in
+    figures/building_dhatuh/matra_envelope.py and racana_scaffold.py:
+    vowels take the light tan, consonants the dark brown, and the ink flips
+    to stay legible on each. The two fills also separate by lightness in
+    grayscale, so the vowel/consonant reading survives a mono print."""
+    is_v = v["class"].startswith("V") or is_ayogavaha(v)
+    return (ms.LIGHT_FILL, ms.INK_DARK) if is_v else (ms.DARK_FILL, ms.INK_LIGHT)
+
+
 def render_hex(cx: float, cy: float, v: dict, role: str = "original") -> str:
     if is_ayogavaha(v):
         return render_ayogavaha(cx, cy, v, role)
-    fill = ROLE_FILL.get(role, LIGHT)
-    text_fill = ROLE_TEXT.get(role, TEXT)
+    # `original` means "no special provenance to signal", so the tile falls
+    # back to the vowel/consonant colouring. Any other role (head-bond,
+    # tail-bond, transformed material) still overrides it, because there the
+    # provenance is the point the figure is making.
+    if role == "original":
+        fill, text_fill = varna_fill(v)
+    else:
+        fill = ROLE_FILL.get(role, LIGHT)
+        text_fill = ROLE_TEXT.get(role, TEXT)
     w = width_for(v)
     fragments = [
         f'<polygon points="{points(hex_vertices(cx, cy, w))}" fill="{fill}" '
         f'stroke="{STROKE}" stroke-width="1.5" stroke-linejoin="round"/>',
-        render_text(cx, cy - 7, dev_label(v), 23, text_fill, family=DEV_FONT, weight="600"),
-        render_text(cx, cy + 19, v["iast"], 11, text_fill, style="italic"),
+        render_text(cx, cy + DEVA_DY, dev_label(v), FS_DEVA, text_fill,
+                    family=DEV_FONT, weight="600"),
+        render_text(cx, cy + IAST_DY, v["iast"], FS_IAST, text_fill,
+                    style="italic"),
     ]
     return "\n  ".join(fragments)
 
@@ -296,23 +372,52 @@ def layout_units(units: list[dict]) -> list[dict]:
 
 def render_cluster(cx: float, cy: float, parts: list[dict], role: str) -> str:
     w = EDGE_LENGTH * len(parts) / 2
-    fill = ROLE_FILL.get(role, LIGHT)
-    text_fill = ROLE_TEXT.get(role, TEXT)
+    # A cluster is consonants by definition, so it takes the consonant fill
+    # from the same vowel/consonant convention render_hex follows.
+    if role == "original":
+        fill, ink = ms.DARK_FILL, ms.INK_LIGHT
+    else:
+        fill, ink = ROLE_FILL.get(role, LIGHT), ROLE_TEXT.get(role, TEXT)
     fragments = [
         f'<polygon points="{points(hex_vertices(cx, cy, w))}" fill="{fill}" '
         f'stroke="{STROKE}" stroke-width="1.5" stroke-linejoin="round"/>'
     ]
 
-    # Same-provenance clusters render as a single Devanagari conjunct,
-    # centered in the shared timing envelope. If a future figure needs mixed
-    # provenance inside a cluster, split the cluster into provenance-specific
-    # render passes before calling this function.
-    conjunct_dev = "".join(p["deva"] + HALANT for p in parts)
+    # A cluster is ONE timing envelope holding MORE THAN ONE sonomer, so it
+    # is drawn as one wide hexagon divided internally: the divider shows the
+    # count, the conjunct shows the spelling. The envelope carries the timing
+    # (total_matras counts 0.5 per part). Changed 2026-08-20.
+    n = len(parts)
+    left = cx - w / 2 - EDGE_LENGTH / 2
+    right = cx + w / 2 + EDGE_LENGTH / 2
+    span = right - left
+    for i in range(1, n):
+        # Divider stops short of the outline top and bottom so it reads as an
+        # internal division of one tile, not as separate tiles butted
+        # together. It carries the sonomer count -- two half-mātrā slots --
+        # while the conjunct below carries the orthography.
+        dx = left + span * i / n
+        inset = HEX_HEIGHT * 0.30
+        fragments.append(
+            f'<line x1="{dx:.1f}" y1="{cy - HEX_HEIGHT / 2 + inset:.1f}" '
+            f'x2="{dx:.1f}" y2="{cy + HEX_HEIGHT / 2 - inset:.1f}" '
+            f'stroke="{ink}" stroke-width="0.9" stroke-dasharray="3 2" opacity="0.55"/>'
+        )
+    # The written form is the conjunct, so it is drawn as one ligature
+    # centred across the whole envelope rather than as per-half glyphs with
+    # visible halants: ष्य, not ष् | य्. Devanagari joins these consonants,
+    # and a figure that pulled them apart on the page would be showing a
+    # spelling Sanskrit does not use. The divider above already tells the
+    # reader the envelope holds two sonomers.
+    conjunct_dev = HALANT.join(p["deva"] for p in parts) + HALANT
     conjunct_iast = "".join(p["iast"] for p in parts)
-    dev_size = 22 if len(parts) == 2 else 19
-    iast_size = 10 if len(parts) == 2 else 9
-    fragments.append(render_text(cx, cy - 7, conjunct_dev, dev_size, text_fill, family=DEV_FONT, weight="600"))
-    fragments.append(render_text(cx, cy + 19, conjunct_iast, iast_size, text_fill, style="italic"))
+    fragments.append(
+        render_text(cx, cy + DEVA_DY, conjunct_dev, FS_DEVA, ink,
+                    family=DEV_FONT, weight="600")
+    )
+    fragments.append(
+        render_text(cx, cy + IAST_DY, conjunct_iast, FS_IAST, ink, style="italic")
+    )
     return "\n  ".join(fragments)
 
 
@@ -454,59 +559,141 @@ def write_svg(name: str, width: float, height: float, body: str, title: str) -> 
     print(f"Wrote {out.relative_to(REPO_ROOT)}")
 
 
-def label_box(x: float, y: float, w: float, h: float, title: str, subtitle: str = "") -> str:
+def label_box(x: float, y: float, w: float, h: float,
+              dev: str, iast: str, english: str) -> str:
+    """A named stage in three registers: Devanagari, IAST, plain English.
+
+    The three slots are at fixed heights in every box, so the Devanagari sits
+    on one line across the figure, the IAST on the next, and the English on
+    the third. `dev` may be empty -- the sonomer tile is the book's own
+    English coinage and gets no Devanagari line -- and the slot stays
+    reserved so the other two registers still line up with its neighbours.
+    """
     parts = [
         f'<rect x="{x:.1f}" y="{y:.1f}" width="{w:.1f}" height="{h:.1f}" rx="5" '
-        f'fill="#f7f7f7" stroke="{STROKE}" stroke-width="1.2"/>',
-        render_text(x + w / 2, y + h / 2 - (7 if subtitle else 0), title, 16, TEXT, weight="700"),
+        f'fill="{ms.BG}" stroke="{STROKE}" stroke-width="1.2"/>',
     ]
-    if subtitle:
-        parts.append(render_text(x + w / 2, y + h / 2 + 15, subtitle, 11, MUTED, style="italic"))
+    pad = FS_DEVA * 0.62
+    y_dev = y + pad
+    y_iast = y_dev + FS_DEVA * 0.52 + FS_IAST * 0.62
+    y_eng = y_iast + FS_IAST * 1.18
+    if dev:
+        parts.append(render_text(x + w / 2, y_dev, dev, FS_DEVA, TEXT,
+                                 family=DEV_FONT, weight="600"))
+    parts.append(render_text(x + w / 2, y_iast, iast, FS_IAST, TEXT,
+                             weight="700", style="italic"))
+    parts.append(render_text(x + w / 2, y_eng, english, FS_GLOSS, MUTED))
     return "\n  ".join(parts)
 
 
-def fig_pipeline() -> None:
+def fig_pipeline_scales() -> None:
+    """Figure 12.1a -- the five scales, named. No example, no tiles.
+
+    Split out of the former single `pipeline` figure 2026-08-20. That figure
+    tried to carry the abstract scale-chain and a worked ⟪कृ⟫ example in one
+    900x330 frame; at 4.5in the labels came out between 4.3pt and 8.6pt and
+    "śabda / kriyāpada" overflowed its box in both directions. Two figures let
+    each part hold type at the sizes the chapter specifies.
+    """
+    # (Devanagari, IAST, English). The Devanagari forms match the manuscript's
+    # own usage in Ch11-12. The English line is kept to one short word: five
+    # boxes across 4.5in leaves roughly 150 units each, and at the 10pt floor
+    # that holds about nine characters, so "semantic atom" and "role-marked"
+    # overflowed. The fuller glosses live in the caption and the prose.
+    # The śabda / kriyāpada box carries only क्रियापदम् -- the alternative
+    # made the widest box in the row and the chapter reaches the sentence
+    # through the verb anyway.
     items = [
-        ("sonomers", "varṇāḥ"),
-        ("dhātuḥ", "semantic atom"),
-        ("śabda / kriyāpada", "molecule"),
-        ("padam", "role-marked"),
-        ("vākya", "assembly"),
+        ("", "varṇāḥ", "sonomers"),
+        ("धातुः", "dhātuḥ", "atom"),
+        ("क्रियापद", "kriyāpada", "molecule"),
+        ("पदम्", "padam", "marked"),
+        ("वाक्यम्", "vākyam", "sentence"),
     ]
-    body: list[str] = [render_text(450, 34, "Assembly without loss", 24, TEXT, weight="700")]
-    x0 = 50
-    y = 88
-    for i, (title, subtitle) in enumerate(items):
-        x = x0 + i * 170
-        body.append(label_box(x, y, 130, 76, title, subtitle))
-        if i < len(items) - 1:
-            body.append(render_arrow(x + 134, y + 38, x + 166, y + 38))
-    sample, _ = render_strip([["k", "R"], ["k", "a", "r", "i", "S", "y", "a", "t", "i"]], 160, 230, "original", labels=["कृ", "करिष्यति"])
-    body.append(sample)
-    write_svg("building_vakya_pipeline", 900, 330, "\n".join(body), "Ch12 molecular assembly pipeline")
+    body: list[str] = [
+        render_text(FIG_W / 2, pt(20), "Assembly without loss", FS_HEAD, TEXT, weight="700")
+    ]
+    n = len(items)
+    box_w = 140.0
+    gap = (FIG_W - 2 * 26 - n * box_w) / (n - 1)   # even arrow gutters
+    y = pt(36)
+    box_h = pt(40)   # three registers now, not a title plus gloss
+    for i, (dev, iast, english) in enumerate(items):
+        x = 26 + i * (box_w + gap)
+        body.append(label_box(x, y, box_w, box_h, dev, iast, english))
+        if i < n - 1:
+            body.append(render_arrow(x + box_w + gap * 0.18, y + box_h / 2,
+                                     x + box_w + gap * 0.82, y + box_h / 2))
+    write_svg("building_vakya_pipeline_scales", FIG_W, y + box_h + pt(14),
+              "\n".join(body), "Ch12 assembly scales")
+
+
+def fig_pipeline_example() -> None:
+    """Figure 12.1b -- the same chain instantiated on one atom.
+
+    ⟪कृ⟫ becomes करिष्यति. The ष्य् cluster is one timing envelope divided
+    into two halves (see render_cluster), so the reader can still count the
+    sonomers inside it.
+    """
+    body: list[str] = [
+        render_text(FIG_W / 2, pt(20), "The same assembly on one atom",
+                    FS_HEAD, TEXT, weight="700")
+    ]
+    # The two words are placed in separate calls so the arrow can sit in the
+    # measured gap between them. Rendering both in one call returns only the
+    # combined extent, which is what put the arrow on top of करिष्यति's first
+    # tile.
+    y = pt(58)
+    atom, e_atom = render_strip([["k", "R"]], 40, y, "original",
+                                labels=["कृ"], label_size=FS_IAST)
+    gap = pt(30)
+    x2 = e_atom[2] + gap
+    word, e_word = render_strip([["k", "a", "r", "i", "S", "y", "a", "t", "i"]],
+                                x2, y, "original",
+                                labels=["करिष्यति"], label_size=FS_IAST)
+    mid = (e_atom[2] + x2) / 2
+    body.append(atom)
+    body.append(render_arrow(mid - gap * 0.34, y, mid + gap * 0.34, y))
+    body.append(word)
+    bottom = max(e_atom[3], e_word[3])
+    write_svg("building_vakya_pipeline_example", FIG_W, bottom + pt(12),
+              "\n".join(body), "Ch12 assembly example: kṛ becomes kariṣyati")
 
 
 def fig_visual_key() -> None:
-    body: list[str] = [render_text(380, 34, "Ch12 visual key", 24, TEXT, weight="700")]
-    x = 60
-    y = 145
+    body: list[str] = [
+        render_text(FIG_W / 2, pt(20), "Ch12 visual key", FS_HEAD, TEXT, weight="700")
+    ]
+    # The first and last two samples use "original" so they demonstrate the
+    # vowel/consonant colouring the reader meets in Figure 12.2. The middle
+    # three keep their role fills, because the fill IS what those samples are
+    # showing.
     samples = [
         ("dhātuḥ atom", [["k", "R"]], "original"),
         ("head-bond", [["p", "r", "a"]], "head"),
         ("tail-bond", [["t", "R"]], "tail"),
         ("role-marker", [["A"]], "role"),
-        ("nasal consonant", [["a", "M"]], "sentence"),
-        ("visarga", [["a", "H"]], "sentence"),
+        ("nasal consonant", [["a", "M"]], "original"),
+        ("visarga", [["a", "H"]], "original"),
     ]
+    col_w = FIG_W / 3
+    row_h = HEX_HEIGHT + pt(34)
+    y0 = pt(62) + HEX_HEIGHT / 2   # clears the centred title above
+    max_bottom = 0.0
     for idx, (label, words, role) in enumerate(samples):
-        col = idx % 3
-        row = idx // 3
-        sx = x + col * 240
-        sy = y + row * 170
-        body.append(render_text(sx + 75, sy - 70, label, 16, TEXT, weight="700"))
-        strip, _ = render_strip(words, sx + 32, sy, role, word_gap=30)
-        body.append(strip)
-    write_svg("building_vakya_visual_key", 760, 430, "\n".join(body), "Ch12 hexagon visual key")
+        col, row = idx % 3, idx // 3
+        sy = y0 + row * row_h
+        strip, extent = render_strip(words, 0, sy, role, word_gap=pt(11), show_matra=False)
+        # Centre the sample in its column, then hang the label above the tiles
+        # measured from the strip's own extent. The old fixed -70 offset was
+        # tuned to the smaller tiles and the labels now sat on top of them.
+        dx = col * col_w + (col_w - (extent[2] - extent[0])) / 2 - extent[0]
+        body.append(f'<g transform="translate({dx:.1f},0)">{strip}</g>')
+        body.append(render_text(col * col_w + col_w / 2, extent[1] - pt(7),
+                                label, FS_LABEL, TEXT, weight="700"))
+        max_bottom = max(max_bottom, extent[3])
+    write_svg("building_vakya_visual_key", FIG_W, max_bottom + pt(12),
+              "\n".join(body), "Ch12 hexagon visual key")
 
 
 def fig_kr_hlad() -> None:
@@ -557,40 +744,61 @@ def fig_tail_bonds() -> None:
 
 
 def fig_bonding_matrix() -> None:
-    width = 980
-    height = 500
-    left = 35
-    top = 82
-    cell_w = 178
-    cell_h = 92
-    headers = ["head-bond", "state / formation", "act / mode", "obligation", "deed", "agent"]
+    # The table was authored at width=980 while its own columns needed
+    # 35 + 6*178 = 1103, so the final "agent" column fell off the right edge
+    # and rendered as an empty strip. Widths are now derived from FIG_W so
+    # the table cannot outgrow its frame: a narrow head-bond column plus five
+    # equal content columns, all inside the 900-unit figure.
+    width = FIG_W
+    left = pt(7)
+    top = pt(34)
+    head_w = pt(50)   # must fit the word 'head-bond' at the 10pt floor
+    cell_w = (width - 2 * left - head_w) / 5
+    cell_h = pt(31)
+    # Headers trimmed to fit: at the 10pt floor a 54pt column holds about ten
+    # characters, and "state / formation" and "act / mode" overran into their
+    # neighbours. The full column senses are given in the caption.
+    headers = ["head-bond", "state", "act", "obligation", "deed", "agent"]
     rows = [
         ("none", ["", "", "कार्य kārya", "कर्म karma", "कर्तृ kartṛ"]),
         ("प्र pra-", ["प्रकृति prakṛti", "प्रकार prakāra", "", "", ""]),
         ("वि vi-", ["विकृति vikṛti", "विकार vikāra", "", "", ""]),
         ("सम् sam-", ["संस्कृति saṃskṛti", "संस्कार saṃskāra", "", "", ""]),
     ]
-    body: list[str] = [render_text(width / 2, 34, "The kṛ bonding matrix", 24, TEXT, weight="700")]
-    for col, header in enumerate(headers):
-        x = left + col * cell_w
-        body.append(f'<rect x="{x}" y="{top}" width="{cell_w}" height="{cell_h * 0.72}" fill="#f0f0f0" stroke="{STROKE}" stroke-width="1"/>')
-        body.append(render_text(x + cell_w / 2, top + cell_h * 0.36, header, 13, TEXT, weight="700"))
+    def col_x(c: int) -> tuple[float, float]:
+        """(x, width) for column c; column 0 is the narrow head-bond column."""
+        return (left, head_w) if c == 0 else (left + head_w + (c - 1) * cell_w, cell_w)
+
+    body: list[str] = [
+        render_text(width / 2, pt(20), "The kṛ bonding matrix", FS_HEAD, TEXT, weight="700")
+    ]
+    head_h = cell_h * 0.72
+    for c, header in enumerate(headers):
+        x, w = col_x(c)
+        body.append(f'<rect x="{x:.1f}" y="{top:.1f}" width="{w:.1f}" height="{head_h:.1f}" '
+                    f'fill="{ms.SAND if hasattr(ms, "SAND") else "#efe7d6"}" stroke="{STROKE}" stroke-width="1"/>')
+        body.append(render_text(x + w / 2, top + head_h / 2, header, FS_GLOSS, TEXT, weight="700"))
     for r, (head, cells) in enumerate(rows):
-        y = top + cell_h * 0.72 + r * cell_h
-        x = left
-        body.append(f'<rect x="{x}" y="{y}" width="{cell_w}" height="{cell_h}" fill="#f7f7f7" stroke="{STROKE}" stroke-width="1"/>')
-        body.append(render_text(x + cell_w / 2, y + cell_h / 2, head, 14, TEXT, weight="700"))
+        y = top + head_h + r * cell_h
+        x, w = col_x(0)
+        body.append(f'<rect x="{x:.1f}" y="{y:.1f}" width="{w:.1f}" height="{cell_h:.1f}" '
+                    f'fill="#faf6ee" stroke="{STROKE}" stroke-width="1"/>')
+        body.append(render_text(x + w / 2, y + cell_h / 2, head, FS_GLOSS, TEXT, weight="700"))
         for c, value in enumerate(cells):
-            x = left + (c + 1) * cell_w
-            fill = "#ffffff" if value else "#fbfbfb"
-            body.append(f'<rect x="{x}" y="{y}" width="{cell_w}" height="{cell_h}" fill="{fill}" stroke="{STROKE}" stroke-width="1"/>')
+            x, w = col_x(c + 1)
+            fill = ms.BG if value else "#faf8f4"
+            body.append(f'<rect x="{x:.1f}" y="{y:.1f}" width="{w:.1f}" height="{cell_h:.1f}" '
+                        f'fill="{fill}" stroke="{STROKE}" stroke-width="1"/>')
             if value:
                 parts = value.split(" ", 1)
-                body.append(render_text(x + cell_w / 2, y + cell_h / 2 - 9, parts[0], 18, TEXT, family=DEV_FONT, weight="600"))
+                body.append(render_text(x + w / 2, y + cell_h / 2 - FS_DEVA * 0.34,
+                                        parts[0], FS_DEVA, TEXT, family=DEV_FONT, weight="600"))
                 if len(parts) > 1:
-                    body.append(render_text(x + cell_w / 2, y + cell_h / 2 + 17, parts[1], 12, MUTED, style="italic"))
+                    body.append(render_text(x + w / 2, y + cell_h / 2 + FS_IAST * 0.72,
+                                            parts[1], FS_IAST, MUTED, style="italic"))
             else:
-                body.append(render_text(x + cell_w / 2, y + cell_h / 2, "—", 18, "#aaaaaa"))
+                body.append(render_text(x + w / 2, y + cell_h / 2, "—", FS_DEVA, ms.GUIDE))
+    height = top + head_h + len(rows) * cell_h + pt(10)
     write_svg("building_vakya_kr_bonding_matrix", width, height, "\n".join(body), "Kṛ bonding matrix")
 
 
@@ -606,19 +814,41 @@ def fig_rca_role_marker() -> None:
 
 
 def fig_sentence_full_hex() -> None:
-    body: list[str] = [render_text(760, 34, "यस्तन्न वेद किमृचा करिष्यति", 27, TEXT, family=DEV_FONT, weight="700")]
-    words = [
-        ["y", "a", "s", "t", "a", "n", "n", "a"],
-        ["v", "e", "d", "a"],
-        ["k", "i", "m", "R", "c", "A"],
-        ["k", "a", "r", "i", "S", "y", "a", "t", "i"],
+    """One word per row, stacked.
+
+    The four words hold about 27 sonomers between them. Laid end to end on
+    one line they forced a viewBox over 1500 units wide, which at 4.5in put
+    every glyph near 4pt -- the figure was unreadable in the book even though
+    it looked fine on screen at full width. Stacking gives each word a row of
+    at most nine tiles, the same density as Figure 12.2, so the type can hold
+    11pt/10pt. Reading down the rows also matches how the sentence is parsed
+    in the prose, word by word.
+    """
+    body: list[str] = [
+        render_text(FIG_W / 2, pt(20), "यस्तन्न वेद किमृचा करिष्यति",
+                    FS_HEAD, TEXT, family=DEV_FONT, weight="700")
     ]
-    labels = ["yastanna", "veda", "kimṛcā", "kariṣyati"]
-    strip, extent = render_strip(words, 70, 145, "sentence", word_gap=72, labels=labels)
-    body.append(strip)
-    body.append(render_text(760, 290, "full sonomeric sentence experiment", 15, MUTED, style="italic"))
-    width = max(1520, extent[2] + 80)
-    write_svg("building_vakya_sentence_full_hex", width, 335, "\n".join(body), "Full hexagon sentence experiment")
+    words = [
+        (["y", "a", "s", "t", "a", "n", "n", "a"], "यस्तन्न", "yastanna"),
+        (["v", "e", "d", "a"], "वेद", "veda"),
+        (["k", "i", "m", "R", "c", "A"], "किमृचा", "kimṛcā"),
+        (["k", "a", "r", "i", "S", "y", "a", "t", "i"], "करिष्यति", "kariṣyati"),
+    ]
+    y = pt(48) + HEX_HEIGHT / 2
+    bottom = y
+    for tokens, dev, iast in words:
+        strip, extent = render_strip([tokens], pt(78), y, "original")
+        body.append(strip)
+        # Row label sits in the left margin, vertically centred on the tiles,
+        # so the strips all start from the same x and stay comparable.
+        body.append(render_text(pt(70), y - FS_DEVA * 0.34, dev, FS_DEVA, TEXT,
+                                anchor="end", family=DEV_FONT, weight="600"))
+        body.append(render_text(pt(70), y + FS_IAST * 0.80, iast, FS_IAST, MUTED,
+                                anchor="end", style="italic"))
+        bottom = extent[3]
+        y = extent[3] + HEX_HEIGHT * 0.62
+    write_svg("building_vakya_sentence_full_hex", FIG_W, bottom + pt(12),
+              "\n".join(body), "Full hexagon sentence experiment")
 
 
 def fig_vivimorphosis() -> None:
@@ -646,7 +876,8 @@ def fig_vivimorphosis() -> None:
 
 
 def main() -> None:
-    fig_pipeline()
+    fig_pipeline_scales()
+    fig_pipeline_example()
     fig_visual_key()
     fig_kr_hlad()
     fig_head_bonds()
