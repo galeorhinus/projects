@@ -268,7 +268,25 @@ The pyramid's classification — *abugida* for the Indic family, *abugida* again
 
 The misclassification is not an innocent gap waiting for better data. It is the structural operation by which the machinery's typology refuses to acknowledge that one engineering category covers close to a third of the world's writing.
 
-## 3.10 The Foundational Claim on Writing
+## 3.10 The Pyramid Steals the Sonomer
+
+By the time European phoneticians created the International Phonetic Alphabet, Sanskrit knowledge had been entrenched in European philology for generations. Indian Sanskrit scholars had placed the language, its grammar, and its analytical disciplines in European hands. European universities had studied that knowledge for more than a century.[NOTE: western-linguistic-encounter-sanskrit-1786-1879][NOTE: history-of-linguistics-sanskrit-influence]
+
+The Hindu continuum had never enclosed this knowledge. Sanskrit scholars taught it openly. They expected others to learn from it, apply it, and carry it further. That is how an open-source architecture spreads.
+
+The pyramid responded to that openness with insecurity and jealousy. In the 1860s, European philologists used Sanskrit's atoms and grammatical architecture to construct PIE, then placed their imaginary language above Sanskrit.[NOTE: early-19c-comparative-philology-bopp-pott] In 1887, Esperanto presented engineered generativity as a modern European experiment without acknowledging the complete generative architecture already preserved in Sanskrit.[NOTE: esperanto-engineered-botanical-transition]
+
+The treatment of sound followed the same pattern. The organization that became the International Phonetic Association was founded in Paris in 1886 and published its first alphabet in 1888. It experimented with a chart format in 1894 and published its first full chart in 1900. That chart placed the locations of articulation across one axis and the physical manners of production down the other.[NOTE: ipa-1886-1900-chart]
+
+The chart reproduced the organizing principle of the *varṇamālā*: ***स्थान (*sthāna*)*** across and ***प्रयत्न (*prayatna*)*** down. The European labels differed, and the inventory expanded to accommodate sounds from many languages. The architecture underneath remained the same.
+
+This was no encounter between strangers. The European philological establishment that produced the chart had already spent generations studying Sanskrit's analysis of speech. It retained the architecture and removed the source. Modern phonetics then presented the resulting chart as an achievement of European science while treating the *varṇamālā* as an ancient Indian alphabet.
+
+Category theft places an engineered system inside a false category. This went further. The pyramid took an architecture it had learned from Sanskrit, erased its provenance, and claimed the resulting instrument as its own.
+
+Hindu culture does not object to others using its knowledge. An open-source architecture exists so that anyone may learn from it and build upon it. Use is welcome. Extension is welcome. Refusing acknowledgment, claiming ownership, and placing the derivative above the source is plain theft. It is the familiar asuric response of an insecure apex confronted by a radiance it cannot equal.
+
+## 3.11 The Foundational Claim on Writing
 
 The Brāhmī-from-Aramaic narrative persists because writing is foundational inside the Abrahamic imagination.
 
@@ -286,7 +304,7 @@ A claim by Indian civilization to have engineered its script independently would
 
 The Brāhmī-from-Aramaic narrative is not random. It defends the foundational civilizational claim Chapter 4 establishes. It is the script-level analogue of the Sanskrit-from-PIE narrative. Both do the same asuric work in different media. The main argument dismantles the second. The prosecution now isolates the first as a parallel target.
 
-## 3.11 The Work Ahead
+## 3.12 The Work Ahead
 
 *Atomic Sanskrit* prosecutes the language-engineering case. The script-engineering case is a new research project — the same act of capture in a different medium. The prosecution does not finish that project. It opens it.
 

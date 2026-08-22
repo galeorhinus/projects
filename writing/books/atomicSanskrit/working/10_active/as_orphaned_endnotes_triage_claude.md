@@ -61,12 +61,10 @@ Re-running the audit with a cross-reference test rather than a body-marker test:
 | `jones-1786-third-anniversary-discourse` | `jones-1786-anniversary-address` |
 | `rigveda-10-125-vak-ambhrini` | `rigveda-10-71-4-vach` |
 | `staal-mendeleev-varga-comparison` | `vyanjana-duration-shiksha` |
-| `western-linguistic-encounter-sanskrit-1786-1879` | `place-of-articulation-sanskrit-terms` |
+| `western-linguistic-encounter-sanskrit-1786-1879` | Directly deployed in Appendix Part 3 §3.10 and reachable through `place-of-articulation-sanskrit-terms` |
 | `yaska-deva-derivation` | `deva-sur-div-radiance-field` |
 
-This also settles four of the entries listed "not tested" in Category D. Only
-`history-of-linguistics-sanskrit-influence` and `ipa-1886-founding-1888-chart` from
-that App 3 / App 5 group remain unreachable.
+This also settles four of the entries listed "not tested" in Category D. The remaining App 3 pair has now been redeployed in Appendix Part 3 §3.10, with `ipa-1886-founding-1888-chart` corrected and renamed `ipa-1886-1900-chart`.
 
 ### 2. The Chapter 9 cluster — cause found, material recovered
 
@@ -131,8 +129,8 @@ reasons. Each now carries a machine-readable field, matching the format
 | `architecture-not-analysis-pratisakhya` | Ch 9 §9.4 | Staal critique gone from Ch 9 |
 | `varnamala-grid-geometry` | Ch 9 §9.4 | needs a read — "grid" is ubiquitous |
 | `formants-source-filter-theory` | Ch 7 §7.5, Ch 9 §9.1 | "formant" appears nowhere in the manuscript |
-| `history-of-linguistics-sanskrit-influence` | App 3 §3.8 | §3.8 is now "Three Design Cases"; the history content is gone |
-| `ipa-1886-founding-1888-chart` | App 3 §3.8 | same |
+| ~~`history-of-linguistics-sanskrit-influence`~~ | App 3 §3.10 | **RESOLVED — redeployed in “The Pyramid Steals the Sonomer.”** |
+| ~~`ipa-1886-1900-chart`~~ | App 3 §3.10 | **RESOLVED — corrected and redeployed.** |
 | `sanskrit-field-52b-reach` | Ch 0 §0.3 | the 5.2-billion figure is gone |
 | `pratisakhya-bhashyam-chandasi` | Ch 17 §17.4 | topic absent |
 | `kailasa-temple-ellora-engineering` | — | no record; candidate for Ch 6 §6.1 beside Ta Prohm |
@@ -310,8 +308,8 @@ before deciding, since some claims may have survived in reworded form.
 | ~~`dcs-vs-dhatupatha-count`~~ | Ch 11 §11.5 | **RESOLVED** — redeployed in App 6, as predicted; the reactivity tiers moved there from Ch 11 §11.5 |
 | ~~`cross-gana-column-distribution`~~ | App 6 §§6.2, 6.4 | **RESOLVED** — redeployed in App 6 |
 | ~~`generative-reach-inversion-natural-language`~~ | App 6 §6.3 | **RESOLVED** — redeployed in App 6 |
-| `history-of-linguistics-sanskrit-influence` | App 3 §3.8, App 5 §5.8 | not tested |
-| `ipa-1886-founding-1888-chart` | App 3 §3.8 | not tested |
+| ~~`history-of-linguistics-sanskrit-influence`~~ | App 3 §3.10 | **RESOLVED** |
+| ~~`ipa-1886-1900-chart`~~ | App 3 §3.10 | **RESOLVED** |
 | `jones-1786-third-anniversary-discourse` | App 3 §3.8, App 5 §5.8 | not tested |
 | `western-linguistic-encounter-sanskrit-1786-1879` | App 3 §3.8, App 5 §5.8 | not tested |
 

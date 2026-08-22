@@ -305,8 +305,9 @@
   - 3.7 Audiography — The Name Withheld
   - 3.8 Three Design Cases: Sound, Script, Standard
   - 3.9 The Sonomer Travels East
-  - 3.10 The Foundational Claim on Writing
-  - 3.11 The Work Ahead
+  - 3.10 The Pyramid Steals the Sonomer
+  - 3.11 The Foundational Claim on Writing
+  - 3.12 The Work Ahead
 - **Appendix Part 4 — The Consonant Inventory Atlas and Control Surveys**
   - 4.1 The Atlas Method in Depth
   - 4.2 Santali-Inclusive Munda Control: 20 of 23
