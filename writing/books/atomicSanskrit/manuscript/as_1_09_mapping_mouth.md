@@ -143,6 +143,12 @@ A word such as **सिन्धुः (*sindhuḥ*)** ends with a *visarga*. Wh
 
 Sanskrit therefore does not leave boundary sounds to chance. It identifies them, trains their pronunciation, and specifies the conditions that shape them.
 
+Sandhi also performs a ***snap-to-grid*** operation at a sound-boundary: it resolves the result to an existing grid address. Consider **तत् + अपि → तदपि (*tat + api → tadapi*)**. The first word ends with the unvoiced dental **त्**. The vowel that follows begins with voice. Sanskrit resolves the junction with **द्**, the voiced sonomer at the same dental place:
+
+> **त् → द्**
+
+The mouth can move naturally from the final consonant into the vowel, but the resulting consonant does not remain somewhere between **त्** and **द्** as a context-dependent variant. It lands on the established address of **द्**. The *snap-to-grid* operation therefore accommodates movement at a sound-boundary while keeping the finished expression inside the reusable grid.
+
 ## 9.6 Nuclei, Contacts, and Timing
 
 Sanskrit does not build with isolated sonomers alone. It bonds them around a vowel and forms an **अक्षरम् (*akṣaram*)**, a stable sound-unit that can be recited, counted, recombined, and represented in writing.

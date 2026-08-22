@@ -8,14 +8,7 @@ Sanskrit has a twofold purpose: first, the language must remain unchanged; secon
 
 ### What Sanskrit Had to Defeat
 
-Sanskrit's purpose faces two enemies:
-
-1. entropy
-2. asuras
-
-**Entropy** has no deliberate plan. A speaker pronounces a sound differently, another speaker shortens an ending, and a community begins using an old word with a new meaning. Children inherit what they hear and sometimes change the pronunciation, usage and language style. After several generations, the altered form can displace the earlier one even though no person intended that result. Sections 6.1–6.5 of Chapter 6 examine this natural pressure through *apabhraṃśa*.
-
-**Asuric action** is deliberate. The asuric pyramid is threatened by Sanskrit because a distributed calibrant denies the apex the authority he seeks. Sanskrit distributes its calibrating architecture across sound, grammar, recitation, memory, and lineage, leaving no single office in control of the whole. Chapter 1 §§1.2–1.3 and Chapter 3 §3.5 explain why that architecture threatens the pyramid.
+Chapter 6 introduced Sanskrit's two enemies through the two ways a temple can become a ruin. Entropy gradually displaces an architecture when maintenance ceases. Asuric action attacks the architecture deliberately because a distributed calibrant denies the apex control. Chapters 13 and 15 then examined why physical media remain vulnerable and how aural transmission carries exact sound across society.
 
 Sanskrit had to resist both enemies while remaining invariant. It also had to remain useful in every age. Continued usefulness gives people a reason to learn the language, apply it, and protect it. A language confined to inherited expressions would eventually leave its caretakers unable to describe the world in which they lived. Sanskrit therefore had to preserve its architecture without restricting its speakers to the vocabulary and compositions of an earlier age.
 
@@ -323,7 +316,7 @@ Appendix Part 8 gives historical cases in which the same Sanskrit society combin
 
 ## 16.10 Two Permissions, One Architecture
 
-The two-domain design defends Sanskrit against the two enemies introduced at the beginning of the chapter: entropy and asuras.
+The two-domain design defends Sanskrit against the two enemies introduced in Chapter 6: entropy and asuras.
 
 Entropy acts whenever pronunciation, words, meanings, or memory change during use and transmission. Asuric formations add deliberate pressure when they destroy teachers and institutions, monopolize interpretation, shame caretakers, replace Sanskrit's categories, or remove the language from public life.
 

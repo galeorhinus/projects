@@ -258,19 +258,19 @@ The perfection reaches beyond linguistic rules. Sanskrit was engineered to carry
 
 ### Two Enemies, Two Domains
 
-The architecture still had to survive two enemies. Entropy would loosen sounds, alter forms, and weaken memory through ordinary human use. The forces aligned with *asat* would attack the language deliberately because a distributed calibrant gives human beings the ability to recognize containment and resist it.
+Chapter 6 identified two enemies Sanskrit had to withstand, and Chapter 16 explained the two-domain response. The first is entropy, which introduces small departures without deliberate intent. The second is attack by forces aligned with *asat*, who oppose Sanskrit because its distributed calibrant helps human beings recognize containment and resist it.
 
-The Vedas defended the architecture against both enemies. Once the **ऋषयः (*ṛṣayaḥ*)** and **ऋषिकाः (*ṛṣikāḥ*)** saw the mantras, later generations received them as **श्रुति (*śruti*)**, that which is heard. The Vedic corpus preserved a linguistic architecture together with civilizational memories of balance, failure, containment, release, and recovery. It therefore became a calibrant broad enough to serve both Sanskrit and *saṃskṛti*.
+Anyone speculating about Sanskrit's origin must also explain why the language was built to survive both gradual entropy and deliberate attack. The design also had to keep Sanskrit available for new expression in every age so that *saṃskṛti* could respond to circumstances that no earlier composition had described.
 
-The two domains divided the responsibility. The read-only *vaidika* domain protected the received mantras from revision. The read-write *laukika* domain allowed people to compose poetry, preserve mathematics and astronomy, conduct trade, document manufacturing, debate philosophy, tell stories, and describe every changing age. The Vedas kept the architecture available for calibration, while *laukika* Sanskrit kept the language useful in the world.
+The Vedas became the distributed calibrant for both Sanskrit and *saṃskṛti*. Once the **ऋषयः (*ṛṣayaḥ*)** and **ऋषिकाः (*ṛṣikāḥ*)** saw the mantras, later generations received them as **श्रुति (*śruti*)**, that which is heard. The two domains then divided the responsibility. The read-only *vaidika* domain protected the received mantras from revision. The read-write *laukika* domain allowed every generation to apply the same architecture to its own world. People used it to compose poetry and stories, preserve mathematics and astronomy, debate philosophy, conduct trade, document manufacturing, and describe each changing age. Exact Vedic transmission kept the architecture available for calibration, while *laukika* composition kept Sanskrit useful in the world.
 
 ### Vyāsa, the Pāṭhas, and Pāṇini
 
 At the turn from Dvāpara to Kali, the Hindu continuum remembers Veda-Vyāsa arranging the one Veda into four functional streams: Ṛgveda, Yajurveda, Sāmaveda, and Atharvaveda, together with their supporting material. He arranged the one body for an age of shorter memory. The division added nothing and took nothing away. It changed the organization required for transmission.[NOTE: veda-vyasa-division]
 
-The wider preservation architecture used eleven **पाठाः (*pāṭhāḥ*)**, five *prakṛti-pāṭhas* and six *vikṛti-pāṭhas*, to re-encode the same received sounds through different recitational arrangements, mutually checking paths through the same invariant content. Geographically separated lineages carried those paths through periods in which kingdoms fell, libraries burned, temples destroyed, institutions disappeared, and the asuric pyramid repeatedly attacked the civilization.[NOTE: eleven-pathas]
+The wider preservation architecture used eleven **पाठाः (*pāṭhāḥ*)**, five *prakṛti-pāṭhas* and six *vikṛti-pāṭhas*, to re-encode the same received sounds through different recitational arrangements, mutually checking paths through the same invariant content. Geographically separated lineages carried those paths through periods in which kingdoms fell, libraries burned, temples were destroyed, institutions disappeared, and the asuric pyramid repeatedly attacked the civilization.[NOTE: eleven-pathas]
 
-For thousands of years, the Vedas have remained the primary calibrant. Those responsible for recitation preserved every sound, pitch, duration, and sequence. Those responsible for *laukika* Sanskrit could return to the architecture the Vedas encoded whenever usage faced entropy.
+For thousands of years, the Vedas have remained the primary calibrant. Those responsible for recitation preserved every sound, pitch, duration, and sequence. Those responsible for *laukika* Sanskrit could return to the architecture the Vedas encoded whenever usage began to deviate from it.
 
 Generations of **वैयाकरणाः (*vaiyākaraṇāḥ*)** decoded that architecture. Yāska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, the **प्रातिशाख्य (*Prātiśākhya*)** disciplines, the **शिक्षा (*Śikṣā*)** disciplines, and the wider pre-Pāṇinian grammatical continuum analyzed the language long before that documentation reached its most compressed form.
 
@@ -299,22 +299,10 @@ The two speculations are mirror inversions.
 ![Figure 18.2 — Two accounts of Sanskrit. The pyramid arranges the domains as a chronology of linguistic descent; the engineering thesis treats them as complementary domains joined by calibration.](figures/wrong_question/two_accounts_of_sanskrit.svg){#fig:ch18-two-accounts width=100%}
 
 
-At every point in the Sanskrit continuum, two facts remain true together: the Vedas remain preserved, and laukika use remains exposed to *apabhraṃśa*. Worldly use faces entropy. The Vedic lineages do not.
-
-Before Pāṇini, the Vedic corpus served as the primary calibrant for correcting *laukika* use toward the architecture the Vedas encoded. Generations of earlier *vaiyākaraṇāḥ* had already analyzed Sanskrit and taught its operations through inherited grammatical disciplines. Pāṇini inherited that analytical tradition and compressed Sanskrit's grammar into the *Aṣṭādhyāyī*, a precise rule-system that students and teachers could apply directly to *laukika* Sanskrit. Chapter 13 §13.5 explains this teaching function in detail.
-
-The Vedas preserved the architecture. Pāṇini articulated its operations with unmatched precision.
+The figure changes Pāṇini's place without diminishing his achievement. The Vedas preserved the architecture; generations of *vaiyākaraṇāḥ* decoded it; Pāṇini articulated its operations with unmatched precision. Chapter 13 §13.5 explains how the *Aṣṭādhyāyī* made those operations directly available to students and teachers.
 
 By imposing a chronology on the two domains, the *progressive dogma* treats Vedic as primitive, Classical as refined, Pāṇini as inventor, laukika Sanskrit as a descendant, and *apabhraṃśa* as a stage in descent rather than the tendency the calibrant corrects. The doctrine requires this inversion; it is not a stylistic choice. These are structural opposites. The descent thesis makes Sanskrit the result of linguistic change; the engineering thesis explains it as a constructed and calibrated architecture.
 
-Enforcing this inversion, the *heroic-erasure* move (Chapter 1 §1.6, Chapter 13 §13.3) executes a precise script: celebrate Pāṇini as codifier to deny the engineering that preceded him, and praise the named operator to hide the architecture he decoded. By using Pāṇini rather than fighting him, the machinery turns civilizational memory toward the codification myth and away from calibration.
+This is the *heroic-erasure* move described in Chapter 1 §1.6 and Chapter 13 §13.3. The pyramid celebrates Pāṇini as the codifier of Sanskrit so that readers overlook the engineering he inherited and decoded. It uses admiration for Pāṇini to turn civilizational memory toward the codification myth and away from the Vedic calibrant.
 
-That exact maneuver forms the target here. The battle lies not with Pāṇini or the past, but with the present machinery telling Hindus to remember Pāṇini as a codifier rather than a decoder.
-
-The machinery preserves reverence and redirects it.
-
-While the civilization keeps the memory active, the machinery changes its object, training the reader to bow before the codification myth where the evidence points to calibration. By changing what the hero means rather than insulting him, heroic erasure works more effectively than direct denial.
-
-The asuric pyramid persists only as long as that move remains effective.
-
-Sanskrit's calibration architecture restores the continuous account: engineered before Pāṇini and articulated by Pāṇini, the calibration continues.
+The battle therefore lies with the present machinery that tells Hindus what Pāṇini should mean. It preserves their reverence for him but redirects that reverence toward a false account of his achievement. Sanskrit's continuous architecture restores his actual place: Sanskrit was engineered before Pāṇini, articulated by Pāṇini, and calibrated across the generations that followed him.

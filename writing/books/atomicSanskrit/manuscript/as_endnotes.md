@@ -383,6 +383,16 @@ The dual-translation approach is therefore not aesthetic redundancy. It is neces
 
 ---
 
+### `temples-two-enemies-ta-prohm`
+
+**Short:** Ta Prohm at Angkor gives the chapter a physical example of entropy acting upon a constructed architecture. UNESCO's Angkor evaluation records severe damage from vegetation, including roots penetrating masonry, mature trees moving structures through root growth and wind-rock, and rainwater entering damaged walls. The International Coordinating Committee for Angkor describes Ta Prohm through the association between a ruined monument and tropical forest, stating directly that the growth of its enormous trees contributed to the ruin. The APSARA National Authority continues removing small plants, treating large trees, stabilizing foundations displaced by roots, and repairing damaged stone.
+
+**Deployment:** Chapter 6 §6.1, where Ta Prohm distinguishes gradual displacement from deliberate attack.
+
+Sources: [UNESCO, *Angkor: World Heritage List Advisory Body Evaluation*](https://whc.unesco.org/archive/advisory_body_evaluation/668.pdf); [UNESCO, *Twelfth Plenary Session of the International Coordinating Committee for Angkor*](https://whc.unesco.org/document/140335); APSARA National Authority, [Ta Prohm](https://apsaraauthority.gov.kh/2021/08/12/ta-prohm/), [vegetation removal at Ta Prohm](https://apsaraauthority.gov.kh/2023/06/05/clean-grass-and-small-plants-at-ta-prohm-temple/), and [restoration of the eastern gate](https://apsaraauthority.gov.kh/2023/05/25/the-restoration-project-of-ta-prohms-east-gate/).
+
+---
+
 ### `paspashahnika-apabhramsa-passage`
 
 **Short:** Patañjali's *Paspaśāhnika* (पस्पशाह्निक) — the *Mahābhāṣya* (महाभाष्य) opening; Kielhorn ed. vol. I, p. 2, lines 13–15 — states the *bhūyāṃso 'paśabdāḥ, alpīyāṃsaḥ śabdāḥ* (भूयांसोऽपशब्दाः, अल्पीयांसः शब्दाः) asymmetry maxim and exemplifies it with the *gauḥ* (गौः) → *gāvī / goṇī / gotā / gopotalikā* corruptions in one continuous passage, split across §6.2 / §6.3 for pedagogical reasons; Chapter 6's epigraph renders the asymmetry in the *apabhraṃśa* idiom as *bhūyāṃso 'pabhraṃśā alpīyāṃsaḥ śabdāḥ* (भूयांसोऽपभ्रंशा अल्पीयांसः शब्दाः), while §6.2 preserves the printed *apaśabda* wording; *apaśabda* (अपशब्द) and *apabhraṃśa* (अपभ्रंश) are deployed as near-synonyms across consecutive clauses.

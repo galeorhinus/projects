@@ -14,7 +14,32 @@
 
 \bigskip
 
-## 6.1 Entropy Has a Name
+## 6.1 What Sanskrit Had to Defeat
+
+Sanskrit was engineered to remain invariant while people continued using it to create new expression. That purpose faces two enemies:
+
+1. **Entropy**
+2. **Asuras**
+
+A temple can lose its form through either enemy.
+
+A temple can be destroyed deliberately. Invaders break its *mūrti* and burn its manuscripts. They kill or scatter the people who sustain its worship, seize its wealth, and pull apart its walls. This is asuric action. An agent deliberately dismantles the structure to interrupt its purpose and remove it from society.
+
+But a second temple can fall without an attacker. At Ta Prohm in Cambodia, trees rise through the temple and their roots wrap around its stones. The trees simply follow their own nature. Once continuous maintenance recedes, roots enter the spaces between stones, water penetrates the structure, and the forest gradually displaces the temple's constructed order. No one has to plan that result. From the perspective of the temple, this gradual displacement is entropy.[NOTE: temples-two-enemies-ta-prohm]
+
+After centuries, both temples may stand as ruins. The broken stones alone cannot explain what happened. One was attacked by an agent who wanted it broken. The other yielded gradually when maintenance ceased. An architecture intended to endure must defend itself against both causes.
+
+**Entropy has no deliberate plan.** A speaker pronounces a sound differently, another speaker shortens an ending, and a community begins using an old word with a new meaning. Children inherit what they hear. If no one detects the change, they can receive the altered pronunciation or form as the language itself and pass it to another generation. What began as a small departure can eventually displace the earlier form.
+
+**Asuric action is deliberate.** The asuric pyramid is threatened by Sanskrit because a distributed calibrant denies the apex the authority it seeks. Sanskrit's sounds are carried through recitation, while its grammar is articulated through several analytical disciplines. Its memory resides in trained people spread across many lineages and communities. No ruler, office, manuscript collection, or institution controls the whole.
+
+That distribution creates the threat. An apex cannot declare its own alteration correct when the calibrant remains beyond its custody. It cannot monopolize interpretation while people across society retain the sounds, grammar, memory, and methods required to test its claims. Chapters 1 §§1.2–1.3 and Chapter 3 §3.5 explained why the pyramid attacks such an architecture.
+
+The two enemies require different responses. Entropy must be detected while a departure remains small enough to correct. To survive asuric attack, the architecture must distribute its knowledge widely enough that destroying or capturing one part cannot destroy the whole. Sanskrit was engineered to do both.
+
+The chapter first examines entropy through the Hindu continuum's analysis of **अपभ्रंश (*apabhraṃśa*)**. Section 6.5 then returns to the engineering that protects Sanskrit against entropy before introducing the corresponding defense against deliberate attack.
+
+### *Apabhraṃśa*: Sanskrit's Diagnosis of Entropy
 
 Chapter 5 established the bond between word and meaning as *siddha*: the language receives that bond as already established rather than assigning it afresh with every act of speech. Once speakers inherit an established bond, the grammatical disciplines must identify and correct the forms that break away from it.
 
@@ -109,6 +134,18 @@ These checks examine different parts of the form. Grammar detects a malformed de
 Chapter 13 §13.5 returns to these complementary forms of correction. Repeated recitation trains the ear to recognize the calibrated form, while grammar allows a student to derive it explicitly.
 
 *Apabhraṃśa* is what the discipline opposes. *Siddha* is what the discipline preserves.
+
+### Engineered Against Asuric Attack
+
+The same architecture also confronts the second enemy. Entropy accumulates through small departures during ordinary transmission. An asuric attacker can choose a point of failure and strike it deliberately.
+
+If the calibrant resided in one manuscript, burning that object could erase it. If one office determined the correct form, capturing that office would give the attacker control over the standard. If one community alone carried the recitation, killing or scattering that community could break the transmission.
+
+Sanskrit distributes these responsibilities. Vedic sounds reside in trained reciters across many communities. Grammar is articulated through several analytical texts and teaching traditions. Meter, etymology, recitation, and sentence analysis preserve different parts of the architecture and check one another. An attacker can inflict immense loss on one place without gaining custody of the whole.
+
+Asuric attack can also continue through concealment after physical destruction fails. The pyramid can misclassify Sanskrit, replace its categories, and teach society to distrust what remains. A distributed calibrant gives people outside the attacker's institutions the sounds, grammar, and analytical methods required to test those claims.
+
+Chapter 13 §13.3 examines why every physical medium remains vulnerable to decay, seizure, and destruction. Chapter 15 follows the aural architecture that carries exact sound through living recitation. Chapter 16 then brings the complete response together and shows how the *vaidika* and *laukika* domains defend Sanskrit against both entropy and asuric attack.
 
 ## 6.6 Variation Is Not Drift
 
