@@ -237,6 +237,32 @@ Total deployed references in this reconciliation: **113**, using **112** unique 
 | Botanical Root vs Architectural Dhātuḥ | **Parked** | Return only if it adds more than Chapters 2, 10, and 12 already show. |
 | Dhātuḥ Across Indic Sciences | **Parked** | The standalone dhātuḥ chapter was dissolved. |
 | Saptadhātu Cascade | **Parked** | No current body owner. |
+| `building_vakya/kr_hlad.svg` — former Figure 12.3 | **Cut** | The Ch 12 Vedic-breadth rewrite (2026-08-20) dropped the ⟪कृ⟫ / ⟪ह्लाद्⟫ reactivity contrast. Prose preserved in `working/40_reference/source_material/ch12_pre_vedic_breadth_rewrite_2026-08-20.md`; endnote `hlad-contrast-atom` is parked against the same ledger. Source retained. |
+| `building_vakya/head_bonds.svg` — former Figure 12.4 | **Cut** | Superseded by Figure 12.5 (`kr_bonding_branches`), which merges head- and tail-bonds into one branch diagram. **Claimed for reuse:** the concise edition plans "a new composite of `head_bonds.svg` and `tail_bonds.svg`" (`as_atomic_sanskrit_concise_companion_plan_codex.md`). Do not delete. |
+| `building_vakya/tail_bonds.svg` — former Figure 12.5 | **Cut** | Same merge, same concise-edition claim. Do not delete. |
+| `building_vakya/rca_role_marker.svg` — former Figure 12.7 | **Cut** | The ऋच् → ऋचा role-ending step is now carried in prose at Ch 12 §12.3 without a figure. Source retained. |
+
+### Open defect — vivimorphosis generator is disconnected from its artifact
+
+`figures/building_vakya/vakya_figures.py` is the **only** generator for the
+vivimorphosis figure, and `main()` still calls `fig_vivimorphosis()`. Its
+`BUILD_DIR` is hardcoded to the script's own directory, so it writes
+`building_vakya/vivimorphosis.from-py.svg`.
+
+The live figure no longer lives there. Commit `13e6ad81` moved it to
+`figures/pie_in_sky/vivimorphosis.svg`, where the manuscript calls it as
+**Figure 19.6** in Chapter 19. Two consequences:
+
+1. Re-running `vakya_figures.py` recreates a stale duplicate under
+   `building_vakya/`, which then reads as an orphaned figure.
+2. **Editing the script no longer updates the figure that ships.** Chapter 19's
+   Figure 19.6 has no working regeneration path.
+
+The second is the real problem. Fix by giving `write_svg()` an optional output
+subdirectory and pointing `fig_vivimorphosis()` at `pie_in_sky/`, rather than
+deleting the function — deleting it would leave the Ch 19 figure with no source
+at all. `stha_vivimorphosis.svg` in the same directory should be checked for
+the same split.
 
 ## Figure Wishlist — Non-Blocking
 
