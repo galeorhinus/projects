@@ -4203,6 +4203,8 @@ Standard references: Peter Ladefoged and Ian Maddieson, *The Sounds of the World
 
 **Short:** The ***Kailāsa Temple*** (कैलास मन्दिर) at Ellora (Cave 16, Aurangabad district, Maharashtra) — one of the largest monolithic rock-cut structures in the world, carved top-down from a single basalt cliff-face (~200,000 tons of stone removed to expose a complete temple with *śikhara*, colonnades, surrounding shrines, and continuous figural friezes) — was designed by architects whose names the historical record does not preserve; the engineering is visible in the stone, testable, structurally rigorous. The structural analog to the *varṇamālā*: engineering is visible in what stands before us — the architecture itself is the evidence.
 
+**Deployments:** Chapter 18 §18.1 — the Kailāsa temple analogy: a structure whose designer is unknown is still a designed structure, not an outgrowth of the basalt.
+
 **Candidate deployment:** Restore in Chapter 9 or Chapter 10 if the anonymous-engineering analogy is needed again: Kailasa temple at Ellora as the architectural analog to engineering visible without named designers.
 
 The ***Kailāsa Temple (कैलास मन्दिर)*** at Ellora (Cave 16 of the Ellora cave-temple complex in the Aurangabad district of Maharashtra) is one of the largest monolithic rock-cut structures in the world. The temple is carved from a single basalt cliff-face, top-down, removing approximately 200,000 tons of stone to produce the temple's exposed structure. The construction is conventionally dated by the establishment historiography to the Rashtrakuta dynasty under King Krishna I (the book applies *strategic refusal* to Indic chronology and does not affirm the conventional dating).

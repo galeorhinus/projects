@@ -26,7 +26,7 @@ Part VI turns to the account that has continued to treat this object as somethin
 
 A genealogical approach searches for organic ancestry; an architectural approach analyzes deliberate construction. The Hindu continuum explicitly treats Sanskrit as an engineered architecture. In Bṛhaspati’s mantra (RV 10.71.2), the text records exactly how the language was built: the wise ***मनसा वाचमक्रत (*manasā vācam akrata*)** — they engineered Speech with the mind, refining and sifting it exactly as grain is sifted through a sieve.
 
-Stand before the Kailasa temple at Ellora and ask who designed it. No one knows with modern biographical precision. Does the temple therefore evolve from the basalt? The geology is real. It is not the explanation. The question asked for the structure carved from the stone, the specifications, the method, the trained hands, the inherited discipline.
+Stand before the Kailasa temple at Ellora and ask who designed it. No one knows with modern biographical precision. Does the temple therefore evolve from the basalt? The geology is real. It is not the explanation. The question asked for the structure carved from the stone, the specifications, the method, the trained hands, the inherited discipline.[NOTE: kailasa-temple-ellora-engineering]
 
 Sanskrit is that kind of object. Asking only what came before it is asking the geological pedigree of the stone while refusing to account for the temple.
 
