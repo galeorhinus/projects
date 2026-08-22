@@ -552,9 +552,27 @@ def svg_doc(width: float, height: float, body: str, title: str) -> str:
     )
 
 
-def write_svg(name: str, width: float, height: float, body: str, title: str) -> None:
-    BUILD_DIR.mkdir(parents=True, exist_ok=True)
-    out = BUILD_DIR / f"{name.removeprefix("building_vakya_")}.from-py.svg"
+def write_svg(
+    name: str,
+    width: float,
+    height: float,
+    body: str,
+    title: str,
+    subdir: str | None = None,
+) -> None:
+    """Write a figure to this script's own directory, or to `subdir` under
+    figures/ when the artifact lives beside another chapter's assets.
+
+    `subdir` exists because a figure's home is decided by the chapter that
+    prints it, not by the script that draws it. vivimorphosis is drawn here
+    but ships as Chapter 19's Figure 19.6 from figures/pie_in_sky/. Writing it
+    to BUILD_DIR left the generator pointing at a file nobody rendered: the
+    stale copy under building_vakya/ read as an orphaned figure, and edits to
+    this script silently stopped reaching the figure that actually ships.
+    """
+    out_dir = BUILD_DIR if subdir is None else REPO_ROOT / "figures" / subdir
+    out_dir.mkdir(parents=True, exist_ok=True)
+    out = out_dir / f"{name.removeprefix("building_vakya_")}.from-py.svg"
     out.write_text(svg_doc(width, height, body, title), encoding="utf-8")
     print(f"Wrote {out.relative_to(REPO_ROOT)}")
 
@@ -845,8 +863,11 @@ def fig_vivimorphosis() -> None:
     body.append(render_arrow(seed_cx, e_sabda[3] + pt(4), seed_cx, y3 - form_h / 2 - pt(3)))
     body.append(render_arrow(apa_cx, y3 + form_h / 2 + pt(3), apa_cx, y4 - form_h / 2 - pt(3)))
 
+    # Ships as Chapter 19's Figure 19.6, so it belongs beside the other
+    # pie_in_sky assets rather than in this script's own directory.
     write_svg("building_vakya_vivimorphosis", FIG_W, y4 + form_h / 2 + pt(12),
-              "\n".join(body), "Vivimorphosis boundary diagram")
+              "\n".join(body), "Vivimorphosis boundary diagram",
+              subdir="pie_in_sky")
 
 
 def main() -> None:

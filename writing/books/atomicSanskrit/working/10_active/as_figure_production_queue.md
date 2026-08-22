@@ -238,11 +238,26 @@ Total deployed references in this reconciliation: **113**, using **112** unique 
 | Dhātuḥ Across Indic Sciences | **Parked** | The standalone dhātuḥ chapter was dissolved. |
 | Saptadhātu Cascade | **Parked** | No current body owner. |
 | `building_vakya/kr_hlad.svg` — former Figure 12.3 | **Cut** | The Ch 12 Vedic-breadth rewrite (2026-08-20) dropped the ⟪कृ⟫ / ⟪ह्लाद्⟫ reactivity contrast. Prose preserved in `working/40_reference/source_material/ch12_pre_vedic_breadth_rewrite_2026-08-20.md`; endnote `hlad-contrast-atom` is parked against the same ledger. Source retained. |
-| `building_vakya/head_bonds.svg` — former Figure 12.4 | **Cut** | Superseded by Figure 12.5 (`kr_bonding_branches`), which merges head- and tail-bonds into one branch diagram. **Claimed for reuse:** the concise edition plans "a new composite of `head_bonds.svg` and `tail_bonds.svg`" (`as_atomic_sanskrit_concise_companion_plan_codex.md`). Do not delete. |
+| `building_vakya/head_bonds.svg` — former Figure 12.4 | **Cut** | Superseded by Figure 12.5 (`kr_bonding_branches` — the former `building_vakya_fan_badge.from-cd.svg`, renamed and modified), which merges head- and tail-bonds into one branch diagram. **Claimed for reuse:** the concise edition plans "a new composite of `head_bonds.svg` and `tail_bonds.svg`" (`as_atomic_sanskrit_concise_companion_plan_codex.md`). Do not delete. |
 | `building_vakya/tail_bonds.svg` — former Figure 12.5 | **Cut** | Same merge, same concise-edition claim. Do not delete. |
 | `building_vakya/rca_role_marker.svg` — former Figure 12.7 | **Cut** | The ऋच् → ऋचा role-ending step is now carried in prose at Ch 12 §12.3 without a figure. Source retained. |
 
-### Open defect — vivimorphosis generator is disconnected from its artifact
+### Resolved 2026-08-22 — vivimorphosis generator was disconnected from its artifact
+
+**Fixed.** `write_svg()` now takes an optional `subdir`, and
+`fig_vivimorphosis()` passes `subdir="pie_in_sky"`, so the generator writes to
+the directory the figure actually ships from. Verified: a full run of
+`vakya_figures.py` reproduces `pie_in_sky/vivimorphosis.from-py.svg`
+byte-identically (md5 `45f246d3…` before and after), emits nothing to
+`building_vakya/`, and changes no other figure.
+
+The convention this establishes: **a figure's output directory is decided by
+the chapter that prints it, not by the script that draws it.** Any figure drawn
+in one chapter's script but printed by another needs `subdir`.
+
+Original diagnosis below.
+
+
 
 `figures/building_vakya/vakya_figures.py` is the **only** generator for the
 vivimorphosis figure, and `main()` still calls `fig_vivimorphosis()`. Its
