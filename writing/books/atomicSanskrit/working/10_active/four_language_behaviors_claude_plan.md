@@ -2,6 +2,8 @@
 
 *Active reconciled plan. It incorporates the useful material from `four_language_behaviors_codex_plan.md`, records the author's resolved placement and figure decisions, and supersedes the older plan for deployment.*
 
+> **CURRENT-LOCATION UPDATE 2026-08-22.** The Vedic-breadth rewrite removed former Chapter 12 §12.9. Chapter 19 §19.7 now owns the complete *śabda → bīja → apaśabda* mechanism and vivimorphosis analysis. Chapter 12 §12.7 retains a short forward pointer. Statements below assigning the mechanism to Chapter 12 record the earlier deployment decision rather than the current manuscript location.
+
 > **⭑ REVISED 2026-07-20 — canonical grid changed.** The 2×2 is now **origin (organic / engineered) × generativity (high / low)** — superseding the earlier origin × entropy-response grid. Four *cells* (Botanical / Petrified / Constructed Project / Sanskrit) + vivimorphosis as the principal *arrow*. The constructed-project cell is the new fourth cell. Chapter 2 now establishes the grid, Chapter 6 applies entropy as its third dimension, and Chapter 12 is the next deployment. The figure is built as `figures/botanical/language2x2.png`. Vocabulary lock and the revised typology are below; older sections (Radiance Thesis, dialect fraud, colonizer's move, endowment, petrification warning, prose seeds) are unchanged.
 >
 > **⭑ AMENDED 2026-07-20 — Esperanto is a transition, not a permanent cell exemplar.** Esperanto began from an engineered plan but rapidly acquired new lexical roots, competing forms, idiom, and community-governed usage. The body receives no more than two sentences; the evidence belongs in an endnote. Ch6 returns to the example only to show the boundary between an invariant engineered measure and botanical change.

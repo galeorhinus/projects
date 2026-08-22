@@ -35,4 +35,4 @@
 
 > The chain just traced is *Pratibimba* operating through **vivimorphosis** — an engineered Sanskrit *śabda* becoming an organic *apaśabda* in a contact language across thousands of years of *apabhraṃśa*. Chapter 12 §12.9 develops the three-stage mechanism. The **शब्द (*śabda*)** remains an inorganic molecule on the calibrant's side. A non-Sanskrit listener receives that molecule as **बीज (*bīja*)**, a seed retained in the mind. When the listener expresses it through the sounds and habits of the receiving language, the seed becomes **अपशब्द (*apaśabda*)**, an organic form that can change and generate inside that language. Indo-European philology begins with these resulting *apaśabdas* and treats them as descendants of a reconstructed ancestor.
 
-**Disposition:** Chapter 12 §12.9 remains the primary explanation. Chapter 19 now summarizes the operation before applying it.
+**Disposition:** The 2026-08-22 Chapter 11/12 rewrite moved the full explanation into Chapter 19 §19.7. Chapter 12 §12.7 now keeps only the forward pointer needed to close its word-to-sentence argument.

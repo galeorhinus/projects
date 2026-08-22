@@ -1,7 +1,7 @@
 # Atomic Sanskrit — Master Figure Plan and Production Queue
 
 **Status:** canonical figure index
-**Last reconciled:** 2026-07-29
+**Last reconciled:** 2026-08-22
 **Live numbering authority:** the current manuscript files
 
 This document is the single index for figures that are deployed, specified,
@@ -52,11 +52,11 @@ book-wide figure plan.
 
 ## Current Snapshot
 
-- **103 deployed figure references** occur in the live manuscript and reference
-  files. Some intentionally reuse the same asset.
-- Those references use **100 unique existing assets**; no deployed figure path
+- **113 deployed figure references** occur in the live manuscript. Some
+  intentionally reuse the same asset.
+- Those references use **112 unique existing assets**; no deployed figure path
   is missing.
-- **8 unresolved placeholders** remain in live manuscript prose.
+- **5 unresolved placeholders** remain in live manuscript prose.
 - **6 svara figures** have specifications; Figures A, C, and F are deployed
   across Chapters 9 and 16.
 - **6 PASS placeholders** have been reduced to two core figures plus merge,
@@ -81,7 +81,7 @@ find working/10_active -type f -name '*.md' -print0 |
 
 ## P0 — Live Manuscript Placeholders
 
-These eight entries currently print as planning text unless the build removes
+These entries currently print as planning text unless the build removes
 them. They have first claim on figure-production time.
 
 | Priority | Live ID | Working title | Placement | Status | Detailed source | Intended asset | Next action |
@@ -98,10 +98,12 @@ them. They have first claim on figure-production time.
 ### Ch 11 Vedic Assembly Set — proof check and pipeline note (2026-08-18)
 
 The five `figures/building_kriya/vedic_*.svg` assemblies were regenerated and
-re-promoted. Two things to know.
+re-promoted. The current Chapter 11 deploys the detailed **एति** and **भवति**
+assemblies; the other three remain available as source material. Two things to
+know.
 
 **Sizes are now specified as rendered, not as designed.** Chapter 11 places
-these at `width=75%`, so `vedic_kriya_examples.py` derives its design sizes
+the two detailed assemblies at `width=75%`, so `vedic_kriya_examples.py` derives its design sizes
 from target rendered sizes rather than hard-coding them:
 
 | Element | Target on the page | Design size at 4.5in |
@@ -197,31 +199,35 @@ duplicating every caption. The live figure calls remain the detailed register.
 
 | Owner | Deployed references | Figure family / asset location | Notes |
 |---|---:|---|---|
-| Preface, overture, Parts I–VII, epilogue, Ch0–1 | 12 eclipse-spine references | `figures/eclipse_spine/` | E.1–E.12; intentionally repeated narrative spine. |
-| Chapter 0 | 2 chapter figures | `figures/seekers/` | Figures 0.1–0.2; Figure 0.2 has an author revision task. |
+| Preface | 1 | `figures/eclipse_spine/` | Opening eclipse-spine figure. |
+| Overture and Parts I–VII | 8 | `figures/eclipse_spine/` | Intentionally repeated narrative spine. |
+| Chapter 0 | 3 | `figures/eclipse_spine/`, `figures/seekers/` | Eclipse-spine figure and Figures 0.1–0.2. |
+| Chapter 1 | 1 | `figures/eclipse_spine/` | Eclipse-spine figure. |
 | Chapter 2 | 3 | `figures/botanical/` | Categories, movements, and misclassification. |
-| Chapter 3 | 1 | `figures/strategic/` | Three Pillars and Containment. |
-| Chapter 4 | 3 | `figures/fourth_abrahamic/` | Figures 4.1a, 4.1b, and 4.2. |
+| Chapter 3 | 2 | `figures/strategic/` | Strategic architecture figures. |
+| Chapter 4 | 6 | `figures/fourth_abrahamic/` | Four-religion structural comparisons. |
 | Chapter 5 | 1 | `figures/siddha_grammar/` | Figure 5.1. |
 | Chapter 6 | 1 | `figures/apabhramsa/` | Figure 6.1. |
 | Chapter 7 | 3 | `figures/adivadya/` | Figures 7.1–7.3. |
-| Chapter 8 | 7 | `figures/superset/` | Figures 8.1–8.7. |
-| Chapter 9 | 8 | `figures/mapping_mouth/`, `figures/audiography/`, `figures/calibration/` | Figures 9.1–9.8; Figure 9.7 introduces PASS and Figure 9.8 presents the selected/excluded vowel forms. |
-| Chapter 10 | 7 | `figures/building_dhatuh/` | Atom architecture and distributions. |
-| Chapter 11 | 7 | `figures/building_kriya/`, `figures/ganah/` | Five Vedic assemblies plus the reactivity-tier and cross-corpus figures. |
-| Chapter 12 | 9 | `figures/building_vakya/` | Complete sonomer-to-sentence visual sequence. |
+| Chapter 8 | 6 | `figures/superset/` | Subcontinental consonant comparisons. |
+| Chapter 9 | 13 | `figures/mapping_mouth/`, `figures/audiography/`, `figures/calibration/` | Sound coordinates, timing, svara selection, and calibration. |
+| Chapter 10 | 11 | `figures/building_dhatuh/` | Atom architecture, tests, and distributions. |
+| Chapter 11 | 4 | `figures/building_kriya/` | Two detailed Vedic assemblies, one five-procedure comparison, and one verbal-breadth figure. |
+| Chapter 12 | 5 | `figures/building_vakya/` | Complete sonomer-to-sentence visual sequence, including the Vedic ⟪कृ⟫ family. |
 | Chapter 13 | 1 | `figures/preservation/` | Asuric Custody Stack. |
 | Chapter 14 | 2 | `figures/calibration/` | Figures 14.1 and 14.3; Figure 14.2 remains a placeholder. |
-| Chapter 16 | 1 | `figures/vaidika_laukika/` | Figure 16.1 shows the shared svara architecture under two domain permissions. |
+| Chapter 16 | 3 | `figures/vaidika_laukika/` | Shared architecture, domain permissions, and the two-domain design matrix. |
 | Chapter 17 | 1 | `figures/adivadya/` | Mūrdhanya flex. |
+| Chapter 18 | 2 | `figures/wrong_question/` | Architectural test and source-vs-reconstruction comparison. |
 | Chapter 19 | 8 | `figures/pie_in_sky/` | Figures 19.1–19.8; Figure 19.9 remains a placeholder. Figure 19.6 presents the vivimorphosis boundary, and Figure 19.7 presents the complete Radiance mechanism. |
 | Chapter 20 | 2 | `figures/life_after_pie/` | Figures 20.2 and 20.3 summarize analytical routes and the four transmission waves; Figure 20.1 remains a placeholder. |
+| Epilogue | 1 | `figures/eclipse_spine/` | Closing eclipse-spine figure. |
 | Appendix Part 3 | 4 | `figures/audiography/` | Figures A.5–A.8; A.4 and A.9 remain placeholders. |
-| Appendix Part 4 | 7 | `figures/superset/` | Figures A.4.1–A.4.7. |
+| Appendix Part 4 | 7 | `figures/superset/` | Detailed consonant inventory figures. |
+| Appendix Part 6 | 6 | `figures/building_kriya/`, `figures/ganah/` | Detailed activation classes, *racanā–gaṇa* matrix, periodic axes, reactivity, and cross-corpus analysis. |
 | Appendix Part 8 | 8 | `figures/vaidika_laukika/` | Designed-variation figure series. |
-| Appendix Part 6 | 4 | `figures/building_kriya/`, `figures/ganah/` | Detailed activation classes, *racanā–gaṇa* matrix, and periodic-axes analysis. |
 
-Total deployed references in this reconciliation: **100**.
+Total deployed references in this reconciliation: **113**, using **112** unique assets.
 
 ## P3 — Parked or Cut Historical Concepts
 

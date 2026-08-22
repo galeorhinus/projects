@@ -20,7 +20,7 @@ Chapter 11 followed a *dhātuḥ* into a completed verb. A sentence needs more t
 
 The epigraph demonstrates several steps that this chapter will examine.[NOTE: rigveda-1-164-39-akshara-assembly] **करिष्यति (*kariṣyati*)**, *will do*, is a completed verb formed from ⟪कृ⟫ (*kṛ*). **ऋचा (*ṛcā*)** is a completed form of **ऋच् (*ṛc*)**, a Vedic verse, with an ending that gives it the instrumental relation: *with the ṛc* or *through the ṛc*. **यः (*yaḥ*)** identifies the person being discussed, **तत् (*tat*)** identifies what that person does not know, and **किम् (*kim*)** asks what that person will do.
 
-Each word in the epigraph carries grammatical information in its ending. The listener does not have to guess whether **ऋचा** names the actor, the object, or the instrument. Its ending identifies the relation.
+Each word in the epigraph carries grammatical information in its ending. The listener does not have to guess whether **ऋचा** identifies the actor, the object, or the instrument. Its ending identifies the relation.
 
 The sentence also retains its smaller constructions. **करिष्यति** retains ⟪कृ⟫ and the material that gives the verb its future form. **ऋचा** retains **ऋच्** and the ending that prepares it for sentence use. Each atom retains its sonomers.
 
@@ -36,14 +36,9 @@ Yāska preserves this principle as **नामान्याख्यातज�
 
 Chapter 10 introduced **⟪कृ⟫ (*kṛ*)**, *to do, make,* or *act*, as an atom with exceptional generative reach. The same atom forms words for a deed, a doer, something that must be done, and something prepared or completed.
 
-Four Rigvedic passages preserve these forms:[NOTE: vedic-kr-derived-family]
+Four Rigvedic passages preserve these forms.[NOTE: vedic-kr-derived-family]
 
-| Vedic form | Passage | What the form expresses |
-|---|---|---|
-| **कृतम् (*kṛtam*)** | RV 3.29.1b | something done or completed |
-| **कर्मणः (*karmaṇaḥ*)** | RV 1.11.4c | *of the deed or action* — *ṣaṣṭhī ekavacanam*, genitive singular |
-| **कर्तृभिः (*kartṛbhiḥ*)** | RV 1.55.8c | *by the doers or makers* — *tṛtīyā bahuvacanam*, instrumental plural |
-| **संस्कृतम् (*saṃskṛtam*)** | RV 5.76.2a | something prepared or brought to completion |
+![Figure 12.3 — Four completed Vedic forms generated from ⟪कृ⟫ (*kṛ*). The atom contributes to words for what was done, the deed, the doers, and something prepared or brought to completion.](figures/building_vakya/vedic_kr_family.svg){#fig:building-vakya-vedic-kr-family width=100%}
 
 The first three forms change what kind of idea the atom expresses. **कर्म (*karma*)** expresses the deed. **कर्तृ (*kartṛ*)** expresses the doer. **कृत (*kṛta*)** describes something done or completed. The atom ⟪कृ⟫ remains identifiable in each one. The material joined to it determines the kind of word that results.
 
@@ -57,7 +52,7 @@ The Vedic passage uses **संस्कृतम्** for something prepared or
 
 RV 5.76.2a preserves **संस्कृतम्** inside a completed Vedic sentence. That line also contains forms that belong to the additional grammatical range of the *vaidika* domain. Chapter 16 and Appendix Part 8 discuss those designed differences separately.
 
-The four forms in the table demonstrate how one atom can produce several kinds of words through operations shared by the *vaidika* and *laukika* domains. They also show material joining before and after the atom, followed by endings that prepare the completed words for different sentence relations.
+The four forms in Figure 12.3 demonstrate how one atom can produce several kinds of words through operations shared by the *vaidika* and *laukika* domains. They also show material joining before and after the atom, followed by endings that prepare the completed words for different sentence relations.
 
 ## 12.3 From *Śabda* to *Padam*
 
@@ -69,7 +64,7 @@ Sanskrit calls the nominal role-ending a **विभक्तिः (*vibhakti�
 
 A completed verb carries corresponding information through a **तिङ्-प्रत्ययः (*tiṅ-pratyayaḥ*)**. Chapter 11 showed endings that distinguish who acts, how many act, and how the speaker presents the action.
 
-The following Rigvedic line gives a compact example:
+The following Rigvedic line gives a compact example:[NOTE: rigveda-5-25-4-word-order]
 
 > अग्निः । देवेषु । राजति ।
 >
@@ -109,7 +104,7 @@ The question combines a relative pronoun, a demonstrative pronoun, a negation, a
 
 Appendix Part 7 §7.4 parses the complete stanza and records the additional Vedic placement preserved in its other lines.
 
-![Figure 12.3 — Full sonomeric sentence experiment: यस्तन्न वेद किमृचा करिष्यति.](figures/building_vakya/sentence_full_hex.svg){#fig:building-vakya-sentence-full-hex width=100%}
+![Figure 12.4 — Full sonomeric sentence experiment: यस्तन्न वेद किमृचा करिष्यति.](figures/building_vakya/sentence_full_hex.svg){#fig:building-vakya-sentence-full-hex width=100%}
 
 ### Several Relations in One Sentence: RV 2.23.1ab
 
@@ -197,11 +192,11 @@ Material added after ⟪कृ⟫ turns the atom into different kinds of words:
 
 The same atom remains identifiable in every form. The head-bond redirects the action. The tail-bond determines what kind of word results. The completed word can then receive a *vibhaktiḥ* and enter a sentence.
 
-Figure 12.4 groups these examples by the material placed before ⟪कृ⟫. The first branch uses no head-bond. The remaining branches use **प्र (*pra-*)**, **वि (*vi-*)**, and **सम् (*sam-*)**.[NOTE: kr-bonding-examples]
+Figure 12.5 groups these examples by the material placed before ⟪कृ⟫. The first branch uses no head-bond. The remaining branches use **प्र (*pra-*)**, **वि (*vi-*)**, and **सम् (*sam-*)**.[NOTE: kr-bonding-examples]
 
-![Figure 12.4 — How bonds extend ⟪कृ⟫ (*kṛ*). The branch at left identifies the head-bond; each box shows selected words completed through tail-bonds.](figures/building_vakya/kr_bonding_branches.svg){#fig:building-vakya-kr-bonding-branches width=100%}
+![Figure 12.5 — How bonds extend ⟪कृ⟫ (*kṛ*). The branch at left identifies the head-bond; each box shows selected words completed through tail-bonds.](figures/building_vakya/kr_bonding_branches.svg){#fig:building-vakya-kr-bonding-branches width=100%}
 
-The same architecture also builds compounds. When India's lunar mission required a name, speakers joined **चन्द्र (*candra*, Moon)** and **यान (*yāna*, vehicle)** as **चन्द्रयान (*Candrayāna*)**. They used existing Sanskrit words and an existing compounding procedure to name a new undertaking.
+Sanskrit also uses the same assembly procedures to build compounds. When India's lunar mission required a name, speakers joined **चन्द्र (*candra*, Moon)** and **यान (*yāna*, vehicle)** as **चन्द्रयान (*Candrayāna*)**. Existing Sanskrit words and an existing compounding procedure gave the new undertaking **चन्द्रयान**.
 
 The division of responsibilities between the two domains allows Sanskrit to remain invariant while its range of expression continues to grow. The Vedas preserve the sounds, formations, endings, and sentence relations. The *laukika* domain applies them when people compose poetry or examine philosophy. Mathematicians, astronomers, and physicians can use the same architecture for their disciplines. Manufacturers and traders can create expressions for their own materials, objects, and transactions. Every generation can describe circumstances that no earlier composition anticipated.
 
@@ -219,4 +214,4 @@ The architecture is radiant because the *laukika* domain can apply it beyond the
 
 Pāṇini made the analysis explicit. He documented the recurring procedures through which a learner can move from atom to sentence and from a completed sentence back to its parts.
 
-Chapter 13 asks how this complete language survives across time. Chapter 14 explains the calibration architecture that keeps *laukika* Sanskrit aligned with the Vedas. Chapter 16 returns to the two domains in full, and Chapter 19 follows Sanskrit's radiance beyond India.
+Chapter 13 examines how this complete language survives across time. Chapter 14 explains the calibration architecture that keeps *laukika* Sanskrit aligned with the Vedas. Chapter 16 returns to the two domains in full, and Chapter 19 follows Sanskrit's radiance beyond India.

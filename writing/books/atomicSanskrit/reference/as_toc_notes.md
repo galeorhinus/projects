@@ -16,9 +16,9 @@
 
 2. **Pāṇini did not codify Sanskrit.** The codification myth treats Pāṇini's grammar (the ***Aṣṭādhyāyī***) as the founding moment of formal Sanskrit grammar. This book argues that the architecture was already present in the ***Vedas*** and transmitted as recited sound across many thousands of years before Pāṇini documented it. Pāṇini made that architecture explicit in his documentation. The civilization had already encoded and preserved it. **Chapter 4, with the Vedic calibration architecture developed in Chapters 14–16.**
 
-3. **Classical Sanskrit did not evolve from Vedic Sanskrit. They belong to two domains of the same engineered language.** Today's standard linguistics describes Sanskrit as having developed historically — *Vedic Sanskrit* (the earliest stage) gradually transforming over many generations into *Classical Sanskrit* (the language Pāṇini supposedly codified, treated as a later, more polished stage). The evolutionary distinction was invented by nineteenth-century Western linguists who needed Sanskrit to fit a chronology-and-stages model. There is no evidence within the Sanskrit continuum itself that Sanskrit changed because of Pāṇini, or that the Vedic and laukika domains represent two evolutionary stages. The continuum names them ***वैदिक (*vaidika*)*** and ***लौकिक (*laukika*)***. The Vedic domain preserves additional sounds, pitch, forms, and restricted operations required by its passages and transmission; the laukika domain applies the shared architecture to new worldly composition. Pāṇini documents the shared architecture and uses exact markers such as *chandasi, mantre, amantre, brāhmaṇe, nigame,* and *bhāṣāyām* when a particular operation has a narrower scope. Neither domain is the ancestor of the other. **Chapter 5, with the domain distinction developed in Chapter 13.**
+3. **Classical Sanskrit did not evolve from Vedic Sanskrit. They belong to two domains of the same engineered language.** Today's standard linguistics describes Sanskrit as having developed historically — *Vedic Sanskrit* (the earliest stage) gradually transforming over many generations into *Classical Sanskrit* (the language Pāṇini supposedly codified, treated as a later, more polished stage). The evolutionary distinction was invented by nineteenth-century Western linguists who needed Sanskrit to fit a chronology-and-stages model. There is no evidence within the Sanskrit continuum itself that Sanskrit changed because of Pāṇini, or that the Vedic and laukika domains represent two evolutionary stages. The continuum names them ***वैदिक (*vaidika*)*** and ***लौकिक (*laukika*)***. The Vedic domain preserves additional sounds, pitch, forms, and restricted operations required by its passages and transmission; the laukika domain applies the shared architecture to new worldly composition. Pāṇini documents the shared architecture and uses exact markers such as *chandasi, mantre, amantre, brāhmaṇe, nigame,* and *bhāṣāyām* when a particular operation has a narrower scope. Neither domain is the ancestor of the other. **Chapter 5, with the domain distinction developed in Chapter 16.**
 
-4. **English *mother* descends from Sanskrit *mātṛ*. There is no separate ancestor between them.** Today's dictionaries trace English *mother*, Sanskrit *mātṛ*, Greek *mētēr*, Latin *māter*, German *Mutter*, and similar words across the Indo-European language family (the family that spans India to Europe) back to a reconstructed ancestor word — usually written *māter or *méh₂tēr — that linguists call **Proto-Indo-European (PIE)**. The relationship runs the other way. Sanskrit *mātṛ* is the engineered source; the words in the other languages are reflections of it. Sanskrit names the relationship in its own vocabulary: ***pratibimba*** (literally *reflection*) — the source-and-reflection model that describes how an engineered Sanskrit form propagates into receiving languages and acquires variants there. What today's linguistics assembled into an imaginary ancestor is the average of the reflections, mistaken for a source. **Chapters 18 and 18.**
+4. **English *mother* descends from Sanskrit *mātṛ*. There is no separate ancestor between them.** Today's dictionaries trace English *mother*, Sanskrit *mātṛ*, Greek *mētēr*, Latin *māter*, German *Mutter*, and similar words across the Indo-European language family (the family that spans India to Europe) back to a reconstructed ancestor word — usually written *māter or *méh₂tēr — that linguists call **Proto-Indo-European (PIE)**. The relationship runs the other way. Sanskrit *mātṛ* is the engineered source; the words in the other languages are reflections of it. Sanskrit names the relationship in its own vocabulary: ***pratibimba*** (literally *reflection*) — the source-and-reflection model that describes how an engineered Sanskrit form propagates into receiving languages and acquires variants there. What today's linguistics assembled into an imaginary ancestor is the average of the reflections, mistaken for a source. **Chapters 19 and 20.**
 
 5. **The family-tree metaphor — languages as biological organisms that grow, branch, and decay over time — is the foundational category theft of historical linguistics.** Today's standard linguistics depicts the world's languages as a family tree, with each language *descending* from earlier ones, *evolving*, *branching*, and *decaying*. The metaphor was introduced by the German linguist August Schleicher in the 1860s and has persisted since. The metaphor works for natural languages, which do grow and decay. It fails on Sanskrit — a language deliberately engineered (Claim #1) to resist exactly that behavior. **Chapter 1.**
 
@@ -26,7 +26,7 @@
 
 7. **Sanskrit's architecture is atomic and fractal, not biological. The book replaces the family-tree botanical metaphor with a physics-and-engineering metaphor: *varṇāḥ* are sonomers, *dhātavaḥ* are atoms, *śabdāḥ* are molecules, and the same engineering signature recurs across scale.** Today's standard linguistics inherits biological-botanical vocabulary from the nineteenth-century family-tree model (Claim #5): words have plant-organs and stems; languages *branch*, *grow*, and *decay*. This book argues that the right metaphor for Sanskrit is engineering, not biology. The ***varṇāḥ*** — the engineered sounds the *varṇamālā* organizes (Claim #12) — function as sonomers, each classified by precise engineering parameters. The ***dhātavaḥ*** function like atoms — units of identity that preserve their structure through bonding and combine systematically with affixes into larger units. ***Śabdāḥ*** are molecules built from atoms; full sentences are larger structures built from molecules. Chapter 10 adds the Fractal Corollary: if Sanskrit is engineered, the engineering should recur across scales. The *dhātuḥ* displays at atomic scale the same *sūtra-lakṣaṇāni* an engineered *sūtra* displays at sentence scale. The architecture is engineered, atomic, fractal, and combinatorial — not biological, organic, and decaying. **Chapter 10 (Building the Dhātuḥ), with the rejected botanical metaphor prosecuted in Chapters 1 and 6.**
 
-8. **The *Dhātupāṭha* is Sanskrit's table of reactive atoms — an operating inventory Pāṇini decoded - rephrase.** Continuing the physics metaphor (Claim #7): if *dhātus* are atoms, they should arrange systematically by their reactivity. They do. The 2,168 measured atoms enter Pāṇini's ten ***gaṇas*** — operating classes — receive *vikaraṇa*-signed activations, and arrange in three reactivity tiers measured by corpus-attested combinatorial yield: polyvalent (3.8% of the inventory, generating 67.6% of the verb-token record), bivalent (27.6% / 30.5%), monovalent (68.6% / 1.9%). Valency is corpus-attested chemical yield (how many distinct *upasarga* × *pratyaya*-class pairs a *dhātuḥ* surfaces in), not subjective utility. The canonical polyvalent core — *kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ* — is invariant across the *śruti* / *smṛti* split. Placing the corpus-visible atoms on a 2D grid by *varga* column and inherent vowel shows the procedure's statistical shadow — the visible imprint of the operating table, not an independent periodicity claim. Mendeleev gave chemistry its periodic table in 1869. Sanskrit's operating table has been running for thousands of years. **Chapter 11 (Building the *Kriyā*).**
+8. **The *Dhātupāṭha* is an inventory of semantic atoms whose completed forms reveal recurring behavior.** Chapter 11 begins with Rigvedic verbs and shows five procedures through which Sanskrit prepares an atom and joins a verbal ending. The Vedas preserve the finished forms; Pāṇini later made the recurring analysis explicit. Appendix Part 6 retains the numerical audit of the larger inventory: the construction scaffolds, grammatical classes, corpus-visible combinations, and reactivity tiers. **Chapter 11 (Building the *Kriyā*) and Appendix Part 6.**
 
 9. **The Western academic establishment has ensured that the idea Sanskrit is engineered cannot even be formed.** The disciplines that study Sanskrit — historical linguistics, Indo-European philology, Indology — operate within frameworks that pre-emptively rule out the engineered-Sanskrit hypothesis before it can be tested. The family-tree metaphor (Claim #5), the botanical translation of *dhātuḥ* (Claim #6), and the Proto-Indo-European reconstruction (Claim #4) each assume what they would need to prove. The defense is structural rather than argued — the disciplines do not engage the engineering thesis; they assume its impossibility as a precondition for the work they do. **Chapter 2.**
 
@@ -40,7 +40,7 @@
     - ***Mnemoniture*** (Greek *mnēmē*, "memory" + Latin *-tūra*) — content preserved through memory and retelling; the *Rāmāyaṇa*, the *Mahābhārata*, the *Purāṇas*, the regional retellings across many languages and generations. Sanskrit term: ***smṛti*** (*that which is remembered*). Chapter 14.
     - ***Flexture*** (Latin *flexus*, "bending" + *-tūra*) — content preserved through choreographed gesture and posture; the classical Indian dance lineages (*Bharatanāṭyam*, *Kathakaḷi*, *Odissī*, *Kuchipudi*, *Manipuri*, *Mohinīāṭṭam*, *Kathak*) operating as engineered carriers. Sanskrit terms: ***mudrā*** / ***hasta*** as the gesture vocabulary, ***nāṭyaśāstra*** as the codified specification. Chapter 14.
     - ***Audiography*** (Latin *audi-* + Greek *-graphia*, parallel to *photography*) — articulated sound rendered as engineered visible glyph. Sanskrit term: ***akṣara*** — literally *the imperishable* — naming what the Indic writing systems (Devanāgarī, Bengali, Tamil, Tibetan, Thai, and the rest of the Brāhmī-descended family) render. **Photography (1839) captures light into a medium that decays; audiography captures sound into a unit whose Sanskrit name asserts non-decay, and is many thousands of years older.** Chapter 9 §9.6, Appendix Part 3.
-    - ***Vivimorphosis*** (Latin *vivi-*, "living" + Greek *morphosis*, "shaping") — the inverse of petrification: an engineered Sanskrit word coming alive as an organic word in a receiving language, after passing through the listener's head as a seed (***bīja***). Sanskrit term for the same process viewed from the loss side: ***apabhraṃśa*** (literally *falling away*). What Indo-European linguists treat as reconstructed ancestry across the daughter-language families are the expressed seeds. Chapter 12 §12.5, Chapter 19.
+    - ***Vivimorphosis*** (Latin *vivi-*, "living" + Greek *morphosis*, "shaping") — the inverse of petrification: an engineered Sanskrit word coming alive as an organic word in a receiving language, after passing through the listener's head as a seed (***bīja***). Sanskrit term for the same process viewed from the loss side: ***apabhraṃśa*** (literally *falling away*). What Indo-European linguists treat as reconstructed ancestry across the daughter-language families are the expressed seeds. Chapter 19 §19.7.
 
     Each names an engineering operation the Indic civilization built and the academic establishment refused to recognize as engineering.
 
@@ -313,62 +313,46 @@ This chapter presents the foundational synthesis: how sonomers (वर्णा�
 
 ## Chapter 11 — Building the *Kriyā* (क्रिया): Sanskrit's Molecule
 
-*[Title revised 2026-05-17 from "Periodic Table of गणāḥ" — Pāṇini's* gaṇāḥ *are an inflectional classification, not an independent engineering grid. The atoms themselves (the* dhātavaḥ*) are the operating inventory; the* gaṇāḥ *are Pāṇini's operating classes over that inventory.]*
+Chapter 11 follows a semantic atom into a completed verb. It begins with forms already preserved in the Ṛgveda, demonstrates five different preparation procedures, and then shows the wider information carried by verbal endings. The chapter establishes the Vedas as both grammatical and pronunciation calibrant before introducing Pāṇini's analytical categories.
 
-*[Structure revised 2026-05-27: Vedic-procedure-first orientation per §0.11. Chapter now leads with Rigvedic kriyā-forms before Pāṇinian terminology enters; the* gaṇa / vikaraṇa *notation-layer follows as Pāṇini's documentation of an operation already visible in the Vedic corpus. The periodic-table figure remains later as the procedure's statistical shadow rather than as an independent periodicity claim. The 5-section periodic-table-first draft is archived at `archive/as_1_11_building_kriya_pre_procedural.md` for historical reference.]*
-
-This chapter takes up the question Ch 10 closed with: *if Sanskrit is atomic, how does the atom react?* The reaction is the *kriyā* (क्रिया): the verbal action-form. The chapter first shows the implicit Vedic operation, then introduces Pāṇini's notation for that operation, then audits the distribution.
-
-### Section plan — ten sections, procedure first, audit second
-
-- **§11.1 — From Atomic Sūtra to Verbal Molecule.** Chapter 10's filled scaffold (2,168 *dhātavaḥ*) enters the *kriyā* engine. The section separates Sanskrit's own operation from Pāṇini's later notation-layer. The matrix and tiers are framed as audit, not foundation.
-- **§11.2 — The Vedic Procedure Before Pāṇini.** Five Rigvedic kriyā-forms demonstrate the operation before Pāṇinian terminology: इ → एति, अस् → अस्ति, यज् → यजति, भू → भवति, राज् → राजति. The examples span 1, 1.5, 2, 2.5, and 3 *mātrā* dhātu-envelopes. New simplified assembly figures show sonomer-level bonding with no *gaṇa*, *vikaraṇa*, *anubandha*, or rule-name visible.
-- **§11.3 — Pāṇini's Notation Layer.** Pāṇini's grammar names the operation: *dhātuḥ + gaṇa-operation / vikaraṇa + tiṅ-pratyaya → kriyā*. Single-example *bhvādi* assembly plus range figures introduce the technical notation, *anubandha* disappearance, and source coloring.
-- **§11.4 — The Ten Gaṇāḥ as Operations.** The operating roster table: ten *gaṇāḥ*, their *vikaraṇa* signatures, procedural effects, and canonical exemplars.
-- **§11.5 — The Racanā-Gaṇa Matrix.** The matrix cell is not a count but a statement of procedural compatibility — "this scaffold can pass through this gaṇa operation." The section combines the construction axis, operation axis, heavy corridors, and empty-cell argument.
-- **§11.6 — Reactivity Audit.** Statistics enter as audit. Valency definition (corpus-visible *upasarga* × *pratyaya* yield via DCS). Three reactivity tiers (polyvalent 3.8% / 67.6%; bivalent 27.6% / 30.5%; monovalent 68.6% / 1.9%). Natural-language parallel table. Compactness coupling ρ = -0.43 / -0.49.
-- **§11.7 — Hyper-Reactive Atoms.** Carbon-class metaphor. Canonical nine: *kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ*. The compact atom can bond, travel, generate.
-- **§11.8 — The Procedure's Shadow.** Periodic-axes figure as the statistical shadow of the procedure (not an independent periodicity claim). Multi-axis discussion: *gaṇa*, *racanā*, *varga* column, inherent vowel. The C4-juhotyādi enrichment and ṛ-vowel reach numbers ground "position carries behavior."
-- **§11.9 — Stability Across Use.** Cross-corpus invariance — the canonical nine 9/9 visible across Ṛgveda / Atharvaveda / Mahābhārata / Rāmāyaṇa.
-- **§11.10 — Pāṇini Decoded Operations.** Verdict close. Standing line + Mendeleev anchor.
+- **§11.1 — From Semantic Atom to Verbal Molecule.** Explains what a completed verb must add to the atom and why person and number support flexible word order.
+- **§11.2 — Five Vedic Activation Procedures.** Uses **एति, भवति, ददाति, रुणद्धि,** and **सुनोति** to demonstrate vowel change, insertion, repetition, and two kinds of nasal extension.
+- **§11.3 — The Rigveda Preserves the Wider Verbal Range.** Shows person, number, present, past, future, command, and possibility through compact representative examples; Appendix Part 7 retains the full concordance.
+- **§11.4 — The Grammar Is Evident in the Vedas.** Establishes why a broad, exactly transmitted corpus can calibrate both construction and pronunciation.
+- **§11.5 — Pāṇini Made the Analysis Explicit.** Introduces *dhātuḥ, aṅgam, tiṅ, gaṇa,* and *vikaraṇa* only after the Vedic forms have demonstrated the recurring procedures.
+- **§11.6 — The Atom Has Become Action.** Returns the completed verb to the radiant, calibrant, and fractal architecture.
 
 ### Figures
 
-- `figures/building_kriya/output/vikarana_bhvadi.svg` — single-example bhvādi compositional strip.
-- `figures/building_kriya/vikarana_examples.svg` — six-panel range figure.
-- `figures/building_kriya/vedic_{eti,asti,yajati,bhavati,rajati}.svg` — five Vedic-procedure assembly figures without visible Pāṇinian notation.
-- `figures/ganah/racana_gana_matrix.svg` — top-10 *racanā* × ten *gaṇa* cross-tabulation.
-- `figures/ganah/periodic_table.svg` — periodic-axes view (re-captioned as "procedure's shadow").
-- `figures/ganah/canonical_rank_trajectory.svg` — canonical nine across DCS sub-corpora.
+- Figures 11.1–11.2: detailed Vedic assemblies for **एति** and **भवति**.
+- Figure 11.3: five Vedic activation procedures in one comparison.
+- Figure 11.4: person and number above five Vedic time-and-mode examples.
 
-Four Pāṇinian-notation assembly figures (`building_kriya_{pacati,asti,divyati,corayati}_assembly.svg`) remain available as supplementary illustrations of the compositional operation (with explicit source → destination arrows and final cluster-merged form).
+The numerical *gaṇa*, reactivity, periodic-axis, and cross-corpus material now belongs to Appendix Part 6.
 
 ---
 
 ## Chapter 12 — Building the *Vākya* (वाक्य): Sanskrit's Molecular Assembly
 
-This chapter completes the atomic architecture by presenting the bonding chemistry that transforms reactive *dhātavaḥ* into stable, deployable पदानि. The 22 उपसर्गाः function as functional groups that catalytically alter the properties of the elements they attach to. The प्रत्ययाः function as valence shell stabilizers that close the electron shell and freeze the atom into a usable molecular state. The pipeline is complete: वर्णः → धातुः → शब्दः → पदम् → वाक्यम्.
+Chapter 12 continues from the completed verb into derived words, sentence-ready *padāni*, and complete sentences. It uses Rigvedic examples to show that the construction was already present in Vedic Sanskrit, explains how endings encode grammatical relations, and then connects that encoding to free word order and *laukika* generativity.
 
-* Present the role of **उपसर्गाः (upasargāḥ)** as functional groups:
-  * 22 prefixes operating as catalytic agents.
-  * No independent semantic weight; they alter the physical properties of the element.
-  * The maxim: **उपसर्गेण धात्वर्थो बलादन्यत्र नीयते**.
-  * Demonstration: हृ (hṛ) → प्रहारः, आहारः, संहारः.
-* Present the role of **प्रत्ययाः (pratyayāḥ)** as valence shell stabilizers:
-  * Final covalent bonds that close the reactive shell.
-  * The grammatical mandate: **अपदं न प्रयुञ्जीत**.
-  * From reactive *dhātuḥ* to stable, deployable *padam*.
-* Present the full architectural pipeline:
-  * वर्णाः (varṇāḥ) — phonetic particles.
-  * धातवः (dhātavaḥ) — semantic atoms.
-  * शब्दाः (śabdāḥ) — lexical molecules.
-  * पदानि (padāni) — activated grammatical molecules.
-  * वाक्यम् (vākyam) — complete semantic reaction.
-* Note the consequence of full molecular saturation:
-  * Because *padāni* are self-contained, syntactic word order in Sanskrit is fluid.
-  * Meaning is carried by saturation, not by sequence.
-  * This fluidity is what makes the metrical preservation system of the Vedas possible — a point developed in Chapter 13.
-* Argue that this pipeline is Sanskrit's architecture for generating meaning.
+- **§12.1 — From Completed Action to Sentence.** Uses RV 1.164.39c to introduce the move from verb to complete sentence.
+- **§12.2 — The Vedic ⟪कृ⟫ Family.** Follows one atom into **कृतम्, कर्मणः, कर्तृभिः,** and **संस्कृतम्**.
+- **§12.3 — From Śabda to Padam.** Explains how a role-ending prepares a meaningful word for a sentence.
+- **§12.4 — Two Vedic Sentences.** Parses RV 1.164.39c and RV 2.23.1ab without turning the chapter into a full grammar manual.
+- **§12.5 — Encoded Relations Permit Free Word Order.** Demonstrates how endings preserve relations while a composer changes order for meter, emphasis, and resonance.
+- **§12.6 — Pāṇini Made the Sentence Analysis Explicit.** Introduces *vibhakti, kārakam,* and *tiṅ* after the sentences have demonstrated their functions.
+- **§12.7 — The Calibrant Enables Laukika Generativity.** Shows head-bonds, tail-bonds, compounds, and new worldly expression.
+- **§12.8 — The Architecture Reaches the Sentence.** Brings the sonomer-to-sentence construction back to the radiant, calibrant, and fractal thesis.
+
+### Figures
+
+- Figures 12.1–12.2: the sonomer-to-sentence pipeline and one worked assembly.
+- Figure 12.3: four Vedic forms generated from ⟪कृ⟫.
+- Figure 12.4: the sonomeric assembly of RV 1.164.39c.
+- Figure 12.5: selected head-bonds and tail-bonds extending ⟪कृ⟫.
+
+Appendix Part 7 retains the complete Vedic grammatical concordance behind the representative examples.
 
 ---
 

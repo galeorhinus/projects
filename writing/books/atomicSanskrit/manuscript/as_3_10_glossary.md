@@ -104,7 +104,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 **Sanskrit pair**: *dhātuḥ* / *dhātavaḥ*.
 
-**Use in book**: Chapter 2 rejects the philological botanical mistranslation; Chapter 10 establishes *dhātuḥ* as semantic atom, builds the inventory, and tests the *dhātuḥ* against the six *sūtra-lakṣaṇāni* at atomic scale; Chapter 11 shows how the atom becomes *kriyā* through operational bonding; Chapter 12 develops the next assembly level; Chapter 13 establishes the calibration architecture that keeps the atomic inventory stable across time.
+**Use in book**: Chapter 2 rejects the philological botanical mistranslation; Chapter 10 establishes *dhātuḥ* as semantic atom, builds the inventory, and tests the *dhātuḥ* against the six *sūtra-lakṣaṇāni* at atomic scale; Chapter 11 follows atoms into completed Vedic verbs; Chapter 12 develops the next assembly level; Chapter 13 establishes the calibration architecture that keeps the atomic inventory stable across time.
 
 ### **atomic scaffold**
 
@@ -160,7 +160,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 **Standard English, book-repurposed.** A pattern whose design principle recurs across scale. In this book, *fractal* does not mean strict mathematical infinite self-similarity. It means scale-recurring architecture: the same engineering logic appearing from mouth to language — mouth, sonomer, *akṣara*, *dhātuḥ*, *kriyāpada*, *śabda*, *vākya*, *sūtra*, recitation, and calibration-matrix scale.
 
-**Use in book**: The front matter lays out the distinction between natural fractal, balanced civilizational fractal, and distorted civilizational fractal. Chapter 10 is the technical spine: it tests whether the *dhātuḥ* displays the same *lakṣaṇāni* an engineered *sūtra* displays. Chapters 19–19 use the contrast between flat PIE chronology and scale-recurring Sanskrit architecture.
+**Use in book**: The front matter lays out the distinction between natural fractal, balanced civilizational fractal, and distorted civilizational fractal. Chapter 10 is the technical spine: it tests whether the *dhātuḥ* displays the same *lakṣaṇāni* an engineered *sūtra* displays. Chapters 19–20 contrast PIE chronology with Sanskrit's scale-recurring architecture.
 
 ### **Fractal Corollary**
 

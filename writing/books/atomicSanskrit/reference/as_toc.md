@@ -156,28 +156,22 @@
 - 10.16 The Fractal Signature
 
 **Chapter 11 — Building the *Kriyā* (क्रिया): Sanskrit's Molecule**
-- 11.1 From Atomic Sūtra to Verbal Molecule
-- 11.2 The Vedic Procedure Before Pāṇini
-- 11.3 Pāṇini's Notation Layer
-- 11.4 The Ten *Gaṇāḥ* as Operations
-- 11.5 The *Racanā-Gaṇa* Matrix
-- 11.6 Reactivity Audit
-- 11.7 Hyper-Reactive Atoms
-- 11.8 The Procedure's Shadow
-- 11.9 Stability Across Use
-- 11.10 Pāṇini Decoded Operations
+- 11.1 From Semantic Atom to Verbal Molecule
+- 11.2 Five Vedic Activation Procedures
+- 11.3 The Rigveda Preserves the Wider Verbal Range
+- 11.4 The Grammar Is Evident in the Vedas
+- 11.5 Pāṇini Made the Analysis Explicit
+- 11.6 The Atom Has Become Action
 
 **Chapter 12 — Building the *Vākya* (वाक्य): Sanskrit's Molecular Assembly**
-- 12.1 From Verbal Molecule to Sentence Assembly
-- 12.2 The Bonding Procedure
-- 12.3 The ⟪कृ⟫ Atom as Flagship
-- 12.4 Head-Bonds: How *Upasargāḥ* Redirect the Atom
-- 12.5 Tail-Bonds: How *Pratyayāḥ* Stabilize the Molecule
-- 12.6 The ⟪कृ⟫ Bonding Matrix
-- 12.7 From *Śabda* to *Padam*
-- 12.8 From *Padam* to *Vākya*
-- 12.9 Boundary Crossing: *Apabhraṃśa* = Vivimorphosis
-- 12.10 Close — Assembly Without Loss
+- 12.1 From Completed Action to Sentence
+- 12.2 The Vedic ⟪कृ⟫ Family
+- 12.3 From *Śabda* to *Padam*
+- 12.4 Two Vedic Sentences
+- 12.5 Encoded Relations Permit Free Word Order
+- 12.6 Pāṇini Made the Sentence Analysis Explicit
+- 12.7 The Calibrant Enables *Laukika* Generativity
+- 12.8 The Architecture Reaches the Sentence
 
 ---
 

@@ -325,7 +325,7 @@ To avoid duplication, forthcoming volumes treat these as Vol 1 ground:
 - **Heroic erasure** — Ch 1 §1.6 (the pyramid's founder-myth move), with script-level deployment in Ch 13 §13.3.
 - **The *Sanātan* / *prakṛti* / *saṃskṛti* base terminology** — Ch 5 (forthcoming volumes add *vikṛti* as the middle).
 - **The cooking/baking-vs-manufacture convention** — `CLAUDE.md` (inherited).
-- **Vivimorphosis as the engineered-to-organic transformation** — Ch 12 §12.5 (forthcoming volumes may reference for cosmic applications).
+- **Vivimorphosis as the engineered-to-organic transformation** — Ch 19 §19.7 (forthcoming volumes may reference for cosmic applications).
 - **Outward-absorption mechanism** — Ch 3 §3.4 (the church-of-progress's elevation-of-tradition-internal-scholars move).
 - **The three-tier chronology vocabulary** — `CLAUDE.md` (thousands of years / dozens of generations / many generations).
 

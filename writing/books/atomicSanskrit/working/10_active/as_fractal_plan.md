@@ -1344,14 +1344,11 @@ scale. The fractal frame asks: does *lāghavam* operate here too? Yes —
 the *kriyā* is the *dhātuḥ* + *vikaraṇa* + *tiṅ-pratyaya* compressed
 into a recoverable verbal molecule. The reader should see this.
 
-Add a paragraph in §11.10 (verdict) extending the *Operating Table*
-claim into the fractal claim:
-
-> *The* kriyā *is the molecular instance of the same law. The* dhātuḥ
-> *compresses sonomers into a semantic atom; the* kriyā *compresses
-> the atom plus its bonds into a recoverable verbal molecule. Same
-> compression-with-recoverability law, one scale up. The architecture
-> is fractal.*
+**Completed in the 2026-08-22 rewrite.** Chapter 11 §11.6 now closes the
+molecule-scale argument. It follows the sonomers into the *dhātuḥ*, the
+*dhātuḥ* into the completed verb, and the completed verb into Chapter 12's
+sentence assembly. The former §11.10 and its Operating Table terminology no
+longer exist in the body; Appendix Part 6 retains the numerical evidence.
 
 ### Ch 12 — Building the Vākya (as_1_12) — *sentence scale*
 

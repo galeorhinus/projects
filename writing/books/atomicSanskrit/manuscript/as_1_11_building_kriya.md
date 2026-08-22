@@ -22,7 +22,7 @@ The first five examples come from the Ṛgveda. Each one shows a different way i
 
 Each procedure remains available in *laukika* Sanskrit. Its presence in a received Vedic passage therefore gives later speakers and students an invariant example against which they can check both formation and pronunciation.
 
-This chapter calls that preparation **activation**. The atom already contains meaning. Activation changes or extends the atom in the specific way required before a verbal ending can join it. The result can then express a completed action inside a sentence.
+This chapter calls that preparation **activation**. The atom already contains meaning. Activation changes or extends the atom in the specific way required before a verbal ending can join it. The completed verb can then express an action inside a sentence.
 
 ### Vowel Change: ⟪इ⟫ (*i*) → एति (*eti*)
 
@@ -36,7 +36,7 @@ The atom is ⟪इ⟫ (*i*), a one-*mātrā* vowel atom meaning *to go*. Sanskri
 
 > ⟪इ⟫ (*i*) → ए (*e*) + ति (*ti*) → एति (*eti*)
 
-![Vedic assembly: ⟪इ⟫ (*i*) becomes एति (*eti*).](figures/building_kriya/vedic_eti.svg){#fig:building-kriya-vedic-eti width=75%}
+![Figure 11.1 — Vedic assembly: ⟪इ⟫ (*i*) becomes एति (*eti*).](figures/building_kriya/vedic_eti.svg){#fig:building-kriya-vedic-eti width=75%}
 
 The completed **एति (*eti*)** means *he, she, or it goes*. The atom remains identifiable even though its vowel has changed. A learner can account for the change and retrace the path from the completed verb to its atom. That recoverable path is more important than a letter-for-letter resemblance between the two forms.
 
@@ -52,7 +52,7 @@ The atom is ⟪भू⟫ (*bhū*), meaning *to become* or *to come into being*. 
 
 > ⟪भू⟫ (*bhū*) → भो (*bho*) → भव् (*bhav*) + अ (*a*) + ति (*ti*) → भवति (*bhavati*)
 
-![Vedic assembly: ⟪भू⟫ (*bhū*) becomes भवति (*bhavati*).](figures/building_kriya/vedic_bhavati.svg){#fig:building-kriya-vedic-bhavati width=75%}
+![Figure 11.2 — Vedic assembly: ⟪भू⟫ (*bhū*) becomes भवति (*bhavati*).](figures/building_kriya/vedic_bhavati.svg){#fig:building-kriya-vedic-bhavati width=75%}
 
 The completed **भवति (*bhavati*)** means *he, she, or it becomes*. Its surface form differs considerably from ⟪भू⟫, but every difference follows a restricted sequence. A learner can reverse the sequence and return from **भवति** to ⟪भू⟫.
 
@@ -98,15 +98,9 @@ The atom is ⟪सु⟫ (*su*), meaning *to press or express Soma*. This proced
 
 The completed **सुनोति (*sunoti*)** means *he, she, or it presses Soma*. Compare it with **रुणद्धि**. Both verbs contain an added nasal sound, but Sanskrit places that sound differently. **रुणद्धि** inserts it inside the atom. **सुनोति** extends the atom after its final sound.
 
-The five procedures can now be placed beside one another:
+Figure 11.3 places the five procedures beside one another.
 
-| Atom | What Sanskrit does | Completed verb |
-|---|---|---|
-| ⟪इ⟫ (*i*) | changes इ to ए | एति (*eti*) |
-| ⟪भू⟫ (*bhū*) | changes the vowel and inserts अ | भवति (*bhavati*) |
-| ⟪दा⟫ (*dā*) | repeats the opening | ददाति (*dadāti*) |
-| ⟪रुध्⟫ (*rudh*) | inserts a nasal sound inside the atom | रुणद्धि (*ruṇaddhi*) |
-| ⟪सु⟫ (*su*) | adds a nasal extension after the atom | सुनोति (*sunoti*) |
+![Figure 11.3 — Five activation procedures preserved in completed Rigvedic verbs. Each procedure changes or extends its atom in a restricted way before the verbal ending completes the form.](figures/building_kriya/five_vedic_activations.svg){#fig:building-kriya-five-vedic-activations width=100%}
 
 Each procedure allows the atom to change only in a specific and predictable way. Atoms that behave alike follow the same preparation. Once a learner understands one procedure, the same knowledge can be applied to the other atoms that share it.
 
@@ -128,13 +122,7 @@ Consider **⟪यज्⟫ (*yaj*)**, meaning *to perform yajña*. The Ṛgveda 
 
 The **ति** ending belongs to the set called **परस्मैपदम् (*parasmaipadam*)**. The **ते** ending belongs to the set called **आत्मनेपदम् (*ātmanepadam*)**. A reader does not need the complete ending tables here. These two forms demonstrate the relationship directly. Sanskrit can keep the atom and its preparation unchanged while a different ending gives the completed verb a different grammatical form.
 
-The six singular and plural forms that *laukika* Sanskrit can generate from ⟪इ⟫ show how much information Sanskrit can place inside one completed verb. Sanskrit calls the speaker **उत्तमपुरुष (*uttama-puruṣa*)**, the person addressed **मध्यमपुरुष (*madhyama-puruṣa*)**, and the person or thing being described **प्रथमपुरुष (*prathama-puruṣa*)**.
-
-| Who acts? | Singular | Plural |
-|---|---|---|
-| the speaker or speakers | **एमि (*emi*)** — I go | **इमः (*imaḥ*)** — we go |
-| the person or people addressed | **एषि (*eṣi*)** — you go | **इथ (*itha*)** — you all go |
-| someone or something described | **एति (*eti*)** — he, she, or it goes | **यन्ति (*yanti*)** — they go |
+The six singular and plural forms that *laukika* Sanskrit can generate from ⟪इ⟫ show how much information Sanskrit can place inside one completed verb. Sanskrit calls the speaker **उत्तमपुरुष (*uttama-puruṣa*)**, the person addressed **मध्यमपुरुष (*madhyama-puruṣa*)**, and the person or thing being described **प्रथमपुरुष (*prathama-puruṣa*)**. Figure 11.4 places these six forms above five Rigvedic verbs that express present, past, future, command, and possibility or desire.
 
 All six verbs come from the same atom, ⟪इ⟫, *to go*. Each form combines the prepared atom with a compact sonomeric ending. English usually uses a separate pronoun: *I, we, you, he, she,* or *they*. Sanskrit incorporates person and number into the completed verb. Its preparation and ending together identify whether the action belongs to the speaker, the person addressed, or someone being described. They also distinguish a singular actor from a plural group. A separate pronoun can still identify or emphasize the actor, but the verb does not require one to express person and number.
 
@@ -142,23 +130,17 @@ Encoding person and number inside the verb reduces the sentence's dependence on 
 
 The six forms above demonstrate the engineering through one atom. The Ṛgveda preserves the same person-and-number distinctions across many atoms and also preserves separate forms for exactly two actors. Appendix Part 7 §7.2 records all nine combinations and gives a Vedic passage for every form in its concordance.
 
-The verbs also place actions in different times and modes:
+The verbs also place actions in different times and modes.
 
-| What the verb expresses | Vedic form | Plain meaning |
-|---|---|---|
-| present action | **भवति (*bhavati*)**, RV 1.17.5 | becomes |
-| past action | **आसीत् (*āsīt*)**, RV 10.129.1 | was |
-| future action | **करिष्यति (*kariṣyati*)**, RV 1.164.39 | will do |
-| command | **भव (*bhava*)**, RV 1.1.9 | become |
-| possibility or desire | **स्याम (*syāma*)**, RV 1.4.6 | may we be |
+![Figure 11.4 — The grammatical breadth carried by completed verbs. The upper panel shows how one atom expresses person and number. The lower panel gives Rigvedic examples of five ways in which a speaker can present an action.](figures/building_kriya/vedic_verbal_breadth.svg){#fig:building-kriya-vedic-verbal-breadth width=100%}
 
-The table establishes that the Vedas preserve the same present, past, future, command, and possibility forms available to the *laukika* domain. Chapter 16 examines the additional forms restricted to the *vaidika* domain.
+The lower panel establishes that the Vedas preserve the same present, past, future, command, and possibility forms available to the *laukika* domain. Chapter 16 examines the additional forms restricted to the *vaidika* domain.
 
-The same corpus also preserves participles, infinitives, and gerundives. Its sentences ask questions, negate actions, issue commands, and build compounds. Chapter 12 follows these forms and the Vedic nominal relations into complete sentences. Appendix Part 7 §7.2 records the wider grammatical inventory and the exact passages behind the compact tables in this section.[NOTE: rigvedic-kriya-breadth]
+The same corpus also preserves participles, infinitives, and gerundives. It preserves questions, negations, commands, and compounds. Chapter 12 follows these forms and the Vedic nominal relations into complete sentences. Appendix Part 7 §7.2 records the wider grammatical inventory and the exact passages behind Figure 11.4.[NOTE: rigvedic-kriya-breadth]
 
 ## 11.4 The Grammar Is Evident in the Vedas
 
-The Vedic passages cited above preserve completed verbs that existed before this chapter separated them for analysis. The passages preserve more than the atoms. They preserve the completed verbs and every sound added or changed during their formation. They also preserve endings that distinguish the actor and number, as well as time and mode. The compact ⟪इ⟫ table demonstrates the same shared architecture through one atom; Appendix Part 7 §7.2 supplies the complete Vedic concordance.
+The Vedic passages cited above preserve completed verbs that existed before this chapter separated them for analysis. The passages preserve more than the atoms. They preserve the completed verbs and every sound added or changed during their formation. They also preserve endings that distinguish the actor and number, as well as time and mode. Figure 11.4 demonstrates the same shared architecture through one atom; Appendix Part 7 §7.2 records the complete Vedic concordance.
 
 Repeated forms allow the procedures to be compared. **ददाति** can be placed beside other verbs that repeat part of their atom. **रुणद्धि** can be placed beside other verbs that insert a nasal sound. **सुनोति** can be compared with other atoms that receive the same kind of extension. A mantra uses the completed verb to express its meaning; it does not pause to teach the formation. Comparison across many mantras reveals that Sanskrit applies the same preparation when it forms the same kind of verb from another atom in that group.
 
@@ -186,7 +168,7 @@ The reader has already seen why such a classification helps. ⟪इ⟫ changes i
 
 Pāṇini did not create **एति, भवति, ददाति, रुणद्धि,** or **सुनोति**. Every one of those verbs already occurs in the Vedic corpus. He documented their recurring behavior as precise procedures that a learner could apply in either direction.
 
-Earlier *vaiyākaraṇāḥ* had also analyzed Sanskrit. Pāṇini produced the finest documentation of that accumulated understanding. A learner can begin with a *dhātuḥ*, account for each change, select the required ending, and derive the completed verb. The analysis also works in reverse: the learner can inspect a completed form and recover the atom and grammatical information within it.
+Earlier *vaiyākaraṇāḥ* had also analyzed Sanskrit. Pāṇini produced the finest documentation of that accumulated understanding. A learner can begin with a *dhātuḥ*, account for each change, select the required ending, and derive the completed verb. The learner can also reverse those steps, inspect a completed form, and recover the atom and grammatical information within it.
 
 Appendix Part 6 §6.3 examines how far Sanskrit's compact atoms extend across word families and recorded grammatical combinations. Section 6.4 then sets out the ten activation groups and compares those groups with the sonomeric construction of the atoms. This chapter establishes the procedures directly through completed Vedic verbs; the appendix tests their distribution across the larger inventory.
 

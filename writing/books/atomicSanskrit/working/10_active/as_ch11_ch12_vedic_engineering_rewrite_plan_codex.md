@@ -776,18 +776,18 @@ Suggested location:
 ### Pass 11 — Figures and Endnotes
 
 - [x] Deploy the general vivimorphosis boundary figure as Figure 19.6 and renumber the later Chapter 19 figures.
-- [ ] Revise existing figures.
-- [ ] Produce the new Vedic breadth figures.
-- [ ] Add exact endnotes for every Vedic form and passage.
-- [ ] Remove orphan endnotes and repair deployments.
+- [x] Revise the existing figure deployment, captions, and numbering around the rewritten chapters.
+- [x] Produce the new Vedic activation, verbal-breadth, and ⟪कृ⟫-family figures.
+- [x] Add exact endnotes for every Vedic form and passage introduced by the rewrite.
+- [x] Audit orphan endnotes and repair deployments. No missing or newly orphaned Chapter 11/12 notes remain; intentionally parked and cross-referenced source entries remain in the global inventory.
 
 ### Pass 12 — Manuscript Integration and Verification
 
-- [ ] Repair all section pointers and figure references.
-- [ ] Update the TOC, annotated TOC, glossary, figure queue, and verification list.
-- [ ] Run readability, decompression, terminology, and banned-language passes.
-- [ ] Render Chapters 11 and 12 separately.
-- [ ] Assemble the complete manuscript and verify endnotes and figures.
+- [x] Repair all section pointers and figure references.
+- [x] Update the TOC, annotated TOC, glossary, figure queue, and verification list.
+- [x] Run readability, decompression, terminology, and banned-language passes.
+- [x] Render Chapters 11 and 12 separately at trade size and inspect every figure-bearing page.
+- [x] Assemble the complete manuscript in full- and short-endnote modes and verify endnotes and figures.
 
 ---
 
