@@ -120,7 +120,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 7.2 The Vocal Apparatus — *Lungs, larynx, vocal cords, pharynx, oral and nasal cavities, tongue, lips; the ~17 cm vocal tract.*
 - 7.3 Consonants Are Events — *The places of articulation along the vocal tract, with cross-language examples.*
 - 7.4 Vowels Are Sustained Tones — *Vowel production through resonator-shape modulation.*
-- 7.5 Every Language Is a Selection — *The full range the vocal apparatus can produce — the superset from which every language selects.*
+- 7.5 Every Language Is a Selection — *The human sound-space contains more possibilities than any language uses; each language selects its inventory from that larger range.*
 - 7.6 The Sanskrit Map — *The parallel Sanskrit naming system: the same apparatus named twice.*
 - 7.7 Categories of Sound — *The four-category framework:* sparśa, swara, antaḥstha, ūṣman.
 - 7.8 *Sthāna*, *Prayatna*, and *Mātrā* — *The Sanskrit decomposition of sound as place, bodily effort, and measured duration.*

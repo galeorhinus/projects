@@ -32,6 +32,8 @@ To produce all these sounds, curl the tip of the tongue backward and bring it ag
 
 Languages across the subcontinent use this tongue position. Tamil, Kannada, Malayalam, and Telugu have retroflex sounds. Mundari, Ho, and Korku have them. So do Marathi, Gujarati, Konkani, Sindhi, Bengali, Odia, Assamese, Hindi, Punjabi, and related northern languages. Modern classification assigns these languages to several families, yet the same articulatory habit crosses those family boundaries.
 
+Chapter 8 calls this combined regional sound inventory the **subcontinental superset**. The retroflex band is one of its clearest components. Sanskrit selects its *mūrdhanya* sonances from that regional inventory and assigns each selected sound an anatomical address.
+
 The figure below marks the anatomy: the curled tongue, the *mūrdhanya* site, and the physical act behind the sound.
 
 ![Figure 17.1 — The *mūrdhanya* flex.](figures/adivadya/murdhanya_vocal_apparatus.svg){#fig:ch17-murdhanya-flex width=100%}

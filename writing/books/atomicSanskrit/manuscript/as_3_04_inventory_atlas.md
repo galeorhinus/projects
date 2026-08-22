@@ -6,6 +6,8 @@ Chapter 8 compares selected language groups by placing their consonant contrasts
 
 This appendix explains how the atlas was built and adds seven further surveys. The result is exploratory: coverage depends on the languages selected, the inventory source used for each language, and the decision about which reported sounds count as independent contrasts. The figures show an ordering in these samples and provide a method that can be repeated with other selections.
 
+Together, the body and appendix map the **subcontinental superset** introduced in Chapter 8. Each regional survey captures part of that larger inventory; no individual language contains the whole. Sanskrit's twenty-three base cells provide the comparison target, while additional regional consonants demonstrate that the superset is larger than Sanskrit's selected grid.
+
 ## 4.1 The Atlas Method in Depth
 
 The atlas asks one physical question: when a language treats a consonant as an independent contrast, where do that sound's articulatory coordinates place it on a shared mouth-map? The atlas records which of those positions each language keeps as independent grid addresses. It does not compare vocabulary, descent, prestige, script, age, or any of the pyramid's classificatory buckets.[NOTE: language-hotzones-inventory-method]

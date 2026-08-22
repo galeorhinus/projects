@@ -30,7 +30,9 @@ Languages across the Indian subcontinent use different scripts, vocabularies, an
 
 No single language uses every sound found across the region. The combined regional inventory is larger than the inventory of any one language.
 
-The epigraph says that human beings speak one quarter of Speech while three remain hidden. This chapter examines the sounds that human beings speak. When the consonants used by many languages across the Indian subcontinent are considered together, they establish a regional inventory larger than the inventory of any one language. Sanskrit's reusable grid identifies the sounds deliberately selected from that regional inventory.
+This book calls that combined regional inventory the **subcontinental superset**. It is not the inventory of any one language. It is the larger set of consonantal sounds preserved across the Indian subcontinent, from which Sanskrit's engineering selected its sonances.
+
+The epigraph says that human beings speak one quarter of Speech while three remain hidden. This chapter examines that spoken quarter through consonants. The surveys assemble the subcontinental superset from sounds preserved across several Indian languages and compare Sanskrit's selected consonants with it.
 
 ## 8.2 Sonances and Sonomers
 
@@ -214,4 +216,6 @@ The four results can be compared directly:
 | English + French + Greek | 16 / 23 | The European set covers six fewer cells than the southern Indian set. |
 | Tajik + Kazakh + Kyrgyz | 15 / 23 | The proposed Central Asian corridor provides the lowest coverage. |
 
-The proposed external corridor provides the weakest match. The two Indian comparisons provide the strongest. The consonantal evidence places the source material for the **वर्णमाला (*varṇamālā*)** inside the Indian subcontinent. Chapter 9 examines how Sanskrit's engineers arranged those selected sounds into a reusable grid. It begins with Ṛgveda 10.71.2, where the wise refine Speech as grain passes through a sieve and then form her with the mind.
+The proposed external corridor provides the weakest match. The two Indian comparisons provide the strongest. The consonantal evidence places the source material for the **वर्णमाला (*varṇamālā*)** inside the Indian subcontinent.
+
+The surveys establish the subcontinental superset from which Sanskrit selected its sonances. They do not yet explain why some sonances received reusable grid addresses while others remained Restricted or Lineage-Bounded. Chapter 9 turns to that engineering decision. It begins with Ṛgveda 10.71.2, where the wise refine Speech as grain passes through a sieve and then form her with the mind.
