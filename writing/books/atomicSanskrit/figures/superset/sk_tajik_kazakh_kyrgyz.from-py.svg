@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="4.5000in" height="6.5000in" viewBox="0 0 4.5000 6.5000">
   <rect x="0" y="0" width="4.5000" height="6.5000" fill="#f4f4f3" />
-  <text x="2.2500" y="0.3196" text-anchor="middle" dominant-baseline="middle" font-size="0.1514" font-weight="700" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Central Asian Survey: 12 of 23 Sanskrit Base Cells</text>
-  <text x="2.2500" y="0.5467" text-anchor="middle" dominant-baseline="middle" font-size="0.1110" font-style="italic" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Mahāprāṇa rows held aside · Unfilled: <tspan font-style="normal" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ट · च · ड · ज · ण · ञ · स · ष · श · ल · र</tspan></text>
+  <text x="2.2500" y="0.3196" text-anchor="middle" dominant-baseline="middle" font-size="0.1514" font-weight="700" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Central Asian Survey: 15 of 23 Sanskrit Base Cells</text>
+  <text x="2.2500" y="0.5467" text-anchor="middle" dominant-baseline="middle" font-size="0.1110" font-style="italic" fill="#2b2b2d" font-family="'Gentium Book Plus', Charter, 'Charis SIL', Georgia, serif">Mahāprāṇa rows held aside · Unfilled: <tspan font-style="normal" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ट · च · ड · ज · ण · ञ · ष · श</tspan></text>
   <rect x="1.1149" y="1.6513" width="0.2473" height="0.3435" rx="0.0353" fill="#e6e3db" stroke="none" />
   <rect x="1.1149" y="2.1011" width="0.2473" height="0.3435" rx="0.0353" fill="#e6e3db" stroke="none" />
   <rect x="1.1149" y="2.5509" width="0.2473" height="0.3435" rx="0.0353" fill="#e6e3db" stroke="none" />
   <rect x="1.1149" y="5.6996" width="0.2473" height="0.3435" rx="0.0353" fill="#e6e3db" stroke="none" />
   <rect x="1.7626" y="1.6513" width="0.2473" height="0.3435" rx="0.0353" fill="#e6e3db" stroke="none" />
   <rect x="1.7626" y="2.1011" width="0.2473" height="0.3435" rx="0.0353" fill="#e6e3db" stroke="none" />
-  <rect x="1.7626" y="3.9004" width="0.2473" height="0.3435" rx="0.0353" fill="#e6e3db" stroke="#9a9384" stroke-width="0.0077" />
   <rect x="1.7626" y="2.5509" width="0.2473" height="0.3435" rx="0.0353" fill="#e6e3db" stroke="none" />
-  <rect x="1.7626" y="4.8000" width="0.2473" height="0.3435" rx="0.0353" fill="#e6e3db" stroke="#9a9384" stroke-width="0.0077" />
+  <rect x="2.0864" y="3.9004" width="0.2473" height="0.3435" rx="0.0353" fill="#e6e3db" stroke="none" />
+  <rect x="2.0864" y="4.8000" width="0.2473" height="0.3435" rx="0.0353" fill="#e6e3db" stroke="none" />
+  <rect x="2.0864" y="5.2498" width="0.2473" height="0.3435" rx="0.0353" fill="#e6e3db" stroke="none" />
   <rect x="2.7341" y="1.6513" width="0.2473" height="0.3435" rx="0.0353" fill="#e6e3db" stroke="#9a9384" stroke-width="0.0077" />
   <rect x="2.7341" y="2.1011" width="0.2473" height="0.3435" rx="0.0353" fill="#e6e3db" stroke="#9a9384" stroke-width="0.0077" />
   <rect x="2.7341" y="3.9004" width="0.2473" height="0.3435" rx="0.0353" fill="#e6e3db" stroke="#9a9384" stroke-width="0.0077" />
   <rect x="2.7341" y="2.5509" width="0.2473" height="0.3435" rx="0.0353" fill="#e6e3db" stroke="#9a9384" stroke-width="0.0077" />
-  <rect x="2.7341" y="5.2498" width="0.2473" height="0.3435" rx="0.0353" fill="#e6e3db" stroke="#9a9384" stroke-width="0.0077" />
   <rect x="3.0579" y="1.6513" width="0.2473" height="0.3435" rx="0.0353" fill="#e6e3db" stroke="#9a9384" stroke-width="0.0077" />
   <rect x="3.0579" y="2.1011" width="0.2473" height="0.3435" rx="0.0353" fill="#e6e3db" stroke="#9a9384" stroke-width="0.0077" />
   <rect x="3.0579" y="3.9004" width="0.2473" height="0.3435" rx="0.0353" fill="#e6e3db" stroke="#9a9384" stroke-width="0.0077" />
@@ -184,14 +184,14 @@
   <text x="1.1797" y="5.7896" text-anchor="middle" dominant-baseline="middle" font-size="0.1319" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">व</text>
   <text x="1.8273" y="1.7413" text-anchor="middle" dominant-baseline="middle" font-size="0.1319" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">त</text>
   <text x="1.8273" y="2.1911" text-anchor="middle" dominant-baseline="middle" font-size="0.1319" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">द</text>
-  <text x="1.8273" y="3.9903" text-anchor="middle" dominant-baseline="middle" font-size="0.1319" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">स</text>
   <text x="1.8273" y="2.6409" text-anchor="middle" dominant-baseline="middle" font-size="0.1319" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">न</text>
-  <text x="1.8273" y="4.8899" text-anchor="middle" dominant-baseline="middle" font-size="0.1319" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ल</text>
+  <text x="2.1512" y="3.9903" text-anchor="middle" dominant-baseline="middle" font-size="0.1319" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">स</text>
+  <text x="2.1512" y="4.8899" text-anchor="middle" dominant-baseline="middle" font-size="0.1319" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ल</text>
+  <text x="2.1512" y="5.3398" text-anchor="middle" dominant-baseline="middle" font-size="0.1319" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">र</text>
   <text x="2.7988" y="1.7413" text-anchor="middle" dominant-baseline="middle" font-size="0.1319" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ट</text>
   <text x="2.7988" y="2.1911" text-anchor="middle" dominant-baseline="middle" font-size="0.1319" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ड</text>
   <text x="2.7988" y="3.9903" text-anchor="middle" dominant-baseline="middle" font-size="0.1319" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ष</text>
   <text x="2.7988" y="2.6409" text-anchor="middle" dominant-baseline="middle" font-size="0.1319" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ण</text>
-  <text x="2.7988" y="5.3398" text-anchor="middle" dominant-baseline="middle" font-size="0.1319" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">र</text>
   <text x="3.1227" y="1.7413" text-anchor="middle" dominant-baseline="middle" font-size="0.1319" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">च</text>
   <text x="3.1227" y="2.1911" text-anchor="middle" dominant-baseline="middle" font-size="0.1319" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">ज</text>
   <text x="3.1227" y="3.9903" text-anchor="middle" dominant-baseline="middle" font-size="0.1319" fill="#2b2b2d" font-family="'Adobe Devanagari', 'Noto Sans Devanagari', 'Mangal', 'Kohinoor Devanagari', serif">श</text>

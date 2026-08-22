@@ -1,4 +1,4 @@
-# Figure 8.7 — Mahāprāṇa as Vertical Expansion
+# Figure 8.6 — Mahāprāṇa as Vertical Expansion
 
 **Where it lives:** Chapter 8 §8.7 ("Breath Above the Base"), the chapter's
 closing engineering reveal. §8.4 runs the southern, forest-belt,
@@ -156,7 +156,7 @@ without adding new horizontal coordinates.*
    would visually imply they were added on top of a complete base,
    which is exactly the wrong story.
 3. **Do not style the mahāprāṇa cells as "held aside" or "faded".**
-   Figure 8.1 does that move (held aside for the survey). Figure 8.7
+   Figure 8.1 does that move (held aside for the survey). Figure 8.6
    is the *restoration* — mahāprāṇa returns as the second engineering
    layer, fully present and architecturally integrated.
 4. **Do not vary the column heads between panels.** The "no new mouth

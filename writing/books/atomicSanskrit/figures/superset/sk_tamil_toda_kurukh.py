@@ -4,8 +4,8 @@
 Quad-overlay matrix.  Sanskrit (with the mahāprāṇa rows held aside)
 sits as the tinted base shell with its Devanāgarī letters; Tamil,
 Toda, and Kurukh overlay the other three corners.  The figure
-self-titles "Southern Survey: 20 of 23 Sanskrit Base Cells" with
-the unfilled letters (ल · स · श) named in the subtitle.
+self-titles "Southern Survey: 22 of 23 Sanskrit Base Cells" with
+the remaining unfilled letter (श) named in the subtitle.
 
 Shared renderer:  _shared/toolkits/vocal_tract/quad_overlay.py
 """

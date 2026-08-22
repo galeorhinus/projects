@@ -75,7 +75,7 @@ Modern speech science extends Sanskrit's anatomical analysis across the sounds o
 
 ## 9.3 Every Sound Has an Address
 
-Chapter 8 first located the sounds in broad mouth-zones. Tamil, Toda, and Kurukh together cover 20 of the 23 Sanskrit base cells. Korku, Mundari, and Ho cover 18 of 23.[NOTE: inventory-atlas-coverage-surveys] The remaining gaps are mostly near-neighbors: laterals, sibilants, and precise placements inside active mouth-zones.
+Chapter 8 first located the sounds in broad mouth-zones. Tamil, Toda, and Kurukh together cover 22 of the 23 Sanskrit base cells. Korku, Mundari, and Ho cover 20 of 23.[NOTE: inventory-atlas-coverage-surveys] The remaining gaps lie among retroflex nasals and sibilants inside mouth-zones those languages already use.
 
 The mouth can make contact at many points along a continuous vocal tract. Sanskrit does not retain every possible point as an independent sound. It selects particular combinations of place and effort.
 

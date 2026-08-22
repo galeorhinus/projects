@@ -47,7 +47,7 @@ PA, RET, PAL, VEL, UV, PHA, GLO) × 13 manner rows.
 The figures live at `figures/superset/sk_<l2>_<l3>_<l4>.svg`. Sanskrit
 is always the constant "tl" (top-left) language; the other three are
 named in filename order.  Deployment is split between **Ch 8 body**
-(the four load-bearing comparisons) and **Appendix Part 3** (the
+(the four load-bearing comparisons) and **Appendix Part 4** (the
 controls, alternates, and sound/script depth material).
 
 ### 2A. Ch 8 body figures (4)
@@ -58,25 +58,25 @@ Santali-free Munda baseline → familiar Western-IE control →
 
 | Figure (filename) | Set name | Covered | Unfilled |
 |---|---|---:|---|
-| `sk_tamil_toda_kurukh` | Southern Survey | **20 / 23** | ल · स · श |
-| `sk_korku_mundari_ho` | Forest-Belt Survey | 18 / 23 | ण · स · ष · श · ल |
-| `sk_english_french_greek` | Western IE Survey | 14 / 23 | ट · च · ड · ज · ण · स · ष · श · र |
-| `sk_tajik_kazakh_kyrgyz` | Central Asian Survey | 12 / 23 | ट · च · ड · ज · ण · ञ · स · ष · श · ल · र |
+| `sk_tamil_toda_kurukh` | Southern Survey | **22 / 23** | श |
+| `sk_korku_mundari_ho` | Forest-Belt Survey | 20 / 23 | ण · ष · श |
+| `sk_english_french_greek` | Western IE Survey | 16 / 23 | ट · च · ड · ज · ण · ष · श |
+| `sk_tajik_kazakh_kyrgyz` | Central Asian Survey | 15 / 23 | ट · च · ड · ज · ण · ञ · ष · श |
 
-### 2B. Appendix Part 3 figures (7)
+### 2B. Appendix Part 4 figures (7)
 
 The control set + alternate framings that don't fit the four-step
 body ladder.
 
 | Figure (filename) | Set name | Covered | Unfilled | Why appendix |
 |---|---|---:|---|---|
-| `sk_korku_mundari_santali` | Munda Survey | 18 / 23 | ण · स · ष · श · ल | Santali-inclusive control — shows contact-depth doesn't change the count; body uses Santali-free Forest-Belt to foreclose the obvious orthodox objection |
-| `sk_korku_mundari_burushaski` | Mixed Control | 18 / 23 | ण · स · श · ल · र | Santali-free + Burushaski-isolate control; Burushaski complicates the body argument |
-| `sk_sora_khasi_nicobarese` | Dispersed Survey | 15 / 23 | ट · ड · ण · स · ष · श · ल · र | Three orthodoxy-"Austro-Asiatic" languages across three remote geographies — same family label, different sound-shape |
-| `sk_pashto_nuristani_burushaski` | NW Frontier Survey | **20 / 23** | ल · स · श | Same ceiling as Southern; explains why frontier languages look more Sanskrit-like (retroflex contact) |
-| `sk_farsi_kurdish_talysh` | Iranian Survey | 13 / 23 | ट · च · ड · ज · ण · ञ · स · ष · श · र | Non-contact-zone Iranian control; the contact-vs-non-contact axis (vs. Pashto / Balochi) lives here |
-| `sk_armenian_georgian_ossetian` | Caucasus Survey | **10 / 23** | ट · च · ड · ज · ण · ञ · ङ · स · ष · श · ल · र · व | Caucasus floor — three families, three classifications, all 10/23; too technical for the body |
-| `sk_russian_ukrainian_ossetian` | Slavic & Caucasus IE Survey | 11 / 23 | ट · च · ड · ज · ण · ञ · ङ · स · ष · श · ल · र | Steppe / IE-as-classification deflation; appendix companion to Central Asian Survey |
+| `sk_korku_mundari_santali` | Munda Survey | 20 / 23 | ण · ष · श | Santali-inclusive control — shows contact-depth doesn't change the count; body uses Santali-free Forest-Belt to foreclose the obvious orthodox objection |
+| `sk_korku_mundari_burushaski` | Mixed Control | 21 / 23 | ण · श | Santali-free + Burushaski-isolate control; Burushaski complicates the body argument |
+| `sk_sora_khasi_nicobarese` | Dispersed Survey | 18 / 23 | ट · ड · ण · ष · श | Three orthodoxy-"Austro-Asiatic" languages across three remote geographies — same family label, different sound-shape |
+| `sk_pashto_nuristani_burushaski` | NW Frontier Survey | **22 / 23** | श | Same ceiling as Southern; explains why frontier languages look more Sanskrit-like (retroflex contact) |
+| `sk_farsi_kurdish_talysh` | Iranian Survey | 15 / 23 | ट · च · ड · ज · ण · ञ · ष · श | Non-contact-zone Iranian control; the contact-vs-non-contact axis (vs. Pashto / Balochi) lives here |
+| `sk_armenian_georgian_ossetian` | Caucasus Survey | **13 / 23** | ट · च · ड · ज · ण · ञ · ङ · ष · श · व | Caucasus floor — three families, three classifications; too technical for the body |
+| `sk_russian_ukrainian_ossetian` | Slavic & Caucasus IE Survey | 14 / 23 | ट · च · ड · ज · ण · ञ · ङ · ष · श | Steppe / IE-as-classification deflation; appendix companion to Central Asian Survey |
 
 ---
 
@@ -84,14 +84,14 @@ body ladder.
 
 ### 3.1 Subcontinental geography predicts coverage
 
-The two 20/23 ceilings come from sets at **opposite geographic poles of
+The two 22/23 ceilings come from sets at **opposite geographic poles of
 the subcontinent**:
 
 - Southern (Tamil + Toda + Kurukh) — the deep south.
 - Northwest Frontier (Pashto + Nuristani + Burushaski) — the
   Hindu-Kush / Pamir contact zone.
 
-Both miss exactly the same three cells: **ल · स · श**. Pashto +
+Both miss exactly the same cell: **श**. Pashto +
 Nuristani + Burushaski all carry the retroflex column (ʈ ɖ ɳ ɽ — Pashto
 adds ʂ ʐ ɭ on top), which is the structural feature that lets them
 match southern coverage. Two utterly different language families
@@ -104,30 +104,29 @@ sound-field reaches both ends**.
 The orthodoxy classifies as *Indo-European*: Sanskrit, Pashto,
 Nuristani, Iranian (Farsi / Kurdish / Talysh / Balochi), Slavic
 (Russian / Ukrainian), Ossetian, Armenian, English, French, Greek.
-Inside that family, the coverage spread is **20 → 11**:
+Inside that family, the coverage spread is **22 → 14**:
 
 | IE-classified set | Coverage |
 |---|---:|
-| Pashto + Nuristani + Burushaski* | 20 / 23 |
-| Farsi + Kurdish + Talysh | 13 / 23 |
-| English + French + Greek | 14 / 23 |
-| Russian + Ukrainian + Ossetian | 11 / 23 |
+| Pashto + Nuristani + Burushaski* | 22 / 23 |
+| Farsi + Kurdish + Talysh | 15 / 23 |
+| English + French + Greek | 16 / 23 |
+| Russian + Ukrainian + Ossetian | 14 / 23 |
 
 *Burushaski is not IE; it's an isolate. Even the all-IE Iranian-only
 Pashto + Nuristani + (substituted) set would still cover >18.
 
 The supposed *Iranian-as-Sanskrit's-sister-branch* relationship
-delivers only **13/23** — exactly tied with the random external
-English + Arabic + Farsi mix and worse than every subcontinental set.
-The supposed *Greek-as-PIE-founder* relationship delivers 14/23 from
+delivers only **15/23** and remains below every subcontinental set.
+The supposed *Greek-as-PIE-founder* relationship delivers 16/23 from
 a Western European set. The *Slavic-IE* sister relationship delivers
-11/23.
+14/23.
 
 **Iranian-with-subcontinental-contact vs Iranian-without** is the key
 axis. Swapping Balochi (NW frontier, has retroflex) for Talysh
 (Caspian littoral, no retroflex) in the Iranian Survey moves coverage
-from 16/23 to 13/23 — the exact 3-cell drop is the retroflex column
-(ट, ड, र) that Balochi acquired from the north-western subcontinental
+from 17/23 to 15/23 — the exact 2-cell drop is the retroflex pair
+(ट, ड) that Balochi acquired from the north-western subcontinental
 contact zone and that Caspian-littoral Iranian doesn't carry. The
 Iranian *classification* predicts nothing; what predicts coverage is
 whether the language sat inside the subcontinental contact zone.
@@ -137,7 +136,7 @@ whether the language sat inside the subcontinental contact zone.
 **Family-tree distance from Sanskrit does not move the metric.
 Geographic distance does.**
 
-### 3.3 Caucasus mixed at 10/23 is the floor
+### 3.3 Caucasus mixed at 13/23 is the floor
 
 Three Caucasus-region languages from three different orthodox
 classifications (Armenian IE + Georgian Kartvelian + Ossetian Iranian)
@@ -148,39 +147,37 @@ inside one geographic region cratter together.
 ### 3.4 The coverage cascade
 
 ```
-20 — subcontinental (southern OR NW frontier)
-18 — North Munda (any three-language combination)
-15 — dispersed Austroasiatic (Sora + Khasi + Nicobarese)
-14 — Western IE (English + French + Greek)        ← body
-13 — Iranian without contact (Farsi + Kurdish + Talysh)
-12 — Central Asian (Tajik + Kazakh + Kyrgyz)      ← body
-11 — Slavic + Caucasus IE (Russian + Ukrainian + Ossetian)
-10 — Caucasus mixed (Armenian + Georgian + Ossetian)
+22 — southern subcontinent or NW frontier
+21 — mixed forest-belt + Burushaski control
+20 — North Munda
+18 — dispersed Austroasiatic (Sora + Khasi + Nicobarese)
+16 — Western IE (English + French + Greek)        ← body
+15 — Iranian without contact or Central Asian    ← body
+14 — Slavic + Caucasus IE (Russian + Ukrainian + Ossetian)
+13 — Caucasus mixed (Armenian + Georgian + Ossetian)
 ```
 
 Geography is the variable that moves the number. Orthodoxy family
 labels are noise on top of geography.
 
-### 3.5 The three unfilled cells in the southern + NW frontier surveys (ल · स · श) are a place-coding artifact, not a sound-field gap
+### 3.5 The pronunciation-based map corrects the apparent ल and स gaps
 
-Sanskrit's *dantya / tālavya* line places ल · स · श at DEN / DEN / PAL
-respectively on the atlas. The southern languages all have laterals
-and sibilants — they just place them at ALV / ALV / PA. The cells
-are unfilled on **Sanskrit's** axis because Sanskrit chose a particular
-place coordinate, not because the field is missing the sound.
+Sanskrit's traditional grid classifies **ल** and **स** as *dantya* and
+**र** as *mūrdhanya*. The cross-language atlas has a different job. It
+compares sounds as pronounced. It therefore places Sanskrit **र** and
+**ल** with Tamil **ர** and **ல**, and Sanskrit **स** with the alveolar
+**s** used by Toda, Kurukh, and the forest-belt languages.
 
-This is the **second engineering layer** the Ch 8/9 plan flagged: not
-mahāprāṇa, but the deliberate place-coding decision that puts these
-three phonemes at slightly different coordinates from where the rest of
-the subcontinent places them. The unfilled cells are evidence of
-Sanskrit's snap-to-grid engineering, not evidence of subcontinental
-absence.
+Once that translation is made, the Southern and Northwest Frontier
+Surveys both cover 22 cells and leave only **श** unfilled. The internal
+Sanskrit map remains unchanged; the comparison map no longer turns a
+shared pronunciation into an artificial gap.
 
 ### 3.6 Santali's Indic-absorption doesn't change the count
 
 Forest-Belt (Korku + Mundari + Ho) and Munda Survey (Korku + Mundari +
-Santali) both land at 18/23 with the **same unfilled cells**: ण · स ·
-ष · श · ल. Santali is the most-Indic-influenced North Munda language;
+Santali) both land at 20/23 with the **same unfilled cells**: ण · ष ·
+श. Santali is the most-Indic-influenced North Munda language;
 removing it and replacing with Ho (less-influenced) doesn't change the
 number. The forest-belt's coverage is structural, not borrowed.
 
@@ -212,8 +209,8 @@ the same rendered size in every figure.
 | `sk_pashto_nuristani_burushaski.svg` | 10 | 10 | **4.50 × 6.50** | App 3 |
 | `sk_russian_ukrainian_ossetian.svg` | 10 | 10 | **4.50 × 6.50** | App 3 |
 | `sk_tajik_kazakh_kyrgyz.svg` | 10 | 10 | **4.50 × 6.50** | Body |
-| `sk_armenian_georgian_ossetian.svg` | 10 | 11 | **4.50 × 6.50** | App 3 |
-| `sk_farsi_kurdish_talysh.svg` | 11 | 10 | **4.50 × 6.50** | App 3 |
+| `sk_armenian_georgian_ossetian.svg` | 10 | 11 | **4.50 × 6.50** | App 4 |
+| `sk_farsi_kurdish_talysh.svg` | 11 | 10 | **4.50 × 6.50** | App 4 |
 | `sk_english_french_greek.svg` | 11 | 10 | **4.50 × 6.50** | Body |
 
 The 7 figures that hit 6.50″ height are running against the cap —
@@ -275,7 +272,7 @@ quoted in the manuscript:
    list the full ʈ / ɖ / ɳ / ʂ / ʐ / ɭ / ɽ set. A tighter / more
    conservative Pashto inventory (drop ɭ and/or ʐ) would lower Pashto's
    contribution to the Northwest Frontier Survey but is unlikely to
-   drop the 20/23 ceiling, since Nuristani and Burushaski also carry
+   drop the 22/23 ceiling, since Nuristani and Burushaski also carry
    retroflex elements.
 
 2. **Greek's lack of /h/** is editorial. Modern Greek genuinely doesn't
@@ -310,18 +307,18 @@ flags — see the previous handoff notes.
 
 Boxed for ready-reference when drafting Ch 8 prose:
 
-1. Pashto + Nuristani + Burushaski cover **20/23** of Sanskrit's base —
+1. Pashto + Nuristani + Burushaski cover **22/23** of Sanskrit's base —
    identical to Tamil + Toda + Kurukh.
 2. The orthodoxy's "Iranian-as-Sanskrit's-sister" delivers only
-   **13/23** when restricted to non-contact-zone Iranian (Farsi +
+   **15/23** when restricted to non-contact-zone Iranian (Farsi +
    Kurdish + Talysh) — the same coverage Sanskrit's actual
    subcontinental neighbours deliver only when stripped of
    subcontinental contact. English + French + Greek delivers
-   **14/23**; Slavic + Caucasus IE delivers **11/23**.
-3. Caucasus mixed delivers **10/23** — the lowest of the eleven
+   **16/23**; Slavic + Caucasus IE delivers **14/23**.
+3. Caucasus mixed delivers **13/23** — the lowest of the eleven
    surveys.
-4. The three unfilled cells in the 20/23 surveys (ल · स · श) are a
-   Sanskrit place-coding choice, not a subcontinental absence.
+4. The Southern and Northwest Frontier surveys leave only **श**
+   unfilled after identical pronunciations are placed together.
 5. Geographic distance from the subcontinent predicts coverage
    monotonically. Family-tree classification does not.
 

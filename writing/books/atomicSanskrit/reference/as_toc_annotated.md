@@ -132,10 +132,10 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 8.3 How We Map the Sounds — *The inventory-atlas method: harmonized articulatory coordinates,* mahāprāṇa-*strip preset, union-coverage survey.*
 - 8.4 Why the Survey Begins in the South — *Applies the pyramid's own categories and tests whether the sounds obey them.*
 - 8.5 The Regional Pattern — *Explains what changing modern inventories can still reveal about a persistent regional pattern.*
-- 8.6 The Southern Survey: 20 of 23 — *Tamil, Toda, and Kurukh light twenty of the twenty-three Sanskrit base cells.*
-- 8.7 The Forest-Belt Survey: 18 of 23 — *Korku, Mundari, and Ho light eighteen of the twenty-three.*
+- 8.6 The Southern Survey: 22 of 23 — *Tamil, Toda, and Kurukh light twenty-two of the twenty-three Sanskrit base cells.*
+- 8.7 The Forest-Belt Survey: 20 of 23 — *Korku, Mundari, and Ho light twenty of the twenty-three.*
 - 8.8 External Controls — *Western IE and Central Asian controls show much lower coverage.*
-- 8.9 The Gaps Are Neighbors — *The missing cells are nearby mouth-neighbors, not structural absences.*
+- 8.9 The Remaining Gaps — *The unmatched cells lie within nasal, retroflex, and sibilant regions the Indian comparison languages already use.*
 - 8.10 The Retroflex Band — *The retroflex row as a subcontinental signature; points forward to Chapter 17.*
 - 8.11 Breath Above the Base — *Mahāprāṇa *and* visarga *prepared as breath made structural.*
 - 8.12 What the Comparison Shows — *The region supplies the sounds; Chapter 9 shows the sieve and the grid.*
@@ -301,7 +301,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 
 - 3.1 Sonomer First, Audiograph Second · 3.2 The Interface Trap · 3.3 The "Brilliantly Adapted" Move · 3.4 What Aramaic Cannot Carry · 3.5 The Aramaic-from-Brāhmī Thesis · 3.6 Stone Preserves the Pyramid · 3.7 Audiography — The Name Withheld · 3.8 Three Design Cases: Sound, Script, Standard · 3.9 The Sonomer Travels East · 3.10 The Foundational Claim on Writing · 3.11 The Work Ahead
 
-**Appendix Part 4 — The Consonant Inventory Atlas and Control Surveys** *(drafted)* — *Evidence supplement to Chapter 8: the full atlas method and seven control surveys (Munda 18/23, Mixed 18/23, dispersed 15/23, Northwest Frontier 20/23, non-contact Iranian 13/23, Caucasus 10/23, Slavic & Caucasus IE 11/23). The §4.9 sequence shows coverage falling with geographic distance while the family-tree classifications obscure the regional pattern.*
+**Appendix Part 4 — The Consonant Inventory Atlas and Control Surveys** *(drafted)* — *Evidence supplement to Chapter 8: the full atlas method and seven control surveys (Munda 20/23, Mixed 21/23, dispersed 18/23, Northwest Frontier 22/23, non-contact Iranian 15/23, Caucasus 13/23, Slavic & Caucasus IE 14/23). The §4.9 sequence shows coverage falling with geographic distance while the family-tree classifications obscure the regional pattern.*
 
 - 4.1 The Atlas Method in Depth · 4.2–4.8 the seven control surveys · 4.9 The Coverage Cascade
 

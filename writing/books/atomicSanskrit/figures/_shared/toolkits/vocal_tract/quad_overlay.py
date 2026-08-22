@@ -53,6 +53,17 @@ from _shared.toolkits.vocal_tract.overlay import (
 from _shared.toolkits.vocal_tract import CONFIGS_DIR
 
 
+# Sanskrit's own grid groups sounds through its traditional sthana system.
+# The cross-language atlas instead compares their actual pronunciation on a
+# modern place x manner matrix. In that comparison, ra, la, and sa occupy the
+# alveolar column used by their Tamil, Toda, and Kurukh counterparts.
+SANSKRIT_COMPARISON_PLACE = {
+    "र": 4,
+    "ल": 4,
+    "स": 4,
+}
+
+
 # ---------------------------------------------------------------------------
 # Spec
 # ---------------------------------------------------------------------------
@@ -234,6 +245,19 @@ def _load_language_data(spec: QuadOverlaySpec):
     for slug, label, role in spec.languages:
         cfg = json.loads((CONFIGS_DIR / f"scatter_{slug}.json").read_text())
         cells, symbols, unc = harmonize(cfg["scatter"]["matrix"])
+        if slug == "sanskrit":
+            comparison_symbols: dict[tuple[int, int], str] = {}
+            for (place, manner), symbol in symbols.items():
+                target_place = SANSKRIT_COMPARISON_PLACE.get(symbol, place)
+                target = (target_place, manner)
+                if target in comparison_symbols:
+                    raise ValueError(
+                        f"Cannot move Sanskrit {symbol}: comparison cell "
+                        f"already contains {comparison_symbols[target]}"
+                    )
+                comparison_symbols[target] = symbol
+            symbols = comparison_symbols
+            cells = set(symbols)
         if unc:
             print(f"  warn: unclassified symbols in {slug}: {unc[:5]}")
         cells = strip_cells(cells, spec.strip_presets)

@@ -109,10 +109,10 @@
 - 8.3 How We Map the Sounds
 - 8.4 Why the Survey Begins in the South
 - 8.5 The Regional Pattern
-- 8.6 The Southern Survey: 20 of 23
-- 8.7 The Forest-Belt Survey: 18 of 23
+- 8.6 The Southern Survey: 22 of 23
+- 8.7 The Forest-Belt Survey: 20 of 23
 - 8.8 External Controls
-- 8.9 The Gaps Are Neighbors
+- 8.9 The Remaining Gaps
 - 8.10 The Retroflex Band
 - 8.11 Breath Above the Base
 - 8.12 What the Comparison Shows
@@ -315,13 +315,13 @@
   - 3.11 The Work Ahead
 - **Appendix Part 4 — The Consonant Inventory Atlas and Control Surveys**
   - 4.1 The Atlas Method in Depth
-  - 4.2 Santali-Inclusive Munda Control: 18 of 23
-  - 4.3 Santali-Free Mixed Control: 18 of 23
-  - 4.4 Dispersed *"Austro-Asiatic"* Survey: 15 of 23
-  - 4.5 Northwest Frontier Survey: 20 of 23
-  - 4.6 Iranian Survey: 13 of 23 (Non-Contact Zone)
-  - 4.7 Caucasus Survey: 10 of 23
-  - 4.8 Slavic & Caucasus IE Survey: 11 of 23
+  - 4.2 Santali-Inclusive Munda Control: 20 of 23
+  - 4.3 Santali-Free Mixed Control: 21 of 23
+  - 4.4 Dispersed *"Austro-Asiatic"* Survey: 18 of 23
+  - 4.5 Northwest Frontier Survey: 22 of 23
+  - 4.6 Iranian Survey: 15 of 23 (Non-Contact Zone)
+  - 4.7 Caucasus Survey: 13 of 23
+  - 4.8 Slavic & Caucasus IE Survey: 14 of 23
   - 4.9 The Coverage Cascade
 - **Appendix Part 5 — The Language Factory**
   - 5.1 Yenpro and the Mean Baker
