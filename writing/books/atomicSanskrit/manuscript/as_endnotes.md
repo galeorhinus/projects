@@ -4022,6 +4022,26 @@ Standard references: A. R. Yegorova, *The Sindhi Language* (Nauka, Moscow, 1971,
 
 ---
 
+### `tamil-zha-retroflex-approximant`
+
+**Short:** Tamil's **ழ** (*ḻ*) is a retroflex central approximant, distinct from both the retroflex lateral **ள** (*ḷ*) and the alveolar trill **ற** (*ṟ*). Sanskrit's architecture does not select it, so it is not a sonance and holds no place in the *varṇamālā*. Malayalam preserves the cognate **ഴ**; the word *tamiḻ* ends in the sound.
+
+**Deployments:** Chapter 9 §9.11 — the citation anchor for Tamil's retroflex central approximant ழ, listed among the articulations the subcontinental mouth produces that Sanskrit's grid does not select.
+
+Tamil distinguishes three liquid sounds in the retroflex and alveolar region where Sanskrit's *varṇamālā* provides fewer addresses:
+
+- **ள** (*ḷ*) — retroflex lateral approximant. Sanskrit's Ṛgvedic **ळ** occupies the corresponding position, though as a Lineage-Bounded sonance rather than a freely selectable sonomer.
+- **ழ** (*ḻ*) — retroflex central approximant, IPA [ɻ]. The tongue-tip curls toward the hard palate without making the lateral contact of **ள** and without the trilled contact of **ற**. Sanskrit selects nothing at this coordinate.
+- **ற** (*ṟ*) — alveolar trill, treated in the companion entry `tamil-alveolar-trill` together with the alveolar nasal **ன** (*ṉ*).
+
+The three-way contrast is phonemic: Tamil speakers distinguish words by it, and Tamil orthography preserves separate characters for each.
+
+**ழ** is the sound that closes the language's own name, தமிழ் (*tamiḻ*). Malayalam preserves the cognate **ഴ**. The sound is characteristic of the Tamil–Malayalam region and is frequently identified as one of its distinguishing articulations.
+
+The entry matters to Chapter 8's coverage surveys, which run in one direction: they count how many of Sanskrit's 23 base cells the comparison languages fill. The southern survey records Tamil, Toda, and Kurukh together filling twenty-two, leaving **श** unfilled. **ழ** runs the other way — a Tamil phoneme with no Sanskrit counterpart. Neither fact weakens the other. Chapter 8 establishes that the subcontinental superset is the inventory Sanskrit selected its sonances *from*, and §9.11 explains why selection leaves articulations outside the grid: every additional independent consonant would multiply through the vowel row and create obligations across recitation, combination, and transmission.
+
+---
+
 ### `tamil-alveolar-trill`
 
 **Short:** Tamil includes a distinctive alveolar trill ***ற*** (*ṟa*) and alveolar nasal ***ன*** (*ṉa*) at the alveolar ridge, a third recurring contact region between the dental and retroflex stations used by the *varṇamālā*. Tamil's inventory demonstrates that the subcontinental mouth produces distinctions beyond Sanskrit's selected five-station grid.

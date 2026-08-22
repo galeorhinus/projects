@@ -20,7 +20,7 @@
 
 ## 9.1 The Garland Becomes a Grid
 
-The previous chapter surveyed the sounds produced across the Indian subcontinent. It mapped mouth-zones, the retroflex band, contact sounds, nasals, sibilants, and variations in breath. Sanskrit selects from those possibilities and builds an **inventory**. Every selected sonomer becomes a stable sound-unit with an address, a role in grammar, and a method of preservation.
+Chapter 8 established the subcontinental superset. This chapter follows the Vedic sieve: how Sanskrit selects sounds from that larger inventory as sonances, then promotes reusable sonances to sonomers and assigns each one a grid address.
 
 The chapter's epigraph provides the image that guides this section. It compares the formation of Speech to cleaning grain through a sieve. The wise begin with the sounds the mouth can produce. They refine those sounds with the mind and select the sound-particles that Speech can use reliably. The verb **अक्रत (*akrata*)** states what they did: they *formed* **वाक् (*Vāk*)**, Speech. It is a finite plural verb generated from the dhātu ⟪कृ⟫ (*kṛ*). The *varṇamālā* arranges the selected sonomers in an ordered grid.
 
@@ -389,7 +389,7 @@ Sanskrit therefore engineers the grid through both selection and exclusion.
 
 ## 9.11 Why Sanskrit Leaves a Margin
 
-The human mouth can produce many sounds beyond the Sanskrit sonomer grid. Tamil uses an alveolar contact between the dental and retroflex places of articulation. Sindhi uses implosives. Korku, Mundari, and Ho preserve checked or glottalized articulations in parts of their sound-systems. Contact has also brought labiodental **[f]** into many modern Indian vocabularies. Languages elsewhere use still more possibilities, including clicks and sounds produced deeper in the throat.[NOTE: tamil-alveolar-trill][NOTE: sindhi-implosives-inventory][NOTE: ho-mundari-checked-consonants][NOTE: urdu-persian-arabic-loan-phonemes]
+The human mouth can produce many sounds beyond the Sanskrit sonomer grid. Tamil uses an alveolar contact between the dental and retroflex places of articulation, and the retroflex central approximant **ழ் (*ḻ*)**. Sindhi uses implosives. Korku, Mundari, and Ho preserve checked or glottalized articulations in parts of their sound-systems. Contact has also brought labiodental **[f]** into many modern Indian vocabularies. Languages elsewhere use still more possibilities, including clicks and sounds produced deeper in the throat.[NOTE: tamil-alveolar-trill][NOTE: tamil-zha-retroflex-approximant][NOTE: sindhi-implosives-inventory][NOTE: ho-mundari-checked-consonants][NOTE: urdu-persian-arabic-loan-phonemes]
 
 Every additional independent consonant would combine with the vowel row and create another series of *akṣaras*. Speakers would have to distinguish that entire series in recitation, use it consistently in new combinations, and preserve it across transmission. Adding one grid address therefore creates obligations throughout the architecture.
 
