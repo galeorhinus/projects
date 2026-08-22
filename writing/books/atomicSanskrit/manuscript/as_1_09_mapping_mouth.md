@@ -118,6 +118,10 @@ The matrix therefore records instructions for the body. A student does not have 
 
 A compact set of anatomical controls therefore generates twenty-five distinct and repeatable sonomers.
 
+Those five places also sit far enough apart to stay distinct in the ear. Measured backward from the lips, their anatomical coordinates fall at roughly 0, 3, 7, 9, and 12 centimeters along an adult vocal tract. No two adjacent places are closer than about two centimeters.[NOTE: varnamala-grid-geometry] The tract above the vocal cords works as a filter. Its shape at the moment of contact determines which frequencies the released sound emphasizes. Shifting the contact point reshapes that filter. The distance between the five places therefore contributes directly to the difference the listener hears. Opening the nasal passage adds an acoustic signature that the four oral settings do not produce.[NOTE: formants-source-filter-theory]
+
+Contemporary instruments can image the vocal tract and record the resulting frequencies. They find the five selected places already separated and the nasal row already distinct from the four oral rows. The instruments do not explain how the architecture was created. They confirm the acoustic separation already built into it.[NOTE: architecture-not-analysis-pratisakhya]
+
 ## 9.5 Breath as an Axis
 
 Of these physical controls, breath deserves separate attention. Chapter 8 temporarily set aside the ten *mahāprāṇa* stops so that it could compare the regional base inventory first. They now return as the heavy-breath half of the contact grid.

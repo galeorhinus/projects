@@ -3186,21 +3186,21 @@ Standard references for the cognate chain: Manfred Mayrhofer, *Etymologisches W�
 
 ### `varnamala-grid-geometry`
 
-**Short:** The five *sparśa* places of the *varṇamālā* (वर्णमाला) sample the vocal tract at well-separated positions: labial (~0 cm from lip-line), dental (~3 cm), retroflex (~7 cm), palatal (~9 cm), velar (~12 cm); the minimum ~2 cm separation between adjacent positions produces acoustic-formant distinguishability — spatial engineering produces acoustic engineering, and the *mūrdhanya* (मूर्धन्य) base at ~7 cm sits structurally central. Reference figures: Ladefoged & Maddieson, *The Sounds of the World's Languages* (Blackwell, 1996); Stevens, *Acoustic Phonetics* (MIT Press, 1998).
+**Short:** The five *sparśa* places of the *varṇamālā* (वर्णमाला) sample the vocal tract at separated positions: labial (~0 cm from the lip-line), dental (~3 cm), retroflex (~7 cm), palatal (~9 cm), and velar (~12 cm). Moving the contact point changes the shape of the vocal tract and therefore changes the resulting sound. Reference figures: Ladefoged and Maddieson, *The Sounds of the World's Languages* (Blackwell, 1996); Stevens, *Acoustic Phonetics* (MIT Press, 1998).
 
 **Deployments:** Chapter 9 §9.4 ¶ — the citation anchor for the spatial-geometry analysis of the *sparśa* grid sampling positions.
 
 The five *sparśa* (stop-consonant) places of articulation in the *varṇamālā* sample five positions along the vocal tract, measured from the lips backward to the velar/uvular region. Standard reference figures from contemporary X-ray and MRI imaging of speech production (Ladefoged and Maddieson, *The Sounds of the World's Languages*, Blackwell, 1996; Stevens, *Acoustic Phonetics*, MIT Press, 1998):
 
-- **Labial (pavarga)** — approximately 0 cm from the lip-line. The lips are the most-forward contact-station.
-- **Dental (tavarga)** — approximately 3 cm posterior to the lips. The upper-teeth contact-region.
-- **Retroflex (ṭavarga)** — approximately 7 cm posterior to the lips. The rear of the hard palate / front of the soft palate contact-region, with the tongue tip curled back.
-- **Palatal (cavarga)** — approximately 9 cm posterior to the lips. The hard palate contact-region.
-- **Velar (kavarga)** — approximately 12 cm posterior to the lips. The soft palate / velum contact-region.
+- **Labial (pavarga)** — approximately 0 cm from the lip-line. The lips provide the first anatomical coordinate.
+- **Dental (tavarga)** — approximately 3 cm posterior to the lips, at the upper teeth.
+- **Retroflex (ṭavarga)** — approximately 7 cm posterior to the lips, with the tongue tip curled back toward the palate.
+- **Palatal (cavarga)** — approximately 9 cm posterior to the lips, at the hard palate.
+- **Velar (kavarga)** — approximately 12 cm posterior to the lips, at the soft palate or velum.
 
-The figures are approximate and vary across individual speakers, but the *relative spacing* between adjacent positions is the structural fact: ~3 cm (labial to dental), ~4 cm (dental to retroflex), ~2 cm (retroflex to palatal), ~3 cm (palatal to velar). The intervals are not strictly equidistant. The grid samples five well-separated positions across the front-to-back range, with adjacent-pair separation of at least ~2 cm.
+The figures are approximate averages across an adult vocal tract. The relative spacing between adjacent positions is the structural point: ~3 cm from labial to dental, ~4 cm from dental to retroflex, ~2 cm from retroflex to palatal, and ~3 cm from palatal to velar. The intervals are not strictly equidistant. The grid samples five separated positions across the front-to-back range.
 
-The structural significance here: the spatial spacing is *not arbitrary*. The minimum ~2 cm separation between adjacent contact-positions is what produces *acoustic distinguishability* in the formant-burst patterns. Sounds produced at positions closer than ~2 cm apart begin to produce confusable formant-burst signatures, which would compromise the *snap-to-grid* principle. The *varṇamālā* selects positions that are far enough apart in articulatory space to produce distinct acoustic outcomes — the spatial engineering produces the acoustic engineering.
+The spacing has a direct acoustic consequence. Each contact point creates a different cavity shape in front of and behind the closure. Those shapes affect the burst at release and the transition into the following vowel. Moving the contact point therefore changes the sound that reaches the listener. The *varṇamālā* selects five anatomical coordinates whose acoustic results remain distinct.
 
 The retroflex base at ~7 cm sits structurally central — the midpoint of the five-position sampling. This is consistent with the architectural centrality of the *mūrdhanya* set developed across Ch17 and the Chapter 18 §18.3 analysis (see endnote `retroflex-substrate-standard-account`).
 
@@ -3295,7 +3295,7 @@ Standard references: the *Prātiśākhya* texts in their standard editions (see 
 
 **Short:** Frits Staal develops the structural comparison between the *varga* matrix and Mendeleev's periodic table. Both place units within a multidimensional system: the *varga* uses articulatory axes for place, manner, voicing, and breath; chemistry uses atomic mass and valence-electron configuration. Both systems are combinatorial and predictive. Staal develops this comparison across *The Science of Ritual* (BORI, 1982), *Universals: Studies in Indian Logic and Linguistics* (University of Chicago Press, 1988), and *Discovering the Vedas* (Penguin India, 2008). The structural parallel remains valid; Staal's historical extension that the *varga* system, *like* the periodic table, was the product of *centuries of analysis* does not.
 
-**Deployments:** Chapter 9 §9.4 ¶ — the citation anchor for Frits Staal's *varga*-to-Mendeleev periodic-table structural comparison.
+**Deployments:** No current body deployment; reached as a source anchor cited from the `vyanjana-duration-shiksha` endnote. The Chapter 9 §9.4 passage this line previously recorded — the Staal *varga*-to-Mendeleev comparison — is no longer in the chapter.
 
 Frits Staal develops the comparison between the *varga* system and Mendeleev's periodic table across several works. The principal references:
 
@@ -3319,7 +3319,7 @@ Standard references: Frits Staal, *Universals: Studies in Indian Logic and Lingu
 
 **Short:** Mendeleev's periodic table was assembled by chemists working empirically across decades (Lavoisier → Dalton → mid-19c atomic-mass measurements → 1869 periodic-law formulation → predictive validation), with the historical record documented in journal articles, correspondence, and laboratory notebooks; the *varga* matrix has no such record — the *Prātiśākhya* literature presents it as already-operational vocabulary, without an empirical-analytical reconstruction or documented sequence of trial-and-error. ***Architecture, not analysis*** — the grid is engineered; the *Prātiśākhya* compilers documented it; the historical-analytical projection is an inference, not a documented claim.
 
-**Deployments:** Chapter 9 §9.4 ¶ (the close of the control-panel section, the critique of Staal's historical extension) — the citation anchor for the argument that the *Prātiśākhya* texts present the *varga* system as already-operational vocabulary rather than as the residue of an empirical-historical analytical project.
+**Deployments:** Chapter 9 §9.4 — the close of the control-panel section, where contemporary acoustic measurement confirms the separation between the five contact positions without accounting for how the architecture was created. The citation anchor for the argument that the *Prātiśākhya* texts present the *varga* system as already-operational vocabulary rather than as the residue of an empirical-historical analytical project. (The line previously recorded a critique of Staal's historical extension; that passage is no longer in Chapter 9.)
 
 Structural claim: Staal's comparison of the *varga* system to the periodic table is correct, but his historical extension (that the *varga* system, *like* the periodic table, was the product of *centuries of analysis*) is unsupported. The reasoning:
 
@@ -3451,9 +3451,9 @@ Standard references as enumerated above. The body of work is large and well-docu
 
 ### `formants-source-filter-theory`
 
-**Short:** The source-filter theory of speech production (Gunnar Fant, *Acoustic Theory of Speech Production*, Mouton 1960) models speech as a glottal source signal filtered by the vocal-tract cavity geometry, producing the characteristic formant peaks (***F1*** primarily tongue height, ***F2*** primarily tongue front-to-back position) that distinguish vowel qualities; the five *sthāna* positions of the *varṇamālā* sample the formant space at well-separated acoustic points just as they sample the vocal tract at well-separated cm-distances — spatial well-separation produces acoustic well-separation, and *anunāsika* (अनुनासिक) nasal-coupling adds spectral anti-resonances the four oral positions cannot produce.
+**Short:** Source-filter theory models the vocal tract as a filter whose changing shape changes the sound produced. For the five *sthāna* positions of the *varṇamālā*, moving the contact point changes the release burst and the transition into the following vowel. *Anunāsika* (अनुनासिक) nasal coupling adds resonances and anti-resonances that the four oral settings do not produce.
 
-**Deployments:** Chapter 7 §7.5 and Chapter 9 §9.1 — the citation anchor for the source-filter theory of speech production and the formant-based acoustic analysis of vowel and consonant production.
+**Deployments:** Chapter 9 §9.4 — the citation anchor for the source-filter explanation of how the five contact positions and nasal coupling produce distinct acoustic results.
 
 The *source-filter theory* of speech production, established in modern phonetics by Gunnar Fant in his 1960 *Acoustic Theory of Speech Production* (Mouton, The Hague), models the speech-production apparatus as two functionally distinct components:
 
@@ -3469,11 +3469,11 @@ The acoustic signature of any vowel is the pattern of its formants — the first
 
 The F1-F2 plane is the conventional 2D space in which vowel qualities are plotted. The *cardinal vowels* of the IPA (the standard reference vowels: *i, e, ɛ, a, ɑ, ɔ, o, u*) plot at characteristic positions in the F1-F2 plane that correspond to articulatory tongue positions.
 
-For consonants, the source-filter framework applies with additional parameters: the place of articulation determines the formant-burst pattern at consonant-vowel transitions; the manner of articulation determines the spectral and temporal characteristics of the consonant itself.
+For contact consonants, the source-filter framework applies to both the closure and its release. The place of articulation changes the cavities in front of and behind the closure. Those different shapes change the burst at release and the transition into the following vowel. The manner of articulation changes the duration, pressure, and spectral character of the consonant.
 
-The structural significance the chapter establishes: the five *sthāna* positions of the *varṇamālā* sample the formant space at well-separated acoustic points, just as they sample the vocal tract at well-separated cm-distances. Spatial well-separation produces acoustic well-separation. The five places of articulation are five distinguishable cavity geometries; the cavity geometries produce five distinguishable formant signatures; the listener's ear discriminates the formant signatures without effort because the engineering selected positions far enough apart in formant space that confusion is unlikely. The nasal coupling adds anti-resonances — spectral notches — that the four oral positions cannot produce, which is why *anunāsika* is a separate dimension. The *alpa-prāṇa* / *mahā-prāṇa* contrast is a pressure differential at the moment of release — the same physics as overblowing a wind instrument.
+The five *sthāna* positions therefore create five different cavity geometries. Each geometry emphasizes a different acoustic pattern, allowing the listener to distinguish where the sound was produced. Nasal coupling opens the nasal cavity and adds resonances and anti-resonances that the four oral settings cannot produce. This gives *anunāsika* its own acoustic dimension. The *alpa-prāṇa* / *mahā-prāṇa* contrast adds another distinction through the pressure and timing of the release.
 
-The *varṇamālā*'s phonological grid is engineered to fall at acoustically distinguishable positions in formant space. The engineering is consistent with what contemporary acoustic phonetics would design from first principles; the same engineering was already in place many generations ago.
+Contemporary acoustic instruments can record these differences, and imaging can show the corresponding changes inside the vocal tract. They confirm the acoustic separation already present in the *varṇamālā*. They do not explain how its architecture was created.
 
 Standard references: Gunnar Fant, *Acoustic Theory of Speech Production* (Mouton, 1960); Kenneth N. Stevens, *Acoustic Phonetics* (MIT Press, 1998), the central reference on formant theory and source-filter analysis; James L. Flanagan, *Speech Analysis, Synthesis, and Perception* (Springer, 2nd edition 1972); Ray D. Kent and Charles Read, *The Acoustic Analysis of Speech* (Singular Publishing, 2nd edition 2002). For the cardinal-vowel framework: Daniel Jones, *An Outline of English Phonetics* (Cambridge University Press, 9th edition 1960).
 
