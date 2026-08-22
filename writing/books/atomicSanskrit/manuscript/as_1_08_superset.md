@@ -70,7 +70,7 @@ Figure 8.1 presents the consonants through Sanskrit's own arrangement. Its five 
 
 The first four rows contain the **स्पर्श (*sparśa*)** sounds. Sanskrit separates them by breath and voice: **अल्पप्राण अघोष (*alpaprāṇa aghoṣa*)**, **महाप्राण अघोष (*mahāprāṇa aghoṣa*)**, **अल्पप्राण घोष (*alpaprāṇa ghoṣa*)**, and **महाप्राण घोष (*mahāprāṇa ghoṣa*)**. The remaining rows contain the five **अनुनासिक (*anunāsika*)** sounds, four **अन्तःस्थ (*antaḥstha*)** sounds, and four **ऊष्मन् (*ūṣman*)** sounds.
 
-The ten *mahāprāṇa* stops — ख छ ठ थ फ and घ झ ढ ध भ — remain in the figure as faded cells. Sanskrit uses them, but the four coverage surveys begin with the twenty-three darker cells: the ten light-breath stops, five nasals, four *antaḥstha* sounds, and four *ūṣman* sounds. Section 8.7 returns to the *mahāprāṇa* rows and explains how controlled breath expands the grid.
+The ten *mahāprāṇa* stops — ख छ ठ थ फ and घ झ ढ ध भ — remain in the figure as faded cells. Sanskrit uses them, but the four coverage surveys begin with the twenty-three darker cells: the ten light-breath stops, five nasals, four *antaḥstha* sounds, and four *ūṣman* sounds.[NOTE: south-indian-mahaprana-loan-only] Section 8.7 returns to the *mahāprāṇa* rows and explains how controlled breath expands the grid.
 
 ![Figure 8.1 — Sanskrit's consonantal arrangement through five *sthāna* columns and seven *prayatna* rows. The ten *mahāprāṇa* stops appear as faded cells because the coverage surveys begin with the 23-cell base.](figures/superset/sanskrit_base_before_mahaprana.svg){#fig:ch8-sanskrit-base-before-mahaprana width=100%}
 

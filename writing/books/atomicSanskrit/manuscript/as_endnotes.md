@@ -567,6 +567,8 @@ The credit for the asterisk-before-reconstructed-form convention is widely attri
 
 **Short:** Roman Jakobson, "Why 'Mama' and 'Papa'?" (1959 lecture, published 1960 in *Perspectives in Psychological Theory*) — argues *mama* / *papa* type kinship terms cluster cross-linguistically because of infant phonological universals, not genetic cognation; the deflection touches *mother* but has no purchase on *yoke* (not a kinship term, not phonologically universal), which is why the chapter pairs both worked examples.
 
+**Status:** Parked — intentionally undeployed; retained source material.
+
 **Deployments:** PARKED (not currently deployed). The 2026-07-06 rewrite retired the *mother* / *yoke* worked examples in favor of the *king* / *kin* / *genus* (*jan*) family; because *king / kin / genus* are abstract category words no infant babbles, the nursery-word deflection does not arise and no rebuttal paragraph is needed. Retained here in case a future *mother*-anchored passage reopens the deflection.
 
 Roman Jakobson, "Why 'Mama' and 'Papa'?" in Bernard Kaplan and Seymour Wapner (editors), *Perspectives in Psychological Theory: Essays in Honor of Heinz Werner* (New York: International Universities Press, 1960), pages 124–134. The paper was delivered as a 1959 lecture and is conventionally cited by the lecture date in linguistic literature; the published volume appeared in 1960. Both year-references appear in the secondary literature; the chapter's "1959" follows the lecture-date convention.
@@ -1711,6 +1713,8 @@ Malhotra leads the public and institutional battle over Sanskrit. The architectu
 
 **Short:** Rick Briggs, "Knowledge Representation in Sanskrit and Artificial Intelligence," *AI Magazine* 6, no. 1 (Spring 1985): 32–39 (AAAI; written at NASA Ames Research Center) — the first widely-circulated articulation in English-language scientific literature of the Pāṇinian *vyākaraṇa* (व्याकरण) as a working knowledge-representation system anticipating late-twentieth-century AI semantic-network and frame-based representations.
 
+**Status:** Parked — intentionally undeployed; retained source material.
+
 **Deployments:** Background endnote retained for Position-2 / Pāṇinian formal-system context. The Preface lineage rewrite no longer cites Briggs in the body.
 
 Rick Briggs, "Knowledge Representation in Sanskrit and Artificial Intelligence," *AI Magazine* 6, no. 1 (Spring 1985): 32–39. Published by the Association for the Advancement of Artificial Intelligence (AAAI), the paper was written while Briggs was a researcher at NASA's Ames Research Center and circulated widely in AI and knowledge-representation circles in the late 1980s.
@@ -1727,6 +1731,8 @@ The paper is available through the AAAI's *AI Magazine* archive (https://ojs.aaa
 
 **Short:** Subhash Kak — across *The Astronomical Code of the Ṛgveda* (Aditya Prakashan, 1994; revised 2000), *Computing Science in Ancient India* (with T. R. N. Rao, USL Press, 1998), *The Architecture of Knowledge* (CSC / Motilal Banarsidass, 2004), and journal papers in *Cryptologia* and *Annals of the History of Computing* — develops the *Aṣṭādhyāyī* (अष्टाध्यायी) as a context-sensitive generative grammar with embedded metarule (*paribhāṣā* परिभाषा) control, anticipating Chomskyan formal-grammar machinery in working form.
 
+**Status:** Parked — intentionally undeployed; retained source material.
+
 **Deployments:** Background endnote retained for the older Pāṇinian-algorithmic framing. The Preface lineage rewrite cites the broader `kak-vedic-structural-architecture` note instead.
 
 Subhash Kak has published from the 1980s through the present on Pāṇinian grammar, Indic mathematics, Vedic astronomy, and the algorithmic character of Indic intellectual systems. The principal book-length anchors: ***The Astronomical Code of the Ṛgveda*** (Aditya Prakashan, 1994; revised third edition Munshiram Manoharlal, 2000); ***Computing Science in Ancient India*** (co-edited with T. R. N. Rao; Centre for Advanced Computer Studies, University of Southwestern Louisiana, 1998; later Munshiram Manoharlal reprint); and ***The Architecture of Knowledge: Quantum Mechanics, Neuroscience, Computers and Consciousness*** (CSC / Motilal Banarsidass, 2004). The Pāṇini-as-algorithmic-system thread runs across these volumes and through a substantial body of journal papers in *Cryptologia*, *Annals of the History of Computing*, and self-archived essays. *The Wishing Tree* (iUniverse, 2008) extends the broader Indic-engineering account into accessible-essay form.
@@ -1740,6 +1746,8 @@ Kak's *Computing Science in Ancient India* (with T. R. N. Rao, USL Press, 1998),
 ### `staal-formal-systems`
 
 **Short:** J. Frits Staal (1930–2012) — across *Word Order in Sanskrit and Universal Grammar* (Reidel, 1967), *Agni: The Vedic Ritual of the Fire Altar* (Asian Humanities Press, 1983; documenting the 1975 Nambūdiri *Agnicayana* (अग्निचयन) performance), and especially *Rules Without Meaning: Ritual, Mantras and the Human Sciences* (Peter Lang, 1989) — argues that Sanskrit ritual and grammar function as formal systems with mathematical properties (recursion, embedding, transformations) independent of propositional content, continuously practiced across the *Nambūdiri* lineage-chain.
+
+**Status:** Parked — intentionally undeployed; retained source material.
 
 **Deployments:** Background endnote retained for Position-2 / formal-systems context. The Preface lineage rewrite no longer cites Staal in the body.
 
@@ -1890,7 +1898,7 @@ Sources: United Nations Department of Economic and Social Affairs, Population Di
 
 **Short:** Sanskrit's vocabulary is not best understood as a dictionary inventory. It is generated from a finite engine: 2,168 *dhātavaḥ*, 22 *upasargāḥ*, the unprefixed state, *lakāra* verb grids, person-number endings, verbal voices, nominal derivatives, and recursive *samāsa* compounds. A conservative schematic count already exceeds twenty million outputs before compounds, technical coinage, and poetic extension are counted.
 
-**Deployments:** Chapter 0 §0.6 ("A Language of Infinity") — the paragraph contrasting dictionary inventory with Sanskrit's generative word-engine; Chapter 12 §12.8 ("Usage Expands While Sanskrit Remains Invariant") — the assembly-scale synthesis of the same generative space.
+**Deployments:** Chapter 0 §0.6 ("A Language of Infinity") — the paragraph contrasting dictionary inventory with Sanskrit's generative word-engine; Chapter 12 §§12.7–12.8 — the assembly-scale synthesis of the same generative space.
 
 The comparison is between dictionary inventory and generative output-space, not between two identical counting methods. English is useful as the familiar dictionary-language contrast. Oxford Languages describes the *Oxford English Dictionary* as documenting more than 600,000 words across English history; the often-cited OED2 current-use headword count is about 171,476. Either number is an inventory count: words admitted into a dictionary after historical usage.
 
@@ -3913,6 +3921,8 @@ Standard references: Max Müller, *Rig-Veda-Saṃhitā* (Oxford, 1849–1874, si
 
 **Short:** Vinayak Damodar Savarkar (1883–1966), during his internment at Ratnagiri (1924–1937) under British colonial restriction, delivered public speeches at the Patit Pavan Mandir (foundation laid 10 March 1929; *prāṇa-pratiṣṭhā* 22 February 1931) opening with a verse from Samartha Ramdas's seventeenth-century *Dasbodh* (दासबोध) — pausing before the loaded ***mleccha*** (म्लेच्छ) word so the audience, knowing the verse, completed it for him; the speech-and-audience-completion device circumvented colonial surveillance while delivering the dharmic continuum's standing category for the non-dharmic outsider.
 
+**Status:** Parked — intentionally undeployed; retained source material.
+
 **Deployments:** No live body deployment after the Chapter 17 rewrite; retained for possible future use in a public essay, the Epilogue, or the Second Shanti social-order volume.
 
 The historical incident retained here: Vinayak Damodar Savarkar (1883–1966), during his period of internment at Ratnagiri (1924–1937) under British colonial restriction, delivered a public speech in which he opened with a verse from the seventeenth-century saint-poet Samartha Ramdas's *Dasbodh* — the famous *म्लेच्छ* (*mleccha*) verse that the Maratha lineage-chain associates with the call to resistance against foreign / non-dharmic rule. The verse opens with the word *mleccha*; the audience knew the verse and knew its political force. Savarkar paused before the loaded word — the verse's structure makes the next word predictable to anyone who knows the verse — and the audience completed it for him.
@@ -3931,6 +3941,8 @@ Standard references: the standard biographies of Savarkar — Dhananjay Keer, *V
 
 **Short:** Samartha Ramdas (1608–1681) — saint-poet of the Marathi *Bhakti* continuum and *guru* of Chhatrapati Shivaji Maharaj — composed the ***Dasbodh*** (दासबोध, traditionally dated to his 1654 contemplative retreat; twenty *dasakas* (दशक), ~7,750 *ovīs* (ओवी)), with a ***mleccha*** (म्लेच्छ)-naming verse in the political-conduct sections that the Ratnagiri audience completed in Savarkar's pause. The dharmic continuum's *mleccha* category runs continuously from the *Vedas* through the *Mahābhārata*, *Smṛti*, *Purāṇa* literature, the regional *bhakti* traditions including the *Dasbodh*, and into early-20th-century anticolonial discourse — distinct from and not dependent on the Abrahamic master-slave binary the racial Arya thesis projected.
 
+**Status:** Parked — intentionally undeployed; retained source material.
+
 **Deployments:** No live body deployment after the Chapter 17 rewrite; retained with `savarkar-ratnagiri-mleccha` for possible future use.
 
 Samartha Ramdas (1608–1681), saint-poet of the Marathi *Bhakti* continuum and the *guru* of Chhatrapati Shivaji Maharaj, composed the ***Dasbodh*** — a major work of seventeenth-century Marathi devotional and political-philosophical literature, traditionally dated to the 1654 period of his contemplative retreat. The *Dasbodh* runs to twenty *dasaka*s (sections), each containing ten *samāsa*s (sub-sections), each containing many *ovis* (couplets) — approximately 7,750 *ovis* in total. The work treats *bhakti* (devotion), *jñāna* (knowledge), *karma* (action), *rāja-niti* (political conduct), and the broader dharmic engagement with the moment of seventeenth-century Maratha resistance against the Mughal political-religious framework.
@@ -3947,7 +3959,7 @@ Standard references: the *Dasbodh* in its standard editions. The principal editi
 
 **Short:** The major south-Indian literary languages (Tamil, Kannada, Malayalam, Telugu, Tulu) do not natively use the *mahāprāṇa* (महाप्राण, aspirated) consonant series — the aspirated stops appear only in *tatsama* (तत्सम, Sanskrit-loaned) vocabulary, *tadbhava* (तद्भव, Sanskrit-adapted) forms typically simplify aspiration, and foreign loanwords drop it; the south-Indian phonological architecture selects from the broader subcontinental phonetic superset and does not use the *mahāprāṇa* manner-axis distinction — engineering selection difference, not deficiency.
 
-**Deployments:** Chapter 9 §9.3 ¶ — the citation anchor for the south Indian languages' restriction of *mahāprāṇa* (aspirated) consonants to Sanskrit-loaned vocabulary.
+**Deployments:** Chapter 8 §8.5 — justifies the coverage surveys' 23-cell base by explaining why the ten *mahāprāṇa* cells are set aside. (Previously recorded as Chapter 9 §9.3, in the chapter that split into Chapters 8 and 9; the passage moved and the marker was not carried.)
 
 The major literary languages of the south Indian peninsula — Tamil, Kannada, Malayalam, Telugu, Tulu — do not natively use the *mahāprāṇa* (aspirated) consonant series. The aspirated stops (*kha, gha, cha, jha, ṭha, ḍha, tha, dha, pha, bha*) appear in south Indian texts and speech only in:
 
@@ -3970,6 +3982,8 @@ Standard references: Bhadriraju Krishnamurti, *The Dravidian Languages* (Cambrid
 ### `bengali-va-ba-merger`
 
 **Short:** Standard Bengali (*kolkātā-bhāṣā*) collapses the labial-region distinction between *va* (व) and *ba* (ब) into a single bilabial pronunciation — the two phonemes sit *adjacent* in the *varṇamālā*'s 2D place-by-manner grid (same labial column, adjacent *antaḥstha* / *sparśa* rows, the smallest snap-distance in the labial zone); natural-language drift across many generations hits the smallest acoustic-distinguishability gaps first, so the merger confirms rather than contests the structural account of the *varṇamālā* (वर्णमाला) as engineered.
+
+**Status:** Retired 2026-08-22. The claim lived only in TABLE 9.1 of the pre-split superset chapter, deleted by commit `1a7cb0f5` (2026-06-08). Chapter 8 replaced the regional-feature survey with cell-coverage comparisons against the 23-cell base, which make no regional-feature claims. Table recovered in full to `working/40_reference/source_material/ch9_regional_features_lost_and_found_2026-06-08.md`. Retained here as source material.
 
 **Deployments:** Chapter 9 §9.3 ¶ — the citation anchor for the Bengali phonological collapse of व (*va*) and ब (*ba*) and the structural-locality account of the merger.
 
@@ -4083,6 +4097,8 @@ Standard references: Christopher Shackle, *Urdu Grammar* (in *The Urdu Concise D
 
 **Short:** Standard Punjabi uses a three-way lexical-tone system (high / mid / low — *kóṛā* "leper" / *kōṛā* "whip" / *kòṛā* "horse") developed through tonogenesis: the engineered voiced-aspirated stops (*gh*, *jh*, *ḍh*, *dh*, *bh*) merged with their unaspirated counterparts in regional speech, with the aspiration leaking into vowel pitch contours. Post-engineering regional development — what happens when the Sanskrit calibration scope does not extend to Sanskrit's calibrated language; the *varṇamālā*'s engineering reserves pitch for *recitation* engineering (*udātta* / *anudātta* / *svarita*) rather than allowing it as phoneme-distinction, keeping the Sanskrit phonological inventory stable.
 
+**Status:** Retired 2026-08-22. The claim lived only in TABLE 9.1 of the pre-split superset chapter, deleted by commit `1a7cb0f5` (2026-06-08). Chapter 8 replaced the regional-feature survey with cell-coverage comparisons against the 23-cell base, which make no regional-feature claims. Table recovered in full to `working/40_reference/source_material/ch9_regional_features_lost_and_found_2026-06-08.md`. Retained here as source material.
+
 **Deployments:** Chapter 9 §9.5 ¶ — the citation anchor for the Punjabi three-way lexical-tone development from the engineered voiced-aspirated row of the *varṇamālā*.
 
 Standard Punjabi — particularly eastern Punjabi (the language of the contemporary Indian Punjab and the broader Sikh-cultural sphere) — uses a three-way lexical-tone system that distinguishes minimal pairs by pitch contour. The three tones:
@@ -4112,6 +4128,8 @@ Standard references as enumerated above. Additional: Manjit Inder Singh Gill, *P
 ### `pahari-tonal-features`
 
 **Short:** The western Pahari languages — Garhwali, Kumaoni, Dogri (across the central Himalayan slopes) — use *two-way* lexical-tone features on a smaller lexical subset (Garhwali *góṛā* "horse" with high pitch reflecting historical *gh-*, *goṛā* "foot" with neutral pitch); the same tonogenesis mechanism as Punjabi but at smaller scale, with calibrant influence in the Pahari region slowing but not preventing the development — an intermediate stage on the trajectory the full Punjabi case traverses.
+
+**Status:** Retired 2026-08-22. The claim lived only in TABLE 9.1 of the pre-split superset chapter, deleted by commit `1a7cb0f5` (2026-06-08). Chapter 8 replaced the regional-feature survey with cell-coverage comparisons against the 23-cell base, which make no regional-feature claims. Table recovered in full to `working/40_reference/source_material/ch9_regional_features_lost_and_found_2026-06-08.md`. Retained here as source material.
 
 **Deployments:** Chapter 9 §9.5 ¶ — the citation anchor for the more limited tonal features observable in some western Pahari languages (Garhwali, Kumaoni, Dogri) across the central Himalayan slopes.
 
@@ -4674,6 +4692,8 @@ Standard references: Malcolm Ross, "Contact-Induced Change and the Comparative M
 ### `as-bhu-being-paradigm`
 
 **Short:** Sanskrit preserves **⟪अस्⟫ (*as*)** and **⟪भू⟫ (*bhū*)** as two atoms, uses both in Ṛgveda 10.129, and later documents their grammatical relationship through *Aṣṭādhyāyī* 2.4.52, **अस्तेर्भूः**. Latin joins their reflections inside ***sum, esse, fuī, futūrus***; Greek preserves them more visibly across **ἐστί (*esti*)** and the **φυ- (*phu-*)** family.
+
+**Status:** Parked — intentionally undeployed; retained source material.
 
 **Deployments:** Retained as source material for future use. The former Chapter 19 §19.9 and Appendix Part 1 §1.5 deployments are preserved in `working/40_reference/source_material/as_bhu_being_becoming_case_lost_and_found.md`.
 
@@ -5336,13 +5356,15 @@ Sources: The five forms and their loci were checked against the local Rigvedic c
 
 **Short:** Chapter 11 §11.3 uses six singular and plural forms of ⟪इ⟫ to demonstrate how a completed Sanskrit verb identifies the actor and number. Appendix Part 7 then provides representative Rigvedic examples for all nine combinations of person and number. Chapter 11 also gives shared forms for present, past, future, command, and possibility.
 
-**Deployments:** Chapter 11 §11.3 (the compact ⟪इ⟫ table and the time-and-mode table); Appendix Part 7 §7.2 (the complete Vedic person-and-number concordance).
+**Deployments:** Chapter 11 §11.3 (Figure 11.4); Appendix Part 7 §7.2 (the complete Vedic person-and-number concordance).
 
-The compact body table uses **एमि (*emi*)**, **इमः (*imaḥ*)**, **एषि (*eṣi*)**, **इथ (*itha*)**, **एति (*eti*)**, and **यन्ति (*yanti*)**. All six belong to the present-tense *parasmaipada* forms generated from ⟪इ⟫, *to go*. The table omits the dual because its purpose is to demonstrate the encoding clearly, not to teach the complete paradigm.
+The upper panel of Figure 11.4 uses **एमि (*emi*)**, **इमः (*imaḥ*)**, **एषि (*eṣi*)**, **इथ (*itha*)**, **एति (*eti*)**, and **यन्ति (*yanti*)**. All six belong to the present-tense *parasmaipada* forms generated from ⟪इ⟫, *to go*. The figure omits the dual because its purpose is to demonstrate the encoding clearly, not to teach the complete paradigm.
 
 The nine forms in Appendix Part 7 were checked against the local Rigvedic corpus index generated for the Chapter 11–12 evidence audit. Together they cover one, two, and more than two actors for the speaker, the person addressed, and the person or thing being described. The concordance deliberately uses forms that remain available in *laukika* Sanskrit. It therefore demonstrates the Vedas as the calibrant for the shared grammar. Additional Vedic endings and verbal forms belong to Chapter 16 and Appendix Part 8.
 
-The second table uses **भवति** at RV 1.17.5, **आसीत् (*āsīt*)** at RV 10.129.1, **करिष्यति (*kariṣyati*)** at RV 1.164.39, **भव (*bhava*)** at RV 1.1.9, and **स्याम (*syāma*)** at RV 1.4.6. These examples are representative rather than exhaustive. Appendix Part 7 retains the wider inventory and verification trail.
+The lower panel uses **भवति** at RV 1.17.5, **आसीत् (*āsīt*)** at RV 10.129.1, **करिष्यति (*kariṣyati*)** at RV 1.164.39, **भव (*bhava*)** at RV 1.1.9, and **स्याम (*syāma*)** at RV 1.4.6. These examples are representative rather than exhaustive. Appendix Part 7 retains the wider inventory and verification trail.
+
+The same section also uses **अस्ति (*asti*)** at RV 1.22.4, **यजति (*yajati*)** at RV 1.26.3, and **यजते (*yajate*)** at RV 1.31.15. These forms show direct attachment and the contrast between the **ति** and **ते** endings without requiring the reader to learn a complete conjugation table.
 
 ---
 
@@ -5350,7 +5372,7 @@ The second table uses **भवति** at RV 1.17.5, **आसीत् (*āsīt*
 
 **Short:** Ch 12 §12.2 follows four Rigvedic forms built from ⟪कृ⟫ (*kṛ*): **कृतम् (*kṛtam*)** at RV 3.29.1b, **कर्मणः (*karmaṇaḥ*)** at RV 1.11.4c, **कर्तृभिः (*kartṛbhiḥ*)** at RV 1.55.8c, and **संस्कृतम् (*saṃskṛtam*)** at RV 5.76.2a.
 
-**Deployments:** Ch12 §12.2 (the Vedic ⟪कृ⟫ family table).
+**Deployments:** Ch12 §12.2 (Figure 12.3, the Vedic ⟪कृ⟫ family).
 
 The forms were checked against the local Rigvedic corpus index. RV 3.29.1 uses **कृतम्** as a neuter singular participial form describing something prepared or completed. RV 1.11.4 uses **कर्मणः** in the genitive singular. RV 1.55.8 uses **कर्तृभिः** in the instrumental plural. RV 5.76.2 uses **संस्कृतम्** in the accusative neuter singular. The chapter selects these examples because the derivational and inflectional operations remain available in both Sanskrit domains.
 
@@ -5363,6 +5385,16 @@ The forms were checked against the local Rigvedic corpus index. RV 3.29.1 uses *
 **Deployments:** Ch12 §12.2.
 
 The local corpus parses **saṃskṛtam** as accusative neuter singular in the line beginning *na saṃskṛtam pra mimīto gamiṣṭhā*. The body quotes the form for one narrow purpose: it establishes that *sam-* joins ⟪कृ⟫ and receives further material in Vedic usage. Other forms in the line demonstrate additional Vedic range and are reserved for Chapter 16 and Appendix Part 8.
+
+---
+
+### `rigveda-5-25-4-word-order`
+
+**Short:** RV 5.25.4a preserves **अग्निः । देवेषु । राजति** (*agniḥ | deveṣu | rājati*): a nominative singular actor, a locative plural group, and a third-person singular verb.
+
+**Deployments:** Chapter 12 §§12.3 and 12.5; Appendix Part 7 §7.3.
+
+The chapter prints the three forms separately so that the grammatical ending on each word remains easy to inspect. The received Vedic order is **अग्निः देवेषु राजति**. Section 12.5 keeps that order intact when it quotes the mantra, then uses the same three completed forms in two newly composed *laukika* arrangements. Those rearrangements demonstrate one grammatical permission; they are not presented as alternate Vedic recitations. The endings continue to identify **अग्निः** as the actor, **देवेषु** as the group or location, and **राजति** as the action of one described actor.
 
 ---
 
@@ -5767,11 +5799,13 @@ The *prayoga* audit calculates a *dhātu*'s reactivity from the distinct (*upasa
 
 ### `mendeleev-1869-table`
 
-**Short:** Mendeleev's 1869 periodic table arranged 63 elements by atomic weight and recurring chemical function, creating the historical comparison for Chapter 11's narrower claim that structural arrangement by property can reveal an underlying architecture.
+**Short:** Mendeleev's 1869 periodic table arranged 63 elements by atomic weight and recurring chemical function. Appendix Part 6 preserves it as a historical comparison for the narrower claim that arrangement by structural property can reveal an underlying architecture.
+
+**Status:** Parked — intentionally undeployed; retained source material.
 
 **Deployments:** Preserved as reference material after the Chapter 11 restructure; available for Appendix Part 6 or the Source and Reference Companion.
 
-Dmitri Mendeleev, *Versuche eines Systems der Elemente nach ihren Atomgewichten und chemischen Funktionen* (1869) — the first periodic-table publication, presenting 63 chemical elements arranged by atomic weight on one axis and recurrent chemical property on the other. The table's predictive feature — Mendeleev left gaps for elements whose properties the table predicted but which had not yet been isolated, and gallium (1875), scandium (1879), and germanium (1886) were subsequently discovered with the predicted properties — established that structural arrangement by property could anticipate empirical fact. The 1869 paper is the historical anchor for comparison, not equivalence: Chapter 11 uses the modern table to explain Sanskrit's older grammatical table of measured bonding behavior. See the companion for the original 1869 paper, Mendeleev's 1871 expansion (*The Periodic Law of the Chemical Elements*), and the historical-priority literature (Meyer 1864, Newlands 1866, de Chancourtois 1862).
+Dmitri Mendeleev, *Versuche eines Systems der Elemente nach ihren Atomgewichten und chemischen Funktionen* (1869) — the first periodic-table publication, presenting 63 chemical elements arranged by atomic weight on one axis and recurrent chemical property on the other. The table's predictive feature — Mendeleev left gaps for elements whose properties the table predicted but which had not yet been isolated, and gallium (1875), scandium (1879), and germanium (1886) were subsequently discovered with the predicted properties — established that structural arrangement by property could anticipate empirical fact. The 1869 paper is the historical anchor for comparison, not equivalence. Appendix Part 6 uses the modern table to explain Sanskrit's older grammatical arrangement of measured bonding behavior. See the companion for the original 1869 paper, Mendeleev's 1871 expansion (*The Periodic Law of the Chemical Elements*), and the historical-priority literature (Meyer 1864, Newlands 1866, de Chancourtois 1862).
 
 ---
 
@@ -5779,7 +5813,7 @@ Dmitri Mendeleev, *Versuche eines Systems der Elemente nach ihren Atomgewichten 
 
 **Short:** The grammatical tradition uses *vikaraṇa* for the operations placed between a *dhātuḥ* and its verbal ending. The *Aṣṭādhyāyī* prescribes the individual affixes and transformations; later teaching gathers them under the common label *vikaraṇa*.
 
-**Deployments:** Chapter 11 §11.4; Appendix Part 6 §6.4.
+**Deployments:** Chapter 11 §11.5; Appendix Part 6 §6.4.
 
 The ***vikaraṇa*** (विकरण) is the traditional umbrella term for the affix or operation associated with a verbal class. The *Aṣṭādhyāyī* prescribes the individual operations but does not use *vikaraṇa* as their common technical label. Its relevant rules include *śap* for *bhvādi* (3.1.68); deletion of *śap* for *adādi* (2.4.72); *ślu* with reduplication for *juhotyādi* (2.4.75); *śyan* for *divādi* (3.1.69); *śnu* for *svādi* (3.1.73); *śa* for *tudādi* (3.1.77); *śnam* for *rudhādi* (3.1.78); *u* for *tanādi* (3.1.79); *śnā* for *kryādi* (3.1.81); and *ṇic* for *curādi* (3.1.25). Pāṇini explicitly defines **अङ्गम् (*aṅgam*)** at 1.4.13 and lists the **तिङ् (*tiṅ*)** endings at 3.4.78. Chapter 11 uses only the broad distinction needed by a non-specialist reader: Vedic verbs already display the formations, while the grammatical analysis makes their recurring patterns explicit. Appendix Part 6 retains the detailed classification.
 
@@ -5787,7 +5821,7 @@ The ***vikaraṇa*** (विकरण) is the traditional umbrella term for the 
 
 ### `varga-column-as-engineering-axis`
 
-**Short:** Chapter 11 uses the first-consonant *varga* column as one structural axis in the periodic-axes figure for *dhātavaḥ*: a property already present in the *varṇamālā* grid and supported by the *prayoga* audit.
+**Short:** Appendix Part 6 uses the first-consonant *varga* column as one structural axis in the periodic-axes figure for *dhātavaḥ*: a property already present in the *varṇamālā* grid and supported by the *prayoga* audit.
 
 **Deployments:** Appendix Part 6 §6.4 — uses the *varga* column (C1–C5) as a structural axis in the periodic-axes figure.
 
@@ -6748,6 +6782,8 @@ The parallel with Vedic transmission rests on the independent *śākhā* evidenc
 ### `where-this-argument-stands`
 
 **Short:** The free *Source and Reference Companion* places *Atomic Sanskrit* beside four neighboring bodies of writing: Out-of-India arguments, Western criticism of PIE reconstruction, formal and computational Sanskrit scholarship, and Subhash Kak's wider research into Vedic architecture.
+
+**Status:** Parked — intentionally undeployed; retained source material.
 
 **Deployment:** Positioning note; *Source and Reference Companion*, “Where This Argument Stands.”
 

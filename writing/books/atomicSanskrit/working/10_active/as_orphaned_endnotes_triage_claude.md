@@ -2,7 +2,8 @@
 
 **Created:** 2026-08-22
 **Status:** Category A resolved 2026-08-22. Three App-6 entries in Category D also
-resolved by the author in the same pass. 33 orphans remain, all Category B/C/D/E.
+resolved by the author in the same pass. A reachability test and a git dig then cut
+the open set from 33 to **12** — see *Second pass* below.
 **Scope:** the 39 stubs in `manuscript/as_endnotes.md` with no `[NOTE:]` marker anywhere in the manuscript
 
 ---
@@ -31,6 +32,165 @@ two bursts in June and has been essentially flat since:
 | 22 Aug | 356 | 317 | 39 | flat |
 
 Two months of heavy work between mid-June and mid-August moved it 29 → 34.
+
+---
+
+## Second pass (2026-08-22) — 33 open becomes 12
+
+Three findings, in the order they landed.
+
+### 1. An orphan is not necessarily unreachable
+
+`jones-1786-anniversary-address` is deployed, and its body reads *"Forward-pointer to
+the main `jones-1786-third-anniversary-discourse` endnote."* The orphan is the
+**target of a pointer from a deployed endnote** — a reader following the citation
+chain gets there. That is not a defect; it is a two-level citation, the same pattern
+Category C already recognized for `modern-sanskrit-lineage-roles`.
+
+Re-running the audit with a cross-reference test rather than a body-marker test:
+**11 of the 33 are reachable from a deployed endnote.** Category C grows 6 → 11.
+
+| Orphan | Reachable via |
+|---|---|
+| `aurobindo-kapali-sastry-mishra-vedic-lineage` | `modern-sanskrit-lineage-roles` |
+| `dayananda-rgvedadi-bhashya` | `modern-sanskrit-lineage-roles` |
+| `kak-vedic-structural-architecture` | `modern-sanskrit-lineage-roles` |
+| `kapoor-text-and-interpretation` | `modern-sanskrit-lineage-roles` |
+| `malhotra-battle-for-sanskrit-pollock-prosecution` | `modern-sanskrit-lineage-roles` |
+| `ojha-vedic-architecture-corpus` | `modern-sanskrit-lineage-roles` |
+| `jones-1786-third-anniversary-discourse` | `jones-1786-anniversary-address` |
+| `rigveda-10-125-vak-ambhrini` | `rigveda-10-71-4-vach` |
+| `staal-mendeleev-varga-comparison` | `vyanjana-duration-shiksha` |
+| `western-linguistic-encounter-sanskrit-1786-1879` | `place-of-articulation-sanskrit-terms` |
+| `yaska-deva-derivation` | `deva-sur-div-radiance-field` |
+
+This also settles four of the entries listed "not tested" in Category D. Only
+`history-of-linguistics-sanskrit-influence` and `ipa-1886-founding-1888-chart` from
+that App 3 / App 5 group remain unreachable.
+
+### 2. The Chapter 9 cluster — cause found, material recovered
+
+The Ch 9 orphans were not a slow drift. They were created in a single commit:
+
+> `1a7cb0f5` — **"Ch 8 & Ch 9: figure-caption sync + scare-quote convention + minor
+> polish"**, 2026-06-08. 123 insertions, **181 deletions.**
+
+Under "minor polish" that commit deleted **TABLE 9.1**, the regional-features survey
+added three weeks earlier by "Ch09: Tier 3 addback". Four endnotes cite claims that
+existed only in that table:
+
+| Endnote | Table row it supported |
+|---|---|
+| `pahari-tonal-features` | Himalayan frontier — "Pahari tonal features" |
+| `punjabi-tonal-development` | Indo-Gangetic — "Punjabi three-way lexical tone" |
+| `bengali-va-ba-merger` | Eastern subcontinent — "Bengali व/ब labial merger" |
+| `south-indian-mahaprana-loan-only` | Southern — *mahāprāṇa* "not native (Sanskrit loans only)" |
+
+That date is the first of the two bursts in the trend table above: orphans **2 → 15**.
+
+**The cut was never logged.** CLAUDE.md requires material to be copied into a recovery
+ledger before removal; no ledger holds this table, and no working file contains the
+phrases "labial merger", "three-way lexical tone", or "Pahari tonal". Git had it, but
+the ledger — the thing the rule exists to guarantee — did not.
+
+**Recovered 2026-08-22** in full to
+`working/40_reference/source_material/ch9_regional_features_lost_and_found_2026-06-08.md`.
+This follows the precedent already set by `hlad-contrast-atom`, which parks cleanly
+against `ch12_pre_vedic_breadth_rewrite_*`.
+
+One row in the recovered table bears on open work: **"Tamil ற alveolar trill"** — the
+same ற் raised on 2026-08-21 when checking Tamil's liquids against the *varṇamālā*.
+The book had that observation and lost it.
+
+### 3. Nine parked entries now declare themselves
+
+The nine Category B stubs stated their parked status only in prose inside their
+Deployments line, so every audit re-flagged them and a human had to re-read nine
+reasons. Each now carries a machine-readable field, matching the format
+`hlad-contrast-atom` already used:
+
+```
+**Status:** Parked — intentionally undeployed; retained source material.
+```
+
+`hlad-contrast-atom` was itself already parked (`**Status:** Parked after the Chapter
+12 Vedic-breadth rewrite.`), so it leaves the decision list too — Category D loses one.
+
+**Net: 33 open → 12 needing a decision.**
+
+---
+
+## The 12 that need a decision
+
+| Stub | Target | Situation |
+|---|---|---|
+| ~~`south-indian-mahaprana-loan-only`~~ | Ch 8 §8.5 | **RESOLVED — relinked.** See *Third pass* |
+| ~~`pahari-tonal-features`~~ | — | **RETIRED** against the ledger |
+| ~~`punjabi-tonal-development`~~ | — | **RETIRED** against the ledger |
+| ~~`bengali-va-ba-merger`~~ | — | **RETIRED** against the ledger |
+| `architecture-not-analysis-pratisakhya` | Ch 9 §9.4 | Staal critique gone from Ch 9 |
+| `varnamala-grid-geometry` | Ch 9 §9.4 | needs a read — "grid" is ubiquitous |
+| `formants-source-filter-theory` | Ch 7 §7.5, Ch 9 §9.1 | "formant" appears nowhere in the manuscript |
+| `history-of-linguistics-sanskrit-influence` | App 3 §3.8 | §3.8 is now "Three Design Cases"; the history content is gone |
+| `ipa-1886-founding-1888-chart` | App 3 §3.8 | same |
+| `sanskrit-field-52b-reach` | Ch 0 §0.3 | the 5.2-billion figure is gone |
+| `pratisakhya-bhashyam-chandasi` | Ch 17 §17.4 | topic absent |
+| `kailasa-temple-ellora-engineering` | — | no record; candidate for Ch 6 §6.1 beside Ta Prohm |
+
+Four are one decision (the TABLE 9.1 group). Two more are one decision (App 3 §3.8).
+So the twelve are really **seven** decisions.
+
+---
+
+## Third pass (2026-08-22) — the TABLE 9.1 group settled
+
+### The chapter split is why the trail went cold
+
+The commit that deleted TABLE 9.1 was a figure-conversion pass, and it converted one
+table correctly: the sonomer-duration table became **Figure 9.7, *Mātrā Duration***.
+TABLE 9.1 got no such treatment. The same commit also deleted the placeholder that
+would have carried it visually — *"FIGURE 9.1: The subcontinental sound-field — map of
+the subcontinent by region, marking retroflex distribution…"*. Table and figure went
+together, and the new Figures 9.1–9.6 took the numbering with unrelated content. None
+of Chapter 9's thirteen current figures is regional.
+
+Compounding it, the old `as_1_09_superset.md` later **split into Chapter 8**
+(`as_1_08_superset.md`) **and Chapter 9** (`as_1_09_mapping_mouth.md`). The four
+endnotes point at "Ch 9 §9.3 / §9.5" — an address that no longer means what it meant
+when they were written. Any audit keyed to the recorded target was looking in the
+wrong chapter.
+
+### One relinked — a real gap in Chapter 8
+
+`south-indian-mahaprana-loan-only` **was a live defect, not a stranded citation.**
+Chapter 8's four coverage surveys count against a 23-cell base with the ten
+*mahāprāṇa* cells set aside. The chapter states the set-aside at §8.5 and again at
+§8.7 but never justifies it, so a reader asking "why 23 and not 33?" gets no answer
+and the trimmed base looks chosen to flatter the result. The justification is exactly
+what the orphaned endnote supplies: the southern languages use *mahāprāṇa* only in
+*tatsama* loans.
+
+Marker attached at `manuscript/as_1_08_superset.md:73`; Deployments retargeted
+Ch 9 §9.3 → Ch 8 §8.5 with the move recorded in the entry. Same defect class as A2
+(`ross-metatypy-takia`): chapter moved, marker not carried.
+
+### Three retired — no host text, and the replacement is better
+
+`pahari-tonal-features`, `punjabi-tonal-development`, and `bengali-va-ba-merger` have
+nothing to relink to. Punjabi and Bengali survive in Chapter 8 in a single sentence,
+and it says those languages are *excluded* from the surveys. Restoring the citations
+would mean writing new prose, not re-attaching markers.
+
+Restoring the table is also the weaker move. Chapter 8 now counts cell coverage
+against real language data — 22, 20, 16, and 15 of 23 — which is evidence; a survey
+row asserting "Punjabi three-way lexical tone" is a list. The two tone rows fit worst:
+tone is not a *varṇamālā* coordinate, so those rows raised a feature Sanskrit's grid
+does not encode and then did nothing with it.
+
+All three now carry `**Status:** Retired 2026-08-22` with a pointer to the ledger. The
+material is not lost — the ledger holds the table in full.
+
+**Open: 12 → 8.**
 
 ---
 
@@ -183,15 +343,25 @@ that passage still exists all four re-attach at once.
 | Category | Count | Action |
 |---|---:|---|
 | ~~A. Lost marker, prose present~~ | ~~3~~ | **done 2026-08-22** |
-| B. Parked by decision | 9 | none |
-| C. Source anchor, parent deployed | 6 | none |
-| D. Stranded by restructure | 20 → **17** | read target, then redeploy or retire (3 App-6 entries resolved) |
+| B. Parked by decision | 9 → **10** | none — declared via `**Status:** Parked` |
+| C. Reachable from a deployed endnote | 6 → **11** | none — two-level citation, working as intended |
+| D. Stranded by restructure | 20 → **7** | read target, then redeploy or retire |
 | E. No record | 1 | consider Ch 6 §6.1 |
-| | **39 → 33 open** | |
+| F. Retired against a ledger | **3** | none — declared via `**Status:** Retired` |
+| | **39 → 8 open** | |
 
-**The 3 defects are fixed.** 15 are working as intended. 17 still need a read-and-decide,
-and of those the Ch 9 cluster (8) and the App 3/5 group (4) can each be settled in one pass —
-those two groups are now most of what is left.
+**Four defects fixed** — the three in Category A, plus `south-indian-mahaprana-loan-only`,
+which turned out to be a missing justification in Chapter 8 rather than a stranded
+citation. 24 entries are working as intended: 10 parked, 11 reachable through a citation
+chain, 3 retired against the ledger.
+
+**8 remain**, and they collapse into **six** decisions, since the two App 3 §3.8 stubs
+settle together.
+
+The headline number was never 39 real problems. It was 4 defects, 24 entries in order,
+and a handful of open questions — and the audit could not tell them apart because it
+tested the wrong condition. Each defect it did contain was found by reading the
+manuscript, not by counting stubs.
 
 ---
 
@@ -203,9 +373,22 @@ than three months later. The check that matters is not "is a stub unused" but **
 stub's recorded Deployments target still present, and does it still carry the
 marker?"** — that is precisely the condition that caught A1, A2, and A3.
 
-To stop Category B being re-flagged every run, those nine could carry an explicit
-field, e.g. `**Status:** parked`, letting the check skip them by declaration instead
-of by a human re-reading the reason each time.
+**Done 2026-08-22.** Thirteen entries now declare their state in a machine-readable
+field, so the check skips them by declaration rather than by a human re-reading a
+reason each time. Two tokens are in use and the check should skip both:
+
+- `**Status:** Parked` — intentionally undeployed, retained for possible future use (10).
+- `**Status:** Retired` — the claim is not returning; material preserved in a ledger (3).
+
+The audit's condition should be **"orphaned, undeclared, and not reachable from a
+deployed endnote"** — that is what reduces 39 to 8. Testing bare `[NOTE:]` presence
+produced 21 false positives.
+
+One further lesson from the third pass: a stub's recorded Deployments target can be
+stale in a way that hides a real defect. `south-indian-mahaprana-loan-only` pointed at
+a chapter that had since split in two, so the audit looked in the wrong file and the
+missing justification in Chapter 8 went unseen. Chapter renames and splits should
+trigger a Deployments sweep.
 
 ### Method note
 
