@@ -4,7 +4,7 @@
 
 ---
 
-With Rāhu dispelled, Sanskrit's radiant architecture comes fully into view. Part VII turns outward to trace how Sanskritic words, structures, and methods reached other languages through radiance and contact.
+Chapter 19 dispelled the linguistic Rāhu that the pyramid had placed between Sanskrit and the observer. Sanskrit's radiant architecture now comes fully into view. Part VII turns outward to trace how Sanskritic words, structures, and methods reached other languages through radiance and contact.
 
 The seven core blocks have fallen. The Sun is visible again, while the residual blocks remain cracked around it. Teachers, families, institutions, and future Atris must still confront those remaining obstructions.
 

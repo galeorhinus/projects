@@ -70,7 +70,7 @@ Sanskrit’s architecture is not a coincidence; it is the acoustic output of a c
 
 Most readers already know some Sanskrit, even if they have never studied the language.
 
-A Western reader already speaks Sanskrit casually through words that have entered the global vocabulary: **गुरु (*guru*)**, a weighty teacher; **कर्म (*karma*)**, action; **अवतार (*avatāra*)**, a descent; **मन्त्र (*mantra*)**; and **योग (*yoga*)**, from the atom ⟪युज्⟫ (*yuj*), to join. Chapter 19 traces Sanskrit's radiance through thousands of familiar English words, including *king, station, genesis, native, constant,* and *state*, and shows the Sanskrit forms reflected within them.
+A Western reader already speaks Sanskrit casually through words that have entered the global vocabulary: **गुरु (*guru*)**, a weighty teacher; **कर्म (*karma*)**, action; **अवतार (*avatāra*)**, a descent; **मन्त्र (*mantra*)**; and **योग (*yoga*)**, from the atom ⟪युज्⟫ (*yuj*), to join. Chapter 19 traces Sanskrit's radiance through thousands of familiar English words, including *king, station, genesis, native, constant,* and *state*, and shows the Sanskrit forms reflected within them.[NOTE: english-sanskrit-loanwords]
 
 An Indian reader encounters Sanskrit throughout daily life. *Ślokas* and wedding mantras keep its sounds audible. Modern space missions use compounds such as **चन्द्रयान (*Candrayāna*)**, Moon-vehicle, while the country calls itself **भारत (*Bhārata*)**. Regional Indian languages continue to carry Sanskrit's radiance in their sounds, words, and grammar.
 

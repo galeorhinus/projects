@@ -143,12 +143,6 @@ A word such as **सिन्धुः (*sindhuḥ*)** ends with a *visarga*. Wh
 
 Sanskrit therefore does not leave boundary sounds to chance. It identifies them, trains their pronunciation, and specifies the conditions that shape them.
 
-Sandhi also performs a ***snap-to-grid*** operation at a sound-boundary: it resolves the result to an existing grid address. Consider **तत् + अपि → तदपि (*tat + api → tadapi*)**. The first word ends with the unvoiced dental **त्**. The vowel that follows begins with voice. Sanskrit resolves the junction with **द्**, the voiced sonomer at the same dental place:
-
-> **त् → द्**
-
-The mouth can move naturally from the final consonant into the vowel, but the resulting consonant does not remain somewhere between **त्** and **द्** as a context-dependent variant. It lands on the established address of **द्**. The *snap-to-grid* operation therefore accommodates movement at a sound-boundary while keeping the finished expression inside the reusable grid.
-
 ## 9.6 Nuclei, Contacts, and Timing
 
 Sanskrit does not build with isolated sonomers alone. It bonds them around a vowel and forms an **अक्षरम् (*akṣaram*)**, a stable sound-unit that can be recited, counted, recombined, and represented in writing.
@@ -278,6 +272,18 @@ These tests apply a principle that recurs throughout Sanskrit's architecture: th
 The result determines where Sanskrit uses the sound or form. It may enter the reusable architecture, appear only under a stated condition, remain inside a Vedic scope or a named Vedic lineage, or stay outside the independent grid.[NOTE: pass-selection-scope-principle]
 
 ![Figure 9.12 — The Principle of Architectural Selection and Scope. The four-part analysis compares contribution with load, identifies any support that can contain the load, and establishes the appropriate scope. The two sound pairs show why physical possibility alone does not earn an independent grid address.](figures/calibration/pass_selection_and_scope.svg){#fig:ch9-pass-selection-and-scope width=100%}
+
+### Snap to Grid at a Sound-Boundary
+
+Some sandhi operations perform ***snap-to-grid*** at a sound-boundary. They resolve the junction to an established Sanskrit address instead of leaving an intermediate sound whose identity depends entirely on its surroundings.
+
+Consider **तत् + अपि → तदपि (*tat + api → tadapi*)**. The first word ends with the unvoiced dental **त्**. The vowel that follows begins with voice. Sanskrit resolves the junction with **द्**, the voiced sonomer at the same dental place:
+
+> **त् → द्**
+
+The mouth can move naturally from the final consonant into the vowel, but the resulting consonant does not remain somewhere between **त्** and **द्** as a context-dependent variant. It lands on the established address of **द्**. This snap-to-grid operation accommodates movement at a sound-boundary while keeping the finished expression inside the reusable grid.
+
+Sandhi as a whole is broader. Other operations merge vowels, preserve hiatus, remove a sound, or produce a restricted boundary sound. The snap-to-grid description applies when the junction resolves to an established address.
 
 ### Why [ɰ] Stays Outside
 

@@ -4657,7 +4657,7 @@ Standard reference: Sarah Grey Thomason and Terrence Kaufman, *Language Contact,
 
 **Short:** Malcolm Ross, "Contact-Induced Change and the Comparative Method: Cases from Papua New Guinea," in Durie & Ross, eds., *The Comparative Method Reviewed* (Oxford University Press, 1996): 180–217 — develops the concept of ***metatypy*** (the most extreme contact-induced outcome: a language's morphosyntax wholesale restructured to match a *model* language while retaining inherited vocabulary); standard case ***Takia*** (Austronesian / Oceanic, Karkar Island PNG) restructured by contact with ***Waskia*** (Papuan / Trans-New Guinea), producing a language with Austronesian vocabulary and Papuan grammar. The chapter develops the reversal hypothesis by analogy: Sanskrit as model, contacted Central / West Asian languages as replicas, PIE as backward-projection of the aggregate replica features.
 
-**Deployments:** Chapter 19 §19.7 — the citation anchor for Malcolm Ross's *metatypy* account with the Takia/Waskia case study.
+**Deployments:** Chapter 20 §20.2 — the citation anchor for Malcolm Ross's *metatypy* account with the Takia/Waskia case study, at the sentence naming *methodological metatypy*. (Recorded as Chapter 19 §19.7 until 2026-08-22; the discussion moved to Chapter 20 during the Wave 2 rewrite and the marker was not carried with it.)
 
 Malcolm Ross developed the concept of ***metatypy*** in his 1996 paper "Contact-Induced Change and the Comparative Method: Cases from Papua New Guinea" (in *The Comparative Method Reviewed*, ed. Mark Durie and Malcolm Ross, Oxford University Press, 1996). The concept captures the most extreme outcome of contact-induced structural change: *a language's morphosyntax is wholesale restructured to match a model language, while the recipient retains its inherited vocabulary*.
 
@@ -5515,11 +5515,11 @@ Source: Yaska, *Nirukta* (Lakshman Sarup's edition, Motilal Banarsidass 1920–2
 
 ### `generative-reach-inversion-natural-language`
 
-**Short:** Rank-frequency concentration is expected in living languages and is not treated here as engineering evidence by itself. The engineering claim begins where usage concentration couples to compact sonomeric atoms, stable scaffold order, regular bonding, and cross-domain persistence. Natural languages display the *frequency-irregularity correlation* — high-frequency forms tend toward suppletive idiosyncrasy (English *be / have / do*; Latin *esse / ire / ferre*; Greek *eimi / oida / phēmi*); the correlation is one of the most-replicated findings in natural-language morphology, explained by high-frequency forms being mastered as wholes and resisting analogical regularization. Sanskrit shows the *opposite* pattern: the *dhātavaḥ* with the greatest generative reach (*kṛ, bhū, gam, sthā, dā, dhā, jñā, hṛ, nī*) are the most structurally *minimal* (CV / CVC) *and* the most paradigmatically *regular*. Empirical signature in the *Dhātupāṭha* curated sample: Spearman ρ = −0.485 between generative reach and sonomer count; CV pattern mean generative reach 2.9× the CCVCC pattern's; top-20 ranks by generative reach dominated by minimal-sonomer patterns. Both axes are engineered at once.
+**Short:** High-frequency verbs in natural languages often preserve irregular forms. The Sanskrit audit asks a different question: whether particle count relates to the number of derivatives and grammatical combinations recorded for a *dhātuḥ*. Both Sanskrit calculations find greater reach among smaller atoms. The appendix does not claim that it has completed a cross-language comparison of paradigm irregularity.
 
-**Deployments:** Appendix Part 6 §6.3; Claim #21. Chapter 10 supplies the compact-atom and scaffold-use foundation; the printed appendix presents the book-facing generative-reach test, while the full generative-reach inversion audit belongs in the Source and Reference Companion version.
+**Deployments:** Appendix Part 6 §§6.2–6.3 — qualifies the natural-language comparison and anchors the two Sanskrit reach calculations.
 
-The book's generative-reach inversion claim — that Sanskrit shows the opposite of the natural-language frequency-irregularity correlation — rests on a cross-linguistic typological observation widely documented in modern morphological theory: in natural languages, high-frequency forms tend toward *idiosyncratic irregularity*. The standard examples:
+Natural-language morphology has repeatedly observed that high-frequency verbs often retain irregular or suppletive forms. Familiar examples include:
 
 - **English** *be / have / do*: paradigmatically broken — *be* has the suppletive paradigm *am / are / is / was / were / been*; *have* has irregular past *had* and third-person *has*; *do* has irregular past *did* and third-person *does*.
 - **Latin** *esse / ire / ferre*: similarly suppletive — *sum / es / est / fui / esse*; *eo / is / it / ivi / ire*; *fero / fers / fert / tuli / latum / ferre*.
@@ -5527,13 +5527,9 @@ The book's generative-reach inversion claim — that Sanskrit shows the opposite
 - **Russian** *byt'* (to be): near-absence of present-tense forms.
 - **Spanish, French, German**: same correlation.
 
-The frequency-irregularity correlation is one of the most-replicated findings in natural-language morphology. The explanation in the natural-language framework: high-frequency forms are mastered as wholes (and so resist analogical regularization pressure) while low-frequency forms are subject to analogical regularization across generations. Frequency drives idiosyncrasy because frequency-of-use shapes the form — the language is *natural*.
+One common explanation is that speakers learn frequent forms as complete units, allowing those forms to resist the analogical regularization that reshapes less frequent forms.
 
-Sanskrit shows the opposite pattern. The *dhātavaḥ* with the greatest generative reach — ⟪कृ⟫, ⟪भू⟫, ⟪गम्⟫, ⟪स्था⟫, ⟪दा⟫, ⟪धा⟫, ⟪ज्ञा⟫, ⟪हृ⟫, ⟪नी⟫ — are the most structurally minimal (CV / CVC patterns) AND the most paradigmatically regular. There is no idiosyncrasy at the top. ⟪कृ⟫ generates *karoti, karma, kartṛ, kāraṇa, kāryam, saṃskāra, prakṛti, vikṛti* through the standard *vibhakti* and *kṛdanta* paradigms; no suppletive forms, no paradigm-breaking irregularities.
-
-The empirical signature in the *Dhātupāṭha* curated sample (138 *dhātus*; full data in `analysis/dhatupatha/data/dhatu_productivity.csv`): Spearman ρ = −0.485 between generative reach and sonomer count; CV pattern mean generative reach 2.9× the CCVCC pattern's; top-20 dominated by minimal-sonomer patterns (11 of 20 are CV).
-
-The architectural inference: in natural languages, high-frequency drives idiosyncrasy because the language is *natural* — frequency shapes the form. In Sanskrit, high-frequency is associated with structural minimum AND paradigmatic regularity because the language is *engineered* — both axes are engineered at once. The cited natural-language pattern points the other way; the Sanskrit pattern is the one the engineering thesis expects.
+The Sanskrit audit does not compare complete verb paradigms across languages. It tests a different relation. In the 138-atom Path A sample, particle count and estimated derivative reach have a Spearman correlation of **−0.485**. Path C independently compares particle count with recorded combinations of prefix and grammatical form-class across 3,839 normalized verb lemmas and gives **−0.4334**. Both results show greater reach among smaller atoms. Appendix Part 6 presents this compactness-and-reach result without converting it into an unsupported claim that every high-reach Sanskrit paradigm is regular.
 
 Source: Bybee 1985, *Morphology: A Study of the Relation between Meaning and Form* (Benjamins); Haspelmath 2002, *Understanding Morphology* (Hodder); Greenberg 1966, *Language Universals* (Mouton); Bybee & Hopper 2001 (eds.), *Frequency and the Emergence of Linguistic Structure* (Benjamins) — these document the natural-language frequency-irregularity correlation. Monier-Williams 1899 and V. S. Apte 1890 for the Sanskrit generative-reach counts; reproducibility bundle at `analysis/dhatupatha/` for the curated sample and the analysis script.
 
@@ -5753,7 +5749,7 @@ Source: Internal to the argument — Ch20 §20.4 establishes the account; Chapte
 
 **Short:** The dictionary audit measures each *dhātuḥ*'s generative spread using the two standard Sanskrit–English dictionaries — Monier-Williams (*A Sanskrit–English Dictionary*) and V. S. Apte (*The Practical Sanskrit–English Dictionary*).
 
-**Deployments:** Chapter 11 (the dictionary audit).
+**Deployments:** Appendix Part 6 §6.3 after the Chapter 11 restructure.
 
 For each *dhātuḥ*, the dictionary audit counts the derivative forms the dictionary records — a measure of generative spread — using Monier-Williams (*A Sanskrit–English Dictionary*, Oxford, 1899) and V. S. Apte (*The Practical Sanskrit–English Dictionary*). It is the reference-based instrument that the corpus-based *prayoga* audit (Digital Corpus of Sanskrit) is compared against; on the matched subset the two correlate at +0.66. Final production should confirm the exact editions.
 
@@ -5761,9 +5757,9 @@ For each *dhātuḥ*, the dictionary audit counts the derivative forms the dicti
 
 ### `prayoga-audit-valency`
 
-**Short:** Chapter 11 calculates *prayoga* reactivity from forms recorded in the corpus: distinct (*upasarga*, *pratyaya-class*) bonds found in the Digital Corpus of Sanskrit, with dictionary and future *śāstra* audits kept separate.
+**Short:** Appendix Part 6 calculates *prayoga* reactivity from forms recorded in the corpus: distinct (*upasarga*, *pratyaya-class*) bonds found in the Digital Corpus of Sanskrit, with dictionary and future *śāstra* audits kept separate.
 
-**Deployments:** Chapter 11 §11.5 — anchors the 67.6% tier-share number; Appendix Part 6 §§6.3–6.6 — methodology and replication.
+**Deployments:** Appendix Part 6 §§6.3–6.6 — anchors the 67.6% tier-share number, methodology, and replication after the Chapter 11 restructure.
 
 The *prayoga* audit calculates a *dhātu*'s reactivity from the distinct (*upasarga*, *pratyaya-class*) pairs that produce forms recorded in the reference Sanskrit corpus. The reference corpus is the Digital Corpus of Sanskrit (Hellwig, 2010–2024; CC BY 4.0), accessed through the `OliverHellwig/sanskrit` GitHub mirror at the 2026-05-18 commit; 15,900 CoNLL-U files; 1,007,361 VERB-tagged tokens; 3,839 unique bare *dhātavaḥ* found across the corpus. *Pratyaya*-class is normalized as a coarse approximation of the Pāṇinian *pratyaya* space — finite forms as the tuple (Tense, Mood, Voice) e.g. *fin:Pres+Ind+Act*; non-finite forms as the VerbForm value e.g. *nfin:Part*. The dictionary audit, run on a matched Monier-Williams / Apte subset of 121 *dhātavaḥ*, correlates with the *prayoga* audit at Spearman ρ = +0.6647. A future **śāstra audit** could count the affix-licensing space of the *Aṣṭādhyāyī* itself: not what the dictionaries list, and not what the parsed corpus happens to preserve, but the formal bonding space the grammar makes available. The full reproducibility bundle for the current audit — scripts, derived data, methodology, sensitivity tests — lives in `analysis/ganah/` with synthesis in `FINDINGS.md`. See the companion for sub-corpus extraction details, the Bhagavadgītā-not-in-DCS substitution note, and the Rāmāyaṇa-as-*smṛti*-epic decision.
 
@@ -5811,11 +5807,11 @@ The atom's **inherent vowel** — the vowel at its phonological nucleus — is a
 
 ### `dcs-vs-dhatupatha-count`
 
-**Short:** Ch 11 §11.5 percentages compute against the **3,839 distinct *dhātuḥ* labels visible in the Digital Corpus of Sanskrit**, not the **2,168 listed entries in the Dhātupāṭha**. The DCS surplus comes from variant readings, recension-specific entries, and items not listed in the *Dhātupāṭha*.
+**Short:** Appendix Part 6 distinguishes three units: **2,168 listed *Dhātupāṭha* entries**, the **138-atom Path A dictionary sample**, and **3,839 normalized verb lemmas produced by the Digital Corpus of Sanskrit parser**. These totals answer different questions and must not be presented as competing counts of one inventory.
 
-**Deployments:** Chapter 11 §11.5 — anchors the reactivity-tier denominator; Appendix Part 6 — explains the distinct datasets.
+**Deployments:** Appendix Part 6 opening and §6.3 — explains the distinct datasets and the Path C denominator.
 
-The two counts serve different purposes. The *Dhātupāṭha* is the listed inventory of 2,168 entries the Pāṇinian discipline treats as the atom-list. The Digital Corpus of Sanskrit, by contrast, parses 15,900 Sanskrit files and surfaces every *dhātuḥ* label actually deployed in those files, including variant readings, recension-specific labels, and items not listed in the *Dhātupāṭha*. The DCS count (3,839) is therefore the right denominator when the question is *how Sanskrit actually uses its atoms*; the listed 2,168 is the right denominator when the question is *what the Dhātupāṭha inventory lists*. The chapter uses the DCS count for the reactivity-tier breakdown because the tiers measure deployment.
+The *Dhātupāṭha* baseline counts listed entries. Path A estimates derivative reach within a selected 138-atom dictionary sample. Path C parses 15,900 Sanskrit files and counts normalized verb lemmas, including derived lemmas such as causatives that are not separate *Dhātupāṭha* entries. It then calculates the combinations of prefix and grammatical form-class recorded for each lemma. The Path C count of 3,839 is therefore the denominator for the corpus reactivity tiers; the listed 2,168 remains the denominator for claims about the *Dhātupāṭha* inventory.
 
 Sources: `analysis/ganah/data/derived/path_c_valency.csv` (DCS *dhātuḥ* labels, with per-label valency); `analysis/dhatupatha/data/derived/template_distribution.csv` (listed 2,168 inventory).
 
@@ -5825,7 +5821,7 @@ Sources: `analysis/ganah/data/derived/path_c_valency.csv` (DCS *dhātuḥ* label
 
 **Short:** The hyper-reactive polyvalent core is not an artifact of one corpus: the nine reference high-valency *dhātavaḥ* recur across *śruti* and *smṛti* sub-corpora, with genre-specific atoms entering only at the edges.
 
-**Deployments:** Chapter 11 §11.6 — anchors the cross-corpus continuity claim.
+**Deployments:** Appendix Part 6 §6.3 — anchors the cross-corpus continuity claim after the Chapter 11 restructure.
 
 The hyper-reactive polyvalent core is invariant across the *śruti* / *smṛti* design-purpose split. The cross-corpus portion of the *prayoga* audit compared four DCS sub-corpora — Ṛgveda (*śruti*, 1,028 CoNLL-U files), Atharvaveda Śaunaka (*śruti*, 519 files), Mahābhārata (*smṛti*, 1,995 files), Rāmāyaṇa (*smṛti*, 606 files) — on per-sub-corpus valency. The nine reference polyvalent atoms (*kṛ, bhū, sthā, gam, jñā, dā, dhā, nī, hṛ*) are 9/9 visible in every sub-corpus; the *smṛti* corpora include the full reference set in their top-20 lists; the *śruti* corpora include six of nine in their top-20 lists, with ritual-specific atoms (*vah, yam, bhṛ, cakṣ*) substituting in the *śruti* top tier. Sub-corpus-vs-full-corpus Spearman ρ: Ṛgveda +0.6710, Atharvaveda +0.7027, Mahābhārata +0.8636, Rāmāyaṇa +0.8064. Pairwise: *śruti* × *śruti* +0.7229; *smṛti* × *smṛti* +0.8700; cross-style +0.46–0.57. Note: the original corpus brief named the Bhagavadgītā as the *smṛti* exemplar; the DCS Mahābhārata excises the standard BhG range (book six, chapters 23–40), so Rāmāyaṇa substitutes as the *smṛti* epic; the structural test is unaffected. See the companion `analysis/ganah/data/derived/cross_corpus_comparison.txt` for the full per-sub-corpus tables.
 
@@ -6273,7 +6269,9 @@ The data-side reason for choosing *kṛ* is strong. In the Path C usage audit, *
 
 **Short:** **⟪ह्लाद्⟫ (*hlād*)** is the lower-reactivity contrast atom for ⟪कृ⟫ (*kṛ*). The contrast prevents the argument from implying that every *dhātuḥ* behaves like the most reactive atom in the corpus.
 
-**Deployments:** Chapter 12 §12.3.
+**Status:** Parked after the Chapter 12 Vedic-breadth rewrite.
+
+**Deployments:** No current body deployment. The pre-rewrite passage remains in `working/40_reference/source_material/ch12_pre_vedic_breadth_rewrite_2026-08-20.md`.
 
 In the current joined dataset, *hlād* belongs to the **hrādādi / CCV2C** scaffold, sits at **3.5 mātrās**, and has low Path C deployment: valency **3**, token count **4**. That makes it useful as a foil: Sanskrit's bonding procedure handles both highly reactive atoms and specialized atoms.
 
@@ -6503,11 +6501,13 @@ Chapter 6 uses the case for its inferential structure. A small and heterogeneous
 
 ### `rahu-manthana-svarbhanu-layering`
 
-**Short:** [TBD: Citation+Context] The Vedic Svarbhānu (RV 5.40) and the churning-thief beheaded at the amṛta-distribution are one figure across the textual layers; Rāhu is the later name of the severed head.
+**Short:** *Bhāgavata Purāṇa* 8.9.24 calls the nectar thief Svarbhānu; 8.9.25–26 says Hari severed his head, which became immortal and was established as the eclipse-*graha*. *Mahābhārata* Ādi Parva 1.17.5–8 tells the same episode under the name Rāhu and says Rāhu's head continues to seize the Sun and Moon.
 
 **Deployments:** Epilogue, *Where the Nectar Rises* ¶3.
 
-The book's eclipse spine runs on the Vedic layer: Svarbhānu the asura pierces Sūrya with darkness (RV 5.40.5), and the Atris restore the Sun (RV 5.40.6, 5.40.8). The itihāsa-Purāṇic layer supplies the origin-mechanism the Epilogue deploys: at the amṛta-distribution the asura slips into the deva row, drinks, and is severed; the undying head persists as Rāhu, the eclipse-device. The Mahābhārata identifies the churning-thief with Svarbhānu by name and epithet, and the later astronomical tradition treats Rāhu and Ketu as the severed head and trunk. The layering is deliberate in the book: the Vedic name for the attacker, the Purāṇic name for the device, one figure across the layers. [VERIFY before print: the Mahābhārata locus identifying the churning-asura as Svarbhānu, and the Purāṇic loci for the Rāhu naming.]
+The book's eclipse spine begins with the Vedic account: Svarbhānu the *asura* pierces Sūrya with darkness in RV 5.40.5, and the Atris restore the Sun in RV 5.40.6 and 5.40.8. The *Bhāgavata Purāṇa* supplies the direct name-bridge to the nectar episode. At 8.9.24, **स्वर्भानुः (*svarbhānuḥ*)** disguises himself as a *deva*, enters their row, and drinks while the Sun and Moon expose him. Verses 8.9.25–26 say that Hari severs his head, the body falls, and the immortal head is established as the eclipse-*graha* that pursues the Sun and Moon. *Mahābhārata* Ādi Parva 1.17.5–8 tells the same episode under the name **राहुः (*rāhuḥ*)**: the Sun and Moon identify him, Viṣṇu severs his head, and the head continues to seize them. The two accounts together connect Svarbhānu with Rāhu without requiring the *Mahābhārata* itself to call the intruder Svarbhānu.
+
+Sources: *Bhāgavata Purāṇa* 8.9.24–26, Sanskrit text at <https://srimadbhagavatam.org/downloads/SB-Sanskrit/SB-Sanskrit8.html>; *Mahābhārata*, BORI critical edition, Ādi Parva 1.17.5–8, including 1.17.6 at <https://vedapath.app/hi/mahabharata-bori/adi-parva/17/6>.
 
 ---
 

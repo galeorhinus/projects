@@ -36,7 +36,7 @@ The pyramid has been churning for two centuries, mostly with hands lower in its 
 
 The civilization that bore that poison for a century and a half became the **नीलकण्ठ (*nīlakaṇṭha*)** of this churning. The poison stopped at the throat. It never reached the heart.
 
-In the story, Svarbhānu slipped into the ranks of the *devas* at the distribution and drank. The stolen sip cost him his body: the severed head persists, undying, as Rāhu — the eclipse-device at the spine of this book.[NOTE: rahu-manthana-svarbhanu-layering]
+The *Bhāgavata Purāṇa* calls the intruder Svarbhānu. He slipped into the ranks of the *devāḥ* at the distribution and drank. Hari severed his head, but the stolen sip had made it undying. The *Mahābhārata* tells the same episode under the name Rāhu, the severed head that continues to seize the Sun and Moon. Rāhu becomes the eclipse-device at the spine of this book.[NOTE: rahu-manthana-svarbhanu-layering]
 
 The pyramid repeated that pattern. It drank one stolen sip of Sanskrit's nectar — the calibrant's own data, the correspondences only Sanskrit made legible — and from that sip it made PIE: a head without a body, an ancestor made immortal precisely because it was never alive enough to die. *Amṛta* carried across the line does not enlighten the *asura*; it becomes an eclipse that shadows Sanskrit's radiance.
 
