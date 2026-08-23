@@ -1,9 +1,27 @@
-# Chapter 2 Rewrite Plan — *Category Theft and Āsurī Māyā*
+# Calibrant Order — Rewrite Plan
 
-**Created:** 2026-08-23
-**Status:** plan, not yet executed
+**Created:** 2026-08-23 (as the Ch 2 rewrite plan; rescoped 2026-08-23)
+**Status:** plan, not yet executed. No manuscript edits made.
+**Scope:** rewrite Chapter 2, then carry the calibrant-order claim through Chapters 13–16, plus two cross-cutting fixes.
+**Origin:** a working session that began with "Figure 2.2 says Arabic and Hebrew have low generativity — is that false?" and ended at the book's thesis.
+
+## Why this is one plan and not two
+
+Chapter 2 cannot be fixed on its own. Its defect is that it reaches for **generativity** as Sanskrit's differentiator, because the real differentiator — an invariant calibrant — is established nowhere the chapter can point to. Chapters 13 through 16 do the work but never draw the conclusion, and Chapter 15, which holds the proof, barely uses the word.
+
+So the rewrite has two halves that depend on each other. Ch 2 lays a claim it does not prove. Chs 13–16 supply the proof and must be edited to say that is what they are doing.
+
+| Part | Covers |
+|---|---|
+| **A** | Chapter 2 rewrite — §§1–14 below |
+| **B** | Chapters 13–16 — the calibrant through-line — §15 |
+| **C** | Cross-cutting fixes — §16 |
+
+---
+
+# PART A — CHAPTER 2
+
 **Current chapter:** `manuscript/as_1_02_botanical.md` — 9 sections, 3 figures, ~4,785 words
-**Origin:** a working session that began with "Figure 2.2 says Arabic and Hebrew have low generativity — is that false?" and ended at the chapter's purpose.
 
 ---
 
@@ -335,13 +353,29 @@ The chapter's evidentiary spine. **Grammar and corpus held constant across all f
 
 #### 2.5 Invariance by Calibration — **NEW**
 
-- The Vedas bind the language as *śruti*: exact reproduction, obligatory, checked.
-- **Invariance** — defeating *asat* requires knowledge of the past; a record that drifts cannot be used to detect a lie told about it.
-- **Calibration** — *sat* is what **is**, not what was decreed. An authorized standard is invariant while its authority holds and by its leave; a calibrant is checkable by anyone and ownable by no one.
-- Two bindings exist. Both produce invariance.
-- **HARD STOP.** Do not write, or paraphrase, *"calibration makes the apex unnecessary."* That is §3.5. Forward-point to Ch 14 for the machinery.
+**Ch 2 lays this claim. It does not prove it.** The proof is Chs 13–16, and this section forward-points there. Keeping it short also protects the chapter's word budget.
 
----
+**The distinction the section turns on: a document you can consult is not a calibrant.**
+
+Tamil and Sanskrit both had a grammar *and* a corpus — the *Tolkāppiyam* and Sangam, the *Aṣṭādhyāyī* and the Vedas. Both had documents to refer to. So possession of a reference is not the variable either, and the section must say so before it can name what is.
+
+What separates them is the **binding relation**. Sangam was a text that could be consulted by whoever held a manuscript — and eventually almost nobody did, which is why it had to be recovered. The Vedas were recited continuously, by obligation, against an invariant standard, with deviation detectable as it occurred. One corpus was **available**; the other was **binding**.
+
+A calibrant therefore requires two properties, and the section names both:
+
+1. **Invariant** — it cannot itself move, or it cannot serve as a reference.
+2. **Continuously checked against** — consultation is optional; calibration is not.
+
+Then the two halves of the thesis:
+
+- **Invariance** — defeating *asat* requires knowledge of the past. A record that drifts cannot be used to detect a lie told about it.
+- **Calibration** — *sat* is what **is**, not what was decreed. An authorized standard is invariant while its authority holds and by its leave; a calibrant is checkable by anyone and ownable by no one.
+
+Two bindings exist — calibration and authority. Both produce invariance.
+
+**Forward-point explicitly:** Ch 13 for why writing was insufficient and what "calibrated, not codified" means; Ch 14 for the calibration matrix and the control cases; Ch 15 for the *pāṭha* system and the empirical verification; Ch 16 for how the Veda calibrates *laukika* Sanskrit.
+
+**HARD STOP.** Do not write, or paraphrase, *"calibration makes the apex unnecessary."* That is §3.5.
 
 ### MOVEMENT FOUR — THE THEFT
 
@@ -418,3 +452,82 @@ Botanical drops from 27% of the chapter to roughly 9%, which matches its actual 
 ### 14.3 Ordering rationale
 
 Tamil eliminates *"Sanskrit had a grammar"* using a subcontinental peer, which keeps the comparison clear of the manufactured Tamil–Sanskrit antagonism. Latin eliminates it again from the European side. Arabic eliminates *"only Sanskrit resisted change."* By §2.4 the reader has watched two explanations fail and holds a real puzzle — which is why the taxonomy in §2.2 reads as an instrument rather than an assertion, and why the theft in §2.7 reads as an explanation rather than a complaint.
+
+---
+
+# PART B — CHAPTERS 13–16: THE CALIBRANT THROUGH-LINE
+
+## 15. What the audit found
+
+Ch 2 will forward-point to these four chapters as the proof. Three of them make the calibrant claim explicitly. One does not — and it is the one holding the evidence.
+
+| | "calibrant" | "saṃskṛti" | proof/demonstrate | State |
+|---|---:|---:|---:|---|
+| **Ch 13** Preservation | 10 | 1 | 0 | ✓ §13.5 is titled ***Calibrated*, Not *Codified*** |
+| **Ch 14** The Calibration Matrix | 13 | 2 | 0 | ✓ chapter named for it; §14.6 *Control Cases: Codification by Authority* |
+| **Ch 15** Aural Architecture | **1** | **0** | 0 | ✗ **the gap** |
+| **Ch 16** One Architecture, Two Domains | 8 | 1 | 3 | ✓ §16.8 *How the Veda Calibrates Laukika Sanskrit* |
+
+### 15.1 Chapter 15 is the gap, in the worst possible place
+
+Ch 15 holds the **proof** and never says so. Its single use of the word is one clause — *"the audible constancy that makes the Veda as a calibrant"* — which is also ungrammatical as written.
+
+**§15.3 Combinatorial Re-encoding** already frames the mechanism correctly: *"Error-detecting systems add planned redundancy so that a changed item disturbs several relationships rather than one. The* pāṭhas *apply a comparable principle."*
+
+**§15.4 Empirical Verification** then states what may be the strongest single fact in the book:
+
+> "Vedic recitation continues in geographically separated lineages across Kerala, Maharashtra, Tamil Nadu, Karnataka, the northern plains, Gujarat, Rajasthan, and Kashmir. **No central institution coordinated** all…"
+
+Separated lineages, no coordinating authority, recitations that still match. **That is the experiment demonstrating invariance without an apex** — calibrant order proved rather than asserted. The section currently presents it as evidence that the recitation systems are real.
+
+**Actions for Ch 15:**
+
+1. Name what §15.3 and §15.4 jointly establish: not merely that the *pāṭhas* work, but that **a calibrant can hold a corpus invariant across separated lineages with no coordinating authority.**
+2. Repair the §15.4 return link. §14.6 points forward to Ch 15; §15.4 points back at nothing, so the control case and its result sit in different chapters unconnected.
+3. Fix the ungrammatical clause at line 91.
+4. Ch 15 is where Ch 2's forward-pointer lands hardest. It must be able to receive it.
+
+### 15.2 Two gaps common to all four
+
+**No proof-of-architecture framing.** "Proof" and "demonstrate" appear 0, 0, 0, and 3 times across the block. Each chapter performs calibration; none steps back to say *this is what a calibrant architecture is, and this is the demonstration.* Ch 2 will now promise exactly that, so at least one of the four — Ch 16 is the natural closer — has to deliver it.
+
+***Saṃskṛti* is effectively absent** — 1, 2, 0, 1. The block establishes the Vedas as calibrant **for the language only**. Ch 0 §0.7 claims both — *"The Vedas act as a calibrant for both Sanskrit and* saṃskṛti*"* — and Ch 18 §18.7 restates it as a refrain — *"The Vedas remain the calibrant for Sanskrit and* saṃskṛti*."* Between those two points, eighteen chapters apart, the civilizational half is never carried.
+
+That is the half that makes this a Second Shanti argument rather than a linguistics argument. **Ch 14 is the natural home**, and §14.6 *Control Cases: Codification by Authority* is already sitting on the comparison this session developed.
+
+### 15.3 Chapter-by-chapter actions
+
+| Chapter | Action |
+|---|---|
+| **Ch 13** | Light. §13.5 already carries *Calibrated, Not Codified*. Confirm it reads as receiving Ch 2's claim rather than introducing the idea cold. |
+| **Ch 14** | Add the *saṃskṛti* half. Extend §14.6's control cases with the Tamil, Latin, and Arabic material developed this session — the chapter already has the frame and only lacks the cases. |
+| **Ch 15** | The real work. See §15.1. |
+| **Ch 16** | Add the proof-of-architecture statement. It already has the highest demonstrate-count and §16.8 is titled for it, so it is the natural place to close the argument Ch 2 opened. |
+
+### 15.4 Sequencing note
+
+Part B should be drafted **before or alongside** Ch 2's §2.5, not after. Ch 2 forward-points to specific sections; if those sections move or are renamed during Part B, the pointers break. Fix the destinations first, then aim at them.
+
+---
+
+# PART C — CROSS-CUTTING
+
+## 16. Two fixes discovered during this work
+
+### 16.1 Figure 4.4's title conceded the frame — **DONE 2026-08-23**
+
+It read *"Pyramid and Swastika: Two Architectures of **Authority**."* The Preface says *"two architectures of **order**."*
+
+*Order* is right. *Authority* is specifically wrong on the calibrant side, whose entire claim is that it does **not** run on authority — so the title hands back the thing the figure exists to deny. The caption body already knows better: *"the swastika architecture transmits, tests, and corrects through society itself."*
+
+**Fixed by the author 2026-08-23** — Figure 4.4's title now reads *Two Architectures of Order*. Remaining: confirm the Preface and Epilogue use the same phrase, so one formulation carries the thesis in every deployment and a reader can trace it.
+
+### 16.2 Chapter 2 never connects to the book's own frame
+
+`two architectures of order` appears in the Preface (line 45) and the Epilogue (line 101), and is developed in Ch 1, Ch 3, Ch 4, Ch 14, Ch 18, and App 1. **Ch 2 has zero occurrences** — despite being the one chapter that puts Sanskrit, Arabic, Hebrew, Latin, and Greek on a single chart.
+
+The Preface states it almost exactly as this session arrived at it:
+
+> "The conflict in this book is between two architectures of order. One creates order through calibration; the other imposes order from an apex. A calibrant order places an invariant standard where everyone can reach it and no apex can own it… the asuric pyramid encloses knowledge, controls access, places an apex above everyone else, and turns correction into obedience."
+
+So the frame was never missing. Ch 2 simply never reaches for it, which is why it reached for generativity instead.

@@ -234,7 +234,7 @@ A system that displays दिव्यता (*divyatā*) and preserves लो�
 
 **सनातन (*Sanātan*)** is the name the civilization gives to the engineered Sanskrit architecture, recognizing it as integral, perpetual, and the very ground on which civilization continues. Because the *Vedas* preserve the system as a calibration matrix against entropy, the *pāṭha* discipline encodes the calibration with engineered redundancy, and *Vyākaraṇam* makes the internal operations explicit, this architecture has always existed—and its continuous use is the empirical fact at the center of this book.
 
-![Figure 4.4 — Pyramid and Swastika: Two Architectures of Authority. The pyramid authorizes from above; the swastika architecture transmits, tests, and corrects through society itself.](figures/fourth_abrahamic/pyramid_and_swastika.svg){#fig:ch4-pyramid-swastika width=100%}
+![Figure 4.4 — Pyramid and Swastika: Two Architectures of Order. The pyramid authorizes from above; the swastika architecture transmits, tests, and corrects through society itself.](figures/fourth_abrahamic/pyramid_and_swastika.svg){#fig:ch4-pyramid-swastika width=100%}
 
 The fourth Abrahamic religion is the institutional formation that has tried to absorb, contain, or overwrite that architecture. Earlier formations did it through military and administrative power. The fourth does it through academic, cultural, legal, and developmental power. The vocabulary has secularized. The structural project has not.
 
