@@ -3995,7 +3995,7 @@ Standard references: A. R. Yegorova, *The Sindhi Language* (Nauka, Moscow, 1971,
 
 ### `tamil-zha-retroflex-approximant`
 
-**Short:** Tamil's **ழ** (*ḻ*) is a retroflex central approximant, distinct from both the retroflex lateral **ள** (*ḷ*) and the alveolar trill **ற** (*ṟ*). Sanskrit's architecture does not select it, so it is not a sonance and holds no place in the *varṇamālā*. Malayalam preserves the cognate **ഴ**; the word *tamiḻ* ends in the sound.
+**Short:** Tamil's **ழ** (*ḻ*) is a retroflex central approximant, distinct from both the retroflex lateral **ள** (*ḷ*) and the alveolar trill **ற** (*ṟ*). Sanskrit's architecture does not select it, so it is not a sonance and holds no place in the *varṇamālā*. Malayalam preserves the cognate sound, written with its own letter; the word *tamiḻ* ends in it.
 
 **Deployments:** Chapter 9 §9.11 — the citation anchor for Tamil's retroflex central approximant ழ, listed among the articulations the subcontinental mouth produces that Sanskrit's grid does not select.
 
@@ -4007,7 +4007,7 @@ Tamil distinguishes three liquid sounds in the retroflex and alveolar region whe
 
 The three-way contrast is phonemic: Tamil speakers distinguish words by it, and Tamil orthography preserves separate characters for each.
 
-**ழ** is the sound that closes the language's own name, தமிழ் (*tamiḻ*). Malayalam preserves the cognate **ഴ**. The sound is characteristic of the Tamil–Malayalam region and is frequently identified as one of its distinguishing articulations.
+**ழ** is the sound that closes the language's own name, தமிழ் (*tamiḻ*). Malayalam preserves the cognate sound, written with its own letter. The sound is characteristic of the Tamil–Malayalam region and is frequently identified as one of its distinguishing articulations.
 
 The entry matters to Chapter 8's coverage surveys, which run in one direction: they count how many of Sanskrit's 23 base cells the comparison languages fill. The southern survey records Tamil, Toda, and Kurukh together filling twenty-two, leaving **श** unfilled. **ழ** runs the other way — a Tamil phoneme with no Sanskrit counterpart. Neither fact weakens the other. Chapter 8 establishes that the subcontinental superset is the inventory Sanskrit selected its sonances *from*, and §9.11 explains why selection leaves articulations outside the grid: every additional independent consonant would multiply through the vowel row and create obligations across recitation, combination, and transmission.
 

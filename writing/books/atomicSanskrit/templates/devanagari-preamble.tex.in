@@ -53,6 +53,11 @@
 \newfontfamily{\oldpersianfont}{Noto Sans Old Persian}
 \newfontfamily{\gothicfont}{Noto Sans Gothic}
 \newfontfamily{\avestanfont}{Noto Sans Avestan}
+% Brāhmī (U+11000–U+1107F). Added 2026-08-22: the Prakrit forms quoted from
+% the pyramid's own descent chain in the gaya-gavi endnote are written in
+% Brāhmī, and without this they fell through to EB Garamond and vanished from
+% the PDF as "Missing character" warnings rather than an error.
+\newfontfamily{\brahmifont}{Noto Sans Brahmi}
 % Symbol / Latin-Extended fallback for arrows, subscripts, modifier letters,
 % IAST diacritics Charter lacks (ē, ʷ, ʾ, ḱ, ẓ, →, ←, ₁, ₂, μ, τ, ρ, etc.).
 % DejaVu Sans chosen for breadth of Unicode coverage, an OFL license, and

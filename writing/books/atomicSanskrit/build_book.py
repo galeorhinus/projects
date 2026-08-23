@@ -230,6 +230,10 @@ SCRIPT_WRAPS: list[tuple[str, re.Pattern]] = [
     (r"\gothicfont",      re.compile(r"[\U00010330-\U0001034F]+")),
     # Avestan (Indo-Iranian comparisons)
     (r"\avestanfont",     re.compile(r"[\U00010B00-\U00010B3F]+")),
+    # Brāhmī — the Prakrit forms quoted from the pyramid's descent chain in
+    # the gaya-gavi endnote. Without a wrap these reach xelatex as ordinary
+    # body text and EB Garamond drops them with only a warning.
+    (r"\brahmifont",      re.compile(r"[\U00011000-\U0001107F]+")),
     # Stragglers — specific characters Charter Roman lacks. Kept narrow so
     # that common IAST diacritics Charter does carry (ṃ ṛ ṣ ā ī ū ḥ ñ ṅ etc.)
     # are NOT switched mid-word — that would look jarring against the Charter
@@ -255,12 +259,45 @@ def wrap_scripts_for_latex(md_text: str) -> str:
     """Wrap every non-Latin script run in raw-LaTeX `{\\<fontname> …}`.
     Applied during assembly so the rendered PDF has unconditional font
     selection regardless of surrounding TeX context."""
+    fired: set[str] = set()
     for font_cmd, pattern in SCRIPT_WRAPS:
-        md_text = pattern.sub(
+        md_text, n = pattern.subn(
             lambda m, _f=font_cmd: f"`{{{_f} {m.group(0)}}}`{{=latex}}",
             md_text,
         )
+        if n:
+            fired.add(font_cmd)
+    _assert_script_fonts_declared(fired)
     return md_text
+
+
+def _assert_script_fonts_declared(fired: set[str]) -> None:
+    """Fail at assembly time if a script wrap emits a font macro the preamble
+    never defines.
+
+    This list and the \\newfontfamily block in
+    templates/devanagari-preamble.tex.in have to stay in step, and nothing
+    enforced that. On 2026-08-10 the Kannada and Malayalam families were
+    dropped from the preamble because the manuscript contained neither script,
+    while their SCRIPT_WRAPS entries stayed. A single Malayalam character
+    added to an endnote months later therefore emitted \\malayalamfont with
+    no definition behind it, and xelatex failed 619 pages in with
+    "Undefined control sequence" — which points at the symptom, not at the
+    two files that disagree. Catch it here instead, before pandoc runs.
+    """
+    declared = set(
+        re.findall(r"\\newfontfamily\{(\\[a-z]+font)\}", PREAMBLE_TEMPLATE.read_text())
+    )
+    missing = sorted(f for f in fired if f not in declared)
+    if missing:
+        raise SystemExit(
+            "Script font(s) used by the manuscript but not declared in\n"
+            f"  {PREAMBLE_TEMPLATE.relative_to(BOOK_DIR)}:\n"
+            + "".join(f"    {f}\n" for f in missing)
+            + "Either add a \\newfontfamily line for each (and confirm the face is\n"
+            "installed on every build host), or remove the characters that triggered\n"
+            "them. Ranges are listed in SCRIPT_WRAPS in this file."
+        )
 
 
 PDF_IMAGE_RE = re.compile(r"(!\[[^\]]*\]\()([^)\s]+\.(?:svg|png))(\)(?:\{[^}\n]*\})?)")
