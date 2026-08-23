@@ -735,7 +735,15 @@ def make_stub(title: str, summary: str) -> str:
 def cmd_stubs(force: bool = False) -> int:
     created, skipped = 0, 0
     for fname, info in STUB_FILES.items():
-        path = BOOK_DIR / fname
+        # Manuscript prose has lived in manuscript/ since the 2026-08-17
+        # reorg, and this resolution was never updated. Against BOOK_DIR the
+        # existence check missed the real chapter every time, so `stubs` wrote
+        # a "NOT YET DRAFTED" placeholder at the repo root for three chapters
+        # that were long since finished — 400, 187, and 217 lines. Nothing
+        # downstream read them, because as_book.yaml's assembly entries are
+        # directory-qualified, but the build left three misleading files in
+        # the working tree on every run.
+        path = BOOK_DIR / "manuscript" / fname
         if path.exists() and not force:
             print(f"  skip   {fname}")
             skipped += 1
