@@ -179,7 +179,7 @@ The **ऌ** family has a one-*mātrā* form and allows *pluta*, but Sanskrit doe
 
 The figure marks forms that Sanskrit does not permit for general reuse. **Restricted** means that Sanskrit uses the form only under stated conditions. **Lineage-Bounded** means that named Vedic lineages preserve it in specific passages. **Excluded** means that the form receives no reusable vowel address. An unmarked form belongs to the general inventory.[NOTE: svara-restricted-and-lineage-bounded-use]
 
-![Figure 9.9 — Svara Duration by Permission. The one-*mātrā*, two-*mātrā*, and three-*mātrā* columns run against the nine *svara* families. Each cell reads General inventory unless marked Restricted, Lineage-Bounded (LB), or Excluded.](figures/mapping_mouth/mapping_mouth_svara_permission_rails_single.svg){#fig:ch9-svara-permission-rails width=100%}
+![Figure 9.9 — Svara Duration by Permission. The one-*mātrā*, two-*mātrā*, and three-*mātrā* columns run against the nine *svara* families. A bare check marks the general inventory; a check in a circle, a form restricted to stated environments; a check in a dashed box, a form the recitation lineages preserve exactly but *laukika* composition cannot select; a cross, a form Sanskrit does not select.](figures/mapping_mouth/mapping_mouth_svara_permission_rails_single.svg){#fig:ch9-svara-permission-rails width=100%}
 
 The numeral **३** tells the reciter to sustain the vowel for three *mātrās*. Thus **ओ३** is **ओ** extended to three counts. Sanskrit uses these *pluta* forms only under stated conditions, so the figure marks them **Restricted**. The extra duration does not create another vowel family.
 
