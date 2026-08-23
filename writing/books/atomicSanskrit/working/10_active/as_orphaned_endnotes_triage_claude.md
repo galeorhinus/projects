@@ -1,21 +1,21 @@
 # Orphaned Endnotes — Triage
 
 **Created:** 2026-08-22
-**Status:** Category A resolved 2026-08-22. Three App-6 entries in Category D also
-resolved by the author in the same pass. A reachability test and a git dig then cut
-the open set from 33 to **12** — see *Second pass* below.
-**Scope:** the 39 stubs in `manuscript/as_endnotes.md` with no `[NOTE:]` marker anywhere in the manuscript
+**Status:** Complete 2026-08-22. Category A was repaired, reachable and intentionally
+parked entries were identified, and all twelve entries that required a decision were
+redeployed, merged, or retired. See *Second pass* through *Fourth pass* below.
+**Scope:** the audit began with 39 stubs in `manuscript/as_endnotes.md` that had no direct `[NOTE:]` marker in the manuscript
 
 ---
 
 ## Headline
 
-**356 stubs defined · 317 deployed · 39 orphaned · 0 markers missing a stub.**
+**356 stubs defined · 333 directly deployed · 23 without a direct body marker · 0 unresolved decisions · 0 live markers missing a stub.**
 
 Nothing is broken. A marker without a stub would break the build; there are none.
-The reverse is inert — an undeployed stub simply sits in the file. The only live
-consequence is the *Source and Reference Companion*, which draws from this file
-and would print entries nothing points to.
+Every entry without a direct body marker is now accounted for as reachable through
+another endnote, intentionally parked, or retired source material. The explanatory
+`[NOTE: stub-name]` example at the top of `as_endnotes.md` is not a live marker.
 
 **Not a creeping problem.** Traced through git history, the count accumulated in
 two bursts in June and has been essentially flat since:
@@ -61,10 +61,10 @@ Re-running the audit with a cross-reference test rather than a body-marker test:
 | `jones-1786-third-anniversary-discourse` | `jones-1786-anniversary-address` |
 | `rigveda-10-125-vak-ambhrini` | `rigveda-10-71-4-vach` |
 | `staal-mendeleev-varga-comparison` | `vyanjana-duration-shiksha` |
-| `western-linguistic-encounter-sanskrit-1786-1879` | Directly deployed in Appendix Part 3 §3.10 and reachable through `place-of-articulation-sanskrit-terms` |
+| `western-linguistic-encounter-sanskrit-1786-1879` | Directly deployed in Chapter 20 §20.2 and reachable through `place-of-articulation-sanskrit-terms` |
 | `yaska-deva-derivation` | `deva-sur-div-radiance-field` |
 
-This also settles four of the entries listed "not tested" in Category D. The remaining App 3 pair has now been redeployed in Appendix Part 3 §3.10, with `ipa-1886-founding-1888-chart` corrected and renamed `ipa-1886-1900-chart`.
+This also settles four of the entries listed "not tested" in Category D. The remaining pair has now been redeployed in Chapter 20 §20.2, with `ipa-1886-founding-1888-chart` corrected and renamed `ipa-1886-1900-chart`.
 
 ### 2. The Chapter 9 cluster — cause found, material recovered
 
@@ -126,17 +126,16 @@ reasons. Each now carries a machine-readable field, matching the format
 | ~~`pahari-tonal-features`~~ | — | **RETIRED** against the ledger |
 | ~~`punjabi-tonal-development`~~ | — | **RETIRED** against the ledger |
 | ~~`bengali-va-ba-merger`~~ | — | **RETIRED** against the ledger |
-| `architecture-not-analysis-pratisakhya` | Ch 9 §9.4 | Staal critique gone from Ch 9 |
-| `varnamala-grid-geometry` | Ch 9 §9.4 | needs a read — "grid" is ubiquitous |
-| `formants-source-filter-theory` | Ch 7 §7.5, Ch 9 §9.1 | "formant" appears nowhere in the manuscript |
-| ~~`history-of-linguistics-sanskrit-influence`~~ | App 3 §3.10 | **RESOLVED — redeployed in “The Pyramid Steals the Sonomer.”** |
-| ~~`ipa-1886-1900-chart`~~ | App 3 §3.10 | **RESOLVED — corrected and redeployed.** |
-| `sanskrit-field-52b-reach` | Ch 0 §0.3 | the 5.2-billion figure is gone |
-| `pratisakhya-bhashyam-chandasi` | Ch 17 §17.4 | topic absent |
-| `kailasa-temple-ellora-engineering` | — | no record; candidate for Ch 6 §6.1 beside Ta Prohm |
+| ~~`architecture-not-analysis-pratisakhya`~~ | Chapter 9 §9.4 | **RESOLVED — relinked to the passage distinguishing acoustic confirmation from architectural creation.** |
+| ~~`varnamala-grid-geometry`~~ | Chapter 9 §9.4 | **RESOLVED — relinked to the five anatomical distances.** |
+| ~~`formants-source-filter-theory`~~ | Chapter 9 §9.4 | **RESOLVED — relinked to the vocal-tract filtering explanation.** |
+| ~~`history-of-linguistics-sanskrit-influence`~~ | Chapter 20 §20.2 | **RESOLVED — redeployed in “The Pyramid Steals the Sonomer.”** |
+| ~~`ipa-1886-1900-chart`~~ | Chapter 20 §20.2 | **RESOLVED — corrected and redeployed.** |
+| ~~`sanskrit-field-52b-reach`~~ | Chapter 0 §0.3 | **RESOLVED — retired; source material archived in `working/40_reference/source_material/sanskrit_52b_reach_retired_endnote.md`.** |
+| ~~`pratisakhya-bhashyam-chandasi`~~ | Chapter 9 §9.10 | **RESOLVED — retired and merged into `agnimile-rigveda-opening`, which cites the exact *Ṛgveda-Prātiśākhya* 1.11–12 rule.** |
+| ~~`kailasa-temple-ellora-engineering`~~ | Chapter 18 opening | **RESOLVED — relinked to the Kailasa architectural-test passage.** |
 
-Four are one decision (the TABLE 9.1 group). Two more are one decision (App 3 §3.8).
-So the twelve are really **seven** decisions.
+All twelve entries now have a recorded disposition.
 
 ---
 
@@ -189,6 +188,30 @@ All three now carry `**Status:** Retired 2026-08-22` with a pointer to the ledge
 material is not lost — the ledger holds the table in full.
 
 **Open: 12 → 8.**
+
+---
+
+## Fourth pass (2026-08-22) — the decision queue closed
+
+The remaining Chapter 9 notes were reattached to §9.4: `varnamala-grid-geometry`
+supports the anatomical spacing, `formants-source-filter-theory` supports the
+vocal-tract filtering explanation, and `architecture-not-analysis-pratisakhya`
+supports the distinction between modern confirmation and architectural creation.
+
+The two history-of-linguistics notes now support Chapter 20 §20.2. The older
+`pratisakhya-bhashyam-chandasi` note was superseded by
+`agnimile-rigveda-opening`, which quotes the exact *Ṛgveda-Prātiśākhya* 1.11–12
+rule. `kailasa-temple-ellora-engineering` now supports the opening architectural
+test in Chapter 18.
+
+The final undecided entry, `sanskrit-field-52b-reach`, was retired. Chapter 0 now
+demonstrates Sanskrit's reach through evidence already available to the reader.
+The aggregate depended on the Radiance Thesis before the book had established it,
+combined overlapping populations, and treated residence within a transmission
+zone as evidence of Sanskrit's reach. Its source material is preserved in
+`working/40_reference/source_material/sanskrit_52b_reach_retired_endnote.md`.
+
+**Open: 8 → 0.**
 
 ---
 
@@ -292,24 +315,24 @@ before deciding, since some claims may have survived in reworded form.
 
 | Stub | Claimed target | Topic now in that section? |
 |---|---|---|
-| `architecture-not-analysis-pratisakhya` | Ch 9 §9.4 | no — Staal critique absent |
+| ~~`architecture-not-analysis-pratisakhya`~~ | Chapter 9 §9.4 | **RESOLVED — relinked.** |
 | `staal-mendeleev-varga-comparison` | Ch 9 §9.4 | no — Staal/Mendeleev absent |
-| `varnamala-grid-geometry` | Ch 9 §9.4 | unclear — "grid" is ubiquitous; needs a read |
+| ~~`varnamala-grid-geometry`~~ | Chapter 9 §9.4 | **RESOLVED — relinked.** |
 | `bengali-va-ba-merger` | Ch 9 §9.3 | no — Bengali absent |
 | `south-indian-mahaprana-loan-only` | Ch 9 §9.3 | no |
 | `pahari-tonal-features` | Ch 9 §9.5 | no — tone absent |
 | `punjabi-tonal-development` | Ch 9 §9.5 | no — tone absent |
-| `formants-source-filter-theory` | Ch 7 §7.5, Ch 9 §9.1 | no |
-| `sanskrit-field-52b-reach` | Ch 0 §0.3 | no — the 5.2-billion figure is gone |
+| ~~`formants-source-filter-theory`~~ | Chapter 9 §9.4 | **RESOLVED — relinked.** |
+| ~~`sanskrit-field-52b-reach`~~ | Chapter 0 §0.3 | **RESOLVED — retired and archived.** |
 | `yaska-deva-derivation` | Ch 0 §0.3 | no |
 | `rigveda-10-125-vak-ambhrini` | Preface | no — the "only men see" passage moved |
-| `pratisakhya-bhashyam-chandasi` | Ch 17 §17.4 | no |
+| ~~`pratisakhya-bhashyam-chandasi`~~ | Chapter 9 §9.10 | **RESOLVED — merged into `agnimile-rigveda-opening`.** |
 | `hlad-contrast-atom` | Ch 12 §12.3 | no — §12.3 is now "From *Śabda* to *Padam*"; the *hlād* contrast was cut in the Ch 12 rewrite |
 | ~~`dcs-vs-dhatupatha-count`~~ | Ch 11 §11.5 | **RESOLVED** — redeployed in App 6, as predicted; the reactivity tiers moved there from Ch 11 §11.5 |
 | ~~`cross-gana-column-distribution`~~ | App 6 §§6.2, 6.4 | **RESOLVED** — redeployed in App 6 |
 | ~~`generative-reach-inversion-natural-language`~~ | App 6 §6.3 | **RESOLVED** — redeployed in App 6 |
-| ~~`history-of-linguistics-sanskrit-influence`~~ | App 3 §3.10 | **RESOLVED** |
-| ~~`ipa-1886-1900-chart`~~ | App 3 §3.10 | **RESOLVED** |
+| ~~`history-of-linguistics-sanskrit-influence`~~ | Chapter 20 §20.2 | **RESOLVED** |
+| ~~`ipa-1886-1900-chart`~~ | Chapter 20 §20.2 | **RESOLVED** |
 | `jones-1786-third-anniversary-discourse` | App 3 §3.8, App 5 §5.8 | not tested |
 | `western-linguistic-encounter-sanskrit-1786-1879` | App 3 §3.8, App 5 §5.8 | not tested |
 

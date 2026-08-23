@@ -593,9 +593,6 @@ The temporal correlation with the broader civilizational moment deserves notice.
 
 This temporal coincidence is, on the structural account developed across Chapter 3 §3.5 and the present chapter, not coincidence. The architecture of containment set out in Chapter 3 has continued to shape routine reference, building outward through dictionaries, online resources, and college etymological style during exactly the period when the historical pillars (the racial Arya thesis, the Noachian chronology) were weakening and when alternative accounts of Sanskrit's depth were first becoming articulable. Chapter 4 identifies the formation that performs this institutional work: the *church of progress* — the academy as institutional carrier — applying its catechetical machinery to routine reference, with its *missionaries of progress* extending the doctrine into the territories where dharmic recovery is reaching, hardening the *progressive dogma* at the ecosystem level during exactly the window when alternatives are emerging. The third pillar — linear-progress teleology — does its heaviest defense work not in the contested high theory but in the everyday reference ecosystem the next generation of students, scholars, and engaged readers will inherit. Each PIE-anchored etymology, deployed casually in a search-engine result or a dictionary entry, hardens the ancestor account by exposure. The work is invisible because it is everywhere.
 
-<!-- AISWEEP-OLD
-The prosecutorial voice here is structural, not personal. The pattern is what an architecture of containment produces when its incentives coordinate action without conscious individual direction — ecosystem-level defense at exactly the points where alternatives are emerging. Individual lexicographers, Indo-Europeanists, and etymological-reference editors have made the choices they made for the reasons their disciplines authorize; the cumulative pattern is the perimeter the chapter's analysis predicts. The solidification of PIE in routine reference during the past quarter century is a single observable case of the architecture functioning as Chapter 2 described it.
-AISWEEP-END -->
 An architecture of containment coordinating action without conscious individual direction produces exactly this pattern — ecosystem-level defense at the points where alternatives are emerging — which is why the prosecution here is structural rather than personal. Individual lexicographers, Indo-Europeanists, and etymological-reference editors have made the choices they made for the reasons their disciplines authorize; the cumulative pattern is the blockade the chapter's analysis predicts. The solidification of PIE in routine reference during the past quarter century is a single observable case of the architecture functioning as Chapter 2 described it.
 
 ---
@@ -640,9 +637,6 @@ The phrase *missionaries of progress*, used in this chapter as a standing struct
 
 **Deployments:** Chapter 4 §4.4 ¶2 — the public-synthesis paragraph that cites ancient DNA, archaeology, and linguistic reconstruction as the outward-facing carrier of the migration story.
 
-<!-- AISWEEP-OLD
-The claim is structural, even where the writers are named. The named books are examples of a public-facing pathway by which the technical doctrine travels outward. David W. Anthony's *The Horse, the Wheel, and Language* gives the Pontic-Caspian / Yamnaya steppe account its widely cited archaeological book-form.
-AISWEEP-END -->
 The named books are examples of a public-facing pathway by which the technical doctrine travels outward — the claim stays structural even where the writers are named. David W. Anthony's *The Horse, the Wheel, and Language* gives the Pontic-Caspian / Yamnaya steppe account its widely cited archaeological book-form. David Reich's *Who We Are and How We Got Here* gives ancient DNA the prestige of a new scientific instrument and treats Indo-European expansion as one of the discipline's central explanatory cases. Tony Joseph's *Early Indians* brings the ancient-DNA and migration frame into Indian public discourse, presenting the softened migration account to a large English-reading Indian audience. Laura Spinney's *Proto: How One Ancient Language Went Global* synthesizes ancient DNA, archaeology, and linguistic reconstruction for a general readership in 2025.
 
 These books are not identical in genre, evidence, or responsibility. Anthony is the archaeological steppe synthesis; Reich is ancient DNA; Joseph is Indian public-history synthesis; Spinney is a recent general-reader PIE synthesis. Together they show the missionary function: PIE becomes a recoverable people-and-language package, the steppe becomes the source-zone, Sanskrit becomes a branch, and the racial Arya thesis survives in softer migration vocabulary. The note does not adjudicate every empirical claim in these works. It identifies the public-pedagogical operation by which the church's technical doctrine is transmitted beyond specialist journals into the ordinary reader's imagination.
@@ -745,9 +739,6 @@ The morphological grounding is documentable from Pāṇini's *Aṣṭādhyāyī*
 
 The asymmetry between the book's treatment of Indic and non-Indic dating requires a separate framing because the casual reader might otherwise read the position as a generalized skepticism of dating-as-such. It is not. The non-Indic chronologies the book cites — Schleicher's 1861 *Compendium*, Bopp's 1816 *Conjugationssystem*, Müller's *East India Company Ṛgveda* commission, the Boden chair endowment of 1832, the *Indogermanisches etymologisches Wörterbuch* of 1959 — are internal to traditions that record chronology without distortion. European philology kept its own minutes; the dates are part of the documentary record produced by the enterprise itself. Citing those dates does not import a hostile framework's interpretive judgments; it cites the framework's own self-record. The same applies to Greek, Roman, Arabic, Tibetan, Chinese, and Egyptian chronologies cited in the book: each is internal to a tradition whose internal documentary practices the book has no quarrel with.
 
-<!-- AISWEEP-OLD
-The mistrust is local and structural. It applies to the philological dating of Indic texts and figures because those datings were produced by the same nineteenth-century European-philological enterprise the book prosecutes across its central chapters.
-AISWEEP-END -->
 The mistrust applies to the philological dating of Indic texts and figures — local and structural, not generalized — because those datings were produced by the same nineteenth-century European-philological enterprise the book prosecutes across its central chapters. The dating is not neutral background; it is the framework's interpretive output — calibrated to produce the chronological sequence (Vedic → Pāṇinian → Classical → Prākṛta → modern Indic) that sustains the framework. To accept those dates is to accept the framework that produced them. The refusal is therefore not generalized but precisely targeted: it withholds assent from the one ecosystem the book is on trial against. The strategic argument (the position is *refusal*, not counter-construction) is developed in the Epilogue.
 
 ---
@@ -1777,9 +1768,6 @@ The full clause in context (Kielhorn's standard edition, *Mahābhāṣya* on Pā
 
 The force of the phrase — and which the *Preface* picks up — is precisely the *siddhe* (*established, accomplished*). The *vyākaraṇa* discipline is not in the business of inventing a relation between words and meanings; it begins from the premise that the relation is already given, already in use, already maintained across the lineage. The grammatical *śāstra* is regulatory, not constitutive. It governs correct usage of an already-existing system; it does not produce the system.
 
-<!-- AISWEEP-OLD
-The implication is structural. Patañjali's opening axiom asserts, at the foundational level of the *vyākaraṇa* discipline's self-description, that Sanskrit is a received language in continuing use whose word-meaning relations are not subjects of analysis but premises of it.
-AISWEEP-END -->
 Patañjali's opening axiom asserts, at the foundational level of the *vyākaraṇa* discipline's self-description, that Sanskrit is a received language in continuing use whose word-meaning relations are not subjects of analysis but premises of it. The engineering of the system is *not* the work of the *vaiyākaraṇāḥ*; they inherited the encoded system and decoded it. This is the same point the book makes across Chapter 1 §1.6 (*heroic erasure* and the pyramid's celebration of Pāṇini), Chapter 17, and the foundational chapters on the *varṇamālā* and *dhātupāṭha*: the named figures (Pāṇini, Patañjali, the *Prātiśākhya* compilers) are ***vaiyākaraṇāḥ*** (वैयाकरणाः) — *decoders*, *analysts*, *unfolders-apart* — not engineers. The axiom *siddhe śabdārthasambandhe* is the discipline's own statement of this distinction: the system was engineered upstream, encoded in the *Vedas*, and decoded by the *vaiyākaraṇāḥ* rather than manufactured by them.
 
 Source: Kielhorn's edition of the *Mahābhāṣya* (third edition revised by Abhyankar; Bhandarkar Oriental Research Institute, Pune), volume I, p. 6, opening of the *Paspaśāhnika*; standard scholarly references include S. D. Joshi and J. A. F. Roodbergen's translation-commentary series on the *Mahābhāṣya* (Sahitya Akademi / Pune University publications, 1968–2003).
@@ -1872,25 +1860,6 @@ Yāska's *Nirukta* 7.15 states: **देवो दानाद्वा। द�
 **Deployments:** Chapter 0 §0.5 (Sanātana Time) — the Vyāsa-vibhāga paragraph.
 
 The fullest telling is the *Viṣṇu Purāṇa*, Book III. Chapter 3 gives the general principle — in every Dvāpara age Viṣṇu, in the person of Vyāsa, divides the one Veda into four "to promote the good of mankind," fitting it to mortals of limited perseverance, energy, and application. Chapter 4 gives the division by the current Vyāsa, Kṛṣṇa Dvaipāyana, at the last Dvāpara: Paila taught the *Ṛgveda*, Vaiśampāyana the *Yajurveda*, Jaimini the *Sāmaveda*, and Sumantu the *Atharvaveda*. The *Bhāgavata Purāṇa* (Canto 12, ch. 6) preserves the same account and adds Romaharṣaṇa, the Sūta, receiving the *itihāsa-purāṇa*. The *Mahābhārata* frames Vyāsa as the arranger throughout; the epithet *Veda-vyāsa* denotes "the divider / arranger of the Veda." The division is arrangement for transmission, not authorship — consistent with the *apauruṣeyatva* of the Veda's content: the eternal *śabda* is arranged, never composed. Loci confirmed against Wilson's *Viṣṇu Purāṇa* (III.3–4) and the *Bhāgavata Purāṇa* (Canto 12.6).
-
----
-
-### `sanskrit-field-52b-reach`
-
-**Short:** Chapter 0's "more than 5.2 billion" estimate is an order-of-magnitude estimate of civilizational reach, not a census category: roughly two billion people in the Indian subcontinent plus more than three billion more in the Indo-European, Indo-Iranian, and Buddhist-transmission populations.
-
-**Deployments:** Chapter 0 §0.3 — the paragraph stating that Sanskrit reaches more than 5.2 billion people through its civilizational influence.
-
-<!-- AISWEEP-OLD
-The estimate is deliberately rough. It counts language communities and transmission zones, not first-language speakers of Sanskrit and not people consciously aware of Sanskrit's operation.
-AISWEEP-END -->
-The estimate counts language communities and transmission zones, deliberately rough — not first-language speakers of Sanskrit and not people consciously aware of Sanskrit's operation. The claim is civilizational and architectural: Sanskrit's civilizational reach includes (1) the Indian subcontinent, where Sanskrit remains the calibrant language of the civilization even when its recognition is obscured; (2) the Indo-Iranian and wider Indo-European language sphere, which this book reads as calibrated from Sanskrit rather than descended from an imaginary PIE ancestor; and (3) the Buddhist-transmission zone across Asia, where Sanskritic vocabulary, categories, scripts, phonetic habits, and conceptual architecture traveled through the Buddhist scholastic and ritual apparatus.
-
-The "roughly two billion" subcontinent figure comes from current population estimates for India, Pakistan, Bangladesh, Nepal, Sri Lanka, Afghanistan, Bhutan, and Maldives. The United Nations *World Population Prospects 2024* country table gives India at about 1.44 billion, Pakistan about 249 million, Bangladesh about 172 million, Afghanistan about 42 million, Nepal about 30 million, Sri Lanka about 22 million, with Bhutan and Maldives under one million each. Taken together, the subcontinental population is just under two billion by the UN 2024 table and just over two billion by current rolling estimates.
-
-The "more than three billion more" figure is also conservative. Ethnologue's public summary gives Indo-European as the largest language family by speaker count, with more than 3.3 billion speakers; Britannica locates Indo-European across Europe, areas of European settlement, much of the Indian subcontinent, and parts of Southwest Asia, and identifies Indo-Iranian as the largest language group in the Indian subcontinent. That Indo-European total overlaps the subcontinent, so the chapter does not simply add 3.3 billion to two billion. The additional reach comes from the non-subcontinental Indo-European world plus the Buddhist Asian transmission zone: China / the Sinitic sphere, Tibet, Korea, Japan, Vietnam, Thailand, Laos, Cambodia, Myanmar, Mongolia, and the wider Southeast Asian region. Britannica's Sino-Tibetan entry identifies the family as the world's second largest by speaker count and includes Chinese, Tibetan, Burmese, and Himalayan / Southeast Asian Tibeto-Burman distributions; its distribution discussion also notes that the Tibetan writing system derives from the "Indo-Aryan" / Indic writing systems. Austroasiatic, Tai-Kadai, Japonic, Koreanic, and Mongolic populations add the remaining Buddhist-transmission population. The combined estimate comfortably crosses 5.2 billion as a claim about the reach of contact, even after allowing for overlap.
-
-Sources: United Nations Department of Economic and Social Affairs, Population Division, *World Population Prospects 2024* (country estimates and projections; summary and dataset at https://www.un.org/development/desa/pd/world-population-prospects-2024 and https://population.un.org/wpp/); Ethnologue, "What is the largest language family?" (Indo-European over 3.3 billion speakers, https://www.ethnologue.com/faq/largest-language-family/); Encyclopaedia Britannica, "Indo-European languages" (distribution and Indo-Iranian / "Indo-Aryan" coverage, https://www.britannica.com/topic/Indo-European-languages); Encyclopaedia Britannica, "Sino-Tibetan languages" (distribution and Indic-derived Tibetan writing-system note, https://www.britannica.com/topic/Sino-Tibetan-languages).
 
 ---
 
@@ -3339,7 +3308,7 @@ Standard references: see endnote `staal-mendeleev-varga-comparison` for Staal's 
 
 **Short:** Five foundational works trace the European-philological encounter with Sanskrit grammar from 1786 through 1879 — Sir William Jones, "The Third Anniversary Discourse, on the Hindus" (Calcutta 1786; *Asiatic Researches* 1, 1788) → Friedrich Schlegel, *Über die Sprache und Weisheit der Indier* (Heidelberg, 1808) → Franz Bopp, *Über das Conjugationssystem der Sanskritsprache* (Frankfurt, 1816) → Otto von Böhtlingk, *Pâṇini's acht Bücher grammatischer Regeln* (Bonn, 1839–1840, first European critical edition of the *Aṣṭādhyāyī*) → William Dwight Whitney, *Sanskrit Grammar* (Leipzig / London, 1879) — followed by the phonetic association's founding in 1886, its first alphabet in 1888, and its first full chart in 1900.
 
-**Deployments:** Appendix Part 3 §3.10 — the consolidated citation anchor for the European encounter with Sanskrit across 1786–1879 before the first full IPA chart appeared in 1900.
+**Deployments:** Chapter 20 §20.2, “The Pyramid Steals the Sonomer” — the consolidated citation anchor for the European encounter with Sanskrit across 1786–1879 before the first full IPA chart appeared in 1900.
 
 Five foundational works shaped the European-philological encounter with Sanskrit grammar from Jones's 1786 Calcutta address through the end of the nineteenth century:
 
@@ -3361,7 +3330,7 @@ The chronological sequence in the body prose: 1786 (Jones / opening) → 1808 (S
 
 **Short:** Three foundational works of the early-19th-century comparative-philological project, positioning Sanskrit at the source position of Indo-European etymological chains: Franz Bopp, *Über das Conjugationssystem der Sanskritsprache* (Frankfurt, 1816); Franz Bopp, *Vergleichende Grammatik der Sanskrit-, Send-, Armenischen-, Griechischen-, Lateinischen-, Litauischen-, Altslavischen-, Gothischen- und Deutschen* (Berlin, 1833–1852, six fascicles); August Friedrich Pott, *Etymologische Forschungen auf dem Gebiete der indo-germanischen Sprachen* (Lemgo: Meyer, 1833–1836; expanded 1859–1876, five volumes). The post-1861 Schleicher inversion moved the anchor from Sanskrit to reconstructed PIE.
 
-**Deployments:** Chapter 19 §19.6 — the citation anchor for the early-19th-century comparative-philology works that positioned Sanskrit at the source position of Indo-European etymological chains, before the post-1861 Schleicher inversion moved the anchor from Sanskrit to the reconstructed proto-language. Appendix Part 3 §3.10 — the citation anchor for the generations of European philological engagement with Sanskrit before PIE, Esperanto, and the IPA.
+**Deployments:** Chapter 19 §19.6 — the citation anchor for the early-19th-century comparative-philology works that positioned Sanskrit at the source position of Indo-European etymological chains, before the post-1861 Schleicher inversion moved the anchor from Sanskrit to the reconstructed proto-language. Chapter 20 §20.2, “The Pyramid Steals the Sonomer” — the citation anchor for the generations of European philological engagement with Sanskrit before PIE, Esperanto, and the IPA.
 
 Three foundational works:
 
@@ -3379,7 +3348,7 @@ Through this entire early period (1816–1860), Sanskrit was treated as the sour
 
 **Short:** Sir William Jones, "The Third Anniversary Discourse, on the Hindus," delivered February 2, 1786 at the Asiatic Society in Calcutta, published *Asiatic Researches* 1 (1788): 415–431 — the founding statement of comparative philology: *"The Sanskrit language ... is of a wonderful structure; more perfect than the Greek, more copious than the Latin, and more exquisitely refined than either ... no philologer could examine them all three, without believing them to have sprung from some common source, which, perhaps, no longer exists."* Opens the European-philological project that across the long 19th century absorbed Sanskrit grammatical analysis into the machinery that became the IPA framework.
 
-**Deployments:** Appendix Part 3 §3.10 — supporting reference for William Jones's 1786 Calcutta address at the beginning of the European philological encounter with Sanskrit.
+**Deployments:** Chapter 20 §20.2, “The Pyramid Steals the Sonomer” — supporting reference for William Jones's 1786 Calcutta address at the beginning of the European philological encounter with Sanskrit.
 
 Sir William Jones, "The Third Anniversary Discourse, on the Hindus," delivered at the Asiatic Society in Calcutta on February 2, 1786. Published in *Asiatic Researches* Volume 1 (Calcutta, 1788), pages 415–431. The passage that became formative in the history of comparative philology:
 
@@ -3397,7 +3366,7 @@ Standard references: Sir William Jones, "The Third Anniversary Discourse, on the
 
 **Short:** The phonetic teachers' association led by Paul Passy was founded in Paris in 1886 and published its first international alphabet in 1888. A German phoneme table provided its first chart-format experiment in 1894. The Association published its first full IPA chart in 1900, arranging consonants by place and manner of articulation on the same two-axis principle that Sanskrit preserves as *sthāna* and *prayatna*.
 
-**Deployments:** Appendix Part 3 §3.10 — the citation anchor for the founding of the Association in 1886, the first alphabet in 1888, the chart-format experiment in 1894, and the first full IPA chart in 1900.
+**Deployments:** Chapter 20 §20.2, “The Pyramid Steals the Sonomer” — the citation anchor for the founding of the Association in 1886, the first alphabet in 1888, the chart-format experiment in 1894, and the first full IPA chart in 1900.
 
 The organization that became the International Phonetic Association began in Paris in 1886 under Paul Passy. It brought together French and English language teachers seeking a common phonetic alphabet for language teaching and transcription. Henry Sweet became its honorary president in 1888. Daniel Jones belonged to a later generation and eventually served as president from 1950 to 1967; he was not involved in the 1886 founding.
 
@@ -3419,7 +3388,7 @@ Standard references: International Phonetic Association, ["Historical charts of 
 
 **Short:** The standard history-of-linguistics literature — R. H. Robins, *A Short History of Linguistics* (Longman, 4th ed. 1997); Anna Morpurgo Davies, *Nineteenth-Century Linguistics* (Routledge, 1998); Hartmut Scharfe, *Grammatical Literature* (Harrassowitz, 1977); George Cardona, *Pāṇini: His Work and Its Traditions* (Motilal Banarsidass, 1988); John E. Joseph, *From Whitney to Chomsky* (Benjamins, 2002); Madhav Deshpande, *The Idea of the Independent Word in Pāṇinian Grammatical Tradition* (American Oriental Society, 1992) — documents the substantial European-philological absorption of Sanskrit *vyākaraṇa* (व्याकरण) analytical framework across the long 19th century: the phoneme concept, the morpheme concept, the generative-rule format, the 2D phonetic-classification grid.
 
-**Deployments:** Appendix Part 3 §3.10 — the citation anchor for the European philological establishment's absorption of the Sanskrit *vyākaraṇa* discipline before it produced the IPA chart.
+**Deployments:** Chapter 20 §20.2, “The Pyramid Steals the Sonomer” — the citation anchor for the European philological establishment's absorption of the Sanskrit *vyākaraṇa* discipline before it produced the IPA chart.
 
 The standard history-of-linguistics literature recognizes the Sanskrit vyākaraṇa discipline as a major source of analytical infrastructure and theoretical framework for nineteenth-century European linguistics. The principal references:
 
@@ -3868,7 +3837,7 @@ Sources: the International Phonetic Association's [official interactive IPA char
 
 **Short:** The opening of the *Ṛgveda* (1.1.1, *Śākala* recension) preserves the retroflex lateral **ळ [ɭ]** in ***ईळे (*īḷe*)***. The *Ṛgveda-Prātiśākhya* explains the operation directly: **ड** between two vowels becomes **ळ**, while the corresponding aspirated sound becomes **ळ्ह**. The *vaidika* domain therefore preserves a required contextual sound exactly even though the reusable *laukika* grid gives it no separate address.
 
-**Deployments:** Chapter 17 §17.4 ¶ — the citation anchor for the opening word of the *Ṛgveda* — *agnimīḷe* — and its placement of the retroflex lateral ळ at the structural front of the foundational text.
+**Deployments:** Chapter 9 §9.10 — the rule that produces the off-grid retroflex lateral **ळ/ळ्ह**; Chapter 16 §16.3 — the received **ईळे (*īḷe*)** form in the two-domain comparison.
 
 The opening verse of the *Ṛgveda* — *Ṛgveda* 1.1.1 — is the received invocation to *Agni* that opens the *Saṃhitā* in its standard *Śākala* recension:
 
@@ -5522,9 +5491,6 @@ Source: Standard Sanskrit lexicographical references (Monier-Williams 1899); Car
 
 The *Aṣṭādhyāyī* contains no preface, no introductory discourse, no first-person statement of authorial intent. The text opens directly with sūtra 1.1.1 — ***vṛddhir ādaic*** (वृद्धिर् आदैच्) — and runs roughly four thousand sūtras through to the final sūtra 8.4.68 (***a a***) without any first-person address. There are no statements of design intent, no enumeration of purposes, no identification of the audience, no explanation of the methodology — just the sūtras themselves, in their compact technical idiom.
 
-<!-- AISWEEP-OLD
-This silence is significant in the context of the book's argument. A text that imposes a new standard normally has to explain its authority: what the standard is for, why this standard and not another, what problem it solves.
-AISWEEP-END -->
 A text that imposes a new standard normally has to explain its authority: what the standard is for, why this standard and not another, what problem it solves. A documenter describing an existing system has no such burden, because the document is its own purpose: the activity is *enumerate-and-describe*, not *design-and-justify*. Pāṇini's silence on purpose is consistent with the documenter role and inconsistent with the order-maker role the codification myth assigns him.
 
 The lineage explains "why was the *Aṣṭādhyāyī* written?" one commentarial generation later, in Patañjali's *Mahābhāṣya* (see endnote `prayojanani-paspashahnika`). Patañjali's five purposes (*rakṣā, ūha, āgama, laghu, asaṃdeha*) describe grammar as *meta-operations on an existing language* — preservation, modification, the Veda's own enjoining, mastery, doubt-removal — not as the act of constructing the language itself. The purpose-statement is therefore second-hand, post-hoc, and the activity-noun is *vyākaraṇam* — *analysis*.
@@ -5624,9 +5590,6 @@ The Dhātupāṭha meanings used for the source column are the ones developed el
 
 **Deployments:** Ch19 §19.8 (the *asura* / PIE-is-a-lie case — the contested-reconstruction charge at the section opening, and the "pyramid was clearly aware of both words" documented-awareness charge at the two-words paragraph).
 
-<!-- AISWEEP-OLD
-The note is deliberately narrow. It does not need to settle the scholarly dispute over the ultimate etymology of *asura*. It records the point the chapter uses: the Western philological dogma itself flags the deeper PIE reconstruction as contested, while Sanskrit preserves the living term in a real textual, ritual, philosophical, and civilizational continuum.
-AISWEEP-END -->
 Settling the scholarly dispute over the ultimate etymology of *asura* is not the point of the note. The point the chapter uses is narrower: the Western philological dogma itself flags the deeper PIE reconstruction as contested, while Sanskrit preserves the living term in a real textual, ritual, philosophical, and civilizational continuum. The burden remains on the reconstruction to explain more than sound resemblance.
 
 The disagreement in §19.8 begins with the meaning assigned by Western philology. Mayrhofer's *Etymologisches Wörterbuch des Altindoarischen* assigns "lord, mighty one" to its reconstructed ancestor and treats the privative ***a-suraḥ*** analysis as secondary. Chapter 3 places that reconstructed third word beside Sanskrit's two derivations and then examines what the actors do in the mantras. Indra and Varuṇa protect life and release what has been bound. Svarbhānu covers Sūrya with darkness, while Namuci withholds and refuses release. The passages therefore support the distinction between ***asu-ra*** and ***a-sura*** without requiring the reconstructed title "lord" or "powerful being." See `rv-agni-mitra-rudra-asura`, `rigvedic-named-antagonist-asuras`, and `rigveda-5-40-5-svarbhanu-eclipse`.
@@ -5716,7 +5679,7 @@ These cases demonstrate authority-based preservation without equating preservati
 
 **Short:** Esperanto began from a deliberate plan, yet its speakers soon enlarged and selected its living usage. The *Fundamento de Esperanto* incorporated a *Universala Vortaro* of 2,768 foundational lexical "roots"; Zamenhof's own preface allowed new words to enter through use, and the first official lexical addition followed in 1909. Federico Gobbo therefore describes Esperanto as "almost naturalized" and records that actual usage changed with its speakers' communicative needs.
 
-**Deployments:** Ch2 §2.3 (Esperanto as a generative architecture undergoing vivification); Ch6 §6.4 (generativity separated from preservation); Ch19 §19.7 (vivification distinguished from vivimorphosis); Appendix Part 3 §3.10 (Esperanto presented as a modern European experiment in engineered generativity after generations of European engagement with Sanskrit).
+**Deployments:** Ch2 §2.3 (Esperanto as a generative architecture undergoing vivification); Ch6 §6.4 (generativity separated from preservation); Ch19 §19.7 (vivification distinguished from vivimorphosis); Chapter 20 §20.2, “The Pyramid Steals the Sonomer” (Esperanto presented as a modern European experiment in engineered generativity after generations of European engagement with Sanskrit).
 
 The numerical comparison in the body requires two qualifications. First, Esperanto references classify their reusable affixes differently, so **about forty affixes** is more accurate than a single uncontested count. Second, these elements are not equivalent to Sanskrit *upasargāḥ*, and the 2,768 lexical units called "roots" in Esperanto lexicography are not Sanskrit *dhātavaḥ*. The comparison shows that a compact designed inventory can support extensive derivation; it does not establish identical architectures.
 
@@ -5912,9 +5875,6 @@ Source: *Ṛgveda Saṃhitā*, Maṇḍala 10, Sūkta 129; standard edition Aufr
 
 **Deployments:** Chapter 18 §18.6 — the migration trap; the *movement is not authorship* distinction.
 
-<!-- AISWEEP-OLD
-The distinction is methodological, not rhetorical. A genetic signature is evidence about bodies: who moved, who mixed, whose ancestry appears in which layer.
-AISWEEP-END -->
 Population-genetic studies begin with selected present-day and ancient samples. Researchers define comparison populations, choose statistical models, and estimate when the modeled populations may have mixed. An archaeological horizon adds material evidence such as pottery, settlement, burial, and trade goods. These methods can support an inference about movement and contact. They cannot identify who specified the *varṇamālā*, engineered the *dhātu* inventory, or built the calibration matrix that protects Sanskrit from deviation.
 
 Silva et al. compared maternal, paternal, and genome-wide ancestry and reported a markedly higher proportion of likely West Eurasian lineages on the paternal side than on the maternal side. They described the influx they assigned to this period as strongly male-driven. Narasimhan et al. found an excess of Central Steppe-related ancestry on the Y chromosomes of present-day inhabitants of the Indian subcontinent compared with their autosomal ancestry. They concluded that the introduction of steppe-pastoralist lineages into the ancestors of these present-day populations was mediated mostly by males.
@@ -6351,18 +6311,6 @@ The distinction protects the category-theft rejection of the botanical substitut
 
 ---
 
-### `pratisakhya-bhashyam-chandasi`
-
-**Short:** The *Prātiśākhya* literature is technical Sanskrit that documents Vedic phonetic specifications, including sound-material outside the reusable laukika inventory. The learned discipline that supposedly "lost" the feature is therefore capable of identifying and classifying it.
-
-**Deployments:** Chapter 17 §17.4.
-
-The point of the note is methodological. A *Prātiśākhya* is not the Vedic mantra itself; it is a technical manual written to specify the phonetics of a particular Vedic recension. Śaunaka's *Ṛgveda-Prātiśākhya* opens by classifying the Vedic sound-set rather than treating the *saṃhitā* as unanalysed chant; see *Ṛgveda-Prātiśākhya* 1.9-1.10 in Mangal Deva Shastri's translation, *The R̥gveda-Prātiśākhya of Śaunaka* (Punjab Oriental Series no. 23, 1937). For the retroflex-lateral material itself, Ch17 also relies on W. Sidney Allen's discussion of ancient Indian phonetics and the related *śikṣā* classification of difficult-contact sounds.[^pratisakhya-bhashyam-chandasi-1] The claim here is modest: the technical Sanskrit manuals identify and classify Vedic phonetic material; the learned descriptive discipline did not forget the feature.
-
-[^pratisakhya-bhashyam-chandasi-1]: W. Sidney Allen, *Phonetics in Ancient India* (London: Oxford University Press, 1953), especially the early chapters on the Sanskrit phonetic tradition's articulatory classifications.
-
----
-
 ### `vedic-reduplication-abhyasa-examples`
 
 **Short:** Ṛgveda 1.164.4 has *dadarśa*, Ṛgveda 10.107.7 has *dadāti*, and Ṛgveda 7.87.4 has *bibharti*, so Chapter 17 treats compact reduplication as Vedic evidence first; Pāṇini later documents and names the operation **अभ्यास (*abhyāsa*)**.
@@ -6489,9 +6437,6 @@ Historical linguists commonly place the six family books, Maṇḍalas 2–7, in
 
 **Deployments:** Chapter 17 §17.4.
 
-<!-- AISWEEP-OLD
-The evidentiary value is structural. Branch variation is not the same thing as language drift. A *śākhā* is a specified transmission line with its own recitational and textual commitments.
-AISWEEP-END -->
 Branch variation is not the same thing as language drift, and the evidentiary value turns on that structural difference. A *śākhā* is a specified transmission line with its own recitational and textual commitments. The *Śatapatha Brāhmaṇa* survives in two major recensions: Mādhyandina and Kāṇva. Standard summaries give different structural profiles for the two: the Kāṇva recension has 17 *kāṇḍas* and 104 *adhyāyas*, while the Mādhyandina recension has 14 *kāṇḍas* and 100 *adhyāyas*.[^madhyandina-kanva-branch-shapes-1] The Sanskrit Library / TITUS metadata for the Mādhyandina electronic text anchors it to Albrecht Weber's edition of the *Śatapatha-Brāhmaṇa in the Mādhyandina-Śākhā*.[^madhyandina-kanva-branch-shapes-2] Ch17 uses this as a branch-shape point, not as a claim that the two recensions alone establish the retroflex-lateral case. The retroflex-lateral case rests on *chandas* mode, *Prātiśākhya* / *śikṣā* classification, and the living subcontinental sound-field.
 
 [^madhyandina-kanva-branch-shapes-1]: Swami Harshananda, "Śatapatha Brāhmana," *Hindupedia*, overview of the two recensions. The page summarizes the Kāṇva recension as 17 *kāṇḍas* / 104 *adhyāyas* and the Mādhyandina recension as 14 *kāṇḍas* / 100 *adhyāyas*.

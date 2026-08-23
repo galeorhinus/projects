@@ -373,7 +373,7 @@ Ordinary two-*mātrā* **ए/ओ** are Included. Half-**ए/ओ** are Lineage-Bo
 
 ### Addressed and Off-Grid Sonances Across Two Domains
 
-Ṛgvedic **ळ [ɭ]** provides a clear comparison. Sanskrit unquestionably uses the sound: the first mantra begins **अग्निमीळे (*agnim īḷe*)**. The *Ṛgveda-Prātiśākhya* explains that intervocalic **ड** becomes **ळ**, and that the corresponding **ढ** becomes **ळ्ह**. Vedic transmission preserves the resulting sound exactly, while the *varṇamālā* grid does not assign it an independent sonomer address.[NOTE: agnimile-rigveda-opening]
+Ṛgvedic **ळ [ɭ]** provides a clear comparison. Sanskrit unquestionably uses the sound: the first mantra begins **अग्निमीळे (*agnim īḷe*)**. The *Ṛgveda-Prātiśākhya* explains that intervocalic **ड** becomes **ळ**, and that the corresponding **ढ** becomes **ळ्ह**.[NOTE: agnimile-rigveda-opening] Vedic transmission preserves the resulting sound exactly, while the *varṇamālā* grid does not assign it an independent sonomer address.
 
 Other Indian languages use **ळ** as an independent sound that distinguishes one word from another. The human anatomy is available in both cases. Sanskrit gives **ळ/ळ्ह** a different role in the Ṛgveda. The lineage preserves them as off-grid sonances in the words that require them, but speakers cannot choose them independently when they create new Sanskrit words. Their words, positions, and pronunciation remain fixed inside the received passages.
 

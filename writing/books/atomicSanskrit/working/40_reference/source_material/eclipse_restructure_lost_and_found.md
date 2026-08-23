@@ -265,7 +265,7 @@ This book is also a foundation. **Sanskrit is engineering. The engineering succe
 
 | Source section | What was removed or compressed | Disposition |
 |---|---|---|
-| `0.3 The Reader's Sanskrit` | The 5.2-billion reach paragraph, Pratibimba claim, and long Sanskrit-names-as-attributes list. | `PARKED` — reach claim belongs in a later field-of-operation / civilizational-field discussion; names-as-attributes belongs near Yāska / Chapter 12. |
+| `0.3 The Reader's Sanskrit` | The 5.2-billion reach paragraph, Pratibimba claim, and long Sanskrit-names-as-attributes list. | `RETIRED / REDISTRIBUTED` — the aggregate reach claim was retired and archived in `working/40_reference/source_material/sanskrit_52b_reach_retired_endnote.md`; names-as-attributes moved near Yāska / Chapter 12. |
 | `0.5 The Corpus at a Glance` | Full corpus inventory: Vedas, Vedāṅgas, Itihāsa/Purāṇa, Dharmaśāstra/Kāvya, and scientific disciplines. | `PARKED` — possible endnote or orientation appendix; selected lines may return when a later chapter needs local orientation. |
 | `0.6 The Sound Names Itself` | Full varṇamālā proof: mouth-map, 5x5 sparśa matrix, and sound-name claim. | `RELOCATE` — Ch 7–9 sound-field / varṇamālā sequence. |
 | `0.7 A Language of Freedom — Word Order` | Full free-word-order proof with king/elephant example, meter/emphasis/acoustic-weight list, and Chandas checksum bridge. | `RELOCATE` — later syntax / meter / Chandas material; keep only a light seed in Ch 0 if needed. |
