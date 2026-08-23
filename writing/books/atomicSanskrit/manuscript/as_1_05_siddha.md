@@ -36,7 +36,7 @@ Standing at the center of this lineage, Pāṇini decoded an ancient and establi
 
 The book's refrain is:
 
-> ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.***
+> ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest. The Vedas remain the calibrant.***
 
 The *Vedas* preserve the architecture implicitly through *chandas*, *śruti*, and the *guru-shishya* transmission-chain. The *vaiyākaraṇāḥ* make that architecture explicit. Yaska's **निरुक्त (*Nirukta*)** etymological discipline decoded an adjacent layer; Yaska himself cited earlier decoders **Sthaulāṣṭhīvi** (स्थौलाष्ठीवि) and **Śakapūṇi** (शकपूणि) by name, extending the decoding lineage back beyond the named *vaiyākaraṇāḥ*.
 

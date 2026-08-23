@@ -418,7 +418,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 - ***Decoded***: what the *vaiyākaraṇāḥ* (Pāṇini, Patañjali, Yaska, the pre-Pāṇinian roster) did — recovered the explicit specification from the encoded corpus.
 - ***Codified*** (the pyramid's misnaming): scare-quoted; runs in the wrong structural direction.
 
-Book refrain: ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.***
+Book refrain: ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest. The Vedas remain the calibrant.***
 
 ---
 

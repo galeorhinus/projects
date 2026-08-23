@@ -134,7 +134,7 @@ The deployed version lives at `as_1_01_botanical.md` §1.1 (the *Two speculation
 
 ## Layer 4 — The hammer
 
-*Sibling to the book's refrain (*Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.*). Where the refrain lands the four-term stack, the hammer below lands the origin-and-calibration geometry. Both deployable; they hit different polemic targets.*
+*Sibling to the book's refrain (*Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest. The Vedas remain the calibrant.*). Where the refrain lands the four-term stack, the hammer below lands the origin-and-calibration geometry. Both deployable; they hit different polemic targets.*
 
 > **The seers saw. The lineage heard. The vaiyākaraṇāḥ decoded. Pāṇini compressed. The Vedas remained the measure.**
 

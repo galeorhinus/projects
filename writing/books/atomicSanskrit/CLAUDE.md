@@ -790,7 +790,7 @@ The book's polemic on Sanskrit's character operates on a precise four-term stack
 | ***Decoded*** | Yaska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, the pre-Pāṇinian grammarian roster, Pāṇini, the *Prātiśākhya* / *Śikṣā* / *Mīmāṃsā* disciplines | extraction | recover the explicit specification from the encoded corpus. *Vyākaraṇam* (व्याकरणम्, *unfolding apart*) is Sanskrit's own disciplinary word for what the *vaiyākaraṇāḥ* did. |
 | ***Codified*** *(the pyramid's misnaming — scare-quoted only)* | (the pyramid attributes to Pāṇini) | imposition | falsely credits Pāṇini with bringing order to disorder. Runs in the wrong structural direction — *codified* presumes the codifier as the order-maker; *decoded* presumes prior architecture and Pāṇini as its analyst. |
 
-**Polemic move.** *Codified* and *decoded* are near-antonyms operating on the same kind of object. The pyramid's "codified" mistakes the direction; the book restores the correct direction with "decoded." The four-term stack lands the structural point in a single sentence: ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.***
+**Polemic move.** *Codified* and *decoded* are near-antonyms operating on the same kind of object. The pyramid's "codified" mistakes the direction; the book restores the correct direction with "decoded." The four-term stack lands the structural point in a single sentence: ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest. The Vedas remain the calibrant.***
 
 **Never use *encrypted*.** The architecture is openly engineered into the Vedas; the encoding is not concealment. *Encrypted* suggests hidden / occult / esoteric — exactly the wrong frame. The Vedas encode the architecture in the same sense a blueprint encodes a building's design: openly, systematically, recoverable by anyone with the analytical tools. The Sanskrit lineage has always had those tools (the analytical disciplines — *vyākaraṇam*, *nirukta*, *chandas*, *śikṣā*, *Mīmāṃsā*); the pyramid refuses to use them.
 
@@ -800,7 +800,7 @@ The book's polemic on Sanskrit's character operates on a precise four-term stack
 
 **Standard name: codification myth.** When prose names the false account in which Pāṇini supposedly imposed order on Sanskrit, call it the **codification myth**. Reserve unqualified **codification** for an authority that actually selects, standardizes, or controls a language. Keep direct quotations, attributed uses, and direct corrections such as *Pāṇini did not codify Sanskrit* intact.
 
-**Deployment pattern.** The standing polemic phrase is now **Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.** All five disciplines (*vyākaraṇam*, *nirukta*, *chandas*, *śikṣā*, *Mīmāṃsā*) are framed as *decoding disciplines* operating on what the Vedas encode. Anywhere the pyramid's *codification* claim is named, it should be contested with *decoded* / *decoding* as the structurally correct verb.
+**Deployment pattern.** The standing polemic phrase is now **Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest. The Vedas remain the calibrant.** All five disciplines (*vyākaraṇam*, *nirukta*, *chandas*, *śikṣā*, *Mīmāṃsā*) are framed as *decoding disciplines* operating on what the Vedas encode. Anywhere the pyramid's *codification* claim is named, it should be contested with *decoded* / *decoding* as the structurally correct verb.
 
 ---
 

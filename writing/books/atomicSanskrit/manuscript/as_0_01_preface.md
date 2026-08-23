@@ -40,7 +40,7 @@ A wiser age would not need this book because it would simply look at Sanskrit an
 
 The language names itself **संस्कृतम् (*saṃskṛtam*)**: well-made, wholly formed, perfectly synthesized.[NOTE: samskrtam-morphology] The **परम्परा (*paramparā*)** that received and documented it is an unbroken lineage-chain and distributed transmission architecture. That architecture distinguished Sanskrit from **प्राकृत (*prākṛta*)**, recognized deviation as **अपभ्रंश (*apabhraṃśa*)**, and treated the word-meaning bond as **सिद्ध (*siddha*)**: already established.
 
-The chapters that follow demonstrate what becomes one of the book's refrains: **Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest.**
+The chapters that follow demonstrate what becomes one of the book's refrains: **Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest. The Vedas remain the calibrant.**
 
 The conflict in this book is between two architectures of order. One creates order through calibration; the other imposes order from an apex. A calibrant order places an invariant standard where everyone can reach it and no apex can own it. People align with it and correct errors without surrendering authority to a central institution. By contrast, the asuric pyramid encloses knowledge, controls access, places an apex above everyone else, and turns correction into obedience.
 
