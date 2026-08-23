@@ -55,6 +55,34 @@ secondshanti.org {
 	# /var/www/as/.
 	root * /var/www
 
+	# --- Caching -----------------------------------------------------
+	# file_server sends ETag and Last-Modified but no Cache-Control, so
+	# browsers fall back to heuristic freshness (RFC 9111 4.2.2) — about a
+	# tenth of the age since Last-Modified, which for an asset untouched
+	# for a month is days. A page and the figures inside it are separate
+	# cache entries with separate lifetimes, so a corrected figure stayed
+	# invisible on phones that had already cached it while the surrounding
+	# prose updated. That is what these two rules fix.
+	#
+	# The matchers are mutually exclusive, so neither can overwrite the
+	# other and their order here does not matter.
+	#
+	# build_html.py appends ?v=<content-hash> to every figure URL, so a
+	# versioned URL always names one exact set of bytes and can be cached
+	# permanently. Changing the figure changes the URL.
+	@versioned query v=*
+	header @versioned Cache-Control "public, max-age=31536000, immutable"
+
+	# Everything else — HTML pages above all — must revalidate. "no-cache"
+	# permits caching but requires a conditional request first; the ETag
+	# already being sent makes that a 304 in the common case, so this costs
+	# a round trip rather than a re-download. It does NOT mean "do not
+	# cache" (that would be no-store).
+	@unversioned {
+		not query v=*
+	}
+	header @unversioned Cache-Control "no-cache"
+
 	# Redirect /as to /as/ so relative URLs resolve correctly.
 	redir /as /as/ 308
 

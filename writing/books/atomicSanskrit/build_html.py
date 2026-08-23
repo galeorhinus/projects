@@ -34,6 +34,8 @@ Run with:  python3 build_html.py
 """
 
 import datetime
+import functools
+import hashlib
 import json
 import re
 import shutil
@@ -145,11 +147,40 @@ NOTE_MARKER_RE = re.compile(r"\[NOTE:\s*([a-z0-9_-]+)\s*\]")
 # Markdown image syntax: ![alt](figures/<subdir>/<rest>). Match any subdir
 # under figures/ (build/, icons/, mapping_mouth/, ...) so the rewrite picks
 # up all of them, not just figures/build/.
-IMAGE_REF_RE = re.compile(r"(\]\()(?:\./)?figures/")
+IMAGE_REF_RE = re.compile(r"(\]\()(?:\./)?figures/(?P<rel>[^)\s]+)")
 # Raw HTML inline images: <img src="figures/<subdir>/<rest>" ...>. The
 # chapters use these for inline scaffold icons embedded mid-paragraph and
 # in table cells; same rewrite rule applies.
-HTML_IMG_REF_RE = re.compile(r'(src=")(?:\./)?figures/')
+HTML_IMG_REF_RE = re.compile(r'(src=")(?:\./)?figures/(?P<rel>[^"]+)')
+
+
+@functools.lru_cache(maxsize=None)
+def figure_version(rel: str) -> str:
+    """Short content hash for a figure, appended to its URL as `?v=`.
+
+    Figures are served from stable paths and the Caddyfile sets no
+    Cache-Control, so browsers fall back to heuristic freshness (RFC 9111
+    4.2.2) — roughly a tenth of the age since Last-Modified, which for a
+    figure untouched in a month is days. A corrected figure therefore stayed
+    invisible on phones that had already cached it while the surrounding
+    prose updated, because the page and the image are separate cache entries
+    with separate lifetimes. Keying the URL to the bytes means a changed
+    figure is a new URL and no client can serve the old one.
+
+    Returns "" when the file is missing so a broken reference keeps its
+    original path and stays findable, rather than acquiring a hash that
+    hides it.
+    """
+    path = FIGURES_SRC / rel
+    try:
+        return hashlib.sha256(path.read_bytes()).hexdigest()[:8]
+    except OSError:
+        return ""
+
+
+def versioned_figure_url(rel: str) -> str:
+    v = figure_version(rel)
+    return f"{URL_BASE}/figures/{rel}" + (f"?v={v}" if v else "")
 
 # Draft-scaffolding line we strip from chapter sources (analogous to
 # build_book.py's DRAFT_HEADER_RE but applied after the first heading).
@@ -252,8 +283,8 @@ def preprocess_markdown(text: str, canonical_title: str) -> str:
     text = text.lstrip("\n")
 
     # Rewrite image paths
-    text = IMAGE_REF_RE.sub(lambda m: m.group(1) + f"{URL_BASE}/figures/", text)
-    text = HTML_IMG_REF_RE.sub(lambda m: m.group(1) + f"{URL_BASE}/figures/", text)
+    text = IMAGE_REF_RE.sub(lambda m: m.group(1) + versioned_figure_url(m.group("rel")), text)
+    text = HTML_IMG_REF_RE.sub(lambda m: m.group(1) + versioned_figure_url(m.group("rel")), text)
 
     # Convert [NOTE: stub] → superscript HTML link
     def note_repl(m: re.Match) -> str:
