@@ -802,6 +802,8 @@ The book's polemic on Sanskrit's character operates on a precise four-term stack
 
 **Deployment pattern.** The standing polemic phrase is now **Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest. The Vedas remain the calibrant.** All five disciplines (*vyākaraṇam*, *nirukta*, *chandas*, *śikṣā*, *Mīmāṃsā*) are framed as *decoding disciplines* operating on what the Vedas encode. Anywhere the pyramid's *codification* claim is named, it should be contested with *decoded* / *decoding* as the structurally correct verb.
 
+**Variants are intended; do not normalize them.** The five-beat form above is the canonical refrain, but the book deploys sibling refrains and partial forms deliberately, and a consistency sweep must not flatten them into the canonical wording. The Preface says *"one of the book's refrains"* — plural — and the known deliberate variants include Chapter 18 §18.7's *"The wise formed vāc. The seers saw. The lineage heard. The vaiyākaraṇāḥ decoded. Pāṇini articulated. The Vedas remain the calibrant for Sanskrit and saṃskṛti."* and Appendix Part 7's shorter *"The Vedas encode the architecture. The vaiyākaraṇāḥ decode what the Vedas encode. Pāṇini's decoding is the finest."* `reference/as_calibration_hierarchy.md` records the same principle for its own sibling hammer: both deployable, hitting different polemic targets. What must stay consistent is the *direction* of the four-term stack — engineered, encoded, decoded, and the Vedas holding — not the wording of any one deployment.
+
 ---
 
 ## Canonical glosses (deploy as-is)
