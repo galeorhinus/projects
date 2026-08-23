@@ -399,3 +399,227 @@ bent to fit is good evidence it is the right reading of what the chapter is for.
    Müller's comparative religion, ORL.
 7. Verify Ch 2 nowhere states Ch 3's payoff (§3).
 8. Update the TOC three-file family if section structure changes.
+
+---
+
+## 14. Section-by-section build
+
+**Organizing principle.** The chapter runs in five movements: *the puzzle*, *the
+instrument*, *the answer*, *the theft*, *the motive*. The botanical metaphor moves out
+of the subject position and into movement four, where it belongs — it is not what the
+chapter is about, it is **the tool the theft used**.
+
+Current chapter: 9 sections, ~4,785 words. Proposed: 11 sections.
+
+### Epigraph — unchanged
+
+The *māyā* / *sat* / *asat* verse stays. §2.1 flags the two powers of *āvaraṇa* and
+*vikṣepa* in one sentence; the full deployment moves to §2.11, so the epigraph is
+opened at the start and closed at the end.
+
+---
+
+### MOVEMENT ONE — THE PUZZLE
+
+#### 2.1 What Codification Cannot Do — **NEW**
+
+Replaces the current §2.1 (*The Category Withheld from Sanskrit*), whose *Vedāntasāra*
+material relocates to §2.11.
+
+- The pyramid's account: Sanskrit drifted until Pāṇini codified it; afterward it held.
+- Arabic appears to confirm it — codified, and Classical Arabic holds while the spoken
+  Arabics went their own ways.
+- **State the hypothesis plainly: codification produces invariance.**
+- **Tamil falsifies it.** The *Tolkāppiyam* specifies sounds, word-formation, poetics.
+  Tamil changed regardless; a Tamil speaker today cannot read the Sangam poems without
+  study.
+- **Latin falsifies it.** Codified by Donatus and Priscian, and the spoken forms became
+  French, Spanish, and Italian regardless.
+- Arabic holds by an authorized text and certified transmitters. Tamil had nothing
+  enforcing. **So why did Sanskrit not drift?**
+- One sentence: answering that needs better categories than the ones supplied.
+
+*Voice note:* Latin here does the same work the Prakrits do for Sanskrit — codification
+did not stop the daughters forming. Say it once, in this section; §2.8 then refers back
+rather than repeating the Latin→Romance example.
+
+---
+
+### MOVEMENT TWO — THE INSTRUMENT
+
+#### 2.2 Four Language Categories — **KEEP, definitions repaired**
+
+- Origin × generativity. **Figure 2.1** unchanged in structure.
+- **Required fix:** strike *"No authority has to approve each addition"* from the
+  Natural Languages definition. That clause builds the order mechanism into the axis,
+  which is why Classical Arabic has no cell and Medieval Latin would fall out too.
+- Definitions become purely origin × generativity, with no claim about what holds a
+  language.
+
+#### 2.3 Rules Are Not Enough — **REBUILT from current §2.3**
+
+Keeps the movements (vivification, revivification, vivimorphosis) but changes what the
+section is *for*.
+
+- Esperanto sits in the same cell as Sanskrit — engineered, generative — and drifted out
+  of it. The chapter already argues this: *"Esperanto's* Fundamento *supplied rules… it
+  would also have needed something comparable in function to the Vedas."*
+- Therefore the quadrant is not sufficient. Something else decides whether a language
+  holds.
+- **Introduce the fourth reading: order.** Four marks — *none · codified and left ·
+  codified and controlled · calibrated*.
+- **Figure 2.2** gains the marks. Sanskrit and Esperanto now visibly differ inside one
+  cell — the section's argument, drawn for the first time.
+- One line: variance is what order produces, not a separate axis.
+
+---
+
+### MOVEMENT THREE — THE ANSWER
+
+#### 2.4 Four Grammars, Four Outcomes — **NEW**
+
+The chapter's evidentiary spine. **Grammar and corpus held constant across all four**,
+so neither can be the explanation; the only variable is what binds the language to the
+corpus.
+
+- **Tamil** — *Tolkāppiyam*, Sangam, nothing binding → drift. The corpus had to be
+  recovered from palm-leaf manuscript in the 1880s.
+- **Latin** — Donatus and Priscian, the classical canon, authority → the spoken forms
+  became Romance; the preserved form stayed generative for a millennium, then petrified.
+  **Latin is the long-run test of authority-binding**, and Ch 2 §2.3 already predicts
+  this outcome for MSA.
+- **Classical Arabic** — Sībawayh, the Quran, authority → holds.
+- **Sanskrit** — *Aṣṭādhyāyī*, the Vedas as *śruti* → holds, with no apex.
+
+**Presentation: a table, not a figure.** The chapter already carries three figures and
+is growing; this is textual comparison and reads better as a table.
+
+*Tone requirement:* each tradition gets its achievement stated plainly. Granting them
+costs nothing once the differentiator is the binding, and it is what makes the Sanskrit
+claim read as analysis rather than partisanship.
+
+#### 2.5 Invariance by Calibration — **NEW**
+
+- The Vedas bind the language as *śruti*: exact reproduction, obligatory, checked.
+- **Invariance** — defeating *asat* requires knowledge of the past; a record that drifts
+  cannot be used to detect a lie told about it.
+- **Calibration** — *sat* is what **is**, not what was decreed. An authorized standard is
+  invariant while its authority holds and by its leave; a calibrant is checkable by
+  anyone and ownable by no one.
+- Two bindings exist. Both produce invariance.
+- **HARD STOP.** Do not write, or paraphrase, *"calibration makes the apex
+  unnecessary."* That is §3.5. Forward-point to Ch 14 for the machinery.
+
+---
+
+### MOVEMENT FOUR — THE THEFT
+
+#### 2.6 Saṃskṛti Made to Look Like Prakṛti — **PROMOTED to a numbered section**
+
+Currently a `###` subsection buried under *Where Botany Belongs*, which makes the
+chapter's own category claim look like botanical filler.
+
+- *saṃskṛtam* etymology and the canonical gloss — **do not paraphrase**, CLAUDE.md
+  protects the wording.
+- *prakṛti* / *prākṛtāni* as the contrasting category.
+- The theft named: *saṃskṛti* forced into *prakṛti*. This is where the chapter's title
+  earns itself.
+
+#### 2.7 Three Claims — **KEEP** (current §2.4)
+
+- Natural language → imaginary foreign origin → Pāṇini divides before from after.
+- Two domains become two periods.
+- **Figure 2.3 redrawn** to show three moves at once: one entry becomes two; both cross
+  into the organic column; **the calibrated mark disappears.** The theft is not only
+  relocation — it removes the chart's only instance of calibration, and it breaks the
+  corpus–register pair so the relation becomes chronology.
+
+#### 2.8 The Botanical Metaphor — **COMPRESSED** (current §2.5 + §2.6a + §2.7)
+
+From ~1,285 words to roughly 500. Reframed as the *instrument* of the theft.
+
+- **Keep** the introduction (~259w) — later chapters need the metaphor named, and Ch 3
+  §3.1 opens on it.
+- **Compress** *where botany belongs* to one tight paragraph. Retain
+  *hlāfweard → laverd → lorde → Lord*: concrete, memorable, and its closing note about a
+  title reserved for men at the summit does masculine-apex work. Drop the Latin→Romance
+  example here — §2.1 now owns it.
+- **Compress** *Dhātuḥ Is an Atom* from 467w to roughly 120w. State the mistranslation
+  and point forward. Ch 10 explicitly treats Ch 2 as prosecuting only: *"In Chapter 2,
+  the category-theft charge prosecuted the botanical metaphor… The positive replacement
+  is direct."* Ch 10 owns the atom case, the metallurgy and *Āyurveda* parallels, and the
+  constituent argument.
+
+#### 2.9 Decoding, Not Codification — **KEEP** (current §2.8)
+
+Unchanged. Now lands harder, because §2.1 has already shown codification cannot produce
+invariance — so the section is no longer only a correction about Pāṇini, it is the
+removal of the last candidate explanation.
+
+---
+
+### MOVEMENT FIVE — THE MOTIVE
+
+#### 2.10 Britain Had Everything Except the Category — **NEW**
+
+- Total political and economic control, **and the category theft was still necessary.**
+  That is what shows necessity rather than triumphalism — territory was not what was
+  missing.
+- 1857; the retreat from missionary activity; Victoria's 1858 Proclamation disclaiming
+  any desire to impose religious conviction. *Operation Red Lotus* cited in the body,
+  first person, detail in the endnote.
+- The change of method: from religious conversion to **categorical** conversion.
+- **Müller's two fronts** — comparative philology (Sanskrit as one Indo-European
+  daughter) and comparative religion (*Sacred Books of the East*, the "science of
+  religion"). One operation in two domains.
+- **Keep documented fact visibly separate from the argument.** The dates and the
+  Proclamation are documented; that the second followed from the first is the author's
+  argument. A reader should be able to grant the first and weigh the second.
+- **Keep intent structural**, not personal: the classification system produces this
+  result reliably and is maintained because it does.
+
+#### 2.11 Āvaraṇa and Vikṣepa — **NEW close**
+
+Returns to the epigraph and completes the two powers §2.1 flagged.
+
+- **आवरण (*āvaraṇa*)** conceals what is present → that a second architecture of order
+  exists.
+- **विक्षेप (*vikṣepa*)** projects what is not → that Hinduism is one religion among
+  religions, and Sanskrit one language among languages.
+- The trick was never to argue Hindu order is worse. It was to make Hindus believe their
+  own order is **the same kind of thing** — because if it is, the second architecture
+  disappears and only one architecture remains, in different flavours.
+- **STOP.** Ch 3 takes it from here.
+
+---
+
+### 14.1 Figure inventory
+
+| Figure | Status | Change |
+|---|---|---|
+| 2.1 Four Language Categories | keep | definitions repaired in prose; structure unchanged |
+| 2.2 Languages and Movements | keep, augmented | add the four order marks; Sanskrit and Esperanto differ inside one cell |
+| 2.3 The Misclassification of Sanskrit | keep, redrawn | one → two, engineered → organic, **calibrated mark disappears** |
+| Four Grammars, Four Outcomes | **new** | a **table**, not a figure — three figures is already the chapter's budget |
+
+### 14.2 Word budget
+
+| | Now | Proposed |
+|---|---:|---:|
+| Botanical material | ~1,285 | ~500 |
+| New: opening, four cases, calibration, motive, close | — | ~1,800 |
+| Rest | ~3,500 | ~3,500 |
+| **Total** | **~4,785** | **~5,800** |
+
+Botanical drops from 27% of the chapter to roughly 9%, which matches its actual weight
+now. The chapter grows about 20%; if that is too much, the compression candidates are
+§2.7's three-claims exposition and §2.9, both of which have downstream homes.
+
+### 14.3 Ordering rationale
+
+Tamil eliminates *"Sanskrit had a grammar"* using a subcontinental peer, which keeps the
+comparison clear of the manufactured Tamil–Sanskrit antagonism. Latin eliminates it again
+from the European side. Arabic eliminates *"only Sanskrit resisted change."* By §2.4 the
+reader has watched two explanations fail and holds a real puzzle — which is why the
+taxonomy in §2.2 reads as an instrument rather than an assertion, and why the theft in
+§2.7 reads as an explanation rather than a complaint.
