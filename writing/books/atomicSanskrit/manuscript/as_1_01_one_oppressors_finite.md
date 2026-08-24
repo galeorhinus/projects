@@ -165,4 +165,4 @@ Their actions create "this deep station" for themselves. Their departure from tr
 
 Chapter 0 established the conflict between *sat* and *asat* at the cosmic scale. This chapter has shown how an architecture aligned with *asat* acts: through concealment, blockade, isolation, and enclosure. Chapter 3 follows those methods into institutions, chronology, race, and language, where the pyramid can reproduce them without a named antagonist.
 
-The caretakers and the finite order now stand against each other. Chapter 2 examines the first obstruction placed between Sanskrit and the reader: the decision to classify Sanskrit as a botanical natural language before examining how it is built.
+The caretakers and the finite order now stand against each other. Chapter 2 examines how the pyramid turned that category attack into the codification myth. Sanskrit supposedly drifted as a natural language until Pāṇini imposed order upon it. Arabic and Tamil allow the chapter to test whether codification can explain Sanskrit's invariance.

@@ -317,7 +317,7 @@ To avoid duplication, forthcoming volumes treat these as Vol 1 ground:
 
 - **The pyramid framework** — Ch 3 §§3.3–3.6 (apex; layers; funding as metabolic machinery; extended apparatus; the *progressive dogma* / *church of progress* / *missionaries of progress* / *jihadis of progress* / *priests of progress* / *fourth Abrahamic religion* cluster).
 - **Pyramid-vs-swastika as architecture** — Ch 3 §3.6.
-- **The linear-progress teleology critique** — Ch 2 §2.4 (the third pillar); Ch 3 §3.2 (the progressive dogma as cross-partisan doctrinal formation); Ch 3 §3.1 ¶8 (live eschatology).
+- **The linear-progress teleology critique** — Ch 3 §3.1 (the three pillars); Ch 3 §3.2 (the progressive dogma as a cross-partisan doctrinal formation and its live eschatology).
 - **The four-Abrahamic-religion structural template** — Ch 3 §3.1.
 - **The *apauruṣeya* break of the pyramidal authority chain** — Ch 3 §3.6.
 - **The Aṣṭāvakra/Bandin diagnostic** — Ch 3 §3.5 (the *peer* mechanism; the *śāstrārtha* counter-frame).

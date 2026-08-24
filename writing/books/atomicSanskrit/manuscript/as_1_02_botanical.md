@@ -18,184 +18,206 @@
 
 ---
 
-## 2.1 The Category Withheld from Sanskrit
+## 2.1 What Codification Cannot Explain
 
-The first block placed over Sanskrit is its classification as a natural language. The pyramid assigns that category before the reader examines how Sanskrit is built. Once the classification is accepted, every designed feature can be presented as the result of drift. This is category theft: Sanskrit is placed inside a category that directly contradicts its own architecture.
+The pyramid presents the Vedas as records from a period when Sanskrit was supposedly still a natural language changing over time. It arranges differences within the Vedic corpus into chronological layers and calls those differences evidence that Sanskrit was drifting.
 
-The chapter's epigraph demonstrates that power by itself belongs to neither ***सत् (*sat*)*** nor ***असत् (*asat*)***. Its character depends upon the action it serves. **माया (*māyā*)** is such a power. Indra defeats the ***मायिन् (*māyin*)*** Śuṣṇa with *māyās* of his own. It is *māyā* against *māyā*. The Hindu continuum distinguishes **दैवी माया (*daivī māyā*)** from **आसुरी माया (*āsurī māyā*)**. This book follows that distinction through action: *daivī māyā* turns power toward radiance, protection, and revelation, while *āsurī māyā* turns power toward concealment and deformation.[NOTE: rigveda-1-11-7-maya-mayin]
+Pāṇini then enters the story as the person who stopped that movement. He supposedly selected one form of the changing language, “codified” it through the ***Aṣṭādhyāyī***, and produced the stable Sanskrit that followed.[NOTE: bakers-story-category-theft]
 
-This chapter examines *āsurī māyā*. The *Vedāntasāra* gives precise terms to two actions through which ignorance obscures what is present. **आवरण (*āvaraṇa*)** conceals it. **विक्षेप (*vikṣepa*)** projects something else in its place. The text compares *āvaraṇa* to a cloud that blocks the observer's view of the Sun even though the cloud cannot cover the Sun itself. It then compares *vikṣepa* to the projection of a snake upon a rope.[NOTE: maya-concealment-projection]
+At first, the claim appears credible. Arabic went through a codification process that successfully held Quranic and Formal Arabic in place. Sībawayh's ***Al-Kitāb*** became the foundational grammar, while the Quranic text and accepted recitations remained stable.[NOTE: sibawayh-al-kitab][NOTE: arabic-religio-political-authority]
 
-Svarbhānu's action joins the two. Sūrya remains present, but Svarbhānu conceals his radiance and places darkness before the worlds. The worlds become ***अक्षेत्रवित् (*akṣetravit*)***, unable to recognize their surroundings. The pyramid repeats the same action against Sanskrit. *Āvaraṇa* conceals Sanskrit's engineered architecture while that architecture remains directly before the reader. *Vikṣepa* projects a false category in its place: a natural daughter language descended from PIE, brought into India by imaginary Aryans, and supposedly codified by Pāṇini.
+Another Indian language also received a comprehensive grammar. The ***Tolkāppiyam*** documents Tamil sounds, writing, word formation, sentence construction, meaning, literary composition, and poetics. If codification stopped Sanskrit and Formal Arabic from drifting, such a comprehensive grammar should have held Tamil in place as well.[NOTE: tolkappiyam-grammar-and-tamil-change]
 
-The pyramid teaches readers to recognize three broad categories of language. The first contains **natural languages**, which arise through communal speech and continue changing through use, contact, and inheritance. Institutions may standardize one variety for schools, administration, publication, or public life, but Standard English and Standard French remain botanical because their speakers continue changing them.[NOTE: language-origin-standardization-form]
+Three questions test that narrative.
 
-The second category contains **classical or highly formalized languages**. Here an institution preserves a bounded form while ordinary speech continues changing around it. This book calls that state **petrified**. A petrified language retains a recognizable form after institutions have separated it from the ordinary processes through which spoken languages change. Quranic Arabic, Biblical Hebrew as preserved through the Masoretic apparatus, and ecclesiastical Latin provide familiar examples. Chapter 13 §13.5 follows their different trajectories, while Chapter 14 §14.6 examines the institutions that kept selected forms fixed as speech continued changing around them.[NOTE: petrified-bounded-forms]
+> How was Formal Arabic's codification implemented, and why did the Arabic spoken at home continue changing until some forms became mutually unintelligible?
+>
+> If comprehensive grammar stops drift, why did Tamil change despite the *Tolkāppiyam*?
+>
+> If Tamil drifted despite codification, why did Sanskrit remain invariant?
 
-The third category contains **constructed languages**, which begin with a deliberate plan created by a person or group. Quenya and Sindarin were constructed for the world of *The Lord of the Rings*, while Klingon was constructed for *Star Trek*.[NOTE: conlangs-tolkien-okrand] This broad category hides a major difference within constructed languages. Some depend heavily upon a listed vocabulary, while others use a compact architecture to generate expressions.
+**The Vedas.**
 
-These three categories conflate two different parameters. *Natural* and *constructed* describe how a language originated, while *classical* and *highly formalized* describe what institutions later did to a selected form. They also place lexicon-dependent conlangs and generative architectures under the same heading.
+Pāṇini's contribution to Sanskrit is extraordinary. These comparisons do not diminish it. They place his achievement inside the architecture that kept Sanskrit invariant before and after him.
 
-Late-nineteenth-century Europe demonstrated that it understood this difference when Esperanto emulated Sanskrit's combination of deliberate construction and internal generativity. The category was available. Yet the pyramid continued to classify Sanskrit as natural speech at its origin and then grouped *"Classical Sanskrit"* with highly formalized languages after **पाणिनि (*Pāṇini*)** supposedly *"codified"* it.
+The rest of this book explains how the Vedas kept Sanskrit invariant. They remain a distributed calibrant for Sanskrit's sounds and grammar. They also encode foundational architectures of ***संस्कृति (*saṃskṛti*)***, including the distinctions between ***सत् (*sat*)*** and ***असत् (*asat*)*** and the created order of ***ऋत (*ṛta*)***. This volume begins with the linguistic architecture because Sanskrit allows the calibrant relationship to be examined in full.
 
-That placement hides two defining facts. Sanskrit is the oldest and most successful constructed language: a wholly created architecture that remains available in complete, usable, and unchanged form. It is also internally highly generative, so speakers can produce valid expressions for new situations without changing the language itself. Chapters 10 and 11 decipher the parts of that engine. Sections 12.7–12.8 bring the construction together and show how affixes, compounds, and sentence formation allow **लौकिक (*laukika*)** speakers to create new expressions in every age.
+## 2.2 Answer the Questions
 
-The pyramid withholds from Sanskrit a category that European language-makers had already demonstrated in practice. Deliberate construction gives Sanskrit a stable architecture, while internal generativity keeps that architecture usable in every age. Together, they have allowed Sanskrit's caretakers to preserve the language across thousands of years, along with the civilizational memory of how pyramidal orders were recognized, resisted, and defeated.
+### How Formal Arabic Was Held in Place
 
-That threatens the pyramid.
+Formal Arabic was held in place by authority. Grammar formed only one part of that structure.
 
-## 2.2 Four Language Categories
+*Ṣaḥīḥ al-Bukhārī* records that Caliph ʿUthmān appointed a committee to prepare official Quranic copies, sent those copies to the Muslim provinces, and ordered the competing written materials to be burned. Ibn Mujāhid later selected seven recitations for canonical status, and Ibn al-Jazarī established a canonical set of ten. Religious authority determined which recitations would be accepted and transmitted.[NOTE: arabic-religio-political-authority][NOTE: quranic-engineered-preservation]
 
-Figure 2.1 separates the two distinctions that the pyramid's three categories mix together. The horizontal axis describes whether a language originated organically or was deliberately engineered. The vertical axis describes whether its internal architecture has high or low generativity. The figure therefore separates how a language originated from how much it can generate.
+The modern state extended that control through print and education. In 1924, al-Azhar scholars prepared a Quranic edition for Egyptian government schools with support from King Fuad, the Ministry of Education, and the state press. The Cairo Arabic Language Academy was then created by royal decree to regulate formal public Arabic. It produces dictionaries, standardizes terminology, and states which words and constructions may be used or avoided.[NOTE: arabic-religio-political-authority]
 
-![Figure 2.1 — Four Language Categories. Origin and generativity produce four distinct categories: Generative Architectures, Natural Languages, Lexicon-Dependent Conlangs, and Petrified Languages.](figures/botanical/language2x2-categories.png){#fig:ch2-language-2x2-categories width=100%}
+These authorities controlled the text, recitation, formal usage, and education placed under their care. They did not control the Arabic that children learned at home. Spoken Arabics continued changing until some became mutually unintelligible. Formal Arabic remained stable because religious and political institutions guarded it. Codification alone did not stop Arabic from drifting.[NOTE: petrified-bounded-forms]
 
-The **organic + high-generativity** quadrant contains the world's **Natural Languages**. Their speakers respond to new circumstances by changing vocabulary, pronunciation, grammar, and usage. No authority has to approve each addition because the speaking community continually generates and selects the forms that survive. English, Marathi, Tamil, Korku, Moroccan Arabic, and thousands of other languages remain adaptable through this ordinary communal activity.
+### What Happened to Tamil?
 
-The **organic + low-generativity** quadrant contains languages that have been **Petrified** by authority. The classification draws its image from a petrified tree. Minerals gradually replace the tree's living cells while preserving its trunk, grain, and rings. The result still looks organic, but its substance is now stone: the visible tree remains while the living tree is gone. A language, or one formal version of it, enters this quadrant when an authority preserves a selected form but prevents ordinary speakers from correcting or extending it through daily use. Scripture, schools, academies, dictionaries, authorized editions, or public offices can preserve that form for centuries, but a new circumstance remains outside it until an authorized custodian approves an extension. The language has become petrified because authority has preserved its recognizable form while restricting its ability to grow through ordinary use.
+The *Tolkāppiyam* preserved a detailed account of Tamil, but Tamil continued changing. Linguists distinguish Old Tamil, Middle Tamil, and Modern Tamil because pronunciation, grammar, and vocabulary moved across generations. A present-day Tamil speaker may recognize words and phrases in a Sangam poem but still need commentary or a modern Tamil explanation, much as a Marathi speaker unfamiliar with **ज्ञानेश्वरी (*Jñāneśvarī*)** may recognize its Marathi while needing help to understand the passage.[NOTE: tolkappiyam-grammar-and-tamil-change]
 
-The pyramid loves gated languages because every gate gives the apex control over formal recognition. His institutions decide which form counts as correct, which generated expressions enter education and administration, who may interpret the language, and which speakers receive office or prestige. When those gates harden around a selected form and separate it from ordinary communal change, gating becomes petrification. The changing languages spoken below can then be dismissed as corruptions, vernaculars, or mere dialects.
+Later Tamil readers faced two barriers. Tamil itself had changed, and many Sangam works had passed out of wide circulation. Hindu monasteries and individual custodians preserved palm-leaf manuscripts. During the nineteenth century, Tamil scholars recovered those manuscripts and published the works for a wider Tamil readership. C. W. Damodaram Pillai printed the ***Kalittokai*** in 1887, and U. V. Swaminatha Iyer published the ***Pattuppāṭṭu*** in 1889. More Sangam works followed.[NOTE: sangam-corpus-nineteenth-century-recovery]
 
-Classical Latin followed this path. Elite literary Latin remained generative, but education, writers, grammarians, and copying institutions controlled which usage counted as exemplary. Spoken Latin continued changing beyond those gates. Later institutions preserved the selected literary form until it became the petrified object now called Classical Latin.
+Tamil demonstrates what codification can and cannot do. The *Tolkāppiyam* preserved grammatical knowledge and gave later scholars access to earlier Tamil. It did not stop the language spoken by successive generations from changing.
 
-Arabic allows the reader to see three different conditions at the same time. Spoken Arabics remain botanical because their speakers continue changing them through communal use. Modern Standard Arabic (MSA) remains generative, but institutions gate which forms receive recognition in education, administration, and publication. Quranic Arabic provides the clearest petrified form because institutions preserve it through the *muṣḥaf*, recitation, memorization, and authorized readings.
+Formal Arabic remained stable because authority guarded it. Tamil changed because codification alone was not enough. Sanskrit remained invariant without placing a caliph, king, ministry, or academy above the language. Sanskrit therefore has a distinct purpose and an architecture built to sustain it. The chapters that follow dissect that purpose and the architectural elements that have kept Sanskrit invariant.
 
-MSA resembles a generative but gated literary Latin. If it follows Latin's path, it will eventually petrify.
+## 2.3 Four Language Categories
 
-Moroccan, Egyptian, Levantine, Gulf, and other spoken Arabics continue changing as natural languages, and some differ enough that speakers from distant regions need MSA or another shared variety to understand one another. Quranic or Classical Arabic and MSA are commonly described as **High Arabic**, while the natively acquired spoken Arabics are placed below them as **Low Arabic**. *High* and *Low* therefore describe positions in an institutional pyramid, not linguistic worth.[NOTE: petrified-bounded-forms][NOTE: botanical-drift-prestige-memory]
+The familiar categories confuse two separate questions. *Natural* and *constructed* describe how a language originated. *Generative* and *lexicon-dependent* describe how much new expression its internal architecture can produce.[NOTE: language-origin-standardization-form]
 
-The **engineered + low-generativity** quadrant contains **Lexicon-Dependent Conlangs**. Their designers begin with a planned vocabulary and a set of rules, then add material when the original inventory cannot express a new circumstance. Quenya, Sindarin, Klingon, Dothraki, and Newspeak illustrate this category. A conlang can later move out of it when a community begins changing the language through ordinary use.
+Figure 2.1 places those questions on separate axes. The horizontal axis asks whether a language arose through communal speech or deliberate engineering. The vertical axis asks whether speakers can generate new expression through its architecture or must keep extending a listed vocabulary.
 
-The **engineered + high-generativity** quadrant contains **Generative Architectures**. Sanskrit belongs here because its architecture can generate the vocabulary and expressions required by new circumstances *without* changing the language itself. Its *laukika* domain allows usage to expand, almost without limit, while the *dhātavaḥ*, affixes, compounds, grammatical relations, and distributed calibration preserve the language. Esperanto and Toki Pona also began with compact generative designs, although neither possesses Sanskrit's two-domain preservation architecture.
+![Figure 2.1 — Four Language Categories. Origin and generativity produce four distinct categories: Generative Architectures, Natural Languages, Lexicon-Dependent Conlangs, and Petrified Forms.](figures/botanical/language2x2-categories.png){#fig:ch2-language-2x2-categories width=100%}
 
-## 2.3 Movement Between Categories
+The **organic + high-generativity** quadrant contains the world's **Natural Languages**. English, Marathi, Tamil, Korku, and the spoken Arabics belong here. Their speakers respond to new circumstances by creating and selecting expressions through ordinary use. Sounds, meanings, and grammar can change as each generation inherits the language.
 
-Figure 2.2 places examples inside the four categories and shows two ways a language can move between them.
+The **organic + low-generativity** quadrant contains **Petrified Forms**. An institution separates one selected form from the speech changing around it and keeps that form available through scripture, education, authorized editions, or formal use. Quranic Arabic, ecclesiastical Latin, and the Masoretic form of Biblical Hebrew provide familiar examples. The label applies to the guarded object, not to every language spoken by the surrounding society.
 
-![Figure 2.2 — Languages and Movements. The examples occupy the four categories. Vivification begins when an engineered language enters ordinary communal use and starts changing botanically. Revivification returns a petrified language to daily speech, where botanical change resumes.](figures/botanical/language2x2-list.png){#fig:ch2-language-2x2-list width=100%}
+The **engineered + low-generativity** quadrant contains **Lexicon-Dependent Conlangs**. Their designers create rules and a vocabulary for a specified purpose, then add more listed material when the first inventory cannot express a new circumstance. Quenya, Sindarin, Klingon, Dothraki, and Newspeak illustrate the category.[NOTE: conlangs-tolkien-okrand]
 
-**Vivification** occurs when an engineered language enters ordinary communal use and begins changing with its speakers. Esperanto illustrates that movement. **Revivification** occurs when speakers return a petrified language to daily and childhood use. Modern Hebrew provides the clearest example; Chapter 13 §13.5 follows that process.
+The **engineered + high-generativity** quadrant contains **Generative Architectures**. Sanskrit belongs here. Its finite inventory of sounds, atoms, bonds, endings, compounds, and sentence operations can produce expressions for circumstances that no earlier composition listed. Esperanto also began in this quadrant through a compact design intended for wide new use.
 
-**Vivimorphosis** describes a different movement. Sanskrit itself remains inside its generative architecture while one of its engineered forms enters a natural language and acquires botanical life there. Chapter 19 §19.7 follows that movement from **शब्द (*śabda*)** through **बीज (*bīja*)** to **अपशब्द (*apaśabda*)** and explains how the movement supports the Radiance Thesis: Sanskrit forms can travel outward and then change inside the languages that receive them.
+The grid clarifies origin and generativity. It does not yet explain invariance. Sanskrit and Esperanto occupy the same quadrant, but their histories differ sharply.
 
-Esperanto offers a revealing modern example. It was engineered in late-nineteenth-century Europe after Sanskrit had spent decades transforming the continent's study of language, and its compact generative plan emerged inside that intellectual environment. Within years, however, speakers were adding forms and allowing usage to select among them, so the engineered project began moving toward the Natural Languages quadrant.[NOTE: esperanto-engineered-botanical-transition]
+## 2.4 Rules Are Not Enough
 
-### Why Sanskrit Does Not Move
+Esperanto offers a revealing modern example. It was engineered in late-nineteenth-century Europe after Sanskrit had spent decades transforming the continent's study of language, and its compact generative plan emerged inside that intellectual environment. Its ***Fundamento*** establishes a compact grammatical base, and speakers can combine its elements to express circumstances its creator did not list individually.[NOTE: esperanto-engineered-botanical-transition]
 
-Esperanto began moving toward the Natural Languages quadrant when its speakers started changing the language through use. Sanskrit also had to remain useful as people composed new material across changing circumstances, but it meets that requirement through a different design. Chapter 0 introduced Sanskrit's two domains without yet explaining why both are necessary. The *vaidika* domain protects the calibrant against entropy: the Vedas preserve an invariant corpus and encode the language's architecture within it. The *laukika* domain allows people to apply that architecture to the needs of each changing age without changing the language itself. Together, the two domains preserve Sanskrit as a generative architecture while allowing people to continue using it.
+Europe had no difficulty recognizing this category when Esperanto appeared. It treated Esperanto as deliberately constructed and capable of generating new expression from a compact design. Sanskrit displays both properties at far greater depth, yet the pyramid places Sanskrit among natural languages. The category exists; it is withheld from Sanskrit.
 
-Esperanto's *Fundamento* supplied rules. To remain engineered and generative across generations, Esperanto would also have needed something comparable in function to the Vedas. It would have needed an invariant body that encoded its architecture in use, a separate domain in which speakers could generate new expressions, and a culture committed to transmitting both. Rules can describe an architecture, but Sanskrit's two domains allow people to preserve that architecture while continuing to use it.
+Esperanto also demonstrates that those properties do not preserve themselves. Once communities began using the language, usage began selecting among forms and introducing variation. Chapter 6 calls this movement ***vivification***: an engineered language begins acquiring the changing life of a natural language through communal use.
 
-Esperanto's purpose was equal communication across nations. Sanskrit expresses *saṃskṛti* through language: the radiant, calibrant, and fractal architecture of Sanātan. **धर्म (*dharma*)** directs that architecture toward the welfare of all beings; stories preserve memories of balance, failure, and recovery; and distributed caretakers keep the Vedic calibrant available when society falls away from it. Linguistic rules and vocabulary form one layer within that sustaining order.
+The *Fundamento* provided rules. Esperanto had no separate invariant domain that encoded those rules across a large body of language in use. It also had no preservation architecture that trained successive generations to compare their production with that body and correct departures.
 
-**That *purpose* has inspired millions of people across thousands of years.**
+Sanskrit did.
+
+The ***वैदिक (*vaidika*)*** domain protects an invariant corpus and preserves Sanskrit's architecture within it. The ***लौकिक (*laukika*)*** domain allows speakers to use the same architecture for new words, poems, explanations, calculations, and arguments. The first remains available for calibration. The second keeps the language useful without rewriting the first.
+
+Purpose sustains that division. Esperanto sought equal communication across nations. Sanskrit carries *saṃskṛti* through language. Its caretakers preserved it because they were also preserving a civilizational architecture intended to serve the well-being of life. Rules form one layer of that purpose; they cannot replace it.
+
+**That purpose has inspired millions of people across thousands of years.**
 
 I am one of them.
 
-## 2.4 Three Claims Behind the Category Theft
+## 2.5 The Missing Calibrant
 
-Figures 2.1 and 2.2 place *vaidika* and *laukika* Sanskrit together inside Generative Architectures. Figure 2.3 shows how the pyramid steals that category. It moves both domains into the organic column and teaches readers to see them as two languages from two periods.
+A stable grammar cannot correct anyone merely by existing. The correct form must remain available, people must know how to compare their own production with it, and a departure must be corrected before children inherit it as the new norm.
 
-![Figure 2.3 — The Misclassification of Sanskrit. The pyramid removes *vaidika* and *laukika* Sanskrit from their shared generative architecture, recasts domain as chronology, and assigns each domain to a different organic category.](figures/botanical/language2x2-misclassification.png){#fig:ch2-language-2x2-misclassification width=100%}
+The Vedas provide that reference. Their exact recitation preserves Sanskrit across a large and varied corpus. A student hears its sound system in use, including duration, pitch, and the movement from one sound to the next. The same corpus preserves completed words and verbs, case relations, compounds, and sentence structures inside language that cannot be rewritten to match current usage. The surrounding disciplines explain what the recitation preserves and train people to reproduce it.
 
-European comparative philologists built this story across three generations during the nineteenth century. Their account still shapes Indo-European curricula and standard references.[NOTE: bakers-story-category-theft] Three linked claims produce the arrows in Figure 2.3.
+The Vedas are therefore more than old compositions in Sanskrit. They preserve enough of the language in use to guide later speakers. More importantly, they preserve its sounds in use. Their fixed content gives those speakers a stable reference, while the *laukika* domain lets them create expressions for their own world.
 
-**First: Call Sanskrit a natural language.** The pyramid begins by placing Vedic Sanskrit inside the Natural Languages quadrant. It treats the language as communal speech that changed as each generation used it. The family tree then makes the rest of the story feel familiar. Sanskrit grows from a root, occupies a branch, and produces daughter languages. That metaphor describes many natural languages well, but it conceals the category shown in Figure 2.1. Sanskrit is a created and internally generative architecture. Calling it a botanical language forces **संस्कृति (*saṃskṛti*)** into the category of **प्रकृति (*prakṛti*)** before the reader has examined how the language is built.
+Chapter 6 goes further. It describes how Sanskrit's engineered ecosystem protects the language against its two greatest enemies: gradual entropy and deliberate asuric attack.
 
-**Second: Give Sanskrit an imaginary foreign origin.** Once the pyramid places Sanskrit inside a family tree, it puts Proto-Indo-European above it as the parent. Sanskrit becomes one daughter beside Greek, Latin, and the other languages. The Racial Arya Thesis (**RAT**) then invents the people who carry that daughter into India. AIT and AMT argue over whether they invaded or migrated, but both preserve the same racial premise: foreign people supposedly brought Sanskrit into the Indian subcontinent.
+Chapters 13–15 examine how this reference survived. Chapter 13 distinguishes a guarded form from an active calibrant. Chapter 14 explains how the preservation layers check one another. Chapter 15 compares recitation across geographically separated Vedic lineages and demonstrates distributed correction without a central office.
 
-People may have entered India for many reasons. Some may even have escaped the tyranny of the pyramid and entered India as refugees. They could have learned Sanskrit and earned a place in Indian society through their actions. Their presence in India has nothing to do with Sanskrit's origin; the language was already thriving before they entered. Chapter 3 examines the imaginary people, while Chapters 17 and 18 separate human movement from the engineering of Sanskrit. **The theft begins when *ārya* is made racial and Sanskrit is made portable.**
+Chapter 16 then explains how the two domains divide their responsibilities. The *vaidika* domain preserves the reference. The *laukika* domain permits new composition through the same architecture. One protects invariance; the other provides generative reach. Together they demonstrate calibrant order at linguistic scale.
 
-**Third: Make Pāṇini divide Sanskrit into before and after.** The pyramid makes Sanskrit drift for generations before Pāṇini. It then presents the language he inherited as unstable and in need of repair. Pāṇini supposedly selected the speech of an educated elite, regularized it, and produced *"Classical Sanskrit."* The *Prākṛta* languages continued changing, while grammar supposedly froze Sanskrit in place.
+Pāṇini inherited this arrangement. His *Aṣṭādhyāyī* made the grammatical operations explicit with unmatched compression and precision. It strengthened the architecture by adding another path for teaching, analysis, and correction. The Vedas remained the calibrant.[NOTE: calibration-hierarchy]
 
-This story gives Pāṇini credit for creating a stability that the Vedas and the Sanskrit analytical continuum had already preserved. Chapter 5 places him inside that longer continuum. He inherited Sanskrit, decoded its architecture, and documented it with extraordinary precision. Sanskrit's recitation disciplines, grammar, and transmission lineages kept correction available before and after his documentation. Pāṇini documented that stability; he did not cause it.
+## 2.6 *Saṃskṛti* Made to Look Like *Prakṛti*
 
-**The result: Two domains become two periods.** Figure 2.3 shows the completed theft. **वैदिक (*vaidika*)** Sanskrit is moved into Natural Languages and relabeled *"Archaic Sanskrit."* **लौकिक (*laukika*)** Sanskrit is moved into Petrified Languages and relabeled *"Classical Sanskrit."* Their different purposes disappear, and the reader sees an earlier language followed by a later one.
+The botanical metaphor describes natural languages well. They grow through communal use, branch across populations, absorb contact, alter sounds, shed endings, acquire exceptions, and pass changed forms to later generations.
 
-The architecture exposes the fraud. The *vaidika* domain includes pitch, meter, additional grammatical forms, greater freedom in word placement, and sounds beyond the reusable grid. These features give the fixed Vedic corpus greater architectural breadth. The *laukika* domain allows people to create an unlimited number of new words and sentences. It therefore admits a more selective set of reusable sounds and grammatical forms, each chosen to remain distinguishable wherever future speakers use it. The pyramid labels the broader *vaidika* architecture *primitive* and the more selective, highly generative *laukika* architecture *advanced*. It then turns two domains designed for different purposes into an old language followed by a new one.
+Old English **hlāfweard**, the “bread-guardian,” became **laverd**, then **lorde**, then modern **Lord**.[NOTE: hlafweard-etymology] The sounds changed, and the word's original construction became harder to recognize. No single speaker designed the complete sequence. Each generation received a form and passed another one forward.
 
-Pāṇini's terminology preserves this distinction. **छन्दसि (*chandasi*)** identifies Vedic use, while **भाषायाम् (*bhāṣāyām*)** identifies *laukika* use. These labels identify where particular rules apply; they do not arrange Sanskrit into an earlier and a later language.[NOTE: chandasi-bhashayam-mode-markers]
+In the 1860s, August Schleicher turned this process into the family tree of language.[NOTE: schleicher-stammbaumtheorie] Languages acquired parents, sisters, daughters, roots, stems, and branches. The metaphor made natural change easy to picture, but it also allowed European philology to treat every language as if it belonged to the same botanical category.
 
-> *The dogma says:* *"Vedic Sanskrit evolved into Classical Sanskrit."*
+Sanskrit's own vocabulary identifies a different category. **संस्कृतम् (*saṃskṛtam*)** is an architectural declaration. Its final portion, **कृतम् (*kṛtam*)**, is the past participle of ⟪कृ⟫ (*kṛ*), the atom for making. It means made, produced, or brought into form. The preceding *sam-* carries completion and integration:
+
+> सम्यक् कृतम् इति संस्कृतम् ।
 >
-> *The Hindu continuum says:* *"Sanskrit has vaidika and laukika domains. The first protects the invariant Vedic corpus. The second allows people to understand existing worldly compositions and create new ones. Both use one language architecture."*
+> *samyak kṛtam iti saṃskṛtam* |
+>
+> That which has been completely formed is *saṃskṛtam*.
 
-Chapter 16 explains why Sanskrit needs both domains and how they complement each other.
+The word describes a completed act of formation rather than a people, territory, or branch of a family tree.[NOTE: samskrtam-morphology] **प्रकृति (*prakṛti*)** provides the natural category: what arises and continues forming through nature. The botanical metaphor and *prakṛti* use different vocabularies for the same broad process. Category theft begins when the pyramid places *saṃskṛtam* inside that process and presents its engineered form as natural growth.
 
-## 2.5 The Botanical Metaphor
+The same theft reaches Sanskrit's smallest semantic constituent. Sanskrit calls it **धातुः (*dhātuḥ*)**. Across grammar and other Sanskrit knowledge systems, the word identifies something that supports and constitutes a larger form. Chapter 10 tests the grammatical *dhātavaḥ* against the properties of atoms and shows the recurring structures from which words are built.
 
-In the 1860s, the German comparativist August Schleicher drew language history as a family tree.[NOTE: schleicher-stammbaumtheorie] He described languages as living organisms that grow from ancestors, divide into branches, produce daughters and sisters, mutate, and decay. The picture made a theory of linguistic history look like a fact of nature. Once students accepted the tree, its vocabulary also began to sound inevitable: plant-organs, stems, branches, families, daughters, and sisters. A century and a half later, comparative philology still speaks through Schleicher's metaphor so routinely that many readers no longer notice it.
+European philology translated *dhātuḥ* as *root*. Sanskrit already possessed botanical words such as **बीज (*bīja*)**, a seed, and **मूल (*mūla*)**, a root or foundation. Its grammatical continuum selected *dhātuḥ*. The translation moved a constituent from an architectural category into the botanical picture European philology had already chosen.[NOTE: dhatu-pre-panini-vedic]
 
-The tree makes a created, structured, preserved, and calibrated system look like nature shaped by growth, inheritance, mutation, and decay. Once the tree has assigned Sanskrit plant-organs, branches, and descendants, it also requires Sanskrit to have a parent. Philologists place PIE in that position above Sanskrit. The resulting picture tells readers that Sanskrit arose through inheritance and natural change before Pāṇini imposed order upon it much later. It leaves no place for the distributed order represented by the swastika's geometry. The category has been stolen before the evidence is heard.
+Once the *dhātuḥ* became a root, Sanskrit words could be presented as organic growths on a language tree. The metaphor then appeared to confirm the conclusion built into the translation.
 
-The relationship between **मातृ (*mātṛ*)** and English *mother* gives the reader a familiar example of how the family tree redirects the connection. The English word is a **प्रतिबिम्ब (*Pratibimba*)** — a reflection of the Sanskrit form rather than a sibling standing beside it. Philology acknowledges the closeness, reroutes the direction through PIE, and places visible Sanskrit below an imaginary parent. By the time the etymology is presented, the tree has already decided what relationship the reader will see.
+The botanical metaphor describes growth and decay. Sanskrit was built so that neither would define it.
 
-## 2.6 Where Botany Belongs
+## 2.7 Three Acts of Category Theft
 
-The botanical model persuades because it describes natural language change well.
+Figure 2.2 shows how the pyramid replaces Sanskrit's category. Three linked acts produce the false picture.
 
-English and Dutch behave like sister forms inside the Germanic family, while Latin changed across geography, politics, and usage into French, Spanish, Italian, and the other Romance languages. Natural languages shed endings, blur sounds, absorb neighbors, simplify some forms, complicate others, and reproduce themselves in altered descendants.
+**First: call Sanskrit a natural language.** The pyramid places the *vaidika* domain inside the organic column before examining its architecture. Pitch and meter can then be dismissed as inherited irregularities. Its wider sound and grammatical range can be called archaic residue. Exact transmission can be presented as an attempt to preserve a language that had already changed.
 
-Old English **hlāfweard**, the "bread-guardian," became **laverd**, then **lorde**, then modern **Lord** — a title now reserved for men at the summit of the English hierarchy and for the Almighty.[NOTE: hlafweard-etymology] As the domestic provider became the political-theological superior, the form mutated and its original transparency disappeared.
+**Second: give Sanskrit an imaginary foreign origin.** Once Sanskrit has been placed inside a family tree, Proto-Indo-European can be installed above it as parent. The Racial Arya Thesis then invents the people who supposedly carried one daughter language into India. Invasion and migration versions disagree about the manner of entry while retaining the same requirement: Sanskrit's origin must remain foreign.
 
-Natural languages and Sanskrit can both repeat patterns at different scales, but they do so in different ways. Natural languages produce recurring patterns as speech passes between generations, branches across communities, and changes through use. The plant is therefore a fitting image for *prakṛti*: it grows, reproduces, changes, and decays. Sanskrit repeats stable architectural relationships at the level of sounds, atoms, words, sentences, and the language as a whole. Calibration and correction allow those relationships to remain recognizable at every scale, giving *saṃskṛti* an engineered fractal form. Category theft hides this difference by treating every kind of recurrence as botanical growth.
+People entered India under many different circumstances. Some arrived by choice. Others may have escaped pyramidal societies and earned respect in India through their actions. Those movements have nothing to do with Sanskrit's origin. Chapters 17 and 18 separate the movement of people from the engineering of a language already thriving in India.
 
-The botanical metaphor and **प्रकृति (*prakṛti*)** use different vocabularies to describe the same language category. Both describe languages that form and change through natural communal use. Category theft begins when the pyramid places **संस्कृतम् (*saṃskṛtam*)** inside that natural-language category and describes its engineered architecture as botanical growth.
+**Third: turn Pāṇini into the apex who stopped drift.** The pyramid describes Sanskrit as unstable before him. Pāṇini supposedly selected elite speech, regularized it, and produced “Classical Sanskrit.” His documentation becomes the event that divides a changing older language from a fixed later one.
 
-### Saṃskṛti Made to Look Like Prakṛti
+![Figure 2.2 — The Misclassification of Sanskrit. The pyramid removes *vaidika* and *laukika* Sanskrit from their shared generative architecture, recasts domain as chronology, and assigns each domain to a different organic category.](figures/botanical/language2x2-misclassification.png){#fig:ch2-language-2x2-misclassification width=100%}
 
-Sanskrit's own name puts it in another category. **संस्कृतम् (*saṃskṛtam*)** is an architectural declaration. Its final portion, **कृतम् (*kṛtam*)**, is the past participle of ⟪कृ⟫ (*kṛ*), the semantic atom for making. **कृतम्** means made, produced, or brought into form: it marks an action that has already been completed. The prefix *sam-* elevates this action to mean complete, total, or perfected, leading to the classical definition:
+The completed theft converts two domains into two periods. **वैदिक (*vaidika*)** Sanskrit becomes “Archaic Sanskrit.” **लौकिक (*laukika*)** Sanskrit becomes “Classical Sanskrit.” The wider Vedic architecture is called primitive, while the more selective architecture used for unrestricted new composition is called advanced.
 
-> सम्यक् कृतम् इति संस्कृतम् (samyak kṛtam iti saṃskṛtam) "That which is perfectly constructed is saṃskṛtam."
+Chapter 16 demonstrates the opposite. The *vaidika* domain contains additional pitch, sound, grammatical, and compositional resources because its content remains invariant. The *laukika* domain uses a tighter reusable set because speakers can place its forms inside sentences that have never existed before. Different permissions serve different purposes within one architecture.
 
-Together, **संस्कृतम्** yields the completely made, the perfectly formed, the wholly synthesized.[NOTE: samskrtam-morphology] Its grammatical form describes a created state rather than a people or a place.
+Pāṇini's own documentation marks differences of scope. Terms such as **छन्दसि (*chandasi*)**, **मन्त्रे (*mantre*)**, **ब्राह्मणे (*brāhmaṇe*)**, **अमन्त्रे (*amantre*)**, and **भाषायाम् (*bhāṣāyām*)** tell the student where a particular operation applies. They identify domains and settings; they do not turn one Sanskrit architecture into an evolutionary sequence.[NOTE: chandasi-bhashayam-mode-markers]
 
-If *saṃskṛtam* is what is wholly formed, *prakṛti* is what keeps making itself — nature. **प्राकृतानि (*prākṛtāni*)** are natural language forms: speech that continues shifting, growing, branching, and decaying. Indic grammar already contains the botanical category and assigns that behavior to the *prākṛtāni*. *Saṃskṛtam* is the architecture of **सनातन (*Sanātan*)** — the integral, the perpetual, the ground on which civilization continues. The *prākṛtāni* are everything else.
+> *The dogma says:* “Vedic Sanskrit evolved into Classical Sanskrit.”
+>
+> *The Hindu continuum says:* “Sanskrit has *vaidika* and *laukika* domains. The first preserves the invariant Vedic corpus. The second allows people to understand worldly compositions and create new ones. Both use one language architecture.”
 
-The pyramid's story requires ancient Sanskrit to change. Its account of Vedic drift, substrate absorption, the retroflex row, the syllabic *ṛ* (ऋ), and the supposed transition from Vedic to Classical all depend upon that change. The Vedic-preservation continuum makes the opposite commitment. The *Vedas* are ***apauruṣeya*** (अपौरुषेय) — without human authorship[NOTE: apauruseya-mimamsa-sutra-1-1-5] — and ***śruti*** (श्रुति), heard rather than made. We do not know when the mantras were first seen. From that unknown beginning, the eleven *pāṭhas* (पाठाः), the *Prātiśākhya* (प्रातिशाख्य) discipline, and the *guru-shishya* lineage-chain (गुरुशिष्यपरम्परा, *guru-shishya paramparā*) have formed an error-correcting transmission channel engineered to prevent alteration.
-
-The dogma requires drift, while Sanātan's transmission continuum was built to prevent it. Chapter 17 develops the contradiction where it bites sharpest: the retroflex consonant series.
-
-## 2.7 *Dhātuḥ* Is an Atom
-
-Nineteenth-century European philology placed Sanskrit inside the botanical scheme while discarding Sanskrit's own distinction. It treated *saṃskṛtam* as one more leaf on an Indo-European tree, descended from an imaginary ancestor, shaped by natural drift, and explainable by the same biology that explained ordinary languages. Because the framework did not recognize engineered languages, it described Sanskrit's engineered features as products of natural inheritance and change.
-
-The most consequential fold occurred in a single word: **धातुः (*dhātuḥ*)**. In Sanskrit grammar, the *dhātuḥ* is the foundational structural unit, and that structural meaning continues across Sanskrit's scientific vocabulary. In Ayurveda, a *dhātuḥ* is one of the body's supporting tissues. In *Rasaśāstra* and metallurgical literature, a *dhātuḥ* is a fundamental element, an irreducible base substance valued for stability and constitutive force. Across domains, the meaning remains consistent: a *dhātuḥ* supports, constitutes, and remains. It is a structural constant — a point Chapter 10 develops at atomic scale.
-
-European philology translated *dhātuḥ* as *root*. That translation sounds harmless because readers have already been taught to picture language as a tree. A *dhātuḥ* is a structural constant: the constituent from which body, metal, medicine, and grammar are formed. A plant-root belongs to a different process. It grows through soil, feeds a plant, branches, and eventually decays. The translation therefore moved Sanskrit's grammatical constituent from an engineering category into a botanical one. Once textbooks and dictionaries repeated *root* as the standard English term, readers stopped seeing that the translation had made this choice for them.
-
-Sanskrit already had botanical words available: **बीज (*bīja*)**, the unit from which a plant grows, and **मूल (*mūla*)**, the anchor that draws and feeds. If Sanskrit grammar had intended a botanical category, either word could have identified its basic unit. Sanskrit instead uses *dhātuḥ*, the word for a constituent of body, matter, and substance. That choice places grammar in the engineering category. The English translation replaced Sanskrit's structural category with the plant metaphor that Sanskrit itself did not select.[NOTE: dhatu-pre-panini-vedic]
-
-Once philology called the *dhātuḥ* a root, it could describe Sanskrit words as growths upon a language tree. The framework began by treating languages as organisms and then translated Sanskrit's basic grammatical unit as an organ. A civilizational term for structural constancy was moved into a European botanical garden and kept there as exhibit number one for the family-tree thesis.
-
-The theft strikes at the atomic level. The *dhātuḥ* belongs to the architecture of constituents. The botanical substitute moves it into the architecture of plants.
-
-Chapter 10 tests whether the *dhātavaḥ* behave like atoms built from a shared architecture. It identifies recurring patterns in how the *dhātavaḥ* are built and examines how each pattern keeps its members distinguishable. Those recurring structures demonstrate an engineered inventory. A botanical account of linguistic growth does not explain *why* the inventory repeatedly uses them.
+The pyramid can turn the two domains into a chronology only after it removes the calibrant relationship that connects them.
 
 ## 2.8 Decoding, Not Codification
 
-The word *codified* allows the *asuric machinery* to acknowledge Sanskrit's precision, scale, and generative power while claiming that those qualities came from Pāṇini. In this account, Sanskrit existed as changing natural speech before him. Pāṇini then supposedly selected one educated form, imposed grammatical order upon it, and created what the pyramid calls *"Classical Sanskrit"*. The account praises Pāṇini while removing the distributed and self-correcting *saṃskṛti* that had already preserved the language he documented.
+The comparisons in §2.2 show why codification cannot explain Sanskrit's invariance. Formal Arabic required religious and political authority to remain stable while spoken Arabics changed. Tamil possessed extensive grammatical documentation and still changed. A grammar by itself did not preserve either language.
 
-The sequence transfers credit for Sanskrit's order from the Vedas and the Sanskrit analytical continuum to PIE and Pāṇini. First, the botanical account makes Sanskrit a natural descendant of PIE. Next, it gives Pāṇini authority over a language whose order supposedly did not exist before he documented it. Finally, it presents *"Classical Sanskrit"* as the fixed product of his intervention. The Vedas and the Sanskrit analytical continuum disappear from this history, even though they had preserved and examined the architecture before Pāṇini.
+The word *codified* nevertheless allows the pyramid to acknowledge Sanskrit's precision while transferring the source of that precision to Pāṇini. Sanskrit becomes changing speech before him and ordered language after him. The resulting story no longer needs to explain how the Vedas and the earlier analytical continuum had already preserved and examined Sanskrit before the *Aṣṭādhyāyī*.
 
-This is **heroic erasure** in grammatical form: praise the named figure so intensely that the architecture he inherited disappears. The machinery manipulates Pāṇini's achievement by praising the decoder and then teaching the civilization to remember him as codifier. The praise teaches readers to admire Pāṇini for supposedly imposing order upon Sanskrit, rather than recognizing the architecture that he decoded.
+This is **heroic erasure** in grammatical form. The pyramid praises one extraordinary person so intensely that the architecture he inherited vanishes behind him. Hindus are taught to revere Pāṇini as codifier instead of examining what he decoded. Other students are taught that Sanskrit became precise because one grammarian fixed it.
 
-The praise teaches two audiences to accept the same false history. Hindus are taught to revere Pāṇini as the codifier instead of examining the architecture he decoded. The pyramid's students are taught that Sanskrit became precise because one documenter fixed it. Both lessons prevent readers from recognizing that Sanskrit maintained order through its own architecture and distributed caretakers. An academy, church, court, school, or state can select and enforce one approved form of a language. Pāṇini documents something different: an architecture that allows speakers and teachers to identify a correct form without depending upon one external authority.
+Patañjali presents another sequence. The bond between word and meaning is **सिद्ध (*siddha*)**, already established. Speakers use the word when meaning prompts them. Grammar then distinguishes the established form from departures. Chapter 5 develops that sequence, while Chapter 6 follows the **अपभ्रंशाः (*apabhraṃśāḥ*)**, the forms that fall away from it.
+
+The choice between *codify* and *decode* describes two opposite directions. *Codify* begins with disorder and imposes order through an authority. *Decode* begins with an architecture already in use and makes its operations explicit. Sanskrit calls the discipline ***व्याकरणम् (*vyākaraṇam*)***: unfolding a formation so that its parts and procedures can be examined.
 
 The refrain is simple:
 
 > ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest. The Vedas remain the calibrant.***
 
-The whole case turns on direction. *Codify* runs from disorder toward imposed order; *decode* runs from prior order toward explicit specification. Sanskrit's own word is ***vyākaraṇam*** (व्याकरणम्): *vi-* (वि, *apart*) + *ā-* (आ, *fully*) + ⟪कृ⟫ (*kṛ*, *to do, to make*) — *unfolding apart*. The ***vaiyākaraṇaḥ*** (वैयाकरणः) is the one who performs that unfolding. Chapter 5 lays out the analytical lineage in detail; Chapter 10 develops the penetrating *agni* decoding of **यास्क (*Yāska*)** through a detailed example.
+Pāṇini did not codify Sanskrit. He decoded it. His *Aṣṭādhyāyī* remains an unmatched account of an order Sanskrit already possessed.
 
-Pāṇini did not codify Sanskrit. He decoded it. His *Aṣṭādhyāyī* articulates the finest decoding of an order Sanskrit already possessed. The asuric machinery reverses that direction and calls the reversal *codification*. Every school, textbook, and standard reference that presents Pāṇini as the creator of Sanskrit's order repeats the same category theft.
+## 2.9 The War Changed the Attack
 
-## 2.9 The Category Theft
+In *Tatya Tope's Operation Red Lotus*, I argued that the Anglo-Indian War of 1857 allowed India to survive as a nation. The war did not end British political or economic control. It did force Britain to retreat from its overt drive to convert India to Christianity and from direct interference in Hindu personal life. The Crown's public commitment to religious non-interference came after Indian resistance had made the previous course dangerous.[NOTE: orl-three-apex-nexus][NOTE: 1858-religious-neutrality-after-war]
 
-The botanical model describes languages that grow and decay. It fails when applied to a language engineered to resist linguistic drift. To place Sanskrit inside the tree, the pyramid translated *dhātuḥ* as a plant-root, described its grammar as leftovers produced by natural change, and claimed that Pāṇini froze one selected form. Each step replaced evidence of engineering with a botanical explanation. Together, these steps teach the reader to place Sanskrit in the wrong civilizational category: not *saṃskṛti*, but *prakṛti*.
+The war forced the British state to accept that Hinduism could not be destroyed through an overt conversion program backed by imperial power.
 
-Patañjali had already described the difference precisely. The *vaiyākaraṇaḥ* defends the correctly formed word against the **अपभ्रंशाः (*apabhraṃśāḥ*)**, the forms that fall away from it. In his account, speech can deviate from an established form. European philology later reversed that relationship and treated drift as Sanskrit's natural condition. Patañjali also described the bond between word and meaning as **सिद्ध (*siddha*)** — already established and permanent — rather than **कार्य (*kārya*)**, something that grammar produces anew. The engineered word remains available while natural variants depart from it. Chapters 5 and 6 develop that framework on its own terms.
+The retreat did not end the attack on Hindu continuity. Missionaries continued seeking conversions. Colonial schools and universities continued placing European scholars above Indians as the authorized interpreters of India's past. Britain still occupied the political and economic apex.
 
-The botanical metaphor describes growth and decay. Sanskrit was built so that neither would define it.
+Hindu society retained enough room to transmit the Vedas and teach Sanskrit. Families and communities continued their observances and carried civilizational memory forward. The polity built around calibrant order had been damaged, but evidence of that order remained alive in the Vedas and in the language they calibrated.
 
-The tree forced *saṃskṛti* into *prakṛti* and placed the invented ancestry of PIE strictly above it. The codification myth then made the documentation of an existing architecture look like mere repair. Neither reversal was accidental. The pyramid needed both of them to preserve its story of PIE ancestry and Pāṇini's late imposition of order.
+The surviving Vedic calibrant threatened the pyramid more deeply than war. Sanskrit demonstrates that order can remain exact and distributed without placing a ruler, church, academy, or state above it. The Vedas preserve a standard that no conqueror owns. People can compare themselves with that standard without asking an apex to certify the result.
+
+The conflict predates Abrahamic rule in India. It is older than British-Christian rule and the Islamic rule that preceded it. An architecture aligned with *asat* seeks to contain what should remain open and place itself above every standard. The Vedas preserve a calibrant it cannot own. Hindu continuity therefore remains a standing refusal of the asuric claim to universal control.
+
+Comparative philology was already being assembled before 1857. After overt conversion met its limit, its botanical vocabulary, foreign ancestry, and racial premises offered another way to weaken Hindu continuity. The British did not need to make every Veda disappear. They could teach Indians to see the Vedas as archaic literature, *vaidika* and *laukika* as historical periods, Sanskrit as a foreign natural language, and Pāṇini as the apex who imposed order upon it.
+
+The attack moved from openly replacing Hindu life to controlling the categories through which Hindus understood what they had preserved.
+
+## 2.10 Āsurī Māyā
+
+The chapter can now return to its epigraph. The mantra presents power without assigning it automatically to either side. **माया (*māyā*)** can serve ***सत् (*sat*)*** or ***असत् (*asat*)***. Indra defeats the ***मायिन् (*māyin*)*** Śuṣṇa with *māyās* of his own. The Hindu continuum therefore distinguishes **दैवी माया (*daivī māyā*)**, which serves radiance and protection, from **आसुरी माया (*āsurī māyā*)**, which serves concealment and deformation.[NOTE: rigveda-1-11-7-maya-mayin]
+
+The *Vedāntasāra* gives two names to the asuric procedure. **आवरण (*āvaraṇa*)** conceals what remains present. **विक्षेप (*vikṣepa*)** projects something else where the observer should have recognized it. A cloud appears to cover the Sun, although it blocks only the observer's sight. A rope disappears beneath the projected snake.[NOTE: maya-concealment-projection]
+
+The pyramid uses both actions against Sanskrit.
+
+**Āvaraṇa conceals the calibrant.** The Vedas remain audible. Their recitation disciplines remain active. Sanskrit's architecture remains available for examination. Yet the pyramid removes the relationship among them from its explanation.
+
+**Vikṣepa projects the replacement.** Sanskrit becomes a natural daughter of PIE, brought into India by imaginary Aryans and finally stabilized by Pāṇini. The projected story occupies the place where the reader should have seen an engineered language, a distributed Vedic calibrant, and two domains with complementary permissions.
+
+Svarbhānu uses the same method. He does not destroy Sūrya. He places darkness between the Sun and the worlds until the worlds become ***अक्षेत्रवित् (*akṣetravit*)***, unable to recognize their surroundings. The pyramid could not destroy Sanskrit. It taught the world to see Sanskrit through darkness.
+
+The next chapter asks why the pyramid needs this concealment. A distributed calibrant denies the apex the ownership he seeks. Chapter 3 examines the architecture of containment that follows from that desire for ownership.

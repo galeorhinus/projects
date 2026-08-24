@@ -52,17 +52,18 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 
 *How the shadow is cast: the false categories (descended, botanical, codified), the motive behind them, and the formation that operates the machinery.*
 
-**Chapter 2 — Category Theft and Āsurī Māyā** — *Names the foundational category theft. Sanskrit belongs to the* saṃskṛti *category; the dogma splits it into natural drift before Pāṇini and the codification myth after him. Exposes the botanical metaphor, the* dhātuḥ *mistranslation, and the Pāṇini-as-"codifier" move as one theft, and names the engineered / encoded / decoded / codified stack.*
+**Chapter 2 — Category Theft and Āsurī Māyā** — *Tests the codification myth against Arabic and Tamil, identifies the Vedas as Sanskrit's distributed calibrant, and then shows how the pyramid concealed that relationship beneath a botanical history and an apex codifier.*
 
-- 2.1 The Category Withheld from Sanskrit — *The pyramid's three categories omit the category that describes Sanskrit: a deliberately created language with a highly generative internal architecture.*
-- 2.2 Four Language Categories — *Origin and generativity create four categories. Figure 2.1 places Natural Languages, Petrified Languages, Lexicon-Dependent Conlangs, and Generative Architectures inside one consistent classification.*
-- 2.3 Movement Between Categories — *Figure 2.2 shows vivification, revivification, and vivimorphosis. Esperanto demonstrates why rules alone cannot keep a constructed language from becoming botanical, while Sanskrit's two domains provide a different response.*
-- 2.4 Three Claims Behind the Category Theft — *Figure 2.3 shows how the pyramid classifies Sanskrit as natural, gives it an imaginary foreign origin, and uses Pāṇini to turn two domains into two periods.*
-- 2.5 The Botanical Metaphor — *The family tree makes languages look botanical by default and places the imaginary PIE ancestor above Sanskrit before the reader examines the architecture.*
-- 2.6 Where Botany Belongs — *The botanical model describes natural languages well. The theft begins when that model forces saṃskṛti into the category of prakṛti.*
-- 2.7 *Dhātuḥ* Is an Atom — *Nineteenth-century philology forced* dhātuḥ *into a botanical category, turning a cross-domain term for a structural constant into a plant-organ.*
-- 2.8 Decoding, Not Codification — *Pāṇini decoded an existing architecture; heroic erasure praises him as the supposed codifier to make the prior architecture disappear.*
-- 2.9 The Theft Made Visible — *The close shows how the botanical metaphor hides Sanskrit's architecture and places invented PIE ancestry above it.*
+- 2.1 What Codification Cannot Explain — *States the pyramid's claim, tests it through three questions, and identifies the Vedas as the answer the rest of the book will demonstrate.*
+- 2.2 Answer the Questions — *Formal Arabic remained stable through religious and political authority. Tamil changed despite the* Tolkāppiyam. *Neither case allows grammar alone to explain Sanskrit's invariance.*
+- 2.3 Four Language Categories — *Figure 2.1 separates origin from generativity and places Sanskrit and Esperanto inside Generative Architectures.*
+- 2.4 Rules Are Not Enough — *Esperanto demonstrates engineered generativity and also demonstrates why rules cannot preserve that architecture across generations.*
+- 2.5 The Missing Calibrant — *The Vedas preserve a fixed body of Sanskrit in use, while the* laukika *domain allows new expression through the same architecture.*
+- 2.6 *Saṃskṛti* Made to Look Like *Prakṛti* — *The botanical metaphor describes natural languages but misclassifies Sanskrit and turns the* dhātuḥ *from a structural constituent into a plant-root.*
+- 2.7 Three Acts of Category Theft — *Figure 2.2 shows the pyramid moving the two Sanskrit domains into false organic categories and an invented chronology.*
+- 2.8 Decoding, Not Codification — *Pāṇini decoded an existing architecture; heroic erasure praises him as codifier so that the earlier architecture disappears.*
+- 2.9 The War Changed the Attack — *After 1857 forced Britain to retreat from overt conversion, false categories offered another way to separate Hindus from what they had preserved.*
+- 2.10 Āsurī Māyā — *The chapter returns to its epigraph and identifies concealment and projection inside the category theft.*
 
 **Chapter 3 — Motive and Method** — *Asks why the botanical metaphor has not gone. Lethargy and hegemony helped establish it; only strategic necessity accounts for its persistence. Surveys the three pillars the metaphor defends — custody (racial), enclosure (theological), ascent (progress) — and names containment as the method.*
 

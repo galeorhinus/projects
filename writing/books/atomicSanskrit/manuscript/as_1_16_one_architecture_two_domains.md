@@ -4,7 +4,7 @@
 
 ## 16.1 Two Engineering Tasks
 
-Sanskrit has a twofold purpose: first, the language must remain unchanged; second, it must continue to serve a changing world. Chapter 0 §§0.4 and 0.7 introduced these two responsibilities and the civilizational motivation behind them. Millions of people across thousands of years learned, recited, corrected, taught, and defended Sanskrit because they regarded that purpose as worthy of preservation. Chapter 2 §2.3 then showed why an engineered language needs more than a set of rules if its architecture is to remain unchanged across such a span.
+Sanskrit has a twofold purpose: first, the language must remain unchanged; second, it must continue to serve a changing world. Chapter 0 §§0.4 and 0.7 introduced these two responsibilities and the civilizational motivation behind them. Millions of people across thousands of years learned, recited, corrected, taught, and defended Sanskrit because they regarded that purpose as worthy of preservation. Chapter 2 tests why an engineered language needs more than a set of rules if its architecture is to remain unchanged across such a span.
 
 ### What Sanskrit Had to Defeat
 
@@ -284,6 +284,8 @@ No constructed language can preserve itself through grammar alone, no matter how
 
 ## 16.8 How the Veda Calibrates Laukika Sanskrit
 
+Chapters 13–15 established how the Vedas remain invariant and available for comparison. Exact recitation protects the received form, several recitation paths expose departures, and distributed teachers and listeners perform correction. That preservation architecture allows the Vedas to serve as a continuing sound and grammar calibrant for *laukika* Sanskrit.
+
 The Vedas preserve Sanskrit’s generative architecture, allowing future speakers to create words for objects, ideas, and circumstances that no earlier composition could have anticipated.
 
 Across the four Vedas and their prose extensions, the corpus preserves Sanskrit's sonomers, sound junctions, atoms, affixes, declensional forms, number, person, verbal endings, tense and mood categories, participles, infinitives, *upasargas*, compounds, and many kinds of sentence construction. These operations appear inside mantras, melodies, formulas, explanations, and dialogues rather than as entries in a textbook.
@@ -320,17 +322,19 @@ The two-domain design defends Sanskrit against the two enemies introduced in Cha
 
 Entropy acts whenever pronunciation, words, meanings, or memory change during use and transmission. Asuric formations add deliberate pressure when they destroy teachers and institutions, monopolize interpretation, shame caretakers, replace Sanskrit's categories, or remove the language from public life.
 
-The vaidika domain protects exact memory. Reciters cannot revise the reference, and no single lineage owns its complete transmission. The laukika domain keeps Sanskrit active in changing circumstances by allowing speakers to generate new expression through the same architecture.
+The *vaidika* domain protects exact memory. Reciters cannot revise the reference, and no single lineage owns its complete transmission. The *laukika* domain keeps Sanskrit active in changing circumstances by allowing speakers to generate new expression through the same architecture.
+
+This is calibrant order at linguistic scale. One domain keeps the reference invariant and distributes its transmission. The other gives every generation access to the same architecture for new expression. Sanskrit remains common architecture: people preserve or extend it without placing ownership in an apex.
 
 A fixed corpus by itself would preserve inherited knowledge but leave society without a language for applying that knowledge to new circumstances. An entirely revisable corpus would allow every powerful generation to rewrite the inherited standard and declare its own changes correct. Sanskrit gives the civilization both what must remain invariant and what must remain open.
 
-Transmission lineages preserve the Vedas. Across society, teachers, analysts, poets, scientists, physicians, manufacturers, traders, and storytellers keep Sanskrit useful. Authority does not need to approve every expression, and no apex receives permission to rewrite the calibrant.
+Transmission lineages preserve the Vedas. Other Sanskrit speakers keep the language useful through teaching, analysis, poetry, science, medicine, manufacture, trade, and story. Authority does not need to approve every expression, and no apex receives permission to rewrite the calibrant.
 
 ### The Design Survived Both Enemies
 
-Against entropy, the Vedas remain available in their inherited words, sequence, pitch, meter, and recitational forms after thousands of years. Sanskrit did not fragment into separate Vedic and *laukika* languages. A student can still learn their shared architecture and then learn the bounded differences required for reading and recitation.
+Exact transmission resists entropy. The Vedas remain available in their inherited words, sequence, pitch, meter, and recitational forms after thousands of years. Sanskrit did not fragment into separate Vedic and *laukika* languages. A student can still learn their shared architecture and then learn the bounded differences required for reading and recitation.
 
-Asuric assaults destroyed teachers, schools, manuscripts, patronage, and public access to Sanskrit. Yet no conqueror, colonial office, university, or modern government gained custody of the calibrant. Transmission lineages preserved the Vedas outside their authority. Laukika Sanskrit remained available across society for explanation, composition, and recovery.
+Distribution resists capture. Asuric assaults destroyed teachers, schools, manuscripts, patronage, and public access to Sanskrit. Yet no conqueror, colonial office, university, or modern government gained custody of the calibrant. Transmission lineages preserved the Vedas outside their authority. *Laukika* Sanskrit remained available across society for explanation, composition, and recovery.
 
 The survival is measurable. The fact that this book can compare the two domains demonstrates that the passages, grammar, analytical disciplines, and transmission lineages survived both natural entropy and deliberate assault. The architecture did not prevent every loss, but it prevented loss from becoming complete and authority from becoming final.
 

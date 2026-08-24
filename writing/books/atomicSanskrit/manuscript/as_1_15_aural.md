@@ -58,9 +58,11 @@ In *krama-pāṭha*, an interior word appears in the pair before it and the pair
 
 The *vikṛti* recitations add further constraint. Each modified form gives the sequence a different shape. Together they surround the Vedic corpus with redundant checks. It is hard to construct a corruption that passes all eleven.
 
-This is the calibration matrix in motion (Chapter 14 §14.3) — *Chandas* checks the phonetic content like a cryptographic hash. The meter binds the verse into a metrical form with low tolerance for deviation, while the *pāṭhas* re-encode the same content under combinatorial constraints. *Śikṣā* trains the human instrument, and the *guru*, audience, and senior reciters all listen, turning the room itself into a distributed verification layer. As Sanātan's aural foundation, Auditure distributes the work of guarding among multiple trained ears, which hear the same *(n, n+1)* *sandhi* boundary in the *jaṭā-pāṭha* at the same instant.[NOTE: combinatorial-redundancy-comparative]
+The reciters use all of these checks together (Chapter 14 §14.3). *Chandas* binds the verse to a known metrical form. The *pāṭhas* place the same words and joins into several specified arrangements. *Śikṣā* trains the reciter to reproduce them, while the teacher and other listeners compare what they hear with the form they already know.[NOTE: combinatorial-redundancy-comparative]
 
-As long as society continues to listen to what is heard, Auditure remains distributed and democratized.  
+If one word changes, the departure does not remain confined to one place. It disturbs adjacent pairs in *krama*, forward and reverse joins in *jaṭā*, moving three-word windows in *ghana*, and the meter of the verse. Several known relationships now identify the same departure. That is how planned redundancy turns recitation into continuing calibration.
+
+The architecture distributes this correction among trained people. No office needs to issue a new official copy before a teacher can hear a departure and restore the received form.
 
 ## 15.4 Empirical Verification
 
@@ -68,24 +70,24 @@ Vedic recitation continues in geographically separated lineages across Kerala, M
 
 Recordings make these living systems directly comparable. Fieldwork on Nambūdiri recitation in the 1970s placed one body of practice in audio and film archives, and later recordings extend the available material.[NOTE: staal-agni-nambudiri-recording] Each *śākhā* preserves its specified recitational form through its own exacting checks. When recordings from separated lineages are compared, the shared phonetic and structural constants recur, while *śākhā*-specific differences remain bounded and identifiable instead of dissolving into uncontrolled change.[NOTE: cross-shakha-verification-fieldwork]
 
+The separated lineages demonstrate how calibrant order works. No central office sent one current recording to every lineage and instructed its reciters to imitate it. Each lineage carried its assigned form through its own teachers and students. Agreement in the shared constants therefore comes from distributed transmission and correction, while the bounded differences show where each *śākhā* carries a distinct responsibility.
+
 Recordings of *saṃhitā*, *krama*, *jaṭā*, and *ghana* allow a reader to hear people still performing these recitation systems. Together with the historical evidence assembled in the notes and the preservation architecture described in this chapter, they make the continuity claim audible in the present.
 
 ## 15.5 The Living Architecture
 
-Three implications follow.
+These recordings and practices support three conclusions.
 
-First: because the preservation architecture is observable, the “oral tradition” label must explain the audible evidence rather than merely telling an imagined story about textual development.
+First, the label “oral tradition” does not describe what the reciters are doing. It says that transmission occurs through speech, but leaves out the eleven recitation forms, their overlapping checks, the phonetic specification, and the trained listeners who correct departures.
 
-Second: the engineering is demonstrably real because the eleven *pāṭhas* provide error-detecting re-encodings, *Śikṣā* trains the instrument, *Chandas* supplies the metrical hash, the *Prātiśākhya* documents the phonetic constants, and the *guru*, peer group, senior reciter, and audience together form a distributed verification network.
+Second, the engineering can be examined directly. The *pāṭhas* re-encode the words and their joins. *Śikṣā* trains the body that produces them. *Chandas* fixes the metrical pattern, and the *Prātiśākhya* documents the phonetic requirements. Teachers, senior reciters, peers, and the listening community compare every performance with forms they already carry.
 
-Third: the architectural thesis is now empirically grounded. Because the botanical metaphor has been dismantled, the mouth has been mapped, the *dhātavaḥ* have been identified, the generative architecture has been described, and the calibration matrix has been laid out, the reader can now hear the evidence. Therefore, the architecture is not only a reconstruction; people are actively performing it.
-
-The same compression-with-recoverability principle shapes the sonomer, the *dhātuḥ*, and the recitation itself. The recitation makes the fractal architecture audible.
+Third, the recitation system is not a reconstruction proposed by this book. People are performing it now. The same principle already encountered in the sonomer and the *dhātuḥ* appears again at a larger scale: the form is compact, but the architecture preserves enough information to recover it and identify a departure. The recitation makes Sanskrit's fractal architecture audible.
 
 Among the comparison cases considered here, none is documented at this depth as an ancient linguistic preservation system. The Masoretic apparatus preserves a written Hebrew text. Quranic recitation overlaps with Auditure but does not use an eleven-fold combinatorial re-encoding. Latin preservation depends primarily on written transmission with chant traditions layered on top.[NOTE: masoretic-codification-timing][NOTE: quran-recitation-vs-pathas-comparison] None has the same redundancy depth, cross-lineage independence, and living recitational architecture. The comparative case is already in place at the architecture level (Chapter 14 §14.6); the evidence here makes it audible.
 
-Because this architecture has been running continuously and without interruption for as long as the record can verify, it is clearly not a hypothesis. It is running now, and it will continue running after the reader closes these pages.
+Together, the reciters demonstrate calibrant order as a living practice. The received form remains invariant, access to it remains distributed, and correction occurs wherever trained reciters and listeners compare a performance with what they received. They do not wait for an apex to announce correctness.
 
-Ultimately, its survival is evidence of the system's explicit purpose: because a matrix built to preserve recoverable form across darkness, distance, and time has successfully preserved recoverable form across darkness, distance, and time, the reader can examine the architecture precisely because the architecture did its work.
+Because the system succeeded, the evidence remains available. It was built to carry recoverable form across distance, destruction, and time. It has carried enough of that form for the reader to examine its design today.
 
-This audible constancy is **ध्रौव्यता (*dhrauvyatā*)**: the audible constancy that makes the Veda as a calibrant.
+This audible constancy is **ध्रौव्यता (*dhrauvyatā*)**. It allows the Veda to remain an invariant calibrant while the people who carry it are spread across society.

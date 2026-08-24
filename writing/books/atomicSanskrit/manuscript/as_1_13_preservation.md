@@ -130,9 +130,11 @@ The label *oral tradition* tells the reader nothing about the architecture. It t
 
 ### Guarded Form and Living Speech
 
+Chapter 2 tests the claim that Pāṇini stopped Sanskrit from drifting by codifying it. Arabic and Tamil expose the problem with that claim. A grammar can document a language, and an institution can preserve a selected form, while the language spoken around it continues to change.
+
 An authority can preserve a selected form for centuries, but its control over that form does not stop speakers elsewhere from changing their language. Petrification therefore produces two streams: institutions preserve a bounded form through text, school, clergy, or state, while children continue acquiring and changing the speech used at home and in ordinary life.
 
-Latin shows the pattern clearly. Classical and ecclesiastical forms remained under textual and church custody while spoken varieties developed into the Romance languages. Quranic Arabic remained guarded through the *muṣḥaf*, recitation, memorization, and authorized readings while Moroccan, Egyptian, Levantine, Gulf, and other spoken Arabics continued changing. Classical Greek remained available through texts and schooling as Koine, Byzantine, and modern forms developed. Literary Tibetan likewise remained a learned form while spoken Tibetan varieties changed. In each case, the guarded form and the changing speech continued beside one another.[NOTE: petrified-bounded-forms]
+Latin shows the pattern clearly. Classical and ecclesiastical forms remained under textual and church custody while spoken varieties developed into the Romance languages. Religious and political authorities guarded Quranic Arabic through the *muṣḥaf*, recitation, memorization, and authorized readings while Moroccan, Egyptian, Levantine, Gulf, and other spoken Arabics continued changing. Classical Greek remained available through texts and schooling as Koine, Byzantine, and modern forms developed. Literary Tibetan likewise remained a learned form while spoken Tibetan varieties changed. In each case, the guarded form and the changing speech continued beside one another.[NOTE: arabic-religio-political-authority][NOTE: petrified-bounded-forms]
 
 ### Revivification
 
@@ -145,6 +147,8 @@ These histories separate two movements that the word *codification* tends to blu
 ### Preservation by Calibration
 
 External authority can preserve a bounded form with considerable rigor. Sanskrit solves a different preservation problem by placing the standard inside a generative language and inside the people trained to transmit it.
+
+A calibrant must remain unchanged, but invariance is only the first requirement. People must also be able to reach it, compare their own speech with it, and correct a departure before that departure becomes inherited usage. A grammar stored in a library can describe correct forms. Its mere existence cannot perform those comparisons across society.
 
 The grammatical principle is: bond first, usage second, *śāstra* third (Chapter 5). The calibration matrix is that principle scaled to civilization. The standard already stands; the system trains bodies, ears, memory, grammar, and community to keep usage aligned with it.
 
@@ -166,7 +170,7 @@ Sanskrit has its own names for both paths. **श्रवण (*śravaṇa*)** �
 
 These two learning-paths also sort out Pāṇini's role: while it remains unknown whether a Pāṇini-style work existed when Sanskrit's architecture was first laid down, the *Aṣṭādhyāyī* itself cites pre-Pāṇinian *vaiyākaraṇāḥ*—Śākalya, Gārgya, Āpiśali, Kāśyapa, Sphoṭāyana, and others—whose works did not survive transmission. Although there may or may not have been earlier sūtra-level documentation that was lost, no such claim is necessary.
 
-What survived on the rule-extraction side is one matter. What survived on the saturation side is observable. The Vedic corpus survived, together with its recitation lineages, and the Vedas function as a calibrant matrix: a preserved body of language that detects and corrects deviation across thousands of years. Where a form is in doubt, the Veda settles it. Where pronunciation is in doubt, the *Prātiśākhya* settles it. Where transmission risks decay, the eleven *pāṭhas* of recitation restore it.
+The two paths leave different kinds of evidence. The Vedic corpus survived, together with its recitation lineages, and the Vedas function as a calibrant matrix: a preserved body of language that detects and corrects deviation across thousands of years. Where a form is in doubt, the Veda settles it. Where pronunciation is in doubt, the *Prātiśākhya* settles it. Where transmission risks decay, the eleven *pāṭhas* of recitation restore it.
 
 Pāṇini's *Aṣṭādhyāyī* added a second redundancy layer on top of that calibrant matrix. The sūtra-level rule-system made the language's structure explicit, compact, portable, recoverable, and teachable. This second layer is especially powerful for rule-trained minds — the *vyākaraṇa*-type readers for whom the rule clicks before the pattern settles. Where the Veda preserves the form as performed, the *Aṣṭādhyāyī* preserves the form as derivable. Pāṇini did not replace the Veda. He added a path suited to another kind of mind.
 

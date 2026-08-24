@@ -1,12 +1,12 @@
 # Chapter 14 — The Calibration Matrix
 
-Sanskrit is the **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)** — the fixed-measure language, the calibrant whose radiance and consistency preserve language and civilizational ethos across thousands of years. This chapter describes the calibration matrix, the architecture that makes that preservation possible.
+Sanskrit is the **ध्रुवमानभाषा (*dhruva-māna-bhāṣā*)** — the fixed-standard language, the calibrant whose radiance and consistency preserve language and civilizational architecture across thousands of years. This chapter describes the calibration matrix, the architecture that makes that preservation possible.
 
 The matrix is **दिव्य (*divya*)** in the precise sense: radiant, brilliant, bearing the order of the *devas*. A system that preserves sound, meter, grammar, memory, and lineage without apex command is radiant because its order gives light without needing a pyramid to issue it.
 
 This is the radiant matrix.
 
-The Vedic form of the same claim is (Chapter 9): भद्रा एषाम् लक्ष्मीः निहिता अधि वाचि (*bhadrā eṣām lakṣmīḥ nihitā adhi vāci*) — auspicious radiance is placed in Speech. The sieve and the garland showed how the sound-field becomes ordered Speech. Sound, meter, grammar, memory, and lineage then act together as the calibration matrix that preserves its radiance.
+The Vedic form of the same claim is (Chapter 9): भद्रा एषाम् लक्ष्मीः निहिता अधि वाचि (*bhadrā eṣām lakṣmīḥ nihitā adhi vāci*) — auspicious radiance is placed in Speech. The sieve and the garland showed how Sanskrit selects and arranges sound into ordered Speech. Sound, meter, grammar, memory, and lineage then act together as the calibration matrix that preserves its radiance.
 
 **Central claim.** This is what the pyramid cannot conquer or co-opt: a calibrant that lives within society and rejects the need for apex authority. The pyramid can survey natural drift, codify it, create apex languages (prestige languages placed above living speech), centralize education, and capture transmission through credential, curriculum, and school. It can lord over drift and sanctify codification because both provide an apex-handle. Calibration gives it none. Sound, meter, grammar, memory, lineage, distributed transmission, and architecture preserve the calibrant together; no single gate owns it. So the pyramid hides the category.
 
@@ -138,11 +138,15 @@ Western philology converts these designed differences into organic mutation acro
 
 ## 14.6 Control Cases: Codification by Authority
 
+Chapter 2 separates grammatical documentation from the preservation of a language. The *Tolkāppiyam* documented Tamil sound, word formation, sentence construction, and poetics, but Tamil continued to change.[NOTE: tolkappiyam-grammar-and-tamil-change] Arabic's religious and political authorities kept selected Quranic and formal forms stable, while the Arabic spoken in homes and communities continued changing.[NOTE: arabic-religio-political-authority]
+
+Arabic and Tamil separate grammatical documentation from preservation. A grammar can describe a language. Institutions can guard a selected text or linguistic form. Community speech can continue changing in either case.
+
 Western philology already recognizes deliberate preservation machinery in other traditions.
 
 Masoretic Hebrew combines a consonantal text with vowel points, cantillation marks, and marginal annotations developed and transmitted by scribal schools. Manuscripts such as the Aleppo and Leningrad codices provide visible historical anchors.[NOTE: masoretic-engineered-preservation]
 
-Quranic Arabic combines the *muṣḥaf* with rules of recitation, authorized readings, chains of transmission, and memorization. Named institutions and datable interventions make its custody structure easy for the academy to describe.[NOTE: quranic-engineered-preservation]
+Quranic Arabic combines the *muṣḥaf* with rules of recitation, authorized readings, chains of transmission, and memorization. Its authorities can be identified and dated. Caliphs enforced official copies and accepted recitations; later, al-Azhar and the Egyptian state supported official editions.[NOTE: arabic-religio-political-authority][NOTE: quranic-engineered-preservation]
 
 Ecclesiastical Latin combines copying against exemplars, correction within scriptoria, reconstruction from manuscript families, and later church authorization of editions.[NOTE: latin-vulgate-engineered-preservation]
 
@@ -194,7 +198,7 @@ The Western philological account calls him a codifier because that word lets the
 
 This constitutes *heroic erasure* at the matrix level: praising the named documenter in order to deny the civilization that made his work possible. By celebrating the documenter, the machinery hides the architecture being documented; it ignores that the *Prātiśākhya* preserves rather than invents speech, that *Śikṣā* trains rather than invents the mouth, and that Pāṇini compresses rather than invents Sanskrit.
 
-The Pāṇini-as-rupture move is heroic erasure in its sharpest form: praise the so-called codifier, then weaponize the praise to convert *vaidika* and *laukika* from domains into chronology. Pāṇini cannot move Sanskrit out of one domain and into another. Domains are not periods. Pāṇini documents both. That is not analysis. It is a grammatical sleight of hand with civilizational consequences (Chapter 2 §2.4).
+The Pāṇini-as-rupture move is heroic erasure in its sharpest form: praise the so-called codifier, then weaponize the praise to convert *vaidika* and *laukika* from domains into chronology. Pāṇini cannot move Sanskrit out of one domain and into another. Domains are not periods. Pāṇini documents both. That is not analysis. It is a grammatical sleight of hand with civilizational consequences (Chapter 2).
 
 The matrix preserves the complete sequence: engineered architecture, Vedic encoding, many decoding disciplines, and Pāṇini's compressed rule-system as the finest documentation of that architecture.
 
@@ -208,15 +212,11 @@ Preserving the matrix relies on the eleven *pāṭhas*, the aural architecture, 
 
 The radiant matrix kept the architecture present. Manuscripts burn, institutions fall, libraries close, and centralized authority recedes. A linguistic architecture engineered into speech, transmitted through the *guru-shishya* lineage-chain, and verified by the listening audience has no single institution to bring down.
 
-The deeper implication is civilizational. The calibration matrix proves materially what Chapter 3 established structurally:
-1. Order can exist without a pyramid and without apex authority.
-2. Order derived from a calibrant is far more sustainable than order derived from codification.
+The linguistic result carries a civilizational implication. The Vedas preserve more than Sanskrit's sounds and grammar. They also preserve the distinction between **सत् (*sat*)** and **असत् (*asat*)**, the created order of **ऋत (*ṛta*)**, and recurring accounts of actions that protect life or contain what should flow. Sanskrit is the first layer of that larger calibrant that this volume can demonstrate in full.
 
-Sanskrit preserves through sound, meter, lineage, grammar, discipline, and self-correction — not through decree, monopoly, committee, or institutional apex. The standard lives inside the architecture. The asuric machinery cannot merely disagree with Sanskrit; it has to misdescribe it. Natural drift can be directed and codification can be owned, but calibration makes the apex unnecessary because he has no role inside the architecture.
+At the linguistic scale, the conclusion is already concrete. Order can exist without a pyramid and without apex authority. The standard remains inside a distributed architecture, and people correct their own production against it. Correctness remains available to the participants instead of becoming the property of an office.
 
-Its architecture displays दिव्यता (*divyatā*) and serves लोकक्षेम (*lokakṣema*) without requiring a pyramid to command it. Sanskrit is evidence that the pyramid is unnecessary.
-
-Later volumes extend this premise into *saṃskṛti*: Sanskrit's fractal of order without centralized authority becomes a way to understand civilization itself.
+This architecture displays दिव्यता (*divyatā*) and serves लोकक्षेम (*lokakṣema*) without requiring a pyramid to command it. Sanskrit therefore provides living evidence of calibrant order. Later *Second Shanti* volumes will follow the same architecture from language into *saṃskṛti* and society.
 
 The matrix depends on its most important medium: sound preserved by disciplined hearing (Chapter 15).
 
