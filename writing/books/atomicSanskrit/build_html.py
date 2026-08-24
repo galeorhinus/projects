@@ -112,7 +112,23 @@ ESSAYS_CSS_SRC = BOOK_DIR / "templates" / "essays.css"
 # them at /as/favicon.ico and /as/favicon.svg regardless of which page a
 # visitor lands on.
 FAVICON_SRC_DIR = BOOK_DIR / "web" / "public" / "as"
-FAVICON_FILES = ("favicon.ico", "favicon.svg", "ic-calibration-favicon.svg")
+# apple-touch-icon.png, favicon-16x16.png, icon-192.png, icon-512.png, and
+# manifest.json added 2026-08-23: iOS "Add to Home Screen" looks for
+# apple-touch-icon first, and Android Chrome's home-screen icon comes from
+# the manifest's icons array, not from <link rel="icon">. Neither existed at
+# the deployed /as/ root, so both fell back to a generated letter tile while
+# the SVG-only dashboard (an inlined data: URI, no manifest involved) picked
+# up its favicon correctly — that contrast is what surfaced the gap.
+FAVICON_FILES = (
+    "favicon.ico",
+    "favicon.svg",
+    "ic-calibration-favicon.svg",
+    "favicon-16x16.png",
+    "apple-touch-icon.png",
+    "icon-192.png",
+    "icon-512.png",
+    "manifest.json",
+)
 
 # Figures repository. After the 2026-06-07 reorg, figures live in chapter-
 # slug subdirectories (figures/<chapter>/<file>.svg) and in figures/_shared/
