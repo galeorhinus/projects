@@ -256,7 +256,7 @@ The companion should contain approximately **14 core figures**, with no more tha
 
 ### Optional Figures
 
-- `figures/strategic/two_fractals_four_scales.svg`
+- `figures/strategic/two_fractals_four_scales_spine.svg`
 - `figures/building_dhatuh/saravat_semantic_force_cards.svg`
 - a new composite of `head_bonds.svg` and `tail_bonds.svg`
 - `figures/siddha_grammar/lineage_stack.svg`

@@ -350,7 +350,7 @@ should flow."
 
 ### 6.7 Figure specification — Two Fractals Across Four Scales
 
-**File:** `figures/strategic/two_fractals_four_scales.svg`
+**File:** `figures/strategic/two_fractals_four_scales_spine.svg`
 
 **Body location:** Chapter 3 §3.8.
 

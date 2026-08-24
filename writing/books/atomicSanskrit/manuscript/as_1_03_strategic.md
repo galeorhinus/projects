@@ -293,7 +293,7 @@ The *laukika* community can also release material that no longer serves. That is
 
 Chapter 0 introduced *sat* and *asat*. Chapter 1 identified the actions through which containment enters the world. This chapter has followed those actions into civilizational institutions and into the modern account of Sanskrit.
 
-![Figure 3.2 — Two fractal architectures meet at four scales. The swastika fractal distributes, releases, and calibrates. The pyramid fractal conceals, encloses, and centralizes. The contested object changes across scale; the architecture of each side remains recognizable.](figures/strategic/two_fractals_four_scales.svg){#fig:ch3-two-fractals-four-scales width=100%}
+![Figure 3.2 — Two fractal architectures meet at four scales. The swastika fractal distributes, releases, and calibrates. The pyramid fractal conceals, encloses, and centralizes. The contested object changes across scale; the architecture of each side remains recognizable.](figures/strategic/two_fractals_four_scales_spine.svg){#fig:ch3-two-fractals-four-scales width=100%}
 
 The two fractals remain recognizable at every scale. The swastika fractal keeps light, water, knowledge, language, and power in circulation. The pyramid fractal encloses them and forces everyone else to approach through an apex. The contested object changes, while the two architectures retain their shapes.
 
