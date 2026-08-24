@@ -36,9 +36,11 @@ Three questions test that narrative.
 >
 > If Tamil drifted despite codification, why did Sanskrit remain invariant?
 
-**The Vedas.**
+**What, then, kept Sanskrit invariant?**
 
-Pāṇini's contribution to Sanskrit is extraordinary. These comparisons do not diminish it. They place his achievement inside the architecture that kept Sanskrit invariant before and after him.
+**Answer: The Vedas.**
+
+Pāṇini's contribution to Sanskrit is extraordinary. These comparisons do not diminish it. They place his contribution inside the architecture that kept Sanskrit invariant before and after him.
 
 The rest of this book explains how the Vedas kept Sanskrit invariant. They remain a distributed calibrant for Sanskrit's sounds and grammar. They also encode foundational architectures of ***संस्कृति (*saṃskṛti*)***, including the distinctions between ***सत् (*sat*)*** and ***असत् (*asat*)*** and the created order of ***ऋत (*ṛta*)***. This volume begins with the linguistic architecture because Sanskrit allows the calibrant relationship to be examined in full.
 
@@ -50,15 +52,19 @@ Formal Arabic was held in place by authority. Grammar formed only one part of th
 
 *Ṣaḥīḥ al-Bukhārī* records that Caliph ʿUthmān appointed a committee to prepare official Quranic copies, sent those copies to the Muslim provinces, and ordered the competing written materials to be burned. Ibn Mujāhid later selected seven recitations for canonical status, and Ibn al-Jazarī established a canonical set of ten. Religious authority determined which recitations would be accepted and transmitted.[NOTE: arabic-religio-political-authority][NOTE: quranic-engineered-preservation]
 
-The modern state extended that control through print and education. In 1924, al-Azhar scholars prepared a Quranic edition for Egyptian government schools with support from King Fuad, the Ministry of Education, and the state press. The Cairo Arabic Language Academy was then created by royal decree to regulate formal public Arabic. It produces dictionaries, standardizes terminology, and states which words and constructions may be used or avoided.[NOTE: arabic-religio-political-authority]
+The modern Egyptian state extended that control through print and education. In 1924, a committee of al-Azhar scholars prepared the King Fuad Quran as Egypt's official edition for government schools. Even today, no person or publisher may print or circulate a Quran in Egypt without institutional permission. Egyptian authorities can refuse permission, confiscate copies, and seek criminal punishment for the publisher. Several other Islamic countries enforce comparable licensing systems.[NOTE: arabic-religio-political-authority]
+
+The Cairo Arabic Language Academy was created by royal decree to regulate formal public Arabic. It produces dictionaries, standardizes terminology, and states which words and constructions may be used or avoided.[NOTE: arabic-religio-political-authority]
 
 These authorities controlled the text, recitation, formal usage, and education placed under their care. They did not control the Arabic that children learned at home. Spoken Arabics continued changing until some became mutually unintelligible. Formal Arabic remained stable because religious and political institutions guarded it. Codification alone did not stop Arabic from drifting.[NOTE: petrified-bounded-forms]
+
+**The pyramid loves authority. This is how it achieves invariance: codification enforced by religious and political power.**
 
 ### What Happened to Tamil?
 
 The *Tolkāppiyam* preserved a detailed account of Tamil, but Tamil continued changing. Linguists distinguish Old Tamil, Middle Tamil, and Modern Tamil because pronunciation, grammar, and vocabulary moved across generations. A present-day Tamil speaker may recognize words and phrases in a Sangam poem but still need commentary or a modern Tamil explanation, much as a Marathi speaker unfamiliar with **ज्ञानेश्वरी (*Jñāneśvarī*)** may recognize its Marathi while needing help to understand the passage.[NOTE: tolkappiyam-grammar-and-tamil-change]
 
-Later Tamil readers faced two barriers. Tamil itself had changed, and many Sangam works had passed out of wide circulation. Hindu monasteries and individual custodians preserved palm-leaf manuscripts. During the nineteenth century, Tamil scholars recovered those manuscripts and published the works for a wider Tamil readership. C. W. Damodaram Pillai printed the ***Kalittokai*** in 1887, and U. V. Swaminatha Iyer published the ***Pattuppāṭṭu*** in 1889. More Sangam works followed.[NOTE: sangam-corpus-nineteenth-century-recovery]
+Later Tamil readers faced two barriers. Tamil itself had changed, and many Sangam works had passed out of wide circulation. Hindu *maṭhas*, temple institutions, and private custodians preserved the palm-leaf manuscripts. During the nineteenth century, Tamil scholars recovered those manuscripts and published the works for a wider Tamil readership. The ***Kalittokai*** returned to print in 1887, the ***Pattuppāṭṭu*** in 1889, and more Sangam works followed.[NOTE: sangam-corpus-nineteenth-century-recovery]
 
 Tamil demonstrates what codification can and cannot do. The *Tolkāppiyam* preserved grammatical knowledge and gave later scholars access to earlier Tamil. It did not stop the language spoken by successive generations from changing.
 
