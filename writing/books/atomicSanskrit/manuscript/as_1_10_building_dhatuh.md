@@ -307,25 +307,9 @@ Yaska could perform these decompositions because Sanskrit gave him the engineere
 
 The Sanskrit continuum debated how this engineering produces meaning. *Varṇa-vāda* and *sphoṭa-vāda* examined whether meaning begins in the individual sound or becomes available through the complete expression. Other debates examined intrinsic charge and assignment freedom, or whether the *dhātuḥ* or the *śabda* comes first. Every side began from the same knowledge: Sanskrit can be decomposed, analyzed, and generated through a stable architecture.
 
-## 10.13 Where Sonomers Appear Inside an Atom
+A *dhātuḥ* retains more than its overall sound. Each sonomer keeps an identifiable position inside the atom. Sanskrit can therefore change, replace, or add a particular sound while preserving a traceable path back to the *dhātuḥ*. Appendix Part 6 §6.2 maps these positions across the inventory. Chapter 11 follows the same architecture as Sanskrit turns the semantic atom into a finished ***क्रियापद (*kriyāpada*)***.
 
-The *Dhātupāṭha* reveals another pattern in the positions Sanskrit gives consonants inside its semantic atoms. Some consonants appear mostly before the vowel, others mostly after it, and a smaller group can also join another consonant inside a cluster, as **र** joins **क** in **क्र**.
-
-Figure 10.11 counts those positions across the single-*akṣara* atoms in the *Dhātupāṭha*, each of which is organized around one vowel. Each circle represents one consonant. Its horizontal position counts uses before the vowel, its vertical position counts uses after the vowel, and its size shows how often the consonant appears inside a cluster. The colors follow the *varṇamālā* by grouping consonants according to where the mouth produces them.
-
-![Figure 10.11 — Where consonants appear around the vowel in single-*akṣara* atoms.](figures/building_dhatuh/role_map_color.svg){#fig:building-dhatuh-role-map width=100%}
-
-The dashed line marks equal use before and after the vowel. **क, व, प,** and **श** sit farther to the right because they occur more often before the vowel. **ष, ज, स, ट,** and **ड** sit higher because they occur more often after it.
-
-The largest circle belongs to **र (*ra*)**. It appears frequently on both sides of the vowel and joins more consonant clusters than any other sonomer in this count. This range allows **र** to connect sounds throughout a *dhātuḥ*.
-
-The circle for **ल (*la*)** lies much closer to the dashed line. It appears before and after the vowel in a more balanced proportion. Its position in Figure 10.11 shows a sonomer that participates on both sides with nearly equal frequency.
-
-The relationship between **ऋ (*ṛ*)** and **र (*ra*)** extends this pattern across the vowel and consonant systems. Sanskrit places both at the ***मूर्धन्य (*mūrdhanya*)*** position. **ऋ** can occupy the vowel-center of an *akṣara*, while **र** can connect with sounds on either side of that center. When **ऋ** appears before another vowel, ***यण्-सन्धि (*yaṇ-sandhi*)*** replaces it with **र**. This substitution treats them as the vowel and consonant forms of closely related movements at the same place in the mouth.
-
-Chapter 11 follows these sonomers as Sanskrit adds sounds to a *dhātuḥ* and forms a finished ***क्रियापद (*kriyāpada*)***. The grammar can act on a particular sonomer because its position inside the atom remains identifiable. The finished verb therefore remains traceable to the *dhātuḥ* from which it was generated.
-
-## 10.14 The Atomic Corollary
+## 10.13 The Atomic Corollary
 
 The central architectural claim is the ***Atomic Corollary***:
 
@@ -359,15 +343,19 @@ The same corollary supplies the positive basis for the book's critique of philol
 
 The Sanskrit continuum called this constituent **धातुः (*dhātuḥ*)**. In English, its proper architectural name is **atom**, not *root*.
 
-## 10.15 The Fractal Signature
+## 10.14 The Fractal Signature
 
-### The Dhātuḥ Follows the Sūtra Discipline
+### The Dhātuḥ Is a Sūtra in Miniature
 
 Section 10.5 derived six atomic tests from the *sūtra-lakṣaṇam*. The evidence developed in this chapter shows how the *Dhātupāṭha* satisfies each one: **अल्पाक्षरम् (*alpākṣaram*)** appears in its compact sonomer and *mātrā* distributions; **अस्तोभम् (*astobham*)** appears in the concentration of atoms within a small number of scaffolds; **असंदिग्धम् (*asaṃdigdham*)** appears in the acoustic distinctions maintained within tight timing limits; **सारवत् (*sāravat*)** appears in the core meanings carried by these small atoms; **विश्वतोमुखम् (*viśvatomukham*)** appears in their generative reach through bonding; and **अनवद्यम् (*anavadyam*)** appears in their stability across transformation.
 
-The principle stated at the level of the *sūtra* reaches the atom.
+The ancient, pre-Pāṇinian debate over **वर्णशक्ति (*varṇa-śakti*)** described in §10.9 suggests a deeper fractal. The proponents of **वर्णवाद (*varṇa-vāda*)** held that individual sounds contribute to meaning. They may have treated each sonomer within a *dhātuḥ* as the atomic equivalent of a word within a *sūtra*: each constituent contributes to the meaning of its compact whole.
 
-A *sūtra* is composed. No one claims a *sūtra* botanically morphed into its precise form. Take **योगश्चित्तवृत्तिनिरोधः (*yogaś citta-vṛtti-nirodhaḥ*)**:[NOTE: yoga-sutra-1-2] Yoga is the stilling of the movements of the mind. The sentence is tiny, but it contains an entire discipline: the mind, the movements that disturb it, and the discipline that stills them.
+Under this view, words compose the *sūtra*, while sonomers compose the *dhātuḥ*.
+
+A *sūtra* is composed. No one, not even Western philologists with their superior imaginations, claims that a *sūtra* botanically morphed from drifting words into its precise form.
+
+Take **योगश्चित्तवृत्तिनिरोधः (*yogaś citta-vṛtti-nirodhaḥ*)**:[NOTE: yoga-sutra-1-2] Yoga is the stilling of the movements of the mind. The sentence is tiny, but it contains an entire discipline: the mind, the movements that disturb it, and the discipline that stills them.
 
 The same principle appears in **प्रत्यक्षानुमानोपमानशब्दाः प्रमाणानि (*pratyakṣānumānopamānaśabdāḥ pramāṇāni*)**:[NOTE: nyaya-sutra-pramana-1-1-3] perception, inference, comparison, and testimony are the means of knowledge. That sūtra also describes the method used here. The architecture is seen, its engineering is inferred, its behavior is compared, and the lineage is heard through *śabda*. The form is short because it was made short. It contains more structure than its length suggests.
 

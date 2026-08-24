@@ -138,22 +138,20 @@
 *Particle, atom, molecule, assembly.*
 
 **Chapter 10 — Building the *Dhātuḥ* (धातुः): Sanskrit's Atom**
-- 10.1 *Sūtra-Lakṣaṇam* — The Design Specification
-- 10.2 From Sūtra to *Dhātuḥ* — The Fractal Question
-- 10.3 From Sonomers to Semantic Atoms
-- 10.4 *Svarāḥ*, *Vyañjanāni*, and the *Mātrā* Envelope
-- 10.5 धातुरचना — *Dhāturacanā* — The Atomic Scaffold
-- 10.6 The Six Atomic Tests
-- 10.7 *Alpākṣaram* — Make It Small
-- 10.8 *Astobham* — Remove Waste
-- 10.9 *Asaṃdigdham* — Prevent Ambiguity
-- 10.10 *Sāravat* — Give It Meaning
-- 10.11 *Viśvatomukham* — Let It Face Many Directions
-- 10.12 *Anavadyam* — Preserve Identity Through Use
-- 10.13 Engineering Was Common Knowledge
-- 10.14 Sonomers Already Have Roles
-- 10.15 The Atomic Corollary
-- 10.16 The Fractal Signature
+- 10.1 The Design Test — From *Sūtra* to *Dhātuḥ*
+- 10.2 From Sonomers to Semantic Atoms
+- 10.3 *Svarāḥ*, *Vyañjanāni*, and the *Mātrā* Envelope
+- 10.4 धातुरचना — *Dhāturacanā* — The Atomic Scaffold
+- 10.5 Six Tests for an Engineered Atom
+- 10.6 *Alpākṣaram* — Compactness
+- 10.7 *Astobham* — Economy
+- 10.8 *Asaṃdigdham* — Distinguishability
+- 10.9 *Sāravat* — Core Meaning
+- 10.10 *Viśvatomukham* — Generative Range
+- 10.11 *Anavadyam* — Stability
+- 10.12 Engineering Was Common Knowledge
+- 10.13 The Atomic Corollary
+- 10.14 The Fractal Signature
 
 **Chapter 11 — Building the *Kriyā* (क्रिया): Sanskrit's Molecule**
 - 11.1 From Semantic Atom to Verbal Molecule

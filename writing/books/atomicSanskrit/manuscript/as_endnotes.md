@@ -3181,7 +3181,7 @@ Standard references: Peter Ladefoged and Ian Maddieson, *The Sounds of the World
 
 **Short:** **ॐ (*oṃ*)** functions as a compact whole-anatomy gesture: breath, voicing, oral resonance, lip closure, and nasal resonance are all engaged when the sound is unfolded as **अ-उ-म् (*a-u-m*)**. The *Māṇḍūkya Upaniṣad* identifies Oṃ with "all this" across past, present, future, and what stands beyond the three times; the body text therefore treats Oṃ as the acoustic seed of *Sanātan*. Chapter 10 then tests Oṃ against the *sūtra-lakṣaṇam* as the single-syllable compression scale.
 
-**Deployments:** Chapter 7 epigraph and opening — as the single-syllable entry into the anatomy of sound; Chapter 7 §7.8 — as the closing bridge from the mapped instrument to Sanskrit's selected inventory; Chapter 9 §9.1 — before the *varṇamālā* inventory is unfolded; Chapter 10 §10.15 — when the *sūtra-lakṣaṇam* recurrence is extended from Oṃ to *varṇamālā* to *dhātuḥ* to *sūtra*.
+**Deployments:** Chapter 7 epigraph and opening — as the single-syllable entry into the anatomy of sound; Chapter 7 §7.8 — as the closing bridge from the mapped instrument to Sanskrit's selected inventory; Chapter 9 §9.1 — before the *varṇamālā* inventory is unfolded; Chapter 10 §10.14 — when the *sūtra-lakṣaṇam* recurrence is extended from Oṃ to *varṇamālā* to *dhātuḥ* to *sūtra*.
 
 The traditional analysis of **ॐ (*oṃ*)** as **अ-उ-म् (*a-u-m*)** is classically associated with the *Māṇḍūkya Upaniṣad*, which begins with the formula **ॐ इत्येतदक्षरमिदं सर्वम् (*oṃ ity etad akṣaram idaṃ sarvam*)** — this *akṣara* Oṃ is all this — and then extends the claim across past, present, future, and what is beyond the three times. The text analyzes the single syllable into **अ (*a*)**, **उ (*u*)**, **म् (*m*)**, and the unmeasured fourth. The Ch7 use is phonetic and architectural, not a full metaphysical claim from that text: when articulated in the expanded *a-u-m* form, *oṃ* moves from open voiced resonance through rounded oral shaping into bilabial nasal closure. The lungs supply breath; the vocal cords vibrate; the oral cavity shapes the vowel; the lips close for *m*; the nasal cavity sustains the final resonance.
 
@@ -5303,7 +5303,7 @@ The distinguishability table in Ch 10 §10.8 starts from the V1/V2-aware *racan�
 
 The two key rows are the compact buckets where compression is strongest. In the **2-*mātrā*** bucket, four scaffolds are possible in the dataset: ***gamādi*** (819), two less-common consonantal-edge scaffolds (35 and 30), and the bare long-vowel form (2). The bucket is therefore not merely "short"; it is overwhelmingly **short vowel + consonantal framing**. In the **2½-*mātrā*** bucket, ***spadādi*** (209) and ***manthādi*** (203) dominate over the simpler long-vowel scaffolds (88 and 19). The system spends the available timing budget on consonantal edges and recoverable contrast rather than reducing the atom to the fewest possible sonomers.
 
-The conclusion is deliberately narrower than the later position-role bridge in Ch 10 §10.13 and the molecule-building procedure in Ch 11. The table does not claim to identify which consonants prefer which positions. It makes the earlier and simpler Ch 10 claim: even before individual *varṇāḥ* are analyzed, distinguishability shapes the compression. The atom is compact, but not blurry.
+The conclusion is deliberately narrower than the position-role analysis in Appendix Part 6 §6.2 and the molecule-building procedure in Chapter 11. The table does not claim to identify which consonants prefer which positions. It makes the earlier and simpler Chapter 10 claim: even before individual *varṇāḥ* are analyzed, distinguishability shapes the compression. The atom is compact, but not blurry.
 
 Source: `analysis/dhatupatha/data/derived/template_distribution.csv`; script `analysis/dhatupatha/scripts/analyze_scaffold_distinguishability.py`; derived outputs `analysis/dhatupatha/data/derived/scaffold_distinguishability_by_matra.csv` and `.md`.
 
@@ -6142,7 +6142,7 @@ The book therefore cites the epigraph as ***sūtra-lakṣaṇam***, with *Vāyu 
 
 **Short:** Patañjali's *Yoga Sūtra* 1.2, **योगश्चित्तवृत्तिनिरोधः** (*yogaś citta-vṛtti-nirodhaḥ*), is used in Chapter 10 as a familiar non-grammatical *sūtra* that demonstrates engineered brevity: tiny form, large recoverable structure.
 
-**Deployments:** Chapter 10 §10.15 — closing comparison between the engineered *sūtra* and the engineered *dhātuḥ*.
+**Deployments:** Chapter 10 §10.14 — closing comparison between the engineered *sūtra* and the engineered *dhātuḥ*.
 
 #### Mini-padaccheda
 
@@ -6173,7 +6173,7 @@ The line is short because the *sūtra* form requires recoverable compactness. It
 
 **Short:** The *Nyāya Sūtra* 1.1.3, **प्रत्यक्षानुमानोपमानशब्दाः प्रमाणानि** (*pratyakṣānumānopamānaśabdāḥ pramāṇāni*), lists four *pramāṇāni* — means of knowledge. Chapter 10 uses it because the four-fold list also describes the book's own method.
 
-**Deployments:** Chapter 10 §10.15 — closing comparison between *sūtra*-level engineered brevity and *dhātu*-level atomic concision.
+**Deployments:** Chapter 10 §10.14 — closing comparison between *sūtra*-level engineered brevity and *dhātu*-level atomic concision.
 
 #### Mini-padaccheda
 

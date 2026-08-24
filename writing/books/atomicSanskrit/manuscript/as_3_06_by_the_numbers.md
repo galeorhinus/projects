@@ -55,15 +55,25 @@ Position changes the physical action of a consonant. At the opening of an atom, 
 
 Retroflex sounds are depleted initially and strongly loaded finally, while palatals also appear more often at the end. Velars and labials show the opposite preference and appear more often at the beginning. The inventory therefore assigns different functions to the same sound according to its position.
 
+The following figure counts these positions across the single-*akṣara* atoms in the *Dhātupāṭha*, each of which is organized around one vowel. Each circle represents one consonant. Its horizontal position counts uses before the vowel, its vertical position counts uses after the vowel, and its size shows how often the consonant appears inside a cluster. The colors follow the *varṇamālā* by grouping consonants according to where the mouth produces them.
+
+![Where consonants appear around the vowel in single-*akṣara* atoms.](figures/building_dhatuh/role_map_color.svg){#fig:appendix-numbers-dhatuh-role-map width=100%}
+
+The dashed line marks equal use before and after the vowel. **क, व, प,** and **श** sit farther to the right because they occur more often before the vowel. **ष, ज, स, ट,** and **ड** sit higher because they occur more often after it.
+
 ### 4. Cluster-Joiner Specialization
 
 Consonant clusters do not use every sound in the same way. A small specialist class performs most of the joining. Its major members are the **अन्तःस्थाः (*antaḥsthāḥ*)** — *ya, ra, la, va* — with *ra* at the extreme. The grammatical tradition had already placed them between.
 
-The category describes a function rather than an ornament. These sounds join one consonant to another, while other sounds appear more often at the boundaries.
+The largest circle belongs to **र (*ra*)**. It appears frequently on both sides of the vowel and joins more consonant clusters than any other sonomer in this count. This range allows **र** to connect sounds throughout a *dhātuḥ*.
+
+The circle for **ल (*la*)** lies much closer to the dashed line. It appears before and after the vowel in a more balanced proportion. The category therefore describes a function rather than an ornament. These sounds join one consonant to another, while other sounds appear more often at the boundaries.
 
 ### 5. *Mūrdhanya* Dual-Role Engineering
 
 The **मूर्धन्य (*mūrdhanya*)** site bears unusual load. It appears frequently at the ends of atoms, participates heavily in cluster-joining, and connects with the *ṛ* / *ra* bridge. The counts place a site treated as marginal by the usual story near the center of Sanskrit's atomic construction.
+
+The relationship between **ऋ (*ṛ*)** and **र (*ra*)** extends this pattern across the vowel and consonant systems. Sanskrit places both at the *mūrdhanya* position. **ऋ** can occupy the vowel-center of an *akṣara*, while **र** can connect with sounds on either side of that center. When **ऋ** appears before another vowel, ***यण्-सन्धि (*yaṇ-sandhi*)*** replaces it with **र**. Sanskrit thus treats them as the vowel and consonant forms of closely related movements at the same place in the mouth.
 
 The pyramid's retroflex story fails at this point. Late, local, marginal, borrowed: each label misses the same architectural role. Retroflex is a loaded design site inside Sanskrit.
 

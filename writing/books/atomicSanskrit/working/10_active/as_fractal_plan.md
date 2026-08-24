@@ -181,7 +181,7 @@ Pick one as the canonical hammer; the others can be variations.
 
 ## 5. The Fractal Corollary
 
-Companion to the **Atomic Corollary** named in Ch 10 §10.15.
+Companion to the **Atomic Corollary** named in Ch 10 §10.13.
 
 > ***The Fractal Corollary.*** *Sanskrit's engineering is not local. The
 > same design signature that defines the* sūtra *also appears below it in
@@ -971,7 +971,7 @@ fractal organization across scales — it would land. Otherwise skip.
 **Tier — Strong.** Ch 6 establishes the *dhātuḥ* as cross-disciplinary
 technical primitive. The fractal frame fits at §6.3 close — the *dhātuḥ*
 behaves like the *sūtra* because both are *lāghava* expressions of the
-same architectural law. This is also a forward-pointer to Ch 10 §10.15
+same architectural law. This is also a forward-pointer to Ch 10 §10.14
 (Fractal Corollary).
 
 Suggested addition at §6.3 close (after the existing forward-pointer to
@@ -979,7 +979,7 @@ Ch 10):
 
 > *The* dhātuḥ *is not only a constituent technical primitive. It is the
 > atomic instance of a law that also governs the* sūtra. *Chapter 10
-> §10.15 names this as the Fractal Corollary.*
+> §10.14 names this as the Fractal Corollary.*
 
 ### Ch 7 — Oṃ: The Anatomy of Sound (as_1_07)
 
@@ -1045,7 +1045,7 @@ paragraph is a good landing site):
 > *The same law that compresses the* varṇa *into a measured sonomer
 > compresses sonomers into the imperishable* akṣara. *Two scales, one
 > engineering. The book's central observation — that this law continues
-> to operate at every higher scale — lands in Chapter 10 §10.15.*
+> to operate at every higher scale — lands in Chapter 10 §10.14.*
 
 ### Ch 10 — Building the Dhātuḥ (as_1_10) — *atom scale, the Fractal Corollary lands here*
 
@@ -1549,7 +1549,7 @@ numbers already show this; the appendix needs to name it.
 - ***sūtra-lakṣaṇam*** — the six marks of engineered *sūtra* form;
   Chapter 10 uses them as the atomic test for the *dhātuḥ*.
 - ***Fractal Corollary*** — book's coined term; companion to the
-  Atomic Corollary; named in Ch 10 §10.15.
+  Atomic Corollary; named in Ch 10 §10.13.
 
 ---
 
@@ -1570,7 +1570,7 @@ This propagates to the title page, the cover, and the build pipeline.
 **Tier — Must.** Add *fractal* and *lāghavam* to the engineering
 vocabulary stack. Add a new short section under "Voice in one paragraph"
 naming the fractal claim and pointing readers at the Fractal Corollary
-in §10.15.
+in §10.14.
 
 ### `STYLE.md`
 
@@ -1604,7 +1604,7 @@ civilizational fractal, and *vikṛti* / asuric pyramid as distorted
 civilizational fractal. The note must explicitly defer the full
 civilizational framework to a later *Second Shanti* volume so *Atomic
 Sanskrit* does not become a polity book.
-Deployed at the Preface and at Ch 10 §10.15.
+Deployed at the Preface and at Ch 10 §10.14.
 
 ---
 
