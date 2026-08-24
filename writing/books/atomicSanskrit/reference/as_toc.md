@@ -51,8 +51,8 @@
 - 2.8 Decoding, Not Codification
 - 2.9 The Theft Made Visible
 
-**Chapter 3 — Motive and Method**
-- 3.1 Why the Tree Survived
+**Chapter 3 — The Pyramid's Motive and Method**
+- 3.1 Why the Pyramid Needs the Tree
 - 3.2 Custody: The Racial Pillar
 - 3.3 Enclosure: The Theological Pillar
 - 3.4 Ascent: The Progress Pillar

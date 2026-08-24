@@ -55,7 +55,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 **Chapter 2 — Category Theft and Āsurī Māyā** — *Tests the codification myth against Arabic and Tamil, identifies the Vedas as Sanskrit's distributed calibrant, and then shows how the pyramid concealed that relationship beneath a botanical history and an apex codifier.*
 
 - 2.1 What Codification Cannot Explain — *States the pyramid's claim, tests it through three questions, and identifies the Vedas as the answer the rest of the book will demonstrate.*
-- 2.2 Answer the Questions — *Formal Arabic remained stable through religious and political authority. Tamil changed despite the* Tolkāppiyam. *Neither case allows grammar alone to explain Sanskrit's invariance.*
+- 2.2 Why Formal Arabic Remained Stable and Tamil Changed — *Formal Arabic remained stable through religious and political authority. Tamil changed despite the* Tolkāppiyam. *Neither case allows grammar alone to explain Sanskrit's invariance.*
 - 2.3 Four Language Categories — *Figure 2.1 separates origin from generativity and places Sanskrit and Esperanto inside Generative Architectures.*
 - 2.4 Rules Are Not Enough — *Esperanto demonstrates engineered generativity and also demonstrates why rules cannot preserve that architecture across generations.*
 - 2.5 The Missing Calibrant — *The Vedas preserve a fixed body of Sanskrit in use, while the* laukika *domain allows new expression through the same architecture.*
@@ -63,11 +63,11 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 2.7 Three Acts of Category Theft — *Figure 2.2 shows the pyramid moving the two Sanskrit domains into false organic categories and an invented chronology.*
 - 2.8 Decoding, Not Codification — *Pāṇini decoded an existing architecture; heroic erasure praises him as codifier so that the earlier architecture disappears.*
 - 2.9 The War Changed the Attack — *After 1857 forced Britain to retreat from overt conversion, false categories offered another way to separate Hindus from what they had preserved.*
-- 2.10 Āsurī Māyā — *The chapter returns to its epigraph and identifies concealment and projection inside the category theft.*
+- 2.10 Āsurī Māyā: Concealment and Projection — *The chapter returns to its epigraph and identifies concealment and projection inside the category theft.*
 
-**Chapter 3 — Motive and Method** — *Asks why the botanical metaphor has not gone. Lethargy and hegemony helped establish it; only strategic necessity accounts for its persistence. Surveys the three pillars the metaphor defends — custody (racial), enclosure (theological), ascent (progress) — and names containment as the method.*
+**Chapter 3 — The Pyramid's Motive and Method** — *Asks why the botanical metaphor has not gone. Lethargy and hegemony helped establish it; only strategic necessity accounts for its persistence. Surveys the three pillars the metaphor defends — custody (racial), enclosure (theological), ascent (progress) — and names containment as the method.*
 
-- 3.1 Why the Tree Survived — *Names the candidates; strategic necessity is the explanation that fits.*
+- 3.1 Why the Pyramid Needs the Tree — *Names the candidates; strategic necessity is the explanation that fits.*
 - 3.2 Custody: The Racial Pillar — *The racial Arya thesis and the metaphor's role in keeping Sanskrit "portable"; the colonial mechanism transposed into a fabricated ancient timeline.*
 - 3.3 Enclosure: The Theological Pillar — *The Biblical chronology that anchored nineteenth-century philology, and how the framework accommodated it.*
 - 3.4 Ascent: The Progress Pillar — *The linear-progress teleology: the third and most potent pillar, defended by every contemporary academic regardless of alignment.*

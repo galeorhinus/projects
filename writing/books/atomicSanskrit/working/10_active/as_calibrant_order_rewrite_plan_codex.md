@@ -206,7 +206,7 @@ This map is a discussion draft. Section count and titles are not approved.
 | Proposed section | Primary job | Current material |
 |---|---|---|
 | **2.1 What Codification Cannot Explain** | State the pyramid's claim, ask the three questions, and answer **The Vedas** | Current §§2.4 and 2.8 plus new opening |
-| **2.2 Answer the Questions** | Arabic and Tamil perform the primary test | Mostly new; correct current Arabic material |
+| **2.2 Why Formal Arabic Remained Stable and Tamil Changed** | Arabic and Tamil perform the primary test | Mostly new; correct current Arabic material |
 | **2.3 Four Language Categories** | Use the 2×2 to distinguish engineered from natural and generative from closed | Current §2.2 and Figure 2.1, revised |
 | **2.4 Rules Are Not Enough** | Use Esperanto to separate generative architecture from preservation | Preserve the necessary conclusion from current §2.3; move its three language-movement concepts to their later chapters |
 | **2.5 The Missing Calibrant** | Introduce the Vedas and two domains as the answer | New synthesis pointing to Chapters 13–16 |
@@ -214,7 +214,7 @@ This map is a discussion draft. Section count and titles are not approved.
 | **2.7 Three Acts of Category Theft** | Natural language, foreign origin, and Pāṇini as codifier | Current §§2.4 and 2.9, consolidated around the retained category-theft figure |
 | **2.8 Decoding, Not Codification** | Restore Pāṇini's actual achievement | Current §2.8, revised after the comparative test |
 | **2.9 The War Changed the Attack** | Establish the *Operation Red Lotus* thesis and the post-1857 categorical turn | New material |
-| **2.10 Āsurī Māyā** | Complete *āvaraṇa* and *vikṣepa* and hand the argument to Chapter 3 | Current §2.1 material plus new close |
+| **2.10 Āsurī Māyā: Concealment and Projection** | Complete *āvaraṇa* and *vikṣepa* and hand the argument to Chapter 3 | Current §2.1 material plus new close |
 
 ## 5. Current Material: Keep, Move, Shorten, or Remove
 

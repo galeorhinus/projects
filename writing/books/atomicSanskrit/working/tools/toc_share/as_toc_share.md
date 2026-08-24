@@ -21,7 +21,7 @@ The book runs on an eclipse. Sanskrit is the Sun (Sūrya); the Western philologi
 
 ### Part I — How the Shadow Is Cast (*the āsurī māyā*)
 - **Chapter 2 — Category Theft and Āsurī Māyā.** A created, calibrated architecture forced first into a botanical tree, then into a codified standard.
-- **Chapter 3 — Motive and Method.** Why the metaphor survives: three pillars (custody, enclosure, ascent) and containment as the method.
+- **Chapter 3 — The Pyramid's Motive and Method.** Why the metaphor survives: three pillars (custody, enclosure, ascent) and containment as the method.
 - **Chapter 4 — The Fourth Abrahamic Religion.** Secular progressivism as the institutional carrier — the church of progress.
 
 ### Part II — The Sun's Own Account (*created, anti-entropic, calibrated*)

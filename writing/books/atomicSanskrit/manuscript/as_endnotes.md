@@ -1079,7 +1079,7 @@ Source: Sūrya Kānta, ed., *Ṛktantra: A Prātiśākhya of the Sāmaveda*, p. 
 
 **Short:** Comparative philologists replace Sanskrit's two derivations with a reconstructed ancestor represented as Proto-Indo-Iranian ***Hásuras*** or, in deeper proposals, PIE ***h₂ḿ̥suros***, and assign that reconstructed word the meaning "lord" or "powerful being."
 
-**Deployment:** Chapter 3 §3.6 — "What the Conflation Buys," where the reconstructed third word replaces both ***asu-ra*** and ***a-sura***.
+**Deployment:** Chapter 3 §3.6 — "What the Pyramid Gains from Conflation," where the reconstructed third word replaces both ***asu-ra*** and ***a-sura***.
 
 The exact starred form varies across reconstructions. Mayrhofer traces Sanskrit *asura-* through Proto-Indo-Iranian ***Hásuras***; deeper Indo-European proposals include forms represented as ***h₂ḿ̥suros***. Neither form comes from a recorded sentence. Comparative philology infers the form and then assigns the ancestral word the meaning "lord" or "powerful being."
 
@@ -1375,7 +1375,7 @@ Source: Ṛgveda 6.17.8, Sanskrit and translation comparison at [WisdomLib](http
 
 **Short:** Comparative reconstruction permits starred forms that appear in no recorded sentence, while the standard account rejects a Sanskrit derivation because its positive base does not occur independently in the Rigveda. Chapter 3 identifies that mismatch as the double standard preserving the external-origin narrative and concealing Sanskrit's generative architecture.
 
-**Deployment:** Chapter 3 §3.6 — "What the Conflation Buys"; Chapter 19 §19.8 can point back to this note.
+**Deployment:** Chapter 3 §3.6 — "What the Pyramid Gains from Conflation"; Chapter 19 §19.8 can point back to this note.
 
 PIE reconstructions are inferred sound-forms, conventionally marked with an asterisk because no direct textual witness records them. The method can be useful for grouping correspondences, but the asterisk marks reconstruction, not a recovered utterance. Sanskrit's privative architecture is directly documented and repeatedly active in the Rigveda. The fixed VedaWeb comparison in `rigveda-privative-generativity` demonstrates that an independently missing positive counterpart does not prevent a privative form from being used dozens of times.
 

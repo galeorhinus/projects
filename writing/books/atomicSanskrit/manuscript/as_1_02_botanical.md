@@ -44,7 +44,7 @@ Pāṇini's contribution to Sanskrit is extraordinary. These comparisons do not 
 
 The rest of this book explains how the Vedas kept Sanskrit invariant. They remain a distributed calibrant for Sanskrit's sounds and grammar. They also encode foundational architectures of ***संस्कृति (*saṃskṛti*)***, including the distinctions between ***सत् (*sat*)*** and ***असत् (*asat*)*** and the created order of ***ऋत (*ṛta*)***. This volume begins with the linguistic architecture because Sanskrit allows the calibrant relationship to be examined in full.
 
-## 2.2 Answer the Questions
+## 2.2 Why Formal Arabic Remained Stable and Tamil Changed
 
 ### How Formal Arabic Was Held in Place
 
@@ -212,7 +212,7 @@ Comparative philology was already being assembled before 1857. After overt conve
 
 The attack moved from openly replacing Hindu life to controlling the categories through which Hindus understood what they had preserved.
 
-## 2.10 Āsurī Māyā
+## 2.10 Āsurī Māyā: Concealment and Projection
 
 The chapter can now return to its epigraph. The mantra presents power without assigning it automatically to either side. **माया (*māyā*)** can serve ***सत् (*sat*)*** or ***असत् (*asat*)***. Indra defeats the ***मायिन् (*māyin*)*** Śuṣṇa with *māyās* of his own. The Hindu continuum therefore distinguishes **दैवी माया (*daivī māyā*)**, which serves radiance and protection, from **आसुरी माया (*āsurī māyā*)**, which serves concealment and deformation.[NOTE: rigveda-1-11-7-maya-mayin]
 

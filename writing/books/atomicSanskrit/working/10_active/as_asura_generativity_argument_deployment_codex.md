@@ -355,7 +355,7 @@ By describing Sanskrit as a *drifting* natural language, the pyramid pre-emptive
 
 ⟢ **REPEAT (coexistence re-lists Act II).** In the new order this beat re-names Svarbhānu, Rudra, Mitra/Varuṇa, Varcin — whom Act II just detailed. Suggest tighten to the *chronology* point ('both forms operate inside the maṇḍalas the pyramid calls its oldest core') and cross-reference Act II, keeping 'nothing reversed … the demand rearranged the evidence' intact. Your call.
 
-⟢ **REPEAT (single-inherited-word claim, now adjacent).** 'every asura must be a single inherited word' (this block, ~149) and 'presses them into one inherited word' (What the Conflation Buys, ~258) now sit in the same act. Keep the sharper and trim the echo. Your call.
+⟢ **REPEAT (single-inherited-word claim, now adjacent).** 'every asura must be a single inherited word' (this block, ~149) and 'presses them into one inherited word' (What the Pyramid Gains from Conflation, ~258) now sit in the same act. Keep the sharper and trim the echo. Your call.
 
 #### Two Words, One Sound-Form
 
@@ -393,7 +393,7 @@ The pyramid is incensed to discover that the Veda failed to seek approval from i
 
 Sarcasm aside, the Vedas use this exact generative engine. They have themselves remained **अदब्धाः (*adabdhāḥ*)** — inviolable — ever since their mantras were first seen.
 
-#### What the Conflation Buys
+#### What the Pyramid Gains from Conflation
 
 
 While demanding attestation from Sanskrit’s generative architecture and requiring a separately recorded ***sura*** before certifying ***a-sura***, the pyramid grants itself thousands of starred PIE sound-forms without a *single* recorded sentence. It invents imaginary words from an imaginary natural language spoken by an unspecified (but definitely *not* Indian) race, while denying a formation that Sanskrit's own architecture supplies and the action of the mantra identifies.[NOTE: asura-generativity-pie-double-standard]
@@ -670,7 +670,7 @@ An English speaker understands a newly generated word such as *cloudify* without
 
 The same distinction appears in **अज (*aja*)**. One ***aja*** can be the goat, the driven one, from **⟪अज्⟫ (*aj*, to drive)**. Another is ***a-ja***, the Unborn of the Gītā, a privative formation from **⟪जन्⟫ (*jan*, to be born)**. The two words share one sound-form. Thankfully, the imaginary people speaking an imaginary language were not also herding imaginary sheep and goats. Otherwise, the pyramid might have imagined the goat gradually transforming into the deathless Self. Sanskrit can likewise generate ***asu-ra*** and ***a-sura*** without turning one into a later meaning of the other.[NOTE: nanartha-homonymy]
 
-#### What the Conflation Buys
+#### What the Pyramid Gains from Conflation
 
 The pyramid grants itself thousands of starred PIE sound-forms without a single surviving sentence, then demands a separately recorded *sura* before Sanskrit may generate ***a-sura***. It accepts imaginary words from an imaginary natural language while denying a formation that Sanskrit's own architecture supplies and the action of the mantra identifies.[NOTE-TO-CREATE: asura-generativity-pie-double-standard]
 

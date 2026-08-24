@@ -91,7 +91,7 @@ Text and morphological forms checked against VedaWeb 1.0 TEI, data release DOI 1
 
 **Short:** Zoroaster's Gāthās reject the *daēvas* while centering Ahura Mazdā. A later Zoroastrian confession states the contrast directly: rejecting the *daēvas* and following the Ahuric doctrine.
 
-**Deployment:** Chapter 3 §3.6 — "What the Conflation Buys."
+**Deployment:** Chapter 3 §3.6 — "What the Pyramid Gains from Conflation."
 
 Yasna 32.3, within the Gāthās attributed to Zoroaster, addresses the *daēvas* as born from bad thought and associated with falsehood and arrogance. This is the direct basis for describing Zoroaster's move as doctrinal: the Gāthic teaching rejects the *daēvas* and centers Ahura Mazdā. The later Zoroastrian confession in Yasna 12.1 makes the paired identity explicit: ***mazdayasnō zaraθuštriš vīdaēvō ahura.ṱkaēšō***, a Mazda-worshipper and Zoroastrian who rejects the *daēvas* and follows the Ahuric doctrine. Yasna 12.1 records the later confessional formula; it is not presented here as a sentence spoken by Zoroaster himself.
 

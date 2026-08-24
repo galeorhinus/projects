@@ -1,4 +1,4 @@
-# Chapter 3 — Motive and Method
+# Chapter 3 — The Pyramid's Motive and Method
 
 ::: epigraph
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 3.1 Why the Tree Survived
+## 3.1 Why the Pyramid Needs the Tree
 
 The botanical metaphor kept Sanskrit portable, late, derivative, and dependent on an authority outside the Hindu continuum. Generations of textbooks, dictionaries, departments, and degree programs continued teaching the tree even after Biblical chronology and explicit race science became embarrassing.
 
@@ -140,7 +140,7 @@ English, like Sanskrit and many other languages, includes words that sound and l
 
 The pyramid demands that the reader abandon that ordinary clarity when the word is **असुर (*asura*)** because the obvious distinction would destroy its imaginary chronology and Racial Arya Thesis.
 
-#### Two Words, One Sound-Form
+### Two Words, One Sound-Form
 
 Yāska records a principle of Sanskrit word formation: **नामान्याख्यातजानि (*nāmāny ākhyātajāni*)** — nominal words arise from verbs. The principle explains how Sanskrit derives a nominal word from the action expressed by a *dhātuḥ*.[NOTE: nirukta-nominal-words-from-actions]
 
@@ -161,7 +161,7 @@ Thankfully, the imaginary people speaking an imaginary language were not also he
 
 Two words, two etymologies, one sound-form.
 
-#### The Life-Bearing *Asu-ra*
+### The Life-Bearing *Asu-ra*
 
 The Ṛgveda calls Indra *asura* while he protects his people and gives them strength:
 
@@ -179,7 +179,7 @@ The Ṛgveda calls Varuṇa *asura* while he releases a life from what binds it:
 
 Indra protects life and gives strength. Varuṇa loosens what has bound life. Their sovereignty serves **लोकक्षेम (*lokakṣema*)**, the well-being of the world. In these mantras, ***asura*** is ***asu-ra***, the bearer of ***asu***, life's breath.[NOTE: rv-agni-mitra-rudra-asura]
 
-#### The Containing *A-sura*
+### The Containing *A-sura*
 
 The Ṛgveda also uses *asura* or *āsura* for antagonists such as Pipru, Varcin, Namuci, and Svarbhānu. Pipru is the *asura* and ***māyin*** behind fortified enclosures in Ṛgveda 10.138.3. Indra and Viṣṇu defeat the forces of the *asura* Varcin in Ṛgveda 7.99.5. Ṛgveda 10.131.4 calls Namuci ***āsura***; his name identifies the one who does not release. Svarbhānu darkens the Sun in Ṛgveda 5.40.5.[NOTE: rigvedic-named-antagonist-asuras]
 
@@ -209,7 +209,7 @@ Only inside the fertile imagination of a philology determined to hide the radian
 
 Exactly like Svarbhānu.
 
-#### The Pyramid's Attestation Trick
+### The Pyramid's Attestation Trick
 
 The pyramid loves to *attest* things. Because standalone ***sura*** does not appear in the Ṛgveda, it decrees that the Veda could not possibly generate ***a-sura***. It treats Sanskrit like a dictionary of approved terms rather than a generative architecture.
 
@@ -227,7 +227,7 @@ If the certified intellectuals on the pyramid's attestation committee had their 
 
 Sarcasm aside, the Vedas use this exact generative engine. They have themselves remained **अदब्धाः (*adabdhāḥ*)** — inviolable — ever since their mantras were first seen. Chapter 16 explains this relationship between the Vedas and Sanskrit's generative engine; Appendix Part 8 documents the designed variations across the *vaidika* and *laukika* domains.
 
-#### What the Conflation Buys
+### What the Pyramid Gains from Conflation
 
 The pyramid creates a different account. It treats every Rigvedic ***asura*** as the descendant of one reconstructed inherited title meaning "lord" or "powerful being." It therefore refuses to recognize ***asu-ra*** and ***a-sura*** as two Sanskrit words. Instead, it installs a reconstructed form such as ***h₂ḿ̥suros*** behind both of them.[NOTE: asura-reconstructed-lord-account]
 
@@ -239,7 +239,7 @@ This imaginary word also gives the Racial Arya Thesis something portable. The py
 
 Western philologists possessed every part of the evidence. The Veda supplied ***svar, sūrya, sūri,*** and ***sūra***. The grammatical continuum preserved **⟪सुर्⟫** with the meanings sovereignty and shining. Western philologists knew Sanskrit's privative architecture. The mantra described Svarbhānu piercing Sūrya with darkness. They rejected both Sanskrit words and installed a third because the invented word preserved the external-origin narrative and converted action into faction.
 
-#### How Conflation Turns Action into Faction
+### How Conflation Turns Action into Faction
 
 The invented third word allows the pyramid to recast the Vedic encounters as battles between rival factions. It describes one tribe defeating another, one group praising Indra and Varuṇa while another opposes them, or one collection of supernatural beings displacing its competitors. Once the pyramid has framed the conflict this way, the protagonists and antagonists become two sides competing for power. The distinction between ***सत् (sat)*** and ***असत् (asat)*** disappears.[NOTE: asura-factional-framing]
 
@@ -253,7 +253,7 @@ Their **actions** do.
 
 The protagonists act through ***sat***, radiance, circulation, and the distributed architecture of the swastika. The antagonists act through ***asat***, darkness, containment, and the enclosing architecture of the pyramid.
 
-#### Viveka in Every Age
+### Viveka in Every Age
 
 It cannot be a coincidence that the Vedas use the same sound-form for actors on opposite sides of the distinction they repeatedly ask human beings to discern. The listener cannot decide from sound, title, or faction. The listener must examine the action and the architecture that action creates. This exercise of **विवेक (*viveka*)** distinguishes ***sat*** from ***asat***, the life-bearing ***asu-ra*** from the radiance-opposing ***a-sura***, and the distributed order of the swastika from the enclosing order of the pyramid.
 
