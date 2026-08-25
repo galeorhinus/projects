@@ -1,7 +1,5 @@
 # Chapter 0 — Zero, Seekers, and the Infinite
 
-*Draft v4. Setup chapter before Part I exposes how the shadow is cast. Eight sections; opens with the pūrṇam invocation, moves through seekers, the reader's existing Sanskrit, the saṃskṛta/prākṛta distinction, finite-input/unbounded-output systems, and the civilization that preserves the language. Current pass: tone and cross-reference cleanup. Voice: authoritative, not yet prosecutorial. Hands off to Chapter 1's finite-oppressor frame.*
-
 ---
 
 ::: epigraph
@@ -22,11 +20,9 @@
 
 ![Figure E.3 — The radiance of Sanskrit](figures/eclipse_spine/eclipse_01_ch0_sanskrit_sun.svg){#fig:eclipse-ch0-sanskrit-sun width=100%}
 
-Sanskrit's radiance is visible and audible. Its sounds continue through recitation, and anyone can examine its grammar. Its generative architecture creates new expression, while its forms appear throughout Indian languages and across languages far beyond India.
-
 ## 0.1 The Puzzle of the Whole
 
-The *Īśopaniṣad* (ईशोपनिषद्), cited above, begins its inquiry by anchoring the universe in a state that can be put as a puzzle:
+The *Īśopaniṣad* invocation cited above presents the universe through a puzzle:
 
 That is *x*. This is *x*. From *x*, *x* emerges. Take *x* away from *x*, and *x* still remains.
 
@@ -58,11 +54,7 @@ These achievements share one source: a culture of *ṛṣis* ऋषि and *ṛ�
 
 Within *Sanātan*, even a follower is first a seeker: someone who has chosen a path because that path fits their worldview, capacity, temperament, duties, and present state of life. The path may be inherited, taught, discovered, or deepened through lineage, but it remains a path entered by a living person, not a single corridor imposed on all.
 
-The analytical decomposition of language and number both belong to that culture. The same civilization that asked *how many quantities can be expressed* answered with a place-value system in which ten symbols span arithmetic. The same civilization that asked *how many words can be generated* answered with *dhātu* धातु, *upasarga* उपसर्ग, and *pratyaya* प्रत्यय: semantic atoms, prefixes, and suffixes through which a finite inventory opens into a practically limitless vocabulary.
-
-Sanskrit's engineering is the analytical decomposition of the audible world. The number system is the analytical decomposition of the countable world. Both are works of disciplined seeking.
-
-Sanskrit’s architecture is not a coincidence; it is the acoustic output of a civilization already comfortable with the mechanics of infinity.
+The place-value number system and Sanskrit solve the same architectural problem: how can a finite set produce results without a fixed limit? Ten symbols can express every number. Sanskrit uses a finite set of sounds and word-building elements to create new expression whenever speakers need it. Section 0.6 develops this comparison.
 
 ---
 
@@ -92,23 +84,21 @@ The first evidence of the engineering thesis is the language's own name: *saṃs
 
 *Prākṛta* is what ordinary process produces: local idiom, songs, sayings, and everyday forms, all of it shifting as the conditions of life shift. *Saṃskṛta* is what conscious formation creates and disciplined preservation keeps exact. The civilization that built Sanskrit runs both and gives each its dignity through purpose. Everyday speech may change, because living speech must meet living circumstance. A *Vedic mantra* must stay exact, because its purpose is exact transmission. The *prākṛta* flows; the *saṃskṛta* remains invariant.
 
-*Saṃskṛta* itself runs in two domains. Its architecture and calibrated language remain invariant in both. The **vaidika** वैदिक domain keeps language and content invariant: the Veda remains exact. The **laukika** लौकिक domain applies the same invariant language to a changing world. Sanskrit's generative architecture can produce millions of possible words from its standing atoms and bonds, giving each age vocabulary for new objects, practices, institutions, and ideas. Usage adapts and expands while the language remains invariant. Its corpus is a **curated transmission** — selected, accretive, and lossy, tended by **percipient selection**, the discerning community keeping what serves and letting the rest go. Beside both flows the **prākṛtika** प्राकृतिक, where language and content alike change: the natural speech of daily life.
+*Saṃskṛta* itself operates through two domains. The **vaidika** वैदिक domain preserves the Vedas exactly: both the language and the received content remain invariant. The **laukika** लौकिक domain uses the same language to create new compositions for a changing world. Its language remains invariant while its literature continues to grow.
 
-The Hindu continuum has three streams, each with its own duty. Two of them are the two domains of Sanskrit: the *vaidika* preserves invariant language and content, and the *laukika* preserves the language while extending its use and tending its corpus. The third stream, *prākṛtika*, lets language and content change with daily life.
+Beside them flows the **prākṛtika** प्राकृतिक. This is natural speech, where both language and content change as generations use them.
 
-Together, these three streams form a complete civilizational defense: one stream to hold the absolute standard, a second to structure human thought, and a third to let life flow.
+These are three different responsibilities. The *vaidika* preserves an exact calibrant. The *laukika* gives every generation a language for new expression. The *prākṛtika* allows everyday speech to change with life.
 
-Sanskrit's architecture is founded on two domains. Why does Sanskrit need two domains? If its architecture is complete and generative, why not preserve one body of rules and allow speakers to extend it as circumstances change? The comparison with Esperanto in Chapter 2 will show why rules alone cannot preserve a calibrant.
-
-Exact Vedic preservation requires the *vaidika* domain to retain every articulation demanded by a mantra, including sounds produced only under a stated condition. The *laukika* domain, whose name means *worldly*, must provide vocabulary for changing human activity while keeping the language invariant. 
+Why does Sanskrit need two domains? If its architecture is complete and generative, why not preserve one body of rules and allow speakers to extend it as circumstances change? Chapter 2 shows why rules alone cannot preserve a language, and Chapter 16 explains how the two domains work together.
 
 Why is this invariance important?
 
 Sanskrit's invariance allows a student who learns the language today to understand compositions created thousands of years ago. Prakrit languages changed as their speakers used them, so later readers must learn their older forms separately. English has changed so much in only a few centuries that modern readers often need explanatory notes to understand Shakespeare.
 
-Sanskrit preserves that continuity without restricting new expression. Its highly generative architecture can produce millions of words. Continued generation requires a reusable sonomer inventory whose members combine consistently throughout the system. Chapter 9 will show how one sound architecture can satisfy both requirements.
+Sanskrit preserves that continuity without restricting new expression. Its highly generative architecture can produce millions of words. Chapter 9 explains the sound architecture that supports this continuity, and Chapter 16 brings the two-domain design together.
 
-![Figure 0.1 — The three streams. *Saṃskṛta*, the wholly created language, runs in two domains. The *vaidika* keeps language and content invariant. In the *laukika*, the language remains invariant while generative usage adapts and its curated corpus remains selected, accretive, and lossy. Beside them, *prākṛtika* flows as the changing natural speech of daily life. The figure compares how the three streams preserve or change language and content; it does not give them a common beginning.](figures/seekers/sanatana_triad.svg){#fig:sanatana-triad width=100%}
+![Figure 0.1 — The three streams. *Saṃskṛta*, the wholly created language, operates through two domains. The *vaidika* keeps language and received content invariant. The *laukika* keeps the language invariant while permitting new composition. Beside them, *prākṛtika* flows as the changing natural speech of daily life. The figure compares their responsibilities; it does not place them in a chronological sequence.](figures/seekers/sanatana_triad.svg){#fig:sanatana-triad width=100%}
 
 ---
 
@@ -134,19 +124,11 @@ The *laukika* domain remains open to composition. People use it to tell stories,
 
 Some laukika material is certainly newer. Some may be extremely old. A story could have circulated before a particular mantra was seen, just as an author can write an epilogue before writing a preface. We do not possess the chronology required to place every laukika composition after every Vedic mantra. The naming of the two domains describes purpose and usage, not sequence.
 
-Their different exposure to entropy follows from those purposes. The Vedic domain is guarded by exact transmission because the Vedas are the calibrant. Every recitation is checked against the received form.
+The two domains therefore face entropy differently. Exact transmission protects the Vedas, and each recitation can be checked against the received form. The *laukika* domain remains open to new composition, so pronunciation, word forms, and meanings have more opportunities to vary. Grammarians examined *laukika* usage and corrected departures by comparing them with Sanskrit's architecture preserved in the Vedas.
 
-The laukika domain faces greater entropic pressure because it remains generative. New speakers, new compositions, new circumstances, and ordinary usage create opportunities for pronunciation, forms, and meanings to vary. The ***वैयाकरणाः (vaiyākaraṇāḥ)*** documented both domains, but their calibrating activity belonged to the laukika domain. They did not calibrate the Vedas. The Vedas supplied the calibration.
+Pāṇini inherited this analytical work and produced the finest documentation of Sanskrit's architecture. The *Aṣṭādhyāyī* records operations used across both domains and marks the settings in which particular rules apply. Chapter 16 and Appendix Part 8 examine those boundaries in detail.
 
-Pāṇini articulated the existing rules found across both domains. Some rules apply broadly in Vedic Sanskrit. Others apply only in mantra, outside mantra, in Brāhmaṇa usage, in a transmitted Vedic text, or in *laukika* use. Pāṇini names those limits through markers such as *chandasi, mantre, amantre, brāhmaṇe, nigame,* and *bhāṣāyām*. His documentation helps students read and understand Vedic forms and use Sanskrit for new *laukika* composition.
-
-Nothing in the *Aṣṭādhyāyī* shows Pāṇini rewriting a Vedic passage, correcting a mantra, or converting a natural language into Sanskrit. He documented an architecture that Sanskrit already used in both domains. His articulation is the finest account of that architecture.
-
-Could some grammatical variation have entered laukika usage during the thousands of years before Pāṇini inherited and documented it?
-
-That is likely. An open domain will face entropy in a way that read-only transmission does not. But this does not produce the pyramid's story of a drifting language finally *"codified"* by Pāṇini. Generations of *vaiyākaraṇāḥ* had already been analyzing usage and calibrating the laukika domain against Sanskrit's architecture encoded in the *vaidika* domain. Pāṇini represents the peak of that effort, not its beginning or its culmination.
-
-The Vedas remained unchanged. Laukika usage may have varied under entropic pressure, while continuous calibration kept the language within Sanskrit's architecture.
+Some *laukika* usage may have varied before Pāṇini. Continuous calibration kept those variations within Sanskrit's architecture, while the Vedas remained unchanged.
 
 The Vedas did not survive because Pāṇini stabilized them. Pāṇini could document Sanskrit because its architecture was already encoded and preserved within them.
 
@@ -190,7 +172,11 @@ A finite inventory, a rule for combining it, one enabling idea — and the outpu
 
 **Sanskrit does to language what zero does to counting.**
 
-A dictionary language stores its vocabulary as inventory: English accumulates words and lists them, on the order of 170,000 in current use. Sanskrit runs the other way. The grammatical continuum preserves the **धातुपाठ (*Dhātupāṭha*)**, a list of over two thousand semantic atoms. Prefixes, ***उपसर्गाः (*upasargāḥ*)*** and suffixes, ***प्रत्ययाः (*pratyayāḥ*)*** attach to them; the verb-grids inflect them; ***समास (*samāsa*)*** composes them; and a compound can itself become a member of the next assembly. The system generates words rather than storing them. A conservative count of the first-pass grammatical space already runs past **twenty million words before a single compound is formed**, and compounding adds no ceiling.[NOTE: sanskrit-generative-wordspace] 
+English dictionaries list roughly 170,000 words in current use. Sanskrit is built differently. It begins with over two thousand semantic atoms known as ***धातवः (*dhātavaḥ*)***, or *dhātus*. Rather than listing every possible word, Sanskrit provides procedures for building words from those atoms.
+
+Prefixes can redirect their meanings. Suffixes and verb endings turn them into finished words. Sanskrit can then join finished words into compounds, and each compound can become a building block for another.
+
+These operations give a finite inventory enormous reach. A conservative count of the forms available before compounding already exceeds **twenty million words**. Once compounding begins, the architecture places no fixed ceiling on the number of possible formations.[NOTE: sanskrit-generative-wordspace]
 
 Sanskrit is a word-engine.
 
@@ -206,9 +192,11 @@ The Vedas act as a calibrant for both Sanskrit and *saṃskṛti*. At the lingui
 
 At the civilizational level, the Vedas preserve **ऋत (*ṛta*)** as the invariant trajectory of created order. People can compare actions, institutions, and systems in the changing world with that trajectory.
 
-*Ṛta* is often translated as “cosmic order,” as if the universe runs on one single order. How can this “cosmic order” explain the clearly abhorrent actions and systems that human beings create?
+### Ṛta Was Created
 
-The Vedas make that distinction clearly and unequivocally.
+*Ṛta* is often translated as “cosmic order,” as if it were the single order that governs everything in the universe. That translation leaves no clear place for the destructive systems that human beings create.
+
+The Vedas do not describe *ṛta* as the only order possible. They begin with a more fundamental distinction:
 
 **Sat was born from asat.**
 
@@ -216,9 +204,7 @@ The Vedas make that distinction clearly and unequivocally.
 > *devānāṃ pūrvye yuge 'sataḥ sad ajāyata*\
 > “In the earlier age of the *devāḥ*, *sat* was born from **असत् (*asat*)**.” (RV 10.72.2)[NOTE: rv-10-72-2-sat-born-from-asat]
 
-Because *sat* had to be born from *asat*, the **ऋत (*ṛta*)** order aligned with *sat* cannot be the universe's default order.
-
-This implies that the **ऋत (*ṛta*)** order is one possible set of paths that can exist in this universe, and it runs counter to the orders that can arise from *asat*. The *asuric pyramidal* order or orders, this book argues, would belong to the opposite set of paths.
+If *sat* had to arise from *asat*, then the order aligned with *sat* cannot be the universe’s default order. Human beings can create systems aligned with either condition. The asuric pyramid is an order created from *asat*.
 
 The question then becomes: was **ऋत (*ṛta*)** engineered by humans?
 
@@ -237,11 +223,9 @@ The Vedas state the sequence in two mantras from the same hymn:
 
 This means that there was *asat*, then *sat* and *ṛta*, and then the sun, moon and the earth were formed.[NOTE: sat-rta-cosmogonic-sequence-inference]
 
-Therefore the *sat-asat* binary predates human existence. *Ṛta* was created, but human beings did not create it.
+Therefore the *sat-asat* binary predates human existence. *Ṛta* was created, but human beings did not create it. The **ऋषि (*ṛṣi*)** sees **ऋत (*ṛta*)** and gives it a form in a measured verse, the **ऋच् (*ṛc*)**.
 
-The straight movement along the **ऋत (*ṛta*)** thread is **ऋजु (*ṛju*)**, and the crooked movement is **वृजिन (*vṛjina*)** (RV 7.104.13).[NOTE: rv-7-104-12-13-sat-asat-vrjina-soma]
-
-The **ऋषि (*ṛṣi*)** sees **ऋत (*ṛta*)** and gives it a form in a measured verse, the **ऋच् (*ṛc*)**.
+### Discerning Sat from Asat
 
 What makes humans unique is that they inherited the capacity for *asat*, and therefore for *sat* — a capacity that other animals do not possess. Animals act within *prakṛti*. Human beings can choose between *sat* and *asat* and build a civilizational order around that choice.
 
@@ -259,6 +243,10 @@ The mantra below says: look for **यतरदृजीयः (*yatarad ṛjīya
 > *sac cāsac ca vacasī paspṛdhāte, tayor yat satyaṃ yatarad ṛjīyaḥ, tad it somo 'vati hanty āsat*\
 > “*Sat* and *asat* contend, word against word; of the two, whichever is true and straight, *ṛjīyaḥ*, Soma protects, and the *asat* he destroys.” (RV 7.104.12)[NOTE: rv-7-104-12-13-sat-asat-vrjina-soma]
 
+The mantra tells the listener to examine the direction of the action. Straight movement along the **ऋत (*ṛta*)** path is **ऋजु (*ṛju*)**. Crooked movement is **वृजिन (*vṛjina*)** (RV 7.104.13).[NOTE: rv-7-104-12-13-sat-asat-vrjina-soma]
+
+### Two Architectures of Order
+
 Before human choice shapes an order toward *sat* or *asat*, living beings act within **प्रकृति (*prakṛti*)**.
 
 - **विकृति (*vikṛti*)** — representing *asat* — the **वृजिन (*vṛjina*)** movement.
@@ -271,23 +259,29 @@ The *Vṛtra*, *Svarbhānu*, and *Paṇi* narratives show what the conflict betw
 
 That need for memory reaches into Sanskrit's engineering. A Vedic mantra cannot now be rearranged: its words remain in their received order. Yet the Vedas make extensive use of Sanskrit's free word order. Because the endings preserve the grammatical relations, the words can occupy positions that support meter, resonance, emphasis, and memory. Pitch, recitation, and exact transmission then keep the entire form intact. Chapters 12 and 16 develop this architecture.
 
-The protagonists fight for **सत् (*sat*)** to restore the order of flow: circulation kept open and release along that path — the path of **स्वस्ति (*svasti*)**, well-being, followed as the Sun and Moon follow their orbits: **स्वस्ति पन्थामनु चरेम सूर्याचन्द्रमसाविव** (*svasti panthām anu carema sūryācandramasāv iva*) — “may we follow the path of *svasti*, as the Sun and Moon do.” (RV 5.51.15)[NOTE: rv-5-51-15-svasti-panthanam]
+The protagonists act to restore circulation. The Vedas call the path of continuing well-being **स्वस्ति (*svasti*)**.
 
-The *swastika* is the physical symbol that extends this path of well-being.
+> **स्वस्ति पन्थामनु चरेम सूर्याचन्द्रमसाविव**\
+> *svasti panthām anu carema sūryācandramasāv iva*\
+> “May we follow the path of *svasti*, as the Sun and Moon do.” (RV 5.51.15)[NOTE: rv-5-51-15-svasti-panthanam]
 
-While **ऋत (*ṛta*)** is this order of flow, the book adds two descriptors: the **सनातन (*sanātana*) order** and, because it embodies **सत् (*sat*)**, the **सात्त्विक (*sāttvika*) order**, the order of *sat*-ness.[NOTE: sattvika-order-generative-coinage]
+The *swastika* gives physical form to this path of well-being.
 
-There's a fundamental asymmetry in the two orders. **असत् (*asat*)** aims for possession of power — who commands, who controls access, who monopolizes sovereignty. **सत् (*sat*)**, on the other hand, seeks distributed order — circulation that keeps the gates of containment open. *Sanātan* does not condemn power itself; Indra wields the *vajra*. It judges power by what the action serves — Indra releases what Vṛtra withholds, and it is the action of releasing, not the strength, that differentiates **सत् (*sat*)** from **असत् (*asat*)**.
+The two orders pursue different ends. An order aligned with **असत् (*asat*)** seeks possession of power. It asks who will command, who will control access, and who will claim sovereignty. An order aligned with **सत् (*sat*)** keeps what sustains life in circulation and distributes authority.
 
-The Vedas offer the abstracted idea of *sat* versus *asat* that remains timeless. The human experience in the *laukika* domain interprets it for the specific conditions of life. As an example, the Mahābhārata states: **यद्भूतहितमत्यन्तं तत्सत्यम्** (*yad bhūta-hitam atyantaṃ tat satyam*) — “that which fully and finally serves the welfare of living beings is **सत्य (*satya*)**.”[NOTE: satyam-bhutahitam-mahabharata]
+*Sanātan* does not condemn power. Indra wields the *vajra*. The question is what that power serves. Indra uses it to release what Vṛtra withholds. The action, not the strength of the actor, distinguishes **सत् (*sat*)** from **असत् (*asat*)**.
 
-The Veda preserves the invariant distinction; the *laukika* domain applies it to a changing world.  
+The Vedas preserve the distinction between sat and asat for every age. Laukika compositions apply that distinction to particular human circumstances. The Mahābhārata gives one such test: **यद्भूतहितमत्यन्तं तत्सत्यम्** (*yad bhūta-hitam atyantaṃ tat satyam*) — “that which fully and finally serves the welfare of living beings is **सत्य (*satya*)**.”[NOTE: satyam-bhutahitam-mahabharata]
 
-This is the quintessence of the calibrant architecture for both *saṃskṛti* and Sanskrit.
+The same two responsibilities exist at the civilizational scale. The Veda preserves the invariant distinction. Each generation applies it to a changing world.
 
-The chapters that follow trace a battle between two fractal architectures. One keeps what sustains life in circulation. The Vedas show its protagonists releasing water and light from obstruction, while Sanskrit's caretakers preserve and transmit knowledge without placing it under one owner. The other architecture encloses what should circulate and forces everyone else to approach through an apex. The same opposition appears in the Vedic accounts, in civilizational institutions, and in the modern account of Sanskrit.
+**This is calibrant architecture.**
 
-Chapter 1 follows **असत् (*asat*)** from cosmic condition into specific action: concealment, blockade, isolation, enclosure — the architecture of containment, the pyramid.
+The chapters that follow trace these two architectures across several scales.
+
+One keeps what sustains life in circulation. In the Vedic narratives, its protagonists release water and light from obstruction. In Sanskrit, its caretakers preserve and transmit knowledge without placing it under one owner.
+
+The other architecture encloses what should circulate and forces everyone else to approach through an apex. Chapter 1 follows this movement from **असत् (*asat*)** into concealment, blockade, isolation, and enclosure: the architecture of containment, the pyramid.
 
 ---
 
@@ -307,7 +301,7 @@ The recitations continue audibly today in **गुरुकुलानि (*gur
 
 The Hindu civilization preserves the language. Hindus inherit Sanskrit as caretakers. *Dharmo rakṣati rakṣitaḥ* — dharma protects when protected.[NOTE: dharmo-rakshati-rakshitah] Sanskrit asks the same kind of protection. It has survived because teachers, students, mothers, reciters, *vaiyākaraṇāḥ*, poets, priests, scholars, and ordinary households protected it.
 
-If Sanskrit is the calibrant, then returning to Sanskrit is civilizational work, toward the well-being of the world, and protection can no longer remain passive. It must turn into an active prosecution of the false architecture. The reader who learns to hear it, speak it, teach it, defend its categories, or refuse the pyramid's substitutions has stepped into the same chain of caretaking. The work begins as listening. It becomes structural protection.
+Generations of caretakers protected Sanskrit, allowing it to continue as a calibrant today. Protecting it now begins with listening and learning. It continues through speaking, teaching, and refusing the pyramid's false categories. Once the reader understands the architecture, caretaking also requires exposing the system that tried to conceal it.
 
 ---
 
@@ -315,8 +309,12 @@ If Sanskrit is the calibrant, then returning to Sanskrit is civilizational work,
 
 Readers do not need to have studied Sanskrit before they follow its engineering, architecture, and civilizational transmission through this book. Readers who already know the language will recognize many of the sounds, grammatical operations, and methods of preservation that the chapters ahead examine. The academy taught them to treat these familiar features as products of natural linguistic development. This book places the same evidence inside a different category and examines it as deliberate engineering. Once the category changes, relationships among familiar features become easier to see.
 
-A fractal repeats the same organizing principle at different scales. Sanskrit does this from the smallest movement of the mouth to the preservation of the complete language. Articulatory coordinates describe where and how the mouth produces sounds. The engineering selects particular sounds and assigns each selected sonomer a stable grid address. Sonomers combine into semantic atoms, and those atoms enter larger grammatical assemblies. Sanskrit's grammar gives words the forms that establish their roles inside sentences. *Sūtrāṇi* compress the operations so that teachers and students can remember and apply them. The Vedas and their supporting disciplines preserve the complete architecture as a calibrant. At every larger scale, Sanskrit retains and reuses the organization visible at the smaller scale.
+A fractal repeats the same organizing principle at different scales. Sanskrit does this from the movements of the mouth to the preservation of the complete language. The mouth produces sounds, and Sanskrit selects and arranges them. Those sounds combine into semantic atoms. The atoms extend into words, and the words receive forms that establish their relationships inside sentences. Compact *sūtrāṇi* help teachers and students remember and apply these operations. The Vedas and their supporting disciplines preserve the complete architecture as a calibrant. Each scale carries forward the organization established at the scale below it.
 
-The seekers and caretakers confront another fractal that repeats the opposite organization: the asuric pyramid. At every scale, the pyramid concentrates authority at an apex. The apex commands the people below, encloses knowledge and resources, and requires others to approach through its gate. Sanskrit distributes its architecture throughout society. Teachers, students, families, reciters, and analysts carry different parts of it. No apex can seize the whole by controlling one group. That distribution threatens any pyramid that wants authority to flow only from above. Part I identifies the obstructions precisely: Sanskrit classified as a natural language, PIE installed as its parent, its two domains rearranged into historical periods, and Pāṇini recast as its codifier. Through each obstruction, the pyramid teaches the reader to misinterpret an architecture that remains present.
+The seekers and caretakers confront another fractal with the opposite organization: the asuric pyramid. At every scale, the pyramid concentrates authority at an apex. The apex commands the people below, encloses knowledge and resources, and requires everyone else to approach through its gate.
 
-The Epilogue returns to Ṛgveda 5.40. Svarbhānu covers the Sun with darkness, but the Atris find the Sun and make it visible again. This opening chapter has introduced the civilizational capacity that makes such recovery possible: people trained to listen, correct, remember, and continue looking when darkness conceals what earlier generations preserved.
+Sanskrit distributes its architecture throughout society. Teachers, students, families, reciters, and analysts carry different parts of it. Controlling one group cannot give an apex control over the whole system. That distribution threatens every pyramid that wants authority to flow only from above.
+
+Part I examines how the pyramid tried to hide this architecture. It classified Sanskrit as a natural language, installed PIE as its parent, rearranged the two Sanskrit domains into historical periods, and recast Pāṇini as the language's codifier. Each substitution teaches the reader to misinterpret an architecture that remains present.
+
+The Epilogue returns to Ṛgveda 5.40. Svarbhānu covers the Sun with darkness, but the Atris continue searching until they find it. This chapter has introduced the discipline behind that response. Seekers keep looking. Caretakers preserve what earlier generations found. Together, they prevent concealment from becoming loss.

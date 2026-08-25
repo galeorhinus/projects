@@ -373,7 +373,7 @@ These claims can sound extravagant until Sanskrit is examined as engineered spee
 
 Sanskrit extends from language into civilization. The Vedas bond Sanskrit to Sanskriti, allowing the architecture of speech to become an architecture for civilization. Oṃ therefore compresses Sanskrit's sound-system together with its wider civilizational expression. It gathers Sanskrit's radiant architecture, the Sanskriti carried through that architecture, and the Vedic account of existence into one audible form.
 
-**Oṃ is Sanskriti compressed into a radiant fractal.**
+**Oṃ is the *akṣara* in which Sanskrit and Sanskriti are compressed into a radiant fractal that can be heard. The sign ॐ is the visible symbol of Sanātan's fractal architecture.**
 
 Oṃ therefore passes the same test at the point of maximum compression. It is **अल्पाक्षरम् (*alpākṣaram*)** because it is one *akṣara*. It is **अस्तोभम् (*astobham*)** because nothing in it is padding. It is **असंदिग्धम् (*asaṃdigdham*)** because the lineage calls it precisely *praṇava*. It is **सारवत् (*sāravat*)** because the śāstra treats it as essence-bearing. It is **विश्वतोमुखम् (*viśvatomukham*)** because the Upaniṣads make it face time, world, recitation, and realization together. It is **अनवद्यम् (*anavadyam*)** because it remains stable across recitation, yajña, yoga, and Vedānta.
 

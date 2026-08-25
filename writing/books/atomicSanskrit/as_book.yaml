@@ -87,10 +87,10 @@ assembly:
   - kind: part
     file: manuscript/as_part_01_wrong_metaphor.md
     title: "Part I — How the Shadow Is Cast"
-    subtitle: The asurī māyā.
+    subtitle: The āsurī māyā.
   - kind: chapter
     file: manuscript/as_1_02_botanical.md
-    title: "Chapter 2 — Category Theft and Asurī Māyā"
+    title: "Chapter 2 — Category Theft and Āsurī Māyā"
   - kind: chapter
     file: manuscript/as_1_03_strategic.md
     title: "Chapter 3 — The Pyramid's Motive and Method"

@@ -2,17 +2,17 @@
 
 ## Atomic Sanskrit and the Second Shanti Project
 
-Many years ago, I had promised you the *Second Shanti* book. You described the project, memorably, as **"inverting the pyramid."** That remains the larger destination: a civilizational argument about polity, economics, knowledge, authority, and the Sanātan alternative to pyramid systems.
+Fifteen years ago, I told you that I was working on the *Second Shanti* project. You described it, memorably, as **"inverting the pyramid."** I did not argue with the phrase then. The distinction has since become central to the project: Sanātan does not invert the pyramid. It presents an entirely different architecture of order.
 
 The first volume has taken an unexpected form. It is called ***Atomic Sanskrit***.
 
-On the surface, it is a book about Sanskrit. At the deeper level, it is the first proof-case for the *Second Shanti* thesis.
+The book begins with Sanskrit because Sanskrit and the Vedas preserve a living example of the architecture that the *Second Shanti* series will follow into polity, economy, and the other systems through which people organize life together.
 
 The book argues that Sanskrit was not "codified" by Pāṇini and did not descend from an imagined Proto-Indo-European ancestor. Sanskrit is an engineered linguistic architecture. The Vedas preserved it. Many grammarians decoded it. Pāṇini's decoding was the finest. Nineteenth-century European philology misnamed it, displaced it, and taught India to read its own language through categories built elsewhere.
 
 That correction matters beyond Sanskrit.
 
-Sanskrit shows a knowledge system that does not operate as a pyramid. It does not depend on one apex authority declaring truth downward. It preserves and transmits through distributed calibration: sound, memory, meter, grammar, discipline, lineage, and repeated verification. The Vedic recitation lineages, the *varṇamālā*, the *Dhātupāṭha*, the *Aṣṭādhyāyī*, the *Prātiśākhya* and *Śikṣā* disciplines, and the guru-shishya paramparā together form a decentralized architecture of preservation and correction.
+Sanskrit preserves knowledge through distributed calibration rather than apex command. Its sounds, grammar, recitation, and analytical disciplines place the standard across society. No single ruler or institution owns it. The Vedic recitation lineages, the *varṇamālā*, the *Dhātupāṭha*, the *Aṣṭādhyāyī*, the *Prātiśākhya* and *Śikṣā* disciplines, and the guru-shishya paramparā together form a decentralized architecture of preservation and correction.
 
 That is the link to the larger *Second Shanti* project.
 
@@ -22,7 +22,7 @@ If a civilization could build language this way, then the political and economic
 
 Modern pyramid systems correct by authority. Sanātan corrects by architecture. In a pyramid, truth descends from the apex through credential, office, law, decree, institutional control, and narrative enforcement. In the Sanskrit case, correctness is distributed across the architecture itself. A sound must fit the mouth. A form must fit the grammar. A recitation must fit the meter. A lineage must match other lineages. A word must fit its derivation. The system detects drift without needing a single imperial authority to impose the standard.
 
-This is why *Atomic Sanskrit* is not a detour from *Second Shanti*. It is the foundation. It shows the anti-pyramid architecture at the level of language before the later volumes develop the same question at the level of polity, economy, and civilizational institutions.
+This is why *Atomic Sanskrit* is the first volume of *Second Shanti*. It establishes the alternative architecture at the level of language before the later volumes follow it into polity, economy, and civilizational institutions.
 
 The immediate public argument can be introduced through one clean doorway:
 
@@ -45,13 +45,10 @@ I would value your advice on how to introduce this publicly.
 Possible paths:
 
 - a short article first, most likely **"Pāṇini Did Not Codify Sanskrit. He Decoded It."**
-- a closed-door Gateway House conversation on Sanskrit, knowledge sovereignty, and anti-pyramid civilizational architecture
+- a closed-door Gateway House conversation on Sanskrit and the two architectures of order
 - a publisher submission framed as Volume 1 of *Second Shanti*
 - introductions to editors or publishers if you think the argument is ready for that route
 
 The book is not asking readers to begin with belief. It asks them to look at the architecture.
 
-That is why the project still belongs to the phrase you gave it many years ago:
-
-> **inverting the pyramid.**
-
+The completed first volume now states the distinction more precisely: Sanātan does not place a new apex at the top of the old structure. It creates order through a distributed calibrant that no apex can own.

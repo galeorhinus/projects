@@ -36,13 +36,11 @@ Three questions test that narrative.
 >
 > If Tamil drifted despite codification, why did Sanskrit remain invariant?
 
-**What, then, kept Sanskrit invariant?**
-
 **Answer: The Vedas.**
 
-Pāṇini's contribution to Sanskrit is extraordinary. These comparisons do not diminish it. They place his contribution inside the architecture that kept Sanskrit invariant before and after him.
+Pāṇini’s contribution to Sanskrit is extraordinary. These comparisons place that contribution inside the architecture that kept Sanskrit invariant before and after him. The rest of this book explains how the Vedas preserved that invariance. Chapter 5 identifies Pāṇini’s role, while Chapters 11 and 12 demonstrate what his documentation made explicit.
 
-The rest of this book explains how the Vedas kept Sanskrit invariant. They remain a distributed calibrant for Sanskrit's sounds and grammar. They also encode foundational architectures of ***संस्कृति (*saṃskṛti*)***, including the distinctions between ***सत् (*sat*)*** and ***असत् (*asat*)*** and the created order of ***ऋत (*ṛta*)***. This volume begins with the linguistic architecture because Sanskrit allows the calibrant relationship to be examined in full.
+They remain a distributed calibrant for Sanskrit's sounds and grammar. They also encode foundational architectures of ***संस्कृति (*saṃskṛti*)***, including the distinctions between ***सत् (*sat*)*** and ***असत् (*asat*)*** and the created order of ***ऋत (*ṛta*)***. This volume begins with the linguistic architecture because Sanskrit allows the calibrant relationship to be examined in full.
 
 ## 2.2 Why Formal Arabic Remained Stable and Tamil Changed
 

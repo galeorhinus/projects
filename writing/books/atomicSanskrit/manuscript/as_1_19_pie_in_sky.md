@@ -51,7 +51,7 @@ The pyramid's defense retreats to bookkeeping. It says: yes, the forms are hypot
 
 When a dictionary writes "from PIE \*ǵenh₁" at the deepest point in an etymological chain, its placement assigns ancestry. The asterisk performs the work of a footnote in advance: the main line says "from PIE" and teaches the reader to see a source, while the star quietly records that the supposed ancestor is reconstructed. Most readers absorb the ancestry. When that ancestry is challenged, the pyramid retreats into the notation and insists that no literal source was ever claimed. The claim shapes belief, while the disclaimer denies responsibility for the belief it shaped.
 
-**This is gaslighting with footnotes compressed into one character.**
+**This is gaslighting with footnotes compressed into one character. If the method of asat were written as a sūtra and atomized into its shortest possible form, it would be the asterisk.**
 
 Comparative reconstruction may infer an earlier form that appears in no surviving record. That model does not become an etymon merely because a dictionary places it at the head of a chain. The endpoint of going backward in time is the earliest real form the evidence can establish, while the reconstruction remains a modern hypothesis projected behind that evidence. *Janaka* exists. *Genus* exists. *Génos* exists. **\*ǵenh₁** is a proposal about their history. The pyramid must demonstrate that a corresponding source form existed and that the recorded words descended from it; typography cannot confer ancestry.
 

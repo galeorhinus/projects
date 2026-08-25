@@ -1,127 +1,84 @@
-# Article Skeleton — The Sonomer Beneath Indian Writing
+# Article Plan — Before the Letter: India's Discovery of the Sonomer
 
-## Core Thesis
+## Status
 
-Indian scripts are not merely "phonetic scripts." They are visible renderings of a much deeper Indian discovery: the measured sound-particle. This book calls that unit the **sonomer**. The script is impressive; the prior abstraction is greater.
+- Long-form source essay: `web/private/sonomer_longform.md`.
+- Newspaper version: `web/private/sonomer_newspaper.md`.
+- Both versions rewritten to match the current Chapters 8–9 architecture and the public-essay voice.
 
-## Possible Titles
+## Principal Argument
 
-- **Before the Letter: India's Discovery of the Sonomer**
-- **Why Indian Scripts Are Not Just Phonetic**
-- **The Sound-Particle Beneath Indian Writing**
-- **What the Word "Abugida" Hides**
-- **India Did Not Just Write Sound. It Engineered It.**
+The familiar recitation **क ख ग घ ङ** encodes an anatomical system before it encodes anything written. Sanskrit selects repeatable sounds, assigns them stable addresses through place and physical production, times them by *mātrā*, and bonds them around a vowel as an *akṣara*. Writing renders that already specified acoustic unit. Modern labels such as *alphabet* and *abugida* begin with the page and therefore pass over the prior engineering.
 
-## 1. Hook: The Script You Know, the Name You Don't
+The article should leave the reader with one sequence:
 
-Most Indians know Devanagari, Tamil, Kannada, Bengali, Telugu, Malayalam, Gujarati, Gurmukhi, or another Indian script. Add Thai, Khmer, Burmese, Lao, Tibetan, Sinhala, and the family becomes one of the largest writing-system families on earth: well over 1.5 billion users, approaching two billion depending on how second-language literacy and neighboring-script communities are counted.
+> **sonomer → akṣara → audiograph**
 
-Very few of those readers know that modern script typology classifies these scripts under the foreign term *abugida*. The word does not come from India. It comes from the first four letters of the Ge'ez script of Ethiopia.
+## Format Roles
 
-That is already strange. A family of scripts used by close to two billion people is named by somebody else's alphabet.
+### Long-form
 
-It is stranger still because the Indian subcontinent remains the world's largest living zone of this exact sound-to-script architecture. Korean Hangul is the great modern independent exception: it also maps the speaking body into visible form. But across India and the wider Indic script-world, this principle is not a single national script invented in the fifteenth century. It is a whole civilizational family of scripts, still alive, still teaching children to see sound through the body that produces it.
+The long-form essay carries the complete causal chain:
 
-## 2. The Familiar Difference: English Phonics vs Indian Writing
+1. Work through **क ख ग घ ङ** in the body.
+2. Explain anatomical addresses and deliberate sound selection.
+3. Distinguish reusable sonomers from Sanskrit sounds that remain conditional or Vedic-bounded, without teaching the full sonance taxonomy.
+4. Add duration through *mātrā*.
+5. Show how sonomers bond around a vowel as an *akṣara*.
+6. Introduce audiography only after the sound architecture is established.
+7. Explain what the page-level label *abugida* leaves out.
+8. End with the larger atomic and fractal architecture of the book.
 
-English children learn phonics because English spelling hides pronunciation. The same letter can make different sounds. The same sound can be written in different ways. A child reading English is often excavating older layers: Latin, French, Germanic, scribal habit, imperial standardization.
+### Newspaper
 
-Indian scripts do something different. The written sign usually tells the reader how to sound it. The script is not perfect in every modern language, but the design principle is clear: visible form tracks articulated sound.
+The newspaper version retains one worked consonant group, one English comparison, the *mātrā* layer, the *akṣara* examples, and the *abugida* correction. It omits the off-grid qualification, the pre-Pāṇinian documentation paragraph, and most of the larger technical argument.
 
-## 3. Indian Scripts Are Not Alphabetic
+## Terminology Boundaries
 
-Roman writing is alphabetic: letters line up one by one. Indian scripts are built around the *akṣara*: a stable sound-unit with a vowel center.
+- **Sonomer** is the principal coined term. In this essay it means an independently reusable, measured sound-particle with a stable place in Sanskrit's architecture.
+- Sanskrit's broader consonantal repertoire also contains condition-generated and lineage-bounded sonances. The long-form essay states this boundary without introducing another coined category.
+- **Audiograph** is the only second coined term. It names the visible rendering, not the sound-unit itself.
+- ***Akṣara*** is the stable vowel-centered sound-bond. It precedes its written glyph conceptually.
+- Do not equate every pronounceable sound, contextual variation, or lineage-bounded sound with a sonomer.
+- Do not call the *varṇamālā* merely an alphabet, a phoneme inventory, or a script.
 
-Consonants are not floating marks. They are organized around vowel-bearing units. Vowel signs modify the consonant base. Clusters are handled systematically.
+## Evidence Sequence
 
-This is why "phonetic" is too weak. Indian scripts do not merely represent sound. They render structured sound.
+### 1. The contact grid
 
-## 4. The Real Genius Comes Before Writing
+The five groups cross five contact places with voice, breath, and nasal release. Chapter 9 §9.4 contains the authoritative worked explanation. Endnote anchors:
 
-The deeper achievement is not Devanagari or Brahmi as visible script. The deeper achievement is the *varṇamālā*: the ordered grid of sounds.
+- `place-of-articulation-sanskrit-terms`
+- `varnamala-grid-geometry`
+- `formants-source-filter-theory`
 
-Every Indian child who learns:
+### 2. Reusable contrast
 
-> ka kha ga gha nga  
-> ca cha ja jha nya  
-> ta tha da dha na  
-> ta tha da dha na  
-> pa pha ba bha ma
+The *pin/spin* comparison shows that a speaker may produce two acoustic forms while a language keeps them under one consonantal identity. Sanskrit gives **प** and **फ** independent addresses. Chapters 8 §8.2 and 9 §9.5 contain the authoritative comparison.
 
-is not just memorizing letters. The child is learning a map of the mouth.
+### 3. Duration
 
-Back of mouth to front of mouth.
+The consonant / short vowel / long vowel / *pluta* sequence is half / one / two / three *mātrās*. The body prose should keep the explanation concrete and avoid importing the full svara matrix. Source anchor: *Pāṇinīya Śikṣā* and the relevant *Prātiśākhya* material summarized in the manuscript endnotes. A public edition is available through the [Indira Gandhi National Centre for the Arts](https://ignca.gov.in/Asi_data/8226.pdf).
 
-Place by place.
+### 4. Pre-Pāṇinian sound architecture
 
-Effort by effort.
+The Vedas depend on exact distinctions of sound, timing, pitch, and junction. The *Prātiśākhya* and *Śikṣā* disciplines document their production and transmission. Pāṇini presupposes that sound inventory. Endnote anchor: `pre-panini-pratisakhya-classification`.
 
-Sound by sound.
+### 5. The term *abugida*
 
-## 5. Introduce the Sonomer
+Peter T. Daniels introduced *abjad* and *abugida* in “Fundamentals of Grammatology,” *Journal of the American Oriental Society* 110.4 (1990), pp. 727–731, DOI [10.2307/602899](https://doi.org/10.2307/602899). *Abugida* draws on the Ethiopic *a-bu-gi-da* order. The article accepts the term's surface description and prosecutes what happens when that description is treated as the complete category.
 
-A **sonomer** is a measured sound-particle. Sanskrit calls it *varṇa*. It is not merely a "letter." It is not merely a modern "phoneme."
+## Material Deliberately Removed
 
-A sonomer is classified by where it is made in the mouth, how it is made, and how long it lasts.
+- The unsourced estimate of 1.5–2 billion script users.
+- The opening list of more than a dozen scripts.
+- Hangul as a second argument. It belongs in the audiography and radiance discussions, not in this article's principal line.
+- The claim that every *varṇa* is automatically a reusable sonomer.
+- Repeated contrasts with English spelling.
+- Repeated declarations that Indian scripts are “not merely phonetic.”
+- The full IPA-provenance argument. Chapter 20's “The Pyramid Steals the Sonomer” owns that prosecution.
+- Long lists of speech-science questions and Sanskrit technical categories.
 
-The sonomer is spatial and temporal. It has a place in the mouth and a duration in sound.
+## Editorial Test
 
-Consonants carry a half-*mātrā*. Short vowels carry one *mātrā*. Long vowels carry two. Prolated vowels carry three. This is not casual speech notation. This is measured speech engineering.
-
-## 6. Modern Speech Science Already Uses This Logic
-
-A modern speech-language pathologist does not treat speech as random sound. She asks physical questions.
-
-Where is the sound produced?
-
-What is the tongue doing?
-
-Are the lips involved?
-
-Is the breath stopped or released?
-
-Is the sound voiced or unvoiced?
-
-Is the sound nasal?
-
-How long is the sound held?
-
-This is exactly the kind of information the Sanskrit sound-system organizes. The *varṇamālā* is not just an alphabet. It is a speech-production grid.
-
-The five rows of consonants are places of articulation: throat, palate, retroflex roof, teeth, lips. The five columns are manners of articulation: unvoiced, aspirated, voiced, voiced-aspirated, nasal. The vowels are timed by *mātrā*: short, long, and extended. Even the consonant has a duration: half a *mātrā*.
-
-So when an Indian child learns the *varṇamālā*, the child is not merely learning letters. The child is learning a map of the speaking body.
-
-That is the sonomer: a measured unit of speech production. Spatial and temporal. Mouth and time. Sound made precise before it is made visible.
-
-## 7. From Sonomer to Audiograph
-
-Once the sonomer exists, writing it becomes the next step. The visible sign is an **audiograph**: articulated sound made visible.
-
-The hierarchy is:
-
-> sonomer first, audiograph second.
-
-The script is not the foundation. The sound architecture is the foundation.
-
-This is why the Indian case is not just one script among many. Hangul proves that other civilizations can also engineer visible speech with astonishing precision. The Indic case is older, wider, and civilizationally distributed: Devanagari, Bengali, Tamil, Telugu, Kannada, Malayalam, Gujarati, Gurmukhi, Sinhala, Tibetan, Thai, Khmer, Burmese, Lao, and others all descend from or participate in the same broad audiographic logic.
-
-## 8. What "Abugida" Hides
-
-The word *abugida* describes a surface feature: consonant signs with inherent vowels modified by marks. That is not false. It is incomplete.
-
-It names how the script behaves on the page. It does not name what the script encodes.
-
-Indian scripts are better described as **audiographic**: they render articulated sound as visible architecture. But even audiography is downstream. The deeper Indian invention is the sonomer.
-
-## 9. Book Teaser Close
-
-My forthcoming book *Atomic Sanskrit* argues that this sound architecture is not an isolated feature. It is the first layer of a larger engineered system: sonomers become *akṣaras*, *dhātus* become semantic atoms, and Sanskrit builds words through a rule-governed architecture that is still visible today.
-
-Sanskrit does not lose the sonomer as it builds upward. The *varṇamālā* selects the measured sound-particles; the *dhātuḥ* binds them into a semantic atom; conjugation, affixation, case, and sentence-building continue to operate on those same particles. The system builds larger forms, but it does not blur the level underneath them. Sanskrit remains sonomeric from inventory to atom to molecule to sentence.
-
-India did not merely invent scripts that write sound well. India first analyzed sound into measured particles. The script came later. The sonomer came first.
-
-That is the story hidden under the word *abugida*.
-
-So the next time someone says Indian scripts are "phonetic," correct the word. Phonetic is too small. And the next time someone tries to sound learned by calling them *abugidas*, ask what the term hides. Indian scripts are sonomeric before they are anything else. They are built on measured sound-particles, organized by the speaking body, and made visible through the *akṣara*.
+The article succeeds if a reader can recite **क ख ग घ ङ**, describe what changes in the mouth, explain why the sound architecture precedes writing, and state what the label *abugida* omits. The reader does not need the complete taxonomy of Sanskrit sounds to understand that argument.

@@ -24,6 +24,8 @@ The concise companion will tell one complete story:
 
 The companion must provide enough evidence for a reader to understand why the argument follows. It must not read like an advertisement, a list of conclusions, or a compressed abstract of the full manuscript.
 
+**Calibrant architecture is the organizing spine of the concise book.** It cannot appear only in the preservation chapters and return at the conclusion. Each chapter should reveal another part of the same architecture: the invariant standard, the selected sounds, the stable atoms, the generative bonds, the distributed methods of correction, the two domains, Pāṇini's documentation, Sanskrit's outward radiance, and PIE's attempt to place a false ancestor above the real calibrant.
+
 ---
 
 ## 2. Product Definition
@@ -95,10 +97,10 @@ The hard ceiling is **20,000 words for the complete publication**, not merely it
 |---|---:|
 | About the *Second Shanti* series and preface | 700-800 |
 | Ten chapters | 15,200-15,800 |
-| Conclusion | 450-550 |
+| Conclusion | 600-750 |
 | Figure captions | 600-750 |
 | Endnotes and source notes | 1,200-1,700 |
-| **Total** | **18,150-19,600** |
+| **Total** | **18,300-19,800** |
 
 The working target should remain near **19,000 words** so that final corrections do not break the hard ceiling.
 
@@ -223,9 +225,32 @@ Show how Western philologists used Sanskrit and its European reflections to cons
 
 ### Conclusion: The Architecture That Remains
 
-**Target:** 500-700 words
+**Target:** 600-750 words
 
-Return to the *Second Shanti*. Sanskrit shows how an invariant standard, distributed across society, can preserve coherence while leaving new expression open. The companion should close by inviting the reader into the evidence developed fully in *Atomic Sanskrit*, not by summarizing every chapter again.
+Return to the *Second Shanti* through the calibrant architecture the book has demonstrated. The Vedas keep an invariant standard available across society. Sanskrit allows every generation to align with that standard while using the *laukika* domain for new expression. Correction remains distributed because no ruler, institution, or lineage owns the calibrant.
+
+The conclusion should state what this linguistic evidence makes possible beyond language. Sanskrit demonstrates that durable order does not require an apex to issue commands and punish departures. A calibrant order can place a stable model where everyone can reach it, allow many people and institutions to compare their actions against it, and preserve freedom wherever variation does not damage the shared architecture.
+
+This is the bridge into the wider *Second Shanti* series. The concise book should not attempt to reconstruct polity, economy, responsibility, and social order in its final pages. It should establish why Sanskrit gives the series a living demonstration from which that reconstruction can begin. The close should then invite the reader into the complete evidence developed in *Atomic Sanskrit*.
+
+### The Calibrant Spine Across Ten Chapters
+
+| Location | Contribution to the calibrant architecture |
+|---|---|
+| Front matter | Introduce the *Second Shanti* and ask how order can remain coherent without an apex. |
+| Chapter 1 | Define the calibrant order and contrast distributed alignment with pyramidal command. |
+| Chapter 2 | Show how the botanical category and codification myth conceal the calibrant. |
+| Chapter 3 | Present the Vedic sounds as a living calibrant for the mouth, including children who hear them without becoming Vedic specialists. |
+| Chapter 4 | Show that stable semantic atoms give the language reusable internal standards. |
+| Chapter 5 | Show how new expression expands through bonds while the atoms and grammatical relations remain recoverable. |
+| Chapter 6 | Explain how recitation, memory, grammar, and correction keep the calibrant available across society. |
+| Chapter 7 | Present the two domains as the architecture that protects invariance while permitting generativity. |
+| Chapter 8 | Place Pāṇini inside the calibrant architecture: he made its procedures explicit and added another path for teaching and correction. |
+| Chapter 9 | Show Sanskrit carrying complete or partial calibrating architectures outward through radiance and contact. |
+| Chapter 10 | Expose PIE as a projected false ancestor placed above the recorded calibrant. |
+| Conclusion | Extend the demonstrated linguistic architecture toward the wider problem of order within the second domain. |
+
+The word *calibrant* should recur where it clarifies the argument, but the prose cannot depend on repetition of the coined term. Each chapter must show the concrete relation: what remains invariant, who can compare against it, how correction occurs, what remains free to vary, and why no apex can own the standard.
 
 ---
 
@@ -302,7 +327,7 @@ These subjects remain available through short pointers to the full volume.
 The companion should have **the intellectual level of a serious magazine essay, the explanatory patience of an excellent public lecture, and the cumulative structure of a short book**.
 
 1. **Rewrite; do not mechanically compress.** Each chapter should be composed for this book's scale and reader.
-2. **Build one continuous argument.** The companion cannot distribute equal space to every full-book chapter.
+2. **Build one continuous argument around the calibrant architecture.** The companion cannot distribute equal space to every full-book chapter, and calibration cannot disappear between Chapters 1 and 6.
 3. **Use representative proof.** Every major claim needs at least one concrete example, passage, calculation, or figure.
 4. **Introduce few coined terms.** The essential set is likely: sonance, sonomer, atom, calibrant, radiance, *vaidika*, *laukika*, and pyramid.
 5. **Explain every necessary term on first use.** Devanagari and IAST should appear together at first use.
@@ -378,6 +403,7 @@ The first layout test should use the full book's trade dimensions so the existin
 
 - [ ] Identify the full-book sections that feed each companion chapter.
 - [ ] Mark passages to rewrite, evidence to retain, and material to omit.
+- [ ] Record the specific contribution each chapter makes to the calibrant architecture.
 - [ ] Identify every note that supports a retained claim.
 - [ ] Confirm the master file and data source for every selected figure.
 
@@ -407,6 +433,7 @@ The first layout test should use the full book's trade dimensions so the existin
 
 - [ ] Draft Chapters 9-10 and the conclusion.
 - [ ] Confirm that the positive radiance thesis precedes the demolition of PIE.
+- [ ] Close with Sanskrit as the demonstrated calibrant architecture from which the wider *Second Shanti* reconstruction can begin.
 
 ### Pass 8: Figure Adaptation
 
@@ -430,6 +457,7 @@ The first layout test should use the full book's trade dimensions so the existin
 - [ ] Replace abstract actions with concrete subjects and verbs.
 - [ ] Vary paragraph length and sentence rhythm.
 - [ ] Remove repeated explanations inherited from different full-book chapters.
+- [ ] Confirm that the calibrant spine remains visible through concrete examples without turning *calibrant* into a repeated slogan.
 - [ ] Check all established banned words and phrases.
 
 ### Pass 11: Word-Budget Reduction
@@ -487,6 +515,10 @@ The figure layout receives a separate visual review before final proofing.
 
 **Response:** Establish a strict term budget and explain each retained term through a concrete example.
 
+### The calibrant architecture appears only as a conclusion
+
+**Response:** Require every chapter to advance one concrete part of the calibrant relation: invariant standard, distributed access, correction, permitted variation, or resistance to capture.
+
 ### The title makes the book sound derivative or playful
 
 **Response:** Use a title that can stand independently while the subtitle and cover identify its relation to *Atomic Sanskrit*.
@@ -502,6 +534,7 @@ The figure layout receives a separate visual review before final proofing.
 - [ ] Should the fourth Abrahamic religion appear only as one compact example of the pyramid?
 - [ ] Should the two-*asura* analysis appear briefly in Chapter 1, or remain entirely in the full book?
 - [ ] Should the book contain brief personal passages, or remain entirely architectural?
+- [ ] Does the calibrant architecture provide the explicit spine from the opening question through the *Second Shanti* conclusion?
 
 ---
 

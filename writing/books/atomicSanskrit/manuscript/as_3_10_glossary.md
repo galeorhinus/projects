@@ -200,10 +200,6 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 **Standard.** Vedic domain / worldly-learned domain. Documented in Patañjali's *Mahābhāṣya*. Concurrent civilizational domains, not stages on a timeline.
 
-### **curated transmission** / **percipient selection**
-
-**Book terms.** The *laukika* corpus is a **curated transmission**: its language stays calibrated Sanskrit while its content is actively tended — **selected**, **accretive** (grown by new composition), and **lossy**. **Percipient selection** is that tending: a discerning community's curation of what the corpus preserves, keeping what serves *lokakṣema* and releasing the rest. Loss has two agents — **percipient release** (dharmic; the community lets go) and **asuric destruction** (deliberate attack or its consequence, developed in Chapter 3). The contrast is the *vaidika*, whose content is invariant and un-erasable. Every change to the corpus has a hand behind it; the language beneath it stays calibrated.
-
 ### **Sanātan** (सनातन)
 
 **Standard.** The eternal / unchanging order; the civilizational continuum the book treats as the alternative architecture to the asuric pyramid. Used as a proper noun in the book — no English partner; *Sanātan* is the term.

@@ -80,7 +80,7 @@ The third pillar is progress, and its function is ascent. It is the strongest pi
 
 Western thought since the *"Enlightenment"* is anchored in a linear, evolutionary teleology. Civilization moves upward: from simple to complex, primitive to advanced, earlier and lesser to later and greater. The teleology needs no religious commitment and no shared politics. Secular and religious, left and right, colonial and post-colonial all participate in it. The only required faith is faith in linear time. Its metric is accumulation: institutions, technologies, scales of organization, counted and arranged as progress.
 
-The Indic civilization preserves another conception of time: the कालचक्र (*kālacakra*)—the wheel of time—which is a cyclical movement where civilizational clarity is not steadily accumulated, but rather recurrently recovered, lost, and recovered again. Because epochs of सत्त्व (*sattva*)—clarity, balance, illumination—inevitably give way to epochs of तमस् (*tamas*)—darkness, inertia, obscurity—the *kālacakra* does not deny change; it simply denies that change is always ascent. It judges an age by the civility and balance a society sustains rather than by the artifacts it accumulates. The progressive metric therefore fails.
+The Indic civilization preserves another conception of time: the कालचक्र (*kālacakra*)—the wheel of time—which represents a sinusoidal movement where civilizational clarity is not steadily accumulated, but rather recurrently recovered, lost, and recovered again. Because epochs of सत्त्व (*sattva*)—clarity, balance, illumination—inevitably give way to epochs of तमस् (*tamas*)—darkness, inertia, obscurity—the *kālacakra* does not deny change; it simply denies that change is always ascent. It judges an age by the civility and balance a society sustains rather than by the artifacts it accumulates. The progressive metric therefore fails.
 
 The two frameworks are incompatible accounts of civilizational time, not minor variants of one shape.
 
@@ -118,7 +118,7 @@ The containment protects more than a metaphor. It protects a theory of authority
 
 Calibration is more dangerous to the pyramid than drift or codification. Drift can be managed; codification can be owned; calibration makes the apex unnecessary.
 
-Chapter 0 established three concurrent domains: the *vaidika* domain preserves invariant content, the *laukika* domain supports curated transmission and new composition, and the *prākṛtika* domain changes as communities speak it from one generation to the next. The pyramid turns these differences of purpose into a chronological ladder.
+Chapter 0 established three concurrent domains: the *vaidika* domain preserves invariant content, the *laukika* domain keeps the language invariant while permitting new composition, and the *prākṛtika* domain changes as communities speak it from one generation to the next. The pyramid turns these differences of purpose into a chronological ladder.
 
 It demotes the *vaidika* calibrant to a primitive and archaic beginning. It then presents the *laukika* domain as the later product of the codification myth and credits its order to Pāṇini the "codifier." Finally, it treats the *prākṛtika* domain as the linguistic decay that followed Sanskrit's supposed peak. The ascent praises Pāṇini so that no one asks whether he inherited an architecture that already existed. The descent places Sanskrit's generative power safely in the past and gives outsiders the authority to manage the living civilization.
 
@@ -225,7 +225,7 @@ The evidence from **अदब्ध (*a-dabdha*)** goes even further. The Ṛgve
 
 If the certified intellectuals on the pyramid's attestation committee had their way, they would refuse to recognize all forty-eight uses of ***a-dabdha*** because **दब्ध (*dabdha*)** does not appear anywhere in the Ṛgveda. The absurdity exposes the trick. Sanskrit's generative architecture does not require a positive form to be recorded independently before it generates the privative.
 
-Sarcasm aside, the Vedas use this exact generative engine. They have themselves remained **अदब्धाः (*adabdhāḥ*)** — inviolable — ever since their mantras were first seen. Chapter 16 explains this relationship between the Vedas and Sanskrit's generative engine; Appendix Part 8 documents the designed variations across the *vaidika* and *laukika* domains.
+The Vedas use this exact generative engine. They have themselves remained **अदब्धाः (*adabdhāḥ*)** — inviolable — ever since their mantras were first seen. Chapter 16 explains this relationship between the Vedas and Sanskrit's generative engine; Appendix Part 8 documents the designed variations across the *vaidika* and *laukika* domains.
 
 ### What the Pyramid Gains from Conflation
 

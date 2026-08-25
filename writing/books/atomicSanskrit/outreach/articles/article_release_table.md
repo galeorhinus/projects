@@ -10,7 +10,7 @@ The newest public frame is now central: Sanskrit is not merely a natural languag
 |---:|---|---|---|---|---|---|
 | 1 | **Pāṇini Is a Hero — But Not Because He Codified Sanskrit** | Publisher-attention piece; cleanest public doorway into the book | Swarajya | Indian Express Opinion, Hindustan Times Opinion, Firstpost | Before publisher submission | Skeleton |
 | 2 | **The Third Category of Language** | Introduces *prakṛti* / codification / *saṃskṛti* for the public | Swarajya | Indian Express Opinion, Hindustan Times Opinion, Firstpost | Before or just after publisher submission | Skeleton |
-| 3 | **Before the Letter: India's Discovery of the Sonomer** | Script / sound entry point; introduces sonomer and audiograph | Hindustan Times Opinion or Indian Express Opinion | Swarajya, Firstpost, Standpoint Bharat | Pre-launch, after publisher interest | Drafts exist |
+| 3 | **Before the Letter: India's Discovery of the Sonomer** | Script / sound entry point; introduces sonomer and audiograph | Hindustan Times Opinion or Indian Express Opinion | Swarajya, Firstpost, Standpoint Bharat | Pre-launch, after publisher interest | Drafts revised to current architecture |
 | 4 | **From Mouth to Language: Sanskrit's Repeating Architecture** | Fractal-architecture essay; explains the scale-chain | Swarajya longform | Standpoint Bharat, Pragyata, Indic platforms | Pre-launch or launch window | Skeleton |
 | 5 | **The Indian Accent That Breaks the Aryan Migration Story** | Speech / retroflex entry point; public hook | Firstpost | Organiser, Swarajya, Standpoint Bharat | Pre-launch, after sonomer or as second public piece | Drafts exist |
 | 6 | **Don't Call Them Roots: Why Dhātus Are Atoms** | Grammar entry point; explains the book's atomic metaphor | Swarajya longform | Organiser, Standpoint Bharat, Indic platforms | Pre-launch or launch window | Skeleton |
@@ -30,6 +30,7 @@ The newest public frame is now central: Sanskrit is not merely a natural languag
 | 20 | **PIE Is Sanskrit's Reflection** (*The Ṛṣis Went West*) | Affirmative capstone to #12 (*PIE Is Not Evidence*) + the migration-trap essays: the positive mechanism — calibrant / calibrand / vivimorphosis / Wave 1–2 / *Pratibimba* | Swarajya longform | Pragyata, Standpoint Bharat, Firstpost, Indic platforms | Post-launch, after #12 lands the negative case | Skeleton (newspaper + longform) — `pie_reflection_skeleton.md` |
 | 21 | **Movement Is Not Authorship** (newspaper: *Sanskrit Was Not Cargo*) | Migration-trap critique — movement / cargo ≠ authorship; member 1 of the PIE arc | Swarajya / Firstpost | Organiser, Standpoint Bharat, Indic platforms | Negative case in the PIE arc — before #20 | Drafts exist: magazine ~2,300w + newspaper ~890w (`migration_trap_*`) |
 | 22 | **Oṃ and the Garland of Sonomers** | Oṃ / *varṇamālā* sound-anatomy piece; sonomer cluster (with #3) | Swarajya | Standpoint Bharat, Pragyata, Indic platforms | Pre-launch / launch window | Drafts exist: notes + web ~1,200w (`om_garland_*`) |
+| 23 | **Why Did Tamil Change While Sanskrit Remained Invariant?** | Tests the codification myth through two Indian languages: the *Tolkāppiyam* documented Tamil comprehensively, while the Vedas gave Sanskrit a living, distributed calibrant | Indian Express Opinion or Swarajya | The Hindu, Firstpost, Standpoint Bharat | Pre-launch or launch window, after the Pāṇini or calibration essay | Needs skeleton; Chapter 2 provides the core argument |
 
 ## Title Variants
 
@@ -50,9 +51,9 @@ These live under `web/` as standalone web-format drafts — distinct files from 
 | Web file | Realizes (row) | Stage | ~Words |
 |---|---|---|---|
 | `web/public/engineered_not_codified_landing.md` | #11 — Sanskrit Was Engineered, Not Codified | **public** | ~390w (landing snippet) |
-| `web/private/sonomer_newspaper.md` | #3 — sonomer (newspaper; "Before the Letter") | private | ~1,120w |
-| `web/private/sonomer_longform.md` | #3 — sonomer (longform; "The Sonomer Beneath Indian Writing") | private | ~1,720w |
-| `web/private/om_garland_newspaper.md` | #22 — Oṃ and the Garland of Sonomers | private | ~1,200w |
+| `web/private/sonomer_newspaper.md` | #3 — sonomer (newspaper; "Before the Letter") | private | ~950w |
+| `web/private/sonomer_longform.md` | #3 — sonomer (longform; "Before the Letter") | private | ~1,550w |
+| `web/private/om_garland_newspaper.md` | #22 — Oṃ and the Garland of Sonomers | private | ~1,160w |
 | `web/private/retroflex_newspaper.md` | #5 — The Indian Accent (newspaper) | private | ~1,230w |
 | `web/private/retroflex_longform.md` | #5 — The Indian Accent (longform) | private | ~1,680w |
 

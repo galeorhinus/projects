@@ -1921,20 +1921,6 @@ Text and morphological forms checked against the local Digital Corpus of Sanskri
 
 ---
 
-### `sattvika-order-generative-coinage`
-
-**Short:** The book calls the Vedic order the **सात्त्विक order** (*sāttvika*) — derived from सत् through Sanskrit's own generative machinery (सत् → सत्त्व → सात्त्विक), not a word the Vedas themselves use. The book states this openly: it is the book's own naming, licensed by the generativity the book documents throughout, not a claim about the Veda's own vocabulary.
-
-**Deployments:** Chapter 0 §0.7 — the naming moment ("The book adds two descriptors... because it embodies सत्, the सात्त्विक order").
-
-The derivation is plain Sanskrit morphology, not invention: सत् (*sat*, being/truth/alignment) takes the abstract-noun suffix **-त्व** (*-tva*) to give **सत्त्व** (*sattva*, "sat-ness" — the quality of being सत्-aligned); सत्त्व then takes *vṛddhi* of the initial vowel plus the adjectival suffix **-इक** (*-ika*) to give **सात्त्विक** (*sāttvika*, "pertaining to सत्त्व, of सत्'s own nature"). Every step is a standard, productive Sanskrit derivation — the same kind of word-formation the book documents throughout as evidence of Sanskrit's generative architecture. Naming the Vedic order सात्त्विक is therefore not reading a word into the Veda; it is *using* the language's own generative capacity to name what the Veda demonstrably enacts.
-
-The term is not free-floating: Chapter 3 §3.1 already runs सत्त्व and तमस् as the *kālacakra*'s own paired vocabulary — "epochs of सत्त्व (clarity, balance, illumination) inevitably give way to epochs of तमस् (darkness, inertia, obscurity)." सात्त्विक order for the सत्-side is the missing other half of an opposition the book already half-states; तमस् (already anchored elsewhere as *asuratva*'s substrate) is its natural asuric counterpart.
-
-**On the risk of the move, and why it is not the pyramid's move.** Installing a word "behind" a text is exactly the operation this book prosecutes elsewhere — the pyramid plants a reconstructed form (e.g., *h₂ḿ̥suros*) behind *asura* and then claims the reconstruction as the word's true source, erasing the two Sanskrit-internal derivations the language already supplies (Chapter 3 §3.6). The distinction that keeps सात्त्विक from being the same move: the pyramid installs an *unattested reconstruction* and calls it the text's *source*; this book coins a *transparent generative derivative* and calls it openly *the book's own naming*, never the Veda's own word. The Veda's own word for this order remains ऋत, stated plainly in the same passage before सात्त्विक is introduced. The book owns its original coinages by name elsewhere (*PASS*, *heroic erasure*, *architecture of containment*) rather than hedging them — सात्त्विक order takes the same confident, undisguised stance, with the one non-negotiable condition that the Veda's-own-word/book's-own-descriptor line stays visible on the page.
-
----
-
 ### `rv-10-72-2-sat-born-from-asat`
 
 **Short:** Ṛgveda 10.72.2 states सत्'s origin directly, as verse: in the earlier age of the *devāḥ*, सत् was born from असत् — Brahmaṇaspati forges the generations together like a smith at the bellows, and सत् rises from that forging.
