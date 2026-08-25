@@ -349,14 +349,23 @@ http://:18080 {
 	# /var/www/as/private/dashboard/ location the global `root *
 	# /var/www` above already points at. Must come before the generic
 	# `handle /as/private/dashboard/*` proxy below -- same first-match-
-	# wins ordering as the /api/* block above -- or these four filenames
-	# would be swallowed by the reverse_proxy and 404 from the Python
-	# service instead of being served as files.
+	# wins ordering as the /api/* block above -- or these filenames would
+	# be swallowed by the reverse_proxy and 404 from the Python service
+	# instead of being served as files.
+	@dashboard_manifest path /as/private/dashboard/manifest.json
 	@dashboard_static_assets path /as/private/dashboard/manifest.json \
 		/as/private/dashboard/icon-192.png \
 		/as/private/dashboard/icon-512.png \
+		/as/private/dashboard/icon-512-maskable.png \
 		/as/private/dashboard/apple-touch-icon.png
 	handle @dashboard_static_assets {
+		# Caddy's file_server maps .json to the generic application/json
+		# via Go's built-in MIME table, which has no entry for the
+		# manifest-specific type. Some Chrome/Android combinations are
+		# stricter than desktop about the exact Content-Type on a web app
+		# manifest, so state it explicitly rather than rely on a
+		# generic type an installability check might reject.
+		header @dashboard_manifest Content-Type "application/manifest+json"
 		file_server
 	}
 

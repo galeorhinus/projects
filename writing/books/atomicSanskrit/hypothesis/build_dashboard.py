@@ -51,7 +51,10 @@ HYPOTHESIS_DIR = Path(__file__).parent
 # no caching benefit, since a data: URI is re-sent with the HTML every time
 # rather than cached as its own resource.
 DASHBOARD_ASSETS_SRC = HYPOTHESIS_DIR / "dashboard_assets"
-DASHBOARD_ASSET_FILES = ("manifest.json", "icon-192.png", "icon-512.png", "apple-touch-icon.png")
+DASHBOARD_ASSET_FILES = (
+    "manifest.json", "icon-192.png", "icon-512.png",
+    "icon-512-maskable.png", "apple-touch-icon.png",
+)
 DATA_PATH = HYPOTHESIS_DIR / "data" / "annotations.json"
 TAXONOMY_PATH = HYPOTHESIS_DIR / "taxonomy.json"
 TODO_QUEUE_PATH = HYPOTHESIS_DIR / "data" / "todo_queue.json"
