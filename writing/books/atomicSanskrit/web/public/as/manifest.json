@@ -1,8 +1,9 @@
 {
+  "id": "/as/book/",
   "name": "Atomic Sanskrit",
   "short_name": "Atomic Sanskrit",
-  "start_url": "/as/",
-  "scope": "/as/",
+  "start_url": "/as/book/",
+  "scope": "/as/book/",
   "display": "standalone",
   "background_color": "#f4f4f3",
   "theme_color": "#cf8a2e",
