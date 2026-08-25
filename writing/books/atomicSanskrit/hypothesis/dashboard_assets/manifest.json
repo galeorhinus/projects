@@ -1,0 +1,23 @@
+{
+  "name": "Reader Margins",
+  "short_name": "Reader Margins",
+  "start_url": "https://secondshanti.org/as/private/dashboard/",
+  "scope": "https://secondshanti.org/as/private/dashboard/",
+  "display": "standalone",
+  "background_color": "#eef0f2",
+  "theme_color": "#3d4f7a",
+  "icons": [
+    {
+      "src": "/as/private/dashboard/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/as/private/dashboard/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

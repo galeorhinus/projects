@@ -30,10 +30,28 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import shutil
 from datetime import datetime, timezone
 from pathlib import Path
 
 HYPOTHESIS_DIR = Path(__file__).parent
+
+# Static PWA assets (manifest + icons) for the "install as app" path. These
+# are identical for every viewer -- owner and every reader alike -- so they
+# ship as real files copied beside index.html at --install's destination,
+# rather than embedded in HTML_TEMPLATE. The favicon a few lines below is a
+# data: URI for a real reason (this page's HTML is served from two different
+# on-disk locations depending on viewer, and a data: URI needs no file at
+# either one) but that reasoning does not extend to the manifest: Caddy
+# serves /as/private/dashboard/manifest.json and the icon files as static
+# files from a matcher placed ahead of the dashboard's reverse_proxy block
+# (same file that install --install writes index.html into), so one copy
+# at that fixed path covers every viewer identically. Inlining them as data
+# URIs instead would have added roughly 70KB to every single page load with
+# no caching benefit, since a data: URI is re-sent with the HTML every time
+# rather than cached as its own resource.
+DASHBOARD_ASSETS_SRC = HYPOTHESIS_DIR / "dashboard_assets"
+DASHBOARD_ASSET_FILES = ("manifest.json", "icon-192.png", "icon-512.png", "apple-touch-icon.png")
 DATA_PATH = HYPOTHESIS_DIR / "data" / "annotations.json"
 TAXONOMY_PATH = HYPOTHESIS_DIR / "taxonomy.json"
 TODO_QUEUE_PATH = HYPOTHESIS_DIR / "data" / "todo_queue.json"
@@ -308,6 +326,12 @@ def main() -> int:
         args.install.parent.mkdir(parents=True, exist_ok=True)
         args.install.write_text(html, encoding="utf-8")
         print(f"Installed -> {args.install}")
+        for fname in DASHBOARD_ASSET_FILES:
+            src = DASHBOARD_ASSETS_SRC / fname
+            if src.exists():
+                shutil.copy2(src, args.install.parent / fname)
+            else:
+                print(f"  (skipped: {src} not found)")
 
     if args.readers is not None:
         build_reader_pages(rows, taxonomy, args.readers)
@@ -414,6 +438,9 @@ HTML_TEMPLATE = r"""<!doctype html>
      few pixels and the rays carry the visible area, so a red core still read
      as the gold sun. -->
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 96 96'><path d='M63.8,48.0 L55.9,34.4 L40.1,34.4 L32.3,48.0 L40.1,61.6 L55.9,61.6 Z' fill='%23BD1C2B'/><path d='M70.8,48.0 L88.0,48.0 M67.7,36.6 L78.0,30.7 M59.4,28.3 L68.0,13.4 M48.0,25.3 L48.0,13.4 M36.6,28.3 L28.0,13.4 M28.3,36.6 L18.0,30.7 M25.3,48.0 L8.0,48.0 M28.3,59.4 L18.0,65.3 M36.6,67.7 L28.0,82.6 M48.0,70.8 L48.0,82.6 M59.4,67.7 L68.0,82.6 M67.7,59.4 L78.0,65.3' fill='none' stroke='%23BD1C2B' stroke-width='7.8' stroke-linecap='round'/></svg>" type="image/svg+xml">
+<link rel="manifest" href="/as/private/dashboard/manifest.json">
+<link rel="apple-touch-icon" href="/as/private/dashboard/apple-touch-icon.png">
+<meta name="theme-color" content="#3d4f7a">
 <style>
 :root {
   --bg: #eef0f2;

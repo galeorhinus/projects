@@ -341,6 +341,25 @@ http://:18080 {
 		reverse_proxy 127.0.0.1:8092
 	}
 
+	# PWA manifest and install icons for the dashboard -- identical for
+	# owner and every reader, so one static copy at this fixed path covers
+	# all of them, unlike index.html itself (see dashboard_resolver.py).
+	# build_dashboard.py's --install writes these files beside index.html
+	# in the same directory, so file_server finds them at the ordinary
+	# /var/www/as/private/dashboard/ location the global `root *
+	# /var/www` above already points at. Must come before the generic
+	# `handle /as/private/dashboard/*` proxy below -- same first-match-
+	# wins ordering as the /api/* block above -- or these four filenames
+	# would be swallowed by the reverse_proxy and 404 from the Python
+	# service instead of being served as files.
+	@dashboard_static_assets path /as/private/dashboard/manifest.json \
+		/as/private/dashboard/icon-192.png \
+		/as/private/dashboard/icon-512.png \
+		/as/private/dashboard/apple-touch-icon.png
+	handle @dashboard_static_assets {
+		file_server
+	}
+
 	# Reader Margins viewing (GET), for owner and reader alike --
 	# dashboard_resolver.py, systemd unit dashboard-resolver.service,
 	# loopback :8091. Replaced a static-file/@dashboard_notowner-404
