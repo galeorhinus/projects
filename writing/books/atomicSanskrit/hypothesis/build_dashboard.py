@@ -441,7 +441,19 @@ HTML_TEMPLATE = r"""<!doctype html>
      few pixels and the rays carry the visible area, so a red core still read
      as the gold sun. -->
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 96 96'><path d='M63.8,48.0 L55.9,34.4 L40.1,34.4 L32.3,48.0 L40.1,61.6 L55.9,61.6 Z' fill='%23BD1C2B'/><path d='M70.8,48.0 L88.0,48.0 M67.7,36.6 L78.0,30.7 M59.4,28.3 L68.0,13.4 M48.0,25.3 L48.0,13.4 M36.6,28.3 L28.0,13.4 M28.3,36.6 L18.0,30.7 M25.3,48.0 L8.0,48.0 M28.3,59.4 L18.0,65.3 M36.6,67.7 L28.0,82.6 M48.0,70.8 L48.0,82.6 M59.4,67.7 L68.0,82.6 M67.7,59.4 L78.0,65.3' fill='none' stroke='%23BD1C2B' stroke-width='7.8' stroke-linecap='round'/></svg>" type="image/svg+xml">
-<link rel="manifest" href="/as/private/dashboard/manifest.json">
+<!-- crossorigin="use-credentials" is load-bearing, not boilerplate. Chrome
+     fetches a web app manifest ANONYMOUSLY by default -- no cookies, even
+     for a same-origin URL (the request carries Sec-Fetch-Mode: cors and no
+     Cookie header; confirmed in Caddy's access log). This path sits inside
+     the /as/private/* oauth2-proxy gate, so a credential-less fetch gets a
+     302 to the Google login page instead of the JSON. Chrome then has no
+     manifest at all: no display:standalone, so it offers "Add shortcut"
+     rather than "Install app", and no manifest icons, so the launcher falls
+     back to something other than our mark. This attribute makes Chrome send
+     the session cookie. The book's own manifest needs no such attribute
+     because /as/manifest.json sits OUTSIDE the gated paths -- which is
+     exactly why the book installed correctly while this page did not. -->
+<link rel="manifest" href="/as/private/dashboard/manifest.json" crossorigin="use-credentials">
 <link rel="apple-touch-icon" href="/as/private/dashboard/apple-touch-icon.png">
 <meta name="theme-color" content="#3d4f7a">
 <style>

@@ -126,6 +126,45 @@ secondshanti.org {
 		}
 	}
 
+	# The dashboard's PWA manifest and its install icons — deliberately
+	# served OUTSIDE the /as/private/* OAuth gate immediately below.
+	#
+	# Chrome fetches a web app manifest anonymously: no cookies, even for a
+	# same-origin URL. Caddy's access log shows the real Pixel requests
+	# arriving with Sec-Fetch-Mode: cors and no Cookie header, so the gate
+	# answered 302-to-Google-login instead of JSON. Chrome therefore had no
+	# manifest at all — no display:standalone (so it offered "Add shortcut"
+	# rather than "Install app") and no icons (so the launcher fell back off
+	# our mark). The book pages never hit this because /as/manifest.json
+	# sits outside the gated paths; only the dashboard's copy is inside one.
+	#
+	# crossorigin="use-credentials" on the <link> makes Chrome send the
+	# cookie for the manifest itself, and that attribute is set in
+	# build_dashboard.py — but Chrome's credential behaviour when fetching
+	# the icons NAMED BY the manifest is less well specified, so relying on
+	# it alone would leave the same failure one layer down. Serving these
+	# few files publicly removes the dependency entirely.
+	#
+	# Nothing here is private: an app name, two theme colours, and the red
+	# sun mark. No annotation text, no reader identity, no roster data —
+	# all of that lives in index.html, which stays gated and reverse-proxied
+	# to dashboard_resolver.py exactly as before. The only thing a stranger
+	# learns is that a "Reader Margins" app exists at a URL they already had
+	# to know to ask for.
+	@dashboard_pwa_assets path /as/private/dashboard/manifest.json \
+		/as/private/dashboard/icon-192.png \
+		/as/private/dashboard/icon-512.png \
+		/as/private/dashboard/icon-512-maskable.png \
+		/as/private/dashboard/apple-touch-icon.png
+	@dashboard_pwa_manifest path /as/private/dashboard/manifest.json
+	handle @dashboard_pwa_assets {
+		# Caddy's file_server maps .json to application/json via Go's MIME
+		# table, which has no manifest-specific entry. State the exact type
+		# the spec calls for rather than rely on a generic one.
+		header @dashboard_pwa_manifest Content-Type "application/manifest+json"
+		file_server
+	}
+
 	# /as/private/* — gated essay shelf (advance-reader tier added in
 	# a1058c1). Same Google OAuth gate as /as/book/* (2026-08-06) — same
 	# reviewer whitelist, and a login on one path covers the other via the
@@ -341,33 +380,12 @@ http://:18080 {
 		reverse_proxy 127.0.0.1:8092
 	}
 
-	# PWA manifest and install icons for the dashboard -- identical for
-	# owner and every reader, so one static copy at this fixed path covers
-	# all of them, unlike index.html itself (see dashboard_resolver.py).
-	# build_dashboard.py's --install writes these files beside index.html
-	# in the same directory, so file_server finds them at the ordinary
-	# /var/www/as/private/dashboard/ location the global `root *
-	# /var/www` above already points at. Must come before the generic
-	# `handle /as/private/dashboard/*` proxy below -- same first-match-
-	# wins ordering as the /api/* block above -- or these filenames would
-	# be swallowed by the reverse_proxy and 404 from the Python service
-	# instead of being served as files.
-	@dashboard_manifest path /as/private/dashboard/manifest.json
-	@dashboard_static_assets path /as/private/dashboard/manifest.json \
-		/as/private/dashboard/icon-192.png \
-		/as/private/dashboard/icon-512.png \
-		/as/private/dashboard/icon-512-maskable.png \
-		/as/private/dashboard/apple-touch-icon.png
-	handle @dashboard_static_assets {
-		# Caddy's file_server maps .json to the generic application/json
-		# via Go's built-in MIME table, which has no entry for the
-		# manifest-specific type. Some Chrome/Android combinations are
-		# stricter than desktop about the exact Content-Type on a web app
-		# manifest, so state it explicitly rather than rely on a
-		# generic type an installability check might reject.
-		header @dashboard_manifest Content-Type "application/manifest+json"
-		file_server
-	}
+	# NOTE: the dashboard's PWA manifest and install icons are NOT handled
+	# here. They are served publicly from the outer secondshanti.org block,
+	# ahead of the /as/private/* OAuth gate, because Chrome fetches a
+	# manifest without cookies and the gate would 302 it to a login page.
+	# See the @dashboard_pwa_assets block up there for the full reasoning.
+	# Requests for those five filenames never reach this far.
 
 	# Reader Margins viewing (GET), for owner and reader alike --
 	# dashboard_resolver.py, systemd unit dashboard-resolver.service,
