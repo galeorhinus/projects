@@ -8,7 +8,7 @@
 > *māyābhir indra māyinaṃ tvaṃ śuṣṇam avātiraḥ |*\
 > *viduṣ ṭe tasya medhirās teṣāṃ śravāṃsy ut tira ||*
 >
-> With *māyās*, O Indra, you struck down the *māyin* Śuṣṇa. The wise know this deed of yours; raise their renown.
+> With मायाः (*māyās*), O Indra, you struck down the मायिन् (*māyin*) Śuṣṇa. The wise know this deed of yours; raise their renown.
 >
 > `\hfill`{=latex}*— Ṛgveda 1.11.7*[NOTE: rigveda-1-11-7-maya-mayin]
 
@@ -66,7 +66,7 @@ Formal Arabic and Latin therefore preserved selected forms through institutions 
 
 ### Documentation Within Society
 
-Sanskrit and Tamil preserved grammatical knowledge through a different architecture of order. Teachers and commentators explained the ***Aṣṭādhyāyī*** and the ***Tolkāppiyam***. Manuscript custodians copied them, while temples, *maṭhas*, families, and other places of learning kept their knowledge in circulation. No continuing central institution owned either language or issued every acceptable sentence. The documents gained authority because people studied, taught, tested, and preserved them, not because an apex licensed their use.[NOTE: tamil-sanskrit-distributed-grammar]
+Sanskrit and Tamil preserved grammatical knowledge through a different architecture of order. Teachers and commentators explained the ***Aṣṭādhyāyī*** and the ***Tolkāppiyam***. Manuscript custodians copied them, while temples, मठाः (*maṭhas*), families, and other places of learning kept their knowledge in circulation. No continuing central institution owned either language or issued every acceptable sentence. The documents gained authority because people studied, taught, tested, and preserved them, not because an apex licensed their use.[NOTE: tamil-sanskrit-distributed-grammar]
 
 This relationship binds Sanskrit and Tamil to the Indian subcontinent. Both traditions placed grammatical knowledge within society instead of placing an enforcing authority above it. Their languages did not need to share the same design or the same later history for that architecture of order to remain recognizable.
 
@@ -74,11 +74,11 @@ This relationship binds Sanskrit and Tamil to the Indian subcontinent. Both trad
 
 The *Tolkāppiyam* preserved a detailed account of Tamil, but Tamil continued changing. Linguists distinguish Old Tamil, Middle Tamil, and Modern Tamil because pronunciation, grammar, and vocabulary moved across generations. A present-day Tamil speaker may recognize words and phrases in a Sangam poem but still need commentary or a modern Tamil explanation, much as a Marathi speaker unfamiliar with **ज्ञानेश्वरी (*Jñāneśvarī*)** may recognize its Marathi while needing help to understand the passage.[NOTE: tolkappiyam-grammar-and-tamil-change]
 
-Later Tamil readers faced two barriers. Tamil itself had changed, and many Sangam works had passed out of wide circulation. Hindu *maṭhas*, temple institutions, and private custodians preserved the palm-leaf manuscripts. During the nineteenth century, Tamil scholars recovered those manuscripts and published the works for a wider Tamil readership. The ***Kalittokai*** returned to print in 1887, the ***Pattuppāṭṭu*** in 1889, and more Sangam works followed.[NOTE: sangam-corpus-nineteenth-century-recovery]
+Later Tamil readers faced two barriers. Tamil itself had changed, and many Sangam works had passed out of wide circulation. Hindu मठाः (*maṭhas*), temple institutions, and private custodians preserved the palm-leaf manuscripts. During the nineteenth century, Tamil scholars recovered those manuscripts and published the works for a wider Tamil readership. The ***Kalittokai*** returned to print in 1887, the ***Pattuppāṭṭu*** in 1889, and more Sangam works followed.[NOTE: sangam-corpus-nineteenth-century-recovery]
 
 Tamil demonstrates what documentation can and cannot do. The *Tolkāppiyam* preserved grammatical knowledge and gave later scholars access to earlier Tamil. It did not stop the language spoken by successive generations from changing.
 
-Tamil's later change answers the question about drift. The architecture through which its grammatical knowledge survived answers a different question about order. Tamil and Sanskrit both preserve knowledge through distributed custodianship rather than an enforcing apex. Sanskrit joins that subcontinental architecture to a distinctive two-domain design: the Vedas remain the invariant calibrant, while the *laukika* domain remains open to new expression. The chapters that follow examine that design and the purpose it serves.
+Tamil's later change answers the question about drift. The architecture through which its grammatical knowledge survived answers a different question about order. Tamil and Sanskrit both preserve knowledge through distributed custodianship rather than an enforcing apex. Sanskrit joins that subcontinental architecture to a distinctive two-domain design: the Vedas remain the invariant calibrant, while the लौकिक (*laukika*) domain remains open to new expression. The chapters that follow examine that design and the purpose it serves.
 
 ## 2.3 Four Language Categories
 
@@ -112,7 +112,7 @@ Sanskrit did.
 
 The ***वैदिक (*vaidika*)*** domain protects an invariant corpus and preserves Sanskrit's architecture within it. The ***लौकिक (*laukika*)*** domain allows speakers to use the same architecture for new words, poems, explanations, calculations, and arguments. The first remains available for calibration. The second keeps the language useful without rewriting the first.
 
-Purpose sustains that division. Esperanto sought equal communication across nations. Sanskrit carries *saṃskṛti* through language. Its caretakers preserved it because they were also preserving a civilizational architecture intended to serve the well-being of life. Rules form one layer of that purpose; they cannot replace it.
+Purpose sustains that division. Esperanto sought equal communication across nations. Sanskrit carries संस्कृति (*saṃskṛti*) through language. Its caretakers preserved it because they were also preserving a civilizational architecture intended to serve the well-being of life. Rules form one layer of that purpose; they cannot replace it.
 
 **That purpose has inspired millions of people across thousands of years.**
 
@@ -124,17 +124,17 @@ A stable grammar cannot correct anyone merely by existing. The correct form must
 
 The Vedas provide that reference. Their exact recitation preserves Sanskrit across a large and varied corpus. A student hears its sound system in use, including duration, pitch, and the movement from one sound to the next. The same corpus preserves completed words and verbs, case relations, compounds, and sentence structures inside language that cannot be rewritten to match current usage. The surrounding disciplines explain what the recitation preserves and train people to reproduce it.
 
-The Vedas are therefore more than old compositions in Sanskrit. They preserve enough of the language in use to guide later speakers. More importantly, they preserve its sounds in use. Their fixed content gives those speakers a stable reference, while the *laukika* domain lets them create expressions for their own world.
+The Vedas are therefore more than old compositions in Sanskrit. They preserve enough of the language in use to guide later speakers. More importantly, they preserve its sounds in use. Their fixed content gives those speakers a stable reference, while the लौकिक (*laukika*) domain lets them create expressions for their own world.
 
 Chapter 6 goes further. It describes how Sanskrit's engineered ecosystem protects the language against its two greatest enemies: gradual entropy and deliberate asuric attack.
 
 Chapters 13–15 examine how this reference survived. Chapter 13 distinguishes a guarded form from an active calibrant. Chapter 14 explains how the preservation layers check one another. Chapter 15 compares recitation across geographically separated Vedic lineages and demonstrates distributed correction without a central office.
 
-Chapter 16 then explains how the two domains divide their responsibilities. The *vaidika* domain preserves the reference. The *laukika* domain permits new composition through the same architecture. One protects invariance; the other provides generative reach. Together they demonstrate calibrant order at linguistic scale.
+Chapter 16 then explains how the two domains divide their responsibilities. The वैदिक (*vaidika*) domain preserves the reference. The लौकिक (*laukika*) domain permits new composition through the same architecture. One protects invariance; the other provides generative reach. Together they demonstrate calibrant order at linguistic scale.
 
-Pāṇini inherited this arrangement. His *Aṣṭādhyāyī* made the grammatical operations explicit with unmatched compression and precision. It strengthened the architecture by adding another path for teaching, analysis, and correction. The Vedas remained the calibrant.[NOTE: calibration-hierarchy]
+Pāṇini inherited this arrangement. His अष्टाध्यायी (*Aṣṭādhyāyī*) made the grammatical operations explicit with unmatched compression and precision. It strengthened the architecture by adding another path for teaching, analysis, and correction. The Vedas remained the calibrant.[NOTE: calibration-hierarchy]
 
-## 2.6 *Saṃskṛti* Made to Look Like *Prakṛti*
+## 2.6 संस्कृति (*Saṃskṛti*) Made to Look Like प्रकृति (*Prakṛti*)
 
 The botanical metaphor describes natural languages well. They grow through communal use, branch across populations, absorb contact, alter sounds, shed endings, acquire exceptions, and pass changed forms to later generations.
 
@@ -142,21 +142,21 @@ Old English **hlāfweard**, the “bread-guardian,” became **laverd**, then **
 
 In the 1860s, August Schleicher turned this process into the family tree of language.[NOTE: schleicher-stammbaumtheorie] Languages acquired parents, sisters, daughters, roots, stems, and branches. The metaphor made natural change easy to picture, but it also allowed European philology to treat every language as if it belonged to the same botanical category.
 
-Sanskrit's own vocabulary identifies a different category. **संस्कृतम् (*saṃskṛtam*)** is an architectural declaration. Its final portion, **कृतम् (*kṛtam*)**, is the past participle of ⟪कृ⟫ (*kṛ*), the atom for making. It means made, produced, or brought into form. The preceding *sam-* carries completion and integration:
+Sanskrit's own vocabulary identifies a different category. **संस्कृतम् (*saṃskṛtam*)** is an architectural declaration. Its final portion, **कृतम् (*kṛtam*)**, is the past participle of ⟪कृ⟫ (*kṛ*), the atom for making. It means made, produced, or brought into form. The preceding सम्- (*sam-*) carries completion and integration:
 
 > सम्यक् कृतम् इति संस्कृतम् ।
 >
 > *samyak kṛtam iti saṃskṛtam* |
 >
-> That which has been completely formed is *saṃskṛtam*.
+> That which has been completely formed is संस्कृतम् (*saṃskṛtam*).
 
-The word describes a completed act of formation rather than a people, territory, or branch of a family tree.[NOTE: samskrtam-morphology] **प्रकृति (*prakṛti*)** provides the natural category: what arises and continues forming through nature. The botanical metaphor and *prakṛti* use different vocabularies for the same broad process. Category theft begins when the pyramid places *saṃskṛtam* inside that process and presents its engineered form as natural growth.
+The word describes a completed act of formation rather than a people, territory, or branch of a family tree.[NOTE: samskrtam-morphology] **प्रकृति (*prakṛti*)** provides the natural category: what arises and continues forming through nature. The botanical metaphor and प्रकृति (*prakṛti*) use different vocabularies for the same broad process. Category theft begins when the pyramid places संस्कृतम् (*saṃskṛtam*) inside that process and presents its engineered form as natural growth.
 
-The same theft reaches Sanskrit's smallest semantic constituent. Sanskrit calls it **धातुः (*dhātuḥ*)**. Across grammar and other Sanskrit knowledge systems, the word identifies something that supports and constitutes a larger form. Chapter 10 tests the grammatical *dhātavaḥ* against the properties of atoms and shows the recurring structures from which words are built.
+The same theft reaches Sanskrit's smallest semantic constituent. Sanskrit calls it **धातुः (*dhātuḥ*)**. Across grammar and other Sanskrit knowledge systems, the word identifies something that supports and constitutes a larger form. Chapter 10 tests the grammatical धातवः (*dhātavaḥ*) against the properties of atoms and shows the recurring structures from which words are built.
 
-European philology translated *dhātuḥ* as *root*. Sanskrit already possessed botanical words such as **बीज (*bīja*)**, a seed, and **मूल (*mūla*)**, a root or foundation. Its grammatical continuum selected *dhātuḥ*. The translation moved a constituent from an architectural category into the botanical picture European philology had already chosen.[NOTE: dhatu-pre-panini-vedic]
+European philology translated धातुः (*dhātuḥ*) as *root*. Sanskrit already possessed botanical words such as **बीज (*bīja*)**, a seed, and **मूल (*mūla*)**, a root or foundation. Its grammatical continuum selected धातुः (*dhātuḥ*). The translation moved a constituent from an architectural category into the botanical picture European philology had already chosen.[NOTE: dhatu-pre-panini-vedic]
 
-Once the *dhātuḥ* became a root, Sanskrit words could be presented as organic growths on a language tree. The metaphor then appeared to confirm the conclusion built into the translation.
+Once the धातुः (*dhātuḥ*) became a root, Sanskrit words could be presented as organic growths on a language tree. The metaphor then appeared to confirm the conclusion built into the translation.
 
 The botanical metaphor describes growth and decay. Sanskrit was built so that neither would define it.
 
@@ -164,7 +164,7 @@ The botanical metaphor describes growth and decay. Sanskrit was built so that ne
 
 Figure 2.2 shows how the pyramid replaces Sanskrit's category. Three linked acts produce the false picture.
 
-**First: call Sanskrit a natural language.** The pyramid places the *vaidika* domain inside the organic column before examining its architecture. Pitch and meter can then be dismissed as inherited irregularities. Its wider sound and grammatical range can be called archaic residue. Exact transmission can be presented as an attempt to preserve a language that had already changed.
+**First: call Sanskrit a natural language.** The pyramid places the वैदिक (*vaidika*) domain inside the organic column before examining its architecture. Pitch and meter can then be dismissed as inherited irregularities. Its wider sound and grammatical range can be called archaic residue. Exact transmission can be presented as an attempt to preserve a language that had already changed.
 
 **Second: give Sanskrit an imaginary foreign origin.** Once Sanskrit has been placed inside a family tree, Proto-Indo-European can be installed above it as parent. The Racial Arya Thesis then invents the people who supposedly carried one daughter language into India. Invasion and migration versions disagree about the manner of entry while retaining the same requirement: Sanskrit's origin must remain foreign.
 
@@ -172,17 +172,17 @@ People entered India under many different circumstances. Some arrived by choice.
 
 **Third: turn Pāṇini into the apex who stopped drift.** The pyramid describes Sanskrit as unstable before him. Pāṇini supposedly selected elite speech, regularized it, and produced “Classical Sanskrit.” His documentation becomes the event that divides a changing older language from a fixed later one.
 
-![Figure 2.2 — The Misclassification of Sanskrit. The pyramid removes *vaidika* and *laukika* Sanskrit from their shared generative architecture, recasts domain as chronology, and assigns each domain to a different organic category.](figures/botanical/language2x2-misclassification.png){#fig:ch2-language-2x2-misclassification width=100%}
+![Figure 2.2 — The Misclassification of Sanskrit. The pyramid removes वैदिक (*vaidika*) and लौकिक (*laukika*) Sanskrit from their shared generative architecture, recasts domain as chronology, and assigns each domain to a different organic category.](figures/botanical/language2x2-misclassification.png){#fig:ch2-language-2x2-misclassification width=100%}
 
 The completed theft converts two domains into two periods. **वैदिक (*vaidika*)** Sanskrit becomes “Archaic Sanskrit.” **लौकिक (*laukika*)** Sanskrit becomes “Classical Sanskrit.” The wider Vedic architecture is called primitive, while the more selective architecture used for unrestricted new composition is called advanced.
 
-Chapter 16 demonstrates the opposite. The *vaidika* domain contains additional pitch, sound, grammatical, and compositional resources because its content remains invariant. The *laukika* domain uses a tighter reusable set because speakers can place its forms inside sentences that have never existed before. Different permissions serve different purposes within one architecture.
+Chapter 16 demonstrates the opposite. The वैदिक (*vaidika*) domain contains additional pitch, sound, grammatical, and compositional resources because its content remains invariant. The लौकिक (*laukika*) domain uses a tighter reusable set because speakers can place its forms inside sentences that have never existed before. Different permissions serve different purposes within one architecture.
 
 Pāṇini's own documentation marks differences of scope. Terms such as **छन्दसि (*chandasi*)**, **मन्त्रे (*mantre*)**, **ब्राह्मणे (*brāhmaṇe*)**, **अमन्त्रे (*amantre*)**, and **भाषायाम् (*bhāṣāyām*)** tell the student where a particular operation applies. They identify domains and settings; they do not turn one Sanskrit architecture into an evolutionary sequence.[NOTE: chandasi-bhashayam-mode-markers]
 
 > *The dogma says:* “Vedic Sanskrit evolved into Classical Sanskrit.”
 >
-> *The Hindu continuum says:* “Sanskrit has *vaidika* and *laukika* domains. The first preserves the invariant Vedic corpus. The second allows people to understand worldly compositions and create new ones. Both use one language architecture.”
+> *The Hindu continuum says:* “Sanskrit has वैदिक (*vaidika*) and लौकिक (*laukika*) domains. The first preserves the invariant Vedic corpus. The second allows people to understand worldly compositions and create new ones. Both use one language architecture.”
 
 The pyramid can turn the two domains into a chronology only after it removes the calibrant relationship that connects them.
 
@@ -190,7 +190,7 @@ The pyramid can turn the two domains into a chronology only after it removes the
 
 The comparisons in §2.2 show why codification cannot explain Sanskrit's invariance. Formal Arabic required religious and political authority to remain stable while spoken Arabics changed. Tamil possessed extensive grammatical documentation and still changed. A grammar by itself did not preserve either language.
 
-The word *codified* nevertheless allows the pyramid to acknowledge Sanskrit's precision while transferring the source of that precision to Pāṇini. Sanskrit becomes changing speech before him and ordered language after him. The resulting story no longer needs to explain how the Vedas and the earlier analytical continuum had already preserved and examined Sanskrit before the *Aṣṭādhyāyī*.
+The word *codified* nevertheless allows the pyramid to acknowledge Sanskrit's precision while transferring the source of that precision to Pāṇini. Sanskrit becomes changing speech before him and ordered language after him. The resulting story no longer needs to explain how the Vedas and the earlier analytical continuum had already preserved and examined Sanskrit before the अष्टाध्यायी (*Aṣṭādhyāyī*).
 
 This is **heroic erasure** in grammatical form. The pyramid praises one extraordinary person so intensely that the architecture he inherited vanishes behind him. Hindus are taught to revere Pāṇini as codifier instead of examining what he decoded. Other students are taught that Sanskrit became precise because one grammarian fixed it.
 
@@ -202,7 +202,7 @@ The refrain is simple:
 
 > ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest. The Vedas remain the calibrant.***
 
-Pāṇini did not codify Sanskrit. He decoded it. His *Aṣṭādhyāyī* remains an unmatched account of an order Sanskrit already possessed.
+Pāṇini did not codify Sanskrit. He decoded it. His अष्टाध्यायी (*Aṣṭādhyāyī*) remains an unmatched account of an order Sanskrit already possessed.
 
 ## 2.9 The War Changed the Attack
 
@@ -216,17 +216,17 @@ Hindu society retained enough room to transmit the Vedas and teach Sanskrit. Fam
 
 The surviving Vedic calibrant threatened the pyramid more deeply than war. Sanskrit demonstrates that order can remain exact and distributed without placing a ruler, church, academy, or state above it. The Vedas preserve a standard that no conqueror owns. People can compare themselves with that standard without asking an apex to certify the result.
 
-The conflict predates Abrahamic rule in India. It is older than British-Christian rule and the Islamic rule that preceded it. An architecture aligned with *asat* seeks to contain what should remain open and place itself above every standard. The Vedas preserve a calibrant it cannot own. Hindu continuity therefore remains a standing refusal of the asuric claim to universal control.
+The conflict predates Abrahamic rule in India. It is older than British-Christian rule and the Islamic rule that preceded it. An architecture aligned with असत् (*asat*) seeks to contain what should remain open and place itself above every standard. The Vedas preserve a calibrant it cannot own. Hindu continuity therefore remains a standing refusal of the asuric claim to universal control.
 
-Comparative philology was already being assembled before 1857. After overt conversion met its limit, its botanical vocabulary, foreign ancestry, and racial premises offered another way to weaken Hindu continuity. The British did not need to make every Veda disappear. They could teach Indians to see the Vedas as archaic literature, *vaidika* and *laukika* as historical periods, Sanskrit as a foreign natural language, and Pāṇini as the apex who imposed order upon it.
+Comparative philology was already being assembled before 1857. After overt conversion met its limit, its botanical vocabulary, foreign ancestry, and racial premises offered another way to weaken Hindu continuity. The British did not need to make every Veda disappear. They could teach Indians to see the Vedas as archaic literature, वैदिक (*vaidika*) and लौकिक (*laukika*) as historical periods, Sanskrit as a foreign natural language, and Pāṇini as the apex who imposed order upon it.
 
 The attack moved from openly replacing Hindu life to controlling the categories through which Hindus understood what they had preserved.
 
 ## 2.10 Āsurī Māyā: Concealment and Projection
 
-The chapter can now return to its epigraph. The mantra presents power without assigning it automatically to either side. **माया (*māyā*)** can serve ***सत् (*sat*)*** or ***असत् (*asat*)***. Indra defeats the ***मायिन् (*māyin*)*** Śuṣṇa with *māyās* of his own. The Hindu continuum therefore distinguishes **दैवी माया (*daivī māyā*)**, which serves radiance and protection, from **आसुरी माया (*āsurī māyā*)**, which serves concealment and deformation.[NOTE: rigveda-1-11-7-maya-mayin]
+The chapter can now return to its epigraph. The mantra presents power without assigning it automatically to either side. **माया (*māyā*)** can serve ***सत् (*sat*)*** or ***असत् (*asat*)***. Indra defeats the ***मायिन् (*māyin*)*** Śuṣṇa with मायाः (*māyās*) of his own. The Hindu continuum therefore distinguishes **दैवी माया (*daivī māyā*)**, which serves radiance and protection, from **आसुरी माया (*āsurī māyā*)**, which serves concealment and deformation.[NOTE: rigveda-1-11-7-maya-mayin]
 
-The *Vedāntasāra* gives two names to the asuric procedure. **आवरण (*āvaraṇa*)** conceals what remains present. **विक्षेप (*vikṣepa*)** projects something else where the observer should have recognized it. A cloud appears to cover the Sun, although it blocks only the observer's sight. A rope disappears beneath the projected snake.[NOTE: maya-concealment-projection]
+The वेदान्तसार (*Vedāntasāra*) gives two names to the asuric procedure. **आवरण (*āvaraṇa*)** conceals what remains present. **विक्षेप (*vikṣepa*)** projects something else where the observer should have recognized it. A cloud appears to cover the Sun, although it blocks only the observer's sight. A rope disappears beneath the projected snake.[NOTE: maya-concealment-projection]
 
 The pyramid uses both actions against Sanskrit.
 
