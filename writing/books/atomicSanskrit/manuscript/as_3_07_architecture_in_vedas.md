@@ -2,23 +2,23 @@
 
 The evidence collected here supports the compact demonstrations in Chapters 11 and 12. The first tables identify the exact Vedic passage behind every principal verb, derived word, grammatical ending, and sentence used in those chapters. Four longer analyses then allow the reader to see many of those operations working together inside complete mantras.
 
-Chapter 16 explains the two-domain design, while Appendix Part 8 documents the additional resources preserved in the *vaidika* domain. This appendix concentrates on the shared architecture. It shows that the Vedas already use the sound junctions, case endings, verbal forms, derivations, compounds, and sentence relations that *laukika* Sanskrit continues to use.
+Chapter 16 explains the two-domain design, while Appendix Part 8 documents the additional resources preserved in the वैदिक (*vaidika*) domain. This appendix concentrates on the shared architecture. It shows that the Vedas already use the sound junctions, case endings, verbal forms, derivations, compounds, and sentence relations that लौकिक (*laukika*) Sanskrit continues to use.
 
 ## 7.1 The Corpus Before the Manual
 
-The Vedic corpus preserves Sanskrit in use. Its passages contain the *sandhi* junctions, case endings, verbal operations, accents, and metrical arrangements that later analytical disciplines explain.
+The Vedic corpus preserves Sanskrit in use. Its passages contain the सन्धि (*sandhi*) junctions, case endings, verbal operations, accents, and metrical arrangements that later analytical disciplines explain.
 
-Each recited verse gives the analyst concrete evidence. A *sandhi* junction joins particular sounds. A case ending assigns a grammatical role. Meter constrains syllable count. Vedic accent makes part of the grammatical interpretation audible through pitch. The transmitted form preserves every one of these features.
+Each recited verse gives the analyst concrete evidence. A सन्धि (*sandhi*) junction joins particular sounds. A case ending assigns a grammatical role. Meter constrains syllable count. Vedic accent makes part of the grammatical interpretation audible through pitch. The transmitted form preserves every one of these features.
 
 The **अष्टाध्यायी (*Aṣṭādhyāyī*)** could document this architecture because the corpus and its transmission already supplied the forms to be decoded.
 
-The evidence in this appendix has two parts. The first records every Vedic form used in Chapters 11 and 12. Those body examples use grammatical operations shared by the *vaidika* and *laukika* domains because the two chapters establish the Vedas as the pronunciation and grammatical calibrant for *laukika* Sanskrit. The second part presents four longer passage analyses. Those passages also preserve Vedic-only sounds and forms, which Chapter 16 and Appendix Part 8 examine as designed differences between the domains.
+The evidence in this appendix has two parts. The first records every Vedic form used in Chapters 11 and 12. Those body examples use grammatical operations shared by the वैदिक (*vaidika*) and लौकिक (*laukika*) domains because the two chapters establish the Vedas as the pronunciation and grammatical calibrant for लौकिक (*laukika*) Sanskrit. The second part presents four longer passage analyses. Those passages also preserve Vedic-only sounds and forms, which Chapter 16 and Appendix Part 8 examine as designed differences between the domains.
 
 ## 7.2 Evidence Used in Chapter 11
 
-Chapter 11 follows a *dhātuḥ* into a completed verb. Its five principal examples demonstrate five different preparation procedures. Every procedure remains available in *laukika* Sanskrit.
+Chapter 11 follows a धातुः (*dhātuḥ*) into a completed verb. Its five principal examples demonstrate five different preparation procedures. Every procedure remains available in लौकिक (*laukika*) Sanskrit.
 
-| Vedic form | Passage | *Dhātuḥ* | What the example demonstrates |
+| Vedic form | Passage | धातुः (*Dhātuḥ*) | What the example demonstrates |
 |---|---|---|---|
 | **एति (*eti*)** | RV 1.24.10b | ⟪इ⟫ (*i*) | vowel change: **इ → ए** before **ति** |
 | **भवति (*bhavati*)** | RV 1.17.5c | ⟪भू⟫ (*bhū*) | vowel change followed by inserted **अ** |
@@ -26,7 +26,7 @@ Chapter 11 follows a *dhātuḥ* into a completed verb. Its five principal examp
 | **रुणद्धि (*ruṇaddhi*)** | RV 10.42.9c | ⟪रुध्⟫ (*rudh*) | insertion of a nasal sound inside the atom |
 | **सुनोति (*sunoti*)** | RV 5.34.3a | ⟪सु⟫ (*su*) | nasal extension after the atom |
 
-Two further pairs establish additional parts of the shared architecture. RV 1.22.4 preserves **अस्ति (*asti*)**, where ⟪अस्⟫ receives **ति** without an inserted vowel. RV 1.26.3 and RV 1.31.15 preserve **यजति (*yajati*)** and **यजते (*yajate*)**. The atom and its preparation remain the same, while the two endings demonstrate *parasmaipadam* and *ātmanepadam*.
+Two further pairs establish additional parts of the shared architecture. RV 1.22.4 preserves **अस्ति (*asti*)**, where ⟪अस्⟫ receives **ति** without an inserted vowel. RV 1.26.3 and RV 1.31.15 preserve **यजति (*yajati*)** and **यजते (*yajate*)**. The atom and its preparation remain the same, while the two endings demonstrate परस्मैपदम् (*parasmaipadam*) and आत्मनेपदम् (*ātmanepadam*).
 
 ### Every Person and Number
 
@@ -54,15 +54,15 @@ These forms establish the shared verbal range needed by Chapter 11. Additional V
 
 ## 7.3 Evidence Used in Chapter 12
 
-Chapter 12 continues from the completed verb into derived words, compounds, sentence-ready *padāni*, and complete sentences.
+Chapter 12 continues from the completed verb into derived words, compounds, sentence-ready पदानि (*padāni*), and complete sentences.
 
 ### Four Forms from ⟪कृ⟫
 
 | Vedic form | Passage | What the form contributes |
 |---|---|---|
 | **कृतम् (*kṛtam*)** | RV 3.29.1b | something done or completed |
-| **कर्मणः (*karmaṇaḥ*)** | RV 1.11.4c | a deed or action in *ṣaṣṭhī ekavacanam*, genitive singular |
-| **कर्तृभिः (*kartṛbhiḥ*)** | RV 1.55.8c | doers or makers in *tṛtīyā bahuvacanam*, instrumental plural |
+| **कर्मणः (*karmaṇaḥ*)** | RV 1.11.4c | a deed or action in षष्ठी एकवचनम् (*ṣaṣṭhī ekavacanam*), genitive singular |
+| **कर्तृभिः (*kartṛbhiḥ*)** | RV 1.55.8c | doers or makers in तृतीया बहुवचनम् (*tṛtīyā bahuvacanam*), instrumental plural |
 | **संस्कृतम् (*saṃskṛtam*)** | RV 5.76.2a | something prepared or brought to completion |
 
 The forms demonstrate four different results from the same atom. They also preserve material after ⟪कृ⟫, material before it in **संस्कृतम्**, and endings that prepare the resulting words for sentence use. RV 5.76.2 does not use **संस्कृतम्** as the proper name of the language.
@@ -75,7 +75,7 @@ The forms demonstrate four different results from the same atom. They also prese
 | RV 1.164.39c | **यः । तत् । न । वेद । किम् । ऋचा । करिष्यति** | relative and demonstrative pronouns, negation, question, instrumental relation, a verb of knowing, and a future verb |
 | RV 2.23.1ab | **गणानाम्, त्वा, गणपतिम्, हवामहे, कविम्, कवीनाम्, उपमश्रवस्तमम्** | accusative singular descriptions, two genitive plurals, a compound, and a first-person plural verb |
 
-These three examples use operations that a student of *laukika* Sanskrit can identify directly. Their presence in invariant Vedic passages is what allows the corpus to serve as a grammatical calibrant. The received order of each Vedic line remains unchanged. Chapter 12 rearranges only the three shared *padāni* from RV 5.25.4a as an explicit *laukika* composition exercise.
+These three examples use operations that a student of लौकिक (*laukika*) Sanskrit can identify directly. Their presence in invariant Vedic passages is what allows the corpus to serve as a grammatical calibrant. The received order of each Vedic line remains unchanged. Chapter 12 rearranges only the three shared पदानि (*padāni*) from RV 5.25.4a as an explicit लौकिक (*laukika*) composition exercise.
 
 The second sentence in the table can also be examined word by word:
 
@@ -85,12 +85,12 @@ The second sentence in the table can also be examined word by word:
 >
 > RV 2.23.1ab
 
-- **गणानाम् (*gaṇānām*)** is *ṣaṣṭhī bahuvacanam*, genitive plural: *of the groups*.
+- **गणानाम् (*gaṇānām*)** is षष्ठी बहुवचनम् (*ṣaṣṭhī bahuvacanam*), genitive plural: *of the groups*.
 - **त्वा (*tvā*)** is the accusative singular form of the second-person pronoun: *you*.
 - **गणपतिम् (*gaṇapatim*)** is an accusative singular compound formed from **गण (*gaṇa*)** and **पति (*pati*)**.
 - **हवामहे (*havāmahe*)** is a first-person plural verb: *we invoke*.
 - **कविम् (*kavim*)** is accusative singular and describes the same person as **गणपतिम्**.
-- **कवीनाम् (*kavīnām*)** is *ṣaṣṭhī bahuvacanam*, genitive plural: *of the poets or seers*.
+- **कवीनाम् (*kavīnām*)** is षष्ठी बहुवचनम् (*ṣaṣṭhī bahuvacanam*), genitive plural: *of the poets or seers*.
 - **उपमश्रवस्तमम् (*upamaśravastamam*)** is another accusative singular description of the person invoked.
 
 The endings keep the relations clear. The several accusative forms identify the person being invoked and describe him in different ways. The two genitive plurals connect him with the groups and poets. The verbal ending in **हवामहे** identifies several speakers performing the invocation.
@@ -107,17 +107,17 @@ The endings keep the relations clear. The several accusative forms identify the 
 
 The opening six words, taken phrase by phrase:
 
-- ***agnimīḷe*** (अग्निमीळे) decomposes as *agnim* + *īḷe*. The first piece is *agnim* (अग्निम्) — **accusative singular** (*dvitīyā vibhakti* द्वितीया विभक्ति, *ekavacana* एकवचन) of *agni* (अग्नि, *fire / fire-deity*). The second is *īḷe* (ईळे) — **1sg present middle** (*laṭ-lakāra* लट्, *ātmanepada* आत्मनेपद) of the atom ⟪ईड्⟫ (*īḍ*, *to praise, to invoke*). The *Ṛgveda-Prātiśākhya* accounts for the surface **ळ** by specifying intervocalic **ड → ळ**. Sandhi (सन्धि) then joins the sounds at the word boundary: *agnim* + *īḷe* → *agnimīḷe*.
-- ***purohitam*** (पुरोहितम्) — **accusative singular** of *purohita* (पुरोहित, *household priest*), itself a compound: *puras* (पुरस्, *in front*) + *hita* (हित, *placed*) → *purohita* per standard *sandhi*. In apposition with *agnim*.
-- ***yajñasya*** (यज्ञस्य) — **genitive singular** (*ṣaṣṭhī vibhakti* षष्ठी विभक्ति) of *yajña* (यज्ञ, *fire offering*).
-- ***devam*** (देवम्) — **accusative singular** of *deva* (देव, *divine being*). Apposition with *agnim*.
-- ***ṛtvijam*** (ऋत्विजम्) — **accusative singular** of *ṛtvij* (ऋत्विज्, *officiating priest*). Fourth apposition.
+- अग्निमीळे (***agnimīḷe***) decomposes as *agnim* + *īḷe*. The first piece is अग्निम् (*agnim*) — **accusative singular** (द्वितीया विभक्ति (*dvitīyā vibhakti*), एकवचन (*ekavacana*)) of अग्नि (*agni*, *fire / fire-deity*). The second is ईळे (*īḷe*) — **1sg present middle** (लट् (*laṭ-lakāra*), आत्मनेपद (*ātmanepada*)) of the atom ⟪ईड्⟫ (*īḍ*, *to praise, to invoke*). The *Ṛgveda-Prātiśākhya* accounts for the surface **ळ** by specifying intervocalic **ड → ळ**. Sandhi (सन्धि) then joins the sounds at the word boundary: *agnim* + *īḷe* → *agnimīḷe*.
+- पुरोहितम् (***purohitam***) — **accusative singular** of पुरोहित (*purohita*, *household priest*), itself a compound: *puras* (पुरस्, *in front*) + *hita* (हित, *placed*) → *purohita* per standard सन्धि (*sandhi*). In apposition with *agnim*.
+- यज्ञस्य (***yajñasya***) — **genitive singular** (षष्ठी विभक्ति (*ṣaṣṭhī vibhakti*)) of यज्ञ (*yajña*, *fire offering*).
+- देवम् (***devam***) — **accusative singular** of देव (*deva*, *divine being*). Apposition with *agnim*.
+- ऋत्विजम् (***ṛtvijam***) — **accusative singular** of ऋत्विज् (*ṛtvij*, *officiating priest*). Fourth apposition.
 
 These six words contain four accusatives in apposition, one genitive, and one verb form. The endings establish the grammatical roles without requiring the fixed word order English ordinarily uses.
 
-The opening ***agnimīḷe*** preserves the retroflex lateral **ळ (*ḷ*)** exactly where the *Ṛgveda-Prātiśākhya* says it should occur: intervocalic **ड** becomes **ळ**, with the corresponding **ढ → ळ्ह**. The Śākala lineage therefore preserves **ईळे (*īḷe*)** as a lineage-bounded Vedic form rather than as an additional member of the reusable *laukika* grid. The *vaidika* / *laukika* distinction explains why the two domains can use the sound differently. The *Prātiśākhya* then explains the exact phonetic operation that produces **ळ** in this passage. Chapter 9 §9.10 brings these two explanations together.
+The opening ***agnimīḷe*** preserves the retroflex lateral **ळ (*ḷ*)** exactly where the *Ṛgveda-Prātiśākhya* says it should occur: intervocalic **ड** becomes **ळ**, with the corresponding **ढ → ळ्ह**. The Śākala lineage therefore preserves **ईळे (*īḷe*)** as a lineage-bounded Vedic form rather than as an additional member of the reusable लौकिक (*laukika*) grid. The वैदिक (*vaidika*) / लौकिक (*laukika*) distinction explains why the two domains can use the sound differently. The प्रातिशाख्य (*Prātiśākhya*) then explains the exact phonetic operation that produces **ळ** in this passage. Chapter 9 §9.10 brings these two explanations together.
 
-### *Ṛgveda* 1.164.39 — The *Akṣara* and the *Ṛc*
+### *Ṛgveda* 1.164.39 — The अक्षर (*Akṣara*) and the *Ṛc*
 
 > ऋचो अक्षरे परमे व्योमन् ।
 > यस्मिन्देवा अधि विश्वे निषेदुः ।
@@ -131,18 +131,18 @@ The opening ***agnimīḷe*** preserves the retroflex lateral **ळ (*ḷ*)** ex
 
 The stanza contains several clauses, but their endings keep the relations clear across all four lines:
 
-- **अक्षरे (*akṣare*)**, **परमे (*parame*)**, and **व्योमन् (*vyoman*)** place the *ṛc* in the imperishable syllable, the highest expanse.
+- **अक्षरे (*akṣare*)**, **परमे (*parame*)**, and **व्योमन् (*vyoman*)** place the ऋच् (*ṛc*) in the imperishable syllable, the highest expanse.
 - **यस्मिन् (*yasmin*)** is a locative singular relative pronoun: *in which*.
-- **देवाः (*devāḥ*)** and **विश्वे (*viśve*)** are nominative plural forms referring to all the *devāḥ*.
+- **देवाः (*devāḥ*)** and **विश्वे (*viśve*)** are nominative plural forms referring to all the देवाः (*devāḥ*).
 - **निषेदुः (*niṣeduḥ*)** is a plural completed verb: *they have taken their seat*.
-- The *padapāṭha* separates **यस्तन्न** into **यः । तत् । न**, exposing the relative pronoun, the demonstrative, and the negation.
+- The पदपाठ (*padapāṭha*) separates **यस्तन्न** into **यः । तत् । न**, exposing the relative pronoun, the demonstrative, and the negation.
 - **वेद (*veda*)** is a completed form of ⟪विद्⟫, *to know*: *he knows*.
 - **किम् (*kim*)** asks *what*, while **ऋचा (*ṛcā*)** carries the instrumental singular relation: *with the ṛc* or *through the ṛc*.
 - **करिष्यति (*kariṣyati*)** is a future verb formed from ⟪कृ⟫: *he will do*.
 - **विदुः (*viduḥ*)** returns to ⟪विद्⟫ in the plural: *they know*.
-- **ते (*te*)** and **इमे (*ime*)** identify those who know. The *padapāṭha* separates **समासते** into **सम् । आसते**, preserving the Vedic freedom to place an *upasargaḥ* apart from its verb.
+- **ते (*te*)** and **इमे (*ime*)** identify those who know. The पदपाठ (*padapāṭha*) separates **समासते** into **सम् । आसते**, preserving the Vedic freedom to place an उपसर्गः (*upasargaḥ*) apart from its verb.
 
-The same stanza therefore contains singular and plural verbs, present and future meaning, locative and instrumental relations, relative and demonstrative pronouns, a question, a negation, and a separated *upasargaḥ*. Chapter 12 uses one line to teach sentence assembly. Chapter 16 explains why the *vaidika* domain can also preserve the wider placement of **सम्**.
+The same stanza therefore contains singular and plural verbs, present and future meaning, locative and instrumental relations, relative and demonstrative pronouns, a question, a negation, and a separated उपसर्गः (*upasargaḥ*). Chapter 12 uses one line to teach sentence assembly. Chapter 16 explains why the वैदिक (*vaidika*) domain can also preserve the wider placement of **सम्**.
 
 ### *Ṛgveda* 10.129.1 — The *Nāsadīya Sūkta*
 
@@ -152,14 +152,14 @@ The same stanza therefore contains singular and plural verbs, present and future
 >
 > *"There was neither non-existence nor existence then."*
 
-Complex multi-vowel *sandhi* flowing through engineered phonetic rules:
+Complex multi-vowel सन्धि (*sandhi*) flowing through engineered phonetic rules:
 
-- *na asat āsīt* → ***nāsadāsīt*** (नासदासीत्). Three engineered steps: *na* + *asat* → *nāsat* (*a* + *a* → *ā*); *nāsat* + *āsīt* → *nāsadāsīt* (final *-t* before *ā-* → *-d-*, then juncture).
-- *na u sat āsīt* → ***no sadāsīt*** (नो सदासीत्). *Na* + *u* → *no*; *sat* + *āsīt* → *sadāsīt*.
-- ***āsīt*** (आसीत्) — **3sg imperfect** (*laṅ-lakāra* लङ्, *parasmaipada* परस्मैपद) of the *dhātu* *as* (अस्, *to be*). The form combines the *dhātu*, augment, and person-and-tense ending exactly as Pāṇini later documents.
-- ***tadānīm*** (तदानीम्) — locative-adverbial *at that time*, from *tad* (तत्) + adverbial suffix *-dānīm*.
+- *na asat āsīt* → नासदासीत् (***nāsadāsīt***). Three engineered steps: *na* + असत् (*asat*) → *nāsat* (*a* + *a* → *ā*); *nāsat* + *āsīt* → *nāsadāsīt* (final *-t* before *ā-* → *-d-*, then juncture).
+- *na u sat āsīt* → नो सदासीत् (***no sadāsīt***). *Na* + *u* → *no*; *sat* + *āsīt* → *sadāsīt*.
+- आसीत् (***āsīt***) — **3sg imperfect** (लङ् (*laṅ-lakāra*), परस्मैपद (*parasmaipada*)) of the धातु (*dhātu*) अस् (*as*, *to be*). The form combines the धातु (*dhātu*), augment, and person-and-tense ending exactly as Pāṇini later documents.
+- तदानीम् (***tadānīm***) — locative-adverbial *at that time*, from तत् (*tad*) + adverbial suffix *-dānīm*.
 
-The complete stanza uses *triṣṭubh* (त्रिष्टुभ्), with four eleven-syllable *pādas*. The excerpt above gives its opening two *pādas*. The metrical structure belongs to the transmitted stanza; *vyākaraṇa* later describes operations already present in it.
+The complete stanza uses त्रिष्टुभ् (*triṣṭubh*), with four eleven-syllable पादाः (*pādas*). The excerpt above gives its opening two पादाः (*pādas*). The metrical structure belongs to the transmitted stanza; व्याकरण (*vyākaraṇa*) later describes operations already present in it.
 
 ### *Ṛgveda* 3.62.10 — The Gāyatrī Mantra
 
@@ -171,54 +171,54 @@ The complete stanza uses *triṣṭubh* (त्रिष्टुभ्), with f
 
 Three lines of **गायत्री (*gāyatrī*)** meter — eight syllables each, twenty-four total. The grammar is on display in nearly every word:
 
-- ***tat*** (तत्) — **nominative-accusative neuter singular** (*prathamā* / *dvitīyā vibhakti*, *napuṃsaka-liṅga* नपुंसक-लिङ्ग) pronoun.
-- ***savitur*** (सवितुर्) — **genitive singular** (*ṣaṣṭhī vibhakti*) of *savitṛ* (सवितृ, *the Sun-deity*). *Savituḥ* → *-r* before voiced consonant — *visarga-sandhi*.
-- ***vareṇyam*** (वरेण्यम्) — **accusative singular neuter** of *vareṇya*, a **कृदन्त (*kṛdanta*)** formed from the *dhātu* ⟪वृ⟫ (*vṛ*, *to choose*) + the *kṛt-pratyaya* *-ya* with *guṇa*. The verse applies the *dhātu* → *śabda* assembly described in Chapter 12.
-- ***bhargo*** (भर्गो) — **accusative singular neuter** of *bharga* (भर्ग, *splendor*). Final *-as* → *-o* before voiced consonant.
-- ***devasya*** (देवस्य) — **genitive singular** of *deva*.
-- ***dhīmahi*** (धीमहि) — a **first-person plural ātmanepada** form: *we contemplate* or *may we contemplate*. Grammatical analyses differ on its precise atom and Vedic mood, so this appendix does not force either question into one label.
-- ***dhiyo*** (धियो) — **accusative plural** of *dhī* (धी, *thought*). Final *-as* → *-o*.
-- ***yo*** (यो) — **nominative singular masculine** of *yad* (यद्), the relative pronoun. Final *-as* → *-o*.
-- ***naḥ*** (नः) — **accusative-genitive plural** of *asmat* (अस्मत्, *we*), the clitic form.
-- ***pracodayāt*** (प्रचोदयात्) — a **third-person singular modal form** built from *pra* + ⟪चुद्⟫ (*cud*, *to impel*) with causative extension. **प्र (*pra*)** is the **उपसर्गः (*upasargaḥ*)**. Grammatical analyses differ on the exact Vedic mood, but the atom, *upasargaḥ*, causative extension, and singular verb remain identifiable.
+- तत् (***tat***) — **nominative-accusative neuter singular** (*prathamā* / द्वितीया विभक्ति (*dvitīyā vibhakti*), नपुंसकलिङ्ग (*napuṃsaka-liṅga*) नपुंसक-लिङ्ग) pronoun.
+- सवितुर् (***savitur***) — **genitive singular** (षष्ठी विभक्ति (*ṣaṣṭhī vibhakti*)) of सवितृ (*savitṛ*, *the Sun-deity*). *Savituḥ* → *-r* before voiced consonant — विसर्गसन्धि (*visarga-sandhi*).
+- वरेण्यम् (***vareṇyam***) — **accusative singular neuter** of वरेण्य (*vareṇya*), a **कृदन्त (*kṛdanta*)** formed from the धातु (*dhātu*) ⟪वृ⟫ (*vṛ*, *to choose*) + the कृत्प्रत्यय (*kṛt-pratyaya*) *-ya* with गुण (*guṇa*). The verse applies the धातु (*dhātu*) → शब्द (*śabda*) assembly described in Chapter 12.
+- भर्गो (***bhargo***) — **accusative singular neuter** of *bharga* (भर्ग, *splendor*). Final *-as* → *-o* before voiced consonant.
+- देवस्य (***devasya***) — **genitive singular** of देव (*deva*).
+- धीमहि (***dhīmahi***) — a **first-person plural ātmanepada** form: *we contemplate* or *may we contemplate*. Grammatical analyses differ on its precise atom and Vedic mood, so this appendix does not force either question into one label.
+- धियो (***dhiyo***) — **accusative plural** of धी (*dhī*, *thought*). Final *-as* → *-o*.
+- यो (***yo***) — **nominative singular masculine** of यद् (*yad*), the relative pronoun. Final *-as* → *-o*.
+- नः (***naḥ***) — **accusative-genitive plural** of *asmat* (अस्मत्, *we*), the clitic form.
+- प्रचोदयात् (***pracodayāt***) — a **third-person singular modal form** built from प्र (*pra*) + ⟪चुद्⟫ (*cud*, *to impel*) with causative extension. **प्र (*pra*)** is the **उपसर्गः (*upasargaḥ*)**. Grammatical analyses differ on the exact Vedic mood, but the atom, उपसर्गः (*upasargaḥ*), causative extension, and singular verb remain identifiable.
 
 The *Ṛgveda* uses the relative construction ***yo naḥ pracodayāt***, which Pāṇini later documents within his system.
 
-Across these four passages, *sandhi*, case endings, *dhātu*-*pratyaya* assembly, *upasarga*-joined verbs, several verbal forms, *kṛdanta* derivation, compounds, and metrical structure already appear. **The Vedic corpus already displays the architecture that Pāṇini later documented.** He is the finest *vaiyākaraṇa* (वैयाकरण), not the engineer.
+Across these four passages, सन्धि (*sandhi*), case endings, धातु (*dhātu*)-प्रत्यय (*pratyaya*) assembly, उपसर्ग (*upasarga*)-joined verbs, several verbal forms, कृदन्त (*kṛdanta*) derivation, compounds, and metrical structure already appear. **The Vedic corpus already displays the architecture that Pāṇini later documented.** He is the finest वैयाकरण (*vaiyākaraṇa*), not the engineer.
 
-## 7.5 The *Dhātu* Inventory in the Three Passages
+## 7.5 The धातु (*Dhātu*) Inventory in the Three Passages
 
-Three of the passages also show the status of the *Dhātupāṭha*. Pāṇini presupposes an inherited inventory whose atoms were already forming words and verbs in the Vedas. Twelve forms from RV 1.1.1, RV 10.129.1, and RV 3.62.10 map to their underlying *dhātavaḥ*:
+Three of the passages also show the status of the धातुपाठ (*Dhātupāṭha*). Pāṇini presupposes an inherited inventory whose atoms were already forming words and verbs in the Vedas. Twelve forms from RV 1.1.1, RV 10.129.1, and RV 3.62.10 map to their underlying धातवः (*dhātavaḥ*):
 
 | Word form → Dhātu | Gaṇa | Pāṇinian operation |
 |--------|------|----------------------|
-| ***īḷe*** (ईळे) → ⟪ईड्⟫ ***īḍ*** (ईड्, *to praise*) | *adādi* (2nd) | *laṭ-lakāra* 1sg *ātmanepada*. The *Ṛgveda-Prātiśākhya* specifies intervocalic **ड → ळ**, producing the preserved Vedic realization. |
-| ***yajñasya*** → ⟪यज्⟫ ***yaj*** (*to sacrifice*) | *bhvādi* (1st) | *yaj* + *na*-*kṛt-pratyaya* → *yajña*; declined in *ṣaṣṭhī vibhakti*. |
-| ***purohitam*** → ⟪धा⟫ ***dhā*** (*to place*) | *juhotyādi* (3rd, reduplicating) | *dhā* → past passive participle *hita*; compound *puras* + *hita* → *purohita* (*the one placed in front*); *dvitīyā vibhakti*. |
-| ***devam*** → ⟪दिव्⟫ ***div*** (*to shine*) | *divādi* (4th — *div* gives its name to the gaṇa) | *div* + *a*-*pratyaya* → *deva* (*the shining one*); *dvitīyā vibhakti*. |
-| ***āsīt*** → ⟪अस्⟫ ***as*** (*to be*) | *adādi* (2nd) | *laṅ-lakāra* 3sg *parasmaipada* — imperfect past. |
-| ***sat*** → ⟪अस्⟫ ***as*** | *adādi* (2nd) | *kṛdanta* present-participle — *that which exists*. Same *dhātu* as the previous row, in two distinct formations within one verse. |
-| ***savituḥ*** → ⟪सू⟫ ***sū*** (*to impel*) | *adādi* (2nd) | *sū* + *tṛ*-*pratyaya* → *savitṛ* (*the impeller*, agentive *kṛdanta*); *ṣaṣṭhī vibhakti*. |
-| ***vareṇyam*** → ⟪वृ⟫ ***vṛ*** (*to choose*) | *svādi* (5th) | *vṛ* + *enya*-*kṛt-pratyaya* → *vareṇya* (gerundive *kṛdanta*); *dvitīyā vibhakti*, *napuṃsaka-liṅga*. |
-| ***bhargo*** → often connected with ⟪भ्राज्⟫ ***bhrāj*** (*to shine*) | exact formation requires further confirmation | The completed form is *bhargas* in the sentence; *-as* becomes *-o* through *sandhi*. The connection with ⟪भ्राज्⟫ remains a proposed derivation rather than a premise of the chapter's argument. |
-| ***devasya*** → ⟪दिव्⟫ ***div*** | *divādi* (4th) | Same *dhātu* as the RV 1.1.1 *devam* row; *ṣaṣṭhī vibhakti* this time. |
-| ***dhīmahi*** → ⟪धी⟫ ***dhī*** / ⟪ध्यै⟫ ***dhyai*** (*to contemplate*) | the exact atom and mood remain disputed | The form securely demonstrates first-person plural *ātmanepadam*. |
-| ***pracodayāt*** → ⟪चुद्⟫ ***cud*** (*to impel*) + *pra-*-*upasarga* | *tudādi* (6th) | The form securely contains the atom, *upasargaḥ*, causative extension, and a third-person singular modal ending. Analyses differ on the exact Vedic mood. |
+| ईळे (***īḷe***) → ⟪ईड्⟫ ***īḍ*** (ईड्, *to praise*) | अदादि (*adādi*) (2nd) | लट्लकार (*laṭ-lakāra*) 1sg आत्मनेपद (*ātmanepada*). The *Ṛgveda-Prātiśākhya* specifies intervocalic **ड → ळ**, producing the preserved Vedic realization. |
+| यज्ञस्य (***yajñasya***) → ⟪यज्⟫ ***यज् (*yaj*)*** (*to sacrifice*) | भ्वादि (*bhvādi*) (1st) | यज् (*yaj*) + *na*-कृत्प्रत्यय (*kṛt-pratyaya*) → यज्ञ (*yajña*); declined in षष्ठी विभक्ति (*ṣaṣṭhī vibhakti*). |
+| पुरोहितम् (***purohitam***) → ⟪धा⟫ ***धा (*dhā*)*** (*to place*) | जुहोत्यादि (*juhotyādi*) (3rd, reduplicating) | धा (*dhā*) → past passive participle *hita*; compound *puras* + *hita* → *purohita* (*the one placed in front*); द्वितीया विभक्ति (*dvitīyā vibhakti*). |
+| देवम् (***devam***) → ⟪दिव्⟫ ***दिव् (*div*)*** (*to shine*) | दिवादि (*divādi*) (4th — दिव् (*div*) gives its name to the gaṇa) | दिव् (*div*) + *a*-प्रत्यय (*pratyaya*) → देव (*deva*) (*the shining one*); द्वितीया विभक्ति (*dvitīyā vibhakti*). |
+| आसीत् (***āsīt***) → ⟪अस्⟫ ***अस् (*as*)*** (*to be*) | अदादि (*adādi*) (2nd) | लङ्लकार (*laṅ-lakāra*) 3sg परस्मैपद (*parasmaipada*) — imperfect past. |
+| सत् (***sat***) → ⟪अस्⟫ ***अस् (*as*)*** | अदादि (*adādi*) (2nd) | कृदन्त (*kṛdanta*) present-participle — *that which exists*. Same धातु (*dhātu*) as the previous row, in two distinct formations within one verse. |
+| सवितुः (***savituḥ***) → ⟪सू⟫ ***सू (*sū*)*** (*to impel*) | अदादि (*adādi*) (2nd) | सू (*sū*) + तृ (*tṛ*)-प्रत्यय (*pratyaya*) → सवितृ (*savitṛ*) (*the impeller*, agentive कृदन्त (*kṛdanta*)); षष्ठी विभक्ति (*ṣaṣṭhī vibhakti*). |
+| वरेण्यम् (***vareṇyam***) → ⟪वृ⟫ ***वृ (*vṛ*)*** (*to choose*) | स्वादि (*svādi*) (5th) | वृ (*vṛ*) + *enya*-कृत्प्रत्यय (*kṛt-pratyaya*) → वरेण्य (*vareṇya*) (gerundive कृदन्त (*kṛdanta*)); द्वितीया विभक्ति (*dvitīyā vibhakti*), नपुंसकलिङ्ग (*napuṃsaka-liṅga*). |
+| भर्गो (***bhargo***) → often connected with ⟪भ्राज्⟫ ***भ्राज् (*bhrāj*)*** (*to shine*) | exact formation requires further confirmation | The completed form is *bhargas* in the sentence; *-as* becomes *-o* through सन्धि (*sandhi*). The connection with ⟪भ्राज्⟫ remains a proposed derivation rather than a premise of the chapter's argument. |
+| देवस्य (***devasya***) → ⟪दिव्⟫ ***दिव् (*div*)*** | दिवादि (*divādi*) (4th) | Same धातु (*dhātu*) as the RV 1.1.1 *devam* row; षष्ठी विभक्ति (*ṣaṣṭhī vibhakti*) this time. |
+| धीमहि (***dhīmahi***) → ⟪धी⟫ ***धी (*dhī*)*** / ⟪ध्यै⟫ ***ध्यै (*dhyai*)*** (*to contemplate*) | the exact atom and mood remain disputed | The form securely demonstrates first-person plural आत्मनेपदम् (*ātmanepadam*). |
+| प्रचोदयात् (***pracodayāt***) → ⟪चुद्⟫ ***चुद् (*cud*)*** (*to impel*) + *pra-*-उपसर्ग (*upasarga*) | तुदादि (*tudādi*) (6th) | The form securely contains the atom, उपसर्गः (*upasargaḥ*), causative extension, and a third-person singular modal ending. Analyses differ on the exact Vedic mood. |
 
-**Twelve forms across three short Vedic passages represent six of the ten activation groups.** The table maps secure forms to entries and classes later recorded in the *Dhātupāṭha*. It also marks the places where the exact derivation or grammatical label remains unsettled. None of those unsettled labels carries the chapter's argument.
+**Twelve forms across three short Vedic passages represent six of the ten activation groups.** The table maps secure forms to entries and classes later recorded in the धातुपाठ (*Dhātupāṭha*). It also marks the places where the exact derivation or grammatical label remains unsettled. None of those unsettled labels carries the chapter's argument.
 
-Pāṇini's documentation records an inherited inventory already in use. The *vaiyākaraṇāḥ* decode Sanskrit rather than manufacturing it.
+Pāṇini's documentation records an inherited inventory already in use. The वैयाकरणाः (*vaiyākaraṇāḥ*) decode Sanskrit rather than manufacturing it.
 
 The atom ⟪ईड्⟫ remains stable even when the stated Vedic environment produces the **ळ** heard in *īḷe*. The lineage-bounded form and the reusable inventory therefore belong to the same architecture while serving different functions within it.
 
 ## 7.6 The Grammar Preceded the Manual
 
-The four passages place the shared architecture directly before the reader. They contain finished words formed from *dhātavaḥ*, operations that join sounds and constituents, endings that establish grammatical relations, and sentence structures that remain intelligible through Sanskrit.
+The four passages place the shared architecture directly before the reader. They contain finished words formed from धातवः (*dhātavaḥ*), operations that join sounds and constituents, endings that establish grammatical relations, and sentence structures that remain intelligible through Sanskrit.
 
 The Vedas already use Sanskrit's architecture in complete words and sentences. Pāṇini inherited that language and produced its finest grammatical documentation.
 
 Appendix Part 8 examines the additional resources preserved in the Vedic domain. Appendix Part 9 tests the codification myth against the architecture already present before Pāṇini's documentation.
 
-The Vedas encode the architecture. The *vaiyākaraṇāḥ* decode what the Vedas encode. Pāṇini's decoding is the finest.
+The Vedas encode the architecture. The वैयाकरणाः (*vaiyākaraṇāḥ*) decode what the Vedas encode. Pāṇini's decoding is the finest.
 
 **The dogma makes Pāṇini a rupture. The architecture makes him a witness.**
