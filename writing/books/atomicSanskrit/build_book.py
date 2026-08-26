@@ -133,7 +133,7 @@ for _texdir in (
 # To change reading order, edit as_book.yaml — not this file.
 #
 # Each entry is a dict:
-#   kind      one of {"front", "part", "chapter", "end"}
+#   kind      one of {"dedication", "front", "part", "chapter", "end"}
 #   file      manuscript filename (None for "part" entries that emit a
 #             \part{} break only; otherwise optional prose after \part{})
 #   title     canonical title rendered into the assembled markdown
@@ -913,6 +913,17 @@ def cmd_assemble(endnotes_mode: str = "full", promote_svgs: bool = True) -> int:
         filename = entry["file"]
         title = entry["title"]
         subtitle = entry.get("subtitle")
+        if kind == "dedication":
+            path = BOOK_DIR / filename
+            if not path.exists():
+                print(f"  MISSING: {filename}", file=sys.stderr)
+                missing.append(filename)
+                continue
+            text = path.read_text().strip()
+            if text:
+                chunks.append(text + "\n\n")
+                print(f"  include {filename} (dedication)")
+            continue
         if kind == "part":
             # Raw-LaTeX part break (pandoc passes through inside this fence).
             # When a subtitle is present, embed it INSIDE the \partopener[...]{...}

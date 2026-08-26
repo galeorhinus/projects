@@ -20,12 +20,14 @@
 
 \bigskip
 
-The asuric attacks on the Vedas and Sanskrit are timeless. The Śaṅkha does not begin that war. Its sound reminds the people that the war is already underway and calls those who preserved the Vedas and Sanskrit to defend what they inherited. When the conch sounds, the eclipse still covers the Sun completely. Every block remains firmly in place.
+The asuric attacks on the Vedas and Sanskrit are timeless. The Śaṅkha does not begin the conflict; it announces the present attack. Its sound calls the caretakers who inherited the Vedas and Sanskrit to defend them. When the conch sounds, the eclipse still covers the Sun completely. Every block remains firmly in place.
+
+Sanskrit occupies the place of the Sun in this book's eclipse sequence. Its sounds remain audible in recitation. Its grammar remains available for examination, and its words continue to travel through India and the world. The pyramid directs readers toward these isolated parts while deliberately hiding the architecture that connects them. That concealment casts the shadow.
+
+\newpage
 
 ![Figure E.2 — The Śaṅkha Sounds. The full eclipse remains in place, but the conch has sounded while the world is still dark.](figures/eclipse_spine/eclipse_00_overture_shankha_full.svg){#fig:eclipse-overture-shankha width=100%}
 
-Sanskrit occupies the place of the Sun in this book's eclipse sequence. Its sounds remain audible in recitation, its grammar remains available for examination, and its words continue to travel through India and the world. The pyramid did not make Sanskrit disappear. It directed readers toward scattered texts, rules, and words while deliberately hiding the complete architecture that joins them. That act of concealment casts the shadow.
+Generations of people kept that architecture available across society. Seekers examined Sanskrit. Reciters preserved Vedic sounds, **वैयाकरणाः (*vaiyākaraṇāḥ*)** taught grammar, and parents corrected children who later carried those lessons forward. This book calls them caretakers. They continued to preserve the language while academic institutions taught a different account of it.
 
-Generations of seekers, reciters, *vaiyākaraṇāḥ*, mothers, teachers, and students kept that architecture available across society. This book calls them caretakers because they continued to teach, recite, listen, correct, and remember while academic institutions taught a different account of their language.
-
-The conflict therefore has two sides. On one side stand the seekers and caretakers. On the other stands the asuric pyramid: a finite order with a single apex that demands that everyone look upward for authority. The next two chapters introduce these opposing forces. Part I then examines each obstruction placed over Sanskrit and removes it so that the architecture beneath becomes visible.
+The conflict therefore has two sides. On one side stand the seekers and caretakers. On the other stands the asuric pyramid: a finite order with a single apex that demands that everyone look upward for authority. The next two chapters introduce these opposing forces. Part I then examines the blocks that the pyramid placed over Sanskrit and exposes how they cast the shadow.

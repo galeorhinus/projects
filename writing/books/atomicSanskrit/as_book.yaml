@@ -51,7 +51,7 @@ header-includes:
 # The book's reading order. Used by build_book.py to assemble the manuscript.
 #
 # Each entry has:
-#   kind      one of {front, part, chapter, end}
+#   kind      one of {dedication, front, part, chapter, end}
 #   file      manuscript filename (null for "part" entries that emit a
 #             \part{} break only; part entries may also carry opener prose)
 #   title     canonical title rendered into the assembled markdown
@@ -67,12 +67,15 @@ header-includes:
 #
 # Edit reading order here, not in build_book.py.
 assembly:
-  - kind: front
-    file: manuscript/as_0_00_about_series.md
-    title: "About the *Second Shanti* Series"
+  - kind: dedication
+    file: manuscript/as_0_00_dedication.md
+    title: Dedication
   - kind: front
     file: manuscript/as_0_01_preface.md
-    title: "Preface — The Eclipse"
+    title: "Preface — Why This Inquiry Began"
+  - kind: front
+    file: manuscript/as_0_01_prologue_eclipse.md
+    title: "Prologue — The Eclipse"
   - kind: part
     file: manuscript/as_part_00_overture_shankha.md
     title: "Overture — The Śaṅkha"

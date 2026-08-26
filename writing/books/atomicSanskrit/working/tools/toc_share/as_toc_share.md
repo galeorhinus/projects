@@ -14,7 +14,8 @@ The book runs on an eclipse. Sanskrit is the Sun (Sūrya); the Western philologi
 ## Structure
 
 ### Front Matter
-- **Preface — The Eclipse.** The Vedic eclipse (Ṛgveda 5.40.5): Svarbhānu pierces Sūrya with darkness and the world goes field-blind. Names the seven shadows the world is shown, and the stance: category before calendar.
+- **Preface — Why This Inquiry Began.** Connects the three freedoms examined in *Tatya Tope's Operation Red Lotus* to the *Second Shanti* inquiry, explains why Sanskrit comes first, states the book's challenge to PIE and the Aryan theories, and identifies the two architectures of order.
+- **Prologue — The Eclipse.** The Vedic eclipse (Ṛgveda 5.40.5): Svarbhānu covers Sūrya with darkness while false categories stand between Sanskrit's radiance and the observer. The book will remove those blocks one at a time.
 - **Overture — The Śaṅkha.** The conch sounds against the dark; the two parties become visible — the seekers and caretakers, and the finite apex-order.
 - **Chapter 0 — Zero, Seekers, and the Infinite.** Sanskrit's character before the polemic: a language of seekers, freedom, and infinity.
 - **Chapter 1 — One, the Apex, and the Finite.** The antagonist: the asuric apex-one, the finite order that casts the shadow.

@@ -10,13 +10,18 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 
 ## Front Matter
 
-**Preface — The Eclipse** *(drafted)* — *Opens on the Ṛgveda 5.40.5 eclipse: Svarbhānu (the asuric pyramid) pierces Sūrya (Sanskrit) with darkness, and the world goes field-blind. Names the eclipse cast (Sūrya / Svarbhānu / Rāhu = PIE), lays out the seven shadows as a compressed prose ledger, and states the stance: category before calendar; the task is to clear the shadow, not to plead a case. Includes the personal hook (the boy's sandhi correction) and the chronology stance.*
+**Preface — Why This Inquiry Began** *(drafted)* — *Begins with the three freedoms examined in* Tatya Tope's Operation Red Lotus *and asks what those freedoms protected. The author's childhood encounter with* sandhi *then connects the political inquiry to Sanskrit's exact architecture. The Preface introduces the* Second Shanti *series, explains the inherited PIE and Aryan accounts without assuming prior knowledge, identifies the two architectures of order, and prepares a non-specialist for the book's route.*
 
-- What Was Eclipsed — *The claim in brief: the language bears the word* saṃskṛtam; *the* paramparā *received and documented it; the architecture is on the page and in the mouth, treated as anything but obvious only because the field around it was darkened.*
-- The Boy's Question — *The author's childhood encounter with* sandhi *while reciting* Bhagavad Gītā *1.2 — calibration in the mouth — that set the engineering thesis in motion.*
-- The Pyramid's Clock — *Chronology capture: once the pyramid owns the clock it can call one layer early, another late, turning domain into period and mode into stage. Category before calendar.*
-- Lineage and Method — *The* paramparā *occupied the central position; Patañjali's* siddhe śabdārthasambandhe; *the decoding lineage; the architectural route from* varṇa *to language;* apauruṣeya *as the lineage-chain's own account of origin.*
-- What Follows — *The roadmap, eclipse-framed: how the shadow is cast, the Sun's own account, its sound-body and atoms, its anti-entropy, and the dispelling of Rāhu — until the Sun stands whole. Diagnosis ends; the Śaṅkha sounds next.*
+- Why Sanskrit Comes First — *The second* śāntiḥ, *the childhood correction, the Vedas as calibrant, and the radiant/calibrant/fractal sequence.*
+- The Story This Book Challenges — *PIE, invasion, migration, the continuing racial claim, and the book's outward-radiance alternative.*
+- Two Architectures of Order — *The seekers and caretakers who protect a distributed calibrant, and the pyramid that encloses knowledge beneath certified authority.*
+- How to Read This Book — *Audience, notation, chapter movement, evidence, and appendices.*
+
+**Prologue — The Eclipse** *(drafted)* — *Opens on Ṛgveda 5.40.5. Svarbhānu covers Sūrya with darkness, just as false categories stand between Sanskrit's radiant architecture and the observer. The Prologue introduces the block-removal spine and gives chronology its limited role before the Śaṅkha is sounded.*
+
+- What Was Eclipsed — *Sanskrit's self-description, its distributed transmission, and the refrain that the Vedas remain its calibrant.*
+- The Pyramid's Clock — *The finite chronology that turns domain into period and architecture into evolution.*
+- Block by Block — *Each part removes another obstruction placed before the Sun.*
 
 ---
 

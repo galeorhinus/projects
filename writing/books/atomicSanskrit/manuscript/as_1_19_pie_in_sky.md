@@ -247,6 +247,12 @@ Section 19.3 identified this reversal as the two powers of **आसुरी म
 
 The two accounts send the same similarities in opposite directions. The pyramid treats them as inheritances from an unrecorded parent. The Radiance Thesis traces them outward from recorded Sanskrit atoms and the molecules those atoms generate. Sanskrit's sounds, atoms, procedures, and generated forms remain available for examination. The reconstructed parent exists only because philologists inferred it from the similarities they then used it to explain.
 
+Similarity by itself cannot establish which way the movement occurred. The distribution of the architecture can. In India, the recorded atoms remain connected to the words they generate. The sounds remain connected to the *varṇamālā*, the grammar, the Vedas, the recitation disciplines, and the methods of correction. The language and the systems that preserve it remain available together.
+
+The receiving languages preserve parts of that architecture. One may retain a Sanskritic word, another a directional operator, and another a method for arranging sounds or describing grammar. Those parts can support extensive creation within the receiving language, but they do not reproduce the complete system preserved in India. PIE erases this difference by treating every recorded language as an equal fragment of an absent parent.
+
+The evidence is not distributed equally. One side preserves the complete calibrant architecture. The others preserve partial reflections shaped by their own languages. **That architectural asymmetry establishes direction: Sanskrit's radiance traveled outward.**
+
 ### A Repeatable Radiance Map
 
 The same analysis can be repeated for other Sanskrit atoms. The **Sanskrit Radiance Mapping Project** begins with a starred PIE image, places every recorded form beside the Sanskrit family, and then compares their sounds and meanings through Indic methods.

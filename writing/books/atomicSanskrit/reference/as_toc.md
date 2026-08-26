@@ -4,13 +4,15 @@
 
 ## Front Matter
 
-- About the *Second Shanti* Series
-- **Preface — The Eclipse**
+- **Preface — Why This Inquiry Began**
+  - Why Sanskrit Comes First
+  - The Story This Book Challenges
+  - Two Architectures of Order
+  - How to Read This Book
+- **Prologue — The Eclipse**
   - What Was Eclipsed
-  - The Boy's Question
   - The Pyramid's Clock
-  - Lineage and Method
-  - What Follows
+  - Block by Block
 
 ---
 

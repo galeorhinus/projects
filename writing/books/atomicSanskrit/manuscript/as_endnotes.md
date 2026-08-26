@@ -10,9 +10,9 @@
 
 ### `rigveda-5-40-5-svarbhanu-eclipse`
 
-**Short:** Ṛgveda 5.40.5 supplies the eclipse diagnostic: Svarbhānu pierces Sūrya with darkness, and the worlds become bewildered like one who does not know the field. The keystone phrase is **अक्षेत्रवित् (*akṣetravit*)**, rendered in the Preface as **field-loss**.
+**Short:** Ṛgveda 5.40.5 supplies the eclipse diagnostic: Svarbhānu pierces Sūrya with darkness, and the worlds become bewildered like one who does not know the field. The keystone phrase is **अक्षेत्रवित् (*akṣetravit*)**, rendered in Chapter 1 as **field-loss**.
 
-**Deployment:** Preface opening epigraph and first prose activation. Chapter 1 §1.4 — "Withhold the light" method.
+**Deployment:** Prologue opening epigraph and first prose activation. Chapter 1 §1.4 — "Withhold the light" method.
 
 The quoted mantra is Ṛgveda 5.40.5:
 
@@ -34,9 +34,9 @@ The verse belongs to the Svarbhānu sequence in Ṛgveda 5.40. The opening stops
 
 **Short:** *Svarbhānu* (स्वर्भानु) parses as *svar* (स्वर्, the bright heaven, the sun's realm of light) + *bhānu* (भानु, light, ray, the shining one) — the eclipse-asura's name contains the very solar light he obscures.
 
-**Deployments:** Part I opener ("How the Shadow Is Cast") — the *svar* wordplay; echoes the Preface's *Ṛgveda* 5.40.5 deployment.
+**Deployments:** Part I opener ("How the Shadow Is Cast") — the *svar* wordplay; echoes the Prologue's *Ṛgveda* 5.40.5 deployment.
 
-*Svar* (स्वर्) is the third of the three Vedic worlds, the realm of light and heaven (after *bhūḥ* and *bhuvaḥ*), and by extension the sun's brightness. *Bhānu* (भानु) means a ray or beam of light, and as a substantive the sun itself. *Svarbhānu*, the asura who pierces Sūrya with darkness in *Ṛgveda* 5.40.5, therefore bears a name assembled from two words for solar light — the irony the Preface and the Part I opener deploy: the obscurer is named for the radiance he hides. See the `rigveda-5-40-5-svarbhanu-eclipse` note for the verse and the full eclipse sequence.
+*Svar* (स्वर्) is the third of the three Vedic worlds, the realm of light and heaven (after *bhūḥ* and *bhuvaḥ*), and by extension the sun's brightness. *Bhānu* (भानु) means a ray or beam of light, and as a substantive the sun itself. *Svarbhānu*, the asura who pierces Sūrya with darkness in *Ṛgveda* 5.40.5, therefore bears a name assembled from two words for solar light — the irony the Prologue and the Part I opener deploy: the obscurer is named for the radiance he hides. See the `rigveda-5-40-5-svarbhanu-eclipse` note for the verse and the full eclipse sequence.
 
 ---
 
@@ -58,7 +58,7 @@ That is why the middle movement belongs between the destruction of PIE and the f
 
 ### `rigveda-5-40-9-atris-find-sun`
 
-**Short:** Ṛgveda 5.40.9 supplies the recovery epigraph: the same Svarbhānu wound-line from the Preface returns, but the second half now says the Atris found the Sun and no others could.
+**Short:** Ṛgveda 5.40.9 supplies the recovery epigraph: the same Svarbhānu wound-line from the Prologue returns, but the second half now says the Atris found the Sun and no others could.
 
 **Deployment:** Epilogue opening epigraph.
 
@@ -1620,9 +1620,11 @@ Some *nāstika* systems were later captured by institutional, imperial, or ideol
 
 **Short:** The *vyākaraṇa* discipline's own self-description presupposes an already-formed linguistic object. Patañjali's ***siddhe śabdārthasambandhe*** states that the bond between word and meaning is already established; Bhartṛhari's *Vākyapadīya* treats *śabda* as structurally prior to ordinary speech. The *vaiyākaraṇaḥ* decodes; he does not invent.
 
-**Deployments:** Preface — "The Lineage This Book Extends."
+**Status:** Parked — the 2026-08-25 Preface/Prologue restructure cut the front matter's lineage-legitimation passage to what a new reader needs; this deeper Patañjali/Bhartṛhari argument no longer has a body deployment. Retained as source material.
 
-The note anchors the Preface's lineage claim. The Sanskrit discipline does not introduce grammar as a creative act that manufactures Sanskrit out of disorder. It introduces grammar as analysis, separation, and unfolding. Patañjali's opening locative absolute, ***सिद्धे शब्दार्थसम्बन्धे (*siddhe śabdārthasambandhe*)***, places the word-meaning bond on the side of the already-established. Bhartṛhari's *Vākyapadīya* gives the deeper philosophical form of the same premise: *śabda* is not merely a later convention among speakers but a foundational reality through which meaning becomes available. Standard references: Patañjali, *Mahābhāṣya*, *Paspaśāhnika*; Bhartṛhari, *Vākyapadīya*, especially Book 1; Yāska, *Nirukta*, for the older decoder lineage.
+**Deployments:** No current body deployment (formerly Preface — "The Lineage This Book Extends," retired 2026-08-25).
+
+The note anchors the lineage claim. The Sanskrit discipline does not introduce grammar as a creative act that manufactures Sanskrit out of disorder. It introduces grammar as analysis, separation, and unfolding. Patañjali's opening locative absolute, ***सिद्धे शब्दार्थसम्बन्धे (*siddhe śabdārthasambandhe*)***, places the word-meaning bond on the side of the already-established. Bhartṛhari's *Vākyapadīya* gives the deeper philosophical form of the same premise: *śabda* is not merely a later convention among speakers but a foundational reality through which meaning becomes available. Standard references: Patañjali, *Mahābhāṣya*, *Paspaśāhnika*; Bhartṛhari, *Vākyapadīya*, especially Book 1; Yāska, *Nirukta*, for the older decoder lineage.
 
 ---
 
@@ -1630,7 +1632,9 @@ The note anchors the Preface's lineage claim. The Sanskrit discipline does not i
 
 **Short:** The Preface's modern-lineage sentence is a role-map, not a bibliography. Each figure represents a different modern continuation of the Sanskrit-side position under colonial and post-colonial institutional pressure.
 
-**Deployment:** Preface — "Lineage and Method."
+**Status:** Parked — the 2026-08-25 Preface/Prologue restructure removed the modern-advocates role-map from the front matter body (plan: "retain in an endnote or a later historiographic section"). Six endnotes cite this one as their source anchor (aurobindo-kapali-sastry-mishra-vedic-lineage, dayananda-rgvedadi-bhashya, kak-vedic-structural-architecture, kapoor-text-and-interpretation, malhotra-battle-for-sanskrit-pollock-prosecution, ojha-vedic-architecture-corpus); those became orphaned by the same cut and need the same decision — redeploy this material somewhere, or retire all seven together.
+
+**Deployment:** No current body deployment (formerly Preface — "Lineage and Method," retired 2026-08-25).
 
 Maharṣi Dayānanda Saraswatī reasserted Vedic Sanskrit as systematic, precise, knowledge-bearing language inside the colonial period rather than accepting the reduction of the Veda to primitive poetry. Sri Aurobindo treated the Vedic hymns as symbolic and spiritual architecture rather than nature-poetry. T. V. Kapali Sastry extended that line through detailed Vedic commentary. Sampadananda Mishra extends that line into contemporary Sanskrit pedagogy, Vedic interpretation, speech, and sound-practice.
 
@@ -4416,7 +4420,7 @@ Standard references: the *Pāṇinīya-Śikṣā*'s opening verses; Madhusūdana
 
 **Deployments:** Chapter 15 §15.2 ¶ — the citation anchor for the full list of the eleven *pāṭhas* with their permutational specifications.
 
-See endnote `eleven-pathas` (deployed in the Preface) for the full enumeration and analytical treatment of the eleven recitation modes. In Ch15, the same citation anchors the extended technical discussion across §§15.2–15.3 that develops each *pāṭha*'s specific permutational pattern. The eleven *pāṭhas* — five *prakṛti-pāṭhas* (*Saṃhitā*, *Pada*, *Krama*, *Jaṭā*, *Ghana*) and six *vikṛti-pāṭhas* (*Mālā*, *Śikhā*, *Rekhā*, *Dhvaja*, *Daṇḍa*, *Ratha*) — together constitute the redundancy architecture that protects the *Saṃhitā* texts against deviation across the lineage-chain.
+See endnote `eleven-pathas` (deployed in Chapter 18 §18.7) for the full enumeration and analytical treatment of the eleven recitation modes. In Ch15, the same citation anchors the extended technical discussion across §§15.2–15.3 that develops each *pāṭha*'s specific permutational pattern. The eleven *pāṭhas* — five *prakṛti-pāṭhas* (*Saṃhitā*, *Pada*, *Krama*, *Jaṭā*, *Ghana*) and six *vikṛti-pāṭhas* (*Mālā*, *Śikhā*, *Rekhā*, *Dhvaja*, *Daṇḍa*, *Ratha*) — together constitute the redundancy architecture that protects the *Saṃhitā* texts against deviation across the lineage-chain.
 
 Standard references and full discussion: see endnote `eleven-pathas`.
 

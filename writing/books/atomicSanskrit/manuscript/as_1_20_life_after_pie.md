@@ -128,6 +128,10 @@ Malay, Indonesian, Thai, Khmer, and Burmese each reshaped the received words to 
 
 Several routes produced this distribution. A word might have come directly from Sanskrit, through Pāli, or through another regional language. This chapter therefore uses *Sanskritic* for the wider reach. Teachers and communities shared words and methods, while every receiving language continued developing in its own way.
 
+The two waves leave an asymmetrical record. Mitanni preserves selected Vedic names and technical words. East Asia preserves Sanskritic words and adaptations of the sound matrix. Tibetan, Greek, Latin, Arabic, and Hebrew preserve different parts of Sanskrit's analytical method. Each receiving civilization deserves credit for what it built from what it received.
+
+India preserves something different in scale. The Vedas, Sanskrit's sound architecture, its grammar, its exact recitation systems, and the disciplines that connect them remain together. The receiving cultures preserve reflections; the Hindu continuum preserves the complete calibrant architecture. The routes in this chapter explain how parts traveled outward without transferring authorship of the source.
+
 ## 20.3 The Diasporic Embers
 
 Teachers and specialists carried Sanskritic knowledge through the calibrant waves. Whole communities carried something more extensive when they moved. They took their spoken languages, music, food, ceremonies, family memories, and ways of organizing daily life into their new homes. This book calls that movement the **Diasporic Wave**. Many of its carriers did not choose to leave India freely. Some were displaced, transported as indentured laborers, or driven into regions where the surrounding society treated them as outsiders. What survived the journey depended upon what families and communities could continue teaching under those conditions.

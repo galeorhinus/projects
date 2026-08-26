@@ -16,7 +16,7 @@
 
 ## The Eclipse Is Over
 
-The same wound-line that opened the Preface returns here with the other half supplied. Svarbhānu's darkness did not win: the Atris found the Sun.
+The same wound-line that opened the Prologue returns here with the other half supplied. Svarbhānu's darkness did not win: the Atris found the Sun.
 
 The core eclipse has passed because the Sun remained. Seven blocks have fallen — Descended, Botanical, Codified, Alphabetic, Abugida, Sibling Language, and Early Literature — and Sanskrit's radiance is visible again. Institutional custody, public habit, and civilizational self-doubt still cast residual shadows. Teachers, families, institutions, and communities must clear what one book cannot.
 

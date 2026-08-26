@@ -48,7 +48,7 @@ This is also why forward-references inside *Atomic Sanskrit* use the generic *"a
 
 **Dharma and swastika go hand in hand.** The swastika is *Sanātan*'s calibrant fractal; *dharma* is the standard against which the fractal calibrates. Where the swastika rotates intact, *dharma* is operative; where the rotation slows into pyramidal hierarchy, *dharma* erodes. Each forthcoming volume develops this connection at its layer-specific scale.
 
-**Cross-references inside this document.** §3.4 names the *kālacakra* framing within which the swastika-salvage operation is legible as a darkest-period reclamation rather than an invention. §3.7 develops *sat-asat-viveka-buddhi* as the individual-level faculty the framework rests on. §3.9 develops the swastika-as-calibration-responsibility architecture at the polity-architectural scale. §4.1 maps the three-shape framework into the political volume's territory. The *Atomic Sanskrit* front-matter page `as_0_00_about_series.md` deploys the central-thesis paragraphs for the printed book.
+**Cross-references inside this document.** §3.4 names the *kālacakra* framing within which the swastika-salvage operation is legible as a darkest-period reclamation rather than an invention. §3.7 develops *sat-asat-viveka-buddhi* as the individual-level faculty the framework rests on. §3.9 develops the swastika-as-calibration-responsibility architecture at the polity-architectural scale. §4.1 maps the three-shape framework into the political volume's territory. The *Atomic Sanskrit* Preface deploys the central series thesis for the printed book.
 
 ---
 
@@ -341,7 +341,7 @@ This section grows as material surfaces during *Atomic Sanskrit* work that prope
 
 - **The *karma-vs-Justice* argument** as the optimizing-function difference between fractal and pyramidal polities.
 
-- **The *Shanti-as-quietude-not-peace* re-definition.** Already deployed in the *Atomic Sanskrit* "About the Second Shanti Series" front-matter page; the political volume develops the polity-architectural implication.
+- **The *Shanti-as-quietude-not-peace* re-definition.** Already deployed in the *Atomic Sanskrit* Preface; the political volume develops the polity-architectural implication.
 
 - **The deva-as-light / asura-as-noise polity-architectural account** beyond the linguistic vivimorphosis of Ch 19 §19.8.
 
@@ -369,7 +369,7 @@ This section grows as material surfaces during *Atomic Sanskrit* work that prope
 
 Places where *Atomic Sanskrit* touches forthcoming-volume territory without developing it:
 
-- **Preface / "About the Second Shanti Series" page** — names the series structure and the article-asymmetry (alive vs excavated).
+- **Preface** — names the series structure and the article-asymmetry (alive vs excavated).
 - **Preface body** — paragraph signaling the larger inquiry: *"The architecture of dharma. The framework for shānti across the three lokāḥ. The structure of community life that has resisted, against extraordinary pressure from those who would replace it with their own ordering systems, every assault on its memory."*
 - **Chapter 2 (Why the Pyramid Needs the Tree)** — the Progress Crisis names the linear-progress teleology as the contemporary opponent; forthcoming volumes develop this as one face of the asuric posture.
 - **Chapter 3 §3.5** — the Aṣṭāvakra-Bandin diagnostic; the *who guards the guards* question that the political volume resolves through karma-as-ledger.
