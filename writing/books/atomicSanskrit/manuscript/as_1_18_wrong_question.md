@@ -20,7 +20,7 @@
 
 The entire Proto-Indo-European framework is built to answer this single question. But the theory collapses because the question itself is fundamentally flawed. It assumes Sanskrit is an evolutionary accident, rather than an engineered architecture.
 
-The preceding chapters have established an engineered sonomer address grid, the *dhātavaḥ*, generative rules, a retroflex core, a calibration matrix, a living recitation system, and the analytical disciplines that preserved and decoded the whole. Together, these features describe an engineered linguistic architecture rather than a natural speech-form drifting from an earlier natural speech-form.
+The preceding chapters have established an engineered sonomer address grid, the धातवः (*dhātavaḥ*), generative rules, a retroflex core, a calibration matrix, a living recitation system, and the analytical disciplines that preserved and decoded the whole. Together, these features describe an engineered linguistic architecture rather than a natural speech-form drifting from an earlier natural speech-form.
 
 Part VI turns to the account that has continued to treat this object as something else. The next two chapters divide that work. Ch18 establishes the structural argument: the genealogical project fundamentally misrepresents the physical construction of Sanskrit, and any precursor model framed inside that project will fail the same structural test for the same structural reason. Chapter 19 tests the specific construct — PIE — directly. Together the two chapters close the loop opened in Chapter 1: the botanical metaphor fails on a language engineered against the behavior the metaphor describes; Ch18 develops the structural reason no genealogical reconstruction can recover what the metaphor has prevented from being seen.
 
@@ -36,17 +36,17 @@ Proto-Indo-European theory starts with the wrong question.
 
 Any valid model of Sanskrit must explain six structural features.
 
-First: the ***varṇamālā*** as an engineered sonomer address grid (Chapter 9). A list of sounds is not enough. The model must explain which sounds Sanskrit promotes to reusable sonomers, which sounds it excludes, and how it arranges the selected sonomers within an ordered map of the mouth.
+First: the **वर्णमाला (*varṇamālā*)** as an engineered sonomer address grid (Chapter 9). A list of sounds is not enough. The model must explain which sounds Sanskrit promotes to reusable sonomers, which sounds it excludes, and how it arranges the selected sonomers within an ordered map of the mouth.
 
-Second: the ***dhātu*** architecture (Chapters 2 and 10). Sanskrit does not merely have a loose inventory of verbal bases. It builds semantic atoms from those sonomers. Each atom preserves its identity through bonding and generates vocabulary through rule-defined combination.
+Second: the **धातु (*dhātu*)** architecture (Chapters 2 and 10). Sanskrit does not merely have a loose inventory of verbal bases. It builds semantic atoms from those sonomers. Each atom preserves its identity through bonding and generates vocabulary through rule-defined combination.
 
-Third: the rules that carry sonomers into meaningful words and sentences (Chapters 11 and 12): *saṃdhi*, *gaṇa* organization, affixation, metrical constraint, and the generative architecture the *Aṣṭādhyāyī* articulates.
+Third: the rules that carry sonomers into meaningful words and sentences (Chapters 11 and 12): सन्धि (*saṃdhi*), गण (*gaṇa*) organization, affixation, metrical constraint, and the generative architecture the *Aṣṭādhyāyī* articulates.
 
-Fourth: the ***mūrdhanya*** core (Chapter 17). The retroflex row sits right inside the architecture: vowel-core, bonder, closure class, acoustic signature.
+Fourth: the **मूर्धन्य (*mūrdhanya*)** core (Chapter 17). The retroflex row sits right inside the architecture: vowel-core, bonder, closure class, acoustic signature.
 
-Fifth: the preservation architecture (Chapters 13, 14, and 15): *padapāṭha*, *kramapāṭha*, *jaṭāpāṭha*, *ghanapāṭha*, *Prātiśākhya*, *Śikṣā*, *chandas*, and the living *guru-shishya* lineage-chain.
+Fifth: the preservation architecture (Chapters 13, 14, and 15): पदपाठ (*padapāṭha*), क्रमपाठ (*kramapāṭha*), जटापाठ (*jaṭāpāṭha*), घनपाठ (*ghanapāṭha*), प्रातिशाख्य (*Prātiśākhya*), शिक्षा (*Śikṣā*), छन्दस् (*chandas*), and the living *guru-shishya* lineage-chain.
 
-Sixth: the formal grammatical order (Chapter 5): *siddha* / *kārya*, *vyākaraṇam*, *Nirukta*, *Prātiśākhya*, *Trimuni Vyākaraṇam*, and the analytical mode that treats Sanskrit as specified rather than merely described.
+Sixth: the formal grammatical order (Chapter 5): सिद्ध (*siddha*) / कार्य (*kārya*), व्याकरणम् (*vyākaraṇam*), निरुक्त (*Nirukta*), प्रातिशाख्य (*Prātiśākhya*), त्रिमुनि व्याकरणम् (*Trimuni Vyākaraṇam*), and the analytical mode that treats Sanskrit as specified rather than merely described.
 
 ![Figure 18.1 — The Architectural Test. Six features that any model of Sanskrit must explain, compared with what genealogical reconstruction provides.](figures/wrong_question/architectural_test.svg){#fig:ch18-architectural-test width=100%}
 
@@ -65,17 +65,17 @@ This is the category theft. The genealogical project looks at Sanskrit after the
 
 We can now compare each of the six requirements with what the genealogical project actually reconstructs.
 
-The ***varṇamālā***: PIE reconstruction can propose a sound inventory and identify recurring correspondences among languages. It cannot explain which sounds Sanskrit promotes to sonomers, why other pronounceable sounds remain outside the system, or why Sanskrit assigns each selected sonomer a precise grid address derived from its articulatory coordinates. A reconstructed inventory of sounds does not explain the engineering of the sonomer system.
+The वर्णमाला (*varṇamālā*): PIE reconstruction can propose a sound inventory and identify recurring correspondences among languages. It cannot explain which sounds Sanskrit promotes to sonomers, why other pronounceable sounds remain outside the system, or why Sanskrit assigns each selected sonomer a precise grid address derived from its articulatory coordinates. A reconstructed inventory of sounds does not explain the engineering of the sonomer system.
 
-The ***dhātu*** architecture: PIE reconstruction can propose earlier word-forms. It cannot explain why Sanskrit builds semantic atoms from sonomers, preserves their identity as *upasargāḥ* and *pratyayāḥ* attach, and generates extensive families of words from them.
+The धातु (*dhātu*) architecture: PIE reconstruction can propose earlier word-forms. It cannot explain why Sanskrit builds semantic atoms from sonomers, preserves their identity as उपसर्गाः (*upasargāḥ*) and प्रत्ययाः (*pratyayāḥ*) attach, and generates extensive families of words from them.
 
-The generative rules: PIE reconstruction can describe how sounds correspond and change across languages. Sanskrit also requires an explanation for the operations that generate its words and sentences: *saṃdhi*, *gaṇa* organization, *upasargāḥ*, *pratyayāḥ*, and the wider derivational architecture. The comparative method does not reconstruct that language engine.
+The generative rules: PIE reconstruction can describe how sounds correspond and change across languages. Sanskrit also requires an explanation for the operations that generate its words and sentences: सन्धि (*saṃdhi*), गण (*gaṇa*) organization, उपसर्गाः (*upasargāḥ*), प्रत्ययाः (*pratyayāḥ*), and the wider derivational architecture. The comparative method does not reconstruct that language engine.
 
-The retroflex core: PIE does not reconstruct a *mūrdhanya* set. The pyramid therefore claims that Sanskrit borrowed retroflexion after entering the Indian subcontinent.[NOTE: retroflex-substrate-standard-account] Sanskrit does not carry these sounds as a peripheral addition. The *varṇamālā* gives them a complete row, **ऋ (*ṛ*)** belongs to the vowel system, **र (*ra*)** acts as a bonder, and retroflex closure recurs throughout the atom inventory. The borrowing account must explain how a supposedly later acquisition became embedded at all these levels. It does not.
+The retroflex core: PIE does not reconstruct a मूर्धन्य (*mūrdhanya*) set. The pyramid therefore claims that Sanskrit borrowed retroflexion after entering the Indian subcontinent.[NOTE: retroflex-substrate-standard-account] Sanskrit does not carry these sounds as a peripheral addition. The वर्णमाला (*varṇamālā*) gives them a complete row, **ऋ (*ṛ*)** belongs to the vowel system, **र (*ra*)** acts as a bonder, and retroflex closure recurs throughout the atom inventory. The borrowing account must explain how a supposedly later acquisition became embedded at all these levels. It does not.
 
-The preservation mechanisms: comparative reconstruction studies changes among recorded languages. Its procedure does not reconstruct the *pāṭha* recitations, *Prātiśākhya* specifications, *Śikṣā* training, or the transmission lineages documented across Chapters 13, 14, and 15. It therefore cannot explain how the Vedas resisted the changes that the method expects every language to undergo.
+The preservation mechanisms: comparative reconstruction studies changes among recorded languages. Its procedure does not reconstruct the पाठ (*pāṭha*) recitations, प्रातिशाख्य (*Prātiśākhya*) specifications, शिक्षा (*Śikṣā*) training, or the transmission lineages documented across Chapters 13, 14, and 15. It therefore cannot explain how the Vedas resisted the changes that the method expects every language to undergo.
 
-The formal grammar: PIE reconstruction does not produce an *Aṣṭādhyāyī*, a *Nirukta*, a *Prātiśākhya*, or a *siddha* / *kārya* distinction. The pyramid classifies these disciplines as later cultural artifacts. Yet they preserve the continuum's own analysis of Sanskrit as a specified architecture. Any model of Sanskrit must explain why these disciplines exist and why their analyses converge.
+The formal grammar: PIE reconstruction does not produce an *Aṣṭādhyāyī*, a निरुक्त (*Nirukta*), a प्रातिशाख्य (*Prātiśākhya*), or a सिद्ध (*siddha*) / कार्य (*kārya*) distinction. The pyramid classifies these disciplines as later cultural artifacts. Yet they preserve the continuum's own analysis of Sanskrit as a specified architecture. Any model of Sanskrit must explain why these disciplines exist and why their analyses converge.
 
 Six requirements. The genealogical project satisfies *none* of them.
 
@@ -87,7 +87,7 @@ The progressive dogma presents the genealogical model as established fact before
 
 This preference rests on one assumption: Sanskrit must be the same kind of drifting natural language that the comparative method places elsewhere in a descent tree. The preceding chapters establish a different account. Sanskrit is engineered speech, preserved speech, decoded speech, and rule-defined speech.
 
-To preserve the genealogical model as established fact, the pyramid must dismiss Sanskrit's own analytical disciplines. It must claim that *Nirukta*, *Prātiśākhya*, *Śikṣā*, *Chandas*, and *Mīmāṃsā* misunderstood the language they studied. It must also claim that generations of *guru-shishya* lineages preserved and transmitted the same civilizational delusion for thousands of years.
+To preserve the genealogical model as established fact, the pyramid must dismiss Sanskrit's own analytical disciplines. It must claim that निरुक्त (*Nirukta*), प्रातिशाख्य (*Prātiśākhya*), शिक्षा (*Śikṣā*), छन्दस् (*Chandas*), and मीमांसा (*Mīmāṃsā*) misunderstood the language they studied. It must also claim that generations of *guru-shishya* lineages preserved and transmitted the same civilizational delusion for thousands of years.
 
 Earlier chapters established why the Vedas serve as a calibrant for Sanskriti: they preserve the contest between सत् (sat) and असत् (asat) in forms that people can recognize whenever the same actions return in another age. Civilizational gaslighting is one present-day expression of that ancient pattern.
 
@@ -127,7 +127,7 @@ The pyramid does not know Sanskrit's origin. It has no inscription of PIE, no sp
 6. When Sanskrit displayed subcontinental features, especially the retroflex row, the pyramid's account called them substrate borrowings instead of evidence that Sanskrit's engineering begins inside the subcontinental sound-field.
 7. When Vedic preservation showed extraordinary stability, the pyramid's account called it late conservatism rather than engineered anti-entropy.
 8. When Pāṇini documented an already functioning architecture, the pyramid's account called it codification: praise the named documenter, redirect the memory, deny the architecture documented.
-9. When the Sanskrit continuum preserved its own categories — *saṃskṛtam*, *śruti*, *apauruṣeya*, *vyākaraṇam*, *vaidika*, and *laukika* — the pyramid's account treated them as belief, not evidence.
+9. When the Sanskrit continuum preserved its own categories — संस्कृतम् (*saṃskṛtam*), श्रुति (*śruti*), अपौरुषेय (*apauruṣeya*), व्याकरणम् (*vyākaraṇam*), वैदिक (*vaidika*), and लौकिक (*laukika*) — the pyramid's account treated them as belief, not evidence.
 10. Every link in the chain is required because the first link must be preserved: Sanskrit cannot be the engineered calibrant at the center. It must be one member of the manufactured family of co-descended languages.
 11. The preceding chapters test every link against Sanskrit's complete architecture. Across sonomers, atoms, grammar, recitation, and transmission, each link depends upon the link before it rather than upon Sanskrit itself.
 
@@ -150,7 +150,7 @@ AIT was the crude form. AMT is the laundered form. **RAT is the thesis. PIE is t
 
 That is the migration trap.
 
-The early colonial formulation was explicit in its design: a conquering *ārya* race subjugating an indigenous *dāsa* population, a historical script that conveniently prefigured British rule. The modern iteration discards the discredited racial anthropology and the violent invasion narrative, yet fiercely guards the conclusion it inherited: Sanskrit still arrives in India as the property of an outside people.[NOTE: muller-eic-rigveda]
+The early colonial formulation was explicit in its design: a conquering आर्य (*ārya*) race subjugating an indigenous दास (*dāsa*) population, a historical script that conveniently prefigured British rule. The modern iteration discards the discredited racial anthropology and the violent invasion narrative, yet fiercely guards the conclusion it inherited: Sanskrit still arrives in India as the property of an outside people.[NOTE: muller-eic-rigveda]
 
 > The theft was never only historical. It was semantic first. Ārya was taken from discipline, learning, restraint, generosity, and achieved conduct, then remade as race, peoplehood, ancestry, and movement. Once that semantic theft was accepted, the historical theft could follow: Sanskrit became the speech-cargo of the invented people. The modern migration vocabulary softens the surface, but the two thefts remain joined.
 
@@ -226,13 +226,13 @@ Chapter 0 began at the cosmic scale. **असत् (*asat*)** existed before **
 
 This conflict existed before human beings. Humans inherited the capacity to align their actions with either order. Most people simply lived their lives, but the Vedas remembered the distinction through protagonists and antagonists whose actions demonstrate each architecture.
 
-Chapter 3 §3.6 followed that distinction through two Sanskrit words that share one sound-form. The life-bearing ***asu-ra*** protects, sustains, and releases. The radiance-opposing ***a-sura*** conceals, withholds, and contains. Sanskrit's generative architecture can produce both words, while **विवेक (*viveka*)** allows the listener to distinguish them through the actions described in the mantra. The asuric pyramid of the present age reproduces the cosmic pattern of *asat* by concentrating power, controlling access, and restricting what should circulate.
+Chapter 3 §3.6 followed that distinction through two Sanskrit words that share one sound-form. The life-bearing ***asu-ra*** protects, sustains, and releases. The radiance-opposing ***a-sura*** conceals, withholds, and contains. Sanskrit's generative architecture can produce both words, while **विवेक (*viveka*)** allows the listener to distinguish them through the actions described in the mantra. The asuric pyramid of the present age reproduces the cosmic pattern of असत् (*asat*) by concentrating power, controlling access, and restricting what should circulate.
 
 ### Radiance Without Ownership
 
-The Hindu continuum considers the *devāḥ* great because they recognized the track of *ṛta*. Among the many orders that reality could sustain, including the crooked orders created through *asat*, they aligned themselves with the path directed toward the welfare of all beings.
+The Hindu continuum considers the देवाः (*devāḥ*) great because they recognized the track of ऋत (*ṛta*). Among the many orders that reality could sustain, including the crooked orders created through असत् (*asat*), they aligned themselves with the path directed toward the welfare of all beings.
 
-Their greatness extends further. The continuum received the Vedas as **अपौरुषेय (*apauruṣeya*)**, without a human author who could claim ownership of their wisdom.[NOTE: apauruseya-mimamsa-sutra-1-1-5] This Atri interprets that absence of ownership as an expression of the same radiance. The *devāḥ* did not become great by demanding credit for the order. They became great by aligning themselves with it and allowing the order to remain greater than any personality.
+Their greatness extends further. The continuum received the Vedas as **अपौरुषेय (*apauruṣeya*)**, without a human author who could claim ownership of their wisdom.[NOTE: apauruseya-mimamsa-sutra-1-1-5] This Atri interprets that absence of ownership as an expression of the same radiance. The देवाः (*devāḥ*) did not become great by demanding credit for the order. They became great by aligning themselves with it and allowing the order to remain greater than any personality.
 
 Bṛhaspati's mantra describes how the wise formed Speech:
 
@@ -242,27 +242,27 @@ Bṛhaspati's mantra describes how the wise formed Speech:
 >
 > *There the wise formed Speech with the mind, refining it as grain is sifted through a sieve.* (RV 10.71.2)[NOTE: rigveda-10-71-2-sieve-vak]
 
-The human mouth can pronounce far more sounds than Sanskrit uses. Surveying the sounds recurring across the Indian subcontinent, identifying their anatomical relationships, and arranging them by place of articulation and effort required deliberate analysis. The engineering then selected the wider sound range needed within the bounded *vaidika* domain and promoted a smaller reusable set into the sonomer address grid available for unrestricted *laukika* generation. From those sonomers it built semantic atoms, and from those atoms it built a grammar capable of producing words and sentences for circumstances that no earlier composition could have listed.
+The human mouth can pronounce far more sounds than Sanskrit uses. Surveying the sounds recurring across the Indian subcontinent, identifying their anatomical relationships, and arranging them by place of articulation and effort required deliberate analysis. The engineering then selected the wider sound range needed within the bounded वैदिक (*vaidika*) domain and promoted a smaller reusable set into the sonomer address grid available for unrestricted लौकिक (*laukika*) generation. From those sonomers it built semantic atoms, and from those atoms it built a grammar capable of producing words and sentences for circumstances that no earlier composition could have listed.
 
 That is no small feat.
 
 Yet no founder placed a personal name above the architecture. No royal academy claimed ownership. No apex demanded that later speakers approach Sanskrit through its gate. The architecture entered the continuum as distributed knowledge and remained available across society to anyone willing to learn its discipline.
 
-The continuum calls Sanskrit **देवभाषा (*devabhāṣā*)**, the language of the *devāḥ*. This Atri sees the title as a description of both its purpose and its architecture. Sanskrit carries the radiant order that the *devāḥ* recognized, and it carries that order without installing a founder at the apex.
+The continuum calls Sanskrit **देवभाषा (*devabhāṣā*)**, the language of the *devāḥ*. This Atri sees the title as a description of both its purpose and its architecture. Sanskrit carries the radiant order that the देवाः (*devāḥ*) recognized, and it carries that order without installing a founder at the apex.
 
 ### The Perfect Conlang
 
 Chapter 0 introduced Sanskrit's two domains. Chapter 2 then placed languages inside a 2×2 matrix formed by origin and generativity. Sanskrit occupies the **Generative Architectures** quadrant: engineered origin combined with high generativity. In the literal modern sense, Sanskrit is the perfect conlang, a perfectly constructed language. The matrix also distinguishes it from Lexicon-Dependent Conlangs because Sanskrit does not depend upon an expanding list of inventor-approved words. Its sonomers, atoms, affixes, compounds, and grammatical relations allow speakers to generate what they need.
 
-The perfection reaches beyond linguistic rules. Sanskrit was engineered to carry *saṃskṛti*, and *saṃskṛti* gave generations of people a reason to protect the language. The architecture preserved knowledge of *ṛta*, the distinction between *sat* and *asat*, and the stories that teach people how to restore circulation when containment becomes powerful. The Samudra Manthan gives this task narrative form. The same ocean can release poison and nectar. *Viveka* distinguishes them, while disciplined action protects the *amṛta* and returns its radiance to the world.
+The perfection reaches beyond linguistic rules. Sanskrit was engineered to carry संस्कृति (*saṃskṛti*), and संस्कृति (*saṃskṛti*) gave generations of people a reason to protect the language. The architecture preserved knowledge of ऋत (*ṛta*), the distinction between सत् (*sat*) and असत् (*asat*), and the stories that teach people how to restore circulation when containment becomes powerful. The Samudra Manthan gives this task narrative form. The same ocean can release poison and nectar. *Viveka* distinguishes them, while disciplined action protects the अमृत (*amṛta*) and returns its radiance to the world.
 
 ### Two Enemies, Two Domains
 
-Chapter 6 identified two enemies Sanskrit had to withstand, and Chapter 16 explained the two-domain response. The first is entropy, which introduces small departures without deliberate intent. The second is attack by forces aligned with *asat*, who oppose Sanskrit because its distributed calibrant helps human beings recognize containment and resist it.
+Chapter 6 identified two enemies Sanskrit had to withstand, and Chapter 16 explained the two-domain response. The first is entropy, which introduces small departures without deliberate intent. The second is attack by forces aligned with असत् (*asat*), who oppose Sanskrit because its distributed calibrant helps human beings recognize containment and resist it.
 
-Anyone speculating about Sanskrit's origin must also explain why the language was built to survive both gradual entropy and deliberate attack. The design also had to keep Sanskrit available for new expression in every age so that *saṃskṛti* could respond to circumstances that no earlier composition had described.
+Anyone speculating about Sanskrit's origin must also explain why the language was built to survive both gradual entropy and deliberate attack. The design also had to keep Sanskrit available for new expression in every age so that संस्कृति (*saṃskṛti*) could respond to circumstances that no earlier composition had described.
 
-The Vedas became the distributed calibrant for both Sanskrit and *saṃskṛti*. Once the **ऋषयः (*ṛṣayaḥ*)** and **ऋषिकाः (*ṛṣikāḥ*)** saw the mantras, later generations received them as **श्रुति (*śruti*)**, that which is heard. The two domains then divided the responsibility. The read-only *vaidika* domain protected the received mantras from revision. The read-write *laukika* domain allowed every generation to apply the same architecture to its own world. People used it to compose poetry and stories, preserve mathematics and astronomy, debate philosophy, conduct trade, document manufacturing, and describe each changing age. Exact Vedic transmission kept the architecture available for calibration, while *laukika* composition kept Sanskrit useful in the world.
+The Vedas became the distributed calibrant for both Sanskrit and संस्कृति (*saṃskṛti*). Once the **ऋषयः (*ṛṣayaḥ*)** and **ऋषिकाः (*ṛṣikāḥ*)** saw the mantras, later generations received them as **श्रुति (*śruti*)**, that which is heard. The two domains then divided the responsibility. The read-only वैदिक (*vaidika*) domain protected the received mantras from revision. The read-write लौकिक (*laukika*) domain allowed every generation to apply the same architecture to its own world. People used it to compose poetry and stories, preserve mathematics and astronomy, debate philosophy, conduct trade, document manufacturing, and describe each changing age. Exact Vedic transmission kept the architecture available for calibration, while लौकिक (*laukika*) composition kept Sanskrit useful in the world.
 
 ### Vyāsa, the Pāṭhas, and Pāṇini
 
@@ -270,11 +270,11 @@ At the turn from Dvāpara to Kali, the Hindu continuum remembers Veda-Vyāsa arr
 
 The wider preservation architecture used eleven **पाठाः (*pāṭhāḥ*)**, five *prakṛti-pāṭhas* and six *vikṛti-pāṭhas*, to re-encode the same received sounds through different recitational arrangements, mutually checking paths through the same invariant content. Geographically separated lineages carried those paths through periods in which kingdoms fell, libraries burned, temples were destroyed, institutions disappeared, and the asuric pyramid repeatedly attacked the civilization.[NOTE: eleven-pathas]
 
-For thousands of years, the Vedas have remained the primary calibrant. Those responsible for recitation preserved every sound, pitch, duration, and sequence. Those responsible for *laukika* Sanskrit could return to the architecture the Vedas encoded whenever usage began to deviate from it.
+For thousands of years, the Vedas have remained the primary calibrant. Those responsible for recitation preserved every sound, pitch, duration, and sequence. Those responsible for लौकिक (*laukika*) Sanskrit could return to the architecture the Vedas encoded whenever usage began to deviate from it.
 
 Generations of **वैयाकरणाः (*vaiyākaraṇāḥ*)** decoded that architecture. Yāska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, the **प्रातिशाख्य (*Prātiśākhya*)** disciplines, the **शिक्षा (*Śikṣā*)** disciplines, and the wider pre-Pāṇinian grammatical continuum analyzed the language long before that documentation reached its most compressed form.
 
-As the age grew darker and the pressure of entropy increased, Pāṇini found an exceptionally efficient way to protect the *laukika* domain. He inherited the analytical tradition, decoded Sanskrit's existing grammar, and articulated its operations with unmatched precision. The *Aṣṭādhyāyī* compressed that architecture into a rule-system that students and teachers could apply directly to new *laukika* compositions. Pāṇini did not create Sanskrit. He gave the continuum its finest grammatical articulation.
+As the age grew darker and the pressure of entropy increased, Pāṇini found an exceptionally efficient way to protect the लौकिक (*laukika*) domain. He inherited the analytical tradition, decoded Sanskrit's existing grammar, and articulated its operations with unmatched precision. The *Aṣṭādhyāyī* compressed that architecture into a rule-system that students and teachers could apply directly to new लौकिक (*laukika*) compositions. Pāṇini did not create Sanskrit. He gave the continuum its finest grammatical articulation.
 
 ### The Architecture Identifies Its Civilizational Home
 
@@ -292,7 +292,7 @@ Sanskrit could become Sanskrit only within a civilization rooted in calibrant or
 
 ### What We Do Not Know
 
-The age darkened further. The Vedas remained protected, and Sanskrit remained protected, but the recognition of engineering became obscured. The asuric machinery could not destroy the architecture, so it changed the categories through which people saw it. It presented entropic drift as linguistic development, recast decoding as codification, and described calibration as standardization. It presented *vaidika* and *laukika* as successive stages in an invented chronology and placed Sanskrit on a family tree grown from an imaginary language spoken by imaginary people.
+The age darkened further. The Vedas remained protected, and Sanskrit remained protected, but the recognition of engineering became obscured. The asuric machinery could not destroy the architecture, so it changed the categories through which people saw it. It presented entropic drift as linguistic development, recast decoding as codification, and described calibration as standardization. It presented वैदिक (*vaidika*) and लौकिक (*laukika*) as successive stages in an invented chronology and placed Sanskrit on a family tree grown from an imaginary language spoken by imaginary people.
 
 Do we know whether this complete sequence describes how Sanskrit and its preservation architecture entered the human world?
 
@@ -300,11 +300,11 @@ Do we know whether this complete sequence describes how Sanskrit and its preserv
 
 We do not know the historical identities of the wise, when they engineered Sanskrit, when each mantra was seen, or how the architecture first entered human life. The title of this section states the epistemic status of the account. This Atri offers it as an honest speculation rather than laundering it into a chronology and demanding that everyone else call it settled history.
 
-What we do know remains available for examination. The Sanskrit that the continuum preserved already displays its engineering in full. Its architecture survives in the mouth, the sonomer address grid, the atoms, the bonding operations, the grammar, and the sentences. The Vedas preserve that architecture through pitch, meter, exact recitation, mutually checking *pāṭhas*, correction, and transmission lineages spread across regions. The Vedas also encode the other architectures of *saṃskṛti*. This book follows the linguistic architecture because it remains visible, audible, measurable, and testable.
+What we do know remains available for examination. The Sanskrit that the continuum preserved already displays its engineering in full. Its architecture survives in the mouth, the sonomer address grid, the atoms, the bonding operations, the grammar, and the sentences. The Vedas preserve that architecture through pitch, meter, exact recitation, mutually checking पाठाः (*pāṭhāḥ*), correction, and transmission lineages spread across regions. The Vedas also encode the other architectures of संस्कृति (*saṃskṛti*). This book follows the linguistic architecture because it remains visible, audible, measurable, and testable.
 
 The evidence does not reveal the engineers' biographies. It reveals what they built.
 
-> **The wise formed *vāc*. The seers saw. The lineage heard. The *vaiyākaraṇāḥ* decoded. Pāṇini articulated. The Vedas remain the calibrant for Sanskrit and *saṃskṛti*.**
+> **The wise formed वाक् (*vāc*). The seers saw. The lineage heard. The वैयाकरणाः (*vaiyākaraṇāḥ*) decoded. Pāṇini articulated. The Vedas remain the calibrant for Sanskrit and संस्कृति (*saṃskṛti*).**
 
 ## 18.8 Pāṇini Praised, Architecture Erased
 
@@ -313,9 +313,9 @@ The two speculations are mirror inversions.
 ![Figure 18.2 — Two accounts of Sanskrit. The pyramid arranges the domains as a chronology of linguistic descent; the engineering thesis treats them as complementary domains joined by calibration.](figures/wrong_question/two_accounts_of_sanskrit.svg){#fig:ch18-two-accounts width=100%}
 
 
-The figure changes Pāṇini's place without diminishing his achievement. The Vedas preserved the architecture; generations of *vaiyākaraṇāḥ* decoded it; Pāṇini articulated its operations with unmatched precision. Chapter 13 §13.5 explains how the *Aṣṭādhyāyī* made those operations directly available to students and teachers.
+The figure changes Pāṇini's place without diminishing his achievement. The Vedas preserved the architecture; generations of वैयाकरणाः (*vaiyākaraṇāḥ*) decoded it; Pāṇini articulated its operations with unmatched precision. Chapter 13 §13.5 explains how the *Aṣṭādhyāyī* made those operations directly available to students and teachers.
 
-By imposing a chronology on the two domains, the *progressive dogma* treats Vedic as primitive, Classical as refined, Pāṇini as inventor, laukika Sanskrit as a descendant, and *apabhraṃśa* as a stage in descent rather than the tendency the calibrant corrects. The doctrine requires this inversion; it is not a stylistic choice. These are structural opposites. The descent thesis makes Sanskrit the result of linguistic change; the engineering thesis explains it as a constructed and calibrated architecture.
+By imposing a chronology on the two domains, the *progressive dogma* treats Vedic as primitive, Classical as refined, Pāṇini as inventor, लौकिक (*laukika*) Sanskrit as a descendant, and अपभ्रंशः (*apabhraṃśa*) as a stage in descent rather than the tendency the calibrant corrects. The doctrine requires this inversion; it is not a stylistic choice. These are structural opposites. The descent thesis makes Sanskrit the result of linguistic change; the engineering thesis explains it as a constructed and calibrated architecture.
 
 This is the *heroic-erasure* move described in Chapter 1 §1.6 and Chapter 13 §13.3. The pyramid celebrates Pāṇini as the codifier of Sanskrit so that readers overlook the engineering he inherited and decoded. It uses admiration for Pāṇini to turn civilizational memory toward the codification myth and away from the Vedic calibrant.
 

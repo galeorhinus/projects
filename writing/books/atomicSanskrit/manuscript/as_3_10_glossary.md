@@ -250,7 +250,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 **Standard (Patañjali's distinction), book-elevated.** *Siddha* — established, accomplished, the engineered form that stands. *Kārya* — that which is being produced or made; the ongoing variants. Patañjali's *Mahābhāṣya* uses the pair to distinguish the engineered word (*siddha*) from the variants ordinary usage produces. The book restores this distinction as the structural opposite of the dogma's *drift* framing: the *siddha* is what remains established; *kārya* denotes the variation the architecture tolerates without ever becoming the architecture's substance. The architecture is *siddha*; everything else is *kārya*. Chapter 1 §1.7 deploys; Chapter 4 develops in full.
 
-### **apabhraṃśa** (अपभ्रंश) / **apabhraṃśāḥ** (अपभ्रंशाः)
+### **apabhraṃśa** (अपभ्रंशः) / **apabhraṃśāḥ** (अपभ्रंशाः)
 
 **Standard, book-elevated.** *Falling-away*; decay-variant; entropy-product. The lineage vocabulary for what deviates from the *siddha* form. Patañjali's *Mahābhāṣya* labels it explicitly; the lineage recognizes *apabhraṃśa* as the natural product of ordinary speech that the calibration architecture is designed to refuse. The dogma recodes *apabhraṃśa* as Sanskrit's nature; the architecture treats *apabhraṃśa* as exactly the entropy the engineering is built against. The Preface introduces it; Chapter 6 develops it; the *gauḥ → gāvī / goṇī / gotā* example anchors the concept concretely.
 

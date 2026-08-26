@@ -56,7 +56,7 @@ Writing did not meet that test.
 
 ## 13.3 Why Writing Was Insufficient
 
-**लीपि (*lipi*)** is writing: linguistic content fixed in visible glyphs.
+**लिपि (*lipi*)** is writing: linguistic content fixed in visible glyphs.
 
 The civilization knew writing and used it through Brāhmī, Devanagari, the southern scripts, and their regional descendants and adaptations — all forms of *lipi*. The decision not to entrust the *Vedas* to writing was not ignorance of writing. It was engineering judgment.
 
