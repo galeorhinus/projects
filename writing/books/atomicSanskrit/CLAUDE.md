@@ -260,16 +260,21 @@ literally the subject.
 
 **When the pyramid's terms appear in the book's own prose**, scare-quote on attribution (*the pyramid's "Classical Sanskrit"*); never use *Classical Sanskrit* unquoted as the book's own naming. The exception is Ch 1 §1.1 Move 7, where the pyramid's *"Vedic / Classical"* naming is quoted as the position the reader has already been taught — and then dismantled. The Preface terminology note + Ch 1 §1.1 Move 7 are the canonical deployments of this convention; Ch 5 §5.6, Ch 14, Ch 17 §17.8, and Appendix Part 7 develop it.
 
-### Sanskrit typography — Devanagari as anchor, not wallpaper
+### Sanskrit typography — Devanagari leads, IAST follows
 
-Use Devanagari to anchor terms at installation points. Do not make every Sanskrit term a bold Devanagari display.
+**Governing policy:** `working/40_reference/workflows/sanskrit_devanagari_iast_typography_policy.md`. Read it before formatting any Sanskrit term in the manuscript; what follows is the compressed version, adopted 2026-08-26, superseding any earlier anchor-then-IAST-alone convention.
 
-1. **Source passages.** Epigraphs, mantras, sūtras, and quoted śāstric passages use Devanagari + IAST + translation.
-2. **Load-bearing first use.** Major Sanskrit categories use Devanagari + IAST + gloss on first use in a chapter when the reader needs the anchor: **धातुः (*dhātuḥ*)** — semantic atom; **अक्षरम् (*akṣaram*)** — imperishable sound-unit.
-3. **Running prose.** After the first anchor, use IAST alone: *dhātuḥ*, *akṣara*, *chandas*, *bhāṣā*, *vaidika*, *laukika*. Do not repeat Devanagari unless the written form itself matters.
-4. **Bold.** Reserve bold Devanagari for installation moments, tables, figures, established refrains, and terms being defined. Ordinary Devanagari does not need bold.
-5. **Familiar names.** Sanskrit, Veda/Vedas, Pāṇini, Gītā, Upaniṣad, and similar names use their normal English-facing forms unless the form itself is under analysis.
-6. **Figures.** Diagrams may make Devanagari primary; captions can carry IAST and glosses.
+Devanagari is the primary written form of Sanskrit in this book. IAST lets a reader who cannot read Devanagari pronounce and identify the same word. An ordinary Sanskrit technical term in reader-facing prose therefore appears as **Devanagari followed by italic IAST in parentheses on every occurrence** — not only at first use:
+
+> Each धातुः (*dhātuḥ*) carries a stable semantic capacity.
+
+Use regular weight for both forms; do not bold every Sanskrit term. Reserve bold for a genuine definition, a major installation moment, or emphasis the surrounding English would also receive. Never attach an English possessive, plural, or other inflection to either script — rewrite the English around the pair (*the role of dhātuḥ*, not *dhātuḥ's role*).
+
+**This is a different operation from binding a Sanskrit term to its English gloss.** Pairing Devanagari with IAST (धातुः / *dhātuḥ*) is script-pairing for pronunciation access, done on every occurrence. Pairing a Sanskrit term with its English equivalent (*dhātuḥ* — semantic atom, *dhātuḥ* ↔ atom) is the identity-statement governed by Displacement coinage below, which keeps its 3–6-per-chapter rhythm and stands solo between those moments. Do not conflate the two: the Devanagari-IAST pair does not count against the displacement rhythm, and dropping the English gloss between identity statements does not mean dropping the Devanagari.
+
+Familiar English-facing names — Sanskrit, Veda/Vedas, Pāṇini, Gītā, Upaniṣad, and similar — keep their normal form and do not require Devanagari on every occurrence, unless the written form, pronunciation, or derivation of the name itself becomes the evidence under discussion.
+
+Figures may make Devanagari primary; a caption, legend, or nearby explanation must keep the figure accessible to a reader who relies on IAST. The full policy also covers source-passage quotation, derivations and paradigm tables treated as data, and scaffold-icon deployment.
 
 ### Sanskrit grammar terms — name both systems
 
@@ -277,41 +282,41 @@ When using English grammatical terminology (case names, mood / tense names, numb
 
 **Cases — vibhakti (विभक्ति) pairings:**
 
-| English | Sanskrit | Devanagari |
+| English | Devanagari | IAST |
 |---|---|---|
-| Nominative | *prathamā vibhakti* (first case) | प्रथमा विभक्ति |
-| Accusative | *dvitīyā vibhakti* (second case) | द्वितीया विभक्ति |
-| Instrumental | *tṛtīyā vibhakti* (third case) | तृतीया विभक्ति |
-| Dative | *caturthī vibhakti* (fourth case) | चतुर्थी विभक्ति |
-| Ablative | *pañcamī vibhakti* (fifth case) | पञ्चमी विभक्ति |
-| Genitive | *ṣaṣṭhī vibhakti* (sixth case) | षष्ठी विभक्ति |
-| Locative | *saptamī vibhakti* (seventh case) | सप्तमी विभक्ति |
-| Vocative | *sambodhana* | सम्बोधन |
+| Nominative | प्रथमा विभक्ति | *prathamā vibhakti* (first case) |
+| Accusative | द्वितीया विभक्ति | *dvitīyā vibhakti* (second case) |
+| Instrumental | तृतीया विभक्ति | *tṛtīyā vibhakti* (third case) |
+| Dative | चतुर्थी विभक्ति | *caturthī vibhakti* (fourth case) |
+| Ablative | पञ्चमी विभक्ति | *pañcamī vibhakti* (fifth case) |
+| Genitive | षष्ठी विभक्ति | *ṣaṣṭhī vibhakti* (sixth case) |
+| Locative | सप्तमी विभक्ति | *saptamī vibhakti* (seventh case) |
+| Vocative | सम्बोधन | *sambodhana* |
 
 **Tenses / moods — lakāra (लकार) pairings (Pāṇini's ten lakāras):**
 
-| English | Sanskrit | Devanagari |
+| English | Devanagari | IAST |
 |---|---|---|
-| Present indicative | *laṭ* | लट् |
-| Perfect | *liṭ* | लिट् |
-| Periphrastic future | *luṭ* | लुट् |
-| Simple future | *lṛṭ* | लृट् |
-| Vedic subjunctive *(chandasi only)* | *leṭ* | लेट् |
-| Imperative | *loṭ* | लोट् |
-| Imperfect (past) | *laṅ* | लङ् |
-| Optative / potential | *liṅ* | लिङ् |
-| Aorist | *luṅ* | लुङ् |
-| Conditional | *lṛṅ* | लृङ् |
+| Present indicative | लट् | *laṭ* |
+| Perfect | लिट् | *liṭ* |
+| Periphrastic future | लुट् | *luṭ* |
+| Simple future | लृट् | *lṛṭ* |
+| Vedic subjunctive *(chandasi only)* | लेट् | *leṭ* |
+| Imperative | लोट् | *loṭ* |
+| Imperfect (past) | लङ् | *laṅ* |
+| Optative / potential | लिङ् | *liṅ* |
+| Aorist | लुङ् | *luṅ* |
+| Conditional | लृङ् | *lṛṅ* |
 
 **Number — vacana (वचन) pairings:**
 
-| English | Sanskrit | Devanagari |
+| English | Devanagari | IAST |
 |---|---|---|
-| Singular | *ekavacana* | एकवचन |
-| Dual | *dvivacana* | द्विवचन |
-| Plural | *bahuvacana* | बहुवचन |
+| Singular | एकवचन | *ekavacana* |
+| Dual | द्विवचन | *dvivacana* |
+| Plural | बहुवचन | *bahuvacana* |
 
-**Deployment pattern:** first use in a chapter or section names both — for example, "the accusative (*dvitīyā vibhakti* द्वितीया विभक्ति)." Subsequent uses can use either form. Where the Sanskrit term is itself load-bearing (a *lakāra* name in a *chandasi* / *bhāṣāyām* contrast, for example), prefer the Sanskrit + English pair on every deployment, but do not force Devanagari onto every repetition. Examples of pairing: *the accusative (dvitīyā vibhakti)*; *the optative (liṅ-lakāra)*; *the Vedic subjunctive (leṭ-lakāra, deployed only in chandasi)*; *the dual (dvivacana)*.
+**Deployment pattern:** first use in a chapter or section names both — for example, "the accusative (द्वितीया विभक्ति *dvitīyā vibhakti*)." The Sanskrit form always pairs Devanagari with IAST; later mentions drop the English gloss, not the Devanagari. Where the Sanskrit term is itself load-bearing (a *lakāra* name in a *chandasi* / *bhāṣāyām* contrast, for example), prefer the Sanskrit + English pair on every deployment. Examples of pairing: *the accusative (द्वितीया विभक्ति dvitīyā vibhakti)*; *the optative (लिङ्लकार liṅ-lakāra)*; *the Vedic subjunctive (लेट्लकार leṭ-lakāra, deployed only in chandasi)*; *the dual (द्विवचन dvivacana)*.
 
 ### Plain English primary; Sanskrit anchor when useful
 
@@ -371,18 +376,20 @@ The alternation rules above cover **binding** — welding the Sanskrit and Engli
 
 **Scaffold-icon deployment in body text.** The ten *dhāturacanā* scaffolds carry an icon family (`figures/_shared/icons/scaffold_<slug>_<color>.svg`) that lets the prose visualize the shape inline. Two forms ship: **gray** (`_gray.svg` / `#888888`) is the default — for both body-text inline use AND chart Y-axis labels that sit alongside gray-toned bars or marks. **Black** (`_black.svg` / `#1a1a1a`) is reserved for the rare cases where the icon stands isolated against a white background and needs heavier ink to read at small size. The default-gray rule keeps the icon integrated with the chart's monochrome palette instead of competing with the data layer.
 
-The icon is a third form of the scaffold-vocabulary, alongside the structural shorthand (*CV1C*, *CCV1C*, *CV2C*, …) and the Pāṇinian *-ādi* Sanskrit name (*gamādi*, *krādi*, *dhādi*, …). Order: **name first, icon second** — same pattern as the IAST + Devanāgarī script-pairing the book already uses (*kṛ* (कृ)). The name carries the grammatical role; the icon is the visual reinforcement, not a substitute.
+The icon is a third form of the scaffold-vocabulary, alongside the structural shorthand (*CV1C*, *CCV1C*, *CV2C*, …) and the Pāṇinian *-ādi* Sanskrit name (*gamādi*, *krādi*, *dhādi*, …). Order: **name first, icon second** — same pattern as the Devanāgarī + IAST script-pairing the book already uses (कृ (*kṛ*)). The name carries the grammatical role; the icon is the visual reinforcement, not a substitute.
 
 | Use case | Form | Example |
 |---|---|---|
 | First-use anchor in chapter | structural shorthand + icon, then *-ādi* Sanskrit name with Devanāgarī + IAST | `… — **CV1C** <icon>. … the **गमादि रचना (*gamādi racanā*)** — the *gamādi* scaffold.` |
-| Subsequent prose, *-ādi* name | IAST + icon (workhorse) | `the *gamādi* <icon> accounts for **819 entries — 37.78%**` |
+| Subsequent prose, *-ādi* name | Devanāgarī + IAST, no icon (ordinary prose per the typography policy) | `the गमादि (*gamādi*) accounts for **819 entries — 37.78%**` |
 | Section-opening re-anchor (when scaffold is the section's subject) | Devanāgarī + IAST + icon | `the **गमादि (*gamādi*)** <icon> remains the central corridor` |
 | First-use of a new *-ādi* name | Devanāgarī + IAST + icon | `the compact **क्रादि (*krādi*)** <icon> and **धादि (*dhādi*)** <icon>` |
 | Enumeration / list | structural shorthand + icon | `**CV1C** <icon>, **CCV1C** <icon>, **CV1CC** <icon>, **CV2C** <icon>` |
 | Pure visual anchor | icon alone | inside figures, chart labels, captions, tight cells |
 
-**Drop "scaffold" when the icon does that work.** Once the icon-name binding is established, `*gamādi* <icon>` already names *the gamādi scaffold* — appending "scaffold" is redundant. Use the bare name + icon and let the visual carry the qualifier. Keep "scaffold" only where the word does grammatical lifting the icon alone cannot (e.g., abstract definitions: *"the scaffold specifies the slots"*).
+The icon persists in body prose only at an installation moment — a first-use anchor, a section re-anchor, or the first appearance of a new *-ādi* name — the same places a figure would introduce icon + full pair in its key. Ordinary running prose after that carries the full Devanāgarī + IAST pair with no icon at all, per the typography policy above; the icon returns without the words only inside an already-keyed figure, table, or enumeration, where the key remains available.
+
+**Drop "scaffold" when the name or icon already does that work.** Inside a figure or keyed table, once the icon-name binding is established, `<icon>` alone already identifies *the gamādi scaffold* — a repeated cell or caption need not append "scaffold." In ordinary body prose, the full pair `गमादि (*gamādi*)` already carries that identity without an icon; drop "scaffold" there too once the deployment pattern above has established which *-ādi* name is meant. Keep "scaffold" only where the word does grammatical lifting the name or icon alone cannot (e.g., abstract definitions: *"the scaffold specifies the slots"*).
 
 **Markdown form.** The inline icon is raw HTML: `<img src="figures/_shared/icons/scaffold_<slug>_gray.svg" style="height:1em;vertical-align:-0.2em" alt="<NAME> scaffold">`. The `height:1em` matches the surrounding x-height; the `vertical-align:-0.2em` drops the baseline so the icon centers on the line. Alt text is the structural shorthand + the word "scaffold" — same in every deployment, so screen readers and the pandoc fallback render the shape's name when the SVG is unavailable.
 
