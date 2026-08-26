@@ -65,14 +65,18 @@ The test is functional: if the sentence describes what the text actually does fo
 
 ## Sanskrit Term Typography
 
-Use Devanagari as an anchor, not as wallpaper.
+The governing policy is
+`working/40_reference/workflows/sanskrit_devanagari_iast_typography_policy.md`.
 
-1. **Source passages:** epigraphs, mantras, sūtras, and quoted śāstric passages use Devanagari + IAST + translation.
-2. **Load-bearing first use:** major Sanskrit categories use Devanagari + IAST + a short gloss on first use in a chapter when the reader needs the anchor: **धातुः (*dhātuḥ*)** — semantic atom.
-3. **Running prose:** after first use, use IAST alone: *dhātuḥ*, *akṣara*, *chandas*, *bhāṣā*. Do not repeat Devanagari every time.
-4. **Bold:** reserve bold Devanagari for installation moments, tables, figures, established refrains, and terms being defined. Ordinary Devanagari does not need bold.
-5. **Familiar names:** Sanskrit, Veda/Vedas, Pāṇini, Gītā, Upaniṣad, and similar names use their normal English-facing forms unless the written form itself matters.
-6. **Figures:** diagrams may make Devanagari primary; captions can carry IAST and glosses.
+Its default rule is simple: Devanagari leads and italic IAST follows in ordinary
+reader-facing prose. Use regular weight unless the term is genuinely being
+defined or emphasized. Place English grammar around the paired Sanskrit form;
+never attach English possessives or plurals directly to Devanagari or IAST.
+
+Source passages, displayed linguistic data, familiar names, citations, dense
+figures, and established graphical notation follow the scoped exceptions in
+the governing policy. Those exceptions preserve accessibility without turning
+every derivation, table cell, or scaffold icon into a three-part label.
 
 ## Preferred Sentence Pattern
 
