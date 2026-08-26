@@ -28,6 +28,8 @@ At first, the claim appears credible. Arabic went through a codification process
 
 Another Indian language also received a comprehensive grammar. The ***Tolkāppiyam*** documents Tamil sounds, writing, word formation, sentence construction, meaning, literary composition, and poetics. If codification stopped Sanskrit and Formal Arabic from drifting, such a comprehensive grammar should have held Tamil in place as well.[NOTE: tolkappiyam-grammar-and-tamil-change]
 
+The word *codification* places the ***Aṣṭādhyāyī*** and the ***Tolkāppiyam*** in the same category as Arabic and Latin grammars. All four document language. That resemblance hides a more important difference: the architecture of order surrounding each document. Who kept the documented form in place? Did an institution stand above the language and enforce it, or did the document enter a wider tradition of teaching, commentary, and distributed custodianship?
+
 Three questions test that narrative.
 
 > How was Formal Arabic's codification implemented, and why did the Arabic spoken at home continue changing until some forms became mutually unintelligible?
@@ -42,9 +44,9 @@ Pāṇini’s contribution to Sanskrit is extraordinary. These comparisons place
 
 They remain a distributed calibrant for Sanskrit's sounds and grammar. They also encode foundational architectures of ***संस्कृति (*saṃskṛti*)***, including the distinctions between ***सत् (*sat*)*** and ***असत् (*asat*)*** and the created order of ***ऋत (*ṛta*)***. This volume begins with the linguistic architecture because Sanskrit allows the calibrant relationship to be examined in full.
 
-## 2.2 Why Formal Arabic Remained Stable and Tamil Changed
+## 2.2 Four Documents, Two Architectures
 
-### How Formal Arabic Was Held in Place
+### Authority Above the Language
 
 Formal Arabic was held in place by authority. Grammar formed only one part of that structure.
 
@@ -58,15 +60,25 @@ These authorities controlled the text, recitation, formal usage, and education p
 
 **The pyramid loves authority. This is how it achieves invariance: codification enforced by religious and political power.**
 
+Latin confirms the pattern. Roman grammarians taught correct Latin through approved authors, while schools and imperial administration rewarded mastery of that form. The Church later preserved Latin through liturgy, manuscript copying, and education. The guarded language remained available while the Latin spoken across society continued changing into the Romance languages.[NOTE: petrified-bounded-forms]
+
+Formal Arabic and Latin therefore preserved selected forms through institutions that possessed power over education, texts, recitation, office, or worship. The authority did not stop speech from changing outside the protected boundary. It kept one form available by placing institutional force behind it.
+
+### Documentation Within Society
+
+Sanskrit and Tamil preserved grammatical knowledge through a different architecture of order. Teachers and commentators explained the ***Aṣṭādhyāyī*** and the ***Tolkāppiyam***. Manuscript custodians copied them, while temples, *maṭhas*, families, and other places of learning kept their knowledge in circulation. No continuing central institution owned either language or issued every acceptable sentence. The documents gained authority because people studied, taught, tested, and preserved them, not because an apex licensed their use.[NOTE: tamil-sanskrit-distributed-grammar]
+
+This relationship binds Sanskrit and Tamil to the Indian subcontinent. Both traditions placed grammatical knowledge within society instead of placing an enforcing authority above it. Their languages did not need to share the same design or the same later history for that architecture of order to remain recognizable.
+
 ### What Happened to Tamil?
 
 The *Tolkāppiyam* preserved a detailed account of Tamil, but Tamil continued changing. Linguists distinguish Old Tamil, Middle Tamil, and Modern Tamil because pronunciation, grammar, and vocabulary moved across generations. A present-day Tamil speaker may recognize words and phrases in a Sangam poem but still need commentary or a modern Tamil explanation, much as a Marathi speaker unfamiliar with **ज्ञानेश्वरी (*Jñāneśvarī*)** may recognize its Marathi while needing help to understand the passage.[NOTE: tolkappiyam-grammar-and-tamil-change]
 
 Later Tamil readers faced two barriers. Tamil itself had changed, and many Sangam works had passed out of wide circulation. Hindu *maṭhas*, temple institutions, and private custodians preserved the palm-leaf manuscripts. During the nineteenth century, Tamil scholars recovered those manuscripts and published the works for a wider Tamil readership. The ***Kalittokai*** returned to print in 1887, the ***Pattuppāṭṭu*** in 1889, and more Sangam works followed.[NOTE: sangam-corpus-nineteenth-century-recovery]
 
-Tamil demonstrates what codification can and cannot do. The *Tolkāppiyam* preserved grammatical knowledge and gave later scholars access to earlier Tamil. It did not stop the language spoken by successive generations from changing.
+Tamil demonstrates what documentation can and cannot do. The *Tolkāppiyam* preserved grammatical knowledge and gave later scholars access to earlier Tamil. It did not stop the language spoken by successive generations from changing.
 
-Formal Arabic remained stable because authority guarded it. Tamil changed because codification alone was not enough. Sanskrit remained invariant without placing a caliph, king, ministry, or academy above the language. Sanskrit therefore has a distinct purpose and an architecture built to sustain it. The chapters that follow dissect that purpose and the architectural elements that have kept Sanskrit invariant.
+Tamil's later change answers the question about drift. The architecture through which its grammatical knowledge survived answers a different question about order. Tamil and Sanskrit both preserve knowledge through distributed custodianship rather than an enforcing apex. Sanskrit joins that subcontinental architecture to a distinctive two-domain design: the Vedas remain the invariant calibrant, while the *laukika* domain remains open to new expression. The chapters that follow examine that design and the purpose it serves.
 
 ## 2.3 Four Language Categories
 

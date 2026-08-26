@@ -1630,11 +1630,9 @@ The note anchors the lineage claim. The Sanskrit discipline does not introduce g
 
 ### `modern-sanskrit-lineage-roles`
 
-**Short:** The Preface's modern-lineage sentence is a role-map, not a bibliography. Each figure represents a different modern continuation of the Sanskrit-side position under colonial and post-colonial institutional pressure.
+**Short:** Modern Sanskrit-side scholarship preserved distinct parts of the inheritance under colonial and post-colonial institutional pressure: Vedic precision, symbolic architecture, Sanskrit pedagogy, structural analysis, interpretation from within the Hindu continuum, and direct institutional resistance.
 
-**Status:** Parked — the 2026-08-25 Preface/Prologue restructure removed the modern-advocates role-map from the front matter body (plan: "retain in an endnote or a later historiographic section"). Six endnotes cite this one as their source anchor (aurobindo-kapali-sastry-mishra-vedic-lineage, dayananda-rgvedadi-bhashya, kak-vedic-structural-architecture, kapoor-text-and-interpretation, malhotra-battle-for-sanskrit-pollock-prosecution, ojha-vedic-architecture-corpus); those became orphaned by the same cut and need the same decision — redeploy this material somewhere, or retire all seven together.
-
-**Deployment:** No current body deployment (formerly Preface — "Lineage and Method," retired 2026-08-25).
+**Deployment:** Chapter 20 §20.4 — acknowledgment that Wave 3 did not begin with this book. The six supporting source entries are `dayananda-rgvedadi-bhashya`, `aurobindo-kapali-sastry-mishra-vedic-lineage`, `ojha-vedic-architecture-corpus`, `kak-vedic-structural-architecture`, `kapoor-text-and-interpretation`, and `malhotra-battle-for-sanskrit-pollock-prosecution`.
 
 Maharṣi Dayānanda Saraswatī reasserted Vedic Sanskrit as systematic, precise, knowledge-bearing language inside the colonial period rather than accepting the reduction of the Veda to primitive poetry. Sri Aurobindo treated the Vedic hymns as symbolic and spiritual architecture rather than nature-poetry. T. V. Kapali Sastry extended that line through detailed Vedic commentary. Sampadananda Mishra extends that line into contemporary Sanskrit pedagogy, Vedic interpretation, speech, and sound-practice.
 
@@ -1648,7 +1646,9 @@ The list is selective. The point is not to imply that the architectural route be
 
 **Short:** Maharṣi Dayānanda Saraswatī's *Ṛgvedādi-bhāṣya-bhūmikā* and *Satyārth Prakāś* stand in the modern Position-1 lineage: Vedic Sanskrit is treated as systematic, precise, knowledge-bearing, and anterior to the later philological reduction.
 
-**Deployments:** Preface — "Lineage and Method"; source anchor for `modern-sanskrit-lineage-roles`.
+**Status:** Supporting source entry; no separate body marker.
+
+**Deployments:** Supports `modern-sanskrit-lineage-roles` at Chapter 20 §20.4.
 
 Dayānanda's Vedic account is not a minor apologetic gesture inside the colonial frame. It is a modern reassertion of the older Sanskrit-side premise: the Veda is a knowledge-bearing corpus whose language is precise enough to preserve that knowledge. The final bibliography should cite the selected editions of *Ṛgvedādi-bhāṣya-bhūmikā* and *Satyārth Prakāś* used in production.
 
@@ -1658,7 +1658,9 @@ Dayānanda's Vedic account is not a minor apologetic gesture inside the colonial
 
 **Short:** Sri Aurobindo's *The Secret of the Veda*, T. V. Kapali Sastry's Vedic exegesis, and Sampadananda Mishra's Sanskrit and Vedic pedagogy form a continuous modern line that treats the Vedic hymns as precise symbolic architecture rather than primitive nature-poetry.
 
-**Deployments:** Preface — "Lineage and Method"; source anchor for `modern-sanskrit-lineage-roles`.
+**Status:** Supporting source entry; no separate body marker.
+
+**Deployments:** Supports `modern-sanskrit-lineage-roles` at Chapter 20 §20.4.
 
 Sri Aurobindo's *The Secret of the Veda* and *Hymns to the Mystic Fire* treat the Vedic corpus as systematic spiritual psychology encoded in symbolic language. T. V. Kapali Sastry extended that line through detailed Vedic commentary, including *Lights on the Veda*. Sampadananda Mishra extends the same line into contemporary Sanskrit pedagogy, Vedic interpretation, speech, and sound-practice. In the language of this book, Mishra is a Wave 3 *ṛṣi*: a modern carrier of seeing whose life's work keeps Sanskrit active as speech, discipline, and Vedic inheritance. Standard references: Sri Aurobindo, *The Secret of the Veda* and *Hymns to the Mystic Fire*; T. V. Kapali Sastry, *Lights on the Veda*; selected publications and lectures by Sampadananda Mishra through the Sri Aurobindo Society / Ashram ecosystem.
 
@@ -1668,7 +1670,9 @@ Sri Aurobindo's *The Secret of the Veda* and *Hymns to the Mystic Fire* treat th
 
 **Short:** Pandit Madhusudan Ojha's large Sanskrit corpus belongs to the modern Position-1 lineage because it treats Vedic knowledge as a highly organized architecture rather than a primitive poetic residue.
 
-**Deployments:** Preface — "Lineage and Method"; source anchor for `modern-sanskrit-lineage-roles`.
+**Status:** Supporting source entry; no separate body marker.
+
+**Deployments:** Supports `modern-sanskrit-lineage-roles` at Chapter 20 §20.4.
 
 Ojha's body of work is large, much of it composed in Sanskrit and associated with the Jaipur intellectual world. The lineage sentence places him as a witness to Sanskrit-composed modern Vedic architecture rather than attempting a survey. Final citation should identify the specific Ojha works consulted for production and distinguish published editions from manuscript or catalogue references.
 
@@ -1678,7 +1682,9 @@ Ojha's body of work is large, much of it composed in Sanskrit and associated wit
 
 **Short:** Subhash Kak's *The Astronomical Code of the Rgveda*, *The Architecture of Knowledge*, and related work argue for structural, numerical, astronomical, and information-theoretic organization across the Vedic corpus.
 
-**Deployments:** Preface — "Lineage and Method"; source anchor for `modern-sanskrit-lineage-roles`.
+**Status:** Supporting source entry; no separate body marker.
+
+**Deployments:** Supports `modern-sanskrit-lineage-roles` at Chapter 20 §20.4.
 
 Kak's role here is the Vedic-structural claim, not merely the narrower Pāṇinian-algorithmic claim. His work helps establish the Vedic corpus as deliberate architecture: ordered, numerically patterned, and information-bearing. Standard references: Subhash Kak, *The Astronomical Code of the Rgveda* (1994; revised editions), *The Architecture of Knowledge* (2004), and related essays on Vedic structure and Indic science.
 
@@ -1688,7 +1694,9 @@ Kak's role here is the Vedic-structural claim, not merely the narrower Pāṇini
 
 **Short:** Kapil Kapoor's work develops Sanskrit interpretation from inside the Hindu continuum and the Sanskrit intellectual disciplines, rather than from the external philological frame.
 
-**Deployments:** Preface — "Lineage and Method"; source anchor for `modern-sanskrit-lineage-roles`.
+**Status:** Supporting source entry; no separate body marker.
+
+**Deployments:** Supports `modern-sanskrit-lineage-roles` at Chapter 20 §20.4.
 
 Kapoor's *Text and Interpretation: The Indian Tradition* and related Sanskrit Texts Through the Ages work develop a Sanskrit-side account of textuality, interpretation, and knowledge transmission. His role in the lineage sentence is the structural-philosophical depth of Sanskrit from inside the Hindu continuum.
 
@@ -1698,7 +1706,9 @@ Kapoor's *Text and Interpretation: The Indian Tradition* and related Sanskrit Te
 
 **Short:** Rajiv Malhotra's *The Battle for Sanskrit* and Swadeshi Indology work prosecute the institutional battle around Sanskrit directly, especially the Pollock / cosmopolis frame.
 
-**Deployments:** Preface — "Lineage and Method"; endnote cross-reference for `pollock-sanskrit-cosmopolis-position-3`; source anchor for `modern-sanskrit-lineage-roles`.
+**Status:** Supporting source entry; no separate body marker.
+
+**Deployments:** Supports `modern-sanskrit-lineage-roles` at Chapter 20 §20.4 and cross-references `pollock-sanskrit-cosmopolis-position-3`.
 
 Malhotra leads the public and institutional battle over Sanskrit. The architectural route here does not duplicate that prosecution; it shows Sanskrit as engineered, calibrated, anti-entropic architecture. Malhotra's work remains the standing Indic-side reference for the direct institutional confrontation with Pollock's Position-3 frame.
 
@@ -5642,6 +5652,20 @@ The three major divisions of the *Tolkāppiyam* are conventionally described as 
 Tamil's later history demonstrates the chapter's point. Grammatical documentation preserved an account of the language and made earlier forms available for study. It did not prevent Tamil pronunciation, grammar, syntax, and vocabulary from changing through community use. Modern readers learn Classical Tamil and the conventions of Sangam literature through study rather than receiving every earlier form unchanged in daily speech. Individual words and passages remain recognizable; the claim is not that every line is absolutely unintelligible to every present-day Tamil speaker.
 
 Sources: INFLIBNET, [“Tholkappiyar: Tholkappiyam”](https://ebooks.inflibnet.ac.in/engp11/chapter/tholkappiyar-tholkappiyam/), for the work's scope and three divisions; University of Texas at Austin, [Tamil Script Learner, “Literature”](https://sites.la.utexas.edu/tamilscript/literature/175), for the grammatical and literary scope; University of Texas at Austin, [Tamil Script Learner materials on historical change](https://sites.la.utexas.edu/tamilscript/?p=88), for phonological, morphological, syntactic, and semantic change across Tamil's history; E. Annamalai and Sanford B. Steever, [“Modern Tamil,” in *The Dravidian Languages*](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315722580-4/modern-tamil-annamalai-sanford-steever), for the conventional Old, Middle, and Modern Tamil stages.
+
+---
+
+### `tamil-sanskrit-distributed-grammar`
+
+**Short:** Distributed traditions of teaching, commentary, manuscript transmission, and repeated study preserved the *Tolkāppiyam* and the *Aṣṭādhyāyī*. Their authority did not depend upon a continuing central institution empowered to own the language or license every acceptable expression. This positive transmission history distinguishes respected textual and teaching authority from enforcement by a linguistic apex.
+
+**Deployments:** Chapter 2 §2.2 (the architecture of order hidden by the common label *codification*); Chapter 17 §17.10 (the subcontinental architecture of order); Chapter 18 §18.7 (the calibrant-order origin argument). Pair with `tolkappiyam-grammar-and-tamil-change` for Tamil's later linguistic history and `calibration-hierarchy` for Sanskrit's Vedic calibrant and two domains.
+
+The Tamil claim rests on the available transmission record. The *Tolkāppiyam* remained available through palm-leaf manuscripts, successive commentaries, learned teaching, and later printed editions. The wider classical Tamil corpus likewise endured through manuscripts, grammatical reception, commentary, quotation, and eventual return to broad circulation through print. This history includes royal patronage, learned prestige, temples, *maṭhas*, and private custodians. It does not reveal a continuing central office that issued authorized Tamil for the whole society or enforced the *Tolkāppiyam* as sovereign language law.
+
+The Sanskrit side follows the evidence assembled in Chapters 13–16. Vedic transmission, grammatical teaching, commentarial traditions, and geographically distributed custodians kept the language's architecture available without transferring ownership of the Vedas or Sanskrit to one ruler, court, academy, or state. The claim does not deny expertise, teaching authority, patronage, or institutional support in either tradition. It distinguishes those relationships from an apex that owns the standard and controls access to it.
+
+Sources: Eva Wilden, [*Manuscript, Print and Memory: Relics of the Caṅkam in Tamilnadu*](https://doi.org/10.1515/9783110352764) (De Gruyter, 2014), especially the manuscript, transmissional-history, grammatical-reception, and editing sections; Eva Wilden, ed., [*Between Preservation and Recreation: Tamil Traditions of Commentary*](https://publications.efeo.fr/fr/livres/463_between-preservation-and-recreation-tamil-traditions-of-commentary) (École française d'Extrême-Orient and Institut français de Pondichéry, 2009); Suganya Anandakichenin and Victor D'Avella, eds., *The Commentary Idioms of the Tamil Learned Traditions* (EFEO and IFP, 2020); INFLIBNET, [“Tholkappiyar: Tholkappiyam”](https://ebooks.inflibnet.ac.in/engp11/chapter/tholkappiyar-tholkappiyam/). For Sanskrit's distributed calibration, see the primary and secondary sources collected under `calibration-hierarchy`, `eleven-pathas`, and the Chapter 15 preservation notes.
 
 ---
 

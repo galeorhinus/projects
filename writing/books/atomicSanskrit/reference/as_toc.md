@@ -218,7 +218,7 @@
 ## Part VI — Dispelling Rāhu
 *Not descended, not sibling.*
 
-**Chapter 17 — The Subcontinental Mouth and Mind**
+**Chapter 17 — The Subcontinental Mouth, Mind, and Order**
 - 17.1 The Mouth: *Mūrdhanya*
 - 17.2 The Mouth Doubles: Reduplication
 - 17.3 The Mind Receives: *Sampradāna*
@@ -228,6 +228,7 @@
 - 17.7 The Borrowing Model Fails
 - 17.8 The Corpus Cannot Be Rewritten
 - 17.9 What Sanskrit Builds from the Cluster
+- 17.10 The Subcontinental Architecture of Order
 
 **Chapter 18 — The Wrong Question**
 - 18.1 The Architectural Test
@@ -236,7 +237,7 @@
 - 18.4 Gaslighting with Footnotes
 - 18.5 How the Story Got Built
 - 18.6 The Migration Trap
-- 18.7 An Honest Speculation for the Rationalist Mind
+- 18.7 An Honest Speculation by This Atri
 - 18.8 Pāṇini Praised, Architecture Erased
 
 **Chapter 19 — PIE in the Sky**

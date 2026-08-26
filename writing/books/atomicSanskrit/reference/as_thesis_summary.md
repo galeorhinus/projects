@@ -81,7 +81,7 @@ The Eight Core Theses describe the movement of the argument. The Eclipse Ledger 
 
 18. ***Varṇa* is a sonomer, not a letter.** Sanskrit's sound-units are measured particles in a body-mapped grid: place, effort, breath, voice, nasality, and duration. The written mark is downstream. **Chapter 9.**
 
-19. **The subcontinental mouth-and-mind field explains Sanskrit's material.** Retroflexion, reduplication, *sampradāna* psychology, *karmaṇi/bhāve* de-centering, and folded action are not steppe imports. They belong to the subcontinental field Sanskrit engineers into precision. **Chapter 17.**
+19. **The subcontinental mouth, mind, and architecture of order identify Sanskrit's civilizational home.** Retroflexion, reduplication, *sampradāna* psychology, *karmaṇi/bhāve* de-centering, and folded action belong to the Indian subcontinent. Sanskrit and Tamil also preserved grammatical knowledge within society instead of surrendering their languages to one enforcing apex. Sanskrit joins all three connections to the Vedic calibrant and its two-domain design. **Chapters 17–18.**
 
 20. **The *Dhātupāṭha* is Sanskrit's table of reactive atoms.** The inventory is an operating table of semantic atoms that enter *gaṇāḥ*, accept bonds, and build verbal molecules. **Chapter 10; Chapter 11; Source and Reference Companion.**
 

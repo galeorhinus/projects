@@ -75,6 +75,8 @@ People have always moved into and out of India, and some newcomers made India th
 
 The difference between India and the other regions is architectural. In India, Sanskrit remains bonded to the Vedas, exact recitation, the analytical disciplines, and the civilizational memory of calibrant order. These survive together as one system. Elsewhere, languages preserve selected Sanskritic words, sound-patterns, or analytical methods without preserving the complete architecture that joins them. **That architectural asymmetry establishes direction.**
 
+Sanskrit's subcontinental mouth and mind also remain joined to a subcontinental architecture of order. Chapter 18 examines what that complete combination reveals about Sanskrit's civilizational home.
+
 *Atomic Sanskrit* argues that these similarities record Sanskrit’s outward radiance. Across the centuries, small but influential groups carried parts of the architecture beyond India. Greek, Latin, and other Eurasian languages preserve partial reflections created through those contacts. European philology gathered the reflections, constructed an imaginary ancestor from them, and placed that construction above Sanskrit.
 
 I do not pretend to be neutral between these accounts. This book takes a clear position and supports it with evidence and reason. The body develops the argument through concrete examples. The appendices and endnotes provide the denser documentation so that readers can examine the evidence directly.

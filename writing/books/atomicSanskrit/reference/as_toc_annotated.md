@@ -226,9 +226,9 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 ## Part VI — Dispelling Rāhu
 *Not descended, not sibling.*
 
-*The eclipse-device itself — Rāhu, the imaginary ancestor placed over the Sun — comes into view, and the blocks that subordinate Sanskrit to it are removed: the subcontinental mouth-and-mind evidence, the wrong question, and the dispelling of PIE.*
+*The eclipse-device itself — Rāhu, the imaginary ancestor placed over the Sun — comes into view, and the blocks that subordinate Sanskrit to it are removed: the subcontinental mouth, mind, and order; the wrong question; and the dispelling of PIE.*
 
-**Chapter 17 — The Subcontinental Mouth and Mind** — *Establishes that Sanskrit encodes the subcontinent's mouth and mind before the portability thesis is tested: retroflex articulation, reduplication, receiver grammar, doer-demotion, and folded action. The chapter then makes the migration account walk its own claimed northwest route.*
+**Chapter 17 — The Subcontinental Mouth, Mind, and Order** — *Establishes that Sanskrit encodes the subcontinent's mouth and mind before the portability thesis is tested: retroflex articulation, reduplication, receiver grammar, doer-demotion, and folded action. It then connects Sanskrit and Tamil through the subcontinental practice of preserving grammatical knowledge without placing one enforcing apex above the language.*
 
 - 17.1 The Mouth: *Mūrdhanya* — *The curled tongue, the Veda's first word, and the subcontinental sound-field.*
 - 17.2 The Mouth Doubles: Reduplication — *Repetition as field habit, then as Sanskrit architecture.*
@@ -239,6 +239,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 17.7 The Borrowing Model Fails — *The claimed route must explain the cluster Sanskrit encodes structurally.*
 - 17.8 The Corpus Cannot Be Rewritten — *The Vedic corpus already preserves the field; style and mode are not chronology.*
 - 17.9 What Sanskrit Builds from the Cluster — *The grammar transforms the subcontinental mouth-and-mind cluster into a precise architecture.*
+- 17.10 The Subcontinental Architecture of Order — *Sanskrit and Tamil preserve grammatical knowledge through distributed custodianship rather than ownership by one linguistic apex.*
 
 **Chapter 18 — The Wrong Question** — *Argues at the level of categories of explanation. The genealogical project asks the wrong question. The architectural test names what any valid model of Sanskrit must explain; the precursor model fails for the same structural reason.*
 
@@ -248,7 +249,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 18.4 Gaslighting with Footnotes — *The apparatus that turns a civilization's own memory-work against itself.*
 - 18.5 How the Story Got Built — *The pyramid's speculation chain and the dharmic alternative, contrasted.*
 - 18.6 The Migration Trap — *The racial Arya thesis survives by trapping the debate inside* movement *— movement is not authorship; the script-domain twin of Appendix Part 3 §3.5.*
-- 18.7 An Honest Speculation for the Rationalist Mind — *The calibrated alternative for the mind that cannot accept* apauruṣeya.
+- 18.7 An Honest Speculation by This Atri — *The calibrated alternative, including the argument that Sanskrit's mouth, mind, and architecture of order identify its civilizational home.*
 - 18.8 Pāṇini Praised, Architecture Erased — *The heroic-erasure close: Pāṇini's greatness granted, then reclassified as decoding.*
 
 **Chapter 19 — PIE in the Sky** — *The case against PIE. The bookkeeping defense is rejected; the asterisk is denied ancestor-status; the recipe is shown through* kṛt, jan, asura, *and* yuj. *PIE is in the sky. The architecture is on the ground.*

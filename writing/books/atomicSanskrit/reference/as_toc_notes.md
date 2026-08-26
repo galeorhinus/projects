@@ -411,9 +411,9 @@ This Part returns to the prosecutorial frame established in Part I, but now with
 
 ---
 
-## Chapter 17 — The Subcontinental Mouth and Mind
+## Chapter 17 — The Subcontinental Mouth, Mind, and Order
 
-This chapter widens the older retroflex chapter into a full subcontinental field test. The mouth comes first: the curled tongue of *mūrdhanya* and the doubled sound of reduplication. The mind follows: receiver grammar, doer-demotion, and folded action. Tamil, Telugu, Korku, Mundari, and Ho supply the living field; the Veda and Sanskrit grammar show the same field encoded with architectural precision.
+This chapter widens the older retroflex chapter into a full subcontinental test. The mouth comes first: the curled tongue of *mūrdhanya* and the doubled sound of reduplication. The mind follows: receiver grammar, doer-demotion, and folded action. The closing section adds order: Sanskrit and Tamil preserve grammatical knowledge through distributed custodianship rather than ownership by one linguistic apex.
 
 The chapter then turns the pyramid's own portability claim into a test. If Sanskrit arrived through a northwest route, that route must account for the full cluster Sanskrit carries structurally: the curled tongue, disciplined reduplication, receiver grammar, doer-demotion, and folded action. A borrowing account can explain isolated contact features; it cannot explain a Vedic corpus already saturated with the field and a grammar that assigns each field-pattern place, role, and scale.
 
@@ -428,13 +428,13 @@ The chapter then turns the pyramid's own portability claim into a test. If Sansk
   * The Vedic corpus cannot be treated as a silently rewritten workshop after every contact event.
   * Mode and branch explain variation better than chronology.
 * Close by handing the argument to Chapter 18:
-  * If the mouth is local, the mind is local, and the Veda already carries the architecture, the next question is no longer ancestry but construction.
+  * If the mouth, mind, and architecture of order are subcontinental, and the Veda already carries the complete design, the next question is no longer ancestry but construction.
 
 ---
 
 ## Chapter 18 — The Wrong Question
 
-This chapter argues that PIE asks the wrong question of Sanskrit. The genealogical question — *what earlier language did Sanskrit come from?* — assumes that descent is the primary explanation for linguistic structure. Sanskrit demands a different question: *how does Sanskrit generate itself from organized Indian sound?* The chapter then prosecutes the formal failure of the precursor model: any valid precursor must explain the वर्णमाला, the धातु architecture, the retroflex core, and the preservation mechanisms. PIE explains none of these. The burden of proof shifts.
+This chapter argues that PIE asks the wrong question of Sanskrit. The genealogical question — *what earlier language did Sanskrit come from?* — assumes that descent is the primary explanation for linguistic structure. Sanskrit demands a different question: *how does Sanskrit generate itself from organized Indian sound?* The chapter then prosecutes the formal failure of the precursor model: any valid precursor must explain the वर्णमाला, the धातु architecture, the retroflex core, and the preservation mechanisms. PIE explains none of these. The chapter also joins Sanskrit's subcontinental mouth and mind to the non-apex architecture of order preserved by both Sanskrit and Tamil. That complete combination identifies Sanskrit's civilizational home.
 
 * Distinguish the two explanatory modes:
   * Genealogical explanation: descent, comparison of external forms, hypothetical reconstruction.
@@ -449,6 +449,10 @@ This chapter argues that PIE asks the wrong question of Sanskrit. The genealogic
   * Account for the preservation mechanisms.
   * Account for the grammatical formalization.
 * Demonstrate that PIE satisfies none of these.
+* Apply the calibrant-order origin test:
+  * Sanskrit and Tamil preserve grammatical knowledge through distributed custodianship rather than one enforcing linguistic apex.
+  * Sanskrit joins that subcontinental relationship between knowledge and authority to the Vedic calibrant and the two domains.
+  * The Racial Arya Thesis moves an unnamed language into India while leaving India to provide every part of the architecture that makes it Sanskrit.
 * Shift the burden: the precursor must reconstruct not merely a parent form, but a system capable of producing Sanskrit's architecture.
 * Core line:
   * Until the PIE model can account for Sanskrit's sound-to-*dhātu* architecture, it remains an external genealogy, not an internal explanation.

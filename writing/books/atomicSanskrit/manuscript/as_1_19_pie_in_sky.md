@@ -249,6 +249,8 @@ The two accounts send the same similarities in opposite directions. The pyramid 
 
 Similarity by itself cannot establish which way the movement occurred. The distribution of the architecture can. In India, the recorded atoms remain connected to the words they generate. The sounds remain connected to the *varṇamālā*, the grammar, the Vedas, the recitation disciplines, and the methods of correction. The language and the systems that preserve it remain available together.
 
+India also preserves the architecture of order that keeps those elements joined. Grammatical knowledge remains within society, distributed among teachers and custodians, while no single linguistic authority owns the standard. The same relationship sustained the Tamil grammatical tradition and connects Sanskrit to a wider subcontinental order.
+
 The receiving languages preserve parts of that architecture. One may retain a Sanskritic word, another a directional operator, and another a method for arranging sounds or describing grammar. Those parts can support extensive creation within the receiving language, but they do not reproduce the complete system preserved in India. PIE erases this difference by treating every recorded language as an equal fragment of an absent parent.
 
 The evidence is not distributed equally. One side preserves the complete calibrant architecture. The others preserve partial reflections shaped by their own languages. **That architectural asymmetry establishes direction: Sanskrit's radiance traveled outward.**

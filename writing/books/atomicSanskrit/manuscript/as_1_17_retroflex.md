@@ -1,4 +1,4 @@
-# Chapter 17 — The Subcontinental Mouth and Mind
+# Chapter 17 — The Subcontinental Mouth, Mind, and Order
 
 ::: epigraph
 
@@ -18,7 +18,9 @@ In the mouth, that signature appears in two forms. First, the tongue curls backw
 
 In the mind, the same signature appears in three structures: the receiver construction, where the person receives an action rather than commanding it; the de-centered doer, who steps back from the center of the clause; and the folded action, where grammar binds a chain of acts into a single continuous thread.
 
-These five signatures form the subcontinental baseline. With them, we can test the pyramid’s portability thesis against the route it assigns to the imaginary Aryans. If Sanskrit was carried into India, its unique anatomical and grammatical architecture must have traveled with it. The path itself must explain exactly where the language acquired the mouth it sounds with and the mind it encodes.
+A third signature concerns order. Sanskrit and Tamil place grammatical knowledge within society instead of beneath a single enforcing apex. Their grammatical traditions survived through teaching, commentary, manuscripts, and distributed custodianship.
+
+The five features of mouth and mind form the first part of the subcontinental baseline. The architecture of order completes it. With that baseline, we can test the pyramid’s portability thesis against the route it assigns to the imaginary Aryans. If Sanskrit was carried into India, its anatomical, grammatical, and calibrant architecture must have traveled with it. The path itself must explain where the language acquired the mouth it sounds with, the mind it encodes, and the relationship between knowledge and authority that preserved it.
 
 ## PART A — The Subcontinental Signature
 
@@ -155,3 +157,13 @@ Mere contact can spread a phonetic form or a localized habit. Sanskrit does sign
 What the Veda enacts and the Upaniṣad models, the case-system encodes. The grammar marks the receiver as *sampradāna*, while *karmaṇi* and *bhāve* constructions systematically move the doer away from the center—a structure Pāṇini merely decoded. The Gītā states it directly: *nimittamātraṃ bhava savyasācin* (11.33) — "be a mere instrument." A grammar that refuses to center the ego in the sentence reflects a civilization that refuses to center the ego in the self. The *ahaṃkāra* is constrained, and agency is distributed across the *kāraka* system rather than gathered at an apex.
 
 That is *saṃskṛti* encoded in grammar: a calibrant that preserves the structure while leaving ordinary life room to move. The civilization keeps the Veda exact and allows *prākṛtika* life to adapt and change, all while preserving a grammar that remembers how to hold its balance against the pressures of entropy and obstruction.
+
+## 17.10 The Subcontinental Architecture of Order
+
+The ***Aṣṭādhyāyī*** and the ***Tolkāppiyam*** reveal more than two traditions of grammar. Both remained in societies that preserved linguistic knowledge without allowing one institution to own the language. Teachers taught them. Commentators explained and debated them. Manuscript custodians copied them. Successive generations returned to them. Many human carriers kept the knowledge available; no single office licensed every use.[NOTE: tamil-sanskrit-distributed-grammar]
+
+Tamil and Sanskrit both preserved grammatical knowledge through distributed custodianship. Sanskrit also divides linguistic responsibility between two domains. The Vedas provide an invariant calibrant, while the *laukika* domain remains open to new composition.
+
+Sanskrit draws its sounds and grammatical postures from the Indian subcontinent. The civilization also preserved a relationship between knowledge and authority that allowed the complete system to endure. Knowledge could remain exact without becoming the property of an apex. Many people could preserve, teach, test, and extend it without surrendering the standard to one ruler or institution.
+
+The subcontinental mouth identifies the source of Sanskrit's sounds. The subcontinental mind identifies the source of its grammatical postures. The subcontinental architecture of order identifies the civilization within which Sanskrit's complete design belongs.

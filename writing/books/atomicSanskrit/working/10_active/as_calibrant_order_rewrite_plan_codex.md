@@ -1,12 +1,12 @@
 # Calibrant Order — Rewrite Plan — Codex
 
 **Created:** 2026-08-23  
-**Status:** Passes 1–12 complete; the former Chapter 2 remains temporarily preserved in comments for author review  
+**Status:** Passes 1–12 complete; Chapter 2 replacement complete; calibrant-order origin extension complete
 **Primary rewrite:** `manuscript/as_1_02_botanical.md`  
 **Deployment scope:** Chapters 2, 13–16, followed by a calibrated-order continuity pass through the chapters that explain the Vedas  
 **Related plan:** `working/10_active/as_calibrant_order_rewrite_plan_claude.md`  
 **Current-text inventory:** `working/10_active/as_ch2_current_text_inventory_codex.md`  
-**Manuscript changes made from this plan:** Chapters 13–16 revised through Pass 4; Chapter 2 pending
+**Manuscript changes made from this plan:** Chapters 2 and 13–16 revised; calibrant-order origin argument deployed through the Preface and Chapters 17–19
 
 ## Execution Status
 
@@ -18,8 +18,8 @@
 - **Pass 6 — Draft revised Chapter 2 with old text retained:** complete.
 - **Pass 7 — Review the new argument and its relation to Chapters 13–16:** complete.
 - **Pass 8 — Readability, note-marker, comment-rendering, and formatting check:** complete.
-- **Passes 9–12:** held until author review, as approved.
-- **Author review checkpoint:** after the Chapter 2 draft is present in the manuscript with the old text retained in comments.
+- **Passes 9–12:** complete.
+- **Author review checkpoint:** complete. The former Chapter 2 was removed after review.
 
 ## Why This Is One Plan
 
@@ -524,3 +524,18 @@ Execution should begin only after this plan is developed and approved.
 4. How explicitly should Chapter 2 distinguish the destruction of Hindu polity from the survival of Hindu civilizational continuity?
 5. What exact sentence should bridge this volume's linguistic demonstration to the later *Second Shanti* reconstruction of polity?
 6. Should Chapter 14 name specific civilizational calibrants beyond *sat*, *asat*, and *ṛta*, or leave those examples to Chapter 18 and later volumes?
+
+## 17. Calibrant-Order Origin Extension — Completed 2026-08-25
+
+The extension develops a narrower conclusion from the completed Chapter 2 comparison. The pyramid places the ***Aṣṭādhyāyī*** and the ***Tolkāppiyam*** in the same *codification* category as Arabic and Latin grammars. The shared label hides two different architectures of order. Arabic and Latin preserved selected forms through institutions with power over texts, education, worship, and public usage. Sanskrit and Tamil preserved grammatical knowledge through teachers, commentators, manuscripts, and distributed custodianship without one enforcing linguistic apex.
+
+Tamil's later drift remains a separate test of the codification myth. The origin extension depends only on the relationship between knowledge and authority. Sanskrit adds the Vedic calibrant and its two-domain design to that subcontinental principle.
+
+The six deployment passes are complete:
+
+1. **Evidence boundary:** the endnote records the available Tamil transmission evidence and distinguishes distributed custody from the absence of rulers, patrons, institutions, or expertise.
+2. **Chapter 2:** §2.2 now separates the four grammatical documents by the architecture of order surrounding them.
+3. **Chapter 17:** the chapter now moves from the subcontinental mouth and mind to the subcontinental architecture of order.
+4. **Chapter 18:** §18.7 argues that the Racial Arya Thesis moves an unnamed language into India while leaving India to provide every part of the architecture that makes it Sanskrit.
+5. **Preface and Chapter 19:** the Preface seeds the conclusion, and Chapter 19 recalls it while establishing the direction of Sanskrit's outward radiance.
+6. **Integration audit:** the Part VI opener, chapter titles, TOCs, thesis summaries, endnote deployments, verification plan, and task list now match the manuscript. Both full- and short-endnote source assemblies pass.

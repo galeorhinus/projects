@@ -276,6 +276,20 @@ Generations of **वैयाकरणाः (*vaiyākaraṇāḥ*)** decoded th
 
 As the age grew darker and the pressure of entropy increased, Pāṇini found an exceptionally efficient way to protect the *laukika* domain. He inherited the analytical tradition, decoded Sanskrit's existing grammar, and articulated its operations with unmatched precision. The *Aṣṭādhyāyī* compressed that architecture into a rule-system that students and teachers could apply directly to new *laukika* compositions. Pāṇini did not create Sanskrit. He gave the continuum its finest grammatical articulation.
 
+### The Architecture Identifies Its Civilizational Home
+
+Sanskrit's complete architecture is rooted in the Indian subcontinent in three ways. It selects from the sounds produced across the subcontinental mouth. Its grammar encodes postures found across the subcontinental mind. Its caretakers preserve it through a subcontinental architecture of order in which knowledge remains within society instead of becoming the property of an enforcing apex.
+
+The Racial Arya Thesis cannot explain why all three connections meet in Sanskrit. It can imagine people carrying speech into India. It cannot explain why their supposedly foreign language would embody the same relationship between knowledge and authority that preserved the Tamil grammatical tradition.
+
+The thesis treats Sanskrit as a drifting natural language brought from outside India. India must then provide everything that makes the language Sanskrit. The subcontinental sound inventory gives it its mouth. Subcontinental grammar gives it its characteristic postures. The Vedas give it an invariant calibrant. The two domains protect what must remain exact while allowing new composition. Distributed custodianship keeps the complete architecture available without placing an enforcing institution above it.
+
+Tamil's grammatical tradition shows that this relationship between knowledge and authority was not peculiar to Sanskrit. Tamil and Sanskrit have different linguistic designs, but both traditions kept grammatical knowledge within society. Teachers, commentators, and textual custodians carried that knowledge without surrendering either language to one institution.[NOTE: tamil-sanskrit-distributed-grammar]
+
+Once the Indian subcontinent provides Sanskrit's mouth, mind, preservation system, civilizational purpose, and architecture of order, the foreign-origin claim has nothing left to explain. It moves an unnamed language into India. The Indian subcontinent provides everything that makes it Sanskrit.
+
+Sanskrit could become Sanskrit only within a civilization rooted in calibrant order. Its architecture identifies its civilizational home.
+
 ### What We Do Not Know
 
 The age darkened further. The Vedas remained protected, and Sanskrit remained protected, but the recognition of engineering became obscured. The asuric machinery could not destroy the architecture, so it changed the categories through which people saw it. It presented entropic drift as linguistic development, recast decoding as codification, and described calibration as standardization. It presented *vaidika* and *laukika* as successive stages in an invented chronology and placed Sanskrit on a family tree grown from an imaginary language spoken by imaginary people.

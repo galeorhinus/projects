@@ -169,6 +169,8 @@ Wave 3 carries four recognitions into the world:
 3. **आर्यत्व (*āryatva*)** is learned discipline rather than race.
 4. Calibrant transmission explains why other languages preserve Sanskritic resemblances. Populations may have moved along some of the same routes, but their movement did not author Sanskrit's architecture.
 
+Wave 3 did not begin with this book. During colonial and post-colonial rule, Indian scholars, teachers, commentators, and public advocates defended different parts of the Sanskrit inheritance. Some defended the Veda as a precise, knowledge-bearing corpus. Others explained its symbolic and structural architecture, taught Sanskrit through its own disciplines, or challenged institutions that claimed the authority to interpret it from outside the Hindu continuum.[NOTE: modern-sanskrit-lineage-roles]
+
 *Atomic Sanskrit* belongs to Wave 3. It gives readers a way to recognize the architecture, examine its evidence, and explain it in contemporary language. Carrying that account outward requires the same discipline, clarity, and restraint that every other form of Sanskrit transmission requires.
 
 ![Figure 20.3 — The Three Calibrant Waves and the Diasporic Wave. The three calibrant waves carry corpus, method, and conscious restatement. The separate diasporic wave carries living Indic languages, memory, and practice through whole communities.](figures/life_after_pie/calibrant_and_diasporic_waves.svg){#fig:ch20-calibrant-diasporic-waves width=100%}
