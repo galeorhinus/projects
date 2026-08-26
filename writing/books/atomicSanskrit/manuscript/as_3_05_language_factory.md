@@ -12,19 +12,19 @@ The phonemes used here are Japanese. The engine is Sanskrit.
 >
 > *kesete iteto rehepo.*
 
-A sentence in **Yenpro** (येन्प्रो).
+A sentence in येन्प्रो (**Yenpro**).
 
 It is not Japanese, not Sanskrit, not any language a linguist has catalogued. The form is mysterious. The grammar is not. *Kesete* — *the baker*. *Iteto* — *alone*. *Rehepo* — *laughs*. Together: *the baker laughs alone*.
 
 The baker is Schleicher. The joke is deliberate. As of this writing, Yenpro has one speaker — the author — and a documented corpus of three sentences. The line above is the third. The other two appear in §5.5.
 
-***Yenpro*** is the language's name for itself. In Sanskrit, the same word is ***yantrī*** (यन्त्री) — *the engine*, feminine, the gender most languages take in their own naming. Yenpro runs on Sanskrit's language engine: the **धातुपाठ (*dhātupāṭha*)**, the **प्रत्यय (*pratyaya*)** and **विभक्ति (*vibhakti*)** systems, the **सन्धि (*sandhi*)** rules, the declension and conjugation paradigms — all of it applied to a Japanese-substrate phoneme inventory through a fixed cipher. The surface phonemes are Japanese-set. The architecture is Sanskritic.
+***Yenpro*** is the language's name for itself. In Sanskrit, the same word is यन्त्री (*yantrī*) — *the engine*, feminine, the gender most languages take in their own naming. Yenpro runs on Sanskrit's language engine: the **धातुपाठ (*dhātupāṭha*)**, the **प्रत्यय (*pratyaya*)** and **विभक्ति (*vibhakti*)** systems, the **सन्धि (*sandhi*)** rules, the declension and conjugation paradigms — all of it applied to a Japanese-substrate phoneme inventory through a fixed cipher. The surface phonemes are Japanese-set. The architecture is Sanskritic.
 
-The contrast is the argument. Yenpro has three sentences, three **धातु (*dhātu*)**s, a name, and a future: ten thousand more sentences could be produced by next Tuesday. Schleicher's PIE, after a hundred and fifty years of philological labor, has the one fable he wrote down — *Avis akvāsas ka* — and a constellation of starred forms that look like grammar from the outside and generate nothing from the inside. One has the engine. The other does not.
+The contrast is the argument. Yenpro has three sentences, three धातवः (*dhātavaḥ*), a name, and a future: ten thousand more sentences could be produced by next Tuesday. Schleicher's PIE, after a hundred and fifty years of philological labor, has the one fable he wrote down — *Avis akvāsas ka* — and a constellation of starred forms that look like grammar from the outside and generate nothing from the inside. One has the engine. The other does not.
 
 ## 5.2 From Word Factory to Language Factory
 
-Chapters 10 through 12 documented Sanskrit's engine as a word factory. Roughly two thousand *dhātus*, twenty-two **उपसर्ग (*upasarga*)**s, an extensive system of *pratyayas*. The combinatorics produce a practically unbounded word-space from a finite atomic inventory. India's space agency generates *Chandrayāna*, *Mangalyāna*, *Gaganyāna* on demand from the engine the language has always made available.
+Chapters 10 through 12 documented Sanskrit's engine as a word factory. Roughly two thousand धातवः (*dhātavaḥ*), twenty-two उपसर्गाः (*upasargāḥ*), an extensive system of प्रत्ययाः (*pratyayāḥ*). The combinatorics produce a practically unbounded word-space from a finite atomic inventory. India's space agency generates *Chandrayāna*, *Mangalyāna*, *Gaganyāna* on demand from the engine the language has always made available.
 
 The architecture is more general than word generation — and the word-factory claim understates it. It is a transferable meta-system. Given a different phonemic substrate, it can be applied to construct a different language entirely. Sanskrit is not only a word factory. It is a *language* factory.
 
@@ -39,13 +39,13 @@ Appendix Part 1 prosecuted the bake demanded by the *foundational dogma* — Sch
 The procedure has six steps.
 
 1. **Write the target sentences in English.**
-2. **Translate to Sanskrit**, identifying the *dhātus*, primitive nominals, and grammatical morphemes used.
-3. **Separate the Sanskrit forms into phonemes** — **स्वर (*svaras*)** (vowels) and **व्यञ्जन (*vyañjanas*)** (consonants).
+2. **Translate to Sanskrit**, identifying the धातवः (*dhātavaḥ*), primitive nominals, and grammatical morphemes used.
+3. **Separate the Sanskrit forms into phonemes** — **स्वराः (*svarāḥ*)** (vowels) and **व्यञ्जनानि (*vyañjanāni*)** (consonants).
 4. **Design a phoneme cipher**: a mapping from Sanskrit's phoneme set to the substrate's phoneme set.
-5. **Apply the cipher to all dhātus, nominals, and morphemes** consistently. Surface forms transform; abstract structure (dhātu + suffix + ending; case inflection; conjugation; *sandhi*) is preserved.
-6. **Render the output in Devanagari** — the same script that renders the original Sanskrit. A reader who knows Sanskrit can recover the *dhātus* and morphemes by inspection.
+5. **Apply the cipher to all धातवः (*dhātavaḥ*), nominals, and morphemes** consistently. Surface forms transform; abstract structure (धातु (*dhātu*) + suffix + ending; case inflection; conjugation; सन्धि (*sandhi*)) is preserved.
+6. **Render the output in Devanagari** — the same script that renders the original Sanskrit. A reader who knows Sanskrit can recover the धातवः (*dhātavaḥ*) and morphemes by inspection.
 
-The grammar passes through unchanged. Agent nouns remain agent nouns. Present-tense verbs remain present-tense verbs. Case endings still encode case. *Sandhi* still governs junctions. The phonemes change; the architecture does not.
+The grammar passes through unchanged. Agent nouns remain agent nouns. Present-tense verbs remain present-tense verbs. Case endings still encode case. सन्धि (*Sandhi*) still governs junctions. The phonemes change; the architecture does not.
 
 What the substrate contributes: the phonemes. What Sanskrit's engine contributes: everything else.
 
@@ -77,7 +77,7 @@ The Sanskrit:
 >
 > *pācakaḥ piṣṭakaṁ pacati. piṣṭakaṁ śūnyam. pācakaḥ ekākī hasati.*
 
-Five lexical elements — ⟪पच्⟫ (*pac*, to cook / bake), ⟪पिष्⟫ (*piṣ*, to grind / knead), ⟪हस्⟫ (*has*, to laugh), *śūnya* (hollow), *eka* (one) — combine with six grammatical elements: *-aka* (agent-noun suffix), *-ta* (past-participle), *-ākī* (adverbial-modifier), *-ti* (present 3sg verb ending), *-ḥ* (masc. nom. sg.), and *-aṁ* (neuter acc. sg.). These eleven elements produce the entire three-sentence joke through the Sanskrit pattern of composition.
+Five lexical elements — ⟪पच्⟫ (*pac*, to cook / bake), ⟪पिष्⟫ (*piṣ*, to grind / knead), ⟪हस्⟫ (*has*, to laugh), शून्य (*śūnya*) (hollow), एक (*eka*) (one) — combine with six grammatical elements: *-aka* (agent-noun suffix), *-ta* (past-participle), *-ākī* (adverbial-modifier), *-ti* (present 3sg verb ending), *-ḥ* (masc. nom. sg.), and *-aṁ* (neuter acc. sg.). These eleven elements produce the entire three-sentence joke through the Sanskrit pattern of composition.
 
 The cipher maps each Sanskrit phoneme used to a Japanese-substrate phoneme, applied consistently:
 
@@ -93,10 +93,10 @@ The cipher maps each Sanskrit phoneme used to a Japanese-substrate phoneme, appl
 | *s* | *h* |
 | *n*, *m*, *y* | unchanged |
 | *a, i, u, e, o* | cyclically shifted to *e, o, a, i, u* |
-| *anusvāra* ं | final *n* |
-| *visarga* ः | dropped |
+| अनुस्वार (*anusvāra*) ं | final *n* |
+| विसर्ग (*visarga*) ः | dropped |
 
-This particular cipher deliberately collapses Sanskrit vowel length. It also maps *ṣ* and *ś* to the same output, merges several stop distinctions, and drops the *visarga*. Japanese itself does distinguish vowel length; the loss here comes from the chosen mapping rather than from an inability of Japanese speakers to hear or produce it. The experiment therefore tests whether the derivational and inflectional operations survive a consistent remapping even when some Sanskrit sound distinctions do not.
+This particular cipher deliberately collapses Sanskrit vowel length. It also maps *ṣ* and *ś* to the same output, merges several stop distinctions, and drops the विसर्ग (*visarga*). Japanese itself does distinguish vowel length; the loss here comes from the chosen mapping rather than from an inability of Japanese speakers to hear or produce it. The experiment therefore tests whether the derivational and inflectional operations survive a consistent remapping even when some Sanskrit sound distinctions do not.
 
 Applied mechanically:
 
@@ -136,11 +136,11 @@ Three sentences are only the floor. Once ⟪पच्⟫ (*pac*) becomes the con
 | *pācakāḥ* | agent-noun masc. nom. pl. | *kesete* | केसेते (homophonous with sg. — vowel-length collapse loses the number distinction) |
 | *hāsakaḥ* | "laugher" — agent-noun from ⟪हस्⟫ (*has*) | *rehete* | रेहेते |
 
-The three *dhātus* used in the example, together with their suffixes and endings, can produce several hundred surface forms through ordinary combination. The same procedure can generate declined nominals, conjugated verbs, compounds, relative clauses, indirect clauses, and embedded sentences. A reader who knows the substitution table can recover the Sanskrit operations beneath them.
+The three धातवः (*dhātavaḥ*) used in the example, together with their suffixes and endings, can produce several hundred surface forms through ordinary combination. The same procedure can generate declined nominals, conjugated verbs, compounds, relative clauses, indirect clauses, and embedded sentences. A reader who knows the substitution table can recover the Sanskrit operations beneath them.
 
 The vowel-length collapse makes *pācakāḥ* and *pācakaḥ* both yield *kesete*. That ambiguity comes from this cipher's decision to discard Sanskrit vowel length. A different mapping could preserve the distinction, since Japanese distinguishes long and short vowels. The example is useful precisely because it shows that the substitution table determines which parts of the source architecture survive on the new surface.
 
-A finite set of *dhātus*, suffixes, endings, and rules — applied through a phoneme cipher to any chosen substrate — yields an unbounded sentence-space.
+A finite set of धातवः (*dhātavaḥ*), suffixes, endings, and rules — applied through a phoneme cipher to any chosen substrate — yields an unbounded sentence-space.
 
 This is what a language factory does.
 
@@ -150,7 +150,7 @@ Three things.
 
 **First, Sanskrit's architecture includes generative procedures.** A consistent remapping can change the sounds while preserving derivation and inflection. The experiment does not separate every operation from Sanskrit's phonology, but it shows that a substantial part of the engine can continue to generate analyzable forms on another sound surface. Pāṇini documents those operations with extraordinary precision.
 
-**Second, engineering is transferable.** Arithmetic transfers from counting apples to counting electrons. Musical notation transfers from European harmony to Indian *rāga*. Sanskrit's framework transfers from Sanskrit phonemes to Japanese phonemes. *Transferability is the signature of engineering.*
+**Second, engineering is transferable.** Arithmetic transfers from counting apples to counting electrons. Musical notation transfers from European harmony to Indian राग (*rāga*). Sanskrit's framework transfers from Sanskrit phonemes to Japanese phonemes. *Transferability is the signature of engineering.*
 
 **Third, Schleicher's PIE fails by contrast.** His fable is one text, whereas Sanskrit's engine generates new forms. A reconstructed system can be extended by further reconstruction, but it is not preserved as a community's inherited, self-calibrating language and cannot be checked against native transmission. The Japanese-substrate construction begins from a documented engine whose operations can produce further forms on demand.
 
@@ -200,7 +200,7 @@ Applied to the §5.5 worked example:
 | *iteto* (already V-CV) | *iteto* | इतेतो |
 | *rehepo* (already CV) | *rehepo* | रेहेपो |
 
-The language's own name shifts under the strict cipher. Under the base cipher, *yantrī* (यन्त्री) → ***Yenpro*** — with the *n-p-r* cluster Japanese cannot pronounce. Under the strict cipher, *Yenpro* → ***Yenpuro*** (येन्पुरो) — four morae *ye.n.pu.ro*, the cluster broken by epenthetic *u*. The language has two names by the two cipher levels.
+The language's own name shifts under the strict cipher. Under the base cipher, यन्त्री (*yantrī*) → ***Yenpro*** — with the *n-p-r* cluster Japanese cannot pronounce. Under the strict cipher, *Yenpro* → येन्पुरो (***Yenpuro***) — four morae *ye.n.pu.ro*, the cluster broken by epenthetic *u*. The language has two names by the two cipher levels.
 
 The strict output:
 
@@ -212,7 +212,7 @@ Every syllable is CV (or V), with moraic /N/ before consonants and epenthetic vo
 
 Sanskrit's engine absorbs the substrate's *phonotactic constraints* alongside its *phoneme inventory*. The engine does not care which constraints the substrate brings. It works around them through cipher adjustments. The generative reach is identical: every form §5.6 produced under the base cipher passes through the strict cipher just as mechanically.
 
-***Yenpuro*** is the same language as Yenpro. Same engine. Same *dhātus*. Same generative reach. Different surface comfort.
+***Yenpuro*** is the same language as Yenpro. Same engine. Same धातवः (*dhātavaḥ*). Same generative reach. Different surface comfort.
 
 The engine absorbs the substrate's phonotactics as easily as it absorbs the substrate's phonemes.
 
