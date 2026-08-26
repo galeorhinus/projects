@@ -48,7 +48,7 @@ Modern linguistics uses **phoneme** for a sound that distinguishes words and **a
 
 This book calls every consonantal sound deliberately selected into Sanskrit's architecture a **sonance**. A sonance becomes a **sonomer** when Sanskrit assigns it an independent grid address. Speakers can select that sonomer repeatedly when they build atoms and words.
 
-Other sonances remain outside the reusable grid. A **Restricted sonance** appears only when specified neighboring sounds generate it. A **Lineage-Bounded sonance** remains within the Vedic passages and recitation lineages that preserve it. Neither can be selected freely when speakers build new *laukika* words.
+Other sonances remain outside the reusable grid. A **Restricted sonance** appears only when specified neighboring sounds generate it. A **Lineage-Bounded sonance** remains within the Vedic passages and recitation lineages that preserve it. Neither can be selected freely when speakers build new लौकिक (*laukika*) words.
 
 The breath released through **विसर्ग (*visarga*)** demonstrates the Restricted form. Before **क/ख**, the breath moves toward the back of the mouth and becomes ***जिह्वामूलीय (*jihvāmūlīya*)***. Before **प/फ**, it moves toward the lips and becomes ***उपध्मानीय (*upadhmānīya*)***. In **अग्निः पूर्वेभिर् (*agniḥ pūrvebhir*)** at Ṛgveda 1.1.2, the *visarga* before **प** can take the bilabial form written **ᳶ**, producing **अग्निᳶ पूर्वेभिर्**. Sanskrit preserves both sounds and the conditions that generate them without giving either an independent grid address.
 
@@ -58,11 +58,11 @@ The surveys in this chapter therefore compare reusable grid addresses. They do n
 
 ## 8.3 How We Map the Sounds
 
-The survey uses two anatomical axes. **स्थान (*sthāna*)** identifies where a sound is produced. **प्रयत्न (*prayatna*)** identifies how the speaking body produces it. Together they locate the sound at an articulatory coordinate. Sanskrit can then assign a selected sonance a reusable address in the *varṇamālā*.
+The survey uses two anatomical axes. **स्थान (*sthāna*)** identifies where a sound is produced. **प्रयत्न (*prayatna*)** identifies how the speaking body produces it. Together they locate the sound at an articulatory coordinate. Sanskrit can then assign a selected sonance a reusable address in the वर्णमाला (*varṇamālā*).
 
 Linguists have documented the consonant inventories used here through published grammars, surveys, and datasets. For each language, this chapter includes the consonants that speakers can use to distinguish one word from another. It places those consonants on the same place × manner grid and counts how many of their addresses coincide with Sanskrit's base.
 
-Sanskrit's own analysis tracks four actions of the speaking body. **करण (*karaṇa*)** is the moving part, such as the tongue-tip or lip that travels to the place and makes contact. **प्राण (*prāṇa*)** controls the breath pressure behind that contact and distinguishes light (*alpaprāṇa*) from heavy (*mahāprāṇa*) breath. **घोष (*ghoṣa*)** distinguishes sounds made with vibrating vocal cords from those made without that vibration. **अनुनासिक (*anunāsika*)** sends the sound through the nose.
+Sanskrit's own analysis tracks four actions of the speaking body. **करण (*karaṇa*)** is the moving part, such as the tongue-tip or lip that travels to the place and makes contact. **प्राण (*prāṇa*)** controls the breath pressure behind that contact and distinguishes light (अल्पप्राण (*alpaprāṇa*)) from heavy (महाप्राण (*mahāprāṇa*)) breath. **घोष (*ghoṣa*)** distinguishes sounds made with vibrating vocal cords from those made without that vibration. **अनुनासिक (*anunāsika*)** sends the sound through the nose.
 
 Modern phonetics uses corresponding categories: place, manner, aspiration, voicing, and nasality. Because both systems describe the actions of the same speaking body, the atlas can place Sanskrit and the comparison languages on one matrix.[NOTE: language-hotzones-inventory-method]
 
@@ -72,9 +72,9 @@ Figure 8.1 presents the consonants through Sanskrit's own arrangement. Its five 
 
 The first four rows contain the **स्पर्श (*sparśa*)** sounds. Sanskrit separates them by breath and voice: **अल्पप्राण अघोष (*alpaprāṇa aghoṣa*)**, **महाप्राण अघोष (*mahāprāṇa aghoṣa*)**, **अल्पप्राण घोष (*alpaprāṇa ghoṣa*)**, and **महाप्राण घोष (*mahāprāṇa ghoṣa*)**. The remaining rows contain the five **अनुनासिक (*anunāsika*)** sounds, four **अन्तःस्थ (*antaḥstha*)** sounds, and four **ऊष्मन् (*ūṣman*)** sounds.
 
-The ten *mahāprāṇa* stops — ख छ ठ थ फ and घ झ ढ ध भ — remain in the figure as faded cells. Sanskrit uses them, but the four coverage surveys begin with the twenty-three darker cells: the ten light-breath stops, five nasals, four *antaḥstha* sounds, and four *ūṣman* sounds.[NOTE: south-indian-mahaprana-loan-only] Section 8.7 returns to the *mahāprāṇa* rows and explains how controlled breath expands the grid.
+The ten महाप्राण (*mahāprāṇa*) stops — ख छ ठ थ फ and घ झ ढ ध भ — remain in the figure as faded cells. Sanskrit uses them, but the four coverage surveys begin with the twenty-three darker cells: the ten light-breath stops, five nasals, four अन्तःस्थ (*antaḥstha*) sounds, and four ऊष्मन् (*ūṣman*) sounds.[NOTE: south-indian-mahaprana-loan-only] Section 8.7 returns to the महाप्राण (*mahāprāṇa*) rows and explains how controlled breath expands the grid.
 
-![Figure 8.1 — Sanskrit's consonantal arrangement through five *sthāna* columns and seven *prayatna* rows. The ten *mahāprāṇa* stops appear as faded cells because the coverage surveys begin with the 23-cell base.](figures/superset/sanskrit_base_before_mahaprana.svg){#fig:ch8-sanskrit-base-before-mahaprana width=100%}
+![Figure 8.1 — Sanskrit's consonantal arrangement through five स्थान (*sthāna*) columns and seven प्रयत्न (*prayatna*) rows. The ten महाप्राण (*mahāprāṇa*) stops appear as faded cells because the coverage surveys begin with the 23-cell base.](figures/superset/sanskrit_base_before_mahaprana.svg){#fig:ch8-sanskrit-base-before-mahaprana width=100%}
 
 Each coverage figure combines three languages. It translates their consonants onto the same place × manner grid and counts a Sanskrit base cell as covered when at least one of those languages uses a consonant at the corresponding grid address to distinguish words.[NOTE: inventory-atlas-coverage-surveys]
 
@@ -88,7 +88,7 @@ No single comparison language is expected to contain every Sanskrit consonant. E
 
 Indian texts have long used **द्रविड (*draviḍa / drāviḍa*)** for the southern region, its peoples, its speech, and its civilizational geography.
 
-Comparative philologists converted *Draviḍa* into the modern language-family label “Dravidian.” The pyramid then joined “Aryan” and “Dravidian” to an invented migration and presented them as rival civilizational identities.
+Comparative philologists converted द्रविड (*Draviḍa*) into the modern language-family label “Dravidian.” The pyramid then joined “Aryan” and “Dravidian” to an invented migration and presented them as rival civilizational identities.
 
 The surveys begin with those language-family labels and then compare the sounds used by the people placed inside them. The first uses Tamil, Toda, and Kurukh because the pyramid places them outside its “Indo-Aryan” family. The second uses Korku, Mundari, and Ho, which it places in other classificatory groups. If those labels separated distinct sound histories, the consonantal inventories should reflect the separation. Instead, both sets contain most of Sanskrit's consonantal base.
 
@@ -106,7 +106,7 @@ The four comparisons count how many cells in Sanskrit's 23-cell base are covered
 
 The first comparison combines Tamil, Toda, and Kurukh. Tamil represents a major southern literary language. Toda is spoken in the Nilgiri region. Kurukh is spoken much farther north, although the pyramid places it in the same “Dravidian” family. The three languages do not belong to one local cluster.
 
-![Figure 8.2 — Southern Survey: 22 of 23 Sanskrit base cells. Tamil, Toda, and Kurukh together cover nearly the whole Sanskrit base after the ten *mahāprāṇa* cells are set aside.](figures/superset/sk_tamil_toda_kurukh.svg){#fig:ch8-southern-survey width=100%}
+![Figure 8.2 — Southern Survey: 22 of 23 Sanskrit base cells. Tamil, Toda, and Kurukh together cover nearly the whole Sanskrit base after the ten महाप्राण (*mahāprāṇa*) cells are set aside.](figures/superset/sk_tamil_toda_kurukh.svg){#fig:ch8-southern-survey width=100%}
 
 Tamil, Toda, and Kurukh together cover twenty-two cells. Tamil **ர** and **ல** coincide with Sanskrit **र** and **ल** when the sounds are compared by pronunciation. The **s** used by Toda and Kurukh likewise coincides with Sanskrit **स**.
 
@@ -165,7 +165,7 @@ The Southern Survey leaves only **श** unfilled. Toda already uses a neighborin
 
 The Forest-Belt Survey leaves **ण**, **ष**, and **श** unfilled. Korku, Mundari, and Ho nevertheless use retroflex consonants, nasals, and sibilants. They do not assign independent addresses to these three particular combinations of place and manner.
 
-The mouth permits a continuous range of nearby sounds. Sanskrit selects precise articulatory coordinates from that range and assigns the selected sonances stable addresses in the *varṇamālā*. Speakers can then learn, repeat, and combine them reliably.
+The mouth permits a continuous range of nearby sounds. Sanskrit selects precise articulatory coordinates from that range and assigns the selected sonances stable addresses in the वर्णमाला (*varṇamālā*). Speakers can then learn, repeat, and combine them reliably.
 
 ## 8.6 The Retroflex Band
 
@@ -179,19 +179,19 @@ The retroflex row belongs to the mouth of the Indian subcontinent. Sanskrit orga
 
 ## 8.7 Breath Above the Base
 
-The comparisons so far have set *mahāprāṇa* aside. Each consonant in the base is distinguished by the place and action that produce it in the mouth. Sanskrit creates another set of distinctions by controlling how much breath follows a stop.
+The comparisons so far have set महाप्राण (*mahāprāṇa*) aside. Each consonant in the base is distinguished by the place and action that produce it in the mouth. Sanskrit creates another set of distinctions by controlling how much breath follows a stop.
 
-The ten *mahāprāṇa* stops are **ख छ ठ थ फ** and **घ झ ढ ध भ**. Each is the heavy-breath counterpart of a light-breath stop produced at the same place. This distinction doubles the ten base stops to twenty.
+The ten महाप्राण (*mahāprāṇa*) stops are **ख छ ठ थ फ** and **घ झ ढ ध भ**. Each is the heavy-breath counterpart of a light-breath stop produced at the same place. This distinction doubles the ten base stops to twenty.
 
-Place selection distinguishes the lips, teeth, retroflex region, palate, and velar region. *Mahāprāṇa* adds controlled breath to the stop produced at each place. Sanskrit can therefore create additional sonomers without crowding more sounds into the anatomical axis.
+Place selection distinguishes the lips, teeth, retroflex region, palate, and velar region. महाप्राण (*Mahāprāṇa*) adds controlled breath to the stop produced at each place. Sanskrit can therefore create additional sonomers without crowding more sounds into the anatomical axis.
 
 English speakers can produce a related burst of breath, but English treats it differently. Say *pothole* slowly. The lips close for the **p** at the end of *pot*, release it, and immediately begin the breath of the **h** in *hole*. The listener hears a strong release of breath after the stop. *Hip-hop* produces the same sequence at the join between *hip* and *hop*. English treats these as a **p** followed by a neighboring **h**, not as a second kind of **p** that can independently distinguish words.
 
 Sanskrit makes the amount of released breath capable of distinguishing one sonomer from another. **प (*pa*)** and **फ (*pha*)**, for example, occupy separate grid addresses.
 
-![Figure 8.6 — *Mahāprāṇa* adds a breath axis. Sanskrit doubles the ten base stops to twenty without adding another anatomical position.](figures/superset/mahaprana_vertical_expansion.svg){#fig:ch8-mahaprana-vertical-expansion width=100%}
+![Figure 8.6 — महाप्राण (*Mahāprāṇa*) adds a breath axis. Sanskrit doubles the ten base stops to twenty without adding another anatomical position.](figures/superset/mahaprana_vertical_expansion.svg){#fig:ch8-mahaprana-vertical-expansion width=100%}
 
-Sanskrit also uses controlled breath through **विसर्ग (*visarga*)**. A *mahāprāṇa* stop releases breath after contact in the mouth. *Visarga* releases breath after a vowel. *Sandhi* specifies how that breath changes when it meets the next sonomer.[NOTE: visarga-anusvara-articulation]
+Sanskrit also uses controlled breath through **विसर्ग (*visarga*)**. A महाप्राण (*mahāprāṇa*) stop releases breath after contact in the mouth. विसर्ग (*Visarga*) releases breath after a vowel. सन्धि (*Sandhi*) specifies how that breath changes when it meets the next sonomer.[NOTE: visarga-anusvara-articulation]
 
 Within Sanskriti, recitation, mantra, and yoga all train **प्राण (*prāṇa*)**, breath and life force, deliberately. Sanskrit applies the same attention to breath in speech. By changing the amount of released breath, it creates a second consonant at the same anatomical position. Breath therefore increases distinguishability without crowding another sound into the horizontal sequence of positions in the mouth.
 
