@@ -1301,7 +1301,7 @@ Raktabīja's name derives from *rakta* (blood) and *bīja* (seed): every drop of
 
 **Short:** The Devī Māhātmya (Mārkaṇḍeya Purāṇa), Chapters 5 through 10, narrates the brothers Śumbha and Niśumbha seizing heaven and their eventual defeat by the goddess, culminating in Śumbha's claim that the goddess used others' help and her demonstration that every emanation she sent out was herself alone.
 
-**Deployments:** Chapter 1 §1.4 — "Possess the uncontainable," first instance; §1.5 callback ("Śumbha, Andhaka, Jalandhara treating the unownable as inventory").
+**Deployments:** Chapter 1 §1.4 — "Possess the uncontainable," first instance; §1.5 callback ("Śumbha, Andhaka, Jalandhara treating the unownable as inventory"); Chapter 4 §4.6 — Śumbha as the possession-and-subordination form of asuric action.
 
 Śumbha and Niśumbha defeat the devāḥ and seize heaven; the devāḥ recall the goddess's promise of aid and invoke her. Kauśikī (Ambikā) emerges from Pārvatī's own body in response. Chapters 5–6 narrate the defeat of the brothers' envoy Dhūmralocana; Chapters 9–10 narrate Niśumbha's death (pierced through the heart after the goddess cleaves his club and shatters his weapons) and Śumbha's final battle, in which he accuses the goddess of unfair advantage for fighting alongside Kālī and the Mātṛkās. The goddess answers by withdrawing every emanation back into herself, demonstrating that the multiplicity was never separate from her — the exact "possess the uncontainable" failure: Śumbha treats what cannot be divided or owned as if it were an opponent's borrowed inventory.
 
@@ -4271,6 +4271,41 @@ Standard references: see the foundational references at endnotes `agnimile-rigve
 
 ---
 
+### `auditory-temporal-gap-resolution`
+
+**Short:** Normal-hearing adults can detect silent gaps in broadband sound lasting only a few milliseconds. Experimental means commonly fall near two to five milliseconds, demonstrating the ear's unusually fine resolution of events that unfold in time.
+
+**Deployments:** Chapter 14 §14.2 — supports the numerical claim about auditory temporal resolution without comparing the ear's frequency range to the frame rate of vision.
+
+Gap-detection experiments ask a listener to identify a brief silence inserted into an otherwise continuous sound. In a 2019 adaptive study, the normal-hearing group produced a mean broadband gap-detection threshold of 3.19 milliseconds. A major review of auditory processing reports typical broadband-noise thresholds of approximately two to three milliseconds. Results vary with the sound's bandwidth, level, and experimental method, so the body gives the broader range of two to five milliseconds rather than turning one experimental mean into a universal constant.
+
+The result supports a specific claim: hearing can resolve very short temporal changes. It does not support the earlier comparison between visual frame rate and the ear's frequency range, which placed unlike measurements beside one another.
+
+Sources:
+
+- A. A. Alhaidary, K. Tanniru, A. F. Aljadaan, and L. M. Alabdulkarim, “Auditory temporal resolution in adaptive tasks: Gap detection investigation,” *Saudi Medical Journal* 40.1 (2019): 52–58, [doi:10.15537/smj.2019.1.23814](https://doi.org/10.15537/smj.2019.1.23814).
+- Brian C. J. Moore, “Basic auditory processes involved in the analysis of speech sounds,” *Philosophical Transactions of the Royal Society B* 363.1493 (2008): 947–963, [doi:10.1098/rstb.2007.2152](https://doi.org/10.1098/rstb.2007.2152).
+
+---
+
+### `metered-verbal-pattern-error-detection`
+
+**Short:** Once words and melody have been learned together, listeners can test an expected verbal sequence and an expected sound-pattern at the same time. Experiments on memorized songs demonstrate reliable detection of unexpected changes in both lyrics and melody, while broader research cautions that singing does not improve every kind of initial verbal learning.
+
+**Deployments:** Chapter 14 §§14.2–14.3 — supports the limited claim that a fixed metrical or melodic pattern adds an independent cue for detecting some verbal departures.
+
+Yasui, Kaga, and Sakai asked participants to identify unexpected changes in either the lyrics or the melody of memorized songs. Participants detected both kinds of change with high accuracy. The experiment supports the chapter's structural point: after verbal content and a recurring sound-pattern have been learned together, a departure in either sequence can violate an expectation.
+
+Research on song as a memory aid is more mixed. Some studies find that rhythm and melody supply grouping, order, stress, and line-length cues; others find no general advantage for sung over spoken learning once presentation rate and repetition are controlled. The chapter therefore does not claim that meter catches every altered sound or that singing always improves memory. It claims that a fixed timed pattern supplies another cue beside the words themselves. In Vedic recitation, that cue operates alongside exact wording, vowel duration, pitch, articulation, and the transformed पाठाः (*pāṭhāḥ*) described in Chapter 15.
+
+Sources:
+
+- Takao Yasui, Kimitaka Kaga, and Kuniyoshi L. Sakai, “Language and music: Differential hemispheric dominance in detecting unexpected errors in the lyrics and melody of memorized songs,” *Human Brain Mapping* 30.2 (2009): 588–601, [doi:10.1002/hbm.20529](https://doi.org/10.1002/hbm.20529).
+- Vera Leo et al., “Cognitive and neural mechanisms underlying the mnemonic effect of songs after stroke,” *NeuroImage: Clinical* 24 (2019): 101948, [doi:10.1016/j.nicl.2019.101948](https://doi.org/10.1016/j.nicl.2019.101948).
+- Nathalie Racette and Isabelle Peretz, “Learning lyrics: To sing or not to sing?” *Memory & Cognition* 35.2 (2007): 242–253, [PubMed 17645165](https://pubmed.ncbi.nlm.nih.gov/17645165/).
+
+---
+
 ### `masoretic-engineered-preservation`
 
 **Short:** The Hebrew Masoretic apparatus uses four canonical layers: ***kětīv*** (כתיב, consonantal text) + ***niqqud*** (ניקוד, vowel pointing) + ***ṭeʿamim*** (טעמים, cantillation marks) + ***Masora*** (מסורה, marginal apparatus with letter counts, statistical checks); principal manuscript anchors the *Aleppo Codex* (early 10th c.) and *Leningrad Codex* (1008 CE; basis of *Biblia Hebraica Stuttgartensia*). The Western philological community already recognizes this as sophisticated engineered preservation. The Vedic architecture instead preserves each phoneme and uses deeper redundancy through eleven *pāṭhas*.
@@ -5977,13 +6012,13 @@ The histories of Central Asia record repeated cycles of confederation, war, defe
 
 None of these identities determined one social role. Men from the same extended movement could appear as refugees in one setting, mercenaries in another, conquerors in a third, and settlers in the next generation.
 
-The monumental remains reveal where ruling formations concentrated labor throughout the period invoked by the genetic account. Between approximately 2300 and 1500 BCE, fortified Bactria–Margiana centers in southern Central Asia and fortified Sintashta settlements in the southern Urals concentrated people, storage, production, and defense behind walls. Khorezm later required long irrigation canals and enormous fortified enclosures; Kalaly-gyr 1 covered approximately seventy hectares and contained a palace complex. Afrasiab had become a fortified city by the seventh or sixth century BCE, with powerful mud-brick walls, a canal, and reservoirs. The royal mounds at Arzhan, Pazyryk, and Issyk concentrated earth, stone, timber, horses, metalwork, and human labor around elite burials. These structures supplied the pyramid's principal demands: agricultural production, military defense, royal administration, urban grandeur, and monumental burial.
+The monumental remains reveal where ruling formations concentrated labor throughout the period invoked by the genetic account. Between approximately 2300 and 1500 BCE, fortified Bactria–Margiana centers in southern Central Asia and fortified Sintashta settlements in the southern Urals concentrated people, storage, production, and defense behind walls. C. C. Lamberg-Karlovsky describes Bactria–Margiana as a centralized and stratified formation whose authorities organized corvée labor for irrigation works and controlled dependent agricultural workers. Robert D. Drennan, Bryan K. Hanks, and Christian E. Peterson calculate that Sintashta fortifications and occasional burial mounds imposed a substantial public-works burden on the local population; the same evidence shows warfare and strong social inequality but does not establish chattel slavery at those settlements. Khorezm later required long irrigation canals and enormous fortified enclosures; Kalaly-gyr 1 covered approximately seventy hectares and contained a palace complex. Afrasiab had become a fortified city by the seventh or sixth century BCE, with powerful mud-brick walls, a canal, and reservoirs. The royal mounds at Arzhan, Pazyryk, and Issyk concentrated earth, stone, timber, horses, metalwork, and human labor around elite burials. These structures supplied the pyramid's principal demands: agricultural production, military defense, royal administration, urban grandeur, and monumental burial.
 
 Greek and Roman societies provide a different set of pressures. Both depended extensively on slavery; war and piracy supplied captives, while armies and imperial conflict also produced mercenaries, deserters, political exiles, and displaced soldiers. Mining, quarrying, agriculture, construction, maritime labor, domestic service, and military logistics placed large numbers of enslaved, captive, indebted, conscripted, and impoverished men beneath the monuments celebrated by surviving histories. These conditions establish escape as a recurring human motive even though the surviving record cannot count how many such men reached India. The regions beyond India's northwestern frontiers gave men many reasons to leave, and genetics cannot distinguish those who fled a pyramid from those who served one.
 
 The chapter uses ***भव्यता (*bhavyatā*)*** and ***दिव्यता (*divyatā*)*** as an architectural contrast. *Bhavyatā* can mean grandeur or magnificence; here it describes grandeur created by concentrating labor and wealth toward an apex. *Divyatā* can mean divine quality, luminosity, or radiance; here it describes radiance that another person can approach and participate in. The contrast does not claim that every grand structure is asuric or that India built no monumental architecture. It distinguishes grandeur used to display an apex from radiance that invites participation.
 
-Sources: Craig G. R. Benjamin, *The Yuezhi: Origin, Migration and the Conquest of Northern Bactria* (Brepols, 2007); Denis Sinor, ed., *The Cambridge History of Early Inner Asia* (Cambridge University Press, 1990); Paula Doumani Dupuy, "Bronze Age Central Asia," in *The Oxford Handbook of Topics in Archaeology* (Oxford University Press, 2016); Rachel Mairs, *The Hellenistic Far East: Archaeology, Language, and Identity in Greek Central Asia* (University of California Press, 2014); Keith Bradley and Paul Cartledge, eds., *The Cambridge World History of Slavery*, vol. 1, *The Ancient Mediterranean World* (Cambridge University Press, 2011); Michele Minardi, *Ancient Chorasmia: A Polity between the Semi-Nomadic and Sedentary Cultural Areas of Central Asia* (Peeters, 2015); Galina Pugachenkova and Edvard Rtveladze, "Afrasiab: The Archaeological Site," *Encyclopaedia Iranica*; St John Simpson, "Scythians, Ice Mummies and Burial Mounds," British Museum, 2017.
+Sources: C. C. Lamberg-Karlovsky, “The Oxus Civilization,” *Cuadernos de Prehistoria y Arqueología de la Universidad Autónoma de Madrid* 39 (2013): 21–63, especially 57–58; Robert D. Drennan, Bryan K. Hanks, and Christian E. Peterson, “The Comparative Study of Chiefly Communities in the Eurasian Steppe Region,” *Social Evolution & History* 10, no. 1 (2011); Craig G. R. Benjamin, *The Yuezhi: Origin, Migration and the Conquest of Northern Bactria* (Brepols, 2007); Denis Sinor, ed., *The Cambridge History of Early Inner Asia* (Cambridge University Press, 1990); Paula Doumani Dupuy, "Bronze Age Central Asia," in *The Oxford Handbook of Topics in Archaeology* (Oxford University Press, 2016); Rachel Mairs, *The Hellenistic Far East: Archaeology, Language, and Identity in Greek Central Asia* (University of California Press, 2014); Keith Bradley and Paul Cartledge, eds., *The Cambridge World History of Slavery*, vol. 1, *The Ancient Mediterranean World* (Cambridge University Press, 2011); Michele Minardi, *Ancient Chorasmia: A Polity between the Semi-Nomadic and Sedentary Cultural Areas of Central Asia* (Peeters, 2015); Galina Pugachenkova and Edvard Rtveladze, "Afrasiab: The Archaeological Site," *Encyclopaedia Iranica*; St John Simpson, "Scythians, Ice Mummies and Burial Mounds," British Museum, 2017.
 
 ---
 
