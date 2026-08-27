@@ -74,7 +74,7 @@ def main() -> int:
     # CSV
     CSV_OUT.parent.mkdir(parents=True, exist_ok=True)
     with CSV_OUT.open("w", newline="") as fh:
-        w = csv.writer(fh)
+        w = csv.writer(fh, lineterminator="\n")
         w.writerow(["particles", "matra", "count", "percentage", "n_templates"])
         for (p, m) in sorted_keys:
             count = cell_count[(p, m)]

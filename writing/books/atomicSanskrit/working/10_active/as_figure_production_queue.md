@@ -86,7 +86,7 @@ them. They have first claim on figure-production time.
 
 | Priority | Live ID | Working title | Placement | Status | Detailed source | Intended asset | Next action |
 |---|---|---|---|---|---|---|---|
-| P0 | **14.2** | Six-Layer Calibration Matrix | `as_1_14_calibration.md` §14.1 | Placeholder | Body placeholder and calibration discussion | `figures/calibration/six_layer_calibration_matrix.svg` | Convert the six layers and transversal Śikṣā role into a source-ready specification, then build. |
+| P0 | **14.2** | Six-Layer Calibration Matrix | `as_1_14_calibration.md` §14.3 | **Deployed 2026-08-26** | Chapter 14 §14.3 | `figures/calibration/six_layer_calibration_matrix.svg` | Complete. The Vedas occupy the primary calibrant band; five analytical disciplines sit beneath them; Śikṣā spans the matrix as training. |
 | P0 | **18.1** | The Architectural Test | `as_1_18_wrong_question.md` opening | **Deployed 2026-08-08** | Chapter 18 §§18.1–18.3 | `figures/wrong_question/architectural_test.svg` | Complete. Six-row comparison rendered and the body number corrected. |
 | P1 | **19.9** | PIE Reconstructions and Vivimorphosis Chains | `as_1_19_pie_in_sky.md` §19.8 | Placeholder | Body placeholder; Sanskrit Radiance mapping work | `figures/pie_in_sky/pie_vivimorphosis_comparison.svg` | Reconcile with the yuj mapping method and avoid repeating Figures 19.2–19.8. |
 | P1 | **20.1** | The Mitanni Sanskritic Layer | `as_1_20_life_after_pie.md` opening | Placeholder | Body placeholder | `figures/life_after_pie/mitanni_sanskritic_layer.svg` | Verify final table copy and render. |

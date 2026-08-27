@@ -119,6 +119,13 @@ FAVICON_SRC_DIR = BOOK_DIR / "web" / "public" / "as"
 # the deployed /as/ root, so both fell back to a generated letter tile while
 # the SVG-only dashboard (an inlined data: URI, no manifest involved) picked
 # up its favicon correctly — that contrast is what surfaced the gap.
+# icon-512-maskable.png added 2026-08-26: without a maskable-purpose icon,
+# Android/iOS synthesize the home-screen adaptive icon from the "any" icon
+# instead, which renders visibly smaller than the dashboard PWA's icon (the
+# dashboard ships its own icon-512-maskable.png). Built at the same safe-zone
+# padding ratio (~55%/48% content fill) as the dashboard's, on the book's own
+# #f4f4f3 background instead of the dashboard's #eef0f2, so both apps render
+# through the same OS icon path at matching size.
 FAVICON_FILES = (
     "favicon.ico",
     "favicon.svg",
@@ -127,6 +134,7 @@ FAVICON_FILES = (
     "apple-touch-icon.png",
     "icon-192.png",
     "icon-512.png",
+    "icon-512-maskable.png",
     "manifest.json",
 )
 

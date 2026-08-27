@@ -111,7 +111,7 @@ The Eight Core Theses describe the movement of the argument. The Eclipse Ledger 
 
 31. **Calibrant contact is the contact category current linguistics lacks.** Sanskrit-bearing specialists can restructure the receiving field without conquest or mass migration. Wave 1 spreads Sanskritic radiance; Wave 2 spreads Pāṇinian method. **Chapter 19 §19.7; Chapter 20.**
 
-32. **Sanskrit's grammatical apparatus is a language factory.** The apparatus can generate more than words; Appendix Part 5 demonstrates a working Sanskritic grammar over a Japanese-facing phoneme set. **Appendix Part 5.**
+32. **Sanskrit's grammatical apparatus is a language factory.** Appendix Part 5 shows selected Sanskrit derivational and inflectional operations continuing to generate analyzable forms after a consistent remapping into a Japanese sound inventory. **Appendix Part 5.**
 
 ### Vedic Matrix, Frame, and Recovery
 

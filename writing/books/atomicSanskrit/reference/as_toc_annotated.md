@@ -306,19 +306,19 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 
 **Appendix Part 3 — The Sonomer and the Audiograph: Sound Engineering, Pun Intended** *(drafted)* — *Reframes the script argument around the sonomer-first claim: Sanskrit is sonomeric before it is audiographic. Prosecutes the Brāhmī-from-Aramaic account as an interface trap; coins **audiography**; runs the place-value / Roman-numerals logic test in full (all alphabetic systems sit at the Roman-numeral level; all audiographic systems at the place-value level; the marks are the easy part, the grid is the achievement). Hangul as the control case.*
 
-- 3.1 Sonomer First, Audiograph Second · 3.2 The Interface Trap · 3.3 The "Brilliantly Adapted" Move · 3.4 What Aramaic Cannot Carry · 3.5 The Aramaic-from-Brāhmī Thesis · 3.6 Stone Preserves the Pyramid · 3.7 Audiography — The Name Withheld · 3.8 Three Design Cases: Sound, Script, Standard · 3.9 The Sonomer Travels East · 3.10 The Pyramid Steals the Sonomer · 3.11 The Foundational Claim on Writing · 3.12 The Work Ahead
+- 3.1 Sonomer First, Audiograph Second · 3.2 The Interface Trap · 3.3 The "Brilliantly Adapted" Move · 3.4 What Aramaic Cannot Encode · 3.5 What Earlier Glyphs Cannot Explain · 3.6 What Stone Can Preserve · 3.7 Audiography — The Name Withheld · 3.8 Three Design Cases: Sound, Script, Standard · 3.9 The Sonomer Travels East · 3.10 The Foundational Claim on Writing · 3.11 The Research Ahead
 
-**Appendix Part 4 — The Consonant Inventory Atlas and Control Surveys** *(drafted)* — *Evidence supplement to Chapter 8: the full atlas method and seven control surveys (Munda 20/23, Mixed 21/23, dispersed 18/23, Northwest Frontier 22/23, non-contact Iranian 15/23, Caucasus 13/23, Slavic & Caucasus IE 14/23). The §4.9 sequence shows coverage falling with geographic distance while the family-tree classifications obscure the regional pattern.*
+**Appendix Part 4 — The Consonant Inventory Atlas and Additional Surveys** *(drafted)* — *Evidence supplement to Chapter 8: the full atlas method and seven additional surveys (Munda 20/23, Mixed 21/23, dispersed 18/23, Northwest Frontier 22/23, non-contact Iranian 15/23, Caucasus 13/23, Slavic & Caucasus IE 14/23). The §4.9 sequence shows coverage falling with geographic distance while the family-tree classifications obscure the regional pattern.*
 
-- 4.1 The Atlas Method in Depth · 4.2–4.8 the seven control surveys · 4.9 The Coverage Cascade
+- 4.1 The Atlas Method in Depth · 4.2–4.8 the seven additional surveys · 4.9 The Coverage Cascade
 
-**Appendix Part 5 — The Language Factory** *(drafted; constructive demonstration)* — *Demonstrates the engineering thesis by building rather than prosecuting: Sanskrit's apparatus applied to a Japanese-substrate phoneme set produces ***Yenpro***, a working constructed language, via a six-step procedure on a three-sentence Schleicher joke. Where Schleicher baked PIE without a working recipe, this appendix uses the actual recipe and generates forms indefinitely.*
+**Appendix Part 5 — The Language Factory** *(drafted; constructive demonstration)* — *Tests the engineering thesis by construction: a consistent mapping into a Japanese sound inventory produces ***Yenpro*** while selected Sanskrit derivational and inflectional operations remain reproducible beneath the altered surface. Where Schleicher baked PIE without an inherited generative standard, this appendix begins with documented Sanskrit operations and shows exactly how each new form is produced.*
 
-- 5.1 Yenpro and the Mean Baker · 5.2 From Word Factory to Language Factory · 5.3 The Procedure · 5.4 The Substrate — Japanese · 5.5 The Worked Example · 5.6 The Generative Reach · 5.7 What This Demonstrates · 5.8 The Baker Had the Recipe · 5.9 A Strict Cipher
+- 5.1 Yenpro and the Mean Baker · 5.2 From Word Factory to Language Factory · 5.3 The Procedure · 5.4 Why Japanese? · 5.5 The Worked Example · 5.6 The Generative Reach · 5.7 Adapting Yenpro to Japanese Sound Patterns · 5.8 What This Demonstrates · 5.9 The Baker Had the Recipe
 
 **Appendix Part 6 — The Architecture by the Numbers** *(drafted)* — *Book-facing numerical audit behind Chapters 10–11. Preserves the baseline, the eight engineering principles, the generative-reach test, and the replication route; the full tables and scripts sit in the Source and Reference Companion (`analysis/dhatupatha/`, `analysis/ganah/`).*
 
-- 6.1 The Structural Baseline · 6.2 Eight Engineering Principles · 6.3 The Generative-Reach Test · 6.4 Why The Numbers Matter · 6.5 Replication
+- 6.1 The Structural Baseline · 6.2 Eight Engineering Principles · 6.3 How Far Compact Atoms Reach · 6.4 How Atomic Shape Relates to Activation · 6.5 What the Numbers Show · 6.6 Replication
 
 **Appendix Part 7 — The Architecture Already in the Vedas** *(drafted)* — *Places three Vedic passages before the reader and identifies the sound junctions, grammatical endings, derivations, sentence operations, and dhātavaḥ already operating before Pāṇini documented them.*
 

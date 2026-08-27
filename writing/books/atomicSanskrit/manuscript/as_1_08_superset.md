@@ -58,7 +58,7 @@ The surveys in this chapter therefore compare reusable grid addresses. They do n
 
 ## 8.3 How We Map the Sounds
 
-The survey uses two anatomical axes. **स्थान (*sthāna*)** identifies where a sound is produced. **प्रयत्न (*prayatna*)** identifies how the speaking body produces it. Together they locate the sound at an articulatory coordinate. Sanskrit can then assign a selected sonance a reusable address in the वर्णमाला (*varṇamālā*).
+The survey uses two anatomical axes. **स्थान (*sthāna*)** identifies where a sound is produced. **प्रयत्न (*prayatna*)** identifies how the speaking body produces it. Together they give the sound its articulatory coordinates. Sanskrit can then assign a selected sonance a reusable grid address in the वर्णमाला (*varṇamālā*).
 
 Linguists have documented the consonant inventories used here through published grammars, surveys, and datasets. For each language, this chapter includes the consonants that speakers can use to distinguish one word from another. It places those consonants on the same place × manner grid and counts how many of their addresses coincide with Sanskrit's base.
 
@@ -86,7 +86,7 @@ No single comparison language is expected to contain every Sanskrit consonant. E
 
 ### Why the Survey Begins in the South
 
-Indian texts have long used **द्रविड (*draviḍa / drāviḍa*)** for the southern region, its peoples, its speech, and its civilizational geography.
+Indian texts have long used द्रविड (*draviḍa*) and द्राविड (*drāviḍa*) for the southern region, its peoples, its speech, and its civilizational geography.
 
 Comparative philologists converted द्रविड (*Draviḍa*) into the modern language-family label “Dravidian.” The pyramid then joined “Aryan” and “Dravidian” to an invented migration and presented them as rival civilizational identities.
 
@@ -136,11 +136,11 @@ The two Indian comparisons cover twenty-two and twenty of Sanskrit's twenty-thre
 
 All humans share the same vocal anatomy, so consonantal similarities should occur across regions. English, French, and Greek cover sixteen cells. That total is substantially lower than the twenty-two and twenty cells covered by the two Indian sets. Greek is especially relevant because the pyramid treats it as one of the principal sources from which PIE can be reconstructed. Yet the comparison that includes Greek covers far less of Sanskrit's base than either Indian set.
 
-The second external comparison uses Tajik, Kazakh, and Kyrgyz. These languages are spoken in the region through which the pyramid claims Sanskrit entered India.
+The proposed migration corridor provides the second external comparison. Tajik, Kazakh, and Kyrgyz are spoken across that region.
 
 ![Figure 8.5 — Central Asian Survey: 15 of 23 Sanskrit base cells. Tajik, Kazakh, and Kyrgyz cover still less of the Sanskrit base, weakening the claim that Sanskrit's sounds arrived from a Central Asian source.](figures/superset/sk_tajik_kazakh_kyrgyz.svg){#fig:ch8-central-asian-survey width=100%}
 
-Tajik, Kazakh, and Kyrgyz do not form one language family. They are combined here because they are spoken within the broad region repeatedly presented as the corridor through which Sanskrit supposedly entered India. Together they cover fifteen cells, the lowest result among the four comparisons.
+The three languages do not belong to one language family. Geography, not genealogy, is why they appear together. Their combined inventory covers fifteen cells, the lowest result among the four comparisons.
 
 ### First Observations
 
@@ -183,15 +183,15 @@ The comparisons so far have set महाप्राण (*mahāprāṇa*) aside
 
 The ten महाप्राण (*mahāprāṇa*) stops are **ख छ ठ थ फ** and **घ झ ढ ध भ**. Each is the heavy-breath counterpart of a light-breath stop produced at the same place. This distinction doubles the ten base stops to twenty.
 
-Place selection distinguishes the lips, teeth, retroflex region, palate, and velar region. महाप्राण (*Mahāprāṇa*) adds controlled breath to the stop produced at each place. Sanskrit can therefore create additional sonomers without crowding more sounds into the anatomical axis.
+Place selection distinguishes the lips, teeth, retroflex region, palate, and velar region. महाप्राण (*mahāprāṇa*) adds controlled breath to the stop produced at each place. Sanskrit can therefore create additional sonomers without crowding more sounds into the anatomical axis.
 
 English speakers can produce a related burst of breath, but English treats it differently. Say *pothole* slowly. The lips close for the **p** at the end of *pot*, release it, and immediately begin the breath of the **h** in *hole*. The listener hears a strong release of breath after the stop. *Hip-hop* produces the same sequence at the join between *hip* and *hop*. English treats these as a **p** followed by a neighboring **h**, not as a second kind of **p** that can independently distinguish words.
 
 Sanskrit makes the amount of released breath capable of distinguishing one sonomer from another. **प (*pa*)** and **फ (*pha*)**, for example, occupy separate grid addresses.
 
-![Figure 8.6 — महाप्राण (*Mahāprāṇa*) adds a breath axis. Sanskrit doubles the ten base stops to twenty without adding another anatomical position.](figures/superset/mahaprana_vertical_expansion.svg){#fig:ch8-mahaprana-vertical-expansion width=100%}
+![Figure 8.6 — महाप्राण (*mahāprāṇa*) adds a breath axis. Sanskrit doubles the ten base stops to twenty without adding another anatomical position.](figures/superset/mahaprana_vertical_expansion.svg){#fig:ch8-mahaprana-vertical-expansion width=100%}
 
-Sanskrit also uses controlled breath through **विसर्ग (*visarga*)**. A महाप्राण (*mahāprāṇa*) stop releases breath after contact in the mouth. विसर्ग (*Visarga*) releases breath after a vowel. सन्धि (*Sandhi*) specifies how that breath changes when it meets the next sonomer.[NOTE: visarga-anusvara-articulation]
+Sanskrit also uses controlled breath through **विसर्ग (*visarga*)**. A महाप्राण (*mahāprāṇa*) stop releases breath after contact in the mouth. विसर्ग (*visarga*) releases breath after a vowel. सन्धि (*sandhi*) specifies how that breath changes when it meets the next sonomer.[NOTE: visarga-anusvara-articulation]
 
 Within Sanskriti, recitation, mantra, and yoga all train **प्राण (*prāṇa*)**, breath and life force, deliberately. Sanskrit applies the same attention to breath in speech. By changing the amount of released breath, it creates a second consonant at the same anatomical position. Breath therefore increases distinguishability without crowding another sound into the horizontal sequence of positions in the mouth.
 

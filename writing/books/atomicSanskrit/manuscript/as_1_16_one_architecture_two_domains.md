@@ -1,6 +1,6 @@
 # Chapter 16 — One Architecture, Two Domains
 
-*How वैदिक (Vaidika) Preserves Sanskrit's Architecture and लौकिक (Laukika) Keeps It Generative*
+How वैदिक (*vaidika*) Preserves Sanskrit's Architecture and लौकिक (*laukika*) Keeps It Generative
 
 ## 16.1 Two Engineering Tasks
 
@@ -26,7 +26,7 @@ The two permissions resemble *read-only* and *read-write* storage in a computer.
 
 The computer comparison explains the permissions. The Vedas preserve much more than Sanskrit's language engine, and later volumes in the *Second Shanti* series will examine other layers of their civilizational architecture. This chapter follows the linguistic layer: how the Vedas preserve Sanskrit's linguistic architecture while the लौकिक (*laukika*) domain allows the same language to generate new expression.
 
-Most of Sanskrit's architecture belongs to both domains. वैदिक (*Vaidika*) and लौकिक (*laukika*) Sanskrit use the same sonomers, atoms, affixes, case relations, compounds, and sentence operations. Each domain also preserves resources of its own. The *Vaidika Only* extension contains a substantial range required by received passages. The *Laukika Only* extension is much smaller and contains a limited set of forms selected for भाषा (*bhāṣā*). लौकिक (*Laukika*) Sanskrit gains most of its generative power by applying the large shared architecture to new compositions.
+Most of Sanskrit's architecture belongs to both domains. वैदिक (*vaidika*) and लौकिक (*laukika*) Sanskrit use the same sonomers, atoms, affixes, case relations, compounds, and sentence operations. Each domain also preserves resources of its own. The *Vaidika Only* extension contains a substantial range required by received passages. The *Laukika Only* extension is much smaller and contains a limited set of forms selected for भाषा (*bhāṣā*). लौकिक (*laukika*) Sanskrit gains most of its generative power by applying the large shared architecture to new compositions.
 
 ![Figure 16.1 — One Sanskrit Architecture, Two Domains. The large *Vaidika + Laukika* overlap contains their shared language engine. The upper *Vaidika Only* extension contains forms scoped to the वैदिक (*vaidika*) domain, while the narrow right *Laukika Only* extension contains forms scoped specifically to लौकिक (*laukika*) भाषा (*bhāṣā*).](figures/vaidika_laukika/shared_architecture_overlap.svg){#fig:ch16-shared-architecture-overlap width=100%}
 
@@ -42,15 +42,15 @@ Their shared architecture is visible in many mantras that a student trained in �
 
 The mantra belongs to the Ṛgveda, and a student of लौकिक (*laukika*) Sanskrit reads it through the same grammar. The distinction between वैदिक (*vaidika*) and लौकिक (*laukika*) concerns what each domain must do, not which one supposedly evolved into the other.
 
-The two domains therefore complement each other. The Vedas preserve Sanskrit's architecture in active use. लौकिक (*Laukika*) speakers apply that architecture throughout a changing world. Either domain by itself would leave one of Sanskrit's two purposes unfinished.
+The two domains therefore complement each other. The Vedas preserve Sanskrit's architecture in active use. लौकिक (*laukika*) speakers apply that architecture throughout a changing world. Either domain by itself would leave one of Sanskrit's two purposes unfinished.
 
 The shared vowel architecture provides a compact example. Both domains use the same vowel families and ordinary duration relations. The वैदिक (*vaidika*) domain adds the pitch and lineage-bounded forms required by received passages, while लौकिक (*laukika*) speakers use the common vowel system when they create new expressions.
 
-![Figure 16.2 — One Svara Architecture, Two Domains. वैदिक (*Vaidika*) preservation and laukika composition use the same vowel system under different permissions. Vedic pitch and exact lineage-preserved forms belong to received passages; new composition belongs to the लौकिक (*laukika*) domain; pluta remains Restricted in both.](figures/vaidika_लौकिक (*laukika*)/svara_two_domains.svg){#fig:ch16-svara-two-domains width=100%}
+![Figure 16.2 — One Svara Architecture, Two Domains. वैदिक (*vaidika*) preservation and लौकिक (*laukika*) composition use the same vowel system under different permissions. Vedic pitch and exact lineage-preserved forms belong to received passages; new composition belongs to the लौकिक (*laukika*) domain; प्लुत (*pluta*) remains Restricted in both.](figures/vaidika_laukika/svara_two_domains.svg){#fig:ch16-svara-two-domains width=100%}
 
 ## 16.2 Ten Contributions, Four Architectural Functions
 
-The वैदिक (*vaidika*) domain preserves a wider range of forms and operations. Some occur only within Vedic passages. Others, including pluta, meter, and certain sound operations, also appear in लौकिक (*laukika*) Sanskrit but follow different restrictions. The most revealing differences include additional endings, movable upasargas, contextual sounds, pitch, and verbal forms whose meanings overlap with other lakāras.
+The वैदिक (*vaidika*) domain preserves a wider range of forms and operations. Some occur only within Vedic passages. Others, including प्लुत (*pluta*), meter, and certain sound operations, also appear in लौकिक (*laukika*) Sanskrit but follow different restrictions. The most revealing differences include additional endings, movable उपसर्गाः (*upasargāḥ*), contextual sounds, pitch, and verbal forms whose meanings overlap with other लकाराः (*lakārāḥ*).
 
 The pyramid treats these differences as remnants of an "archaic" language. That description assumes the botanical chronology it is supposed to prove: Vedic Sanskrit was older, its irregular forms gradually disappeared, and a later language emerged in their place.
 
@@ -58,15 +58,15 @@ The evidence in this chapter tells a different story. The वैदिक (*vaid
 
 The engineering of the लौकिक (*laukika*) domain makes a tighter selection. Before a sonance, ending, verbal form, or grammatical operation becomes available for new composition, it must remain distinguishable inside sentences that have never existed before. A resource may contribute meaning, rhythm, or expression to a fixed Vedic passage yet create needless duplication or collision when every future speaker can use it anywhere.
 
-The two domains therefore use different forms of engineering. वैदिक (*Vaidika*) places greater architectural breadth inside content that never changes. लौकिक (*Laukika*) selects fewer reusable options so that speakers can continue generating new words and sentences without limit. The labels *"archaic"* and *"Classical"* reverse this evidence. They take two sets of permissions designed for two purposes and falsely turn them into an old language and a new language.
+The two domains therefore use different forms of engineering. वैदिक (*vaidika*) places greater architectural breadth inside content that never changes. लौकिक (*laukika*) selects fewer reusable options so that speakers can continue generating new words and sentences without limit. The labels *"archaic"* and *"Classical"* reverse this evidence. They take two sets of permissions designed for two purposes and falsely turn them into an old language and a new language.
 
 The read-only Vedic corpus can preserve a wider range of forms because every form remains attached to fixed words, pitch, sequence, and inherited interpretation. These boundaries help a reader distinguish forms that could collide in a newly composed sentence. The लौकिक (*laukika*) domain faces a different requirement. Its speakers create sentences that have never existed before, so its reusable forms must remain clear without depending on a permanently fixed context.
 
 Chapter 9 called this recurring logic the ***Principle of Architectural Selection and Scope (PASS)***. There it appeared as four tests for deciding whether a sound should receive a reusable grid address. At the scale of the two domains, PASS compares what each additional resource contributes with the duplication, variation, or collision it introduces. The वैदिक (*vaidika*) domain can accept that load because pitch, fixed wording, inherited interpretation, and exact transmission contain it within a received passage. The लौकिक (*laukika*) domain receives the resource only when its contribution remains greater than its load across unrestricted new composition.
 
-Figure 16.3 applies that principle. The checks mark the two combinations Sanskrit selects. वैदिक (*Vaidika*) combines extended designed variation with read-only content. लौकिक (*Laukika*) combines a more restricted range with generative content. The crosses show what each domain would lose under the other combination: without its extended range, the Vedas would become an insufficient calibrant; with the full Vedic range, unrestricted लौकिक (*laukika*) composition would become collision-prone.
+Figure 16.3 applies that principle. The checks mark the two combinations Sanskrit selects. वैदिक (*vaidika*) combines extended designed variation with read-only content. लौकिक (*laukika*) combines a more restricted range with generative content. The crosses show what each domain would lose under the other combination: without its extended range, the Vedas would become an insufficient calibrant; with the full Vedic range, unrestricted लौकिक (*laukika*) composition would become collision-prone.
 
-![Figure 16.3 — One Architecture, Two Complementary Domains. Checks identify the two scopes selected by Sanskrit's architecture. Crosses identify the rejected combinations: extending Vedic variation into unrestricted composition would magnify collisions, while removing that variation from the Vedas would leave an insufficient calibrant.](figures/vaidika_लौकिक (*laukika*)/two_domain_permissions_matrix.svg){#fig:ch16-two-domain-permissions-matrix width=100%}
+![Figure 16.3 — One Architecture, Two Complementary Domains. Checks identify the two scopes selected by Sanskrit's architecture. Crosses identify the rejected combinations: extending Vedic variation into unrestricted composition would magnify collisions, while removing that variation from the Vedas would leave an insufficient calibrant.](figures/vaidika_laukika/two_domain_permissions_matrix.svg){#fig:ch16-two-domain-permissions-matrix width=100%}
 
 These engineered differences contribute to the design in ten broad ways and belong to four larger architectural functions.
 
@@ -94,7 +94,7 @@ Three contributions expand what a bounded Vedic passage can express or arrange.
 
 7. **Compact semantic distinctions.** An additional लकार (*lakāra*), pronoun form, participle, or infinitive can express a distinction required by a passage even when the लौकिक (*laukika*) domain uses a smaller set for new composition.
 
-8. **Poetic and compositional arrangement.** Alternate forms and movable upasargas give a Vedic passage additional possibilities for meter, resonance, and emphasis.
+8. **Poetic and compositional arrangement.** Alternate forms and movable उपसर्गाः (*upasargāḥ*) give a Vedic passage additional possibilities for meter, resonance, and emphasis.
 
 ### Specialized Vedic Deployment
 
@@ -112,7 +112,7 @@ The next four sections show these functions through representative passages. App
 
 ### Pitch, Meter, and Recitation
 
-***छन्दस् (chandas)*** gives a Vedic mantra its rhythm. ***स्वर (svara)*** raises and lowers the voice, giving the mantra its tune. Together, they make the Vedas resemble a vast repertoire of songs committed to memory. Each lineage learns its mantras as a singer learns a song: the words, beat, rises, falls, and pauses are remembered together. Society then hears them during ***यज्ञाः (yajñāḥ)***, weddings, saṃskāras, and other occasions. The Sāmaveda carries this architecture most fully into song; the other Vedas use their own measured patterns of recitation. Rhythm and tune help preserve the words, while every wrong syllable, beat, or note becomes easier to hear.
+छन्दस् (*chandas*) gives a Vedic mantra its rhythm. स्वर (*svara*) raises and lowers the voice, giving the mantra its tune. Together, they make the Vedas resemble a vast repertoire of songs committed to memory. Each lineage learns its mantras as a singer learns a song: the words, beat, rises, falls, and pauses are remembered together. Society then hears them during यज्ञाः (*yajñāḥ*), weddings, संस्काराः (*saṃskārāḥ*), and other occasions. The Sāmaveda carries this architecture most fully into song; the other Vedas use their own measured patterns of recitation. Rhythm and tune help preserve the words, while every wrong syllable, beat, or note becomes easier to hear.
 
 Vedic ***स्वर (*svara*)*** forms part of the grammatical design. Reciters preserve the assigned ***उदात्त (*udātta*), अनुदात्त (*anudātta*),*** and ***स्वरित (*svarita*)*** of each passage. The pattern follows rules connected to words, affixes, sentence position, and syntax. A finite verb may retain an accent under one sentence condition and lose it under another. A vocative can likewise change its accent when another word precedes it.[NOTE: vedic-svara-system]
 
@@ -126,13 +126,13 @@ Meter supplies another audible structure. Ṛgveda 1.1.7 ends:
 >
 > Bearing reverence, we approach.
 
-The visible **एमसि (*emasi*)** resolves into **आ + इमसि (*ā + imasi*)**. The personal ending **-मसि (*-masi*)** gives **इमसि (*imasi*)** three syllables, while the corresponding लौकिक (*laukika*) ending **-मस् (*-mas*)** would produce **एमः (*emaḥ*)**. The complete Vedic *pāda* has the eight syllables required by Gāyatrī. Replacing **एमसि** with **एमः** would remove one.[NOTE: vedic-personal-ending-imasi]
+The visible **एमसि (*emasi*)** resolves into **आ + इमसि (*ā + imasi*)**. The personal ending **-मसि (*-masi*)** gives **इमसि (*imasi*)** three syllables, while the corresponding लौकिक (*laukika*) ending **-मस् (*-mas*)** would produce **एमः (*emaḥ*)**. The complete Vedic पाद (*pāda*) has the eight syllables required by Gāyatrī. Replacing **एमसि** with **एमः** would remove one.[NOTE: vedic-personal-ending-imasi]
 
 The additional syllable therefore performs a clear job in this passage. It completes the meter while preserving the same person and number. It also gives the reciter two ways to detect a change: shortening the ending would alter both the verbal form and the eight-syllable line.
 
-The Veda can also select between two endings that it already preserves. Adjacent verses in Ṛgveda 3.32 use **रुद्रैः (*rudraiḥ*)** in one eleven-syllable line and **रुद्रेभिः (*rudrebhiḥ*)** in another. Both forms express the ***तृतीया बहुवचनम् (*tṛtīyā bahuvacanam*, instrumental plural)*** of **रुद्र (*rudra*)**. The first has two syllables and the second has three. Exchanging them would give one line twelve syllables and the other ten.[NOTE: vedic-akaranta-instrumental-plural-range]
+The Veda can also select between two endings that it already preserves. Adjacent verses in Ṛgveda 3.32 use **रुद्रैः (*rudraiḥ*)** in one eleven-syllable line and **रुद्रेभिः (*rudrebhiḥ*)** in another. Both forms express the तृतीया बहुवचनम् (*tṛtīyā bahuvacanam*), the instrumental plural, of **रुद्र (*rudra*)**. The first has two syllables and the second has three. Exchanging them would give one line twelve syllables and the other ten.[NOTE: vedic-akaranta-instrumental-plural-range]
 
-The Veda preserves both endings in adjacent verses and uses each to complete its metrical line. Within this passage, both remain available at the same time; one is not an old form being replaced by a new one. Each passage selects the ending that completes its line, while the लौकिक (*laukika*) domain uses **-aiḥ** consistently when speakers create new expressions. Allowing speakers to use both endings freely in new लौकिक (*laukika*) compositions would give every akārānta word two forms for the same vibhakti, number, and grammatical relation without adding meaning. The duplicate path would increase variation across unrestricted composition and give entropy another opening, while **-aiḥ** already performs the complete grammatical function. Appendix Part 8 gives the two complete passages and places this pair inside the full inventory of Vedic declensional forms.
+The Veda preserves both endings in adjacent verses and uses each to complete its metrical line. Within this passage, both remain available at the same time; one is not an old form being replaced by a new one. Each passage selects the ending that completes its line, while the लौकिक (*laukika*) domain uses **-aiḥ** consistently when speakers create new expressions. Allowing both endings in new लौकिक (*laukika*) compositions would give every word ending in अ (*a*) two endings for the same case, number, and grammatical relation without adding meaning. The duplicate path would increase variation across unrestricted composition and give entropy another opening, while **-aiḥ** already performs the complete grammatical function. Appendix Part 8 gives the two complete passages and places this pair inside the full inventory of Vedic declensional forms.
 
 ### Sounds Selected for a Received Passage
 
@@ -146,7 +146,7 @@ The opening mantra of the Ṛgveda shows another kind of selection:
 >
 > I praise Agni, the household priest, the divine priest of the यज्ञ (*yajña*), the invoker, the finest giver of treasure.
 
-A student trained in लौकिक (*laukika*) Sanskrit may pause at **ईळे (*īḷe*)**. Laukika Sanskrit uses **ईडे (*īḍe*)**, *I praise*. The Ṛgvedic lineage preserves the retroflex lateral **ळ [ɭ]** in the received word.[NOTE: agnimile-rigveda-opening]
+A student trained in लौकिक (*laukika*) Sanskrit may pause at **ईळे (*īḷe*)**. लौकिक (*laukika*) Sanskrit uses **ईडे (*īḍe*)**, *I praise*. The Ṛgvedic lineage preserves the retroflex lateral **ळ [ɭ]** in the received word.[NOTE: agnimile-rigveda-opening]
 
 Chapter 9 calls **ळ** a Lineage-Bounded off-grid sonance. It has no independent address in the reusable sonomer grid. The Ṛgvedic lineage can preserve it because the received word, position, and pronunciation never change.
 
@@ -158,7 +158,7 @@ Sound pattern can support memory even when it adds no new grammatical relation. 
 
 The Vedas use poetic expression as part of their preservation architecture. Free word order allows words to occupy positions that support meter, resonance, and emphasis, while their endings continue to identify their grammatical relations. Repetition, vowel relation, alliteration, pitch, and meter then give memory several paths back to the same passage and give reciters several ways to detect change.
 
-लौकिक (*Laukika*) poets use the same broader principle through repetition, ***अनुप्रास (*anuprāsa*)***, ***यमक (*yamaka*)***, onomatopoeia, and many meters. Vedic mantras use these choices inside a read-only corpus. Once a mantra was seen and received, its lineage preserved the selected arrangement exactly.
+लौकिक (*laukika*) poets use the same broader principle through repetition, अनुप्रास (*anuprāsa*), यमक (*yamaka*), onomatopoeia, and many meters. Vedic mantras use these choices inside a read-only corpus. Once a mantra was seen and received, its lineage preserved the selected arrangement exactly.
 
 Uncovering this architecture suggests a much larger possibility: ***छन्दस् (*chandas*)*** and poetic meter may have been humanity’s earliest deliberately engineered technology for preserving speech. Beauty, rhythm, and resonance were therefore more than aesthetic qualities; they formed part of the engineering through which memory could preserve language across generations.
 
@@ -178,18 +178,18 @@ The directional **आ** belongs with **वहन्तु (*vahantu*)**, *let th
 
 Vedic prose preserves separation similar to Vedic poetry. Appendix Part 8 gives an Aitareya Brāhmaṇa passage in which **आ** remains separated from **दत्ते (*datte*)** and **निर् (*nir*)** from **नुदते (*nudate*)**. The prose sequence never changes, so the reader always encounters each operator inside the same complete construction.[NOTE: aitareya-brahmana-separated-upasargas]
 
-The वैदिक (*vaidika*) domain can permit this positional freedom because its passages are bounded and invariant. Extending the same freedom to newly composed लौकिक (*laukika*) sentences would give entropy an opening through which the bond between an upasarga and its atom could loosen.
+The वैदिक (*vaidika*) domain can permit this positional freedom because its passages are bounded and invariant. Extending the same freedom to newly composed लौकिक (*laukika*) sentences would give entropy an opening through which the bond between an उपसर्ग (*upasarga*) and its atom could loosen.
 
 The read-write लौकिक (*laukika*) domain cannot rely on a permanently fixed sequence. If the लौकिक (*laukika*) domain allowed floating उपसर्गाः (*upasargāḥ*), a writer would be allowed to float several उपसर्गाः (*upasargāḥ*) among several actions in a new sentence. The reader would then lose track of which operator modifies which atom.
 
 Consistent with the two-domain engineering, लौकिक (*laukika*) Sanskrit therefore bonds the उपसर्ग (*upasarga*) more tightly to its atom, while the Vedic domain preserves positional freedom inside invariant passages.
 
 
-### लेट्लकार (*Leṭ Lakāra*): What It Adds and Where It Collides
+### लेट्लकार (*leṭ-lakāra*): What It Adds and Where It Collides
 
-The leṭ lakāra is a powerful verbal form that can express desire, intention, urging, and an action approaching realization. Its semantic range overlaps with parts of the ranges expressed by loṭ, liṅ, āśīrliṅ, and lṛṭ.
+लेट्लकार (*leṭ-lakāra*) is a powerful verbal form that can express desire, intention, urging, and an action approaching realization. Its semantic range overlaps with parts of the ranges expressed by लोट् (*loṭ*), लिङ् (*liṅ*), आशीर्लिङ् (*āśīrliṅ*), and लृट् (*lṛṭ*).
 
-Although it extends Sanskrit's verbal range, Sanskrit uses the लेट् (leṭ) lakāra within the Vedic domain, while the grammatical disciplines document its forms and operations.
+Although it extends Sanskrit's verbal range, Sanskrit uses लेट्लकार (*leṭ-lakāra*) within the Vedic domain, while the grammatical disciplines document its forms and operations.
 
 What engineering rationale binds it out of the लौकिक (*laukika*) domain? The answer is **collision**. Some ***लेट् (*leṭ*)*** forms directly collide with those of ***लोट् (*loṭ*)***.
 
@@ -201,7 +201,7 @@ As an example, Ṛgveda 6.16.16 uses:
 >
 > Come now, Agni. May I address other praises to you in this way.
 
-A student trained only in लौकिक (*laukika*) Sanskrit would see **ब्रवाणि (*bravāṇi*)** and identify it as first-person singular लोट् (*loṭ*): *let me speak*. In this mantra, **ब्रवाणि** belongs to लेट् (*leṭ*): *may I speak* or *I shall speak*. The same visible word can therefore belong to two different लकाराः (*lakāras*).[NOTE: vedic-let-bravani-tarisat]
+A student trained only in लौकिक (*laukika*) Sanskrit would see **ब्रवाणि (*bravāṇi*)** and identify it as first-person singular लोट् (*loṭ*): *let me speak*. In this mantra, **ब्रवाणि (*bravāṇi*)** belongs to लेट् (*leṭ*): *may I speak* or *I shall speak*. The same visible word can therefore belong to two different लकाराः (*lakāras*).[NOTE: vedic-let-bravani-tarisat]
 
 If collision affects लौकिक (*laukika*) compositions, would it not affect Vedic compositions as well?
 
@@ -215,11 +215,11 @@ Another mantra shows why the additional लकार (*lakāra*) adds texture to
 >
 > May it prolong our lives.
 
-**तारिषत् (*tāriṣat*)** presents the prolonging of life as desired or prospective. Across Vedic use, लेट् (*leṭ*) can express action as desired, intended, urged, or approaching realization. **ब्रवाणि** shows the collision; **तारिषत्** shows the semantic range gained by preserving the लकार (*lakāra*).
+**तारिषत् (*tāriṣat*)** presents the prolonging of life as desired or prospective. Across Vedic use, लेट् (*leṭ*) can express action as desired, intended, urged, or approaching realization. **ब्रवाणि (*bravāṇi*)** shows the collision; **तारिषत् (*tāriṣat*)** shows the semantic range gained by preserving the लकार (*lakāra*).
 
 Its contribution, collisions, and Vedic protections explain why लेट् (*leṭ*) remains in the Vedic domain:
 
-- **Contribution:** लेट् (*Leṭ*) gathers desire, intention, urging, and action approaching realization into one verbal resource.
+- **Contribution:** लेट् (*leṭ*) gathers desire, intention, urging, and action approaching realization into one verbal resource.
 - **Load:** some of its forms collide visibly with लोट् (*loṭ*), while much of its meaning overlaps with लोट् (*loṭ*), लिङ् (*liṅ*), आशीर्लिङ् (*āśīrliṅ*), and लृट् (*lṛṭ*).
 - **Bounding support:** Vedic pitch adds grammatical information, and every form remains inside fixed words, syntax, sequence, position, and inherited interpretation.
 - **Scope:** the Vedic domain retains the additional range. Extending it to every new लौकिक (*laukika*) composition would reopen the collisions without the same pitch layer or fixed passage to contain them.
@@ -232,7 +232,7 @@ Appendix Part 8 tests every लेट्–लोट् (*leṭ–loṭ*) coordi
 
 ## 16.5 Specialized Vedic Deployment
 
-The *chronological misrepresentation* of the four Vedas is an asuric narrative that completely misses their design intent. Rather than representing different historical epochs, each gives particular functional demands greater prominence: the Ṛgveda invokes and addresses; the Sāmaveda structures mantra for song; the Yajurveda joins mantra with specified action and exposition; and the Atharvaveda gives greater space to protection, healing, correction, and restoration.
+The chronological misrepresentation of the four Vedas is an asuric narrative that conceals their design. It recasts distinct functional responsibilities as historical stages. The Ṛgveda invokes and addresses; the Sāmaveda structures mantra for song; the Yajurveda joins mantra with specified action and exposition; and the Atharvaveda gives greater space to protection, healing, correction, and restoration.
 
 Ṛgveda 10.71.11 describes differentiated responsibilities within Vedic transmission: one cultivates the ***ऋच् (*ṛc*)***, another sings the ***सामन् (*sāman*)***, the ***ब्रह्मा (*brahmā*)*** expresses the knowledge required for his responsibility, and another measures the ***यज्ञ (*yajña*)***.[NOTE: vedic-functional-range-linguistic-calibrant]
 
@@ -256,19 +256,19 @@ Meter can detect a missing syllable but cannot by itself establish every word. P
 
 Taken together, the checks create a distributed audit. A student recites before a teacher, peers, senior reciters, and a community whose members have inherited the same recitational form. A deviation may disturb sound, duration, pitch, meter, grammar, sequence, and memory at once. No single office needs to own the passage because the checks live in the architecture and in the trained people who preserve it.
 
-## 16.7 How लौकिक (*Laukika*) Keeps Sanskrit Useful
+## 16.7 How लौकिक (*laukika*) Keeps Sanskrit Useful
 
 The लौकिक (*laukika*) domain keeps Sanskrit useful by allowing people to generate expressions for circumstances that no fixed corpus could list in advance. Its speakers do not need to change the language every time they encounter a new object or idea. They apply a stable architecture and create the words, compounds, and sentences they need.
 
 Sanskrit generates this open vocabulary from a finite set of reusable parts and operations. Sonomers combine into larger sound-forms. Atoms bond with affixes and उपसर्गाः (*upasargāḥ*). Nominal forms show how words relate to one another. Verbal forms identify action, person, number, and mode. Compounding allows several concepts to become one new molecule, and that molecule can enter another compound.
 
-### The Small लौकिक (*Laukika*)-Only Extension
+### The Small लौकिक (*laukika*)-Only Extension
 
 The narrow *Laukika Only* extension in Figure 16.1 contains forms and operations restricted to लौकिक (*laukika*) composition. Most of the generative engine belongs to the shared architecture, which supplies the sounds, atoms, endings, and sentence operations that लौकिक (*laukika*) speakers apply to new composition. Before placing an example in the narrow strip, the book must verify that the rule is actually restricted to लौकिक (*laukika*) usage. A rule marked भाषा (*bhāṣā*) may also overlap Brāhmaṇa or another non-mantra setting.
 
-A small number of forms belong specifically to भाषा (*bhāṣā*). Pāṇini's documentation and the examples preserved in the काशिकावृत्ति (*Kāśikāvṛtti*) distinguish भाषा (*bhāṣā*) forms such as **निषण्ण (*niṣaṇṇa*)** and **सृता (*sṛtā*)** from Vedic **निषत्त (*niṣatta*)** and **सूर्त (*sūrta*)**. They similarly place **सुषुवे (*suṣuve*)** beside Vedic **ससूव (*sasūva*)**, and **सोढ्वा (*soḍhvā*)** beside Vedic **साढ्वा (*sāḍhvā*)**. **उपसेदिवान् (*upasedivān*)** supplies another form expressly documented under भाषायाम् (*bhāṣāyām*). Together, these examples account for the narrow लौकिक (*laukika*)-only strip in Figure 16.1. Appendix Part 8 gives the grammatical record behind these contrasts.[NOTE: लौकिक (*laukika*)-only-scope-examples]
+A small number of forms belong specifically to भाषा (*bhāṣā*). Pāṇini's documentation and the examples preserved in the काशिकावृत्ति (*Kāśikāvṛtti*) distinguish भाषा (*bhāṣā*) forms such as **निषण्ण (*niṣaṇṇa*)** and **सृता (*sṛtā*)** from Vedic **निषत्त (*niṣatta*)** and **सूर्त (*sūrta*)**. They similarly place **सुषुवे (*suṣuve*)** beside Vedic **ससूव (*sasūva*)**, and **सोढ्वा (*soḍhvā*)** beside Vedic **साढ्वा (*sāḍhvā*)**. **उपसेदिवान् (*upasedivān*)** supplies another form expressly documented under भाषायाम् (*bhāṣāyām*). Together, these examples account for the narrow लौकिक (*laukika*)-only strip in Figure 16.1. Appendix Part 8 gives the grammatical record behind these contrasts.[NOTE: laukika-only-scope-examples]
 
-**चन्द्रयान (*Candrayāna*)** shows this generative ability plainly. Sanskrit joins **चन्द्र (*candra*, Moon)** and **यान (*yāna*, vehicle)** to create a molecule for a modern lunar vehicle. The same compounding architecture appears in the Vedic **पुरोहित (*purohita*)**, the person *placed in front*, but the permissions differ. The Vedic compound remains exactly where it was received; लौकिक (*laukika*) speakers can repeat the same joining whenever the world presents a new circumstance.
+**चन्द्रयान (*candrayāna*)** shows this generative ability plainly. Sanskrit joins **चन्द्र (*candra*)**, Moon, and **यान (*yāna*)**, vehicle, to create a molecule for a modern lunar vehicle. The same compounding architecture appears in the Vedic **पुरोहित (*purohita*)**, the person *placed in front*, but the permissions differ. The Vedic compound remains exactly where it was received; लौकिक (*laukika*) speakers can repeat the same joining whenever the world presents a new circumstance.
 
 A poet can use these operations to create an image that no earlier poet used. A physician can distinguish a newly observed condition. A mathematician can define a new relationship, while an astronomer can describe a new calculation. A manufacturer can specify an unfamiliar process, and a trader can name a new commodity or agreement. Their subjects, sentences, and combinations can be new while the language remains Sanskrit.
 
@@ -276,13 +276,13 @@ A speaker can derive or compose a new expression from the architecture without w
 
 The लौकिक (*laukika*) corpus in use today changes even though the language does not. People add poems, explanations, stories, analyses, and technical compositions. Communities decide which compositions to copy, teach, perform, quote, and remember. Some fall from use because later generations release or forget them. Others disappear through conquest and deliberate destruction. The corpus therefore grows through new composition and selection while also suffering loss.
 
-***लौकिक (*laukika*)*** means *worldly*. लौकिक (*Laukika*) Sanskrit serves the world through generativity. Natural languages often meet new circumstances as generations of speakers change sounds, forms, vocabulary, and meaning. लौकिक (*Laukika*) Sanskrit offers another possibility: speakers generate new expression while the architecture remains stable.
+***लौकिक (*laukika*)*** means *worldly*. लौकिक (*laukika*) Sanskrit serves the world through generativity. Natural languages often meet new circumstances as generations of speakers change sounds, forms, vocabulary, and meaning. लौकिक (*laukika*) Sanskrit offers another possibility: speakers generate new expression while the architecture remains stable.
 
 The usage adapts; *the language does not*.
 
 No constructed language can preserve itself through grammar alone, no matter how elegant, scalable, or universal that grammar may be. It may begin with a flawless structure, but later generations will introduce variation unless they inherit both a strict mechanism for correction and a reason to preserve it. Sanskrit meets both requirements by binding its generative architecture directly to ***संस्कृति (*saṃskṛti*)***. Sanskrit's architecture remains preserved because maintaining that architecture is inextricably linked to the purpose of maintaining the civilization itself.
 
-## 16.8 How the Veda Calibrates लौकिक (*Laukika*) Sanskrit
+## 16.8 How the Veda Calibrates लौकिक (*laukika*) Sanskrit
 
 Chapters 13–15 established how the Vedas remain invariant and available for comparison. Exact recitation protects the received form, several recitation paths expose departures, and distributed teachers and listeners perform correction. That preservation architecture allows the Vedas to serve as a continuing sound and grammar calibrant for लौकिक (*laukika*) Sanskrit.
 
@@ -292,7 +292,7 @@ Across the four Vedas and their prose extensions, the corpus preserves Sanskrit'
 
 The Vedas therefore encode an *implicit* language manual. Their passages use the architecture across a wide range of expression. Because their passages remain unchanged, later analysts can examine them without first reconstructing what an earlier version might have contained.
 
-The surrounding disciplines make that implicit manual teachable. ***शिक्षा (*śikṣā*)*** explains sound and instruction. The ***प्रातिशाख्य (*Prātiśākhya*)*** texts document phonetic requirements associated with particular Vedic corpora. ***छन्दस् (*chandas*)*** examines metrical composition. ***निरुक्त (*nirukta*)*** unfolds words through their actions and formations. ***व्याकरणम् (*vyākaraṇam*)*** analyzes the operations that make Sanskrit expressions intelligible.
+The surrounding disciplines make that implicit manual teachable. शिक्षा (*śikṣā*) explains sound and instruction. The प्रातिशाख्य (*Prātiśākhya*) texts document phonetic requirements associated with particular Vedic corpora. छन्दस् (*chandas*) examines metrical composition. निरुक्त (*nirukta*) unfolds words through their actions and formations. व्याकरणम् (*vyākaraṇam*) analyzes the operations that make Sanskrit expressions intelligible.
 
 The ***वैयाकरणाः (*vaiyākaraṇāḥ*)*** documented both domains, but they did not calibrate the Vedas. The Vedas were the calibrant. Their analysis made the preserved architecture explicit and helped लौकिक (*laukika*) speakers remain within it.
 
@@ -314,7 +314,7 @@ The arrangement varied across regions, households, शाखाः (*śākhās*)
 
 The arrangement remained distributed. No single household had to preserve every Veda, every science, every story, and every analytical discipline. Different households and communities accepted different responsibilities while their shared architecture allowed knowledge to move among them.
 
-Appendix Part 8 gives historical cases in which the same Sanskrit society combined exact Vedic preservation with wide-ranging explanation and लौकिक (*laukika*) composition. These cases prevent the two domains from being mistaken for two populations, two languages, or two chronological stages.[NOTE: वैदिक (*vaidika*)-laukika-household-responsibility-cases]
+Appendix Part 8 gives historical cases in which the same Sanskrit society combined exact Vedic preservation with wide-ranging explanation and लौकिक (*laukika*) composition. These cases prevent the two domains from being mistaken for two populations, two languages, or two chronological stages.[NOTE: vaidika-laukika-household-responsibility-cases]
 
 ## 16.10 Two Permissions, One Architecture
 
@@ -334,7 +334,7 @@ Transmission lineages preserve the Vedas. Other Sanskrit speakers keep the langu
 
 Exact transmission resists entropy. The Vedas remain available in their inherited words, sequence, pitch, meter, and recitational forms after thousands of years. Sanskrit did not fragment into separate Vedic and लौकिक (*laukika*) languages. A student can still learn their shared architecture and then learn the bounded differences required for reading and recitation.
 
-Distribution resists capture. Asuric assaults destroyed teachers, schools, manuscripts, patronage, and public access to Sanskrit. Yet no conqueror, colonial office, university, or modern government gained custody of the calibrant. Transmission lineages preserved the Vedas outside their authority. लौकिक (*Laukika*) Sanskrit remained available across society for explanation, composition, and recovery.
+Distribution resists capture. Asuric assaults destroyed teachers, schools, manuscripts, patronage, and public access to Sanskrit. Yet no conqueror, colonial office, university, or modern government gained custody of the calibrant. Transmission lineages preserved the Vedas outside their authority. लौकिक (*laukika*) Sanskrit remained available across society for explanation, composition, and recovery.
 
 The survival is measurable. The fact that this book can compare the two domains demonstrates that the passages, grammar, analytical disciplines, and transmission lineages survived both natural entropy and deliberate assault. The architecture did not prevent every loss, but it prevented loss from becoming complete and authority from becoming final.
 

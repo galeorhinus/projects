@@ -6,6 +6,8 @@ Synthesis of empirical engineering signals extracted from the Pāṇinian *Dhāt
 
 ---
 
+> **Status note (2026-08-26):** This file preserves the May 2026 interpretive analysis, including provisional counts produced before the corrected marker-aware stripping pass. Use the generated reports in `data/derived/`, Chapter 10, and Appendix Part 6 for current numerical totals. The scripts remain the source of truth; a full refresh of this interpretive file is still pending.
+
 ## 1. Methodology summary
 
 ### Data source

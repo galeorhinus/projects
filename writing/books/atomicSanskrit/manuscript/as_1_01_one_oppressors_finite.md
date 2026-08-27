@@ -1,9 +1,5 @@
 # Chapter 1 — One, the Apex, and the Finite
 
-*Draft v1. Active antagonist chapter promoted from AP0. Introduces the finite apex-order before Part I exposes how the shadow is cast. Keeps the Atri payoff out of the body; Epilogue owns the recovery.*
-
----
-
 ::: epigraph
 
 > द्वौ भूतसर्गौ लोकेऽस्मिन् दैव आसुर एव च ।\
@@ -24,7 +20,7 @@ The number here is **one**: the asuric one, the apex-one.
 
 One ruler. One doctrine. One permitted origin. One authorized text. One sanctioned interpretation. One gate through which reality must pass before it is allowed to be called True.
 
-Chapter 0 used follower in the Sanātan sense: a seeker who has *chosen a path*. Two words highlight the distinction: **a** and **chosen**. *A path* means plurality. *Chosen* means agency. The pyramid is threatened by both. It wants one road, one gate, one sanctioned account of knowledge and obedience.
+Chapter 0 used follower in the सनातन (*Sanātan*) sense: a seeker who has *chosen a path*. Two words highlight the distinction: **a** and **chosen**. *A path* means plurality. *Chosen* means agency. The pyramid is threatened by both. It wants one road, one gate, one sanctioned account of knowledge and obedience.
 
 And the one is a Him — a blank each age fills with a new name. Hiraṇyakaśipu, who would suffer no worship but his own. Rāvaṇa, whose will was the law of three worlds. Vṛtra, who seized the waters and called the withholding order. The names change; the Him does not. A later age enthrones Him beyond the sky, capitalizes His name, puts His order past question, brooking no other before Him. New face. No Image. Same apex.[NOTE: devi-mahatmya-goddess-undoes-male-apex]
 
@@ -48,7 +44,7 @@ The finite is all they have seen. The finite is all they can model. The finite t
 
 Genesis presents the same pattern in scriptural key: one birth, one life, one death, one Heaven, one Hell. A single beginning, a single command, a single authorized account of origin, and a single final judgment at the end of the line. The pyramid needs that first point. Once the beginning is owned, the sequence can be owned. Once the sequence is owned, the entire order can be judged from outside. In philology, PIE performs the same work. In chronology, the date performs the same work. Control the first point, and the rest can be made to follow.
 
-The argument concerns the structure and its apex, not every person who lives inside it. Most people enter schools, professions, categories, and incentive systems they did not design. Their worldview is shaped by what they can see and interpret. The pyramid deeply invested in shaping that worldview.
+The argument concerns the structure and its apex, not every person who lives inside it. Most people enter schools, professions, categories, and incentive systems they did not design. Their worldview is shaped by what they can see and interpret. The pyramid invests heavily in shaping that worldview.
 
 The pyramid often takes a reductive idea, dresses it in grand terminology, and cements it as unquestionable dogma. It then enforces that dogma through an authorized curriculum built on an official doctrine and propagated by certified intellectuals. The system rewards obedience as knowledge.
 
@@ -114,7 +110,7 @@ When these attacks failed to erase Sanskrit, the pyramid changed its method. Sva
 
 The pyramid places PIE above Sanskrit. Its codification myth recasts Pāṇini’s documentation as the late imposition of order on a natural language. It reduces Sanskrit’s architecture to an expression of social power and converts designed differences into stages on a timeline. Each move removes Sanskrit from its engineered category.
 
-The pyramid repeats this category theft with Indic writing systems. It files them under abugida, a category of scripts from another continent that encode radically different linguistic architectures. Chapter 8 examines that theft in detail.
+The classification is almost deliberately insulting. The pyramid takes an architecture built to render Sanskrit's sonomeric grid and files it under *abugida*, a label borrowed from Geʿez. By the same method, English can be classified as Polynesian because Britain is an island, a computer as a typewriter because both have keys, and a temple as a warehouse because both have walls, doors, and a roof. Appendix Part 3 examines that theft in detail.
 
 The result is field-loss. Sanskrit, its architecture, its sounds, and its writing systems remain present, but the world becomes अक्षेत्रवित् (*akṣetravit*): unable to discern the terrain.
 
@@ -142,17 +138,17 @@ At the scale of institutions, concealment joins seven other repeatable methods. 
 
 These eight methods can target light, water, knowledge, language, or an entire civilization. Against Sanskrit, they converge on a category attack. The pyramid places PIE above the real language, classifies Sanskrit as a derived natural language, and carries that classification into ordinary speech through words such as *branch, daughter, reconstruction, codification, early, late,* and *primitive*. Sanskrit remains visible, but the pyramid controls the categories through which its subjects perceive it.
 
-## 1.5 असत् (Asat), and the Architecture It Builds
+## 1.5 असत् (*Asat*) and the Architecture It Builds
 
 Chapter 0 showed **वैदिक सत् (*vaidika sat*)** as alignment with ऋत (*ṛta*), expressed through the actions and titles of the protagonists. This section follows **वैदिक असत् (*vaidika asat*)** in the opposite direction. The Veda places सत् (*sat*) and असत् (*asat*) in direct opposition. Svarbhānu darkens Sūrya, Vṛtra dams the waters, and the Paṇis hoard the cattle associated with light. Their actions place them on the असत् (*asat*) side of that opposition.
 
-Power over others is the asuric pyramid’s motive for battle. By contrast, Sanātan Sanskrit records battles fought to protect सत् (*sat*) against असत् (*asat*). Power alone does not make an actor a protagonist or antagonist. That distinction comes from what the actor chooses to do with the power. Varuṇa props heaven, establishes the earth, and maintains an ordered space in which life, water, and light can move. Vṛtra wields comparable power to dam the same waters shut. The Veda does not condemn power, and it does not require the powerless to be innocent; it condemns power turned toward closure. Every antagonist below fails this test the way Vṛtra does — not by being weak, but by turning strength against circulation.
+Power over others is the asuric pyramid’s motive for battle. By contrast, सनातन (*Sanātan*) Sanskrit records battles fought to protect सत् (*sat*) against असत् (*asat*). Power alone does not make an actor a protagonist or antagonist. That distinction comes from what the actor chooses to do with the power. Varuṇa props heaven, establishes the earth, and maintains an ordered space in which life, water, and light can move. Vṛtra wields comparable power to dam the same waters shut. The Veda does not condemn power, and it does not require the powerless to be innocent; it condemns power turned toward closure. Every antagonist below fails this test the way Vṛtra does — not by being weak, but by turning strength against circulation.
 
 The book calls this recurring structure the **architecture of containment**. The eight methods above already enact it. The Vedic passages describe four of its recurring forms: concealment, blockade, isolation, and enclosure. Each category below gathers actions and attributes that produce the same result.
 
-**Concealment.** Vṛtra, Namuci, and Svarbhānu employ ***माया (māyā)*** to prevent others from seeing what remains present. Vṛtra is **मायाविनम् वृत्रम् (*māyāvinam vṛtram*)**, Vṛtra the deceiver (RV 2.11). Namuci is **नमुचिं नाम मायिनम् (*namuciṃ nāma māyinam*)**, Namuci the *māyin* (RV 1.53.7). Svarbhānu works through **स्वर्भानोः मायाः (*svarbhānoḥ māyāḥ*)**, Svarbhānu's deceptions (RV 5.40).[NOTE: mayin-concealment-cluster] His माया (*māyā*) conceals Sūrya and places darkness before the worlds. The same method appears at Purāṇic scale when Pūtanā presents herself as a nurse, Mārīca presents himself as a deer, and Kālanemi presents himself as an ascetic. In each case, the projected appearance conceals the actor and his purpose.
+**Concealment.** Vṛtra, Namuci, and Svarbhānu employ माया (*māyā*) to prevent others from seeing what remains present. Vṛtra is **मायाविनम् वृत्रम् (*māyāvinam vṛtram*)**, Vṛtra the deceiver (RV 2.11). Namuci is **नमुचिं नाम मायिनम् (*namuciṃ nāma māyinam*)**, Namuci the मायिन् (*māyin*) (RV 1.53.7). Svarbhānu works through **स्वर्भानोः मायाः (*svarbhānoḥ māyāḥ*)**, Svarbhānu's deceptions (RV 5.40).[NOTE: mayin-concealment-cluster] His माया (*māyā*) conceals Sūrya and places darkness before the worlds. The same method appears at Purāṇic scale when Pūtanā presents herself as a nurse, Mārīca presents himself as a deer, and Kālanemi presents himself as an ascetic. In each case, the projected appearance conceals the actor and his purpose.
 
-**Blockade.** The ***अव्रत (avrata)*** refuses the obligations that sustain ऋत (*ṛta*). The refusal prevents a required action from passing through the shared order. Indra **शासद् अव्रतान् (*śāsad avratān*)**, chastises the vow-less (RV 1.51.8); the दस्यु (*dasyu*) is **अकर्मा... अमन्तुः अन्यव्रतः (*akarmā... amantuḥ anyavrataḥ*)**, without constructive action, without structured thought, following an alien law (RV 10.22.8).[NOTE: avrata-vow-less-blockade] Svarbhānu and Vṛtra use **तमस् (*tamas*)**, darkness that conceals and obstructs: Svarbhānu **तमसा विध्यत् (*tamasā vidhyat*)**, pierces with darkness (RV 5.40.5); the defeated Vṛtra **दीर्घम् तमः आशयत् (*dīrgham tamaḥ āśayat*)**, lies in long darkness (RV 1.32). "Withhold the light" — Svarbhānu, Vṛtra, Kāliya — is this method exactly: the source remains, and access to it is cut.
+**Blockade.** The अव्रत (*avrata*) refuses the obligations that sustain ऋत (*ṛta*). The refusal prevents a required action from passing through the shared order. Indra **शासद् अव्रतान् (*śāsad avratān*)**, chastises the vow-less (RV 1.51.8); the दस्यु (*dasyu*) is **अकर्मा... अमन्तुः अन्यव्रतः (*akarmā... amantuḥ anyavrataḥ*)**, without constructive action, without structured thought, following an alien law (RV 10.22.8).[NOTE: avrata-vow-less-blockade] Svarbhānu and Vṛtra use **तमस् (*tamas*)**, darkness that conceals and obstructs: Svarbhānu **तमसा विध्यत् (*tamasā vidhyat*)**, pierces with darkness (RV 5.40.5); the defeated Vṛtra **दीर्घम् तमः आशयत् (*dīrgham tamaḥ āśayat*)**, lies in long darkness (RV 1.32). "Withhold the light" — Svarbhānu, Vṛtra, Kāliya — is this method exactly: the source remains, and access to it is cut.
 
 **Isolation.** Ṛgveda 4.5.5 describes people who are **अनृत (*anṛta*)**, opposed to ऋत (*ṛta*), and **असत्य (*asatya*)**, untrue in speech:
 

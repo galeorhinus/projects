@@ -1,6 +1,6 @@
 # Dhātupāṭha Analysis — Reproducibility Bundle
 
-A reproducibility bundle for the empirical claims in **Chapter 10** (*Building the Dhātuḥ*) and **Appendix Part 5** (*The Architecture by the Numbers*) of the book ***Atomic Sanskrit*** (Parag Tope).
+A reproducibility bundle for the empirical claims in **Chapter 10** (*Building the Dhātuḥ*) and **Appendix Part 6** (*The Architecture by the Numbers*) of the book ***Atomic Sanskrit*** (Parag Tope).
 
 The bundle contains:
 - The machine-readable Pāṇinian *Dhātupāṭha* (2,168 verbal-root entries in SLP1 transliteration)
@@ -98,15 +98,15 @@ Tests the compression-principle prediction that the *simplest dhātus generate t
 
 Each script applies three *it-saṃjñā* rules from Pāṇini's *Aṣṭādhyāyī* before structural classification, to recover the underlying root form from the canonical citation form:
 
-1. **1.3.2 — *upadeśe 'janunāsika it***. In the citation form (*upadeśa*), a final *anunāsika*-marked short vowel is an *anubandha*. The trailing short *-a* / *-i* / *-u* after a consonant is stripped — provided that at least one other vowel remains in the form. The "vowel-survival" condition prevents over-stripping of genuine CV-pattern roots like *ji* जि (to conquer), *hu* हु (to sacrifice), *sru* स्रु (to flow).
+1. **1.3.2 — *upadeśe 'janunāsika it***. In the citation form (*upadeśa*), a vowel explicitly carrying the *anunāsika* marker is an *anubandha*. The parser removes the marked vowel while retaining unmarked vowels that belong to the atom. A legacy fallback handles the small number of source entries that omit the marker; its vowel-survival condition prevents genuine CV atoms such as *ji* जि, *hu* हु, and *sru* स्रु from losing their vowel.
 
 2. **1.3.3 — *halantyam***. A trailing single-consonant *anubandha* (the *ñit*, *ṅit*, *lit*, *ṣit*, *ṭit*, *ḍit* markers signaling grammatical properties like ātmanepadī conjugation) is stripped when it sits immediately after a vowel. The canonical case: the *kṛ* dhātu's citation form is *ḍukṛñ* (SLP1: `qukf\Y`); the initial *ḍu* is stripped by 1.3.5, the trailing *ñ* by 1.3.3, leaving the bare root *kṛ*.
 
 3. **1.3.5 — *ādir ñiṭuḍavaḥ***. The initial two-character sequences *ñi* (SLP1: `Yi`), *ṭu* (`wu`), *ḍu* (`qu`) in dhātu citation forms are *anubandhas* and are stripped from the front.
 
-Accent markers (~, \\, ^) in the SLP1 encoding indicate *udātta*, *anudātta*, *svarita* respectively and are stripped before structural classification.
+The SLP1 source uses `~` for the *anunāsika* marker and `\\` / `^` for accent notation. The parser must inspect the marked form before deleting the notation because the marker determines which vowels are instructional.
 
-The stripping is implemented identically in every script that uses it (the function is duplicated for self-containedness). Cross-checking against the Sanskrit Heritage Platform's `parts.csv` (https://github.com/sanskrit/data/blob/master/sanskrit-heritage-site/parts.csv, ~11,570 verb stems) confirms that this rule-set recovers the standard underlying roots for the vast majority of *Dhātupāṭha* entries — including canonical cases like *kṛ* (ḍukṛñ → kṛ), *brū* (brūñ → brū), *śri* (śriñ → śri).
+The stripping logic lives in `scripts/decompose_dhatupatha.py` and is imported by the other structural-analysis scripts. This single implementation prevents the particle, scaffold, and cross-class counts from applying different marker rules. Cross-checking against the Sanskrit Heritage Platform's `parts.csv` (https://github.com/sanskrit/data/blob/master/sanskrit-heritage-site/parts.csv, ~11,570 verb stems) confirms that the rule-set recovers standard underlying forms in canonical cases such as *kṛ* (ḍukṛñ → kṛ), *brū* (brūñ → brū), and *śri* (śriñ → śri).
 
 ---
 
@@ -126,7 +126,7 @@ The 2,168-entry count in this CSV sits within the conventional Pāṇinian range
 
 ## How the findings cross-reference the book
 
-The empirical claims in **Chapter 10** of *Atomic Sanskrit* are the load-bearing distillation; the full work (predictions, data tables, verdicts including falsifications) is in **Appendix Part 5**.
+The empirical claims in **Chapter 10** of *Atomic Sanskrit* are the book-facing distillation; Appendix Part 6 presents the numerical audit and the Source and Reference Companion preserves the complete tables and replication files.
 
 | Book location | Reproduced by |
 |---|---|
@@ -157,7 +157,7 @@ Two methodological refinements are out of scope for this bundle but flagged for 
 
 If you use this bundle in research:
 
-> Parag Tope, *Dhātupāṭha Analysis — Reproducibility Bundle* (2026), accompanying *Atomic Sanskrit* (Vol. 1 of *Second Shanti*), Chapter 10 and Appendix Part 5.
+> Parag Tope, *Dhātupāṭha Analysis — Reproducibility Bundle* (2026), accompanying *Atomic Sanskrit* (Vol. 1 of *Second Shanti*), Chapter 10 and Appendix Part 6.
 
 Underlying source data: `sanskrit/vyakarana` project on GitHub.
 

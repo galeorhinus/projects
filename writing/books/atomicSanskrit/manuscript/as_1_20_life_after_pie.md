@@ -14,27 +14,27 @@ Life after PIE begins by explaining Sanskrit through its own architecture rather
 
 The first question after PIE is: what did Sanskrit do once it existed?
 
-The PIE account explains the spread of language primarily through migrating populations. A people carries its language into another region, and that language changes into several descendants. The Radiance Thesis examines another route. A trained teacher can carry words, knowledge, and methods into a community without replacing the language that community already speaks. A Sanskrit-trained आर्य (*ārya*), skilled in व्याकरणम् (*vyākaraṇam*), could teach within that community. Students could adapt what they learned to their own language and teach another generation. One teacher could therefore affect a language without bringing an entire Sanskrit-speaking population with him.
+The PIE account explains the spread of language primarily through migrating populations. A people carries its language into another region, and that language changes into several descendants. The Radiance Thesis examines another route. A trained teacher can carry words, knowledge, and methods into a community without replacing the language that community already speaks. A Sanskrit-trained आर्य (*ārya*), skilled in व्याकरणम् (*vyākaraṇam*), could teach within that community. Students could adapt what they learned to their own language and teach another generation. One teacher could therefore affect a language without bringing an entire Sanskrit-speaking population.
 
 ### Lineages Remember the Carriers
 
-The Hindu continuum remembers Vedic knowledge moving through named ṛṣi lineages. Inherited narratives associate these teachers with particular regions and communities. Commentaries, inscriptions, and local traditions preserve further parts of those memories. Together, they describe teachers whose influence extended beyond the places where their lineages began.
+The Hindu continuum remembers Vedic knowledge moving through specific ऋषि (*ṛṣi*) lineages. Inherited narratives associate these teachers with particular regions and communities. Commentaries, inscriptions, and local traditions preserve further parts of those memories. Together, they describe teachers whose influence extended beyond the places where their lineages began.
 
 Tamil and Sanskrit sources honor **अगस्त्य (*Agastya*)** as a teacher who crossed the Vindhyas and carried Vedic learning south. Tamil traditions also associate him with the *Agattiyam*, cultivation, and water management. Pandya inscriptions preserve him within priestly and royal memory.[NOTE: agastya-sources] These sources remember a teacher entering another linguistic community, followed by that community developing what it learned through its own language and institutions. That is the kind of transmission Wave 1 proposes.
 
-Other lineage memories point in different directions. The continuum associates **कश्यप (*Kaśyapa*)** with Kashmir and the northwest. Pāṇini cites **भरद्वाज (*Bharadvāja*)** as an earlier analytical authority. **भृगु (*Bhṛgu*)** and **अङ्गिरस् (*Aṅgiras*)** stand behind *gotra* lineages found across a wide geographic range. These memories identify possible carriers. The treaty and technical records that follow provide a second kind of evidence: Sanskritic names and words written outside India.
+Other lineage memories point in different directions. The continuum associates **कश्यप (*Kaśyapa*)** with Kashmir and the northwest. Pāṇini cites **भरद्वाज (*Bharadvāja*)** as an earlier analytical authority. **भृगु (*Bhṛgu*)** and **अङ्गिरस् (*Aṅgiras*)** stand behind गोत्र (*gotra*) lineages found across a wide geographic range. These memories identify possible carriers. The treaty and technical records that follow provide a second kind of evidence: Sanskritic names and words written outside India.
 
 ### The Mitanni Record
 
 A Hittite-Mitanni treaty provides a written record of Sanskritic forms outside India. The pact between Suppiluliuma I and Shattiwaza, preserved in the Bogazköy archive, invokes *Mitra*, *Varuṇa*, *Indra*, and *Nāsatya*, the Aśvins, as witnesses. Four Vedic devas therefore appear in Sanskritic form inside a diplomatic document from northern Mesopotamia. The Kikkuli horse-training treatise records technical vocabulary from the same region. This manual describes 184 days of training across 1,080 lines on four cuneiform tablets. It uses Sanskritic numerical terms such as *aika*, a receiving-language rendering of **एक (*eka*)**, one; *tera*, from त्रि (*tri*), three; *panza*, from पञ्च (*pañca*), five; *satta*, from सप्त (*sapta*), seven; and *na*, from नव (*nava*), nine. It also uses *vartana*, turn.[NOTE: mitanni-sanskritic-evidence]
 
-The form *aika* deserves closer attention. The Sanskrit analytical continuum derives एक (*eka*) from the atom ⟪इ⟫, **इण् गतौ (*iṇ gatau*)**, with the Uṇādi affix **कन् (*kan*)**. The final *n* marks an instruction and disappears, leaving क (*ka*). गुण (*Guṇa*) changes **इ (*i*)** to **ए (*e*)**, producing *eka*. The tablet records how another language rendered this Sanskrit molecule. Its date tells us when that receiving form was written; it does not tell us when Sanskrit first generated एक (*eka*).
+The form *aika* deserves closer attention. The Sanskrit analytical continuum derives एक (*eka*) from the atom ⟪इ⟫, **इण् गतौ (*iṇ gatau*)**, with the Uṇādi affix **कन् (*kan*)**. The final *n* marks an instruction and disappears, leaving क (*ka*). गुण (*guṇa*) changes **इ (*i*)** to **ए (*e*)**, producing *eka*. The tablet records how another language rendered this Sanskrit molecule. Its date tells us when that receiving form was written; it does not tell us when Sanskrit first generated एक (*eka*).
 
 The Sanskritic layer extends beyond the treaty and the training manual. Mitanni rulers bore throne names such as Tushratta, from *Tveṣaratha*; Shattiwaza, from *Sātivāja*; Indaruda, from *Indrota*; and Artashumara, from *Artasmara*. Mitanni warriors were called मर्य (*marya*), the Sanskrit term for a young warrior.[NOTE: mitanni-sanskritic-evidence]
 
-[FIGURE 20.1: The Mitanni Sanskritic Layer — treaty deities (Mitra / Varuṇa / Indra / Nāsatya), Kikkuli numerical terms (*aika* / *tera* / *panza* / *satta* / *na* / *vartana*), Mitanni throne names (Tushratta / Shattiwaza / Indaruda / Artashumara), and the *marya* warrior term, with the Sanskrit form and its receiving-language rendering alongside each.]
+![Figure 20.1 — The Mitanni Sanskritic Layer. The treaty, horse-training manual, royal names, and warrior designation preserve four different kinds of Sanskritic evidence in northern Mesopotamia.](figures/life_after_pie/mitanni_sanskritic_layer.svg){#fig:ch20-mitanni-layer width=100%}
 
-The Sanskritic layer at Mitanni is widely recognized as evidence that Sanskritic language and Vedic names reached northern Mesopotamia. For Wave 1, the important point is the range of what traveled. The written record preserves devas invoked in a treaty, technical words used in horse training, royal names, numbers, and a warrior term. The lineage memories describe Vedic knowledge traveling through trained teachers, while the Mitanni documents show Sanskritic forms in use outside India. Together, they support a route in which specialists carried selected parts of Sanskrit into another linguistic community. The receiving community retained those parts while continuing to speak its own languages.
+Figure 20.1 brings the range together. A single archive preserves Sanskritic forms in diplomatic, technical, royal, and social use. The lineage memories describe Vedic knowledge traveling through trained teachers, while the Mitanni documents show Sanskritic forms in use outside India. Together, they support a route in which specialists carried selected parts of Sanskrit into another linguistic community. The receiving community retained those parts while continuing to speak its own languages.
 
 The Behistun inscription provides another comparison. When its Old Persian text is transliterated into Devanagari, a fluent student of Sanskrit can recognize much of its vocabulary, grammar, and धातु (*dhātu*) structure.[NOTE: behistun-inscription] A fluent speaker of modern Persian cannot approach the same inscription with equal ease. Old Persian and Sanskrit were close in their recorded forms, but the two languages now have very different relationships with those forms.
 
@@ -44,7 +44,7 @@ Old Persian shows what can happen when a related language continues changing wit
 
 Wave 1 proposes that Vedic-trained experts entered linguistic communities across Central and West Asia before Pāṇini. Their teaching could have placed Sanskritic words, grammatical patterns, and methods inside those natural languages. The receiving languages would then have reshaped what they received and passed the resulting forms to later generations. Nineteenth-century European philologists found related forms across those languages. Because they assumed descent from a common natural ancestor, they projected the similarities backward and reconstructed PIE. The Radiance Thesis asks the reader to reverse that direction. The correspondences may preserve the accumulated reflections of Sanskritic contact.
 
-What PIE reconstructed was not Sanskrit's ancestor. It was Sanskrit's प्रतिबिम्ब (*Pratibimba*).
+What PIE reconstructed was not Sanskrit's ancestor. It was Sanskrit's प्रतिबिम्ब (*pratibimba*).
 
 ## 20.2 Wave 2 — Radiance as Method
 
@@ -56,7 +56,7 @@ The Racial Arya Thesis conceals this continuity. It places Sanskrit's origin out
 
 Once that concealment is removed, Sanskrit can be examined as the calibrant. The Vedas calibrate its sounds and grammar. Recitation systems protect each received passage, while teachers carry the standards and methods of correction into another generation. The same principle therefore repeats from the smallest units of the language to its transmission across time. That repeated pattern is Sanskrit's fractal architecture.
 
-The अष्टाध्यायी (*Aṣṭādhyāyī*) gave other language communities a complete method of grammatical analysis that they could study and adapt. They did not have to replace their own languages with Sanskrit. They could instead learn how Sanskrit analyzed sounds, forms, and grammatical relations, then build analytical systems suited to their own speech. Contact linguistics calls this kind of transmission **methodological metatypy**.[NOTE: ross-metatypy-takia] The receiving community adopts a method of analysis rather than the grammar of the source language. Through this route, Sanskrit could serve as a calibrant for the study of grammar beyond India. The historical record contains no earlier complete formal description of any language.
+The अष्टाध्यायी (*Aṣṭādhyāyī*) gave other language communities a complete method of grammatical analysis that they could study and adapt. They did not have to replace their own languages with Sanskrit. They could instead learn how Sanskrit analyzed sounds, forms, and grammatical relations, then build analytical systems suited to their own speech. The receiving community adopts a method of analysis rather than the grammar of the source language. Through this route, Sanskrit could serve as a calibrant for the study of grammar beyond India. The historical record contains no earlier complete formal description of any language.
 
 ### Words Become Native
 
@@ -66,7 +66,7 @@ Other words followed comparable paths. Sanskrit **क्षण (*kṣaṇa*)** a
 
 ### The Sound Matrix Reaches East Asia
 
-Because Chinese characters do not spell pronunciation alphabetically, a reader cannot reliably look at an unfamiliar character and sound it out. To compare and categorize older pronunciations, early Chinese scholars studied rhyme in works such as the *Classic of Poetry*. Before sustained exposure to Sanskrit’s sound-science, they used **反切 (*fǎnqiè*)** to indicate pronunciation: one familiar character represented the opening sound; another represented the remainder.
+Because Chinese characters do not spell pronunciation alphabetically, a reader cannot reliably look at an unfamiliar character and sound it out. To compare and categorize older pronunciations, early Chinese scholars studied rhyme in works such as the *Classic of Poetry*. Before sustained exposure to Sanskrit’s sound analysis, they used **反切 (*fǎnqiè*)** to indicate pronunciation: one familiar character represented the opening sound; another represented the remainder.
 
 Chinese scholars encountered the वर्णमाला (*varṇamālā*) through the study of **सिद्धं (*Siddhaṃ*)**. The *varṇamālā* assigns selected sounds systematic grid addresses based on how the mouth produces them. That matrix gave Chinese scholars a more powerful way to organize initials, finals, tones, and rhyme categories. They adapted Sanskrit’s sound-engine to Chinese phonology by placing syllable initials along one dimension while arranging finals, tones, and related distinctions across the other. The resulting analytical instrument was the rime table. No known Chinese rime table predates sustained Sanskritic contact.[NOTE: buddhist-asia-radiance]
 
@@ -96,7 +96,7 @@ The evidence does not take the same form along every route. Tibetan accounts rem
 
 #### Where the Teaching Record Survives
 
-The Chinese and Japanese sound-matrices discussed above preserve the encounter with Sanskritic sound-science through Buddhist learning. Tibetan sources preserve an even fuller teaching account.
+The Chinese and Japanese sound-matrices discussed above preserve the encounter with Sanskritic sound analysis through Buddhist learning. Tibetan sources preserve an even fuller teaching account.
 
 **Tibetan** — *documented study in India*, 7th c. CE. The Tibetan king Songtsen Gampo dispatched a mission to India to study Sanskrit grammar. Traditional accounts credit Thonmi Sambhoṭa with leading the mission and bringing the teaching home.[NOTE: thonmi-sambhota-tibetan-grammars] He is also credited with writing two foundational works of Tibetan grammatical analysis: *Sum cu pa* (the Thirty Verses) and *Rtags kyi 'jug pa* (the Application of Signs). The Brāhmī-derived Tibetan script emerged during the same period. The Tibetan lineage therefore remembers the journey to India, the study of Sanskrit grammar, and the analytical works that followed.
 
@@ -116,9 +116,9 @@ Later Tibetan and Indian translation teams compiled the **महाव्यु�
 
 ![Figure 20.2 — Six Routes of Analytical Radiance. The receiving records differ in strength and form: Tibetan preserves a teaching journey; Chinese preserves an adapted sound matrix; Latin and Hebrew preserve intermediaries; Greek and Arabic preserve contact settings and analytical resemblance.](figures/life_after_pie/analytical_radiance_routes.svg){#fig:ch20-analytical-radiance-routes width=100%}
 
-Figure 20.2 compares the evidence for all six routes. Tibetan preserves a teaching journey. Chinese and Japanese preserve Sanskritic sound analysis adapted to local needs. Latin and Hebrew preserve known intermediaries. Greek and Arabic preserve prolonged contact with Indic knowledge and analytical similarities that support further investigation.
+Figure 20.2 places the six routes beside one another. Tibetan preserves a teaching journey. Chinese and Japanese preserve Sanskritic sound analysis adapted to their languages. Greek and Arabic preserve the contact settings and the analytical structures that followed. Latin carries the Greek method forward; Hebrew does the same through Arabic.
 
-Together, these routes show other linguistic communities learning from Sanskrit's methods of analyzing sounds and grammar.
+The record changes as the method travels. A remembered teacher gives way to local adaptation. Local adaptation becomes an intermediary tradition. The structure continues even when the name of the source disappears.
 
 ### Radiance Across Southeast Asia
 
@@ -128,7 +128,7 @@ Malay, Indonesian, Thai, Khmer, and Burmese each reshaped the received words to 
 
 Several routes produced this distribution. A word might have come directly from Sanskrit, through Pāli, or through another regional language. This chapter therefore uses *Sanskritic* for the wider reach. Teachers and communities shared words and methods, while every receiving language continued developing in its own way.
 
-The two waves leave an asymmetrical record. Mitanni preserves selected Vedic names and technical words. East Asia preserves Sanskritic words and adaptations of the sound matrix. Tibetan, Greek, Latin, Arabic, and Hebrew preserve different parts of Sanskrit's analytical method. Each receiving civilization deserves credit for what it built from what it received.
+These movements leave an asymmetrical record. Mitanni preserves selected Vedic names and technical words. East Asia preserves Sanskritic words and adaptations of the sound matrix. Tibetan preserves a teaching journey. Greek and Arabic preserve analytical structures, while Latin and Hebrew preserve the next steps through their intermediaries. Each receiving civilization deserves credit for what it built from what it received.
 
 India preserves something different in scale. The Vedas, Sanskrit's sound architecture, its grammar, its exact recitation systems, and the disciplines that connect them remain together. The receiving cultures preserve reflections; the Hindu continuum preserves the complete calibrant architecture. The routes in this chapter explain how parts traveled outward without transferring authorship of the source.
 
@@ -154,7 +154,7 @@ Wave 3 therefore begins with deliberate relearning among Indians in the subconti
 
 You cannot extend what you do not have.
 
-The closing Rigvedic call is **कृण्वन्तो विश्वमार्यम् (*kṛṇvanto viśvam āryam*)**, *making the world ārya*. A person must first cultivate आर्यत्व (*āryatva*) through disciplined learning and conduct before helping others do the same. The Epilogue gives the full exhortation.
+The closing Ṛgvedic call is **कृण्वन्तो विश्वमार्यम् (*kṛṇvanto viśvam āryam*)**, *making the world ārya*. A person must first cultivate आर्यत्व (*āryatva*) through disciplined learning and conduct before helping others do the same. The Epilogue gives the full exhortation.
 
 ## 20.4 Wave 3 — Carrying the Sun Again
 

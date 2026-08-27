@@ -73,7 +73,7 @@ body ladder.
 | `sk_korku_mundari_santali` | Munda Survey | 20 / 23 | ण · ष · श | Santali-inclusive control — shows contact-depth doesn't change the count; body uses Santali-free Forest-Belt to foreclose the obvious orthodox objection |
 | `sk_korku_mundari_burushaski` | Mixed Control | 21 / 23 | ण · श | Santali-free + Burushaski-isolate control; Burushaski complicates the body argument |
 | `sk_sora_khasi_nicobarese` | Dispersed Survey | 18 / 23 | ट · ड · ण · ष · श | Three orthodoxy-"Austro-Asiatic" languages across three remote geographies — same family label, different sound-shape |
-| `sk_pashto_nuristani_burushaski` | NW Frontier Survey | **22 / 23** | श | Same ceiling as Southern; explains why frontier languages look more Sanskrit-like (retroflex contact) |
+| `sk_pashto_nuristani_burushaski` | NW Frontier Survey | **22 / 23** | श | Same ceiling as the body set; tests the retroflex-contact explanation |
 | `sk_farsi_kurdish_talysh` | Iranian Survey | 15 / 23 | ट · च · ड · ज · ण · ञ · ष · श | Non-contact-zone Iranian control; the contact-vs-non-contact axis (vs. Pashto / Balochi) lives here |
 | `sk_armenian_georgian_ossetian` | Caucasus Survey | **13 / 23** | ट · च · ड · ज · ण · ञ · ङ · ष · श · व | Caucasus floor — three families, three classifications; too technical for the body |
 | `sk_russian_ukrainian_ossetian` | Slavic & Caucasus IE Survey | 14 / 23 | ट · च · ड · ज · ण · ञ · ङ · ष · श | Steppe / IE-as-classification deflation; appendix companion to Central Asian Survey |
@@ -82,22 +82,23 @@ body ladder.
 
 ## 3. The headline findings
 
-### 3.1 Subcontinental geography predicts coverage
+### 3.1 The selected subcontinental sets produce higher coverage
 
-The two 22/23 ceilings come from sets at **opposite geographic poles of
-the subcontinent**:
+The two 22/23 ceilings come from two differently composed sets tied to
+the Indian subcontinent:
 
-- Southern (Tamil + Toda + Kurukh) — the deep south.
+- Southern Survey (Tamil + Toda + Kurukh) — a deliberately dispersed
+  Dravidian-language set. Kurukh is spoken much farther north than
+  Tamil and Toda, so this is not one southern cluster.
 - Northwest Frontier (Pashto + Nuristani + Burushaski) — the
   Hindu-Kush / Pamir contact zone.
 
 Both miss exactly the same cell: **श**. Pashto +
 Nuristani + Burushaski all carry the retroflex column (ʈ ɖ ɳ ɽ — Pashto
 adds ʂ ʐ ɭ on top), which is the structural feature that lets them
-match southern coverage. Two utterly different language families
-(Iranian + Nuristani-branch IE + isolate) at opposite ends of the
-subcontinent land on the same number because **the subcontinental
-sound-field reaches both ends**.
+match the body's coverage. The two selected sets reach the same number
+through different combinations of languages and locations, with
+retroflex distinctions contributing strongly in both.
 
 ### 3.2 The orthodoxy's "Indo-European" classification does not predict coverage
 
@@ -141,8 +142,8 @@ Geographic distance does.**
 Three Caucasus-region languages from three different orthodox
 classifications (Armenian IE + Georgian Kartvelian + Ossetian Iranian)
 land at the lowest coverage of any survey. The Caucasus is far enough
-from the subcontinental sound-field that even mixed taxonomic origins
-inside one geographic region cratter together.
+from the sounds concentrated across the Indian subcontinent. Even languages
+placed in different families cluster together when they share that region.
 
 ### 3.4 The coverage cascade
 

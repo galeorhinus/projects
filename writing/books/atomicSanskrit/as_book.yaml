@@ -16,7 +16,7 @@ lang: en-US
 # --- Typography ---
 mainfont: EB Garamond              # Latin + IAST diacritics
 devanagarifont: Adobe Devanagari   # custom variable; substituted into templates/devanagari-preamble.tex.in
-fontsize: 11pt
+fontsize: 12pt
 linestretch: 1.15
 
 # --- Document structure ---
@@ -193,7 +193,7 @@ assembly:
     title: "Appendix Part 3 — The Sonomer and the Audiograph: Sound Engineering, Pun Intended"
   - kind: end
     file: manuscript/as_3_04_inventory_atlas.md
-    title: "Appendix Part 4 — The Subcontinental Sound-Field: Inventory Atlas and Control Surveys"
+    title: "Appendix Part 4 — The Consonant Inventory Atlas and Additional Surveys"
   - kind: end
     file: manuscript/as_3_05_language_factory.md
     title: "Appendix Part 5 — The Language Factory"

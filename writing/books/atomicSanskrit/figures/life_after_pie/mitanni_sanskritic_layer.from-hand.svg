@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4.75in" height="3.12in" viewBox="0 0 1200 790">
+  <rect width="1200" height="790" fill="#f7f6f2"/>
+  <style>
+    .title { font-family: "EB Garamond", serif; font-size: 42px; font-weight: 700; fill: #292724; }
+    .subtitle { font-family: "EB Garamond", serif; font-size: 27px; font-style: italic; fill: #6a6258; }
+    .number { font-family: "EB Garamond", serif; font-size: 26px; font-weight: 700; fill: #9a7d3c; }
+    .name { font-family: "EB Garamond", serif; font-size: 31px; font-weight: 700; fill: #292724; }
+    .body { font-family: "EB Garamond", serif; font-size: 25px; fill: #403b35; }
+    .warrior { font-family: "Noto Serif Devanagari", serif; font-size: 38px; font-weight: 700; fill: #292724; }
+    .dev { font-family: "Noto Serif Devanagari", serif; font-size: 31px; }
+  </style>
+
+  <text x="600" y="55" text-anchor="middle" class="title">The Mitanni Sanskritic Layer</text>
+  <text x="600" y="94" text-anchor="middle" class="subtitle">One archive preserves four different kinds of evidence.</text>
+
+  <g transform="translate(44 130)">
+    <rect width="536" height="265" rx="8" fill="#e8e1cf" stroke="#9a7d3c" stroke-width="2.5"/>
+    <text x="24" y="39" class="number">01</text>
+    <text x="70" y="39" class="name">Treaty witnesses</text>
+    <text x="268" y="103" text-anchor="middle" class="body dev">मित्र · वरुण · इन्द्र · नासत्य</text>
+    <text x="268" y="145" text-anchor="middle" class="body">Mitra · Varuṇa · Indra · Nāsatya</text>
+    <line x1="28" y1="177" x2="508" y2="177" stroke="#c5bda8" stroke-width="2"/>
+    <text x="268" y="219" text-anchor="middle" class="body">Vedic devas invoked in a diplomatic pact</text>
+  </g>
+
+  <g transform="translate(620 130)">
+    <rect width="536" height="265" rx="8" fill="#e1e8df" stroke="#70856d" stroke-width="2.5"/>
+    <text x="24" y="39" class="number">02</text>
+    <text x="70" y="39" class="name">Horse training</text>
+    <text x="268" y="91" text-anchor="middle" class="body dev">एक → aika · त्रि → tera · पञ्च → panza</text>
+    <text x="268" y="137" text-anchor="middle" class="body dev">सप्त → satta · नव → na</text>
+    <text x="268" y="183" text-anchor="middle" class="body dev">वर्तन → vartana</text>
+    <line x1="28" y1="211" x2="508" y2="211" stroke="#b8c4b6" stroke-width="2"/>
+    <text x="268" y="244" text-anchor="middle" class="body">numbers and a technical riding term</text>
+  </g>
+
+  <g transform="translate(44 425)">
+    <rect width="536" height="285" rx="8" fill="#e5e2dd" stroke="#77736d" stroke-width="2.5"/>
+    <text x="24" y="39" class="number">03</text>
+    <text x="70" y="39" class="name">Royal names</text>
+    <text x="268" y="96" text-anchor="middle" class="body">Tveṣaratha → Tushratta</text>
+    <text x="268" y="139" text-anchor="middle" class="body">Sātivāja → Shattiwaza</text>
+    <text x="268" y="182" text-anchor="middle" class="body">Indrota → Indaruda</text>
+    <text x="268" y="225" text-anchor="middle" class="body">Artasmara / Ṛtasmara → Artashumara</text>
+  </g>
+
+  <g transform="translate(620 425)">
+    <rect width="536" height="285" rx="8" fill="#eee0dc" stroke="#9a5147" stroke-width="2.5"/>
+    <text x="24" y="39" class="number">04</text>
+    <text x="70" y="39" class="name">Warrior designation</text>
+    <text x="268" y="126" text-anchor="middle" class="warrior">मर्य</text>
+    <text x="268" y="173" text-anchor="middle" class="body">marya</text>
+    <line x1="28" y1="204" x2="508" y2="204" stroke="#d2b7b0" stroke-width="2"/>
+    <text x="268" y="246" text-anchor="middle" class="body">young warrior · warrior term</text>
+  </g>
+
+  <text x="600" y="759" text-anchor="middle" class="subtitle">Treaty · technical manual · throne names · social designation</text>
+</svg>

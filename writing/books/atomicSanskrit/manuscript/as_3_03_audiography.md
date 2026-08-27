@@ -2,37 +2,35 @@
 
 ---
 
-The sequence tracked here is one the foundational dogma never identified.
+Asuras have long been known for jealousy and insecurity. The pyramid becomes most insecure when knowledge remains beyond its custody. Its authority depends upon controlling the written word, while Sanskrit places its calibrant in sound and preserves that sound through people across society. The church of progress carries that insecurity into pettiness. Its classification of Devanāgarī as an *abugida* may be the pettiest expression of all: it borrows four syllables from Geʿez to name the visible script while refusing to name the Sanskrit architecture that the script renders.
 
 The sonomer comes first. The audiograph comes second.
 
-The deeper invention is not the visible glyph. The deeper invention is the **sonomer** — the measured sound-particle Sanskrit calls **वर्ण (*varṇa*)**. Sanskrit is sonomeric before it is audiographic. The language is built from sonomers before any script makes those sonomers visible.
+The deeper invention is not the visible glyph. The deeper invention is the **sonomer** — the measured sound-particle Sanskrit calls **वर्ण (*varṇa*)**. Sanskrit is sonomeric before it is audiographic. The language is built from sonomers before any script renders them in writing.
 
-The visible unit is the **अक्षर (*akṣara*)** — the imperishable sound-unit made visible. The script is **लिपि (*lipi*)**. लिपि (*Lipi*) renders. It does not found. **श्रुति (*Śruti*)** stands above लिपि (*lipi*). Sound is the calibrant; writing is the interface.
+The **अक्षर (*akṣara*)** is an imperishable sound-unit. When **लिपि (*lipi*)** gives that sound-unit a visible form, this book calls the form an **audiograph**. लिपि (*Lipi*) renders an architecture that already exists in speech. It does not create that architecture. **श्रुति (*Śruti*)** therefore stands above लिपि (*lipi*). Sound is the calibrant; writing is the interface.
 
 **ब्राह्मी (*Brāhmī*)** and **देवनागरी (*Devanāgarī*)** did not create the architecture. They rendered it.
 
-Chapter 9 §9.6 introduced the अक्षर (*akṣara*) as the audiograph. Chapter 13 §13.3 exposed the Brāhmī-from-Aramaic claim as heroic erasure at the script level. The prosecution must now be developed.
+Chapter 9 §9.6 introduced the अक्षर (*akṣara*) as a stable sound-unit, and §9.12 distinguished the sonomer from the written mark that records it. Chapter 13 §13.3 exposed the Brāhmī-from-Aramaic claim as heroic erasure at the script level. This appendix develops that prosecution.
 
 ## 3.1 Sonomer First, Audiograph Second
 
 The **sonomer** is the measured sound-particle. It is articulated by place, shaped by effort, timed by **मात्रा (*mātrā*)**, classified inside the **वर्णमाला (*varṇamālā*)**, and made available to grammar.
 
-The sonomer has both spatial and temporal specifications. Chapter 7 mapped the vocal apparatus. Chapter 8 surveyed the available sounds. Chapter 9 then selected sounds for the वर्णमाला (*varṇamālā*): five places of articulation, five manners of contact, the 5×5 स्पर्श (*sparśa*) matrix, and the timing grid. Articulatory coordinates describe where and how the body produces a sound. The वर्णमाला (*varṇamālā*) assigns each selected sonomer a grid address, while मात्रा (*mātrā*) specifies its duration. A consonant lasts half a मात्रा (*mātrā*); a short vowel lasts one मात्रा (*mātrā*); a long vowel lasts two; a प्लुत (*pluta*) vowel lasts three. Chapter 10 then built the धातुः (*dhātuḥ*) from those timed sonomers.
+The sonomer has both spatial and temporal specifications. Chapter 7 mapped the vocal apparatus, and Chapter 8 surveyed the available sounds. Chapter 9 then examined Sanskrit's selection: five places of articulation, five manners of contact, the 5×5 स्पर्श (*sparśa*) matrix, and the timing grid.
 
-The term is stronger than "phoneme." A phoneme is a contrastive unit in modern linguistics. A sonomer is a measured unit of speech production. It classifies speech by the same physical questions a modern speech-language pathologist would ask: where is the tongue, what is the contact, how is the breath released, how long does the sound last, and what changes when the speaker moves from one sound to the next? Sanskrit built those measurements into the architecture.
+Articulatory coordinates describe where and how the body produces a sound. The वर्णमाला (*varṇamālā*) assigns each selected sonomer a grid address, while मात्रा (*mātrā*) specifies its duration. A consonant lasts half a मात्रा (*mātrā*); a short vowel lasts one मात्रा (*mātrā*); a long vowel lasts two; a प्लुत (*pluta*) vowel lasts three. Chapter 10 then builds the धातुः (*dhātuḥ*) from those timed sonomers.
+
+The term is stronger than "phoneme." A phoneme is a contrastive unit in modern linguistics. A sonomer is a measured unit of speech production. Sanskrit specifies it through physical questions: where does contact occur, what does the tongue do, how does breath leave the mouth, and how long does the sound last? Sanskrit built the answers into the architecture.
 
 The वर्णमाला (*varṇamālā*) is the ordered inventory of those sonomers. It is not a pile of sounds. It is a map of the mouth and a timing grid: back to front, place by place, effort by effort, duration by duration.
 
 The **अक्षर (*akṣara*)** is the stable sound-unit. It bonds one or more sonomers into a unit the system can preserve, teach, chant, write, and recombine.
 
-The **audiograph** is the visible rendering of that अक्षर (*akṣara*). It is not a letter in the ordinary alphabetic sense. It is articulated sound made visible.
+The **audiograph** is the visible form used to render that अक्षर (*akṣara*). It is not a letter in the ordinary alphabetic sense. It preserves the consonant, the attached vowel, and any other signs required to display the pronounced unit.
 
-The hierarchy is therefore:
-
-> **sonomer → varṇamālā → akṣara → audiograph → lipi**
-
-The sonomer enters the वर्णमाला (*varṇamālā*), which orders the units; the अक्षर (*akṣara*) stabilizes that ordered sound, and the audiograph makes it visible through लिपि (*lipi*). The hierarchy places लिपि (*lipi*) at the interface rather than the foundation.
+The relationships are therefore straightforward. The वर्णमाला (*varṇamālā*) orders the sonomers. One or more sonomers combine into an अक्षर (*akṣara*). लिपि (*Lipi*) then renders that pronounced unit as an audiograph. Sound contains the architecture; script renders it.
 
 The foundational dogma starts at the wrong end of that hierarchy. It sees the visible symbol first. It compares glyphs. It asks whether Brāhmī looks like Aramaic. It classifies Indic scripts as *abugidas*. It treats the visible interface as the primary object.
 
@@ -50,7 +48,9 @@ The Indic civilization is allowed to decorate what someone else built. It is not
 
 Aramaic is real and PIE is not. That difference makes the Aramaic case harder to prosecute, but it does not save the sleight. PIE has no inscription, no speaker, no community, no text; it is a reconstructed projection. Aramaic is a real historical script with surviving inscriptions and historical communities. But the tactic is the same: foreground the alleged source, push the Indic engineering into the background, and call the result adaptation.
 
-The prosecution now targets the ***foundational dogma*** — the doctrinal stratum Chapter 3 §3.2 identifies alongside the *progressive dogma*. The foundational dogma defends a corridor story: engineered writing begins in the Near-Eastern-to-European corridor. Sumerian cuneiform, Egyptian hieroglyphs, Phoenician alphabet, Greek extension, Latin script. The book's main chapters prosecute the progressive dogma that obscures the engineered Sanskrit thesis in the deep past. The prosecution here targets the foundational dogma that obscures the वर्णमाला (*varṇamālā*)'s engineering outside the privileged corridor.
+The prosecution now targets the ***foundational dogma***, which Chapter 3 §3.2 identifies alongside the *progressive dogma*. The foundational dogma defends a corridor story in which engineered writing begins in the Near East and moves toward Europe. Its familiar sequence runs through Sumerian cuneiform, Egyptian hieroglyphs, the Phoenician alphabet, Greek vowel letters, and the Latin script.
+
+The main chapters prosecute the progressive dogma that conceals Sanskrit's engineering in the deep past. This appendix prosecutes the foundational dogma that excludes the वर्णमाला (*varṇamālā*)'s engineering from its privileged corridor.
 
 The two dogmas coordinate. The progressive dogma protects the story that later means better. The foundational dogma protects the story that writing begins in the corridor. The engineering of the वर्णमाला (*varṇamālā*) — the sonomer inventory before it is ever written — threatens both.
 
@@ -60,7 +60,7 @@ The interface trap is the first defense. Treat the visible glyph as the object. 
 
 The foundational dogma does not usually say Brāhmī was crudely copied from Aramaic. It says something more careful. Brāhmī, the account claims, was adapted from Aramaic *brilliantly*.
 
-An unnamed Indian adapter supposedly took an Aramaic consonantal alphabet — twenty-two consonants, right-to-left writing, no systematic encoding of place of articulation — and transformed it into the Indic *abugida*: roughly forty-eight characters arranged by **स्थान (*sthāna*)** and **प्रयत्न (*prayatna*)**, vowels as diacritic modifications, left-to-right writing, and a वर्ग (*varga*) matrix laid out by phonetic principle.
+An unnamed Indian adapter supposedly took an Aramaic consonantal alphabet — twenty-two consonants, right-to-left writing, and no systematic encoding by place and effort — and transformed it into Brāhmī. The resulting script runs left to right, gives a consonant an inherent vowel, modifies that vowel through dependent signs, suppresses it when required, and carries the distinctions of the Sanskrit वर्णमाला (*varṇamālā*).
 
 The adapter receives praise. The architecture disappears.
 
@@ -78,126 +78,104 @@ Test the structural claim against Aramaic itself. Aramaic is a consonantal alpha
 
 Aramaic is a writing technology. It is not a phonetic specification.
 
-Brāhmī implements the same engineered architecture as Devanāgarī: the same वर्णमाला (*varṇamālā*), the same precise encoding of sonomers, with different glyph shapes.[NOTE: brahmi-devanagari-structural-identity] The वर्ग (*varga*) matrix gives five rows by place of articulation: velar, palatal, retroflex, dental, labial. Each row contains five manners of articulation: unvoiced unaspirated, unvoiced aspirated, voiced unaspirated, voiced aspirated, nasal. The vowel system modifies the consonant glyph by vowel value: *ā*, *i*, *ī*, *u*, *ū*, *e*, *ai*, *o*, *au*. The **अयोगवाह (*ayogavāha*)** — **अनुस्वार (*anusvāra*)** and **विसर्ग (*visarga*)** — signal breath and nasal gestures distinct from both consonants and vowels.
+Brāhmī and Devanāgarī render the same Indic encoding principle through different visible forms.[NOTE: brahmi-devanagari-structural-identity] A consonant carries an inherent **अ (*a*)**. Dependent signs replace that vowel with another vowel. A virāma suppresses it, and conjuncts represent consonant combinations. The script carries the distinctions organized by the वर्णमाला (*varṇamālā*), including aspiration, voicing, nasality, and the five principal places of articulation. It also provides signs for **अनुस्वार (*anusvāra*)**, **विसर्ग (*visarga*)**, and other Vedic sound features.
 
 None of this is in Aramaic.
 
-The architecture Brāhmī encodes — the वर्ग (*varga*) matrix, the स्थान (*sthāna*) / प्रयत्न (*prayatna*) system, the vowel-diacritic system, the अयोगवाह (*ayogavāha*) category — has no source in Aramaic. Aramaic does not isolate the full sonomer system by place, effort, time, vowel-center, and breath-gesture. The encoding system could not be borrowed from a source that does not have it.
+Aramaic does not contain this encoding model. It does not arrange consonants through the स्थान (*sthāna*) and प्रयत्न (*prayatna*) architecture. It does not encode an inherent vowel that dependent signs systematically replace. Nor does it carry the full set of distinctions that Brāhmī renders.
 
-Aramaic could plausibly influence the shape of a few glyphs. Some Brāhmī letters may resemble some Aramaic letters. Even if granted, that proves only possible glyph contact. It does not prove system transmission.
+Aramaic could have influenced the shapes of some glyphs or supplied a graphic precedent for writing consonants. Such contact would still leave the central engineering unexplained. A source can contribute marks without supplying the system that reorganizes them around a different account of sound.
 
-The encoding system could not be borrowed from a source that does not have it.
+The Brāhmī-from-Aramaic claim must therefore be divided into two questions. The first asks whether some visible signs traveled. The second asks where the Indic encoding architecture came from. Aramaic may contribute evidence to the first question. It cannot answer the second.
 
-The system is in the sonomers and their वर्णमाला (*varṇamālā*). Aramaic has no equivalent.
+## 3.5 What Earlier Glyphs Cannot Explain
 
-The foundational dogma's claim therefore shrinks. At most, it can claim that some glyph-shapes may show contact influence. That is much smaller than the claim that *Brāhmī derives from Aramaic*.
+The usual argument begins with earlier Aramaic inscriptions and similarities between visible signs. Apply the same test in both directions. Before Aramaic can explain the Indic script-world, it must contain the architecture being explained. Earlier inscriptions and similar signs can establish contact or graphic influence. They cannot supply an encoding principle absent from the proposed source.
 
-Aramaic can explain glyph influence. It cannot explain sonomeric architecture.
+The comparison with Indian place-value notation and Roman numerals provides a logic test. Nobody argues that the Indian place-value system with zero came from Roman numerals merely because Roman numerals appeared earlier. The histories differ, but the explanatory requirement remains the same: a proposed source must contain the principle it supposedly transmitted.
 
-## 3.5 The Aramaic-from-Brāhmī Thesis
+Chronology can show that one inscription or glyph appeared earlier than another. Resemblance may show that scribes encountered another script or borrowed particular marks. Neither fact explains the inherent vowel, the dependent vowel system, conjunct formation, or the sonomeric distinctions carried by Brāhmī. A borrowed stroke is not a borrowed system.
 
-The Aramaic-from-Brāhmī title reverses the burden of explanation — provocative by design. It does not replace one lazy chronology with another. It does not claim, without evidence, that Aramaic historically descended from Brāhmī. For more than a century, the foundational dogma has treated the Brāhmī-from-Aramaic thesis as the sober default: Aramaic came earlier in the imperial archive, some signs appear comparable, and therefore Brāhmī must be explained as an Indian adaptation of a West Asian script. But what happens if the same presumption is inverted? What happens if Aramaic is asked to explain itself before being allowed to explain Brāhmī? What happens if chronology, resemblance, and contact are no longer permitted to masquerade as architecture? The question is not whether some graphic contact occurred. The question is whether Aramaic contains the structural principle required to generate the Indic script-world. That is the actual dispute.
+Roman numerals record quantities without positional computation. The Indian decimal system makes position determine value and uses zero to preserve an empty position. That principle allows a finite set of signs to generate numbers at any scale.
 
-The comparison between Brāhmī and Aramaic on the one hand, and Indian place-value notation and Roman numerals on the other, is a logic test, not a historical analogy. Nobody seriously argues that the Indian place-value system with zero was derived from Roman numerals. That is precisely why the comparison works: it exposes the fallacy in a domain where nobody has a stake in protecting it. The two histories are not identical. The mode of explanation is — and shifted into the clearer domain, it collapses on contact.
+Zero denotes absence while preserving position. The same circle performs a different role in 10, 100, and 1000 because the architecture assigns value through place.
 
-The battle, therefore, is not primarily about chronology. Chronology can establish priority in time: an earlier inscription, earlier glyph, earlier shard, earlier seal, or earlier manuscript. It cannot, by itself, establish authorship, derivation, or intellectual parentage. A system may borrow, encounter, absorb, modify, or respond to prior materials without receiving its architecture from them. The fallacy lies in stepping too quickly from *"this came earlier"* to *"therefore this explains what came later."* Priority is not causation.
+The sonomeric architecture plays the same role in the Indic script-world. Brāhmī renders a prior sound architecture: the वर्णमाला (*varṇamālā*), with its ordered consonants and vowels and its distinctions of voicing, aspiration, and nasality. A वर्ण (*varṇa*) occupies a specific grid address and combines with other sonomers. External line-shapes cannot explain that system any more than earlier number-symbols can explain place value. Letter-shapes are the digits. The grid is the place-value.
 
-The same caution applies to resemblance. Resemblance may suggest contact; it does not establish genealogy. A few similar shapes between two scripts may indicate scribal influence, commercial contact, administrative borrowing, or even deliberate adaptation at the graphic level. But graphic resemblance is not structural explanation. A borrowed stroke is not a borrowed system. A transmitted sign is not a transmitted science. Whether a visible form travelled is not the issue. Whether the proposed source contains the governing principle of the later architecture is.
+The comparison does not require a new genealogy of scripts. It requires two levels of explanation. Terms such as *alphabet*, *abjad*, and *abugida* describe how visible signs behave. **Audiography** describes what an Indic script renders: a prior architecture of articulated sound. A script can therefore be classified as an *abugida* by its visible behavior and as audiographic by the architecture it carries.
 
-Roman numerals contain number-symbols, but they do not contain positional computation. They can record quantities, but they do not provide the operational grammar by which numbers become scalable, abstract, and algorithmic. The Indian decimal system with place value and zero is not merely a more elegant way of writing numbers; it is a different architecture of number itself. It turns notation into computation. It allows absence to function structurally. It allows position to determine value. It makes calculation reproducible, compressible, and generative.
+The phrase *"Brāhmī was brilliantly adapted from Aramaic"* turns possible contact into an unjustified hierarchy. Aramaic becomes the source of writing intelligence, while India becomes the site of refinement. Yet Aramaic still does not explain the Indic sonomeric grid or the shared encoding principle that Indic scripts carried across many languages.
 
-Zero is decisive because zero is not merely another numeral. It is the structural placeholder that makes place value fully operational. Without zero, place value is unstable and incomplete; with zero, it becomes an architecture. Zero denotes absence, but more importantly, it preserves position. It allows 10, 100, 1000, and 10000 to be generated through a disciplined grammar rather than through accumulating symbols. Zero is not only a sign; it is an operator. It is the silent stabilizer of the whole system.
+Shape is not structure. Prior notation is not architecture.
 
-The same logic applies to infinity. The infinity glyph `∞` entered European mathematical notation in the seventeenth century. That made infinity easier to write; it did not make infinity thinkable. पूर्णम् (*Pūrṇam*), अनादि (*anādi*), and अनन्त (*ananta*) already express a civilizational grammar of the unbounded. Notation renders a concept visible; it does not author the architecture it marks.
+## 3.6 What Stone Can Preserve
 
-The sonomeric architecture plays the same role in the Indic script-world. Brāhmī, understood in the context of the Indic sound-system, is not merely a set of letter-shapes. It is subordinated to a prior phonetic architecture: the वर्णमाला (*varṇamālā*), with its ordered articulation, vowels, consonants, voicing, aspiration, nasality, and systematic movement through the mouth. A वर्ण (*varṇa*) is not just a sound; it is a placed sound-unit. Its value comes from position, contrast, articulatory relation, and combinatorial capacity. The Indic script-system is therefore not explained by pointing to external line-shapes any more than place-value notation is explained by pointing to earlier number-symbols. Letter-shapes are the digits. The grid is the place-value.
-
-The split is not peculiar to these two scripts; it runs through the whole taxonomy of writing. Every alphabetic system — alphabet, abjad, and abugida alike — sits at the Roman-numeral level: a means of writing down sounds already in hand. Every audiographic system — Brāhmī and the Indic family it seeds, from Devanagari and Bengali to Tamil and Kannada to the Tibetan and Southeast Asian descendants — sits at the place-value level: the visible rendering of a prior, engineered grid of sound. The difference in degree is irrelevant. Audiographic writing is structurally tied to the sonomeric grid.
-
-The foundational dogma inflates the visible glyph into the breakthrough. The real breakthrough is the sonomeric grid. Once sonomers have been isolated, ordered, and stabilized inside the वर्णमाला (*varṇamālā*), representing them as visible glyphs is a trivial, procedural implementation of an architecture already standing.
-
-This is the theft inside the phrase *"Brāhmī was brilliantly adapted from Aramaic."* The phrase sounds careful, but it smuggles in an unjustified hierarchy and chronology. It treats Aramaic as the source of writing intelligence and India as the site of refinement. But even if one grants contact, influence, or some degree of graphic borrowing, the deeper problem remains: Aramaic must account for the Indic sonomeric grid, explain why the Indian script tradition aligns with an articulated science of sound, and account for the generative ordering that later allowed Indic scripts to proliferate across languages while preserving a shared phonetic logic. Without those features, Aramaic may at most explain some possible shapes. It does not explain the architecture.
-
-Earlier glyphs are not architecture. Resemblance is not genealogy. Contact is not authorship. Chronology is not causation. The question is not which artifact is older in isolation. The question is what kind of explanation is being offered. Roman numerals do not explain zero as a positional operator. Aramaic does not explain the Indic sonomeric grid. A prior notation may explain the availability of symbols, but it cannot explain a later system whose governing principle it does not contain. 
-
-Shape is not structure. 
-
-Prior notation is not architecture.
-
-## 3.6 Stone Preserves the Pyramid
-
-The secure archaeological record shows Brāhmī in durable public form: royal edicts, stone inscriptions, cave records, coins, seals, potsherds, institutional markings — and that record does less work for the foundational dogma than it wants. Aśoka's Mauryan edicts. Samudragupta's **प्रशस्ति (*prashasti*)** carved into the Allahabad pillar. Rudradāman's Junagadh rock inscription. Khāravela's Hāthīgumphā record. Each apex preserves itself. Each apex commanded the resources to make its writing survive.
+The archaeological record preserves Brāhmī and its descendants on stone, cave walls, pillars, coins, seals, pottery, and metal. Royal records occupy a prominent place within that archive. Aśoka's edicts, Samudragupta's **प्रशस्ति (*praśasti*)** on the Allahabad pillar, Rudradāman's Junagadh inscription, and Khāravela's Hāthīgumphā record all come from rulers who could command durable materials and skilled labor. Donative inscriptions, merchants' marks, names scratched on pottery, and other private records also survive.[NOTE: durable-script-archive-selection]
 
 That is the archive of survival, not the archive of invention.
 
-Stone preserves what authority wanted preserved. The surviving inscriptions are apex speech carved into durable matter. They do not prove that writing began with the apex. They prove that the apex had the resources to make writing survive.
+Durable media favour the people and institutions that could afford them. Royal inscriptions survive at monumental scale because rulers had the resources to carve and display them. Smaller records survive when chance preserves the cave wall, seal, coin, or potsherd on which someone wrote. Neither kind proves where writing began.
 
-The same pattern appears elsewhere. Hammurabi's stele. Darius's Behistun inscription. Egyptian pyramids and tomb inscriptions. Monumental authority survives because stone survives. The pyramid preserves itself in the material best suited to preservation. The ***asuric pyramid*** Chapter 4 defines is not only a metaphor here. It is the literal shape stone preserves best.
+The same survival bias appears elsewhere in Hammurabi's stele, Darius's Behistun inscription, and Egyptian tomb inscriptions. Monumental authority placed its words on materials designed to outlast the speaker. Ordinary writing more often used materials that decayed.
 
-A distributed civilization leaves a different archive. Notes, teaching aids, accounts, letters, mnemonic prompts, working drafts, student exercises, household records, market communication — these live on palm leaf, birch bark, wood, cloth, temporary tablets. In the Indian climate, that archive dies. The absence of surviving notebooks is not evidence that no one wrote notes. It is evidence that stone survives and palm leaf rots.
+A distributed civilization leaves much of its writing on perishable material. Teaching aids and accounts may be written on palm leaf, birch bark, wood, or cloth. The Indian climate destroys such material far more readily than stone. The absence of ordinary notes cannot establish that ordinary writing never existed. It shows which media survived.
 
-लिपि (*Lipi*) was never the civilizational calibrant. Chapter 13 §13.3 disqualified writing for the सांस्कृतिक (*sāṃskṛtika*) bucket. The calibrant was sound: the वर्णमाला (*varṇamālā*), the eleven **पाठाः (*pāṭhāḥ*)**, the **प्रातिशाख्य (*Prātiśākhya*)** discipline, **शिक्षा (*Śikṣā*)**, **छन्दस् (*Chandas*)**, **व्याकरणम् (*Vyākaraṇam*)**, and the **गुरुशिष्यपरम्परा (*guru-shishya paramparā*)**, the teacher-student lineage-chain. Writing could serve the system without preserving the system. A civilization that placed preservation in the mouth and ear had no need to make writing its primary archive.
+लिपि (*Lipi*) was never the civilizational calibrant. The calibrant was sound. The वर्णमाला (*varṇamālā*) and the disciplines of **प्रातिशाख्य (*Prātiśākhya*)**, **शिक्षा (*Śikṣā*)**, **छन्दस् (*Chandas*)**, and **व्याकरणम् (*Vyākaraṇam*)** specified that sound. The eleven **पाठाः (*pāṭhāḥ*)** and teacher-student transmission preserved it. Writing could serve the system without becoming its primary archive.
 
-The first durable Brāhmī inscription dates the surviving interface. It does not date the वर्णमाला (*varṇamālā*). It does not date the mapping of the mouth. It does not date the isolation of the वर्ण (*varṇa*) as sonomer. It does not date the invention of the अक्षर (*akṣara*) as the imperishable sound-unit made visible.
+The first durable Brāhmī inscription dates the surviving interface. It does not date the वर्णमाला (*varṇamālā*), the mapping of the mouth, the isolation of the वर्ण (*varṇa*) as sonomer, or the recognition of the अक्षर (*akṣara*) as an imperishable sound-unit.
 
-Stone preserves the pyramid. It does not preserve the notebook.
+Stone preserves the edict more reliably than the notebook.
 
 ## 3.7 Audiography — The Name Withheld
 
-The machinery's typology lists six categories: *logographic*, *syllabary*, *alphabet*, *abjad*, *abugida*, *featural*. The categories classify scripts by surface behavior: what the signs represent on the page. They do not classify scripts by what they are engineered to do.
+Modern writing-system typologies use labels such as *logographic*, *syllabary*, *alphabet*, *abjad*, *abugida*, and *featural*. These labels describe what signs represent and how they behave on the page. They do not identify the prior architecture that a script may render.
 
-**Peter T. Daniels** coined *abjad* and *abugida* in 1990 by taking the first letters of those systems. *Abjad* is the first four letters of the Arabic order (ا ب ج د — *alif-bā'-jīm-dāl*). *Abugida* is the first four letters of the Ge'ez script (*a-bu-gi-da*). The naming convention is precisely the Indic वर्णमाला (*varṇamālā*) convention. Sanskrit labels its consonant rows after their first letters: कवर्ग (*ka-varga*), चवर्ग (*ca-varga*), टवर्ग (*ṭa-varga*), तवर्ग (*ta-varga*), पवर्ग (*pa-varga*). Letters label themselves by themselves. The whole system is *the garland of varṇas* — वर्णमाला (*varṇamālā*).
+Modern script typology introduced *abjad* and *abugida* as category names in 1990.[NOTE: daniels-abjad-abugida-typology] *Abjad* follows the traditional Arabic letter order (ا ب ج د — *alif-bā'-jīm-dāl*). *Abugida* follows the first four signs in the traditional Ge'ez sequence (*a-bu-gi-da*). Sanskrit likewise identifies consonant rows through their opening sounds: कवर्ग (*ka-varga*), चवर्ग (*ca-varga*), टवर्ग (*ṭa-varga*), तवर्ग (*ta-varga*), and पवर्ग (*pa-varga*).
 
-Yet when the church of progress classified the Indic scripts, it did not coin *varṇography*, *akṣaragraphy*, or any Sanskrit-rooted technical term. It borrowed *abugida* — an Ethiopian Semitic name — and applied it to the Indic family. The church withheld from Sanskrit the naming convention that worked for Arabic in its own letters and Ge'ez in its own letters and classified the Indic system using somebody else's vocabulary.
+When the church of progress classified the Indic scripts, it applied the Ge'ez-derived name *abugida* to them. The category accurately describes their visible behaviour, but the church uses that surface category as if it exhausts the Indic achievement. It never names the prior Sanskrit architecture that the scripts render.
 
-The label *abugida* is not false at the surface. It is false as the final category. It captures how the script behaves on the page. It does not capture what the script encodes.
+Brāhmī, Devanāgarī, and the Indic script family are audiographic. They render articulated sound as visible architecture. Audiography does not replace *abugida*; it identifies the level that *abugida* leaves unnamed. Sanskrit first isolates sonomers, arranges them in the वर्णमाला (*varṇamālā*), and builds pronounced units from them. The script then gives those units visible form.
 
-Brāhmī, Devanāgarī, and the Indic script family are audiographic. They render articulated sound as visible architecture. But audiography is already a surface layer. The deeper engineering is sonomeric: Sanskrit first isolates the sonomers, arranges them in the वर्णमाला (*varṇamālā*), and builds with them. The glyph is the interface.
+Photography offers an illuminating parallel. The word joins Greek *phōs* (light) with *graphē* (writing). Different methods for capturing light could then be described as implementations within one recognized engineering category.
 
-To admit *audiography* as a category would force the foundational dogma to acknowledge an Indic invention at the level it guards most closely: the engineering of writing. To admit *sonomer* would go deeper still. It would acknowledge that India first engineered the unit the script renders. The asuric pyramid therefore prefers a borrowed typological label. *Abugida* keeps the Indic system inside someone else's taxonomy. *Audiography* lets it stand in its own category.
-
-There is a precise parallel in another domain. In 1839, **John Herschel** coined *photography* — from Greek *phōs* (light) and *graphē* (writing) — for the engineered capture of visible reality as a stable visual artifact. Niépce's heliograph, Daguerre's daguerreotype, and Talbot's calotype were the engineering achievements. *Photography* is their name. The church of progress treats photography as a foundational accomplishment of the nineteenth-century West. It celebrates the named inventors. It traces the engineering. It teaches the achievement in every art school.
-
-The वर्णमाला (*varṇamālā*), rendered as Brāhmī and its descendants, is the engineered capture of audible reality as a stable visual artifact. It captures sound as photography captures light, but it addresses a different physical phenomenon, predates photography by many thousands of years, and records more channels at far higher fidelity than any later writing system has matched. Photography captures three rough channels of visible light. The वर्णमाला (*varṇamālā*) first isolates the sonomers and then captures their full articulation matrix: five places of articulation, five manners of articulation, vowel modification, and the अयोगवाह (*ayogavāha*) breath-gestures.
+The वर्णमाला (*varṇamālā*), rendered through Brāhmī and its descendants, captures articulated sound as a stable visual form. It addresses a different physical phenomenon from photography and precedes it by millennia. Before an Indic script renders a sound, the वर्णमाला (*varṇamālā*) has already located that sound by place and effort and distinguished voicing, aspiration, nasality, and vowel duration.
 
 The church of progress has never coined the parallel term. There is no standard reference entry for *audiography* in this sense. The achievement remains unnamed in its vocabulary.
 
-This book calls that system ***Audiography***. The word combines Latin *audi-* (hear) with Greek *-graphia* (writing), following the same hybrid pattern as *television* or *automobile*. It denotes the engineered visual rendering of articulated sound that the वर्णमाला (*varṇamālā*) specifies and that Brāhmī, Devanāgarī, and the other Indic scripts implement. The prior coinage is ***sonomer***: the measured sound-particle, Sanskrit's वर्ण (*varṇa*), isolated before writing begins. An ***audiograph*** is one अक्षर (*akṣara*) — one engineered sound-unit made visible, with the sonomer-classification encoded in the glyph's position within the वर्ग (*varga*) matrix. ***Audiography*** is the system. An ***audiographer*** is its practitioner: the शिक्षा (*Śikṣā*) and प्रातिशाख्य (*Prātiśākhya*) आचार्याः (*ācāryas*) who preserve the audiographic specification across generations.
+This book calls that visual system ***Audiography***. The word combines Latin *audi-* (hear) with Greek *-graphia* (writing), following the same hybrid pattern as *television* or *automobile*. It denotes the visual rendering of the articulated sound architecture specified by the वर्णमाला (*varṇamālā*) and implemented by Brāhmī, Devanāgarī, and other Indic scripts. The prior coinage is ***sonomer***: the measured sound-particle, Sanskrit's वर्ण (*varṇa*), isolated before writing begins. An ***audiograph*** is the visible form through which लिपि (*lipi*) renders one अक्षर (*akṣara*).
 
-अक्षर (*Akṣara*) literally means *that which does not decay* — *a-* (privative) + the *kṣar* dhātu (to flow, to perish). Sanskrit did not call the unit a letter, a glyph, or a written scratch. It called it the imperishable. Photography captures visible reality into media that decay: silver halide breaks down, paper yellows, pixels rot. Audiography captures audible reality into a unit whose name asserts non-decay.
+अक्षर (*Akṣara*) literally means *that which does not decay* — *a-* (privative) + the *kṣar* dhātu (to flow, to perish). The term belongs to the sound-unit before any script renders it. Audiography does not create its stability; it gives that stable unit a visible form.
 
-| | Phenomenon | Engineered capture | Visual artifact | System | Practitioner |
-|---|---|---|---|---|---|
-| Light | photons reflecting off the world | camera optics + photochemistry | a photograph | ***photography*** | photographer |
-| Sound | articulated mouth-gestures of the speaker | sonomer isolation + स्थान (*sthāna*) / प्रयत्न (*prayatna*) engineering rendered as वर्ग (*varga*)-matrix | an audiograph (the अक्षर (*akṣara*)-glyph) | ***audiography*** | audiographer (*ācārya* of शिक्षा (*Śikṣā*) / प्रातिशाख्य (*Prātiśākhya*)) |
+| | Phenomenon | Prior analysis | Visual artifact | System |
+|---|---|---|---|---|
+| Light | light reflected from the world | optics and photochemistry | photograph | ***photography*** |
+| Sound | articulated speech | sonomer isolation and वर्णमाला (*varṇamālā*) architecture | audiograph | ***audiography*** |
 
-[FIGURE A.4: *Photography and Audiography.* — the two engineered captures laid in parallel, with the Indic achievement preceding the Western one by many thousands of years while recording more channels at higher resolution.]
+The coinage pairs with ***Auditure*** (Chapter 13 §13.4; Chapter 14 §§14.1–14.2). *Auditure* denotes the speech-hearing preservation method that preserves the Vedic corpus in its engineered form across thousands of years without a perishable medium. Sound is preserved as sound: श्रुति (*śruti*), what is heard. *Audiography* denotes the engineered visual rendering of that same sound when writing is needed. The sonomers that exist in speech receive visible form, and the order of the वर्णमाला (*varṇamālā*) can be rendered on a page.
 
-The coinage pairs with ***Auditure*** (Chapter 13 §13.4; Chapter 14 §§14.1–14.2). *Auditure* denotes the speech-hearing preservation method that preserves the Vedic corpus in its engineered form across thousands of years without a perishable medium. Sound is preserved as sound: श्रुति (*śruti*), what is heard. *Audiography* denotes the engineered visual rendering of that same sound when writing is needed. Sonomers become visible. The वर्णमाला (*varṇamālā*) becomes image.
+*Auditure* is the primary preservation engineering. The civilization did not entrust its invariant सांस्कृतिक (*sāṃskṛtika*) content to a written medium; it built the speech-hearing chain. *Audiography* serves a different purpose. When writing is needed, it renders the वर्णमाला (*varṇamālā*) and its pronounced combinations with precision. Writing does not become the source of the Vedic content.
 
-*Auditure* is the primary engineering. The civilization refused the written medium for its सांस्कृतिक (*sāṃskṛtika*) content and built the speech-hearing chain. *Audiography* is the secondary engineering. When writing is needed for derived purposes, the engineering of the वर्णमाला (*varṇamālā*) renders sound with precision. It does not become scripture. It does not become the source of the core content.
+The foundational dogma has *scripture* in its vocabulary because its civilizations placed canonical authority in bounded texts. It lacks *Auditure* because it has no category for a civilization that placed its invariant content in exact hearing and recitation. It has *photography* for the engineered capture of light. It lacks *sonomer* and *audiography* for the Indic analysis of sound and its visible rendering.
 
-The foundational dogma has *scripture* in its vocabulary because its civilization placed sacred content on the written word. It does not have *Auditure* because admitting the term would mean admitting that another civilization refused that placement and engineered something more sophisticated. It has *photography* because Europe engineered the capture of light. It does not have *sonomer* or *audiography* because admitting those terms would mean admitting that India engineered the capture of sound first: first as sonomers, then as visible sound-units, at higher resolution, along more channels, and called the architecture the वर्णमाला (*varṇamālā*).
+The Indic place-value comparison now returns at the correct level.[NOTE: kaplan-zero-erasure] Place value organizes a finite set of numeral signs so that they can generate numbers without limit. The sonomeric grid organizes a finite set of measured sounds so that Sanskrit can generate new expression without losing its architecture.
 
-The parallel with the Indic place-value system is exact, but the sonomer reaches deeper.[NOTE: kaplan-zero-erasure] Place value turns number into a finite symbolic system whose rules can generate unbounded arithmetic. The sonomer turns speech into a finite measured sound-system whose rules can generate Sanskrit. Both are civilization-level abstractions. Both turn apparent infinity into disciplined procedure.
-
-The church of progress has missionaries in both domains. Kaplan did not invent the displacement of zero, but he smuggled it beautifully into the public mind: Mesopotamian "nothing" becomes the foreground; Indic शून्य (*śūnya*) becomes a later episode. That is not neutral popularization. It is civilizational displacement in narrative form.
-
-The seventh category is therefore not optional. *Logographic, syllabary, alphabet, abjad, abugida, featural, audiography* is the complete list. The first six classify scripts by surface property. The seventh classifies a script by the engineering content it encodes.
+Audiography therefore adds a second axis to script analysis. The established categories describe how signs behave. Audiography identifies a script that renders a prior, engineered account of articulated sound.
 
 ## 3.8 Three Design Cases: Sound, Script, Standard
 
-The comparison has to separate three design cases: sound, script, and standard. The sound inventory is one layer. The script that renders it is another. The authority that standardizes it is a third. Confusing those layers is how Sanskrit is forced into the pyramid's category. Sanskrit is not merely a standardized language, and not merely a language with a clever script. Korean Hangul proves that a script can be engineered for an existing language. Arabic proves that an inherited sound-and-script tradition can be stabilized through powerful recitational, grammatical, and legal authority. Sanskrit goes deeper: the sound inventory itself is architected as a sonomeric grid, and the scripts render that grid afterward.[NOTE: sound-script-standard-matrix]
+The comparison separates three design cases: sound, script, and standard. The sound inventory is one layer. The script that renders it is another. The authority that standardizes it is a third. Confusing those layers forces Sanskrit into the wrong category.
 
-![Figure A.5 — Sound, Script, Standard: Sanskrit, Korean, and Arabic placed on one articulatory matrix.](figures/audiography/sound_script_standard_matrix.svg){#fig:app3-sound-script-standard-matrix width=100% height=80%}
+Hangul demonstrates that engineers can design a script for an existing language. Arabic demonstrates that recitation, grammar, script, and authority can stabilize a formal language. Sanskrit places the engineering at a deeper level: its sound inventory forms a sonomeric grid, and its scripts render that grid afterward.[NOTE: sound-script-standard-matrix]
 
-![Figure A.6 — Sanskrit Extracted: The Sonomer Grid. The same extraction from Figure A.5, showing the engineered sound-grid by itself.](figures/audiography/sanskrit_extracted_sonomer_grid.svg){#fig:app3-sanskrit-extracted-sonomer-grid width=100%}
+![Figure A.3.1 — Sound, Script, Standard: Sanskrit, Korean, and Arabic placed on one articulatory matrix.](figures/audiography/sound_script_standard_matrix.svg){#fig:app3-sound-script-standard-matrix width=100% height=80%}
 
-![Figure A.7 — Arabic Extracted: Codified Sound Tradition. Arabic isolated from the shared articulatory range: a powerful phonology preserved through recitation, grammar, script, and authority.](figures/audiography/arabic_extracted_codified_sound_tradition.svg){#fig:app3-arabic-extracted-codified-sound-tradition width=100% height=80%}
+![Figure A.3.2 — Sanskrit Extracted: The Sonomer Grid. The Sanskrit layer from Figure A.3.1, showing the engineered sound-grid by itself.](figures/audiography/sanskrit_extracted_sonomer_grid.svg){#fig:app3-sanskrit-extracted-sonomer-grid width=100%}
+
+![Figure A.3.3 — Arabic Extracted: Codified Sound Tradition. Arabic isolated from the shared articulatory range: a powerful phonology preserved through recitation, grammar, script, and authority.](figures/audiography/arabic_extracted_codified_sound_tradition.svg){#fig:app3-arabic-extracted-codified-sound-tradition width=100% height=80%}
 
 Arabic has a powerful preserved sound tradition. Its extraction shows the Semitic sound-pattern clearly: pharyngeal reach, emphatic consonants, and a recitational discipline that has preserved the Qur'anic form with force. Its standardizing power, however, lies in codification: recitation authority, grammar, script tradition, and legal-religious custody. The sound tradition is disciplined. The script tradition is deep. The pattern is not a sonomeric grid engineered as a complete place-and-effort matrix.
 
-![Figure A.8 — Korean Audiography: A Local Sonomeric Implementation. Korean engineers surveyed Korean speech and designed Hangul as its visible interface after systematic Indic sound-analysis had entered the Buddhist knowledge traditions of East Asia.](figures/audiography/korean_extracted_engineered_script.svg){#fig:app3-korean-extracted-engineered-script width=100% height=80%}
+![Figure A.3.4 — Korean Audiography: A Local Sonomeric Implementation. Korean engineers surveyed Korean speech and designed Hangul inside an East Asian intellectual world that had already received Sanskrit pronunciation and Siddham sound-analysis through Buddhism.](figures/audiography/korean_extracted_engineered_script.svg){#fig:app3-korean-extracted-engineered-script width=100% height=80%}
 
 The four-panel sequence prevents category theft. A shared matrix lets the reader compare like with like. The extractions then show what kind of pattern each system leaves. Sanskrit leaves a grid at the sound layer. Arabic leaves a codified tradition around an inherited phonology. Korean leaves an engineered script fitted to an existing phonology. These are not the same achievement. Treating them as the same achievement is the category confusion prosecuted here.
 
@@ -209,9 +187,9 @@ Sound follows the same logic. Sanskrit had already isolated articulated speech i
 
 Buddhism carried more than texts into East Asia. Sanskrit pronunciation, mantra transmission, Siddham writing, and the analysis of consonants and vowels travelled with it. Korean Buddhist scholars had encountered this knowledge long before the fifteenth century. Siddham materials circulated in Korea, Sanskrit sounds appeared in Buddhist textual practice, and Indic phonological categories entered the wider body of knowledge through which Chinese and Korean scholars studied articulated speech.
 
-King Sejong's achievement arose inside that intellectual environment. The *Hunminjeongeum Haerye* records an exact survey of Korean speech: its basic consonant signs depict the articulators, additional strokes generate related sounds, and vowels derive systematically from three basic signs. Korean engineers selected the features their language required and rendered them through locally designed signs. They learned from engineering, returned to their own language, and built a new interface.
+King Sejong's achievement arose inside that intellectual environment. The *Hunminjeongeum Haerye* records an exact survey of Korean speech: its basic consonant signs depict the articulators, additional strokes generate related sounds, and vowels derive systematically from three basic signs. Korean engineers selected the features their language required and rendered them through locally designed signs. The surviving evidence establishes the surrounding knowledge environment without documenting every step by which that knowledge entered the design.
 
-The particular shapes settle neither the presence nor the absence of architectural transmission. A mathematician adopting place value need not preserve the historical Indian glyph for zero; a Korean engineer adopting systematic sound-representation need not preserve Siddham letter-forms. The surviving record establishes the presence of Sanskrit and Siddham phonological knowledge in Korea while leaving the precise route into Sejong's workshop open to further investigation. Hangul remains Korean engineering built within an Asian intellectual world already illuminated by Sanskrit's sonomeric radiance.
+The particular shapes settle neither the presence nor the absence of architectural transmission. A mathematician adopting place value need not preserve the historical Indian glyph for zero; a Korean engineer adopting systematic sound-representation need not preserve Siddham letter-forms. The surviving record establishes the presence of Sanskrit and Siddham phonological knowledge in Korea while leaving the precise route into Sejong's workshop open to further investigation. Hangul remains Korean engineering built within an Asian intellectual world already illuminated by Sanskrit's sonomeric radiance.[NOTE: siddham-east-asia-sonomeric-field]
 
 Japan provides further evidence of architectural transmission. Katakana took its individual marks from abbreviated Chinese characters used by Buddhist scholars in textual annotation. Its graphic material was Chinese. The *gojūon* grid through which Japanese sounds came to be analyzed and ordered drew upon Sanskrit and Siddham phonology. Japanese monks learned to separate consonants from vowels through Siddham study and used that knowledge to arrange their own language. The marks were local; the ordering intelligence had travelled with Sanskrit's radiance.[NOTE: siddham-east-asia-sonomeric-field]
 
@@ -221,89 +199,60 @@ Japan provides further evidence of architectural transmission. Katakana took its
 | **Local interface** | Indic audiographs | Hangul | Kana |
 | **Language served** | Sanskrit | Korean | Japanese |
 
-The ***priests of progress*** celebrate Hangul's engineering openly. **Geoffrey Sampson** coined ***featural*** in *Writing Systems: A Linguistic Introduction* (1985) specifically to describe what Hangul does, calling it *"perhaps the most scientific writing system ever devised."* UNESCO created the King Sejong Literacy Prize in 1989, and South Korea observes a national Hangul Day. The machinery added a category to house Hangul, celebrated the named inventor, recorded the date to the year, treated the design record as engineering documentation, and coined typological vocabulary to capture the achievement.
+The ***priests of progress*** celebrate Hangul's engineering openly. **Geoffrey Sampson** supplied the useful category ***featural*** in *Writing Systems: A Linguistic Introduction* (1985) specifically to describe what Hangul does, and praised Hangul as one of humanity's great intellectual achievements.[NOTE: sound-script-standard-matrix] UNESCO created the King Sejong Literacy Prize in 1989, and South Korea observes a national Hangul Day. The machinery added a category to house Hangul, celebrated the named inventor, recorded the date to the year, treated the design record as engineering documentation, and coined typological vocabulary to capture the achievement.
 
-That celebration detaches the Korean implementation from the older architecture that had reached East Asia. The pyramid searches for copied letter-shapes, finds locally designed marks, and declares an isolated invention. Its inquiry stops at the interface. Applied to arithmetic, the same method would deny the transmission of place value whenever a civilization changed the shapes of its digits.
+Accounts that search only for copied letter-shapes detach the Korean implementation from the older sound-analysis that had reached East Asia. They find locally designed marks and stop at the interface. Applied to arithmetic, the same method would deny the transmission of place value whenever a civilization changed the shapes of its digits.
 
-The same priests of progress apply *abugida*—borrowed from Ge'ez—to the वर्णमाला (*varṇamālā*) and its descendants. This classification anonymizes the वर्णमाला (*varṇamālā*)'s engineering and dissolves the date into pre-history. The machinery treats the प्रातिशाख्य (*Prātiśākhya*) and शिक्षा (*Śikṣā*) disciplines as descriptive linguistics rather than engineering specification, the isolation of sonomers as mere phonetic description, and consonant-by-place organization as taxonomic curiosity rather than systematic encoding of pronunciation as glyph-position.
+The same priests of progress apply *abugida*—borrowed from Ge'ez—to the scripts that render the वर्णमाला (*varṇamālā*). This classification anonymizes the वर्णमाला (*varṇamālā*)'s engineering and dissolves the date into pre-history. The machinery treats the प्रातिशाख्य (*Prātiśākhya*) and शिक्षा (*Śikṣā*) disciplines as descriptions rather than engineering specifications. It treats isolated sonomers as mere phonetic observations and the consonant grid as a taxonomic curiosity rather than the architecture that makes precise written rendering possible.
 
-Proper attribution reveals several achievements simultaneously. Sanskrit supplied the prior sonomeric architecture, Buddhist carriers transmitted its radiance, and Korean and Japanese engineers selected what their specific languages needed to build local implementations. This is radiance at the architectural scale: the receiving civilization learns an engineering principle and builds a new local system from it. The symbols themselves changed even as the underlying engineering idea traveled.
+Proper attribution reveals several achievements simultaneously. Sanskrit and Siddham sound-analysis reached East Asia through Buddhist transmission. Japan preserves a direct application in the *gojūon* ordering. Korean engineers built Hangul within the same intellectual world, while the exact route from Indic analysis into the fifteenth-century design remains a subject for research. The local symbols changed, and each civilization selected what its own language required.
 
-Acknowledging the वर्णमाला (*varṇamālā*) as engineered audiographic writing would place the original engineered capture of articulated sound in a civilization that dislocates the foundational claim. Acknowledging the sonomer reaches deeper because the visible script ceases to be the primary achievement. The deeper achievement is the isolation of the units from which Sanskrit itself is built.
+Acknowledging Indic scripts as engineered renderings of the वर्णमाला (*varṇamālā*) would place a major achievement in the visual capture of articulated sound inside India. Acknowledging the sonomer reaches deeper because the visible script ceases to be the primary achievement. The deeper achievement is the isolation of the units from which Sanskrit itself is built.
 
-The asuric pyramid cannot afford that acknowledgment, forcing the machinery to anonymize the origin, dissolve the date, reduce the documentation to taxonomic linguistics, and withhold the typological vocabulary. The church of progress recognizes audiographic engineering only where recognition preserves the foundational civilizational claim, erasing sonomeric and audiographic engineering wherever recognition would overturn that claim.
+The asuric pyramid cannot afford that acknowledgment. Its machinery therefore anonymizes the origin, dissolves the date, reduces the documentation to taxonomy, and withholds the vocabulary that would identify the engineering. The church of progress recognizes audiographic engineering where recognition preserves its foundational civilizational claim. It erases the same engineering where recognition would overturn that claim.
 
-The scale of the erasure remains large. The script family the machinery classifies as *abugida* serves roughly 1.5 billion users across the Indian subcontinent, Tibet, and Southeast Asia, encompassing most of the literate population east of the Indus and west of the Pacific, with the Sinosphere as the principal exception. Korean Hangul, classified under *featural*, adds another eighty million users to the wider audiographic architecture. Audiographic systems serve close to a third of the world's literate population.
+The scale remains enormous. Brāhmī-derived scripts serve languages across the Indian subcontinent, Tibet, and Southeast Asia. Devanāgarī, Bengali, Tamil, Telugu, Kannada, Malayalam, Gujarati, Gurmukhi, Odia, Sinhala, Tibetan, Thai, Khmer, Lao, and Burmese all preserve versions of the same broad Indic encoding principle. Hangul offers a separate East Asian design case in which an engineered script renders a systematically analyzed sound inventory.
 
-The pyramid's classification — *abugida* for the Indic family, *abugida* again for the Pallava-derived Southeast Asian family, *featural* for Hangul — labels one engineering achievement with categories that name surface behavior rather than engineering content. The unifying category, *audiography*, was the term the church of progress declined to coin.
-
-[FIGURE A.9: *The audiographic family and its pyramid classification.* — the table below; a visual treatment may consolidate by region with the pyramid's labels as a column.]
-
-| Script | Pyramid's label | Primary languages | Approx. users (millions) |
-|---|---|---|---|
-| **Brāhmī-derived (Indic):** | | | |
-| Devanāgarī | abugida | Sanskrit, Hindi, Marathi, Nepali, Konkani | 600+ |
-| Bengali / Bangla | abugida | Bengali, Assamese, Manipuri | 270 |
-| Telugu | abugida | Telugu | 95 |
-| Tamil | abugida | Tamil | 85 |
-| Gujarati | abugida | Gujarati | 55 |
-| Kannada | abugida | Kannada | 45 |
-| Odia | abugida | Odia | 40 |
-| Malayalam | abugida | Malayalam | 35 |
-| Gurmukhi | abugida | Punjabi (eastern) | 30 |
-| Sinhala | abugida | Sinhala | 17 |
-| Tibetan | abugida | Tibetan, Dzongkha, Ladakhi | 7 |
-| **Pallava-derived (Southeast Asian):** | | | |
-| Thai | abugida | Thai | 70 |
-| Burmese | abugida | Burmese, Shan, Karen | 50 |
-| Khmer | abugida | Khmer | 17 |
-| Lao | abugida | Lao | 7 |
-| Javanese / Balinese | abugida | Javanese, Balinese (historic / heritage) | minor live use |
-| **Independent invention:** | | | |
-| Hangul | *featural* | Korean | 80 |
-| | | | |
-| **Audiographic-family combined user-base** | | | **~1.5 billion** |
-
-*Approximate; primarily first-language and significant second-language users; figures rounded. Sources: contemporary linguistic surveys. The table omits minor historic and recently-revived scripts (Sharada, Modi, Grantha, Tirhuta, Meitei Mayek, Sora Sompeng, Wancho, the Philippine Baybayin family, and others); the engineering content is the same.*
-
-The misclassification is not an innocent gap waiting for better data. It is the structural operation by which the machinery's typology refuses to acknowledge that one engineering category covers close to a third of the world's writing.
+The conventional labels remain useful. *Abugida* describes the behavior of the Brāhmī-derived signs, while *featural* describes the design of Hangul. Neither term asks whether the script renders a prior architecture of articulated sound. Audiography asks that additional question and thereby reveals the engineering connection that the conventional typology leaves unstated.
 
 ## 3.10 The Foundational Claim on Writing
 
-The Brāhmī-from-Aramaic narrative persists because writing is foundational inside the Abrahamic imagination.
+The pyramid's attachment to writing is not neutral. A bounded text can be enclosed within an authorized institution. The institution then controls which text is accepted and who may interpret it.
 
-The Hebrew Bible declares the written word as the medium of the covenant, establishing that the Torah is given in writing on Sinai. The Christian gospel of John opens with *the Word was God*—the *logos*—while the Qurʾān's first revelation to Muḥammad begins with *iqraʾ*—read, recite. All three original Abrahamic religions place authority in the written word and ultimately in a textual act.
+Judaism, Christianity, and Islam organize canonical authority around bounded scripture, even where recitation and oral interpretation remain essential. The Brāhmī-from-Aramaic narrative grows from the same insistence that writing is the foundation of civilization.
 
-The ***fourth Abrahamic religion***—the asuric formation Chapter 4 anchors—inherits the same orientation in secular form. Its foundational dogma makes the modern academy's history of civilization a history of writing, declaring that civilization begins where writing begins. Writing systems become the index of civilizational origin. The foundational dogma identifies Sumerian cuneiform, Egyptian hieroglyphs, the Phoenician alphabet, Greek vowel letters, and the Latin script as these foundational moments.
+The ***fourth Abrahamic religion***—the asuric formation Chapter 4 anchors—inherits the same orientation in secular form. Its foundational dogma makes the modern academy's history of civilization a history of writing, declaring that civilization begins where writing begins. Writing systems become the index of civilizational origin. The standard sequence identifies Sumerian cuneiform, Egyptian hieroglyphs, the Phoenician alphabet, Greek vowel letters, and the Latin script as foundational moments.[NOTE: daniels-abjad-abugida-typology]
 
-This dogma places the engineering of writing inside the Near-Eastern-to-European corridor, turning later scripts, including Brāhmī, into mere adaptations of templates that originated there. The progressive dogma then adds the time-axis, asserting that later-along-the-corridor becomes more advanced. The two doctrinal strata complete the enclosure, establishing a narrative designed to enclose the evidence.
+This dogma places the engineering of writing inside the Near-Eastern-to-European corridor, turning later scripts, including Brāhmī, into mere adaptations of templates that originated there. The progressive dogma then adds the time-axis, asserting that later-along-the-corridor becomes more advanced. Together, the two dogmas enclose the evidence within a history that begins in the corridor and moves toward Europe.
 
-The sonomer breaks that enclosure. It says the visible glyph is not the deepest achievement. The deepest achievement is the measured sound-particle and the ordered sound-system built from it. The script renders that system; it does not create it. The written word loses its monopoly over foundation.
+श्रुति (*Śruti*) denies the apex custody of the original. It places the calibrant in exact sound carried across society. No apex owns that sound because the original remains audible wherever exact recitation continues. Audiography serves that sound; it does not replace it.
 
-The sonomer threatens the pyramid more directly than the audiograph. The audiograph challenges the claim that India borrowed writing. The sonomer challenges the deeper claim that writing is the primary civilizational foundation.
+The sonomer breaks the enclosure. The visible glyph is not the deepest achievement. The deeper achievement is the measured sound-particle and the ordered sound-system built from it. The script renders that system; it does not create it. The written word loses its monopoly over the civilizational foundation.
+
+The sonomer therefore threatens the pyramid more directly than the audiograph. The audiograph challenges the claim that India borrowed writing. The sonomer challenges the deeper claim that writing must stand at the foundation of civilization.
 
 A claim by Indian civilization to have engineered its script independently would dislocate the foundational claim. A stronger claim — that India first isolated the sonomers, produced the वर्णमाला (*varṇamālā*), and then rendered that sonomeric architecture as Brāhmī — does more. It relocates the foundation from writing to sound.
 
 The Brāhmī-from-Aramaic narrative is not random. It defends the foundational civilizational claim Chapter 4 establishes. It is the script-level analogue of the Sanskrit-from-PIE narrative. Both do the same asuric work in different media. The main argument dismantles the second. The prosecution now isolates the first as a parallel target.
 
-## 3.11 The Work Ahead
+## 3.11 The Research Ahead
 
-*Atomic Sanskrit* prosecutes the language-engineering case. The script-engineering case is a new research project — the same act of capture in a different medium. The prosecution does not finish that project. It opens it.
+*Atomic Sanskrit* prosecutes the language-engineering case. The script-engineering case now becomes a separate research project: the same act of capture in a different medium.
 
 The project has several tasks.
 
 First, compare Brāhmī, Aramaic, Kharoṣṭhī, and Phoenician by encoding system, not by glyph-shape alone. A few visual similarities cannot explain the वर्ग (*varga*) matrix, the vowel-diacritic system, the अयोगवाह (*ayogavāha*), or the sonomeric specification underneath them.
 
-Second, treat the प्रातिशाख्य (*Prātiśākhya*) and शिक्षा (*Śikṣā*) literature as engineering documentation. These texts show that the sonomer system is older than the script that renders it.
+Second, treat the प्रातिशाख्य (*Prātiśākhya*) and शिक्षा (*Śikṣā*) literature as engineering documentation. These texts preserve the sound specification independently of any claim about the date of a particular script.
 
-Third, test the chronology of Aramaic-Brāhmī contact without letting the surviving stone archive decide the whole question. Durable stone records apex speech. It does not preserve the working notebook.
+Third, test the chronology of Aramaic-Brāhmī contact without letting the durable archive decide the whole question. Stone preserves monumental speech more reliably than it preserves the working notebook.
 
 Fourth, study the Abrahamic-substrate claims about the invention of writing as claims, not as background truth. The pyramid's account of writing is not innocent. It protects a civilizational foundation.
 
-Fifth, describe Brāhmī's encoding system as the real engineering content: the वर्ग (*varga*) matrix, the vowel-diacritic system, the अयोगवाह (*ayogavāha*), and the visible rendering of the अक्षर (*akṣara*). The source-script question must be reframed as a glyph-shape question, not a system-origin question.
+Fifth, describe Brāhmī's encoding system as the real engineering content: the वर्ग (*varga*) matrix, the vowel-diacritic system, the अयोगवाह (*ayogavāha*), and the visible rendering of the अक्षर (*akṣara*). Possible transmission of glyphs must not be allowed to answer the separate question of where that encoding architecture came from.
 
-The project requires Sanskrit fluency sufficient to read the प्रातिशाख्य (*Prātiśākhya*) and शिक्षा (*Śikṣā*) texts in the original; training in epigraphy and the history of writing systems; familiarity with Aramaic, Phoenician, and the Near-Eastern alphabetic family; and the courage to test the invention-of-writing story rather than inherit it.
+That research begins with scholars who can read the प्रातिशाख्य (*Prātiśākhya*) and शिक्षा (*Śikṣā*) texts in Sanskrit. It also requires epigraphy, the history of writing systems, and familiarity with Aramaic, Phoenician, and the Near-Eastern alphabetic family. Most of all, it requires a willingness to test the inherited account of writing rather than repeat it.
 
-The architecture is waiting for its account. The philological machinery has examined the visible glyphs of Brāhmī. It has not decoded the system those glyphs render. The same engineering thesis the main chapters develop for Sanskrit applies, with proper substitution, to Brāhmī: the script is the वर्णमाला (*varṇamālā*) made visible; the वर्णमाला (*varṇamālā*) is the ordered sonomer architecture; the engineering predates the visible interface; and the engineering is Indic.
+The philological machinery has examined the visible glyphs of Brāhmī without giving equal attention to the Sanskrit sound architecture those glyphs render. The same engineering thesis the main chapters develop for Sanskrit now extends to Brāhmī: the script renders an ordered sonomer architecture, and that architecture is Indic.
 
-The work is open.
+The research remains open.

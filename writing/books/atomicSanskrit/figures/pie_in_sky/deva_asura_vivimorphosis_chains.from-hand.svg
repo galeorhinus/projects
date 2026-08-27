@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4.75in" height="3.68in" viewBox="0 0 1200 930">
+  <defs>
+    <marker id="arrow-gold" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#9a7d3c"/>
+    </marker>
+    <marker id="arrow-red" markerWidth="10" markerHeight="10" refX="2" refY="5" orient="auto">
+      <path d="M10,0 L0,5 L10,10 Z" fill="#9a5147"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="930" fill="#f7f6f2"/>
+  <style>
+    .title { font-family: "EB Garamond", serif; font-size: 42px; font-weight: 700; fill: #292724; }
+    .subtitle { font-family: "EB Garamond", serif; font-size: 27px; font-style: italic; fill: #6a6258; }
+    .colhead { font-family: "EB Garamond", serif; font-size: 33px; font-weight: 700; fill: #292724; }
+    .stage { font-family: "EB Garamond", serif; font-size: 21px; font-weight: 700; letter-spacing: 1px; fill: #7b6a4b; }
+    .main { font-family: "EB Garamond", serif; font-size: 30px; font-weight: 700; fill: #292724; }
+    .body { font-family: "EB Garamond", serif; font-size: 25px; fill: #403b35; }
+    .projection { font-family: "EB Garamond", serif; font-size: 29px; font-weight: 700; fill: #8a352a; }
+    .projection-note { font-family: "EB Garamond", serif; font-size: 22px; font-style: italic; fill: #8a352a; }
+    .callout { font-family: "EB Garamond", serif; font-size: 25px; fill: #403b35; }
+    .dev { font-family: "Noto Serif Devanagari", serif; font-size: 34px; }
+    .dev-stage { font-family: "Noto Serif Devanagari", serif; font-size: 25px; }
+  </style>
+
+  <text x="600" y="52" text-anchor="middle" class="title">Recorded Chains and Projected Ancestors</text>
+  <text x="600" y="91" text-anchor="middle" class="subtitle">The solid chains move forward. The dashed ancestors are projected backward.</text>
+
+  <text x="311" y="137" text-anchor="middle" class="colhead"><tspan class="dev">देवः</tspan>  devaḥ</text>
+  <text x="889" y="137" text-anchor="middle" class="colhead"><tspan class="dev">असुरः</tspan>  asu-ra</text>
+
+  <g transform="translate(42 158)">
+    <rect width="538" height="96" rx="8" fill="#f4e7e3" stroke="#9a5147" stroke-width="2.5" stroke-dasharray="10 8"/>
+    <text x="269" y="29" text-anchor="middle" class="stage" fill="#8a352a">PYRAMID'S PROJECTED ANCESTOR</text>
+    <text x="269" y="68" text-anchor="middle" class="projection">*deiwós  ←  *dyew-</text>
+  </g>
+  <g transform="translate(620 158)">
+    <rect width="538" height="96" rx="8" fill="#f4e7e3" stroke="#9a5147" stroke-width="2.5" stroke-dasharray="10 8"/>
+    <text x="269" y="29" text-anchor="middle" class="stage" fill="#8a352a">PYRAMID'S PROJECTED ANCESTOR</text>
+    <text x="269" y="66" text-anchor="middle" class="projection">*h₂n̥su-  <tspan class="projection-note">contested</tspan></text>
+  </g>
+
+  <line x1="311" y1="286" x2="311" y2="254" stroke="#9a5147" stroke-width="3" stroke-dasharray="8 7" marker-end="url(#arrow-red)"/>
+  <line x1="889" y1="286" x2="889" y2="254" stroke="#9a5147" stroke-width="3" stroke-dasharray="8 7" marker-end="url(#arrow-red)"/>
+
+  <g transform="translate(42 286)">
+    <rect width="538" height="105" rx="8" fill="#e8e1cf" stroke="#9a7d3c" stroke-width="2.5"/>
+    <text x="22" y="29" class="stage"><tspan class="dev-stage">धातुः</tspan> (dhātuḥ) · CONSTITUENT</text>
+    <text x="269" y="67" text-anchor="middle" class="main"><tspan class="dev">⟪दिव्⟫</tspan>  div</text>
+    <text x="269" y="94" text-anchor="middle" class="body">to shine</text>
+  </g>
+  <g transform="translate(620 286)">
+    <rect width="538" height="105" rx="8" fill="#e8e1cf" stroke="#9a7d3c" stroke-width="2.5"/>
+    <text x="22" y="29" class="stage"><tspan class="dev-stage">धातुः</tspan> (dhātuḥ) · CONSTITUENT</text>
+    <text x="269" y="66" text-anchor="middle" class="main"><tspan class="dev">⟪अस्⟫</tspan>  as  →  <tspan class="dev">असु</tspan>  asu</text>
+    <text x="269" y="94" text-anchor="middle" class="body">to be  →  life-breath</text>
+  </g>
+
+  <line x1="311" y1="391" x2="311" y2="423" stroke="#9a7d3c" stroke-width="3" marker-end="url(#arrow-gold)"/>
+  <line x1="889" y1="391" x2="889" y2="423" stroke="#9a7d3c" stroke-width="3" marker-end="url(#arrow-gold)"/>
+
+  <g transform="translate(42 432)">
+    <rect width="538" height="105" rx="8" fill="#e1e8df" stroke="#70856d" stroke-width="2.5"/>
+    <text x="22" y="29" class="stage"><tspan class="dev-stage">शब्दः</tspan> (śabdaḥ) · SANSKRIT WORD</text>
+    <text x="269" y="68" text-anchor="middle" class="main"><tspan class="dev">देवः</tspan>  devaḥ</text>
+    <text x="269" y="95" text-anchor="middle" class="body">the shining one</text>
+  </g>
+  <g transform="translate(620 432)">
+    <rect width="538" height="105" rx="8" fill="#e1e8df" stroke="#70856d" stroke-width="2.5"/>
+    <text x="22" y="29" class="stage"><tspan class="dev-stage">शब्दः</tspan> (śabdaḥ) · SANSKRIT WORD</text>
+    <text x="269" y="68" text-anchor="middle" class="main"><tspan class="dev">असुरः</tspan>  asu-ra</text>
+    <text x="269" y="95" text-anchor="middle" class="body">the breath-bearer</text>
+  </g>
+
+  <line x1="311" y1="537" x2="311" y2="569" stroke="#9a7d3c" stroke-width="3" marker-end="url(#arrow-gold)"/>
+  <line x1="889" y1="537" x2="889" y2="569" stroke="#9a7d3c" stroke-width="3" marker-end="url(#arrow-gold)"/>
+
+  <g transform="translate(42 578)">
+    <rect width="538" height="94" rx="8" fill="#f0ece3" stroke="#77736d" stroke-width="2.5"/>
+    <text x="22" y="29" class="stage"><tspan class="dev-stage">बीजम्</tspan> (bījam) · LISTENER'S SEED</text>
+    <text x="269" y="67" text-anchor="middle" class="body">received by an Italic listener</text>
+  </g>
+  <g transform="translate(620 578)">
+    <rect width="538" height="94" rx="8" fill="#f0ece3" stroke="#77736d" stroke-width="2.5"/>
+    <text x="22" y="29" class="stage"><tspan class="dev-stage">बीजम्</tspan> (bījam) · LISTENER'S SEED</text>
+    <text x="269" y="67" text-anchor="middle" class="body">received by an Iranian listener</text>
+  </g>
+
+  <line x1="311" y1="672" x2="311" y2="704" stroke="#9a7d3c" stroke-width="3" marker-end="url(#arrow-gold)"/>
+  <line x1="889" y1="672" x2="889" y2="704" stroke="#9a7d3c" stroke-width="3" marker-end="url(#arrow-gold)"/>
+
+  <g transform="translate(42 713)">
+    <rect width="538" height="92" rx="8" fill="#e5e2dd" stroke="#77736d" stroke-width="2.5"/>
+    <text x="22" y="29" class="stage"><tspan class="dev-stage">अपशब्दः</tspan> (apaśabdaḥ) · RECEIVING WORD</text>
+    <text x="269" y="67" text-anchor="middle" class="main">Latin  deus</text>
+  </g>
+  <g transform="translate(620 713)">
+    <rect width="538" height="92" rx="8" fill="#e5e2dd" stroke="#77736d" stroke-width="2.5"/>
+    <text x="22" y="29" class="stage"><tspan class="dev-stage">अपशब्दः</tspan> (apaśabdaḥ) · RECEIVING WORD</text>
+    <text x="269" y="67" text-anchor="middle" class="main">Avestan  ahura</text>
+  </g>
+
+  <g transform="translate(42 837)">
+    <rect width="1116" height="65" rx="8" fill="#eee0dc" stroke="#9a5147" stroke-width="2.5"/>
+    <text x="558" y="41" text-anchor="middle" class="callout"><tspan class="dev">असुर</tspan>  a-sura, the un-shining, is a separate Sanskrit word. It does not enter the Iranian chain.</text>
+  </g>
+</svg>

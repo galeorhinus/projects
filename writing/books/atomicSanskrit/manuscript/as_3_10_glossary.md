@@ -80,7 +80,7 @@ The glossary is organized in three groups:
 
 ### **शब्द (*śabda*)** / **शब्दाः (*śabdāḥ*)**
 
-**Standard, multi-domain.** Word; sound; in मीमांसा (*Mīmāṃsā*), the eternal sound-substance (शब्दब्रह्म (*śabda-brahman*)). Monier-Williams: sound, noise, word.
+**Standard, multi-domain.** Word; sound; in मीमांसा (*Mīmāṃsā*), the eternal sound-substance (शब्दब्रह्मन् (*śabda-brahman*)). Monier-Williams: sound, noise, word.
 
 **English pair**: *word* / *lexical molecule*. The chemistry analogue when the focus is the architecture (*varṇāḥ → dhātavaḥ → śabdāḥ* = particles → atoms → molecules).
 
@@ -122,11 +122,11 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 **Book-coined English.** The engineered visual capture of articulated sound; the visible rendering of sonomers through the अक्षर (*akṣara*)-and-लिपि (*lipi*) system. Coined for Appendix Part 3, *The Sonomer and the Audiograph*; deployed in Chapters 8, 9, and 13.
 
-**Sanskrit pair**: अक्षर (*akṣara*) + लिपि (*lipi*) (rendered glyph + script-system; the audiograph is the achievement of the pair).
+**Sanskrit relation**: लिपि (*lipi*) renders an अक्षर (*akṣara*) in visible form; the resulting form is the audiograph.
 
 ### **calibrant** / **calibration matrix**
 
-**Book-coined English, repurposed engineering vocabulary.** Calibrant: a reference standard whose stability allows other measurements to be made against it. Sanskrit functions as the linguistic calibrant for the subcontinental sound-field and the Indic civilizational continuum. The *calibration matrix* denotes the architecture that preserves the calibration across generations (Chapters 13–15).
+**Book-coined English, repurposed engineering vocabulary.** A calibrant is an invariant standard against which a participant can align and correct itself. The Vedas are the primary calibrant for Sanskrit and संस्कृति (*saṃskṛti*). Their received sounds, words, grammar, and distinctions remain available across generations. The लौकिक (*laukika*) domain can therefore create new expression while continuing to align with the वैदिक (*vaidika*) standard. At the outward scale, complete Sanskrit becomes a calibrant for languages reached by its radiance. The *calibration matrix* is the distributed architecture that keeps the standard available without placing it under one apex (Chapters 13–15).
 
 ### **Radiance Thesis**
 
@@ -139,10 +139,6 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 ### **PASS — Principle of Architectural Selection and Scope**
 
 **Book-coined English.** The analytical principle used to explain why Sanskrit gives a sound, form, or operation one scope rather than another. The analysis identifies the resource's **contribution**, the **load** created by duplication or collision, and the **bounding support** that can contain that load. It then identifies the appropriate **scope**: Included in the reusable architecture, Restricted to a stated condition, Vaidika, Lineage-Bounded, or Excluded from independent use. Chapter 9 introduces PASS through the sonomer grid; Chapter 16 applies it to the two Sanskrit domains; Appendix Part 8 preserves the technical profiles.
-
-### **calibrand**
-
-**Book-coined English, sibling to *calibrant*.** *That which is calibrated* — formed like *operand*, *multiplicand*, *analysand*: the thing acted upon. Where *calibrant* designates Sanskrit as the engineered standard, **calibrand** designates a language restructured toward it through **calibrant contact** (Chapter 19 §19.7). The calibrand languages are the set the philological machinery — treating their shared reflections as common descent — classifies as the *"Indo-European"* and *"Indo-Iranian"* families; each calibrand instead preserves a प्रतिबिम्ब (*Pratibimba*) (reflection) of the calibrant, not a fragment of a vanished ancestor. The term replaces a geography-plus-family-tree label with one that encodes the relation: a reflection of a standard, not descended from a parent.
 
 ### **drift** / **deviation** / **divergence**
 
@@ -184,13 +180,13 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **परम्परा (*paramparā*)**
 
-**Standard.** The unbroken lineage-chain and transmission-chain through which knowledge is transmitted across generations. गुरुशिष्यपरम्परा (*Guru-shishya paramparā*) — the teacher-student transmission chain. At system scale, परम्परा (*paramparā*) is distributed transmission architecture: vertical lineage-chains preserving custody across generations, and horizontal transmission-networks moving knowledge across villages, towns, assemblies, and regions.
+**Standard.** The unbroken lineage-chain and transmission-chain through which knowledge is transmitted across generations. गुरुशिष्यपरम्परा (*guru-śiṣya-paramparā*) — the teacher-student transmission chain. At system scale, परम्परा (*paramparā*) is distributed transmission architecture: vertical lineage-chains preserving custody across generations, and horizontal transmission-networks moving knowledge across villages, towns, assemblies, and regions.
 
 **English pair**: *lineage* / *chain*; at architectural scale, *transmission architecture* / *transmission network*. In this book, परम्परा (*paramparā*) does not mean "tradition" as inherited custom. It denotes the Indic continuity mechanism itself.
 
 ### **श्रुति (*śruti*)** / **स्मृति (*smṛti*)**
 
-**Standard.** श्रुति (*Śruti*) — that which is heard; the eternal heard-corpus (the *Vedas*). स्मृति (*Smṛti*) — that which is remembered; the secondary corpus (epics, पुराणानि (*purāṇas*), धर्मशास्त्र (*dharmaśāstra*)). The pair structures the architecture of the Sanskrit textual continuum.
+**Standard.** श्रुति (*śruti*) — that which is heard; the eternal heard-corpus (the *Vedas*). स्मृति (*smṛti*) — that which is remembered; the secondary corpus (epics, पुराणानि (*purāṇāni*), धर्मशास्त्र (*dharmaśāstra*)). The pair structures the architecture of the Sanskrit textual continuum.
 
 ### **छन्दस् (*chandas*)** / **भाषा (*bhāṣā*)**
 
@@ -240,11 +236,11 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **अपौरुषेयत्व (*apauruṣeyatva*)**
 
-**Standard.** The मीमांसा (*Mīmāṃsā*) doctrine of the *Vedas* as not-of-human-authorship. The architecture observable today is what the eternal शब्द (*śabda*) manifests. Established in Jaimini's मीमांसासूत्र (*Mīmāṃsā Sūtra*) 1.1.5, Śabara's भाष्य (*Bhāṣya*), Kumārila's श्लोकवार्त्तिक (*Ślokavārttika*). Load-bearing for the book's engineering thesis — the *Vedas* as the encoded form, the दृष्टाः (*dṛṣṭāḥ*) as the lineage-internal conduit, no separate human designing-agent class.
+**Standard.** The मीमांसा (*Mīmāṃsā*) doctrine of the *Vedas* as not-of-human-authorship. The architecture observable today is what the eternal शब्द (*śabda*) manifests. Established in Jaimini's मीमांसासूत्र (*Mīmāṃsā Sūtra*) 1.1.5, Śabara's भाष्य (*Bhāṣya*), Kumārila's श्लोकवार्त्तिक (*Ślokavārttika*). Load-bearing for the book's engineering thesis: the *Vedas* are the encoded form; the मन्त्रद्रष्टारः (*mantra-draṣṭāraḥ*) and मन्त्रद्रष्ट्र्यः (*mantra-draṣṭryaḥ*) saw the mantras rather than composing them; the continuum does not place a separate human designer at their origin.
 
-### **दृष्टाः (*dṛṣṭāḥ*)**
+### **मन्त्रद्रष्टारः (*mantra-draṣṭāraḥ*)** / **मन्त्रद्रष्ट्र्यः (*mantra-draṣṭryaḥ*)**
 
-**Standard.** The seers — those who *saw* (passive perfect of दृश् (*dṛś*), to see) the *Vedas*. मन्त्रदृष्टाः (*Mantra-dṛṣṭāḥ*), not मन्त्रकर्तारः (*mantra-kartāraḥ*) (seers, not composers). The conduit; not the engineering designers.
+**Standard.** The male and female seers of the mantras. The agent noun द्रष्टृ (*draṣṭṛ*) means one who sees; its masculine plural is द्रष्टारः (*draṣṭāraḥ*) and its feminine plural is द्रष्ट्र्यः (*draṣṭryaḥ*). The terms distinguish those who saw the mantras from मन्त्रकर्तारः (*mantra-kartāraḥ*), composers of mantras. The seers are the lineage-internal conduits, not a class of human designers.
 
 ### **सिद्ध (*siddha*)** / **कार्य (*kārya*)**
 
@@ -262,13 +258,13 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 **Standard.** Verb classes in the धातुपाठ (*Dhātupāṭha*). Ten classes total: भ्वादि (*bhvādi*), अदादि (*adādi*), जुहोत्यादि (*juhotyādi*), दिवादि (*divādi*), स्वादि (*svādi*), तुदादि (*tudādi*), रुधादि (*rudhādi*), तनादि (*tanādi*), क्र्यादि (*kryādi*), चुरादि (*curādi*). Each गण (*gaṇa*) is defined by the विकरण (*vikaraṇa*) signature its धातवः (*dhātavaḥ*) take in conjugation.
 
-### **अक्षरम् (*akṣara*)**
+### **अक्षर (*akṣara*)**
 
 **Standard.** "The imperishable"; the syllabic sound-bond — a स्वरः (*svaraḥ*) with any consonantal contacts that surround it. The stable acoustic unit; the audiograph's referent.
 
 ### **मात्रा (*mātrā*)**
 
-**Standard.** Unit of duration. ह्रस्वस्वर (*Hrasva svara*) = 1 मात्रा (*mātrā*); दीर्घस्वर (*dīrgha svara*) = 2 मात्राः (*mātrās*); व्यञ्जन (*vyañjana*) = ½ मात्रा (*mātrā*); प्लुतस्वर (*pluta svara*) = 3 मात्राः (*mātrās*). Specified across the शिक्षा (*Śikṣā*) texts (esp. पाणिनीयशिक्षा (*Pāṇinīya Śikṣā*)).
+**Standard.** Unit of duration. ह्रस्वस्वर (*hrasva-svara*) = 1 मात्रा (*mātrā*); दीर्घस्वर (*dīrgha-svara*) = 2 मात्राः (*mātrās*); व्यञ्जन (*vyañjana*) = ½ मात्रा (*mātrā*); प्लुतस्वर (*pluta-svara*) = 3 मात्राः (*mātrās*). Specified across the शिक्षा (*Śikṣā*) texts (esp. पाणिनीयशिक्षा (*Pāṇinīya Śikṣā*)).
 
 ### **सूत्रलक्षणम् (*sūtra-lakṣaṇam*)**
 
@@ -420,8 +416,10 @@ Book refrain: ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many.
 
 ## Conventions for using this glossary
 
-- Cross-references in the book's chapter prose use the Sanskrit form. The English pair is available; pick whichever fits the local rhythm (per CLAUDE.md's Sanskrit / English alternation rules).
-- On first use of any term in a chapter, pair both forms once. Use Devanagari as an anchor when the term has weight or is being installed; after that, IAST or English alone is fine.
+- In ordinary reader-facing prose, every Sanskrit technical term appears in Devanagari followed immediately by italic IAST in parentheses. Devanagari leads; IAST keeps the term accessible to readers who do not know the script.
+- Treat the Devanagari-IAST pair as one indivisible Sanskrit unit. Place English possessives, plurals, and other grammar around the pair rather than attaching English endings to either Sanskrit form.
+- The English explanation need not accompany every occurrence. After the term has been explained, the paired Sanskrit form can stand without its English gloss.
+- Derivation chains, paradigms, source passages, figures, and keyed graphical systems may use concise notation after the full forms have been identified nearby. Familiar names may remain in their established form unless their Sanskrit spelling or derivation becomes evidence.
 - Do not bold every Devanagari occurrence. Reserve bold Devanagari for installation moments, tables, figures, hammers, and terms being defined.
-- Where a chapter introduces a coined compound (e.g., धातुरचना (*dhāturacanā*)) for the first time, anchor in the etymology: *"dhātu + racanā — atomic scaffold"*. Do not meta-narrate ("what this book calls").
+- Where a chapter introduces a coined compound such as धातुरचना (*dhāturacanā*) for the first time, anchor it in the etymology: *"धातु (*dhātu*, atom) + रचना (*racanā*, arrangement) — atomic scaffold"*. Do not meta-narrate ("what this book calls").
 - Per-term endnotes preserve the rationale where the etymology alone is not enough.

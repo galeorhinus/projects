@@ -25,12 +25,12 @@ from _shared.style import setup, savefig, FILL, ACCENT
 # Source: analysis/dhatupatha/data/derived/template_distribution.csv
 # (corrected per Yi-fix to the ñi initial anubandha — see commit 9455d07).
 PARTICLE_COUNTS = [
-    ("1",  7,    "floor"),
-    ("2",  237,  "minimum"),
-    ("3",  1052, "modal"),
-    ("4",  681,  "high"),
-    ("5",  157,  "threshold"),
-    ("6+", 34,   "cliff"),
+    ("1",  9,    "floor"),
+    ("2",  251,  "minimum"),
+    ("3",  1262, "modal"),
+    ("4",  556,  "high"),
+    ("5",  79,   "threshold"),
+    ("6+", 11,   "cliff"),
 ]
 
 
@@ -69,7 +69,7 @@ def main():
 
     ax.set_xlabel("Sonomers per dhātuḥ (धातुः)")
     ax.set_ylabel("Count")
-    ax.set_ylim(0, 1250)
+    ax.set_ylim(0, 1480)
     ax.spines["top"].set_visible(False)
     ax.spines["right"].set_visible(False)
     ax.yaxis.set_ticks_position("left")

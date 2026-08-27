@@ -110,7 +110,7 @@ If *archaic* simply means ancient, then the description says very little. If it 
 
 A better question is: are the Vedas old?
 
-In their human reception and transmission, undoubtedly. *Sanātan* time is **अनादि (*anādi*)**, but the Vedas are not. They have a beginning within Sanātan time. The मन्त्रद्रष्टारः (*mantradṛṣṭāraḥ*) and मन्त्रद्रष्ट्र्यः (*mantradṛṣṭryaḥ*) saw the mantras, but we do not know when each mantra was seen. Calling the Vedas old can therefore describe the depth of their human transmission; it cannot establish an evolutionary beginning for Sanskrit.
+In their human reception and transmission, undoubtedly. *Sanātan* time is **अनादि (*anādi*)**, but the Vedas are not. They have a beginning within Sanātan time. The मन्त्रद्रष्टारः (*mantra-draṣṭāraḥ*) and मन्त्रद्रष्ट्र्यः (*mantra-draṣṭryaḥ*) saw the mantras, but we do not know when each mantra was seen.[NOTE: rigveda-10-125-vak-ambhrini] Calling the Vedas old can therefore describe the depth of their human transmission; it cannot establish an evolutionary beginning for Sanskrit.
 
 The **लौकिक (*laukika*)** domain is also old. Both वैदिक (*vaidika*) and लौकिक (*laukika*) belong to the same engineering. The two domains may have existed together from the beginning because they serve two different purposes.
 
@@ -120,7 +120,7 @@ The वैदिक (*vaidika*) domain preserves received content exactly. Once 
 
 The लौकिक (*laukika*) domain remains open to composition. People use it to tell stories, write poetry, analyze mathematics, record astronomy, debate philosophy, and describe circumstances that no earlier composition could have anticipated. By definition, its corpus contains material composed across different periods.
 
-Some laukika material is certainly newer. Some may be extremely old. A story could have circulated before a particular mantra was seen, just as an author can write an epilogue before writing a preface. We do not possess the chronology required to place every laukika composition after every Vedic mantra. The naming of the two domains describes purpose and usage, not sequence.
+Some लौकिक (*laukika*) material is certainly newer. Some may be extremely old. A story could have circulated before a particular mantra was seen, just as an author can write an epilogue before writing a preface. We do not possess the chronology required to place every लौकिक (*laukika*) composition after every Vedic mantra. The naming of the two domains describes purpose and usage, not sequence.
 
 The two domains therefore face entropy differently. Exact transmission protects the Vedas, and each recitation can be checked against the received form. The लौकिक (*laukika*) domain remains open to new composition, so pronunciation, word forms, and meanings have more opportunities to vary. Grammarians examined लौकिक (*laukika*) usage and corrected departures by comparing them with Sanskrit's architecture preserved in the Vedas.
 
@@ -152,11 +152,11 @@ This is category theft through chronology capture. A structural end becomes a ch
 
 At the turn from the Dvāpara age to the Kali age — the age of the Mahābhārata — Vyāsa divided the one Veda into four: *Ṛgveda*, *Yajurveda*, *Sāmaveda*, and *Atharvaveda*, each with its संहिता (*saṃhitā*) and associated विस्तार (*vistāra*) — Brāhmaṇa, Āraṇyaka, and Upaniṣad. Every Veda has Upaniṣadic material associated with it; together, these shared culminations form ***वेदान्त (*Vedānta*)***. The division added nothing and took nothing away. It arranged the one body for an age of shorter memory: preservation, not authorship.[NOTE: veda-vyasa-division] This is the वैदिक (*vaidika*) domain, preserved in ***छन्दस् (*chandas*)***, the metrical mode.
 
-Around the same time, the इतिहासपुराण (*itihāsa-purāṇa*) — the fifth Veda — passed to the laukika keepers: the laukika domain, expressed in **भाषा (*bhāṣā*)**, the mode of speech. Its corpus grows, its vocabulary meets each changing age through derivation, and the language remains invariant.
+Around the same time, the इतिहासपुराण (*itihāsa-purāṇa*) — the fifth Veda — passed to the keepers of the लौकिक (*laukika*) domain. This domain is expressed in **भाषा (*bhāṣā*)**, the mode of speech. Its corpus grows, its vocabulary meets each changing age through derivation, and the language remains invariant.
 
-The continuum understands all of this through its own conception of time — *Sanātan* time. Tretā turned before Dvāpara, Satya before that, and the yuga cycle had already repeated through earlier manvantaras. We do not know whether the Vedas came into being during Dvāpara, Tretā, Satya, or an earlier manvantara. But from its beginning, the Veda has kept watch over the laukika world, unchanged — the invariant calibrant against which the turning world can choose to calibrate itself.
+The continuum understands all of this through its own conception of time — *Sanātan* time. Tretā turned before Dvāpara, Satya before that, and the yuga cycle had already repeated through earlier manvantaras. We do not know whether the Vedas came into being during Dvāpara, Tretā, Satya, or an earlier manvantara. But from its beginning, the Veda has kept watch over the लौकिक (*laukika*) world, unchanged — the invariant calibrant against which the turning world can choose to calibrate itself.
 
-![Figure 0.2 — Sanātan Time. Sanātan time extends from अनादि (*anādi*) to अनन्त (*ananta*). The Veda begins at an unknown point within that span. The one Veda (invariant, छन्दस् (*chandas*) mode) divides into four at the Mahābhārata — each संहिता (*saṃhitā*) with its विस्तार (*vistāra*) — while the इतिहासपुराण (*itihāsa-purāṇa*) crosses into the laukika domain (भाषा (*bhāṣā*) mode), where civilizational clarity rises and falls across the yugas.](figures/seekers/seekers_vaidika_laukika.svg){#fig:sanatana-time width=100%}
+![Figure 0.2 — Sanātan Time. Sanātan time extends from अनादि (*anādi*) to अनन्त (*ananta*). The Veda begins at an unknown point within that span. The one Veda (invariant, छन्दस् (*chandas*) mode) divides into four at the Mahābhārata — each संहिता (*saṃhitā*) with its विस्तार (*vistāra*) — while the इतिहासपुराण (*itihāsa-purāṇa*) crosses into the लौकिक (*laukika*) domain (भाषा (*bhāṣā*) mode), where civilizational clarity rises and falls across the yugas.](figures/seekers/seekers_vaidika_laukika.svg){#fig:sanatana-time width=100%}
 
 ---
 
@@ -170,7 +170,7 @@ A finite inventory, a rule for combining it, one enabling idea — and the outpu
 
 **Sanskrit does to language what zero does to counting.**
 
-English dictionaries list roughly 170,000 words in current use. Sanskrit is built differently. It begins with over two thousand semantic atoms known as ***धातवः (*dhātavaḥ*)***, or *dhātus*. Rather than listing every possible word, Sanskrit provides procedures for building words from those atoms.
+English dictionaries list roughly 170,000 words in current use. Sanskrit is built differently. It begins with over two thousand semantic atoms called ***धातवः (*dhātavaḥ*)***. Rather than listing every possible word, Sanskrit provides procedures for building words from those atoms.
 
 Prefixes can redirect their meanings. Suffixes and verb endings turn them into finished words. Sanskrit can then join finished words into compounds, and each compound can become a building block for another.
 
@@ -196,7 +196,7 @@ At the civilizational level, the Vedas preserve **ऋत (*ṛta*)** as the inva
 
 The Vedas do not describe ऋत (*ṛta*) as the only order possible. They begin with a more fundamental distinction between **सत् (*sat*)** and **असत् (*asat*)**:
 
-**Sat was born from asat.**
+**सत् (*sat*) was born from असत् (*asat*).**
 
 > **देवानां पूर्व्ये युगेऽसतः सदजायत**\
 > *devānāṃ pūrvye yuge 'sataḥ sad ajāyata*\
@@ -221,7 +221,7 @@ The Vedas state the sequence in two mantras from the same hymn:
 
 This means that there was असत् (*asat*), then सत् (*sat*) and ऋत (*ṛta*), and then the sun, moon and the earth were formed.[NOTE: sat-rta-cosmogonic-sequence-inference]
 
-Therefore the *sat-asat* binary predates human existence. ऋत (*Ṛta*) was created, but human beings did not create it. The **ऋषि (*ṛṣi*)** sees **ऋत (*ṛta*)** and gives it a form in a measured verse, the **ऋच् (*ṛc*)**.
+Therefore the distinction between सत् (*sat*) and असत् (*asat*) predates human existence. ऋत (*Ṛta*) was created, but human beings did not create it. The **ऋषि (*ṛṣi*)** sees **ऋत (*ṛta*)** and gives it a form in a measured verse, the **ऋच् (*ṛc*)**.
 
 ### Discerning Sat from Asat
 
@@ -251,9 +251,9 @@ Before human choice shapes an order toward सत् (*sat*) or असत् (*a
 - **संस्कृति (*saṃskṛti*)** — representing सत् (*sat*) — the **ऋजु (*ṛju*)** movement.
 - **प्रकृति (*prakṛti*)** — representing everything else.
 
-The *Vṛtra*, *Svarbhānu*, and *Paṇi* narratives show what the conflict between सत् (*sat*) and असत् (*asat*) looks like in action. Chapter 3 §3.7 examines all three as acts of containment whose defeat restores circulation. The protagonists bear **सत् (*sat*)** in their titles. Indra’s is **सत्पति (*satpati*)**, the lord of sat.[NOTE: protagonist-sat-epithets]
+The *Vṛtra*, *Svarbhānu*, and *Paṇi* narratives show what the conflict between सत् (*sat*) and असत् (*asat*) looks like in action. Chapter 3 §3.7 examines all three as acts of containment whose defeat restores circulation. The protagonists bear **सत् (*sat*)** in their titles. Indra’s is **सत्पति (*satpati*)**, the lord of सत् (*sat*).[NOTE: protagonist-sat-epithets]
 
-***असत् (Asat)*** does not need long-term memory to return. Ego can create new methods of control and containment whenever circumstances permit. A pyramid may preserve its own methods, but it benefits when everyone else forgets how those methods were exposed and defeated. ***सत् (Sat)*** needs distributed memory in human society. Each generation needs to know that असत् (*asat*) can be defeated and has been defeated repeatedly. The Vedas preserve that civilizational memory in Sanskrit, and Sanskrit's invariance keeps it intelligible across thousands of years.
+**असत् (*asat*)** does not need long-term memory to return. Ego can create new methods of control and containment whenever circumstances permit. A pyramid may preserve its own methods, but it benefits when everyone else forgets how those methods were exposed and defeated. **सत् (*sat*)** needs distributed memory in human society. Each generation needs to know that असत् (*asat*) can be defeated and has been defeated repeatedly. The Vedas preserve that civilizational memory in Sanskrit, and Sanskrit's invariance keeps it intelligible across thousands of years.
 
 That need for memory reaches into Sanskrit's engineering. A Vedic mantra cannot now be rearranged: its words remain in their received order. Yet the Vedas make extensive use of Sanskrit's free word order. Because the endings preserve the grammatical relations, the words can occupy positions that support meter, resonance, emphasis, and memory. Pitch, recitation, and exact transmission then keep the entire form intact. Chapters 12 and 16 develop this architecture.
 
@@ -269,7 +269,7 @@ The two orders pursue different ends. An order aligned with **असत् (*asa
 
 *Sanātan* does not condemn power. Indra wields the वज्र (*vajra*). The question is what that power serves. Indra uses it to release what Vṛtra withholds. The action, not the strength of the actor, distinguishes **सत् (*sat*)** from **असत् (*asat*)**.
 
-The Vedas preserve the distinction between sat and asat for every age. Laukika compositions apply that distinction to particular human circumstances. The Mahābhārata gives one such test: **यद्भूतहितमत्यन्तं तत्सत्यम्** (*yad bhūta-hitam atyantaṃ tat satyam*) — “that which fully and finally serves the welfare of living beings is **सत्य (*satya*)**.”[NOTE: satyam-bhutahitam-mahabharata]
+The Vedas preserve the distinction between सत् (*sat*) and असत् (*asat*) for every age. Compositions in the लौकिक (*laukika*) domain apply that distinction to particular human circumstances. The Mahābhārata gives one such test: **यद्भूतहितमत्यन्तं तत्सत्यम्** (*yad bhūta-hitam atyantaṃ tat satyam*) — “that which fully and finally serves the welfare of living beings is **सत्य (*satya*)**.”[NOTE: satyam-bhutahitam-mahabharata]
 
 The same two responsibilities exist at the civilizational scale. The Veda preserves the invariant distinction. Each generation applies it to a changing world.
 

@@ -405,9 +405,9 @@ The वर्णमाला (*varṇamālā*) leaves unneeded positions empty i
 
 Readers often call the members of the वर्णमाला (*varṇamālā*) letters because they are first introduced on a page. A written letter, however, is a visible mark or glyph. A वर्ण (*varṇa*) is an action of the body with a defined स्थान (*sthāna*), प्रयत्न (*prayatna*), voice, breath, nasal setting, and duration in मात्रा (*mātrā*). The measured sound exists before any script represents it with a glyph.
 
-A **sonomer** is that measured sound-particle. An **audiograph** is the visible mark that records it. Sanskrit is therefore sonomeric before it is audiographic: the sound architecture exists before a script gives its particles written form.
+A **sonomer** is that measured sound-particle. An **audiograph** is the visible form through which a script renders an अक्षर (*akṣara*) built from those sound-particles. Sanskrit is therefore sonomeric before it is audiographic: the sound architecture exists before a script gives its pronounced units written form.
 
-> **The Aramaic-from-Brāhmī Thesis**
+> **What Earlier Glyphs Cannot Explain**
 >
 > The figures in this chapter are not pictures of Devanāgarī. They describe the sound architecture that Indic scripts represent. A visible symbol may travel. A stroke may be borrowed. A script may absorb graphic influence. But similarity between written shapes cannot explain the sonomeric grid beneath the script. A proposed source must contain the architecture it supposedly produced.
 >
@@ -466,6 +466,6 @@ This completes the first major scale in the fractal sequence. Oṃ compresses th
 
 The scale-chain:
 
-> instrument → sound-field → Vedic sieve → वर्णमाला (*varṇamālā*) → atom
+> speaking body → available sonances → Vedic sieve → वर्णमाला (*varṇamālā*) → atom
 
 Chapter 10 begins with the **धातुः (*dhātuḥ*)**, the semantic atom that Sanskrit builds from these sonomers.

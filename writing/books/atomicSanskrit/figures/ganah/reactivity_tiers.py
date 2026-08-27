@@ -7,7 +7,7 @@ Two 100% horizontal bars compare:
 - share of verb-token use carried by those same tiers
 
 The figure lands the main claim in §11.8 without making the prose carry
-every number: a small polyvalent tier carries most actual deployment,
+every number: a small high-reach tier carries most actual deployment,
 while the long tail remains preserved but specialized.
 """
 
@@ -23,14 +23,14 @@ OUT_SVG = OUT_DIR / "reactivity_tiers.from-py.svg"
 OUT_PDF = OUT_DIR / "reactivity_tiers.from-py.pdf"
 
 ROWS = [
-    ("Verbal atoms in use", [("Polyvalent", 3.8), ("Bivalent", 27.6), ("Monovalent", 68.6)]),
-    ("Verb-token use", [("Polyvalent", 67.6), ("Bivalent", 30.5), ("Monovalent", 1.9)]),
+    ("Verb lemmas in corpus", [("High reach", 3.8), ("Middle reach", 27.6), ("Specialist", 68.6)]),
+    ("Verb-token use", [("High reach", 67.6), ("Middle reach", 30.5), ("Specialist", 1.9)]),
 ]
 
 COLORS = {
-    "Polyvalent": "#222222",
-    "Bivalent": "#777777",
-    "Monovalent": "#d8d8d8",
+    "High reach": "#222222",
+    "Middle reach": "#777777",
+    "Specialist": "#d8d8d8",
 }
 
 TEXT = "#111111"
@@ -68,7 +68,7 @@ def render() -> str:
     # Legend
     x = margin_left
     y = 30
-    for label in ("Polyvalent", "Bivalent", "Monovalent"):
+    for label in ("High reach", "Middle reach", "Specialist"):
         parts.append(
             f'<rect x="{x}" y="{y - 12}" width="24" height="14" '
             f'fill="{COLORS[label]}" stroke="{STROKE}" stroke-width="0.6"/>'
@@ -98,9 +98,9 @@ def render() -> str:
                 f'stroke="{STROKE}" stroke-width="0.6"/>'
             )
 
-            # Label if there is room inside; otherwise place just beyond segment.
+            # Label if there is room inside; otherwise place it above the segment.
             if w > 58:
-                fill = "white" if label != "Monovalent" else TEXT
+                fill = "white" if label != "Specialist" else TEXT
                 parts.append(
                     f'<text x="{cursor + w / 2:.2f}" y="{cy + 5}" '
                     f'text-anchor="middle" fill="{fill}" '
@@ -109,8 +109,8 @@ def render() -> str:
                 )
             else:
                 parts.append(
-                    f'<text x="{cursor + w + 7:.2f}" y="{cy + 5}" '
-                    f'text-anchor="start" fill="{TEXT}" '
+                    f'<text x="{cursor + w / 2:.2f}" y="{y - 6:.2f}" '
+                    f'text-anchor="middle" fill="{TEXT}" '
                     f'style="font-family:{font};font-size:14px">'
                     f'{pct:.1f}%</text>'
                 )

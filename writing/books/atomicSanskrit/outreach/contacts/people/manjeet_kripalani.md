@@ -37,11 +37,9 @@ Dear Manjeet,
 
 I still remember your generosity in organizing discussions of *Operation Red Lotus* at Gateway House and later at your home in Bombay.
 
-Around that time, I told you that I was working on a book about Hindu polity and its conflict with the pyramid. You described the project as "inverting the pyramid." I did not argue with the phrase then. Over the following fifteen years, however, the distinction became central to the book: Sanātan does not invert the pyramid. It presents an entirely different architecture of order.
+Around that time, I told you that I was working on a book about Hindu polity and its conflict with the pyramid. At point I realized that I needed more depth in understand Sanskrit and over the years I delved deep into Sanskrit - and understood that Sanskrit is literally the foundation of Sanskriti - of Sanatan.
 
-The first volume is now complete. It is called *Atomic Sanskrit*. The book begins with language because Sanskrit and the Vedas preserve a living example of that alternative architecture. One architecture creates order through a distributed calibrant, a shared standard that no apex can own. The pyramid imposes order from an apex.
-
-You had also invited me to contribute to Gateway House. I did not have the bandwidth to do that then. Fifteen years later, the work itself is ready.
+After 15 years, the first volume is now complete. It is called *Atomic Sanskrit*. The book begins with language because Sanskrit and the Vedas preserve a living example of that alternative architecture. One architecture creates order through a distributed calibrant, a shared standard that no apex can own. The pyramid imposes order from an apex.
 
 You were one of the first people with whom I discussed the larger project, so I would value the opportunity to reconnect and share a short overview with you. If the argument interests you, perhaps we could speak after you have had a chance to look at it.
 

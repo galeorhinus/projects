@@ -300,22 +300,21 @@
   - 3.1 Sonomer First, Audiograph Second
   - 3.2 The Interface Trap
   - 3.3 The "Brilliantly Adapted" Move
-  - 3.4 What Aramaic Cannot Carry
-  - 3.5 The Aramaic-from-Brāhmī Thesis
-  - 3.6 Stone Preserves the Pyramid
+  - 3.4 What Aramaic Cannot Encode
+  - 3.5 What Earlier Glyphs Cannot Explain
+  - 3.6 What Stone Can Preserve
   - 3.7 Audiography — The Name Withheld
   - 3.8 Three Design Cases: Sound, Script, Standard
   - 3.9 The Sonomer Travels East
-  - 3.10 The Pyramid Steals the Sonomer
-  - 3.11 The Foundational Claim on Writing
-  - 3.12 The Work Ahead
-- **Appendix Part 4 — The Consonant Inventory Atlas and Control Surveys**
+  - 3.10 The Foundational Claim on Writing
+  - 3.11 The Research Ahead
+- **Appendix Part 4 — The Consonant Inventory Atlas and Additional Surveys**
   - 4.1 The Atlas Method in Depth
-  - 4.2 Santali-Inclusive Munda Control: 20 of 23
-  - 4.3 Santali-Free Mixed Control: 21 of 23
+  - 4.2 Santali-Inclusive Munda Survey: 20 of 23
+  - 4.3 Santali-Free Mixed Survey: 21 of 23
   - 4.4 Dispersed *"Austro-Asiatic"* Survey: 18 of 23
   - 4.5 Northwest Frontier Survey: 22 of 23
-  - 4.6 Iranian Survey: 15 of 23 (Non-Contact Zone)
+  - 4.6 Iranian Survey Outside the Subcontinental Retroflex Zone: 15 of 23
   - 4.7 Caucasus Survey: 13 of 23
   - 4.8 Slavic & Caucasus IE Survey: 14 of 23
   - 4.9 The Coverage Cascade
@@ -323,32 +322,19 @@
   - 5.1 Yenpro and the Mean Baker
   - 5.2 From Word Factory to Language Factory
   - 5.3 The Procedure
-  - 5.4 The Substrate — Japanese
+  - 5.4 Why Japanese?
   - 5.5 The Worked Example — A Joke About the Famous Baker
   - 5.6 The Generative Reach
-  - 5.7 What This Demonstrates
-  - 5.8 The Baker Had the Recipe
-  - 5.9 A Strict Cipher — Fully Japanese-Feeling Output
+  - 5.7 Adapting Yenpro to Japanese Sound Patterns
+  - 5.8 What This Demonstrates
+  - 5.9 The Baker Had the Recipe
 - **Appendix Part 6 — The Architecture by the Numbers**
-  - 6.1 Source and Method
-  - Part A — The Sonomer Layer
-  - 6.2 *Varga* Columns — Cost × Distinguishability
-  - 6.3 Position-Conditional Preferences
-  - 6.4 The Cluster-Joiner Specialist Class
-  - 6.5 The *Mūrdhanya* Dual-Role Place
-  - 6.6 The *Ṛ* Signal and the *Ṛ* / *Ra* Bridge
-  - Part B — The Construction Layer
-  - 6.7 Compression — Particle and *Akṣara* Counts
-  - 6.8 Cluster Inventory and the *Kṣ* Phenomenon
-  - 6.9 OCP and the Place × Place Matrix
-  - 6.10 *Vaicitrya* — Engineered Range in the Tail
-  - Part C — The Operation Layer
-  - 6.11 *Gaṇa*-Specific Functional Matching
-  - 6.12 *Prayoga* Reactivity — The Path C Audit
-  - Part D — The Generative-Reach Layer
-  - 6.13 Generative Reach from Minimum + The Natural-Language Inversion
-  - 6.14 Synthesis — The Eight Engineering Principles
-  - 6.15 Replication — Two Reproducibility Bundles
+  - 6.1 The Structural Baseline
+  - 6.2 Eight Engineering Principles
+  - 6.3 How Far Compact Atoms Reach
+  - 6.4 How Atomic Shape Relates to Activation
+  - 6.5 What the Numbers Show
+  - 6.6 Replication
 - **Appendix Part 7 — The Architecture Already in the Vedas**
   - 7.1 The Corpus Before the Manual
   - 7.2 Three Verses — The Implicit Grammar in Operation
