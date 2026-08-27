@@ -72,9 +72,7 @@ This relationship binds Sanskrit and Tamil to the Indian subcontinent. Both trad
 
 ### What Happened to Tamil?
 
-The *Tolkāppiyam* preserved a detailed account of Tamil, but Tamil continued changing. Linguists distinguish Old Tamil, Middle Tamil, and Modern Tamil because pronunciation, grammar, and vocabulary moved across generations. A present-day Tamil speaker may recognize words and phrases in a Sangam poem but still need commentary or a modern Tamil explanation, much as a Marathi speaker unfamiliar with **ज्ञानेश्वरी (*Jñāneśvarī*)** may recognize its Marathi while needing help to understand the passage.[NOTE: tolkappiyam-grammar-and-tamil-change]
-
-Later Tamil readers faced two barriers. Tamil itself had changed, and many Sangam works had passed out of wide circulation. Hindu मठाः (*maṭhas*), temple institutions, and private custodians preserved the palm-leaf manuscripts. During the nineteenth century, Tamil scholars recovered those manuscripts and published the works for a wider Tamil readership. The ***Kalittokai*** returned to print in 1887, the ***Pattuppāṭṭu*** in 1889, and more Sangam works followed.[NOTE: sangam-corpus-nineteenth-century-recovery]
+The *Tolkāppiyam* documents detailed rules for Tamil, but Tamil continued changing like any other language. Linguists distinguish Old Tamil, Middle Tamil, and Modern Tamil because pronunciation, grammar, and vocabulary moved across generations. A present-day Tamil speaker may recognize words and phrases in a Sangam poem but still need commentary or a modern Tamil explanation. Present-day Marathi readers likewise often rely on commentary to understand the Old Marathi of the **ज्ञानेश्वरी (*Jñāneśvarī*)**.[NOTE: tolkappiyam-grammar-and-tamil-change]
 
 Tamil demonstrates what documentation can and cannot do. The *Tolkāppiyam* preserved grammatical knowledge and gave later scholars access to earlier Tamil. It did not stop the language spoken by successive generations from changing.
 

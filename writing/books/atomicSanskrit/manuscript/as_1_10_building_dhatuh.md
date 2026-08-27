@@ -227,19 +227,21 @@ The other four cards show the same continuity. **⟪भू⟫ (*bhū*)** carries
 
 The words become larger and more specific, while the core meaning of the atom remains recognizable within the family. This is सारवत् (*sāravat*) at the scale of the धातुः (*dhātuḥ*).
 
-### A Deeper Scale: वर्णशक्ति (*Varṇa-śakti*)
+### A Deeper Debate: Do Sonomers Themselves Carry Meaning?
 
-The core meaning of a धातुः (*dhātuḥ*) and **वर्णशक्ति (*varṇa-śakti*)** belong to two different scales. सारवत् (*Sāravat*) identifies the meaning carried by the assembled semantic atom. वर्णशक्ति (*Varṇa-śakti*) concerns the capacity of each sonomer inside that atom to contribute meaning through its sound.
+सारवत् (*Sāravat*) identifies the core meaning carried by the assembled धातुः (*dhātuḥ*). The next question moves one scale inward. Does meaning belong only to the complete atom, or can each sonomer inside it contribute semantic power?
 
-The position called **वर्णवाद (*varṇa-vāda*)** develops this proposition. Words for flowing actions often gather around liquid and continuing sounds: **सर् (*sar*), चल् (*cal*), चर् (*car*), द्रु (*dru*), प्लु (*plu*), स्रु (*sru*),** and **क्षर् (*kṣar*)**. Actions involving abrasion, damage, diminishment, strain, endurance, and cutting gather around harder sound-shapes: **क्षय् (*kṣay*), क्षत् (*kṣat*), क्षण् (*kṣaṇ*), क्षम् (*kṣam*), क्लम् (*klam*), क्षुद् (*kṣud*),** and **क्षप् (*kṣap*)**.
+The Hindu continuum asked this question directly. Patañjali's ***Mahābhāṣya*** records one side stating **अर्थवन्तो वर्णाः (*arthavanto varṇāḥ*)** — the sounds carry meaning. This side points to one-sound धातवः (*dhātavaḥ*), stems, suffixes, and particles that carry meaning. The other side argues that a separate meaning cannot be found for every sound. It points to grammatical derivations in which sounds are added, removed, replaced, or reordered while meaning does not change in a corresponding way.[NOTE: varnavada-presupposes-engineering]
 
-The Hindu continuum preserved both sides of this debate. Which position prevailed does not affect the evidence preserved by that record. The debate could exist only because both sides already understood a धातुः (*dhātuḥ*) as an assembly of sonomers. They disagreed about how that assembly carried meaning; they did not mistake the धातुः (*dhātuḥ*) for an indivisible natural sound. The record therefore preserves the continuum's understanding that धातवः (*dhātavaḥ*) were engineered from sound.
+The record therefore preserves a real debate about **वर्णशक्ति (*varṇa-śakti*)**, the semantic power of an individual sonomer. Whatever conclusion a reader reaches, the debate itself establishes that the continuum examined meaning at two scales: the complete धातुः (*dhātuḥ*) and the sonomers assembled within it.
 
-The वर्णवाद (*varṇa-vāda*) proposition also requires a stable sound architecture. Each sonomer must remain distinct enough to be recognized, stable enough to retain its association, and composable enough to join other sonomers inside a धातुः (*dhātuḥ*). The वर्णमाला (*varṇamālā*) supplies those conditions.[NOTE: varnavada-presupposes-engineering]
+The धातुः (*dhātuḥ*) inventory gives the reader something concrete to examine. Words for flowing actions often gather around liquid and continuing sounds: **सर् (*sar*), चल् (*cal*), चर् (*car*), द्रु (*dru*), प्लु (*plu*), स्रु (*sru*),** and **क्षर् (*kṣar*)**. Actions involving abrasion, damage, diminishment, strain, endurance, and cutting gather around harder sound-shapes: **क्षय् (*kṣay*), क्षत् (*kṣat*), क्षण् (*kṣaṇ*), क्षम् (*kṣam*), क्लम् (*klam*), क्षुद् (*kṣud*),** and **क्षप् (*kṣap*)**.
+
+If sonomers carry stable semantic power, the sound architecture must keep them distinct, stable, and able to bond inside a धातुः (*dhātuḥ*). The वर्णमाला (*varṇamālā*) provides those conditions. Section 10.14 returns to the fractal implication: a sonomer may contribute to a धातुः (*dhātuḥ*) as a word contributes to a सूत्र (*sūtra*).
 
 The Vedas make the relationship between sound and meaning especially audible because they are poems. Meter, alliteration, and sonic movement shape the verse alongside its meaning. **मन्त्र (*mantra*)**, generated from **⟪मन्⟫ (*man*)**, joins sound with contemplation. Engineering gives this poetry the precision that makes it memorable and lets it strike home.
 
-Figure 10.7 establishes सारवत् (*sāravat*) at the atomic scale, while वर्णशक्ति (*varṇa-śakti*) carries the analysis one scale lower into the sonomers. The धातुः (*dhātuḥ*) passes the fourth test: it is compact, essence-bearing, and able to carry its core meaning into larger forms.
+Figure 10.7 establishes सारवत् (*sāravat*) at the atomic scale. The debate over वर्णशक्ति (*varṇa-śakti*) then carries the inquiry one scale lower into the sonomers. The धातुः (*dhātuḥ*) passes the fourth test: it is compact, essence-bearing, and able to carry its core meaning into larger forms.
 
 ## 10.10 विश्वतोमुखम् (*Viśvatomukham*) — Generative Range
 
@@ -305,7 +307,7 @@ Each decomposition connects **अग्नि (*agni*)** with something fire doe
 
 Yaska could perform these decompositions because Sanskrit gave him the engineered sound-components to analyze. He could separate **अग्नि (*agni*)** into वर्णाः (*varṇāḥ*), connect those sounds with धातवः (*dhātavaḥ*), and explain how their bonds contributed to the assembled word. His references to Sthaulāṣṭhīvi and Śakapūṇi show that other decoders were already applying the same method. The analysis belonged to the Sanskrit continuum *before* Pāṇini documented the complete grammatical system.
 
-The Sanskrit continuum debated how this engineering produces meaning. वर्णवाद (*Varṇa-vāda*) and स्फोटवाद (*sphoṭa-vāda*) examined whether meaning begins in the individual sound or becomes available through the complete expression. Other debates examined intrinsic charge and assignment freedom, or whether the धातुः (*dhātuḥ*) or the शब्द (*śabda*) comes first. Every side began from the same knowledge: Sanskrit can be decomposed, analyzed, and generated through a stable architecture.
+The Sanskrit continuum continued examining how meaning emerges at different scales. Patañjali records the debate over whether individual sounds carry meaning. वर्णवाद (*Varṇa-vāda*) and स्फोटवाद (*sphoṭa-vāda*) later examined a related question: whether discrete sounds and their remembered sequence are sufficient, or whether meaning becomes available through the expression grasped as a whole. These debates differ, but both show the continuum examining sounds, words, and sentences as distinct scales within language.
 
 A धातुः (*dhātuḥ*) retains more than its overall sound. Each sonomer keeps an identifiable position inside the atom. Sanskrit can therefore change, replace, or add a particular sound while preserving a traceable path back to the धातुः (*dhātuḥ*). Appendix Part 6 §6.2 maps these positions across the inventory. Chapter 11 follows the same architecture as Sanskrit turns the semantic atom into a finished ***क्रियापद (*kriyāpada*)***.
 
@@ -349,7 +351,7 @@ The Sanskrit continuum called this constituent **धातुः (*dhātuḥ*)**
 
 Section 10.5 derived six atomic tests from the सूत्रलक्षणम् (*sūtra-lakṣaṇam*). The evidence developed in this chapter shows how the धातुपाठ (*Dhātupāṭha*) satisfies each one: **अल्पाक्षरम् (*alpākṣaram*)** appears in its compact sonomer and मात्रा (*mātrā*) distributions; **अस्तोभम् (*astobham*)** appears in the concentration of atoms within a small number of scaffolds; **असंदिग्धम् (*asaṃdigdham*)** appears in the acoustic distinctions maintained within tight timing limits; **सारवत् (*sāravat*)** appears in the core meanings carried by these small atoms; **विश्वतोमुखम् (*viśvatomukham*)** appears in their generative reach through bonding; and **अनवद्यम् (*anavadyam*)** appears in their stability across transformation.
 
-The ancient, pre-Pāṇinian debate over **वर्णशक्ति (*varṇa-śakti*)** described in §10.9 suggests a deeper fractal. The proponents of **वर्णवाद (*varṇa-vāda*)** held that individual sounds contribute to meaning. They may have treated each sonomer within a धातुः (*dhātuḥ*) as the atomic equivalent of a word within a सूत्र (*sūtra*): each constituent contributes to the meaning of its compact whole.
+The debate over **वर्णशक्ति (*varṇa-śakti*)** described in §10.9 suggests a deeper fractal. One side held that individual sounds contribute to meaning. Under that view, each sonomer within a धातुः (*dhātuḥ*) becomes the atomic equivalent of a word within a सूत्र (*sūtra*): each constituent contributes to the meaning of its compact whole.
 
 Under this view, words compose the सूत्र (*sūtra*), while sonomers compose the धातुः (*dhātuḥ*).
 
