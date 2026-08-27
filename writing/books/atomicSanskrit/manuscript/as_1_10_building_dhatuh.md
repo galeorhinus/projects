@@ -299,13 +299,13 @@ The Sanskrit continuum knew that Sanskrit was engineered. It developed separate 
 
 Figure 10.9 places five Sanskrit disciplines beside the engineering each one presupposes. Each discipline depends on repeatability within the part of Sanskrit it studies. A student must be able to reproduce a sound, count the timing of a verse, repeat a grammatical operation with the expected result, and explain how the identified parts of a word contribute to its meaning. A reciter must also be able to compare every sound with the form received through the lineage. Sanskrit preserves that repeatability at every level.
 
-At *Nirukta* 7.14, Yaska demonstrates this word-level analysis through **अग्नि (*agni*)**. Figure 10.10 presents the four ways he records for separating the word into meaningful parts:[NOTE: yaska-agni-nirukta-7-14]
+At *Nirukta* 7.14, Yāska demonstrates this word-level analysis through **अग्नि (*agni*)**. Figure 10.10 presents the four ways he records for separating the word into meaningful parts:[NOTE: yaska-agni-nirukta-7-14]
 
-![Figure 10.10 — Yaska's four decodings of **अग्नि (*agni*)**.](figures/building_dhatuh/yaska_agni_decodings_converge.svg){#fig:building-dhatuh-yaska-agni-decodings width=100%}
+![Figure 10.10 — Yāska's four decodings of **अग्नि (*agni*)**.](figures/building_dhatuh/yaska_agni_decodings_converge.svg){#fig:building-dhatuh-yaska-agni-decodings width=100%}
 
 Each decomposition connects **अग्नि (*agni*)** with something fire does: it leads, animates, dries, illuminates, and burns.
 
-Yaska could perform these decompositions because Sanskrit gave him the engineered sound-components to analyze. He could separate **अग्नि (*agni*)** into वर्णाः (*varṇāḥ*), connect those sounds with धातवः (*dhātavaḥ*), and explain how their bonds contributed to the assembled word. His references to Sthaulāṣṭhīvi and Śakapūṇi show that other decoders were already applying the same method. The analysis belonged to the Sanskrit continuum *before* Pāṇini documented the complete grammatical system.
+Yāska could perform these decompositions because Sanskrit gave him the engineered sound-components to analyze. He could separate **अग्नि (*agni*)** into वर्णाः (*varṇāḥ*), connect those sounds with धातवः (*dhātavaḥ*), and explain how their bonds contributed to the assembled word. His references to Sthaulāṣṭhīvi and Śakapūṇi show that other decoders were already applying the same method. The analysis belonged to the Sanskrit continuum *before* Pāṇini documented the complete grammatical system.
 
 The Sanskrit continuum continued examining how meaning emerges at different scales. Patañjali records the debate over whether individual sounds carry meaning. वर्णवाद (*Varṇa-vāda*) and स्फोटवाद (*sphoṭa-vāda*) later examined a related question: whether discrete sounds and their remembered sequence are sufficient, or whether meaning becomes available through the expression grasped as a whole. These debates differ, but both show the continuum examining sounds, words, and sentences as distinct scales within language.
 
