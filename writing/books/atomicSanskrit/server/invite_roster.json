@@ -9,16 +9,6 @@
     ],
     "email": "aravind.ajjampur@gmail.com"
   },
-  "ak": {
-    "name": "Arvind Kumar",
-    "groups": [
-      {
-        "url": "https://hypothes.is/groups/kQKj3RGb/as-ak",
-        "name": "as-ak"
-      }
-    ],
-    "email": "arvind.kumar@gmail.com"
-  },
   "pk": {
     "name": "Puneet Kapur",
     "groups": [
@@ -120,6 +110,16 @@
     ],
     "email": "pgoyal@gmail.com"
   },
+  "pt": {
+    "name": "Parag Tope",
+    "groups": [
+      {
+        "url": "https://hypothes.is/groups/1m6LJ1Yx/as-pt",
+        "name": "as-pt"
+      }
+    ],
+    "email": "pgoyal@gmail.com"
+  },
   "aarora": {
     "name": "Amitabh Arora",
     "groups": [
@@ -202,5 +202,15 @@
       }
     ],
     "email": "naoisetope@gmail.com"
+  },
+  "ak": {
+    "name": "Arvind Kumar",
+    "groups": [
+      {
+        "url": "https://hypothes.is/groups/kQKj3RGb/as-ak",
+        "name": "as-ak"
+      }
+    ],
+    "email": "arvind.kumar@gmail.com"
   }
 }
