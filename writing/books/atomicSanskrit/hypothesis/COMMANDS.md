@@ -38,6 +38,26 @@ current data before running one of the other scripts.
 
 ---
 
+## check_roster_sync.py -- warn when Hypothesis and the roster disagree
+
+```
+python3 check_roster_sync.py
+```
+
+No flags. Compares the live groups your Hypothesis account belongs to
+against every group listed in `server/invite_roster.json`, and reports:
+groups on Hypothesis missing from the roster (invisible to every
+reader's group picker until added), roster groups no longer live on
+Hypothesis (deleted, or the account left the group), and same-id
+name mismatches (the group was renamed on Hypothesis after the roster
+was written). Exits 1 if anything's out of sync, 0 if clean. Read-only
+-- fixes go into `invite_roster.json` by hand; run this again after
+editing to confirm. Run it any time you create a group on Hypothesis
+or edit the roster, since the two never sync automatically (see the
+script's own docstring for why).
+
+---
+
 ## auto_tagger.py -- tag whatever's untagged
 
 ```
