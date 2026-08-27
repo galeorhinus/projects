@@ -48,9 +48,13 @@ Modern linguistics uses **phoneme** for a sound that distinguishes words and **a
 
 This book calls every consonantal sound deliberately selected into Sanskrit's architecture a **sonance**. A sonance becomes a **sonomer** when Sanskrit assigns it an independent grid address. Speakers can select that sonomer repeatedly when they build atoms and words.
 
-Other sonances remain outside the reusable grid. A **Restricted sonance** appears only when specified neighboring sounds generate it. A **Lineage-Bounded sonance** remains within the Vedic passages and recitation lineages that preserve it. Neither can be selected freely when speakers build new लौकिक (*laukika*) words.
+Other sonances remain outside the reusable grid. A **Restricted sonance** appears only when specified neighboring sounds generate it: विसर्ग (*visarga*) before **क/ख** produces ***जिह्वामूलीय (*jihvāmūlīya*)***, while विसर्ग (*visarga*) before **प/फ** produces ***उपध्मानीय (*upadhmānīya*)***.
 
-The breath released through **विसर्ग (*visarga*)** demonstrates the Restricted form. Before **क/ख**, the breath moves toward the back of the mouth and becomes ***जिह्वामूलीय (*jihvāmūlīya*)***. Before **प/फ**, it moves toward the lips and becomes ***उपध्मानीय (*upadhmānīya*)***. In **अग्निः पूर्वेभिर् (*agniḥ pūrvebhir*)** at Ṛgveda 1.1.2, the *visarga* before **प** can take the bilabial form written **ᳶ**, producing **अग्निᳶ पूर्वेभिर्**. Sanskrit preserves both sounds and the conditions that generate them without giving either an independent grid address.
+In **प्रातःकाल (*prātaḥkāla*)**, the विसर्ग (*visarga*) before **क** becomes the [x]-like ***जिह्वामूलीय (*jihvāmūlīya*)*** written **ᳵ**, producing **प्रातᳵकाल**.
+
+In the Gāyatrī phrase **धियो यो नः प्रचोदयात् (*dhiyo yo naḥ pracodayāt*)**, the विसर्ग (*visarga*) before **प** becomes the [ɸ]-like ***उपध्मानीय (*upadhmānīya*)*** written **ᳶ**, producing **धियो यो नᳶ प्रचोदयात्** — the brief lip-born breath that many listeners hear as **फ्** before **प्र**.
+
+A **Lineage-Bounded sonance** exists only in the Vedic passages and recitation lineages that preserve it. The retroflex lateral **ळ [ɭ]** in **ईळे (*īḷe*)**, the second word of the Ṛgveda, is Lineage-Bounded. The Ṛgveda-Prātiśākhya specifies the intervocalic **ड → ळ** production for the Ṛgvedic recitation lineage, and reciters preserve that sound without Sanskrit granting it an independent grid address. Neither Restricted nor Lineage-Bounded sonances can be selected freely when speakers build new लौकिक (*laukika*) words.
 
 Other languages document parts of this arrangement. Some describe contextual changes in speech. Others preserve special sounds during the exact recitation of a bounded corpus. Sanskrit joins both functions to the same architecture. Its anatomical grid governs reusable sounds and word formation, while its sound-junction and recitation disciplines preserve Restricted and Lineage-Bounded sonances.[NOTE: sanskrit-allophone-architecture-comparison] Chapter 9 examines the complete selection.
 
