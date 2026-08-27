@@ -16,9 +16,21 @@ So my thought experiments began. Then one day it struck me: I had been staring a
 
 I realized how fortunate I was to have been born to parents who were caretakers of that civilizational inheritance. Through them, I had received ideas that our ancestors had fought to preserve for all humanity.
 
-What I had inherited was an architecture that could make voluntary restraint durable: an order in which people willingly exercise restraint because a trusted example remains available to them. Such an order would still correct error, but correction would not require everyone to surrender authority to the top of a pyramid.
+Here was evidence that a civilizational order could exist without dogma. People could correct themselves by returning to a calibrant rather than waiting for commands from an apex.
 
-That search became the *Second Shanti* series.
+The Hindu temple preserves one familiar example of that architecture.
+
+Consider दर्शन (*darśana*): beholding, or sight. A Hindu goes to a temple for दर्शन (*darśana*). The seeing itself is the purpose. The मूर्ति (*mūrti*) does not sermonize. It does not demand your presence. It does not announce what is right and what is wrong. It is simply present: unyielding, unflinching, and silent.
+
+Behind that silence lies a vast inheritance of stories about choices, actions, and consequences. दर्शन (*darśana*) brings the seeker directly before that inheritance. The seeker must then exercise विवेक (*viveka*), the discernment required to understand those stories and decide how to act.
+
+Through the मूर्ति (*mūrti*), that inheritance stands before the seeker as a calibrant. **The calibrant stands invariant. Alignment is voluntary.** Seekers examine their own actions against the enduring values embodied in the form and decide what must change.
+
+**No apex controls that act of seeing.**
+
+दर्शन (*darśana*) is one architectural form of distributed calibration.
+
+I had been searching for an abstract solution to a problem that Hindu life had already answered in practice. The answer had survived not as one policy or institution, but as an architecture repeated through sounds, words, stories, and practices. Reconstructing that architecture became the *Second Shanti* series.
 
 ## Why Sanskrit Comes First
 
@@ -41,7 +53,7 @@ My father always insisted on correct diction and clarity of speech. These are va
 
 My mother's correction was my first lesson in Sanskrit's sound architecture. One misplaced sound changed the meter. One small correction returned the line to order. A mother listening to a child recite had done what Sanskrit's caretakers do across generations: hear the deviation, correct it, and preserve the sound.
 
-Decades later, I returned to that childhood lesson with a larger question. Could Sanskrit demonstrate how an order remains stable without depending on an apex?
+Decades later, I returned to that childhood lesson with a larger question. Had Sanskrit preserved the same calibrant architecture at the scale of language?
 
 The Vedas are the foundational sounds of the Hindu ethos. Hindu society has transmitted them through many lineages, keeping their sounds audible across society. No ruler, court, or centralized power, domestic or foreign, owns the standard. The received Vedic form remains available to each generation, allowing speakers to hear it and align their Sanskrit with it. This book calls such an architecture a **calibrant order**.
 
