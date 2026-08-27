@@ -7,7 +7,9 @@
 #   3. Copy the updated Caddyfile to /etc/caddy/Caddyfile and reload Caddy.
 #   4. Install server/invite_roster.json to /etc/secondshanti/, read-only
 #      to the request-access service — see server/README.md. No service
-#      restart needed; the roster is read fresh on every request.
+#      restart needed; the roster is read fresh on every request. Then
+#      run hypothesis/check_roster_sync.py as an advisory (non-blocking)
+#      check for drift against live Hypothesis groups.
 #
 # Pass --skip-build to skip the build step (use when build/html/ is already
 # fresh). Pass --skip-caddy to skip Caddyfile + reload (use when only the
@@ -94,6 +96,16 @@ if [ "$SKIP_ROSTER" -eq 0 ]; then
 		echo ">> Installing invite roster..."
 		sudo mkdir -p /etc/secondshanti
 		sudo install -o www-data -g www-data -m 640 server/invite_roster.json /etc/secondshanti/invite_roster.json
+
+		# Advisory only, never blocking: check_roster_sync.py exits 1 on any
+		# drift (the common case, not a broken-deploy case), and requires a
+		# live Hypothesis API call that could fail on a token/network hiccup
+		# unrelated to this deploy. `|| true` keeps set -e from treating
+		# either as a deploy failure -- this is a "look at this" signal for
+		# the operator, not a gate. See hypothesis/check_roster_sync.py for
+		# what it checks and why the roster can drift silently otherwise.
+		echo ">> Checking roster against live Hypothesis groups..."
+		(cd hypothesis && python3 check_roster_sync.py) || true
 	else
 		echo ">> No server/invite_roster.json in the working tree — skipping roster install."
 	fi
