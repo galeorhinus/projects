@@ -16,7 +16,10 @@ lang: en-US
 # --- Typography ---
 mainfont: EB Garamond              # Latin + IAST diacritics
 devanagarifont: Adobe Devanagari   # custom variable; substituted into templates/devanagari-preamble.tex.in
-fontsize: 12pt
+# fontsize moved to build_book.py's LAYOUT_FONTSIZES (2026-08-27) — like PDF
+# geometry, base font size is layout-specific (a phone-trim page wants
+# smaller type than a letter page), so it lives beside LAYOUTS rather than
+# as one fixed value here. Edit per-layout sizes in build_book.py.
 linestretch: 1.15
 
 # --- Document structure ---

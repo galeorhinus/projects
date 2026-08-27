@@ -178,6 +178,23 @@ LAYOUTS = {
     "phone": "paperwidth=3.5in,paperheight=7in,margin=0.1in",
 }
 
+# Per-layout base font size (pandoc -V fontsize:...), for the main book build
+# (cmd_pdf / cmd_convert). Moved out of as_book.yaml (2026-08-27) for the same
+# reason geometry lives here rather than in YAML: font size is layout-
+# specific, not a fixed book property — a phone-trim page needs smaller type
+# than a full letter page. Every entry defaults to the book's historical
+# 12pt; adjust individual layouts here as needed. (as_reference.yaml's own
+# `fontsize:` for the Source and Reference Companion is untouched — cmd_reference
+# still reads it directly, so the two publications can size independently.)
+LAYOUT_FONTSIZES = {
+    "letter": "12pt",
+    "a4": "12pt",
+    "book-on-letter": "11pt",
+    "trade": "11pt",
+    "trade-crop": "11pt",
+    "phone": "11pt",
+}
+
 
 # Regexes for cleaning chapter files before assembly
 DRAFT_NOTES_RE   = re.compile(r"\n(?:---\s*\n+)?##+\s+Draft notes(?:\s*\([^)]*\))?.*\Z", re.DOTALL)
@@ -1295,6 +1312,7 @@ def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full",
     generated_preamble.write_text(preamble_text)
 
     geometry = LAYOUTS[layout]
+    fontsize = LAYOUT_FONTSIZES[layout]
     cmd = [
         "pandoc",
         str(md_path),
@@ -1302,12 +1320,14 @@ def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full",
         "--pdf-engine=xelatex",
         "--metadata-file", str(METADATA_FILE),
         "--lua-filter", str(LATEX_STRIKEOUT_FILTER),
-        # Layout geometry is layout-specific (CLI flag), so it stays outside YAML.
+        # Layout geometry and fontsize are layout-specific (CLI-driven), so
+        # they stay outside YAML.
         "-V", f"geometry:{geometry}",
+        "-V", f"fontsize={fontsize}",
         "-H", str(generated_preamble),
     ]
 
-    print(f"Rendering PDF (layout={layout}, progress every {progress_pages} pages)...")
+    print(f"Rendering PDF (layout={layout}, fontsize={fontsize}, progress every {progress_pages} pages)...")
     result = run_pandoc_with_progress(cmd, page_interval=progress_pages, label="PDF")
     if result.returncode != 0:
         print("PDF rendering FAILED. pandoc stderr:\n", file=sys.stderr)
@@ -1490,10 +1510,12 @@ def cmd_convert(input_arg: str | None, layout: str = "letter", output_arg: str |
     generated_preamble = BUILD_DIR / "devanagari-preamble.tex"
     generated_preamble.write_text(preamble_text)
 
-    # Pull only the fonts from as_book.yaml (not the full metadata) — the Latin
-    # font carries the IAST diacritics; the title/header-includes are left out.
+    # Pull only the font from as_book.yaml (not the full metadata) — the Latin
+    # font carries the IAST diacritics; the title/header-includes are left
+    # out. Font size comes from LAYOUT_FONTSIZES (layout-specific, not a
+    # fixed book property — see the comment beside that dict above).
     mainfont = read_yaml_value(METADATA_FILE, "mainfont")
-    fontsize = read_yaml_value(METADATA_FILE, "fontsize")
+    fontsize = LAYOUT_FONTSIZES[layout]
 
     # Wrap non-Latin script runs (Devanagari, Tamil, …) in raw-LaTeX font
     # groups — the same pass the book/reference builds run. The preamble only
