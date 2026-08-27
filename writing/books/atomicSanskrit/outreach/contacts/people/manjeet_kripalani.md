@@ -5,7 +5,7 @@
 - Manjeet organized a discussion of *Tatya Tope's Operation Red Lotus* at Gateway House and another gathering at her home in Bombay.
 - She invited Parag to contribute to Gateway House, but he did not have the bandwidth or interest to pursue that work at the time.
 - In 2011, Parag told her that he was working on a book about Hindu polity and its conflict with the pyramid.
-- She described the idea as "inverting the pyramid." Parag did not argue with the phrase then, but the distinction has since become central: Sanātan does not invert the pyramid. It presents an entirely different architecture of order.
+- Their conversation included the possibility of "inverting the pyramid." Manjeet may not remember the exact phrase, so the outreach should refer to the discussion without attributing those specific words to her. The distinction has since become central: Sanātan does not invert the pyramid. It preserves an entirely different architecture of order.
 - She is co-founder and executive director of Gateway House. Before founding it, she served as the India bureau chief of the American magazine *BusinessWeek* from 1996 to 2009.
 
 ## Why Reach Out Now
@@ -25,11 +25,7 @@ These are possible later outcomes, not requests for the first email.
 
 ## Recommended Subject
 
-**Fifteen Years Later: The *Second Shanti* Project**
-
-Alternative:
-
-**The *Second Shanti* Project — Fifteen Years Later**
+**Beyond the Red Lotus: Fifteen Years Later**
 
 ## Recommended First Email
 
@@ -37,11 +33,11 @@ Dear Manjeet,
 
 I still remember your generosity in organizing discussions of *Operation Red Lotus* at Gateway House and later at your home in Bombay.
 
-Around that time, I told you that I was working on a book about Hindu polity and its conflict with the pyramid. At point I realized that I needed more depth in understand Sanskrit and over the years I delved deep into Sanskrit - and understood that Sanskrit is literally the foundation of Sanskriti - of Sanatan.
+Around that time, I told you that I was working on a book about Hindu polity and its conflict with the pyramid. We discussed the possibility of "inverting the pyramid." The distinction has since become central to the project. Sanātan does not invert the pyramid. It preserves a fundamentally different architecture of order.
 
-After 15 years, the first volume is now complete. It is called *Atomic Sanskrit*. The book begins with language because Sanskrit and the Vedas preserve a living example of that alternative architecture. One architecture creates order through a distributed calibrant, a shared standard that no apex can own. The pyramid imposes order from an apex.
+That inquiry led me deeper into Sanskrit. Fifteen years later, the first volume is complete. *Atomic Sanskrit* argues that Sanskrit and the Vedas preserve a living example of this alternative architecture. It creates order through a distributed calibrant, a shared standard that no apex can own. The pyramid creates order by concentrating authority at the top.
 
-You were one of the first people with whom I discussed the larger project, so I would value the opportunity to reconnect and share a short overview with you. If the argument interests you, perhaps we could speak after you have had a chance to look at it.
+You were one of the first people with whom I discussed the larger project. I would value the opportunity to reconnect and share a short overview with you.
 
 Warmly,
 

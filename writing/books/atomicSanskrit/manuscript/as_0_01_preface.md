@@ -1,4 +1,4 @@
-# Preface — Why This Inquiry Began
+# Preface — Beyond the Red Lotus
 
 In *Tatya Tope's Operation Red Lotus*, I argued that 1857 was a struggle over three forms of freedom: political, economic, and personal. India lost its political and economic freedom but held on to personal freedom by a thread. The war forced the British Empire to retreat from its overt drive to convert India to Christianity and from its attempt to control every part of Hindu personal life. Political and economic power remained in British hands, but Hindu families and communities retained enough freedom to worship, teach, remember, and pass on what they had inherited.[NOTE: orl-three-apex-nexus][NOTE: 1858-religious-neutrality-after-war]
 
