@@ -26,17 +26,19 @@ Behind that silence lies a vast inheritance of stories about choices, actions, a
 
 Through the मूर्ति (*mūrti*), that inheritance stands before the seeker as a calibrant. **The calibrant stands invariant. Alignment is voluntary.** Seekers examine their own actions against the enduring values embodied in the form and decide what must change.
 
-**No apex controls that act of seeing.**
+*No apex controls that act of seeing.*
 
-दर्शन (*darśana*) is one architectural form of distributed calibration.
+**The Hindu temple is one architectural form of distributed calibration.**
+
+**Sanskrit is another.**
 
 I had been searching for an abstract solution to a problem that Hindu life had already answered in practice. The answer had survived not as one policy or institution, but as an architecture repeated through sounds, words, stories, and practices. Reconstructing that architecture became the *Second Shanti* series.
 
 ## Why Sanskrit Comes First
 
-Vedic recitations often conclude with **ॐ शान्तिः शान्तिः शान्तिः (*oṃ śāntiḥ śāntiḥ śāntiḥ*)**. The three recitations direct peace or quietude toward three domains. The second encompasses how living beings interact with one another. This series asks what kind of architecture can create balance within that domain.
+Vedic recitations often conclude with **ॐ शान्तिः शान्तिः शान्तिः (*oṃ śāntiḥ śāntiḥ śāntiḥ*)**. The three recitations direct peace or quietude toward three domains. The second domain encompasses how living beings interact with one another. This series asks what kind of architecture can create balance within that domain.
 
-The inquiry extends beyond the political state. It includes language, memory, responsibility, economic life, and the relationships through which people organize life with one another and with the living world. Later volumes will follow those structures directly. This first volume begins with Sanskrit because Sanskrit and the Vedas preserve a complete architecture that can still be heard, examined, and tested.
+The inquiry extends beyond the theory of government. It includes language, memory, responsibility, economic life, and the relationships through which people organize life with one another and with the living world. Later volumes will follow those structures directly. This first volume begins with Sanskrit because Sanskrit and the Vedas preserve a complete architecture that can still be heard, examined, and tested.
 
 I first encountered that architecture when I was eight or nine, while reciting the second verse of the first chapter of the *Bhagavad Gītā*:[NOTE: bhagavad-gita-1-2-citation]
 
