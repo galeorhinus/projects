@@ -4,7 +4,7 @@
 \begin{center}
 ```
 
-**To Vāc.**
+**To वाच् (*Vāc*).**
 
 *This Atri thanks you for the fourth.*
 

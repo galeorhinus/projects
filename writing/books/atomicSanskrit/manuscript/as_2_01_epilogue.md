@@ -18,7 +18,7 @@
 
 The same wound-line that opened the Prologue returns here with the other half supplied. Svarbhānu's darkness did not win: the Atris found the Sun.
 
-The core eclipse has passed because the Sun remained. Seven blocks have fallen — Descended, Botanical, Codified, Alphabetic, Abugida, Sibling Language, and Early Literature — and Sanskrit's radiance is visible again. Institutional custody, public habit, and civilizational self-doubt still cast residual shadows. Teachers, families, institutions, and communities must clear what one book cannot.
+The core eclipse has passed because the Sun remained. Seven blocks have fallen. They carried the labels ***Descended, Botanical, Codified, Alphabetic, Abugida, Sibling Language,*** and ***Early Literature***. With the claims represented by those blocks removed, Sanskrit's radiance is visible again. Institutional custody, public habit, and civilizational self-doubt still cast residual shadows. Teachers, families, institutions, and communities must clear what one book cannot.
 
 ![Figure E.12 — Atri Recovery. The Sanskrit-Sun is visible; seven core blocks have fallen, residual shadows remain, and points of caretaking light appear across the world.](figures/eclipse_spine/eclipse_80_epilogue_atri_recovery.svg){#fig:eclipse-epilogue-atri-recovery width=100%}
 
@@ -222,7 +222,7 @@ Sanskrit's standard is restored not by authority but by re-entering calibration.
 
 Bṛhaspati had already described the sequence: Speech sifted like grain, formed by the wise with the mind, recognized among friends, and made radiant. That sequence has now moved from mouth to sonomer, from sonomer to atom, from atom to molecule, and from molecule to calibrated language.
 
-The final turn therefore asks Vāk herself to nourish the work:
+The final turn therefore asks Vāc herself to nourish the work:
 
 > देवीं वाचमजनयन्त देवास्तां विश्वरूपाः पशवो वदन्ति ।\
 > सा नो मन्द्रेषमूर्जं दुहाना धेनुर्वागस्मानुप सुष्टुतैतु ॥
@@ -230,9 +230,9 @@ The final turn therefore asks Vāk herself to nourish the work:
 > *devīṃ vācam ajanayanta devās tāṃ viśvarūpāḥ paśavo vadanti |*\
 > *sā no mandreṣam ūrjaṃ duhānā dhenur vāg asmān upa suṣṭutaitu ||*
 >
-> The devas generated divine Speech; all beings, in many forms, speak her. May Vāk, well-praised, come to us like a milk-cow, gladdening us and yielding refreshment and strength.[NOTE: rigveda-8-100-11-vak-blessing]
+> The devas generated divine Speech; all beings, in many forms, speak her. May Vāc, well-praised, come to us like a milk-cow, gladdening us and yielding refreshment and strength.[NOTE: rigveda-8-100-11-vak-blessing]
 
-The invitation is not to compose new *śruti*. It is to become capable of seeing what Vāk has already revealed, to take the architecture forward, and to let Speech nourish the next civilizational act.
+The invitation is not to compose new *śruti*. It is to become capable of seeing what Vāc has already revealed, to take the architecture forward, and to let Speech nourish the next civilizational act.
 
 The Sun has been found.
 

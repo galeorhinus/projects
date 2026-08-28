@@ -1,4 +1,4 @@
-# Chapter 7 — ॐ (Oṃ): The Anatomy of Sound
+# Chapter 7 — ॐ (*Oṃ*): The Anatomy of Sound
 
 ::: epigraph
 
@@ -108,7 +108,7 @@ The same Indic classificatory discipline that named constructed instruments — 
 
 The Sanskrit account begins with **स्थान (*sthāna*)**—place—where each *sthāna* name derives from the anatomy via a single, consistent pattern. The lip, ओष्ठ (*oṣṭha*), gives **ओष्ठ्य (*oṣṭhya*)** (of the lips); the tooth, दन्त (*danta*), gives **दन्त्य (*dantya*)** (of the teeth); the crown of the palate, मूर्धन् (*mūrdhan*, *head*), gives **मूर्धन्य (*mūrdhanya*)** (of the crown); the palate, तालु (*tālu*), gives **तालव्य (*tālavya*)** (of the palate); and the throat, कण्ठ (*kaṇṭha*), gives **कण्ठ्य (*kaṇṭhya*)** (of the throat). Sanskrit identifies five precise anatomical places and gives each one a name through the same derivational pattern.
 
-The five named स्थान (*sthāna*) are a specific selection from the possible places of contact. The interdental position between the upper and lower teeth, where English makes *th*, sits between ओष्ठ्य (*oṣṭhya*) and दन्त्य (*dantya*) and receives no separate Sanskrit station. The deep pharyngeal region where Arabic makes ع and ح sits behind कण्ठ्य (*kaṇṭhya*) and remains outside the system. The question now passes to the subcontinental sound-field: are those five places already active before Sanskrit makes them exact?[NOTE: place-of-articulation-sanskrit-terms]
+The five named स्थान (*sthāna*) are a specific selection from the possible places of contact. The interdental position between the upper and lower teeth, where English makes *th*, sits between ओष्ठ्य (*oṣṭhya*) and दन्त्य (*dantya*) and receives no separate Sanskrit station. The deep pharyngeal region where Arabic makes ع and ح sits behind कण्ठ्य (*kaṇṭhya*) and remains outside the system. The question now passes to the subcontinental sound inventory: are those five places already active before Sanskrit makes them exact?[NOTE: place-of-articulation-sanskrit-terms]
 
 Alongside स्थान (*sthāna*) is **करण (*karaṇa*)** — the active articulator, the part that moves to make contact. The tongue is the principal करण (*karaṇa*); the lower lip is the करण (*karaṇa*) for labial sounds. स्थान (*Sthāna*) is where contact occurs. करण (*Karaṇa*) is what moves to make it.[NOTE: karana-active-articulator]
 

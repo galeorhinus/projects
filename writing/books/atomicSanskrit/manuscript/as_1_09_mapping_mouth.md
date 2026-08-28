@@ -22,7 +22,7 @@
 
 Chapter 8 established the subcontinental superset. This chapter follows the Vedic sieve: how Sanskrit selects sounds from that larger inventory as sonances, then promotes reusable sonances to sonomers and assigns each one a grid address.
 
-The chapter's epigraph provides the image that guides this section. It compares the formation of Speech to cleaning grain through a sieve. The wise begin with the sounds the mouth can produce. They refine those sounds with the mind and select the sound-particles that Speech can use reliably. The verb **अक्रत (*akrata*)** states what they did: they *formed* **वाक् (*Vāk*)**, Speech. It is a finite plural verb generated from the dhātu ⟪कृ⟫ (*kṛ*). The वर्णमाला (*varṇamālā*) arranges the selected sonomers in an ordered grid.
+The chapter's epigraph provides the image that guides this section. It compares the formation of Speech to cleaning grain through a sieve. The wise begin with the sounds the mouth can produce. They refine those sounds with the mind and select the sound-particles that Speech can use reliably. The verb **अक्रत (*akrata*)** states what they did: they *formed* **वाचम् (*vācam*)**, Speech. It is a finite plural verb generated from the dhātu ⟪कृ⟫ (*kṛ*). The वर्णमाला (*varṇamālā*) arranges the selected sonomers in an ordered grid.
 
 The second half adds radiance. Friends recognize friendship in that formed Speech. In separated form, the final pāda says **भद्रा एषां लक्ष्मीः (*bhadrā eṣāṃ lakṣmīḥ*)** is placed **अधि वाचि (*adhi vāci*)** — in Speech: auspicious radiance, the beauty through which order expresses itself. This is the **दिव्यता (*divyatā*)** layer. The verse moves from engineering to radiance.
 
@@ -36,9 +36,9 @@ The curated heap then becomes ordered form. Sanskrit's own name for the selected
 
 The figure is my modern rendering. The arrangement by place and effort is ancient, and the name वर्णमाला (*varṇamālā*) already calls the inventory a garland. I have not found an earlier rendering that draws the garland as an articulatory mouth-map, with each bead set at its own grid address. I did not invent the order.
 
-I saw the visual form while meditating on the architecture itself, in a state of sustained hyperfocus where the sounds had become positions, weights, colors, and paths — where engineering collided with poetic beauty. That seeing was Vāk’s gift, as is the ability to write this book.
+I saw the visual form while meditating on the architecture itself, in a state of sustained hyperfocus where the sounds had become positions, weights, colors, and paths — where engineering collided with poetic beauty. That seeing was Vāc’s gift, as is the ability to write this book.
 
-When the sounds are visualized through Sanskrit’s own vocabulary, they arrange themselves as what the name already says: a garland of chosen beads, woven for Vāk herself to wear. I offer it to her, strung. The poetry of the माला (*mālā*) integrates the engineering into beauty.
+When the sounds are visualized through Sanskrit’s own vocabulary, they arrange themselves as what the name already says: a garland of chosen beads, woven for Vāc herself to wear. I offer it to her, strung. The poetry of the माला (*mālā*) integrates the engineering into beauty.
 
 The word is poetic and precise. A garland differs from a heap. Each bead is chosen, shaped, placed, and strung in an order that can be memorized. The वर्णमाला (*varṇamālā*) does the same with the sonomers selected by the sieve. It is the quintessence of **दिव्यता (*divyatā*)**: engineering made radiant.
 

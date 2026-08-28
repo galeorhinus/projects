@@ -124,7 +124,7 @@ The pyramid does not know Sanskrit's origin. It has no inscription of PIE, no sp
 3. The imaginary ancestor was treated as historically prior to Sanskrit, even though people still recite, teach, and use Sanskrit while PIE exists only as a reconstruction.
 4. The ancestor had to sit outside India, because a calibrant engineered within India proves order can stand without an apex — the pyramid's founding threat (Chapter 3 §3.8). He can dominate that civilization, but he cannot claim the world's most precise language if the calibrant stands inside it.
 5. A mechanism was then needed by which Sanskrit entered India. That mechanism became the racial Arya thesis: invasion first, migration later, the same racialized premise underneath both.
-6. When Sanskrit displayed subcontinental features, especially the retroflex row, the pyramid's account called them substrate borrowings instead of evidence that Sanskrit's engineering begins inside the subcontinental sound-field.
+6. When Sanskrit displayed subcontinental features, especially the retroflex row, the pyramid's account called them substrate borrowings instead of evidence that Sanskrit's engineering begins inside the subcontinental sound inventory.
 7. When Vedic preservation showed extraordinary stability, the pyramid's account called it late conservatism rather than engineered anti-entropy.
 8. When Pāṇini documented an already functioning architecture, the pyramid's account called it codification: praise the named documenter, redirect the memory, deny the architecture documented.
 9. When the Sanskrit continuum preserved its own categories — संस्कृतम् (*saṃskṛtam*), श्रुति (*śruti*), अपौरुषेय (*apauruṣeya*), व्याकरणम् (*vyākaraṇam*), वैदिक (*vaidika*), and लौकिक (*laukika*) — the pyramid's account treated them as belief, not evidence.
@@ -298,7 +298,7 @@ What we do know remains available for examination. The Sanskrit that the continu
 
 The evidence does not reveal the engineers' biographies. It reveals what they built.
 
-> **The wise formed वाक् (*vāc*). The seers saw. The lineage heard. The वैयाकरणाः (*vaiyākaraṇāḥ*) decoded. Pāṇini articulated. The Vedas remain the calibrant for Sanskrit and संस्कृति (*saṃskṛti*).**
+> **The wise formed वाचम् (*vācam*). The seers saw. The lineage heard. The वैयाकरणाः (*vaiyākaraṇāḥ*) decoded. Pāṇini articulated. The Vedas remain the calibrant for Sanskrit and संस्कृति (*saṃskṛti*).**
 
 ## 18.8 Pāṇini Praised, Architecture Erased
 
