@@ -66,7 +66,7 @@ def load_ranks():
 def main():
     ranks = load_ranks()
 
-    fig, ax = setup(figsize=(8.5, 5.2))
+    fig, ax = setup(figsize=(4.5, 3.4))
 
     # X-axis: integer positions for each corpus
     x = list(range(len(CORPUS_ORDER)))
@@ -101,30 +101,31 @@ def main():
             ax.annotate(root,
                         xy=(xs_drawn[-1], ys_drawn[-1]),
                         xytext=(xs_drawn[-1] + 0.12, ys_drawn[-1]),
-                        fontsize=9, va="center",
+                        fontsize=7.5, va="center",
                         fontweight="bold" if root == "kṛ" else "normal")
 
     # Y-axis: ranks 1–50, inverted so #1 is at top
     ax.set_yscale("log")
     ax.set_yticks([1, 2, 3, 5, 10, 20, 50, 100])
-    ax.set_yticklabels(["1", "2", "3", "5", "10", "20", "50", "100"])
+    ax.set_yticklabels(["1", "2", "3", "5", "10", "20", "50", "100"], fontsize=8)
     ax.set_ylim(120, 0.8)   # inverted; rank 1 at top
     ax.set_xticks(x)
-    ax.set_xticklabels(x_labels, fontsize=10)
-    ax.set_xlim(-0.3, len(x) - 0.4)
-    ax.set_ylabel("Rank by verb-token count (within sub-corpus)", fontsize=10)
+    ax.set_xticklabels(x_labels, fontsize=8, rotation=18, ha="right",
+                       rotation_mode="anchor")
+    ax.set_xlim(-0.3, len(x) + 0.25)
+    ax.set_ylabel("Rank by verb-token count (within sub-corpus)", fontsize=8)
 
     # Reference band at top — "top 10" zone
     ax.axhspan(0.8, 10.5, color="#f0f0f0", zorder=1)
     ax.text(len(x) - 0.55, 1.2, "top 10",
-            fontsize=8, va="center", ha="right", color="#666", style="italic")
+            fontsize=7, va="center", ha="right", color="#666", style="italic")
 
     ax.spines["top"].set_visible(False)
     ax.spines["right"].set_visible(False)
     ax.grid(True, axis="y", which="major", alpha=0.25, linewidth=0.3)
 
     ax.set_title("Canonical-9 dhātu rank across DCS sub-corpora",
-                 fontsize=11, pad=12)
+                 fontsize=9.5, pad=8)
 
     plt.tight_layout()
     savefig("canonical_rank_trajectory", dir=Path(__file__).resolve().parent)
