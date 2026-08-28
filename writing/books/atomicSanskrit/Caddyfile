@@ -116,6 +116,16 @@ secondshanti.org {
 	@renamed-codification-story path_regexp renamed_cs ^/as/(?:book/)?codification-story(/.*)?$
 	redir @renamed-codification-story /as/book/codification-myth{re.renamed_cs.1} 308
 
+	# Overture merged into the Prologue (2026-08-28): the Śaṅkha opener is
+	# no longer its own page, and as_part_00_overture_shankha.md is gone
+	# from as_book.yaml's assembly, so build_html.py stops emitting
+	# /as/book/part-overture-shankha/ and deploy.sh's rsync --delete
+	# removes it from the webroot. Redirect to the Prologue, which now
+	# carries that content, rather than letting a shared link 404. Same
+	# both-forms shape as the two appendix renames above.
+	@merged-overture path_regexp merged_ov ^/as/(?:book/)?part-overture-shankha(/.*)?$
+	redir @merged-overture /as/book/prologue-eclipse{re.merged_ov.1} 308
+
 	# /as/essays/* — public essay shelf.
 	# try_files turns /as/essays/<slug> into /as/essays/<slug>/index.html
 	# when the bare path is not itself a file.
