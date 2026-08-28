@@ -1,5 +1,6 @@
 [Unit]
 Description=Rebuild the Reader Margins dashboard on demand
+StartLimitIntervalSec=0
 # Triggered by dashboard-refresh.path when dashboard_resolver.py (running
 # as www-data) touches the trigger file for a reader's "Update now".
 #
@@ -20,12 +21,26 @@ Description=Rebuild the Reader Margins dashboard on demand
 # The trigger file is removed FIRST (ExecStartPre), not after: removing it
 # afterwards would drop any request that arrived while this was running,
 # because .path units fire on the file appearing, not on a queue.
+#
+# That rm carries a "+" prefix, which runs it as root regardless of
+# User=ubuntu below. This is load-bearing, not tidiness: the trigger is
+# created by www-data in a www-data-owned directory that ubuntu cannot
+# write, so an unprivileged rm fails with EPERM -- and because a .path
+# unit re-fires while the file still exists, that failure becomes an
+# instant restart loop that trips the start limit and takes the .path
+# unit down with it. Observed exactly that on first deploy 2026-08-28:
+# four failed starts in the same second, then
+# "Result: unit-start-limit-hit" on the path unit.
+#
+# StartLimitIntervalSec=0 is belt and braces: if some future failure mode
+# leaves the trigger in place, this degrades to retrying rather than
+# disabling the whole watch path silently.
 
 [Service]
 Type=oneshot
 User=ubuntu
 Group=ubuntu
 WorkingDirectory=/home/ubuntu/projects/writing/books/atomicSanskrit/hypothesis
-ExecStartPre=/usr/bin/rm -f /var/lib/secondshanti/refresh-dashboard-request
+ExecStartPre=+/usr/bin/rm -f /var/lib/secondshanti/refresh-dashboard-request
 ExecStart=/home/ubuntu/projects/writing/books/atomicSanskrit/hypothesis/refresh_dashboard_fast.sh
 TimeoutStartSec=120
