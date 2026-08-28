@@ -97,6 +97,7 @@ def _try_outline_devanagari(content: str) -> str:
         from .text_outline import (  # noqa: F401
             contains_devanagari,
             contains_risky_latin_font,
+            markup_has_italic,
             outline_devanagari_in_svg,
         )
     except ImportError as exc:
@@ -116,6 +117,7 @@ def _try_outline_devanagari(content: str) -> str:
             from text_outline import (  # type: ignore[no-redef]
                 contains_devanagari,
                 contains_risky_latin_font,
+                markup_has_italic,
                 outline_devanagari_in_svg,
             )
             print(
@@ -132,8 +134,12 @@ def _try_outline_devanagari(content: str) -> str:
             return content
 
     # Cheap pre-check on the whole file before the real (regex-driven) pass
-    # — most figures have neither Devanagari nor the risky font at all.
-    if not contains_devanagari(content) and not contains_risky_latin_font(content):
+    # — most figures have no Devanagari, no risky font and no italic.
+    if (
+        not contains_devanagari(content)
+        and not contains_risky_latin_font(content)
+        and not markup_has_italic(content)
+    ):
         return content
 
     new_content, count, warnings = outline_devanagari_in_svg(content)

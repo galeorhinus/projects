@@ -57,6 +57,7 @@ from __future__ import annotations
 
 import html
 import math
+import os
 import re
 from dataclasses import dataclass
 from functools import lru_cache
@@ -104,6 +105,42 @@ _LATIN_FACE_INDEX = {
     (True, True): 2,  # Bold Italic
 }
 
+# Every *italic* serif face triggers the same cluster bug, not just the
+# stack above — confirmed 2026-08-28 by rendering one string through
+# rsvg-convert in six installed faces: EB Garamond, Charter, Georgia,
+# Palatino, Times New Roman and Adobe Garamond Pro italic ALL dropped
+# characters ("from" -> "fom", "families" -> "fmilies", "left field" ->
+# "leffeld"), while the same string in roman came through clean in every
+# one of them. The font-family marker above therefore catches only a
+# fraction of the exposure: an italic Latin run is risky whatever family
+# it names, and the damage is visual only — the PDF text layer still
+# extracts correctly, so nothing but the rendered page reveals it.
+def is_risky_latin_style(font_style: str = "") -> bool:
+    return font_style.strip().lower() == "italic"
+
+
+# Same test against raw markup, for the call sites that hold a whole
+# <text> element rather than a parsed font-style — an italic on any
+# tspan inside it is enough to need the fix.
+_ITALIC_MARKUP_RE = re.compile(r"font-style\s*[:=]\s*[\"']?\s*italic", re.I)
+
+
+def markup_has_italic(markup: str) -> bool:
+    return bool(_ITALIC_MARKUP_RE.search(markup))
+
+
+# The figures' own Latin face. Outlining an EB Garamond run against
+# Charter (the only Latin face this module knew about) would silently
+# restyle it, so resolve the run's real family when we have it. User-level
+# install, hence expanduser + an existence check rather than a bare path;
+# falls back to Charter when the face isn't present.
+_EB_GARAMOND_FACES = {
+    (False, False): "~/Library/Fonts/EBGaramond-Regular.otf",
+    (True, False): "~/Library/Fonts/EBGaramond-Bold.otf",
+    (False, True): "~/Library/Fonts/EBGaramond-Italic.otf",
+    (True, True): "~/Library/Fonts/EBGaramond-BoldItalic.otf",
+}
+
 
 def resolve_font_path(font_weight: str = "", font_style: str = "") -> str:
     """Map SVG font-weight/font-style values to the matching Adobe Devanagari
@@ -116,13 +153,22 @@ def resolve_font_path(font_weight: str = "", font_style: str = "") -> str:
     return _FONT_VARIANTS[(is_bold, is_italic)]
 
 
-def resolve_latin_font(font_weight: str = "", font_style: str = "") -> tuple[str, int]:
-    """Same idea as resolve_font_path, but for the Charter.ttc collection
-    used to outline risky Latin runs — returns (path, face_index)."""
+def resolve_latin_font(
+    font_weight: str = "", font_style: str = "", font_family: str = ""
+) -> tuple[str, int]:
+    """Same idea as resolve_font_path, but for the Latin faces used to
+    outline risky Latin runs — returns (path, face_index).
+
+    Charter.ttc is a collection addressed by face index; EB Garamond ships
+    one .otf per style, so its face index is always 0."""
     is_bold = font_weight.strip().lower() == "bold" or (
         font_weight.strip().isdigit() and int(font_weight.strip()) >= 600
     )
     is_italic = font_style.strip().lower() == "italic"
+    if "EB Garamond" in font_family:
+        candidate = os.path.expanduser(_EB_GARAMOND_FACES[(is_bold, is_italic)])
+        if os.path.exists(candidate):
+            return candidate, 0
     return _LATIN_FONT_PATH, _LATIN_FACE_INDEX[(is_bold, is_italic)]
 
 
@@ -678,7 +724,9 @@ def outlined_text_svg(
     Charter face.
     """
     latin_font_path, latin_face_index = (
-        resolve_latin_font(font_weight, font_style) if force_latin else ("", 0)
+        resolve_latin_font(font_weight, font_style, live_font_family)
+        if force_latin
+        else ("", 0)
     )
     segments = []
     for run_text, is_deva in _split_runs(text):
@@ -720,8 +768,37 @@ _TEXT_TEXTPATH_RE = re.compile(
 _PATH_WITH_ID_RE = re.compile(r'<path\b(?P<attrs>[^>]*)/?>')
 
 
+# Properties this module reads, when they arrive in an element's own
+# `style="..."` attribute rather than as presentation attributes. Matplotlib
+# exports style text this way, so `font-style: italic` sat invisible to every
+# check here — the file-level scan flagged the figure, then the per-element
+# code read an empty attrs.get("font-style") and outlined nothing (confirmed
+# 2026-08-28 on ganah/periodic_table.svg and ganah/canonical_rank_trajectory
+# .svg). Same gap _inline_css_classes closes for class-based styling, one
+# level closer to the element. A style property beats a presentation
+# attribute, which is also what CSS specifies.
+_STYLE_PROPS = ("font-family", "font-size", "font-weight", "font-style", "fill")
+_STYLE_DECL_RE = re.compile(r"([a-zA-Z-]+)\s*:\s*([^;]+)")
+# font-size arrives as "8px"/"7pt" in a style attribute but as a bare number
+# in a presentation attribute, and every consumer here does float() on it.
+_LEN_UNIT_RE = re.compile(r"^\s*(-?[\d.]+)\s*(?:px|pt|em|rem|%)\s*$", re.I)
+
+
 def _parse_attrs(attrs_str: str) -> dict[str, str]:
-    return dict(_ATTR_RE.findall(attrs_str))
+    attrs = dict(_ATTR_RE.findall(attrs_str))
+    style = attrs.get("style")
+    if style:
+        for prop, raw in _STYLE_DECL_RE.findall(style):
+            prop = prop.strip().lower()
+            if prop not in _STYLE_PROPS:
+                continue
+            value = raw.strip()
+            if prop == "font-size":
+                unit = _LEN_UNIT_RE.match(value)
+                if unit:
+                    value = unit.group(1)
+            attrs[prop] = value
+    return attrs
 
 
 # Attributes that must survive onto the replacement <g> unchanged — losing
@@ -749,9 +826,13 @@ def _segments_from_text_element(base_attrs: dict[str, str], inner: str) -> list[
 
     def add_node(text: str, weight: str, style: str, family: str, size: float, dx: float = 0.0) -> None:
         deva_font_path = resolve_font_path(weight, style)
-        outline_latin_too = contains_risky_latin_font(family) or contains_risky_symbol(text)
+        outline_latin_too = (
+            contains_risky_latin_font(family)
+            or is_risky_latin_style(style)
+            or contains_risky_symbol(text)
+        )
         latin_font_path, latin_face_index = (
-            resolve_latin_font(weight, style) if outline_latin_too else ("", 0)
+            resolve_latin_font(weight, style, family) if outline_latin_too else ("", 0)
         )
         first = True
         for run_text, is_deva in _split_runs(text):
@@ -1063,7 +1144,11 @@ def outline_devanagari_in_svg(svg_content: str) -> tuple[str, int, list[str]]:
         attrs = _parse_attrs(m.group("attrs"))
         tp_attrs = _parse_attrs(m.group("tp_attrs"))
         live_font_family = attrs.get("font-family", "sans-serif")
-        risky_latin = contains_risky_latin_font(live_font_family) or contains_risky_symbol(content)
+        risky_latin = (
+            contains_risky_latin_font(live_font_family)
+            or is_risky_latin_style(attrs.get("font-style", ""))
+            or contains_risky_symbol(content)
+        )
         has_deva = contains_devanagari(content)
         if not has_deva and not risky_latin:
             return whole
@@ -1094,7 +1179,9 @@ def outline_devanagari_in_svg(svg_content: str) -> tuple[str, int, list[str]]:
         if has_deva:
             font_path, face_index = resolve_font_path(font_weight, font_style), 0
         else:
-            font_path, face_index = resolve_latin_font(font_weight, font_style)
+            font_path, face_index = resolve_latin_font(
+                font_weight, font_style, live_font_family
+            )
 
         font_size = float(attrs.get("font-size", 16))
         geom = _build_path_geom(d)
@@ -1124,6 +1211,7 @@ def outline_devanagari_in_svg(svg_content: str) -> tuple[str, int, list[str]]:
         if (
             not contains_devanagari(m.group("inner"))
             and not contains_risky_latin_font(whole)
+            and not markup_has_italic(whole)
             and not contains_risky_symbol(m.group("inner"))
         ):
             return whole
@@ -1172,7 +1260,11 @@ def outline_devanagari_in_svg(svg_content: str) -> tuple[str, int, list[str]]:
         attrs = _parse_attrs(m.group("attrs"))
         content = m.group("content")
         live_font_family = attrs.get("font-family", "sans-serif")
-        risky_latin = contains_risky_latin_font(live_font_family) or contains_risky_symbol(content)
+        risky_latin = (
+            contains_risky_latin_font(live_font_family)
+            or is_risky_latin_style(attrs.get("font-style", ""))
+            or contains_risky_symbol(content)
+        )
         if not contains_devanagari(content) and not risky_latin:
             return m.group(0)
 
