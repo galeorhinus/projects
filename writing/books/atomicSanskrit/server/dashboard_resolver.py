@@ -347,14 +347,6 @@ class Handler(BaseHTTPRequestHandler):
         self.wfile.write(encoded)
 
 
-def main() -> None:
-    server = ThreadingHTTPServer((BIND_HOST, BIND_PORT), Handler)
-    print(f"dashboard_resolver listening on {BIND_HOST}:{BIND_PORT}")
-    server.serve_forever()
-
-
-if __name__ == "__main__":
-    main()
 
     def _send_json(self, code: int, payload: dict) -> None:
         body = json.dumps(payload).encode("utf-8")
@@ -364,3 +356,11 @@ if __name__ == "__main__":
         self.send_header("Cache-Control", "no-store")
         self.end_headers()
         self.wfile.write(body)
+def main() -> None:
+    server = ThreadingHTTPServer((BIND_HOST, BIND_PORT), Handler)
+    print(f"dashboard_resolver listening on {BIND_HOST}:{BIND_PORT}")
+    server.serve_forever()
+
+
+if __name__ == "__main__":
+    main()
