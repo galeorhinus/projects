@@ -10,7 +10,7 @@ from pathlib import Path
 OUT = Path(__file__).with_name("svara_form_matrix.from-py.svg")
 
 WIDTH = 1200
-HEIGHT = 1160
+HEIGHT = 1286
 
 PAPER = "#f7f4ed"
 INK = "#29251f"
@@ -28,7 +28,7 @@ LATIN = "EB Garamond, Charter, Georgia, serif"
 DEVA = "Adobe Devanagari, Noto Serif Devanagari, serif"
 
 FAMILIES = ["अ", "इ", "उ", "ऋ", "ऌ", "ए", "ऐ", "ओ", "औ"]
-PITCHES = [("उ", "udātta"), ("अ", "anudātta"), ("स्व", "svarita")]
+PITCHES = [("उदात्त", "udātta"), ("अनुदात्त", "anudātta"), ("स्वरित", "svarita")]
 
 
 def esc(value: object) -> str:
@@ -78,7 +78,7 @@ def is_selected(row: int, duration: int) -> bool:
 
 def render() -> str:
     left = 104
-    top = 252
+    top = 278
     cell_w = 102
     cell_h = 68
     grid_w = cell_w * 9
@@ -112,7 +112,7 @@ def render() -> str:
                 group_x + cell_w * 1.5,
                 186,
                 label,
-                size=25,
+                size=26,
                 weight=600,
                 anchor="middle",
             )
@@ -123,7 +123,7 @@ def render() -> str:
                     group_x + cell_w * 3 - 12,
                     186,
                     "Restricted",
-                    size=17,
+                    size=22,
                     color=RED,
                     italic=True,
                     anchor="end",
@@ -135,22 +135,22 @@ def render() -> str:
         x = left + col * cell_w
         parts.extend(
             [
-                f'<rect x="{x}" y="202" width="{cell_w}" height="50" '
+                f'<rect x="{x}" y="202" width="{cell_w}" height="76" '
                 f'fill="{PAPER}" stroke="{GRID}" stroke-width="1"/>',
                 text(
                     x + cell_w / 2,
-                    224,
+                    236,
                     pitch_short,
-                    size=20,
+                    size=36,
                     weight=600,
                     anchor="middle",
                     family=DEVA,
                 ),
                 text(
                     x + cell_w / 2,
-                    244,
+                    268,
                     pitch_long,
-                    size=17,
+                    size=24,
                     color=MUTED,
                     anchor="middle",
                     italic=True,
@@ -160,8 +160,8 @@ def render() -> str:
 
     parts.extend(
         [
-            text(72, 238, "family", size=19, color=MUTED, anchor="middle"),
-            text(left + grid_w + 50, 238, "total", size=19, color=MUTED, anchor="middle"),
+            text(70, 252, "family", size=23, color=MUTED, anchor="middle"),
+            text(left + grid_w + 50, 252, "total", size=23, color=MUTED, anchor="middle"),
         ]
     )
 
@@ -241,63 +241,63 @@ def render() -> str:
     parts.extend(
         [
             check(68, legend_y - 4, GOLD),
-            text(88, legend_y + 4, "selected form", size=19),
+            text(88, legend_y + 6, "selected form", size=30),
             line(307, legend_y - 14, 327, legend_y + 6, stroke=RED, **{"stroke-width": 2}),
             line(327, legend_y - 14, 307, legend_y + 6, stroke=RED, **{"stroke-width": 2}),
-            text(339, legend_y + 4, "Excluded", size=19),
-            f'<rect x="492" y="{legend_y - 24}" width="28" height="28" fill="{RESTRICTED}" '
+            text(339, legend_y + 6, "Excluded", size=30),
+            f'<rect x="492" y="{legend_y - 26}" width="34" height="34" fill="{RESTRICTED}" '
             f'stroke="{GRID}" stroke-width="1"/>',
-            text(532, legend_y + 4, "Restricted: pluta", size=19),
-            f'<rect x="747" y="{legend_y - 24}" width="28" height="28" fill="{SELECTED}" '
+            text(538, legend_y + 6, "Restricted: pluta", size=30),
+            f'<rect x="747" y="{legend_y - 26}" width="34" height="34" fill="{SELECTED}" '
             f'stroke="{GRID}" stroke-width="1"/>',
-            line(761, legend_y - 24, 761, legend_y + 4, stroke=GRID, **{"stroke-width": 1}),
-            text(787, legend_y - 5, "oral", size=17),
-            text(787, legend_y + 14, "nasal", size=17, color=MUTED),
+            line(764, legend_y - 26, 764, legend_y + 8, stroke=GRID, **{"stroke-width": 1}),
+            text(793, legend_y - 6, "oral", size=23),
+            text(793, legend_y + 20, "nasal", size=23, color=MUTED),
         ]
     )
 
-    callout_y = legend_y + 38
+    callout_y = legend_y + 52
     parts.extend(
         [
-            f'<rect x="54" y="{callout_y}" width="{WIDTH - 108}" height="66" rx="4" '
+            f'<rect x="54" y="{callout_y}" width="{WIDTH - 108}" height="92" rx="4" '
             f'fill="{GOLD_LIGHT}" stroke="{GRID}" stroke-width="1"/>',
-            text(76, callout_y + 28, "Lineage-Bounded:", size=19, color=GOLD, weight=600),
+            text(76, callout_y + 36, "Lineage-Bounded:", size=30, color=GOLD, weight=600),
             text(
-                222,
-                callout_y + 28,
+                306,
+                callout_y + 36,
                 "half-ए and half-ओ remain outside the regular matrix.",
-                size=19,
+                size=30,
                 family=DEVA,
             ),
             text(
                 76,
-                callout_y + 52,
+                callout_y + 74,
                 "They are preserved where the inherited Sāmavedic lineages require them.",
-                size=19,
+                size=30,
                 color=MUTED,
             ),
         ]
     )
 
-    arithmetic_y = callout_y + 98
+    arithmetic_y = callout_y + 124
     parts.extend(
         [
-            f'<rect x="54" y="{arithmetic_y}" width="{WIDTH - 108}" height="64" '
+            f'<rect x="54" y="{arithmetic_y}" width="{WIDTH - 108}" height="84" '
             f'fill="{INK}"/>',
             text(
                 WIDTH / 2,
-                arithmetic_y + 41,
+                arithmetic_y + 55,
                 f"162 possible positions − {excluded_count} Excluded = {selected_count} selected forms",
-                size=28,
+                size=40,
                 color=PAPER,
                 weight=600,
                 anchor="middle",
             ),
             text(
                 WIDTH / 2,
-                HEIGHT - 18,
+                HEIGHT - 26,
                 "A check marks an analytically selected form, not a claim of surviving textual occurrence.",
-                size=17,
+                size=30,
                 color=MUTED,
                 italic=True,
                 anchor="middle",

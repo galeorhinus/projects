@@ -1,441 +1,441 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1160" viewBox="0 0 1200 1160">
-<rect width="1200" height="1160" fill="#f7f4ed"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1286" viewBox="0 0 1200 1286">
+<rect width="1200" height="1286" fill="#f7f4ed"/>
 <text x="54.0" y="66.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="47" font-weight="600" font-style="normal" fill="#29251f" text-anchor="start">The Svara Form Matrix</text>
 <text x="54.0" y="108.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="start">Nine vowel families × three durations × three pitch relations × two nasal states</text>
 <line x1="54" y1="134" x2="1146" y2="134" stroke="#cfc6b5" stroke-width="2"/>
 <rect x="104" y="154" width="306" height="48" fill="#e8dfcc" stroke="#cfc6b5" stroke-width="1"/>
-<text x="257.0" y="186.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">1 mātrā</text>
+<text x="257.0" y="186.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">1 mātrā</text>
 <rect x="410" y="154" width="306" height="48" fill="#e8dfcc" stroke="#cfc6b5" stroke-width="1"/>
-<text x="563.0" y="186.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">2 mātrās</text>
+<text x="563.0" y="186.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">2 mātrās</text>
 <rect x="716" y="154" width="306" height="48" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
-<text x="869.0" y="186.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">3 mātrās</text>
-<text x="1010.0" y="186.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="17" font-weight="400" font-style="italic" fill="#8b4b3d" text-anchor="end">Restricted</text>
-<rect x="104" y="202" width="102" height="50" fill="#f7f4ed" stroke="#cfc6b5" stroke-width="1"/>
-<text x="155.0" y="224.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="20" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">उ</text>
-<text x="155.0" y="244.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="17" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="middle">udātta</text>
-<rect x="206" y="202" width="102" height="50" fill="#f7f4ed" stroke="#cfc6b5" stroke-width="1"/>
-<text x="257.0" y="224.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="20" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">अ</text>
-<text x="257.0" y="244.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="17" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="middle">anudātta</text>
-<rect x="308" y="202" width="102" height="50" fill="#f7f4ed" stroke="#cfc6b5" stroke-width="1"/>
-<text x="359.0" y="224.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="20" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">स्व</text>
-<text x="359.0" y="244.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="17" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="middle">svarita</text>
-<rect x="410" y="202" width="102" height="50" fill="#f7f4ed" stroke="#cfc6b5" stroke-width="1"/>
-<text x="461.0" y="224.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="20" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">उ</text>
-<text x="461.0" y="244.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="17" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="middle">udātta</text>
-<rect x="512" y="202" width="102" height="50" fill="#f7f4ed" stroke="#cfc6b5" stroke-width="1"/>
-<text x="563.0" y="224.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="20" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">अ</text>
-<text x="563.0" y="244.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="17" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="middle">anudātta</text>
-<rect x="614" y="202" width="102" height="50" fill="#f7f4ed" stroke="#cfc6b5" stroke-width="1"/>
-<text x="665.0" y="224.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="20" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">स्व</text>
-<text x="665.0" y="244.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="17" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="middle">svarita</text>
-<rect x="716" y="202" width="102" height="50" fill="#f7f4ed" stroke="#cfc6b5" stroke-width="1"/>
-<text x="767.0" y="224.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="20" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">उ</text>
-<text x="767.0" y="244.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="17" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="middle">udātta</text>
-<rect x="818" y="202" width="102" height="50" fill="#f7f4ed" stroke="#cfc6b5" stroke-width="1"/>
-<text x="869.0" y="224.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="20" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">अ</text>
-<text x="869.0" y="244.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="17" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="middle">anudātta</text>
-<rect x="920" y="202" width="102" height="50" fill="#f7f4ed" stroke="#cfc6b5" stroke-width="1"/>
-<text x="971.0" y="224.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="20" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">स्व</text>
-<text x="971.0" y="244.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="17" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="middle">svarita</text>
-<text x="72.0" y="238.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="19" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="middle">family</text>
-<text x="1072.0" y="238.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="19" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="middle">total</text>
-<rect x="40" y="252" width="64" height="68" fill="#e8dfcc" stroke="#cfc6b5" stroke-width="1"/>
-<text x="72.0" y="297.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="31" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">अ</text>
-<rect x="104" y="252" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="155.0" y1="252" x2="155.0" y2="320" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 121.5,286.0 L 127.5,293.0 L 139.5,277.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 172.5,286.0 L 178.5,293.0 L 190.5,277.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="206" y="252" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="257.0" y1="252" x2="257.0" y2="320" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 223.5,286.0 L 229.5,293.0 L 241.5,277.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 274.5,286.0 L 280.5,293.0 L 292.5,277.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="308" y="252" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="359.0" y1="252" x2="359.0" y2="320" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 325.5,286.0 L 331.5,293.0 L 343.5,277.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 376.5,286.0 L 382.5,293.0 L 394.5,277.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="410" y="252" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="461.0" y1="252" x2="461.0" y2="320" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 427.5,286.0 L 433.5,293.0 L 445.5,277.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 478.5,286.0 L 484.5,293.0 L 496.5,277.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="512" y="252" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="563.0" y1="252" x2="563.0" y2="320" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 529.5,286.0 L 535.5,293.0 L 547.5,277.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 580.5,286.0 L 586.5,293.0 L 598.5,277.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="614" y="252" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="665.0" y1="252" x2="665.0" y2="320" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 631.5,286.0 L 637.5,293.0 L 649.5,277.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 682.5,286.0 L 688.5,293.0 L 700.5,277.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="716" y="252" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="767.0" y1="252" x2="767.0" y2="320" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 733.5,286.0 L 739.5,293.0 L 751.5,277.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 784.5,286.0 L 790.5,293.0 L 802.5,277.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="818" y="252" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="869.0" y1="252" x2="869.0" y2="320" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 835.5,286.0 L 841.5,293.0 L 853.5,277.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 886.5,286.0 L 892.5,293.0 L 904.5,277.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="920" y="252" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="971.0" y1="252" x2="971.0" y2="320" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 937.5,286.0 L 943.5,293.0 L 955.5,277.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 988.5,286.0 L 994.5,293.0 L 1006.5,277.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="1072.0" y="296.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">18</text>
-<rect x="40" y="320" width="64" height="68" fill="#e8dfcc" stroke="#cfc6b5" stroke-width="1"/>
-<text x="72.0" y="365.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="31" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">इ</text>
-<rect x="104" y="320" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="155.0" y1="320" x2="155.0" y2="388" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 121.5,354.0 L 127.5,361.0 L 139.5,345.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 172.5,354.0 L 178.5,361.0 L 190.5,345.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="206" y="320" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="257.0" y1="320" x2="257.0" y2="388" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 223.5,354.0 L 229.5,361.0 L 241.5,345.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 274.5,354.0 L 280.5,361.0 L 292.5,345.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="308" y="320" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="359.0" y1="320" x2="359.0" y2="388" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 325.5,354.0 L 331.5,361.0 L 343.5,345.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 376.5,354.0 L 382.5,361.0 L 394.5,345.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="410" y="320" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="461.0" y1="320" x2="461.0" y2="388" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 427.5,354.0 L 433.5,361.0 L 445.5,345.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 478.5,354.0 L 484.5,361.0 L 496.5,345.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="512" y="320" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="563.0" y1="320" x2="563.0" y2="388" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 529.5,354.0 L 535.5,361.0 L 547.5,345.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 580.5,354.0 L 586.5,361.0 L 598.5,345.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="614" y="320" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="665.0" y1="320" x2="665.0" y2="388" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 631.5,354.0 L 637.5,361.0 L 649.5,345.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 682.5,354.0 L 688.5,361.0 L 700.5,345.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="716" y="320" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="767.0" y1="320" x2="767.0" y2="388" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 733.5,354.0 L 739.5,361.0 L 751.5,345.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 784.5,354.0 L 790.5,361.0 L 802.5,345.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="818" y="320" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="869.0" y1="320" x2="869.0" y2="388" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 835.5,354.0 L 841.5,361.0 L 853.5,345.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 886.5,354.0 L 892.5,361.0 L 904.5,345.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="920" y="320" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="971.0" y1="320" x2="971.0" y2="388" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 937.5,354.0 L 943.5,361.0 L 955.5,345.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 988.5,354.0 L 994.5,361.0 L 1006.5,345.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="1072.0" y="364.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">18</text>
-<rect x="40" y="388" width="64" height="68" fill="#e8dfcc" stroke="#cfc6b5" stroke-width="1"/>
-<text x="72.0" y="433.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="31" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">उ</text>
-<rect x="104" y="388" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="155.0" y1="388" x2="155.0" y2="456" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 121.5,422.0 L 127.5,429.0 L 139.5,413.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 172.5,422.0 L 178.5,429.0 L 190.5,413.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="206" y="388" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="257.0" y1="388" x2="257.0" y2="456" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 223.5,422.0 L 229.5,429.0 L 241.5,413.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 274.5,422.0 L 280.5,429.0 L 292.5,413.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="308" y="388" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="359.0" y1="388" x2="359.0" y2="456" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 325.5,422.0 L 331.5,429.0 L 343.5,413.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 376.5,422.0 L 382.5,429.0 L 394.5,413.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="410" y="388" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="461.0" y1="388" x2="461.0" y2="456" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 427.5,422.0 L 433.5,429.0 L 445.5,413.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 478.5,422.0 L 484.5,429.0 L 496.5,413.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="512" y="388" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="563.0" y1="388" x2="563.0" y2="456" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 529.5,422.0 L 535.5,429.0 L 547.5,413.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 580.5,422.0 L 586.5,429.0 L 598.5,413.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="614" y="388" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="665.0" y1="388" x2="665.0" y2="456" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 631.5,422.0 L 637.5,429.0 L 649.5,413.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 682.5,422.0 L 688.5,429.0 L 700.5,413.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="716" y="388" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="767.0" y1="388" x2="767.0" y2="456" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 733.5,422.0 L 739.5,429.0 L 751.5,413.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 784.5,422.0 L 790.5,429.0 L 802.5,413.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="818" y="388" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="869.0" y1="388" x2="869.0" y2="456" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 835.5,422.0 L 841.5,429.0 L 853.5,413.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 886.5,422.0 L 892.5,429.0 L 904.5,413.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="920" y="388" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="971.0" y1="388" x2="971.0" y2="456" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 937.5,422.0 L 943.5,429.0 L 955.5,413.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 988.5,422.0 L 994.5,429.0 L 1006.5,413.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="1072.0" y="432.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">18</text>
-<rect x="40" y="456" width="64" height="68" fill="#e8dfcc" stroke="#cfc6b5" stroke-width="1"/>
-<text x="72.0" y="501.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="31" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">ऋ</text>
-<rect x="104" y="456" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="155.0" y1="456" x2="155.0" y2="524" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 121.5,490.0 L 127.5,497.0 L 139.5,481.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 172.5,490.0 L 178.5,497.0 L 190.5,481.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="206" y="456" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="257.0" y1="456" x2="257.0" y2="524" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 223.5,490.0 L 229.5,497.0 L 241.5,481.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 274.5,490.0 L 280.5,497.0 L 292.5,481.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="308" y="456" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="359.0" y1="456" x2="359.0" y2="524" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 325.5,490.0 L 331.5,497.0 L 343.5,481.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 376.5,490.0 L 382.5,497.0 L 394.5,481.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="410" y="456" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="461.0" y1="456" x2="461.0" y2="524" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 427.5,490.0 L 433.5,497.0 L 445.5,481.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 478.5,490.0 L 484.5,497.0 L 496.5,481.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="512" y="456" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="563.0" y1="456" x2="563.0" y2="524" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 529.5,490.0 L 535.5,497.0 L 547.5,481.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 580.5,490.0 L 586.5,497.0 L 598.5,481.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="614" y="456" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="665.0" y1="456" x2="665.0" y2="524" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 631.5,490.0 L 637.5,497.0 L 649.5,481.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 682.5,490.0 L 688.5,497.0 L 700.5,481.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="716" y="456" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="767.0" y1="456" x2="767.0" y2="524" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 733.5,490.0 L 739.5,497.0 L 751.5,481.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 784.5,490.0 L 790.5,497.0 L 802.5,481.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="818" y="456" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="869.0" y1="456" x2="869.0" y2="524" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 835.5,490.0 L 841.5,497.0 L 853.5,481.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 886.5,490.0 L 892.5,497.0 L 904.5,481.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="920" y="456" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="971.0" y1="456" x2="971.0" y2="524" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 937.5,490.0 L 943.5,497.0 L 955.5,481.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 988.5,490.0 L 994.5,497.0 L 1006.5,481.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="1072.0" y="500.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">18</text>
-<rect x="40" y="524" width="64" height="68" fill="#e8dfcc" stroke="#cfc6b5" stroke-width="1"/>
-<text x="72.0" y="569.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="31" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">ऌ</text>
-<rect x="104" y="524" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="155.0" y1="524" x2="155.0" y2="592" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 121.5,558.0 L 127.5,565.0 L 139.5,549.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 172.5,558.0 L 178.5,565.0 L 190.5,549.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="206" y="524" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="257.0" y1="524" x2="257.0" y2="592" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 223.5,558.0 L 229.5,565.0 L 241.5,549.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 274.5,558.0 L 280.5,565.0 L 292.5,549.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="308" y="524" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="359.0" y1="524" x2="359.0" y2="592" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 325.5,558.0 L 331.5,565.0 L 343.5,549.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 376.5,558.0 L 382.5,565.0 L 394.5,549.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="410" y="524" width="102" height="68" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="461.0" y1="524" x2="461.0" y2="592" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="425.5" y1="548.0" x2="445.5" y2="568.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="445.5" y1="548.0" x2="425.5" y2="568.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="476.5" y1="548.0" x2="496.5" y2="568.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="496.5" y1="548.0" x2="476.5" y2="568.0" stroke="#8b4b3d" stroke-width="2"/>
-<rect x="512" y="524" width="102" height="68" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="563.0" y1="524" x2="563.0" y2="592" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="527.5" y1="548.0" x2="547.5" y2="568.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="547.5" y1="548.0" x2="527.5" y2="568.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="578.5" y1="548.0" x2="598.5" y2="568.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="598.5" y1="548.0" x2="578.5" y2="568.0" stroke="#8b4b3d" stroke-width="2"/>
-<rect x="614" y="524" width="102" height="68" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="665.0" y1="524" x2="665.0" y2="592" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="629.5" y1="548.0" x2="649.5" y2="568.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="649.5" y1="548.0" x2="629.5" y2="568.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="680.5" y1="548.0" x2="700.5" y2="568.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="700.5" y1="548.0" x2="680.5" y2="568.0" stroke="#8b4b3d" stroke-width="2"/>
-<rect x="716" y="524" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="767.0" y1="524" x2="767.0" y2="592" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 733.5,558.0 L 739.5,565.0 L 751.5,549.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 784.5,558.0 L 790.5,565.0 L 802.5,549.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="818" y="524" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="869.0" y1="524" x2="869.0" y2="592" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 835.5,558.0 L 841.5,565.0 L 853.5,549.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 886.5,558.0 L 892.5,565.0 L 904.5,549.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="920" y="524" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="971.0" y1="524" x2="971.0" y2="592" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 937.5,558.0 L 943.5,565.0 L 955.5,549.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 988.5,558.0 L 994.5,565.0 L 1006.5,549.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="1072.0" y="568.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">12</text>
-<rect x="40" y="592" width="64" height="68" fill="#e8dfcc" stroke="#cfc6b5" stroke-width="1"/>
-<text x="72.0" y="637.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="31" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">ए</text>
-<rect x="104" y="592" width="102" height="68" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="155.0" y1="592" x2="155.0" y2="660" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="119.5" y1="616.0" x2="139.5" y2="636.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="139.5" y1="616.0" x2="119.5" y2="636.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="170.5" y1="616.0" x2="190.5" y2="636.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="190.5" y1="616.0" x2="170.5" y2="636.0" stroke="#8b4b3d" stroke-width="2"/>
-<rect x="206" y="592" width="102" height="68" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="257.0" y1="592" x2="257.0" y2="660" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="221.5" y1="616.0" x2="241.5" y2="636.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="241.5" y1="616.0" x2="221.5" y2="636.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="272.5" y1="616.0" x2="292.5" y2="636.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="292.5" y1="616.0" x2="272.5" y2="636.0" stroke="#8b4b3d" stroke-width="2"/>
-<rect x="308" y="592" width="102" height="68" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="359.0" y1="592" x2="359.0" y2="660" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="323.5" y1="616.0" x2="343.5" y2="636.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="343.5" y1="616.0" x2="323.5" y2="636.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="374.5" y1="616.0" x2="394.5" y2="636.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="394.5" y1="616.0" x2="374.5" y2="636.0" stroke="#8b4b3d" stroke-width="2"/>
-<rect x="410" y="592" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="461.0" y1="592" x2="461.0" y2="660" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 427.5,626.0 L 433.5,633.0 L 445.5,617.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 478.5,626.0 L 484.5,633.0 L 496.5,617.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="512" y="592" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="563.0" y1="592" x2="563.0" y2="660" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 529.5,626.0 L 535.5,633.0 L 547.5,617.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 580.5,626.0 L 586.5,633.0 L 598.5,617.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="614" y="592" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="665.0" y1="592" x2="665.0" y2="660" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 631.5,626.0 L 637.5,633.0 L 649.5,617.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 682.5,626.0 L 688.5,633.0 L 700.5,617.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="716" y="592" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="767.0" y1="592" x2="767.0" y2="660" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 733.5,626.0 L 739.5,633.0 L 751.5,617.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 784.5,626.0 L 790.5,633.0 L 802.5,617.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="818" y="592" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="869.0" y1="592" x2="869.0" y2="660" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 835.5,626.0 L 841.5,633.0 L 853.5,617.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 886.5,626.0 L 892.5,633.0 L 904.5,617.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="920" y="592" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="971.0" y1="592" x2="971.0" y2="660" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 937.5,626.0 L 943.5,633.0 L 955.5,617.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 988.5,626.0 L 994.5,633.0 L 1006.5,617.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="1072.0" y="636.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">12</text>
-<rect x="40" y="660" width="64" height="68" fill="#e8dfcc" stroke="#cfc6b5" stroke-width="1"/>
-<text x="72.0" y="705.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="31" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">ऐ</text>
-<rect x="104" y="660" width="102" height="68" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="155.0" y1="660" x2="155.0" y2="728" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="119.5" y1="684.0" x2="139.5" y2="704.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="139.5" y1="684.0" x2="119.5" y2="704.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="170.5" y1="684.0" x2="190.5" y2="704.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="190.5" y1="684.0" x2="170.5" y2="704.0" stroke="#8b4b3d" stroke-width="2"/>
-<rect x="206" y="660" width="102" height="68" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="257.0" y1="660" x2="257.0" y2="728" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="221.5" y1="684.0" x2="241.5" y2="704.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="241.5" y1="684.0" x2="221.5" y2="704.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="272.5" y1="684.0" x2="292.5" y2="704.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="292.5" y1="684.0" x2="272.5" y2="704.0" stroke="#8b4b3d" stroke-width="2"/>
-<rect x="308" y="660" width="102" height="68" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="359.0" y1="660" x2="359.0" y2="728" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="323.5" y1="684.0" x2="343.5" y2="704.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="343.5" y1="684.0" x2="323.5" y2="704.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="374.5" y1="684.0" x2="394.5" y2="704.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="394.5" y1="684.0" x2="374.5" y2="704.0" stroke="#8b4b3d" stroke-width="2"/>
-<rect x="410" y="660" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="461.0" y1="660" x2="461.0" y2="728" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 427.5,694.0 L 433.5,701.0 L 445.5,685.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 478.5,694.0 L 484.5,701.0 L 496.5,685.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="512" y="660" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="563.0" y1="660" x2="563.0" y2="728" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 529.5,694.0 L 535.5,701.0 L 547.5,685.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 580.5,694.0 L 586.5,701.0 L 598.5,685.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="614" y="660" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="665.0" y1="660" x2="665.0" y2="728" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 631.5,694.0 L 637.5,701.0 L 649.5,685.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 682.5,694.0 L 688.5,701.0 L 700.5,685.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="716" y="660" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="767.0" y1="660" x2="767.0" y2="728" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 733.5,694.0 L 739.5,701.0 L 751.5,685.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 784.5,694.0 L 790.5,701.0 L 802.5,685.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="818" y="660" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="869.0" y1="660" x2="869.0" y2="728" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 835.5,694.0 L 841.5,701.0 L 853.5,685.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 886.5,694.0 L 892.5,701.0 L 904.5,685.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="920" y="660" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="971.0" y1="660" x2="971.0" y2="728" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 937.5,694.0 L 943.5,701.0 L 955.5,685.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 988.5,694.0 L 994.5,701.0 L 1006.5,685.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="1072.0" y="704.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">12</text>
-<rect x="40" y="728" width="64" height="68" fill="#e8dfcc" stroke="#cfc6b5" stroke-width="1"/>
-<text x="72.0" y="773.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="31" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">ओ</text>
-<rect x="104" y="728" width="102" height="68" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="155.0" y1="728" x2="155.0" y2="796" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="119.5" y1="752.0" x2="139.5" y2="772.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="139.5" y1="752.0" x2="119.5" y2="772.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="170.5" y1="752.0" x2="190.5" y2="772.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="190.5" y1="752.0" x2="170.5" y2="772.0" stroke="#8b4b3d" stroke-width="2"/>
-<rect x="206" y="728" width="102" height="68" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="257.0" y1="728" x2="257.0" y2="796" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="221.5" y1="752.0" x2="241.5" y2="772.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="241.5" y1="752.0" x2="221.5" y2="772.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="272.5" y1="752.0" x2="292.5" y2="772.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="292.5" y1="752.0" x2="272.5" y2="772.0" stroke="#8b4b3d" stroke-width="2"/>
-<rect x="308" y="728" width="102" height="68" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="359.0" y1="728" x2="359.0" y2="796" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="323.5" y1="752.0" x2="343.5" y2="772.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="343.5" y1="752.0" x2="323.5" y2="772.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="374.5" y1="752.0" x2="394.5" y2="772.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="394.5" y1="752.0" x2="374.5" y2="772.0" stroke="#8b4b3d" stroke-width="2"/>
-<rect x="410" y="728" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="461.0" y1="728" x2="461.0" y2="796" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 427.5,762.0 L 433.5,769.0 L 445.5,753.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 478.5,762.0 L 484.5,769.0 L 496.5,753.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="512" y="728" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="563.0" y1="728" x2="563.0" y2="796" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 529.5,762.0 L 535.5,769.0 L 547.5,753.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 580.5,762.0 L 586.5,769.0 L 598.5,753.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="614" y="728" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="665.0" y1="728" x2="665.0" y2="796" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 631.5,762.0 L 637.5,769.0 L 649.5,753.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 682.5,762.0 L 688.5,769.0 L 700.5,753.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="716" y="728" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="767.0" y1="728" x2="767.0" y2="796" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 733.5,762.0 L 739.5,769.0 L 751.5,753.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 784.5,762.0 L 790.5,769.0 L 802.5,753.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="818" y="728" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="869.0" y1="728" x2="869.0" y2="796" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 835.5,762.0 L 841.5,769.0 L 853.5,753.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 886.5,762.0 L 892.5,769.0 L 904.5,753.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="920" y="728" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="971.0" y1="728" x2="971.0" y2="796" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 937.5,762.0 L 943.5,769.0 L 955.5,753.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 988.5,762.0 L 994.5,769.0 L 1006.5,753.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="1072.0" y="772.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">12</text>
-<rect x="40" y="796" width="64" height="68" fill="#e8dfcc" stroke="#cfc6b5" stroke-width="1"/>
-<text x="72.0" y="841.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="31" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">औ</text>
-<rect x="104" y="796" width="102" height="68" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="155.0" y1="796" x2="155.0" y2="864" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="119.5" y1="820.0" x2="139.5" y2="840.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="139.5" y1="820.0" x2="119.5" y2="840.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="170.5" y1="820.0" x2="190.5" y2="840.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="190.5" y1="820.0" x2="170.5" y2="840.0" stroke="#8b4b3d" stroke-width="2"/>
-<rect x="206" y="796" width="102" height="68" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="257.0" y1="796" x2="257.0" y2="864" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="221.5" y1="820.0" x2="241.5" y2="840.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="241.5" y1="820.0" x2="221.5" y2="840.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="272.5" y1="820.0" x2="292.5" y2="840.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="292.5" y1="820.0" x2="272.5" y2="840.0" stroke="#8b4b3d" stroke-width="2"/>
-<rect x="308" y="796" width="102" height="68" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="359.0" y1="796" x2="359.0" y2="864" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="323.5" y1="820.0" x2="343.5" y2="840.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="343.5" y1="820.0" x2="323.5" y2="840.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="374.5" y1="820.0" x2="394.5" y2="840.0" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="394.5" y1="820.0" x2="374.5" y2="840.0" stroke="#8b4b3d" stroke-width="2"/>
-<rect x="410" y="796" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="461.0" y1="796" x2="461.0" y2="864" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 427.5,830.0 L 433.5,837.0 L 445.5,821.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 478.5,830.0 L 484.5,837.0 L 496.5,821.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="512" y="796" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="563.0" y1="796" x2="563.0" y2="864" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 529.5,830.0 L 535.5,837.0 L 547.5,821.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 580.5,830.0 L 586.5,837.0 L 598.5,821.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="614" y="796" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="665.0" y1="796" x2="665.0" y2="864" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 631.5,830.0 L 637.5,837.0 L 649.5,821.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 682.5,830.0 L 688.5,837.0 L 700.5,821.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="716" y="796" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="767.0" y1="796" x2="767.0" y2="864" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 733.5,830.0 L 739.5,837.0 L 751.5,821.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 784.5,830.0 L 790.5,837.0 L 802.5,821.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="818" y="796" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="869.0" y1="796" x2="869.0" y2="864" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 835.5,830.0 L 841.5,837.0 L 853.5,821.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 886.5,830.0 L 892.5,837.0 L 904.5,821.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="920" y="796" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="971.0" y1="796" x2="971.0" y2="864" stroke="#cfc6b5" stroke-width="1"/>
-<path d="M 937.5,830.0 L 943.5,837.0 L 955.5,821.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 988.5,830.0 L 994.5,837.0 L 1006.5,821.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="1072.0" y="840.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">12</text>
-<path d="M 60.0,904.0 L 66.0,911.0 L 78.0,895.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="88.0" y="912.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="19" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">selected form</text>
-<line x1="307" y1="894" x2="327" y2="914" stroke="#8b4b3d" stroke-width="2"/>
-<line x1="327" y1="894" x2="307" y2="914" stroke="#8b4b3d" stroke-width="2"/>
-<text x="339.0" y="912.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="19" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">Excluded</text>
-<rect x="492" y="884" width="28" height="28" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
-<text x="532.0" y="912.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="19" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">Restricted: pluta</text>
-<rect x="747" y="884" width="28" height="28" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
-<line x1="761" y1="884" x2="761" y2="912" stroke="#cfc6b5" stroke-width="1"/>
-<text x="787.0" y="903.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="17" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">oral</text>
-<text x="787.0" y="922.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="17" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">nasal</text>
-<rect x="54" y="946" width="1092" height="66" rx="4" fill="#e8dfcc" stroke="#cfc6b5" stroke-width="1"/>
-<text x="76.0" y="974.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="19" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">Lineage-Bounded:</text>
-<text x="222.0" y="974.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="19" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">half-ए and half-ओ remain outside the regular matrix.</text>
-<text x="76.0" y="998.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="19" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">They are preserved where the inherited Sāmavedic lineages require them.</text>
-<rect x="54" y="1044" width="1092" height="64" fill="#29251f"/>
-<text x="600.0" y="1085.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="28" font-weight="600" font-style="normal" fill="#f7f4ed" text-anchor="middle">162 possible positions − 30 Excluded = 132 selected forms</text>
-<text x="600.0" y="1142.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="17" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="middle">A check marks an analytically selected form, not a claim of surviving textual occurrence.</text>
+<text x="869.0" y="186.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="26" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">3 mātrās</text>
+<text x="1010.0" y="186.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="22" font-weight="400" font-style="italic" fill="#8b4b3d" text-anchor="end">Restricted</text>
+<rect x="104" y="202" width="102" height="76" fill="#f7f4ed" stroke="#cfc6b5" stroke-width="1"/>
+<text x="155.0" y="236.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="36" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">उदात्त</text>
+<text x="155.0" y="268.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="24" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="middle">udātta</text>
+<rect x="206" y="202" width="102" height="76" fill="#f7f4ed" stroke="#cfc6b5" stroke-width="1"/>
+<text x="257.0" y="236.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="36" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">अनुदात्त</text>
+<text x="257.0" y="268.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="24" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="middle">anudātta</text>
+<rect x="308" y="202" width="102" height="76" fill="#f7f4ed" stroke="#cfc6b5" stroke-width="1"/>
+<text x="359.0" y="236.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="36" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">स्वरित</text>
+<text x="359.0" y="268.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="24" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="middle">svarita</text>
+<rect x="410" y="202" width="102" height="76" fill="#f7f4ed" stroke="#cfc6b5" stroke-width="1"/>
+<text x="461.0" y="236.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="36" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">उदात्त</text>
+<text x="461.0" y="268.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="24" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="middle">udātta</text>
+<rect x="512" y="202" width="102" height="76" fill="#f7f4ed" stroke="#cfc6b5" stroke-width="1"/>
+<text x="563.0" y="236.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="36" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">अनुदात्त</text>
+<text x="563.0" y="268.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="24" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="middle">anudātta</text>
+<rect x="614" y="202" width="102" height="76" fill="#f7f4ed" stroke="#cfc6b5" stroke-width="1"/>
+<text x="665.0" y="236.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="36" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">स्वरित</text>
+<text x="665.0" y="268.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="24" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="middle">svarita</text>
+<rect x="716" y="202" width="102" height="76" fill="#f7f4ed" stroke="#cfc6b5" stroke-width="1"/>
+<text x="767.0" y="236.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="36" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">उदात्त</text>
+<text x="767.0" y="268.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="24" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="middle">udātta</text>
+<rect x="818" y="202" width="102" height="76" fill="#f7f4ed" stroke="#cfc6b5" stroke-width="1"/>
+<text x="869.0" y="236.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="36" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">अनुदात्त</text>
+<text x="869.0" y="268.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="24" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="middle">anudātta</text>
+<rect x="920" y="202" width="102" height="76" fill="#f7f4ed" stroke="#cfc6b5" stroke-width="1"/>
+<text x="971.0" y="236.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="36" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">स्वरित</text>
+<text x="971.0" y="268.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="24" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="middle">svarita</text>
+<text x="70.0" y="252.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="middle">family</text>
+<text x="1072.0" y="252.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="middle">total</text>
+<rect x="40" y="278" width="64" height="68" fill="#e8dfcc" stroke="#cfc6b5" stroke-width="1"/>
+<text x="72.0" y="323.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="31" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">अ</text>
+<rect x="104" y="278" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="155.0" y1="278" x2="155.0" y2="346" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 121.5,312.0 L 127.5,319.0 L 139.5,303.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 172.5,312.0 L 178.5,319.0 L 190.5,303.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="206" y="278" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="257.0" y1="278" x2="257.0" y2="346" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 223.5,312.0 L 229.5,319.0 L 241.5,303.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 274.5,312.0 L 280.5,319.0 L 292.5,303.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="308" y="278" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="359.0" y1="278" x2="359.0" y2="346" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 325.5,312.0 L 331.5,319.0 L 343.5,303.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 376.5,312.0 L 382.5,319.0 L 394.5,303.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="410" y="278" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="461.0" y1="278" x2="461.0" y2="346" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 427.5,312.0 L 433.5,319.0 L 445.5,303.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 478.5,312.0 L 484.5,319.0 L 496.5,303.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="512" y="278" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="563.0" y1="278" x2="563.0" y2="346" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 529.5,312.0 L 535.5,319.0 L 547.5,303.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 580.5,312.0 L 586.5,319.0 L 598.5,303.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="614" y="278" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="665.0" y1="278" x2="665.0" y2="346" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 631.5,312.0 L 637.5,319.0 L 649.5,303.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 682.5,312.0 L 688.5,319.0 L 700.5,303.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="716" y="278" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="767.0" y1="278" x2="767.0" y2="346" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 733.5,312.0 L 739.5,319.0 L 751.5,303.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 784.5,312.0 L 790.5,319.0 L 802.5,303.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="818" y="278" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="869.0" y1="278" x2="869.0" y2="346" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 835.5,312.0 L 841.5,319.0 L 853.5,303.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 886.5,312.0 L 892.5,319.0 L 904.5,303.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="920" y="278" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="971.0" y1="278" x2="971.0" y2="346" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 937.5,312.0 L 943.5,319.0 L 955.5,303.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 988.5,312.0 L 994.5,319.0 L 1006.5,303.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1072.0" y="322.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">18</text>
+<rect x="40" y="346" width="64" height="68" fill="#e8dfcc" stroke="#cfc6b5" stroke-width="1"/>
+<text x="72.0" y="391.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="31" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">इ</text>
+<rect x="104" y="346" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="155.0" y1="346" x2="155.0" y2="414" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 121.5,380.0 L 127.5,387.0 L 139.5,371.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 172.5,380.0 L 178.5,387.0 L 190.5,371.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="206" y="346" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="257.0" y1="346" x2="257.0" y2="414" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 223.5,380.0 L 229.5,387.0 L 241.5,371.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 274.5,380.0 L 280.5,387.0 L 292.5,371.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="308" y="346" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="359.0" y1="346" x2="359.0" y2="414" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 325.5,380.0 L 331.5,387.0 L 343.5,371.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 376.5,380.0 L 382.5,387.0 L 394.5,371.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="410" y="346" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="461.0" y1="346" x2="461.0" y2="414" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 427.5,380.0 L 433.5,387.0 L 445.5,371.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 478.5,380.0 L 484.5,387.0 L 496.5,371.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="512" y="346" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="563.0" y1="346" x2="563.0" y2="414" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 529.5,380.0 L 535.5,387.0 L 547.5,371.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 580.5,380.0 L 586.5,387.0 L 598.5,371.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="614" y="346" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="665.0" y1="346" x2="665.0" y2="414" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 631.5,380.0 L 637.5,387.0 L 649.5,371.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 682.5,380.0 L 688.5,387.0 L 700.5,371.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="716" y="346" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="767.0" y1="346" x2="767.0" y2="414" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 733.5,380.0 L 739.5,387.0 L 751.5,371.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 784.5,380.0 L 790.5,387.0 L 802.5,371.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="818" y="346" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="869.0" y1="346" x2="869.0" y2="414" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 835.5,380.0 L 841.5,387.0 L 853.5,371.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 886.5,380.0 L 892.5,387.0 L 904.5,371.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="920" y="346" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="971.0" y1="346" x2="971.0" y2="414" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 937.5,380.0 L 943.5,387.0 L 955.5,371.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 988.5,380.0 L 994.5,387.0 L 1006.5,371.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1072.0" y="390.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">18</text>
+<rect x="40" y="414" width="64" height="68" fill="#e8dfcc" stroke="#cfc6b5" stroke-width="1"/>
+<text x="72.0" y="459.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="31" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">उ</text>
+<rect x="104" y="414" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="155.0" y1="414" x2="155.0" y2="482" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 121.5,448.0 L 127.5,455.0 L 139.5,439.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 172.5,448.0 L 178.5,455.0 L 190.5,439.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="206" y="414" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="257.0" y1="414" x2="257.0" y2="482" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 223.5,448.0 L 229.5,455.0 L 241.5,439.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 274.5,448.0 L 280.5,455.0 L 292.5,439.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="308" y="414" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="359.0" y1="414" x2="359.0" y2="482" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 325.5,448.0 L 331.5,455.0 L 343.5,439.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 376.5,448.0 L 382.5,455.0 L 394.5,439.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="410" y="414" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="461.0" y1="414" x2="461.0" y2="482" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 427.5,448.0 L 433.5,455.0 L 445.5,439.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 478.5,448.0 L 484.5,455.0 L 496.5,439.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="512" y="414" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="563.0" y1="414" x2="563.0" y2="482" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 529.5,448.0 L 535.5,455.0 L 547.5,439.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 580.5,448.0 L 586.5,455.0 L 598.5,439.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="614" y="414" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="665.0" y1="414" x2="665.0" y2="482" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 631.5,448.0 L 637.5,455.0 L 649.5,439.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 682.5,448.0 L 688.5,455.0 L 700.5,439.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="716" y="414" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="767.0" y1="414" x2="767.0" y2="482" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 733.5,448.0 L 739.5,455.0 L 751.5,439.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 784.5,448.0 L 790.5,455.0 L 802.5,439.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="818" y="414" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="869.0" y1="414" x2="869.0" y2="482" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 835.5,448.0 L 841.5,455.0 L 853.5,439.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 886.5,448.0 L 892.5,455.0 L 904.5,439.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="920" y="414" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="971.0" y1="414" x2="971.0" y2="482" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 937.5,448.0 L 943.5,455.0 L 955.5,439.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 988.5,448.0 L 994.5,455.0 L 1006.5,439.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1072.0" y="458.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">18</text>
+<rect x="40" y="482" width="64" height="68" fill="#e8dfcc" stroke="#cfc6b5" stroke-width="1"/>
+<text x="72.0" y="527.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="31" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">ऋ</text>
+<rect x="104" y="482" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="155.0" y1="482" x2="155.0" y2="550" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 121.5,516.0 L 127.5,523.0 L 139.5,507.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 172.5,516.0 L 178.5,523.0 L 190.5,507.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="206" y="482" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="257.0" y1="482" x2="257.0" y2="550" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 223.5,516.0 L 229.5,523.0 L 241.5,507.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 274.5,516.0 L 280.5,523.0 L 292.5,507.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="308" y="482" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="359.0" y1="482" x2="359.0" y2="550" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 325.5,516.0 L 331.5,523.0 L 343.5,507.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 376.5,516.0 L 382.5,523.0 L 394.5,507.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="410" y="482" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="461.0" y1="482" x2="461.0" y2="550" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 427.5,516.0 L 433.5,523.0 L 445.5,507.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 478.5,516.0 L 484.5,523.0 L 496.5,507.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="512" y="482" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="563.0" y1="482" x2="563.0" y2="550" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 529.5,516.0 L 535.5,523.0 L 547.5,507.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 580.5,516.0 L 586.5,523.0 L 598.5,507.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="614" y="482" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="665.0" y1="482" x2="665.0" y2="550" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 631.5,516.0 L 637.5,523.0 L 649.5,507.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 682.5,516.0 L 688.5,523.0 L 700.5,507.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="716" y="482" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="767.0" y1="482" x2="767.0" y2="550" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 733.5,516.0 L 739.5,523.0 L 751.5,507.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 784.5,516.0 L 790.5,523.0 L 802.5,507.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="818" y="482" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="869.0" y1="482" x2="869.0" y2="550" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 835.5,516.0 L 841.5,523.0 L 853.5,507.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 886.5,516.0 L 892.5,523.0 L 904.5,507.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="920" y="482" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="971.0" y1="482" x2="971.0" y2="550" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 937.5,516.0 L 943.5,523.0 L 955.5,507.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 988.5,516.0 L 994.5,523.0 L 1006.5,507.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1072.0" y="526.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">18</text>
+<rect x="40" y="550" width="64" height="68" fill="#e8dfcc" stroke="#cfc6b5" stroke-width="1"/>
+<text x="72.0" y="595.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="31" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">ऌ</text>
+<rect x="104" y="550" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="155.0" y1="550" x2="155.0" y2="618" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 121.5,584.0 L 127.5,591.0 L 139.5,575.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 172.5,584.0 L 178.5,591.0 L 190.5,575.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="206" y="550" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="257.0" y1="550" x2="257.0" y2="618" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 223.5,584.0 L 229.5,591.0 L 241.5,575.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 274.5,584.0 L 280.5,591.0 L 292.5,575.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="308" y="550" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="359.0" y1="550" x2="359.0" y2="618" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 325.5,584.0 L 331.5,591.0 L 343.5,575.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 376.5,584.0 L 382.5,591.0 L 394.5,575.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="410" y="550" width="102" height="68" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="461.0" y1="550" x2="461.0" y2="618" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="425.5" y1="574.0" x2="445.5" y2="594.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="445.5" y1="574.0" x2="425.5" y2="594.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="476.5" y1="574.0" x2="496.5" y2="594.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="496.5" y1="574.0" x2="476.5" y2="594.0" stroke="#8b4b3d" stroke-width="2"/>
+<rect x="512" y="550" width="102" height="68" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="563.0" y1="550" x2="563.0" y2="618" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="527.5" y1="574.0" x2="547.5" y2="594.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="547.5" y1="574.0" x2="527.5" y2="594.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="578.5" y1="574.0" x2="598.5" y2="594.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="598.5" y1="574.0" x2="578.5" y2="594.0" stroke="#8b4b3d" stroke-width="2"/>
+<rect x="614" y="550" width="102" height="68" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="665.0" y1="550" x2="665.0" y2="618" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="629.5" y1="574.0" x2="649.5" y2="594.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="649.5" y1="574.0" x2="629.5" y2="594.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="680.5" y1="574.0" x2="700.5" y2="594.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="700.5" y1="574.0" x2="680.5" y2="594.0" stroke="#8b4b3d" stroke-width="2"/>
+<rect x="716" y="550" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="767.0" y1="550" x2="767.0" y2="618" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 733.5,584.0 L 739.5,591.0 L 751.5,575.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 784.5,584.0 L 790.5,591.0 L 802.5,575.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="818" y="550" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="869.0" y1="550" x2="869.0" y2="618" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 835.5,584.0 L 841.5,591.0 L 853.5,575.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 886.5,584.0 L 892.5,591.0 L 904.5,575.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="920" y="550" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="971.0" y1="550" x2="971.0" y2="618" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 937.5,584.0 L 943.5,591.0 L 955.5,575.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 988.5,584.0 L 994.5,591.0 L 1006.5,575.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1072.0" y="594.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">12</text>
+<rect x="40" y="618" width="64" height="68" fill="#e8dfcc" stroke="#cfc6b5" stroke-width="1"/>
+<text x="72.0" y="663.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="31" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">ए</text>
+<rect x="104" y="618" width="102" height="68" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="155.0" y1="618" x2="155.0" y2="686" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="119.5" y1="642.0" x2="139.5" y2="662.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="139.5" y1="642.0" x2="119.5" y2="662.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="170.5" y1="642.0" x2="190.5" y2="662.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="190.5" y1="642.0" x2="170.5" y2="662.0" stroke="#8b4b3d" stroke-width="2"/>
+<rect x="206" y="618" width="102" height="68" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="257.0" y1="618" x2="257.0" y2="686" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="221.5" y1="642.0" x2="241.5" y2="662.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="241.5" y1="642.0" x2="221.5" y2="662.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="272.5" y1="642.0" x2="292.5" y2="662.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="292.5" y1="642.0" x2="272.5" y2="662.0" stroke="#8b4b3d" stroke-width="2"/>
+<rect x="308" y="618" width="102" height="68" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="359.0" y1="618" x2="359.0" y2="686" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="323.5" y1="642.0" x2="343.5" y2="662.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="343.5" y1="642.0" x2="323.5" y2="662.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="374.5" y1="642.0" x2="394.5" y2="662.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="394.5" y1="642.0" x2="374.5" y2="662.0" stroke="#8b4b3d" stroke-width="2"/>
+<rect x="410" y="618" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="461.0" y1="618" x2="461.0" y2="686" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 427.5,652.0 L 433.5,659.0 L 445.5,643.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 478.5,652.0 L 484.5,659.0 L 496.5,643.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="512" y="618" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="563.0" y1="618" x2="563.0" y2="686" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 529.5,652.0 L 535.5,659.0 L 547.5,643.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 580.5,652.0 L 586.5,659.0 L 598.5,643.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="614" y="618" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="665.0" y1="618" x2="665.0" y2="686" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 631.5,652.0 L 637.5,659.0 L 649.5,643.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 682.5,652.0 L 688.5,659.0 L 700.5,643.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="716" y="618" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="767.0" y1="618" x2="767.0" y2="686" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 733.5,652.0 L 739.5,659.0 L 751.5,643.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 784.5,652.0 L 790.5,659.0 L 802.5,643.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="818" y="618" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="869.0" y1="618" x2="869.0" y2="686" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 835.5,652.0 L 841.5,659.0 L 853.5,643.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 886.5,652.0 L 892.5,659.0 L 904.5,643.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="920" y="618" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="971.0" y1="618" x2="971.0" y2="686" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 937.5,652.0 L 943.5,659.0 L 955.5,643.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 988.5,652.0 L 994.5,659.0 L 1006.5,643.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1072.0" y="662.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">12</text>
+<rect x="40" y="686" width="64" height="68" fill="#e8dfcc" stroke="#cfc6b5" stroke-width="1"/>
+<text x="72.0" y="731.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="31" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">ऐ</text>
+<rect x="104" y="686" width="102" height="68" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="155.0" y1="686" x2="155.0" y2="754" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="119.5" y1="710.0" x2="139.5" y2="730.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="139.5" y1="710.0" x2="119.5" y2="730.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="170.5" y1="710.0" x2="190.5" y2="730.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="190.5" y1="710.0" x2="170.5" y2="730.0" stroke="#8b4b3d" stroke-width="2"/>
+<rect x="206" y="686" width="102" height="68" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="257.0" y1="686" x2="257.0" y2="754" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="221.5" y1="710.0" x2="241.5" y2="730.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="241.5" y1="710.0" x2="221.5" y2="730.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="272.5" y1="710.0" x2="292.5" y2="730.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="292.5" y1="710.0" x2="272.5" y2="730.0" stroke="#8b4b3d" stroke-width="2"/>
+<rect x="308" y="686" width="102" height="68" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="359.0" y1="686" x2="359.0" y2="754" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="323.5" y1="710.0" x2="343.5" y2="730.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="343.5" y1="710.0" x2="323.5" y2="730.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="374.5" y1="710.0" x2="394.5" y2="730.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="394.5" y1="710.0" x2="374.5" y2="730.0" stroke="#8b4b3d" stroke-width="2"/>
+<rect x="410" y="686" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="461.0" y1="686" x2="461.0" y2="754" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 427.5,720.0 L 433.5,727.0 L 445.5,711.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 478.5,720.0 L 484.5,727.0 L 496.5,711.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="512" y="686" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="563.0" y1="686" x2="563.0" y2="754" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 529.5,720.0 L 535.5,727.0 L 547.5,711.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 580.5,720.0 L 586.5,727.0 L 598.5,711.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="614" y="686" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="665.0" y1="686" x2="665.0" y2="754" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 631.5,720.0 L 637.5,727.0 L 649.5,711.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 682.5,720.0 L 688.5,727.0 L 700.5,711.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="716" y="686" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="767.0" y1="686" x2="767.0" y2="754" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 733.5,720.0 L 739.5,727.0 L 751.5,711.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 784.5,720.0 L 790.5,727.0 L 802.5,711.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="818" y="686" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="869.0" y1="686" x2="869.0" y2="754" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 835.5,720.0 L 841.5,727.0 L 853.5,711.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 886.5,720.0 L 892.5,727.0 L 904.5,711.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="920" y="686" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="971.0" y1="686" x2="971.0" y2="754" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 937.5,720.0 L 943.5,727.0 L 955.5,711.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 988.5,720.0 L 994.5,727.0 L 1006.5,711.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1072.0" y="730.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">12</text>
+<rect x="40" y="754" width="64" height="68" fill="#e8dfcc" stroke="#cfc6b5" stroke-width="1"/>
+<text x="72.0" y="799.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="31" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">ओ</text>
+<rect x="104" y="754" width="102" height="68" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="155.0" y1="754" x2="155.0" y2="822" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="119.5" y1="778.0" x2="139.5" y2="798.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="139.5" y1="778.0" x2="119.5" y2="798.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="170.5" y1="778.0" x2="190.5" y2="798.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="190.5" y1="778.0" x2="170.5" y2="798.0" stroke="#8b4b3d" stroke-width="2"/>
+<rect x="206" y="754" width="102" height="68" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="257.0" y1="754" x2="257.0" y2="822" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="221.5" y1="778.0" x2="241.5" y2="798.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="241.5" y1="778.0" x2="221.5" y2="798.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="272.5" y1="778.0" x2="292.5" y2="798.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="292.5" y1="778.0" x2="272.5" y2="798.0" stroke="#8b4b3d" stroke-width="2"/>
+<rect x="308" y="754" width="102" height="68" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="359.0" y1="754" x2="359.0" y2="822" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="323.5" y1="778.0" x2="343.5" y2="798.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="343.5" y1="778.0" x2="323.5" y2="798.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="374.5" y1="778.0" x2="394.5" y2="798.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="394.5" y1="778.0" x2="374.5" y2="798.0" stroke="#8b4b3d" stroke-width="2"/>
+<rect x="410" y="754" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="461.0" y1="754" x2="461.0" y2="822" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 427.5,788.0 L 433.5,795.0 L 445.5,779.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 478.5,788.0 L 484.5,795.0 L 496.5,779.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="512" y="754" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="563.0" y1="754" x2="563.0" y2="822" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 529.5,788.0 L 535.5,795.0 L 547.5,779.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 580.5,788.0 L 586.5,795.0 L 598.5,779.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="614" y="754" width="102" height="68" fill="#e3dac7" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="665.0" y1="754" x2="665.0" y2="822" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 631.5,788.0 L 637.5,795.0 L 649.5,779.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 682.5,788.0 L 688.5,795.0 L 700.5,779.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="716" y="754" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="767.0" y1="754" x2="767.0" y2="822" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 733.5,788.0 L 739.5,795.0 L 751.5,779.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 784.5,788.0 L 790.5,795.0 L 802.5,779.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="818" y="754" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="869.0" y1="754" x2="869.0" y2="822" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 835.5,788.0 L 841.5,795.0 L 853.5,779.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 886.5,788.0 L 892.5,795.0 L 904.5,779.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="920" y="754" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="971.0" y1="754" x2="971.0" y2="822" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 937.5,788.0 L 943.5,795.0 L 955.5,779.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 988.5,788.0 L 994.5,795.0 L 1006.5,779.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1072.0" y="798.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">12</text>
+<rect x="40" y="822" width="64" height="68" fill="#e8dfcc" stroke="#cfc6b5" stroke-width="1"/>
+<text x="72.0" y="867.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="31" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">औ</text>
+<rect x="104" y="822" width="102" height="68" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="155.0" y1="822" x2="155.0" y2="890" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="119.5" y1="846.0" x2="139.5" y2="866.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="139.5" y1="846.0" x2="119.5" y2="866.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="170.5" y1="846.0" x2="190.5" y2="866.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="190.5" y1="846.0" x2="170.5" y2="866.0" stroke="#8b4b3d" stroke-width="2"/>
+<rect x="206" y="822" width="102" height="68" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="257.0" y1="822" x2="257.0" y2="890" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="221.5" y1="846.0" x2="241.5" y2="866.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="241.5" y1="846.0" x2="221.5" y2="866.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="272.5" y1="846.0" x2="292.5" y2="866.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="292.5" y1="846.0" x2="272.5" y2="866.0" stroke="#8b4b3d" stroke-width="2"/>
+<rect x="308" y="822" width="102" height="68" fill="#e4e1da" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="359.0" y1="822" x2="359.0" y2="890" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="323.5" y1="846.0" x2="343.5" y2="866.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="343.5" y1="846.0" x2="323.5" y2="866.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="374.5" y1="846.0" x2="394.5" y2="866.0" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="394.5" y1="846.0" x2="374.5" y2="866.0" stroke="#8b4b3d" stroke-width="2"/>
+<rect x="410" y="822" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="461.0" y1="822" x2="461.0" y2="890" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 427.5,856.0 L 433.5,863.0 L 445.5,847.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 478.5,856.0 L 484.5,863.0 L 496.5,847.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="512" y="822" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="563.0" y1="822" x2="563.0" y2="890" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 529.5,856.0 L 535.5,863.0 L 547.5,847.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 580.5,856.0 L 586.5,863.0 L 598.5,847.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="614" y="822" width="102" height="68" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="665.0" y1="822" x2="665.0" y2="890" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 631.5,856.0 L 637.5,863.0 L 649.5,847.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 682.5,856.0 L 688.5,863.0 L 700.5,847.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="716" y="822" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="767.0" y1="822" x2="767.0" y2="890" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 733.5,856.0 L 739.5,863.0 L 751.5,847.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 784.5,856.0 L 790.5,863.0 L 802.5,847.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="818" y="822" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="869.0" y1="822" x2="869.0" y2="890" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 835.5,856.0 L 841.5,863.0 L 853.5,847.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 886.5,856.0 L 892.5,863.0 L 904.5,847.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="920" y="822" width="102" height="68" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="971.0" y1="822" x2="971.0" y2="890" stroke="#cfc6b5" stroke-width="1"/>
+<path d="M 937.5,856.0 L 943.5,863.0 L 955.5,847.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 988.5,856.0 L 994.5,863.0 L 1006.5,847.0" fill="none" stroke="#29251f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1072.0" y="866.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="25" font-weight="600" font-style="normal" fill="#29251f" text-anchor="middle">12</text>
+<path d="M 60.0,930.0 L 66.0,937.0 L 78.0,921.0" fill="none" stroke="#9d7c36" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="88.0" y="940.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="30" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">selected form</text>
+<line x1="307" y1="920" x2="327" y2="940" stroke="#8b4b3d" stroke-width="2"/>
+<line x1="327" y1="920" x2="307" y2="940" stroke="#8b4b3d" stroke-width="2"/>
+<text x="339.0" y="940.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="30" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">Excluded</text>
+<rect x="492" y="908" width="34" height="34" fill="#d4c6a8" stroke="#cfc6b5" stroke-width="1"/>
+<text x="538.0" y="940.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="30" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">Restricted: pluta</text>
+<rect x="747" y="908" width="34" height="34" fill="#eee9de" stroke="#cfc6b5" stroke-width="1"/>
+<line x1="764" y1="908" x2="764" y2="942" stroke="#cfc6b5" stroke-width="1"/>
+<text x="793.0" y="928.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">oral</text>
+<text x="793.0" y="954.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="23" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">nasal</text>
+<rect x="54" y="986" width="1092" height="92" rx="4" fill="#e8dfcc" stroke="#cfc6b5" stroke-width="1"/>
+<text x="76.0" y="1022.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="30" font-weight="600" font-style="normal" fill="#9d7c36" text-anchor="start">Lineage-Bounded:</text>
+<text x="306.0" y="1022.0" font-family="Adobe Devanagari, Noto Serif Devanagari, serif" font-size="30" font-weight="400" font-style="normal" fill="#29251f" text-anchor="start">half-ए and half-ओ remain outside the regular matrix.</text>
+<text x="76.0" y="1060.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="30" font-weight="400" font-style="normal" fill="#6e675d" text-anchor="start">They are preserved where the inherited Sāmavedic lineages require them.</text>
+<rect x="54" y="1110" width="1092" height="84" fill="#29251f"/>
+<text x="600.0" y="1165.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="40" font-weight="600" font-style="normal" fill="#f7f4ed" text-anchor="middle">162 possible positions − 30 Excluded = 132 selected forms</text>
+<text x="600.0" y="1260.0" font-family="EB Garamond, Charter, Georgia, serif" font-size="30" font-weight="400" font-style="italic" fill="#6e675d" text-anchor="middle">A check marks an analytically selected form, not a claim of surviving textual occurrence.</text>
 </svg>
