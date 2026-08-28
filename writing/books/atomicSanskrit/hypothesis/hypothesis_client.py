@@ -146,6 +146,27 @@ class HypothesisClient:
             "text": text,
             "tags": tags or [],
         }
+        # `group` is genuinely ignored for ROUTING on a reply (the server
+        # always files it under the parent's group), which is why this was
+        # omitted originally. But omitting it ALSO makes the server ignore
+        # `permissions` and fall back to private -- read: ["acct:<author>"]
+        # -- so the reply becomes invisible to every other member of the
+        # group, including anyone whose token later pulls the thread.
+        #
+        # That went unnoticed here because the owner's own pull token can
+        # always see the owner's own private replies, so the dashboard
+        # looked correct. It was not: readers following a link into the
+        # Hypothesis sidebar could never see any reply we had posted.
+        # Surfaced 2026-08-28 when reader-authored replies (same code path,
+        # different account) posted HTTP 200 and then vanished from every
+        # dashboard, because the OWNER's token could not see them either.
+        #
+        # Sending both fields makes read stick as ["group:<id>"]. Guarded
+        # because a caller may pass a parent that predates group_id.
+        group_id = parent.get("group_id") or parent.get("group")
+        if group_id:
+            body["group"] = group_id
+            body["permissions"] = {"read": [f"group:{group_id}"]}
         return self._request("POST", "/annotations", body=body)
 
     def create_annotation(self, *, uri: str, text: str, tags: list[str],

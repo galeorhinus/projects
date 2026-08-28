@@ -1768,7 +1768,28 @@ async function postReaderReply(id, btnEl) {
     const res = await fetch(`${HYP_API}/annotations`, {
       method: "POST",
       headers: { Authorization: `Bearer ${token}`, "Content-Type": "application/json" },
-      body: JSON.stringify({ uri: a.uri, references: [a.id], text, tags: [] }),
+      // `group` and `permissions` are BOTH required here, and the reason
+      // is not obvious. hypothesis_client.py's create_reply() omits
+      // `group` because the server ignores it for ROUTING (a reply always
+      // lands in the parent's group). But omitting it also makes the
+      // server ignore `permissions` and default the annotation to private
+      // -- read: ["acct:<author>"] -- which is invisible to everyone else
+      // including the owner's pull token, so the reply would reach
+      // Hypothesis and then never appear in any dashboard again.
+      //
+      // Caught live 2026-08-28: three reader replies posted successfully
+      // (HTTP 200, correct parent, correct group) and vanished, because
+      // pull_annotations.py runs on the OWNER's token and simply could
+      // not see them. Sending both fields makes read stick as
+      // ["group:<id>"], verified against the owner's own group search.
+      body: JSON.stringify({
+        uri: a.uri,
+        group: a.group_id,
+        references: [a.id],
+        text,
+        tags: [],
+        permissions: { read: [`group:${a.group_id}`] },
+      }),
     });
     if (res.status === 401 || res.status === 403) {
       slot.innerHTML = '<span class="tok-err">Your saved token was rejected — it may have been '

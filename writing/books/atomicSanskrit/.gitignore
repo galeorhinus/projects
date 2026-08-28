@@ -17,3 +17,12 @@ __pycache__/
 # conflict this caused 2026-08-11). Regenerate with build_book.py /
 # build_html.py; never commit build/ output again.
 build/
+
+# Secrets. hypothesis/token.txt has its own hypothesis/.gitignore entry;
+# these cover the server/ side and any future *_token.txt / *_api_token.txt
+# dropped anywhere in the tree. A Hypothesis personal API token is
+# unscoped and never expires, so one committed by accident is a full
+# account compromise that survives in history until the token is revoked.
+*token.txt
+*_api_token.txt
+server/*.token
