@@ -166,7 +166,7 @@ STUB_FILES = {
 LAYOUTS = {
     "letter": "letterpaper,margin=1in",
     # A4 with 1in margins — for the `convert` subcommand / non-US page size.
-    "a4": "a4paper,inner=0.85in,outer=0.5in,top=0.75in,bottom=0.75in",
+    "a4": "a4paper,inner=1in,outer=0.35in,top=0.5in,bottom=0.5in",
     # ~4.5×7.5 text block centered on 8.5×11 — book-page mock-up on letter paper.
     "book-on-letter": "paperwidth=8.5in,paperheight=11in,textwidth=4.5in,textheight=7.5in,centering",
     # True 6×9 trim with book-style asymmetric margins (inner > outer for binding).
@@ -188,12 +188,47 @@ LAYOUTS = {
 # still reads it directly, so the two publications can size independently.)
 LAYOUT_FONTSIZES = {
     "letter": "12pt",
-    "a4": "12pt",
+    "a4": "14pt",
     "book-on-letter": "11pt",
     "trade": "11pt",
     "trade-crop": "11pt",
     "phone": "11pt",
 }
+
+# Which sizes each document class actually implements, and the class to use
+# for each. This exists because LaTeX FAILS SILENTLY here: a standard class
+# given an unsupported size emits only "LaTeX Warning: Unused global
+# option(s): [13pt]" and then falls back to its 10pt DEFAULT. So asking for
+# 13pt produced type SMALLER than the 12pt it replaced, with a successful
+# build and nothing in the output to say why (caught 2026-08-28, on a4).
+#
+# `book` implements 10/11/12 only. `extbook` (extsizes) is a drop-in that
+# adds 8, 9, 14, 17 and 20 -- verified here that it keeps as_book.yaml's
+# \pretocmd{\@title} patch working. Note 13pt exists in NEITHER: extbook
+# silently falls back to 10 exactly like book, so it is not a valid choice
+# and must not be reintroduced. KOMA-Script's scrbook does support
+# arbitrary sizes, but swapping to it changes heading, TOC and margin
+# defaults throughout, which is a typographic decision rather than a fix.
+_BOOK_SIZES = {"10pt", "11pt", "12pt"}
+_EXTBOOK_SIZES = {"8pt", "9pt", "14pt", "17pt", "20pt"}
+
+
+def documentclass_for_fontsize(fontsize: str) -> str | None:
+    """Class needed for `fontsize`, or None to keep as_book.yaml's own.
+
+    Raises on a size no class implements, rather than letting the build
+    succeed at a silently wrong size.
+    """
+    if fontsize in _BOOK_SIZES:
+        return None                      # as_book.yaml's `book` handles it
+    if fontsize in _EXTBOOK_SIZES:
+        return "extbook"
+    raise SystemExit(
+        f"Unsupported fontsize {fontsize!r} in LAYOUT_FONTSIZES.\n"
+        f"  book:    {', '.join(sorted(_BOOK_SIZES))}\n"
+        f"  extbook: {', '.join(sorted(_EXTBOOK_SIZES))}\n"
+        "LaTeX would accept this silently and render at its 10pt default."
+    )
 
 
 # Regexes for cleaning chapter files before assembly
@@ -1312,6 +1347,7 @@ def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full",
 
     geometry = LAYOUTS[layout]
     fontsize = LAYOUT_FONTSIZES[layout]
+    docclass = documentclass_for_fontsize(fontsize)
     cmd = [
         "pandoc",
         str(md_path),
@@ -1325,6 +1361,9 @@ def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full",
         "-V", f"fontsize={fontsize}",
         "-H", str(generated_preamble),
     ]
+    # Only override as_book.yaml's documentclass when the size demands it.
+    if docclass:
+        cmd += ["-V", f"documentclass={docclass}"]
 
     print(f"Rendering PDF (layout={layout}, fontsize={fontsize}, progress every {progress_pages} pages)...")
     result = run_pandoc_with_progress(cmd, page_interval=progress_pages, label="PDF")
