@@ -2205,9 +2205,65 @@ function tickBuiltNote() {
   const el = document.getElementById("built-note");
   if (!el) return;
   const builtMs = new Date(BUILT_AT).getTime();
-  el.textContent = IS_OWNER
+  // Readers also get the time to the next automatic rebuild. Without it
+  // a stale page is indistinguishable from a broken one -- the reply
+  // they just posted is genuinely saved but will not appear here until
+  // the next cycle, and "Updated 6m ago" alone does not say that.
+  // Cron is */15, so the next run is the next quarter hour (see
+  // hypothesis/refresh_dashboard.sh's crontab entry).
+  const base = IS_OWNER
     ? `Built ${formatAgo(Date.now() - builtMs)} ago`
     : `Updated ${formatAgo(Date.now() - builtMs)} ago`;
+  if (IS_OWNER) { el.textContent = base; return; }
+  const now = new Date();
+  let mins = 14 - (now.getMinutes() % 15);
+  const secs = 59 - now.getSeconds();
+  const nextTxt = mins <= 0 && secs <= 30 ? "any moment now"
+    : `in ~${mins + 1} min`;
+  el.textContent = `${base} · next update ${nextTxt}`;
+}
+
+// Reader-facing "Update now". Asks the server to run the same fast
+// refresh the owner's button uses (pull + rebuild, no LLM tagging), then
+// polls until the page file this viewer is served actually changes, and
+// reloads. Polling the built time rather than guessing a duration means
+// the reload happens when the work is really done -- the refresh can take
+// anywhere from a couple of seconds to ~45 depending on how much is new.
+async function readerRefresh(btnEl) {
+  const note = document.getElementById("refresh-note");
+  const say = t => { if (note) note.textContent = t; };
+  btnEl.disabled = true;
+  btnEl.textContent = "Updating…";
+  say("");
+  let before = new Date(BUILT_AT).getTime();
+  try {
+    const res = await fetch("/as/private/dashboard/refresh", { method: "POST" });
+    const body = await res.json().catch(() => ({}));
+    if (res.status === 429) {
+      say(`Just updated — try again in ${body.retry_in || 60}s.`);
+      btnEl.disabled = false; btnEl.textContent = "Update now";
+      return;
+    }
+    if (!res.ok) throw new Error(body.error || `HTTP ${res.status}`);
+    if (body.built) before = Math.max(before, body.built);
+  } catch (e) {
+    say("Could not request an update — it will still refresh on its own.");
+    btnEl.disabled = false; btnEl.textContent = "Update now";
+    return;
+  }
+  // Poll for up to ~75s; the unit's own timeout is 120s but a reader
+  // should get an answer well before that or be told to wait.
+  for (let i = 0; i < 25; i++) {
+    await new Promise(r => setTimeout(r, 3000));
+    try {
+      const s = await fetch("/as/private/dashboard/refresh-status");
+      const j = await s.json();
+      if (j.built && j.built > before) { location.reload(); return; }
+    } catch (e) { /* keep polling */ }
+  }
+  say("Still working — reload in a moment to see the latest.");
+  btnEl.disabled = false;
+  btnEl.textContent = "Update now";
 }
 // The owner gets the refresh button and a live ticker. A reader's page is
 // rebuilt on a cycle they do not control, so they get a plain "as of" line
@@ -2248,7 +2304,10 @@ function tickBuiltNote() {
   el.innerHTML = IS_OWNER
     ? '<button class="refresh-btn-big" id="refresh-btn">⟳ Refresh now</button>'
       + '<p class="built-note" id="built-note"></p>'
-    : '<p class="built-note" id="built-note"></p>' + tokPanel;
+    : '<button class="refresh-btn-big" onclick="readerRefresh(this)">⟳ Update now</button>'
+      + '<p class="built-note" id="built-note"></p>'
+      + '<p class="built-note" id="refresh-note"></p>'
+      + tokPanel;
 
   if (!IS_OWNER) return;
   // Listener MUST attach here, right after the button is created by the

@@ -1,0 +1,31 @@
+[Unit]
+Description=Rebuild the Reader Margins dashboard on demand
+# Triggered by dashboard-refresh.path when dashboard_resolver.py (running
+# as www-data) touches the trigger file for a reader's "Update now".
+#
+# The resolver cannot run this itself: hypothesis/token.txt is 600 ubuntu,
+# and the refresh writes files owned by ubuntu. Rather than widening
+# access to the owner's Hypothesis API token so www-data could read it,
+# the unprivileged service only touches a file it already has write access
+# to and this unit does the work as ubuntu -- the same pattern
+# oauth2-proxy-whitelist-reload.{path,service} already uses, with no
+# privilege escalation anywhere in the chain.
+#
+# Deliberately the FAST script: pull + rebuild, no auto_tagger.py. Tagging
+# makes per-annotation LLM calls that can push a refresh past a minute on
+# a backlog (see dashboard_api.py's _handle_refresh docstring), and it
+# costs money per run -- not something a reader-facing button should
+# trigger. Tagging still happens on its own 15-minute cron cycle.
+#
+# The trigger file is removed FIRST (ExecStartPre), not after: removing it
+# afterwards would drop any request that arrived while this was running,
+# because .path units fire on the file appearing, not on a queue.
+
+[Service]
+Type=oneshot
+User=ubuntu
+Group=ubuntu
+WorkingDirectory=/home/ubuntu/projects/writing/books/atomicSanskrit/hypothesis
+ExecStartPre=/usr/bin/rm -f /var/lib/secondshanti/refresh-dashboard-request
+ExecStart=/home/ubuntu/projects/writing/books/atomicSanskrit/hypothesis/refresh_dashboard_fast.sh
+TimeoutStartSec=120

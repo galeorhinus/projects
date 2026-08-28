@@ -38,6 +38,7 @@ from __future__ import annotations
 import html as html_lib
 import json
 import re
+import time
 import urllib.parse
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
@@ -64,6 +65,24 @@ READERS_DIR = Path("/var/lib/secondshanti/dashboard_readers")
 # "owned by the ubuntu user") -- world-readable, so www-data can read it
 # with no extra grant, confirmed live 2026-08-19.
 OWNER_DASHBOARD_PATH = Path("/var/www/as/private/dashboard/index.html")
+
+# Reader-triggered "Update now". This service runs as www-data and cannot
+# run the refresh itself: hypothesis/token.txt is 600 ubuntu, and the
+# scripts write files owned by ubuntu. Rather than widening access to the
+# owner's API token, www-data only TOUCHES a trigger file it already has
+# write access to, and a root-owned systemd .path unit runs the actual
+# refresh as ubuntu -- exactly the pattern already used for the
+# oauth2-proxy whitelist reload (see server/README.md and
+# oauth2-proxy-whitelist-reload.path). No privilege escalation anywhere,
+# and the token stays readable only by ubuntu.
+REFRESH_TRIGGER = Path("/var/lib/secondshanti/refresh-dashboard-request")
+
+# Per-slug cooldown. The refresh is the FAST script (pull + rebuild, no
+# LLM tagging) and takes up to ~45s, so anything shorter than this just
+# queues work behind work. Held in memory: this is a long-lived service,
+# and a cooldown that resets on restart is a non-problem.
+REFRESH_COOLDOWN_S = 90
+_last_refresh: dict[str, float] = {}
 
 _VIEWER_JSON_RE = re.compile(r"const VIEWER = (\{.*?\});")
 
@@ -210,6 +229,56 @@ class Handler(BaseHTTPRequestHandler):
     def log_message(self, fmt, *args):
         pass  # Caddy's own access log already records this upstream.
 
+    def _page_built_ms(self, email: str, roster: dict, status: dict) -> int:
+        """Mtime of the file this viewer is actually served, in ms. The
+        client polls this after triggering a refresh and reloads once it
+        advances past the BUILT_AT it loaded with."""
+        if email == OWNER_EMAIL:
+            path = OWNER_DASHBOARD_PATH
+        else:
+            slug = resolve_slug(email, roster, status)
+            path = READERS_DIR / f"{slug}.html" if slug else None
+        try:
+            return int(path.stat().st_mtime * 1000) if path else 0
+        except OSError:
+            return 0
+
+    def do_POST(self):
+        """Reader-triggered refresh. The only POST this service accepts."""
+        email = (self.headers.get("X-Forwarded-Email") or "").strip().lower()
+        parsed = urllib.parse.urlsplit(self.path)
+        if parsed.path.rstrip("/") != "/as/private/dashboard/refresh":
+            self._send_json(404, {"error": "not found"})
+            return
+        if not email:
+            self._send_json(400, {"error": "missing authentication"})
+            return
+
+        roster = load_json(ROSTER_PATH)
+        status = load_json(STATUS_PATH)
+        # Identity comes from the OAuth header, never from the request
+        # body -- a reader cannot ask to refresh on anyone else's behalf,
+        # and the refresh itself is global anyway (one shared pipeline),
+        # so the slug here is only used for rate-limiting fairness.
+        key = email if email == OWNER_EMAIL else (resolve_slug(email, roster, status) or email)
+
+        now = time.time()
+        last = _last_refresh.get(key, 0.0)
+        remaining = REFRESH_COOLDOWN_S - (now - last)
+        if remaining > 0:
+            self._send_json(429, {"error": "too soon", "retry_in": int(remaining) + 1})
+            return
+        _last_refresh[key] = now
+
+        try:
+            REFRESH_TRIGGER.parent.mkdir(parents=True, exist_ok=True)
+            REFRESH_TRIGGER.touch()
+        except OSError as e:
+            self._send_json(500, {"error": f"could not request refresh: {e}"})
+            return
+        self._send_json(202, {"status": "requested",
+                              "built": self._page_built_ms(email, roster, status)})
+
     def do_GET(self):
         email = (self.headers.get("X-Forwarded-Email") or "").strip().lower()
         if not email:
@@ -221,6 +290,13 @@ class Handler(BaseHTTPRequestHandler):
         status = load_json(STATUS_PATH)
 
         parsed = urllib.parse.urlsplit(self.path)
+
+        # Polled by the client after a refresh request, to learn when the
+        # rebuild has actually landed. Cheap: one stat() per call.
+        if parsed.path.rstrip("/") == "/as/private/dashboard/refresh-status":
+            self._send_json(200, {"built": self._page_built_ms(email, roster, status)})
+            return
+
         preview_slug = (urllib.parse.parse_qs(parsed.query).get("as", [""])[0] or "").strip()
 
         if email == OWNER_EMAIL:
@@ -279,3 +355,12 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+    def _send_json(self, code: int, payload: dict) -> None:
+        body = json.dumps(payload).encode("utf-8")
+        self.send_response(code)
+        self.send_header("Content-Type", "application/json; charset=utf-8")
+        self.send_header("Content-Length", str(len(body)))
+        self.send_header("Cache-Control", "no-store")
+        self.end_headers()
+        self.wfile.write(body)

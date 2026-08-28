@@ -398,6 +398,13 @@ http://:18080 {
 	# second matcher here. X-Forwarded-Email reaches 127.0.0.1:8091
 	# unmodified, the same way it already reaches :8092 above -- Caddy
 	# passes headers through reverse_proxy by default, nothing strips it.
+	# NOTE: /as/private/dashboard/refresh and .../refresh-status are NOT
+	# broken out into their own handle block. They are served by the same
+	# resolver on :8091 (it routes on path internally), and unlike the
+	# owner-only /api/* block above they are deliberately reachable by
+	# readers -- that is the whole point of the reader "Update now"
+	# button. The resolver derives identity from X-Forwarded-Email and
+	# rate-limits per reader, so there is nothing for Caddy to gate here.
 	handle /as/private/dashboard/* {
 		reverse_proxy 127.0.0.1:8091
 	}
