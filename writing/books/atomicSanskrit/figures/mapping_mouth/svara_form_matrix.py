@@ -123,7 +123,7 @@ def render() -> str:
                     group_x + cell_w * 3 - 12,
                     186,
                     "Restricted",
-                    size=16,
+                    size=17,
                     color=RED,
                     italic=True,
                     anchor="end",
@@ -150,7 +150,7 @@ def render() -> str:
                     x + cell_w / 2,
                     244,
                     pitch_long,
-                    size=12,
+                    size=17,
                     color=MUTED,
                     anchor="middle",
                     italic=True,
@@ -160,8 +160,8 @@ def render() -> str:
 
     parts.extend(
         [
-            text(72, 238, "family", size=18, color=MUTED, anchor="middle"),
-            text(left + grid_w + 50, 238, "total", size=18, color=MUTED, anchor="middle"),
+            text(72, 238, "family", size=19, color=MUTED, anchor="middle"),
+            text(left + grid_w + 50, 238, "total", size=19, color=MUTED, anchor="middle"),
         ]
     )
 
@@ -251,8 +251,8 @@ def render() -> str:
             f'<rect x="747" y="{legend_y - 24}" width="28" height="28" fill="{SELECTED}" '
             f'stroke="{GRID}" stroke-width="1"/>',
             line(761, legend_y - 24, 761, legend_y + 4, stroke=GRID, **{"stroke-width": 1}),
-            text(787, legend_y - 5, "oral", size=15),
-            text(787, legend_y + 14, "nasal", size=15, color=MUTED),
+            text(787, legend_y - 5, "oral", size=17),
+            text(787, legend_y + 14, "nasal", size=17, color=MUTED),
         ]
     )
 
@@ -273,7 +273,7 @@ def render() -> str:
                 76,
                 callout_y + 52,
                 "They are preserved where the inherited Sāmavedic lineages require them.",
-                size=18,
+                size=19,
                 color=MUTED,
             ),
         ]
