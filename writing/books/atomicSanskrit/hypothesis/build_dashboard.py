@@ -950,6 +950,16 @@ main {
   opacity: 0.6;
   cursor: default;
 }
+/* Reader-side counterpart to .resolve-btn. Readers get no composer (see
+   readerReplyControl in cardHTML for why), so their slot carries a deep
+   link into the Hypothesis client instead. It is an <a>, not a <button>,
+   so it needs the inline-block + underline reset that .resolve-btn's
+   button styling gets for free. */
+.reply-link-btn {
+  display: inline-block;
+  align-self: flex-start;
+  text-decoration: none;
+}
 .resolve-btn-force {
   border-color: var(--c-verify-fg);
   color: var(--c-verify-fg);
@@ -1455,6 +1465,31 @@ function cardHTML(a) {
          <div class="resolve-msg" id="resolve-msg-${a.id}"></div>
        </div>`
     : "";
+  // Readers get no composer, and cannot simply be given one: this
+  // dashboard posts with the OWNER's Hypothesis token, so a reader's
+  // reply sent through it would arrive authored as the owner, and
+  // Hypothesis offers no impersonation (same wall auto_tagger.py hits
+  // when it cannot PATCH tags onto someone else's annotation). They
+  // reply as themselves in the Hypothesis client instead. a.link deep-
+  // links to this exact annotation through the #annotations:<id>
+  // fragment on our own domain, where embed.js is already loaded, so
+  // this needs no extension and no third-party bounce. Their reply
+  // returns on the next pull and renders in this same thread -- the
+  // thread builder collects descendants at any depth, not just direct
+  // children, so a back-and-forth keeps accumulating here.
+  //
+  // Conditions mirror showComposer's exactly, so both sides of a
+  // conversation close at the same point. "awaiting-reader" is
+  // deliberately still open: that status means the ball is in the
+  // reader's court, which is precisely when this link matters most.
+  const showReplyLink = !IS_OWNER && !a.reply
+                         && a.status !== "resolved" && a.status !== "acknowledged";
+  const readerReplyControl = showReplyLink
+    ? `<div class="resolve-row">
+         <a class="resolve-btn reply-link-btn" href="${a.link}"
+            target="_blank" rel="noopener">Reply on Hypothesis &rarr;</a>
+       </div>`
+    : "";
   // Independent of the reply composer above -- a private note-to-self,
   // never posted to Hypothesis (see dashboard_api.py's module
   // docstring). Not tied to resolved/acknowledged status: you might
@@ -1494,6 +1529,7 @@ function cardHTML(a) {
     <div class="tags">${tagHTML}</div>
     ${threadHTML(a)}
     ${resolveControl}
+    ${readerReplyControl}
     ${todoControl}
   </article>`;
 }
