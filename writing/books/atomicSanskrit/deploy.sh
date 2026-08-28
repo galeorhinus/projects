@@ -10,10 +10,16 @@
 #      restart needed; the roster is read fresh on every request. Then
 #      run hypothesis/check_roster_sync.py as an advisory (non-blocking)
 #      check for drift against live Hypothesis groups.
+#   5. Install the /opt/secondshanti/ loopback services (request_access.py,
+#      dashboard_resolver.py) and restart each — but ONLY if the deployed
+#      copy actually differs, so content-only deploys touch neither. Also
+#      gated by --skip-roster.
 #
 # Pass --skip-build to skip the build step (use when build/html/ is already
 # fresh). Pass --skip-caddy to skip Caddyfile + reload (use when only the
-# rendered HTML changed). Pass --skip-roster to skip the roster install.
+# rendered HTML changed). Pass --skip-roster to skip the roster install and
+# the /opt/secondshanti/ service install (both are server-side config, not
+# rendered content).
 #
 # Requires sudo for /etc/caddy/, /etc/secondshanti/, and `systemctl reload
 # caddy`. /var/www/as is owned by the ubuntu user (set up at install
@@ -109,6 +115,49 @@ if [ "$SKIP_ROSTER" -eq 0 ]; then
 	else
 		echo ">> No server/invite_roster.json in the working tree — skipping roster install."
 	fi
+
+	# Loopback services in /opt/secondshanti/. These were hand-copied for a
+	# long time while deploy.sh installed the roster they PARSE, which let
+	# the two drift out of format-compatibility silently. Bit 2026-08-28:
+	# b592ee0f (2026-08-19) converted each roster entry's group to a
+	# `groups: [{url, name}]` array, but /opt/secondshanti/request_access.py
+	# was still the 2026-08-15 copy reading the retired scalar
+	# `hypothesis_group_url`. It found nothing, emitted href="" on every
+	# invite page's join-group button, and browsers resolved that empty href
+	# against the current page -- so for nine days every reader's "Join your
+	# reading group" button silently pointed back at secondshanti.org
+	# instead of hypothes.is. roster_groups()'s "Change both together"
+	# docstring note was already there and still did not prevent it, which
+	# is why this is automated rather than documented harder.
+	#
+	# Conditional on purpose: a content-only deploy finds no diff, copies
+	# nothing, and restarts nothing, so routine deploys stay decoupled from
+	# the invite/auth path. py_compile gates each file BEFORE it overwrites
+	# anything, so a syntax error fails the deploy with the old service
+	# still running rather than after it is already down.
+	# Each file is `script:service` — both run as long-lived systemd units
+	# from /opt/secondshanti/, so each needs its own restart to pick up a
+	# new copy. (dashboard_api.py is deliberately absent: its unit runs it
+	# straight out of the git checkout, so it has no /opt copy to drift --
+	# though it does still need a restart after a pull. Separate problem.)
+	for pair in \
+		"request_access.py:secondshanti-request-access" \
+		"dashboard_resolver.py:dashboard-resolver"; do
+		svc_file="${pair%%:*}"
+		unit="${pair##*:}"
+		src="server/$svc_file"
+		dst="/opt/secondshanti/$svc_file"
+		[ -f "$src" ] || continue
+		if sudo cmp -s "$src" "$dst"; then
+			continue
+		fi
+		echo ">> $svc_file differs from the deployed copy — installing..."
+		python3 -m py_compile "$src"
+		sudo mkdir -p /opt/secondshanti
+		sudo install -o root -g root -m 644 "$src" "$dst"
+		echo ">> Restarting $unit..."
+		sudo systemctl restart "$unit"
+	done
 fi
 
 echo ">> Done."
