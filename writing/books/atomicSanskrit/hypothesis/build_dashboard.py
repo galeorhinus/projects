@@ -960,6 +960,48 @@ main {
   align-self: flex-start;
   text-decoration: none;
 }
+/* Optional reader API-token panel. Opt-in only: without a token a reader
+   gets .reply-link-btn above and nothing here changes. See the token
+   helpers in the script for why this is safe to offer at all (the token
+   is held in localStorage and sent ONLY to hypothes.is, never here). */
+.tok-panel {
+  margin-top: 10px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 10px 12px;
+  background: var(--card);
+  max-width: 560px;
+}
+.tok-panel > summary {
+  cursor: pointer;
+  font-size: 0.8rem;
+  color: var(--muted);
+  list-style: none;
+}
+.tok-panel > summary::-webkit-details-marker { display: none; }
+.tok-panel > summary::before { content: "▸ "; }
+.tok-panel[open] > summary::before { content: "▾ "; }
+.tok-warn {
+  font-size: 0.78rem;
+  line-height: 1.5;
+  color: var(--muted);
+  margin: 8px 0;
+}
+.tok-warn strong { color: var(--text); }
+.tok-row { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+.tok-input {
+  flex: 1 1 240px;
+  font-family: inherit;
+  font-size: 0.82rem;
+  padding: 5px 8px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: var(--bg);
+  color: var(--text);
+}
+.tok-state { font-size: 0.78rem; margin-top: 8px; }
+.tok-ok { color: var(--c-resolved-fg, #6bbf7b); }
+.tok-err { color: var(--c-verify-fg); }
 .resolve-btn-force {
   border-color: var(--c-verify-fg);
   color: var(--c-verify-fg);
@@ -1484,12 +1526,24 @@ function cardHTML(a) {
   // reader's court, which is precisely when this link matters most.
   const showReplyLink = !IS_OWNER && !a.reply
                          && a.status !== "resolved" && a.status !== "acknowledged";
-  const readerReplyControl = showReplyLink
+  // With a saved token the reader replies inline as themselves; without
+  // one they get the deep link. The link stays the default and the
+  // fallback for every failure mode, so nothing depends on the token.
+  const readerReplyControl = !showReplyLink ? "" : (readerToken()
     ? `<div class="resolve-row">
+         <textarea class="reply-text" id="rdr-text-${a.id}" rows="2"
+                   placeholder="Reply as ${escapeHTML(VIEWER_SELF || "yourself")}…"></textarea>
+         <div class="resolve-controls">
+           <button class="resolve-btn" onclick="postReaderReply('${a.id}', this)">Post reply</button>
+           <a class="reply-link-btn" style="font-size:0.78rem;color:var(--muted)"
+              href="${a.link}" target="_blank" rel="noopener">or open in Hypothesis &rarr;</a>
+         </div>
+         <div class="resolve-msg" id="rdr-msg-${a.id}"></div>
+       </div>`
+    : `<div class="resolve-row">
          <a class="resolve-btn reply-link-btn" href="${a.link}"
             target="_blank" rel="noopener">Reply on Hypothesis &rarr;</a>
-       </div>`
-    : "";
+       </div>`);
   // Independent of the reply composer above -- a private note-to-self,
   // never posted to Hypothesis (see dashboard_api.py's module
   // docstring). Not tied to resolved/acknowledged status: you might
@@ -1545,6 +1599,164 @@ function cardHTML(a) {
 // "addressed in a later revision" message in place of the author's own
 // words. The author's text never reached Hypothesis and was not recorded
 // anywhere, so those messages were unrecoverable.
+// ---------------------------------------------------------------------
+// Optional reader Hypothesis API token.
+//
+// Readers cannot use the owner's composer: this dashboard's server-side
+// API posts with the OWNER's token, so a reader's reply through it would
+// arrive authored as the owner. The default path therefore stays the
+// deep link (.reply-link-btn) into the Hypothesis client.
+//
+// A reader who WANTS inline replies can paste their own personal API
+// token. The safety of that rests on one verified fact: hypothes.is
+// serves permissive CORS (checked 2026-08-28 -- it reflects the request
+// Origin and allows POST with an Authorization header), so the browser
+// can call the Hypothesis API directly. The token therefore lives in
+// localStorage and is sent ONLY to hypothes.is. It is never posted to
+// secondshanti.org, never written to a server file, never logged, and
+// never placed in a URL -- this server never holds reader credentials,
+// which is the whole reason this is offerable rather than reckless.
+//
+// The residual risk is real and is stated plainly in the panel: a
+// Hypothesis personal token is unscoped and does not expire, so it
+// grants full account access, including groups unrelated to this book.
+// That is why this is strictly opt-in and trivially revocable.
+const TOK_KEY = "as_hyp_token";
+const HYP_API = "https://hypothes.is/api";
+
+function readerToken() {
+  try { return localStorage.getItem(TOK_KEY) || null; } catch (e) { return null; }
+}
+
+// Keeps the panel's summary line and Remove button consistent with
+// whether a token is actually stored. Targeted DOM edits rather than
+// re-running renderHeaderActions(), which would collapse the panel and
+// wipe the status message the caller just wrote into it.
+function syncTokPanel() {
+  const panel = document.querySelector(".tok-panel");
+  if (!panel) return;
+  const tok = readerToken();
+  const summary = panel.querySelector("summary");
+  if (summary) {
+    summary.textContent = tok
+      ? "Inline replies are on"
+      : "Reply inline instead of opening Hypothesis (optional)";
+  }
+  const row = panel.querySelector(".tok-row");
+  if (!row) return;
+  const existing = row.querySelector(".tok-remove");
+  if (tok && !existing) {
+    row.insertAdjacentHTML("beforeend",
+      '<button class="resolve-btn tok-remove" onclick="clearReaderToken()">Remove</button>');
+  } else if (!tok && existing) {
+    existing.remove();
+  }
+}
+
+// Confirms the token works AND that it belongs to the account whose
+// notes this page is scoped to. Pasting a different account's token
+// would otherwise "succeed" and then post replies under a name the
+// reader does not recognise, which is far more confusing than a refusal.
+async function saveReaderToken() {
+  const input = document.getElementById("tok-input");
+  const state = document.getElementById("tok-state");
+  const token = (input.value || "").trim();
+  if (!token) { state.innerHTML = '<span class="tok-err">Paste a token first.</span>'; return; }
+  state.textContent = "Checking…";
+  let who = null;
+  try {
+    const res = await fetch(`${HYP_API}/profile`, {
+      headers: { Authorization: `Bearer ${token}` },
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const prof = await res.json();
+    who = (prof.userid || "").replace(/^acct:/, "").replace(/@.*$/, "");
+  } catch (e) {
+    state.innerHTML = '<span class="tok-err">That token did not work. Copy it again from '
+      + 'hypothes.is/account/developer.</span>';
+    return;
+  }
+  if (!who) {
+    state.innerHTML = '<span class="tok-err">Token accepted but no account name came back.</span>';
+    return;
+  }
+  if (VIEWER_SELF && who !== VIEWER_SELF) {
+    state.innerHTML = `<span class="tok-err">That token belongs to <b>${escapeHTML(who)}</b>, `
+      + `but this page shows notes for <b>${escapeHTML(VIEWER_SELF)}</b>. Not saved.</span>`;
+    return;
+  }
+  try { localStorage.setItem(TOK_KEY, token); }
+  catch (e) {
+    state.innerHTML = '<span class="tok-err">This browser refused to store it '
+      + '(private mode?). Use the link instead.</span>';
+    return;
+  }
+  input.value = "";
+  state.innerHTML = `<span class="tok-ok">Connected as <b>${escapeHTML(who)}</b>. `
+    + `You can reply inline now.</span>`;
+  syncTokPanel();
+  render();
+}
+
+function clearReaderToken() {
+  try { localStorage.removeItem(TOK_KEY); } catch (e) {}
+  const state = document.getElementById("tok-state");
+  if (state) state.innerHTML = '<span class="tok-ok">Removed from this browser.</span>';
+  syncTokPanel();
+  render();
+}
+
+// Posts as the READER, straight to Hypothesis. Payload mirrors
+// hypothesis_client.py's create_reply(): `references` carries the root
+// id, and `group` is deliberately absent because the server ignores it
+// on a reply and inherits the parent's group. Replying needs only create
+// permission in the group, not write permission on the parent, so this
+// works on the owner's annotations too.
+async function postReaderReply(id, btnEl) {
+  const token = readerToken();
+  const a = DATA.find(d => d.id === id);
+  const textEl = document.getElementById(`rdr-text-${id}`);
+  const slot = document.getElementById(`rdr-msg-${id}`);
+  const text = textEl ? textEl.value.trim() : "";
+  if (!text) { slot.innerHTML = '<span class="tok-err">Write something first.</span>'; return; }
+  if (!token || !a) return;
+  slot.textContent = "";
+  btnEl.disabled = true;
+  btnEl.textContent = "Posting…";
+  try {
+    const res = await fetch(`${HYP_API}/annotations`, {
+      method: "POST",
+      headers: { Authorization: `Bearer ${token}`, "Content-Type": "application/json" },
+      body: JSON.stringify({ uri: a.uri, references: [a.id], text, tags: [] }),
+    });
+    if (res.status === 401 || res.status === 403) {
+      slot.innerHTML = '<span class="tok-err">Your saved token was rejected — it may have been '
+        + 'revoked. Re-paste it above, or use the Hypothesis link.</span>';
+      btnEl.disabled = false; btnEl.textContent = "Post reply";
+      return;
+    }
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const posted = await res.json();
+    // Optimistic append so the reply is visible immediately; the next
+    // scheduled pull is what makes it durable in this page's data.
+    if (!a.thread) a.thread = [];
+    a.thread.push({
+      id: posted.id || `local-${id}-${Date.now()}`,
+      user: VIEWER_SELF || "you",
+      created: posted.created || new Date().toISOString(),
+      text,
+    });
+    state.justPostedId = id;
+    renderStats();
+    render();
+  } catch (e) {
+    slot.innerHTML = '<span class="tok-err">Could not post — check your connection, '
+      + 'or use the Hypothesis link.</span>';
+    btnEl.disabled = false;
+    btnEl.textContent = "Post reply";
+  }
+}
+
 function showReplyMsg(id, html) {
   const slot = document.getElementById(`resolve-msg-${id}`);
   if (slot) { slot.innerHTML = html; return; }
@@ -1883,10 +2095,40 @@ function tickBuiltNote() {
 (function renderHeaderActions() {
   const el = document.getElementById("hero-actions");
   if (!el) return;
+  // Readers additionally get the optional token panel. Collapsed by
+  // default and phrased so the do-nothing path reads as the normal one:
+  // this must never look like a step required to use the dashboard.
+  const tokPanel = IS_OWNER ? "" : (() => {
+    const tok = readerToken();
+    return `<details class="tok-panel">
+      <summary>${tok ? "Inline replies are on" : "Reply inline instead of opening Hypothesis (optional)"}</summary>
+      <p class="tok-warn">
+        By default, replying opens the annotation in Hypothesis — that always works and needs nothing set up.
+        If you would rather reply from this page, paste a personal Hypothesis API token from
+        <a href="https://hypothes.is/account/developer" target="_blank" rel="noopener">hypothes.is/account/developer</a>.
+        <br><br>
+        <strong>Understand what the token is before you do.</strong> A Hypothesis personal token does not expire
+        and cannot be limited in scope: it grants full access to your Hypothesis account, including groups
+        unrelated to this book. Only paste one if you are comfortable with that.
+        <br><br>
+        It is stored in this browser only, and is sent only to hypothes.is — never to this site, which never
+        receives or stores it. Remove it any time here, or revoke it at Hypothesis.
+      </p>
+      <div class="tok-row">
+        <input class="tok-input" id="tok-input" type="password" autocomplete="off"
+               placeholder="Paste API token…">
+        <button class="resolve-btn" onclick="saveReaderToken()">Save</button>
+        ${tok ? '<button class="resolve-btn tok-remove" onclick="clearReaderToken()">Remove</button>' : ""}
+      </div>
+      <div class="tok-state" id="tok-state">${tok
+        ? '<span class="tok-ok">A token is saved in this browser.</span>' : ""}</div>
+    </details>`;
+  })();
+
   el.innerHTML = IS_OWNER
     ? '<button class="refresh-btn-big" id="refresh-btn">⟳ Refresh now</button>'
       + '<p class="built-note" id="built-note"></p>'
-    : '<p class="built-note" id="built-note"></p>';
+    : '<p class="built-note" id="built-note"></p>' + tokPanel;
 
   if (!IS_OWNER) return;
   // Listener MUST attach here, right after the button is created by the
