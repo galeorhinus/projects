@@ -999,6 +999,26 @@ main {
   background: var(--bg);
   color: var(--text);
 }
+/* Quiet secondary affordance beside the Hypothesis link. The token panel
+   sits in the header, which a reader scrolling a long list never sees,
+   so the option has to be surfaced where they actually reach for reply.
+   Styled as text, not a button, so it stays clearly subordinate to the
+   real action next to it. */
+.tok-hint-btn {
+  background: none;
+  border: 0;
+  padding: 0;
+  font: inherit;
+  font-size: 0.78rem;
+  color: var(--muted);
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.tok-hint-btn:hover { color: var(--text); }
+.tok-panel:target, .tok-panel.tok-flash {
+  border-color: var(--accent);
+}
 .tok-state { font-size: 0.78rem; margin-top: 8px; }
 .tok-ok { color: var(--c-resolved-fg, #6bbf7b); }
 .tok-err { color: var(--c-verify-fg); }
@@ -1541,8 +1561,12 @@ function cardHTML(a) {
          <div class="resolve-msg" id="rdr-msg-${a.id}"></div>
        </div>`
     : `<div class="resolve-row">
-         <a class="resolve-btn reply-link-btn" href="${a.link}"
-            target="_blank" rel="noopener">Reply on Hypothesis &rarr;</a>
+         <div class="resolve-controls">
+           <a class="resolve-btn reply-link-btn" href="${a.link}"
+              target="_blank" rel="noopener">Reply on Hypothesis &rarr;</a>
+           <button class="tok-hint-btn" onclick="openTokPanel()"
+                   title="Requires pasting a Hypothesis API token">or reply here instead</button>
+         </div>
        </div>`);
   // Independent of the reply composer above -- a private note-to-self,
   // never posted to Hypothesis (see dashboard_api.py's module
@@ -1696,6 +1720,23 @@ async function saveReaderToken() {
     + `You can reply inline now.</span>`;
   syncTokPanel();
   render();
+}
+
+// Jumps from a card's "or reply here instead" to the header panel, which
+// is where the explanation and the warning live -- deliberately NOT
+// duplicating the token entry per card, so there stays exactly one place
+// that describes what a token is before anyone pastes one. Briefly
+// outlines the panel so it is obvious what just moved into view.
+function openTokPanel() {
+  const panel = document.querySelector(".tok-panel");
+  if (!panel) return;
+  panel.open = true;
+  panel.scrollIntoView({ behavior: "smooth", block: "center" });
+  panel.classList.add("tok-flash");
+  setTimeout(() => panel.classList.remove("tok-flash"), 1800);
+  const input = document.getElementById("tok-input");
+  // Delayed so focus does not fight the smooth scroll still in flight.
+  if (input) setTimeout(() => { try { input.focus({ preventScroll: true }); } catch (e) {} }, 500);
 }
 
 function clearReaderToken() {
