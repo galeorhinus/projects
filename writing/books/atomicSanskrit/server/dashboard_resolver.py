@@ -268,14 +268,16 @@ class Handler(BaseHTTPRequestHandler):
         if remaining > 0:
             self._send_json(429, {"error": "too soon", "retry_in": int(remaining) + 1})
             return
-        _last_refresh[key] = now
-
         try:
             REFRESH_TRIGGER.parent.mkdir(parents=True, exist_ok=True)
             REFRESH_TRIGGER.touch()
         except OSError as e:
+            # Cooldown is recorded only AFTER a successful trigger. Setting
+            # it first meant a failed request still burned the reader's
+            # 90 seconds, so a transient error locked them out of retrying.
             self._send_json(500, {"error": f"could not request refresh: {e}"})
             return
+        _last_refresh[key] = now
         self._send_json(202, {"status": "requested",
                               "built": self._page_built_ms(email, roster, status)})
 

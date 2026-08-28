@@ -17,13 +17,20 @@ Group=www-data
 # and invite_status.json, both 640 www-data:www-data -- same reasoning as
 # server/secondshanti-request-access.service.
 #
-# Read-only: this service never writes anything (it only resolves an email
-# to a slug and serves a pre-built page), so it needs no ReadWritePaths at
-# all -- locked down harder than request_access.py's unit, which does write
-# invite_status.json and the oauth2-proxy whitelist.
+# Almost read-only. This service resolves an email to a slug and serves a
+# pre-built page; the ONE thing it writes is the reader "Update now"
+# trigger file, which is why ProtectSystem=strict now carries a single
+# narrow ReadWritePaths exception rather than none at all.
+#
+# Scoped to the directory, not the whole tree: the actual refresh runs in
+# dashboard-refresh.service as ubuntu, and this service is never given the
+# Hypothesis API token or write access to anything else. Without this line
+# the touch fails with EROFS and the button returns HTTP 500 -- observed
+# on first deploy 2026-08-28.
 NoNewPrivileges=true
 PrivateTmp=true
 ProtectSystem=strict
+ReadWritePaths=/var/lib/secondshanti
 
 [Install]
 WantedBy=multi-user.target
