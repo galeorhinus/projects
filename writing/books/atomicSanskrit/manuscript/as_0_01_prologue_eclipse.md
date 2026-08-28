@@ -24,7 +24,7 @@ The asuric pyramid occupies the place of Svarbhānu. Its apex and the layers ben
 
 Proto-Indo-European, or PIE, becomes the instrument of the eclipse. It is a **राहु (*Rāhu*)**-like head placed over the Sun. It has no recorded speakers, no body, and no living mouth. Because it was never alive, the pyramid can present it as an ancestor that can never die.
 
-The figure below shows the obstruction before this book begins exposing and removing its blocks. The reader begins in the pyramid's shadow.
+The pyramid in this sequence is built from eleven blocks. Each block represents a different claim about Sanskrit, and each claim conceals some part of its architecture. The opening figure shows all eleven blocks still in place. Chapter 1 introduces the blocks and the obstruction each one represents. The chapters that follow examine those claims one by one. A block cracks when the examination begins. It falls when the book has exposed the claim and shown why it cannot explain Sanskrit. The reader begins in the pyramid's shadow.
 
 ![Figure E.1 — The Eclipse. Sanskrit is shown as the Sun; the asuric pyramid stands between that light and the world that should receive it.](figures/eclipse_spine/eclipse_00_preface_full.svg){#fig:eclipse-preface-full width=100%}
 
@@ -42,7 +42,7 @@ Hindus continued to recite and teach Sanskrit, but the pyramid taught them to ex
 
 The language calls itself **संस्कृतम् (*saṃskṛtam*)**: well-made, wholly formed, perfectly synthesized.[NOTE: samskrtam-morphology]
 
-Hindu society transmitted Sanskrit through **परम्परा (*paramparā*)**, with one generation teaching the next and no single institution controlling the whole. That continuum distinguished Sanskrit from **प्राकृत (*prākṛta*)**, the naturally changing languages around it. It called movement away from Sanskrit **अपभ्रंश (*apabhraṃśa*)**, deviation. It treated the bond between word and meaning as **सिद्ध (*siddha*)**: already established.
+Hindu society transmitted Sanskrit through **परम्परा (*paramparā*)**, with one generation teaching the next and no single institution controlling the whole. This book calls the people who carried that responsibility across generations caretakers. The continuum distinguished Sanskrit from **प्राकृत (*prākṛta*)**, the naturally changing languages around it. It called movement away from Sanskrit **अपभ्रंश (*apabhraṃśa*)**, deviation. It treated the bond between word and meaning as **सिद्ध (*siddha*)**: already established.
 
 The chapters that follow establish one of the book's refrains:
 
@@ -72,8 +72,28 @@ That invented chronology creates the codification myth. It places changing *"Ved
 
 This book does not replace one invented timeline with another. It examines the architecture first. When an exact date contributes nothing to the argument, the book says *thousands of years*; when a date helps establish a sequence, it provides one.[NOTE: chronology-asymmetry-rationale] Chronology can then perform its proper task: arranging evidence rather than deciding its category.
 
-## Block by Block
+## The Śaṅkha Sounds
 
-The Sun remains radiant behind the pyramid. As the book proceeds, the blocks between that radiance and the observer are exposed and removed.
+::: epigraph
 
-The two sides now stand before the reader. The **शङ्ख (*śaṅkha*)** can be sounded. Its call gathers the seekers and caretakers against the pyramid that placed the blocks before the Sun. With that call, the book begins exposing the blocks.
+> यो अग्रतो रोचनानां समुद्रादधि जज्ञिषे ।\
+> शङ्खेन हत्वा रक्षांस्यत्त्रिणो वि षहामहे ॥
+>
+> *yó agrató rocanā́nāṃ samudrā́d ádhi jajñiṣé |*\
+> *śaṅkhéna hatvā́ rákṣāṃsy attríṇo ví ṣahāmahe ||*
+>
+> You who were born at the head of the shining ones, up out of the sea — with the *śaṅkha*, having slain the *rākṣasas*, we overcome the devourers.
+>
+> `\hfill`{=latex}*— Atharvaveda 4.10.2*
+
+:::
+
+\bigskip
+
+The asuric attacks on the Vedas and Sanskrit are timeless. The Śaṅkha does not begin the conflict; it announces the present attack. Its sound calls the seekers and caretakers to defend what they inherited. When the conch sounds, the eclipse still covers the Sun and all eleven blocks remain in place.
+
+![Figure E.2 — The Śaṅkha Sounds. The full eclipse remains in place, but the conch has sounded while the world is still dark.](figures/eclipse_spine/eclipse_00_overture_shankha_full.svg){#fig:eclipse-overture-shankha width=100%}
+
+The conflict has two sides. On one side stand the seekers and caretakers. On the other stands the asuric pyramid: a finite order with a single apex that demands that everyone look upward for authority.
+
+The Śaṅkha has sounded. Chapter 0 introduces the seekers and caretakers. Chapter 1 introduces the apex-order and its blocks. Part I begins removing them.

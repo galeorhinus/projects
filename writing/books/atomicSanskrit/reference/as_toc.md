@@ -4,7 +4,7 @@
 
 ## Front Matter
 
-- **Preface — Why This Inquiry Began**
+- **Preface — Beyond the Red Lotus**
   - Why Sanskrit Comes First
   - The Story This Book Challenges
   - Two Architectures of Order
@@ -12,12 +12,7 @@
 - **Prologue — The Eclipse**
   - What Was Eclipsed
   - The Pyramid's Clock
-  - Block by Block
-
----
-
-## Overture — The Śaṅkha
-*The war is already underway.*
+  - The Śaṅkha Sounds
 
 ---
 
@@ -73,7 +68,7 @@
 ## Part II — The Sun's Own Account
 *Created, anti-entropic, calibrated.*
 
-**Chapter 5 — *Siddha* and *Kārya***
+**Chapter 5 — सिद्ध (*Siddha*) and कार्य (*Kārya*)**
 - 5.1 The Grammar Before the Grammar
 - 5.2 The Opening Axiom
 - 5.3 The Choice: *Siddha* or *Kārya*
@@ -139,7 +134,7 @@
 ## Part IV — The Sun's Atoms
 *Particle, atom, molecule, assembly.*
 
-**Chapter 10 — Building the *Dhātuḥ* (धातुः): Sanskrit's Atom**
+**Chapter 10 — Building धातुः (*Dhātuḥ*): Sanskrit's Atom**
 - 10.1 The Design Test — From *Sūtra* to *Dhātuḥ*
 - 10.2 From Sonomers to Semantic Atoms
 - 10.3 *Svarāḥ*, *Vyañjanāni*, and the *Mātrā* Envelope
@@ -155,7 +150,7 @@
 - 10.13 The Atomic Corollary
 - 10.14 The Fractal Signature
 
-**Chapter 11 — Building the *Kriyā* (क्रिया): Sanskrit's Molecule**
+**Chapter 11 — Building क्रियापदम् (*Kriyāpadam*): Sanskrit's Verbal Molecule**
 - 11.1 From Semantic Atom to Verbal Molecule
 - 11.2 Five Vedic Activation Procedures
 - 11.3 The Rigveda Preserves the Wider Verbal Range
@@ -163,7 +158,7 @@
 - 11.5 Pāṇini Made the Analysis Explicit
 - 11.6 The Atom Has Become Action
 
-**Chapter 12 — Building the *Vākya* (वाक्य): Sanskrit's Molecular Assembly**
+**Chapter 12 — Building the वाक्यम् (*Vākyam*): Sanskrit's Molecular Assembly**
 - 12.1 From Completed Action to Sentence
 - 12.2 The Vedic ⟪कृ⟫ Family
 - 12.3 From *Śabda* to *Padam*
@@ -263,14 +258,13 @@
 
 ---
 
-## Epilogue — Make the World Ārya
+## Epilogue — The Atris Find the Sun
 
 - The Eclipse Is Over
-- What Recognition Makes Possible
+- Where the Nectar Rises
 - The Contest of Architectures
-- What the Architecture Shows
-- The Chronology Refusal
 - The Invitation
+- Order Through Calibration
 - The Inward Correction
 - The Mantra
 

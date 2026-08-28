@@ -75,14 +75,10 @@ assembly:
     title: Dedication
   - kind: front
     file: manuscript/as_0_01_preface.md
-    title: "Preface — Why This Inquiry Began"
+    title: "Preface — Beyond the Red Lotus"
   - kind: front
     file: manuscript/as_0_01_prologue_eclipse.md
     title: "Prologue — The Eclipse"
-  - kind: part
-    file: manuscript/as_part_00_overture_shankha.md
-    title: "Overture — The Śaṅkha"
-    subtitle: The war is already underway.
   - kind: front
     file: manuscript/as_1_00_seekers.md
     title: "Chapter 0 — Zero, Seekers, and the Infinite"
@@ -110,7 +106,7 @@ assembly:
     subtitle: Created, anti-entropic, calibrated.
   - kind: chapter
     file: manuscript/as_1_05_siddha.md
-    title: "Chapter 5 — *Siddha* and *Kārya*"
+    title: "Chapter 5 — सिद्ध (*Siddha*) and कार्य (*Kārya*)"
   - kind: chapter
     file: manuscript/as_1_06_apabhramsa.md
     title: "Chapter 6 — *Apabhraṃśa* and Entropy"
@@ -124,7 +120,7 @@ assembly:
     title: "Chapter 7 — ॐ (*Oṃ*): The Anatomy of Sound"
   - kind: chapter
     file: manuscript/as_1_08_superset.md
-    title: "Chapter 8 — The Subcontinental Sound-Field"
+    title: "Chapter 8 — The Sounds of the Indian Subcontinent"
   - kind: chapter
     file: manuscript/as_1_09_mapping_mouth.md
     title: "Chapter 9 — The Varṇamālā: The Sonomeric Grid"
@@ -135,13 +131,13 @@ assembly:
     subtitle: Particle, atom, molecule, assembly.
   - kind: chapter
     file: manuscript/as_1_10_building_dhatuh.md
-    title: "Chapter 10 — Building the *Dhātuḥ* (धातुः): Sanskrit's Atom"
+    title: "Chapter 10 — Building धातुः (*Dhātuḥ*): Sanskrit's Atom"
   - kind: chapter
     file: manuscript/as_1_11_building_kriya.md
-    title: "Chapter 11 — Building the *Kriyā* (क्रिया): Sanskrit's Molecule"
+    title: "Chapter 11 — Building क्रियापदम् (*Kriyāpadam*): Sanskrit's Verbal Molecule"
   - kind: chapter
     file: manuscript/as_1_12_building_vakya.md
-    title: "Chapter 12 — Building the *Vākya* (वाक्य): Sanskrit's Molecular Assembly"
+    title: "Chapter 12 — Building the वाक्यम् (*Vākyam*): Sanskrit's Molecular Assembly"
 
   - kind: part
     file: manuscript/as_part_05_anti_entropy_practice.md
@@ -166,7 +162,7 @@ assembly:
     subtitle: Not descended, not sibling.
   - kind: chapter
     file: manuscript/as_1_17_retroflex.md
-    title: "Chapter 17 — The Subcontinental Mouth and Mind"
+    title: "Chapter 17 — The Subcontinental Mouth, Mind, and Order"
   - kind: chapter
     file: manuscript/as_1_18_wrong_question.md
     title: "Chapter 18 — The Wrong Question"
@@ -184,7 +180,7 @@ assembly:
 
   - kind: end
     file: manuscript/as_2_01_epilogue.md
-    title: "Epilogue — Make the World Ārya"
+    title: "Epilogue — The Atris Find the Sun"
   - kind: end
     file: manuscript/as_3_01_baking.md
     title: "Appendix Part 1 — Baking the Mother Tongue"

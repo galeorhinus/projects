@@ -10,25 +10,18 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 
 ## Front Matter
 
-**Preface — Why This Inquiry Began** *(drafted)* — *Begins with the three freedoms examined in* Tatya Tope's Operation Red Lotus *and asks what those freedoms protected. The author's childhood encounter with* sandhi *then connects the political inquiry to Sanskrit's exact architecture. The Preface introduces the* Second Shanti *series, explains the inherited PIE and Aryan accounts without assuming prior knowledge, identifies the two architectures of order, and prepares a non-specialist for the book's route.*
+**Preface — Beyond the Red Lotus** *(drafted)* — *Begins with the three freedoms examined in* Tatya Tope's Operation Red Lotus *and asks what those freedoms protected. The author's childhood encounter with* sandhi *then connects the political inquiry to Sanskrit's exact architecture. The Preface introduces the* Second Shanti *series, explains the inherited PIE and Aryan accounts without assuming prior knowledge, identifies the two architectures of order, and prepares a non-specialist for the book's route.*
 
 - Why Sanskrit Comes First — *The second* śāntiḥ, *the childhood correction, the Vedas as calibrant, and the radiant/calibrant/fractal sequence.*
 - The Story This Book Challenges — *PIE, invasion, migration, the continuing racial claim, and the book's outward-radiance alternative.*
 - Two Architectures of Order — *The seekers and caretakers who protect a distributed calibrant, and the pyramid that encloses knowledge beneath certified authority.*
 - How to Read This Book — *Audience, notation, chapter movement, evidence, and appendices.*
 
-**Prologue — The Eclipse** *(drafted)* — *Opens on Ṛgveda 5.40.5. Svarbhānu covers Sūrya with darkness, just as false categories stand between Sanskrit's radiant architecture and the observer. The Prologue introduces the block-removal spine and gives chronology its limited role before the Śaṅkha is sounded.*
+**Prologue — The Eclipse** *(drafted)* — *Opens on Ṛgveda 5.40.5. Svarbhānu covers Sūrya with darkness, just as false categories stand between Sanskrit's radiant architecture and the observer. The Prologue introduces the eleven-block eclipse sequence, gives chronology its limited role, and closes by sounding the Śaṅkha.*
 
 - What Was Eclipsed — *Sanskrit's self-description, its distributed transmission, and the refrain that the Vedas remain its calibrant.*
 - The Pyramid's Clock — *The finite chronology that turns domain into period and architecture into evolution.*
-- Block by Block — *Each part removes another obstruction placed before the Sun.*
-
----
-
-## Overture — The Śaṅkha
-*The war is already underway.*
-
-*The ignition. The Śaṅkha (Atharvaveda 4.10.2 — the conch that slays the rākṣasas) sounds against the dark. Sanskrit is the Sun; the asuric pyramid has drawn its shadow across the field; the two parties become visible — the seekers and caretakers on one side, the finite apex-order on the other. Lean: it names the eclipse and summons the recovery, then hands to Ch 0 and Ch 1.*
+- The Śaṅkha Sounds — *Atharvaveda 4.10.2 sounds the conch against the dark. The seekers and caretakers stand on one side, the finite apex-order on the other, and the Prologue hands the reader to Chapters 0 and 1.*
 
 ---
 
@@ -94,7 +87,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 
 *Sanskrit's own grammar speaks for itself: the bond is established (*siddha*), not produced; entropy is named (*apabhraṃśa*) and resisted by design.*
 
-**Chapter 5 — *Siddha* and *Kārya*** — *Patañjali's foundational debate about the bond between word and meaning. Is the bond produced (*kārya*) or established (*siddha*)? Patañjali's conclusion — that the bond is* siddha *— is the metaphysical ground on which the engineering thesis stands: Sanskrit began from correctness, not toward it.*
+**Chapter 5 — सिद्ध (*Siddha*) and कार्य (*Kārya*)** — *Patañjali's foundational debate about the bond between word and meaning. Is the bond produced (*kārya*) or established (*siddha*)? Patañjali's conclusion — that the bond is* siddha *— is the metaphysical ground on which the engineering thesis stands: Sanskrit began from correctness, not toward it.*
 
 - 5.1 The Grammar Before the Grammar — *Patañjali's* Mahābhāṣya *and its position in the* vyākaraṇa *discipline.*
 - 5.2 The Opening Axiom — *Kātyāyana's compressed maxim that opens the debate.*
@@ -102,7 +95,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 5.4 The Bond Remains Established — *Patañjali's resolution: the bond is established, permanent, not produced.*
 - 5.5 Sanskrit Begins from Permanence — *What the resolution implies: a language that began from correctness rather than arriving at it by evolution.*
 
-**Chapter 6 — *Apabhraṃśa* and Entropy** — *The vaiyākaraṇāḥ documented the entropy that European philology later treated as the language's defining behavior.* ***Apabhraṃśa*** *— the falling-away — is the entropy resisted by design; Patañjali's correct-to-corrupt ratio is the documentary anchor. The four classifications from Chapter 2 return under entropic pressure, after which **calibrant** describes the anchoring that protects words from drift across three distances: Sanskrit, orbital languages, and forms beyond the active field.*
+**Chapter 6 — *Apabhraṃśa* and Entropy** — *Sanskrit had to survive two enemies: gradual entropy and deliberate asuric attack. The chapter develops* apabhraṃśa *as falling-away, distinguishes drift, deviation, and divergence, and prepares the distributed two-domain defense that Part V later assembles.*
 
 - 6.1 Entropy Has a Name — *Sanskrit calls linguistic falling-away **apabhraṃśa**; the vaiyākaraṇāḥ analyze it as a permanent pressure on established form.*
 - 6.2 Few Words, Many Corruptions — *Patañjali's count of correct-to-corrupt forms; the vaiyākaraṇāḥ were quantitative about drift.*
@@ -146,7 +139,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 8.11 Breath Above the Base — *Mahāprāṇa *and* visarga *prepared as breath made structural.*
 - 8.12 What the Comparison Shows — *The region supplies the sounds; Chapter 9 shows the sieve and the grid.*
 
-**Chapter 9 — The Varṇamālā: The Sonomeric Grid** — *Turns the surveyed sound-field into the selected Sanskrit parts-inventory: garland, address space, control panel, breath axis, measured duration, and sound volume — and lifts the Alphabetic shadow.*
+**Chapter 9 — The Varṇamālā: The Sonomeric Grid** — *Turns the surveyed subcontinental sound inventory into the selected Sanskrit parts-inventory: garland, address space, control panel, breath axis, timed duration, and sound volume — and lifts the Alphabetic shadow.*
 
 - 9.1 The Garland Becomes a Grid — *The Vedic sieve and the* varṇamālā *as Sanskrit's own image of selected sonomers: engineering made radiant.*
 - 9.2 The Four Divisions — *The selected inventory sorted by work: vowels, contact sounds, between-standing, friction/breath, and boundary carriers.*
@@ -167,13 +160,13 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 ## Part IV — The Sun's Atoms
 *Particle, atom, molecule, assembly.*
 
-*The architecture built in sequence: sonomers enter measured scaffolds and become* dhātuḥ *atoms; atoms activate into* kriyā *molecules; molecules enter the* vākya *assembly.*
+*The architecture built in sequence: sonomers enter timed scaffolds and become* dhātuḥ *atoms; atoms activate into* kriyāpadam *molecules; molecules enter the* vākyam *assembly.*
 
-**Chapter 10 — Building the *Dhātuḥ* (धातुः): Sanskrit's Atom** *(drafted)* — *The procedure-first synthesis: how sonomers enter measured scaffolds and become semantic atoms. Opens with* sūtra-lakṣaṇam *as a six-part design specification, builds the atom (*svarāḥ* nuclei,* vyañjanāni*,* mātrā *envelope,* dhāturacanā *scaffold), tests the* dhātuḥ *against the six* sūtra-lakṣaṇāni, *shows the continuum already operated on the engineering premise, and lands the Atomic and Fractal Corollaries.*
+**Chapter 10 — Building धातुः (*Dhātuḥ*): Sanskrit's Atom** *(drafted)* — *The procedure-first synthesis: how sonomers enter timed scaffolds and become semantic atoms. Opens with* sūtra-lakṣaṇam *as a six-part design specification, builds the atom (*svarāḥ* nuclei,* vyañjanāni*,* mātrā *envelope,* dhāturacanā *scaffold), tests the* dhātuḥ *against the six* sūtra-lakṣaṇāni, *shows the continuum already operated on the engineering premise, and lands the Atomic and Fractal Corollaries.*
 
-**Chapter 11 — Building the *Kriyā* (क्रिया): Sanskrit's Molecule** *(drafted)* — *Follows the semantic atom into completed action. Five Rigvedic verbs demonstrate vowel change, insertion, repetition, and nasal extension before the chapter broadens to person, number, time, command, possibility, and desire. The Vedas preserve the completed forms and their pronunciation; Pāṇini makes their recurring procedures explicit. The numerical* gaṇa *analysis remains in Appendix Part 6.*
+**Chapter 11 — Building क्रियापदम् (*Kriyāpadam*): Sanskrit's Verbal Molecule** *(drafted)* — *Follows the semantic atom into completed action. Five Rigvedic verbs demonstrate vowel change, insertion, repetition, and nasal extension before the chapter broadens to person, number, time, command, possibility, and desire. The Vedas preserve the completed forms and their pronunciation; Pāṇini makes their recurring procedures explicit. The numerical* gaṇa *analysis remains in Appendix Part 6.*
 
-**Chapter 12 — Building the *Vākya* (वाक्य): Sanskrit's Molecular Assembly** *(drafted)* — *Follows completed words into sentences. The Rigveda preserves several forms generated from* कृ (kṛ), *role-bearing nominal and verbal endings, compounds, future action, questions, and sentences with several grammatical relations. Those encoded relations permit free word order. The Vedas preserve the grammatical calibrant; the* laukika *domain applies the same architecture to new expression. Chapter 19 now owns the full* apabhraṃśa / vivimorphosis *analysis.*
+**Chapter 12 — Building the वाक्यम् (*Vākyam*): Sanskrit's Molecular Assembly** *(drafted)* — *Follows completed words into sentences. The Rigveda preserves several forms generated from* कृ (kṛ), *role-bearing nominal and verbal endings, compounds, future action, questions, and sentences with several grammatical relations. Those encoded relations permit free word order. The Vedas preserve the grammatical calibrant; the* laukika *domain applies the same architecture to new expression. Chapter 19 now owns the full* apabhraṃśa / vivimorphosis *analysis.*
 
 ---
 
@@ -241,7 +234,7 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 - 17.9 What Sanskrit Builds from the Cluster — *The grammar transforms the subcontinental mouth-and-mind cluster into a precise architecture.*
 - 17.10 The Subcontinental Architecture of Order — *Sanskrit and Tamil preserve grammatical knowledge through distributed custodianship rather than ownership by one linguistic apex.*
 
-**Chapter 18 — The Wrong Question** — *Argues at the level of categories of explanation. The genealogical project asks the wrong question. The architectural test names what any valid model of Sanskrit must explain; the precursor model fails for the same structural reason.*
+**Chapter 18 — The Wrong Question** — *Establishes six requirements for any account of Sanskrit, shows what genealogy and migration cannot explain, compares the pyramid's reconstruction with an honest speculation, and restores Pāṇini's place as the unmatched analyst of an inherited architecture.*
 
 - 18.1 The Architectural Test — *Six core features any valid model of Sanskrit must explain.*
 - 18.2 What Genealogy Cannot Provide — *The categorical failure of genealogical explanation for engineered systems.*
@@ -268,9 +261,9 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 ## Part VII — Life After PIE
 *Light after the eclipse.*
 
-*With Rāhu dispelled, the Sun stands clear and explanation begins: the waves of Sanskrit's calibrant operation across the world, leading to the contemporary phase conditional on the diaspora's re-learning of* āryatva.
+*With Rāhu dispelled, the Sun stands clear and explanation begins: three calibrant waves carry corpus, method, and conscious restatement, while a separate diasporic wave carries living Indian languages and practices.*
 
-**Chapter 20 — Life After PIE** — *Four waves: Wave 1 (pre-Pāṇinian propagation; the Saptaṛṣi roster; the Mitanni anchor); Wave 2 (post-Pāṇinian propagation of formal grammar — Pāṇini restored as decoder, with world grammatical disciplines downstream); the Diasporic Wave (Romani and the modern global diaspora); Wave 3 (the contemporary phase, conditional on the diaspora's re-learning of* āryatva*).*
+**Chapter 20 — Life After PIE** — *Three calibrant waves and one separate diasporic movement: Wave 1 carries Sanskritic structures before Pāṇini; Wave 2 carries explicit analytical method after him; the Diasporic Wave carries languages, memory, and practice through whole communities; Wave 3 consciously restates the recovered architecture in the present.*
 
 - 20.1 Wave 1 — Radiance Before Pāṇini — *The Saptaṛṣi roster, the Mitanni anchor, and outward radiance before formal documentation.*
 - 20.2 Wave 2 — Radiance as Method — *Pāṇini's greatness restored to the right category: portable decoding of grammar-method and its reception beyond India.*
@@ -279,18 +272,17 @@ The thesis summary has moved to `reference/as_thesis_summary.md`. This file now 
 
 ---
 
-## Epilogue — Make the World Ārya
+## Epilogue — The Atris Find the Sun
 
-**Epilogue — Make the World Ārya** *(drafted)* — *The recovery close. The eclipse is over: Svarbhānu's darkness did not win; the Atris found the Sun. The shadow is cleared block by block and Rāhu is dispelled; the dharmic frame (karma,* prāyaścitta*) replaces revenge. Names the three residual shadows that remain — institutional custody, public-knowledge lag, and civilizational self-doubt — as the work of the other Atris, then lands the Rigvedic* kṛṇvanto viśvam āryam | apaghnanto arāvṇaḥ *and the Vāk blessing. The reader now receives the cry.*
+**Epilogue — The Atris Find the Sun** *(drafted)* — *The recovery close. Svarbhānu's darkness did not win; the Atris found the Sun. The Epilogue turns the linguistic recovery toward the contest between two architectures of order, develops distributed calibration as the bridge to later* Second Shanti *volumes, identifies the four residual blocks that remain, and lands the Rigvedic* kṛṇvanto viśvam āryam | apaghnanto arāvṇaḥ *and the Vāc blessing.*
 
 - The Eclipse Is Over — *The wound-line from the Preface returns with the other half supplied: the Atris found the Sun.*
-- What Recognition Makes Possible — *What becomes visible once Sanskrit is no longer forced into the role of PIE's daughter.*
+- Where the Nectar Rises — *The recovered evidence is turned away from the poison of PIE and toward a new investigation of Sanskrit's outward radiance.*
 - The Contest of Architectures — *Sanātan *vs. the fourth Abrahamic religion; the standard that explains why* āryatva *is desirable.*
-- What the Architecture Shows — *The architecture re-presented as the body of evidence the recovery rests on.*
-- The Chronology Refusal — *Category before calendar, echoed at the close without turning chronology into deferred combat.*
 - The Invitation — *The outward turn: inviting the world once the carriers have relearned.*
-- The Inward Correction — *India must not build smaller pyramids inside itself; preserve Sanskrit as calibrant, let the* bhāṣās *flourish. The three residual shadows named as the Atris' work.*
-- The Mantra — *Wave 3 and the reader-as-Atri; the Vāk blessing;* the Sun has been found; the reader now receives the cry.
+- Order Through Calibration — *The linguistic calibrant becomes the working example for a distributed social order in which correction does not require an apex.*
+- The Inward Correction — *India must not build smaller pyramids inside itself; preserve Sanskrit as calibrant and let the* bhāṣās *flourish.*
+- The Mantra — *Wave 3 and the reader-as-Atri; the Vāc blessing;* the Sun has been found; the reader now receives the cry.
 
 ---
 
