@@ -2,6 +2,8 @@
 
 *Created 2026-08-11. Inventory and planning only. No manuscript or public-facing prose was changed during this pass.*
 
+**Structural amendment (2026-08-28):** The Śaṅkha material now closes the Prologue instead of occupying a separate Overture. References below to the Overture record the structure reviewed during the original positioning pass.
+
 ## Purpose
 
 Reveal what *Atomic Sanskrit* does at the depth appropriate to each reader-facing surface. The cover must create recognition and curiosity. The jacket must make a clear promise. The opening pages must state the thesis. The chapters must demonstrate it. The endnotes must place it beside earlier research and writing. The website, proposal, and interviews must adapt the same argument for different audiences without creating competing versions of the book.
@@ -29,7 +31,7 @@ The depth changes by surface:
 - **Front cover:** The title and subtitle can carry the mystery without naming the antagonist.
 - **Jacket:** Name the asuric pyramid, deliberate concealment, and false categorization within the first half of the copy.
 - **Preface:** Define the conflict between calibrant order and pyramidal order before presenting the four parts of the reconstruction.
-- **Overture:** Sound the conflict through the Śaṅkha rather than restating the complete thesis.
+- **Prologue close:** Sound the conflict through the Śaṅkha rather than restating the complete thesis.
 - **Chapter 0:** Teach the categories and evidence after the Preface has declared the conflict.
 - **Website and proposal:** State the conflict within the opening paragraphs and explain why the book uses an accusatory voice.
 - **Companion essay:** Place the reconstruction beside existing literature while making clear that the book also indicts the institutions that concealed it.
@@ -61,7 +63,7 @@ Every positioning surface must draw from this sequence. Most surfaces will use o
 | Jacket / back cover | Make the reader open the book and prepare the reader for its tone | Mystery, named antagonist, false categorization, engineered Sanskrit, Vedic calibrant, PIE consequence, Second Shanti stake | Technical vocabulary, all demonstrations, named neighboring camps | 175–225 words |
 | About the Series | Explain the civilizational purpose | Three *śāntis*, second domain, calibrant order, Sanskrit–Sanskriti bond, later volumes | Market positioning and competing literature | 700–1,000 words after review |
 | Preface | Declare the book's thesis and conflict | Calibrant order, pyramidal order, deliberate concealment, engineered architecture, Vedic encoding, Pāṇini as decoder, radiance, and PIE reversal | Complete chapter map and literature review | 330–400-word declaration within the existing Preface |
-| Overture | Establish the conflict | Śaṅkha, timeless attack, seekers/caretakers, pyramid, concealment | Four-part architecture and novelty comparison | Keep compact; no new thesis inventory |
+| Prologue close | Establish the conflict | Śaṅkha, timeless attack, seekers/caretakers, pyramid, concealment | Four-part architecture and novelty comparison | Keep compact; no new thesis inventory |
 | Chapter 0 | Teach the reader after the Preface has declared the conflict | Existing classroom sequence, categories, and evidence | A second thesis declaration and competing-author survey | No new positioning block |
 | Body chapters | Demonstrate | One architectural claim at a time through evidence | Repeated book-positioning claims | Existing chapter scope |
 | Epilogue | Assemble the consequences | Four-part reconstruction, contest of architectures, responsibility, invitation | Claims of market novelty | 200–350-word synthesis using existing material |
@@ -86,7 +88,7 @@ Every positioning surface must draw from this sequence. Most surfaces will use o
 |---|---:|---|---|---|
 | [About the *Second Shanti* Series](../../as_0_00_about_series.md#L1) | 1,088 | Explains the three *śāntis*, the second domain, radiant/calibrant/fractal sequence, calibrant order, Sanskrit–Sanskriti bond, swastika and pyramid, and later volumes. | Already contains much of the civilizational consequence. It also begins explaining the book's linguistic stack, which the Preface repeats. | Preserve the series purpose. Later test whether the language-specific explanation at lines 11–13 and the extended conflict material belong here or in the Preface. |
 | [Preface — The Eclipse](../../as_0_01_preface.md#L1) | 1,984 | Declares the eclipse, names Sanskrit as engineered, identifies the Vedic matrix, rejects the chronological domain split, places Pāṇini as decoder, introduces radiance, and gives the author's formative example. | Carries nearly the complete thesis, but the claims appear across several sections rather than in one concise declaration. It repeats some About-the-Series material and parts of Chapter 0. | Draft one explicit thesis block using the four contributions. Preserve the personal story and eclipse function. Identify repeated material before proposing cuts. |
-| [Overture — The Śaṅkha](../../as_part_00_overture_shankha.md#L1) | 333 | Sounds the call, introduces the two sides, and hands the reader to Chapters 0 and 1. | Its narrow purpose is clear. Adding a four-part thesis would weaken the beat. | Keep structurally unchanged. Audit only for terminology after other deployments settle. |
+| [The Śaṅkha Sounds](../../manuscript/as_0_01_prologue_eclipse.md#the-śaṅkha-sounds) | Prologue close | Sounds the call, introduces the two sides, and hands the reader to Chapters 0 and 1. | Its narrow purpose is clear. Adding a four-part thesis would weaken the beat. | Preserve this function inside the merged Prologue. |
 | [Chapter 0 — Zero, Seekers, and the Infinite](../../as_1_00_seekers.md#L1) | 5,245 | Introduces generativity, seekers, Sanskrit in plain sight, *saṃskṛtam/prākṛtāni*, two domains, the Vedic calibrant, *sat/ṛta*, civilizational preservation, and the fractal test. | Contains all four contributions in pieces but does not gather them into a compact roadmap. Several explanations overlap the About page and Preface. | Draft a roadmap by adapting existing sentences rather than adding a second summary. Preserve the chapter's classroom movement. |
 | [Epilogue — The Atris Find the Sun](../../as_2_01_epilogue.md#L1) | 4,290 | Assembles PIE's removal, research directions, contest of architectures, calibrant order, responsibility, and Wave 3. | Already performs much of the required synthesis. It should not add a literature-positioning claim. | Later test whether the four contributions can be named through existing paragraphs without adding a new inventory. |
 
@@ -116,7 +118,7 @@ Every positioning surface must draw from this sequence. Most surfaces will use o
 - About the Series clearly explains the second *śānti* and calibrant order.
 - The Preface already declares engineered Sanskrit, Vedic encoding, Pāṇini as decoder, and the PIE eclipse.
 - Chapter 0 already contains the evidence needed for the four-part roadmap.
-- The Overture has a distinct and disciplined purpose.
+- The Śaṅkha movement has a distinct and disciplined purpose inside the Prologue.
 - The Epilogue already assembles linguistic recovery into civilizational responsibility.
 - The introductory WhatsApp message provides a tested plain-language seed for public copy.
 
@@ -389,7 +391,7 @@ The review decided:
 ## Pass 3 — Internal Deployment
 
 - [x] Deploy the approved Preface and Epilogue blocks. Make no new Chapter 0 insertion; apply only the approved repetition correction to About the Series.
-- [x] Keep the Overture focused on the Śaṅkha and the conflict.
+- [x] Keep the Prologue's closing movement focused on the Śaṅkha and the conflict.
 - [x] Record every removed or condensed passage in Lost and Found.
 - [x] Confirm that no internal chapter pointer requires an update because no section structure changed.
 - [x] Run a repetition pass across the complete opening sequence.
@@ -397,13 +399,13 @@ The review decided:
 
 ## Review Gate 2
 
-**Status:** **APPROVED 2026-08-11.** The author reviewed About the Series, Preface, Overture, and Chapter 0 in sequence and approved the opening flow.
+**Status:** **APPROVED 2026-08-11.** The author reviewed About the Series, Preface, Overture, and Chapter 0 in sequence and approved the opening flow. The Overture was later absorbed into the Prologue without changing its narrow function.
 
 The author reads the complete opening sequence in order:
 
 1. About the Series
 2. Preface
-3. Overture
+3. Prologue, closing with the Śaṅkha
 4. Chapter 0
 
 The review asks whether each page performs a distinct job and whether an intelligent non-specialist understands the book's complete promise before Chapter 1.

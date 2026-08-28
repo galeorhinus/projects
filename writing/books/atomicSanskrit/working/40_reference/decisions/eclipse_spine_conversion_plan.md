@@ -2,6 +2,8 @@
 
 *Working doc / single source of truth for the spine conversion. Decided 2026-06-20 (author + Claude + Codex converged). The eclipse becomes the book's sole controlling frame; the courtroom is removed from the visible spine. **No chapters move.** This is a spine-narration + light-insertion pass, not a restructure.*
 
+**Structural amendment (2026-08-28):** The standalone Overture was merged into the Prologue as the closing section **The Śaṅkha Sounds**. Both eclipse figures remain in the Prologue. The numbered sequence now begins with Part I. References below to a separate Overture preserve the design history that preceded this amendment.
+
 ---
 
 ## 1. The decision
@@ -43,9 +45,9 @@
 | **Part II** (Ch 5–6) | The Sun's own account | **Wholly Created · Anti-entropic · Self-Correcting** |
 | **Part III** (Ch 7–9) | The Sun's sound-body | **Sonomeric** (+ the *Alphabetic* correction in Ch 9 → Audiographic begins) |
 | **Part IV** (Ch 10–12) | The Sun's atoms | **Atomic architecture** under the sonomers |
-| **Part V** (Ch 13–15) | The Sun does not decay | **Vedic Matrix · Calibrated-in-practice** (+ the *Abugida* correction in Ch 13 → **Audiographic** completes) |
-| **Part VI** (Ch 16–18) | Dispelling Rāhu | **Calibrant** — not Descended, not Sibling |
-| **Part VII** (Ch 19) | Light after the eclipse | the calibrant radiates outward (the waves) |
+| **Part V** (Ch 13–16) | The Sun does not decay | **Vedic Matrix · Calibrated-in-practice** (+ the *Abugida* correction in Ch 13 → **Audiographic** completes) |
+| **Part VI** (Ch 17–19) | Dispelling Rāhu | **Calibrant** — not Descended, not Sibling |
+| **Part VII** (Ch 20) | Light after the eclipse | the calibrant radiates outward (the waves) |
 | Finale / Epilogue | The Atris find the Sun | the whole disc; the reader/caretaker becomes Atri |
 
 **Two split rows to track in the openers:** *Wholly Created* is **asserted** in Part II and **defended** (descended removed) in Part VI; *Audiographic* is split across Ch 9 (*Alphabetic*) and Ch 13 (*Abugida*) — see §6.
@@ -174,7 +176,7 @@ The swastika is doubly apt here: an ancient solar sign and the book's emblem of 
 
 | Location | Figure state |
 |---|---|
-| **Preface** | Full three-component eclipse schematic: Sanskrit-Sun, 11-block Svarbhānu/Rāhu-pyramid, and shadowed world/reader-field. |
+| **Prologue** | Full three-component eclipse schematic followed by the Śaṅkha figure; all 11 blocks remain in place while the call to recovery sounds. |
 | **Ch 0** | Sanskrit-Sun close-up: glowing rounded swastika with `संस्कृतम्` and the four internal architecture words. |
 | **Ch 1** | Pyramid close-up: 11 blocks, binding rim, apex, and shadow logic. |
 | **Part I opener** | Full eclipse; blocks 1–3 intact but ready to be exposed. |

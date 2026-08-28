@@ -199,8 +199,8 @@ duplicating every caption. The live figure calls remain the detailed register.
 
 | Owner | Deployed references | Figure family / asset location | Notes |
 |---|---:|---|---|
-| Preface | 1 | `figures/eclipse_spine/` | Opening eclipse-spine figure. |
-| Overture and Parts I–VII | 8 | `figures/eclipse_spine/` | Intentionally repeated narrative spine. |
+| Prologue | 2 | `figures/eclipse_spine/` | The opening eclipse and the Śaṅkha response. |
+| Parts I–VII | 7 | `figures/eclipse_spine/` | Intentionally repeated narrative spine. |
 | Chapter 0 | 3 | `figures/eclipse_spine/`, `figures/seekers/` | Eclipse-spine figure and Figures 0.1–0.2. |
 | Chapter 1 | 1 | `figures/eclipse_spine/` | Eclipse-spine figure. |
 | Chapter 2 | 3 | `figures/botanical/` | Categories, movements, and misclassification. |

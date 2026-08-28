@@ -37,7 +37,7 @@ The de-AI rules live in the user-memory note `feedback_deai_humanize_prose.md` a
 | — | as_0_01_preface | Preface | 102 | 🟡 swept (5) — doubled, awaiting review (author-template pass) |
 | — | as_0_02_acknowledgements | Acknowledgements | 14 | ➖ |
 | — | as_0_04_note_on_notes | Note on the Notes | 9 | ➖ |
-| — | as_part_00_overture_shankha | Overture — *The Śaṅkha* | 33 | 🟡 swept (1) — doubled, awaiting review |
+| — | as_0_01_prologue_eclipse | Prologue — *The Eclipse* / *The Śaṅkha Sounds* | 99 | 🟡 swept (1) — doubled, awaiting review |
 | **I** | as_part_01_wrong_metaphor | Part I opener | 59 | 🟡 swept (2) — doubled, awaiting review |
 | 0 | as_1_00_seekers | Seekers | 197 | 🟡 swept (4) — doubled, awaiting review |
 | 1 | as_1_01_one_oppressors_finite | One / Oppressors / Finite | 115 | 🟡 swept (2) — doubled, awaiting review (He-drip protected) |

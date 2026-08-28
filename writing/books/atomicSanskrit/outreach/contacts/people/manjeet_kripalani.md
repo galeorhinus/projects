@@ -31,13 +31,13 @@ These are possible later outcomes, not requests for the first email.
 
 Dear Manjeet,
 
-I still remember your generosity in organizing discussions of *Operation Red Lotus* at Gateway House and later at your home in Bombay.
+I still remember your generosity in organizing discussions of Operation Red Lotus at Gateway House and later at your home in Bombay.
 
-Around that time, I told you that I was working on a book about Hindu polity and its conflict with the pyramid. We discussed the possibility of "inverting the pyramid." The distinction has since become central to the project. Sanātan does not invert the pyramid. It preserves a fundamentally different architecture of order.
+Around that time, I told you that I was working on a book about Hindu polity and its conflict with the pyramid. We discussed the possibility of “inverting the pyramid.” The distinction has since become central to the project. Sanātan does not invert the pyramid. It preserves a fundamentally different architecture of order.
 
-That inquiry led me deeper into Sanskrit. Fifteen years later, the first volume is complete. *Atomic Sanskrit* argues that Sanskrit and the Vedas preserve a living example of this alternative architecture. It creates order through a distributed calibrant, a shared standard that no apex can own. The pyramid creates order by concentrating authority at the top.
+That inquiry led me deeper into Sanskrit. Fifteen years later, the first volume is complete. *Atomic Sanskrit* argues that Sanskrit and the Vedas preserve a living example of this alternative architecture. A shared calibrant stands at its center: a standard everyone can reach and no apex can own. **The pyramid, by contrast, creates order by concentrating authority at the top.**
 
-You were one of the first people with whom I discussed the larger project. I would value the opportunity to reconnect and share a short overview with you.
+You were one of the first people with whom I discussed the larger project. If the argument interests you, I would be glad to send you a short overview.
 
 Warmly,
 

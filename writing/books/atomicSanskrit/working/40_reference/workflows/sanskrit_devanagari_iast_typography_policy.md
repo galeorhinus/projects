@@ -111,6 +111,8 @@ Established English-facing names and titles do not require Devanagari on every o
 - Rāmāyaṇa
 - Mahābhārata
 
+Distinguish an English-facing proper name from an inflected Sanskrit form. Personified Speech is **Vāc** in English prose. The lexical stem is **वाच् (*vāc*)** and the Sanskrit nominative is **वाक् (*vāk*)**, while a mantra may use another inflected form such as **वाचम् (*vācam*)**. Preserve conventional titles and personal names such as *Vāk Sūkta* and Vāk Ambhṛṇī. Never pair one Devanagari form with the transliteration of another.
+
 Words already functioning as ordinary English words, such as *yoga, karma,* and *mantra*, may also remain in their familiar English form when their Sanskrit construction is not part of the argument.
 
 Use the full Devanagari-IAST pair when the written form, pronunciation, derivation, or Sanskrit meaning of any familiar name or borrowed word becomes evidence.

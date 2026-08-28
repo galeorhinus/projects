@@ -2,7 +2,8 @@
 
 **Created:** 2026-08-25  
 **Status:** COMPLETE — revised opening deployed; final source-only continuity and absorption audits completed 2026-08-25  
-**Primary files:** `manuscript/as_0_01_preface.md`, `manuscript/as_0_01_prologue_eclipse.md`, `manuscript/as_part_00_overture_shankha.md`, `manuscript/as_1_00_seekers.md`, `as_book.yaml`  
+**Structural amendment (2026-08-28):** The standalone Overture was merged into `manuscript/as_0_01_prologue_eclipse.md` as **The Śaṅkha Sounds**. The current sequence is Preface → Prologue → Chapter 0 → Chapter 1 → Parts I–VII. References below to a separate Overture record the earlier approved structure.
+**Primary files:** `manuscript/as_0_01_preface.md`, `manuscript/as_0_01_prologue_eclipse.md`, `manuscript/as_1_00_seekers.md`, `as_book.yaml`
 **Source notes:** post-*Operation Red Lotus* notes supplied 2026-08-25  
 
 ## 1. The Problem
