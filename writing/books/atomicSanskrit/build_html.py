@@ -70,8 +70,8 @@ TEMPLATE_404 = BOOK_DIR / "templates" / "error_404.html"
 # render_landing() below converts it to HTML the same way a chapter's
 # markdown becomes a page, so a jacket-copy edit + `python3
 # build_html.py` + deploy is the whole pipeline, with no separate
-# hardcoded copy to keep in sync. Set to the "question-led" variant as
-# of 2026-08-14 — swap this path to promote a different variant to
+# hardcoded copy to keep in sync. Set to the "challenge-led" variant as
+# of 2026-08-29 — swap this path to promote a different variant to
 # default; whichever file was previously here should move into
 # JACKET_COPY_VARIANTS below so it stays reachable as a reviewer
 # alternate rather than disappearing.
@@ -85,9 +85,9 @@ TEMPLATE_404 = BOOK_DIR / "templates" / "error_404.html"
 # bio); cover/<book>/ holds that volume's own jacket copy. The companion and
 # the concise edition get their own subdirectories when they have copy.
 COVER_DIR = BOOK_DIR / "cover" / "manuscript"
-JACKET_COPY_SRC = COVER_DIR / "jacket_copy_question_led.md"
+JACKET_COPY_SRC = COVER_DIR / "jacket_copy_challenge_led.md"
 
-# The three alternates to JACKET_COPY_SRC, reviewed 2026-08-12 against the
+# The alternates to JACKET_COPY_SRC, reviewed 2026-08-12 against the
 # version live on the landing page. Each renders to its own gated page
 # under /as/jacket-copy/<slug>/ via render_jacket_copy_variant(), behind
 # the same oauth2-proxy gate as /as/private/* (see Caddyfile), with
@@ -98,6 +98,9 @@ JACKET_COPY_SRC = COVER_DIR / "jacket_copy_question_led.md"
 # (see the reviewer-links script in templates/landing.html). Add/remove
 # entries here to add/retire a variant.
 JACKET_COPY_VARIANTS = [
+    # Was the default until 2026-08-29; kept reachable here rather than
+    # dropped, per the note on JACKET_COPY_SRC above.
+    {"slug": "question-led", "src": COVER_DIR / "jacket_copy_question_led.md"},
     {"slug": "statement-led", "src": COVER_DIR / "jacket_copy_statement_led.md"},
     {"slug": "revelations", "src": COVER_DIR / "jacket_copy_revelations.md"},
     {"slug": "website-version", "src": COVER_DIR / "website_copy_questions_answers.md"},
