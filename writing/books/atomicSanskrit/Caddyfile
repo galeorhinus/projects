@@ -101,7 +101,7 @@ secondshanti.org {
 	# two pages were later renamed (see the dedicated redirects below),
 	# so folding their old slugs in here would land a 308 on a page that
 	# no longer exists.
-	@legacy path_regexp legacy ^/as/(about-series|acknowledgements|adivadya|apabhramsa|audiography|aural|baking|botanical|building-dhatuh|building-kriya|building-vakya|by-the-numbers|calibration|css|dhatuh|encyclopaedic|endnotes|epilogue|figures|fourth-abrahamic|glossary|language-factory|life-after-pie|mapping-mouth|note-on-notes|pie-in-sky|preface|preservation|prologue|retroflex|seekers|siddha|strategic|superset|wrong-question)(/.*)?$
+	@legacy path_regexp legacy ^/as/(about-series|acknowledgements|adivadya|apabhramsa|audiography|aural|baking|botanical|building-dhatuh|building-kriya|building-vakya|by-the-numbers|calibration|css|dhatuh|encyclopaedic|endnotes|epilogue|figures|fourth-abrahamic|glossary|language-factory|life-after-pie|mapping-mouth|note-on-notes|pie-in-sky|preface|preservation|retroflex|seekers|siddha|strategic|superset|wrong-question)(/.*)?$
 	redir @legacy /as/book/{re.legacy.1}{re.legacy.2} 308
 
 	# Appendix renames (2026-08-13): vedic-carrier -> architecture-in-vedas
@@ -115,6 +115,18 @@ secondshanti.org {
 	redir @renamed-vedic-carrier /as/book/architecture-in-vedas{re.renamed_vc.1} 308
 	@renamed-codification-story path_regexp renamed_cs ^/as/(?:book/)?codification-story(/.*)?$
 	redir @renamed-codification-story /as/book/codification-myth{re.renamed_cs.1} 308
+
+	# Prologue renamed (2026-08-28): as_0_01_prologue.md became
+	# as_0_01_prologue_eclipse.md when the eclipse spine replaced the
+	# courtroom frame, so the page moved from /as/book/prologue/ to
+	# /as/book/prologue-eclipse/. Both forms need catching: /as/prologue
+	# was in the @legacy list above (removed there, since that rule would
+	# have 308'd it onto /as/book/prologue, which does not exist), and
+	# /as/book/prologue matched nothing at all — which is what a reader
+	# annotation from June points at, and why the dashboard's live-check
+	# reported "HTTP Error 404: Not Found" against it.
+	@renamed-prologue path_regexp renamed_pro ^/as/(?:book/)?prologue(/.*)?$
+	redir @renamed-prologue /as/book/prologue-eclipse{re.renamed_pro.1} 308
 
 	# Overture merged into the Prologue (2026-08-28): the Śaṅkha opener is
 	# no longer its own page, and as_part_00_overture_shankha.md is gone
