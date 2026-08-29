@@ -61,6 +61,8 @@ import json
 import re
 import subprocess
 import sys
+import time
+import traceback
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -217,9 +219,42 @@ class Handler(BaseHTTPRequestHandler):
     server_version = "DashboardAPI/1.0"
 
     def log_message(self, fmt, *args):
-        pass  # Caddy's own access log already records this upstream.
+        # Silenced deliberately: BaseHTTPRequestHandler calls this once per
+        # send_response, which would duplicate the single summary line
+        # do_POST emits below.
+        pass
 
     def do_POST(self):
+        """Time, route and log one request, and never let an exception escape.
+
+        An unhandled exception here propagates into BaseHTTPRequestHandler,
+        which closes the connection without writing a response; Caddy turns
+        that into a bare 502 and no log anywhere says why. Confirmed
+        2026-08-29: three 502s on the reply endpoint left nothing in this
+        service's journal, in Caddy's, or in oauth2-proxy's beyond the status
+        code, because request logging was off here on the assumption that
+        Caddy recorded it upstream — Caddy logs nothing either."""
+        started = time.monotonic()
+        route = self.path.rstrip("/") or "/"
+        self._status = None
+        try:
+            self._route_post()
+        except Exception:
+            traceback.print_exc(file=sys.stderr)
+            if self._status is None:
+                try:
+                    self._send_json(500, {"error": "internal error"})
+                except Exception:
+                    traceback.print_exc(file=sys.stderr)
+        finally:
+            elapsed_ms = (time.monotonic() - started) * 1000
+            print(
+                f"POST {route} -> {self._status} ({elapsed_ms:.0f}ms)",
+                file=sys.stderr,
+                flush=True,
+            )
+
+    def _route_post(self):
         owner_header = self.headers.get("X-Forwarded-Email", "")
         if owner_header.strip().lower() != OWNER_EMAIL:
             self._send_json(403, {"error": "forbidden"})
@@ -416,6 +451,7 @@ class Handler(BaseHTTPRequestHandler):
         self._send_json(200, {"status": "posted", "tag": tag})
 
     def _send_json(self, status: int, body: dict) -> None:
+        self._status = status
         encoded = json.dumps(body).encode("utf-8")
         self.send_response(status)
         self.send_header("Content-Type", "application/json")
