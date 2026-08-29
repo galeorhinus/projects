@@ -11,11 +11,13 @@ title: Atomic Sanskrit
 subtitle: "The Radiant, Calibrant, and Fractal Architecture of Sanātan"
 series: "Volume 1 of *Second Shanti*"   # Rendered onto the title page via header-includes below.
 author: Parag Tope
+date: "PRE-PUBLICATION REVIEW COPY — September 2026"
 lang: en-US
 
 # --- Typography ---
 mainfont: EB Garamond              # Latin + IAST diacritics
-devanagarifont: Adobe Devanagari   # custom variable; substituted into templates/devanagari-preamble.tex.in
+devanagarifont: Tiro Devanagari Sanskrit   # OFL; covers Vedic Extensions, which Adobe Devanagari does not
+devanagarifontoptions: AutoFakeBold=1.8    # Tiro ships no bold weight; the book sets 106 Devanagari headings
 # fontsize moved to build_book.py's LAYOUT_FONTSIZES (2026-08-27) — like PDF
 # geometry, base font size is layout-specific (a phone-trim page wants
 # smaller type than a letter page), so it lives beside LAYOUTS rather than
@@ -25,7 +27,10 @@ linestretch: 1.15
 # --- Document structure ---
 documentclass: book
 top-level-division: chapter
-toc: true
+# The PDF inserts its contents and figure lists at the proper point in the
+# front matter through manuscript/as_0_00_contents.md. The HTML build creates
+# its own contents page directly from the assembly below.
+toc: false
 toc-depth: 2
 colorlinks: true
 linkcolor: NavyBlue
@@ -73,12 +78,17 @@ assembly:
   - kind: dedication
     file: manuscript/as_0_00_dedication.md
     title: Dedication
+    html_only: true
   - kind: front
     file: manuscript/as_0_01_preface.md
     title: "Preface — Beyond the Red Lotus"
   - kind: front
     file: manuscript/as_0_01_prologue_eclipse.md
     title: "Prologue — The Eclipse"
+  - kind: dedication
+    file: manuscript/as_0_00_mainmatter.md
+    title: Main Matter
+    pdf_only: true
   - kind: front
     file: manuscript/as_1_00_seekers.md
     title: "Chapter 0 — Zero, Seekers, and the Infinite"
@@ -219,5 +229,11 @@ assembly:
     file: manuscript/as_0_04_note_on_notes.md
     title: A Note on the Notes
   - kind: end
+    file: manuscript/as_0_05_figure_credits.md
+    title: Figure Credits
+  - kind: end
     file: manuscript/as_endnotes.md
     title: Endnotes
+  - kind: end
+    file: manuscript/as_0_06_about_author.md
+    title: About the Author

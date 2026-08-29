@@ -106,6 +106,7 @@ REFERENCE_FRONT_FILE = BOOK_DIR / "companion" / "as_reference_front.md"
 REFERENCE_APPENDIX_GLOB = "companion/as_reference_*.md"
 PREAMBLE_TEMPLATE = BOOK_DIR / "templates" / "devanagari-preamble.tex.in"
 LATEX_STRIKEOUT_FILTER = BOOK_DIR / "filters" / "latex-strikeout.lua"
+LATEX_SHORT_FIGURE_CAPTIONS_FILTER = BOOK_DIR / "filters" / "latex-short-figure-captions.lua"
 
 # Reuse the existing figure lineage comment writer. The helper lives under
 # figures/_shared, so expose figures/ as an import root for this script.
@@ -166,7 +167,7 @@ STUB_FILES = {
 LAYOUTS = {
     "letter": "letterpaper,margin=1in",
     # A4 with 1in margins — for the `convert` subcommand / non-US page size.
-    "a4": "a4paper,inner=1in,outer=0.35in,top=0.5in,bottom=0.5in",
+    "a4": "a4paper,inner=1in,outer=0.5in,top=0.75in,bottom=0.75in",
     # ~4.5×7.5 text block centered on 8.5×11 — book-page mock-up on letter paper.
     "book-on-letter": "paperwidth=8.5in,paperheight=11in,textwidth=4.5in,textheight=7.5in,centering",
     # True 6×9 trim with book-style asymmetric margins (inner > outer for binding).
@@ -189,10 +190,10 @@ LAYOUTS = {
 LAYOUT_FONTSIZES = {
     "letter": "12pt",
     "a4": "14pt",
-    "book-on-letter": "11pt",
-    "trade": "11pt",
-    "trade-crop": "11pt",
-    "phone": "11pt",
+    "book-on-letter": "12pt",
+    "trade": "12pt",
+    "trade-crop": "12pt",
+    "phone": "12pt",
 }
 
 # Which sizes each document class actually implements, and the class to use
@@ -254,8 +255,18 @@ PART_HEADER_RE   = re.compile(
 # is to wrap each script's runs in raw-LaTeX `{\<fontname> …}` so the font
 # switch is unconditional inside the wrap group.
 SCRIPT_WRAPS: list[tuple[str, re.Pattern]] = [
-    # Devanagari block + ZWJ/ZWNJ joiners.
-    (r"\devanagarifont",  re.compile(r"[ऀ-ॿ‌‍]+")),
+    # Sindhi implosives (U+097B–U+097F): ॻ ॼ ॽ ॾ ॿ. The configured Sanskrit
+    # face has no glyphs for these letters. Ordering alone cannot separate
+    # this from the Devanagari rule below — every rule is applied to the
+    # whole text, so whichever runs second re-matches the codepoint sitting
+    # inside the first one's wrap and nests a second one around it
+    # (confirmed: `{\sindhifont `{\devanagarifont ॿ}`{=latex}}` -> "Too many
+    # }'s"). The two ranges must therefore be disjoint: the Devanagari rule
+    # below stops at U+097A rather than running to the end of the block.
+    (r"\sindhifont",      re.compile(r"[ॻ-ॿ]+")),
+    # Devanagari block up to U+097A + ZWJ/ZWNJ joiners. See above for why
+    # this stops short of ॿ (U+097F) instead of covering the whole block.
+    (r"\devanagarifont",  re.compile(r"[ऀ-ॺ‌‍]+")),
     # Vedic Extensions (U+1CD0–U+1CFF). Kept separate because the configured
     # Adobe Devanagari face does not contain signs such as upadhmānīya (ᳶ).
     (r"\vedicfont",       re.compile(r"[᳀-᳿]+")),
@@ -806,6 +817,33 @@ def cmd_stubs(force: bool = False) -> int:
     return 0
 
 
+def read_yaml_value_opt(path: Path, key: str, default: str = "") -> str:
+    """read_yaml_value, but returns `default` instead of raising when the key
+    is absent — for optional metadata a book file may simply not carry."""
+    try:
+        return read_yaml_value(path, key)
+    except KeyError:
+        return default
+
+
+def render_devanagari_preamble(metadata_file: Path) -> Path:
+    """Substitute the Devanagari font name and its fontspec options into the
+    preamble template, writing the rendered build artifact.
+
+    The options list is data (as_book.yaml's `devanagarifontoptions`) because
+    it is font-specific: Tiro Devanagari Sanskrit ships no bold weight and
+    needs AutoFakeBold for the book's Devanagari headings, whereas a face with
+    a real bold must not have one synthesized over it."""
+    font = read_yaml_value(metadata_file, "devanagarifont")
+    opts = read_yaml_value_opt(metadata_file, "devanagarifontoptions")
+    text = PREAMBLE_TEMPLATE.read_text()
+    text = text.replace("__DEVANAGARIFONTOPTS__", f",{opts}" if opts else "")
+    text = text.replace("__DEVANAGARIFONT__", font)
+    out = BUILD_DIR / "devanagari-preamble.tex"
+    out.write_text(text)
+    return out
+
+
 def read_yaml_value(path: Path, key: str) -> str:
     """Extract a single top-level scalar value from a YAML file.
     Minimal no-dependency reader — handles `key: value` lines, optional
@@ -960,6 +998,8 @@ def cmd_assemble(endnotes_mode: str = "full", promote_svgs: bool = True) -> int:
 
     missing: list[str] = []
     for entry in ASSEMBLY:
+        if entry.get("html_only") == "true":
+            continue
         kind = entry["kind"]
         filename = entry["file"]
         title = entry["title"]
@@ -1034,7 +1074,10 @@ def cmd_assemble(endnotes_mode: str = "full", promote_svgs: bool = True) -> int:
             chunks[:] = [numbered_body]
             unified = render_unified_endnotes(notes, mode=endnotes_mode)
             if unified:
-                chunks.append("\n" + unified)
+                # Keep a complete Markdown block boundary after the generated
+                # notes. Back matter may follow the Endnotes entry, and a
+                # single newline would fold its H1 into the final note.
+                chunks.append("\n\n" + unified.rstrip() + "\n\n")
                 mode_label = "short" if endnotes_mode == "short" else "full"
                 print(f"  include unified Endnotes ({len(notes)} entries, "
                       f"mode={mode_label})")
@@ -1340,10 +1383,7 @@ def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full",
 
     # Generate the Devanagari preamble by substituting the font name from
     # as_book.yaml into the template. The rendered file is a build artifact.
-    devanagari_font = read_yaml_value(METADATA_FILE, "devanagarifont")
-    preamble_text = PREAMBLE_TEMPLATE.read_text().replace("__DEVANAGARIFONT__", devanagari_font)
-    generated_preamble = BUILD_DIR / "devanagari-preamble.tex"
-    generated_preamble.write_text(preamble_text)
+    generated_preamble = render_devanagari_preamble(METADATA_FILE)
 
     geometry = LAYOUTS[layout]
     fontsize = LAYOUT_FONTSIZES[layout]
@@ -1354,6 +1394,8 @@ def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full",
         "-o", str(pdf_path),
         "--pdf-engine=xelatex",
         "--metadata-file", str(METADATA_FILE),
+        "--include-before-body", str(BOOK_DIR / "templates" / "review-frontmatter.tex"),
+        "--lua-filter", str(LATEX_SHORT_FIGURE_CAPTIONS_FILTER),
         "--lua-filter", str(LATEX_STRIKEOUT_FILTER),
         # Layout geometry and fontsize are layout-specific (CLI-driven), so
         # they stay outside YAML.
@@ -1481,10 +1523,7 @@ def cmd_reference(layout: str = "letter", progress_pages: int = DEFAULT_PROGRESS
     # the companion's font name (which currently matches the book's; the
     # template substitution still goes through so the two pipelines are
     # symmetric).
-    devanagari_font = read_yaml_value(REFERENCE_METADATA_FILE, "devanagarifont")
-    preamble_text = PREAMBLE_TEMPLATE.read_text().replace("__DEVANAGARIFONT__", devanagari_font)
-    generated_preamble = BUILD_DIR / "devanagari-preamble.tex"
-    generated_preamble.write_text(preamble_text)
+    generated_preamble = render_devanagari_preamble(REFERENCE_METADATA_FILE)
 
     geometry = LAYOUTS[layout]
     cmd = [
@@ -1543,10 +1582,7 @@ def cmd_convert(input_arg: str | None, layout: str = "letter", output_arg: str |
 
     # Devanagari preamble (same substitution the book render uses), so
     # देवनागरी renders with the configured font.
-    devanagari_font = read_yaml_value(METADATA_FILE, "devanagarifont")
-    preamble_text = PREAMBLE_TEMPLATE.read_text().replace("__DEVANAGARIFONT__", devanagari_font)
-    generated_preamble = BUILD_DIR / "devanagari-preamble.tex"
-    generated_preamble.write_text(preamble_text)
+    generated_preamble = render_devanagari_preamble(METADATA_FILE)
 
     # Pull only the font from as_book.yaml (not the full metadata) — the Latin
     # font carries the IAST diacritics; the title/header-includes are left

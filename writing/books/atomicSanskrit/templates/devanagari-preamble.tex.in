@@ -20,6 +20,25 @@
 \usepackage{caption}
 \usepackage[normalem]{ulem}
 
+% A book-class chapter starts on a recto page. Keep any intervening verso
+% genuinely blank instead of carrying the preceding chapter's running header.
+\makeatletter
+\renewcommand{\cleardoublepage}{%
+  \clearpage
+  \if@twoside
+    \ifodd\c@page\else
+      \hbox{}\thispagestyle{empty}\newpage
+      \if@twocolumn\hbox{}\newpage\fi
+    \fi
+  \fi}
+\makeatother
+
+% Pandoc normally calls \mainmatter before the assembled manuscript begins.
+% The Preface and Prologue belong to the front matter, so defer that switch
+% until the explicit marker immediately before Chapter 0.
+\let\bookmainmatter\mainmatter
+\renewcommand{\mainmatter}{}
+
 % Figure numbers are authored directly in Markdown captions (for example,
 % Figure 0.1 and Figure E.3). Suppress LaTeX's independent sequential label so
 % numbered and intentionally unnumbered captions both render as written.
@@ -32,10 +51,18 @@
 \renewcommand{\textfraction}{0.1}
 \renewcommand{\floatpagefraction}{0.85}
 
-\newfontfamily{\devanagarifont}[Script=Devanagari]{__DEVANAGARIFONT__}
-% Adobe Devanagari does not cover the Vedic Extensions block. Use a Sanskrit
-% face only for those signs so ordinary Devanagari typography remains intact.
+\newfontfamily{\devanagarifont}[Script=Devanagari__DEVANAGARIFONTOPTS__]{__DEVANAGARIFONT__}
+% The configured Devanagari face may not cover the Vedic Extensions block.
+% Declare it separately so ordinary Devanagari typography stays intact.
 \newfontfamily{\vedicfont}[Script=Devanagari]{Tiro Devanagari Sanskrit}
+% Sindhi implosive letters (U+097B–U+097F: ॻ ॼ ॽ ॾ ॿ). Tiro Devanagari
+% Sanskrit is a Sanskrit face and has no glyphs for them, so under Tiro they
+% rendered as "Missing character" and vanished from the page — silently
+% deleting the evidence in the sindhi-implosives-inventory endnote, whose
+% whole point is that these consonants exist in the subcontinent and are
+% absent from the varṇamālā. Adobe Devanagari covers them and is installed on
+% both the authoring machine and the build host.
+\newfontfamily{\sindhifont}[Script=Devanagari]{Adobe Devanagari}
 % The scripts below each carry real comparative-linguistics content in the
 % manuscript (verified 2026-08-10 by grepping the assembled build for each
 % script's Unicode range) — not decorative, do not remove without re-checking
@@ -141,6 +168,7 @@
 \AtBeginDocument{%
   \setbox0=\hbox{\devanagarifont क}%
   \setbox0=\hbox{\vedicfont क}%
+  \setbox0=\hbox{\sindhifont ॿ}%
   \setbox0=\hbox{\arabicfont ا}%
   \setbox0=\hbox{\hebrewfont א}%
   \setbox0=\hbox{\tamilfont அ}%

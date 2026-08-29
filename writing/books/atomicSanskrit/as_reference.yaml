@@ -17,7 +17,8 @@ lang: en-US
 
 # --- Typography (matches as_book.yaml) ---
 mainfont: EB Garamond              # Latin + IAST diacritics
-devanagarifont: Adobe Devanagari   # substituted into templates/devanagari-preamble.tex.in
+devanagarifont: Tiro Devanagari Sanskrit   # OFL; covers Vedic Extensions, which Adobe Devanagari does not
+devanagarifontoptions: AutoFakeBold=1.8    # Tiro ships no bold weight; the book sets 106 Devanagari headings
 fontsize: 10.5pt
 linestretch: 1.15
 
