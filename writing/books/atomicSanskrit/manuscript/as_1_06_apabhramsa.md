@@ -47,7 +47,7 @@ An authority-based system treats a departure as disobedience because an institut
 
 Sanskrit calls that deviation **अपभ्रंशः (*apabhraṃśa*)** — a falling-away from established form. Its construction shows the movement: अप- (*apa-*) means away, off, or down, while भ्रंश (*bhraṃśa*) contains the semantic atom ⟪भ्रंश्⟫ (*bhraṃś*) — to fall or slip. A speaker produces अपभ्रंशः (*apabhraṃśa*) when an uttered form slips from the engineered form that grammar specifies.
 
-The slip can be phonetic, morphological, or lexical: a speaker shifts a sound, reorganizes a form, or replaces a word with something easier. Grammar subjects all three to the same structural test because each utterance has moved away from the established form.
+An अपभ्रंशः (*apabhraṃśa*) can alter a sound or reshape a word. A speaker may change its pronunciation, substitute an ending, rearrange its syllables, or add material that its derivation does not require. Grammar compares each resulting form with the established शब्द (*śabda*).
 
 The वैयाकरणाः (*vaiyākaraṇāḥ*) locate the departure inside the form and use the standing architecture to restore its fit. Their analysis turns "incorrect speech" into a more exact diagnosis: अपभ्रंशः (*apabhraṃśa*) is linguistic entropy, the tendency of an established form to slip during use and transmission.
 

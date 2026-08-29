@@ -253,6 +253,12 @@ Figure 10.7 establishes सारवत् (*sāravat*) at the atomic scale. The
 
 The previous section followed the core meaning that continues through this family. विश्वतोमुखम् (*Viśvatomukham*) identifies its breadth. The same compact atom can participate in action, agency, obligation, refinement, nature, culture, and deformation.
 
+The Bṛhaspati-Indra story from Chapter 2 now becomes concrete. A word-by-word method would have to list each member of the ⟪कृ⟫ (*kṛ*) family as a separate finished object. Sanskrit instead preserves the atom once and provides reusable bonds and operations that generate the family.
+
+The Hindu continuum preserves Bṛhaspati in both accounts. It identifies Bṛhaspati Āṅgirasa as the मन्त्रद्रष्टा (*mantra-draṣṭā*) of Ṛgveda 10.71, the hymn that supplies Chapter 9's epigraph. There the wise refine Speech through a sieve and form her with the mind. In Patañjali's account, Bṛhaspati becomes the teacher whose word-by-word recitation cannot reach the end. The Vedic hymn presents formed Speech; the grammatical account explains why a completed list cannot contain her generative range.[NOTE: paspashahnika-brihaspati-indra-word-list]
+
+Chapters 11 and 12 provide the structural evidence for the continuity. The Vedas already preserve completed verbs, derived words, grammatical endings, and sentences formed through the operations that later grammatical analysis made explicit.
+
 ### Generative Reach Across Sanskrit
 
 To see whether the same range appears across Sanskrit, the analysis follows the धातवः (*dhātavaḥ*) from the **धातुपाठ (*Dhātupāṭha*)** into the **Digital Corpus of Sanskrit (DCS)**, a computer-readable collection that identifies verbal forms and links them to their underlying atoms.

@@ -198,6 +198,10 @@ Figure 12.5 groups these examples by the material placed before ⟪कृ⟫. Th
 
 Sanskrit also uses the same assembly procedures to build compounds. When India's lunar mission required a name, speakers joined **चन्द्र (*candra*)**, Moon, and **यान (*yāna*)**, vehicle, as **चन्द्रयान (*Candrayāna*)**. Existing Sanskrit words and an existing compounding procedure gave the new undertaking **चन्द्रयान (*Candrayāna*)**.
 
+The scale of this generativity can now be estimated. The conservative model introduced in Chapter 0 begins with Sanskrit's 2,168 semantic atoms and combines them with prefix states, verb systems, person-number endings, and a small selection of common nominal derivations. Even before compounding begins, that first pass produces more than **twenty million possible formations**.[NOTE: sanskrit-generative-wordspace]
+
+The number explains why Bṛhaspati never reached the end of his word-by-word recitation to Indra. More than twenty million formations arise before compounding, and a completed compound can itself enter another construction. A dictionary records words that people have already used. Sanskrit's architecture continues generating beyond that list.
+
 The division of responsibilities between the two domains allows Sanskrit to remain invariant while its range of expression continues to grow. The Vedas preserve the sounds, formations, endings, and sentence relations. The लौकिक (*laukika*) domain applies them when people compose poetry or examine philosophy. Mathematicians, astronomers, and physicians can use the same architecture for their disciplines. Manufacturers and traders can create expressions for their own materials, objects, and transactions. Every generation can describe circumstances that no earlier composition anticipated.
 
 When a Sanskrit form crosses into a natural language, that receiving language may reshape it through its own sounds and grammar. Chapter 6 calls the movement from Sanskrit's side अपभ्रंशः (*apabhraṃśa*) and the change inside the receiving language **vivimorphosis**. Chapter 19 §19.7 follows that movement as part of the Radiance Thesis.

@@ -4,12 +4,12 @@
 
 ---
 
-From the Sun's own account, the light descends into the speaking body. Before the धातुः (*dhātuḥ*) can be examined as an atom, the sound-particles from which that atom is built have to be isolated and mapped.
-
-We have moved past two distortions: the plant metaphor that forced धातुः (*dhātuḥ*) into a botanical category, and the codification myth that made Sanskrit depend on later stabilization. The next obstruction is alphabetic reduction: the pyramid flattening वर्ण (*varṇa*) into letter. The block marked ***Descended***, which represents the claim that Sanskrit descended from PIE, remains cracked until Part VI dispels Rāhu and removes it.
+By the beginning of Part III, the blocks marked ***Botanical*** and ***Codified*** have fallen. The block marked ***Descended*** remains cracked until Part VI examines Sanskrit's ancestry directly. Part III targets the block marked ***Alphabetic***. That block represents the claim that वर्ण (*varṇa*) is a written letter and that the वर्णमाला (*varṇamālā*) is simply an alphabet. The claim hides the engineered sound architecture represented by the written forms.
 
 ![Figure E.7 — The Sun's Sound-Body. The blocks marked Botanical and Codified have fallen. Part III targets the block marked Alphabetic, which represents the reduction of Sanskrit's sound architecture to an alphabet.](figures/eclipse_spine/eclipse_30_part03_sound_body_removed_2_3_target_4.svg){#fig:eclipse-part03-sound-body width=100%}
 
-Chapter 7 begins with the human vocal instrument and the anatomical coordinates through which it produces sound. Chapter 8 assembles a subcontinental superset from sounds used across Indian languages. Chapter 9 follows the Vedic sieve: Sanskrit selects sonances from that larger inventory, promotes the reusable sonances to sonomers, and assigns each sonomer a stable address in the वर्णमाला (*varṇamālā*).
+Part III examines that sound architecture directly. Before Chapter 10 can examine the धातुः (*dhātuḥ*) as a semantic atom, these chapters must identify the sounds from which Sanskrit builds it.
 
-The Vedic sounds also serve as a distributed calibrant. Recitation preserves them exactly, while yajña and public recitation allow people throughout society to hear them. The result is the Sun's sound-body: a sonomeric grid ready to become atomic architecture.
+Chapter 7 begins with the human vocal instrument and the anatomical coordinates through which it produces sound. Chapter 8 compares consonantal sounds used across languages of the Indian subcontinent and establishes the larger subcontinental inventory from which Sanskrit could select. Chapter 9 then examines that selection. Sanskrit recognizes sonances from the larger inventory, promotes the reusable sonances to sonomers, and assigns each sonomer a stable address in the वर्णमाला (*varṇamālā*).
+
+The Vedic sounds also serve as a distributed calibrant. Recitation preserves them exactly, while yajña and public recitation allow people throughout society to hear them. The phrase ***the Sun's sound-body*** refers to this complete architecture: sounds produced by the human body, selected for Sanskrit, preserved through the Vedas, and assigned stable addresses in a sonomeric grid.

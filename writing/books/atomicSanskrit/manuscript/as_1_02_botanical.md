@@ -94,6 +94,10 @@ The **engineered + low-generativity** quadrant contains **Lexicon-Dependent Conl
 
 The **engineered + high-generativity** quadrant contains **Generative Architectures**. Sanskrit belongs here. Its finite inventory of sounds, atoms, bonds, endings, compounds, and sentence operations can produce expressions for circumstances that no earlier composition listed. Esperanto also began in this quadrant through a compact design intended for wide new use.
 
+Sanskrit's generativity appears in one of Patañjali's most memorable stories. Bṛhaspati sets out to teach Indra every valid Sanskrit word, one by one. A thousand divine years later, the teacher has still not reached the end. If Bṛhaspati and Indra could not complete the list in that span, Patañjali asks, what hope does a human student have? He calls the method **प्रतिपदपाठः (*pratipadapāṭhaḥ*)**, word-by-word recitation, and rejects it as a way to master the language.[NOTE: paspashahnika-brihaspati-indra-word-list]
+
+His alternative is a compact body of rules that states the general operation and then identifies its exceptions. Such rules allow a learner, he says, to grasp immense streams of words with little effort. This is generativity. A dictionary can record completed words, but it cannot contain the language's generative range. The learner instead understands the architecture through which words can be formed and analyzed. The rules make that architecture learnable; they do not create the language.
+
 The grid clarifies origin and generativity. It does not yet explain invariance. Sanskrit and Esperanto occupy the same quadrant, but their histories differ sharply.
 
 ## 2.4 Rules Are Not Enough
@@ -234,4 +238,4 @@ The pyramid uses both actions against Sanskrit.
 
 Svarbhānu uses the same method. He does not destroy Sūrya. He places darkness between the Sun and the worlds until the worlds become ***अक्षेत्रवित् (*akṣetravit*)***, unable to recognize their surroundings. The pyramid could not destroy Sanskrit. It taught the world to see Sanskrit through darkness.
 
-The next chapter asks why the pyramid needs this concealment. A distributed calibrant denies the apex the ownership he seeks. Chapter 3 examines the architecture of containment that follows from that desire for ownership.
+The next chapter asks *why* the pyramid needs this concealment. A distributed calibrant denies the apex the ownership he seeks. Chapter 3 examines the architecture of containment that follows from that desire for ownership.

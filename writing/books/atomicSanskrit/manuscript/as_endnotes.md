@@ -393,6 +393,42 @@ Sources: [UNESCO, *Angkor: World Heritage List Advisory Body Evaluation*](https:
 
 ---
 
+### `paspashahnika-brihaspati-indra-word-list`
+
+**Short:** Patañjali's *Paspaśāhnika* rejects **प्रतिपदपाठः (*pratipadapāṭhaḥ*)**, word-by-word enumeration, through the account of Bṛhaspati teaching Indra for a thousand divine years without reaching the end; Patañjali immediately prescribes general rules and exceptions through which a learner can grasp immense streams of words with little effort.
+
+**Deployments:** Chapter 2 §2.3 (the distinction between a listed vocabulary and a generative architecture); Chapter 10 §10.10 (the Bṛhaspati continuity and the generative range of the धातुः (*dhātuḥ*)).
+
+Patañjali introduces the account while asking how valid Sanskrit words should be taught. Should a teacher recite them one by one: cow, horse, person, elephant, bird, deer, brāhmaṇa, and so forth? He rejects that procedure as **अनभ्युपायः (*anabhyupāyaḥ*)**, an unworkable method for mastering words.
+
+The *Mahābhāṣya* then gives the remembered example:
+
+> **एवं हि श्रूयते — बृहस्पतिरिन्द्राय दिव्यं वर्षसहस्रं प्रतिपदोक्तानां शब्दानां शब्दपारायणं प्रोवाच नान्तं जगाम ।**
+>
+> ***evaṃ hi śrūyate — bṛhaspatir indrāya divyaṃ varṣasahasraṃ pratipadoktānāṃ śabdānāṃ śabdapārāyaṇaṃ provāca nāntaṃ jagāma.***
+>
+> *Thus it is heard: Bṛhaspati taught Indra the recitation of words, stating them one by one, for a thousand divine years, and did not reach the end.*
+
+Patañjali makes the comparison explicit. Bṛhaspati was the teacher, Indra the student, and a thousand divine years the period of study. If they did not reach the end, word-by-word recitation cannot serve a person whose longest conceivable life is a hundred years and whose years must also contain learning, personal study, teaching, and ordinary use.
+
+He then asks how words are to be mastered and supplies the alternative:
+
+> **कथं तर्हीमे शब्दाः प्रतिपत्तव्याः? किंचित् सामान्यविशेषवल्लक्षणं प्रवर्त्यम्, येनाल्पेन यत्नेन महतो महतः शब्दौघान् प्रतिपद्येरन् । किं पुनस्तत्? उत्सर्गापवादौ ।**
+>
+> ***kathaṃ tarhīme śabdāḥ pratipattavyāḥ? kiṃcit sāmānyaviśeṣaval lakṣaṇaṃ pravartyam, yenālpena yatnena mahato mahataḥ śabdaughān pratipadyeran. kiṃ punas tat? utsargāpavādau.***
+>
+> *How, then, are these words to be mastered? A specification containing the general and the particular must be applied, through which immense streams of words may be grasped with little effort. What is that? General rule and exception.*
+
+The passage establishes the contrast used in Chapters 2 and 10. प्रतिपदपाठः (*Pratipadapāṭhaḥ*) treats every completed word as another item to enumerate. The grammatical method teaches reusable operations: an **उत्सर्गः (*utsargaḥ*)**, a general rule, and an **अपवादः (*apavādaḥ*)**, the exception that applies under specified conditions. A finite analytical architecture can therefore account for a range of valid words that exhaustive recitation cannot finish.
+
+The passage does not narrate a historical transition in which Sanskrit first depended on lists and later acquired grammar. Patañjali uses the Bṛhaspati-Indra account to explain why grammatical analysis must proceed through general and particular operations. His next examples are Pāṇinian rules, but the Vedic evidence in Chapters 11 and 12 shows that the operations those rules describe are already active in Vedic words and sentences.
+
+The Bṛhaspati connection is preserved independently by the Vedic metadata. The received ऋषि (*ṛṣi*) assignment for Ṛgveda 10.71 is **बृहस्पतिराङ्गिरसः (*bṛhaspatir āṅgirasaḥ*)**; its देवता (*devatā*) is **ज्ञानम् (*jñānam*)**. The hymn includes ऋग्वेद 10.71.2, where the wise refine Speech as grain through a sieve and form her with the mind. The *Mahābhāṣya* passage names Bṛhaspati without the patronymic Āṅgirasa. The Hindu continuum nevertheless places Bṛhaspati within both the Vedic account of formed Speech and the grammatical account that rejects exhaustive enumeration.
+
+**Sources.** Patañjali, [*Vyākaraṇa-Mahābhāṣya*, *Paspaśāhnika*](https://vishvasa.github.io/sanskrit/vyAkaraNam/pANinIyam/mUlAni/mahA-bhAShyam/sarva-prastutiH/01_paspashAhnikam/03_nirmANa-rItiH/), Kielhorn edition, vol. I, p. 5, line 24 and following; S. D. Joshi and J. A. F. Roodbergen, *Vyākaraṇa-Mahābhāṣya: Paspaśāhnika* (University of Poona, 1968), pp. 74–77. The ऋषि (*ṛṣi*) and देवता (*devatā*) metadata and the accented text of [Ṛgveda 10.71](https://vedicheritage.gov.in/samhitas/rigveda/shakala-samhita/rigveda-shakala-samhita-mandal-10-sukta-071/) are preserved in the Śākala Saṃhitā presentation of the Government of India's Vedic Heritage Portal.
+
+---
+
 ### `paspashahnika-apabhramsa-passage`
 
 **Short:** Patañjali's *Paspaśāhnika* (पस्पशाह्निक) — the *Mahābhāṣya* (महाभाष्य) opening; Kielhorn ed. vol. I, p. 2, lines 13–15 — states the *bhūyāṃso 'paśabdāḥ, alpīyāṃsaḥ śabdāḥ* (भूयांसोऽपशब्दाः, अल्पीयांसः शब्दाः) asymmetry maxim and exemplifies it with the *gauḥ* (गौः) → *gāvī / goṇī / gotā / gopotalikā* corruptions in one continuous passage, split across §6.2 / §6.3 for pedagogical reasons; Chapter 6's epigraph renders the asymmetry in the *apabhraṃśa* idiom as *bhūyāṃso 'pabhraṃśā alpīyāṃsaḥ śabdāḥ* (भूयांसोऽपभ्रंशा अल्पीयांसः शब्दाः), while §6.2 preserves the printed *apaśabda* wording; *apaśabda* (अपशब्द) and *apabhraṃśa* (अपभ्रंश) are deployed as near-synonyms across consecutive clauses.
