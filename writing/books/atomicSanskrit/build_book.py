@@ -68,7 +68,7 @@ SVG source promotion:
 Dependencies:
   - pandoc  (brew install pandoc)
   - xelatex (brew install --cask basictex   or full mactex)
-  - Fonts: see as_book.yaml (currently EB Garamond + Adobe Devanagari)
+  - Fonts: see as_book.yaml (currently STIX Two Text + Tiro Devanagari Sanskrit)
 
 Canonical metadata source:
   as_book.yaml — title, subtitle, author, fonts, document structure. Edit
@@ -167,9 +167,11 @@ STUB_FILES = {
 LAYOUTS = {
     "letter": "letterpaper,margin=1in",
     # A4 with 1in margins — for the `convert` subcommand / non-US page size.
-    "a4": "a4paper,inner=1in,outer=0.5in,top=0.75in,bottom=0.75in",
+    "a4": "a4paper,inner=1.25in,outer=1.0in,top=0.65in,bottom=0.60in",
     # ~4.5×7.5 text block centered on 8.5×11 — book-page mock-up on letter paper.
-    "book-on-letter": "paperwidth=8.5in,paperheight=11in,textwidth=4.5in,textheight=7.5in,centering",
+    "b5": "b5paper,inner=1.125in,outer=0.45in,top=0.60in,bottom=0.55in",
+    # ~4.5×7.5 text block centered on 8.5×11 — book-page mock-up on letter paper.
+    "book-on-letter": "paperwidth=8.5in,paperheight=11in,textwidth=4.75in,textheight=8.0in,centering",
     # True 6×9 trim with book-style asymmetric margins (inner > outer for binding).
     "trade": "paperwidth=6in,paperheight=9in,inner=0.75in,outer=0.5in,top=0.5in,bottom=0.75in",
     # 6×9 trim centered on letter paper, with crop marks for local proof printing.
@@ -187,49 +189,101 @@ LAYOUTS = {
 # 12pt; adjust individual layouts here as needed. (as_reference.yaml's own
 # `fontsize:` for the Source and Reference Companion is untouched — cmd_reference
 # still reads it directly, so the two publications can size independently.)
+# Decimal values such as "10.5pt" and "11.25pt" are supported: the build keeps
+# a valid class option underneath and uses KOMA-Script's `scrextend` package to
+# recalculate the complete LaTeX size ladder from the requested base size.
 LAYOUT_FONTSIZES = {
-    "letter": "12pt",
-    "a4": "14pt",
-    "book-on-letter": "12pt",
-    "trade": "12pt",
-    "trade-crop": "12pt",
-    "phone": "12pt",
+    "letter": "11pt",
+    "a4": "10.5pt",
+    "b5": "10.5pt",
+    "book-on-letter": "10.5pt",
+    "trade": "10.5pt",
+    "trade-crop": "11pt",
+    "phone": "11pt",
 }
 
-# Which sizes each document class actually implements, and the class to use
-# for each. This exists because LaTeX FAILS SILENTLY here: a standard class
-# given an unsupported size emits only "LaTeX Warning: Unused global
-# option(s): [13pt]" and then falls back to its 10pt DEFAULT. So asking for
-# 13pt produced type SMALLER than the 12pt it replaced, with a successful
-# build and nothing in the output to say why (caught 2026-08-28, on a4).
-#
-# `book` implements 10/11/12 only. `extbook` (extsizes) is a drop-in that
-# adds 8, 9, 14, 17 and 20 -- verified here that it keeps as_book.yaml's
-# \pretocmd{\@title} patch working. Note 13pt exists in NEITHER: extbook
-# silently falls back to 10 exactly like book, so it is not a valid choice
-# and must not be reintroduced. KOMA-Script's scrbook does support
-# arbitrary sizes, but swapping to it changes heading, TOC and margin
-# defaults throughout, which is a typographic decision rather than a fix.
+# Per-layout line spacing. Keep the book and Source and Reference Companion
+# separate because they use different typography even at the same page size.
+# Pandoc passes these values to LaTeX's \setstretch command.
+LAYOUT_LINESTRETCH = {
+    "letter": "1.10",
+    "a4": "1.15",
+    "b5": "1.10",
+    "book-on-letter": "1.10",
+    "trade": "1.10",
+    "trade-crop": "1.10",
+    "phone": "1.10",
+}
+
+REFERENCE_LAYOUT_LINESTRETCH = {
+    "letter": "1.15",
+    "a4": "1.15",
+    "book-on-letter": "1.15",
+    "trade": "1.15",
+    "trade-crop": "1.15",
+    "phone": "1.15",
+}
+
+# Standard LaTeX classes implement only 10/11/12pt. `extbook` and `extarticle`
+# add 8/9/14/17/20pt. Any other numeric size must NOT be passed directly as a
+# class option: LaTeX accepts it, prints only an "Unused global option" warning,
+# and silently renders at 10pt. For an arbitrary size, the build gives the class
+# its nearest supported 10/11/12pt option and loads `scrextend` with the actual
+# requested size. `scrextend` recalculates normalsize, notes, captions, lists,
+# and the full heading-size ladder without replacing the book/article class.
 _BOOK_SIZES = {"10pt", "11pt", "12pt"}
 _EXTBOOK_SIZES = {"8pt", "9pt", "14pt", "17pt", "20pt"}
+_FONTSIZE_RE = re.compile(r"^(?P<points>(?:\d+(?:\.\d*)?|\.\d+))pt$")
+_DECIMAL_FONTSIZE_MIN = 6.0
+_DECIMAL_FONTSIZE_MAX = 24.0
 
 
-def documentclass_for_fontsize(fontsize: str) -> str | None:
-    """Class needed for `fontsize`, or None to keep as_book.yaml's own.
-
-    Raises on a size no class implements, rather than letting the build
-    succeed at a silently wrong size.
-    """
-    if fontsize in _BOOK_SIZES:
-        return None                      # as_book.yaml's `book` handles it
-    if fontsize in _EXTBOOK_SIZES:
-        return "extbook"
-    raise SystemExit(
-        f"Unsupported fontsize {fontsize!r} in LAYOUT_FONTSIZES.\n"
-        f"  book:    {', '.join(sorted(_BOOK_SIZES))}\n"
-        f"  extbook: {', '.join(sorted(_EXTBOOK_SIZES))}\n"
-        "LaTeX would accept this silently and render at its 10pt default."
+def render_decimal_fontsize_header(fontsize: str) -> Path:
+    """Write the generated LaTeX header that activates an arbitrary size."""
+    BUILD_DIR.mkdir(exist_ok=True)
+    safe_name = fontsize.replace(".", "_")
+    out = BUILD_DIR / f"fontsize-{safe_name}.tex"
+    out.write_text(
+        "% Generated by build_book.py; do not edit.\n"
+        f"\\usepackage[fontsize={fontsize}]{{scrextend}}\n"
     )
+    return out
+
+
+def fontsize_cli_args(fontsize: str, class_kind: str) -> list[str]:
+    """Return safe Pandoc arguments for a requested base font size.
+
+    ``class_kind`` selects the extended class only for exact sizes that
+    extsizes implements. Arbitrary integer and decimal sizes retain the
+    configured standard class and receive a generated `scrextend` header.
+    """
+    fontsize = fontsize.strip()
+    if class_kind not in {"book", "article"}:
+        raise ValueError(f"Unknown document class kind: {class_kind!r}")
+    if fontsize in _BOOK_SIZES:
+        return ["-V", f"fontsize={fontsize}"]
+    if fontsize in _EXTBOOK_SIZES:
+        extclass = "extbook" if class_kind == "book" else "extarticle"
+        return ["-V", f"fontsize={fontsize}", "-V", f"documentclass={extclass}"]
+
+    match = _FONTSIZE_RE.fullmatch(fontsize)
+    if not match:
+        raise SystemExit(
+            f"Invalid fontsize {fontsize!r}. Use a numeric point value such as "
+            '"10.5pt" or "11.25pt".'
+        )
+    points = float(match.group("points"))
+    if not _DECIMAL_FONTSIZE_MIN <= points <= _DECIMAL_FONTSIZE_MAX:
+        raise SystemExit(
+            f"Unsupported fontsize {fontsize!r}; expected "
+            f"{_DECIMAL_FONTSIZE_MIN:g}pt-{_DECIMAL_FONTSIZE_MAX:g}pt."
+        )
+
+    # Give the class its nearest supported size, preferring the larger one on
+    # an exact tie (10.5 -> 11), then let scrextend replace the full size ladder.
+    base_points = min((10, 11, 12), key=lambda value: (abs(value - points), -value))
+    header = render_decimal_fontsize_header(fontsize)
+    return ["-V", f"fontsize={base_points}pt", "-H", str(header)]
 
 
 # Regexes for cleaning chapter files before assembly
@@ -294,27 +348,87 @@ SCRIPT_WRAPS: list[tuple[str, re.Pattern]] = [
     (r"\avestanfont",     re.compile(r"[\U00010B00-\U00010B3F]+")),
     # Brāhmī — the Prakrit forms quoted from the pyramid's descent chain in
     # the gaya-gavi endnote. Without a wrap these reach xelatex as ordinary
-    # body text and EB Garamond drops them with only a warning.
+    # body text and the configured Latin face drops them with only a warning.
     (r"\brahmifont",      re.compile(r"[\U00011000-\U0001107F]+")),
-    # Stragglers — specific characters Charter Roman lacks. Kept narrow so
-    # that common IAST diacritics Charter does carry (ṃ ṛ ṣ ā ī ū ḥ ñ ṅ etc.)
-    # are NOT switched mid-word — that would look jarring against the Charter
-    # body prose. List below is the closed set of characters the assembled
-    # book actually contains that Charter cannot render.
+    # Stragglers — specific characters the configured Latin face lacks. Kept
+    # narrow so common IAST diacritics (ṃ ṛ ṣ ā ī ū ḥ ñ ṅ etc.) are NOT
+    # switched mid-word. The list is the closed set of characters the
+    # assembled book uses that STIX Two Text cannot render.
     (r"\symbolfont",      re.compile(
         r"["
         r"←→"      # ← →
+        r"↔"       # left-right arrow
         r"✓✗"      # ✓ ✗ (table cell glyphs)
         r"₀-₉"     # subscript digits ₀-₉
         r"ʷʾʿ"     # modifier letters ʷ ʾ ʿ
         r"ɑɓɗʄɠʈʂʔ"  # rare phonetic symbols used in inventory/endnote examples
         r"ēō"      # ē ō (Latin with macron)
-        r"ḱẓ"      # ḱ ẓ
+        r"ḱẓǵǎ"    # Latin Extended forms used in comparisons
+        r"ἀὑἸὁᾷ"   # polytonic Greek forms absent from STIX Two Text
+        r"⟪⟫"      # atomic sound-form brackets
+        r"∞"       # infinity
         r"⊇"       # superset-or-equal (Ch 18 §18.x: Sanskrit ⊇ PIE) —
                    # Charter Bold lacks U+2287; Arial Unicode MS has it
         r"]+"
     )),
 ]
+
+
+# Devanagari marks that attach to the preceding base: matras, nukta,
+# anusvara/visarga/candrabindu, the accent signs, and the virama itself.
+# None may begin a line, and a virama binds the consonant that follows it,
+# so neither is ever a break opportunity.
+_DEV_VIRAMA = "\u094d"
+_DEV_COMBINING = (
+    set(range(0x0900, 0x0904))          # candrabindu, anusvara, visarga
+    | {0x093A, 0x093B, 0x093C}          # oe matra, ooe matra, nukta
+    | set(range(0x093E, 0x094E))        # matras + virama
+    | set(range(0x094E, 0x0951))        # prishthamatra e, aw
+    | set(range(0x0951, 0x0958))        # vedic accents, stress signs
+    | {0x0962, 0x0963}                  # vocalic l/ll matras
+    | {0x0964, 0x0965}                  # danda, double danda — keep with the word
+)
+
+# Runs shorter than this always fit a line, so leave them untouched rather
+# than scattering penalties through every ordinary Sanskrit term.
+_DEV_BREAK_MIN_CHARS = 15
+
+
+def _devanagari_aksaras(run: str) -> list[str]:
+    """Split a Devanagari run into aksara clusters — the only legal line-break
+    boundaries. A cluster is a base plus everything bound to it, and a virama
+    joins its consonant to the next, so conjuncts stay whole."""
+    clusters: list[str] = []
+    cur = ""
+    for ch in run:
+        if not cur:
+            cur = ch
+        elif ord(ch) in _DEV_COMBINING or cur[-1] == _DEV_VIRAMA:
+            cur += ch
+        else:
+            clusters.append(cur)
+            cur = ch
+    if cur:
+        clusters.append(cur)
+    return clusters
+
+
+def _devanagari_with_breaks(run: str) -> str:
+    """Insert \\allowbreak between aksaras of a long Devanagari run.
+
+    Devanagari has no hyphenation and a samasa carries no spaces, so a long
+    compound is one unbreakable box: TeX cannot split it and it runs past the
+    measure. Confirmed on lauhapathagaminisucaka... (39 chars), which
+    overflowed the trade text block in Ch 1. XeTeX's own
+    \\XeTeXlinebreaklocale was tried first and had no effect here — with
+    locale "sa", "hi", or unset the overfull box was identical to the pt.
+
+    Breaking mid-word without a hyphen is correct for Devanagari; what must
+    never happen is a break inside a conjunct or before a matra, which is
+    what _devanagari_aksaras guarantees."""
+    if len(run) < _DEV_BREAK_MIN_CHARS:
+        return run
+    return "\\allowbreak{}".join(_devanagari_aksaras(run))
 
 
 def wrap_scripts_for_latex(md_text: str) -> str:
@@ -323,8 +437,9 @@ def wrap_scripts_for_latex(md_text: str) -> str:
     selection regardless of surrounding TeX context."""
     fired: set[str] = set()
     for font_cmd, pattern in SCRIPT_WRAPS:
+        prep = _devanagari_with_breaks if font_cmd == r"\devanagarifont" else (lambda t: t)
         md_text, n = pattern.subn(
-            lambda m, _f=font_cmd: f"`{{{_f} {m.group(0)}}}`{{=latex}}",
+            lambda m, _f=font_cmd, _p=prep: f"`{{{_f} {_p(m.group(0))}}}`{{=latex}}",
             md_text,
         )
         if n:
@@ -628,8 +743,9 @@ def cmd_grayscale_images(force: bool = False) -> int:
 
 
 # Inline note-marker handling. Each `[NOTE: stub-name]` in chapter prose is
-# replaced with a provisional numbered reference `[N]`; the collected pairs
-# are rendered as an "Endnote References" section at the end of the book.
+# replaced with a provisional numbered reference `[N]`. Repeated uses of the
+# same stub reuse the number assigned at its first appearance, so one source
+# produces one endnote even when several passages cite it.
 # Numerical conversion is the chapter-lock convention from CLAUDE.md; doing
 # it at build time produces a clean draft PDF without verbose inline markers
 # until the expanded prose is drafted.
@@ -638,16 +754,22 @@ NOTE_MARKER_RE = re.compile(r"\[NOTE:\s*([a-z0-9_-]+)\s*\]")
 
 def number_note_markers(md_text: str, start: int = 1) -> tuple[str, list[tuple[int, str]]]:
     """Replace inline [NOTE: stub-name] markers with numbered references.
-    Returns (processed_text, list of (number, stub-name) tuples in encounter
-    order)."""
+    Repeated stub names reuse their first number. Returns processed text and
+    one ``(number, stub-name)`` tuple per unique stub, in first-use order.
+    """
     notes: list[tuple[int, str]] = []
     counter = [start - 1]
+    assigned: dict[str, int] = {}
 
     def replace(match: re.Match) -> str:
-        counter[0] += 1
         stub = match.group(1)
-        notes.append((counter[0], stub))
-        return f"`\\textsuperscript{{[{counter[0]}]}}`{{=latex}}"
+        number = assigned.get(stub)
+        if number is None:
+            counter[0] += 1
+            number = counter[0]
+            assigned[stub] = number
+            notes.append((number, stub))
+        return f"`\\textsuperscript{{[{number}]}}`{{=latex}}"
 
     return NOTE_MARKER_RE.sub(replace, md_text), notes
 
@@ -863,6 +985,21 @@ def read_yaml_value(path: Path, key: str) -> str:
                 value = value[1:-1]
             return value
     raise KeyError(f"{key!r} not found in {path}")
+
+
+def mainfont_cli_args(metadata_file: Path) -> list[str]:
+    """Return Pandoc CLI variables for the configured Latin font.
+
+    Complex fontspec options must travel through ``-V``. Pandoc escapes the
+    braces when the same value comes from a YAML metadata string, which turns
+    STIX's variable-weight declaration into invalid fontspec syntax.
+    """
+    font = read_yaml_value(metadata_file, "mainfont")
+    options = read_yaml_value_opt(metadata_file, "mainfontoptionsraw")
+    args = ["-V", f"mainfont={font}"]
+    if options:
+        args += ["-V", f"mainfontoptions={options}"]
+    return args
 
 
 def _parse_yaml_scalar(s: str) -> str | None:
@@ -1387,7 +1524,7 @@ def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full",
 
     geometry = LAYOUTS[layout]
     fontsize = LAYOUT_FONTSIZES[layout]
-    docclass = documentclass_for_fontsize(fontsize)
+    linestretch = LAYOUT_LINESTRETCH[layout]
     cmd = [
         "pandoc",
         str(md_path),
@@ -1400,14 +1537,16 @@ def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full",
         # Layout geometry and fontsize are layout-specific (CLI-driven), so
         # they stay outside YAML.
         "-V", f"geometry:{geometry}",
-        "-V", f"fontsize={fontsize}",
+        "-V", f"linestretch={linestretch}",
         "-H", str(generated_preamble),
     ]
-    # Only override as_book.yaml's documentclass when the size demands it.
-    if docclass:
-        cmd += ["-V", f"documentclass={docclass}"]
+    cmd += fontsize_cli_args(fontsize, "book")
+    cmd += mainfont_cli_args(METADATA_FILE)
 
-    print(f"Rendering PDF (layout={layout}, fontsize={fontsize}, progress every {progress_pages} pages)...")
+    print(
+        f"Rendering PDF (layout={layout}, fontsize={fontsize}, "
+        f"linestretch={linestretch}, progress every {progress_pages} pages)..."
+    )
     result = run_pandoc_with_progress(cmd, page_interval=progress_pages, label="PDF")
     if result.returncode != 0:
         print("PDF rendering FAILED. pandoc stderr:\n", file=sys.stderr)
@@ -1526,6 +1665,8 @@ def cmd_reference(layout: str = "letter", progress_pages: int = DEFAULT_PROGRESS
     generated_preamble = render_devanagari_preamble(REFERENCE_METADATA_FILE)
 
     geometry = LAYOUTS[layout]
+    fontsize = read_yaml_value(REFERENCE_METADATA_FILE, "fontsize")
+    linestretch = REFERENCE_LAYOUT_LINESTRETCH[layout]
     cmd = [
         "pandoc",
         str(md_path),
@@ -1534,10 +1675,17 @@ def cmd_reference(layout: str = "letter", progress_pages: int = DEFAULT_PROGRESS
         "--metadata-file", str(REFERENCE_METADATA_FILE),
         "--lua-filter", str(LATEX_STRIKEOUT_FILTER),
         "-V", f"geometry:{geometry}",
+        "-V", f"linestretch={linestretch}",
         "-H", str(generated_preamble),
     ]
+    cmd += fontsize_cli_args(fontsize, "book")
+    cmd += mainfont_cli_args(REFERENCE_METADATA_FILE)
 
-    print(f"Rendering companion PDF (layout={layout}, progress every {progress_pages} pages)...")
+    print(
+        f"Rendering companion PDF (layout={layout}, fontsize={fontsize}, "
+        f"linestretch={linestretch}, "
+        f"progress every {progress_pages} pages)..."
+    )
     result = run_pandoc_with_progress(cmd, page_interval=progress_pages, label="Companion")
     if result.returncode != 0:
         print("Companion PDF rendering FAILED. pandoc stderr:\n", file=sys.stderr)
@@ -1553,7 +1701,7 @@ def cmd_reference(layout: str = "letter", progress_pages: int = DEFAULT_PROGRESS
 def cmd_convert(input_arg: str | None, layout: str = "letter", output_arg: str | None = None,
                  progress_pages: int = DEFAULT_PROGRESS_PAGES) -> int:
     """Convert an arbitrary Markdown file to PDF using the book's font stack
-    (EB Garamond for Latin/IAST + the Devanagari preamble) — WITHOUT the book's
+    (STIX Two Text for Latin/IAST + the Devanagari preamble) — WITHOUT the book's
     title-page metadata, so no "Atomic Sanskrit" title block is stamped on the
     document. Output lands in build/ by default; override with -o."""
     if not input_arg:
@@ -1588,8 +1736,8 @@ def cmd_convert(input_arg: str | None, layout: str = "letter", output_arg: str |
     # font carries the IAST diacritics; the title/header-includes are left
     # out. Font size comes from LAYOUT_FONTSIZES (layout-specific, not a
     # fixed book property — see the comment beside that dict above).
-    mainfont = read_yaml_value(METADATA_FILE, "mainfont")
     fontsize = LAYOUT_FONTSIZES[layout]
+    linestretch = LAYOUT_LINESTRETCH[layout]
 
     # Wrap non-Latin script runs (Devanagari, Tamil, …) in raw-LaTeX font
     # groups — the same pass the book/reference builds run. The preamble only
@@ -1604,11 +1752,15 @@ def cmd_convert(input_arg: str | None, layout: str = "letter", output_arg: str |
         "--pdf-engine=xelatex",
         "--lua-filter", str(LATEX_STRIKEOUT_FILTER),
         "-V", f"geometry:{LAYOUTS[layout]}",
-        "-V", f"mainfont={mainfont}",
-        "-V", f"fontsize={fontsize}",
+        "-V", f"linestretch={linestretch}",
         "-H", str(generated_preamble),
     ]
-    print(f"Converting {src.name} → {pdf_path.relative_to(BOOK_DIR)} (layout={layout})...")
+    cmd += fontsize_cli_args(fontsize, "article")
+    cmd += mainfont_cli_args(METADATA_FILE)
+    print(
+        f"Converting {src.name} → {pdf_path.relative_to(BOOK_DIR)} "
+        f"(layout={layout}, fontsize={fontsize}, linestretch={linestretch})..."
+    )
     result = run_pandoc_with_progress(cmd, page_interval=progress_pages, label="PDF")
     if result.returncode != 0:
         print("PDF conversion FAILED. pandoc stderr:\n", file=sys.stderr)
