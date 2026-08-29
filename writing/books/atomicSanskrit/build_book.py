@@ -207,7 +207,7 @@ LAYOUTS = {
     },
     # A4 with 1in margins — for the `convert` subcommand / non-US page size.
     "a4": {
-        "geometry": "a4paper,inner=1.25in,outer=1.0in,top=0.65in,bottom=0.60in",
+        "geometry": "a4paper,inner=1.125in,outer=1in,top=0.60in,bottom=0.40in",
         "fontsize": "10.5pt",
         "linestretch": "1.15",
     },
@@ -259,7 +259,9 @@ PUBLICATIONS = {
         "defer_mainmatter": False,
         "by_layout": {
             "b5": {"linestretch": "1.10"},
-            "a4": {"linestretch": "1.10"},
+            "a4": { "geometry": "a4paper,inner=1.125in,outer=0.4in,top=0.60in,bottom=0.40in",
+                    "fontsize": "10pt",
+                },
         },
     },
 }
@@ -1829,6 +1831,16 @@ def cmd_reference(layout: str = "letter", progress_pages: int = DEFAULT_PROGRESS
     entries_body = re.sub(
         r"^### (`[a-z0-9_-]+`)\s*$",
         r"## \1",
+        entries_body,
+        flags=re.MULTILINE,
+    )
+
+    # The source uses thematic breaks to delimit endnote records. In the
+    # reference PDF, the promoted entry heading and its vertical spacing
+    # already provide that separation; printing the rule duplicates it.
+    entries_body = re.sub(
+        r"^---\s*$\n?",
+        "\n",
         entries_body,
         flags=re.MULTILINE,
     )
