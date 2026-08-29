@@ -159,21 +159,28 @@ if [ "$SKIP_ROSTER" -eq 0 ]; then
 		sudo systemctl restart "$unit"
 	done
 
-	# dashboard_api.py has no /opt copy to diff — its unit runs it straight
-	# out of this checkout — so "has it changed?" is instead "is the file on
-	# disk newer than the process that loaded it?". Without this a pull
-	# leaves the old code serving indefinitely: on 2026-08-29 three reply
-	# POSTs returned 502 with nothing logged anywhere, and the fix that adds
-	# that logging only takes effect once the unit is restarted.
-	api_src="hypothesis/dashboard_api.py"
-	if [ -f "$api_src" ]; then
-		api_started=$(date -d "$(systemctl show -p ActiveEnterTimestamp --value dashboard-api 2>/dev/null)" +%s 2>/dev/null || echo 0)
-		api_mtime=$(stat -c %Y "$api_src" 2>/dev/null || echo 0)
-		if [ "$api_mtime" -gt "$api_started" ]; then
-			echo ">> dashboard_api.py is newer than the running service — restarting..."
-			python3 -m py_compile "$api_src"
-			sudo systemctl restart dashboard-api
-		fi
+fi
+
+# dashboard_api.py has no /opt copy to diff — its unit runs it straight out of
+# this checkout — so "has it changed?" is instead "is the file on disk newer
+# than the process that loaded it?". Without this a pull leaves the old code
+# serving indefinitely: on 2026-08-29 three reply POSTs returned 502 with
+# nothing logged anywhere, and the fix adding that logging only took effect
+# once the unit restarted.
+#
+# Deliberately NOT inside the --skip-roster block above. It lived there
+# briefly and a `deploy.sh --skip-roster` silently skipped the restart, which
+# is how a just-pulled logging change was still not running afterwards. The
+# API has nothing to do with the invite roster; the only thing gating it
+# should be whether its own source changed.
+api_src="hypothesis/dashboard_api.py"
+if [ -f "$api_src" ]; then
+	api_started=$(date -d "$(systemctl show -p ActiveEnterTimestamp --value dashboard-api 2>/dev/null)" +%s 2>/dev/null || echo 0)
+	api_mtime=$(stat -c %Y "$api_src" 2>/dev/null || echo 0)
+	if [ "$api_mtime" -gt "$api_started" ]; then
+		echo ">> dashboard_api.py is newer than the running service — restarting..."
+		python3 -m py_compile "$api_src"
+		sudo systemctl restart dashboard-api
 	fi
 fi
 
