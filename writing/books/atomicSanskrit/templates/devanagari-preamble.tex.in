@@ -50,6 +50,22 @@
 % token expands to nothing when the folio is wanted.
 __CHAPTER_OPENING_FOLIO__
 
+% Scale figures uniformly, never to fit a box.
+%
+% Pandoc emits keepaspectratio for an image that sets only a width, but
+% DROPS it as soon as the markdown also gives an explicit height:
+%
+%   {width=100%}             -> [width=1\linewidth,height=\textheight,keepaspectratio]
+%   {width=100% height=80%}  -> [width=1\linewidth,height=0.8\textheight]
+%
+% so the eight figures in Appendix Parts 3 and 4 that cap their height were
+% being stretched to exactly that box — visibly distorted (Figure A.3.3).
+% Setting the key globally restores uniform scaling while keeping the height
+% cap doing its real job, which is bounding the figure rather than reshaping
+% it: \includegraphics then fits the image inside both limits and stops at
+% whichever binds first.
+\setkeys{Gin}{keepaspectratio}
+
 % Figure numbers are authored directly in Markdown captions (for example,
 % Figure 0.1 and Figure E.3). Suppress LaTeX's independent sequential label so
 % numbered and intentionally unnumbered captions both render as written.
