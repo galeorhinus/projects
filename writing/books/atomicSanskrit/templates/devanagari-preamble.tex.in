@@ -36,8 +36,19 @@
 % Pandoc normally calls \mainmatter before the assembled manuscript begins.
 % The Preface and Prologue belong to the front matter, so defer that switch
 % until the explicit marker immediately before Chapter 0.
+% Standalone `convert` builds use an article class, which has no \mainmatter;
+% define a no-op there so the shared preamble remains valid in both classes.
+\providecommand{\mainmatter}{}
 \let\bookmainmatter\mainmatter
 \renewcommand{\mainmatter}{}
+
+% Chapter-opening folio. book-class chapter, part and contents openers all
+% call \thispagestyle{plain}, which prints the page number bottom-centre
+% while the running head is suppressed. Aliasing plain to empty removes it
+% from every one of those openers. Substituted by build_book.py from
+% LAYOUT_CHAPTER_FOLIO (and --chapter-folio / --no-chapter-folio); the
+% token expands to nothing when the folio is wanted.
+__CHAPTER_OPENING_FOLIO__
 
 % Figure numbers are authored directly in Markdown captions (for example,
 % Figure 0.1 and Figure E.3). Suppress LaTeX's independent sequential label so
@@ -82,16 +93,18 @@
 \newfontfamily{\avestanfont}{Noto Sans Avestan}
 % Brāhmī (U+11000–U+1107F). Added 2026-08-22: the Prakrit forms quoted from
 % the pyramid's own descent chain in the gaya-gavi endnote are written in
-% Brāhmī, and without this they fell through to EB Garamond and vanished from
+% Brāhmī, and without this they fell through to the Latin main font and vanished from
 % the PDF as "Missing character" warnings rather than an error.
 \newfontfamily{\brahmifont}{Noto Sans Brahmi}
 % Symbol / Latin-Extended fallback for arrows, subscripts, modifier letters,
-% IAST diacritics Charter lacks (ē, ʷ, ʾ, ḱ, ẓ, →, ←, ₁, ₂, μ, τ, ρ, etc.).
+% and the small set of characters STIX Two Text lacks (⟪, ⟫, ǵ, ǎ,
+% polytonic Greek forms, ↔, ∞, etc.).
 % DejaVu Sans chosen for breadth of Unicode coverage, an OFL license, and
 % availability on every platform this book is built on (Arial Unicode MS,
 % the prior choice, is Windows/macOS-only and absent on Linux build hosts).
 % Verified 2026-08-10: covers all the characters above via a direct XeLaTeX
-% compile. (STIX Two Text was tried but lacks U+2192 arrow. Noto Sans (the
+% compile. STIX Two Text, the current body face, still needs this fallback
+% for arrows, atomic brackets, and a small set of historical forms. Noto Sans (the
 % un-suffixed family) was tried but not all macOS systems ship it — only
 % script-specific variants like "Noto Sans Devanagari" are present there.)
 \newfontfamily{\symbolfont}{DejaVu Sans}

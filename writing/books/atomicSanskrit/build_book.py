@@ -181,6 +181,28 @@ LAYOUTS = {
     "phone": "paperwidth=3.5in,paperheight=7in,margin=0.1in",
 }
 
+# Whether a chapter opener prints its folio at the bottom of the page. Like
+# geometry and base font size, this is a property of the layout rather than of
+# the book: a bound trade edition wants the folio on every page, while a
+# screen-read or draft-print layout is tidier without it. Lives here beside
+# LAYOUTS for the same reason fontsize does.
+#
+# Aliasing plain to empty clears the folio from every opener that uses the
+# plain style — chapter openings, the \partopener pages and the contents
+# opener — not from chapter openings alone. It does NOT change the page
+# count; the opener still starts on its own page.
+LAYOUT_CHAPTER_FOLIO = {
+    "letter": True,
+    "a4": True,
+    "b5": True,
+    "book-on-letter": True,
+    "trade": True,
+    "trade-crop": True,
+    "phone": False,
+}
+
+_SUPPRESS_PLAIN_FOLIO = r"\makeatletter\let\ps@plain\ps@empty\makeatother"
+
 # Per-layout base font size (pandoc -V fontsize:...), for the main book build
 # (cmd_pdf / cmd_convert). Moved out of as_book.yaml (2026-08-27) for the same
 # reason geometry lives here rather than in YAML: font size is layout-
@@ -195,7 +217,7 @@ LAYOUTS = {
 LAYOUT_FONTSIZES = {
     "letter": "11pt",
     "a4": "10.5pt",
-    "b5": "10.5pt",
+    "b5": "10.25pt",
     "book-on-letter": "10.5pt",
     "trade": "10.5pt",
     "trade-crop": "11pt",
@@ -948,7 +970,7 @@ def read_yaml_value_opt(path: Path, key: str, default: str = "") -> str:
         return default
 
 
-def render_devanagari_preamble(metadata_file: Path) -> Path:
+def render_devanagari_preamble(metadata_file: Path, chapter_folio: bool = True) -> Path:
     """Substitute the Devanagari font name and its fontspec options into the
     preamble template, writing the rendered build artifact.
 
@@ -961,6 +983,9 @@ def render_devanagari_preamble(metadata_file: Path) -> Path:
     text = PREAMBLE_TEMPLATE.read_text()
     text = text.replace("__DEVANAGARIFONTOPTS__", f",{opts}" if opts else "")
     text = text.replace("__DEVANAGARIFONT__", font)
+    text = text.replace(
+        "__CHAPTER_OPENING_FOLIO__", "" if chapter_folio else _SUPPRESS_PLAIN_FOLIO
+    )
     out = BUILD_DIR / "devanagari-preamble.tex"
     out.write_text(text)
     return out
@@ -1485,7 +1510,8 @@ def verify_figures_present(pdf_path: Path, md_text: str) -> None:
 
 
 def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full",
-            progress_pages: int = DEFAULT_PROGRESS_PAGES) -> int:
+            progress_pages: int = DEFAULT_PROGRESS_PAGES,
+            chapter_folio: bool | None = None) -> int:
     # The intermediate .md and the output PDF are both suffixed with the
     # endnotes mode (when short) so full and short variants coexist.
     notes_suffix = "" if endnotes_mode == "full" else f".{endnotes_mode}"
@@ -1520,7 +1546,9 @@ def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full",
 
     # Generate the Devanagari preamble by substituting the font name from
     # as_book.yaml into the template. The rendered file is a build artifact.
-    generated_preamble = render_devanagari_preamble(METADATA_FILE)
+    if chapter_folio is None:
+        chapter_folio = LAYOUT_CHAPTER_FOLIO.get(layout, True)
+    generated_preamble = render_devanagari_preamble(METADATA_FILE, chapter_folio)
 
     geometry = LAYOUTS[layout]
     fontsize = LAYOUT_FONTSIZES[layout]
@@ -1821,6 +1849,24 @@ def main() -> int:
              "Output filenames are suffixed with .short in short mode so the two "
              "variants coexist.",
     )
+    folio = parser.add_mutually_exclusive_group()
+    folio.add_argument(
+        "--no-chapter-folio",
+        dest="chapter_folio",
+        action="store_false",
+        default=None,
+        help="Suppress the page number on chapter, part and contents opening "
+             "pages (the bottom-centre folio LaTeX's 'plain' style prints). "
+             "Does not change the page count. Overrides the layout default in "
+             "LAYOUT_CHAPTER_FOLIO.",
+    )
+    folio.add_argument(
+        "--chapter-folio",
+        dest="chapter_folio",
+        action="store_true",
+        default=None,
+        help="Force the chapter-opening folio on, overriding the layout default.",
+    )
     parser.add_argument(
         "--progress-pages",
         type=int,
@@ -1836,7 +1882,8 @@ def main() -> int:
     if args.phase == "assemble":
         return cmd_assemble(endnotes_mode=args.endnotes)
     if args.phase == "pdf":
-        return cmd_pdf(layout=args.layout, endnotes_mode=args.endnotes, progress_pages=args.progress_pages)
+        return cmd_pdf(layout=args.layout, endnotes_mode=args.endnotes, progress_pages=args.progress_pages,
+                       chapter_folio=args.chapter_folio)
     if args.phase == "reference":
         return cmd_reference(layout=args.layout, progress_pages=args.progress_pages)
     if args.phase == "convert":
@@ -1851,7 +1898,8 @@ def main() -> int:
         return rc
     if (rc := cmd_assemble(endnotes_mode=args.endnotes)) != 0:
         return rc
-    return cmd_pdf(layout=args.layout, endnotes_mode=args.endnotes, progress_pages=args.progress_pages)
+    return cmd_pdf(layout=args.layout, endnotes_mode=args.endnotes, progress_pages=args.progress_pages,
+                       chapter_folio=args.chapter_folio)
 
 
 if __name__ == "__main__":
