@@ -237,6 +237,7 @@ class Handler(BaseHTTPRequestHandler):
         started = time.monotonic()
         route = self.path.rstrip("/") or "/"
         self._status = None
+        self._error = None
         try:
             self._route_post()
         except Exception:
@@ -248,8 +249,16 @@ class Handler(BaseHTTPRequestHandler):
                     traceback.print_exc(file=sys.stderr)
         finally:
             elapsed_ms = (time.monotonic() - started) * 1000
+            # Log the error body, not just the status. A 502 here almost
+            # always carries the reason in its own payload — "live-check
+            # failed: HTTP Error 404: Not Found" is what a resolve against a
+            # renamed page returns — and logging the code alone throws that
+            # away. Cost 2026-08-29: a status-only line meant working
+            # backwards through Caddy, oauth2-proxy and the loopback listener
+            # to rediscover a message the response had already stated.
+            detail = f" -- {self._error}" if self._error else ""
             print(
-                f"POST {route} -> {self._status} ({elapsed_ms:.0f}ms)",
+                f"POST {route} -> {self._status} ({elapsed_ms:.0f}ms){detail}",
                 file=sys.stderr,
                 flush=True,
             )
@@ -452,6 +461,10 @@ class Handler(BaseHTTPRequestHandler):
 
     def _send_json(self, status: int, body: dict) -> None:
         self._status = status
+        # Kept for the request log; only for failures, so a normal 200 body
+        # (which can be large) is never held or printed.
+        if status >= 400 and isinstance(body, dict):
+            self._error = body.get("error")
         encoded = json.dumps(body).encode("utf-8")
         self.send_response(status)
         self.send_header("Content-Type", "application/json")
