@@ -164,42 +164,175 @@ STUB_FILES = {
 
 
 # PDF page layouts. Each entry is a pandoc -V geometry:... value.
-LAYOUTS = {
-    "letter": "letterpaper,margin=1in",
-    # A4 with 1in margins — for the `convert` subcommand / non-US page size.
-    "a4": "a4paper,inner=1.25in,outer=1.0in,top=0.65in,bottom=0.60in",
-    # ~4.5×7.5 text block centered on 8.5×11 — book-page mock-up on letter paper.
-    "b5": "b5paper,inner=1.125in,outer=0.45in,top=0.60in,bottom=0.55in",
-    # ~4.5×7.5 text block centered on 8.5×11 — book-page mock-up on letter paper.
-    "book-on-letter": "paperwidth=8.5in,paperheight=11in,textwidth=4.75in,textheight=8.0in,centering",
-    # True 6×9 trim with book-style asymmetric margins (inner > outer for binding).
-    "trade": "paperwidth=6in,paperheight=9in,inner=0.75in,outer=0.5in,top=0.5in,bottom=0.75in",
-    # 6×9 trim centered on letter paper, with crop marks for local proof printing.
-    "trade-crop": "paperwidth=8.5in,paperheight=11in,layoutwidth=6in,layoutheight=9in,layouthoffset=1.25in,layoutvoffset=1in,inner=0.75in,outer=0.5in,top=0.5in,bottom=0.75in,showcrop",
-    # Narrow 3×6 trim with minimal margins — sized for phone-screen reading.
-    # ~2.6×5.6 text block (~81% of page area is text) maximizes readable area.
-    "phone": "paperwidth=3.5in,paperheight=7in,margin=0.1in",
+# ── Presentation settings ────────────────────────────────────────────────
+#
+# Three axes: publication x layout x setting. Everything that varies by page
+# size or by which book is being produced lives here, in one table, instead of
+# in a parallel dict per setting. Resolution runs most-general to most-
+# specific, each step overriding the last:
+#
+#     PRESENTATION_DEFAULTS
+#       -> LAYOUTS[layout]                      (properties of the page)
+#       -> PUBLICATIONS[pub]                    (properties of the volume)
+#       -> PUBLICATIONS[pub]["by_layout"][layout]   (one volume, one page size)
+#
+# so a setting is stated once at the broadest level that is true, and restated
+# only where it actually differs. Read `setting()` below for the lookup.
+#
+# This replaced five parallel dicts (LAYOUTS, LAYOUT_FONTSIZES,
+# LAYOUT_LINESTRETCH, REFERENCE_LAYOUT_LINESTRETCH, LAYOUT_CHAPTER_FOLIO),
+# which covered different subsets of the axes and had to be kept in step by
+# hand. They were not: REFERENCE_LAYOUT_LINESTRETCH was missing "b5", so
+# `reference --layout b5` assembled the entire companion and then died on a
+# bare KeyError. Defaults make that failure mode structurally impossible —
+# every lookup resolves.
+
+PRESENTATION_DEFAULTS = {
+    "linestretch": "1.10",
+    # Print the folio on chapter/part/contents openers. See
+    # _SUPPRESS_PLAIN_FOLIO for what turning this off does.
+    "chapter_folio": True,
+    # Defer LaTeX's \mainmatter until an explicit marker, so front matter
+    # keeps roman numerals and the body restarts at arabic 1. A volume that
+    # has no front matter to speak of wants this off — see PUBLICATIONS.
+    "defer_mainmatter": True,
 }
 
-# Whether a chapter opener prints its folio at the bottom of the page. Like
-# geometry and base font size, this is a property of the layout rather than of
-# the book: a bound trade edition wants the folio on every page, while a
-# screen-read or draft-print layout is tidier without it. Lives here beside
-# LAYOUTS for the same reason fontsize does.
-#
-# Aliasing plain to empty clears the folio from every opener that uses the
-# plain style — chapter openings, the \partopener pages and the contents
-# opener — not from chapter openings alone. It does NOT change the page
-# count; the opener still starts on its own page.
-LAYOUT_CHAPTER_FOLIO = {
-    "letter": True,
-    "a4": True,
-    "b5": True,
-    "book-on-letter": True,
-    "trade": True,
-    "trade-crop": True,
-    "phone": False,
+# Per-page-size settings. `geometry` is a pandoc -V geometry:... value.
+# A publication may override any of these; see PUBLICATIONS["companion"].
+LAYOUTS = {
+    "letter": {
+        "geometry": "letterpaper,margin=1in",
+        "fontsize": "11pt",
+    },
+    # A4 with 1in margins — for the `convert` subcommand / non-US page size.
+    "a4": {
+        "geometry": "a4paper,inner=1.25in,outer=1.0in,top=0.65in,bottom=0.60in",
+        "fontsize": "10.5pt",
+        "linestretch": "1.15",
+    },
+    "b5": {
+        "geometry": "b5paper,inner=1.125in,outer=0.4in,top=0.60in,bottom=0.4in",
+        "fontsize": "10.25pt",
+        # No folio on openers, so the 0.4in foot has nothing to clear.
+        "chapter_folio": False,
+    },
+    # ~4.5x7.5 text block centered on 8.5x11 — book-page mock-up on letter paper.
+    "book-on-letter": {
+        "geometry": "paperwidth=8.5in,paperheight=11in,textwidth=4.75in,textheight=8.0in,centering",
+        "fontsize": "10.5pt",
+    },
+    # True 6x9 trim with book-style asymmetric margins (inner > outer for binding).
+    "trade": {
+        "geometry": "paperwidth=6in,paperheight=9in,inner=0.75in,outer=0.5in,top=0.5in,bottom=0.75in",
+        "fontsize": "10.5pt",
+    },
+    # 6x9 trim centered on letter paper, with crop marks for local proof printing.
+    "trade-crop": {
+        "geometry": "paperwidth=8.5in,paperheight=11in,layoutwidth=6in,layoutheight=9in,layouthoffset=1.25in,layoutvoffset=1in,inner=0.75in,outer=0.5in,top=0.5in,bottom=0.75in,showcrop",
+        "fontsize": "11pt",
+    },
+    # Narrow 3x6 trim with minimal margins — sized for phone-screen reading.
+    "phone": {
+        "geometry": "paperwidth=3.5in,paperheight=7in,margin=0.1in",
+        "fontsize": "11pt",
+        "chapter_folio": False,
+    },
 }
+
+# Per-volume settings, and the point at which a second book stops being a
+# special case in the code and becomes one entry here. A third (the concise
+# edition planned in working/10_active/) is another entry, not another set of
+# parallel tables.
+PUBLICATIONS = {
+    "book": {
+        # Nothing to override — the book is what the layout defaults describe.
+    },
+    "companion": {
+        "linestretch": "1.15",
+        # The companion sets one size for every page size; give it a layout
+        # entry under by_layout to differ.
+        "fontsize": "10pt",
+        # 426 pages. Roman numerals throughout a volume this size are not
+        # front matter, they are the whole book, so number it in arabic from
+        # page 1 and let \mainmatter run normally.
+        "defer_mainmatter": False,
+        "by_layout": {
+            "b5": {"linestretch": "1.10"},
+            "a4": {"linestretch": "1.10"},
+        },
+    },
+}
+
+_MISSING = object()
+
+
+def setting(publication: str, layout: str, key: str):
+    """Resolve one presentation setting for a publication at a page size.
+
+    Later sources override earlier ones; see the table comments above for the
+    order. Raises with a message naming the publication, layout and key rather
+    than surfacing a bare KeyError from whichever dict happened to be short."""
+    if publication not in PUBLICATIONS:
+        raise SystemExit(
+            f"build_book.py: unknown publication {publication!r}. "
+            f"Known: {', '.join(sorted(PUBLICATIONS))}"
+        )
+    if layout not in LAYOUTS:
+        raise SystemExit(
+            f"build_book.py: unknown layout {layout!r}. "
+            f"Known: {', '.join(sorted(LAYOUTS))}"
+        )
+    pub = PUBLICATIONS[publication]
+    value = _MISSING
+    for source in (
+        PRESENTATION_DEFAULTS,
+        LAYOUTS[layout],
+        pub,
+        pub.get("by_layout", {}).get(layout, {}),
+    ):
+        if key in source:
+            value = source[key]
+    if value is _MISSING:
+        raise SystemExit(
+            f"build_book.py: no value for setting {key!r} "
+            f"(publication={publication}, layout={layout}). Add it to "
+            f"PRESENTATION_DEFAULTS, LAYOUTS[{layout!r}], or "
+            f"PUBLICATIONS[{publication!r}]."
+        )
+    return value
+
+
+def _assert_presentation_tables_sane() -> None:
+    """Fail at import if the tables reference a layout that does not exist, or
+    if a layout is missing a setting that has no default.
+
+    Adding a page size used to mean remembering four satellite dicts, and
+    nothing said otherwise until a build crashed partway through. Checking
+    here turns that into an immediate, named failure."""
+    problems = []
+    for pub_name, pub in PUBLICATIONS.items():
+        for layout in pub.get("by_layout", {}):
+            if layout not in LAYOUTS:
+                problems.append(
+                    f"  PUBLICATIONS[{pub_name!r}]['by_layout'] refers to "
+                    f"unknown layout {layout!r}"
+                )
+    required = ("geometry", "fontsize", "linestretch", "chapter_folio",
+                "defer_mainmatter")
+    for pub_name in PUBLICATIONS:
+        for layout in LAYOUTS:
+            for key in required:
+                try:
+                    setting(pub_name, layout, key)
+                except SystemExit as exc:
+                    problems.append(f"  {exc}")
+    if problems:
+        raise SystemExit(
+            "build_book.py: presentation tables are inconsistent.\n"
+            + "\n".join(problems)
+        )
+
 
 _SUPPRESS_PLAIN_FOLIO = r"\makeatletter\let\ps@plain\ps@empty\makeatother"
 
@@ -214,37 +347,60 @@ _SUPPRESS_PLAIN_FOLIO = r"\makeatletter\let\ps@plain\ps@empty\makeatother"
 # Decimal values such as "10.5pt" and "11.25pt" are supported: the build keeps
 # a valid class option underneath and uses KOMA-Script's `scrextend` package to
 # recalculate the complete LaTeX size ladder from the requested base size.
-LAYOUT_FONTSIZES = {
-    "letter": "11pt",
-    "a4": "10.5pt",
-    "b5": "10.25pt",
-    "book-on-letter": "10.5pt",
-    "trade": "10.5pt",
-    "trade-crop": "11pt",
-    "phone": "11pt",
-}
 
-# Per-layout line spacing. Keep the book and Source and Reference Companion
-# separate because they use different typography even at the same page size.
-# Pandoc passes these values to LaTeX's \setstretch command.
-LAYOUT_LINESTRETCH = {
-    "letter": "1.10",
-    "a4": "1.15",
-    "b5": "1.10",
-    "book-on-letter": "1.10",
-    "trade": "1.10",
-    "trade-crop": "1.10",
-    "phone": "1.10",
-}
 
-REFERENCE_LAYOUT_LINESTRETCH = {
-    "letter": "1.15",
-    "a4": "1.15",
-    "book-on-letter": "1.15",
-    "trade": "1.15",
-    "trade-crop": "1.15",
-    "phone": "1.15",
-}
+_WRAPPED_SPAN_RE = re.compile(r"`\{\\[a-zA-Z]+font\s(.*?)\}`\{=latex\}", re.S)
+
+
+def warn_uncovered_characters(md_text: str, metadata_file: Path) -> None:
+    """Warn about characters the main font cannot draw and no wrap rescues.
+
+    XeLaTeX does not fail on a glyph it lacks — it emits a "Missing character"
+    line into a log nobody reads and drops the character from the page. That
+    is how the companion shipped Greek ἐστί as στί, and how ≥ vanished from
+    the reactivity thresholds: both fonts differ per book (EB Garamond for the
+    manuscript, STIX Two Text for the companion), so a character can be fine
+    in one and missing from the other.
+
+    Checks what is left after removing every span already routed to a script
+    or symbol font, which is exactly the text the main font has to draw.
+    Skips silently, with a note, when fontTools or fontconfig is unavailable —
+    the same graceful degradation the figure checks use."""
+    try:
+        import subprocess
+        from fontTools.ttLib import TTCollection, TTFont
+    except ImportError:
+        print("  (skipping font-coverage check — pip install fonttools to enable)")
+        return
+    try:
+        family = read_yaml_value(metadata_file, "mainfont")
+        path = subprocess.run(
+            ["fc-match", "-f", "%{file}", family],
+            capture_output=True, text=True, check=True,
+        ).stdout.strip()
+        font = TTCollection(path).fonts[0] if path.lower().endswith(".ttc") else TTFont(path, fontNumber=0)
+        covered = set(font.getBestCmap())
+    except Exception as exc:
+        print(f"  (skipping font-coverage check — {type(exc).__name__}: {exc})")
+        return
+
+    unwrapped = _WRAPPED_SPAN_RE.sub(" ", md_text)
+    missing: dict[str, int] = {}
+    for ch in unwrapped:
+        o = ord(ch)
+        if o < 0x00A0 or o in covered or ch.isspace():
+            continue
+        missing[ch] = missing.get(ch, 0) + 1
+    if not missing:
+        return
+    print(f"  WARNING: {len(missing)} character(s) are not in {family} and are not")
+    print("           routed to any script/symbol font — XeLaTeX will DROP them:")
+    for ch, n in sorted(missing.items(), key=lambda kv: -kv[1]):
+        print(f"             U+{ord(ch):04X} {ch!r}  x{n}")
+    print("           Add them to a SCRIPT_WRAPS entry in this file.")
+
+
+_assert_presentation_tables_sane()
 
 # Standard LaTeX classes implement only 10/11/12pt. `extbook` and `extarticle`
 # add 8/9/14/17/20pt. Any other numeric size must NOT be passed directly as a
@@ -386,11 +542,14 @@ SCRIPT_WRAPS: list[tuple[str, re.Pattern]] = [
         r"ɑɓɗʄɠʈʂʔ"  # rare phonetic symbols used in inventory/endnote examples
         r"ēō"      # ē ō (Latin with macron)
         r"ḱẓǵǎ"    # Latin Extended forms used in comparisons
-        r"ἀὑἸὁᾷ"   # polytonic Greek forms absent from STIX Two Text
+        r"ἀὑἸὁᾷἐἔ" # polytonic Greek forms absent from STIX Two Text
         r"⟪⟫"      # atomic sound-form brackets
         r"∞"       # infinity
         r"⊇"       # superset-or-equal (Ch 18 §18.x: Sanskrit ⊇ PIE) —
                    # Charter Bold lacks U+2287; Arial Unicode MS has it
+        r"≥≤≈"     # comparison operators — the companion's STIX Two Text
+                   # lacks all three, and they carry the tier thresholds in
+                   # the reactivity tables (">= 50" etc.)
         r"]+"
     )),
 ]
@@ -970,7 +1129,16 @@ def read_yaml_value_opt(path: Path, key: str, default: str = "") -> str:
         return default
 
 
-def render_devanagari_preamble(metadata_file: Path, chapter_folio: bool = True) -> Path:
+_DEFER_MAINMATTER_TEX = (
+    "\\let\\bookmainmatter\\mainmatter\n\\renewcommand{\\mainmatter}{}"
+)
+
+
+def render_devanagari_preamble(
+    metadata_file: Path,
+    chapter_folio: bool = True,
+    defer_mainmatter: bool = True,
+) -> Path:
     """Substitute the Devanagari font name and its fontspec options into the
     preamble template, writing the rendered build artifact.
 
@@ -985,6 +1153,9 @@ def render_devanagari_preamble(metadata_file: Path, chapter_folio: bool = True) 
     text = text.replace("__DEVANAGARIFONT__", font)
     text = text.replace(
         "__CHAPTER_OPENING_FOLIO__", "" if chapter_folio else _SUPPRESS_PLAIN_FOLIO
+    )
+    text = text.replace(
+        "__MAINMATTER_DEFERRAL__", _DEFER_MAINMATTER_TEX if defer_mainmatter else ""
     )
     out = BUILD_DIR / "devanagari-preamble.tex"
     out.write_text(text)
@@ -1269,6 +1440,7 @@ def cmd_assemble(endnotes_mode: str = "full", promote_svgs: bool = True) -> int:
     out_path.write_text(assembled)
     word_count = len(assembled.split())
     print(f"\nAssembled → {out_path.relative_to(BOOK_DIR)} ({word_count:,} words)")
+    warn_uncovered_characters(assembled, METADATA_FILE)
     if missing:
         print(f"WARNING: {len(missing)} file(s) missing.")
     return 0
@@ -1547,12 +1719,15 @@ def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full",
     # Generate the Devanagari preamble by substituting the font name from
     # as_book.yaml into the template. The rendered file is a build artifact.
     if chapter_folio is None:
-        chapter_folio = LAYOUT_CHAPTER_FOLIO.get(layout, True)
-    generated_preamble = render_devanagari_preamble(METADATA_FILE, chapter_folio)
+        chapter_folio = setting("book", layout, "chapter_folio")
+    generated_preamble = render_devanagari_preamble(
+        METADATA_FILE, chapter_folio,
+        defer_mainmatter=setting("book", layout, "defer_mainmatter"),
+    )
 
-    geometry = LAYOUTS[layout]
-    fontsize = LAYOUT_FONTSIZES[layout]
-    linestretch = LAYOUT_LINESTRETCH[layout]
+    geometry = setting("book", layout, "geometry")
+    fontsize = setting("book", layout, "fontsize")
+    linestretch = setting("book", layout, "linestretch")
     cmd = [
         "pandoc",
         str(md_path),
@@ -1678,6 +1853,7 @@ def cmd_reference(layout: str = "letter", progress_pages: int = DEFAULT_PROGRESS
     md_path.write_text(assembled)
     word_count = len(assembled.split())
     print(f"Assembled companion → {md_path.relative_to(BOOK_DIR)} ({word_count:,} words)")
+    warn_uncovered_characters(assembled, REFERENCE_METADATA_FILE)
 
     if not have("pandoc"):
         print("pandoc not found. Install via: brew install pandoc", file=sys.stderr)
@@ -1690,11 +1866,15 @@ def cmd_reference(layout: str = "letter", progress_pages: int = DEFAULT_PROGRESS
     # the companion's font name (which currently matches the book's; the
     # template substitution still goes through so the two pipelines are
     # symmetric).
-    generated_preamble = render_devanagari_preamble(REFERENCE_METADATA_FILE)
+    generated_preamble = render_devanagari_preamble(
+        REFERENCE_METADATA_FILE,
+        setting("companion", layout, "chapter_folio"),
+        defer_mainmatter=setting("companion", layout, "defer_mainmatter"),
+    )
 
-    geometry = LAYOUTS[layout]
-    fontsize = read_yaml_value(REFERENCE_METADATA_FILE, "fontsize")
-    linestretch = REFERENCE_LAYOUT_LINESTRETCH[layout]
+    geometry = setting("companion", layout, "geometry")
+    fontsize = setting("companion", layout, "fontsize")
+    linestretch = setting("companion", layout, "linestretch")
     cmd = [
         "pandoc",
         str(md_path),
@@ -1762,10 +1942,10 @@ def cmd_convert(input_arg: str | None, layout: str = "letter", output_arg: str |
 
     # Pull only the font from as_book.yaml (not the full metadata) — the Latin
     # font carries the IAST diacritics; the title/header-includes are left
-    # out. Font size comes from LAYOUT_FONTSIZES (layout-specific, not a
-    # fixed book property — see the comment beside that dict above).
-    fontsize = LAYOUT_FONTSIZES[layout]
-    linestretch = LAYOUT_LINESTRETCH[layout]
+    # out. Font size is layout-specific rather than a fixed book property —
+    # see the presentation tables at the top of this file.
+    fontsize = setting("book", layout, "fontsize")
+    linestretch = setting("book", layout, "linestretch")
 
     # Wrap non-Latin script runs (Devanagari, Tamil, …) in raw-LaTeX font
     # groups — the same pass the book/reference builds run. The preamble only
@@ -1779,7 +1959,7 @@ def cmd_convert(input_arg: str | None, layout: str = "letter", output_arg: str |
         "-o", str(pdf_path),
         "--pdf-engine=xelatex",
         "--lua-filter", str(LATEX_STRIKEOUT_FILTER),
-        "-V", f"geometry:{LAYOUTS[layout]}",
+        "-V", f"geometry:{setting('book', layout, 'geometry')}",
         "-V", f"linestretch={linestretch}",
         "-H", str(generated_preamble),
     ]
@@ -1858,7 +2038,7 @@ def main() -> int:
         help="Suppress the page number on chapter, part and contents opening "
              "pages (the bottom-centre folio LaTeX's 'plain' style prints). "
              "Does not change the page count. Overrides the layout default in "
-             "LAYOUT_CHAPTER_FOLIO.",
+             "the presentation tables.",
     )
     folio.add_argument(
         "--chapter-folio",

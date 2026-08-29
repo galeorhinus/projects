@@ -274,6 +274,8 @@ def collect_content_entries() -> list[dict]:
     get skipped here; they live only in the TOC's group structure."""
     entries = []
     for entry in ASSEMBLY:
+        if entry.get("pdf_only") == "true":
+            continue
         if not entry.get("file"):
             continue
         e = dict(entry)
@@ -480,6 +482,8 @@ def render_index(entries: list[dict], book_title: str, subtitle: str,
     }
 
     for entry in ASSEMBLY:
+        if entry.get("pdf_only") == "true":
+            continue
         if not entry.get("file") and entry["kind"] != "part":
             continue
         if entry["kind"] == "part":

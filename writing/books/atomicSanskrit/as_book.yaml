@@ -15,14 +15,13 @@ date: "PRE-PUBLICATION REVIEW COPY — September 2026"
 lang: en-US
 
 # --- Typography ---
-mainfont: EB Garamond              # Latin + IAST diacritics
+mainfont: STIX Two Text            # Latin + IAST diacritics
+mainfontoptionsraw: "BoldFont={STIX Two Text},BoldFeatures={RawFeature={+axis={wght=700}}}"  # Passed by build_book.py so Pandoc does not escape the fontspec braces.
 devanagarifont: Tiro Devanagari Sanskrit   # OFL; covers Vedic Extensions, which Adobe Devanagari does not
 devanagarifontoptions: AutoFakeBold=1.8    # Tiro ships no bold weight; the book sets 106 Devanagari headings
-# fontsize moved to build_book.py's LAYOUT_FONTSIZES (2026-08-27) — like PDF
-# geometry, base font size is layout-specific (a phone-trim page wants
-# smaller type than a letter page), so it lives beside LAYOUTS rather than
-# as one fixed value here. Edit per-layout sizes in build_book.py.
-linestretch: 1.15
+# Base font size and line spacing are layout-specific. Edit them in
+# build_book.py's presentation tables (LAYOUTS / PUBLICATIONS), resolved by
+# setting(publication, layout, key).
 
 # --- Document structure ---
 documentclass: book

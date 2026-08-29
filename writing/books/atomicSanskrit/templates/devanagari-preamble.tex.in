@@ -33,14 +33,19 @@
   \fi}
 \makeatother
 
-% Pandoc normally calls \mainmatter before the assembled manuscript begins.
-% The Preface and Prologue belong to the front matter, so defer that switch
-% until the explicit marker immediately before Chapter 0.
+% Page numbering. Pandoc calls \mainmatter before the assembled body begins,
+% and book-class \mainmatter is what switches the folio from roman to arabic.
 % Standalone `convert` builds use an article class, which has no \mainmatter;
 % define a no-op there so the shared preamble remains valid in both classes.
 \providecommand{\mainmatter}{}
-\let\bookmainmatter\mainmatter
-\renewcommand{\mainmatter}{}
+% The manuscript defers the switch: its Preface and Prologue are front matter,
+% so it waits for the explicit marker before Chapter 0, where
+% as_0_00_mainmatter.md restores it via \bookmainmatter. A volume with no real
+% front matter must NOT defer — this preamble is shared, and leaving the
+% deferral in place for the companion numbered all 426 of its pages in roman,
+% i to cdxxvi, because \mainmatter was neutered and nothing restored it.
+% Substituted by build_book.py from the `defer_mainmatter` setting.
+__MAINMATTER_DEFERRAL__
 
 % Chapter-opening folio. book-class chapter, part and contents openers all
 % call \thispagestyle{plain}, which prints the page number bottom-centre
