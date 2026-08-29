@@ -343,6 +343,34 @@ http://:18080 {
 	@fig_chapter       path_regexp chp ^/as/book/figures/build/(adivadya|apabhramsa|audiography|building_dhatuh|building_kriya|building_vakya|fourth_abrahamic|ganah|mapping_mouth|pie_in_sky|siddha_grammar|strategic)_(.+)$
 	rewrite @fig_chapter            /as/book/figures/{re.chp.1}/{re.chp.2}
 
+	# Renamed/merged pages, mirrored from the public block's redirects.
+	#
+	# Those are `redir`, which is right for a browser but wrong here: this
+	# listener is also what dashboard_api.py's fetch_live_text() fetches
+	# ("is the annotated text still on the page?"), deliberately hitting
+	# the loopback origin so it bypasses the OAuth gate. A 308 sends it
+	# back out to the public https:// URL, straight into that gate.
+	#
+	# Without these, the live-check 404s on every renamed page, the
+	# dashboard reports "live-check failed: HTTP Error 404: Not Found",
+	# and the resolve returns 502. Confirmed 2026-08-29 on a June
+	# annotation against /as/book/prologue/: the public 308 was already
+	# live and correct, and the internal fetch still raised 404 because
+	# the redirect only existed in the other block.
+	#
+	# `rewrite`, not `redir`, so the request never leaves this origin.
+	# Keep in step with the redirects in the secondshanti.org block.
+	# One rule per rename — each old slug has its own target, so a single
+	# alternation cannot express them.
+	@moved_prologue   path_regexp mv_pro ^/as/book/prologue(/.*)?$
+	rewrite @moved_prologue   /as/book/prologue-eclipse{re.mv_pro.1}
+	@moved_overture   path_regexp mv_ov  ^/as/book/part-overture-shankha(/.*)?$
+	rewrite @moved_overture   /as/book/prologue-eclipse{re.mv_ov.1}
+	@moved_vedic      path_regexp mv_vc  ^/as/book/vedic-carrier(/.*)?$
+	rewrite @moved_vedic      /as/book/architecture-in-vedas{re.mv_vc.1}
+	@moved_codif      path_regexp mv_cs  ^/as/book/codification-story(/.*)?$
+	rewrite @moved_codif      /as/book/codification-myth{re.mv_cs.1}
+
 	# preface_*.svg → preface_modes/<name>.svg (special: folder renamed)
 	@fig_preface       path_regexp pfc ^/as/book/figures/build/preface_(.+)$
 	rewrite @fig_preface            /as/book/figures/preface_modes/{re.pfc.1}
