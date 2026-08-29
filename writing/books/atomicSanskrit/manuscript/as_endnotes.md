@@ -543,7 +543,7 @@ A historical detail worth naming. The fable has been *rewritten* by later philol
 **The forty-four-form comparison.** Schleicher's fable contains 57 word-occurrences and 44 distinct written forms when repeated forms are counted once and the author's hyphenated *vividvant-svas* is retained as one written unit. These are inflected forms, not forty-four separate roots. The comparison finds fourteen exact or nearly exact recorded Sanskrit forms, sixteen more separated from a Sanskrit form or grammatical base by one explainable sonomer change, eleven that place reconstructed morphology around a Sanskrit base, and three that remain unresolved. The table distinguishes those relationships instead of treating every resemblance as equally strong.
 
 | # | Schleicher | Function in the fable | Sanskrit comparison | Relationship |
-|---|---|---|---|---|
+|---|---------|---------|---------------|------------------------|
 | 1 | *avis* | sheep | **अवि (*avi*)** | Recorded form |
 | 2 | *jasmin* | relative form | **यस्मिन् (*yasmin*)** | Near-exact written form; the reconstructed grammar is not identical to the Sanskrit locative |
 | 3 | *varnā* | wool | **ऊर्णा (*ūrṇā*)** | One sonomeric development |

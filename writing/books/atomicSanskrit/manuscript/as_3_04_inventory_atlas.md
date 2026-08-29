@@ -79,11 +79,11 @@ Including Santali does not increase the count. Both sampled forest-belt sets cov
 
 The Mixed Survey swaps Santali for Burushaski, the language-isolate of the Hunza Valley, and pairs it with Korku and Mundari.
 
-![Figure A.4.2 — Mixed Survey: 21 of 23 Sanskrit base cells. Korku, Mundari, and Burushaski leave only ण and श unfilled.](figures/superset/sk_korku_mundari_burushaski.svg){#fig:app4-mixed-control width=100% height=80%}
-
 The count rises to 21 of 23. The unfilled set contracts to **ण · श**. Burushaski's retroflex inventory adds **ष**, while the three languages already cover Sanskrit's alveolar **र**, **ल**, and **स**.
 
 This comparison crosses the pyramid's family boundaries without using Santali. Korku and Mundari come from the central forest belt, while Burushaski comes from the north-western frontier. Together, their inventories cover 21 cells.
+
+![Figure A.4.2 — Mixed Survey: 21 of 23 Sanskrit base cells. Korku, Mundari, and Burushaski leave only ण and श unfilled.](figures/superset/sk_korku_mundari_burushaski.svg){#fig:app4-mixed-control width=100% height=80%}
 
 ## 4.4 Dispersed *"Austro-Asiatic"* Survey: 18 of 23
 
@@ -91,49 +91,51 @@ The machinery classifies Munda alongside two other branches under the umbrella *
 
 The Dispersed Survey picks one representative from each branch: Sora (South Munda, Eastern Ghats and Rushikulya basin), Khasi (Meghalaya highlands), and Nicobarese (Car Nicobar). Coverage falls to 18 of 23. The unfilled set expands to **ट · ड · ण · ष · श** — five cells, two more than the Munda-pure Forest-Belt set the body uses.
 
-![Figure A.4.3 — Dispersed Survey: 18 of 23 Sanskrit base cells. Sora, Khasi, and Nicobarese — three languages the machinery classifies under one *"Austro-Asiatic"* umbrella across three remote subcontinental poles — cover two fewer cells than the all-Munda Forest-Belt Survey.](figures/superset/sk_sora_khasi_nicobarese.svg){#fig:app4-dispersed-survey width=100%}
-
 The single pyramid label *"Austro-Asiatic"* places these three languages in one family, but the selected inventories have sharply different shapes. Sora's South Munda inventory lacks the retroflex stops found in North Munda; Khasi uses voiceless-aspirated stops; Nicobarese uses neither retroflex nor aspirated stops in the inventory selected here. Their union covers less of Sanskrit's base than the all-Munda forest-belt samples.
 
 In these samples, the family label does not predict how much of Sanskrit's base each regional selection covers. A larger comparison would be needed to separate the effects of branch history, geography, and contact.
+
+![Figure A.4.3 — Dispersed Survey: 18 of 23 Sanskrit base cells. Sora, Khasi, and Nicobarese — three languages the machinery classifies under one *"Austro-Asiatic"* umbrella across three remote subcontinental poles — cover two fewer cells than the all-Munda Forest-Belt Survey.](figures/superset/sk_sora_khasi_nicobarese.svg){#fig:app4-dispersed-survey width=100%}
 
 ## 4.5 Northwest Frontier Survey: 22 of 23
 
 Three north-western contact-zone languages — Pashto (*"Iranian"* by the pyramid's label, Afghanistan and the north-western Indian subcontinent), Nuristani (a separate IE branch spoken in the Hindu Kush valleys), and Burushaski (the Hunza Valley isolate) — cover 22 of 23, tying the highest result in the survey. Like the body's Southern Survey, they leave only **श** unfilled.
 
-![Figure A.4.4 — Northwest Frontier Survey: 22 of 23 Sanskrit base cells. Pashto, Nuristani, and Burushaski cover the same 22 cells as the body's Tamil + Toda + Kurukh set. Both leave only श unfilled.](figures/superset/sk_pashto_nuristani_burushaski.svg){#fig:app4-nw-frontier-survey width=100% height=80%}
-
 The north-western frontier set and the body's widely dispersed Tamil + Toda + Kurukh set deliver the same count and leave the same single cell unfilled. Both draw from languages that use retroflex distinctions found across the Indian subcontinent, and both contain nearly the whole base Sanskrit selected.
 
 The set presents a taxonomically mixed profile. The pyramid's label classifies Pashto as *"Iranian"*, the machinery classifies Nuristani as a separate IE branch neither Indic nor Iranian, and Burushaski stands as a language-isolate. Despite those different labels, the selected frontier set ties the Southern Survey. Its inventories use retroflex contrasts associated with the broad subcontinental sound range.
+
+![Figure A.4.4 — Northwest Frontier Survey: 22 of 23 Sanskrit base cells. Pashto, Nuristani, and Burushaski cover the same 22 cells as the body's Tamil + Toda + Kurukh set. Both leave only श unfilled.](figures/superset/sk_pashto_nuristani_burushaski.svg){#fig:app4-nw-frontier-survey width=100% height=80%}
 
 ## 4.6 Iranian Survey Outside the Subcontinental Retroflex Zone: 15 of 23
 
 Three Iranian languages outside the north-western contact zone — Farsi (Iran), Kurdish Kurmanji (northern Iraq, Syria, eastern Turkey), and Talysh (Caspian littoral, Azerbaijan and northern Iran) — create a direct comparison with the Northwest Frontier Survey. They cover 15 of 23. The unfilled set runs **ट · च · ड · ज · ण · ञ · ष · श**: eight cells, including most of the retroflex column.
 
-![Figure A.4.5 — Iranian Survey: 15 of 23 Sanskrit base cells. Three Iranian languages outside the north-western subcontinental contact zone leave most of Sanskrit's retroflex column unfilled.](figures/superset/sk_farsi_kurdish_talysh.svg){#fig:app4-iranian-survey width=100% height=80%}
-
 The selected languages that the pyramid classifies as Sanskrit's "Iranian sister branch" cover seven fewer cells than the mixed Northwest Frontier set.
 
-The contact comparison clarifies the two-cell difference. Replacing Talysh with Balochi — a north-western frontier Iranian language that uses retroflex contrasts within the subcontinental contact zone — moves coverage from 15 to 17. Balochi contributes the retroflex grid addresses **ट** and **ड** that Caspian-littoral Talysh does not. Their shared *Iranian* classification does not explain the difference; their locations and histories of contact with the Indian subcontinent correspond to it.
+The contact comparison clarifies the two-cell difference. Replacing Talysh with Balochi — a north-western frontier Iranian language that uses retroflex contrasts within the subcontinental contact zone — moves coverage from 15 to 17.
+
+Balochi contributes the retroflex grid addresses **ट** and **ड** that Caspian-littoral Talysh does not. Their shared *Iranian* classification does not explain the difference; their locations and histories of contact with the Indian subcontinent correspond to it.
+
+![Figure A.4.5 — Iranian Survey: 15 of 23 Sanskrit base cells. Three Iranian languages outside the north-western subcontinental contact zone leave most of Sanskrit's retroflex column unfilled.](figures/superset/sk_farsi_kurdish_talysh.svg){#fig:app4-iranian-survey width=100% height=80%}
 
 ## 4.7 Caucasus Survey: 13 of 23
 
 Three languages from three different pyramid classifications, all from the Caucasus region — Armenian (a separate IE branch), Georgian (Kartvelian / South Caucasian, outside the IE classification altogether), and Ossetian (Iranian, north Caucasus) — fall to 13 of 23, the floor of the eleven-survey set. The unfilled list runs **ट · च · ड · ज · ण · ञ · ङ · ष · श · व**: ten cells, the largest unfilled list of any survey.
 
-![Figure A.4.6 — Caucasus Survey: 13 of 23 Sanskrit base cells. Three pyramid classifications meet in one geographic region, and this selected set produces the lowest coverage among the eleven surveys.](figures/superset/sk_armenian_georgian_ossetian.svg){#fig:app4-caucasus-survey width=100% height=80%}
-
 Three pyramid classifications meet inside one geographic region, yet the selected set reaches only 13 of 23. This is the lowest coverage among the eleven samples.
+
+![Figure A.4.6 — Caucasus Survey: 13 of 23 Sanskrit base cells. Three pyramid classifications meet in one geographic region, and this selected set produces the lowest coverage among the eleven surveys.](figures/superset/sk_armenian_georgian_ossetian.svg){#fig:app4-caucasus-survey width=100% height=80%}
 
 ## 4.8 Slavic & Caucasus IE Survey: 14 of 23
 
 The Slavic & Caucasus IE Survey runs three IE-classified languages along the steppe corridor: Russian and Ukrainian from East Slavic, Ossetian from Caucasian Iranian. Coverage reaches 14 of 23, one cell above the Caucasus floor.
 
-![Figure A.4.7 — Slavic & Caucasus IE Survey: 14 of 23 Sanskrit base cells. Three IE-classified languages along the steppe corridor cover only one cell more than the Caucasus floor and less than the body's Western IE and Central Asian sets.](figures/superset/sk_russian_ukrainian_ossetian.svg){#fig:app4-slavic-caucasus-survey width=100% height=80%}
-
 All three languages share the pyramid's "Indo-European" label that supposedly makes them Sanskrit's relatives. East Slavic and Caucasian Iranian together cover less of Sanskrit's base than the body's Western IE Survey at 16/23 and the Central Asian Tajik + Kazakh + Kyrgyz set at 15/23. Across the selected IE-classified sets, coverage ranges from 14/23 to 22/23 and rises in the sets drawn closer to the subcontinental contact zone.
 
 The selected steppe-corridor languages — drawn from the region where the pyramid places its Aryan migration — cover fewer of Sanskrit's base cells than the selected languages from the Indian subcontinent and its north-western frontier.
+
+![Figure A.4.7 — Slavic & Caucasus IE Survey: 14 of 23 Sanskrit base cells. Three IE-classified languages along the steppe corridor cover only one cell more than the Caucasus floor and less than the body's Western IE and Central Asian sets.](figures/superset/sk_russian_ukrainian_ossetian.svg){#fig:app4-slavic-caucasus-survey width=100% height=80%}
 
 ## 4.9 The Coverage Cascade
 
