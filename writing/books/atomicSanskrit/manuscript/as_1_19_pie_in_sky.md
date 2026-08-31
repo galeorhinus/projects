@@ -2,14 +2,14 @@
 
 The answer was waiting in the joke.
 
-Years ago I looked up the etymology of *king* — and *kin*, *genus*, and a dozen everyday words beside them — and found Sanskrit where an honest etymology puts it: at the deepest real-language end of the chain.
+Years ago, I looked up the etymologies of words like *king*, *kin*, and *genus*, predictably found Sanskrit at the foundational end of every chain
 
 > *king* ← Old English *cyning* ← *cyn*, offspring  
 > — Sanskrit *janaka*, *the father of a people*[NOTE: pre-pie-dictionary-shift]
 
 Sanskrit stood as the foundation because Sanskrit was there. Real. Preserved. Recited. Taught. Used. And the older dictionaries said, in plain words, what *king* had meant: the father of a people.
 
-A generation of reference works later, the entry had changed. The ancestry line now ran through a starred reconstruction:
+A generation of etymological laundering later, the entry had changed. The ancestry line now ran through a starred reconstruction:
 
 > *king* ← Old English *cyning* ← Proto-Germanic **\*kuningaz** ← PIE **\*ǵenh₁-**, "to beget"
 
