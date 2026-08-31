@@ -80,6 +80,8 @@ The sitar sits between the two. Each pluck is a discrete attack — like a conso
 
 Because consonants are discrete events and vowels are sustained tones, human speech constantly alternates between attack and resonance.
 
+Sanskrit makes this physical difference part of its timing architecture. A consonant receives a brief duration; a vowel can sustain the acoustic center around which that event occurs. Chapter 9 shows how Sanskrit bonds the two and measures their duration.
+
 ## 7.5 Every Language Is a Selection
 
 The human vocal apparatus has more capacity than any one language uses. It offers many contact points, many manners of contact, voicing, aspiration, nasalization, length, rounding, tone, and phonation types. No language selects every possible capacity of the instrument.

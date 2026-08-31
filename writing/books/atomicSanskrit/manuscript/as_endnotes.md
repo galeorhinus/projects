@@ -3547,7 +3547,7 @@ Standard references: Pāṇini's *Aṣṭādhyāyī*, *sūtras* 1.2.27–28; the
 
 **Short:** The *Śikṣā* timing discipline treats a consonant as a half-*mātrā* event. The line preserved in multiple *śikṣā* texts is **व्यञ्जनं चार्धमात्रिकम् (*vyañjanaṃ cārdhamātrikam*)**: the consonant is half-measured. The claim is proportional, not a fixed millisecond value. Sanskrit does not let consonants become timeless filler; it measures them.
 
-**Deployments:** Chapter 9 §9.13 — the citation anchor for the consonant as a half-*mātrā* event; Chapter 15 §15.1 — on *Śikṣā* texts as precision-instrument specifications. Additional candidate site for later deployment — Chapter 14 §14.3 (the cryptographic-hash analogy / six-timescales-of-correction discussion).
+**Deployments:** Chapter 9 §9.6 — the citation anchor for the consonant as a half-*mātrā* event, using **क् + अ = क** and final **क्** in **वाक्**; Chapter 15 §15.1 — on *Śikṣā* texts as precision-instrument specifications. Additional candidate site for later deployment — Chapter 14 §14.3 (the cryptographic-hash analogy / six-timescales-of-correction discussion).
 
 The *śikṣā* tradition assigns explicit *mātrā* counts to the sound classes. A common formulation appears in *Yājñavalkya Śikṣā* 13 and in related *śikṣā* manuals:
 
@@ -3562,6 +3562,8 @@ The *śikṣā* tradition assigns explicit *mātrā* counts to the sound classes
 The companion vowel-duration framework is documented at `hrasva-dirgha-pluta-matra`.
 
 **One *mātrā* is a proportional unit.** The textual claim does not mean a fixed stopwatch value. A *mātrā* changes with recitation pace, lineage tempo, and phonetic environment. What remains fixed is the ratio: hrasva = 1, dīrgha = 2, pluta = 3, consonant = ½. This is the *Śikṣā*'s engineering signature: the absolute durations can vary, but the proportional timing grid remains stable.
+
+Chapter 9 uses these ratios to count the sonomeric components within a construction: **क्** contributes half a *mātrā* and **अ** contributes one. That component total describes the timing architecture used by this book's scaffold diagrams. It should not be confused with the metrical weight of the completed syllable, which Sanskrit prosody determines from vowel length and syllable closure.
 
 **Modern phonetics measurement of stop consonants.** A stop consonant (Sanskrit *sparśa*: क ख ग घ ङ etc.) has three measurable components:
 

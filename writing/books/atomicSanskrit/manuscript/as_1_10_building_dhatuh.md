@@ -81,13 +81,13 @@ The वर्णमाला (*varṇamālā*) gives Sanskrit two kinds of sonom
 
 ### Nucleus, Electron, and अक्षरम् (*Akṣaram*)
 
-**स्वराः (*svarāḥ*) are nuclei.** The word encodes the structural fact: a स्वरः (*svaraḥ*) shines by itself. A vowel can stand alone as a syllable. आ, ई, ऊ — each is pronounceable without help. The vowel provides the acoustic center, timing, and syllabic identity. Remove the consonants and the vowel remains. Remove the vowel and the consonant collapses into an unutterable glyph.
+**स्वराः (*svarāḥ*) are nuclei.** The word encodes the structural fact: a स्वरः (*svaraḥ*) shines by itself. A vowel can stand alone as a syllable. आ, ई, ऊ — each is pronounceable without help. The vowel provides the acoustic center, timing, and syllabic identity. Remove the consonants and the vowel remains. Remove the vowel and the consonant remains a brief event at the edge of a syllable rather than its sustained center.
 
 This is precisely what a nucleus does within the atomic metaphor: because it preserves identity and anchors the entire structure, it remains perfectly stable and central.
 
-**व्यञ्जनानि (*vyañjanāni*) are electrons.** A consonant manifests the vowel. क, ख, ग, घ, ङ differ not because the vowel changes — the inherent अ remains — but because each consonant gives the vowel a different sonic surface. The consonant reveals, sharpens, colors, and positions the vowel.
+**व्यञ्जनानि (*vyañjanāni*) are electrons.** Chapter 9 showed the construction **क् + अ = क**. The same construction continues along the row: **ख् + अ = ख**, **ग् + अ = ग**. The vowel remains **अ** while the consonant changes. Each consonant gives the vowel a different sonic surface. It reveals, sharpens, colors, and positions the vowel.
 
-A consonant cannot stand alone as a stable spoken unit. The script tells the truth: क is pronounceable as *ka* because it contains inherent अ. Strip the vowel and क् becomes a suspended consonant, a sign waiting for a host.
+A consonant can close an अक्षरम् (*akṣaram*) without a following vowel, as the final **क्** does in **वाक् (*vāk*)**. It does not become the sustained center of that unit. The vowel supplies the center, while consonants open or close around it.
 
 This exhibits classic electron behavior: while electrons do not define the atom's core identity the way the nucleus does, they actively make bonding possible precisely because they are mobile, peripheral, and chemically decisive.
 
@@ -106,7 +106,7 @@ The atom is therefore not only spatially assembled. It is temporally measured.
 
 At atomic scale, the same timing shorthand applies: **C** is the consonantal event, **V1** is the short-vowel nucleus, and **V2** is the long-vowel nucleus. The notation is not typographic. It is temporal.
 
-That means a धातुः (*dhātuḥ*) is never merely a sequence of sounds, but rather a strictly measured construction: while ⟪कृ⟫ is C + V1 and ⟪गम्⟫ is C + V1 + C, ⟪भू⟫ is C + V2, constantly demonstrating that the precise timing is engineered directly inside the label.
+These timings give every धातुः (*dhātuḥ*) a measurable construction. ⟪कृ⟫ uses C + V1, ⟪गम्⟫ uses C + V1 + C, and ⟪भू⟫ uses C + V2. The notation records the duration carried by the sonomers inside each atom.
 
 The hexagon visualization turns that timing into width: consonant slots are narrow, short-vowel slots are medium, long-vowel slots are wide.
 

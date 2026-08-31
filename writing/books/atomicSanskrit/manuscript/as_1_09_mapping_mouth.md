@@ -58,7 +58,17 @@ Both representations articulate the same engineered sound-inventory. Sanskrit's 
 
 ## 9.2 The Four Divisions
 
-Sanskrit combines its sonomers into an **अक्षरम् (*akṣaram*)**, a stable sound-unit centered on one vowel. An अक्षर (*akṣara*) may consist of a vowel alone, or consonants may bond around that vowel. The वर्णमाला (*varṇamālā*) organizes its sonomers into four main divisions, each with a different role in forming an अक्षर (*akṣara*):
+Sanskrit combines its sonomers into an **अक्षरम् (*akṣaram*)**, a stable sound-unit centered on one vowel. An अक्षर (*akṣara*) may consist of a vowel alone, or consonants may bond around that vowel.
+
+Consider **क**. On the page it appears as one form, but it represents two bonded sonomers: the consonant **क्** and the vowel **अ**.
+
+> **क् + अ = क**
+
+The small mark beneath **क्** suppresses the inherent vowel so that the consonant can be displayed by itself. Remove that mark, and **अ** is heard again: **क** is pronounced *ka*.
+
+Try to pronounce **क्** entirely by itself. Without a vowel before or after it, the brief consonantal event is difficult to sustain clearly. A consonant can still close a spoken unit. In **वाक् (*vāk*)**, the preceding **आ** carries the voice into the final **क्**. The word ends in *k*, not *ka*, because no **अ** follows it.
+
+The वर्णमाला (*varṇamālā*) organizes its sonomers into four main divisions, each with a different role in forming an अक्षर (*akṣara*):
 
 1. **स्वराः (*svarāḥ*)** — the vowels. Each forms the resonant center of the अक्षर (*akṣara*), the nucleus.
 2. **स्पर्शाः (*sparśāḥ*)** — the contact sounds, the stops and nasals of the five-by-five matrix. Stops build hard contact; nasals couple the oral and nasal cavities.
@@ -157,9 +167,13 @@ An अक्षर (*akṣara*) is vowel-centered. One vowel nucleus centers the
 
 The वर्णमाला (*varṇamālā*) is spatial and temporal. The spatial grid tells the body where and how to make contact. The timing grid tells the reciter how long the sound lasts. The unit of duration is the **मात्रा (*mātrā*)**.
 
+The earlier construction **क् + अ = क** can now be timed. The consonantal event **क्** occupies half a मात्रा (*mātrā*), while the vowel **अ** occupies one. Counted as separate sonomeric events, the two components therefore occupy **1½ मात्राः (*mātrāḥ*)** in the timing grid.[NOTE: vyanjana-duration-shiksha][NOTE: hrasva-dirgha-pluta-matra] Duration is only part of the explanation. The vowel also supplies the sustained acoustic center into which the brief consonant releases.
+
+The same timing explains the final **क्** in **वाक् (*vāk*)**. The **आ** sustains for two मात्राः (*mātrāḥ*) and carries the voice into the half-मात्रा (*mātrā*) consonantal closure. The final **क्** remains audible, but no **अ** follows it.
+
 ![Figure 9.7 — Mātrā Duration. Bar length compares the half-मात्रा (*mātrā*) consonant with the one-, two-, and three-मात्रा (*mātrā*) vowel forms.](figures/mapping_mouth/mapping_mouth_matra_duration_bars_stacked.svg){#fig:ch9-matra-duration-bars width=100%}
 
-Sanskrit measures the duration of every sound through the मात्रा (*mātrā*), and Vedic recitation preserves that timing exactly.[NOTE: hrasva-dirgha-pluta-matra]
+Sanskrit measures the duration of every sound through the मात्रा (*mātrā*), and Vedic recitation preserves those proportional durations exactly.
 
 ## 9.7 The Svara Address Grid
 
@@ -429,7 +443,7 @@ The वर्णमाला (*varṇamālā*) comes before the rule-system that
 
 ### Preparing the Atom
 
-The consonant's half-मात्रा (*mātrā*) becomes important at the next scale.[NOTE: vyanjana-duration-shiksha] Chapter 10 uses a compact notation for these measured scaffolds. **C** marks a consonant, which takes half a मात्रा (*mātrā*). **V1** marks a one-मात्रा (*mātrā*) vowel, while **V2** marks a two-मात्रा (*mātrā*) vowel. The sequence records the scaffold from left to right.
+The consonant's half-मात्रा (*mātrā*) becomes important at the next scale. Chapter 10 uses a compact notation for these measured scaffolds. **C** marks a consonant, which takes half a मात्रा (*mātrā*). **V1** marks a one-मात्रा (*mātrā*) vowel, while **V2** marks a two-मात्रा (*mātrā*) vowel. The sequence records the scaffold from left to right.
 
 Consider the धातुः (*dhātuḥ*) **⟪गम्⟫ (*gam*)**. It contains **ग् (*g*) + अ (*a*) + म् (*m*)**. The opening consonant **ग्** takes half a मात्रा (*mātrā*), the vowel **अ** takes one मात्रा (*mātrā*), and the closing consonant **म्** takes another half-मात्रा (*mātrā*). Its scaffold is therefore **C–V1–C**, and its complete duration is 1/2 + 1 + 1/2.
 
