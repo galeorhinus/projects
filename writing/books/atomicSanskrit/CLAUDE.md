@@ -336,6 +336,8 @@ The book's central technical vocabulary has parallel Sanskrit and English forms.
 | *śabda* / *śabdāḥ* | word / lexical molecule |
 | *upasarga* / *pratyaya* | prefix / suffix (or *bond* in the chemistry idiom) |
 
+**Atom notation.** Enclose a Sanskrit semantic atom in the book's atom brackets: **⟪वच्⟫ (*vac*)**, **⟪कृ⟫ (*kṛ*)**, **⟪गम्⟫ (*gam*)**. Never use the Western philological root sign for the book's own atom notation: write **⟪वच्⟫**, not **√वच्** or **√vac**. Preserve `√` only inside an exact quotation, a historical artifact, or prose explicitly examining another source's root notation.
+
 **Five deployment rules.**
 
 1. **First-use anchor within each chapter.** Pair both forms once on the term's first appearance in the chapter: *"the dhātuḥ — the atom"*. After that, either form alone is fine.

@@ -82,7 +82,7 @@ The Vedic corpus supplies the first body of evidence. Appendix Part 7 follows th
 
 The analytical disciplines before Pāṇini supply a second body of evidence. Śākalya decomposed the Rigvedic *saṃhitā* through the *padapāṭha*. Pāṇini cites earlier *vaiyākaraṇāḥ*, and Yāska cites earlier analysts of word and meaning.[NOTE: panini-cites-pre-paninian-vaiyakaranas] The *Prātiśākhya* and *Śikṣā* disciplines analyze phonetic realization and articulation by transmission line. These are not fragments of a civilization waiting for grammar to arrive. They show a language already being decoded from several directions.
 
-The surviving names make that earlier analytical tradition harder to erase. Pāṇini refers to Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Saunaga, Senaka, and Sphoṭāyana. Yāska, in turn, preserves earlier explanations associated with analysts such as Sthaulāṣṭhīvi and Śakapūṇi. Their texts have not all survived, so their complete systems cannot now be reconstructed. Their presence still establishes the point required here: Pāṇini inherited a developed discipline of analysis. His achievement stands at the peak of that tradition.
+The surviving names make that earlier analytical tradition harder to erase. Pāṇini refers to Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Śākaṭāyana, Śākalya, Senaka, and Sphoṭāyana. Yāska, in turn, preserves earlier explanations associated with analysts such as Sthaulāṣṭhīvi and Śakapūṇi. Their texts have not all survived, so their complete systems cannot now be reconstructed. Their presence still establishes the point required here: Pāṇini inherited a developed discipline of analysis. His achievement stands at the peak of that tradition.
 
 Patañjali supplies the order explicitly:
 

@@ -52,7 +52,11 @@ The पाठाः (*pāṭhas*) are an error-detecting code in continuous huma
 
 ## 15.3 Combinatorial Re-encoding
 
-Modern information theory provides useful language for describing this arrangement. Error-detecting systems add planned redundancy so that a changed item disturbs several relationships rather than one. The पाठाः (*pāṭhas*) apply a comparable principle through recitation, memory, sequence, and trained listeners; the analogy describes their checking function without claiming formal identity with a digital code.
+Computers use a **cyclic redundancy check**, or **CRC**, to catch data that changes during transmission. The sender calculates a short check value from the data and sends that value with it. The receiver performs the same calculation on what arrived. If the two values differ, the system warns that the transmitted data has changed. It can detect the damage without having to understand the content.[NOTE: crc-error-detection-analogy]
+
+Vedic transmission performs a comparable operation in sound. The input is the current recitation. The preserved architecture checks its articulation, vowel duration, pitch, meter, grammatical form, word sequence, and its relation to the alternate पाठाः (*pāṭhāḥ*). A changed sound can disturb several of these relationships at once. Trained listeners hear the mismatch, locate the deviation, and restore the sound against the unchanged calibrant.
+
+The Vedic check is not carried in one appended value. It is distributed throughout the recitation architecture.
 
 In क्रमपाठ (*krama-pāṭha*), an interior word appears in the pair before it and the pair after it. A swap therefore disturbs both neighboring relationships. जटापाठ (*Jaṭā-pāṭha*) adds reversal, requiring the reciter to produce the words and their joins in both directions. घनपाठ (*Ghana-pāṭha*) extends this checking across moving three-word windows. By the end of a passage, adjacent words and joins have been heard repeatedly in several specified orders under auditory supervision.
 

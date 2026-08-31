@@ -14,7 +14,7 @@
 
 \bigskip
 
-## 5.1 The Grammar Before the Grammar
+## 5.1 Grammar Before Pāṇini
 
 Part I exposed the asuric machinery designed to destroy Sanskrit, and when that failed, to obscure its radiance. Part II turns inward to describe Sanskrit's own analytical self-conception.
 
@@ -28,7 +28,9 @@ And this decoding did not begin with Pāṇini.
 
 This chapter uses evidence from before and after Pāṇini. The Vedas and the pre-Pāṇinian analysts establish that Sanskrit and its analytical disciplines existed before the अष्टाध्यायी (*Aṣṭādhyāyī*). Patañjali, writing afterward, explains how the continuum understood the relationship between that established architecture and grammar.
 
-The discipline of व्याकरणम् (*vyākaraṇam*) extends across a long analytical lineage before and after Pāṇini's *Aṣṭādhyāyī*. Pāṇini cites earlier **वैयाकरणाः (*vaiyākaraṇāḥ*)**, and **शाकल्य (*Śākalya*)** provides a concrete example of their work: he had already separated the Rigvedic संहिता (*saṃhitā*) into constituent पदानि (*padāni*) through the **पदपाठ (*padapāṭha*)**. Sanskrit scholars were already using this analytical architecture before the *Aṣṭādhyāyī* documented it.[NOTE: shakalya-padapatha][NOTE: panini-cites-pre-paninian-vaiyakaranas]
+The discipline of व्याकरणम् (*vyākaraṇam*) extends across a long analytical lineage before and after Pāṇini's *Aṣṭādhyāyī*. Pāṇini cites earlier **वैयाकरणाः (*vaiyākaraṇāḥ*)**, including आपिशलि (*Āpiśali*), शाकटायन (*Śākaṭāyana*), गार्ग्य (*Gārgya*), शाकल्य (*Śākalya*), भारद्वाज (*Bhāradvāja*), and स्फोटायन (*Sphoṭāyana*). Their names preserve evidence of established schools, competing positions, and sustained grammatical analysis.[NOTE: panini-cites-pre-paninian-vaiyakaranas]
+
+Śākaṭāyana and Gārgya disagreed over how broadly nominal words could be derived from verbal action. Śākalya provides a concrete example of the work this lineage performed: he had already separated the Rigvedic संहिता (*saṃhitā*) into constituent पदानि (*padāni*) through the **पदपाठ (*padapāṭha*)**.[NOTE: shakalya-padapatha] Figure 5.1 places these grammarians within the longer sequence. The Vedas and their recitation lineages preserve the foundation they analyzed. Their work precedes Pāṇini, whose *Aṣṭādhyāyī* gathered the architecture into its most precise documentation.
 
 After Pāṇini came Kātyāyana's **वार्त्तिकानि (*Vārttikāni*)**, the supplementary and corrective observations on Pāṇini's rules, and Patañjali's **महाभाष्यम् (*Mahābhāṣyam*)**, the great commentary that engages both Pāṇini and Kātyāyana. Together, Pāṇini, Kātyāyana, and Patañjali form the **त्रिमुनि व्याकरणम् (*Trimuni Vyākaraṇam*)**, the commentarial unit through which the analytical lineage has described Sanskrit.
 
@@ -38,7 +40,7 @@ The book's refrain is:
 
 > ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest. The Vedas remain the calibrant.***
 
-The *Vedas* preserve the architecture implicitly through छन्दस् (*chandas*), श्रुति (*śruti*), and the गुरु-शिष्य (*guru-śiṣya*) transmission-chain. The वैयाकरणाः (*vaiyākaraṇāḥ*) make that architecture explicit. Yaska's **निरुक्त (*Nirukta*)** etymological discipline decoded an adjacent layer; Yaska himself cited earlier decoders स्थौलाष्ठीवि (*Sthaulāṣṭhīvi*) and शकपूणि (*Śakapūṇi*) by name, extending the decoding lineage back beyond the named वैयाकरणाः (*vaiyākaraṇāḥ*).
+The *Vedas* preserve the architecture implicitly through छन्दस् (*chandas*), श्रुति (*śruti*), and the गुरु-शिष्य (*guru-śiṣya*) transmission-chain. The वैयाकरणाः (*vaiyākaraṇāḥ*) make its grammar explicit. Yāska's **निरुक्त (*Nirukta*)** made derivation and meaning explicit. It worked beside व्याकरणम् (*vyākaraṇam*) rather than belonging to it. Yāska cited earlier analysts स्थौलाष्ठीवि (*Sthaulāṣṭhīvi*) and शकपूणि (*Śakapūṇi*) by name, extending the analytical lineage beyond the named वैयाकरणाः (*vaiyākaraṇāḥ*).
 
 Pāṇini's role-title provides the evidence: the Hindu continuum does not call him स्थपति (*sthapati*), architect; निर्माता (*nirmātā*), constructor; or anything cognate with *engineer* or *codifier*. It calls him **वैयाकरणः (*vaiyākaraṇaḥ*)**: an analyst, decoder, and documenter.
 
@@ -48,15 +50,15 @@ The pyramid's account condenses both into Pāṇini and calls the compression *c
 
 > Pāṇini did the opposite of codifying. He decoded.
 
-![Figure 5.1 — The Long Memory of Sanskrit Grammar. The discipline of व्याकरणम् (*vyākaraṇam*) accumulates upward: Veda and recitation lineages at the foundation, named pre-Pāṇinian आचार्याः (*ācāryāḥ*) and analytical artifacts below, Pāṇini's *Aṣṭādhyāyī* as the documentation peak, and the *Trimuni Vyākaraṇam* above it.](figures/siddha_grammar/lineage_stack.svg){#fig:siddha-grammar-lineage-stack width=100%}
+![Figure 5.1 — The Long Memory of Sanskrit Grammar. The Vedas and their recitation lineages preserve the implicit grammar at the foundation. Named pre-Pāṇinian आचार्याः (*ācāryāḥ*) and their analytical instruments precede Pāṇini's *Aṣṭādhyāyī*. Kātyāyana and Patañjali continue the explicit analysis through the *Trimuni Vyākaraṇam*.](figures/siddha_grammar/lineage_stack.svg){#fig:siddha-grammar-lineage-stack width=100%}
 
-## 5.2 The Opening Axiom
+## 5.2 The Purpose and the Opening Axiom
 
 Patañjali wrote after Pāṇini. His words therefore serve a different purpose from the pre-Pāṇinian evidence in §5.1. The earlier evidence establishes that the architecture existed before the *Aṣṭādhyāyī*. Patañjali explains what grammar acts upon and what role the continuum assigned to it.
 
 He gives that explanation at the opening of the *Mahābhāṣya*, in the **पस्पशाह्निक (*Paspaśāhnika*)**.
 
-If the purpose of *grammar* in the English language is to correct and police *correct* usage, what is the purpose of व्याकरणम् (*vyākaraṇam*) in Sanskrit? [NOTE: prayojanani-paspashahnika] The *Paspaśāhnika* asks exactly the same question: **किं प्रयोजनं व्याकरणस्य (*kim prayojanam vyākaraṇasya*)** — what is the purpose of grammar? It gives five received purposes, the **पञ्च प्रयोजनानि (*pañca prayojanāni*)**:
+Patañjali does not leave the purpose of व्याकरणम् (*vyākaraṇam*) to inference. He asks **किं प्रयोजनं व्याकरणस्य (*kim prayojanam vyākaraṇasya*)** — what purpose does grammar serve? His answer gives five received purposes, the **पञ्च प्रयोजनानि (*pañca prayojanāni*)**:[NOTE: prayojanani-paspashahnika]
 
 - **रक्षा (*rakṣā*)** — preservation of the *Vedas* through correct forms.
 - **ऊह (*ūha*)** — adaptation for yajña procedures.
@@ -64,7 +66,7 @@ If the purpose of *grammar* in the English language is to correct and police *co
 - **लघु (*laghu*)** — brevity and efficiency in mastery.
 - **असंदेह (*asaṃdeha*)** — removal of doubt in usage.
 
-All of these purposes are consistent with a self-correcting system that is designed to be a calibrant. There is a *Veda* to preserve, a correct form to master, a usage whose doubt can be removed. व्याकरणम् (*vyākaraṇam*) analyzes an architecture already in place. That is what Pāṇini was: a वैयाकरणः (*vaiyākaraṇaḥ*), a decoder, an analyst, and a documenter, *not a codifier*.
+Together, the five purposes explain what the वैयाकरणाः (*vaiyākaraṇāḥ*) understood their discipline to be for. The Vedas must be preserved. Their forms must be adapted correctly when a yajña requires a change. The knowledge must be carried efficiently, and doubts about usage must be resolved. Every purpose begins with an architecture already available to preserve, apply, teach, or clarify. व्याकरणम् (*vyākaraṇam*) makes that architecture explicit. Pāṇini therefore stands within the lineage as a decoder, analyst, and documenter rather than as the authority who created the language or imposed its standard.
 
 Although *grammar* is an imprecise English rendering of व्याकरणम् (*vyākaraṇam*), English has no better common substitute. After this correction, the book uses *grammar* as shorthand where the context is clear.
 

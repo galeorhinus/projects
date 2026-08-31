@@ -148,6 +148,10 @@ Example:
 
 Use this especially when the book asks the reader to adopt a new way of seeing Sanskrit. The goal is not to sound like a glossary. The goal is to show the work the concept performs before naming the formal machinery.
 
+## Sanskrit Atom Notation
+
+Use the book's atom brackets for a Sanskrit semantic atom: **⟪वच्⟫ (*vac*)**, **⟪कृ⟫ (*kṛ*)**, **⟪गम्⟫ (*gam*)**. Do not use the Western philological root sign in the book's own notation: **⟪वच्⟫**, never **√वच्** or **√vac**. Retain `√` only when quoting a source, reproducing a historical artifact, or explicitly discussing another writer's root notation.
+
 ## Contrast Discipline
 
 Avoid overusing **negative definition** or **contrastive framing**: "X is not Y" / "X does not merely..." / "The point is not..." These are useful when the prose is correcting a live misconception or prosecuting an inherited misclassification. They become defensive when used as default concept introductions.

@@ -168,7 +168,7 @@ The book's title — ***Atomic Sanskrit*** — captures this thesis. The full st
 
 ### **व्याकरणम् (*vyākaraṇam*)**
 
-**Standard.** Grammar; the analytical discipline. Etymology: *vi-* (apart) + *ā-* (toward) + ⟪कृ⟫ (*kṛ*, to do) — the act of *taking apart, unfolding apart*. Decomposition, not composition — the structural point the book makes against the codification myth. Reference Yaska's निरुक्त (*Nirukta*) and the *Pāṇinian* discipline.
+**Standard.** Grammar; the analytical discipline. Etymology: *vi-* (apart) + *ā-* (toward) + ⟪कृ⟫ (*kṛ*, to do) — the act of *taking apart, unfolding apart*. Decomposition, not composition — the structural point the book makes against the codification myth. Reference Yāska's निरुक्त (*Nirukta*) and the *Pāṇinian* discipline.
 
 ### **वैयाकरणाः (*vaiyākaraṇāḥ*)**
 
@@ -407,7 +407,7 @@ Together they specify the engineered grid of consonantal positions. Chapter 7 de
 **Standard English; book-controlled deployment.** Specific senses lock:
 - ***Engineered*** (engineering thesis): empirical-descriptive judgment about what is observable today in the वर्णमाला (*varṇamālā*) / धातुपाठ (*Dhātupāṭha*) / calibration matrix.
 - ***Encoded***: the *Vedas* preserve the engineering through छन्दस् (*chandas*) + श्रुति (*śruti*) + lineage-chain form, immutable across generations.
-- ***Decoded***: what the वैयाकरणाः (*vaiyākaraṇāḥ*) (Pāṇini, Patañjali, Yaska, the pre-Pāṇinian roster) did — recovered the explicit specification from the encoded corpus.
+- ***Decoded***: what Sanskrit's analytical disciplines did. The वैयाकरणाः (*vaiyākaraṇāḥ*), including Pāṇini, Patañjali, and the pre-Pāṇinian grammatical analysts, made grammar explicit. Yāska's निरुक्त (*Nirukta*) made derivation and meaning explicit. Together, these disciplines recovered the specification from the encoded corpus.
 - ***Codified*** (the pyramid's misnaming): scare-quoted; runs in the wrong structural direction.
 
 Book refrain: ***Sanskrit was engineered. Encoded in the Vedas. Decoded by many. Pāṇini's decoding is the finest. The Vedas remain the calibrant.***

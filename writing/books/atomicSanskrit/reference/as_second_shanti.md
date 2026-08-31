@@ -424,7 +424,7 @@ The book-coined English terms ***Mnemoniture***, ***Flexture***, ***Auditure*** 
 - Confirm working titles for the forthcoming volumes — and decide whether to commit to specific names yet, or keep the generic "*a forthcoming volume in the* Second Shanti *series*" forward-reference convention indefinitely.
 - Decide where the सभ्यता / civility framework from earlier writing fits — developed in the *"Risks of nationalistic history"* essays and potentially central to the political volume's argument about distributed-vs-centralized preservation.
 - Decide the volume order (political first? economic first? does *Atomic Sanskrit* close-out create a natural sequencing pressure?).
-- Confirm whether the Saunaga → Śākaṭāyana grammarian-roster swap (flagged in `working/10_active/as_todo.md` for *Atomic Sanskrit*) should be applied.
+- The Saunaga → Śākaṭāyana grammarian-roster correction was applied to *Atomic Sanskrit* on 2026-08-30.
 
 ---
 

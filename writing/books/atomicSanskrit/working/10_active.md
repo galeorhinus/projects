@@ -1,13 +1,13 @@
 # The 90 Active Conjugations (Present Indicative)
 
-This document tracks the 9 active (Parasmaipada / Ātmanepada) conjugations (3 Persons x 3 Numbers) for 10 representative roots covering all 10 grammatical classes (Gaṇas) across the Vedic corpus.
+This document tracks the 9 active (Parasmaipada / Ātmanepada) conjugations (3 Persons x 3 Numbers) for 10 representative atoms covering all 10 grammatical classes (Gaṇas) across the Vedic corpus.
 
 **Goal:** Find an attested Vedic citation (preferably Rigveda) for all 90 forms.
 **Total Required:** 90
 **Total Found:** 25
 *(Note: As requested, forms that are standard grammatical paradigms but return no direct citations in extant Samhitas have been marked as "Not found in Vedic corpus".)*
 
-## 1. Bhvādi (1st Class) — √bhū (to be/become)
+## 1. Bhvādi (1st Class) — ⟪भू⟫ (*bhū*, to be/become)
 - [x] 3rd Person Singular: **bhavati** (RV 10.85.34)
 - [x] 3rd Person Dual: **bhavataḥ** (RV 10.12.1)
 - [x] 3rd Person Plural: **bhavanti** (RV 1.89.9)
@@ -18,7 +18,7 @@ This document tracks the 9 active (Parasmaipada / Ātmanepada) conjugations (3 P
 - [x] 1st Person Dual: **bhavāva** (AV 14.2.71)
 - [x] 1st Person Plural: **bhavāma** (RV 5.45.5)
 
-## 2. Adādi (2nd Class) — √ad (to eat)
+## 2. Adādi (2nd Class) — ⟪अद्⟫ (*ad*, to eat)
 - [x] 3rd Person Singular: **atti** (RV 1.164.20)
 - [x] 3rd Person Dual: **attaḥ** (RV 10.79.1)
 - [x] 3rd Person Plural: **adanti** (RV 10.146.3)
@@ -29,7 +29,7 @@ This document tracks the 9 active (Parasmaipada / Ātmanepada) conjugations (3 P
 - [ ] 1st Person Dual: **advaḥ** (Not found in Vedic corpus)
 - [ ] 1st Person Plural: **admaḥ** (Not found in Vedic corpus)
 
-## 3. Juhotyādi (3rd Class) — √dā (to give)
+## 3. Juhotyādi (3rd Class) — ⟪दा⟫ (*dā*, to give)
 - [x] 3rd Person Singular: **dadāti** (RV 10.117.3)
 - [ ] 3rd Person Dual: **dattaḥ** (Not found in Vedic corpus)
 - [x] 3rd Person Plural: **dadati** (RV 7.16.10)
@@ -40,7 +40,7 @@ This document tracks the 9 active (Parasmaipada / Ātmanepada) conjugations (3 P
 - [ ] 1st Person Dual: **dadvaḥ** (Not found in Vedic corpus)
 - [x] 1st Person Plural: **dadmaḥ** (Śatapatha Brāhmaṇa / Bṛhadāraṇyaka Upaniṣad)
 
-## 4. Divādi (4th Class) — √div (to play/shine)
+## 4. Divādi (4th Class) — ⟪दिव्⟫ (*div*, to play/shine)
 - [x] 3rd Person Singular: **dīvyati** (Root attested RV 10.34)
 - [ ] 3rd Person Dual: **dīvyataḥ** (Not found in Vedic corpus)
 - [x] 3rd Person Plural: **dīvyanti** (Root attested RV 10.34)
@@ -51,8 +51,8 @@ This document tracks the 9 active (Parasmaipada / Ātmanepada) conjugations (3 P
 - [ ] 1st Person Dual: **dīvyāvaḥ** (Not found in Vedic corpus)
 - [ ] 1st Person Plural: **dīvyāmaḥ** (Not found in Vedic corpus)
 
-## 5. Svādi (5th Class) — √kṛ (to do) 
-*(Note: Classical Sanskrit categorizes √kṛ as an 8th Class Tanādi verb, producing the paradigm **karoti, kurutaḥ, kurvanti**. The Rigveda Samhita conjugates √kṛ as a 5th Class Svādi verb, yielding **kṛṇoti, kṛṇvanti**. Present indicative Parasmaipada forms of the 8th class (karoti, karomi) are absent from the Rigveda. However, the structural transition toward the 8th class is visible in the 10th Mandala through alternate moods, such as the imperative **kuru** in RV 10.145.2.)*
+## 5. Svādi (5th Class) — ⟪कृ⟫ (*kṛ*, to do)
+*(Note: Classical Sanskrit categorizes ⟪कृ⟫ (*kṛ*) as an 8th Class Tanādi verb, producing the paradigm **karoti, kurutaḥ, kurvanti**. The Rigveda Samhita conjugates ⟪कृ⟫ (*kṛ*) as a 5th Class Svādi verb, yielding **kṛṇoti, kṛṇvanti**. Present indicative Parasmaipada forms of the 8th class (karoti, karomi) are absent from the Rigveda. However, the structural transition toward the 8th class is visible in the 10th Mandala through alternate moods, such as the imperative **kuru** in RV 10.145.2.)*
 - [x] 3rd Person Singular: **kṛṇoti** (RV 1.92.6)
 - [ ] 3rd Person Dual: **kṛṇutaḥ** (Not found in Vedic corpus)
 - [x] 3rd Person Plural: **kṛṇvanti** (RV 1.47.2)
@@ -63,7 +63,7 @@ This document tracks the 9 active (Parasmaipada / Ātmanepada) conjugations (3 P
 - [ ] 1st Person Dual: **kṛṇuvaḥ** (Not found in Vedic corpus)
 - [ ] 1st Person Plural: **kṛṇumaḥ** (Not found in Vedic corpus)
 
-## 6. Tudādi (6th Class) — √vid (to find)
+## 6. Tudādi (6th Class) — ⟪विद्⟫ (*vid*, to find)
 - [x] 3rd Person Singular: **vindati** (RV 9.67.21)
 - [ ] 3rd Person Dual: **vindataḥ** (Not found in Vedic corpus)
 - [ ] 3rd Person Plural: **vindanti** (Not found in Vedic corpus)
@@ -74,7 +74,7 @@ This document tracks the 9 active (Parasmaipada / Ātmanepada) conjugations (3 P
 - [ ] 1st Person Dual: **vindāvaḥ** (Not found in Vedic corpus)
 - [ ] 1st Person Plural: **vindāmaḥ** (Not found in Vedic corpus)
 
-## 7. Rudhādi (7th Class) — √rudh (to obstruct)
+## 7. Rudhādi (7th Class) — ⟪रुध्⟫ (*rudh*, to obstruct)
 - [x] 3rd Person Singular: **ruṇaddhi** (RV 10.34.3)
 - [ ] 3rd Person Dual: **runddhaḥ** (Not found in Vedic corpus)
 - [x] 3rd Person Plural: **rundhanti** (RV 9.70.5)
@@ -85,7 +85,7 @@ This document tracks the 9 active (Parasmaipada / Ātmanepada) conjugations (3 P
 - [ ] 1st Person Dual: **rundhvaḥ** (Not found in Vedic corpus)
 - [ ] 1st Person Plural: **rundhmaḥ** (Not found in Vedic corpus)
 
-## 8. Tanādi (8th Class) — √tan (to weave/stretch)
+## 8. Tanādi (8th Class) — ⟪तन्⟫ (*tan*, to weave/stretch)
 - [x] 3rd Person Singular: **tanute** (RV 10.130.1)
 - [ ] 3rd Person Dual: **tanvāte** (Not found in Vedic corpus)
 - [ ] 3rd Person Plural: **tanvate** (Not found in Vedic corpus)
@@ -96,7 +96,7 @@ This document tracks the 9 active (Parasmaipada / Ātmanepada) conjugations (3 P
 - [ ] 1st Person Dual: **tanvāvahe** (Not found in Vedic corpus)
 - [ ] 1st Person Plural: **tanvāmahe** (Not found in Vedic corpus)
 
-## 9. Kryādi (9th Class) — √krī (to buy)
+## 9. Kryādi (9th Class) — ⟪क्री⟫ (*krī*, to buy)
 - [x] 3rd Person Singular: **krīṇāti** (RV 4.24.10)
 - [ ] 3rd Person Dual: **krīṇītaḥ** (Not found in Vedic corpus)
 - [ ] 3rd Person Plural: **krīṇanti** (Not found in Vedic corpus)
@@ -107,7 +107,7 @@ This document tracks the 9 active (Parasmaipada / Ātmanepada) conjugations (3 P
 - [ ] 1st Person Dual: **krīṇīvaḥ** (Not found in Vedic corpus)
 - [ ] 1st Person Plural: **krīṇīmaḥ** (Not found in Vedic corpus)
 
-## 10. Curādi (10th Class) — √dhṛ (to hold/sustain)
+## 10. Curādi (10th Class) — ⟪धृ⟫ (*dhṛ*, to hold/sustain)
 - [x] 3rd Person Singular: **dhārayati** (RV 7.85.3)
 - [ ] 3rd Person Dual: **dhārayataḥ** (Not found in Vedic corpus)
 - [ ] 3rd Person Plural: **dhārayanti** (Not found in Vedic corpus)

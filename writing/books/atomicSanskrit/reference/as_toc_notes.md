@@ -187,7 +187,7 @@ This chapter anchors the book's thesis in the philosophical baseline of Sanskrit
   * Sanskrit begins from the assumption of permanence.
   * The vyākaraṇa discipline is built to preserve this permanence, not to chronicle change.
 * Extend the chain of authority pre-Pāṇinian:
-  * Pāṇini cites Śākalya and at least nine other named earlier grammarians by name — Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Saunaga, Senaka, Sphoṭāyana — across multiple Aṣṭādhyāyī rules.
+  * Pāṇini cites Śākalya and at least nine other named earlier grammarians by name — Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Śākaṭāyana, Senaka, Sphoṭāyana — across multiple Aṣṭādhyāyī rules.
   * The Śākalya **पदपाठ (padapāṭha)** decomposed the Rigvedic **संहिता (saṃhitā)** into its constituent **पदानि (padāni)** with sophisticated grammatical analysis many generations before Pāṇini formalized the apparatus.
   * The प्रातिशाख्य (prātiśākhya) discipline — distinct in domain (phonetic analysis per recension) but operating within the same pre-Pāṇinian apparatus — supplies the parallel analytical layer.
   * Bhāradvāja appears on both this list and the Saptaṛṣi roster (Ch18): the Saptaṛṣi lineage and the named pre-Pāṇinian grammarian roster connect directly through this single figure.

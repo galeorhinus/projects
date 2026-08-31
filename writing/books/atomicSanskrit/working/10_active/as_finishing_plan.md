@@ -138,7 +138,7 @@ When a phase or sub-item completes, mark the box and add a one-line note with th
 
 ### D.1 — Carryover items from Session 11 P0 [ ]
 
-- [ ] **Saunaga decision** — finalize handling of *Saunaga* / *Śaunaka* attribution in the chapter that names *Prātiśākhya* compilers and the pre-Pāṇinian grammarian roster (Ch 7, Ch 10, Endnotes §`pre-paninian-grammarians`).
+- [x] **Saunaga decision** — corrected the pre-Pāṇinian grammarian roster to Śākaṭāyana in Chapter 5, Figure 5.1, and the governing endnotes on 2026-08-30.
 - [ ] **Title-page series-line** — finalize series-line text and placement.
 
 ### D.2 — Endnote finalization [ ]
@@ -194,7 +194,7 @@ Run the phases roughly in order: **A → B → C → D**. Within each phase, ite
 - Phase A first because trimming sharpens what beta readers will see
 - Phase B second because verification catches errors before external eyes
 - Phase C third because beta feedback is most valuable once polish is in
-- Phase D last but **D.1** (Saunaga + title-page) and **D.7** (essays) can run in parallel with earlier phases
+- Phase D last, but the remaining part of **D.1** (title-page) and **D.7** (essays) can run in parallel with earlier phases.
 
 ## Status log
 

@@ -141,19 +141,7 @@ The selected steppe-corridor languages — drawn from the region where the pyram
 
 The eleven surveys — four in the body and seven in this appendix — produce the following sample ordering. Sets drawn from the Indian subcontinent and its north-western contact zone occupy the higher rows, while the selected Caucasus and steppe sets occupy the lower rows. These eleven sets do not establish a universal geographic law. They show a repeatable pattern that can now be tested against more languages.
 
-| Coverage | Set | Languages | Source |
-|---:|---|---|---|
-| **22 / 23** | Southern Survey | Tamil + Toda + Kurukh | body (Ch 8 §8.4) |
-| **22 / 23** | Northwest Frontier | Pashto + Nuristani + Burushaski | App 4 §4.5 |
-| 21 / 23 | Mixed Survey | Korku + Mundari + Burushaski | App 4 §4.3 |
-| 20 / 23 | Forest-Belt Survey | Korku + Mundari + Ho | body (Ch 8 §8.4) |
-| 20 / 23 | Munda Survey | Korku + Mundari + Santali | App 4 §4.2 |
-| 18 / 23 | Dispersed *"Austro-Asiatic"* | Sora + Khasi + Nicobarese | App 4 §4.4 |
-| 16 / 23 | Western IE Survey | English + French + Greek | body (Ch 8 §8.4) |
-| 15 / 23 | Iranian Survey (outside the retroflex zone) | Farsi + Kurdish + Talysh | App 4 §4.6 |
-| 15 / 23 | Central Asian Survey | Tajik + Kazakh + Kyrgyz | body (Ch 8 §8.4) |
-| 14 / 23 | Slavic & Caucasus IE | Russian + Ukrainian + Ossetian | App 4 §4.8 |
-| **13 / 23** | Caucasus Survey | Armenian + Georgian + Ossetian | App 4 §4.7 |
+![Figure A.4.8 — The Coverage Cascade. Eleven three-language surveys ranked by how many of Sanskrit's 23 base sonomers their combined inventories cover. Filled pips show covered cells; hollow pips show unfilled cells.](figures/superset/superset_coverage_cascade_pips.svg){#fig:app4-coverage-cascade width=86%}
 
 **The selected sets closer to the Indian subcontinent show higher coverage.** The Tamil + Toda + Kurukh set and the north-western Pashto + Nuristani + Burushaski set both reach 22/23 and leave only **श** unfilled. The first combines languages spoken in widely separated parts of the subcontinent; the second combines languages from the north-western frontier. The selected Caucasus set produces the lowest result at 13/23.
 

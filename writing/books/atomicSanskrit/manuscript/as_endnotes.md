@@ -2722,7 +2722,7 @@ Standard references: the *Ṛgveda* *Padapāṭha* in the Theodor Aufrecht and F
 
 ### `panini-cites-pre-paninian-vaiyakaranas`
 
-**Short:** Pāṇini's *Aṣṭādhyāyī* (अष्टाध्यायी) cites by name a roster of pre-Pāṇinian *vaiyākaraṇāḥ* — ***Āpiśali*** (आपिशलि, 6.1.92), ***Kāśyapa*** (काश्यप, 1.2.25, 8.4.67), ***Gārgya*** (गार्ग्य, 7.3.99, 8.3.20), ***Gālava*** (गालव, 6.3.61, 7.1.74, 8.4.67), ***Cākravarmaṇa*** (चाक्रवर्मण, 6.1.130), ***Bhāradvāja*** (भारद्वाज, 7.2.63), ***Saunaga*** (सौनाग), ***Senaka*** (सेनक, 5.4.112), and ***Sphoṭāyana*** (स्फोटायन, 6.1.123) — each citation recording where Pāṇini ratifies, modifies, or preserves alternative analyses; the *Aṣṭādhyāyī* is not the founding moment of Sanskrit grammar but the finest decoding of a discipline with substantial prior depth.
+**Short:** Pāṇini's *Aṣṭādhyāyī* (अष्टाध्यायी) cites by name a roster of pre-Pāṇinian *vaiyākaraṇāḥ* — ***Āpiśali*** (आपिशलि, 6.1.92), ***Kāśyapa*** (काश्यप, 1.2.25, 8.4.67), ***Gārgya*** (गार्ग्य, 7.3.99, 8.3.20), ***Gālava*** (गालव, 6.3.61, 7.1.74, 8.4.67), ***Cākravarmaṇa*** (चाक्रवर्मण, 6.1.130), ***Bhāradvāja*** (भारद्वाज, 7.2.63), ***Śākaṭāyana*** (शाकटायन, 3.4.111, 8.3.18, 8.4.50), ***Śākalya*** (शाकल्य), ***Senaka*** (सेनक, 5.4.112), and ***Sphoṭāyana*** (स्फोटायन, 6.1.123) — each citation recording where Pāṇini ratifies, modifies, or preserves alternative analyses; the *Aṣṭādhyāyī* is not the founding moment of Sanskrit grammar but the finest decoding of a discipline with substantial prior depth.
 
 **Deployments:** Chapter 5 §5.1 ¶ — the cluster citation anchoring the list of nine other pre-Pāṇinian *vaiyākaraṇāḥ* whose work Pāṇini engages in the *Aṣṭādhyāyī*.
 
@@ -2734,11 +2734,12 @@ The *Aṣṭādhyāyī* cites by name a roster of *vaiyākaraṇāḥ* whose wor
 - ***Gālava (गालव)*** — cited at 6.3.61 regarding compound formation; 7.1.74 regarding declensional irregularity; 8.4.67 regarding *anusvāra*.
 - ***Cākravarmaṇa (चाक्रवर्मण)*** — cited at 6.1.130 regarding vowel-sandhi.
 - ***Bhāradvāja (भारद्वाज)*** — cited at 7.2.63 regarding *vṛddhi* in specific verbal classes.
-- ***Saunaga (सौनाग)*** — cited in the *Mahābhāṣya* commentarial literature as a pre-Pāṇinian authority.
+- ***Śākaṭāyana (शाकटायन)*** — cited at 3.4.111, 8.3.18, and 8.4.50; Yāska's *Nirukta* 1.12 also preserves his position that nominal words arise from verbs.
+- ***Śākalya (शाकल्य)*** — cited repeatedly for decisions associated with Vedic word separation and pronunciation; see the preceding endnote `shakalya-padapatha`.
 - ***Senaka (सेनक)*** — cited at 5.4.112 regarding compound formation.
-- ***Sphoṭāyana (स्फोटायन)*** — cited at 6.1.123 regarding the *sphoṭa*-doctrine of word-meaning, which Pāṇini engages in his discussion of word-form vs. word-meaning relations.
+- ***Sphoṭāyana (स्फोटायन)*** — cited at 6.1.123, where Pāṇini preserves Sphoṭāyana's analysis of a specific vowel operation.
 
-The full count of pre-Pāṇinian *vaiyākaraṇāḥ* cited in the *Aṣṭādhyāyī* exceeds the nine listed here. The standard reckoning across the Pāṇinian discipline's literature (the *Mahābhāṣya*, the *Kāśikā-vṛtti*, the *Padamañjarī*, and modern scholarly reconstructions) identifies more than a dozen named individuals whose work Pāṇini engages directly. Each citation serves as an acknowledgment that a specific analytical decision has been made by a predecessor; Pāṇini's *sūtra* either ratifies the predecessor's decision, modifies it, or preserves the alternative analysis as a recorded option.
+These ten names do not exhaust the pre-Pāṇinian analytical tradition. Pāṇini also records positions associated with regional groups and unnamed earlier authorities. Each named citation acknowledges that a predecessor had already made a specific analytical decision; Pāṇini's *sūtra* may adopt that decision, modify it, or preserve it as an alternative.
 
 The structural significance the chapter establishes: the *Aṣṭādhyāyī* is not the founding moment of Sanskrit grammar but the finest decoding of a discipline with substantial prior depth. The named figures whose work Pāṇini engages constitute a teacher-student lineage-chain of grammatical analysis that flourished for many generations before Pāṇini's decoding. Pāṇini's contribution is the integration, regularization, and systematic presentation of this prior grammatical framework. The engineering of Sanskrit — the architecture displayed in the *varṇamālā* and the broader system — is upstream of even this pre-Pāṇinian vyākaraṇa discipline; the pre-Pāṇinian *vaiyākaraṇāḥ* themselves analyze an architecture that was already in place.
 
@@ -4587,6 +4588,18 @@ Standard references: see endnote `eleven-pathas` for the foundational references
 
 ---
 
+### `crc-error-detection-analogy`
+
+**Short:** A cyclic redundancy check derives a compact check value from transmitted data. The receiver calculates the value again from the data that arrived and compares the result with the transmitted value. A mismatch detects an accidental change without requiring the system to interpret the content.
+
+**Deployments:** Chapter 15 §15.3 opening — the computing analogy used to explain how the Vedic preservation architecture detects deviation in a recited sound-stream.
+
+The US National Institute of Standards and Technology defines CRC as a checksum algorithm used to provide data integrity where accidental changes are expected, and as a method for determining whether data changed while passing through a communication channel. NIST's *Dictionary of Algorithms and Data Structures* further explains that the CRC can be recalculated and compared with the transmitted CRC to detect many transmission errors.
+
+Sources: NIST Computer Security Resource Center, [“cyclic redundancy check (CRC)”](https://csrc.nist.gov/glossary/term/cyclic_redundancy_check); Paul E. Black, [“cyclic redundancy check,”](https://xlinux.nist.gov/dads/HTML/cyclicRedundancyCheck.html) *NIST Dictionary of Algorithms and Data Structures*, revised July 19, 2021.
+
+---
+
 ### `combinatorial-redundancy-comparative`
 
 **Short:** The Vedic eleven *pāṭhas* produce a multi-channel combinatorial-redundancy architecture with no comparable analog among the ancient preservation traditions surveyed here: Hebrew Masoretic preservation uses letter-counting and statistical verification (not combinatorial re-encoding); Quranic *qirāʾāt* preserve canonical variation across recitations; Latin Vulgate preservation uses manuscript-stemma reconstruction (written-primary); Greek classical Alexandrian textual criticism, Chinese standard-edition tradition, and Buddhist Pāli Canon council-and-memorization lineages — sophisticated each on its own architecture, but none uses *permutation-based redundancy* over a single fixed text.
@@ -5516,13 +5529,13 @@ Source: `analysis/dhatupatha/data/derived/template_distribution.csv` and `.md`; 
 
 ### `yaska-agni-nirukta-7-14`
 
-**Short:** Ch 10 §10.12 uses Yaska's multiple derivations of **अग्नि (*agni*)** in *Nirukta* 7.14 as evidence that the analytical discipline treated Sanskrit words as decomposable assemblies, not opaque historical accidents.
+**Short:** Ch 10 §10.12 uses Yāska's multiple derivations of **अग्नि (*agni*)** in *Nirukta* 7.14 as evidence that the analytical discipline treated Sanskrit words as decomposable assemblies, not opaque historical accidents.
 
 **Deployments:** Ch10 §10.12 (the *agni* / engineering-was-common-knowledge section).
 
-The point does not depend on choosing one derivation as the single historically correct etymology. The point is methodological. Yaska can stage multiple derivational analyses because the discipline assumes stable constituents: *varṇāḥ*, *dhātavaḥ*, and bonding operations. To the historical-philological eye, multiple derivations can look like folk-etymological uncertainty. Inside the Sanskrit analytical frame, they are functional decompositions: different properties of fire — leading, animating, drying, illuminating, burning — can be isolated by different derivational paths.
+The point does not depend on choosing one derivation as the single historically correct etymology. The point is methodological. Yāska can stage multiple derivational analyses because the discipline assumes stable constituents: *varṇāḥ*, *dhātavaḥ*, and bonding operations. To the historical-philological eye, multiple derivations can look like folk-etymological uncertainty. Inside the Sanskrit analytical frame, they are functional decompositions: different properties of fire — leading, animating, drying, illuminating, burning — can be isolated by different derivational paths.
 
-Source: Yaska, *Nirukta* 7.14; confirm exact Sanskrit wording against the edition used for final citations.
+Source: Yāska, *Nirukta* 7.14; confirm exact Sanskrit wording against the edition used for final citations.
 
 ---
 
@@ -5668,7 +5681,7 @@ The 2026-05-25 cleanup corrected the older matrix that still used pre-cleanup sc
 
 ### `vyakarana-etymology`
 
-**Short:** ***Vyākaraṇam*** (व्याकरणम्) = *vi-* (वि-, *apart*) + *ā-* (आ-, *toward*) + ⟪कृ⟫ (*kṛ*, *to do, to make*) — formed from the verbal combination *vi-ā-kṛ* through the abstract-noun derivation, with literal sense *the act of taking-apart*, *unfolding-apart*, *separating into constituents* — i.e., **analysis**, *de-composition*, not composition. Foundational for the book's case against the dogma's *codification* vocabulary: Sanskrit's own name for what Pāṇini did is the opposite operation — the *taking-apart* of a system already present. Sources: Monier-Williams 1899, Apte 1890, Yaska's *Nirukta*, the *Mahābhāṣya*.
+**Short:** ***Vyākaraṇam*** (व्याकरणम्) = *vi-* (वि-, *apart*) + *ā-* (आ-, *toward*) + ⟪कृ⟫ (*kṛ*, *to do, to make*) — formed from the verbal combination *vi-ā-kṛ* through the abstract-noun derivation, with literal sense *the act of taking-apart*, *unfolding-apart*, *separating into constituents* — i.e., **analysis**, *de-composition*, not composition. Foundational for the book's case against the dogma's *codification* vocabulary: Sanskrit's own name for what Pāṇini did is the opposite operation — the *taking-apart* of a system already present. Sources: Monier-Williams 1899, Apte 1890, Yāska's *Nirukta*, the *Mahābhāṣya*.
 
 **Deployments:** Chapter 2 §2.8 (the Bakers' Story, book refrain, and heroic erasure); Chapter 5 §5.1 (the *vyākaraṇam* / *vaiyākaraṇa* paragraph); Ch10 (the *Dhātupāṭha* as documentation of an inherited inventory); Ch13 §13.3; Ch14 §14.7; Thesis #2.
 
@@ -5676,19 +5689,19 @@ The Sanskrit word ***व्याकरणम् (*vyākaraṇam*)*** decomposes
 
 The codification myth assigns Pāṇini the wrong kind of achievement. ***Vyākaraṇam*** describes analysis: taking an existing language apart so that its constituents and operations can be explained precisely. It does not describe creating Sanskrit or imposing structure upon an unformed language. Sanskrit's analytical disciplines preserve this meaning, as do the classical lexicons. Monier-Williams defines *vyākaraṇa* as "separation, distinction, analysis," while Apte gives "explanation, analysis, grammar." See also Yāska's *Nirukta*, the *Mahābhāṣya*, Cardona's *Pāṇini: A Survey of Research* (1976), and Kiparsky (1979).
 
-Source: Standard Sanskrit lexicographical references (Monier-Williams 1899; Apte 1890); confirmed by Yaska's *Nirukta* and the *Mahābhāṣya*'s own paratextual usage.
+Source: Standard Sanskrit lexicographical references (Monier-Williams 1899; Apte 1890); confirmed by Yāska's *Nirukta* and the *Mahābhāṣya*'s own paratextual usage.
 
 ---
 
 ### `vaiyakarana-role-title`
 
-**Short:** ***Vaiyākaraṇaḥ*** (वैयाकरणः, *one who performs vyākaraṇam*; plural ***vaiyākaraṇāḥ*** वैयाकरणाः) — the Sanskrit role-title for the decoder-analyst, derived by the *aṇ-taddhita* suffix with *vṛddhi* of the first syllable. Pāṇini, Kātyāyana, Patañjali, and the pre-Pāṇinian *vaiyākaraṇāḥ* Pāṇini cites by name (Śākalya, Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Saunaga, Senaka, Sphoṭāyana) are all designated *vaiyākaraṇāḥ*. The discipline does *not* call them ***sthapati*** (architect), ***nirmātṛ*** (constructor), or any cognate of *engineer* — the role-attribution is uniformly *decoder*, *one who unfolds-apart*, contesting the pyramid's codification myth from inside the lineage-chain's own vocabulary.
+**Short:** ***Vaiyākaraṇaḥ*** (वैयाकरणः, *one who performs vyākaraṇam*; plural ***vaiyākaraṇāḥ*** वैयाकरणाः) — the Sanskrit role-title for the decoder-analyst, derived by the *aṇ-taddhita* suffix with *vṛddhi* of the first syllable. Pāṇini, Kātyāyana, Patañjali, and the pre-Pāṇinian *vaiyākaraṇāḥ* Pāṇini cites by name (Śākalya, Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Śākaṭāyana, Senaka, Sphoṭāyana) are all designated *vaiyākaraṇāḥ*. The discipline does *not* call them ***sthapati*** (architect), ***nirmātṛ*** (constructor), or any cognate of *engineer* — the role-attribution is uniformly *decoder*, *one who unfolds-apart*, contesting the pyramid's codification myth from inside the lineage-chain's own vocabulary.
 
 **Deployments:** Chapter 5 §5.1 (the role-title paragraph); Claim #2.
 
 The Sanskrit role-title for the practitioner of *vyākaraṇam* is ***वैयाकरणः (*vaiyākaraṇaḥ*)*** — *one who performs *vyākaraṇam**, the decoder-analyst. The plural is ***वैयाकरणाः (*vaiyākaraṇāḥ*)***. The derivation is by the *aṇ*-*taddhita* suffix (per Pāṇini's own *Aṣṭādhyāyī* — the suffix indicating *"the one who is associated with X"*), with *vṛddhi* of the first syllable yielding *vyā-* → *vai-* and so *vaiyākaraṇa* from *vyākaraṇa*. The Pāṇinian derivational pattern itself produces the role-title; the discipline is internally self-consistent in labeling the activity and the agent.
 
-Pāṇini, Kātyāyana, Patañjali, and the pre-Pāṇinian *vaiyākaraṇāḥ* Pāṇini cites by name — Śākalya, Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Saunaga, Senaka, Sphoṭāyana — are all designated *vaiyākaraṇāḥ* by the discipline. So are the later commentators: Bhartṛhari (author of the *Vākyapadīya*), Helārāja, Kaiyaṭa, Nāgeśa Bhaṭṭa. Yaska's primary designation is *nairukta* (etymologist) — but the *vaiyākaraṇa* and *nairukta* disciplines are closely allied, with the *Nirukta* engaging the grammatical analysis and the *Mahābhāṣya* engaging the etymological one.
+Pāṇini, Kātyāyana, Patañjali, and the pre-Pāṇinian *vaiyākaraṇāḥ* Pāṇini cites by name — Śākalya, Āpiśali, Kāśyapa, Gārgya, Gālava, Cākravarmaṇa, Bhāradvāja, Śākaṭāyana, Senaka, Sphoṭāyana — are all designated *vaiyākaraṇāḥ* by the discipline. So are the later commentators: Bhartṛhari (author of the *Vākyapadīya*), Helārāja, Kaiyaṭa, Nāgeśa Bhaṭṭa. Yāska's primary designation is *nairukta* (etymologist) — but the *vaiyākaraṇa* and *nairukta* disciplines are closely allied, with the *Nirukta* engaging the grammatical analysis and the *Mahābhāṣya* engaging the etymological one.
 
 Critically, the discipline does *not* call any of these figures ***स्थपति (*sthapati*)*** (*architect*, the *Vāstu-śāstra* term for a builder of physical structures), ***निर्माता (*nirmātṛ*)*** (*constructor*), or anything cognate with *engineer*. The role-title is uniformly *vaiyākaraṇa* — *the decoder*, *the one who unfolds-apart*. This is the lineage-chain's own role-attribution: not as engineers of a new system, but as decoders of an encoded one. The book's refrain — *Sanskrit was engineered; encoded in the Vedas; decoded by many; Pāṇini's decoding is the finest* — restates the lineage-chain's own self-description in the prosecutorial idiom that contests the pyramid's codification myth.
 

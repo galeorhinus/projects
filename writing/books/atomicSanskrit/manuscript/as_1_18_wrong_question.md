@@ -272,7 +272,7 @@ The wider preservation architecture used eleven **पाठाः (*pāṭhāḥ
 
 For thousands of years, the Vedas have remained the primary calibrant. Those responsible for recitation preserved every sound, pitch, duration, and sequence. Those responsible for लौकिक (*laukika*) Sanskrit could return to the architecture the Vedas encoded whenever usage began to deviate from it.
 
-Generations of **वैयाकरणाः (*vaiyākaraṇāḥ*)** decoded that architecture. Yāska, Sthaulāṣṭhīvi, Śakapūṇi, Śākalya, the **प्रातिशाख्य (*Prātiśākhya*)** disciplines, the **शिक्षा (*Śikṣā*)** disciplines, and the wider pre-Pāṇinian grammatical continuum analyzed the language long before that documentation reached its most compressed form.
+Generations of analysts decoded different parts of that architecture. The **वैयाकरणाः (*vaiyākaraṇāḥ*)** analyzed grammar. Yāska's **निरुक्त (*Nirukta*)** explained Vedic words and their derivations, drawing upon earlier analysts such as Sthaulāṣṭhīvi and Śakapūṇi. Śākalya, the **प्रातिशाख्य (*Prātiśākhya*)** disciplines, and the **शिक्षा (*Śikṣā*)** disciplines carried the analysis into word separation, sound, and recitation. All of this work preceded the *Aṣṭādhyāyī*.
 
 As the age grew darker and the pressure of entropy increased, Pāṇini found an exceptionally efficient way to protect the लौकिक (*laukika*) domain. He inherited the analytical tradition, decoded Sanskrit's existing grammar, and articulated its operations with unmatched precision. The *Aṣṭādhyāyī* compressed that architecture into a rule-system that students and teachers could apply directly to new लौकिक (*laukika*) compositions. Pāṇini did not create Sanskrit. He gave the continuum its finest grammatical articulation.
 
