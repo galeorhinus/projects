@@ -1840,8 +1840,26 @@ async function saveReaderToken() {
 const SEEN_KEY = "as_seen_answers";
 
 function loadSeen() {
-  try { return new Set(JSON.parse(localStorage.getItem(SEEN_KEY) || "[]")); }
-  catch (e) { return new Set(); }
+  try {
+    const raw = localStorage.getItem(SEEN_KEY);
+    // First run on this browser. Every answer already on the page predates
+    // the feature, so none of it is news — seed the set with all of them and
+    // let only future resolutions announce themselves. Without this the
+    // change debuts by pinning the entire back catalogue to the top as
+    // "new": on the current data that is 98 of one reader's 104 notes, each
+    // with its thread forced open. That is a worse page than the one this
+    // replaces.
+    //
+    // Keyed on `null` rather than falsiness so a reader who has genuinely
+    // dismissed everything (an empty array) is not re-seeded on every load,
+    // which would silently suppress their next real answer.
+    if (raw === null) {
+      const backfill = DATA.filter(a => !a.reply && a.resolved).map(a => a.id);
+      try { localStorage.setItem(SEEN_KEY, JSON.stringify(backfill)); } catch (e) {}
+      return new Set(backfill);
+    }
+    return new Set(JSON.parse(raw));
+  } catch (e) { return new Set(); }
 }
 
 function isSeen(id) { return SEEN.has(id); }
@@ -1853,6 +1871,8 @@ function markSeen(id) {
   render();
 }
 
+// Declared after DATA (embedded above) because the first-run backfill in
+// loadSeen() reads it.
 const SEEN = loadSeen();
 
 // An answered thread the viewer has not dismissed yet. The owner has no
