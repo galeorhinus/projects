@@ -46,10 +46,14 @@ Parag
 ## Follow-Up Sequence
 
 1. Send the first email without attaching the manuscript.
-2. If she expresses interest, send the short overview in `manjeet_kripalani_short_note.md`.
-3. Let her respond to the argument before asking for help with public positioning.
-4. If she engages strongly, ask for her judgment about the right publisher and the people who should see the manuscript.
-5. Discuss an essay, editorial introduction, or Gateway House conversation only after that exchange.
+2. She expressed interest on 2026-08-31 and invited Parag to visit the Gateway House office at Wankhede Stadium. Parag is unlikely to be able to visit during this trip.
+3. Send the three-document introductory packet:
+   - `manjeet_kripalani/as_overview.md`
+   - `../../articles/order_without_an_apex.md`
+   - `../../articles/vedas_distributed_calibrant.md`
+4. Let her respond to the argument before asking for help with public positioning.
+5. If she engages strongly, ask for her judgment about the right publisher and the people who should see the manuscript.
+6. Discuss an essay, editorial introduction, or Gateway House conversation only after that exchange.
 
 ## Public References
 
@@ -60,4 +64,5 @@ Parag
 
 | Date | Action | Notes | Next Step |
 |---|---|---|---|
-| | | | |
+| 2026-08-31 | Sent first email | Reconnected through the earlier Gateway House and “inverting the pyramid” conversation. | Await response. |
+| 2026-08-31 | Manjeet replied | She would like to hear about the book and invited Parag to the Gateway House office at Wankhede Stadium. | Explain that an in-person visit is unlikely and send the overview with two essays. |
