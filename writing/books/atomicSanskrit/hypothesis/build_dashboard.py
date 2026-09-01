@@ -247,6 +247,11 @@ def main() -> int:
 
     own_reply_status: dict[str, str] = {}
     parent_status: dict[str, str] = {}
+    # When the status was set — the created time of the message that decided
+    # it. The reader view needs this to sort the resolved archive by "most
+    # recently answered" rather than by when the annotation was written,
+    # which is what made unhiding resolved dump an undifferentiated pile.
+    parent_status_at: dict[str, str] = {}
     for root_id, msgs in threads.items():
         msgs.sort(key=lambda m: m["created"])
         for m in msgs:
@@ -260,8 +265,10 @@ def main() -> int:
             matched = next((t for t in STATUS_TAGS if t in last.get("tags", [])), None)
             if matched:
                 parent_status[root_id] = matched
+                parent_status_at[root_id] = last["created"]
         elif any(m["user"] == OWNER_USER for m in msgs):
             parent_status[root_id] = "reader-replied"
+            parent_status_at[root_id] = last["created"]
 
     def status_of(annotation_id: str) -> str | None:
         return own_reply_status.get(annotation_id) or parent_status.get(annotation_id)
@@ -317,6 +324,7 @@ def main() -> int:
             "link": annotation_link(a["id"], a["uri"]),
             "status": status,
             "resolved": status in ("resolved", "acknowledged"),
+            "status_at": parent_status_at.get(a["id"]) if not is_reply else None,
             "todo_note": todo_notes.get(a["id"]),
         })
 
@@ -859,6 +867,47 @@ main {
   border-radius: 999px;
   padding: 1px 8px;
 }
+.unseen-answers {
+  align-self: center;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--c-resolved-fg, #6bbf7b);
+}
+
+/* An answered thread the reader has not dismissed. Deliberately NOT
+   dimmed the way .is-resolved is — this is the card they came back for. */
+.card.is-unseen-answer {
+  border-left: 3px solid var(--c-resolved-fg, #6bbf7b);
+  opacity: 1;
+}
+.answered-note {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin: 0 0 0.6rem;
+  padding: 0.45rem 0.65rem;
+  border-radius: 4px;
+  background: var(--c-resolved-bg, rgba(107, 191, 123, 0.12));
+}
+.answered-note-text {
+  flex: 1 1 12rem;
+  font-size: 0.85rem;
+  color: var(--c-resolved-fg, #6bbf7b);
+}
+.got-it-btn {
+  flex: 0 0 auto;
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.8rem;
+  padding: 0.2rem 0.7rem;
+  border-radius: 4px;
+  border: 1px solid var(--c-resolved-fg, #6bbf7b);
+  background: transparent;
+  color: var(--c-resolved-fg, #6bbf7b);
+}
+.got-it-btn:hover { background: var(--c-resolved-bg, rgba(107, 191, 123, 0.18)); }
+
 .resolved-badge {
   font-size: 0.72rem;
   font-weight: 600;
@@ -1261,6 +1310,7 @@ a { color: var(--accent); }
       <option value="user">By reader</option>
     </select>
     <button class="chip active" id="resolved-toggle">Hide resolved<span class="n" id="resolved-count"></span></button>
+    <span class="unseen-answers" id="unseen-answers" hidden></span>
   </div>
 </div>
 
@@ -1414,7 +1464,9 @@ function matches(a) {
   } else if (state.statusFilter) {
     if (a.status !== state.statusFilter) return false;
   }
-  if (state.hideResolved && a.resolved) return false;
+  // Never hide an answer the reader has not acknowledged yet — that is
+  // the one thing they came back to see.
+  if (state.hideResolved && a.resolved && !isUnseenAnswer(a)) return false;
   if (state.readers.size && !state.readers.has(a.user)) return false;
   if (state.chapter && a.chapter !== state.chapter) return false;
   if (state.tags.size) {
@@ -1440,12 +1492,29 @@ function matches(a) {
 const STATUS_SORT_WEIGHT = { "reader-replied": 0, "awaiting-reader": 2 };
 function statusWeight(a) { return STATUS_SORT_WEIGHT[a.status] ?? 1; }
 
+// Undismissed answers first, whatever else the sort says — they are a
+// notification, and a notification sorted into the middle of a long list
+// by its original annotation date is not one. Everything below them keeps
+// the chosen ordering exactly as before.
+function answerRank(a) { return isUnseenAnswer(a) ? 0 : 1; }
+
+// Within the resolved archive, order by WHEN IT WAS ANSWERED rather than
+// when the annotation was written. Unhiding used to interleave a reply
+// posted this morning among comments from months ago, sorted by the
+// comment's own date, which is what made the archive feel like a dump.
+function answeredAt(a) { return a.status_at || a.created; }
+
 function sortRows(rows) {
   const s = [...rows];
-  if (state.sort === "date-desc") s.sort((a, b) => statusWeight(a) - statusWeight(b) || b.created.localeCompare(a.created));
-  else if (state.sort === "date-asc") s.sort((a, b) => statusWeight(a) - statusWeight(b) || a.created.localeCompare(b.created));
-  else if (state.sort === "chapter") s.sort((a, b) => a.chapter.localeCompare(b.chapter) || b.created.localeCompare(a.created));
-  else if (state.sort === "user") s.sort((a, b) => a.user.localeCompare(b.user) || b.created.localeCompare(a.created));
+  const seenResolved = (a) => a.resolved && !isUnseenAnswer(a);
+  const byAnswered = (a, b) => {
+    if (seenResolved(a) && seenResolved(b)) return answeredAt(b).localeCompare(answeredAt(a));
+    return 0;
+  };
+  if (state.sort === "date-desc") s.sort((a, b) => answerRank(a) - answerRank(b) || statusWeight(a) - statusWeight(b) || byAnswered(a, b) || b.created.localeCompare(a.created));
+  else if (state.sort === "date-asc") s.sort((a, b) => answerRank(a) - answerRank(b) || statusWeight(a) - statusWeight(b) || byAnswered(a, b) || a.created.localeCompare(b.created));
+  else if (state.sort === "chapter") s.sort((a, b) => answerRank(a) - answerRank(b) || a.chapter.localeCompare(b.chapter) || b.created.localeCompare(a.created));
+  else if (state.sort === "user") s.sort((a, b) => answerRank(a) - answerRank(b) || a.user.localeCompare(b.user) || b.created.localeCompare(a.created));
   return s;
 }
 
@@ -1488,11 +1557,14 @@ function threadMessageHTML(m) {
 // a native <details> (no JS state to track across re-renders); opened
 // automatically for the one card the reader just replied to, via
 // state.justPostedId (cleared at the end of render() so it only
-// applies to the render that immediately follows a post).
+// applies to the render that immediately follows a post), and for an
+// answer the reader has not dismissed yet — telling them a thread was
+// answered while leaving the answer folded away behind a summary would
+// reproduce the problem this is meant to fix.
 function threadHTML(a) {
   if (!a.thread || !a.thread.length) return "";
   const n = a.thread.length;
-  const openAttr = state.justPostedId === a.id ? " open" : "";
+  const openAttr = (state.justPostedId === a.id || isUnseenAnswer(a)) ? " open" : "";
   return `<details class="thread"${openAttr}>
     <summary>${n} repl${n === 1 ? "y" : "ies"} — show conversation</summary>
     <div class="thread-messages">${a.thread.map(threadMessageHTML).join("")}</div>
@@ -1587,7 +1659,18 @@ function cardHTML(a) {
          </div>`
   );
   const copyBtn = (!IS_OWNER || a.reply) ? "" : `<button class="copy-todo-btn" onclick="copyAsTodo('${a.id}', this)" title="Copy as a markdown TODO line">📋 Copy</button>`;
-  return `<article class="card${a.resolved ? " is-resolved" : ""}" id="card-${a.id}">
+  // An undismissed answer says so on the card and carries its own
+  // dismissal. Rendered full-strength: the is-resolved class dims a card,
+  // which is right for the archive and wrong for the one card the reader
+  // is meant to read.
+  const unseen = isUnseenAnswer(a);
+  const answeredNote = !unseen ? "" : `
+      <div class="answered-note">
+        <span class="answered-note-text">Answered — ${escapeHTML(a.status === "acknowledged" ? "your note was acknowledged" : "this was marked resolved")}. The reply is below.</span>
+        <button class="got-it-btn" onclick="markSeen('${a.id}')">Got it</button>
+      </div>`;
+  return `<article class="card${a.resolved && !unseen ? " is-resolved" : ""}${unseen ? " is-unseen-answer" : ""}" id="card-${a.id}">
+    ${answeredNote}
     <div class="meta">
       <span class="user">${escapeHTML(a.user)}</span>${(VIEWER_SELF && a.user === VIEWER_SELF) ? '<span class="you-badge">you</span>' : ""}
       <span class="sep">·</span>
@@ -1739,6 +1822,46 @@ async function saveReaderToken() {
 // then dropped as soon as the real pull includes it. Self-healing, no
 // server involvement, and it degrades to exactly the old behaviour if
 // localStorage is unavailable.
+// Which answered threads THIS viewer has already been shown and
+// dismissed. "Resolved" is an owner-side workflow state — it says the
+// owner is done, not that the reader has seen the answer, and those are
+// different moments. Hiding on `resolved` alone meant the reader's card
+// and the owner's reply vanished together, so the reader never saw the
+// response at all; and unhiding brought back every resolution ever made.
+//
+// Dismissal is explicit (a "Got it" button), not marked on scroll: a
+// reader skimming the page should not silently lose the one notification
+// they came back for.
+//
+// Per-browser, like the token and pending replies above. A reader using
+// a phone and a laptop dismisses twice, and clearing site data brings the
+// answered cards back — both harmless, which is why this is worth doing
+// client-side rather than adding reader-writable server state.
+const SEEN_KEY = "as_seen_answers";
+
+function loadSeen() {
+  try { return new Set(JSON.parse(localStorage.getItem(SEEN_KEY) || "[]")); }
+  catch (e) { return new Set(); }
+}
+
+function isSeen(id) { return SEEN.has(id); }
+
+function markSeen(id) {
+  SEEN.add(id);
+  try { localStorage.setItem(SEEN_KEY, JSON.stringify([...SEEN])); } catch (e) {}
+  renderStats();
+  render();
+}
+
+const SEEN = loadSeen();
+
+// An answered thread the viewer has not dismissed yet. The owner has no
+// use for this — for them "resolved" means cleared — so it is reader-only
+// and the owner's queue behaves exactly as before.
+function isUnseenAnswer(a) {
+  return !IS_OWNER && a.resolved && !isSeen(a.id);
+}
+
 const PENDING_KEY = "as_pending_replies";
 
 function loadPending() {
@@ -2144,7 +2267,19 @@ function renderStats() {
   // The toggle hides anything a.resolved (resolved OR acknowledged --
   // both closed states), so its count reflects that, not the
   // "Resolved" stat tile above (which is resolved-only for clarity).
-  document.getElementById("resolved-count").textContent = DATA.filter(a => !a.reply && a.resolved).length;
+  // Count what the toggle actually hides, not every resolved thread:
+  // an undismissed answer stays on screen regardless, so including it
+  // here would promise to hide something that then does not move.
+  const hideable = DATA.filter(a => !a.reply && a.resolved && !isUnseenAnswer(a));
+  document.getElementById("resolved-count").textContent = hideable.length;
+  const unseenCount = DATA.filter(a => !a.reply && isUnseenAnswer(a)).length;
+  const banner = document.getElementById("unseen-answers");
+  if (banner) {
+    banner.textContent = unseenCount
+      ? `${unseenCount} new ${unseenCount === 1 ? "answer" : "answers"} to your notes`
+      : "";
+    banner.hidden = !unseenCount;
+  }
 }
 
 function render() {
