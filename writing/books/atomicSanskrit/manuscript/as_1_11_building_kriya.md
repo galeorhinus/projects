@@ -4,7 +4,7 @@
 
 Chapter 10 established the **धातुः (*dhātuḥ*)** as Sanskrit's semantic atom. The atom contains core meaning, but Sanskrit does not use a धातुः (*dhātuḥ*) directly inside a sentence.[NOTE: apadam-constraint] Like an atom in chemistry, it must combine before it can function as a word. Additional sonomers attach to it, and it becomes a verb, a noun, or an adjective. This chapter follows one of those routes: the engineering through which a धातुः (*dhātuḥ*) becomes a completed verb.
 
-For example, **⟪इ⟫ (*i*)** is a धातुः (*dhātuḥ*) meaning *to go*. It does not yet tell the listener who goes or how many people go. It also lacks the ending required to function as a verb in a sentence. **एति (*eti*)** is one verb built from that atom. It means *he, she, or it goes*.
+For example, **⟪इ⟫ (*i*)** is a धातुः (*dhātuḥ*) meaning *to go*. It does not yet tell the listener who goes, how many people go, when the going occurs, or whether the speaker reports it, commands it, wishes for it, or presents it as a possibility. It also lacks the ending required to function as a verb in a sentence. **एति (*eti*)** is one verb built from that atom. It means *he, she, or it goes*.
 
 Sanskrit builds this information into the completed verb as part of the engineering that permits free word order. The verb identifies whether the action belongs to the speaker, the person addressed, or someone being described. It also identifies how many perform the action. Other words receive endings that identify their roles in the sentence. The sentence therefore carries its grammatical relations inside the completed words instead of assigning them through a fixed sequence.
 
