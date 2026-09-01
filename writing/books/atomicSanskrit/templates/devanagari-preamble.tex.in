@@ -17,6 +17,7 @@
 %     font selection).
 
 \usepackage{fontspec}
+\usepackage{graphicx}
 \usepackage{caption}
 \usepackage[normalem]{ulem}
 

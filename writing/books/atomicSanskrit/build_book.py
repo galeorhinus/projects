@@ -31,6 +31,7 @@ Usage:
   python3 build_book.py reference --layout trade     # Source and Reference Companion as standalone PDF
   python3 build_book.py convert reference/as_thesis_summary.md        # any .md → build/<name>.pdf (letter)
   python3 build_book.py convert notes.md --layout a4                  # A4 page size
+  python3 build_book.py convert notes.md --layout review-a4           # A4 review handout
   python3 build_book.py convert notes.md -o out.pdf                   # custom output path
 
 Layouts:
@@ -209,6 +210,13 @@ LAYOUTS = {
     "a4": {
         "geometry": "a4paper,inner=1.125in,outer=1in,top=0.60in,bottom=0.40in",
         "fontsize": "10.5pt",
+        "linestretch": "1.15",
+    },
+    # Comfortable A4 handout for pre-publication readers. The wider margins
+    # keep the line length readable when the PDF is printed at full size.
+    "review-a4": {
+        "geometry": "a4paper,left=30mm,right=30mm,top=24mm,bottom=24mm",
+        "fontsize": "11.5pt",
         "linestretch": "1.15",
     },
     "b5": {
@@ -1745,6 +1753,8 @@ def cmd_pdf(layout: str = "letter", endnotes_mode: str = "full",
         "-V", f"linestretch={linestretch}",
         "-H", str(generated_preamble),
     ]
+    if layout == "review-a4":
+        cmd += ["-H", str(BOOK_DIR / "templates" / "review-packet-preamble.tex")]
     cmd += fontsize_cli_args(fontsize, "book")
     cmd += mainfont_cli_args(METADATA_FILE)
 
@@ -1975,6 +1985,8 @@ def cmd_convert(input_arg: str | None, layout: str = "letter", output_arg: str |
         "-V", f"linestretch={linestretch}",
         "-H", str(generated_preamble),
     ]
+    if layout == "review-a4":
+        cmd += ["-H", str(BOOK_DIR / "templates" / "review-packet-preamble.tex")]
     cmd += fontsize_cli_args(fontsize, "article")
     cmd += mainfont_cli_args(METADATA_FILE)
     print(
@@ -2029,7 +2041,7 @@ def main() -> int:
         choices=list(LAYOUTS),
         default="letter",
         help="PDF page layout (default: letter). Applies to pdf/all/reference/convert. "
-             "For 'convert', letter and a4 are the usual page sizes.",
+             "For 'convert', review-a4 is intended for printable reader packets.",
     )
     parser.add_argument(
         "--endnotes",

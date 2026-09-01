@@ -18,6 +18,13 @@ __pycache__/
 # build_html.py; never commit build/ output again.
 build/
 
+# Same rule, different directory: output/ holds generated reader-packet
+# PDFs (build_book.py convert --layout review-a4). They rebuild from the
+# markdown in outreach/articles/, which IS tracked, so committing the
+# rendered copies buys nothing and re-creates the pull conflict described
+# above the moment two machines render the same packet.
+output/
+
 # Secrets. hypothesis/token.txt has its own hypothesis/.gitignore entry;
 # these cover the server/ side and any future *_token.txt / *_api_token.txt
 # dropped anywhere in the tree. A Hypothesis personal API token is
