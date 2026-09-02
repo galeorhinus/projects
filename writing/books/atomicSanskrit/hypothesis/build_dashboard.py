@@ -874,6 +874,18 @@ main {
   color: var(--c-resolved-fg, #6bbf7b);
 }
 
+/* Inline action inside an empty-state line. */
+.link-btn {
+  cursor: pointer;
+  font: inherit;
+  font-size: inherit;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--c-resolved-fg, #6bbf7b);
+  text-decoration: underline;
+}
+
 /* A thread awaiting this reader's response. Uses the same colour token as
    the awaiting badge, so a request reads as a distinct signal from the
    green "answered" banner rather than a second copy of it. */
@@ -1362,7 +1374,12 @@ const state = {
   chapter: "",
   tags: new Set(),
   sort: "date-desc",
-  hideResolved: true,
+  // Opposite defaults on purpose. For the owner "resolved" means cleared,
+  // so hiding it is the working queue. For a reader it means answered —
+  // the record they came to read. Defaulting both to true emptied the page
+  // for any reader whose notes were all answered: the tile said "1 replies
+  // to your notes" while the body said no annotations matched.
+  hideResolved: IS_OWNER,
   statusFilter: null,  // null | "unresolved" | "resolved" | "acknowledged" | "awaiting-reader" | "reader-replied"
   justPostedId: null,  // annotation id whose <details class="thread"> should render open on the next render() only -- see postReply()
 };
@@ -2353,6 +2370,28 @@ function renderStats() {
   }
 }
 
+// "No annotations match the current filters" is true but useless when the
+// filter doing the hiding is the resolved toggle and everything is
+// resolved — the reader is told nothing matched, with no hint that their
+// answered notes are one click away.
+function emptyStateHTML() {
+  const hiddenResolved = DATA.filter(a => (!a.reply || a.orphan_reply) && a.resolved && !isUnseenAnswer(a)).length;
+  if (state.hideResolved && hiddenResolved) {
+    const s = hiddenResolved === 1 ? "" : "s";
+    return `<p class="empty">Nothing open right now — ${hiddenResolved} answered note${s} `
+         + `${hiddenResolved === 1 ? "is" : "are"} hidden. `
+         + `<button class="link-btn" onclick="showResolved()">Show answered notes</button></p>`;
+  }
+  return '<p class="empty">No annotations match the current filters.</p>';
+}
+
+function showResolved() {
+  state.hideResolved = false;
+  syncResolvedToggle();
+  renderStats();
+  render();
+}
+
 function render() {
   // Replies that landed in a thread are shown nested inside their
   // root's "show conversation" toggle (threadHTML above), not as their
@@ -2364,7 +2403,7 @@ function render() {
   const main = document.getElementById("main");
   main.innerHTML = rows.length
     ? rows.map(cardHTML).join("")
-    : '<p class="empty">No annotations match the current filters.</p>';
+    : emptyStateHTML();
   state.justPostedId = null;
 }
 
@@ -2377,6 +2416,11 @@ document.getElementById("sort").addEventListener("change", e => {
   render();
 });
 const resolvedToggle = document.getElementById("resolved-toggle");
+
+function syncResolvedToggle() {
+  resolvedToggle.classList.toggle("active", state.hideResolved);
+  resolvedToggle.firstChild.textContent = state.hideResolved ? "Hide resolved" : "Show resolved";
+}
 resolvedToggle.addEventListener("click", () => {
   state.hideResolved = !state.hideResolved;
   // Hiding resolved/acknowledged while a status filter demands showing
@@ -2571,6 +2615,10 @@ if (!IS_OWNER && VIEWER.preview) {
 tickBuiltNote();
 setInterval(tickBuiltNote, 1000);
 
+// The button ships with class="chip active" and the "Hide resolved" label;
+// state decides, so sync the two before the first paint rather than leaving
+// a reader looking at an active toggle that is not actually on.
+syncResolvedToggle();
 mergePendingReplies();
 renderStats();
 buildReaderFilters();
