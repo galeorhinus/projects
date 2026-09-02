@@ -874,6 +874,25 @@ main {
   color: var(--c-resolved-fg, #6bbf7b);
 }
 
+/* A thread awaiting this reader's response. Uses the same colour token as
+   the awaiting badge, so a request reads as a distinct signal from the
+   green "answered" banner rather than a second copy of it. */
+.card.is-awaiting-reader {
+  border-left: 3px solid var(--c-clarify-fg);
+  opacity: 1;
+}
+.awaiting-note {
+  margin: 0 0 0.6rem;
+  padding: 0.45rem 0.65rem;
+  border-radius: 4px;
+  background: var(--c-clarify-bg);
+}
+.awaiting-note-text {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--c-clarify-fg);
+}
+
 /* An answered thread the reader has not dismissed. Deliberately NOT
    dimmed the way .is-resolved is — this is the card they came back for. */
 .card.is-unseen-answer {
@@ -1496,7 +1515,13 @@ function statusWeight(a) { return STATUS_SORT_WEIGHT[a.status] ?? 1; }
 // notification, and a notification sorted into the middle of a long list
 // by its original annotation date is not one. Everything below them keeps
 // the chosen ordering exactly as before.
-function answerRank(a) { return isUnseenAnswer(a) ? 0 : 1; }
+// A request for the reader outranks a notification to them; both outrank
+// ordinary cards.
+function answerRank(a) {
+  if (isAwaitingReader(a)) return 0;
+  if (isUnseenAnswer(a)) return 1;
+  return 2;
+}
 
 // Within the resolved archive, order by WHEN IT WAS ANSWERED rather than
 // when the annotation was written. Unhiding used to interleave a reply
@@ -1564,7 +1589,7 @@ function threadMessageHTML(m) {
 function threadHTML(a) {
   if (!a.thread || !a.thread.length) return "";
   const n = a.thread.length;
-  const openAttr = (state.justPostedId === a.id || isUnseenAnswer(a)) ? " open" : "";
+  const openAttr = (state.justPostedId === a.id || isUnseenAnswer(a) || isAwaitingReader(a)) ? " open" : "";
   return `<details class="thread"${openAttr}>
     <summary>${n} repl${n === 1 ? "y" : "ies"} — show conversation</summary>
     <div class="thread-messages">${a.thread.map(threadMessageHTML).join("")}</div>
@@ -1664,13 +1689,19 @@ function cardHTML(a) {
   // which is right for the archive and wrong for the one card the reader
   // is meant to read.
   const unseen = isUnseenAnswer(a);
+  const awaiting = isAwaitingReader(a);
+  // No dismissal here on purpose — replying is what clears it.
+  const awaitingNote = !awaiting ? "" : `
+      <div class="awaiting-note">
+        <span class="awaiting-note-text">Your response is needed on this note — the reply is below.</span>
+      </div>`;
   const answeredNote = !unseen ? "" : `
       <div class="answered-note">
         <span class="answered-note-text">Answered — ${escapeHTML(a.status === "acknowledged" ? "your note was acknowledged" : "this was marked resolved")}. The reply is below.</span>
         <button class="got-it-btn" onclick="markSeen('${a.id}')">Got it</button>
       </div>`;
-  return `<article class="card${a.resolved && !unseen ? " is-resolved" : ""}${unseen ? " is-unseen-answer" : ""}" id="card-${a.id}">
-    ${answeredNote}
+  return `<article class="card${a.resolved && !unseen ? " is-resolved" : ""}${unseen ? " is-unseen-answer" : ""}${awaiting ? " is-awaiting-reader" : ""}" id="card-${a.id}">
+    ${awaitingNote}${answeredNote}
     <div class="meta">
       <span class="user">${escapeHTML(a.user)}</span>${(VIEWER_SELF && a.user === VIEWER_SELF) ? '<span class="you-badge">you</span>' : ""}
       <span class="sep">·</span>
@@ -1880,6 +1911,26 @@ const SEEN = loadSeen();
 // and the owner's queue behaves exactly as before.
 function isUnseenAnswer(a) {
   return !IS_OWNER && a.resolved && !isSeen(a.id);
+}
+
+// A thread whose last word is ours, tagged awaiting-reader: we have asked
+// this reader for something and have not had it.
+//
+// Deliberately NOT folded into isUnseenAnswer(). "Here is your answer,
+// acknowledge it" and "I need something from you" are different asks, and
+// one banner style for both weakens each. It also needs no seen-state at
+// all: the status clears itself, because a reply from anyone but the owner
+// makes them the latest message in the thread and the status becomes
+// reader-replied (see the status derivation in this file). So there is
+// nothing to dismiss, nothing to store, and no first-run backfill problem
+// for this class.
+//
+// Note awaiting-reader is not part of a.resolved, so it was never hidden
+// by the Hide-resolved toggle and was never seeded by the backfill. It was
+// visible all along — just not surfaced, sorted in by date like any other
+// card, which is backwards for the one item asking the reader to act.
+function isAwaitingReader(a) {
+  return !IS_OWNER && a.status === "awaiting-reader";
 }
 
 const PENDING_KEY = "as_pending_replies";
