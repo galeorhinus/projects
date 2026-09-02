@@ -1433,9 +1433,14 @@ function fmtAgo(iso) {
 function uniqueSorted(arr) { return [...new Set(arr)].sort(); }
 
 function buildReaderFilters() {
+  // Root annotations only — replies are not reader content, the same rule
+  // renderStats() states and every other count on this page follows. Counting
+  // replies here inflated each chip by however many times a thread had been
+  // answered: a reader with one note and two replies under it read as "3".
   const counts = {};
-  DATA.forEach(a => counts[a.user] = (counts[a.user] || 0) + 1);
-  const readers = uniqueSorted(DATA.map(a => a.user));
+  const roots = DATA.filter(a => !a.reply || a.orphan_reply);
+  roots.forEach(a => counts[a.user] = (counts[a.user] || 0) + 1);
+  const readers = uniqueSorted(roots.map(a => a.user));
   const el = document.getElementById("reader-filters");
   el.innerHTML = '<span class="row-label">Reader</span>';
   readers.forEach(r => {
@@ -2325,7 +2330,9 @@ function renderStats() {
       <div class="hero-stat hero-static">
         <span class="hero-n">${answered}</span>
         <span class="hero-label">${VIEWER_SELF ? "replies to your notes" : "notes with replies"}</span>
-        <span class="hero-total">${VIEWER_SELF ? `of your ${mine.length}` : `of ${total}`} in ${escapeHTML(VIEWER.group || "this group")}</span>
+        <span class="hero-total">${VIEWER_SELF
+            ? `of your ${mine.length} · ${total} shown from ${escapeHTML(VIEWER.group || "this group")}`
+            : `of ${total} in ${escapeHTML(VIEWER.group || "this group")}`}</span>
       </div>`;
   }
 
